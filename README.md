@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-22 07:13:11，:rocket: 更新条数: +1602， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-22 07:21:36，:rocket: 更新条数: +1603， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,8 @@
 </summary>
 
 
+- [2021-12-22-请教：戴尔服务器硬件检测中出现错误信息是什么意思](https://www.v2ex.com/t/823766) ![](assets/new.png)  
+- [2021-12-22-V-友们，问下有没有色彩搭配的网站的](https://www.v2ex.com/t/823765) ![](assets/new.png)  
 - [2021-12-22-Pycharm-突然卡爆求救，之前用的还很好，现在随便动一动就卡死](https://www.v2ex.com/t/823764) ![](assets/new.png)  
 - [2021-12-22-prisma-连-mssql-报这个错误，请问有没有前辈知道怎么回事呢？](https://www.v2ex.com/t/823763) ![](assets/new.png)  
 - [2021-12-22-上海有平价的小商场吗？衣服价位不过千的那种](https://www.v2ex.com/t/823762) ![](assets/new.png)  
@@ -512,8 +514,6 @@
 - [2021-12-22-这几天苦瓜吃多了，来个甜瓜：-Chrome-正在测试新下载-UI](https://www.v2ex.com/t/823741) ![](assets/new.png)  
 - [2021-12-22-小米手机真的不行吗](https://www.v2ex.com/t/823739) ![](assets/new.png)  
 - [2021-12-22-移动端-H5-调试你们用什么方式方法？](https://www.v2ex.com/t/823736) ![](assets/new.png)  
-- [2021-12-22-公司从十月开始定了-8-台-MacBook-Pro-14"，直营店陆续提货，总结下今年的做工](https://www.v2ex.com/t/823735) ![](assets/new.png)  
-- [2021-12-22-想问下各位-V-站大佬有没有面过野村证券](https://www.v2ex.com/t/823734) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

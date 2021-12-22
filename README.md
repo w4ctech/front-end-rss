@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-22 10:25:02，:rocket: 更新条数: +1614， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-22 10:42:59，:rocket: 更新条数: +1615， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -66,14 +66,15 @@
 
 
 - [2021-12-22-12月21日全国新增新冠77例-四省份本土57例](https://m.caixin.com/m/2021-12-22/101820579.html) ![](assets/new.png)  
+- [2021-12-22-陕西疫情累计扩散至4省6地-西安非必要离市人员将被劝返](https://m.caixin.com/m/2021-12-22/101820941.html) ![](assets/new.png)  
 - [2021-12-22-加强针能否应对奥密克戎？专家指“混打”或效果更优](https://m.caixin.com/m/2021-12-22/101820618.html) ![](assets/new.png)  
 - [2021-12-22-【境内疫情观察】陕西新增53例本土病例（12月21日）](https://database.caixin.com/m/2021-12-22/101820847.html) ![](assets/new.png)  
 - [2021-12-22-Omicron成为美国主要毒株-多国家缩短加强针间隔时间｜大流行手记（12月21日）](https://m.caixin.com/m/2021-12-22/101820624.html) ![](assets/new.png)  
 - [2021-12-21-西安疫情进入病例报告高峰期，透析患者再现就医难题](https://m.caixin.com/m/2021-12-21/101820494.html) ![](assets/new.png)  
-- [2021-12-21-英美Omicron威胁使圣诞防疫陷两难-谭德塞吁在2022年终止疫情](https://international.caixin.com/m/2021-12-21/101820545.html) ![](assets/new.png)  
 - [2021-12-21-最新海外疫情：新冠感染超2.74亿-累计接种新冠疫苗超87.13亿剂次](https://m.caixin.com/m/2021-12-21/101820433.html) ![](assets/new.png)  
 - [2021-12-21-【境内疫情观察】全国新增57例本土病例（12月20日）](https://database.caixin.com/m/2021-12-21/101820393.html) ![](assets/new.png)  
 - [2021-12-21-Moderna称加强针有效保护Omicron-欧盟批准Novavax疫苗｜大流行手记（12月20日）](https://m.caixin.com/m/2021-12-21/101820187.html) ![](assets/new.png)  
+- [2021-12-21-英美Omicron威胁使圣诞防疫陷两难-谭德塞吁在2022年终止疫情](https://international.caixin.com/m/2021-12-21/101820545.html) ![](assets/new.png)  
 - [2021-12-20-西安疫情日新增翻倍-元旦春节期间跨省旅游实行“熔断”](https://m.caixin.com/m/2021-12-20/101820083.html) ![](assets/new.png)  
 - [2021-12-20-【境内疫情观察】全国新增37例本土病例（12月19日）](https://database.caixin.com/m/2021-12-20/101819939.html) ![](assets/new.png)  
 - [2021-12-20-新变种社区传播3天感染翻倍，辉瑞低龄童疫苗效果不佳｜大流行手记（12月19日）](https://m.caixin.com/m/2021-12-20/101819769.html) ![](assets/new.png)  
@@ -84,7 +85,6 @@
 - [2021-12-18-【境内疫情观察】全国新增89例本土病例（12月17日）](https://database.caixin.com/m/2021-12-18/101819570.html) ![](assets/new.png)  
 - [2021-12-18-研究称Omicron更容易再次感染-澳大利亚感染破纪录｜大流行手记（12月17日）](https://m.caixin.com/m/2021-12-18/101819454.html) ![](assets/new.png)  
 - [2021-12-17-浙江疫情累计确诊421例-西安-东莞传播链已27例感染](https://m.caixin.com/m/2021-12-17/101819344.html) ![](assets/new.png)  
-- [2021-12-17-民航再受疫情冲击-北上广深机场11月客运量大跌](https://companies.caixin.com/m/2021-12-17/101819190.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -494,6 +494,8 @@
 </summary>
 
 
+- [2021-12-22-puppeteer-加载网页失败](https://www.v2ex.com/t/823827) ![](assets/new.png)  
+- [2021-12-22-如何关闭-edge-浏览器将地址栏的搜索内容当作网址的-feature](https://www.v2ex.com/t/823826) ![](assets/new.png)  
 - [2021-12-22-天天在群里摸鱼吹牛逼，听到别人说什么‘yyds’，‘凡尔赛’，‘-小猫咪能有什么坏心思呢？’，都不知道啥意思，怎么就有这个梗了呢，感觉自己有点-out-了。然后...](https://www.v2ex.com/t/823824) ![](assets/new.png)  
 - [2021-12-22-Apple-Watch-升级-watchOS-8.3-后，第三方充电器失效](https://www.v2ex.com/t/823820) ![](assets/new.png)  
 - [2021-12-22-无追搜索改版，不追踪用户的隐私保护搜索，欢迎体验+吐槽](https://www.v2ex.com/t/823819) ![](assets/new.png)  
@@ -512,8 +514,6 @@
 - [2021-12-22-Apple-Watch-的模块表盘日期只有日不显示月份](https://www.v2ex.com/t/823804) ![](assets/new.png)  
 - [2021-12-22-requests-用-post-获取数据，当数值发生变化时打印记录](https://www.v2ex.com/t/823803) ![](assets/new.png)  
 - [2021-12-22-12-21-活期季度结息大家结算了多少？](https://www.v2ex.com/t/823802) ![](assets/new.png)  
-- [2021-12-22-联发科天玑-9000-规格-处理器-超大核-x1-应为-x2](https://www.v2ex.com/t/823801) ![](assets/new.png)  
-- [2021-12-22-跨年，大家过过最有意思的跨年夜是在哪呢？](https://www.v2ex.com/t/823799) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

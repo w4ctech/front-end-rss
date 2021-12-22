@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-12-22 10:25:02。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-22 10:42:59。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -6,14 +6,15 @@
 
 
 - [2021-12-22-12月21日全国新增新冠77例-四省份本土57例](https://m.caixin.com/m/2021-12-22/101820579.html) 
+- [2021-12-22-陕西疫情累计扩散至4省6地-西安非必要离市人员将被劝返](https://m.caixin.com/m/2021-12-22/101820941.html) 
 - [2021-12-22-加强针能否应对奥密克戎？专家指“混打”或效果更优](https://m.caixin.com/m/2021-12-22/101820618.html) 
 - [2021-12-22-【境内疫情观察】陕西新增53例本土病例（12月21日）](https://database.caixin.com/m/2021-12-22/101820847.html) 
 - [2021-12-22-Omicron成为美国主要毒株-多国家缩短加强针间隔时间｜大流行手记（12月21日）](https://m.caixin.com/m/2021-12-22/101820624.html) 
 - [2021-12-21-西安疫情进入病例报告高峰期，透析患者再现就医难题](https://m.caixin.com/m/2021-12-21/101820494.html) 
-- [2021-12-21-英美Omicron威胁使圣诞防疫陷两难-谭德塞吁在2022年终止疫情](https://international.caixin.com/m/2021-12-21/101820545.html) 
 - [2021-12-21-最新海外疫情：新冠感染超2.74亿-累计接种新冠疫苗超87.13亿剂次](https://m.caixin.com/m/2021-12-21/101820433.html) 
 - [2021-12-21-【境内疫情观察】全国新增57例本土病例（12月20日）](https://database.caixin.com/m/2021-12-21/101820393.html) 
 - [2021-12-21-Moderna称加强针有效保护Omicron-欧盟批准Novavax疫苗｜大流行手记（12月20日）](https://m.caixin.com/m/2021-12-21/101820187.html) 
+- [2021-12-21-英美Omicron威胁使圣诞防疫陷两难-谭德塞吁在2022年终止疫情](https://international.caixin.com/m/2021-12-21/101820545.html) 
 - [2021-12-20-西安疫情日新增翻倍-元旦春节期间跨省旅游实行“熔断”](https://m.caixin.com/m/2021-12-20/101820083.html) 
 - [2021-12-20-【境内疫情观察】全国新增37例本土病例（12月19日）](https://database.caixin.com/m/2021-12-20/101819939.html) 
 - [2021-12-20-新变种社区传播3天感染翻倍，辉瑞低龄童疫苗效果不佳｜大流行手记（12月19日）](https://m.caixin.com/m/2021-12-20/101819769.html) 
@@ -1532,8 +1533,6 @@
 - [2021-12-22-请-IOS-开发的同学进来解答下](https://www.v2ex.com/t/823780) 
 - [2021-12-22-Spring-boot-学-CommandLineRunner-的时候发生的一件神奇的事情，这怎么解释？](https://www.v2ex.com/t/823779) 
 - [2021-12-22-这种场景是否能把-etcd/consul-当做“分布式数据库”？](https://www.v2ex.com/t/823778) 
-- [2021-12-22-求安稳睡眠方法](https://www.v2ex.com/t/823777) 
-- [2021-12-22-记录我的第一次换胎—XT4-右前轮花费-1700](https://www.v2ex.com/t/823776) 
 - [2021-12-22-探索式测试的若干问题-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14862&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fexploratory-testing-things%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2021-12-22-谷歌-Android-12-Go-正式发布！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14861&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FfoPxB8GEHsK4INCPCQ0ryw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2021-12-22-高级程序员进化史-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14859&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247492747%26amp%3Bidx%3D1%26amp%3Bsn%3D757f40800aa8fdcd3d0667f2faa7dc2d%26amp%3Bchksm%3Dfa3f05d0cd488cc651543991fb50f36dce656fde866f42cca58985306c331e939e90d7bc1e63%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1563,10 +1562,10 @@
 - [2021-12-22-崩溃的一天，西安一码通崩溃背后的技术问题。](https://toutiao.io/k/bp1ocxc) 
 - [2021-12-22-盘点2021，拥抱变化，不负韶华](https://toutiao.io/k/5y0o52u) 
 - [2021-12-22-从0开始设计Twitter系统架构](https://toutiao.io/k/3fie9ar) 
-- [2021-12-22-推荐-vivo-敏感词匹配系统的设计与实践](https://toutiao.io/k/hrnq79a) 
 - [2021-12-22-推荐-译-Go-并不需要-Java-风格的-GC](https://toutiao.io/k/ksd0hqy) 
-- [2021-12-22-推荐-这些年我用过的API文档工具，个个是精品！](https://toutiao.io/k/xt41e64) 
-- [2021-12-22-推荐-​Golang-并发编程指南](https://toutiao.io/k/adoo89l) 
-- [2021-12-22-推荐-Intellij-IDEA-神级插件！效率提升-10-倍！](https://toutiao.io/k/4iqf0c2) 
-- [2021-12-22-推荐-深入剖析全链路灰度技术内幕](https://toutiao.io/k/zimpz4c) 
 - [2021-12-22-推荐-一个技术团队leader的搭建私有知识库避坑经验分享](https://toutiao.io/k/o3dptn4) 
+- [2021-12-22-推荐-深入剖析全链路灰度技术内幕](https://toutiao.io/k/zimpz4c) 
+- [2021-12-22-推荐-这些年我用过的API文档工具，个个是精品！](https://toutiao.io/k/xt41e64) 
+- [2021-12-22-推荐-vivo-敏感词匹配系统的设计与实践](https://toutiao.io/k/hrnq79a) 
+- [2021-12-22-推荐-Intellij-IDEA-神级插件！效率提升-10-倍！](https://toutiao.io/k/4iqf0c2) 
+- [2021-12-22-推荐-​Golang-并发编程指南](https://toutiao.io/k/adoo89l) 

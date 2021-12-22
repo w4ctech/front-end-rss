@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-12-22 09:22:44。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-22 09:41:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1498,6 +1498,7 @@
 - [2021-12-17-科技爱好者周刊（第-188-期）：音乐是反社交](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-188.html) 
 - [2021-12-10-科技爱好者周刊（第-187-期）：元宇宙会成功吗](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-187.html) 
 - [2021-12-07-为什么-Web3-与区块链有关](http://www.ruanyifeng.com/blog/2021/12/web3.html) 
+- [2021-12-22-有没有小型主机支持-Windows/-Linux-双系统?](https://www.v2ex.com/t/823815) 
 - [2021-12-22-MAC-连接-AirPods-听歌，手机来电话，声音突然很大](https://www.v2ex.com/t/823814) 
 - [2021-12-22-你们使用到目前为止，硬盘写入量有多少呢？](https://www.v2ex.com/t/823812) 
 - [2021-12-22-摸鱼的时候又写了一个东西-->-唱片播放机](https://www.v2ex.com/t/823810) 
@@ -1533,8 +1534,6 @@
 - [2021-12-22-iPhone-13-将于明年-2-月在印度量产](https://www.v2ex.com/t/823773) 
 - [2021-12-22-Google-中文检索结果里发现了一个新的排名很高的垃圾站](https://www.v2ex.com/t/823770) 
 - [2021-12-22-有比树莓派更稳定的开发板或者小型服务器吗?](https://www.v2ex.com/t/823768) 
-- [2021-12-22-请教：戴尔服务器硬件检测中出现错误信息是什么意思](https://www.v2ex.com/t/823766) 
-- [2021-12-22-V-友们，问下有没有色彩搭配的网站的](https://www.v2ex.com/t/823765) 
 - [2021-12-22-探索式测试的若干问题-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14862&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fexploratory-testing-things%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2021-12-22-谷歌-Android-12-Go-正式发布！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14861&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FfoPxB8GEHsK4INCPCQ0ryw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2021-12-22-高级程序员进化史-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14859&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247492747%26amp%3Bidx%3D1%26amp%3Bsn%3D757f40800aa8fdcd3d0667f2faa7dc2d%26amp%3Bchksm%3Dfa3f05d0cd488cc651543991fb50f36dce656fde866f42cca58985306c331e939e90d7bc1e63%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1564,10 +1563,10 @@
 - [2021-12-22-崩溃的一天，西安一码通崩溃背后的技术问题。](https://toutiao.io/k/bp1ocxc) 
 - [2021-12-22-盘点2021，拥抱变化，不负韶华](https://toutiao.io/k/5y0o52u) 
 - [2021-12-22-从0开始设计Twitter系统架构](https://toutiao.io/k/3fie9ar) 
-- [2021-12-22-推荐-译-Go-并不需要-Java-风格的-GC](https://toutiao.io/k/ksd0hqy) 
-- [2021-12-22-推荐-一个技术团队leader的搭建私有知识库避坑经验分享](https://toutiao.io/k/o3dptn4) 
 - [2021-12-22-推荐-​Golang-并发编程指南](https://toutiao.io/k/adoo89l) 
-- [2021-12-22-推荐-这些年我用过的API文档工具，个个是精品！](https://toutiao.io/k/xt41e64) 
-- [2021-12-22-推荐-深入剖析全链路灰度技术内幕](https://toutiao.io/k/zimpz4c) 
+- [2021-12-22-推荐-一个技术团队leader的搭建私有知识库避坑经验分享](https://toutiao.io/k/o3dptn4) 
 - [2021-12-22-推荐-Intellij-IDEA-神级插件！效率提升-10-倍！](https://toutiao.io/k/4iqf0c2) 
+- [2021-12-22-推荐-这些年我用过的API文档工具，个个是精品！](https://toutiao.io/k/xt41e64) 
 - [2021-12-22-推荐-vivo-敏感词匹配系统的设计与实践](https://toutiao.io/k/hrnq79a) 
+- [2021-12-22-推荐-深入剖析全链路灰度技术内幕](https://toutiao.io/k/zimpz4c) 
+- [2021-12-22-推荐-译-Go-并不需要-Java-风格的-GC](https://toutiao.io/k/ksd0hqy) 

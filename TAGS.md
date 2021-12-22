@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-12-22 04:31:05。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-22 04:51:51。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -181,7 +181,6 @@
 - [【张鑫旭-鑫空间-鑫生活】从js-visibilitychange-Safari下无效说开去](https://www.zhangxinxu.com/wordpress/2021/11/js-visibilitychange-pagehide-lifecycle/)
 - [【张鑫旭-鑫空间-鑫生活】JS复制文字到剪切板的极简实现及扩展](https://www.zhangxinxu.com/wordpress/2021/10/js-copy-paste-clipboard/)
 - [【V2EX】滚动到顶-scrollTo0,-0-在用户浏览器页面正在滚动时不好用，有什么办法吗？](https://www.v2ex.com/t/823675)
-- [【V2EX】请问-有关于命令转发-开源组件实现吗](https://www.v2ex.com/t/823673)
 - [【开发者头条】无组件架构：你不需要知道的“新一代”前端架构模式](https://toutiao.io/k/s98rcms)
 - [......【查看更多】......](./details/tags/javascript.md)
 

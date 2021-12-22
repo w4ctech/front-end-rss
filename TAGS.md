@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-12-22 17:46:41。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-22 17:54:52。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -255,7 +255,6 @@
 
 
 - [【V2EX】前后端分离,前端做-SEO-的技术栈推荐什么？](https://www.v2ex.com/t/823849)
-- [【V2EX】puppeteer-加载网页失败](https://www.v2ex.com/t/823827)
 - [【开发者头条】超参数调优河伯、组合优化器CompBO，华为诺亚开源贝叶斯优化库](https://toutiao.io/k/wfk68yh)
 - [......【查看更多】......](./details/tags/optimization.md)
 

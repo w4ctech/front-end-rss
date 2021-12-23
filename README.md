@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-23 07:40:52，:rocket: 更新条数: +1611， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-23 07:54:30，:rocket: 更新条数: +1610， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,12 @@
 </summary>
 
 
+- [2021-12-23-MBP-为什么插着电源还是会用电池？](https://www.v2ex.com/t/824026) ![](assets/new.png)  
+- [2021-12-23-迫于最近维修一个-6T-的硬盘，花了快-4-倍的钱。来询问大家关于维修硬盘的看法](https://www.v2ex.com/t/824025) ![](assets/new.png)  
+- [2021-12-23-win11-这该死的任务栏消息提醒！](https://www.v2ex.com/t/824024) ![](assets/new.png)  
+- [2021-12-23-Sony-电视-USB-挂载硬盘如何写入硬盘文件](https://www.v2ex.com/t/824023) ![](assets/new.png)  
+- [2021-12-23-Macbook-M-1-pro-12.2-终于支持空间立体声了](https://www.v2ex.com/t/824021) ![](assets/new.png)  
+- [2021-12-23-finder-中移动硬盘图标丢失](https://www.v2ex.com/t/824020) ![](assets/new.png)  
 - [2021-12-23-NUC-放家里-7x24-当服务器能撑住吗?-以及什么配置性价比高一点,-偶尔切换到-Windows-打打小游戏](https://www.v2ex.com/t/824019) ![](assets/new.png)  
 - [2021-12-23-11.6.2-Mac-重按触控板进行查询翻译功能怎么唤不醒了？](https://www.v2ex.com/t/824017) ![](assets/new.png)  
 - [2021-12-23-求问一款-mmorpg-webgame-的地址，有点类似魔兽世界](https://www.v2ex.com/t/824015) ![](assets/new.png)  
@@ -508,12 +514,6 @@
 - [2021-12-23-北京高铁圈租房求推荐,-燕郊天津都可以,-偶尔来北京方便就行](https://www.v2ex.com/t/824005) ![](assets/new.png)  
 - [2021-12-23-Tabby，最近被吹的神乎其神的-SSH-客户端](https://www.v2ex.com/t/824004) ![](assets/new.png)  
 - [2021-12-23-珠海/广州/深圳-C+轮大数据和-AI-创业公司----内容理解和生产团队,-各-Level-前端/后端/算法/产品经理-HC](https://www.v2ex.com/t/824003) ![](assets/new.png)  
-- [2021-12-23-最近-mbp14-的产量似乎上来了，上海这边每隔几天就能看到线下直营店里有货](https://www.v2ex.com/t/824000) ![](assets/new.png)  
-- [2021-12-23-有没有可以溯源弹窗信息的软件？](https://www.v2ex.com/t/823999) ![](assets/new.png)  
-- [2021-12-23-请问-iOS-自带日历软件有没有遵循时区的「月相」订阅日历？](https://www.v2ex.com/t/823997) ![](assets/new.png)  
-- [2021-12-23-问各位大神一个关于-springboot-项目数据安全的问题](https://www.v2ex.com/t/823995) ![](assets/new.png)  
-- [2021-12-23-请问怎么注销-v2-账号，清空数据？](https://www.v2ex.com/t/823994) ![](assets/new.png)  
-- [2021-12-23-关于-Java-应用程序网络代理问题](https://www.v2ex.com/t/823992) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -571,11 +571,11 @@
 - [2021-12-23-探秘｜下一代微服务：Service-Mesh-初露头角的那一年](https://toutiao.io/k/cm2vr8o) ![](assets/new.png)  
 - [2021-12-23-利用-snapshot-进行集群迁移](https://toutiao.io/k/cbd0vuc) ![](assets/new.png)  
 - [2021-12-23-SpringCloud-Alibaba实战（12：引入Dubbo实现RPC调用）](https://toutiao.io/k/jweji54) ![](assets/new.png)  
-- [2021-12-23-动手实现一个localcache---欣赏优秀的开源设计](https://toutiao.io/k/qx343br) ![](assets/new.png)  
 - [2021-12-23-再也不敢精通Java了——get/set篇](https://toutiao.io/k/mwsw764) ![](assets/new.png)  
+- [2021-12-23-动手实现一个localcache---欣赏优秀的开源设计](https://toutiao.io/k/qx343br) ![](assets/new.png)  
 - [2021-12-23-搜索引擎：基础原理全景介绍及产品应用场景](https://toutiao.io/k/p523zwp) ![](assets/new.png)  
-- [2021-12-23-推荐-译-Go-并不需要-Java-风格的-GC](https://toutiao.io/k/ksd0hqy) ![](assets/new.png)  
-- [2021-12-23-推荐-一个技术团队leader的搭建私有知识库避坑经验分享](https://toutiao.io/k/o3dptn4) ![](assets/new.png)  
+- [2021-12-23-推荐-深入剖析全链路灰度技术内幕](https://toutiao.io/k/zimpz4c) ![](assets/new.png)  
+- [2021-12-23-推荐-vivo-敏感词匹配系统的设计与实践](https://toutiao.io/k/hrnq79a) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

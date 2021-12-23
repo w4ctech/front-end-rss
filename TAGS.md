@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-12-23 07:40:52。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-23 07:54:30。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -39,7 +39,6 @@
 
 
 
-- [【V2EX】求助，-React+gulp，即使是-helloworld-的打包体积也巨大](https://www.v2ex.com/t/823971)
 - [......【查看更多】......](./details/tags/react.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -183,7 +182,6 @@
 - [【张鑫旭-鑫空间-鑫生活】flex-end为什么overflow无法滚动及解决方法](https://www.zhangxinxu.com/wordpress/2021/12/flex-end-overflow/)
 - [【张鑫旭-鑫空间-鑫生活】从js-visibilitychange-Safari下无效说开去](https://www.zhangxinxu.com/wordpress/2021/11/js-visibilitychange-pagehide-lifecycle/)
 - [【张鑫旭-鑫空间-鑫生活】JS复制文字到剪切板的极简实现及扩展](https://www.zhangxinxu.com/wordpress/2021/10/js-copy-paste-clipboard/)
-- [【V2EX】为避免-CDN-故障，让网页自动选择-jsdelivr、unpkg-等站点](https://www.v2ex.com/t/823977)
 - [【开发者头条】前端性能优化---每一个前端开发者需要知道的防抖与节流知识](https://toutiao.io/k/zw4nlz0)
 - [......【查看更多】......](./details/tags/javascript.md)
 

@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-12-23 07:21:19。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-23 07:38:00。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -157,7 +157,7 @@
 
 
 
-- [【V2EX】请教各位大佬，想入门游戏开发有什么好的途径](https://www.v2ex.com/t/823966)
+- [【V2EX】NUC-放家里-7x24-当服务器能撑住吗?-以及什么配置性价比高一点,-偶尔切换到-Windows-打打小游戏](https://www.v2ex.com/t/824019)
 - [......【查看更多】......](./details/tags/dev-game.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -184,7 +184,6 @@
 - [【张鑫旭-鑫空间-鑫生活】从js-visibilitychange-Safari下无效说开去](https://www.zhangxinxu.com/wordpress/2021/11/js-visibilitychange-pagehide-lifecycle/)
 - [【张鑫旭-鑫空间-鑫生活】JS复制文字到剪切板的极简实现及扩展](https://www.zhangxinxu.com/wordpress/2021/10/js-copy-paste-clipboard/)
 - [【V2EX】为避免-CDN-故障，让网页自动选择-jsdelivr、unpkg-等站点](https://www.v2ex.com/t/823977)
-- [【V2EX】钉钉何时能原生适配-M1](https://www.v2ex.com/t/823969)
 - [【开发者头条】前端性能优化---每一个前端开发者需要知道的防抖与节流知识](https://toutiao.io/k/zw4nlz0)
 - [......【查看更多】......](./details/tags/javascript.md)
 
@@ -299,6 +298,7 @@
 
 
 
+- [【V2EX】需求：-mastodon-做一个:帖子分享与话题收藏功能](https://www.v2ex.com/t/824014)
 - [【V2EX】珠海/广州/深圳-C+轮大数据和-AI-创业公司----内容理解和生产团队,-各-Level-前端/后端/算法/产品经理-HC](https://www.v2ex.com/t/824003)
 - [【开发者头条】干货-|-Elasticsearch-向量搜索的工程化实战](https://toutiao.io/k/geounfc)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)

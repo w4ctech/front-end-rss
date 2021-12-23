@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-23 07:21:19，:rocket: 更新条数: +1613， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-23 07:38:00，:rocket: 更新条数: +1611， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,10 @@
 </summary>
 
 
+- [2021-12-23-NUC-放家里-7x24-当服务器能撑住吗?-以及什么配置性价比高一点,-偶尔切换到-Windows-打打小游戏](https://www.v2ex.com/t/824019) ![](assets/new.png)  
+- [2021-12-23-11.6.2-Mac-重按触控板进行查询翻译功能怎么唤不醒了？](https://www.v2ex.com/t/824017) ![](assets/new.png)  
+- [2021-12-23-求问一款-mmorpg-webgame-的地址，有点类似魔兽世界](https://www.v2ex.com/t/824015) ![](assets/new.png)  
+- [2021-12-23-需求：-mastodon-做一个:帖子分享与话题收藏功能](https://www.v2ex.com/t/824014) ![](assets/new.png)  
 - [2021-12-23-马上圣诞节了，好快呀！一眨眼又老了一岁，大家-2021-这一年过得怎么样？](https://www.v2ex.com/t/824013) ![](assets/new.png)  
 - [2021-12-23-设计师，-Pro-和-Max-该如何选择？](https://www.v2ex.com/t/824012) ![](assets/new.png)  
 - [2021-12-23-关于考研，农业工程与信息技术专业](https://www.v2ex.com/t/824010) ![](assets/new.png)  
@@ -510,10 +514,6 @@
 - [2021-12-23-问各位大神一个关于-springboot-项目数据安全的问题](https://www.v2ex.com/t/823995) ![](assets/new.png)  
 - [2021-12-23-请问怎么注销-v2-账号，清空数据？](https://www.v2ex.com/t/823994) ![](assets/new.png)  
 - [2021-12-23-关于-Java-应用程序网络代理问题](https://www.v2ex.com/t/823992) ![](assets/new.png)  
-- [2021-12-23-有人知道微信-UA-字段里面那个-0x-开头的是什么吗？](https://www.v2ex.com/t/823991) ![](assets/new.png)  
-- [2021-12-23-求大佬推荐个眼霜？](https://www.v2ex.com/t/823989) ![](assets/new.png)  
-- [2021-12-23-NAS-盘-Windows-文件路径-Mac-文件路径如何快速互转？](https://www.v2ex.com/t/823988) ![](assets/new.png)  
-- [2021-12-23-送码-开发了一款日期记录-app，欢迎大家下载体验](https://www.v2ex.com/t/823987) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -574,8 +574,8 @@
 - [2021-12-23-动手实现一个localcache---欣赏优秀的开源设计](https://toutiao.io/k/qx343br) ![](assets/new.png)  
 - [2021-12-23-再也不敢精通Java了——get/set篇](https://toutiao.io/k/mwsw764) ![](assets/new.png)  
 - [2021-12-23-搜索引擎：基础原理全景介绍及产品应用场景](https://toutiao.io/k/p523zwp) ![](assets/new.png)  
-- [2021-12-23-推荐-这些年我用过的API文档工具，个个是精品！](https://toutiao.io/k/xt41e64) ![](assets/new.png)  
 - [2021-12-23-推荐-译-Go-并不需要-Java-风格的-GC](https://toutiao.io/k/ksd0hqy) ![](assets/new.png)  
+- [2021-12-23-推荐-一个技术团队leader的搭建私有知识库避坑经验分享](https://toutiao.io/k/o3dptn4) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

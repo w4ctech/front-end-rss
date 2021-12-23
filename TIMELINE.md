@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-12-23 23:43:42。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2021-12-23 23:55:22。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -150,6 +150,7 @@
 - [【阮一峰的网络日志】2021-12-17-科技爱好者周刊（第-188-期）：音乐是反社交](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-188.html) 
 - [【阮一峰的网络日志】2021-12-10-科技爱好者周刊（第-187-期）：元宇宙会成功吗](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-187.html) 
 - [【阮一峰的网络日志】2021-12-07-为什么-Web3-与区块链有关](http://www.ruanyifeng.com/blog/2021/12/web3.html) 
+- [【V2EX】2021-12-23-EGPU-的-USB-音频问题](https://www.v2ex.com/t/824123) 
 - [【V2EX】2021-12-23-Melvor-Idle-Steam-商店-31.45-元](https://www.v2ex.com/t/824122) 
 - [【V2EX】2021-12-23-有时候我也想去做黑产](https://www.v2ex.com/t/824121) 
 - [【V2EX】2021-12-23-React-在-docker,-buildkite-部署，如何读取不同的-staging,-qa-环境文件](https://www.v2ex.com/t/824120) 
@@ -190,7 +191,6 @@
 - [【V2EX】2021-12-23-C++-Primer-第五版智能指针的这两段描写是不是有误？](https://www.v2ex.com/t/824078) 
 - [【V2EX】2021-12-23-docker-新手求助，-docker-进程一直自动退出](https://www.v2ex.com/t/824077) 
 - [【V2EX】2021-12-23-远程访问分享](https://www.v2ex.com/t/824076) 
-- [【V2EX】2021-12-23-Mac-上的-safari-一定是随系统更新嘛？](https://www.v2ex.com/t/824073) 
 - [【技术头条】2021-12-23-探索式测试的若干问题-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14862&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fexploratory-testing-things%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2021-12-23-谷歌-Android-12-Go-正式发布！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14861&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FfoPxB8GEHsK4INCPCQ0ryw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2021-12-23-69道HTML面试知识点总结-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14860&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247492752%26amp%3Bidx%3D2%26amp%3Bsn%3D48782b524d8880f90aa2e55cb7ed52ce%26amp%3Bchksm%3Dfa3f05cbcd488cddc21b53531a0df99cf4bc53d737d76fc6ecc722e34e407afdf10810c3961a%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -230,13 +230,13 @@
 - [【开发者头条】2021-12-23-利用-snapshot-进行集群迁移](https://toutiao.io/k/cbd0vuc) 
 - [【开发者头条】2021-12-23-搜索引擎：基础原理全景介绍及产品应用场景](https://toutiao.io/k/p523zwp) 
 - [【开发者头条】2021-12-23-推荐-这些年我用过的API文档工具，个个是精品！](https://toutiao.io/k/xt41e64) 
-- [【开发者头条】2021-12-23-推荐-一个技术团队leader的搭建私有知识库避坑经验分享](https://toutiao.io/k/o3dptn4) 
-- [【开发者头条】2021-12-23-推荐-​Golang-并发编程指南](https://toutiao.io/k/adoo89l) 
 - [【开发者头条】2021-12-23-推荐-Intellij-IDEA-神级插件！效率提升-10-倍！](https://toutiao.io/k/4iqf0c2) 
+- [【开发者头条】2021-12-23-推荐-深入剖析全链路灰度技术内幕](https://toutiao.io/k/zimpz4c) 
+- [【开发者头条】2021-12-23-推荐-一个技术团队leader的搭建私有知识库避坑经验分享](https://toutiao.io/k/o3dptn4) 
 - [【开发者头条】2021-12-23-推荐-熬夜彻底搞懂Cookie-Session-Token-JWT](https://toutiao.io/k/g49lsl5) 
 - [【开发者头条】2021-12-23-推荐-聊聊-sql-优化的-15-个小技巧](https://toutiao.io/k/a94tblq) 
-- [【开发者头条】2021-12-23-推荐-深入剖析全链路灰度技术内幕](https://toutiao.io/k/zimpz4c) 
 - [【开发者头条】2021-12-23-推荐-vivo-敏感词匹配系统的设计与实践](https://toutiao.io/k/hrnq79a) 
+- [【开发者头条】2021-12-23-推荐-​Golang-并发编程指南](https://toutiao.io/k/adoo89l) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

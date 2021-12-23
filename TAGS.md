@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-12-23 05:54:41。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-23 06:15:33。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -182,6 +182,7 @@
 - [【张鑫旭-鑫空间-鑫生活】flex-end为什么overflow无法滚动及解决方法](https://www.zhangxinxu.com/wordpress/2021/12/flex-end-overflow/)
 - [【张鑫旭-鑫空间-鑫生活】从js-visibilitychange-Safari下无效说开去](https://www.zhangxinxu.com/wordpress/2021/11/js-visibilitychange-pagehide-lifecycle/)
 - [【张鑫旭-鑫空间-鑫生活】JS复制文字到剪切板的极简实现及扩展](https://www.zhangxinxu.com/wordpress/2021/10/js-copy-paste-clipboard/)
+- [【V2EX】为避免-CDN-故障，让网页自动选择-jsdelivr、unpkg-等站点](https://www.v2ex.com/t/823977)
 - [【V2EX】钉钉何时能原生适配-M1](https://www.v2ex.com/t/823969)
 - [【V2EX】初学求问：安卓的日历事件读写问题](https://www.v2ex.com/t/823946)
 - [【V2EX】操作数组,-使得其中相同的元素的距离>=k](https://www.v2ex.com/t/823944)
@@ -281,7 +282,7 @@
 - [【武汉肺炎防疫全纪录(财新网)】大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html)
 - [【张鑫旭-鑫空间-鑫生活】兼容IE浏览器的图片局部高斯模糊实现](https://www.zhangxinxu.com/wordpress/2021/09/ie-image-local-filter-blur/)
 - [【V2EX】V-友们-wget/-curl-后面的-URL-含特殊字符，该加单引号还是双引号？](https://www.v2ex.com/t/823941)
-- [【V2EX】wget-下载-OneDrive-直链-Permission-denied](https://www.v2ex.com/t/823934)
+- [【开发者头条】再也不敢精通Java了——get/set篇](https://toutiao.io/k/mwsw764)
 - [......【查看更多】......](./details/tags/browser.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

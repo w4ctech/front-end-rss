@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-12-23 03:23:02。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-23 03:41:26。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -277,7 +277,7 @@
 - [【武汉肺炎防疫全纪录(财新网)】解药|新冠mRNA疫苗安全性有哪些挑战？](https://m.caixin.com/m/2021-01-08/101648043.html)
 - [【武汉肺炎防疫全纪录(财新网)】大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html)
 - [【张鑫旭-鑫空间-鑫生活】兼容IE浏览器的图片局部高斯模糊实现](https://www.zhangxinxu.com/wordpress/2021/09/ie-image-local-filter-blur/)
-- [【V2EX】wegt-下载-OneDrive-直链-Permission-denied](https://www.v2ex.com/t/823934)
+- [【V2EX】wget-下载-OneDrive-直链-Permission-denied](https://www.v2ex.com/t/823934)
 - [【V2EX】QQ-for-macOS-什么时候把聊天图片渲染改一下](https://www.v2ex.com/t/823924)
 - [【V2EX】nginx-出现一堆这样的日志，这是什么鬼东西的请求](https://www.v2ex.com/t/823900)
 - [......【查看更多】......](./details/tags/browser.md)
@@ -330,7 +330,6 @@
 
 
 - [【V2EX】请教一下，-Gitlab-删除项目问题](https://www.v2ex.com/t/823921)
-- [【V2EX】内推/远程-极狐-GitLab,-Ruby-后端-/-SRE-/-架构师-/-Sales](https://www.v2ex.com/t/823888)
 - [......【查看更多】......](./details/tags/git-svn.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

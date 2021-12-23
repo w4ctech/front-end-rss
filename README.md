@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-23 22:55:56，:rocket: 更新条数: +1619， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-23 23:13:01，:rocket: 更新条数: +1619， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,7 @@
 </summary>
 
 
+- [2021-12-23-Melvor-Idle-Steam-商店-31.45-元](https://www.v2ex.com/t/824122) ![](assets/new.png)  
 - [2021-12-23-有时候我也想去做黑产](https://www.v2ex.com/t/824121) ![](assets/new.png)  
 - [2021-12-23-React-在-docker,-buildkite-部署，如何读取不同的-staging,-qa-环境文件](https://www.v2ex.com/t/824120) ![](assets/new.png)  
 - [2021-12-23-有-pcdn-上游公司的人吗？](https://www.v2ex.com/t/824119) ![](assets/new.png)  
@@ -513,7 +514,6 @@
 - [2021-12-23-有没有什么方法可以一直监控一个文件是否有改变，-而且监控是哪个进程修改的这个文件。](https://www.v2ex.com/t/824102) ![](assets/new.png)  
 - [2021-12-23-请教一个问题，是关于-js,-fetch,-cors,-V2EX-api-的。](https://www.v2ex.com/t/824100) ![](assets/new.png)  
 - [2021-12-23-反向-OCR-使用特殊字符集还原手写体-让电脑练我的字](https://www.v2ex.com/t/824098) ![](assets/new.png)  
-- [2021-12-23-成都-华为云大量软开-OD-岗位招聘，欢迎联系！](https://www.v2ex.com/t/824097) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -574,8 +574,8 @@
 - [2021-12-23-再也不敢精通Java了——get/set篇](https://toutiao.io/k/mwsw764) ![](assets/new.png)  
 - [2021-12-23-利用-snapshot-进行集群迁移](https://toutiao.io/k/cbd0vuc) ![](assets/new.png)  
 - [2021-12-23-搜索引擎：基础原理全景介绍及产品应用场景](https://toutiao.io/k/p523zwp) ![](assets/new.png)  
-- [2021-12-23-推荐-深入剖析全链路灰度技术内幕](https://toutiao.io/k/zimpz4c) ![](assets/new.png)  
 - [2021-12-23-推荐-这些年我用过的API文档工具，个个是精品！](https://toutiao.io/k/xt41e64) ![](assets/new.png)  
+- [2021-12-23-推荐-一个技术团队leader的搭建私有知识库避坑经验分享](https://toutiao.io/k/o3dptn4) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

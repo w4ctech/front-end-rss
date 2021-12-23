@@ -7884,6 +7884,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "安卓手机，勿扰模式下，微信来电为何仍发出震动？",
+        "link": "https://www.v2ex.com/t/824109",
+        "date": "2021-12-23"
+      },
+      {
         "title": "macOS 能像 win 一样设置进程的优先级吗？",
         "link": "https://www.v2ex.com/t/824108",
         "date": "2021-12-23"
@@ -8066,11 +8071,6 @@
       {
         "title": "询问大家对于“视屏”、“优惠卷”、“冲话费”这类词的看法",
         "link": "https://www.v2ex.com/t/824061",
-        "date": "2021-12-23"
-      },
-      {
-        "title": "Obsidian 支持所见即所得了",
-        "link": "https://www.v2ex.com/t/824059",
         "date": "2021-12-23"
       }
     ]
@@ -8278,28 +8278,8 @@
         "date": "2021-12-23"
       },
       {
-        "title": "[推荐] ​Golang 并发编程指南",
-        "link": "https://toutiao.io/k/adoo89l",
-        "date": "2021-12-23"
-      },
-      {
-        "title": "[推荐] Intellij IDEA 神级插件！效率提升 10 倍！",
-        "link": "https://toutiao.io/k/4iqf0c2",
-        "date": "2021-12-23"
-      },
-      {
-        "title": "[推荐] 深入剖析全链路灰度技术内幕",
-        "link": "https://toutiao.io/k/zimpz4c",
-        "date": "2021-12-23"
-      },
-      {
-        "title": "[推荐] [译] Go 并不需要 Java 风格的 GC",
-        "link": "https://toutiao.io/k/ksd0hqy",
-        "date": "2021-12-23"
-      },
-      {
-        "title": "[推荐] vivo 敏感词匹配系统的设计与实践",
-        "link": "https://toutiao.io/k/hrnq79a",
+        "title": "[推荐] 这些年我用过的API文档工具，个个是精品！",
+        "link": "https://toutiao.io/k/xt41e64",
         "date": "2021-12-23"
       },
       {
@@ -8308,8 +8288,28 @@
         "date": "2021-12-23"
       },
       {
-        "title": "[推荐] 这些年我用过的API文档工具，个个是精品！",
-        "link": "https://toutiao.io/k/xt41e64",
+        "title": "[推荐] vivo 敏感词匹配系统的设计与实践",
+        "link": "https://toutiao.io/k/hrnq79a",
+        "date": "2021-12-23"
+      },
+      {
+        "title": "[推荐] [译] Go 并不需要 Java 风格的 GC",
+        "link": "https://toutiao.io/k/ksd0hqy",
+        "date": "2021-12-23"
+      },
+      {
+        "title": "[推荐] ​Golang 并发编程指南",
+        "link": "https://toutiao.io/k/adoo89l",
+        "date": "2021-12-23"
+      },
+      {
+        "title": "[推荐] 深入剖析全链路灰度技术内幕",
+        "link": "https://toutiao.io/k/zimpz4c",
+        "date": "2021-12-23"
+      },
+      {
+        "title": "[推荐] Intellij IDEA 神级插件！效率提升 10 倍！",
+        "link": "https://toutiao.io/k/4iqf0c2",
         "date": "2021-12-23"
       }
     ]

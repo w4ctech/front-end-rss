@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-23 14:54:43，:rocket: 更新条数: +1615， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-23 15:13:34，:rocket: 更新条数: +1615， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,7 @@
 </summary>
 
 
+- [2021-12-23-安卓手机，勿扰模式下，微信来电为何仍发出震动？](https://www.v2ex.com/t/824109) ![](assets/new.png)  
 - [2021-12-23-macOS-能像-win-一样设置进程的优先级吗？](https://www.v2ex.com/t/824108) ![](assets/new.png)  
 - [2021-12-23-美区账号无法登录了，提示-Apple-ID-没有被激活](https://www.v2ex.com/t/824107) ![](assets/new.png)  
 - [2021-12-23-求推荐适合-PC-连接的-TWS-耳机，半入耳式的](https://www.v2ex.com/t/824106) ![](assets/new.png)  
@@ -513,7 +514,6 @@
 - [2021-12-23-如何将-Linux-的多行-crontab-定时任务写在一个-macos-的-launchctl-控制的-plist-里面？](https://www.v2ex.com/t/824088) ![](assets/new.png)  
 - [2021-12-23-相亲了，以后还想谈恋爱咋办](https://www.v2ex.com/t/824087) ![](assets/new.png)  
 - [2021-12-23-美关公是倒闭了不，-APP-已经-2-周不能登陆了开不了小区的门禁了](https://www.v2ex.com/t/824086) ![](assets/new.png)  
-- [2021-12-23-微信又不让在-mac-和-iPad-上同时登陆了？](https://www.v2ex.com/t/824085) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -574,8 +574,8 @@
 - [2021-12-23-利用-snapshot-进行集群迁移](https://toutiao.io/k/cbd0vuc) ![](assets/new.png)  
 - [2021-12-23-再也不敢精通Java了——get/set篇](https://toutiao.io/k/mwsw764) ![](assets/new.png)  
 - [2021-12-23-搜索引擎：基础原理全景介绍及产品应用场景](https://toutiao.io/k/p523zwp) ![](assets/new.png)  
-- [2021-12-23-推荐-​Golang-并发编程指南](https://toutiao.io/k/adoo89l) ![](assets/new.png)  
-- [2021-12-23-推荐-Intellij-IDEA-神级插件！效率提升-10-倍！](https://toutiao.io/k/4iqf0c2) ![](assets/new.png)  
+- [2021-12-23-推荐-这些年我用过的API文档工具，个个是精品！](https://toutiao.io/k/xt41e64) ![](assets/new.png)  
+- [2021-12-23-推荐-一个技术团队leader的搭建私有知识库避坑经验分享](https://toutiao.io/k/o3dptn4) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

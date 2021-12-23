@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-23 13:43:12，:rocket: 更新条数: +1615， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-23 13:54:30，:rocket: 更新条数: +1614， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,9 @@
 </summary>
 
 
+- [2021-12-23-请教一个问题，是关于-js,-fetch,-cors,-V2EX-api-的。](https://www.v2ex.com/t/824100) ![](assets/new.png)  
+- [2021-12-23-反向-OCR-使用特殊字符集还原手写体-让电脑练我的字](https://www.v2ex.com/t/824098) ![](assets/new.png)  
+- [2021-12-23-成都-华为云大量软开-OD-岗位招聘，欢迎联系！](https://www.v2ex.com/t/824097) ![](assets/new.png)  
 - [2021-12-23-Grindr-被半嫱了，还能看皂片，但不能收发信息了。该把哪些域名加入-gfw-路由器白名单啊？](https://www.v2ex.com/t/824095) ![](assets/new.png)  
 - [2021-12-23-如何安全地存储明文密码？](https://www.v2ex.com/t/824094) ![](assets/new.png)  
 - [2021-12-23-「上海」野村证券,-Java-/BA/-Python-/c#等岗位火热招募中](https://www.v2ex.com/t/824093) ![](assets/new.png)  
@@ -511,9 +514,6 @@
 - [2021-12-23-自行搭建类似-onedrive-的服务器？](https://www.v2ex.com/t/824080) ![](assets/new.png)  
 - [2021-12-23-twitter-上加密货币的话题趋势哪里可以找到](https://www.v2ex.com/t/824079) ![](assets/new.png)  
 - [2021-12-23-C++-Primer-第五版智能指针的这两段描写是不是有误？](https://www.v2ex.com/t/824078) ![](assets/new.png)  
-- [2021-12-23-docker-新手求助，-docker-进程一直自动退出](https://www.v2ex.com/t/824077) ![](assets/new.png)  
-- [2021-12-23-远程访问分享](https://www.v2ex.com/t/824076) ![](assets/new.png)  
-- [2021-12-23-Mac-上的-safari-一定是随系统更新嘛？](https://www.v2ex.com/t/824073) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -574,8 +574,8 @@
 - [2021-12-23-利用-snapshot-进行集群迁移](https://toutiao.io/k/cbd0vuc) ![](assets/new.png)  
 - [2021-12-23-再也不敢精通Java了——get/set篇](https://toutiao.io/k/mwsw764) ![](assets/new.png)  
 - [2021-12-23-搜索引擎：基础原理全景介绍及产品应用场景](https://toutiao.io/k/p523zwp) ![](assets/new.png)  
-- [2021-12-23-推荐-​Golang-并发编程指南](https://toutiao.io/k/adoo89l) ![](assets/new.png)  
-- [2021-12-23-推荐-vivo-敏感词匹配系统的设计与实践](https://toutiao.io/k/hrnq79a) ![](assets/new.png)  
+- [2021-12-23-推荐-Intellij-IDEA-神级插件！效率提升-10-倍！](https://toutiao.io/k/4iqf0c2) ![](assets/new.png)  
+- [2021-12-23-推荐-一个技术团队leader的搭建私有知识库避坑经验分享](https://toutiao.io/k/o3dptn4) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

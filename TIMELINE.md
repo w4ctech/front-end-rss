@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-12-23 05:41:57。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2021-12-23 05:54:41。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -148,6 +148,9 @@
 - [【阮一峰的网络日志】2021-12-17-科技爱好者周刊（第-188-期）：音乐是反社交](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-188.html) 
 - [【阮一峰的网络日志】2021-12-10-科技爱好者周刊（第-187-期）：元宇宙会成功吗](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-187.html) 
 - [【阮一峰的网络日志】2021-12-07-为什么-Web3-与区块链有关](http://www.ruanyifeng.com/blog/2021/12/web3.html) 
+- [【V2EX】2021-12-23-Python-有没有好的新的开源-web-后端项目值得学习？比如-superset/redash/awx，主要想学习面向对象封装-CRUD/事物，以及，如何处理不同业务模块的关系。有不错项...](https://www.v2ex.com/t/823975) 
+- [【V2EX】2021-12-23-按键音、通知声音偶尔卡顿](https://www.v2ex.com/t/823974) 
+- [【V2EX】2021-12-23-滴滴司机抽烟，你会投诉他吗？](https://www.v2ex.com/t/823973) 
 - [【V2EX】2021-12-23-求助，-React+gulp，即使是-helloworld-的打包体积也巨大](https://www.v2ex.com/t/823971) 
 - [【V2EX】2021-12-23-四次摇号未中签，无语╯﹏╰](https://www.v2ex.com/t/823970) 
 - [【V2EX】2021-12-23-钉钉何时能原生适配-M1](https://www.v2ex.com/t/823969) 
@@ -180,9 +183,6 @@
 - [【V2EX】2021-12-23-天猫超市承诺送货上门，未上门送-20-元猫超卡](https://www.v2ex.com/t/823931) 
 - [【V2EX】2021-12-23-问大家个关于双-4K-显示器的问题](https://www.v2ex.com/t/823929) 
 - [【V2EX】2021-12-23-开早会的意义是什么-如何让大家都能积极发言-能分享一下你们是怎么开早会的吗](https://www.v2ex.com/t/823927) 
-- [【V2EX】2021-12-23-如何应对对于基础应用功能不会用就拉着你一直问，而从来不去视图自己搜索的人？](https://www.v2ex.com/t/823925) 
-- [【V2EX】2021-12-23-QQ-for-macOS-什么时候把聊天图片渲染改一下](https://www.v2ex.com/t/823924) 
-- [【V2EX】2021-12-23-networkmanager-管理后如何添加子网卡？](https://www.v2ex.com/t/823922) 
 - [【技术头条】2021-12-23-探索式测试的若干问题-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14862&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fexploratory-testing-things%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2021-12-23-谷歌-Android-12-Go-正式发布！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14861&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FfoPxB8GEHsK4INCPCQ0ryw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2021-12-23-69道HTML面试知识点总结-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14860&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247492752%26amp%3Bidx%3D2%26amp%3Bsn%3D48782b524d8880f90aa2e55cb7ed52ce%26amp%3Bchksm%3Dfa3f05cbcd488cddc21b53531a0df99cf4bc53d737d76fc6ecc722e34e407afdf10810c3961a%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -204,8 +204,8 @@
 - [【技术头条】2021-12-23-如何用Python爬取网易云音乐歌单-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14844&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247492682%26amp%3Bidx%3D1%26amp%3Bsn%3Dbbabd4fdf5e5e8e54e93d63986af2286%26amp%3Bchksm%3Dfa3f0511cd488c07589fb7180c8d27360a0739512021b8b614f9395b0bb46983ac6f14a1df9b%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2021-12-23-Java开发者最值得学习的14项技能-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14843&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247492682%26amp%3Bidx%3D2%26amp%3Bsn%3D045b1cf2359e675669f3bd8252b7d486%26amp%3Bchksm%3Dfa3f0511cd488c07b9dfe747fb8884734eaec1f357e3b59b41c6f71d185b1ccd44935d745f85%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【开发者头条】2021-12-23-千亿级金融场景下，基于Pulsar的云原生消息队列有怎样的表现？](https://toutiao.io/k/upkl2yx) 
-- [【开发者头条】2021-12-23-盘点2021｜「避坑宝典」为大家分享一下笔者在2021年所遇到“匪夷所思”的Bug趣事（上）](https://toutiao.io/k/zdaoba0) 
 - [【开发者头条】2021-12-23-前端性能优化---每一个前端开发者需要知道的防抖与节流知识](https://toutiao.io/k/zw4nlz0) 
+- [【开发者头条】2021-12-23-盘点2021｜「避坑宝典」为大家分享一下笔者在2021年所遇到“匪夷所思”的Bug趣事（上）](https://toutiao.io/k/zdaoba0) 
 - [【开发者头条】2021-12-23-我被这个浏览了-746000-次的问题惊住了！](https://toutiao.io/k/c7xllwm) 
 - [【开发者头条】2021-12-23-分布式链路追踪在字节跳动的实践](https://toutiao.io/k/hkc5fd7) 
 - [【开发者头条】2021-12-23-对话Svelte未来，Rust-编译器？构建大型应用?](https://toutiao.io/k/5ty2d06) 
@@ -218,12 +218,12 @@
 - [【开发者头条】2021-12-23-探秘｜下一代微服务：Service-Mesh-初露头角的那一年](https://toutiao.io/k/cm2vr8o) 
 - [【开发者头条】2021-12-23-利用-snapshot-进行集群迁移](https://toutiao.io/k/cbd0vuc) 
 - [【开发者头条】2021-12-23-推荐-Intellij-IDEA-神级插件！效率提升-10-倍！](https://toutiao.io/k/4iqf0c2) 
-- [【开发者头条】2021-12-23-推荐-译-Go-并不需要-Java-风格的-GC](https://toutiao.io/k/ksd0hqy) 
-- [【开发者头条】2021-12-23-推荐-一个技术团队leader的搭建私有知识库避坑经验分享](https://toutiao.io/k/o3dptn4) 
-- [【开发者头条】2021-12-23-推荐-​Golang-并发编程指南](https://toutiao.io/k/adoo89l) 
-- [【开发者头条】2021-12-23-推荐-这些年我用过的API文档工具，个个是精品！](https://toutiao.io/k/xt41e64) 
 - [【开发者头条】2021-12-23-推荐-vivo-敏感词匹配系统的设计与实践](https://toutiao.io/k/hrnq79a) 
 - [【开发者头条】2021-12-23-推荐-深入剖析全链路灰度技术内幕](https://toutiao.io/k/zimpz4c) 
+- [【开发者头条】2021-12-23-推荐-一个技术团队leader的搭建私有知识库避坑经验分享](https://toutiao.io/k/o3dptn4) 
+- [【开发者头条】2021-12-23-推荐-​Golang-并发编程指南](https://toutiao.io/k/adoo89l) 
+- [【开发者头条】2021-12-23-推荐-译-Go-并不需要-Java-风格的-GC](https://toutiao.io/k/ksd0hqy) 
+- [【开发者头条】2021-12-23-推荐-这些年我用过的API文档工具，个个是精品！](https://toutiao.io/k/xt41e64) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

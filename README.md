@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-23 03:13:50，:rocket: 更新条数: +1606， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-23 03:23:01，:rocket: 更新条数: +1608， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,10 @@
 </summary>
 
 
+- [2021-12-23-wegt-下载-OneDrive-直链-Permission-denied](https://www.v2ex.com/t/823934) ![](assets/new.png)  
+- [2021-12-23-求一款-Android-平台收集单词的-App](https://www.v2ex.com/t/823933) ![](assets/new.png)  
+- [2021-12-23-今日重读《琵琶行》发现当事人就是一标准怨妇啊！吃饱了撑的有的没的...](https://www.v2ex.com/t/823932) ![](assets/new.png)  
+- [2021-12-23-天猫超市承诺送货上门，未上门送-20-元猫超卡](https://www.v2ex.com/t/823931) ![](assets/new.png)  
 - [2021-12-23-问大家个关于双-4K-显示器的问题](https://www.v2ex.com/t/823929) ![](assets/new.png)  
 - [2021-12-23-开早会的意义是什么-如何让大家都能积极发言-能分享一下你们是怎么开早会的吗](https://www.v2ex.com/t/823927) ![](assets/new.png)  
 - [2021-12-23-各位来说说自己在西安的生活现状和防疫见闻吧](https://www.v2ex.com/t/823926) ![](assets/new.png)  
@@ -510,10 +514,6 @@
 - [2021-12-23-Typora-恶心是真的恶心，新版本要收费，不更新就无法使用了](https://www.v2ex.com/t/823909) ![](assets/new.png)  
 - [2021-12-23-一直思考一个问题。从目前的网络技术角度来讲，是否有可以避免网络审查的方案。](https://www.v2ex.com/t/823908) ![](assets/new.png)  
 - [2021-12-23-有没有可以支持-API-取件的邮件系统](https://www.v2ex.com/t/823907) ![](assets/new.png)  
-- [2021-12-23-安卓有什么比较好的本地音乐播放器吗？](https://www.v2ex.com/t/823906) ![](assets/new.png)  
-- [2021-12-23-给老妈买手机，求推荐-2000-左右吧](https://www.v2ex.com/t/823905) ![](assets/new.png)  
-- [2021-12-23-Find-N-今天发售大家都抢到了么？](https://www.v2ex.com/t/823904) ![](assets/new.png)  
-- [2021-12-23-Vue-Router4-怎么在当前页面里获取上一个页面的路由？](https://www.v2ex.com/t/823903) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -570,12 +570,12 @@
 - [2021-12-23-探秘｜下一代微服务：Service-Mesh-初露头角的那一年](https://toutiao.io/k/cm2vr8o) ![](assets/new.png)  
 - [2021-12-23-阿里巴巴超大规模Kubernetes基础设施运维体系揭秘](https://toutiao.io/k/fpvwr8g) ![](assets/new.png)  
 - [2021-12-23-利用-snapshot-进行集群迁移](https://toutiao.io/k/cbd0vuc) ![](assets/new.png)  
-- [2021-12-23-推荐-vivo-敏感词匹配系统的设计与实践](https://toutiao.io/k/hrnq79a) ![](assets/new.png)  
-- [2021-12-23-推荐-Intellij-IDEA-神级插件！效率提升-10-倍！](https://toutiao.io/k/4iqf0c2) ![](assets/new.png)  
+- [2021-12-23-推荐-这些年我用过的API文档工具，个个是精品！](https://toutiao.io/k/xt41e64) ![](assets/new.png)  
 - [2021-12-23-推荐-一个技术团队leader的搭建私有知识库避坑经验分享](https://toutiao.io/k/o3dptn4) ![](assets/new.png)  
 - [2021-12-23-推荐-深入剖析全链路灰度技术内幕](https://toutiao.io/k/zimpz4c) ![](assets/new.png)  
-- [2021-12-23-推荐-​Golang-并发编程指南](https://toutiao.io/k/adoo89l) ![](assets/new.png)  
 - [2021-12-23-推荐-译-Go-并不需要-Java-风格的-GC](https://toutiao.io/k/ksd0hqy) ![](assets/new.png)  
+- [2021-12-23-推荐-​Golang-并发编程指南](https://toutiao.io/k/adoo89l) ![](assets/new.png)  
+- [2021-12-23-推荐-vivo-敏感词匹配系统的设计与实践](https://toutiao.io/k/hrnq79a) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

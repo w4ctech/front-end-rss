@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-12-23 00:40:09。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2021-12-23 01:10:33。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -50,9 +50,8 @@
 </summary>
 
 
-- [【武汉肺炎防疫全纪录(财新网)】2021-12-22-12月21日全国新增新冠77例-四省份本土57例](https://m.caixin.com/m/2021-12-22/101820579.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2021-12-22-陕西疫情累计扩散至4省6地-西安非必要离市人员将被劝返](https://m.caixin.com/m/2021-12-22/101820941.html) 
-- [【武汉肺炎防疫全纪录(财新网)】2021-12-22-新加坡收紧边境-停售免隔离入境国家旅行售票](https://china.caixin.com/m/2021-12-22/101820983.html) 
+- [【武汉肺炎防疫全纪录(财新网)】2021-12-22-新加坡收紧边境-停售免隔离入境国家旅行售票](https://international.caixin.com/m/2021-12-22/101820983.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2021-12-22-加强针能否应对奥密克戎？专家指“混打”或效果更优](https://m.caixin.com/m/2021-12-22/101820618.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2021-12-22-【境内疫情观察】陕西新增53例本土病例（12月21日）](https://database.caixin.com/m/2021-12-22/101820847.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2021-12-22-Omicron成为美国主要毒株-多国家缩短加强针间隔时间｜大流行手记（12月21日）](https://m.caixin.com/m/2021-12-22/101820624.html) 
@@ -147,6 +146,11 @@
 - [【阮一峰的网络日志】2021-12-17-科技爱好者周刊（第-188-期）：音乐是反社交](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-188.html) 
 - [【阮一峰的网络日志】2021-12-10-科技爱好者周刊（第-187-期）：元宇宙会成功吗](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-187.html) 
 - [【阮一峰的网络日志】2021-12-07-为什么-Web3-与区块链有关](http://www.ruanyifeng.com/blog/2021/12/web3.html) 
+- [【V2EX】2021-12-23-内推/远程-极狐-GitLab,-Ruby-后端-/-SRE-/-架构师-/-Sales](https://www.v2ex.com/t/823888) 
+- [【V2EX】2021-12-23-各位怎么看待奔图打印机](https://www.v2ex.com/t/823887) 
+- [【V2EX】2021-12-23-请问中医放血效果如何？](https://www.v2ex.com/t/823886) 
+- [【V2EX】2021-12-23-阿里云报告漏洞这件事，是否有错](https://www.v2ex.com/t/823885) 
+- [【V2EX】2021-12-23-麻烦各位坛友推荐一下-MySQL-增量备份工具](https://www.v2ex.com/t/823884) 
 - [【V2EX】2021-12-23-抱歉我搞错了没事了](https://www.v2ex.com/t/823883) 
 - [【V2EX】2021-12-23-春节前去北京有风险么](https://www.v2ex.com/t/823882) 
 - [【V2EX】2021-12-22-刚在涩图群看到阿里云阿帕奇组件漏洞的新闻，第一反应是来-V2-了解一下事件细节，找了半天貌似没人提这件事情？](https://www.v2ex.com/t/823881) 
@@ -180,9 +184,6 @@
 - [【V2EX】2021-12-22-有想学滑雪的吗?-自己做了一个滑雪预定小程序,-给大家发些福利](https://www.v2ex.com/t/823844) 
 - [【V2EX】2021-12-22-关于垃圾佬-diy-家用-NAS-的一点思考](https://www.v2ex.com/t/823843) 
 - [【V2EX】2021-12-22-提醒事项更新极慢](https://www.v2ex.com/t/823839) 
-- [【V2EX】2021-12-22-阿里国际化电商-平台架构组大量-HC,-欢迎来撩!](https://www.v2ex.com/t/823838) 
-- [【V2EX】2021-12-22-奇怪的访达](https://www.v2ex.com/t/823836) 
-- [【V2EX】2021-12-22-现在（2021-年末）是否有任何的标准支持在一个-HTML-里-include-另外一个-HTML-文件的内容？](https://www.v2ex.com/t/823835) 
 - [【技术头条】2021-12-23-探索式测试的若干问题-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14862&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fexploratory-testing-things%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2021-12-23-谷歌-Android-12-Go-正式发布！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14861&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FfoPxB8GEHsK4INCPCQ0ryw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2021-12-23-69道HTML面试知识点总结-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14860&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247492752%26amp%3Bidx%3D2%26amp%3Bsn%3D48782b524d8880f90aa2e55cb7ed52ce%26amp%3Bchksm%3Dfa3f05cbcd488cddc21b53531a0df99cf4bc53d737d76fc6ecc722e34e407afdf10810c3961a%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -203,23 +204,23 @@
 - [【技术头条】2021-12-23-微软正式宣布VisualStudio2022-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14845&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247492723%26amp%3Bidx%3D2%26amp%3Bsn%3D1487302bedfc4b14c2ae1aaf53cc2dbd%26amp%3Bchksm%3Dfa3f0528cd488c3ec3a5a9b566357cc17571d3da245d9899df4acffc22b802dcf3be3e4aaf2f%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2021-12-23-如何用Python爬取网易云音乐歌单-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14844&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247492682%26amp%3Bidx%3D1%26amp%3Bsn%3Dbbabd4fdf5e5e8e54e93d63986af2286%26amp%3Bchksm%3Dfa3f0511cd488c07589fb7180c8d27360a0739512021b8b614f9395b0bb46983ac6f14a1df9b%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2021-12-23-Java开发者最值得学习的14项技能-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14843&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247492682%26amp%3Bidx%3D2%26amp%3Bsn%3D045b1cf2359e675669f3bd8252b7d486%26amp%3Bchksm%3Dfa3f0511cd488c07b9dfe747fb8884734eaec1f357e3b59b41c6f71d185b1ccd44935d745f85%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
-- [【开发者头条】2021-12-23-千亿级金融场景下，基于Pulsar的云原生消息队列有怎样的表现？](https://toutiao.io/k/upkl2yx) 
 - [【开发者头条】2021-12-23-盘点2021｜「避坑宝典」为大家分享一下笔者在2021年所遇到“匪夷所思”的Bug趣事（上）](https://toutiao.io/k/zdaoba0) 
+- [【开发者头条】2021-12-23-千亿级金融场景下，基于Pulsar的云原生消息队列有怎样的表现？](https://toutiao.io/k/upkl2yx) 
 - [【开发者头条】2021-12-23-我被这个浏览了-746000-次的问题惊住了！](https://toutiao.io/k/c7xllwm) 
 - [【开发者头条】2021-12-23-前端性能优化---每一个前端开发者需要知道的防抖与节流知识](https://toutiao.io/k/zw4nlz0) 
-- [【开发者头条】2021-12-23-Kvrocks-在-RocksDB-上的优化实践](https://toutiao.io/k/wy3k98f) 
 - [【开发者头条】2021-12-23-分布式链路追踪在字节跳动的实践](https://toutiao.io/k/hkc5fd7) 
 - [【开发者头条】2021-12-23-Go：记一次提升18倍的性能优化](https://toutiao.io/k/dwkzreb) 
+- [【开发者头条】2021-12-23-Kvrocks-在-RocksDB-上的优化实践](https://toutiao.io/k/wy3k98f) 
 - [【开发者头条】2021-12-23-干货-|-Elasticsearch-向量搜索的工程化实战](https://toutiao.io/k/geounfc) 
-- [【开发者头条】2021-12-23-Python-的元类设计起源自哪里？](https://toutiao.io/k/d6wco5e) 
 - [【开发者头条】2021-12-23-对话Svelte未来，Rust-编译器？构建大型应用?](https://toutiao.io/k/5ty2d06) 
-- [【开发者头条】2021-12-23-推荐-译-Go-并不需要-Java-风格的-GC](https://toutiao.io/k/ksd0hqy) 
-- [【开发者头条】2021-12-23-推荐-这些年我用过的API文档工具，个个是精品！](https://toutiao.io/k/xt41e64) 
+- [【开发者头条】2021-12-23-Python-的元类设计起源自哪里？](https://toutiao.io/k/d6wco5e) 
 - [【开发者头条】2021-12-23-推荐-vivo-敏感词匹配系统的设计与实践](https://toutiao.io/k/hrnq79a) 
-- [【开发者头条】2021-12-23-推荐-​Golang-并发编程指南](https://toutiao.io/k/adoo89l) 
-- [【开发者头条】2021-12-23-推荐-一个技术团队leader的搭建私有知识库避坑经验分享](https://toutiao.io/k/o3dptn4) 
 - [【开发者头条】2021-12-23-推荐-Intellij-IDEA-神级插件！效率提升-10-倍！](https://toutiao.io/k/4iqf0c2) 
+- [【开发者头条】2021-12-23-推荐-一个技术团队leader的搭建私有知识库避坑经验分享](https://toutiao.io/k/o3dptn4) 
 - [【开发者头条】2021-12-23-推荐-深入剖析全链路灰度技术内幕](https://toutiao.io/k/zimpz4c) 
+- [【开发者头条】2021-12-23-推荐-​Golang-并发编程指南](https://toutiao.io/k/adoo89l) 
+- [【开发者头条】2021-12-23-推荐-这些年我用过的API文档工具，个个是精品！](https://toutiao.io/k/xt41e64) 
+- [【开发者头条】2021-12-23-推荐-译-Go-并不需要-Java-风格的-GC](https://toutiao.io/k/ksd0hqy) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

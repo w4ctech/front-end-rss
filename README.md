@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-23 02:50:22，:rocket: 更新条数: +1607， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-23 03:13:50，:rocket: 更新条数: +1606， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,14 @@
 </summary>
 
 
+- [2021-12-23-问大家个关于双-4K-显示器的问题](https://www.v2ex.com/t/823929) ![](assets/new.png)  
+- [2021-12-23-开早会的意义是什么-如何让大家都能积极发言-能分享一下你们是怎么开早会的吗](https://www.v2ex.com/t/823927) ![](assets/new.png)  
+- [2021-12-23-各位来说说自己在西安的生活现状和防疫见闻吧](https://www.v2ex.com/t/823926) ![](assets/new.png)  
+- [2021-12-23-如何应对对于基础应用功能不会用就拉着你一直问，而从来不去视图自己搜索的人？](https://www.v2ex.com/t/823925) ![](assets/new.png)  
+- [2021-12-23-QQ-for-macOS-什么时候把聊天图片渲染改一下](https://www.v2ex.com/t/823924) ![](assets/new.png)  
+- [2021-12-23-networkmanager-管理后如何添加子网卡？](https://www.v2ex.com/t/823922) ![](assets/new.png)  
+- [2021-12-23-请教一下，-Gitlab-删除项目问题](https://www.v2ex.com/t/823921) ![](assets/new.png)  
+- [2021-12-23-wsl-网络通畅，但-dns-无法解析，改-resolv-文件一重启就还原](https://www.v2ex.com/t/823917) ![](assets/new.png)  
 - [2021-12-23-最近网络频繁出打开网页困难的症状，问题可能出在哪儿呢？](https://www.v2ex.com/t/823916) ![](assets/new.png)  
 - [2021-12-23-昨天京东下单了-iPhone-13-mini,-128-的-4670](https://www.v2ex.com/t/823915) ![](assets/new.png)  
 - [2021-12-23-Outlook-异常退出或失去响应的可能原因](https://www.v2ex.com/t/823914) ![](assets/new.png)  
@@ -506,14 +514,6 @@
 - [2021-12-23-给老妈买手机，求推荐-2000-左右吧](https://www.v2ex.com/t/823905) ![](assets/new.png)  
 - [2021-12-23-Find-N-今天发售大家都抢到了么？](https://www.v2ex.com/t/823904) ![](assets/new.png)  
 - [2021-12-23-Vue-Router4-怎么在当前页面里获取上一个页面的路由？](https://www.v2ex.com/t/823903) ![](assets/new.png)  
-- [2021-12-23-这种情况属于加班吗？](https://www.v2ex.com/t/823902) ![](assets/new.png)  
-- [2021-12-23-现在-HomePod-上的-Siri-太蠢了吧](https://www.v2ex.com/t/823901) ![](assets/new.png)  
-- [2021-12-23-nginx-出现一堆这样的日志，这是什么鬼东西的请求](https://www.v2ex.com/t/823900) ![](assets/new.png)  
-- [2021-12-23-天坑：天天鉴宝，大家一定躲开啊](https://www.v2ex.com/t/823899) ![](assets/new.png)  
-- [2021-12-23-使用-npx-serve-.-打开一个-html，但是碰到了-SharedArrayBuffer-is-not-defined](https://www.v2ex.com/t/823898) ![](assets/new.png)  
-- [2021-12-23-怎么没人讨论黑客帝国-4](https://www.v2ex.com/t/823897) ![](assets/new.png)  
-- [2021-12-23-女朋友-30-多天没有来姨妈了，心情非常焦虑，不知道该怎么办。](https://www.v2ex.com/t/823896) ![](assets/new.png)  
-- [2021-12-23-sudo-密码输入问题](https://www.v2ex.com/t/823895) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -567,15 +567,15 @@
 - [2021-12-23-干货-|-Elasticsearch-向量搜索的工程化实战](https://toutiao.io/k/geounfc) ![](assets/new.png)  
 - [2021-12-23-Python-的元类设计起源自哪里？](https://toutiao.io/k/d6wco5e) ![](assets/new.png)  
 - [2021-12-23-Web-开发者需要知道的-18-个杀手级网站---刘星的个人网站](https://toutiao.io/k/ogkqwyr) ![](assets/new.png)  
-- [2021-12-23-阿里巴巴超大规模Kubernetes基础设施运维体系揭秘](https://toutiao.io/k/fpvwr8g) ![](assets/new.png)  
 - [2021-12-23-探秘｜下一代微服务：Service-Mesh-初露头角的那一年](https://toutiao.io/k/cm2vr8o) ![](assets/new.png)  
+- [2021-12-23-阿里巴巴超大规模Kubernetes基础设施运维体系揭秘](https://toutiao.io/k/fpvwr8g) ![](assets/new.png)  
 - [2021-12-23-利用-snapshot-进行集群迁移](https://toutiao.io/k/cbd0vuc) ![](assets/new.png)  
-- [2021-12-23-推荐-这些年我用过的API文档工具，个个是精品！](https://toutiao.io/k/xt41e64) ![](assets/new.png)  
-- [2021-12-23-推荐-译-Go-并不需要-Java-风格的-GC](https://toutiao.io/k/ksd0hqy) ![](assets/new.png)  
+- [2021-12-23-推荐-vivo-敏感词匹配系统的设计与实践](https://toutiao.io/k/hrnq79a) ![](assets/new.png)  
 - [2021-12-23-推荐-Intellij-IDEA-神级插件！效率提升-10-倍！](https://toutiao.io/k/4iqf0c2) ![](assets/new.png)  
 - [2021-12-23-推荐-一个技术团队leader的搭建私有知识库避坑经验分享](https://toutiao.io/k/o3dptn4) ![](assets/new.png)  
-- [2021-12-23-推荐-vivo-敏感词匹配系统的设计与实践](https://toutiao.io/k/hrnq79a) ![](assets/new.png)  
 - [2021-12-23-推荐-深入剖析全链路灰度技术内幕](https://toutiao.io/k/zimpz4c) ![](assets/new.png)  
+- [2021-12-23-推荐-​Golang-并发编程指南](https://toutiao.io/k/adoo89l) ![](assets/new.png)  
+- [2021-12-23-推荐-译-Go-并不需要-Java-风格的-GC](https://toutiao.io/k/ksd0hqy) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

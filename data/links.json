@@ -8042,11 +8042,6 @@
         "title": "迫于最近维修一个 6T 的硬盘，花了快 4 倍的钱。来询问大家关于维修硬盘的看法",
         "link": "https://www.v2ex.com/t/824025",
         "date": "2021-12-23"
-      },
-      {
-        "title": "win11 这该死的任务栏消息提醒！",
-        "link": "https://www.v2ex.com/t/824024",
-        "date": "2021-12-23"
       }
     ]
   },
@@ -8253,11 +8248,6 @@
         "date": "2021-12-23"
       },
       {
-        "title": "[推荐] Intellij IDEA 神级插件！效率提升 10 倍！",
-        "link": "https://toutiao.io/k/4iqf0c2",
-        "date": "2021-12-23"
-      },
-      {
         "title": "[推荐] 这些年我用过的API文档工具，个个是精品！",
         "link": "https://toutiao.io/k/xt41e64",
         "date": "2021-12-23"
@@ -8268,8 +8258,13 @@
         "date": "2021-12-23"
       },
       {
-        "title": "[推荐] ​Golang 并发编程指南",
-        "link": "https://toutiao.io/k/adoo89l",
+        "title": "[推荐] Intellij IDEA 神级插件！效率提升 10 倍！",
+        "link": "https://toutiao.io/k/4iqf0c2",
+        "date": "2021-12-23"
+      },
+      {
+        "title": "[推荐] 一个技术团队leader的搭建私有知识库避坑经验分享",
+        "link": "https://toutiao.io/k/o3dptn4",
         "date": "2021-12-23"
       },
       {
@@ -8278,8 +8273,8 @@
         "date": "2021-12-23"
       },
       {
-        "title": "[推荐] 一个技术团队leader的搭建私有知识库避坑经验分享",
-        "link": "https://toutiao.io/k/o3dptn4",
+        "title": "[推荐] ​Golang 并发编程指南",
+        "link": "https://toutiao.io/k/adoo89l",
         "date": "2021-12-23"
       },
       {

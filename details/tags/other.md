@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-12-23 11:11:17。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-23 11:19:59。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -6,11 +6,12 @@
 
 
 - [2021-12-23-最新疫情：全国新冠累计确诊100644例-累计接种新冠疫苗超27.19亿剂次](https://m.caixin.com/m/2021-12-23/101821350.html) 
+- [2021-12-23-西安两周累计确诊234例-封城后机场国内航班全部取消](https://m.caixin.com/m/2021-12-23/101821395.html) 
 - [2021-12-23-最新海外疫情：新冠感染超2.76亿-累计接种新冠疫苗超87.87亿剂次](https://m.caixin.com/m/2021-12-23/101821341.html) 
 - [2021-12-23-【境内疫情观察】全国新增71例本土病例（12月22日）](https://database.caixin.com/m/2021-12-23/101821239.html) 
-- [2021-12-22-陕西疫情累计扩散至4省6地-西安非必要离市人员将被劝返](https://m.caixin.com/m/2021-12-22/101820941.html) 
 - [2021-12-22-新加坡收紧边境-停售免隔离入境国家旅行售票](https://international.caixin.com/m/2021-12-22/101820983.html) 
 - [2021-12-22-加强针能否应对奥密克戎？专家指“混打”或效果更优](https://m.caixin.com/m/2021-12-22/101820618.html) 
+- [2021-12-22-陕西疫情累计扩散至4省6地-西安非必要离市人员将被劝返](https://m.caixin.com/m/2021-12-22/101820941.html) 
 - [2021-12-22-【境内疫情观察】陕西新增53例本土病例（12月21日）](https://database.caixin.com/m/2021-12-22/101820847.html) 
 - [2021-12-22-Omicron成为美国主要毒株-多国家缩短加强针间隔时间｜大流行手记（12月21日）](https://m.caixin.com/m/2021-12-22/101820624.html) 
 - [2021-12-21-西安疫情进入病例报告高峰期，透析患者再现就医难题](https://m.caixin.com/m/2021-12-21/101820494.html) 
@@ -1529,7 +1530,6 @@
 - [2021-12-23-MBP-为什么插着电源还是会用电池？](https://www.v2ex.com/t/824026) 
 - [2021-12-23-迫于最近维修一个-6T-的硬盘，花了快-4-倍的钱。来询问大家关于维修硬盘的看法](https://www.v2ex.com/t/824025) 
 - [2021-12-23-win11-这该死的任务栏消息提醒！](https://www.v2ex.com/t/824024) 
-- [2021-12-23-Sony-电视-USB-挂载硬盘如何写入硬盘文件](https://www.v2ex.com/t/824023) 
 - [2021-12-23-探索式测试的若干问题-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14862&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fexploratory-testing-things%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2021-12-23-谷歌-Android-12-Go-正式发布！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14861&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FfoPxB8GEHsK4INCPCQ0ryw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2021-12-23-高级程序员进化史-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14859&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247492747%26amp%3Bidx%3D1%26amp%3Bsn%3D757f40800aa8fdcd3d0667f2faa7dc2d%26amp%3Bchksm%3Dfa3f05d0cd488cc651543991fb50f36dce656fde866f42cca58985306c331e939e90d7bc1e63%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1559,10 +1559,10 @@
 - [2021-12-23-利用-snapshot-进行集群迁移](https://toutiao.io/k/cbd0vuc) 
 - [2021-12-23-动手实现一个localcache---欣赏优秀的开源设计](https://toutiao.io/k/qx343br) 
 - [2021-12-23-搜索引擎：基础原理全景介绍及产品应用场景](https://toutiao.io/k/p523zwp) 
+- [2021-12-23-推荐-Intellij-IDEA-神级插件！效率提升-10-倍！](https://toutiao.io/k/4iqf0c2) 
+- [2021-12-23-推荐-这些年我用过的API文档工具，个个是精品！](https://toutiao.io/k/xt41e64) 
 - [2021-12-23-推荐-vivo-敏感词匹配系统的设计与实践](https://toutiao.io/k/hrnq79a) 
+- [2021-12-23-推荐-​Golang-并发编程指南](https://toutiao.io/k/adoo89l) 
+- [2021-12-23-推荐-译-Go-并不需要-Java-风格的-GC](https://toutiao.io/k/ksd0hqy) 
 - [2021-12-23-推荐-一个技术团队leader的搭建私有知识库避坑经验分享](https://toutiao.io/k/o3dptn4) 
 - [2021-12-23-推荐-深入剖析全链路灰度技术内幕](https://toutiao.io/k/zimpz4c) 
-- [2021-12-23-推荐-这些年我用过的API文档工具，个个是精品！](https://toutiao.io/k/xt41e64) 
-- [2021-12-23-推荐-Intellij-IDEA-神级插件！效率提升-10-倍！](https://toutiao.io/k/4iqf0c2) 
-- [2021-12-23-推荐-译-Go-并不需要-Java-风格的-GC](https://toutiao.io/k/ksd0hqy) 
-- [2021-12-23-推荐-​Golang-并发编程指南](https://toutiao.io/k/adoo89l) 

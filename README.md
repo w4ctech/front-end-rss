@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-23 11:11:16，:rocket: 更新条数: +1609， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-23 11:19:59，:rocket: 更新条数: +1610， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -66,12 +66,13 @@
 
 
 - [2021-12-23-最新疫情：全国新冠累计确诊100644例-累计接种新冠疫苗超27.19亿剂次](https://m.caixin.com/m/2021-12-23/101821350.html) ![](assets/new.png)  
+- [2021-12-23-西安两周累计确诊234例-封城后机场国内航班全部取消](https://m.caixin.com/m/2021-12-23/101821395.html) ![](assets/new.png)  
 - [2021-12-23-最新海外疫情：新冠感染超2.76亿-累计接种新冠疫苗超87.87亿剂次](https://m.caixin.com/m/2021-12-23/101821341.html) ![](assets/new.png)  
 - [2021-12-23-【境内疫情观察】全国新增71例本土病例（12月22日）](https://database.caixin.com/m/2021-12-23/101821239.html) ![](assets/new.png)  
 - [2021-12-23-【图集】西安全市小区单位实行封闭管理](https://photos.caixin.com/m/2021-12-23/101821058.html) ![](assets/new.png)  
-- [2021-12-22-陕西疫情累计扩散至4省6地-西安非必要离市人员将被劝返](https://m.caixin.com/m/2021-12-22/101820941.html) ![](assets/new.png)  
 - [2021-12-22-新加坡收紧边境-停售免隔离入境国家旅行售票](https://international.caixin.com/m/2021-12-22/101820983.html) ![](assets/new.png)  
 - [2021-12-22-加强针能否应对奥密克戎？专家指“混打”或效果更优](https://m.caixin.com/m/2021-12-22/101820618.html) ![](assets/new.png)  
+- [2021-12-22-陕西疫情累计扩散至4省6地-西安非必要离市人员将被劝返](https://m.caixin.com/m/2021-12-22/101820941.html) ![](assets/new.png)  
 - [2021-12-22-【境内疫情观察】陕西新增53例本土病例（12月21日）](https://database.caixin.com/m/2021-12-22/101820847.html) ![](assets/new.png)  
 - [2021-12-22-Omicron成为美国主要毒株-多国家缩短加强针间隔时间｜大流行手记（12月21日）](https://m.caixin.com/m/2021-12-22/101820624.html) ![](assets/new.png)  
 - [2021-12-21-西安疫情进入病例报告高峰期，透析患者再现就医难题](https://m.caixin.com/m/2021-12-21/101820494.html) ![](assets/new.png)  
@@ -84,7 +85,6 @@
 - [2021-12-19-北京通州某画室一学生核酸检测阳性](https://m.caixin.com/m/2021-12-19/101819699.html) ![](assets/new.png)  
 - [2021-12-19-【境内疫情观察】全国新增44例本土病例（12月18日）](https://database.caixin.com/m/2021-12-19/101819705.html) ![](assets/new.png)  
 - [2021-12-19-伦敦进入“重大事件”状态-全球多地节庆活动受冲击｜大流行手记（12月18日）](https://m.caixin.com/m/2021-12-19/101819673.html) ![](assets/new.png)  
-- [2021-12-18-绍兴、西安疫情仍存扩散可能-专家提醒就地过年应避免“一刀切”](https://m.caixin.com/m/2021-12-18/101819547.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -494,6 +494,7 @@
 </summary>
 
 
+- [2021-12-23-Mac-上的-safari-一定是随系统更新嘛？](https://www.v2ex.com/t/824073) ![](assets/new.png)  
 - [2021-12-23-m1-macbook-air-求推荐移动硬盘](https://www.v2ex.com/t/824072) ![](assets/new.png)  
 - [2021-12-23-有没有免费好用的网页黑色主题插件](https://www.v2ex.com/t/824071) ![](assets/new.png)  
 - [2021-12-23-github-trending-markdown-项目屏蔽的油猴脚本](https://www.v2ex.com/t/824070) ![](assets/new.png)  
@@ -513,7 +514,6 @@
 - [2021-12-23-Telegram-从上两个版本开始，通知和角标不会智能同步了.](https://www.v2ex.com/t/824047) ![](assets/new.png)  
 - [2021-12-23-有没有好用的图片裁剪上传的插件呀？](https://www.v2ex.com/t/824046) ![](assets/new.png)  
 - [2021-12-23-微信-发现免费提现两个方法分享](https://www.v2ex.com/t/824044) ![](assets/new.png)  
-- [2021-12-23-AirPodsPro-没有“查找”网络](https://www.v2ex.com/t/824042) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -574,8 +574,8 @@
 - [2021-12-23-动手实现一个localcache---欣赏优秀的开源设计](https://toutiao.io/k/qx343br) ![](assets/new.png)  
 - [2021-12-23-再也不敢精通Java了——get/set篇](https://toutiao.io/k/mwsw764) ![](assets/new.png)  
 - [2021-12-23-搜索引擎：基础原理全景介绍及产品应用场景](https://toutiao.io/k/p523zwp) ![](assets/new.png)  
-- [2021-12-23-推荐-vivo-敏感词匹配系统的设计与实践](https://toutiao.io/k/hrnq79a) ![](assets/new.png)  
-- [2021-12-23-推荐-一个技术团队leader的搭建私有知识库避坑经验分享](https://toutiao.io/k/o3dptn4) ![](assets/new.png)  
+- [2021-12-23-推荐-Intellij-IDEA-神级插件！效率提升-10-倍！](https://toutiao.io/k/4iqf0c2) ![](assets/new.png)  
+- [2021-12-23-推荐-这些年我用过的API文档工具，个个是精品！](https://toutiao.io/k/xt41e64) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

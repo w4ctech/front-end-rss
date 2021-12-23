@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-12-23 09:22:58。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-23 09:41:48。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 前端进阶相关
 
@@ -7,5 +7,6 @@
 
 
 
+- [2021-12-23-主键-ID-是雪花算法生成的，还有必要添加一个业务-ID-字段吗](https://www.v2ex.com/t/824058) 
 - [2021-12-23-需求：-mastodon-做一个:帖子分享与话题收藏功能](https://www.v2ex.com/t/824014) 
 - [2021-12-23-干货-|-Elasticsearch-向量搜索的工程化实战](https://toutiao.io/k/geounfc) 

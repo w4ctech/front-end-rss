@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-23 03:45:04，:rocket: 更新条数: +1610， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-23 03:57:26，:rocket: 更新条数: +1612， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -66,6 +66,7 @@
 
 
 - [2021-12-23-12月22日全国新增新冠100例-五省份本土71例](https://m.caixin.com/m/2021-12-23/101821033.html) ![](assets/new.png)  
+- [2021-12-23-【图集】西安全市小区单位实行封闭管理](https://photos.caixin.com/m/2021-12-23/101821058.html) ![](assets/new.png)  
 - [2021-12-22-陕西疫情累计扩散至4省6地-西安非必要离市人员将被劝返](https://m.caixin.com/m/2021-12-22/101820941.html) ![](assets/new.png)  
 - [2021-12-22-新加坡收紧边境-停售免隔离入境国家旅行售票](https://international.caixin.com/m/2021-12-22/101820983.html) ![](assets/new.png)  
 - [2021-12-22-加强针能否应对奥密克戎？专家指“混打”或效果更优](https://m.caixin.com/m/2021-12-22/101820618.html) ![](assets/new.png)  
@@ -84,7 +85,6 @@
 - [2021-12-19-伦敦进入“重大事件”状态-全球多地节庆活动受冲击｜大流行手记（12月18日）](https://m.caixin.com/m/2021-12-19/101819673.html) ![](assets/new.png)  
 - [2021-12-18-绍兴、西安疫情仍存扩散可能-专家提醒就地过年应避免“一刀切”](https://m.caixin.com/m/2021-12-18/101819547.html) ![](assets/new.png)  
 - [2021-12-18-【境内疫情观察】全国新增89例本土病例（12月17日）](https://database.caixin.com/m/2021-12-18/101819570.html) ![](assets/new.png)  
-- [2021-12-18-研究称Omicron更容易再次感染-澳大利亚感染破纪录｜大流行手记（12月17日）](https://m.caixin.com/m/2021-12-18/101819454.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -494,6 +494,13 @@
 </summary>
 
 
+- [2021-12-23-初学求问：安卓的日历事件读写问题](https://www.v2ex.com/t/823946) ![](assets/new.png)  
+- [2021-12-23-不懂就问：为什么英特尔也有代言人](https://www.v2ex.com/t/823945) ![](assets/new.png)  
+- [2021-12-23-操作数组,-使得其中相同的元素的距离>=k](https://www.v2ex.com/t/823944) ![](assets/new.png)  
+- [2021-12-23-你们有没有发现小米官网的产品购买页面全是打不开的？](https://www.v2ex.com/t/823943) ![](assets/new.png)  
+- [2021-12-23-MacBook-通电的睡眠模式-hibernatemode-0-好还是-hibernatemode-3](https://www.v2ex.com/t/823942) ![](assets/new.png)  
+- [2021-12-23-V-友们-wget/-curl-后面的-URL-含特殊字符，该加单引号还是双引号？](https://www.v2ex.com/t/823941) ![](assets/new.png)  
+- [2021-12-23-装了个-wireguard，然后网络就被接管了，我想上网用原来的网卡，远程办公室电脑才用-vpn，咋整啊](https://www.v2ex.com/t/823939) ![](assets/new.png)  
 - [2021-12-23-Log4j2-漏洞后续——工信部暂停阿里云合作单位资格-6-个月](https://www.v2ex.com/t/823938) ![](assets/new.png)  
 - [2021-12-23-PRO-和-MAX-如何选择？](https://www.v2ex.com/t/823937) ![](assets/new.png)  
 - [2021-12-23-macbook-m1-做.NET-core-开发-有哪些坑要踩吗](https://www.v2ex.com/t/823936) ![](assets/new.png)  
@@ -507,13 +514,6 @@
 - [2021-12-23-各位来说说自己在西安的生活现状和防疫见闻吧](https://www.v2ex.com/t/823926) ![](assets/new.png)  
 - [2021-12-23-如何应对对于基础应用功能不会用就拉着你一直问，而从来不去视图自己搜索的人？](https://www.v2ex.com/t/823925) ![](assets/new.png)  
 - [2021-12-23-QQ-for-macOS-什么时候把聊天图片渲染改一下](https://www.v2ex.com/t/823924) ![](assets/new.png)  
-- [2021-12-23-networkmanager-管理后如何添加子网卡？](https://www.v2ex.com/t/823922) ![](assets/new.png)  
-- [2021-12-23-请教一下，-Gitlab-删除项目问题](https://www.v2ex.com/t/823921) ![](assets/new.png)  
-- [2021-12-23-wsl-网络通畅，但-dns-无法解析，改-resolv-文件一重启就还原](https://www.v2ex.com/t/823917) ![](assets/new.png)  
-- [2021-12-23-最近网络频繁出打开网页困难的症状，问题可能出在哪儿呢？](https://www.v2ex.com/t/823916) ![](assets/new.png)  
-- [2021-12-23-昨天京东下单了-iPhone-13-mini,-128-的-4670](https://www.v2ex.com/t/823915) ![](assets/new.png)  
-- [2021-12-23-Outlook-异常退出或失去响应的可能原因](https://www.v2ex.com/t/823914) ![](assets/new.png)  
-- [2021-12-23-求助，公司准备搞个-fq-的网络，大家有经验吗？](https://www.v2ex.com/t/823913) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -570,12 +570,12 @@
 - [2021-12-23-阿里巴巴超大规模Kubernetes基础设施运维体系揭秘](https://toutiao.io/k/fpvwr8g) ![](assets/new.png)  
 - [2021-12-23-探秘｜下一代微服务：Service-Mesh-初露头角的那一年](https://toutiao.io/k/cm2vr8o) ![](assets/new.png)  
 - [2021-12-23-利用-snapshot-进行集群迁移](https://toutiao.io/k/cbd0vuc) ![](assets/new.png)  
-- [2021-12-23-推荐-vivo-敏感词匹配系统的设计与实践](https://toutiao.io/k/hrnq79a) ![](assets/new.png)  
-- [2021-12-23-推荐-深入剖析全链路灰度技术内幕](https://toutiao.io/k/zimpz4c) ![](assets/new.png)  
-- [2021-12-23-推荐-Intellij-IDEA-神级插件！效率提升-10-倍！](https://toutiao.io/k/4iqf0c2) ![](assets/new.png)  
 - [2021-12-23-推荐-一个技术团队leader的搭建私有知识库避坑经验分享](https://toutiao.io/k/o3dptn4) ![](assets/new.png)  
-- [2021-12-23-推荐-这些年我用过的API文档工具，个个是精品！](https://toutiao.io/k/xt41e64) ![](assets/new.png)  
 - [2021-12-23-推荐-译-Go-并不需要-Java-风格的-GC](https://toutiao.io/k/ksd0hqy) ![](assets/new.png)  
+- [2021-12-23-推荐-深入剖析全链路灰度技术内幕](https://toutiao.io/k/zimpz4c) ![](assets/new.png)  
+- [2021-12-23-推荐-这些年我用过的API文档工具，个个是精品！](https://toutiao.io/k/xt41e64) ![](assets/new.png)  
+- [2021-12-23-推荐-Intellij-IDEA-神级插件！效率提升-10-倍！](https://toutiao.io/k/4iqf0c2) ![](assets/new.png)  
+- [2021-12-23-推荐-vivo-敏感词匹配系统的设计与实践](https://toutiao.io/k/hrnq79a) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

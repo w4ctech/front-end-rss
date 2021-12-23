@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-12-23 15:48:11。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-23 16:18:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 性能优化
 
@@ -9,3 +9,4 @@
 
 - [2021-12-23-Go：记一次提升18倍的性能优化](https://toutiao.io/k/dwkzreb) 
 - [2021-12-23-Kvrocks-在-RocksDB-上的优化实践](https://toutiao.io/k/wy3k98f) 
+- [2021-12-23-推荐-聊聊-sql-优化的-15-个小技巧](https://toutiao.io/k/a94tblq) 

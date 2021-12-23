@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-23 13:12:17，:rocket: 更新条数: +1613， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-23 13:26:21，:rocket: 更新条数: +1614， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,8 @@
 </summary>
 
 
+- [2021-12-23-「上海」野村证券,-Java-/BA/-Python-/c#等岗位火热招募中](https://www.v2ex.com/t/824093) ![](assets/new.png)  
+- [2021-12-23-Hammerspoon-实现表情包搜索](https://www.v2ex.com/t/824092) ![](assets/new.png)  
 - [2021-12-23-如何让-IPTV-和上网共用一根网线？](https://www.v2ex.com/t/824091) ![](assets/new.png)  
 - [2021-12-23-友商又来抄我们了！](https://www.v2ex.com/t/824090) ![](assets/new.png)  
 - [2021-12-23-BBR-在较差的网络环境下能提供不错的减少丢包效果，为什么-Ubuntu-等-Linux-发行版默认都没有开启-BBR？](https://www.v2ex.com/t/824089) ![](assets/new.png)  
@@ -512,8 +514,6 @@
 - [2021-12-23-Mac-上的-safari-一定是随系统更新嘛？](https://www.v2ex.com/t/824073) ![](assets/new.png)  
 - [2021-12-23-m1-macbook-air-求推荐移动硬盘](https://www.v2ex.com/t/824072) ![](assets/new.png)  
 - [2021-12-23-有没有免费好用的网页黑色主题插件](https://www.v2ex.com/t/824071) ![](assets/new.png)  
-- [2021-12-23-github-trending-markdown-项目屏蔽的油猴脚本](https://www.v2ex.com/t/824070) ![](assets/new.png)  
-- [2021-12-23-分享雨亦奇个人创作的若干首歌曲](https://www.v2ex.com/t/824069) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -568,14 +568,14 @@
 - [2021-12-23-阿里巴巴超大规模Kubernetes基础设施运维体系揭秘](https://toutiao.io/k/fpvwr8g) ![](assets/new.png)  
 - [2021-12-23-探秘｜下一代微服务：Service-Mesh-初露头角的那一年](https://toutiao.io/k/cm2vr8o) ![](assets/new.png)  
 - [2021-12-23-干货-|-Elasticsearch-向量搜索的工程化实战](https://toutiao.io/k/geounfc) ![](assets/new.png)  
-- [2021-12-23-Python-的元类设计起源自哪里？](https://toutiao.io/k/d6wco5e) ![](assets/new.png)  
 - [2021-12-23-SpringCloud-Alibaba实战（12：引入Dubbo实现RPC调用）](https://toutiao.io/k/jweji54) ![](assets/new.png)  
-- [2021-12-23-利用-snapshot-进行集群迁移](https://toutiao.io/k/cbd0vuc) ![](assets/new.png)  
+- [2021-12-23-Python-的元类设计起源自哪里？](https://toutiao.io/k/d6wco5e) ![](assets/new.png)  
 - [2021-12-23-动手实现一个localcache---欣赏优秀的开源设计](https://toutiao.io/k/qx343br) ![](assets/new.png)  
+- [2021-12-23-利用-snapshot-进行集群迁移](https://toutiao.io/k/cbd0vuc) ![](assets/new.png)  
 - [2021-12-23-再也不敢精通Java了——get/set篇](https://toutiao.io/k/mwsw764) ![](assets/new.png)  
 - [2021-12-23-搜索引擎：基础原理全景介绍及产品应用场景](https://toutiao.io/k/p523zwp) ![](assets/new.png)  
 - [2021-12-23-推荐-深入剖析全链路灰度技术内幕](https://toutiao.io/k/zimpz4c) ![](assets/new.png)  
-- [2021-12-23-推荐-Intellij-IDEA-神级插件！效率提升-10-倍！](https://toutiao.io/k/4iqf0c2) ![](assets/new.png)  
+- [2021-12-23-推荐-一个技术团队leader的搭建私有知识库避坑经验分享](https://toutiao.io/k/o3dptn4) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

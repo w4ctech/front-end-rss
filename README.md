@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-23 07:13:04，:rocket: 更新条数: +1612， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-23 07:21:19，:rocket: 更新条数: +1613， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,7 @@
 </summary>
 
 
+- [2021-12-23-马上圣诞节了，好快呀！一眨眼又老了一岁，大家-2021-这一年过得怎么样？](https://www.v2ex.com/t/824013) ![](assets/new.png)  
 - [2021-12-23-设计师，-Pro-和-Max-该如何选择？](https://www.v2ex.com/t/824012) ![](assets/new.png)  
 - [2021-12-23-关于考研，农业工程与信息技术专业](https://www.v2ex.com/t/824010) ![](assets/new.png)  
 - [2021-12-23-浏览器前端-Vue-请求时，-Stalled-时间过长问题](https://www.v2ex.com/t/824009) ![](assets/new.png)  
@@ -513,7 +514,6 @@
 - [2021-12-23-求大佬推荐个眼霜？](https://www.v2ex.com/t/823989) ![](assets/new.png)  
 - [2021-12-23-NAS-盘-Windows-文件路径-Mac-文件路径如何快速互转？](https://www.v2ex.com/t/823988) ![](assets/new.png)  
 - [2021-12-23-送码-开发了一款日期记录-app，欢迎大家下载体验](https://www.v2ex.com/t/823987) ![](assets/new.png)  
-- [2021-12-23-咨询帖：佩戴安耳悠耳塞，一段时间后耳道里面会痒](https://www.v2ex.com/t/823986) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -557,8 +557,8 @@
 
 
 - [2021-12-23-千亿级金融场景下，基于Pulsar的云原生消息队列有怎样的表现？](https://toutiao.io/k/upkl2yx) ![](assets/new.png)  
-- [2021-12-23-盘点2021｜「避坑宝典」为大家分享一下笔者在2021年所遇到“匪夷所思”的Bug趣事（上）](https://toutiao.io/k/zdaoba0) ![](assets/new.png)  
 - [2021-12-23-前端性能优化---每一个前端开发者需要知道的防抖与节流知识](https://toutiao.io/k/zw4nlz0) ![](assets/new.png)  
+- [2021-12-23-盘点2021｜「避坑宝典」为大家分享一下笔者在2021年所遇到“匪夷所思”的Bug趣事（上）](https://toutiao.io/k/zdaoba0) ![](assets/new.png)  
 - [2021-12-23-我被这个浏览了-746000-次的问题惊住了！](https://toutiao.io/k/c7xllwm) ![](assets/new.png)  
 - [2021-12-23-分布式链路追踪在字节跳动的实践](https://toutiao.io/k/hkc5fd7) ![](assets/new.png)  
 - [2021-12-23-对话Svelte未来，Rust-编译器？构建大型应用?](https://toutiao.io/k/5ty2d06) ![](assets/new.png)  
@@ -574,8 +574,8 @@
 - [2021-12-23-动手实现一个localcache---欣赏优秀的开源设计](https://toutiao.io/k/qx343br) ![](assets/new.png)  
 - [2021-12-23-再也不敢精通Java了——get/set篇](https://toutiao.io/k/mwsw764) ![](assets/new.png)  
 - [2021-12-23-搜索引擎：基础原理全景介绍及产品应用场景](https://toutiao.io/k/p523zwp) ![](assets/new.png)  
-- [2021-12-23-推荐-vivo-敏感词匹配系统的设计与实践](https://toutiao.io/k/hrnq79a) ![](assets/new.png)  
-- [2021-12-23-推荐-Intellij-IDEA-神级插件！效率提升-10-倍！](https://toutiao.io/k/4iqf0c2) ![](assets/new.png)  
+- [2021-12-23-推荐-这些年我用过的API文档工具，个个是精品！](https://toutiao.io/k/xt41e64) ![](assets/new.png)  
+- [2021-12-23-推荐-译-Go-并不需要-Java-风格的-GC](https://toutiao.io/k/ksd0hqy) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

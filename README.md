@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-23 11:39:49，:rocket: 更新条数: +1609， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-23 11:54:41，:rocket: 更新条数: +1608， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -563,8 +563,8 @@
 - [2021-12-23-分布式链路追踪在字节跳动的实践](https://toutiao.io/k/hkc5fd7) ![](assets/new.png)  
 - [2021-12-23-对话Svelte未来，Rust-编译器？构建大型应用?](https://toutiao.io/k/5ty2d06) ![](assets/new.png)  
 - [2021-12-23-Go：记一次提升18倍的性能优化](https://toutiao.io/k/dwkzreb) ![](assets/new.png)  
-- [2021-12-23-Kvrocks-在-RocksDB-上的优化实践](https://toutiao.io/k/wy3k98f) ![](assets/new.png)  
 - [2021-12-23-Web-开发者需要知道的-18-个杀手级网站---刘星的个人网站](https://toutiao.io/k/ogkqwyr) ![](assets/new.png)  
+- [2021-12-23-Kvrocks-在-RocksDB-上的优化实践](https://toutiao.io/k/wy3k98f) ![](assets/new.png)  
 - [2021-12-23-阿里巴巴超大规模Kubernetes基础设施运维体系揭秘](https://toutiao.io/k/fpvwr8g) ![](assets/new.png)  
 - [2021-12-23-探秘｜下一代微服务：Service-Mesh-初露头角的那一年](https://toutiao.io/k/cm2vr8o) ![](assets/new.png)  
 - [2021-12-23-干货-|-Elasticsearch-向量搜索的工程化实战](https://toutiao.io/k/geounfc) ![](assets/new.png)  
@@ -574,8 +574,8 @@
 - [2021-12-23-动手实现一个localcache---欣赏优秀的开源设计](https://toutiao.io/k/qx343br) ![](assets/new.png)  
 - [2021-12-23-再也不敢精通Java了——get/set篇](https://toutiao.io/k/mwsw764) ![](assets/new.png)  
 - [2021-12-23-搜索引擎：基础原理全景介绍及产品应用场景](https://toutiao.io/k/p523zwp) ![](assets/new.png)  
-- [2021-12-23-推荐-这些年我用过的API文档工具，个个是精品！](https://toutiao.io/k/xt41e64) ![](assets/new.png)  
-- [2021-12-23-推荐-vivo-敏感词匹配系统的设计与实践](https://toutiao.io/k/hrnq79a) ![](assets/new.png)  
+- [2021-12-23-推荐-深入剖析全链路灰度技术内幕](https://toutiao.io/k/zimpz4c) ![](assets/new.png)  
+- [2021-12-23-推荐-译-Go-并不需要-Java-风格的-GC](https://toutiao.io/k/ksd0hqy) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

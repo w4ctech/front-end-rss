@@ -1,18 +1,18 @@
-:alarm_clock: 更新时间: 2021-12-23 09:45:30。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-23 09:57:38。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
 
 
 
-- [2021-12-23-12月22日全国新增新冠100例-五省份本土71例](https://m.caixin.com/m/2021-12-23/101821033.html) 
 - [2021-12-23-【境内疫情观察】全国新增71例本土病例（12月22日）](https://database.caixin.com/m/2021-12-23/101821239.html) 
+- [2021-12-22-最新疫情：全国新冠累计确诊100544例-累计接种新冠疫苗超27.06亿剂次](https://m.caixin.com/m/2021-12-22/101821311.html) 
 - [2021-12-22-陕西疫情累计扩散至4省6地-西安非必要离市人员将被劝返](https://m.caixin.com/m/2021-12-22/101820941.html) 
 - [2021-12-22-新加坡收紧边境-停售免隔离入境国家旅行售票](https://international.caixin.com/m/2021-12-22/101820983.html) 
 - [2021-12-22-加强针能否应对奥密克戎？专家指“混打”或效果更优](https://m.caixin.com/m/2021-12-22/101820618.html) 
+- [2021-12-22-最新海外疫情：新冠感染超2.75亿-累计接种新冠疫苗超87.5亿剂次](https://m.caixin.com/m/2021-12-22/101821308.html) 
 - [2021-12-22-【境内疫情观察】陕西新增53例本土病例（12月21日）](https://database.caixin.com/m/2021-12-22/101820847.html) 
 - [2021-12-22-Omicron成为美国主要毒株-多国家缩短加强针间隔时间｜大流行手记（12月21日）](https://m.caixin.com/m/2021-12-22/101820624.html) 
-- [2021-12-21-最新海外疫情：新冠感染超2.74亿-累计接种新冠疫苗超87.13亿剂次](https://m.caixin.com/m/2021-12-21/101820433.html) 
 - [2021-12-21-西安疫情进入病例报告高峰期，透析患者再现就医难题](https://m.caixin.com/m/2021-12-21/101820494.html) 
 - [2021-12-21-【境内疫情观察】全国新增57例本土病例（12月20日）](https://database.caixin.com/m/2021-12-21/101820393.html) 
 - [2021-12-21-Moderna称加强针有效保护Omicron-欧盟批准Novavax疫苗｜大流行手记（12月20日）](https://m.caixin.com/m/2021-12-21/101820187.html) 
@@ -1501,6 +1501,7 @@
 - [2021-12-17-科技爱好者周刊（第-188-期）：音乐是反社交](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-188.html) 
 - [2021-12-10-科技爱好者周刊（第-187-期）：元宇宙会成功吗](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-187.html) 
 - [2021-12-07-为什么-Web3-与区块链有关](http://www.ruanyifeng.com/blog/2021/12/web3.html) 
+- [2021-12-23-询问大家对于“视屏”、“优惠卷”、“冲话费”这类词的看法](https://www.v2ex.com/t/824061) 
 - [2021-12-23-Obsidian-支持所见即所得了](https://www.v2ex.com/t/824059) 
 - [2021-12-23-有没有-PHP-岗位的远程工作？](https://www.v2ex.com/t/824057) 
 - [2021-12-23-老铁们帮忙推荐一款护眼的显示器吧](https://www.v2ex.com/t/824055) 
@@ -1529,7 +1530,6 @@
 - [2021-12-23-11.6.2-Mac-重按触控板进行查询翻译功能怎么唤不醒了？](https://www.v2ex.com/t/824017) 
 - [2021-12-23-求问一款-mmorpg-webgame-的地址，有点类似魔兽世界](https://www.v2ex.com/t/824015) 
 - [2021-12-23-马上圣诞节了，好快呀！一眨眼又老了一岁，大家-2021-这一年过得怎么样？](https://www.v2ex.com/t/824013) 
-- [2021-12-23-设计师，-Pro-和-Max-该如何选择？](https://www.v2ex.com/t/824012) 
 - [2021-12-23-探索式测试的若干问题-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14862&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fexploratory-testing-things%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2021-12-23-谷歌-Android-12-Go-正式发布！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14861&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FfoPxB8GEHsK4INCPCQ0ryw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2021-12-23-高级程序员进化史-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14859&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247492747%26amp%3Bidx%3D1%26amp%3Bsn%3D757f40800aa8fdcd3d0667f2faa7dc2d%26amp%3Bchksm%3Dfa3f05d0cd488cc651543991fb50f36dce656fde866f42cca58985306c331e939e90d7bc1e63%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1559,10 +1559,10 @@
 - [2021-12-23-SpringCloud-Alibaba实战（12：引入Dubbo实现RPC调用）](https://toutiao.io/k/jweji54) 
 - [2021-12-23-动手实现一个localcache---欣赏优秀的开源设计](https://toutiao.io/k/qx343br) 
 - [2021-12-23-搜索引擎：基础原理全景介绍及产品应用场景](https://toutiao.io/k/p523zwp) 
-- [2021-12-23-推荐-译-Go-并不需要-Java-风格的-GC](https://toutiao.io/k/ksd0hqy) 
-- [2021-12-23-推荐-Intellij-IDEA-神级插件！效率提升-10-倍！](https://toutiao.io/k/4iqf0c2) 
-- [2021-12-23-推荐-vivo-敏感词匹配系统的设计与实践](https://toutiao.io/k/hrnq79a) 
 - [2021-12-23-推荐-一个技术团队leader的搭建私有知识库避坑经验分享](https://toutiao.io/k/o3dptn4) 
-- [2021-12-23-推荐-​Golang-并发编程指南](https://toutiao.io/k/adoo89l) 
-- [2021-12-23-推荐-这些年我用过的API文档工具，个个是精品！](https://toutiao.io/k/xt41e64) 
 - [2021-12-23-推荐-深入剖析全链路灰度技术内幕](https://toutiao.io/k/zimpz4c) 
+- [2021-12-23-推荐-这些年我用过的API文档工具，个个是精品！](https://toutiao.io/k/xt41e64) 
+- [2021-12-23-推荐-Intellij-IDEA-神级插件！效率提升-10-倍！](https://toutiao.io/k/4iqf0c2) 
+- [2021-12-23-推荐-译-Go-并不需要-Java-风格的-GC](https://toutiao.io/k/ksd0hqy) 
+- [2021-12-23-推荐-​Golang-并发编程指南](https://toutiao.io/k/adoo89l) 
+- [2021-12-23-推荐-vivo-敏感词匹配系统的设计与实践](https://toutiao.io/k/hrnq79a) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-23 09:45:30，:rocket: 更新条数: +1609， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-23 09:57:38，:rocket: 更新条数: +1609， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -65,15 +65,15 @@
 </summary>
 
 
-- [2021-12-23-12月22日全国新增新冠100例-五省份本土71例](https://m.caixin.com/m/2021-12-23/101821033.html) ![](assets/new.png)  
 - [2021-12-23-【境内疫情观察】全国新增71例本土病例（12月22日）](https://database.caixin.com/m/2021-12-23/101821239.html) ![](assets/new.png)  
 - [2021-12-23-【图集】西安全市小区单位实行封闭管理](https://photos.caixin.com/m/2021-12-23/101821058.html) ![](assets/new.png)  
+- [2021-12-22-最新疫情：全国新冠累计确诊100544例-累计接种新冠疫苗超27.06亿剂次](https://m.caixin.com/m/2021-12-22/101821311.html) ![](assets/new.png)  
 - [2021-12-22-陕西疫情累计扩散至4省6地-西安非必要离市人员将被劝返](https://m.caixin.com/m/2021-12-22/101820941.html) ![](assets/new.png)  
 - [2021-12-22-新加坡收紧边境-停售免隔离入境国家旅行售票](https://international.caixin.com/m/2021-12-22/101820983.html) ![](assets/new.png)  
 - [2021-12-22-加强针能否应对奥密克戎？专家指“混打”或效果更优](https://m.caixin.com/m/2021-12-22/101820618.html) ![](assets/new.png)  
+- [2021-12-22-最新海外疫情：新冠感染超2.75亿-累计接种新冠疫苗超87.5亿剂次](https://m.caixin.com/m/2021-12-22/101821308.html) ![](assets/new.png)  
 - [2021-12-22-【境内疫情观察】陕西新增53例本土病例（12月21日）](https://database.caixin.com/m/2021-12-22/101820847.html) ![](assets/new.png)  
 - [2021-12-22-Omicron成为美国主要毒株-多国家缩短加强针间隔时间｜大流行手记（12月21日）](https://m.caixin.com/m/2021-12-22/101820624.html) ![](assets/new.png)  
-- [2021-12-21-最新海外疫情：新冠感染超2.74亿-累计接种新冠疫苗超87.13亿剂次](https://m.caixin.com/m/2021-12-21/101820433.html) ![](assets/new.png)  
 - [2021-12-21-西安疫情进入病例报告高峰期，透析患者再现就医难题](https://m.caixin.com/m/2021-12-21/101820494.html) ![](assets/new.png)  
 - [2021-12-21-【境内疫情观察】全国新增57例本土病例（12月20日）](https://database.caixin.com/m/2021-12-21/101820393.html) ![](assets/new.png)  
 - [2021-12-21-Moderna称加强针有效保护Omicron-欧盟批准Novavax疫苗｜大流行手记（12月20日）](https://m.caixin.com/m/2021-12-21/101820187.html) ![](assets/new.png)  
@@ -494,6 +494,7 @@
 </summary>
 
 
+- [2021-12-23-询问大家对于“视屏”、“优惠卷”、“冲话费”这类词的看法](https://www.v2ex.com/t/824061) ![](assets/new.png)  
 - [2021-12-23-Obsidian-支持所见即所得了](https://www.v2ex.com/t/824059) ![](assets/new.png)  
 - [2021-12-23-主键-ID-是雪花算法生成的，还有必要添加一个业务-ID-字段吗](https://www.v2ex.com/t/824058) ![](assets/new.png)  
 - [2021-12-23-有没有-PHP-岗位的远程工作？](https://www.v2ex.com/t/824057) ![](assets/new.png)  
@@ -513,7 +514,6 @@
 - [2021-12-23-开放-API-和业务-API](https://www.v2ex.com/t/824035) ![](assets/new.png)  
 - [2021-12-23-眼镜困惑](https://www.v2ex.com/t/824034) ![](assets/new.png)  
 - [2021-12-23-请教-V-友-MacBook-M1-系列最具性价比的配置是-16+256-air-?](https://www.v2ex.com/t/824033) ![](assets/new.png)  
-- [2021-12-23-有没有人遇到过-win11-下-nslookup-非常迅速但-ping-无法找到主机的情况？](https://www.v2ex.com/t/824030) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -574,8 +574,8 @@
 - [2021-12-23-动手实现一个localcache---欣赏优秀的开源设计](https://toutiao.io/k/qx343br) ![](assets/new.png)  
 - [2021-12-23-再也不敢精通Java了——get/set篇](https://toutiao.io/k/mwsw764) ![](assets/new.png)  
 - [2021-12-23-搜索引擎：基础原理全景介绍及产品应用场景](https://toutiao.io/k/p523zwp) ![](assets/new.png)  
-- [2021-12-23-推荐-译-Go-并不需要-Java-风格的-GC](https://toutiao.io/k/ksd0hqy) ![](assets/new.png)  
-- [2021-12-23-推荐-Intellij-IDEA-神级插件！效率提升-10-倍！](https://toutiao.io/k/4iqf0c2) ![](assets/new.png)  
+- [2021-12-23-推荐-一个技术团队leader的搭建私有知识库避坑经验分享](https://toutiao.io/k/o3dptn4) ![](assets/new.png)  
+- [2021-12-23-推荐-深入剖析全链路灰度技术内幕](https://toutiao.io/k/zimpz4c) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

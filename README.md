@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-24 16:18:02，:rocket: 更新条数: +1627， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-24 16:34:20，:rocket: 更新条数: +1627， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,8 @@
 </summary>
 
 
+- [2021-12-24-请问给-App-开发后端时，错误码应该使用-Http-状态码，还是放到返回的-json-里？](https://www.v2ex.com/t/824337) ![](assets/new.png)  
+- [2021-12-24-公司内部有机会外派到海外的分公司，犹豫不决，有老哥在欧洲那边工作吗？](https://www.v2ex.com/t/824336) ![](assets/new.png)  
 - [2021-12-24-领导出了个题目，有何深意？](https://www.v2ex.com/t/824335) ![](assets/new.png)  
 - [2021-12-24-Python-正在弃用-distutils.cfg](https://www.v2ex.com/t/824334) ![](assets/new.png)  
 - [2021-12-24-动森好友](https://www.v2ex.com/t/824333) ![](assets/new.png)  
@@ -512,8 +514,6 @@
 - [2021-12-24-游戏买了不玩，却每次活动还想买……](https://www.v2ex.com/t/824317) ![](assets/new.png)  
 - [2021-12-24-redbean-单文件跨平台](https://www.v2ex.com/t/824316) ![](assets/new.png)  
 - [2021-12-24-送码-wTodo-Watch-版微软-Todo-客户端](https://www.v2ex.com/t/824315) ![](assets/new.png)  
-- [2021-12-24-mac-下-Pycharm-用的-JVM-可能会从哪里读参数/环境变量，想彻底清理所有-Pycharm-设置。](https://www.v2ex.com/t/824314) ![](assets/new.png)  
-- [2021-12-24-英语菜鸟-想学语法，《语法俱乐部》这本书适合作为入门吗？](https://www.v2ex.com/t/824312) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

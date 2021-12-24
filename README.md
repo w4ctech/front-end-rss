@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-24 02:13:21，:rocket: 更新条数: +1612， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-24 02:36:21，:rocket: 更新条数: +1616， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -66,15 +66,18 @@
 
 
 - [2021-12-24-12月23日全国新增新冠87例-四省份本土55例](https://m.caixin.com/m/2021-12-24/101821504.html) ![](assets/new.png)  
+- [2021-12-24-香港研究：三针科兴疫苗抗体不足抵抗Omicron-建议加强针混打](https://m.caixin.com/m/2021-12-24/101821543.html) ![](assets/new.png)  
+- [2021-12-24-西安处理疫情防控不力相关责任人26名](https://m.caixin.com/m/2021-12-24/101821540.html) ![](assets/new.png)  
+- [2021-12-24-美国FDA批准默沙东新冠口服药-澳大利亚感染再创纪录｜大流行手记（12月23日）](https://m.caixin.com/m/2021-12-24/101821536.html) ![](assets/new.png)  
 - [2021-12-23-西安两周累计确诊234例-封城后机场国内航班全部取消](https://m.caixin.com/m/2021-12-23/101821395.html) ![](assets/new.png)  
 - [2021-12-23-最新海外疫情：新冠感染超2.76亿-累计接种新冠疫苗超87.87亿剂次](https://m.caixin.com/m/2021-12-23/101821341.html) ![](assets/new.png)  
 - [2021-12-23-【境内疫情观察】全国新增71例本土病例（12月22日）](https://database.caixin.com/m/2021-12-23/101821239.html) ![](assets/new.png)  
 - [2021-12-23-【图集】西安全市小区单位实行封闭管理](https://photos.caixin.com/m/2021-12-23/101821058.html) ![](assets/new.png)  
-- [2021-12-22-新加坡收紧边境-停售免隔离入境国家旅行售票](https://international.caixin.com/m/2021-12-22/101820983.html) ![](assets/new.png)  
-- [2021-12-22-加强针能否应对奥密克戎？专家指“混打”或效果更优](https://m.caixin.com/m/2021-12-22/101820618.html) ![](assets/new.png)  
 - [2021-12-22-陕西疫情累计扩散至4省6地-西安非必要离市人员将被劝返](https://m.caixin.com/m/2021-12-22/101820941.html) ![](assets/new.png)  
 - [2021-12-22-【境内疫情观察】陕西新增53例本土病例（12月21日）](https://database.caixin.com/m/2021-12-22/101820847.html) ![](assets/new.png)  
 - [2021-12-22-Omicron成为美国主要毒株-多国家缩短加强针间隔时间｜大流行手记（12月21日）](https://m.caixin.com/m/2021-12-22/101820624.html) ![](assets/new.png)  
+- [2021-12-22-加强针能否应对奥密克戎？专家指“混打”或效果更优](https://m.caixin.com/m/2021-12-22/101820618.html) ![](assets/new.png)  
+- [2021-12-22-新加坡收紧边境-停售免隔离入境国家旅行售票](https://international.caixin.com/m/2021-12-22/101820983.html) ![](assets/new.png)  
 - [2021-12-21-西安疫情进入病例报告高峰期，透析患者再现就医难题](https://m.caixin.com/m/2021-12-21/101820494.html) ![](assets/new.png)  
 - [2021-12-21-【境内疫情观察】全国新增57例本土病例（12月20日）](https://database.caixin.com/m/2021-12-21/101820393.html) ![](assets/new.png)  
 - [2021-12-21-Moderna称加强针有效保护Omicron-欧盟批准Novavax疫苗｜大流行手记（12月20日）](https://m.caixin.com/m/2021-12-21/101820187.html) ![](assets/new.png)  
@@ -82,9 +85,6 @@
 - [2021-12-20-西安疫情日新增翻倍-元旦春节期间跨省旅游实行“熔断”](https://m.caixin.com/m/2021-12-20/101820083.html) ![](assets/new.png)  
 - [2021-12-20-【境内疫情观察】全国新增37例本土病例（12月19日）](https://database.caixin.com/m/2021-12-20/101819939.html) ![](assets/new.png)  
 - [2021-12-20-新变种社区传播3天感染翻倍，辉瑞低龄童疫苗效果不佳｜大流行手记（12月19日）](https://m.caixin.com/m/2021-12-20/101819769.html) ![](assets/new.png)  
-- [2021-12-19-北京通州某画室一学生核酸检测阳性](https://m.caixin.com/m/2021-12-19/101819699.html) ![](assets/new.png)  
-- [2021-12-19-【境内疫情观察】全国新增44例本土病例（12月18日）](https://database.caixin.com/m/2021-12-19/101819705.html) ![](assets/new.png)  
-- [2021-12-19-伦敦进入“重大事件”状态-全球多地节庆活动受冲击｜大流行手记（12月18日）](https://m.caixin.com/m/2021-12-19/101819673.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -494,6 +494,12 @@
 </summary>
 
 
+- [2021-12-24-如何使用非网关设备把内网的设备映射出去?](https://www.v2ex.com/t/824157) ![](assets/new.png)  
+- [2021-12-24-看到这个。。。QQ-jietu-plugin](https://www.v2ex.com/t/824156) ![](assets/new.png)  
+- [2021-12-24-APP-接口加密了有办法抓包后解密吗？](https://www.v2ex.com/t/824155) ![](assets/new.png)  
+- [2021-12-24-广州永泰精装电梯一手房东，因成了铲屎官，现转租](https://www.v2ex.com/t/824153) ![](assets/new.png)  
+- [2021-12-24-Messager-电脑端登陆不上](https://www.v2ex.com/t/824152) ![](assets/new.png)  
+- [2021-12-24-有没有什么好的线上笔记使用？](https://www.v2ex.com/t/824151) ![](assets/new.png)  
 - [2021-12-24-我的-WeChat-无法-iPad-/PC-同时登陆了？](https://www.v2ex.com/t/824150) ![](assets/new.png)  
 - [2021-12-24-MacOs-Monterey-命令行无法显示-git-分支](https://www.v2ex.com/t/824149) ![](assets/new.png)  
 - [2021-12-24-小米-10-安装-youtube-advanced，提示不给安装，给我气坏了](https://www.v2ex.com/t/824148) ![](assets/new.png)  
@@ -508,12 +514,6 @@
 - [2021-12-24-公司企业微信不能传截图了，有没有网页端图片即时分享的产品？](https://www.v2ex.com/t/824135) ![](assets/new.png)  
 - [2021-12-24-敏感数据加密解决方案求助](https://www.v2ex.com/t/824134) ![](assets/new.png)  
 - [2021-12-24-店名征集-送-10-张-288-单人门票-和-6-张-688-家庭票和-1-张年度无限次游览卡（价值-68000）欢迎来到花村](https://www.v2ex.com/t/824132) ![](assets/new.png)  
-- [2021-12-24-腾讯云崩了？](https://www.v2ex.com/t/824131) ![](assets/new.png)  
-- [2021-12-24-问下第二个路由怎么配置能和主路由的设备相互通信](https://www.v2ex.com/t/824129) ![](assets/new.png)  
-- [2021-12-24-关于-Redis-6.0-多线程的一点疑惑](https://www.v2ex.com/t/824128) ![](assets/new.png)  
-- [2021-12-24-有没有人用过-Unihertz-titan-手机？](https://www.v2ex.com/t/824127) ![](assets/new.png)  
-- [2021-12-24-想-1500-2000-左右弄个安卓](https://www.v2ex.com/t/824126) ![](assets/new.png)  
-- [2021-12-24-使用-Clash-作为代理的-V-友，会碰到-Microsoft-Store“无法加载页面"的问题吗？怎么解决的呢？](https://www.v2ex.com/t/824125) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -560,22 +560,22 @@
 - [2021-12-24-整洁架构设计分析--架构设计的本质是什么?](https://toutiao.io/k/10u1cak) ![](assets/new.png)  
 - [2021-12-24-小心陷入-MySQL-索引的坑](https://toutiao.io/k/gucqkq4) ![](assets/new.png)  
 - [2021-12-24-Kafka集群突破百万partition-的技术探索](https://toutiao.io/k/4lw8h50) ![](assets/new.png)  
+- [2021-12-24-1万字详解-python-logging日志模块](https://toutiao.io/k/g6hs782) ![](assets/new.png)  
 - [2021-12-24-一致性哈希和分库分表有毛关系？](https://toutiao.io/k/wsh3xob) ![](assets/new.png)  
 - [2021-12-24-频频闯祸的-JNDI，到底是个什么“垃圾”玩意儿？](https://toutiao.io/k/83p5hvg) ![](assets/new.png)  
-- [2021-12-24-1万字详解-python-logging日志模块](https://toutiao.io/k/g6hs782) ![](assets/new.png)  
 - [2021-12-24-别吵吵内卷了，看看人家虚拟人：连续直播70天都没工资](https://toutiao.io/k/12qvwce) ![](assets/new.png)  
 - [2021-12-24-多集群下的-Tekton-流水线实践](https://toutiao.io/k/wh3si2m) ![](assets/new.png)  
 - [2021-12-24-如何做前端单元测试](https://toutiao.io/k/2qvvzxq) ![](assets/new.png)  
+- [2021-12-24-网易严选数据质量实践](https://toutiao.io/k/zsigyeu) ![](assets/new.png)  
 - [2021-12-24-Go泛型不支持泛型方法，这是一个悲伤的故事](https://toutiao.io/k/tta22zl) ![](assets/new.png)  
 - [2021-12-24-三种方式让你轻松监控-EntityFramework-中的-sql-流转](https://toutiao.io/k/lwkz8my) ![](assets/new.png)  
 - [2021-12-24-云原生时代的运维体系进化](https://toutiao.io/k/15x6e9o) ![](assets/new.png)  
-- [2021-12-24-网易严选数据质量实践](https://toutiao.io/k/zsigyeu) ![](assets/new.png)  
 - [2021-12-24-推荐-熬夜彻底搞懂Cookie-Session-Token-JWT](https://toutiao.io/k/g49lsl5) ![](assets/new.png)  
-- [2021-12-24-推荐-vivo-敏感词匹配系统的设计与实践](https://toutiao.io/k/hrnq79a) ![](assets/new.png)  
-- [2021-12-24-推荐-​Golang-并发编程指南](https://toutiao.io/k/adoo89l) ![](assets/new.png)  
-- [2021-12-24-推荐-聊聊-sql-优化的-15-个小技巧](https://toutiao.io/k/a94tblq) ![](assets/new.png)  
-- [2021-12-24-推荐-深入剖析全链路灰度技术内幕](https://toutiao.io/k/zimpz4c) ![](assets/new.png)  
 - [2021-12-24-推荐-Intellij-IDEA-神级插件！效率提升-10-倍！](https://toutiao.io/k/4iqf0c2) ![](assets/new.png)  
+- [2021-12-24-推荐-这些年我用过的API文档工具，个个是精品！](https://toutiao.io/k/xt41e64) ![](assets/new.png)  
+- [2021-12-24-推荐-深入剖析全链路灰度技术内幕](https://toutiao.io/k/zimpz4c) ![](assets/new.png)  
+- [2021-12-24-推荐-一个技术团队leader的搭建私有知识库避坑经验分享](https://toutiao.io/k/o3dptn4) ![](assets/new.png)  
+- [2021-12-24-推荐-vivo-敏感词匹配系统的设计与实践](https://toutiao.io/k/hrnq79a) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

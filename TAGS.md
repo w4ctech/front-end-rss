@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-12-24 14:54:29。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-24 15:13:14。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -254,7 +254,6 @@
 
 
 
-- [【V2EX】问下这个-sql-性能能不能达到-2s-查出结果](https://www.v2ex.com/t/824283)
 - [【开发者头条】Java-中的5个代码性能提升技巧，最高提升近10倍](https://toutiao.io/k/eyom45a)
 - [【开发者头条】推荐-聊聊-sql-优化的-15-个小技巧](https://toutiao.io/k/a94tblq)
 - [......【查看更多】......](./details/tags/optimization.md)

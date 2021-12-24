@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-12-24 14:54:29。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-24 15:13:14。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1508,6 +1508,7 @@
 - [2021-12-24-科技爱好者周刊（第-189-期）：下一个内卷的行业](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-189.html) 
 - [2021-12-17-科技爱好者周刊（第-188-期）：音乐是反社交](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-188.html) 
 - [2021-12-10-科技爱好者周刊（第-187-期）：元宇宙会成功吗](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-187.html) 
+- [2021-12-24-动森好友](https://www.v2ex.com/t/824333) 
 - [2021-12-24-内推-Java-研发美团优选职级-Open-薪资好说-经理直招](https://www.v2ex.com/t/824331) 
 - [2021-12-24-安利一下自己写的-macOS-剪切板工具-优惠码](https://www.v2ex.com/t/824330) 
 - [2021-12-24-考研加油](https://www.v2ex.com/t/824329) 
@@ -1576,9 +1577,9 @@
 - [2021-12-24-最美圣诞树！用Python画棵雪夜圣诞树送给你](https://toutiao.io/k/m7n9ih6) 
 - [2021-12-24-背事故？分享-6-种常见的-Go-致命错误场景！](https://toutiao.io/k/uds9pai) 
 - [2021-12-24-如何用建木CI生成Allure报表](https://toutiao.io/k/3hqo1zj) 
-- [2021-12-24-推荐-这些年我用过的API文档工具，个个是精品！](https://toutiao.io/k/xt41e64) 
-- [2021-12-24-推荐-Intellij-IDEA-神级插件！效率提升-10-倍！](https://toutiao.io/k/4iqf0c2) 
 - [2021-12-24-推荐-vivo-敏感词匹配系统的设计与实践](https://toutiao.io/k/hrnq79a) 
-- [2021-12-24-推荐-深入剖析全链路灰度技术内幕](https://toutiao.io/k/zimpz4c) 
-- [2021-12-24-推荐-一个技术团队leader的搭建私有知识库避坑经验分享](https://toutiao.io/k/o3dptn4) 
+- [2021-12-24-推荐-这些年我用过的API文档工具，个个是精品！](https://toutiao.io/k/xt41e64) 
 - [2021-12-24-推荐-​Golang-并发编程指南](https://toutiao.io/k/adoo89l) 
+- [2021-12-24-推荐-一个技术团队leader的搭建私有知识库避坑经验分享](https://toutiao.io/k/o3dptn4) 
+- [2021-12-24-推荐-Intellij-IDEA-神级插件！效率提升-10-倍！](https://toutiao.io/k/4iqf0c2) 
+- [2021-12-24-推荐-深入剖析全链路灰度技术内幕](https://toutiao.io/k/zimpz4c) 

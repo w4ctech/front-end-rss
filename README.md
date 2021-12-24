@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-24 14:12:24，:rocket: 更新条数: +1625， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-24 14:20:41，:rocket: 更新条数: +1625， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -68,8 +68,8 @@
 - [2021-12-24-最新疫情：全国新冠累计确诊100731例-累计接种新冠疫苗超27.32亿剂次](https://m.caixin.com/m/2021-12-24/101821838.html) ![](assets/new.png)  
 - [2021-12-24-昆明新增2例阳性-系夫妻](https://china.caixin.com/m/2021-12-24/101821888.html) ![](assets/new.png)  
 - [2021-12-24-香港研究：三针科兴疫苗抗体不足-为防Omicron建议混打](https://m.caixin.com/m/2021-12-24/101821543.html) ![](assets/new.png)  
-- [2021-12-24-西安处理疫情防控不力相关责任人26名](https://m.caixin.com/m/2021-12-24/101821540.html) ![](assets/new.png)  
 - [2021-12-24-最新海外疫情：新冠感染超2.77亿-累计接种新冠疫苗超88.27亿剂次](https://m.caixin.com/m/2021-12-24/101821835.html) ![](assets/new.png)  
+- [2021-12-24-西安处理疫情防控不力相关责任人26名](https://m.caixin.com/m/2021-12-24/101821540.html) ![](assets/new.png)  
 - [2021-12-24-【境内疫情观察】陕西新增52例本土病例（12月23日）](https://database.caixin.com/m/2021-12-24/101821688.html) ![](assets/new.png)  
 - [2021-12-24-美国FDA批准默沙东新冠口服药-澳大利亚感染再创纪录｜大流行手记（12月23日）](https://m.caixin.com/m/2021-12-24/101821536.html) ![](assets/new.png)  
 - [2021-12-23-西安两周累计确诊234例-封城后机场国内航班全部取消](https://m.caixin.com/m/2021-12-23/101821395.html) ![](assets/new.png)  

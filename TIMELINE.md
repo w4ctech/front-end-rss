@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-12-24 07:41:03。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2021-12-24 07:54:26。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -153,7 +153,8 @@
 - [【阮一峰的网络日志】2021-12-24-科技爱好者周刊（第-189-期）：下一个内卷的行业](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-189.html) 
 - [【阮一峰的网络日志】2021-12-17-科技爱好者周刊（第-188-期）：音乐是反社交](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-188.html) 
 - [【阮一峰的网络日志】2021-12-10-科技爱好者周刊（第-187-期）：元宇宙会成功吗](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-187.html) 
-- [【V2EX】2021-12-24-网飞，迪士尼+，招长期车友](https://www.v2ex.com/t/824239) 
+- [【V2EX】2021-12-24-今天才发现-git-原来是这个意思](https://www.v2ex.com/t/824241) 
+- [【V2EX】2021-12-24-Linux-内存不够会导致磁盘-io-高吗？](https://www.v2ex.com/t/824240) 
 - [【V2EX】2021-12-24-文件流形式的下载，有办法触发浏览器的自带下载进度功能吗](https://www.v2ex.com/t/824238) 
 - [【V2EX】2021-12-24-淘宝购买手机卡，店铺需要身份证信息-靠谱吗](https://www.v2ex.com/t/824237) 
 - [【V2EX】2021-12-24-求教？-16-M1-Max-MBP-屏幕和底部转轴处有缝隙（有光漏出来）](https://www.v2ex.com/t/824236) 
@@ -187,8 +188,6 @@
 - [【V2EX】2021-12-24-眼睛干涩，湿房镜大家有试过的吗？有没有效果？](https://www.v2ex.com/t/824196) 
 - [【V2EX】2021-12-24-请教：-Java-中如何对布尔列表取或逻辑](https://www.v2ex.com/t/824194) 
 - [【V2EX】2021-12-24-关于-offer-选择，很好奇大家两个问题](https://www.v2ex.com/t/824192) 
-- [【V2EX】2021-12-24-MTK-路由器固件无线漫游不断线重连的方法](https://www.v2ex.com/t/824191) 
-- [【V2EX】2021-12-24-微信三端在线+自动登录功能无了](https://www.v2ex.com/t/824190) 
 - [【技术头条】2021-12-24-探索式测试的若干问题-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14862&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fexploratory-testing-things%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2021-12-24-谷歌-Android-12-Go-正式发布！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14861&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FfoPxB8GEHsK4INCPCQ0ryw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2021-12-24-69道HTML面试知识点总结-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14860&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247492752%26amp%3Bidx%3D2%26amp%3Bsn%3D48782b524d8880f90aa2e55cb7ed52ce%26amp%3Bchksm%3Dfa3f05cbcd488cddc21b53531a0df99cf4bc53d737d76fc6ecc722e34e407afdf10810c3961a%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -225,18 +224,18 @@
 - [【开发者头条】2021-12-24-Go泛型不支持泛型方法，这是一个悲伤的故事](https://toutiao.io/k/tta22zl) 
 - [【开发者头条】2021-12-24-三种方式让你轻松监控-EntityFramework-中的-sql-流转](https://toutiao.io/k/lwkz8my) 
 - [【开发者头条】2021-12-24-Java-中的5个代码性能提升技巧，最高提升近10倍](https://toutiao.io/k/eyom45a) 
-- [【开发者头条】2021-12-24-独立开发变现周刊（第34期）：拒绝了4万美金的报价，60天后如何把产品做到月入2千美金](https://toutiao.io/k/3idr98p) 
 - [【开发者头条】2021-12-24-最美圣诞树！用Python画棵雪夜圣诞树送给你](https://toutiao.io/k/m7n9ih6) 
+- [【开发者头条】2021-12-24-独立开发变现周刊（第34期）：拒绝了4万美金的报价，60天后如何把产品做到月入2千美金](https://toutiao.io/k/3idr98p) 
 - [【开发者头条】2021-12-24-背事故？分享-6-种常见的-Go-致命错误场景！](https://toutiao.io/k/uds9pai) 
 - [【开发者头条】2021-12-24-如何用建木CI生成Allure报表](https://toutiao.io/k/3hqo1zj) 
-- [【开发者头条】2021-12-24-推荐-​Golang-并发编程指南](https://toutiao.io/k/adoo89l) 
-- [【开发者头条】2021-12-24-推荐-一个技术团队leader的搭建私有知识库避坑经验分享](https://toutiao.io/k/o3dptn4) 
+- [【开发者头条】2021-12-24-推荐-Intellij-IDEA-神级插件！效率提升-10-倍！](https://toutiao.io/k/4iqf0c2) 
+- [【开发者头条】2021-12-24-推荐-这些年我用过的API文档工具，个个是精品！](https://toutiao.io/k/xt41e64) 
 - [【开发者头条】2021-12-24-推荐-熬夜彻底搞懂Cookie-Session-Token-JWT](https://toutiao.io/k/g49lsl5) 
 - [【开发者头条】2021-12-24-推荐-深入剖析全链路灰度技术内幕](https://toutiao.io/k/zimpz4c) 
-- [【开发者头条】2021-12-24-推荐-这些年我用过的API文档工具，个个是精品！](https://toutiao.io/k/xt41e64) 
-- [【开发者头条】2021-12-24-推荐-Intellij-IDEA-神级插件！效率提升-10-倍！](https://toutiao.io/k/4iqf0c2) 
+- [【开发者头条】2021-12-24-推荐-​Golang-并发编程指南](https://toutiao.io/k/adoo89l) 
 - [【开发者头条】2021-12-24-推荐-聊聊-sql-优化的-15-个小技巧](https://toutiao.io/k/a94tblq) 
 - [【开发者头条】2021-12-24-推荐-vivo-敏感词匹配系统的设计与实践](https://toutiao.io/k/hrnq79a) 
+- [【开发者头条】2021-12-24-推荐-一个技术团队leader的搭建私有知识库避坑经验分享](https://toutiao.io/k/o3dptn4) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

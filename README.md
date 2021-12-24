@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-24 10:57:50，:rocket: 更新条数: +1621， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-24 11:10:57，:rocket: 更新条数: +1622， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -65,13 +65,13 @@
 </summary>
 
 
-- [2021-12-24-12月23日全国新增新冠87例-四省份本土55例](https://m.caixin.com/m/2021-12-24/101821504.html) ![](assets/new.png)  
+- [2021-12-24-最新疫情：全国新冠累计确诊100731例-累计接种新冠疫苗超27.32亿剂次](https://m.caixin.com/m/2021-12-24/101821838.html) ![](assets/new.png)  
 - [2021-12-24-香港研究：三针科兴疫苗抗体不足-为防Omicron建议混打](https://m.caixin.com/m/2021-12-24/101821543.html) ![](assets/new.png)  
 - [2021-12-24-西安处理疫情防控不力相关责任人26名](https://m.caixin.com/m/2021-12-24/101821540.html) ![](assets/new.png)  
+- [2021-12-24-最新海外疫情：新冠感染超2.77亿-累计接种新冠疫苗超88.27亿剂次](https://m.caixin.com/m/2021-12-24/101821835.html) ![](assets/new.png)  
 - [2021-12-24-【境内疫情观察】陕西新增52例本土病例（12月23日）](https://database.caixin.com/m/2021-12-24/101821688.html) ![](assets/new.png)  
 - [2021-12-24-美国FDA批准默沙东新冠口服药-澳大利亚感染再创纪录｜大流行手记（12月23日）](https://m.caixin.com/m/2021-12-24/101821536.html) ![](assets/new.png)  
 - [2021-12-23-西安两周累计确诊234例-封城后机场国内航班全部取消](https://m.caixin.com/m/2021-12-23/101821395.html) ![](assets/new.png)  
-- [2021-12-23-最新海外疫情：新冠感染超2.76亿-累计接种新冠疫苗超87.87亿剂次](https://m.caixin.com/m/2021-12-23/101821341.html) ![](assets/new.png)  
 - [2021-12-23-【境内疫情观察】全国新增71例本土病例（12月22日）](https://database.caixin.com/m/2021-12-23/101821239.html) ![](assets/new.png)  
 - [2021-12-23-【图集】西安全市小区单位实行封闭管理](https://photos.caixin.com/m/2021-12-23/101821058.html) ![](assets/new.png)  
 - [2021-12-22-陕西疫情累计扩散至4省6地-西安非必要离市人员将被劝返](https://m.caixin.com/m/2021-12-22/101820941.html) ![](assets/new.png)  
@@ -494,6 +494,10 @@
 </summary>
 
 
+- [2021-12-24-关于学习-Python-时书中的一个例题](https://www.v2ex.com/t/824303) ![](assets/new.png)  
+- [2021-12-24-vue-typescript-event-的数据类型怎么表示？](https://www.v2ex.com/t/824302) ![](assets/new.png)  
+- [2021-12-24-小米电视老是卡住然后重启是否可以换内置盒子](https://www.v2ex.com/t/824301) ![](assets/new.png)  
+- [2021-12-24-求推荐+886-和+81-的虚拟手机号提供商](https://www.v2ex.com/t/824300) ![](assets/new.png)  
 - [2021-12-24-世界上任何书籍都不能带给你好运，但是它们能让你悄悄成为你自己。](https://www.v2ex.com/t/824298) ![](assets/new.png)  
 - [2021-12-24-想买个服务器，各位大佬有什么推荐嘛](https://www.v2ex.com/t/824297) ![](assets/new.png)  
 - [2021-12-24-steam-现在登录收不到验证码](https://www.v2ex.com/t/824295) ![](assets/new.png)  
@@ -509,11 +513,7 @@
 - [2021-12-24-symfony-项目每次改动都要-clear-cache?](https://www.v2ex.com/t/824284) ![](assets/new.png)  
 - [2021-12-24-问下这个-sql-性能能不能达到-2s-查出结果](https://www.v2ex.com/t/824283) ![](assets/new.png)  
 - [2021-12-24-用多-M.2-接口的主板，再配合-PCIe-转接卡，搞一台-12-x-M.2-的-NAS-怎么样](https://www.v2ex.com/t/824282) ![](assets/new.png)  
-- [2021-12-24-力宏们，有没有高速稳定的鸡场推荐下？](https://www.v2ex.com/t/824281) ![](assets/new.png)  
 - [2021-12-24-怎么上奈菲的车？](https://www.v2ex.com/t/824280) ![](assets/new.png)  
-- [2021-12-24-iPad-mini6-到了，问问有什么好玩的游戏推荐一下，策略或者休闲一点，谢谢。](https://www.v2ex.com/t/824279) ![](assets/new.png)  
-- [2021-12-24-是不是没有必要清除注册表？](https://www.v2ex.com/t/824278) ![](assets/new.png)  
-- [2021-12-24-哪里找一些大量模拟数据来练习-SQL](https://www.v2ex.com/t/824277) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

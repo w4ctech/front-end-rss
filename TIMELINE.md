@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-12-24 10:57:50。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2021-12-24 11:10:58。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -50,13 +50,13 @@
 </summary>
 
 
-- [【武汉肺炎防疫全纪录(财新网)】2021-12-24-12月23日全国新增新冠87例-四省份本土55例](https://m.caixin.com/m/2021-12-24/101821504.html) 
+- [【武汉肺炎防疫全纪录(财新网)】2021-12-24-最新疫情：全国新冠累计确诊100731例-累计接种新冠疫苗超27.32亿剂次](https://m.caixin.com/m/2021-12-24/101821838.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2021-12-24-香港研究：三针科兴疫苗抗体不足-为防Omicron建议混打](https://m.caixin.com/m/2021-12-24/101821543.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2021-12-24-西安处理疫情防控不力相关责任人26名](https://m.caixin.com/m/2021-12-24/101821540.html) 
+- [【武汉肺炎防疫全纪录(财新网)】2021-12-24-最新海外疫情：新冠感染超2.77亿-累计接种新冠疫苗超88.27亿剂次](https://m.caixin.com/m/2021-12-24/101821835.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2021-12-24-【境内疫情观察】陕西新增52例本土病例（12月23日）](https://database.caixin.com/m/2021-12-24/101821688.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2021-12-24-美国FDA批准默沙东新冠口服药-澳大利亚感染再创纪录｜大流行手记（12月23日）](https://m.caixin.com/m/2021-12-24/101821536.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2021-12-23-西安两周累计确诊234例-封城后机场国内航班全部取消](https://m.caixin.com/m/2021-12-23/101821395.html) 
-- [【武汉肺炎防疫全纪录(财新网)】2021-12-23-最新海外疫情：新冠感染超2.76亿-累计接种新冠疫苗超87.87亿剂次](https://m.caixin.com/m/2021-12-23/101821341.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2021-12-23-【境内疫情观察】全国新增71例本土病例（12月22日）](https://database.caixin.com/m/2021-12-23/101821239.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2021-12-23-【图集】西安全市小区单位实行封闭管理](https://photos.caixin.com/m/2021-12-23/101821058.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2021-12-22-陕西疫情累计扩散至4省6地-西安非必要离市人员将被劝返](https://m.caixin.com/m/2021-12-22/101820941.html) 
@@ -154,6 +154,10 @@
 - [【阮一峰的网络日志】2021-12-24-科技爱好者周刊（第-189-期）：下一个内卷的行业](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-189.html) 
 - [【阮一峰的网络日志】2021-12-17-科技爱好者周刊（第-188-期）：音乐是反社交](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-188.html) 
 - [【阮一峰的网络日志】2021-12-10-科技爱好者周刊（第-187-期）：元宇宙会成功吗](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-187.html) 
+- [【V2EX】2021-12-24-关于学习-Python-时书中的一个例题](https://www.v2ex.com/t/824303) 
+- [【V2EX】2021-12-24-vue-typescript-event-的数据类型怎么表示？](https://www.v2ex.com/t/824302) 
+- [【V2EX】2021-12-24-小米电视老是卡住然后重启是否可以换内置盒子](https://www.v2ex.com/t/824301) 
+- [【V2EX】2021-12-24-求推荐+886-和+81-的虚拟手机号提供商](https://www.v2ex.com/t/824300) 
 - [【V2EX】2021-12-24-世界上任何书籍都不能带给你好运，但是它们能让你悄悄成为你自己。](https://www.v2ex.com/t/824298) 
 - [【V2EX】2021-12-24-想买个服务器，各位大佬有什么推荐嘛](https://www.v2ex.com/t/824297) 
 - [【V2EX】2021-12-24-steam-现在登录收不到验证码](https://www.v2ex.com/t/824295) 
@@ -169,7 +173,6 @@
 - [【V2EX】2021-12-24-symfony-项目每次改动都要-clear-cache?](https://www.v2ex.com/t/824284) 
 - [【V2EX】2021-12-24-问下这个-sql-性能能不能达到-2s-查出结果](https://www.v2ex.com/t/824283) 
 - [【V2EX】2021-12-24-用多-M.2-接口的主板，再配合-PCIe-转接卡，搞一台-12-x-M.2-的-NAS-怎么样](https://www.v2ex.com/t/824282) 
-- [【V2EX】2021-12-24-力宏们，有没有高速稳定的鸡场推荐下？](https://www.v2ex.com/t/824281) 
 - [【V2EX】2021-12-24-怎么上奈菲的车？](https://www.v2ex.com/t/824280) 
 - [【V2EX】2021-12-24-iPad-mini6-到了，问问有什么好玩的游戏推荐一下，策略或者休闲一点，谢谢。](https://www.v2ex.com/t/824279) 
 - [【V2EX】2021-12-24-是不是没有必要清除注册表？](https://www.v2ex.com/t/824278) 
@@ -189,8 +192,6 @@
 - [【V2EX】2021-12-24-新发布的-matebook-x-pro-如何？](https://www.v2ex.com/t/824258) 
 - [【V2EX】2021-12-24-计划好跳槽时间，一般要提前多久开始复习准备](https://www.v2ex.com/t/824256) 
 - [【V2EX】2021-12-24-提交时间给后端用时间戳好还是字符串好](https://www.v2ex.com/t/824255) 
-- [【V2EX】2021-12-24-TPLINK-的-firmware-是-GPL-的，但是不开源](https://www.v2ex.com/t/824253) 
-- [【V2EX】2021-12-24-上海-腾讯广告内推，可年后入职](https://www.v2ex.com/t/824252) 
 - [【技术头条】2021-12-24-探索式测试的若干问题-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14862&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fexploratory-testing-things%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2021-12-24-谷歌-Android-12-Go-正式发布！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14861&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FfoPxB8GEHsK4INCPCQ0ryw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2021-12-24-69道HTML面试知识点总结-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14860&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247492752%26amp%3Bidx%3D2%26amp%3Bsn%3D48782b524d8880f90aa2e55cb7ed52ce%26amp%3Bchksm%3Dfa3f05cbcd488cddc21b53531a0df99cf4bc53d737d76fc6ecc722e34e407afdf10810c3961a%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -231,14 +232,14 @@
 - [【开发者头条】2021-12-24-最美圣诞树！用Python画棵雪夜圣诞树送给你](https://toutiao.io/k/m7n9ih6) 
 - [【开发者头条】2021-12-24-背事故？分享-6-种常见的-Go-致命错误场景！](https://toutiao.io/k/uds9pai) 
 - [【开发者头条】2021-12-24-如何用建木CI生成Allure报表](https://toutiao.io/k/3hqo1zj) 
-- [【开发者头条】2021-12-24-推荐-vivo-敏感词匹配系统的设计与实践](https://toutiao.io/k/hrnq79a) 
+- [【开发者头条】2021-12-24-推荐-Intellij-IDEA-神级插件！效率提升-10-倍！](https://toutiao.io/k/4iqf0c2) 
+- [【开发者头条】2021-12-24-推荐-熬夜彻底搞懂Cookie-Session-Token-JWT](https://toutiao.io/k/g49lsl5) 
+- [【开发者头条】2021-12-24-推荐-这些年我用过的API文档工具，个个是精品！](https://toutiao.io/k/xt41e64) 
 - [【开发者头条】2021-12-24-推荐-​Golang-并发编程指南](https://toutiao.io/k/adoo89l) 
 - [【开发者头条】2021-12-24-推荐-聊聊-sql-优化的-15-个小技巧](https://toutiao.io/k/a94tblq) 
-- [【开发者头条】2021-12-24-推荐-熬夜彻底搞懂Cookie-Session-Token-JWT](https://toutiao.io/k/g49lsl5) 
-- [【开发者头条】2021-12-24-推荐-一个技术团队leader的搭建私有知识库避坑经验分享](https://toutiao.io/k/o3dptn4) 
-- [【开发者头条】2021-12-24-推荐-Intellij-IDEA-神级插件！效率提升-10-倍！](https://toutiao.io/k/4iqf0c2) 
 - [【开发者头条】2021-12-24-推荐-深入剖析全链路灰度技术内幕](https://toutiao.io/k/zimpz4c) 
-- [【开发者头条】2021-12-24-推荐-这些年我用过的API文档工具，个个是精品！](https://toutiao.io/k/xt41e64) 
+- [【开发者头条】2021-12-24-推荐-一个技术团队leader的搭建私有知识库避坑经验分享](https://toutiao.io/k/o3dptn4) 
+- [【开发者头条】2021-12-24-推荐-vivo-敏感词匹配系统的设计与实践](https://toutiao.io/k/hrnq79a) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

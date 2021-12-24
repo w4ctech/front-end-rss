@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-24 04:15:46，:rocket: 更新条数: +1617， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-24 04:29:46，:rocket: 更新条数: +1620， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,11 @@
 </summary>
 
 
+- [2021-12-24-关于-offer-选择，很好奇大家两个问题](https://www.v2ex.com/t/824192) ![](assets/new.png)  
+- [2021-12-24-MTK-路由器固件无线漫游不断线重连的方法](https://www.v2ex.com/t/824191) ![](assets/new.png)  
+- [2021-12-24-微信三端在线+自动登录功能无了](https://www.v2ex.com/t/824190) ![](assets/new.png)  
+- [2021-12-24-有没有不借助摄像头等硬件生成-3D-虚拟人物的开源项目呢？](https://www.v2ex.com/t/824189) ![](assets/new.png)  
+- [2021-12-24-有同学用过-Container-Optimized-OS-吗？](https://www.v2ex.com/t/824188) ![](assets/new.png)  
 - [2021-12-24-最近降价想入手一台-K40,网上查到好多关于-K40-自动重启的帖子,事实怎样](https://www.v2ex.com/t/824187) ![](assets/new.png)  
 - [2021-12-24-个人认为-Matrix4-算及格之作](https://www.v2ex.com/t/824186) ![](assets/new.png)  
 - [2021-12-24-弄了一个“元宇宙”介绍网站](https://www.v2ex.com/t/824185) ![](assets/new.png)  
@@ -509,11 +514,6 @@
 - [2021-12-24-手机微信占用-7.7G，具体是什么文件会这么大？](https://www.v2ex.com/t/824174) ![](assets/new.png)  
 - [2021-12-24-请问大佬们哪里有-4k-知否电视剧下载的高速资源？](https://www.v2ex.com/t/824173) ![](assets/new.png)  
 - [2021-12-24-webdriver-自动化循环问题，当翻页检测到某个元素就重新执行](https://www.v2ex.com/t/824172) ![](assets/new.png)  
-- [2021-12-24-M1-Mac-睡眠状态下频繁唤醒外设的问题求助](https://www.v2ex.com/t/824171) ![](assets/new.png)  
-- [2021-12-24-找个独立的-ios-端的通讯录软件](https://www.v2ex.com/t/824170) ![](assets/new.png)  
-- [2021-12-24-云闪付账单导入](https://www.v2ex.com/t/824169) ![](assets/new.png)  
-- [2021-12-24-每一条街巷都流淌着艺术气息的“音乐之都”](https://www.v2ex.com/t/824168) ![](assets/new.png)  
-- [2021-12-24-迫于正版化需求，求一个免费的-Terminal/SSH/SFTP-工具](https://www.v2ex.com/t/824167) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -570,12 +570,12 @@
 - [2021-12-24-Go泛型不支持泛型方法，这是一个悲伤的故事](https://toutiao.io/k/tta22zl) ![](assets/new.png)  
 - [2021-12-24-云原生时代的运维体系进化](https://toutiao.io/k/15x6e9o) ![](assets/new.png)  
 - [2021-12-24-三种方式让你轻松监控-EntityFramework-中的-sql-流转](https://toutiao.io/k/lwkz8my) ![](assets/new.png)  
-- [2021-12-24-推荐-熬夜彻底搞懂Cookie-Session-Token-JWT](https://toutiao.io/k/g49lsl5) ![](assets/new.png)  
-- [2021-12-24-推荐-一个技术团队leader的搭建私有知识库避坑经验分享](https://toutiao.io/k/o3dptn4) ![](assets/new.png)  
+- [2021-12-24-推荐-深入剖析全链路灰度技术内幕](https://toutiao.io/k/zimpz4c) ![](assets/new.png)  
 - [2021-12-24-推荐-聊聊-sql-优化的-15-个小技巧](https://toutiao.io/k/a94tblq) ![](assets/new.png)  
-- [2021-12-24-推荐-​Golang-并发编程指南](https://toutiao.io/k/adoo89l) ![](assets/new.png)  
-- [2021-12-24-推荐-这些年我用过的API文档工具，个个是精品！](https://toutiao.io/k/xt41e64) ![](assets/new.png)  
 - [2021-12-24-推荐-Intellij-IDEA-神级插件！效率提升-10-倍！](https://toutiao.io/k/4iqf0c2) ![](assets/new.png)  
+- [2021-12-24-推荐-vivo-敏感词匹配系统的设计与实践](https://toutiao.io/k/hrnq79a) ![](assets/new.png)  
+- [2021-12-24-推荐-一个技术团队leader的搭建私有知识库避坑经验分享](https://toutiao.io/k/o3dptn4) ![](assets/new.png)  
+- [2021-12-24-推荐-熬夜彻底搞懂Cookie-Session-Token-JWT](https://toutiao.io/k/g49lsl5) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

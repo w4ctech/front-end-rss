@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-12-24 22:43:53。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-24 22:56:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1576,9 +1576,9 @@
 - [2021-12-24-网易严选数据质量实践](https://toutiao.io/k/zsigyeu) 
 - [2021-12-24-背事故？分享-6-种常见的-Go-致命错误场景！](https://toutiao.io/k/uds9pai) 
 - [2021-12-24-如何用建木CI生成Allure报表](https://toutiao.io/k/3hqo1zj) 
-- [2021-12-24-推荐-​Golang-并发编程指南](https://toutiao.io/k/adoo89l) 
 - [2021-12-24-推荐-Intellij-IDEA-神级插件！效率提升-10-倍！](https://toutiao.io/k/4iqf0c2) 
 - [2021-12-24-推荐-一个技术团队leader的搭建私有知识库避坑经验分享](https://toutiao.io/k/o3dptn4) 
+- [2021-12-24-推荐-​Golang-并发编程指南](https://toutiao.io/k/adoo89l) 
 - [2021-12-24-推荐-这些年我用过的API文档工具，个个是精品！](https://toutiao.io/k/xt41e64) 
 - [2021-12-24-推荐-深入剖析全链路灰度技术内幕](https://toutiao.io/k/zimpz4c) 
 - [2021-12-24-推荐-vivo-敏感词匹配系统的设计与实践](https://toutiao.io/k/hrnq79a) 

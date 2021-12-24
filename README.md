@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-24 19:10:45，:rocket: 更新条数: +1627， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-24 19:17:57，:rocket: 更新条数: +1627， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,7 @@
 </summary>
 
 
+- [2021-12-24-远程全职-长期招聘-Vue,-NodeJs,-AWS-技术栈](https://www.v2ex.com/t/824341) ![](assets/new.png)  
 - [2021-12-24-想问下-v-站有手机盖掌机的玩家么](https://www.v2ex.com/t/824340) ![](assets/new.png)  
 - [2021-12-24-失眠了](https://www.v2ex.com/t/824339) ![](assets/new.png)  
 - [2021-12-24-Node-16-无法给-https-请求使用-http-代理了](https://www.v2ex.com/t/824338) ![](assets/new.png)  
@@ -513,7 +514,6 @@
 - [2021-12-24-令人窒息的矿工费](https://www.v2ex.com/t/824322) ![](assets/new.png)  
 - [2021-12-24-第一次换工作才知道还有工资分两部分发的操作](https://www.v2ex.com/t/824321) ![](assets/new.png)  
 - [2021-12-24-微信好友还有-30-多个](https://www.v2ex.com/t/824320) ![](assets/new.png)  
-- [2021-12-24-微软账号有个没-outlook-后缀的用户名](https://www.v2ex.com/t/824318) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-12-24 11:10:58。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2021-12-24 11:20:02。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -154,6 +154,7 @@
 - [【阮一峰的网络日志】2021-12-24-科技爱好者周刊（第-189-期）：下一个内卷的行业](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-189.html) 
 - [【阮一峰的网络日志】2021-12-17-科技爱好者周刊（第-188-期）：音乐是反社交](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-188.html) 
 - [【阮一峰的网络日志】2021-12-10-科技爱好者周刊（第-187-期）：元宇宙会成功吗](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-187.html) 
+- [【V2EX】2021-12-24-docker-版本-20.10-，-之前的那种常驻运行的命令失效了，请教下](https://www.v2ex.com/t/824304) 
 - [【V2EX】2021-12-24-关于学习-Python-时书中的一个例题](https://www.v2ex.com/t/824303) 
 - [【V2EX】2021-12-24-vue-typescript-event-的数据类型怎么表示？](https://www.v2ex.com/t/824302) 
 - [【V2EX】2021-12-24-小米电视老是卡住然后重启是否可以换内置盒子](https://www.v2ex.com/t/824301) 
@@ -173,7 +174,6 @@
 - [【V2EX】2021-12-24-symfony-项目每次改动都要-clear-cache?](https://www.v2ex.com/t/824284) 
 - [【V2EX】2021-12-24-问下这个-sql-性能能不能达到-2s-查出结果](https://www.v2ex.com/t/824283) 
 - [【V2EX】2021-12-24-用多-M.2-接口的主板，再配合-PCIe-转接卡，搞一台-12-x-M.2-的-NAS-怎么样](https://www.v2ex.com/t/824282) 
-- [【V2EX】2021-12-24-怎么上奈菲的车？](https://www.v2ex.com/t/824280) 
 - [【V2EX】2021-12-24-iPad-mini6-到了，问问有什么好玩的游戏推荐一下，策略或者休闲一点，谢谢。](https://www.v2ex.com/t/824279) 
 - [【V2EX】2021-12-24-是不是没有必要清除注册表？](https://www.v2ex.com/t/824278) 
 - [【V2EX】2021-12-24-哪里找一些大量模拟数据来练习-SQL](https://www.v2ex.com/t/824277) 
@@ -221,8 +221,8 @@
 - [【开发者头条】2021-12-24-一致性哈希和分库分表有毛关系？](https://toutiao.io/k/wsh3xob) 
 - [【开发者头条】2021-12-24-多集群下的-Tekton-流水线实践](https://toutiao.io/k/wh3si2m) 
 - [【开发者头条】2021-12-24-频频闯祸的-JNDI，到底是个什么“垃圾”玩意儿？](https://toutiao.io/k/83p5hvg) 
-- [【开发者头条】2021-12-24-别吵吵内卷了，看看人家虚拟人：连续直播70天都没工资](https://toutiao.io/k/12qvwce) 
 - [【开发者头条】2021-12-24-云原生时代的运维体系进化](https://toutiao.io/k/15x6e9o) 
+- [【开发者头条】2021-12-24-别吵吵内卷了，看看人家虚拟人：连续直播70天都没工资](https://toutiao.io/k/12qvwce) 
 - [【开发者头条】2021-12-24-如何做前端单元测试](https://toutiao.io/k/2qvvzxq) 
 - [【开发者头条】2021-12-24-Go泛型不支持泛型方法，这是一个悲伤的故事](https://toutiao.io/k/tta22zl) 
 - [【开发者头条】2021-12-24-Java-中的5个代码性能提升技巧，最高提升近10倍](https://toutiao.io/k/eyom45a) 
@@ -232,14 +232,14 @@
 - [【开发者头条】2021-12-24-最美圣诞树！用Python画棵雪夜圣诞树送给你](https://toutiao.io/k/m7n9ih6) 
 - [【开发者头条】2021-12-24-背事故？分享-6-种常见的-Go-致命错误场景！](https://toutiao.io/k/uds9pai) 
 - [【开发者头条】2021-12-24-如何用建木CI生成Allure报表](https://toutiao.io/k/3hqo1zj) 
+- [【开发者头条】2021-12-24-推荐-一个技术团队leader的搭建私有知识库避坑经验分享](https://toutiao.io/k/o3dptn4) 
 - [【开发者头条】2021-12-24-推荐-Intellij-IDEA-神级插件！效率提升-10-倍！](https://toutiao.io/k/4iqf0c2) 
 - [【开发者头条】2021-12-24-推荐-熬夜彻底搞懂Cookie-Session-Token-JWT](https://toutiao.io/k/g49lsl5) 
-- [【开发者头条】2021-12-24-推荐-这些年我用过的API文档工具，个个是精品！](https://toutiao.io/k/xt41e64) 
 - [【开发者头条】2021-12-24-推荐-​Golang-并发编程指南](https://toutiao.io/k/adoo89l) 
-- [【开发者头条】2021-12-24-推荐-聊聊-sql-优化的-15-个小技巧](https://toutiao.io/k/a94tblq) 
 - [【开发者头条】2021-12-24-推荐-深入剖析全链路灰度技术内幕](https://toutiao.io/k/zimpz4c) 
-- [【开发者头条】2021-12-24-推荐-一个技术团队leader的搭建私有知识库避坑经验分享](https://toutiao.io/k/o3dptn4) 
 - [【开发者头条】2021-12-24-推荐-vivo-敏感词匹配系统的设计与实践](https://toutiao.io/k/hrnq79a) 
+- [【开发者头条】2021-12-24-推荐-聊聊-sql-优化的-15-个小技巧](https://toutiao.io/k/a94tblq) 
+- [【开发者头条】2021-12-24-推荐-这些年我用过的API文档工具，个个是精品！](https://toutiao.io/k/xt41e64) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

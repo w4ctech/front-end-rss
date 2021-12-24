@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2021-12-24 11:10:58。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-24 11:20:02。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2021-12-24-docker-版本-20.10-，-之前的那种常驻运行的命令失效了，请教下](https://www.v2ex.com/t/824304) 
 - [2021-12-24-关于学习-Python-时书中的一个例题](https://www.v2ex.com/t/824303) 
 - [2021-12-24-vue-typescript-event-的数据类型怎么表示？](https://www.v2ex.com/t/824302) 
 - [2021-12-24-小米电视老是卡住然后重启是否可以换内置盒子](https://www.v2ex.com/t/824301) 
@@ -24,7 +25,6 @@
 - [2021-12-24-symfony-项目每次改动都要-clear-cache?](https://www.v2ex.com/t/824284) 
 - [2021-12-24-问下这个-sql-性能能不能达到-2s-查出结果](https://www.v2ex.com/t/824283) 
 - [2021-12-24-用多-M.2-接口的主板，再配合-PCIe-转接卡，搞一台-12-x-M.2-的-NAS-怎么样](https://www.v2ex.com/t/824282) 
-- [2021-12-24-怎么上奈菲的车？](https://www.v2ex.com/t/824280) 
 - [2021-12-24-iPad-mini6-到了，问问有什么好玩的游戏推荐一下，策略或者休闲一点，谢谢。](https://www.v2ex.com/t/824279) 
 - [2021-12-24-是不是没有必要清除注册表？](https://www.v2ex.com/t/824278) 
 - [2021-12-24-哪里找一些大量模拟数据来练习-SQL](https://www.v2ex.com/t/824277) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-24 11:10:57，:rocket: 更新条数: +1622， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-24 11:20:02，:rocket: 更新条数: +1622， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,7 @@
 </summary>
 
 
+- [2021-12-24-docker-版本-20.10-，-之前的那种常驻运行的命令失效了，请教下](https://www.v2ex.com/t/824304) ![](assets/new.png)  
 - [2021-12-24-关于学习-Python-时书中的一个例题](https://www.v2ex.com/t/824303) ![](assets/new.png)  
 - [2021-12-24-vue-typescript-event-的数据类型怎么表示？](https://www.v2ex.com/t/824302) ![](assets/new.png)  
 - [2021-12-24-小米电视老是卡住然后重启是否可以换内置盒子](https://www.v2ex.com/t/824301) ![](assets/new.png)  
@@ -513,7 +514,6 @@
 - [2021-12-24-symfony-项目每次改动都要-clear-cache?](https://www.v2ex.com/t/824284) ![](assets/new.png)  
 - [2021-12-24-问下这个-sql-性能能不能达到-2s-查出结果](https://www.v2ex.com/t/824283) ![](assets/new.png)  
 - [2021-12-24-用多-M.2-接口的主板，再配合-PCIe-转接卡，搞一台-12-x-M.2-的-NAS-怎么样](https://www.v2ex.com/t/824282) ![](assets/new.png)  
-- [2021-12-24-怎么上奈菲的车？](https://www.v2ex.com/t/824280) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -565,8 +565,8 @@
 - [2021-12-24-一致性哈希和分库分表有毛关系？](https://toutiao.io/k/wsh3xob) ![](assets/new.png)  
 - [2021-12-24-多集群下的-Tekton-流水线实践](https://toutiao.io/k/wh3si2m) ![](assets/new.png)  
 - [2021-12-24-频频闯祸的-JNDI，到底是个什么“垃圾”玩意儿？](https://toutiao.io/k/83p5hvg) ![](assets/new.png)  
-- [2021-12-24-别吵吵内卷了，看看人家虚拟人：连续直播70天都没工资](https://toutiao.io/k/12qvwce) ![](assets/new.png)  
 - [2021-12-24-云原生时代的运维体系进化](https://toutiao.io/k/15x6e9o) ![](assets/new.png)  
+- [2021-12-24-别吵吵内卷了，看看人家虚拟人：连续直播70天都没工资](https://toutiao.io/k/12qvwce) ![](assets/new.png)  
 - [2021-12-24-如何做前端单元测试](https://toutiao.io/k/2qvvzxq) ![](assets/new.png)  
 - [2021-12-24-Go泛型不支持泛型方法，这是一个悲伤的故事](https://toutiao.io/k/tta22zl) ![](assets/new.png)  
 - [2021-12-24-Java-中的5个代码性能提升技巧，最高提升近10倍](https://toutiao.io/k/eyom45a) ![](assets/new.png)  

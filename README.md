@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-24 03:45:15，:rocket: 更新条数: +1615， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-24 03:57:11，:rocket: 更新条数: +1616， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,11 @@
 </summary>
 
 
+- [2021-12-24-弄了一个“元宇宙”介绍网站](https://www.v2ex.com/t/824185) ![](assets/new.png)  
+- [2021-12-24-教育网何时可以拉直路由](https://www.v2ex.com/t/824184) ![](assets/new.png)  
+- [2021-12-24-请问还有哪个客户端有类似-mobaXterm-下的跳转机jump-host和多窗口执行MultiExec功能？](https://www.v2ex.com/t/824182) ![](assets/new.png)  
+- [2021-12-24-关于-Google-Cloud-试用赠金的一些疑问，求教！](https://www.v2ex.com/t/824181) ![](assets/new.png)  
+- [2021-12-24-关于医院发票咨询](https://www.v2ex.com/t/824180) ![](assets/new.png)  
 - [2021-12-24-Steam-商店-store.steampowered.com-疑似-443-端口被干扰？-ICMP-80-端口均正常](https://www.v2ex.com/t/824179) ![](assets/new.png)  
 - [2021-12-24-推荐-Linux-和-windos-两款目前觉得好用的工具](https://www.v2ex.com/t/824178) ![](assets/new.png)  
 - [2021-12-24-请教大佬一个泛型的问题](https://www.v2ex.com/t/824177) ![](assets/new.png)  
@@ -509,11 +514,6 @@
 - [2021-12-24-迫于正版化需求，求一个免费的-Terminal/SSH/SFTP-工具](https://www.v2ex.com/t/824167) ![](assets/new.png)  
 - [2021-12-24-回复帖子，-Cloudflare-提示-Sorry,-you-have-been-blocked](https://www.v2ex.com/t/824164) ![](assets/new.png)  
 - [2021-12-24-「北京」欧科云链，大量-HC，来这里开始你生命的自由！](https://www.v2ex.com/t/824162) ![](assets/new.png)  
-- [2021-12-24-腾讯云北京-2-区-GG](https://www.v2ex.com/t/824161) ![](assets/new.png)  
-- [2021-12-24-有用-keychron-k8-键盘的么-?发现个问题,-在-idea-中-f5-f6-失效-必须搭配-fn-使用,](https://www.v2ex.com/t/824159) ![](assets/new.png)  
-- [2021-12-24-如何使用非网关设备把内网的设备映射出去?](https://www.v2ex.com/t/824157) ![](assets/new.png)  
-- [2021-12-24-看到这个。。。QQ-jietu-plugin](https://www.v2ex.com/t/824156) ![](assets/new.png)  
-- [2021-12-24-APP-接口加密了有办法抓包后解密吗？](https://www.v2ex.com/t/824155) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -556,9 +556,9 @@
 </summary>
 
 
+- [2021-12-24-小心陷入-MySQL-索引的坑](https://toutiao.io/k/gucqkq4) ![](assets/new.png)  
 - [2021-12-24-巧用符号链接迁移-HDFS-数据，业务完全无感知！](https://toutiao.io/k/aogsbx6) ![](assets/new.png)  
 - [2021-12-24-整洁架构设计分析--架构设计的本质是什么?](https://toutiao.io/k/10u1cak) ![](assets/new.png)  
-- [2021-12-24-小心陷入-MySQL-索引的坑](https://toutiao.io/k/gucqkq4) ![](assets/new.png)  
 - [2021-12-24-Kafka集群突破百万partition-的技术探索](https://toutiao.io/k/4lw8h50) ![](assets/new.png)  
 - [2021-12-24-1万字详解-python-logging日志模块](https://toutiao.io/k/g6hs782) ![](assets/new.png)  
 - [2021-12-24-一致性哈希和分库分表有毛关系？](https://toutiao.io/k/wsh3xob) ![](assets/new.png)  
@@ -570,12 +570,12 @@
 - [2021-12-24-Go泛型不支持泛型方法，这是一个悲伤的故事](https://toutiao.io/k/tta22zl) ![](assets/new.png)  
 - [2021-12-24-云原生时代的运维体系进化](https://toutiao.io/k/15x6e9o) ![](assets/new.png)  
 - [2021-12-24-三种方式让你轻松监控-EntityFramework-中的-sql-流转](https://toutiao.io/k/lwkz8my) ![](assets/new.png)  
-- [2021-12-24-推荐-vivo-敏感词匹配系统的设计与实践](https://toutiao.io/k/hrnq79a) ![](assets/new.png)  
-- [2021-12-24-推荐-这些年我用过的API文档工具，个个是精品！](https://toutiao.io/k/xt41e64) ![](assets/new.png)  
-- [2021-12-24-推荐-​Golang-并发编程指南](https://toutiao.io/k/adoo89l) ![](assets/new.png)  
-- [2021-12-24-推荐-深入剖析全链路灰度技术内幕](https://toutiao.io/k/zimpz4c) ![](assets/new.png)  
-- [2021-12-24-推荐-Intellij-IDEA-神级插件！效率提升-10-倍！](https://toutiao.io/k/4iqf0c2) ![](assets/new.png)  
 - [2021-12-24-推荐-聊聊-sql-优化的-15-个小技巧](https://toutiao.io/k/a94tblq) ![](assets/new.png)  
+- [2021-12-24-推荐-​Golang-并发编程指南](https://toutiao.io/k/adoo89l) ![](assets/new.png)  
+- [2021-12-24-推荐-vivo-敏感词匹配系统的设计与实践](https://toutiao.io/k/hrnq79a) ![](assets/new.png)  
+- [2021-12-24-推荐-一个技术团队leader的搭建私有知识库避坑经验分享](https://toutiao.io/k/o3dptn4) ![](assets/new.png)  
+- [2021-12-24-推荐-这些年我用过的API文档工具，个个是精品！](https://toutiao.io/k/xt41e64) ![](assets/new.png)  
+- [2021-12-24-推荐-熬夜彻底搞懂Cookie-Session-Token-JWT](https://toutiao.io/k/g49lsl5) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

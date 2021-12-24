@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-12-24 05:13:46。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2021-12-24 05:21:50。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -219,8 +219,8 @@
 - [【开发者头条】2021-12-24-整洁架构设计分析--架构设计的本质是什么?](https://toutiao.io/k/10u1cak) 
 - [【开发者头条】2021-12-24-巧用符号链接迁移-HDFS-数据，业务完全无感知！](https://toutiao.io/k/aogsbx6) 
 - [【开发者头条】2021-12-24-Kafka集群突破百万partition-的技术探索](https://toutiao.io/k/4lw8h50) 
-- [【开发者头条】2021-12-24-一致性哈希和分库分表有毛关系？](https://toutiao.io/k/wsh3xob) 
 - [【开发者头条】2021-12-24-1万字详解-python-logging日志模块](https://toutiao.io/k/g6hs782) 
+- [【开发者头条】2021-12-24-一致性哈希和分库分表有毛关系？](https://toutiao.io/k/wsh3xob) 
 - [【开发者头条】2021-12-24-频频闯祸的-JNDI，到底是个什么“垃圾”玩意儿？](https://toutiao.io/k/83p5hvg) 
 - [【开发者头条】2021-12-24-多集群下的-Tekton-流水线实践](https://toutiao.io/k/wh3si2m) 
 - [【开发者头条】2021-12-24-别吵吵内卷了，看看人家虚拟人：连续直播70天都没工资](https://toutiao.io/k/12qvwce) 
@@ -229,14 +229,14 @@
 - [【开发者头条】2021-12-24-云原生时代的运维体系进化](https://toutiao.io/k/15x6e9o) 
 - [【开发者头条】2021-12-24-Go泛型不支持泛型方法，这是一个悲伤的故事](https://toutiao.io/k/tta22zl) 
 - [【开发者头条】2021-12-24-三种方式让你轻松监控-EntityFramework-中的-sql-流转](https://toutiao.io/k/lwkz8my) 
-- [【开发者头条】2021-12-24-推荐-聊聊-sql-优化的-15-个小技巧](https://toutiao.io/k/a94tblq) 
-- [【开发者头条】2021-12-24-推荐-这些年我用过的API文档工具，个个是精品！](https://toutiao.io/k/xt41e64) 
-- [【开发者头条】2021-12-24-推荐-Intellij-IDEA-神级插件！效率提升-10-倍！](https://toutiao.io/k/4iqf0c2) 
-- [【开发者头条】2021-12-24-推荐-vivo-敏感词匹配系统的设计与实践](https://toutiao.io/k/hrnq79a) 
-- [【开发者头条】2021-12-24-推荐-深入剖析全链路灰度技术内幕](https://toutiao.io/k/zimpz4c) 
 - [【开发者头条】2021-12-24-推荐-熬夜彻底搞懂Cookie-Session-Token-JWT](https://toutiao.io/k/g49lsl5) 
 - [【开发者头条】2021-12-24-推荐-一个技术团队leader的搭建私有知识库避坑经验分享](https://toutiao.io/k/o3dptn4) 
 - [【开发者头条】2021-12-24-推荐-​Golang-并发编程指南](https://toutiao.io/k/adoo89l) 
+- [【开发者头条】2021-12-24-推荐-聊聊-sql-优化的-15-个小技巧](https://toutiao.io/k/a94tblq) 
+- [【开发者头条】2021-12-24-推荐-vivo-敏感词匹配系统的设计与实践](https://toutiao.io/k/hrnq79a) 
+- [【开发者头条】2021-12-24-推荐-深入剖析全链路灰度技术内幕](https://toutiao.io/k/zimpz4c) 
+- [【开发者头条】2021-12-24-推荐-这些年我用过的API文档工具，个个是精品！](https://toutiao.io/k/xt41e64) 
+- [【开发者头条】2021-12-24-推荐-Intellij-IDEA-神级插件！效率提升-10-倍！](https://toutiao.io/k/4iqf0c2) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

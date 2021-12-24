@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-24 15:47:27，:rocket: 更新条数: +1627， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-24 16:18:02，:rocket: 更新条数: +1627， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,7 @@
 </summary>
 
 
+- [2021-12-24-领导出了个题目，有何深意？](https://www.v2ex.com/t/824335) ![](assets/new.png)  
 - [2021-12-24-Python-正在弃用-distutils.cfg](https://www.v2ex.com/t/824334) ![](assets/new.png)  
 - [2021-12-24-动森好友](https://www.v2ex.com/t/824333) ![](assets/new.png)  
 - [2021-12-24-内推-Java-研发美团优选职级-Open-薪资好说-经理直招](https://www.v2ex.com/t/824331) ![](assets/new.png)  
@@ -513,7 +514,6 @@
 - [2021-12-24-送码-wTodo-Watch-版微软-Todo-客户端](https://www.v2ex.com/t/824315) ![](assets/new.png)  
 - [2021-12-24-mac-下-Pycharm-用的-JVM-可能会从哪里读参数/环境变量，想彻底清理所有-Pycharm-设置。](https://www.v2ex.com/t/824314) ![](assets/new.png)  
 - [2021-12-24-英语菜鸟-想学语法，《语法俱乐部》这本书适合作为入门吗？](https://www.v2ex.com/t/824312) ![](assets/new.png)  
-- [2021-12-24-海淘填错邮政编码，东西已经在海关了，能不能救回来](https://www.v2ex.com/t/824311) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

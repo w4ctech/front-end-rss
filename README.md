@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-24 00:39:36，:rocket: 更新条数: +1612， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-24 01:09:40，:rocket: 更新条数: +1612， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,9 @@
 </summary>
 
 
+- [2021-12-24-关于-Redis-6.0-多线程的一点疑惑](https://www.v2ex.com/t/824128) ![](assets/new.png)  
+- [2021-12-24-有没有人用过-Unihertz-titan-手机？](https://www.v2ex.com/t/824127) ![](assets/new.png)  
+- [2021-12-24-想-1500-2000-左右弄个安卓](https://www.v2ex.com/t/824126) ![](assets/new.png)  
 - [2021-12-24-使用-Clash-作为代理的-V-友，会碰到-Microsoft-Store“无法加载页面"的问题吗？怎么解决的呢？](https://www.v2ex.com/t/824125) ![](assets/new.png)  
 - [2021-12-23-EGPU-的-USB-音频问题](https://www.v2ex.com/t/824123) ![](assets/new.png)  
 - [2021-12-23-Melvor-Idle-Steam-商店-31.45-元](https://www.v2ex.com/t/824122) ![](assets/new.png)  
@@ -511,9 +514,6 @@
 - [2021-12-23-macOS-能像-win-一样设置进程的优先级吗？](https://www.v2ex.com/t/824108) ![](assets/new.png)  
 - [2021-12-23-美区账号无法登录了，提示-Apple-ID-没有被激活](https://www.v2ex.com/t/824107) ![](assets/new.png)  
 - [2021-12-23-求推荐适合-PC-连接的-TWS-耳机，半入耳式的](https://www.v2ex.com/t/824106) ![](assets/new.png)  
-- [2021-12-23-QuanX-的-SSID-相关配置似乎在-Apple-Silicon-Mac-上不生效](https://www.v2ex.com/t/824104) ![](assets/new.png)  
-- [2021-12-23-想购一份全国企业的数据集。](https://www.v2ex.com/t/824103) ![](assets/new.png)  
-- [2021-12-23-有没有什么方法可以一直监控一个文件是否有改变，-而且监控是哪个进程修改的这个文件。](https://www.v2ex.com/t/824102) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -558,22 +558,22 @@
 
 - [2021-12-24-巧用符号链接迁移-HDFS-数据，业务完全无感知！](https://toutiao.io/k/aogsbx6) ![](assets/new.png)  
 - [2021-12-24-整洁架构设计分析--架构设计的本质是什么?](https://toutiao.io/k/10u1cak) ![](assets/new.png)  
+- [2021-12-24-小心陷入-MySQL-索引的坑](https://toutiao.io/k/gucqkq4) ![](assets/new.png)  
+- [2021-12-24-Kafka集群突破百万partition-的技术探索](https://toutiao.io/k/4lw8h50) ![](assets/new.png)  
 - [2021-12-24-别吵吵内卷了，看看人家虚拟人：连续直播70天都没工资](https://toutiao.io/k/12qvwce) ![](assets/new.png)  
 - [2021-12-24-1万字详解-python-logging日志模块](https://toutiao.io/k/g6hs782) ![](assets/new.png)  
-- [2021-12-24-Kafka集群突破百万partition-的技术探索](https://toutiao.io/k/4lw8h50) ![](assets/new.png)  
-- [2021-12-24-小心陷入-MySQL-索引的坑](https://toutiao.io/k/gucqkq4) ![](assets/new.png)  
+- [2021-12-24-频频闯祸的-JNDI，到底是个什么“垃圾”玩意儿？](https://toutiao.io/k/83p5hvg) ![](assets/new.png)  
 - [2021-12-24-一致性哈希和分库分表有毛关系？](https://toutiao.io/k/wsh3xob) ![](assets/new.png)  
 - [2021-12-24-如何做前端单元测试](https://toutiao.io/k/2qvvzxq) ![](assets/new.png)  
-- [2021-12-24-频频闯祸的-JNDI，到底是个什么“垃圾”玩意儿？](https://toutiao.io/k/83p5hvg) ![](assets/new.png)  
 - [2021-12-24-多集群下的-Tekton-流水线实践](https://toutiao.io/k/wh3si2m) ![](assets/new.png)  
-- [2021-12-24-推荐-vivo-敏感词匹配系统的设计与实践](https://toutiao.io/k/hrnq79a) ![](assets/new.png)  
-- [2021-12-24-推荐-​Golang-并发编程指南](https://toutiao.io/k/adoo89l) ![](assets/new.png)  
-- [2021-12-24-推荐-这些年我用过的API文档工具，个个是精品！](https://toutiao.io/k/xt41e64) ![](assets/new.png)  
-- [2021-12-24-推荐-一个技术团队leader的搭建私有知识库避坑经验分享](https://toutiao.io/k/o3dptn4) ![](assets/new.png)  
-- [2021-12-24-推荐-深入剖析全链路灰度技术内幕](https://toutiao.io/k/zimpz4c) ![](assets/new.png)  
-- [2021-12-24-推荐-Intellij-IDEA-神级插件！效率提升-10-倍！](https://toutiao.io/k/4iqf0c2) ![](assets/new.png)  
 - [2021-12-24-推荐-聊聊-sql-优化的-15-个小技巧](https://toutiao.io/k/a94tblq) ![](assets/new.png)  
 - [2021-12-24-推荐-熬夜彻底搞懂Cookie-Session-Token-JWT](https://toutiao.io/k/g49lsl5) ![](assets/new.png)  
+- [2021-12-24-推荐-​Golang-并发编程指南](https://toutiao.io/k/adoo89l) ![](assets/new.png)  
+- [2021-12-24-推荐-vivo-敏感词匹配系统的设计与实践](https://toutiao.io/k/hrnq79a) ![](assets/new.png)  
+- [2021-12-24-推荐-一个技术团队leader的搭建私有知识库避坑经验分享](https://toutiao.io/k/o3dptn4) ![](assets/new.png)  
+- [2021-12-24-推荐-Intellij-IDEA-神级插件！效率提升-10-倍！](https://toutiao.io/k/4iqf0c2) ![](assets/new.png)  
+- [2021-12-24-推荐-深入剖析全链路灰度技术内幕](https://toutiao.io/k/zimpz4c) ![](assets/new.png)  
+- [2021-12-24-推荐-这些年我用过的API文档工具，个个是精品！](https://toutiao.io/k/xt41e64) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

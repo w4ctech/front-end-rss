@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-24 13:54:15，:rocket: 更新条数: +1625， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-24 14:12:24，:rocket: 更新条数: +1625， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,8 @@
 </summary>
 
 
+- [2021-12-24-求教程序员现在北京值得去的公司有哪些？](https://www.v2ex.com/t/824327) ![](assets/new.png)  
+- [2021-12-24-平安夜都能和苹果绑定起来总感觉怪怪的](https://www.v2ex.com/t/824326) ![](assets/new.png)  
 - [2021-12-24-啊啊啊啊啊～又来求助了，-ipv6-的问题。](https://www.v2ex.com/t/824325) ![](assets/new.png)  
 - [2021-12-24-关于-Gmail-上次账号活动时间的疑问](https://www.v2ex.com/t/824324) ![](assets/new.png)  
 - [2021-12-24-令人窒息的矿工费](https://www.v2ex.com/t/824322) ![](assets/new.png)  
@@ -512,8 +514,6 @@
 - [2021-12-24-web-前端-2-年多经验-女-坐标深圳-有内推的吗](https://www.v2ex.com/t/824305) ![](assets/new.png)  
 - [2021-12-24-docker-版本-20.10-，-之前的那种常驻运行的命令失效了，请教下](https://www.v2ex.com/t/824304) ![](assets/new.png)  
 - [2021-12-24-关于学习-Python-时书中的一个例题](https://www.v2ex.com/t/824303) ![](assets/new.png)  
-- [2021-12-24-vue-typescript-event-的数据类型怎么表示？](https://www.v2ex.com/t/824302) ![](assets/new.png)  
-- [2021-12-24-小米电视老是卡住然后重启是否可以换内置盒子](https://www.v2ex.com/t/824301) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

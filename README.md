@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-24 12:59:22，:rocket: 更新条数: +1625， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-24 13:11:26，:rocket: 更新条数: +1625， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,7 @@
 </summary>
 
 
+- [2021-12-24-令人窒息的矿工费](https://www.v2ex.com/t/824322) ![](assets/new.png)  
 - [2021-12-24-第一次换工作才知道还有工资分两部分发的操作](https://www.v2ex.com/t/824321) ![](assets/new.png)  
 - [2021-12-24-微信好友还有-30-多个](https://www.v2ex.com/t/824320) ![](assets/new.png)  
 - [2021-12-24-微软账号有个没-outlook-后缀的用户名](https://www.v2ex.com/t/824318) ![](assets/new.png)  
@@ -513,7 +514,6 @@
 - [2021-12-24-小米电视老是卡住然后重启是否可以换内置盒子](https://www.v2ex.com/t/824301) ![](assets/new.png)  
 - [2021-12-24-求推荐+886-和+81-的虚拟手机号提供商](https://www.v2ex.com/t/824300) ![](assets/new.png)  
 - [2021-12-24-世界上任何书籍都不能带给你好运，但是它们能让你悄悄成为你自己。](https://www.v2ex.com/t/824298) ![](assets/new.png)  
-- [2021-12-24-想买个服务器，各位大佬有什么推荐嘛](https://www.v2ex.com/t/824297) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

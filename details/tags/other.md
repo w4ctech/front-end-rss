@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-12-24 11:39:59。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-24 11:54:32。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1532,7 +1532,6 @@
 - [2021-12-24-使用-mac-目前遇到几个困扰求救](https://www.v2ex.com/t/824268) 
 - [2021-12-24-有没有大神能解释一下为什么-Python-循环中无法释放内存](https://www.v2ex.com/t/824267) 
 - [2021-12-24-问下这样的页面有什么平台可以直接生成吗？](https://www.v2ex.com/t/824260) 
-- [2021-12-24-摸鱼大闯关！](https://www.v2ex.com/t/824259) 
 - [2021-12-24-探索式测试的若干问题-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14862&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fexploratory-testing-things%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2021-12-24-谷歌-Android-12-Go-正式发布！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14861&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FfoPxB8GEHsK4INCPCQ0ryw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2021-12-24-高级程序员进化史-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14859&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247492747%26amp%3Bidx%3D1%26amp%3Bsn%3D757f40800aa8fdcd3d0667f2faa7dc2d%26amp%3Bchksm%3Dfa3f05d0cd488cc651543991fb50f36dce656fde866f42cca58985306c331e939e90d7bc1e63%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1562,15 +1561,15 @@
 - [2021-12-24-云原生时代的运维体系进化](https://toutiao.io/k/15x6e9o) 
 - [2021-12-24-如何做前端单元测试](https://toutiao.io/k/2qvvzxq) 
 - [2021-12-24-Go泛型不支持泛型方法，这是一个悲伤的故事](https://toutiao.io/k/tta22zl) 
-- [2021-12-24-网易严选数据质量实践](https://toutiao.io/k/zsigyeu) 
 - [2021-12-24-三种方式让你轻松监控-EntityFramework-中的-sql-流转](https://toutiao.io/k/lwkz8my) 
+- [2021-12-24-网易严选数据质量实践](https://toutiao.io/k/zsigyeu) 
 - [2021-12-24-独立开发变现周刊（第34期）：拒绝了4万美金的报价，60天后如何把产品做到月入2千美金](https://toutiao.io/k/3idr98p) 
 - [2021-12-24-最美圣诞树！用Python画棵雪夜圣诞树送给你](https://toutiao.io/k/m7n9ih6) 
 - [2021-12-24-背事故？分享-6-种常见的-Go-致命错误场景！](https://toutiao.io/k/uds9pai) 
 - [2021-12-24-如何用建木CI生成Allure报表](https://toutiao.io/k/3hqo1zj) 
-- [2021-12-24-推荐-​Golang-并发编程指南](https://toutiao.io/k/adoo89l) 
-- [2021-12-24-推荐-Intellij-IDEA-神级插件！效率提升-10-倍！](https://toutiao.io/k/4iqf0c2) 
+- [2021-12-24-推荐-这些年我用过的API文档工具，个个是精品！](https://toutiao.io/k/xt41e64) 
 - [2021-12-24-推荐-一个技术团队leader的搭建私有知识库避坑经验分享](https://toutiao.io/k/o3dptn4) 
+- [2021-12-24-推荐-Intellij-IDEA-神级插件！效率提升-10-倍！](https://toutiao.io/k/4iqf0c2) 
 - [2021-12-24-推荐-深入剖析全链路灰度技术内幕](https://toutiao.io/k/zimpz4c) 
 - [2021-12-24-推荐-vivo-敏感词匹配系统的设计与实践](https://toutiao.io/k/hrnq79a) 
-- [2021-12-24-推荐-这些年我用过的API文档工具，个个是精品！](https://toutiao.io/k/xt41e64) 
+- [2021-12-24-推荐-​Golang-并发编程指南](https://toutiao.io/k/adoo89l) 

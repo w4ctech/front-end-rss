@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-12-24 02:00:31。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-24 02:13:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -17,4 +17,3 @@
 - [2021-11-23-从js-visibilitychange-Safari下无效说开去](https://www.zhangxinxu.com/wordpress/2021/11/js-visibilitychange-pagehide-lifecycle/) 
 - [2021-10-28-JS复制文字到剪切板的极简实现及扩展](https://www.zhangxinxu.com/wordpress/2021/10/js-copy-paste-clipboard/) 
 - [2021-12-24-问下第二个路由怎么配置能和主路由的设备相互通信](https://www.v2ex.com/t/824129) 
-- [2021-12-23-请教一个问题，是关于-js,-fetch,-cors,-V2EX-api-的。](https://www.v2ex.com/t/824100) 

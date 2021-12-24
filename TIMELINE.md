@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-12-24 02:00:31。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2021-12-24 02:13:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -150,6 +150,11 @@
 - [【阮一峰的网络日志】2021-12-24-科技爱好者周刊（第-189-期）：下一个内卷的行业](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-189.html) 
 - [【阮一峰的网络日志】2021-12-17-科技爱好者周刊（第-188-期）：音乐是反社交](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-188.html) 
 - [【阮一峰的网络日志】2021-12-10-科技爱好者周刊（第-187-期）：元宇宙会成功吗](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-187.html) 
+- [【V2EX】2021-12-24-我的-WeChat-无法-iPad-/PC-同时登陆了？](https://www.v2ex.com/t/824150) 
+- [【V2EX】2021-12-24-MacOs-Monterey-命令行无法显示-git-分支](https://www.v2ex.com/t/824149) 
+- [【V2EX】2021-12-24-小米-10-安装-youtube-advanced，提示不给安装，给我气坏了](https://www.v2ex.com/t/824148) 
+- [【V2EX】2021-12-24-mac-mini-m1-网络摄像头选择](https://www.v2ex.com/t/824147) 
+- [【V2EX】2021-12-24-在-jd-,这种情况,-能否投诉成功](https://www.v2ex.com/t/824146) 
 - [【V2EX】2021-12-24-vivo-WATCH-2，一号双终端/独立号码，-7-天独立通信长续航，其它推荐？](https://www.v2ex.com/t/824145) 
 - [【V2EX】2021-12-24-有没有-v-友买过-二手车，被调表了，可以要求退一陪三吗？](https://www.v2ex.com/t/824144) 
 - [【V2EX】2021-12-24-请教-mongo-连接问题](https://www.v2ex.com/t/824143) 
@@ -183,9 +188,6 @@
 - [【V2EX】2021-12-23-QuanX-的-SSID-相关配置似乎在-Apple-Silicon-Mac-上不生效](https://www.v2ex.com/t/824104) 
 - [【V2EX】2021-12-23-想购一份全国企业的数据集。](https://www.v2ex.com/t/824103) 
 - [【V2EX】2021-12-23-有没有什么方法可以一直监控一个文件是否有改变，-而且监控是哪个进程修改的这个文件。](https://www.v2ex.com/t/824102) 
-- [【V2EX】2021-12-23-请教一个问题，是关于-js,-fetch,-cors,-V2EX-api-的。](https://www.v2ex.com/t/824100) 
-- [【V2EX】2021-12-23-反向-OCR-使用特殊字符集还原手写体-让电脑练我的字](https://www.v2ex.com/t/824098) 
-- [【V2EX】2021-12-23-成都-华为云大量软开-OD-岗位招聘，欢迎联系！](https://www.v2ex.com/t/824097) 
 - [【技术头条】2021-12-24-探索式测试的若干问题-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14862&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fexploratory-testing-things%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2021-12-24-谷歌-Android-12-Go-正式发布！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14861&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FfoPxB8GEHsK4INCPCQ0ryw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2021-12-24-69道HTML面试知识点总结-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14860&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247492752%26amp%3Bidx%3D2%26amp%3Bsn%3D48782b524d8880f90aa2e55cb7ed52ce%26amp%3Bchksm%3Dfa3f05cbcd488cddc21b53531a0df99cf4bc53d737d76fc6ecc722e34e407afdf10810c3961a%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -216,14 +218,18 @@
 - [【开发者头条】2021-12-24-别吵吵内卷了，看看人家虚拟人：连续直播70天都没工资](https://toutiao.io/k/12qvwce) 
 - [【开发者头条】2021-12-24-多集群下的-Tekton-流水线实践](https://toutiao.io/k/wh3si2m) 
 - [【开发者头条】2021-12-24-如何做前端单元测试](https://toutiao.io/k/2qvvzxq) 
+- [【开发者头条】2021-12-24-Go泛型不支持泛型方法，这是一个悲伤的故事](https://toutiao.io/k/tta22zl) 
+- [【开发者头条】2021-12-24-三种方式让你轻松监控-EntityFramework-中的-sql-流转](https://toutiao.io/k/lwkz8my) 
+- [【开发者头条】2021-12-24-云原生时代的运维体系进化](https://toutiao.io/k/15x6e9o) 
+- [【开发者头条】2021-12-24-网易严选数据质量实践](https://toutiao.io/k/zsigyeu) 
 - [【开发者头条】2021-12-24-推荐-熬夜彻底搞懂Cookie-Session-Token-JWT](https://toutiao.io/k/g49lsl5) 
-- [【开发者头条】2021-12-24-推荐-聊聊-sql-优化的-15-个小技巧](https://toutiao.io/k/a94tblq) 
-- [【开发者头条】2021-12-24-推荐-​Golang-并发编程指南](https://toutiao.io/k/adoo89l) 
 - [【开发者头条】2021-12-24-推荐-vivo-敏感词匹配系统的设计与实践](https://toutiao.io/k/hrnq79a) 
-- [【开发者头条】2021-12-24-推荐-这些年我用过的API文档工具，个个是精品！](https://toutiao.io/k/xt41e64) 
+- [【开发者头条】2021-12-24-推荐-​Golang-并发编程指南](https://toutiao.io/k/adoo89l) 
+- [【开发者头条】2021-12-24-推荐-聊聊-sql-优化的-15-个小技巧](https://toutiao.io/k/a94tblq) 
+- [【开发者头条】2021-12-24-推荐-深入剖析全链路灰度技术内幕](https://toutiao.io/k/zimpz4c) 
 - [【开发者头条】2021-12-24-推荐-Intellij-IDEA-神级插件！效率提升-10-倍！](https://toutiao.io/k/4iqf0c2) 
 - [【开发者头条】2021-12-24-推荐-一个技术团队leader的搭建私有知识库避坑经验分享](https://toutiao.io/k/o3dptn4) 
-- [【开发者头条】2021-12-24-推荐-深入剖析全链路灰度技术内幕](https://toutiao.io/k/zimpz4c) 
+- [【开发者头条】2021-12-24-推荐-这些年我用过的API文档工具，个个是精品！](https://toutiao.io/k/xt41e64) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

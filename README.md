@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-24 10:14:09，:rocket: 更新条数: +1620， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-24 10:25:11，:rocket: 更新条数: +1620， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,7 @@
 </summary>
 
 
+- [2021-12-24-steam-现在登录收不到验证码](https://www.v2ex.com/t/824295) ![](assets/new.png)  
 - [2021-12-24-通过这段-Golang-代码,有点疑问](https://www.v2ex.com/t/824293) ![](assets/new.png)  
 - [2021-12-24-go-pprof-调查-goroutine-泄漏问题。如何定位到具体代码呢？](https://www.v2ex.com/t/824292) ![](assets/new.png)  
 - [2021-12-24-东京街头徒步视频，这熟悉又陌生，缤纷多彩的街景，多元化，干净的街道，熟悉的口音（刷了太多日本的动漫），这是个多么有活力的地方。我突然有种想要再出去打工...](https://www.v2ex.com/t/824291) ![](assets/new.png)  
@@ -513,7 +514,6 @@
 - [2021-12-24-哪里找一些大量模拟数据来练习-SQL](https://www.v2ex.com/t/824277) ![](assets/new.png)  
 - [2021-12-24-macOS-窗口分屏显示的时候为何不能叠加？](https://www.v2ex.com/t/824276) ![](assets/new.png)  
 - [2021-12-24-你们是怎样增量备份网站数据呢？](https://www.v2ex.com/t/824275) ![](assets/new.png)  
-- [2021-12-24-iPhone-清空相册为什么还能占用-20G-？！](https://www.v2ex.com/t/824274) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

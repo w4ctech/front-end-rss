@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-12-24 10:14:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-24 10:25:11。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1506,6 +1506,7 @@
 - [2021-12-24-科技爱好者周刊（第-189-期）：下一个内卷的行业](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-189.html) 
 - [2021-12-17-科技爱好者周刊（第-188-期）：音乐是反社交](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-188.html) 
 - [2021-12-10-科技爱好者周刊（第-187-期）：元宇宙会成功吗](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-187.html) 
+- [2021-12-24-steam-现在登录收不到验证码](https://www.v2ex.com/t/824295) 
 - [2021-12-24-通过这段-Golang-代码,有点疑问](https://www.v2ex.com/t/824293) 
 - [2021-12-24-go-pprof-调查-goroutine-泄漏问题。如何定位到具体代码呢？](https://www.v2ex.com/t/824292) 
 - [2021-12-24-appleid-无辜被永久封禁，可以走哪些途径解决？](https://www.v2ex.com/t/824290) 
@@ -1533,7 +1534,6 @@
 - [2021-12-24-TPLINK-的-firmware-是-GPL-的，但是不开源](https://www.v2ex.com/t/824253) 
 - [2021-12-24-上海-腾讯广告内推，可年后入职](https://www.v2ex.com/t/824252) 
 - [2021-12-24-杭州-小影科技持续内推中🚀](https://www.v2ex.com/t/824247) 
-- [2021-12-24-Stay²内测啦，除了拦截跳转，还能使用油猴脚本。](https://www.v2ex.com/t/824245) 
 - [2021-12-24-探索式测试的若干问题-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14862&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fexploratory-testing-things%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2021-12-24-谷歌-Android-12-Go-正式发布！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14861&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FfoPxB8GEHsK4INCPCQ0ryw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2021-12-24-高级程序员进化史-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14859&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247492747%26amp%3Bidx%3D1%26amp%3Bsn%3D757f40800aa8fdcd3d0667f2faa7dc2d%26amp%3Bchksm%3Dfa3f05d0cd488cc651543991fb50f36dce656fde866f42cca58985306c331e939e90d7bc1e63%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1569,9 +1569,9 @@
 - [2021-12-24-最美圣诞树！用Python画棵雪夜圣诞树送给你](https://toutiao.io/k/m7n9ih6) 
 - [2021-12-24-背事故？分享-6-种常见的-Go-致命错误场景！](https://toutiao.io/k/uds9pai) 
 - [2021-12-24-如何用建木CI生成Allure报表](https://toutiao.io/k/3hqo1zj) 
-- [2021-12-24-推荐-一个技术团队leader的搭建私有知识库避坑经验分享](https://toutiao.io/k/o3dptn4) 
-- [2021-12-24-推荐-深入剖析全链路灰度技术内幕](https://toutiao.io/k/zimpz4c) 
 - [2021-12-24-推荐-vivo-敏感词匹配系统的设计与实践](https://toutiao.io/k/hrnq79a) 
-- [2021-12-24-推荐-Intellij-IDEA-神级插件！效率提升-10-倍！](https://toutiao.io/k/4iqf0c2) 
-- [2021-12-24-推荐-​Golang-并发编程指南](https://toutiao.io/k/adoo89l) 
 - [2021-12-24-推荐-这些年我用过的API文档工具，个个是精品！](https://toutiao.io/k/xt41e64) 
+- [2021-12-24-推荐-​Golang-并发编程指南](https://toutiao.io/k/adoo89l) 
+- [2021-12-24-推荐-Intellij-IDEA-神级插件！效率提升-10-倍！](https://toutiao.io/k/4iqf0c2) 
+- [2021-12-24-推荐-深入剖析全链路灰度技术内幕](https://toutiao.io/k/zimpz4c) 
+- [2021-12-24-推荐-一个技术团队leader的搭建私有知识库避坑经验分享](https://toutiao.io/k/o3dptn4) 

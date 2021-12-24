@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-12-24 05:41:14。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-24 05:54:35。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -15,5 +15,4 @@
 - [2021-01-01-大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html) 
 - [2021-09-30-兼容IE浏览器的图片局部高斯模糊实现](https://www.zhangxinxu.com/wordpress/2021/09/ie-image-local-filter-blur/) 
 - [2021-12-24-请问还有哪个客户端有类似-mobaXterm-下的跳转机jump-host和多窗口执行MultiExec功能？](https://www.v2ex.com/t/824182) 
-- [2021-12-24-看到这个。。。QQ-jietu-plugin](https://www.v2ex.com/t/824156) 
 - [2021-12-24-推荐-熬夜彻底搞懂Cookie-Session-Token-JWT](https://toutiao.io/k/g49lsl5) 

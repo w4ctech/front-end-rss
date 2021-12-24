@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-24 05:41:14，:rocket: 更新条数: +1619， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-24 05:54:35，:rocket: 更新条数: +1619， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,10 @@
 </summary>
 
 
+- [2021-12-24-xm4-连接耳机-概率性声音变的很大-有老哥遇到过吗？](https://www.v2ex.com/t/824207) ![](assets/new.png)  
+- [2021-12-24-求推荐补充医疗险以及保险科普类知识](https://www.v2ex.com/t/824206) ![](assets/new.png)  
+- [2021-12-24-租房采坑-贝客公寓真是辣鸡，柜子发霉了也算我头上？](https://www.v2ex.com/t/824205) ![](assets/new.png)  
+- [2021-12-24-为啥手机屏下指纹目前大多数还是光学指纹，使用超声波指纹的还是少数](https://www.v2ex.com/t/824203) ![](assets/new.png)  
 - [2021-12-24-新加坡/远程-DeBank/Rabby-欢迎大家一起构建-Web3-生态](https://www.v2ex.com/t/824202) ![](assets/new.png)  
 - [2021-12-24-快过年了](https://www.v2ex.com/t/824201) ![](assets/new.png)  
 - [2021-12-24-Git-提交时莫名其妙删除文件](https://www.v2ex.com/t/824200) ![](assets/new.png)  
@@ -510,10 +514,6 @@
 - [2021-12-24-最近降价想入手一台-K40,网上查到好多关于-K40-自动重启的帖子,事实怎样](https://www.v2ex.com/t/824187) ![](assets/new.png)  
 - [2021-12-24-个人认为-Matrix4-算及格之作](https://www.v2ex.com/t/824186) ![](assets/new.png)  
 - [2021-12-24-弄了一个“元宇宙”介绍网站](https://www.v2ex.com/t/824185) ![](assets/new.png)  
-- [2021-12-24-教育网何时可以拉直路由](https://www.v2ex.com/t/824184) ![](assets/new.png)  
-- [2021-12-24-请问还有哪个客户端有类似-mobaXterm-下的跳转机jump-host和多窗口执行MultiExec功能？](https://www.v2ex.com/t/824182) ![](assets/new.png)  
-- [2021-12-24-关于-Google-Cloud-试用赠金的一些疑问，求教！](https://www.v2ex.com/t/824181) ![](assets/new.png)  
-- [2021-12-24-关于医院发票咨询](https://www.v2ex.com/t/824180) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -567,13 +567,13 @@
 - [2021-12-24-多集群下的-Tekton-流水线实践](https://toutiao.io/k/wh3si2m) ![](assets/new.png)  
 - [2021-12-24-别吵吵内卷了，看看人家虚拟人：连续直播70天都没工资](https://toutiao.io/k/12qvwce) ![](assets/new.png)  
 - [2021-12-24-如何做前端单元测试](https://toutiao.io/k/2qvvzxq) ![](assets/new.png)  
-- [2021-12-24-网易严选数据质量实践](https://toutiao.io/k/zsigyeu) ![](assets/new.png)  
 - [2021-12-24-云原生时代的运维体系进化](https://toutiao.io/k/15x6e9o) ![](assets/new.png)  
+- [2021-12-24-网易严选数据质量实践](https://toutiao.io/k/zsigyeu) ![](assets/new.png)  
 - [2021-12-24-Go泛型不支持泛型方法，这是一个悲伤的故事](https://toutiao.io/k/tta22zl) ![](assets/new.png)  
 - [2021-12-24-三种方式让你轻松监控-EntityFramework-中的-sql-流转](https://toutiao.io/k/lwkz8my) ![](assets/new.png)  
 - [2021-12-24-推荐-深入剖析全链路灰度技术内幕](https://toutiao.io/k/zimpz4c) ![](assets/new.png)  
-- [2021-12-24-推荐-vivo-敏感词匹配系统的设计与实践](https://toutiao.io/k/hrnq79a) ![](assets/new.png)  
-- [2021-12-24-推荐-一个技术团队leader的搭建私有知识库避坑经验分享](https://toutiao.io/k/o3dptn4) ![](assets/new.png)  
+- [2021-12-24-推荐-​Golang-并发编程指南](https://toutiao.io/k/adoo89l) ![](assets/new.png)  
+- [2021-12-24-推荐-聊聊-sql-优化的-15-个小技巧](https://toutiao.io/k/a94tblq) ![](assets/new.png)  
 - [2021-12-24-推荐-Intellij-IDEA-神级插件！效率提升-10-倍！](https://toutiao.io/k/4iqf0c2) ![](assets/new.png)  
 - [2021-12-24-推荐-熬夜彻底搞懂Cookie-Session-Token-JWT](https://toutiao.io/k/g49lsl5) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)

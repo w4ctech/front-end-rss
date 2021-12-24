@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-24 01:09:40，:rocket: 更新条数: +1612， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-24 02:00:31，:rocket: 更新条数: +1606， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -65,7 +65,7 @@
 </summary>
 
 
-- [2021-12-23-最新疫情：全国新冠累计确诊100644例-累计接种新冠疫苗超27.19亿剂次](https://m.caixin.com/m/2021-12-23/101821350.html) ![](assets/new.png)  
+- [2021-12-24-12月23日全国新增新冠87例-四省份本土55例](https://m.caixin.com/m/2021-12-24/101821504.html) ![](assets/new.png)  
 - [2021-12-23-西安两周累计确诊234例-封城后机场国内航班全部取消](https://m.caixin.com/m/2021-12-23/101821395.html) ![](assets/new.png)  
 - [2021-12-23-最新海外疫情：新冠感染超2.76亿-累计接种新冠疫苗超87.87亿剂次](https://m.caixin.com/m/2021-12-23/101821341.html) ![](assets/new.png)  
 - [2021-12-23-【境内疫情观察】全国新增71例本土病例（12月22日）](https://database.caixin.com/m/2021-12-23/101821239.html) ![](assets/new.png)  
@@ -494,26 +494,26 @@
 </summary>
 
 
+- [2021-12-24-vivo-WATCH-2，一号双终端/独立号码，-7-天独立通信长续航，其它推荐？](https://www.v2ex.com/t/824145) ![](assets/new.png)  
+- [2021-12-24-有没有-v-友买过-二手车，被调表了，可以要求退一陪三吗？](https://www.v2ex.com/t/824144) ![](assets/new.png)  
+- [2021-12-24-请教-mongo-连接问题](https://www.v2ex.com/t/824143) ![](assets/new.png)  
+- [2021-12-24-这个月买的小电车到了。说说使用体验。](https://www.v2ex.com/t/824140) ![](assets/new.png)  
+- [2021-12-24-Go-里面的-RBAC-框架一般用那个](https://www.v2ex.com/t/824138) ![](assets/new.png)  
+- [2021-12-24-印象笔记挂了？](https://www.v2ex.com/t/824136) ![](assets/new.png)  
+- [2021-12-24-公司企业微信不能传截图了，有没有网页端图片即时分享的产品？](https://www.v2ex.com/t/824135) ![](assets/new.png)  
+- [2021-12-24-敏感数据加密解决方案求助](https://www.v2ex.com/t/824134) ![](assets/new.png)  
+- [2021-12-24-店名征集-送-10-张-288-单人门票-和-6-张-688-家庭票和-1-张年度无限次游览卡（价值-68000）欢迎来到花村](https://www.v2ex.com/t/824132) ![](assets/new.png)  
+- [2021-12-24-腾讯云崩了？](https://www.v2ex.com/t/824131) ![](assets/new.png)  
+- [2021-12-24-问下第二个路由怎么配置能和主路由的设备相互通信](https://www.v2ex.com/t/824129) ![](assets/new.png)  
 - [2021-12-24-关于-Redis-6.0-多线程的一点疑惑](https://www.v2ex.com/t/824128) ![](assets/new.png)  
 - [2021-12-24-有没有人用过-Unihertz-titan-手机？](https://www.v2ex.com/t/824127) ![](assets/new.png)  
 - [2021-12-24-想-1500-2000-左右弄个安卓](https://www.v2ex.com/t/824126) ![](assets/new.png)  
 - [2021-12-24-使用-Clash-作为代理的-V-友，会碰到-Microsoft-Store“无法加载页面"的问题吗？怎么解决的呢？](https://www.v2ex.com/t/824125) ![](assets/new.png)  
 - [2021-12-23-EGPU-的-USB-音频问题](https://www.v2ex.com/t/824123) ![](assets/new.png)  
 - [2021-12-23-Melvor-Idle-Steam-商店-31.45-元](https://www.v2ex.com/t/824122) ![](assets/new.png)  
-- [2021-12-23-有时候我也想去做黑产](https://www.v2ex.com/t/824121) ![](assets/new.png)  
 - [2021-12-23-React-在-docker,-buildkite-部署，如何读取不同的-staging,-qa-环境文件](https://www.v2ex.com/t/824120) ![](assets/new.png)  
 - [2021-12-23-有-pcdn-上游公司的人吗？](https://www.v2ex.com/t/824119) ![](assets/new.png)  
 - [2021-12-23-咨询一下，阿里云-OSS-托管静态网站，可以配置-302-重定向的时候携带参数吗？](https://www.v2ex.com/t/824118) ![](assets/new.png)  
-- [2021-12-23-有没有短键程的（薄膜）键盘推荐的？](https://www.v2ex.com/t/824117) ![](assets/new.png)  
-- [2021-12-23-MySQL-事务提交和单条单条-SQL-执行-是否有性能影响](https://www.v2ex.com/t/824116) ![](assets/new.png)  
-- [2021-12-23-infuse-7-卡顿问题](https://www.v2ex.com/t/824115) ![](assets/new.png)  
-- [2021-12-23-全职远程-诚聘前端工程师、服务器端工程师、全栈工程师](https://www.v2ex.com/t/824114) ![](assets/new.png)  
-- [2021-12-23-Mongodb-字符串转-ObjectId](https://www.v2ex.com/t/824113) ![](assets/new.png)  
-- [2021-12-23-批量吞吐数据,-用-redis-合适么](https://www.v2ex.com/t/824111) ![](assets/new.png)  
-- [2021-12-23-安卓手机，勿扰模式下，微信来电为何仍发出震动？](https://www.v2ex.com/t/824109) ![](assets/new.png)  
-- [2021-12-23-macOS-能像-win-一样设置进程的优先级吗？](https://www.v2ex.com/t/824108) ![](assets/new.png)  
-- [2021-12-23-美区账号无法登录了，提示-Apple-ID-没有被激活](https://www.v2ex.com/t/824107) ![](assets/new.png)  
-- [2021-12-23-求推荐适合-PC-连接的-TWS-耳机，半入耳式的](https://www.v2ex.com/t/824106) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -560,20 +560,20 @@
 - [2021-12-24-整洁架构设计分析--架构设计的本质是什么?](https://toutiao.io/k/10u1cak) ![](assets/new.png)  
 - [2021-12-24-小心陷入-MySQL-索引的坑](https://toutiao.io/k/gucqkq4) ![](assets/new.png)  
 - [2021-12-24-Kafka集群突破百万partition-的技术探索](https://toutiao.io/k/4lw8h50) ![](assets/new.png)  
-- [2021-12-24-别吵吵内卷了，看看人家虚拟人：连续直播70天都没工资](https://toutiao.io/k/12qvwce) ![](assets/new.png)  
-- [2021-12-24-1万字详解-python-logging日志模块](https://toutiao.io/k/g6hs782) ![](assets/new.png)  
-- [2021-12-24-频频闯祸的-JNDI，到底是个什么“垃圾”玩意儿？](https://toutiao.io/k/83p5hvg) ![](assets/new.png)  
 - [2021-12-24-一致性哈希和分库分表有毛关系？](https://toutiao.io/k/wsh3xob) ![](assets/new.png)  
-- [2021-12-24-如何做前端单元测试](https://toutiao.io/k/2qvvzxq) ![](assets/new.png)  
+- [2021-12-24-频频闯祸的-JNDI，到底是个什么“垃圾”玩意儿？](https://toutiao.io/k/83p5hvg) ![](assets/new.png)  
+- [2021-12-24-1万字详解-python-logging日志模块](https://toutiao.io/k/g6hs782) ![](assets/new.png)  
+- [2021-12-24-别吵吵内卷了，看看人家虚拟人：连续直播70天都没工资](https://toutiao.io/k/12qvwce) ![](assets/new.png)  
 - [2021-12-24-多集群下的-Tekton-流水线实践](https://toutiao.io/k/wh3si2m) ![](assets/new.png)  
-- [2021-12-24-推荐-聊聊-sql-优化的-15-个小技巧](https://toutiao.io/k/a94tblq) ![](assets/new.png)  
+- [2021-12-24-如何做前端单元测试](https://toutiao.io/k/2qvvzxq) ![](assets/new.png)  
 - [2021-12-24-推荐-熬夜彻底搞懂Cookie-Session-Token-JWT](https://toutiao.io/k/g49lsl5) ![](assets/new.png)  
+- [2021-12-24-推荐-聊聊-sql-优化的-15-个小技巧](https://toutiao.io/k/a94tblq) ![](assets/new.png)  
 - [2021-12-24-推荐-​Golang-并发编程指南](https://toutiao.io/k/adoo89l) ![](assets/new.png)  
 - [2021-12-24-推荐-vivo-敏感词匹配系统的设计与实践](https://toutiao.io/k/hrnq79a) ![](assets/new.png)  
-- [2021-12-24-推荐-一个技术团队leader的搭建私有知识库避坑经验分享](https://toutiao.io/k/o3dptn4) ![](assets/new.png)  
-- [2021-12-24-推荐-Intellij-IDEA-神级插件！效率提升-10-倍！](https://toutiao.io/k/4iqf0c2) ![](assets/new.png)  
-- [2021-12-24-推荐-深入剖析全链路灰度技术内幕](https://toutiao.io/k/zimpz4c) ![](assets/new.png)  
 - [2021-12-24-推荐-这些年我用过的API文档工具，个个是精品！](https://toutiao.io/k/xt41e64) ![](assets/new.png)  
+- [2021-12-24-推荐-Intellij-IDEA-神级插件！效率提升-10-倍！](https://toutiao.io/k/4iqf0c2) ![](assets/new.png)  
+- [2021-12-24-推荐-一个技术团队leader的搭建私有知识库避坑经验分享](https://toutiao.io/k/o3dptn4) ![](assets/new.png)  
+- [2021-12-24-推荐-深入剖析全链路灰度技术内幕](https://toutiao.io/k/zimpz4c) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

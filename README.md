@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-24 15:13:14，:rocket: 更新条数: +1627， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-24 15:23:19，:rocket: 更新条数: +1627， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -572,8 +572,8 @@
 - [2021-12-24-Go泛型不支持泛型方法，这是一个悲伤的故事](https://toutiao.io/k/tta22zl) ![](assets/new.png)  
 - [2021-12-24-三种方式让你轻松监控-EntityFramework-中的-sql-流转](https://toutiao.io/k/lwkz8my) ![](assets/new.png)  
 - [2021-12-24-独立开发变现周刊（第34期）：拒绝了4万美金的报价，60天后如何把产品做到月入2千美金](https://toutiao.io/k/3idr98p) ![](assets/new.png)  
-- [2021-12-24-网易严选数据质量实践](https://toutiao.io/k/zsigyeu) ![](assets/new.png)  
 - [2021-12-24-最美圣诞树！用Python画棵雪夜圣诞树送给你](https://toutiao.io/k/m7n9ih6) ![](assets/new.png)  
+- [2021-12-24-网易严选数据质量实践](https://toutiao.io/k/zsigyeu) ![](assets/new.png)  
 - [2021-12-24-背事故？分享-6-种常见的-Go-致命错误场景！](https://toutiao.io/k/uds9pai) ![](assets/new.png)  
 - [2021-12-24-如何用建木CI生成Allure报表](https://toutiao.io/k/3hqo1zj) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)

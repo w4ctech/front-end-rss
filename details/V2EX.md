@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-12-25 05:12:38。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-25 05:21:04。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
@@ -43,4 +43,3 @@
 - [2021-12-24-领导出了个题目，有何深意？](https://www.v2ex.com/t/824335) 
 - [2021-12-24-Python-正在弃用-distutils.cfg](https://www.v2ex.com/t/824334) 
 - [2021-12-24-动森好友](https://www.v2ex.com/t/824333) 
-- [2021-12-24-内推-Java-研发美团优选职级-Open-薪资好说-经理直招](https://www.v2ex.com/t/824331) 

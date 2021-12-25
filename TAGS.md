@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-12-25 03:45:10。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-25 03:57:44。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -158,7 +158,6 @@
 
 - [【V2EX】请问除采集卡外，有无将游戏机画面推送到-Mac-的方案](https://www.v2ex.com/t/824362)
 - [【V2EX】求推荐一点-ns-游戏](https://www.v2ex.com/t/824344)
-- [【V2EX】游戏买了不玩，却每次活动还想买……](https://www.v2ex.com/t/824317)
 - [......【查看更多】......](./details/tags/dev-game.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-25 01:59:19，:rocket: 更新条数: +1612， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-25 02:12:33，:rocket: 更新条数: +1615， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,8 @@
 </summary>
 
 
+- [2021-12-25-求助-在-VPS-上如何使用迅雷网盘？想要下载迅雷网盘里的资料内容。比如有没有类似下面这样的百度网盘-docker-版？](https://www.v2ex.com/t/824354) ![](assets/new.png)  
+- [2021-12-25-小白装机求助，预算-8K。](https://www.v2ex.com/t/824353) ![](assets/new.png)  
 - [2021-12-25-现在散户想挖矿取暖的话还有什么交易所和矿池可以选？](https://www.v2ex.com/t/824352) ![](assets/new.png)  
 - [2021-12-25-兄弟们-3100-宏碁-N98-拆卡机值不值](https://www.v2ex.com/t/824350) ![](assets/new.png)  
 - [2021-12-25-https://go.dev/ref/spec-这个文档有中文的译文吗](https://www.v2ex.com/t/824349) ![](assets/new.png)  
@@ -512,8 +514,6 @@
 - [2021-12-24-动森好友](https://www.v2ex.com/t/824333) ![](assets/new.png)  
 - [2021-12-24-内推-Java-研发美团优选职级-Open-薪资好说-经理直招](https://www.v2ex.com/t/824331) ![](assets/new.png)  
 - [2021-12-24-安利一下自己写的-macOS-剪切板工具-优惠码](https://www.v2ex.com/t/824330) ![](assets/new.png)  
-- [2021-12-24-考研加油](https://www.v2ex.com/t/824329) ![](assets/new.png)  
-- [2021-12-24-推荐个千元左右的支持-Linux-的笔记本电脑，希望大家推荐一波。](https://www.v2ex.com/t/824328) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -561,14 +561,17 @@
 - [2021-12-25-Enrich-Processor——Elasticsearch-跨索引关联数据新方式](https://toutiao.io/k/igeh9aw) ![](assets/new.png)  
 - [2021-12-25-「GoCN酷Go推荐」Golang轻量级桌面程序wails2教学](https://toutiao.io/k/rsx38ld) ![](assets/new.png)  
 - [2021-12-25-周路：为什么是ClickHouse？eBay广告数据平台架构实践！](https://toutiao.io/k/k8jn4am) ![](assets/new.png)  
-- [2021-12-25-推荐-深入剖析全链路灰度技术内幕](https://toutiao.io/k/zimpz4c) ![](assets/new.png)  
+- [2021-12-25-这些开源项目-yyds](https://toutiao.io/k/y4paip4) ![](assets/new.png)  
+- [2021-12-25-头条搜索品质优化-端到端篇](https://toutiao.io/k/8nf7n5c) ![](assets/new.png)  
+- [2021-12-25-RocketMQ这样做，性能提高30%](https://toutiao.io/k/2m201is) ![](assets/new.png)  
 - [2021-12-25-推荐-一个技术团队leader的搭建私有知识库避坑经验分享](https://toutiao.io/k/o3dptn4) ![](assets/new.png)  
-- [2021-12-25-推荐-聊聊-sql-优化的-15-个小技巧](https://toutiao.io/k/a94tblq) ![](assets/new.png)  
-- [2021-12-25-推荐-​Golang-并发编程指南](https://toutiao.io/k/adoo89l) ![](assets/new.png)  
-- [2021-12-25-推荐-vivo-敏感词匹配系统的设计与实践](https://toutiao.io/k/hrnq79a) ![](assets/new.png)  
 - [2021-12-25-推荐-熬夜彻底搞懂Cookie-Session-Token-JWT](https://toutiao.io/k/g49lsl5) ![](assets/new.png)  
+- [2021-12-25-推荐-​Golang-并发编程指南](https://toutiao.io/k/adoo89l) ![](assets/new.png)  
+- [2021-12-25-推荐-深入剖析全链路灰度技术内幕](https://toutiao.io/k/zimpz4c) ![](assets/new.png)  
 - [2021-12-25-推荐-Intellij-IDEA-神级插件！效率提升-10-倍！](https://toutiao.io/k/4iqf0c2) ![](assets/new.png)  
 - [2021-12-25-推荐-这些年我用过的API文档工具，个个是精品！](https://toutiao.io/k/xt41e64) ![](assets/new.png)  
+- [2021-12-25-推荐-聊聊-sql-优化的-15-个小技巧](https://toutiao.io/k/a94tblq) ![](assets/new.png)  
+- [2021-12-25-推荐-vivo-敏感词匹配系统的设计与实践](https://toutiao.io/k/hrnq79a) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

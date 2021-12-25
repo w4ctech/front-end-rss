@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-12-25 01:08:50。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-25 01:59:19。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -57,7 +57,6 @@
 
 - [【V2EX】远程全职-长期招聘-Vue,-NodeJs,-AWS-技术栈](https://www.v2ex.com/t/824341)
 - [【V2EX】🎅-🎅-🎅-站在-Vue3-上-构建管理系统-vue-vite-admin-ts](https://www.v2ex.com/t/824308)
-- [【V2EX】vue-typescript-event-的数据类型怎么表示？](https://www.v2ex.com/t/824302)
 - [......【查看更多】......](./details/tags/vue.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -158,6 +157,7 @@
 
 
 
+- [【V2EX】求推荐一点-ns-游戏](https://www.v2ex.com/t/824344)
 - [【V2EX】游戏买了不玩，却每次活动还想买……](https://www.v2ex.com/t/824317)
 - [......【查看更多】......](./details/tags/dev-game.md)
 
@@ -296,6 +296,7 @@
 
 
 
+- [【V2EX】https://go.dev/ref/spec-这个文档有中文的译文吗](https://www.v2ex.com/t/824349)
 - [【开发者头条】Enrich-Processor——Elasticsearch-跨索引关联数据新方式](https://toutiao.io/k/igeh9aw)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 
@@ -406,7 +407,8 @@
 
 
 
-- [【武汉肺炎防疫全纪录(财新网)】最新疫情：全国新冠累计确诊100731例-累计接种新冠疫苗超27.32亿剂次](https://m.caixin.com/m/2021-12-24/101821838.html)
+- [【武汉肺炎防疫全纪录(财新网)】12月24日全国新增新冠140例-三省份本土87例](https://m.caixin.com/m/2021-12-25/101821990.html)
+- [【武汉肺炎防疫全纪录(财新网)】圣诞周末全球数千航班取消-欧洲多国病例创记录｜大流行手记（12月24日）](https://m.caixin.com/m/2021-12-25/101822014.html)
 - [【武汉肺炎防疫全纪录(财新网)】特稿｜新冠再致“封城”：西安防疫年终之战](https://m.caixin.com/m/2021-12-24/101821925.html)
 - [【武汉肺炎防疫全纪录(财新网)】昆明新增2例阳性-系夫妻](https://china.caixin.com/m/2021-12-24/101821888.html)
 - [【武汉肺炎防疫全纪录(财新网)】香港研究：三针科兴疫苗抗体不足-为防Omicron建议混打](https://m.caixin.com/m/2021-12-24/101821543.html)
@@ -425,7 +427,6 @@
 - [【武汉肺炎防疫全纪录(财新网)】【境内疫情观察】全国新增57例本土病例（12月20日）](https://database.caixin.com/m/2021-12-21/101820393.html)
 - [【武汉肺炎防疫全纪录(财新网)】Moderna称加强针有效保护Omicron-欧盟批准Novavax疫苗｜大流行手记（12月20日）](https://m.caixin.com/m/2021-12-21/101820187.html)
 - [【武汉肺炎防疫全纪录(财新网)】英美Omicron威胁使圣诞防疫陷两难-谭德塞吁在2022年终止疫情](https://international.caixin.com/m/2021-12-21/101820545.html)
-- [【武汉肺炎防疫全纪录(财新网)】西安疫情日新增翻倍-元旦春节期间跨省旅游实行“熔断”](https://m.caixin.com/m/2021-12-20/101820083.html)
 - [......【查看更多】......](./details/tags/other.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

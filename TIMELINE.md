@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-12-25 04:15:47。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2021-12-25 04:29:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -157,7 +157,7 @@
 - [【阮一峰的网络日志】2021-12-24-科技爱好者周刊（第-189-期）：下一个内卷的行业](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-189.html) 
 - [【阮一峰的网络日志】2021-12-17-科技爱好者周刊（第-188-期）：音乐是反社交](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-188.html) 
 - [【阮一峰的网络日志】2021-12-10-科技爱好者周刊（第-187-期）：元宇宙会成功吗](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-187.html) 
-- [【V2EX】2021-12-25-知乎是因为什么原因被暂停评论功能？](https://www.v2ex.com/t/824370) 
+- [【V2EX】2021-12-25-刚买的-air-不能开机](https://www.v2ex.com/t/824372) 
 - [【V2EX】2021-12-25-ctypes-怎么获取参数返回值？](https://www.v2ex.com/t/824368) 
 - [【V2EX】2021-12-25-那个被蚂蚁-相互宝-告的自媒体-胜诉了，聊聊我当时的观点](https://www.v2ex.com/t/824367) 
 - [【V2EX】2021-12-25-家门口的环境问题一般怎么处理](https://www.v2ex.com/t/824366) 
@@ -196,7 +196,6 @@
 - [【V2EX】2021-12-24-平安夜都能和苹果绑定起来总感觉怪怪的](https://www.v2ex.com/t/824326) 
 - [【V2EX】2021-12-24-啊啊啊啊啊～又来求助了，-ipv6-的问题。](https://www.v2ex.com/t/824325) 
 - [【V2EX】2021-12-24-关于-Gmail-上次账号活动时间的疑问](https://www.v2ex.com/t/824324) 
-- [【V2EX】2021-12-24-令人窒息的矿工费](https://www.v2ex.com/t/824322) 
 - [【技术头条】2021-12-25-探索式测试的若干问题-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14862&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fexploratory-testing-things%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2021-12-25-谷歌-Android-12-Go-正式发布！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14861&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FfoPxB8GEHsK4INCPCQ0ryw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2021-12-25-69道HTML面试知识点总结-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14860&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247492752%26amp%3Bidx%3D2%26amp%3Bsn%3D48782b524d8880f90aa2e55cb7ed52ce%26amp%3Bchksm%3Dfa3f05cbcd488cddc21b53531a0df99cf4bc53d737d76fc6ecc722e34e407afdf10810c3961a%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -225,14 +224,14 @@
 - [【开发者头条】2021-12-25-这些开源项目-yyds](https://toutiao.io/k/y4paip4) 
 - [【开发者头条】2021-12-25-RocketMQ这样做，性能提高30%](https://toutiao.io/k/2m201is) 
 - [【开发者头条】2021-12-25-头条搜索品质优化-端到端篇](https://toutiao.io/k/8nf7n5c) 
-- [【开发者头条】2021-12-25-推荐-聊聊-sql-优化的-15-个小技巧](https://toutiao.io/k/a94tblq) 
+- [【开发者头条】2021-12-25-推荐-深入剖析全链路灰度技术内幕](https://toutiao.io/k/zimpz4c) 
+- [【开发者头条】2021-12-25-推荐-一个技术团队leader的搭建私有知识库避坑经验分享](https://toutiao.io/k/o3dptn4) 
 - [【开发者头条】2021-12-25-推荐-熬夜彻底搞懂Cookie-Session-Token-JWT](https://toutiao.io/k/g49lsl5) 
+- [【开发者头条】2021-12-25-推荐-Intellij-IDEA-神级插件！效率提升-10-倍！](https://toutiao.io/k/4iqf0c2) 
+- [【开发者头条】2021-12-25-推荐-vivo-敏感词匹配系统的设计与实践](https://toutiao.io/k/hrnq79a) 
+- [【开发者头条】2021-12-25-推荐-聊聊-sql-优化的-15-个小技巧](https://toutiao.io/k/a94tblq) 
 - [【开发者头条】2021-12-25-推荐-这些年我用过的API文档工具，个个是精品！](https://toutiao.io/k/xt41e64) 
 - [【开发者头条】2021-12-25-推荐-​Golang-并发编程指南](https://toutiao.io/k/adoo89l) 
-- [【开发者头条】2021-12-25-推荐-vivo-敏感词匹配系统的设计与实践](https://toutiao.io/k/hrnq79a) 
-- [【开发者头条】2021-12-25-推荐-一个技术团队leader的搭建私有知识库避坑经验分享](https://toutiao.io/k/o3dptn4) 
-- [【开发者头条】2021-12-25-推荐-Intellij-IDEA-神级插件！效率提升-10-倍！](https://toutiao.io/k/4iqf0c2) 
-- [【开发者头条】2021-12-25-推荐-深入剖析全链路灰度技术内幕](https://toutiao.io/k/zimpz4c) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-12-25 00:39:09。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2021-12-25 01:08:50。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -195,7 +195,6 @@
 - [【V2EX】2021-12-24-世界上任何书籍都不能带给你好运，但是它们能让你悄悄成为你自己。](https://www.v2ex.com/t/824298) 
 - [【V2EX】2021-12-24-想买个服务器，各位大佬有什么推荐嘛](https://www.v2ex.com/t/824297) 
 - [【V2EX】2021-12-24-steam-现在登录收不到验证码](https://www.v2ex.com/t/824295) 
-- [【V2EX】2021-12-24-通过这段-Golang-代码,有点疑问](https://www.v2ex.com/t/824293) 
 - [【技术头条】2021-12-25-探索式测试的若干问题-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14862&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fexploratory-testing-things%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2021-12-25-谷歌-Android-12-Go-正式发布！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14861&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FfoPxB8GEHsK4INCPCQ0ryw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2021-12-25-69道HTML面试知识点总结-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14860&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247492752%26amp%3Bidx%3D2%26amp%3Bsn%3D48782b524d8880f90aa2e55cb7ed52ce%26amp%3Bchksm%3Dfa3f05cbcd488cddc21b53531a0df99cf4bc53d737d76fc6ecc722e34e407afdf10810c3961a%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -218,17 +217,17 @@
 - [【技术头条】2021-12-25-Java开发者最值得学习的14项技能-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14843&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247492682%26amp%3Bidx%3D2%26amp%3Bsn%3D045b1cf2359e675669f3bd8252b7d486%26amp%3Bchksm%3Dfa3f0511cd488c07b9dfe747fb8884734eaec1f357e3b59b41c6f71d185b1ccd44935d745f85%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【开发者头条】2021-12-25-2021年10大流行软件测试工具](https://toutiao.io/k/4244y8x) 
 - [【开发者头条】2021-12-25-Enrich-Processor——Elasticsearch-跨索引关联数据新方式](https://toutiao.io/k/igeh9aw) 
+- [【开发者头条】2021-12-25-插件式可扩展架构设计心得](https://toutiao.io/k/w43usss) 
 - [【开发者头条】2021-12-25-「GoCN酷Go推荐」Golang轻量级桌面程序wails2教学](https://toutiao.io/k/rsx38ld) 
 - [【开发者头条】2021-12-25-周路：为什么是ClickHouse？eBay广告数据平台架构实践！](https://toutiao.io/k/k8jn4am) 
-- [【开发者头条】2021-12-25-插件式可扩展架构设计心得](https://toutiao.io/k/w43usss) 
-- [【开发者头条】2021-12-25-推荐-​Golang-并发编程指南](https://toutiao.io/k/adoo89l) 
-- [【开发者头条】2021-12-25-推荐-Intellij-IDEA-神级插件！效率提升-10-倍！](https://toutiao.io/k/4iqf0c2) 
-- [【开发者头条】2021-12-25-推荐-这些年我用过的API文档工具，个个是精品！](https://toutiao.io/k/xt41e64) 
-- [【开发者头条】2021-12-25-推荐-vivo-敏感词匹配系统的设计与实践](https://toutiao.io/k/hrnq79a) 
+- [【开发者头条】2021-12-25-推荐-熬夜彻底搞懂Cookie-Session-Token-JWT](https://toutiao.io/k/g49lsl5) 
 - [【开发者头条】2021-12-25-推荐-聊聊-sql-优化的-15-个小技巧](https://toutiao.io/k/a94tblq) 
 - [【开发者头条】2021-12-25-推荐-深入剖析全链路灰度技术内幕](https://toutiao.io/k/zimpz4c) 
-- [【开发者头条】2021-12-25-推荐-熬夜彻底搞懂Cookie-Session-Token-JWT](https://toutiao.io/k/g49lsl5) 
+- [【开发者头条】2021-12-25-推荐-这些年我用过的API文档工具，个个是精品！](https://toutiao.io/k/xt41e64) 
+- [【开发者头条】2021-12-25-推荐-vivo-敏感词匹配系统的设计与实践](https://toutiao.io/k/hrnq79a) 
+- [【开发者头条】2021-12-25-推荐-Intellij-IDEA-神级插件！效率提升-10-倍！](https://toutiao.io/k/4iqf0c2) 
 - [【开发者头条】2021-12-25-推荐-一个技术团队leader的搭建私有知识库避坑经验分享](https://toutiao.io/k/o3dptn4) 
+- [【开发者头条】2021-12-25-推荐-​Golang-并发编程指南](https://toutiao.io/k/adoo89l) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

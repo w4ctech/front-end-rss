@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-12-25 05:40:38。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-12-25 05:54:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1509,6 +1509,7 @@
 - [2021-12-24-科技爱好者周刊（第-189-期）：下一个内卷的行业](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-189.html) 
 - [2021-12-17-科技爱好者周刊（第-188-期）：音乐是反社交](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-188.html) 
 - [2021-12-10-科技爱好者周刊（第-187-期）：元宇宙会成功吗](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-187.html) 
+- [2021-12-25-请教大家，在深圳想养一只猫？什么渠道购买呢？买什么品种呢？](https://www.v2ex.com/t/824383) 
 - [2021-12-25-求助一个关于-emby-的问题](https://www.v2ex.com/t/824382) 
 - [2021-12-25-感觉大多数观众都没看懂-matrix4-啊](https://www.v2ex.com/t/824379) 
 - [2021-12-25-小公司技术面很敷衍当场-hr-就要人，这种坑有多大？](https://www.v2ex.com/t/824378) 
@@ -1538,7 +1539,6 @@
 - [2021-12-24-公司内部有机会外派到海外的分公司，犹豫不决，有老哥在欧洲那边工作吗？](https://www.v2ex.com/t/824336) 
 - [2021-12-24-领导出了个题目，有何深意？](https://www.v2ex.com/t/824335) 
 - [2021-12-24-Python-正在弃用-distutils.cfg](https://www.v2ex.com/t/824334) 
-- [2021-12-24-动森好友](https://www.v2ex.com/t/824333) 
 - [2021-12-25-探索式测试的若干问题-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14862&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fexploratory-testing-things%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2021-12-25-谷歌-Android-12-Go-正式发布！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14861&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FfoPxB8GEHsK4INCPCQ0ryw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2021-12-25-高级程序员进化史-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14859&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247492747%26amp%3Bidx%3D1%26amp%3Bsn%3D757f40800aa8fdcd3d0667f2faa7dc2d%26amp%3Bchksm%3Dfa3f05d0cd488cc651543991fb50f36dce656fde866f42cca58985306c331e939e90d7bc1e63%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1561,9 +1561,9 @@
 - [2021-12-25-「GoCN酷Go推荐」Golang轻量级桌面程序wails2教学](https://toutiao.io/k/rsx38ld) 
 - [2021-12-25-周路：为什么是ClickHouse？eBay广告数据平台架构实践！](https://toutiao.io/k/k8jn4am) 
 - [2021-12-25-这些开源项目-yyds](https://toutiao.io/k/y4paip4) 
-- [2021-12-25-推荐-​Golang-并发编程指南](https://toutiao.io/k/adoo89l) 
-- [2021-12-25-推荐-深入剖析全链路灰度技术内幕](https://toutiao.io/k/zimpz4c) 
-- [2021-12-25-推荐-这些年我用过的API文档工具，个个是精品！](https://toutiao.io/k/xt41e64) 
 - [2021-12-25-推荐-Intellij-IDEA-神级插件！效率提升-10-倍！](https://toutiao.io/k/4iqf0c2) 
 - [2021-12-25-推荐-vivo-敏感词匹配系统的设计与实践](https://toutiao.io/k/hrnq79a) 
+- [2021-12-25-推荐-深入剖析全链路灰度技术内幕](https://toutiao.io/k/zimpz4c) 
+- [2021-12-25-推荐-这些年我用过的API文档工具，个个是精品！](https://toutiao.io/k/xt41e64) 
+- [2021-12-25-推荐-​Golang-并发编程指南](https://toutiao.io/k/adoo89l) 
 - [2021-12-25-推荐-一个技术团队leader的搭建私有知识库避坑经验分享](https://toutiao.io/k/o3dptn4) 

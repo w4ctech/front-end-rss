@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-12-28 09:13:05，:rocket: 更新条数: +13， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-12-28 09:22:40，:rocket: 更新条数: +13， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -296,7 +296,7 @@
 </summary>
 
 
-- [2021-12-20-深入JS-getRandomValue和Math.random方法](https://www.zhangxinxu.com/wordpress/2021/12/js-getrandomvalue-math-random/) ![](assets/new.png)  
+- [2021-12-20-深入JS-getRandomValues和Math.random方法](https://www.zhangxinxu.com/wordpress/2021/12/js-getrandomvalue-math-random/) ![](assets/new.png)  
 - [2021-12-13-你不知道的CSS-media查询与用户体验](https://www.zhangxinxu.com/wordpress/2021/12/css-meida-user-experience/) ![](assets/new.png)  
 - [2021-12-08-flex-end为什么overflow无法滚动及解决方法](https://www.zhangxinxu.com/wordpress/2021/12/flex-end-overflow/) ![](assets/new.png)  
 - [2021-11-23-从js-visibilitychange-Safari下无效说开去](https://www.zhangxinxu.com/wordpress/2021/11/js-visibilitychange-pagehide-lifecycle/) ![](assets/new.png)  

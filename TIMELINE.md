@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-12-28 09:13:05。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2021-12-28 09:22:40。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -32,7 +32,7 @@
 </summary>
 
 
-- [【张鑫旭-鑫空间-鑫生活】2021-12-20-深入JS-getRandomValue和Math.random方法](https://www.zhangxinxu.com/wordpress/2021/12/js-getrandomvalue-math-random/) 
+- [【张鑫旭-鑫空间-鑫生活】2021-12-20-深入JS-getRandomValues和Math.random方法](https://www.zhangxinxu.com/wordpress/2021/12/js-getrandomvalue-math-random/) 
 - [【张鑫旭-鑫空间-鑫生活】2021-12-13-你不知道的CSS-media查询与用户体验](https://www.zhangxinxu.com/wordpress/2021/12/css-meida-user-experience/) 
 - [【张鑫旭-鑫空间-鑫生活】2021-12-08-flex-end为什么overflow无法滚动及解决方法](https://www.zhangxinxu.com/wordpress/2021/12/flex-end-overflow/) 
 - [【阮一峰的网络日志】2021-12-24-科技爱好者周刊（第-189-期）：下一个内卷的行业](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-189.html) 

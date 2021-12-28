@@ -131,7 +131,7 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
-        "title": "深入JS getRandomValue和Math.random方法",
+        "title": "深入JS getRandomValues和Math.random方法",
         "link": "https://www.zhangxinxu.com/wordpress/2021/12/js-getrandomvalue-math-random/",
         "date": "2021-12-20"
       },

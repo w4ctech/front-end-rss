@@ -131,6 +131,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "JS 标签模板（Tagged templates）什么时候使用？",
+        "link": "https://www.zhangxinxu.com/wordpress/2021/12/js-tagged-templates/",
+        "date": "2021-12-29"
+      },
+      {
         "title": "深入JS getRandomValues和Math.random方法",
         "link": "https://www.zhangxinxu.com/wordpress/2021/12/js-getrandomvalue-math-random/",
         "date": "2021-12-20"
@@ -174,11 +179,6 @@
         "title": "CSS content新的替换元素规范行为解读",
         "link": "https://www.zhangxinxu.com/wordpress/2021/10/css-content-url/",
         "date": "2021-10-08"
-      },
-      {
-        "title": "兼容IE浏览器的图片局部高斯模糊实现",
-        "link": "https://www.zhangxinxu.com/wordpress/2021/09/ie-image-local-filter-blur/",
-        "date": "2021-09-30"
       }
     ]
   },

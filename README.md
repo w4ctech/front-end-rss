@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-01 08:26:53，:rocket: 更新条数: +1646， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-01 08:45:10，:rocket: 更新条数: +1647， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -65,12 +65,13 @@
 </summary>
 
 
-- [2022-01-01-12月31日全国新增新冠231例-本土陕西174例贵州1例](https://m.caixin.com/m/2022-01-01/101824892.html) ![](assets/new.png)  
+- [2022-01-01-最新疫情：全国新冠累计确诊102314例-累计接种新冠疫苗超28.35亿剂次](https://m.caixin.com/m/2022-01-01/101825011.html) ![](assets/new.png)  
+- [2022-01-01-最新海外疫情：新冠感染超2.87亿-累计接种新冠疫苗超91.17亿剂次](https://m.caixin.com/m/2022-01-01/101825017.html) ![](assets/new.png)  
+- [2022-01-01-【境内疫情观察】陕西新增174例本土病例（12月31日）](https://database.caixin.com/m/2022-01-01/101825023.html) ![](assets/new.png)  
 - [2022-01-01-英国重启临时医院，多国医疗系统承压｜大流行手记（12月31日）](https://m.caixin.com/m/2022-01-01/101824902.html) ![](assets/new.png)  
 - [2021-12-31-西安累计确诊1277例再启新一轮检测-浙江全域降为低风险](https://m.caixin.com/m/2021-12-31/101824743.html) ![](assets/new.png)  
 - [2021-12-31-河南洛阳一家4口新冠阳性-一人从成都返洛](https://m.caixin.com/m/2021-12-31/101824722.html) ![](assets/new.png)  
 - [2021-12-31-香港出现Omicron社区传播-与内地通关或再推迟](https://m.caixin.com/m/2021-12-31/101824699.html) ![](assets/new.png)  
-- [2021-12-31-最新海外疫情：新冠感染超2.85亿-累计接种新冠疫苗超90.79亿剂次](https://m.caixin.com/m/2021-12-31/101824672.html) ![](assets/new.png)  
 - [2021-12-31-【境内疫情观察】陕西新增165例本土病例（12月30日）](https://database.caixin.com/m/2021-12-31/101824514.html) ![](assets/new.png)  
 - [2021-12-31-美住院儿童因Omicron激增-葡萄牙隔离减至7天｜大流行手记（12月30日）](https://m.caixin.com/m/2021-12-31/101824366.html) ![](assets/new.png)  
 - [2021-12-31-港大研发新疫苗方案-可防新冠鼻腔感染](https://m.caixin.com/m/2021-12-31/101824312.html) ![](assets/new.png)  
@@ -84,7 +85,6 @@
 - [2021-12-28-西安疫情源头传播链未明-机场空调是否是突破口？](https://companies.caixin.com/m/2021-12-28/101823293.html) ![](assets/new.png)  
 - [2021-12-28-西安单日确诊达175例，核酸检测频次加大](https://m.caixin.com/m/2021-12-28/101823233.html) ![](assets/new.png)  
 - [2021-12-28-【境内疫情观察】陕西新增180例本土病例（12月27日）](https://database.caixin.com/m/2021-12-28/101823036.html) ![](assets/new.png)  
-- [2021-12-28-美取消上千航班-澳录得首例Omicron死亡病例｜大流行手记（12月27日）](https://m.caixin.com/m/2021-12-28/101822933.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -563,19 +563,19 @@
 - [2022-01-01-Golang-数组的一些自问自答](https://toutiao.io/k/1ok5tlg) ![](assets/new.png)  
 - [2022-01-01-一些著名的软件都用什么语言编写？](https://toutiao.io/k/56kv63d) ![](assets/new.png)  
 - [2022-01-01-系统跨年的那些事儿](https://toutiao.io/k/nnywypk) ![](assets/new.png)  
-- [2022-01-01-从实现原理看低代码](https://toutiao.io/k/fcdrsso) ![](assets/new.png)  
 - [2022-01-01-C++反射TS初探](https://toutiao.io/k/ghxhdwd) ![](assets/new.png)  
-- [2022-01-01-推荐-登录态-&-SSO](https://toutiao.io/k/vjcw3vh) ![](assets/new.png)  
-- [2022-01-01-推荐-插件式可扩展架构设计心得](https://toutiao.io/k/w43usss) ![](assets/new.png)  
+- [2022-01-01-从实现原理看低代码](https://toutiao.io/k/fcdrsso) ![](assets/new.png)  
 - [2022-01-01-推荐-熬夜彻底搞懂Cookie-Session-Token-JWT](https://toutiao.io/k/g49lsl5) ![](assets/new.png)  
-- [2022-01-01-推荐-我做系统架构的一些原则](https://toutiao.io/k/vlt0zc9) ![](assets/new.png)  
-- [2022-01-01-推荐-再见-Typora！推荐一个-2.3-万-Star-的开源-Markdown-编辑器](https://toutiao.io/k/ol8ule0) ![](assets/new.png)  
-- [2022-01-01-推荐-白话linux操作系统原理](https://toutiao.io/k/zgc47l7) ![](assets/new.png)  
-- [2022-01-01-推荐-聊聊-sql-优化的-15-个小技巧](https://toutiao.io/k/a94tblq) ![](assets/new.png)  
-- [2022-01-01-推荐-小心陷入-MySQL-索引的坑](https://toutiao.io/k/gucqkq4) ![](assets/new.png)  
 - [2022-01-01-推荐-从0开始设计Twitter系统架构](https://toutiao.io/k/3fie9ar) ![](assets/new.png)  
-- [2022-01-01-推荐-WhatsApp系统架构](https://toutiao.io/k/7dt7oe2) ![](assets/new.png)  
+- [2022-01-01-推荐-分布式链路追踪在字节跳动的实践](https://toutiao.io/k/hkc5fd7) ![](assets/new.png)  
+- [2022-01-01-推荐-聊聊-sql-优化的-15-个小技巧](https://toutiao.io/k/a94tblq) ![](assets/new.png)  
+- [2022-01-01-推荐-​Golang-并发编程指南](https://toutiao.io/k/adoo89l) ![](assets/new.png)  
+- [2022-01-01-推荐-再见-Typora！推荐一个-2.3-万-Star-的开源-Markdown-编辑器](https://toutiao.io/k/ol8ule0) ![](assets/new.png)  
+- [2022-01-01-推荐-小心陷入-MySQL-索引的坑](https://toutiao.io/k/gucqkq4) ![](assets/new.png)  
 - [2022-01-01-推荐-快速找出redis大key删除](https://toutiao.io/k/yncwv3k) ![](assets/new.png)  
+- [2022-01-01-推荐-我做系统架构的一些原则](https://toutiao.io/k/vlt0zc9) ![](assets/new.png)  
+- [2022-01-01-推荐-WhatsApp系统架构](https://toutiao.io/k/7dt7oe2) ![](assets/new.png)  
+- [2022-01-01-推荐-白话linux操作系统原理](https://toutiao.io/k/zgc47l7) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

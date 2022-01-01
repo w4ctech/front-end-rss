@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-01 06:14:44，:rocket: 更新条数: +1644， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-01 06:26:53，:rocket: 更新条数: +1645， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,8 @@
 </summary>
 
 
+- [2022-01-01-打开茅台京东的自营店我惊了](https://www.v2ex.com/t/825655) ![](assets/new.png)  
+- [2022-01-01-新的一年了，没啥牛逼的，就送大家一个刚找到的番茄钟视频吧，愿你能静下心来专注做自己想做的事情。](https://www.v2ex.com/t/825654) ![](assets/new.png)  
 - [2022-01-01-已开源-Flutter-穿山甲广告插件的集成-FlutterAds](https://www.v2ex.com/t/825652) ![](assets/new.png)  
 - [2022-01-01-刚刚接到一个派出所的反诈骗电话](https://www.v2ex.com/t/825651) ![](assets/new.png)  
 - [2022-01-01-元旦记录](https://www.v2ex.com/t/825650) ![](assets/new.png)  
@@ -512,8 +514,6 @@
 - [2022-01-01-原装-C2L-线和紫米的区别，新款-MBP-无法识别后者](https://www.v2ex.com/t/825629) ![](assets/new.png)  
 - [2022-01-01-以-OKR-的形式来回顾我的-2021](https://www.v2ex.com/t/825628) ![](assets/new.png)  
 - [2022-01-01-2021-年我的总结](https://www.v2ex.com/t/825627) ![](assets/new.png)  
-- [2022-01-01-EmacsTalk-2021-年终回顾](https://www.v2ex.com/t/825626) ![](assets/new.png)  
-- [2022-01-01-新手用旧笔记本-Thinkpad-L421-装-debian11-桌面选默认的-GNOME,就变成下载文件-1465-个还剩-6-个小时](https://www.v2ex.com/t/825625) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -565,17 +565,17 @@
 - [2022-01-01-系统跨年的那些事儿](https://toutiao.io/k/nnywypk) ![](assets/new.png)  
 - [2022-01-01-从实现原理看低代码](https://toutiao.io/k/fcdrsso) ![](assets/new.png)  
 - [2022-01-01-C++反射TS初探](https://toutiao.io/k/ghxhdwd) ![](assets/new.png)  
-- [2022-01-01-推荐-快速找出redis大key删除](https://toutiao.io/k/yncwv3k) ![](assets/new.png)  
-- [2022-01-01-推荐-熬夜彻底搞懂Cookie-Session-Token-JWT](https://toutiao.io/k/g49lsl5) ![](assets/new.png)  
-- [2022-01-01-推荐-聊聊-sql-优化的-15-个小技巧](https://toutiao.io/k/a94tblq) ![](assets/new.png)  
-- [2022-01-01-推荐-我做系统架构的一些原则](https://toutiao.io/k/vlt0zc9) ![](assets/new.png)  
-- [2022-01-01-推荐-小心陷入-MySQL-索引的坑](https://toutiao.io/k/gucqkq4) ![](assets/new.png)  
-- [2022-01-01-推荐-登录态-&-SSO](https://toutiao.io/k/vjcw3vh) ![](assets/new.png)  
-- [2022-01-01-推荐-分布式链路追踪在字节跳动的实践](https://toutiao.io/k/hkc5fd7) ![](assets/new.png)  
-- [2022-01-01-推荐-​Golang-并发编程指南](https://toutiao.io/k/adoo89l) ![](assets/new.png)  
-- [2022-01-01-推荐-插件式可扩展架构设计心得](https://toutiao.io/k/w43usss) ![](assets/new.png)  
 - [2022-01-01-推荐-再见-Typora！推荐一个-2.3-万-Star-的开源-Markdown-编辑器](https://toutiao.io/k/ol8ule0) ![](assets/new.png)  
+- [2022-01-01-推荐-登录态-&-SSO](https://toutiao.io/k/vjcw3vh) ![](assets/new.png)  
+- [2022-01-01-推荐-WhatsApp系统架构](https://toutiao.io/k/7dt7oe2) ![](assets/new.png)  
 - [2022-01-01-推荐-从0开始设计Twitter系统架构](https://toutiao.io/k/3fie9ar) ![](assets/new.png)  
+- [2022-01-01-推荐-聊聊-sql-优化的-15-个小技巧](https://toutiao.io/k/a94tblq) ![](assets/new.png)  
+- [2022-01-01-推荐-分布式链路追踪在字节跳动的实践](https://toutiao.io/k/hkc5fd7) ![](assets/new.png)  
+- [2022-01-01-推荐-熬夜彻底搞懂Cookie-Session-Token-JWT](https://toutiao.io/k/g49lsl5) ![](assets/new.png)  
+- [2022-01-01-推荐-​Golang-并发编程指南](https://toutiao.io/k/adoo89l) ![](assets/new.png)  
+- [2022-01-01-推荐-我做系统架构的一些原则](https://toutiao.io/k/vlt0zc9) ![](assets/new.png)  
+- [2022-01-01-推荐-白话linux操作系统原理](https://toutiao.io/k/zgc47l7) ![](assets/new.png)  
+- [2022-01-01-推荐-插件式可扩展架构设计心得](https://toutiao.io/k/w43usss) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

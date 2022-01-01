@@ -8059,6 +8059,26 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "程序员的未来",
+        "link": "https://www.v2ex.com/t/825675",
+        "date": "2022-01-01"
+      },
+      {
+        "title": "开发者自动化工具的想法和咨询",
+        "link": "https://www.v2ex.com/t/825674",
+        "date": "2022-01-01"
+      },
+      {
+        "title": "vue 如何让所有资源打包到一个文件呢",
+        "link": "https://www.v2ex.com/t/825673",
+        "date": "2022-01-01"
+      },
+      {
+        "title": "都 2022 年了， Android 程序员的路在何方",
+        "link": "https://www.v2ex.com/t/825672",
+        "date": "2022-01-01"
+      },
+      {
         "title": "怎么通过 VS2019 看 strlen()的源码？",
         "link": "https://www.v2ex.com/t/825671",
         "date": "2022-01-01"
@@ -8222,21 +8242,6 @@
         "title": "EmacsTalk 2021 年终回顾",
         "link": "https://www.v2ex.com/t/825626",
         "date": "2022-01-01"
-      },
-      {
-        "title": "新手用旧笔记本 Thinkpad L421 装 debian11 桌面选默认的 GNOME,就变成下载文件 1465 个还剩 6 个小时",
-        "link": "https://www.v2ex.com/t/825625",
-        "date": "2022-01-01"
-      },
-      {
-        "title": "赴女多男少的饭局，需要注意什么",
-        "link": "https://www.v2ex.com/t/825624",
-        "date": "2022-01-01"
-      },
-      {
-        "title": "公司电脑可以用来开发,部署 ios 应用吗",
-        "link": "https://www.v2ex.com/t/825622",
-        "date": "2022-01-01"
       }
     ]
   },
@@ -8398,33 +8403,13 @@
         "date": "2022-01-01"
       },
       {
-        "title": "[推荐] WhatsApp系统架构",
-        "link": "https://toutiao.io/k/7dt7oe2",
-        "date": "2022-01-01"
-      },
-      {
-        "title": "[推荐] 小心陷入 MySQL 索引的坑",
-        "link": "https://toutiao.io/k/gucqkq4",
-        "date": "2022-01-01"
-      },
-      {
-        "title": "[推荐] 我做系统架构的一些原则",
-        "link": "https://toutiao.io/k/vlt0zc9",
-        "date": "2022-01-01"
-      },
-      {
-        "title": "[推荐] 插件式可扩展架构设计心得",
-        "link": "https://toutiao.io/k/w43usss",
-        "date": "2022-01-01"
-      },
-      {
-        "title": "[推荐] 从0开始设计Twitter系统架构",
-        "link": "https://toutiao.io/k/3fie9ar",
-        "date": "2022-01-01"
-      },
-      {
         "title": "[推荐] 聊聊 sql 优化的 15 个小技巧",
         "link": "https://toutiao.io/k/a94tblq",
+        "date": "2022-01-01"
+      },
+      {
+        "title": "[推荐] 再见 Typora！推荐一个 2.3 万 Star 的开源 Markdown 编辑器",
+        "link": "https://toutiao.io/k/ol8ule0",
         "date": "2022-01-01"
       },
       {
@@ -8438,6 +8423,31 @@
         "date": "2022-01-01"
       },
       {
+        "title": "[推荐] 我做系统架构的一些原则",
+        "link": "https://toutiao.io/k/vlt0zc9",
+        "date": "2022-01-01"
+      },
+      {
+        "title": "[推荐] 插件式可扩展架构设计心得",
+        "link": "https://toutiao.io/k/w43usss",
+        "date": "2022-01-01"
+      },
+      {
+        "title": "[推荐] 快速找出redis大key删除",
+        "link": "https://toutiao.io/k/yncwv3k",
+        "date": "2022-01-01"
+      },
+      {
+        "title": "[推荐] WhatsApp系统架构",
+        "link": "https://toutiao.io/k/7dt7oe2",
+        "date": "2022-01-01"
+      },
+      {
+        "title": "[推荐] 从0开始设计Twitter系统架构",
+        "link": "https://toutiao.io/k/3fie9ar",
+        "date": "2022-01-01"
+      },
+      {
         "title": "[推荐] ​Golang 并发编程指南",
         "link": "https://toutiao.io/k/adoo89l",
         "date": "2022-01-01"
@@ -8448,18 +8458,13 @@
         "date": "2022-01-01"
       },
       {
-        "title": "[推荐] 再见 Typora！推荐一个 2.3 万 Star 的开源 Markdown 编辑器",
-        "link": "https://toutiao.io/k/ol8ule0",
+        "title": "[推荐] 小心陷入 MySQL 索引的坑",
+        "link": "https://toutiao.io/k/gucqkq4",
         "date": "2022-01-01"
       },
       {
         "title": "[推荐] 登录态 & SSO",
         "link": "https://toutiao.io/k/vjcw3vh",
-        "date": "2022-01-01"
-      },
-      {
-        "title": "[推荐] 快速找出redis大key删除",
-        "link": "https://toutiao.io/k/yncwv3k",
         "date": "2022-01-01"
       }
     ]

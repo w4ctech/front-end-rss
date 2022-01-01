@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2022-01-01 13:21:07。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-01-01 13:36:06。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-01-01-mac-telegram-无法登录-手机端收不到-code,扫码没反应-](https://www.v2ex.com/t/825697) 
+- [2022-01-01-相同分辨率,-不同尺寸的安卓手机,-如何适配另一部使其图像完全一致?](https://www.v2ex.com/t/825696) 
 - [2022-01-01-AppleTV+的需求是不是比较少啊](https://www.v2ex.com/t/825695) 
 - [2022-01-01-mac-连接服务器被拒，-Permission-denied-publickey,gssapi-keyex,gssapi-with-mic,password.](https://www.v2ex.com/t/825694) 
 - [2022-01-01-又到立-flag-的时候了，-2022-来也。。。](https://www.v2ex.com/t/825693) 

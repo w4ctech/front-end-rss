@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-01 02:17:22，:rocket: 更新条数: +1645， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-01 02:57:36，:rocket: 更新条数: +1646， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,9 @@
 </summary>
 
 
+- [2022-01-01-Linux-下有什么杀毒软件?](https://www.v2ex.com/t/825630) ![](assets/new.png)  
+- [2022-01-01-原装-C2L-线和紫米的区别，新款-MBP-无法识别后者](https://www.v2ex.com/t/825629) ![](assets/new.png)  
+- [2022-01-01-以-OKR-的形式来回顾我的-2021](https://www.v2ex.com/t/825628) ![](assets/new.png)  
 - [2022-01-01-2021-年我的总结](https://www.v2ex.com/t/825627) ![](assets/new.png)  
 - [2022-01-01-EmacsTalk-2021-年终回顾](https://www.v2ex.com/t/825626) ![](assets/new.png)  
 - [2022-01-01-新手用旧笔记本-Thinkpad-L421-装-debian11-桌面选默认的-GNOME,就变成下载文件-1465-个还剩-6-个小时](https://www.v2ex.com/t/825625) ![](assets/new.png)  
@@ -511,9 +514,6 @@
 - [2021-12-31-看了-b-站的跨年晚会，对杜比全景声比较好奇](https://www.v2ex.com/t/825611) ![](assets/new.png)  
 - [2021-12-31-一个关于二级代理的问题](https://www.v2ex.com/t/825610) ![](assets/new.png)  
 - [2021-12-31-联通-广东出口炸了？](https://www.v2ex.com/t/825609) ![](assets/new.png)  
-- [2021-12-31-新年好！](https://www.v2ex.com/t/825606) ![](assets/new.png)  
-- [2021-12-31-新年快乐，-2022-年啦](https://www.v2ex.com/t/825605) ![](assets/new.png)  
-- [2021-12-31-你们-iOS15-出现了无法加入网络的情况么？](https://www.v2ex.com/t/825601) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -559,22 +559,22 @@
 - [2022-01-01-优质网站同好者周刊（第-46-期）--倾城之链---悠然宜想亭](https://toutiao.io/k/0eyq3ze) ![](assets/new.png)  
 - [2022-01-01-DDD在有赞信贷核心系统中的实践](https://toutiao.io/k/12jrm2x) ![](assets/new.png)  
 - [2022-01-01-Elasticsearch-可搜索快照技术原理及最佳实践](https://toutiao.io/k/p31otct) ![](assets/new.png)  
-- [2022-01-01-Golang-数组的一些自问自答](https://toutiao.io/k/1ok5tlg) ![](assets/new.png)  
 - [2022-01-01-一些著名的软件都用什么语言编写？](https://toutiao.io/k/56kv63d) ![](assets/new.png)  
+- [2022-01-01-Golang-数组的一些自问自答](https://toutiao.io/k/1ok5tlg) ![](assets/new.png)  
 - [2022-01-01-字节大规模埋点实践治理](https://toutiao.io/k/bjuiyx8) ![](assets/new.png)  
-- [2022-01-01-推荐-分布式链路追踪在字节跳动的实践](https://toutiao.io/k/hkc5fd7) ![](assets/new.png)  
-- [2022-01-01-推荐-​Golang-并发编程指南](https://toutiao.io/k/adoo89l) ![](assets/new.png)  
+- [2022-01-01-推荐-登录态-&-SSO](https://toutiao.io/k/vjcw3vh) ![](assets/new.png)  
+- [2022-01-01-推荐-快速找出redis大key删除](https://toutiao.io/k/yncwv3k) ![](assets/new.png)  
 - [2022-01-01-推荐-熬夜彻底搞懂Cookie-Session-Token-JWT](https://toutiao.io/k/g49lsl5) ![](assets/new.png)  
 - [2022-01-01-推荐-插件式可扩展架构设计心得](https://toutiao.io/k/w43usss) ![](assets/new.png)  
-- [2022-01-01-推荐-登录态-&-SSO](https://toutiao.io/k/vjcw3vh) ![](assets/new.png)  
-- [2022-01-01-推荐-小心陷入-MySQL-索引的坑](https://toutiao.io/k/gucqkq4) ![](assets/new.png)  
-- [2022-01-01-推荐-快速找出redis大key删除](https://toutiao.io/k/yncwv3k) ![](assets/new.png)  
-- [2022-01-01-推荐-再见-Typora！推荐一个-2.3-万-Star-的开源-Markdown-编辑器](https://toutiao.io/k/ol8ule0) ![](assets/new.png)  
-- [2022-01-01-推荐-从0开始设计Twitter系统架构](https://toutiao.io/k/3fie9ar) ![](assets/new.png)  
-- [2022-01-01-推荐-WhatsApp系统架构](https://toutiao.io/k/7dt7oe2) ![](assets/new.png)  
-- [2022-01-01-推荐-我做系统架构的一些原则](https://toutiao.io/k/vlt0zc9) ![](assets/new.png)  
-- [2022-01-01-推荐-白话linux操作系统原理](https://toutiao.io/k/zgc47l7) ![](assets/new.png)  
 - [2022-01-01-推荐-聊聊-sql-优化的-15-个小技巧](https://toutiao.io/k/a94tblq) ![](assets/new.png)  
+- [2022-01-01-推荐-白话linux操作系统原理](https://toutiao.io/k/zgc47l7) ![](assets/new.png)  
+- [2022-01-01-推荐-再见-Typora！推荐一个-2.3-万-Star-的开源-Markdown-编辑器](https://toutiao.io/k/ol8ule0) ![](assets/new.png)  
+- [2022-01-01-推荐-分布式链路追踪在字节跳动的实践](https://toutiao.io/k/hkc5fd7) ![](assets/new.png)  
+- [2022-01-01-推荐-WhatsApp系统架构](https://toutiao.io/k/7dt7oe2) ![](assets/new.png)  
+- [2022-01-01-推荐-从0开始设计Twitter系统架构](https://toutiao.io/k/3fie9ar) ![](assets/new.png)  
+- [2022-01-01-推荐-小心陷入-MySQL-索引的坑](https://toutiao.io/k/gucqkq4) ![](assets/new.png)  
+- [2022-01-01-推荐-​Golang-并发编程指南](https://toutiao.io/k/adoo89l) ![](assets/new.png)  
+- [2022-01-01-推荐-我做系统架构的一些原则](https://toutiao.io/k/vlt0zc9) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

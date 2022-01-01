@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-01-01 14:20:26。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-01-01 14:37:41。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -183,7 +183,6 @@
 - [【张鑫旭-鑫空间-鑫生活】JS复制文字到剪切板的极简实现及扩展](https://www.zhangxinxu.com/wordpress/2021/10/js-copy-paste-clipboard/)
 - [【V2EX】相同分辨率,-不同尺寸的安卓手机,-如何适配另一部使其图像完全一致?](https://www.v2ex.com/t/825696)
 - [【V2EX】迫于低俗的广告-求款路由器](https://www.v2ex.com/t/825660)
-- [【V2EX】js-嵌套数组赋值问题](https://www.v2ex.com/t/825658)
 - [【开发者头条】Golang-数组的一些自问自答](https://toutiao.io/k/1ok5tlg)
 - [......【查看更多】......](./details/tags/javascript.md)
 

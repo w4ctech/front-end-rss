@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-01 05:41:01，:rocket: 更新条数: +1640， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-01 05:54:42，:rocket: 更新条数: +1640， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,7 @@
 </summary>
 
 
+- [2022-01-01-元旦记录](https://www.v2ex.com/t/825650) ![](assets/new.png)  
 - [2022-01-01-间歇性踌躇满志，持续性混吃等死](https://www.v2ex.com/t/825649) ![](assets/new.png)  
 - [2022-01-01-如何两个不同版本-VirtualBox-在-Windows10-共存？](https://www.v2ex.com/t/825645) ![](assets/new.png)  
 - [2022-01-01-现在还有啥测速比较好用的网站。。](https://www.v2ex.com/t/825644) ![](assets/new.png)  
@@ -513,7 +514,6 @@
 - [2022-01-01-新手用旧笔记本-Thinkpad-L421-装-debian11-桌面选默认的-GNOME,就变成下载文件-1465-个还剩-6-个小时](https://www.v2ex.com/t/825625) ![](assets/new.png)  
 - [2022-01-01-赴女多男少的饭局，需要注意什么](https://www.v2ex.com/t/825624) ![](assets/new.png)  
 - [2022-01-01-公司电脑可以用来开发,部署-ios-应用吗](https://www.v2ex.com/t/825622) ![](assets/new.png)  
-- [2022-01-01-今天有去公司加班的兄弟吗？](https://www.v2ex.com/t/825620) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -563,18 +563,18 @@
 - [2022-01-01-一些著名的软件都用什么语言编写？](https://toutiao.io/k/56kv63d) ![](assets/new.png)  
 - [2022-01-01-字节大规模埋点实践治理](https://toutiao.io/k/bjuiyx8) ![](assets/new.png)  
 - [2022-01-01-推荐-熬夜彻底搞懂Cookie-Session-Token-JWT](https://toutiao.io/k/g49lsl5) ![](assets/new.png)  
+- [2022-01-01-推荐-聊聊-sql-优化的-15-个小技巧](https://toutiao.io/k/a94tblq) ![](assets/new.png)  
 - [2022-01-01-推荐-分布式链路追踪在字节跳动的实践](https://toutiao.io/k/hkc5fd7) ![](assets/new.png)  
 - [2022-01-01-推荐-我做系统架构的一些原则](https://toutiao.io/k/vlt0zc9) ![](assets/new.png)  
 - [2022-01-01-推荐-WhatsApp系统架构](https://toutiao.io/k/7dt7oe2) ![](assets/new.png)  
-- [2022-01-01-推荐-小心陷入-MySQL-索引的坑](https://toutiao.io/k/gucqkq4) ![](assets/new.png)  
-- [2022-01-01-推荐-​Golang-并发编程指南](https://toutiao.io/k/adoo89l) ![](assets/new.png)  
-- [2022-01-01-推荐-登录态-&-SSO](https://toutiao.io/k/vjcw3vh) ![](assets/new.png)  
-- [2022-01-01-推荐-再见-Typora！推荐一个-2.3-万-Star-的开源-Markdown-编辑器](https://toutiao.io/k/ol8ule0) ![](assets/new.png)  
-- [2022-01-01-推荐-聊聊-sql-优化的-15-个小技巧](https://toutiao.io/k/a94tblq) ![](assets/new.png)  
-- [2022-01-01-推荐-白话linux操作系统原理](https://toutiao.io/k/zgc47l7) ![](assets/new.png)  
 - [2022-01-01-推荐-从0开始设计Twitter系统架构](https://toutiao.io/k/3fie9ar) ![](assets/new.png)  
 - [2022-01-01-推荐-插件式可扩展架构设计心得](https://toutiao.io/k/w43usss) ![](assets/new.png)  
+- [2022-01-01-推荐-再见-Typora！推荐一个-2.3-万-Star-的开源-Markdown-编辑器](https://toutiao.io/k/ol8ule0) ![](assets/new.png)  
+- [2022-01-01-推荐-白话linux操作系统原理](https://toutiao.io/k/zgc47l7) ![](assets/new.png)  
 - [2022-01-01-推荐-快速找出redis大key删除](https://toutiao.io/k/yncwv3k) ![](assets/new.png)  
+- [2022-01-01-推荐-小心陷入-MySQL-索引的坑](https://toutiao.io/k/gucqkq4) ![](assets/new.png)  
+- [2022-01-01-推荐-登录态-&-SSO](https://toutiao.io/k/vjcw3vh) ![](assets/new.png)  
+- [2022-01-01-推荐-​Golang-并发编程指南](https://toutiao.io/k/adoo89l) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-01 13:40:52，:rocket: 更新条数: +1647， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-01 13:54:53，:rocket: 更新条数: +1651， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,11 @@
 </summary>
 
 
+- [2022-01-01-Happy-2022，推广一下自己的开源作品（附带吐槽）（最准确的云服务测量/简单粗暴的版本管理/靠谱的道德经版本）](https://www.v2ex.com/t/825703) ![](assets/new.png)  
+- [2022-01-01-iPhone-港版该用哪个区的账号？](https://www.v2ex.com/t/825702) ![](assets/new.png)  
+- [2022-01-01-质保期内的硬盘有三个坏的扇区可以换不？](https://www.v2ex.com/t/825701) ![](assets/new.png)  
+- [2022-01-01-复式记账有-ios-app-推荐下吗？](https://www.v2ex.com/t/825700) ![](assets/new.png)  
+- [2022-01-01-如果用-Apple-Watch-接国行-Facetime，则会自动变成-Facetime-Audio](https://www.v2ex.com/t/825699) ![](assets/new.png)  
 - [2022-01-01-mac-telegram-无法登录-手机端收不到-code,扫码没反应-](https://www.v2ex.com/t/825697) ![](assets/new.png)  
 - [2022-01-01-相同分辨率,-不同尺寸的安卓手机,-如何适配另一部使其图像完全一致?](https://www.v2ex.com/t/825696) ![](assets/new.png)  
 - [2022-01-01-AppleTV+的需求是不是比较少啊](https://www.v2ex.com/t/825695) ![](assets/new.png)  
@@ -509,11 +514,6 @@
 - [2022-01-01-pycharm-现在哪个版本好用占用资源少,免费版的够用吗](https://www.v2ex.com/t/825682) ![](assets/new.png)  
 - [2022-01-01-B-站最美的夜中烟花弹幕效果是怎么实现的？](https://www.v2ex.com/t/825681) ![](assets/new.png)  
 - [2022-01-01-寻找开发技术合伙人。做的是人对人的关爱护理服务。](https://www.v2ex.com/t/825680) ![](assets/new.png)  
-- [2022-01-01-block-过于激烈？-red-过于刺眼？要不试试-tag？](https://www.v2ex.com/t/825679) ![](assets/new.png)  
-- [2022-01-01-第一次去女朋友家应该跟她父母聊些什么话题呢？](https://www.v2ex.com/t/825678) ![](assets/new.png)  
-- [2022-01-01-寻朝阳喜好羽毛球的小伙伴们](https://www.v2ex.com/t/825677) ![](assets/new.png)  
-- [2022-01-01-与桥接限速有关的迷思](https://www.v2ex.com/t/825676) ![](assets/new.png)  
-- [2022-01-01-程序员的未来](https://www.v2ex.com/t/825675) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -565,16 +565,16 @@
 - [2022-01-01-系统跨年的那些事儿](https://toutiao.io/k/nnywypk) ![](assets/new.png)  
 - [2022-01-01-从实现原理看低代码](https://toutiao.io/k/fcdrsso) ![](assets/new.png)  
 - [2022-01-01-C++反射TS初探](https://toutiao.io/k/ghxhdwd) ![](assets/new.png)  
-- [2022-01-01-推荐-我做系统架构的一些原则](https://toutiao.io/k/vlt0zc9) ![](assets/new.png)  
+- [2022-01-01-推荐-快速找出redis大key删除](https://toutiao.io/k/yncwv3k) ![](assets/new.png)  
+- [2022-01-01-推荐-插件式可扩展架构设计心得](https://toutiao.io/k/w43usss) ![](assets/new.png)  
+- [2022-01-01-推荐-分布式链路追踪在字节跳动的实践](https://toutiao.io/k/hkc5fd7) ![](assets/new.png)  
+- [2022-01-01-推荐-聊聊-sql-优化的-15-个小技巧](https://toutiao.io/k/a94tblq) ![](assets/new.png)  
+- [2022-01-01-推荐-再见-Typora！推荐一个-2.3-万-Star-的开源-Markdown-编辑器](https://toutiao.io/k/ol8ule0) ![](assets/new.png)  
+- [2022-01-01-推荐-WhatsApp系统架构](https://toutiao.io/k/7dt7oe2) ![](assets/new.png)  
 - [2022-01-01-推荐-熬夜彻底搞懂Cookie-Session-Token-JWT](https://toutiao.io/k/g49lsl5) ![](assets/new.png)  
 - [2022-01-01-推荐-登录态-&-SSO](https://toutiao.io/k/vjcw3vh) ![](assets/new.png)  
-- [2022-01-01-推荐-快速找出redis大key删除](https://toutiao.io/k/yncwv3k) ![](assets/new.png)  
-- [2022-01-01-推荐-再见-Typora！推荐一个-2.3-万-Star-的开源-Markdown-编辑器](https://toutiao.io/k/ol8ule0) ![](assets/new.png)  
-- [2022-01-01-推荐-插件式可扩展架构设计心得](https://toutiao.io/k/w43usss) ![](assets/new.png)  
-- [2022-01-01-推荐-​Golang-并发编程指南](https://toutiao.io/k/adoo89l) ![](assets/new.png)  
 - [2022-01-01-推荐-白话linux操作系统原理](https://toutiao.io/k/zgc47l7) ![](assets/new.png)  
-- [2022-01-01-推荐-分布式链路追踪在字节跳动的实践](https://toutiao.io/k/hkc5fd7) ![](assets/new.png)  
-- [2022-01-01-推荐-WhatsApp系统架构](https://toutiao.io/k/7dt7oe2) ![](assets/new.png)  
+- [2022-01-01-推荐-我做系统架构的一些原则](https://toutiao.io/k/vlt0zc9) ![](assets/new.png)  
 - [2022-01-01-推荐-从0开始设计Twitter系统架构](https://toutiao.io/k/3fie9ar) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

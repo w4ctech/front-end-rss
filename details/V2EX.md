@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2022-01-02 02:05:47。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-01-02 02:19:06。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-01-02-22-年想买车了,-是买混动还是纯电](https://www.v2ex.com/t/825745) 
 - [2022-01-02-问一个数字遗产相关的问题](https://www.v2ex.com/t/825743) 
 - [2022-01-02-工科硕士毕设，教育部盲审一般什么要求呀，工作量、创新点这些，希望有了解的大佬可以解答一下](https://www.v2ex.com/t/825742) 
 - [2022-01-02-istat-menu-发车](https://www.v2ex.com/t/825741) 
@@ -44,4 +45,3 @@
 - [2022-01-01-如果用-Apple-Watch-接国行-Facetime，则会自动变成-Facetime-Audio](https://www.v2ex.com/t/825699) 
 - [2022-01-01-mac-telegram-无法登录-手机端收不到-code,扫码没反应-](https://www.v2ex.com/t/825697) 
 - [2022-01-01-相同分辨率,-不同尺寸的安卓手机,-如何适配另一部使其图像完全一致?](https://www.v2ex.com/t/825696) 
-- [2022-01-01-AppleTV+的需求是不是比较少啊](https://www.v2ex.com/t/825695) 

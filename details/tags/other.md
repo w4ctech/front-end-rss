@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2022-01-02 10:13:14。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-01-02 10:24:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
 
 
 
+- [2022-01-02-最新疫情：全国新冠累计确诊102505例-累计接种新冠疫苗超28.41亿剂次](https://m.caixin.com/m/2022-01-02/101825212.html) 
+- [2022-01-02-最新海外疫情：新冠感染超2.88亿-累计接种新冠疫苗超91.51亿剂次](https://m.caixin.com/m/2022-01-02/101825209.html) 
 - [2022-01-02-【境内疫情观察】全国新增131例本土病例（1月1日）](https://database.caixin.com/m/2022-01-02/101825198.html) 
 - [2022-01-02-南非Omicron浪潮或已见顶-印度担忧第三波疫情丨大流行手记（1月1日）](https://m.caixin.com/m/2022-01-02/101825115.html) 
 - [2022-01-01-​宁波市新增1例确诊-北仑区全区封闭](https://m.caixin.com/m/2022-01-01/101825089.html) 
@@ -1596,14 +1598,14 @@
 - [2022-01-02-推荐-3-个-Python-时序分析神器！](https://toutiao.io/k/y18h18n) 
 - [2022-01-02-软链接&硬链接在前端中的应用](https://toutiao.io/k/5u2fiq6) 
 - [2022-01-02-数仓建模—宽表的设计](https://toutiao.io/k/7ounyz2) 
+- [2022-01-02-推荐-WhatsApp系统架构](https://toutiao.io/k/7dt7oe2) 
+- [2022-01-02-推荐-我做系统架构的一些原则](https://toutiao.io/k/vlt0zc9) 
 - [2022-01-02-推荐-分布式链路追踪在字节跳动的实践](https://toutiao.io/k/hkc5fd7) 
+- [2022-01-02-推荐-快速找出redis大key删除](https://toutiao.io/k/yncwv3k) 
 - [2022-01-02-推荐-插件式可扩展架构设计心得](https://toutiao.io/k/w43usss) 
+- [2022-01-02-推荐-从0开始设计Twitter系统架构](https://toutiao.io/k/3fie9ar) 
 - [2022-01-02-推荐-登录态-&-SSO](https://toutiao.io/k/vjcw3vh) 
 - [2022-01-02-推荐-小心陷入-MySQL-索引的坑](https://toutiao.io/k/gucqkq4) 
-- [2022-01-02-推荐-再见-Typora！推荐一个-2.3-万-Star-的开源-Markdown-编辑器](https://toutiao.io/k/ol8ule0) 
 - [2022-01-02-推荐-聊聊spring事务失效的12种场景，太坑了](https://toutiao.io/k/uf6yk96) 
-- [2022-01-02-推荐-快速找出redis大key删除](https://toutiao.io/k/yncwv3k) 
-- [2022-01-02-推荐-WhatsApp系统架构](https://toutiao.io/k/7dt7oe2) 
-- [2022-01-02-推荐-从0开始设计Twitter系统架构](https://toutiao.io/k/3fie9ar) 
+- [2022-01-02-推荐-再见-Typora！推荐一个-2.3-万-Star-的开源-Markdown-编辑器](https://toutiao.io/k/ol8ule0) 
 - [2022-01-02-推荐-白话linux操作系统原理](https://toutiao.io/k/zgc47l7) 
-- [2022-01-02-推荐-我做系统架构的一些原则](https://toutiao.io/k/vlt0zc9) 

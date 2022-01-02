@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2022-01-02 16:38:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-01-02 17:01:29。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-01-02-新冠病毒可不只是肺炎](https://www.v2ex.com/t/825858) 
 - [2022-01-02-Python--build-standalone-有用过的么,-看起来似乎就是我到处找的绿色版解释器](https://www.v2ex.com/t/825856) 
 - [2022-01-02-macOS-Monterey-里-Sidecar-设置似乎找不见了，现在开启-Sidecar-的方法异常玄幻。](https://www.v2ex.com/t/825854) 
 - [2022-01-02-Python3-中的-Listint-使用的是-typing-模块么？](https://www.v2ex.com/t/825852) 
@@ -38,4 +39,3 @@
 - [2022-01-02-metamask-小狐狸钱包中导入-BCH/LTC-的代号是什么？](https://www.v2ex.com/t/825811) 
 - [2022-01-02-5500-以内笔记本求推荐](https://www.v2ex.com/t/825810) 
 - [2022-01-02-关于组网架构拓扑图的绘制问题](https://www.v2ex.com/t/825809) 
-- [2022-01-02-docker-build-和-docker-run](https://www.v2ex.com/t/825808) 

@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2022-01-02 01:14:56。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-01-02 02:05:47。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-01-02-问一个数字遗产相关的问题](https://www.v2ex.com/t/825743) 
 - [2022-01-02-工科硕士毕设，教育部盲审一般什么要求呀，工作量、创新点这些，希望有了解的大佬可以解答一下](https://www.v2ex.com/t/825742) 
 - [2022-01-02-istat-menu-发车](https://www.v2ex.com/t/825741) 
 - [2022-01-01-如何检查-APNs-推送功能是否正常](https://www.v2ex.com/t/825738) 
@@ -12,7 +13,6 @@
 - [2022-01-01-好用的屏蔽国内-app-广告的圈-X-规则](https://www.v2ex.com/t/825736) 
 - [2022-01-01-关于使用-RemoteApp-运行-QQ-遇到的问题](https://www.v2ex.com/t/825735) 
 - [2022-01-01-为什么有些公司有些人非得用微信沟通工作？](https://www.v2ex.com/t/825734) 
-- [2022-01-01-求大侠支持一下，元旦激活-WeChat-就差最后一步…](https://www.v2ex.com/t/825733) 
 - [2022-01-01-苹果这是什么骚操作，自带的-curl-链接了一个不存在的-libcurl，但是却能正常运行？！](https://www.v2ex.com/t/825732) 
 - [2022-01-01-strcpy-中，遇到内存重叠，为什么结果是这样？](https://www.v2ex.com/t/825731) 
 - [2022-01-01-求推荐一个-SpringBoot-项目。](https://www.v2ex.com/t/825730) 
@@ -20,7 +20,6 @@
 - [2022-01-01-GPL-协议的疑惑？](https://www.v2ex.com/t/825728) 
 - [2022-01-01-2022-目睹之怪现状](https://www.v2ex.com/t/825727) 
 - [2022-01-01-求推荐-MBA-M1-用的-TimeMachine-硬盘及硬盘盒](https://www.v2ex.com/t/825726) 
-- [2022-01-01-收不到微信通知的试试关掉那啥……](https://www.v2ex.com/t/825725) 
 - [2022-01-01-为什么我的-useState-会无限循环](https://www.v2ex.com/t/825724) 
 - [2022-01-01-求推荐点-搞笑好玩-的-B-站-UP-主，好度过元旦](https://www.v2ex.com/t/825722) 
 - [2022-01-01-阿里小号疑似要涨价，快续费](https://www.v2ex.com/t/825721) 
@@ -46,5 +45,3 @@
 - [2022-01-01-mac-telegram-无法登录-手机端收不到-code,扫码没反应-](https://www.v2ex.com/t/825697) 
 - [2022-01-01-相同分辨率,-不同尺寸的安卓手机,-如何适配另一部使其图像完全一致?](https://www.v2ex.com/t/825696) 
 - [2022-01-01-AppleTV+的需求是不是比较少啊](https://www.v2ex.com/t/825695) 
-- [2022-01-01-mac-连接服务器被拒，-Permission-denied-publickey,gssapi-keyex,gssapi-with-mic,password.](https://www.v2ex.com/t/825694) 
-- [2022-01-01-又到立-flag-的时候了，-2022-来也。。。](https://www.v2ex.com/t/825693) 

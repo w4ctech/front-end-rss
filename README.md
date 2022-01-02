@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-02 01:14:56，:rocket: 更新条数: +1647， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-02 02:05:47，:rocket: 更新条数: +1650， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -65,7 +65,8 @@
 </summary>
 
 
-- [2022-01-01-最新疫情：全国新冠累计确诊102314例-累计接种新冠疫苗超28.35亿剂次](https://m.caixin.com/m/2022-01-01/101825011.html) ![](assets/new.png)  
+- [2022-01-02-1月1日全国新增新冠191例-三省份本土131例](https://m.caixin.com/m/2022-01-02/101825124.html) ![](assets/new.png)  
+- [2022-01-02-南非Omicron浪潮或已见顶-印度担忧第三波疫情丨大流行手记（1月1日）](https://m.caixin.com/m/2022-01-02/101825115.html) ![](assets/new.png)  
 - [2022-01-01-​宁波市新增1例确诊-北仑区全区封闭](https://m.caixin.com/m/2022-01-01/101825089.html) ![](assets/new.png)  
 - [2022-01-01-最新海外疫情：新冠感染超2.87亿-累计接种新冠疫苗超91.17亿剂次](https://m.caixin.com/m/2022-01-01/101825017.html) ![](assets/new.png)  
 - [2022-01-01-【境内疫情观察】陕西新增174例本土病例（12月31日）](https://database.caixin.com/m/2022-01-01/101825023.html) ![](assets/new.png)  
@@ -84,7 +85,6 @@
 - [2021-12-29-新研究称感染奥密克戎可能提升对德尔塔免疫力，机制有待厘清｜大流行手记（12月28日）](https://m.caixin.com/m/2021-12-29/101823371.html) ![](assets/new.png)  
 - [2021-12-28-云南安宁市报告1例本土确诊-西双版纳传播链条已关联2省3地](https://m.caixin.com/m/2021-12-28/101823205.html) ![](assets/new.png)  
 - [2021-12-28-西安疫情源头传播链未明-机场空调是否是突破口？](https://companies.caixin.com/m/2021-12-28/101823293.html) ![](assets/new.png)  
-- [2021-12-28-西安单日确诊达175例，核酸检测频次加大](https://m.caixin.com/m/2021-12-28/101823233.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -494,6 +494,7 @@
 </summary>
 
 
+- [2022-01-02-问一个数字遗产相关的问题](https://www.v2ex.com/t/825743) ![](assets/new.png)  
 - [2022-01-02-工科硕士毕设，教育部盲审一般什么要求呀，工作量、创新点这些，希望有了解的大佬可以解答一下](https://www.v2ex.com/t/825742) ![](assets/new.png)  
 - [2022-01-02-istat-menu-发车](https://www.v2ex.com/t/825741) ![](assets/new.png)  
 - [2022-01-01-如何检查-APNs-推送功能是否正常](https://www.v2ex.com/t/825738) ![](assets/new.png)  
@@ -501,7 +502,6 @@
 - [2022-01-01-好用的屏蔽国内-app-广告的圈-X-规则](https://www.v2ex.com/t/825736) ![](assets/new.png)  
 - [2022-01-01-关于使用-RemoteApp-运行-QQ-遇到的问题](https://www.v2ex.com/t/825735) ![](assets/new.png)  
 - [2022-01-01-为什么有些公司有些人非得用微信沟通工作？](https://www.v2ex.com/t/825734) ![](assets/new.png)  
-- [2022-01-01-求大侠支持一下，元旦激活-WeChat-就差最后一步…](https://www.v2ex.com/t/825733) ![](assets/new.png)  
 - [2022-01-01-苹果这是什么骚操作，自带的-curl-链接了一个不存在的-libcurl，但是却能正常运行？！](https://www.v2ex.com/t/825732) ![](assets/new.png)  
 - [2022-01-01-strcpy-中，遇到内存重叠，为什么结果是这样？](https://www.v2ex.com/t/825731) ![](assets/new.png)  
 - [2022-01-01-求推荐一个-SpringBoot-项目。](https://www.v2ex.com/t/825730) ![](assets/new.png)  
@@ -509,11 +509,11 @@
 - [2022-01-01-GPL-协议的疑惑？](https://www.v2ex.com/t/825728) ![](assets/new.png)  
 - [2022-01-01-2022-目睹之怪现状](https://www.v2ex.com/t/825727) ![](assets/new.png)  
 - [2022-01-01-求推荐-MBA-M1-用的-TimeMachine-硬盘及硬盘盒](https://www.v2ex.com/t/825726) ![](assets/new.png)  
-- [2022-01-01-收不到微信通知的试试关掉那啥……](https://www.v2ex.com/t/825725) ![](assets/new.png)  
 - [2022-01-01-为什么我的-useState-会无限循环](https://www.v2ex.com/t/825724) ![](assets/new.png)  
 - [2022-01-01-求推荐点-搞笑好玩-的-B-站-UP-主，好度过元旦](https://www.v2ex.com/t/825722) ![](assets/new.png)  
 - [2022-01-01-阿里小号疑似要涨价，快续费](https://www.v2ex.com/t/825721) ![](assets/new.png)  
 - [2022-01-01-如何使用-GO-实现一个简单的-HTTPS-PROXY](https://www.v2ex.com/t/825720) ![](assets/new.png)  
+- [2022-01-01-移动-广东出口也炸了？](https://www.v2ex.com/t/825719) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -556,22 +556,26 @@
 </summary>
 
 
+- [2022-01-02-2022-年来了！抓紧啦！](https://toutiao.io/k/rf8ezjy) ![](assets/new.png)  
 - [2022-01-02-偷天换日，用-JavaAgent-欺骗你的-JVM](https://toutiao.io/k/cah22k5) ![](assets/new.png)  
 - [2022-01-02-6500字详解数据中台，一份完整的数据中台手册！](https://toutiao.io/k/79psynw) ![](assets/new.png)  
 - [2022-01-02-推荐-3-个-Python-时序分析神器！](https://toutiao.io/k/y18h18n) ![](assets/new.png)  
-- [2022-01-02-推荐-再见-Typora！推荐一个-2.3-万-Star-的开源-Markdown-编辑器](https://toutiao.io/k/ol8ule0) ![](assets/new.png)  
-- [2022-01-02-推荐-我做系统架构的一些原则](https://toutiao.io/k/vlt0zc9) ![](assets/new.png)  
-- [2022-01-02-推荐-白话linux操作系统原理](https://toutiao.io/k/zgc47l7) ![](assets/new.png)  
-- [2022-01-02-推荐-登录态-&-SSO](https://toutiao.io/k/vjcw3vh) ![](assets/new.png)  
-- [2022-01-02-推荐-WhatsApp系统架构](https://toutiao.io/k/7dt7oe2) ![](assets/new.png)  
-- [2022-01-02-推荐-熬夜彻底搞懂Cookie-Session-Token-JWT](https://toutiao.io/k/g49lsl5) ![](assets/new.png)  
-- [2022-01-02-推荐-分布式链路追踪在字节跳动的实践](https://toutiao.io/k/hkc5fd7) ![](assets/new.png)  
-- [2022-01-02-推荐-从0开始设计Twitter系统架构](https://toutiao.io/k/3fie9ar) ![](assets/new.png)  
-- [2022-01-02-推荐-插件式可扩展架构设计心得](https://toutiao.io/k/w43usss) ![](assets/new.png)  
-- [2022-01-02-推荐-聊聊spring事务失效的12种场景，太坑了](https://toutiao.io/k/uf6yk96) ![](assets/new.png)  
-- [2022-01-02-推荐-小心陷入-MySQL-索引的坑](https://toutiao.io/k/gucqkq4) ![](assets/new.png)  
+- [2022-01-02-「前端工程」记一次搭建业务平台组件库的过程](https://toutiao.io/k/topwn3z) ![](assets/new.png)  
+- [2022-01-02-同事乱用-Redis-卡爆，我真是醉了...](https://toutiao.io/k/f24j5e0) ![](assets/new.png)  
+- [2022-01-02-Spring官方RSocket-Broker-0.3.0发布：-快速构建你的RSocket架构](https://toutiao.io/k/0wci2la) ![](assets/new.png)  
+- [2022-01-02-软链接&硬链接在前端中的应用](https://toutiao.io/k/5u2fiq6) ![](assets/new.png)  
 - [2022-01-02-推荐-聊聊-sql-优化的-15-个小技巧](https://toutiao.io/k/a94tblq) ![](assets/new.png)  
-- [2022-01-02-推荐-快速找出redis大key删除](https://toutiao.io/k/yncwv3k) ![](assets/new.png)  
+- [2022-01-02-推荐-WhatsApp系统架构](https://toutiao.io/k/7dt7oe2) ![](assets/new.png)  
+- [2022-01-02-推荐-从0开始设计Twitter系统架构](https://toutiao.io/k/3fie9ar) ![](assets/new.png)  
+- [2022-01-02-推荐-登录态-&-SSO](https://toutiao.io/k/vjcw3vh) ![](assets/new.png)  
+- [2022-01-02-推荐-白话linux操作系统原理](https://toutiao.io/k/zgc47l7) ![](assets/new.png)  
+- [2022-01-02-推荐-分布式链路追踪在字节跳动的实践](https://toutiao.io/k/hkc5fd7) ![](assets/new.png)  
+- [2022-01-02-推荐-小心陷入-MySQL-索引的坑](https://toutiao.io/k/gucqkq4) ![](assets/new.png)  
+- [2022-01-02-推荐-聊聊spring事务失效的12种场景，太坑了](https://toutiao.io/k/uf6yk96) ![](assets/new.png)  
+- [2022-01-02-推荐-熬夜彻底搞懂Cookie-Session-Token-JWT](https://toutiao.io/k/g49lsl5) ![](assets/new.png)  
+- [2022-01-02-推荐-我做系统架构的一些原则](https://toutiao.io/k/vlt0zc9) ![](assets/new.png)  
+- [2022-01-02-推荐-再见-Typora！推荐一个-2.3-万-Star-的开源-Markdown-编辑器](https://toutiao.io/k/ol8ule0) ![](assets/new.png)  
+- [2022-01-02-推荐-插件式可扩展架构设计心得](https://toutiao.io/k/w43usss) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

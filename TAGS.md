@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-01-02 17:27:53。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-01-02 17:41:17。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -387,7 +387,6 @@
 - [【武汉肺炎防疫全纪录(财新网)】新冠肺炎防疫全纪录（2020年）](https://mappv5.caixin.com/m_topic_detail/1670.html)
 - [【武汉肺炎防疫全纪录(财新网)】了解你附近的“新冠肺炎”定点医院（持续更新中）](https://datanews.caixin.com/interactive/2020/fever)
 - [【武汉肺炎防疫全纪录(财新网)】地图｜新冠肺炎确诊病例实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5)
-- [【V2EX】新冠病毒可不只是肺炎](https://www.v2ex.com/t/825858)
 - [......【查看更多】......](./details/tags/肺炎疫情.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

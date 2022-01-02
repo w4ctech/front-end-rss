@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2022-01-02 04:16:01。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-01-02 04:30:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-01-02-谷歌浏览器如何像-DEBUG-一样发送请求-or-或者通过某些软件来实现网页请求的-DEBUG-模式?](https://www.v2ex.com/t/825758) 
+- [2022-01-02-二手-18-款-mac-mini-值得入手吗?-现在什么价位?](https://www.v2ex.com/t/825757) 
 - [2022-01-02-寻找技术联合创始人。做人对人的关爱护理服务。](https://www.v2ex.com/t/825755) 
 - [2022-01-02-21-款-16-寸-macbookpro-卡顿](https://www.v2ex.com/t/825754) 
 - [2022-01-02-在-qemu-上创建的-Linux-如何实现联网](https://www.v2ex.com/t/825753) 
@@ -38,5 +40,3 @@
 - [2022-01-01-发展经济的本质是什么？](https://www.v2ex.com/t/825714) 
 - [2022-01-01-Mac-上-edge-浏览器滚动总觉得不如-safari-流畅](https://www.v2ex.com/t/825711) 
 - [2022-01-01-2021-阅读总结](https://www.v2ex.com/t/825710) 
-- [2022-01-01-有没有老铁了解有什么线上-web-或开源项目是使用了-socket.io-做的？](https://www.v2ex.com/t/825709) 
-- [2022-01-01-第一天上班要做什么？](https://www.v2ex.com/t/825708) 

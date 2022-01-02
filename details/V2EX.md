@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2022-01-02 17:45:31。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-01-02 17:54:32。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-01-02-对于有着自己不喜欢的行为的人，会天然对他/她不受待见，这算不算是偏见？](https://www.v2ex.com/t/825860) 
 - [2022-01-02-XP-以后似乎很少遇到“该内存不能为-r/w”错误，为什么？](https://www.v2ex.com/t/825859) 
 - [2022-01-02-Python--build-standalone-有用过的么,-看起来似乎就是我到处找的绿色版解释器](https://www.v2ex.com/t/825856) 
 - [2022-01-02-macOS-Monterey-里-Sidecar-设置似乎找不见了，现在开启-Sidecar-的方法异常玄幻。](https://www.v2ex.com/t/825854) 
@@ -37,4 +38,3 @@
 - [2022-01-02-求助，想转但又不知道转去什么方向？](https://www.v2ex.com/t/825814) 
 - [2022-01-02-google-seo-除了增加外链-还有什么有效的方式？](https://www.v2ex.com/t/825812) 
 - [2022-01-02-metamask-小狐狸钱包中导入-BCH/LTC-的代号是什么？](https://www.v2ex.com/t/825811) 
-- [2022-01-02-5500-以内笔记本求推荐](https://www.v2ex.com/t/825810) 

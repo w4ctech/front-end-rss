@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-02 13:09:22，:rocket: 更新条数: +1653， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-02 13:20:39，:rocket: 更新条数: +1654， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -67,6 +67,7 @@
 
 - [2022-01-02-最新疫情：全国新冠累计确诊102505例-累计接种新冠疫苗超28.41亿剂次](https://m.caixin.com/m/2022-01-02/101825212.html) ![](assets/new.png)  
 - [2022-01-02-宁波北仑一服装厂现10例确诊-病毒毒株与越南流行变异株相同](https://m.caixin.com/m/2022-01-02/101825239.html) ![](assets/new.png)  
+- [2022-01-02-西安雁塔区委书记被免职-由副市长杨建强兼任](https://china.caixin.com/m/2022-01-02/101825246.html) ![](assets/new.png)  
 - [2022-01-02-最新海外疫情：新冠感染超2.88亿-累计接种新冠疫苗超91.51亿剂次](https://m.caixin.com/m/2022-01-02/101825209.html) ![](assets/new.png)  
 - [2022-01-02-【境内疫情观察】全国新增131例本土病例（1月1日）](https://database.caixin.com/m/2022-01-02/101825198.html) ![](assets/new.png)  
 - [2022-01-02-南非Omicron浪潮或已见顶-印度担忧第三波疫情丨大流行手记（1月1日）](https://m.caixin.com/m/2022-01-02/101825115.html) ![](assets/new.png)  
@@ -84,7 +85,6 @@
 - [2021-12-29-西安“封城”一周-民生问题待解](https://m.caixin.com/m/2021-12-29/101823813.html) ![](assets/new.png)  
 - [2021-12-29-西安确诊近千人-阳性病例数开始下降](https://m.caixin.com/m/2021-12-29/101823769.html) ![](assets/new.png)  
 - [2021-12-29-【境内疫情观察】陕西新增151例本土病例（12月28日）](https://database.caixin.com/m/2021-12-29/101823548.html) ![](assets/new.png)  
-- [2021-12-29-新研究称感染奥密克戎可能提升对德尔塔免疫力，机制有待厘清｜大流行手记（12月28日）](https://m.caixin.com/m/2021-12-29/101823371.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -564,18 +564,18 @@
 - [2022-01-02-软链接&硬链接在前端中的应用](https://toutiao.io/k/5u2fiq6) ![](assets/new.png)  
 - [2022-01-02-数仓建模—宽表的设计](https://toutiao.io/k/7ounyz2) ![](assets/new.png)  
 - [2022-01-02-c#-使用webhook推送消息给钉钉机器人](https://toutiao.io/k/w844e4u) ![](assets/new.png)  
-- [2022-01-02-推荐-我做系统架构的一些原则](https://toutiao.io/k/vlt0zc9) ![](assets/new.png)  
-- [2022-01-02-推荐-聊聊spring事务失效的12种场景，太坑了](https://toutiao.io/k/uf6yk96) ![](assets/new.png)  
+- [2022-01-02-推荐-分布式链路追踪在字节跳动的实践](https://toutiao.io/k/hkc5fd7) ![](assets/new.png)  
+- [2022-01-02-推荐-WhatsApp系统架构](https://toutiao.io/k/7dt7oe2) ![](assets/new.png)  
 - [2022-01-02-推荐-登录态-&-SSO](https://toutiao.io/k/vjcw3vh) ![](assets/new.png)  
-- [2022-01-02-推荐-聊聊-sql-优化的-15-个小技巧](https://toutiao.io/k/a94tblq) ![](assets/new.png)  
-- [2022-01-02-推荐-插件式可扩展架构设计心得](https://toutiao.io/k/w43usss) ![](assets/new.png)  
-- [2022-01-02-推荐-从0开始设计Twitter系统架构](https://toutiao.io/k/3fie9ar) ![](assets/new.png)  
 - [2022-01-02-推荐-快速找出redis大key删除](https://toutiao.io/k/yncwv3k) ![](assets/new.png)  
 - [2022-01-02-推荐-熬夜彻底搞懂Cookie-Session-Token-JWT](https://toutiao.io/k/g49lsl5) ![](assets/new.png)  
-- [2022-01-02-推荐-白话linux操作系统原理](https://toutiao.io/k/zgc47l7) ![](assets/new.png)  
-- [2022-01-02-推荐-小心陷入-MySQL-索引的坑](https://toutiao.io/k/gucqkq4) ![](assets/new.png)  
-- [2022-01-02-推荐-WhatsApp系统架构](https://toutiao.io/k/7dt7oe2) ![](assets/new.png)  
+- [2022-01-02-推荐-插件式可扩展架构设计心得](https://toutiao.io/k/w43usss) ![](assets/new.png)  
 - [2022-01-02-推荐-再见-Typora！推荐一个-2.3-万-Star-的开源-Markdown-编辑器](https://toutiao.io/k/ol8ule0) ![](assets/new.png)  
+- [2022-01-02-推荐-从0开始设计Twitter系统架构](https://toutiao.io/k/3fie9ar) ![](assets/new.png)  
+- [2022-01-02-推荐-聊聊spring事务失效的12种场景，太坑了](https://toutiao.io/k/uf6yk96) ![](assets/new.png)  
+- [2022-01-02-推荐-白话linux操作系统原理](https://toutiao.io/k/zgc47l7) ![](assets/new.png)  
+- [2022-01-02-推荐-我做系统架构的一些原则](https://toutiao.io/k/vlt0zc9) ![](assets/new.png)  
+- [2022-01-02-推荐-聊聊-sql-优化的-15-个小技巧](https://toutiao.io/k/a94tblq) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

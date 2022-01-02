@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-02 18:25:45，:rocket: 更新条数: +1646， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-02 18:45:02，:rocket: 更新条数: +1646， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,7 @@
 </summary>
 
 
+- [2022-01-02-22-届找-Node.js-远程实习/兼职](https://www.v2ex.com/t/825861) ![](assets/new.png)  
 - [2022-01-02-对于有着自己不喜欢的行为的人，会天然对他/她不受待见，这算不算是偏见？](https://www.v2ex.com/t/825860) ![](assets/new.png)  
 - [2022-01-02-XP-以后似乎很少遇到“该内存不能为-r/w”错误，为什么？](https://www.v2ex.com/t/825859) ![](assets/new.png)  
 - [2022-01-02-Python--build-standalone-有用过的么,-看起来似乎就是我到处找的绿色版解释器](https://www.v2ex.com/t/825856) ![](assets/new.png)  
@@ -513,7 +514,6 @@
 - [2022-01-02-搞了个阿里云盘资源搜索](https://www.v2ex.com/t/825834) ![](assets/new.png)  
 - [2022-01-02-城市噪音受害者，寻求解决方案](https://www.v2ex.com/t/825832) ![](assets/new.png)  
 - [2022-01-02-samba-共享问题](https://www.v2ex.com/t/825831) ![](assets/new.png)  
-- [2022-01-02-揭秘一个黑心的装修公司，单纯的人总是容易受伤](https://www.v2ex.com/t/825830) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -564,18 +564,18 @@
 - [2022-01-02-数仓建模—宽表的设计](https://toutiao.io/k/7ounyz2) ![](assets/new.png)  
 - [2022-01-02-软链接&硬链接在前端中的应用](https://toutiao.io/k/5u2fiq6) ![](assets/new.png)  
 - [2022-01-02-c#-使用webhook推送消息给钉钉机器人](https://toutiao.io/k/w844e4u) ![](assets/new.png)  
-- [2022-01-02-推荐-小心陷入-MySQL-索引的坑](https://toutiao.io/k/gucqkq4) ![](assets/new.png)  
-- [2022-01-02-推荐-插件式可扩展架构设计心得](https://toutiao.io/k/w43usss) ![](assets/new.png)  
-- [2022-01-02-推荐-再见-Typora！推荐一个-2.3-万-Star-的开源-Markdown-编辑器](https://toutiao.io/k/ol8ule0) ![](assets/new.png)  
-- [2022-01-02-推荐-从0开始设计Twitter系统架构](https://toutiao.io/k/3fie9ar) ![](assets/new.png)  
-- [2022-01-02-推荐-聊聊spring事务失效的12种场景，太坑了](https://toutiao.io/k/uf6yk96) ![](assets/new.png)  
-- [2022-01-02-推荐-分布式链路追踪在字节跳动的实践](https://toutiao.io/k/hkc5fd7) ![](assets/new.png)  
-- [2022-01-02-推荐-熬夜彻底搞懂Cookie-Session-Token-JWT](https://toutiao.io/k/g49lsl5) ![](assets/new.png)  
-- [2022-01-02-推荐-白话linux操作系统原理](https://toutiao.io/k/zgc47l7) ![](assets/new.png)  
-- [2022-01-02-推荐-WhatsApp系统架构](https://toutiao.io/k/7dt7oe2) ![](assets/new.png)  
-- [2022-01-02-推荐-我做系统架构的一些原则](https://toutiao.io/k/vlt0zc9) ![](assets/new.png)  
-- [2022-01-02-推荐-聊聊-sql-优化的-15-个小技巧](https://toutiao.io/k/a94tblq) ![](assets/new.png)  
 - [2022-01-02-推荐-登录态-&-SSO](https://toutiao.io/k/vjcw3vh) ![](assets/new.png)  
+- [2022-01-02-推荐-快速找出redis大key删除](https://toutiao.io/k/yncwv3k) ![](assets/new.png)  
+- [2022-01-02-推荐-再见-Typora！推荐一个-2.3-万-Star-的开源-Markdown-编辑器](https://toutiao.io/k/ol8ule0) ![](assets/new.png)  
+- [2022-01-02-推荐-聊聊spring事务失效的12种场景，太坑了](https://toutiao.io/k/uf6yk96) ![](assets/new.png)  
+- [2022-01-02-推荐-从0开始设计Twitter系统架构](https://toutiao.io/k/3fie9ar) ![](assets/new.png)  
+- [2022-01-02-推荐-插件式可扩展架构设计心得](https://toutiao.io/k/w43usss) ![](assets/new.png)  
+- [2022-01-02-推荐-我做系统架构的一些原则](https://toutiao.io/k/vlt0zc9) ![](assets/new.png)  
+- [2022-01-02-推荐-小心陷入-MySQL-索引的坑](https://toutiao.io/k/gucqkq4) ![](assets/new.png)  
+- [2022-01-02-推荐-熬夜彻底搞懂Cookie-Session-Token-JWT](https://toutiao.io/k/g49lsl5) ![](assets/new.png)  
+- [2022-01-02-推荐-WhatsApp系统架构](https://toutiao.io/k/7dt7oe2) ![](assets/new.png)  
+- [2022-01-02-推荐-分布式链路追踪在字节跳动的实践](https://toutiao.io/k/hkc5fd7) ![](assets/new.png)  
+- [2022-01-02-推荐-聊聊-sql-优化的-15-个小技巧](https://toutiao.io/k/a94tblq) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-02 04:30:23，:rocket: 更新条数: +1643， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-02 04:51:42，:rocket: 更新条数: +1644， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,9 @@
 </summary>
 
 
+- [2022-01-02-分享一个自己写的命令行版的-Kodi-刮削工具](https://www.v2ex.com/t/825762) ![](assets/new.png)  
+- [2022-01-02-偷懒求个-m1-mba-软件安装指南](https://www.v2ex.com/t/825761) ![](assets/new.png)  
+- [2022-01-02-业主想委托管理出租房屋，北京哪家好？](https://www.v2ex.com/t/825760) ![](assets/new.png)  
 - [2022-01-02-谷歌浏览器如何像-DEBUG-一样发送请求-or-或者通过某些软件来实现网页请求的-DEBUG-模式?](https://www.v2ex.com/t/825758) ![](assets/new.png)  
 - [2022-01-02-二手-18-款-mac-mini-值得入手吗?-现在什么价位?](https://www.v2ex.com/t/825757) ![](assets/new.png)  
 - [2022-01-02-寻找技术联合创始人。做人对人的关爱护理服务。](https://www.v2ex.com/t/825755) ![](assets/new.png)  
@@ -511,9 +514,6 @@
 - [2022-01-01-好用的屏蔽国内-app-广告的圈-X-规则](https://www.v2ex.com/t/825736) ![](assets/new.png)  
 - [2022-01-01-关于使用-RemoteApp-运行-QQ-遇到的问题](https://www.v2ex.com/t/825735) ![](assets/new.png)  
 - [2022-01-01-为什么有些公司有些人非得用微信沟通工作？](https://www.v2ex.com/t/825734) ![](assets/new.png)  
-- [2022-01-01-苹果这是什么骚操作，自带的-curl-链接了一个不存在的-libcurl，但是却能正常运行？！](https://www.v2ex.com/t/825732) ![](assets/new.png)  
-- [2022-01-01-strcpy-中，遇到内存重叠，为什么结果是这样？](https://www.v2ex.com/t/825731) ![](assets/new.png)  
-- [2022-01-01-求推荐一个-SpringBoot-项目。](https://www.v2ex.com/t/825730) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -562,19 +562,19 @@
 - [2022-01-02-推荐-3-个-Python-时序分析神器！](https://toutiao.io/k/y18h18n) ![](assets/new.png)  
 - [2022-01-02-软链接&硬链接在前端中的应用](https://toutiao.io/k/5u2fiq6) ![](assets/new.png)  
 - [2022-01-02-Spring官方RSocket-Broker-0.3.0发布：-快速构建你的RSocket架构](https://toutiao.io/k/0wci2la) ![](assets/new.png)  
-- [2022-01-02-推荐-WhatsApp系统架构](https://toutiao.io/k/7dt7oe2) ![](assets/new.png)  
+- [2022-01-02-推荐-聊聊spring事务失效的12种场景，太坑了](https://toutiao.io/k/uf6yk96) ![](assets/new.png)  
+- [2022-01-02-推荐-熬夜彻底搞懂Cookie-Session-Token-JWT](https://toutiao.io/k/g49lsl5) ![](assets/new.png)  
+- [2022-01-02-推荐-插件式可扩展架构设计心得](https://toutiao.io/k/w43usss) ![](assets/new.png)  
+- [2022-01-02-推荐-从0开始设计Twitter系统架构](https://toutiao.io/k/3fie9ar) ![](assets/new.png)  
+- [2022-01-02-推荐-再见-Typora！推荐一个-2.3-万-Star-的开源-Markdown-编辑器](https://toutiao.io/k/ol8ule0) ![](assets/new.png)  
+- [2022-01-02-推荐-我做系统架构的一些原则](https://toutiao.io/k/vlt0zc9) ![](assets/new.png)  
 - [2022-01-02-推荐-聊聊-sql-优化的-15-个小技巧](https://toutiao.io/k/a94tblq) ![](assets/new.png)  
 - [2022-01-02-推荐-小心陷入-MySQL-索引的坑](https://toutiao.io/k/gucqkq4) ![](assets/new.png)  
-- [2022-01-02-推荐-聊聊spring事务失效的12种场景，太坑了](https://toutiao.io/k/uf6yk96) ![](assets/new.png)  
-- [2022-01-02-推荐-白话linux操作系统原理](https://toutiao.io/k/zgc47l7) ![](assets/new.png)  
-- [2022-01-02-推荐-我做系统架构的一些原则](https://toutiao.io/k/vlt0zc9) ![](assets/new.png)  
-- [2022-01-02-推荐-插件式可扩展架构设计心得](https://toutiao.io/k/w43usss) ![](assets/new.png)  
-- [2022-01-02-推荐-登录态-&-SSO](https://toutiao.io/k/vjcw3vh) ![](assets/new.png)  
 - [2022-01-02-推荐-快速找出redis大key删除](https://toutiao.io/k/yncwv3k) ![](assets/new.png)  
-- [2022-01-02-推荐-再见-Typora！推荐一个-2.3-万-Star-的开源-Markdown-编辑器](https://toutiao.io/k/ol8ule0) ![](assets/new.png)  
-- [2022-01-02-推荐-熬夜彻底搞懂Cookie-Session-Token-JWT](https://toutiao.io/k/g49lsl5) ![](assets/new.png)  
 - [2022-01-02-推荐-分布式链路追踪在字节跳动的实践](https://toutiao.io/k/hkc5fd7) ![](assets/new.png)  
-- [2022-01-02-推荐-从0开始设计Twitter系统架构](https://toutiao.io/k/3fie9ar) ![](assets/new.png)  
+- [2022-01-02-推荐-WhatsApp系统架构](https://toutiao.io/k/7dt7oe2) ![](assets/new.png)  
+- [2022-01-02-推荐-白话linux操作系统原理](https://toutiao.io/k/zgc47l7) ![](assets/new.png)  
+- [2022-01-02-推荐-登录态-&-SSO](https://toutiao.io/k/vjcw3vh) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

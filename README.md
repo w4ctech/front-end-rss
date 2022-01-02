@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-02 12:34:26，:rocket: 更新条数: +1651， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-02 12:58:15，:rocket: 更新条数: +1653， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,8 +494,13 @@
 </summary>
 
 
+- [2022-01-02-samba-共享问题](https://www.v2ex.com/t/825831) ![](assets/new.png)  
+- [2022-01-02-揭秘一个黑心的装修公司，单纯的人总是容易受伤](https://www.v2ex.com/t/825830) ![](assets/new.png)  
+- [2022-01-02-苹果-MacBook-Air-M1-外接-2-块屏幕，同时使用虚拟机够用吗？](https://www.v2ex.com/t/825829) ![](assets/new.png)  
+- [2022-01-02-两个方法中有相同的部分就会想办法把这些相同的部分独立作为一个新方法，再在原方法中调用，浪费了不少时间](https://www.v2ex.com/t/825828) ![](assets/new.png)  
+- [2022-01-02-macOS-的软件是不是不会往自己那个.app-里写入信息？](https://www.v2ex.com/t/825827) ![](assets/new.png)  
+- [2022-01-02-叮~-听，是她（他）在想你~-纯手工绣制平安福挂坠](https://www.v2ex.com/t/825826) ![](assets/new.png)  
 - [2022-01-02-Mac-的-Office-如果直接打开-OneDrive-文件默认下载目录在哪？](https://www.v2ex.com/t/825825) ![](assets/new.png)  
-- [2022-01-02-杭州哪里美女多呢？～～以前喜欢去大学打球的呜呜。。。。](https://www.v2ex.com/t/825824) ![](assets/new.png)  
 - [2022-01-02-询问下类似淘宝客程序有哪些？](https://www.v2ex.com/t/825822) ![](assets/new.png)  
 - [2022-01-02-除了阿里云盘~，还有什么-tg-频道获取分享的阿里云盘资源。](https://www.v2ex.com/t/825821) ![](assets/new.png)  
 - [2022-01-02-如果我到-30-岁还没有和自己喜欢的女孩结婚，就来场说走就走的旅行吧。](https://www.v2ex.com/t/825819) ![](assets/new.png)  
@@ -509,11 +514,6 @@
 - [2022-01-02-docker-build-和-docker-run](https://www.v2ex.com/t/825808) ![](assets/new.png)  
 - [2022-01-02-2021-习惯总结](https://www.v2ex.com/t/825807) ![](assets/new.png)  
 - [2022-01-02-想在公司电脑上架个-openvpn-然后家里连过去办公，目前碰到一些困难](https://www.v2ex.com/t/825806) ![](assets/new.png)  
-- [2022-01-02-手臂的弯曲角度？](https://www.v2ex.com/t/825805) ![](assets/new.png)  
-- [2022-01-02-不知道他的模型飞机做得怎么样，上天了么](https://www.v2ex.com/t/825804) ![](assets/new.png)  
-- [2022-01-02-请教下-MacBook-Pro-14/16-上面观看杜比视界/HDR-的时候亮度为什么不是自动？](https://www.v2ex.com/t/825802) ![](assets/new.png)  
-- [2022-01-02-请问是否有不禁止迅雷的-tracker](https://www.v2ex.com/t/825801) ![](assets/new.png)  
-- [2022-01-02-有使用-Stoplight-做文档管理的团队吗](https://www.v2ex.com/t/825800) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -564,18 +564,18 @@
 - [2022-01-02-软链接&硬链接在前端中的应用](https://toutiao.io/k/5u2fiq6) ![](assets/new.png)  
 - [2022-01-02-数仓建模—宽表的设计](https://toutiao.io/k/7ounyz2) ![](assets/new.png)  
 - [2022-01-02-c#-使用webhook推送消息给钉钉机器人](https://toutiao.io/k/w844e4u) ![](assets/new.png)  
-- [2022-01-02-推荐-白话linux操作系统原理](https://toutiao.io/k/zgc47l7) ![](assets/new.png)  
-- [2022-01-02-推荐-聊聊-sql-优化的-15-个小技巧](https://toutiao.io/k/a94tblq) ![](assets/new.png)  
-- [2022-01-02-推荐-小心陷入-MySQL-索引的坑](https://toutiao.io/k/gucqkq4) ![](assets/new.png)  
 - [2022-01-02-推荐-聊聊spring事务失效的12种场景，太坑了](https://toutiao.io/k/uf6yk96) ![](assets/new.png)  
-- [2022-01-02-推荐-我做系统架构的一些原则](https://toutiao.io/k/vlt0zc9) ![](assets/new.png)  
-- [2022-01-02-推荐-登录态-&-SSO](https://toutiao.io/k/vjcw3vh) ![](assets/new.png)  
-- [2022-01-02-推荐-分布式链路追踪在字节跳动的实践](https://toutiao.io/k/hkc5fd7) ![](assets/new.png)  
-- [2022-01-02-推荐-熬夜彻底搞懂Cookie-Session-Token-JWT](https://toutiao.io/k/g49lsl5) ![](assets/new.png)  
-- [2022-01-02-推荐-从0开始设计Twitter系统架构](https://toutiao.io/k/3fie9ar) ![](assets/new.png)  
-- [2022-01-02-推荐-WhatsApp系统架构](https://toutiao.io/k/7dt7oe2) ![](assets/new.png)  
 - [2022-01-02-推荐-插件式可扩展架构设计心得](https://toutiao.io/k/w43usss) ![](assets/new.png)  
+- [2022-01-02-推荐-小心陷入-MySQL-索引的坑](https://toutiao.io/k/gucqkq4) ![](assets/new.png)  
+- [2022-01-02-推荐-分布式链路追踪在字节跳动的实践](https://toutiao.io/k/hkc5fd7) ![](assets/new.png)  
+- [2022-01-02-推荐-WhatsApp系统架构](https://toutiao.io/k/7dt7oe2) ![](assets/new.png)  
+- [2022-01-02-推荐-从0开始设计Twitter系统架构](https://toutiao.io/k/3fie9ar) ![](assets/new.png)  
+- [2022-01-02-推荐-再见-Typora！推荐一个-2.3-万-Star-的开源-Markdown-编辑器](https://toutiao.io/k/ol8ule0) ![](assets/new.png)  
+- [2022-01-02-推荐-我做系统架构的一些原则](https://toutiao.io/k/vlt0zc9) ![](assets/new.png)  
 - [2022-01-02-推荐-快速找出redis大key删除](https://toutiao.io/k/yncwv3k) ![](assets/new.png)  
+- [2022-01-02-推荐-登录态-&-SSO](https://toutiao.io/k/vjcw3vh) ![](assets/new.png)  
+- [2022-01-02-推荐-聊聊-sql-优化的-15-个小技巧](https://toutiao.io/k/a94tblq) ![](assets/new.png)  
+- [2022-01-02-推荐-白话linux操作系统原理](https://toutiao.io/k/zgc47l7) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

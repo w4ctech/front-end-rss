@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-01-02 09:44:03。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-01-02 09:56:01。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -276,7 +276,6 @@
 - [【武汉肺炎防疫全纪录(财新网)】大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html)
 - [【V2EX】福利-Target-和-BestBuy-送六个月-AppleMusic](https://www.v2ex.com/t/825776)
 - [【V2EX】京东商品页在-firefox-上显示不正常，不显示价格等信息](https://www.v2ex.com/t/825767)
-- [【V2EX】谷歌浏览器如何像-DEBUG-一样发送请求-or-或者通过某些软件来实现网页请求的-DEBUG-模式?](https://www.v2ex.com/t/825758)
 - [【技术头条】容器安全扫描工具推荐-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14872&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fcontainer-scanning-tools-recommendation%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【开发者头条】推荐-熬夜彻底搞懂Cookie-Session-Token-JWT](https://toutiao.io/k/g49lsl5)
 - [......【查看更多】......](./details/tags/browser.md)
@@ -313,6 +312,7 @@
 
 
 
+- [【V2EX】docker-build-和-docker-run](https://www.v2ex.com/t/825808)
 - [【V2EX】群晖套件和-docker-有什么区别](https://www.v2ex.com/t/825799)
 - [......【查看更多】......](./details/tags/server.md)
 
@@ -407,6 +407,7 @@
 
 
 - [【武汉肺炎防疫全纪录(财新网)】1月1日全国新增新冠191例-三省份本土131例](https://m.caixin.com/m/2022-01-02/101825124.html)
+- [【武汉肺炎防疫全纪录(财新网)】【境内疫情观察】全国新增131例本土病例（1月1日）](https://database.caixin.com/m/2022-01-02/101825198.html)
 - [【武汉肺炎防疫全纪录(财新网)】南非Omicron浪潮或已见顶-印度担忧第三波疫情丨大流行手记（1月1日）](https://m.caixin.com/m/2022-01-02/101825115.html)
 - [【武汉肺炎防疫全纪录(财新网)】​宁波市新增1例确诊-北仑区全区封闭](https://m.caixin.com/m/2022-01-01/101825089.html)
 - [【武汉肺炎防疫全纪录(财新网)】最新海外疫情：新冠感染超2.87亿-累计接种新冠疫苗超91.17亿剂次](https://m.caixin.com/m/2022-01-01/101825017.html)
@@ -425,7 +426,6 @@
 - [【武汉肺炎防疫全纪录(财新网)】【境内疫情观察】陕西新增151例本土病例（12月28日）](https://database.caixin.com/m/2021-12-29/101823548.html)
 - [【武汉肺炎防疫全纪录(财新网)】新研究称感染奥密克戎可能提升对德尔塔免疫力，机制有待厘清｜大流行手记（12月28日）](https://m.caixin.com/m/2021-12-29/101823371.html)
 - [【武汉肺炎防疫全纪录(财新网)】云南安宁市报告1例本土确诊-西双版纳传播链条已关联2省3地](https://m.caixin.com/m/2021-12-28/101823205.html)
-- [【武汉肺炎防疫全纪录(财新网)】西安疫情源头传播链未明-机场空调是否是突破口？](https://companies.caixin.com/m/2021-12-28/101823293.html)
 - [......【查看更多】......](./details/tags/other.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

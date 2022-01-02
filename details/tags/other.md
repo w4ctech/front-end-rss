@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-01-02 09:44:03。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-01-02 09:56:01。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -6,6 +6,7 @@
 
 
 - [2022-01-02-1月1日全国新增新冠191例-三省份本土131例](https://m.caixin.com/m/2022-01-02/101825124.html) 
+- [2022-01-02-【境内疫情观察】全国新增131例本土病例（1月1日）](https://database.caixin.com/m/2022-01-02/101825198.html) 
 - [2022-01-02-南非Omicron浪潮或已见顶-印度担忧第三波疫情丨大流行手记（1月1日）](https://m.caixin.com/m/2022-01-02/101825115.html) 
 - [2022-01-01-​宁波市新增1例确诊-北仑区全区封闭](https://m.caixin.com/m/2022-01-01/101825089.html) 
 - [2022-01-01-最新海外疫情：新冠感染超2.87亿-累计接种新冠疫苗超91.17亿剂次](https://m.caixin.com/m/2022-01-01/101825017.html) 
@@ -1539,6 +1540,7 @@
 - [2021-12-31-科技爱好者周刊（第-190-期）：产品化思维](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-190.html) 
 - [2021-12-24-科技爱好者周刊（第-189-期）：下一个内卷的行业](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-189.html) 
 - [2021-12-17-科技爱好者周刊（第-188-期）：音乐是反社交](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-188.html) 
+- [2022-01-02-关于组网架构拓扑图的绘制问题](https://www.v2ex.com/t/825809) 
 - [2022-01-02-2021-习惯总结](https://www.v2ex.com/t/825807) 
 - [2022-01-02-想在公司电脑上架个-openvpn-然后家里连过去办公，目前碰到一些困难](https://www.v2ex.com/t/825806) 
 - [2022-01-02-手臂的弯曲角度？](https://www.v2ex.com/t/825805) 
@@ -1597,13 +1599,13 @@
 - [2022-01-02-软链接&硬链接在前端中的应用](https://toutiao.io/k/5u2fiq6) 
 - [2022-01-02-数仓建模—宽表的设计](https://toutiao.io/k/7ounyz2) 
 - [2022-01-02-推荐-登录态-&-SSO](https://toutiao.io/k/vjcw3vh) 
-- [2022-01-02-推荐-快速找出redis大key删除](https://toutiao.io/k/yncwv3k) 
+- [2022-01-02-推荐-小心陷入-MySQL-索引的坑](https://toutiao.io/k/gucqkq4) 
+- [2022-01-02-推荐-插件式可扩展架构设计心得](https://toutiao.io/k/w43usss) 
+- [2022-01-02-推荐-白话linux操作系统原理](https://toutiao.io/k/zgc47l7) 
+- [2022-01-02-推荐-我做系统架构的一些原则](https://toutiao.io/k/vlt0zc9) 
+- [2022-01-02-推荐-再见-Typora！推荐一个-2.3-万-Star-的开源-Markdown-编辑器](https://toutiao.io/k/ol8ule0) 
 - [2022-01-02-推荐-WhatsApp系统架构](https://toutiao.io/k/7dt7oe2) 
 - [2022-01-02-推荐-从0开始设计Twitter系统架构](https://toutiao.io/k/3fie9ar) 
-- [2022-01-02-推荐-再见-Typora！推荐一个-2.3-万-Star-的开源-Markdown-编辑器](https://toutiao.io/k/ol8ule0) 
-- [2022-01-02-推荐-聊聊spring事务失效的12种场景，太坑了](https://toutiao.io/k/uf6yk96) 
-- [2022-01-02-推荐-我做系统架构的一些原则](https://toutiao.io/k/vlt0zc9) 
-- [2022-01-02-推荐-白话linux操作系统原理](https://toutiao.io/k/zgc47l7) 
-- [2022-01-02-推荐-插件式可扩展架构设计心得](https://toutiao.io/k/w43usss) 
 - [2022-01-02-推荐-分布式链路追踪在字节跳动的实践](https://toutiao.io/k/hkc5fd7) 
-- [2022-01-02-推荐-小心陷入-MySQL-索引的坑](https://toutiao.io/k/gucqkq4) 
+- [2022-01-02-推荐-聊聊spring事务失效的12种场景，太坑了](https://toutiao.io/k/uf6yk96) 
+- [2022-01-02-推荐-快速找出redis大key删除](https://toutiao.io/k/yncwv3k) 

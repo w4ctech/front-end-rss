@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-01-02 09:44:03。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-01-02 09:56:01。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -69,11 +69,14 @@
 
 
 - [【武汉肺炎防疫全纪录(财新网)】2022-01-02-1月1日全国新增新冠191例-三省份本土131例](https://m.caixin.com/m/2022-01-02/101825124.html) 
+- [【武汉肺炎防疫全纪录(财新网)】2022-01-02-【境内疫情观察】全国新增131例本土病例（1月1日）](https://database.caixin.com/m/2022-01-02/101825198.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2022-01-02-南非Omicron浪潮或已见顶-印度担忧第三波疫情丨大流行手记（1月1日）](https://m.caixin.com/m/2022-01-02/101825115.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2022-01-01-​宁波市新增1例确诊-北仑区全区封闭](https://m.caixin.com/m/2022-01-01/101825089.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2022-01-01-最新海外疫情：新冠感染超2.87亿-累计接种新冠疫苗超91.17亿剂次](https://m.caixin.com/m/2022-01-01/101825017.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2022-01-01-【境内疫情观察】陕西新增174例本土病例（12月31日）](https://database.caixin.com/m/2022-01-01/101825023.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2022-01-01-英国重启临时医院，多国医疗系统承压｜大流行手记（12月31日）](https://m.caixin.com/m/2022-01-01/101824902.html) 
+- [【V2EX】2022-01-02-关于组网架构拓扑图的绘制问题](https://www.v2ex.com/t/825809) 
+- [【V2EX】2022-01-02-docker-build-和-docker-run](https://www.v2ex.com/t/825808) 
 - [【V2EX】2022-01-02-2021-习惯总结](https://www.v2ex.com/t/825807) 
 - [【V2EX】2022-01-02-想在公司电脑上架个-openvpn-然后家里连过去办公，目前碰到一些困难](https://www.v2ex.com/t/825806) 
 - [【V2EX】2022-01-02-手臂的弯曲角度？](https://www.v2ex.com/t/825805) 
@@ -114,7 +117,6 @@
 - [【V2EX】2022-01-02-分享一个自己写的命令行版的-Kodi-刮削工具](https://www.v2ex.com/t/825762) 
 - [【V2EX】2022-01-02-偷懒求个-m1-mba-软件安装指南](https://www.v2ex.com/t/825761) 
 - [【V2EX】2022-01-02-业主想委托管理出租房屋，北京哪家好？](https://www.v2ex.com/t/825760) 
-- [【V2EX】2022-01-02-谷歌浏览器如何像-DEBUG-一样发送请求-or-或者通过某些软件来实现网页请求的-DEBUG-模式?](https://www.v2ex.com/t/825758) 
 - [【技术头条】2022-01-02-TDD与瀑布式开发-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14873&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-waterfall%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-01-02-容器安全扫描工具推荐-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14872&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fcontainer-scanning-tools-recommendation%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-01-02-推荐学Java——第一个MyBatis程序-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14871&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F5AG_Ef7WAoCk7AluyyJQtQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -144,18 +146,18 @@
 - [【开发者头条】2022-01-02-数仓建模—宽表的设计](https://toutiao.io/k/7ounyz2) 
 - [【开发者头条】2022-01-02-c#-使用webhook推送消息给钉钉机器人](https://toutiao.io/k/w844e4u) 
 - [【开发者头条】2022-01-02-推荐-登录态-&-SSO](https://toutiao.io/k/vjcw3vh) 
-- [【开发者头条】2022-01-02-推荐-快速找出redis大key删除](https://toutiao.io/k/yncwv3k) 
+- [【开发者头条】2022-01-02-推荐-小心陷入-MySQL-索引的坑](https://toutiao.io/k/gucqkq4) 
+- [【开发者头条】2022-01-02-推荐-插件式可扩展架构设计心得](https://toutiao.io/k/w43usss) 
+- [【开发者头条】2022-01-02-推荐-白话linux操作系统原理](https://toutiao.io/k/zgc47l7) 
+- [【开发者头条】2022-01-02-推荐-我做系统架构的一些原则](https://toutiao.io/k/vlt0zc9) 
 - [【开发者头条】2022-01-02-推荐-聊聊-sql-优化的-15-个小技巧](https://toutiao.io/k/a94tblq) 
+- [【开发者头条】2022-01-02-推荐-再见-Typora！推荐一个-2.3-万-Star-的开源-Markdown-编辑器](https://toutiao.io/k/ol8ule0) 
 - [【开发者头条】2022-01-02-推荐-WhatsApp系统架构](https://toutiao.io/k/7dt7oe2) 
 - [【开发者头条】2022-01-02-推荐-从0开始设计Twitter系统架构](https://toutiao.io/k/3fie9ar) 
-- [【开发者头条】2022-01-02-推荐-再见-Typora！推荐一个-2.3-万-Star-的开源-Markdown-编辑器](https://toutiao.io/k/ol8ule0) 
-- [【开发者头条】2022-01-02-推荐-聊聊spring事务失效的12种场景，太坑了](https://toutiao.io/k/uf6yk96) 
-- [【开发者头条】2022-01-02-推荐-我做系统架构的一些原则](https://toutiao.io/k/vlt0zc9) 
-- [【开发者头条】2022-01-02-推荐-熬夜彻底搞懂Cookie-Session-Token-JWT](https://toutiao.io/k/g49lsl5) 
-- [【开发者头条】2022-01-02-推荐-白话linux操作系统原理](https://toutiao.io/k/zgc47l7) 
-- [【开发者头条】2022-01-02-推荐-插件式可扩展架构设计心得](https://toutiao.io/k/w43usss) 
 - [【开发者头条】2022-01-02-推荐-分布式链路追踪在字节跳动的实践](https://toutiao.io/k/hkc5fd7) 
-- [【开发者头条】2022-01-02-推荐-小心陷入-MySQL-索引的坑](https://toutiao.io/k/gucqkq4) 
+- [【开发者头条】2022-01-02-推荐-聊聊spring事务失效的12种场景，太坑了](https://toutiao.io/k/uf6yk96) 
+- [【开发者头条】2022-01-02-推荐-快速找出redis大key删除](https://toutiao.io/k/yncwv3k) 
+- [【开发者头条】2022-01-02-推荐-熬夜彻底搞懂Cookie-Session-Token-JWT](https://toutiao.io/k/g49lsl5) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

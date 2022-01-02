@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-01-02 23:22:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-01-02 23:39:45。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
@@ -12,7 +12,6 @@
 - [2022-01-02-22-届找-Node.js-远程实习/兼职](https://www.v2ex.com/t/825861) 
 - [2022-01-02-对于有着自己不喜欢的行为的人，会天然对他/她不受待见，这算不算是偏见？](https://www.v2ex.com/t/825860) 
 - [2022-01-02-XP-以后似乎很少遇到“该内存不能为-r/w”错误，为什么？](https://www.v2ex.com/t/825859) 
-- [2022-01-02-Python--build-standalone-有用过的么,-看起来似乎就是我到处找的绿色版解释器](https://www.v2ex.com/t/825856) 
 - [2022-01-02-macOS-Monterey-里-Sidecar-设置似乎找不见了，现在开启-Sidecar-的方法异常玄幻。](https://www.v2ex.com/t/825854) 
 - [2022-01-02-Python3-中的-Listint-使用的是-typing-模块么？](https://www.v2ex.com/t/825852) 
 - [2022-01-02-吐槽最近带的一个"新人"](https://www.v2ex.com/t/825849) 

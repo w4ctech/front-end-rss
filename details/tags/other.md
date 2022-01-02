@@ -1,15 +1,13 @@
-:alarm_clock: 更新时间: 2022-01-02 09:56:01。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-01-02 10:13:14。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
 
 
 
-- [2022-01-02-1月1日全国新增新冠191例-三省份本土131例](https://m.caixin.com/m/2022-01-02/101825124.html) 
 - [2022-01-02-【境内疫情观察】全国新增131例本土病例（1月1日）](https://database.caixin.com/m/2022-01-02/101825198.html) 
 - [2022-01-02-南非Omicron浪潮或已见顶-印度担忧第三波疫情丨大流行手记（1月1日）](https://m.caixin.com/m/2022-01-02/101825115.html) 
 - [2022-01-01-​宁波市新增1例确诊-北仑区全区封闭](https://m.caixin.com/m/2022-01-01/101825089.html) 
-- [2022-01-01-最新海外疫情：新冠感染超2.87亿-累计接种新冠疫苗超91.17亿剂次](https://m.caixin.com/m/2022-01-01/101825017.html) 
 - [2022-01-01-【境内疫情观察】陕西新增174例本土病例（12月31日）](https://database.caixin.com/m/2022-01-01/101825023.html) 
 - [2022-01-01-英国重启临时医院，多国医疗系统承压｜大流行手记（12月31日）](https://m.caixin.com/m/2022-01-01/101824902.html) 
 - [2021-12-31-西安累计确诊1277例再启新一轮检测-浙江全域降为低风险](https://m.caixin.com/m/2021-12-31/101824743.html) 
@@ -1540,6 +1538,7 @@
 - [2021-12-31-科技爱好者周刊（第-190-期）：产品化思维](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-190.html) 
 - [2021-12-24-科技爱好者周刊（第-189-期）：下一个内卷的行业](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-189.html) 
 - [2021-12-17-科技爱好者周刊（第-188-期）：音乐是反社交](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-188.html) 
+- [2022-01-02-5500-以内笔记本求推荐](https://www.v2ex.com/t/825810) 
 - [2022-01-02-关于组网架构拓扑图的绘制问题](https://www.v2ex.com/t/825809) 
 - [2022-01-02-2021-习惯总结](https://www.v2ex.com/t/825807) 
 - [2022-01-02-想在公司电脑上架个-openvpn-然后家里连过去办公，目前碰到一些困难](https://www.v2ex.com/t/825806) 
@@ -1575,7 +1574,6 @@
 - [2022-01-02-请问-M1-MacBook-Air-怎么免费用上-PD-虚拟机呀](https://www.v2ex.com/t/825763) 
 - [2022-01-02-分享一个自己写的命令行版的-Kodi-刮削工具](https://www.v2ex.com/t/825762) 
 - [2022-01-02-偷懒求个-m1-mba-软件安装指南](https://www.v2ex.com/t/825761) 
-- [2022-01-02-业主想委托管理出租房屋，北京哪家好？](https://www.v2ex.com/t/825760) 
 - [2022-01-02-TDD与瀑布式开发-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14873&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-waterfall%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-01-02-推荐学Java——第一个MyBatis程序-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14871&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F5AG_Ef7WAoCk7AluyyJQtQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-01-02-推荐学java——Maven初识-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14870&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FPG70YuAL6_brnSbuUv7WUA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1598,14 +1596,14 @@
 - [2022-01-02-推荐-3-个-Python-时序分析神器！](https://toutiao.io/k/y18h18n) 
 - [2022-01-02-软链接&硬链接在前端中的应用](https://toutiao.io/k/5u2fiq6) 
 - [2022-01-02-数仓建模—宽表的设计](https://toutiao.io/k/7ounyz2) 
+- [2022-01-02-推荐-分布式链路追踪在字节跳动的实践](https://toutiao.io/k/hkc5fd7) 
+- [2022-01-02-推荐-插件式可扩展架构设计心得](https://toutiao.io/k/w43usss) 
 - [2022-01-02-推荐-登录态-&-SSO](https://toutiao.io/k/vjcw3vh) 
 - [2022-01-02-推荐-小心陷入-MySQL-索引的坑](https://toutiao.io/k/gucqkq4) 
-- [2022-01-02-推荐-插件式可扩展架构设计心得](https://toutiao.io/k/w43usss) 
-- [2022-01-02-推荐-白话linux操作系统原理](https://toutiao.io/k/zgc47l7) 
-- [2022-01-02-推荐-我做系统架构的一些原则](https://toutiao.io/k/vlt0zc9) 
 - [2022-01-02-推荐-再见-Typora！推荐一个-2.3-万-Star-的开源-Markdown-编辑器](https://toutiao.io/k/ol8ule0) 
-- [2022-01-02-推荐-WhatsApp系统架构](https://toutiao.io/k/7dt7oe2) 
-- [2022-01-02-推荐-从0开始设计Twitter系统架构](https://toutiao.io/k/3fie9ar) 
-- [2022-01-02-推荐-分布式链路追踪在字节跳动的实践](https://toutiao.io/k/hkc5fd7) 
 - [2022-01-02-推荐-聊聊spring事务失效的12种场景，太坑了](https://toutiao.io/k/uf6yk96) 
 - [2022-01-02-推荐-快速找出redis大key删除](https://toutiao.io/k/yncwv3k) 
+- [2022-01-02-推荐-WhatsApp系统架构](https://toutiao.io/k/7dt7oe2) 
+- [2022-01-02-推荐-从0开始设计Twitter系统架构](https://toutiao.io/k/3fie9ar) 
+- [2022-01-02-推荐-白话linux操作系统原理](https://toutiao.io/k/zgc47l7) 
+- [2022-01-02-推荐-我做系统架构的一些原则](https://toutiao.io/k/vlt0zc9) 

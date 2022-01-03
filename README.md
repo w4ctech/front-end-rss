@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-03 14:20:59，:rocket: 更新条数: +1666， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-03 14:38:30，:rocket: 更新条数: +1666， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -66,6 +66,7 @@
 
 
 - [2022-01-03-最新疫情：全国新冠累计确诊102666例-累计接种新冠疫苗超28.47亿剂次](https://m.caixin.com/m/2022-01-03/101825318.html) ![](assets/new.png)  
+- [2022-01-03-河南禹州现2例无症状-全市村庄小区只进不出](https://china.caixin.com/m/2022-01-03/101825358.html) ![](assets/new.png)  
 - [2022-01-03-最新海外疫情：新冠感染超2.89亿-累计接种新冠疫苗超91.8亿剂次](https://m.caixin.com/m/2022-01-03/101825314.html) ![](assets/new.png)  
 - [2022-01-03-【境内疫情观察】全国新增101例本土病例（1月2日）](https://database.caixin.com/m/2022-01-03/101825323.html) ![](assets/new.png)  
 - [2022-01-03-法国缩短隔离期-以色列扩大第四针接种人群｜大流行手记（1月2日）](https://m.caixin.com/m/2022-01-03/101825271.html) ![](assets/new.png)  
@@ -84,7 +85,6 @@
 - [2021-12-31-港大研发新疫苗方案-可防新冠鼻腔感染](https://m.caixin.com/m/2021-12-31/101824312.html) ![](assets/new.png)  
 - [2021-12-30-【境内疫情观察】陕西新增155例本土病例（12月29日）](https://database.caixin.com/m/2021-12-30/101824100.html) ![](assets/new.png)  
 - [2021-12-30-世卫称Omicron和Delta正引发病例海啸-法国单日病例超20万｜大流行手记（12月29日）](https://m.caixin.com/m/2021-12-30/101823894.html) ![](assets/new.png)  
-- [2021-12-29-西安“封城”一周-民生问题待解](https://m.caixin.com/m/2021-12-29/101823813.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -575,7 +575,7 @@
 - [2022-01-03-基于流程管理，提高工作质量和效率](https://toutiao.io/k/ba0xu5a) ![](assets/new.png)  
 - [2022-01-03-Chrome-浏览器全球大翻车？「满-100-减-90」-让-20-多亿用户无网可上！](https://toutiao.io/k/nawzxox) ![](assets/new.png)  
 - [2022-01-03-使用SysFlow和Falco进行云原生可观察性和安全分析](https://toutiao.io/k/sip2adl) ![](assets/new.png)  
-- [2022-01-03-推荐-聊聊spring事务失效的12种场景，太坑了](https://toutiao.io/k/uf6yk96) ![](assets/new.png)  
+- [2022-01-03-推荐-插件式可扩展架构设计心得](https://toutiao.io/k/w43usss) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

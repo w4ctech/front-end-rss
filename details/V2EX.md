@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-01-03 14:20:59。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-01-03 14:38:30。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
@@ -43,4 +43,3 @@
 - [2022-01-03-为什么小红书、拼多多、淘宝等没有发布适配-M1-macOS-的-app-呢？](https://www.v2ex.com/t/825915) 
 - [2022-01-03-你们的-Carplay-使用频率高吗？-carlife-有没必要加盒子升级-CarPlay](https://www.v2ex.com/t/825914) 
 - [2022-01-03-manjaro-安装搜狗-输入法](https://www.v2ex.com/t/825913) 
-- [2022-01-03-今年怎么没听说五福了？](https://www.v2ex.com/t/825912) 

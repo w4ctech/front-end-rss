@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2022-01-03 07:21:51。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-01-03 07:38:33。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-01-03-求个-mdadm-非邮件方式发送告警的办法](https://www.v2ex.com/t/825906) 
 - [2022-01-03-我发现一个-V2EX-的采集站点](https://www.v2ex.com/t/825903) 
 - [2022-01-03-Obsidian-交流，顺便推一下自己做的移动端方案](https://www.v2ex.com/t/825902) 
 - [2022-01-03-关于-“工伤及病历错误”-的问题-真诚请教各位-V-友们](https://www.v2ex.com/t/825901) 

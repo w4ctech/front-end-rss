@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-03 07:54:17，:rocket: 更新条数: +1662， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-03 08:15:53，:rocket: 更新条数: +1660， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,13 +494,14 @@
 </summary>
 
 
+- [2022-01-03-请问这种字幕的风格是啥？](https://www.v2ex.com/t/825910) ![](assets/new.png)  
+- [2022-01-03-在-github-仓库-指出潜在的安全隐患后-被删-issue](https://www.v2ex.com/t/825909) ![](assets/new.png)  
 - [2022-01-03-如何让-Outlook-客户端总是以联机视图查看邮件](https://www.v2ex.com/t/825908) ![](assets/new.png)  
 - [2022-01-03-求个-mdadm-非邮件方式发送告警的办法](https://www.v2ex.com/t/825906) ![](assets/new.png)  
 - [2022-01-03-我发现一个-V2EX-的采集站点](https://www.v2ex.com/t/825903) ![](assets/new.png)  
 - [2022-01-03-Obsidian-交流，顺便推一下自己做的移动端方案](https://www.v2ex.com/t/825902) ![](assets/new.png)  
 - [2022-01-03-关于-“工伤及病历错误”-的问题-真诚请教各位-V-友们](https://www.v2ex.com/t/825901) ![](assets/new.png)  
 - [2022-01-03-送码-MarkGit,-一个简单好用的-iOS-git-客户端和代码编辑器](https://www.v2ex.com/t/825900) ![](assets/new.png)  
-- [2022-01-03-集思广益：打工人做一份应对紧急隔离的常备物资清单](https://www.v2ex.com/t/825899) ![](assets/new.png)  
 - [2022-01-03-关于黑苹果万兆直连黑群晖-finder-中无自动发现万兆链路-smb-服务的问题](https://www.v2ex.com/t/825898) ![](assets/new.png)  
 - [2022-01-03-路由器-lan-口接入冲突问题](https://www.v2ex.com/t/825897) ![](assets/new.png)  
 - [2022-01-03-求-iOS-开关高德地图系统通知权限的捷径](https://www.v2ex.com/t/825896) ![](assets/new.png)  
@@ -513,7 +514,6 @@
 - [2022-01-03-alfred-在-mbp-2022-上失效，查找不到文件。splishot-没问题](https://www.v2ex.com/t/825886) ![](assets/new.png)  
 - [2022-01-03-普联、华为、荣耀三款入门级-AX3000-路由器该怎样选择？](https://www.v2ex.com/t/825884) ![](assets/new.png)  
 - [2022-01-03-HomePod-mini-怎么切换-wifi](https://www.v2ex.com/t/825883) ![](assets/new.png)  
-- [2022-01-03-后端开发-做什么样的业务才对职业生涯有帮助呢？](https://www.v2ex.com/t/825880) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -559,8 +559,8 @@
 - [2022-01-03-2022-年来了！抓紧啦！](https://toutiao.io/k/rf8ezjy) ![](assets/new.png)  
 - [2022-01-03-非常哇塞的-ES读场景、写场景-性能优化指南！你值得拥有！](https://toutiao.io/k/5pjb28q) ![](assets/new.png)  
 - [2022-01-03-关于项目使用组件版本选择的思考](https://toutiao.io/k/6if9mg1) ![](assets/new.png)  
-- [2022-01-03-Apache-Flink-2022-新年大礼包](https://toutiao.io/k/p0ew92i) ![](assets/new.png)  
 - [2022-01-03-手工模拟实现-Docker-容器网络](https://toutiao.io/k/2th2vk6) ![](assets/new.png)  
+- [2022-01-03-Apache-Flink-2022-新年大礼包](https://toutiao.io/k/p0ew92i) ![](assets/new.png)  
 - [2022-01-03-厌倦了C++，CS&ML博士用Rust重写Python扩展，还总结了9条规则](https://toutiao.io/k/rkcg8fm) ![](assets/new.png)  
 - [2022-01-03-Rust社区运营3周年总结](https://toutiao.io/k/iycyu2h) ![](assets/new.png)  
 - [2022-01-03-Docker-大势已去，Podman-即将崛起](https://toutiao.io/k/d7fj4j4) ![](assets/new.png)  
@@ -568,9 +568,9 @@
 - [2022-01-03-当技术重构遇上DDD](https://toutiao.io/k/6w1wqkd) ![](assets/new.png)  
 - [2022-01-03-深度生成模型综述](https://toutiao.io/k/6jxxhxx) ![](assets/new.png)  
 - [2022-01-03-2021-年前端部署的灵魂拷问](https://toutiao.io/k/cboe6hn) ![](assets/new.png)  
+- [2022-01-03-20000字详解数据湖：概念、特征、架构与案例](https://toutiao.io/k/3d7bhq2) ![](assets/new.png)  
 - [2022-01-03-我做的百度飞桨PaddleOCR-.NET调用库](https://toutiao.io/k/00cx9q2) ![](assets/new.png)  
 - [2022-01-03-Chrome-浏览器全球大翻车？「满-100-减-90」-让-20-多亿用户无网可上！](https://toutiao.io/k/nawzxox) ![](assets/new.png)  
-- [2022-01-03-20000字详解数据湖：概念、特征、架构与案例](https://toutiao.io/k/3d7bhq2) ![](assets/new.png)  
 - [2022-01-03-离线强化学习的乐观观点](https://toutiao.io/k/18wywzs) ![](assets/new.png)  
 - [2022-01-03-译-Google-BBR：基于拥塞（而非丢包）的拥塞控制（ACM,-2017）](https://toutiao.io/k/py0268d) ![](assets/new.png)  
 - [2022-01-03-基于流程管理，提高工作质量和效率](https://toutiao.io/k/ba0xu5a) ![](assets/new.png)  

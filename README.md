@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-03 20:13:58，:rocket: 更新条数: +1671， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-03 20:24:14，:rocket: 更新条数: +1671， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -575,7 +575,7 @@
 - [2022-01-03-基于流程管理，提高工作质量和效率](https://toutiao.io/k/ba0xu5a) ![](assets/new.png)  
 - [2022-01-03-Chrome-浏览器全球大翻车？「满-100-减-90」-让-20-多亿用户无网可上！](https://toutiao.io/k/nawzxox) ![](assets/new.png)  
 - [2022-01-03-使用SysFlow和Falco进行云原生可观察性和安全分析](https://toutiao.io/k/sip2adl) ![](assets/new.png)  
-- [2022-01-03-推荐-聊聊spring事务失效的12种场景，太坑了](https://toutiao.io/k/uf6yk96) ![](assets/new.png)  
+- [2022-01-03-推荐-从0开始设计Twitter系统架构](https://toutiao.io/k/3fie9ar) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

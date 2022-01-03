@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-01-03 08:28:04。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-01-03 08:45:51。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -179,6 +179,7 @@
 - [【张鑫旭-鑫空间-鑫生活】flex-end为什么overflow无法滚动及解决方法](https://www.zhangxinxu.com/wordpress/2021/12/flex-end-overflow/)
 - [【张鑫旭-鑫空间-鑫生活】从js-visibilitychange-Safari下无效说开去](https://www.zhangxinxu.com/wordpress/2021/11/js-visibilitychange-pagehide-lifecycle/)
 - [【张鑫旭-鑫空间-鑫生活】JS复制文字到剪切板的极简实现及扩展](https://www.zhangxinxu.com/wordpress/2021/10/js-copy-paste-clipboard/)
+- [【V2EX】为什么小红书、拼多多、淘宝等没有发布适配-M1-macOS-的-app-呢？](https://www.v2ex.com/t/825915)
 - [【V2EX】路由器-lan-口接入冲突问题](https://www.v2ex.com/t/825897)
 - [【V2EX】普联、华为、荣耀三款入门级-AX3000-路由器该怎样选择？](https://www.v2ex.com/t/825884)
 - [【V2EX】想用-nextjs+swr+Material-UI-做个后台管理系统，请问路由守卫和用户鉴权如何做比较好呢？](https://www.v2ex.com/t/825879)
@@ -278,6 +279,7 @@
 - [【武汉肺炎防疫全纪录(财新网)】腺病毒新冠疫苗引安全忧虑-康希诺称未发现血栓病例](https://m.caixin.com/m/2021-04-14/101691086.html)
 - [【武汉肺炎防疫全纪录(财新网)】解药|新冠mRNA疫苗安全性有哪些挑战？](https://m.caixin.com/m/2021-01-08/101648043.html)
 - [【武汉肺炎防疫全纪录(财新网)】大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html)
+- [【V2EX】MVVM-难以调试体现在哪儿？](https://www.v2ex.com/t/825916)
 - [【V2EX】在-github-仓库-指出潜在的安全隐患后-被删-issue](https://www.v2ex.com/t/825909)
 - [【技术头条】容器安全扫描工具推荐-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14872&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fcontainer-scanning-tools-recommendation%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【开发者头条】Chrome-浏览器全球大翻车？「满-100-减-90」-让-20-多亿用户无网可上！](https://toutiao.io/k/nawzxox)

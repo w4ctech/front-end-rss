@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-03 01:11:30，:rocket: 更新条数: +1648， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-03 02:02:19，:rocket: 更新条数: +1655， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -65,7 +65,8 @@
 </summary>
 
 
-- [2022-01-02-最新疫情：全国新冠累计确诊102505例-累计接种新冠疫苗超28.41亿剂次](https://m.caixin.com/m/2022-01-02/101825212.html) ![](assets/new.png)  
+- [2022-01-03-1月2日全国新增新冠161例-本土陕西92例浙江9例](https://m.caixin.com/m/2022-01-03/101825275.html) ![](assets/new.png)  
+- [2022-01-03-法国缩短隔离期-以色列扩大第四针接种人群｜大流行手记（1月2日）](https://m.caixin.com/m/2022-01-03/101825271.html) ![](assets/new.png)  
 - [2022-01-02-宁波北仑一服装厂现10例确诊-病毒毒株与越南流行变异株相同](https://m.caixin.com/m/2022-01-02/101825239.html) ![](assets/new.png)  
 - [2022-01-02-西安雁塔区委书记被免职-由副市长杨建强兼任](https://china.caixin.com/m/2022-01-02/101825246.html) ![](assets/new.png)  
 - [2022-01-02-最新海外疫情：新冠感染超2.88亿-累计接种新冠疫苗超91.51亿剂次](https://m.caixin.com/m/2022-01-02/101825209.html) ![](assets/new.png)  
@@ -84,7 +85,6 @@
 - [2021-12-30-世卫称Omicron和Delta正引发病例海啸-法国单日病例超20万｜大流行手记（12月29日）](https://m.caixin.com/m/2021-12-30/101823894.html) ![](assets/new.png)  
 - [2021-12-29-西安“封城”一周-民生问题待解](https://m.caixin.com/m/2021-12-29/101823813.html) ![](assets/new.png)  
 - [2021-12-29-西安确诊近千人-阳性病例数开始下降](https://m.caixin.com/m/2021-12-29/101823769.html) ![](assets/new.png)  
-- [2021-12-29-【境内疫情观察】陕西新增151例本土病例（12月28日）](https://database.caixin.com/m/2021-12-29/101823548.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -494,6 +494,7 @@
 </summary>
 
 
+- [2022-01-03-docs.jboss.org-域名为啥无法访问了？想找-hibernate-的文档但是找不到](https://www.v2ex.com/t/825871) ![](assets/new.png)  
 - [2022-01-03-蒙特利尔转码，是读-3-年的-college-还是-13-18-个月的速成班？](https://www.v2ex.com/t/825868) ![](assets/new.png)  
 - [2022-01-03-windows-下有没有统计进程历史资源占用的程序](https://www.v2ex.com/t/825867) ![](assets/new.png)  
 - [2022-01-03-黑群晖不认希捷-2T-硬盘，求助](https://www.v2ex.com/t/825866) ![](assets/new.png)  
@@ -513,7 +514,6 @@
 - [2022-01-02-对于时间的创造性的编码格式-yymmddHHMM](https://www.v2ex.com/t/825844) ![](assets/new.png)  
 - [2022-01-02-跑跑和原神的玩家可以关注一下-popkart.org-论坛](https://www.v2ex.com/t/825841) ![](assets/new.png)  
 - [2022-01-02-小米-10s-值得买吗？买过的说下，想换手机](https://www.v2ex.com/t/825839) ![](assets/new.png)  
-- [2022-01-02-对京东的售后服务“非常失望”](https://www.v2ex.com/t/825838) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -560,22 +560,22 @@
 - [2022-01-03-非常哇塞的-ES读场景、写场景-性能优化指南！你值得拥有！](https://toutiao.io/k/5pjb28q) ![](assets/new.png)  
 - [2022-01-03-关于项目使用组件版本选择的思考](https://toutiao.io/k/6if9mg1) ![](assets/new.png)  
 - [2022-01-03-Apache-Flink-2022-新年大礼包](https://toutiao.io/k/p0ew92i) ![](assets/new.png)  
+- [2022-01-03-手工模拟实现-Docker-容器网络](https://toutiao.io/k/2th2vk6) ![](assets/new.png)  
 - [2022-01-03-Rust社区运营3周年总结](https://toutiao.io/k/iycyu2h) ![](assets/new.png)  
 - [2022-01-03-CabloyJS究竟是一款什么样的框架](https://toutiao.io/k/1tnmzel) ![](assets/new.png)  
 - [2022-01-03-厌倦了C++，CS&ML博士用Rust重写Python扩展，还总结了9条规则](https://toutiao.io/k/rkcg8fm) ![](assets/new.png)  
-- [2022-01-03-手工模拟实现-Docker-容器网络](https://toutiao.io/k/2th2vk6) ![](assets/new.png)  
 - [2022-01-03-深度生成模型综述](https://toutiao.io/k/6jxxhxx) ![](assets/new.png)  
-- [2022-01-03-推荐-登录态-&-SSO](https://toutiao.io/k/vjcw3vh) ![](assets/new.png)  
-- [2022-01-03-推荐-快速找出redis大key删除](https://toutiao.io/k/yncwv3k) ![](assets/new.png)  
-- [2022-01-03-推荐-白话linux操作系统原理](https://toutiao.io/k/zgc47l7) ![](assets/new.png)  
-- [2022-01-03-推荐-聊聊spring事务失效的12种场景，太坑了](https://toutiao.io/k/uf6yk96) ![](assets/new.png)  
-- [2022-01-03-推荐-WhatsApp系统架构](https://toutiao.io/k/7dt7oe2) ![](assets/new.png)  
-- [2022-01-03-推荐-分布式链路追踪在字节跳动的实践](https://toutiao.io/k/hkc5fd7) ![](assets/new.png)  
-- [2022-01-03-推荐-插件式可扩展架构设计心得](https://toutiao.io/k/w43usss) ![](assets/new.png)  
-- [2022-01-03-推荐-再见-Typora！推荐一个-2.3-万-Star-的开源-Markdown-编辑器](https://toutiao.io/k/ol8ule0) ![](assets/new.png)  
+- [2022-01-03-Docker-大势已去，Podman-即将崛起](https://toutiao.io/k/d7fj4j4) ![](assets/new.png)  
+- [2022-01-03-当技术重构遇上DDD](https://toutiao.io/k/6w1wqkd) ![](assets/new.png)  
+- [2022-01-03-20000字详解数据湖：概念、特征、架构与案例](https://toutiao.io/k/3d7bhq2) ![](assets/new.png)  
+- [2022-01-03-Chrome-浏览器全球大翻车？「满-100-减-90」-让-20-多亿用户无网可上！](https://toutiao.io/k/nawzxox) ![](assets/new.png)  
+- [2022-01-03-我做的百度飞桨PaddleOCR-.NET调用库](https://toutiao.io/k/00cx9q2) ![](assets/new.png)  
+- [2022-01-03-2021-年前端部署的灵魂拷问](https://toutiao.io/k/cboe6hn) ![](assets/new.png)  
 - [2022-01-03-推荐-小心陷入-MySQL-索引的坑](https://toutiao.io/k/gucqkq4) ![](assets/new.png)  
-- [2022-01-03-推荐-熬夜彻底搞懂Cookie-Session-Token-JWT](https://toutiao.io/k/g49lsl5) ![](assets/new.png)  
-- [2022-01-03-推荐-从0开始设计Twitter系统架构](https://toutiao.io/k/3fie9ar) ![](assets/new.png)  
+- [2022-01-03-推荐-插件式可扩展架构设计心得](https://toutiao.io/k/w43usss) ![](assets/new.png)  
+- [2022-01-03-推荐-分布式链路追踪在字节跳动的实践](https://toutiao.io/k/hkc5fd7) ![](assets/new.png)  
+- [2022-01-03-推荐-登录态-&-SSO](https://toutiao.io/k/vjcw3vh) ![](assets/new.png)  
+- [2022-01-03-推荐-WhatsApp系统架构](https://toutiao.io/k/7dt7oe2) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

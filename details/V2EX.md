@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-01-03 10:14:02。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-01-03 10:25:42。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
@@ -40,5 +40,3 @@
 - [2022-01-03-alfred-在-mbp-2022-上失效，查找不到文件。splishot-没问题](https://www.v2ex.com/t/825886) 
 - [2022-01-03-普联、华为、荣耀三款入门级-AX3000-路由器该怎样选择？](https://www.v2ex.com/t/825884) 
 - [2022-01-03-HomePod-mini-怎么切换-wifi](https://www.v2ex.com/t/825883) 
-- [2022-01-03-后端开发-做什么样的业务才对职业生涯有帮助呢？](https://www.v2ex.com/t/825880) 
-- [2022-01-03-想用-nextjs+swr+Material-UI-做个后台管理系统，请问路由守卫和用户鉴权如何做比较好呢？](https://www.v2ex.com/t/825879) 

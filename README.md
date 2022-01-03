@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-03 13:00:06，:rocket: 更新条数: +1664， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-03 13:12:31，:rocket: 更新条数: +1664， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,10 @@
 </summary>
 
 
+- [2022-01-03-毕业十年一点感想](https://www.v2ex.com/t/825952) ![](assets/new.png)  
+- [2022-01-03-感觉变得有点社恐了](https://www.v2ex.com/t/825951) ![](assets/new.png)  
+- [2022-01-03-最近或者年初还有远程的工作机会吗](https://www.v2ex.com/t/825950) ![](assets/new.png)  
+- [2022-01-03-没有-macOS-设备，如何以最低成本调试命令行程序在-macOS-上的-Bug？](https://www.v2ex.com/t/825949) ![](assets/new.png)  
 - [2022-01-03-苏州/杭州/上海，求推荐专业出售滑雪装备的店铺？](https://www.v2ex.com/t/825948) ![](assets/new.png)  
 - [2022-01-03-生成自己的豆瓣电影/音乐/图书封面墙](https://www.v2ex.com/t/825947) ![](assets/new.png)  
 - [2022-01-03-老哥们，看看我这-3080-装机配置是否合适](https://www.v2ex.com/t/825946) ![](assets/new.png)  
@@ -510,10 +514,6 @@
 - [2022-01-03-源服务器的-iptables-能检测到-cdn-反代后的真实用户-ip-吗？](https://www.v2ex.com/t/825931) ![](assets/new.png)  
 - [2022-01-03-分享个半成品-lazyform-懒人表单生成组件vue](https://www.v2ex.com/t/825927) ![](assets/new.png)  
 - [2022-01-03-关于-unity-的-iL2cpp-逆向](https://www.v2ex.com/t/825926) ![](assets/new.png)  
-- [2022-01-03-求推荐一个好用的-iPhone-单词本](https://www.v2ex.com/t/825925) ![](assets/new.png)  
-- [2022-01-03-macbook-air-8g/256gb，-PDD-百亿补贴，最低-5995-能冲吗？](https://www.v2ex.com/t/825924) ![](assets/new.png)  
-- [2022-01-03-M1Pro-播放-8K-60FPS-HDR-出现严重卡顿](https://www.v2ex.com/t/825923) ![](assets/new.png)  
-- [2022-01-03-如果所有人都开禁用搜索引擎重定向的插件，搜索引擎是不是就没那么好用了](https://www.v2ex.com/t/825922) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -565,9 +565,9 @@
 - [2022-01-03-Docker-大势已去，Podman-即将崛起](https://toutiao.io/k/d7fj4j4) ![](assets/new.png)  
 - [2022-01-03-2021-年前端部署的灵魂拷问](https://toutiao.io/k/cboe6hn) ![](assets/new.png)  
 - [2022-01-03-厌倦了C++，CS&ML博士用Rust重写Python扩展，还总结了9条规则](https://toutiao.io/k/rkcg8fm) ![](assets/new.png)  
+- [2022-01-03-20000字详解数据湖：概念、特征、架构与案例](https://toutiao.io/k/3d7bhq2) ![](assets/new.png)  
 - [2022-01-03-Rust社区运营3周年总结](https://toutiao.io/k/iycyu2h) ![](assets/new.png)  
 - [2022-01-03-CabloyJS究竟是一款什么样的框架](https://toutiao.io/k/1tnmzel) ![](assets/new.png)  
-- [2022-01-03-20000字详解数据湖：概念、特征、架构与案例](https://toutiao.io/k/3d7bhq2) ![](assets/new.png)  
 - [2022-01-03-深度生成模型综述](https://toutiao.io/k/6jxxhxx) ![](assets/new.png)  
 - [2022-01-03-我做的百度飞桨PaddleOCR-.NET调用库](https://toutiao.io/k/00cx9q2) ![](assets/new.png)  
 - [2022-01-03-离线强化学习的乐观观点](https://toutiao.io/k/18wywzs) ![](assets/new.png)  
@@ -575,7 +575,7 @@
 - [2022-01-03-Chrome-浏览器全球大翻车？「满-100-减-90」-让-20-多亿用户无网可上！](https://toutiao.io/k/nawzxox) ![](assets/new.png)  
 - [2022-01-03-基于流程管理，提高工作质量和效率](https://toutiao.io/k/ba0xu5a) ![](assets/new.png)  
 - [2022-01-03-使用SysFlow和Falco进行云原生可观察性和安全分析](https://toutiao.io/k/sip2adl) ![](assets/new.png)  
-- [2022-01-03-推荐-聊聊-sql-优化的-15-个小技巧](https://toutiao.io/k/a94tblq) ![](assets/new.png)  
+- [2022-01-03-推荐-从0开始设计Twitter系统架构](https://toutiao.io/k/3fie9ar) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

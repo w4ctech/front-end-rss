@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-03 05:54:33，:rocket: 更新条数: +1653， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-03 06:16:01，:rocket: 更新条数: +1658， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,8 @@
 </summary>
 
 
+- [2022-01-03-真无线蓝牙降噪耳机求推荐](https://www.v2ex.com/t/825894) ![](assets/new.png)  
+- [2022-01-03-我发现，-b-站-app-后台播放视频时，仍然下载画面+声音；而-youtube-后台时，只下载声音](https://www.v2ex.com/t/825892) ![](assets/new.png)  
 - [2022-01-03-如何实现-iOS/macOS-设备通过蓝牙控制-Android-设备的热点开关？](https://www.v2ex.com/t/825891) ![](assets/new.png)  
 - [2022-01-03-有没有什么方法能让-F1F2-不在控制亮度，但是又不影响-F7-F12-的媒体控制的功能？](https://www.v2ex.com/t/825889) ![](assets/new.png)  
 - [2022-01-03-你们的小米手机有没有出现过这样的，屏幕会显示诡异的红色的问题？](https://www.v2ex.com/t/825888) ![](assets/new.png)  
@@ -512,8 +514,6 @@
 - [2022-01-03-蒙特利尔转码，是读-3-年的-college-还是-13-18-个月的速成班？](https://www.v2ex.com/t/825868) ![](assets/new.png)  
 - [2022-01-03-windows-下有没有统计进程历史资源占用的程序](https://www.v2ex.com/t/825867) ![](assets/new.png)  
 - [2022-01-03-黑群晖不认希捷-2T-硬盘，求助](https://www.v2ex.com/t/825866) ![](assets/new.png)  
-- [2022-01-02-老生常谈了，-macOS-为啥越来越慢。Windows-也这样吗？](https://www.v2ex.com/t/825865) ![](assets/new.png)  
-- [2022-01-02-go/-PHP-/django--Python-框架有类似-wordpress-这样完善的生态吗？](https://www.v2ex.com/t/825864) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -571,11 +571,11 @@
 - [2022-01-03-2021-年前端部署的灵魂拷问](https://toutiao.io/k/cboe6hn) ![](assets/new.png)  
 - [2022-01-03-20000字详解数据湖：概念、特征、架构与案例](https://toutiao.io/k/3d7bhq2) ![](assets/new.png)  
 - [2022-01-03-我做的百度飞桨PaddleOCR-.NET调用库](https://toutiao.io/k/00cx9q2) ![](assets/new.png)  
-- [2022-01-03-推荐-插件式可扩展架构设计心得](https://toutiao.io/k/w43usss) ![](assets/new.png)  
-- [2022-01-03-推荐-再见-Typora！推荐一个-2.3-万-Star-的开源-Markdown-编辑器](https://toutiao.io/k/ol8ule0) ![](assets/new.png)  
-- [2022-01-03-推荐-聊聊spring事务失效的12种场景，太坑了](https://toutiao.io/k/uf6yk96) ![](assets/new.png)  
-- [2022-01-03-推荐-聊聊-sql-优化的-15-个小技巧](https://toutiao.io/k/a94tblq) ![](assets/new.png)  
-- [2022-01-03-推荐-快速找出redis大key删除](https://toutiao.io/k/yncwv3k) ![](assets/new.png)  
+- [2022-01-03-离线强化学习的乐观观点](https://toutiao.io/k/18wywzs) ![](assets/new.png)  
+- [2022-01-03-译-Google-BBR：基于拥塞（而非丢包）的拥塞控制（ACM,-2017）](https://toutiao.io/k/py0268d) ![](assets/new.png)  
+- [2022-01-03-基于流程管理，提高工作质量和效率](https://toutiao.io/k/ba0xu5a) ![](assets/new.png)  
+- [2022-01-03-使用SysFlow和Falco进行云原生可观察性和安全分析](https://toutiao.io/k/sip2adl) ![](assets/new.png)  
+- [2022-01-03-推荐-白话linux操作系统原理](https://toutiao.io/k/zgc47l7) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

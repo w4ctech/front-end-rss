@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-03 08:15:53，:rocket: 更新条数: +1660， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-03 08:28:04，:rocket: 更新条数: +1660， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,8 @@
 </summary>
 
 
+- [2022-01-03-manjaro-安装搜狗-输入法](https://www.v2ex.com/t/825913) ![](assets/new.png)  
+- [2022-01-03-今年怎么没听说五福了？](https://www.v2ex.com/t/825912) ![](assets/new.png)  
 - [2022-01-03-请问这种字幕的风格是啥？](https://www.v2ex.com/t/825910) ![](assets/new.png)  
 - [2022-01-03-在-github-仓库-指出潜在的安全隐患后-被删-issue](https://www.v2ex.com/t/825909) ![](assets/new.png)  
 - [2022-01-03-如何让-Outlook-客户端总是以联机视图查看邮件](https://www.v2ex.com/t/825908) ![](assets/new.png)  
@@ -512,8 +514,6 @@
 - [2022-01-03-你们的小米手机有没有出现过这样的，屏幕会显示诡异的红色的问题？](https://www.v2ex.com/t/825888) ![](assets/new.png)  
 - [2022-01-03-QQ-音乐-APP-默认的"喜欢"歌单很难找到](https://www.v2ex.com/t/825887) ![](assets/new.png)  
 - [2022-01-03-alfred-在-mbp-2022-上失效，查找不到文件。splishot-没问题](https://www.v2ex.com/t/825886) ![](assets/new.png)  
-- [2022-01-03-普联、华为、荣耀三款入门级-AX3000-路由器该怎样选择？](https://www.v2ex.com/t/825884) ![](assets/new.png)  
-- [2022-01-03-HomePod-mini-怎么切换-wifi](https://www.v2ex.com/t/825883) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -564,8 +564,8 @@
 - [2022-01-03-厌倦了C++，CS&ML博士用Rust重写Python扩展，还总结了9条规则](https://toutiao.io/k/rkcg8fm) ![](assets/new.png)  
 - [2022-01-03-Rust社区运营3周年总结](https://toutiao.io/k/iycyu2h) ![](assets/new.png)  
 - [2022-01-03-Docker-大势已去，Podman-即将崛起](https://toutiao.io/k/d7fj4j4) ![](assets/new.png)  
-- [2022-01-03-CabloyJS究竟是一款什么样的框架](https://toutiao.io/k/1tnmzel) ![](assets/new.png)  
 - [2022-01-03-当技术重构遇上DDD](https://toutiao.io/k/6w1wqkd) ![](assets/new.png)  
+- [2022-01-03-CabloyJS究竟是一款什么样的框架](https://toutiao.io/k/1tnmzel) ![](assets/new.png)  
 - [2022-01-03-深度生成模型综述](https://toutiao.io/k/6jxxhxx) ![](assets/new.png)  
 - [2022-01-03-2021-年前端部署的灵魂拷问](https://toutiao.io/k/cboe6hn) ![](assets/new.png)  
 - [2022-01-03-20000字详解数据湖：概念、特征、架构与案例](https://toutiao.io/k/3d7bhq2) ![](assets/new.png)  
@@ -575,7 +575,7 @@
 - [2022-01-03-译-Google-BBR：基于拥塞（而非丢包）的拥塞控制（ACM,-2017）](https://toutiao.io/k/py0268d) ![](assets/new.png)  
 - [2022-01-03-基于流程管理，提高工作质量和效率](https://toutiao.io/k/ba0xu5a) ![](assets/new.png)  
 - [2022-01-03-使用SysFlow和Falco进行云原生可观察性和安全分析](https://toutiao.io/k/sip2adl) ![](assets/new.png)  
-- [2022-01-03-推荐-小心陷入-MySQL-索引的坑](https://toutiao.io/k/gucqkq4) ![](assets/new.png)  
+- [2022-01-03-推荐-WhatsApp系统架构](https://toutiao.io/k/7dt7oe2) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

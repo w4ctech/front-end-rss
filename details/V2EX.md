@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2022-01-03 08:15:53。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-01-03 08:28:04。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-01-03-manjaro-安装搜狗-输入法](https://www.v2ex.com/t/825913) 
+- [2022-01-03-今年怎么没听说五福了？](https://www.v2ex.com/t/825912) 
 - [2022-01-03-请问这种字幕的风格是啥？](https://www.v2ex.com/t/825910) 
 - [2022-01-03-在-github-仓库-指出潜在的安全隐患后-被删-issue](https://www.v2ex.com/t/825909) 
 - [2022-01-03-如何让-Outlook-客户端总是以联机视图查看邮件](https://www.v2ex.com/t/825908) 
@@ -38,5 +40,3 @@
 - [2022-01-03-黑群晖不认希捷-2T-硬盘，求助](https://www.v2ex.com/t/825866) 
 - [2022-01-02-老生常谈了，-macOS-为啥越来越慢。Windows-也这样吗？](https://www.v2ex.com/t/825865) 
 - [2022-01-02-go/-PHP-/django--Python-框架有类似-wordpress-这样完善的生态吗？](https://www.v2ex.com/t/825864) 
-- [2022-01-02-老生常谈了，-iOS-到底有没有后台](https://www.v2ex.com/t/825863) 
-- [2022-01-02-大佬们,-自建完-Synapse-发现语音呼叫在大部分时候连接都非常慢.](https://www.v2ex.com/t/825862) 

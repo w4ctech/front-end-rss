@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-03 18:50:19，:rocket: 更新条数: +1670， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-03 19:11:06，:rocket: 更新条数: +1670， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,7 @@
 </summary>
 
 
+- [2022-01-03-请问-MacOS-上有没有类似安卓上的-FolderSyncPro-的-app?](https://www.v2ex.com/t/825981) ![](assets/new.png)  
 - [2022-01-03-远程全职或兼职-美国创业公司招聘-Python-程序员](https://www.v2ex.com/t/825980) ![](assets/new.png)  
 - [2022-01-03-有没有提了秦-dmi-的车主，使用感受怎么样？](https://www.v2ex.com/t/825979) ![](assets/new.png)  
 - [2022-01-03-Python-,-JS-等动态语言，要规范数据类型，为什么不加个前缀统一呢？](https://www.v2ex.com/t/825978) ![](assets/new.png)  
@@ -513,7 +514,6 @@
 - [2022-01-03-idea-可以装-go、-PHP-、web-插件支持-go/-PHP-/web-所以是不是买-idea-是最划算的](https://www.v2ex.com/t/825964) ![](assets/new.png)  
 - [2022-01-03-gorm-在用-JOIN-时,-怎么不让其他的条件给加进来](https://www.v2ex.com/t/825963) ![](assets/new.png)  
 - [2022-01-03-请问有没有与日历挂钩的-todo-list-软件？](https://www.v2ex.com/t/825960) ![](assets/new.png)  
-- [2022-01-03-请教做一个定向的搜索引擎都有什么开源的框架可以使用呢？](https://www.v2ex.com/t/825958) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -575,7 +575,7 @@
 - [2022-01-03-基于流程管理，提高工作质量和效率](https://toutiao.io/k/ba0xu5a) ![](assets/new.png)  
 - [2022-01-03-Chrome-浏览器全球大翻车？「满-100-减-90」-让-20-多亿用户无网可上！](https://toutiao.io/k/nawzxox) ![](assets/new.png)  
 - [2022-01-03-使用SysFlow和Falco进行云原生可观察性和安全分析](https://toutiao.io/k/sip2adl) ![](assets/new.png)  
-- [2022-01-03-推荐-再见-Typora！推荐一个-2.3-万-Star-的开源-Markdown-编辑器](https://toutiao.io/k/ol8ule0) ![](assets/new.png)  
+- [2022-01-03-推荐-快速找出redis大key删除](https://toutiao.io/k/yncwv3k) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

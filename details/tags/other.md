@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-01-03 14:54:39。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-01-03 15:13:16。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -6,7 +6,7 @@
 
 
 - [2022-01-03-最新疫情：全国新冠累计确诊102666例-累计接种新冠疫苗超28.47亿剂次](https://m.caixin.com/m/2022-01-03/101825318.html) 
-- [2022-01-03-河南禹州现2例无症状-全市村庄小区只进不出](https://china.caixin.com/m/2022-01-03/101825358.html) 
+- [2022-01-03-河南禹州现3例无症状-所有居民居家隔离](https://china.caixin.com/m/2022-01-03/101825358.html) 
 - [2022-01-03-最新海外疫情：新冠感染超2.89亿-累计接种新冠疫苗超91.8亿剂次](https://m.caixin.com/m/2022-01-03/101825314.html) 
 - [2022-01-03-【境内疫情观察】全国新增101例本土病例（1月2日）](https://database.caixin.com/m/2022-01-03/101825323.html) 
 - [2022-01-03-法国缩短隔离期-以色列扩大第四针接种人群｜大流行手记（1月2日）](https://m.caixin.com/m/2022-01-03/101825271.html) 
@@ -1545,6 +1545,9 @@
 - [2021-12-31-科技爱好者周刊（第-190-期）：产品化思维](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-190.html) 
 - [2021-12-24-科技爱好者周刊（第-189-期）：下一个内卷的行业](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-189.html) 
 - [2021-12-17-科技爱好者周刊（第-188-期）：音乐是反社交](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-188.html) 
+- [2022-01-03-不懂-iPad-各型号，求推荐](https://www.v2ex.com/t/825967) 
+- [2022-01-03-网站突然无法访问，且提示-no-referrer-when-downgrade，可能是什么原因导致的？](https://www.v2ex.com/t/825966) 
+- [2022-01-03-Stick-Fight-自动瞄准](https://www.v2ex.com/t/825965) 
 - [2022-01-03-idea-可以装-go、-PHP-、web-插件支持-go/-PHP-/web-所以是不是买-idea-是最划算的](https://www.v2ex.com/t/825964) 
 - [2022-01-03-gorm-在用-JOIN-时,-怎么不让其他的条件给加进来](https://www.v2ex.com/t/825963) 
 - [2022-01-03-请问有没有与日历挂钩的-todo-list-软件？](https://www.v2ex.com/t/825960) 
@@ -1604,14 +1607,14 @@
 - [2022-01-03-译-Google-BBR：基于拥塞（而非丢包）的拥塞控制（ACM,-2017）](https://toutiao.io/k/py0268d) 
 - [2022-01-03-基于流程管理，提高工作质量和效率](https://toutiao.io/k/ba0xu5a) 
 - [2022-01-03-推荐-WhatsApp系统架构](https://toutiao.io/k/7dt7oe2) 
-- [2022-01-03-推荐-白话linux操作系统原理](https://toutiao.io/k/zgc47l7) 
-- [2022-01-03-推荐-快速找出redis大key删除](https://toutiao.io/k/yncwv3k) 
-- [2022-01-03-推荐-从0开始设计Twitter系统架构](https://toutiao.io/k/3fie9ar) 
-- [2022-01-03-推荐-聊聊spring事务失效的12种场景，太坑了](https://toutiao.io/k/uf6yk96) 
-- [2022-01-03-推荐-分布式链路追踪在字节跳动的实践](https://toutiao.io/k/hkc5fd7) 
 - [2022-01-03-推荐-登录态-&-SSO](https://toutiao.io/k/vjcw3vh) 
-- [2022-01-03-推荐-我做系统架构的一些原则](https://toutiao.io/k/vlt0zc9) 
+- [2022-01-03-推荐-聊聊spring事务失效的12种场景，太坑了](https://toutiao.io/k/uf6yk96) 
+- [2022-01-03-推荐-白话linux操作系统原理](https://toutiao.io/k/zgc47l7) 
 - [2022-01-03-推荐-画架构图的神器](https://toutiao.io/k/4773s9p) 
-- [2022-01-03-推荐-再见-Typora！推荐一个-2.3-万-Star-的开源-Markdown-编辑器](https://toutiao.io/k/ol8ule0) 
-- [2022-01-03-推荐-小心陷入-MySQL-索引的坑](https://toutiao.io/k/gucqkq4) 
+- [2022-01-03-推荐-我做系统架构的一些原则](https://toutiao.io/k/vlt0zc9) 
 - [2022-01-03-推荐-插件式可扩展架构设计心得](https://toutiao.io/k/w43usss) 
+- [2022-01-03-推荐-分布式链路追踪在字节跳动的实践](https://toutiao.io/k/hkc5fd7) 
+- [2022-01-03-推荐-从0开始设计Twitter系统架构](https://toutiao.io/k/3fie9ar) 
+- [2022-01-03-推荐-小心陷入-MySQL-索引的坑](https://toutiao.io/k/gucqkq4) 
+- [2022-01-03-推荐-快速找出redis大key删除](https://toutiao.io/k/yncwv3k) 
+- [2022-01-03-推荐-再见-Typora！推荐一个-2.3-万-Star-的开源-Markdown-编辑器](https://toutiao.io/k/ol8ule0) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-03 17:04:09，:rocket: 更新条数: +1667， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-03 17:13:59，:rocket: 更新条数: +1668， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,7 @@
 </summary>
 
 
+- [2022-01-03-Python-,-JS-等动态语言，要规范数据类型，为什么不加个前缀统一呢？](https://www.v2ex.com/t/825978) ![](assets/new.png)  
 - [2022-01-03-行程码挂了](https://www.v2ex.com/t/825977) ![](assets/new.png)  
 - [2022-01-03-用-canvs-做一个小游戏](https://www.v2ex.com/t/825976) ![](assets/new.png)  
 - [2022-01-03-大家的项目几点停服更新？](https://www.v2ex.com/t/825975) ![](assets/new.png)  
@@ -513,7 +514,6 @@
 - [2022-01-03-请教做一个定向的搜索引擎都有什么开源的框架可以使用呢？](https://www.v2ex.com/t/825958) ![](assets/new.png)  
 - [2022-01-03-求推荐一个蓝牙鼠标](https://www.v2ex.com/t/825957) ![](assets/new.png)  
 - [2022-01-03-关于家庭网络多个路由器的管理问题，请大家指教](https://www.v2ex.com/t/825956) ![](assets/new.png)  
-- [2022-01-03-做了一个以文本分享富文本内容的小玩意](https://www.v2ex.com/t/825955) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -575,7 +575,7 @@
 - [2022-01-03-基于流程管理，提高工作质量和效率](https://toutiao.io/k/ba0xu5a) ![](assets/new.png)  
 - [2022-01-03-Chrome-浏览器全球大翻车？「满-100-减-90」-让-20-多亿用户无网可上！](https://toutiao.io/k/nawzxox) ![](assets/new.png)  
 - [2022-01-03-使用SysFlow和Falco进行云原生可观察性和安全分析](https://toutiao.io/k/sip2adl) ![](assets/new.png)  
-- [2022-01-03-推荐-我做系统架构的一些原则](https://toutiao.io/k/vlt0zc9) ![](assets/new.png)  
+- [2022-01-03-推荐-分布式链路追踪在字节跳动的实践](https://toutiao.io/k/hkc5fd7) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

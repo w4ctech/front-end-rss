@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-01-03 05:42:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-01-03 05:54:33。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -78,6 +78,7 @@
 - [【武汉肺炎防疫全纪录(财新网)】2022-01-01-​宁波市新增1例确诊-北仑区全区封闭](https://m.caixin.com/m/2022-01-01/101825089.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2022-01-01-【境内疫情观察】陕西新增174例本土病例（12月31日）](https://database.caixin.com/m/2022-01-01/101825023.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2022-01-01-英国重启临时医院，多国医疗系统承压｜大流行手记（12月31日）](https://m.caixin.com/m/2022-01-01/101824902.html) 
+- [【V2EX】2022-01-03-如何实现-iOS/macOS-设备通过蓝牙控制-Android-设备的热点开关？](https://www.v2ex.com/t/825891) 
 - [【V2EX】2022-01-03-有没有什么方法能让-F1F2-不在控制亮度，但是又不影响-F7-F12-的媒体控制的功能？](https://www.v2ex.com/t/825889) 
 - [【V2EX】2022-01-03-你们的小米手机有没有出现过这样的，屏幕会显示诡异的红色的问题？](https://www.v2ex.com/t/825888) 
 - [【V2EX】2022-01-03-QQ-音乐-APP-默认的"喜欢"歌单很难找到](https://www.v2ex.com/t/825887) 
@@ -109,7 +110,6 @@
 - [【V2EX】2022-01-02-自如的电信宽带降速有人遇到过吗？](https://www.v2ex.com/t/825847) 
 - [【V2EX】2022-01-02-个人网站有没有加密货币支付网关可以直接拿来用的？](https://www.v2ex.com/t/825845) 
 - [【V2EX】2022-01-02-对于时间的创造性的编码格式-yymmddHHMM](https://www.v2ex.com/t/825844) 
-- [【V2EX】2022-01-02-跑跑和原神的玩家可以关注一下-popkart.org-论坛](https://www.v2ex.com/t/825841) 
 - [【技术头条】2022-01-03-TDD与瀑布式开发-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14873&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftdd-waterfall%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-01-03-容器安全扫描工具推荐-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14872&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fcontainer-scanning-tools-recommendation%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-01-03-推荐学Java——第一个MyBatis程序-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14871&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F5AG_Ef7WAoCk7AluyyJQtQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -145,19 +145,19 @@
 - [【开发者头条】2022-01-03-2021-年前端部署的灵魂拷问](https://toutiao.io/k/cboe6hn) 
 - [【开发者头条】2022-01-03-20000字详解数据湖：概念、特征、架构与案例](https://toutiao.io/k/3d7bhq2) 
 - [【开发者头条】2022-01-03-我做的百度飞桨PaddleOCR-.NET调用库](https://toutiao.io/k/00cx9q2) 
-- [【开发者头条】2022-01-03-推荐-聊聊-sql-优化的-15-个小技巧](https://toutiao.io/k/a94tblq) 
-- [【开发者头条】2022-01-03-推荐-分布式链路追踪在字节跳动的实践](https://toutiao.io/k/hkc5fd7) 
-- [【开发者头条】2022-01-03-推荐-聊聊spring事务失效的12种场景，太坑了](https://toutiao.io/k/uf6yk96) 
-- [【开发者头条】2022-01-03-推荐-熬夜彻底搞懂Cookie-Session-Token-JWT](https://toutiao.io/k/g49lsl5) 
-- [【开发者头条】2022-01-03-推荐-白话linux操作系统原理](https://toutiao.io/k/zgc47l7) 
-- [【开发者头条】2022-01-03-推荐-再见-Typora！推荐一个-2.3-万-Star-的开源-Markdown-编辑器](https://toutiao.io/k/ol8ule0) 
-- [【开发者头条】2022-01-03-推荐-快速找出redis大key删除](https://toutiao.io/k/yncwv3k) 
-- [【开发者头条】2022-01-03-推荐-我做系统架构的一些原则](https://toutiao.io/k/vlt0zc9) 
 - [【开发者头条】2022-01-03-推荐-插件式可扩展架构设计心得](https://toutiao.io/k/w43usss) 
+- [【开发者头条】2022-01-03-推荐-再见-Typora！推荐一个-2.3-万-Star-的开源-Markdown-编辑器](https://toutiao.io/k/ol8ule0) 
+- [【开发者头条】2022-01-03-推荐-聊聊spring事务失效的12种场景，太坑了](https://toutiao.io/k/uf6yk96) 
+- [【开发者头条】2022-01-03-推荐-聊聊-sql-优化的-15-个小技巧](https://toutiao.io/k/a94tblq) 
+- [【开发者头条】2022-01-03-推荐-快速找出redis大key删除](https://toutiao.io/k/yncwv3k) 
+- [【开发者头条】2022-01-03-推荐-从0开始设计Twitter系统架构](https://toutiao.io/k/3fie9ar) 
+- [【开发者头条】2022-01-03-推荐-熬夜彻底搞懂Cookie-Session-Token-JWT](https://toutiao.io/k/g49lsl5) 
+- [【开发者头条】2022-01-03-推荐-分布式链路追踪在字节跳动的实践](https://toutiao.io/k/hkc5fd7) 
+- [【开发者头条】2022-01-03-推荐-小心陷入-MySQL-索引的坑](https://toutiao.io/k/gucqkq4) 
 - [【开发者头条】2022-01-03-推荐-登录态-&-SSO](https://toutiao.io/k/vjcw3vh) 
 - [【开发者头条】2022-01-03-推荐-WhatsApp系统架构](https://toutiao.io/k/7dt7oe2) 
-- [【开发者头条】2022-01-03-推荐-从0开始设计Twitter系统架构](https://toutiao.io/k/3fie9ar) 
-- [【开发者头条】2022-01-03-推荐-小心陷入-MySQL-索引的坑](https://toutiao.io/k/gucqkq4) 
+- [【开发者头条】2022-01-03-推荐-我做系统架构的一些原则](https://toutiao.io/k/vlt0zc9) 
+- [【开发者头条】2022-01-03-推荐-白话linux操作系统原理](https://toutiao.io/k/zgc47l7) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

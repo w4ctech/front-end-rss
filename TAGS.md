@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-01-03 15:48:09。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-01-03 16:18:58。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -255,7 +255,6 @@
 
 
 - [【开发者头条】非常哇塞的-ES读场景、写场景-性能优化指南！你值得拥有！](https://toutiao.io/k/5pjb28q)
-- [【开发者头条】推荐-聊聊-sql-优化的-15-个小技巧](https://toutiao.io/k/a94tblq)
 - [......【查看更多】......](./details/tags/optimization.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -283,7 +282,6 @@
 - [【技术头条】容器安全扫描工具推荐-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14872&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fcontainer-scanning-tools-recommendation%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【开发者头条】Chrome-浏览器全球大翻车？「满-100-减-90」-让-20-多亿用户无网可上！](https://toutiao.io/k/nawzxox)
 - [【开发者头条】使用SysFlow和Falco进行云原生可观察性和安全分析](https://toutiao.io/k/sip2adl)
-- [【开发者头条】推荐-熬夜彻底搞懂Cookie-Session-Token-JWT](https://toutiao.io/k/g49lsl5)
 - [......【查看更多】......](./details/tags/browser.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

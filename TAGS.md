@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-01-03 19:54:04。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-01-03 20:13:58。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -183,7 +183,6 @@
 - [【V2EX】Python-,-JS-等动态语言，要规范数据类型，为什么不加个前缀统一呢？](https://www.v2ex.com/t/825978)
 - [【V2EX】两个很普通的无线路由，改成同一个-ssid-和密码，分别放在两个房间里，会漫游吗？](https://www.v2ex.com/t/825970)
 - [【V2EX】关于家庭网络多个路由器的管理问题，请大家指教](https://www.v2ex.com/t/825956)
-- [【V2EX】路由器拨号，时间久了上行就变很慢。重新拨号恢复正常？何故？](https://www.v2ex.com/t/825933)
 - [【开发者头条】关于项目使用组件版本选择的思考](https://toutiao.io/k/6if9mg1)
 - [【开发者头条】CabloyJS究竟是一款什么样的框架](https://toutiao.io/k/1tnmzel)
 - [......【查看更多】......](./details/tags/javascript.md)

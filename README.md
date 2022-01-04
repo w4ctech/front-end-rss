@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-04 03:44:45，:rocket: 更新条数: +1655， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-04 03:56:44，:rocket: 更新条数: +1655， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,12 @@
 </summary>
 
 
+- [2022-01-04-主要做安卓端和-web-前端,想新买个笔记本,纠结买-windows-还是-mac](https://www.v2ex.com/t/826058) ![](assets/new.png)  
+- [2022-01-04-大佬们，前端开发想入手一个新的-mbp，-m1-还是-m1-pro](https://www.v2ex.com/t/826056) ![](assets/new.png)  
+- [2022-01-04-想调查一下大家在工作日的工作饱和度](https://www.v2ex.com/t/826055) ![](assets/new.png)  
+- [2022-01-04-数字人民币钱包（试点版）上架了](https://www.v2ex.com/t/826053) ![](assets/new.png)  
+- [2022-01-04-有青岛的小伙伴吗，联通宽带业务好迷](https://www.v2ex.com/t/826052) ![](assets/new.png)  
+- [2022-01-04-我启动-vue-typescript-admin-template-这个开源项目，报错无解](https://www.v2ex.com/t/826050) ![](assets/new.png)  
 - [2022-01-04-公司开项目总结,为了优化流程,结果被人事开成批斗大会](https://www.v2ex.com/t/826049) ![](assets/new.png)  
 - [2022-01-04-请问有没有什么办法在-F12-的-Network-里，搜索所有请求的头，体，响应头，体里是否包含某个字符串？](https://www.v2ex.com/t/826047) ![](assets/new.png)  
 - [2022-01-04-为何现在网络上认为字节的工作氛围比阿里更好呢？](https://www.v2ex.com/t/826046) ![](assets/new.png)  
@@ -508,12 +514,6 @@
 - [2022-01-04-新人首次使用-typescript-开发项目](https://www.v2ex.com/t/826035) ![](assets/new.png)  
 - [2022-01-04-zfs-snapshot-磁盘空间占用存疑](https://www.v2ex.com/t/826034) ![](assets/new.png)  
 - [2022-01-04-有些网页打不开是什么情况](https://www.v2ex.com/t/826032) ![](assets/new.png)  
-- [2022-01-04-寻-GIS-web-前端和政务信息软件研发工程师（全栈）有缘人](https://www.v2ex.com/t/826031) ![](assets/new.png)  
-- [2022-01-04-领导经常上班的时候问“你今天干什么？”-下班的时候问“你今天都干了什么？”](https://www.v2ex.com/t/826028) ![](assets/new.png)  
-- [2022-01-04-有一个-openVPN-代理服务器网络的问题](https://www.v2ex.com/t/826027) ![](assets/new.png)  
-- [2022-01-04-3-个了，小米牙刷一过保修期就坏，难道真的有魔法？](https://www.v2ex.com/t/826025) ![](assets/new.png)  
-- [2022-01-04-关于失业金](https://www.v2ex.com/t/826024) ![](assets/new.png)  
-- [2022-01-04-Mo.run---汇报我们更新的一些功能，以及后面的方向](https://www.v2ex.com/t/826022) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -567,15 +567,15 @@
 - [2022-01-04-如何提升数据质量？（附实战文档）](https://toutiao.io/k/43uco0q) ![](assets/new.png)  
 - [2022-01-04-2021年安全架构总结以及2022安全方向展望](https://toutiao.io/k/b6onybl) ![](assets/new.png)  
 - [2022-01-04-浅析机器学习算法的应用场景！](https://toutiao.io/k/gim2i7a) ![](assets/new.png)  
-- [2022-01-04-推荐-白话linux操作系统原理](https://toutiao.io/k/zgc47l7) ![](assets/new.png)  
-- [2022-01-04-推荐-2021年美团技术团队最受欢迎的22篇技术文章](https://toutiao.io/k/pjse55y) ![](assets/new.png)  
-- [2022-01-04-推荐-快速找出redis大key删除](https://toutiao.io/k/yncwv3k) ![](assets/new.png)  
-- [2022-01-04-推荐-聊聊spring事务失效的12种场景，太坑了](https://toutiao.io/k/uf6yk96) ![](assets/new.png)  
-- [2022-01-04-推荐-登录态-&-SSO](https://toutiao.io/k/vjcw3vh) ![](assets/new.png)  
-- [2022-01-04-推荐-画架构图的神器](https://toutiao.io/k/4773s9p) ![](assets/new.png)  
 - [2022-01-04-推荐-我做系统架构的一些原则](https://toutiao.io/k/vlt0zc9) ![](assets/new.png)  
 - [2022-01-04-推荐-WhatsApp系统架构](https://toutiao.io/k/7dt7oe2) ![](assets/new.png)  
 - [2022-01-04-推荐-Java-中的5个代码性能提升技巧，最高提升近10倍](https://toutiao.io/k/eyom45a) ![](assets/new.png)  
+- [2022-01-04-推荐-快速找出redis大key删除](https://toutiao.io/k/yncwv3k) ![](assets/new.png)  
+- [2022-01-04-推荐-画架构图的神器](https://toutiao.io/k/4773s9p) ![](assets/new.png)  
+- [2022-01-04-推荐-分布式链路追踪在字节跳动的实践](https://toutiao.io/k/hkc5fd7) ![](assets/new.png)  
+- [2022-01-04-推荐-2021年美团技术团队最受欢迎的22篇技术文章](https://toutiao.io/k/pjse55y) ![](assets/new.png)  
+- [2022-01-04-推荐-再见-Typora！推荐一个-2.3-万-Star-的开源-Markdown-编辑器](https://toutiao.io/k/ol8ule0) ![](assets/new.png)  
+- [2022-01-04-推荐-小心陷入-MySQL-索引的坑](https://toutiao.io/k/gucqkq4) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

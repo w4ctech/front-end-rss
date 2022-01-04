@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-04 23:44:09，:rocket: 更新条数: +1669， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-04 23:56:24，:rocket: 更新条数: +1670， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,7 @@
 </summary>
 
 
+- [2022-01-04-新-XPS-13-设计大改](https://www.v2ex.com/t/826235) ![](assets/new.png)  
 - [2022-01-04-asyncrun-发布六年后的更新](https://www.v2ex.com/t/826234) ![](assets/new.png)  
 - [2022-01-04-有没有想来加拿大留学的朋友](https://www.v2ex.com/t/826233) ![](assets/new.png)  
 - [2022-01-04-小心翼翼：-zerotier-算非法建立信道么](https://www.v2ex.com/t/826232) ![](assets/new.png)  
@@ -513,7 +514,6 @@
 - [2022-01-04-明明性能够用，但总想再搞台高配电脑。心里痒痒的，这是促进-GDP-吧](https://www.v2ex.com/t/826214) ![](assets/new.png)  
 - [2022-01-04-怎么样才能模拟精确模拟手的点击来控制电容开关的台灯](https://www.v2ex.com/t/826213) ![](assets/new.png)  
 - [2022-01-04-macos-设置面板如何添加自定义项目？](https://www.v2ex.com/t/826212) ![](assets/new.png)  
-- [2022-01-04-一次携号转网的经历，回不去了。](https://www.v2ex.com/t/826210) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -574,8 +574,8 @@
 - [2022-01-04-动手实现一个localcache---实现篇](https://toutiao.io/k/jxojxc0) ![](assets/new.png)  
 - [2022-01-04-特斯拉灯光秀指南「GitHub-热点速览-v.22.01」](https://toutiao.io/k/wul5aay) ![](assets/new.png)  
 - [2022-01-04-Flutter基础widgets教程-cupertinoActivityIndicator篇](https://toutiao.io/k/vvmmms3) ![](assets/new.png)  
-- [2022-01-04-推荐-白话linux操作系统原理](https://toutiao.io/k/zgc47l7) ![](assets/new.png)  
-- [2022-01-04-推荐-登录态-&-SSO](https://toutiao.io/k/vjcw3vh) ![](assets/new.png)  
+- [2022-01-04-推荐-从0开始设计Twitter系统架构](https://toutiao.io/k/3fie9ar) ![](assets/new.png)  
+- [2022-01-04-推荐-Java-中的5个代码性能提升技巧，最高提升近10倍](https://toutiao.io/k/eyom45a) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

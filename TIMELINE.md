@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-01-04 19:18:59。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-01-04 19:36:47。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -150,8 +150,8 @@
 - [【开发者头条】2022-01-04-解读数据架构的2021：大数据1.0体系基本建成，但头上仍有几朵乌云](https://toutiao.io/k/up6jeto) 
 - [【开发者头条】2022-01-04-128-python|第三部分：python高级（一）程序结构和异常处理](https://toutiao.io/k/n8l34lf) 
 - [【开发者头条】2022-01-04-2021年安全架构总结以及2022安全方向展望](https://toutiao.io/k/b6onybl) 
-- [【开发者头条】2022-01-04-如何提升数据质量？（附实战文档）](https://toutiao.io/k/43uco0q) 
 - [【开发者头条】2022-01-04-有些程序员，本质是一群羊！](https://toutiao.io/k/37a5hrk) 
+- [【开发者头条】2022-01-04-如何提升数据质量？（附实战文档）](https://toutiao.io/k/43uco0q) 
 - [【开发者头条】2022-01-04-浅析机器学习算法的应用场景！](https://toutiao.io/k/gim2i7a) 
 - [【开发者头条】2022-01-04-卷积神经网络性能优化](https://toutiao.io/k/9uk11oc) 
 - [【开发者头条】2022-01-04-Go-服务进行自动采样性能分析的方案设计与实现](https://toutiao.io/k/2vuouzy) 
@@ -160,19 +160,19 @@
 - [【开发者头条】2022-01-04-动手实现一个localcache---实现篇](https://toutiao.io/k/jxojxc0) 
 - [【开发者头条】2022-01-04-特斯拉灯光秀指南「GitHub-热点速览-v.22.01」](https://toutiao.io/k/wul5aay) 
 - [【开发者头条】2022-01-04-Flutter基础widgets教程-cupertinoActivityIndicator篇](https://toutiao.io/k/vvmmms3) 
-- [【开发者头条】2022-01-04-推荐-画架构图的神器](https://toutiao.io/k/4773s9p) 
-- [【开发者头条】2022-01-04-推荐-登录态-&-SSO](https://toutiao.io/k/vjcw3vh) 
-- [【开发者头条】2022-01-04-推荐-分布式链路追踪在字节跳动的实践](https://toutiao.io/k/hkc5fd7) 
 - [【开发者头条】2022-01-04-推荐-Java-中的5个代码性能提升技巧，最高提升近10倍](https://toutiao.io/k/eyom45a) 
-- [【开发者头条】2022-01-04-推荐-小心陷入-MySQL-索引的坑](https://toutiao.io/k/gucqkq4) 
-- [【开发者头条】2022-01-04-推荐-聊聊spring事务失效的12种场景，太坑了](https://toutiao.io/k/uf6yk96) 
-- [【开发者头条】2022-01-04-推荐-插件式可扩展架构设计心得](https://toutiao.io/k/w43usss) 
+- [【开发者头条】2022-01-04-推荐-分布式链路追踪在字节跳动的实践](https://toutiao.io/k/hkc5fd7) 
+- [【开发者头条】2022-01-04-推荐-再见-Typora！推荐一个-2.3-万-Star-的开源-Markdown-编辑器](https://toutiao.io/k/ol8ule0) 
 - [【开发者头条】2022-01-04-推荐-WhatsApp系统架构](https://toutiao.io/k/7dt7oe2) 
 - [【开发者头条】2022-01-04-推荐-我做系统架构的一些原则](https://toutiao.io/k/vlt0zc9) 
-- [【开发者头条】2022-01-04-推荐-再见-Typora！推荐一个-2.3-万-Star-的开源-Markdown-编辑器](https://toutiao.io/k/ol8ule0) 
+- [【开发者头条】2022-01-04-推荐-2021年美团技术团队最受欢迎的22篇技术文章](https://toutiao.io/k/pjse55y) 
 - [【开发者头条】2022-01-04-推荐-从0开始设计Twitter系统架构](https://toutiao.io/k/3fie9ar) 
 - [【开发者头条】2022-01-04-推荐-白话linux操作系统原理](https://toutiao.io/k/zgc47l7) 
-- [【开发者头条】2022-01-04-推荐-2021年美团技术团队最受欢迎的22篇技术文章](https://toutiao.io/k/pjse55y) 
+- [【开发者头条】2022-01-04-推荐-聊聊spring事务失效的12种场景，太坑了](https://toutiao.io/k/uf6yk96) 
+- [【开发者头条】2022-01-04-推荐-登录态-&-SSO](https://toutiao.io/k/vjcw3vh) 
+- [【开发者头条】2022-01-04-推荐-画架构图的神器](https://toutiao.io/k/4773s9p) 
+- [【开发者头条】2022-01-04-推荐-小心陷入-MySQL-索引的坑](https://toutiao.io/k/gucqkq4) 
+- [【开发者头条】2022-01-04-推荐-插件式可扩展架构设计心得](https://toutiao.io/k/w43usss) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

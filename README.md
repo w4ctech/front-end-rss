@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-04 15:13:49，:rocket: 更新条数: +1668， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-04 15:24:00，:rocket: 更新条数: +1668， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -574,8 +574,8 @@
 - [2022-01-04-动手实现一个localcache---实现篇](https://toutiao.io/k/jxojxc0) ![](assets/new.png)  
 - [2022-01-04-特斯拉灯光秀指南「GitHub-热点速览-v.22.01」](https://toutiao.io/k/wul5aay) ![](assets/new.png)  
 - [2022-01-04-Flutter基础widgets教程-cupertinoActivityIndicator篇](https://toutiao.io/k/vvmmms3) ![](assets/new.png)  
-- [2022-01-04-推荐-白话linux操作系统原理](https://toutiao.io/k/zgc47l7) ![](assets/new.png)  
-- [2022-01-04-推荐-快速找出redis大key删除](https://toutiao.io/k/yncwv3k) ![](assets/new.png)  
+- [2022-01-04-推荐-2021年美团技术团队最受欢迎的22篇技术文章](https://toutiao.io/k/pjse55y) ![](assets/new.png)  
+- [2022-01-04-推荐-聊聊spring事务失效的12种场景，太坑了](https://toutiao.io/k/uf6yk96) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

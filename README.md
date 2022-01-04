@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-04 08:49:09，:rocket: 更新条数: +1668， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-04 09:13:15，:rocket: 更新条数: +1664， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,11 @@
 </summary>
 
 
+- [2022-01-04-杭州内推-外企-ZOOM-大量-HC-招聘-设计类/安全类/音视频/-Java-/iOS/Mac/Go/C++/NPL/大数据&算法/前端/测试岗位](https://www.v2ex.com/t/826146) ![](assets/new.png)  
+- [2022-01-04-ARM-Mac-的一个-bug，-tap-to-click-与按键组合无效](https://www.v2ex.com/t/826144) ![](assets/new.png)  
+- [2022-01-04-Neo4j-图数据库中国团队为你服务](https://www.v2ex.com/t/826142) ![](assets/new.png)  
+- [2022-01-04-iPhone-13-Pro-用了不到半个月屏幕就有几条划痕了](https://www.v2ex.com/t/826140) ![](assets/new.png)  
+- [2022-01-04-新年快乐！-可以讨论一些关于量化私募的小问题~~//^v^\\~~](https://www.v2ex.com/t/826138) ![](assets/new.png)  
 - [2022-01-04-为什么-android/-Java-反射无法获取到私有方法，倒是能获取到-public-的方法](https://www.v2ex.com/t/826137) ![](assets/new.png)  
 - [2022-01-04-一个简单低级的代码逻辑问题](https://www.v2ex.com/t/826136) ![](assets/new.png)  
 - [2022-01-04-k8s-分布式存储](https://www.v2ex.com/t/826135) ![](assets/new.png)  
@@ -509,11 +514,6 @@
 - [2022-01-04-三体-3-中有个剧情疑问，大家瞅瞅，求解](https://www.v2ex.com/t/826118) ![](assets/new.png)  
 - [2022-01-04-6-号线东靖路附近转租，四室一厅，-1900-月付.-距离地铁站（300m-内）非常近。](https://www.v2ex.com/t/826116) ![](assets/new.png)  
 - [2022-01-04-现在国内比较好的黑客马拉松都有哪些？组织黑客马拉松有什么建议](https://www.v2ex.com/t/826115) ![](assets/new.png)  
-- [2022-01-04-2022-年，现在的黑苹果解决方案是什么?](https://www.v2ex.com/t/826113) ![](assets/new.png)  
-- [2022-01-04-求推荐近期值得读的一些书，丰富一下新的一年计划读的书单。](https://www.v2ex.com/t/826112) ![](assets/new.png)  
-- [2022-01-04-如何使用-TeamCode-Tin-快速访问-Jenkins](https://www.v2ex.com/t/826111) ![](assets/new.png)  
-- [2022-01-04-小米似乎-0-扇区厂商代码无法更改，有什么方法](https://www.v2ex.com/t/826110) ![](assets/new.png)  
-- [2022-01-04-笔记本核显，用-2k-分辨率的屏幕，会不会卡。。。如果可以选-24-还是-27-寸更好点？](https://www.v2ex.com/t/826109) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -563,8 +563,8 @@
 - [2022-01-04-阿里数据治理项目启动前的必答三问](https://toutiao.io/k/ghq953s) ![](assets/new.png)  
 - [2022-01-04-解读数据架构的2021：大数据1.0体系基本建成，但头上仍有几朵乌云](https://toutiao.io/k/up6jeto) ![](assets/new.png)  
 - [2022-01-04-128-python|第三部分：python高级（一）程序结构和异常处理](https://toutiao.io/k/n8l34lf) ![](assets/new.png)  
-- [2022-01-04-2021年安全架构总结以及2022安全方向展望](https://toutiao.io/k/b6onybl) ![](assets/new.png)  
 - [2022-01-04-如何提升数据质量？（附实战文档）](https://toutiao.io/k/43uco0q) ![](assets/new.png)  
+- [2022-01-04-2021年安全架构总结以及2022安全方向展望](https://toutiao.io/k/b6onybl) ![](assets/new.png)  
 - [2022-01-04-浅析机器学习算法的应用场景！](https://toutiao.io/k/gim2i7a) ![](assets/new.png)  
 - [2022-01-04-卷积神经网络性能优化](https://toutiao.io/k/9uk11oc) ![](assets/new.png)  
 - [2022-01-04-有些程序员，本质是一群羊！](https://toutiao.io/k/37a5hrk) ![](assets/new.png)  
@@ -572,10 +572,10 @@
 - [2022-01-04-2022，一个长期主义者的年度复盘和规划](https://toutiao.io/k/etnoowt) ![](assets/new.png)  
 - [2022-01-04-动手实现一个localcache---实现篇](https://toutiao.io/k/jxojxc0) ![](assets/new.png)  
 - [2022-01-04-Excelize-2.5.0-正式发布，这些新增功能值得关注](https://toutiao.io/k/k4qqck4) ![](assets/new.png)  
-- [2022-01-04-【Rust日报】2022-01-03-mmids:-Rust编写的多媒体收发系统](https://toutiao.io/k/vxw9khn) ![](assets/new.png)  
+- [2022-01-04-Go-服务进行自动采样性能分析的方案设计与实现](https://toutiao.io/k/2vuouzy) ![](assets/new.png)  
 - [2022-01-04-特斯拉灯光秀指南「GitHub-热点速览-v.22.01」](https://toutiao.io/k/wul5aay) ![](assets/new.png)  
 - [2022-01-04-Flutter基础widgets教程-cupertinoActivityIndicator篇](https://toutiao.io/k/vvmmms3) ![](assets/new.png)  
-- [2022-01-04-Go-服务进行自动采样性能分析的方案设计与实现](https://toutiao.io/k/2vuouzy) ![](assets/new.png)  
+- [2022-01-04-【Rust日报】2022-01-03-mmids:-Rust编写的多媒体收发系统](https://toutiao.io/k/vxw9khn) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

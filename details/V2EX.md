@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-01-04 10:13:46。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-01-04 10:25:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
@@ -38,4 +38,3 @@
 - [2022-01-04-请推荐个线不可插拔的双模机械键盘](https://www.v2ex.com/t/826129) 
 - [2022-01-04-如何使用-Tin-安装-SonarQube（史上最快](https://www.v2ex.com/t/826126) 
 - [2022-01-04-有没有从-12，-13-换回到-i8-的老哥，体验感如何？](https://www.v2ex.com/t/826125) 
-- [2022-01-04-Electron-在-MacOS-下怎么像-Windows-一样调用-exe？](https://www.v2ex.com/t/826124) 

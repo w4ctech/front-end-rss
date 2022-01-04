@@ -8282,11 +8282,6 @@
         "title": "有没有从 12， 13 换回到 i8 的老哥，体验感如何？",
         "link": "https://www.v2ex.com/t/826125",
         "date": "2022-01-04"
-      },
-      {
-        "title": "Electron 在 MacOS 下怎么像 Windows 一样调用 exe？",
-        "link": "https://www.v2ex.com/t/826124",
-        "date": "2022-01-04"
       }
     ]
   },
@@ -8493,8 +8488,8 @@
         "date": "2022-01-04"
       },
       {
-        "title": "[推荐] 聊聊spring事务失效的12种场景，太坑了",
-        "link": "https://toutiao.io/k/uf6yk96",
+        "title": "[推荐] WhatsApp系统架构",
+        "link": "https://toutiao.io/k/7dt7oe2",
         "date": "2022-01-04"
       },
       {
@@ -8503,18 +8498,13 @@
         "date": "2022-01-04"
       },
       {
+        "title": "[推荐] 插件式可扩展架构设计心得",
+        "link": "https://toutiao.io/k/w43usss",
+        "date": "2022-01-04"
+      },
+      {
         "title": "[推荐] 2021年美团技术团队最受欢迎的22篇技术文章",
         "link": "https://toutiao.io/k/pjse55y",
-        "date": "2022-01-04"
-      },
-      {
-        "title": "[推荐] WhatsApp系统架构",
-        "link": "https://toutiao.io/k/7dt7oe2",
-        "date": "2022-01-04"
-      },
-      {
-        "title": "[推荐] 分布式链路追踪在字节跳动的实践",
-        "link": "https://toutiao.io/k/hkc5fd7",
         "date": "2022-01-04"
       },
       {
@@ -8523,8 +8513,13 @@
         "date": "2022-01-04"
       },
       {
-        "title": "[推荐] 画架构图的神器",
-        "link": "https://toutiao.io/k/4773s9p",
+        "title": "[推荐] 聊聊spring事务失效的12种场景，太坑了",
+        "link": "https://toutiao.io/k/uf6yk96",
+        "date": "2022-01-04"
+      },
+      {
+        "title": "[推荐] 分布式链路追踪在字节跳动的实践",
+        "link": "https://toutiao.io/k/hkc5fd7",
         "date": "2022-01-04"
       },
       {
@@ -8533,18 +8528,13 @@
         "date": "2022-01-04"
       },
       {
-        "title": "[推荐] 从0开始设计Twitter系统架构",
-        "link": "https://toutiao.io/k/3fie9ar",
-        "date": "2022-01-04"
-      },
-      {
-        "title": "[推荐] 插件式可扩展架构设计心得",
-        "link": "https://toutiao.io/k/w43usss",
-        "date": "2022-01-04"
-      },
-      {
         "title": "[推荐] 我做系统架构的一些原则",
         "link": "https://toutiao.io/k/vlt0zc9",
+        "date": "2022-01-04"
+      },
+      {
+        "title": "[推荐] 画架构图的神器",
+        "link": "https://toutiao.io/k/4773s9p",
         "date": "2022-01-04"
       },
       {
@@ -8553,13 +8543,18 @@
         "date": "2022-01-04"
       },
       {
-        "title": "[推荐] 小心陷入 MySQL 索引的坑",
-        "link": "https://toutiao.io/k/gucqkq4",
+        "title": "[推荐] 从0开始设计Twitter系统架构",
+        "link": "https://toutiao.io/k/3fie9ar",
         "date": "2022-01-04"
       },
       {
         "title": "[推荐] 登录态 & SSO",
         "link": "https://toutiao.io/k/vjcw3vh",
+        "date": "2022-01-04"
+      },
+      {
+        "title": "[推荐] 小心陷入 MySQL 索引的坑",
+        "link": "https://toutiao.io/k/gucqkq4",
         "date": "2022-01-04"
       }
     ]

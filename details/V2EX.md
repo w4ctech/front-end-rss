@@ -1,10 +1,13 @@
-:alarm_clock: 更新时间: 2022-01-04 13:43:02。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-01-04 13:54:16。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-01-04-求职-求区块链方向，产品经理岗位机会（6+产品经验）](https://www.v2ex.com/t/826205) 
+- [2022-01-04-求推荐：知识管理-电子书阅读管理-APP？](https://www.v2ex.com/t/826204) 
+- [2022-01-04-debian-11-cinnamon-双屏很卡，而且-chrome/firefox-esr-播放视频无法硬解](https://www.v2ex.com/t/826203) 
 - [2022-01-04-偶然发现小米-12-系列才发布几天都现货了](https://www.v2ex.com/t/826202) 
 - [2022-01-04-GitHub-Contributions->-10000-的进来领钱了](https://www.v2ex.com/t/826201) 
 - [2022-01-04-假设-Minecraft-是一款-8-bit-的街机或者红白机游戏](https://www.v2ex.com/t/826199) 
@@ -37,6 +40,3 @@
 - [2022-01-04-求推荐一款户外阳光下屏幕清晰的老人机](https://www.v2ex.com/t/826161) 
 - [2022-01-04-http://Patterns.dev-是一本关于设计模式和组件模式的免费书籍，主要讲解使用-vanilla-JavaScript-和-React-构建强大的-Web-应用。](https://www.v2ex.com/t/826160) 
 - [2022-01-04-远程工作-UI-交互设计师，时薪-35-美元，可全职或者兼职。](https://www.v2ex.com/t/826158) 
-- [2022-01-04-All-in-Metaverse-&-DeFi-on-Starcoin-Move-语言黑客松大赛](https://www.v2ex.com/t/826156) 
-- [2022-01-04-开发了一年多的-PHP-编译器-BPC-初见成效,发一些测试程序给大家看看](https://www.v2ex.com/t/826154) 
-- [2022-01-04-android-和-ios-端扫一扫第三方库有没有推荐的？](https://www.v2ex.com/t/826153) 

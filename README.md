@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-04 13:43:02，:rocket: 更新条数: +1667， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-04 13:54:16，:rocket: 更新条数: +1667， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,9 @@
 </summary>
 
 
+- [2022-01-04-求职-求区块链方向，产品经理岗位机会（6+产品经验）](https://www.v2ex.com/t/826205) ![](assets/new.png)  
+- [2022-01-04-求推荐：知识管理-电子书阅读管理-APP？](https://www.v2ex.com/t/826204) ![](assets/new.png)  
+- [2022-01-04-debian-11-cinnamon-双屏很卡，而且-chrome/firefox-esr-播放视频无法硬解](https://www.v2ex.com/t/826203) ![](assets/new.png)  
 - [2022-01-04-偶然发现小米-12-系列才发布几天都现货了](https://www.v2ex.com/t/826202) ![](assets/new.png)  
 - [2022-01-04-GitHub-Contributions->-10000-的进来领钱了](https://www.v2ex.com/t/826201) ![](assets/new.png)  
 - [2022-01-04-假设-Minecraft-是一款-8-bit-的街机或者红白机游戏](https://www.v2ex.com/t/826199) ![](assets/new.png)  
@@ -511,9 +514,6 @@
 - [2022-01-04-我用-Rust-重写（并重新设计）了-frp，性能和资源占用有很大改善](https://www.v2ex.com/t/826182) ![](assets/new.png)  
 - [2022-01-04-我朋友打算年后找个测试岗,-哪儿可以刷软件测试的题?](https://www.v2ex.com/t/826180) ![](assets/new.png)  
 - [2022-01-04-求帮忙下载一份华为内网文档](https://www.v2ex.com/t/826179) ![](assets/new.png)  
-- [2022-01-04-记一次-MBAM1-黑屏死机事件](https://www.v2ex.com/t/826178) ![](assets/new.png)  
-- [2022-01-04-从拼多多购置的显示器-Dell-U2419-用了两年多，刚刚才发现预设模式有个-ComfortView-可以护眼。](https://www.v2ex.com/t/826176) ![](assets/new.png)  
-- [2022-01-04-坐标上海静安寺中心，全球头部-OTA-外资巨头，-JS-原生前端/多语言后端-团队搭建广招人才-ing](https://www.v2ex.com/t/826175) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -574,8 +574,8 @@
 - [2022-01-04-动手实现一个localcache---实现篇](https://toutiao.io/k/jxojxc0) ![](assets/new.png)  
 - [2022-01-04-特斯拉灯光秀指南「GitHub-热点速览-v.22.01」](https://toutiao.io/k/wul5aay) ![](assets/new.png)  
 - [2022-01-04-Flutter基础widgets教程-cupertinoActivityIndicator篇](https://toutiao.io/k/vvmmms3) ![](assets/new.png)  
-- [2022-01-04-推荐-快速找出redis大key删除](https://toutiao.io/k/yncwv3k) ![](assets/new.png)  
-- [2022-01-04-推荐-分布式链路追踪在字节跳动的实践](https://toutiao.io/k/hkc5fd7) ![](assets/new.png)  
+- [2022-01-04-推荐-小心陷入-MySQL-索引的坑](https://toutiao.io/k/gucqkq4) ![](assets/new.png)  
+- [2022-01-04-推荐-画架构图的神器](https://toutiao.io/k/4773s9p) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

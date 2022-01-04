@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-01-04 03:56:44。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-01-04 04:16:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 性能优化
 
@@ -7,6 +7,7 @@
 
 
 
+- [2022-01-04-Rust-vs-Go，性能差距确实不小，重写-httpmq-有感](https://www.v2ex.com/t/826063) 
 - [2022-01-04-公司开项目总结,为了优化流程,结果被人事开成批斗大会](https://www.v2ex.com/t/826049) 
 - [2022-01-04-卷积神经网络性能优化](https://toutiao.io/k/9uk11oc) 
 - [2022-01-04-推荐-Java-中的5个代码性能提升技巧，最高提升近10倍](https://toutiao.io/k/eyom45a) 

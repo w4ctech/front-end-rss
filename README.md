@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-04 11:55:05，:rocket: 更新条数: +1665， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-04 12:19:34，:rocket: 更新条数: +1665， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -566,16 +566,16 @@
 - [2022-01-04-2021年安全架构总结以及2022安全方向展望](https://toutiao.io/k/b6onybl) ![](assets/new.png)  
 - [2022-01-04-如何提升数据质量？（附实战文档）](https://toutiao.io/k/43uco0q) ![](assets/new.png)  
 - [2022-01-04-浅析机器学习算法的应用场景！](https://toutiao.io/k/gim2i7a) ![](assets/new.png)  
-- [2022-01-04-卷积神经网络性能优化](https://toutiao.io/k/9uk11oc) ![](assets/new.png)  
 - [2022-01-04-有些程序员，本质是一群羊！](https://toutiao.io/k/37a5hrk) ![](assets/new.png)  
+- [2022-01-04-卷积神经网络性能优化](https://toutiao.io/k/9uk11oc) ![](assets/new.png)  
 - [2022-01-04-2022，一个长期主义者的年度复盘和规划](https://toutiao.io/k/etnoowt) ![](assets/new.png)  
 - [2022-01-04-Excelize-2.5.0-正式发布，这些新增功能值得关注](https://toutiao.io/k/k4qqck4) ![](assets/new.png)  
 - [2022-01-04-动手实现一个localcache---实现篇](https://toutiao.io/k/jxojxc0) ![](assets/new.png)  
 - [2022-01-04-Go-服务进行自动采样性能分析的方案设计与实现](https://toutiao.io/k/2vuouzy) ![](assets/new.png)  
 - [2022-01-04-特斯拉灯光秀指南「GitHub-热点速览-v.22.01」](https://toutiao.io/k/wul5aay) ![](assets/new.png)  
 - [2022-01-04-Flutter基础widgets教程-cupertinoActivityIndicator篇](https://toutiao.io/k/vvmmms3) ![](assets/new.png)  
-- [2022-01-04-推荐-Java-中的5个代码性能提升技巧，最高提升近10倍](https://toutiao.io/k/eyom45a) ![](assets/new.png)  
-- [2022-01-04-推荐-快速找出redis大key删除](https://toutiao.io/k/yncwv3k) ![](assets/new.png)  
+- [2022-01-04-推荐-WhatsApp系统架构](https://toutiao.io/k/7dt7oe2) ![](assets/new.png)  
+- [2022-01-04-推荐-分布式链路追踪在字节跳动的实践](https://toutiao.io/k/hkc5fd7) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

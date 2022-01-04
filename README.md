@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-04 13:25:59，:rocket: 更新条数: +1667， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-04 13:37:49，:rocket: 更新条数: +1667， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -66,12 +66,13 @@
 
 
 - [2022-01-04-最新疫情：全国新冠累计确诊102841例-累计接种新冠疫苗超28.55亿剂次](https://m.caixin.com/m/2022-01-04/101825781.html) ![](assets/new.png)  
+- [2022-01-04-河南新增35例感染者-许昌病例数攀升来源不明](https://m.caixin.com/m/2022-01-04/101825840.html) ![](assets/new.png)  
 - [2022-01-04-香港Omicron本地病例增至6宗-特首称通关再延迟](https://m.caixin.com/m/2022-01-04/101825740.html) ![](assets/new.png)  
 - [2022-01-04-西安“一码通”再现故障](https://m.caixin.com/m/2022-01-04/101825605.html) ![](assets/new.png)  
 - [2022-01-04-【境内疫情观察】全国新增108例本土病例（1月3日）](https://database.caixin.com/m/2022-01-04/101825671.html) ![](assets/new.png)  
 - [2022-01-04-纽约检测阳性率达33%，多国缩短加强针接种间隔｜大流行手记（1月3日）](https://m.caixin.com/m/2022-01-04/101825439.html) ![](assets/new.png)  
-- [2022-01-03-河南禹州现3例无症状-所有居民居家隔离](https://china.caixin.com/m/2022-01-03/101825358.html) ![](assets/new.png)  
 - [2022-01-03-最新海外疫情：新冠感染超2.89亿-累计接种新冠疫苗超91.8亿剂次](https://m.caixin.com/m/2022-01-03/101825314.html) ![](assets/new.png)  
+- [2022-01-03-河南禹州现3例无症状-所有居民居家隔离](https://china.caixin.com/m/2022-01-03/101825358.html) ![](assets/new.png)  
 - [2022-01-03-【境内疫情观察】全国新增101例本土病例（1月2日）](https://database.caixin.com/m/2022-01-03/101825323.html) ![](assets/new.png)  
 - [2022-01-03-法国缩短隔离期-以色列扩大第四针接种人群｜大流行手记（1月2日）](https://m.caixin.com/m/2022-01-03/101825271.html) ![](assets/new.png)  
 - [2022-01-02-宁波北仑一服装厂现10例确诊-病毒毒株与越南流行变异株相同](https://m.caixin.com/m/2022-01-02/101825239.html) ![](assets/new.png)  
@@ -84,7 +85,6 @@
 - [2021-12-31-西安累计确诊1277例再启新一轮检测-浙江全域降为低风险](https://m.caixin.com/m/2021-12-31/101824743.html) ![](assets/new.png)  
 - [2021-12-31-香港出现Omicron社区传播-与内地通关或再推迟](https://m.caixin.com/m/2021-12-31/101824699.html) ![](assets/new.png)  
 - [2021-12-31-河南洛阳一家4口新冠阳性-一人从成都返洛](https://m.caixin.com/m/2021-12-31/101824722.html) ![](assets/new.png)  
-- [2021-12-31-【境内疫情观察】陕西新增165例本土病例（12月30日）](https://database.caixin.com/m/2021-12-31/101824514.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -494,6 +494,7 @@
 </summary>
 
 
+- [2022-01-04-GitHub-Contributions->-10000-的进来领钱了](https://www.v2ex.com/t/826201) ![](assets/new.png)  
 - [2022-01-04-假设-Minecraft-是一款-8-bit-的街机或者红白机游戏](https://www.v2ex.com/t/826199) ![](assets/new.png)  
 - [2022-01-04-请教一个非常简单的-c-语言内存申请问题](https://www.v2ex.com/t/826198) ![](assets/new.png)  
 - [2022-01-04-如何把如下这样一个-Json-tree-转换成如何-dataframe](https://www.v2ex.com/t/826197) ![](assets/new.png)  
@@ -513,7 +514,6 @@
 - [2022-01-04-从拼多多购置的显示器-Dell-U2419-用了两年多，刚刚才发现预设模式有个-ComfortView-可以护眼。](https://www.v2ex.com/t/826176) ![](assets/new.png)  
 - [2022-01-04-坐标上海静安寺中心，全球头部-OTA-外资巨头，-JS-原生前端/多语言后端-团队搭建广招人才-ing](https://www.v2ex.com/t/826175) ![](assets/new.png)  
 - [2022-01-04-请教大佬一个-Linux-组播的问题](https://www.v2ex.com/t/826173) ![](assets/new.png)  
-- [2022-01-04-请问有人用过-Intel-的-nuc-主机吗？是不是没有外放的声音？](https://www.v2ex.com/t/826171) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -574,8 +574,8 @@
 - [2022-01-04-动手实现一个localcache---实现篇](https://toutiao.io/k/jxojxc0) ![](assets/new.png)  
 - [2022-01-04-特斯拉灯光秀指南「GitHub-热点速览-v.22.01」](https://toutiao.io/k/wul5aay) ![](assets/new.png)  
 - [2022-01-04-Flutter基础widgets教程-cupertinoActivityIndicator篇](https://toutiao.io/k/vvmmms3) ![](assets/new.png)  
-- [2022-01-04-推荐-快速找出redis大key删除](https://toutiao.io/k/yncwv3k) ![](assets/new.png)  
-- [2022-01-04-推荐-插件式可扩展架构设计心得](https://toutiao.io/k/w43usss) ![](assets/new.png)  
+- [2022-01-04-推荐-小心陷入-MySQL-索引的坑](https://toutiao.io/k/gucqkq4) ![](assets/new.png)  
+- [2022-01-04-推荐-Java-中的5个代码性能提升技巧，最高提升近10倍](https://toutiao.io/k/eyom45a) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

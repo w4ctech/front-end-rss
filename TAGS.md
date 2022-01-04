@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-01-04 14:12:25。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-01-04 14:20:57。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -39,7 +39,6 @@
 
 
 
-- [【V2EX】http://Patterns.dev-是一本关于设计模式和组件模式的免费书籍，主要讲解使用-vanilla-JavaScript-和-React-构建强大的-Web-应用。](https://www.v2ex.com/t/826160)
 - [......【查看更多】......](./details/tags/react.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-04 09:23:12，:rocket: 更新条数: +1663， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-04 09:41:05，:rocket: 更新条数: +1662， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -66,6 +66,7 @@
 
 
 - [2022-01-04-1月3日全国新增新冠175例-三省份本土108例](https://m.caixin.com/m/2022-01-04/101825418.html) ![](assets/new.png)  
+- [2022-01-04-【境内疫情观察】全国新增108例本土病例（1月3日）](https://database.caixin.com/m/2022-01-04/101825671.html) ![](assets/new.png)  
 - [2022-01-04-纽约检测阳性率达33%，多国缩短加强针接种间隔｜大流行手记（1月3日）](https://m.caixin.com/m/2022-01-04/101825439.html) ![](assets/new.png)  
 - [2022-01-03-河南禹州现3例无症状-所有居民居家隔离](https://china.caixin.com/m/2022-01-03/101825358.html) ![](assets/new.png)  
 - [2022-01-03-最新海外疫情：新冠感染超2.89亿-累计接种新冠疫苗超91.8亿剂次](https://m.caixin.com/m/2022-01-03/101825314.html) ![](assets/new.png)  
@@ -84,7 +85,6 @@
 - [2021-12-31-【境内疫情观察】陕西新增165例本土病例（12月30日）](https://database.caixin.com/m/2021-12-31/101824514.html) ![](assets/new.png)  
 - [2021-12-31-美住院儿童因Omicron激增-葡萄牙隔离减至7天｜大流行手记（12月30日）](https://m.caixin.com/m/2021-12-31/101824366.html) ![](assets/new.png)  
 - [2021-12-31-港大研发新疫苗方案-可防新冠鼻腔感染](https://m.caixin.com/m/2021-12-31/101824312.html) ![](assets/new.png)  
-- [2021-12-30-【境内疫情观察】陕西新增155例本土病例（12月29日）](https://database.caixin.com/m/2021-12-30/101824100.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -494,6 +494,10 @@
 </summary>
 
 
+- [2022-01-04-远程工作-UI-交互设计师，时薪-35-美元，可全职或者兼职。](https://www.v2ex.com/t/826158) ![](assets/new.png)  
+- [2022-01-04-All-in-Metaverse-&-DeFi-on-Starcoin-Move-语言黑客松大赛](https://www.v2ex.com/t/826156) ![](assets/new.png)  
+- [2022-01-04-开发了一年多的-PHP-编译器-BPC-初见成效,发一些测试程序给大家看看](https://www.v2ex.com/t/826154) ![](assets/new.png)  
+- [2022-01-04-android-和-ios-端扫一扫第三方库有没有推荐的？](https://www.v2ex.com/t/826153) ![](assets/new.png)  
 - [2022-01-04-请教大家国内哪里能买到-Split-flap-display-机械翻页显示屏](https://www.v2ex.com/t/826152) ![](assets/new.png)  
 - [2022-01-04-投诉之后，移动拒绝解决-GCE-香港的绕路问题](https://www.v2ex.com/t/826151) ![](assets/new.png)  
 - [2022-01-04-三天时间，我用-UE5-制作了一个《英雄联盟》](https://www.v2ex.com/t/826150) ![](assets/new.png)  
@@ -510,10 +514,6 @@
 - [2022-01-04-征婚招聘：给我妹妹招一个男朋友（看不惯她不谈恋爱的行为），坐标成都，没有彩礼](https://www.v2ex.com/t/826133) ![](assets/new.png)  
 - [2022-01-04-figma-使用的开发技术？](https://www.v2ex.com/t/826130) ![](assets/new.png)  
 - [2022-01-04-请推荐个线不可插拔的双模机械键盘](https://www.v2ex.com/t/826129) ![](assets/new.png)  
-- [2022-01-04-如何使用-Tin-安装-SonarQube（史上最快](https://www.v2ex.com/t/826126) ![](assets/new.png)  
-- [2022-01-04-有没有从-12，-13-换回到-i8-的老哥，体验感如何？](https://www.v2ex.com/t/826125) ![](assets/new.png)  
-- [2022-01-04-Electron-在-MacOS-下怎么像-Windows-一样调用-exe？](https://www.v2ex.com/t/826124) ![](assets/new.png)  
-- [2022-01-04-招聘汇总：-Java-开发工程师-北京](https://www.v2ex.com/t/826123) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -574,8 +574,8 @@
 - [2022-01-04-Go-服务进行自动采样性能分析的方案设计与实现](https://toutiao.io/k/2vuouzy) ![](assets/new.png)  
 - [2022-01-04-特斯拉灯光秀指南「GitHub-热点速览-v.22.01」](https://toutiao.io/k/wul5aay) ![](assets/new.png)  
 - [2022-01-04-Flutter基础widgets教程-cupertinoActivityIndicator篇](https://toutiao.io/k/vvmmms3) ![](assets/new.png)  
-- [2022-01-04-推荐-再见-Typora！推荐一个-2.3-万-Star-的开源-Markdown-编辑器](https://toutiao.io/k/ol8ule0) ![](assets/new.png)  
-- [2022-01-04-推荐-聊聊spring事务失效的12种场景，太坑了](https://toutiao.io/k/uf6yk96) ![](assets/new.png)  
+- [2022-01-04-推荐-从0开始设计Twitter系统架构](https://toutiao.io/k/3fie9ar) ![](assets/new.png)  
+- [2022-01-04-推荐-分布式链路追踪在字节跳动的实践](https://toutiao.io/k/hkc5fd7) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

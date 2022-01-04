@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-04 03:23:17，:rocket: 更新条数: +1655， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-04 03:40:55，:rocket: 更新条数: +1655， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,13 @@
 </summary>
 
 
+- [2022-01-04-公司开项目总结,为了优化流程,结果被人事开成批斗大会](https://www.v2ex.com/t/826049) ![](assets/new.png)  
+- [2022-01-04-请问有没有什么办法在-F12-的-Network-里，搜索所有请求的头，体，响应头，体里是否包含某个字符串？](https://www.v2ex.com/t/826047) ![](assets/new.png)  
+- [2022-01-04-为何现在网络上认为字节的工作氛围比阿里更好呢？](https://www.v2ex.com/t/826046) ![](assets/new.png)  
+- [2022-01-04-国内云服务器怎么做-ssh-安全防护](https://www.v2ex.com/t/826045) ![](assets/new.png)  
+- [2022-01-04-有什么智能识别-“封面”-的工具或类库吗](https://www.v2ex.com/t/826044) ![](assets/new.png)  
+- [2022-01-04-正数网络技术有限公司-郑州/国企-招人啦](https://www.v2ex.com/t/826043) ![](assets/new.png)  
+- [2022-01-04-准备加入果粉了](https://www.v2ex.com/t/826042) ![](assets/new.png)  
 - [2022-01-04-我的-2021-年总结，一些碎碎念](https://www.v2ex.com/t/826039) ![](assets/new.png)  
 - [2022-01-04-卷一卷，-Python-通用验证码识别库开源](https://www.v2ex.com/t/826038) ![](assets/new.png)  
 - [2022-01-04-探讨：-iOS-本地网络权限-对隐私保护的有效性和局限性](https://www.v2ex.com/t/826037) ![](assets/new.png)  
@@ -507,13 +514,6 @@
 - [2022-01-04-3-个了，小米牙刷一过保修期就坏，难道真的有魔法？](https://www.v2ex.com/t/826025) ![](assets/new.png)  
 - [2022-01-04-关于失业金](https://www.v2ex.com/t/826024) ![](assets/new.png)  
 - [2022-01-04-Mo.run---汇报我们更新的一些功能，以及后面的方向](https://www.v2ex.com/t/826022) ![](assets/new.png)  
-- [2022-01-04-「墨刀春招」「郑州」新增产品岗，前后端继续开放（高级/校招），可节前面试，节后入职「一线薪资，二线生活-|-20-50k」](https://www.v2ex.com/t/826021) ![](assets/new.png)  
-- [2022-01-04-iPad-Chrome-如何缩放？](https://www.v2ex.com/t/826018) ![](assets/new.png)  
-- [2022-01-04-请教-V-友们，家宽有公网-v4-和-V6，如何让家庭设备也获得-ipv6-地址？](https://www.v2ex.com/t/826016) ![](assets/new.png)  
-- [2022-01-04-Play-余额只能在日本使用](https://www.v2ex.com/t/826014) ![](assets/new.png)  
-- [2022-01-04-macos-没升级大版本，竟然有软件打不开了](https://www.v2ex.com/t/826012) ![](assets/new.png)  
-- [2022-01-04-2022-苏州外资公司大量岗位内推](https://www.v2ex.com/t/826011) ![](assets/new.png)  
-- [2022-01-04-灵活的浏览器扩展，在切换-任意一个-或-连续多个-搜索引擎-进行搜索。大术专搜，既专又广](https://www.v2ex.com/t/826010) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -567,15 +567,15 @@
 - [2022-01-04-如何提升数据质量？（附实战文档）](https://toutiao.io/k/43uco0q) ![](assets/new.png)  
 - [2022-01-04-2021年安全架构总结以及2022安全方向展望](https://toutiao.io/k/b6onybl) ![](assets/new.png)  
 - [2022-01-04-浅析机器学习算法的应用场景！](https://toutiao.io/k/gim2i7a) ![](assets/new.png)  
-- [2022-01-04-推荐-2021年美团技术团队最受欢迎的22篇技术文章](https://toutiao.io/k/pjse55y) ![](assets/new.png)  
-- [2022-01-04-推荐-登录态-&-SSO](https://toutiao.io/k/vjcw3vh) ![](assets/new.png)  
-- [2022-01-04-推荐-分布式链路追踪在字节跳动的实践](https://toutiao.io/k/hkc5fd7) ![](assets/new.png)  
 - [2022-01-04-推荐-白话linux操作系统原理](https://toutiao.io/k/zgc47l7) ![](assets/new.png)  
-- [2022-01-04-推荐-再见-Typora！推荐一个-2.3-万-Star-的开源-Markdown-编辑器](https://toutiao.io/k/ol8ule0) ![](assets/new.png)  
+- [2022-01-04-推荐-2021年美团技术团队最受欢迎的22篇技术文章](https://toutiao.io/k/pjse55y) ![](assets/new.png)  
 - [2022-01-04-推荐-快速找出redis大key删除](https://toutiao.io/k/yncwv3k) ![](assets/new.png)  
-- [2022-01-04-推荐-WhatsApp系统架构](https://toutiao.io/k/7dt7oe2) ![](assets/new.png)  
 - [2022-01-04-推荐-聊聊spring事务失效的12种场景，太坑了](https://toutiao.io/k/uf6yk96) ![](assets/new.png)  
-- [2022-01-04-推荐-从0开始设计Twitter系统架构](https://toutiao.io/k/3fie9ar) ![](assets/new.png)  
+- [2022-01-04-推荐-登录态-&-SSO](https://toutiao.io/k/vjcw3vh) ![](assets/new.png)  
+- [2022-01-04-推荐-画架构图的神器](https://toutiao.io/k/4773s9p) ![](assets/new.png)  
+- [2022-01-04-推荐-我做系统架构的一些原则](https://toutiao.io/k/vlt0zc9) ![](assets/new.png)  
+- [2022-01-04-推荐-WhatsApp系统架构](https://toutiao.io/k/7dt7oe2) ![](assets/new.png)  
+- [2022-01-04-推荐-Java-中的5个代码性能提升技巧，最高提升近10倍](https://toutiao.io/k/eyom45a) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

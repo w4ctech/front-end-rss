@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-04 05:54:28，:rocket: 更新条数: +1656， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-04 06:15:39，:rocket: 更新条数: +1667， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,10 @@
 </summary>
 
 
+- [2022-01-04-YAML-标准的一个-bug](https://www.v2ex.com/t/826093) ![](assets/new.png)  
+- [2022-01-04-求糟糕的中文-podcast（播客）排雷？](https://www.v2ex.com/t/826092) ![](assets/new.png)  
+- [2022-01-04-安卓手机有创建-exif-到图片里面的软件吗？](https://www.v2ex.com/t/826091) ![](assets/new.png)  
+- [2022-01-04-有没有支持-esim-且长续航的智能手表?](https://www.v2ex.com/t/826090) ![](assets/new.png)  
 - [2022-01-04-10-年的移动号码封停后续](https://www.v2ex.com/t/826088) ![](assets/new.png)  
 - [2022-01-04-wps-可以取代-office-吗？](https://www.v2ex.com/t/826087) ![](assets/new.png)  
 - [2022-01-04-各位厂商大神，什么时候能出这样的充电插头](https://www.v2ex.com/t/826084) ![](assets/new.png)  
@@ -510,10 +514,6 @@
 - [2022-01-04-大家-MacBook-买-AC+了吗](https://www.v2ex.com/t/826069) ![](assets/new.png)  
 - [2022-01-04-使用-Vim/Nvim-开发三年了](https://www.v2ex.com/t/826068) ![](assets/new.png)  
 - [2022-01-04-北京/武汉/深圳/远程-FydeOS-|-燧炻创新多岗位招聘-2022](https://www.v2ex.com/t/826067) ![](assets/new.png)  
-- [2022-01-04-golang-flag-单元测试跑不过](https://www.v2ex.com/t/826066) ![](assets/new.png)  
-- [2022-01-04-发现一个桌面版的-iCloud.com](https://www.v2ex.com/t/826065) ![](assets/new.png)  
-- [2022-01-04-Rust-vs-Go，性能差距确实不小，重写-httpmq-有感](https://www.v2ex.com/t/826063) ![](assets/new.png)  
-- [2022-01-04-HLS-格式的视频，大家有什么快速下载的办法](https://www.v2ex.com/t/826062) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -567,15 +567,15 @@
 - [2022-01-04-如何提升数据质量？（附实战文档）](https://toutiao.io/k/43uco0q) ![](assets/new.png)  
 - [2022-01-04-2021年安全架构总结以及2022安全方向展望](https://toutiao.io/k/b6onybl) ![](assets/new.png)  
 - [2022-01-04-浅析机器学习算法的应用场景！](https://toutiao.io/k/gim2i7a) ![](assets/new.png)  
-- [2022-01-04-推荐-2021年美团技术团队最受欢迎的22篇技术文章](https://toutiao.io/k/pjse55y) ![](assets/new.png)  
-- [2022-01-04-推荐-聊聊spring事务失效的12种场景，太坑了](https://toutiao.io/k/uf6yk96) ![](assets/new.png)  
-- [2022-01-04-推荐-Java-中的5个代码性能提升技巧，最高提升近10倍](https://toutiao.io/k/eyom45a) ![](assets/new.png)  
-- [2022-01-04-推荐-小心陷入-MySQL-索引的坑](https://toutiao.io/k/gucqkq4) ![](assets/new.png)  
-- [2022-01-04-推荐-白话linux操作系统原理](https://toutiao.io/k/zgc47l7) ![](assets/new.png)  
-- [2022-01-04-推荐-再见-Typora！推荐一个-2.3-万-Star-的开源-Markdown-编辑器](https://toutiao.io/k/ol8ule0) ![](assets/new.png)  
-- [2022-01-04-推荐-从0开始设计Twitter系统架构](https://toutiao.io/k/3fie9ar) ![](assets/new.png)  
-- [2022-01-04-推荐-插件式可扩展架构设计心得](https://toutiao.io/k/w43usss) ![](assets/new.png)  
-- [2022-01-04-推荐-快速找出redis大key删除](https://toutiao.io/k/yncwv3k) ![](assets/new.png)  
+- [2022-01-04-有些程序员，本质是一群羊！](https://toutiao.io/k/37a5hrk) ![](assets/new.png)  
+- [2022-01-04-2022，一个长期主义者的年度复盘和规划](https://toutiao.io/k/etnoowt) ![](assets/new.png)  
+- [2022-01-04-Excelize-2.5.0-正式发布，这些新增功能值得关注](https://toutiao.io/k/k4qqck4) ![](assets/new.png)  
+- [2022-01-04-一张图看懂微服务架构路线](https://toutiao.io/k/ta8kv0i) ![](assets/new.png)  
+- [2022-01-04-动手实现一个localcache---实现篇](https://toutiao.io/k/jxojxc0) ![](assets/new.png)  
+- [2022-01-04-Flutter基础widgets教程-cupertinoActivityIndicator篇](https://toutiao.io/k/vvmmms3) ![](assets/new.png)  
+- [2022-01-04-Go-服务进行自动采样性能分析的方案设计与实现](https://toutiao.io/k/2vuouzy) ![](assets/new.png)  
+- [2022-01-04-【Rust日报】2022-01-03-mmids:-Rust编写的多媒体收发系统](https://toutiao.io/k/vxw9khn) ![](assets/new.png)  
+- [2022-01-04-特斯拉灯光秀指南「GitHub-热点速览-v.22.01」](https://toutiao.io/k/wul5aay) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

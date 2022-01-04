@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2022-01-04 13:37:49。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-01-04 13:43:02。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-01-04-偶然发现小米-12-系列才发布几天都现货了](https://www.v2ex.com/t/826202) 
 - [2022-01-04-GitHub-Contributions->-10000-的进来领钱了](https://www.v2ex.com/t/826201) 
 - [2022-01-04-假设-Minecraft-是一款-8-bit-的街机或者红白机游戏](https://www.v2ex.com/t/826199) 
 - [2022-01-04-请教一个非常简单的-c-语言内存申请问题](https://www.v2ex.com/t/826198) 
@@ -39,4 +40,3 @@
 - [2022-01-04-All-in-Metaverse-&-DeFi-on-Starcoin-Move-语言黑客松大赛](https://www.v2ex.com/t/826156) 
 - [2022-01-04-开发了一年多的-PHP-编译器-BPC-初见成效,发一些测试程序给大家看看](https://www.v2ex.com/t/826154) 
 - [2022-01-04-android-和-ios-端扫一扫第三方库有没有推荐的？](https://www.v2ex.com/t/826153) 
-- [2022-01-04-请教大家国内哪里能买到-Split-flap-display-机械翻页显示屏](https://www.v2ex.com/t/826152) 

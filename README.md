@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-04 10:25:28，:rocket: 更新条数: +1664， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-04 10:42:28，:rocket: 更新条数: +1665， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,9 @@
 </summary>
 
 
+- [2022-01-04-记一次-MBAM1-黑屏死机事件](https://www.v2ex.com/t/826178) ![](assets/new.png)  
+- [2022-01-04-从拼多多购置的显示器-Dell-U2419-用了两年多，刚刚才发现预设模式有个-ComfortView-可以护眼。](https://www.v2ex.com/t/826176) ![](assets/new.png)  
+- [2022-01-04-坐标上海静安寺中心，全球头部-OTA-外资巨头，-JS-原生前端/多语言后端-团队搭建广招人才-ing](https://www.v2ex.com/t/826175) ![](assets/new.png)  
 - [2022-01-04-请教大佬一个-Linux-组播的问题](https://www.v2ex.com/t/826173) ![](assets/new.png)  
 - [2022-01-04-请问有人用过-Intel-的-nuc-主机吗？是不是没有外放的声音？](https://www.v2ex.com/t/826171) ![](assets/new.png)  
 - [2022-01-04-关于薅通讯话费补贴，求帮助](https://www.v2ex.com/t/826170) ![](assets/new.png)  
@@ -511,9 +514,6 @@
 - [2022-01-04-开发了一年多的-PHP-编译器-BPC-初见成效,发一些测试程序给大家看看](https://www.v2ex.com/t/826154) ![](assets/new.png)  
 - [2022-01-04-android-和-ios-端扫一扫第三方库有没有推荐的？](https://www.v2ex.com/t/826153) ![](assets/new.png)  
 - [2022-01-04-请教大家国内哪里能买到-Split-flap-display-机械翻页显示屏](https://www.v2ex.com/t/826152) ![](assets/new.png)  
-- [2022-01-04-投诉之后，移动拒绝解决-GCE-香港的绕路问题](https://www.v2ex.com/t/826151) ![](assets/new.png)  
-- [2022-01-04-三天时间，我用-UE5-制作了一个《英雄联盟》](https://www.v2ex.com/t/826150) ![](assets/new.png)  
-- [2022-01-04-听说亚马逊-kindle-要退出中国市场](https://www.v2ex.com/t/826149) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -574,8 +574,8 @@
 - [2022-01-04-Go-服务进行自动采样性能分析的方案设计与实现](https://toutiao.io/k/2vuouzy) ![](assets/new.png)  
 - [2022-01-04-特斯拉灯光秀指南「GitHub-热点速览-v.22.01」](https://toutiao.io/k/wul5aay) ![](assets/new.png)  
 - [2022-01-04-Flutter基础widgets教程-cupertinoActivityIndicator篇](https://toutiao.io/k/vvmmms3) ![](assets/new.png)  
-- [2022-01-04-推荐-WhatsApp系统架构](https://toutiao.io/k/7dt7oe2) ![](assets/new.png)  
-- [2022-01-04-推荐-快速找出redis大key删除](https://toutiao.io/k/yncwv3k) ![](assets/new.png)  
+- [2022-01-04-推荐-画架构图的神器](https://toutiao.io/k/4773s9p) ![](assets/new.png)  
+- [2022-01-04-推荐-白话linux操作系统原理](https://toutiao.io/k/zgc47l7) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

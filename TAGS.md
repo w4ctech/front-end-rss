@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-01-04 02:03:19。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-01-04 02:16:09。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -184,7 +184,6 @@
 - [【V2EX】关于路由器的扩展问题](https://www.v2ex.com/t/825992)
 - [【V2EX】Python-,-JS-等动态语言，要规范数据类型，为什么不加个前缀统一呢？](https://www.v2ex.com/t/825978)
 - [【V2EX】两个很普通的无线路由，改成同一个-ssid-和密码，分别放在两个房间里，会漫游吗？](https://www.v2ex.com/t/825970)
-- [【V2EX】关于家庭网络多个路由器的管理问题，请大家指教](https://www.v2ex.com/t/825956)
 - [......【查看更多】......](./details/tags/javascript.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -278,6 +277,7 @@
 - [【武汉肺炎防疫全纪录(财新网)】腺病毒新冠疫苗引安全忧虑-康希诺称未发现血栓病例](https://m.caixin.com/m/2021-04-14/101691086.html)
 - [【武汉肺炎防疫全纪录(财新网)】解药|新冠mRNA疫苗安全性有哪些挑战？](https://m.caixin.com/m/2021-01-08/101648043.html)
 - [【武汉肺炎防疫全纪录(财新网)】大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html)
+- [【V2EX】灵活的浏览器扩展，在切换-任意一个-或-连续多个-搜索引擎-进行搜索。大术专搜，既专又广](https://www.v2ex.com/t/826010)
 - [【V2EX】有写浏览器插件-V-友吗？](https://www.v2ex.com/t/825982)
 - [【技术头条】Edge浏览器新版来袭，Office功能首次出现！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14875&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247492773%26amp%3Bidx%3D2%26amp%3Bsn%3Dfd45f9b8476a5485c3ca08a78fa816b1%26amp%3Bchksm%3Dfa3f05fecd488ce8519c007b2c4e5ddeb170b0300433ab69ec7f693d8744ec5c0bb4469cea07%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【技术头条】容器安全扫描工具推荐-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14872&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fcontainer-scanning-tools-recommendation%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
@@ -410,6 +410,7 @@
 
 
 - [【武汉肺炎防疫全纪录(财新网)】1月3日全国新增新冠175例-三省份本土108例](https://m.caixin.com/m/2022-01-04/101825418.html)
+- [【武汉肺炎防疫全纪录(财新网)】纽约检测阳性率达33%，多国缩短加强针接种间隔｜大流行手记（1月3日）](https://m.caixin.com/m/2022-01-04/101825439.html)
 - [【武汉肺炎防疫全纪录(财新网)】河南禹州现3例无症状-所有居民居家隔离](https://china.caixin.com/m/2022-01-03/101825358.html)
 - [【武汉肺炎防疫全纪录(财新网)】最新海外疫情：新冠感染超2.89亿-累计接种新冠疫苗超91.8亿剂次](https://m.caixin.com/m/2022-01-03/101825314.html)
 - [【武汉肺炎防疫全纪录(财新网)】【境内疫情观察】全国新增101例本土病例（1月2日）](https://database.caixin.com/m/2022-01-03/101825323.html)
@@ -428,7 +429,6 @@
 - [【武汉肺炎防疫全纪录(财新网)】美住院儿童因Omicron激增-葡萄牙隔离减至7天｜大流行手记（12月30日）](https://m.caixin.com/m/2021-12-31/101824366.html)
 - [【武汉肺炎防疫全纪录(财新网)】港大研发新疫苗方案-可防新冠鼻腔感染](https://m.caixin.com/m/2021-12-31/101824312.html)
 - [【武汉肺炎防疫全纪录(财新网)】【境内疫情观察】陕西新增155例本土病例（12月29日）](https://database.caixin.com/m/2021-12-30/101824100.html)
-- [【武汉肺炎防疫全纪录(财新网)】世卫称Omicron和Delta正引发病例海啸-法国单日病例超20万｜大流行手记（12月29日）](https://m.caixin.com/m/2021-12-30/101823894.html)
 - [......【查看更多】......](./details/tags/other.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

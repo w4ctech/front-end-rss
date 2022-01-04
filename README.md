@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-04 10:46:04，:rocket: 更新条数: +1665， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-04 10:58:10，:rocket: 更新条数: +1666， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,9 @@
 </summary>
 
 
+- [2022-01-04-我用-Rust-重写（并重新设计）了-frp，性能和资源占用有很大改善](https://www.v2ex.com/t/826182) ![](assets/new.png)  
+- [2022-01-04-我朋友打算年后找个测试岗,-哪儿可以刷软件测试的题?](https://www.v2ex.com/t/826180) ![](assets/new.png)  
+- [2022-01-04-求帮忙下载一份华为内网文档](https://www.v2ex.com/t/826179) ![](assets/new.png)  
 - [2022-01-04-记一次-MBAM1-黑屏死机事件](https://www.v2ex.com/t/826178) ![](assets/new.png)  
 - [2022-01-04-从拼多多购置的显示器-Dell-U2419-用了两年多，刚刚才发现预设模式有个-ComfortView-可以护眼。](https://www.v2ex.com/t/826176) ![](assets/new.png)  
 - [2022-01-04-坐标上海静安寺中心，全球头部-OTA-外资巨头，-JS-原生前端/多语言后端-团队搭建广招人才-ing](https://www.v2ex.com/t/826175) ![](assets/new.png)  
@@ -511,9 +514,6 @@
 - [2022-01-04-http://Patterns.dev-是一本关于设计模式和组件模式的免费书籍，主要讲解使用-vanilla-JavaScript-和-React-构建强大的-Web-应用。](https://www.v2ex.com/t/826160) ![](assets/new.png)  
 - [2022-01-04-远程工作-UI-交互设计师，时薪-35-美元，可全职或者兼职。](https://www.v2ex.com/t/826158) ![](assets/new.png)  
 - [2022-01-04-All-in-Metaverse-&-DeFi-on-Starcoin-Move-语言黑客松大赛](https://www.v2ex.com/t/826156) ![](assets/new.png)  
-- [2022-01-04-开发了一年多的-PHP-编译器-BPC-初见成效,发一些测试程序给大家看看](https://www.v2ex.com/t/826154) ![](assets/new.png)  
-- [2022-01-04-android-和-ios-端扫一扫第三方库有没有推荐的？](https://www.v2ex.com/t/826153) ![](assets/new.png)  
-- [2022-01-04-请教大家国内哪里能买到-Split-flap-display-机械翻页显示屏](https://www.v2ex.com/t/826152) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -574,8 +574,8 @@
 - [2022-01-04-Go-服务进行自动采样性能分析的方案设计与实现](https://toutiao.io/k/2vuouzy) ![](assets/new.png)  
 - [2022-01-04-特斯拉灯光秀指南「GitHub-热点速览-v.22.01」](https://toutiao.io/k/wul5aay) ![](assets/new.png)  
 - [2022-01-04-Flutter基础widgets教程-cupertinoActivityIndicator篇](https://toutiao.io/k/vvmmms3) ![](assets/new.png)  
-- [2022-01-04-推荐-画架构图的神器](https://toutiao.io/k/4773s9p) ![](assets/new.png)  
-- [2022-01-04-推荐-白话linux操作系统原理](https://toutiao.io/k/zgc47l7) ![](assets/new.png)  
+- [2022-01-04-推荐-分布式链路追踪在字节跳动的实践](https://toutiao.io/k/hkc5fd7) ![](assets/new.png)  
+- [2022-01-04-推荐-聊聊spring事务失效的12种场景，太坑了](https://toutiao.io/k/uf6yk96) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

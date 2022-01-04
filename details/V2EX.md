@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2022-01-04 12:19:34。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-01-04 12:35:50。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-01-04-江湖救急---pixel4-突然要求输入-pattern,-原来是设置的-pin](https://www.v2ex.com/t/826190) 
 - [2022-01-04-深圳卖车有哪些平台推荐？](https://www.v2ex.com/t/826189) 
 - [2022-01-04-兴趣驱动，无报酬-招募对“滑板🛹”感兴趣的朋友，利用业余时间搞一搞滑板运动相关的互联网产品](https://www.v2ex.com/t/826188) 
 - [2022-01-04-怎么控制手机屏幕亮度?](https://www.v2ex.com/t/826187) 
@@ -38,4 +39,3 @@
 - [2022-01-04-杭州内推-外企-ZOOM-大量-HC-招聘-设计类/安全类/音视频/-Java-/iOS/Mac/Go/C++/NPL/大数据&算法/前端/测试岗位](https://www.v2ex.com/t/826146) 
 - [2022-01-04-ARM-Mac-的一个-bug，-tap-to-click-与按键组合无效](https://www.v2ex.com/t/826144) 
 - [2022-01-04-Neo4j-图数据库中国团队为你服务](https://www.v2ex.com/t/826142) 
-- [2022-01-04-iPhone-13-Pro-用了不到半个月屏幕就有几条划痕了](https://www.v2ex.com/t/826140) 

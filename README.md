@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-04 10:58:10，:rocket: 更新条数: +1666， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-04 11:11:09，:rocket: 更新条数: +1667， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -65,7 +65,7 @@
 </summary>
 
 
-- [2022-01-04-1月3日全国新增新冠175例-三省份本土108例](https://m.caixin.com/m/2022-01-04/101825418.html) ![](assets/new.png)  
+- [2022-01-04-最新疫情：全国新冠累计确诊102841例-累计接种新冠疫苗超28.55亿剂次](https://m.caixin.com/m/2022-01-04/101825781.html) ![](assets/new.png)  
 - [2022-01-04-香港Omicron本地病例增至6宗-特首称通关再延迟](https://m.caixin.com/m/2022-01-04/101825740.html) ![](assets/new.png)  
 - [2022-01-04-西安“一码通”再现故障](https://m.caixin.com/m/2022-01-04/101825605.html) ![](assets/new.png)  
 - [2022-01-04-【境内疫情观察】全国新增108例本土病例（1月3日）](https://database.caixin.com/m/2022-01-04/101825671.html) ![](assets/new.png)  
@@ -494,6 +494,7 @@
 </summary>
 
 
+- [2022-01-04-即将从校园踏入互联网，前辈们预测一下一年后我的想法会有哪些变化呢？](https://www.v2ex.com/t/826183) ![](assets/new.png)  
 - [2022-01-04-我用-Rust-重写（并重新设计）了-frp，性能和资源占用有很大改善](https://www.v2ex.com/t/826182) ![](assets/new.png)  
 - [2022-01-04-我朋友打算年后找个测试岗,-哪儿可以刷软件测试的题?](https://www.v2ex.com/t/826180) ![](assets/new.png)  
 - [2022-01-04-求帮忙下载一份华为内网文档](https://www.v2ex.com/t/826179) ![](assets/new.png)  
@@ -513,7 +514,6 @@
 - [2022-01-04-求推荐一款户外阳光下屏幕清晰的老人机](https://www.v2ex.com/t/826161) ![](assets/new.png)  
 - [2022-01-04-http://Patterns.dev-是一本关于设计模式和组件模式的免费书籍，主要讲解使用-vanilla-JavaScript-和-React-构建强大的-Web-应用。](https://www.v2ex.com/t/826160) ![](assets/new.png)  
 - [2022-01-04-远程工作-UI-交互设计师，时薪-35-美元，可全职或者兼职。](https://www.v2ex.com/t/826158) ![](assets/new.png)  
-- [2022-01-04-All-in-Metaverse-&-DeFi-on-Starcoin-Move-语言黑客松大赛](https://www.v2ex.com/t/826156) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -574,8 +574,8 @@
 - [2022-01-04-Go-服务进行自动采样性能分析的方案设计与实现](https://toutiao.io/k/2vuouzy) ![](assets/new.png)  
 - [2022-01-04-特斯拉灯光秀指南「GitHub-热点速览-v.22.01」](https://toutiao.io/k/wul5aay) ![](assets/new.png)  
 - [2022-01-04-Flutter基础widgets教程-cupertinoActivityIndicator篇](https://toutiao.io/k/vvmmms3) ![](assets/new.png)  
-- [2022-01-04-推荐-分布式链路追踪在字节跳动的实践](https://toutiao.io/k/hkc5fd7) ![](assets/new.png)  
 - [2022-01-04-推荐-聊聊spring事务失效的12种场景，太坑了](https://toutiao.io/k/uf6yk96) ![](assets/new.png)  
+- [2022-01-04-推荐-插件式可扩展架构设计心得](https://toutiao.io/k/w43usss) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

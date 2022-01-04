@@ -1,11 +1,11 @@
-:alarm_clock: 更新时间: 2022-01-04 10:58:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-01-04 11:11:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
 
 
 
-- [2022-01-04-1月3日全国新增新冠175例-三省份本土108例](https://m.caixin.com/m/2022-01-04/101825418.html) 
+- [2022-01-04-最新疫情：全国新冠累计确诊102841例-累计接种新冠疫苗超28.55亿剂次](https://m.caixin.com/m/2022-01-04/101825781.html) 
 - [2022-01-04-香港Omicron本地病例增至6宗-特首称通关再延迟](https://m.caixin.com/m/2022-01-04/101825740.html) 
 - [2022-01-04-西安“一码通”再现故障](https://m.caixin.com/m/2022-01-04/101825605.html) 
 - [2022-01-04-【境内疫情观察】全国新增108例本土病例（1月3日）](https://database.caixin.com/m/2022-01-04/101825671.html) 
@@ -1549,6 +1549,7 @@
 - [2021-12-31-科技爱好者周刊（第-190-期）：产品化思维](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-190.html) 
 - [2021-12-24-科技爱好者周刊（第-189-期）：下一个内卷的行业](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-189.html) 
 - [2021-12-17-科技爱好者周刊（第-188-期）：音乐是反社交](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-188.html) 
+- [2022-01-04-即将从校园踏入互联网，前辈们预测一下一年后我的想法会有哪些变化呢？](https://www.v2ex.com/t/826183) 
 - [2022-01-04-我朋友打算年后找个测试岗,-哪儿可以刷软件测试的题?](https://www.v2ex.com/t/826180) 
 - [2022-01-04-求帮忙下载一份华为内网文档](https://www.v2ex.com/t/826179) 
 - [2022-01-04-请教大佬一个-Linux-组播的问题](https://www.v2ex.com/t/826173) 
@@ -1603,16 +1604,16 @@
 - [2022-01-04-2022，一个长期主义者的年度复盘和规划](https://toutiao.io/k/etnoowt) 
 - [2022-01-04-Excelize-2.5.0-正式发布，这些新增功能值得关注](https://toutiao.io/k/k4qqck4) 
 - [2022-01-04-动手实现一个localcache---实现篇](https://toutiao.io/k/jxojxc0) 
-- [2022-01-04-推荐-分布式链路追踪在字节跳动的实践](https://toutiao.io/k/hkc5fd7) 
 - [2022-01-04-推荐-聊聊spring事务失效的12种场景，太坑了](https://toutiao.io/k/uf6yk96) 
-- [2022-01-04-推荐-从0开始设计Twitter系统架构](https://toutiao.io/k/3fie9ar) 
-- [2022-01-04-推荐-WhatsApp系统架构](https://toutiao.io/k/7dt7oe2) 
-- [2022-01-04-推荐-再见-Typora！推荐一个-2.3-万-Star-的开源-Markdown-编辑器](https://toutiao.io/k/ol8ule0) 
-- [2022-01-04-推荐-我做系统架构的一些原则](https://toutiao.io/k/vlt0zc9) 
 - [2022-01-04-推荐-插件式可扩展架构设计心得](https://toutiao.io/k/w43usss) 
-- [2022-01-04-推荐-登录态-&-SSO](https://toutiao.io/k/vjcw3vh) 
-- [2022-01-04-推荐-2021年美团技术团队最受欢迎的22篇技术文章](https://toutiao.io/k/pjse55y) 
-- [2022-01-04-推荐-白话linux操作系统原理](https://toutiao.io/k/zgc47l7) 
 - [2022-01-04-推荐-快速找出redis大key删除](https://toutiao.io/k/yncwv3k) 
+- [2022-01-04-推荐-从0开始设计Twitter系统架构](https://toutiao.io/k/3fie9ar) 
 - [2022-01-04-推荐-小心陷入-MySQL-索引的坑](https://toutiao.io/k/gucqkq4) 
+- [2022-01-04-推荐-再见-Typora！推荐一个-2.3-万-Star-的开源-Markdown-编辑器](https://toutiao.io/k/ol8ule0) 
 - [2022-01-04-推荐-画架构图的神器](https://toutiao.io/k/4773s9p) 
+- [2022-01-04-推荐-2021年美团技术团队最受欢迎的22篇技术文章](https://toutiao.io/k/pjse55y) 
+- [2022-01-04-推荐-WhatsApp系统架构](https://toutiao.io/k/7dt7oe2) 
+- [2022-01-04-推荐-我做系统架构的一些原则](https://toutiao.io/k/vlt0zc9) 
+- [2022-01-04-推荐-分布式链路追踪在字节跳动的实践](https://toutiao.io/k/hkc5fd7) 
+- [2022-01-04-推荐-登录态-&-SSO](https://toutiao.io/k/vjcw3vh) 
+- [2022-01-04-推荐-白话linux操作系统原理](https://toutiao.io/k/zgc47l7) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-01-04 03:14:15。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-01-04 03:23:17。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
@@ -39,4 +39,3 @@
 - [2022-01-04-Netflix-巴基斯坦区，月付-11，到-2-月-2-号](https://www.v2ex.com/t/825994) 
 - [2022-01-04-公司网络限制访问-Google](https://www.v2ex.com/t/825993) 
 - [2022-01-04-关于路由器的扩展问题](https://www.v2ex.com/t/825992) 
-- [2022-01-04-电视音响求推荐](https://www.v2ex.com/t/825991) 

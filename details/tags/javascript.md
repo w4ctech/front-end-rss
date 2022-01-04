@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-01-04 02:55:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-01-04 03:14:15。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -18,4 +18,3 @@
 - [2021-11-23-从js-visibilitychange-Safari下无效说开去](https://www.zhangxinxu.com/wordpress/2021/11/js-visibilitychange-pagehide-lifecycle/) 
 - [2021-10-28-JS复制文字到剪切板的极简实现及扩展](https://www.zhangxinxu.com/wordpress/2021/10/js-copy-paste-clipboard/) 
 - [2022-01-04-关于路由器的扩展问题](https://www.v2ex.com/t/825992) 
-- [2022-01-03-Python-,-JS-等动态语言，要规范数据类型，为什么不加个前缀统一呢？](https://www.v2ex.com/t/825978) 

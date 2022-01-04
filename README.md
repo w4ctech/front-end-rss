@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-04 11:11:09，:rocket: 更新条数: +1667， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-04 11:21:11，:rocket: 更新条数: +1668， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,7 +494,8 @@
 </summary>
 
 
-- [2022-01-04-即将从校园踏入互联网，前辈们预测一下一年后我的想法会有哪些变化呢？](https://www.v2ex.com/t/826183) ![](assets/new.png)  
+- [2022-01-04-jsdelivr-自从上次国内-SSL-证书事件，已经没有国内节点了](https://www.v2ex.com/t/826184) ![](assets/new.png)  
+- [2022-01-04-即将从校园踏入互联网，前辈们预测一年后我的想法会有哪些变化呢？](https://www.v2ex.com/t/826183) ![](assets/new.png)  
 - [2022-01-04-我用-Rust-重写（并重新设计）了-frp，性能和资源占用有很大改善](https://www.v2ex.com/t/826182) ![](assets/new.png)  
 - [2022-01-04-我朋友打算年后找个测试岗,-哪儿可以刷软件测试的题?](https://www.v2ex.com/t/826180) ![](assets/new.png)  
 - [2022-01-04-求帮忙下载一份华为内网文档](https://www.v2ex.com/t/826179) ![](assets/new.png)  
@@ -513,7 +514,6 @@
 - [2022-01-04-最近因为工作需要快捷短语，试用了三个输入法的功能，很难受](https://www.v2ex.com/t/826162) ![](assets/new.png)  
 - [2022-01-04-求推荐一款户外阳光下屏幕清晰的老人机](https://www.v2ex.com/t/826161) ![](assets/new.png)  
 - [2022-01-04-http://Patterns.dev-是一本关于设计模式和组件模式的免费书籍，主要讲解使用-vanilla-JavaScript-和-React-构建强大的-Web-应用。](https://www.v2ex.com/t/826160) ![](assets/new.png)  
-- [2022-01-04-远程工作-UI-交互设计师，时薪-35-美元，可全职或者兼职。](https://www.v2ex.com/t/826158) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -574,8 +574,8 @@
 - [2022-01-04-Go-服务进行自动采样性能分析的方案设计与实现](https://toutiao.io/k/2vuouzy) ![](assets/new.png)  
 - [2022-01-04-特斯拉灯光秀指南「GitHub-热点速览-v.22.01」](https://toutiao.io/k/wul5aay) ![](assets/new.png)  
 - [2022-01-04-Flutter基础widgets教程-cupertinoActivityIndicator篇](https://toutiao.io/k/vvmmms3) ![](assets/new.png)  
-- [2022-01-04-推荐-聊聊spring事务失效的12种场景，太坑了](https://toutiao.io/k/uf6yk96) ![](assets/new.png)  
-- [2022-01-04-推荐-插件式可扩展架构设计心得](https://toutiao.io/k/w43usss) ![](assets/new.png)  
+- [2022-01-04-推荐-2021年美团技术团队最受欢迎的22篇技术文章](https://toutiao.io/k/pjse55y) ![](assets/new.png)  
+- [2022-01-04-推荐-快速找出redis大key删除](https://toutiao.io/k/yncwv3k) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

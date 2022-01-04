@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-04 20:24:38，:rocket: 更新条数: +1669， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-04 20:40:53，:rocket: 更新条数: +1669， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,7 @@
 </summary>
 
 
+- [2022-01-04-有没有想来加拿大留学的朋友](https://www.v2ex.com/t/826233) ![](assets/new.png)  
 - [2022-01-04-小心翼翼：-zerotier-算非法建立信道么](https://www.v2ex.com/t/826232) ![](assets/new.png)  
 - [2022-01-04-JS-中有没有什么简单的赋值并且不判断布尔值的写法？](https://www.v2ex.com/t/826231) ![](assets/new.png)  
 - [2022-01-04-请问-windows-下有什么同时支持-udp-和范围端口的端口转发工具？](https://www.v2ex.com/t/826230) ![](assets/new.png)  
@@ -513,7 +514,6 @@
 - [2022-01-04-macos-设置面板如何添加自定义项目？](https://www.v2ex.com/t/826212) ![](assets/new.png)  
 - [2022-01-04-一次携号转网的经历，回不去了。](https://www.v2ex.com/t/826210) ![](assets/new.png)  
 - [2022-01-04-智商题图，求个解呀，想不到了](https://www.v2ex.com/t/826209) ![](assets/new.png)  
-- [2022-01-04-v-友们，早上-5.30-起床靠谱吗，晚上在-bilybily-考到一个-up-主讲这个早起的好处。](https://www.v2ex.com/t/826208) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -574,8 +574,8 @@
 - [2022-01-04-动手实现一个localcache---实现篇](https://toutiao.io/k/jxojxc0) ![](assets/new.png)  
 - [2022-01-04-特斯拉灯光秀指南「GitHub-热点速览-v.22.01」](https://toutiao.io/k/wul5aay) ![](assets/new.png)  
 - [2022-01-04-Flutter基础widgets教程-cupertinoActivityIndicator篇](https://toutiao.io/k/vvmmms3) ![](assets/new.png)  
-- [2022-01-04-推荐-画架构图的神器](https://toutiao.io/k/4773s9p) ![](assets/new.png)  
-- [2022-01-04-推荐-Java-中的5个代码性能提升技巧，最高提升近10倍](https://toutiao.io/k/eyom45a) ![](assets/new.png)  
+- [2022-01-04-推荐-小心陷入-MySQL-索引的坑](https://toutiao.io/k/gucqkq4) ![](assets/new.png)  
+- [2022-01-04-推荐-分布式链路追踪在字节跳动的实践](https://toutiao.io/k/hkc5fd7) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

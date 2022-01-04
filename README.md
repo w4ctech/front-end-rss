@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-04 09:45:08，:rocket: 更新条数: +1662， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-04 09:57:16，:rocket: 更新条数: +1663， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,13 @@
 </summary>
 
 
+- [2022-01-04-如何确认-dump-类型windows-内存转储？](https://www.v2ex.com/t/826166) ![](assets/new.png)  
+- [2022-01-04-三十了，-0-存款-30w+负债](https://www.v2ex.com/t/826165) ![](assets/new.png)  
+- [2022-01-04-分享一下今年升级的家庭网络拓扑](https://www.v2ex.com/t/826164) ![](assets/new.png)  
+- [2022-01-04-上次发贴是-2018-年，这么多年了，经营的网站还没成功，差不多是该放弃了吧？](https://www.v2ex.com/t/826163) ![](assets/new.png)  
+- [2022-01-04-最近因为工作需要快捷短语，试用了三个输入法的功能，很难受](https://www.v2ex.com/t/826162) ![](assets/new.png)  
+- [2022-01-04-求推荐一款户外阳光下屏幕清晰的老人机](https://www.v2ex.com/t/826161) ![](assets/new.png)  
+- [2022-01-04-http://Patterns.dev-是一本关于设计模式和组件模式的免费书籍，主要讲解使用-vanilla-JavaScript-和-React-构建强大的-Web-应用。](https://www.v2ex.com/t/826160) ![](assets/new.png)  
 - [2022-01-04-远程工作-UI-交互设计师，时薪-35-美元，可全职或者兼职。](https://www.v2ex.com/t/826158) ![](assets/new.png)  
 - [2022-01-04-All-in-Metaverse-&-DeFi-on-Starcoin-Move-语言黑客松大赛](https://www.v2ex.com/t/826156) ![](assets/new.png)  
 - [2022-01-04-开发了一年多的-PHP-编译器-BPC-初见成效,发一些测试程序给大家看看](https://www.v2ex.com/t/826154) ![](assets/new.png)  
@@ -507,13 +514,6 @@
 - [2022-01-04-ARM-Mac-的一个-bug，-tap-to-click-与按键组合无效](https://www.v2ex.com/t/826144) ![](assets/new.png)  
 - [2022-01-04-Neo4j-图数据库中国团队为你服务](https://www.v2ex.com/t/826142) ![](assets/new.png)  
 - [2022-01-04-iPhone-13-Pro-用了不到半个月屏幕就有几条划痕了](https://www.v2ex.com/t/826140) ![](assets/new.png)  
-- [2022-01-04-新年快乐！-可以讨论一些关于量化私募的小问题~~//^v^\\~~](https://www.v2ex.com/t/826138) ![](assets/new.png)  
-- [2022-01-04-为什么-android/-Java-反射无法获取到私有方法，倒是能获取到-public-的方法](https://www.v2ex.com/t/826137) ![](assets/new.png)  
-- [2022-01-04-一个简单低级的代码逻辑问题](https://www.v2ex.com/t/826136) ![](assets/new.png)  
-- [2022-01-04-k8s-分布式存储](https://www.v2ex.com/t/826135) ![](assets/new.png)  
-- [2022-01-04-征婚招聘：给我妹妹招一个男朋友（看不惯她不谈恋爱的行为），坐标成都，没有彩礼](https://www.v2ex.com/t/826133) ![](assets/new.png)  
-- [2022-01-04-figma-使用的开发技术？](https://www.v2ex.com/t/826130) ![](assets/new.png)  
-- [2022-01-04-请推荐个线不可插拔的双模机械键盘](https://www.v2ex.com/t/826129) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -572,10 +572,10 @@
 - [2022-01-04-Excelize-2.5.0-正式发布，这些新增功能值得关注](https://toutiao.io/k/k4qqck4) ![](assets/new.png)  
 - [2022-01-04-动手实现一个localcache---实现篇](https://toutiao.io/k/jxojxc0) ![](assets/new.png)  
 - [2022-01-04-Go-服务进行自动采样性能分析的方案设计与实现](https://toutiao.io/k/2vuouzy) ![](assets/new.png)  
-- [2022-01-04-特斯拉灯光秀指南「GitHub-热点速览-v.22.01」](https://toutiao.io/k/wul5aay) ![](assets/new.png)  
 - [2022-01-04-Flutter基础widgets教程-cupertinoActivityIndicator篇](https://toutiao.io/k/vvmmms3) ![](assets/new.png)  
+- [2022-01-04-特斯拉灯光秀指南「GitHub-热点速览-v.22.01」](https://toutiao.io/k/wul5aay) ![](assets/new.png)  
 - [2022-01-04-推荐-从0开始设计Twitter系统架构](https://toutiao.io/k/3fie9ar) ![](assets/new.png)  
-- [2022-01-04-推荐-分布式链路追踪在字节跳动的实践](https://toutiao.io/k/hkc5fd7) ![](assets/new.png)  
+- [2022-01-04-推荐-再见-Typora！推荐一个-2.3-万-Star-的开源-Markdown-编辑器](https://toutiao.io/k/ol8ule0) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

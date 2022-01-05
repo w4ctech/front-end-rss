@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-05 04:57:35，:rocket: 更新条数: +1664， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-05 05:14:17，:rocket: 更新条数: +1664， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,8 @@
 </summary>
 
 
+- [2022-01-05-exFat-格式下文件夹的修改时间不会自己变么？](https://www.v2ex.com/t/826320) ![](assets/new.png)  
+- [2022-01-05-有打卡类-app-推荐吗](https://www.v2ex.com/t/826319) ![](assets/new.png)  
 - [2022-01-05-一个-Android-无障碍功能和-Chrome-浏览器的-Bug](https://www.v2ex.com/t/826317) ![](assets/new.png)  
 - [2022-01-05-不支持粘贴验证码的-APP-是不是反人类？](https://www.v2ex.com/t/826314) ![](assets/new.png)  
 - [2022-01-05-MBP-14-低配开个-IntelliJ-IDEA，用了-5-个多-G-的内存，正常吗？](https://www.v2ex.com/t/826313) ![](assets/new.png)  
@@ -512,8 +514,6 @@
 - [2022-01-05-有哪些长期稳定更新的数据源？](https://www.v2ex.com/t/826297) ![](assets/new.png)  
 - [2022-01-05-北京，上海，深圳外企965-Intel-软硬件研发，测试内推](https://www.v2ex.com/t/826296) ![](assets/new.png)  
 - [2022-01-05-iPhone-SE2-改双电池，续航加倍](https://www.v2ex.com/t/826295) ![](assets/new.png)  
-- [2022-01-05-rMBP-16-寸声音异常求助](https://www.v2ex.com/t/826294) ![](assets/new.png)  
-- [2022-01-05-《我是如何开始关心数学基础的》](https://www.v2ex.com/t/826292) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -563,19 +563,19 @@
 - [2022-01-05-惊了！原来Go语言也有隐式转型](https://toutiao.io/k/0wq3tqy) ![](assets/new.png)  
 - [2022-01-05-前端应该掌握的软链接与硬链接知识](https://toutiao.io/k/vjp77to) ![](assets/new.png)  
 - [2022-01-05-之家云API网关的前世今生](https://toutiao.io/k/16je6kb) ![](assets/new.png)  
-- [2022-01-05-Python猫-2021-文章小结，翻译竟比原创多！](https://toutiao.io/k/ela51ua) ![](assets/new.png)  
 - [2022-01-05-史上最全数仓建设总结（纯干货建议收藏）](https://toutiao.io/k/8885ar5) ![](assets/new.png)  
+- [2022-01-05-Python猫-2021-文章小结，翻译竟比原创多！](https://toutiao.io/k/ela51ua) ![](assets/new.png)  
 - [2022-01-05-Web3.0是什么，为什么MetaVerse这么火？](https://toutiao.io/k/kjd4tak) ![](assets/new.png)  
 - [2022-01-05-网易有道Redis云原生实战](https://toutiao.io/k/zpbfihy) ![](assets/new.png)  
 - [2022-01-05-我做的百度飞桨PaddleOCR-.NET调用库](https://toutiao.io/k/zpqocqu) ![](assets/new.png)  
-- [2022-01-05-推荐-再见-Typora！推荐一个-2.3-万-Star-的开源-Markdown-编辑器](https://toutiao.io/k/ol8ule0) ![](assets/new.png)  
-- [2022-01-05-推荐-插件式可扩展架构设计心得](https://toutiao.io/k/w43usss) ![](assets/new.png)  
-- [2022-01-05-推荐-从0开始设计Twitter系统架构](https://toutiao.io/k/3fie9ar) ![](assets/new.png)  
-- [2022-01-05-推荐-登录态-&-SSO](https://toutiao.io/k/vjcw3vh) ![](assets/new.png)  
-- [2022-01-05-推荐-白话linux操作系统原理](https://toutiao.io/k/zgc47l7) ![](assets/new.png)  
-- [2022-01-05-推荐-画架构图的神器](https://toutiao.io/k/4773s9p) ![](assets/new.png)  
 - [2022-01-05-推荐-聊聊spring事务失效的12种场景，太坑了](https://toutiao.io/k/uf6yk96) ![](assets/new.png)  
+- [2022-01-05-推荐-白话linux操作系统原理](https://toutiao.io/k/zgc47l7) ![](assets/new.png)  
+- [2022-01-05-推荐-从0开始设计Twitter系统架构](https://toutiao.io/k/3fie9ar) ![](assets/new.png)  
 - [2022-01-05-推荐-小心陷入-MySQL-索引的坑](https://toutiao.io/k/gucqkq4) ![](assets/new.png)  
+- [2022-01-05-推荐-我做系统架构的一些原则](https://toutiao.io/k/vlt0zc9) ![](assets/new.png)  
+- [2022-01-05-推荐-再见-Typora！推荐一个-2.3-万-Star-的开源-Markdown-编辑器](https://toutiao.io/k/ol8ule0) ![](assets/new.png)  
+- [2022-01-05-推荐-2021年美团技术团队最受欢迎的22篇技术文章](https://toutiao.io/k/pjse55y) ![](assets/new.png)  
+- [2022-01-05-推荐-分布式链路追踪在字节跳动的实践](https://toutiao.io/k/hkc5fd7) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

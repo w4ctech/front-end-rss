@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-01-05 02:18:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-01-05 02:55:55。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -20,5 +20,3 @@
 - [2022-01-04-asyncrun-发布六年后的更新](https://www.v2ex.com/t/826234) 
 - [2022-01-04-JS-中有没有什么简单的赋值并且不判断布尔值的写法？](https://www.v2ex.com/t/826231) 
 - [2022-01-04-CloudFlare-的电子邮件路由可以使用了](https://www.v2ex.com/t/826228) 
-- [2022-01-04-JavaScript-实现滚动到页面指定位置，这行代码表达了什么？](https://www.v2ex.com/t/826221) 
-- [2022-01-04-JS-不可变数据踩坑，-immer-不是最终出路，高性能场景还需自己实现](https://www.v2ex.com/t/826219) 

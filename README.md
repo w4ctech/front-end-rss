@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-05 03:46:08，:rocket: 更新条数: +1662， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-05 03:58:06，:rocket: 更新条数: +1664， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,16 @@
 </summary>
 
 
+- [2022-01-05-2022-年了，求推荐一波-hugo-主题吧~](https://www.v2ex.com/t/826309) ![](assets/new.png)  
+- [2022-01-05-求问备份的备份方案？](https://www.v2ex.com/t/826308) ![](assets/new.png)  
+- [2022-01-05-想做近视眼手术-北京有啥推荐医院吗](https://www.v2ex.com/t/826307) ![](assets/new.png)  
+- [2022-01-05-碰到一个好奇怪的问题，我要崩溃了，求助各位。](https://www.v2ex.com/t/826306) ![](assets/new.png)  
+- [2022-01-05-大家都是怎么入门学习区块链的？](https://www.v2ex.com/t/826305) ![](assets/new.png)  
+- [2022-01-05-ApiFox-获得-preA-轮-3000-万融资](https://www.v2ex.com/t/826302) ![](assets/new.png)  
+- [2022-01-05-请问如何查找相同型号某块硬盘](https://www.v2ex.com/t/826301) ![](assets/new.png)  
+- [2022-01-05-V-友们，-求推荐文件去重工具](https://www.v2ex.com/t/826300) ![](assets/new.png)  
+- [2022-01-05-《给女朋友出了个年度报告》实践视频](https://www.v2ex.com/t/826299) ![](assets/new.png)  
+- [2022-01-05-WPS-竟然比-Excel-快？](https://www.v2ex.com/t/826298) ![](assets/new.png)  
 - [2022-01-05-有哪些长期稳定更新的数据源？](https://www.v2ex.com/t/826297) ![](assets/new.png)  
 - [2022-01-05-北京，上海，深圳外企965-Intel-软硬件研发，测试内推](https://www.v2ex.com/t/826296) ![](assets/new.png)  
 - [2022-01-05-iPhone-SE2-改双电池，续航加倍](https://www.v2ex.com/t/826295) ![](assets/new.png)  
@@ -504,16 +514,6 @@
 - [2022-01-05-qq-音乐的-mini-窗口跑到屏幕最顶端只露一个边，怎么能弄下来](https://www.v2ex.com/t/826288) ![](assets/new.png)  
 - [2022-01-05-ERP-系统本身不提供提醒-API-有什么办法做到自动化，或者提醒。](https://www.v2ex.com/t/826287) ![](assets/new.png)  
 - [2022-01-05-2021-新款的-mac-book-pro-充不进电！](https://www.v2ex.com/t/826286) ![](assets/new.png)  
-- [2022-01-05-用进废退同样深刻影响编程](https://www.v2ex.com/t/826285) ![](assets/new.png)  
-- [2022-01-05-现在上海疫情啥情况,近期去出差会不会出不来?](https://www.v2ex.com/t/826284) ![](assets/new.png)  
-- [2022-01-05-企业微信店大欺客啊，求助啊，我们这种消费者咋活啊](https://www.v2ex.com/t/826283) ![](assets/new.png)  
-- [2022-01-05-Apple-watch-有必要贴膜吗?](https://www.v2ex.com/t/826280) ![](assets/new.png)  
-- [2022-01-05-mysql-基础不牢，请教各位-v-友一个查询语句。](https://www.v2ex.com/t/826277) ![](assets/new.png)  
-- [2022-01-05-招聘：-Java-开发工程师-北京](https://www.v2ex.com/t/826276) ![](assets/new.png)  
-- [2022-01-05-Readonly.Link-是一个-Markdown-渲染平台，可以给-Markdown-写扩展！](https://www.v2ex.com/t/826274) ![](assets/new.png)  
-- [2022-01-05-出个腾讯季卡-30，还有京东票](https://www.v2ex.com/t/826273) ![](assets/new.png)  
-- [2022-01-05-关于使用-ES7.x-进行全文检索的使用姿势](https://www.v2ex.com/t/826272) ![](assets/new.png)  
-- [2022-01-05-新加坡技术移民-新加坡知名互联网公司，招移动端（ios,安卓，-RN），前端，后端（不限开发语言），-DevOps-/SRE-和-DBA-等各类技术专家（对标-P7），个税低...](https://www.v2ex.com/t/826270) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -568,14 +568,14 @@
 - [2022-01-05-网易有道Redis云原生实战](https://toutiao.io/k/zpbfihy) ![](assets/new.png)  
 - [2022-01-05-之家云API网关的前世今生](https://toutiao.io/k/16je6kb) ![](assets/new.png)  
 - [2022-01-05-我做的百度飞桨PaddleOCR-.NET调用库](https://toutiao.io/k/zpqocqu) ![](assets/new.png)  
-- [2022-01-05-推荐-小心陷入-MySQL-索引的坑](https://toutiao.io/k/gucqkq4) ![](assets/new.png)  
-- [2022-01-05-推荐-插件式可扩展架构设计心得](https://toutiao.io/k/w43usss) ![](assets/new.png)  
-- [2022-01-05-推荐-从0开始设计Twitter系统架构](https://toutiao.io/k/3fie9ar) ![](assets/new.png)  
-- [2022-01-05-推荐-登录态-&-SSO](https://toutiao.io/k/vjcw3vh) ![](assets/new.png)  
 - [2022-01-05-推荐-画架构图的神器](https://toutiao.io/k/4773s9p) ![](assets/new.png)  
-- [2022-01-05-推荐-聊聊spring事务失效的12种场景，太坑了](https://toutiao.io/k/uf6yk96) ![](assets/new.png)  
 - [2022-01-05-推荐-2021年美团技术团队最受欢迎的22篇技术文章](https://toutiao.io/k/pjse55y) ![](assets/new.png)  
 - [2022-01-05-推荐-再见-Typora！推荐一个-2.3-万-Star-的开源-Markdown-编辑器](https://toutiao.io/k/ol8ule0) ![](assets/new.png)  
+- [2022-01-05-推荐-小心陷入-MySQL-索引的坑](https://toutiao.io/k/gucqkq4) ![](assets/new.png)  
+- [2022-01-05-推荐-白话linux操作系统原理](https://toutiao.io/k/zgc47l7) ![](assets/new.png)  
+- [2022-01-05-推荐-聊聊spring事务失效的12种场景，太坑了](https://toutiao.io/k/uf6yk96) ![](assets/new.png)  
+- [2022-01-05-推荐-分布式链路追踪在字节跳动的实践](https://toutiao.io/k/hkc5fd7) ![](assets/new.png)  
+- [2022-01-05-推荐-WhatsApp系统架构](https://toutiao.io/k/7dt7oe2) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

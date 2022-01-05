@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-05 03:14:33，:rocket: 更新条数: +1662， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-05 03:26:44，:rocket: 更新条数: +1662， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -66,10 +66,11 @@
 
 
 - [2022-01-05-1月4日全国新增新冠91例-三省份本土41例](https://m.caixin.com/m/2022-01-05/101825931.html) ![](assets/new.png)  
+- [2022-01-05-西安“买菜难”症结：配送人员锐减-运输车辆不足](https://m.caixin.com/m/2022-01-05/101826020.html) ![](assets/new.png)  
 - [2022-01-05-以色列称接种第四剂疫苗抗体增加5倍-英格兰拒绝封锁｜大流行手记（1月4日）](https://m.caixin.com/m/2022-01-05/101825962.html) ![](assets/new.png)  
-- [2022-01-04-西安连续两日新增少于百例-社会层面检出病例比例下降](https://m.caixin.com/m/2022-01-04/101825890.html) ![](assets/new.png)  
 - [2022-01-04-河南新增35例感染者-许昌病例数攀升来源不明](https://m.caixin.com/m/2022-01-04/101825840.html) ![](assets/new.png)  
 - [2022-01-04-香港Omicron本地病例增至6宗-特首称通关再延迟](https://m.caixin.com/m/2022-01-04/101825740.html) ![](assets/new.png)  
+- [2022-01-04-西安连续两日新增少于百例-社会层面检出病例比例下降](https://m.caixin.com/m/2022-01-04/101825890.html) ![](assets/new.png)  
 - [2022-01-04-西安“一码通”再现故障-大数据局局长被停职](https://m.caixin.com/m/2022-01-04/101825605.html) ![](assets/new.png)  
 - [2022-01-04-【境内疫情观察】全国新增108例本土病例（1月3日）](https://database.caixin.com/m/2022-01-04/101825671.html) ![](assets/new.png)  
 - [2022-01-04-纽约检测阳性率达33%，多国缩短加强针接种间隔｜大流行手记（1月3日）](https://m.caixin.com/m/2022-01-04/101825439.html) ![](assets/new.png)  
@@ -84,7 +85,6 @@
 - [2022-01-01-​宁波市新增1例确诊-北仑区全区封闭](https://m.caixin.com/m/2022-01-01/101825089.html) ![](assets/new.png)  
 - [2022-01-01-【境内疫情观察】陕西新增174例本土病例（12月31日）](https://database.caixin.com/m/2022-01-01/101825023.html) ![](assets/new.png)  
 - [2022-01-01-英国重启临时医院，多国医疗系统承压｜大流行手记（12月31日）](https://m.caixin.com/m/2022-01-01/101824902.html) ![](assets/new.png)  
-- [2021-12-31-西安累计确诊1277例再启新一轮检测-浙江全域降为低风险](https://m.caixin.com/m/2021-12-31/101824743.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -494,11 +494,13 @@
 </summary>
 
 
+- [2022-01-05-求个低功耗，纯-5G-的适合放床头柜的-AP/路由](https://www.v2ex.com/t/826289) ![](assets/new.png)  
+- [2022-01-05-qq-音乐的-mini-窗口跑到屏幕最顶端只露一个边，怎么能弄下来](https://www.v2ex.com/t/826288) ![](assets/new.png)  
+- [2022-01-05-ERP-系统本身不提供提醒-API-有什么办法做到自动化，或者提醒。](https://www.v2ex.com/t/826287) ![](assets/new.png)  
 - [2022-01-05-2021-新款的-mac-book-pro-充不进电！](https://www.v2ex.com/t/826286) ![](assets/new.png)  
 - [2022-01-05-用进废退同样深刻影响编程](https://www.v2ex.com/t/826285) ![](assets/new.png)  
 - [2022-01-05-现在上海疫情啥情况,近期去出差会不会出不来?](https://www.v2ex.com/t/826284) ![](assets/new.png)  
 - [2022-01-05-企业微信店大欺客啊，求助啊，我们这种消费者咋活啊](https://www.v2ex.com/t/826283) ![](assets/new.png)  
-- [2022-01-05-广州虎牙职位热招](https://www.v2ex.com/t/826281) ![](assets/new.png)  
 - [2022-01-05-Apple-watch-有必要贴膜吗?](https://www.v2ex.com/t/826280) ![](assets/new.png)  
 - [2022-01-05-mysql-基础不牢，请教各位-v-友一个查询语句。](https://www.v2ex.com/t/826277) ![](assets/new.png)  
 - [2022-01-05-招聘：-Java-开发工程师-北京](https://www.v2ex.com/t/826276) ![](assets/new.png)  
@@ -512,8 +514,6 @@
 - [2022-01-05-谁给推荐个手机上看-github-上的电子书的-App？](https://www.v2ex.com/t/826264) ![](assets/new.png)  
 - [2022-01-05-为了方便面试刷题，自己做了一个-wiki，还支持手机端小程序，以后面试刷题方便了](https://www.v2ex.com/t/826261) ![](assets/new.png)  
 - [2022-01-05-这种业务场景有没有更优雅的方式？](https://www.v2ex.com/t/826260) ![](assets/new.png)  
-- [2022-01-05-关于客户端的数据存储](https://www.v2ex.com/t/826259) ![](assets/new.png)  
-- [2022-01-05-求问各位去听-podcast（播客）理由？](https://www.v2ex.com/t/826257) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -564,18 +564,18 @@
 - [2022-01-05-前端应该掌握的软链接与硬链接知识](https://toutiao.io/k/vjp77to) ![](assets/new.png)  
 - [2022-01-05-Web3.0是什么，为什么MetaVerse这么火？](https://toutiao.io/k/kjd4tak) ![](assets/new.png)  
 - [2022-01-05-Python猫-2021-文章小结，翻译竟比原创多！](https://toutiao.io/k/ela51ua) ![](assets/new.png)  
-- [2022-01-05-网易有道Redis云原生实战](https://toutiao.io/k/zpbfihy) ![](assets/new.png)  
 - [2022-01-05-史上最全数仓建设总结（纯干货建议收藏）](https://toutiao.io/k/8885ar5) ![](assets/new.png)  
+- [2022-01-05-网易有道Redis云原生实战](https://toutiao.io/k/zpbfihy) ![](assets/new.png)  
 - [2022-01-05-之家云API网关的前世今生](https://toutiao.io/k/16je6kb) ![](assets/new.png)  
 - [2022-01-05-我做的百度飞桨PaddleOCR-.NET调用库](https://toutiao.io/k/zpqocqu) ![](assets/new.png)  
-- [2022-01-05-推荐-分布式链路追踪在字节跳动的实践](https://toutiao.io/k/hkc5fd7) ![](assets/new.png)  
-- [2022-01-05-推荐-小心陷入-MySQL-索引的坑](https://toutiao.io/k/gucqkq4) ![](assets/new.png)  
 - [2022-01-05-推荐-再见-Typora！推荐一个-2.3-万-Star-的开源-Markdown-编辑器](https://toutiao.io/k/ol8ule0) ![](assets/new.png)  
-- [2022-01-05-推荐-白话linux操作系统原理](https://toutiao.io/k/zgc47l7) ![](assets/new.png)  
 - [2022-01-05-推荐-从0开始设计Twitter系统架构](https://toutiao.io/k/3fie9ar) ![](assets/new.png)  
+- [2022-01-05-推荐-WhatsApp系统架构](https://toutiao.io/k/7dt7oe2) ![](assets/new.png)  
 - [2022-01-05-推荐-我做系统架构的一些原则](https://toutiao.io/k/vlt0zc9) ![](assets/new.png)  
-- [2022-01-05-推荐-Java-中的5个代码性能提升技巧，最高提升近10倍](https://toutiao.io/k/eyom45a) ![](assets/new.png)  
+- [2022-01-05-推荐-小心陷入-MySQL-索引的坑](https://toutiao.io/k/gucqkq4) ![](assets/new.png)  
 - [2022-01-05-推荐-画架构图的神器](https://toutiao.io/k/4773s9p) ![](assets/new.png)  
+- [2022-01-05-推荐-2021年美团技术团队最受欢迎的22篇技术文章](https://toutiao.io/k/pjse55y) ![](assets/new.png)  
+- [2022-01-05-推荐-插件式可扩展架构设计心得](https://toutiao.io/k/w43usss) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-05 07:21:38，:rocket: 更新条数: +1675， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-05 07:38:38，:rocket: 更新条数: +1678， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -66,6 +66,7 @@
 
 
 - [2022-01-05-1月4日全国新增新冠91例-三省份本土41例](https://m.caixin.com/m/2022-01-05/101825931.html) ![](assets/new.png)  
+- [2022-01-05-香港本地疫情升级-邮轮载9名“密接”紧急返航](https://m.caixin.com/m/2022-01-05/101826084.html) ![](assets/new.png)  
 - [2022-01-05-西安“买菜难”症结：配送人员锐减-运输车辆不足](https://m.caixin.com/m/2022-01-05/101826020.html) ![](assets/new.png)  
 - [2022-01-05-以色列称接种第四剂疫苗抗体增加5倍-英格兰拒绝封锁｜大流行手记（1月4日）](https://m.caixin.com/m/2022-01-05/101825962.html) ![](assets/new.png)  
 - [2022-01-04-河南新增35例感染者-许昌病例数攀升来源不明](https://m.caixin.com/m/2022-01-04/101825840.html) ![](assets/new.png)  
@@ -84,7 +85,6 @@
 - [2022-01-02-南非Omicron浪潮或已见顶-印度担忧第三波疫情丨大流行手记（1月1日）](https://m.caixin.com/m/2022-01-02/101825115.html) ![](assets/new.png)  
 - [2022-01-01-​宁波市新增1例确诊-北仑区全区封闭](https://m.caixin.com/m/2022-01-01/101825089.html) ![](assets/new.png)  
 - [2022-01-01-【境内疫情观察】陕西新增174例本土病例（12月31日）](https://database.caixin.com/m/2022-01-01/101825023.html) ![](assets/new.png)  
-- [2022-01-01-英国重启临时医院，多国医疗系统承压｜大流行手记（12月31日）](https://m.caixin.com/m/2022-01-01/101824902.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -494,6 +494,11 @@
 </summary>
 
 
+- [2022-01-05-VR-结合养老的项目，欢迎有兴趣的一起聊聊](https://www.v2ex.com/t/826370) ![](assets/new.png)  
+- [2022-01-05-主机管理工具-natpass-v0.8.0-版本发布，支持非-tls-加密连接](https://www.v2ex.com/t/826369) ![](assets/new.png)  
+- [2022-01-05-有什么屯粮的作业可以抄一下么？](https://www.v2ex.com/t/826368) ![](assets/new.png)  
+- [2022-01-05--Java-怎么实现在-catch-前后打印日志？](https://www.v2ex.com/t/826367) ![](assets/new.png)  
+- [2022-01-05-原来一码通崩溃的原因可能是这个](https://www.v2ex.com/t/826366) ![](assets/new.png)  
 - [2022-01-05-自定义-SLAAC-eui64-模式-ipv6-后缀的相关问题.](https://www.v2ex.com/t/826365) ![](assets/new.png)  
 - [2022-01-05-做一个高性能的小程序-JS-虚拟机有意义吗](https://www.v2ex.com/t/826364) ![](assets/new.png)  
 - [2022-01-05-请问一下各位大佬们，-MacBookPro-上有没有哪些拼音输入法比较好用的？](https://www.v2ex.com/t/826363) ![](assets/new.png)  
@@ -509,11 +514,6 @@
 - [2022-01-05-各位在用-md-语法记笔记时更习惯用一级还是二级标题开头？](https://www.v2ex.com/t/826351) ![](assets/new.png)  
 - [2022-01-05-求问下这个配置的主机在-1080-分辨率下-pubg-平均只有-90-的-FPS，瓶颈在哪里。](https://www.v2ex.com/t/826350) ![](assets/new.png)  
 - [2022-01-05-讨论下-卡密下发-保证不重发-除了不用-redis-还有啥方案](https://www.v2ex.com/t/826349) ![](assets/new.png)  
-- [2022-01-05-张江路地铁站主卧转租](https://www.v2ex.com/t/826348) ![](assets/new.png)  
-- [2022-01-05-如何使用-Tin-快速搭建-Gitlab-ce（史上最简单方法）](https://www.v2ex.com/t/826346) ![](assets/new.png)  
-- [2022-01-05-小白（前端开发）想入手性价比较高的一款-Mac-用于工作](https://www.v2ex.com/t/826345) ![](assets/new.png)  
-- [2022-01-05-有没有支持-64-位程序的转区工具？](https://www.v2ex.com/t/826343) ![](assets/new.png)  
-- [2022-01-05-关于-APP-浏览中加载下一页内容，有没有好的设计方法，不需要用户到达最底部再加载](https://www.v2ex.com/t/826342) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -574,8 +574,8 @@
 - [2022-01-05-了不起的Chrome浏览器（9）：Chrome-97发布WebTransport，QUIC协议小试牛刀](https://toutiao.io/k/4o8ttxp) ![](assets/new.png)  
 - [2022-01-05-Go-泛型的-3-个核心设计，你学会了吗？](https://toutiao.io/k/lsh6zzc) ![](assets/new.png)  
 - [2022-01-05-1-万-Star！基于-Android-平台的开源-Linux-终端模拟器](https://toutiao.io/k/uw436lt) ![](assets/new.png)  
-- [2022-01-05-【Rust日报】2022-1-4-Dioxus-v0.1-发布](https://toutiao.io/k/025h6bd) ![](assets/new.png)  
 - [2022-01-05-小工具批量将mp3音频格式转换为wav格式](https://toutiao.io/k/mbi91wb) ![](assets/new.png)  
+- [2022-01-05-【Rust日报】2022-1-4-Dioxus-v0.1-发布](https://toutiao.io/k/025h6bd) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

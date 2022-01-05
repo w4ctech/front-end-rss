@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-01-05 20:24:24。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-01-05 20:41:41。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -235,7 +235,6 @@
 - [【武汉肺炎防疫全纪录(财新网)】广州17岁男生在定点医院参加高考-特殊考场视频监考](https://m.caixin.com/m/2021-06-05/101723418.html)
 - [【武汉肺炎防疫全纪录(财新网)】林郑月娥率13高官直播接种科兴疫苗-复星疫苗预计周中到港](https://m.caixin.com/m/2021-02-22/101665724.html)
 - [【V2EX】12-mini-升级到-13-mini-的左手用户食指是否能完美避开摄像头了](https://www.v2ex.com/t/826469)
-- [【V2EX】下载了一段视频-m3u8-格式-分片-ts-怎么合并为一个-mp4](https://www.v2ex.com/t/826431)
 - [【开发者头条】小工具批量将mp3音频格式转换为wav格式](https://toutiao.io/k/mbi91wb)
 - [......【查看更多】......](./details/tags/audio-video.md)
 
@@ -347,6 +346,7 @@
 
 
 
+- [【V2EX】硅谷-Top-50-FinTech-Company-🚀🚀🚀年前面试年后入职🌟🌟🌟100%远程+期权+双休+四周年假+各种福利补贴-🔥🔥🔥](https://www.v2ex.com/t/826481)
 - [......【查看更多】......](./details/tags/job-interview.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

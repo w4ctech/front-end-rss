@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-01-05 13:44:26。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-01-05 13:54:34。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -296,6 +296,7 @@
 
 
 
+- [【V2EX】发现刷算法题真的一点用都没有](https://www.v2ex.com/t/826453)
 - [【技术头条】十六年全栈开发者的Android开发踩坑实录-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14866&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247492761%26amp%3Bidx%3D2%26amp%3Bsn%3Dc27418bd06c4b87dedc58b184923c567%26amp%3Bchksm%3Dfa3f05c2cd488cd437cc7dabb3f84b1242a56211475c9c99e8a8a54ce867ed6b84ed75027376%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【开发者头条】干货-|-Elasticsearch-多种跨机房灾备方案对比与实战解读](https://toutiao.io/k/ms517wc)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)

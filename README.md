@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-05 13:39:15，:rocket: 更新条数: +1677， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-05 13:44:26，:rocket: 更新条数: +1678， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,8 @@
 </summary>
 
 
+- [2022-01-05-有大佬知道-Xtransfer-这家公司怎么样吗？](https://www.v2ex.com/t/826452) ![](assets/new.png)  
+- [2022-01-05-江湖救急！-IDEA-现在还有优惠吗？](https://www.v2ex.com/t/826451) ![](assets/new.png)  
 - [2022-01-05-来推荐一下吧，你用的-iPhone-13-保护套，和-iPad-mini-6-保护套，是哪家？](https://www.v2ex.com/t/826450) ![](assets/new.png)  
 - [2022-01-05-如果把-iCloud-当成自己的主力网盘如何](https://www.v2ex.com/t/826449) ![](assets/new.png)  
 - [2022-01-05-mac-的任何密码输入框会导致-alfred-快捷键失效。。。](https://www.v2ex.com/t/826448) ![](assets/new.png)  
@@ -512,8 +514,6 @@
 - [2022-01-05-下载了一段视频-m3u8-格式-分片-ts-怎么合并为一个-mp4](https://www.v2ex.com/t/826431) ![](assets/new.png)  
 - [2022-01-05-当物理内存和-swap-分区内存都用尽时，服务器会连-ping-都响应了吗？](https://www.v2ex.com/t/826429) ![](assets/new.png)  
 - [2022-01-05-请问最近-vmess-升级-vless-的撕逼大战能帮忙科普一下吗？](https://www.v2ex.com/t/826428) ![](assets/new.png)  
-- [2022-01-05-北京联通，无机主姓名如何开通宽带上行提速包？](https://www.v2ex.com/t/826427) ![](assets/new.png)  
-- [2022-01-05-哪里有便宜月付的固定-ip-购买](https://www.v2ex.com/t/826426) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -570,8 +570,8 @@
 - [2022-01-05-聊聊Golang中形形色色的同步原语](https://toutiao.io/k/9tlqzrp) ![](assets/new.png)  
 - [2022-01-05-Web3.0是什么，为什么MetaVerse这么火？](https://toutiao.io/k/kjd4tak) ![](assets/new.png)  
 - [2022-01-05-了不起的Chrome浏览器（9）：Chrome-97发布WebTransport，QUIC协议小试牛刀](https://toutiao.io/k/4o8ttxp) ![](assets/new.png)  
-- [2022-01-05-我做的百度飞桨PaddleOCR-.NET调用库](https://toutiao.io/k/zpqocqu) ![](assets/new.png)  
 - [2022-01-05-如何提升数据质量？](https://toutiao.io/k/h4nwprr) ![](assets/new.png)  
+- [2022-01-05-我做的百度飞桨PaddleOCR-.NET调用库](https://toutiao.io/k/zpqocqu) ![](assets/new.png)  
 - [2022-01-05-Go-泛型的-3-个核心设计，你学会了吗？](https://toutiao.io/k/lsh6zzc) ![](assets/new.png)  
 - [2022-01-05-1-万-Star！基于-Android-平台的开源-Linux-终端模拟器](https://toutiao.io/k/uw436lt) ![](assets/new.png)  
 - [2022-01-05-小工具批量将mp3音频格式转换为wav格式](https://toutiao.io/k/mbi91wb) ![](assets/new.png)  

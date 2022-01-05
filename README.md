@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-05 12:19:48，:rocket: 更新条数: +1672， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-05 12:36:28，:rocket: 更新条数: +1675， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -66,10 +66,13 @@
 
 
 - [2022-01-05-1月4日全国新增新冠91例-三省份本土41例](https://m.caixin.com/m/2022-01-05/101825931.html) ![](assets/new.png)  
-- [2022-01-05-世卫称更多证据表明奥密克戎或更温和-欧美多国医院承压](https://m.caixin.com/m/2022-01-05/101826212.html) ![](assets/new.png)  
+- [2022-01-05-西安为涉疫区紧急就医者作出特别安排](https://m.caixin.com/m/2022-01-05/101826298.html) ![](assets/new.png)  
+- [2022-01-05-西安4万余人集中隔离-方舱医院筹建中](https://m.caixin.com/m/2022-01-05/101826292.html) ![](assets/new.png)  
+- [2022-01-05-境外输入新冠病例两周600多人-回国需加做7日核酸和健康监测](https://m.caixin.com/m/2022-01-05/101826288.html) ![](assets/new.png)  
 - [2022-01-05-香港本地疫情升级-邮轮载9名“密接”紧急返航](https://m.caixin.com/m/2022-01-05/101826084.html) ![](assets/new.png)  
 - [2022-01-05-西安“买菜难”症结：配送人员锐减-运输车辆不足](https://m.caixin.com/m/2022-01-05/101826020.html) ![](assets/new.png)  
 - [2022-01-05-以色列称接种第四剂疫苗抗体增加5倍-英格兰拒绝封锁｜大流行手记（1月4日）](https://m.caixin.com/m/2022-01-05/101825962.html) ![](assets/new.png)  
+- [2022-01-05-世卫称更多证据表明奥密克戎或更温和-欧美多国医院承压](https://m.caixin.com/m/2022-01-05/101826212.html) ![](assets/new.png)  
 - [2022-01-05-日本疫情反弹单日确诊破千-冲绳知事怒批驻日美军防疫松懈](https://international.caixin.com/m/2022-01-05/101826115.html) ![](assets/new.png)  
 - [2022-01-05-【图集】智利一动物园老虎猩猩等10头动物接种新冠疫苗](https://photos.caixin.com/m/2022-01-05/101826098.html) ![](assets/new.png)  
 - [2022-01-04-河南新增35例感染者-许昌病例数攀升来源不明](https://m.caixin.com/m/2022-01-04/101825840.html) ![](assets/new.png)  
@@ -82,9 +85,6 @@
 - [2022-01-03-河南禹州现3例无症状-所有居民居家隔离](https://china.caixin.com/m/2022-01-03/101825358.html) ![](assets/new.png)  
 - [2022-01-03-【境内疫情观察】全国新增101例本土病例（1月2日）](https://database.caixin.com/m/2022-01-03/101825323.html) ![](assets/new.png)  
 - [2022-01-03-法国缩短隔离期-以色列扩大第四针接种人群｜大流行手记（1月2日）](https://m.caixin.com/m/2022-01-03/101825271.html) ![](assets/new.png)  
-- [2022-01-02-宁波北仑一服装厂现10例确诊-病毒毒株与越南流行变异株相同](https://m.caixin.com/m/2022-01-02/101825239.html) ![](assets/new.png)  
-- [2022-01-02-西安雁塔区委书记被免职-由副市长杨建强兼任](https://china.caixin.com/m/2022-01-02/101825246.html) ![](assets/new.png)  
-- [2022-01-02-【境内疫情观察】全国新增131例本土病例（1月1日）](https://database.caixin.com/m/2022-01-02/101825198.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -494,6 +494,8 @@
 </summary>
 
 
+- [2022-01-05-jsdelivr-的-CDN-出什么情况了吗,现在加载个-1K-的-js-直接-3-秒起跳](https://www.v2ex.com/t/826442) ![](assets/new.png)  
+- [2022-01-05-腾讯云主机-70-一年的这种是不是只有双十一才有](https://www.v2ex.com/t/826441) ![](assets/new.png)  
 - [2022-01-05-年轻人看病也变难啦~](https://www.v2ex.com/t/826440) ![](assets/new.png)  
 - [2022-01-05-带-Touch-ID-的-magic-keyboard-连到-iPad-上后，-TouchID-键能锁定-iPad-吗？](https://www.v2ex.com/t/826438) ![](assets/new.png)  
 - [2022-01-05-求问雪球-iOS-客户端的广告阻止规则](https://www.v2ex.com/t/826437) ![](assets/new.png)  
@@ -512,8 +514,6 @@
 - [2022-01-05-从多个平台拉取数据如携程景点，美团景点，落到本地，用什么架构或者设计模式合理呢？](https://www.v2ex.com/t/826418) ![](assets/new.png)  
 - [2022-01-05-iPad-随航功能-bug-好多.-有什么有线连接拓展屏方案推荐么](https://www.v2ex.com/t/826417) ![](assets/new.png)  
 - [2022-01-05-身份-OS-如何为开发者服务，少造轮子，早下班](https://www.v2ex.com/t/826416) ![](assets/new.png)  
-- [2022-01-05-leetcode-崩了吗....](https://www.v2ex.com/t/826414) ![](assets/new.png)  
-- [2022-01-05-Java-读取二进制文件,-打包前执行和打包后执行读出来的-size-不一样?](https://www.v2ex.com/t/826413) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-01-05 06:27:48。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-01-05 06:48:36。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -330,6 +330,7 @@
 
 
 
+- [【V2EX】如何使用-Tin-快速搭建-Gitlab-ce（史上最简单方法）](https://www.v2ex.com/t/826346)
 - [【开发者头条】GitHub-打钱了，10-万美元！](https://toutiao.io/k/ndfqyy2)
 - [......【查看更多】......](./details/tags/git-svn.md)
 

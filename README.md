@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-05 01:14:07，:rocket: 更新条数: +1664， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-05 02:05:51，:rocket: 更新条数: +1666， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,17 @@
 </summary>
 
 
+- [2022-01-05-为了方便面试刷题，自己做了一个-wiki，还支持手机端小程序，以后面试刷题方便了](https://www.v2ex.com/t/826261) ![](assets/new.png)  
+- [2022-01-05-这种业务场景有没有更优雅的方式？](https://www.v2ex.com/t/826260) ![](assets/new.png)  
+- [2022-01-05-关于客户端的数据存储](https://www.v2ex.com/t/826259) ![](assets/new.png)  
+- [2022-01-05-求问各位去听-podcast（播客）理由？](https://www.v2ex.com/t/826257) ![](assets/new.png)  
+- [2022-01-05-推荐本小说《李氏》](https://www.v2ex.com/t/826256) ![](assets/new.png)  
+- [2022-01-05-芳华](https://www.v2ex.com/t/826255) ![](assets/new.png)  
+- [2022-01-05-Kotlin-调用-Java-注解-Class<?>-传参问题求教](https://www.v2ex.com/t/826254) ![](assets/new.png)  
+- [2022-01-05-React-+-Redux-+-Express-+-Mongodb-零基础开发完整大型商城网站视频教程（97-个视频）](https://www.v2ex.com/t/826252) ![](assets/new.png)  
+- [2022-01-05-入手了联想-A1,有些疑惑，求解答](https://www.v2ex.com/t/826250) ![](assets/new.png)  
+- [2022-01-05-lightroom-mobile-APP-为什么会根据用户的-appstroe-地区自动随时隐藏软件功能？](https://www.v2ex.com/t/826248) ![](assets/new.png)  
+- [2022-01-05-springboot-加壳](https://www.v2ex.com/t/826247) ![](assets/new.png)  
 - [2022-01-05-要辞职了,总是感觉很紧张](https://www.v2ex.com/t/826245) ![](assets/new.png)  
 - [2022-01-05-一个下载的奇怪现象](https://www.v2ex.com/t/826244) ![](assets/new.png)  
 - [2022-01-05-2022-年了，-mbp-可以装-ubuntu-了么](https://www.v2ex.com/t/826243) ![](assets/new.png)  
@@ -503,17 +514,6 @@
 - [2022-01-05-元旦-3-天，用-Go-在家写了一个-“元宇宙”-网站](https://www.v2ex.com/t/826238) ![](assets/new.png)  
 - [2022-01-05-如何应对菜鸟排斥第三方平台的订单？](https://www.v2ex.com/t/826237) ![](assets/new.png)  
 - [2022-01-05-想找个网盘程序](https://www.v2ex.com/t/826236) ![](assets/new.png)  
-- [2022-01-04-新-XPS-13-设计大改](https://www.v2ex.com/t/826235) ![](assets/new.png)  
-- [2022-01-04-asyncrun-发布六年后的更新](https://www.v2ex.com/t/826234) ![](assets/new.png)  
-- [2022-01-04-有没有想来加拿大留学的朋友](https://www.v2ex.com/t/826233) ![](assets/new.png)  
-- [2022-01-04-小心翼翼：-zerotier-算非法建立信道么](https://www.v2ex.com/t/826232) ![](assets/new.png)  
-- [2022-01-04-JS-中有没有什么简单的赋值并且不判断布尔值的写法？](https://www.v2ex.com/t/826231) ![](assets/new.png)  
-- [2022-01-04-请问-windows-下有什么同时支持-udp-和范围端口的端口转发工具？](https://www.v2ex.com/t/826230) ![](assets/new.png)  
-- [2022-01-04-我在此论坛的最后一个帖子《立场》----下午发了个瞬间火爆后被『水生火热』的征婚贴后的反思](https://www.v2ex.com/t/826229) ![](assets/new.png)  
-- [2022-01-04-CloudFlare-的电子邮件路由可以使用了](https://www.v2ex.com/t/826228) ![](assets/new.png)  
-- [2022-01-04-最近有没有针对微信-webview-的黑产攻击？或者微信自身-webview-的-bug？](https://www.v2ex.com/t/826225) ![](assets/new.png)  
-- [2022-01-04-领导让我负责对前端框架的介绍，面向业务和其他部门的](https://www.v2ex.com/t/826223) ![](assets/new.png)  
-- [2022-01-04-求推荐：知识管理-网页高亮（Web-Highlight/Annotation）插件/APP？](https://www.v2ex.com/t/826222) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -556,26 +556,26 @@
 </summary>
 
 
+- [2022-01-05-2022-年来了！抓紧啦！](https://toutiao.io/k/rf8ezjy) ![](assets/new.png)  
 - [2022-01-05-干货-|-Elasticsearch-多种跨机房灾备方案对比与实战解读](https://toutiao.io/k/ms517wc) ![](assets/new.png)  
 - [2022-01-05-GitHub-打钱了，10-万美元！](https://toutiao.io/k/ndfqyy2) ![](assets/new.png)  
 - [2022-01-05-线上FGC调优案例三则](https://toutiao.io/k/n1oq782) ![](assets/new.png)  
 - [2022-01-05-惊了！原来Go语言也有隐式转型](https://toutiao.io/k/0wq3tqy) ![](assets/new.png)  
-- [2022-01-05-127-python|第二部分：面向对象（4）封装、继承和多态（下）](https://toutiao.io/k/xq32to3) ![](assets/new.png)  
-- [2022-01-05-Web3.0是什么，为什么MetaVerse这么火？](https://toutiao.io/k/kjd4tak) ![](assets/new.png)  
-- [2022-01-05-Java-偏向锁终于被废弃掉了！](https://toutiao.io/k/mbd8ie3) ![](assets/new.png)  
-- [2022-01-05-Python猫-2021-文章小结，翻译竟比原创多！](https://toutiao.io/k/ela51ua) ![](assets/new.png)  
 - [2022-01-05-前端应该掌握的软链接与硬链接知识](https://toutiao.io/k/vjp77to) ![](assets/new.png)  
-- [2022-01-05-【Rust日报】2021-12-31-NAPI-RS-V2-发布](https://toutiao.io/k/8hfx82e) ![](assets/new.png)  
-- [2022-01-05-推荐-小心陷入-MySQL-索引的坑](https://toutiao.io/k/gucqkq4) ![](assets/new.png)  
-- [2022-01-05-推荐-分布式链路追踪在字节跳动的实践](https://toutiao.io/k/hkc5fd7) ![](assets/new.png)  
-- [2022-01-05-推荐-登录态-&-SSO](https://toutiao.io/k/vjcw3vh) ![](assets/new.png)  
-- [2022-01-05-推荐-画架构图的神器](https://toutiao.io/k/4773s9p) ![](assets/new.png)  
-- [2022-01-05-推荐-聊聊spring事务失效的12种场景，太坑了](https://toutiao.io/k/uf6yk96) ![](assets/new.png)  
-- [2022-01-05-推荐-我做系统架构的一些原则](https://toutiao.io/k/vlt0zc9) ![](assets/new.png)  
-- [2022-01-05-推荐-白话linux操作系统原理](https://toutiao.io/k/zgc47l7) ![](assets/new.png)  
-- [2022-01-05-推荐-再见-Typora！推荐一个-2.3-万-Star-的开源-Markdown-编辑器](https://toutiao.io/k/ol8ule0) ![](assets/new.png)  
-- [2022-01-05-推荐-WhatsApp系统架构](https://toutiao.io/k/7dt7oe2) ![](assets/new.png)  
+- [2022-01-05-Web3.0是什么，为什么MetaVerse这么火？](https://toutiao.io/k/kjd4tak) ![](assets/new.png)  
+- [2022-01-05-Python猫-2021-文章小结，翻译竟比原创多！](https://toutiao.io/k/ela51ua) ![](assets/new.png)  
+- [2022-01-05-之家云API网关的前世今生](https://toutiao.io/k/16je6kb) ![](assets/new.png)  
+- [2022-01-05-我做的百度飞桨PaddleOCR-.NET调用库](https://toutiao.io/k/zpqocqu) ![](assets/new.png)  
+- [2022-01-05-史上最全数仓建设总结（纯干货建议收藏）](https://toutiao.io/k/8885ar5) ![](assets/new.png)  
+- [2022-01-05-网易有道Redis云原生实战](https://toutiao.io/k/zpbfihy) ![](assets/new.png)  
+- [2022-01-05-推荐-2021年美团技术团队最受欢迎的22篇技术文章](https://toutiao.io/k/pjse55y) ![](assets/new.png)  
 - [2022-01-05-推荐-插件式可扩展架构设计心得](https://toutiao.io/k/w43usss) ![](assets/new.png)  
+- [2022-01-05-推荐-我做系统架构的一些原则](https://toutiao.io/k/vlt0zc9) ![](assets/new.png)  
+- [2022-01-05-推荐-WhatsApp系统架构](https://toutiao.io/k/7dt7oe2) ![](assets/new.png)  
+- [2022-01-05-推荐-聊聊spring事务失效的12种场景，太坑了](https://toutiao.io/k/uf6yk96) ![](assets/new.png)  
+- [2022-01-05-推荐-登录态-&-SSO](https://toutiao.io/k/vjcw3vh) ![](assets/new.png)  
+- [2022-01-05-推荐-白话linux操作系统原理](https://toutiao.io/k/zgc47l7) ![](assets/new.png)  
+- [2022-01-05-推荐-Java-中的5个代码性能提升技巧，最高提升近10倍](https://toutiao.io/k/eyom45a) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

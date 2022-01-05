@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-05 02:58:58，:rocket: 更新条数: +1664， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-05 03:14:33，:rocket: 更新条数: +1662， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,13 @@
 </summary>
 
 
+- [2022-01-05-2021-新款的-mac-book-pro-充不进电！](https://www.v2ex.com/t/826286) ![](assets/new.png)  
+- [2022-01-05-用进废退同样深刻影响编程](https://www.v2ex.com/t/826285) ![](assets/new.png)  
+- [2022-01-05-现在上海疫情啥情况,近期去出差会不会出不来?](https://www.v2ex.com/t/826284) ![](assets/new.png)  
+- [2022-01-05-企业微信店大欺客啊，求助啊，我们这种消费者咋活啊](https://www.v2ex.com/t/826283) ![](assets/new.png)  
+- [2022-01-05-广州虎牙职位热招](https://www.v2ex.com/t/826281) ![](assets/new.png)  
+- [2022-01-05-Apple-watch-有必要贴膜吗?](https://www.v2ex.com/t/826280) ![](assets/new.png)  
+- [2022-01-05-mysql-基础不牢，请教各位-v-友一个查询语句。](https://www.v2ex.com/t/826277) ![](assets/new.png)  
 - [2022-01-05-招聘：-Java-开发工程师-北京](https://www.v2ex.com/t/826276) ![](assets/new.png)  
 - [2022-01-05-Readonly.Link-是一个-Markdown-渲染平台，可以给-Markdown-写扩展！](https://www.v2ex.com/t/826274) ![](assets/new.png)  
 - [2022-01-05-出个腾讯季卡-30，还有京东票](https://www.v2ex.com/t/826273) ![](assets/new.png)  
@@ -507,13 +514,6 @@
 - [2022-01-05-这种业务场景有没有更优雅的方式？](https://www.v2ex.com/t/826260) ![](assets/new.png)  
 - [2022-01-05-关于客户端的数据存储](https://www.v2ex.com/t/826259) ![](assets/new.png)  
 - [2022-01-05-求问各位去听-podcast（播客）理由？](https://www.v2ex.com/t/826257) ![](assets/new.png)  
-- [2022-01-05-推荐本小说《李氏》](https://www.v2ex.com/t/826256) ![](assets/new.png)  
-- [2022-01-05-芳华](https://www.v2ex.com/t/826255) ![](assets/new.png)  
-- [2022-01-05-Kotlin-调用-Java-注解-Class<?>-传参问题求教](https://www.v2ex.com/t/826254) ![](assets/new.png)  
-- [2022-01-05-React-+-Redux-+-Express-+-Mongodb-零基础开发完整大型商城网站视频教程（97-个视频）](https://www.v2ex.com/t/826252) ![](assets/new.png)  
-- [2022-01-05-入手了联想-A1,有些疑惑，求解答](https://www.v2ex.com/t/826250) ![](assets/new.png)  
-- [2022-01-05-lightroom-mobile-APP-为什么会根据用户的-appstroe-地区自动随时隐藏软件功能？](https://www.v2ex.com/t/826248) ![](assets/new.png)  
-- [2022-01-05-springboot-加壳](https://www.v2ex.com/t/826247) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -557,8 +557,8 @@
 
 
 - [2022-01-05-2022-年来了！抓紧啦！](https://toutiao.io/k/rf8ezjy) ![](assets/new.png)  
-- [2022-01-05-干货-|-Elasticsearch-多种跨机房灾备方案对比与实战解读](https://toutiao.io/k/ms517wc) ![](assets/new.png)  
 - [2022-01-05-GitHub-打钱了，10-万美元！](https://toutiao.io/k/ndfqyy2) ![](assets/new.png)  
+- [2022-01-05-干货-|-Elasticsearch-多种跨机房灾备方案对比与实战解读](https://toutiao.io/k/ms517wc) ![](assets/new.png)  
 - [2022-01-05-线上FGC调优案例三则](https://toutiao.io/k/n1oq782) ![](assets/new.png)  
 - [2022-01-05-惊了！原来Go语言也有隐式转型](https://toutiao.io/k/0wq3tqy) ![](assets/new.png)  
 - [2022-01-05-前端应该掌握的软链接与硬链接知识](https://toutiao.io/k/vjp77to) ![](assets/new.png)  
@@ -568,14 +568,14 @@
 - [2022-01-05-史上最全数仓建设总结（纯干货建议收藏）](https://toutiao.io/k/8885ar5) ![](assets/new.png)  
 - [2022-01-05-之家云API网关的前世今生](https://toutiao.io/k/16je6kb) ![](assets/new.png)  
 - [2022-01-05-我做的百度飞桨PaddleOCR-.NET调用库](https://toutiao.io/k/zpqocqu) ![](assets/new.png)  
-- [2022-01-05-推荐-2021年美团技术团队最受欢迎的22篇技术文章](https://toutiao.io/k/pjse55y) ![](assets/new.png)  
-- [2022-01-05-推荐-我做系统架构的一些原则](https://toutiao.io/k/vlt0zc9) ![](assets/new.png)  
-- [2022-01-05-推荐-从0开始设计Twitter系统架构](https://toutiao.io/k/3fie9ar) ![](assets/new.png)  
-- [2022-01-05-推荐-聊聊spring事务失效的12种场景，太坑了](https://toutiao.io/k/uf6yk96) ![](assets/new.png)  
-- [2022-01-05-推荐-插件式可扩展架构设计心得](https://toutiao.io/k/w43usss) ![](assets/new.png)  
-- [2022-01-05-推荐-登录态-&-SSO](https://toutiao.io/k/vjcw3vh) ![](assets/new.png)  
+- [2022-01-05-推荐-分布式链路追踪在字节跳动的实践](https://toutiao.io/k/hkc5fd7) ![](assets/new.png)  
 - [2022-01-05-推荐-小心陷入-MySQL-索引的坑](https://toutiao.io/k/gucqkq4) ![](assets/new.png)  
+- [2022-01-05-推荐-再见-Typora！推荐一个-2.3-万-Star-的开源-Markdown-编辑器](https://toutiao.io/k/ol8ule0) ![](assets/new.png)  
 - [2022-01-05-推荐-白话linux操作系统原理](https://toutiao.io/k/zgc47l7) ![](assets/new.png)  
+- [2022-01-05-推荐-从0开始设计Twitter系统架构](https://toutiao.io/k/3fie9ar) ![](assets/new.png)  
+- [2022-01-05-推荐-我做系统架构的一些原则](https://toutiao.io/k/vlt0zc9) ![](assets/new.png)  
+- [2022-01-05-推荐-Java-中的5个代码性能提升技巧，最高提升近10倍](https://toutiao.io/k/eyom45a) ![](assets/new.png)  
+- [2022-01-05-推荐-画架构图的神器](https://toutiao.io/k/4773s9p) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

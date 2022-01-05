@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-05 17:48:42，:rocket: 更新条数: +1680， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-05 17:56:46，:rocket: 更新条数: +1680， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -575,7 +575,7 @@
 - [2022-01-05-1-万-Star！基于-Android-平台的开源-Linux-终端模拟器](https://toutiao.io/k/uw436lt) ![](assets/new.png)  
 - [2022-01-05-Go-泛型的-3-个核心设计，你学会了吗？](https://toutiao.io/k/lsh6zzc) ![](assets/new.png)  
 - [2022-01-05-小工具批量将mp3音频格式转换为wav格式](https://toutiao.io/k/mbi91wb) ![](assets/new.png)  
-- [2022-01-05-推荐-登录态-&-SSO](https://toutiao.io/k/vjcw3vh) ![](assets/new.png)  
+- [2022-01-05-推荐-聊聊spring事务失效的12种场景，太坑了](https://toutiao.io/k/uf6yk96) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

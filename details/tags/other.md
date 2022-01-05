@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-01-05 21:12:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-01-05 21:20:07。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1562,6 +1562,7 @@
 - [2021-12-31-科技爱好者周刊（第-190-期）：产品化思维](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-190.html) 
 - [2021-12-24-科技爱好者周刊（第-189-期）：下一个内卷的行业](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-189.html) 
 - [2021-12-17-科技爱好者周刊（第-188-期）：音乐是反社交](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-188.html) 
+- [2022-01-05-Windows-Server-DNS-是否能指定子域转发？](https://www.v2ex.com/t/826482) 
 - [2022-01-05-京东-plus-超级年货卡-268-元](https://www.v2ex.com/t/826479) 
 - [2022-01-05-一个关于-Python-走-clash-的问题](https://www.v2ex.com/t/826478) 
 - [2022-01-05-来推荐几个真正的-vscode-神插件](https://www.v2ex.com/t/826477) 
@@ -1625,13 +1626,13 @@
 - [2022-01-05-我做的百度飞桨PaddleOCR-.NET调用库](https://toutiao.io/k/zpqocqu) 
 - [2022-01-05-Go-泛型的-3-个核心设计，你学会了吗？](https://toutiao.io/k/lsh6zzc) 
 - [2022-01-05-1-万-Star！基于-Android-平台的开源-Linux-终端模拟器](https://toutiao.io/k/uw436lt) 
-- [2022-01-05-推荐-再见-Typora！推荐一个-2.3-万-Star-的开源-Markdown-编辑器](https://toutiao.io/k/ol8ule0) 
-- [2022-01-05-推荐-分布式链路追踪在字节跳动的实践](https://toutiao.io/k/hkc5fd7) 
+- [2022-01-05-推荐-小心陷入-MySQL-索引的坑](https://toutiao.io/k/gucqkq4) 
+- [2022-01-05-推荐-插件式可扩展架构设计心得](https://toutiao.io/k/w43usss) 
 - [2022-01-05-推荐-WhatsApp系统架构](https://toutiao.io/k/7dt7oe2) 
+- [2022-01-05-推荐-白话linux操作系统原理](https://toutiao.io/k/zgc47l7) 
+- [2022-01-05-推荐-画架构图的神器](https://toutiao.io/k/4773s9p) 
 - [2022-01-05-推荐-登录态-&-SSO](https://toutiao.io/k/vjcw3vh) 
 - [2022-01-05-推荐-聊聊spring事务失效的12种场景，太坑了](https://toutiao.io/k/uf6yk96) 
-- [2022-01-05-推荐-插件式可扩展架构设计心得](https://toutiao.io/k/w43usss) 
+- [2022-01-05-推荐-分布式链路追踪在字节跳动的实践](https://toutiao.io/k/hkc5fd7) 
+- [2022-01-05-推荐-再见-Typora！推荐一个-2.3-万-Star-的开源-Markdown-编辑器](https://toutiao.io/k/ol8ule0) 
 - [2022-01-05-推荐-2021年美团技术团队最受欢迎的22篇技术文章](https://toutiao.io/k/pjse55y) 
-- [2022-01-05-推荐-画架构图的神器](https://toutiao.io/k/4773s9p) 
-- [2022-01-05-推荐-小心陷入-MySQL-索引的坑](https://toutiao.io/k/gucqkq4) 
-- [2022-01-05-推荐-白话linux操作系统原理](https://toutiao.io/k/zgc47l7) 

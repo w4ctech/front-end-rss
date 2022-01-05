@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2022-01-05 21:12:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-01-05 21:20:07。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-01-05-Windows-Server-DNS-是否能指定子域转发？](https://www.v2ex.com/t/826482) 
 - [2022-01-05-硅谷-Top-50-FinTech-Company-🚀🚀🚀年前面试年后入职🌟🌟🌟100%远程+期权+双休+四周年假+各种福利补贴-🔥🔥🔥](https://www.v2ex.com/t/826481) 
 - [2022-01-05-京东-plus-超级年货卡-268-元](https://www.v2ex.com/t/826479) 
 - [2022-01-05-一个关于-Python-走-clash-的问题](https://www.v2ex.com/t/826478) 

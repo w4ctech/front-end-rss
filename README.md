@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-06 14:12:21，:rocket: 更新条数: +1682， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-06 14:21:17，:rocket: 更新条数: +1680， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,7 @@
 </summary>
 
 
+- [2022-01-06-求问视频中蓝牙音箱型号](https://www.v2ex.com/t/826689) ![](assets/new.png)  
 - [2022-01-06-突然觉得-C-语言字符串数组的初始化有点怪](https://www.v2ex.com/t/826688) ![](assets/new.png)  
 - [2022-01-06-大家每天在快结束时都会问自己哪些问题？比如-我今天做了哪些？往目标前进了多少-？](https://www.v2ex.com/t/826687) ![](assets/new.png)  
 - [2022-01-06-2022-年新一代-cpu-的轻薄本有什么推荐？](https://www.v2ex.com/t/826686) ![](assets/new.png)  
@@ -513,7 +514,6 @@
 - [2022-01-06-ios-去哪里报-bug，-15-一个-bug-从-beta-开始至今没有修复](https://www.v2ex.com/t/826668) ![](assets/new.png)  
 - [2022-01-06-现在还有写-Blog-的小伙伴吗？](https://www.v2ex.com/t/826665) ![](assets/new.png)  
 - [2022-01-06-c++中如何对一些-util-工具类进行-mock-呢？](https://www.v2ex.com/t/826664) ![](assets/new.png)  
-- [2022-01-06-签到-1000-天](https://www.v2ex.com/t/826661) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

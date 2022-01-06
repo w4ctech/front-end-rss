@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-06 11:11:34，:rocket: 更新条数: +1680， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-06 11:21:27，:rocket: 更新条数: +1680， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,7 @@
 </summary>
 
 
+- [2022-01-06-签到-1000-天](https://www.v2ex.com/t/826661) ![](assets/new.png)  
 - [2022-01-06-想问下-care+保修年限长了，还有啥区别，不买是保修-1-年吗？](https://www.v2ex.com/t/826659) ![](assets/new.png)  
 - [2022-01-06-Pylon-CLI-低成本的本地环境管控工具应用实例](https://www.v2ex.com/t/826658) ![](assets/new.png)  
 - [2022-01-06-有哪些加密方法是加密结果不会变的？](https://www.v2ex.com/t/826656) ![](assets/new.png)  
@@ -513,7 +514,6 @@
 - [2022-01-06-高并发场景下使用-CAS-锁库存，不预防-ABA-会怎么样](https://www.v2ex.com/t/826638) ![](assets/new.png)  
 - [2022-01-06-大家怎么处理闲置的小容量-2.5-寸机械硬盘以及那些旧时代的数码产品](https://www.v2ex.com/t/826635) ![](assets/new.png)  
 - [2022-01-06-如果遇到-xi'an-这样的情况，可以屯些什么吃的？](https://www.v2ex.com/t/826634) ![](assets/new.png)  
-- [2022-01-06-求问，$$多台设备的-pac-是不是可以这样用？](https://www.v2ex.com/t/826633) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -572,8 +572,8 @@
 - [2022-01-06-2021年总结：很多人已经越来越没有耐心做一件长久的事情了](https://toutiao.io/k/1xew5ob) ![](assets/new.png)  
 - [2022-01-06-经验分享实时数仓实战命名规范和分层设计~~](https://toutiao.io/k/739jo7l) ![](assets/new.png)  
 - [2022-01-06-从《QQ飞车手游》四周年，我看到了竞速头部产品的“逆生长”](https://toutiao.io/k/39hlrqk) ![](assets/new.png)  
-- [2022-01-06-将几万张图片合成一张图片，制作一个超赞的马赛克图！](https://toutiao.io/k/fb8td6q) ![](assets/new.png)  
 - [2022-01-06-复活-80-年代的游戏代码，这些代码出自第一本售出百万册的计算机书籍](https://toutiao.io/k/6pw4q9z) ![](assets/new.png)  
+- [2022-01-06-将几万张图片合成一张图片，制作一个超赞的马赛克图！](https://toutiao.io/k/fb8td6q) ![](assets/new.png)  
 - [2022-01-06-作业帮-Kubernetes-原生调度器优化实践](https://toutiao.io/k/qxiiof3) ![](assets/new.png)  
 - [2022-01-06-聊聊自定义SPI如何与sentinel整合实现熔断限流](https://toutiao.io/k/q0g0len) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)

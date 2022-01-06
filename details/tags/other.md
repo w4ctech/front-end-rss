@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-01-06 11:11:34。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-01-06 11:21:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1563,6 +1563,7 @@
 - [2021-12-31-科技爱好者周刊（第-190-期）：产品化思维](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-190.html) 
 - [2021-12-24-科技爱好者周刊（第-189-期）：下一个内卷的行业](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-189.html) 
 - [2021-12-17-科技爱好者周刊（第-188-期）：音乐是反社交](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-188.html) 
+- [2022-01-06-签到-1000-天](https://www.v2ex.com/t/826661) 
 - [2022-01-06-想问下-care+保修年限长了，还有啥区别，不买是保修-1-年吗？](https://www.v2ex.com/t/826659) 
 - [2022-01-06-Pylon-CLI-低成本的本地环境管控工具应用实例](https://www.v2ex.com/t/826658) 
 - [2022-01-06-有哪些加密方法是加密结果不会变的？](https://www.v2ex.com/t/826656) 
@@ -1618,13 +1619,13 @@
 - [2022-01-06-从《QQ飞车手游》四周年，我看到了竞速头部产品的“逆生长”](https://toutiao.io/k/39hlrqk) 
 - [2022-01-06-将几万张图片合成一张图片，制作一个超赞的马赛克图！](https://toutiao.io/k/fb8td6q) 
 - [2022-01-06-聊聊自定义SPI如何与sentinel整合实现熔断限流](https://toutiao.io/k/q0g0len) 
+- [2022-01-06-推荐-插件式可扩展架构设计心得](https://toutiao.io/k/w43usss) 
+- [2022-01-06-推荐-登录态-&-SSO](https://toutiao.io/k/vjcw3vh) 
+- [2022-01-06-推荐-小心陷入-MySQL-索引的坑](https://toutiao.io/k/gucqkq4) 
+- [2022-01-06-推荐-WhatsApp系统架构](https://toutiao.io/k/7dt7oe2) 
 - [2022-01-06-推荐-2021年美团技术团队最受欢迎的22篇技术文章](https://toutiao.io/k/pjse55y) 
 - [2022-01-06-推荐-白话linux操作系统原理](https://toutiao.io/k/zgc47l7) 
-- [2022-01-06-推荐-WhatsApp系统架构](https://toutiao.io/k/7dt7oe2) 
-- [2022-01-06-推荐-登录态-&-SSO](https://toutiao.io/k/vjcw3vh) 
-- [2022-01-06-推荐-再见-Typora！推荐一个-2.3-万-Star-的开源-Markdown-编辑器](https://toutiao.io/k/ol8ule0) 
 - [2022-01-06-推荐-画架构图的神器](https://toutiao.io/k/4773s9p) 
-- [2022-01-06-推荐-小心陷入-MySQL-索引的坑](https://toutiao.io/k/gucqkq4) 
-- [2022-01-06-推荐-插件式可扩展架构设计心得](https://toutiao.io/k/w43usss) 
-- [2022-01-06-推荐-聊聊spring事务失效的12种场景，太坑了](https://toutiao.io/k/uf6yk96) 
+- [2022-01-06-推荐-再见-Typora！推荐一个-2.3-万-Star-的开源-Markdown-编辑器](https://toutiao.io/k/ol8ule0) 
 - [2022-01-06-推荐-分布式链路追踪在字节跳动的实践](https://toutiao.io/k/hkc5fd7) 
+- [2022-01-06-推荐-聊聊spring事务失效的12种场景，太坑了](https://toutiao.io/k/uf6yk96) 

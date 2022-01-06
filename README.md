@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-06 13:39:35，:rocket: 更新条数: +1681， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-06 13:45:08，:rocket: 更新条数: +1681， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -561,8 +561,8 @@
 - [2022-01-06-生产故障｜Kafka消息发送延迟达到几十秒的罪魁祸首竟然是...](https://toutiao.io/k/u0sbbi3) ![](assets/new.png)  
 - [2022-01-06-Kubernetes容器平台，从繁荣走向碎片化](https://toutiao.io/k/z0w44gr) ![](assets/new.png)  
 - [2022-01-06-缓存一致性最佳实践](https://toutiao.io/k/ymscqc1) ![](assets/new.png)  
-- [2022-01-06-盘点2021年晋升为Apache-TLP的大数据相关项目](https://toutiao.io/k/6j61pd7) ![](assets/new.png)  
 - [2022-01-06-再见了-VMware，一款更轻量级的虚拟机！](https://toutiao.io/k/xw2lnva) ![](assets/new.png)  
+- [2022-01-06-盘点2021年晋升为Apache-TLP的大数据相关项目](https://toutiao.io/k/6j61pd7) ![](assets/new.png)  
 - [2022-01-06-北海（Kraken）构建大前端混合渲染技术体系-——-Web-与-Flutter-Widget-混合渲染方案](https://toutiao.io/k/l2rc00v) ![](assets/new.png)  
 - [2022-01-06-一条nginx命令引发的对于容器的思考](https://toutiao.io/k/jgf665j) ![](assets/new.png)  
 - [2022-01-06-干货总结！Kafka-面试大全（万字长文，37-张图，28-个知识点）](https://toutiao.io/k/f9qe7be) ![](assets/new.png)  

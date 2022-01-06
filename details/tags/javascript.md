@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-01-06 16:19:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-01-06 16:35:47。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -20,4 +20,3 @@
 - [2021-10-28-JS复制文字到剪切板的极简实现及扩展](https://www.zhangxinxu.com/wordpress/2021/10/js-copy-paste-clipboard/) 
 - [2022-01-06-突然觉得-C-语言字符串数组的初始化有点怪](https://www.v2ex.com/t/826688) 
 - [2022-01-06-开发了一个-vscode-插件用于变量命名还有翻译，再也不用麻烦的去找翻译](https://www.v2ex.com/t/826676) 
-- [2022-01-06-寻一个在线测试多设备-H5-web-页面的工具](https://www.v2ex.com/t/826651) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-06 12:36:46，:rocket: 更新条数: +1679， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-06 13:01:14，:rocket: 更新条数: +1682， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -65,13 +65,13 @@
 </summary>
 
 
-- [2022-01-06-1月5日全国新增新冠189例-三省份本土132例](https://m.caixin.com/m/2022-01-06/101826417.html) ![](assets/new.png)  
+- [2022-01-06-最新疫情：全国新冠累计确诊103121例-累计接种新冠疫苗超28.72亿剂次](https://m.caixin.com/m/2022-01-06/101826733.html) ![](assets/new.png)  
 - [2022-01-06-西安“一码通”一月内两度崩溃，谁之责？](https://m.caixin.com/m/2022-01-06/101826373.html) ![](assets/new.png)  
+- [2022-01-06-最新海外疫情：新冠感染超2.97亿-累计接种新冠疫苗近92.52亿剂次](https://m.caixin.com/m/2022-01-06/101826730.html) ![](assets/new.png)  
 - [2022-01-06-【境内疫情观察】全国新增132例本土病例（1月5日）](https://database.caixin.com/m/2022-01-06/101826716.html) ![](assets/new.png)  
 - [2022-01-06-法国发现变异毒株IHU-世卫称Omicron或更温和｜大流行手记（-1月5日）](https://m.caixin.com/m/2022-01-06/101826420.html) ![](assets/new.png)  
 - [2022-01-05-河南6地三日累计新增54例感染者-已传播至上海](https://m.caixin.com/m/2022-01-05/101826357.html) ![](assets/new.png)  
 - [2022-01-05-西安为涉疫区紧急就医者作出特别安排-孕妇流产事件责任人被处理](https://m.caixin.com/m/2022-01-05/101826298.html) ![](assets/new.png)  
-- [2022-01-05-最新海外疫情：新冠感染超2.94亿-累计接种新冠疫苗近92.21亿剂次](https://m.caixin.com/m/2022-01-05/101826351.html) ![](assets/new.png)  
 - [2022-01-05-西安4万余人集中隔离-方舱医院筹建中](https://m.caixin.com/m/2022-01-05/101826292.html) ![](assets/new.png)  
 - [2022-01-05-境外输入新冠病例两周600多人-回国需加做7日核酸和健康监测](https://m.caixin.com/m/2022-01-05/101826288.html) ![](assets/new.png)  
 - [2022-01-05-香港本地疫情升级-邮轮载9名“密接”紧急返航](https://m.caixin.com/m/2022-01-05/101826084.html) ![](assets/new.png)  
@@ -494,6 +494,15 @@
 </summary>
 
 
+- [2022-01-06-开发了一个-vscode-插件用于变量命名还有翻译，再也不用麻烦的去找翻译](https://www.v2ex.com/t/826676) ![](assets/new.png)  
+- [2022-01-06-stackoverflow-杀熟?](https://www.v2ex.com/t/826675) ![](assets/new.png)  
+- [2022-01-06-字节跳动-北京-or-成都后端开发工程师](https://www.v2ex.com/t/826674) ![](assets/new.png)  
+- [2022-01-06-2022-想找一个实惠的键鼠套装呢](https://www.v2ex.com/t/826673) ![](assets/new.png)  
+- [2022-01-06-这种查看元素一片空白的页面是怎么做到的？](https://www.v2ex.com/t/826672) ![](assets/new.png)  
+- [2022-01-06-MBP-用绿联以太网问题](https://www.v2ex.com/t/826671) ![](assets/new.png)  
+- [2022-01-06-求推荐可以自建的大文件分享工具？](https://www.v2ex.com/t/826670) ![](assets/new.png)  
+- [2022-01-06-想问一下大家公司项目的代码，也是实际部署的代码和本地测试的不是一个项目吗](https://www.v2ex.com/t/826669) ![](assets/new.png)  
+- [2022-01-06-ios-去哪里报-bug，-15-一个-bug-从-beta-开始至今没有修复](https://www.v2ex.com/t/826668) ![](assets/new.png)  
 - [2022-01-06-现在还有写-Blog-的小伙伴吗？](https://www.v2ex.com/t/826665) ![](assets/new.png)  
 - [2022-01-06-c++中如何对一些-util-工具类进行-mock-呢？](https://www.v2ex.com/t/826664) ![](assets/new.png)  
 - [2022-01-06-签到-1000-天](https://www.v2ex.com/t/826661) ![](assets/new.png)  
@@ -505,15 +514,6 @@
 - [2022-01-06-搞视频剪辑，比写代码还要苦逼](https://www.v2ex.com/t/826652) ![](assets/new.png)  
 - [2022-01-06-寻一个在线测试多设备-H5-web-页面的工具](https://www.v2ex.com/t/826651) ![](assets/new.png)  
 - [2022-01-06-计算流数据的实时频率的最简单的办法？](https://www.v2ex.com/t/826649) ![](assets/new.png)  
-- [2022-01-06-有什么高质量的导航吗？各种类型网站打包](https://www.v2ex.com/t/826648) ![](assets/new.png)  
-- [2022-01-06-一直感觉移动-ipv6-有问题，打开后，移动自家很多-app-都卡页面](https://www.v2ex.com/t/826646) ![](assets/new.png)  
-- [2022-01-06-求解，鸡场设备数量是如何判断的？](https://www.v2ex.com/t/826645) ![](assets/new.png)  
-- [2022-01-06-广州大学城附近想找个房子，有啥地方推荐？](https://www.v2ex.com/t/826643) ![](assets/new.png)  
-- [2022-01-06-2022-最早的-buy-mac/-iPad-get-airpods-活动，我已经冲了-14-寸-mbp](https://www.v2ex.com/t/826642) ![](assets/new.png)  
-- [2022-01-06-有无类似-Archery、Yearning-审计平台可以在执行-DML-后生成回滚-SQL-的“数据库管理工具”](https://www.v2ex.com/t/826641) ![](assets/new.png)  
-- [2022-01-06-远程控制没有联网功能的多档台灯的开关解决方案](https://www.v2ex.com/t/826640) ![](assets/new.png)  
-- [2022-01-06-想买个一加做备用机，目前手持苹果，朋友们比较推荐哪一款？](https://www.v2ex.com/t/826639) ![](assets/new.png)  
-- [2022-01-06-高并发场景下使用-CAS-锁库存，不预防-ABA-会怎么样](https://www.v2ex.com/t/826638) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -568,8 +568,8 @@
 - [2022-01-06-干货总结！Kafka-面试大全（万字长文，37-张图，28-个知识点）](https://toutiao.io/k/f9qe7be) ![](assets/new.png)  
 - [2022-01-06-解读-Julia-的-2021：逐步迈向主流编程语言](https://toutiao.io/k/12gd84g) ![](assets/new.png)  
 - [2022-01-06-在-OpenHarmony-开发板上运行-WasmEdge](https://toutiao.io/k/6k2tcsh) ![](assets/new.png)  
-- [2022-01-06-MegEngine-Windows-Python-wheel-包减肥之路](https://toutiao.io/k/s9y7nkt) ![](assets/new.png)  
 - [2022-01-06-2021年总结：很多人已经越来越没有耐心做一件长久的事情了](https://toutiao.io/k/1xew5ob) ![](assets/new.png)  
+- [2022-01-06-MegEngine-Windows-Python-wheel-包减肥之路](https://toutiao.io/k/s9y7nkt) ![](assets/new.png)  
 - [2022-01-06-经验分享实时数仓实战命名规范和分层设计~~](https://toutiao.io/k/739jo7l) ![](assets/new.png)  
 - [2022-01-06-从《QQ飞车手游》四周年，我看到了竞速头部产品的“逆生长”](https://toutiao.io/k/39hlrqk) ![](assets/new.png)  
 - [2022-01-06-复活-80-年代的游戏代码，这些代码出自第一本售出百万册的计算机书籍](https://toutiao.io/k/6pw4q9z) ![](assets/new.png)  

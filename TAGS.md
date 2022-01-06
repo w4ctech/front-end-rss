@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-01-06 11:40:33。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-01-06 11:54:39。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -185,7 +185,6 @@
 - [【V2EX】寻一个在线测试多设备-H5-web-页面的工具](https://www.v2ex.com/t/826651)
 - [【V2EX】公网上为什么会有-fc00:110:0:-开头的路由条目](https://www.v2ex.com/t/826621)
 - [【V2EX】iOS-如何创建一个小组件-Widget-并显示自定义数据来源的内容？](https://www.v2ex.com/t/826615)
-- [【V2EX】观隔壁-faker.js-删库有感,-论如何安全备份开源仓库](https://www.v2ex.com/t/826613)
 - [......【查看更多】......](./details/tags/javascript.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

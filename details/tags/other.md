@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-01-06 03:43:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-01-06 03:48:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1563,6 +1563,7 @@
 - [2021-12-31-科技爱好者周刊（第-190-期）：产品化思维](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-190.html) 
 - [2021-12-24-科技爱好者周刊（第-189-期）：下一个内卷的行业](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-189.html) 
 - [2021-12-17-科技爱好者周刊（第-188-期）：音乐是反社交](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-188.html) 
+- [2022-01-06-前端共同开发遇到的问题](https://www.v2ex.com/t/826540) 
 - [2022-01-06-有靠谱的交互设计培训班吗？](https://www.v2ex.com/t/826538) 
 - [2022-01-06-分享下我的独立开发日记-01](https://www.v2ex.com/t/826537) 
 - [2022-01-06-帮忙推荐一款电视](https://www.v2ex.com/t/826534) 

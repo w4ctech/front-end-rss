@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-06 12:20:07，:rocket: 更新条数: +1676， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-06 12:36:46，:rocket: 更新条数: +1679， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -65,10 +65,13 @@
 </summary>
 
 
+- [2022-01-06-1月5日全国新增新冠189例-三省份本土132例](https://m.caixin.com/m/2022-01-06/101826417.html) ![](assets/new.png)  
 - [2022-01-06-西安“一码通”一月内两度崩溃，谁之责？](https://m.caixin.com/m/2022-01-06/101826373.html) ![](assets/new.png)  
+- [2022-01-06-【境内疫情观察】全国新增132例本土病例（1月5日）](https://database.caixin.com/m/2022-01-06/101826716.html) ![](assets/new.png)  
 - [2022-01-06-法国发现变异毒株IHU-世卫称Omicron或更温和｜大流行手记（-1月5日）](https://m.caixin.com/m/2022-01-06/101826420.html) ![](assets/new.png)  
 - [2022-01-05-河南6地三日累计新增54例感染者-已传播至上海](https://m.caixin.com/m/2022-01-05/101826357.html) ![](assets/new.png)  
 - [2022-01-05-西安为涉疫区紧急就医者作出特别安排-孕妇流产事件责任人被处理](https://m.caixin.com/m/2022-01-05/101826298.html) ![](assets/new.png)  
+- [2022-01-05-最新海外疫情：新冠感染超2.94亿-累计接种新冠疫苗近92.21亿剂次](https://m.caixin.com/m/2022-01-05/101826351.html) ![](assets/new.png)  
 - [2022-01-05-西安4万余人集中隔离-方舱医院筹建中](https://m.caixin.com/m/2022-01-05/101826292.html) ![](assets/new.png)  
 - [2022-01-05-境外输入新冠病例两周600多人-回国需加做7日核酸和健康监测](https://m.caixin.com/m/2022-01-05/101826288.html) ![](assets/new.png)  
 - [2022-01-05-香港本地疫情升级-邮轮载9名“密接”紧急返航](https://m.caixin.com/m/2022-01-05/101826084.html) ![](assets/new.png)  
@@ -82,9 +85,6 @@
 - [2022-01-04-香港Omicron本地病例增至6宗-特首称通关再延迟](https://m.caixin.com/m/2022-01-04/101825740.html) ![](assets/new.png)  
 - [2022-01-04-西安连续两日新增少于百例-社会层面检出病例比例下降](https://m.caixin.com/m/2022-01-04/101825890.html) ![](assets/new.png)  
 - [2022-01-04-西安“一码通”再现故障-大数据局局长被停职](https://m.caixin.com/m/2022-01-04/101825605.html) ![](assets/new.png)  
-- [2022-01-04-【境内疫情观察】全国新增108例本土病例（1月3日）](https://database.caixin.com/m/2022-01-04/101825671.html) ![](assets/new.png)  
-- [2022-01-04-纽约检测阳性率达33%，多国缩短加强针接种间隔｜大流行手记（1月3日）](https://m.caixin.com/m/2022-01-04/101825439.html) ![](assets/new.png)  
-- [2022-01-03-河南禹州现3例无症状-所有居民居家隔离](https://china.caixin.com/m/2022-01-03/101825358.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

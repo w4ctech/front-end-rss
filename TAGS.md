@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-01-06 08:49:40。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-01-06 09:13:51。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -353,6 +353,8 @@
 
 
 
+- [【V2EX】深圳远程-ZeroProphet-招聘-Rust-开发工程师](https://www.v2ex.com/t/826625)
+- [【V2EX】苏州-微软-M365-Cosmic-团队招聘，-K8s-方向开发，-3-年+经验](https://www.v2ex.com/t/826624)
 - [【开发者头条】干货总结！Kafka-面试大全（万字长文，37-张图，28-个知识点）](https://toutiao.io/k/f9qe7be)
 - [......【查看更多】......](./details/tags/job-interview.md)
 

@@ -1,15 +1,13 @@
-:alarm_clock: 更新时间: 2022-01-06 11:54:39。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-01-06 12:20:07。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
 
 
 
-- [2022-01-06-1月5日全国新增新冠189例-三省份本土132例](https://m.caixin.com/m/2022-01-06/101826417.html) 
 - [2022-01-06-西安“一码通”一月内两度崩溃，谁之责？](https://m.caixin.com/m/2022-01-06/101826373.html) 
 - [2022-01-06-法国发现变异毒株IHU-世卫称Omicron或更温和｜大流行手记（-1月5日）](https://m.caixin.com/m/2022-01-06/101826420.html) 
 - [2022-01-05-河南6地三日累计新增54例感染者-已传播至上海](https://m.caixin.com/m/2022-01-05/101826357.html) 
-- [2022-01-05-最新海外疫情：新冠感染超2.94亿-累计接种新冠疫苗近92.21亿剂次](https://m.caixin.com/m/2022-01-05/101826351.html) 
 - [2022-01-05-西安4万余人集中隔离-方舱医院筹建中](https://m.caixin.com/m/2022-01-05/101826292.html) 
 - [2022-01-05-境外输入新冠病例两周600多人-回国需加做7日核酸和健康监测](https://m.caixin.com/m/2022-01-05/101826288.html) 
 - [2022-01-05-香港本地疫情升级-邮轮载9名“密接”紧急返航](https://m.caixin.com/m/2022-01-05/101826084.html) 
@@ -1563,6 +1561,8 @@
 - [2021-12-31-科技爱好者周刊（第-190-期）：产品化思维](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-190.html) 
 - [2021-12-24-科技爱好者周刊（第-189-期）：下一个内卷的行业](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-189.html) 
 - [2021-12-17-科技爱好者周刊（第-188-期）：音乐是反社交](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-188.html) 
+- [2022-01-06-现在还有写-Blog-的小伙伴吗？](https://www.v2ex.com/t/826665) 
+- [2022-01-06-c++中如何对一些-util-工具类进行-mock-呢？](https://www.v2ex.com/t/826664) 
 - [2022-01-06-签到-1000-天](https://www.v2ex.com/t/826661) 
 - [2022-01-06-想问下-care+保修年限长了，还有啥区别，不买是保修-1-年吗？](https://www.v2ex.com/t/826659) 
 - [2022-01-06-Pylon-CLI-低成本的本地环境管控工具应用实例](https://www.v2ex.com/t/826658) 
@@ -1588,7 +1588,6 @@
 - [2022-01-06-光猫重置，就再也无法拨号了](https://www.v2ex.com/t/826623) 
 - [2022-01-06-坐标成都，寻找一位兼职前端开发](https://www.v2ex.com/t/826619) 
 - [2022-01-06-杭州外企ABB-研发类岗位内推](https://www.v2ex.com/t/826618) 
-- [2022-01-06-分享一个用了很久的-Linux-下使用微信的姿势](https://www.v2ex.com/t/826614) 
 - [2022-01-06-送你一份VSCode必知必会的进阶指南！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14883&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247492901%26amp%3Bidx%3D1%26amp%3Bsn%3D9e9943701ba263267879bdf0ea857fdb%26amp%3Bchksm%3Dfa3f047ecd488d68105f9866de1ea00ce651431ad6b210f5cf557b0d3bb97836f6a79a8ae181%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-01-06-分享几个酷炫的IDEA主题-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14882&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247492901%26amp%3Bidx%3D2%26amp%3Bsn%3De9c77d0fe12e88fc8fdf054b34732366%26amp%3Bchksm%3Dfa3f047ecd488d683dcc33df9a81c73dd6e5a336b8b4d1c4908090c4938433e867bc17bd3e1c%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-01-06-如何把安静的程序员逼成话唠？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14881&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247492846%26amp%3Bidx%3D1%26amp%3Bsn%3D328ef15b89d9834bc2aa4d4adc619f63%26amp%3Bchksm%3Dfa3f05b5cd488ca3ceef80dabf989819c35846bc6e2e9e5a7598070899f5d14ffbe590369513%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1618,13 +1617,13 @@
 - [2022-01-06-从《QQ飞车手游》四周年，我看到了竞速头部产品的“逆生长”](https://toutiao.io/k/39hlrqk) 
 - [2022-01-06-将几万张图片合成一张图片，制作一个超赞的马赛克图！](https://toutiao.io/k/fb8td6q) 
 - [2022-01-06-聊聊自定义SPI如何与sentinel整合实现熔断限流](https://toutiao.io/k/q0g0len) 
+- [2022-01-06-推荐-插件式可扩展架构设计心得](https://toutiao.io/k/w43usss) 
+- [2022-01-06-推荐-分布式链路追踪在字节跳动的实践](https://toutiao.io/k/hkc5fd7) 
 - [2022-01-06-推荐-聊聊spring事务失效的12种场景，太坑了](https://toutiao.io/k/uf6yk96) 
 - [2022-01-06-推荐-WhatsApp系统架构](https://toutiao.io/k/7dt7oe2) 
-- [2022-01-06-推荐-分布式链路追踪在字节跳动的实践](https://toutiao.io/k/hkc5fd7) 
-- [2022-01-06-推荐-登录态-&-SSO](https://toutiao.io/k/vjcw3vh) 
-- [2022-01-06-推荐-插件式可扩展架构设计心得](https://toutiao.io/k/w43usss) 
-- [2022-01-06-推荐-再见-Typora！推荐一个-2.3-万-Star-的开源-Markdown-编辑器](https://toutiao.io/k/ol8ule0) 
-- [2022-01-06-推荐-2021年美团技术团队最受欢迎的22篇技术文章](https://toutiao.io/k/pjse55y) 
 - [2022-01-06-推荐-小心陷入-MySQL-索引的坑](https://toutiao.io/k/gucqkq4) 
-- [2022-01-06-推荐-白话linux操作系统原理](https://toutiao.io/k/zgc47l7) 
+- [2022-01-06-推荐-2021年美团技术团队最受欢迎的22篇技术文章](https://toutiao.io/k/pjse55y) 
 - [2022-01-06-推荐-画架构图的神器](https://toutiao.io/k/4773s9p) 
+- [2022-01-06-推荐-再见-Typora！推荐一个-2.3-万-Star-的开源-Markdown-编辑器](https://toutiao.io/k/ol8ule0) 
+- [2022-01-06-推荐-登录态-&-SSO](https://toutiao.io/k/vjcw3vh) 
+- [2022-01-06-推荐-白话linux操作系统原理](https://toutiao.io/k/zgc47l7) 

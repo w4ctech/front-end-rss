@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-06 11:54:39，:rocket: 更新条数: +1678， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-06 12:20:07，:rocket: 更新条数: +1676， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -65,12 +65,10 @@
 </summary>
 
 
-- [2022-01-06-1月5日全国新增新冠189例-三省份本土132例](https://m.caixin.com/m/2022-01-06/101826417.html) ![](assets/new.png)  
 - [2022-01-06-西安“一码通”一月内两度崩溃，谁之责？](https://m.caixin.com/m/2022-01-06/101826373.html) ![](assets/new.png)  
 - [2022-01-06-法国发现变异毒株IHU-世卫称Omicron或更温和｜大流行手记（-1月5日）](https://m.caixin.com/m/2022-01-06/101826420.html) ![](assets/new.png)  
 - [2022-01-05-河南6地三日累计新增54例感染者-已传播至上海](https://m.caixin.com/m/2022-01-05/101826357.html) ![](assets/new.png)  
 - [2022-01-05-西安为涉疫区紧急就医者作出特别安排-孕妇流产事件责任人被处理](https://m.caixin.com/m/2022-01-05/101826298.html) ![](assets/new.png)  
-- [2022-01-05-最新海外疫情：新冠感染超2.94亿-累计接种新冠疫苗近92.21亿剂次](https://m.caixin.com/m/2022-01-05/101826351.html) ![](assets/new.png)  
 - [2022-01-05-西安4万余人集中隔离-方舱医院筹建中](https://m.caixin.com/m/2022-01-05/101826292.html) ![](assets/new.png)  
 - [2022-01-05-境外输入新冠病例两周600多人-回国需加做7日核酸和健康监测](https://m.caixin.com/m/2022-01-05/101826288.html) ![](assets/new.png)  
 - [2022-01-05-香港本地疫情升级-邮轮载9名“密接”紧急返航](https://m.caixin.com/m/2022-01-05/101826084.html) ![](assets/new.png)  
@@ -85,6 +83,8 @@
 - [2022-01-04-西安连续两日新增少于百例-社会层面检出病例比例下降](https://m.caixin.com/m/2022-01-04/101825890.html) ![](assets/new.png)  
 - [2022-01-04-西安“一码通”再现故障-大数据局局长被停职](https://m.caixin.com/m/2022-01-04/101825605.html) ![](assets/new.png)  
 - [2022-01-04-【境内疫情观察】全国新增108例本土病例（1月3日）](https://database.caixin.com/m/2022-01-04/101825671.html) ![](assets/new.png)  
+- [2022-01-04-纽约检测阳性率达33%，多国缩短加强针接种间隔｜大流行手记（1月3日）](https://m.caixin.com/m/2022-01-04/101825439.html) ![](assets/new.png)  
+- [2022-01-03-河南禹州现3例无症状-所有居民居家隔离](https://china.caixin.com/m/2022-01-03/101825358.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -494,6 +494,8 @@
 </summary>
 
 
+- [2022-01-06-现在还有写-Blog-的小伙伴吗？](https://www.v2ex.com/t/826665) ![](assets/new.png)  
+- [2022-01-06-c++中如何对一些-util-工具类进行-mock-呢？](https://www.v2ex.com/t/826664) ![](assets/new.png)  
 - [2022-01-06-签到-1000-天](https://www.v2ex.com/t/826661) ![](assets/new.png)  
 - [2022-01-06-想问下-care+保修年限长了，还有啥区别，不买是保修-1-年吗？](https://www.v2ex.com/t/826659) ![](assets/new.png)  
 - [2022-01-06-Pylon-CLI-低成本的本地环境管控工具应用实例](https://www.v2ex.com/t/826658) ![](assets/new.png)  
@@ -512,8 +514,6 @@
 - [2022-01-06-远程控制没有联网功能的多档台灯的开关解决方案](https://www.v2ex.com/t/826640) ![](assets/new.png)  
 - [2022-01-06-想买个一加做备用机，目前手持苹果，朋友们比较推荐哪一款？](https://www.v2ex.com/t/826639) ![](assets/new.png)  
 - [2022-01-06-高并发场景下使用-CAS-锁库存，不预防-ABA-会怎么样](https://www.v2ex.com/t/826638) ![](assets/new.png)  
-- [2022-01-06-大家怎么处理闲置的小容量-2.5-寸机械硬盘以及那些旧时代的数码产品](https://www.v2ex.com/t/826635) ![](assets/new.png)  
-- [2022-01-06-如果遇到-xi'an-这样的情况，可以屯些什么吃的？](https://www.v2ex.com/t/826634) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -565,8 +565,8 @@
 - [2022-01-06-再见了-VMware，一款更轻量级的虚拟机！](https://toutiao.io/k/xw2lnva) ![](assets/new.png)  
 - [2022-01-06-北海（Kraken）构建大前端混合渲染技术体系-——-Web-与-Flutter-Widget-混合渲染方案](https://toutiao.io/k/l2rc00v) ![](assets/new.png)  
 - [2022-01-06-一条nginx命令引发的对于容器的思考](https://toutiao.io/k/jgf665j) ![](assets/new.png)  
-- [2022-01-06-解读-Julia-的-2021：逐步迈向主流编程语言](https://toutiao.io/k/12gd84g) ![](assets/new.png)  
 - [2022-01-06-干货总结！Kafka-面试大全（万字长文，37-张图，28-个知识点）](https://toutiao.io/k/f9qe7be) ![](assets/new.png)  
+- [2022-01-06-解读-Julia-的-2021：逐步迈向主流编程语言](https://toutiao.io/k/12gd84g) ![](assets/new.png)  
 - [2022-01-06-在-OpenHarmony-开发板上运行-WasmEdge](https://toutiao.io/k/6k2tcsh) ![](assets/new.png)  
 - [2022-01-06-MegEngine-Windows-Python-wheel-包减肥之路](https://toutiao.io/k/s9y7nkt) ![](assets/new.png)  
 - [2022-01-06-2021年总结：很多人已经越来越没有耐心做一件长久的事情了](https://toutiao.io/k/1xew5ob) ![](assets/new.png)  

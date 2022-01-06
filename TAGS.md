@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-01-06 08:15:55。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-01-06 08:28:07。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -259,7 +259,6 @@
 
 
 - [【V2EX】为什么-openwrt-上本地的-io-操作会严重影响整体性能？](https://www.v2ex.com/t/826588)
-- [【V2EX】想配台式机，但是一想到傻大黑粗一大坨，性能可能还不如-M1-就难受](https://www.v2ex.com/t/826568)
 - [【开发者头条】作业帮-Kubernetes-原生调度器优化实践](https://toutiao.io/k/qxiiof3)
 - [【开发者头条】推荐-Java-中的5个代码性能提升技巧，最高提升近10倍](https://toutiao.io/k/eyom45a)
 - [......【查看更多】......](./details/tags/optimization.md)

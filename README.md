@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-06 13:13:47，:rocket: 更新条数: +1681， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-06 13:29:40，:rocket: 更新条数: +1682， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,8 @@
 </summary>
 
 
+- [2022-01-06-魔都联通抽风好久了，稳如狗的阿里云新加坡也拉胯](https://www.v2ex.com/t/826680) ![](assets/new.png)  
+- [2022-01-06-如何实现流媒体播放？](https://www.v2ex.com/t/826679) ![](assets/new.png)  
 - [2022-01-06-开发了一个-vscode-插件用于变量命名还有翻译，再也不用麻烦的去找翻译](https://www.v2ex.com/t/826676) ![](assets/new.png)  
 - [2022-01-06-stackoverflow-杀熟?](https://www.v2ex.com/t/826675) ![](assets/new.png)  
 - [2022-01-06-字节跳动-北京-or-成都后端开发工程师](https://www.v2ex.com/t/826674) ![](assets/new.png)  
@@ -512,8 +514,6 @@
 - [2022-01-06-本地若干-Windows-主机跑了一些程序，目前是通过远程桌面进去管理和查看。](https://www.v2ex.com/t/826655) ![](assets/new.png)  
 - [2022-01-06-刚换-iPhone-不熟悉，请教几个问题和求推荐几款-APP](https://www.v2ex.com/t/826653) ![](assets/new.png)  
 - [2022-01-06-搞视频剪辑，比写代码还要苦逼](https://www.v2ex.com/t/826652) ![](assets/new.png)  
-- [2022-01-06-寻一个在线测试多设备-H5-web-页面的工具](https://www.v2ex.com/t/826651) ![](assets/new.png)  
-- [2022-01-06-计算流数据的实时频率的最简单的办法？](https://www.v2ex.com/t/826649) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

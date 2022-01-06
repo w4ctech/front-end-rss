@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-06 05:42:40，:rocket: 更新条数: +1674， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-06 05:54:41，:rocket: 更新条数: +1671， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,8 @@
 </summary>
 
 
+- [2022-01-06-深圳联通信号好差](https://www.v2ex.com/t/826576) ![](assets/new.png)  
+- [2022-01-06-锅杰斯坦森-互联网基础架构之锅的传递及作用域](https://www.v2ex.com/t/826575) ![](assets/new.png)  
 - [2022-01-06-新房即将入住，该买些什么](https://www.v2ex.com/t/826574) ![](assets/new.png)  
 - [2022-01-06-苏州微软的一周年](https://www.v2ex.com/t/826573) ![](assets/new.png)  
 - [2022-01-06-centos7-有什么好用的-Web-数据库管理工具吗](https://www.v2ex.com/t/826571) ![](assets/new.png)  
@@ -505,7 +507,6 @@
 - [2022-01-06-Posix-共享内存怎么共享结构指针](https://www.v2ex.com/t/826563) ![](assets/new.png)  
 - [2022-01-06-北京团结湖-电讯盈科招-react-高级前端开发，几乎不加班](https://www.v2ex.com/t/826562) ![](assets/new.png)  
 - [2022-01-06-Optimised-battery-charging-挺智能的](https://www.v2ex.com/t/826561) ![](assets/new.png)  
-- [2022-01-06-通过这次抗疫，你怎么看西安？](https://www.v2ex.com/t/826560) ![](assets/new.png)  
 - [2022-01-06-在现有的各种生态积累下，开发一款类似-go-这样高性能的编程语言，是否有很高的的门槛？](https://www.v2ex.com/t/826559) ![](assets/new.png)  
 - [2022-01-06-2022-年了，移动的宽带体验怎么样了？](https://www.v2ex.com/t/826556) ![](assets/new.png)  
 - [2022-01-06-请问-rust-有类似-C++这种实现的吗？](https://www.v2ex.com/t/826555) ![](assets/new.png)  
@@ -513,7 +514,6 @@
 - [2022-01-06-上个月澳门买的-mbp14-寸，可以买美版-ac+在国内保修嘛？](https://www.v2ex.com/t/826553) ![](assets/new.png)  
 - [2022-01-06-V-友们，-MacOS-这么多的快捷键大家是如何防止误触？](https://www.v2ex.com/t/826551) ![](assets/new.png)  
 - [2022-01-06-买了-13promax，兄弟们有推荐的充电头吗](https://www.v2ex.com/t/826550) ![](assets/new.png)  
-- [2022-01-06-有没有办法修改触摸板“单指重按”的功能？](https://www.v2ex.com/t/826548) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -560,8 +560,8 @@
 - [2022-01-06-分布式任务队列Celery的实践](https://toutiao.io/k/td1pjzw) ![](assets/new.png)  
 - [2022-01-06-生产故障｜Kafka消息发送延迟达到几十秒的罪魁祸首竟然是...](https://toutiao.io/k/u0sbbi3) ![](assets/new.png)  
 - [2022-01-06-Kubernetes容器平台，从繁荣走向碎片化](https://toutiao.io/k/z0w44gr) ![](assets/new.png)  
-- [2022-01-06-北海（Kraken）构建大前端混合渲染技术体系-——-Web-与-Flutter-Widget-混合渲染方案](https://toutiao.io/k/l2rc00v) ![](assets/new.png)  
 - [2022-01-06-盘点2021年晋升为Apache-TLP的大数据相关项目](https://toutiao.io/k/6j61pd7) ![](assets/new.png)  
+- [2022-01-06-北海（Kraken）构建大前端混合渲染技术体系-——-Web-与-Flutter-Widget-混合渲染方案](https://toutiao.io/k/l2rc00v) ![](assets/new.png)  
 - [2022-01-06-缓存一致性最佳实践](https://toutiao.io/k/ymscqc1) ![](assets/new.png)  
 - [2022-01-06-再见了-VMware，一款更轻量级的虚拟机！](https://toutiao.io/k/xw2lnva) ![](assets/new.png)  
 - [2022-01-06-在-OpenHarmony-开发板上运行-WasmEdge](https://toutiao.io/k/6k2tcsh) ![](assets/new.png)  
@@ -570,12 +570,12 @@
 - [2022-01-06-解读-Julia-的-2021：逐步迈向主流编程语言](https://toutiao.io/k/12gd84g) ![](assets/new.png)  
 - [2022-01-06-从《QQ飞车手游》四周年，我看到了竞速头部产品的“逆生长”](https://toutiao.io/k/39hlrqk) ![](assets/new.png)  
 - [2022-01-06-推荐-画架构图的神器](https://toutiao.io/k/4773s9p) ![](assets/new.png)  
-- [2022-01-06-推荐-2021年美团技术团队最受欢迎的22篇技术文章](https://toutiao.io/k/pjse55y) ![](assets/new.png)  
-- [2022-01-06-推荐-再见-Typora！推荐一个-2.3-万-Star-的开源-Markdown-编辑器](https://toutiao.io/k/ol8ule0) ![](assets/new.png)  
 - [2022-01-06-推荐-聊聊spring事务失效的12种场景，太坑了](https://toutiao.io/k/uf6yk96) ![](assets/new.png)  
-- [2022-01-06-推荐-Java-中的5个代码性能提升技巧，最高提升近10倍](https://toutiao.io/k/eyom45a) ![](assets/new.png)  
-- [2022-01-06-推荐-小心陷入-MySQL-索引的坑](https://toutiao.io/k/gucqkq4) ![](assets/new.png)  
-- [2022-01-06-推荐-白话linux操作系统原理](https://toutiao.io/k/zgc47l7) ![](assets/new.png)  
+- [2022-01-06-推荐-再见-Typora！推荐一个-2.3-万-Star-的开源-Markdown-编辑器](https://toutiao.io/k/ol8ule0) ![](assets/new.png)  
+- [2022-01-06-推荐-2021年美团技术团队最受欢迎的22篇技术文章](https://toutiao.io/k/pjse55y) ![](assets/new.png)  
+- [2022-01-06-推荐-WhatsApp系统架构](https://toutiao.io/k/7dt7oe2) ![](assets/new.png)  
+- [2022-01-06-推荐-分布式链路追踪在字节跳动的实践](https://toutiao.io/k/hkc5fd7) ![](assets/new.png)  
+- [2022-01-06-推荐-登录态-&-SSO](https://toutiao.io/k/vjcw3vh) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

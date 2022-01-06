@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-01-05 23:56:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-01-06 00:44:04。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Git、SVN
 
@@ -6,5 +6,3 @@
 > 关键字：`Git`、`SVN`
 
 
-
-- [2022-01-05-GitHub-打钱了，10-万美元！](https://toutiao.io/k/ndfqyy2) 

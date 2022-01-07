@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-01-07 22:57:04。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-01-07 23:13:43。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -110,6 +110,7 @@
 - [【武汉肺炎防疫全纪录(财新网)】2022-01-01-【境内疫情观察】陕西新增174例本土病例（12月31日）](https://database.caixin.com/m/2022-01-01/101825023.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2022-01-01-英国重启临时医院，多国医疗系统承压｜大流行手记（12月31日）](https://m.caixin.com/m/2022-01-01/101824902.html) 
 - [【阮一峰的网络日志】2022-01-07-科技爱好者周刊（第-191-期）：一个程序员的财务独立之路](http://www.ruanyifeng.com/blog/2022/01/weekly-issue-191.html) 
+- [【V2EX】2022-01-07-7-年塔罗占卜经历的-U3D-前端，可以提供一对一塔罗占卜](https://www.v2ex.com/t/826948) 
 - [【V2EX】2022-01-07-可以短期体验美团骑手或者滴滴司机的工作么？](https://www.v2ex.com/t/826947) 
 - [【V2EX】2022-01-07-一个神奇的事情:windows-server-insider-和-windows-installer-在同步刷版本号](https://www.v2ex.com/t/826946) 
 - [【V2EX】2022-01-07-MMXX，又滚挂了](https://www.v2ex.com/t/826944) 
@@ -149,7 +150,6 @@
 - [【V2EX】2022-01-07-再来水一帖：分享改变生活习惯的物品](https://www.v2ex.com/t/826902) 
 - [【V2EX】2022-01-07-邀请喜欢旅行&露营的朋友进-wx-群](https://www.v2ex.com/t/826900) 
 - [【V2EX】2022-01-07-怎么说?这周基金有赚钱的老哥🐴](https://www.v2ex.com/t/826899) 
-- [【V2EX】2022-01-07-话费可以买东西吗？](https://www.v2ex.com/t/826898) 
 - [【技术头条】2022-01-07-Ghost-in-the-Log4Shell-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14886&url=https%3A%2F%2Finsights.thoughtworks.cn%2Flog4j-log4shell%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-01-07-敏捷变革中，如何让你的第三空间更有吸引力？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14885&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fagile-organization-transformation-third-space%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-01-07-浅谈开发者友好的软件设计-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14884&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fdeveloper-friendly-software-design%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -186,17 +186,17 @@
 - [【开发者头条】2022-01-07-独立开发变现周刊（第36期）：最好的播客搜索引擎，从副业到被投资经历了什么？](https://toutiao.io/k/b08p7xq) 
 - [【开发者头条】2022-01-07-书单-|-学习数据可视化？看这些书就够了！](https://toutiao.io/k/edm16lp) 
 - [【开发者头条】2022-01-07-实践剖析.NET-Core如何支持Cookie滑动过期和JWT混合认证、授权](https://toutiao.io/k/nkr3ira) 
-- [【开发者头条】2022-01-07-推荐-白话linux操作系统原理](https://toutiao.io/k/zgc47l7) 
-- [【开发者头条】2022-01-07-推荐-聊聊spring事务失效的12种场景，太坑了](https://toutiao.io/k/uf6yk96) 
+- [【开发者头条】2022-01-07-推荐-非常哇塞的-ES读场景、写场景-性能优化指南！你值得拥有！](https://toutiao.io/k/5pjb28q) 
+- [【开发者头条】2022-01-07-推荐-2022新年伊始，送你百篇干货文章](https://toutiao.io/k/kchudkd) 
 - [【开发者头条】2022-01-07-推荐-再见-Typora！推荐一个-2.3-万-Star-的开源-Markdown-编辑器](https://toutiao.io/k/ol8ule0) 
-- [【开发者头条】2022-01-07-推荐-画架构图的神器](https://toutiao.io/k/4773s9p) 
+- [【开发者头条】2022-01-07-推荐-白话linux操作系统原理](https://toutiao.io/k/zgc47l7) 
 - [【开发者头条】2022-01-07-推荐-登录态-&-SSO](https://toutiao.io/k/vjcw3vh) 
+- [【开发者头条】2022-01-07-推荐-画架构图的神器](https://toutiao.io/k/4773s9p) 
 - [【开发者头条】2022-01-07-推荐-2021年美团技术团队最受欢迎的22篇技术文章](https://toutiao.io/k/pjse55y) 
 - [【开发者头条】2022-01-07-推荐-面渣逆袭：JVM经典五十问，这下面试稳了！](https://toutiao.io/k/wideaab) 
-- [【开发者头条】2022-01-07-推荐-2022新年伊始，送你百篇干货文章](https://toutiao.io/k/kchudkd) 
-- [【开发者头条】2022-01-07-推荐-非常哇塞的-ES读场景、写场景-性能优化指南！你值得拥有！](https://toutiao.io/k/5pjb28q) 
-- [【开发者头条】2022-01-07-推荐-WhatsApp系统架构](https://toutiao.io/k/7dt7oe2) 
 - [【开发者头条】2022-01-07-推荐-插件式可扩展架构设计心得](https://toutiao.io/k/w43usss) 
+- [【开发者头条】2022-01-07-推荐-聊聊spring事务失效的12种场景，太坑了](https://toutiao.io/k/uf6yk96) 
+- [【开发者头条】2022-01-07-推荐-WhatsApp系统架构](https://toutiao.io/k/7dt7oe2) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

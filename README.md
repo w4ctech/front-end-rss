@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-07 10:28:07，:rocket: 更新条数: +1685， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-07 10:44:14，:rocket: 更新条数: +1687， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -66,9 +66,11 @@
 
 
 - [2022-01-07-1月6日全国新增新冠174例-三省份本土116例](https://m.caixin.com/m/2022-01-07/101826858.html) ![](assets/new.png)  
+- [2022-01-07-河南新增病例数逼近陕西-已波及三省8市](https://m.caixin.com/m/2022-01-07/101827266.html) ![](assets/new.png)  
 - [2022-01-07-孙春兰：防疫期间决不能以任何借口将患者一拒了之](https://china.caixin.com/m/2022-01-07/101826810.html) ![](assets/new.png)  
 - [2022-01-07-深圳报告两例本土新冠阳性-全市加强出行管控](https://m.caixin.com/m/2022-01-07/101826875.html) ![](assets/new.png)  
 - [2022-01-07-港府多名官员参加逾百人生日会-政府大楼连夜全面消毒](https://m.caixin.com/m/2022-01-07/101826827.html) ![](assets/new.png)  
+- [2022-01-07-【境内疫情观察】全国新增116例本土病例（1月6日）](https://database.caixin.com/m/2022-01-07/101827254.html) ![](assets/new.png)  
 - [2022-01-07-研究称印尼85%人口已有抗体-多国检测阳性率超20%｜大流行手记（1月6日）](https://m.caixin.com/m/2022-01-07/101826886.html) ![](assets/new.png)  
 - [2022-01-06-最新海外疫情：新冠感染超2.97亿-累计接种新冠疫苗近92.52亿剂次](https://m.caixin.com/m/2022-01-06/101826730.html) ![](assets/new.png)  
 - [2022-01-06-西安“一码通”一月内两度崩溃，谁之责？](https://m.caixin.com/m/2022-01-06/101826373.html) ![](assets/new.png)  
@@ -83,8 +85,6 @@
 - [2022-01-05-【境内疫情观察】全国新增41例本土病例（1月4日）](https://database.caixin.com/m/2022-01-05/101826315.html) ![](assets/new.png)  
 - [2022-01-05-以色列称接种第四剂疫苗抗体增加5倍-英格兰拒绝封锁｜大流行手记（1月4日）](https://m.caixin.com/m/2022-01-05/101825962.html) ![](assets/new.png)  
 - [2022-01-05-世卫称更多证据表明奥密克戎或更温和-欧美多国医院承压](https://m.caixin.com/m/2022-01-05/101826212.html) ![](assets/new.png)  
-- [2022-01-05-日本疫情反弹单日确诊破千-冲绳知事怒批驻日美军防疫松懈](https://international.caixin.com/m/2022-01-05/101826115.html) ![](assets/new.png)  
-- [2022-01-05-【图集】智利一动物园老虎猩猩等10头动物接种新冠疫苗](https://photos.caixin.com/m/2022-01-05/101826098.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -494,6 +494,7 @@
 </summary>
 
 
+- [2022-01-07-求职-远程-产品经理岗位](https://www.v2ex.com/t/826891) ![](assets/new.png)  
 - [2022-01-07-兄弟们，第一次见女朋友父母该买点什么礼物？](https://www.v2ex.com/t/826890) ![](assets/new.png)  
 - [2022-01-07-换了新款-MBP-真香之余，发现已经对-TouchBar-PTSD-了](https://www.v2ex.com/t/826887) ![](assets/new.png)  
 - [2022-01-07-不懂就问,Nginx-使用-80-端口无法代理-Netty-的-websocket](https://www.v2ex.com/t/826886) ![](assets/new.png)  
@@ -513,7 +514,6 @@
 - [2022-01-07-关于注册商标，自己去腾讯提交被驳回了，钱白花了](https://www.v2ex.com/t/826870) ![](assets/new.png)  
 - [2022-01-07-gitea-gitlab-同类可自建产品推荐](https://www.v2ex.com/t/826869) ![](assets/new.png)  
 - [2022-01-07-上海-米哈游内推-2022-一月更新～](https://www.v2ex.com/t/826868) ![](assets/new.png)  
-- [2022-01-07-小米手环-6-使用体验](https://www.v2ex.com/t/826864) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -565,17 +565,17 @@
 - [2022-01-07-京东ClickHouse的实践之路](https://toutiao.io/k/j0r6746) ![](assets/new.png)  
 - [2022-01-07-广告行业中那些趣事系列47：NLP中对比学习SOTA必学模型ESimCSE](https://toutiao.io/k/lyjzx3u) ![](assets/new.png)  
 - [2022-01-07-干货-|-携程Service-Mesh可用性实践](https://toutiao.io/k/lfit6th) ![](assets/new.png)  
-- [2022-01-07-KDD-Cup-2020-Debiasing比赛冠军技术方案及在美团的实践](https://toutiao.io/k/d51a8ri) ![](assets/new.png)  
 - [2022-01-07-阿里盒马-如何打造渐进式可扩展、高生产力的前端研发平台](https://toutiao.io/k/ll29zy1) ![](assets/new.png)  
+- [2022-01-07-KDD-Cup-2020-Debiasing比赛冠军技术方案及在美团的实践](https://toutiao.io/k/d51a8ri) ![](assets/new.png)  
 - [2022-01-07-优质网站同好者周刊（第-47-期）--倾城之链---悠然宜想亭](https://toutiao.io/k/1lvsfd1) ![](assets/new.png)  
 - [2022-01-07-记一次Golang踩坑RabbitMQ](https://toutiao.io/k/mb15sbo) ![](assets/new.png)  
 - [2022-01-07-书单-|-学习数据可视化？看这些书就够了！](https://toutiao.io/k/edm16lp) ![](assets/new.png)  
 - [2022-01-07-独立开发变现周刊（第36期）：最好的播客搜索引擎，从副业到被投资经历了什么？](https://toutiao.io/k/b08p7xq) ![](assets/new.png)  
 - [2022-01-07-实践剖析.NET-Core如何支持Cookie滑动过期和JWT混合认证、授权](https://toutiao.io/k/nkr3ira) ![](assets/new.png)  
-- [2022-01-07-推荐-聊聊spring事务失效的12种场景，太坑了](https://toutiao.io/k/uf6yk96) ![](assets/new.png)  
-- [2022-01-07-推荐-白话linux操作系统原理](https://toutiao.io/k/zgc47l7) ![](assets/new.png)  
+- [2022-01-07-推荐-登录态-&-SSO](https://toutiao.io/k/vjcw3vh) ![](assets/new.png)  
+- [2022-01-07-推荐-画架构图的神器](https://toutiao.io/k/4773s9p) ![](assets/new.png)  
+- [2022-01-07-推荐-插件式可扩展架构设计心得](https://toutiao.io/k/w43usss) ![](assets/new.png)  
 - [2022-01-07-推荐-非常哇塞的-ES读场景、写场景-性能优化指南！你值得拥有！](https://toutiao.io/k/5pjb28q) ![](assets/new.png)  
-- [2022-01-07-推荐-再见-Typora！推荐一个-2.3-万-Star-的开源-Markdown-编辑器](https://toutiao.io/k/ol8ule0) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

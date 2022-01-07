@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2022-01-07 13:26:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-01-07 13:39:29。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-01-07-我在前端要写一个缓存功能，缓存存取失败要静默失败好呢还是抛异常好？](https://www.v2ex.com/t/826919) 
+- [2022-01-07-还是决定出国读博](https://www.v2ex.com/t/826918) 
 - [2022-01-07-iPad-mini6-值不值得买？](https://www.v2ex.com/t/826917) 
 - [2022-01-07-echo-自定义-Response](https://www.v2ex.com/t/826916) 
 - [2022-01-07-freshrss-插件用不了](https://www.v2ex.com/t/826913) 
@@ -41,5 +43,3 @@
 - [2022-01-07-大家对于半躺着办公有什么看法？](https://www.v2ex.com/t/826873) 
 - [2022-01-07-Adobe-illustrantor-还没有-M1-版本啊？](https://www.v2ex.com/t/826872) 
 - [2022-01-07-关于注册商标，自己去腾讯提交被驳回了，钱白花了](https://www.v2ex.com/t/826870) 
-- [2022-01-07-gitea-gitlab-同类可自建产品推荐](https://www.v2ex.com/t/826869) 
-- [2022-01-07-上海-米哈游内推-2022-一月更新～](https://www.v2ex.com/t/826868) 

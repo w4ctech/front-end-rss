@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-01-07 09:23:01。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-01-07 09:42:30。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1597,7 +1597,6 @@
 - [2022-01-07-脑洞-摩尔庄园算是元宇宙先驱吗？懂的来说说](https://www.v2ex.com/t/826830) 
 - [2022-01-07-Windows-和-BIOS-正在合伙劫持我的-UEFI-启动项](https://www.v2ex.com/t/826827) 
 - [2022-01-07-adwords-点击单价-2-美元一次怎么样](https://www.v2ex.com/t/826826) 
-- [2022-01-07-填写苹果消费品缺陷线索](https://www.v2ex.com/t/826825) 
 - [2022-01-07-Ghost-in-the-Log4Shell-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14886&url=https%3A%2F%2Finsights.thoughtworks.cn%2Flog4j-log4shell%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-01-07-敏捷变革中，如何让你的第三空间更有吸引力？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14885&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fagile-organization-transformation-third-space%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-01-07-浅谈开发者友好的软件设计-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14884&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fdeveloper-friendly-software-design%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1629,12 +1628,12 @@
 - [2022-01-07-记一次Golang踩坑RabbitMQ](https://toutiao.io/k/mb15sbo) 
 - [2022-01-07-书单-|-学习数据可视化？看这些书就够了！](https://toutiao.io/k/edm16lp) 
 - [2022-01-07-独立开发变现周刊（第36期）：最好的播客搜索引擎，从副业到被投资经历了什么？](https://toutiao.io/k/b08p7xq) 
-- [2022-01-07-推荐-2021年美团技术团队最受欢迎的22篇技术文章](https://toutiao.io/k/pjse55y) 
 - [2022-01-07-推荐-WhatsApp系统架构](https://toutiao.io/k/7dt7oe2) 
 - [2022-01-07-推荐-小心陷入-MySQL-索引的坑](https://toutiao.io/k/gucqkq4) 
-- [2022-01-07-推荐-画架构图的神器](https://toutiao.io/k/4773s9p) 
+- [2022-01-07-推荐-聊聊spring事务失效的12种场景，太坑了](https://toutiao.io/k/uf6yk96) 
+- [2022-01-07-推荐-白话linux操作系统原理](https://toutiao.io/k/zgc47l7) 
 - [2022-01-07-推荐-插件式可扩展架构设计心得](https://toutiao.io/k/w43usss) 
 - [2022-01-07-推荐-再见-Typora！推荐一个-2.3-万-Star-的开源-Markdown-编辑器](https://toutiao.io/k/ol8ule0) 
-- [2022-01-07-推荐-白话linux操作系统原理](https://toutiao.io/k/zgc47l7) 
+- [2022-01-07-推荐-2021年美团技术团队最受欢迎的22篇技术文章](https://toutiao.io/k/pjse55y) 
 - [2022-01-07-推荐-登录态-&-SSO](https://toutiao.io/k/vjcw3vh) 
-- [2022-01-07-推荐-聊聊spring事务失效的12种场景，太坑了](https://toutiao.io/k/uf6yk96) 
+- [2022-01-07-推荐-画架构图的神器](https://toutiao.io/k/4773s9p) 

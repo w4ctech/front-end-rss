@@ -1,10 +1,13 @@
-:alarm_clock: 更新时间: 2022-01-07 09:13:51。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-01-07 09:23:01。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-01-07-可以给特定软件设置专门的分辨率和缩放吗](https://www.v2ex.com/t/826874) 
+- [2022-01-07-大家对于半躺着办公有什么看法？](https://www.v2ex.com/t/826873) 
+- [2022-01-07-Adobe-illustrantor-还没有-M1-版本啊？](https://www.v2ex.com/t/826872) 
 - [2022-01-07-关于注册商标，自己去腾讯提交被驳回了，钱白花了](https://www.v2ex.com/t/826870) 
 - [2022-01-07-gitea-gitlab-同类可自建产品推荐](https://www.v2ex.com/t/826869) 
 - [2022-01-07-上海-米哈游内推-2022-一月更新～](https://www.v2ex.com/t/826868) 
@@ -43,5 +46,3 @@
 - [2022-01-07-Windows-和-BIOS-正在合伙劫持我的-UEFI-启动项](https://www.v2ex.com/t/826827) 
 - [2022-01-07-adwords-点击单价-2-美元一次怎么样](https://www.v2ex.com/t/826826) 
 - [2022-01-07-填写苹果消费品缺陷线索](https://www.v2ex.com/t/826825) 
-- [2022-01-07-刚发现新款-MBP-屏幕左右也有黑边](https://www.v2ex.com/t/826824) 
-- [2022-01-07-Chrome-系的浏览器在-Win11-下相当卡](https://www.v2ex.com/t/826822) 

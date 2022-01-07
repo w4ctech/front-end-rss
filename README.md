@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-07 19:54:32，:rocket: 更新条数: +1692， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-07 20:14:29，:rocket: 更新条数: +1691， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -495,7 +495,6 @@
 
 
 - [2022-01-07-一个神奇的事情:windows-server-insider-和-windows-installer-在同步刷版本号](https://www.v2ex.com/t/826946) ![](assets/new.png)  
-- [2022-01-07-dropbox-有偿刷空间，用我的邀请链接注册就给-1-元，每人仅限一次](https://www.v2ex.com/t/826945) ![](assets/new.png)  
 - [2022-01-07-MMXX，又滚挂了](https://www.v2ex.com/t/826944) ![](assets/new.png)  
 - [2022-01-07-SeaCows-NFT-团队招聘数据抓取高级-后端工程师：](https://www.v2ex.com/t/826943) ![](assets/new.png)  
 - [2022-01-07-Macbook-使用过程突然卡住几秒钟，鼠标键盘触控板什么都操作不了是怎么回事](https://www.v2ex.com/t/826942) ![](assets/new.png)  
@@ -514,6 +513,7 @@
 - [2022-01-07-北京又开始查隔断住房了？](https://www.v2ex.com/t/826927) ![](assets/new.png)  
 - [2022-01-07-自从用了-Adguard-后-Mac-mini-风扇狂转](https://www.v2ex.com/t/826926) ![](assets/new.png)  
 - [2022-01-07-2022-了，有没有-现成的工具可以测试家宽真实的网络质量？](https://www.v2ex.com/t/826925) ![](assets/new.png)  
+- [2022-01-07-问一下路由器，挂-pt-的用哪个？](https://www.v2ex.com/t/826924) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -572,10 +572,10 @@
 - [2022-01-07-独立开发变现周刊（第36期）：最好的播客搜索引擎，从副业到被投资经历了什么？](https://toutiao.io/k/b08p7xq) ![](assets/new.png)  
 - [2022-01-07-书单-|-学习数据可视化？看这些书就够了！](https://toutiao.io/k/edm16lp) ![](assets/new.png)  
 - [2022-01-07-实践剖析.NET-Core如何支持Cookie滑动过期和JWT混合认证、授权](https://toutiao.io/k/nkr3ira) ![](assets/new.png)  
-- [2022-01-07-推荐-画架构图的神器](https://toutiao.io/k/4773s9p) ![](assets/new.png)  
-- [2022-01-07-推荐-再见-Typora！推荐一个-2.3-万-Star-的开源-Markdown-编辑器](https://toutiao.io/k/ol8ule0) ![](assets/new.png)  
-- [2022-01-07-推荐-插件式可扩展架构设计心得](https://toutiao.io/k/w43usss) ![](assets/new.png)  
+- [2022-01-07-推荐-2021年美团技术团队最受欢迎的22篇技术文章](https://toutiao.io/k/pjse55y) ![](assets/new.png)  
+- [2022-01-07-推荐-白话linux操作系统原理](https://toutiao.io/k/zgc47l7) ![](assets/new.png)  
 - [2022-01-07-推荐-非常哇塞的-ES读场景、写场景-性能优化指南！你值得拥有！](https://toutiao.io/k/5pjb28q) ![](assets/new.png)  
+- [2022-01-07-推荐-画架构图的神器](https://toutiao.io/k/4773s9p) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

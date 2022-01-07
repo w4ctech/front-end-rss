@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-01-07 19:54:32。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-01-07 20:14:29。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
@@ -6,7 +6,6 @@
 
 
 - [2022-01-07-一个神奇的事情:windows-server-insider-和-windows-installer-在同步刷版本号](https://www.v2ex.com/t/826946) 
-- [2022-01-07-dropbox-有偿刷空间，用我的邀请链接注册就给-1-元，每人仅限一次](https://www.v2ex.com/t/826945) 
 - [2022-01-07-MMXX，又滚挂了](https://www.v2ex.com/t/826944) 
 - [2022-01-07-SeaCows-NFT-团队招聘数据抓取高级-后端工程师：](https://www.v2ex.com/t/826943) 
 - [2022-01-07-Macbook-使用过程突然卡住几秒钟，鼠标键盘触控板什么都操作不了是怎么回事](https://www.v2ex.com/t/826942) 

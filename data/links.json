@@ -8437,11 +8437,6 @@
         "title": "请问大家在项目中是如何完成结构体之间的转换的，如： DTO ---> VO",
         "link": "https://www.v2ex.com/t/826769",
         "date": "2022-01-07"
-      },
-      {
-        "title": "年会都准备的啥节目啊？？",
-        "link": "https://www.v2ex.com/t/826768",
-        "date": "2022-01-07"
       }
     ]
   },
@@ -8450,6 +8445,21 @@
     "title": "技术头条",
     "link": "http://blogread.cn/news/newest.php",
     "items": [
+      {
+        "title": "Ghost in the Log4Shell (insights.thoughtworks.cn)",
+        "link": "https://blogread.cn/news/go.php?idItem=14886&url=https%3A%2F%2Finsights.thoughtworks.cn%2Flog4j-log4shell%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2022-01-07"
+      },
+      {
+        "title": "敏捷变革中，如何让你的第三空间更有吸引力？ (insights.thoughtworks.cn)",
+        "link": "https://blogread.cn/news/go.php?idItem=14885&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fagile-organization-transformation-third-space%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2022-01-07"
+      },
+      {
+        "title": "浅谈开发者友好的软件设计 (insights.thoughtworks.cn)",
+        "link": "https://blogread.cn/news/go.php?idItem=14884&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fdeveloper-friendly-software-design%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2022-01-07"
+      },
       {
         "title": "送你一份VSCode必知必会的进阶指南！ (mp.weixin.qq.com)",
         "link": "https://blogread.cn/news/go.php?idItem=14883&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247492901%26amp%3Bidx%3D1%26amp%3Bsn%3D9e9943701ba263267879bdf0ea857fdb%26amp%3Bchksm%3Dfa3f047ecd488d68105f9866de1ea00ce651431ad6b210f5cf557b0d3bb97836f6a79a8ae181%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
@@ -8534,21 +8544,6 @@
         "title": "这30个顶级工具！前端开发很喜欢 (mp.weixin.qq.com)",
         "link": "https://blogread.cn/news/go.php?idItem=14867&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247492761%26amp%3Bidx%3D1%26amp%3Bsn%3D2b24ab63f2fe7be731ab3d16f7b9a7c7%26amp%3Bchksm%3Dfa3f05c2cd488cd4976daa0a33f9d6dc7cc122bdfbfe24475950bcba896dafa8a42b47ca7394%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
         "date": "2022-01-07"
-      },
-      {
-        "title": "十六年全栈开发者的Android开发踩坑实录 (mp.weixin.qq.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=14866&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247492761%26amp%3Bidx%3D2%26amp%3Bsn%3Dc27418bd06c4b87dedc58b184923c567%26amp%3Bchksm%3Dfa3f05c2cd488cd437cc7dabb3f84b1242a56211475c9c99e8a8a54ce867ed6b84ed75027376%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-01-07"
-      },
-      {
-        "title": "一键部署！搭建一个文档网站超简单! (mp.weixin.qq.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=14865&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247492756%26amp%3Bidx%3D1%26amp%3Bsn%3D1efadd79310d6a376a697e5b0002a165%26amp%3Bchksm%3Dfa3f05cfcd488cd964eb8841aed34d4256824bf01fbe5c84e034e94b66a7e261115247b86872%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-01-07"
-      },
-      {
-        "title": "Flutter将成为未来Ubuntu应用程序的默认选择 (mp.weixin.qq.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=14864&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247492756%26amp%3Bidx%3D2%26amp%3Bsn%3D4638a42619518b08e54f6a7b1c989331%26amp%3Bchksm%3Dfa3f05cfcd488cd9481c166b52e337776dacc4542e1804fbd130567f17fc79dcdff0c0bb2263%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-01-07"
       }
     ]
   },
@@ -8598,13 +8593,13 @@
         "date": "2022-01-07"
       },
       {
-        "title": "KDD Cup 2020 Debiasing比赛冠军技术方案及在美团的实践",
-        "link": "https://toutiao.io/k/d51a8ri",
+        "title": "干货 | 携程Service Mesh可用性实践",
+        "link": "https://toutiao.io/k/lfit6th",
         "date": "2022-01-07"
       },
       {
-        "title": "干货 | 携程Service Mesh可用性实践",
-        "link": "https://toutiao.io/k/lfit6th",
+        "title": "KDD Cup 2020 Debiasing比赛冠军技术方案及在美团的实践",
+        "link": "https://toutiao.io/k/d51a8ri",
         "date": "2022-01-07"
       },
       {
@@ -8623,13 +8618,13 @@
         "date": "2022-01-07"
       },
       {
-        "title": "记一次Golang踩坑RabbitMQ",
-        "link": "https://toutiao.io/k/mb15sbo",
+        "title": "书单 | 学习数据可视化？看这些书就够了！",
+        "link": "https://toutiao.io/k/edm16lp",
         "date": "2022-01-07"
       },
       {
-        "title": "书单 | 学习数据可视化？看这些书就够了！",
-        "link": "https://toutiao.io/k/edm16lp",
+        "title": "记一次Golang踩坑RabbitMQ",
+        "link": "https://toutiao.io/k/mb15sbo",
         "date": "2022-01-07"
       },
       {
@@ -8638,28 +8633,13 @@
         "date": "2022-01-07"
       },
       {
+        "title": "[推荐] 小心陷入 MySQL 索引的坑",
+        "link": "https://toutiao.io/k/gucqkq4",
+        "date": "2022-01-07"
+      },
+      {
         "title": "[推荐] 插件式可扩展架构设计心得",
         "link": "https://toutiao.io/k/w43usss",
-        "date": "2022-01-07"
-      },
-      {
-        "title": "[推荐] 2021年美团技术团队最受欢迎的22篇技术文章",
-        "link": "https://toutiao.io/k/pjse55y",
-        "date": "2022-01-07"
-      },
-      {
-        "title": "[推荐] Java 中的5个代码性能提升技巧，最高提升近10倍",
-        "link": "https://toutiao.io/k/eyom45a",
-        "date": "2022-01-07"
-      },
-      {
-        "title": "[推荐] 非常哇塞的 ES读场景、写场景 性能优化指南！你值得拥有！",
-        "link": "https://toutiao.io/k/5pjb28q",
-        "date": "2022-01-07"
-      },
-      {
-        "title": "[推荐] 画架构图的神器",
-        "link": "https://toutiao.io/k/4773s9p",
         "date": "2022-01-07"
       },
       {
@@ -8668,8 +8648,18 @@
         "date": "2022-01-07"
       },
       {
-        "title": "[推荐] 聊聊spring事务失效的12种场景，太坑了",
-        "link": "https://toutiao.io/k/uf6yk96",
+        "title": "[推荐] 再见 Typora！推荐一个 2.3 万 Star 的开源 Markdown 编辑器",
+        "link": "https://toutiao.io/k/ol8ule0",
+        "date": "2022-01-07"
+      },
+      {
+        "title": "[推荐] 画架构图的神器",
+        "link": "https://toutiao.io/k/4773s9p",
+        "date": "2022-01-07"
+      },
+      {
+        "title": "[推荐] Java 中的5个代码性能提升技巧，最高提升近10倍",
+        "link": "https://toutiao.io/k/eyom45a",
         "date": "2022-01-07"
       },
       {
@@ -8678,13 +8668,18 @@
         "date": "2022-01-07"
       },
       {
-        "title": "[推荐] 小心陷入 MySQL 索引的坑",
-        "link": "https://toutiao.io/k/gucqkq4",
+        "title": "[推荐] 2021年美团技术团队最受欢迎的22篇技术文章",
+        "link": "https://toutiao.io/k/pjse55y",
         "date": "2022-01-07"
       },
       {
-        "title": "[推荐] 再见 Typora！推荐一个 2.3 万 Star 的开源 Markdown 编辑器",
-        "link": "https://toutiao.io/k/ol8ule0",
+        "title": "[推荐] 聊聊spring事务失效的12种场景，太坑了",
+        "link": "https://toutiao.io/k/uf6yk96",
+        "date": "2022-01-07"
+      },
+      {
+        "title": "[推荐] 非常哇塞的 ES读场景、写场景 性能优化指南！你值得拥有！",
+        "link": "https://toutiao.io/k/5pjb28q",
         "date": "2022-01-07"
       },
       {

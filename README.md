@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-07 08:27:29，:rocket: 更新条数: +1686， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-07 08:45:12，:rocket: 更新条数: +1686， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,12 @@
 </summary>
 
 
+- [2022-01-07-量化上海/北京C++/Quant-Research/Infrastructure/Data/Full-stack](https://www.v2ex.com/t/826862) ![](assets/new.png)  
+- [2022-01-07-领导刚面试完一个人，直接对我说“技术跟我差不多，就会百度，不打算用”](https://www.v2ex.com/t/826861) ![](assets/new.png)  
+- [2022-01-07-有没有人体肌肉与健身的中文书籍推荐？](https://www.v2ex.com/t/826860) ![](assets/new.png)  
+- [2022-01-07-有没有技术好一起去做大科学家](https://www.v2ex.com/t/826859) ![](assets/new.png)  
+- [2022-01-07-Mac-出现了莫名其妙的玩意](https://www.v2ex.com/t/826858) ![](assets/new.png)  
+- [2022-01-07-2022-年了，感觉好科幻哦…](https://www.v2ex.com/t/826857) ![](assets/new.png)  
 - [2022-01-07-上海有什么能带上地铁的交通工具么?](https://www.v2ex.com/t/826856) ![](assets/new.png)  
 - [2022-01-07-求推荐一款-M1-下好用的-XMPP-客户端](https://www.v2ex.com/t/826855) ![](assets/new.png)  
 - [2022-01-07-记录下我这几天微信-jssdk-分享的超级踩坑路程](https://www.v2ex.com/t/826854) ![](assets/new.png)  
@@ -508,12 +514,6 @@
 - [2022-01-07-再请教大佬们个问题：工作中不足与改进怎么写？](https://www.v2ex.com/t/826842) ![](assets/new.png)  
 - [2022-01-07-承信仰充值中心之志，我们将翻译-Firefox-此后的更新日志](https://www.v2ex.com/t/826841) ![](assets/new.png)  
 - [2022-01-07-MBP2018-该不该从-Catalina-升级到-Monterey](https://www.v2ex.com/t/826840) ![](assets/new.png)  
-- [2022-01-07-QQ-更新后滑动也锁帧了](https://www.v2ex.com/t/826839) ![](assets/new.png)  
-- [2022-01-07-有谁知道这是高德-OR-华为的什么操作？](https://www.v2ex.com/t/826838) ![](assets/new.png)  
-- [2022-01-07-机器学习流程问题请教](https://www.v2ex.com/t/826837) ![](assets/new.png)  
-- [2022-01-07-招聘-Java-，杭州，开发低代码平台](https://www.v2ex.com/t/826836) ![](assets/new.png)  
-- [2022-01-07-想成为-Web-全栈，请大家给点建议](https://www.v2ex.com/t/826835) ![](assets/new.png)  
-- [2022-01-07-2022-新年伊始-安卓机大家有什么推荐的吗](https://www.v2ex.com/t/826834) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -562,8 +562,8 @@
 - [2022-01-07-微服务的陷阱](https://toutiao.io/k/sbvs8v4) ![](assets/new.png)  
 - [2022-01-07-2021-年不可错过的-40-篇-AI-论文，你都读过吗？](https://toutiao.io/k/aqwqbfs) ![](assets/new.png)  
 - [2022-01-07-实时数仓系列-网易云音乐基于-Flink-+-Kafka-的实时数仓建设实践](https://toutiao.io/k/uj6y4my) ![](assets/new.png)  
-- [2022-01-07-广告行业中那些趣事系列47：NLP中对比学习SOTA必学模型ESimCSE](https://toutiao.io/k/lyjzx3u) ![](assets/new.png)  
 - [2022-01-07-京东ClickHouse的实践之路](https://toutiao.io/k/j0r6746) ![](assets/new.png)  
+- [2022-01-07-广告行业中那些趣事系列47：NLP中对比学习SOTA必学模型ESimCSE](https://toutiao.io/k/lyjzx3u) ![](assets/new.png)  
 - [2022-01-07-干货-|-携程Service-Mesh可用性实践](https://toutiao.io/k/lfit6th) ![](assets/new.png)  
 - [2022-01-07-KDD-Cup-2020-Debiasing比赛冠军技术方案及在美团的实践](https://toutiao.io/k/d51a8ri) ![](assets/new.png)  
 - [2022-01-07-阿里盒马-如何打造渐进式可扩展、高生产力的前端研发平台](https://toutiao.io/k/ll29zy1) ![](assets/new.png)  
@@ -572,10 +572,10 @@
 - [2022-01-07-书单-|-学习数据可视化？看这些书就够了！](https://toutiao.io/k/edm16lp) ![](assets/new.png)  
 - [2022-01-07-独立开发变现周刊（第36期）：最好的播客搜索引擎，从副业到被投资经历了什么？](https://toutiao.io/k/b08p7xq) ![](assets/new.png)  
 - [2022-01-07-实践剖析.NET-Core如何支持Cookie滑动过期和JWT混合认证、授权](https://toutiao.io/k/nkr3ira) ![](assets/new.png)  
-- [2022-01-07-推荐-2021年美团技术团队最受欢迎的22篇技术文章](https://toutiao.io/k/pjse55y) ![](assets/new.png)  
-- [2022-01-07-推荐-小心陷入-MySQL-索引的坑](https://toutiao.io/k/gucqkq4) ![](assets/new.png)  
 - [2022-01-07-推荐-登录态-&-SSO](https://toutiao.io/k/vjcw3vh) ![](assets/new.png)  
 - [2022-01-07-推荐-插件式可扩展架构设计心得](https://toutiao.io/k/w43usss) ![](assets/new.png)  
+- [2022-01-07-推荐-Java-中的5个代码性能提升技巧，最高提升近10倍](https://toutiao.io/k/eyom45a) ![](assets/new.png)  
+- [2022-01-07-推荐-非常哇塞的-ES读场景、写场景-性能优化指南！你值得拥有！](https://toutiao.io/k/5pjb28q) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

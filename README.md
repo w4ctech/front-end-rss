@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-07 09:58:19，:rocket: 更新条数: +1686， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-07 10:14:22，:rocket: 更新条数: +1687， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,16 @@
 </summary>
 
 
+- [2022-01-07-换了新款-MBP-真香之余，发现已经对-TouchBar-PTSD-了](https://www.v2ex.com/t/826887) ![](assets/new.png)  
+- [2022-01-07-不懂就问,Nginx-使用-80-端口无法代理-Netty-的-websocket](https://www.v2ex.com/t/826886) ![](assets/new.png)  
+- [2022-01-07-苹果-M1-芯片设计总监跳槽-Intel，瞬间感觉我的-M1-不香了](https://www.v2ex.com/t/826885) ![](assets/new.png)  
+- [2022-01-07-预算-2-3k，求推荐一台二手服务器](https://www.v2ex.com/t/826884) ![](assets/new.png)  
+- [2022-01-07-不知道大家对久治未愈的疾病是如何坚持下去的](https://www.v2ex.com/t/826883) ![](assets/new.png)  
+- [2022-01-07-Vue-中元素拖动优化?](https://www.v2ex.com/t/826882) ![](assets/new.png)  
+- [2022-01-07-大厂在重庆本开了-go-岗](https://www.v2ex.com/t/826881) ![](assets/new.png)  
+- [2022-01-07-各位大佬，现在有啥新闻-app-推荐吗](https://www.v2ex.com/t/826880) ![](assets/new.png)  
+- [2022-01-07-要过年了，带什么礼物给家里的长辈？](https://www.v2ex.com/t/826879) ![](assets/new.png)  
+- [2022-01-07-回复-base64-内容前面顺便带上-data:，选中后可自动显示](https://www.v2ex.com/t/826878) ![](assets/new.png)  
 - [2022-01-07-Apple-Music-怎么在我不知情的情况下擅自把我资料库的歌曲（是-AM-曲库的，不是我上传的）删了？](https://www.v2ex.com/t/826877) ![](assets/new.png)  
 - [2022-01-07-面试遇到各种奇葩面试官真的心态爆炸](https://www.v2ex.com/t/826875) ![](assets/new.png)  
 - [2022-01-07-可以给特定软件设置专门的分辨率和缩放吗](https://www.v2ex.com/t/826874) ![](assets/new.png)  
@@ -504,16 +514,6 @@
 - [2022-01-07-上海-米哈游内推-2022-一月更新～](https://www.v2ex.com/t/826868) ![](assets/new.png)  
 - [2022-01-07-小米手环-6-使用体验](https://www.v2ex.com/t/826864) ![](assets/new.png)  
 - [2022-01-07-量化上海/北京C++/Quant-Research/Infrastructure/Data/Full-stack](https://www.v2ex.com/t/826862) ![](assets/new.png)  
-- [2022-01-07-领导刚面试完一个人，直接对我说“技术跟我差不多，就会百度，不打算用”](https://www.v2ex.com/t/826861) ![](assets/new.png)  
-- [2022-01-07-有没有人体肌肉与健身的中文书籍推荐？](https://www.v2ex.com/t/826860) ![](assets/new.png)  
-- [2022-01-07-有没有技术好一起去做大科学家](https://www.v2ex.com/t/826859) ![](assets/new.png)  
-- [2022-01-07-Mac-出现了莫名其妙的玩意](https://www.v2ex.com/t/826858) ![](assets/new.png)  
-- [2022-01-07-2022-年了，感觉好科幻哦…](https://www.v2ex.com/t/826857) ![](assets/new.png)  
-- [2022-01-07-上海有什么能带上地铁的交通工具么?](https://www.v2ex.com/t/826856) ![](assets/new.png)  
-- [2022-01-07-求推荐一款-M1-下好用的-XMPP-客户端](https://www.v2ex.com/t/826855) ![](assets/new.png)  
-- [2022-01-07-记录下我这几天微信-jssdk-分享的超级踩坑路程](https://www.v2ex.com/t/826854) ![](assets/new.png)  
-- [2022-01-07-B-站哪位又在生产环境搞测试了](https://www.v2ex.com/t/826853) ![](assets/new.png)  
-- [2022-01-07-腾讯企业邮箱日常崩溃](https://www.v2ex.com/t/826852) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -572,10 +572,10 @@
 - [2022-01-07-书单-|-学习数据可视化？看这些书就够了！](https://toutiao.io/k/edm16lp) ![](assets/new.png)  
 - [2022-01-07-独立开发变现周刊（第36期）：最好的播客搜索引擎，从副业到被投资经历了什么？](https://toutiao.io/k/b08p7xq) ![](assets/new.png)  
 - [2022-01-07-实践剖析.NET-Core如何支持Cookie滑动过期和JWT混合认证、授权](https://toutiao.io/k/nkr3ira) ![](assets/new.png)  
-- [2022-01-07-推荐-再见-Typora！推荐一个-2.3-万-Star-的开源-Markdown-编辑器](https://toutiao.io/k/ol8ule0) ![](assets/new.png)  
-- [2022-01-07-推荐-WhatsApp系统架构](https://toutiao.io/k/7dt7oe2) ![](assets/new.png)  
 - [2022-01-07-推荐-白话linux操作系统原理](https://toutiao.io/k/zgc47l7) ![](assets/new.png)  
 - [2022-01-07-推荐-Java-中的5个代码性能提升技巧，最高提升近10倍](https://toutiao.io/k/eyom45a) ![](assets/new.png)  
+- [2022-01-07-推荐-小心陷入-MySQL-索引的坑](https://toutiao.io/k/gucqkq4) ![](assets/new.png)  
+- [2022-01-07-推荐-WhatsApp系统架构](https://toutiao.io/k/7dt7oe2) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

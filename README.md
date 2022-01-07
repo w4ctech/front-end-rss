@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-07 07:12:48，:rocket: 更新条数: +1687， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-07 07:21:50，:rocket: 更新条数: +1688， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,9 @@
 </summary>
 
 
+- [2022-01-07-全职远程-开源项目-Golang-后端开发/中美大牛团队/灵活办公](https://www.v2ex.com/t/826833) ![](assets/new.png)  
+- [2022-01-07-请问-1%的房屋产权有什么用?](https://www.v2ex.com/t/826832) ![](assets/new.png)  
+- [2022-01-07-vscode-有-js-语法提示吗，比说数组-let-a=,输入-a.有-map,forEach-的提示](https://www.v2ex.com/t/826831) ![](assets/new.png)  
 - [2022-01-07-脑洞-摩尔庄园算是元宇宙先驱吗？懂的来说说](https://www.v2ex.com/t/826830) ![](assets/new.png)  
 - [2022-01-07-怎样展开-chrome-开发工具的所有...变量](https://www.v2ex.com/t/826829) ![](assets/new.png)  
 - [2022-01-07-Windows-和-BIOS-正在合伙劫持我的-UEFI-启动项](https://www.v2ex.com/t/826827) ![](assets/new.png)  
@@ -511,9 +514,6 @@
 - [2022-01-07-爱奇艺上线“西安和咸阳人民免费看”专区-200-余部佳作随心看](https://www.v2ex.com/t/826809) ![](assets/new.png)  
 - [2022-01-07-你怎么保证自己大部分时间在一个良性的自我循环中？](https://www.v2ex.com/t/826808) ![](assets/new.png)  
 - [2022-01-07-手机上的浏览器，其实远比你想象的更加重要](https://www.v2ex.com/t/826807) ![](assets/new.png)  
-- [2022-01-07-有仿站高手吗？-想用-wordpress-仿一个站并持续更新。](https://www.v2ex.com/t/826806) ![](assets/new.png)  
-- [2022-01-07-杭州外企微策略-不加班，不内卷，持续招-Web-前端，测试，-C++，-DevOps，-18~40K，-13-薪，资金另算](https://www.v2ex.com/t/826805) ![](assets/new.png)  
-- [2022-01-07-请教下大佬，安卓获取用户通讯录，短信权限问题](https://www.v2ex.com/t/826804) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -572,10 +572,10 @@
 - [2022-01-07-独立开发变现周刊（第36期）：最好的播客搜索引擎，从副业到被投资经历了什么？](https://toutiao.io/k/b08p7xq) ![](assets/new.png)  
 - [2022-01-07-记一次Golang踩坑RabbitMQ](https://toutiao.io/k/mb15sbo) ![](assets/new.png)  
 - [2022-01-07-实践剖析.NET-Core如何支持Cookie滑动过期和JWT混合认证、授权](https://toutiao.io/k/nkr3ira) ![](assets/new.png)  
-- [2022-01-07-推荐-再见-Typora！推荐一个-2.3-万-Star-的开源-Markdown-编辑器](https://toutiao.io/k/ol8ule0) ![](assets/new.png)  
 - [2022-01-07-推荐-2021年美团技术团队最受欢迎的22篇技术文章](https://toutiao.io/k/pjse55y) ![](assets/new.png)  
-- [2022-01-07-推荐-WhatsApp系统架构](https://toutiao.io/k/7dt7oe2) ![](assets/new.png)  
-- [2022-01-07-推荐-Java-中的5个代码性能提升技巧，最高提升近10倍](https://toutiao.io/k/eyom45a) ![](assets/new.png)  
+- [2022-01-07-推荐-小心陷入-MySQL-索引的坑](https://toutiao.io/k/gucqkq4) ![](assets/new.png)  
+- [2022-01-07-推荐-再见-Typora！推荐一个-2.3-万-Star-的开源-Markdown-编辑器](https://toutiao.io/k/ol8ule0) ![](assets/new.png)  
+- [2022-01-07-推荐-聊聊spring事务失效的12种场景，太坑了](https://toutiao.io/k/uf6yk96) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

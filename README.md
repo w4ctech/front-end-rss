@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-07 11:54:58，:rocket: 更新条数: +1687， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-07 12:19:58，:rocket: 更新条数: +1687， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,11 @@
 </summary>
 
 
+- [2022-01-07-如果工作上发现能提升生产力，不用重复的工作的工具会发给-leader-吗，或者自己用偷着乐](https://www.v2ex.com/t/826910) ![](assets/new.png)  
+- [2022-01-07-作为一个开发，你能接受测试教你改-bug-吗](https://www.v2ex.com/t/826909) ![](assets/new.png)  
+- [2022-01-07-买正版-IntelliJ-IDEA-全家桶有坑吗](https://www.v2ex.com/t/826908) ![](assets/new.png)  
+- [2022-01-07-script-setup-语法怎么准确-debugger？](https://www.v2ex.com/t/826907) ![](assets/new.png)  
+- [2022-01-07-Keychron-K1-SE-上的语音键，按下之后会有-2-个功能？](https://www.v2ex.com/t/826906) ![](assets/new.png)  
 - [2022-01-07-超全面的-Golang-实践经验分享！](https://www.v2ex.com/t/826904) ![](assets/new.png)  
 - [2022-01-07-写了个阿里云的指标-exporter，需要抓取-prometheus-可以试用](https://www.v2ex.com/t/826903) ![](assets/new.png)  
 - [2022-01-07-再来水一帖：分享改变生活习惯的物品](https://www.v2ex.com/t/826902) ![](assets/new.png)  
@@ -509,11 +514,6 @@
 - [2022-01-07-换了新款-MBP-真香之余，发现已经对-TouchBar-PTSD-了](https://www.v2ex.com/t/826887) ![](assets/new.png)  
 - [2022-01-07-不懂就问,Nginx-使用-80-端口无法代理-Netty-的-websocket](https://www.v2ex.com/t/826886) ![](assets/new.png)  
 - [2022-01-07-苹果-M1-芯片设计总监跳槽-Intel，瞬间感觉我的-M1-不香了](https://www.v2ex.com/t/826885) ![](assets/new.png)  
-- [2022-01-07-预算-2-3k，求推荐一台二手服务器](https://www.v2ex.com/t/826884) ![](assets/new.png)  
-- [2022-01-07-不知道大家对久治未愈的疾病是如何坚持下去的](https://www.v2ex.com/t/826883) ![](assets/new.png)  
-- [2022-01-07-Vue-中元素拖动优化?](https://www.v2ex.com/t/826882) ![](assets/new.png)  
-- [2022-01-07-大厂在重庆本开了-go-岗](https://www.v2ex.com/t/826881) ![](assets/new.png)  
-- [2022-01-07-各位大佬，现在有啥新闻-app-推荐吗](https://www.v2ex.com/t/826880) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -572,9 +572,9 @@
 - [2022-01-07-独立开发变现周刊（第36期）：最好的播客搜索引擎，从副业到被投资经历了什么？](https://toutiao.io/k/b08p7xq) ![](assets/new.png)  
 - [2022-01-07-书单-|-学习数据可视化？看这些书就够了！](https://toutiao.io/k/edm16lp) ![](assets/new.png)  
 - [2022-01-07-实践剖析.NET-Core如何支持Cookie滑动过期和JWT混合认证、授权](https://toutiao.io/k/nkr3ira) ![](assets/new.png)  
-- [2022-01-07-推荐-插件式可扩展架构设计心得](https://toutiao.io/k/w43usss) ![](assets/new.png)  
-- [2022-01-07-推荐-Java-中的5个代码性能提升技巧，最高提升近10倍](https://toutiao.io/k/eyom45a) ![](assets/new.png)  
-- [2022-01-07-推荐-2021年美团技术团队最受欢迎的22篇技术文章](https://toutiao.io/k/pjse55y) ![](assets/new.png)  
+- [2022-01-07-推荐-白话linux操作系统原理](https://toutiao.io/k/zgc47l7) ![](assets/new.png)  
+- [2022-01-07-推荐-WhatsApp系统架构](https://toutiao.io/k/7dt7oe2) ![](assets/new.png)  
+- [2022-01-07-推荐-画架构图的神器](https://toutiao.io/k/4773s9p) ![](assets/new.png)  
 - [2022-01-07-推荐-非常哇塞的-ES读场景、写场景-性能优化指南！你值得拥有！](https://toutiao.io/k/5pjb28q) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

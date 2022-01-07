@@ -1,10 +1,15 @@
-:alarm_clock: 更新时间: 2022-01-07 11:54:58。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-01-07 12:19:58。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-01-07-如果工作上发现能提升生产力，不用重复的工作的工具会发给-leader-吗，或者自己用偷着乐](https://www.v2ex.com/t/826910) 
+- [2022-01-07-作为一个开发，你能接受测试教你改-bug-吗](https://www.v2ex.com/t/826909) 
+- [2022-01-07-买正版-IntelliJ-IDEA-全家桶有坑吗](https://www.v2ex.com/t/826908) 
+- [2022-01-07-script-setup-语法怎么准确-debugger？](https://www.v2ex.com/t/826907) 
+- [2022-01-07-Keychron-K1-SE-上的语音键，按下之后会有-2-个功能？](https://www.v2ex.com/t/826906) 
 - [2022-01-07-超全面的-Golang-实践经验分享！](https://www.v2ex.com/t/826904) 
 - [2022-01-07-写了个阿里云的指标-exporter，需要抓取-prometheus-可以试用](https://www.v2ex.com/t/826903) 
 - [2022-01-07-再来水一帖：分享改变生活习惯的物品](https://www.v2ex.com/t/826902) 
@@ -38,8 +43,3 @@
 - [2022-01-07-小米手环-6-使用体验](https://www.v2ex.com/t/826864) 
 - [2022-01-07-量化上海/北京C++/Quant-Research/Infrastructure/Data/Full-stack](https://www.v2ex.com/t/826862) 
 - [2022-01-07-领导刚面试完一个人，直接对我说“技术跟我差不多，就会百度，不打算用”](https://www.v2ex.com/t/826861) 
-- [2022-01-07-有没有人体肌肉与健身的中文书籍推荐？](https://www.v2ex.com/t/826860) 
-- [2022-01-07-有没有技术好一起去做大科学家](https://www.v2ex.com/t/826859) 
-- [2022-01-07-Mac-出现了莫名其妙的玩意](https://www.v2ex.com/t/826858) 
-- [2022-01-07-2022-年了，感觉好科幻哦…](https://www.v2ex.com/t/826857) 
-- [2022-01-07-上海有什么能带上地铁的交通工具么?](https://www.v2ex.com/t/826856) 

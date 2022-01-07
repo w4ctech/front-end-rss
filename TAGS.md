@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-01-07 10:47:52。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-01-07 11:11:32。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -105,7 +105,6 @@
 
 
 
-- [【V2EX】全职远程-Node-后端工程师/中美大牛团队/灵活办公](https://www.v2ex.com/t/826845)
 - [......【查看更多】......](./details/tags/nodejs.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -235,6 +234,7 @@
 
 - [【武汉肺炎防疫全纪录(财新网)】广州17岁男生在定点医院参加高考-特殊考场视频监考](https://m.caixin.com/m/2021-06-05/101723418.html)
 - [【武汉肺炎防疫全纪录(财新网)】林郑月娥率13高官直播接种科兴疫苗-复星疫苗预计周中到港](https://m.caixin.com/m/2021-02-22/101665724.html)
+- [【V2EX】为了解决跨国视频会议问题,-买了一张香港-鸭聊佳-流量卡](https://www.v2ex.com/t/826896)
 - [【开发者头条】直播系统聊天技术六：百万人在线的直播间实时聊天消息分发技术实践](https://toutiao.io/k/hv1c5nf)
 - [......【查看更多】......](./details/tags/audio-video.md)
 
@@ -298,7 +298,6 @@
 
 
 - [【V2EX】量化上海/北京C++/Quant-Research/Infrastructure/Data/Full-stack](https://www.v2ex.com/t/826862)
-- [【V2EX】迫于-paste-订阅涨价太贵了-求个同类软件](https://www.v2ex.com/t/826846)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

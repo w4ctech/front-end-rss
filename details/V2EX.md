@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2022-01-07 12:35:52。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-01-07 12:59:43。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-01-07-freshrss-插件用不了](https://www.v2ex.com/t/826913) 
 - [2022-01-07-如果工作上发现能提升生产力，不用重复的工作的工具会发给-leader-吗，或者自己用偷着乐](https://www.v2ex.com/t/826910) 
 - [2022-01-07-作为一个开发，你能接受测试教你改-bug-吗](https://www.v2ex.com/t/826909) 
 - [2022-01-07-买正版-IntelliJ-IDEA-全家桶有坑吗](https://www.v2ex.com/t/826908) 
@@ -40,5 +41,3 @@
 - [2022-01-07-关于注册商标，自己去腾讯提交被驳回了，钱白花了](https://www.v2ex.com/t/826870) 
 - [2022-01-07-gitea-gitlab-同类可自建产品推荐](https://www.v2ex.com/t/826869) 
 - [2022-01-07-上海-米哈游内推-2022-一月更新～](https://www.v2ex.com/t/826868) 
-- [2022-01-07-小米手环-6-使用体验](https://www.v2ex.com/t/826864) 
-- [2022-01-07-量化上海/北京C++/Quant-Research/Infrastructure/Data/Full-stack](https://www.v2ex.com/t/826862) 

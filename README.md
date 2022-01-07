@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-07 12:59:43，:rocket: 更新条数: +1686， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-07 13:12:47，:rocket: 更新条数: +1688， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -66,10 +66,11 @@
 
 
 - [2022-01-07-最新疫情：全国新冠累计确诊103295例-累计接种新冠疫苗超28.79亿剂次](https://m.caixin.com/m/2022-01-07/101827341.html) ![](assets/new.png)  
-- [2022-01-07-深圳疫情源头未明-当地入京航班全部取消](https://m.caixin.com/m/2022-01-07/101827393.html) ![](assets/new.png)  
+- [2022-01-07-香港政界大型生日会现两宗确诊-霍启刚等20名议员需入住检疫营](https://m.caixin.com/m/2022-01-07/101827434.html) ![](assets/new.png)  
 - [2022-01-07-西安累计确诊1913人治愈112人-将严查拒诊、推诿患者行为](https://m.caixin.com/m/2022-01-07/101827334.html) ![](assets/new.png)  
 - [2022-01-07-河南新增病例数逼近陕西-已波及三省8市](https://m.caixin.com/m/2022-01-07/101827266.html) ![](assets/new.png)  
 - [2022-01-07-最新海外疫情：新冠感染超2.99亿-累计接种新冠疫苗超93.05亿剂次](https://m.caixin.com/m/2022-01-07/101827345.html) ![](assets/new.png)  
+- [2022-01-07-深圳疫情源头未明-当地入京航班全部取消](https://m.caixin.com/m/2022-01-07/101827393.html) ![](assets/new.png)  
 - [2022-01-07-孙春兰：防疫期间决不能以任何借口将患者一拒了之](https://china.caixin.com/m/2022-01-07/101826810.html) ![](assets/new.png)  
 - [2022-01-07-深圳报告两例本土新冠阳性-全市加强出行管控](https://m.caixin.com/m/2022-01-07/101826875.html) ![](assets/new.png)  
 - [2022-01-07-港府多名官员参加逾百人生日会-政府大楼连夜全面消毒](https://m.caixin.com/m/2022-01-07/101826827.html) ![](assets/new.png)  
@@ -84,7 +85,6 @@
 - [2022-01-05-境外输入新冠病例两周600多人-回国需加做7日核酸和健康监测](https://m.caixin.com/m/2022-01-05/101826288.html) ![](assets/new.png)  
 - [2022-01-05-香港本地疫情升级-邮轮载9名“密接”紧急返航](https://m.caixin.com/m/2022-01-05/101826084.html) ![](assets/new.png)  
 - [2022-01-05-西安“买菜难”症结：配送人员锐减-运输车辆不足](https://m.caixin.com/m/2022-01-05/101826020.html) ![](assets/new.png)  
-- [2022-01-05-【境内疫情观察】全国新增41例本土病例（1月4日）](https://database.caixin.com/m/2022-01-05/101826315.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -494,6 +494,7 @@
 </summary>
 
 
+- [2022-01-07-echo-自定义-Response](https://www.v2ex.com/t/826916) ![](assets/new.png)  
 - [2022-01-07-freshrss-插件用不了](https://www.v2ex.com/t/826913) ![](assets/new.png)  
 - [2022-01-07-如果工作上发现能提升生产力，不用重复的工作的工具会发给-leader-吗，或者自己用偷着乐](https://www.v2ex.com/t/826910) ![](assets/new.png)  
 - [2022-01-07-作为一个开发，你能接受测试教你改-bug-吗](https://www.v2ex.com/t/826909) ![](assets/new.png)  
@@ -513,7 +514,6 @@
 - [2022-01-07-求职-远程-产品经理岗位](https://www.v2ex.com/t/826891) ![](assets/new.png)  
 - [2022-01-07-兄弟们，第一次见女朋友父母该买点什么礼物？](https://www.v2ex.com/t/826890) ![](assets/new.png)  
 - [2022-01-07-换了新款-MBP-真香之余，发现已经对-TouchBar-PTSD-了](https://www.v2ex.com/t/826887) ![](assets/new.png)  
-- [2022-01-07-不懂就问,Nginx-使用-80-端口无法代理-Netty-的-websocket](https://www.v2ex.com/t/826886) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -572,10 +572,10 @@
 - [2022-01-07-独立开发变现周刊（第36期）：最好的播客搜索引擎，从副业到被投资经历了什么？](https://toutiao.io/k/b08p7xq) ![](assets/new.png)  
 - [2022-01-07-书单-|-学习数据可视化？看这些书就够了！](https://toutiao.io/k/edm16lp) ![](assets/new.png)  
 - [2022-01-07-实践剖析.NET-Core如何支持Cookie滑动过期和JWT混合认证、授权](https://toutiao.io/k/nkr3ira) ![](assets/new.png)  
-- [2022-01-07-推荐-Java-中的5个代码性能提升技巧，最高提升近10倍](https://toutiao.io/k/eyom45a) ![](assets/new.png)  
+- [2022-01-07-推荐-登录态-&-SSO](https://toutiao.io/k/vjcw3vh) ![](assets/new.png)  
+- [2022-01-07-推荐-聊聊spring事务失效的12种场景，太坑了](https://toutiao.io/k/uf6yk96) ![](assets/new.png)  
 - [2022-01-07-推荐-再见-Typora！推荐一个-2.3-万-Star-的开源-Markdown-编辑器](https://toutiao.io/k/ol8ule0) ![](assets/new.png)  
-- [2022-01-07-推荐-插件式可扩展架构设计心得](https://toutiao.io/k/w43usss) ![](assets/new.png)  
-- [2022-01-07-推荐-WhatsApp系统架构](https://toutiao.io/k/7dt7oe2) ![](assets/new.png)  
+- [2022-01-07-推荐-小心陷入-MySQL-索引的坑](https://toutiao.io/k/gucqkq4) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

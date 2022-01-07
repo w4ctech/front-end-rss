@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-07 15:13:49，:rocket: 更新条数: +1691， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-07 15:23:52，:rocket: 更新条数: +1691， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,8 @@
 </summary>
 
 
+- [2022-01-07-三星-Note20-哪里买靠谱？](https://www.v2ex.com/t/826932) ![](assets/new.png)  
+- [2022-01-07-iOS-的文件-APP-如何显示隐藏文件?](https://www.v2ex.com/t/826931) ![](assets/new.png)  
 - [2022-01-07-Android-有没有-API-可以添加交通卡到系统的钱包应用？](https://www.v2ex.com/t/826930) ![](assets/new.png)  
 - [2022-01-07-为什么在中国访问-Google，-Google-栏里没有-Gmail？](https://www.v2ex.com/t/826929) ![](assets/new.png)  
 - [2022-01-07-上海徐家汇-Python-后端/-前端-招聘](https://www.v2ex.com/t/826928) ![](assets/new.png)  
@@ -512,8 +514,6 @@
 - [2022-01-07-如果工作上发现能提升生产力，不用重复的工作的工具会发给-leader-吗，或者自己用偷着乐](https://www.v2ex.com/t/826910) ![](assets/new.png)  
 - [2022-01-07-作为一个开发，你能接受测试教你改-bug-吗](https://www.v2ex.com/t/826909) ![](assets/new.png)  
 - [2022-01-07-买正版-IntelliJ-IDEA-全家桶有坑吗](https://www.v2ex.com/t/826908) ![](assets/new.png)  
-- [2022-01-07-script-setup-语法怎么准确-debugger？](https://www.v2ex.com/t/826907) ![](assets/new.png)  
-- [2022-01-07-Keychron-K1-SE-上的语音键，按下之后会有-2-个功能？](https://www.v2ex.com/t/826906) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -572,10 +572,10 @@
 - [2022-01-07-独立开发变现周刊（第36期）：最好的播客搜索引擎，从副业到被投资经历了什么？](https://toutiao.io/k/b08p7xq) ![](assets/new.png)  
 - [2022-01-07-书单-|-学习数据可视化？看这些书就够了！](https://toutiao.io/k/edm16lp) ![](assets/new.png)  
 - [2022-01-07-实践剖析.NET-Core如何支持Cookie滑动过期和JWT混合认证、授权](https://toutiao.io/k/nkr3ira) ![](assets/new.png)  
-- [2022-01-07-推荐-WhatsApp系统架构](https://toutiao.io/k/7dt7oe2) ![](assets/new.png)  
 - [2022-01-07-推荐-2021年美团技术团队最受欢迎的22篇技术文章](https://toutiao.io/k/pjse55y) ![](assets/new.png)  
-- [2022-01-07-推荐-再见-Typora！推荐一个-2.3-万-Star-的开源-Markdown-编辑器](https://toutiao.io/k/ol8ule0) ![](assets/new.png)  
-- [2022-01-07-推荐-非常哇塞的-ES读场景、写场景-性能优化指南！你值得拥有！](https://toutiao.io/k/5pjb28q) ![](assets/new.png)  
+- [2022-01-07-推荐-WhatsApp系统架构](https://toutiao.io/k/7dt7oe2) ![](assets/new.png)  
+- [2022-01-07-推荐-小心陷入-MySQL-索引的坑](https://toutiao.io/k/gucqkq4) ![](assets/new.png)  
+- [2022-01-07-推荐-白话linux操作系统原理](https://toutiao.io/k/zgc47l7) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

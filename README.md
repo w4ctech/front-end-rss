@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-07 06:27:57，:rocket: 更新条数: +1690， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-07 06:49:21，:rocket: 更新条数: +1688， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,8 @@
 </summary>
 
 
+- [2022-01-07-Chrome-系的浏览器在-Win11-下相当卡](https://www.v2ex.com/t/826822) ![](assets/new.png)  
+- [2022-01-07-一个播客搜索引擎，从副业到被投资经历了什么？](https://www.v2ex.com/t/826821) ![](assets/new.png)  
 - [2022-01-07-迫于转租没人搭理，现在短租房子一个月。1500-一个月，就在-6-号线东靖路，-12-号线一站地铁就能转。](https://www.v2ex.com/t/826817) ![](assets/new.png)  
 - [2022-01-07-2015-15-寸-MBP-有遇到-WiFi-不兼容情况吗](https://www.v2ex.com/t/826815) ![](assets/new.png)  
 - [2022-01-07-老哥们，未来技术研究方向汇总，一起来聊聊？](https://www.v2ex.com/t/826814) ![](assets/new.png)  
@@ -512,8 +514,6 @@
 - [2022-01-07-极度推荐一本伪商业书籍](https://www.v2ex.com/t/826800) ![](assets/new.png)  
 - [2022-01-07-电脑任务栏钉钉图标闪烁，点进去后并没人给我发消息，这是为啥](https://www.v2ex.com/t/826799) ![](assets/new.png)  
 - [2022-01-07-春节公司提前两天放假，强制用员工年假或事假抵。这种做法合理吗？合法吗？](https://www.v2ex.com/t/826798) ![](assets/new.png)  
-- [2022-01-07-有娃的-XDM-有没有发现，我们无形中多了一个无法摆脱和拒绝的公司和领导](https://www.v2ex.com/t/826796) ![](assets/new.png)  
-- [2022-01-07-Inkval---基于-Pandoc-与-Bash-的静态网站生成器](https://www.v2ex.com/t/826795) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -572,10 +572,10 @@
 - [2022-01-07-书单-|-学习数据可视化？看这些书就够了！](https://toutiao.io/k/edm16lp) ![](assets/new.png)  
 - [2022-01-07-记一次Golang踩坑RabbitMQ](https://toutiao.io/k/mb15sbo) ![](assets/new.png)  
 - [2022-01-07-实践剖析.NET-Core如何支持Cookie滑动过期和JWT混合认证、授权](https://toutiao.io/k/nkr3ira) ![](assets/new.png)  
-- [2022-01-07-推荐-小心陷入-MySQL-索引的坑](https://toutiao.io/k/gucqkq4) ![](assets/new.png)  
-- [2022-01-07-推荐-插件式可扩展架构设计心得](https://toutiao.io/k/w43usss) ![](assets/new.png)  
+- [2022-01-07-推荐-Java-中的5个代码性能提升技巧，最高提升近10倍](https://toutiao.io/k/eyom45a) ![](assets/new.png)  
+- [2022-01-07-推荐-登录态-&-SSO](https://toutiao.io/k/vjcw3vh) ![](assets/new.png)  
 - [2022-01-07-推荐-WhatsApp系统架构](https://toutiao.io/k/7dt7oe2) ![](assets/new.png)  
-- [2022-01-07-推荐-再见-Typora！推荐一个-2.3-万-Star-的开源-Markdown-编辑器](https://toutiao.io/k/ol8ule0) ![](assets/new.png)  
+- [2022-01-07-推荐-非常哇塞的-ES读场景、写场景-性能优化指南！你值得拥有！](https://toutiao.io/k/5pjb28q) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

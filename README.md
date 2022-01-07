@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-07 13:44:15，:rocket: 更新条数: +1690， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-07 13:54:29，:rocket: 更新条数: +1690， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,7 @@
 </summary>
 
 
+- [2022-01-07-所以现在有在-Windows-下安全使用-QQ-微信的方法吗](https://www.v2ex.com/t/826921) ![](assets/new.png)  
 - [2022-01-07-我在前端要写一个缓存功能，缓存存取失败要静默失败好呢还是抛异常好？](https://www.v2ex.com/t/826919) ![](assets/new.png)  
 - [2022-01-07-还是决定出国读博](https://www.v2ex.com/t/826918) ![](assets/new.png)  
 - [2022-01-07-iPad-mini6-值不值得买？](https://www.v2ex.com/t/826917) ![](assets/new.png)  
@@ -513,7 +514,6 @@
 - [2022-01-07-不可思议，中国电信官网，云盘等都挂了，打不开了](https://www.v2ex.com/t/826897) ![](assets/new.png)  
 - [2022-01-07-为了解决跨国视频会议问题,-买了一张香港-鸭聊佳-流量卡](https://www.v2ex.com/t/826896) ![](assets/new.png)  
 - [2022-01-07-我的-2021-|-作为前端我是如何在业务中披荆斩棘的](https://www.v2ex.com/t/826894) ![](assets/new.png)  
-- [2022-01-07-小白请教各位一个问题](https://www.v2ex.com/t/826892) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -572,10 +572,10 @@
 - [2022-01-07-独立开发变现周刊（第36期）：最好的播客搜索引擎，从副业到被投资经历了什么？](https://toutiao.io/k/b08p7xq) ![](assets/new.png)  
 - [2022-01-07-书单-|-学习数据可视化？看这些书就够了！](https://toutiao.io/k/edm16lp) ![](assets/new.png)  
 - [2022-01-07-实践剖析.NET-Core如何支持Cookie滑动过期和JWT混合认证、授权](https://toutiao.io/k/nkr3ira) ![](assets/new.png)  
-- [2022-01-07-推荐-小心陷入-MySQL-索引的坑](https://toutiao.io/k/gucqkq4) ![](assets/new.png)  
 - [2022-01-07-推荐-白话linux操作系统原理](https://toutiao.io/k/zgc47l7) ![](assets/new.png)  
-- [2022-01-07-推荐-Java-中的5个代码性能提升技巧，最高提升近10倍](https://toutiao.io/k/eyom45a) ![](assets/new.png)  
+- [2022-01-07-推荐-小心陷入-MySQL-索引的坑](https://toutiao.io/k/gucqkq4) ![](assets/new.png)  
 - [2022-01-07-推荐-登录态-&-SSO](https://toutiao.io/k/vjcw3vh) ![](assets/new.png)  
+- [2022-01-07-推荐-2021年美团技术团队最受欢迎的22篇技术文章](https://toutiao.io/k/pjse55y) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

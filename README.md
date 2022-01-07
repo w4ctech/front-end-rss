@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-07 04:29:37，:rocket: 更新条数: +1687， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-07 04:52:28，:rocket: 更新条数: +1686， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,11 @@
 </summary>
 
 
+- [2022-01-07-聊聊-esxi-和-pve-家用场景哪个更有优势](https://www.v2ex.com/t/826802) ![](assets/new.png)  
+- [2022-01-07-感觉这个世界已经进入一个无聊的大停滞时代了。](https://www.v2ex.com/t/826801) ![](assets/new.png)  
+- [2022-01-07-极度推荐一本伪商业书籍](https://www.v2ex.com/t/826800) ![](assets/new.png)  
+- [2022-01-07-电脑任务栏钉钉图标闪烁，点进去后并没人给我发消息，这是为啥](https://www.v2ex.com/t/826799) ![](assets/new.png)  
+- [2022-01-07-春节公司提前两天放假，强制用员工年假或事假抵。这种做法合理吗？合法吗？](https://www.v2ex.com/t/826798) ![](assets/new.png)  
 - [2022-01-07-有娃的-XDM-有没有发现，我们无形中多了一个无法摆脱和拒绝的公司和领导](https://www.v2ex.com/t/826796) ![](assets/new.png)  
 - [2022-01-07-Inkval---基于-Pandoc-与-Bash-的静态网站生成器](https://www.v2ex.com/t/826795) ![](assets/new.png)  
 - [2022-01-07-统信-UOS-上架腾讯官方开发的微信](https://www.v2ex.com/t/826794) ![](assets/new.png)  
@@ -509,11 +514,6 @@
 - [2022-01-07-现在有没有比较好的下载国内应用的市场？](https://www.v2ex.com/t/826784) ![](assets/new.png)  
 - [2022-01-07-请教大家-如何设置所有软件使用-macOS-快捷键-fn-+上下箭头翻页？谢谢](https://www.v2ex.com/t/826782) ![](assets/new.png)  
 - [2022-01-07-nvim-安装-vapour-或-nvchad-的插件时，全部-failed](https://www.v2ex.com/t/826781) ![](assets/new.png)  
-- [2022-01-07-大家可以推荐一个全平台的手写笔记软件吗/](https://www.v2ex.com/t/826780) ![](assets/new.png)  
-- [2022-01-07-2022-用-node-写个命令行工具的最佳实践？](https://www.v2ex.com/t/826779) ![](assets/new.png)  
-- [2022-01-07-快捷指令不能自动运行么，必须通知形式存在？](https://www.v2ex.com/t/826778) ![](assets/new.png)  
-- [2022-01-07-现在前端是使用-vue2-还是-vue3](https://www.v2ex.com/t/826776) ![](assets/new.png)  
-- [2022-01-07-使用-VUE-组件创建-SpreadJS-自定义单元格一](https://www.v2ex.com/t/826775) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -567,15 +567,15 @@
 - [2022-01-07-京东ClickHouse的实践之路](https://toutiao.io/k/j0r6746) ![](assets/new.png)  
 - [2022-01-07-干货-|-携程Service-Mesh可用性实践](https://toutiao.io/k/lfit6th) ![](assets/new.png)  
 - [2022-01-07-阿里盒马-如何打造渐进式可扩展、高生产力的前端研发平台](https://toutiao.io/k/ll29zy1) ![](assets/new.png)  
-- [2022-01-07-推荐-插件式可扩展架构设计心得](https://toutiao.io/k/w43usss) ![](assets/new.png)  
 - [2022-01-07-推荐-画架构图的神器](https://toutiao.io/k/4773s9p) ![](assets/new.png)  
-- [2022-01-07-推荐-聊聊spring事务失效的12种场景，太坑了](https://toutiao.io/k/uf6yk96) ![](assets/new.png)  
-- [2022-01-07-推荐-登录态-&-SSO](https://toutiao.io/k/vjcw3vh) ![](assets/new.png)  
-- [2022-01-07-推荐-WhatsApp系统架构](https://toutiao.io/k/7dt7oe2) ![](assets/new.png)  
 - [2022-01-07-推荐-小心陷入-MySQL-索引的坑](https://toutiao.io/k/gucqkq4) ![](assets/new.png)  
-- [2022-01-07-推荐-2021年美团技术团队最受欢迎的22篇技术文章](https://toutiao.io/k/pjse55y) ![](assets/new.png)  
-- [2022-01-07-推荐-白话linux操作系统原理](https://toutiao.io/k/zgc47l7) ![](assets/new.png)  
+- [2022-01-07-推荐-再见-Typora！推荐一个-2.3-万-Star-的开源-Markdown-编辑器](https://toutiao.io/k/ol8ule0) ![](assets/new.png)  
+- [2022-01-07-推荐-Java-中的5个代码性能提升技巧，最高提升近10倍](https://toutiao.io/k/eyom45a) ![](assets/new.png)  
+- [2022-01-07-推荐-聊聊spring事务失效的12种场景，太坑了](https://toutiao.io/k/uf6yk96) ![](assets/new.png)  
 - [2022-01-07-推荐-非常哇塞的-ES读场景、写场景-性能优化指南！你值得拥有！](https://toutiao.io/k/5pjb28q) ![](assets/new.png)  
+- [2022-01-07-推荐-插件式可扩展架构设计心得](https://toutiao.io/k/w43usss) ![](assets/new.png)  
+- [2022-01-07-推荐-白话linux操作系统原理](https://toutiao.io/k/zgc47l7) ![](assets/new.png)  
+- [2022-01-07-推荐-WhatsApp系统架构](https://toutiao.io/k/7dt7oe2) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

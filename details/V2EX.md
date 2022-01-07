@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2022-01-07 10:14:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-01-07 10:28:07。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-01-07-兄弟们，第一次见女朋友父母该买点什么礼物？](https://www.v2ex.com/t/826890) 
 - [2022-01-07-换了新款-MBP-真香之余，发现已经对-TouchBar-PTSD-了](https://www.v2ex.com/t/826887) 
 - [2022-01-07-不懂就问,Nginx-使用-80-端口无法代理-Netty-的-websocket](https://www.v2ex.com/t/826886) 
 - [2022-01-07-苹果-M1-芯片设计总监跳槽-Intel，瞬间感觉我的-M1-不香了](https://www.v2ex.com/t/826885) 
@@ -43,6 +44,3 @@
 - [2022-01-07-有没有卷不动的想来珠海生活的](https://www.v2ex.com/t/826843) 
 - [2022-01-07-再请教大佬们个问题：工作中不足与改进怎么写？](https://www.v2ex.com/t/826842) 
 - [2022-01-07-承信仰充值中心之志，我们将翻译-Firefox-此后的更新日志](https://www.v2ex.com/t/826841) 
-- [2022-01-07-MBP2018-该不该从-Catalina-升级到-Monterey](https://www.v2ex.com/t/826840) 
-- [2022-01-07-QQ-更新后滑动也锁帧了](https://www.v2ex.com/t/826839) 
-- [2022-01-07-有谁知道这是高德-OR-华为的什么操作？](https://www.v2ex.com/t/826838) 

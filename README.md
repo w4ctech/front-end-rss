@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-08 00:41:15，:rocket: 更新条数: +1682， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-08 01:12:08，:rocket: 更新条数: +1682， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,7 @@
 </summary>
 
 
+- [2022-01-08-屌丝在澳洲--聊聊薪水与生活上的体验](https://www.v2ex.com/t/826954) ![](assets/new.png)  
 - [2022-01-08-如何方便地保存微信公众号文章？](https://www.v2ex.com/t/826953) ![](assets/new.png)  
 - [2022-01-08-为知笔记新版很不错啊,-不过加密选项是不是有-bug-?](https://www.v2ex.com/t/826952) ![](assets/new.png)  
 - [2022-01-08-300-求一个-nginx-规则，请跟帖发联系方式。](https://www.v2ex.com/t/826951) ![](assets/new.png)  
@@ -513,7 +514,6 @@
 - [2022-01-07-请问一下这个数字-₂-需要怎样才能打出来？](https://www.v2ex.com/t/826934) ![](assets/new.png)  
 - [2022-01-07-求推荐-steam/switch/ps4-游戏打折信息的站点](https://www.v2ex.com/t/826933) ![](assets/new.png)  
 - [2022-01-07-三星-Note20-哪里买靠谱？](https://www.v2ex.com/t/826932) ![](assets/new.png)  
-- [2022-01-07-iOS-的文件-APP-如何显示隐藏文件?](https://www.v2ex.com/t/826931) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -559,19 +559,19 @@
 - [2022-01-08-网络编程怎么做才算是优雅？](https://toutiao.io/k/zylzzpi) ![](assets/new.png)  
 - [2022-01-08-SpringBoot-热部署神器快速重启的秘密！](https://toutiao.io/k/8b5fv5e) ![](assets/new.png)  
 - [2022-01-08-卷王之王。](https://toutiao.io/k/hj0898g) ![](assets/new.png)  
-- [2022-01-08-深入浅出Spark：存储系统](https://toutiao.io/k/s1aizd7) ![](assets/new.png)  
 - [2022-01-08-service-worker轻度探索---解决运营活动需求中的图片加载问题?](https://toutiao.io/k/v1u5lan) ![](assets/new.png)  
-- [2022-01-08-推荐-WhatsApp系统架构](https://toutiao.io/k/7dt7oe2) ![](assets/new.png)  
-- [2022-01-08-推荐-插件式可扩展架构设计心得](https://toutiao.io/k/w43usss) ![](assets/new.png)  
-- [2022-01-08-推荐-白话linux操作系统原理](https://toutiao.io/k/zgc47l7) ![](assets/new.png)  
-- [2022-01-08-推荐-2022新年伊始，送你百篇干货文章](https://toutiao.io/k/kchudkd) ![](assets/new.png)  
+- [2022-01-08-深入浅出Spark：存储系统](https://toutiao.io/k/s1aizd7) ![](assets/new.png)  
 - [2022-01-08-推荐-画架构图的神器](https://toutiao.io/k/4773s9p) ![](assets/new.png)  
-- [2022-01-08-推荐-登录态-&-SSO](https://toutiao.io/k/vjcw3vh) ![](assets/new.png)  
-- [2022-01-08-推荐-聊聊spring事务失效的12种场景，太坑了](https://toutiao.io/k/uf6yk96) ![](assets/new.png)  
-- [2022-01-08-推荐-非常哇塞的-ES读场景、写场景-性能优化指南！你值得拥有！](https://toutiao.io/k/5pjb28q) ![](assets/new.png)  
+- [2022-01-08-推荐-白话linux操作系统原理](https://toutiao.io/k/zgc47l7) ![](assets/new.png)  
 - [2022-01-08-推荐-2021年美团技术团队最受欢迎的22篇技术文章](https://toutiao.io/k/pjse55y) ![](assets/new.png)  
-- [2022-01-08-推荐-再见-Typora！推荐一个-2.3-万-Star-的开源-Markdown-编辑器](https://toutiao.io/k/ol8ule0) ![](assets/new.png)  
 - [2022-01-08-推荐-面渣逆袭：JVM经典五十问，这下面试稳了！](https://toutiao.io/k/wideaab) ![](assets/new.png)  
+- [2022-01-08-推荐-非常哇塞的-ES读场景、写场景-性能优化指南！你值得拥有！](https://toutiao.io/k/5pjb28q) ![](assets/new.png)  
+- [2022-01-08-推荐-WhatsApp系统架构](https://toutiao.io/k/7dt7oe2) ![](assets/new.png)  
+- [2022-01-08-推荐-再见-Typora！推荐一个-2.3-万-Star-的开源-Markdown-编辑器](https://toutiao.io/k/ol8ule0) ![](assets/new.png)  
+- [2022-01-08-推荐-聊聊spring事务失效的12种场景，太坑了](https://toutiao.io/k/uf6yk96) ![](assets/new.png)  
+- [2022-01-08-推荐-2022新年伊始，送你百篇干货文章](https://toutiao.io/k/kchudkd) ![](assets/new.png)  
+- [2022-01-08-推荐-插件式可扩展架构设计心得](https://toutiao.io/k/w43usss) ![](assets/new.png)  
+- [2022-01-08-推荐-登录态-&-SSO](https://toutiao.io/k/vjcw3vh) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

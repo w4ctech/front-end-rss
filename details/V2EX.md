@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2022-01-08 00:41:15。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-01-08 01:12:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-01-08-屌丝在澳洲--聊聊薪水与生活上的体验](https://www.v2ex.com/t/826954) 
 - [2022-01-08-如何方便地保存微信公众号文章？](https://www.v2ex.com/t/826953) 
 - [2022-01-08-为知笔记新版很不错啊,-不过加密选项是不是有-bug-?](https://www.v2ex.com/t/826952) 
 - [2022-01-08-300-求一个-nginx-规则，请跟帖发联系方式。](https://www.v2ex.com/t/826951) 
@@ -45,4 +46,3 @@
 - [2022-01-07-买正版-IntelliJ-IDEA-全家桶有坑吗](https://www.v2ex.com/t/826908) 
 - [2022-01-07-script-setup-语法怎么准确-debugger？](https://www.v2ex.com/t/826907) 
 - [2022-01-07-Keychron-K1-SE-上的语音键，按下之后会有-2-个功能？](https://www.v2ex.com/t/826906) 
-- [2022-01-07-超全面的-Golang-实践经验分享！](https://www.v2ex.com/t/826904) 

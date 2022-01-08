@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2022-01-08 12:18:39。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-01-08 12:34:57。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-01-08-又买了个-70-块钱的-USB-HDMI-采集卡](https://www.v2ex.com/t/827036) 
 - [2022-01-08-出一期-NAT-的科普视频，演示了-Zerotier-内网穿透的操作](https://www.v2ex.com/t/827035) 
 - [2022-01-08-CSGO-5E-对战平台用-cmd-运行会生成日志文件](https://www.v2ex.com/t/827034) 
 - [2022-01-08-有没有觉得阿里云的费用管理后台里功能结构混乱、很难理解？](https://www.v2ex.com/t/827033) 
@@ -44,4 +45,3 @@
 - [2022-01-08-如何关闭标签页缩略图？](https://www.v2ex.com/t/826989) 
 - [2022-01-08-用来编译安卓源码的-CPU-有推荐吗？](https://www.v2ex.com/t/826988) 
 - [2022-01-08-M1-启动-jetbrains-产品提示安装-Rosetta](https://www.v2ex.com/t/826987) 
-- [2022-01-08-有做社区的小伙伴吗？](https://www.v2ex.com/t/826986) 

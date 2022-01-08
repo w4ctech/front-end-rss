@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2022-01-08 04:16:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-01-08 04:32:58。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-01-08-去美国的面签，如何才能面签失败？](https://www.v2ex.com/t/826977) 
+- [2022-01-08-今早更新完-Chrome-发现调试移动设备这里更新了](https://www.v2ex.com/t/826976) 
 - [2022-01-08-分享一个基于文本的短网址，性能应该不错。](https://www.v2ex.com/t/826975) 
 - [2022-01-08-北京-美资外企-Senior-iOS/Android-Engineer](https://www.v2ex.com/t/826974) 
 - [2022-01-08-notion-写开发者文档的时候的一些巨麻烦的操作习惯，求解决方案](https://www.v2ex.com/t/826973) 
@@ -44,5 +46,3 @@
 - [2022-01-07-Android-有没有-API-可以添加交通卡到系统的钱包应用？](https://www.v2ex.com/t/826930) 
 - [2022-01-07-为什么在中国访问-Google，-Google-栏里没有-Gmail？](https://www.v2ex.com/t/826929) 
 - [2022-01-07-上海徐家汇-Python-后端/-前端-招聘](https://www.v2ex.com/t/826928) 
-- [2022-01-07-北京又开始查隔断住房了？](https://www.v2ex.com/t/826927) 
-- [2022-01-07-自从用了-Adguard-后-Mac-mini-风扇狂转](https://www.v2ex.com/t/826926) 

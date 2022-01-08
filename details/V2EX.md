@@ -1,10 +1,13 @@
-:alarm_clock: 更新时间: 2022-01-08 02:15:38。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-01-08 02:45:58。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-01-08-gopro-4-有没有办法-边充电边使用外接麦克风？](https://www.v2ex.com/t/826959) 
+- [2022-01-08-三十多年纪适合从头开始学习前端进入前端工作吗？](https://www.v2ex.com/t/826958) 
+- [2022-01-08-有开始使用-Android-Jetpack—Compose-的大佬吗？咨询一个问题](https://www.v2ex.com/t/826957) 
 - [2022-01-08-Ruby-on-Rails-7-Hotwire-从入门到掌握视频教程（8-个视频）](https://www.v2ex.com/t/826955) 
 - [2022-01-08-屌丝在澳洲--聊聊薪水与生活上的体验](https://www.v2ex.com/t/826954) 
 - [2022-01-08-如何方便地保存微信公众号文章？](https://www.v2ex.com/t/826953) 
@@ -43,6 +46,3 @@
 - [2022-01-07-echo-自定义-Response](https://www.v2ex.com/t/826916) 
 - [2022-01-07-freshrss-插件用不了](https://www.v2ex.com/t/826913) 
 - [2022-01-07-如果工作上发现能提升生产力，不用重复的工作的工具会发给-leader-吗，或者自己用偷着乐](https://www.v2ex.com/t/826910) 
-- [2022-01-07-作为一个开发，你能接受测试教你改-bug-吗](https://www.v2ex.com/t/826909) 
-- [2022-01-07-买正版-IntelliJ-IDEA-全家桶有坑吗](https://www.v2ex.com/t/826908) 
-- [2022-01-07-script-setup-语法怎么准确-debugger？](https://www.v2ex.com/t/826907) 

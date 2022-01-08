@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-01-08 04:32:58。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-01-08 04:52:12。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -347,7 +347,6 @@
 
 
 - [【V2EX】SeaCows-NFT-团队招聘数据抓取高级-后端工程师：](https://www.v2ex.com/t/826943)
-- [【V2EX】上海徐家汇-Python-后端/-前端-招聘](https://www.v2ex.com/t/826928)
 - [【开发者头条】推荐-面渣逆袭：JVM经典五十问，这下面试稳了！](https://toutiao.io/k/wideaab)
 - [......【查看更多】......](./details/tags/job-interview.md)
 

@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2022-01-08 04:32:58。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-01-08 04:52:12。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-01-08-求股票交易买卖记录源码推荐](https://www.v2ex.com/t/826978) 
 - [2022-01-08-去美国的面签，如何才能面签失败？](https://www.v2ex.com/t/826977) 
 - [2022-01-08-今早更新完-Chrome-发现调试移动设备这里更新了](https://www.v2ex.com/t/826976) 
 - [2022-01-08-分享一个基于文本的短网址，性能应该不错。](https://www.v2ex.com/t/826975) 
@@ -45,4 +46,3 @@
 - [2022-01-07-iOS-的文件-APP-如何显示隐藏文件?](https://www.v2ex.com/t/826931) 
 - [2022-01-07-Android-有没有-API-可以添加交通卡到系统的钱包应用？](https://www.v2ex.com/t/826930) 
 - [2022-01-07-为什么在中国访问-Google，-Google-栏里没有-Gmail？](https://www.v2ex.com/t/826929) 
-- [2022-01-07-上海徐家汇-Python-后端/-前端-招聘](https://www.v2ex.com/t/826928) 

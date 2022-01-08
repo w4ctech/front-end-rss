@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-01-08 08:15:52。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-01-08 08:27:19。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -234,7 +234,6 @@
 
 - [【武汉肺炎防疫全纪录(财新网)】广州17岁男生在定点医院参加高考-特殊考场视频监考](https://m.caixin.com/m/2021-06-05/101723418.html)
 - [【武汉肺炎防疫全纪录(财新网)】林郑月娥率13高官直播接种科兴疫苗-复星疫苗预计周中到港](https://m.caixin.com/m/2021-02-22/101665724.html)
-- [【V2EX】Ruby-on-Rails-7-Hotwire-从入门到掌握视频教程（8-个视频）](https://www.v2ex.com/t/826955)
 - [【开发者头条】使用-Mesh-TensorFlow-进行超高分辨率图像分析](https://toutiao.io/k/9pf0pb4)
 - [......【查看更多】......](./details/tags/audio-video.md)
 

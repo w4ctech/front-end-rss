@@ -1,16 +1,17 @@
-:alarm_clock: 更新时间: 2022-01-08 11:39:48。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-01-08 11:54:27。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
 
 
 
-- [2022-01-08-1月7日全国新增新冠159例-四省份本土95例](https://m.caixin.com/m/2022-01-08/101827550.html) 
+- [2022-01-08-最新疫情：全国新冠累计确诊103454例-累计接种新冠疫苗超28.87亿剂次](https://m.caixin.com/m/2022-01-08/101827705.html) 
+- [2022-01-08-张文宏：奥密克戎不是大号流感，要加强疫苗屏障](https://opinion.caixin.com/m/2022-01-08/101827720.html) 
+- [2022-01-08-最新海外疫情：新冠感染超3.02亿-累计接种新冠疫苗超93.4亿剂次](https://m.caixin.com/m/2022-01-08/101827709.html) 
 - [2022-01-08-深圳病例感染德尔塔毒株-莞惠临深地区全员核酸检测](https://m.caixin.com/m/2022-01-08/101827491.html) 
 - [2022-01-08-【境内疫情观察】全国新增95例本土病例（1月7日）](https://database.caixin.com/m/2022-01-08/101827675.html) 
 - [2022-01-08-美国住院人数或刷新记录-英军方协助医院｜大流行手记（1月7日）](https://m.caixin.com/m/2022-01-08/101827528.html) 
 - [2022-01-07-香港政界大型生日会现两宗确诊-霍启刚等20名议员需入住检疫营](https://m.caixin.com/m/2022-01-07/101827434.html) 
-- [2022-01-07-最新海外疫情：新冠感染超2.99亿-累计接种新冠疫苗超93.05亿剂次](https://m.caixin.com/m/2022-01-07/101827345.html) 
 - [2022-01-07-西安累计确诊1913人治愈112人-将严查拒诊、推诿患者行为](https://m.caixin.com/m/2022-01-07/101827334.html) 
 - [2022-01-07-河南新增病例数逼近陕西-已波及三省8市](https://m.caixin.com/m/2022-01-07/101827266.html) 
 - [2022-01-07-深圳疫情源头未明-当地入京航班全部取消](https://m.caixin.com/m/2022-01-07/101827393.html) 
@@ -1576,6 +1577,7 @@
 - [2022-01-07-科技爱好者周刊（第-191-期）：一个程序员的财务独立之路](http://www.ruanyifeng.com/blog/2022/01/weekly-issue-191.html) 
 - [2021-12-31-科技爱好者周刊（第-190-期）：产品化思维](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-190.html) 
 - [2021-12-24-科技爱好者周刊（第-189-期）：下一个内卷的行业](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-189.html) 
+- [2022-01-08-CSGO-5E-对战平台用-cmd-运行会生成日志文件](https://www.v2ex.com/t/827034) 
 - [2022-01-08-有没有觉得阿里云的费用管理后台里功能结构混乱、很难理解？](https://www.v2ex.com/t/827033) 
 - [2022-01-08-迟到的-2021-总结](https://www.v2ex.com/t/827032) 
 - [2022-01-08-用-Go-写了一个废话胶囊，可以拿来发布自己的闲言碎语](https://www.v2ex.com/t/827031) 
@@ -1635,12 +1637,12 @@
 - [2022-01-08-迎新：Apache-IoTDB喜迎1位PMC和4位Committer](https://toutiao.io/k/vl3bsvv) 
 - [2022-01-08-神经网络为大脑如何运作提供新见解](https://toutiao.io/k/0nmxn8q) 
 - [2022-01-08-Apache-Flink不止于计算，数仓架构或兴起新一轮变革](https://toutiao.io/k/j9fb1go) 
-- [2022-01-08-推荐-登录态-&-SSO](https://toutiao.io/k/vjcw3vh) 
-- [2022-01-08-推荐-2022新年伊始，送你百篇干货文章](https://toutiao.io/k/kchudkd) 
-- [2022-01-08-推荐-WhatsApp系统架构](https://toutiao.io/k/7dt7oe2) 
-- [2022-01-08-推荐-聊聊spring事务失效的12种场景，太坑了](https://toutiao.io/k/uf6yk96) 
-- [2022-01-08-推荐-2021年美团技术团队最受欢迎的22篇技术文章](https://toutiao.io/k/pjse55y) 
-- [2022-01-08-推荐-再见-Typora！推荐一个-2.3-万-Star-的开源-Markdown-编辑器](https://toutiao.io/k/ol8ule0) 
 - [2022-01-08-推荐-白话linux操作系统原理](https://toutiao.io/k/zgc47l7) 
+- [2022-01-08-推荐-再见-Typora！推荐一个-2.3-万-Star-的开源-Markdown-编辑器](https://toutiao.io/k/ol8ule0) 
+- [2022-01-08-推荐-聊聊spring事务失效的12种场景，太坑了](https://toutiao.io/k/uf6yk96) 
+- [2022-01-08-推荐-2022新年伊始，送你百篇干货文章](https://toutiao.io/k/kchudkd) 
+- [2022-01-08-推荐-2021年美团技术团队最受欢迎的22篇技术文章](https://toutiao.io/k/pjse55y) 
+- [2022-01-08-推荐-WhatsApp系统架构](https://toutiao.io/k/7dt7oe2) 
 - [2022-01-08-推荐-插件式可扩展架构设计心得](https://toutiao.io/k/w43usss) 
+- [2022-01-08-推荐-登录态-&-SSO](https://toutiao.io/k/vjcw3vh) 
 - [2022-01-08-推荐-画架构图的神器](https://toutiao.io/k/4773s9p) 

@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2022-01-08 10:13:36。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-01-08 10:24:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-01-08-美亚礼品卡不兑换的话，有效期是多久](https://www.v2ex.com/t/827021) 
+- [2022-01-08-这广告属实恶心人了](https://www.v2ex.com/t/827020) 
 - [2022-01-08-请问-16-寸-m1-pro-外接显示器设置](https://www.v2ex.com/t/827019) 
 - [2022-01-08-selenium-firefox-多标签页自动关闭问题](https://www.v2ex.com/t/827018) 
 - [2022-01-08-pve-直通核显后声音不正常](https://www.v2ex.com/t/827017) 
@@ -41,4 +43,3 @@
 - [2022-01-08-北京-美资外企-Senior-iOS/Android-Engineer](https://www.v2ex.com/t/826974) 
 - [2022-01-08-notion-写开发者文档的时候的一些巨麻烦的操作习惯，求解决方案](https://www.v2ex.com/t/826973) 
 - [2022-01-08-怎么才能转型进入智能座舱设计领域？](https://www.v2ex.com/t/826972) 
-- [2022-01-08-问一个删除元素的问题，要求要求速度快](https://www.v2ex.com/t/826970) 

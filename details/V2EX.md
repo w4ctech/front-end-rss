@@ -1,10 +1,13 @@
-:alarm_clock: 更新时间: 2022-01-08 07:40:35。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-01-08 07:54:56。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-01-08-是否能在当前法律保障下以“虚拟工资”的方式招募团队做开源项目或者创业？](https://www.v2ex.com/t/826996) 
+- [2022-01-08-坏的机械硬盘如何抢救数据？](https://www.v2ex.com/t/826995) 
+- [2022-01-08-朋友出国前想找个工作，欢迎各位各抒己见（🥰）](https://www.v2ex.com/t/826994) 
 - [2022-01-08-有没有类似-Electron-的，但是是运行-Android-程序的-Windows-框架？除了-Android-Subsystem，因为想支持-Windows-10](https://www.v2ex.com/t/826993) 
 - [2022-01-08-在已-root-手机上使用数字现金-app](https://www.v2ex.com/t/826992) 
 - [2022-01-08-蜘蛛侠影视形象演变（1967-2021）](https://www.v2ex.com/t/826991) 
@@ -42,6 +45,3 @@
 - [2022-01-08-3-年-U3D-前端程序员，可以提供-U3D-前端各项功能外包](https://www.v2ex.com/t/826950) 
 - [2022-01-07-M1-MBP-电池寿命---究竟信谁?](https://www.v2ex.com/t/826949) 
 - [2022-01-07-7-年塔罗占卜经历的-U3D-前端，可以提供一对一塔罗占卜](https://www.v2ex.com/t/826948) 
-- [2022-01-07-可以短期体验美团骑手或者滴滴司机的工作么？](https://www.v2ex.com/t/826947) 
-- [2022-01-07-一个神奇的事情:windows-server-insider-和-windows-installer-在同步刷版本号](https://www.v2ex.com/t/826946) 
-- [2022-01-07-MMXX，又滚挂了](https://www.v2ex.com/t/826944) 

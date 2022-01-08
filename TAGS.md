@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-01-08 07:54:56。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-01-08 08:15:52。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -216,8 +216,6 @@
 
 
 
-- [【V2EX】3-年-U3D-前端程序员，可以提供-U3D-前端各项功能外包](https://www.v2ex.com/t/826950)
-- [【V2EX】7-年塔罗占卜经历的-U3D-前端，可以提供一对一塔罗占卜](https://www.v2ex.com/t/826948)
 - [......【查看更多】......](./details/tags/canvas-image.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

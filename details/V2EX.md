@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2022-01-08 06:15:39。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-01-08 06:27:35。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-01-08-M1-启动-jetbrains-产品提示安装-Rosetta](https://www.v2ex.com/t/826987) 
 - [2022-01-08-有做社区的小伙伴吗？](https://www.v2ex.com/t/826986) 
 - [2022-01-08-下载了一款裸聊软件，接到了防诈骗提醒电话，可是手机根本没插-SIM-卡](https://www.v2ex.com/t/826985) 
 - [2022-01-08-请小伙伴有偿帮助-Linux-kernel-的开发](https://www.v2ex.com/t/826982) 
@@ -42,4 +43,3 @@
 - [2022-01-07-Macbook-使用过程突然卡住几秒钟，鼠标键盘触控板什么都操作不了是怎么回事](https://www.v2ex.com/t/826942) 
 - [2022-01-07-京东-plus-类似去年车厘子捆绑-269-送牛肉和-kfc-桶+1-年一号会员店会员](https://www.v2ex.com/t/826941) 
 - [2022-01-07-如何按照写一本书的方式去排版自己的笔记？](https://www.v2ex.com/t/826938) 
-- [2022-01-07-如何通过-TeamCode-Tin-快速访问-Cloudreve？](https://www.v2ex.com/t/826937) 

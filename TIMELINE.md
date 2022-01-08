@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-01-08 14:20:05。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-01-08 14:37:57。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -115,6 +115,10 @@
 - [【武汉肺炎防疫全纪录(财新网)】2022-01-01-【境内疫情观察】陕西新增174例本土病例（12月31日）](https://database.caixin.com/m/2022-01-01/101825023.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2022-01-01-英国重启临时医院，多国医疗系统承压｜大流行手记（12月31日）](https://m.caixin.com/m/2022-01-01/101824902.html) 
 - [【阮一峰的网络日志】2022-01-07-科技爱好者周刊（第-191-期）：一个程序员的财务独立之路](http://www.ruanyifeng.com/blog/2022/01/weekly-issue-191.html) 
+- [【V2EX】2022-01-08-这两台乐金的显示器如何选择？](https://www.v2ex.com/t/827049) 
+- [【V2EX】2022-01-08-请教一个无头版本-Chrome-问题](https://www.v2ex.com/t/827048) 
+- [【V2EX】2022-01-08-b-站账号的收藏和点赞里莫名其妙多出来一些视频](https://www.v2ex.com/t/827047) 
+- [【V2EX】2022-01-08-哪里买-SecureCRT-授权比较便宜点？](https://www.v2ex.com/t/827046) 
 - [【V2EX】2022-01-08-PVE-中创建-LXC-容器，没有网络](https://www.v2ex.com/t/827045) 
 - [【V2EX】2022-01-08-大家手机电脑互传软件用的是啥](https://www.v2ex.com/t/827044) 
 - [【V2EX】2022-01-08-如何给特定软件设置专门的分辨率和缩放](https://www.v2ex.com/t/827043) 
@@ -150,8 +154,6 @@
 - [【V2EX】2022-01-08-终于拥有了人生第一台-macbook](https://www.v2ex.com/t/827003) 
 - [【V2EX】2022-01-08-已经-root-的使用屏下指纹手机换屏遇到的问题](https://www.v2ex.com/t/827002) 
 - [【V2EX】2022-01-08-求助，-MBP-当主机使用外接显示器时，网络有问题](https://www.v2ex.com/t/827001) 
-- [【V2EX】2022-01-08-空闲的-PCI-E-槽有什么好的利用方案吗？](https://www.v2ex.com/t/826999) 
-- [【V2EX】2022-01-08-是否能在当前法律保障下以“虚拟工资”的方式招募团队做开源项目或者创业？](https://www.v2ex.com/t/826996) 
 - [【技术头条】2022-01-08-Ghost-in-the-Log4Shell-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14886&url=https%3A%2F%2Finsights.thoughtworks.cn%2Flog4j-log4shell%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-01-08-敏捷变革中，如何让你的第三空间更有吸引力？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14885&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fagile-organization-transformation-third-space%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-01-08-浅谈开发者友好的软件设计-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14884&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fdeveloper-friendly-software-design%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -181,17 +183,17 @@
 - [【开发者头条】2022-01-08-神经网络为大脑如何运作提供新见解](https://toutiao.io/k/0nmxn8q) 
 - [【开发者头条】2022-01-08-使用-Mesh-TensorFlow-进行超高分辨率图像分析](https://toutiao.io/k/9pf0pb4) 
 - [【开发者头条】2022-01-08-Apache-Flink不止于计算，数仓架构或兴起新一轮变革](https://toutiao.io/k/j9fb1go) 
+- [【开发者头条】2022-01-08-推荐-聊聊spring事务失效的12种场景，太坑了](https://toutiao.io/k/uf6yk96) 
+- [【开发者头条】2022-01-08-推荐-非常哇塞的-ES读场景、写场景-性能优化指南！你值得拥有！](https://toutiao.io/k/5pjb28q) 
+- [【开发者头条】2022-01-08-推荐-2022新年伊始，送你百篇干货文章](https://toutiao.io/k/kchudkd) 
+- [【开发者头条】2022-01-08-推荐-再见-Typora！推荐一个-2.3-万-Star-的开源-Markdown-编辑器](https://toutiao.io/k/ol8ule0) 
+- [【开发者头条】2022-01-08-推荐-WhatsApp系统架构](https://toutiao.io/k/7dt7oe2) 
+- [【开发者头条】2022-01-08-推荐-插件式可扩展架构设计心得](https://toutiao.io/k/w43usss) 
+- [【开发者头条】2022-01-08-推荐-白话linux操作系统原理](https://toutiao.io/k/zgc47l7) 
+- [【开发者头条】2022-01-08-推荐-登录态-&-SSO](https://toutiao.io/k/vjcw3vh) 
 - [【开发者头条】2022-01-08-推荐-画架构图的神器](https://toutiao.io/k/4773s9p) 
 - [【开发者头条】2022-01-08-推荐-面渣逆袭：JVM经典五十问，这下面试稳了！](https://toutiao.io/k/wideaab) 
 - [【开发者头条】2022-01-08-推荐-2021年美团技术团队最受欢迎的22篇技术文章](https://toutiao.io/k/pjse55y) 
-- [【开发者头条】2022-01-08-推荐-插件式可扩展架构设计心得](https://toutiao.io/k/w43usss) 
-- [【开发者头条】2022-01-08-推荐-2022新年伊始，送你百篇干货文章](https://toutiao.io/k/kchudkd) 
-- [【开发者头条】2022-01-08-推荐-白话linux操作系统原理](https://toutiao.io/k/zgc47l7) 
-- [【开发者头条】2022-01-08-推荐-登录态-&-SSO](https://toutiao.io/k/vjcw3vh) 
-- [【开发者头条】2022-01-08-推荐-非常哇塞的-ES读场景、写场景-性能优化指南！你值得拥有！](https://toutiao.io/k/5pjb28q) 
-- [【开发者头条】2022-01-08-推荐-再见-Typora！推荐一个-2.3-万-Star-的开源-Markdown-编辑器](https://toutiao.io/k/ol8ule0) 
-- [【开发者头条】2022-01-08-推荐-聊聊spring事务失效的12种场景，太坑了](https://toutiao.io/k/uf6yk96) 
-- [【开发者头条】2022-01-08-推荐-WhatsApp系统架构](https://toutiao.io/k/7dt7oe2) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

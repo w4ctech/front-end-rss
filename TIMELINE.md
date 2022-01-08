@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-01-08 02:02:57。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-01-08 02:15:38。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,7 @@
 </summary>
 
 
+- [【武汉肺炎防疫全纪录(财新网)】2022-01-08-1月7日全国新增新冠159例-四省份本土95例](https://m.caixin.com/m/2022-01-08/101827550.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2022-01-08-深圳病例感染德尔塔毒株-莞惠临深地区全员核酸检测](https://m.caixin.com/m/2022-01-08/101827491.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2022-01-08-美国住院人数或刷新记录-英军方协助医院｜大流行手记（1月7日）](https://m.caixin.com/m/2022-01-08/101827528.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2022-01-07-香港政界大型生日会现两宗确诊-霍启刚等20名议员需入住检疫营](https://m.caixin.com/m/2022-01-07/101827434.html) 
@@ -152,7 +153,6 @@
 - [【V2EX】2022-01-07-作为一个开发，你能接受测试教你改-bug-吗](https://www.v2ex.com/t/826909) 
 - [【V2EX】2022-01-07-买正版-IntelliJ-IDEA-全家桶有坑吗](https://www.v2ex.com/t/826908) 
 - [【V2EX】2022-01-07-script-setup-语法怎么准确-debugger？](https://www.v2ex.com/t/826907) 
-- [【V2EX】2022-01-07-Keychron-K1-SE-上的语音键，按下之后会有-2-个功能？](https://www.v2ex.com/t/826906) 
 - [【技术头条】2022-01-08-Ghost-in-the-Log4Shell-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14886&url=https%3A%2F%2Finsights.thoughtworks.cn%2Flog4j-log4shell%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-01-08-敏捷变革中，如何让你的第三空间更有吸引力？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14885&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fagile-organization-transformation-third-space%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-01-08-浅谈开发者友好的软件设计-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14884&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fdeveloper-friendly-software-design%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -179,19 +179,19 @@
 - [【开发者头条】2022-01-08-深入浅出Spark：存储系统](https://toutiao.io/k/s1aizd7) 
 - [【开发者头条】2022-01-08-service-worker轻度探索---解决运营活动需求中的图片加载问题?](https://toutiao.io/k/v1u5lan) 
 - [【开发者头条】2022-01-08-如何让手机1秒打开健康码-，任何机型！](https://toutiao.io/k/656bsuv) 
-- [【开发者头条】2022-01-08-神经网络为大脑如何运作提供新见解](https://toutiao.io/k/0nmxn8q) 
 - [【开发者头条】2022-01-08-迎新：Apache-IoTDB喜迎1位PMC和4位Committer](https://toutiao.io/k/vl3bsvv) 
-- [【开发者头条】2022-01-08-推荐-插件式可扩展架构设计心得](https://toutiao.io/k/w43usss) 
-- [【开发者头条】2022-01-08-推荐-2022新年伊始，送你百篇干货文章](https://toutiao.io/k/kchudkd) 
-- [【开发者头条】2022-01-08-推荐-再见-Typora！推荐一个-2.3-万-Star-的开源-Markdown-编辑器](https://toutiao.io/k/ol8ule0) 
-- [【开发者头条】2022-01-08-推荐-聊聊spring事务失效的12种场景，太坑了](https://toutiao.io/k/uf6yk96) 
-- [【开发者头条】2022-01-08-推荐-面渣逆袭：JVM经典五十问，这下面试稳了！](https://toutiao.io/k/wideaab) 
-- [【开发者头条】2022-01-08-推荐-白话linux操作系统原理](https://toutiao.io/k/zgc47l7) 
+- [【开发者头条】2022-01-08-神经网络为大脑如何运作提供新见解](https://toutiao.io/k/0nmxn8q) 
 - [【开发者头条】2022-01-08-推荐-非常哇塞的-ES读场景、写场景-性能优化指南！你值得拥有！](https://toutiao.io/k/5pjb28q) 
 - [【开发者头条】2022-01-08-推荐-2021年美团技术团队最受欢迎的22篇技术文章](https://toutiao.io/k/pjse55y) 
+- [【开发者头条】2022-01-08-推荐-再见-Typora！推荐一个-2.3-万-Star-的开源-Markdown-编辑器](https://toutiao.io/k/ol8ule0) 
+- [【开发者头条】2022-01-08-推荐-聊聊spring事务失效的12种场景，太坑了](https://toutiao.io/k/uf6yk96) 
+- [【开发者头条】2022-01-08-推荐-2022新年伊始，送你百篇干货文章](https://toutiao.io/k/kchudkd) 
 - [【开发者头条】2022-01-08-推荐-登录态-&-SSO](https://toutiao.io/k/vjcw3vh) 
-- [【开发者头条】2022-01-08-推荐-WhatsApp系统架构](https://toutiao.io/k/7dt7oe2) 
+- [【开发者头条】2022-01-08-推荐-白话linux操作系统原理](https://toutiao.io/k/zgc47l7) 
+- [【开发者头条】2022-01-08-推荐-面渣逆袭：JVM经典五十问，这下面试稳了！](https://toutiao.io/k/wideaab) 
 - [【开发者头条】2022-01-08-推荐-画架构图的神器](https://toutiao.io/k/4773s9p) 
+- [【开发者头条】2022-01-08-推荐-WhatsApp系统架构](https://toutiao.io/k/7dt7oe2) 
+- [【开发者头条】2022-01-08-推荐-插件式可扩展架构设计心得](https://toutiao.io/k/w43usss) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

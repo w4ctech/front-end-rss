@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-01-08 02:02:57。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-01-08 02:15:38。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
@@ -46,4 +46,3 @@
 - [2022-01-07-作为一个开发，你能接受测试教你改-bug-吗](https://www.v2ex.com/t/826909) 
 - [2022-01-07-买正版-IntelliJ-IDEA-全家桶有坑吗](https://www.v2ex.com/t/826908) 
 - [2022-01-07-script-setup-语法怎么准确-debugger？](https://www.v2ex.com/t/826907) 
-- [2022-01-07-Keychron-K1-SE-上的语音键，按下之后会有-2-个功能？](https://www.v2ex.com/t/826906) 

@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2022-01-08 06:52:17。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-01-08 07:12:45。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-01-08-在已-root-手机上使用数字现金-app](https://www.v2ex.com/t/826992) 
+- [2022-01-08-蜘蛛侠影视形象演变（1967-2021）](https://www.v2ex.com/t/826991) 
 - [2022-01-08-迫于单位要求每天一早微信群聊发体温，自己按照知乎回答照抄了一份-vbs-的定时微信发送消息脚本](https://www.v2ex.com/t/826990) 
 - [2022-01-08-如何关闭标签页缩略图？](https://www.v2ex.com/t/826989) 
 - [2022-01-08-用来编译安卓源码的-CPU-有推荐吗？](https://www.v2ex.com/t/826988) 
@@ -43,5 +45,3 @@
 - [2022-01-07-一个神奇的事情:windows-server-insider-和-windows-installer-在同步刷版本号](https://www.v2ex.com/t/826946) 
 - [2022-01-07-MMXX，又滚挂了](https://www.v2ex.com/t/826944) 
 - [2022-01-07-SeaCows-NFT-团队招聘数据抓取高级-后端工程师：](https://www.v2ex.com/t/826943) 
-- [2022-01-07-Macbook-使用过程突然卡住几秒钟，鼠标键盘触控板什么都操作不了是怎么回事](https://www.v2ex.com/t/826942) 
-- [2022-01-07-京东-plus-类似去年车厘子捆绑-269-送牛肉和-kfc-桶+1-年一号会员店会员](https://www.v2ex.com/t/826941) 

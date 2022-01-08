@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-01-08 06:52:17。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-01-08 07:12:45。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -112,6 +112,8 @@
 - [【武汉肺炎防疫全纪录(财新网)】2022-01-01-【境内疫情观察】陕西新增174例本土病例（12月31日）](https://database.caixin.com/m/2022-01-01/101825023.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2022-01-01-英国重启临时医院，多国医疗系统承压｜大流行手记（12月31日）](https://m.caixin.com/m/2022-01-01/101824902.html) 
 - [【阮一峰的网络日志】2022-01-07-科技爱好者周刊（第-191-期）：一个程序员的财务独立之路](http://www.ruanyifeng.com/blog/2022/01/weekly-issue-191.html) 
+- [【V2EX】2022-01-08-在已-root-手机上使用数字现金-app](https://www.v2ex.com/t/826992) 
+- [【V2EX】2022-01-08-蜘蛛侠影视形象演变（1967-2021）](https://www.v2ex.com/t/826991) 
 - [【V2EX】2022-01-08-迫于单位要求每天一早微信群聊发体温，自己按照知乎回答照抄了一份-vbs-的定时微信发送消息脚本](https://www.v2ex.com/t/826990) 
 - [【V2EX】2022-01-08-如何关闭标签页缩略图？](https://www.v2ex.com/t/826989) 
 - [【V2EX】2022-01-08-用来编译安卓源码的-CPU-有推荐吗？](https://www.v2ex.com/t/826988) 
@@ -150,8 +152,6 @@
 - [【V2EX】2022-01-07-一个神奇的事情:windows-server-insider-和-windows-installer-在同步刷版本号](https://www.v2ex.com/t/826946) 
 - [【V2EX】2022-01-07-MMXX，又滚挂了](https://www.v2ex.com/t/826944) 
 - [【V2EX】2022-01-07-SeaCows-NFT-团队招聘数据抓取高级-后端工程师：](https://www.v2ex.com/t/826943) 
-- [【V2EX】2022-01-07-Macbook-使用过程突然卡住几秒钟，鼠标键盘触控板什么都操作不了是怎么回事](https://www.v2ex.com/t/826942) 
-- [【V2EX】2022-01-07-京东-plus-类似去年车厘子捆绑-269-送牛肉和-kfc-桶+1-年一号会员店会员](https://www.v2ex.com/t/826941) 
 - [【技术头条】2022-01-08-Ghost-in-the-Log4Shell-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14886&url=https%3A%2F%2Finsights.thoughtworks.cn%2Flog4j-log4shell%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-01-08-敏捷变革中，如何让你的第三空间更有吸引力？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14885&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fagile-organization-transformation-third-space%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-01-08-浅谈开发者友好的软件设计-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14884&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fdeveloper-friendly-software-design%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -178,21 +178,21 @@
 - [【开发者头条】2022-01-08-深入浅出Spark：存储系统](https://toutiao.io/k/s1aizd7) 
 - [【开发者头条】2022-01-08-service-worker轻度探索---解决运营活动需求中的图片加载问题?](https://toutiao.io/k/v1u5lan) 
 - [【开发者头条】2022-01-08-如何让手机1秒打开健康码-，任何机型！](https://toutiao.io/k/656bsuv) 
-- [【开发者头条】2022-01-08-神经网络为大脑如何运作提供新见解](https://toutiao.io/k/0nmxn8q) 
 - [【开发者头条】2022-01-08-迎新：Apache-IoTDB喜迎1位PMC和4位Committer](https://toutiao.io/k/vl3bsvv) 
+- [【开发者头条】2022-01-08-神经网络为大脑如何运作提供新见解](https://toutiao.io/k/0nmxn8q) 
 - [【开发者头条】2022-01-08-使用-Mesh-TensorFlow-进行超高分辨率图像分析](https://toutiao.io/k/9pf0pb4) 
 - [【开发者头条】2022-01-08-Apache-Flink不止于计算，数仓架构或兴起新一轮变革](https://toutiao.io/k/j9fb1go) 
-- [【开发者头条】2022-01-08-推荐-插件式可扩展架构设计心得](https://toutiao.io/k/w43usss) 
-- [【开发者头条】2022-01-08-推荐-再见-Typora！推荐一个-2.3-万-Star-的开源-Markdown-编辑器](https://toutiao.io/k/ol8ule0) 
-- [【开发者头条】2022-01-08-推荐-非常哇塞的-ES读场景、写场景-性能优化指南！你值得拥有！](https://toutiao.io/k/5pjb28q) 
-- [【开发者头条】2022-01-08-推荐-2022新年伊始，送你百篇干货文章](https://toutiao.io/k/kchudkd) 
-- [【开发者头条】2022-01-08-推荐-2021年美团技术团队最受欢迎的22篇技术文章](https://toutiao.io/k/pjse55y) 
 - [【开发者头条】2022-01-08-推荐-画架构图的神器](https://toutiao.io/k/4773s9p) 
+- [【开发者头条】2022-01-08-推荐-2022新年伊始，送你百篇干货文章](https://toutiao.io/k/kchudkd) 
+- [【开发者头条】2022-01-08-推荐-非常哇塞的-ES读场景、写场景-性能优化指南！你值得拥有！](https://toutiao.io/k/5pjb28q) 
+- [【开发者头条】2022-01-08-推荐-白话linux操作系统原理](https://toutiao.io/k/zgc47l7) 
+- [【开发者头条】2022-01-08-推荐-插件式可扩展架构设计心得](https://toutiao.io/k/w43usss) 
+- [【开发者头条】2022-01-08-推荐-2021年美团技术团队最受欢迎的22篇技术文章](https://toutiao.io/k/pjse55y) 
+- [【开发者头条】2022-01-08-推荐-登录态-&-SSO](https://toutiao.io/k/vjcw3vh) 
+- [【开发者头条】2022-01-08-推荐-聊聊spring事务失效的12种场景，太坑了](https://toutiao.io/k/uf6yk96) 
 - [【开发者头条】2022-01-08-推荐-WhatsApp系统架构](https://toutiao.io/k/7dt7oe2) 
 - [【开发者头条】2022-01-08-推荐-面渣逆袭：JVM经典五十问，这下面试稳了！](https://toutiao.io/k/wideaab) 
-- [【开发者头条】2022-01-08-推荐-聊聊spring事务失效的12种场景，太坑了](https://toutiao.io/k/uf6yk96) 
-- [【开发者头条】2022-01-08-推荐-白话linux操作系统原理](https://toutiao.io/k/zgc47l7) 
-- [【开发者头条】2022-01-08-推荐-登录态-&-SSO](https://toutiao.io/k/vjcw3vh) 
+- [【开发者头条】2022-01-08-推荐-再见-Typora！推荐一个-2.3-万-Star-的开源-Markdown-编辑器](https://toutiao.io/k/ol8ule0) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>
@@ -328,6 +328,10 @@
 - [【武汉肺炎防疫全纪录(财新网)】2021-12-01-满洲里市近五天报告142例本土病例-当地6个街道高风险](https://m.caixin.com/m/2021-12-01/101812395.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2021-12-01-【境内疫情观察】内蒙古新增91例本土病例（11月30日）](https://database.caixin.com/m/2021-12-01/101812304.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2021-12-01-莫德纳料疫苗对Omicron效果较差-德国拟加强限制｜大流行手记（11月30日）](https://m.caixin.com/m/2021-12-01/101812050.html) 
+- [【张鑫旭-鑫空间-鑫生活】2021-12-29-JS-标签模板（Tagged-templates）什么时候使用？](https://www.zhangxinxu.com/wordpress/2021/12/js-tagged-templates/) 
+- [【张鑫旭-鑫空间-鑫生活】2021-12-20-深入JS-getRandomValues和Math.random方法](https://www.zhangxinxu.com/wordpress/2021/12/js-getrandomvalue-math-random/) 
+- [【张鑫旭-鑫空间-鑫生活】2021-12-13-你不知道的CSS-media查询与用户体验](https://www.zhangxinxu.com/wordpress/2021/12/css-meida-user-experience/) 
+- [【张鑫旭-鑫空间-鑫生活】2021-12-08-flex-end为什么overflow无法滚动及解决方法](https://www.zhangxinxu.com/wordpress/2021/12/flex-end-overflow/) 
 - [【阮一峰的网络日志】2021-12-31-科技爱好者周刊（第-190-期）：产品化思维](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-190.html) 
 - [【阮一峰的网络日志】2021-12-24-科技爱好者周刊（第-189-期）：下一个内卷的行业](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-189.html) 
 
@@ -471,6 +475,9 @@
 - [【武汉肺炎防疫全纪录(财新网)】2021-11-01-多地防控指向“时空伴随”，标准待明晰](https://m.caixin.com/m/2021-11-01/101794671.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2021-11-01-甘肃天水市卫健委主任、疾控中心主任被免职](https://china.caixin.com/m/2021-11-01/101794412.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2021-11-01-【图集】上海迪士尼乐园因疫情影响闭园](https://photos.caixin.com/m/2021-11-01/101794371.html) 
+- [【张鑫旭-鑫空间-鑫生活】2021-11-23-从js-visibilitychange-Safari下无效说开去](https://www.zhangxinxu.com/wordpress/2021/11/js-visibilitychange-pagehide-lifecycle/) 
+- [【张鑫旭-鑫空间-鑫生活】2021-11-14-密码强度效果最佳实现一定是HTML-meter元素](https://www.zhangxinxu.com/wordpress/2021/11/html-meter-password/) 
+- [【张鑫旭-鑫空间-鑫生活】2021-11-02-见多识广，介绍Web开发中current开头的一些API属性](https://www.zhangxinxu.com/wordpress/2021/11/currentscript-currenttarget-currentsrc/) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>
@@ -590,6 +597,9 @@
 - [【武汉肺炎防疫全纪录(财新网)】2021-10-02-默沙东新冠药物III期临床中期结果乐观-英格兰学龄儿童感染率增加｜大流行手记（10月1日）](https://m.caixin.com/m/2021-10-02/101783007.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2021-10-01-【境内疫情观察】黑龙江新增10例本土病例（9月30日）](https://database.caixin.com/m/2021-10-01/101782928.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2021-10-01-英国结束“休假计划“-超七成非洲国家未达接种目标｜大流行手记（9月30日）](https://m.caixin.com/m/2021-10-01/101782855.html) 
+- [【张鑫旭-鑫空间-鑫生活】2021-10-28-JS复制文字到剪切板的极简实现及扩展](https://www.zhangxinxu.com/wordpress/2021/10/js-copy-paste-clipboard/) 
+- [【张鑫旭-鑫空间-鑫生活】2021-10-24-CSS-@counter-style规则详细介绍](https://www.zhangxinxu.com/wordpress/2021/10/css-counter-style/) 
+- [【张鑫旭-鑫空间-鑫生活】2021-10-08-CSS-content新的替换元素规范行为解读](https://www.zhangxinxu.com/wordpress/2021/10/css-content-url/) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

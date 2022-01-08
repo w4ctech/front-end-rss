@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2022-01-08 09:13:06。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-01-08 09:22:38。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-01-08-我被逐出队伍后过上慢生活观后求游戏](https://www.v2ex.com/t/827009) 
 - [2022-01-08-macOS-12.1-蓝牙老是断](https://www.v2ex.com/t/827007) 
 - [2022-01-08-求救，-celery-用-ssl-连接-rabbitmq-问题](https://www.v2ex.com/t/827006) 
 - [2022-01-08-终于拥有了人生第一台-macbook](https://www.v2ex.com/t/827003) 
@@ -40,4 +41,3 @@
 - [2022-01-08-求教，-win10-和-ubuntu-共享的-samba-传输速度满的问题](https://www.v2ex.com/t/826963) 
 - [2022-01-08-元宇宙从入门到入土](https://www.v2ex.com/t/826961) 
 - [2022-01-08-关于时间的复盘](https://www.v2ex.com/t/826960) 
-- [2022-01-08-gopro-4-有没有办法-边充电边使用外接麦克风？](https://www.v2ex.com/t/826959) 

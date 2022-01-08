@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-01-08 01:12:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-01-08 02:02:57。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -6,7 +6,7 @@
 
 
 - [2022-01-08-深圳病例感染德尔塔毒株-莞惠临深地区全员核酸检测](https://m.caixin.com/m/2022-01-08/101827491.html) 
-- [2022-01-07-最新疫情：全国新冠累计确诊103295例-累计接种新冠疫苗超28.79亿剂次](https://m.caixin.com/m/2022-01-07/101827341.html) 
+- [2022-01-08-美国住院人数或刷新记录-英军方协助医院｜大流行手记（1月7日）](https://m.caixin.com/m/2022-01-08/101827528.html) 
 - [2022-01-07-香港政界大型生日会现两宗确诊-霍启刚等20名议员需入住检疫营](https://m.caixin.com/m/2022-01-07/101827434.html) 
 - [2022-01-07-西安累计确诊1913人治愈112人-将严查拒诊、推诿患者行为](https://m.caixin.com/m/2022-01-07/101827334.html) 
 - [2022-01-07-最新海外疫情：新冠感染超2.99亿-累计接种新冠疫苗超93.05亿剂次](https://m.caixin.com/m/2022-01-07/101827345.html) 
@@ -1623,16 +1623,19 @@
 - [2022-01-08-谷歌-Pixel-手机阻止用户拨打报警电话-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14869&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FdAGW4bApcKU4fww5ijrH6g%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-01-08-快来围观Java16-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14868&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247492762%26amp%3Bidx%3D2%26amp%3Bsn%3D508983bae736a4de5ed1828722558fb7%26amp%3Bchksm%3Dfa3f05c1cd488cd77889a9a2d9d52db3e91b1ee9643c06d32df6d3a7d720578b164a63d58571%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-01-08-这30个顶级工具！前端开发很喜欢-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14867&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247492761%26amp%3Bidx%3D1%26amp%3Bsn%3D2b24ab63f2fe7be731ab3d16f7b9a7c7%26amp%3Bchksm%3Dfa3f05c2cd488cd4976daa0a33f9d6dc7cc122bdfbfe24475950bcba896dafa8a42b47ca7394%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2022-01-08-2022-年来了！抓紧啦！](https://toutiao.io/k/rf8ezjy) 
 - [2022-01-08-网络编程怎么做才算是优雅？](https://toutiao.io/k/zylzzpi) 
 - [2022-01-08-SpringBoot-热部署神器快速重启的秘密！](https://toutiao.io/k/8b5fv5e) 
-- [2022-01-08-卷王之王。](https://toutiao.io/k/hj0898g) 
 - [2022-01-08-深入浅出Spark：存储系统](https://toutiao.io/k/s1aizd7) 
-- [2022-01-08-推荐-画架构图的神器](https://toutiao.io/k/4773s9p) 
-- [2022-01-08-推荐-白话linux操作系统原理](https://toutiao.io/k/zgc47l7) 
-- [2022-01-08-推荐-2021年美团技术团队最受欢迎的22篇技术文章](https://toutiao.io/k/pjse55y) 
-- [2022-01-08-推荐-WhatsApp系统架构](https://toutiao.io/k/7dt7oe2) 
+- [2022-01-08-如何让手机1秒打开健康码-，任何机型！](https://toutiao.io/k/656bsuv) 
+- [2022-01-08-神经网络为大脑如何运作提供新见解](https://toutiao.io/k/0nmxn8q) 
+- [2022-01-08-迎新：Apache-IoTDB喜迎1位PMC和4位Committer](https://toutiao.io/k/vl3bsvv) 
+- [2022-01-08-推荐-插件式可扩展架构设计心得](https://toutiao.io/k/w43usss) 
+- [2022-01-08-推荐-2022新年伊始，送你百篇干货文章](https://toutiao.io/k/kchudkd) 
 - [2022-01-08-推荐-再见-Typora！推荐一个-2.3-万-Star-的开源-Markdown-编辑器](https://toutiao.io/k/ol8ule0) 
 - [2022-01-08-推荐-聊聊spring事务失效的12种场景，太坑了](https://toutiao.io/k/uf6yk96) 
-- [2022-01-08-推荐-2022新年伊始，送你百篇干货文章](https://toutiao.io/k/kchudkd) 
-- [2022-01-08-推荐-插件式可扩展架构设计心得](https://toutiao.io/k/w43usss) 
+- [2022-01-08-推荐-白话linux操作系统原理](https://toutiao.io/k/zgc47l7) 
+- [2022-01-08-推荐-2021年美团技术团队最受欢迎的22篇技术文章](https://toutiao.io/k/pjse55y) 
 - [2022-01-08-推荐-登录态-&-SSO](https://toutiao.io/k/vjcw3vh) 
+- [2022-01-08-推荐-WhatsApp系统架构](https://toutiao.io/k/7dt7oe2) 
+- [2022-01-08-推荐-画架构图的神器](https://toutiao.io/k/4773s9p) 

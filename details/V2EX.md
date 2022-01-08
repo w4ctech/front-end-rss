@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2022-01-08 01:12:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-01-08 02:02:57。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-01-08-Ruby-on-Rails-7-Hotwire-从入门到掌握视频教程（8-个视频）](https://www.v2ex.com/t/826955) 
 - [2022-01-08-屌丝在澳洲--聊聊薪水与生活上的体验](https://www.v2ex.com/t/826954) 
 - [2022-01-08-如何方便地保存微信公众号文章？](https://www.v2ex.com/t/826953) 
 - [2022-01-08-为知笔记新版很不错啊,-不过加密选项是不是有-bug-?](https://www.v2ex.com/t/826952) 

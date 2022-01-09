@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-01-09 03:58:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-01-09 04:16:12。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1581,6 +1581,8 @@
 - [2022-01-07-科技爱好者周刊（第-191-期）：一个程序员的财务独立之路](http://www.ruanyifeng.com/blog/2022/01/weekly-issue-191.html) 
 - [2021-12-31-科技爱好者周刊（第-190-期）：产品化思维](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-190.html) 
 - [2021-12-24-科技爱好者周刊（第-189-期）：下一个内卷的行业](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-189.html) 
+- [2022-01-09-clash-x-pro-开启增强模式后怎么在终端-ping-到正确的-ip](https://www.v2ex.com/t/827098) 
+- [2022-01-09-iPad-Pro-待机掉电为什么那么快？](https://www.v2ex.com/t/827097) 
 - [2022-01-09-空格的符号（就是中括号""躺地上脸朝上）怎么打出来？](https://www.v2ex.com/t/827094) 
 - [2022-01-09-12-代处理器黑苹果预算和配置参考](https://www.v2ex.com/t/827092) 
 - [2022-01-09-有道云笔记挂了](https://www.v2ex.com/t/827091) 
@@ -1610,8 +1612,6 @@
 - [2022-01-08-走进-Web3](https://www.v2ex.com/t/827055) 
 - [2022-01-08-时光小屋-APP-照片备份工具](https://www.v2ex.com/t/827051) 
 - [2022-01-08-安卓软件黑阈的实验特性，暂停代替停用，这个原理是啥](https://www.v2ex.com/t/827050) 
-- [2022-01-08-这两台乐金的显示器如何选择？](https://www.v2ex.com/t/827049) 
-- [2022-01-08-哪里买-SecureCRT-授权比较便宜点？](https://www.v2ex.com/t/827046) 
 - [2022-01-09-Ghost-in-the-Log4Shell-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14886&url=https%3A%2F%2Finsights.thoughtworks.cn%2Flog4j-log4shell%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-01-09-敏捷变革中，如何让你的第三空间更有吸引力？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14885&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fagile-organization-transformation-third-space%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-01-09-浅谈开发者友好的软件设计-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14884&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fdeveloper-friendly-software-design%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1634,11 +1634,11 @@
 - [2022-01-09-Python再获年度编程语言，微软或成最大赢家](https://toutiao.io/k/22vru46) 
 - [2022-01-09-一文读懂蓝绿发布、A/B-测试和金丝雀发布的优缺点](https://toutiao.io/k/dd76ptd) 
 - [2022-01-09-Apache-Flink-不止于计算，数仓架构或兴起新一轮变革](https://toutiao.io/k/ms9ezyh) 
-- [2022-01-09-推荐-登录态-&-SSO](https://toutiao.io/k/vjcw3vh) 
 - [2022-01-09-推荐-画架构图的神器](https://toutiao.io/k/4773s9p) 
 - [2022-01-09-推荐-2022新年伊始，送你百篇干货文章](https://toutiao.io/k/kchudkd) 
-- [2022-01-09-推荐-聊聊spring事务失效的12种场景，太坑了](https://toutiao.io/k/uf6yk96) 
+- [2022-01-09-推荐-登录态-&-SSO](https://toutiao.io/k/vjcw3vh) 
 - [2022-01-09-推荐-再见-Typora！推荐一个-2.3-万-Star-的开源-Markdown-编辑器](https://toutiao.io/k/ol8ule0) 
+- [2022-01-09-推荐-聊聊spring事务失效的12种场景，太坑了](https://toutiao.io/k/uf6yk96) 
 - [2022-01-09-推荐-2021年美团技术团队最受欢迎的22篇技术文章](https://toutiao.io/k/pjse55y) 
 - [2022-01-09-推荐-WhatsApp系统架构](https://toutiao.io/k/7dt7oe2) 
 - [2022-01-09-推荐-白话linux操作系统原理](https://toutiao.io/k/zgc47l7) 

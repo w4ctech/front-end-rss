@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-01-09 14:41:54。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-01-09 14:54:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -7,4 +7,5 @@
 
 
 
+- [2022-01-09-base-合肥-年前面试年后入职+双休+带薪年假](https://www.v2ex.com/t/827184) 
 - [2022-01-09-推荐-面渣逆袭：JVM经典五十问，这下面试稳了！](https://toutiao.io/k/wideaab) 

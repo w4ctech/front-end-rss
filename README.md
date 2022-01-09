@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-09 16:39:15，:rocket: 更新条数: +1690， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-09 17:02:47，:rocket: 更新条数: +1692， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,8 @@
 </summary>
 
 
+- [2022-01-09-用-PheonixCard-往-sdcard-烧写安卓系统镜像，插入平板经常更新失败](https://www.v2ex.com/t/827201) ![](assets/new.png)  
+- [2022-01-09-有线回程下的-Mesh-组网的问题，看看你的是哪种？](https://www.v2ex.com/t/827200) ![](assets/new.png)  
 - [2022-01-09-到新加坡打工两个月的经历分享](https://www.v2ex.com/t/827199) ![](assets/new.png)  
 - [2022-01-09-app-开发，使用订阅模式，用户更喜欢那种订阅？](https://www.v2ex.com/t/827198) ![](assets/new.png)  
 - [2022-01-09-京东套路越来越多，被坑了，越想越气](https://www.v2ex.com/t/827197) ![](assets/new.png)  
@@ -512,8 +514,6 @@
 - [2022-01-09-自建了-Tailscale-DERP-服务器](https://www.v2ex.com/t/827182) ![](assets/new.png)  
 - [2022-01-09-做一个类似修勾舞厅的程序难么？](https://www.v2ex.com/t/827181) ![](assets/new.png)  
 - [2022-01-09-震惊:-Windows-自带的-OpenSSH-似乎没有接收安全更新?](https://www.v2ex.com/t/827180) ![](assets/new.png)  
-- [2022-01-09-自由意志、潜意识与神——本体认识论探索](https://www.v2ex.com/t/827178) ![](assets/new.png)  
-- [2022-01-09-我找到了心目中近乎-80%-完美的笔记本电脑:-ASUS-ROG-Flow-Z13-aka.-幻-X](https://www.v2ex.com/t/827177) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -566,16 +566,16 @@
 - [2022-01-09-Apache-Flink-不止于计算，数仓架构或兴起新一轮变革](https://toutiao.io/k/ms9ezyh) ![](assets/new.png)  
 - [2022-01-09-解读Go语言的2021：稳定为王](https://toutiao.io/k/q6q2cnj) ![](assets/new.png)  
 - [2022-01-09-Chrome-浏览器全球大翻车？让-20-多亿用户无网可上](https://toutiao.io/k/xsxvcd2) ![](assets/new.png)  
-- [2022-01-09-推荐-面渣逆袭：JVM经典五十问，这下面试稳了！](https://toutiao.io/k/wideaab) ![](assets/new.png)  
-- [2022-01-09-推荐-再见了-VMware，一款更轻量级的虚拟机！](https://toutiao.io/k/xw2lnva) ![](assets/new.png)  
-- [2022-01-09-推荐-登录态-&-SSO](https://toutiao.io/k/vjcw3vh) ![](assets/new.png)  
-- [2022-01-09-推荐-白话linux操作系统原理](https://toutiao.io/k/zgc47l7) ![](assets/new.png)  
-- [2022-01-09-推荐-聊聊spring事务失效的12种场景，太坑了](https://toutiao.io/k/uf6yk96) ![](assets/new.png)  
-- [2022-01-09-推荐-再见-Typora！推荐一个-2.3-万-Star-的开源-Markdown-编辑器](https://toutiao.io/k/ol8ule0) ![](assets/new.png)  
-- [2022-01-09-推荐-画架构图的神器](https://toutiao.io/k/4773s9p) ![](assets/new.png)  
+- [2022-01-09-推荐-2021年美团技术团队最受欢迎的22篇技术文章](https://toutiao.io/k/pjse55y) ![](assets/new.png)  
 - [2022-01-09-推荐-非常哇塞的-ES读场景、写场景-性能优化指南！你值得拥有！](https://toutiao.io/k/5pjb28q) ![](assets/new.png)  
 - [2022-01-09-推荐-2022新年伊始，送你百篇干货文章](https://toutiao.io/k/kchudkd) ![](assets/new.png)  
-- [2022-01-09-推荐-2021年美团技术团队最受欢迎的22篇技术文章](https://toutiao.io/k/pjse55y) ![](assets/new.png)  
+- [2022-01-09-推荐-聊聊spring事务失效的12种场景，太坑了](https://toutiao.io/k/uf6yk96) ![](assets/new.png)  
+- [2022-01-09-推荐-白话linux操作系统原理](https://toutiao.io/k/zgc47l7) ![](assets/new.png)  
+- [2022-01-09-推荐-再见-Typora！推荐一个-2.3-万-Star-的开源-Markdown-编辑器](https://toutiao.io/k/ol8ule0) ![](assets/new.png)  
+- [2022-01-09-推荐-登录态-&-SSO](https://toutiao.io/k/vjcw3vh) ![](assets/new.png)  
+- [2022-01-09-推荐-再见了-VMware，一款更轻量级的虚拟机！](https://toutiao.io/k/xw2lnva) ![](assets/new.png)  
+- [2022-01-09-推荐-画架构图的神器](https://toutiao.io/k/4773s9p) ![](assets/new.png)  
+- [2022-01-09-推荐-面渣逆袭：JVM经典五十问，这下面试稳了！](https://toutiao.io/k/wideaab) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

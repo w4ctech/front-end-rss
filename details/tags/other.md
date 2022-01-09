@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-01-09 10:57:31。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-01-09 11:10:48。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -9,6 +9,7 @@
 - [2022-01-09-本土奥密克戎终现天津-已启动全市新冠核检](https://m.caixin.com/m/2022-01-09/101827751.html) 
 - [2022-01-09-视线｜天津启动全员核酸检测-菜场人增多-部分菜摊蔬菜售罄](https://photos.caixin.com/m/2022-01-09/101827796.html) 
 - [2022-01-09-天津示20例阳性感染者详情-15例为中小学生](https://m.caixin.com/m/2022-01-09/101827759.html) 
+- [2022-01-09-【境内疫情观察】全国新增92例本土病例（1月8日）](https://database.caixin.com/m/2022-01-09/101827816.html) 
 - [2022-01-09-印度病例一周激增5倍-南非敦促加强疫苗接种｜大流行手记（1月8日）](https://m.caixin.com/m/2022-01-09/101827788.html) 
 - [2022-01-08-最新海外疫情：新冠感染超3.02亿-累计接种新冠疫苗超93.4亿剂次](https://m.caixin.com/m/2022-01-08/101827709.html) 
 - [2022-01-08-天津至8日21时现20名新冠阳性-已至少传播三代](https://m.caixin.com/m/2022-01-08/101827665.html) 
@@ -1632,11 +1633,11 @@
 - [2022-01-09-Apache-Flink-不止于计算，数仓架构或兴起新一轮变革](https://toutiao.io/k/ms9ezyh) 
 - [2022-01-09-从零打造-Instagram](https://toutiao.io/k/hufqvji) 
 - [2022-01-09-解读Go语言的2021：稳定为王](https://toutiao.io/k/q6q2cnj) 
-- [2022-01-09-推荐-WhatsApp系统架构](https://toutiao.io/k/7dt7oe2) 
-- [2022-01-09-推荐-画架构图的神器](https://toutiao.io/k/4773s9p) 
 - [2022-01-09-推荐-白话linux操作系统原理](https://toutiao.io/k/zgc47l7) 
-- [2022-01-09-推荐-聊聊spring事务失效的12种场景，太坑了](https://toutiao.io/k/uf6yk96) 
 - [2022-01-09-推荐-再见-Typora！推荐一个-2.3-万-Star-的开源-Markdown-编辑器](https://toutiao.io/k/ol8ule0) 
+- [2022-01-09-推荐-画架构图的神器](https://toutiao.io/k/4773s9p) 
 - [2022-01-09-推荐-2022新年伊始，送你百篇干货文章](https://toutiao.io/k/kchudkd) 
+- [2022-01-09-推荐-聊聊spring事务失效的12种场景，太坑了](https://toutiao.io/k/uf6yk96) 
+- [2022-01-09-推荐-WhatsApp系统架构](https://toutiao.io/k/7dt7oe2) 
 - [2022-01-09-推荐-登录态-&-SSO](https://toutiao.io/k/vjcw3vh) 
 - [2022-01-09-推荐-2021年美团技术团队最受欢迎的22篇技术文章](https://toutiao.io/k/pjse55y) 

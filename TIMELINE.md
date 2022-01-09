@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-01-09 02:59:22。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-01-09 03:15:10。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -118,6 +118,8 @@
 - [【武汉肺炎防疫全纪录(财新网)】2022-01-01-【境内疫情观察】陕西新增174例本土病例（12月31日）](https://database.caixin.com/m/2022-01-01/101825023.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2022-01-01-英国重启临时医院，多国医疗系统承压｜大流行手记（12月31日）](https://m.caixin.com/m/2022-01-01/101824902.html) 
 - [【阮一峰的网络日志】2022-01-07-科技爱好者周刊（第-191-期）：一个程序员的财务独立之路](http://www.ruanyifeng.com/blog/2022/01/weekly-issue-191.html) 
+- [【V2EX】2022-01-09-有道云笔记挂了](https://www.v2ex.com/t/827091) 
+- [【V2EX】2022-01-09-求助，想看各类网球比赛视频，有什么软件推荐么，收费免费都可以](https://www.v2ex.com/t/827090) 
 - [【V2EX】2022-01-09-每次-homebrew-装东西都怕断了](https://www.v2ex.com/t/827088) 
 - [【V2EX】2022-01-09-屌丝在澳洲--澳洲老外（Local）的中饭和工作休息](https://www.v2ex.com/t/827087) 
 - [【V2EX】2022-01-09-深圳工业互联网已上市云计算-PaaS-开发](https://www.v2ex.com/t/827085) 
@@ -157,7 +159,6 @@
 - [【V2EX】2022-01-08-PVE-中创建-LXC-容器，没有网络](https://www.v2ex.com/t/827045) 
 - [【V2EX】2022-01-08-大家手机电脑互传软件用的是啥](https://www.v2ex.com/t/827044) 
 - [【V2EX】2022-01-08-如何给特定软件设置专门的分辨率和缩放](https://www.v2ex.com/t/827043) 
-- [【V2EX】2022-01-08-出一个-拍立得蓝色绝版-snaptouch-品相完好-少个小盖子。-1400+前年在京东买的。自己还新买了相纸，是蓝色的-已经绝版了。有需要-800-出](https://www.v2ex.com/t/827040) 
 - [【技术头条】2022-01-09-Ghost-in-the-Log4Shell-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14886&url=https%3A%2F%2Finsights.thoughtworks.cn%2Flog4j-log4shell%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-01-09-敏捷变革中，如何让你的第三空间更有吸引力？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14885&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fagile-organization-transformation-third-space%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-01-09-浅谈开发者友好的软件设计-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14884&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fdeveloper-friendly-software-design%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -185,16 +186,16 @@
 - [【开发者头条】2022-01-09-一文读懂蓝绿发布、A/B-测试和金丝雀发布的优缺点](https://toutiao.io/k/dd76ptd) 
 - [【开发者头条】2022-01-09-王欢：如何构建好的智能风控工具体系？](https://toutiao.io/k/rowjfmz) 
 - [【开发者头条】2022-01-09-Apache-Flink-不止于计算，数仓架构或兴起新一轮变革](https://toutiao.io/k/ms9ezyh) 
-- [【开发者头条】2022-01-09-推荐-画架构图的神器](https://toutiao.io/k/4773s9p) 
 - [【开发者头条】2022-01-09-推荐-登录态-&-SSO](https://toutiao.io/k/vjcw3vh) 
-- [【开发者头条】2022-01-09-推荐-2022新年伊始，送你百篇干货文章](https://toutiao.io/k/kchudkd) 
-- [【开发者头条】2022-01-09-推荐-2021年美团技术团队最受欢迎的22篇技术文章](https://toutiao.io/k/pjse55y) 
-- [【开发者头条】2022-01-09-推荐-WhatsApp系统架构](https://toutiao.io/k/7dt7oe2) 
-- [【开发者头条】2022-01-09-推荐-聊聊spring事务失效的12种场景，太坑了](https://toutiao.io/k/uf6yk96) 
 - [【开发者头条】2022-01-09-推荐-非常哇塞的-ES读场景、写场景-性能优化指南！你值得拥有！](https://toutiao.io/k/5pjb28q) 
+- [【开发者头条】2022-01-09-推荐-聊聊spring事务失效的12种场景，太坑了](https://toutiao.io/k/uf6yk96) 
 - [【开发者头条】2022-01-09-推荐-再见-Typora！推荐一个-2.3-万-Star-的开源-Markdown-编辑器](https://toutiao.io/k/ol8ule0) 
 - [【开发者头条】2022-01-09-推荐-面渣逆袭：JVM经典五十问，这下面试稳了！](https://toutiao.io/k/wideaab) 
+- [【开发者头条】2022-01-09-推荐-画架构图的神器](https://toutiao.io/k/4773s9p) 
 - [【开发者头条】2022-01-09-推荐-白话linux操作系统原理](https://toutiao.io/k/zgc47l7) 
+- [【开发者头条】2022-01-09-推荐-WhatsApp系统架构](https://toutiao.io/k/7dt7oe2) 
+- [【开发者头条】2022-01-09-推荐-2022新年伊始，送你百篇干货文章](https://toutiao.io/k/kchudkd) 
+- [【开发者头条】2022-01-09-推荐-2021年美团技术团队最受欢迎的22篇技术文章](https://toutiao.io/k/pjse55y) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-01-09 20:23:44。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-01-09 20:40:48。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1584,6 +1584,7 @@
 - [2022-01-07-科技爱好者周刊（第-191-期）：一个程序员的财务独立之路](http://www.ruanyifeng.com/blog/2022/01/weekly-issue-191.html) 
 - [2021-12-31-科技爱好者周刊（第-190-期）：产品化思维](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-190.html) 
 - [2021-12-24-科技爱好者周刊（第-189-期）：下一个内卷的行业](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-189.html) 
+- [2022-01-09-是不是该加个「一键快速反馈」之类的功能](https://www.v2ex.com/t/827206) 
 - [2022-01-09-20220110-午夜俱乐部](https://www.v2ex.com/t/827205) 
 - [2022-01-09-有没有微博自动备份工具啊](https://www.v2ex.com/t/827202) 
 - [2022-01-09-用-PheonixCard-往-sdcard-烧写安卓系统镜像，插入平板经常更新失败](https://www.v2ex.com/t/827201) 
@@ -1638,10 +1639,10 @@
 - [2022-01-09-Apache-Flink-不止于计算，数仓架构或兴起新一轮变革](https://toutiao.io/k/ms9ezyh) 
 - [2022-01-09-解读Go语言的2021：稳定为王](https://toutiao.io/k/q6q2cnj) 
 - [2022-01-09-推荐-2022新年伊始，送你百篇干货文章](https://toutiao.io/k/kchudkd) 
-- [2022-01-09-推荐-聊聊spring事务失效的12种场景，太坑了](https://toutiao.io/k/uf6yk96) 
-- [2022-01-09-推荐-白话linux操作系统原理](https://toutiao.io/k/zgc47l7) 
-- [2022-01-09-推荐-2021年美团技术团队最受欢迎的22篇技术文章](https://toutiao.io/k/pjse55y) 
-- [2022-01-09-推荐-画架构图的神器](https://toutiao.io/k/4773s9p) 
-- [2022-01-09-推荐-再见了-VMware，一款更轻量级的虚拟机！](https://toutiao.io/k/xw2lnva) 
 - [2022-01-09-推荐-登录态-&-SSO](https://toutiao.io/k/vjcw3vh) 
+- [2022-01-09-推荐-白话linux操作系统原理](https://toutiao.io/k/zgc47l7) 
 - [2022-01-09-推荐-再见-Typora！推荐一个-2.3-万-Star-的开源-Markdown-编辑器](https://toutiao.io/k/ol8ule0) 
+- [2022-01-09-推荐-再见了-VMware，一款更轻量级的虚拟机！](https://toutiao.io/k/xw2lnva) 
+- [2022-01-09-推荐-聊聊spring事务失效的12种场景，太坑了](https://toutiao.io/k/uf6yk96) 
+- [2022-01-09-推荐-画架构图的神器](https://toutiao.io/k/4773s9p) 
+- [2022-01-09-推荐-2021年美团技术团队最受欢迎的22篇技术文章](https://toutiao.io/k/pjse55y) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-01-09 12:59:19。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-01-09 13:11:16。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,14 +68,14 @@
 </summary>
 
 
-- [【武汉肺炎防疫全纪录(财新网)】2022-01-09-1月8日全国新增新冠165例-五省份本土92例](https://m.caixin.com/m/2022-01-09/101827762.html) 
+- [【武汉肺炎防疫全纪录(财新网)】2022-01-09-最新疫情：全国新冠累计确诊103619例-累计接种新冠疫苗超28.94亿剂次](https://m.caixin.com/m/2022-01-09/101827846.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2022-01-09-河南许昌禹州疫情与郑州同源-安阳新增确诊14例](https://china.caixin.com/m/2022-01-09/101827835.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2022-01-09-本土奥密克戎终现天津-已启动全市新冠核检](https://m.caixin.com/m/2022-01-09/101827751.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2022-01-09-视线｜天津启动全员核酸检测-菜场人增多-部分菜摊蔬菜售罄](https://photos.caixin.com/m/2022-01-09/101827796.html) 
+- [【武汉肺炎防疫全纪录(财新网)】2022-01-09-最新海外疫情：新冠感染超3.04亿-累计接种新冠疫苗超93.74亿剂次](https://m.caixin.com/m/2022-01-09/101827843.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2022-01-09-天津示20例阳性感染者详情-15例为中小学生](https://m.caixin.com/m/2022-01-09/101827759.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2022-01-09-【境内疫情观察】全国新增92例本土病例（1月8日）](https://database.caixin.com/m/2022-01-09/101827816.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2022-01-09-印度病例一周激增5倍-南非敦促加强疫苗接种｜大流行手记（1月8日）](https://m.caixin.com/m/2022-01-09/101827788.html) 
-- [【武汉肺炎防疫全纪录(财新网)】2022-01-08-最新海外疫情：新冠感染超3.02亿-累计接种新冠疫苗超93.4亿剂次](https://m.caixin.com/m/2022-01-08/101827709.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2022-01-08-天津至8日21时现20名新冠阳性-已至少传播三代](https://m.caixin.com/m/2022-01-08/101827665.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2022-01-08-深圳病例感染德尔塔毒株-莞惠临深地区全员核酸检测](https://m.caixin.com/m/2022-01-08/101827491.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2022-01-08-【境内疫情观察】全国新增95例本土病例（1月7日）](https://database.caixin.com/m/2022-01-08/101827675.html) 
@@ -121,6 +121,7 @@
 - [【武汉肺炎防疫全纪录(财新网)】2022-01-01-【境内疫情观察】陕西新增174例本土病例（12月31日）](https://database.caixin.com/m/2022-01-01/101825023.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2022-01-01-英国重启临时医院，多国医疗系统承压｜大流行手记（12月31日）](https://m.caixin.com/m/2022-01-01/101824902.html) 
 - [【阮一峰的网络日志】2022-01-07-科技爱好者周刊（第-191-期）：一个程序员的财务独立之路](http://www.ruanyifeng.com/blog/2022/01/weekly-issue-191.html) 
+- [【V2EX】2022-01-09-马上-22-了，跑路的办法有什么呢？](https://www.v2ex.com/t/827171) 
 - [【V2EX】2022-01-09-MBP-2013-坏了，还有什么用？](https://www.v2ex.com/t/827167) 
 - [【V2EX】2022-01-09-我用双网卡被网管发现了](https://www.v2ex.com/t/827166) 
 - [【V2EX】2022-01-09-挪威🇳🇴工作](https://www.v2ex.com/t/827165) 
@@ -151,8 +152,6 @@
 - [【V2EX】2022-01-09-机器学习大牛很少有数学专业，甚之应用数学专业的都少见。为什么？](https://www.v2ex.com/t/827126) 
 - [【V2EX】2022-01-09-远程全国全职-Android-工程师](https://www.v2ex.com/t/827125) 
 - [【V2EX】2022-01-09-慰问住院的朋友，送点什么好？](https://www.v2ex.com/t/827123) 
-- [【V2EX】2022-01-09-腾讯会议网络问题后自动开麦](https://www.v2ex.com/t/827121) 
-- [【V2EX】2022-01-09-手表浏览器-王婆卖瓜系列-Apple-Watch-软件](https://www.v2ex.com/t/827120) 
 - [【技术头条】2022-01-09-Ghost-in-the-Log4Shell-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14886&url=https%3A%2F%2Finsights.thoughtworks.cn%2Flog4j-log4shell%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-01-09-敏捷变革中，如何让你的第三空间更有吸引力？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14885&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fagile-organization-transformation-third-space%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-01-09-浅谈开发者友好的软件设计-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14884&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fdeveloper-friendly-software-design%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -183,16 +182,16 @@
 - [【开发者头条】2022-01-09-Apache-Flink-不止于计算，数仓架构或兴起新一轮变革](https://toutiao.io/k/ms9ezyh) 
 - [【开发者头条】2022-01-09-Chrome-浏览器全球大翻车？让-20-多亿用户无网可上](https://toutiao.io/k/xsxvcd2) 
 - [【开发者头条】2022-01-09-解读Go语言的2021：稳定为王](https://toutiao.io/k/q6q2cnj) 
-- [【开发者头条】2022-01-09-推荐-画架构图的神器](https://toutiao.io/k/4773s9p) 
-- [【开发者头条】2022-01-09-推荐-面渣逆袭：JVM经典五十问，这下面试稳了！](https://toutiao.io/k/wideaab) 
 - [【开发者头条】2022-01-09-推荐-2022新年伊始，送你百篇干货文章](https://toutiao.io/k/kchudkd) 
-- [【开发者头条】2022-01-09-推荐-非常哇塞的-ES读场景、写场景-性能优化指南！你值得拥有！](https://toutiao.io/k/5pjb28q) 
-- [【开发者头条】2022-01-09-推荐-2021年美团技术团队最受欢迎的22篇技术文章](https://toutiao.io/k/pjse55y) 
-- [【开发者头条】2022-01-09-推荐-登录态-&-SSO](https://toutiao.io/k/vjcw3vh) 
-- [【开发者头条】2022-01-09-推荐-聊聊spring事务失效的12种场景，太坑了](https://toutiao.io/k/uf6yk96) 
-- [【开发者头条】2022-01-09-推荐-再见-Typora！推荐一个-2.3-万-Star-的开源-Markdown-编辑器](https://toutiao.io/k/ol8ule0) 
-- [【开发者头条】2022-01-09-推荐-WhatsApp系统架构](https://toutiao.io/k/7dt7oe2) 
 - [【开发者头条】2022-01-09-推荐-白话linux操作系统原理](https://toutiao.io/k/zgc47l7) 
+- [【开发者头条】2022-01-09-推荐-聊聊spring事务失效的12种场景，太坑了](https://toutiao.io/k/uf6yk96) 
+- [【开发者头条】2022-01-09-推荐-2021年美团技术团队最受欢迎的22篇技术文章](https://toutiao.io/k/pjse55y) 
+- [【开发者头条】2022-01-09-推荐-面渣逆袭：JVM经典五十问，这下面试稳了！](https://toutiao.io/k/wideaab) 
+- [【开发者头条】2022-01-09-推荐-再见-Typora！推荐一个-2.3-万-Star-的开源-Markdown-编辑器](https://toutiao.io/k/ol8ule0) 
+- [【开发者头条】2022-01-09-推荐-登录态-&-SSO](https://toutiao.io/k/vjcw3vh) 
+- [【开发者头条】2022-01-09-推荐-画架构图的神器](https://toutiao.io/k/4773s9p) 
+- [【开发者头条】2022-01-09-推荐-非常哇塞的-ES读场景、写场景-性能优化指南！你值得拥有！](https://toutiao.io/k/5pjb28q) 
+- [【开发者头条】2022-01-09-推荐-WhatsApp系统架构](https://toutiao.io/k/7dt7oe2) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

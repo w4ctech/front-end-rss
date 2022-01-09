@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-01-09 13:23:40。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-01-09 13:37:05。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1584,6 +1584,7 @@
 - [2022-01-07-科技爱好者周刊（第-191-期）：一个程序员的财务独立之路](http://www.ruanyifeng.com/blog/2022/01/weekly-issue-191.html) 
 - [2021-12-31-科技爱好者周刊（第-190-期）：产品化思维](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-190.html) 
 - [2021-12-24-科技爱好者周刊（第-189-期）：下一个内卷的行业](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-189.html) 
+- [2022-01-09-几天前自己的小米手环-5-腕带断了，想从官网买条原装的换上，却看到许多“买了又断”的评论，不甘心再看了京东商品，这才明白同事那句“我自己配的米兰尼斯腕带...](https://www.v2ex.com/t/827174) 
 - [2022-01-09-电池循环-50-次健康度就-89-了这正常么](https://www.v2ex.com/t/827172) 
 - [2022-01-09-马上-22-了，跑路的办法有什么呢？](https://www.v2ex.com/t/827171) 
 - [2022-01-09-MBP-2013-坏了，还有什么用？](https://www.v2ex.com/t/827167) 
@@ -1609,7 +1610,6 @@
 - [2022-01-09-天气网的历史天气是否可靠？](https://www.v2ex.com/t/827130) 
 - [2022-01-09-机器学习大牛很少有数学专业，甚之应用数学专业的都少见。为什么？](https://www.v2ex.com/t/827126) 
 - [2022-01-09-远程全国全职-Android-工程师](https://www.v2ex.com/t/827125) 
-- [2022-01-09-慰问住院的朋友，送点什么好？](https://www.v2ex.com/t/827123) 
 - [2022-01-09-Ghost-in-the-Log4Shell-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14886&url=https%3A%2F%2Finsights.thoughtworks.cn%2Flog4j-log4shell%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-01-09-敏捷变革中，如何让你的第三空间更有吸引力？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14885&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fagile-organization-transformation-third-space%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-01-09-浅谈开发者友好的软件设计-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14884&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fdeveloper-friendly-software-design%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1636,10 +1636,10 @@
 - [2022-01-09-Apache-Flink-不止于计算，数仓架构或兴起新一轮变革](https://toutiao.io/k/ms9ezyh) 
 - [2022-01-09-解读Go语言的2021：稳定为王](https://toutiao.io/k/q6q2cnj) 
 - [2022-01-09-推荐-再见-Typora！推荐一个-2.3-万-Star-的开源-Markdown-编辑器](https://toutiao.io/k/ol8ule0) 
-- [2022-01-09-推荐-2021年美团技术团队最受欢迎的22篇技术文章](https://toutiao.io/k/pjse55y) 
-- [2022-01-09-推荐-聊聊spring事务失效的12种场景，太坑了](https://toutiao.io/k/uf6yk96) 
-- [2022-01-09-推荐-画架构图的神器](https://toutiao.io/k/4773s9p) 
-- [2022-01-09-推荐-白话linux操作系统原理](https://toutiao.io/k/zgc47l7) 
-- [2022-01-09-推荐-登录态-&-SSO](https://toutiao.io/k/vjcw3vh) 
-- [2022-01-09-推荐-2022新年伊始，送你百篇干货文章](https://toutiao.io/k/kchudkd) 
 - [2022-01-09-推荐-WhatsApp系统架构](https://toutiao.io/k/7dt7oe2) 
+- [2022-01-09-推荐-白话linux操作系统原理](https://toutiao.io/k/zgc47l7) 
+- [2022-01-09-推荐-2022新年伊始，送你百篇干货文章](https://toutiao.io/k/kchudkd) 
+- [2022-01-09-推荐-画架构图的神器](https://toutiao.io/k/4773s9p) 
+- [2022-01-09-推荐-聊聊spring事务失效的12种场景，太坑了](https://toutiao.io/k/uf6yk96) 
+- [2022-01-09-推荐-登录态-&-SSO](https://toutiao.io/k/vjcw3vh) 
+- [2022-01-09-推荐-2021年美团技术团队最受欢迎的22篇技术文章](https://toutiao.io/k/pjse55y) 

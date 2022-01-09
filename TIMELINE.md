@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-01-09 15:12:53。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-01-09 15:22:57。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -121,6 +121,9 @@
 - [【武汉肺炎防疫全纪录(财新网)】2022-01-01-【境内疫情观察】陕西新增174例本土病例（12月31日）](https://database.caixin.com/m/2022-01-01/101825023.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2022-01-01-英国重启临时医院，多国医疗系统承压｜大流行手记（12月31日）](https://m.caixin.com/m/2022-01-01/101824902.html) 
 - [【阮一峰的网络日志】2022-01-07-科技爱好者周刊（第-191-期）：一个程序员的财务独立之路](http://www.ruanyifeng.com/blog/2022/01/weekly-issue-191.html) 
+- [【V2EX】2022-01-09-使用-Apple-pay-开通交通卡是否会透露银行卡号](https://www.v2ex.com/t/827191) 
+- [【V2EX】2022-01-09-高中小伙用粤语编程语言自制-2D-游戏,已发布-itch-可供下载](https://www.v2ex.com/t/827189) 
+- [【V2EX】2022-01-09-ios-上有没有好用的可添加时间位置水印的相机](https://www.v2ex.com/t/827188) 
 - [【V2EX】2022-01-09-高德地图-CarPlay-频繁闪退](https://www.v2ex.com/t/827187) 
 - [【V2EX】2022-01-09-个人博客的新文章，关于-Windows-下的随机接口标识符和临时地址。](https://www.v2ex.com/t/827186) 
 - [【V2EX】2022-01-09-vite-应该怎么学？](https://www.v2ex.com/t/827185) 
@@ -151,8 +154,6 @@
 - [【V2EX】2022-01-09-石墨打开-20w-字的文本有点慢，-ssr-能让编辑器的长文本渲染变快一点吗？](https://www.v2ex.com/t/827144) 
 - [【V2EX】2022-01-09-Apple-准时在周日-9:08-给我推送一周的屏幕使用时间报告](https://www.v2ex.com/t/827143) 
 - [【V2EX】2022-01-09-c++哈希表的问题](https://www.v2ex.com/t/827142) 
-- [【V2EX】2022-01-09-请问锂电池的充电宝平时放车里有啥风险吗？](https://www.v2ex.com/t/827141) 
-- [【V2EX】2022-01-09-欧版-MIUI13-的-Google-Play-服务也被阉割了？](https://www.v2ex.com/t/827138) 
 - [【技术头条】2022-01-09-用Python做一个游戏辅助脚本！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14893&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247492993%26amp%3Bidx%3D2%26amp%3Bsn%3D67230660b390f06f5584792da10b1078%26amp%3Bchksm%3Dfa3f04dacd488dccec0f68b1534821b98dde1730e4970ca0629239bd3275199e72af4b3c8771%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-01-09-阿里巴巴为什么能抗住90秒100亿？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14892&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247492963%26amp%3Bidx%3D1%26amp%3Bsn%3Dc055d55af2f4efdf70718c31e2b15ec9%26amp%3Bchksm%3Dfa3f0438cd488d2e2f70ee7dd5bb2751f5ec496ad010734777adaa544841a94c6f3fad2dffa0%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-01-09-常见代码重构技巧（非常实用）-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14891&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247492963%26amp%3Bidx%3D2%26amp%3Bsn%3D2ede8b39036a54cdad26ef35d74d7dcc%26amp%3Bchksm%3Dfa3f0438cd488d2ec7349ea9860d3987c3259afc12eb8a46a9569a41a3e0bc2f71ef10854d6c%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -183,16 +184,16 @@
 - [【开发者头条】2022-01-09-Apache-Flink-不止于计算，数仓架构或兴起新一轮变革](https://toutiao.io/k/ms9ezyh) 
 - [【开发者头条】2022-01-09-解读Go语言的2021：稳定为王](https://toutiao.io/k/q6q2cnj) 
 - [【开发者头条】2022-01-09-Chrome-浏览器全球大翻车？让-20-多亿用户无网可上](https://toutiao.io/k/xsxvcd2) 
-- [【开发者头条】2022-01-09-推荐-非常哇塞的-ES读场景、写场景-性能优化指南！你值得拥有！](https://toutiao.io/k/5pjb28q) 
+- [【开发者头条】2022-01-09-推荐-2022新年伊始，送你百篇干货文章](https://toutiao.io/k/kchudkd) 
+- [【开发者头条】2022-01-09-推荐-面渣逆袭：JVM经典五十问，这下面试稳了！](https://toutiao.io/k/wideaab) 
 - [【开发者头条】2022-01-09-推荐-登录态-&-SSO](https://toutiao.io/k/vjcw3vh) 
 - [【开发者头条】2022-01-09-推荐-画架构图的神器](https://toutiao.io/k/4773s9p) 
-- [【开发者头条】2022-01-09-推荐-聊聊spring事务失效的12种场景，太坑了](https://toutiao.io/k/uf6yk96) 
-- [【开发者头条】2022-01-09-推荐-WhatsApp系统架构](https://toutiao.io/k/7dt7oe2) 
-- [【开发者头条】2022-01-09-推荐-白话linux操作系统原理](https://toutiao.io/k/zgc47l7) 
 - [【开发者头条】2022-01-09-推荐-再见-Typora！推荐一个-2.3-万-Star-的开源-Markdown-编辑器](https://toutiao.io/k/ol8ule0) 
-- [【开发者头条】2022-01-09-推荐-2022新年伊始，送你百篇干货文章](https://toutiao.io/k/kchudkd) 
+- [【开发者头条】2022-01-09-推荐-WhatsApp系统架构](https://toutiao.io/k/7dt7oe2) 
+- [【开发者头条】2022-01-09-推荐-非常哇塞的-ES读场景、写场景-性能优化指南！你值得拥有！](https://toutiao.io/k/5pjb28q) 
 - [【开发者头条】2022-01-09-推荐-2021年美团技术团队最受欢迎的22篇技术文章](https://toutiao.io/k/pjse55y) 
-- [【开发者头条】2022-01-09-推荐-面渣逆袭：JVM经典五十问，这下面试稳了！](https://toutiao.io/k/wideaab) 
+- [【开发者头条】2022-01-09-推荐-聊聊spring事务失效的12种场景，太坑了](https://toutiao.io/k/uf6yk96) 
+- [【开发者头条】2022-01-09-推荐-白话linux操作系统原理](https://toutiao.io/k/zgc47l7) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

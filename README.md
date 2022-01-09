@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-09 05:39:08，:rocket: 更新条数: +1689， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-09 05:54:54，:rocket: 更新条数: +1690， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -67,14 +67,15 @@
 
 - [2022-01-09-1月8日全国新增新冠165例-五省份本土92例](https://m.caixin.com/m/2022-01-09/101827762.html) ![](assets/new.png)  
 - [2022-01-09-本土奥密克戎终现天津-已启动全市新冠核检](https://m.caixin.com/m/2022-01-09/101827751.html) ![](assets/new.png)  
+- [2022-01-09-视线｜天津启动全员核酸检测-菜场人增多-部分菜摊蔬菜售罄](https://photos.caixin.com/m/2022-01-09/101827796.html) ![](assets/new.png)  
 - [2022-01-09-天津示20例阳性感染者详情-15例为中小学生](https://m.caixin.com/m/2022-01-09/101827759.html) ![](assets/new.png)  
 - [2022-01-09-印度病例一周激增5倍-南非敦促加强疫苗接种｜大流行手记（1月8日）](https://m.caixin.com/m/2022-01-09/101827788.html) ![](assets/new.png)  
-- [2022-01-08-张文宏：奥密克戎不是大号流感，要加强疫苗屏障](https://opinion.caixin.com/m/2022-01-08/101827720.html) ![](assets/new.png)  
 - [2022-01-08-最新海外疫情：新冠感染超3.02亿-累计接种新冠疫苗超93.4亿剂次](https://m.caixin.com/m/2022-01-08/101827709.html) ![](assets/new.png)  
 - [2022-01-08-天津至8日21时现20名新冠阳性-已至少传播三代](https://m.caixin.com/m/2022-01-08/101827665.html) ![](assets/new.png)  
 - [2022-01-08-深圳病例感染德尔塔毒株-莞惠临深地区全员核酸检测](https://m.caixin.com/m/2022-01-08/101827491.html) ![](assets/new.png)  
 - [2022-01-08-【境内疫情观察】全国新增95例本土病例（1月7日）](https://database.caixin.com/m/2022-01-08/101827675.html) ![](assets/new.png)  
 - [2022-01-08-美国住院人数或刷新记录-英军方协助医院｜大流行手记（1月7日）](https://m.caixin.com/m/2022-01-08/101827528.html) ![](assets/new.png)  
+- [2022-01-08-张文宏：奥密克戎不是大号流感，要加强疫苗屏障](https://opinion.caixin.com/m/2022-01-08/101827720.html) ![](assets/new.png)  
 - [2022-01-07-香港政界大型生日会现两宗确诊-霍启刚等20名议员需入住检疫营](https://m.caixin.com/m/2022-01-07/101827434.html) ![](assets/new.png)  
 - [2022-01-07-西安累计确诊1913人治愈112人-将严查拒诊、推诿患者行为](https://m.caixin.com/m/2022-01-07/101827334.html) ![](assets/new.png)  
 - [2022-01-07-河南新增病例数逼近陕西-已波及三省8市](https://m.caixin.com/m/2022-01-07/101827266.html) ![](assets/new.png)  
@@ -84,7 +85,6 @@
 - [2022-01-07-港府多名官员参加逾百人生日会-政府大楼连夜全面消毒](https://m.caixin.com/m/2022-01-07/101826827.html) ![](assets/new.png)  
 - [2022-01-07-【境内疫情观察】全国新增116例本土病例（1月6日）](https://database.caixin.com/m/2022-01-07/101827254.html) ![](assets/new.png)  
 - [2022-01-07-研究称印尼85%人口已有抗体-多国检测阳性率超20%｜大流行手记（1月6日）](https://m.caixin.com/m/2022-01-07/101826886.html) ![](assets/new.png)  
-- [2022-01-06-西安“一码通”一月内两度崩溃，谁之责？](https://m.caixin.com/m/2022-01-06/101826373.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -494,6 +494,9 @@
 </summary>
 
 
+- [2022-01-09-小公司群晖-DS920+的硬件搭配咨询](https://www.v2ex.com/t/827116) ![](assets/new.png)  
+- [2022-01-09-最近各位微信有总卡死的情况么](https://www.v2ex.com/t/827115) ![](assets/new.png)  
+- [2022-01-09-你们是怎么将-iPhone-照片导入至移动硬盘的？](https://www.v2ex.com/t/827114) ![](assets/new.png)  
 - [2022-01-09-JAPAN-互助交流群](https://www.v2ex.com/t/827113) ![](assets/new.png)  
 - [2022-01-09-想做个剪贴板同步的程序，请大家来看看我的想法吧](https://www.v2ex.com/t/827112) ![](assets/new.png)  
 - [2022-01-09-请教一个算法/方案？](https://www.v2ex.com/t/827111) ![](assets/new.png)  
@@ -511,9 +514,6 @@
 - [2022-01-09-空格的符号（就是中括号""躺地上脸朝上）怎么打出来？](https://www.v2ex.com/t/827094) ![](assets/new.png)  
 - [2022-01-09-视频分享:-精致的精装修-40-平米小屋，从老外对于装修的品味可以看出对高生活质量的追求。看的心潮澎湃，也许这就是梦想吧。](https://www.v2ex.com/t/827093) ![](assets/new.png)  
 - [2022-01-09-12-代处理器黑苹果预算和配置参考](https://www.v2ex.com/t/827092) ![](assets/new.png)  
-- [2022-01-09-有道云笔记挂了](https://www.v2ex.com/t/827091) ![](assets/new.png)  
-- [2022-01-09-求助，想看各类网球比赛视频，有什么软件推荐么，收费免费都可以](https://www.v2ex.com/t/827090) ![](assets/new.png)  
-- [2022-01-09-每次-homebrew-装东西都怕断了](https://www.v2ex.com/t/827088) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -557,22 +557,22 @@
 
 
 - [2022-01-09-2022-年来了！抓紧啦！](https://toutiao.io/k/rf8ezjy) ![](assets/new.png)  
-- [2022-01-09-Python再获年度编程语言，微软或成最大赢家](https://toutiao.io/k/22vru46) ![](assets/new.png)  
 - [2022-01-09-一文读懂蓝绿发布、A/B-测试和金丝雀发布的优缺点](https://toutiao.io/k/dd76ptd) ![](assets/new.png)  
+- [2022-01-09-Python再获年度编程语言，微软或成最大赢家](https://toutiao.io/k/22vru46) ![](assets/new.png)  
 - [2022-01-09-Hbase构建二级索引的一些解决方案](https://toutiao.io/k/m6v0i1g) ![](assets/new.png)  
 - [2022-01-09-Chrome-浏览器全球大翻车？让-20-多亿用户无网可上](https://toutiao.io/k/xsxvcd2) ![](assets/new.png)  
 - [2022-01-09-王欢：如何构建好的智能风控工具体系？](https://toutiao.io/k/rowjfmz) ![](assets/new.png)  
 - [2022-01-09-Apache-Flink-不止于计算，数仓架构或兴起新一轮变革](https://toutiao.io/k/ms9ezyh) ![](assets/new.png)  
-- [2022-01-09-推荐-白话linux操作系统原理](https://toutiao.io/k/zgc47l7) ![](assets/new.png)  
-- [2022-01-09-推荐-聊聊spring事务失效的12种场景，太坑了](https://toutiao.io/k/uf6yk96) ![](assets/new.png)  
 - [2022-01-09-推荐-登录态-&-SSO](https://toutiao.io/k/vjcw3vh) ![](assets/new.png)  
-- [2022-01-09-推荐-面渣逆袭：JVM经典五十问，这下面试稳了！](https://toutiao.io/k/wideaab) ![](assets/new.png)  
-- [2022-01-09-推荐-非常哇塞的-ES读场景、写场景-性能优化指南！你值得拥有！](https://toutiao.io/k/5pjb28q) ![](assets/new.png)  
 - [2022-01-09-推荐-2021年美团技术团队最受欢迎的22篇技术文章](https://toutiao.io/k/pjse55y) ![](assets/new.png)  
-- [2022-01-09-推荐-再见-Typora！推荐一个-2.3-万-Star-的开源-Markdown-编辑器](https://toutiao.io/k/ol8ule0) ![](assets/new.png)  
-- [2022-01-09-推荐-2022新年伊始，送你百篇干货文章](https://toutiao.io/k/kchudkd) ![](assets/new.png)  
-- [2022-01-09-推荐-画架构图的神器](https://toutiao.io/k/4773s9p) ![](assets/new.png)  
+- [2022-01-09-推荐-白话linux操作系统原理](https://toutiao.io/k/zgc47l7) ![](assets/new.png)  
 - [2022-01-09-推荐-WhatsApp系统架构](https://toutiao.io/k/7dt7oe2) ![](assets/new.png)  
+- [2022-01-09-推荐-再见-Typora！推荐一个-2.3-万-Star-的开源-Markdown-编辑器](https://toutiao.io/k/ol8ule0) ![](assets/new.png)  
+- [2022-01-09-推荐-面渣逆袭：JVM经典五十问，这下面试稳了！](https://toutiao.io/k/wideaab) ![](assets/new.png)  
+- [2022-01-09-推荐-画架构图的神器](https://toutiao.io/k/4773s9p) ![](assets/new.png)  
+- [2022-01-09-推荐-2022新年伊始，送你百篇干货文章](https://toutiao.io/k/kchudkd) ![](assets/new.png)  
+- [2022-01-09-推荐-聊聊spring事务失效的12种场景，太坑了](https://toutiao.io/k/uf6yk96) ![](assets/new.png)  
+- [2022-01-09-推荐-非常哇塞的-ES读场景、写场景-性能优化指南！你值得拥有！](https://toutiao.io/k/5pjb28q) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

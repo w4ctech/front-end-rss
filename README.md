@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-09 02:07:17，:rocket: 更新条数: +1690， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-09 02:20:55，:rocket: 更新条数: +1689， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,8 @@
 </summary>
 
 
+- [2022-01-09-深圳工业互联网已上市云计算-PaaS-开发](https://www.v2ex.com/t/827085) ![](assets/new.png)  
+- [2022-01-09-有哪些可以跨城市生活的工作？](https://www.v2ex.com/t/827084) ![](assets/new.png)  
 - [2022-01-09-一个简单好用的命令行-todo-工具（兼周期提醒计划）](https://www.v2ex.com/t/827083) ![](assets/new.png)  
 - [2022-01-09-现在应用广泛社区活跃且与-Typescript-相性最好的后端框架是-Nest.js-吗？](https://www.v2ex.com/t/827082) ![](assets/new.png)  
 - [2022-01-09-大家内网穿透有没有用-Tailscale-或者类似软件？有些问题来讨论下](https://www.v2ex.com/t/827081) ![](assets/new.png)  
@@ -512,8 +514,6 @@
 - [2022-01-08-这分布式计算怎么和我想的不一样](https://www.v2ex.com/t/827065) ![](assets/new.png)  
 - [2022-01-08-深圳全职大宇无限-Android，-Java-后端，-Web-前端，-SRE，产品经理，运营大量-HC，欢迎大佬们前来咨询！](https://www.v2ex.com/t/827064) ![](assets/new.png)  
 - [2022-01-08-菜鸡问一个-git-的使用问题](https://www.v2ex.com/t/827063) ![](assets/new.png)  
-- [2022-01-08-这个-FSCapture-中国代理是真的还是假的](https://www.v2ex.com/t/827062) ![](assets/new.png)  
-- [2022-01-08-人死了有灵魂吗](https://www.v2ex.com/t/827060) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -563,17 +563,16 @@
 - [2022-01-09-一文读懂蓝绿发布、A/B-测试和金丝雀发布的优缺点](https://toutiao.io/k/dd76ptd) ![](assets/new.png)  
 - [2022-01-09-王欢：如何构建好的智能风控工具体系？](https://toutiao.io/k/rowjfmz) ![](assets/new.png)  
 - [2022-01-09-Apache-Flink-不止于计算，数仓架构或兴起新一轮变革](https://toutiao.io/k/ms9ezyh) ![](assets/new.png)  
-- [2022-01-09-Bilibili高可用架构【B-站在云+社区沙龙分享干货】](https://toutiao.io/k/xrl3g2o) ![](assets/new.png)  
-- [2022-01-09-推荐-非常哇塞的-ES读场景、写场景-性能优化指南！你值得拥有！](https://toutiao.io/k/5pjb28q) ![](assets/new.png)  
+- [2022-01-09-推荐-登录态-&-SSO](https://toutiao.io/k/vjcw3vh) ![](assets/new.png)  
+- [2022-01-09-推荐-WhatsApp系统架构](https://toutiao.io/k/7dt7oe2) ![](assets/new.png)  
 - [2022-01-09-推荐-再见-Typora！推荐一个-2.3-万-Star-的开源-Markdown-编辑器](https://toutiao.io/k/ol8ule0) ![](assets/new.png)  
-- [2022-01-09-推荐-画架构图的神器](https://toutiao.io/k/4773s9p) ![](assets/new.png)  
-- [2022-01-09-推荐-2021年美团技术团队最受欢迎的22篇技术文章](https://toutiao.io/k/pjse55y) ![](assets/new.png)  
+- [2022-01-09-推荐-白话linux操作系统原理](https://toutiao.io/k/zgc47l7) ![](assets/new.png)  
+- [2022-01-09-推荐-非常哇塞的-ES读场景、写场景-性能优化指南！你值得拥有！](https://toutiao.io/k/5pjb28q) ![](assets/new.png)  
+- [2022-01-09-推荐-聊聊spring事务失效的12种场景，太坑了](https://toutiao.io/k/uf6yk96) ![](assets/new.png)  
 - [2022-01-09-推荐-面渣逆袭：JVM经典五十问，这下面试稳了！](https://toutiao.io/k/wideaab) ![](assets/new.png)  
 - [2022-01-09-推荐-2022新年伊始，送你百篇干货文章](https://toutiao.io/k/kchudkd) ![](assets/new.png)  
-- [2022-01-09-推荐-白话linux操作系统原理](https://toutiao.io/k/zgc47l7) ![](assets/new.png)  
-- [2022-01-09-推荐-WhatsApp系统架构](https://toutiao.io/k/7dt7oe2) ![](assets/new.png)  
-- [2022-01-09-推荐-聊聊spring事务失效的12种场景，太坑了](https://toutiao.io/k/uf6yk96) ![](assets/new.png)  
-- [2022-01-09-推荐-登录态-&-SSO](https://toutiao.io/k/vjcw3vh) ![](assets/new.png)  
+- [2022-01-09-推荐-画架构图的神器](https://toutiao.io/k/4773s9p) ![](assets/new.png)  
+- [2022-01-09-推荐-2021年美团技术团队最受欢迎的22篇技术文章](https://toutiao.io/k/pjse55y) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

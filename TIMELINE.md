@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-01-09 02:07:17。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-01-09 02:20:55。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -117,6 +117,8 @@
 - [【武汉肺炎防疫全纪录(财新网)】2022-01-01-【境内疫情观察】陕西新增174例本土病例（12月31日）](https://database.caixin.com/m/2022-01-01/101825023.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2022-01-01-英国重启临时医院，多国医疗系统承压｜大流行手记（12月31日）](https://m.caixin.com/m/2022-01-01/101824902.html) 
 - [【阮一峰的网络日志】2022-01-07-科技爱好者周刊（第-191-期）：一个程序员的财务独立之路](http://www.ruanyifeng.com/blog/2022/01/weekly-issue-191.html) 
+- [【V2EX】2022-01-09-深圳工业互联网已上市云计算-PaaS-开发](https://www.v2ex.com/t/827085) 
+- [【V2EX】2022-01-09-有哪些可以跨城市生活的工作？](https://www.v2ex.com/t/827084) 
 - [【V2EX】2022-01-09-一个简单好用的命令行-todo-工具（兼周期提醒计划）](https://www.v2ex.com/t/827083) 
 - [【V2EX】2022-01-09-现在应用广泛社区活跃且与-Typescript-相性最好的后端框架是-Nest.js-吗？](https://www.v2ex.com/t/827082) 
 - [【V2EX】2022-01-09-大家内网穿透有没有用-Tailscale-或者类似软件？有些问题来讨论下](https://www.v2ex.com/t/827081) 
@@ -156,8 +158,6 @@
 - [【V2EX】2022-01-08-2022-年大家有什么投资/理财想法吗](https://www.v2ex.com/t/827038) 
 - [【V2EX】2022-01-08-数据分析在网络安全行业有哪些比较有优势的应用？](https://www.v2ex.com/t/827037) 
 - [【V2EX】2022-01-08-又买了个-70-块钱的-USB-HDMI-采集卡](https://www.v2ex.com/t/827036) 
-- [【V2EX】2022-01-08-出一期-NAT-的科普视频，演示了-Zerotier-内网穿透的操作](https://www.v2ex.com/t/827035) 
-- [【V2EX】2022-01-08-CSGO-5E-对战平台用-cmd-运行会生成日志文件](https://www.v2ex.com/t/827034) 
 - [【技术头条】2022-01-09-Ghost-in-the-Log4Shell-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14886&url=https%3A%2F%2Finsights.thoughtworks.cn%2Flog4j-log4shell%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-01-09-敏捷变革中，如何让你的第三空间更有吸引力？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14885&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fagile-organization-transformation-third-space%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-01-09-浅谈开发者友好的软件设计-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14884&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fdeveloper-friendly-software-design%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -185,17 +185,16 @@
 - [【开发者头条】2022-01-09-一文读懂蓝绿发布、A/B-测试和金丝雀发布的优缺点](https://toutiao.io/k/dd76ptd) 
 - [【开发者头条】2022-01-09-王欢：如何构建好的智能风控工具体系？](https://toutiao.io/k/rowjfmz) 
 - [【开发者头条】2022-01-09-Apache-Flink-不止于计算，数仓架构或兴起新一轮变革](https://toutiao.io/k/ms9ezyh) 
-- [【开发者头条】2022-01-09-Bilibili高可用架构【B-站在云+社区沙龙分享干货】](https://toutiao.io/k/xrl3g2o) 
-- [【开发者头条】2022-01-09-推荐-非常哇塞的-ES读场景、写场景-性能优化指南！你值得拥有！](https://toutiao.io/k/5pjb28q) 
+- [【开发者头条】2022-01-09-推荐-登录态-&-SSO](https://toutiao.io/k/vjcw3vh) 
+- [【开发者头条】2022-01-09-推荐-WhatsApp系统架构](https://toutiao.io/k/7dt7oe2) 
 - [【开发者头条】2022-01-09-推荐-再见-Typora！推荐一个-2.3-万-Star-的开源-Markdown-编辑器](https://toutiao.io/k/ol8ule0) 
-- [【开发者头条】2022-01-09-推荐-画架构图的神器](https://toutiao.io/k/4773s9p) 
-- [【开发者头条】2022-01-09-推荐-2021年美团技术团队最受欢迎的22篇技术文章](https://toutiao.io/k/pjse55y) 
+- [【开发者头条】2022-01-09-推荐-白话linux操作系统原理](https://toutiao.io/k/zgc47l7) 
+- [【开发者头条】2022-01-09-推荐-非常哇塞的-ES读场景、写场景-性能优化指南！你值得拥有！](https://toutiao.io/k/5pjb28q) 
+- [【开发者头条】2022-01-09-推荐-聊聊spring事务失效的12种场景，太坑了](https://toutiao.io/k/uf6yk96) 
 - [【开发者头条】2022-01-09-推荐-面渣逆袭：JVM经典五十问，这下面试稳了！](https://toutiao.io/k/wideaab) 
 - [【开发者头条】2022-01-09-推荐-2022新年伊始，送你百篇干货文章](https://toutiao.io/k/kchudkd) 
-- [【开发者头条】2022-01-09-推荐-白话linux操作系统原理](https://toutiao.io/k/zgc47l7) 
-- [【开发者头条】2022-01-09-推荐-WhatsApp系统架构](https://toutiao.io/k/7dt7oe2) 
-- [【开发者头条】2022-01-09-推荐-聊聊spring事务失效的12种场景，太坑了](https://toutiao.io/k/uf6yk96) 
-- [【开发者头条】2022-01-09-推荐-登录态-&-SSO](https://toutiao.io/k/vjcw3vh) 
+- [【开发者头条】2022-01-09-推荐-画架构图的神器](https://toutiao.io/k/4773s9p) 
+- [【开发者头条】2022-01-09-推荐-2021年美团技术团队最受欢迎的22篇技术文章](https://toutiao.io/k/pjse55y) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

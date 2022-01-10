@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-10 03:24:49，:rocket: 更新条数: +1689， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-10 03:43:17，:rocket: 更新条数: +1691， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -66,7 +66,7 @@
 
 
 - [2022-01-10-1月9日全国新增新冠157例-四省份本土97例](https://m.caixin.com/m/2022-01-10/101827900.html) ![](assets/new.png)  
-- [2022-01-10-河南安阳病例与天津津南区现有疫情属同一传播链](https://m.caixin.com/m/2022-01-10/101827909.html) ![](assets/new.png)  
+- [2022-01-10-河南安阳疫情与天津同源-系奥密克戎](https://m.caixin.com/m/2022-01-10/101827909.html) ![](assets/new.png)  
 - [2022-01-10-菲律宾检测阳性率近45%，以色列推动家庭新冠自查｜大流行手记（1月9日）](https://m.caixin.com/m/2022-01-10/101827923.html) ![](assets/new.png)  
 - [2022-01-09-天津再增20例阳性感染者-京津来往加强防控管理](https://china.caixin.com/m/2022-01-09/101827875.html) ![](assets/new.png)  
 - [2022-01-09-视线｜天津启动全员核酸检测-菜场人增多-部分菜摊蔬菜售罄](https://photos.caixin.com/m/2022-01-09/101827796.html) ![](assets/new.png)  
@@ -494,6 +494,9 @@
 </summary>
 
 
+- [2022-01-10-（年前上车，年后到岗）云原生领域-Kubernetes，-Go，蚂蚁金服-#上海-#-杭州-#北京](https://www.v2ex.com/t/827269) ![](assets/new.png)  
+- [2022-01-10-万兆-smb-共享不达速](https://www.v2ex.com/t/827268) ![](assets/new.png)  
+- [2022-01-10-咨询一下冬天家里有用天然气锅炉地暖的吗，平均一天消耗多少升天然气？](https://www.v2ex.com/t/827264) ![](assets/new.png)  
 - [2022-01-10-有道词典（在线）改版了？](https://www.v2ex.com/t/827262) ![](assets/new.png)  
 - [2022-01-10-如何看待-QQ-监管后的第一次更新装上了-UE4？](https://www.v2ex.com/t/827261) ![](assets/new.png)  
 - [2022-01-10-进击的巨人最终季-part-2-更新了](https://www.v2ex.com/t/827260) ![](assets/new.png)  
@@ -511,9 +514,6 @@
 - [2022-01-10-在国企的运维，感觉干不下去了](https://www.v2ex.com/t/827241) ![](assets/new.png)  
 - [2022-01-10-你们会在简历中附上自己的私人博客吗？](https://www.v2ex.com/t/827240) ![](assets/new.png)  
 - [2022-01-10-V-友们，-iPhone-如何双开微信](https://www.v2ex.com/t/827238) ![](assets/new.png)  
-- [2022-01-10-迫于-2022-年到了，给父母买手机推荐哪家强呢？](https://www.v2ex.com/t/827237) ![](assets/new.png)  
-- [2022-01-10-英伟达-Nvidia-上海/北京-高级-Dev-Ops-工程师](https://www.v2ex.com/t/827236) ![](assets/new.png)  
-- [2022-01-10-看见大家在鄙视-QQ-的软件大小，有没有人记得夸克浏览器呢](https://www.v2ex.com/t/827235) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -560,22 +560,22 @@
 - [2022-01-10-用规则引擎让你一天上线十个需求](https://toutiao.io/k/ldd1cse) ![](assets/new.png)  
 - [2022-01-10-Python-超轻量级日志解决方案](https://toutiao.io/k/lupogxe) ![](assets/new.png)  
 - [2022-01-10-深入浅出-Spark：内存计算的由来](https://toutiao.io/k/blk5hm3) ![](assets/new.png)  
+- [2022-01-10-几行烂代码，我赔了16万。](https://toutiao.io/k/zkhoe39) ![](assets/new.png)  
 - [2022-01-10-30-分钟学会-SVD-矩阵分解（Python代码）](https://toutiao.io/k/hhp2snp) ![](assets/new.png)  
 - [2022-01-10-APISIX-Ingress-高级使用之-Url-Rewrite](https://toutiao.io/k/ola1s59) ![](assets/new.png)  
-- [2022-01-10-几行烂代码，我赔了16万。](https://toutiao.io/k/zkhoe39) ![](assets/new.png)  
 - [2022-01-10-京东到家业务网关介绍](https://toutiao.io/k/0a6ecnc) ![](assets/new.png)  
 - [2022-01-10-测试用例的作用](https://toutiao.io/k/8ylox42) ![](assets/new.png)  
 - [2022-01-10-视频数据训练太慢？试试UT-Austin&FAIR提出的多重网格训练，加速4.5倍，还能提点！](https://toutiao.io/k/k5mbhji) ![](assets/new.png)  
-- [2022-01-10-推荐-面渣逆袭：JVM经典五十问，这下面试稳了！](https://toutiao.io/k/wideaab) ![](assets/new.png)  
-- [2022-01-10-推荐-再见了-VMware，一款更轻量级的虚拟机！](https://toutiao.io/k/xw2lnva) ![](assets/new.png)  
 - [2022-01-10-推荐-2021年美团技术团队最受欢迎的22篇技术文章](https://toutiao.io/k/pjse55y) ![](assets/new.png)  
+- [2022-01-10-推荐-再见了-VMware，一款更轻量级的虚拟机！](https://toutiao.io/k/xw2lnva) ![](assets/new.png)  
 - [2022-01-10-推荐-聊聊spring事务失效的12种场景，太坑了](https://toutiao.io/k/uf6yk96) ![](assets/new.png)  
-- [2022-01-10-推荐-再见-Typora！推荐一个-2.3-万-Star-的开源-Markdown-编辑器](https://toutiao.io/k/ol8ule0) ![](assets/new.png)  
 - [2022-01-10-推荐-缓存一致性最佳实践](https://toutiao.io/k/ymscqc1) ![](assets/new.png)  
-- [2022-01-10-推荐-画架构图的神器](https://toutiao.io/k/4773s9p) ![](assets/new.png)  
-- [2022-01-10-推荐-2022新年伊始，送你百篇干货文章](https://toutiao.io/k/kchudkd) ![](assets/new.png)  
 - [2022-01-10-推荐-非常哇塞的-ES读场景、写场景-性能优化指南！你值得拥有！](https://toutiao.io/k/5pjb28q) ![](assets/new.png)  
+- [2022-01-10-推荐-再见-Typora！推荐一个-2.3-万-Star-的开源-Markdown-编辑器](https://toutiao.io/k/ol8ule0) ![](assets/new.png)  
 - [2022-01-10-推荐-登录态-&-SSO](https://toutiao.io/k/vjcw3vh) ![](assets/new.png)  
+- [2022-01-10-推荐-面渣逆袭：JVM经典五十问，这下面试稳了！](https://toutiao.io/k/wideaab) ![](assets/new.png)  
+- [2022-01-10-推荐-白话linux操作系统原理](https://toutiao.io/k/zgc47l7) ![](assets/new.png)  
+- [2022-01-10-推荐-2022新年伊始，送你百篇干货文章](https://toutiao.io/k/kchudkd) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

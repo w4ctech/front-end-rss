@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-10 15:48:53，:rocket: 更新条数: +1705， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-10 16:19:25，:rocket: 更新条数: +1683， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,9 @@
 </summary>
 
 
+- [2022-01-10-是否有书籍或论文阐述机器学习准确率与数据量、数据质量之间关系的理论？](https://www.v2ex.com/t/827450) ![](assets/new.png)  
+- [2022-01-10-救命！.tgz-文件解压后是.tgz.ve-文件](https://www.v2ex.com/t/827449) ![](assets/new.png)  
+- [2022-01-10-iPad-Pro-2018-官换-vs-2020-官翻](https://www.v2ex.com/t/827448) ![](assets/new.png)  
 - [2022-01-10-村通网：发现手机上油管支持屏幕拖动进度条](https://www.v2ex.com/t/827447) ![](assets/new.png)  
 - [2022-01-10-致跟我一样迷茫过的人](https://www.v2ex.com/t/827444) ![](assets/new.png)  
 - [2022-01-10-Kindle-paperwhite-的字体怎么设置比较舒服呀？](https://www.v2ex.com/t/827442) ![](assets/new.png)  
@@ -511,9 +514,6 @@
 - [2022-01-10-老哥们-求助一个-nginx-的技术问题-怎么在反代替换链接数据](https://www.v2ex.com/t/827422) ![](assets/new.png)  
 - [2022-01-10-单臂路由下，主路由-ipv6-问题](https://www.v2ex.com/t/827420) ![](assets/new.png)  
 - [2022-01-10-维护屎山，心态炸了](https://www.v2ex.com/t/827419) ![](assets/new.png)  
-- [2022-01-10-给女票选生日礼物，有什么建议？](https://www.v2ex.com/t/827418) ![](assets/new.png)  
-- [2022-01-10-Manjaro-大家用搜狗输入法遇到过左-Ctrl-失灵的问题吗？](https://www.v2ex.com/t/827417) ![](assets/new.png)  
-- [2022-01-10-求助！将-Chrome-插件转化为-Safari-插件时遇到问题](https://www.v2ex.com/t/827416) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -556,26 +556,16 @@
 </summary>
 
 
-- [2022-01-10-用规则引擎让你一天上线十个需求](https://toutiao.io/k/ldd1cse) ![](assets/new.png)  
-- [2022-01-10-悄悄学习Doris，偷偷惊艳所有人-|-Apache-Doris四万字小总结](https://toutiao.io/k/w5o0jfy) ![](assets/new.png)  
-- [2022-01-10-几行烂代码，我赔了16万。](https://toutiao.io/k/zkhoe39) ![](assets/new.png)  
-- [2022-01-10-Python-超轻量级日志解决方案](https://toutiao.io/k/lupogxe) ![](assets/new.png)  
-- [2022-01-10-深入浅出-Spark：内存计算的由来](https://toutiao.io/k/blk5hm3) ![](assets/new.png)  
-- [2022-01-10-京东到家业务网关介绍](https://toutiao.io/k/0a6ecnc) ![](assets/new.png)  
-- [2022-01-10-强烈推荐33个-GitHub-前端学习资源](https://toutiao.io/k/nr6ok91) ![](assets/new.png)  
-- [2022-01-10-30-分钟学会-SVD-矩阵分解（Python代码）](https://toutiao.io/k/hhp2snp) ![](assets/new.png)  
-- [2022-01-10-测试用例的作用](https://toutiao.io/k/8ylox42) ![](assets/new.png)  
-- [2022-01-10-「GoCN酷Go推荐」Golang的Ealstic链接库](https://toutiao.io/k/3mcfyxt) ![](assets/new.png)  
-- [2022-01-10-过年带一副成语接龙扑克回家，新春限定仅售6.9元！](https://toutiao.io/k/tte9pea) ![](assets/new.png)  
-- [2022-01-10-原理-|-如何提高Flink大规模作业的调度器性能？Part-2](https://toutiao.io/k/uviauxi) ![](assets/new.png)  
-- [2022-01-10-APISIX-Ingress-高级使用之-Url-Rewrite](https://toutiao.io/k/ola1s59) ![](assets/new.png)  
-- [2022-01-10-100行代码透彻解析RPC原理](https://toutiao.io/k/8nabo5b) ![](assets/new.png)  
-- [2022-01-10-Go-为什么不在语言层面支持-map-并发？](https://toutiao.io/k/oiy1kv2) ![](assets/new.png)  
-- [2022-01-10-视频数据训练太慢？试试UT-Austin&FAIR提出的多重网格训练，加速4.5倍，还能提点！](https://toutiao.io/k/k5mbhji) ![](assets/new.png)  
-- [2022-01-10-实践案例-|-用Kube-OVN实现跨K8s的统一网络平面部署TiDB](https://toutiao.io/k/23tawqv) ![](assets/new.png)  
-- [2022-01-10-了不起的Chrome浏览器（10）：2021年，Chrome哪些变化最值得关注？](https://toutiao.io/k/lgj0jos) ![](assets/new.png)  
-- [2022-01-10-GitHub-公布-2021-Top-10-博文「GitHub-热点速览」](https://toutiao.io/k/82iiymn) ![](assets/new.png)  
-- [2022-01-10-130-python|第三部分：python高级（三）函数式编程](https://toutiao.io/k/6nrel2v) ![](assets/new.png)  
+- [2022-01-10-撸猫必备三件套，立即下单现价仅需8.9元！](https://toutiao.io/k/14kxbpf) ![](assets/new.png)  
+- [2022-01-10-推荐-再见了-VMware，一款更轻量级的虚拟机！](https://toutiao.io/k/xw2lnva) ![](assets/new.png)  
+- [2022-01-10-推荐-非常哇塞的-ES读场景、写场景-性能优化指南！你值得拥有！](https://toutiao.io/k/5pjb28q) ![](assets/new.png)  
+- [2022-01-10-推荐-登录态-&-SSO](https://toutiao.io/k/vjcw3vh) ![](assets/new.png)  
+- [2022-01-10-推荐-2021年美团技术团队最受欢迎的22篇技术文章](https://toutiao.io/k/pjse55y) ![](assets/new.png)  
+- [2022-01-10-推荐-画架构图的神器](https://toutiao.io/k/4773s9p) ![](assets/new.png)  
+- [2022-01-10-推荐-面渣逆袭：JVM经典五十问，这下面试稳了！](https://toutiao.io/k/wideaab) ![](assets/new.png)  
+- [2022-01-10-推荐-2022新年伊始，送你百篇干货文章](https://toutiao.io/k/kchudkd) ![](assets/new.png)  
+- [2022-01-10-推荐-缓存一致性最佳实践](https://toutiao.io/k/ymscqc1) ![](assets/new.png)  
+- [2022-01-10-推荐-聊聊spring事务失效的12种场景，太坑了](https://toutiao.io/k/uf6yk96) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

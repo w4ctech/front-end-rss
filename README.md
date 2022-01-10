@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-10 11:19:22，:rocket: 更新条数: +1704， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-10 11:37:50，:rocket: 更新条数: +1706， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -65,13 +65,14 @@
 </summary>
 
 
-- [2022-01-10-1月9日全国新增新冠157例-四省份本土97例](https://m.caixin.com/m/2022-01-10/101827900.html) ![](assets/new.png)  
+- [2022-01-10-最新疫情：全国新冠累计确诊103776例-累计接种新冠疫苗超28.99亿剂次](https://m.caixin.com/m/2022-01-10/101828303.html) ![](assets/new.png)  
+- [2022-01-10-天津完成全市核酸采样超900万人](https://china.caixin.com/m/2022-01-10/101828291.html) ![](assets/new.png)  
 - [2022-01-10-深圳罗湖部分文娱场所暂停开放-病例或由境外污染物品引发感染](https://m.caixin.com/m/2022-01-10/101828285.html) ![](assets/new.png)  
 - [2022-01-10-河南安阳疫情与天津同源-系奥密克戎](https://m.caixin.com/m/2022-01-10/101827909.html) ![](assets/new.png)  
+- [2022-01-10-最新海外疫情：新冠感染超3.06亿-累计接种新冠疫苗超94.27亿剂次](https://m.caixin.com/m/2022-01-10/101828307.html) ![](assets/new.png)  
 - [2022-01-10-【境内疫情观察】全国新增97例本土病例（1月9日）](https://database.caixin.com/m/2022-01-10/101828173.html) ![](assets/new.png)  
 - [2022-01-10-菲律宾检测阳性率近45%，以色列推动家庭新冠自查｜大流行手记（1月9日）](https://m.caixin.com/m/2022-01-10/101827923.html) ![](assets/new.png)  
 - [2022-01-09-天津再增20例阳性感染者-京津来往加强防控管理](https://china.caixin.com/m/2022-01-09/101827875.html) ![](assets/new.png)  
-- [2022-01-09-最新海外疫情：新冠感染超3.04亿-累计接种新冠疫苗超93.74亿剂次](https://m.caixin.com/m/2022-01-09/101827843.html) ![](assets/new.png)  
 - [2022-01-09-视线｜天津启动全员核酸检测-菜场人增多-部分菜摊蔬菜售罄](https://photos.caixin.com/m/2022-01-09/101827796.html) ![](assets/new.png)  
 - [2022-01-09-河南许昌禹州疫情与郑州同源-安阳新增确诊14例](https://china.caixin.com/m/2022-01-09/101827835.html) ![](assets/new.png)  
 - [2022-01-09-本土奥密克戎终现天津-已启动全市新冠核检](https://m.caixin.com/m/2022-01-09/101827751.html) ![](assets/new.png)  
@@ -84,7 +85,6 @@
 - [2022-01-08-美国住院人数或刷新记录-英军方协助医院｜大流行手记（1月7日）](https://m.caixin.com/m/2022-01-08/101827528.html) ![](assets/new.png)  
 - [2022-01-08-张文宏：奥密克戎不是大号流感，要加强疫苗屏障](https://opinion.caixin.com/m/2022-01-08/101827720.html) ![](assets/new.png)  
 - [2022-01-07-香港政界大型生日会现两宗确诊-霍启刚等20名议员需入住检疫营](https://m.caixin.com/m/2022-01-07/101827434.html) ![](assets/new.png)  
-- [2022-01-07-西安累计确诊1913人治愈112人-将严查拒诊、推诿患者行为](https://m.caixin.com/m/2022-01-07/101827334.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -494,6 +494,10 @@
 </summary>
 
 
+- [2022-01-10-终章-折腾了近一个月的显示器选择最终落定了](https://www.v2ex.com/t/827405) ![](assets/new.png)  
+- [2022-01-10-都-2202-年了，-uwp-发展的怎么样了？](https://www.v2ex.com/t/827404) ![](assets/new.png)  
+- [2022-01-10-托管在-Gitee-的开源项目突然无法访问了](https://www.v2ex.com/t/827403) ![](assets/new.png)  
+- [2022-01-10-Setapp-有需要上车的吗？（老车，年费-200-多那个）](https://www.v2ex.com/t/827402) ![](assets/new.png)  
 - [2022-01-10-请教大佬们一个用-iptables-做-nat-报文只能出不能进的问题](https://www.v2ex.com/t/827401) ![](assets/new.png)  
 - [2022-01-10-Infuse-在-Mac-上播放-UHD-视频，掉帧厉害](https://www.v2ex.com/t/827400) ![](assets/new.png)  
 - [2022-01-10-Apple-One-Premier-美区招车友，附赠-Infuse-Pro](https://www.v2ex.com/t/827399) ![](assets/new.png)  
@@ -510,10 +514,6 @@
 - [2022-01-10-长沙全职-前端-React-开发招聘](https://www.v2ex.com/t/827384) ![](assets/new.png)  
 - [2022-01-10-15-年进京，对于即将结束的北漂生活，持续更新](https://www.v2ex.com/t/827383) ![](assets/new.png)  
 - [2022-01-10-Win-下有啥好用的截屏工具，带图片-OCR-文字识别的](https://www.v2ex.com/t/827382) ![](assets/new.png)  
-- [2022-01-10-自己的产品开发消失了怎办](https://www.v2ex.com/t/827381) ![](assets/new.png)  
-- [2022-01-10-「郑州」大数据项目经理，双休+带薪年假](https://www.v2ex.com/t/827380) ![](assets/new.png)  
-- [2022-01-10-北京-靠谱公司求一枚靠谱前端-~-偏微信端-2022-版](https://www.v2ex.com/t/827377) ![](assets/new.png)  
-- [2022-01-10-坐标南京，招聘区块链产品经理](https://www.v2ex.com/t/827374) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -567,15 +567,15 @@
 - [2022-01-10-强烈推荐33个-GitHub-前端学习资源](https://toutiao.io/k/nr6ok91) ![](assets/new.png)  
 - [2022-01-10-APISIX-Ingress-高级使用之-Url-Rewrite](https://toutiao.io/k/ola1s59) ![](assets/new.png)  
 - [2022-01-10-「GoCN酷Go推荐」Golang的Ealstic链接库](https://toutiao.io/k/3mcfyxt) ![](assets/new.png)  
-- [2022-01-10-视频数据训练太慢？试试UT-Austin&FAIR提出的多重网格训练，加速4.5倍，还能提点！](https://toutiao.io/k/k5mbhji) ![](assets/new.png)  
 - [2022-01-10-过年带一副成语接龙扑克回家，新春限定仅售6.9元！](https://toutiao.io/k/tte9pea) ![](assets/new.png)  
+- [2022-01-10-视频数据训练太慢？试试UT-Austin&FAIR提出的多重网格训练，加速4.5倍，还能提点！](https://toutiao.io/k/k5mbhji) ![](assets/new.png)  
 - [2022-01-10-原理-|-如何提高Flink大规模作业的调度器性能？Part-2](https://toutiao.io/k/uviauxi) ![](assets/new.png)  
 - [2022-01-10-100行代码透彻解析RPC原理](https://toutiao.io/k/8nabo5b) ![](assets/new.png)  
 - [2022-01-10-Go-为什么不在语言层面支持-map-并发？](https://toutiao.io/k/oiy1kv2) ![](assets/new.png)  
 - [2022-01-10-了不起的Chrome浏览器（10）：2021年，Chrome哪些变化最值得关注？](https://toutiao.io/k/lgj0jos) ![](assets/new.png)  
 - [2022-01-10-GitHub-公布-2021-Top-10-博文「GitHub-热点速览」](https://toutiao.io/k/82iiymn) ![](assets/new.png)  
-- [2022-01-10-130-python|第三部分：python高级（三）函数式编程](https://toutiao.io/k/6nrel2v) ![](assets/new.png)  
 - [2022-01-10-实践案例-|-用Kube-OVN实现跨K8s的统一网络平面部署TiDB](https://toutiao.io/k/23tawqv) ![](assets/new.png)  
+- [2022-01-10-130-python|第三部分：python高级（三）函数式编程](https://toutiao.io/k/6nrel2v) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

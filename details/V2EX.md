@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-01-10 20:43:33。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-01-10 20:55:48。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
@@ -34,4 +34,3 @@
 - [2022-01-10-求助！将-Chrome-插件转化为-Safari-插件时遇到问题](https://www.v2ex.com/t/827416) 
 - [2022-01-10-有没有基于-Web-的在线共享编辑-xml-工具？](https://www.v2ex.com/t/827413) 
 - [2022-01-10-对-Python-不熟，问个问题](https://www.v2ex.com/t/827411) 
-- [2022-01-10-没有初中毕业证，如何合法取得呢？](https://www.v2ex.com/t/827410) 

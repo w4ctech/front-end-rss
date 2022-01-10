@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-01-10 05:54:41。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-01-10 06:16:11。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -16,4 +16,5 @@
 - [2022-01-10-Chrome-进入/退出全屏幕快捷键失效](https://www.v2ex.com/t/827275) 
 - [2022-01-10-Edge浏览器新版来袭，Office功能首次出现！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14875&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247492773%26amp%3Bidx%3D2%26amp%3Bsn%3Dfd45f9b8476a5485c3ca08a78fa816b1%26amp%3Bchksm%3Dfa3f05fecd488ce8519c007b2c4e5ddeb170b0300433ab69ec7f693d8744ec5c0bb4469cea07%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-01-10-APISIX-Ingress-高级使用之-Url-Rewrite](https://toutiao.io/k/ola1s59) 
+- [2022-01-10-了不起的Chrome浏览器（10）：2021年，Chrome哪些变化最值得关注？](https://toutiao.io/k/lgj0jos) 
 - [2022-01-10-推荐-缓存一致性最佳实践](https://toutiao.io/k/ymscqc1) 

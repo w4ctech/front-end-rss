@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-10 15:24:20，:rocket: 更新条数: +1705， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-10 15:44:57，:rocket: 更新条数: +1705， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,7 @@
 </summary>
 
 
+- [2022-01-10-村通网：发现手机上油管支持屏幕拖动进度条](https://www.v2ex.com/t/827447) ![](assets/new.png)  
 - [2022-01-10-致跟我一样迷茫过的人](https://www.v2ex.com/t/827444) ![](assets/new.png)  
 - [2022-01-10-Kindle-paperwhite-的字体怎么设置比较舒服呀？](https://www.v2ex.com/t/827442) ![](assets/new.png)  
 - [2022-01-10-请教考过软考的-V-友，你们是先报的中级还是直接报的高级？](https://www.v2ex.com/t/827441) ![](assets/new.png)  
@@ -513,7 +514,6 @@
 - [2022-01-10-给女票选生日礼物，有什么建议？](https://www.v2ex.com/t/827418) ![](assets/new.png)  
 - [2022-01-10-Manjaro-大家用搜狗输入法遇到过左-Ctrl-失灵的问题吗？](https://www.v2ex.com/t/827417) ![](assets/new.png)  
 - [2022-01-10-求助！将-Chrome-插件转化为-Safari-插件时遇到问题](https://www.v2ex.com/t/827416) ![](assets/new.png)  
-- [2022-01-10-有没有基于-Web-的在线共享编辑-xml-工具？](https://www.v2ex.com/t/827413) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

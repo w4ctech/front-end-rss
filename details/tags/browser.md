@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-01-10 10:27:35。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-01-10 10:43:56。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -13,6 +13,7 @@
 - [2021-04-14-腺病毒新冠疫苗引安全忧虑-康希诺称未发现血栓病例](https://m.caixin.com/m/2021-04-14/101691086.html) 
 - [2021-01-08-解药|新冠mRNA疫苗安全性有哪些挑战？](https://m.caixin.com/m/2021-01-08/101648043.html) 
 - [2021-01-01-大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html) 
+- [2022-01-10-好烦啊，-Mac-为什么没有一个完美的浏览器？](https://www.v2ex.com/t/827395) 
 - [2022-01-10-个人开发的-Postman-/-Paw-替代品-Gotcha-HTTP-Client，欢迎试用和吐槽。](https://www.v2ex.com/t/827362) 
 - [2022-01-10-在-OpenHarmony-开发板上运行-WebAssembly-runtime---WasmEdge](https://www.v2ex.com/t/827358) 
 - [2022-01-10-Steam-Windows-客户端在访问社区时，用了什么天顶星科技？-proxifier-和-clash-tun-无效](https://www.v2ex.com/t/827356) 

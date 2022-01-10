@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-01-10 13:30:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-01-10 13:40:34。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1591,6 +1591,7 @@
 - [2022-01-07-科技爱好者周刊（第-191-期）：一个程序员的财务独立之路](http://www.ruanyifeng.com/blog/2022/01/weekly-issue-191.html) 
 - [2021-12-31-科技爱好者周刊（第-190-期）：产品化思维](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-190.html) 
 - [2021-12-24-科技爱好者周刊（第-189-期）：下一个内卷的行业](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-189.html) 
+- [2022-01-10-如何验证软件的恶意行为？](https://www.v2ex.com/t/827426) 
 - [2022-01-10-上海-965-外企-一周内光速出-offer，-1-月-19-日跟我们一起去翡翠公主号游轮开年会⛴](https://www.v2ex.com/t/827425) 
 - [2022-01-10-维护屎山，心态炸了](https://www.v2ex.com/t/827419) 
 - [2022-01-10-给女票选生日礼物，有什么建议？](https://www.v2ex.com/t/827418) 
@@ -1644,11 +1645,11 @@
 - [2022-01-10-100行代码透彻解析RPC原理](https://toutiao.io/k/8nabo5b) 
 - [2022-01-10-Go-为什么不在语言层面支持-map-并发？](https://toutiao.io/k/oiy1kv2) 
 - [2022-01-10-实践案例-|-用Kube-OVN实现跨K8s的统一网络平面部署TiDB](https://toutiao.io/k/23tawqv) 
-- [2022-01-10-推荐-再见了-VMware，一款更轻量级的虚拟机！](https://toutiao.io/k/xw2lnva) 
+- [2022-01-10-推荐-登录态-&-SSO](https://toutiao.io/k/vjcw3vh) 
 - [2022-01-10-推荐-白话linux操作系统原理](https://toutiao.io/k/zgc47l7) 
-- [2022-01-10-推荐-2021年美团技术团队最受欢迎的22篇技术文章](https://toutiao.io/k/pjse55y) 
 - [2022-01-10-推荐-聊聊spring事务失效的12种场景，太坑了](https://toutiao.io/k/uf6yk96) 
 - [2022-01-10-推荐-再见-Typora！推荐一个-2.3-万-Star-的开源-Markdown-编辑器](https://toutiao.io/k/ol8ule0) 
-- [2022-01-10-推荐-2022新年伊始，送你百篇干货文章](https://toutiao.io/k/kchudkd) 
 - [2022-01-10-推荐-画架构图的神器](https://toutiao.io/k/4773s9p) 
-- [2022-01-10-推荐-登录态-&-SSO](https://toutiao.io/k/vjcw3vh) 
+- [2022-01-10-推荐-再见了-VMware，一款更轻量级的虚拟机！](https://toutiao.io/k/xw2lnva) 
+- [2022-01-10-推荐-2021年美团技术团队最受欢迎的22篇技术文章](https://toutiao.io/k/pjse55y) 
+- [2022-01-10-推荐-2022新年伊始，送你百篇干货文章](https://toutiao.io/k/kchudkd) 

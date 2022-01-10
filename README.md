@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-10 13:30:25，:rocket: 更新条数: +1708， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-10 13:40:34，:rocket: 更新条数: +1709， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,7 @@
 </summary>
 
 
+- [2022-01-10-如何验证软件的恶意行为？](https://www.v2ex.com/t/827426) ![](assets/new.png)  
 - [2022-01-10-上海-965-外企-一周内光速出-offer，-1-月-19-日跟我们一起去翡翠公主号游轮开年会⛴](https://www.v2ex.com/t/827425) ![](assets/new.png)  
 - [2022-01-10-React-HTTP-请求问题](https://www.v2ex.com/t/827424) ![](assets/new.png)  
 - [2022-01-10-老哥们-求助一个-nginx-的技术问题-怎么在反代替换链接数据](https://www.v2ex.com/t/827422) ![](assets/new.png)  
@@ -513,7 +514,6 @@
 - [2022-01-10-托管在-Gitee-的开源项目突然无法访问了](https://www.v2ex.com/t/827403) ![](assets/new.png)  
 - [2022-01-10-请教大佬们一个用-iptables-做-nat-报文只能出不能进的问题](https://www.v2ex.com/t/827401) ![](assets/new.png)  
 - [2022-01-10-Infuse-在-Mac-上播放-UHD-视频，掉帧厉害](https://www.v2ex.com/t/827400) ![](assets/new.png)  
-- [2022-01-10-开发，测试、运维，产品，其中运维价值最低](https://www.v2ex.com/t/827398) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-10 13:01:37，:rocket: 更新条数: +1706， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-10 13:14:43，:rocket: 更新条数: +1708， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,8 @@
 </summary>
 
 
+- [2022-01-10-老哥们-求助一个-nginx-的技术问题-怎么在反代替换链接数据](https://www.v2ex.com/t/827422) ![](assets/new.png)  
+- [2022-01-10-单臂路由下，主路由-ipv6-问题](https://www.v2ex.com/t/827420) ![](assets/new.png)  
 - [2022-01-10-维护屎山，心态炸了](https://www.v2ex.com/t/827419) ![](assets/new.png)  
 - [2022-01-10-给女票选生日礼物，有什么建议？](https://www.v2ex.com/t/827418) ![](assets/new.png)  
 - [2022-01-10-Manjaro-大家用搜狗输入法遇到过左-Ctrl-失灵的问题吗？](https://www.v2ex.com/t/827417) ![](assets/new.png)  
@@ -512,8 +514,6 @@
 - [2022-01-10-开发，测试、运维，产品，其中运维价值最低](https://www.v2ex.com/t/827398) ![](assets/new.png)  
 - [2022-01-10-北京联通IOS-手机-QQ-在-IPV6-下很难打开群图片](https://www.v2ex.com/t/827397) ![](assets/new.png)  
 - [2022-01-10-关于计科专业升本学生的未来规划-求助](https://www.v2ex.com/t/827396) ![](assets/new.png)  
-- [2022-01-10-好烦啊，-Mac-为什么没有一个完美的浏览器？](https://www.v2ex.com/t/827395) ![](assets/new.png)  
-- [2022-01-10-ts-中，访问对象的属性，如何获得更准确的类型](https://www.v2ex.com/t/827394) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -572,9 +572,9 @@
 - [2022-01-10-视频数据训练太慢？试试UT-Austin&FAIR提出的多重网格训练，加速4.5倍，还能提点！](https://toutiao.io/k/k5mbhji) ![](assets/new.png)  
 - [2022-01-10-100行代码透彻解析RPC原理](https://toutiao.io/k/8nabo5b) ![](assets/new.png)  
 - [2022-01-10-Go-为什么不在语言层面支持-map-并发？](https://toutiao.io/k/oiy1kv2) ![](assets/new.png)  
+- [2022-01-10-实践案例-|-用Kube-OVN实现跨K8s的统一网络平面部署TiDB](https://toutiao.io/k/23tawqv) ![](assets/new.png)  
 - [2022-01-10-了不起的Chrome浏览器（10）：2021年，Chrome哪些变化最值得关注？](https://toutiao.io/k/lgj0jos) ![](assets/new.png)  
 - [2022-01-10-GitHub-公布-2021-Top-10-博文「GitHub-热点速览」](https://toutiao.io/k/82iiymn) ![](assets/new.png)  
-- [2022-01-10-实践案例-|-用Kube-OVN实现跨K8s的统一网络平面部署TiDB](https://toutiao.io/k/23tawqv) ![](assets/new.png)  
 - [2022-01-10-130-python|第三部分：python高级（三）函数式编程](https://toutiao.io/k/6nrel2v) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

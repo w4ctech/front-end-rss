@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-10 09:14:08，:rocket: 更新条数: +1704， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-10 09:24:03，:rocket: 更新条数: +1705， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,7 @@
 </summary>
 
 
+- [2022-01-10-坐标南京，招聘区块链产品经理](https://www.v2ex.com/t/827374) ![](assets/new.png)  
 - [2022-01-10-mysql8-安装后-root-帐号登录不进的分享](https://www.v2ex.com/t/827373) ![](assets/new.png)  
 - [2022-01-10-手写了下-js-类的继承，请教个-js-问题](https://www.v2ex.com/t/827367) ![](assets/new.png)  
 - [2022-01-10-写-IM-的话-Go-和-Netty-哪个性能好？](https://www.v2ex.com/t/827366) ![](assets/new.png)  
@@ -513,7 +514,6 @@
 - [2022-01-10-docker-pull-到的镜像始终是旧版本是怎么回事。](https://www.v2ex.com/t/827349) ![](assets/new.png)  
 - [2022-01-10-大家一起来吐槽一下-macOS-的国产应用](https://www.v2ex.com/t/827348) ![](assets/new.png)  
 - [2022-01-10-Mac-mini-的喇叭也就听个响,-音质还没有-20-块包邮的好](https://www.v2ex.com/t/827347) ![](assets/new.png)  
-- [2022-01-10-成都转行一年-Java-找工作，可远程可项目制接单](https://www.v2ex.com/t/827346) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

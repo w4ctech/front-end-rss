@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-01-10 07:41:58。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-01-10 07:54:39。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -20,5 +20,4 @@
 - [2021-10-28-JS复制文字到剪切板的极简实现及扩展](https://www.zhangxinxu.com/wordpress/2021/10/js-copy-paste-clipboard/) 
 - [2022-01-10-求各位大佬推荐一个稳定的路由器](https://www.v2ex.com/t/827317) 
 - [2022-01-10-折腾-VOL.1-百元最强路由器:-360-V6-软刷-QSDK-OpenWrt-固件](https://www.v2ex.com/t/827306) 
-- [2022-01-10-js-科学计数法问题](https://www.v2ex.com/t/827293) 
 - [2022-01-10-130-python|第三部分：python高级（三）函数式编程](https://toutiao.io/k/6nrel2v) 

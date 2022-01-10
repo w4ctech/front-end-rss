@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-10 04:16:10，:rocket: 更新条数: +1695， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-10 04:33:43，:rocket: 更新条数: +1695， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,9 @@
 </summary>
 
 
+- [2022-01-10-迫于年底换电视，收-4K-京东-E-卡](https://www.v2ex.com/t/827281) ![](assets/new.png)  
+- [2022-01-10-请教关于分页的问题](https://www.v2ex.com/t/827280) ![](assets/new.png)  
+- [2022-01-10-iCloud“找到我”里面有个“极简待办”删不掉](https://www.v2ex.com/t/827279) ![](assets/new.png)  
 - [2022-01-10-tar-打包慢应该从那查问题](https://www.v2ex.com/t/827277) ![](assets/new.png)  
 - [2022-01-10-求教：如何从-0-到-1-构建-数据中台-？](https://www.v2ex.com/t/827276) ![](assets/new.png)  
 - [2022-01-10-Chrome-进入/退出全屏幕快捷键失效](https://www.v2ex.com/t/827275) ![](assets/new.png)  
@@ -511,9 +514,6 @@
 - [2022-01-10-mac-mini-需不需要等-m1-pro/max-版的？](https://www.v2ex.com/t/827257) ![](assets/new.png)  
 - [2022-01-10-开源，是否是一门生意？](https://www.v2ex.com/t/827256) ![](assets/new.png)  
 - [2022-01-10-Js-如何设置谷歌浏览器打印的默认边距，纸张大小](https://www.v2ex.com/t/827254) ![](assets/new.png)  
-- [2022-01-10-Reset-解决一切问题](https://www.v2ex.com/t/827253) ![](assets/new.png)  
-- [2022-01-10-adwords-landing-页面停留时间才最多-8-秒](https://www.v2ex.com/t/827251) ![](assets/new.png)  
-- [2022-01-10-2022-年-LPL-比赛日历文件已更新](https://www.v2ex.com/t/827250) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -559,23 +559,23 @@
 - [2022-01-10-用规则引擎让你一天上线十个需求](https://toutiao.io/k/ldd1cse) ![](assets/new.png)  
 - [2022-01-10-悄悄学习Doris，偷偷惊艳所有人-|-Apache-Doris四万字小总结](https://toutiao.io/k/w5o0jfy) ![](assets/new.png)  
 - [2022-01-10-Python-超轻量级日志解决方案](https://toutiao.io/k/lupogxe) ![](assets/new.png)  
-- [2022-01-10-深入浅出-Spark：内存计算的由来](https://toutiao.io/k/blk5hm3) ![](assets/new.png)  
 - [2022-01-10-几行烂代码，我赔了16万。](https://toutiao.io/k/zkhoe39) ![](assets/new.png)  
-- [2022-01-10-30-分钟学会-SVD-矩阵分解（Python代码）](https://toutiao.io/k/hhp2snp) ![](assets/new.png)  
+- [2022-01-10-深入浅出-Spark：内存计算的由来](https://toutiao.io/k/blk5hm3) ![](assets/new.png)  
 - [2022-01-10-京东到家业务网关介绍](https://toutiao.io/k/0a6ecnc) ![](assets/new.png)  
+- [2022-01-10-30-分钟学会-SVD-矩阵分解（Python代码）](https://toutiao.io/k/hhp2snp) ![](assets/new.png)  
 - [2022-01-10-APISIX-Ingress-高级使用之-Url-Rewrite](https://toutiao.io/k/ola1s59) ![](assets/new.png)  
 - [2022-01-10-测试用例的作用](https://toutiao.io/k/8ylox42) ![](assets/new.png)  
 - [2022-01-10-视频数据训练太慢？试试UT-Austin&FAIR提出的多重网格训练，加速4.5倍，还能提点！](https://toutiao.io/k/k5mbhji) ![](assets/new.png)  
 - [2022-01-10-推荐-聊聊spring事务失效的12种场景，太坑了](https://toutiao.io/k/uf6yk96) ![](assets/new.png)  
-- [2022-01-10-推荐-非常哇塞的-ES读场景、写场景-性能优化指南！你值得拥有！](https://toutiao.io/k/5pjb28q) ![](assets/new.png)  
-- [2022-01-10-推荐-面渣逆袭：JVM经典五十问，这下面试稳了！](https://toutiao.io/k/wideaab) ![](assets/new.png)  
 - [2022-01-10-推荐-白话linux操作系统原理](https://toutiao.io/k/zgc47l7) ![](assets/new.png)  
-- [2022-01-10-推荐-登录态-&-SSO](https://toutiao.io/k/vjcw3vh) ![](assets/new.png)  
-- [2022-01-10-推荐-画架构图的神器](https://toutiao.io/k/4773s9p) ![](assets/new.png)  
-- [2022-01-10-推荐-2022新年伊始，送你百篇干货文章](https://toutiao.io/k/kchudkd) ![](assets/new.png)  
-- [2022-01-10-推荐-再见了-VMware，一款更轻量级的虚拟机！](https://toutiao.io/k/xw2lnva) ![](assets/new.png)  
-- [2022-01-10-推荐-再见-Typora！推荐一个-2.3-万-Star-的开源-Markdown-编辑器](https://toutiao.io/k/ol8ule0) ![](assets/new.png)  
 - [2022-01-10-推荐-2021年美团技术团队最受欢迎的22篇技术文章](https://toutiao.io/k/pjse55y) ![](assets/new.png)  
+- [2022-01-10-推荐-再见-Typora！推荐一个-2.3-万-Star-的开源-Markdown-编辑器](https://toutiao.io/k/ol8ule0) ![](assets/new.png)  
+- [2022-01-10-推荐-缓存一致性最佳实践](https://toutiao.io/k/ymscqc1) ![](assets/new.png)  
+- [2022-01-10-推荐-画架构图的神器](https://toutiao.io/k/4773s9p) ![](assets/new.png)  
+- [2022-01-10-推荐-登录态-&-SSO](https://toutiao.io/k/vjcw3vh) ![](assets/new.png)  
+- [2022-01-10-推荐-非常哇塞的-ES读场景、写场景-性能优化指南！你值得拥有！](https://toutiao.io/k/5pjb28q) ![](assets/new.png)  
+- [2022-01-10-推荐-再见了-VMware，一款更轻量级的虚拟机！](https://toutiao.io/k/xw2lnva) ![](assets/new.png)  
+- [2022-01-10-推荐-面渣逆袭：JVM经典五十问，这下面试稳了！](https://toutiao.io/k/wideaab) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

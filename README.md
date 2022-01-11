@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-11 09:23:16，:rocket: 更新条数: +1707， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-11 09:42:15，:rocket: 更新条数: +1709， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,11 @@
 </summary>
 
 
+- [2022-01-11-迫于别人都有-2021-年总结](https://www.v2ex.com/t/827631) ![](assets/new.png)  
+- [2022-01-11-一个用旧手机做数据看板的懒人方案](https://www.v2ex.com/t/827630) ![](assets/new.png)  
+- [2022-01-11-广州联通携转有-39-500M-的宽带](https://www.v2ex.com/t/827629) ![](assets/new.png)  
+- [2022-01-11-大家有没有尝试过用什么工具提升团队-Code-Review-时候的协作效率？](https://www.v2ex.com/t/827628) ![](assets/new.png)  
+- [2022-01-11-用-Python-如何实现树形数据结构？自己琢磨半天总感觉写的不对](https://www.v2ex.com/t/827627) ![](assets/new.png)  
 - [2022-01-11-MAC-下罗技的-M3-鼠标功能键完全失效](https://www.v2ex.com/t/827624) ![](assets/new.png)  
 - [2022-01-11-试转个北京电信的宽带-500M。](https://www.v2ex.com/t/827623) ![](assets/new.png)  
 - [2022-01-11-推广一下自己写的-to-do-list，嘿嘿~](https://www.v2ex.com/t/827620) ![](assets/new.png)  
@@ -509,11 +514,6 @@
 - [2022-01-11-求靠谱的-5G-手机套餐](https://www.v2ex.com/t/827608) ![](assets/new.png)  
 - [2022-01-11-2022-年了，没有手机的情况下能否生活下去呢？](https://www.v2ex.com/t/827607) ![](assets/new.png)  
 - [2022-01-11-微信-BUG-微信賬號綁定的郵箱竟然有兩個“.”](https://www.v2ex.com/t/827605) ![](assets/new.png)  
-- [2022-01-11-还原-SQL：一个-52G-的-sql-文件-其中用了一个-全文索引-ngram-用到这个插件但是](https://www.v2ex.com/t/827604) ![](assets/new.png)  
-- [2022-01-11-iphone11-刷机忘记开机密码求助----’](https://www.v2ex.com/t/827603) ![](assets/new.png)  
-- [2022-01-11-如何说服老婆买特斯拉？](https://www.v2ex.com/t/827602) ![](assets/new.png)  
-- [2022-01-11-使用-Tin-快速安装-Swagger-UI（两分钟以内！）](https://www.v2ex.com/t/827601) ![](assets/new.png)  
-- [2022-01-11-宽带快到期了，有哪些优惠的续费途径？](https://www.v2ex.com/t/827600) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -574,8 +574,8 @@
 - [2022-01-11-湖中剑-前端周刊-#18-|-动态图片、Chrome-97、依赖注入、Web-IDE、Monorepo](https://toutiao.io/k/ntof5y1) ![](assets/new.png)  
 - [2022-01-11-表驱动法，逻辑控制优化利器](https://toutiao.io/k/6ysq24l) ![](assets/new.png)  
 - [2022-01-11-Jetpack-叒一新成员-DragAndDrop-框架：大大简化拖放手势开发！](https://toutiao.io/k/i5nwdyy) ![](assets/new.png)  
-- [2022-01-11-推荐-2022新年伊始，送你百篇干货文章](https://toutiao.io/k/kchudkd) ![](assets/new.png)  
-- [2022-01-11-推荐-聊聊spring事务失效的12种场景，太坑了](https://toutiao.io/k/uf6yk96) ![](assets/new.png)  
+- [2022-01-11-推荐-缓存一致性最佳实践](https://toutiao.io/k/ymscqc1) ![](assets/new.png)  
+- [2022-01-11-推荐-画架构图的神器](https://toutiao.io/k/4773s9p) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

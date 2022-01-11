@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-11 12:35:56，:rocket: 更新条数: +1715， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-11 13:00:29，:rocket: 更新条数: +1732， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -65,13 +65,14 @@
 </summary>
 
 
-- [2022-01-11-1月10日全国新增新冠192例-三省份本土110例](https://m.caixin.com/m/2022-01-11/101828449.html) ![](assets/new.png)  
+- [2022-01-11-最新疫情：全国新冠累计确诊103968例-累计接种新冠疫苗超29.05亿剂次](https://m.caixin.com/m/2022-01-11/101828838.html) ![](assets/new.png)  
 - [2022-01-11-天津累计报告感染者97例-已出现家庭聚集传播6起](https://m.caixin.com/m/2022-01-11/101828766.html) ![](assets/new.png)  
 - [2022-01-11-香港本地疫情蔓延-幼儿园小学再全面“停课”](https://m.caixin.com/m/2022-01-11/101828627.html) ![](assets/new.png)  
 - [2022-01-11-疫情病例增至8例-深圳疾控建议勿购买境外高风险地区商品](https://m.caixin.com/m/2022-01-11/101828583.html) ![](assets/new.png)  
+- [2022-01-11-最新海外疫情：新冠感染超3.09亿-累计接种新冠疫苗超94.33亿剂次](https://m.caixin.com/m/2022-01-11/101828842.html) ![](assets/new.png)  
 - [2022-01-11-违反疫情防控规定多人被查-河南警方通报典型案例](https://china.caixin.com/m/2022-01-11/101828548.html) ![](assets/new.png)  
 - [2022-01-11-普通感冒T细胞或可对抗新冠-法国住院人数大增丨大流行手记（1月10日）](https://m.caixin.com/m/2022-01-11/101828480.html) ![](assets/new.png)  
-- [2022-01-10-最新海外疫情：新冠感染超3.06亿-累计接种新冠疫苗超94.27亿剂次](https://m.caixin.com/m/2022-01-10/101828307.html) ![](assets/new.png)  
+- [2022-01-11-【图集】智利为免疫薄弱人群接种第四针新冠疫苗](https://photos.caixin.com/m/2022-01-11/101828660.html) ![](assets/new.png)  
 - [2022-01-10-天津已报告本土感染者41例-其它新增初筛阳性待核验后通报](https://china.caixin.com/m/2022-01-10/101828291.html) ![](assets/new.png)  
 - [2022-01-10-深圳罗湖部分文娱场所暂停开放-病例或由境外污染物品引发感染](https://m.caixin.com/m/2022-01-10/101828285.html) ![](assets/new.png)  
 - [2022-01-10-河南安阳疫情与天津同源-系奥密克戎](https://m.caixin.com/m/2022-01-10/101827909.html) ![](assets/new.png)  
@@ -84,7 +85,6 @@
 - [2022-01-09-本土奥密克戎终现天津-已启动全市新冠核检](https://m.caixin.com/m/2022-01-09/101827751.html) ![](assets/new.png)  
 - [2022-01-09-天津示20例阳性感染者详情-15例为中小学生](https://m.caixin.com/m/2022-01-09/101827759.html) ![](assets/new.png)  
 - [2022-01-09-【境内疫情观察】全国新增92例本土病例（1月8日）](https://database.caixin.com/m/2022-01-09/101827816.html) ![](assets/new.png)  
-- [2022-01-09-印度病例一周激增5倍-南非敦促加强疫苗接种｜大流行手记（1月8日）](https://m.caixin.com/m/2022-01-09/101827788.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -494,6 +494,11 @@
 </summary>
 
 
+- [2022-01-11-web、h5、小程序、公众号接单](https://www.v2ex.com/t/827674) ![](assets/new.png)  
+- [2022-01-11-贵又值得买的软件有哪些？](https://www.v2ex.com/t/827673) ![](assets/new.png)  
+- [2022-01-11-广州电信-1000M-精准限速。被-OLT-限速了。](https://www.v2ex.com/t/827672) ![](assets/new.png)  
+- [2022-01-11-C#-有什么方法可以获得-控制面板-添加打印机-安装打印机驱动程序-上的列表吗？](https://www.v2ex.com/t/827671) ![](assets/new.png)  
+- [2022-01-11-v2ex-网站在-chrome-浏览器显示异常](https://www.v2ex.com/t/827669) ![](assets/new.png)  
 - [2022-01-11-现在有仿-macOS-的-QuickTime-Player-协议录屏的软件么？](https://www.v2ex.com/t/827668) ![](assets/new.png)  
 - [2022-01-11-macOS-插入有线的时候自动禁用-WIFI-再启用的脚本该怎么写？](https://www.v2ex.com/t/827667) ![](assets/new.png)  
 - [2022-01-11-安徽联通收回-ipv4-公网-ip](https://www.v2ex.com/t/827665) ![](assets/new.png)  
@@ -509,11 +514,6 @@
 - [2022-01-11-iCloud-云贵已经开始灰度测试与-iCloud-国际服分站](https://www.v2ex.com/t/827655) ![](assets/new.png)  
 - [2022-01-11-瞎猜,11-代有没有机会成为最后的黑苹果](https://www.v2ex.com/t/827654) ![](assets/new.png)  
 - [2022-01-11-m1-芯片无法通过时间机器整盘恢复](https://www.v2ex.com/t/827653) ![](assets/new.png)  
-- [2022-01-11-请问谁知道-“家庭配件”-是什么来头？后台一直消耗电量](https://www.v2ex.com/t/827652) ![](assets/new.png)  
-- [2022-01-11-借着百大公布的东风，问问大家-2021-年你有哪些新关注的-up-主想要推荐给别人的？](https://www.v2ex.com/t/827651) ![](assets/new.png)  
-- [2022-01-11-给老妈买的米家显示器挂灯装在-2011-年的-Samsung-SyncMaster-SA10-18.5"补光效果不错，尺寸刚好，自己的-24"-DELL-U2419H-倒是不适合用米家的，灯显得小了点。](https://www.v2ex.com/t/827650) ![](assets/new.png)  
-- [2022-01-11-当-AirPods-连上-Mac-时会有“咚咚”两声。有没有办法消除这个声音？](https://www.v2ex.com/t/827649) ![](assets/new.png)  
-- [2022-01-11-是否存在一种过流量但是不消耗带宽资源的技术？](https://www.v2ex.com/t/827648) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -568,14 +568,14 @@
 - [2022-01-11-仙女逗猫棒自嗨解闷神器，点击链接立即下单！](https://toutiao.io/k/1f9ycl7) ![](assets/new.png)  
 - [2022-01-11-10分钟弄懂微应用框架——乾坤，真香！](https://toutiao.io/k/i9cj9ad) ![](assets/new.png)  
 - [2022-01-11-从阿里核心场景看实时数仓的发展趋势](https://toutiao.io/k/4vtmdju) ![](assets/new.png)  
+- [2022-01-11-设计模式系列——代理模式](https://toutiao.io/k/9dnw4ue) ![](assets/new.png)  
 - [2022-01-11-使用插件创建-.NET-Core-应用程序](https://toutiao.io/k/txpyk3j) ![](assets/new.png)  
 - [2022-01-11-Julia编程基础---第-10-章-容器：数组（下）2/3](https://toutiao.io/k/ow8ro2b) ![](assets/new.png)  
-- [2022-01-11-设计模式系列——代理模式](https://toutiao.io/k/9dnw4ue) ![](assets/new.png)  
 - [2022-01-11-表驱动法，逻辑控制优化利器](https://toutiao.io/k/6ysq24l) ![](assets/new.png)  
 - [2022-01-11-湖中剑-前端周刊-#18-|-动态图片、Chrome-97、依赖注入、Web-IDE、Monorepo](https://toutiao.io/k/ntof5y1) ![](assets/new.png)  
 - [2022-01-11-Jetpack-叒一新成员-DragAndDrop-框架：大大简化拖放手势开发！](https://toutiao.io/k/i5nwdyy) ![](assets/new.png)  
-- [2022-01-11-推荐-非常哇塞的-ES读场景、写场景-性能优化指南！你值得拥有！](https://toutiao.io/k/5pjb28q) ![](assets/new.png)  
-- [2022-01-11-推荐-再见了-VMware，一款更轻量级的虚拟机！](https://toutiao.io/k/xw2lnva) ![](assets/new.png)  
+- [2022-01-11-推荐-2022新年伊始，送你百篇干货文章](https://toutiao.io/k/kchudkd) ![](assets/new.png)  
+- [2022-01-11-推荐-画架构图的神器](https://toutiao.io/k/4773s9p) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

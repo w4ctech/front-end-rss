@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-11 00:43:23，:rocket: 更新条数: +1692， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-11 01:15:10，:rocket: 更新条数: +1693， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -65,7 +65,7 @@
 </summary>
 
 
-- [2022-01-10-最新疫情：全国新冠累计确诊103776例-累计接种新冠疫苗超28.99亿剂次](https://m.caixin.com/m/2022-01-10/101828303.html) ![](assets/new.png)  
+- [2022-01-11-1月10日全国新增新冠192例-三省份本土110例](https://m.caixin.com/m/2022-01-11/101828449.html) ![](assets/new.png)  
 - [2022-01-10-天津已报告本土感染者41例-其它新增初筛阳性待核验后通报](https://china.caixin.com/m/2022-01-10/101828291.html) ![](assets/new.png)  
 - [2022-01-10-深圳罗湖部分文娱场所暂停开放-病例或由境外污染物品引发感染](https://m.caixin.com/m/2022-01-10/101828285.html) ![](assets/new.png)  
 - [2022-01-10-河南安阳疫情与天津同源-系奥密克戎](https://m.caixin.com/m/2022-01-10/101827909.html) ![](assets/new.png)  
@@ -494,6 +494,11 @@
 </summary>
 
 
+- [2022-01-11-人在重庆，是否要去一线城市挣钱？](https://www.v2ex.com/t/827471) ![](assets/new.png)  
+- [2022-01-11-关于-zf-消费券系统实现](https://www.v2ex.com/t/827470) ![](assets/new.png)  
+- [2022-01-11-Ubuntu-如何记录-CPU-使用记录？](https://www.v2ex.com/t/827469) ![](assets/new.png)  
+- [2022-01-11-Apple-生态全家桶适合同步的-pdf-软件有什么？](https://www.v2ex.com/t/827468) ![](assets/new.png)  
+- [2022-01-11-类原生安卓系统常用设置或工具推荐](https://www.v2ex.com/t/827467) ![](assets/new.png)  
 - [2022-01-11-我就不明白了-大冷天一到公司开窗户的是什么心里](https://www.v2ex.com/t/827466) ![](assets/new.png)  
 - [2022-01-11-WizNote-为知笔记-被收购了](https://www.v2ex.com/t/827465) ![](assets/new.png)  
 - [2022-01-11-大清早算了笔帐，一片迷茫](https://www.v2ex.com/t/827464) ![](assets/new.png)  
@@ -509,11 +514,6 @@
 - [2022-01-10-iPad-Pro-2018-官换-vs-2020-官翻](https://www.v2ex.com/t/827448) ![](assets/new.png)  
 - [2022-01-10-村通网：发现手机上油管支持屏幕拖动进度条](https://www.v2ex.com/t/827447) ![](assets/new.png)  
 - [2022-01-10-致跟我一样迷茫过的人](https://www.v2ex.com/t/827444) ![](assets/new.png)  
-- [2022-01-10-Kindle-paperwhite-的字体怎么设置比较舒服呀？](https://www.v2ex.com/t/827442) ![](assets/new.png)  
-- [2022-01-10-请教考过软考的-V-友，你们是先报的中级还是直接报的高级？](https://www.v2ex.com/t/827441) ![](assets/new.png)  
-- [2022-01-10-为什么头发没有变少，但越来越薄呢](https://www.v2ex.com/t/827440) ![](assets/new.png)  
-- [2022-01-10-有没有类似小鸡模拟器的类似模拟器](https://www.v2ex.com/t/827437) ![](assets/new.png)  
-- [2022-01-10-分享微信读书导入-EPUB-失败的原因](https://www.v2ex.com/t/827434) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -556,24 +556,24 @@
 </summary>
 
 
-- [2022-01-11-撸猫必备三件套，立即下单现价仅需8.9元！](https://toutiao.io/k/14kxbpf) ![](assets/new.png)  
 - [2022-01-11-从零开始搭建公司微服务授权架构技术栈（3种模式），这架构稳的一批...](https://toutiao.io/k/4g58j8v) ![](assets/new.png)  
+- [2022-01-11-撸猫必备三件套，立即下单现价仅需8.9元！](https://toutiao.io/k/14kxbpf) ![](assets/new.png)  
+- [2022-01-11-浅谈缓存最终一致性的解决方案](https://toutiao.io/k/mgym1lv) ![](assets/new.png)  
 - [2022-01-11-Flink-大规模作业调度性能优化](https://toutiao.io/k/r8koytk) ![](assets/new.png)  
 - [2022-01-11-30+条业务线，携程微信小程序如何协同开发](https://toutiao.io/k/kh496og) ![](assets/new.png)  
-- [2022-01-11-如何高效的阅读论文](https://toutiao.io/k/iv01cqk) ![](assets/new.png)  
-- [2022-01-11-浅谈缓存最终一致性的解决方案](https://toutiao.io/k/mgym1lv) ![](assets/new.png)  
-- [2022-01-11-10分钟弄懂微应用框架——乾坤，真香！](https://toutiao.io/k/i9cj9ad) ![](assets/new.png)  
 - [2022-01-11-知名开源库惊现666版本！神秘Bug影响超2万个项目，亚马逊云也躺枪](https://toutiao.io/k/ggyi1k2) ![](assets/new.png)  
+- [2022-01-11-如何高效的阅读论文](https://toutiao.io/k/iv01cqk) ![](assets/new.png)  
 - [2022-01-11-Web3.0是什么，为什么MetaVerse这么火？2022安全方向展望；腾讯开源的代码综合分析跟踪系统](https://toutiao.io/k/dwx3rx2) ![](assets/new.png)  
-- [2022-01-11-推荐-画架构图的神器](https://toutiao.io/k/4773s9p) ![](assets/new.png)  
-- [2022-01-11-推荐-登录态-&-SSO](https://toutiao.io/k/vjcw3vh) ![](assets/new.png)  
-- [2022-01-11-推荐-2021年美团技术团队最受欢迎的22篇技术文章](https://toutiao.io/k/pjse55y) ![](assets/new.png)  
-- [2022-01-11-推荐-缓存一致性最佳实践](https://toutiao.io/k/ymscqc1) ![](assets/new.png)  
+- [2022-01-11-10分钟弄懂微应用框架——乾坤，真香！](https://toutiao.io/k/i9cj9ad) ![](assets/new.png)  
 - [2022-01-11-推荐-再见了-VMware，一款更轻量级的虚拟机！](https://toutiao.io/k/xw2lnva) ![](assets/new.png)  
+- [2022-01-11-推荐-缓存一致性最佳实践](https://toutiao.io/k/ymscqc1) ![](assets/new.png)  
+- [2022-01-11-推荐-2021年美团技术团队最受欢迎的22篇技术文章](https://toutiao.io/k/pjse55y) ![](assets/new.png)  
+- [2022-01-11-推荐-面渣逆袭：JVM经典五十问，这下面试稳了！](https://toutiao.io/k/wideaab) ![](assets/new.png)  
+- [2022-01-11-推荐-登录态-&-SSO](https://toutiao.io/k/vjcw3vh) ![](assets/new.png)  
+- [2022-01-11-推荐-非常哇塞的-ES读场景、写场景-性能优化指南！你值得拥有！](https://toutiao.io/k/5pjb28q) ![](assets/new.png)  
 - [2022-01-11-推荐-2022新年伊始，送你百篇干货文章](https://toutiao.io/k/kchudkd) ![](assets/new.png)  
 - [2022-01-11-推荐-聊聊spring事务失效的12种场景，太坑了](https://toutiao.io/k/uf6yk96) ![](assets/new.png)  
-- [2022-01-11-推荐-面渣逆袭：JVM经典五十问，这下面试稳了！](https://toutiao.io/k/wideaab) ![](assets/new.png)  
-- [2022-01-11-推荐-非常哇塞的-ES读场景、写场景-性能优化指南！你值得拥有！](https://toutiao.io/k/5pjb28q) ![](assets/new.png)  
+- [2022-01-11-推荐-画架构图的神器](https://toutiao.io/k/4773s9p) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

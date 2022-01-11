@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2022-01-11 21:42:59。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-01-11 21:55:31。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-01-11-M1-macOS-每次开机之后第一次用-git-时都会遇到这样的一个提示](https://www.v2ex.com/t/827715) 
 - [2022-01-11-v2-有抽雪茄的朋友么](https://www.v2ex.com/t/827714) 
 - [2022-01-11-抢到-speed.ga-域名，随手搭个测速网站](https://www.v2ex.com/t/827713) 
 - [2022-01-11-你为什么听音乐？](https://www.v2ex.com/t/827711) 
@@ -40,4 +41,3 @@
 - [2022-01-11-v2ex-网站在-chrome-浏览器显示异常](https://www.v2ex.com/t/827669) 
 - [2022-01-11-现在有仿-macOS-的-QuickTime-Player-协议录屏的软件么？](https://www.v2ex.com/t/827668) 
 - [2022-01-11-macOS-插入有线的时候自动禁用-WIFI-再启用的脚本该怎么写？](https://www.v2ex.com/t/827667) 
-- [2022-01-11-安徽联通收回-ipv4-公网-ip](https://www.v2ex.com/t/827665) 

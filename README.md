@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-11 14:42:39，:rocket: 更新条数: +1734， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-11 14:54:42，:rocket: 更新条数: +1735， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,10 @@
 </summary>
 
 
+- [2022-01-11-关于口腔溃疡吃辣](https://www.v2ex.com/t/827695) ![](assets/new.png)  
+- [2022-01-11-分享下我的独立开发日记-03](https://www.v2ex.com/t/827693) ![](assets/new.png)  
+- [2022-01-11-定位灵异现象，求科学解答](https://www.v2ex.com/t/827692) ![](assets/new.png)  
+- [2022-01-11-有啥不错的历史纪录片推荐下吗](https://www.v2ex.com/t/827691) ![](assets/new.png)  
 - [2022-01-11-PCEVA-SSD-耐力赛结束，-6-块原厂-SSD-都撑到了-3000TB-写入](https://www.v2ex.com/t/827690) ![](assets/new.png)  
 - [2022-01-11-请问现在还有啥-IOS-商店-app-价格追踪工具？](https://www.v2ex.com/t/827689) ![](assets/new.png)  
 - [2022-01-11-华为花瓣搜索上线了！](https://www.v2ex.com/t/827688) ![](assets/new.png)  
@@ -510,10 +514,6 @@
 - [2022-01-11-贵又值得买的软件有哪些？](https://www.v2ex.com/t/827673) ![](assets/new.png)  
 - [2022-01-11-广州电信-1000M-精准限速。被-OLT-限速了。](https://www.v2ex.com/t/827672) ![](assets/new.png)  
 - [2022-01-11-C#-有什么方法可以获得-控制面板-添加打印机-安装打印机驱动程序-上的列表吗？](https://www.v2ex.com/t/827671) ![](assets/new.png)  
-- [2022-01-11-v2ex-网站在-chrome-浏览器显示异常](https://www.v2ex.com/t/827669) ![](assets/new.png)  
-- [2022-01-11-现在有仿-macOS-的-QuickTime-Player-协议录屏的软件么？](https://www.v2ex.com/t/827668) ![](assets/new.png)  
-- [2022-01-11-macOS-插入有线的时候自动禁用-WIFI-再启用的脚本该怎么写？](https://www.v2ex.com/t/827667) ![](assets/new.png)  
-- [2022-01-11-安徽联通收回-ipv4-公网-ip](https://www.v2ex.com/t/827665) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -567,15 +567,15 @@
 - [2022-01-11-如何高效的阅读论文](https://toutiao.io/k/iv01cqk) ![](assets/new.png)  
 - [2022-01-11-仙女逗猫棒自嗨解闷神器，点击链接立即下单！](https://toutiao.io/k/1f9ycl7) ![](assets/new.png)  
 - [2022-01-11-10分钟弄懂微应用框架——乾坤，真香！](https://toutiao.io/k/i9cj9ad) ![](assets/new.png)  
-- [2022-01-11-从阿里核心场景看实时数仓的发展趋势](https://toutiao.io/k/4vtmdju) ![](assets/new.png)  
 - [2022-01-11-设计模式系列——代理模式](https://toutiao.io/k/9dnw4ue) ![](assets/new.png)  
+- [2022-01-11-从阿里核心场景看实时数仓的发展趋势](https://toutiao.io/k/4vtmdju) ![](assets/new.png)  
 - [2022-01-11-使用插件创建-.NET-Core-应用程序](https://toutiao.io/k/txpyk3j) ![](assets/new.png)  
 - [2022-01-11-Julia编程基础---第-10-章-容器：数组（下）2/3](https://toutiao.io/k/ow8ro2b) ![](assets/new.png)  
 - [2022-01-11-表驱动法，逻辑控制优化利器](https://toutiao.io/k/6ysq24l) ![](assets/new.png)  
 - [2022-01-11-湖中剑-前端周刊-#18-|-动态图片、Chrome-97、依赖注入、Web-IDE、Monorepo](https://toutiao.io/k/ntof5y1) ![](assets/new.png)  
 - [2022-01-11-Jetpack-叒一新成员-DragAndDrop-框架：大大简化拖放手势开发！](https://toutiao.io/k/i5nwdyy) ![](assets/new.png)  
-- [2022-01-11-推荐-再见了-VMware，一款更轻量级的虚拟机！](https://toutiao.io/k/xw2lnva) ![](assets/new.png)  
-- [2022-01-11-推荐-2022新年伊始，送你百篇干货文章](https://toutiao.io/k/kchudkd) ![](assets/new.png)  
+- [2022-01-11-推荐-偷天换日，用-JavaAgent-欺骗你的-JVM](https://toutiao.io/k/cah22k5) ![](assets/new.png)  
+- [2022-01-11-推荐-画架构图的神器](https://toutiao.io/k/4773s9p) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

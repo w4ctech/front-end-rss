@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-01-11 04:16:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-01-11 04:29:08。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -69,11 +69,12 @@
 
 
 - [【武汉肺炎防疫全纪录(财新网)】2022-01-11-1月10日全国新增新冠192例-三省份本土110例](https://m.caixin.com/m/2022-01-11/101828449.html) 
+- [【武汉肺炎防疫全纪录(财新网)】2022-01-11-违反疫情防控规定多人被查-河南警方通报典型案例](https://china.caixin.com/m/2022-01-11/101828548.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2022-01-11-普通感冒T细胞或可对抗新冠-法国住院人数大增丨大流行手记（1月10日）](https://m.caixin.com/m/2022-01-11/101828480.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2022-01-10-天津已报告本土感染者41例-其它新增初筛阳性待核验后通报](https://china.caixin.com/m/2022-01-10/101828291.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2022-01-10-深圳罗湖部分文娱场所暂停开放-病例或由境外污染物品引发感染](https://m.caixin.com/m/2022-01-10/101828285.html) 
-- [【武汉肺炎防疫全纪录(财新网)】2022-01-10-河南安阳疫情与天津同源-系奥密克戎](https://m.caixin.com/m/2022-01-10/101827909.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2022-01-10-最新海外疫情：新冠感染超3.06亿-累计接种新冠疫苗超94.27亿剂次](https://m.caixin.com/m/2022-01-10/101828307.html) 
+- [【武汉肺炎防疫全纪录(财新网)】2022-01-10-河南安阳疫情与天津同源-系奥密克戎](https://m.caixin.com/m/2022-01-10/101827909.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2022-01-10-【境内疫情观察】全国新增97例本土病例（1月9日）](https://database.caixin.com/m/2022-01-10/101828173.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2022-01-10-菲律宾检测阳性率近45%，以色列推动家庭新冠自查｜大流行手记（1月9日）](https://m.caixin.com/m/2022-01-10/101827923.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2022-01-10-网坛名将拒打疫苗衍生的入境争议胜诉-澳政府不打算妥协](https://international.caixin.com/m/2022-01-10/101828335.html) 
@@ -129,6 +130,7 @@
 - [【武汉肺炎防疫全纪录(财新网)】2022-01-01-【境内疫情观察】陕西新增174例本土病例（12月31日）](https://database.caixin.com/m/2022-01-01/101825023.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2022-01-01-英国重启临时医院，多国医疗系统承压｜大流行手记（12月31日）](https://m.caixin.com/m/2022-01-01/101824902.html) 
 - [【阮一峰的网络日志】2022-01-07-科技爱好者周刊（第-191-期）：一个程序员的财务独立之路](http://www.ruanyifeng.com/blog/2022/01/weekly-issue-191.html) 
+- [【V2EX】2022-01-11-裸辞一年半，要不要直接去一线城市找工作？](https://www.v2ex.com/t/827529) 
 - [【V2EX】2022-01-11-作为萌白程序猿的职业规划遇到一点问题，希望能指点一下](https://www.v2ex.com/t/827528) 
 - [【V2EX】2022-01-11-V-友们，小巧-USB-硬盘盒求推荐](https://www.v2ex.com/t/827526) 
 - [【V2EX】2022-01-11-Mac-上-Apple-Music-的歌手名经常自动变成英文的](https://www.v2ex.com/t/827525) 
@@ -148,7 +150,6 @@
 - [【V2EX】2022-01-11-帮忙推荐个壁挂新风](https://www.v2ex.com/t/827507) 
 - [【V2EX】2022-01-11-这样打包会泄漏-apple-id-吗](https://www.v2ex.com/t/827505) 
 - [【V2EX】2022-01-11-看了下百度-https-网址既提供-http2-也提供-http1.1,-怎样指定-http2-呢.-使用-curl-怎么指定参数都无效-浏览器也是-http1.1](https://www.v2ex.com/t/827504) 
-- [【V2EX】2022-01-11-有没有抢票软件推荐](https://www.v2ex.com/t/827503) 
 - [【V2EX】2022-01-11-解锁太频繁/太容易的困扰，寻求解决方案](https://www.v2ex.com/t/827502) 
 - [【V2EX】2022-01-11-开箱晏的声音是本人真实声音吗还是调的？如果是调的怎么调的-有人知道吗](https://www.v2ex.com/t/827501) 
 - [【V2EX】2022-01-11-开放源代码软件运动简述](https://www.v2ex.com/t/827500) 
@@ -167,7 +168,6 @@
 - [【V2EX】2022-01-11-请问出口商品一般需要缴纳多少税？](https://www.v2ex.com/t/827484) 
 - [【V2EX】2022-01-11-企业微信](https://www.v2ex.com/t/827482) 
 - [【V2EX】2022-01-11-Django-ORM-查询问题](https://www.v2ex.com/t/827481) 
-- [【V2EX】2022-01-11-你好，能帮我删掉一个帖子吗](https://www.v2ex.com/t/827479) 
 - [【技术头条】2022-01-11-还在为-Flutter-图表控件发愁么？不妨试试这个-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14894&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F4OKaKf43Y6dSYajaCHnehw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-01-11-用Python做一个游戏辅助脚本！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14893&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247492993%26amp%3Bidx%3D2%26amp%3Bsn%3D67230660b390f06f5584792da10b1078%26amp%3Bchksm%3Dfa3f04dacd488dccec0f68b1534821b98dde1730e4970ca0629239bd3275199e72af4b3c8771%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-01-11-阿里巴巴为什么能抗住90秒100亿？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14892&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247492963%26amp%3Bidx%3D1%26amp%3Bsn%3Dc055d55af2f4efdf70718c31e2b15ec9%26amp%3Bchksm%3Dfa3f0438cd488d2e2f70ee7dd5bb2751f5ec496ad010734777adaa544841a94c6f3fad2dffa0%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -191,8 +191,8 @@
 - [【开发者头条】2022-01-11-从零开始搭建公司微服务授权架构技术栈（3种模式），这架构稳的一批...](https://toutiao.io/k/4g58j8v) 
 - [【开发者头条】2022-01-11-浅谈缓存最终一致性的解决方案](https://toutiao.io/k/mgym1lv) 
 - [【开发者头条】2022-01-11-撸猫必备三件套，立即下单现价仅需8.9元！](https://toutiao.io/k/14kxbpf) 
-- [【开发者头条】2022-01-11-知名开源库惊现666版本！神秘Bug影响超2万个项目，亚马逊云也躺枪](https://toutiao.io/k/ggyi1k2) 
 - [【开发者头条】2022-01-11-Flink-大规模作业调度性能优化](https://toutiao.io/k/r8koytk) 
+- [【开发者头条】2022-01-11-知名开源库惊现666版本！神秘Bug影响超2万个项目，亚马逊云也躺枪](https://toutiao.io/k/ggyi1k2) 
 - [【开发者头条】2022-01-11-Web3.0是什么，为什么MetaVerse这么火？2022安全方向展望；腾讯开源的代码综合分析跟踪系统](https://toutiao.io/k/dwx3rx2) 
 - [【开发者头条】2022-01-11-如何高效的阅读论文](https://toutiao.io/k/iv01cqk) 
 - [【开发者头条】2022-01-11-30+条业务线，携程微信小程序如何协同开发](https://toutiao.io/k/kh496og) 
@@ -201,15 +201,15 @@
 - [【开发者头条】2022-01-11-JVM调优的几种场景（建议收藏）](https://toutiao.io/k/0mfx2nd) 
 - [【开发者头条】2022-01-11-Julia编程基础---第-10-章-容器：数组（下）2/3](https://toutiao.io/k/ow8ro2b) 
 - [【开发者头条】2022-01-11-使用插件创建-.NET-Core-应用程序](https://toutiao.io/k/txpyk3j) 
-- [【开发者头条】2022-01-11-推荐-再见了-VMware，一款更轻量级的虚拟机！](https://toutiao.io/k/xw2lnva) 
+- [【开发者头条】2022-01-11-推荐-2021年美团技术团队最受欢迎的22篇技术文章](https://toutiao.io/k/pjse55y) 
+- [【开发者头条】2022-01-11-推荐-面渣逆袭：JVM经典五十问，这下面试稳了！](https://toutiao.io/k/wideaab) 
+- [【开发者头条】2022-01-11-推荐-聊聊spring事务失效的12种场景，太坑了](https://toutiao.io/k/uf6yk96) 
+- [【开发者头条】2022-01-11-推荐-缓存一致性最佳实践](https://toutiao.io/k/ymscqc1) 
+- [【开发者头条】2022-01-11-推荐-登录态-&-SSO](https://toutiao.io/k/vjcw3vh) 
 - [【开发者头条】2022-01-11-推荐-画架构图的神器](https://toutiao.io/k/4773s9p) 
 - [【开发者头条】2022-01-11-推荐-非常哇塞的-ES读场景、写场景-性能优化指南！你值得拥有！](https://toutiao.io/k/5pjb28q) 
 - [【开发者头条】2022-01-11-推荐-2022新年伊始，送你百篇干货文章](https://toutiao.io/k/kchudkd) 
-- [【开发者头条】2022-01-11-推荐-面渣逆袭：JVM经典五十问，这下面试稳了！](https://toutiao.io/k/wideaab) 
-- [【开发者头条】2022-01-11-推荐-聊聊spring事务失效的12种场景，太坑了](https://toutiao.io/k/uf6yk96) 
-- [【开发者头条】2022-01-11-推荐-2021年美团技术团队最受欢迎的22篇技术文章](https://toutiao.io/k/pjse55y) 
-- [【开发者头条】2022-01-11-推荐-登录态-&-SSO](https://toutiao.io/k/vjcw3vh) 
-- [【开发者头条】2022-01-11-推荐-缓存一致性最佳实践](https://toutiao.io/k/ymscqc1) 
+- [【开发者头条】2022-01-11-推荐-再见了-VMware，一款更轻量级的虚拟机！](https://toutiao.io/k/xw2lnva) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

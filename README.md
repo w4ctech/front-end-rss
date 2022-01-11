@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-11 07:13:35，:rocket: 更新条数: +1703， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-11 07:21:50，:rocket: 更新条数: +1703， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,7 @@
 </summary>
 
 
+- [2022-01-11-Windows-server-能做什么酷酷的事情吗？](https://www.v2ex.com/t/827581) ![](assets/new.png)  
 - [2022-01-11-大家看过什么叙事宏大的影视作品么？动漫电影电视都算。](https://www.v2ex.com/t/827579) ![](assets/new.png)  
 - [2022-01-11-基础知识学习和实战学习该如何搭配？面试官怎么看自己的项目？](https://www.v2ex.com/t/827578) ![](assets/new.png)  
 - [2022-01-11-求助，想把几个静态页面放到网上让别人能访问，选什么做后端或者服务器呢？](https://www.v2ex.com/t/827576) ![](assets/new.png)  
@@ -513,7 +514,6 @@
 - [2022-01-11-创维-小湃-OS-的同学](https://www.v2ex.com/t/827551) ![](assets/new.png)  
 - [2022-01-11-博客里中英文混排字体与排版最漂亮的有哪些推荐](https://www.v2ex.com/t/827549) ![](assets/new.png)  
 - [2022-01-11-macOS-默认拼音输入法令我崩溃，垃圾-macOS](https://www.v2ex.com/t/827546) ![](assets/new.png)  
-- [2022-01-11-前辈们,求助-React-ref-的相关知识](https://www.v2ex.com/t/827545) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -574,7 +574,7 @@
 - [2022-01-11-表驱动法，逻辑控制优化利器](https://toutiao.io/k/6ysq24l) ![](assets/new.png)  
 - [2022-01-11-湖中剑-前端周刊-#18-|-动态图片、Chrome-97、依赖注入、Web-IDE、Monorepo](https://toutiao.io/k/ntof5y1) ![](assets/new.png)  
 - [2022-01-11-Jetpack-叒一新成员-DragAndDrop-框架：大大简化拖放手势开发！](https://toutiao.io/k/i5nwdyy) ![](assets/new.png)  
-- [2022-01-11-推荐-再见了-VMware，一款更轻量级的虚拟机！](https://toutiao.io/k/xw2lnva) ![](assets/new.png)  
+- [2022-01-11-推荐-登录态-&-SSO](https://toutiao.io/k/vjcw3vh) ![](assets/new.png)  
 - [2022-01-11-推荐-画架构图的神器](https://toutiao.io/k/4773s9p) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

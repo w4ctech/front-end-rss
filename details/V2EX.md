@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2022-01-11 07:13:35。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-01-11 07:21:50。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-01-11-Windows-server-能做什么酷酷的事情吗？](https://www.v2ex.com/t/827581) 
 - [2022-01-11-大家看过什么叙事宏大的影视作品么？动漫电影电视都算。](https://www.v2ex.com/t/827579) 
 - [2022-01-11-基础知识学习和实战学习该如何搭配？面试官怎么看自己的项目？](https://www.v2ex.com/t/827578) 
 - [2022-01-11-求助，想把几个静态页面放到网上让别人能访问，选什么做后端或者服务器呢？](https://www.v2ex.com/t/827576) 
@@ -34,4 +35,3 @@
 - [2022-01-11-这年头，买台电脑也像买期货](https://www.v2ex.com/t/827535) 
 - [2022-01-11-Technical-Project-Manager-流媒体背景，上海](https://www.v2ex.com/t/827534) 
 - [2022-01-11-熟悉云原生-kubernetes、docker、-Linux-，网络、协议中间件,-Devops-工具链等-常用语言-c/go/rust/lex&yacc-...-等等-求一份远程工作，](https://www.v2ex.com/t/827532) 
-- [2022-01-11-求职远程-Python-后端-||-前端](https://www.v2ex.com/t/827531) 

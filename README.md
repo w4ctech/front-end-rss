@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-11 13:44:28，:rocket: 更新条数: +1732， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-11 13:54:12，:rocket: 更新条数: +1733， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -71,6 +71,7 @@
 - [2022-01-11-疫情病例增至8例-深圳疾控建议勿购买境外高风险地区商品](https://m.caixin.com/m/2022-01-11/101828583.html) ![](assets/new.png)  
 - [2022-01-11-最新海外疫情：新冠感染超3.09亿-累计接种新冠疫苗超94.33亿剂次](https://m.caixin.com/m/2022-01-11/101828842.html) ![](assets/new.png)  
 - [2022-01-11-违反疫情防控规定多人被查-河南警方通报典型案例](https://china.caixin.com/m/2022-01-11/101828548.html) ![](assets/new.png)  
+- [2022-01-11-【境内疫情观察】河南新增87例本土病例（1月10日）](https://database.caixin.com/m/2022-01-11/101828867.html) ![](assets/new.png)  
 - [2022-01-11-普通感冒T细胞或可对抗新冠-法国住院人数大增丨大流行手记（1月10日）](https://m.caixin.com/m/2022-01-11/101828480.html) ![](assets/new.png)  
 - [2022-01-11-【图集】智利为免疫薄弱人群接种第四针新冠疫苗](https://photos.caixin.com/m/2022-01-11/101828660.html) ![](assets/new.png)  
 - [2022-01-10-天津已报告本土感染者41例-其它新增初筛阳性待核验后通报](https://china.caixin.com/m/2022-01-10/101828291.html) ![](assets/new.png)  
@@ -84,7 +85,6 @@
 - [2022-01-09-河南许昌禹州疫情与郑州同源-安阳新增确诊14例](https://china.caixin.com/m/2022-01-09/101827835.html) ![](assets/new.png)  
 - [2022-01-09-本土奥密克戎终现天津-已启动全市新冠核检](https://m.caixin.com/m/2022-01-09/101827751.html) ![](assets/new.png)  
 - [2022-01-09-天津示20例阳性感染者详情-15例为中小学生](https://m.caixin.com/m/2022-01-09/101827759.html) ![](assets/new.png)  
-- [2022-01-09-【境内疫情观察】全国新增92例本土病例（1月8日）](https://database.caixin.com/m/2022-01-09/101827816.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -494,6 +494,8 @@
 </summary>
 
 
+- [2022-01-11-有没有用过-RediSearch-的？](https://www.v2ex.com/t/827683) ![](assets/new.png)  
+- [2022-01-11-晒晒你们的电脑桌面吧](https://www.v2ex.com/t/827682) ![](assets/new.png)  
 - [2022-01-11-在闲鱼买了件东西，自动扣了-1000-充值到天猫超市，阿里还有这操作？？](https://www.v2ex.com/t/827681) ![](assets/new.png)  
 - [2022-01-11-国行-MBA-欧版-AC+](https://www.v2ex.com/t/827680) ![](assets/new.png)  
 - [2022-01-11-墨刀企业版过期后，作品不给导出，有什么办法吗?](https://www.v2ex.com/t/827679) ![](assets/new.png)  
@@ -512,8 +514,6 @@
 - [2022-01-11-迫于去四川过年，求四川话速成](https://www.v2ex.com/t/827662) ![](assets/new.png)  
 - [2022-01-11-有没有办法强制卸载系统自带的网卡驱动然后安装“旧版本”以便能够通过其他设备网络唤醒](https://www.v2ex.com/t/827661) ![](assets/new.png)  
 - [2022-01-11-冬天北京市郊自驾游，有哪些推荐的地方？](https://www.v2ex.com/t/827660) ![](assets/new.png)  
-- [2022-01-11-2021-16-寸-macbook-需要带键盘套么？](https://www.v2ex.com/t/827659) ![](assets/new.png)  
-- [2022-01-11-后端可以知道前端按钮是通过用户点击的还是通过调用-click点击的吗？](https://www.v2ex.com/t/827658) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -574,8 +574,8 @@
 - [2022-01-11-表驱动法，逻辑控制优化利器](https://toutiao.io/k/6ysq24l) ![](assets/new.png)  
 - [2022-01-11-湖中剑-前端周刊-#18-|-动态图片、Chrome-97、依赖注入、Web-IDE、Monorepo](https://toutiao.io/k/ntof5y1) ![](assets/new.png)  
 - [2022-01-11-Jetpack-叒一新成员-DragAndDrop-框架：大大简化拖放手势开发！](https://toutiao.io/k/i5nwdyy) ![](assets/new.png)  
-- [2022-01-11-推荐-登录态-&-SSO](https://toutiao.io/k/vjcw3vh) ![](assets/new.png)  
-- [2022-01-11-推荐-非常哇塞的-ES读场景、写场景-性能优化指南！你值得拥有！](https://toutiao.io/k/5pjb28q) ![](assets/new.png)  
+- [2022-01-11-推荐-聊聊spring事务失效的12种场景，太坑了](https://toutiao.io/k/uf6yk96) ![](assets/new.png)  
+- [2022-01-11-推荐-缓存一致性最佳实践](https://toutiao.io/k/ymscqc1) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

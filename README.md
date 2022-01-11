@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-11 08:27:47，:rocket: 更新条数: +1705， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-11 08:46:26，:rocket: 更新条数: +1696， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -36,7 +36,7 @@
 - [前端瓶子君](#前端瓶子君)  
 - [程序员成长指北](#程序员成长指北)  
 - [Nodejs技术栈](#nodejs技术栈)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [京东设计中心](#京东设计中心)  
 - [凹凸实验室](#凹凸实验室)  
@@ -316,16 +316,6 @@
 </summary>
 
 
-- [2021-12-29-JS-标签模板（Tagged-templates）什么时候使用？](https://www.zhangxinxu.com/wordpress/2021/12/js-tagged-templates/) ![](assets/new.png)  
-- [2021-12-20-深入JS-getRandomValues和Math.random方法](https://www.zhangxinxu.com/wordpress/2021/12/js-getrandomvalue-math-random/) ![](assets/new.png)  
-- [2021-12-13-你不知道的CSS-media查询与用户体验](https://www.zhangxinxu.com/wordpress/2021/12/css-meida-user-experience/) ![](assets/new.png)  
-- [2021-12-08-flex-end为什么overflow无法滚动及解决方法](https://www.zhangxinxu.com/wordpress/2021/12/flex-end-overflow/) ![](assets/new.png)  
-- [2021-11-23-从js-visibilitychange-Safari下无效说开去](https://www.zhangxinxu.com/wordpress/2021/11/js-visibilitychange-pagehide-lifecycle/) ![](assets/new.png)  
-- [2021-11-14-密码强度效果最佳实现一定是HTML-meter元素](https://www.zhangxinxu.com/wordpress/2021/11/html-meter-password/) ![](assets/new.png)  
-- [2021-11-02-见多识广，介绍Web开发中current开头的一些API属性](https://www.zhangxinxu.com/wordpress/2021/11/currentscript-currenttarget-currentsrc/) ![](assets/new.png)  
-- [2021-10-28-JS复制文字到剪切板的极简实现及扩展](https://www.zhangxinxu.com/wordpress/2021/10/js-copy-paste-clipboard/) ![](assets/new.png)  
-- [2021-10-24-CSS-@counter-style规则详细介绍](https://www.zhangxinxu.com/wordpress/2021/10/css-counter-style/) ![](assets/new.png)  
-- [2021-10-08-CSS-content新的替换元素规范行为解读](https://www.zhangxinxu.com/wordpress/2021/10/css-content-url/) ![](assets/new.png)  
 - [......【查看更多】......](./details/张鑫旭-鑫空间-鑫生活.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -494,6 +484,9 @@
 </summary>
 
 
+- [2022-01-11-美资外企-北京-高级前端/大数据/后端研发工程师-架构师](https://www.v2ex.com/t/827613) ![](assets/new.png)  
+- [2022-01-11-新加坡，远程工作机会-量化策略研究员-，-C++，智能合约工程师，全栈工程师](https://www.v2ex.com/t/827612) ![](assets/new.png)  
+- [2022-01-11-请问下从互联网大厂跳到量化私募的-uu-们，是因于什么原因，或者来说是被什么吸引到了呀，谢谢！](https://www.v2ex.com/t/827611) ![](assets/new.png)  
 - [2022-01-11-求靠谱的-5G-手机套餐](https://www.v2ex.com/t/827608) ![](assets/new.png)  
 - [2022-01-11-2022-年了，没有手机的情况下能否生活下去呢？](https://www.v2ex.com/t/827607) ![](assets/new.png)  
 - [2022-01-11-微信-BUG-微信賬號綁定的郵箱竟然有兩個“.”](https://www.v2ex.com/t/827605) ![](assets/new.png)  
@@ -511,9 +504,6 @@
 - [2022-01-11-时隔六年，再想想一线城市住房车的可能性](https://www.v2ex.com/t/827590) ![](assets/new.png)  
 - [2022-01-11-发现了这个新节点，但是-Polkadot-项目其实已经换了新的-icon-了😂](https://www.v2ex.com/t/827589) ![](assets/new.png)  
 - [2022-01-11-屌丝在澳洲--聊聊我认识的全球华语区人口（全世界讲华语的人）](https://www.v2ex.com/t/827588) ![](assets/new.png)  
-- [2022-01-11-最近-iOS-的微信内输入中文经常不出候选词](https://www.v2ex.com/t/827586) ![](assets/new.png)  
-- [2022-01-11-请问这种-Github-链接是如何取得的](https://www.v2ex.com/t/827584) ![](assets/new.png)  
-- [2022-01-11-Windows-server-能做什么酷酷的事情吗？](https://www.v2ex.com/t/827581) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -574,8 +564,8 @@
 - [2022-01-11-湖中剑-前端周刊-#18-|-动态图片、Chrome-97、依赖注入、Web-IDE、Monorepo](https://toutiao.io/k/ntof5y1) ![](assets/new.png)  
 - [2022-01-11-表驱动法，逻辑控制优化利器](https://toutiao.io/k/6ysq24l) ![](assets/new.png)  
 - [2022-01-11-Jetpack-叒一新成员-DragAndDrop-框架：大大简化拖放手势开发！](https://toutiao.io/k/i5nwdyy) ![](assets/new.png)  
-- [2022-01-11-推荐-聊聊spring事务失效的12种场景，太坑了](https://toutiao.io/k/uf6yk96) ![](assets/new.png)  
-- [2022-01-11-推荐-面渣逆袭：JVM经典五十问，这下面试稳了！](https://toutiao.io/k/wideaab) ![](assets/new.png)  
+- [2022-01-11-推荐-2022新年伊始，送你百篇干货文章](https://toutiao.io/k/kchudkd) ![](assets/new.png)  
+- [2022-01-11-推荐-登录态-&-SSO](https://toutiao.io/k/vjcw3vh) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

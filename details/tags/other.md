@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-01-11 08:27:47。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-01-11 08:46:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1590,11 +1590,11 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
-- [2021-11-14-密码强度效果最佳实现一定是HTML-meter元素](https://www.zhangxinxu.com/wordpress/2021/11/html-meter-password/) 
-- [2021-11-02-见多识广，介绍Web开发中current开头的一些API属性](https://www.zhangxinxu.com/wordpress/2021/11/currentscript-currenttarget-currentsrc/) 
 - [2022-01-07-科技爱好者周刊（第-191-期）：一个程序员的财务独立之路](http://www.ruanyifeng.com/blog/2022/01/weekly-issue-191.html) 
 - [2021-12-31-科技爱好者周刊（第-190-期）：产品化思维](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-190.html) 
 - [2021-12-24-科技爱好者周刊（第-189-期）：下一个内卷的行业](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-189.html) 
+- [2022-01-11-美资外企-北京-高级前端/大数据/后端研发工程师-架构师](https://www.v2ex.com/t/827613) 
+- [2022-01-11-请问下从互联网大厂跳到量化私募的-uu-们，是因于什么原因，或者来说是被什么吸引到了呀，谢谢！](https://www.v2ex.com/t/827611) 
 - [2022-01-11-求靠谱的-5G-手机套餐](https://www.v2ex.com/t/827608) 
 - [2022-01-11-2022-年了，没有手机的情况下能否生活下去呢？](https://www.v2ex.com/t/827607) 
 - [2022-01-11-微信-BUG-微信賬號綁定的郵箱竟然有兩個“.”](https://www.v2ex.com/t/827605) 
@@ -1648,9 +1648,9 @@
 - [2022-01-11-从阿里核心场景看实时数仓的发展趋势](https://toutiao.io/k/4vtmdju) 
 - [2022-01-11-设计模式系列——代理模式](https://toutiao.io/k/9dnw4ue) 
 - [2022-01-11-Jetpack-叒一新成员-DragAndDrop-框架：大大简化拖放手势开发！](https://toutiao.io/k/i5nwdyy) 
-- [2022-01-11-推荐-聊聊spring事务失效的12种场景，太坑了](https://toutiao.io/k/uf6yk96) 
-- [2022-01-11-推荐-登录态-&-SSO](https://toutiao.io/k/vjcw3vh) 
-- [2022-01-11-推荐-再见了-VMware，一款更轻量级的虚拟机！](https://toutiao.io/k/xw2lnva) 
-- [2022-01-11-推荐-2021年美团技术团队最受欢迎的22篇技术文章](https://toutiao.io/k/pjse55y) 
 - [2022-01-11-推荐-2022新年伊始，送你百篇干货文章](https://toutiao.io/k/kchudkd) 
+- [2022-01-11-推荐-登录态-&-SSO](https://toutiao.io/k/vjcw3vh) 
+- [2022-01-11-推荐-2021年美团技术团队最受欢迎的22篇技术文章](https://toutiao.io/k/pjse55y) 
+- [2022-01-11-推荐-聊聊spring事务失效的12种场景，太坑了](https://toutiao.io/k/uf6yk96) 
 - [2022-01-11-推荐-画架构图的神器](https://toutiao.io/k/4773s9p) 
+- [2022-01-11-推荐-再见了-VMware，一款更轻量级的虚拟机！](https://toutiao.io/k/xw2lnva) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-01-11 14:21:40。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-01-11 14:39:14。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -6,6 +6,7 @@
 
 
 - [2022-01-11-最新疫情：全国新冠累计确诊103968例-累计接种新冠疫苗超29.05亿剂次](https://m.caixin.com/m/2022-01-11/101828838.html) 
+- [2022-01-11-天津省际班线全部暂停-机场97%航班被取消](https://companies.caixin.com/m/2022-01-11/101828896.html) 
 - [2022-01-11-天津累计报告感染者97例-已出现家庭聚集传播6起](https://m.caixin.com/m/2022-01-11/101828766.html) 
 - [2022-01-11-香港本地疫情蔓延-幼儿园小学再全面“停课”](https://m.caixin.com/m/2022-01-11/101828627.html) 
 - [2022-01-11-最新海外疫情：新冠感染超3.09亿-累计接种新冠疫苗超94.33亿剂次](https://m.caixin.com/m/2022-01-11/101828842.html) 
@@ -1613,6 +1614,9 @@
 - [2022-01-07-科技爱好者周刊（第-191-期）：一个程序员的财务独立之路](http://www.ruanyifeng.com/blog/2022/01/weekly-issue-191.html) 
 - [2021-12-31-科技爱好者周刊（第-190-期）：产品化思维](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-190.html) 
 - [2021-12-24-科技爱好者周刊（第-189-期）：下一个内卷的行业](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-189.html) 
+- [2022-01-11-PCEVA-SSD-耐力赛结束，-6-块原厂-SSD-都撑到了-3000TB-写入](https://www.v2ex.com/t/827690) 
+- [2022-01-11-请问现在还有啥-IOS-商店-app-价格追踪工具？](https://www.v2ex.com/t/827689) 
+- [2022-01-11-华为花瓣搜索上线了！](https://www.v2ex.com/t/827688) 
 - [2022-01-11-求推荐便宜的位于大陆外的云主机,-编译用,-很多依赖开代理都拉不下来](https://www.v2ex.com/t/827686) 
 - [2022-01-11-2022-年度晒桌面](https://www.v2ex.com/t/827685) 
 - [2022-01-11-有没有用过-RediSearch-的？](https://www.v2ex.com/t/827683) 
@@ -1646,8 +1650,6 @@
 - [2022-01-11-有玩-pt-的老哥嘛？-m-team-炸了？](https://www.v2ex.com/t/827647) 
 - [2022-01-11-一个开源软件商业化但不影响开源传播的思路，靠谱吗](https://www.v2ex.com/t/827646) 
 - [2022-01-11-银行转账-API](https://www.v2ex.com/t/827643) 
-- [2022-01-11-「只读链接」书籍与文章的邀请](https://www.v2ex.com/t/827640) 
-- [2022-01-11-无法破解的客户端？并非耸人听闻！](https://www.v2ex.com/t/827637) 
 - [2022-01-11-阿里巴巴为什么能抗住90秒100亿？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14892&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247492963%26amp%3Bidx%3D1%26amp%3Bsn%3Dc055d55af2f4efdf70718c31e2b15ec9%26amp%3Bchksm%3Dfa3f0438cd488d2e2f70ee7dd5bb2751f5ec496ad010734777adaa544841a94c6f3fad2dffa0%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-01-11-常见代码重构技巧（非常实用）-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14891&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247492963%26amp%3Bidx%3D2%26amp%3Bsn%3D2ede8b39036a54cdad26ef35d74d7dcc%26amp%3Bchksm%3Dfa3f0438cd488d2ec7349ea9860d3987c3259afc12eb8a46a9569a41a3e0bc2f71ef10854d6c%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-01-11-10个动图,你会喜欢上idea的自动补全!-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14890&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247492923%26amp%3Bidx%3D1%26amp%3Bsn%3De52afa95777cbccbb584aad842d1a22c%26amp%3Bchksm%3Dfa3f0460cd488d76420858c663953776765cab8ce04561a825494e813096703d40f89dbbc5db%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1675,9 +1677,10 @@
 - [2022-01-11-设计模式系列——代理模式](https://toutiao.io/k/9dnw4ue) 
 - [2022-01-11-使用插件创建-.NET-Core-应用程序](https://toutiao.io/k/txpyk3j) 
 - [2022-01-11-Jetpack-叒一新成员-DragAndDrop-框架：大大简化拖放手势开发！](https://toutiao.io/k/i5nwdyy) 
-- [2022-01-11-推荐-聊聊spring事务失效的12种场景，太坑了](https://toutiao.io/k/uf6yk96) 
+- [2022-01-11-推荐-再见了-VMware，一款更轻量级的虚拟机！](https://toutiao.io/k/xw2lnva) 
 - [2022-01-11-推荐-2022新年伊始，送你百篇干货文章](https://toutiao.io/k/kchudkd) 
-- [2022-01-11-推荐-画架构图的神器](https://toutiao.io/k/4773s9p) 
+- [2022-01-11-推荐-偷天换日，用-JavaAgent-欺骗你的-JVM](https://toutiao.io/k/cah22k5) 
 - [2022-01-11-推荐-2021年美团技术团队最受欢迎的22篇技术文章](https://toutiao.io/k/pjse55y) 
 - [2022-01-11-推荐-登录态-&-SSO](https://toutiao.io/k/vjcw3vh) 
-- [2022-01-11-推荐-再见了-VMware，一款更轻量级的虚拟机！](https://toutiao.io/k/xw2lnva) 
+- [2022-01-11-推荐-聊聊spring事务失效的12种场景，太坑了](https://toutiao.io/k/uf6yk96) 
+- [2022-01-11-推荐-画架构图的神器](https://toutiao.io/k/4773s9p) 

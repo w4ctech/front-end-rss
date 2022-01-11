@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-11 15:24:32，:rocket: 更新条数: +1735， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-11 15:45:13，:rocket: 更新条数: +1734， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,7 @@
 </summary>
 
 
+- [2022-01-11-马上就要过年了，今年过年第一次到老丈人家，买点啥好呢？](https://www.v2ex.com/t/827698) ![](assets/new.png)  
 - [2022-01-11-大家知道我们天天呼吸的雾霾会影响呼吸系统、心血管系统、生殖系统吗？](https://www.v2ex.com/t/827697) ![](assets/new.png)  
 - [2022-01-11-关于口腔溃疡吃辣](https://www.v2ex.com/t/827695) ![](assets/new.png)  
 - [2022-01-11-分享下我的独立开发日记-03](https://www.v2ex.com/t/827693) ![](assets/new.png)  
@@ -513,7 +514,6 @@
 - [2022-01-11-Tailscale-是真的好用，但是-DERP-一直没有成功部署。](https://www.v2ex.com/t/827675) ![](assets/new.png)  
 - [2022-01-11-web、h5、小程序、公众号接单](https://www.v2ex.com/t/827674) ![](assets/new.png)  
 - [2022-01-11-贵又值得买的软件有哪些？](https://www.v2ex.com/t/827673) ![](assets/new.png)  
-- [2022-01-11-广州电信-1000M-精准限速。被-OLT-限速了。](https://www.v2ex.com/t/827672) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -574,8 +574,8 @@
 - [2022-01-11-表驱动法，逻辑控制优化利器](https://toutiao.io/k/6ysq24l) ![](assets/new.png)  
 - [2022-01-11-湖中剑-前端周刊-#18-|-动态图片、Chrome-97、依赖注入、Web-IDE、Monorepo](https://toutiao.io/k/ntof5y1) ![](assets/new.png)  
 - [2022-01-11-Jetpack-叒一新成员-DragAndDrop-框架：大大简化拖放手势开发！](https://toutiao.io/k/i5nwdyy) ![](assets/new.png)  
-- [2022-01-11-推荐-偷天换日，用-JavaAgent-欺骗你的-JVM](https://toutiao.io/k/cah22k5) ![](assets/new.png)  
-- [2022-01-11-推荐-2021年美团技术团队最受欢迎的22篇技术文章](https://toutiao.io/k/pjse55y) ![](assets/new.png)  
+- [2022-01-11-推荐-缓存一致性最佳实践](https://toutiao.io/k/ymscqc1) ![](assets/new.png)  
+- [2022-01-11-推荐-再见了-VMware，一款更轻量级的虚拟机！](https://toutiao.io/k/xw2lnva) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

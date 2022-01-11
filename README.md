@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-11 13:00:29，:rocket: 更新条数: +1732， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-11 13:13:00，:rocket: 更新条数: +1732， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -575,7 +575,7 @@
 - [2022-01-11-湖中剑-前端周刊-#18-|-动态图片、Chrome-97、依赖注入、Web-IDE、Monorepo](https://toutiao.io/k/ntof5y1) ![](assets/new.png)  
 - [2022-01-11-Jetpack-叒一新成员-DragAndDrop-框架：大大简化拖放手势开发！](https://toutiao.io/k/i5nwdyy) ![](assets/new.png)  
 - [2022-01-11-推荐-2022新年伊始，送你百篇干货文章](https://toutiao.io/k/kchudkd) ![](assets/new.png)  
-- [2022-01-11-推荐-画架构图的神器](https://toutiao.io/k/4773s9p) ![](assets/new.png)  
+- [2022-01-11-推荐-2021年美团技术团队最受欢迎的22篇技术文章](https://toutiao.io/k/pjse55y) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

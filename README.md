@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-11 09:57:35，:rocket: 更新条数: +1713， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-11 10:14:37，:rocket: 更新条数: +1711， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,8 @@
 </summary>
 
 
+- [2022-01-11-「只读链接」书籍与文章的邀请](https://www.v2ex.com/t/827640) ![](assets/new.png)  
+- [2022-01-11-云原生在线技术工坊，-7-天快速入门-Docker-和-K8s](https://www.v2ex.com/t/827638) ![](assets/new.png)  
 - [2022-01-11-无法破解的客户端？并非耸人听闻！](https://www.v2ex.com/t/827637) ![](assets/new.png)  
 - [2022-01-11-现在你们用哪家交易所进行币币交易啊？](https://www.v2ex.com/t/827636) ![](assets/new.png)  
 - [2022-01-11-左值右值，有没有通俗易懂且具体的资料](https://www.v2ex.com/t/827635) ![](assets/new.png)  
@@ -512,8 +514,6 @@
 - [2022-01-11-求解，为什么-mbp-下-chrome-打开某些网页，-cpu-负载就高的不行](https://www.v2ex.com/t/827618) ![](assets/new.png)  
 - [2022-01-11-记录-Airpods-Pro-AC+检修和换新体验](https://www.v2ex.com/t/827617) ![](assets/new.png)  
 - [2022-01-11-请教-CDN-即使缓存失效-Instant-Cache-Invalidation-的原理](https://www.v2ex.com/t/827616) ![](assets/new.png)  
-- [2022-01-11-使用-Tin-快速安装-TKY（全网最快](https://www.v2ex.com/t/827615) ![](assets/new.png)  
-- [2022-01-11-求助：请问大家在天猫超市买东西有遇到个人发货的情况吗？](https://www.v2ex.com/t/827614) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -574,8 +574,8 @@
 - [2022-01-11-湖中剑-前端周刊-#18-|-动态图片、Chrome-97、依赖注入、Web-IDE、Monorepo](https://toutiao.io/k/ntof5y1) ![](assets/new.png)  
 - [2022-01-11-表驱动法，逻辑控制优化利器](https://toutiao.io/k/6ysq24l) ![](assets/new.png)  
 - [2022-01-11-Jetpack-叒一新成员-DragAndDrop-框架：大大简化拖放手势开发！](https://toutiao.io/k/i5nwdyy) ![](assets/new.png)  
-- [2022-01-11-推荐-聊聊spring事务失效的12种场景，太坑了](https://toutiao.io/k/uf6yk96) ![](assets/new.png)  
-- [2022-01-11-推荐-2022新年伊始，送你百篇干货文章](https://toutiao.io/k/kchudkd) ![](assets/new.png)  
+- [2022-01-11-推荐-缓存一致性最佳实践](https://toutiao.io/k/ymscqc1) ![](assets/new.png)  
+- [2022-01-11-推荐-登录态-&-SSO](https://toutiao.io/k/vjcw3vh) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

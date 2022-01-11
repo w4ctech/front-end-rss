@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-01-11 06:49:48。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-01-11 06:54:52。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1594,6 +1594,8 @@
 - [2022-01-07-科技爱好者周刊（第-191-期）：一个程序员的财务独立之路](http://www.ruanyifeng.com/blog/2022/01/weekly-issue-191.html) 
 - [2021-12-31-科技爱好者周刊（第-190-期）：产品化思维](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-190.html) 
 - [2021-12-24-科技爱好者周刊（第-189-期）：下一个内卷的行业](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-189.html) 
+- [2022-01-11-最近接手了几个-Java-springboot-项目，看能让你吐血不](https://www.v2ex.com/t/827571) 
+- [2022-01-11-Airpods-Pro-切换降噪模式操作流程长问题](https://www.v2ex.com/t/827570) 
 - [2022-01-11-一个不同代码托管平台间-PR-工作流程相关的问题](https://www.v2ex.com/t/827568) 
 - [2022-01-11-新加坡技术移民-新加坡知名上市互联网公司，招移动端（iOS,安卓,-RN），前端，后端（不限开发语言），-DevOps-/SRE-和-DBA-等各类工程师，个税低，没有-996...](https://www.v2ex.com/t/827565) 
 - [2022-01-11-多了/home/ht/speedcc.fit-这个文件？创建时间-2022/1/7-8-点-46-分，-58.4MiB,-FITS-image-data,-32-bit,-two's-complementment-binary](https://www.v2ex.com/t/827564) 
@@ -1617,7 +1619,6 @@
 - [2022-01-11-Mac-上-Apple-Music-的歌手名经常自动变成英文的](https://www.v2ex.com/t/827525) 
 - [2022-01-11-广东电信精准屏蔽](https://www.v2ex.com/t/827524) 
 - [2022-01-11-请问-android10-系统启动两次-Zygote-是什么原因？](https://www.v2ex.com/t/827523) 
-- [2022-01-11-豆瓣小组登录状态只有帖子正文](https://www.v2ex.com/t/827521) 
 - [2022-01-11-阿里巴巴为什么能抗住90秒100亿？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14892&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247492963%26amp%3Bidx%3D1%26amp%3Bsn%3Dc055d55af2f4efdf70718c31e2b15ec9%26amp%3Bchksm%3Dfa3f0438cd488d2e2f70ee7dd5bb2751f5ec496ad010734777adaa544841a94c6f3fad2dffa0%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-01-11-常见代码重构技巧（非常实用）-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14891&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247492963%26amp%3Bidx%3D2%26amp%3Bsn%3D2ede8b39036a54cdad26ef35d74d7dcc%26amp%3Bchksm%3Dfa3f0438cd488d2ec7349ea9860d3987c3259afc12eb8a46a9569a41a3e0bc2f71ef10854d6c%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-01-11-10个动图,你会喜欢上idea的自动补全!-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14890&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247492923%26amp%3Bidx%3D1%26amp%3Bsn%3De52afa95777cbccbb584aad842d1a22c%26amp%3Bchksm%3Dfa3f0460cd488d76420858c663953776765cab8ce04561a825494e813096703d40f89dbbc5db%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1645,9 +1646,9 @@
 - [2022-01-11-设计模式系列——代理模式](https://toutiao.io/k/9dnw4ue) 
 - [2022-01-11-从阿里核心场景看实时数仓的发展趋势](https://toutiao.io/k/4vtmdju) 
 - [2022-01-11-Jetpack-叒一新成员-DragAndDrop-框架：大大简化拖放手势开发！](https://toutiao.io/k/i5nwdyy) 
-- [2022-01-11-推荐-登录态-&-SSO](https://toutiao.io/k/vjcw3vh) 
-- [2022-01-11-推荐-2022新年伊始，送你百篇干货文章](https://toutiao.io/k/kchudkd) 
 - [2022-01-11-推荐-2021年美团技术团队最受欢迎的22篇技术文章](https://toutiao.io/k/pjse55y) 
-- [2022-01-11-推荐-再见了-VMware，一款更轻量级的虚拟机！](https://toutiao.io/k/xw2lnva) 
 - [2022-01-11-推荐-画架构图的神器](https://toutiao.io/k/4773s9p) 
 - [2022-01-11-推荐-聊聊spring事务失效的12种场景，太坑了](https://toutiao.io/k/uf6yk96) 
+- [2022-01-11-推荐-登录态-&-SSO](https://toutiao.io/k/vjcw3vh) 
+- [2022-01-11-推荐-2022新年伊始，送你百篇干货文章](https://toutiao.io/k/kchudkd) 
+- [2022-01-11-推荐-再见了-VMware，一款更轻量级的虚拟机！](https://toutiao.io/k/xw2lnva) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-11 06:28:30，:rocket: 更新条数: +1706， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-11 06:49:48，:rocket: 更新条数: +1703， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,10 @@
 </summary>
 
 
+- [2022-01-11-一个不同代码托管平台间-PR-工作流程相关的问题](https://www.v2ex.com/t/827568) ![](assets/new.png)  
+- [2022-01-11-新加坡技术移民-新加坡知名上市互联网公司，招移动端（iOS,安卓,-RN），前端，后端（不限开发语言），-DevOps-/SRE-和-DBA-等各类工程师，个税低，没有-996...](https://www.v2ex.com/t/827565) ![](assets/new.png)  
+- [2022-01-11-多了/home/ht/speedcc.fit-这个文件？创建时间-2022/1/7-8-点-46-分，-58.4MiB,-FITS-image-data,-32-bit,-two's-complementment-binary](https://www.v2ex.com/t/827564) ![](assets/new.png)  
+- [2022-01-11-关于-git-push--f-覆盖提交的疑问](https://www.v2ex.com/t/827563) ![](assets/new.png)  
 - [2022-01-11-apple-touch-icon-在移动-safari-上不显示，求指教](https://www.v2ex.com/t/827561) ![](assets/new.png)  
 - [2022-01-11-有关-vite-配置-pwa](https://www.v2ex.com/t/827558) ![](assets/new.png)  
 - [2022-01-11-有什么搭建私有化-composer-仓库的工具。除了-git。](https://www.v2ex.com/t/827555) ![](assets/new.png)  
@@ -510,10 +514,6 @@
 - [2022-01-11-奇怪的-iPad-断连问题](https://www.v2ex.com/t/827537) ![](assets/new.png)  
 - [2022-01-11-如何将域名-隐形转发-到-Notion-或指定页面？](https://www.v2ex.com/t/827536) ![](assets/new.png)  
 - [2022-01-11-这年头，买台电脑也像买期货](https://www.v2ex.com/t/827535) ![](assets/new.png)  
-- [2022-01-11-Technical-Project-Manager-流媒体背景，上海](https://www.v2ex.com/t/827534) ![](assets/new.png)  
-- [2022-01-11-熟悉云原生-kubernetes、docker、-Linux-，网络、协议中间件,-Devops-工具链等-常用语言-c/go/rust/lex&yacc-...-等等-求一份远程工作，](https://www.v2ex.com/t/827532) ![](assets/new.png)  
-- [2022-01-11-求职远程-Python-后端-||-前端](https://www.v2ex.com/t/827531) ![](assets/new.png)  
-- [2022-01-11-裸辞一年半，要不要直接去一线城市找工作？](https://www.v2ex.com/t/827529) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -562,8 +562,8 @@
 - [2022-01-11-Flink-大规模作业调度性能优化](https://toutiao.io/k/r8koytk) ![](assets/new.png)  
 - [2022-01-11-Web3.0是什么，为什么MetaVerse这么火？2022安全方向展望；腾讯开源的代码综合分析跟踪系统](https://toutiao.io/k/dwx3rx2) ![](assets/new.png)  
 - [2022-01-11-撸猫必备三件套，立即下单现价仅需8.9元！](https://toutiao.io/k/14kxbpf) ![](assets/new.png)  
-- [2022-01-11-如何高效的阅读论文](https://toutiao.io/k/iv01cqk) ![](assets/new.png)  
 - [2022-01-11-JVM调优的几种场景（建议收藏）](https://toutiao.io/k/0mfx2nd) ![](assets/new.png)  
+- [2022-01-11-如何高效的阅读论文](https://toutiao.io/k/iv01cqk) ![](assets/new.png)  
 - [2022-01-11-30+条业务线，携程微信小程序如何协同开发](https://toutiao.io/k/kh496og) ![](assets/new.png)  
 - [2022-01-11-仙女逗猫棒自嗨解闷神器，点击链接立即下单！](https://toutiao.io/k/1f9ycl7) ![](assets/new.png)  
 - [2022-01-11-10分钟弄懂微应用框架——乾坤，真香！](https://toutiao.io/k/i9cj9ad) ![](assets/new.png)  
@@ -571,11 +571,11 @@
 - [2022-01-11-使用插件创建-.NET-Core-应用程序](https://toutiao.io/k/txpyk3j) ![](assets/new.png)  
 - [2022-01-11-设计模式系列——代理模式](https://toutiao.io/k/9dnw4ue) ![](assets/new.png)  
 - [2022-01-11-从阿里核心场景看实时数仓的发展趋势](https://toutiao.io/k/4vtmdju) ![](assets/new.png)  
-- [2022-01-11-表驱动法，逻辑控制优化利器](https://toutiao.io/k/6ysq24l) ![](assets/new.png)  
 - [2022-01-11-湖中剑-前端周刊-#18-|-动态图片、Chrome-97、依赖注入、Web-IDE、Monorepo](https://toutiao.io/k/ntof5y1) ![](assets/new.png)  
 - [2022-01-11-Jetpack-叒一新成员-DragAndDrop-框架：大大简化拖放手势开发！](https://toutiao.io/k/i5nwdyy) ![](assets/new.png)  
-- [2022-01-11-推荐-非常哇塞的-ES读场景、写场景-性能优化指南！你值得拥有！](https://toutiao.io/k/5pjb28q) ![](assets/new.png)  
-- [2022-01-11-推荐-画架构图的神器](https://toutiao.io/k/4773s9p) ![](assets/new.png)  
+- [2022-01-11-表驱动法，逻辑控制优化利器](https://toutiao.io/k/6ysq24l) ![](assets/new.png)  
+- [2022-01-11-推荐-面渣逆袭：JVM经典五十问，这下面试稳了！](https://toutiao.io/k/wideaab) ![](assets/new.png)  
+- [2022-01-11-推荐-登录态-&-SSO](https://toutiao.io/k/vjcw3vh) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

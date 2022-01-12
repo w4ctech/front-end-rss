@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-01-12 14:42:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-01-12 14:57:57。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1618,6 +1618,7 @@
 - [2022-01-07-科技爱好者周刊（第-191-期）：一个程序员的财务独立之路](http://www.ruanyifeng.com/blog/2022/01/weekly-issue-191.html) 
 - [2021-12-31-科技爱好者周刊（第-190-期）：产品化思维](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-190.html) 
 - [2021-12-24-科技爱好者周刊（第-189-期）：下一个内卷的行业](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-189.html) 
+- [2022-01-12-开发-sdk-的问题](https://www.v2ex.com/t/827915) 
 - [2022-01-12-目前国内-Angular-的形式怎么样？流行吗？](https://www.v2ex.com/t/827913) 
 - [2022-01-12-老板，别再让打工人写文档和注释了](https://www.v2ex.com/t/827911) 
 - [2022-01-12-miui-系统一种恶心人的下贱做派怎么破](https://www.v2ex.com/t/827909) 
@@ -1676,14 +1677,14 @@
 - [2022-01-12-如何交接复杂的遗留系统？](https://toutiao.io/k/pr7bonw) 
 - [2022-01-12-聊聊索引失效的10种场景，太坑了](https://toutiao.io/k/zm7ag1q) 
 - [2022-01-12-3万字-|-34-图-|-Netty-|-内核角度看IO模型](https://toutiao.io/k/zavpca4) 
-- [2022-01-12-春联专用喷胶，点击领券现价只需4.6元！](https://toutiao.io/k/1i9uqmb) 
 - [2022-01-12-为什么微服务要有API网关？](https://toutiao.io/k/khezgwh) 
+- [2022-01-12-春联专用喷胶，点击领券现价只需4.6元！](https://toutiao.io/k/1i9uqmb) 
 - [2022-01-12-Nature：AI-引导人类直觉，帮助发现数学定理](https://toutiao.io/k/54kq9e2) 
 - [2022-01-12-Google-推荐使用-MVI-架构？卷起来了~](https://toutiao.io/k/2z8s3q6) 
+- [2022-01-12-推荐-聊聊spring事务失效的12种场景，太坑了](https://toutiao.io/k/uf6yk96) 
+- [2022-01-12-推荐-偷天换日，用-JavaAgent-欺骗你的-JVM](https://toutiao.io/k/cah22k5) 
 - [2022-01-12-推荐-再见了-VMware，一款更轻量级的虚拟机！](https://toutiao.io/k/xw2lnva) 
 - [2022-01-12-推荐-2021年美团技术团队最受欢迎的22篇技术文章](https://toutiao.io/k/pjse55y) 
-- [2022-01-12-推荐-2022新年伊始，送你百篇干货文章](https://toutiao.io/k/kchudkd) 
-- [2022-01-12-推荐-偷天换日，用-JavaAgent-欺骗你的-JVM](https://toutiao.io/k/cah22k5) 
 - [2022-01-12-推荐-画架构图的神器](https://toutiao.io/k/4773s9p) 
 - [2022-01-12-推荐-网络编程怎么做才算是优雅？](https://toutiao.io/k/zylzzpi) 
-- [2022-01-12-推荐-聊聊spring事务失效的12种场景，太坑了](https://toutiao.io/k/uf6yk96) 
+- [2022-01-12-推荐-2022新年伊始，送你百篇干货文章](https://toutiao.io/k/kchudkd) 

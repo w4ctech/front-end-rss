@@ -8469,6 +8469,16 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "Homebrew 比直接 safari 下载慢好多",
+        "link": "https://www.v2ex.com/t/827912",
+        "date": "2022-01-12"
+      },
+      {
+        "title": "老板，别再让打工人写文档和注释了",
+        "link": "https://www.v2ex.com/t/827911",
+        "date": "2022-01-12"
+      },
+      {
         "title": "[招聘 - 深圳 ] 招聘前端啦，我会在下方列出公司的优缺点，大家斟酌考虑",
         "link": "https://www.v2ex.com/t/827910",
         "date": "2022-01-12"
@@ -8661,11 +8671,6 @@
       {
         "title": "WSA 支持 GPU 了",
         "link": "https://www.v2ex.com/t/827863",
-        "date": "2022-01-12"
-      },
-      {
-        "title": "[远程][全职] Java 开发工程师",
-        "link": "https://www.v2ex.com/t/827862",
         "date": "2022-01-12"
       }
     ]
@@ -8878,8 +8883,8 @@
         "date": "2022-01-12"
       },
       {
-        "title": "[推荐] 聊聊spring事务失效的12种场景，太坑了",
-        "link": "https://toutiao.io/k/uf6yk96",
+        "title": "[推荐] 非常哇塞的 ES读场景、写场景 性能优化指南！你值得拥有！",
+        "link": "https://toutiao.io/k/5pjb28q",
         "date": "2022-01-12"
       },
       {
@@ -8888,8 +8893,8 @@
         "date": "2022-01-12"
       },
       {
-        "title": "[推荐] 偷天换日，用 JavaAgent 欺骗你的 JVM",
-        "link": "https://toutiao.io/k/cah22k5",
+        "title": "[推荐] 聊聊spring事务失效的12种场景，太坑了",
+        "link": "https://toutiao.io/k/uf6yk96",
         "date": "2022-01-12"
       },
       {
@@ -8903,8 +8908,8 @@
         "date": "2022-01-12"
       },
       {
-        "title": "[推荐] 缓存一致性最佳实践",
-        "link": "https://toutiao.io/k/ymscqc1",
+        "title": "[推荐] 2022新年伊始，送你百篇干货文章",
+        "link": "https://toutiao.io/k/kchudkd",
         "date": "2022-01-12"
       },
       {
@@ -8913,13 +8918,13 @@
         "date": "2022-01-12"
       },
       {
-        "title": "[推荐] 2022新年伊始，送你百篇干货文章",
-        "link": "https://toutiao.io/k/kchudkd",
+        "title": "[推荐] 偷天换日，用 JavaAgent 欺骗你的 JVM",
+        "link": "https://toutiao.io/k/cah22k5",
         "date": "2022-01-12"
       },
       {
-        "title": "[推荐] 非常哇塞的 ES读场景、写场景 性能优化指南！你值得拥有！",
-        "link": "https://toutiao.io/k/5pjb28q",
+        "title": "[推荐] 缓存一致性最佳实践",
+        "link": "https://toutiao.io/k/ymscqc1",
         "date": "2022-01-12"
       }
     ]

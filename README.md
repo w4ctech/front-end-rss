@@ -11,11 +11,11 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-12 11:54:44，:rocket: 更新条数: +97， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-12 12:20:16，:rocket: 更新条数: +1733， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
@@ -65,6 +65,26 @@
 </summary>
 
 
+- [2022-01-12-最新疫情：全国新冠累计确诊104189例-累计接种新冠疫苗超29.12亿剂次](https://m.caixin.com/m/2022-01-12/101829288.html) ![](assets/new.png)  
+- [2022-01-12-河南省内67趟列车因防疫需要停运](https://china.caixin.com/m/2022-01-12/101829192.html) ![](assets/new.png)  
+- [2022-01-12-最新海外疫情：新冠感染超3.12亿-累计接种新冠疫苗近94.91亿剂次](https://m.caixin.com/m/2022-01-12/101829292.html) ![](assets/new.png)  
+- [2022-01-12-【境内疫情观察】全国新增166例本土病例（1月11日）](https://database.caixin.com/m/2022-01-12/101829141.html) ![](assets/new.png)  
+- [2022-01-12-世卫称新冠疫苗成分或需更新-Omicron在美无放缓迹象｜大流行手记（1月11日）](https://m.caixin.com/m/2022-01-12/101829023.html) ![](assets/new.png)  
+- [2022-01-12-【图集】气膜实验室在天津滨海新区投入使用](https://photos.caixin.com/m/2022-01-12/101829153.html) ![](assets/new.png)  
+- [2022-01-11-天津省际班线全部暂停-机场97%航班被取消](https://companies.caixin.com/m/2022-01-11/101828896.html) ![](assets/new.png)  
+- [2022-01-11-天津累计报告感染者97例-已出现家庭聚集传播6起](https://m.caixin.com/m/2022-01-11/101828766.html) ![](assets/new.png)  
+- [2022-01-11-香港本地疫情蔓延-幼儿园小学再全面“停课”](https://m.caixin.com/m/2022-01-11/101828627.html) ![](assets/new.png)  
+- [2022-01-11-疫情病例增至8例-深圳疾控建议勿购买境外高风险地区商品](https://m.caixin.com/m/2022-01-11/101828583.html) ![](assets/new.png)  
+- [2022-01-11-违反疫情防控规定多人被查-河南警方通报典型案例](https://china.caixin.com/m/2022-01-11/101828548.html) ![](assets/new.png)  
+- [2022-01-11-【境内疫情观察】河南新增87例本土病例（1月10日）](https://database.caixin.com/m/2022-01-11/101828867.html) ![](assets/new.png)  
+- [2022-01-11-普通感冒T细胞或可对抗新冠-法国住院人数大增丨大流行手记（1月10日）](https://m.caixin.com/m/2022-01-11/101828480.html) ![](assets/new.png)  
+- [2022-01-11-【图集】智利为免疫薄弱人群接种第四针新冠疫苗](https://photos.caixin.com/m/2022-01-11/101828660.html) ![](assets/new.png)  
+- [2022-01-10-天津已报告本土感染者41例-其它新增初筛阳性待核验后通报](https://china.caixin.com/m/2022-01-10/101828291.html) ![](assets/new.png)  
+- [2022-01-10-深圳罗湖部分文娱场所暂停开放-病例或由境外污染物品引发感染](https://m.caixin.com/m/2022-01-10/101828285.html) ![](assets/new.png)  
+- [2022-01-10-河南安阳疫情与天津同源-系奥密克戎](https://m.caixin.com/m/2022-01-10/101827909.html) ![](assets/new.png)  
+- [2022-01-10-【境内疫情观察】全国新增97例本土病例（1月9日）](https://database.caixin.com/m/2022-01-10/101828173.html) ![](assets/new.png)  
+- [2022-01-10-菲律宾检测阳性率近45%，以色列推动家庭新冠自查｜大流行手记（1月9日）](https://m.caixin.com/m/2022-01-10/101827923.html) ![](assets/new.png)  
+- [2022-01-10-网坛名将拒打疫苗衍生的入境争议胜诉-澳政府不打算妥协](https://international.caixin.com/m/2022-01-10/101828335.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -546,16 +566,16 @@
 - [2022-01-12-复杂场景下唤起App实践](https://toutiao.io/k/4mcg08t) ![](assets/new.png)  
 - [2022-01-12-Spark作业不知道该如何分配资源怎么办？](https://toutiao.io/k/visuj3y) ![](assets/new.png)  
 - [2022-01-12-春联专用喷胶，点击领券现价只需4.6元！](https://toutiao.io/k/1i9uqmb) ![](assets/new.png)  
-- [2022-01-12-图像处理技术之分辨率与压缩](https://toutiao.io/k/6aothy4) ![](assets/new.png)  
 - [2022-01-12-如何交接复杂的遗留系统？](https://toutiao.io/k/pr7bonw) ![](assets/new.png)  
+- [2022-01-12-图像处理技术之分辨率与压缩](https://toutiao.io/k/6aothy4) ![](assets/new.png)  
 - [2022-01-12-聊聊索引失效的10种场景，太坑了](https://toutiao.io/k/zm7ag1q) ![](assets/new.png)  
 - [2022-01-12-3万字-|-34-图-|-Netty-|-内核角度看IO模型](https://toutiao.io/k/zavpca4) ![](assets/new.png)  
 - [2022-01-12-Nature：AI-引导人类直觉，帮助发现数学定理](https://toutiao.io/k/54kq9e2) ![](assets/new.png)  
 - [2022-01-12-为什么微服务要有API网关？](https://toutiao.io/k/khezgwh) ![](assets/new.png)  
 - [2022-01-12-Google-推荐使用-MVI-架构？卷起来了~](https://toutiao.io/k/2z8s3q6) ![](assets/new.png)  
 - [2022-01-12-为什么-Go-有两种声明变量的方式，有什么区别，哪种好？](https://toutiao.io/k/dhd3mae) ![](assets/new.png)  
-- [2022-01-12-推荐-画架构图的神器](https://toutiao.io/k/4773s9p) ![](assets/new.png)  
-- [2022-01-12-推荐-再见了-VMware，一款更轻量级的虚拟机！](https://toutiao.io/k/xw2lnva) ![](assets/new.png)  
+- [2022-01-12-推荐-面渣逆袭：JVM经典五十问，这下面试稳了！](https://toutiao.io/k/wideaab) ![](assets/new.png)  
+- [2022-01-12-推荐-缓存一致性最佳实践](https://toutiao.io/k/ymscqc1) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

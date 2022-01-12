@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-12 11:21:54，:rocket: 更新条数: +1732， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-12 11:37:14，:rocket: 更新条数: +1733， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -65,14 +65,14 @@
 </summary>
 
 
-- [2022-01-12-1月11日全国新增新冠221例-四省份本土166例](https://m.caixin.com/m/2022-01-12/101828926.html) ![](assets/new.png)  
+- [2022-01-12-最新疫情：全国新冠累计确诊104189例-累计接种新冠疫苗超29.12亿剂次](https://m.caixin.com/m/2022-01-12/101829288.html) ![](assets/new.png)  
 - [2022-01-12-河南省内67趟列车因防疫需要停运](https://china.caixin.com/m/2022-01-12/101829192.html) ![](assets/new.png)  
+- [2022-01-12-最新海外疫情：新冠感染超3.12亿-累计接种新冠疫苗近94.91亿剂次](https://m.caixin.com/m/2022-01-12/101829292.html) ![](assets/new.png)  
 - [2022-01-12-【境内疫情观察】全国新增166例本土病例（1月11日）](https://database.caixin.com/m/2022-01-12/101829141.html) ![](assets/new.png)  
 - [2022-01-12-世卫称新冠疫苗成分或需更新-Omicron在美无放缓迹象｜大流行手记（1月11日）](https://m.caixin.com/m/2022-01-12/101829023.html) ![](assets/new.png)  
 - [2022-01-12-【图集】气膜实验室在天津滨海新区投入使用](https://photos.caixin.com/m/2022-01-12/101829153.html) ![](assets/new.png)  
 - [2022-01-11-天津省际班线全部暂停-机场97%航班被取消](https://companies.caixin.com/m/2022-01-11/101828896.html) ![](assets/new.png)  
 - [2022-01-11-天津累计报告感染者97例-已出现家庭聚集传播6起](https://m.caixin.com/m/2022-01-11/101828766.html) ![](assets/new.png)  
-- [2022-01-11-最新海外疫情：新冠感染超3.09亿-累计接种新冠疫苗超94.33亿剂次](https://m.caixin.com/m/2022-01-11/101828842.html) ![](assets/new.png)  
 - [2022-01-11-香港本地疫情蔓延-幼儿园小学再全面“停课”](https://m.caixin.com/m/2022-01-11/101828627.html) ![](assets/new.png)  
 - [2022-01-11-疫情病例增至8例-深圳疾控建议勿购买境外高风险地区商品](https://m.caixin.com/m/2022-01-11/101828583.html) ![](assets/new.png)  
 - [2022-01-11-违反疫情防控规定多人被查-河南警方通报典型案例](https://china.caixin.com/m/2022-01-11/101828548.html) ![](assets/new.png)  
@@ -494,6 +494,10 @@
 </summary>
 
 
+- [2022-01-12-M1-MacBook-Air-电池问题](https://www.v2ex.com/t/827888) ![](assets/new.png)  
+- [2022-01-12-iOS（3GB-vs-6GB）和-iPadOS（8GB）不同内存大小后台不严谨对比和结论](https://www.v2ex.com/t/827887) ![](assets/new.png)  
+- [2022-01-12-微信支付文档代码示例背景色好像有问题](https://www.v2ex.com/t/827886) ![](assets/new.png)  
+- [2022-01-12-有朋友遇到过-Chrome/Edge-等-Chromium-内核的浏览器-CPU-莫名持续-137.5%占用的情况吗？](https://www.v2ex.com/t/827885) ![](assets/new.png)  
 - [2022-01-12-使用-Tin-快安装-DokuWiki（小白也能懂）](https://www.v2ex.com/t/827883) ![](assets/new.png)  
 - [2022-01-12-用-request-模块遇到网站的-vue-的$nextTick，无法获取返回数据](https://www.v2ex.com/t/827881) ![](assets/new.png)  
 - [2022-01-12-#有偿求助#了解-强化学习知识推理-知识图谱补全-的大佬看过来](https://www.v2ex.com/t/827880) ![](assets/new.png)  
@@ -510,10 +514,6 @@
 - [2022-01-12-高纬空间中如何计算出等多边体的坐标](https://www.v2ex.com/t/827867) ![](assets/new.png)  
 - [2022-01-12-上海——坚果云（效率工具软件）移动端的大佬们看过来！!（节后面试，节前安排起来~）](https://www.v2ex.com/t/827866) ![](assets/new.png)  
 - [2022-01-12-M1-Mac-能否直接支持-Android-应用](https://www.v2ex.com/t/827864) ![](assets/new.png)  
-- [2022-01-12-WSA-支持-GPU-了](https://www.v2ex.com/t/827863) ![](assets/new.png)  
-- [2022-01-12-远程全职-Java-开发工程师](https://www.v2ex.com/t/827862) ![](assets/new.png)  
-- [2022-01-12-迫于国内日益艰难的看剧/追番环境，来晒一下的解决方案吧](https://www.v2ex.com/t/827860) ![](assets/new.png)  
-- [2022-01-12-大佬们，预定的-m1pro-快到货了，有啥需要注意的吗？](https://www.v2ex.com/t/827859) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -568,14 +568,14 @@
 - [2022-01-12-春联专用喷胶，点击领券现价只需4.6元！](https://toutiao.io/k/1i9uqmb) ![](assets/new.png)  
 - [2022-01-12-图像处理技术之分辨率与压缩](https://toutiao.io/k/6aothy4) ![](assets/new.png)  
 - [2022-01-12-如何交接复杂的遗留系统？](https://toutiao.io/k/pr7bonw) ![](assets/new.png)  
+- [2022-01-12-聊聊索引失效的10种场景，太坑了](https://toutiao.io/k/zm7ag1q) ![](assets/new.png)  
 - [2022-01-12-Nature：AI-引导人类直觉，帮助发现数学定理](https://toutiao.io/k/54kq9e2) ![](assets/new.png)  
 - [2022-01-12-3万字-|-34-图-|-Netty-|-内核角度看IO模型](https://toutiao.io/k/zavpca4) ![](assets/new.png)  
-- [2022-01-12-聊聊索引失效的10种场景，太坑了](https://toutiao.io/k/zm7ag1q) ![](assets/new.png)  
 - [2022-01-12-为什么微服务要有API网关？](https://toutiao.io/k/khezgwh) ![](assets/new.png)  
 - [2022-01-12-Google-推荐使用-MVI-架构？卷起来了~](https://toutiao.io/k/2z8s3q6) ![](assets/new.png)  
 - [2022-01-12-为什么-Go-有两种声明变量的方式，有什么区别，哪种好？](https://toutiao.io/k/dhd3mae) ![](assets/new.png)  
 - [2022-01-12-推荐-面渣逆袭：JVM经典五十问，这下面试稳了！](https://toutiao.io/k/wideaab) ![](assets/new.png)  
-- [2022-01-12-推荐-偷天换日，用-JavaAgent-欺骗你的-JVM](https://toutiao.io/k/cah22k5) ![](assets/new.png)  
+- [2022-01-12-推荐-聊聊spring事务失效的12种场景，太坑了](https://toutiao.io/k/uf6yk96) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

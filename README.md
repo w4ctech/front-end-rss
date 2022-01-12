@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-12 13:45:10，:rocket: 更新条数: +1735， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-12 13:54:41，:rocket: 更新条数: +1736， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,9 @@
 </summary>
 
 
+- [2022-01-12-AXL-Inu-推出-AXL-Pad，为新兴项目提供-IDO-平台并在-MEXC-全球上市](https://www.v2ex.com/t/827907) ![](assets/new.png)  
+- [2022-01-12-有什么办法能让笔记本风扇安静一些](https://www.v2ex.com/t/827906) ![](assets/new.png)  
+- [2022-01-12-现在还有什么好的渠道购买-iphone13-pro](https://www.v2ex.com/t/827905) ![](assets/new.png)  
 - [2022-01-12-深圳桃苑小区转租-3500](https://www.v2ex.com/t/827904) ![](assets/new.png)  
 - [2022-01-12-路由器网线-WLAN-和-LAN-插反的神奇问题](https://www.v2ex.com/t/827902) ![](assets/new.png)  
 - [2022-01-12-关于降权相关](https://www.v2ex.com/t/827901) ![](assets/new.png)  
@@ -511,9 +514,6 @@
 - [2022-01-12-微信支付文档代码示例背景色好像有问题](https://www.v2ex.com/t/827886) ![](assets/new.png)  
 - [2022-01-12-有朋友遇到过-Chrome/Edge-等-Chromium-内核的浏览器-CPU-莫名持续-137.5%占用的情况吗？](https://www.v2ex.com/t/827885) ![](assets/new.png)  
 - [2022-01-12-使用-Tin-快安装-DokuWiki（小白也能懂）](https://www.v2ex.com/t/827883) ![](assets/new.png)  
-- [2022-01-12-用-request-模块遇到网站的-vue-的$nextTick，无法获取返回数据](https://www.v2ex.com/t/827881) ![](assets/new.png)  
-- [2022-01-12-#有偿求助#了解-强化学习知识推理-知识图谱补全-的大佬看过来](https://www.v2ex.com/t/827880) ![](assets/new.png)  
-- [2022-01-12-请教一下有什么电视直播-App-推荐吗](https://www.v2ex.com/t/827878) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -574,8 +574,8 @@
 - [2022-01-12-Nature：AI-引导人类直觉，帮助发现数学定理](https://toutiao.io/k/54kq9e2) ![](assets/new.png)  
 - [2022-01-12-Google-推荐使用-MVI-架构？卷起来了~](https://toutiao.io/k/2z8s3q6) ![](assets/new.png)  
 - [2022-01-12-为什么-Go-有两种声明变量的方式，有什么区别，哪种好？](https://toutiao.io/k/dhd3mae) ![](assets/new.png)  
-- [2022-01-12-推荐-聊聊spring事务失效的12种场景，太坑了](https://toutiao.io/k/uf6yk96) ![](assets/new.png)  
-- [2022-01-12-推荐-再见了-VMware，一款更轻量级的虚拟机！](https://toutiao.io/k/xw2lnva) ![](assets/new.png)  
+- [2022-01-12-推荐-2022新年伊始，送你百篇干货文章](https://toutiao.io/k/kchudkd) ![](assets/new.png)  
+- [2022-01-12-推荐-偷天换日，用-JavaAgent-欺骗你的-JVM](https://toutiao.io/k/cah22k5) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

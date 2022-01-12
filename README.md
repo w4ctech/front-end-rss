@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-12 08:48:33，:rocket: 更新条数: +1736， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-12 09:12:59，:rocket: 更新条数: +1734， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,11 @@
 </summary>
 
 
+- [2022-01-12-WSA-支持-GPU-了](https://www.v2ex.com/t/827863) ![](assets/new.png)  
+- [2022-01-12-远程全职-Java-开发工程师](https://www.v2ex.com/t/827862) ![](assets/new.png)  
+- [2022-01-12-迫于国内日益艰难的看剧/追番环境，来晒一下的解决方案吧](https://www.v2ex.com/t/827860) ![](assets/new.png)  
+- [2022-01-12-大佬们，预定的-m1pro-快到货了，有啥需要注意的吗？](https://www.v2ex.com/t/827859) ![](assets/new.png)  
+- [2022-01-12-win-上哪种文件系统是区分大小写的？](https://www.v2ex.com/t/827856) ![](assets/new.png)  
 - [2022-01-12-.net-大神请进](https://www.v2ex.com/t/827855) ![](assets/new.png)  
 - [2022-01-12-哪个公司需要阿里云-ACE-证书](https://www.v2ex.com/t/827853) ![](assets/new.png)  
 - [2022-01-12-macOS,让你想象不到的内存不足](https://www.v2ex.com/t/827851) ![](assets/new.png)  
@@ -509,11 +514,6 @@
 - [2022-01-12-百思不得其解：-PHP-怎么把一维数组的键值转化为多维数组的键名](https://www.v2ex.com/t/827838) ![](assets/new.png)  
 - [2022-01-12-微信-Play-Store-更新适配-API-30？](https://www.v2ex.com/t/827835) ![](assets/new.png)  
 - [2022-01-12-LeetCode-和-LeetCode-CN-的题目出现频率是复用的吗？](https://www.v2ex.com/t/827834) ![](assets/new.png)  
-- [2022-01-12-求职前端angular又来找工作了....](https://www.v2ex.com/t/827832) ![](assets/new.png)  
-- [2022-01-12-有没有人能帮我解释一下,这里面的代码.如果我创建一个新窗口,按照这个逻辑,怎么显示出来](https://www.v2ex.com/t/827831) ![](assets/new.png)  
-- [2022-01-12-求推荐一个电视盒子，只看国内-app-和本地电影](https://www.v2ex.com/t/827830) ![](assets/new.png)  
-- [2022-01-12-腾讯会议共享屏幕自动结束,-提示系统分配资源不足](https://www.v2ex.com/t/827829) ![](assets/new.png)  
-- [2022-01-12-你有什么关于效率与执行力的技巧，可以分享一下？](https://www.v2ex.com/t/827828) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -563,19 +563,19 @@
 - [2022-01-12-阿里巴巴开源的XQUIC库](https://toutiao.io/k/qpfex0z) ![](assets/new.png)  
 - [2022-01-12-对象很大，你忍一下](https://toutiao.io/k/cikafb7) ![](assets/new.png)  
 - [2022-01-12-Spark作业不知道该如何分配资源怎么办？](https://toutiao.io/k/visuj3y) ![](assets/new.png)  
-- [2022-01-12-春联专用喷胶，点击领券现价只需4.6元！](https://toutiao.io/k/1i9uqmb) ![](assets/new.png)  
-- [2022-01-12-复杂场景下唤起App实践](https://toutiao.io/k/4mcg08t) ![](assets/new.png)  
 - [2022-01-12-消息最终一致性最易用的新架构](https://toutiao.io/k/851yb2c) ![](assets/new.png)  
+- [2022-01-12-复杂场景下唤起App实践](https://toutiao.io/k/4mcg08t) ![](assets/new.png)  
+- [2022-01-12-春联专用喷胶，点击领券现价只需4.6元！](https://toutiao.io/k/1i9uqmb) ![](assets/new.png)  
 - [2022-01-12-图像处理技术之分辨率与压缩](https://toutiao.io/k/6aothy4) ![](assets/new.png)  
 - [2022-01-12-Nature：AI-引导人类直觉，帮助发现数学定理](https://toutiao.io/k/54kq9e2) ![](assets/new.png)  
 - [2022-01-12-3万字-|-34-图-|-Netty-|-内核角度看IO模型](https://toutiao.io/k/zavpca4) ![](assets/new.png)  
-- [2022-01-12-为什么微服务要有API网关？](https://toutiao.io/k/khezgwh) ![](assets/new.png)  
-- [2022-01-12-Google-推荐使用-MVI-架构？卷起来了~](https://toutiao.io/k/2z8s3q6) ![](assets/new.png)  
 - [2022-01-12-聊聊索引失效的10种场景，太坑了](https://toutiao.io/k/zm7ag1q) ![](assets/new.png)  
+- [2022-01-12-为什么微服务要有API网关？](https://toutiao.io/k/khezgwh) ![](assets/new.png)  
 - [2022-01-12-如何交接复杂的遗留系统？](https://toutiao.io/k/pr7bonw) ![](assets/new.png)  
+- [2022-01-12-Google-推荐使用-MVI-架构？卷起来了~](https://toutiao.io/k/2z8s3q6) ![](assets/new.png)  
 - [2022-01-12-为什么-Go-有两种声明变量的方式，有什么区别，哪种好？](https://toutiao.io/k/dhd3mae) ![](assets/new.png)  
 - [2022-01-12-推荐-2022新年伊始，送你百篇干货文章](https://toutiao.io/k/kchudkd) ![](assets/new.png)  
-- [2022-01-12-推荐-缓存一致性最佳实践](https://toutiao.io/k/ymscqc1) ![](assets/new.png)  
+- [2022-01-12-推荐-聊聊spring事务失效的12种场景，太坑了](https://toutiao.io/k/uf6yk96) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

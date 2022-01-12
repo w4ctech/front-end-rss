@@ -1,10 +1,13 @@
-:alarm_clock: 更新时间: 2022-01-12 06:16:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-01-12 06:28:36。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-01-12-NVIDIA-宣布-DLDSR-深度学习动态超分辨率-将于-1-月-14-日登录驱动](https://www.v2ex.com/t/827808) 
+- [2022-01-12-使用-Tin-快安装-Atlassian-JIRA](https://www.v2ex.com/t/827807) 
+- [2022-01-12-近期联通出口带宽感觉扩容不少，下载已经上-10m/s-了](https://www.v2ex.com/t/827806) 
 - [2022-01-12-什么时候起算入职-第一个月？](https://www.v2ex.com/t/827805) 
 - [2022-01-12-配什么样的眼镜合适](https://www.v2ex.com/t/827804) 
 - [2022-01-12-这几天折腾旁路由-遇到了些问题求助!](https://www.v2ex.com/t/827803) 
@@ -40,4 +43,3 @@
 - [2022-01-12-想请教下懂法的大神，裁员赔偿金多给了现公司要求退回](https://www.v2ex.com/t/827761) 
 - [2022-01-12-ios-自带的文件-app-移动流量下-无法下载-icloud-中的文件](https://www.v2ex.com/t/827760) 
 - [2022-01-12-请教-aiohttp-clientSession-认证过期带来的重定向问题](https://www.v2ex.com/t/827759) 
-- [2022-01-12-cnocr-部署在不同机器上，中文识别率不一样。](https://www.v2ex.com/t/827757) 

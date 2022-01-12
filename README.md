@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-12 06:16:10，:rocket: 更新条数: +1730， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-12 06:28:36，:rocket: 更新条数: +1732， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,9 @@
 </summary>
 
 
+- [2022-01-12-NVIDIA-宣布-DLDSR-深度学习动态超分辨率-将于-1-月-14-日登录驱动](https://www.v2ex.com/t/827808) ![](assets/new.png)  
+- [2022-01-12-使用-Tin-快安装-Atlassian-JIRA](https://www.v2ex.com/t/827807) ![](assets/new.png)  
+- [2022-01-12-近期联通出口带宽感觉扩容不少，下载已经上-10m/s-了](https://www.v2ex.com/t/827806) ![](assets/new.png)  
 - [2022-01-12-什么时候起算入职-第一个月？](https://www.v2ex.com/t/827805) ![](assets/new.png)  
 - [2022-01-12-配什么样的眼镜合适](https://www.v2ex.com/t/827804) ![](assets/new.png)  
 - [2022-01-12-这几天折腾旁路由-遇到了些问题求助!](https://www.v2ex.com/t/827803) ![](assets/new.png)  
@@ -511,9 +514,6 @@
 - [2022-01-12-2021-年的副业尝试，多做点有长期价值的事](https://www.v2ex.com/t/827785) ![](assets/new.png)  
 - [2022-01-12-请问大家多页面应用怎么做前后端分离？资源定位和前端页面权限控制怎么做？实际项目里是怎么做的？](https://www.v2ex.com/t/827784) ![](assets/new.png)  
 - [2022-01-12-上下风道机箱，电源吃显卡尾气，对电源寿命影响大吗](https://www.v2ex.com/t/827782) ![](assets/new.png)  
-- [2022-01-12-纯前端有哪些像程序员三大浪漫这样可以持续深入学习的研究方向](https://www.v2ex.com/t/827781) ![](assets/new.png)  
-- [2022-01-12-现在的电子产品，为啥都不怕磁铁了？](https://www.v2ex.com/t/827779) ![](assets/new.png)  
-- [2022-01-12-为什么我的微信，换了美国号码，还有-852-的号码都没有转移？](https://www.v2ex.com/t/827777) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -570,12 +570,12 @@
 - [2022-01-12-消息最终一致性最易用的新架构](https://toutiao.io/k/851yb2c) ![](assets/new.png)  
 - [2022-01-12-聊聊索引失效的10种场景，太坑了](https://toutiao.io/k/zm7ag1q) ![](assets/new.png)  
 - [2022-01-12-为什么微服务要有API网关？](https://toutiao.io/k/khezgwh) ![](assets/new.png)  
-- [2022-01-12-如何交接复杂的遗留系统？](https://toutiao.io/k/pr7bonw) ![](assets/new.png)  
 - [2022-01-12-Google-推荐使用-MVI-架构？卷起来了~](https://toutiao.io/k/2z8s3q6) ![](assets/new.png)  
+- [2022-01-12-如何交接复杂的遗留系统？](https://toutiao.io/k/pr7bonw) ![](assets/new.png)  
 - [2022-01-12-3万字-|-34-图-|-Netty-|-内核角度看IO模型](https://toutiao.io/k/zavpca4) ![](assets/new.png)  
 - [2022-01-12-为什么-Go-有两种声明变量的方式，有什么区别，哪种好？](https://toutiao.io/k/dhd3mae) ![](assets/new.png)  
-- [2022-01-12-推荐-偷天换日，用-JavaAgent-欺骗你的-JVM](https://toutiao.io/k/cah22k5) ![](assets/new.png)  
-- [2022-01-12-推荐-缓存一致性最佳实践](https://toutiao.io/k/ymscqc1) ![](assets/new.png)  
+- [2022-01-12-推荐-2022新年伊始，送你百篇干货文章](https://toutiao.io/k/kchudkd) ![](assets/new.png)  
+- [2022-01-12-推荐-画架构图的神器](https://toutiao.io/k/4773s9p) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

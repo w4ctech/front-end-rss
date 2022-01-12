@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-12 04:16:39，:rocket: 更新条数: +1720， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-12 04:29:53，:rocket: 更新条数: +1721， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -66,6 +66,7 @@
 
 
 - [2022-01-12-1月11日全国新增新冠221例-四省份本土166例](https://m.caixin.com/m/2022-01-12/101828926.html) ![](assets/new.png)  
+- [2022-01-12-世卫称新冠疫苗成分或需更新-Omicron在美无放缓迹象｜大流行手记（1月11日）](https://m.caixin.com/m/2022-01-12/101829023.html) ![](assets/new.png)  
 - [2022-01-11-天津省际班线全部暂停-机场97%航班被取消](https://companies.caixin.com/m/2022-01-11/101828896.html) ![](assets/new.png)  
 - [2022-01-11-天津累计报告感染者97例-已出现家庭聚集传播6起](https://m.caixin.com/m/2022-01-11/101828766.html) ![](assets/new.png)  
 - [2022-01-11-香港本地疫情蔓延-幼儿园小学再全面“停课”](https://m.caixin.com/m/2022-01-11/101828627.html) ![](assets/new.png)  
@@ -84,7 +85,6 @@
 - [2022-01-09-天津再增20例阳性感染者-京津来往加强防控管理](https://china.caixin.com/m/2022-01-09/101827875.html) ![](assets/new.png)  
 - [2022-01-09-视线｜天津启动全员核酸检测-菜场人增多-部分菜摊蔬菜售罄](https://photos.caixin.com/m/2022-01-09/101827796.html) ![](assets/new.png)  
 - [2022-01-09-河南许昌禹州疫情与郑州同源-安阳新增确诊14例](https://china.caixin.com/m/2022-01-09/101827835.html) ![](assets/new.png)  
-- [2022-01-09-本土奥密克戎终现天津-已启动全市新冠核检](https://m.caixin.com/m/2022-01-09/101827751.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -494,6 +494,8 @@
 </summary>
 
 
+- [2022-01-12-现在的电子产品，为啥都不怕磁铁了？](https://www.v2ex.com/t/827779) ![](assets/new.png)  
+- [2022-01-12-为什么我的微信，换了美国号码，还有-852-的号码都没有转移？](https://www.v2ex.com/t/827777) ![](assets/new.png)  
 - [2022-01-12-阿里云主页挂了，没人发现吗](https://www.v2ex.com/t/827775) ![](assets/new.png)  
 - [2022-01-12-国产大樱桃和车厘子是一个东西吧？想试试国产大樱桃，有没有靠谱渠道？推荐一下](https://www.v2ex.com/t/827774) ![](assets/new.png)  
 - [2022-01-12-下班夜拍-感受人间真实的香港旺角街头](https://www.v2ex.com/t/827773) ![](assets/new.png)  
@@ -512,8 +514,6 @@
 - [2022-01-12-cnocr-部署在不同机器上，中文识别率不一样。](https://www.v2ex.com/t/827757) ![](assets/new.png)  
 - [2022-01-12-眼睛-500-多度，准备去配眼镜，请问如何挑选镜片？](https://www.v2ex.com/t/827754) ![](assets/new.png)  
 - [2022-01-12-请-V-友们分享个-rime-鼠须管输入法的配置，谢谢](https://www.v2ex.com/t/827753) ![](assets/new.png)  
-- [2022-01-12-入手微米-v200-投影仪，-iPad-投屏救助](https://www.v2ex.com/t/827752) ![](assets/new.png)  
-- [2022-01-12-厦门求职，迷茫中。。。](https://www.v2ex.com/t/827751) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -567,15 +567,15 @@
 - [2022-01-12-复杂场景下唤起App实践](https://toutiao.io/k/4mcg08t) ![](assets/new.png)  
 - [2022-01-12-图像处理技术之分辨率与压缩](https://toutiao.io/k/6aothy4) ![](assets/new.png)  
 - [2022-01-12-Nature：AI-引导人类直觉，帮助发现数学定理](https://toutiao.io/k/54kq9e2) ![](assets/new.png)  
-- [2022-01-12-推荐-聊聊spring事务失效的12种场景，太坑了](https://toutiao.io/k/uf6yk96) ![](assets/new.png)  
-- [2022-01-12-推荐-面渣逆袭：JVM经典五十问，这下面试稳了！](https://toutiao.io/k/wideaab) ![](assets/new.png)  
-- [2022-01-12-推荐-再见了-VMware，一款更轻量级的虚拟机！](https://toutiao.io/k/xw2lnva) ![](assets/new.png)  
-- [2022-01-12-推荐-偷天换日，用-JavaAgent-欺骗你的-JVM](https://toutiao.io/k/cah22k5) ![](assets/new.png)  
-- [2022-01-12-推荐-网络编程怎么做才算是优雅？](https://toutiao.io/k/zylzzpi) ![](assets/new.png)  
-- [2022-01-12-推荐-非常哇塞的-ES读场景、写场景-性能优化指南！你值得拥有！](https://toutiao.io/k/5pjb28q) ![](assets/new.png)  
-- [2022-01-12-推荐-画架构图的神器](https://toutiao.io/k/4773s9p) ![](assets/new.png)  
 - [2022-01-12-推荐-2022新年伊始，送你百篇干货文章](https://toutiao.io/k/kchudkd) ![](assets/new.png)  
 - [2022-01-12-推荐-2021年美团技术团队最受欢迎的22篇技术文章](https://toutiao.io/k/pjse55y) ![](assets/new.png)  
+- [2022-01-12-推荐-缓存一致性最佳实践](https://toutiao.io/k/ymscqc1) ![](assets/new.png)  
+- [2022-01-12-推荐-面渣逆袭：JVM经典五十问，这下面试稳了！](https://toutiao.io/k/wideaab) ![](assets/new.png)  
+- [2022-01-12-推荐-非常哇塞的-ES读场景、写场景-性能优化指南！你值得拥有！](https://toutiao.io/k/5pjb28q) ![](assets/new.png)  
+- [2022-01-12-推荐-再见了-VMware，一款更轻量级的虚拟机！](https://toutiao.io/k/xw2lnva) ![](assets/new.png)  
+- [2022-01-12-推荐-偷天换日，用-JavaAgent-欺骗你的-JVM](https://toutiao.io/k/cah22k5) ![](assets/new.png)  
+- [2022-01-12-推荐-画架构图的神器](https://toutiao.io/k/4773s9p) ![](assets/new.png)  
+- [2022-01-12-推荐-聊聊spring事务失效的12种场景，太坑了](https://toutiao.io/k/uf6yk96) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-01-12 07:54:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-01-12 08:15:38。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -19,6 +19,7 @@
 - [2021-12-08-flex-end为什么overflow无法滚动及解决方法](https://www.zhangxinxu.com/wordpress/2021/12/flex-end-overflow/) 
 - [2021-11-23-从js-visibilitychange-Safari下无效说开去](https://www.zhangxinxu.com/wordpress/2021/11/js-visibilitychange-pagehide-lifecycle/) 
 - [2021-10-28-JS复制文字到剪切板的极简实现及扩展](https://www.zhangxinxu.com/wordpress/2021/10/js-copy-paste-clipboard/) 
+- [2022-01-12-请教各位电视和路由器购买推荐](https://www.v2ex.com/t/827842) 
 - [2022-01-12-百思不得其解：-PHP-怎么把一维数组的键值转化为多维数组的键名](https://www.v2ex.com/t/827838) 
 - [2022-01-12-微信-Play-Store-更新适配-API-30？](https://www.v2ex.com/t/827835) 
 - [2022-01-12-这几天折腾旁路由-遇到了些问题求助!](https://www.v2ex.com/t/827803) 

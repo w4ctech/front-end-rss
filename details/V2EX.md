@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-01-12 19:18:27。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-01-12 19:36:49。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
@@ -21,7 +21,6 @@
 - [2022-01-12-Homebrew-比直接-safari-下载慢好多](https://www.v2ex.com/t/827912) 
 - [2022-01-12-老板，别再让打工人写文档和注释了](https://www.v2ex.com/t/827911) 
 - [2022-01-12-招聘---深圳-招聘前端啦，我会在下方列出公司的优缺点，大家斟酌考虑](https://www.v2ex.com/t/827910) 
-- [2022-01-12-miui-系统一种恶心人的下贱做派怎么破](https://www.v2ex.com/t/827909) 
 - [2022-01-12-如何让-19-intel-的-mbp-显示-4k-分辨率？独显是-5300m](https://www.v2ex.com/t/827908) 
 - [2022-01-12-AXL-Inu-推出-AXL-Pad，为新兴项目提供-IDO-平台并在-MEXC-全球上市](https://www.v2ex.com/t/827907) 
 - [2022-01-12-有什么办法能让笔记本风扇安静一些](https://www.v2ex.com/t/827906) 

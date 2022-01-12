@@ -11,11 +11,11 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-12 11:40:25，:rocket: 更新条数: +1733， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-12 11:54:44，:rocket: 更新条数: +97， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
@@ -65,26 +65,6 @@
 </summary>
 
 
-- [2022-01-12-最新疫情：全国新冠累计确诊104189例-累计接种新冠疫苗超29.12亿剂次](https://m.caixin.com/m/2022-01-12/101829288.html) ![](assets/new.png)  
-- [2022-01-12-河南省内67趟列车因防疫需要停运](https://china.caixin.com/m/2022-01-12/101829192.html) ![](assets/new.png)  
-- [2022-01-12-最新海外疫情：新冠感染超3.12亿-累计接种新冠疫苗近94.91亿剂次](https://m.caixin.com/m/2022-01-12/101829292.html) ![](assets/new.png)  
-- [2022-01-12-【境内疫情观察】全国新增166例本土病例（1月11日）](https://database.caixin.com/m/2022-01-12/101829141.html) ![](assets/new.png)  
-- [2022-01-12-世卫称新冠疫苗成分或需更新-Omicron在美无放缓迹象｜大流行手记（1月11日）](https://m.caixin.com/m/2022-01-12/101829023.html) ![](assets/new.png)  
-- [2022-01-12-【图集】气膜实验室在天津滨海新区投入使用](https://photos.caixin.com/m/2022-01-12/101829153.html) ![](assets/new.png)  
-- [2022-01-11-天津省际班线全部暂停-机场97%航班被取消](https://companies.caixin.com/m/2022-01-11/101828896.html) ![](assets/new.png)  
-- [2022-01-11-天津累计报告感染者97例-已出现家庭聚集传播6起](https://m.caixin.com/m/2022-01-11/101828766.html) ![](assets/new.png)  
-- [2022-01-11-香港本地疫情蔓延-幼儿园小学再全面“停课”](https://m.caixin.com/m/2022-01-11/101828627.html) ![](assets/new.png)  
-- [2022-01-11-疫情病例增至8例-深圳疾控建议勿购买境外高风险地区商品](https://m.caixin.com/m/2022-01-11/101828583.html) ![](assets/new.png)  
-- [2022-01-11-违反疫情防控规定多人被查-河南警方通报典型案例](https://china.caixin.com/m/2022-01-11/101828548.html) ![](assets/new.png)  
-- [2022-01-11-【境内疫情观察】河南新增87例本土病例（1月10日）](https://database.caixin.com/m/2022-01-11/101828867.html) ![](assets/new.png)  
-- [2022-01-11-普通感冒T细胞或可对抗新冠-法国住院人数大增丨大流行手记（1月10日）](https://m.caixin.com/m/2022-01-11/101828480.html) ![](assets/new.png)  
-- [2022-01-11-【图集】智利为免疫薄弱人群接种第四针新冠疫苗](https://photos.caixin.com/m/2022-01-11/101828660.html) ![](assets/new.png)  
-- [2022-01-10-天津已报告本土感染者41例-其它新增初筛阳性待核验后通报](https://china.caixin.com/m/2022-01-10/101828291.html) ![](assets/new.png)  
-- [2022-01-10-深圳罗湖部分文娱场所暂停开放-病例或由境外污染物品引发感染](https://m.caixin.com/m/2022-01-10/101828285.html) ![](assets/new.png)  
-- [2022-01-10-河南安阳疫情与天津同源-系奥密克戎](https://m.caixin.com/m/2022-01-10/101827909.html) ![](assets/new.png)  
-- [2022-01-10-【境内疫情观察】全国新增97例本土病例（1月9日）](https://database.caixin.com/m/2022-01-10/101828173.html) ![](assets/new.png)  
-- [2022-01-10-菲律宾检测阳性率近45%，以色列推动家庭新冠自查｜大流行手记（1月9日）](https://m.caixin.com/m/2022-01-10/101827923.html) ![](assets/new.png)  
-- [2022-01-10-网坛名将拒打疫苗衍生的入境争议胜诉-澳政府不打算妥协](https://international.caixin.com/m/2022-01-10/101828335.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -494,6 +474,8 @@
 </summary>
 
 
+- [2022-01-12-14-M1-Pro-16G](https://www.v2ex.com/t/827890) ![](assets/new.png)  
+- [2022-01-12-云消息队列备份-|-CKafka、TDMQ-消息队列数据备份到-COS](https://www.v2ex.com/t/827889) ![](assets/new.png)  
 - [2022-01-12-M1-MacBook-Air-电池问题](https://www.v2ex.com/t/827888) ![](assets/new.png)  
 - [2022-01-12-iOS（3GB-vs-6GB）和-iPadOS（8GB）不同内存大小后台不严谨对比和结论](https://www.v2ex.com/t/827887) ![](assets/new.png)  
 - [2022-01-12-微信支付文档代码示例背景色好像有问题](https://www.v2ex.com/t/827886) ![](assets/new.png)  
@@ -512,8 +494,6 @@
 - [2022-01-12-你们的-safari-手势返回前进能快速操作吗，就是一次操作的动画没结束又进行下一次操作，像-chrome-一样](https://www.v2ex.com/t/827869) ![](assets/new.png)  
 - [2022-01-12-“盯”，您有一条新消息！（一个价值消息聚合-app）](https://www.v2ex.com/t/827868) ![](assets/new.png)  
 - [2022-01-12-高纬空间中如何计算出等多边体的坐标](https://www.v2ex.com/t/827867) ![](assets/new.png)  
-- [2022-01-12-上海——坚果云（效率工具软件）移动端的大佬们看过来！!（节后面试，节前安排起来~）](https://www.v2ex.com/t/827866) ![](assets/new.png)  
-- [2022-01-12-M1-Mac-能否直接支持-Android-应用](https://www.v2ex.com/t/827864) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -563,19 +543,19 @@
 - [2022-01-12-阿里巴巴开源的XQUIC库](https://toutiao.io/k/qpfex0z) ![](assets/new.png)  
 - [2022-01-12-对象很大，你忍一下](https://toutiao.io/k/cikafb7) ![](assets/new.png)  
 - [2022-01-12-消息最终一致性最易用的新架构](https://toutiao.io/k/851yb2c) ![](assets/new.png)  
-- [2022-01-12-Spark作业不知道该如何分配资源怎么办？](https://toutiao.io/k/visuj3y) ![](assets/new.png)  
 - [2022-01-12-复杂场景下唤起App实践](https://toutiao.io/k/4mcg08t) ![](assets/new.png)  
+- [2022-01-12-Spark作业不知道该如何分配资源怎么办？](https://toutiao.io/k/visuj3y) ![](assets/new.png)  
 - [2022-01-12-春联专用喷胶，点击领券现价只需4.6元！](https://toutiao.io/k/1i9uqmb) ![](assets/new.png)  
 - [2022-01-12-图像处理技术之分辨率与压缩](https://toutiao.io/k/6aothy4) ![](assets/new.png)  
 - [2022-01-12-如何交接复杂的遗留系统？](https://toutiao.io/k/pr7bonw) ![](assets/new.png)  
 - [2022-01-12-聊聊索引失效的10种场景，太坑了](https://toutiao.io/k/zm7ag1q) ![](assets/new.png)  
-- [2022-01-12-Nature：AI-引导人类直觉，帮助发现数学定理](https://toutiao.io/k/54kq9e2) ![](assets/new.png)  
 - [2022-01-12-3万字-|-34-图-|-Netty-|-内核角度看IO模型](https://toutiao.io/k/zavpca4) ![](assets/new.png)  
+- [2022-01-12-Nature：AI-引导人类直觉，帮助发现数学定理](https://toutiao.io/k/54kq9e2) ![](assets/new.png)  
 - [2022-01-12-为什么微服务要有API网关？](https://toutiao.io/k/khezgwh) ![](assets/new.png)  
 - [2022-01-12-Google-推荐使用-MVI-架构？卷起来了~](https://toutiao.io/k/2z8s3q6) ![](assets/new.png)  
 - [2022-01-12-为什么-Go-有两种声明变量的方式，有什么区别，哪种好？](https://toutiao.io/k/dhd3mae) ![](assets/new.png)  
-- [2022-01-12-推荐-面渣逆袭：JVM经典五十问，这下面试稳了！](https://toutiao.io/k/wideaab) ![](assets/new.png)  
-- [2022-01-12-推荐-聊聊spring事务失效的12种场景，太坑了](https://toutiao.io/k/uf6yk96) ![](assets/new.png)  
+- [2022-01-12-推荐-画架构图的神器](https://toutiao.io/k/4773s9p) ![](assets/new.png)  
+- [2022-01-12-推荐-再见了-VMware，一款更轻量级的虚拟机！](https://toutiao.io/k/xw2lnva) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-12 13:54:41，:rocket: 更新条数: +1736， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-12 14:12:40，:rocket: 更新条数: +1737， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,9 @@
 </summary>
 
 
+- [2022-01-12-招聘---深圳-招聘前端啦，我会在下方列出公司的优缺点，大家斟酌考虑](https://www.v2ex.com/t/827910) ![](assets/new.png)  
+- [2022-01-12-miui-系统一种恶心人的下贱做派怎么破](https://www.v2ex.com/t/827909) ![](assets/new.png)  
+- [2022-01-12-如何让-19-intel-的-mbp-显示-4k-分辨率？独显是-5300m](https://www.v2ex.com/t/827908) ![](assets/new.png)  
 - [2022-01-12-AXL-Inu-推出-AXL-Pad，为新兴项目提供-IDO-平台并在-MEXC-全球上市](https://www.v2ex.com/t/827907) ![](assets/new.png)  
 - [2022-01-12-有什么办法能让笔记本风扇安静一些](https://www.v2ex.com/t/827906) ![](assets/new.png)  
 - [2022-01-12-现在还有什么好的渠道购买-iphone13-pro](https://www.v2ex.com/t/827905) ![](assets/new.png)  
@@ -511,9 +514,6 @@
 - [2022-01-12-云消息队列备份-|-CKafka、TDMQ-消息队列数据备份到-COS](https://www.v2ex.com/t/827889) ![](assets/new.png)  
 - [2022-01-12-M1-MacBook-Air-电池问题](https://www.v2ex.com/t/827888) ![](assets/new.png)  
 - [2022-01-12-iOS（3GB-vs-6GB）和-iPadOS（8GB）不同内存大小后台不严谨对比和结论](https://www.v2ex.com/t/827887) ![](assets/new.png)  
-- [2022-01-12-微信支付文档代码示例背景色好像有问题](https://www.v2ex.com/t/827886) ![](assets/new.png)  
-- [2022-01-12-有朋友遇到过-Chrome/Edge-等-Chromium-内核的浏览器-CPU-莫名持续-137.5%占用的情况吗？](https://www.v2ex.com/t/827885) ![](assets/new.png)  
-- [2022-01-12-使用-Tin-快安装-DokuWiki（小白也能懂）](https://www.v2ex.com/t/827883) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -567,15 +567,15 @@
 - [2022-01-12-Spark作业不知道该如何分配资源怎么办？](https://toutiao.io/k/visuj3y) ![](assets/new.png)  
 - [2022-01-12-如何交接复杂的遗留系统？](https://toutiao.io/k/pr7bonw) ![](assets/new.png)  
 - [2022-01-12-聊聊索引失效的10种场景，太坑了](https://toutiao.io/k/zm7ag1q) ![](assets/new.png)  
-- [2022-01-12-图像处理技术之分辨率与压缩](https://toutiao.io/k/6aothy4) ![](assets/new.png)  
 - [2022-01-12-3万字-|-34-图-|-Netty-|-内核角度看IO模型](https://toutiao.io/k/zavpca4) ![](assets/new.png)  
+- [2022-01-12-图像处理技术之分辨率与压缩](https://toutiao.io/k/6aothy4) ![](assets/new.png)  
 - [2022-01-12-春联专用喷胶，点击领券现价只需4.6元！](https://toutiao.io/k/1i9uqmb) ![](assets/new.png)  
 - [2022-01-12-为什么微服务要有API网关？](https://toutiao.io/k/khezgwh) ![](assets/new.png)  
 - [2022-01-12-Nature：AI-引导人类直觉，帮助发现数学定理](https://toutiao.io/k/54kq9e2) ![](assets/new.png)  
 - [2022-01-12-Google-推荐使用-MVI-架构？卷起来了~](https://toutiao.io/k/2z8s3q6) ![](assets/new.png)  
 - [2022-01-12-为什么-Go-有两种声明变量的方式，有什么区别，哪种好？](https://toutiao.io/k/dhd3mae) ![](assets/new.png)  
-- [2022-01-12-推荐-2022新年伊始，送你百篇干货文章](https://toutiao.io/k/kchudkd) ![](assets/new.png)  
-- [2022-01-12-推荐-偷天换日，用-JavaAgent-欺骗你的-JVM](https://toutiao.io/k/cah22k5) ![](assets/new.png)  
+- [2022-01-12-推荐-画架构图的神器](https://toutiao.io/k/4773s9p) ![](assets/new.png)  
+- [2022-01-12-推荐-聊聊spring事务失效的12种场景，太坑了](https://toutiao.io/k/uf6yk96) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

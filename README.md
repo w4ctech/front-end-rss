@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-12 06:49:22，:rocket: 更新条数: +1732， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-12 06:54:37，:rocket: 更新条数: +1732， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,7 @@
 </summary>
 
 
+- [2022-01-12-之前写的唱片播放器，已开源，望大佬们给个-star](https://www.v2ex.com/t/827817) ![](assets/new.png)  
 - [2022-01-12-求问如何把-A-网的打印机共享给-B-网？](https://www.v2ex.com/t/827816) ![](assets/new.png)  
 - [2022-01-12-美企招聘自动化测试工程师](https://www.v2ex.com/t/827815) ![](assets/new.png)  
 - [2022-01-12-各位大哥，有谁知道这种图叫什么？-求个搜索关键字。](https://www.v2ex.com/t/827814) ![](assets/new.png)  
@@ -513,7 +514,6 @@
 - [2022-01-12-如何把-github-pages-搬运到-gitee-pages？](https://www.v2ex.com/t/827798) ![](assets/new.png)  
 - [2022-01-12-后端程序员转前端，有什么推荐吗](https://www.v2ex.com/t/827797) ![](assets/new.png)  
 - [2022-01-12-Sony-Xperia-I-iii，-App-的后台权限被重置](https://www.v2ex.com/t/827796) ![](assets/new.png)  
-- [2022-01-12-百度网盘是发什么疯，要录视频朗读证明，不然封号](https://www.v2ex.com/t/827793) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -574,8 +574,8 @@
 - [2022-01-12-如何交接复杂的遗留系统？](https://toutiao.io/k/pr7bonw) ![](assets/new.png)  
 - [2022-01-12-3万字-|-34-图-|-Netty-|-内核角度看IO模型](https://toutiao.io/k/zavpca4) ![](assets/new.png)  
 - [2022-01-12-为什么-Go-有两种声明变量的方式，有什么区别，哪种好？](https://toutiao.io/k/dhd3mae) ![](assets/new.png)  
-- [2022-01-12-推荐-非常哇塞的-ES读场景、写场景-性能优化指南！你值得拥有！](https://toutiao.io/k/5pjb28q) ![](assets/new.png)  
-- [2022-01-12-推荐-缓存一致性最佳实践](https://toutiao.io/k/ymscqc1) ![](assets/new.png)  
+- [2022-01-12-推荐-偷天换日，用-JavaAgent-欺骗你的-JVM](https://toutiao.io/k/cah22k5) ![](assets/new.png)  
+- [2022-01-12-推荐-面渣逆袭：JVM经典五十问，这下面试稳了！](https://toutiao.io/k/wideaab) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

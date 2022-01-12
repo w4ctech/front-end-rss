@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-12 09:57:17，:rocket: 更新条数: +1734， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-12 10:14:11，:rocket: 更新条数: +1734， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,8 @@
 </summary>
 
 
+- [2022-01-12-「上海-张江高科」「产品经理岗」「965」商用车后市场+互联网酷工作，不来一起整一把？](https://www.v2ex.com/t/827877) ![](assets/new.png)  
+- [2022-01-12-难道-V2EX-没有青岛人吗](https://www.v2ex.com/t/827876) ![](assets/new.png)  
 - [2022-01-12-裸辞很久了，年后想找个其他城市工作，想听听大家的城市经历。](https://www.v2ex.com/t/827875) ![](assets/new.png)  
 - [2022-01-12-CODING-携手-Thoughtworks-助力老百姓大药房打造”自治、自决、自动”的敏捷文化](https://www.v2ex.com/t/827874) ![](assets/new.png)  
 - [2022-01-12-主动降噪耳机标称值-vsNRR](https://www.v2ex.com/t/827872) ![](assets/new.png)  
@@ -512,8 +514,6 @@
 - [2022-01-12-.net-大神请进](https://www.v2ex.com/t/827855) ![](assets/new.png)  
 - [2022-01-12-哪个公司需要阿里云-ACE-证书](https://www.v2ex.com/t/827853) ![](assets/new.png)  
 - [2022-01-12-macOS,让你想象不到的内存不足](https://www.v2ex.com/t/827851) ![](assets/new.png)  
-- [2022-01-12-《深度探索-C++对象模型》这部分还值得看嘛？](https://www.v2ex.com/t/827849) ![](assets/new.png)  
-- [2022-01-12-如何更好的利用旧的-iPad](https://www.v2ex.com/t/827848) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -562,8 +562,8 @@
 - [2022-01-12-基于-SeaTunnel-构建-CDC-流式应用](https://toutiao.io/k/gzu6o13) ![](assets/new.png)  
 - [2022-01-12-阿里巴巴开源的XQUIC库](https://toutiao.io/k/qpfex0z) ![](assets/new.png)  
 - [2022-01-12-对象很大，你忍一下](https://toutiao.io/k/cikafb7) ![](assets/new.png)  
-- [2022-01-12-Spark作业不知道该如何分配资源怎么办？](https://toutiao.io/k/visuj3y) ![](assets/new.png)  
 - [2022-01-12-消息最终一致性最易用的新架构](https://toutiao.io/k/851yb2c) ![](assets/new.png)  
+- [2022-01-12-Spark作业不知道该如何分配资源怎么办？](https://toutiao.io/k/visuj3y) ![](assets/new.png)  
 - [2022-01-12-复杂场景下唤起App实践](https://toutiao.io/k/4mcg08t) ![](assets/new.png)  
 - [2022-01-12-春联专用喷胶，点击领券现价只需4.6元！](https://toutiao.io/k/1i9uqmb) ![](assets/new.png)  
 - [2022-01-12-图像处理技术之分辨率与压缩](https://toutiao.io/k/6aothy4) ![](assets/new.png)  
@@ -574,8 +574,8 @@
 - [2022-01-12-为什么微服务要有API网关？](https://toutiao.io/k/khezgwh) ![](assets/new.png)  
 - [2022-01-12-Google-推荐使用-MVI-架构？卷起来了~](https://toutiao.io/k/2z8s3q6) ![](assets/new.png)  
 - [2022-01-12-为什么-Go-有两种声明变量的方式，有什么区别，哪种好？](https://toutiao.io/k/dhd3mae) ![](assets/new.png)  
-- [2022-01-12-推荐-2021年美团技术团队最受欢迎的22篇技术文章](https://toutiao.io/k/pjse55y) ![](assets/new.png)  
-- [2022-01-12-推荐-面渣逆袭：JVM经典五十问，这下面试稳了！](https://toutiao.io/k/wideaab) ![](assets/new.png)  
+- [2022-01-12-推荐-2022新年伊始，送你百篇干货文章](https://toutiao.io/k/kchudkd) ![](assets/new.png)  
+- [2022-01-12-推荐-缓存一致性最佳实践](https://toutiao.io/k/ymscqc1) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

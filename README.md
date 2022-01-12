@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-12 00:42:08，:rocket: 更新条数: +1721， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-12 01:16:05，:rocket: 更新条数: +1719， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -65,7 +65,7 @@
 </summary>
 
 
-- [2022-01-11-最新疫情：全国新冠累计确诊103968例-累计接种新冠疫苗超29.05亿剂次](https://m.caixin.com/m/2022-01-11/101828838.html) ![](assets/new.png)  
+- [2022-01-12-1月11日全国新增新冠221例-四省份本土166例](https://m.caixin.com/m/2022-01-12/101828926.html) ![](assets/new.png)  
 - [2022-01-11-天津省际班线全部暂停-机场97%航班被取消](https://companies.caixin.com/m/2022-01-11/101828896.html) ![](assets/new.png)  
 - [2022-01-11-天津累计报告感染者97例-已出现家庭聚集传播6起](https://m.caixin.com/m/2022-01-11/101828766.html) ![](assets/new.png)  
 - [2022-01-11-香港本地疫情蔓延-幼儿园小学再全面“停课”](https://m.caixin.com/m/2022-01-11/101828627.html) ![](assets/new.png)  
@@ -494,6 +494,12 @@
 </summary>
 
 
+- [2022-01-12-来了来了，-go-使用-try-来异常处理的实验性小工具](https://www.v2ex.com/t/827724) ![](assets/new.png)  
+- [2022-01-12-uni-app-多端小程序选择哪个组件库？](https://www.v2ex.com/t/827722) ![](assets/new.png)  
+- [2022-01-12-除了-betterTouchTool-还有小巧简单的鼠标侧键绑定软件么](https://www.v2ex.com/t/827719) ![](assets/new.png)  
+- [2022-01-12-C-语言，市面上有没有讲软件架构的书](https://www.v2ex.com/t/827718) ![](assets/new.png)  
+- [2022-01-12-2022-年哪个手势识别库最好用？](https://www.v2ex.com/t/827717) ![](assets/new.png)  
+- [2022-01-12-灵活就业人员是不是按-60%基准交社保最划算？](https://www.v2ex.com/t/827716) ![](assets/new.png)  
 - [2022-01-11-M1-macOS-每次开机之后第一次用-git-时都会遇到这样的一个提示](https://www.v2ex.com/t/827715) ![](assets/new.png)  
 - [2022-01-11-v2-有抽雪茄的朋友么](https://www.v2ex.com/t/827714) ![](assets/new.png)  
 - [2022-01-11-抢到-speed.ga-域名，随手搭个测速网站](https://www.v2ex.com/t/827713) ![](assets/new.png)  
@@ -508,12 +514,6 @@
 - [2022-01-11-对-delete-和-shared_ptr-的行为-这么理解正确吗？](https://www.v2ex.com/t/827700) ![](assets/new.png)  
 - [2022-01-11-马上就要过年了，今年过年第一次到老丈人家，买点啥好呢？](https://www.v2ex.com/t/827698) ![](assets/new.png)  
 - [2022-01-11-关于口腔溃疡吃辣](https://www.v2ex.com/t/827695) ![](assets/new.png)  
-- [2022-01-11-分享下我的独立开发日记-03](https://www.v2ex.com/t/827693) ![](assets/new.png)  
-- [2022-01-11-定位灵异现象，求科学解答](https://www.v2ex.com/t/827692) ![](assets/new.png)  
-- [2022-01-11-有啥不错的历史纪录片推荐下吗](https://www.v2ex.com/t/827691) ![](assets/new.png)  
-- [2022-01-11-PCEVA-SSD-耐力赛结束，-6-块原厂-SSD-都撑到了-3000TB-写入](https://www.v2ex.com/t/827690) ![](assets/new.png)  
-- [2022-01-11-请问现在还有啥-IOS-商店-app-价格追踪工具？](https://www.v2ex.com/t/827689) ![](assets/new.png)  
-- [2022-01-11-华为花瓣搜索上线了！](https://www.v2ex.com/t/827688) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -560,22 +560,22 @@
 - [2022-01-12-摸清Git的门路，这22张图足够了！](https://toutiao.io/k/l7ititt) ![](assets/new.png)  
 - [2022-01-12-春联专用喷胶，点击领券现价只需4.6元！](https://toutiao.io/k/1i9uqmb) ![](assets/new.png)  
 - [2022-01-12-Spring-Boot-开挂：3-行代码-=-8-个接口](https://toutiao.io/k/jnfio49) ![](assets/new.png)  
-- [2022-01-12-Spark作业不知道该如何分配资源怎么办？](https://toutiao.io/k/visuj3y) ![](assets/new.png)  
-- [2022-01-12-【Rust日报】2022-01-10-使用-Nom-解析文本](https://toutiao.io/k/pa3290s) ![](assets/new.png)  
-- [2022-01-12-基于-SeaTunnel-构建-CDC-流式应用](https://toutiao.io/k/gzu6o13) ![](assets/new.png)  
 - [2022-01-12-对象很大，你忍一下](https://toutiao.io/k/cikafb7) ![](assets/new.png)  
-- [2022-01-12-SRE实战02Clickhouse在好大夫服务治理中的落地应用](https://toutiao.io/k/5sm7ge2) ![](assets/new.png)  
+- [2022-01-12-Spark作业不知道该如何分配资源怎么办？](https://toutiao.io/k/visuj3y) ![](assets/new.png)  
+- [2022-01-12-基于-SeaTunnel-构建-CDC-流式应用](https://toutiao.io/k/gzu6o13) ![](assets/new.png)  
 - [2022-01-12-复杂场景下唤起App实践](https://toutiao.io/k/4mcg08t) ![](assets/new.png)  
-- [2022-01-12-推荐-非常哇塞的-ES读场景、写场景-性能优化指南！你值得拥有！](https://toutiao.io/k/5pjb28q) ![](assets/new.png)  
+- [2022-01-12-SRE实战02Clickhouse在好大夫服务治理中的落地应用](https://toutiao.io/k/5sm7ge2) ![](assets/new.png)  
+- [2022-01-12-阿里巴巴开源的XQUIC库](https://toutiao.io/k/qpfex0z) ![](assets/new.png)  
+- [2022-01-12-推荐-2021年美团技术团队最受欢迎的22篇技术文章](https://toutiao.io/k/pjse55y) ![](assets/new.png)  
+- [2022-01-12-推荐-画架构图的神器](https://toutiao.io/k/4773s9p) ![](assets/new.png)  
+- [2022-01-12-推荐-缓存一致性最佳实践](https://toutiao.io/k/ymscqc1) ![](assets/new.png)  
 - [2022-01-12-推荐-面渣逆袭：JVM经典五十问，这下面试稳了！](https://toutiao.io/k/wideaab) ![](assets/new.png)  
 - [2022-01-12-推荐-网络编程怎么做才算是优雅？](https://toutiao.io/k/zylzzpi) ![](assets/new.png)  
-- [2022-01-12-推荐-再见了-VMware，一款更轻量级的虚拟机！](https://toutiao.io/k/xw2lnva) ![](assets/new.png)  
-- [2022-01-12-推荐-画架构图的神器](https://toutiao.io/k/4773s9p) ![](assets/new.png)  
-- [2022-01-12-推荐-偷天换日，用-JavaAgent-欺骗你的-JVM](https://toutiao.io/k/cah22k5) ![](assets/new.png)  
-- [2022-01-12-推荐-聊聊spring事务失效的12种场景，太坑了](https://toutiao.io/k/uf6yk96) ![](assets/new.png)  
-- [2022-01-12-推荐-2021年美团技术团队最受欢迎的22篇技术文章](https://toutiao.io/k/pjse55y) ![](assets/new.png)  
-- [2022-01-12-推荐-缓存一致性最佳实践](https://toutiao.io/k/ymscqc1) ![](assets/new.png)  
 - [2022-01-12-推荐-2022新年伊始，送你百篇干货文章](https://toutiao.io/k/kchudkd) ![](assets/new.png)  
+- [2022-01-12-推荐-非常哇塞的-ES读场景、写场景-性能优化指南！你值得拥有！](https://toutiao.io/k/5pjb28q) ![](assets/new.png)  
+- [2022-01-12-推荐-聊聊spring事务失效的12种场景，太坑了](https://toutiao.io/k/uf6yk96) ![](assets/new.png)  
+- [2022-01-12-推荐-再见了-VMware，一款更轻量级的虚拟机！](https://toutiao.io/k/xw2lnva) ![](assets/new.png)  
+- [2022-01-12-推荐-偷天换日，用-JavaAgent-欺骗你的-JVM](https://toutiao.io/k/cah22k5) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

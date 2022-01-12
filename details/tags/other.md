@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-01-12 23:23:02。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-01-12 23:40:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1618,6 +1618,7 @@
 - [2022-01-07-科技爱好者周刊（第-191-期）：一个程序员的财务独立之路](http://www.ruanyifeng.com/blog/2022/01/weekly-issue-191.html) 
 - [2021-12-31-科技爱好者周刊（第-190-期）：产品化思维](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-190.html) 
 - [2021-12-24-科技爱好者周刊（第-189-期）：下一个内卷的行业](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-189.html) 
+- [2022-01-12-Plug2Proxy：服务器专用，由流量出口服务器主动连接入口服务器的代理工具](https://www.v2ex.com/t/827933) 
 - [2022-01-12-远程全职或兼职-美国区块链创业公司寻-web-前端程序员](https://www.v2ex.com/t/827932) 
 - [2022-01-12-dxf-格式为什么用-cad-打开是空的](https://www.v2ex.com/t/827931) 
 - [2022-01-12-USB-外接蓝牙，有什么推荐吗？](https://www.v2ex.com/t/827930) 
@@ -1650,7 +1651,6 @@
 - [2022-01-12-M1-MacBook-Air-电池问题](https://www.v2ex.com/t/827888) 
 - [2022-01-12-iOS（3GB-vs-6GB）和-iPadOS（8GB）不同内存大小后台不严谨对比和结论](https://www.v2ex.com/t/827887) 
 - [2022-01-12-微信支付文档代码示例背景色好像有问题](https://www.v2ex.com/t/827886) 
-- [2022-01-12-使用-Tin-快安装-DokuWiki（小白也能懂）](https://www.v2ex.com/t/827883) 
 - [2022-01-12-阿里巴巴为什么能抗住90秒100亿？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14892&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247492963%26amp%3Bidx%3D1%26amp%3Bsn%3Dc055d55af2f4efdf70718c31e2b15ec9%26amp%3Bchksm%3Dfa3f0438cd488d2e2f70ee7dd5bb2751f5ec496ad010734777adaa544841a94c6f3fad2dffa0%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-01-12-常见代码重构技巧（非常实用）-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14891&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247492963%26amp%3Bidx%3D2%26amp%3Bsn%3D2ede8b39036a54cdad26ef35d74d7dcc%26amp%3Bchksm%3Dfa3f0438cd488d2ec7349ea9860d3987c3259afc12eb8a46a9569a41a3e0bc2f71ef10854d6c%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-01-12-10个动图,你会喜欢上idea的自动补全!-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14890&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247492923%26amp%3Bidx%3D1%26amp%3Bsn%3De52afa95777cbccbb584aad842d1a22c%26amp%3Bchksm%3Dfa3f0460cd488d76420858c663953776765cab8ce04561a825494e813096703d40f89dbbc5db%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1667,10 +1667,10 @@
 - [2022-01-12-一漂亮妹子的美团面经，4轮2小时，成功拿到Offer-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14878&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247492809%26amp%3Bidx%3D1%26amp%3Bsn%3D7e76004e09c77e34b0bb6f66eb503968%26amp%3Bchksm%3Dfa3f0592cd488c84eb8d73a04cf173ef6648e52fa3db73026f4927e4bdd7b0bed671993aa3dc%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-01-12-我曾目睹的微服务灾难-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14877&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247492809%26amp%3Bidx%3D2%26amp%3Bsn%3Daac037bab3b5d609c64d16f7d8f4eb46%26amp%3Bchksm%3Dfa3f0592cd488c8489679a58cba66b4d7c686d8a3f927de1395e90451ca7655b6e97062fa2f4%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-01-12-一个目录，居然干了10000+字！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14876&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247492773%26amp%3Bidx%3D1%26amp%3Bsn%3D6947676808d5b128dd1c5b78e6d9db42%26amp%3Bchksm%3Dfa3f05fecd488ce89901d56750a83ba8dc404d9d5bfab6dd77d87b6bed77076b985d9ab85241%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
-- [2022-01-12-推荐-2022新年伊始，送你百篇干货文章](https://toutiao.io/k/kchudkd) 
 - [2022-01-12-推荐-画架构图的神器](https://toutiao.io/k/4773s9p) 
 - [2022-01-12-推荐-2021年美团技术团队最受欢迎的22篇技术文章](https://toutiao.io/k/pjse55y) 
 - [2022-01-12-推荐-从零打造-Instagram](https://toutiao.io/k/hufqvji) 
-- [2022-01-12-推荐-再见了-VMware，一款更轻量级的虚拟机！](https://toutiao.io/k/xw2lnva) 
+- [2022-01-12-推荐-2022新年伊始，送你百篇干货文章](https://toutiao.io/k/kchudkd) 
 - [2022-01-12-推荐-网络编程怎么做才算是优雅？](https://toutiao.io/k/zylzzpi) 
+- [2022-01-12-推荐-再见了-VMware，一款更轻量级的虚拟机！](https://toutiao.io/k/xw2lnva) 
 - [2022-01-12-推荐-偷天换日，用-JavaAgent-欺骗你的-JVM](https://toutiao.io/k/cah22k5) 

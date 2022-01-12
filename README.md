@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-12 14:21:24，:rocket: 更新条数: +1738， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-12 14:38:36，:rocket: 更新条数: +1738， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,8 @@
 </summary>
 
 
+- [2022-01-12-v6-公共-dns-请求记录-2000ms](https://www.v2ex.com/t/827914) ![](assets/new.png)  
+- [2022-01-12-目前国内-Angular-的形式怎么样？流行吗？](https://www.v2ex.com/t/827913) ![](assets/new.png)  
 - [2022-01-12-Homebrew-比直接-safari-下载慢好多](https://www.v2ex.com/t/827912) ![](assets/new.png)  
 - [2022-01-12-老板，别再让打工人写文档和注释了](https://www.v2ex.com/t/827911) ![](assets/new.png)  
 - [2022-01-12-招聘---深圳-招聘前端啦，我会在下方列出公司的优缺点，大家斟酌考虑](https://www.v2ex.com/t/827910) ![](assets/new.png)  
@@ -512,8 +514,6 @@
 - [2022-01-12-我承诺绝不删除“鎏光云游戏引擎”开源仓库](https://www.v2ex.com/t/827894) ![](assets/new.png)  
 - [2022-01-12-怎么屏蔽或修改网页上的水印文字啊](https://www.v2ex.com/t/827892) ![](assets/new.png)  
 - [2022-01-12-关于移动的-AS24059-有无互联网业务？](https://www.v2ex.com/t/827891) ![](assets/new.png)  
-- [2022-01-12-14-M1-Pro-16G](https://www.v2ex.com/t/827890) ![](assets/new.png)  
-- [2022-01-12-云消息队列备份-|-CKafka、TDMQ-消息队列数据备份到-COS](https://www.v2ex.com/t/827889) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -574,8 +574,8 @@
 - [2022-01-12-Nature：AI-引导人类直觉，帮助发现数学定理](https://toutiao.io/k/54kq9e2) ![](assets/new.png)  
 - [2022-01-12-Google-推荐使用-MVI-架构？卷起来了~](https://toutiao.io/k/2z8s3q6) ![](assets/new.png)  
 - [2022-01-12-为什么-Go-有两种声明变量的方式，有什么区别，哪种好？](https://toutiao.io/k/dhd3mae) ![](assets/new.png)  
-- [2022-01-12-推荐-画架构图的神器](https://toutiao.io/k/4773s9p) ![](assets/new.png)  
 - [2022-01-12-推荐-非常哇塞的-ES读场景、写场景-性能优化指南！你值得拥有！](https://toutiao.io/k/5pjb28q) ![](assets/new.png)  
+- [2022-01-12-推荐-再见了-VMware，一款更轻量级的虚拟机！](https://toutiao.io/k/xw2lnva) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

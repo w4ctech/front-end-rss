@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-12 15:14:07，:rocket: 更新条数: +1739， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-12 15:24:05，:rocket: 更新条数: +1739， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,10 @@
 </summary>
 
 
+- [2022-01-12-为什么安卓阵营都抛弃了弹出式摄像头](https://www.v2ex.com/t/827922) ![](assets/new.png)  
+- [2022-01-12-笔记本电池鼓包是苹果的专利还是普遍存在的问题？](https://www.v2ex.com/t/827921) ![](assets/new.png)  
+- [2022-01-12-魅族浏览器，-V2EX-移动版网页，右上角登录的三个点失效](https://www.v2ex.com/t/827920) ![](assets/new.png)  
+- [2022-01-12-知乎的前端-er-请进来看一下](https://www.v2ex.com/t/827919) ![](assets/new.png)  
 - [2022-01-12-Rust-搜索半年总结](https://www.v2ex.com/t/827918) ![](assets/new.png)  
 - [2022-01-12-家庭网络布线求解](https://www.v2ex.com/t/827917) ![](assets/new.png)  
 - [2022-01-12-夸克这广告实在是太-low-了吧.](https://www.v2ex.com/t/827916) ![](assets/new.png)  
@@ -510,10 +514,6 @@
 - [2022-01-12-现在还有什么好的渠道购买-iphone13-pro](https://www.v2ex.com/t/827905) ![](assets/new.png)  
 - [2022-01-12-深圳桃苑小区转租-3500](https://www.v2ex.com/t/827904) ![](assets/new.png)  
 - [2022-01-12-路由器网线-WLAN-和-LAN-插反的神奇问题](https://www.v2ex.com/t/827902) ![](assets/new.png)  
-- [2022-01-12-关于降权相关](https://www.v2ex.com/t/827901) ![](assets/new.png)  
-- [2022-01-12-求教-windows-音量调节设置](https://www.v2ex.com/t/827900) ![](assets/new.png)  
-- [2022-01-12-从零到百亿美金之路](https://www.v2ex.com/t/827898) ![](assets/new.png)  
-- [2022-01-12-二合一键盘快捷屏蔽和打开](https://www.v2ex.com/t/827897) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -574,7 +574,7 @@
 - [2022-01-12-Nature：AI-引导人类直觉，帮助发现数学定理](https://toutiao.io/k/54kq9e2) ![](assets/new.png)  
 - [2022-01-12-Google-推荐使用-MVI-架构？卷起来了~](https://toutiao.io/k/2z8s3q6) ![](assets/new.png)  
 - [2022-01-12-为什么-Go-有两种声明变量的方式，有什么区别，哪种好？](https://toutiao.io/k/dhd3mae) ![](assets/new.png)  
-- [2022-01-12-推荐-非常哇塞的-ES读场景、写场景-性能优化指南！你值得拥有！](https://toutiao.io/k/5pjb28q) ![](assets/new.png)  
+- [2022-01-12-推荐-再见了-VMware，一款更轻量级的虚拟机！](https://toutiao.io/k/xw2lnva) ![](assets/new.png)  
 - [2022-01-12-推荐-缓存一致性最佳实践](https://toutiao.io/k/ymscqc1) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

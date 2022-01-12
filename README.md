@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-12 06:28:36，:rocket: 更新条数: +1732， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-12 06:49:22，:rocket: 更新条数: +1732， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,13 @@
 </summary>
 
 
+- [2022-01-12-求问如何把-A-网的打印机共享给-B-网？](https://www.v2ex.com/t/827816) ![](assets/new.png)  
+- [2022-01-12-美企招聘自动化测试工程师](https://www.v2ex.com/t/827815) ![](assets/new.png)  
+- [2022-01-12-各位大哥，有谁知道这种图叫什么？-求个搜索关键字。](https://www.v2ex.com/t/827814) ![](assets/new.png)  
+- [2022-01-12-公司裁员了](https://www.v2ex.com/t/827813) ![](assets/new.png)  
+- [2022-01-12-想问下报错-Uncaught-SyntaxError:-Use-of-const-in-strict-mode.](https://www.v2ex.com/t/827812) ![](assets/new.png)  
+- [2022-01-12-求-V-友们推荐一套游戏外设](https://www.v2ex.com/t/827810) ![](assets/new.png)  
+- [2022-01-12-迫于发错节点了，重发国区-iCloud-+-Apple-Music-拼车](https://www.v2ex.com/t/827809) ![](assets/new.png)  
 - [2022-01-12-NVIDIA-宣布-DLDSR-深度学习动态超分辨率-将于-1-月-14-日登录驱动](https://www.v2ex.com/t/827808) ![](assets/new.png)  
 - [2022-01-12-使用-Tin-快安装-Atlassian-JIRA](https://www.v2ex.com/t/827807) ![](assets/new.png)  
 - [2022-01-12-近期联通出口带宽感觉扩容不少，下载已经上-10m/s-了](https://www.v2ex.com/t/827806) ![](assets/new.png)  
@@ -507,13 +514,6 @@
 - [2022-01-12-后端程序员转前端，有什么推荐吗](https://www.v2ex.com/t/827797) ![](assets/new.png)  
 - [2022-01-12-Sony-Xperia-I-iii，-App-的后台权限被重置](https://www.v2ex.com/t/827796) ![](assets/new.png)  
 - [2022-01-12-百度网盘是发什么疯，要录视频朗读证明，不然封号](https://www.v2ex.com/t/827793) ![](assets/new.png)  
-- [2022-01-12-2000-预算，给老爸换个手机，求推荐](https://www.v2ex.com/t/827791) ![](assets/new.png)  
-- [2022-01-12-这是屏幕坏了吗-开始抖起来了-笔记本的-有-V-友懂的吗-教教弟弟](https://www.v2ex.com/t/827790) ![](assets/new.png)  
-- [2022-01-12-2022-年，有什么稳定好用的机场服务推荐吗？](https://www.v2ex.com/t/827787) ![](assets/new.png)  
-- [2022-01-12-为什么-IOS-应用跳转经常会跳转到-AppStore](https://www.v2ex.com/t/827786) ![](assets/new.png)  
-- [2022-01-12-2021-年的副业尝试，多做点有长期价值的事](https://www.v2ex.com/t/827785) ![](assets/new.png)  
-- [2022-01-12-请问大家多页面应用怎么做前后端分离？资源定位和前端页面权限控制怎么做？实际项目里是怎么做的？](https://www.v2ex.com/t/827784) ![](assets/new.png)  
-- [2022-01-12-上下风道机箱，电源吃显卡尾气，对电源寿命影响大吗](https://www.v2ex.com/t/827782) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -574,8 +574,8 @@
 - [2022-01-12-如何交接复杂的遗留系统？](https://toutiao.io/k/pr7bonw) ![](assets/new.png)  
 - [2022-01-12-3万字-|-34-图-|-Netty-|-内核角度看IO模型](https://toutiao.io/k/zavpca4) ![](assets/new.png)  
 - [2022-01-12-为什么-Go-有两种声明变量的方式，有什么区别，哪种好？](https://toutiao.io/k/dhd3mae) ![](assets/new.png)  
-- [2022-01-12-推荐-2022新年伊始，送你百篇干货文章](https://toutiao.io/k/kchudkd) ![](assets/new.png)  
-- [2022-01-12-推荐-画架构图的神器](https://toutiao.io/k/4773s9p) ![](assets/new.png)  
+- [2022-01-12-推荐-非常哇塞的-ES读场景、写场景-性能优化指南！你值得拥有！](https://toutiao.io/k/5pjb28q) ![](assets/new.png)  
+- [2022-01-12-推荐-缓存一致性最佳实践](https://toutiao.io/k/ymscqc1) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

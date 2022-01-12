@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2022-01-12 09:45:18。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-01-12 09:57:17。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-01-12-裸辞很久了，年后想找个其他城市工作，想听听大家的城市经历。](https://www.v2ex.com/t/827875) 
+- [2022-01-12-CODING-携手-Thoughtworks-助力老百姓大药房打造”自治、自决、自动”的敏捷文化](https://www.v2ex.com/t/827874) 
 - [2022-01-12-主动降噪耳机标称值-vsNRR](https://www.v2ex.com/t/827872) 
 - [2022-01-12-送定制微信红包封面](https://www.v2ex.com/t/827871) 
 - [2022-01-12-ConcurrentHashMap-源码中-initTable方法疑问](https://www.v2ex.com/t/827870) 
@@ -40,4 +42,3 @@
 - [2022-01-12-你有什么关于效率与执行力的技巧，可以分享一下？](https://www.v2ex.com/t/827828) 
 - [2022-01-12-看到预制菜，我在想一个问题](https://www.v2ex.com/t/827827) 
 - [2022-01-12-用-Vue-生成自己的豆瓣观影/读书/听歌数据-Widget](https://www.v2ex.com/t/827826) 
-- [2022-01-12-请教一个-Go-的小白问题](https://www.v2ex.com/t/827825) 

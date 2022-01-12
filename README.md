@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-12 09:22:45，:rocket: 更新条数: +1734， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-12 09:41:07，:rocket: 更新条数: +1733， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,12 @@
 </summary>
 
 
+- [2022-01-12-主动降噪耳机标称值-vsNRR](https://www.v2ex.com/t/827872) ![](assets/new.png)  
+- [2022-01-12-送定制微信红包封面](https://www.v2ex.com/t/827871) ![](assets/new.png)  
+- [2022-01-12-ConcurrentHashMap-源码中-initTable方法疑问](https://www.v2ex.com/t/827870) ![](assets/new.png)  
+- [2022-01-12-你们的-safari-手势返回前进能快速操作吗，就是一次操作的动画没结束又进行下一次操作，像-chrome-一样](https://www.v2ex.com/t/827869) ![](assets/new.png)  
+- [2022-01-12-“盯”，您有一条新消息！（一个价值消息聚合-app）](https://www.v2ex.com/t/827868) ![](assets/new.png)  
+- [2022-01-12-高纬空间中如何计算出等多边体的坐标](https://www.v2ex.com/t/827867) ![](assets/new.png)  
 - [2022-01-12-上海——坚果云（效率工具软件）移动端的大佬们看过来！!（节后面试，节前安排起来~）](https://www.v2ex.com/t/827866) ![](assets/new.png)  
 - [2022-01-12-M1-Mac-能否直接支持-Android-应用](https://www.v2ex.com/t/827864) ![](assets/new.png)  
 - [2022-01-12-WSA-支持-GPU-了](https://www.v2ex.com/t/827863) ![](assets/new.png)  
@@ -508,12 +514,6 @@
 - [2022-01-12-如何更好的利用旧的-iPad](https://www.v2ex.com/t/827848) ![](assets/new.png)  
 - [2022-01-12-如何使用-Python-读取本地-IndexedDB-数据？](https://www.v2ex.com/t/827847) ![](assets/new.png)  
 - [2022-01-12-问个-office365-的小白问题](https://www.v2ex.com/t/827846) ![](assets/new.png)  
-- [2022-01-12-讲真的，你们介意自己女朋友很矮吗？](https://www.v2ex.com/t/827844) ![](assets/new.png)  
-- [2022-01-12-请教各位电视和路由器购买推荐](https://www.v2ex.com/t/827842) ![](assets/new.png)  
-- [2022-01-12-Mac-播客的缓存目录在哪儿啊？](https://www.v2ex.com/t/827841) ![](assets/new.png)  
-- [2022-01-12-想问一下大家-2021-年年终奖情况](https://www.v2ex.com/t/827840) ![](assets/new.png)  
-- [2022-01-12-重工业行业财务问题，碰到知识盲区了](https://www.v2ex.com/t/827839) ![](assets/new.png)  
-- [2022-01-12-百思不得其解：-PHP-怎么把一维数组的键值转化为多维数组的键名](https://www.v2ex.com/t/827838) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -569,13 +569,13 @@
 - [2022-01-12-图像处理技术之分辨率与压缩](https://toutiao.io/k/6aothy4) ![](assets/new.png)  
 - [2022-01-12-Nature：AI-引导人类直觉，帮助发现数学定理](https://toutiao.io/k/54kq9e2) ![](assets/new.png)  
 - [2022-01-12-3万字-|-34-图-|-Netty-|-内核角度看IO模型](https://toutiao.io/k/zavpca4) ![](assets/new.png)  
-- [2022-01-12-聊聊索引失效的10种场景，太坑了](https://toutiao.io/k/zm7ag1q) ![](assets/new.png)  
 - [2022-01-12-如何交接复杂的遗留系统？](https://toutiao.io/k/pr7bonw) ![](assets/new.png)  
+- [2022-01-12-聊聊索引失效的10种场景，太坑了](https://toutiao.io/k/zm7ag1q) ![](assets/new.png)  
 - [2022-01-12-为什么微服务要有API网关？](https://toutiao.io/k/khezgwh) ![](assets/new.png)  
 - [2022-01-12-Google-推荐使用-MVI-架构？卷起来了~](https://toutiao.io/k/2z8s3q6) ![](assets/new.png)  
 - [2022-01-12-为什么-Go-有两种声明变量的方式，有什么区别，哪种好？](https://toutiao.io/k/dhd3mae) ![](assets/new.png)  
-- [2022-01-12-推荐-2022新年伊始，送你百篇干货文章](https://toutiao.io/k/kchudkd) ![](assets/new.png)  
-- [2022-01-12-推荐-2021年美团技术团队最受欢迎的22篇技术文章](https://toutiao.io/k/pjse55y) ![](assets/new.png)  
+- [2022-01-12-推荐-缓存一致性最佳实践](https://toutiao.io/k/ymscqc1) ![](assets/new.png)  
+- [2022-01-12-推荐-画架构图的神器](https://toutiao.io/k/4773s9p) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-12 08:27:10，:rocket: 更新条数: +1738， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-12 08:45:21，:rocket: 更新条数: +1736， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,9 @@
 </summary>
 
 
+- [2022-01-12-.net-大神请进](https://www.v2ex.com/t/827855) ![](assets/new.png)  
+- [2022-01-12-哪个公司需要阿里云-ACE-证书](https://www.v2ex.com/t/827853) ![](assets/new.png)  
+- [2022-01-12-macOS,让你想象不到的内存不足](https://www.v2ex.com/t/827851) ![](assets/new.png)  
 - [2022-01-12-《深度探索-C++对象模型》这部分还值得看嘛？](https://www.v2ex.com/t/827849) ![](assets/new.png)  
 - [2022-01-12-如何更好的利用旧的-iPad](https://www.v2ex.com/t/827848) ![](assets/new.png)  
 - [2022-01-12-如何使用-Python-读取本地-IndexedDB-数据？](https://www.v2ex.com/t/827847) ![](assets/new.png)  
@@ -511,9 +514,6 @@
 - [2022-01-12-求推荐一个电视盒子，只看国内-app-和本地电影](https://www.v2ex.com/t/827830) ![](assets/new.png)  
 - [2022-01-12-腾讯会议共享屏幕自动结束,-提示系统分配资源不足](https://www.v2ex.com/t/827829) ![](assets/new.png)  
 - [2022-01-12-你有什么关于效率与执行力的技巧，可以分享一下？](https://www.v2ex.com/t/827828) ![](assets/new.png)  
-- [2022-01-12-看到预制菜，我在想一个问题](https://www.v2ex.com/t/827827) ![](assets/new.png)  
-- [2022-01-12-用-Vue-生成自己的豆瓣观影/读书/听歌数据-Widget](https://www.v2ex.com/t/827826) ![](assets/new.png)  
-- [2022-01-12-请教一个-Go-的小白问题](https://www.v2ex.com/t/827825) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -574,8 +574,8 @@
 - [2022-01-12-聊聊索引失效的10种场景，太坑了](https://toutiao.io/k/zm7ag1q) ![](assets/new.png)  
 - [2022-01-12-如何交接复杂的遗留系统？](https://toutiao.io/k/pr7bonw) ![](assets/new.png)  
 - [2022-01-12-为什么-Go-有两种声明变量的方式，有什么区别，哪种好？](https://toutiao.io/k/dhd3mae) ![](assets/new.png)  
-- [2022-01-12-推荐-聊聊spring事务失效的12种场景，太坑了](https://toutiao.io/k/uf6yk96) ![](assets/new.png)  
-- [2022-01-12-推荐-面渣逆袭：JVM经典五十问，这下面试稳了！](https://toutiao.io/k/wideaab) ![](assets/new.png)  
+- [2022-01-12-推荐-2022新年伊始，送你百篇干货文章](https://toutiao.io/k/kchudkd) ![](assets/new.png)  
+- [2022-01-12-推荐-缓存一致性最佳实践](https://toutiao.io/k/ymscqc1) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

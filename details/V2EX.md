@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-01-13 17:57:16。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-01-13 18:15:32。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
@@ -42,4 +42,3 @@
 - [2022-01-13-北京-美资外企-Senior-Android/iOS-Engineer](https://www.v2ex.com/t/828092) 
 - [2022-01-13-QT-界面如何实现随电脑百分比放大、缩小](https://www.v2ex.com/t/828091) 
 - [2022-01-13-有编程基础的小白，怎么学安卓开发，从-0-到一个-App，有比较好的教程吗？](https://www.v2ex.com/t/828090) 
-- [2022-01-13-电信去年开通的一号双终端居然一直在收费。。。。](https://www.v2ex.com/t/828088) 

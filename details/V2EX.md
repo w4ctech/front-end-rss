@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-01-13 13:14:07。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-01-13 13:30:30。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
@@ -40,4 +40,3 @@
 - [2022-01-13-iPhone-电话进来会断网](https://www.v2ex.com/t/828070) 
 - [2022-01-13-FIREFOX-忽然无法打开任何网页,看贴吧还不是个例](https://www.v2ex.com/t/828069) 
 - [2022-01-13-Remote-Technical-Solutions-Engineer](https://www.v2ex.com/t/828068) 
-- [2022-01-13-该选用什么连接线-mac-mini-接显示器](https://www.v2ex.com/t/828067) 

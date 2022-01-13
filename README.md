@@ -11,11 +11,11 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-13 12:20:08，:rocket: 更新条数: +93， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-13 12:36:51，:rocket: 更新条数: +1739， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
@@ -65,6 +65,26 @@
 </summary>
 
 
+- [2022-01-13-最新疫情：全国新冠累计确诊104379例-累计接种新冠疫苗超29.18亿剂次](https://m.caixin.com/m/2022-01-13/101829764.html) ![](assets/new.png)  
+- [2022-01-13-上海新增2例新冠肺炎本土确诊病例和3例本土无症状感染者](https://m.caixin.com/m/2022-01-13/101829820.html) ![](assets/new.png)  
+- [2022-01-13-广东中山报告一例新冠阳性病例-入境澳门须48小时核酸阴性证明](https://m.caixin.com/m/2022-01-13/101829685.html) ![](assets/new.png)  
+- [2022-01-13-新年后182个国际航班被熔断-中美航线再次面临断航之忧](https://companies.caixin.com/m/2022-01-13/101829816.html) ![](assets/new.png)  
+- [2022-01-13-最新海外疫情：新冠感染超3.15亿，累计接种新冠疫苗超95.27亿剂次](https://m.caixin.com/m/2022-01-13/101829759.html) ![](assets/new.png)  
+- [2022-01-13-西安卫健委：西安高新医院、西安国际医学中心医院停业整顿3个月](https://m.caixin.com/m/2022-01-13/101829562.html) ![](assets/new.png)  
+- [2022-01-13-【境内疫情观察】全国新增124例本土病例（1月12日）](https://database.caixin.com/m/2022-01-13/101829633.html) ![](assets/new.png)  
+- [2022-01-13-全球一周内新增1500万病例，奥密克戎由西向东蔓延丨大流行手记（1月12日）](https://m.caixin.com/m/2022-01-13/101829508.html) ![](assets/new.png)  
+- [2022-01-13-分析｜Omicron来袭，怎样让健康码不“掉链子”？](https://m.caixin.com/m/2022-01-13/101829578.html) ![](assets/new.png)  
+- [2022-01-13-奥密克戎来袭-需戴双层口罩加强防护吗？](https://m.caixin.com/m/2022-01-13/101829461.html) ![](assets/new.png)  
+- [2022-01-13-【图集】天津市开启第二轮全员核酸检测](https://photos.caixin.com/m/2022-01-13/101829446.html) ![](assets/new.png)  
+- [2022-01-12-河南省内67趟列车因防疫需要停运](https://china.caixin.com/m/2022-01-12/101829192.html) ![](assets/new.png)  
+- [2022-01-12-【境内疫情观察】全国新增166例本土病例（1月11日）](https://database.caixin.com/m/2022-01-12/101829141.html) ![](assets/new.png)  
+- [2022-01-12-世卫称新冠疫苗成分或需更新-Omicron在美无放缓迹象｜大流行手记（1月11日）](https://m.caixin.com/m/2022-01-12/101829023.html) ![](assets/new.png)  
+- [2022-01-12-【图集】气膜实验室在天津滨海新区投入使用](https://photos.caixin.com/m/2022-01-12/101829153.html) ![](assets/new.png)  
+- [2022-01-11-天津省际班线全部暂停-机场97%航班被取消](https://companies.caixin.com/m/2022-01-11/101828896.html) ![](assets/new.png)  
+- [2022-01-11-天津累计报告感染者97例-已出现家庭聚集传播6起](https://m.caixin.com/m/2022-01-11/101828766.html) ![](assets/new.png)  
+- [2022-01-11-香港本地疫情蔓延-幼儿园小学再全面“停课”](https://m.caixin.com/m/2022-01-11/101828627.html) ![](assets/new.png)  
+- [2022-01-11-疫情病例增至8例-深圳疾控建议勿购买境外高风险地区商品](https://m.caixin.com/m/2022-01-11/101828583.html) ![](assets/new.png)  
+- [2022-01-11-违反疫情防控规定多人被查-河南警方通报典型案例](https://china.caixin.com/m/2022-01-11/101828548.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -474,6 +494,10 @@
 </summary>
 
 
+- [2022-01-13-intel-的-mbp-2018-cpu-温度日常-68+-正常吗](https://www.v2ex.com/t/828111) ![](assets/new.png)  
+- [2022-01-13-Windows-更新动画的简单实现](https://www.v2ex.com/t/828110) ![](assets/new.png)  
+- [2022-01-13-中关村工作-在哪里租房成本会低一些](https://www.v2ex.com/t/828109) ![](assets/new.png)  
+- [2022-01-13-为什么如今年味越来越淡了](https://www.v2ex.com/t/828108) ![](assets/new.png)  
 - [2022-01-13-转载-三大系统、数百产品捧场-龙芯-LoongArch-自主指令集免费开放](https://www.v2ex.com/t/828107) ![](assets/new.png)  
 - [2022-01-13-使用-Tin-快安装-Redmine](https://www.v2ex.com/t/828104) ![](assets/new.png)  
 - [2022-01-13-有好用背英文的组件吗？不用点进-app,直接可以在桌面看](https://www.v2ex.com/t/828103) ![](assets/new.png)  
@@ -490,10 +514,6 @@
 - [2022-01-13-电信去年开通的一号双终端居然一直在收费。。。。](https://www.v2ex.com/t/828088) ![](assets/new.png)  
 - [2022-01-13-加群导致账号被封-7-天](https://www.v2ex.com/t/828087) ![](assets/new.png)  
 - [2022-01-13-iPad-充不上电，你们能猜到原因吗？（设备充电器都没问题）](https://www.v2ex.com/t/828083) ![](assets/new.png)  
-- [2022-01-13-关于副业，分享几个自己的观点](https://www.v2ex.com/t/828082) ![](assets/new.png)  
-- [2022-01-13-房东直租-清河君安家园东区](https://www.v2ex.com/t/828081) ![](assets/new.png)  
-- [2022-01-13-「北京」OK-Group-,-区块链头部公司，大量-HC，分布式办公，来这里找回你生命的自由！](https://www.v2ex.com/t/828080) ![](assets/new.png)  
-- [2022-01-13-求推荐-13-Pro-的磁吸手机壳](https://www.v2ex.com/t/828079) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -550,12 +570,12 @@
 - [2022-01-13-HTTP协议细节，你学会了吗？](https://toutiao.io/k/cl67iv3) ![](assets/new.png)  
 - [2022-01-13-面渣逆袭：Java并发六十问，图文详解，快来看看你会多少道！](https://toutiao.io/k/4ndh1gd) ![](assets/new.png)  
 - [2022-01-13-SEE-Conf:-Umi-4-设计思路文字稿](https://toutiao.io/k/9cb6mv8) ![](assets/new.png)  
-- [2022-01-13-服务探活的五种方式](https://toutiao.io/k/1wuwmui) ![](assets/new.png)  
 - [2022-01-13-天天讲路由，那-Linux-路由到底咋实现的！？](https://toutiao.io/k/qbm42xm) ![](assets/new.png)  
+- [2022-01-13-服务探活的五种方式](https://toutiao.io/k/1wuwmui) ![](assets/new.png)  
 - [2022-01-13-2021年终总结](https://toutiao.io/k/wuzbpv9) ![](assets/new.png)  
 - [2022-01-13-研读网络安全法律法规，提升技术管理者-“法”-商](https://toutiao.io/k/7ot8ks2) ![](assets/new.png)  
-- [2022-01-13-推荐-2021年美团技术团队最受欢迎的22篇技术文章](https://toutiao.io/k/pjse55y) ![](assets/new.png)  
-- [2022-01-13-推荐-非常哇塞的-ES读场景、写场景-性能优化指南！你值得拥有！](https://toutiao.io/k/5pjb28q) ![](assets/new.png)  
+- [2022-01-13-推荐-再见了-VMware，一款更轻量级的虚拟机！](https://toutiao.io/k/xw2lnva) ![](assets/new.png)  
+- [2022-01-13-推荐-2022新年伊始，送你百篇干货文章](https://toutiao.io/k/kchudkd) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

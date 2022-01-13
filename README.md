@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-13 09:13:21，:rocket: 更新条数: +1740， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-13 09:23:38，:rocket: 更新条数: +1741， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,11 @@
 </summary>
 
 
+- [2022-01-13-macbook-你们开发软件一般放在哪些地方？](https://www.v2ex.com/t/828072) ![](assets/new.png)  
+- [2022-01-13-老哥们帮帮我---联想-yoga-14s-5800hs-mx450-外接-lg-up850-间歇性黑屏](https://www.v2ex.com/t/828071) ![](assets/new.png)  
+- [2022-01-13-iPhone-电话进来会断网](https://www.v2ex.com/t/828070) ![](assets/new.png)  
+- [2022-01-13-FIREFOX-忽然无法打开任何网页,看贴吧还不是个例](https://www.v2ex.com/t/828069) ![](assets/new.png)  
+- [2022-01-13-Remote-Technical-Solutions-Engineer](https://www.v2ex.com/t/828068) ![](assets/new.png)  
 - [2022-01-13-该选用什么连接线-mac-mini-接显示器](https://www.v2ex.com/t/828067) ![](assets/new.png)  
 - [2022-01-13-python3-+-gunicorn多进程-+-rq-+-subprocess-程序莫名-killed](https://www.v2ex.com/t/828064) ![](assets/new.png)  
 - [2022-01-13-算法视频](https://www.v2ex.com/t/828063) ![](assets/new.png)  
@@ -509,11 +514,6 @@
 - [2022-01-13-GraphQL-具体使用效果如何](https://www.v2ex.com/t/828050) ![](assets/new.png)  
 - [2022-01-13-微信这是什么💩](https://www.v2ex.com/t/828049) ![](assets/new.png)  
 - [2022-01-13-有谁知道这个网站是干嘛的吗](https://www.v2ex.com/t/828048) ![](assets/new.png)  
-- [2022-01-13-安居客这类-app-的租金报价是不是都偏低很多？](https://www.v2ex.com/t/828047) ![](assets/new.png)  
-- [2022-01-13-送码-分享女朋友画的微信红包封面](https://www.v2ex.com/t/828046) ![](assets/new.png)  
-- [2022-01-13-为什么微信-PC-版打字这么卡。。。有解吗](https://www.v2ex.com/t/828044) ![](assets/new.png)  
-- [2022-01-13-C/C++-小伙伴们用-C/C++开发超大型项目时，有什么比较好的查看调用栈的工具吗](https://www.v2ex.com/t/828043) ![](assets/new.png)  
-- [2022-01-13-想入一台美版-13mini-求可以入原封无锁的渠道](https://www.v2ex.com/t/828041) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -567,15 +567,15 @@
 - [2022-01-13-客户的一个紧急bug，我用了两种方式进行-C#-反编译修改源码](https://toutiao.io/k/qnt08dw) ![](assets/new.png)  
 - [2022-01-13-围剿慢SQL，工行MySQL研发管控和治理实践（附PPT）](https://toutiao.io/k/wf80qvd) ![](assets/new.png)  
 - [2022-01-13-HTTP协议细节，你学会了吗？](https://toutiao.io/k/cl67iv3) ![](assets/new.png)  
-- [2022-01-13-SEE-Conf:-Umi-4-设计思路文字稿](https://toutiao.io/k/9cb6mv8) ![](assets/new.png)  
 - [2022-01-13-热点和秒杀来临前要做的5件事](https://toutiao.io/k/p3o2q3g) ![](assets/new.png)  
+- [2022-01-13-SEE-Conf:-Umi-4-设计思路文字稿](https://toutiao.io/k/9cb6mv8) ![](assets/new.png)  
 - [2022-01-13-2021年终总结](https://toutiao.io/k/wuzbpv9) ![](assets/new.png)  
 - [2022-01-13-面渣逆袭：Java并发六十问，图文详解，快来看看你会多少道！](https://toutiao.io/k/4ndh1gd) ![](assets/new.png)  
 - [2022-01-13-天天讲路由，那-Linux-路由到底咋实现的！？](https://toutiao.io/k/qbm42xm) ![](assets/new.png)  
 - [2022-01-13-服务探活的五种方式](https://toutiao.io/k/1wuwmui) ![](assets/new.png)  
 - [2022-01-13-研读网络安全法律法规，提升技术管理者-“法”-商](https://toutiao.io/k/7ot8ks2) ![](assets/new.png)  
-- [2022-01-13-推荐-网络编程怎么做才算是优雅？](https://toutiao.io/k/zylzzpi) ![](assets/new.png)  
-- [2022-01-13-推荐-2021年美团技术团队最受欢迎的22篇技术文章](https://toutiao.io/k/pjse55y) ![](assets/new.png)  
+- [2022-01-13-推荐-偷天换日，用-JavaAgent-欺骗你的-JVM](https://toutiao.io/k/cah22k5) ![](assets/new.png)  
+- [2022-01-13-推荐-画架构图的神器](https://toutiao.io/k/4773s9p) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

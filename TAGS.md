@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-01-13 07:22:11。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-01-13 07:38:25。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -123,6 +123,7 @@
 
 
 
+- [【V2EX】吐槽麦当劳小程序](https://www.v2ex.com/t/828031)
 - [【V2EX】小小大现场：一个标记那些年看过的现场演出的小程序](https://www.v2ex.com/t/828022)
 - [......【查看更多】......](./details/tags/miniprogram.md)
 
@@ -282,7 +283,6 @@
 - [【武汉肺炎防疫全纪录(财新网)】解药|新冠mRNA疫苗安全性有哪些挑战？](https://m.caixin.com/m/2021-01-08/101648043.html)
 - [【武汉肺炎防疫全纪录(财新网)】大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html)
 - [【V2EX】edge-不知道为啥收藏夹全没了，求救](https://www.v2ex.com/t/827986)
-- [【V2EX】虚拟桌面是只能开多窗口浏览器用吗？-win10-桌面-1-开着钉钉，-win+tab-切换到另一桌面-2-点击钉钉就到桌面-1-的钉钉去了](https://www.v2ex.com/t/827978)
 - [【开发者头条】研读网络安全法律法规，提升技术管理者-“法”-商](https://toutiao.io/k/7ot8ks2)
 - [【开发者头条】推荐-缓存一致性最佳实践](https://toutiao.io/k/ymscqc1)
 - [......【查看更多】......](./details/tags/browser.md)
@@ -318,6 +318,7 @@
 
 
 
+- [【V2EX】求推荐-，-X86-的开发板，主要用-docker](https://www.v2ex.com/t/828029)
 - [......【查看更多】......](./details/tags/server.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

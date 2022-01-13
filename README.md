@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-13 07:22:11，:rocket: 更新条数: +1738， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-13 07:38:25，:rocket: 更新条数: +1737， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,11 @@
 </summary>
 
 
+- [2022-01-13-吐槽麦当劳小程序](https://www.v2ex.com/t/828031) ![](assets/new.png)  
+- [2022-01-13-求助-有没有讲解创建-Linux-liveOS-的教程](https://www.v2ex.com/t/828030) ![](assets/new.png)  
+- [2022-01-13-求推荐-，-X86-的开发板，主要用-docker](https://www.v2ex.com/t/828029) ![](assets/new.png)  
+- [2022-01-13-电动牙刷的正确打开方式](https://www.v2ex.com/t/828027) ![](assets/new.png)  
+- [2022-01-13-要不要主动申请转岗呢？](https://www.v2ex.com/t/828026) ![](assets/new.png)  
 - [2022-01-13-校招-Java-后端开发-offer-选择](https://www.v2ex.com/t/828024) ![](assets/new.png)  
 - [2022-01-13-小小大现场：一个标记那些年看过的现场演出的小程序](https://www.v2ex.com/t/828022) ![](assets/new.png)  
 - [2022-01-13-在-bash-脚本里用-find-命令和管道自动把文件名导入-ffmpeg-的-input-的时候，总有不完整或者错误的路径被导入-input，求大佬们帮忙看下问题](https://www.v2ex.com/t/828020) ![](assets/new.png)  
@@ -509,11 +514,6 @@
 - [2022-01-13-Google-搜索为何会出现-proxy-结果的-gov.cn-的链接？](https://www.v2ex.com/t/828008) ![](assets/new.png)  
 - [2022-01-13-求推荐好用的打车软件！](https://www.v2ex.com/t/828007) ![](assets/new.png)  
 - [2022-01-13-一直想买个卡带机听听我的旧磁带，貌似只能买到复读机了](https://www.v2ex.com/t/828006) ![](assets/new.png)  
-- [2022-01-13-有人收-GGAD-的账户吗-还有一百多刀](https://www.v2ex.com/t/828005) ![](assets/new.png)  
-- [2022-01-13-iCloud-备份为何要保存云端信息的端到端密钥](https://www.v2ex.com/t/828004) ![](assets/new.png)  
-- [2022-01-13-请人远程加入我们-tinyDebian-OS-的嵌入式-ARM-Linux-软件开发工作](https://www.v2ex.com/t/828003) ![](assets/new.png)  
-- [2022-01-13-健身房私教课剩余课程无法退课退费，-315-投诉商家也一直在拖着拒不处理，请教-V-友们如何解决？](https://www.v2ex.com/t/828001) ![](assets/new.png)  
-- [2022-01-13-Jeff-Dean-前天发表的-AI-长文分享-干货满满](https://www.v2ex.com/t/828000) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -563,8 +563,8 @@
 - [2022-01-13-Web-多线程开发利器-Comlink-的剖析与思考](https://toutiao.io/k/zucz9xa) ![](assets/new.png)  
 - [2022-01-13-图像处理技术（二）滤波去噪](https://toutiao.io/k/5t3b51w) ![](assets/new.png)  
 - [2022-01-13-猫咪招财喜庆铃铛项圈，点击链接立即领取10元红包礼券！](https://toutiao.io/k/kln056s) ![](assets/new.png)  
-- [2022-01-13-客户的一个紧急bug，我用了两种方式进行-C#-反编译修改源码](https://toutiao.io/k/qnt08dw) ![](assets/new.png)  
 - [2022-01-13-UGUI源码一6千字带你入门UGUI源码](https://toutiao.io/k/u2du3ue) ![](assets/new.png)  
+- [2022-01-13-客户的一个紧急bug，我用了两种方式进行-C#-反编译修改源码](https://toutiao.io/k/qnt08dw) ![](assets/new.png)  
 - [2022-01-13-围剿慢SQL，工行MySQL研发管控和治理实践（附PPT）](https://toutiao.io/k/wf80qvd) ![](assets/new.png)  
 - [2022-01-13-HTTP协议细节，你学会了吗？](https://toutiao.io/k/cl67iv3) ![](assets/new.png)  
 - [2022-01-13-SEE-Conf:-Umi-4-设计思路文字稿](https://toutiao.io/k/9cb6mv8) ![](assets/new.png)  
@@ -574,8 +574,8 @@
 - [2022-01-13-服务探活的五种方式](https://toutiao.io/k/1wuwmui) ![](assets/new.png)  
 - [2022-01-13-面渣逆袭：Java并发六十问，图文详解，快来看看你会多少道！](https://toutiao.io/k/4ndh1gd) ![](assets/new.png)  
 - [2022-01-13-研读网络安全法律法规，提升技术管理者-“法”-商](https://toutiao.io/k/7ot8ks2) ![](assets/new.png)  
-- [2022-01-13-推荐-再见了-VMware，一款更轻量级的虚拟机！](https://toutiao.io/k/xw2lnva) ![](assets/new.png)  
-- [2022-01-13-推荐-缓存一致性最佳实践](https://toutiao.io/k/ymscqc1) ![](assets/new.png)  
+- [2022-01-13-推荐-从零打造-Instagram](https://toutiao.io/k/hufqvji) ![](assets/new.png)  
+- [2022-01-13-推荐-画架构图的神器](https://toutiao.io/k/4773s9p) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

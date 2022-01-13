@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-13 13:40:15，:rocket: 更新条数: +1740， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-13 13:45:47，:rocket: 更新条数: +1740， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -66,7 +66,7 @@
 
 
 - [2022-01-13-最新疫情：全国新冠累计确诊104379例-累计接种新冠疫苗超29.18亿剂次](https://m.caixin.com/m/2022-01-13/101829764.html) ![](assets/new.png)  
-- [2022-01-13-上海新增2例新冠肺炎本土确诊病例和3例本土无症状感染者](https://m.caixin.com/m/2022-01-13/101829820.html) ![](assets/new.png)  
+- [2022-01-13-上海新增2例确诊和3例无症状-均为境外输入病例关联人员](https://m.caixin.com/m/2022-01-13/101829820.html) ![](assets/new.png)  
 - [2022-01-13-广东中山报告一例新冠阳性病例-入境澳门须48小时核酸阴性证明](https://m.caixin.com/m/2022-01-13/101829685.html) ![](assets/new.png)  
 - [2022-01-13-新年后182个国际航班被熔断-中美航线再次面临断航之忧](https://companies.caixin.com/m/2022-01-13/101829816.html) ![](assets/new.png)  
 - [2022-01-13-最新海外疫情：新冠感染超3.15亿，累计接种新冠疫苗超95.27亿剂次](https://m.caixin.com/m/2022-01-13/101829759.html) ![](assets/new.png)  
@@ -561,8 +561,8 @@
 - [2022-01-13-平台化建设思路浅谈-|-木小丰的博客](https://toutiao.io/k/gyrx2g8) ![](assets/new.png)  
 - [2022-01-13-Go-模糊测试](https://toutiao.io/k/kul5ja2) ![](assets/new.png)  
 - [2022-01-13-Web-多线程开发利器-Comlink-的剖析与思考](https://toutiao.io/k/zucz9xa) ![](assets/new.png)  
-- [2022-01-13-图像处理技术（二）滤波去噪](https://toutiao.io/k/5t3b51w) ![](assets/new.png)  
 - [2022-01-13-热点和秒杀来临前要做的5件事](https://toutiao.io/k/p3o2q3g) ![](assets/new.png)  
+- [2022-01-13-图像处理技术（二）滤波去噪](https://toutiao.io/k/5t3b51w) ![](assets/new.png)  
 - [2022-01-13-UGUI源码一6千字带你入门UGUI源码](https://toutiao.io/k/u2du3ue) ![](assets/new.png)  
 - [2022-01-13-围剿慢SQL，工行MySQL研发管控和治理实践（附PPT）](https://toutiao.io/k/wf80qvd) ![](assets/new.png)  
 - [2022-01-13-面渣逆袭：Java并发六十问，图文详解，快来看看你会多少道！](https://toutiao.io/k/4ndh1gd) ![](assets/new.png)  
@@ -574,8 +574,8 @@
 - [2022-01-13-2021年终总结](https://toutiao.io/k/wuzbpv9) ![](assets/new.png)  
 - [2022-01-13-SEE-Conf:-Umi-4-设计思路文字稿](https://toutiao.io/k/9cb6mv8) ![](assets/new.png)  
 - [2022-01-13-研读网络安全法律法规，提升技术管理者-“法”-商](https://toutiao.io/k/7ot8ks2) ![](assets/new.png)  
-- [2022-01-13-推荐-网络编程怎么做才算是优雅？](https://toutiao.io/k/zylzzpi) ![](assets/new.png)  
-- [2022-01-13-推荐-从零打造-Instagram](https://toutiao.io/k/hufqvji) ![](assets/new.png)  
+- [2022-01-13-推荐-再见了-VMware，一款更轻量级的虚拟机！](https://toutiao.io/k/xw2lnva) ![](assets/new.png)  
+- [2022-01-13-推荐-偷天换日，用-JavaAgent-欺骗你的-JVM](https://toutiao.io/k/cah22k5) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

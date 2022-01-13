@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-13 15:13:25，:rocket: 更新条数: +1743， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-13 15:23:55，:rocket: 更新条数: +1743， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,7 @@
 </summary>
 
 
+- [2022-01-13-算上见识到微信客服的下限了](https://www.v2ex.com/t/828132) ![](assets/new.png)  
 - [2022-01-13-高性能-C++国内有哪些好的工作方向？](https://www.v2ex.com/t/828131) ![](assets/new.png)  
 - [2022-01-13-三节五号电池的体重秤-改装无线充电方式，用-5w-的无线充发射接收模块，会有影响么？](https://www.v2ex.com/t/828130) ![](assets/new.png)  
 - [2022-01-13-如何理解分布式和集群的区别？](https://www.v2ex.com/t/828129) ![](assets/new.png)  
@@ -513,7 +514,6 @@
 - [2022-01-13-Windows-更新动画的简单实现](https://www.v2ex.com/t/828110) ![](assets/new.png)  
 - [2022-01-13-中关村工作-在哪里租房成本会低一些](https://www.v2ex.com/t/828109) ![](assets/new.png)  
 - [2022-01-13-为什么如今年味越来越淡了](https://www.v2ex.com/t/828108) ![](assets/new.png)  
-- [2022-01-13-转载-三大系统、数百产品捧场-龙芯-LoongArch-自主指令集免费开放](https://www.v2ex.com/t/828107) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -574,8 +574,8 @@
 - [2022-01-13-2021年终总结](https://toutiao.io/k/wuzbpv9) ![](assets/new.png)  
 - [2022-01-13-SEE-Conf:-Umi-4-设计思路文字稿](https://toutiao.io/k/9cb6mv8) ![](assets/new.png)  
 - [2022-01-13-研读网络安全法律法规，提升技术管理者-“法”-商](https://toutiao.io/k/7ot8ks2) ![](assets/new.png)  
-- [2022-01-13-推荐-从零打造-Instagram](https://toutiao.io/k/hufqvji) ![](assets/new.png)  
-- [2022-01-13-推荐-2021年美团技术团队最受欢迎的22篇技术文章](https://toutiao.io/k/pjse55y) ![](assets/new.png)  
+- [2022-01-13-推荐-缓存一致性最佳实践](https://toutiao.io/k/ymscqc1) ![](assets/new.png)  
+- [2022-01-13-推荐-网络编程怎么做才算是优雅？](https://toutiao.io/k/zylzzpi) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2022-01-13 03:28:02。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-01-13 03:42:46。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-01-13-M1-Mac-外置硬盘频繁休眠的解决办法](https://www.v2ex.com/t/827980) 
 - [2022-01-13-虚拟桌面是只能开多窗口浏览器用吗？-win10-桌面-1-开着钉钉，-win+tab-切换到另一桌面-2-点击钉钉就到桌面-1-的钉钉去了](https://www.v2ex.com/t/827978) 
 - [2022-01-13-如何-更改文件-hash-的同时让文件可以正常使用](https://www.v2ex.com/t/827977) 
 - [2022-01-13-关于不同国家和地区的-iPhone-13-Pro-Max-的-SAR-值的疑问](https://www.v2ex.com/t/827976) 
@@ -38,5 +39,3 @@
 - [2022-01-12-Plug2Proxy：服务器专用，由流量出口服务器主动连接入口服务器的代理工具](https://www.v2ex.com/t/827933) 
 - [2022-01-12-远程全职或兼职-美国区块链创业公司寻-web-前端程序员](https://www.v2ex.com/t/827932) 
 - [2022-01-12-dxf-格式为什么用-cad-打开是空的](https://www.v2ex.com/t/827931) 
-- [2022-01-12-USB-外接蓝牙，有什么推荐吗？](https://www.v2ex.com/t/827930) 
-- [2022-01-12-Apple-Silicon-下的-Parallels-Desktop-怎么选择-manjaro-的版本?](https://www.v2ex.com/t/827929) 

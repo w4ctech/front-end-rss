@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-13 03:28:02，:rocket: 更新条数: +1728， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-13 03:42:46，:rocket: 更新条数: +1727， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,7 @@
 </summary>
 
 
+- [2022-01-13-M1-Mac-外置硬盘频繁休眠的解决办法](https://www.v2ex.com/t/827980) ![](assets/new.png)  
 - [2022-01-13-虚拟桌面是只能开多窗口浏览器用吗？-win10-桌面-1-开着钉钉，-win+tab-切换到另一桌面-2-点击钉钉就到桌面-1-的钉钉去了](https://www.v2ex.com/t/827978) ![](assets/new.png)  
 - [2022-01-13-如何-更改文件-hash-的同时让文件可以正常使用](https://www.v2ex.com/t/827977) ![](assets/new.png)  
 - [2022-01-13-关于不同国家和地区的-iPhone-13-Pro-Max-的-SAR-值的疑问](https://www.v2ex.com/t/827976) ![](assets/new.png)  
@@ -513,7 +514,6 @@
 - [2022-01-13-请大家看我的究极乌龟壳。](https://www.v2ex.com/t/827958) ![](assets/new.png)  
 - [2022-01-13-腾讯云元旦特惠二核-4G8M-三年仅-151-四核-8G10M-三年-768-四核-16G12M-三年-1098新老身份都可上车官方特价良心云海外机器也有活动香港国际可以特惠续费](https://www.v2ex.com/t/827957) ![](assets/new.png)  
 - [2022-01-13-15.2.1-正式版更新推送了](https://www.v2ex.com/t/827955) ![](assets/new.png)  
-- [2022-01-13-xdm-你们平常都怎么鼓捣-notion-的?有什么花活推荐下吗?我想参考下,我把这玩意用成在线编辑器器了=.=](https://www.v2ex.com/t/827954) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -557,8 +557,8 @@
 
 
 - [2022-01-13-颠覆Kafka的统治，新一代云原生消息系统Pulsar震撼来袭！](https://toutiao.io/k/zfkdb6h) ![](assets/new.png)  
-- [2022-01-13-平台化建设思路浅谈-|-木小丰的博客](https://toutiao.io/k/gyrx2g8) ![](assets/new.png)  
 - [2022-01-13-汤楚熙：美团实时数仓架构演进与建设实践](https://toutiao.io/k/8ky7vrp) ![](assets/new.png)  
+- [2022-01-13-平台化建设思路浅谈-|-木小丰的博客](https://toutiao.io/k/gyrx2g8) ![](assets/new.png)  
 - [2022-01-13-Go-模糊测试](https://toutiao.io/k/kul5ja2) ![](assets/new.png)  
 - [2022-01-13-Web-多线程开发利器-Comlink-的剖析与思考](https://toutiao.io/k/zucz9xa) ![](assets/new.png)  
 - [2022-01-13-猫咪招财喜庆铃铛项圈，原价26元，点击链接立减10元！](https://toutiao.io/k/kln056s) ![](assets/new.png)  
@@ -568,14 +568,14 @@
 - [2022-01-13-围剿慢SQL，工行MySQL研发管控和治理实践（附PPT）](https://toutiao.io/k/wf80qvd) ![](assets/new.png)  
 - [2022-01-13-HTTP协议细节，你学会了吗？](https://toutiao.io/k/cl67iv3) ![](assets/new.png)  
 - [2022-01-13-SEE-Conf:-Umi-4-设计思路文字稿](https://toutiao.io/k/9cb6mv8) ![](assets/new.png)  
-- [2022-01-13-推荐-画架构图的神器](https://toutiao.io/k/4773s9p) ![](assets/new.png)  
+- [2022-01-13-推荐-网络编程怎么做才算是优雅？](https://toutiao.io/k/zylzzpi) ![](assets/new.png)  
 - [2022-01-13-推荐-偷天换日，用-JavaAgent-欺骗你的-JVM](https://toutiao.io/k/cah22k5) ![](assets/new.png)  
-- [2022-01-13-推荐-缓存一致性最佳实践](https://toutiao.io/k/ymscqc1) ![](assets/new.png)  
+- [2022-01-13-推荐-再见了-VMware，一款更轻量级的虚拟机！](https://toutiao.io/k/xw2lnva) ![](assets/new.png)  
 - [2022-01-13-推荐-2021年美团技术团队最受欢迎的22篇技术文章](https://toutiao.io/k/pjse55y) ![](assets/new.png)  
+- [2022-01-13-推荐-非常哇塞的-ES读场景、写场景-性能优化指南！你值得拥有！](https://toutiao.io/k/5pjb28q) ![](assets/new.png)  
+- [2022-01-13-推荐-画架构图的神器](https://toutiao.io/k/4773s9p) ![](assets/new.png)  
 - [2022-01-13-推荐-从零打造-Instagram](https://toutiao.io/k/hufqvji) ![](assets/new.png)  
 - [2022-01-13-推荐-2022新年伊始，送你百篇干货文章](https://toutiao.io/k/kchudkd) ![](assets/new.png)  
-- [2022-01-13-推荐-再见了-VMware，一款更轻量级的虚拟机！](https://toutiao.io/k/xw2lnva) ![](assets/new.png)  
-- [2022-01-13-推荐-网络编程怎么做才算是优雅？](https://toutiao.io/k/zylzzpi) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

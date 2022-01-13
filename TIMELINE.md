@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-01-13 03:00:08。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-01-13 03:16:01。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -70,6 +70,7 @@
 
 - [【武汉肺炎防疫全纪录(财新网)】2022-01-13-1月12日全国新增新冠190例-四省份本土124例](https://m.caixin.com/m/2022-01-13/101829419.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2022-01-13-奥密克戎来袭-需戴双层口罩加强防护吗？](https://m.caixin.com/m/2022-01-13/101829461.html) 
+- [【武汉肺炎防疫全纪录(财新网)】2022-01-13-全球一周内新增1500万病例，奥密克戎由西向东蔓延丨大流行手记（1月12日）](https://m.caixin.com/m/2022-01-13/101829508.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2022-01-13-【图集】天津市开启第二轮全员核酸检测](https://photos.caixin.com/m/2022-01-13/101829446.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2022-01-12-河南省内67趟列车因防疫需要停运](https://china.caixin.com/m/2022-01-12/101829192.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2022-01-12-最新海外疫情：新冠感染超3.12亿-累计接种新冠疫苗近94.91亿剂次](https://m.caixin.com/m/2022-01-12/101829292.html) 
@@ -145,6 +146,8 @@
 - [【武汉肺炎防疫全纪录(财新网)】2022-01-01-英国重启临时医院，多国医疗系统承压｜大流行手记（12月31日）](https://m.caixin.com/m/2022-01-01/101824902.html) 
 - [【张鑫旭-鑫空间-鑫生活】2022-01-11-还有完没完，怎么又来了个-scrollbar-gutter？](https://www.zhangxinxu.com/wordpress/2022/01/css-scrollbar-gutter/) 
 - [【阮一峰的网络日志】2022-01-07-科技爱好者周刊（第-191-期）：一个程序员的财务独立之路](http://www.ruanyifeng.com/blog/2022/01/weekly-issue-191.html) 
+- [【V2EX】2022-01-13-迫于要写程序员年终总结,](https://www.v2ex.com/t/827971) 
+- [【V2EX】2022-01-13-想知道大家对现在“元宇宙”怎么看](https://www.v2ex.com/t/827970) 
 - [【V2EX】2022-01-13-不借助其他工具,单纯的-SQL-语句能不能做到这种效果](https://www.v2ex.com/t/827969) 
 - [【V2EX】2022-01-13-新品发布-|-Cloudpods-3.8.6-版本上线！](https://www.v2ex.com/t/827968) 
 - [【V2EX】2022-01-13-公司让员工自费办理指定运营商的手机卡，公司给报销话费，这算正常吗？](https://www.v2ex.com/t/827967) 
@@ -178,9 +181,6 @@
 - [【V2EX】2022-01-12-2022-年了-我的-dlc-呢？](https://www.v2ex.com/t/827926) 
 - [【V2EX】2022-01-12-大哥们，我在-Esxi-上装了-ubuntu，怎么在-ubuntu-上用鼠标的侧键呢？](https://www.v2ex.com/t/827925) 
 - [【V2EX】2022-01-12-罗技-MX-Master3-和妙控板，你更推荐哪一个？](https://www.v2ex.com/t/827923) 
-- [【V2EX】2022-01-12-为什么安卓阵营都抛弃了弹出式摄像头](https://www.v2ex.com/t/827922) 
-- [【V2EX】2022-01-12-笔记本电池鼓包是苹果的专利还是普遍存在的问题？](https://www.v2ex.com/t/827921) 
-- [【V2EX】2022-01-12-魅族浏览器，-V2EX-移动版网页，右上角登录的三个点失效](https://www.v2ex.com/t/827920) 
 - [【技术头条】2022-01-13-还在为-Flutter-图表控件发愁么？不妨试试这个-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14894&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F4OKaKf43Y6dSYajaCHnehw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-01-13-用Python做一个游戏辅助脚本！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14893&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247492993%26amp%3Bidx%3D2%26amp%3Bsn%3D67230660b390f06f5584792da10b1078%26amp%3Bchksm%3Dfa3f04dacd488dccec0f68b1534821b98dde1730e4970ca0629239bd3275199e72af4b3c8771%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-01-13-阿里巴巴为什么能抗住90秒100亿？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14892&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247492963%26amp%3Bidx%3D1%26amp%3Bsn%3Dc055d55af2f4efdf70718c31e2b15ec9%26amp%3Bchksm%3Dfa3f0438cd488d2e2f70ee7dd5bb2751f5ec496ad010734777adaa544841a94c6f3fad2dffa0%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -213,15 +213,15 @@
 - [【开发者头条】2022-01-13-HTTP协议细节，你学会了吗？](https://toutiao.io/k/cl67iv3) 
 - [【开发者头条】2022-01-13-围剿慢SQL，工行MySQL研发管控和治理实践（附PPT）](https://toutiao.io/k/wf80qvd) 
 - [【开发者头条】2022-01-13-SEE-Conf:-Umi-4-设计思路文字稿](https://toutiao.io/k/9cb6mv8) 
-- [【开发者头条】2022-01-13-推荐-2021年美团技术团队最受欢迎的22篇技术文章](https://toutiao.io/k/pjse55y) 
 - [【开发者头条】2022-01-13-推荐-网络编程怎么做才算是优雅？](https://toutiao.io/k/zylzzpi) 
 - [【开发者头条】2022-01-13-推荐-2022新年伊始，送你百篇干货文章](https://toutiao.io/k/kchudkd) 
+- [【开发者头条】2022-01-13-推荐-2021年美团技术团队最受欢迎的22篇技术文章](https://toutiao.io/k/pjse55y) 
 - [【开发者头条】2022-01-13-推荐-从零打造-Instagram](https://toutiao.io/k/hufqvji) 
-- [【开发者头条】2022-01-13-推荐-偷天换日，用-JavaAgent-欺骗你的-JVM](https://toutiao.io/k/cah22k5) 
-- [【开发者头条】2022-01-13-推荐-画架构图的神器](https://toutiao.io/k/4773s9p) 
-- [【开发者头条】2022-01-13-推荐-非常哇塞的-ES读场景、写场景-性能优化指南！你值得拥有！](https://toutiao.io/k/5pjb28q) 
 - [【开发者头条】2022-01-13-推荐-再见了-VMware，一款更轻量级的虚拟机！](https://toutiao.io/k/xw2lnva) 
+- [【开发者头条】2022-01-13-推荐-非常哇塞的-ES读场景、写场景-性能优化指南！你值得拥有！](https://toutiao.io/k/5pjb28q) 
+- [【开发者头条】2022-01-13-推荐-画架构图的神器](https://toutiao.io/k/4773s9p) 
 - [【开发者头条】2022-01-13-推荐-缓存一致性最佳实践](https://toutiao.io/k/ymscqc1) 
+- [【开发者头条】2022-01-13-推荐-偷天换日，用-JavaAgent-欺骗你的-JVM](https://toutiao.io/k/cah22k5) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

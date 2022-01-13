@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-13 10:14:10，:rocket: 更新条数: +1741， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-13 10:26:18，:rocket: 更新条数: +1741， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,8 @@
 </summary>
 
 
+- [2022-01-13-电信去年开通的一号双终端居然一直在收费。。。。](https://www.v2ex.com/t/828088) ![](assets/new.png)  
+- [2022-01-13-加群导致账号被封-7-天](https://www.v2ex.com/t/828087) ![](assets/new.png)  
 - [2022-01-13-对女人感到厌恶和失望](https://www.v2ex.com/t/828085) ![](assets/new.png)  
 - [2022-01-13-有弯弯区的-ICloud+Music-车吗](https://www.v2ex.com/t/828084) ![](assets/new.png)  
 - [2022-01-13-iPad-充不上电，你们能猜到原因吗？（设备充电器都没问题）](https://www.v2ex.com/t/828083) ![](assets/new.png)  
@@ -512,8 +514,6 @@
 - [2022-01-13-python3-+-gunicorn多进程-+-rq-+-subprocess-程序莫名-killed](https://www.v2ex.com/t/828064) ![](assets/new.png)  
 - [2022-01-13-算法视频](https://www.v2ex.com/t/828063) ![](assets/new.png)  
 - [2022-01-13-又一个轮子-vite+react+ts-的仿-flomo-浮墨应用](https://www.v2ex.com/t/828062) ![](assets/new.png)  
-- [2022-01-13-有没有什么-Macbook-16-三方充电器推荐](https://www.v2ex.com/t/828060) ![](assets/new.png)  
-- [2022-01-13-手贱删了-APU-的显卡驱动，进系统就黑屏，安全模式也装不了驱动，有什么办法吗？](https://www.v2ex.com/t/828059) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -575,7 +575,7 @@
 - [2022-01-13-面渣逆袭：Java并发六十问，图文详解，快来看看你会多少道！](https://toutiao.io/k/4ndh1gd) ![](assets/new.png)  
 - [2022-01-13-研读网络安全法律法规，提升技术管理者-“法”-商](https://toutiao.io/k/7ot8ks2) ![](assets/new.png)  
 - [2022-01-13-推荐-非常哇塞的-ES读场景、写场景-性能优化指南！你值得拥有！](https://toutiao.io/k/5pjb28q) ![](assets/new.png)  
-- [2022-01-13-推荐-画架构图的神器](https://toutiao.io/k/4773s9p) ![](assets/new.png)  
+- [2022-01-13-推荐-2022新年伊始，送你百篇干货文章](https://toutiao.io/k/kchudkd) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

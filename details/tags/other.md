@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-01-13 10:14:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-01-13 10:26:18。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1625,6 +1625,8 @@
 - [2022-01-07-科技爱好者周刊（第-191-期）：一个程序员的财务独立之路](http://www.ruanyifeng.com/blog/2022/01/weekly-issue-191.html) 
 - [2021-12-31-科技爱好者周刊（第-190-期）：产品化思维](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-190.html) 
 - [2021-12-24-科技爱好者周刊（第-189-期）：下一个内卷的行业](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-189.html) 
+- [2022-01-13-电信去年开通的一号双终端居然一直在收费。。。。](https://www.v2ex.com/t/828088) 
+- [2022-01-13-加群导致账号被封-7-天](https://www.v2ex.com/t/828087) 
 - [2022-01-13-对女人感到厌恶和失望](https://www.v2ex.com/t/828085) 
 - [2022-01-13-有弯弯区的-ICloud+Music-车吗](https://www.v2ex.com/t/828084) 
 - [2022-01-13-iPad-充不上电，你们能猜到原因吗？（设备充电器都没问题）](https://www.v2ex.com/t/828083) 
@@ -1654,8 +1656,6 @@
 - [2022-01-13-想入一台美版-13mini-求可以入原封无锁的渠道](https://www.v2ex.com/t/828041) 
 - [2022-01-13-大家对国内哪家量化私募毕竟较了解或者想了解的呀~](https://www.v2ex.com/t/828040) 
 - [2022-01-13-win11-默认设置改的好恶心啊](https://www.v2ex.com/t/828039) 
-- [2022-01-13-听说你手机卡太多，需要一个短信同步工具，特来送一波福利～](https://www.v2ex.com/t/828038) 
-- [2022-01-13-关于副业](https://www.v2ex.com/t/828037) 
 - [2022-01-13-如何交接复杂的遗留系统？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14895&url=https%3A%2F%2Finsights.thoughtworks.cn%2Flegacy-system-handover%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-01-13-阿里巴巴为什么能抗住90秒100亿？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14892&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247492963%26amp%3Bidx%3D1%26amp%3Bsn%3Dc055d55af2f4efdf70718c31e2b15ec9%26amp%3Bchksm%3Dfa3f0438cd488d2e2f70ee7dd5bb2751f5ec496ad010734777adaa544841a94c6f3fad2dffa0%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-01-13-常见代码重构技巧（非常实用）-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14891&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247492963%26amp%3Bidx%3D2%26amp%3Bsn%3D2ede8b39036a54cdad26ef35d74d7dcc%26amp%3Bchksm%3Dfa3f0438cd488d2ec7349ea9860d3987c3259afc12eb8a46a9569a41a3e0bc2f71ef10854d6c%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1686,10 +1686,10 @@
 - [2022-01-13-服务探活的五种方式](https://toutiao.io/k/1wuwmui) 
 - [2022-01-13-2021年终总结](https://toutiao.io/k/wuzbpv9) 
 - [2022-01-13-面渣逆袭：Java并发六十问，图文详解，快来看看你会多少道！](https://toutiao.io/k/4ndh1gd) 
-- [2022-01-13-推荐-画架构图的神器](https://toutiao.io/k/4773s9p) 
-- [2022-01-13-推荐-网络编程怎么做才算是优雅？](https://toutiao.io/k/zylzzpi) 
-- [2022-01-13-推荐-偷天换日，用-JavaAgent-欺骗你的-JVM](https://toutiao.io/k/cah22k5) 
-- [2022-01-13-推荐-再见了-VMware，一款更轻量级的虚拟机！](https://toutiao.io/k/xw2lnva) 
 - [2022-01-13-推荐-2022新年伊始，送你百篇干货文章](https://toutiao.io/k/kchudkd) 
+- [2022-01-13-推荐-画架构图的神器](https://toutiao.io/k/4773s9p) 
 - [2022-01-13-推荐-从零打造-Instagram](https://toutiao.io/k/hufqvji) 
+- [2022-01-13-推荐-偷天换日，用-JavaAgent-欺骗你的-JVM](https://toutiao.io/k/cah22k5) 
 - [2022-01-13-推荐-2021年美团技术团队最受欢迎的22篇技术文章](https://toutiao.io/k/pjse55y) 
+- [2022-01-13-推荐-再见了-VMware，一款更轻量级的虚拟机！](https://toutiao.io/k/xw2lnva) 
+- [2022-01-13-推荐-网络编程怎么做才算是优雅？](https://toutiao.io/k/zylzzpi) 

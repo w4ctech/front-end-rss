@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-13 10:46:34，:rocket: 更新条数: +1740， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-13 10:58:43，:rocket: 更新条数: +1741， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -65,15 +65,15 @@
 </summary>
 
 
-- [2022-01-13-1月12日全国新增新冠190例-四省份本土124例](https://m.caixin.com/m/2022-01-13/101829419.html) ![](assets/new.png)  
+- [2022-01-13-最新疫情：全国新冠累计确诊104379例-累计接种新冠疫苗超29.18亿剂次](https://m.caixin.com/m/2022-01-13/101829764.html) ![](assets/new.png)  
 - [2022-01-13-广东中山报告一例新冠阳性病例-入境澳门须48小时核酸阴性证明](https://m.caixin.com/m/2022-01-13/101829685.html) ![](assets/new.png)  
 - [2022-01-13-分析｜Omicron来袭，怎样让健康码不“掉链子”？](https://m.caixin.com/m/2022-01-13/101829578.html) ![](assets/new.png)  
 - [2022-01-13-西安卫健委：西安高新医院、西安国际医学中心医院停业整顿3个月](https://m.caixin.com/m/2022-01-13/101829562.html) ![](assets/new.png)  
+- [2022-01-13-最新海外疫情：新冠感染超3.15亿，累计接种新冠疫苗超95.27亿剂次](https://m.caixin.com/m/2022-01-13/101829759.html) ![](assets/new.png)  
 - [2022-01-13-【境内疫情观察】全国新增124例本土病例（1月12日）](https://database.caixin.com/m/2022-01-13/101829633.html) ![](assets/new.png)  
 - [2022-01-13-全球一周内新增1500万病例，奥密克戎由西向东蔓延丨大流行手记（1月12日）](https://m.caixin.com/m/2022-01-13/101829508.html) ![](assets/new.png)  
 - [2022-01-13-奥密克戎来袭-需戴双层口罩加强防护吗？](https://m.caixin.com/m/2022-01-13/101829461.html) ![](assets/new.png)  
 - [2022-01-13-【图集】天津市开启第二轮全员核酸检测](https://photos.caixin.com/m/2022-01-13/101829446.html) ![](assets/new.png)  
-- [2022-01-12-最新海外疫情：新冠感染超3.12亿-累计接种新冠疫苗近94.91亿剂次](https://m.caixin.com/m/2022-01-12/101829292.html) ![](assets/new.png)  
 - [2022-01-12-河南省内67趟列车因防疫需要停运](https://china.caixin.com/m/2022-01-12/101829192.html) ![](assets/new.png)  
 - [2022-01-12-【境内疫情观察】全国新增166例本土病例（1月11日）](https://database.caixin.com/m/2022-01-12/101829141.html) ![](assets/new.png)  
 - [2022-01-12-世卫称新冠疫苗成分或需更新-Omicron在美无放缓迹象｜大流行手记（1月11日）](https://m.caixin.com/m/2022-01-12/101829023.html) ![](assets/new.png)  
@@ -494,6 +494,8 @@
 </summary>
 
 
+- [2022-01-13-你认为什么是-10-倍程序员](https://www.v2ex.com/t/828096) ![](assets/new.png)  
+- [2022-01-13-从-wasm-端调用-js-的代码](https://www.v2ex.com/t/828095) ![](assets/new.png)  
 - [2022-01-13-腾讯云香港机器是否有一些网络上的限制？](https://www.v2ex.com/t/828094) ![](assets/new.png)  
 - [2022-01-13-北京-美资外企-Senior-Android/iOS-Engineer](https://www.v2ex.com/t/828092) ![](assets/new.png)  
 - [2022-01-13-QT-界面如何实现随电脑百分比放大、缩小](https://www.v2ex.com/t/828091) ![](assets/new.png)  
@@ -512,8 +514,6 @@
 - [2022-01-13-macbook-你们开发软件一般放在哪些地方？](https://www.v2ex.com/t/828072) ![](assets/new.png)  
 - [2022-01-13-老哥们帮帮我---联想-yoga-14s-5800hs-mx450-外接-lg-up850-间歇性黑屏](https://www.v2ex.com/t/828071) ![](assets/new.png)  
 - [2022-01-13-iPhone-电话进来会断网](https://www.v2ex.com/t/828070) ![](assets/new.png)  
-- [2022-01-13-FIREFOX-忽然无法打开任何网页,看贴吧还不是个例](https://www.v2ex.com/t/828069) ![](assets/new.png)  
-- [2022-01-13-Remote-Technical-Solutions-Engineer](https://www.v2ex.com/t/828068) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -575,7 +575,7 @@
 - [2022-01-13-面渣逆袭：Java并发六十问，图文详解，快来看看你会多少道！](https://toutiao.io/k/4ndh1gd) ![](assets/new.png)  
 - [2022-01-13-研读网络安全法律法规，提升技术管理者-“法”-商](https://toutiao.io/k/7ot8ks2) ![](assets/new.png)  
 - [2022-01-13-推荐-网络编程怎么做才算是优雅？](https://toutiao.io/k/zylzzpi) ![](assets/new.png)  
-- [2022-01-13-推荐-偷天换日，用-JavaAgent-欺骗你的-JVM](https://toutiao.io/k/cah22k5) ![](assets/new.png)  
+- [2022-01-13-推荐-2021年美团技术团队最受欢迎的22篇技术文章](https://toutiao.io/k/pjse55y) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

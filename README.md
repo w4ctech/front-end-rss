@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-13 02:07:17，:rocket: 更新条数: +1732， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-13 02:21:12，:rocket: 更新条数: +1732， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,10 @@
 </summary>
 
 
+- [2022-01-13-15.2.1-正式版更新推送了](https://www.v2ex.com/t/827955) ![](assets/new.png)  
+- [2022-01-13-xdm-你们平常都怎么鼓捣-notion-的?有什么花活推荐下吗?我想参考下,我把这玩意用成在线编辑器器了=.=](https://www.v2ex.com/t/827954) ![](assets/new.png)  
+- [2022-01-13-Youtube-Safari-网页版-鼠标悬停可以小窗播放了](https://www.v2ex.com/t/827953) ![](assets/new.png)  
+- [2022-01-13-safari-上那款去广告插件比较好？现在用的-abp](https://www.v2ex.com/t/827950) ![](assets/new.png)  
 - [2022-01-13-独立开发，小有收获](https://www.v2ex.com/t/827946) ![](assets/new.png)  
 - [2022-01-13-安卓手机插到电脑狂闪-usb-选项,-如何解决?](https://www.v2ex.com/t/827945) ![](assets/new.png)  
 - [2022-01-13-问问大家-windowsServer-多少内存正常](https://www.v2ex.com/t/827941) ![](assets/new.png)  
@@ -510,10 +514,6 @@
 - [2022-01-12-有潮汕人吗？这里集合集合](https://www.v2ex.com/t/827928) ![](assets/new.png)  
 - [2022-01-12-看了各位吐槽-Mac-的帖子，真的弱爆了](https://www.v2ex.com/t/827927) ![](assets/new.png)  
 - [2022-01-12-2022-年了-我的-dlc-呢？](https://www.v2ex.com/t/827926) ![](assets/new.png)  
-- [2022-01-12-大哥们，我在-Esxi-上装了-ubuntu，怎么在-ubuntu-上用鼠标的侧键呢？](https://www.v2ex.com/t/827925) ![](assets/new.png)  
-- [2022-01-12-罗技-MX-Master3-和妙控板，你更推荐哪一个？](https://www.v2ex.com/t/827923) ![](assets/new.png)  
-- [2022-01-12-为什么安卓阵营都抛弃了弹出式摄像头](https://www.v2ex.com/t/827922) ![](assets/new.png)  
-- [2022-01-12-笔记本电池鼓包是苹果的专利还是普遍存在的问题？](https://www.v2ex.com/t/827921) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -566,16 +566,16 @@
 - [2022-01-13-客户的一个紧急bug，我用了两种方式进行-C#-反编译修改源码](https://toutiao.io/k/qnt08dw) ![](assets/new.png)  
 - [2022-01-13-图像处理技术（二）滤波去噪](https://toutiao.io/k/5t3b51w) ![](assets/new.png)  
 - [2022-01-13-【Rust日报】2022-1-11-Rust-in-2022](https://toutiao.io/k/6umno4w) ![](assets/new.png)  
+- [2022-01-13-卷起来了！Android-OpenGL仿自如APP裸眼3D效果](https://toutiao.io/k/usou4ga) ![](assets/new.png)  
 - [2022-01-13-HTTP协议细节，你学会了吗？](https://toutiao.io/k/cl67iv3) ![](assets/new.png)  
 - [2022-01-13-从“智能湖仓”升级看数据平台架构未来方向](https://toutiao.io/k/pmor3km) ![](assets/new.png)  
-- [2022-01-13-SEE-Conf:-Umi-4-设计思路文字稿](https://toutiao.io/k/9cb6mv8) ![](assets/new.png)  
 - [2022-01-13-围剿慢SQL，工行MySQL研发管控和治理实践（附PPT）](https://toutiao.io/k/wf80qvd) ![](assets/new.png)  
-- [2022-01-13-卷起来了！Android-OpenGL仿自如APP裸眼3D效果](https://toutiao.io/k/usou4ga) ![](assets/new.png)  
-- [2022-01-13-推荐-缓存一致性最佳实践](https://toutiao.io/k/ymscqc1) ![](assets/new.png)  
-- [2022-01-13-推荐-2021年美团技术团队最受欢迎的22篇技术文章](https://toutiao.io/k/pjse55y) ![](assets/new.png)  
-- [2022-01-13-推荐-2022新年伊始，送你百篇干货文章](https://toutiao.io/k/kchudkd) ![](assets/new.png)  
+- [2022-01-13-SEE-Conf:-Umi-4-设计思路文字稿](https://toutiao.io/k/9cb6mv8) ![](assets/new.png)  
+- [2022-01-13-推荐-偷天换日，用-JavaAgent-欺骗你的-JVM](https://toutiao.io/k/cah22k5) ![](assets/new.png)  
 - [2022-01-13-推荐-从零打造-Instagram](https://toutiao.io/k/hufqvji) ![](assets/new.png)  
-- [2022-01-13-推荐-再见了-VMware，一款更轻量级的虚拟机！](https://toutiao.io/k/xw2lnva) ![](assets/new.png)  
+- [2022-01-13-推荐-画架构图的神器](https://toutiao.io/k/4773s9p) ![](assets/new.png)  
+- [2022-01-13-推荐-2021年美团技术团队最受欢迎的22篇技术文章](https://toutiao.io/k/pjse55y) ![](assets/new.png)  
+- [2022-01-13-推荐-非常哇塞的-ES读场景、写场景-性能优化指南！你值得拥有！](https://toutiao.io/k/5pjb28q) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

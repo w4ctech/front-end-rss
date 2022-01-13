@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-13 00:44:00，:rocket: 更新条数: +1730， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-13 01:15:57，:rocket: 更新条数: +1728， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -65,7 +65,7 @@
 </summary>
 
 
-- [2022-01-12-最新疫情：全国新冠累计确诊104189例-累计接种新冠疫苗超29.12亿剂次](https://m.caixin.com/m/2022-01-12/101829288.html) ![](assets/new.png)  
+- [2022-01-13-1月12日全国新增新冠190例-四省份本土124例](https://m.caixin.com/m/2022-01-13/101829419.html) ![](assets/new.png)  
 - [2022-01-12-河南省内67趟列车因防疫需要停运](https://china.caixin.com/m/2022-01-12/101829192.html) ![](assets/new.png)  
 - [2022-01-12-最新海外疫情：新冠感染超3.12亿-累计接种新冠疫苗近94.91亿剂次](https://m.caixin.com/m/2022-01-12/101829292.html) ![](assets/new.png)  
 - [2022-01-12-【境内疫情观察】全国新增166例本土病例（1月11日）](https://database.caixin.com/m/2022-01-12/101829141.html) ![](assets/new.png)  
@@ -494,6 +494,8 @@
 </summary>
 
 
+- [2022-01-13-求一波摸鱼网站，中英文都可。](https://www.v2ex.com/t/827938) ![](assets/new.png)  
+- [2022-01-13-我正在翻译树莓派引脚定义导航网站-pinout.xyz](https://www.v2ex.com/t/827936) ![](assets/new.png)  
 - [2022-01-13-凌晨四点-海棠花未眠](https://www.v2ex.com/t/827935) ![](assets/new.png)  
 - [2022-01-12-闲置笔记本改造成服务器](https://www.v2ex.com/t/827934) ![](assets/new.png)  
 - [2022-01-12-Plug2Proxy：服务器专用，由流量出口服务器主动连接入口服务器的代理工具](https://www.v2ex.com/t/827933) ![](assets/new.png)  
@@ -512,8 +514,6 @@
 - [2022-01-12-知乎的前端-er-请进来看一下](https://www.v2ex.com/t/827919) ![](assets/new.png)  
 - [2022-01-12-Rust-搜索半年总结](https://www.v2ex.com/t/827918) ![](assets/new.png)  
 - [2022-01-12-家庭网络布线求解](https://www.v2ex.com/t/827917) ![](assets/new.png)  
-- [2022-01-12-夸克这广告实在是太-low-了吧.](https://www.v2ex.com/t/827916) ![](assets/new.png)  
-- [2022-01-12-开发-sdk-的问题](https://www.v2ex.com/t/827915) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -556,25 +556,24 @@
 </summary>
 
 
-- [2022-01-13-猫咪招财喜庆铃铛项圈，点击链接立即领取10元红包礼券！](https://toutiao.io/k/doqqn4l) ![](assets/new.png)  
 - [2022-01-13-颠覆Kafka的统治，新一代云原生消息系统Pulsar震撼来袭！](https://toutiao.io/k/zfkdb6h) ![](assets/new.png)  
-- [2022-01-13-Go-模糊测试](https://toutiao.io/k/kul5ja2) ![](assets/new.png)  
-- [2022-01-13-汤楚熙：美团实时数仓架构演进与建设实践](https://toutiao.io/k/8ky7vrp) ![](assets/new.png)  
 - [2022-01-13-平台化建设思路浅谈-|-木小丰的博客](https://toutiao.io/k/gyrx2g8) ![](assets/new.png)  
+- [2022-01-13-猫咪招财喜庆铃铛项圈，点击链接立即领取10元红包礼券！](https://toutiao.io/k/kln056s) ![](assets/new.png)  
+- [2022-01-13-汤楚熙：美团实时数仓架构演进与建设实践](https://toutiao.io/k/8ky7vrp) ![](assets/new.png)  
+- [2022-01-13-Go-模糊测试](https://toutiao.io/k/kul5ja2) ![](assets/new.png)  
 - [2022-01-13-Web-多线程开发利器-Comlink-的剖析与思考](https://toutiao.io/k/zucz9xa) ![](assets/new.png)  
-- [2022-01-13-【Rust日报】2022-1-11-Rust-in-2022](https://toutiao.io/k/6umno4w) ![](assets/new.png)  
+- [2022-01-13-UGUI源码一6千字带你入门UGUI源码](https://toutiao.io/k/u2du3ue) ![](assets/new.png)  
 - [2022-01-13-客户的一个紧急bug，我用了两种方式进行-C#-反编译修改源码](https://toutiao.io/k/qnt08dw) ![](assets/new.png)  
 - [2022-01-13-图像处理技术（二）滤波去噪](https://toutiao.io/k/5t3b51w) ![](assets/new.png)  
-- [2022-01-13-UGUI源码一6千字带你入门UGUI源码](https://toutiao.io/k/u2du3ue) ![](assets/new.png)  
-- [2022-01-13-推荐-画架构图的神器](https://toutiao.io/k/4773s9p) ![](assets/new.png)  
+- [2022-01-13-推荐-再见了-VMware，一款更轻量级的虚拟机！](https://toutiao.io/k/xw2lnva) ![](assets/new.png)  
 - [2022-01-13-推荐-非常哇塞的-ES读场景、写场景-性能优化指南！你值得拥有！](https://toutiao.io/k/5pjb28q) ![](assets/new.png)  
+- [2022-01-13-推荐-2021年美团技术团队最受欢迎的22篇技术文章](https://toutiao.io/k/pjse55y) ![](assets/new.png)  
+- [2022-01-13-推荐-缓存一致性最佳实践](https://toutiao.io/k/ymscqc1) ![](assets/new.png)  
 - [2022-01-13-推荐-偷天换日，用-JavaAgent-欺骗你的-JVM](https://toutiao.io/k/cah22k5) ![](assets/new.png)  
 - [2022-01-13-推荐-从零打造-Instagram](https://toutiao.io/k/hufqvji) ![](assets/new.png)  
-- [2022-01-13-推荐-再见了-VMware，一款更轻量级的虚拟机！](https://toutiao.io/k/xw2lnva) ![](assets/new.png)  
-- [2022-01-13-推荐-2021年美团技术团队最受欢迎的22篇技术文章](https://toutiao.io/k/pjse55y) ![](assets/new.png)  
-- [2022-01-13-推荐-2022新年伊始，送你百篇干货文章](https://toutiao.io/k/kchudkd) ![](assets/new.png)  
-- [2022-01-13-推荐-缓存一致性最佳实践](https://toutiao.io/k/ymscqc1) ![](assets/new.png)  
 - [2022-01-13-推荐-网络编程怎么做才算是优雅？](https://toutiao.io/k/zylzzpi) ![](assets/new.png)  
+- [2022-01-13-推荐-画架构图的神器](https://toutiao.io/k/4773s9p) ![](assets/new.png)  
+- [2022-01-13-推荐-2022新年伊始，送你百篇干货文章](https://toutiao.io/k/kchudkd) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

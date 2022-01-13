@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-01-13 15:48:52。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-01-13 16:19:11。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -23,4 +23,3 @@
 - [2022-01-13-求系统鼠标平滑滚动实现思路](https://www.v2ex.com/t/828116) 
 - [2022-01-13-有好用背英文的组件吗？不用点进-app,直接可以在桌面看](https://www.v2ex.com/t/828103) 
 - [2022-01-13-从-wasm-端调用-js-的代码](https://www.v2ex.com/t/828095) 
-- [2022-01-13-天天讲路由，那-Linux-路由到底咋实现的！？](https://toutiao.io/k/qbm42xm) 

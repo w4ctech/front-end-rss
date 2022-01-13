@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2022-01-13 04:52:55。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-01-13 05:02:50。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-01-13-Quarkus/Arc-这么简洁又高效的编译时依赖注入怎么做到的？](https://www.v2ex.com/t/827990) 
 - [2022-01-13-给大家讲一个关于-MacBook-维修陷入死循环的故事吧](https://www.v2ex.com/t/827988) 
 - [2022-01-13-老哥们，-0-基础想做个-vue-后台最快多久](https://www.v2ex.com/t/827987) 
 - [2022-01-13-edge-不知道为啥收藏夹全没了，求救](https://www.v2ex.com/t/827986) 

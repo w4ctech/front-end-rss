@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-01-13 04:52:55。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-01-13 05:02:50。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1621,6 +1621,7 @@
 - [2022-01-07-科技爱好者周刊（第-191-期）：一个程序员的财务独立之路](http://www.ruanyifeng.com/blog/2022/01/weekly-issue-191.html) 
 - [2021-12-31-科技爱好者周刊（第-190-期）：产品化思维](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-190.html) 
 - [2021-12-24-科技爱好者周刊（第-189-期）：下一个内卷的行业](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-189.html) 
+- [2022-01-13-Quarkus/Arc-这么简洁又高效的编译时依赖注入怎么做到的？](https://www.v2ex.com/t/827990) 
 - [2022-01-13-给大家讲一个关于-MacBook-维修陷入死循环的故事吧](https://www.v2ex.com/t/827988) 
 - [2022-01-13-求推荐一款超薄手机,-双卡,-能开-wifi-热点,-不是智能机最好](https://www.v2ex.com/t/827985) 
 - [2022-01-13-微信一个月用了-18G-流量。有什么办法避免么](https://www.v2ex.com/t/827982) 
@@ -1670,10 +1671,10 @@
 - [2022-01-13-客户的一个紧急bug，我用了两种方式进行-C#-反编译修改源码](https://toutiao.io/k/qnt08dw) 
 - [2022-01-13-围剿慢SQL，工行MySQL研发管控和治理实践（附PPT）](https://toutiao.io/k/wf80qvd) 
 - [2022-01-13-SEE-Conf:-Umi-4-设计思路文字稿](https://toutiao.io/k/9cb6mv8) 
-- [2022-01-13-推荐-画架构图的神器](https://toutiao.io/k/4773s9p) 
-- [2022-01-13-推荐-2022新年伊始，送你百篇干货文章](https://toutiao.io/k/kchudkd) 
-- [2022-01-13-推荐-再见了-VMware，一款更轻量级的虚拟机！](https://toutiao.io/k/xw2lnva) 
-- [2022-01-13-推荐-网络编程怎么做才算是优雅？](https://toutiao.io/k/zylzzpi) 
 - [2022-01-13-推荐-偷天换日，用-JavaAgent-欺骗你的-JVM](https://toutiao.io/k/cah22k5) 
 - [2022-01-13-推荐-2021年美团技术团队最受欢迎的22篇技术文章](https://toutiao.io/k/pjse55y) 
+- [2022-01-13-推荐-2022新年伊始，送你百篇干货文章](https://toutiao.io/k/kchudkd) 
+- [2022-01-13-推荐-画架构图的神器](https://toutiao.io/k/4773s9p) 
+- [2022-01-13-推荐-再见了-VMware，一款更轻量级的虚拟机！](https://toutiao.io/k/xw2lnva) 
+- [2022-01-13-推荐-网络编程怎么做才算是优雅？](https://toutiao.io/k/zylzzpi) 
 - [2022-01-13-推荐-从零打造-Instagram](https://toutiao.io/k/hufqvji) 

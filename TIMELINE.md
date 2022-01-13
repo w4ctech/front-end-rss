@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-01-13 14:42:42。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-01-13 14:54:45。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -70,14 +70,15 @@
 
 - [【武汉肺炎防疫全纪录(财新网)】2022-01-13-最新疫情：全国新冠累计确诊104379例-累计接种新冠疫苗超29.18亿剂次](https://m.caixin.com/m/2022-01-13/101829764.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2022-01-13-上海新增2例确诊和3例无症状-均为境外输入关联病例](https://m.caixin.com/m/2022-01-13/101829820.html) 
+- [【武汉肺炎防疫全纪录(财新网)】2022-01-13-记者手记｜在香港，核酸检测不是“捅”鼻子](https://companies.caixin.com/m/2022-01-13/101829852.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2022-01-13-广东中山报告一例新冠阳性病例-入境澳门须48小时核酸阴性证明](https://m.caixin.com/m/2022-01-13/101829685.html) 
-- [【武汉肺炎防疫全纪录(财新网)】2022-01-13-新年后182个国际航班被熔断-中美航线再次面临断航之忧](https://companies.caixin.com/m/2022-01-13/101829816.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2022-01-13-最新海外疫情：新冠感染超3.15亿，累计接种新冠疫苗超95.27亿剂次](https://m.caixin.com/m/2022-01-13/101829759.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2022-01-13-西安卫健委：西安高新医院、西安国际医学中心医院停业整顿3个月](https://m.caixin.com/m/2022-01-13/101829562.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2022-01-13-【境内疫情观察】全国新增124例本土病例（1月12日）](https://database.caixin.com/m/2022-01-13/101829633.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2022-01-13-全球一周内新增1500万病例，奥密克戎由西向东蔓延丨大流行手记（1月12日）](https://m.caixin.com/m/2022-01-13/101829508.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2022-01-13-分析｜Omicron来袭，怎样让健康码不“掉链子”？](https://m.caixin.com/m/2022-01-13/101829578.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2022-01-13-奥密克戎来袭-需戴双层口罩加强防护吗？](https://m.caixin.com/m/2022-01-13/101829461.html) 
+- [【武汉肺炎防疫全纪录(财新网)】2022-01-13-新年后182个国际航班被熔断-中美航线再次面临断航之忧](https://companies.caixin.com/m/2022-01-13/101829816.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2022-01-13-约翰逊承认违反防疫规定参加酒会-保守党内逼宫呼声不断](https://international.caixin.com/m/2022-01-13/101829834.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2022-01-13-【图集】天津市开启第二轮全员核酸检测](https://photos.caixin.com/m/2022-01-13/101829446.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2022-01-12-河南省内67趟列车因防疫需要停运](https://china.caixin.com/m/2022-01-12/101829192.html) 
@@ -153,6 +154,10 @@
 - [【武汉肺炎防疫全纪录(财新网)】2022-01-01-英国重启临时医院，多国医疗系统承压｜大流行手记（12月31日）](https://m.caixin.com/m/2022-01-01/101824902.html) 
 - [【张鑫旭-鑫空间-鑫生活】2022-01-11-还有完没完，怎么又来了个-scrollbar-gutter？](https://www.zhangxinxu.com/wordpress/2022/01/css-scrollbar-gutter/) 
 - [【阮一峰的网络日志】2022-01-07-科技爱好者周刊（第-191-期）：一个程序员的财务独立之路](http://www.ruanyifeng.com/blog/2022/01/weekly-issue-191.html) 
+- [【V2EX】2022-01-13-三节五号电池的体重秤-改装无线充电方式，用-5w-的无线充发射接收模块，会有影响么？](https://www.v2ex.com/t/828130) 
+- [【V2EX】2022-01-13-如何理解分布式和集群的区别？](https://www.v2ex.com/t/828129) 
+- [【V2EX】2022-01-13-HomePod-mini-播放逻辑实在搞不明白](https://www.v2ex.com/t/828128) 
+- [【V2EX】2022-01-13-安装-nginx_upstream_check_module-模块后检查生效但是轮询失败了？](https://www.v2ex.com/t/828126) 
 - [【V2EX】2022-01-13-分享下我的独立开发日记-04](https://www.v2ex.com/t/828124) 
 - [【V2EX】2022-01-13-QT-界面，如何实现随电脑百分比放大，自动缩放](https://www.v2ex.com/t/828123) 
 - [【V2EX】2022-01-13-一线城市的土著在找对象时会要求门当户对吗？](https://www.v2ex.com/t/828122) 
@@ -185,8 +190,6 @@
 - [【V2EX】2022-01-13-iPad-充不上电，你们能猜到原因吗？（设备充电器都没问题）](https://www.v2ex.com/t/828083) 
 - [【V2EX】2022-01-13-关于副业，分享几个自己的观点](https://www.v2ex.com/t/828082) 
 - [【V2EX】2022-01-13-房东直租-清河君安家园东区](https://www.v2ex.com/t/828081) 
-- [【V2EX】2022-01-13-「北京」OK-Group-,-区块链头部公司，大量-HC，分布式办公，来这里找回你生命的自由！](https://www.v2ex.com/t/828080) 
-- [【V2EX】2022-01-13-求推荐-13-Pro-的磁吸手机壳](https://www.v2ex.com/t/828079) 
 - [【技术头条】2022-01-13-如何交接复杂的遗留系统？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14895&url=https%3A%2F%2Finsights.thoughtworks.cn%2Flegacy-system-handover%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-01-13-还在为-Flutter-图表控件发愁么？不妨试试这个-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14894&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F4OKaKf43Y6dSYajaCHnehw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-01-13-用Python做一个游戏辅助脚本！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14893&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247492993%26amp%3Bidx%3D2%26amp%3Bsn%3D67230660b390f06f5584792da10b1078%26amp%3Bchksm%3Dfa3f04dacd488dccec0f68b1534821b98dde1730e4970ca0629239bd3275199e72af4b3c8771%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -225,15 +228,15 @@
 - [【开发者头条】2022-01-13-2021年终总结](https://toutiao.io/k/wuzbpv9) 
 - [【开发者头条】2022-01-13-SEE-Conf:-Umi-4-设计思路文字稿](https://toutiao.io/k/9cb6mv8) 
 - [【开发者头条】2022-01-13-研读网络安全法律法规，提升技术管理者-“法”-商](https://toutiao.io/k/7ot8ks2) 
+- [【开发者头条】2022-01-13-推荐-网络编程怎么做才算是优雅？](https://toutiao.io/k/zylzzpi) 
 - [【开发者头条】2022-01-13-推荐-非常哇塞的-ES读场景、写场景-性能优化指南！你值得拥有！](https://toutiao.io/k/5pjb28q) 
 - [【开发者头条】2022-01-13-推荐-画架构图的神器](https://toutiao.io/k/4773s9p) 
-- [【开发者头条】2022-01-13-推荐-再见了-VMware，一款更轻量级的虚拟机！](https://toutiao.io/k/xw2lnva) 
-- [【开发者头条】2022-01-13-推荐-缓存一致性最佳实践](https://toutiao.io/k/ymscqc1) 
 - [【开发者头条】2022-01-13-推荐-2021年美团技术团队最受欢迎的22篇技术文章](https://toutiao.io/k/pjse55y) 
-- [【开发者头条】2022-01-13-推荐-2022新年伊始，送你百篇干货文章](https://toutiao.io/k/kchudkd) 
 - [【开发者头条】2022-01-13-推荐-从零打造-Instagram](https://toutiao.io/k/hufqvji) 
-- [【开发者头条】2022-01-13-推荐-网络编程怎么做才算是优雅？](https://toutiao.io/k/zylzzpi) 
+- [【开发者头条】2022-01-13-推荐-缓存一致性最佳实践](https://toutiao.io/k/ymscqc1) 
+- [【开发者头条】2022-01-13-推荐-2022新年伊始，送你百篇干货文章](https://toutiao.io/k/kchudkd) 
 - [【开发者头条】2022-01-13-推荐-偷天换日，用-JavaAgent-欺骗你的-JVM](https://toutiao.io/k/cah22k5) 
+- [【开发者头条】2022-01-13-推荐-再见了-VMware，一款更轻量级的虚拟机！](https://toutiao.io/k/xw2lnva) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

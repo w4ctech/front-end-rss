@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-13 14:42:42，:rocket: 更新条数: +1740， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-13 14:54:45，:rocket: 更新条数: +1743， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -67,14 +67,15 @@
 
 - [2022-01-13-最新疫情：全国新冠累计确诊104379例-累计接种新冠疫苗超29.18亿剂次](https://m.caixin.com/m/2022-01-13/101829764.html) ![](assets/new.png)  
 - [2022-01-13-上海新增2例确诊和3例无症状-均为境外输入关联病例](https://m.caixin.com/m/2022-01-13/101829820.html) ![](assets/new.png)  
+- [2022-01-13-记者手记｜在香港，核酸检测不是“捅”鼻子](https://companies.caixin.com/m/2022-01-13/101829852.html) ![](assets/new.png)  
 - [2022-01-13-广东中山报告一例新冠阳性病例-入境澳门须48小时核酸阴性证明](https://m.caixin.com/m/2022-01-13/101829685.html) ![](assets/new.png)  
-- [2022-01-13-新年后182个国际航班被熔断-中美航线再次面临断航之忧](https://companies.caixin.com/m/2022-01-13/101829816.html) ![](assets/new.png)  
 - [2022-01-13-最新海外疫情：新冠感染超3.15亿，累计接种新冠疫苗超95.27亿剂次](https://m.caixin.com/m/2022-01-13/101829759.html) ![](assets/new.png)  
 - [2022-01-13-西安卫健委：西安高新医院、西安国际医学中心医院停业整顿3个月](https://m.caixin.com/m/2022-01-13/101829562.html) ![](assets/new.png)  
 - [2022-01-13-【境内疫情观察】全国新增124例本土病例（1月12日）](https://database.caixin.com/m/2022-01-13/101829633.html) ![](assets/new.png)  
 - [2022-01-13-全球一周内新增1500万病例，奥密克戎由西向东蔓延丨大流行手记（1月12日）](https://m.caixin.com/m/2022-01-13/101829508.html) ![](assets/new.png)  
 - [2022-01-13-分析｜Omicron来袭，怎样让健康码不“掉链子”？](https://m.caixin.com/m/2022-01-13/101829578.html) ![](assets/new.png)  
 - [2022-01-13-奥密克戎来袭-需戴双层口罩加强防护吗？](https://m.caixin.com/m/2022-01-13/101829461.html) ![](assets/new.png)  
+- [2022-01-13-新年后182个国际航班被熔断-中美航线再次面临断航之忧](https://companies.caixin.com/m/2022-01-13/101829816.html) ![](assets/new.png)  
 - [2022-01-13-约翰逊承认违反防疫规定参加酒会-保守党内逼宫呼声不断](https://international.caixin.com/m/2022-01-13/101829834.html) ![](assets/new.png)  
 - [2022-01-13-【图集】天津市开启第二轮全员核酸检测](https://photos.caixin.com/m/2022-01-13/101829446.html) ![](assets/new.png)  
 - [2022-01-12-河南省内67趟列车因防疫需要停运](https://china.caixin.com/m/2022-01-12/101829192.html) ![](assets/new.png)  
@@ -84,7 +85,6 @@
 - [2022-01-11-天津省际班线全部暂停-机场97%航班被取消](https://companies.caixin.com/m/2022-01-11/101828896.html) ![](assets/new.png)  
 - [2022-01-11-天津累计报告感染者97例-已出现家庭聚集传播6起](https://m.caixin.com/m/2022-01-11/101828766.html) ![](assets/new.png)  
 - [2022-01-11-香港本地疫情蔓延-幼儿园小学再全面“停课”](https://m.caixin.com/m/2022-01-11/101828627.html) ![](assets/new.png)  
-- [2022-01-11-疫情病例增至8例-深圳疾控建议勿购买境外高风险地区商品](https://m.caixin.com/m/2022-01-11/101828583.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -494,6 +494,10 @@
 </summary>
 
 
+- [2022-01-13-三节五号电池的体重秤-改装无线充电方式，用-5w-的无线充发射接收模块，会有影响么？](https://www.v2ex.com/t/828130) ![](assets/new.png)  
+- [2022-01-13-如何理解分布式和集群的区别？](https://www.v2ex.com/t/828129) ![](assets/new.png)  
+- [2022-01-13-HomePod-mini-播放逻辑实在搞不明白](https://www.v2ex.com/t/828128) ![](assets/new.png)  
+- [2022-01-13-安装-nginx_upstream_check_module-模块后检查生效但是轮询失败了？](https://www.v2ex.com/t/828126) ![](assets/new.png)  
 - [2022-01-13-分享下我的独立开发日记-04](https://www.v2ex.com/t/828124) ![](assets/new.png)  
 - [2022-01-13-QT-界面，如何实现随电脑百分比放大，自动缩放](https://www.v2ex.com/t/828123) ![](assets/new.png)  
 - [2022-01-13-一线城市的土著在找对象时会要求门当户对吗？](https://www.v2ex.com/t/828122) ![](assets/new.png)  
@@ -510,10 +514,6 @@
 - [2022-01-13-为什么如今年味越来越淡了](https://www.v2ex.com/t/828108) ![](assets/new.png)  
 - [2022-01-13-转载-三大系统、数百产品捧场-龙芯-LoongArch-自主指令集免费开放](https://www.v2ex.com/t/828107) ![](assets/new.png)  
 - [2022-01-13-使用-Tin-快安装-Redmine](https://www.v2ex.com/t/828104) ![](assets/new.png)  
-- [2022-01-13-有好用背英文的组件吗？不用点进-app,直接可以在桌面看](https://www.v2ex.com/t/828103) ![](assets/new.png)  
-- [2022-01-13-新电脑到了，刘海屏完全不影响](https://www.v2ex.com/t/828101) ![](assets/new.png)  
-- [2022-01-13-在-Mac-上面运行-windows-虚拟机，再运行-hdtune-pro-能检测硬盘健康吗](https://www.v2ex.com/t/828100) ![](assets/new.png)  
-- [2022-01-13-使用-Tin-快速安装-phpBB，一个搭建你自己的论坛的教程](https://www.v2ex.com/t/828098) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -574,8 +574,8 @@
 - [2022-01-13-2021年终总结](https://toutiao.io/k/wuzbpv9) ![](assets/new.png)  
 - [2022-01-13-SEE-Conf:-Umi-4-设计思路文字稿](https://toutiao.io/k/9cb6mv8) ![](assets/new.png)  
 - [2022-01-13-研读网络安全法律法规，提升技术管理者-“法”-商](https://toutiao.io/k/7ot8ks2) ![](assets/new.png)  
+- [2022-01-13-推荐-网络编程怎么做才算是优雅？](https://toutiao.io/k/zylzzpi) ![](assets/new.png)  
 - [2022-01-13-推荐-非常哇塞的-ES读场景、写场景-性能优化指南！你值得拥有！](https://toutiao.io/k/5pjb28q) ![](assets/new.png)  
-- [2022-01-13-推荐-画架构图的神器](https://toutiao.io/k/4773s9p) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

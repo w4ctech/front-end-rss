@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-13 06:27:51，:rocket: 更新条数: +1738， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-13 06:48:24，:rocket: 更新条数: +1738， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,8 @@
 </summary>
 
 
+- [2022-01-13-石像鬼固件跑不了-300M-宽带怎么办](https://www.v2ex.com/t/828014) ![](assets/new.png)  
+- [2022-01-13-React-项目](https://www.v2ex.com/t/828012) ![](assets/new.png)  
 - [2022-01-13-Windows-备份有什么好的方案吗](https://www.v2ex.com/t/828011) ![](assets/new.png)  
 - [2022-01-13-想找个免费的文件托管平台用来提供-apk-下载](https://www.v2ex.com/t/828009) ![](assets/new.png)  
 - [2022-01-13-Google-搜索为何会出现-proxy-结果的-gov.cn-的链接？](https://www.v2ex.com/t/828008) ![](assets/new.png)  
@@ -512,8 +514,6 @@
 - [2022-01-13-公司的团建聚会吃饭，你们会带上女朋友/老婆一起去吗？](https://www.v2ex.com/t/827991) ![](assets/new.png)  
 - [2022-01-13-Quarkus/Arc-这么简洁又高效的编译时依赖注入怎么做到的？](https://www.v2ex.com/t/827990) ![](assets/new.png)  
 - [2022-01-13-给大家讲一个关于-MacBook-维修陷入死循环的故事吧](https://www.v2ex.com/t/827988) ![](assets/new.png)  
-- [2022-01-13-老哥们，-0-基础想做个-vue-后台最快多久](https://www.v2ex.com/t/827987) ![](assets/new.png)  
-- [2022-01-13-edge-不知道为啥收藏夹全没了，求救](https://www.v2ex.com/t/827986) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -525,6 +525,7 @@
 </summary>
 
 
+- [2022-01-13-如何交接复杂的遗留系统？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14895&url=https%3A%2F%2Finsights.thoughtworks.cn%2Flegacy-system-handover%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-01-13-还在为-Flutter-图表控件发愁么？不妨试试这个-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14894&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F4OKaKf43Y6dSYajaCHnehw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-01-13-用Python做一个游戏辅助脚本！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14893&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247492993%26amp%3Bidx%3D2%26amp%3Bsn%3D67230660b390f06f5584792da10b1078%26amp%3Bchksm%3Dfa3f04dacd488dccec0f68b1534821b98dde1730e4970ca0629239bd3275199e72af4b3c8771%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-01-13-阿里巴巴为什么能抗住90秒100亿？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14892&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247492963%26amp%3Bidx%3D1%26amp%3Bsn%3Dc055d55af2f4efdf70718c31e2b15ec9%26amp%3Bchksm%3Dfa3f0438cd488d2e2f70ee7dd5bb2751f5ec496ad010734777adaa544841a94c6f3fad2dffa0%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
@@ -544,7 +545,6 @@
 - [2022-01-13-一漂亮妹子的美团面经，4轮2小时，成功拿到Offer-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14878&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247492809%26amp%3Bidx%3D1%26amp%3Bsn%3D7e76004e09c77e34b0bb6f66eb503968%26amp%3Bchksm%3Dfa3f0592cd488c84eb8d73a04cf173ef6648e52fa3db73026f4927e4bdd7b0bed671993aa3dc%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-01-13-我曾目睹的微服务灾难-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14877&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247492809%26amp%3Bidx%3D2%26amp%3Bsn%3Daac037bab3b5d609c64d16f7d8f4eb46%26amp%3Bchksm%3Dfa3f0592cd488c8489679a58cba66b4d7c686d8a3f927de1395e90451ca7655b6e97062fa2f4%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-01-13-一个目录，居然干了10000+字！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14876&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247492773%26amp%3Bidx%3D1%26amp%3Bsn%3D6947676808d5b128dd1c5b78e6d9db42%26amp%3Bchksm%3Dfa3f05fecd488ce89901d56750a83ba8dc404d9d5bfab6dd77d87b6bed77076b985d9ab85241%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-01-13-Edge浏览器新版来袭，Office功能首次出现！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14875&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247492773%26amp%3Bidx%3D2%26amp%3Bsn%3Dfd45f9b8476a5485c3ca08a78fa816b1%26amp%3Bchksm%3Dfa3f05fecd488ce8519c007b2c4e5ddeb170b0300433ab69ec7f693d8744ec5c0bb4469cea07%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -569,12 +569,12 @@
 - [2022-01-13-HTTP协议细节，你学会了吗？](https://toutiao.io/k/cl67iv3) ![](assets/new.png)  
 - [2022-01-13-SEE-Conf:-Umi-4-设计思路文字稿](https://toutiao.io/k/9cb6mv8) ![](assets/new.png)  
 - [2022-01-13-热点和秒杀来临前要做的5件事](https://toutiao.io/k/p3o2q3g) ![](assets/new.png)  
-- [2022-01-13-面渣逆袭：Java并发六十问，图文详解，快来看看你会多少道！](https://toutiao.io/k/4ndh1gd) ![](assets/new.png)  
 - [2022-01-13-2021年终总结](https://toutiao.io/k/wuzbpv9) ![](assets/new.png)  
+- [2022-01-13-面渣逆袭：Java并发六十问，图文详解，快来看看你会多少道！](https://toutiao.io/k/4ndh1gd) ![](assets/new.png)  
 - [2022-01-13-天天讲路由，那-Linux-路由到底咋实现的！？](https://toutiao.io/k/qbm42xm) ![](assets/new.png)  
 - [2022-01-13-研读网络安全法律法规，提升技术管理者-“法”-商](https://toutiao.io/k/7ot8ks2) ![](assets/new.png)  
 - [2022-01-13-服务探活的五种方式](https://toutiao.io/k/1wuwmui) ![](assets/new.png)  
-- [2022-01-13-推荐-偷天换日，用-JavaAgent-欺骗你的-JVM](https://toutiao.io/k/cah22k5) ![](assets/new.png)  
+- [2022-01-13-推荐-非常哇塞的-ES读场景、写场景-性能优化指南！你值得拥有！](https://toutiao.io/k/5pjb28q) ![](assets/new.png)  
 - [2022-01-13-推荐-画架构图的神器](https://toutiao.io/k/4773s9p) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

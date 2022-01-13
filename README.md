@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-13 02:21:12，:rocket: 更新条数: +1732， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-13 02:56:58，:rocket: 更新条数: +1728， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -66,6 +66,7 @@
 
 
 - [2022-01-13-1月12日全国新增新冠190例-四省份本土124例](https://m.caixin.com/m/2022-01-13/101829419.html) ![](assets/new.png)  
+- [2022-01-13-奥密克戎来袭-需戴双层口罩加强防护吗？](https://m.caixin.com/m/2022-01-13/101829461.html) ![](assets/new.png)  
 - [2022-01-13-【图集】天津市开启第二轮全员核酸检测](https://photos.caixin.com/m/2022-01-13/101829446.html) ![](assets/new.png)  
 - [2022-01-12-河南省内67趟列车因防疫需要停运](https://china.caixin.com/m/2022-01-12/101829192.html) ![](assets/new.png)  
 - [2022-01-12-最新海外疫情：新冠感染超3.12亿-累计接种新冠疫苗近94.91亿剂次](https://m.caixin.com/m/2022-01-12/101829292.html) ![](assets/new.png)  
@@ -84,7 +85,6 @@
 - [2022-01-10-深圳罗湖部分文娱场所暂停开放-病例或由境外污染物品引发感染](https://m.caixin.com/m/2022-01-10/101828285.html) ![](assets/new.png)  
 - [2022-01-10-河南安阳疫情与天津同源-系奥密克戎](https://m.caixin.com/m/2022-01-10/101827909.html) ![](assets/new.png)  
 - [2022-01-10-【境内疫情观察】全国新增97例本土病例（1月9日）](https://database.caixin.com/m/2022-01-10/101828173.html) ![](assets/new.png)  
-- [2022-01-10-菲律宾检测阳性率近45%，以色列推动家庭新冠自查｜大流行手记（1月9日）](https://m.caixin.com/m/2022-01-10/101827923.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -494,6 +494,17 @@
 </summary>
 
 
+- [2022-01-13-不借助其他工具,单纯的-SQL-语句能不能做到这种效果](https://www.v2ex.com/t/827969) ![](assets/new.png)  
+- [2022-01-13-新品发布-|-Cloudpods-3.8.6-版本上线！](https://www.v2ex.com/t/827968) ![](assets/new.png)  
+- [2022-01-13-公司让员工自费办理指定运营商的手机卡，公司给报销话费，这算正常吗？](https://www.v2ex.com/t/827967) ![](assets/new.png)  
+- [2022-01-13-2022-年了，开发一款-iOS6-的哔哩哔哩第三方软件有多大难度？](https://www.v2ex.com/t/827966) ![](assets/new.png)  
+- [2022-01-13-今年过年你们还能回得去么](https://www.v2ex.com/t/827965) ![](assets/new.png)  
+- [2022-01-13-群晖的网盘备份选什么](https://www.v2ex.com/t/827964) ![](assets/new.png)  
+- [2022-01-13-Safari-的-Google-贴片广告关不了吧？](https://www.v2ex.com/t/827962) ![](assets/new.png)  
+- [2022-01-13-特斯拉-model-3-为啥会自动操作车机界面？](https://www.v2ex.com/t/827961) ![](assets/new.png)  
+- [2022-01-13-出-8-个月京东-Plus](https://www.v2ex.com/t/827959) ![](assets/new.png)  
+- [2022-01-13-请大家看我的究极乌龟壳。](https://www.v2ex.com/t/827958) ![](assets/new.png)  
+- [2022-01-13-腾讯云元旦特惠二核-4G8M-三年仅-151-四核-8G10M-三年-768-四核-16G12M-三年-1098新老身份都可上车官方特价良心云海外机器也有活动香港国际可以特惠续费](https://www.v2ex.com/t/827957) ![](assets/new.png)  
 - [2022-01-13-15.2.1-正式版更新推送了](https://www.v2ex.com/t/827955) ![](assets/new.png)  
 - [2022-01-13-xdm-你们平常都怎么鼓捣-notion-的?有什么花活推荐下吗?我想参考下,我把这玩意用成在线编辑器器了=.=](https://www.v2ex.com/t/827954) ![](assets/new.png)  
 - [2022-01-13-Youtube-Safari-网页版-鼠标悬停可以小窗播放了](https://www.v2ex.com/t/827953) ![](assets/new.png)  
@@ -503,17 +514,6 @@
 - [2022-01-13-问问大家-windowsServer-多少内存正常](https://www.v2ex.com/t/827941) ![](assets/new.png)  
 - [2022-01-13-类似-dto、vo、bo-这些类的命名后缀是大写还是驼峰？比如：-UserDto-或者-UserDTO？](https://www.v2ex.com/t/827939) ![](assets/new.png)  
 - [2022-01-13-求一波摸鱼网站，中英文都可。](https://www.v2ex.com/t/827938) ![](assets/new.png)  
-- [2022-01-13-我正在翻译树莓派引脚定义导航网站-pinout.xyz](https://www.v2ex.com/t/827936) ![](assets/new.png)  
-- [2022-01-13-凌晨四点-海棠花未眠](https://www.v2ex.com/t/827935) ![](assets/new.png)  
-- [2022-01-12-闲置笔记本改造成服务器](https://www.v2ex.com/t/827934) ![](assets/new.png)  
-- [2022-01-12-Plug2Proxy：服务器专用，由流量出口服务器主动连接入口服务器的代理工具](https://www.v2ex.com/t/827933) ![](assets/new.png)  
-- [2022-01-12-远程全职或兼职-美国区块链创业公司寻-web-前端程序员](https://www.v2ex.com/t/827932) ![](assets/new.png)  
-- [2022-01-12-dxf-格式为什么用-cad-打开是空的](https://www.v2ex.com/t/827931) ![](assets/new.png)  
-- [2022-01-12-USB-外接蓝牙，有什么推荐吗？](https://www.v2ex.com/t/827930) ![](assets/new.png)  
-- [2022-01-12-Apple-Silicon-下的-Parallels-Desktop-怎么选择-manjaro-的版本?](https://www.v2ex.com/t/827929) ![](assets/new.png)  
-- [2022-01-12-有潮汕人吗？这里集合集合](https://www.v2ex.com/t/827928) ![](assets/new.png)  
-- [2022-01-12-看了各位吐槽-Mac-的帖子，真的弱爆了](https://www.v2ex.com/t/827927) ![](assets/new.png)  
-- [2022-01-12-2022-年了-我的-dlc-呢？](https://www.v2ex.com/t/827926) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -560,22 +560,22 @@
 - [2022-01-13-平台化建设思路浅谈-|-木小丰的博客](https://toutiao.io/k/gyrx2g8) ![](assets/new.png)  
 - [2022-01-13-汤楚熙：美团实时数仓架构演进与建设实践](https://toutiao.io/k/8ky7vrp) ![](assets/new.png)  
 - [2022-01-13-Go-模糊测试](https://toutiao.io/k/kul5ja2) ![](assets/new.png)  
-- [2022-01-13-猫咪招财喜庆铃铛项圈，点击链接立即领取10元红包礼券！](https://toutiao.io/k/kln056s) ![](assets/new.png)  
 - [2022-01-13-Web-多线程开发利器-Comlink-的剖析与思考](https://toutiao.io/k/zucz9xa) ![](assets/new.png)  
+- [2022-01-13-猫咪招财喜庆铃铛项圈，原价26元，点击链接立减10元！](https://toutiao.io/k/kln056s) ![](assets/new.png)  
 - [2022-01-13-UGUI源码一6千字带你入门UGUI源码](https://toutiao.io/k/u2du3ue) ![](assets/new.png)  
 - [2022-01-13-客户的一个紧急bug，我用了两种方式进行-C#-反编译修改源码](https://toutiao.io/k/qnt08dw) ![](assets/new.png)  
 - [2022-01-13-图像处理技术（二）滤波去噪](https://toutiao.io/k/5t3b51w) ![](assets/new.png)  
-- [2022-01-13-【Rust日报】2022-1-11-Rust-in-2022](https://toutiao.io/k/6umno4w) ![](assets/new.png)  
-- [2022-01-13-卷起来了！Android-OpenGL仿自如APP裸眼3D效果](https://toutiao.io/k/usou4ga) ![](assets/new.png)  
 - [2022-01-13-HTTP协议细节，你学会了吗？](https://toutiao.io/k/cl67iv3) ![](assets/new.png)  
-- [2022-01-13-从“智能湖仓”升级看数据平台架构未来方向](https://toutiao.io/k/pmor3km) ![](assets/new.png)  
 - [2022-01-13-围剿慢SQL，工行MySQL研发管控和治理实践（附PPT）](https://toutiao.io/k/wf80qvd) ![](assets/new.png)  
 - [2022-01-13-SEE-Conf:-Umi-4-设计思路文字稿](https://toutiao.io/k/9cb6mv8) ![](assets/new.png)  
-- [2022-01-13-推荐-偷天换日，用-JavaAgent-欺骗你的-JVM](https://toutiao.io/k/cah22k5) ![](assets/new.png)  
-- [2022-01-13-推荐-从零打造-Instagram](https://toutiao.io/k/hufqvji) ![](assets/new.png)  
-- [2022-01-13-推荐-画架构图的神器](https://toutiao.io/k/4773s9p) ![](assets/new.png)  
 - [2022-01-13-推荐-2021年美团技术团队最受欢迎的22篇技术文章](https://toutiao.io/k/pjse55y) ![](assets/new.png)  
+- [2022-01-13-推荐-网络编程怎么做才算是优雅？](https://toutiao.io/k/zylzzpi) ![](assets/new.png)  
+- [2022-01-13-推荐-2022新年伊始，送你百篇干货文章](https://toutiao.io/k/kchudkd) ![](assets/new.png)  
+- [2022-01-13-推荐-从零打造-Instagram](https://toutiao.io/k/hufqvji) ![](assets/new.png)  
+- [2022-01-13-推荐-偷天换日，用-JavaAgent-欺骗你的-JVM](https://toutiao.io/k/cah22k5) ![](assets/new.png)  
+- [2022-01-13-推荐-画架构图的神器](https://toutiao.io/k/4773s9p) ![](assets/new.png)  
 - [2022-01-13-推荐-非常哇塞的-ES读场景、写场景-性能优化指南！你值得拥有！](https://toutiao.io/k/5pjb28q) ![](assets/new.png)  
+- [2022-01-13-推荐-再见了-VMware，一款更轻量级的虚拟机！](https://toutiao.io/k/xw2lnva) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

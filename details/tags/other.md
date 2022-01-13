@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-01-13 11:40:37。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-01-13 11:54:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1625,6 +1625,8 @@
 - [2022-01-07-科技爱好者周刊（第-191-期）：一个程序员的财务独立之路](http://www.ruanyifeng.com/blog/2022/01/weekly-issue-191.html) 
 - [2021-12-31-科技爱好者周刊（第-190-期）：产品化思维](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-190.html) 
 - [2021-12-24-科技爱好者周刊（第-189-期）：下一个内卷的行业](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-189.html) 
+- [2022-01-13-新电脑到了，刘海屏完全不影响](https://www.v2ex.com/t/828101) 
+- [2022-01-13-在-Mac-上面运行-windows-虚拟机，再运行-hdtune-pro-能检测硬盘健康吗](https://www.v2ex.com/t/828100) 
 - [2022-01-13-使用-Tin-快速安装-phpBB，一个搭建你自己的论坛的教程](https://www.v2ex.com/t/828098) 
 - [2022-01-13-请问-2022Android-还有机会在不获取权限情况下获取设备的唯一标识吗？](https://www.v2ex.com/t/828097) 
 - [2022-01-13-你认为什么是-10-倍程序员](https://www.v2ex.com/t/828096) 
@@ -1681,10 +1683,10 @@
 - [2022-01-13-面渣逆袭：Java并发六十问，图文详解，快来看看你会多少道！](https://toutiao.io/k/4ndh1gd) 
 - [2022-01-13-服务探活的五种方式](https://toutiao.io/k/1wuwmui) 
 - [2022-01-13-2021年终总结](https://toutiao.io/k/wuzbpv9) 
-- [2022-01-13-推荐-从零打造-Instagram](https://toutiao.io/k/hufqvji) 
 - [2022-01-13-推荐-偷天换日，用-JavaAgent-欺骗你的-JVM](https://toutiao.io/k/cah22k5) 
-- [2022-01-13-推荐-画架构图的神器](https://toutiao.io/k/4773s9p) 
 - [2022-01-13-推荐-2021年美团技术团队最受欢迎的22篇技术文章](https://toutiao.io/k/pjse55y) 
+- [2022-01-13-推荐-画架构图的神器](https://toutiao.io/k/4773s9p) 
 - [2022-01-13-推荐-再见了-VMware，一款更轻量级的虚拟机！](https://toutiao.io/k/xw2lnva) 
-- [2022-01-13-推荐-2022新年伊始，送你百篇干货文章](https://toutiao.io/k/kchudkd) 
 - [2022-01-13-推荐-网络编程怎么做才算是优雅？](https://toutiao.io/k/zylzzpi) 
+- [2022-01-13-推荐-从零打造-Instagram](https://toutiao.io/k/hufqvji) 
+- [2022-01-13-推荐-2022新年伊始，送你百篇干货文章](https://toutiao.io/k/kchudkd) 

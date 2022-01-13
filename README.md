@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-13 11:40:37，:rocket: 更新条数: +1737， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-13 11:54:26，:rocket: 更新条数: +1737， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,8 @@
 </summary>
 
 
+- [2022-01-13-新电脑到了，刘海屏完全不影响](https://www.v2ex.com/t/828101) ![](assets/new.png)  
+- [2022-01-13-在-Mac-上面运行-windows-虚拟机，再运行-hdtune-pro-能检测硬盘健康吗](https://www.v2ex.com/t/828100) ![](assets/new.png)  
 - [2022-01-13-使用-Tin-快速安装-phpBB，一个搭建你自己的论坛的教程](https://www.v2ex.com/t/828098) ![](assets/new.png)  
 - [2022-01-13-请问-2022Android-还有机会在不获取权限情况下获取设备的唯一标识吗？](https://www.v2ex.com/t/828097) ![](assets/new.png)  
 - [2022-01-13-你认为什么是-10-倍程序员](https://www.v2ex.com/t/828096) ![](assets/new.png)  
@@ -512,8 +514,6 @@
 - [2022-01-13-北京-V-友有没有去过什刹海冰场，门票是包含全部费用么](https://www.v2ex.com/t/828075) ![](assets/new.png)  
 - [2022-01-13-macbook-你们开发软件一般放在哪些地方？](https://www.v2ex.com/t/828072) ![](assets/new.png)  
 - [2022-01-13-老哥们帮帮我---联想-yoga-14s-5800hs-mx450-外接-lg-up850-间歇性黑屏](https://www.v2ex.com/t/828071) ![](assets/new.png)  
-- [2022-01-13-iPhone-电话进来会断网](https://www.v2ex.com/t/828070) ![](assets/new.png)  
-- [2022-01-13-FIREFOX-忽然无法打开任何网页,看贴吧还不是个例](https://www.v2ex.com/t/828069) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -574,8 +574,8 @@
 - [2022-01-13-服务探活的五种方式](https://toutiao.io/k/1wuwmui) ![](assets/new.png)  
 - [2022-01-13-2021年终总结](https://toutiao.io/k/wuzbpv9) ![](assets/new.png)  
 - [2022-01-13-研读网络安全法律法规，提升技术管理者-“法”-商](https://toutiao.io/k/7ot8ks2) ![](assets/new.png)  
-- [2022-01-13-推荐-从零打造-Instagram](https://toutiao.io/k/hufqvji) ![](assets/new.png)  
 - [2022-01-13-推荐-偷天换日，用-JavaAgent-欺骗你的-JVM](https://toutiao.io/k/cah22k5) ![](assets/new.png)  
+- [2022-01-13-推荐-缓存一致性最佳实践](https://toutiao.io/k/ymscqc1) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

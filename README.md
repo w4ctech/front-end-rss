@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-14 05:54:20，:rocket: 更新条数: +1737， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-14 06:15:43，:rocket: 更新条数: +1743， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,11 @@
 </summary>
 
 
+- [2022-01-14-docx-批量转出-pdf-格式有什么好办法吗？](https://www.v2ex.com/t/828232) ![](assets/new.png)  
+- [2022-01-14-分享一个-IPTV-爬虫](https://www.v2ex.com/t/828231) ![](assets/new.png)  
+- [2022-01-14-dell-2720q-和-2720qm-到底啥区别？](https://www.v2ex.com/t/828230) ![](assets/new.png)  
+- [2022-01-14-在现代的-macOS-上运行-Diablo-1，支持-16:9](https://www.v2ex.com/t/828229) ![](assets/new.png)  
+- [2022-01-14-云原生交流群（如何维护-Kubernetes-早期版本？如何检索多集群资源？）](https://www.v2ex.com/t/828228) ![](assets/new.png)  
 - [2022-01-14-屠龙术入门：毛选-1-7-卷-&-计划经济学](https://www.v2ex.com/t/828225) ![](assets/new.png)  
 - [2022-01-14-妈的,刚入职半年左右,公司就碰到了社`会`主`义铁拳,年前一是公司垮了,老板被抓,二是失业,三是说不好会进去..四是手机电脑都被功岸收去了..太-TM-一点都不方便...](https://www.v2ex.com/t/828223) ![](assets/new.png)  
 - [2022-01-14-请教大家，联通和电信线路连接-gcp-香港节点的表现差异](https://www.v2ex.com/t/828221) ![](assets/new.png)  
@@ -509,11 +514,6 @@
 - [2022-01-14-迫于最近刚入职某流媒体公司，但对薪水不够满意，只好重新刷题，准备冲击-FAANG，-B-站的-leetcode-视频又开始更新了](https://www.v2ex.com/t/828205) ![](assets/new.png)  
 - [2022-01-14-SSL-OV-证书相比于-DV-证书的意义在哪？](https://www.v2ex.com/t/828204) ![](assets/new.png)  
 - [2022-01-14-前端-Svelte-框架的简单实现，了解-Svelte-运行原理可以从这里入手](https://www.v2ex.com/t/828203) ![](assets/new.png)  
-- [2022-01-14-开源了我独立开发的评论组件-SaaS-🔥-🚀](https://www.v2ex.com/t/828200) ![](assets/new.png)  
-- [2022-01-14-全职远程-创业公司寻找前端程序员](https://www.v2ex.com/t/828199) ![](assets/new.png)  
-- [2022-01-14-迫于公司给报销-4K-设备经费，有啥电子设备推荐推荐的？](https://www.v2ex.com/t/828198) ![](assets/new.png)  
-- [2022-01-14-ARM-Mac-的-Thunderbird-无法使用外部-GPG-的解决方法](https://www.v2ex.com/t/828196) ![](assets/new.png)  
-- [2022-01-14-Golang-写的生成-rua-头.gif-的小工具](https://www.v2ex.com/t/828195) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -525,6 +525,7 @@
 </summary>
 
 
+- [2022-01-14-一文读懂浏览器存储与缓存机制-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=14896&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F422666602%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-01-14-如何交接复杂的遗留系统？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14895&url=https%3A%2F%2Finsights.thoughtworks.cn%2Flegacy-system-handover%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-01-14-还在为-Flutter-图表控件发愁么？不妨试试这个-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14894&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F4OKaKf43Y6dSYajaCHnehw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-01-14-用Python做一个游戏辅助脚本！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14893&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247492993%26amp%3Bidx%3D2%26amp%3Bsn%3D67230660b390f06f5584792da10b1078%26amp%3Bchksm%3Dfa3f04dacd488dccec0f68b1534821b98dde1730e4970ca0629239bd3275199e72af4b3c8771%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
@@ -544,7 +545,6 @@
 - [2022-01-14-Google内部的Python代码风格指南（译）-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14879&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247492830%26amp%3Bidx%3D2%26amp%3Bsn%3D61c6871cc69fa32734753e929e78ee5b%26amp%3Bchksm%3Dfa3f0585cd488c935474934aea3b33f4ddea0c78a61c8b900f2b0380fe3eb3b7769eba3884c4%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-01-14-一漂亮妹子的美团面经，4轮2小时，成功拿到Offer-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14878&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247492809%26amp%3Bidx%3D1%26amp%3Bsn%3D7e76004e09c77e34b0bb6f66eb503968%26amp%3Bchksm%3Dfa3f0592cd488c84eb8d73a04cf173ef6648e52fa3db73026f4927e4bdd7b0bed671993aa3dc%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-01-14-我曾目睹的微服务灾难-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14877&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247492809%26amp%3Bidx%3D2%26amp%3Bsn%3Daac037bab3b5d609c64d16f7d8f4eb46%26amp%3Bchksm%3Dfa3f0592cd488c8489679a58cba66b4d7c686d8a3f927de1395e90451ca7655b6e97062fa2f4%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-01-14-一个目录，居然干了10000+字！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14876&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247492773%26amp%3Bidx%3D1%26amp%3Bsn%3D6947676808d5b128dd1c5b78e6d9db42%26amp%3Bchksm%3Dfa3f05fecd488ce89901d56750a83ba8dc404d9d5bfab6dd77d87b6bed77076b985d9ab85241%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -559,23 +559,23 @@
 - [2022-01-14-关于代码质量退化的思考](https://toutiao.io/k/zzaz6vu) ![](assets/new.png)  
 - [2022-01-14-美团实时数仓架构演进与建设实践](https://toutiao.io/k/3luzmvf) ![](assets/new.png)  
 - [2022-01-14-深度好文｜实时数仓不用愁，StarRocks+Flink-来解忧！](https://toutiao.io/k/wklhvr1) ![](assets/new.png)  
-- [2022-01-14-基于事件驱动架构构建微服务第16部分：Azure-Active-Directory-B2C](https://toutiao.io/k/fydxo29) ![](assets/new.png)  
 - [2022-01-14-leo：从工程化角度出发的脚手架开源工具](https://toutiao.io/k/caqw3rq) ![](assets/new.png)  
+- [2022-01-14-基于事件驱动架构构建微服务第16部分：Azure-Active-Directory-B2C](https://toutiao.io/k/fydxo29) ![](assets/new.png)  
 - [2022-01-14-CNN卷土重来！超越Transformer！FAIR重新设计纯卷积架构：ConvNeXt](https://toutiao.io/k/5fodbg0) ![](assets/new.png)  
 - [2022-01-14-基于etcd实现大规模服务治理应用实战](https://toutiao.io/k/dx6dcgu) ![](assets/new.png)  
 - [2022-01-14-80抽猫狗湿巾加送2包便携装，只需8.9元！](https://toutiao.io/k/a3lukt7) ![](assets/new.png)  
 - [2022-01-14-DSTC10开放领域对话评估比赛冠军方法总结](https://toutiao.io/k/bw8obkv) ![](assets/new.png)  
 - [2022-01-14-简述C#中应用程序集的装载过程](https://toutiao.io/k/o2v6z2o) ![](assets/new.png)  
 - [2022-01-14-干货-|-基于-BDD-理念的-UI-自动化测试在携程度假的应用](https://toutiao.io/k/nqlrpee) ![](assets/new.png)  
-- [2022-01-14-推荐-2022新年伊始，送你百篇干货文章](https://toutiao.io/k/kchudkd) ![](assets/new.png)  
-- [2022-01-14-推荐-非常哇塞的-ES读场景、写场景-性能优化指南！你值得拥有！](https://toutiao.io/k/5pjb28q) ![](assets/new.png)  
-- [2022-01-14-推荐-网络编程怎么做才算是优雅？](https://toutiao.io/k/zylzzpi) ![](assets/new.png)  
+- [2022-01-14-微服务拆分之道](https://toutiao.io/k/jjclagb) ![](assets/new.png)  
+- [2022-01-14-关于项目中-Repository-层的思考](https://toutiao.io/k/nbik1ek) ![](assets/new.png)  
+- [2022-01-14-Java依赖冲突高效解决之道](https://toutiao.io/k/mfc7ots) ![](assets/new.png)  
+- [2022-01-14-18张图，详解SpringBoot解析yml全流程](https://toutiao.io/k/4v1pi0z) ![](assets/new.png)  
+- [2022-01-14-独立开发变现周刊（第37期）：一个博客网站，2年后卖了1亿美金](https://toutiao.io/k/lhr8dz7) ![](assets/new.png)  
+- [2022-01-14-品读linux-0.10核心源代码](https://toutiao.io/k/06hrght) ![](assets/new.png)  
+- [2022-01-14-数仓指标一致性](https://toutiao.io/k/loey0se) ![](assets/new.png)  
+- [2022-01-14-设计模式系列——桥接模式](https://toutiao.io/k/pgszonz) ![](assets/new.png)  
 - [2022-01-14-推荐-缓存一致性最佳实践](https://toutiao.io/k/ymscqc1) ![](assets/new.png)  
-- [2022-01-14-推荐-用规则引擎让你一天上线十个需求](https://toutiao.io/k/ldd1cse) ![](assets/new.png)  
-- [2022-01-14-推荐-再见了-VMware，一款更轻量级的虚拟机！](https://toutiao.io/k/xw2lnva) ![](assets/new.png)  
-- [2022-01-14-推荐-2021年美团技术团队最受欢迎的22篇技术文章](https://toutiao.io/k/pjse55y) ![](assets/new.png)  
-- [2022-01-14-推荐-从零打造-Instagram](https://toutiao.io/k/hufqvji) ![](assets/new.png)  
-- [2022-01-14-推荐-偷天换日，用-JavaAgent-欺骗你的-JVM](https://toutiao.io/k/cah22k5) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

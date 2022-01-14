@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-14 07:13:02，:rocket: 更新条数: +1742， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-14 07:21:24，:rocket: 更新条数: +1743， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,11 @@
 </summary>
 
 
+- [2022-01-14-问个数据一致性的问题](https://www.v2ex.com/t/828255) ![](assets/new.png)  
+- [2022-01-14-太离谱了-写代码还搞这些。](https://www.v2ex.com/t/828254) ![](assets/new.png)  
+- [2022-01-14-git-操作命令行比界面有哪些优势呢？](https://www.v2ex.com/t/828253) ![](assets/new.png)  
+- [2022-01-14-为什么运营商和国家不强制推出统一短信电话朋友圈公众号小程序的-APP-呢？](https://www.v2ex.com/t/828252) ![](assets/new.png)  
+- [2022-01-14-请教大佬一个不同网段组网的问题，能解决的话-20-红包感谢](https://www.v2ex.com/t/828251) ![](assets/new.png)  
 - [2022-01-14-EPIC-喜加一，《银河文明-III》限时免费](https://www.v2ex.com/t/828249) ![](assets/new.png)  
 - [2022-01-14-MBP-2021-充电时风扇狂转](https://www.v2ex.com/t/828247) ![](assets/new.png)  
 - [2022-01-14-为什么最近流行“迫于-xxx”呢](https://www.v2ex.com/t/828246) ![](assets/new.png)  
@@ -509,11 +514,6 @@
 - [2022-01-14-在现代的-macOS-上运行-Diablo-1，支持-16:9](https://www.v2ex.com/t/828229) ![](assets/new.png)  
 - [2022-01-14-云原生交流群（如何维护-Kubernetes-早期版本？如何检索多集群资源？）](https://www.v2ex.com/t/828228) ![](assets/new.png)  
 - [2022-01-14-屠龙术入门：毛选-1-7-卷-&-计划经济学](https://www.v2ex.com/t/828225) ![](assets/new.png)  
-- [2022-01-14-妈的,刚入职半年左右,公司就碰到了社`会`主`义铁拳,年前一是公司垮了,老板被抓,二是失业,三是说不好会进去..四是手机电脑都被功岸收去了..太-TM-一点都不方便...](https://www.v2ex.com/t/828223) ![](assets/new.png)  
-- [2022-01-14-请教大家，联通和电信线路连接-gcp-香港节点的表现差异](https://www.v2ex.com/t/828221) ![](assets/new.png)  
-- [2022-01-14-有-V-友懂广东广电的-DOCSIS-3.0-猫接入配置吗](https://www.v2ex.com/t/828219) ![](assets/new.png)  
-- [2022-01-14-找人定做一套-tp-主题或者一套程序大概多少钱](https://www.v2ex.com/t/828218) ![](assets/new.png)  
-- [2022-01-14-微信广告评选投票最高可获得-6.66-元](https://www.v2ex.com/t/828215) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -568,8 +568,8 @@
 - [2022-01-14-简述C#中应用程序集的装载过程](https://toutiao.io/k/o2v6z2o) ![](assets/new.png)  
 - [2022-01-14-干货-|-基于-BDD-理念的-UI-自动化测试在携程度假的应用](https://toutiao.io/k/nqlrpee) ![](assets/new.png)  
 - [2022-01-14-18张图，详解SpringBoot解析yml全流程](https://toutiao.io/k/4v1pi0z) ![](assets/new.png)  
-- [2022-01-14-Java依赖冲突高效解决之道](https://toutiao.io/k/mfc7ots) ![](assets/new.png)  
 - [2022-01-14-微服务拆分之道](https://toutiao.io/k/jjclagb) ![](assets/new.png)  
+- [2022-01-14-Java依赖冲突高效解决之道](https://toutiao.io/k/mfc7ots) ![](assets/new.png)  
 - [2022-01-14-关于项目中-Repository-层的思考](https://toutiao.io/k/nbik1ek) ![](assets/new.png)  
 - [2022-01-14-独立开发变现周刊（第37期）：一个博客网站，2年后卖了1亿美金](https://toutiao.io/k/lhr8dz7) ![](assets/new.png)  
 - [2022-01-14-设计模式系列——桥接模式](https://toutiao.io/k/pgszonz) ![](assets/new.png)  

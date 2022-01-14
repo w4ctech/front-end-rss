@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-01-14 06:15:43。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-01-14 06:27:54。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -189,7 +189,7 @@
 - [【V2EX】2022-01-14-CrossOver-打算在-23-版本为-Mac-加入-DX12-支持](https://www.v2ex.com/t/828190) 
 - [【V2EX】2022-01-14-有没有留学生落户成功的前辈](https://www.v2ex.com/t/828188) 
 - [【V2EX】2022-01-14-单机-8-核-32G,-用什么技术才可以做单表-20-亿数据的过滤查询?](https://www.v2ex.com/t/828186) 
-- [【V2EX】2022-01-14-#-一点认知：沟通与共识成本](https://www.v2ex.com/t/828184) 
+- [【技术头条】2022-01-14-Python-Type-Hints-从入门到实践-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=14897&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F424042902%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-01-14-一文读懂浏览器存储与缓存机制-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=14896&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F422666602%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-01-14-如何交接复杂的遗留系统？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14895&url=https%3A%2F%2Finsights.thoughtworks.cn%2Flegacy-system-handover%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-01-14-还在为-Flutter-图表控件发愁么？不妨试试这个-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14894&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F4OKaKf43Y6dSYajaCHnehw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -209,7 +209,6 @@
 - [【技术头条】2022-01-14-苹果的反跟踪新功能大受欢迎，你更新了吗？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14880&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247492846%26amp%3Bidx%3D2%26amp%3Bsn%3D1ac3b5b08e047d1385c6379391c560b1%26amp%3Bchksm%3Dfa3f05b5cd488ca321592b4a4e3642d07efcb43a458628847bbd459d4a958ac0d9a4aadec264%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-01-14-Google内部的Python代码风格指南（译）-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14879&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247492830%26amp%3Bidx%3D2%26amp%3Bsn%3D61c6871cc69fa32734753e929e78ee5b%26amp%3Bchksm%3Dfa3f0585cd488c935474934aea3b33f4ddea0c78a61c8b900f2b0380fe3eb3b7769eba3884c4%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-01-14-一漂亮妹子的美团面经，4轮2小时，成功拿到Offer-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14878&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247492809%26amp%3Bidx%3D1%26amp%3Bsn%3D7e76004e09c77e34b0bb6f66eb503968%26amp%3Bchksm%3Dfa3f0592cd488c84eb8d73a04cf173ef6648e52fa3db73026f4927e4bdd7b0bed671993aa3dc%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
-- [【技术头条】2022-01-14-我曾目睹的微服务灾难-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14877&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247492809%26amp%3Bidx%3D2%26amp%3Bsn%3Daac037bab3b5d609c64d16f7d8f4eb46%26amp%3Bchksm%3Dfa3f0592cd488c8489679a58cba66b4d7c686d8a3f927de1395e90451ca7655b6e97062fa2f4%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【开发者头条】2022-01-14-关于代码质量退化的思考](https://toutiao.io/k/zzaz6vu) 
 - [【开发者头条】2022-01-14-美团实时数仓架构演进与建设实践](https://toutiao.io/k/3luzmvf) 
 - [【开发者头条】2022-01-14-深度好文｜实时数仓不用愁，StarRocks+Flink-来解忧！](https://toutiao.io/k/wklhvr1) 
@@ -222,22 +221,22 @@
 - [【开发者头条】2022-01-14-简述C#中应用程序集的装载过程](https://toutiao.io/k/o2v6z2o) 
 - [【开发者头条】2022-01-14-干货-|-基于-BDD-理念的-UI-自动化测试在携程度假的应用](https://toutiao.io/k/nqlrpee) 
 - [【开发者头条】2022-01-14-微服务拆分之道](https://toutiao.io/k/jjclagb) 
-- [【开发者头条】2022-01-14-关于项目中-Repository-层的思考](https://toutiao.io/k/nbik1ek) 
 - [【开发者头条】2022-01-14-Java依赖冲突高效解决之道](https://toutiao.io/k/mfc7ots) 
+- [【开发者头条】2022-01-14-关于项目中-Repository-层的思考](https://toutiao.io/k/nbik1ek) 
 - [【开发者头条】2022-01-14-18张图，详解SpringBoot解析yml全流程](https://toutiao.io/k/4v1pi0z) 
 - [【开发者头条】2022-01-14-独立开发变现周刊（第37期）：一个博客网站，2年后卖了1亿美金](https://toutiao.io/k/lhr8dz7) 
 - [【开发者头条】2022-01-14-品读linux-0.10核心源代码](https://toutiao.io/k/06hrght) 
 - [【开发者头条】2022-01-14-数仓指标一致性](https://toutiao.io/k/loey0se) 
 - [【开发者头条】2022-01-14-设计模式系列——桥接模式](https://toutiao.io/k/pgszonz) 
 - [【开发者头条】2022-01-14-推荐-缓存一致性最佳实践](https://toutiao.io/k/ymscqc1) 
-- [【开发者头条】2022-01-14-推荐-网络编程怎么做才算是优雅？](https://toutiao.io/k/zylzzpi) 
-- [【开发者头条】2022-01-14-推荐-偷天换日，用-JavaAgent-欺骗你的-JVM](https://toutiao.io/k/cah22k5) 
-- [【开发者头条】2022-01-14-推荐-非常哇塞的-ES读场景、写场景-性能优化指南！你值得拥有！](https://toutiao.io/k/5pjb28q) 
-- [【开发者头条】2022-01-14-推荐-2021年美团技术团队最受欢迎的22篇技术文章](https://toutiao.io/k/pjse55y) 
-- [【开发者头条】2022-01-14-推荐-再见了-VMware，一款更轻量级的虚拟机！](https://toutiao.io/k/xw2lnva) 
-- [【开发者头条】2022-01-14-推荐-2022新年伊始，送你百篇干货文章](https://toutiao.io/k/kchudkd) 
-- [【开发者头条】2022-01-14-推荐-从零打造-Instagram](https://toutiao.io/k/hufqvji) 
 - [【开发者头条】2022-01-14-推荐-用规则引擎让你一天上线十个需求](https://toutiao.io/k/ldd1cse) 
+- [【开发者头条】2022-01-14-推荐-偷天换日，用-JavaAgent-欺骗你的-JVM](https://toutiao.io/k/cah22k5) 
+- [【开发者头条】2022-01-14-推荐-2021年美团技术团队最受欢迎的22篇技术文章](https://toutiao.io/k/pjse55y) 
+- [【开发者头条】2022-01-14-推荐-网络编程怎么做才算是优雅？](https://toutiao.io/k/zylzzpi) 
+- [【开发者头条】2022-01-14-推荐-再见了-VMware，一款更轻量级的虚拟机！](https://toutiao.io/k/xw2lnva) 
+- [【开发者头条】2022-01-14-推荐-从零打造-Instagram](https://toutiao.io/k/hufqvji) 
+- [【开发者头条】2022-01-14-推荐-2022新年伊始，送你百篇干货文章](https://toutiao.io/k/kchudkd) 
+- [【开发者头条】2022-01-14-推荐-非常哇塞的-ES读场景、写场景-性能优化指南！你值得拥有！](https://toutiao.io/k/5pjb28q) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

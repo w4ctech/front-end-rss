@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-01-14 11:54:40。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-01-14 12:19:40。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,7 +68,6 @@
 </summary>
 
 
-- [【武汉肺炎防疫全纪录(财新网)】2022-01-14-1月13日全国新增新冠201例-五省份本土143例](https://m.caixin.com/m/2022-01-14/101829927.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2022-01-14-香港收紧机组人员检疫-特首预告进口食品面临涨价](https://m.caixin.com/m/2022-01-14/101830212.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2022-01-14-国际医学西安两医院停业整顿3个月-母公司股票被ST后停牌](https://m.caixin.com/m/2022-01-14/101830062.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2022-01-14-杭州新增1例确诊-系西溪医院护士](https://m.caixin.com/m/2022-01-14/101830024.html) 
@@ -76,7 +75,6 @@
 - [【武汉肺炎防疫全纪录(财新网)】2022-01-14-东京病例创新高-贫穷国家拒绝超1亿剂将过期疫苗｜大流行手记（1月13日）](https://m.caixin.com/m/2022-01-14/101829976.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2022-01-14-意见领袖|周伟：依靠法治提升疫情防控能力](https://opinion.caixin.com/m/2022-01-14/101830246.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2022-01-14-【图集】广东中山坦洲镇开展全员核酸检测](https://photos.caixin.com/m/2022-01-14/101829954.html) 
-- [【武汉肺炎防疫全纪录(财新网)】2022-01-13-最新海外疫情：新冠感染超3.15亿，累计接种新冠疫苗超95.27亿剂次](https://m.caixin.com/m/2022-01-13/101829759.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2022-01-13-上海新增2例确诊和3例无症状-均为境外输入关联病例](https://m.caixin.com/m/2022-01-13/101829820.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2022-01-13-广东中山报告一例新冠阳性病例-入境澳门须48小时核酸阴性证明](https://m.caixin.com/m/2022-01-13/101829685.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2022-01-13-西安卫健委：西安高新医院、西安国际医学中心医院停业整顿3个月](https://m.caixin.com/m/2022-01-13/101829562.html) 
@@ -162,6 +160,10 @@
 - [【张鑫旭-鑫空间-鑫生活】2022-01-11-还有完没完，怎么又来了个-scrollbar-gutter？](https://www.zhangxinxu.com/wordpress/2022/01/css-scrollbar-gutter/) 
 - [【阮一峰的网络日志】2022-01-14-科技爱好者周刊（第-192-期）：最大的机会来自新技术](http://www.ruanyifeng.com/blog/2022/01/weekly-issue-192.html) 
 - [【阮一峰的网络日志】2022-01-07-科技爱好者周刊（第-191-期）：一个程序员的财务独立之路](http://www.ruanyifeng.com/blog/2022/01/weekly-issue-191.html) 
+- [【V2EX】2022-01-14-用-Wordpress-做的网站突然打不开，有偿求解答](https://www.v2ex.com/t/828325) 
+- [【V2EX】2022-01-14-Python-有-GIL-锁多线程环境是否不会出现可见性的问题？](https://www.v2ex.com/t/828322) 
+- [【V2EX】2022-01-14-函数式编程在-Go-泛型下的实用性探索](https://www.v2ex.com/t/828321) 
+- [【V2EX】2022-01-14-有大佬知道-rec-不解密-data-怎么解决吗？它根本就不跳解密的页面。](https://www.v2ex.com/t/828320) 
 - [【V2EX】2022-01-14-MacBookPro2021-16-寸新款屏幕缝隙不明白色物体](https://www.v2ex.com/t/828319) 
 - [【V2EX】2022-01-14-facebook-广告点击率比谷歌高？](https://www.v2ex.com/t/828317) 
 - [【V2EX】2022-01-14-淘宝语音监听可能真的存在！](https://www.v2ex.com/t/828316) 
@@ -193,11 +195,6 @@
 - [【V2EX】2022-01-14-家宽每天-15G-流量有什么性价比方案吗](https://www.v2ex.com/t/828280) 
 - [【V2EX】2022-01-14-如何查看软件-arm-架构支持情况-谢谢](https://www.v2ex.com/t/828278) 
 - [【V2EX】2022-01-14-请各位老师推荐一些机器学习云平台](https://www.v2ex.com/t/828276) 
-- [【V2EX】2022-01-14-外包真难受啊](https://www.v2ex.com/t/828275) 
-- [【V2EX】2022-01-14-北京/上海-MIT-博士胡渊鸣创业项目-太极图形-2022-社招最新职位：-DevOps/前端/后端/流媒体/编译器/分布式系统工程师等-公司已获得红杉资本等顶级风险投资机...](https://www.v2ex.com/t/828274) 
-- [【V2EX】2022-01-14-求助！怎么能看-red-hat-的文章？](https://www.v2ex.com/t/828272) 
-- [【V2EX】2022-01-14-hr-最终面试，问之前薪资多少，漏嘴说高了，要求提供前公司薪资带转账单号证明](https://www.v2ex.com/t/828271) 
-- [【V2EX】2022-01-14-外挂厂商宣布不再更新《战地-2042》外挂程序](https://www.v2ex.com/t/828270) 
 - [【技术头条】2022-01-14-Python-Type-Hints-从入门到实践-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=14897&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F424042902%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-01-14-一文读懂浏览器存储与缓存机制-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=14896&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F422666602%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-01-14-如何交接复杂的遗留系统？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14895&url=https%3A%2F%2Finsights.thoughtworks.cn%2Flegacy-system-handover%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -228,24 +225,24 @@
 - [【开发者头条】2022-01-14-18张图，详解SpringBoot解析yml全流程](https://toutiao.io/k/4v1pi0z) 
 - [【开发者头条】2022-01-14-DSTC10开放领域对话评估比赛冠军方法总结](https://toutiao.io/k/bw8obkv) 
 - [【开发者头条】2022-01-14-干货-|-基于-BDD-理念的-UI-自动化测试在携程度假的应用](https://toutiao.io/k/nqlrpee) 
+- [【开发者头条】2022-01-14-Java依赖冲突高效解决之道](https://toutiao.io/k/mfc7ots) 
 - [【开发者头条】2022-01-14-80抽猫狗湿巾加送2包便携装，只需8.9元！](https://toutiao.io/k/a3lukt7) 
 - [【开发者头条】2022-01-14-微服务拆分之道](https://toutiao.io/k/jjclagb) 
-- [【开发者头条】2022-01-14-Java依赖冲突高效解决之道](https://toutiao.io/k/mfc7ots) 
 - [【开发者头条】2022-01-14-关于项目中-Repository-层的思考](https://toutiao.io/k/nbik1ek) 
 - [【开发者头条】2022-01-14-设计模式系列——桥接模式](https://toutiao.io/k/pgszonz) 
 - [【开发者头条】2022-01-14-独立开发变现周刊（第37期）：一个博客网站，2年后卖了1亿美金](https://toutiao.io/k/lhr8dz7) 
 - [【开发者头条】2022-01-14-简述C#中应用程序集的装载过程](https://toutiao.io/k/o2v6z2o) 
 - [【开发者头条】2022-01-14-品读linux-0.10核心源代码](https://toutiao.io/k/06hrght) 
 - [【开发者头条】2022-01-14-数仓指标一致性](https://toutiao.io/k/loey0se) 
-- [【开发者头条】2022-01-14-推荐-偷天换日，用-JavaAgent-欺骗你的-JVM](https://toutiao.io/k/cah22k5) 
-- [【开发者头条】2022-01-14-推荐-缓存一致性最佳实践](https://toutiao.io/k/ymscqc1) 
-- [【开发者头条】2022-01-14-推荐-再见了-VMware，一款更轻量级的虚拟机！](https://toutiao.io/k/xw2lnva) 
 - [【开发者头条】2022-01-14-推荐-非常哇塞的-ES读场景、写场景-性能优化指南！你值得拥有！](https://toutiao.io/k/5pjb28q) 
+- [【开发者头条】2022-01-14-推荐-偷天换日，用-JavaAgent-欺骗你的-JVM](https://toutiao.io/k/cah22k5) 
 - [【开发者头条】2022-01-14-推荐-从零打造-Instagram](https://toutiao.io/k/hufqvji) 
-- [【开发者头条】2022-01-14-推荐-用规则引擎让你一天上线十个需求](https://toutiao.io/k/ldd1cse) 
 - [【开发者头条】2022-01-14-推荐-2021年美团技术团队最受欢迎的22篇技术文章](https://toutiao.io/k/pjse55y) 
-- [【开发者头条】2022-01-14-推荐-网络编程怎么做才算是优雅？](https://toutiao.io/k/zylzzpi) 
+- [【开发者头条】2022-01-14-推荐-用规则引擎让你一天上线十个需求](https://toutiao.io/k/ldd1cse) 
+- [【开发者头条】2022-01-14-推荐-再见了-VMware，一款更轻量级的虚拟机！](https://toutiao.io/k/xw2lnva) 
+- [【开发者头条】2022-01-14-推荐-缓存一致性最佳实践](https://toutiao.io/k/ymscqc1) 
 - [【开发者头条】2022-01-14-推荐-2022新年伊始，送你百篇干货文章](https://toutiao.io/k/kchudkd) 
+- [【开发者头条】2022-01-14-推荐-网络编程怎么做才算是优雅？](https://toutiao.io/k/zylzzpi) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

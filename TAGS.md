@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-01-14 15:48:33。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-01-14 16:16:01。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -89,7 +89,6 @@
 
 
 - [【武汉肺炎防疫全纪录(财新网)】韩国拟升级首尔疫情管控-法国专业机构建议强制接种疫苗｜大流行手记（7月10日）](https://m.caixin.com/m/2021-07-11/101738786.html)
-- [【开发者头条】基于事件驱动架构构建微服务第16部分：Azure-Active-Directory-B2C](https://toutiao.io/k/fydxo29)
 - [......【查看更多】......](./details/tags/pack-build.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -205,7 +204,6 @@
 - [【张鑫旭-鑫空间-鑫生活】纯CSS实现未读消息超过100自动显示为99+](https://www.zhangxinxu.com/wordpress/2022/01/css-show-diff-content-according-var/)
 - [【张鑫旭-鑫空间-鑫生活】你不知道的CSS-media查询与用户体验](https://www.zhangxinxu.com/wordpress/2021/12/css-meida-user-experience/)
 - [【V2EX】自建-tailscale-和-derp-服务器，有部署在大厂云环境的吗？](https://www.v2ex.com/t/828314)
-- [【开发者头条】CNN卷土重来！超越Transformer！FAIR重新设计纯卷积架构：ConvNeXt](https://toutiao.io/k/5fodbg0)
 - [......【查看更多】......](./details/tags/css.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -284,9 +282,9 @@
 - [【武汉肺炎防疫全纪录(财新网)】大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html)
 - [【V2EX】设置浏览器的默认下载目录为“桌面”时，提示：桌面-没有供标记使用的对象。](https://www.v2ex.com/t/828346)
 - [【V2EX】safari-切换标签掉帧？](https://www.v2ex.com/t/828333)
-- [【V2EX】关于浏览器-隐私书签-，你有什么需求吗？](https://www.v2ex.com/t/828308)
 - [【技术头条】一文读懂浏览器存储与缓存机制-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=14896&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F422666602%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【开发者头条】推荐-缓存一致性最佳实践](https://toutiao.io/k/ymscqc1)
+- [【开发者头条】推荐-浅谈缓存最终一致性的解决方案](https://toutiao.io/k/mgym1lv)
 - [......【查看更多】......](./details/tags/browser.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

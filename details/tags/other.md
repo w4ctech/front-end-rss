@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-01-14 03:00:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-01-14 03:15:05。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1631,6 +1631,8 @@
 - [2022-01-14-科技爱好者周刊（第-192-期）：最大的机会来自新技术](http://www.ruanyifeng.com/blog/2022/01/weekly-issue-192.html) 
 - [2022-01-07-科技爱好者周刊（第-191-期）：一个程序员的财务独立之路](http://www.ruanyifeng.com/blog/2022/01/weekly-issue-191.html) 
 - [2021-12-31-科技爱好者周刊（第-190-期）：产品化思维](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-190.html) 
+- [2022-01-14-单生男生经常被买衣服困恼，那么帮忙买衣服，有搞头吗](https://www.v2ex.com/t/828174) 
+- [2022-01-14-微信朋友圈也只能保留-10-年了](https://www.v2ex.com/t/828173) 
 - [2022-01-14-怎么查看服务器在某个时间段-CPU/MEM-的占用情况](https://www.v2ex.com/t/828171) 
 - [2022-01-14-现在是不是不适合买实体黄金？](https://www.v2ex.com/t/828170) 
 - [2022-01-14-使用-Tin-快安装-SuiteCRM（全网最快安装法-100%成功）](https://www.v2ex.com/t/828169) 
@@ -1660,8 +1662,6 @@
 - [2022-01-13-三节五号电池的体重秤-改装无线充电方式，用-5w-的无线充发射接收模块，会有影响么？](https://www.v2ex.com/t/828130) 
 - [2022-01-13-如何理解分布式和集群的区别？](https://www.v2ex.com/t/828129) 
 - [2022-01-13-HomePod-mini-播放逻辑实在搞不明白](https://www.v2ex.com/t/828128) 
-- [2022-01-13-分享下我的独立开发日记-04](https://www.v2ex.com/t/828124) 
-- [2022-01-13-QT-界面，如何实现随电脑百分比放大，自动缩放](https://www.v2ex.com/t/828123) 
 - [2022-01-14-如何交接复杂的遗留系统？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14895&url=https%3A%2F%2Finsights.thoughtworks.cn%2Flegacy-system-handover%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-01-14-阿里巴巴为什么能抗住90秒100亿？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14892&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247492963%26amp%3Bidx%3D1%26amp%3Bsn%3Dc055d55af2f4efdf70718c31e2b15ec9%26amp%3Bchksm%3Dfa3f0438cd488d2e2f70ee7dd5bb2751f5ec496ad010734777adaa544841a94c6f3fad2dffa0%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-01-14-常见代码重构技巧（非常实用）-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14891&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247492963%26amp%3Bidx%3D2%26amp%3Bsn%3D2ede8b39036a54cdad26ef35d74d7dcc%26amp%3Bchksm%3Dfa3f0438cd488d2ec7349ea9860d3987c3259afc12eb8a46a9569a41a3e0bc2f71ef10854d6c%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1688,10 +1688,10 @@
 - [2022-01-14-DSTC10开放领域对话评估比赛冠军方法总结](https://toutiao.io/k/bw8obkv) 
 - [2022-01-14-干货-|-基于-BDD-理念的-UI-自动化测试在携程度假的应用](https://toutiao.io/k/nqlrpee) 
 - [2022-01-14-简述C#中应用程序集的装载过程](https://toutiao.io/k/o2v6z2o) 
-- [2022-01-14-推荐-2022新年伊始，送你百篇干货文章](https://toutiao.io/k/kchudkd) 
-- [2022-01-14-推荐-2021年美团技术团队最受欢迎的22篇技术文章](https://toutiao.io/k/pjse55y) 
+- [2022-01-14-推荐-再见了-VMware，一款更轻量级的虚拟机！](https://toutiao.io/k/xw2lnva) 
 - [2022-01-14-推荐-偷天换日，用-JavaAgent-欺骗你的-JVM](https://toutiao.io/k/cah22k5) 
 - [2022-01-14-推荐-从零打造-Instagram](https://toutiao.io/k/hufqvji) 
+- [2022-01-14-推荐-2021年美团技术团队最受欢迎的22篇技术文章](https://toutiao.io/k/pjse55y) 
+- [2022-01-14-推荐-2022新年伊始，送你百篇干货文章](https://toutiao.io/k/kchudkd) 
 - [2022-01-14-推荐-用规则引擎让你一天上线十个需求](https://toutiao.io/k/ldd1cse) 
-- [2022-01-14-推荐-再见了-VMware，一款更轻量级的虚拟机！](https://toutiao.io/k/xw2lnva) 
 - [2022-01-14-推荐-网络编程怎么做才算是优雅？](https://toutiao.io/k/zylzzpi) 

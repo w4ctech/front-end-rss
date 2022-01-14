@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-01-13 23:56:51。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-01-14 00:42:39。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -22,4 +22,3 @@
 - [2022-01-13-安装-nginx_upstream_check_module-模块后检查生效但是轮询失败了？](https://www.v2ex.com/t/828126) 
 - [2022-01-13-求系统鼠标平滑滚动实现思路](https://www.v2ex.com/t/828116) 
 - [2022-01-13-有好用背英文的组件吗？不用点进-app,直接可以在桌面看](https://www.v2ex.com/t/828103) 
-- [2022-01-13-从-wasm-端调用-js-的代码](https://www.v2ex.com/t/828095) 

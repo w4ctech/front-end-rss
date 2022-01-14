@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-14 13:54:12，:rocket: 更新条数: +1752， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-14 14:12:05，:rocket: 更新条数: +1752， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,8 @@
 </summary>
 
 
+- [2022-01-14-同事在我开发完成后突然要求修改功能实现方式](https://www.v2ex.com/t/828337) ![](assets/new.png)  
+- [2022-01-14-Vivaldi-的翻译功能是不是崩了](https://www.v2ex.com/t/828336) ![](assets/new.png)  
 - [2022-01-14-请教-v-友们-这个-tcping-软件支持-arm-M1-吗-谢谢](https://www.v2ex.com/t/828335) ![](assets/new.png)  
 - [2022-01-14-如何关闭-IntelliJ-IDEA-启动时的切换本地化提示？](https://www.v2ex.com/t/828334) ![](assets/new.png)  
 - [2022-01-14-safari-切换标签掉帧？](https://www.v2ex.com/t/828333) ![](assets/new.png)  
@@ -512,8 +514,6 @@
 - [2022-01-14-自建-tailscale-和-derp-服务器，有部署在大厂云环境的吗？](https://www.v2ex.com/t/828314) ![](assets/new.png)  
 - [2022-01-14-有没有大佬懂-R-中四舍五入的问题](https://www.v2ex.com/t/828313) ![](assets/new.png)  
 - [2022-01-14-Batch-线性回归中为什么要要分别求代价函数等于-0-和等于-1-时的截距和斜率？](https://www.v2ex.com/t/828311) ![](assets/new.png)  
-- [2022-01-14-想问各位一套代码应用到几十个项目该怎么管理](https://www.v2ex.com/t/828310) ![](assets/new.png)  
-- [2022-01-14-关于浏览器-隐私书签-，你有什么需求吗？](https://www.v2ex.com/t/828308) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -567,15 +567,15 @@
 - [2022-01-14-Java依赖冲突高效解决之道](https://toutiao.io/k/mfc7ots) ![](assets/new.png)  
 - [2022-01-14-DSTC10开放领域对话评估比赛冠军方法总结](https://toutiao.io/k/bw8obkv) ![](assets/new.png)  
 - [2022-01-14-干货-|-基于-BDD-理念的-UI-自动化测试在携程度假的应用](https://toutiao.io/k/nqlrpee) ![](assets/new.png)  
-- [2022-01-14-微服务拆分之道](https://toutiao.io/k/jjclagb) ![](assets/new.png)  
 - [2022-01-14-关于项目中-Repository-层的思考](https://toutiao.io/k/nbik1ek) ![](assets/new.png)  
+- [2022-01-14-微服务拆分之道](https://toutiao.io/k/jjclagb) ![](assets/new.png)  
 - [2022-01-14-设计模式系列——桥接模式](https://toutiao.io/k/pgszonz) ![](assets/new.png)  
 - [2022-01-14-80抽猫狗湿巾加送2包便携装，只需8.9元！](https://toutiao.io/k/a3lukt7) ![](assets/new.png)  
 - [2022-01-14-独立开发变现周刊（第37期）：一个博客网站，2年后卖了1亿美金](https://toutiao.io/k/lhr8dz7) ![](assets/new.png)  
 - [2022-01-14-简述C#中应用程序集的装载过程](https://toutiao.io/k/o2v6z2o) ![](assets/new.png)  
 - [2022-01-14-品读linux-0.10核心源代码](https://toutiao.io/k/06hrght) ![](assets/new.png)  
 - [2022-01-14-数仓指标一致性](https://toutiao.io/k/loey0se) ![](assets/new.png)  
-- [2022-01-14-推荐-偷天换日，用-JavaAgent-欺骗你的-JVM](https://toutiao.io/k/cah22k5) ![](assets/new.png)  
+- [2022-01-14-推荐-2022新年伊始，送你百篇干货文章](https://toutiao.io/k/kchudkd) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

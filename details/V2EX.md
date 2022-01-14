@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2022-01-14 13:54:12。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-01-14 14:12:06。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-01-14-同事在我开发完成后突然要求修改功能实现方式](https://www.v2ex.com/t/828337) 
+- [2022-01-14-Vivaldi-的翻译功能是不是崩了](https://www.v2ex.com/t/828336) 
 - [2022-01-14-请教-v-友们-这个-tcping-软件支持-arm-M1-吗-谢谢](https://www.v2ex.com/t/828335) 
 - [2022-01-14-如何关闭-IntelliJ-IDEA-启动时的切换本地化提示？](https://www.v2ex.com/t/828334) 
 - [2022-01-14-safari-切换标签掉帧？](https://www.v2ex.com/t/828333) 
@@ -39,5 +41,3 @@
 - [2022-01-14-Windows-Server-2022-安装-2022-01-补丁后系统反复重启，杯具了](https://www.v2ex.com/t/828293) 
 - [2022-01-14-仿照-摸鱼软件-loaf-做个了-web-版的](https://www.v2ex.com/t/828292) 
 - [2022-01-14-关于-Tg_Bot-通过-Python-后端远程连接到汽车远控](https://www.v2ex.com/t/828291) 
-- [2022-01-14-chfs-文件服务器，怎么通过命令行上传文件夹？](https://www.v2ex.com/t/828287) 
-- [2022-01-14-求推荐一个支持-HDMI-4k/60-fps-的-type-c-拓展坞](https://www.v2ex.com/t/828286) 

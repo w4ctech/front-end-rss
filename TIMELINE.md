@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-01-14 09:13:44。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-01-14 09:23:37。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -159,6 +159,8 @@
 - [【张鑫旭-鑫空间-鑫生活】2022-01-11-还有完没完，怎么又来了个-scrollbar-gutter？](https://www.zhangxinxu.com/wordpress/2022/01/css-scrollbar-gutter/) 
 - [【阮一峰的网络日志】2022-01-14-科技爱好者周刊（第-192-期）：最大的机会来自新技术](http://www.ruanyifeng.com/blog/2022/01/weekly-issue-192.html) 
 - [【阮一峰的网络日志】2022-01-07-科技爱好者周刊（第-191-期）：一个程序员的财务独立之路](http://www.ruanyifeng.com/blog/2022/01/weekly-issue-191.html) 
+- [【V2EX】2022-01-14-chfs-文件服务器，怎么通过命令行上传文件夹？](https://www.v2ex.com/t/828287) 
+- [【V2EX】2022-01-14-求推荐一个支持-HDMI-4k/60-fps-的-type-c-拓展坞](https://www.v2ex.com/t/828286) 
 - [【V2EX】2022-01-14-家庭自用彩色打印机选择](https://www.v2ex.com/t/828285) 
 - [【V2EX】2022-01-14-杭州-杭州独角兽-Java-急招](https://www.v2ex.com/t/828283) 
 - [【V2EX】2022-01-14-彦祖们，有推荐的直面屏手机么？](https://www.v2ex.com/t/828281) 
@@ -190,8 +192,6 @@
 - [【V2EX】2022-01-14-关于-scapy-抓包的问题](https://www.v2ex.com/t/828244) 
 - [【V2EX】2022-01-14-有没有不需要-25-端口的自建电子邮箱系统](https://www.v2ex.com/t/828240) 
 - [【V2EX】2022-01-14-冬日静电破坏+1，求推荐充电器，多口充电](https://www.v2ex.com/t/828239) 
-- [【V2EX】2022-01-14-一个阿里云买的域名，国内-reset](https://www.v2ex.com/t/828237) 
-- [【V2EX】2022-01-14-chrome-自动跳到-https，求助。](https://www.v2ex.com/t/828236) 
 - [【技术头条】2022-01-14-Python-Type-Hints-从入门到实践-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=14897&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F424042902%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-01-14-一文读懂浏览器存储与缓存机制-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=14896&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F422666602%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-01-14-如何交接复杂的遗留系统？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14895&url=https%3A%2F%2Finsights.thoughtworks.cn%2Flegacy-system-handover%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -221,8 +221,8 @@
 - [【开发者头条】2022-01-14-基于etcd实现大规模服务治理应用实战](https://toutiao.io/k/dx6dcgu) 
 - [【开发者头条】2022-01-14-DSTC10开放领域对话评估比赛冠军方法总结](https://toutiao.io/k/bw8obkv) 
 - [【开发者头条】2022-01-14-80抽猫狗湿巾加送2包便携装，只需8.9元！](https://toutiao.io/k/a3lukt7) 
-- [【开发者头条】2022-01-14-干货-|-基于-BDD-理念的-UI-自动化测试在携程度假的应用](https://toutiao.io/k/nqlrpee) 
 - [【开发者头条】2022-01-14-18张图，详解SpringBoot解析yml全流程](https://toutiao.io/k/4v1pi0z) 
+- [【开发者头条】2022-01-14-干货-|-基于-BDD-理念的-UI-自动化测试在携程度假的应用](https://toutiao.io/k/nqlrpee) 
 - [【开发者头条】2022-01-14-简述C#中应用程序集的装载过程](https://toutiao.io/k/o2v6z2o) 
 - [【开发者头条】2022-01-14-微服务拆分之道](https://toutiao.io/k/jjclagb) 
 - [【开发者头条】2022-01-14-Java依赖冲突高效解决之道](https://toutiao.io/k/mfc7ots) 
@@ -231,15 +231,15 @@
 - [【开发者头条】2022-01-14-独立开发变现周刊（第37期）：一个博客网站，2年后卖了1亿美金](https://toutiao.io/k/lhr8dz7) 
 - [【开发者头条】2022-01-14-品读linux-0.10核心源代码](https://toutiao.io/k/06hrght) 
 - [【开发者头条】2022-01-14-数仓指标一致性](https://toutiao.io/k/loey0se) 
-- [【开发者头条】2022-01-14-推荐-再见了-VMware，一款更轻量级的虚拟机！](https://toutiao.io/k/xw2lnva) 
-- [【开发者头条】2022-01-14-推荐-非常哇塞的-ES读场景、写场景-性能优化指南！你值得拥有！](https://toutiao.io/k/5pjb28q) 
-- [【开发者头条】2022-01-14-推荐-2022新年伊始，送你百篇干货文章](https://toutiao.io/k/kchudkd) 
 - [【开发者头条】2022-01-14-推荐-2021年美团技术团队最受欢迎的22篇技术文章](https://toutiao.io/k/pjse55y) 
 - [【开发者头条】2022-01-14-推荐-网络编程怎么做才算是优雅？](https://toutiao.io/k/zylzzpi) 
-- [【开发者头条】2022-01-14-推荐-偷天换日，用-JavaAgent-欺骗你的-JVM](https://toutiao.io/k/cah22k5) 
 - [【开发者头条】2022-01-14-推荐-从零打造-Instagram](https://toutiao.io/k/hufqvji) 
-- [【开发者头条】2022-01-14-推荐-用规则引擎让你一天上线十个需求](https://toutiao.io/k/ldd1cse) 
 - [【开发者头条】2022-01-14-推荐-缓存一致性最佳实践](https://toutiao.io/k/ymscqc1) 
+- [【开发者头条】2022-01-14-推荐-偷天换日，用-JavaAgent-欺骗你的-JVM](https://toutiao.io/k/cah22k5) 
+- [【开发者头条】2022-01-14-推荐-2022新年伊始，送你百篇干货文章](https://toutiao.io/k/kchudkd) 
+- [【开发者头条】2022-01-14-推荐-再见了-VMware，一款更轻量级的虚拟机！](https://toutiao.io/k/xw2lnva) 
+- [【开发者头条】2022-01-14-推荐-非常哇塞的-ES读场景、写场景-性能优化指南！你值得拥有！](https://toutiao.io/k/5pjb28q) 
+- [【开发者头条】2022-01-14-推荐-用规则引擎让你一天上线十个需求](https://toutiao.io/k/ldd1cse) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

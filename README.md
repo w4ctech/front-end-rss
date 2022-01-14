@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-14 09:45:33，:rocket: 更新条数: +1746， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-14 09:57:52，:rocket: 更新条数: +1746， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,8 @@
 </summary>
 
 
+- [2022-01-14-第一次买-macbook-有什么需要注意的吗](https://www.v2ex.com/t/828296) ![](assets/new.png)  
+- [2022-01-14-有关-winudf.com-的信息](https://www.v2ex.com/t/828295) ![](assets/new.png)  
 - [2022-01-14-有没有设计成多个引擎的数据库？](https://www.v2ex.com/t/828294) ![](assets/new.png)  
 - [2022-01-14-Windows-Server-2022-安装-2022-01-补丁后系统反复重启，杯具了](https://www.v2ex.com/t/828293) ![](assets/new.png)  
 - [2022-01-14-仿照-摸鱼软件-loaf-做个了-web-版的](https://www.v2ex.com/t/828292) ![](assets/new.png)  
@@ -512,8 +514,6 @@
 - [2022-01-14-hr-最终面试，问之前薪资多少，漏嘴说高了，要求提供前公司薪资带转账单号证明](https://www.v2ex.com/t/828271) ![](assets/new.png)  
 - [2022-01-14-外挂厂商宣布不再更新《战地-2042》外挂程序](https://www.v2ex.com/t/828270) ![](assets/new.png)  
 - [2022-01-14-请问-Linux-如何实现从存储-A-目录拷贝文件到存储-B-目录-流量不走客户端本地中转](https://www.v2ex.com/t/828269) ![](assets/new.png)  
-- [2022-01-14-iCloud+的域名邮箱可以用二级域名吗？](https://www.v2ex.com/t/828268) ![](assets/new.png)  
-- [2022-01-14-maven-多模块项目打包问题，求大佬指点下](https://www.v2ex.com/t/828267) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -564,18 +564,18 @@
 - [2022-01-14-CNN卷土重来！超越Transformer！FAIR重新设计纯卷积架构：ConvNeXt](https://toutiao.io/k/5fodbg0) ![](assets/new.png)  
 - [2022-01-14-基于etcd实现大规模服务治理应用实战](https://toutiao.io/k/dx6dcgu) ![](assets/new.png)  
 - [2022-01-14-DSTC10开放领域对话评估比赛冠军方法总结](https://toutiao.io/k/bw8obkv) ![](assets/new.png)  
-- [2022-01-14-80抽猫狗湿巾加送2包便携装，只需8.9元！](https://toutiao.io/k/a3lukt7) ![](assets/new.png)  
 - [2022-01-14-18张图，详解SpringBoot解析yml全流程](https://toutiao.io/k/4v1pi0z) ![](assets/new.png)  
+- [2022-01-14-80抽猫狗湿巾加送2包便携装，只需8.9元！](https://toutiao.io/k/a3lukt7) ![](assets/new.png)  
 - [2022-01-14-干货-|-基于-BDD-理念的-UI-自动化测试在携程度假的应用](https://toutiao.io/k/nqlrpee) ![](assets/new.png)  
-- [2022-01-14-简述C#中应用程序集的装载过程](https://toutiao.io/k/o2v6z2o) ![](assets/new.png)  
 - [2022-01-14-Java依赖冲突高效解决之道](https://toutiao.io/k/mfc7ots) ![](assets/new.png)  
+- [2022-01-14-简述C#中应用程序集的装载过程](https://toutiao.io/k/o2v6z2o) ![](assets/new.png)  
 - [2022-01-14-微服务拆分之道](https://toutiao.io/k/jjclagb) ![](assets/new.png)  
 - [2022-01-14-关于项目中-Repository-层的思考](https://toutiao.io/k/nbik1ek) ![](assets/new.png)  
 - [2022-01-14-设计模式系列——桥接模式](https://toutiao.io/k/pgszonz) ![](assets/new.png)  
 - [2022-01-14-独立开发变现周刊（第37期）：一个博客网站，2年后卖了1亿美金](https://toutiao.io/k/lhr8dz7) ![](assets/new.png)  
 - [2022-01-14-品读linux-0.10核心源代码](https://toutiao.io/k/06hrght) ![](assets/new.png)  
 - [2022-01-14-数仓指标一致性](https://toutiao.io/k/loey0se) ![](assets/new.png)  
-- [2022-01-14-推荐-偷天换日，用-JavaAgent-欺骗你的-JVM](https://toutiao.io/k/cah22k5) ![](assets/new.png)  
+- [2022-01-14-推荐-再见了-VMware，一款更轻量级的虚拟机！](https://toutiao.io/k/xw2lnva) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-14 15:13:54，:rocket: 更新条数: +1753， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-14 15:23:54，:rocket: 更新条数: +1753， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,7 @@
 </summary>
 
 
+- [2022-01-14-3000-以内能收到全新的-iPhone11-吗-或者还有别的什么渠道](https://www.v2ex.com/t/828351) ![](assets/new.png)  
 - [2022-01-14-怎么看广州新闻回放？](https://www.v2ex.com/t/828350) ![](assets/new.png)  
 - [2022-01-14-记一次-2022-年元旦的美丽邂逅](https://www.v2ex.com/t/828349) ![](assets/new.png)  
 - [2022-01-14-Google-彩蛋：雪怪钓鱼](https://www.v2ex.com/t/828348) ![](assets/new.png)  
@@ -513,7 +514,6 @@
 - [2022-01-14-大家今年都回家吗?](https://www.v2ex.com/t/828329) ![](assets/new.png)  
 - [2022-01-14-高铁-wifi，星巴克-wifi-的验证原理](https://www.v2ex.com/t/828327) ![](assets/new.png)  
 - [2022-01-14-用-Wordpress-做的网站突然打不开，有偿求解答](https://www.v2ex.com/t/828325) ![](assets/new.png)  
-- [2022-01-14-Python-有-GIL-锁多线程环境是否不会出现可见性的问题？](https://www.v2ex.com/t/828322) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -565,17 +565,17 @@
 - [2022-01-14-基于事件驱动架构构建微服务第16部分：Azure-Active-Directory-B2C](https://toutiao.io/k/fydxo29) ![](assets/new.png)  
 - [2022-01-14-CNN卷土重来！超越Transformer！FAIR重新设计纯卷积架构：ConvNeXt](https://toutiao.io/k/5fodbg0) ![](assets/new.png)  
 - [2022-01-14-Java依赖冲突高效解决之道](https://toutiao.io/k/mfc7ots) ![](assets/new.png)  
-- [2022-01-14-DSTC10开放领域对话评估比赛冠军方法总结](https://toutiao.io/k/bw8obkv) ![](assets/new.png)  
 - [2022-01-14-关于项目中-Repository-层的思考](https://toutiao.io/k/nbik1ek) ![](assets/new.png)  
+- [2022-01-14-DSTC10开放领域对话评估比赛冠军方法总结](https://toutiao.io/k/bw8obkv) ![](assets/new.png)  
 - [2022-01-14-设计模式系列——桥接模式](https://toutiao.io/k/pgszonz) ![](assets/new.png)  
-- [2022-01-14-干货-|-基于-BDD-理念的-UI-自动化测试在携程度假的应用](https://toutiao.io/k/nqlrpee) ![](assets/new.png)  
 - [2022-01-14-微服务拆分之道](https://toutiao.io/k/jjclagb) ![](assets/new.png)  
+- [2022-01-14-干货-|-基于-BDD-理念的-UI-自动化测试在携程度假的应用](https://toutiao.io/k/nqlrpee) ![](assets/new.png)  
 - [2022-01-14-独立开发变现周刊（第37期）：一个博客网站，2年后卖了1亿美金](https://toutiao.io/k/lhr8dz7) ![](assets/new.png)  
 - [2022-01-14-80抽猫狗湿巾加送2包便携装，只需8.9元！](https://toutiao.io/k/a3lukt7) ![](assets/new.png)  
 - [2022-01-14-品读linux-0.10核心源代码](https://toutiao.io/k/06hrght) ![](assets/new.png)  
 - [2022-01-14-简述C#中应用程序集的装载过程](https://toutiao.io/k/o2v6z2o) ![](assets/new.png)  
 - [2022-01-14-数仓指标一致性](https://toutiao.io/k/loey0se) ![](assets/new.png)  
-- [2022-01-14-推荐-非常哇塞的-ES读场景、写场景-性能优化指南！你值得拥有！](https://toutiao.io/k/5pjb28q) ![](assets/new.png)  
+- [2022-01-14-推荐-缓存一致性最佳实践](https://toutiao.io/k/ymscqc1) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

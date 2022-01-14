@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-14 13:13:45，:rocket: 更新条数: +1750， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-14 13:27:58，:rocket: 更新条数: +1751， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,8 @@
 </summary>
 
 
+- [2022-01-14-safari-切换标签掉帧？](https://www.v2ex.com/t/828333) ![](assets/new.png)  
+- [2022-01-14-关于单臂路由，重启-wan-口或重启单臂路由，导致-client-获取多个-v6，不能联网问题。](https://www.v2ex.com/t/828332) ![](assets/new.png)  
 - [2022-01-14-如何合并远程分支中的多个-commit](https://www.v2ex.com/t/828330) ![](assets/new.png)  
 - [2022-01-14-大家今年都回家吗?](https://www.v2ex.com/t/828329) ![](assets/new.png)  
 - [2022-01-14-高铁-wifi，星巴克-wifi-的验证原理](https://www.v2ex.com/t/828327) ![](assets/new.png)  
@@ -512,8 +514,6 @@
 - [2022-01-14-关于浏览器-隐私书签-，你有什么需求吗？](https://www.v2ex.com/t/828308) ![](assets/new.png)  
 - [2022-01-14-关于《Atomic-Habits》和我的一些思考](https://www.v2ex.com/t/828307) ![](assets/new.png)  
 - [2022-01-14-笑死-腾讯兔小巢这样发邮件](https://www.v2ex.com/t/828306) ![](assets/new.png)  
-- [2022-01-14-大家好,-请问-tg-的滑动按钮-有快捷键吗](https://www.v2ex.com/t/828304) ![](assets/new.png)  
-- [2022-01-14-迷茫期，新公司，每天工作很少写代码](https://www.v2ex.com/t/828303) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -560,8 +560,8 @@
 - [2022-01-14-美团实时数仓架构演进与建设实践](https://toutiao.io/k/3luzmvf) ![](assets/new.png)  
 - [2022-01-14-深度好文｜实时数仓不用愁，StarRocks+Flink-来解忧！](https://toutiao.io/k/wklhvr1) ![](assets/new.png)  
 - [2022-01-14-leo：从工程化角度出发的脚手架开源工具](https://toutiao.io/k/caqw3rq) ![](assets/new.png)  
-- [2022-01-14-基于事件驱动架构构建微服务第16部分：Azure-Active-Directory-B2C](https://toutiao.io/k/fydxo29) ![](assets/new.png)  
 - [2022-01-14-基于etcd实现大规模服务治理应用实战](https://toutiao.io/k/dx6dcgu) ![](assets/new.png)  
+- [2022-01-14-基于事件驱动架构构建微服务第16部分：Azure-Active-Directory-B2C](https://toutiao.io/k/fydxo29) ![](assets/new.png)  
 - [2022-01-14-CNN卷土重来！超越Transformer！FAIR重新设计纯卷积架构：ConvNeXt](https://toutiao.io/k/5fodbg0) ![](assets/new.png)  
 - [2022-01-14-18张图，详解SpringBoot解析yml全流程](https://toutiao.io/k/4v1pi0z) ![](assets/new.png)  
 - [2022-01-14-DSTC10开放领域对话评估比赛冠军方法总结](https://toutiao.io/k/bw8obkv) ![](assets/new.png)  
@@ -575,7 +575,7 @@
 - [2022-01-14-简述C#中应用程序集的装载过程](https://toutiao.io/k/o2v6z2o) ![](assets/new.png)  
 - [2022-01-14-品读linux-0.10核心源代码](https://toutiao.io/k/06hrght) ![](assets/new.png)  
 - [2022-01-14-数仓指标一致性](https://toutiao.io/k/loey0se) ![](assets/new.png)  
-- [2022-01-14-推荐-2021年美团技术团队最受欢迎的22篇技术文章](https://toutiao.io/k/pjse55y) ![](assets/new.png)  
+- [2022-01-14-推荐-再见了-VMware，一款更轻量级的虚拟机！](https://toutiao.io/k/xw2lnva) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

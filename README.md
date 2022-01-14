@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-14 08:15:52，:rocket: 更新条数: +1744， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-14 08:28:06，:rocket: 更新条数: +1745， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,7 @@
 </summary>
 
 
+- [2022-01-14-请各位老师推荐一些机器学习云平台](https://www.v2ex.com/t/828276) ![](assets/new.png)  
 - [2022-01-14-外包真难受啊](https://www.v2ex.com/t/828275) ![](assets/new.png)  
 - [2022-01-14-北京/上海-MIT-博士胡渊鸣创业项目-太极图形-2022-社招最新职位：-DevOps/前端/后端/流媒体/编译器/分布式系统工程师等-公司已获得红杉资本等顶级风险投资机...](https://www.v2ex.com/t/828274) ![](assets/new.png)  
 - [2022-01-14-求助！怎么能看-red-hat-的文章？](https://www.v2ex.com/t/828272) ![](assets/new.png)  
@@ -513,7 +514,6 @@
 - [2022-01-14-为什么运营商和国家不强制推出统一短信电话朋友圈公众号小程序的-APP-呢？](https://www.v2ex.com/t/828252) ![](assets/new.png)  
 - [2022-01-14-请教大佬一个不同网段组网的问题，能解决的话-20-红包感谢](https://www.v2ex.com/t/828251) ![](assets/new.png)  
 - [2022-01-14-EPIC-喜加一，《银河文明-III》限时免费](https://www.v2ex.com/t/828249) ![](assets/new.png)  
-- [2022-01-14-MBP-2021-充电时风扇狂转](https://www.v2ex.com/t/828247) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -573,9 +573,9 @@
 - [2022-01-14-关于项目中-Repository-层的思考](https://toutiao.io/k/nbik1ek) ![](assets/new.png)  
 - [2022-01-14-设计模式系列——桥接模式](https://toutiao.io/k/pgszonz) ![](assets/new.png)  
 - [2022-01-14-独立开发变现周刊（第37期）：一个博客网站，2年后卖了1亿美金](https://toutiao.io/k/lhr8dz7) ![](assets/new.png)  
-- [2022-01-14-数仓指标一致性](https://toutiao.io/k/loey0se) ![](assets/new.png)  
 - [2022-01-14-品读linux-0.10核心源代码](https://toutiao.io/k/06hrght) ![](assets/new.png)  
-- [2022-01-14-推荐-缓存一致性最佳实践](https://toutiao.io/k/ymscqc1) ![](assets/new.png)  
+- [2022-01-14-数仓指标一致性](https://toutiao.io/k/loey0se) ![](assets/new.png)  
+- [2022-01-14-推荐-偷天换日，用-JavaAgent-欺骗你的-JVM](https://toutiao.io/k/cah22k5) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

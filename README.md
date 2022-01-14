@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-14 01:14:35，:rocket: 更新条数: +1733， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-14 02:06:00，:rocket: 更新条数: +1742， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,15 @@
 </summary>
 
 
+- [2022-01-14-我又被电信忽悠了](https://www.v2ex.com/t/828159) ![](assets/new.png)  
+- [2022-01-14-edge-右键收藏夹无响应](https://www.v2ex.com/t/828158) ![](assets/new.png)  
+- [2022-01-14-用京粉薅羊毛的同学注意了，现在-App-提现要签一个授权书，里面附带了一个-5-年的劳务协议](https://www.v2ex.com/t/828157) ![](assets/new.png)  
+- [2022-01-14-有没有什么拍照-sdk](https://www.v2ex.com/t/828156) ![](assets/new.png)  
+- [2022-01-14-分享一个自己开发的，自用的-javascript-log-工具](https://www.v2ex.com/t/828155) ![](assets/new.png)  
+- [2022-01-14-为什么王幕霸的队友都不敢怪他](https://www.v2ex.com/t/828154) ![](assets/new.png)  
+- [2022-01-14-QQ-占用快捷键好烦](https://www.v2ex.com/t/828152) ![](assets/new.png)  
+- [2022-01-14-关于-HashMap-TreeNode](https://www.v2ex.com/t/828151) ![](assets/new.png)  
+- [2022-01-14-迫于过年回村，有随身/移动-wifi-推荐的吗？只用-1-个月的那种](https://www.v2ex.com/t/828150) ![](assets/new.png)  
 - [2022-01-14-mba-M1，有些程序不知不觉退出是什么原因？](https://www.v2ex.com/t/828147) ![](assets/new.png)  
 - [2022-01-14-2022-年了，终于身边的朋友开始相信-“5G-并没有什么作用”但是他们还是不相信“5G-浪费了大量纳税人的钱”](https://www.v2ex.com/t/828145) ![](assets/new.png)  
 - [2022-01-14-知乎首页那些-盲盒、兼职、薅羊毛的文章和回答，都是付费了才这么靠前么？](https://www.v2ex.com/t/828144) ![](assets/new.png)  
@@ -505,15 +514,6 @@
 - [2022-01-13-换了个-CPU，到现在……](https://www.v2ex.com/t/828137) ![](assets/new.png)  
 - [2022-01-13-inline-不能修饰一个全局函数呗？](https://www.v2ex.com/t/828136) ![](assets/new.png)  
 - [2022-01-13-深圳/北京字节抖音后端/服务端内推HC-充足](https://www.v2ex.com/t/828135) ![](assets/new.png)  
-- [2022-01-13-有咩有什么批量替换视频背景音乐的软件](https://www.v2ex.com/t/828134) ![](assets/new.png)  
-- [2022-01-13-算是见识到微信客服的下限了](https://www.v2ex.com/t/828132) ![](assets/new.png)  
-- [2022-01-13-高性能-C++国内有哪些好的工作方向？](https://www.v2ex.com/t/828131) ![](assets/new.png)  
-- [2022-01-13-三节五号电池的体重秤-改装无线充电方式，用-5w-的无线充发射接收模块，会有影响么？](https://www.v2ex.com/t/828130) ![](assets/new.png)  
-- [2022-01-13-如何理解分布式和集群的区别？](https://www.v2ex.com/t/828129) ![](assets/new.png)  
-- [2022-01-13-HomePod-mini-播放逻辑实在搞不明白](https://www.v2ex.com/t/828128) ![](assets/new.png)  
-- [2022-01-13-安装-nginx_upstream_check_module-模块后检查生效但是轮询失败了？](https://www.v2ex.com/t/828126) ![](assets/new.png)  
-- [2022-01-13-分享下我的独立开发日记-04](https://www.v2ex.com/t/828124) ![](assets/new.png)  
-- [2022-01-13-QT-界面，如何实现随电脑百分比放大，自动缩放](https://www.v2ex.com/t/828123) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -562,15 +562,20 @@
 - [2022-01-14-CNN卷土重来！超越Transformer！FAIR重新设计纯卷积架构：ConvNeXt](https://toutiao.io/k/5fodbg0) ![](assets/new.png)  
 - [2022-01-14-深度好文｜实时数仓不用愁，StarRocks+Flink-来解忧！](https://toutiao.io/k/wklhvr1) ![](assets/new.png)  
 - [2022-01-14-80抽猫狗湿巾加送2包便携装，只需8.9元！](https://toutiao.io/k/a3lukt7) ![](assets/new.png)  
-- [2022-01-14-推荐-网络编程怎么做才算是优雅？](https://toutiao.io/k/zylzzpi) ![](assets/new.png)  
-- [2022-01-14-推荐-从零打造-Instagram](https://toutiao.io/k/hufqvji) ![](assets/new.png)  
-- [2022-01-14-推荐-缓存一致性最佳实践](https://toutiao.io/k/ymscqc1) ![](assets/new.png)  
-- [2022-01-14-推荐-再见了-VMware，一款更轻量级的虚拟机！](https://toutiao.io/k/xw2lnva) ![](assets/new.png)  
-- [2022-01-14-推荐-2022新年伊始，送你百篇干货文章](https://toutiao.io/k/kchudkd) ![](assets/new.png)  
-- [2022-01-14-推荐-非常哇塞的-ES读场景、写场景-性能优化指南！你值得拥有！](https://toutiao.io/k/5pjb28q) ![](assets/new.png)  
-- [2022-01-14-推荐-2021年美团技术团队最受欢迎的22篇技术文章](https://toutiao.io/k/pjse55y) ![](assets/new.png)  
-- [2022-01-14-推荐-偷天换日，用-JavaAgent-欺骗你的-JVM](https://toutiao.io/k/cah22k5) ![](assets/new.png)  
+- [2022-01-14-DSTC10开放领域对话评估比赛冠军方法总结](https://toutiao.io/k/bw8obkv) ![](assets/new.png)  
+- [2022-01-14-一名Vue程序员总结的React基础](https://toutiao.io/k/tgyvmn6) ![](assets/new.png)  
+- [2022-01-14-基于etcd实现大规模服务治理应用实战](https://toutiao.io/k/dx6dcgu) ![](assets/new.png)  
+- [2022-01-14-LitmusChaos升级成为CNCF的孵化项目](https://toutiao.io/k/hgcl6io) ![](assets/new.png)  
+- [2022-01-14-微信已支持数字人民币支付!](https://toutiao.io/k/2mc2hty) ![](assets/new.png)  
+- [2022-01-14-简述C#中应用程序集的装载过程](https://toutiao.io/k/o2v6z2o) ![](assets/new.png)  
+- [2022-01-14-干货-|-基于-BDD-理念的-UI-自动化测试在携程度假的应用](https://toutiao.io/k/nqlrpee) ![](assets/new.png)  
+- [2022-01-14-leo：从工程化角度出发的脚手架开源工具](https://toutiao.io/k/caqw3rq) ![](assets/new.png)  
 - [2022-01-14-推荐-用规则引擎让你一天上线十个需求](https://toutiao.io/k/ldd1cse) ![](assets/new.png)  
+- [2022-01-14-推荐-网络编程怎么做才算是优雅？](https://toutiao.io/k/zylzzpi) ![](assets/new.png)  
+- [2022-01-14-推荐-再见了-VMware，一款更轻量级的虚拟机！](https://toutiao.io/k/xw2lnva) ![](assets/new.png)  
+- [2022-01-14-推荐-从零打造-Instagram](https://toutiao.io/k/hufqvji) ![](assets/new.png)  
+- [2022-01-14-推荐-2021年美团技术团队最受欢迎的22篇技术文章](https://toutiao.io/k/pjse55y) ![](assets/new.png)  
+- [2022-01-14-推荐-缓存一致性最佳实践](https://toutiao.io/k/ymscqc1) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

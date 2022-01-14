@@ -1,12 +1,16 @@
-:alarm_clock: 更新时间: 2022-01-14 07:21:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-01-14 07:38:14。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-01-14-想到难以积累财富，对工作也失去了耐心](https://www.v2ex.com/t/828262) 
+- [2022-01-14-各位，-gentoo-在-emerge---ask---update---newuse---deep-@world-时候，如何取消不想继续安装的包？](https://www.v2ex.com/t/828261) 
+- [2022-01-14-诡异的-M1-mini-+-U2720Q-烧屏（图像残留）现象](https://www.v2ex.com/t/828260) 
+- [2022-01-14-是不是得去大厂卷几年，才能在广州买房？](https://www.v2ex.com/t/828257) 
+- [2022-01-14-有北美的同学在-StockX-上买过显卡么，这个网站靠谱么？](https://www.v2ex.com/t/828256) 
 - [2022-01-14-问个数据一致性的问题](https://www.v2ex.com/t/828255) 
-- [2022-01-14-太离谱了-写代码还搞这些。](https://www.v2ex.com/t/828254) 
 - [2022-01-14-git-操作命令行比界面有哪些优势呢？](https://www.v2ex.com/t/828253) 
 - [2022-01-14-为什么运营商和国家不强制推出统一短信电话朋友圈公众号小程序的-APP-呢？](https://www.v2ex.com/t/828252) 
 - [2022-01-14-请教大佬一个不同网段组网的问题，能解决的话-20-红包感谢](https://www.v2ex.com/t/828251) 
@@ -31,8 +35,3 @@
 - [2022-01-14-找人定做一套-tp-主题或者一套程序大概多少钱](https://www.v2ex.com/t/828218) 
 - [2022-01-14-微信广告评选投票最高可获得-6.66-元](https://www.v2ex.com/t/828215) 
 - [2022-01-14-一款用-Tauri-构建的开源跨平台-Redis-桌面客户端-BS-Redis-Desktop-Client](https://www.v2ex.com/t/828213) 
-- [2022-01-14-我竟然也遇到了发小借钱-有点难过](https://www.v2ex.com/t/828212) 
-- [2022-01-14-多人协作的-Swift-项目中，如何避免-Git-里-project.pbxproj-里的-DEVELOPMENT_TEAM-的值被覆盖？](https://www.v2ex.com/t/828211) 
-- [2022-01-14-上海：（aPaaS-Infra）应用开发架构师，-iOS、Android、Web、Windows](https://www.v2ex.com/t/828209) 
-- [2022-01-14-腾讯企业邮箱什么鬼？无法绑定微信](https://www.v2ex.com/t/828208) 
-- [2022-01-14-WSL2-遇到-ICS-服务莫名其妙停止，导致-DNS-解析出现问题](https://www.v2ex.com/t/828206) 

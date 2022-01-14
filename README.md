@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-14 07:21:24，:rocket: 更新条数: +1743， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-14 07:38:14，:rocket: 更新条数: +1742， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,8 +494,12 @@
 </summary>
 
 
+- [2022-01-14-想到难以积累财富，对工作也失去了耐心](https://www.v2ex.com/t/828262) ![](assets/new.png)  
+- [2022-01-14-各位，-gentoo-在-emerge---ask---update---newuse---deep-@world-时候，如何取消不想继续安装的包？](https://www.v2ex.com/t/828261) ![](assets/new.png)  
+- [2022-01-14-诡异的-M1-mini-+-U2720Q-烧屏（图像残留）现象](https://www.v2ex.com/t/828260) ![](assets/new.png)  
+- [2022-01-14-是不是得去大厂卷几年，才能在广州买房？](https://www.v2ex.com/t/828257) ![](assets/new.png)  
+- [2022-01-14-有北美的同学在-StockX-上买过显卡么，这个网站靠谱么？](https://www.v2ex.com/t/828256) ![](assets/new.png)  
 - [2022-01-14-问个数据一致性的问题](https://www.v2ex.com/t/828255) ![](assets/new.png)  
-- [2022-01-14-太离谱了-写代码还搞这些。](https://www.v2ex.com/t/828254) ![](assets/new.png)  
 - [2022-01-14-git-操作命令行比界面有哪些优势呢？](https://www.v2ex.com/t/828253) ![](assets/new.png)  
 - [2022-01-14-为什么运营商和国家不强制推出统一短信电话朋友圈公众号小程序的-APP-呢？](https://www.v2ex.com/t/828252) ![](assets/new.png)  
 - [2022-01-14-请教大佬一个不同网段组网的问题，能解决的话-20-红包感谢](https://www.v2ex.com/t/828251) ![](assets/new.png)  
@@ -510,10 +514,6 @@
 - [2022-01-14-chrome-自动跳到-https，求助。](https://www.v2ex.com/t/828236) ![](assets/new.png)  
 - [2022-01-14-docx-批量转出-pdf-格式有什么好办法吗？](https://www.v2ex.com/t/828232) ![](assets/new.png)  
 - [2022-01-14-分享一个-IPTV-爬虫](https://www.v2ex.com/t/828231) ![](assets/new.png)  
-- [2022-01-14-dell-2720q-和-2720qm-到底啥区别？](https://www.v2ex.com/t/828230) ![](assets/new.png)  
-- [2022-01-14-在现代的-macOS-上运行-Diablo-1，支持-16:9](https://www.v2ex.com/t/828229) ![](assets/new.png)  
-- [2022-01-14-云原生交流群（如何维护-Kubernetes-早期版本？如何检索多集群资源？）](https://www.v2ex.com/t/828228) ![](assets/new.png)  
-- [2022-01-14-屠龙术入门：毛选-1-7-卷-&-计划经济学](https://www.v2ex.com/t/828225) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

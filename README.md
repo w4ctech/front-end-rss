@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-14 10:58:28，:rocket: 更新条数: +1749， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-14 11:11:27，:rocket: 更新条数: +1749， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,7 @@
 </summary>
 
 
+- [2022-01-14-想问各位一套代码应用到几十个项目该怎么管理](https://www.v2ex.com/t/828310) ![](assets/new.png)  
 - [2022-01-14-关于浏览器-隐私书签-，你有什么需求吗？](https://www.v2ex.com/t/828308) ![](assets/new.png)  
 - [2022-01-14-关于《Atomic-Habits》和我的一些思考](https://www.v2ex.com/t/828307) ![](assets/new.png)  
 - [2022-01-14-笑死-腾讯兔小巢这样发邮件](https://www.v2ex.com/t/828306) ![](assets/new.png)  
@@ -513,7 +514,6 @@
 - [2022-01-14-求推荐一个支持-HDMI-4k/60-fps-的-type-c-拓展坞](https://www.v2ex.com/t/828286) ![](assets/new.png)  
 - [2022-01-14-家庭自用彩色打印机选择](https://www.v2ex.com/t/828285) ![](assets/new.png)  
 - [2022-01-14-杭州-杭州独角兽-Java-急招](https://www.v2ex.com/t/828283) ![](assets/new.png)  
-- [2022-01-14-彦祖们，有推荐的直面屏手机么？](https://www.v2ex.com/t/828281) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -575,7 +575,7 @@
 - [2022-01-14-独立开发变现周刊（第37期）：一个博客网站，2年后卖了1亿美金](https://toutiao.io/k/lhr8dz7) ![](assets/new.png)  
 - [2022-01-14-品读linux-0.10核心源代码](https://toutiao.io/k/06hrght) ![](assets/new.png)  
 - [2022-01-14-数仓指标一致性](https://toutiao.io/k/loey0se) ![](assets/new.png)  
-- [2022-01-14-推荐-网络编程怎么做才算是优雅？](https://toutiao.io/k/zylzzpi) ![](assets/new.png)  
+- [2022-01-14-推荐-用规则引擎让你一天上线十个需求](https://toutiao.io/k/ldd1cse) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

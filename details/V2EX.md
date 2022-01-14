@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2022-01-14 10:58:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-01-14 11:11:27。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-01-14-想问各位一套代码应用到几十个项目该怎么管理](https://www.v2ex.com/t/828310) 
 - [2022-01-14-关于浏览器-隐私书签-，你有什么需求吗？](https://www.v2ex.com/t/828308) 
 - [2022-01-14-关于《Atomic-Habits》和我的一些思考](https://www.v2ex.com/t/828307) 
 - [2022-01-14-笑死-腾讯兔小巢这样发邮件](https://www.v2ex.com/t/828306) 
@@ -39,4 +40,3 @@
 - [2022-01-14-你们开发会考虑用户的存储空间吗？](https://www.v2ex.com/t/828265) 
 - [2022-01-14-想到难以积累财富，对工作也失去了耐心](https://www.v2ex.com/t/828262) 
 - [2022-01-14-各位，-gentoo-在-emerge---ask---update---newuse---deep-@world-时候，如何取消不想继续安装的包？](https://www.v2ex.com/t/828261) 
-- [2022-01-14-诡异的-M1-mini-+-U2720Q-烧屏（图像残留）现象](https://www.v2ex.com/t/828260) 

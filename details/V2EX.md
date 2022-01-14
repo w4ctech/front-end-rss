@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2022-01-14 13:39:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-01-14 13:44:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-01-14-如何关闭-IntelliJ-IDEA-启动时的切换本地化提示？](https://www.v2ex.com/t/828334) 
 - [2022-01-14-safari-切换标签掉帧？](https://www.v2ex.com/t/828333) 
 - [2022-01-14-关于单臂路由，重启-wan-口或重启单臂路由，导致-client-获取多个-v6，不能联网问题。](https://www.v2ex.com/t/828332) 
 - [2022-01-14-如何合并远程分支中的多个-commit](https://www.v2ex.com/t/828330) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-14 13:39:22，:rocket: 更新条数: +1751， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-14 13:44:23，:rocket: 更新条数: +1752， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,7 @@
 </summary>
 
 
+- [2022-01-14-如何关闭-IntelliJ-IDEA-启动时的切换本地化提示？](https://www.v2ex.com/t/828334) ![](assets/new.png)  
 - [2022-01-14-safari-切换标签掉帧？](https://www.v2ex.com/t/828333) ![](assets/new.png)  
 - [2022-01-14-关于单臂路由，重启-wan-口或重启单臂路由，导致-client-获取多个-v6，不能联网问题。](https://www.v2ex.com/t/828332) ![](assets/new.png)  
 - [2022-01-14-如何合并远程分支中的多个-commit](https://www.v2ex.com/t/828330) ![](assets/new.png)  
@@ -513,7 +514,6 @@
 - [2022-01-14-想问各位一套代码应用到几十个项目该怎么管理](https://www.v2ex.com/t/828310) ![](assets/new.png)  
 - [2022-01-14-关于浏览器-隐私书签-，你有什么需求吗？](https://www.v2ex.com/t/828308) ![](assets/new.png)  
 - [2022-01-14-关于《Atomic-Habits》和我的一些思考](https://www.v2ex.com/t/828307) ![](assets/new.png)  
-- [2022-01-14-笑死-腾讯兔小巢这样发邮件](https://www.v2ex.com/t/828306) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

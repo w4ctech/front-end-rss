@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-01-14 13:39:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-01-14 13:44:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1637,6 +1637,7 @@
 - [2022-01-14-科技爱好者周刊（第-192-期）：最大的机会来自新技术](http://www.ruanyifeng.com/blog/2022/01/weekly-issue-192.html) 
 - [2022-01-07-科技爱好者周刊（第-191-期）：一个程序员的财务独立之路](http://www.ruanyifeng.com/blog/2022/01/weekly-issue-191.html) 
 - [2021-12-31-科技爱好者周刊（第-190-期）：产品化思维](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-190.html) 
+- [2022-01-14-如何关闭-IntelliJ-IDEA-启动时的切换本地化提示？](https://www.v2ex.com/t/828334) 
 - [2022-01-14-如何合并远程分支中的多个-commit](https://www.v2ex.com/t/828330) 
 - [2022-01-14-大家今年都回家吗?](https://www.v2ex.com/t/828329) 
 - [2022-01-14-高铁-wifi，星巴克-wifi-的验证原理](https://www.v2ex.com/t/828327) 

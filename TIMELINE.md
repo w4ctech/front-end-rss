@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-01-14 13:39:22。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-01-14 13:44:23。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -163,6 +163,7 @@
 - [【张鑫旭-鑫空间-鑫生活】2022-01-11-还有完没完，怎么又来了个-scrollbar-gutter？](https://www.zhangxinxu.com/wordpress/2022/01/css-scrollbar-gutter/) 
 - [【阮一峰的网络日志】2022-01-14-科技爱好者周刊（第-192-期）：最大的机会来自新技术](http://www.ruanyifeng.com/blog/2022/01/weekly-issue-192.html) 
 - [【阮一峰的网络日志】2022-01-07-科技爱好者周刊（第-191-期）：一个程序员的财务独立之路](http://www.ruanyifeng.com/blog/2022/01/weekly-issue-191.html) 
+- [【V2EX】2022-01-14-如何关闭-IntelliJ-IDEA-启动时的切换本地化提示？](https://www.v2ex.com/t/828334) 
 - [【V2EX】2022-01-14-safari-切换标签掉帧？](https://www.v2ex.com/t/828333) 
 - [【V2EX】2022-01-14-关于单臂路由，重启-wan-口或重启单臂路由，导致-client-获取多个-v6，不能联网问题。](https://www.v2ex.com/t/828332) 
 - [【V2EX】2022-01-14-如何合并远程分支中的多个-commit](https://www.v2ex.com/t/828330) 

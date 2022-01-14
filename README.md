@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-14 07:41:33，:rocket: 更新条数: +1742， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-14 07:54:54，:rocket: 更新条数: +1744， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,12 @@
 </summary>
 
 
+- [2022-01-14-外挂厂商宣布不再更新《战地-2042》外挂程序](https://www.v2ex.com/t/828270) ![](assets/new.png)  
+- [2022-01-14-请问-Linux-如何实现从存储-A-目录拷贝文件到存储-B-目录-流量不走客户端本地中转](https://www.v2ex.com/t/828269) ![](assets/new.png)  
+- [2022-01-14-iCloud+的域名邮箱可以用二级域名吗？](https://www.v2ex.com/t/828268) ![](assets/new.png)  
+- [2022-01-14-maven-多模块项目打包问题，求大佬指点下](https://www.v2ex.com/t/828267) ![](assets/new.png)  
+- [2022-01-14-部分网站会跳转到国家反诈中心网页了](https://www.v2ex.com/t/828266) ![](assets/new.png)  
+- [2022-01-14-你们开发会考虑用户的存储空间吗？](https://www.v2ex.com/t/828265) ![](assets/new.png)  
 - [2022-01-14-想到难以积累财富，对工作也失去了耐心](https://www.v2ex.com/t/828262) ![](assets/new.png)  
 - [2022-01-14-各位，-gentoo-在-emerge---ask---update---newuse---deep-@world-时候，如何取消不想继续安装的包？](https://www.v2ex.com/t/828261) ![](assets/new.png)  
 - [2022-01-14-诡异的-M1-mini-+-U2720Q-烧屏（图像残留）现象](https://www.v2ex.com/t/828260) ![](assets/new.png)  
@@ -508,12 +514,6 @@
 - [2022-01-14-为什么最近流行“迫于-xxx”呢](https://www.v2ex.com/t/828246) ![](assets/new.png)  
 - [2022-01-14-拒绝-996，-WLB-965-新加坡-FinTech-公司-thunes，上海-Technical-Support-岗位，-居家办公](https://www.v2ex.com/t/828245) ![](assets/new.png)  
 - [2022-01-14-关于-scapy-抓包的问题](https://www.v2ex.com/t/828244) ![](assets/new.png)  
-- [2022-01-14-有没有不需要-25-端口的自建电子邮箱系统](https://www.v2ex.com/t/828240) ![](assets/new.png)  
-- [2022-01-14-冬日静电破坏+1，求推荐充电器，多口充电](https://www.v2ex.com/t/828239) ![](assets/new.png)  
-- [2022-01-14-一个阿里云买的域名，国内-reset](https://www.v2ex.com/t/828237) ![](assets/new.png)  
-- [2022-01-14-chrome-自动跳到-https，求助。](https://www.v2ex.com/t/828236) ![](assets/new.png)  
-- [2022-01-14-docx-批量转出-pdf-格式有什么好办法吗？](https://www.v2ex.com/t/828232) ![](assets/new.png)  
-- [2022-01-14-分享一个-IPTV-爬虫](https://www.v2ex.com/t/828231) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -571,11 +571,11 @@
 - [2022-01-14-微服务拆分之道](https://toutiao.io/k/jjclagb) ![](assets/new.png)  
 - [2022-01-14-Java依赖冲突高效解决之道](https://toutiao.io/k/mfc7ots) ![](assets/new.png)  
 - [2022-01-14-关于项目中-Repository-层的思考](https://toutiao.io/k/nbik1ek) ![](assets/new.png)  
-- [2022-01-14-独立开发变现周刊（第37期）：一个博客网站，2年后卖了1亿美金](https://toutiao.io/k/lhr8dz7) ![](assets/new.png)  
 - [2022-01-14-设计模式系列——桥接模式](https://toutiao.io/k/pgszonz) ![](assets/new.png)  
+- [2022-01-14-独立开发变现周刊（第37期）：一个博客网站，2年后卖了1亿美金](https://toutiao.io/k/lhr8dz7) ![](assets/new.png)  
 - [2022-01-14-数仓指标一致性](https://toutiao.io/k/loey0se) ![](assets/new.png)  
 - [2022-01-14-品读linux-0.10核心源代码](https://toutiao.io/k/06hrght) ![](assets/new.png)  
-- [2022-01-14-推荐-偷天换日，用-JavaAgent-欺骗你的-JVM](https://toutiao.io/k/cah22k5) ![](assets/new.png)  
+- [2022-01-14-推荐-缓存一致性最佳实践](https://toutiao.io/k/ymscqc1) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

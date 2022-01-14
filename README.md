@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-14 11:11:27，:rocket: 更新条数: +1749， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-14 11:21:48，:rocket: 更新条数: +1751， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -71,6 +71,7 @@
 - [2022-01-14-杭州新增1例确诊-系西溪医院护士](https://m.caixin.com/m/2022-01-14/101830024.html) ![](assets/new.png)  
 - [2022-01-14-【境内疫情观察】全国新增143例本土病例（1月13日）](https://database.caixin.com/m/2022-01-14/101830197.html) ![](assets/new.png)  
 - [2022-01-14-东京病例创新高-贫穷国家拒绝超1亿剂将过期疫苗｜大流行手记（1月13日）](https://m.caixin.com/m/2022-01-14/101829976.html) ![](assets/new.png)  
+- [2022-01-14-意见领袖|周伟：依靠法治提升疫情防控能力](https://opinion.caixin.com/m/2022-01-14/101830246.html) ![](assets/new.png)  
 - [2022-01-14-【图集】广东中山坦洲镇开展全员核酸检测](https://photos.caixin.com/m/2022-01-14/101829954.html) ![](assets/new.png)  
 - [2022-01-13-最新海外疫情：新冠感染超3.15亿，累计接种新冠疫苗超95.27亿剂次](https://m.caixin.com/m/2022-01-13/101829759.html) ![](assets/new.png)  
 - [2022-01-13-上海新增2例确诊和3例无症状-均为境外输入关联病例](https://m.caixin.com/m/2022-01-13/101829820.html) ![](assets/new.png)  
@@ -84,7 +85,6 @@
 - [2022-01-13-新年后182个国际航班被熔断-中美航线再次面临断航之忧](https://companies.caixin.com/m/2022-01-13/101829816.html) ![](assets/new.png)  
 - [2022-01-13-约翰逊承认违反防疫规定参加酒会-保守党内逼宫呼声不断](https://international.caixin.com/m/2022-01-13/101829834.html) ![](assets/new.png)  
 - [2022-01-13-【图集】天津市开启第二轮全员核酸检测](https://photos.caixin.com/m/2022-01-13/101829446.html) ![](assets/new.png)  
-- [2022-01-12-河南省内67趟列车因防疫需要停运](https://china.caixin.com/m/2022-01-12/101829192.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -494,6 +494,9 @@
 </summary>
 
 
+- [2022-01-14-自建-tailscale-和-derp-服务器，有部署在大厂云环境的吗？](https://www.v2ex.com/t/828314) ![](assets/new.png)  
+- [2022-01-14-有没有大佬懂-R-中四舍五入的问题](https://www.v2ex.com/t/828313) ![](assets/new.png)  
+- [2022-01-14-Batch-线性回归中为什么要要分别求代价函数等于-0-和等于-1-时的截距和斜率？](https://www.v2ex.com/t/828311) ![](assets/new.png)  
 - [2022-01-14-想问各位一套代码应用到几十个项目该怎么管理](https://www.v2ex.com/t/828310) ![](assets/new.png)  
 - [2022-01-14-关于浏览器-隐私书签-，你有什么需求吗？](https://www.v2ex.com/t/828308) ![](assets/new.png)  
 - [2022-01-14-关于《Atomic-Habits》和我的一些思考](https://www.v2ex.com/t/828307) ![](assets/new.png)  
@@ -511,9 +514,6 @@
 - [2022-01-14-仿照-摸鱼软件-loaf-做个了-web-版的](https://www.v2ex.com/t/828292) ![](assets/new.png)  
 - [2022-01-14-关于-Tg_Bot-通过-Python-后端远程连接到汽车远控](https://www.v2ex.com/t/828291) ![](assets/new.png)  
 - [2022-01-14-chfs-文件服务器，怎么通过命令行上传文件夹？](https://www.v2ex.com/t/828287) ![](assets/new.png)  
-- [2022-01-14-求推荐一个支持-HDMI-4k/60-fps-的-type-c-拓展坞](https://www.v2ex.com/t/828286) ![](assets/new.png)  
-- [2022-01-14-家庭自用彩色打印机选择](https://www.v2ex.com/t/828285) ![](assets/new.png)  
-- [2022-01-14-杭州-杭州独角兽-Java-急招](https://www.v2ex.com/t/828283) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -575,7 +575,7 @@
 - [2022-01-14-独立开发变现周刊（第37期）：一个博客网站，2年后卖了1亿美金](https://toutiao.io/k/lhr8dz7) ![](assets/new.png)  
 - [2022-01-14-品读linux-0.10核心源代码](https://toutiao.io/k/06hrght) ![](assets/new.png)  
 - [2022-01-14-数仓指标一致性](https://toutiao.io/k/loey0se) ![](assets/new.png)  
-- [2022-01-14-推荐-用规则引擎让你一天上线十个需求](https://toutiao.io/k/ldd1cse) ![](assets/new.png)  
+- [2022-01-14-推荐-偷天换日，用-JavaAgent-欺骗你的-JVM](https://toutiao.io/k/cah22k5) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

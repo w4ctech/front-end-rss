@@ -1,10 +1,13 @@
-:alarm_clock: 更新时间: 2022-01-14 11:11:27。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-01-14 11:21:48。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-01-14-自建-tailscale-和-derp-服务器，有部署在大厂云环境的吗？](https://www.v2ex.com/t/828314) 
+- [2022-01-14-有没有大佬懂-R-中四舍五入的问题](https://www.v2ex.com/t/828313) 
+- [2022-01-14-Batch-线性回归中为什么要要分别求代价函数等于-0-和等于-1-时的截距和斜率？](https://www.v2ex.com/t/828311) 
 - [2022-01-14-想问各位一套代码应用到几十个项目该怎么管理](https://www.v2ex.com/t/828310) 
 - [2022-01-14-关于浏览器-隐私书签-，你有什么需求吗？](https://www.v2ex.com/t/828308) 
 - [2022-01-14-关于《Atomic-Habits》和我的一些思考](https://www.v2ex.com/t/828307) 
@@ -38,5 +41,3 @@
 - [2022-01-14-iCloud+的域名邮箱可以用二级域名吗？](https://www.v2ex.com/t/828268) 
 - [2022-01-14-maven-多模块项目打包问题，求大佬指点下](https://www.v2ex.com/t/828267) 
 - [2022-01-14-你们开发会考虑用户的存储空间吗？](https://www.v2ex.com/t/828265) 
-- [2022-01-14-想到难以积累财富，对工作也失去了耐心](https://www.v2ex.com/t/828262) 
-- [2022-01-14-各位，-gentoo-在-emerge---ask---update---newuse---deep-@world-时候，如何取消不想继续安装的包？](https://www.v2ex.com/t/828261) 

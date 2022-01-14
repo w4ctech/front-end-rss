@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-14 03:15:05，:rocket: 更新条数: +1741， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-14 03:27:55，:rocket: 更新条数: +1740， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,14 @@
 </summary>
 
 
+- [2022-01-14-单机-8-核-32G,-用什么技术才可以做单表-20-亿数据的过滤查询?](https://www.v2ex.com/t/828186) ![](assets/new.png)  
+- [2022-01-14-#-一点认知：沟通与共识成本](https://www.v2ex.com/t/828184) ![](assets/new.png)  
+- [2022-01-14-心浮气躁的时候，你是怎么静下来的？](https://www.v2ex.com/t/828183) ![](assets/new.png)  
+- [2022-01-14-Dropbox-Native-Apple-Silicon-终于来了](https://www.v2ex.com/t/828182) ![](assets/new.png)  
+- [2022-01-14-求推荐靠谱的域名邮箱服务](https://www.v2ex.com/t/828181) ![](assets/new.png)  
+- [2022-01-14-使用-Tin-快安装-WordPress（全网最快安装法-100%成功）](https://www.v2ex.com/t/828180) ![](assets/new.png)  
+- [2022-01-14-可以自建-IPSec-将腾讯云和阿里云的-VPC-打通吗？](https://www.v2ex.com/t/828179) ![](assets/new.png)  
+- [2022-01-14-看到大家讨论-5G-这么有热情，不禁让我回忆起](https://www.v2ex.com/t/828178) ![](assets/new.png)  
 - [2022-01-14-微信视频号互粉群](https://www.v2ex.com/t/828177) ![](assets/new.png)  
 - [2022-01-14-单生男生经常被买衣服困恼，那么帮忙买衣服，有搞头吗](https://www.v2ex.com/t/828174) ![](assets/new.png)  
 - [2022-01-14-微信朋友圈也只能保留-10-年了](https://www.v2ex.com/t/828173) ![](assets/new.png)  
@@ -506,14 +514,6 @@
 - [2022-01-14-google-ads-最新版广告质量得分找不到了？](https://www.v2ex.com/t/828164) ![](assets/new.png)  
 - [2022-01-14-有啥-gif-录制软件，点录制是重新新开始录制，录完点下就能自动保存（LICEcap，-ScreenToGif，-GifCam，-Captura，-recordit-都不好用）](https://www.v2ex.com/t/828163) ![](assets/new.png)  
 - [2022-01-14-拼多多砍价案庭审「因显示百分比位数有限，显示-0.9%-」，实际小数点后还有-6-位,有没有程序大佬解释一下，实际的成功率究竟要拉多少人。](https://www.v2ex.com/t/828162) ![](assets/new.png)  
-- [2022-01-14-荣耀智慧屏-X1-如何播放-DLNA-设备上的内容？](https://www.v2ex.com/t/828160) ![](assets/new.png)  
-- [2022-01-14-我又被电信忽悠了](https://www.v2ex.com/t/828159) ![](assets/new.png)  
-- [2022-01-14-edge-右键收藏夹无响应](https://www.v2ex.com/t/828158) ![](assets/new.png)  
-- [2022-01-14-用京粉薅羊毛的同学注意了，现在-App-提现要签一个授权书，里面附带了一个-5-年的劳务协议](https://www.v2ex.com/t/828157) ![](assets/new.png)  
-- [2022-01-14-有没有什么拍照-sdk](https://www.v2ex.com/t/828156) ![](assets/new.png)  
-- [2022-01-14-分享一个自己开发的，自用的-javascript-log-工具](https://www.v2ex.com/t/828155) ![](assets/new.png)  
-- [2022-01-14-为什么王幕霸的队友都不敢怪他](https://www.v2ex.com/t/828154) ![](assets/new.png)  
-- [2022-01-14-QQ-占用快捷键好烦](https://www.v2ex.com/t/828152) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -565,17 +565,17 @@
 - [2022-01-14-leo：从工程化角度出发的脚手架开源工具](https://toutiao.io/k/caqw3rq) ![](assets/new.png)  
 - [2022-01-14-基于etcd实现大规模服务治理应用实战](https://toutiao.io/k/dx6dcgu) ![](assets/new.png)  
 - [2022-01-14-DSTC10开放领域对话评估比赛冠军方法总结](https://toutiao.io/k/bw8obkv) ![](assets/new.png)  
-- [2022-01-14-干货-|-基于-BDD-理念的-UI-自动化测试在携程度假的应用](https://toutiao.io/k/nqlrpee) ![](assets/new.png)  
 - [2022-01-14-简述C#中应用程序集的装载过程](https://toutiao.io/k/o2v6z2o) ![](assets/new.png)  
-- [2022-01-14-推荐-再见了-VMware，一款更轻量级的虚拟机！](https://toutiao.io/k/xw2lnva) ![](assets/new.png)  
-- [2022-01-14-推荐-偷天换日，用-JavaAgent-欺骗你的-JVM](https://toutiao.io/k/cah22k5) ![](assets/new.png)  
-- [2022-01-14-推荐-缓存一致性最佳实践](https://toutiao.io/k/ymscqc1) ![](assets/new.png)  
-- [2022-01-14-推荐-非常哇塞的-ES读场景、写场景-性能优化指南！你值得拥有！](https://toutiao.io/k/5pjb28q) ![](assets/new.png)  
-- [2022-01-14-推荐-从零打造-Instagram](https://toutiao.io/k/hufqvji) ![](assets/new.png)  
-- [2022-01-14-推荐-2021年美团技术团队最受欢迎的22篇技术文章](https://toutiao.io/k/pjse55y) ![](assets/new.png)  
-- [2022-01-14-推荐-2022新年伊始，送你百篇干货文章](https://toutiao.io/k/kchudkd) ![](assets/new.png)  
+- [2022-01-14-干货-|-基于-BDD-理念的-UI-自动化测试在携程度假的应用](https://toutiao.io/k/nqlrpee) ![](assets/new.png)  
 - [2022-01-14-推荐-用规则引擎让你一天上线十个需求](https://toutiao.io/k/ldd1cse) ![](assets/new.png)  
 - [2022-01-14-推荐-网络编程怎么做才算是优雅？](https://toutiao.io/k/zylzzpi) ![](assets/new.png)  
+- [2022-01-14-推荐-再见了-VMware，一款更轻量级的虚拟机！](https://toutiao.io/k/xw2lnva) ![](assets/new.png)  
+- [2022-01-14-推荐-缓存一致性最佳实践](https://toutiao.io/k/ymscqc1) ![](assets/new.png)  
+- [2022-01-14-推荐-非常哇塞的-ES读场景、写场景-性能优化指南！你值得拥有！](https://toutiao.io/k/5pjb28q) ![](assets/new.png)  
+- [2022-01-14-推荐-2021年美团技术团队最受欢迎的22篇技术文章](https://toutiao.io/k/pjse55y) ![](assets/new.png)  
+- [2022-01-14-推荐-偷天换日，用-JavaAgent-欺骗你的-JVM](https://toutiao.io/k/cah22k5) ![](assets/new.png)  
+- [2022-01-14-推荐-2022新年伊始，送你百篇干货文章](https://toutiao.io/k/kchudkd) ![](assets/new.png)  
+- [2022-01-14-推荐-从零打造-Instagram](https://toutiao.io/k/hufqvji) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

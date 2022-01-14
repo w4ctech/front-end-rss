@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-01-14 03:27:55。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-01-14 03:42:42。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -346,7 +346,6 @@
 
 
 
-- [【V2EX】🚀🚀🚀硅谷-Top-FinTech🌟🌟🌟年前面试年后入职👻👻👻100%远程+期权+双休+四周-🔥🔥🔥](https://www.v2ex.com/t/828140)
 - [......【查看更多】......](./details/tags/job-interview.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

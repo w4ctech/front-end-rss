@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-01-14 00:42:39。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-01-14 01:14:35。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,9 +68,9 @@
 </summary>
 
 
-- [【武汉肺炎防疫全纪录(财新网)】2022-01-13-最新疫情：全国新冠累计确诊104379例-累计接种新冠疫苗超29.18亿剂次](https://m.caixin.com/m/2022-01-13/101829764.html) 
+- [【武汉肺炎防疫全纪录(财新网)】2022-01-14-1月13日全国新增新冠201例-五省份本土143例](https://m.caixin.com/m/2022-01-14/101829927.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2022-01-13-上海新增2例确诊和3例无症状-均为境外输入关联病例](https://m.caixin.com/m/2022-01-13/101829820.html) 
-- [【武汉肺炎防疫全纪录(财新网)】2022-01-13-记者手记｜在香港，核酸检测不是“捅”鼻子](https://companies.caixin.com/m/2022-01-13/101829852.html) 
+- [【武汉肺炎防疫全纪录(财新网)】2022-01-13-记者手记｜在香港，核酸检测不是“捅”鼻子](https://m.caixin.com/m/2022-01-13/101829852.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2022-01-13-广东中山报告一例新冠阳性病例-入境澳门须48小时核酸阴性证明](https://m.caixin.com/m/2022-01-13/101829685.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2022-01-13-最新海外疫情：新冠感染超3.15亿，累计接种新冠疫苗超95.27亿剂次](https://m.caixin.com/m/2022-01-13/101829759.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2022-01-13-西安卫健委：西安高新医院、西安国际医学中心医院停业整顿3个月](https://m.caixin.com/m/2022-01-13/101829562.html) 
@@ -153,7 +153,9 @@
 - [【武汉肺炎防疫全纪录(财新网)】2022-01-01-【境内疫情观察】陕西新增174例本土病例（12月31日）](https://database.caixin.com/m/2022-01-01/101825023.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2022-01-01-英国重启临时医院，多国医疗系统承压｜大流行手记（12月31日）](https://m.caixin.com/m/2022-01-01/101824902.html) 
 - [【张鑫旭-鑫空间-鑫生活】2022-01-11-还有完没完，怎么又来了个-scrollbar-gutter？](https://www.zhangxinxu.com/wordpress/2022/01/css-scrollbar-gutter/) 
+- [【阮一峰的网络日志】2022-01-14-科技爱好者周刊（第-192-期）：最大的机会来自新技术](http://www.ruanyifeng.com/blog/2022/01/weekly-issue-192.html) 
 - [【阮一峰的网络日志】2022-01-07-科技爱好者周刊（第-191-期）：一个程序员的财务独立之路](http://www.ruanyifeng.com/blog/2022/01/weekly-issue-191.html) 
+- [【V2EX】2022-01-14-mba-M1，有些程序不知不觉退出是什么原因？](https://www.v2ex.com/t/828147) 
 - [【V2EX】2022-01-14-2022-年了，终于身边的朋友开始相信-“5G-并没有什么作用”但是他们还是不相信“5G-浪费了大量纳税人的钱”](https://www.v2ex.com/t/828145) 
 - [【V2EX】2022-01-14-知乎首页那些-盲盒、兼职、薅羊毛的文章和回答，都是付费了才这么靠前么？](https://www.v2ex.com/t/828144) 
 - [【V2EX】2022-01-14-QQ-音乐与所有设备不兼容不能下载是怎么回事？](https://www.v2ex.com/t/828143) 
@@ -191,8 +193,6 @@
 - [【V2EX】2022-01-13-新电脑到了，刘海屏完全不影响](https://www.v2ex.com/t/828101) 
 - [【V2EX】2022-01-13-在-Mac-上面运行-windows-虚拟机，再运行-hdtune-pro-能检测硬盘健康吗](https://www.v2ex.com/t/828100) 
 - [【V2EX】2022-01-13-使用-Tin-快速安装-phpBB，一个搭建你自己的论坛的教程](https://www.v2ex.com/t/828098) 
-- [【V2EX】2022-01-13-请问-2022Android-还有机会在不获取权限情况下获取设备的唯一标识吗？](https://www.v2ex.com/t/828097) 
-- [【V2EX】2022-01-13-你认为什么是-10-倍程序员](https://www.v2ex.com/t/828096) 
 - [【技术头条】2022-01-14-如何交接复杂的遗留系统？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14895&url=https%3A%2F%2Finsights.thoughtworks.cn%2Flegacy-system-handover%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-01-14-还在为-Flutter-图表控件发愁么？不妨试试这个-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14894&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F4OKaKf43Y6dSYajaCHnehw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-01-14-用Python做一个游戏辅助脚本！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14893&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247492993%26amp%3Bidx%3D2%26amp%3Bsn%3D67230660b390f06f5584792da10b1078%26amp%3Bchksm%3Dfa3f04dacd488dccec0f68b1534821b98dde1730e4970ca0629239bd3275199e72af4b3c8771%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -220,14 +220,14 @@
 - [【开发者头条】2022-01-14-深度好文｜实时数仓不用愁，StarRocks+Flink-来解忧！](https://toutiao.io/k/wklhvr1) 
 - [【开发者头条】2022-01-14-80抽猫狗湿巾加送2包便携装，只需8.9元！](https://toutiao.io/k/a3lukt7) 
 - [【开发者头条】2022-01-14-推荐-网络编程怎么做才算是优雅？](https://toutiao.io/k/zylzzpi) 
-- [【开发者头条】2022-01-14-推荐-再见了-VMware，一款更轻量级的虚拟机！](https://toutiao.io/k/xw2lnva) 
-- [【开发者头条】2022-01-14-推荐-非常哇塞的-ES读场景、写场景-性能优化指南！你值得拥有！](https://toutiao.io/k/5pjb28q) 
-- [【开发者头条】2022-01-14-推荐-2021年美团技术团队最受欢迎的22篇技术文章](https://toutiao.io/k/pjse55y) 
-- [【开发者头条】2022-01-14-推荐-2022新年伊始，送你百篇干货文章](https://toutiao.io/k/kchudkd) 
-- [【开发者头条】2022-01-14-推荐-用规则引擎让你一天上线十个需求](https://toutiao.io/k/ldd1cse) 
-- [【开发者头条】2022-01-14-推荐-偷天换日，用-JavaAgent-欺骗你的-JVM](https://toutiao.io/k/cah22k5) 
 - [【开发者头条】2022-01-14-推荐-从零打造-Instagram](https://toutiao.io/k/hufqvji) 
 - [【开发者头条】2022-01-14-推荐-缓存一致性最佳实践](https://toutiao.io/k/ymscqc1) 
+- [【开发者头条】2022-01-14-推荐-再见了-VMware，一款更轻量级的虚拟机！](https://toutiao.io/k/xw2lnva) 
+- [【开发者头条】2022-01-14-推荐-2022新年伊始，送你百篇干货文章](https://toutiao.io/k/kchudkd) 
+- [【开发者头条】2022-01-14-推荐-非常哇塞的-ES读场景、写场景-性能优化指南！你值得拥有！](https://toutiao.io/k/5pjb28q) 
+- [【开发者头条】2022-01-14-推荐-2021年美团技术团队最受欢迎的22篇技术文章](https://toutiao.io/k/pjse55y) 
+- [【开发者头条】2022-01-14-推荐-偷天换日，用-JavaAgent-欺骗你的-JVM](https://toutiao.io/k/cah22k5) 
+- [【开发者头条】2022-01-14-推荐-用规则引擎让你一天上线十个需求](https://toutiao.io/k/ldd1cse) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>
@@ -374,7 +374,6 @@
 - [【张鑫旭-鑫空间-鑫生活】2021-12-13-你不知道的CSS-media查询与用户体验](https://www.zhangxinxu.com/wordpress/2021/12/css-meida-user-experience/) 
 - [【张鑫旭-鑫空间-鑫生活】2021-12-08-flex-end为什么overflow无法滚动及解决方法](https://www.zhangxinxu.com/wordpress/2021/12/flex-end-overflow/) 
 - [【阮一峰的网络日志】2021-12-31-科技爱好者周刊（第-190-期）：产品化思维](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-190.html) 
-- [【阮一峰的网络日志】2021-12-24-科技爱好者周刊（第-189-期）：下一个内卷的行业](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-189.html) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

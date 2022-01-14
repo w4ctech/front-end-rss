@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-14 00:42:39，:rocket: 更新条数: +1734， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-14 01:14:35，:rocket: 更新条数: +1733， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -65,9 +65,9 @@
 </summary>
 
 
-- [2022-01-13-最新疫情：全国新冠累计确诊104379例-累计接种新冠疫苗超29.18亿剂次](https://m.caixin.com/m/2022-01-13/101829764.html) ![](assets/new.png)  
+- [2022-01-14-1月13日全国新增新冠201例-五省份本土143例](https://m.caixin.com/m/2022-01-14/101829927.html) ![](assets/new.png)  
 - [2022-01-13-上海新增2例确诊和3例无症状-均为境外输入关联病例](https://m.caixin.com/m/2022-01-13/101829820.html) ![](assets/new.png)  
-- [2022-01-13-记者手记｜在香港，核酸检测不是“捅”鼻子](https://companies.caixin.com/m/2022-01-13/101829852.html) ![](assets/new.png)  
+- [2022-01-13-记者手记｜在香港，核酸检测不是“捅”鼻子](https://m.caixin.com/m/2022-01-13/101829852.html) ![](assets/new.png)  
 - [2022-01-13-广东中山报告一例新冠阳性病例-入境澳门须48小时核酸阴性证明](https://m.caixin.com/m/2022-01-13/101829685.html) ![](assets/new.png)  
 - [2022-01-13-最新海外疫情：新冠感染超3.15亿，累计接种新冠疫苗超95.27亿剂次](https://m.caixin.com/m/2022-01-13/101829759.html) ![](assets/new.png)  
 - [2022-01-13-西安卫健委：西安高新医院、西安国际医学中心医院停业整顿3个月](https://m.caixin.com/m/2022-01-13/101829562.html) ![](assets/new.png)  
@@ -337,9 +337,9 @@
 </summary>
 
 
+- [2022-01-14-科技爱好者周刊（第-192-期）：最大的机会来自新技术](http://www.ruanyifeng.com/blog/2022/01/weekly-issue-192.html) ![](assets/new.png)  
 - [2022-01-07-科技爱好者周刊（第-191-期）：一个程序员的财务独立之路](http://www.ruanyifeng.com/blog/2022/01/weekly-issue-191.html) ![](assets/new.png)  
 - [2021-12-31-科技爱好者周刊（第-190-期）：产品化思维](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-190.html) ![](assets/new.png)  
-- [2021-12-24-科技爱好者周刊（第-189-期）：下一个内卷的行业](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-189.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/阮一峰的网络日志.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -494,6 +494,7 @@
 </summary>
 
 
+- [2022-01-14-mba-M1，有些程序不知不觉退出是什么原因？](https://www.v2ex.com/t/828147) ![](assets/new.png)  
 - [2022-01-14-2022-年了，终于身边的朋友开始相信-“5G-并没有什么作用”但是他们还是不相信“5G-浪费了大量纳税人的钱”](https://www.v2ex.com/t/828145) ![](assets/new.png)  
 - [2022-01-14-知乎首页那些-盲盒、兼职、薅羊毛的文章和回答，都是付费了才这么靠前么？](https://www.v2ex.com/t/828144) ![](assets/new.png)  
 - [2022-01-14-QQ-音乐与所有设备不兼容不能下载是怎么回事？](https://www.v2ex.com/t/828143) ![](assets/new.png)  
@@ -513,7 +514,6 @@
 - [2022-01-13-安装-nginx_upstream_check_module-模块后检查生效但是轮询失败了？](https://www.v2ex.com/t/828126) ![](assets/new.png)  
 - [2022-01-13-分享下我的独立开发日记-04](https://www.v2ex.com/t/828124) ![](assets/new.png)  
 - [2022-01-13-QT-界面，如何实现随电脑百分比放大，自动缩放](https://www.v2ex.com/t/828123) ![](assets/new.png)  
-- [2022-01-13-一线城市的土著在找对象时会要求门当户对吗？](https://www.v2ex.com/t/828122) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -563,14 +563,14 @@
 - [2022-01-14-深度好文｜实时数仓不用愁，StarRocks+Flink-来解忧！](https://toutiao.io/k/wklhvr1) ![](assets/new.png)  
 - [2022-01-14-80抽猫狗湿巾加送2包便携装，只需8.9元！](https://toutiao.io/k/a3lukt7) ![](assets/new.png)  
 - [2022-01-14-推荐-网络编程怎么做才算是优雅？](https://toutiao.io/k/zylzzpi) ![](assets/new.png)  
-- [2022-01-14-推荐-再见了-VMware，一款更轻量级的虚拟机！](https://toutiao.io/k/xw2lnva) ![](assets/new.png)  
-- [2022-01-14-推荐-非常哇塞的-ES读场景、写场景-性能优化指南！你值得拥有！](https://toutiao.io/k/5pjb28q) ![](assets/new.png)  
-- [2022-01-14-推荐-2021年美团技术团队最受欢迎的22篇技术文章](https://toutiao.io/k/pjse55y) ![](assets/new.png)  
-- [2022-01-14-推荐-2022新年伊始，送你百篇干货文章](https://toutiao.io/k/kchudkd) ![](assets/new.png)  
-- [2022-01-14-推荐-用规则引擎让你一天上线十个需求](https://toutiao.io/k/ldd1cse) ![](assets/new.png)  
-- [2022-01-14-推荐-偷天换日，用-JavaAgent-欺骗你的-JVM](https://toutiao.io/k/cah22k5) ![](assets/new.png)  
 - [2022-01-14-推荐-从零打造-Instagram](https://toutiao.io/k/hufqvji) ![](assets/new.png)  
 - [2022-01-14-推荐-缓存一致性最佳实践](https://toutiao.io/k/ymscqc1) ![](assets/new.png)  
+- [2022-01-14-推荐-再见了-VMware，一款更轻量级的虚拟机！](https://toutiao.io/k/xw2lnva) ![](assets/new.png)  
+- [2022-01-14-推荐-2022新年伊始，送你百篇干货文章](https://toutiao.io/k/kchudkd) ![](assets/new.png)  
+- [2022-01-14-推荐-非常哇塞的-ES读场景、写场景-性能优化指南！你值得拥有！](https://toutiao.io/k/5pjb28q) ![](assets/new.png)  
+- [2022-01-14-推荐-2021年美团技术团队最受欢迎的22篇技术文章](https://toutiao.io/k/pjse55y) ![](assets/new.png)  
+- [2022-01-14-推荐-偷天换日，用-JavaAgent-欺骗你的-JVM](https://toutiao.io/k/cah22k5) ![](assets/new.png)  
+- [2022-01-14-推荐-用规则引擎让你一天上线十个需求](https://toutiao.io/k/ldd1cse) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-14 11:40:30，:rocket: 更新条数: +1751， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-14 11:54:40，:rocket: 更新条数: +1751， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,9 @@
 </summary>
 
 
+- [2022-01-14-MacBookPro2021-16-寸新款屏幕缝隙不明白色物体](https://www.v2ex.com/t/828319) ![](assets/new.png)  
+- [2022-01-14-facebook-广告点击率比谷歌高？](https://www.v2ex.com/t/828317) ![](assets/new.png)  
+- [2022-01-14-淘宝语音监听可能真的存在！](https://www.v2ex.com/t/828316) ![](assets/new.png)  
 - [2022-01-14-一次次忍让只能换来一次次得欺压：能否集体起诉扣扣音乐](https://www.v2ex.com/t/828315) ![](assets/new.png)  
 - [2022-01-14-自建-tailscale-和-derp-服务器，有部署在大厂云环境的吗？](https://www.v2ex.com/t/828314) ![](assets/new.png)  
 - [2022-01-14-有没有大佬懂-R-中四舍五入的问题](https://www.v2ex.com/t/828313) ![](assets/new.png)  
@@ -511,9 +514,6 @@
 - [2022-01-14-第一次买-macbook-有什么需要注意的吗](https://www.v2ex.com/t/828296) ![](assets/new.png)  
 - [2022-01-14-有关-winudf.com-的信息](https://www.v2ex.com/t/828295) ![](assets/new.png)  
 - [2022-01-14-有没有设计成多个引擎的数据库？](https://www.v2ex.com/t/828294) ![](assets/new.png)  
-- [2022-01-14-Windows-Server-2022-安装-2022-01-补丁后系统反复重启，杯具了](https://www.v2ex.com/t/828293) ![](assets/new.png)  
-- [2022-01-14-仿照-摸鱼软件-loaf-做个了-web-版的](https://www.v2ex.com/t/828292) ![](assets/new.png)  
-- [2022-01-14-关于-Tg_Bot-通过-Python-后端远程连接到汽车远控](https://www.v2ex.com/t/828291) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -571,11 +571,11 @@
 - [2022-01-14-Java依赖冲突高效解决之道](https://toutiao.io/k/mfc7ots) ![](assets/new.png)  
 - [2022-01-14-关于项目中-Repository-层的思考](https://toutiao.io/k/nbik1ek) ![](assets/new.png)  
 - [2022-01-14-设计模式系列——桥接模式](https://toutiao.io/k/pgszonz) ![](assets/new.png)  
-- [2022-01-14-简述C#中应用程序集的装载过程](https://toutiao.io/k/o2v6z2o) ![](assets/new.png)  
 - [2022-01-14-独立开发变现周刊（第37期）：一个博客网站，2年后卖了1亿美金](https://toutiao.io/k/lhr8dz7) ![](assets/new.png)  
+- [2022-01-14-简述C#中应用程序集的装载过程](https://toutiao.io/k/o2v6z2o) ![](assets/new.png)  
 - [2022-01-14-品读linux-0.10核心源代码](https://toutiao.io/k/06hrght) ![](assets/new.png)  
 - [2022-01-14-数仓指标一致性](https://toutiao.io/k/loey0se) ![](assets/new.png)  
-- [2022-01-14-推荐-2021年美团技术团队最受欢迎的22篇技术文章](https://toutiao.io/k/pjse55y) ![](assets/new.png)  
+- [2022-01-14-推荐-偷天换日，用-JavaAgent-欺骗你的-JVM](https://toutiao.io/k/cah22k5) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

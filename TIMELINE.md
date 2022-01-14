@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-01-14 22:12:48。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-01-14 22:22:34。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -165,6 +165,7 @@
 - [【张鑫旭-鑫空间-鑫生活】2022-01-11-还有完没完，怎么又来了个-scrollbar-gutter？](https://www.zhangxinxu.com/wordpress/2022/01/css-scrollbar-gutter/) 
 - [【阮一峰的网络日志】2022-01-14-科技爱好者周刊（第-192-期）：最大的机会来自新技术](http://www.ruanyifeng.com/blog/2022/01/weekly-issue-192.html) 
 - [【阮一峰的网络日志】2022-01-07-科技爱好者周刊（第-191-期）：一个程序员的财务独立之路](http://www.ruanyifeng.com/blog/2022/01/weekly-issue-191.html) 
+- [【V2EX】2022-01-14-淘特的个性化推荐蛮恶心的](https://www.v2ex.com/t/828366) 
 - [【V2EX】2022-01-14-MBP-2021-反复重启控制台里-ResetCounter-提示，有人遇到过吗？](https://www.v2ex.com/t/828364) 
 - [【V2EX】2022-01-14-20-年购入-intel-mbp-通过拓展坞连接-4k-屏卡顿](https://www.v2ex.com/t/828362) 
 - [【V2EX】2022-01-14-请问现在还有啥降价提醒的工具吗？（Mac-App-Store）](https://www.v2ex.com/t/828361) 
@@ -196,7 +197,6 @@
 - [【V2EX】2022-01-14-有大佬知道-rec-不解密-data-怎么解决吗？它根本就不跳解密的页面。](https://www.v2ex.com/t/828320) 
 - [【V2EX】2022-01-14-MacBookPro2021-16-寸新款屏幕缝隙不明白色物体](https://www.v2ex.com/t/828319) 
 - [【V2EX】2022-01-14-facebook-广告点击率比谷歌高？](https://www.v2ex.com/t/828317) 
-- [【V2EX】2022-01-14-淘宝语音监听可能真的存在！](https://www.v2ex.com/t/828316) 
 - [【技术头条】2022-01-14-Python-Type-Hints-从入门到实践-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=14897&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F424042902%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-01-14-一文读懂浏览器存储与缓存机制-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=14896&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F422666602%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-01-14-如何交接复杂的遗留系统？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14895&url=https%3A%2F%2Finsights.thoughtworks.cn%2Flegacy-system-handover%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -218,16 +218,16 @@
 - [【技术头条】2022-01-14-Google内部的Python代码风格指南（译）-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14879&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247492830%26amp%3Bidx%3D2%26amp%3Bsn%3D61c6871cc69fa32734753e929e78ee5b%26amp%3Bchksm%3Dfa3f0585cd488c935474934aea3b33f4ddea0c78a61c8b900f2b0380fe3eb3b7769eba3884c4%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-01-14-一漂亮妹子的美团面经，4轮2小时，成功拿到Offer-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14878&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247492809%26amp%3Bidx%3D1%26amp%3Bsn%3D7e76004e09c77e34b0bb6f66eb503968%26amp%3Bchksm%3Dfa3f0592cd488c84eb8d73a04cf173ef6648e52fa3db73026f4927e4bdd7b0bed671993aa3dc%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【开发者头条】2022-01-14-乒乓球自练网红神器，缓解程序员视力疲劳，全家都适用！](https://toutiao.io/k/six5ocz) 
-- [【开发者头条】2022-01-14-推荐-浅谈缓存最终一致性的解决方案](https://toutiao.io/k/mgym1lv) 
-- [【开发者头条】2022-01-14-推荐-偷天换日，用-JavaAgent-欺骗你的-JVM](https://toutiao.io/k/cah22k5) 
-- [【开发者头条】2022-01-14-推荐-2022新年伊始，送你百篇干货文章](https://toutiao.io/k/kchudkd) 
-- [【开发者头条】2022-01-14-推荐-再见了-VMware，一款更轻量级的虚拟机！](https://toutiao.io/k/xw2lnva) 
 - [【开发者头条】2022-01-14-推荐-JVM调优的几种场景（建议收藏）](https://toutiao.io/k/0mfx2nd) 
-- [【开发者头条】2022-01-14-推荐-缓存一致性最佳实践](https://toutiao.io/k/ymscqc1) 
-- [【开发者头条】2022-01-14-推荐-网络编程怎么做才算是优雅？](https://toutiao.io/k/zylzzpi) 
-- [【开发者头条】2022-01-14-推荐-用规则引擎让你一天上线十个需求](https://toutiao.io/k/ldd1cse) 
+- [【开发者头条】2022-01-14-推荐-浅谈缓存最终一致性的解决方案](https://toutiao.io/k/mgym1lv) 
 - [【开发者头条】2022-01-14-推荐-非常哇塞的-ES读场景、写场景-性能优化指南！你值得拥有！](https://toutiao.io/k/5pjb28q) 
 - [【开发者头条】2022-01-14-推荐-从零打造-Instagram](https://toutiao.io/k/hufqvji) 
+- [【开发者头条】2022-01-14-推荐-偷天换日，用-JavaAgent-欺骗你的-JVM](https://toutiao.io/k/cah22k5) 
+- [【开发者头条】2022-01-14-推荐-缓存一致性最佳实践](https://toutiao.io/k/ymscqc1) 
+- [【开发者头条】2022-01-14-推荐-2022新年伊始，送你百篇干货文章](https://toutiao.io/k/kchudkd) 
+- [【开发者头条】2022-01-14-推荐-用规则引擎让你一天上线十个需求](https://toutiao.io/k/ldd1cse) 
+- [【开发者头条】2022-01-14-推荐-网络编程怎么做才算是优雅？](https://toutiao.io/k/zylzzpi) 
+- [【开发者头条】2022-01-14-推荐-再见了-VMware，一款更轻量级的虚拟机！](https://toutiao.io/k/xw2lnva) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

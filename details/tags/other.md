@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-01-14 08:28:06。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-01-14 08:46:06。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1633,6 +1633,8 @@
 - [2022-01-14-科技爱好者周刊（第-192-期）：最大的机会来自新技术](http://www.ruanyifeng.com/blog/2022/01/weekly-issue-192.html) 
 - [2022-01-07-科技爱好者周刊（第-191-期）：一个程序员的财务独立之路](http://www.ruanyifeng.com/blog/2022/01/weekly-issue-191.html) 
 - [2021-12-31-科技爱好者周刊（第-190-期）：产品化思维](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-190.html) 
+- [2022-01-14-家宽每天-15G-流量有什么性价比方案吗](https://www.v2ex.com/t/828280) 
+- [2022-01-14-如何查看软件-arm-架构支持情况-谢谢](https://www.v2ex.com/t/828278) 
 - [2022-01-14-请各位老师推荐一些机器学习云平台](https://www.v2ex.com/t/828276) 
 - [2022-01-14-外包真难受啊](https://www.v2ex.com/t/828275) 
 - [2022-01-14-北京/上海-MIT-博士胡渊鸣创业项目-太极图形-2022-社招最新职位：-DevOps/前端/后端/流媒体/编译器/分布式系统工程师等-公司已获得红杉资本等顶级风险投资机...](https://www.v2ex.com/t/828274) 
@@ -1658,9 +1660,6 @@
 - [2022-01-14-一个阿里云买的域名，国内-reset](https://www.v2ex.com/t/828237) 
 - [2022-01-14-docx-批量转出-pdf-格式有什么好办法吗？](https://www.v2ex.com/t/828232) 
 - [2022-01-14-分享一个-IPTV-爬虫](https://www.v2ex.com/t/828231) 
-- [2022-01-14-dell-2720q-和-2720qm-到底啥区别？](https://www.v2ex.com/t/828230) 
-- [2022-01-14-在现代的-macOS-上运行-Diablo-1，支持-16:9](https://www.v2ex.com/t/828229) 
-- [2022-01-14-云原生交流群（如何维护-Kubernetes-早期版本？如何检索多集群资源？）](https://www.v2ex.com/t/828228) 
 - [2022-01-14-如何交接复杂的遗留系统？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14895&url=https%3A%2F%2Finsights.thoughtworks.cn%2Flegacy-system-handover%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-01-14-阿里巴巴为什么能抗住90秒100亿？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14892&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247492963%26amp%3Bidx%3D1%26amp%3Bsn%3Dc055d55af2f4efdf70718c31e2b15ec9%26amp%3Bchksm%3Dfa3f0438cd488d2e2f70ee7dd5bb2751f5ec496ad010734777adaa544841a94c6f3fad2dffa0%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-01-14-常见代码重构技巧（非常实用）-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14891&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247492963%26amp%3Bidx%3D2%26amp%3Bsn%3D2ede8b39036a54cdad26ef35d74d7dcc%26amp%3Bchksm%3Dfa3f0438cd488d2ec7349ea9860d3987c3259afc12eb8a46a9569a41a3e0bc2f71ef10854d6c%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1694,9 +1693,9 @@
 - [2022-01-14-品读linux-0.10核心源代码](https://toutiao.io/k/06hrght) 
 - [2022-01-14-数仓指标一致性](https://toutiao.io/k/loey0se) 
 - [2022-01-14-推荐-偷天换日，用-JavaAgent-欺骗你的-JVM](https://toutiao.io/k/cah22k5) 
-- [2022-01-14-推荐-用规则引擎让你一天上线十个需求](https://toutiao.io/k/ldd1cse) 
-- [2022-01-14-推荐-网络编程怎么做才算是优雅？](https://toutiao.io/k/zylzzpi) 
 - [2022-01-14-推荐-2022新年伊始，送你百篇干货文章](https://toutiao.io/k/kchudkd) 
-- [2022-01-14-推荐-从零打造-Instagram](https://toutiao.io/k/hufqvji) 
+- [2022-01-14-推荐-网络编程怎么做才算是优雅？](https://toutiao.io/k/zylzzpi) 
 - [2022-01-14-推荐-再见了-VMware，一款更轻量级的虚拟机！](https://toutiao.io/k/xw2lnva) 
+- [2022-01-14-推荐-从零打造-Instagram](https://toutiao.io/k/hufqvji) 
 - [2022-01-14-推荐-2021年美团技术团队最受欢迎的22篇技术文章](https://toutiao.io/k/pjse55y) 
+- [2022-01-14-推荐-用规则引擎让你一天上线十个需求](https://toutiao.io/k/ldd1cse) 

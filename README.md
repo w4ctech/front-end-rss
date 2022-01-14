@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-14 03:47:03，:rocket: 更新条数: +1739， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-14 03:59:02，:rocket: 更新条数: +1740， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,11 @@
 </summary>
 
 
+- [2022-01-14-ARM-Mac-的-Thunderbird-无法使用外部-GPG-的解决方法](https://www.v2ex.com/t/828196) ![](assets/new.png)  
+- [2022-01-14-Golang-写的生成-rua-头.gif-的小工具](https://www.v2ex.com/t/828195) ![](assets/new.png)  
+- [2022-01-14-随着企业微信和-Dropbox-增加了-Apple-Silicone-架构的版本，我的-14-寸-MBP-圆满了](https://www.v2ex.com/t/828193) ![](assets/new.png)  
+- [2022-01-14-联通已经快进到推销电话都不打直接给你办高价的没用业务了？](https://www.v2ex.com/t/828192) ![](assets/new.png)  
+- [2022-01-14-请教后端同学这种写接口的方式对不对？](https://www.v2ex.com/t/828191) ![](assets/new.png)  
 - [2022-01-14-CrossOver-打算在-23-版本为-Mac-加入-DX12-支持](https://www.v2ex.com/t/828190) ![](assets/new.png)  
 - [2022-01-14-有没有留学生落户成功的前辈](https://www.v2ex.com/t/828188) ![](assets/new.png)  
 - [2022-01-14-单机-8-核-32G,-用什么技术才可以做单表-20-亿数据的过滤查询?](https://www.v2ex.com/t/828186) ![](assets/new.png)  
@@ -509,11 +514,6 @@
 - [2022-01-14-微信朋友圈也只能保留-10-年了](https://www.v2ex.com/t/828173) ![](assets/new.png)  
 - [2022-01-14-怎么查看服务器在某个时间段-CPU/MEM-的占用情况](https://www.v2ex.com/t/828171) ![](assets/new.png)  
 - [2022-01-14-现在是不是不适合买实体黄金？](https://www.v2ex.com/t/828170) ![](assets/new.png)  
-- [2022-01-14-使用-Tin-快安装-SuiteCRM（全网最快安装法-100%成功）](https://www.v2ex.com/t/828169) ![](assets/new.png)  
-- [2022-01-14-最近买衣服好焦虑](https://www.v2ex.com/t/828167) ![](assets/new.png)  
-- [2022-01-14-推森海塞尔-HD650/6XX-最吼的耳放是什么？](https://www.v2ex.com/t/828166) ![](assets/new.png)  
-- [2022-01-14-Flask-Plugin-扩展：支持热更新代码的插件系统](https://www.v2ex.com/t/828165) ![](assets/new.png)  
-- [2022-01-14-google-ads-最新版广告质量得分找不到了？](https://www.v2ex.com/t/828164) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -561,21 +561,21 @@
 - [2022-01-14-基于事件驱动架构构建微服务第16部分：Azure-Active-Directory-B2C](https://toutiao.io/k/fydxo29) ![](assets/new.png)  
 - [2022-01-14-CNN卷土重来！超越Transformer！FAIR重新设计纯卷积架构：ConvNeXt](https://toutiao.io/k/5fodbg0) ![](assets/new.png)  
 - [2022-01-14-深度好文｜实时数仓不用愁，StarRocks+Flink-来解忧！](https://toutiao.io/k/wklhvr1) ![](assets/new.png)  
-- [2022-01-14-80抽猫狗湿巾加送2包便携装，只需8.9元！](https://toutiao.io/k/a3lukt7) ![](assets/new.png)  
 - [2022-01-14-leo：从工程化角度出发的脚手架开源工具](https://toutiao.io/k/caqw3rq) ![](assets/new.png)  
+- [2022-01-14-80抽猫狗湿巾加送2包便携装，只需8.9元！](https://toutiao.io/k/a3lukt7) ![](assets/new.png)  
 - [2022-01-14-基于etcd实现大规模服务治理应用实战](https://toutiao.io/k/dx6dcgu) ![](assets/new.png)  
 - [2022-01-14-DSTC10开放领域对话评估比赛冠军方法总结](https://toutiao.io/k/bw8obkv) ![](assets/new.png)  
 - [2022-01-14-简述C#中应用程序集的装载过程](https://toutiao.io/k/o2v6z2o) ![](assets/new.png)  
 - [2022-01-14-干货-|-基于-BDD-理念的-UI-自动化测试在携程度假的应用](https://toutiao.io/k/nqlrpee) ![](assets/new.png)  
-- [2022-01-14-推荐-2022新年伊始，送你百篇干货文章](https://toutiao.io/k/kchudkd) ![](assets/new.png)  
-- [2022-01-14-推荐-从零打造-Instagram](https://toutiao.io/k/hufqvji) ![](assets/new.png)  
-- [2022-01-14-推荐-偷天换日，用-JavaAgent-欺骗你的-JVM](https://toutiao.io/k/cah22k5) ![](assets/new.png)  
-- [2022-01-14-推荐-网络编程怎么做才算是优雅？](https://toutiao.io/k/zylzzpi) ![](assets/new.png)  
 - [2022-01-14-推荐-缓存一致性最佳实践](https://toutiao.io/k/ymscqc1) ![](assets/new.png)  
-- [2022-01-14-推荐-2021年美团技术团队最受欢迎的22篇技术文章](https://toutiao.io/k/pjse55y) ![](assets/new.png)  
-- [2022-01-14-推荐-非常哇塞的-ES读场景、写场景-性能优化指南！你值得拥有！](https://toutiao.io/k/5pjb28q) ![](assets/new.png)  
-- [2022-01-14-推荐-再见了-VMware，一款更轻量级的虚拟机！](https://toutiao.io/k/xw2lnva) ![](assets/new.png)  
 - [2022-01-14-推荐-用规则引擎让你一天上线十个需求](https://toutiao.io/k/ldd1cse) ![](assets/new.png)  
+- [2022-01-14-推荐-从零打造-Instagram](https://toutiao.io/k/hufqvji) ![](assets/new.png)  
+- [2022-01-14-推荐-再见了-VMware，一款更轻量级的虚拟机！](https://toutiao.io/k/xw2lnva) ![](assets/new.png)  
+- [2022-01-14-推荐-网络编程怎么做才算是优雅？](https://toutiao.io/k/zylzzpi) ![](assets/new.png)  
+- [2022-01-14-推荐-非常哇塞的-ES读场景、写场景-性能优化指南！你值得拥有！](https://toutiao.io/k/5pjb28q) ![](assets/new.png)  
+- [2022-01-14-推荐-偷天换日，用-JavaAgent-欺骗你的-JVM](https://toutiao.io/k/cah22k5) ![](assets/new.png)  
+- [2022-01-14-推荐-2021年美团技术团队最受欢迎的22篇技术文章](https://toutiao.io/k/pjse55y) ![](assets/new.png)  
+- [2022-01-14-推荐-2022新年伊始，送你百篇干货文章](https://toutiao.io/k/kchudkd) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

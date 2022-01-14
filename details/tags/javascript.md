@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-01-14 02:18:48。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-01-14 02:56:55。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -21,4 +21,3 @@
 - [2021-10-28-JS复制文字到剪切板的极简实现及扩展](https://www.zhangxinxu.com/wordpress/2021/10/js-copy-paste-clipboard/) 
 - [2022-01-14-分享一个自己开发的，自用的-javascript-log-工具](https://www.v2ex.com/t/828155) 
 - [2022-01-13-安装-nginx_upstream_check_module-模块后检查生效但是轮询失败了？](https://www.v2ex.com/t/828126) 
-- [2022-01-13-求系统鼠标平滑滚动实现思路](https://www.v2ex.com/t/828116) 

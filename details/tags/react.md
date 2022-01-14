@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-01-14 02:18:48。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-01-14 02:56:55。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## React
 
@@ -6,5 +6,3 @@
 > 关键字：`React`、`Rax`、`Nerv`、`Redux`、`useEffect`、`Hooks`
 
 
-
-- [2022-01-14-一名Vue程序员总结的React基础](https://toutiao.io/k/tgyvmn6) 

@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2022-01-14 14:42:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-01-14 14:54:30。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-01-14-设置浏览器的默认下载目录为“桌面”时，提示：没有供标记使用的对象。](https://www.v2ex.com/t/828346) 
+- [2022-01-14-HomePod-无法响应快捷指令](https://www.v2ex.com/t/828344) 
 - [2022-01-14-大家是怎么提升自己的代码力的](https://www.v2ex.com/t/828342) 
 - [2022-01-14-踩了个-tp-link-的-iptv-坑](https://www.v2ex.com/t/828341) 
 - [2022-01-14-macOS-上如何下载-1080p60fps-的视频](https://www.v2ex.com/t/828340) 
@@ -38,6 +40,3 @@
 - [2022-01-14-有没有好的命令行工具可以把目录上传到-webdav-服务](https://www.v2ex.com/t/828299) 
 - [2022-01-14-求助-为啥-lsof-|-wc--l-出来的结果远大于-ulimits--n-设置的-kernel-参数？](https://www.v2ex.com/t/828298) 
 - [2022-01-14-上海,-远程-海外闲置物品交易平台招聘-golang](https://www.v2ex.com/t/828297) 
-- [2022-01-14-第一次买-macbook-有什么需要注意的吗](https://www.v2ex.com/t/828296) 
-- [2022-01-14-有关-winudf.com-的信息](https://www.v2ex.com/t/828295) 
-- [2022-01-14-有没有设计成多个引擎的数据库？](https://www.v2ex.com/t/828294) 

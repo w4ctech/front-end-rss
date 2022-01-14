@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-14 14:42:22，:rocket: 更新条数: +1752， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-14 14:54:30，:rocket: 更新条数: +1751， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,8 @@
 </summary>
 
 
+- [2022-01-14-设置浏览器的默认下载目录为“桌面”时，提示：没有供标记使用的对象。](https://www.v2ex.com/t/828346) ![](assets/new.png)  
+- [2022-01-14-HomePod-无法响应快捷指令](https://www.v2ex.com/t/828344) ![](assets/new.png)  
 - [2022-01-14-大家是怎么提升自己的代码力的](https://www.v2ex.com/t/828342) ![](assets/new.png)  
 - [2022-01-14-踩了个-tp-link-的-iptv-坑](https://www.v2ex.com/t/828341) ![](assets/new.png)  
 - [2022-01-14-macOS-上如何下载-1080p60fps-的视频](https://www.v2ex.com/t/828340) ![](assets/new.png)  
@@ -512,8 +514,6 @@
 - [2022-01-14-有大佬知道-rec-不解密-data-怎么解决吗？它根本就不跳解密的页面。](https://www.v2ex.com/t/828320) ![](assets/new.png)  
 - [2022-01-14-MacBookPro2021-16-寸新款屏幕缝隙不明白色物体](https://www.v2ex.com/t/828319) ![](assets/new.png)  
 - [2022-01-14-facebook-广告点击率比谷歌高？](https://www.v2ex.com/t/828317) ![](assets/new.png)  
-- [2022-01-14-淘宝语音监听可能真的存在！](https://www.v2ex.com/t/828316) ![](assets/new.png)  
-- [2022-01-14-一次次忍让只能换来一次次得欺压：能否集体起诉扣扣音乐](https://www.v2ex.com/t/828315) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -567,15 +567,15 @@
 - [2022-01-14-Java依赖冲突高效解决之道](https://toutiao.io/k/mfc7ots) ![](assets/new.png)  
 - [2022-01-14-DSTC10开放领域对话评估比赛冠军方法总结](https://toutiao.io/k/bw8obkv) ![](assets/new.png)  
 - [2022-01-14-关于项目中-Repository-层的思考](https://toutiao.io/k/nbik1ek) ![](assets/new.png)  
-- [2022-01-14-干货-|-基于-BDD-理念的-UI-自动化测试在携程度假的应用](https://toutiao.io/k/nqlrpee) ![](assets/new.png)  
 - [2022-01-14-设计模式系列——桥接模式](https://toutiao.io/k/pgszonz) ![](assets/new.png)  
+- [2022-01-14-干货-|-基于-BDD-理念的-UI-自动化测试在携程度假的应用](https://toutiao.io/k/nqlrpee) ![](assets/new.png)  
 - [2022-01-14-微服务拆分之道](https://toutiao.io/k/jjclagb) ![](assets/new.png)  
-- [2022-01-14-80抽猫狗湿巾加送2包便携装，只需8.9元！](https://toutiao.io/k/a3lukt7) ![](assets/new.png)  
 - [2022-01-14-独立开发变现周刊（第37期）：一个博客网站，2年后卖了1亿美金](https://toutiao.io/k/lhr8dz7) ![](assets/new.png)  
+- [2022-01-14-80抽猫狗湿巾加送2包便携装，只需8.9元！](https://toutiao.io/k/a3lukt7) ![](assets/new.png)  
 - [2022-01-14-简述C#中应用程序集的装载过程](https://toutiao.io/k/o2v6z2o) ![](assets/new.png)  
 - [2022-01-14-品读linux-0.10核心源代码](https://toutiao.io/k/06hrght) ![](assets/new.png)  
 - [2022-01-14-数仓指标一致性](https://toutiao.io/k/loey0se) ![](assets/new.png)  
-- [2022-01-14-推荐-缓存一致性最佳实践](https://toutiao.io/k/ymscqc1) ![](assets/new.png)  
+- [2022-01-14-推荐-非常哇塞的-ES读场景、写场景-性能优化指南！你值得拥有！](https://toutiao.io/k/5pjb28q) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

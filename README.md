@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-14 06:27:54，:rocket: 更新条数: +1742， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-14 06:49:04，:rocket: 更新条数: +1742， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,8 @@
 </summary>
 
 
+- [2022-01-14-一个阿里云买的域名，国内-reset](https://www.v2ex.com/t/828237) ![](assets/new.png)  
+- [2022-01-14-chrome-自动跳到-https，求助。](https://www.v2ex.com/t/828236) ![](assets/new.png)  
 - [2022-01-14-docx-批量转出-pdf-格式有什么好办法吗？](https://www.v2ex.com/t/828232) ![](assets/new.png)  
 - [2022-01-14-分享一个-IPTV-爬虫](https://www.v2ex.com/t/828231) ![](assets/new.png)  
 - [2022-01-14-dell-2720q-和-2720qm-到底啥区别？](https://www.v2ex.com/t/828230) ![](assets/new.png)  
@@ -512,8 +514,6 @@
 - [2022-01-14-腾讯企业邮箱什么鬼？无法绑定微信](https://www.v2ex.com/t/828208) ![](assets/new.png)  
 - [2022-01-14-WSL2-遇到-ICS-服务莫名其妙停止，导致-DNS-解析出现问题](https://www.v2ex.com/t/828206) ![](assets/new.png)  
 - [2022-01-14-迫于最近刚入职某流媒体公司，但对薪水不够满意，只好重新刷题，准备冲击-FAANG，-B-站的-leetcode-视频又开始更新了](https://www.v2ex.com/t/828205) ![](assets/new.png)  
-- [2022-01-14-SSL-OV-证书相比于-DV-证书的意义在哪？](https://www.v2ex.com/t/828204) ![](assets/new.png)  
-- [2022-01-14-前端-Svelte-框架的简单实现，了解-Svelte-运行原理可以从这里入手](https://www.v2ex.com/t/828203) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -567,15 +567,15 @@
 - [2022-01-14-DSTC10开放领域对话评估比赛冠军方法总结](https://toutiao.io/k/bw8obkv) ![](assets/new.png)  
 - [2022-01-14-简述C#中应用程序集的装载过程](https://toutiao.io/k/o2v6z2o) ![](assets/new.png)  
 - [2022-01-14-干货-|-基于-BDD-理念的-UI-自动化测试在携程度假的应用](https://toutiao.io/k/nqlrpee) ![](assets/new.png)  
-- [2022-01-14-微服务拆分之道](https://toutiao.io/k/jjclagb) ![](assets/new.png)  
-- [2022-01-14-Java依赖冲突高效解决之道](https://toutiao.io/k/mfc7ots) ![](assets/new.png)  
-- [2022-01-14-关于项目中-Repository-层的思考](https://toutiao.io/k/nbik1ek) ![](assets/new.png)  
 - [2022-01-14-18张图，详解SpringBoot解析yml全流程](https://toutiao.io/k/4v1pi0z) ![](assets/new.png)  
-- [2022-01-14-独立开发变现周刊（第37期）：一个博客网站，2年后卖了1亿美金](https://toutiao.io/k/lhr8dz7) ![](assets/new.png)  
-- [2022-01-14-品读linux-0.10核心源代码](https://toutiao.io/k/06hrght) ![](assets/new.png)  
-- [2022-01-14-数仓指标一致性](https://toutiao.io/k/loey0se) ![](assets/new.png)  
+- [2022-01-14-Java依赖冲突高效解决之道](https://toutiao.io/k/mfc7ots) ![](assets/new.png)  
+- [2022-01-14-微服务拆分之道](https://toutiao.io/k/jjclagb) ![](assets/new.png)  
+- [2022-01-14-关于项目中-Repository-层的思考](https://toutiao.io/k/nbik1ek) ![](assets/new.png)  
 - [2022-01-14-设计模式系列——桥接模式](https://toutiao.io/k/pgszonz) ![](assets/new.png)  
-- [2022-01-14-推荐-缓存一致性最佳实践](https://toutiao.io/k/ymscqc1) ![](assets/new.png)  
+- [2022-01-14-独立开发变现周刊（第37期）：一个博客网站，2年后卖了1亿美金](https://toutiao.io/k/lhr8dz7) ![](assets/new.png)  
+- [2022-01-14-数仓指标一致性](https://toutiao.io/k/loey0se) ![](assets/new.png)  
+- [2022-01-14-品读linux-0.10核心源代码](https://toutiao.io/k/06hrght) ![](assets/new.png)  
+- [2022-01-14-推荐-2022新年伊始，送你百篇干货文章](https://toutiao.io/k/kchudkd) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

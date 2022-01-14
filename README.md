@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-14 08:50:04，:rocket: 更新条数: +1744， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-14 09:13:44，:rocket: 更新条数: +1745， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,9 @@
 </summary>
 
 
+- [2022-01-14-家庭自用彩色打印机选择](https://www.v2ex.com/t/828285) ![](assets/new.png)  
+- [2022-01-14-杭州-杭州独角兽-Java-急招](https://www.v2ex.com/t/828283) ![](assets/new.png)  
+- [2022-01-14-彦祖们，有推荐的直面屏手机么？](https://www.v2ex.com/t/828281) ![](assets/new.png)  
 - [2022-01-14-家宽每天-15G-流量有什么性价比方案吗](https://www.v2ex.com/t/828280) ![](assets/new.png)  
 - [2022-01-14-如何查看软件-arm-架构支持情况-谢谢](https://www.v2ex.com/t/828278) ![](assets/new.png)  
 - [2022-01-14-请各位老师推荐一些机器学习云平台](https://www.v2ex.com/t/828276) ![](assets/new.png)  
@@ -511,9 +514,6 @@
 - [2022-01-14-诡异的-M1-mini-+-U2720Q-烧屏（图像残留）现象](https://www.v2ex.com/t/828260) ![](assets/new.png)  
 - [2022-01-14-是不是得去大厂卷几年，才能在广州买房？](https://www.v2ex.com/t/828257) ![](assets/new.png)  
 - [2022-01-14-有北美的同学在-StockX-上买过显卡么，这个网站靠谱么？](https://www.v2ex.com/t/828256) ![](assets/new.png)  
-- [2022-01-14-问个数据一致性的问题](https://www.v2ex.com/t/828255) ![](assets/new.png)  
-- [2022-01-14-git-操作命令行比界面有哪些优势呢？](https://www.v2ex.com/t/828253) ![](assets/new.png)  
-- [2022-01-14-为什么运营商和国家不强制推出统一短信电话朋友圈公众号小程序的-APP-呢？](https://www.v2ex.com/t/828252) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -563,11 +563,11 @@
 - [2022-01-14-基于事件驱动架构构建微服务第16部分：Azure-Active-Directory-B2C](https://toutiao.io/k/fydxo29) ![](assets/new.png)  
 - [2022-01-14-CNN卷土重来！超越Transformer！FAIR重新设计纯卷积架构：ConvNeXt](https://toutiao.io/k/5fodbg0) ![](assets/new.png)  
 - [2022-01-14-基于etcd实现大规模服务治理应用实战](https://toutiao.io/k/dx6dcgu) ![](assets/new.png)  
-- [2022-01-14-80抽猫狗湿巾加送2包便携装，只需8.9元！](https://toutiao.io/k/a3lukt7) ![](assets/new.png)  
 - [2022-01-14-DSTC10开放领域对话评估比赛冠军方法总结](https://toutiao.io/k/bw8obkv) ![](assets/new.png)  
+- [2022-01-14-80抽猫狗湿巾加送2包便携装，只需8.9元！](https://toutiao.io/k/a3lukt7) ![](assets/new.png)  
 - [2022-01-14-干货-|-基于-BDD-理念的-UI-自动化测试在携程度假的应用](https://toutiao.io/k/nqlrpee) ![](assets/new.png)  
-- [2022-01-14-简述C#中应用程序集的装载过程](https://toutiao.io/k/o2v6z2o) ![](assets/new.png)  
 - [2022-01-14-18张图，详解SpringBoot解析yml全流程](https://toutiao.io/k/4v1pi0z) ![](assets/new.png)  
+- [2022-01-14-简述C#中应用程序集的装载过程](https://toutiao.io/k/o2v6z2o) ![](assets/new.png)  
 - [2022-01-14-微服务拆分之道](https://toutiao.io/k/jjclagb) ![](assets/new.png)  
 - [2022-01-14-Java依赖冲突高效解决之道](https://toutiao.io/k/mfc7ots) ![](assets/new.png)  
 - [2022-01-14-关于项目中-Repository-层的思考](https://toutiao.io/k/nbik1ek) ![](assets/new.png)  
@@ -575,7 +575,7 @@
 - [2022-01-14-独立开发变现周刊（第37期）：一个博客网站，2年后卖了1亿美金](https://toutiao.io/k/lhr8dz7) ![](assets/new.png)  
 - [2022-01-14-品读linux-0.10核心源代码](https://toutiao.io/k/06hrght) ![](assets/new.png)  
 - [2022-01-14-数仓指标一致性](https://toutiao.io/k/loey0se) ![](assets/new.png)  
-- [2022-01-14-推荐-偷天换日，用-JavaAgent-欺骗你的-JVM](https://toutiao.io/k/cah22k5) ![](assets/new.png)  
+- [2022-01-14-推荐-再见了-VMware，一款更轻量级的虚拟机！](https://toutiao.io/k/xw2lnva) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

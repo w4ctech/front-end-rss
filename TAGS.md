@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-01-14 09:57:52。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-01-14 10:14:12。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -346,6 +346,7 @@
 
 
 
+- [【V2EX】上海,-远程-海外闲置物品交易平台招聘-golang](https://www.v2ex.com/t/828297)
 - [【V2EX】hr-最终面试，问之前薪资多少，漏嘴说高了，要求提供前公司薪资带转账单号证明](https://www.v2ex.com/t/828271)
 - [......【查看更多】......](./details/tags/job-interview.md)
 

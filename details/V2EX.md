@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-01-15 12:59:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-01-15 13:11:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
@@ -43,4 +43,3 @@
 - [2022-01-15-macOS-仍然可以用-iOS-版的-EasyConnect.-对-macOS-运行-iOS-app-的政策感到疑惑。](https://www.v2ex.com/t/828438) 
 - [2022-01-15-微服务之间如何处理同步事件](https://www.v2ex.com/t/828437) 
 - [2022-01-15-16-寸定制款-MacBook-Pro-到了，如何查看硬盘通电时间呢](https://www.v2ex.com/t/828436) 
-- [2022-01-15-企业域中的-Winodws-默认浏览器设置-定期被重置如何破？](https://www.v2ex.com/t/828435) 

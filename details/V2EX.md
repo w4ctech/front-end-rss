@@ -1,10 +1,15 @@
-:alarm_clock: 更新时间: 2022-01-15 13:42:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-01-15 13:54:16。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-01-15-如何避免“扣减了积分，但是没有成功创建订单”？---分布式事务相关](https://www.v2ex.com/t/828494) 
+- [2022-01-15-Stripe-电脑网络服务大类无法申请支付宝](https://www.v2ex.com/t/828493) 
+- [2022-01-15-将近两个月时间电信终于把卡板给我换了](https://www.v2ex.com/t/828492) 
+- [2022-01-15-问下-kotlin-中的继承问题](https://www.v2ex.com/t/828491) 
+- [2022-01-15-Genius-Bar-更换-TopCase-结果电池没换...](https://www.v2ex.com/t/828490) 
 - [2022-01-15-自己-的-wordpress-加速方案](https://www.v2ex.com/t/828487) 
 - [2022-01-15-某东南亚公司，招起了「舆情」「监测」相关的岗位](https://www.v2ex.com/t/828480) 
 - [2022-01-15-confluence-docker-数据如何持久化请教？](https://www.v2ex.com/t/828479) 
@@ -37,7 +42,3 @@
 - [2022-01-15-阿里云已经成为全世界最大的中文内容农场](https://www.v2ex.com/t/828447) 
 - [2022-01-15-远程，全职-分布式云存储，招-Web-前端，-Nodejs-后端及-Android-移动端开发-15~20K](https://www.v2ex.com/t/828446) 
 - [2022-01-15-WeChat-8.0.17-版本,非中国大陆地区也可以用人脸识别认证了](https://www.v2ex.com/t/828445) 
-- [2022-01-15-翻到一个回忆满满的存档，有人一起玩基岩版生存服吗？](https://www.v2ex.com/t/828444) 
-- [2022-01-15-pandas-链式赋值总得用-copy](https://www.v2ex.com/t/828443) 
-- [2022-01-15-微信-iOS-版更新-终于加入语音消息播放暂停功能](https://www.v2ex.com/t/828442) 
-- [2022-01-15-百度搜索调试了无障碍阅读模式，快捷键竟然是-ctrl-Mac-下-Command-+shift](https://www.v2ex.com/t/828441) 

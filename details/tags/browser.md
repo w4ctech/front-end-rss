@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-01-15 11:11:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-01-15 11:19:30。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -16,5 +16,5 @@
 - [2022-01-15-百度搜索调试了无障碍阅读模式，快捷键竟然是-ctrl-Mac-下-Command-+shift](https://www.v2ex.com/t/828441) 
 - [2022-01-15-企业域中的-Winodws-默认浏览器设置-定期被重置如何破？](https://www.v2ex.com/t/828435) 
 - [2022-01-15-一文读懂浏览器存储与缓存机制-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=14896&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F422666602%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
-- [2022-01-15-推荐-浅谈缓存最终一致性的解决方案](https://toutiao.io/k/mgym1lv) 
 - [2022-01-15-推荐-缓存一致性最佳实践](https://toutiao.io/k/ymscqc1) 
+- [2022-01-15-推荐-浅谈缓存最终一致性的解决方案](https://toutiao.io/k/mgym1lv) 

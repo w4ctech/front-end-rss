@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-15 07:41:08，:rocket: 更新条数: +1750， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-15 07:54:36，:rocket: 更新条数: +1750， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,8 @@
 </summary>
 
 
+- [2022-01-15-WeChat-8.0.17-版本,非中国大陆地区也可以用人脸识别认证了](https://www.v2ex.com/t/828445) ![](assets/new.png)  
+- [2022-01-15-翻到一个回忆满满的存档，有人一起玩基岩版生存服吗？](https://www.v2ex.com/t/828444) ![](assets/new.png)  
 - [2022-01-15-pandas-链式赋值总得用-copy](https://www.v2ex.com/t/828443) ![](assets/new.png)  
 - [2022-01-15-微信-iOS-版更新-终于加入语音消息播放暂停功能](https://www.v2ex.com/t/828442) ![](assets/new.png)  
 - [2022-01-15-百度搜索调试了无障碍阅读模式，快捷键竟然是-ctrl-Mac-下-Command-+shift](https://www.v2ex.com/t/828441) ![](assets/new.png)  
@@ -512,8 +514,6 @@
 - [2022-01-15-创建了一个-mc-1.18.1-几乎原版的服务器，欢迎大家过年无聊来玩](https://www.v2ex.com/t/828421) ![](assets/new.png)  
 - [2022-01-15-大家使用-M1-感受如何？](https://www.v2ex.com/t/828420) ![](assets/new.png)  
 - [2022-01-15-steam-官网部分地区疑似被墙](https://www.v2ex.com/t/828418) ![](assets/new.png)  
-- [2022-01-15-有什么开源工具可以定时保存推特图片视频](https://www.v2ex.com/t/828416) ![](assets/new.png)  
-- [2022-01-15-被自己坑惨了---服务器失联了](https://www.v2ex.com/t/828415) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -565,15 +565,15 @@
 - [2022-01-15-手把手教你使用-Vuex，猴子都能看懂的教程](https://toutiao.io/k/kec70pe) ![](assets/new.png)  
 - [2022-01-15-10分钟搞懂事件驱动API](https://toutiao.io/k/qugyzni) ![](assets/new.png)  
 - [2022-01-15-任务型对话系统预训练最新研究进展](https://toutiao.io/k/vvxwp6q) ![](assets/new.png)  
-- [2022-01-15-推荐-网络编程怎么做才算是优雅？](https://toutiao.io/k/zylzzpi) ![](assets/new.png)  
-- [2022-01-15-推荐-再见了-VMware，一款更轻量级的虚拟机！](https://toutiao.io/k/xw2lnva) ![](assets/new.png)  
 - [2022-01-15-推荐-从零打造-Instagram](https://toutiao.io/k/hufqvji) ![](assets/new.png)  
-- [2022-01-15-推荐-浅谈缓存最终一致性的解决方案](https://toutiao.io/k/mgym1lv) ![](assets/new.png)  
-- [2022-01-15-推荐-2022新年伊始，送你百篇干货文章](https://toutiao.io/k/kchudkd) ![](assets/new.png)  
-- [2022-01-15-推荐-非常哇塞的-ES读场景、写场景-性能优化指南！你值得拥有！](https://toutiao.io/k/5pjb28q) ![](assets/new.png)  
-- [2022-01-15-推荐-偷天换日，用-JavaAgent-欺骗你的-JVM](https://toutiao.io/k/cah22k5) ![](assets/new.png)  
-- [2022-01-15-推荐-缓存一致性最佳实践](https://toutiao.io/k/ymscqc1) ![](assets/new.png)  
 - [2022-01-15-推荐-JVM调优的几种场景（建议收藏）](https://toutiao.io/k/0mfx2nd) ![](assets/new.png)  
+- [2022-01-15-推荐-2022新年伊始，送你百篇干货文章](https://toutiao.io/k/kchudkd) ![](assets/new.png)  
+- [2022-01-15-推荐-浅谈缓存最终一致性的解决方案](https://toutiao.io/k/mgym1lv) ![](assets/new.png)  
+- [2022-01-15-推荐-偷天换日，用-JavaAgent-欺骗你的-JVM](https://toutiao.io/k/cah22k5) ![](assets/new.png)  
+- [2022-01-15-推荐-网络编程怎么做才算是优雅？](https://toutiao.io/k/zylzzpi) ![](assets/new.png)  
+- [2022-01-15-推荐-非常哇塞的-ES读场景、写场景-性能优化指南！你值得拥有！](https://toutiao.io/k/5pjb28q) ![](assets/new.png)  
+- [2022-01-15-推荐-缓存一致性最佳实践](https://toutiao.io/k/ymscqc1) ![](assets/new.png)  
+- [2022-01-15-推荐-再见了-VMware，一款更轻量级的虚拟机！](https://toutiao.io/k/xw2lnva) ![](assets/new.png)  
 - [2022-01-15-推荐-用规则引擎让你一天上线十个需求](https://toutiao.io/k/ldd1cse) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

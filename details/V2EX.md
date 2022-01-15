@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2022-01-15 07:41:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-01-15 07:54:36。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-01-15-WeChat-8.0.17-版本,非中国大陆地区也可以用人脸识别认证了](https://www.v2ex.com/t/828445) 
+- [2022-01-15-翻到一个回忆满满的存档，有人一起玩基岩版生存服吗？](https://www.v2ex.com/t/828444) 
 - [2022-01-15-pandas-链式赋值总得用-copy](https://www.v2ex.com/t/828443) 
 - [2022-01-15-微信-iOS-版更新-终于加入语音消息播放暂停功能](https://www.v2ex.com/t/828442) 
 - [2022-01-15-百度搜索调试了无障碍阅读模式，快捷键竟然是-ctrl-Mac-下-Command-+shift](https://www.v2ex.com/t/828441) 
@@ -43,5 +45,3 @@
 - [2022-01-15-请教独立开发者们，-app-的-UI-也是自己思考画出来的吗](https://www.v2ex.com/t/828398) 
 - [2022-01-15-安利一篇详细说明雷电-3/4-细节的文章](https://www.v2ex.com/t/828397) 
 - [2022-01-15-flink-Java-timer-的使用](https://www.v2ex.com/t/828396) 
-- [2022-01-15-v6-ra-前缀-lifetime-30-天](https://www.v2ex.com/t/828395) 
-- [2022-01-15-找个股票交易软件](https://www.v2ex.com/t/828394) 

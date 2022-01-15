@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-01-15 05:02:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-01-15 05:14:01。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 游戏开发
 
@@ -7,5 +7,6 @@
 
 
 
+- [2022-01-15-窄边框手机打游戏手心误碰屏幕边缘,-除了手机壳,-还有什么别的方法吗?](https://www.v2ex.com/t/828414) 
 - [2022-01-15-视频分享：-为什么《求生之路》能够成神，而精神续作《求血之路》不尽如人意。视频作者整理了游戏开发者日志来详细解释了为什么我当年觉得这个游戏非常有意思，...](https://www.v2ex.com/t/828404) 
 - [2022-01-15-用Python做一个游戏辅助脚本！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14893&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247492993%26amp%3Bidx%3D2%26amp%3Bsn%3D67230660b390f06f5584792da10b1078%26amp%3Bchksm%3Dfa3f04dacd488dccec0f68b1534821b98dde1730e4970ca0629239bd3275199e72af4b3c8771%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-01-15 18:49:33。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-01-15 19:10:44。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -24,5 +24,4 @@
 - [2022-01-15-大家是否在初学-Rx（响应式扩展，经典如-RxJs，-RxJava）时，觉得它的写法反过来会更好理解？](https://www.v2ex.com/t/828473) 
 - [2022-01-15-做了一个基于-JavaScript-VMP-的滑动验证系统](https://www.v2ex.com/t/828470) 
 - [2022-01-15-软路由+AP-下-apple-tv-和-iPhone-无法通信](https://www.v2ex.com/t/828469) 
-- [2022-01-15-用-Auto.js-下载保存的视频在手机-App-识别不到，怎么办？](https://www.v2ex.com/t/828463) 
 - [2022-01-15-10分钟搞懂事件驱动API](https://toutiao.io/k/qugyzni) 

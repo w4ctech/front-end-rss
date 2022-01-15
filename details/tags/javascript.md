@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-01-15 05:54:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-01-15 06:15:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -21,3 +21,4 @@
 - [2021-10-28-JS复制文字到剪切板的极简实现及扩展](https://www.zhangxinxu.com/wordpress/2021/10/js-copy-paste-clipboard/) 
 - [2022-01-15-中国也发生-n-号房事件了](https://www.v2ex.com/t/828400) 
 - [2022-01-15-推荐-Mac-上最强的滚动截图长截图应用-Picsee促销代码](https://www.v2ex.com/t/828390) 
+- [2022-01-15-10分钟搞懂事件驱动API](https://toutiao.io/k/qugyzni) 

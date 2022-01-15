@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2022-01-15 14:20:15。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-01-15 14:38:12。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-01-15-watchOS-版的微信是史上最垃圾的应用，没有之一。](https://www.v2ex.com/t/828497) 
+- [2022-01-15-Google-Workspace-Enterpress-Standard-招队友](https://www.v2ex.com/t/828496) 
 - [2022-01-15-如何避免“扣减了积分，但是没有成功创建订单”？---分布式事务相关](https://www.v2ex.com/t/828494) 
 - [2022-01-15-Stripe-电脑网络服务大类无法申请支付宝](https://www.v2ex.com/t/828493) 
 - [2022-01-15-将近两个月时间电信终于把卡板给我换了](https://www.v2ex.com/t/828492) 
@@ -39,5 +41,3 @@
 - [2022-01-15-家里-R2S-老是断网，有没有补救措施？](https://www.v2ex.com/t/828450) 
 - [2022-01-15-电动汽车的增程，是不是加多了一个汽油发动机？](https://www.v2ex.com/t/828449) 
 - [2022-01-15-Nike-跑步记录-App-强制绑定+86-手机号](https://www.v2ex.com/t/828448) 
-- [2022-01-15-阿里云已经成为全世界最大的中文内容农场](https://www.v2ex.com/t/828447) 
-- [2022-01-15-远程，全职-分布式云存储，招-Web-前端，-Nodejs-后端及-Android-移动端开发-15~20K](https://www.v2ex.com/t/828446) 

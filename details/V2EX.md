@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-01-15 07:13:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-01-15 07:21:17。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
@@ -45,5 +45,3 @@
 - [2022-01-15-想搞个假的前台照片展示公司-logo](https://www.v2ex.com/t/828393) 
 - [2022-01-15-快过年了，作业借我抄抄](https://www.v2ex.com/t/828392) 
 - [2022-01-15-求助！-centos-上-mysql-进程无限消耗-cpu-和内存](https://www.v2ex.com/t/828391) 
-- [2022-01-15-推荐-Mac-上最强的滚动截图长截图应用-Picsee促销代码](https://www.v2ex.com/t/828390) 
-- [2022-01-15-为甚么不能直接给不定长位置参数*args-传递一个元组类型的实参呢??](https://www.v2ex.com/t/828389) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-15 08:27:16，:rocket: 更新条数: +1750， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-15 08:45:21，:rocket: 更新条数: +1754， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -67,10 +67,14 @@
 
 - [2022-01-15-1月14日全国新增新冠165例-五省份本土104例](https://m.caixin.com/m/2022-01-15/101830518.html) ![](assets/new.png)  
 - [2022-01-15-珠海报告7例奥密克戎感染者-广东现多点疫情](https://m.caixin.com/m/2022-01-15/101830468.html) ![](assets/new.png)  
+- [2022-01-15-最新封面报道之二｜检阅新冠救治防线](https://weekly.caixin.com/m/2022-01-15/101830435.html) ![](assets/new.png)  
+- [2022-01-15-最新封面报道之三｜全球面对现实](https://weekly.caixin.com/m/2022-01-15/101830437.html) ![](assets/new.png)  
+- [2022-01-15-最新封面报道之四｜奥密克戎有何不同](https://weekly.caixin.com/m/2022-01-15/101830439.html) ![](assets/new.png)  
 - [2022-01-15-Omicron在意大利已占主导地位-南非研究显示其毒力更弱｜大流行手记（1月14日）](https://m.caixin.com/m/2022-01-15/101830527.html) ![](assets/new.png)  
 - [2022-01-14-广东珠海确定7例阳性个案-初判为奥密克戎](https://m.caixin.com/m/2022-01-14/101830334.html) ![](assets/new.png)  
 - [2022-01-14-疫情曲线又升高-日本缩短密接者所需隔离期](https://international.caixin.com/m/2022-01-14/101830406.html) ![](assets/new.png)  
 - [2022-01-14-最新海外疫情：新冠感染超3.19亿，累计接种新冠疫苗超95.35亿剂次](https://m.caixin.com/m/2022-01-14/101830298.html) ![](assets/new.png)  
+- [2022-01-14-最新封面报道｜奥密克戎遭遇战](https://weekly.caixin.com/m/2022-01-14/101830078.html) ![](assets/new.png)  
 - [2022-01-14-香港收紧机组人员检疫-特首预告进口食品面临涨价](https://m.caixin.com/m/2022-01-14/101830212.html) ![](assets/new.png)  
 - [2022-01-14-国际医学西安两医院停业整顿3个月-母公司股票被ST后停牌](https://m.caixin.com/m/2022-01-14/101830062.html) ![](assets/new.png)  
 - [2022-01-14-杭州新增1例确诊-系西溪医院护士](https://m.caixin.com/m/2022-01-14/101830024.html) ![](assets/new.png)  
@@ -81,10 +85,6 @@
 - [2022-01-13-上海新增2例确诊和3例无症状-均为境外输入关联病例](https://m.caixin.com/m/2022-01-13/101829820.html) ![](assets/new.png)  
 - [2022-01-13-广东中山报告一例新冠阳性病例-入境澳门须48小时核酸阴性证明](https://m.caixin.com/m/2022-01-13/101829685.html) ![](assets/new.png)  
 - [2022-01-13-西安卫健委：西安高新医院、西安国际医学中心医院停业整顿3个月](https://m.caixin.com/m/2022-01-13/101829562.html) ![](assets/new.png)  
-- [2022-01-13-【境内疫情观察】全国新增124例本土病例（1月12日）](https://database.caixin.com/m/2022-01-13/101829633.html) ![](assets/new.png)  
-- [2022-01-13-全球一周内新增1500万病例，奥密克戎由西向东蔓延丨大流行手记（1月12日）](https://m.caixin.com/m/2022-01-13/101829508.html) ![](assets/new.png)  
-- [2022-01-13-记者手记｜在香港，核酸检测不是“捅”鼻子](https://m.caixin.com/m/2022-01-13/101829852.html) ![](assets/new.png)  
-- [2022-01-13-分析｜Omicron来袭，怎样让健康码不“掉链子”？](https://m.caixin.com/m/2022-01-13/101829578.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -494,6 +494,10 @@
 </summary>
 
 
+- [2022-01-15-家里-R2S-老是断网，有没有补救措施？](https://www.v2ex.com/t/828450) ![](assets/new.png)  
+- [2022-01-15-电动汽车的增程，是不是加多了一个汽油发动机？](https://www.v2ex.com/t/828449) ![](assets/new.png)  
+- [2022-01-15-Nike-跑步记录-App-强制绑定+86-手机号](https://www.v2ex.com/t/828448) ![](assets/new.png)  
+- [2022-01-15-阿里云已经成为全世界最大的中文内容农场](https://www.v2ex.com/t/828447) ![](assets/new.png)  
 - [2022-01-15-远程，全职-分布式云存储，招-Web-前端，-Nodejs-后端及-Android-移动端开发-15~20K](https://www.v2ex.com/t/828446) ![](assets/new.png)  
 - [2022-01-15-WeChat-8.0.17-版本,非中国大陆地区也可以用人脸识别认证了](https://www.v2ex.com/t/828445) ![](assets/new.png)  
 - [2022-01-15-翻到一个回忆满满的存档，有人一起玩基岩版生存服吗？](https://www.v2ex.com/t/828444) ![](assets/new.png)  
@@ -510,10 +514,6 @@
 - [2022-01-15-谁能知道这是什么面?](https://www.v2ex.com/t/828427) ![](assets/new.png)  
 - [2022-01-15-知乎早期的那批创作者都去哪里了呢？](https://www.v2ex.com/t/828425) ![](assets/new.png)  
 - [2022-01-15-有什么简易的物理输入混淆工具吗？](https://www.v2ex.com/t/828424) ![](assets/new.png)  
-- [2022-01-15-如何让-PC/Mac“彻底忽略”一台连接着的显示器？](https://www.v2ex.com/t/828423) ![](assets/new.png)  
-- [2022-01-15-「蝉语-/-Cicada-Language」一个新的-dependent-type-语言！](https://www.v2ex.com/t/828422) ![](assets/new.png)  
-- [2022-01-15-创建了一个-mc-1.18.1-几乎原版的服务器，欢迎大家过年无聊来玩](https://www.v2ex.com/t/828421) ![](assets/new.png)  
-- [2022-01-15-大家使用-M1-感受如何？](https://www.v2ex.com/t/828420) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -565,16 +565,16 @@
 - [2022-01-15-手把手教你使用-Vuex，猴子都能看懂的教程](https://toutiao.io/k/kec70pe) ![](assets/new.png)  
 - [2022-01-15-10分钟搞懂事件驱动API](https://toutiao.io/k/qugyzni) ![](assets/new.png)  
 - [2022-01-15-任务型对话系统预训练最新研究进展](https://toutiao.io/k/vvxwp6q) ![](assets/new.png)  
-- [2022-01-15-推荐-再见了-VMware，一款更轻量级的虚拟机！](https://toutiao.io/k/xw2lnva) ![](assets/new.png)  
-- [2022-01-15-推荐-JVM调优的几种场景（建议收藏）](https://toutiao.io/k/0mfx2nd) ![](assets/new.png)  
-- [2022-01-15-推荐-浅谈缓存最终一致性的解决方案](https://toutiao.io/k/mgym1lv) ![](assets/new.png)  
-- [2022-01-15-推荐-用规则引擎让你一天上线十个需求](https://toutiao.io/k/ldd1cse) ![](assets/new.png)  
-- [2022-01-15-推荐-偷天换日，用-JavaAgent-欺骗你的-JVM](https://toutiao.io/k/cah22k5) ![](assets/new.png)  
-- [2022-01-15-推荐-网络编程怎么做才算是优雅？](https://toutiao.io/k/zylzzpi) ![](assets/new.png)  
 - [2022-01-15-推荐-非常哇塞的-ES读场景、写场景-性能优化指南！你值得拥有！](https://toutiao.io/k/5pjb28q) ![](assets/new.png)  
+- [2022-01-15-推荐-用规则引擎让你一天上线十个需求](https://toutiao.io/k/ldd1cse) ![](assets/new.png)  
+- [2022-01-15-推荐-再见了-VMware，一款更轻量级的虚拟机！](https://toutiao.io/k/xw2lnva) ![](assets/new.png)  
 - [2022-01-15-推荐-2022新年伊始，送你百篇干货文章](https://toutiao.io/k/kchudkd) ![](assets/new.png)  
+- [2022-01-15-推荐-浅谈缓存最终一致性的解决方案](https://toutiao.io/k/mgym1lv) ![](assets/new.png)  
 - [2022-01-15-推荐-缓存一致性最佳实践](https://toutiao.io/k/ymscqc1) ![](assets/new.png)  
 - [2022-01-15-推荐-从零打造-Instagram](https://toutiao.io/k/hufqvji) ![](assets/new.png)  
+- [2022-01-15-推荐-偷天换日，用-JavaAgent-欺骗你的-JVM](https://toutiao.io/k/cah22k5) ![](assets/new.png)  
+- [2022-01-15-推荐-网络编程怎么做才算是优雅？](https://toutiao.io/k/zylzzpi) ![](assets/new.png)  
+- [2022-01-15-推荐-JVM调优的几种场景（建议收藏）](https://toutiao.io/k/0mfx2nd) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

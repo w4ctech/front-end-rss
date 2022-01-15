@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-01-15 10:45:32。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-01-15 10:57:49。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -186,6 +186,7 @@
 - [【张鑫旭-鑫空间-鑫生活】flex-end为什么overflow无法滚动及解决方法](https://www.zhangxinxu.com/wordpress/2021/12/flex-end-overflow/)
 - [【张鑫旭-鑫空间-鑫生活】从js-visibilitychange-Safari下无效说开去](https://www.zhangxinxu.com/wordpress/2021/11/js-visibilitychange-pagehide-lifecycle/)
 - [【张鑫旭-鑫空间-鑫生活】JS复制文字到剪切板的极简实现及扩展](https://www.zhangxinxu.com/wordpress/2021/10/js-copy-paste-clipboard/)
+- [【V2EX】用-Auto.js-下载保存的视频在手机-App-识别不到，怎么办？](https://www.v2ex.com/t/828463)
 - [【V2EX】微服务之间如何处理同步事件](https://www.v2ex.com/t/828437)
 - [【开发者头条】10分钟搞懂事件驱动API](https://toutiao.io/k/qugyzni)
 - [......【查看更多】......](./details/tags/javascript.md)
@@ -285,8 +286,8 @@
 - [【V2EX】百度搜索调试了无障碍阅读模式，快捷键竟然是-ctrl-Mac-下-Command-+shift](https://www.v2ex.com/t/828441)
 - [【V2EX】企业域中的-Winodws-默认浏览器设置-定期被重置如何破？](https://www.v2ex.com/t/828435)
 - [【技术头条】一文读懂浏览器存储与缓存机制-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=14896&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F422666602%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
-- [【开发者头条】推荐-缓存一致性最佳实践](https://toutiao.io/k/ymscqc1)
 - [【开发者头条】推荐-浅谈缓存最终一致性的解决方案](https://toutiao.io/k/mgym1lv)
+- [【开发者头条】推荐-缓存一致性最佳实践](https://toutiao.io/k/ymscqc1)
 - [......【查看更多】......](./details/tags/browser.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

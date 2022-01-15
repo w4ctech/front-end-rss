@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-15 10:57:49，:rocket: 更新条数: +1753， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-15 11:11:09，:rocket: 更新条数: +1753， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -65,15 +65,15 @@
 </summary>
 
 
-- [2022-01-15-1月14日全国新增新冠165例-五省份本土104例](https://m.caixin.com/m/2022-01-15/101830518.html) ![](assets/new.png)  
+- [2022-01-15-最新疫情：全国新冠累计确诊104745例-累计接种新冠疫苗超29.28亿剂次](https://m.caixin.com/m/2022-01-15/101830659.html) ![](assets/new.png)  
 - [2022-01-15-北京海淀新增新冠阳性1例](https://china.caixin.com/m/2022-01-15/101830645.html) ![](assets/new.png)  
 - [2022-01-15-珠海报告7例奥密克戎感染者-广东现多点疫情](https://m.caixin.com/m/2022-01-15/101830468.html) ![](assets/new.png)  
+- [2022-01-15-最新海外疫情：新冠感染超3.22亿-累计接种新冠疫苗超95.72亿剂次](https://m.caixin.com/m/2022-01-15/101830653.html) ![](assets/new.png)  
 - [2022-01-15-最新封面报道之二｜检阅新冠救治防线](https://weekly.caixin.com/m/2022-01-15/101830435.html) ![](assets/new.png)  
 - [2022-01-15-最新封面报道之三｜全球面对现实](https://weekly.caixin.com/m/2022-01-15/101830437.html) ![](assets/new.png)  
 - [2022-01-15-最新封面报道之四｜奥密克戎有何不同](https://weekly.caixin.com/m/2022-01-15/101830439.html) ![](assets/new.png)  
 - [2022-01-15-Omicron在意大利已占主导地位-南非研究显示其毒力更弱｜大流行手记（1月14日）](https://m.caixin.com/m/2022-01-15/101830527.html) ![](assets/new.png)  
 - [2022-01-14-广东珠海确定7例阳性个案-初判为奥密克戎](https://m.caixin.com/m/2022-01-14/101830334.html) ![](assets/new.png)  
-- [2022-01-14-最新海外疫情：新冠感染超3.19亿，累计接种新冠疫苗超95.35亿剂次](https://m.caixin.com/m/2022-01-14/101830298.html) ![](assets/new.png)  
 - [2022-01-14-最新封面报道｜奥密克戎遭遇战](https://weekly.caixin.com/m/2022-01-14/101830078.html) ![](assets/new.png)  
 - [2022-01-14-香港收紧机组人员检疫-特首预告进口食品面临涨价](https://m.caixin.com/m/2022-01-14/101830212.html) ![](assets/new.png)  
 - [2022-01-14-国际医学西安两医院停业整顿3个月-母公司股票被ST后停牌](https://m.caixin.com/m/2022-01-14/101830062.html) ![](assets/new.png)  
@@ -494,6 +494,9 @@
 </summary>
 
 
+- [2022-01-15-fsou.cc-是不是崩了？](https://www.v2ex.com/t/828466) ![](assets/new.png)  
+- [2022-01-15-请问黑客帝国系列讲的是什么俗气的爱情故事吗？](https://www.v2ex.com/t/828465) ![](assets/new.png)  
+- [2022-01-15-用了多年的-17-年-MBP，想等明年-M2-的-MBA。](https://www.v2ex.com/t/828464) ![](assets/new.png)  
 - [2022-01-15-用-Auto.js-下载保存的视频在手机-App-识别不到，怎么办？](https://www.v2ex.com/t/828463) ![](assets/new.png)  
 - [2022-01-15-PowerShell-竟然强悍如斯！](https://www.v2ex.com/t/828462) ![](assets/new.png)  
 - [2022-01-15-心浮气躁的时候，你是怎么静下来的？V-友整理](https://www.v2ex.com/t/828460) ![](assets/new.png)  
@@ -511,9 +514,6 @@
 - [2022-01-15-远程，全职-分布式云存储，招-Web-前端，-Nodejs-后端及-Android-移动端开发-15~20K](https://www.v2ex.com/t/828446) ![](assets/new.png)  
 - [2022-01-15-WeChat-8.0.17-版本,非中国大陆地区也可以用人脸识别认证了](https://www.v2ex.com/t/828445) ![](assets/new.png)  
 - [2022-01-15-翻到一个回忆满满的存档，有人一起玩基岩版生存服吗？](https://www.v2ex.com/t/828444) ![](assets/new.png)  
-- [2022-01-15-pandas-链式赋值总得用-copy](https://www.v2ex.com/t/828443) ![](assets/new.png)  
-- [2022-01-15-微信-iOS-版更新-终于加入语音消息播放暂停功能](https://www.v2ex.com/t/828442) ![](assets/new.png)  
-- [2022-01-15-百度搜索调试了无障碍阅读模式，快捷键竟然是-ctrl-Mac-下-Command-+shift](https://www.v2ex.com/t/828441) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -566,15 +566,15 @@
 - [2022-01-15-10分钟搞懂事件驱动API](https://toutiao.io/k/qugyzni) ![](assets/new.png)  
 - [2022-01-15-任务型对话系统预训练最新研究进展](https://toutiao.io/k/vvxwp6q) ![](assets/new.png)  
 - [2022-01-15-推荐-2022新年伊始，送你百篇干货文章](https://toutiao.io/k/kchudkd) ![](assets/new.png)  
-- [2022-01-15-推荐-浅谈缓存最终一致性的解决方案](https://toutiao.io/k/mgym1lv) ![](assets/new.png)  
-- [2022-01-15-推荐-用规则引擎让你一天上线十个需求](https://toutiao.io/k/ldd1cse) ![](assets/new.png)  
-- [2022-01-15-推荐-网络编程怎么做才算是优雅？](https://toutiao.io/k/zylzzpi) ![](assets/new.png)  
 - [2022-01-15-推荐-再见了-VMware，一款更轻量级的虚拟机！](https://toutiao.io/k/xw2lnva) ![](assets/new.png)  
-- [2022-01-15-推荐-缓存一致性最佳实践](https://toutiao.io/k/ymscqc1) ![](assets/new.png)  
-- [2022-01-15-推荐-偷天换日，用-JavaAgent-欺骗你的-JVM](https://toutiao.io/k/cah22k5) ![](assets/new.png)  
+- [2022-01-15-推荐-网络编程怎么做才算是优雅？](https://toutiao.io/k/zylzzpi) ![](assets/new.png)  
 - [2022-01-15-推荐-JVM调优的几种场景（建议收藏）](https://toutiao.io/k/0mfx2nd) ![](assets/new.png)  
+- [2022-01-15-推荐-浅谈缓存最终一致性的解决方案](https://toutiao.io/k/mgym1lv) ![](assets/new.png)  
 - [2022-01-15-推荐-从零打造-Instagram](https://toutiao.io/k/hufqvji) ![](assets/new.png)  
+- [2022-01-15-推荐-偷天换日，用-JavaAgent-欺骗你的-JVM](https://toutiao.io/k/cah22k5) ![](assets/new.png)  
 - [2022-01-15-推荐-非常哇塞的-ES读场景、写场景-性能优化指南！你值得拥有！](https://toutiao.io/k/5pjb28q) ![](assets/new.png)  
+- [2022-01-15-推荐-缓存一致性最佳实践](https://toutiao.io/k/ymscqc1) ![](assets/new.png)  
+- [2022-01-15-推荐-用规则引擎让你一天上线十个需求](https://toutiao.io/k/ldd1cse) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

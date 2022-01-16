@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-01-16 02:24:14。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-01-16 02:57:23。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -188,7 +188,6 @@
 - [【V2EX】无线路由器及电视盒子问题](https://www.v2ex.com/t/828510)
 - [【V2EX】golang-中-json-如何解析不同的结构体](https://www.v2ex.com/t/828475)
 - [【V2EX】大家是否在初学-Rx（响应式扩展，经典如-RxJs，-RxJava）时，觉得它的写法反过来会更好理解？](https://www.v2ex.com/t/828473)
-- [【V2EX】做了一个基于-JavaScript-VMP-的滑动验证系统](https://www.v2ex.com/t/828470)
 - [......【查看更多】......](./details/tags/javascript.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

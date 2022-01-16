@@ -11,11 +11,11 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-16 11:10:43，:rocket: 更新条数: +81， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-16 11:19:19，:rocket: 更新条数: +1748， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
@@ -65,6 +65,26 @@
 </summary>
 
 
+- [2022-01-16-最新疫情：全国新冠累计确诊104864例-累计接种新冠疫苗超29.33亿剂次](https://m.caixin.com/m/2022-01-16/101830818.html) ![](assets/new.png)  
+- [2022-01-16-最新海外疫情：新冠感染超3.25亿-累计接种新冠疫苗超96.07亿剂次](https://m.caixin.com/m/2022-01-16/101830825.html) ![](assets/new.png)  
+- [2022-01-16-【境内疫情观察】全国新增65例本土病例（1月15日）](https://database.caixin.com/m/2022-01-16/101830807.html) ![](assets/new.png)  
+- [2022-01-16-COVAX疫苗因保质期短遭拒，东南亚疫情恶化｜大流行手记（1月15日）](https://m.caixin.com/m/2022-01-16/101830788.html) ![](assets/new.png)  
+- [2022-01-15-北京确诊一例奥密克戎，病例居住小区封闭](https://m.caixin.com/m/2022-01-15/101830730.html) ![](assets/new.png)  
+- [2022-01-15-珠海报告7例奥密克戎感染者-广东现多点疫情](https://m.caixin.com/m/2022-01-15/101830468.html) ![](assets/new.png)  
+- [2022-01-15-最新封面报道之二｜检阅新冠救治防线](https://weekly.caixin.com/m/2022-01-15/101830435.html) ![](assets/new.png)  
+- [2022-01-15-最新封面报道之三｜全球面对现实](https://weekly.caixin.com/m/2022-01-15/101830437.html) ![](assets/new.png)  
+- [2022-01-15-最新封面报道之四｜奥密克戎有何不同](https://weekly.caixin.com/m/2022-01-15/101830439.html) ![](assets/new.png)  
+- [2022-01-15-北京新增1例本土新冠确诊为奥密克戎-轨迹公布](https://china.caixin.com/m/2022-01-15/101830645.html) ![](assets/new.png)  
+- [2022-01-15-【境内疫情观察】全国新增104例本土病例（1月14日）](https://database.caixin.com/m/2022-01-15/101830669.html) ![](assets/new.png)  
+- [2022-01-15-Omicron在意大利已占主导地位-南非研究显示其毒力更弱｜大流行手记（1月14日）](https://m.caixin.com/m/2022-01-15/101830527.html) ![](assets/new.png)  
+- [2022-01-14-广东珠海确定7例阳性个案-初判为奥密克戎](https://m.caixin.com/m/2022-01-14/101830334.html) ![](assets/new.png)  
+- [2022-01-14-最新封面报道｜奥密克戎遭遇战](https://weekly.caixin.com/m/2022-01-14/101830078.html) ![](assets/new.png)  
+- [2022-01-14-香港收紧机组人员检疫-特首预告进口食品面临涨价](https://m.caixin.com/m/2022-01-14/101830212.html) ![](assets/new.png)  
+- [2022-01-14-国际医学西安两医院停业整顿3个月-母公司股票被ST后停牌](https://m.caixin.com/m/2022-01-14/101830062.html) ![](assets/new.png)  
+- [2022-01-14-杭州新增1例确诊-系西溪医院护士](https://m.caixin.com/m/2022-01-14/101830024.html) ![](assets/new.png)  
+- [2022-01-14-【境内疫情观察】全国新增143例本土病例（1月13日）](https://database.caixin.com/m/2022-01-14/101830197.html) ![](assets/new.png)  
+- [2022-01-14-东京病例创新高-贫穷国家拒绝超1亿剂将过期疫苗｜大流行手记（1月13日）](https://m.caixin.com/m/2022-01-14/101829976.html) ![](assets/new.png)  
+- [2022-01-14-意见领袖|周伟：依靠法治提升疫情防控能力](https://opinion.caixin.com/m/2022-01-14/101830246.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -474,6 +494,7 @@
 </summary>
 
 
+- [2022-01-16-Gitlab-项目库-列表还在，目录没有了，求救](https://www.v2ex.com/t/828594) ![](assets/new.png)  
 - [2022-01-16-今天在家偶然打开一个尘封已久的老-MP3，听了正好十年前今天的一档科技节目](https://www.v2ex.com/t/828593) ![](assets/new.png)  
 - [2022-01-16-我来交作业啦](https://www.v2ex.com/t/828590) ![](assets/new.png)  
 - [2022-01-16-我的前端所渲染的-REWORK-译文](https://www.v2ex.com/t/828589) ![](assets/new.png)  
@@ -493,7 +514,6 @@
 - [2022-01-16-为啥国内优质公司不是指营收那么少？](https://www.v2ex.com/t/828562) ![](assets/new.png)  
 - [2022-01-16-怎么看待-wwbizsrv-在-25-天内为-windows-系统日志提供-80%的内容](https://www.v2ex.com/t/828561) ![](assets/new.png)  
 - [2022-01-16-MacOS-外接显示器非常模糊](https://www.v2ex.com/t/828560) ![](assets/new.png)  
-- [2022-01-16-iphone13-手机信号怎么样？能拦截骚扰电话吗？](https://www.v2ex.com/t/828556) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -546,16 +566,16 @@
 - [2022-01-16-类似-rz-/-sz-，支持-tmux-的-trzsz-发布了新版本](https://toutiao.io/k/loxzp4c) ![](assets/new.png)  
 - [2022-01-16-乒乓球自练网红神器，缓解程序员视力疲劳，全家都适用！](https://toutiao.io/k/six5ocz) ![](assets/new.png)  
 - [2022-01-16-132-python|第五部分：文件管理](https://toutiao.io/k/i4qil1r) ![](assets/new.png)  
+- [2022-01-16-推荐-从零打造-Instagram](https://toutiao.io/k/hufqvji) ![](assets/new.png)  
+- [2022-01-16-推荐-浅谈缓存最终一致性的解决方案](https://toutiao.io/k/mgym1lv) ![](assets/new.png)  
+- [2022-01-16-推荐-偷天换日，用-JavaAgent-欺骗你的-JVM](https://toutiao.io/k/cah22k5) ![](assets/new.png)  
+- [2022-01-16-推荐-非常哇塞的-ES读场景、写场景-性能优化指南！你值得拥有！](https://toutiao.io/k/5pjb28q) ![](assets/new.png)  
+- [2022-01-16-推荐-2022新年伊始，送你百篇干货文章](https://toutiao.io/k/kchudkd) ![](assets/new.png)  
+- [2022-01-16-推荐-网络编程怎么做才算是优雅？](https://toutiao.io/k/zylzzpi) ![](assets/new.png)  
 - [2022-01-16-推荐-再见了-VMware，一款更轻量级的虚拟机！](https://toutiao.io/k/xw2lnva) ![](assets/new.png)  
 - [2022-01-16-推荐-缓存一致性最佳实践](https://toutiao.io/k/ymscqc1) ![](assets/new.png)  
-- [2022-01-16-推荐-偷天换日，用-JavaAgent-欺骗你的-JVM](https://toutiao.io/k/cah22k5) ![](assets/new.png)  
-- [2022-01-16-推荐-用规则引擎让你一天上线十个需求](https://toutiao.io/k/ldd1cse) ![](assets/new.png)  
-- [2022-01-16-推荐-2022新年伊始，送你百篇干货文章](https://toutiao.io/k/kchudkd) ![](assets/new.png)  
-- [2022-01-16-推荐-浅谈缓存最终一致性的解决方案](https://toutiao.io/k/mgym1lv) ![](assets/new.png)  
-- [2022-01-16-推荐-网络编程怎么做才算是优雅？](https://toutiao.io/k/zylzzpi) ![](assets/new.png)  
-- [2022-01-16-推荐-非常哇塞的-ES读场景、写场景-性能优化指南！你值得拥有！](https://toutiao.io/k/5pjb28q) ![](assets/new.png)  
 - [2022-01-16-推荐-JVM调优的几种场景（建议收藏）](https://toutiao.io/k/0mfx2nd) ![](assets/new.png)  
-- [2022-01-16-推荐-从零打造-Instagram](https://toutiao.io/k/hufqvji) ![](assets/new.png)  
+- [2022-01-16-推荐-用规则引擎让你一天上线十个需求](https://toutiao.io/k/ldd1cse) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2022-01-16 07:40:50。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-01-16 07:54:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-01-16-为什么-AMD-选对了苏妈，-Yahoo-选错了-梅姐-？](https://www.v2ex.com/t/828566) 
 - [2022-01-16-这是什么原理？](https://www.v2ex.com/t/828563) 
 - [2022-01-16-为啥国内优质公司不是指营收那么少？](https://www.v2ex.com/t/828562) 
 - [2022-01-16-怎么看待-wwbizsrv-在-25-天内为-windows-系统日志提供-80%的内容](https://www.v2ex.com/t/828561) 
@@ -40,4 +41,3 @@
 - [2022-01-16-推荐两个免费、有-API、国内可直接访问的文件储存/分享服务（以及相关-Python-脚本）](https://www.v2ex.com/t/828520) 
 - [2022-01-16-苹果支持部门：-iPhone-13-/-Pro-系列手机不再支持“电话降噪”功能](https://www.v2ex.com/t/828518) 
 - [2022-01-16-Macbook-Pro-定制机英文键盘为什么发货还需要清关？](https://www.v2ex.com/t/828517) 
-- [2022-01-16-Safari-is-completely-BROKEN-at-this-time](https://www.v2ex.com/t/828516) 

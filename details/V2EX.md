@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-01-16 09:44:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-01-16 09:56:46。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
@@ -34,4 +34,3 @@
 - [2022-01-16-想收个-iPhone-来体验一下，有没有老哥有闲置的-iPhone-？](https://www.v2ex.com/t/828539) 
 - [2022-01-16-电视如何通过-u-盘安装-apk？](https://www.v2ex.com/t/828538) 
 - [2022-01-16-iPad-键盘能在-ratatype.com-上打字吗](https://www.v2ex.com/t/828537) 
-- [2022-01-16-AppleID-被停用，注册者是小朋友，或许是旁路由的问题。](https://www.v2ex.com/t/828536) 

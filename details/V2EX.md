@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-01-16 07:12:59。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-01-16 07:21:12。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
@@ -42,4 +42,3 @@
 - [2022-01-16-Macbook-Pro-定制机英文键盘为什么发货还需要清关？](https://www.v2ex.com/t/828517) 
 - [2022-01-16-Safari-is-completely-BROKEN-at-this-time](https://www.v2ex.com/t/828516) 
 - [2022-01-16-关于用以太网同时使用-Little-Snitch-会造成断网的疑惑](https://www.v2ex.com/t/828515) 
-- [2022-01-15-哪种方式对短链接服务做基准方式合适些?-golang](https://www.v2ex.com/t/828514) 

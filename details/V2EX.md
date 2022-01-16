@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2022-01-16 03:59:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-01-16 04:16:11。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-01-16-iPad-键盘能在-ratatype.com-上打字吗](https://www.v2ex.com/t/828537) 
+- [2022-01-16-AppleID-被停用，注册者是小朋友，或许是旁路由的问题。](https://www.v2ex.com/t/828536) 
 - [2022-01-16-有没有能够横屏的步骑行导航软件](https://www.v2ex.com/t/828535) 
 - [2022-01-16-被-UNIAPP-折磨的一天。](https://www.v2ex.com/t/828534) 
 - [2022-01-16-腾讯云代理商的商品介绍都写一个人能注册-3-个账号，然而一个人有-5-小程序不就有-5-个账号了，个人用小程序号绑定代理商，代理商没钱赚吗](https://www.v2ex.com/t/828533) 
@@ -39,4 +41,3 @@
 - [2022-01-15-将近两个月时间电信终于把卡板给我换了](https://www.v2ex.com/t/828492) 
 - [2022-01-15-问下-kotlin-中的继承问题](https://www.v2ex.com/t/828491) 
 - [2022-01-15-Genius-Bar-更换-TopCase-结果电池没换...](https://www.v2ex.com/t/828490) 
-- [2022-01-15-自己-的-wordpress-加速方案](https://www.v2ex.com/t/828487) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-16 02:08:14，:rocket: 更新条数: +1750， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-16 02:24:14，:rocket: 更新条数: +1748， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -65,7 +65,6 @@
 </summary>
 
 
-- [2022-01-15-最新疫情：全国新冠累计确诊104745例-累计接种新冠疫苗超29.28亿剂次](https://m.caixin.com/m/2022-01-15/101830659.html) ![](assets/new.png)  
 - [2022-01-15-北京确诊一例奥密克戎，病例居住小区封闭](https://m.caixin.com/m/2022-01-15/101830730.html) ![](assets/new.png)  
 - [2022-01-15-珠海报告7例奥密克戎感染者-广东现多点疫情](https://m.caixin.com/m/2022-01-15/101830468.html) ![](assets/new.png)  
 - [2022-01-15-最新海外疫情：新冠感染超3.22亿-累计接种新冠疫苗超95.72亿剂次](https://m.caixin.com/m/2022-01-15/101830653.html) ![](assets/new.png)  
@@ -85,6 +84,7 @@
 - [2022-01-14-意见领袖|周伟：依靠法治提升疫情防控能力](https://opinion.caixin.com/m/2022-01-14/101830246.html) ![](assets/new.png)  
 - [2022-01-14-疫情曲线又升高-日本缩短密接者所需隔离期](https://international.caixin.com/m/2022-01-14/101830406.html) ![](assets/new.png)  
 - [2022-01-14-【图集】广东中山坦洲镇开展全员核酸检测](https://photos.caixin.com/m/2022-01-14/101829954.html) ![](assets/new.png)  
+- [2022-01-13-上海新增2例确诊和3例无症状-均为境外输入关联病例](https://m.caixin.com/m/2022-01-13/101829820.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -561,19 +561,19 @@
 - [2022-01-16-如何打造企业通用脚手架？](https://toutiao.io/k/nacthxg) ![](assets/new.png)  
 - [2022-01-16-超快速定位OOM，值得收藏](https://toutiao.io/k/f8d9xam) ![](assets/new.png)  
 - [2022-01-16-乒乓球自练网红神器，缓解程序员视力疲劳，全家都适用！](https://toutiao.io/k/six5ocz) ![](assets/new.png)  
-- [2022-01-16-一本书的诞生](https://toutiao.io/k/xhzx1uy) ![](assets/new.png)  
 - [2022-01-16-周鸿祎不理解35岁被职场抛弃；腾讯迈出元宇宙关键一步；马化腾说腾讯只是一家普通公司｜开发者头条](https://toutiao.io/k/aolx2b7) ![](assets/new.png)  
 - [2022-01-16-我，35岁大厂程序员，我们发射了一枚火箭](https://toutiao.io/k/45k0kdx) ![](assets/new.png)  
-- [2022-01-16-推荐-网络编程怎么做才算是优雅？](https://toutiao.io/k/zylzzpi) ![](assets/new.png)  
+- [2022-01-16-一本书的诞生](https://toutiao.io/k/xhzx1uy) ![](assets/new.png)  
 - [2022-01-16-推荐-2022新年伊始，送你百篇干货文章](https://toutiao.io/k/kchudkd) ![](assets/new.png)  
-- [2022-01-16-推荐-浅谈缓存最终一致性的解决方案](https://toutiao.io/k/mgym1lv) ![](assets/new.png)  
+- [2022-01-16-推荐-从零打造-Instagram](https://toutiao.io/k/hufqvji) ![](assets/new.png)  
 - [2022-01-16-推荐-再见了-VMware，一款更轻量级的虚拟机！](https://toutiao.io/k/xw2lnva) ![](assets/new.png)  
+- [2022-01-16-推荐-非常哇塞的-ES读场景、写场景-性能优化指南！你值得拥有！](https://toutiao.io/k/5pjb28q) ![](assets/new.png)  
+- [2022-01-16-推荐-用规则引擎让你一天上线十个需求](https://toutiao.io/k/ldd1cse) ![](assets/new.png)  
+- [2022-01-16-推荐-浅谈缓存最终一致性的解决方案](https://toutiao.io/k/mgym1lv) ![](assets/new.png)  
+- [2022-01-16-推荐-网络编程怎么做才算是优雅？](https://toutiao.io/k/zylzzpi) ![](assets/new.png)  
 - [2022-01-16-推荐-缓存一致性最佳实践](https://toutiao.io/k/ymscqc1) ![](assets/new.png)  
 - [2022-01-16-推荐-偷天换日，用-JavaAgent-欺骗你的-JVM](https://toutiao.io/k/cah22k5) ![](assets/new.png)  
-- [2022-01-16-推荐-用规则引擎让你一天上线十个需求](https://toutiao.io/k/ldd1cse) ![](assets/new.png)  
 - [2022-01-16-推荐-JVM调优的几种场景（建议收藏）](https://toutiao.io/k/0mfx2nd) ![](assets/new.png)  
-- [2022-01-16-推荐-非常哇塞的-ES读场景、写场景-性能优化指南！你值得拥有！](https://toutiao.io/k/5pjb28q) ![](assets/new.png)  
-- [2022-01-16-推荐-从零打造-Instagram](https://toutiao.io/k/hufqvji) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

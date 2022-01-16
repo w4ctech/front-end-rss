@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-01-16 10:24:38。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-01-16 10:42:47。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1649,7 +1649,9 @@
 - [2022-01-14-科技爱好者周刊（第-192-期）：最大的机会来自新技术](http://www.ruanyifeng.com/blog/2022/01/weekly-issue-192.html) 
 - [2022-01-07-科技爱好者周刊（第-191-期）：一个程序员的财务独立之路](http://www.ruanyifeng.com/blog/2022/01/weekly-issue-191.html) 
 - [2021-12-31-科技爱好者周刊（第-190-期）：产品化思维](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-190.html) 
-- [2022-01-16-maven-传递依赖的冲突应该怎么做才是最好](https://www.v2ex.com/t/828587) 
+- [2022-01-16-我来交作业啦](https://www.v2ex.com/t/828590) 
+- [2022-01-16-aws-lightsail-853-端口是不是禁用的？](https://www.v2ex.com/t/828588) 
+- [2022-01-16-传递依赖的冲突应该怎么做才是最好](https://www.v2ex.com/t/828587) 
 - [2022-01-16-关于前几天的废话胶囊](https://www.v2ex.com/t/828584) 
 - [2022-01-16-公司项目，-UI-准备外包，长期合作，寻能力强、经验足的-UI-大佬。](https://www.v2ex.com/t/828581) 
 - [2022-01-16-踩了个坑，给有相同想法的小伙伴提个醒](https://www.v2ex.com/t/828577) 
@@ -1668,9 +1670,6 @@
 - [2022-01-16-DMIT-IP-不怎么样啊，能申请退款吗？](https://www.v2ex.com/t/828549) 
 - [2022-01-16-macOS-上有类似-ServerCat-的软件吗？](https://www.v2ex.com/t/828545) 
 - [2022-01-16-有没有免费的在线封面制作网站](https://www.v2ex.com/t/828543) 
-- [2022-01-16-CEMU-今年打算开源并支持-Linux](https://www.v2ex.com/t/828540) 
-- [2022-01-16-想收个-iPhone-来体验一下，有没有老哥有闲置的-iPhone-？](https://www.v2ex.com/t/828539) 
-- [2022-01-16-电视如何通过-u-盘安装-apk？](https://www.v2ex.com/t/828538) 
 - [2022-01-16-Python之禅：编写优雅Python代码的16个原则-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14904&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493176%26amp%3Bidx%3D1%26amp%3Bsn%3Df2d627b156b058851c889b4445e11ec1%26amp%3Bchksm%3Dfa3f0763cd488e75569fb239eac349981802ba866826795ead0d9b7546d81579eed97e34bb65%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-01-16-Windows10最新版壁纸下载-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14902&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493135%26amp%3Bidx%3D1%26amp%3Bsn%3Dd81460b7d7680b08f84d88644053f9ad%26amp%3Bchksm%3Dfa3f0754cd488e426414f463f7585a415ed6096c7bb374c3bbcaee6fb03fdc3c57b9a7262626%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-01-16-学计算机的女生都怎样了？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14900&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493001%26amp%3Bidx%3D1%26amp%3Bsn%3Dbddc9f080dbfa676bf548144b43ee2c1%26amp%3Bchksm%3Dfa3f04d2cd488dc4f6d4c24eb45aac9073fcab4edd995298d23ecacb3ddbc13910a780589dd4%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1696,8 +1695,8 @@
 - [2022-01-16-132-python|第五部分：文件管理](https://toutiao.io/k/i4qil1r) 
 - [2022-01-16-推荐-用规则引擎让你一天上线十个需求](https://toutiao.io/k/ldd1cse) 
 - [2022-01-16-推荐-从零打造-Instagram](https://toutiao.io/k/hufqvji) 
-- [2022-01-16-推荐-网络编程怎么做才算是优雅？](https://toutiao.io/k/zylzzpi) 
+- [2022-01-16-推荐-偷天换日，用-JavaAgent-欺骗你的-JVM](https://toutiao.io/k/cah22k5) 
+- [2022-01-16-推荐-2022新年伊始，送你百篇干货文章](https://toutiao.io/k/kchudkd) 
 - [2022-01-16-推荐-JVM调优的几种场景（建议收藏）](https://toutiao.io/k/0mfx2nd) 
 - [2022-01-16-推荐-再见了-VMware，一款更轻量级的虚拟机！](https://toutiao.io/k/xw2lnva) 
-- [2022-01-16-推荐-2022新年伊始，送你百篇干货文章](https://toutiao.io/k/kchudkd) 
-- [2022-01-16-推荐-偷天换日，用-JavaAgent-欺骗你的-JVM](https://toutiao.io/k/cah22k5) 
+- [2022-01-16-推荐-网络编程怎么做才算是优雅？](https://toutiao.io/k/zylzzpi) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-16 08:15:16，:rocket: 更新条数: +1755， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-16 08:26:57，:rocket: 更新条数: +1755， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,8 @@
 </summary>
 
 
+- [2022-01-16-发一份储备物资参考清单](https://www.v2ex.com/t/828573) ![](assets/new.png)  
+- [2022-01-16-美区播客之后-TV+也被和谐了？](https://www.v2ex.com/t/828572) ![](assets/new.png)  
 - [2022-01-16-发现-Firefox-在复制-GitHub-仓库地址时和别人不一样，会自动包含一些空格。](https://www.v2ex.com/t/828571) ![](assets/new.png)  
 - [2022-01-16-从-win11-重装回-win10，整个人都获得了新生](https://www.v2ex.com/t/828569) ![](assets/new.png)  
 - [2022-01-16-YiVideoEditor,-一个-Swift-视频编辑库。支持旋转、裁剪、增加图层（水印）、增加音频。-https://github.com/coderyi/YiVideoEditor](https://www.v2ex.com/t/828568) ![](assets/new.png)  
@@ -512,8 +514,6 @@
 - [2022-01-16-DMIT-IP-不怎么样啊，能申请退款吗？](https://www.v2ex.com/t/828549) ![](assets/new.png)  
 - [2022-01-16-mesh-路由器是不是要终端支持-802.11k/v/r-协议才有用？](https://www.v2ex.com/t/828547) ![](assets/new.png)  
 - [2022-01-16-macOS-上有类似-ServerCat-的软件吗？](https://www.v2ex.com/t/828545) ![](assets/new.png)  
-- [2022-01-16-有没有免费的在线封面制作网站](https://www.v2ex.com/t/828543) ![](assets/new.png)  
-- [2022-01-16-CEMU-今年打算开源并支持-Linux](https://www.v2ex.com/t/828540) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -566,16 +566,16 @@
 - [2022-01-16-乒乓球自练网红神器，缓解程序员视力疲劳，全家都适用！](https://toutiao.io/k/six5ocz) ![](assets/new.png)  
 - [2022-01-16-类似-rz-/-sz-，支持-tmux-的-trzsz-发布了新版本](https://toutiao.io/k/loxzp4c) ![](assets/new.png)  
 - [2022-01-16-132-python|第五部分：文件管理](https://toutiao.io/k/i4qil1r) ![](assets/new.png)  
-- [2022-01-16-推荐-从零打造-Instagram](https://toutiao.io/k/hufqvji) ![](assets/new.png)  
-- [2022-01-16-推荐-浅谈缓存最终一致性的解决方案](https://toutiao.io/k/mgym1lv) ![](assets/new.png)  
-- [2022-01-16-推荐-JVM调优的几种场景（建议收藏）](https://toutiao.io/k/0mfx2nd) ![](assets/new.png)  
-- [2022-01-16-推荐-2022新年伊始，送你百篇干货文章](https://toutiao.io/k/kchudkd) ![](assets/new.png)  
 - [2022-01-16-推荐-再见了-VMware，一款更轻量级的虚拟机！](https://toutiao.io/k/xw2lnva) ![](assets/new.png)  
-- [2022-01-16-推荐-网络编程怎么做才算是优雅？](https://toutiao.io/k/zylzzpi) ![](assets/new.png)  
-- [2022-01-16-推荐-偷天换日，用-JavaAgent-欺骗你的-JVM](https://toutiao.io/k/cah22k5) ![](assets/new.png)  
-- [2022-01-16-推荐-用规则引擎让你一天上线十个需求](https://toutiao.io/k/ldd1cse) ![](assets/new.png)  
-- [2022-01-16-推荐-缓存一致性最佳实践](https://toutiao.io/k/ymscqc1) ![](assets/new.png)  
 - [2022-01-16-推荐-非常哇塞的-ES读场景、写场景-性能优化指南！你值得拥有！](https://toutiao.io/k/5pjb28q) ![](assets/new.png)  
+- [2022-01-16-推荐-用规则引擎让你一天上线十个需求](https://toutiao.io/k/ldd1cse) ![](assets/new.png)  
+- [2022-01-16-推荐-网络编程怎么做才算是优雅？](https://toutiao.io/k/zylzzpi) ![](assets/new.png)  
+- [2022-01-16-推荐-JVM调优的几种场景（建议收藏）](https://toutiao.io/k/0mfx2nd) ![](assets/new.png)  
+- [2022-01-16-推荐-浅谈缓存最终一致性的解决方案](https://toutiao.io/k/mgym1lv) ![](assets/new.png)  
+- [2022-01-16-推荐-从零打造-Instagram](https://toutiao.io/k/hufqvji) ![](assets/new.png)  
+- [2022-01-16-推荐-偷天换日，用-JavaAgent-欺骗你的-JVM](https://toutiao.io/k/cah22k5) ![](assets/new.png)  
+- [2022-01-16-推荐-2022新年伊始，送你百篇干货文章](https://toutiao.io/k/kchudkd) ![](assets/new.png)  
+- [2022-01-16-推荐-缓存一致性最佳实践](https://toutiao.io/k/ymscqc1) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

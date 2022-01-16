@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2022-01-16 04:52:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-01-16 05:02:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-01-16-macOS-上有类似-ServerCat-的软件吗？](https://www.v2ex.com/t/828545) 
+- [2022-01-16-有没有免费的在线封面制作网站](https://www.v2ex.com/t/828543) 
 - [2022-01-16-CEMU-今年打算开源并支持-Linux](https://www.v2ex.com/t/828540) 
 - [2022-01-16-想收个-iPhone-来体验一下，有没有老哥有闲置的-iPhone-？](https://www.v2ex.com/t/828539) 
 - [2022-01-16-电视如何通过-u-盘安装-apk？](https://www.v2ex.com/t/828538) 
@@ -39,5 +41,3 @@
 - [2022-01-15-本地安装-Ubuntu-Server-奇慢](https://www.v2ex.com/t/828500) 
 - [2022-01-15-基于-Express-和-TypeScript-写了一个快速开发的-API-Server](https://www.v2ex.com/t/828499) 
 - [2022-01-15-watchOS-版的微信是史上最垃圾的应用，没有之一。](https://www.v2ex.com/t/828497) 
-- [2022-01-15-如何避免“扣减了积分，但是没有成功创建订单”？---分布式事务相关](https://www.v2ex.com/t/828494) 
-- [2022-01-15-Stripe-电脑网络服务大类无法申请支付宝](https://www.v2ex.com/t/828493) 

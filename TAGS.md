@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-01-16 13:42:09。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-01-16 13:54:27。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -237,7 +237,7 @@
 
 - [【武汉肺炎防疫全纪录(财新网)】广州17岁男生在定点医院参加高考-特殊考场视频监考](https://m.caixin.com/m/2021-06-05/101723418.html)
 - [【武汉肺炎防疫全纪录(财新网)】林郑月娥率13高官直播接种科兴疫苗-复星疫苗预计周中到港](https://m.caixin.com/m/2021-02-22/101665724.html)
-- [【V2EX】YiVideoEditor,-一个-Swift-视频编辑库。支持旋转、裁剪、增加图层（水印）、增加音频。-https://github.com/coderyi/YiVideoEditor](https://www.v2ex.com/t/828568)
+- [【V2EX】瞄到一个小孩在看微信直播，震惊了一下](https://www.v2ex.com/t/828618)
 - [......【查看更多】......](./details/tags/audio-video.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -278,6 +278,7 @@
 - [【武汉肺炎防疫全纪录(财新网)】腺病毒新冠疫苗引安全忧虑-康希诺称未发现血栓病例](https://m.caixin.com/m/2021-04-14/101691086.html)
 - [【武汉肺炎防疫全纪录(财新网)】解药|新冠mRNA疫苗安全性有哪些挑战？](https://m.caixin.com/m/2021-01-08/101648043.html)
 - [【武汉肺炎防疫全纪录(财新网)】大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html)
+- [【V2EX】有没有人用过-Switch-的第三方便携底座？安全吗？](https://www.v2ex.com/t/828617)
 - [【V2EX】paho-Java-mqtt-client-为啥-sub-的消息很慢?](https://www.v2ex.com/t/828601)
 - [【V2EX】ssh-密钥设置有点麻烦，复杂密码的话，安全性怎么样](https://www.v2ex.com/t/828600)
 - [【V2EX】我的前端所渲染的-REWORK-译文](https://www.v2ex.com/t/828589)

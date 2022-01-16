@@ -1,17 +1,17 @@
-:alarm_clock: 更新时间: 2022-01-16 08:26:57。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-01-16 08:44:51。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
-- [2022-01-16-发一份储备物资参考清单](https://www.v2ex.com/t/828573) 
+- [2022-01-16-购买优质公司的股权是否是比去这个公司打工更好的选择？](https://www.v2ex.com/t/828576) 
+- [2022-01-16-关于聊天软件-TIM-问题](https://www.v2ex.com/t/828574) 
 - [2022-01-16-美区播客之后-TV+也被和谐了？](https://www.v2ex.com/t/828572) 
 - [2022-01-16-发现-Firefox-在复制-GitHub-仓库地址时和别人不一样，会自动包含一些空格。](https://www.v2ex.com/t/828571) 
 - [2022-01-16-从-win11-重装回-win10，整个人都获得了新生](https://www.v2ex.com/t/828569) 
 - [2022-01-16-YiVideoEditor,-一个-Swift-视频编辑库。支持旋转、裁剪、增加图层（水印）、增加音频。-https://github.com/coderyi/YiVideoEditor](https://www.v2ex.com/t/828568) 
 - [2022-01-16-Shottr-–-Screenshot-Annotation-App-For-Mac](https://www.v2ex.com/t/828567) 
-- [2022-01-16-为什么-AMD-选对了苏妈，-Yahoo-选错了-梅姐-？](https://www.v2ex.com/t/828566) 
 - [2022-01-16-这是什么原理？](https://www.v2ex.com/t/828563) 
 - [2022-01-16-为啥国内优质公司不是指营收那么少？](https://www.v2ex.com/t/828562) 
 - [2022-01-16-怎么看待-wwbizsrv-在-25-天内为-windows-系统日志提供-80%的内容](https://www.v2ex.com/t/828561) 
@@ -40,4 +40,3 @@
 - [2022-01-16-puppeteer-VS-playwright?](https://www.v2ex.com/t/828529) 
 - [2022-01-16-typec-接口也分安卓和苹果了吗](https://www.v2ex.com/t/828528) 
 - [2022-01-16-onedrive-会回收企业邮箱的使用权限或登录权限吗？](https://www.v2ex.com/t/828527) 
-- [2022-01-16-请问，输入法的粘贴功能是用了什么系统-api-吗？](https://www.v2ex.com/t/828525) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-16 00:43:59，:rocket: 更新条数: +1747， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-16 01:17:06，:rocket: 更新条数: +1750， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,9 @@
 </summary>
 
 
+- [2022-01-16-苹果支持部门：-iPhone-13-/-Pro-系列手机不再支持“电话降噪”功能](https://www.v2ex.com/t/828518) ![](assets/new.png)  
+- [2022-01-16-Macbook-Pro-定制机英文键盘为什么发货还需要清关？](https://www.v2ex.com/t/828517) ![](assets/new.png)  
+- [2022-01-16-Safari-is-completely-BROKEN-at-this-time](https://www.v2ex.com/t/828516) ![](assets/new.png)  
 - [2022-01-16-关于用以太网同时使用-Little-Snitch-会造成断网的疑惑](https://www.v2ex.com/t/828515) ![](assets/new.png)  
 - [2022-01-15-哪种方式对短链接服务做基准方式合适些?-golang](https://www.v2ex.com/t/828514) ![](assets/new.png)  
 - [2022-01-15-未登录时访问受限制节点中的主题的跳转问题](https://www.v2ex.com/t/828512) ![](assets/new.png)  
@@ -511,9 +514,6 @@
 - [2022-01-15-Stripe-电脑网络服务大类无法申请支付宝](https://www.v2ex.com/t/828493) ![](assets/new.png)  
 - [2022-01-15-将近两个月时间电信终于把卡板给我换了](https://www.v2ex.com/t/828492) ![](assets/new.png)  
 - [2022-01-15-问下-kotlin-中的继承问题](https://www.v2ex.com/t/828491) ![](assets/new.png)  
-- [2022-01-15-Genius-Bar-更换-TopCase-结果电池没换...](https://www.v2ex.com/t/828490) ![](assets/new.png)  
-- [2022-01-15-自己-的-wordpress-加速方案](https://www.v2ex.com/t/828487) ![](assets/new.png)  
-- [2022-01-15-某东南亚公司，招起了「舆情」「监测」相关的岗位](https://www.v2ex.com/t/828480) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -556,21 +556,24 @@
 </summary>
 
 
-- [2022-01-16-程序员思维：老公和儿子的区别](https://toutiao.io/k/eoom3nh) ![](assets/new.png)  
 - [2022-01-16-从MVC到DDD的架构演进](https://toutiao.io/k/c7mn7hz) ![](assets/new.png)  
+- [2022-01-16-程序员思维：老公和儿子的区别](https://toutiao.io/k/eoom3nh) ![](assets/new.png)  
 - [2022-01-16-超快速定位OOM，值得收藏](https://toutiao.io/k/f8d9xam) ![](assets/new.png)  
 - [2022-01-16-如何打造企业通用脚手架？](https://toutiao.io/k/nacthxg) ![](assets/new.png)  
+- [2022-01-16-乒乓球自练网红神器，缓解程序员视力疲劳，全家都适用！](https://toutiao.io/k/six5ocz) ![](assets/new.png)  
 - [2022-01-16-一本书的诞生](https://toutiao.io/k/xhzx1uy) ![](assets/new.png)  
+- [2022-01-16-我，35岁大厂程序员，我们发射了一枚火箭](https://toutiao.io/k/45k0kdx) ![](assets/new.png)  
+- [2022-01-16-周鸿祎不理解35岁被职场抛弃；腾讯迈出元宇宙关键一步；马化腾说腾讯只是一家普通公司｜开发者头条](https://toutiao.io/k/aolx2b7) ![](assets/new.png)  
+- [2022-01-16-推荐-浅谈缓存最终一致性的解决方案](https://toutiao.io/k/mgym1lv) ![](assets/new.png)  
 - [2022-01-16-推荐-再见了-VMware，一款更轻量级的虚拟机！](https://toutiao.io/k/xw2lnva) ![](assets/new.png)  
+- [2022-01-16-推荐-偷天换日，用-JavaAgent-欺骗你的-JVM](https://toutiao.io/k/cah22k5) ![](assets/new.png)  
+- [2022-01-16-推荐-JVM调优的几种场景（建议收藏）](https://toutiao.io/k/0mfx2nd) ![](assets/new.png)  
+- [2022-01-16-推荐-非常哇塞的-ES读场景、写场景-性能优化指南！你值得拥有！](https://toutiao.io/k/5pjb28q) ![](assets/new.png)  
+- [2022-01-16-推荐-网络编程怎么做才算是优雅？](https://toutiao.io/k/zylzzpi) ![](assets/new.png)  
+- [2022-01-16-推荐-2022新年伊始，送你百篇干货文章](https://toutiao.io/k/kchudkd) ![](assets/new.png)  
+- [2022-01-16-推荐-从零打造-Instagram](https://toutiao.io/k/hufqvji) ![](assets/new.png)  
 - [2022-01-16-推荐-缓存一致性最佳实践](https://toutiao.io/k/ymscqc1) ![](assets/new.png)  
 - [2022-01-16-推荐-用规则引擎让你一天上线十个需求](https://toutiao.io/k/ldd1cse) ![](assets/new.png)  
-- [2022-01-16-推荐-JVM调优的几种场景（建议收藏）](https://toutiao.io/k/0mfx2nd) ![](assets/new.png)  
-- [2022-01-16-推荐-浅谈缓存最终一致性的解决方案](https://toutiao.io/k/mgym1lv) ![](assets/new.png)  
-- [2022-01-16-推荐-从零打造-Instagram](https://toutiao.io/k/hufqvji) ![](assets/new.png)  
-- [2022-01-16-推荐-偷天换日，用-JavaAgent-欺骗你的-JVM](https://toutiao.io/k/cah22k5) ![](assets/new.png)  
-- [2022-01-16-推荐-2022新年伊始，送你百篇干货文章](https://toutiao.io/k/kchudkd) ![](assets/new.png)  
-- [2022-01-16-推荐-网络编程怎么做才算是优雅？](https://toutiao.io/k/zylzzpi) ![](assets/new.png)  
-- [2022-01-16-推荐-非常哇塞的-ES读场景、写场景-性能优化指南！你值得拥有！](https://toutiao.io/k/5pjb28q) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

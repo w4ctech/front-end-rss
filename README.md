@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-17 08:50:36，:rocket: 更新条数: +1766， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-17 09:14:32，:rocket: 更新条数: +1766， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -65,12 +65,12 @@
 </summary>
 
 
-- [2022-01-17-1月16日全国新增新冠223例-五省份本土163例](https://m.caixin.com/m/2022-01-17/101830913.html) ![](assets/new.png)  
+- [2022-01-17-最新疫情：全国新冠累计确诊105087例-累计接种新冠疫苗超29.37亿剂次](https://m.caixin.com/m/2022-01-17/101831132.html) ![](assets/new.png)  
 - [2022-01-17-北京确诊病例处于感染早期-所收国际邮件标本阳性](https://m.caixin.com/m/2022-01-17/101831061.html) ![](assets/new.png)  
+- [2022-01-17-最新海外疫情：新冠感染超3.27亿-累计接种新冠疫苗超96.3亿剂次](https://m.caixin.com/m/2022-01-17/101831136.html) ![](assets/new.png)  
 - [2022-01-17-【境内疫情观察】全国新增163例本土病例（1月16日）](https://database.caixin.com/m/2022-01-17/101831120.html) ![](assets/new.png)  
 - [2022-01-17-英国病例数下降-欧洲未接种疫苗人群正“退出社会”｜大流行手记（1月16日）](https://m.caixin.com/m/2022-01-17/101830909.html) ![](assets/new.png)  
 - [2022-01-16-深圳新增一名奥密克戎病例-轨迹所涉妇幼保健院停诊](https://m.caixin.com/m/2022-01-16/101830873.html) ![](assets/new.png)  
-- [2022-01-16-最新海外疫情：新冠感染超3.25亿-累计接种新冠疫苗超96.07亿剂次](https://m.caixin.com/m/2022-01-16/101830825.html) ![](assets/new.png)  
 - [2022-01-16-【境内疫情观察】全国新增65例本土病例（1月15日）](https://database.caixin.com/m/2022-01-16/101830807.html) ![](assets/new.png)  
 - [2022-01-16-COVAX疫苗因保质期短遭拒，东南亚疫情恶化｜大流行手记（1月15日）](https://m.caixin.com/m/2022-01-16/101830788.html) ![](assets/new.png)  
 - [2022-01-15-北京确诊一例奥密克戎，病例居住小区封闭](https://m.caixin.com/m/2022-01-15/101830730.html) ![](assets/new.png)  
@@ -494,26 +494,26 @@
 </summary>
 
 
+- [2022-01-17-如何使用-binutils-的-ld-程序手动静态链接一个-relocatable-.o-文件？](https://www.v2ex.com/t/828815) ![](assets/new.png)  
+- [2022-01-17-nginx-限流后-post-请求返回-405](https://www.v2ex.com/t/828814) ![](assets/new.png)  
+- [2022-01-17-跳过广告的插件/应用，会记录其它数据吗？](https://www.v2ex.com/t/828812) ![](assets/new.png)  
+- [2022-01-17-云服务器配置的青龙面板好像被人暴力破解，现在提示-530112-秒后重试，没法登录了，有什么办法吗](https://www.v2ex.com/t/828811) ![](assets/new.png)  
+- [2022-01-17-请问有免费的-youtube-视频或音频转-MP3-下载的方案么？](https://www.v2ex.com/t/828810) ![](assets/new.png)  
+- [2022-01-17-北京/上海代友-Shopee-中国研发团队招聘](https://www.v2ex.com/t/828809) ![](assets/new.png)  
+- [2022-01-17-坐标香港｜运维工程师｜-40K+港币双休｜欢迎大家咨询～](https://www.v2ex.com/t/828808) ![](assets/new.png)  
+- [2022-01-17-iOS-上有没有办法实现远程发送短信](https://www.v2ex.com/t/828807) ![](assets/new.png)  
 - [2022-01-17-用-Scriptable-仿制了米家的温湿度小组件](https://www.v2ex.com/t/828805) ![](assets/new.png)  
 - [2022-01-17-有使用-homekit-的童鞋遇到-iOS-设备因为”家庭“耗电的问题么](https://www.v2ex.com/t/828803) ![](assets/new.png)  
 - [2022-01-17-提问csproj-中的<Private>与<CopyLocal>究竟有什么区别](https://www.v2ex.com/t/828802) ![](assets/new.png)  
 - [2022-01-17-北京字节商业化技术急招前端、后端岗位](https://www.v2ex.com/t/828801) ![](assets/new.png)  
 - [2022-01-17-MacOS-Hammerspoon-sugood-多合一效率工具，新增状态栏显示系统信息（CPU/内存/硬盘/网速）-v0.1.7](https://www.v2ex.com/t/828800) ![](assets/new.png)  
 - [2022-01-17-使用同一个账号，切换同步两份独立的书签](https://www.v2ex.com/t/828799) ![](assets/new.png)  
-- [2022-01-17-windows-自带的-VPN-配置可以代替-VPN-软件吗？](https://www.v2ex.com/t/828798) ![](assets/new.png)  
 - [2022-01-17-做了一个微信公众号-FreeBSD-中文](https://www.v2ex.com/t/828797) ![](assets/new.png)  
 - [2022-01-17-快过年了，想买个手机给我妈用，目前看中红米-k40-/-iqoo-neo5-/-iqoo-neo5-se。买哪个好呢？有大佬用过这几款，或者同价位有其他推荐吗？](https://www.v2ex.com/t/828796) ![](assets/new.png)  
 - [2022-01-17-杭州-来来来，前端，-Go-后端开发，-SRE，项目技术主管全都要，可年前视频面试，年后上班。朝十晚七双休不加班不内卷！](https://www.v2ex.com/t/828795) ![](assets/new.png)  
 - [2022-01-17-你们在-git-提交的时候会用-emoji-么。做了个-git-emoji-的网站](https://www.v2ex.com/t/828792) ![](assets/new.png)  
 - [2022-01-17-上海-新加坡初创上海分公司，招聘-高级全栈工程师](https://www.v2ex.com/t/828790) ![](assets/new.png)  
 - [2022-01-17-你们平时打球会穿高帮篮球鞋么？](https://www.v2ex.com/t/828789) ![](assets/new.png)  
-- [2022-01-17-今天是-22-年-1-月-17-日,-在上海的你们-回老家需要做核酸或者隔离或者居家隔离吗](https://www.v2ex.com/t/828788) ![](assets/new.png)  
-- [2022-01-17-远程-Atlassian-内推机会](https://www.v2ex.com/t/828787) ![](assets/new.png)  
-- [2022-01-17-小白提问，怎么将富文本编辑器内的纯文本内容提取出来，然后再替换回去](https://www.v2ex.com/t/828784) ![](assets/new.png)  
-- [2022-01-17-数据库被拖库之后还能继续用吗，前几天自己测试用的-mongodb-被拖了](https://www.v2ex.com/t/828783) ![](assets/new.png)  
-- [2022-01-17-青岛的程序员们一般都通过什么平台找工作？](https://www.v2ex.com/t/828782) ![](assets/new.png)  
-- [2022-01-17-mac-mini-2012-388-休眠唤醒显示器无信号问题](https://www.v2ex.com/t/828780) ![](assets/new.png)  
-- [2022-01-17-给老人换手机推荐-省心一些的](https://www.v2ex.com/t/828778) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -571,11 +571,11 @@
 - [2022-01-17-从ReactNative到Flutter：跨平台技术的黄金时代与七年之痒](https://toutiao.io/k/2jb6gks) ![](assets/new.png)  
 - [2022-01-17-DTM-与-SEATA-主要特性对比](https://toutiao.io/k/97pcq1t) ![](assets/new.png)  
 - [2022-01-17-Google-大佬们为什么要开发-Go-这门新语言？](https://toutiao.io/k/3tzih9c) ![](assets/new.png)  
-- [2022-01-17-面试官提问三个Go接口的概念，-10年gopher竟无言以对](https://toutiao.io/k/yv4efod) ![](assets/new.png)  
 - [2022-01-17-Go-语言里怎么正确实现枚举？答案藏在官方的源码里](https://toutiao.io/k/yckichn) ![](assets/new.png)  
+- [2022-01-17-面试官提问三个Go接口的概念，-10年gopher竟无言以对](https://toutiao.io/k/yv4efod) ![](assets/new.png)  
 - [2022-01-17-C++服务性能优化的道与术-道篇：阿姆达尔定律](https://toutiao.io/k/e9jvs14) ![](assets/new.png)  
-- [2022-01-17-推荐-非常哇塞的-ES读场景、写场景-性能优化指南！你值得拥有！](https://toutiao.io/k/5pjb28q) ![](assets/new.png)  
-- [2022-01-17-推荐-再见了-VMware，一款更轻量级的虚拟机！](https://toutiao.io/k/xw2lnva) ![](assets/new.png)  
+- [2022-01-17-推荐-用规则引擎让你一天上线十个需求](https://toutiao.io/k/ldd1cse) ![](assets/new.png)  
+- [2022-01-17-推荐-JVM调优的几种场景（建议收藏）](https://toutiao.io/k/0mfx2nd) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

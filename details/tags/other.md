@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-01-17 11:11:54。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-01-17 11:19:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -6,6 +6,7 @@
 
 
 - [2022-01-17-最新疫情：全国新冠累计确诊105087例-累计接种新冠疫苗超29.37亿剂次](https://m.caixin.com/m/2022-01-17/101831132.html) 
+- [2022-01-17-国家卫健委：现有疫苗对预防感染奥密克戎仍有一定效果](https://m.caixin.com/m/2022-01-17/101831269.html) 
 - [2022-01-17-国际邮件检出奥密克戎-如何看待新冠病毒“物传人”](https://science.caixin.com/m/2022-01-17/101831238.html) 
 - [2022-01-17-北京确诊病例处于感染早期-所收国际邮件标本阳性](https://m.caixin.com/m/2022-01-17/101831061.html) 
 - [2022-01-17-最新海外疫情：新冠感染超3.27亿-累计接种新冠疫苗超96.3亿剂次](https://m.caixin.com/m/2022-01-17/101831136.html) 
@@ -1677,7 +1678,6 @@
 - [2022-01-17-做了一个微信公众号-FreeBSD-中文](https://www.v2ex.com/t/828797) 
 - [2022-01-17-快过年了，想买个手机给我妈用，目前看中红米-k40-/-iqoo-neo5-/-iqoo-neo5-se。买哪个好呢？有大佬用过这几款，或者同价位有其他推荐吗？](https://www.v2ex.com/t/828796) 
 - [2022-01-17-你们平时打球会穿高帮篮球鞋么？](https://www.v2ex.com/t/828789) 
-- [2022-01-17-今天是-22-年-1-月-17-日,-在上海的你们-回老家需要做核酸或者隔离或者居家隔离吗](https://www.v2ex.com/t/828788) 
 - [2022-01-17-软件工程师应该如何吵架？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14905&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fsoftware-engineer-quarrel-culture%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-01-17-Python之禅：编写优雅Python代码的16个原则-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14904&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493176%26amp%3Bidx%3D1%26amp%3Bsn%3Df2d627b156b058851c889b4445e11ec1%26amp%3Bchksm%3Dfa3f0763cd488e75569fb239eac349981802ba866826795ead0d9b7546d81579eed97e34bb65%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-01-17-Windows10最新版壁纸下载-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14902&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493135%26amp%3Bidx%3D1%26amp%3Bsn%3Dd81460b7d7680b08f84d88644053f9ad%26amp%3Bchksm%3Dfa3f0754cd488e426414f463f7585a415ed6096c7bb374c3bbcaee6fb03fdc3c57b9a7262626%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1705,11 +1705,11 @@
 - [2022-01-17-使用-dotnet-monitor-在-Kubernetes-中收集-.NET-metrics](https://toutiao.io/k/594q4vv) 
 - [2022-01-17-Google-大佬们为什么要开发-Go-这门新语言？](https://toutiao.io/k/3tzih9c) 
 - [2022-01-17-Go-语言里怎么正确实现枚举？答案藏在官方的源码里](https://toutiao.io/k/yckichn) 
-- [2022-01-17-推荐-JVM调优的几种场景（建议收藏）](https://toutiao.io/k/0mfx2nd) 
-- [2022-01-17-推荐-2022新年伊始，送你百篇干货文章](https://toutiao.io/k/kchudkd) 
 - [2022-01-17-推荐-从零开始搭建公司微服务授权架构技术栈（3种模式），这架构稳的一批...](https://toutiao.io/k/4g58j8v) 
-- [2022-01-17-推荐-京东ClickHouse的实践之路](https://toutiao.io/k/j0r6746) 
-- [2022-01-17-推荐-再见了-VMware，一款更轻量级的虚拟机！](https://toutiao.io/k/xw2lnva) 
 - [2022-01-17-推荐-用规则引擎让你一天上线十个需求](https://toutiao.io/k/ldd1cse) 
+- [2022-01-17-推荐-再见了-VMware，一款更轻量级的虚拟机！](https://toutiao.io/k/xw2lnva) 
 - [2022-01-17-推荐-从零打造-Instagram](https://toutiao.io/k/hufqvji) 
 - [2022-01-17-推荐-网络编程怎么做才算是优雅？](https://toutiao.io/k/zylzzpi) 
+- [2022-01-17-推荐-2022新年伊始，送你百篇干货文章](https://toutiao.io/k/kchudkd) 
+- [2022-01-17-推荐-JVM调优的几种场景（建议收藏）](https://toutiao.io/k/0mfx2nd) 
+- [2022-01-17-推荐-京东ClickHouse的实践之路](https://toutiao.io/k/j0r6746) 

@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-01-17 11:11:54。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-01-17 11:19:22。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -288,8 +288,8 @@
 - [【V2EX】nginx-限流后-post-请求返回-405](https://www.v2ex.com/t/828814)
 - [【技术头条】API面试四连杀：接口如何设计？安全如何保证？签名如何实现？防重如何实现？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14901&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493135%26amp%3Bidx%3D2%26amp%3Bsn%3D4569a4965be1a6e8b85369edd7fc91dc%26amp%3Bchksm%3Dfa3f0754cd488e427c9670d6aa67e0693725ee332f26e011767ba85562bd6bb08a65cc8aaaba%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【技术头条】一文读懂浏览器存储与缓存机制-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=14896&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F422666602%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
-- [【开发者头条】推荐-缓存一致性最佳实践](https://toutiao.io/k/ymscqc1)
 - [【开发者头条】推荐-浅谈缓存最终一致性的解决方案](https://toutiao.io/k/mgym1lv)
+- [【开发者头条】推荐-缓存一致性最佳实践](https://toutiao.io/k/ymscqc1)
 - [......【查看更多】......](./details/tags/browser.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -421,6 +421,7 @@
 
 
 - [【武汉肺炎防疫全纪录(财新网)】最新疫情：全国新冠累计确诊105087例-累计接种新冠疫苗超29.37亿剂次](https://m.caixin.com/m/2022-01-17/101831132.html)
+- [【武汉肺炎防疫全纪录(财新网)】国家卫健委：现有疫苗对预防感染奥密克戎仍有一定效果](https://m.caixin.com/m/2022-01-17/101831269.html)
 - [【武汉肺炎防疫全纪录(财新网)】国际邮件检出奥密克戎-如何看待新冠病毒“物传人”](https://science.caixin.com/m/2022-01-17/101831238.html)
 - [【武汉肺炎防疫全纪录(财新网)】北京确诊病例处于感染早期-所收国际邮件标本阳性](https://m.caixin.com/m/2022-01-17/101831061.html)
 - [【武汉肺炎防疫全纪录(财新网)】最新海外疫情：新冠感染超3.27亿-累计接种新冠疫苗超96.3亿剂次](https://m.caixin.com/m/2022-01-17/101831136.html)
@@ -439,7 +440,6 @@
 - [【武汉肺炎防疫全纪录(财新网)】Omicron在意大利已占主导地位-南非研究显示其毒力更弱｜大流行手记（1月14日）](https://m.caixin.com/m/2022-01-15/101830527.html)
 - [【武汉肺炎防疫全纪录(财新网)】最新封面报道｜奥密克戎遭遇战](https://weekly.caixin.com/m/2022-01-14/101830078.html)
 - [【武汉肺炎防疫全纪录(财新网)】广东珠海确定7例阳性个案-初判为奥密克戎](https://m.caixin.com/m/2022-01-14/101830334.html)
-- [【武汉肺炎防疫全纪录(财新网)】香港收紧机组人员检疫-特首预告进口食品面临涨价](https://m.caixin.com/m/2022-01-14/101830212.html)
 - [......【查看更多】......](./details/tags/other.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

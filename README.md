@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-17 11:11:53，:rocket: 更新条数: +1771， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-17 11:19:22，:rocket: 更新条数: +1771， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -66,6 +66,7 @@
 
 
 - [2022-01-17-最新疫情：全国新冠累计确诊105087例-累计接种新冠疫苗超29.37亿剂次](https://m.caixin.com/m/2022-01-17/101831132.html) ![](assets/new.png)  
+- [2022-01-17-国家卫健委：现有疫苗对预防感染奥密克戎仍有一定效果](https://m.caixin.com/m/2022-01-17/101831269.html) ![](assets/new.png)  
 - [2022-01-17-国际邮件检出奥密克戎-如何看待新冠病毒“物传人”](https://science.caixin.com/m/2022-01-17/101831238.html) ![](assets/new.png)  
 - [2022-01-17-北京确诊病例处于感染早期-所收国际邮件标本阳性](https://m.caixin.com/m/2022-01-17/101831061.html) ![](assets/new.png)  
 - [2022-01-17-最新海外疫情：新冠感染超3.27亿-累计接种新冠疫苗超96.3亿剂次](https://m.caixin.com/m/2022-01-17/101831136.html) ![](assets/new.png)  
@@ -84,7 +85,6 @@
 - [2022-01-15-Omicron在意大利已占主导地位-南非研究显示其毒力更弱｜大流行手记（1月14日）](https://m.caixin.com/m/2022-01-15/101830527.html) ![](assets/new.png)  
 - [2022-01-14-最新封面报道｜奥密克戎遭遇战](https://weekly.caixin.com/m/2022-01-14/101830078.html) ![](assets/new.png)  
 - [2022-01-14-广东珠海确定7例阳性个案-初判为奥密克戎](https://m.caixin.com/m/2022-01-14/101830334.html) ![](assets/new.png)  
-- [2022-01-14-香港收紧机组人员检疫-特首预告进口食品面临涨价](https://m.caixin.com/m/2022-01-14/101830212.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -572,10 +572,10 @@
 - [2022-01-17-使用-dotnet-monitor-在-Kubernetes-中收集-.NET-metrics](https://toutiao.io/k/594q4vv) ![](assets/new.png)  
 - [2022-01-17-Google-大佬们为什么要开发-Go-这门新语言？](https://toutiao.io/k/3tzih9c) ![](assets/new.png)  
 - [2022-01-17-面试官提问三个Go接口的概念，-10年gopher竟无言以对](https://toutiao.io/k/yv4efod) ![](assets/new.png)  
-- [2022-01-17-Go-语言里怎么正确实现枚举？答案藏在官方的源码里](https://toutiao.io/k/yckichn) ![](assets/new.png)  
 - [2022-01-17-C++服务性能优化的道与术-道篇：阿姆达尔定律](https://toutiao.io/k/e9jvs14) ![](assets/new.png)  
-- [2022-01-17-推荐-JVM调优的几种场景（建议收藏）](https://toutiao.io/k/0mfx2nd) ![](assets/new.png)  
-- [2022-01-17-推荐-2022新年伊始，送你百篇干货文章](https://toutiao.io/k/kchudkd) ![](assets/new.png)  
+- [2022-01-17-Go-语言里怎么正确实现枚举？答案藏在官方的源码里](https://toutiao.io/k/yckichn) ![](assets/new.png)  
+- [2022-01-17-推荐-浅谈缓存最终一致性的解决方案](https://toutiao.io/k/mgym1lv) ![](assets/new.png)  
+- [2022-01-17-推荐-从零开始搭建公司微服务授权架构技术栈（3种模式），这架构稳的一批...](https://toutiao.io/k/4g58j8v) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

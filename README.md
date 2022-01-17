@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-17 14:13:16，:rocket: 更新条数: +1775， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-17 14:21:32，:rocket: 更新条数: +1775， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,7 @@
 </summary>
 
 
+- [2022-01-17-有哪些相对保值的爱好？](https://www.v2ex.com/t/828859) ![](assets/new.png)  
 - [2022-01-17-Intel-网卡开启-SR-IOV，如何作为虚拟机之间互联使用（不插网线）？](https://www.v2ex.com/t/828856) ![](assets/new.png)  
 - [2022-01-17-如今还有哪里能够下载到-win98-和迅雷-3.0？](https://www.v2ex.com/t/828855) ![](assets/new.png)  
 - [2022-01-17-MBA-怎么优雅的调试串口设备？](https://www.v2ex.com/t/828854) ![](assets/new.png)  
@@ -513,7 +514,6 @@
 - [2022-01-17-常年招聘算法工程师，欢迎投递简历](https://www.v2ex.com/t/828837) ![](assets/new.png)  
 - [2022-01-17-ios-新-bug？-app-图标变暗。](https://www.v2ex.com/t/828836) ![](assets/new.png)  
 - [2022-01-17-有没有可以给视频加动态时长水印显示的-APP？](https://www.v2ex.com/t/828835) ![](assets/new.png)  
-- [2022-01-17-用-nuxtjs-vue-开发的一个后台系统-后悔了-还不如用-extjs](https://www.v2ex.com/t/828834) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -574,8 +574,8 @@
 - [2022-01-17-面试官提问三个Go接口的概念，-10年gopher竟无言以对](https://toutiao.io/k/yv4efod) ![](assets/new.png)  
 - [2022-01-17-Go-语言里怎么正确实现枚举？答案藏在官方的源码里](https://toutiao.io/k/yckichn) ![](assets/new.png)  
 - [2022-01-17-C++服务性能优化的道与术-道篇：阿姆达尔定律](https://toutiao.io/k/e9jvs14) ![](assets/new.png)  
-- [2022-01-17-推荐-非常哇塞的-ES读场景、写场景-性能优化指南！你值得拥有！](https://toutiao.io/k/5pjb28q) ![](assets/new.png)  
-- [2022-01-17-推荐-JVM调优的几种场景（建议收藏）](https://toutiao.io/k/0mfx2nd) ![](assets/new.png)  
+- [2022-01-17-推荐-京东ClickHouse的实践之路](https://toutiao.io/k/j0r6746) ![](assets/new.png)  
+- [2022-01-17-推荐-再见了-VMware，一款更轻量级的虚拟机！](https://toutiao.io/k/xw2lnva) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

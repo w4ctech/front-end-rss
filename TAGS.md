@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-01-17 09:14:32。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-01-17 09:24:28。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -353,6 +353,7 @@
 
 
 
+- [【V2EX】上海-牙木科技-招聘软件开发工程师（前端、后端、C）-20k---40-k-*-14](https://www.v2ex.com/t/828816)
 - [【V2EX】北京/上海代友-Shopee-中国研发团队招聘](https://www.v2ex.com/t/828809)
 - [【V2EX】上海-新加坡初创上海分公司，招聘-Engineering-Director-技术研发总监](https://www.v2ex.com/t/828776)
 - [【开发者头条】面试官提问三个Go接口的概念，-10年gopher竟无言以对](https://toutiao.io/k/yv4efod)

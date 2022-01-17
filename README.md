@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-17 09:14:32，:rocket: 更新条数: +1766， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-17 09:24:28，:rocket: 更新条数: +1767， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,8 @@
 </summary>
 
 
+- [2022-01-17-Mac-Monterey-如何快速关闭麦克风或者静音？](https://www.v2ex.com/t/828817) ![](assets/new.png)  
+- [2022-01-17-上海-牙木科技-招聘软件开发工程师（前端、后端、C）-20k---40-k-*-14](https://www.v2ex.com/t/828816) ![](assets/new.png)  
 - [2022-01-17-如何使用-binutils-的-ld-程序手动静态链接一个-relocatable-.o-文件？](https://www.v2ex.com/t/828815) ![](assets/new.png)  
 - [2022-01-17-nginx-限流后-post-请求返回-405](https://www.v2ex.com/t/828814) ![](assets/new.png)  
 - [2022-01-17-跳过广告的插件/应用，会记录其它数据吗？](https://www.v2ex.com/t/828812) ![](assets/new.png)  
@@ -512,8 +514,6 @@
 - [2022-01-17-快过年了，想买个手机给我妈用，目前看中红米-k40-/-iqoo-neo5-/-iqoo-neo5-se。买哪个好呢？有大佬用过这几款，或者同价位有其他推荐吗？](https://www.v2ex.com/t/828796) ![](assets/new.png)  
 - [2022-01-17-杭州-来来来，前端，-Go-后端开发，-SRE，项目技术主管全都要，可年前视频面试，年后上班。朝十晚七双休不加班不内卷！](https://www.v2ex.com/t/828795) ![](assets/new.png)  
 - [2022-01-17-你们在-git-提交的时候会用-emoji-么。做了个-git-emoji-的网站](https://www.v2ex.com/t/828792) ![](assets/new.png)  
-- [2022-01-17-上海-新加坡初创上海分公司，招聘-高级全栈工程师](https://www.v2ex.com/t/828790) ![](assets/new.png)  
-- [2022-01-17-你们平时打球会穿高帮篮球鞋么？](https://www.v2ex.com/t/828789) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -574,8 +574,8 @@
 - [2022-01-17-Go-语言里怎么正确实现枚举？答案藏在官方的源码里](https://toutiao.io/k/yckichn) ![](assets/new.png)  
 - [2022-01-17-面试官提问三个Go接口的概念，-10年gopher竟无言以对](https://toutiao.io/k/yv4efod) ![](assets/new.png)  
 - [2022-01-17-C++服务性能优化的道与术-道篇：阿姆达尔定律](https://toutiao.io/k/e9jvs14) ![](assets/new.png)  
-- [2022-01-17-推荐-用规则引擎让你一天上线十个需求](https://toutiao.io/k/ldd1cse) ![](assets/new.png)  
-- [2022-01-17-推荐-JVM调优的几种场景（建议收藏）](https://toutiao.io/k/0mfx2nd) ![](assets/new.png)  
+- [2022-01-17-推荐-浅谈缓存最终一致性的解决方案](https://toutiao.io/k/mgym1lv) ![](assets/new.png)  
+- [2022-01-17-推荐-从零开始搭建公司微服务授权架构技术栈（3种模式），这架构稳的一批...](https://toutiao.io/k/4g58j8v) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

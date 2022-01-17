@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-17 15:13:43，:rocket: 更新条数: +1773， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-17 15:24:11，:rocket: 更新条数: +1775， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,8 @@
 </summary>
 
 
+- [2022-01-17-Telegram-挂了兄弟们?](https://www.v2ex.com/t/828874) ![](assets/new.png)  
+- [2022-01-17-Telegram-大范围挂了](https://www.v2ex.com/t/828873) ![](assets/new.png)  
 - [2022-01-17-2022/1/17-号晚上-23:03-分我的-telegram-突然无法打开](https://www.v2ex.com/t/828872) ![](assets/new.png)  
 - [2022-01-17-Telegram-亚洲服务器故障？](https://www.v2ex.com/t/828871) ![](assets/new.png)  
 - [2022-01-17-各位-v-友平时都有什么爱好嘛。](https://www.v2ex.com/t/828869) ![](assets/new.png)  
@@ -512,8 +514,6 @@
 - [2022-01-17-你们有没有遇到过-Monterey-Safari-的标签组功能，在一个标签组里面，一个网页用着用着突然自动关掉了](https://www.v2ex.com/t/828850) ![](assets/new.png)  
 - [2022-01-17-macos-顶部左侧任务栏卡死](https://www.v2ex.com/t/828849) ![](assets/new.png)  
 - [2022-01-17-阿里小号-恢复新购号码了,20-元/1-年](https://www.v2ex.com/t/828848) ![](assets/new.png)  
-- [2022-01-17-有什么支持个人在线支付的方案吗?](https://www.v2ex.com/t/828847) ![](assets/new.png)  
-- [2022-01-17-今天公布了-2021-年人口数据-怎么没-v-友讨论？](https://www.v2ex.com/t/828846) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -575,7 +575,7 @@
 - [2022-01-17-Go-语言里怎么正确实现枚举？答案藏在官方的源码里](https://toutiao.io/k/yckichn) ![](assets/new.png)  
 - [2022-01-17-C++服务性能优化的道与术-道篇：阿姆达尔定律](https://toutiao.io/k/e9jvs14) ![](assets/new.png)  
 - [2022-01-17-推荐-JVM调优的几种场景（建议收藏）](https://toutiao.io/k/0mfx2nd) ![](assets/new.png)  
-- [2022-01-17-推荐-再见了-VMware，一款更轻量级的虚拟机！](https://toutiao.io/k/xw2lnva) ![](assets/new.png)  
+- [2022-01-17-推荐-缓存一致性最佳实践](https://toutiao.io/k/ymscqc1) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

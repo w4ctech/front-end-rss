@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-17 14:42:19，:rocket: 更新条数: +1776， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-17 14:54:52，:rocket: 更新条数: +1773， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -66,7 +66,7 @@
 
 
 - [2022-01-17-最新疫情：全国新冠累计确诊105087例-累计接种新冠疫苗超29.37亿剂次](https://m.caixin.com/m/2022-01-17/101831132.html) ![](assets/new.png)  
-- [2022-01-17-跨境包裹内部无法消杀-国际邮件存新冠传播风险](https://companies.caixin.com/m/2022-01-17/101831345.html) ![](assets/new.png)  
+- [2022-01-17-跨境包裹内部难消杀-国际邮件或存风险点](https://companies.caixin.com/m/2022-01-17/101831345.html) ![](assets/new.png)  
 - [2022-01-17-国家卫健委：现有疫苗对预防感染奥密克戎仍有一定效果](https://m.caixin.com/m/2022-01-17/101831269.html) ![](assets/new.png)  
 - [2022-01-17-国际邮件检出奥密克戎-如何看待新冠病毒“物传人”](https://science.caixin.com/m/2022-01-17/101831238.html) ![](assets/new.png)  
 - [2022-01-17-最新海外疫情：新冠感染超3.27亿-累计接种新冠疫苗超96.3亿剂次](https://m.caixin.com/m/2022-01-17/101831136.html) ![](assets/new.png)  
@@ -494,6 +494,7 @@
 </summary>
 
 
+- [2022-01-17-泉州-CN2,-泉州电信，广州移动国际出口大爆炸拉](https://www.v2ex.com/t/828865) ![](assets/new.png)  
 - [2022-01-17-闲鱼上的冥王峡谷裸主板靠谱吗？](https://www.v2ex.com/t/828863) ![](assets/new.png)  
 - [2022-01-17-Telegram-炸掉了](https://www.v2ex.com/t/828862) ![](assets/new.png)  
 - [2022-01-17-我发现国际版-evernote-的-web-端相当好用](https://www.v2ex.com/t/828861) ![](assets/new.png)  
@@ -513,7 +514,6 @@
 - [2022-01-17-iOS-里如何登录日区账号?](https://www.v2ex.com/t/828844) ![](assets/new.png)  
 - [2022-01-17-屌丝在澳洲--墨尔本的越南菜](https://www.v2ex.com/t/828842) ![](assets/new.png)  
 - [2022-01-17-全职/远程-区块链开发/产品/Go/Flutter/前后端架构师/Cocos-主程/安全运维](https://www.v2ex.com/t/828841) ![](assets/new.png)  
-- [2022-01-17-求可插卡的平板推荐](https://www.v2ex.com/t/828840) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -574,8 +574,8 @@
 - [2022-01-17-面试官提问三个Go接口的概念，-10年gopher竟无言以对](https://toutiao.io/k/yv4efod) ![](assets/new.png)  
 - [2022-01-17-Go-语言里怎么正确实现枚举？答案藏在官方的源码里](https://toutiao.io/k/yckichn) ![](assets/new.png)  
 - [2022-01-17-C++服务性能优化的道与术-道篇：阿姆达尔定律](https://toutiao.io/k/e9jvs14) ![](assets/new.png)  
-- [2022-01-17-推荐-浅谈缓存最终一致性的解决方案](https://toutiao.io/k/mgym1lv) ![](assets/new.png)  
-- [2022-01-17-推荐-再见了-VMware，一款更轻量级的虚拟机！](https://toutiao.io/k/xw2lnva) ![](assets/new.png)  
+- [2022-01-17-推荐-网络编程怎么做才算是优雅？](https://toutiao.io/k/zylzzpi) ![](assets/new.png)  
+- [2022-01-17-推荐-缓存一致性最佳实践](https://toutiao.io/k/ymscqc1) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

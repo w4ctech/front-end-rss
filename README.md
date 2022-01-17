@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-17 07:22:22，:rocket: 更新条数: +1763， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-17 07:38:54，:rocket: 更新条数: +1762， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,11 @@
 </summary>
 
 
+- [2022-01-17-青岛的程序员们一般都通过什么平台找工作？](https://www.v2ex.com/t/828782) ![](assets/new.png)  
+- [2022-01-17-mac-mini-2012-388-休眠唤醒显示器无信号问题](https://www.v2ex.com/t/828780) ![](assets/new.png)  
+- [2022-01-17-给老人换手机推荐-省心一些的](https://www.v2ex.com/t/828778) ![](assets/new.png)  
+- [2022-01-17-上海-新加坡初创上海分公司，招聘-Engineering-Director-技术研发总监](https://www.v2ex.com/t/828776) ![](assets/new.png)  
+- [2022-01-17-微信可以的，升级了-API-30-还不做人](https://www.v2ex.com/t/828775) ![](assets/new.png)  
 - [2022-01-17-有人搞过-Kibana-UI-的二次开发吗，网上好像很少相关信息](https://www.v2ex.com/t/828774) ![](assets/new.png)  
 - [2022-01-17-关于想买蓝光眼镜夹片。。。](https://www.v2ex.com/t/828772) ![](assets/new.png)  
 - [2022-01-17-老丈人开卡宴，丈母娘开宝马-7-系，我-10w-首付应该买啥车？](https://www.v2ex.com/t/828771) ![](assets/new.png)  
@@ -509,11 +514,6 @@
 - [2022-01-17-迫于本人没什么特别持久的爱好，想在业余的时候做一些轻松的小副业，有无推荐？](https://www.v2ex.com/t/828753) ![](assets/new.png)  
 - [2022-01-17-12-系列屏幕是否导致晕车](https://www.v2ex.com/t/828751) ![](assets/new.png)  
 - [2022-01-17-关于年终奖那点事](https://www.v2ex.com/t/828750) ![](assets/new.png)  
-- [2022-01-17-在线简历制作哪家强？](https://www.v2ex.com/t/828749) ![](assets/new.png)  
-- [2022-01-17-Go-微服务框架-Kratos-线上直播年会，等你来围观！](https://www.v2ex.com/t/828748) ![](assets/new.png)  
-- [2022-01-17-关于宽带-dns-服务器失效](https://www.v2ex.com/t/828746) ![](assets/new.png)  
-- [2022-01-17-🔥字节跳动-北京/上海/成都-前端开发工程师（P5-P8）--抖音生活服务（对标美团）🔥](https://www.v2ex.com/t/828744) ![](assets/new.png)  
-- [2022-01-17-迫于收到一个主板一颗-cpu-和内存，求推荐其他配置](https://www.v2ex.com/t/828743) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -525,6 +525,7 @@
 </summary>
 
 
+- [2022-01-17-软件工程师应该如何吵架？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14905&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fsoftware-engineer-quarrel-culture%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-01-17-Python之禅：编写优雅Python代码的16个原则-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14904&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493176%26amp%3Bidx%3D1%26amp%3Bsn%3Df2d627b156b058851c889b4445e11ec1%26amp%3Bchksm%3Dfa3f0763cd488e75569fb239eac349981802ba866826795ead0d9b7546d81579eed97e34bb65%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-01-17-公司这套架构统一处理try...catch，很牛逼！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14903&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493176%26amp%3Bidx%3D2%26amp%3Bsn%3D98ffd0ca1663318ac2b071210d422ade%26amp%3Bchksm%3Dfa3f0763cd488e75d3f771749cf8c542bc4a956a70c6a9b5d081ba654d919b72207bee03e9a5%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-01-17-Windows10最新版壁纸下载-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14902&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493135%26amp%3Bidx%3D1%26amp%3Bsn%3Dd81460b7d7680b08f84d88644053f9ad%26amp%3Bchksm%3Dfa3f0754cd488e426414f463f7585a415ed6096c7bb374c3bbcaee6fb03fdc3c57b9a7262626%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
@@ -544,7 +545,6 @@
 - [2022-01-17-一位10年Google工程师给技术人的建议-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14888&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247492913%26amp%3Bidx%3D1%26amp%3Bsn%3Dac389822c4e6f5899bf51ab9abd8aa3b%26amp%3Bchksm%3Dfa3f046acd488d7cbcc06db3b901854c31fcb2e4a724a20be7c60e969c8d4ad9796a077e703d%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-01-17-Vue开发移动端项目，这个工具对你一定有帮助-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14887&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247492913%26amp%3Bidx%3D2%26amp%3Bsn%3D925a00629c2130296cfc8227eddec078%26amp%3Bchksm%3Dfa3f046acd488d7cf66e591ea5dbbf890d12924a8b69610d80dd8130e00b20dde4b73211c64b%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-01-17-Ghost-in-the-Log4Shell-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14886&url=https%3A%2F%2Finsights.thoughtworks.cn%2Flog4j-log4shell%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-01-17-敏捷变革中，如何让你的第三空间更有吸引力？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14885&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fagile-organization-transformation-third-space%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -563,8 +563,8 @@
 - [2022-01-17-一文遍历大数据架构变迁史](https://toutiao.io/k/0vjvg6w) ![](assets/new.png)  
 - [2022-01-17-房地产互联网领域黑产常见攻击手法初探](https://toutiao.io/k/vfz32ti) ![](assets/new.png)  
 - [2022-01-17-腾讯自主研发动画组件PAG开源](https://toutiao.io/k/91ue8oz) ![](assets/new.png)  
-- [2022-01-17-听歌学英文-|-Cheap-Thrills---Sia](https://toutiao.io/k/j51lfoh) ![](assets/new.png)  
 - [2022-01-17-从供应链中台的故事说起，聊一聊中台的本质和设计之道](https://toutiao.io/k/69m14no) ![](assets/new.png)  
+- [2022-01-17-听歌学英文-|-Cheap-Thrills---Sia](https://toutiao.io/k/j51lfoh) ![](assets/new.png)  
 - [2022-01-17-逗喵主子的神器，猫咪无法拒绝的玩具诱惑，让猫咪聪明又健康！](https://toutiao.io/k/dbnzar0) ![](assets/new.png)  
 - [2022-01-17-使用-dotnet-monitor-在-Kubernetes-中收集-.NET-metrics](https://toutiao.io/k/594q4vv) ![](assets/new.png)  
 - [2022-01-17-时刻掌握系统运行状态-深度理解top命令](https://toutiao.io/k/b63nxl5) ![](assets/new.png)  
@@ -572,10 +572,10 @@
 - [2022-01-17-从ReactNative到Flutter：跨平台技术的黄金时代与七年之痒](https://toutiao.io/k/2jb6gks) ![](assets/new.png)  
 - [2022-01-17-Google-大佬们为什么要开发-Go-这门新语言？](https://toutiao.io/k/3tzih9c) ![](assets/new.png)  
 - [2022-01-17-面试官提问三个Go接口的概念，-10年gopher竟无言以对](https://toutiao.io/k/yv4efod) ![](assets/new.png)  
-- [2022-01-17-Go-语言里怎么正确实现枚举？答案藏在官方的源码里](https://toutiao.io/k/yckichn) ![](assets/new.png)  
 - [2022-01-17-C++服务性能优化的道与术-道篇：阿姆达尔定律](https://toutiao.io/k/e9jvs14) ![](assets/new.png)  
-- [2022-01-17-推荐-从零开始搭建公司微服务授权架构技术栈（3种模式），这架构稳的一批...](https://toutiao.io/k/4g58j8v) ![](assets/new.png)  
-- [2022-01-17-推荐-再见了-VMware，一款更轻量级的虚拟机！](https://toutiao.io/k/xw2lnva) ![](assets/new.png)  
+- [2022-01-17-Go-语言里怎么正确实现枚举？答案藏在官方的源码里](https://toutiao.io/k/yckichn) ![](assets/new.png)  
+- [2022-01-17-推荐-缓存一致性最佳实践](https://toutiao.io/k/ymscqc1) ![](assets/new.png)  
+- [2022-01-17-推荐-网络编程怎么做才算是优雅？](https://toutiao.io/k/zylzzpi) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

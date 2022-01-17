@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-17 13:54:18，:rocket: 更新条数: +1776， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-17 14:13:16，:rocket: 更新条数: +1775， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -568,14 +568,14 @@
 - [2022-01-17-从ReactNative到Flutter：跨平台技术的黄金时代与七年之痒](https://toutiao.io/k/2jb6gks) ![](assets/new.png)  
 - [2022-01-17-腾讯自主研发动画组件PAG开源](https://toutiao.io/k/91ue8oz) ![](assets/new.png)  
 - [2022-01-17-听歌学英文-|-Cheap-Thrills---Sia](https://toutiao.io/k/j51lfoh) ![](assets/new.png)  
-- [2022-01-17-逗喵主子的神器，猫咪无法拒绝的玩具诱惑，让猫咪聪明又健康！](https://toutiao.io/k/dbnzar0) ![](assets/new.png)  
 - [2022-01-17-Google-大佬们为什么要开发-Go-这门新语言？](https://toutiao.io/k/3tzih9c) ![](assets/new.png)  
+- [2022-01-17-逗喵主子的神器，猫咪无法拒绝的玩具诱惑，让猫咪聪明又健康！](https://toutiao.io/k/dbnzar0) ![](assets/new.png)  
 - [2022-01-17-使用-dotnet-monitor-在-Kubernetes-中收集-.NET-metrics](https://toutiao.io/k/594q4vv) ![](assets/new.png)  
 - [2022-01-17-面试官提问三个Go接口的概念，-10年gopher竟无言以对](https://toutiao.io/k/yv4efod) ![](assets/new.png)  
-- [2022-01-17-C++服务性能优化的道与术-道篇：阿姆达尔定律](https://toutiao.io/k/e9jvs14) ![](assets/new.png)  
 - [2022-01-17-Go-语言里怎么正确实现枚举？答案藏在官方的源码里](https://toutiao.io/k/yckichn) ![](assets/new.png)  
-- [2022-01-17-推荐-浅谈缓存最终一致性的解决方案](https://toutiao.io/k/mgym1lv) ![](assets/new.png)  
-- [2022-01-17-推荐-再见了-VMware，一款更轻量级的虚拟机！](https://toutiao.io/k/xw2lnva) ![](assets/new.png)  
+- [2022-01-17-C++服务性能优化的道与术-道篇：阿姆达尔定律](https://toutiao.io/k/e9jvs14) ![](assets/new.png)  
+- [2022-01-17-推荐-非常哇塞的-ES读场景、写场景-性能优化指南！你值得拥有！](https://toutiao.io/k/5pjb28q) ![](assets/new.png)  
+- [2022-01-17-推荐-JVM调优的几种场景（建议收藏）](https://toutiao.io/k/0mfx2nd) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

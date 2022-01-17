@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-01-17 07:54:42。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-01-17 08:16:38。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -239,6 +239,7 @@
 
 - [【武汉肺炎防疫全纪录(财新网)】广州17岁男生在定点医院参加高考-特殊考场视频监考](https://m.caixin.com/m/2021-06-05/101723418.html)
 - [【武汉肺炎防疫全纪录(财新网)】林郑月娥率13高官直播接种科兴疫苗-复星疫苗预计周中到港](https://m.caixin.com/m/2021-02-22/101665724.html)
+- [【V2EX】杭州-来来来，前端，-Go-后端开发，-SRE，项目技术主管全都要，可年前视频面试，年后上班。朝十晚七双休不加班不内卷！](https://www.v2ex.com/t/828795)
 - [【V2EX】想问问大家家里用什么摄像头的](https://www.v2ex.com/t/828763)
 - [【V2EX】Go-微服务框架-Kratos-线上直播年会，等你来围观！](https://www.v2ex.com/t/828748)
 - [......【查看更多】......](./details/tags/audio-video.md)
@@ -302,6 +303,7 @@
 
 
 
+- [【V2EX】上海-新加坡初创上海分公司，招聘-高级全栈工程师](https://www.v2ex.com/t/828790)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -334,6 +336,7 @@
 
 
 
+- [【V2EX】你们在-git-提交的时候会用-emoji-么。做了个-git-emoji-的网站](https://www.v2ex.com/t/828792)
 - [【V2EX】Gitlab-项目库丢了，求救](https://www.v2ex.com/t/828761)
 - [......【查看更多】......](./details/tags/git-svn.md)
 

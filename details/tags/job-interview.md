@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-01-17 05:54:42。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-01-17 06:16:17。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -8,3 +8,4 @@
 
 
 - [2022-01-17-大家找工作一般是用什么招聘网站呀？坐标广东省](https://www.v2ex.com/t/828711) 
+- [2022-01-17-面试官提问三个Go接口的概念，-10年gopher竟无言以对](https://toutiao.io/k/yv4efod) 

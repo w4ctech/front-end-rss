@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-17 16:35:32，:rocket: 更新条数: +1757， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-17 17:04:10，:rocket: 更新条数: +1756， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,8 @@
 </summary>
 
 
+- [2022-01-17-定义了移动构造函数，会导致赋值操作符被删除？](https://www.v2ex.com/t/828887) ![](assets/new.png)  
+- [2022-01-17-如何防止某个-Android-应用静默更新？](https://www.v2ex.com/t/828886) ![](assets/new.png)  
 - [2022-01-17-求大佬帮我安排一下-gen10-plus](https://www.v2ex.com/t/828883) ![](assets/new.png)  
 - [2022-01-17-mesh-组网有没有能用的-traceroute-工具呢？](https://www.v2ex.com/t/828882) ![](assets/new.png)  
 - [2022-01-17-PHP-转-golang，求一份上海-golang-后端开发](https://www.v2ex.com/t/828881) ![](assets/new.png)  
@@ -512,8 +514,6 @@
 - [2022-01-17-Telegram-炸掉了](https://www.v2ex.com/t/828862) ![](assets/new.png)  
 - [2022-01-17-我发现国际版-evernote-的-web-端相当好用](https://www.v2ex.com/t/828861) ![](assets/new.png)  
 - [2022-01-17-2022.1.17-晚间，看起来-DC5-又挂了](https://www.v2ex.com/t/828860) ![](assets/new.png)  
-- [2022-01-17-有哪些相对保值的爱好？](https://www.v2ex.com/t/828859) ![](assets/new.png)  
-- [2022-01-17-Intel-网卡开启-SR-IOV，如何作为虚拟机之间互联使用（不插网线）？](https://www.v2ex.com/t/828856) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -557,17 +557,17 @@
 
 
 - [2022-01-17-虎年灯笼逗猫棒流苏宠猫玩具，点击链接立即领券购买！](https://toutiao.io/k/9w6tpgk) ![](assets/new.png)  
-- [2022-01-17-推荐-从零开始搭建公司微服务授权架构技术栈（3种模式），这架构稳的一批...](https://toutiao.io/k/4g58j8v) ![](assets/new.png)  
-- [2022-01-17-推荐-2022新年伊始，送你百篇干货文章](https://toutiao.io/k/kchudkd) ![](assets/new.png)  
-- [2022-01-17-推荐-京东ClickHouse的实践之路](https://toutiao.io/k/j0r6746) ![](assets/new.png)  
-- [2022-01-17-推荐-从零打造-Instagram](https://toutiao.io/k/hufqvji) ![](assets/new.png)  
-- [2022-01-17-推荐-浅谈缓存最终一致性的解决方案](https://toutiao.io/k/mgym1lv) ![](assets/new.png)  
 - [2022-01-17-推荐-再见了-VMware，一款更轻量级的虚拟机！](https://toutiao.io/k/xw2lnva) ![](assets/new.png)  
 - [2022-01-17-推荐-用规则引擎让你一天上线十个需求](https://toutiao.io/k/ldd1cse) ![](assets/new.png)  
 - [2022-01-17-推荐-服务探活的五种方式](https://toutiao.io/k/1wuwmui) ![](assets/new.png)  
+- [2022-01-17-推荐-京东ClickHouse的实践之路](https://toutiao.io/k/j0r6746) ![](assets/new.png)  
+- [2022-01-17-推荐-浅谈缓存最终一致性的解决方案](https://toutiao.io/k/mgym1lv) ![](assets/new.png)  
+- [2022-01-17-推荐-从零打造-Instagram](https://toutiao.io/k/hufqvji) ![](assets/new.png)  
 - [2022-01-17-推荐-网络编程怎么做才算是优雅？](https://toutiao.io/k/zylzzpi) ![](assets/new.png)  
-- [2022-01-17-推荐-缓存一致性最佳实践](https://toutiao.io/k/ymscqc1) ![](assets/new.png)  
 - [2022-01-17-推荐-JVM调优的几种场景（建议收藏）](https://toutiao.io/k/0mfx2nd) ![](assets/new.png)  
+- [2022-01-17-推荐-2022新年伊始，送你百篇干货文章](https://toutiao.io/k/kchudkd) ![](assets/new.png)  
+- [2022-01-17-推荐-从零开始搭建公司微服务授权架构技术栈（3种模式），这架构稳的一批...](https://toutiao.io/k/4g58j8v) ![](assets/new.png)  
+- [2022-01-17-推荐-缓存一致性最佳实践](https://toutiao.io/k/ymscqc1) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

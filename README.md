@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-17 13:14:37，:rocket: 更新条数: +1774， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-17 13:32:23，:rocket: 更新条数: +1775， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,8 @@
 </summary>
 
 
+- [2022-01-17-MBA-怎么优雅的调试串口设备？](https://www.v2ex.com/t/828854) ![](assets/new.png)  
+- [2022-01-17-大家对未来几年的经济怎么看？](https://www.v2ex.com/t/828853) ![](assets/new.png)  
 - [2022-01-17-关于雷电-4-的一点疑惑](https://www.v2ex.com/t/828851) ![](assets/new.png)  
 - [2022-01-17-你们有没有遇到过-Monterey-Safari-的标签组功能，在一个标签组里面，一个网页用着用着突然自动关掉了](https://www.v2ex.com/t/828850) ![](assets/new.png)  
 - [2022-01-17-macos-顶部左侧任务栏卡死](https://www.v2ex.com/t/828849) ![](assets/new.png)  
@@ -512,8 +514,6 @@
 - [2022-01-17-用-nuxtjs-vue-开发的一个后台系统-后悔了-还不如用-extjs](https://www.v2ex.com/t/828834) ![](assets/new.png)  
 - [2022-01-17-发布人生第一个-Python-包](https://www.v2ex.com/t/828833) ![](assets/new.png)  
 - [2022-01-17-2022-年了还能模拟登录微博吗？](https://www.v2ex.com/t/828832) ![](assets/new.png)  
-- [2022-01-17-如何在-iOS-设备上编辑存在家中-NAS-内的-Markdown-文档](https://www.v2ex.com/t/828831) ![](assets/new.png)  
-- [2022-01-17-最后一次求职、寻找团队](https://www.v2ex.com/t/828827) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -565,8 +565,8 @@
 - [2022-01-17-从供应链中台的故事说起，聊一聊中台的本质和设计之道](https://toutiao.io/k/69m14no) ![](assets/new.png)  
 - [2022-01-17-DTM-与-SEATA-主要特性对比](https://toutiao.io/k/97pcq1t) ![](assets/new.png)  
 - [2022-01-17-时刻掌握系统运行状态-深度理解top命令](https://toutiao.io/k/b63nxl5) ![](assets/new.png)  
-- [2022-01-17-腾讯自主研发动画组件PAG开源](https://toutiao.io/k/91ue8oz) ![](assets/new.png)  
 - [2022-01-17-从ReactNative到Flutter：跨平台技术的黄金时代与七年之痒](https://toutiao.io/k/2jb6gks) ![](assets/new.png)  
+- [2022-01-17-腾讯自主研发动画组件PAG开源](https://toutiao.io/k/91ue8oz) ![](assets/new.png)  
 - [2022-01-17-听歌学英文-|-Cheap-Thrills---Sia](https://toutiao.io/k/j51lfoh) ![](assets/new.png)  
 - [2022-01-17-逗喵主子的神器，猫咪无法拒绝的玩具诱惑，让猫咪聪明又健康！](https://toutiao.io/k/dbnzar0) ![](assets/new.png)  
 - [2022-01-17-Google-大佬们为什么要开发-Go-这门新语言？](https://toutiao.io/k/3tzih9c) ![](assets/new.png)  
@@ -574,8 +574,8 @@
 - [2022-01-17-面试官提问三个Go接口的概念，-10年gopher竟无言以对](https://toutiao.io/k/yv4efod) ![](assets/new.png)  
 - [2022-01-17-C++服务性能优化的道与术-道篇：阿姆达尔定律](https://toutiao.io/k/e9jvs14) ![](assets/new.png)  
 - [2022-01-17-Go-语言里怎么正确实现枚举？答案藏在官方的源码里](https://toutiao.io/k/yckichn) ![](assets/new.png)  
-- [2022-01-17-推荐-用规则引擎让你一天上线十个需求](https://toutiao.io/k/ldd1cse) ![](assets/new.png)  
-- [2022-01-17-推荐-非常哇塞的-ES读场景、写场景-性能优化指南！你值得拥有！](https://toutiao.io/k/5pjb28q) ![](assets/new.png)  
+- [2022-01-17-推荐-京东ClickHouse的实践之路](https://toutiao.io/k/j0r6746) ![](assets/new.png)  
+- [2022-01-17-推荐-浅谈缓存最终一致性的解决方案](https://toutiao.io/k/mgym1lv) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

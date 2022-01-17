@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-17 10:47:42，:rocket: 更新条数: +1770， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-17 11:11:53，:rocket: 更新条数: +1771， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,11 +494,13 @@
 </summary>
 
 
+- [2022-01-17-常年招聘算法工程师，欢迎投递简历](https://www.v2ex.com/t/828837) ![](assets/new.png)  
+- [2022-01-17-ios-新-bug？-app-图标变暗。](https://www.v2ex.com/t/828836) ![](assets/new.png)  
+- [2022-01-17-有没有可以给视频加动态时长水印显示的-APP？](https://www.v2ex.com/t/828835) ![](assets/new.png)  
 - [2022-01-17-用-nuxtjs-vue-开发的一个后台系统-后悔了-还不如用-extjs](https://www.v2ex.com/t/828834) ![](assets/new.png)  
 - [2022-01-17-发布人生第一个-Python-包](https://www.v2ex.com/t/828833) ![](assets/new.png)  
 - [2022-01-17-2022-年了还能模拟登录微博吗？](https://www.v2ex.com/t/828832) ![](assets/new.png)  
 - [2022-01-17-如何在-iOS-设备上编辑存在家中-NAS-内的-Markdown-文档](https://www.v2ex.com/t/828831) ![](assets/new.png)  
-- [2022-01-17-猜一部韩国电影，测试一下你的电影知识？](https://www.v2ex.com/t/828829) ![](assets/new.png)  
 - [2022-01-17-最后一次求职、寻找团队](https://www.v2ex.com/t/828827) ![](assets/new.png)  
 - [2022-01-17-想了解下荣耀的加班情况，有在荣耀的兄弟吗？](https://www.v2ex.com/t/828826) ![](assets/new.png)  
 - [2022-01-17-2021-年度洋垃圾服务器：-Xeon-D-1581](https://www.v2ex.com/t/828825) ![](assets/new.png)  
@@ -512,8 +514,6 @@
 - [2022-01-17-nginx-限流后-post-请求返回-405](https://www.v2ex.com/t/828814) ![](assets/new.png)  
 - [2022-01-17-跳过广告的插件/应用，会记录其它数据吗？](https://www.v2ex.com/t/828812) ![](assets/new.png)  
 - [2022-01-17-云服务器配置的青龙面板好像被人暴力破解，现在提示-530112-秒后重试，没法登录了，有什么办法吗](https://www.v2ex.com/t/828811) ![](assets/new.png)  
-- [2022-01-17-请问有免费的-youtube-视频或音频转-MP3-下载的方案么？](https://www.v2ex.com/t/828810) ![](assets/new.png)  
-- [2022-01-17-北京/上海代友-Shopee-中国研发团队招聘](https://www.v2ex.com/t/828809) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -565,17 +565,17 @@
 - [2022-01-17-从供应链中台的故事说起，聊一聊中台的本质和设计之道](https://toutiao.io/k/69m14no) ![](assets/new.png)  
 - [2022-01-17-腾讯自主研发动画组件PAG开源](https://toutiao.io/k/91ue8oz) ![](assets/new.png)  
 - [2022-01-17-听歌学英文-|-Cheap-Thrills---Sia](https://toutiao.io/k/j51lfoh) ![](assets/new.png)  
+- [2022-01-17-DTM-与-SEATA-主要特性对比](https://toutiao.io/k/97pcq1t) ![](assets/new.png)  
 - [2022-01-17-逗喵主子的神器，猫咪无法拒绝的玩具诱惑，让猫咪聪明又健康！](https://toutiao.io/k/dbnzar0) ![](assets/new.png)  
 - [2022-01-17-时刻掌握系统运行状态-深度理解top命令](https://toutiao.io/k/b63nxl5) ![](assets/new.png)  
 - [2022-01-17-从ReactNative到Flutter：跨平台技术的黄金时代与七年之痒](https://toutiao.io/k/2jb6gks) ![](assets/new.png)  
-- [2022-01-17-DTM-与-SEATA-主要特性对比](https://toutiao.io/k/97pcq1t) ![](assets/new.png)  
 - [2022-01-17-使用-dotnet-monitor-在-Kubernetes-中收集-.NET-metrics](https://toutiao.io/k/594q4vv) ![](assets/new.png)  
 - [2022-01-17-Google-大佬们为什么要开发-Go-这门新语言？](https://toutiao.io/k/3tzih9c) ![](assets/new.png)  
 - [2022-01-17-面试官提问三个Go接口的概念，-10年gopher竟无言以对](https://toutiao.io/k/yv4efod) ![](assets/new.png)  
 - [2022-01-17-Go-语言里怎么正确实现枚举？答案藏在官方的源码里](https://toutiao.io/k/yckichn) ![](assets/new.png)  
 - [2022-01-17-C++服务性能优化的道与术-道篇：阿姆达尔定律](https://toutiao.io/k/e9jvs14) ![](assets/new.png)  
-- [2022-01-17-推荐-从零开始搭建公司微服务授权架构技术栈（3种模式），这架构稳的一批...](https://toutiao.io/k/4g58j8v) ![](assets/new.png)  
-- [2022-01-17-推荐-浅谈缓存最终一致性的解决方案](https://toutiao.io/k/mgym1lv) ![](assets/new.png)  
+- [2022-01-17-推荐-JVM调优的几种场景（建议收藏）](https://toutiao.io/k/0mfx2nd) ![](assets/new.png)  
+- [2022-01-17-推荐-2022新年伊始，送你百篇干货文章](https://toutiao.io/k/kchudkd) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

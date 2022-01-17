@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-17 13:47:30，:rocket: 更新条数: +1775， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-17 13:54:18，:rocket: 更新条数: +1776， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -66,10 +66,11 @@
 
 
 - [2022-01-17-最新疫情：全国新冠累计确诊105087例-累计接种新冠疫苗超29.37亿剂次](https://m.caixin.com/m/2022-01-17/101831132.html) ![](assets/new.png)  
-- [2022-01-17-广东多起疫情源头疑似境外物品暴露感染-邮政监管部门要求加强国际邮件消杀](https://m.caixin.com/m/2022-01-17/101831330.html) ![](assets/new.png)  
+- [2022-01-17-跨境包裹内部无法消杀-国际邮件存新冠传播风险](https://companies.caixin.com/m/2022-01-17/101831345.html) ![](assets/new.png)  
 - [2022-01-17-国家卫健委：现有疫苗对预防感染奥密克戎仍有一定效果](https://m.caixin.com/m/2022-01-17/101831269.html) ![](assets/new.png)  
 - [2022-01-17-国际邮件检出奥密克戎-如何看待新冠病毒“物传人”](https://science.caixin.com/m/2022-01-17/101831238.html) ![](assets/new.png)  
 - [2022-01-17-最新海外疫情：新冠感染超3.27亿-累计接种新冠疫苗超96.3亿剂次](https://m.caixin.com/m/2022-01-17/101831136.html) ![](assets/new.png)  
+- [2022-01-17-广东多起疫情源头疑似境外物品暴露感染-邮政监管部门要求加强国际邮件消杀](https://m.caixin.com/m/2022-01-17/101831330.html) ![](assets/new.png)  
 - [2022-01-17-北京确诊病例处于感染早期-所收国际邮件标本阳性](https://m.caixin.com/m/2022-01-17/101831061.html) ![](assets/new.png)  
 - [2022-01-17-【境内疫情观察】全国新增163例本土病例（1月16日）](https://database.caixin.com/m/2022-01-17/101831120.html) ![](assets/new.png)  
 - [2022-01-17-英国病例数下降-欧洲未接种疫苗人群正“退出社会”｜大流行手记（1月16日）](https://m.caixin.com/m/2022-01-17/101830909.html) ![](assets/new.png)  
@@ -84,7 +85,6 @@
 - [2022-01-15-北京新增1例本土新冠确诊为奥密克戎-轨迹公布](https://china.caixin.com/m/2022-01-15/101830645.html) ![](assets/new.png)  
 - [2022-01-15-【境内疫情观察】全国新增104例本土病例（1月14日）](https://database.caixin.com/m/2022-01-15/101830669.html) ![](assets/new.png)  
 - [2022-01-15-Omicron在意大利已占主导地位-南非研究显示其毒力更弱｜大流行手记（1月14日）](https://m.caixin.com/m/2022-01-15/101830527.html) ![](assets/new.png)  
-- [2022-01-14-最新封面报道｜奥密克戎遭遇战](https://weekly.caixin.com/m/2022-01-14/101830078.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -494,6 +494,7 @@
 </summary>
 
 
+- [2022-01-17-Intel-网卡开启-SR-IOV，如何作为虚拟机之间互联使用（不插网线）？](https://www.v2ex.com/t/828856) ![](assets/new.png)  
 - [2022-01-17-如今还有哪里能够下载到-win98-和迅雷-3.0？](https://www.v2ex.com/t/828855) ![](assets/new.png)  
 - [2022-01-17-MBA-怎么优雅的调试串口设备？](https://www.v2ex.com/t/828854) ![](assets/new.png)  
 - [2022-01-17-大家对未来几年的经济怎么看？](https://www.v2ex.com/t/828853) ![](assets/new.png)  
@@ -513,7 +514,6 @@
 - [2022-01-17-ios-新-bug？-app-图标变暗。](https://www.v2ex.com/t/828836) ![](assets/new.png)  
 - [2022-01-17-有没有可以给视频加动态时长水印显示的-APP？](https://www.v2ex.com/t/828835) ![](assets/new.png)  
 - [2022-01-17-用-nuxtjs-vue-开发的一个后台系统-后悔了-还不如用-extjs](https://www.v2ex.com/t/828834) ![](assets/new.png)  
-- [2022-01-17-发布人生第一个-Python-包](https://www.v2ex.com/t/828833) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -574,7 +574,7 @@
 - [2022-01-17-面试官提问三个Go接口的概念，-10年gopher竟无言以对](https://toutiao.io/k/yv4efod) ![](assets/new.png)  
 - [2022-01-17-C++服务性能优化的道与术-道篇：阿姆达尔定律](https://toutiao.io/k/e9jvs14) ![](assets/new.png)  
 - [2022-01-17-Go-语言里怎么正确实现枚举？答案藏在官方的源码里](https://toutiao.io/k/yckichn) ![](assets/new.png)  
-- [2022-01-17-推荐-JVM调优的几种场景（建议收藏）](https://toutiao.io/k/0mfx2nd) ![](assets/new.png)  
+- [2022-01-17-推荐-浅谈缓存最终一致性的解决方案](https://toutiao.io/k/mgym1lv) ![](assets/new.png)  
 - [2022-01-17-推荐-再见了-VMware，一款更轻量级的虚拟机！](https://toutiao.io/k/xw2lnva) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

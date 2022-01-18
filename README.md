@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-18 09:45:44，:rocket: 更新条数: +1781， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-18 09:57:55，:rocket: 更新条数: +1777， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,8 +494,11 @@
 </summary>
 
 
+- [2022-01-18-长期招聘-UI-网站设计师--30-美元一小时，可远程工作。](https://www.v2ex.com/t/829050) ![](assets/new.png)  
+- [2022-01-18-如何实现一个压缩追加的功能？求大佬们给点思路](https://www.v2ex.com/t/829049) ![](assets/new.png)  
+- [2022-01-18-师傅，你是做什么工作的](https://www.v2ex.com/t/829048) ![](assets/new.png)  
+- [2022-01-18-多线程消费，-队列没有清空就退出了，-请教原因，-谢谢！](https://www.v2ex.com/t/829047) ![](assets/new.png)  
 - [2022-01-18-不用微信的人](https://www.v2ex.com/t/829045) ![](assets/new.png)  
-- [2022-01-18-穷的同义词~~~](https://www.v2ex.com/t/829044) ![](assets/new.png)  
 - [2022-01-18-如何使用-mac-自己的设置修改-chrome-的快捷键](https://www.v2ex.com/t/829043) ![](assets/new.png)  
 - [2022-01-18-电脑自动输入奇怪的字符有可能是什么原因？](https://www.v2ex.com/t/829041) ![](assets/new.png)  
 - [2022-01-18-如何在-windows-桌面环境（即专业版、企业版）上无虚拟机使用-docker-EE-？](https://www.v2ex.com/t/829040) ![](assets/new.png)  
@@ -503,11 +506,8 @@
 - [2022-01-18-iPhone-充电太快了，有没有-2W-的充电头](https://www.v2ex.com/t/829038) ![](assets/new.png)  
 - [2022-01-18-有没有-spotlight-的扩展插件？](https://www.v2ex.com/t/829037) ![](assets/new.png)  
 - [2022-01-18-VitalSigns-3-站貌似挂了，有更好的监控软件推荐吗？](https://www.v2ex.com/t/829036) ![](assets/new.png)  
-- [2022-01-18-快手邀请新用户-3-个人-可以免费撸一顿双人套餐-kfc-v-友们-帮个忙-还差一个](https://www.v2ex.com/t/829035) ![](assets/new.png)  
-- [2022-01-18-Netflix-土区-，缺一，常年车队，非常稳](https://www.v2ex.com/t/829032) ![](assets/new.png)  
 - [2022-01-18-我应该是全国第一位休法定-13-天婚假的人吧？](https://www.v2ex.com/t/829031) ![](assets/new.png)  
 - [2022-01-18-M1-偶发无法输入的问题](https://www.v2ex.com/t/829030) ![](assets/new.png)  
-- [2022-01-18-美区-Apple-One-超大杯-Premier-+300-刀收费-app+百度-SVIP+优酷酷喵-VIP+爱奇艺-VIP+搜狐视频-VIP-发车](https://www.v2ex.com/t/829028) ![](assets/new.png)  
 - [2022-01-18-妹妹成人礼送什么好呢](https://www.v2ex.com/t/829027) ![](assets/new.png)  
 - [2022-01-18-同志们，又过年了，想知道大家过年都送什么礼](https://www.v2ex.com/t/829026) ![](assets/new.png)  
 - [2022-01-18-Sony-cas-1-蓝牙与-macOS-不兼容](https://www.v2ex.com/t/829025) ![](assets/new.png)  
@@ -565,17 +565,17 @@
 - [2022-01-18-分库分表实战之一叶知秋：图览分库分表外卖订单项目](https://toutiao.io/k/7vbu926) ![](assets/new.png)  
 - [2022-01-18-虎年灯笼逗猫棒流苏宠猫玩具，点击链接立即领券购买！](https://toutiao.io/k/9w6tpgk) ![](assets/new.png)  
 - [2022-01-18-做数据分析已经会Excel了，还要学Python吗？](https://toutiao.io/k/flymy2i) ![](assets/new.png)  
-- [2022-01-18-Python-为什么不设计-do-while-循环结构？](https://toutiao.io/k/46pdicq) ![](assets/new.png)  
 - [2022-01-18-面试指北-|-图解-Flink-的-Checkpoint-机制](https://toutiao.io/k/9984cvk) ![](assets/new.png)  
+- [2022-01-18-Python-为什么不设计-do-while-循环结构？](https://toutiao.io/k/46pdicq) ![](assets/new.png)  
 - [2022-01-18-如何通过3个简单步骤成为高级开发人员](https://toutiao.io/k/4id5nok) ![](assets/new.png)  
 - [2022-01-18-一文读懂-CatBoost-算法原理（附代码）](https://toutiao.io/k/au8td5o) ![](assets/new.png)  
 - [2022-01-18-使用jdk动态代理踩到一个神奇的坑](https://toutiao.io/k/hlja94f) ![](assets/new.png)  
 - [2022-01-18-GDB调试-从入门实践到原理](https://toutiao.io/k/ctomvz4) ![](assets/new.png)  
 - [2022-01-18-2021，React、Vue、Svelte、元宇宙领域发生了什么事？](https://toutiao.io/k/68ri6b8) ![](assets/new.png)  
 - [2022-01-18-为任意屏幕尺寸构建-Android-界面](https://toutiao.io/k/ca7sc40) ![](assets/new.png)  
-- [2022-01-18-推荐-京东ClickHouse的实践之路](https://toutiao.io/k/j0r6746) ![](assets/new.png)  
-- [2022-01-18-推荐-再见了-VMware，一款更轻量级的虚拟机！](https://toutiao.io/k/xw2lnva) ![](assets/new.png)  
 - [2022-01-18-推荐-缓存一致性最佳实践](https://toutiao.io/k/ymscqc1) ![](assets/new.png)  
+- [2022-01-18-推荐-京东ClickHouse的实践之路](https://toutiao.io/k/j0r6746) ![](assets/new.png)  
+- [2022-01-18-推荐-JVM调优的几种场景（建议收藏）](https://toutiao.io/k/0mfx2nd) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

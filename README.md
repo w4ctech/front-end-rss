@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-18 09:23:43，:rocket: 更新条数: +1782， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-18 09:42:04，:rocket: 更新条数: +1781， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,11 @@
 </summary>
 
 
+- [2022-01-18-不用微信的人](https://www.v2ex.com/t/829045) ![](assets/new.png)  
+- [2022-01-18-穷的同义词~~~](https://www.v2ex.com/t/829044) ![](assets/new.png)  
+- [2022-01-18-如何使用-mac-自己的设置修改-chrome-的快捷键](https://www.v2ex.com/t/829043) ![](assets/new.png)  
+- [2022-01-18-电脑自动输入奇怪的字符有可能是什么原因？](https://www.v2ex.com/t/829041) ![](assets/new.png)  
+- [2022-01-18-如何在-windows-桌面环境（即专业版、企业版）上无虚拟机使用-docker-EE-？](https://www.v2ex.com/t/829040) ![](assets/new.png)  
 - [2022-01-18-全职远程20k---40K-硅谷远程创业公司招聘-React-前端工程师](https://www.v2ex.com/t/829039) ![](assets/new.png)  
 - [2022-01-18-iPhone-充电太快了，有没有-2W-的充电头](https://www.v2ex.com/t/829038) ![](assets/new.png)  
 - [2022-01-18-有没有-spotlight-的扩展插件？](https://www.v2ex.com/t/829037) ![](assets/new.png)  
@@ -509,11 +514,6 @@
 - [2022-01-18-现在做机器学习，使用的算法是十大经典算法吗？](https://www.v2ex.com/t/829024) ![](assets/new.png)  
 - [2022-01-18-现在很多人鼓吹-Windows-系统不分区，一个-C-盘，那么重装怎么办呢](https://www.v2ex.com/t/829023) ![](assets/new.png)  
 - [2022-01-18-反向代理出错后，会出现线程泄露？](https://www.v2ex.com/t/829022) ![](assets/new.png)  
-- [2022-01-18-请教一个-oracle-的排序问题](https://www.v2ex.com/t/829021) ![](assets/new.png)  
-- [2022-01-18-春节家里来人-带小朋友的话-有什么玩具推荐-或者体感游戏机?](https://www.v2ex.com/t/829020) ![](assets/new.png)  
-- [2022-01-18-老-mac-用户们，手里的机器都停留在哪个系统？](https://www.v2ex.com/t/829019) ![](assets/new.png)  
-- [2022-01-18-问下微服务架构下的参数定义](https://www.v2ex.com/t/829018) ![](assets/new.png)  
-- [2022-01-18-迫于春节独自留在深圳过年，入了个-PS5](https://www.v2ex.com/t/829017) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -567,15 +567,15 @@
 - [2022-01-18-做数据分析已经会Excel了，还要学Python吗？](https://toutiao.io/k/flymy2i) ![](assets/new.png)  
 - [2022-01-18-Python-为什么不设计-do-while-循环结构？](https://toutiao.io/k/46pdicq) ![](assets/new.png)  
 - [2022-01-18-面试指北-|-图解-Flink-的-Checkpoint-机制](https://toutiao.io/k/9984cvk) ![](assets/new.png)  
-- [2022-01-18-一文读懂-CatBoost-算法原理（附代码）](https://toutiao.io/k/au8td5o) ![](assets/new.png)  
 - [2022-01-18-如何通过3个简单步骤成为高级开发人员](https://toutiao.io/k/4id5nok) ![](assets/new.png)  
+- [2022-01-18-一文读懂-CatBoost-算法原理（附代码）](https://toutiao.io/k/au8td5o) ![](assets/new.png)  
 - [2022-01-18-使用jdk动态代理踩到一个神奇的坑](https://toutiao.io/k/hlja94f) ![](assets/new.png)  
 - [2022-01-18-GDB调试-从入门实践到原理](https://toutiao.io/k/ctomvz4) ![](assets/new.png)  
 - [2022-01-18-2021，React、Vue、Svelte、元宇宙领域发生了什么事？](https://toutiao.io/k/68ri6b8) ![](assets/new.png)  
 - [2022-01-18-为任意屏幕尺寸构建-Android-界面](https://toutiao.io/k/ca7sc40) ![](assets/new.png)  
-- [2022-01-18-推荐-从零打造-Instagram](https://toutiao.io/k/hufqvji) ![](assets/new.png)  
-- [2022-01-18-推荐-2022新年伊始，送你百篇干货文章](https://toutiao.io/k/kchudkd) ![](assets/new.png)  
-- [2022-01-18-推荐-网络编程怎么做才算是优雅？](https://toutiao.io/k/zylzzpi) ![](assets/new.png)  
+- [2022-01-18-推荐-京东ClickHouse的实践之路](https://toutiao.io/k/j0r6746) ![](assets/new.png)  
+- [2022-01-18-推荐-再见了-VMware，一款更轻量级的虚拟机！](https://toutiao.io/k/xw2lnva) ![](assets/new.png)  
+- [2022-01-18-推荐-缓存一致性最佳实践](https://toutiao.io/k/ymscqc1) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2022-01-18 13:46:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-01-18 13:54:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-01-18-K8S-Ingress-只是给局域网用可以吗](https://www.v2ex.com/t/829078) 
 - [2022-01-18-test-ipv6.com-是不是被墙了](https://www.v2ex.com/t/829076) 
 - [2022-01-18-微软即将-687-亿收购动视暴雪。。。](https://www.v2ex.com/t/829075) 
 - [2022-01-18-万能的-v2exer，-onedrive-如何单独设置代理](https://www.v2ex.com/t/829074) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-18 13:30:53，:rocket: 更新条数: +1780， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-18 13:40:22，:rocket: 更新条数: +1780， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -566,16 +566,16 @@
 - [2022-01-18-如何通过3个简单步骤成为高级开发人员](https://toutiao.io/k/4id5nok) ![](assets/new.png)  
 - [2022-01-18-面试指北-|-图解-Flink-的-Checkpoint-机制](https://toutiao.io/k/9984cvk) ![](assets/new.png)  
 - [2022-01-18-虎年灯笼逗猫棒流苏宠猫玩具，点击链接立即领券购买！](https://toutiao.io/k/9w6tpgk) ![](assets/new.png)  
-- [2022-01-18-做数据分析已经会Excel了，还要学Python吗？](https://toutiao.io/k/flymy2i) ![](assets/new.png)  
 - [2022-01-18-使用jdk动态代理踩到一个神奇的坑](https://toutiao.io/k/hlja94f) ![](assets/new.png)  
+- [2022-01-18-做数据分析已经会Excel了，还要学Python吗？](https://toutiao.io/k/flymy2i) ![](assets/new.png)  
 - [2022-01-18-Python-为什么不设计-do-while-循环结构？](https://toutiao.io/k/46pdicq) ![](assets/new.png)  
 - [2022-01-18-GDB调试-从入门实践到原理](https://toutiao.io/k/ctomvz4) ![](assets/new.png)  
 - [2022-01-18-一文读懂-CatBoost-算法原理（附代码）](https://toutiao.io/k/au8td5o) ![](assets/new.png)  
 - [2022-01-18-2021，React、Vue、Svelte、元宇宙领域发生了什么事？](https://toutiao.io/k/68ri6b8) ![](assets/new.png)  
 - [2022-01-18-为任意屏幕尺寸构建-Android-界面](https://toutiao.io/k/ca7sc40) ![](assets/new.png)  
-- [2022-01-18-推荐-2022新年伊始，送你百篇干货文章](https://toutiao.io/k/kchudkd) ![](assets/new.png)  
-- [2022-01-18-推荐-再见了-VMware，一款更轻量级的虚拟机！](https://toutiao.io/k/xw2lnva) ![](assets/new.png)  
+- [2022-01-18-推荐-从零打造-Instagram](https://toutiao.io/k/hufqvji) ![](assets/new.png)  
 - [2022-01-18-推荐-从零开始搭建公司微服务授权架构技术栈（3种模式），这架构稳的一批...](https://toutiao.io/k/4g58j8v) ![](assets/new.png)  
+- [2022-01-18-推荐-面渣逆袭：Java并发六十问，图文详解，快来看看你会多少道！](https://toutiao.io/k/4ndh1gd) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

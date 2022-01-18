@@ -8699,6 +8699,16 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "[WIP] 跨平台脚本管理器 MahiruLauncher",
+        "link": "https://www.v2ex.com/t/829094",
+        "date": "2022-01-18"
+      },
+      {
+        "title": "求推荐一款 nuc 或者 笔记本 主要编译 llvm 和 rustc",
+        "link": "https://www.v2ex.com/t/829093",
+        "date": "2022-01-18"
+      },
+      {
         "title": "Go 微服务实战 - 从 0 到 1 搭建一个类 Instagram 应用",
         "link": "https://www.v2ex.com/t/829092",
         "date": "2022-01-18"
@@ -8871,11 +8881,6 @@
       {
         "title": "不用微信的人",
         "link": "https://www.v2ex.com/t/829045",
-        "date": "2022-01-18"
-      },
-      {
-        "title": "如何使用 mac 自己的设置修改 chrome 的快捷键",
-        "link": "https://www.v2ex.com/t/829043",
         "date": "2022-01-18"
       }
     ]
@@ -9078,13 +9083,8 @@
         "date": "2022-01-18"
       },
       {
-        "title": "[推荐] 面渣逆袭：Java并发六十问，图文详解，快来看看你会多少道！",
-        "link": "https://toutiao.io/k/4ndh1gd",
-        "date": "2022-01-18"
-      },
-      {
-        "title": "[推荐] 从零开始搭建公司微服务授权架构技术栈（3种模式），这架构稳的一批...",
-        "link": "https://toutiao.io/k/4g58j8v",
+        "title": "[推荐] JVM调优的几种场景（建议收藏）",
+        "link": "https://toutiao.io/k/0mfx2nd",
         "date": "2022-01-18"
       },
       {
@@ -9093,8 +9093,8 @@
         "date": "2022-01-18"
       },
       {
-        "title": "[推荐] JVM调优的几种场景（建议收藏）",
-        "link": "https://toutiao.io/k/0mfx2nd",
+        "title": "[推荐] 2022新年伊始，送你百篇干货文章",
+        "link": "https://toutiao.io/k/kchudkd",
         "date": "2022-01-18"
       },
       {
@@ -9108,13 +9108,28 @@
         "date": "2022-01-18"
       },
       {
-        "title": "[推荐] 京东ClickHouse的实践之路",
-        "link": "https://toutiao.io/k/j0r6746",
+        "title": "[推荐] 面渣逆袭：Java并发六十问，图文详解，快来看看你会多少道！",
+        "link": "https://toutiao.io/k/4ndh1gd",
+        "date": "2022-01-18"
+      },
+      {
+        "title": "[推荐] 浅谈缓存最终一致性的解决方案",
+        "link": "https://toutiao.io/k/mgym1lv",
+        "date": "2022-01-18"
+      },
+      {
+        "title": "[推荐] 从零开始搭建公司微服务授权架构技术栈（3种模式），这架构稳的一批...",
+        "link": "https://toutiao.io/k/4g58j8v",
         "date": "2022-01-18"
       },
       {
         "title": "[推荐] 从零打造 Instagram",
         "link": "https://toutiao.io/k/hufqvji",
+        "date": "2022-01-18"
+      },
+      {
+        "title": "[推荐] 京东ClickHouse的实践之路",
+        "link": "https://toutiao.io/k/j0r6746",
         "date": "2022-01-18"
       },
       {
@@ -9125,16 +9140,6 @@
       {
         "title": "[推荐] 网络编程怎么做才算是优雅？",
         "link": "https://toutiao.io/k/zylzzpi",
-        "date": "2022-01-18"
-      },
-      {
-        "title": "[推荐] 2022新年伊始，送你百篇干货文章",
-        "link": "https://toutiao.io/k/kchudkd",
-        "date": "2022-01-18"
-      },
-      {
-        "title": "[推荐] 浅谈缓存最终一致性的解决方案",
-        "link": "https://toutiao.io/k/mgym1lv",
         "date": "2022-01-18"
       }
     ]

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-01-18 07:54:38。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-01-18 08:16:34。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -69,7 +69,9 @@
 
 
 - [【武汉肺炎防疫全纪录(财新网)】2022-01-18-1月17日全国新增新冠171例-五省份本土127例](https://m.caixin.com/m/2022-01-18/101831414.html) 
+- [【武汉肺炎防疫全纪录(财新网)】2022-01-18-【境内疫情观察】河南新增102例本土病例（1月17日）](https://database.caixin.com/m/2022-01-18/101831642.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2022-01-18-新德里、孟买新增病例下降-以色列缩短强制隔离期｜大流行手记（1月17日）](https://m.caixin.com/m/2022-01-18/101831511.html) 
+- [【武汉肺炎防疫全纪录(财新网)】2022-01-18-北京海淀百旺茉莉园一期1人核酸阳性-小区封闭管理](https://photos.caixin.com/m/2022-01-18/101831624.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2022-01-18-【图集】浙江宁波北仑区全域低风险-地铁公交恢复运行](https://photos.caixin.com/m/2022-01-18/101831423.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2022-01-17-跨境包裹内部难消杀-国际邮件或存“风险点”](https://companies.caixin.com/m/2022-01-17/101831345.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2022-01-17-国家卫健委：现有疫苗对预防感染奥密克戎仍有一定效果](https://m.caixin.com/m/2022-01-17/101831269.html) 
@@ -187,6 +189,9 @@
 - [【张鑫旭-鑫空间-鑫生活】2022-01-11-还有完没完，怎么又来了个-scrollbar-gutter？](https://www.zhangxinxu.com/wordpress/2022/01/css-scrollbar-gutter/) 
 - [【阮一峰的网络日志】2022-01-14-科技爱好者周刊（第-192-期）：最大的机会来自新技术](http://www.ruanyifeng.com/blog/2022/01/weekly-issue-192.html) 
 - [【阮一峰的网络日志】2022-01-07-科技爱好者周刊（第-191-期）：一个程序员的财务独立之路](http://www.ruanyifeng.com/blog/2022/01/weekly-issue-191.html) 
+- [【V2EX】2022-01-18-问下微服务架构下的参数定义](https://www.v2ex.com/t/829018) 
+- [【V2EX】2022-01-18-迫于春节独自留在深圳过年，入了个-PS5](https://www.v2ex.com/t/829017) 
+- [【V2EX】2022-01-18-跪求一份-PPT-关于-跨境在线交易](https://www.v2ex.com/t/829015) 
 - [【V2EX】2022-01-18-Windows-锁屏下，怎么通过-Python-截图运行桌面](https://www.v2ex.com/t/829012) 
 - [【V2EX】2022-01-18-区块链就是:-手上拿着锤子，看啥都想锤两下?-除了发币到底还能解决什么问题?](https://www.v2ex.com/t/829011) 
 - [【V2EX】2022-01-18-写了一份前端-Linter-的总结教程](https://www.v2ex.com/t/829010) 
@@ -223,9 +228,6 @@
 - [【V2EX】2022-01-18-通过任意照片指出真实的地点，非人工智能](https://www.v2ex.com/t/828972) 
 - [【V2EX】2022-01-18-网卡-Realtek-8153-的版本差异？](https://www.v2ex.com/t/828971) 
 - [【V2EX】2022-01-18-如何预测-2022-年春运铁路发送总客流？](https://www.v2ex.com/t/828970) 
-- [【V2EX】2022-01-18-实现一个-Web3-版本的微信朋友圈，你会考虑哪些技术问题？](https://www.v2ex.com/t/828968) 
-- [【V2EX】2022-01-18-每年一问，大家过年放几天假，回家待几天，有啥安排？](https://www.v2ex.com/t/828966) 
-- [【V2EX】2022-01-18-快要放春节了，有利用春节假期请几天育儿假的人吗？](https://www.v2ex.com/t/828965) 
 - [【技术头条】2022-01-18-软件工程师应该如何吵架？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14905&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fsoftware-engineer-quarrel-culture%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-01-18-Python之禅：编写优雅Python代码的16个原则-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14904&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493176%26amp%3Bidx%3D1%26amp%3Bsn%3Df2d627b156b058851c889b4445e11ec1%26amp%3Bchksm%3Dfa3f0763cd488e75569fb239eac349981802ba866826795ead0d9b7546d81579eed97e34bb65%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-01-18-公司这套架构统一处理try...catch，很牛逼！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14903&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493176%26amp%3Bidx%3D2%26amp%3Bsn%3D98ffd0ca1663318ac2b071210d422ade%26amp%3Bchksm%3Dfa3f0763cd488e75d3f771749cf8c542bc4a956a70c6a9b5d081ba654d919b72207bee03e9a5%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -246,8 +248,8 @@
 - [【技术头条】2022-01-18-一位10年Google工程师给技术人的建议-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14888&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247492913%26amp%3Bidx%3D1%26amp%3Bsn%3Dac389822c4e6f5899bf51ab9abd8aa3b%26amp%3Bchksm%3Dfa3f046acd488d7cbcc06db3b901854c31fcb2e4a724a20be7c60e969c8d4ad9796a077e703d%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-01-18-Vue开发移动端项目，这个工具对你一定有帮助-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14887&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247492913%26amp%3Bidx%3D2%26amp%3Bsn%3D925a00629c2130296cfc8227eddec078%26amp%3Bchksm%3Dfa3f046acd488d7cf66e591ea5dbbf890d12924a8b69610d80dd8130e00b20dde4b73211c64b%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-01-18-Ghost-in-the-Log4Shell-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14886&url=https%3A%2F%2Finsights.thoughtworks.cn%2Flog4j-log4shell%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
-- [【开发者头条】2022-01-18-Spring-Kafka的bug导致超时问题](https://toutiao.io/k/eq9tsj2) 
 - [【开发者头条】2022-01-18-如何使用-Prometheus-和-Grafana-优雅的实现服务器可视化](https://toutiao.io/k/ypeezzt) 
+- [【开发者头条】2022-01-18-Spring-Kafka的bug导致超时问题](https://toutiao.io/k/eq9tsj2) 
 - [【开发者头条】2022-01-18-新一代消息队列-Pulsar](https://toutiao.io/k/k4n6m77) 
 - [【开发者头条】2022-01-18-前端领域的-“干净架构”](https://toutiao.io/k/aazavob) 
 - [【开发者头条】2022-01-18-抖音生猛，张小龙以退为进；30天JS编程挑战；解读Go语言的2021——码农周刊VIP会员专属邮件周报-Vol.077](https://toutiao.io/k/bu7r4pt) 
@@ -263,19 +265,19 @@
 - [【开发者头条】2022-01-18-eBPF，好高端，好神奇](https://toutiao.io/k/j2wbj2q) 
 - [【开发者头条】2022-01-18-GDB调试-从入门实践到原理](https://toutiao.io/k/ctomvz4) 
 - [【开发者头条】2022-01-18-案例：来自Uber的Go语言GC优化实践](https://toutiao.io/k/06wh0si) 
-- [【开发者头条】2022-01-18-为任意屏幕尺寸构建-Android-界面](https://toutiao.io/k/ca7sc40) 
 - [【开发者头条】2022-01-18-2021，React、Vue、Svelte、元宇宙领域发生了什么事？](https://toutiao.io/k/68ri6b8) 
-- [【开发者头条】2022-01-18-推荐-再见了-VMware，一款更轻量级的虚拟机！](https://toutiao.io/k/xw2lnva) 
-- [【开发者头条】2022-01-18-推荐-从零打造-Instagram](https://toutiao.io/k/hufqvji) 
-- [【开发者头条】2022-01-18-推荐-从零开始搭建公司微服务授权架构技术栈（3种模式），这架构稳的一批...](https://toutiao.io/k/4g58j8v) 
-- [【开发者头条】2022-01-18-推荐-京东ClickHouse的实践之路](https://toutiao.io/k/j0r6746) 
+- [【开发者头条】2022-01-18-为任意屏幕尺寸构建-Android-界面](https://toutiao.io/k/ca7sc40) 
+- [【开发者头条】2022-01-18-推荐-2022新年伊始，送你百篇干货文章](https://toutiao.io/k/kchudkd) 
 - [【开发者头条】2022-01-18-推荐-缓存一致性最佳实践](https://toutiao.io/k/ymscqc1) 
 - [【开发者头条】2022-01-18-推荐-服务探活的五种方式](https://toutiao.io/k/1wuwmui) 
-- [【开发者头条】2022-01-18-推荐-网络编程怎么做才算是优雅？](https://toutiao.io/k/zylzzpi) 
-- [【开发者头条】2022-01-18-推荐-2022新年伊始，送你百篇干货文章](https://toutiao.io/k/kchudkd) 
-- [【开发者头条】2022-01-18-推荐-浅谈缓存最终一致性的解决方案](https://toutiao.io/k/mgym1lv) 
 - [【开发者头条】2022-01-18-推荐-用规则引擎让你一天上线十个需求](https://toutiao.io/k/ldd1cse) 
+- [【开发者头条】2022-01-18-推荐-从零开始搭建公司微服务授权架构技术栈（3种模式），这架构稳的一批...](https://toutiao.io/k/4g58j8v) 
+- [【开发者头条】2022-01-18-推荐-再见了-VMware，一款更轻量级的虚拟机！](https://toutiao.io/k/xw2lnva) 
+- [【开发者头条】2022-01-18-推荐-浅谈缓存最终一致性的解决方案](https://toutiao.io/k/mgym1lv) 
+- [【开发者头条】2022-01-18-推荐-从零打造-Instagram](https://toutiao.io/k/hufqvji) 
+- [【开发者头条】2022-01-18-推荐-网络编程怎么做才算是优雅？](https://toutiao.io/k/zylzzpi) 
 - [【开发者头条】2022-01-18-推荐-JVM调优的几种场景（建议收藏）](https://toutiao.io/k/0mfx2nd) 
+- [【开发者头条】2022-01-18-推荐-京东ClickHouse的实践之路](https://toutiao.io/k/j0r6746) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

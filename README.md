@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-18 10:26:48，:rocket: 更新条数: +1776， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-18 10:43:48，:rocket: 更新条数: +1777， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -66,6 +66,7 @@
 
 
 - [2022-01-18-最新疫情：全国新冠累计确诊105258例-累计接种新冠疫苗超29.42亿剂次](https://m.caixin.com/m/2022-01-18/101831665.html) ![](assets/new.png)  
+- [2022-01-18-奥密克戎、德尔塔夹击-北京加强进京核酸检查](https://m.caixin.com/m/2022-01-18/101831795.html) ![](assets/new.png)  
 - [2022-01-18-北京第四例新冠感染者现朝阳区，距前三例20余公里](https://m.caixin.com/m/2022-01-18/101831653.html) ![](assets/new.png)  
 - [2022-01-18-最新海外疫情：新冠感染超3.3亿-累计接种新冠疫苗超96.55亿剂次](https://m.caixin.com/m/2022-01-18/101831669.html) ![](assets/new.png)  
 - [2022-01-18-【境内疫情观察】河南新增102例本土病例（1月17日）](https://database.caixin.com/m/2022-01-18/101831642.html) ![](assets/new.png)  
@@ -73,18 +74,17 @@
 - [2022-01-18-北京海淀百旺茉莉园一期1人核酸阳性-小区封闭管理](https://photos.caixin.com/m/2022-01-18/101831624.html) ![](assets/new.png)  
 - [2022-01-18-【图集】浙江宁波北仑区全域低风险-地铁公交恢复运行](https://photos.caixin.com/m/2022-01-18/101831423.html) ![](assets/new.png)  
 - [2022-01-17-跨境包裹内部难消杀-国际邮件或存“风险点”](https://companies.caixin.com/m/2022-01-17/101831345.html) ![](assets/new.png)  
-- [2022-01-17-国家卫健委：现有疫苗对预防感染奥密克戎仍有一定效果](https://m.caixin.com/m/2022-01-17/101831269.html) ![](assets/new.png)  
 - [2022-01-17-广东多起疫情源头疑似境外物品暴露感染-邮政监管部门要求加强国际邮件消杀](https://m.caixin.com/m/2022-01-17/101831330.html) ![](assets/new.png)  
 - [2022-01-17-北京确诊病例处于感染早期-所收国际邮件标本阳性](https://m.caixin.com/m/2022-01-17/101831061.html) ![](assets/new.png)  
 - [2022-01-17-【境内疫情观察】全国新增163例本土病例（1月16日）](https://database.caixin.com/m/2022-01-17/101831120.html) ![](assets/new.png)  
 - [2022-01-17-英国病例数下降-欧洲未接种疫苗人群正“退出社会”｜大流行手记（1月16日）](https://m.caixin.com/m/2022-01-17/101830909.html) ![](assets/new.png)  
+- [2022-01-17-国家卫健委：现有疫苗对预防感染奥密克戎仍有一定效果](https://m.caixin.com/m/2022-01-17/101831269.html) ![](assets/new.png)  
 - [2022-01-17-国际邮件检出奥密克戎-如何看待新冠病毒“物传人”](https://science.caixin.com/m/2022-01-17/101831238.html) ![](assets/new.png)  
 - [2022-01-17-【图集】上海市民双休日积极防疫-排长队接种新冠疫苗](https://photos.caixin.com/m/2022-01-17/101831096.html) ![](assets/new.png)  
 - [2022-01-16-深圳新增一名奥密克戎病例-轨迹所涉妇幼保健院停诊](https://m.caixin.com/m/2022-01-16/101830873.html) ![](assets/new.png)  
 - [2022-01-16-【境内疫情观察】全国新增65例本土病例（1月15日）](https://database.caixin.com/m/2022-01-16/101830807.html) ![](assets/new.png)  
 - [2022-01-16-COVAX疫苗因保质期短遭拒，东南亚疫情恶化｜大流行手记（1月15日）](https://m.caixin.com/m/2022-01-16/101830788.html) ![](assets/new.png)  
 - [2022-01-15-最新封面报道之二｜检阅新冠救治防线](https://weekly.caixin.com/m/2022-01-15/101830435.html) ![](assets/new.png)  
-- [2022-01-15-最新封面报道之三｜全球面对现实](https://weekly.caixin.com/m/2022-01-15/101830437.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -568,14 +568,14 @@
 - [2022-01-18-做数据分析已经会Excel了，还要学Python吗？](https://toutiao.io/k/flymy2i) ![](assets/new.png)  
 - [2022-01-18-Python-为什么不设计-do-while-循环结构？](https://toutiao.io/k/46pdicq) ![](assets/new.png)  
 - [2022-01-18-如何通过3个简单步骤成为高级开发人员](https://toutiao.io/k/4id5nok) ![](assets/new.png)  
-- [2022-01-18-一文读懂-CatBoost-算法原理（附代码）](https://toutiao.io/k/au8td5o) ![](assets/new.png)  
 - [2022-01-18-使用jdk动态代理踩到一个神奇的坑](https://toutiao.io/k/hlja94f) ![](assets/new.png)  
+- [2022-01-18-一文读懂-CatBoost-算法原理（附代码）](https://toutiao.io/k/au8td5o) ![](assets/new.png)  
 - [2022-01-18-GDB调试-从入门实践到原理](https://toutiao.io/k/ctomvz4) ![](assets/new.png)  
 - [2022-01-18-2021，React、Vue、Svelte、元宇宙领域发生了什么事？](https://toutiao.io/k/68ri6b8) ![](assets/new.png)  
 - [2022-01-18-为任意屏幕尺寸构建-Android-界面](https://toutiao.io/k/ca7sc40) ![](assets/new.png)  
-- [2022-01-18-推荐-JVM调优的几种场景（建议收藏）](https://toutiao.io/k/0mfx2nd) ![](assets/new.png)  
+- [2022-01-18-推荐-再见了-VMware，一款更轻量级的虚拟机！](https://toutiao.io/k/xw2lnva) ![](assets/new.png)  
 - [2022-01-18-推荐-用规则引擎让你一天上线十个需求](https://toutiao.io/k/ldd1cse) ![](assets/new.png)  
-- [2022-01-18-推荐-2022新年伊始，送你百篇干货文章](https://toutiao.io/k/kchudkd) ![](assets/new.png)  
+- [2022-01-18-推荐-京东ClickHouse的实践之路](https://toutiao.io/k/j0r6746) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

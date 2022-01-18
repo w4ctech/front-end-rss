@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-18 02:06:47，:rocket: 更新条数: +1766， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-18 02:19:38，:rocket: 更新条数: +1770， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -74,6 +74,7 @@
 - [2022-01-17-北京确诊病例处于感染早期-所收国际邮件标本阳性](https://m.caixin.com/m/2022-01-17/101831061.html) ![](assets/new.png)  
 - [2022-01-17-【境内疫情观察】全国新增163例本土病例（1月16日）](https://database.caixin.com/m/2022-01-17/101831120.html) ![](assets/new.png)  
 - [2022-01-17-英国病例数下降-欧洲未接种疫苗人群正“退出社会”｜大流行手记（1月16日）](https://m.caixin.com/m/2022-01-17/101830909.html) ![](assets/new.png)  
+- [2022-01-17-【图集】上海市民双休日积极防疫-排长队接种新冠疫苗](https://photos.caixin.com/m/2022-01-17/101831096.html) ![](assets/new.png)  
 - [2022-01-16-深圳新增一名奥密克戎病例-轨迹所涉妇幼保健院停诊](https://m.caixin.com/m/2022-01-16/101830873.html) ![](assets/new.png)  
 - [2022-01-16-【境内疫情观察】全国新增65例本土病例（1月15日）](https://database.caixin.com/m/2022-01-16/101830807.html) ![](assets/new.png)  
 - [2022-01-16-COVAX疫苗因保质期短遭拒，东南亚疫情恶化｜大流行手记（1月15日）](https://m.caixin.com/m/2022-01-16/101830788.html) ![](assets/new.png)  
@@ -84,7 +85,6 @@
 - [2022-01-15-珠海报告7例奥密克戎感染者-广东现多点疫情](https://m.caixin.com/m/2022-01-15/101830468.html) ![](assets/new.png)  
 - [2022-01-15-北京新增1例本土新冠确诊为奥密克戎-轨迹公布](https://china.caixin.com/m/2022-01-15/101830645.html) ![](assets/new.png)  
 - [2022-01-15-【境内疫情观察】全国新增104例本土病例（1月14日）](https://database.caixin.com/m/2022-01-15/101830669.html) ![](assets/new.png)  
-- [2022-01-15-Omicron在意大利已占主导地位-南非研究显示其毒力更弱｜大流行手记（1月14日）](https://m.caixin.com/m/2022-01-15/101830527.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -494,6 +494,11 @@
 </summary>
 
 
+- [2022-01-18-请教一个电信光猫重启的问题](https://www.v2ex.com/t/828919) ![](assets/new.png)  
+- [2022-01-18-微信在-m1-上视频通话，会横竖屏反复跳动是什么原因呢？](https://www.v2ex.com/t/828918) ![](assets/new.png)  
+- [2022-01-18-除浏览器插件外，有没有获取-chrome-书签的-API-或方案](https://www.v2ex.com/t/828916) ![](assets/new.png)  
+- [2022-01-18-M1Pro-14-寸，同时连接-typeC-显示器+磁吸充电，是否有烧主板的可能？或者其他问题？](https://www.v2ex.com/t/828915) ![](assets/new.png)  
+- [2022-01-18-移动-ipv6-貌似没封某知名视频网站的视频-CDN](https://www.v2ex.com/t/828914) ![](assets/new.png)  
 - [2022-01-18-有没有大神可以注册-gv-号的？](https://www.v2ex.com/t/828911) ![](assets/new.png)  
 - [2022-01-18-谁能帮我注册成功苹果开发者账号，我付-200-元](https://www.v2ex.com/t/828910) ![](assets/new.png)  
 - [2022-01-18-Chrome-插件：摸鱼倒计时、每日摸鱼时间统计，奋斗逼、卷王必备，用于减少摸鱼时间和频率](https://www.v2ex.com/t/828909) ![](assets/new.png)  
@@ -509,11 +514,6 @@
 - [2022-01-18-Firefox-看-b-站视频有点问题](https://www.v2ex.com/t/828895) ![](assets/new.png)  
 - [2022-01-18-想玩点主机游戏，求推荐。](https://www.v2ex.com/t/828894) ![](assets/new.png)  
 - [2022-01-17-为什么-google-art-没有山水画，看到有很多日本的画作，但是中国的一个都没有，算不算歧视？](https://www.v2ex.com/t/828893) ![](assets/new.png)  
-- [2022-01-17-Safari-15-标签页组令人无法忍受的-Bug](https://www.v2ex.com/t/828892) ![](assets/new.png)  
-- [2022-01-17-虹桥路站（3/4/10-号线）附近三居室，找两位室友](https://www.v2ex.com/t/828891) ![](assets/new.png)  
-- [2022-01-17-MacBook-Pro-24-小时连续下文件到移动硬盘会影响电脑寿命吗？](https://www.v2ex.com/t/828890) ![](assets/new.png)  
-- [2022-01-17-Signal-的-E2EE-真的安全吗？为什么一个端到端加密的聊天软件-iOS-客户端即使关闭后台刷新，推送也能显示消息内容？](https://www.v2ex.com/t/828889) ![](assets/new.png)  
-- [2022-01-17-求教大佬，微信小程序里没资质，怎么播放视频？](https://www.v2ex.com/t/828888) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -568,14 +568,14 @@
 - [2022-01-18-分库分表实战之一叶知秋：图览分库分表外卖订单项目](https://toutiao.io/k/7vbu926) ![](assets/new.png)  
 - [2022-01-18-面试指北-|-图解-Flink-的-Checkpoint-机制](https://toutiao.io/k/9984cvk) ![](assets/new.png)  
 - [2022-01-18-一文读懂-CatBoost-算法原理（附代码）](https://toutiao.io/k/au8td5o) ![](assets/new.png)  
-- [2022-01-18-推荐-京东ClickHouse的实践之路](https://toutiao.io/k/j0r6746) ![](assets/new.png)  
-- [2022-01-18-推荐-缓存一致性最佳实践](https://toutiao.io/k/ymscqc1) ![](assets/new.png)  
-- [2022-01-18-推荐-从零打造-Instagram](https://toutiao.io/k/hufqvji) ![](assets/new.png)  
-- [2022-01-18-推荐-用规则引擎让你一天上线十个需求](https://toutiao.io/k/ldd1cse) ![](assets/new.png)  
-- [2022-01-18-推荐-服务探活的五种方式](https://toutiao.io/k/1wuwmui) ![](assets/new.png)  
 - [2022-01-18-推荐-JVM调优的几种场景（建议收藏）](https://toutiao.io/k/0mfx2nd) ![](assets/new.png)  
-- [2022-01-18-推荐-网络编程怎么做才算是优雅？](https://toutiao.io/k/zylzzpi) ![](assets/new.png)  
 - [2022-01-18-推荐-再见了-VMware，一款更轻量级的虚拟机！](https://toutiao.io/k/xw2lnva) ![](assets/new.png)  
+- [2022-01-18-推荐-2022新年伊始，送你百篇干货文章](https://toutiao.io/k/kchudkd) ![](assets/new.png)  
+- [2022-01-18-推荐-从零打造-Instagram](https://toutiao.io/k/hufqvji) ![](assets/new.png)  
+- [2022-01-18-推荐-服务探活的五种方式](https://toutiao.io/k/1wuwmui) ![](assets/new.png)  
+- [2022-01-18-推荐-缓存一致性最佳实践](https://toutiao.io/k/ymscqc1) ![](assets/new.png)  
+- [2022-01-18-推荐-浅谈缓存最终一致性的解决方案](https://toutiao.io/k/mgym1lv) ![](assets/new.png)  
+- [2022-01-18-推荐-京东ClickHouse的实践之路](https://toutiao.io/k/j0r6746) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

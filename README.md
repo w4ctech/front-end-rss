@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-18 03:15:20，:rocket: 更新条数: +1771， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-18 03:27:40，:rocket: 更新条数: +1772， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,7 +494,12 @@
 </summary>
 
 
+- [2022-01-18-谁有使用过-JXTA-2-的经验吗](https://www.v2ex.com/t/828950) ![](assets/new.png)  
+- [2022-01-18-谈一下求职意向](https://www.v2ex.com/t/828949) ![](assets/new.png)  
+- [2022-01-18-女生要怎么做职业规划？](https://www.v2ex.com/t/828948) ![](assets/new.png)  
+- [2022-01-18-没有外网的服务器，如何进行现代前端开发npm/yarn](https://www.v2ex.com/t/828947) ![](assets/new.png)  
 - [2022-01-18-买了没多久的-macbook-air-m1-一晚上待机电掉完了，正常吗？](https://www.v2ex.com/t/828945) ![](assets/new.png)  
+- [2022-01-18-售卖抢-HPV-疫苗脚本被抓](https://www.v2ex.com/t/828944) ![](assets/new.png)  
 - [2022-01-18-enpass-和-1password-各位大佬们用的是那个？](https://www.v2ex.com/t/828943) ![](assets/new.png)  
 - [2022-01-18-请教大佬:-关于印尼盾程序如何处理](https://www.v2ex.com/t/828942) ![](assets/new.png)  
 - [2022-01-18-smart-doc-2.3.7-发布，支持-JAX-RS-规范实现框架的-API-文档生成](https://www.v2ex.com/t/828940) ![](assets/new.png)  
@@ -509,11 +514,6 @@
 - [2022-01-18-不知不觉默默登录-1000-天](https://www.v2ex.com/t/828928) ![](assets/new.png)  
 - [2022-01-18-新款-MacBookPro2021-16-寸屏幕品控太差了](https://www.v2ex.com/t/828927) ![](assets/new.png)  
 - [2022-01-18-量化上海-Senior-data-scientist-公司背景：-Is-a-proprietary-trading-firm-and-leading-global-market-maker](https://www.v2ex.com/t/828926) ![](assets/new.png)  
-- [2022-01-18-在办公区域吸烟的人真的是没法劝了吗？](https://www.v2ex.com/t/828925) ![](assets/new.png)  
-- [2022-01-18-ios-的股市可以修改货币单位吗](https://www.v2ex.com/t/828924) ![](assets/new.png)  
-- [2022-01-18-请教各位大佬合同的问题](https://www.v2ex.com/t/828923) ![](assets/new.png)  
-- [2022-01-18-申请了春节留杭补贴](https://www.v2ex.com/t/828922) ![](assets/new.png)  
-- [2022-01-18-七牛、Github-图床谷歌插件，支持一键粘贴-Markdown-链接到-Github-编辑器](https://www.v2ex.com/t/828921) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -568,14 +568,14 @@
 - [2022-01-18-分库分表实战之一叶知秋：图览分库分表外卖订单项目](https://toutiao.io/k/7vbu926) ![](assets/new.png)  
 - [2022-01-18-一文读懂-CatBoost-算法原理（附代码）](https://toutiao.io/k/au8td5o) ![](assets/new.png)  
 - [2022-01-18-面试指北-|-图解-Flink-的-Checkpoint-机制](https://toutiao.io/k/9984cvk) ![](assets/new.png)  
-- [2022-01-18-推荐-从零开始搭建公司微服务授权架构技术栈（3种模式），这架构稳的一批...](https://toutiao.io/k/4g58j8v) ![](assets/new.png)  
-- [2022-01-18-推荐-缓存一致性最佳实践](https://toutiao.io/k/ymscqc1) ![](assets/new.png)  
 - [2022-01-18-推荐-从零打造-Instagram](https://toutiao.io/k/hufqvji) ![](assets/new.png)  
-- [2022-01-18-推荐-京东ClickHouse的实践之路](https://toutiao.io/k/j0r6746) ![](assets/new.png)  
-- [2022-01-18-推荐-用规则引擎让你一天上线十个需求](https://toutiao.io/k/ldd1cse) ![](assets/new.png)  
-- [2022-01-18-推荐-网络编程怎么做才算是优雅？](https://toutiao.io/k/zylzzpi) ![](assets/new.png)  
 - [2022-01-18-推荐-再见了-VMware，一款更轻量级的虚拟机！](https://toutiao.io/k/xw2lnva) ![](assets/new.png)  
+- [2022-01-18-推荐-浅谈缓存最终一致性的解决方案](https://toutiao.io/k/mgym1lv) ![](assets/new.png)  
 - [2022-01-18-推荐-2022新年伊始，送你百篇干货文章](https://toutiao.io/k/kchudkd) ![](assets/new.png)  
+- [2022-01-18-推荐-服务探活的五种方式](https://toutiao.io/k/1wuwmui) ![](assets/new.png)  
+- [2022-01-18-推荐-京东ClickHouse的实践之路](https://toutiao.io/k/j0r6746) ![](assets/new.png)  
+- [2022-01-18-推荐-缓存一致性最佳实践](https://toutiao.io/k/ymscqc1) ![](assets/new.png)  
+- [2022-01-18-推荐-网络编程怎么做才算是优雅？](https://toutiao.io/k/zylzzpi) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-18 05:14:52，:rocket: 更新条数: +1771， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-18 05:33:22，:rocket: 更新条数: +1772， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -66,6 +66,7 @@
 
 
 - [2022-01-18-1月17日全国新增新冠171例-五省份本土127例](https://m.caixin.com/m/2022-01-18/101831414.html) ![](assets/new.png)  
+- [2022-01-18-新德里、孟买新增病例下降-以色列缩短强制隔离期｜大流行手记（1月17日）](https://m.caixin.com/m/2022-01-18/101831511.html) ![](assets/new.png)  
 - [2022-01-18-【图集】浙江宁波北仑区全域低风险-地铁公交恢复运行](https://photos.caixin.com/m/2022-01-18/101831423.html) ![](assets/new.png)  
 - [2022-01-17-跨境包裹内部难消杀-国际邮件或存“风险点”](https://companies.caixin.com/m/2022-01-17/101831345.html) ![](assets/new.png)  
 - [2022-01-17-国家卫健委：现有疫苗对预防感染奥密克戎仍有一定效果](https://m.caixin.com/m/2022-01-17/101831269.html) ![](assets/new.png)  
@@ -84,7 +85,6 @@
 - [2022-01-15-最新封面报道之四｜奥密克戎有何不同](https://weekly.caixin.com/m/2022-01-15/101830439.html) ![](assets/new.png)  
 - [2022-01-15-北京确诊一例奥密克戎，病例居住小区封闭](https://m.caixin.com/m/2022-01-15/101830730.html) ![](assets/new.png)  
 - [2022-01-15-珠海报告7例奥密克戎感染者-广东现多点疫情](https://m.caixin.com/m/2022-01-15/101830468.html) ![](assets/new.png)  
-- [2022-01-15-北京新增1例本土新冠确诊为奥密克戎-轨迹公布](https://china.caixin.com/m/2022-01-15/101830645.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -494,6 +494,9 @@
 </summary>
 
 
+- [2022-01-18-M1-Pro-MacBook-外接淘宝上的一线连便携屏能自动开启-Hidpi-吗？](https://www.v2ex.com/t/828981) ![](assets/new.png)  
+- [2022-01-18-北京联通更换千兆套餐后-IPv6-前缀长度由-60-变为-64](https://www.v2ex.com/t/828980) ![](assets/new.png)  
+- [2022-01-18-aws-s3-用户上传的文件，如何只允许用户访问](https://www.v2ex.com/t/828979) ![](assets/new.png)  
 - [2022-01-18-还有-10+天就要春节了，大家要回老家过年么？](https://www.v2ex.com/t/828978) ![](assets/new.png)  
 - [2022-01-18-Safari-漏洞或导致浏览历史、Google-账户资讯外泄](https://www.v2ex.com/t/828977) ![](assets/new.png)  
 - [2022-01-18-有没有抗投诉的服务器推荐](https://www.v2ex.com/t/828976) ![](assets/new.png)  
@@ -511,9 +514,6 @@
 - [2022-01-18-最近在外网，无论是-Moonlight-串流电脑还是-PS4-的串流都会很快自动断开](https://www.v2ex.com/t/828961) ![](assets/new.png)  
 - [2022-01-18-北京转租一主卧带阳台，位置在朝阳区八里庄](https://www.v2ex.com/t/828959) ![](assets/new.png)  
 - [2022-01-18-迫于年终奖！求点技术岗位年终总结模版](https://www.v2ex.com/t/828958) ![](assets/new.png)  
-- [2022-01-18-Chrome-有给网页打标记的插件吗](https://www.v2ex.com/t/828957) ![](assets/new.png)  
-- [2022-01-18-大家是如果看待普通国企?没有垄断业务](https://www.v2ex.com/t/828956) ![](assets/new.png)  
-- [2022-01-18-求推荐备用安卓手机](https://www.v2ex.com/t/828954) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -568,14 +568,14 @@
 - [2022-01-18-分库分表实战之一叶知秋：图览分库分表外卖订单项目](https://toutiao.io/k/7vbu926) ![](assets/new.png)  
 - [2022-01-18-面试指北-|-图解-Flink-的-Checkpoint-机制](https://toutiao.io/k/9984cvk) ![](assets/new.png)  
 - [2022-01-18-一文读懂-CatBoost-算法原理（附代码）](https://toutiao.io/k/au8td5o) ![](assets/new.png)  
-- [2022-01-18-推荐-京东ClickHouse的实践之路](https://toutiao.io/k/j0r6746) ![](assets/new.png)  
-- [2022-01-18-推荐-浅谈缓存最终一致性的解决方案](https://toutiao.io/k/mgym1lv) ![](assets/new.png)  
-- [2022-01-18-推荐-JVM调优的几种场景（建议收藏）](https://toutiao.io/k/0mfx2nd) ![](assets/new.png)  
-- [2022-01-18-推荐-网络编程怎么做才算是优雅？](https://toutiao.io/k/zylzzpi) ![](assets/new.png)  
-- [2022-01-18-推荐-2022新年伊始，送你百篇干货文章](https://toutiao.io/k/kchudkd) ![](assets/new.png)  
-- [2022-01-18-推荐-从零开始搭建公司微服务授权架构技术栈（3种模式），这架构稳的一批...](https://toutiao.io/k/4g58j8v) ![](assets/new.png)  
-- [2022-01-18-推荐-用规则引擎让你一天上线十个需求](https://toutiao.io/k/ldd1cse) ![](assets/new.png)  
 - [2022-01-18-推荐-缓存一致性最佳实践](https://toutiao.io/k/ymscqc1) ![](assets/new.png)  
+- [2022-01-18-推荐-用规则引擎让你一天上线十个需求](https://toutiao.io/k/ldd1cse) ![](assets/new.png)  
+- [2022-01-18-推荐-再见了-VMware，一款更轻量级的虚拟机！](https://toutiao.io/k/xw2lnva) ![](assets/new.png)  
+- [2022-01-18-推荐-从零开始搭建公司微服务授权架构技术栈（3种模式），这架构稳的一批...](https://toutiao.io/k/4g58j8v) ![](assets/new.png)  
+- [2022-01-18-推荐-浅谈缓存最终一致性的解决方案](https://toutiao.io/k/mgym1lv) ![](assets/new.png)  
+- [2022-01-18-推荐-服务探活的五种方式](https://toutiao.io/k/1wuwmui) ![](assets/new.png)  
+- [2022-01-18-推荐-网络编程怎么做才算是优雅？](https://toutiao.io/k/zylzzpi) ![](assets/new.png)  
+- [2022-01-18-推荐-从零打造-Instagram](https://toutiao.io/k/hufqvji) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

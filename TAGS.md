@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-01-18 15:49:13。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-01-18 16:19:23。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -39,7 +39,6 @@
 
 
 
-- [【开发者头条】2021，React、Vue、Svelte、元宇宙领域发生了什么事？](https://toutiao.io/k/68ri6b8)
 - [......【查看更多】......](./details/tags/react.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -90,7 +89,6 @@
 
 
 - [【武汉肺炎防疫全纪录(财新网)】韩国拟升级首尔疫情管控-法国专业机构建议强制接种疫苗｜大流行手记（7月10日）](https://m.caixin.com/m/2021-07-11/101738786.html)
-- [【开发者头条】为任意屏幕尺寸构建-Android-界面](https://toutiao.io/k/ca7sc40)
 - [......【查看更多】......](./details/tags/pack-build.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -188,7 +186,6 @@
 - [【V2EX】OpenWrt-路由器无法访问-Google](https://www.v2ex.com/t/829072)
 - [【V2EX】Fetch-import，优雅的从网络中导入-Python-文件](https://www.v2ex.com/t/829056)
 - [【技术头条】公司这套架构统一处理try...catch，很牛逼！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14903&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493176%26amp%3Bidx%3D2%26amp%3Bsn%3D98ffd0ca1663318ac2b071210d422ade%26amp%3Bchksm%3Dfa3f0763cd488e75d3f771749cf8c542bc4a956a70c6a9b5d081ba654d919b72207bee03e9a5%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
-- [【开发者头条】抖音生猛，张小龙以退为进；30天JS编程挑战；解读Go语言的2021——码农周刊VIP会员专属邮件周报-Vol.077](https://toutiao.io/k/bu7r4pt)
 - [......【查看更多】......](./details/tags/javascript.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -285,9 +282,8 @@
 - [【V2EX】在一个网站开启了控制台,-跳过调试后,-我的浏览记录被塞了-N-条记录](https://www.v2ex.com/t/829052)
 - [【技术头条】API面试四连杀：接口如何设计？安全如何保证？签名如何实现？防重如何实现？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14901&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493135%26amp%3Bidx%3D2%26amp%3Bsn%3D4569a4965be1a6e8b85369edd7fc91dc%26amp%3Bchksm%3Dfa3f0754cd488e427c9670d6aa67e0693725ee332f26e011767ba85562bd6bb08a65cc8aaaba%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【技术头条】一文读懂浏览器存储与缓存机制-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=14896&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F422666602%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
-- [【开发者头条】GDB调试-从入门实践到原理](https://toutiao.io/k/ctomvz4)
-- [【开发者头条】推荐-缓存一致性最佳实践](https://toutiao.io/k/ymscqc1)
 - [【开发者头条】推荐-浅谈缓存最终一致性的解决方案](https://toutiao.io/k/mgym1lv)
+- [【开发者头条】推荐-缓存一致性最佳实践](https://toutiao.io/k/ymscqc1)
 - [......【查看更多】......](./details/tags/browser.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -305,7 +301,6 @@
 
 
 - [【V2EX】求问-aiohttp-和-requests-库，产生的预期不一致。](https://www.v2ex.com/t/829064)
-- [【开发者头条】一文读懂-CatBoost-算法原理（附代码）](https://toutiao.io/k/au8td5o)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -357,7 +352,6 @@
 
 
 - [【V2EX】长期招聘-UI-网站设计师--30-美元一小时，可远程工作。](https://www.v2ex.com/t/829050)
-- [【开发者头条】面试指北-|-图解-Flink-的-Checkpoint-机制](https://toutiao.io/k/9984cvk)
 - [......【查看更多】......](./details/tags/job-interview.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

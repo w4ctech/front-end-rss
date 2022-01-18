@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-18 12:20:30，:rocket: 更新条数: +1780， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-18 12:37:01，:rocket: 更新条数: +1780， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,7 @@
 </summary>
 
 
+- [2022-01-18-测试用手机，一直插着-USB，怎么能防止/延缓锂电池鼓包，各位大佬有什么方法不？](https://www.v2ex.com/t/829068) ![](assets/new.png)  
 - [2022-01-18-求教一条-Python-中使用的-sql-语句](https://www.v2ex.com/t/829067) ![](assets/new.png)  
 - [2022-01-18-前后端矛盾，大家都怎样处理的？](https://www.v2ex.com/t/829065) ![](assets/new.png)  
 - [2022-01-18-求问-aiohttp-和-requests-库，产生的预期不一致。](https://www.v2ex.com/t/829064) ![](assets/new.png)  
@@ -513,7 +514,6 @@
 - [2022-01-18-多线程消费，-队列没有清空就退出了，-请教原因，-谢谢！](https://www.v2ex.com/t/829047) ![](assets/new.png)  
 - [2022-01-18-不用微信的人](https://www.v2ex.com/t/829045) ![](assets/new.png)  
 - [2022-01-18-如何使用-mac-自己的设置修改-chrome-的快捷键](https://www.v2ex.com/t/829043) ![](assets/new.png)  
-- [2022-01-18-电脑自动输入奇怪的字符有可能是什么原因？](https://www.v2ex.com/t/829041) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -573,9 +573,9 @@
 - [2022-01-18-一文读懂-CatBoost-算法原理（附代码）](https://toutiao.io/k/au8td5o) ![](assets/new.png)  
 - [2022-01-18-2021，React、Vue、Svelte、元宇宙领域发生了什么事？](https://toutiao.io/k/68ri6b8) ![](assets/new.png)  
 - [2022-01-18-为任意屏幕尺寸构建-Android-界面](https://toutiao.io/k/ca7sc40) ![](assets/new.png)  
-- [2022-01-18-推荐-服务探活的五种方式](https://toutiao.io/k/1wuwmui) ![](assets/new.png)  
-- [2022-01-18-推荐-JVM调优的几种场景（建议收藏）](https://toutiao.io/k/0mfx2nd) ![](assets/new.png)  
-- [2022-01-18-推荐-浅谈缓存最终一致性的解决方案](https://toutiao.io/k/mgym1lv) ![](assets/new.png)  
+- [2022-01-18-推荐-京东ClickHouse的实践之路](https://toutiao.io/k/j0r6746) ![](assets/new.png)  
+- [2022-01-18-推荐-2022新年伊始，送你百篇干货文章](https://toutiao.io/k/kchudkd) ![](assets/new.png)  
+- [2022-01-18-推荐-用规则引擎让你一天上线十个需求](https://toutiao.io/k/ldd1cse) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

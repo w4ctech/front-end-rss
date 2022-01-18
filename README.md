@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-18 10:14:28，:rocket: 更新条数: +1777， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-18 10:26:48，:rocket: 更新条数: +1776， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,7 @@
 </summary>
 
 
+- [2022-01-18-m1-mbp-单口-usb3-为何支持同时输出-4k-hdr-与-10G-usb3？](https://www.v2ex.com/t/829054) ![](assets/new.png)  
 - [2022-01-18-在一个网站开启了控制台,-跳过调试后,-我的浏览记录被塞了-N-条记录](https://www.v2ex.com/t/829052) ![](assets/new.png)  
 - [2022-01-18-长期招聘-UI-网站设计师--30-美元一小时，可远程工作。](https://www.v2ex.com/t/829050) ![](assets/new.png)  
 - [2022-01-18-如何实现一个压缩追加的功能？求大佬们给点思路](https://www.v2ex.com/t/829049) ![](assets/new.png)  
@@ -513,7 +514,6 @@
 - [2022-01-18-同志们，又过年了，想知道大家过年都送什么礼](https://www.v2ex.com/t/829026) ![](assets/new.png)  
 - [2022-01-18-Sony-cas-1-蓝牙与-macOS-不兼容](https://www.v2ex.com/t/829025) ![](assets/new.png)  
 - [2022-01-18-现在做机器学习，使用的算法是十大经典算法吗？](https://www.v2ex.com/t/829024) ![](assets/new.png)  
-- [2022-01-18-现在很多人鼓吹-Windows-系统不分区，一个-C-盘，那么重装怎么办呢](https://www.v2ex.com/t/829023) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -573,9 +573,9 @@
 - [2022-01-18-GDB调试-从入门实践到原理](https://toutiao.io/k/ctomvz4) ![](assets/new.png)  
 - [2022-01-18-2021，React、Vue、Svelte、元宇宙领域发生了什么事？](https://toutiao.io/k/68ri6b8) ![](assets/new.png)  
 - [2022-01-18-为任意屏幕尺寸构建-Android-界面](https://toutiao.io/k/ca7sc40) ![](assets/new.png)  
-- [2022-01-18-推荐-浅谈缓存最终一致性的解决方案](https://toutiao.io/k/mgym1lv) ![](assets/new.png)  
-- [2022-01-18-推荐-京东ClickHouse的实践之路](https://toutiao.io/k/j0r6746) ![](assets/new.png)  
-- [2022-01-18-推荐-从零开始搭建公司微服务授权架构技术栈（3种模式），这架构稳的一批...](https://toutiao.io/k/4g58j8v) ![](assets/new.png)  
+- [2022-01-18-推荐-JVM调优的几种场景（建议收藏）](https://toutiao.io/k/0mfx2nd) ![](assets/new.png)  
+- [2022-01-18-推荐-用规则引擎让你一天上线十个需求](https://toutiao.io/k/ldd1cse) ![](assets/new.png)  
+- [2022-01-18-推荐-2022新年伊始，送你百篇干货文章](https://toutiao.io/k/kchudkd) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-18 08:28:37，:rocket: 更新条数: +1784， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-18 08:46:52，:rocket: 更新条数: +1784， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -65,15 +65,15 @@
 </summary>
 
 
-- [2022-01-18-1月17日全国新增新冠171例-五省份本土127例](https://m.caixin.com/m/2022-01-18/101831414.html) ![](assets/new.png)  
+- [2022-01-18-最新疫情：全国新冠累计确诊105258例-累计接种新冠疫苗超29.42亿剂次](https://m.caixin.com/m/2022-01-18/101831665.html) ![](assets/new.png)  
 - [2022-01-18-北京第三例新冠现朝阳区，距前两例20余公里](https://m.caixin.com/m/2022-01-18/101831653.html) ![](assets/new.png)  
+- [2022-01-18-最新海外疫情：新冠感染超3.3亿-累计接种新冠疫苗超96.55亿剂次](https://m.caixin.com/m/2022-01-18/101831669.html) ![](assets/new.png)  
 - [2022-01-18-【境内疫情观察】河南新增102例本土病例（1月17日）](https://database.caixin.com/m/2022-01-18/101831642.html) ![](assets/new.png)  
 - [2022-01-18-新德里、孟买新增病例下降-以色列缩短强制隔离期｜大流行手记（1月17日）](https://m.caixin.com/m/2022-01-18/101831511.html) ![](assets/new.png)  
 - [2022-01-18-北京海淀百旺茉莉园一期1人核酸阳性-小区封闭管理](https://photos.caixin.com/m/2022-01-18/101831624.html) ![](assets/new.png)  
 - [2022-01-18-【图集】浙江宁波北仑区全域低风险-地铁公交恢复运行](https://photos.caixin.com/m/2022-01-18/101831423.html) ![](assets/new.png)  
 - [2022-01-17-跨境包裹内部难消杀-国际邮件或存“风险点”](https://companies.caixin.com/m/2022-01-17/101831345.html) ![](assets/new.png)  
 - [2022-01-17-国家卫健委：现有疫苗对预防感染奥密克戎仍有一定效果](https://m.caixin.com/m/2022-01-17/101831269.html) ![](assets/new.png)  
-- [2022-01-17-最新海外疫情：新冠感染超3.27亿-累计接种新冠疫苗超96.3亿剂次](https://m.caixin.com/m/2022-01-17/101831136.html) ![](assets/new.png)  
 - [2022-01-17-广东多起疫情源头疑似境外物品暴露感染-邮政监管部门要求加强国际邮件消杀](https://m.caixin.com/m/2022-01-17/101831330.html) ![](assets/new.png)  
 - [2022-01-17-北京确诊病例处于感染早期-所收国际邮件标本阳性](https://m.caixin.com/m/2022-01-17/101831061.html) ![](assets/new.png)  
 - [2022-01-17-【境内疫情观察】全国新增163例本土病例（1月16日）](https://database.caixin.com/m/2022-01-17/101831120.html) ![](assets/new.png)  
@@ -494,6 +494,7 @@
 </summary>
 
 
+- [2022-01-18-现在做机器学习，使用的算法是十大经典算法吗？](https://www.v2ex.com/t/829024) ![](assets/new.png)  
 - [2022-01-18-现在很多人鼓吹-Windows-系统不分区，一个-C-盘，那么重装怎么办呢](https://www.v2ex.com/t/829023) ![](assets/new.png)  
 - [2022-01-18-反向代理出错后，会出现线程泄露？](https://www.v2ex.com/t/829022) ![](assets/new.png)  
 - [2022-01-18-请教一个-oracle-的排序问题](https://www.v2ex.com/t/829021) ![](assets/new.png)  
@@ -513,7 +514,6 @@
 - [2022-01-18-golang-有按时间/日期切割的-log-库吗?](https://www.v2ex.com/t/829001) ![](assets/new.png)  
 - [2022-01-18-golang-https-post-问题请教](https://www.v2ex.com/t/829000) ![](assets/new.png)  
 - [2022-01-18-有没有用-Seata-的，方法上使用了-@GlobalTransactional-注解之后，@Transactional-还有用吗？](https://www.v2ex.com/t/828999) ![](assets/new.png)  
-- [2022-01-18-安卓手机连接-wifi-网络异常求助](https://www.v2ex.com/t/828998) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -575,7 +575,7 @@
 - [2022-01-18-案例：来自Uber的Go语言GC优化实践](https://toutiao.io/k/06wh0si) ![](assets/new.png)  
 - [2022-01-18-2021，React、Vue、Svelte、元宇宙领域发生了什么事？](https://toutiao.io/k/68ri6b8) ![](assets/new.png)  
 - [2022-01-18-为任意屏幕尺寸构建-Android-界面](https://toutiao.io/k/ca7sc40) ![](assets/new.png)  
-- [2022-01-18-推荐-缓存一致性最佳实践](https://toutiao.io/k/ymscqc1) ![](assets/new.png)  
+- [2022-01-18-推荐-京东ClickHouse的实践之路](https://toutiao.io/k/j0r6746) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

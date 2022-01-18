@@ -8664,6 +8664,16 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "Firefox 看 b 站视频有点问题",
+        "link": "https://www.v2ex.com/t/828895",
+        "date": "2022-01-18"
+      },
+      {
+        "title": "想玩点主机游戏，求推荐。",
+        "link": "https://www.v2ex.com/t/828894",
+        "date": "2022-01-18"
+      },
+      {
         "title": "为什么 google art 没有山水画，看到有很多日本的画作，但是中国的一个都没有，算不算歧视？",
         "link": "https://www.v2ex.com/t/828893",
         "date": "2022-01-17"
@@ -8837,16 +8847,6 @@
         "title": "有什么支持个人在线支付的方案吗?",
         "link": "https://www.v2ex.com/t/828847",
         "date": "2022-01-17"
-      },
-      {
-        "title": "过年大家有没有囤啥好吃的东西，推荐推荐飒",
-        "link": "https://www.v2ex.com/t/828845",
-        "date": "2022-01-17"
-      },
-      {
-        "title": "iOS 里如何登录日区账号?",
-        "link": "https://www.v2ex.com/t/828844",
-        "date": "2022-01-17"
       }
     ]
   },
@@ -8858,102 +8858,102 @@
       {
         "title": "软件工程师应该如何吵架？ (insights.thoughtworks.cn)",
         "link": "https://blogread.cn/news/go.php?idItem=14905&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fsoftware-engineer-quarrel-culture%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-01-17"
+        "date": "2022-01-18"
       },
       {
         "title": "Python之禅：编写优雅Python代码的16个原则 (mp.weixin.qq.com)",
         "link": "https://blogread.cn/news/go.php?idItem=14904&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493176%26amp%3Bidx%3D1%26amp%3Bsn%3Df2d627b156b058851c889b4445e11ec1%26amp%3Bchksm%3Dfa3f0763cd488e75569fb239eac349981802ba866826795ead0d9b7546d81579eed97e34bb65%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-01-17"
+        "date": "2022-01-18"
       },
       {
         "title": "公司这套架构统一处理try...catch，很牛逼！ (mp.weixin.qq.com)",
         "link": "https://blogread.cn/news/go.php?idItem=14903&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493176%26amp%3Bidx%3D2%26amp%3Bsn%3D98ffd0ca1663318ac2b071210d422ade%26amp%3Bchksm%3Dfa3f0763cd488e75d3f771749cf8c542bc4a956a70c6a9b5d081ba654d919b72207bee03e9a5%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-01-17"
+        "date": "2022-01-18"
       },
       {
         "title": "Windows10最新版壁纸下载 (mp.weixin.qq.com)",
         "link": "https://blogread.cn/news/go.php?idItem=14902&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493135%26amp%3Bidx%3D1%26amp%3Bsn%3Dd81460b7d7680b08f84d88644053f9ad%26amp%3Bchksm%3Dfa3f0754cd488e426414f463f7585a415ed6096c7bb374c3bbcaee6fb03fdc3c57b9a7262626%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-01-17"
+        "date": "2022-01-18"
       },
       {
         "title": "API面试四连杀：接口如何设计？安全如何保证？签名如何实现？防重如何实现？ (mp.weixin.qq.com)",
         "link": "https://blogread.cn/news/go.php?idItem=14901&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493135%26amp%3Bidx%3D2%26amp%3Bsn%3D4569a4965be1a6e8b85369edd7fc91dc%26amp%3Bchksm%3Dfa3f0754cd488e427c9670d6aa67e0693725ee332f26e011767ba85562bd6bb08a65cc8aaaba%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-01-17"
+        "date": "2022-01-18"
       },
       {
         "title": "学计算机的女生都怎样了？ (mp.weixin.qq.com)",
         "link": "https://blogread.cn/news/go.php?idItem=14900&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493001%26amp%3Bidx%3D1%26amp%3Bsn%3Dbddc9f080dbfa676bf548144b43ee2c1%26amp%3Bchksm%3Dfa3f04d2cd488dc4f6d4c24eb45aac9073fcab4edd995298d23ecacb3ddbc13910a780589dd4%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-01-17"
+        "date": "2022-01-18"
       },
       {
         "title": "CC++程序员的编程修养 (mp.weixin.qq.com)",
         "link": "https://blogread.cn/news/go.php?idItem=14899&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493001%26amp%3Bidx%3D2%26amp%3Bsn%3Dbce2770eef5aa68a66a024a1b44881af%26amp%3Bchksm%3Dfa3f04d2cd488dc4e03eb699165f1f8fe01d914b3367383d9a02a9d15e56163d9803d73f726d%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-01-17"
+        "date": "2022-01-18"
       },
       {
         "title": "微信语音终于可以转发了，安卓用户优先！ (mp.weixin.qq.com)",
         "link": "https://blogread.cn/news/go.php?idItem=14898&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247492993%26amp%3Bidx%3D1%26amp%3Bsn%3D2cbfc221b16ff176c1f01afa0cc3b8b4%26amp%3Bchksm%3Dfa3f04dacd488dcc46b745c950e9db6751bae7b9d9f3388a72b7c40dc9db43b306960014d962%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-01-17"
+        "date": "2022-01-18"
       },
       {
         "title": "Python Type Hints 从入门到实践 (zhuanlan.zhihu.com)",
         "link": "https://blogread.cn/news/go.php?idItem=14897&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F424042902%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-01-17"
+        "date": "2022-01-18"
       },
       {
         "title": "一文读懂浏览器存储与缓存机制 (zhuanlan.zhihu.com)",
         "link": "https://blogread.cn/news/go.php?idItem=14896&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F422666602%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-01-17"
+        "date": "2022-01-18"
       },
       {
         "title": "如何交接复杂的遗留系统？ (insights.thoughtworks.cn)",
         "link": "https://blogread.cn/news/go.php?idItem=14895&url=https%3A%2F%2Finsights.thoughtworks.cn%2Flegacy-system-handover%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-01-17"
+        "date": "2022-01-18"
       },
       {
         "title": "还在为 Flutter 图表控件发愁么？不妨试试这个 (mp.weixin.qq.com)",
         "link": "https://blogread.cn/news/go.php?idItem=14894&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F4OKaKf43Y6dSYajaCHnehw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-01-17"
+        "date": "2022-01-18"
       },
       {
         "title": "用Python做一个游戏辅助脚本！ (mp.weixin.qq.com)",
         "link": "https://blogread.cn/news/go.php?idItem=14893&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247492993%26amp%3Bidx%3D2%26amp%3Bsn%3D67230660b390f06f5584792da10b1078%26amp%3Bchksm%3Dfa3f04dacd488dccec0f68b1534821b98dde1730e4970ca0629239bd3275199e72af4b3c8771%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-01-17"
+        "date": "2022-01-18"
       },
       {
         "title": "阿里巴巴为什么能抗住90秒100亿？ (mp.weixin.qq.com)",
         "link": "https://blogread.cn/news/go.php?idItem=14892&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247492963%26amp%3Bidx%3D1%26amp%3Bsn%3Dc055d55af2f4efdf70718c31e2b15ec9%26amp%3Bchksm%3Dfa3f0438cd488d2e2f70ee7dd5bb2751f5ec496ad010734777adaa544841a94c6f3fad2dffa0%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-01-17"
+        "date": "2022-01-18"
       },
       {
         "title": "常见代码重构技巧（非常实用） (mp.weixin.qq.com)",
         "link": "https://blogread.cn/news/go.php?idItem=14891&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247492963%26amp%3Bidx%3D2%26amp%3Bsn%3D2ede8b39036a54cdad26ef35d74d7dcc%26amp%3Bchksm%3Dfa3f0438cd488d2ec7349ea9860d3987c3259afc12eb8a46a9569a41a3e0bc2f71ef10854d6c%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-01-17"
+        "date": "2022-01-18"
       },
       {
         "title": "10个动图,你会喜欢上idea的自动补全! (mp.weixin.qq.com)",
         "link": "https://blogread.cn/news/go.php?idItem=14890&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247492923%26amp%3Bidx%3D1%26amp%3Bsn%3De52afa95777cbccbb584aad842d1a22c%26amp%3Bchksm%3Dfa3f0460cd488d76420858c663953776765cab8ce04561a825494e813096703d40f89dbbc5db%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-01-17"
+        "date": "2022-01-18"
       },
       {
         "title": "微信Windows版本干了件大事！ (mp.weixin.qq.com)",
         "link": "https://blogread.cn/news/go.php?idItem=14889&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247492923%26amp%3Bidx%3D2%26amp%3Bsn%3Dc9c6fa08f8b83076a9c54be2f332c552%26amp%3Bchksm%3Dfa3f0460cd488d760fec7aab0ad0ee572186ed51bd269393426c617030e7ac3b63d164b6e572%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-01-17"
+        "date": "2022-01-18"
       },
       {
         "title": "一位10年Google工程师给技术人的建议 (mp.weixin.qq.com)",
         "link": "https://blogread.cn/news/go.php?idItem=14888&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247492913%26amp%3Bidx%3D1%26amp%3Bsn%3Dac389822c4e6f5899bf51ab9abd8aa3b%26amp%3Bchksm%3Dfa3f046acd488d7cbcc06db3b901854c31fcb2e4a724a20be7c60e969c8d4ad9796a077e703d%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-01-17"
+        "date": "2022-01-18"
       },
       {
         "title": "Vue开发移动端项目，这个工具对你一定有帮助 (mp.weixin.qq.com)",
         "link": "https://blogread.cn/news/go.php?idItem=14887&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247492913%26amp%3Bidx%3D2%26amp%3Bsn%3D925a00629c2130296cfc8227eddec078%26amp%3Bchksm%3Dfa3f046acd488d7cf66e591ea5dbbf890d12924a8b69610d80dd8130e00b20dde4b73211c64b%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-01-17"
+        "date": "2022-01-18"
       },
       {
         "title": "Ghost in the Log4Shell (insights.thoughtworks.cn)",
         "link": "https://blogread.cn/news/go.php?idItem=14886&url=https%3A%2F%2Finsights.thoughtworks.cn%2Flog4j-log4shell%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-01-17"
+        "date": "2022-01-18"
       }
     ]
   },
@@ -8963,64 +8963,104 @@
     "link": "https://toutiao.io",
     "items": [
       {
+        "title": "Spring Kafka的bug导致超时问题",
+        "link": "https://toutiao.io/k/eq9tsj2",
+        "date": "2022-01-18"
+      },
+      {
         "title": "虎年灯笼逗猫棒流苏宠猫玩具，点击链接立即领券购买！",
         "link": "https://toutiao.io/k/9w6tpgk",
-        "date": "2022-01-17"
+        "date": "2022-01-18"
+      },
+      {
+        "title": "如何使用 Prometheus 和 Grafana 优雅的实现服务器可视化",
+        "link": "https://toutiao.io/k/ypeezzt",
+        "date": "2022-01-18"
+      },
+      {
+        "title": "前端领域的 “干净架构”",
+        "link": "https://toutiao.io/k/aazavob",
+        "date": "2022-01-18"
+      },
+      {
+        "title": "抖音生猛，张小龙以退为进；30天JS编程挑战；解读Go语言的2021——码农周刊VIP会员专属邮件周报 Vol.077",
+        "link": "https://toutiao.io/k/bu7r4pt",
+        "date": "2022-01-18"
+      },
+      {
+        "title": "新一代消息队列 Pulsar",
+        "link": "https://toutiao.io/k/k4n6m77",
+        "date": "2022-01-18"
+      },
+      {
+        "title": "弃用 Lambda，Twitter 启用 Kafka 和数据流新架构",
+        "link": "https://toutiao.io/k/ejgszwn",
+        "date": "2022-01-18"
+      },
+      {
+        "title": "Python 为什么不设计 do-while 循环结构？",
+        "link": "https://toutiao.io/k/46pdicq",
+        "date": "2022-01-18"
+      },
+      {
+        "title": "做数据分析已经会Excel了，还要学Python吗？",
+        "link": "https://toutiao.io/k/flymy2i",
+        "date": "2022-01-18"
       },
       {
         "title": "[推荐] 京东ClickHouse的实践之路",
         "link": "https://toutiao.io/k/j0r6746",
-        "date": "2022-01-17"
-      },
-      {
-        "title": "[推荐] 浅谈缓存最终一致性的解决方案",
-        "link": "https://toutiao.io/k/mgym1lv",
-        "date": "2022-01-17"
-      },
-      {
-        "title": "[推荐] 从零打造 Instagram",
-        "link": "https://toutiao.io/k/hufqvji",
-        "date": "2022-01-17"
-      },
-      {
-        "title": "[推荐] 网络编程怎么做才算是优雅？",
-        "link": "https://toutiao.io/k/zylzzpi",
-        "date": "2022-01-17"
-      },
-      {
-        "title": "[推荐] 缓存一致性最佳实践",
-        "link": "https://toutiao.io/k/ymscqc1",
-        "date": "2022-01-17"
-      },
-      {
-        "title": "[推荐] 服务探活的五种方式",
-        "link": "https://toutiao.io/k/1wuwmui",
-        "date": "2022-01-17"
-      },
-      {
-        "title": "[推荐] 再见了 VMware，一款更轻量级的虚拟机！",
-        "link": "https://toutiao.io/k/xw2lnva",
-        "date": "2022-01-17"
-      },
-      {
-        "title": "[推荐] JVM调优的几种场景（建议收藏）",
-        "link": "https://toutiao.io/k/0mfx2nd",
-        "date": "2022-01-17"
-      },
-      {
-        "title": "[推荐] 从零开始搭建公司微服务授权架构技术栈（3种模式），这架构稳的一批...",
-        "link": "https://toutiao.io/k/4g58j8v",
-        "date": "2022-01-17"
-      },
-      {
-        "title": "[推荐] 2022新年伊始，送你百篇干货文章",
-        "link": "https://toutiao.io/k/kchudkd",
-        "date": "2022-01-17"
+        "date": "2022-01-18"
       },
       {
         "title": "[推荐] 用规则引擎让你一天上线十个需求",
         "link": "https://toutiao.io/k/ldd1cse",
-        "date": "2022-01-17"
+        "date": "2022-01-18"
+      },
+      {
+        "title": "[推荐] 2022新年伊始，送你百篇干货文章",
+        "link": "https://toutiao.io/k/kchudkd",
+        "date": "2022-01-18"
+      },
+      {
+        "title": "[推荐] JVM调优的几种场景（建议收藏）",
+        "link": "https://toutiao.io/k/0mfx2nd",
+        "date": "2022-01-18"
+      },
+      {
+        "title": "[推荐] 从零打造 Instagram",
+        "link": "https://toutiao.io/k/hufqvji",
+        "date": "2022-01-18"
+      },
+      {
+        "title": "[推荐] 再见了 VMware，一款更轻量级的虚拟机！",
+        "link": "https://toutiao.io/k/xw2lnva",
+        "date": "2022-01-18"
+      },
+      {
+        "title": "[推荐] 缓存一致性最佳实践",
+        "link": "https://toutiao.io/k/ymscqc1",
+        "date": "2022-01-18"
+      },
+      {
+        "title": "[推荐] 从零开始搭建公司微服务授权架构技术栈（3种模式），这架构稳的一批...",
+        "link": "https://toutiao.io/k/4g58j8v",
+        "date": "2022-01-18"
+      },
+      {
+        "title": "[推荐] 浅谈缓存最终一致性的解决方案",
+        "link": "https://toutiao.io/k/mgym1lv",
+        "date": "2022-01-18"
+      },
+      {
+        "title": "[推荐] 服务探活的五种方式",
+        "link": "https://toutiao.io/k/1wuwmui",
+        "date": "2022-01-18"
+      },
+      {
+        "title": "[推荐] 网络编程怎么做才算是优雅？",
+        "link": "https://toutiao.io/k/zylzzpi",
+        "date": "2022-01-18"
       }
     ]
   },

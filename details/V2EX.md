@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2022-01-18 05:33:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-01-18 05:39:46。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-01-18-搞了一个有损图像压缩算法](https://www.v2ex.com/t/828982) 
 - [2022-01-18-M1-Pro-MacBook-外接淘宝上的一线连便携屏能自动开启-Hidpi-吗？](https://www.v2ex.com/t/828981) 
 - [2022-01-18-北京联通更换千兆套餐后-IPv6-前缀长度由-60-变为-64](https://www.v2ex.com/t/828980) 
 - [2022-01-18-aws-s3-用户上传的文件，如何只允许用户访问](https://www.v2ex.com/t/828979) 

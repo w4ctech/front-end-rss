@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-01-18 14:21:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-01-18 14:38:54。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
@@ -41,6 +41,3 @@
 - [2022-01-18-电脑自动输入奇怪的字符有可能是什么原因？](https://www.v2ex.com/t/829041) 
 - [2022-01-18-如何在-windows-桌面环境（即专业版、企业版）上无虚拟机使用-docker-EE-？](https://www.v2ex.com/t/829040) 
 - [2022-01-18-全职远程20k---40K-硅谷远程创业公司招聘-React-前端工程师](https://www.v2ex.com/t/829039) 
-- [2022-01-18-iPhone-充电太快了，有没有-2W-的充电头](https://www.v2ex.com/t/829038) 
-- [2022-01-18-有没有-spotlight-的扩展插件？](https://www.v2ex.com/t/829037) 
-- [2022-01-18-VitalSigns-3-站貌似挂了，有更好的监控软件推荐吗？](https://www.v2ex.com/t/829036) 

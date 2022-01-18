@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-18 14:21:21，:rocket: 更新条数: +1783， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-18 14:38:54，:rocket: 更新条数: +1780， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -573,9 +573,9 @@
 - [2022-01-18-一文读懂-CatBoost-算法原理（附代码）](https://toutiao.io/k/au8td5o) ![](assets/new.png)  
 - [2022-01-18-2021，React、Vue、Svelte、元宇宙领域发生了什么事？](https://toutiao.io/k/68ri6b8) ![](assets/new.png)  
 - [2022-01-18-为任意屏幕尺寸构建-Android-界面](https://toutiao.io/k/ca7sc40) ![](assets/new.png)  
-- [2022-01-18-推荐-JVM调优的几种场景（建议收藏）](https://toutiao.io/k/0mfx2nd) ![](assets/new.png)  
-- [2022-01-18-推荐-浅谈缓存最终一致性的解决方案](https://toutiao.io/k/mgym1lv) ![](assets/new.png)  
-- [2022-01-18-推荐-服务探活的五种方式](https://toutiao.io/k/1wuwmui) ![](assets/new.png)  
+- [2022-01-18-推荐-用规则引擎让你一天上线十个需求](https://toutiao.io/k/ldd1cse) ![](assets/new.png)  
+- [2022-01-18-推荐-再见了-VMware，一款更轻量级的虚拟机！](https://toutiao.io/k/xw2lnva) ![](assets/new.png)  
+- [2022-01-18-推荐-缓存一致性最佳实践](https://toutiao.io/k/ymscqc1) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-18 15:25:51，:rocket: 更新条数: +1781， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-18 15:45:10，:rocket: 更新条数: +1782， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,8 @@
 </summary>
 
 
+- [2022-01-18-Mac/Windows-如何实现浏览器后台打开链接](https://www.v2ex.com/t/829096) ![](assets/new.png)  
+- [2022-01-18-已经-win11-了，蓝牙耳机的麦克风和-stereo-为什么还是不能共存？](https://www.v2ex.com/t/829095) ![](assets/new.png)  
 - [2022-01-18-WIP-跨平台脚本管理器-MahiruLauncher](https://www.v2ex.com/t/829094) ![](assets/new.png)  
 - [2022-01-18-求推荐一款-nuc-或者-笔记本-主要编译-llvm-和-rustc](https://www.v2ex.com/t/829093) ![](assets/new.png)  
 - [2022-01-18-Go-微服务实战---从-0-到-1-搭建一个类-Instagram-应用](https://www.v2ex.com/t/829092) ![](assets/new.png)  
@@ -512,8 +514,6 @@
 - [2022-01-18-OpenWrt-路由器无法访问-Google](https://www.v2ex.com/t/829072) ![](assets/new.png)  
 - [2022-01-18-你们会记得以前做过的梦吗](https://www.v2ex.com/t/829070) ![](assets/new.png)  
 - [2022-01-18-jmeter-最大线程问题](https://www.v2ex.com/t/829069) ![](assets/new.png)  
-- [2022-01-18-测试用手机，一直插着-USB，怎么能防止/延缓锂电池鼓包，各位大佬有什么方法不？](https://www.v2ex.com/t/829068) ![](assets/new.png)  
-- [2022-01-18-求教一条-Python-中使用的-sql-语句](https://www.v2ex.com/t/829067) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -573,9 +573,9 @@
 - [2022-01-18-一文读懂-CatBoost-算法原理（附代码）](https://toutiao.io/k/au8td5o) ![](assets/new.png)  
 - [2022-01-18-2021，React、Vue、Svelte、元宇宙领域发生了什么事？](https://toutiao.io/k/68ri6b8) ![](assets/new.png)  
 - [2022-01-18-为任意屏幕尺寸构建-Android-界面](https://toutiao.io/k/ca7sc40) ![](assets/new.png)  
-- [2022-01-18-推荐-JVM调优的几种场景（建议收藏）](https://toutiao.io/k/0mfx2nd) ![](assets/new.png)  
+- [2022-01-18-推荐-网络编程怎么做才算是优雅？](https://toutiao.io/k/zylzzpi) ![](assets/new.png)  
 - [2022-01-18-推荐-缓存一致性最佳实践](https://toutiao.io/k/ymscqc1) ![](assets/new.png)  
-- [2022-01-18-推荐-2022新年伊始，送你百篇干货文章](https://toutiao.io/k/kchudkd) ![](assets/new.png)  
+- [2022-01-18-推荐-浅谈缓存最终一致性的解决方案](https://toutiao.io/k/mgym1lv) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

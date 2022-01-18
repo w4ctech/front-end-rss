@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-18 00:43:54，:rocket: 更新条数: +1765， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-18 01:15:17，:rocket: 更新条数: +1765， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,10 @@
 </summary>
 
 
+- [2022-01-18-求教大佬们，蓝光-4K-电影播放](https://www.v2ex.com/t/828900) ![](assets/new.png)  
+- [2022-01-18-一个澳洲屌丝的分享--竟然资本圈已经不合逻辑的在吹电动飞机了，主流知识界已经坠落了。](https://www.v2ex.com/t/828898) ![](assets/new.png)  
+- [2022-01-18-关于-Jest-配置的提问](https://www.v2ex.com/t/828897) ![](assets/new.png)  
+- [2022-01-18-pve-直通的困扰，大神进来，有偿解决](https://www.v2ex.com/t/828896) ![](assets/new.png)  
 - [2022-01-18-Firefox-看-b-站视频有点问题](https://www.v2ex.com/t/828895) ![](assets/new.png)  
 - [2022-01-18-想玩点主机游戏，求推荐。](https://www.v2ex.com/t/828894) ![](assets/new.png)  
 - [2022-01-17-为什么-google-art-没有山水画，看到有很多日本的画作，但是中国的一个都没有，算不算歧视？](https://www.v2ex.com/t/828893) ![](assets/new.png)  
@@ -510,10 +514,6 @@
 - [2022-01-17-VMware-Horizon-Client-和-Mac-之间如何传输文件](https://www.v2ex.com/t/828879) ![](assets/new.png)  
 - [2022-01-17-关机状态按任意键都会开机吗？](https://www.v2ex.com/t/828878) ![](assets/new.png)  
 - [2022-01-17-webstrom-react-router-dom-问题](https://www.v2ex.com/t/828877) ![](assets/new.png)  
-- [2022-01-17-开发简历请大家评价](https://www.v2ex.com/t/828876) ![](assets/new.png)  
-- [2022-01-17-Telegram-挂了兄弟们?](https://www.v2ex.com/t/828874) ![](assets/new.png)  
-- [2022-01-17-Telegram-大范围挂了](https://www.v2ex.com/t/828873) ![](assets/new.png)  
-- [2022-01-17-2022/1/17-号晚上-23:03-分我的-telegram-突然无法打开](https://www.v2ex.com/t/828872) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -557,25 +557,25 @@
 
 
 - [2022-01-18-Spring-Kafka的bug导致超时问题](https://toutiao.io/k/eq9tsj2) ![](assets/new.png)  
-- [2022-01-18-虎年灯笼逗猫棒流苏宠猫玩具，点击链接立即领券购买！](https://toutiao.io/k/9w6tpgk) ![](assets/new.png)  
 - [2022-01-18-如何使用-Prometheus-和-Grafana-优雅的实现服务器可视化](https://toutiao.io/k/ypeezzt) ![](assets/new.png)  
-- [2022-01-18-前端领域的-“干净架构”](https://toutiao.io/k/aazavob) ![](assets/new.png)  
+- [2022-01-18-虎年灯笼逗猫棒流苏宠猫玩具，点击链接立即领券购买！](https://toutiao.io/k/9w6tpgk) ![](assets/new.png)  
 - [2022-01-18-抖音生猛，张小龙以退为进；30天JS编程挑战；解读Go语言的2021——码农周刊VIP会员专属邮件周报-Vol.077](https://toutiao.io/k/bu7r4pt) ![](assets/new.png)  
+- [2022-01-18-前端领域的-“干净架构”](https://toutiao.io/k/aazavob) ![](assets/new.png)  
 - [2022-01-18-新一代消息队列-Pulsar](https://toutiao.io/k/k4n6m77) ![](assets/new.png)  
 - [2022-01-18-弃用-Lambda，Twitter-启用-Kafka-和数据流新架构](https://toutiao.io/k/ejgszwn) ![](assets/new.png)  
-- [2022-01-18-Python-为什么不设计-do-while-循环结构？](https://toutiao.io/k/46pdicq) ![](assets/new.png)  
 - [2022-01-18-做数据分析已经会Excel了，还要学Python吗？](https://toutiao.io/k/flymy2i) ![](assets/new.png)  
+- [2022-01-18-Python-为什么不设计-do-while-循环结构？](https://toutiao.io/k/46pdicq) ![](assets/new.png)  
 - [2022-01-18-推荐-京东ClickHouse的实践之路](https://toutiao.io/k/j0r6746) ![](assets/new.png)  
-- [2022-01-18-推荐-用规则引擎让你一天上线十个需求](https://toutiao.io/k/ldd1cse) ![](assets/new.png)  
-- [2022-01-18-推荐-2022新年伊始，送你百篇干货文章](https://toutiao.io/k/kchudkd) ![](assets/new.png)  
+- [2022-01-18-推荐-缓存一致性最佳实践](https://toutiao.io/k/ymscqc1) ![](assets/new.png)  
 - [2022-01-18-推荐-JVM调优的几种场景（建议收藏）](https://toutiao.io/k/0mfx2nd) ![](assets/new.png)  
+- [2022-01-18-推荐-网络编程怎么做才算是优雅？](https://toutiao.io/k/zylzzpi) ![](assets/new.png)  
+- [2022-01-18-推荐-从零开始搭建公司微服务授权架构技术栈（3种模式），这架构稳的一批...](https://toutiao.io/k/4g58j8v) ![](assets/new.png)  
 - [2022-01-18-推荐-从零打造-Instagram](https://toutiao.io/k/hufqvji) ![](assets/new.png)  
 - [2022-01-18-推荐-再见了-VMware，一款更轻量级的虚拟机！](https://toutiao.io/k/xw2lnva) ![](assets/new.png)  
-- [2022-01-18-推荐-缓存一致性最佳实践](https://toutiao.io/k/ymscqc1) ![](assets/new.png)  
-- [2022-01-18-推荐-从零开始搭建公司微服务授权架构技术栈（3种模式），这架构稳的一批...](https://toutiao.io/k/4g58j8v) ![](assets/new.png)  
 - [2022-01-18-推荐-浅谈缓存最终一致性的解决方案](https://toutiao.io/k/mgym1lv) ![](assets/new.png)  
 - [2022-01-18-推荐-服务探活的五种方式](https://toutiao.io/k/1wuwmui) ![](assets/new.png)  
-- [2022-01-18-推荐-网络编程怎么做才算是优雅？](https://toutiao.io/k/zylzzpi) ![](assets/new.png)  
+- [2022-01-18-推荐-用规则引擎让你一天上线十个需求](https://toutiao.io/k/ldd1cse) ![](assets/new.png)  
+- [2022-01-18-推荐-2022新年伊始，送你百篇干货文章](https://toutiao.io/k/kchudkd) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

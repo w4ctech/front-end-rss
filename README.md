@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-19 10:22:40，:rocket: 更新条数: +1785， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-19 10:39:18，:rocket: 更新条数: +1784， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,8 @@
 </summary>
 
 
+- [2022-01-19-vue3-组件怎么传递变量](https://www.v2ex.com/t/829299) ![](assets/new.png)  
+- [2022-01-19-Object-Oriented-Programming-The-Ultimate-Mathematical-Meta-Paradigm!](https://www.v2ex.com/t/829298) ![](assets/new.png)  
 - [2022-01-19-nginx-进程个数问题](https://www.v2ex.com/t/829295) ![](assets/new.png)  
 - [2022-01-19-Apple-在-iOS15-中-依然信任-CNNIC、WoSign、StartCom-这三个机构签发的证书，请教各位大佬应该如何屏蔽](https://www.v2ex.com/t/829294) ![](assets/new.png)  
 - [2022-01-19-有-Android-逆向大佬吗，有偿求助](https://www.v2ex.com/t/829293) ![](assets/new.png)  
@@ -502,7 +504,6 @@
 - [2022-01-19-一个关于开发者密码学-API-使用的小问卷](https://www.v2ex.com/t/829289) ![](assets/new.png)  
 - [2022-01-19-微信读书网页版有办法同步公开想法吗？](https://www.v2ex.com/t/829288) ![](assets/new.png)  
 - [2022-01-19-阿里小号涨价到-120/年了🤔请问还有办法低价续费吗？！](https://www.v2ex.com/t/829287) ![](assets/new.png)  
-- [2022-01-19-iCloud+-2T-家庭](https://www.v2ex.com/t/829286) ![](assets/new.png)  
 - [2022-01-19--求职产品经理-产品经理求职](https://www.v2ex.com/t/829285) ![](assets/new.png)  
 - [2022-01-19-苹果在线商店教育优惠需要通过-UNiDAYS-进行验证了](https://www.v2ex.com/t/829284) ![](assets/new.png)  
 - [2022-01-19-酒桌上应酬（你是做什么工作的啊）](https://www.v2ex.com/t/829283) ![](assets/new.png)  
@@ -513,7 +514,6 @@
 - [2022-01-19-2021-年，对于互联网公司，是过去十年最差的一年，却是未来十年最好的一年。](https://www.v2ex.com/t/829278) ![](assets/new.png)  
 - [2022-01-19-前端、后端、运维、测试、大数据的同学大家看过来了，-zenlayer-研发团队扩招了，可以年后入职](https://www.v2ex.com/t/829277) ![](assets/new.png)  
 - [2022-01-19-IOS/Vue-开发者转战-Android-了，如何才能不被开除，求指教！](https://www.v2ex.com/t/829274) ![](assets/new.png)  
-- [2022-01-19-SM.MS-图床新年优惠，终身会员仅需-29-美元！](https://www.v2ex.com/t/829272) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -563,8 +563,8 @@
 - [2022-01-19-一位程序员的财务自由之路](https://toutiao.io/k/libwh52) ![](assets/new.png)  
 - [2022-01-19-Flutter-For-Web-编译的两种方案](https://toutiao.io/k/t34zvms) ![](assets/new.png)  
 - [2022-01-19-伴鱼事件分析平台设计](https://toutiao.io/k/1q1s2t1) ![](assets/new.png)  
-- [2022-01-19-大吉大利虎年春节猫福盒，点击链接立即领券购买！](https://toutiao.io/k/y5ztper) ![](assets/new.png)  
 - [2022-01-19-NVS-——-js-实现的node版本管理工具](https://toutiao.io/k/rjwd2wq) ![](assets/new.png)  
+- [2022-01-19-大吉大利虎年春节猫福盒，点击链接立即领券购买！](https://toutiao.io/k/y5ztper) ![](assets/new.png)  
 - [2022-01-19-超硬核！详解Apache-Hudi灵活的Payload机制](https://toutiao.io/k/sjeouk4) ![](assets/new.png)  
 - [2022-01-19-2021-大促-AntMonitor-总结---云原生-Prometheus-监控实践](https://toutiao.io/k/ajqw8gn) ![](assets/new.png)  
 - [2022-01-19-KubeDL-HostNetwork：加速分布式训练通信效率](https://toutiao.io/k/no4tj9h) ![](assets/new.png)  
@@ -572,10 +572,10 @@
 - [2022-01-19-深入浅出Apache-Pulsar（2）：Pulsar消息机制](https://toutiao.io/k/vd8ag4a) ![](assets/new.png)  
 - [2022-01-19-深入理解-CPU-的调度原理](https://toutiao.io/k/n5mdm2x) ![](assets/new.png)  
 - [2022-01-19-代码质量第2层-可重用的代码](https://toutiao.io/k/2d6u1v9) ![](assets/new.png)  
-- [2022-01-19-Form-表单在数栈的应用下：深入篇](https://toutiao.io/k/jtv0j02) ![](assets/new.png)  
 - [2022-01-19-阿里云容器服务差异化-SLO-混部技术实践](https://toutiao.io/k/xgkpiyh) ![](assets/new.png)  
-- [2022-01-19-推荐-据说看完这篇-JVM-要一小时](https://toutiao.io/k/1dauixx) ![](assets/new.png)  
-- [2022-01-19-推荐-浅谈缓存最终一致性的解决方案](https://toutiao.io/k/mgym1lv) ![](assets/new.png)  
+- [2022-01-19-Form-表单在数栈的应用下：深入篇](https://toutiao.io/k/jtv0j02) ![](assets/new.png)  
+- [2022-01-19-推荐-用规则引擎让你一天上线十个需求](https://toutiao.io/k/ldd1cse) ![](assets/new.png)  
+- [2022-01-19-推荐-面渣逆袭：Java并发六十问，图文详解，快来看看你会多少道！](https://toutiao.io/k/4ndh1gd) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

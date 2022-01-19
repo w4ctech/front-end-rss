@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2022-01-19 10:22:40。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-01-19 10:39:18。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-01-19-vue3-组件怎么传递变量](https://www.v2ex.com/t/829299) 
+- [2022-01-19-Object-Oriented-Programming-The-Ultimate-Mathematical-Meta-Paradigm!](https://www.v2ex.com/t/829298) 
 - [2022-01-19-nginx-进程个数问题](https://www.v2ex.com/t/829295) 
 - [2022-01-19-Apple-在-iOS15-中-依然信任-CNNIC、WoSign、StartCom-这三个机构签发的证书，请教各位大佬应该如何屏蔽](https://www.v2ex.com/t/829294) 
 - [2022-01-19-有-Android-逆向大佬吗，有偿求助](https://www.v2ex.com/t/829293) 
@@ -13,7 +15,6 @@
 - [2022-01-19-一个关于开发者密码学-API-使用的小问卷](https://www.v2ex.com/t/829289) 
 - [2022-01-19-微信读书网页版有办法同步公开想法吗？](https://www.v2ex.com/t/829288) 
 - [2022-01-19-阿里小号涨价到-120/年了🤔请问还有办法低价续费吗？！](https://www.v2ex.com/t/829287) 
-- [2022-01-19-iCloud+-2T-家庭](https://www.v2ex.com/t/829286) 
 - [2022-01-19--求职产品经理-产品经理求职](https://www.v2ex.com/t/829285) 
 - [2022-01-19-苹果在线商店教育优惠需要通过-UNiDAYS-进行验证了](https://www.v2ex.com/t/829284) 
 - [2022-01-19-酒桌上应酬（你是做什么工作的啊）](https://www.v2ex.com/t/829283) 
@@ -38,5 +39,3 @@
 - [2022-01-19-网易-游戏周边商城前后端岗位招新同学了](https://www.v2ex.com/t/829254) 
 - [2022-01-19-什么样的英文水平可以流畅地阅读英文书籍和文档，顺便求个学习路线](https://www.v2ex.com/t/829253) 
 - [2022-01-19-想好好体验个-60-的-wow，求规则推荐](https://www.v2ex.com/t/829251) 
-- [2022-01-19-为什么有些文档的作者这么人上人](https://www.v2ex.com/t/829250) 
-- [2022-01-19-PHP-amqp-的扩展-疑问](https://www.v2ex.com/t/829249) 

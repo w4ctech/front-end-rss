@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-19 01:53:44，:rocket: 更新条数: +1780， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-19 02:06:07，:rocket: 更新条数: +1789， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,9 @@
 </summary>
 
 
+- [2022-01-19-面试中判断一个人是否聪明...](https://www.v2ex.com/t/829140) ![](assets/new.png)  
+- [2022-01-19-求过来人给小老弟指指路!](https://www.v2ex.com/t/829139) ![](assets/new.png)  
+- [2022-01-19-新加坡技术移民-新加坡知名互联网公司，招移动端（iOS,安卓,-RN），前端，后端（不限开发语言），-DevOps-/SRE-和-DBA-及安全等各类工程师，个税低，没有-99...](https://www.v2ex.com/t/829138) ![](assets/new.png)  
 - [2022-01-19-关于-Java-的异步-HTTP-请求](https://www.v2ex.com/t/829136) ![](assets/new.png)  
 - [2022-01-19-NUC11i5-猎豹峡谷开发-Java](https://www.v2ex.com/t/829135) ![](assets/new.png)  
 - [2022-01-19-iPad-怎么投到-显示器上。流畅点。不卡帧？像笔记本一样，可以操作](https://www.v2ex.com/t/829134) ![](assets/new.png)  
@@ -511,9 +514,6 @@
 - [2022-01-19-手机照片备份方案](https://www.v2ex.com/t/829120) ![](assets/new.png)  
 - [2022-01-19-xsx-和-ps5-是不是最后一个世代了](https://www.v2ex.com/t/829119) ![](assets/new.png)  
 - [2022-01-19-iOS-Safari-15-是不是绝对无法实现边缘手势（就是类似原生-App-那样从边上滑动返回之类的操作）？](https://www.v2ex.com/t/829118) ![](assets/new.png)  
-- [2022-01-18-Logitech-Options-9.50.122-终于修复了鼠标/键盘快捷键延迟问题](https://www.v2ex.com/t/829117) ![](assets/new.png)  
-- [2022-01-18-这样的网络安全设施是否已经存在了？](https://www.v2ex.com/t/829116) ![](assets/new.png)  
-- [2022-01-18-🚗-硅谷-Top50-Starup-扩招国内研发团队🌟100%远程+期权+双休+四周年假+福利补贴-🔥](https://www.v2ex.com/t/829115) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -559,23 +559,23 @@
 - [2022-01-19-优雅整洁的-Java-代码命名技巧，风之极·净化](https://toutiao.io/k/abc8vou) ![](assets/new.png)  
 - [2022-01-19-深度剖析-Seata-TCC-模式【图解-+-源码分析】](https://toutiao.io/k/dxwt6fy) ![](assets/new.png)  
 - [2022-01-19-Python代替Excel-VBA，原来真的可以](https://toutiao.io/k/zqnpdh9) ![](assets/new.png)  
-- [2022-01-19-大吉大利虎年春节猫福盒，点击链接立即领券购买！](https://toutiao.io/k/y5ztper) ![](assets/new.png)  
 - [2022-01-19-带你彻底击溃跳表原理及其Golang实现！（内含图解）](https://toutiao.io/k/fp0dy5f) ![](assets/new.png)  
+- [2022-01-19-大吉大利虎年春节猫福盒，点击链接立即领券购买！](https://toutiao.io/k/y5ztper) ![](assets/new.png)  
 - [2022-01-19-伴鱼事件分析平台设计](https://toutiao.io/k/1q1s2t1) ![](assets/new.png)  
 - [2022-01-19-NVS-——-js-实现的node版本管理工具](https://toutiao.io/k/rjwd2wq) ![](assets/new.png)  
 - [2022-01-19-超硬核！详解Apache-Hudi灵活的Payload机制](https://toutiao.io/k/sjeouk4) ![](assets/new.png)  
 - [2022-01-19-一位程序员的财务自由之路](https://toutiao.io/k/libwh52) ![](assets/new.png)  
-- [2022-01-19-推荐-浅谈缓存最终一致性的解决方案](https://toutiao.io/k/mgym1lv) ![](assets/new.png)  
+- [2022-01-19-安全团队不可错过的7个开源工具](https://toutiao.io/k/6b3enyo) ![](assets/new.png)  
+- [2022-01-19-Flutter-For-Web-编译的两种方案](https://toutiao.io/k/t34zvms) ![](assets/new.png)  
+- [2022-01-19-KubeDL-HostNetwork：加速分布式训练通信效率](https://toutiao.io/k/no4tj9h) ![](assets/new.png)  
+- [2022-01-19-2021-大促-AntMonitor-总结---云原生-Prometheus-监控实践](https://toutiao.io/k/ajqw8gn) ![](assets/new.png)  
+- [2022-01-19-动手实现一个适用于.NET-Core-的诊断工具](https://toutiao.io/k/6r068w9) ![](assets/new.png)  
 - [2022-01-19-推荐-服务探活的五种方式](https://toutiao.io/k/1wuwmui) ![](assets/new.png)  
-- [2022-01-19-推荐-从零打造-Instagram](https://toutiao.io/k/hufqvji) ![](assets/new.png)  
-- [2022-01-19-推荐-面渣逆袭：Java并发六十问，图文详解，快来看看你会多少道！](https://toutiao.io/k/4ndh1gd) ![](assets/new.png)  
-- [2022-01-19-推荐-缓存一致性最佳实践](https://toutiao.io/k/ymscqc1) ![](assets/new.png)  
-- [2022-01-19-推荐-京东ClickHouse的实践之路](https://toutiao.io/k/j0r6746) ![](assets/new.png)  
-- [2022-01-19-推荐-JVM调优的几种场景（建议收藏）](https://toutiao.io/k/0mfx2nd) ![](assets/new.png)  
-- [2022-01-19-推荐-从零开始搭建公司微服务授权架构技术栈（3种模式），这架构稳的一批...](https://toutiao.io/k/4g58j8v) ![](assets/new.png)  
-- [2022-01-19-推荐-用规则引擎让你一天上线十个需求](https://toutiao.io/k/ldd1cse) ![](assets/new.png)  
-- [2022-01-19-推荐-再见了-VMware，一款更轻量级的虚拟机！](https://toutiao.io/k/xw2lnva) ![](assets/new.png)  
 - [2022-01-19-推荐-据说看完这篇-JVM-要一小时](https://toutiao.io/k/1dauixx) ![](assets/new.png)  
+- [2022-01-19-推荐-网络编程怎么做才算是优雅？](https://toutiao.io/k/zylzzpi) ![](assets/new.png)  
+- [2022-01-19-推荐-干货总结！Kafka-面试大全（万字长文，37-张图，28-个知识点）](https://toutiao.io/k/f9qe7be) ![](assets/new.png)  
+- [2022-01-19-推荐-京东ClickHouse的实践之路](https://toutiao.io/k/j0r6746) ![](assets/new.png)  
+- [2022-01-19-推荐-浅谈缓存最终一致性的解决方案](https://toutiao.io/k/mgym1lv) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

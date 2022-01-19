@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-01-19 09:41:42。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-01-19 09:54:27。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,7 @@
 </summary>
 
 
+- [【武汉肺炎防疫全纪录(财新网)】2022-01-19-最新疫情：全国新冠累计确诊105345例-累计接种新冠疫苗超29.47亿剂次](https://m.caixin.com/m/2022-01-19/101832259.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2022-01-19-全球首现仓鼠感染新冠-港府拟大规模扑杀](https://m.caixin.com/m/2022-01-19/101831948.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2022-01-19-最新海外疫情：新冠感染超3.33亿-累计接种新冠疫苗超97.03亿剂次](https://m.caixin.com/m/2022-01-19/101832247.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2022-01-19-【境内疫情观察】全国新增55例本土病例（1月18日）](https://database.caixin.com/m/2022-01-19/101832127.html) 
@@ -193,6 +194,9 @@
 - [【张鑫旭-鑫空间-鑫生活】2022-01-11-还有完没完，怎么又来了个-scrollbar-gutter？](https://www.zhangxinxu.com/wordpress/2022/01/css-scrollbar-gutter/) 
 - [【阮一峰的网络日志】2022-01-14-科技爱好者周刊（第-192-期）：最大的机会来自新技术](http://www.ruanyifeng.com/blog/2022/01/weekly-issue-192.html) 
 - [【阮一峰的网络日志】2022-01-07-科技爱好者周刊（第-191-期）：一个程序员的财务独立之路](http://www.ruanyifeng.com/blog/2022/01/weekly-issue-191.html) 
+- [【V2EX】2022-01-19-阿里小号涨价到-120/年了🤔请问还有办法低价续费吗？！](https://www.v2ex.com/t/829287) 
+- [【V2EX】2022-01-19-iCloud+-2T-家庭](https://www.v2ex.com/t/829286) 
+- [【V2EX】2022-01-19--求职产品经理-产品经理求职](https://www.v2ex.com/t/829285) 
 - [【V2EX】2022-01-19-苹果在线商店教育优惠需要通过-UNiDAYS-进行验证了](https://www.v2ex.com/t/829284) 
 - [【V2EX】2022-01-19-酒桌上应酬（你是做什么工作的啊）](https://www.v2ex.com/t/829283) 
 - [【V2EX】2022-01-19-为什么-macOS-执行-man-这么慢？](https://www.v2ex.com/t/829282) 
@@ -225,9 +229,6 @@
 - [【V2EX】2022-01-19-M1-Max-MacOS-12.1-在-Safari-没了-youtube-的-8k-视频选项](https://www.v2ex.com/t/829241) 
 - [【V2EX】2022-01-19-天猫有假货吗？当我在一家药店买到假货时，管中窥豹。](https://www.v2ex.com/t/829240) 
 - [【V2EX】2022-01-19-套路云不但是全球最大的中文内容农场，还是全球最大的垃圾内容农场](https://www.v2ex.com/t/829239) 
-- [【V2EX】2022-01-19-数字人民币到底有什么作用存在的意义？](https://www.v2ex.com/t/829237) 
-- [【V2EX】2022-01-19-想买笔电求推荐](https://www.v2ex.com/t/829236) 
-- [【V2EX】2022-01-19-说说我最近远程的情况](https://www.v2ex.com/t/829235) 
 - [【技术头条】2022-01-19-高效编写测试用例的技巧-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14906&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fwrite-effective-testcases-tips%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-01-19-软件工程师应该如何吵架？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14905&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fsoftware-engineer-quarrel-culture%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-01-19-Python之禅：编写优雅Python代码的16个原则-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14904&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493176%26amp%3Bidx%3D1%26amp%3Bsn%3Df2d627b156b058851c889b4445e11ec1%26amp%3Bchksm%3Dfa3f0763cd488e75569fb239eac349981802ba866826795ead0d9b7546d81579eed97e34bb65%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -252,8 +253,8 @@
 - [【开发者头条】2022-01-19-深度剖析-Seata-TCC-模式【图解-+-源码分析】](https://toutiao.io/k/dxwt6fy) 
 - [【开发者头条】2022-01-19-带你彻底击溃跳表原理及其Golang实现！（内含图解）](https://toutiao.io/k/fp0dy5f) 
 - [【开发者头条】2022-01-19-Python代替Excel-VBA，原来真的可以](https://toutiao.io/k/zqnpdh9) 
-- [【开发者头条】2022-01-19-Flutter-For-Web-编译的两种方案](https://toutiao.io/k/t34zvms) 
 - [【开发者头条】2022-01-19-一位程序员的财务自由之路](https://toutiao.io/k/libwh52) 
+- [【开发者头条】2022-01-19-Flutter-For-Web-编译的两种方案](https://toutiao.io/k/t34zvms) 
 - [【开发者头条】2022-01-19-伴鱼事件分析平台设计](https://toutiao.io/k/1q1s2t1) 
 - [【开发者头条】2022-01-19-大吉大利虎年春节猫福盒，点击链接立即领券购买！](https://toutiao.io/k/y5ztper) 
 - [【开发者头条】2022-01-19-NVS-——-js-实现的node版本管理工具](https://toutiao.io/k/rjwd2wq) 
@@ -266,20 +267,20 @@
 - [【开发者头条】2022-01-19-代码质量第2层-可重用的代码](https://toutiao.io/k/2d6u1v9) 
 - [【开发者头条】2022-01-19-Form-表单在数栈的应用下：深入篇](https://toutiao.io/k/jtv0j02) 
 - [【开发者头条】2022-01-19-阿里云容器服务差异化-SLO-混部技术实践](https://toutiao.io/k/xgkpiyh) 
-- [【开发者头条】2022-01-19-推荐-浅谈缓存最终一致性的解决方案](https://toutiao.io/k/mgym1lv) 
-- [【开发者头条】2022-01-19-推荐-网络编程怎么做才算是优雅？](https://toutiao.io/k/zylzzpi) 
-- [【开发者头条】2022-01-19-推荐-干货总结！Kafka-面试大全（万字长文，37-张图，28-个知识点）](https://toutiao.io/k/f9qe7be) 
-- [【开发者头条】2022-01-19-推荐-从零打造-Instagram](https://toutiao.io/k/hufqvji) 
-- [【开发者头条】2022-01-19-推荐-京东ClickHouse的实践之路](https://toutiao.io/k/j0r6746) 
-- [【开发者头条】2022-01-19-推荐-关于代码质量退化的思考](https://toutiao.io/k/zzaz6vu) 
-- [【开发者头条】2022-01-19-推荐-面渣逆袭：Java并发六十问，图文详解，快来看看你会多少道！](https://toutiao.io/k/4ndh1gd) 
-- [【开发者头条】2022-01-19-推荐-服务探活的五种方式](https://toutiao.io/k/1wuwmui) 
-- [【开发者头条】2022-01-19-推荐-用规则引擎让你一天上线十个需求](https://toutiao.io/k/ldd1cse) 
 - [【开发者头条】2022-01-19-推荐-JVM调优的几种场景（建议收藏）](https://toutiao.io/k/0mfx2nd) 
+- [【开发者头条】2022-01-19-推荐-用规则引擎让你一天上线十个需求](https://toutiao.io/k/ldd1cse) 
+- [【开发者头条】2022-01-19-推荐-网络编程怎么做才算是优雅？](https://toutiao.io/k/zylzzpi) 
+- [【开发者头条】2022-01-19-推荐-缓存一致性最佳实践](https://toutiao.io/k/ymscqc1) 
+- [【开发者头条】2022-01-19-推荐-服务探活的五种方式](https://toutiao.io/k/1wuwmui) 
+- [【开发者头条】2022-01-19-推荐-京东ClickHouse的实践之路](https://toutiao.io/k/j0r6746) 
 - [【开发者头条】2022-01-19-推荐-据说看完这篇-JVM-要一小时](https://toutiao.io/k/1dauixx) 
 - [【开发者头条】2022-01-19-推荐-再见了-VMware，一款更轻量级的虚拟机！](https://toutiao.io/k/xw2lnva) 
+- [【开发者头条】2022-01-19-推荐-干货总结！Kafka-面试大全（万字长文，37-张图，28-个知识点）](https://toutiao.io/k/f9qe7be) 
+- [【开发者头条】2022-01-19-推荐-从零打造-Instagram](https://toutiao.io/k/hufqvji) 
+- [【开发者头条】2022-01-19-推荐-关于代码质量退化的思考](https://toutiao.io/k/zzaz6vu) 
+- [【开发者头条】2022-01-19-推荐-浅谈缓存最终一致性的解决方案](https://toutiao.io/k/mgym1lv) 
+- [【开发者头条】2022-01-19-推荐-面渣逆袭：Java并发六十问，图文详解，快来看看你会多少道！](https://toutiao.io/k/4ndh1gd) 
 - [【开发者头条】2022-01-19-推荐-从零开始搭建公司微服务授权架构技术栈（3种模式），这架构稳的一批...](https://toutiao.io/k/4g58j8v) 
-- [【开发者头条】2022-01-19-推荐-缓存一致性最佳实践](https://toutiao.io/k/ymscqc1) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

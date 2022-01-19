@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-01-19 09:41:42。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-01-19 09:54:27。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -291,8 +291,8 @@
 - [【V2EX】Shopee-后台开发工程师深圳-content--Friends-方向](https://www.v2ex.com/t/829244)
 - [【技术头条】API面试四连杀：接口如何设计？安全如何保证？签名如何实现？防重如何实现？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14901&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493135%26amp%3Bidx%3D2%26amp%3Bsn%3D4569a4965be1a6e8b85369edd7fc91dc%26amp%3Bchksm%3Dfa3f0754cd488e427c9670d6aa67e0693725ee332f26e011767ba85562bd6bb08a65cc8aaaba%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【技术头条】一文读懂浏览器存储与缓存机制-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=14896&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F422666602%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
-- [【开发者头条】推荐-浅谈缓存最终一致性的解决方案](https://toutiao.io/k/mgym1lv)
 - [【开发者头条】推荐-缓存一致性最佳实践](https://toutiao.io/k/ymscqc1)
+- [【开发者头条】推荐-浅谈缓存最终一致性的解决方案](https://toutiao.io/k/mgym1lv)
 - [......【查看更多】......](./details/tags/browser.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -417,6 +417,7 @@
 
 
 
+- [【武汉肺炎防疫全纪录(财新网)】最新疫情：全国新冠累计确诊105345例-累计接种新冠疫苗超29.47亿剂次](https://m.caixin.com/m/2022-01-19/101832259.html)
 - [【武汉肺炎防疫全纪录(财新网)】全球首现仓鼠感染新冠-港府拟大规模扑杀](https://m.caixin.com/m/2022-01-19/101831948.html)
 - [【武汉肺炎防疫全纪录(财新网)】最新海外疫情：新冠感染超3.33亿-累计接种新冠疫苗超97.03亿剂次](https://m.caixin.com/m/2022-01-19/101832247.html)
 - [【武汉肺炎防疫全纪录(财新网)】【境内疫情观察】全国新增55例本土病例（1月18日）](https://database.caixin.com/m/2022-01-19/101832127.html)
@@ -436,7 +437,6 @@
 - [【武汉肺炎防疫全纪录(财新网)】国际邮件检出奥密克戎-如何看待新冠病毒“物传人”](https://science.caixin.com/m/2022-01-17/101831238.html)
 - [【武汉肺炎防疫全纪录(财新网)】【图集】上海市民双休日积极防疫-排长队接种新冠疫苗](https://photos.caixin.com/m/2022-01-17/101831096.html)
 - [【武汉肺炎防疫全纪录(财新网)】深圳新增一名奥密克戎病例-轨迹所涉妇幼保健院停诊](https://m.caixin.com/m/2022-01-16/101830873.html)
-- [【武汉肺炎防疫全纪录(财新网)】【境内疫情观察】全国新增65例本土病例（1月15日）](https://database.caixin.com/m/2022-01-16/101830807.html)
 - [......【查看更多】......](./details/tags/other.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

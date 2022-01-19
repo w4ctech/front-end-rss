@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-19 02:25:15，:rocket: 更新条数: +1786， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-19 02:42:32，:rocket: 更新条数: +1785， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,12 @@
 </summary>
 
 
+- [2022-01-19-公司安全软件每-15-秒会偷偷截一次屏](https://www.v2ex.com/t/829156) ![](assets/new.png)  
+- [2022-01-19-咸鱼上的京东代售家电靠谱吗？](https://www.v2ex.com/t/829153) ![](assets/new.png)  
+- [2022-01-19-阿里小号放货，价格上涨，-120-元/年，-10-元/月。](https://www.v2ex.com/t/829151) ![](assets/new.png)  
+- [2022-01-19-快过年了，你们开始裁员了吗](https://www.v2ex.com/t/829150) ![](assets/new.png)  
+- [2022-01-19-新手有个问题:-go-写的-grpc-服务,-部署到-k8s-ingress,-客户端调用报错-DNS-resolution-failed-for-service](https://www.v2ex.com/t/829149) ![](assets/new.png)  
+- [2022-01-19-文件共享方案求推荐](https://www.v2ex.com/t/829148) ![](assets/new.png)  
 - [2022-01-19-无需下载，一个摸鱼站点，支持-windows-与-Mac](https://www.v2ex.com/t/829146) ![](assets/new.png)  
 - [2022-01-19-送码-花了近三个月独立设计和开发了一款专注于自我管理的-App-瓦尔登，上线三天即获得苹果官方编辑推荐，希望大家也喜欢，目前功能包含了进度管理、四象限待办...](https://www.v2ex.com/t/829145) ![](assets/new.png)  
 - [2022-01-19-易文档新增了一个类似-Typora-的编辑器，来体验下](https://www.v2ex.com/t/829144) ![](assets/new.png)  
@@ -508,12 +514,6 @@
 - [2022-01-19-wow-会不会再换运营商呀？](https://www.v2ex.com/t/829132) ![](assets/new.png)  
 - [2022-01-19-关于-Apple-One-订阅的问题](https://www.v2ex.com/t/829131) ![](assets/new.png)  
 - [2022-01-19-无法平衡工作和游戏，应该-放弃游戏-or-适当游戏？](https://www.v2ex.com/t/829129) ![](assets/new.png)  
-- [2022-01-19-nas-机械硬盘都会咯咯咯的响么](https://www.v2ex.com/t/829128) ![](assets/new.png)  
-- [2022-01-19-都-2022-年了，哪些手机-App-还在使用不安全的未加密-HTTP-连接呢？](https://www.v2ex.com/t/829127) ![](assets/new.png)  
-- [2022-01-19-如何不用三大运营商网络进行上网](https://www.v2ex.com/t/829126) ![](assets/new.png)  
-- [2022-01-19-行程码带*星号能否进京](https://www.v2ex.com/t/829125) ![](assets/new.png)  
-- [2022-01-19-有没有关注帖子的功能？因为对于一些技术贴，没能力回复，但想持续关注帖子的回复。](https://www.v2ex.com/t/829124) ![](assets/new.png)  
-- [2022-01-19-hub.fastgit.org-挂了，还有什么服务器访问-GitHub-的好办法吗？](https://www.v2ex.com/t/829123) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -562,20 +562,20 @@
 - [2022-01-19-带你彻底击溃跳表原理及其Golang实现！（内含图解）](https://toutiao.io/k/fp0dy5f) ![](assets/new.png)  
 - [2022-01-19-大吉大利虎年春节猫福盒，点击链接立即领券购买！](https://toutiao.io/k/y5ztper) ![](assets/new.png)  
 - [2022-01-19-伴鱼事件分析平台设计](https://toutiao.io/k/1q1s2t1) ![](assets/new.png)  
-- [2022-01-19-NVS-——-js-实现的node版本管理工具](https://toutiao.io/k/rjwd2wq) ![](assets/new.png)  
 - [2022-01-19-一位程序员的财务自由之路](https://toutiao.io/k/libwh52) ![](assets/new.png)  
+- [2022-01-19-NVS-——-js-实现的node版本管理工具](https://toutiao.io/k/rjwd2wq) ![](assets/new.png)  
 - [2022-01-19-超硬核！详解Apache-Hudi灵活的Payload机制](https://toutiao.io/k/sjeouk4) ![](assets/new.png)  
 - [2022-01-19-安全团队不可错过的7个开源工具](https://toutiao.io/k/6b3enyo) ![](assets/new.png)  
-- [2022-01-19-KubeDL-HostNetwork：加速分布式训练通信效率](https://toutiao.io/k/no4tj9h) ![](assets/new.png)  
 - [2022-01-19-2021-大促-AntMonitor-总结---云原生-Prometheus-监控实践](https://toutiao.io/k/ajqw8gn) ![](assets/new.png)  
+- [2022-01-19-KubeDL-HostNetwork：加速分布式训练通信效率](https://toutiao.io/k/no4tj9h) ![](assets/new.png)  
 - [2022-01-19-Flutter-For-Web-编译的两种方案](https://toutiao.io/k/t34zvms) ![](assets/new.png)  
 - [2022-01-19-动手实现一个适用于.NET-Core-的诊断工具](https://toutiao.io/k/6r068w9) ![](assets/new.png)  
-- [2022-01-19-推荐-从零开始搭建公司微服务授权架构技术栈（3种模式），这架构稳的一批...](https://toutiao.io/k/4g58j8v) ![](assets/new.png)  
-- [2022-01-19-推荐-网络编程怎么做才算是优雅？](https://toutiao.io/k/zylzzpi) ![](assets/new.png)  
-- [2022-01-19-推荐-服务探活的五种方式](https://toutiao.io/k/1wuwmui) ![](assets/new.png)  
-- [2022-01-19-推荐-面渣逆袭：Java并发六十问，图文详解，快来看看你会多少道！](https://toutiao.io/k/4ndh1gd) ![](assets/new.png)  
 - [2022-01-19-推荐-京东ClickHouse的实践之路](https://toutiao.io/k/j0r6746) ![](assets/new.png)  
+- [2022-01-19-推荐-从零打造-Instagram](https://toutiao.io/k/hufqvji) ![](assets/new.png)  
+- [2022-01-19-推荐-网络编程怎么做才算是优雅？](https://toutiao.io/k/zylzzpi) ![](assets/new.png)  
 - [2022-01-19-推荐-用规则引擎让你一天上线十个需求](https://toutiao.io/k/ldd1cse) ![](assets/new.png)  
+- [2022-01-19-推荐-浅谈缓存最终一致性的解决方案](https://toutiao.io/k/mgym1lv) ![](assets/new.png)  
+- [2022-01-19-推荐-服务探活的五种方式](https://toutiao.io/k/1wuwmui) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

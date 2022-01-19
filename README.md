@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-19 07:54:25，:rocket: 更新条数: +1791， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-19 08:14:21，:rocket: 更新条数: +1788， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,10 @@
 </summary>
 
 
+- [2022-01-19-提肛有用吗？](https://www.v2ex.com/t/829258) ![](assets/new.png)  
+- [2022-01-19-第三方供应商长时间没有推送数据，这到底是我们自己的锅还是供应商的锅？](https://www.v2ex.com/t/829257) ![](assets/new.png)  
+- [2022-01-19-网易-游戏周边商城前后端岗位招新同学了](https://www.v2ex.com/t/829254) ![](assets/new.png)  
+- [2022-01-19-什么样的英文水平可以流畅地阅读英文书籍和文档，顺便求个学习路线](https://www.v2ex.com/t/829253) ![](assets/new.png)  
 - [2022-01-19-想好好体验个-60-的-wow，求规则推荐](https://www.v2ex.com/t/829251) ![](assets/new.png)  
 - [2022-01-19-为什么有些文档的作者这么人上人](https://www.v2ex.com/t/829250) ![](assets/new.png)  
 - [2022-01-19-PHP-amqp-的扩展-疑问](https://www.v2ex.com/t/829249) ![](assets/new.png)  
@@ -510,10 +514,6 @@
 - [2022-01-19-图片合成视频的技术方案](https://www.v2ex.com/t/829234) ![](assets/new.png)  
 - [2022-01-19-求推荐一款可插入视频的安卓便签记本事](https://www.v2ex.com/t/829233) ![](assets/new.png)  
 - [2022-01-19-各位的自建笔记里都会记点什么](https://www.v2ex.com/t/829232) ![](assets/new.png)  
-- [2022-01-19-github-怎么看某个-mr-合在哪个版本release发布了?](https://www.v2ex.com/t/829230) ![](assets/new.png)  
-- [2022-01-19-AirPods-3-只能支持-MACOS12-以上的系统，有什么办法可以在-Catalina-系统使用吗？](https://www.v2ex.com/t/829229) ![](assets/new.png)  
-- [2022-01-19-Youtube-Premium-印度车有一起的吗？-45-一年](https://www.v2ex.com/t/829228) ![](assets/new.png)  
-- [2022-01-19-已发布的-Kubernetes-v1.23-较上一版本功能有哪些增强？](https://www.v2ex.com/t/829227) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -574,8 +574,8 @@
 - [2022-01-19-代码质量第2层-可重用的代码](https://toutiao.io/k/2d6u1v9) ![](assets/new.png)  
 - [2022-01-19-Form-表单在数栈的应用下：深入篇](https://toutiao.io/k/jtv0j02) ![](assets/new.png)  
 - [2022-01-19-阿里云容器服务差异化-SLO-混部技术实践](https://toutiao.io/k/xgkpiyh) ![](assets/new.png)  
-- [2022-01-19-推荐-干货总结！Kafka-面试大全（万字长文，37-张图，28-个知识点）](https://toutiao.io/k/f9qe7be) ![](assets/new.png)  
-- [2022-01-19-推荐-关于代码质量退化的思考](https://toutiao.io/k/zzaz6vu) ![](assets/new.png)  
+- [2022-01-19-推荐-JVM调优的几种场景（建议收藏）](https://toutiao.io/k/0mfx2nd) ![](assets/new.png)  
+- [2022-01-19-推荐-据说看完这篇-JVM-要一小时](https://toutiao.io/k/1dauixx) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

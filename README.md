@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-19 06:47:55，:rocket: 更新条数: +1790， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-19 07:10:26，:rocket: 更新条数: +1791， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,11 @@
 </summary>
 
 
+- [2022-01-19-数字人民币到底有什么作用存在的意义？](https://www.v2ex.com/t/829237) ![](assets/new.png)  
+- [2022-01-19-想买笔电求推荐](https://www.v2ex.com/t/829236) ![](assets/new.png)  
+- [2022-01-19-说说我最近远程的情况](https://www.v2ex.com/t/829235) ![](assets/new.png)  
+- [2022-01-19-图片合成视频的技术方案](https://www.v2ex.com/t/829234) ![](assets/new.png)  
+- [2022-01-19-求推荐一款可插入视频的安卓便签记本事](https://www.v2ex.com/t/829233) ![](assets/new.png)  
 - [2022-01-19-各位的自建笔记里都会记点什么](https://www.v2ex.com/t/829232) ![](assets/new.png)  
 - [2022-01-19-github-怎么看某个-mr-合在哪个版本release发布了?](https://www.v2ex.com/t/829230) ![](assets/new.png)  
 - [2022-01-19-AirPods-3-只能支持-MACOS12-以上的系统，有什么办法可以在-Catalina-系统使用吗？](https://www.v2ex.com/t/829229) ![](assets/new.png)  
@@ -509,11 +514,6 @@
 - [2022-01-19-如果国内有一款纯粹的-IM-软件横空出世，你会去用吗？](https://www.v2ex.com/t/829217) ![](assets/new.png)  
 - [2022-01-19-Django-如何获取-apscheduler-的-scheduler-实例？](https://www.v2ex.com/t/829216) ![](assets/new.png)  
 - [2022-01-19-让你的站点（Web）一键变成-APP（应用程序）（上）](https://www.v2ex.com/t/829214) ![](assets/new.png)  
-- [2022-01-19-21-世纪聊天功能退化的人们，聊天记录分享网站，关联-直男-，不会聊天-，类似书签地球，-galgame](https://www.v2ex.com/t/829212) ![](assets/new.png)  
-- [2022-01-19-细思极恐，内网电脑上没有安装防护软件，省公司为什么能扫描到病毒？](https://www.v2ex.com/t/829211) ![](assets/new.png)  
-- [2022-01-19-写了个-Alfred-Workflow-Store，可以搜索&一键安装-Workflow](https://www.v2ex.com/t/829210) ![](assets/new.png)  
-- [2022-01-19-分享一个可以导出-word-文件的编辑器](https://www.v2ex.com/t/829209) ![](assets/new.png)  
-- [2022-01-19-成都金牛区茶店子附近有房子出租吗，年后要租房子，套二最好，有的加微信号联系哟：-AD_BEAUTIFUL](https://www.v2ex.com/t/829208) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -571,11 +571,11 @@
 - [2022-01-19-动手实现一个适用于.NET-Core-的诊断工具](https://toutiao.io/k/6r068w9) ![](assets/new.png)  
 - [2022-01-19-深入浅出Apache-Pulsar（2）：Pulsar消息机制](https://toutiao.io/k/vd8ag4a) ![](assets/new.png)  
 - [2022-01-19-深入理解-CPU-的调度原理](https://toutiao.io/k/n5mdm2x) ![](assets/new.png)  
-- [2022-01-19-Form-表单在数栈的应用下：深入篇](https://toutiao.io/k/jtv0j02) ![](assets/new.png)  
 - [2022-01-19-代码质量第2层-可重用的代码](https://toutiao.io/k/2d6u1v9) ![](assets/new.png)  
+- [2022-01-19-Form-表单在数栈的应用下：深入篇](https://toutiao.io/k/jtv0j02) ![](assets/new.png)  
 - [2022-01-19-阿里云容器服务差异化-SLO-混部技术实践](https://toutiao.io/k/xgkpiyh) ![](assets/new.png)  
-- [2022-01-19-推荐-JVM调优的几种场景（建议收藏）](https://toutiao.io/k/0mfx2nd) ![](assets/new.png)  
-- [2022-01-19-推荐-用规则引擎让你一天上线十个需求](https://toutiao.io/k/ldd1cse) ![](assets/new.png)  
+- [2022-01-19-推荐-从零打造-Instagram](https://toutiao.io/k/hufqvji) ![](assets/new.png)  
+- [2022-01-19-推荐-服务探活的五种方式](https://toutiao.io/k/1wuwmui) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

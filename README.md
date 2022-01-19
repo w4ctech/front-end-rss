@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-19 09:12:55，:rocket: 更新条数: +1783， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-19 09:21:33，:rocket: 更新条数: +1784， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,9 @@
 </summary>
 
 
+- [2022-01-19-在线问上海哪里可以打第三针可以送奖品](https://www.v2ex.com/t/829279) ![](assets/new.png)  
+- [2022-01-19-2021-年，对于互联网公司，是过去十年最差的一年，却是未来十年最好的一年。](https://www.v2ex.com/t/829278) ![](assets/new.png)  
+- [2022-01-19-前端、后端、运维、测试、大数据的同学大家看过来了，-zenlayer-研发团队扩招了，可以年后入职](https://www.v2ex.com/t/829277) ![](assets/new.png)  
 - [2022-01-19-IOS/Vue-开发者转战-Android-了，如何才能不被开除，求指教！](https://www.v2ex.com/t/829274) ![](assets/new.png)  
 - [2022-01-19-SM.MS-图床新年优惠，终身会员仅需-29-美元！](https://www.v2ex.com/t/829272) ![](assets/new.png)  
 - [2022-01-19-学大数据现在还有搞头吗？](https://www.v2ex.com/t/829271) ![](assets/new.png)  
@@ -511,9 +514,6 @@
 - [2022-01-19-想好好体验个-60-的-wow，求规则推荐](https://www.v2ex.com/t/829251) ![](assets/new.png)  
 - [2022-01-19-为什么有些文档的作者这么人上人](https://www.v2ex.com/t/829250) ![](assets/new.png)  
 - [2022-01-19-PHP-amqp-的扩展-疑问](https://www.v2ex.com/t/829249) ![](assets/new.png)  
-- [2022-01-19-请问下大家，成品显卡能否自己买一体水冷散热器给装上？](https://www.v2ex.com/t/829246) ![](assets/new.png)  
-- [2022-01-19-Shopee-后台开发工程师深圳-content--Friends-方向](https://www.v2ex.com/t/829244) ![](assets/new.png)  
-- [2022-01-19-微信-电脑端-消息加载时间越来越离谱了](https://www.v2ex.com/t/829243) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -574,8 +574,8 @@
 - [2022-01-19-代码质量第2层-可重用的代码](https://toutiao.io/k/2d6u1v9) ![](assets/new.png)  
 - [2022-01-19-Form-表单在数栈的应用下：深入篇](https://toutiao.io/k/jtv0j02) ![](assets/new.png)  
 - [2022-01-19-阿里云容器服务差异化-SLO-混部技术实践](https://toutiao.io/k/xgkpiyh) ![](assets/new.png)  
-- [2022-01-19-推荐-JVM调优的几种场景（建议收藏）](https://toutiao.io/k/0mfx2nd) ![](assets/new.png)  
-- [2022-01-19-推荐-再见了-VMware，一款更轻量级的虚拟机！](https://toutiao.io/k/xw2lnva) ![](assets/new.png)  
+- [2022-01-19-推荐-服务探活的五种方式](https://toutiao.io/k/1wuwmui) ![](assets/new.png)  
+- [2022-01-19-推荐-浅谈缓存最终一致性的解决方案](https://toutiao.io/k/mgym1lv) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

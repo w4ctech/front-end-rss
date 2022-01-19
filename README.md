@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-19 10:12:37，:rocket: 更新条数: +1785， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-19 10:22:40，:rocket: 更新条数: +1785， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,8 @@
 </summary>
 
 
+- [2022-01-19-nginx-进程个数问题](https://www.v2ex.com/t/829295) ![](assets/new.png)  
+- [2022-01-19-Apple-在-iOS15-中-依然信任-CNNIC、WoSign、StartCom-这三个机构签发的证书，请教各位大佬应该如何屏蔽](https://www.v2ex.com/t/829294) ![](assets/new.png)  
 - [2022-01-19-有-Android-逆向大佬吗，有偿求助](https://www.v2ex.com/t/829293) ![](assets/new.png)  
 - [2022-01-19-有谁曾经有那么一刻感觉公司的“企业文化”不仅仅是一句口号，而确确实实在促进公司发展方面起了巨大作用的？](https://www.v2ex.com/t/829292) ![](assets/new.png)  
 - [2022-01-19-开发一款-macos-软件的基本流程](https://www.v2ex.com/t/829290) ![](assets/new.png)  
@@ -512,8 +514,6 @@
 - [2022-01-19-前端、后端、运维、测试、大数据的同学大家看过来了，-zenlayer-研发团队扩招了，可以年后入职](https://www.v2ex.com/t/829277) ![](assets/new.png)  
 - [2022-01-19-IOS/Vue-开发者转战-Android-了，如何才能不被开除，求指教！](https://www.v2ex.com/t/829274) ![](assets/new.png)  
 - [2022-01-19-SM.MS-图床新年优惠，终身会员仅需-29-美元！](https://www.v2ex.com/t/829272) ![](assets/new.png)  
-- [2022-01-19-学大数据现在还有搞头吗？](https://www.v2ex.com/t/829271) ![](assets/new.png)  
-- [2022-01-19-过去的朋友借款写了我作为紧急联系人，最近我开始被骚扰了。](https://www.v2ex.com/t/829269) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -574,7 +574,7 @@
 - [2022-01-19-代码质量第2层-可重用的代码](https://toutiao.io/k/2d6u1v9) ![](assets/new.png)  
 - [2022-01-19-Form-表单在数栈的应用下：深入篇](https://toutiao.io/k/jtv0j02) ![](assets/new.png)  
 - [2022-01-19-阿里云容器服务差异化-SLO-混部技术实践](https://toutiao.io/k/xgkpiyh) ![](assets/new.png)  
-- [2022-01-19-推荐-关于代码质量退化的思考](https://toutiao.io/k/zzaz6vu) ![](assets/new.png)  
+- [2022-01-19-推荐-据说看完这篇-JVM-要一小时](https://toutiao.io/k/1dauixx) ![](assets/new.png)  
 - [2022-01-19-推荐-浅谈缓存最终一致性的解决方案](https://toutiao.io/k/mgym1lv) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

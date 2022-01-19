@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-19 02:47:28，:rocket: 更新条数: +1785， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-19 02:54:50，:rocket: 更新条数: +1782， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,10 @@
 </summary>
 
 
+- [2022-01-19-登录新机-icloud-需要验证旧-iPhone-的锁屏密码，忘记咋办？](https://www.v2ex.com/t/829163) ![](assets/new.png)  
+- [2022-01-19-iOS-播放音频有-安卓-上的-SRC-问题吗](https://www.v2ex.com/t/829161) ![](assets/new.png)  
+- [2022-01-19-typora-不让白嫖了，还有其他类似软件可以代替吗](https://www.v2ex.com/t/829160) ![](assets/new.png)  
+- [2022-01-19-微软收购动视暴雪好像-V2-大家都没讨论诶](https://www.v2ex.com/t/829157) ![](assets/new.png)  
 - [2022-01-19-公司安全软件每-15-秒会偷偷截一次屏](https://www.v2ex.com/t/829156) ![](assets/new.png)  
 - [2022-01-19-咸鱼上的京东代售家电靠谱吗？](https://www.v2ex.com/t/829153) ![](assets/new.png)  
 - [2022-01-19-阿里小号放货，价格上涨，-120-元/年，-10-元/月。](https://www.v2ex.com/t/829151) ![](assets/new.png)  
@@ -510,10 +514,6 @@
 - [2022-01-19-关于-Java-的异步-HTTP-请求](https://www.v2ex.com/t/829136) ![](assets/new.png)  
 - [2022-01-19-NUC11i5-猎豹峡谷开发-Java](https://www.v2ex.com/t/829135) ![](assets/new.png)  
 - [2022-01-19-iPad-怎么投到-显示器上。流畅点。不卡帧？像笔记本一样，可以操作](https://www.v2ex.com/t/829134) ![](assets/new.png)  
-- [2022-01-19-为什么-System-Report-中-Postman-等的类型显示为-iOS](https://www.v2ex.com/t/829133) ![](assets/new.png)  
-- [2022-01-19-wow-会不会再换运营商呀？](https://www.v2ex.com/t/829132) ![](assets/new.png)  
-- [2022-01-19-关于-Apple-One-订阅的问题](https://www.v2ex.com/t/829131) ![](assets/new.png)  
-- [2022-01-19-无法平衡工作和游戏，应该-放弃游戏-or-适当游戏？](https://www.v2ex.com/t/829129) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -566,15 +566,15 @@
 - [2022-01-19-NVS-——-js-实现的node版本管理工具](https://toutiao.io/k/rjwd2wq) ![](assets/new.png)  
 - [2022-01-19-超硬核！详解Apache-Hudi灵活的Payload机制](https://toutiao.io/k/sjeouk4) ![](assets/new.png)  
 - [2022-01-19-安全团队不可错过的7个开源工具](https://toutiao.io/k/6b3enyo) ![](assets/new.png)  
-- [2022-01-19-2021-大促-AntMonitor-总结---云原生-Prometheus-监控实践](https://toutiao.io/k/ajqw8gn) ![](assets/new.png)  
 - [2022-01-19-KubeDL-HostNetwork：加速分布式训练通信效率](https://toutiao.io/k/no4tj9h) ![](assets/new.png)  
+- [2022-01-19-2021-大促-AntMonitor-总结---云原生-Prometheus-监控实践](https://toutiao.io/k/ajqw8gn) ![](assets/new.png)  
 - [2022-01-19-Flutter-For-Web-编译的两种方案](https://toutiao.io/k/t34zvms) ![](assets/new.png)  
 - [2022-01-19-动手实现一个适用于.NET-Core-的诊断工具](https://toutiao.io/k/6r068w9) ![](assets/new.png)  
-- [2022-01-19-推荐-京东ClickHouse的实践之路](https://toutiao.io/k/j0r6746) ![](assets/new.png)  
 - [2022-01-19-推荐-从零打造-Instagram](https://toutiao.io/k/hufqvji) ![](assets/new.png)  
+- [2022-01-19-推荐-干货总结！Kafka-面试大全（万字长文，37-张图，28-个知识点）](https://toutiao.io/k/f9qe7be) ![](assets/new.png)  
+- [2022-01-19-推荐-据说看完这篇-JVM-要一小时](https://toutiao.io/k/1dauixx) ![](assets/new.png)  
 - [2022-01-19-推荐-网络编程怎么做才算是优雅？](https://toutiao.io/k/zylzzpi) ![](assets/new.png)  
-- [2022-01-19-推荐-用规则引擎让你一天上线十个需求](https://toutiao.io/k/ldd1cse) ![](assets/new.png)  
-- [2022-01-19-推荐-浅谈缓存最终一致性的解决方案](https://toutiao.io/k/mgym1lv) ![](assets/new.png)  
+- [2022-01-19-推荐-从零开始搭建公司微服务授权架构技术栈（3种模式），这架构稳的一批...](https://toutiao.io/k/4g58j8v) ![](assets/new.png)  
 - [2022-01-19-推荐-服务探活的五种方式](https://toutiao.io/k/1wuwmui) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

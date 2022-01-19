@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-19 06:25:13，:rocket: 更新条数: +1790， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-19 06:44:19，:rocket: 更新条数: +1790， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,8 +494,13 @@
 </summary>
 
 
+- [2022-01-19-各位的自建笔记里都会记点什么](https://www.v2ex.com/t/829232) ![](assets/new.png)  
+- [2022-01-19-github-怎么看某个-mr-合在哪个版本release发布了?](https://www.v2ex.com/t/829230) ![](assets/new.png)  
+- [2022-01-19-AirPods-3-只能支持-MACOS12-以上的系统，有什么办法可以在-Catalina-系统使用吗？](https://www.v2ex.com/t/829229) ![](assets/new.png)  
+- [2022-01-19-Youtube-Premium-印度车有一起的吗？-45-一年](https://www.v2ex.com/t/829228) ![](assets/new.png)  
+- [2022-01-19-已发布的-Kubernetes-v1.23-较上一版本功能有哪些增强？](https://www.v2ex.com/t/829227) ![](assets/new.png)  
 - [2022-01-19-手贱在查找中抹掉了-mbp，开机后要求输入密码，可是一直提示不正确](https://www.v2ex.com/t/829225) ![](assets/new.png)  
-- [2022-01-19-前端开发工程师深圳-content--Friends-方向](https://www.v2ex.com/t/829224) ![](assets/new.png)  
+- [2022-01-19-Shopee-前端开发工程师深圳-content--Friends-方向](https://www.v2ex.com/t/829224) ![](assets/new.png)  
 - [2022-01-19-你们手痒吗？](https://www.v2ex.com/t/829223) ![](assets/new.png)  
 - [2022-01-19-关于我年终绩效拿了-B-这件事](https://www.v2ex.com/t/829222) ![](assets/new.png)  
 - [2022-01-19-如何导出那些支持-iCloud-同步的-app-存储在-iCloud-里的数据？](https://www.v2ex.com/t/829221) ![](assets/new.png)  
@@ -509,11 +514,6 @@
 - [2022-01-19-写了个-Alfred-Workflow-Store，可以搜索&一键安装-Workflow](https://www.v2ex.com/t/829210) ![](assets/new.png)  
 - [2022-01-19-分享一个可以导出-word-文件的编辑器](https://www.v2ex.com/t/829209) ![](assets/new.png)  
 - [2022-01-19-成都金牛区茶店子附近有房子出租吗，年后要租房子，套二最好，有的加微信号联系哟：-AD_BEAUTIFUL](https://www.v2ex.com/t/829208) ![](assets/new.png)  
-- [2022-01-19-Chrome-插件：提醒你正在摸鱼，摸鱼的时候知道自己在摸鱼，减少摸鱼的时间和频率。](https://www.v2ex.com/t/829207) ![](assets/new.png)  
-- [2022-01-19-aiohttp-咋么起多进程，复用端口呢?](https://www.v2ex.com/t/829206) ![](assets/new.png)  
-- [2022-01-19-有看《开端》吗？](https://www.v2ex.com/t/829205) ![](assets/new.png)  
-- [2022-01-19-張江高科一號口的早餐車換人了](https://www.v2ex.com/t/829204) ![](assets/new.png)  
-- [2022-01-19-28K-大小周-VS-26K-正常双休，如何选择](https://www.v2ex.com/t/829203) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -560,8 +560,8 @@
 - [2022-01-19-深度剖析-Seata-TCC-模式【图解-+-源码分析】](https://toutiao.io/k/dxwt6fy) ![](assets/new.png)  
 - [2022-01-19-带你彻底击溃跳表原理及其Golang实现！（内含图解）](https://toutiao.io/k/fp0dy5f) ![](assets/new.png)  
 - [2022-01-19-Python代替Excel-VBA，原来真的可以](https://toutiao.io/k/zqnpdh9) ![](assets/new.png)  
-- [2022-01-19-伴鱼事件分析平台设计](https://toutiao.io/k/1q1s2t1) ![](assets/new.png)  
 - [2022-01-19-一位程序员的财务自由之路](https://toutiao.io/k/libwh52) ![](assets/new.png)  
+- [2022-01-19-伴鱼事件分析平台设计](https://toutiao.io/k/1q1s2t1) ![](assets/new.png)  
 - [2022-01-19-Flutter-For-Web-编译的两种方案](https://toutiao.io/k/t34zvms) ![](assets/new.png)  
 - [2022-01-19-大吉大利虎年春节猫福盒，点击链接立即领券购买！](https://toutiao.io/k/y5ztper) ![](assets/new.png)  
 - [2022-01-19-NVS-——-js-实现的node版本管理工具](https://toutiao.io/k/rjwd2wq) ![](assets/new.png)  
@@ -574,8 +574,8 @@
 - [2022-01-19-Form-表单在数栈的应用下：深入篇](https://toutiao.io/k/jtv0j02) ![](assets/new.png)  
 - [2022-01-19-代码质量第2层-可重用的代码](https://toutiao.io/k/2d6u1v9) ![](assets/new.png)  
 - [2022-01-19-阿里云容器服务差异化-SLO-混部技术实践](https://toutiao.io/k/xgkpiyh) ![](assets/new.png)  
+- [2022-01-19-推荐-JVM调优的几种场景（建议收藏）](https://toutiao.io/k/0mfx2nd) ![](assets/new.png)  
 - [2022-01-19-推荐-用规则引擎让你一天上线十个需求](https://toutiao.io/k/ldd1cse) ![](assets/new.png)  
-- [2022-01-19-推荐-干货总结！Kafka-面试大全（万字长文，37-张图，28-个知识点）](https://toutiao.io/k/f9qe7be) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

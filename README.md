@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-19 00:37:54，:rocket: 更新条数: +1776， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-19 01:06:04，:rocket: 更新条数: +1776， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,8 @@
 </summary>
 
 
+- [2022-01-19-手机照片备份方案](https://www.v2ex.com/t/829120) ![](assets/new.png)  
+- [2022-01-19-xsx-和-ps5-是不是最后一个世代了](https://www.v2ex.com/t/829119) ![](assets/new.png)  
 - [2022-01-19-iOS-Safari-15-是不是绝对无法实现边缘手势（就是类似原生-App-那样从边上滑动返回之类的操作）？](https://www.v2ex.com/t/829118) ![](assets/new.png)  
 - [2022-01-18-Logitech-Options-9.50.122-终于修复了鼠标/键盘快捷键延迟问题](https://www.v2ex.com/t/829117) ![](assets/new.png)  
 - [2022-01-18-这样的网络安全设施是否已经存在了？](https://www.v2ex.com/t/829116) ![](assets/new.png)  
@@ -512,8 +514,6 @@
 - [2022-01-18-关于工作选择：想问下是在基础架构做-To-D-的业务，还是去业务部门做-To-C、To-B-的业务呢？](https://www.v2ex.com/t/829103) ![](assets/new.png)  
 - [2022-01-18-小蜜蜂平台有没有老哥了解](https://www.v2ex.com/t/829102) ![](assets/new.png)  
 - [2022-01-18-这是一种什么病?](https://www.v2ex.com/t/829100) ![](assets/new.png)  
-- [2022-01-18-邮件会被发到已经不用的企业邮箱里](https://www.v2ex.com/t/829099) ![](assets/new.png)  
-- [2022-01-18-Wi-Fi-6-测速疑问](https://www.v2ex.com/t/829097) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -557,25 +557,25 @@
 
 
 - [2022-01-19-大吉大利虎年春节猫福盒，点击链接立即领券购买！](https://toutiao.io/k/y5ztper) ![](assets/new.png)  
+- [2022-01-19-Python代替Excel-VBA，原来真的可以](https://toutiao.io/k/zqnpdh9) ![](assets/new.png)  
+- [2022-01-19-优雅整洁的-Java-代码命名技巧，风之极·净化](https://toutiao.io/k/abc8vou) ![](assets/new.png)  
 - [2022-01-19-带你彻底击溃跳表原理及其Golang实现！（内含图解）](https://toutiao.io/k/fp0dy5f) ![](assets/new.png)  
 - [2022-01-19-Python中有3个不可思议的返回功能](https://toutiao.io/k/7ly5137) ![](assets/new.png)  
-- [2022-01-19-Python代替Excel-VBA，原来真的可以](https://toutiao.io/k/zqnpdh9) ![](assets/new.png)  
 - [2022-01-19-深度剖析-Seata-TCC-模式【图解-+-源码分析】](https://toutiao.io/k/dxwt6fy) ![](assets/new.png)  
 - [2022-01-19-NVS-——-js-实现的node版本管理工具](https://toutiao.io/k/rjwd2wq) ![](assets/new.png)  
-- [2022-01-19-优雅整洁的-Java-代码命名技巧，风之极·净化](https://toutiao.io/k/abc8vou) ![](assets/new.png)  
 - [2022-01-19-伴鱼事件分析平台设计](https://toutiao.io/k/1q1s2t1) ![](assets/new.png)  
 - [2022-01-19-超硬核！详解Apache-Hudi灵活的Payload机制](https://toutiao.io/k/sjeouk4) ![](assets/new.png)  
-- [2022-01-19-推荐-缓存一致性最佳实践](https://toutiao.io/k/ymscqc1) ![](assets/new.png)  
-- [2022-01-19-推荐-JVM调优的几种场景（建议收藏）](https://toutiao.io/k/0mfx2nd) ![](assets/new.png)  
-- [2022-01-19-推荐-从零打造-Instagram](https://toutiao.io/k/hufqvji) ![](assets/new.png)  
+- [2022-01-19-推荐-京东ClickHouse的实践之路](https://toutiao.io/k/j0r6746) ![](assets/new.png)  
 - [2022-01-19-推荐-网络编程怎么做才算是优雅？](https://toutiao.io/k/zylzzpi) ![](assets/new.png)  
+- [2022-01-19-推荐-再见了-VMware，一款更轻量级的虚拟机！](https://toutiao.io/k/xw2lnva) ![](assets/new.png)  
 - [2022-01-19-推荐-从零开始搭建公司微服务授权架构技术栈（3种模式），这架构稳的一批...](https://toutiao.io/k/4g58j8v) ![](assets/new.png)  
 - [2022-01-19-推荐-面渣逆袭：Java并发六十问，图文详解，快来看看你会多少道！](https://toutiao.io/k/4ndh1gd) ![](assets/new.png)  
-- [2022-01-19-推荐-据说看完这篇-JVM-要一小时](https://toutiao.io/k/1dauixx) ![](assets/new.png)  
-- [2022-01-19-推荐-浅谈缓存最终一致性的解决方案](https://toutiao.io/k/mgym1lv) ![](assets/new.png)  
-- [2022-01-19-推荐-再见了-VMware，一款更轻量级的虚拟机！](https://toutiao.io/k/xw2lnva) ![](assets/new.png)  
-- [2022-01-19-推荐-京东ClickHouse的实践之路](https://toutiao.io/k/j0r6746) ![](assets/new.png)  
+- [2022-01-19-推荐-缓存一致性最佳实践](https://toutiao.io/k/ymscqc1) ![](assets/new.png)  
 - [2022-01-19-推荐-服务探活的五种方式](https://toutiao.io/k/1wuwmui) ![](assets/new.png)  
+- [2022-01-19-推荐-浅谈缓存最终一致性的解决方案](https://toutiao.io/k/mgym1lv) ![](assets/new.png)  
+- [2022-01-19-推荐-JVM调优的几种场景（建议收藏）](https://toutiao.io/k/0mfx2nd) ![](assets/new.png)  
+- [2022-01-19-推荐-据说看完这篇-JVM-要一小时](https://toutiao.io/k/1dauixx) ![](assets/new.png)  
+- [2022-01-19-推荐-从零打造-Instagram](https://toutiao.io/k/hufqvji) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

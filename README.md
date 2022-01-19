@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-19 13:36:49，:rocket: 更新条数: +1791， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-19 13:43:55，:rocket: 更新条数: +1790， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,8 @@
 </summary>
 
 
+- [2022-01-19-刚发现华为也做了个搜索引擎：-Petal](https://www.v2ex.com/t/829330) ![](assets/new.png)  
+- [2022-01-19-ViuTV-的《IT-狗》-不错](https://www.v2ex.com/t/829329) ![](assets/new.png)  
 - [2022-01-19-无损扩容-C-盘的正确方式是什么](https://www.v2ex.com/t/829327) ![](assets/new.png)  
 - [2022-01-19-小白求救：-jekyll-无法预览博客，如何解决？](https://www.v2ex.com/t/829326) ![](assets/new.png)  
 - [2022-01-19-阿里小号快买，淘宝可以-20-买-3-次！快快快快](https://www.v2ex.com/t/829325) ![](assets/new.png)  
@@ -512,8 +514,6 @@
 - [2022-01-19-写了个财富自由计算器，供大家计算需要多少年实现财富自由](https://www.v2ex.com/t/829308) ![](assets/new.png)  
 - [2022-01-19-要过年了，买点啥，-v-友们推荐下？（种类不限，网上、超市都可以）](https://www.v2ex.com/t/829307) ![](assets/new.png)  
 - [2022-01-19-忘记带-Apple-Watch-充电线，是不是只能买一根解决问题？](https://www.v2ex.com/t/829306) ![](assets/new.png)  
-- [2022-01-19-北京/上海太极图形-2022-社招最新职位：-DevOps/前端/后端/流媒体/编译器/分布式系统工程师等](https://www.v2ex.com/t/829305) ![](assets/new.png)  
-- [2022-01-19-为什么-v2-有些帖子无法查看，点击会跳转到首页](https://www.v2ex.com/t/829304) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -564,8 +564,8 @@
 - [2022-01-19-Flutter-For-Web-编译的两种方案](https://toutiao.io/k/t34zvms) ![](assets/new.png)  
 - [2022-01-19-伴鱼事件分析平台设计](https://toutiao.io/k/1q1s2t1) ![](assets/new.png)  
 - [2022-01-19-NVS-——-js-实现的node版本管理工具](https://toutiao.io/k/rjwd2wq) ![](assets/new.png)  
-- [2022-01-19-大吉大利虎年春节猫福盒，点击链接立即领券购买！](https://toutiao.io/k/y5ztper) ![](assets/new.png)  
 - [2022-01-19-深入理解-CPU-的调度原理](https://toutiao.io/k/n5mdm2x) ![](assets/new.png)  
+- [2022-01-19-大吉大利虎年春节猫福盒，点击链接立即领券购买！](https://toutiao.io/k/y5ztper) ![](assets/new.png)  
 - [2022-01-19-超硬核！详解Apache-Hudi灵活的Payload机制](https://toutiao.io/k/sjeouk4) ![](assets/new.png)  
 - [2022-01-19-2021-大促-AntMonitor-总结---云原生-Prometheus-监控实践](https://toutiao.io/k/ajqw8gn) ![](assets/new.png)  
 - [2022-01-19-代码质量第2层-可重用的代码](https://toutiao.io/k/2d6u1v9) ![](assets/new.png)  
@@ -574,8 +574,8 @@
 - [2022-01-19-深入浅出Apache-Pulsar（2）：Pulsar消息机制](https://toutiao.io/k/vd8ag4a) ![](assets/new.png)  
 - [2022-01-19-阿里云容器服务差异化-SLO-混部技术实践](https://toutiao.io/k/xgkpiyh) ![](assets/new.png)  
 - [2022-01-19-Form-表单在数栈的应用下：深入篇](https://toutiao.io/k/jtv0j02) ![](assets/new.png)  
-- [2022-01-19-推荐-网络编程怎么做才算是优雅？](https://toutiao.io/k/zylzzpi) ![](assets/new.png)  
-- [2022-01-19-推荐-京东ClickHouse的实践之路](https://toutiao.io/k/j0r6746) ![](assets/new.png)  
+- [2022-01-19-推荐-缓存一致性最佳实践](https://toutiao.io/k/ymscqc1) ![](assets/new.png)  
+- [2022-01-19-推荐-服务探活的五种方式](https://toutiao.io/k/1wuwmui) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

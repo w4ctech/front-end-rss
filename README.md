@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-19 13:05:06，:rocket: 更新条数: +1787， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-19 13:16:06，:rocket: 更新条数: +1788， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,9 @@
 </summary>
 
 
+- [2022-01-19-刚才微信私聊收不到别人发的消息，持续了大概一小时](https://www.v2ex.com/t/829324) ![](assets/new.png)  
+- [2022-01-19-微软礼品卡不同地区是否通用？](https://www.v2ex.com/t/829323) ![](assets/new.png)  
+- [2022-01-19-阿里通信旗舰店买小号卡券续费能便宜一点](https://www.v2ex.com/t/829322) ![](assets/new.png)  
 - [2022-01-19-如何在特定情况下修改-vuejs-vm.var-而不触发其-watch？](https://www.v2ex.com/t/829321) ![](assets/new.png)  
 - [2022-01-19-微信能发出，但收不到？](https://www.v2ex.com/t/829320) ![](assets/new.png)  
 - [2022-01-19-关于「元宇宙」，你想了解的在这里。](https://www.v2ex.com/t/829318) ![](assets/new.png)  
@@ -511,9 +514,6 @@
 - [2022-01-19-有大佬知道为啥用-pyinstaller-打包-Python-写的-macOS-应用，使用参数---onefile-打包为单个二进制文件的时候启动超级超级慢吗？🥺](https://www.v2ex.com/t/829303) ![](assets/new.png)  
 - [2022-01-19-请问有没有算法可以保护零信任环境下的数据交易？](https://www.v2ex.com/t/829302) ![](assets/new.png)  
 - [2022-01-19-vue3-组件怎么传递变量](https://www.v2ex.com/t/829299) ![](assets/new.png)  
-- [2022-01-19-Object-Oriented-Programming-The-Ultimate-Mathematical-Meta-Paradigm!](https://www.v2ex.com/t/829298) ![](assets/new.png)  
-- [2022-01-19-nginx-进程个数问题](https://www.v2ex.com/t/829295) ![](assets/new.png)  
-- [2022-01-19-Apple-在-iOS15-中-依然信任-CNNIC、WoSign、StartCom-这三个机构签发的证书，请教各位大佬应该如何屏蔽](https://www.v2ex.com/t/829294) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -574,8 +574,8 @@
 - [2022-01-19-深入浅出Apache-Pulsar（2）：Pulsar消息机制](https://toutiao.io/k/vd8ag4a) ![](assets/new.png)  
 - [2022-01-19-阿里云容器服务差异化-SLO-混部技术实践](https://toutiao.io/k/xgkpiyh) ![](assets/new.png)  
 - [2022-01-19-Form-表单在数栈的应用下：深入篇](https://toutiao.io/k/jtv0j02) ![](assets/new.png)  
-- [2022-01-19-推荐-用规则引擎让你一天上线十个需求](https://toutiao.io/k/ldd1cse) ![](assets/new.png)  
-- [2022-01-19-推荐-服务探活的五种方式](https://toutiao.io/k/1wuwmui) ![](assets/new.png)  
+- [2022-01-19-推荐-浅谈缓存最终一致性的解决方案](https://toutiao.io/k/mgym1lv) ![](assets/new.png)  
+- [2022-01-19-推荐-京东ClickHouse的实践之路](https://toutiao.io/k/j0r6746) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

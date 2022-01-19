@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-19 07:16:13，:rocket: 更新条数: +1791， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-19 07:28:49，:rocket: 更新条数: +1793， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -67,6 +67,7 @@
 
 - [2022-01-19-1月18日全国新增新冠87例-四省份本土55例](https://m.caixin.com/m/2022-01-19/101831938.html) ![](assets/new.png)  
 - [2022-01-19-全球首现仓鼠感染新冠-港府拟大规模扑杀](https://m.caixin.com/m/2022-01-19/101831948.html) ![](assets/new.png)  
+- [2022-01-19-【境内疫情观察】全国新增55例本土病例（1月18日）](https://database.caixin.com/m/2022-01-19/101832127.html) ![](assets/new.png)  
 - [2022-01-19-WHO称健康儿童不需要加强针，英法或已达疫情高峰｜大流行手记（1月18日）](https://m.caixin.com/m/2022-01-19/101831977.html) ![](assets/new.png)  
 - [2022-01-18-奥密克戎、德尔塔夹击-北京加强进京核酸检查](https://m.caixin.com/m/2022-01-18/101831795.html) ![](assets/new.png)  
 - [2022-01-18-北京第四例新冠感染者现朝阳区，距前三例20余公里](https://m.caixin.com/m/2022-01-18/101831653.html) ![](assets/new.png)  
@@ -84,7 +85,6 @@
 - [2022-01-17-国际邮件检出奥密克戎-如何看待新冠病毒“物传人”](https://science.caixin.com/m/2022-01-17/101831238.html) ![](assets/new.png)  
 - [2022-01-17-【图集】上海市民双休日积极防疫-排长队接种新冠疫苗](https://photos.caixin.com/m/2022-01-17/101831096.html) ![](assets/new.png)  
 - [2022-01-16-深圳新增一名奥密克戎病例-轨迹所涉妇幼保健院停诊](https://m.caixin.com/m/2022-01-16/101830873.html) ![](assets/new.png)  
-- [2022-01-16-【境内疫情观察】全国新增65例本土病例（1月15日）](https://database.caixin.com/m/2022-01-16/101830807.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -494,6 +494,10 @@
 </summary>
 
 
+- [2022-01-19-请问手机上装-microg-和原有的-google-框架会不会冲突](https://www.v2ex.com/t/829242) ![](assets/new.png)  
+- [2022-01-19-M1-Max-MacOS-12.1-在-Safari-没了-youtube-的-8k-视频选项](https://www.v2ex.com/t/829241) ![](assets/new.png)  
+- [2022-01-19-天猫有假货吗？当我在一家药店买到假货时，管中窥豹。](https://www.v2ex.com/t/829240) ![](assets/new.png)  
+- [2022-01-19-套路云不但是全球最大的中文内容农场，还是全球最大的垃圾内容农场](https://www.v2ex.com/t/829239) ![](assets/new.png)  
 - [2022-01-19-数字人民币到底有什么作用存在的意义？](https://www.v2ex.com/t/829237) ![](assets/new.png)  
 - [2022-01-19-想买笔电求推荐](https://www.v2ex.com/t/829236) ![](assets/new.png)  
 - [2022-01-19-说说我最近远程的情况](https://www.v2ex.com/t/829235) ![](assets/new.png)  
@@ -510,10 +514,6 @@
 - [2022-01-19-关于我年终绩效拿了-B-这件事](https://www.v2ex.com/t/829222) ![](assets/new.png)  
 - [2022-01-19-如何导出那些支持-iCloud-同步的-app-存储在-iCloud-里的数据？](https://www.v2ex.com/t/829221) ![](assets/new.png)  
 - [2022-01-19-求推荐售后靠谱的智能门锁（2022-年）](https://www.v2ex.com/t/829219) ![](assets/new.png)  
-- [2022-01-19-刚工作，需要一张信用卡吗？选什么？](https://www.v2ex.com/t/829218) ![](assets/new.png)  
-- [2022-01-19-如果国内有一款纯粹的-IM-软件横空出世，你会去用吗？](https://www.v2ex.com/t/829217) ![](assets/new.png)  
-- [2022-01-19-Django-如何获取-apscheduler-的-scheduler-实例？](https://www.v2ex.com/t/829216) ![](assets/new.png)  
-- [2022-01-19-让你的站点（Web）一键变成-APP（应用程序）（上）](https://www.v2ex.com/t/829214) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -574,8 +574,8 @@
 - [2022-01-19-代码质量第2层-可重用的代码](https://toutiao.io/k/2d6u1v9) ![](assets/new.png)  
 - [2022-01-19-Form-表单在数栈的应用下：深入篇](https://toutiao.io/k/jtv0j02) ![](assets/new.png)  
 - [2022-01-19-阿里云容器服务差异化-SLO-混部技术实践](https://toutiao.io/k/xgkpiyh) ![](assets/new.png)  
-- [2022-01-19-推荐-京东ClickHouse的实践之路](https://toutiao.io/k/j0r6746) ![](assets/new.png)  
-- [2022-01-19-推荐-JVM调优的几种场景（建议收藏）](https://toutiao.io/k/0mfx2nd) ![](assets/new.png)  
+- [2022-01-19-推荐-缓存一致性最佳实践](https://toutiao.io/k/ymscqc1) ![](assets/new.png)  
+- [2022-01-19-推荐-网络编程怎么做才算是优雅？](https://toutiao.io/k/zylzzpi) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

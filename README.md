@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-19 08:24:52，:rocket: 更新条数: +1785， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-19 08:39:37，:rocket: 更新条数: +1785， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,12 @@
 </summary>
 
 
+- [2022-01-19-CLion-破解或购买](https://www.v2ex.com/t/829270) ![](assets/new.png)  
+- [2022-01-19-过去的朋友借款写了我作为紧急联系人，最近我开始被骚扰了。](https://www.v2ex.com/t/829269) ![](assets/new.png)  
+- [2022-01-19-有没有强制新标签打开链接并自动跳转的浏览器插件或者脚本省的同时按-Ctrl+Shift](https://www.v2ex.com/t/829267) ![](assets/new.png)  
+- [2022-01-19-开源/远程-RSS3-提供最酷最理想最自由的工作](https://www.v2ex.com/t/829266) ![](assets/new.png)  
+- [2022-01-19-nodejs-zlib-库，怎么压缩多个-Buffer](https://www.v2ex.com/t/829265) ![](assets/new.png)  
+- [2022-01-19-微信小程序可以作为商家的收银设备，扫描顾客手上的付款码（如微信，支付宝）进行收款么？](https://www.v2ex.com/t/829263) ![](assets/new.png)  
 - [2022-01-19-苹果-AppStore-某游戏，解锁一个地图要十多块钱，-tb-上有几块钱全解锁的，什么原理？](https://www.v2ex.com/t/829262) ![](assets/new.png)  
 - [2022-01-19-Java-正则变量有什么命名规范吗](https://www.v2ex.com/t/829261) ![](assets/new.png)  
 - [2022-01-19-请问-MacOS-上有什么软件能让一个窗口始终保持在前？](https://www.v2ex.com/t/829260) ![](assets/new.png)  
@@ -508,12 +514,6 @@
 - [2022-01-19-微信-电脑端-消息加载时间越来越离谱了](https://www.v2ex.com/t/829243) ![](assets/new.png)  
 - [2022-01-19-请问手机上装-microg-和原有的-google-框架会不会冲突](https://www.v2ex.com/t/829242) ![](assets/new.png)  
 - [2022-01-19-M1-Max-MacOS-12.1-在-Safari-没了-youtube-的-8k-视频选项](https://www.v2ex.com/t/829241) ![](assets/new.png)  
-- [2022-01-19-天猫有假货吗？当我在一家药店买到假货时，管中窥豹。](https://www.v2ex.com/t/829240) ![](assets/new.png)  
-- [2022-01-19-套路云不但是全球最大的中文内容农场，还是全球最大的垃圾内容农场](https://www.v2ex.com/t/829239) ![](assets/new.png)  
-- [2022-01-19-数字人民币到底有什么作用存在的意义？](https://www.v2ex.com/t/829237) ![](assets/new.png)  
-- [2022-01-19-想买笔电求推荐](https://www.v2ex.com/t/829236) ![](assets/new.png)  
-- [2022-01-19-说说我最近远程的情况](https://www.v2ex.com/t/829235) ![](assets/new.png)  
-- [2022-01-19-图片合成视频的技术方案](https://www.v2ex.com/t/829234) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -574,8 +574,8 @@
 - [2022-01-19-代码质量第2层-可重用的代码](https://toutiao.io/k/2d6u1v9) ![](assets/new.png)  
 - [2022-01-19-Form-表单在数栈的应用下：深入篇](https://toutiao.io/k/jtv0j02) ![](assets/new.png)  
 - [2022-01-19-阿里云容器服务差异化-SLO-混部技术实践](https://toutiao.io/k/xgkpiyh) ![](assets/new.png)  
-- [2022-01-19-推荐-从零开始搭建公司微服务授权架构技术栈（3种模式），这架构稳的一批...](https://toutiao.io/k/4g58j8v) ![](assets/new.png)  
-- [2022-01-19-推荐-JVM调优的几种场景（建议收藏）](https://toutiao.io/k/0mfx2nd) ![](assets/new.png)  
+- [2022-01-19-推荐-京东ClickHouse的实践之路](https://toutiao.io/k/j0r6746) ![](assets/new.png)  
+- [2022-01-19-推荐-再见了-VMware，一款更轻量级的虚拟机！](https://toutiao.io/k/xw2lnva) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-19 03:54:20，:rocket: 更新条数: +1781， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-19 04:14:52，:rocket: 更新条数: +1783， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,13 @@
 </summary>
 
 
+- [2022-01-19-plex-可以实现视频转码，但是收费，请问还有啥能实现视频转码](https://www.v2ex.com/t/829197) ![](assets/new.png)  
+- [2022-01-19-好名字-+-好-logo-+-靠前的排名比我想得还要重要](https://www.v2ex.com/t/829196) ![](assets/new.png)  
+- [2022-01-19-阿里小号降价了？](https://www.v2ex.com/t/829195) ![](assets/new.png)  
+- [2022-01-19-Apple-One-29.95-美元的车，-6-人车，目前-5-人，一个月-35](https://www.v2ex.com/t/829194) ![](assets/new.png)  
+- [2022-01-19-2022-年了，国内品牌路由器对-IPv6-支持的完善程度如何？](https://www.v2ex.com/t/829193) ![](assets/new.png)  
+- [2022-01-19-工作地点在马当路地铁站附近，在哪里租房比较好？](https://www.v2ex.com/t/829192) ![](assets/new.png)  
+- [2022-01-19-微信审核认证的人你们已经僵化这种地步了吗？](https://www.v2ex.com/t/829191) ![](assets/new.png)  
 - [2022-01-19-请教，端侧-CDN-容灾解决方案](https://www.v2ex.com/t/829189) ![](assets/new.png)  
 - [2022-01-19-市面上的-30W-GaN-小方块充电器](https://www.v2ex.com/t/829186) ![](assets/new.png)  
 - [2022-01-19-go-写的爬虫工具，求赞](https://www.v2ex.com/t/829185) ![](assets/new.png)  
@@ -507,13 +514,6 @@
 - [2022-01-19-如何根据一个字符串自动生成正则表达式](https://www.v2ex.com/t/829176) ![](assets/new.png)  
 - [2022-01-19-大家是否有用过-无码科技-的-API-接口？](https://www.v2ex.com/t/829175) ![](assets/new.png)  
 - [2022-01-19-百度网盘知道了用户名文件名和-Cookie，却仍然不公布分享的链接，为什么](https://www.v2ex.com/t/829173) ![](assets/new.png)  
-- [2022-01-19-这是真的吗？本打算买个-k40，看到这个有点犹豫](https://www.v2ex.com/t/829172) ![](assets/new.png)  
-- [2022-01-19-求推荐-api-网关，-apisix-不太好用啊](https://www.v2ex.com/t/829171) ![](assets/new.png)  
-- [2022-01-19-2022-年开发移动版网站推荐用哪些框架？](https://www.v2ex.com/t/829170) ![](assets/new.png)  
-- [2022-01-19-macbook-上下滚动浏览器，页面帧率太低、有明显拖影怎么办？](https://www.v2ex.com/t/829169) ![](assets/new.png)  
-- [2022-01-19-大数据服务器配置选型问题](https://www.v2ex.com/t/829168) ![](assets/new.png)  
-- [2022-01-19-安卓微信国际版怎么下载？](https://www.v2ex.com/t/829167) ![](assets/new.png)  
-- [2022-01-19-分布式环境下使用-MongoDB-作为数据库异常的卡](https://www.v2ex.com/t/829166) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -569,13 +569,13 @@
 - [2022-01-19-2021-大促-AntMonitor-总结---云原生-Prometheus-监控实践](https://toutiao.io/k/ajqw8gn) ![](assets/new.png)  
 - [2022-01-19-Flutter-For-Web-编译的两种方案](https://toutiao.io/k/t34zvms) ![](assets/new.png)  
 - [2022-01-19-动手实现一个适用于.NET-Core-的诊断工具](https://toutiao.io/k/6r068w9) ![](assets/new.png)  
-- [2022-01-19-推荐-从零开始搭建公司微服务授权架构技术栈（3种模式），这架构稳的一批...](https://toutiao.io/k/4g58j8v) ![](assets/new.png)  
-- [2022-01-19-推荐-用规则引擎让你一天上线十个需求](https://toutiao.io/k/ldd1cse) ![](assets/new.png)  
-- [2022-01-19-推荐-从零打造-Instagram](https://toutiao.io/k/hufqvji) ![](assets/new.png)  
-- [2022-01-19-推荐-JVM调优的几种场景（建议收藏）](https://toutiao.io/k/0mfx2nd) ![](assets/new.png)  
-- [2022-01-19-推荐-据说看完这篇-JVM-要一小时](https://toutiao.io/k/1dauixx) ![](assets/new.png)  
 - [2022-01-19-推荐-再见了-VMware，一款更轻量级的虚拟机！](https://toutiao.io/k/xw2lnva) ![](assets/new.png)  
 - [2022-01-19-推荐-干货总结！Kafka-面试大全（万字长文，37-张图，28-个知识点）](https://toutiao.io/k/f9qe7be) ![](assets/new.png)  
+- [2022-01-19-推荐-从零开始搭建公司微服务授权架构技术栈（3种模式），这架构稳的一批...](https://toutiao.io/k/4g58j8v) ![](assets/new.png)  
+- [2022-01-19-推荐-京东ClickHouse的实践之路](https://toutiao.io/k/j0r6746) ![](assets/new.png)  
+- [2022-01-19-推荐-JVM调优的几种场景（建议收藏）](https://toutiao.io/k/0mfx2nd) ![](assets/new.png)  
+- [2022-01-19-推荐-浅谈缓存最终一致性的解决方案](https://toutiao.io/k/mgym1lv) ![](assets/new.png)  
+- [2022-01-19-推荐-从零打造-Instagram](https://toutiao.io/k/hufqvji) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

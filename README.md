@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-19 07:40:40，:rocket: 更新条数: +1793， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-19 07:54:25，:rocket: 更新条数: +1791， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,10 @@
 </summary>
 
 
+- [2022-01-19-想好好体验个-60-的-wow，求规则推荐](https://www.v2ex.com/t/829251) ![](assets/new.png)  
+- [2022-01-19-为什么有些文档的作者这么人上人](https://www.v2ex.com/t/829250) ![](assets/new.png)  
+- [2022-01-19-PHP-amqp-的扩展-疑问](https://www.v2ex.com/t/829249) ![](assets/new.png)  
+- [2022-01-19-请问下大家，成品显卡能否自己买一体水冷散热器给装上？](https://www.v2ex.com/t/829246) ![](assets/new.png)  
 - [2022-01-19-Shopee-后台开发工程师深圳-content--Friends-方向](https://www.v2ex.com/t/829244) ![](assets/new.png)  
 - [2022-01-19-微信-电脑端-消息加载时间越来越离谱了](https://www.v2ex.com/t/829243) ![](assets/new.png)  
 - [2022-01-19-请问手机上装-microg-和原有的-google-框架会不会冲突](https://www.v2ex.com/t/829242) ![](assets/new.png)  
@@ -510,10 +514,6 @@
 - [2022-01-19-AirPods-3-只能支持-MACOS12-以上的系统，有什么办法可以在-Catalina-系统使用吗？](https://www.v2ex.com/t/829229) ![](assets/new.png)  
 - [2022-01-19-Youtube-Premium-印度车有一起的吗？-45-一年](https://www.v2ex.com/t/829228) ![](assets/new.png)  
 - [2022-01-19-已发布的-Kubernetes-v1.23-较上一版本功能有哪些增强？](https://www.v2ex.com/t/829227) ![](assets/new.png)  
-- [2022-01-19-手贱在查找中抹掉了-mbp，开机后要求输入密码，可是一直提示不正确](https://www.v2ex.com/t/829225) ![](assets/new.png)  
-- [2022-01-19-Shopee-前端开发工程师深圳-content--Friends-方向](https://www.v2ex.com/t/829224) ![](assets/new.png)  
-- [2022-01-19-你们手痒吗？](https://www.v2ex.com/t/829223) ![](assets/new.png)  
-- [2022-01-19-关于我年终绩效拿了-B-这件事](https://www.v2ex.com/t/829222) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -574,8 +574,8 @@
 - [2022-01-19-代码质量第2层-可重用的代码](https://toutiao.io/k/2d6u1v9) ![](assets/new.png)  
 - [2022-01-19-Form-表单在数栈的应用下：深入篇](https://toutiao.io/k/jtv0j02) ![](assets/new.png)  
 - [2022-01-19-阿里云容器服务差异化-SLO-混部技术实践](https://toutiao.io/k/xgkpiyh) ![](assets/new.png)  
-- [2022-01-19-推荐-JVM调优的几种场景（建议收藏）](https://toutiao.io/k/0mfx2nd) ![](assets/new.png)  
-- [2022-01-19-推荐-从零开始搭建公司微服务授权架构技术栈（3种模式），这架构稳的一批...](https://toutiao.io/k/4g58j8v) ![](assets/new.png)  
+- [2022-01-19-推荐-干货总结！Kafka-面试大全（万字长文，37-张图，28-个知识点）](https://toutiao.io/k/f9qe7be) ![](assets/new.png)  
+- [2022-01-19-推荐-关于代码质量退化的思考](https://toutiao.io/k/zzaz6vu) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

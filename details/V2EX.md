@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2022-01-19 14:39:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-01-19 14:55:51。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-01-19-Apple-ID-is-not-active](https://www.v2ex.com/t/829341) 
 - [2022-01-19-关于-AirPods-Pro-充电盒和-AC+的几个问题](https://www.v2ex.com/t/829337) 
 - [2022-01-19-现在有什么好用的-OCR-吗？](https://www.v2ex.com/t/829334) 
 - [2022-01-19-关于运营商跨网所在地市的讨论](https://www.v2ex.com/t/829333) 
@@ -39,5 +40,3 @@
 - [2022-01-19-Apple-在-iOS15-中-依然信任-CNNIC、WoSign、StartCom-这三个机构签发的证书，请教各位大佬应该如何屏蔽](https://www.v2ex.com/t/829294) 
 - [2022-01-19-有-Android-逆向大佬吗，有偿求助](https://www.v2ex.com/t/829293) 
 - [2022-01-19-有谁曾经有那么一刻感觉公司的“企业文化”不仅仅是一句口号，而确确实实在促进公司发展方面起了巨大作用的？](https://www.v2ex.com/t/829292) 
-- [2022-01-19-开发一款-macos-软件的基本流程](https://www.v2ex.com/t/829290) 
-- [2022-01-19-一个关于开发者密码学-API-使用的小问卷](https://www.v2ex.com/t/829289) 

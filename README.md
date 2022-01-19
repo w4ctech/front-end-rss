@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-19 05:39:17，:rocket: 更新条数: +1788， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-19 05:54:38，:rocket: 更新条数: +1786， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,7 @@
 </summary>
 
 
+- [2022-01-19-让你的站点（Web）一键变成-APP（应用程序）（上）](https://www.v2ex.com/t/829214) ![](assets/new.png)  
 - [2022-01-19-21-世纪聊天功能退化的人们，聊天记录分享网站，关联-直男-，不会聊天-，类似书签地球，-galgame](https://www.v2ex.com/t/829212) ![](assets/new.png)  
 - [2022-01-19-细思极恐，内网电脑上没有安装防护软件，省公司为什么能扫描到病毒？](https://www.v2ex.com/t/829211) ![](assets/new.png)  
 - [2022-01-19-写了个-Alfred-Workflow-Store，可以搜索&一键安装-Workflow](https://www.v2ex.com/t/829210) ![](assets/new.png)  
@@ -513,7 +514,6 @@
 - [2022-01-19-阿里小号降价了？](https://www.v2ex.com/t/829195) ![](assets/new.png)  
 - [2022-01-19-Apple-One-29.95-美元的车，-6-人车，目前-5-人，一个月-35](https://www.v2ex.com/t/829194) ![](assets/new.png)  
 - [2022-01-19-2022-年了，国内品牌路由器对-IPv6-支持的完善程度如何？](https://www.v2ex.com/t/829193) ![](assets/new.png)  
-- [2022-01-19-工作地点在马当路地铁站附近，在哪里租房比较好？](https://www.v2ex.com/t/829192) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -560,22 +560,22 @@
 - [2022-01-19-深度剖析-Seata-TCC-模式【图解-+-源码分析】](https://toutiao.io/k/dxwt6fy) ![](assets/new.png)  
 - [2022-01-19-带你彻底击溃跳表原理及其Golang实现！（内含图解）](https://toutiao.io/k/fp0dy5f) ![](assets/new.png)  
 - [2022-01-19-Python代替Excel-VBA，原来真的可以](https://toutiao.io/k/zqnpdh9) ![](assets/new.png)  
-- [2022-01-19-伴鱼事件分析平台设计](https://toutiao.io/k/1q1s2t1) ![](assets/new.png)  
 - [2022-01-19-一位程序员的财务自由之路](https://toutiao.io/k/libwh52) ![](assets/new.png)  
+- [2022-01-19-伴鱼事件分析平台设计](https://toutiao.io/k/1q1s2t1) ![](assets/new.png)  
 - [2022-01-19-大吉大利虎年春节猫福盒，点击链接立即领券购买！](https://toutiao.io/k/y5ztper) ![](assets/new.png)  
+- [2022-01-19-Flutter-For-Web-编译的两种方案](https://toutiao.io/k/t34zvms) ![](assets/new.png)  
 - [2022-01-19-NVS-——-js-实现的node版本管理工具](https://toutiao.io/k/rjwd2wq) ![](assets/new.png)  
 - [2022-01-19-超硬核！详解Apache-Hudi灵活的Payload机制](https://toutiao.io/k/sjeouk4) ![](assets/new.png)  
-- [2022-01-19-Flutter-For-Web-编译的两种方案](https://toutiao.io/k/t34zvms) ![](assets/new.png)  
 - [2022-01-19-2021-大促-AntMonitor-总结---云原生-Prometheus-监控实践](https://toutiao.io/k/ajqw8gn) ![](assets/new.png)  
 - [2022-01-19-KubeDL-HostNetwork：加速分布式训练通信效率](https://toutiao.io/k/no4tj9h) ![](assets/new.png)  
 - [2022-01-19-动手实现一个适用于.NET-Core-的诊断工具](https://toutiao.io/k/6r068w9) ![](assets/new.png)  
 - [2022-01-19-推荐-从零打造-Instagram](https://toutiao.io/k/hufqvji) ![](assets/new.png)  
-- [2022-01-19-推荐-据说看完这篇-JVM-要一小时](https://toutiao.io/k/1dauixx) ![](assets/new.png)  
-- [2022-01-19-推荐-缓存一致性最佳实践](https://toutiao.io/k/ymscqc1) ![](assets/new.png)  
-- [2022-01-19-推荐-干货总结！Kafka-面试大全（万字长文，37-张图，28-个知识点）](https://toutiao.io/k/f9qe7be) ![](assets/new.png)  
+- [2022-01-19-推荐-京东ClickHouse的实践之路](https://toutiao.io/k/j0r6746) ![](assets/new.png)  
+- [2022-01-19-推荐-网络编程怎么做才算是优雅？](https://toutiao.io/k/zylzzpi) ![](assets/new.png)  
 - [2022-01-19-推荐-关于代码质量退化的思考](https://toutiao.io/k/zzaz6vu) ![](assets/new.png)  
-- [2022-01-19-推荐-面渣逆袭：Java并发六十问，图文详解，快来看看你会多少道！](https://toutiao.io/k/4ndh1gd) ![](assets/new.png)  
-- [2022-01-19-推荐-浅谈缓存最终一致性的解决方案](https://toutiao.io/k/mgym1lv) ![](assets/new.png)  
+- [2022-01-19-推荐-据说看完这篇-JVM-要一小时](https://toutiao.io/k/1dauixx) ![](assets/new.png)  
+- [2022-01-19-推荐-从零开始搭建公司微服务授权架构技术栈（3种模式），这架构稳的一批...](https://toutiao.io/k/4g58j8v) ![](assets/new.png)  
+- [2022-01-19-推荐-干货总结！Kafka-面试大全（万字长文，37-张图，28-个知识点）](https://toutiao.io/k/f9qe7be) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

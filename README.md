@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-19 13:55:47，:rocket: 更新条数: +1790， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-19 14:11:11，:rocket: 更新条数: +1790， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,8 @@
 </summary>
 
 
+- [2022-01-19-关于运营商跨网所在地市的讨论](https://www.v2ex.com/t/829333) ![](assets/new.png)  
+- [2022-01-19-搞了一个-ToDoList-小程序，各位-V-友欢迎使用](https://www.v2ex.com/t/829332) ![](assets/new.png)  
 - [2022-01-19-刚发现华为也做了个搜索引擎：-Petal](https://www.v2ex.com/t/829330) ![](assets/new.png)  
 - [2022-01-19-ViuTV-的《IT-狗》-不错](https://www.v2ex.com/t/829329) ![](assets/new.png)  
 - [2022-01-19-无损扩容-C-盘的正确方式是什么](https://www.v2ex.com/t/829327) ![](assets/new.png)  
@@ -512,8 +514,6 @@
 - [2022-01-19-问一个关于-webp-图片转换的问题](https://www.v2ex.com/t/829311) ![](assets/new.png)  
 - [2022-01-19-微信商家收款接入的第三方支付，请问账单里面的头像能修改吗？目前是收款供应商的头像](https://www.v2ex.com/t/829309) ![](assets/new.png)  
 - [2022-01-19-写了个财富自由计算器，供大家计算需要多少年实现财富自由](https://www.v2ex.com/t/829308) ![](assets/new.png)  
-- [2022-01-19-要过年了，买点啥，-v-友们推荐下？（种类不限，网上、超市都可以）](https://www.v2ex.com/t/829307) ![](assets/new.png)  
-- [2022-01-19-忘记带-Apple-Watch-充电线，是不是只能买一根解决问题？](https://www.v2ex.com/t/829306) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -574,8 +574,8 @@
 - [2022-01-19-阿里云容器服务差异化-SLO-混部技术实践](https://toutiao.io/k/xgkpiyh) ![](assets/new.png)  
 - [2022-01-19-深入浅出Apache-Pulsar（2）：Pulsar消息机制](https://toutiao.io/k/vd8ag4a) ![](assets/new.png)  
 - [2022-01-19-Form-表单在数栈的应用下：深入篇](https://toutiao.io/k/jtv0j02) ![](assets/new.png)  
-- [2022-01-19-推荐-再见了-VMware，一款更轻量级的虚拟机！](https://toutiao.io/k/xw2lnva) ![](assets/new.png)  
-- [2022-01-19-推荐-服务探活的五种方式](https://toutiao.io/k/1wuwmui) ![](assets/new.png)  
+- [2022-01-19-推荐-浅谈缓存最终一致性的解决方案](https://toutiao.io/k/mgym1lv) ![](assets/new.png)  
+- [2022-01-19-推荐-网络编程怎么做才算是优雅？](https://toutiao.io/k/zylzzpi) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

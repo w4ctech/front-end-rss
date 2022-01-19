@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-19 09:21:33，:rocket: 更新条数: +1784， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-19 09:38:07，:rocket: 更新条数: +1784， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -65,13 +65,12 @@
 </summary>
 
 
-- [2022-01-19-1月18日全国新增新冠87例-四省份本土55例](https://m.caixin.com/m/2022-01-19/101831938.html) ![](assets/new.png)  
 - [2022-01-19-全球首现仓鼠感染新冠-港府拟大规模扑杀](https://m.caixin.com/m/2022-01-19/101831948.html) ![](assets/new.png)  
+- [2022-01-19-最新海外疫情：新冠感染超3.33亿-累计接种新冠疫苗超97.03亿剂次](https://m.caixin.com/m/2022-01-19/101832247.html) ![](assets/new.png)  
 - [2022-01-19-【境内疫情观察】全国新增55例本土病例（1月18日）](https://database.caixin.com/m/2022-01-19/101832127.html) ![](assets/new.png)  
 - [2022-01-19-WHO称健康儿童不需要加强针，英法或已达疫情高峰｜大流行手记（1月18日）](https://m.caixin.com/m/2022-01-19/101831977.html) ![](assets/new.png)  
 - [2022-01-18-奥密克戎、德尔塔夹击-北京加强进京核酸检查](https://m.caixin.com/m/2022-01-18/101831795.html) ![](assets/new.png)  
 - [2022-01-18-北京第四例新冠感染者现朝阳区，距前三例20余公里](https://m.caixin.com/m/2022-01-18/101831653.html) ![](assets/new.png)  
-- [2022-01-18-最新海外疫情：新冠感染超3.3亿-累计接种新冠疫苗超96.55亿剂次](https://m.caixin.com/m/2022-01-18/101831669.html) ![](assets/new.png)  
 - [2022-01-18-【境内疫情观察】河南新增102例本土病例（1月17日）](https://database.caixin.com/m/2022-01-18/101831642.html) ![](assets/new.png)  
 - [2022-01-18-新德里、孟买新增病例下降-以色列缩短强制隔离期｜大流行手记（1月17日）](https://m.caixin.com/m/2022-01-18/101831511.html) ![](assets/new.png)  
 - [2022-01-18-北京海淀百旺茉莉园一期1人核酸阳性-小区封闭管理](https://photos.caixin.com/m/2022-01-18/101831624.html) ![](assets/new.png)  
@@ -85,6 +84,7 @@
 - [2022-01-17-国际邮件检出奥密克戎-如何看待新冠病毒“物传人”](https://science.caixin.com/m/2022-01-17/101831238.html) ![](assets/new.png)  
 - [2022-01-17-【图集】上海市民双休日积极防疫-排长队接种新冠疫苗](https://photos.caixin.com/m/2022-01-17/101831096.html) ![](assets/new.png)  
 - [2022-01-16-深圳新增一名奥密克戎病例-轨迹所涉妇幼保健院停诊](https://m.caixin.com/m/2022-01-16/101830873.html) ![](assets/new.png)  
+- [2022-01-16-【境内疫情观察】全国新增65例本土病例（1月15日）](https://database.caixin.com/m/2022-01-16/101830807.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -494,6 +494,11 @@
 </summary>
 
 
+- [2022-01-19-苹果在线商店教育优惠需要通过-UNiDAYS-进行验证了](https://www.v2ex.com/t/829284) ![](assets/new.png)  
+- [2022-01-19-酒桌上应酬（你是做什么工作的啊）](https://www.v2ex.com/t/829283) ![](assets/new.png)  
+- [2022-01-19-为什么-macOS-执行-man-这么慢？](https://www.v2ex.com/t/829282) ![](assets/new.png)  
+- [2022-01-19-这个合作，有什么不对的吗？](https://www.v2ex.com/t/829281) ![](assets/new.png)  
+- [2022-01-19-弱弱的问下，什么场景下-redis-会把-slave-配置成可写入的](https://www.v2ex.com/t/829280) ![](assets/new.png)  
 - [2022-01-19-在线问上海哪里可以打第三针可以送奖品](https://www.v2ex.com/t/829279) ![](assets/new.png)  
 - [2022-01-19-2021-年，对于互联网公司，是过去十年最差的一年，却是未来十年最好的一年。](https://www.v2ex.com/t/829278) ![](assets/new.png)  
 - [2022-01-19-前端、后端、运维、测试、大数据的同学大家看过来了，-zenlayer-研发团队扩招了，可以年后入职](https://www.v2ex.com/t/829277) ![](assets/new.png)  
@@ -509,11 +514,6 @@
 - [2022-01-19-Java-正则变量有什么命名规范吗](https://www.v2ex.com/t/829261) ![](assets/new.png)  
 - [2022-01-19-请问-MacOS-上有什么软件能让一个窗口始终保持在前？](https://www.v2ex.com/t/829260) ![](assets/new.png)  
 - [2022-01-19-第三方供应商长时间没有推送数据，这到底是我们自己的锅还是供应商的锅？](https://www.v2ex.com/t/829257) ![](assets/new.png)  
-- [2022-01-19-网易-游戏周边商城前后端岗位招新同学了](https://www.v2ex.com/t/829254) ![](assets/new.png)  
-- [2022-01-19-什么样的英文水平可以流畅地阅读英文书籍和文档，顺便求个学习路线](https://www.v2ex.com/t/829253) ![](assets/new.png)  
-- [2022-01-19-想好好体验个-60-的-wow，求规则推荐](https://www.v2ex.com/t/829251) ![](assets/new.png)  
-- [2022-01-19-为什么有些文档的作者这么人上人](https://www.v2ex.com/t/829250) ![](assets/new.png)  
-- [2022-01-19-PHP-amqp-的扩展-疑问](https://www.v2ex.com/t/829249) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -574,8 +574,8 @@
 - [2022-01-19-代码质量第2层-可重用的代码](https://toutiao.io/k/2d6u1v9) ![](assets/new.png)  
 - [2022-01-19-Form-表单在数栈的应用下：深入篇](https://toutiao.io/k/jtv0j02) ![](assets/new.png)  
 - [2022-01-19-阿里云容器服务差异化-SLO-混部技术实践](https://toutiao.io/k/xgkpiyh) ![](assets/new.png)  
-- [2022-01-19-推荐-服务探活的五种方式](https://toutiao.io/k/1wuwmui) ![](assets/new.png)  
 - [2022-01-19-推荐-浅谈缓存最终一致性的解决方案](https://toutiao.io/k/mgym1lv) ![](assets/new.png)  
+- [2022-01-19-推荐-网络编程怎么做才算是优雅？](https://toutiao.io/k/zylzzpi) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-19 15:44:51，:rocket: 更新条数: +1786， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-19 15:56:50，:rocket: 更新条数: +1785， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -506,7 +506,6 @@
 - [2022-01-19-ViuTV-的《IT-狗》-不错](https://www.v2ex.com/t/829329) ![](assets/new.png)  
 - [2022-01-19-无损扩容-C-盘的正确方式是什么](https://www.v2ex.com/t/829327) ![](assets/new.png)  
 - [2022-01-19-小白求救：-jekyll-无法预览博客，如何解决？](https://www.v2ex.com/t/829326) ![](assets/new.png)  
-- [2022-01-19-阿里小号快买，淘宝可以-20-买-3-次！快快快快](https://www.v2ex.com/t/829325) ![](assets/new.png)  
 - [2022-01-19-刚才微信私聊收不到别人发的消息，持续了大概一小时](https://www.v2ex.com/t/829324) ![](assets/new.png)  
 - [2022-01-19-微软礼品卡不同地区是否通用？](https://www.v2ex.com/t/829323) ![](assets/new.png)  
 - [2022-01-19-阿里通信旗舰店买小号卡券续费能便宜一点](https://www.v2ex.com/t/829322) ![](assets/new.png)  
@@ -514,6 +513,7 @@
 - [2022-01-19-微信能发出，但收不到？](https://www.v2ex.com/t/829320) ![](assets/new.png)  
 - [2022-01-19-关于「元宇宙」，你想了解的在这里。](https://www.v2ex.com/t/829318) ![](assets/new.png)  
 - [2022-01-19-单纯限制用户名长度小于-15-字可以防止-XSS-攻击吗？](https://www.v2ex.com/t/829316) ![](assets/new.png)  
+- [2022-01-19-开源项目如何获得资金支持](https://www.v2ex.com/t/829315) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -568,14 +568,14 @@
 - [2022-01-19-大吉大利虎年春节猫福盒，点击链接立即领券购买！](https://toutiao.io/k/y5ztper) ![](assets/new.png)  
 - [2022-01-19-代码质量第2层-可重用的代码](https://toutiao.io/k/2d6u1v9) ![](assets/new.png)  
 - [2022-01-19-超硬核！详解Apache-Hudi灵活的Payload机制](https://toutiao.io/k/sjeouk4) ![](assets/new.png)  
-- [2022-01-19-2021-大促-AntMonitor-总结---云原生-Prometheus-监控实践](https://toutiao.io/k/ajqw8gn) ![](assets/new.png)  
 - [2022-01-19-阿里云容器服务差异化-SLO-混部技术实践](https://toutiao.io/k/xgkpiyh) ![](assets/new.png)  
+- [2022-01-19-2021-大促-AntMonitor-总结---云原生-Prometheus-监控实践](https://toutiao.io/k/ajqw8gn) ![](assets/new.png)  
 - [2022-01-19-KubeDL-HostNetwork：加速分布式训练通信效率](https://toutiao.io/k/no4tj9h) ![](assets/new.png)  
 - [2022-01-19-动手实现一个适用于.NET-Core-的诊断工具](https://toutiao.io/k/6r068w9) ![](assets/new.png)  
 - [2022-01-19-深入浅出Apache-Pulsar（2）：Pulsar消息机制](https://toutiao.io/k/vd8ag4a) ![](assets/new.png)  
 - [2022-01-19-Form-表单在数栈的应用下：深入篇](https://toutiao.io/k/jtv0j02) ![](assets/new.png)  
-- [2022-01-19-推荐-从零开始搭建公司微服务授权架构技术栈（3种模式），这架构稳的一批...](https://toutiao.io/k/4g58j8v) ![](assets/new.png)  
-- [2022-01-19-推荐-从零打造-Instagram](https://toutiao.io/k/hufqvji) ![](assets/new.png)  
+- [2022-01-19-推荐-缓存一致性最佳实践](https://toutiao.io/k/ymscqc1) ![](assets/new.png)  
+- [2022-01-19-推荐-服务探活的五种方式](https://toutiao.io/k/1wuwmui) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

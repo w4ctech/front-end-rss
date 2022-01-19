@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-19 08:43:15，:rocket: 更新条数: +1785， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-19 08:55:23，:rocket: 更新条数: +1785， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,8 @@
 </summary>
 
 
+- [2022-01-19-SM.MS-图床新年优惠，终身会员仅需-29-美元！](https://www.v2ex.com/t/829272) ![](assets/new.png)  
+- [2022-01-19-学大数据现在还有搞头吗？](https://www.v2ex.com/t/829271) ![](assets/new.png)  
 - [2022-01-19-CLion-破解或购买](https://www.v2ex.com/t/829270) ![](assets/new.png)  
 - [2022-01-19-过去的朋友借款写了我作为紧急联系人，最近我开始被骚扰了。](https://www.v2ex.com/t/829269) ![](assets/new.png)  
 - [2022-01-19-有没有强制新标签打开链接并自动跳转的浏览器插件或者脚本省的同时按-Ctrl+Shift](https://www.v2ex.com/t/829267) ![](assets/new.png)  
@@ -512,8 +514,6 @@
 - [2022-01-19-请问下大家，成品显卡能否自己买一体水冷散热器给装上？](https://www.v2ex.com/t/829246) ![](assets/new.png)  
 - [2022-01-19-Shopee-后台开发工程师深圳-content--Friends-方向](https://www.v2ex.com/t/829244) ![](assets/new.png)  
 - [2022-01-19-微信-电脑端-消息加载时间越来越离谱了](https://www.v2ex.com/t/829243) ![](assets/new.png)  
-- [2022-01-19-请问手机上装-microg-和原有的-google-框架会不会冲突](https://www.v2ex.com/t/829242) ![](assets/new.png)  
-- [2022-01-19-M1-Max-MacOS-12.1-在-Safari-没了-youtube-的-8k-视频选项](https://www.v2ex.com/t/829241) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -560,8 +560,8 @@
 - [2022-01-19-深度剖析-Seata-TCC-模式【图解-+-源码分析】](https://toutiao.io/k/dxwt6fy) ![](assets/new.png)  
 - [2022-01-19-带你彻底击溃跳表原理及其Golang实现！（内含图解）](https://toutiao.io/k/fp0dy5f) ![](assets/new.png)  
 - [2022-01-19-Python代替Excel-VBA，原来真的可以](https://toutiao.io/k/zqnpdh9) ![](assets/new.png)  
-- [2022-01-19-一位程序员的财务自由之路](https://toutiao.io/k/libwh52) ![](assets/new.png)  
 - [2022-01-19-Flutter-For-Web-编译的两种方案](https://toutiao.io/k/t34zvms) ![](assets/new.png)  
+- [2022-01-19-一位程序员的财务自由之路](https://toutiao.io/k/libwh52) ![](assets/new.png)  
 - [2022-01-19-伴鱼事件分析平台设计](https://toutiao.io/k/1q1s2t1) ![](assets/new.png)  
 - [2022-01-19-大吉大利虎年春节猫福盒，点击链接立即领券购买！](https://toutiao.io/k/y5ztper) ![](assets/new.png)  
 - [2022-01-19-NVS-——-js-实现的node版本管理工具](https://toutiao.io/k/rjwd2wq) ![](assets/new.png)  
@@ -574,8 +574,8 @@
 - [2022-01-19-代码质量第2层-可重用的代码](https://toutiao.io/k/2d6u1v9) ![](assets/new.png)  
 - [2022-01-19-Form-表单在数栈的应用下：深入篇](https://toutiao.io/k/jtv0j02) ![](assets/new.png)  
 - [2022-01-19-阿里云容器服务差异化-SLO-混部技术实践](https://toutiao.io/k/xgkpiyh) ![](assets/new.png)  
-- [2022-01-19-推荐-京东ClickHouse的实践之路](https://toutiao.io/k/j0r6746) ![](assets/new.png)  
-- [2022-01-19-推荐-再见了-VMware，一款更轻量级的虚拟机！](https://toutiao.io/k/xw2lnva) ![](assets/new.png)  
+- [2022-01-19-推荐-缓存一致性最佳实践](https://toutiao.io/k/ymscqc1) ![](assets/new.png)  
+- [2022-01-19-推荐-从零打造-Instagram](https://toutiao.io/k/hufqvji) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

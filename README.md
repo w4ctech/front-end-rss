@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-19 11:11:33，:rocket: 更新条数: +1786， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-19 11:18:00，:rocket: 更新条数: +1786， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,7 @@
 </summary>
 
 
+- [2022-01-19-要过年了，买点啥，-v-友们推荐下？（种类不限，网上、超市都可以）](https://www.v2ex.com/t/829307) ![](assets/new.png)  
 - [2022-01-19-忘记带-Apple-Watch-充电线，是不是只能买一根解决问题？](https://www.v2ex.com/t/829306) ![](assets/new.png)  
 - [2022-01-19-北京/上海太极图形-2022-社招最新职位：-DevOps/前端/后端/流媒体/编译器/分布式系统工程师等](https://www.v2ex.com/t/829305) ![](assets/new.png)  
 - [2022-01-19-为什么-v2-有些帖子无法查看，点击会跳转到首页](https://www.v2ex.com/t/829304) ![](assets/new.png)  
@@ -513,7 +514,6 @@
 - [2022-01-19-苹果在线商店教育优惠需要通过-UNiDAYS-进行验证了](https://www.v2ex.com/t/829284) ![](assets/new.png)  
 - [2022-01-19-酒桌上应酬（你是做什么工作的啊）](https://www.v2ex.com/t/829283) ![](assets/new.png)  
 - [2022-01-19-为什么-macOS-执行-man-这么慢？](https://www.v2ex.com/t/829282) ![](assets/new.png)  
-- [2022-01-19-这个合作，有什么不对的吗？](https://www.v2ex.com/t/829281) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -569,13 +569,13 @@
 - [2022-01-19-2021-大促-AntMonitor-总结---云原生-Prometheus-监控实践](https://toutiao.io/k/ajqw8gn) ![](assets/new.png)  
 - [2022-01-19-KubeDL-HostNetwork：加速分布式训练通信效率](https://toutiao.io/k/no4tj9h) ![](assets/new.png)  
 - [2022-01-19-动手实现一个适用于.NET-Core-的诊断工具](https://toutiao.io/k/6r068w9) ![](assets/new.png)  
-- [2022-01-19-深入浅出Apache-Pulsar（2）：Pulsar消息机制](https://toutiao.io/k/vd8ag4a) ![](assets/new.png)  
 - [2022-01-19-深入理解-CPU-的调度原理](https://toutiao.io/k/n5mdm2x) ![](assets/new.png)  
+- [2022-01-19-深入浅出Apache-Pulsar（2）：Pulsar消息机制](https://toutiao.io/k/vd8ag4a) ![](assets/new.png)  
 - [2022-01-19-代码质量第2层-可重用的代码](https://toutiao.io/k/2d6u1v9) ![](assets/new.png)  
 - [2022-01-19-阿里云容器服务差异化-SLO-混部技术实践](https://toutiao.io/k/xgkpiyh) ![](assets/new.png)  
 - [2022-01-19-Form-表单在数栈的应用下：深入篇](https://toutiao.io/k/jtv0j02) ![](assets/new.png)  
-- [2022-01-19-推荐-面渣逆袭：Java并发六十问，图文详解，快来看看你会多少道！](https://toutiao.io/k/4ndh1gd) ![](assets/new.png)  
-- [2022-01-19-推荐-关于代码质量退化的思考](https://toutiao.io/k/zzaz6vu) ![](assets/new.png)  
+- [2022-01-19-推荐-据说看完这篇-JVM-要一小时](https://toutiao.io/k/1dauixx) ![](assets/new.png)  
+- [2022-01-19-推荐-再见了-VMware，一款更轻量级的虚拟机！](https://toutiao.io/k/xw2lnva) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-19 14:11:11，:rocket: 更新条数: +1790， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-19 14:19:24，:rocket: 更新条数: +1789， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,8 @@
 </summary>
 
 
+- [2022-01-19-关于-AirPods-Pro-充电盒和-AC+的几个问题](https://www.v2ex.com/t/829337) ![](assets/new.png)  
+- [2022-01-19-现在有什么好用的-OCR-吗？](https://www.v2ex.com/t/829334) ![](assets/new.png)  
 - [2022-01-19-关于运营商跨网所在地市的讨论](https://www.v2ex.com/t/829333) ![](assets/new.png)  
 - [2022-01-19-搞了一个-ToDoList-小程序，各位-V-友欢迎使用](https://www.v2ex.com/t/829332) ![](assets/new.png)  
 - [2022-01-19-刚发现华为也做了个搜索引擎：-Petal](https://www.v2ex.com/t/829330) ![](assets/new.png)  
@@ -512,8 +514,6 @@
 - [2022-01-19-宅久了人都废了-还是要多多出门呐](https://www.v2ex.com/t/829314) ![](assets/new.png)  
 - [2022-01-19-有过年期间从杭州余杭区返回江西的朋友吗？](https://www.v2ex.com/t/829313) ![](assets/new.png)  
 - [2022-01-19-问一个关于-webp-图片转换的问题](https://www.v2ex.com/t/829311) ![](assets/new.png)  
-- [2022-01-19-微信商家收款接入的第三方支付，请问账单里面的头像能修改吗？目前是收款供应商的头像](https://www.v2ex.com/t/829309) ![](assets/new.png)  
-- [2022-01-19-写了个财富自由计算器，供大家计算需要多少年实现财富自由](https://www.v2ex.com/t/829308) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -574,8 +574,8 @@
 - [2022-01-19-阿里云容器服务差异化-SLO-混部技术实践](https://toutiao.io/k/xgkpiyh) ![](assets/new.png)  
 - [2022-01-19-深入浅出Apache-Pulsar（2）：Pulsar消息机制](https://toutiao.io/k/vd8ag4a) ![](assets/new.png)  
 - [2022-01-19-Form-表单在数栈的应用下：深入篇](https://toutiao.io/k/jtv0j02) ![](assets/new.png)  
-- [2022-01-19-推荐-浅谈缓存最终一致性的解决方案](https://toutiao.io/k/mgym1lv) ![](assets/new.png)  
-- [2022-01-19-推荐-网络编程怎么做才算是优雅？](https://toutiao.io/k/zylzzpi) ![](assets/new.png)  
+- [2022-01-19-推荐-干货总结！Kafka-面试大全（万字长文，37-张图，28-个知识点）](https://toutiao.io/k/f9qe7be) ![](assets/new.png)  
+- [2022-01-19-推荐-据说看完这篇-JVM-要一小时](https://toutiao.io/k/1dauixx) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

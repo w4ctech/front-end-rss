@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-19 08:55:23，:rocket: 更新条数: +1785， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-19 09:12:55，:rocket: 更新条数: +1783， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,9 +494,9 @@
 </summary>
 
 
+- [2022-01-19-IOS/Vue-开发者转战-Android-了，如何才能不被开除，求指教！](https://www.v2ex.com/t/829274) ![](assets/new.png)  
 - [2022-01-19-SM.MS-图床新年优惠，终身会员仅需-29-美元！](https://www.v2ex.com/t/829272) ![](assets/new.png)  
 - [2022-01-19-学大数据现在还有搞头吗？](https://www.v2ex.com/t/829271) ![](assets/new.png)  
-- [2022-01-19-CLion-破解或购买](https://www.v2ex.com/t/829270) ![](assets/new.png)  
 - [2022-01-19-过去的朋友借款写了我作为紧急联系人，最近我开始被骚扰了。](https://www.v2ex.com/t/829269) ![](assets/new.png)  
 - [2022-01-19-有没有强制新标签打开链接并自动跳转的浏览器插件或者脚本省的同时按-Ctrl+Shift](https://www.v2ex.com/t/829267) ![](assets/new.png)  
 - [2022-01-19-开源/远程-RSS3-提供最酷最理想最自由的工作](https://www.v2ex.com/t/829266) ![](assets/new.png)  
@@ -574,8 +574,8 @@
 - [2022-01-19-代码质量第2层-可重用的代码](https://toutiao.io/k/2d6u1v9) ![](assets/new.png)  
 - [2022-01-19-Form-表单在数栈的应用下：深入篇](https://toutiao.io/k/jtv0j02) ![](assets/new.png)  
 - [2022-01-19-阿里云容器服务差异化-SLO-混部技术实践](https://toutiao.io/k/xgkpiyh) ![](assets/new.png)  
-- [2022-01-19-推荐-缓存一致性最佳实践](https://toutiao.io/k/ymscqc1) ![](assets/new.png)  
-- [2022-01-19-推荐-从零打造-Instagram](https://toutiao.io/k/hufqvji) ![](assets/new.png)  
+- [2022-01-19-推荐-JVM调优的几种场景（建议收藏）](https://toutiao.io/k/0mfx2nd) ![](assets/new.png)  
+- [2022-01-19-推荐-再见了-VMware，一款更轻量级的虚拟机！](https://toutiao.io/k/xw2lnva) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

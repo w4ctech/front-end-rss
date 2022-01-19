@@ -1,13 +1,13 @@
-:alarm_clock: 更新时间: 2022-01-19 08:55:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-01-19 09:12:55。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-01-19-IOS/Vue-开发者转战-Android-了，如何才能不被开除，求指教！](https://www.v2ex.com/t/829274) 
 - [2022-01-19-SM.MS-图床新年优惠，终身会员仅需-29-美元！](https://www.v2ex.com/t/829272) 
 - [2022-01-19-学大数据现在还有搞头吗？](https://www.v2ex.com/t/829271) 
-- [2022-01-19-CLion-破解或购买](https://www.v2ex.com/t/829270) 
 - [2022-01-19-过去的朋友借款写了我作为紧急联系人，最近我开始被骚扰了。](https://www.v2ex.com/t/829269) 
 - [2022-01-19-有没有强制新标签打开链接并自动跳转的浏览器插件或者脚本省的同时按-Ctrl+Shift](https://www.v2ex.com/t/829267) 
 - [2022-01-19-开源/远程-RSS3-提供最酷最理想最自由的工作](https://www.v2ex.com/t/829266) 
@@ -38,5 +38,3 @@
 - [2022-01-19-github-怎么看某个-mr-合在哪个版本release发布了?](https://www.v2ex.com/t/829230) 
 - [2022-01-19-AirPods-3-只能支持-MACOS12-以上的系统，有什么办法可以在-Catalina-系统使用吗？](https://www.v2ex.com/t/829229) 
 - [2022-01-19-已发布的-Kubernetes-v1.23-较上一版本功能有哪些增强？](https://www.v2ex.com/t/829227) 
-- [2022-01-19-手贱在查找中抹掉了-mbp，开机后要求输入密码，可是一直提示不正确](https://www.v2ex.com/t/829225) 
-- [2022-01-19-Shopee-前端开发工程师深圳-content--Friends-方向](https://www.v2ex.com/t/829224) 

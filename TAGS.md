@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-01-19 17:01:53。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-01-19 17:17:17。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -348,6 +348,7 @@
 
 
 
+- [【V2EX】粉笔公考线下面试班有没有老哥有优惠的途径啊？](https://www.v2ex.com/t/829350)
 - [【开发者头条】推荐-干货总结！Kafka-面试大全（万字长文，37-张图，28-个知识点）](https://toutiao.io/k/f9qe7be)
 - [......【查看更多】......](./details/tags/job-interview.md)
 

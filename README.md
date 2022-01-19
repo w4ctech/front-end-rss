@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-19 15:56:50，:rocket: 更新条数: +1785， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-19 16:18:09，:rocket: 更新条数: +1769， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -556,26 +556,22 @@
 </summary>
 
 
-- [2022-01-19-优雅整洁的-Java-代码命名技巧，风之极·净化](https://toutiao.io/k/abc8vou) ![](assets/new.png)  
-- [2022-01-19-深度剖析-Seata-TCC-模式【图解-+-源码分析】](https://toutiao.io/k/dxwt6fy) ![](assets/new.png)  
-- [2022-01-19-带你彻底击溃跳表原理及其Golang实现！（内含图解）](https://toutiao.io/k/fp0dy5f) ![](assets/new.png)  
-- [2022-01-19-Python代替Excel-VBA，原来真的可以](https://toutiao.io/k/zqnpdh9) ![](assets/new.png)  
-- [2022-01-19-一位程序员的财务自由之路](https://toutiao.io/k/libwh52) ![](assets/new.png)  
-- [2022-01-19-Flutter-For-Web-编译的两种方案](https://toutiao.io/k/t34zvms) ![](assets/new.png)  
-- [2022-01-19-伴鱼事件分析平台设计](https://toutiao.io/k/1q1s2t1) ![](assets/new.png)  
-- [2022-01-19-深入理解-CPU-的调度原理](https://toutiao.io/k/n5mdm2x) ![](assets/new.png)  
-- [2022-01-19-NVS-——-js-实现的node版本管理工具](https://toutiao.io/k/rjwd2wq) ![](assets/new.png)  
-- [2022-01-19-大吉大利虎年春节猫福盒，点击链接立即领券购买！](https://toutiao.io/k/y5ztper) ![](assets/new.png)  
-- [2022-01-19-代码质量第2层-可重用的代码](https://toutiao.io/k/2d6u1v9) ![](assets/new.png)  
-- [2022-01-19-超硬核！详解Apache-Hudi灵活的Payload机制](https://toutiao.io/k/sjeouk4) ![](assets/new.png)  
-- [2022-01-19-阿里云容器服务差异化-SLO-混部技术实践](https://toutiao.io/k/xgkpiyh) ![](assets/new.png)  
-- [2022-01-19-2021-大促-AntMonitor-总结---云原生-Prometheus-监控实践](https://toutiao.io/k/ajqw8gn) ![](assets/new.png)  
-- [2022-01-19-KubeDL-HostNetwork：加速分布式训练通信效率](https://toutiao.io/k/no4tj9h) ![](assets/new.png)  
-- [2022-01-19-动手实现一个适用于.NET-Core-的诊断工具](https://toutiao.io/k/6r068w9) ![](assets/new.png)  
-- [2022-01-19-深入浅出Apache-Pulsar（2）：Pulsar消息机制](https://toutiao.io/k/vd8ag4a) ![](assets/new.png)  
-- [2022-01-19-Form-表单在数栈的应用下：深入篇](https://toutiao.io/k/jtv0j02) ![](assets/new.png)  
+- [2022-01-19-2022过虎年新年春节大门立体对联大礼包，点击链接立即领取红包！](https://toutiao.io/k/mfp3pig) ![](assets/new.png)  
 - [2022-01-19-推荐-缓存一致性最佳实践](https://toutiao.io/k/ymscqc1) ![](assets/new.png)  
+- [2022-01-19-推荐-从零打造-Instagram](https://toutiao.io/k/hufqvji) ![](assets/new.png)  
+- [2022-01-19-推荐-关于代码质量退化的思考](https://toutiao.io/k/zzaz6vu) ![](assets/new.png)  
+- [2022-01-19-推荐-网络编程怎么做才算是优雅？](https://toutiao.io/k/zylzzpi) ![](assets/new.png)  
+- [2022-01-19-推荐-从MVC到DDD的架构演进](https://toutiao.io/k/c7mn7hz) ![](assets/new.png)  
+- [2022-01-19-推荐-从零开始搭建公司微服务授权架构技术栈（3种模式），这架构稳的一批...](https://toutiao.io/k/4g58j8v) ![](assets/new.png)  
+- [2022-01-19-推荐-面渣逆袭：Java并发六十问，图文详解，快来看看你会多少道！](https://toutiao.io/k/4ndh1gd) ![](assets/new.png)  
 - [2022-01-19-推荐-服务探活的五种方式](https://toutiao.io/k/1wuwmui) ![](assets/new.png)  
+- [2022-01-19-推荐-干货总结！Kafka-面试大全（万字长文，37-张图，28-个知识点）](https://toutiao.io/k/f9qe7be) ![](assets/new.png)  
+- [2022-01-19-推荐-据说看完这篇-JVM-要一小时](https://toutiao.io/k/1dauixx) ![](assets/new.png)  
+- [2022-01-19-推荐-用规则引擎让你一天上线十个需求](https://toutiao.io/k/ldd1cse) ![](assets/new.png)  
+- [2022-01-19-推荐-京东ClickHouse的实践之路](https://toutiao.io/k/j0r6746) ![](assets/new.png)  
+- [2022-01-19-推荐-JVM调优的几种场景（建议收藏）](https://toutiao.io/k/0mfx2nd) ![](assets/new.png)  
+- [2022-01-19-推荐-浅谈缓存最终一致性的解决方案](https://toutiao.io/k/mgym1lv) ![](assets/new.png)  
+- [2022-01-19-推荐-再见了-VMware，一款更轻量级的虚拟机！](https://toutiao.io/k/xw2lnva) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

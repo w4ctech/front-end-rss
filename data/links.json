@@ -8714,8 +8714,18 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
-        "title": "提肛有用吗？",
-        "link": "https://www.v2ex.com/t/829258",
+        "title": "苹果 AppStore 某游戏，解锁一个地图要十多块钱， tb 上有几块钱全解锁的，什么原理？",
+        "link": "https://www.v2ex.com/t/829262",
+        "date": "2022-01-19"
+      },
+      {
+        "title": "Java 正则变量有什么命名规范吗",
+        "link": "https://www.v2ex.com/t/829261",
+        "date": "2022-01-19"
+      },
+      {
+        "title": "请问 MacOS 上有什么软件能让一个窗口始终保持在前？",
+        "link": "https://www.v2ex.com/t/829260",
         "date": "2022-01-19"
       },
       {
@@ -8824,11 +8834,6 @@
         "date": "2022-01-19"
       },
       {
-        "title": "Youtube Premium 印度车有一起的吗？ 45 一年",
-        "link": "https://www.v2ex.com/t/829228",
-        "date": "2022-01-19"
-      },
-      {
         "title": "已发布的 Kubernetes v1.23 较上一版本功能有哪些增强？",
         "link": "https://www.v2ex.com/t/829227",
         "date": "2022-01-19"
@@ -8882,26 +8887,6 @@
         "title": "让你的站点（Web）一键变成 APP（应用程序）（上）",
         "link": "https://www.v2ex.com/t/829214",
         "date": "2022-01-19"
-      },
-      {
-        "title": "21 世纪聊天功能退化的人们，聊天记录分享网站，关联 直男 ，不会聊天 ，类似书签地球， galgame",
-        "link": "https://www.v2ex.com/t/829212",
-        "date": "2022-01-19"
-      },
-      {
-        "title": "细思极恐，内网电脑上没有安装防护软件，省公司为什么能扫描到病毒？",
-        "link": "https://www.v2ex.com/t/829211",
-        "date": "2022-01-19"
-      },
-      {
-        "title": "写了个 Alfred Workflow Store，可以搜索&一键安装 Workflow",
-        "link": "https://www.v2ex.com/t/829210",
-        "date": "2022-01-19"
-      },
-      {
-        "title": "分享一个可以导出 word 文件的编辑器",
-        "link": "https://www.v2ex.com/t/829209",
-        "date": "2022-01-19"
       }
     ]
   },
@@ -8910,6 +8895,11 @@
     "title": "技术头条",
     "link": "http://blogread.cn/news/newest.php",
     "items": [
+      {
+        "title": "高效编写测试用例的技巧 (insights.thoughtworks.cn)",
+        "link": "https://blogread.cn/news/go.php?idItem=14906&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fwrite-effective-testcases-tips%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2022-01-19"
+      },
       {
         "title": "软件工程师应该如何吵架？ (insights.thoughtworks.cn)",
         "link": "https://blogread.cn/news/go.php?idItem=14905&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fsoftware-engineer-quarrel-culture%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
@@ -9004,11 +8994,6 @@
         "title": "Vue开发移动端项目，这个工具对你一定有帮助 (mp.weixin.qq.com)",
         "link": "https://blogread.cn/news/go.php?idItem=14887&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247492913%26amp%3Bidx%3D2%26amp%3Bsn%3D925a00629c2130296cfc8227eddec078%26amp%3Bchksm%3Dfa3f046acd488d7cf66e591ea5dbbf890d12924a8b69610d80dd8130e00b20dde4b73211c64b%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
         "date": "2022-01-19"
-      },
-      {
-        "title": "Ghost in the Log4Shell (insights.thoughtworks.cn)",
-        "link": "https://blogread.cn/news/go.php?idItem=14886&url=https%3A%2F%2Finsights.thoughtworks.cn%2Flog4j-log4shell%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-01-19"
       }
     ]
   },
@@ -9043,13 +9028,13 @@
         "date": "2022-01-19"
       },
       {
-        "title": "伴鱼事件分析平台设计",
-        "link": "https://toutiao.io/k/1q1s2t1",
+        "title": "Flutter For Web 编译的两种方案",
+        "link": "https://toutiao.io/k/t34zvms",
         "date": "2022-01-19"
       },
       {
-        "title": "Flutter For Web 编译的两种方案",
-        "link": "https://toutiao.io/k/t34zvms",
+        "title": "伴鱼事件分析平台设计",
+        "link": "https://toutiao.io/k/1q1s2t1",
         "date": "2022-01-19"
       },
       {
@@ -9108,13 +9093,13 @@
         "date": "2022-01-19"
       },
       {
-        "title": "[推荐] JVM调优的几种场景（建议收藏）",
-        "link": "https://toutiao.io/k/0mfx2nd",
+        "title": "[推荐] 从零开始搭建公司微服务授权架构技术栈（3种模式），这架构稳的一批...",
+        "link": "https://toutiao.io/k/4g58j8v",
         "date": "2022-01-19"
       },
       {
-        "title": "[推荐] 据说看完这篇 JVM 要一小时",
-        "link": "https://toutiao.io/k/1dauixx",
+        "title": "[推荐] JVM调优的几种场景（建议收藏）",
+        "link": "https://toutiao.io/k/0mfx2nd",
         "date": "2022-01-19"
       },
       {
@@ -9123,43 +9108,8 @@
         "date": "2022-01-19"
       },
       {
-        "title": "[推荐] 用规则引擎让你一天上线十个需求",
-        "link": "https://toutiao.io/k/ldd1cse",
-        "date": "2022-01-19"
-      },
-      {
         "title": "[推荐] 网络编程怎么做才算是优雅？",
         "link": "https://toutiao.io/k/zylzzpi",
-        "date": "2022-01-19"
-      },
-      {
-        "title": "[推荐] 从零开始搭建公司微服务授权架构技术栈（3种模式），这架构稳的一批...",
-        "link": "https://toutiao.io/k/4g58j8v",
-        "date": "2022-01-19"
-      },
-      {
-        "title": "[推荐] 从零打造 Instagram",
-        "link": "https://toutiao.io/k/hufqvji",
-        "date": "2022-01-19"
-      },
-      {
-        "title": "[推荐] 干货总结！Kafka 面试大全（万字长文，37 张图，28 个知识点）",
-        "link": "https://toutiao.io/k/f9qe7be",
-        "date": "2022-01-19"
-      },
-      {
-        "title": "[推荐] 京东ClickHouse的实践之路",
-        "link": "https://toutiao.io/k/j0r6746",
-        "date": "2022-01-19"
-      },
-      {
-        "title": "[推荐] 关于代码质量退化的思考",
-        "link": "https://toutiao.io/k/zzaz6vu",
-        "date": "2022-01-19"
-      },
-      {
-        "title": "[推荐] 面渣逆袭：Java并发六十问，图文详解，快来看看你会多少道！",
-        "link": "https://toutiao.io/k/4ndh1gd",
         "date": "2022-01-19"
       },
       {
@@ -9168,13 +9118,48 @@
         "date": "2022-01-19"
       },
       {
+        "title": "[推荐] 再见了 VMware，一款更轻量级的虚拟机！",
+        "link": "https://toutiao.io/k/xw2lnva",
+        "date": "2022-01-19"
+      },
+      {
         "title": "[推荐] 浅谈缓存最终一致性的解决方案",
         "link": "https://toutiao.io/k/mgym1lv",
         "date": "2022-01-19"
       },
       {
-        "title": "[推荐] 再见了 VMware，一款更轻量级的虚拟机！",
-        "link": "https://toutiao.io/k/xw2lnva",
+        "title": "[推荐] 干货总结！Kafka 面试大全（万字长文，37 张图，28 个知识点）",
+        "link": "https://toutiao.io/k/f9qe7be",
+        "date": "2022-01-19"
+      },
+      {
+        "title": "[推荐] 关于代码质量退化的思考",
+        "link": "https://toutiao.io/k/zzaz6vu",
+        "date": "2022-01-19"
+      },
+      {
+        "title": "[推荐] 从零打造 Instagram",
+        "link": "https://toutiao.io/k/hufqvji",
+        "date": "2022-01-19"
+      },
+      {
+        "title": "[推荐] 用规则引擎让你一天上线十个需求",
+        "link": "https://toutiao.io/k/ldd1cse",
+        "date": "2022-01-19"
+      },
+      {
+        "title": "[推荐] 据说看完这篇 JVM 要一小时",
+        "link": "https://toutiao.io/k/1dauixx",
+        "date": "2022-01-19"
+      },
+      {
+        "title": "[推荐] 面渣逆袭：Java并发六十问，图文详解，快来看看你会多少道！",
+        "link": "https://toutiao.io/k/4ndh1gd",
+        "date": "2022-01-19"
+      },
+      {
+        "title": "[推荐] 京东ClickHouse的实践之路",
+        "link": "https://toutiao.io/k/j0r6746",
         "date": "2022-01-19"
       }
     ]

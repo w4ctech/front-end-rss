@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-19 08:14:21，:rocket: 更新条数: +1788， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-19 08:24:52，:rocket: 更新条数: +1785， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,7 +494,9 @@
 </summary>
 
 
-- [2022-01-19-提肛有用吗？](https://www.v2ex.com/t/829258) ![](assets/new.png)  
+- [2022-01-19-苹果-AppStore-某游戏，解锁一个地图要十多块钱，-tb-上有几块钱全解锁的，什么原理？](https://www.v2ex.com/t/829262) ![](assets/new.png)  
+- [2022-01-19-Java-正则变量有什么命名规范吗](https://www.v2ex.com/t/829261) ![](assets/new.png)  
+- [2022-01-19-请问-MacOS-上有什么软件能让一个窗口始终保持在前？](https://www.v2ex.com/t/829260) ![](assets/new.png)  
 - [2022-01-19-第三方供应商长时间没有推送数据，这到底是我们自己的锅还是供应商的锅？](https://www.v2ex.com/t/829257) ![](assets/new.png)  
 - [2022-01-19-网易-游戏周边商城前后端岗位招新同学了](https://www.v2ex.com/t/829254) ![](assets/new.png)  
 - [2022-01-19-什么样的英文水平可以流畅地阅读英文书籍和文档，顺便求个学习路线](https://www.v2ex.com/t/829253) ![](assets/new.png)  
@@ -512,8 +514,6 @@
 - [2022-01-19-想买笔电求推荐](https://www.v2ex.com/t/829236) ![](assets/new.png)  
 - [2022-01-19-说说我最近远程的情况](https://www.v2ex.com/t/829235) ![](assets/new.png)  
 - [2022-01-19-图片合成视频的技术方案](https://www.v2ex.com/t/829234) ![](assets/new.png)  
-- [2022-01-19-求推荐一款可插入视频的安卓便签记本事](https://www.v2ex.com/t/829233) ![](assets/new.png)  
-- [2022-01-19-各位的自建笔记里都会记点什么](https://www.v2ex.com/t/829232) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -525,6 +525,7 @@
 </summary>
 
 
+- [2022-01-19-高效编写测试用例的技巧-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14906&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fwrite-effective-testcases-tips%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-01-19-软件工程师应该如何吵架？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14905&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fsoftware-engineer-quarrel-culture%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-01-19-Python之禅：编写优雅Python代码的16个原则-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14904&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493176%26amp%3Bidx%3D1%26amp%3Bsn%3Df2d627b156b058851c889b4445e11ec1%26amp%3Bchksm%3Dfa3f0763cd488e75569fb239eac349981802ba866826795ead0d9b7546d81579eed97e34bb65%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-01-19-公司这套架构统一处理try...catch，很牛逼！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14903&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493176%26amp%3Bidx%3D2%26amp%3Bsn%3D98ffd0ca1663318ac2b071210d422ade%26amp%3Bchksm%3Dfa3f0763cd488e75d3f771749cf8c542bc4a956a70c6a9b5d081ba654d919b72207bee03e9a5%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
@@ -544,7 +545,6 @@
 - [2022-01-19-微信Windows版本干了件大事！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14889&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247492923%26amp%3Bidx%3D2%26amp%3Bsn%3Dc9c6fa08f8b83076a9c54be2f332c552%26amp%3Bchksm%3Dfa3f0460cd488d760fec7aab0ad0ee572186ed51bd269393426c617030e7ac3b63d164b6e572%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-01-19-一位10年Google工程师给技术人的建议-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14888&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247492913%26amp%3Bidx%3D1%26amp%3Bsn%3Dac389822c4e6f5899bf51ab9abd8aa3b%26amp%3Bchksm%3Dfa3f046acd488d7cbcc06db3b901854c31fcb2e4a724a20be7c60e969c8d4ad9796a077e703d%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-01-19-Vue开发移动端项目，这个工具对你一定有帮助-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14887&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247492913%26amp%3Bidx%3D2%26amp%3Bsn%3D925a00629c2130296cfc8227eddec078%26amp%3Bchksm%3Dfa3f046acd488d7cf66e591ea5dbbf890d12924a8b69610d80dd8130e00b20dde4b73211c64b%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-01-19-Ghost-in-the-Log4Shell-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14886&url=https%3A%2F%2Finsights.thoughtworks.cn%2Flog4j-log4shell%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -561,8 +561,8 @@
 - [2022-01-19-带你彻底击溃跳表原理及其Golang实现！（内含图解）](https://toutiao.io/k/fp0dy5f) ![](assets/new.png)  
 - [2022-01-19-Python代替Excel-VBA，原来真的可以](https://toutiao.io/k/zqnpdh9) ![](assets/new.png)  
 - [2022-01-19-一位程序员的财务自由之路](https://toutiao.io/k/libwh52) ![](assets/new.png)  
-- [2022-01-19-伴鱼事件分析平台设计](https://toutiao.io/k/1q1s2t1) ![](assets/new.png)  
 - [2022-01-19-Flutter-For-Web-编译的两种方案](https://toutiao.io/k/t34zvms) ![](assets/new.png)  
+- [2022-01-19-伴鱼事件分析平台设计](https://toutiao.io/k/1q1s2t1) ![](assets/new.png)  
 - [2022-01-19-大吉大利虎年春节猫福盒，点击链接立即领券购买！](https://toutiao.io/k/y5ztper) ![](assets/new.png)  
 - [2022-01-19-NVS-——-js-实现的node版本管理工具](https://toutiao.io/k/rjwd2wq) ![](assets/new.png)  
 - [2022-01-19-超硬核！详解Apache-Hudi灵活的Payload机制](https://toutiao.io/k/sjeouk4) ![](assets/new.png)  
@@ -574,8 +574,8 @@
 - [2022-01-19-代码质量第2层-可重用的代码](https://toutiao.io/k/2d6u1v9) ![](assets/new.png)  
 - [2022-01-19-Form-表单在数栈的应用下：深入篇](https://toutiao.io/k/jtv0j02) ![](assets/new.png)  
 - [2022-01-19-阿里云容器服务差异化-SLO-混部技术实践](https://toutiao.io/k/xgkpiyh) ![](assets/new.png)  
+- [2022-01-19-推荐-从零开始搭建公司微服务授权架构技术栈（3种模式），这架构稳的一批...](https://toutiao.io/k/4g58j8v) ![](assets/new.png)  
 - [2022-01-19-推荐-JVM调优的几种场景（建议收藏）](https://toutiao.io/k/0mfx2nd) ![](assets/new.png)  
-- [2022-01-19-推荐-据说看完这篇-JVM-要一小时](https://toutiao.io/k/1dauixx) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

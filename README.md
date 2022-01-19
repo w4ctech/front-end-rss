@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-19 03:20:58，:rocket: 更新条数: +1783， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-19 03:38:07，:rocket: 更新条数: +1783， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,15 @@
 </summary>
 
 
+- [2022-01-19-市面上的-30W-GaN-小方块充电器](https://www.v2ex.com/t/829186) ![](assets/new.png)  
+- [2022-01-19-go-写的爬虫工具，求赞](https://www.v2ex.com/t/829185) ![](assets/new.png)  
+- [2022-01-19-有近期在京东/天猫购买-XBOX-的老哥吗，你们物流啥进度了？](https://www.v2ex.com/t/829184) ![](assets/new.png)  
+- [2022-01-19-一年一问,-年底涨薪或发年终奖了吗？](https://www.v2ex.com/t/829183) ![](assets/new.png)  
+- [2022-01-19-为啥回帖提示需要注册满-1000-天才能回贴?被禁言了?我也没说啥呀](https://www.v2ex.com/t/829182) ![](assets/new.png)  
+- [2022-01-19-V2Reader---基于-V2EX-API-2.0-的第三方-iOS/iPadOS/macOS-客户端，欢迎加入-Beta-测试！](https://www.v2ex.com/t/829181) ![](assets/new.png)  
+- [2022-01-19-腾讯企业邮箱的同事，@你们产品来领个工单吧。](https://www.v2ex.com/t/829179) ![](assets/new.png)  
+- [2022-01-19-360-真-TM-无耻！](https://www.v2ex.com/t/829178) ![](assets/new.png)  
+- [2022-01-19-坐标北京，首付使用信用贷的风险请教](https://www.v2ex.com/t/829177) ![](assets/new.png)  
 - [2022-01-19-如何根据一个字符串自动生成正则表达式](https://www.v2ex.com/t/829176) ![](assets/new.png)  
 - [2022-01-19-大家是否有用过-无码科技-的-API-接口？](https://www.v2ex.com/t/829175) ![](assets/new.png)  
 - [2022-01-19-百度网盘知道了用户名文件名和-Cookie，却仍然不公布分享的链接，为什么](https://www.v2ex.com/t/829173) ![](assets/new.png)  
@@ -505,15 +514,6 @@
 - [2022-01-19-安卓微信国际版怎么下载？](https://www.v2ex.com/t/829167) ![](assets/new.png)  
 - [2022-01-19-分布式环境下使用-MongoDB-作为数据库异常的卡](https://www.v2ex.com/t/829166) ![](assets/new.png)  
 - [2022-01-19-有没有办法屏蔽知乎首页的视频内容](https://www.v2ex.com/t/829165) ![](assets/new.png)  
-- [2022-01-19-禁用短信通知后显著提高手机使用体验](https://www.v2ex.com/t/829164) ![](assets/new.png)  
-- [2022-01-19-登录新机-icloud-需要验证旧-iPhone-的锁屏密码，忘记咋办？](https://www.v2ex.com/t/829163) ![](assets/new.png)  
-- [2022-01-19-iOS-播放音频有-安卓-上的-SRC-问题吗](https://www.v2ex.com/t/829161) ![](assets/new.png)  
-- [2022-01-19-typora-不让白嫖了，还有其他类似软件可以代替吗](https://www.v2ex.com/t/829160) ![](assets/new.png)  
-- [2022-01-19-微软收购动视暴雪好像-V2-大家都没讨论诶](https://www.v2ex.com/t/829157) ![](assets/new.png)  
-- [2022-01-19-公司安全软件每-15-秒会偷偷截一次屏](https://www.v2ex.com/t/829156) ![](assets/new.png)  
-- [2022-01-19-咸鱼上的京东代售家电靠谱吗？](https://www.v2ex.com/t/829153) ![](assets/new.png)  
-- [2022-01-19-阿里小号放货，价格上涨，-120-元/年，-10-元/月。](https://www.v2ex.com/t/829151) ![](assets/new.png)  
-- [2022-01-19-快过年了，你们开始裁员了吗](https://www.v2ex.com/t/829150) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -570,12 +570,12 @@
 - [2022-01-19-2021-大促-AntMonitor-总结---云原生-Prometheus-监控实践](https://toutiao.io/k/ajqw8gn) ![](assets/new.png)  
 - [2022-01-19-Flutter-For-Web-编译的两种方案](https://toutiao.io/k/t34zvms) ![](assets/new.png)  
 - [2022-01-19-动手实现一个适用于.NET-Core-的诊断工具](https://toutiao.io/k/6r068w9) ![](assets/new.png)  
-- [2022-01-19-推荐-据说看完这篇-JVM-要一小时](https://toutiao.io/k/1dauixx) ![](assets/new.png)  
-- [2022-01-19-推荐-从零开始搭建公司微服务授权架构技术栈（3种模式），这架构稳的一批...](https://toutiao.io/k/4g58j8v) ![](assets/new.png)  
-- [2022-01-19-推荐-京东ClickHouse的实践之路](https://toutiao.io/k/j0r6746) ![](assets/new.png)  
+- [2022-01-19-推荐-关于代码质量退化的思考](https://toutiao.io/k/zzaz6vu) ![](assets/new.png)  
 - [2022-01-19-推荐-干货总结！Kafka-面试大全（万字长文，37-张图，28-个知识点）](https://toutiao.io/k/f9qe7be) ![](assets/new.png)  
-- [2022-01-19-推荐-缓存一致性最佳实践](https://toutiao.io/k/ymscqc1) ![](assets/new.png)  
 - [2022-01-19-推荐-服务探活的五种方式](https://toutiao.io/k/1wuwmui) ![](assets/new.png)  
+- [2022-01-19-推荐-京东ClickHouse的实践之路](https://toutiao.io/k/j0r6746) ![](assets/new.png)  
+- [2022-01-19-推荐-网络编程怎么做才算是优雅？](https://toutiao.io/k/zylzzpi) ![](assets/new.png)  
+- [2022-01-19-推荐-缓存一致性最佳实践](https://toutiao.io/k/ymscqc1) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

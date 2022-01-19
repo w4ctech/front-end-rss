@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-01-19 03:20:58。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-01-19 03:38:07。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -156,7 +156,6 @@
 
 
 
-- [【V2EX】无法平衡工作和游戏，应该-放弃游戏-or-适当游戏？](https://www.v2ex.com/t/829129)
 - [【技术头条】用Python做一个游戏辅助脚本！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14893&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247492993%26amp%3Bidx%3D2%26amp%3Bsn%3D67230660b390f06f5584792da10b1078%26amp%3Bchksm%3Dfa3f04dacd488dccec0f68b1534821b98dde1730e4970ca0629239bd3275199e72af4b3c8771%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [......【查看更多】......](./details/tags/dev-game.md)
 
@@ -188,7 +187,6 @@
 - [【张鑫旭-鑫空间-鑫生活】JS复制文字到剪切板的极简实现及扩展](https://www.zhangxinxu.com/wordpress/2021/10/js-copy-paste-clipboard/)
 - [【V2EX】如何根据一个字符串自动生成正则表达式](https://www.v2ex.com/t/829176)
 - [【V2EX】macbook-上下滚动浏览器，页面帧率太低、有明显拖影怎么办？](https://www.v2ex.com/t/829169)
-- [【V2EX】关于-Java-的异步-HTTP-请求](https://www.v2ex.com/t/829136)
 - [【技术头条】公司这套架构统一处理try...catch，很牛逼！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14903&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493176%26amp%3Bidx%3D2%26amp%3Bsn%3D98ffd0ca1663318ac2b071210d422ade%26amp%3Bchksm%3Dfa3f0763cd488e75d3f771749cf8c542bc4a956a70c6a9b5d081ba654d919b72207bee03e9a5%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【开发者头条】伴鱼事件分析平台设计](https://toutiao.io/k/1q1s2t1)
 - [......【查看更多】......](./details/tags/javascript.md)
@@ -287,8 +285,6 @@
 - [【V2EX】百度网盘知道了用户名文件名和-Cookie，却仍然不公布分享的链接，为什么](https://www.v2ex.com/t/829173)
 - [【V2EX】公司安全软件每-15-秒会偷偷截一次屏](https://www.v2ex.com/t/829156)
 - [【V2EX】新加坡技术移民-新加坡知名互联网公司，招移动端（iOS,安卓,-RN），前端，后端（不限开发语言），-DevOps-/SRE-和-DBA-及安全等各类工程师，个税低，没有-99...](https://www.v2ex.com/t/829138)
-- [【V2EX】为什么-System-Report-中-Postman-等的类型显示为-iOS](https://www.v2ex.com/t/829133)
-- [【V2EX】都-2022-年了，哪些手机-App-还在使用不安全的未加密-HTTP-连接呢？](https://www.v2ex.com/t/829127)
 - [【技术头条】API面试四连杀：接口如何设计？安全如何保证？签名如何实现？防重如何实现？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14901&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493135%26amp%3Bidx%3D2%26amp%3Bsn%3D4569a4965be1a6e8b85369edd7fc91dc%26amp%3Bchksm%3Dfa3f0754cd488e427c9670d6aa67e0693725ee332f26e011767ba85562bd6bb08a65cc8aaaba%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【技术头条】一文读懂浏览器存储与缓存机制-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=14896&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F422666602%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【开发者头条】安全团队不可错过的7个开源工具](https://toutiao.io/k/6b3enyo)

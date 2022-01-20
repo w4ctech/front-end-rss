@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-20 04:49:54，:rocket: 更新条数: +1783， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-20 05:11:56，:rocket: 更新条数: +1786， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -66,11 +66,12 @@
 
 
 - [2022-01-20-1月19日全国新增新冠66例-四省份本土43例](https://m.caixin.com/m/2022-01-20/101832483.html) ![](assets/new.png)  
+- [2022-01-20-新冠病毒“物传人”成风险疑点-广深强化境外物品接收防控](https://m.caixin.com/m/2022-01-20/101832563.html) ![](assets/new.png)  
 - [2022-01-20-英格兰取消新冠限制-美国将分发4亿免费N95口罩｜大流行手记（1月19日）](https://m.caixin.com/m/2022-01-20/101832499.html) ![](assets/new.png)  
 - [2022-01-19-北京新增5例本土阳性，四区相继出现疫情](https://m.caixin.com/m/2022-01-19/101832330.html) ![](assets/new.png)  
 - [2022-01-19-北京朝阳新增无症状感染者行程发布](https://m.caixin.com/m/2022-01-19/101832388.html) ![](assets/new.png)  
-- [2022-01-19-全球首现仓鼠感染新冠-港府拟大规模扑杀](https://m.caixin.com/m/2022-01-19/101831948.html) ![](assets/new.png)  
 - [2022-01-19-最新海外疫情：新冠感染超3.33亿-累计接种新冠疫苗超97.03亿剂次](https://m.caixin.com/m/2022-01-19/101832247.html) ![](assets/new.png)  
+- [2022-01-19-全球首现仓鼠感染新冠-港府拟大规模扑杀](https://m.caixin.com/m/2022-01-19/101831948.html) ![](assets/new.png)  
 - [2022-01-19-【境内疫情观察】全国新增55例本土病例（1月18日）](https://database.caixin.com/m/2022-01-19/101832127.html) ![](assets/new.png)  
 - [2022-01-19-WHO称健康儿童不需要加强针，英法或已达疫情高峰｜大流行手记（1月18日）](https://m.caixin.com/m/2022-01-19/101831977.html) ![](assets/new.png)  
 - [2022-01-18-奥密克戎、德尔塔夹击-北京加强进京核酸检查](https://m.caixin.com/m/2022-01-18/101831795.html) ![](assets/new.png)  
@@ -84,7 +85,6 @@
 - [2022-01-17-【境内疫情观察】全国新增163例本土病例（1月16日）](https://database.caixin.com/m/2022-01-17/101831120.html) ![](assets/new.png)  
 - [2022-01-17-英国病例数下降-欧洲未接种疫苗人群正“退出社会”｜大流行手记（1月16日）](https://m.caixin.com/m/2022-01-17/101830909.html) ![](assets/new.png)  
 - [2022-01-17-跨境包裹内部难消杀-国际邮件或存“风险点”](https://companies.caixin.com/m/2022-01-17/101831345.html) ![](assets/new.png)  
-- [2022-01-17-国家卫健委：现有疫苗对预防感染奥密克戎仍有一定效果](https://m.caixin.com/m/2022-01-17/101831269.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -494,6 +494,9 @@
 </summary>
 
 
+- [2022-01-20-工作中需要维护一个-JFinal-项目，太他妈痛苦了](https://www.v2ex.com/t/829440) ![](assets/new.png)  
+- [2022-01-20-请问一下，-MYSQL-中，两张字段一样的表，能不能让它们自动比较后同步？](https://www.v2ex.com/t/829439) ![](assets/new.png)  
+- [2022-01-20-陷入了想换工作的恶性循环](https://www.v2ex.com/t/829438) ![](assets/new.png)  
 - [2022-01-20-分享我的独立运营日记-01](https://www.v2ex.com/t/829437) ![](assets/new.png)  
 - [2022-01-20-关于-pppoe-重拨后-IPV6-prefix-更新问题](https://www.v2ex.com/t/829436) ![](assets/new.png)  
 - [2022-01-20-WatchOS-的微信在蜂窝网络下能接收图片甚至视频了](https://www.v2ex.com/t/829435) ![](assets/new.png)  
@@ -511,9 +514,6 @@
 - [2022-01-20-想请教一下大家,准备买-M1-bp-平时公作需要开虚拟机,流畅吗?](https://www.v2ex.com/t/829417) ![](assets/new.png)  
 - [2022-01-20-自建邮箱如何使用-ios-推送功能](https://www.v2ex.com/t/829415) ![](assets/new.png)  
 - [2022-01-20-水星的交换机-SG105pro-价格翻了三四倍-啥情况。](https://www.v2ex.com/t/829414) ![](assets/new.png)  
-- [2022-01-20-汤加火山爆发对地球造成的环境污染，相当于禁放烟花多长时间对地球减少的污染](https://www.v2ex.com/t/829413) ![](assets/new.png)  
-- [2022-01-20-gmail-多账号如何分类？](https://www.v2ex.com/t/829412) ![](assets/new.png)  
-- [2022-01-20-List-list=new-ArrayList-写法的意义是什么](https://www.v2ex.com/t/829411) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -562,20 +562,20 @@
 - [2022-01-20-深入浅出Apache-Pulsar（1）：Pulsar-vs-Kafka](https://toutiao.io/k/u78e5hn) ![](assets/new.png)  
 - [2022-01-20-不止轻量，高性能图像处理库-ppl.cv-来袭](https://toutiao.io/k/yzw7lxc) ![](assets/new.png)  
 - [2022-01-20-2022过虎年新年春节大门立体对联大礼包，点击链接立即领取红包！](https://toutiao.io/k/mfp3pig) ![](assets/new.png)  
-- [2022-01-20-133-python|第六部分：正则表达式](https://toutiao.io/k/djwjb9d) ![](assets/new.png)  
 - [2022-01-20-为什么-Eslint-可以检查和修复格式问题，而-Babel-不可以？](https://toutiao.io/k/jqjcrcs) ![](assets/new.png)  
+- [2022-01-20-133-python|第六部分：正则表达式](https://toutiao.io/k/djwjb9d) ![](assets/new.png)  
 - [2022-01-20-原开发者出局，Faker.js-已被社区控制](https://toutiao.io/k/3xvhill) ![](assets/new.png)  
 - [2022-01-20-Rust-for-Linux-源码导读-|-Ref-引用计数容器](https://toutiao.io/k/q8j7civ) ![](assets/new.png)  
 - [2022-01-20-探索-.NET-601-揭开-ConfigurationManager-的面纱](https://toutiao.io/k/f9udpbd) ![](assets/new.png)  
-- [2022-01-20-推荐-再见了-VMware，一款更轻量级的虚拟机！](https://toutiao.io/k/xw2lnva) ![](assets/new.png)  
+- [2022-01-20-推荐-关于代码质量退化的思考](https://toutiao.io/k/zzaz6vu) ![](assets/new.png)  
 - [2022-01-20-推荐-浅谈缓存最终一致性的解决方案](https://toutiao.io/k/mgym1lv) ![](assets/new.png)  
 - [2022-01-20-推荐-缓存一致性最佳实践](https://toutiao.io/k/ymscqc1) ![](assets/new.png)  
-- [2022-01-20-推荐-干货总结！Kafka-面试大全（万字长文，37-张图，28-个知识点）](https://toutiao.io/k/f9qe7be) ![](assets/new.png)  
-- [2022-01-20-推荐-从零打造-Instagram](https://toutiao.io/k/hufqvji) ![](assets/new.png)  
-- [2022-01-20-推荐-从MVC到DDD的架构演进](https://toutiao.io/k/c7mn7hz) ![](assets/new.png)  
+- [2022-01-20-推荐-网络编程怎么做才算是优雅？](https://toutiao.io/k/zylzzpi) ![](assets/new.png)  
+- [2022-01-20-推荐-据说看完这篇-JVM-要一小时](https://toutiao.io/k/1dauixx) ![](assets/new.png)  
+- [2022-01-20-推荐-从零开始搭建公司微服务授权架构技术栈（3种模式），这架构稳的一批...](https://toutiao.io/k/4g58j8v) ![](assets/new.png)  
 - [2022-01-20-推荐-面渣逆袭：Java并发六十问，图文详解，快来看看你会多少道！](https://toutiao.io/k/4ndh1gd) ![](assets/new.png)  
-- [2022-01-20-推荐-京东ClickHouse的实践之路](https://toutiao.io/k/j0r6746) ![](assets/new.png)  
-- [2022-01-20-推荐-用规则引擎让你一天上线十个需求](https://toutiao.io/k/ldd1cse) ![](assets/new.png)  
+- [2022-01-20-推荐-JVM调优的几种场景（建议收藏）](https://toutiao.io/k/0mfx2nd) ![](assets/new.png)  
+- [2022-01-20-推荐-服务探活的五种方式](https://toutiao.io/k/1wuwmui) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

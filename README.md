@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-20 09:21:54，:rocket: 更新条数: +1790， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-20 09:38:51，:rocket: 更新条数: +1791， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,8 @@
 </summary>
 
 
+- [2022-01-20-塞纳河成都分团又有消息了](https://www.v2ex.com/t/829523) ![](assets/new.png)  
+- [2022-01-20-win-本-是不是-27+2k-显示器就够了-4k-提升不大](https://www.v2ex.com/t/829522) ![](assets/new.png)  
 - [2022-01-20-node-单线程是怎么应对高并发的场景的？](https://www.v2ex.com/t/829521) ![](assets/new.png)  
 - [2022-01-20-这种工作安排正常吗？我感觉我被坑了……](https://www.v2ex.com/t/829520) ![](assets/new.png)  
 - [2022-01-20-小米-11-突然黑屏了！](https://www.v2ex.com/t/829519) ![](assets/new.png)  
@@ -512,8 +514,6 @@
 - [2022-01-20-有偿想解决下-N1-旁路由的问题-辛苦老哥远程解决下](https://www.v2ex.com/t/829502) ![](assets/new.png)  
 - [2022-01-20-NFT，击鼓传花的泡沫](https://www.v2ex.com/t/829500) ![](assets/new.png)  
 - [2022-01-20-上海后端/前端小红书安全技术部招前/后端开发工程师](https://www.v2ex.com/t/829499) ![](assets/new.png)  
-- [2022-01-20-招募技术界的伯乐和千里马（内有彩蛋）](https://www.v2ex.com/t/829498) ![](assets/new.png)  
-- [2022-01-20-从-YouTube-上下载视频，高比特率的-AVC1-和低比特率的-VP9-编码哪个画质更好？-VP9-真的能做到降低一半文件体积吗？](https://www.v2ex.com/t/829497) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -562,8 +562,8 @@
 - [2022-01-20-深入浅出Apache-Pulsar（1）：Pulsar-vs-Kafka](https://toutiao.io/k/u78e5hn) ![](assets/new.png)  
 - [2022-01-20-不止轻量，高性能图像处理库-ppl.cv-来袭](https://toutiao.io/k/yzw7lxc) ![](assets/new.png)  
 - [2022-01-20-为什么-Eslint-可以检查和修复格式问题，而-Babel-不可以？](https://toutiao.io/k/jqjcrcs) ![](assets/new.png)  
-- [2022-01-20-133-python|第六部分：正则表达式](https://toutiao.io/k/djwjb9d) ![](assets/new.png)  
 - [2022-01-20-IPFS-速览](https://toutiao.io/k/wchxhiq) ![](assets/new.png)  
+- [2022-01-20-133-python|第六部分：正则表达式](https://toutiao.io/k/djwjb9d) ![](assets/new.png)  
 - [2022-01-20-2022过虎年新年春节大门立体对联大礼包，点击链接立即领取红包！](https://toutiao.io/k/mfp3pig) ![](assets/new.png)  
 - [2022-01-20-原开发者出局，Faker.js-已被社区控制](https://toutiao.io/k/3xvhill) ![](assets/new.png)  
 - [2022-01-20-Rust-for-Linux-源码导读-|-Ref-引用计数容器](https://toutiao.io/k/q8j7civ) ![](assets/new.png)  
@@ -573,9 +573,9 @@
 - [2022-01-20-深入探讨-Room-2.4.0-的最新进展](https://toutiao.io/k/e4kgrwh) ![](assets/new.png)  
 - [2022-01-20-浅谈C++回调函数的实现](https://toutiao.io/k/o8d6uf7) ![](assets/new.png)  
 - [2022-01-20-C#-使用-Excel-和-Math.Net-进行曲线拟合和数据预测](https://toutiao.io/k/v1hu10e) ![](assets/new.png)  
-- [2022-01-20-推荐-据说看完这篇-JVM-要一小时](https://toutiao.io/k/1dauixx) ![](assets/new.png)  
-- [2022-01-20-推荐-关于代码质量退化的思考](https://toutiao.io/k/zzaz6vu) ![](assets/new.png)  
-- [2022-01-20-推荐-干货总结！Kafka-面试大全（万字长文，37-张图，28-个知识点）](https://toutiao.io/k/f9qe7be) ![](assets/new.png)  
+- [2022-01-20-推荐-网络编程怎么做才算是优雅？](https://toutiao.io/k/zylzzpi) ![](assets/new.png)  
+- [2022-01-20-推荐-浅谈缓存最终一致性的解决方案](https://toutiao.io/k/mgym1lv) ![](assets/new.png)  
+- [2022-01-20-推荐-JVM调优的几种场景（建议收藏）](https://toutiao.io/k/0mfx2nd) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

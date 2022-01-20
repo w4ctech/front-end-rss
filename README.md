@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-20 03:41:40，:rocket: 更新条数: +1788， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-20 03:54:41，:rocket: 更新条数: +1787， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,13 @@
 </summary>
 
 
+- [2022-01-20-广州天河岑村附近租房怎么样呀](https://www.v2ex.com/t/829425) ![](assets/new.png)  
+- [2022-01-20-如果是为了税务筹划的话，可能最好还是移民新加坡了。](https://www.v2ex.com/t/829424) ![](assets/new.png)  
+- [2022-01-20-大家觉得自己能在在一家公司最久干多长时间？](https://www.v2ex.com/t/829423) ![](assets/new.png)  
+- [2022-01-20-改-legacy-code-改到想吐](https://www.v2ex.com/t/829421) ![](assets/new.png)  
+- [2022-01-20-调试把我调试笑了](https://www.v2ex.com/t/829419) ![](assets/new.png)  
+- [2022-01-20-招聘：区块链经济架构师-全球远端](https://www.v2ex.com/t/829418) ![](assets/new.png)  
+- [2022-01-20-想请教一下大家,准备买-M1-bp-平时公作需要开虚拟机,流畅吗?](https://www.v2ex.com/t/829417) ![](assets/new.png)  
 - [2022-01-20-自建邮箱如何使用-ios-推送功能](https://www.v2ex.com/t/829415) ![](assets/new.png)  
 - [2022-01-20-水星的交换机-SG105pro-价格翻了三四倍-啥情况。](https://www.v2ex.com/t/829414) ![](assets/new.png)  
 - [2022-01-20-汤加火山爆发对地球造成的环境污染，相当于禁放烟花多长时间对地球减少的污染](https://www.v2ex.com/t/829413) ![](assets/new.png)  
@@ -507,13 +514,6 @@
 - [2022-01-20-hey-工具小改造](https://www.v2ex.com/t/829404) ![](assets/new.png)  
 - [2022-01-20-打算组装快移动固态硬盘，有什么硬盘盒推荐吗-？](https://www.v2ex.com/t/829402) ![](assets/new.png)  
 - [2022-01-20-Java-如何分析-dump-文件信息](https://www.v2ex.com/t/829401) ![](assets/new.png)  
-- [2022-01-20-21-年到现在亏出翔了](https://www.v2ex.com/t/829400) ![](assets/new.png)  
-- [2022-01-20-你们微信昨天下午出问题了吗](https://www.v2ex.com/t/829399) ![](assets/new.png)  
-- [2022-01-20-企微-vs-钉钉-vs-飞书](https://www.v2ex.com/t/829398) ![](assets/new.png)  
-- [2022-01-20-macOS-系统、输入法卡顿，需要每天重启或重新登陆，这个问题究竟怎么解决？](https://www.v2ex.com/t/829397) ![](assets/new.png)  
-- [2022-01-20-项目组零基础转做前端，求助一点关于-React-项目架构相关的问题，做-Web-的图形编辑器](https://www.v2ex.com/t/829395) ![](assets/new.png)  
-- [2022-01-20-钉钉是怎么强奸了我的电脑](https://www.v2ex.com/t/829393) ![](assets/new.png)  
-- [2022-01-20-前端招聘区块链公司瑞士基金会背景,有私募机会,token-激励](https://www.v2ex.com/t/829392) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -567,15 +567,15 @@
 - [2022-01-20-原开发者出局，Faker.js-已被社区控制](https://toutiao.io/k/3xvhill) ![](assets/new.png)  
 - [2022-01-20-Rust-for-Linux-源码导读-|-Ref-引用计数容器](https://toutiao.io/k/q8j7civ) ![](assets/new.png)  
 - [2022-01-20-探索-.NET-601-揭开-ConfigurationManager-的面纱](https://toutiao.io/k/f9udpbd) ![](assets/new.png)  
-- [2022-01-20-推荐-再见了-VMware，一款更轻量级的虚拟机！](https://toutiao.io/k/xw2lnva) ![](assets/new.png)  
-- [2022-01-20-推荐-JVM调优的几种场景（建议收藏）](https://toutiao.io/k/0mfx2nd) ![](assets/new.png)  
-- [2022-01-20-推荐-从零开始搭建公司微服务授权架构技术栈（3种模式），这架构稳的一批...](https://toutiao.io/k/4g58j8v) ![](assets/new.png)  
-- [2022-01-20-推荐-浅谈缓存最终一致性的解决方案](https://toutiao.io/k/mgym1lv) ![](assets/new.png)  
-- [2022-01-20-推荐-从零打造-Instagram](https://toutiao.io/k/hufqvji) ![](assets/new.png)  
-- [2022-01-20-推荐-京东ClickHouse的实践之路](https://toutiao.io/k/j0r6746) ![](assets/new.png)  
-- [2022-01-20-推荐-服务探活的五种方式](https://toutiao.io/k/1wuwmui) ![](assets/new.png)  
-- [2022-01-20-推荐-从MVC到DDD的架构演进](https://toutiao.io/k/c7mn7hz) ![](assets/new.png)  
 - [2022-01-20-推荐-干货总结！Kafka-面试大全（万字长文，37-张图，28-个知识点）](https://toutiao.io/k/f9qe7be) ![](assets/new.png)  
+- [2022-01-20-推荐-京东ClickHouse的实践之路](https://toutiao.io/k/j0r6746) ![](assets/new.png)  
+- [2022-01-20-推荐-浅谈缓存最终一致性的解决方案](https://toutiao.io/k/mgym1lv) ![](assets/new.png)  
+- [2022-01-20-推荐-面渣逆袭：Java并发六十问，图文详解，快来看看你会多少道！](https://toutiao.io/k/4ndh1gd) ![](assets/new.png)  
+- [2022-01-20-推荐-缓存一致性最佳实践](https://toutiao.io/k/ymscqc1) ![](assets/new.png)  
+- [2022-01-20-推荐-网络编程怎么做才算是优雅？](https://toutiao.io/k/zylzzpi) ![](assets/new.png)  
+- [2022-01-20-推荐-从零开始搭建公司微服务授权架构技术栈（3种模式），这架构稳的一批...](https://toutiao.io/k/4g58j8v) ![](assets/new.png)  
+- [2022-01-20-推荐-服务探活的五种方式](https://toutiao.io/k/1wuwmui) ![](assets/new.png)  
+- [2022-01-20-推荐-再见了-VMware，一款更轻量级的虚拟机！](https://toutiao.io/k/xw2lnva) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

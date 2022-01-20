@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-20 10:13:20，:rocket: 更新条数: +1792， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-20 10:23:08，:rocket: 更新条数: +1792， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,8 @@
 </summary>
 
 
+- [2022-01-20-分享一个-iOS-上-Sony-耳机-NFC-设备切换的方法](https://www.v2ex.com/t/829533) ![](assets/new.png)  
+- [2022-01-20-环洋诚信TrustOcean怎么了？](https://www.v2ex.com/t/829532) ![](assets/new.png)  
 - [2022-01-20-手机版的钉钉当遇到消息内容是-markdown（有图片、文字、超链接，一般都是钉钉机器人推送）无法部分选择复制。你们也这样么？](https://www.v2ex.com/t/829531) ![](assets/new.png)  
 - [2022-01-20-一种新的-NFT：如何创建全球唯一的-DAO](https://www.v2ex.com/t/829530) ![](assets/new.png)  
 - [2022-01-20-Python-的-if-如果判断语句过于冗长，有书写技巧不？](https://www.v2ex.com/t/829529) ![](assets/new.png)  
@@ -512,8 +514,6 @@
 - [2022-01-20-给你一个逃离的机会](https://www.v2ex.com/t/829510) ![](assets/new.png)  
 - [2022-01-20-有没有自己搭建的邮件服务器推荐？](https://www.v2ex.com/t/829509) ![](assets/new.png)  
 - [2022-01-20-个人社保代缴问题](https://www.v2ex.com/t/829508) ![](assets/new.png)  
-- [2022-01-20-苹果设备访问接口比-windows-要慢吗？](https://www.v2ex.com/t/829507) ![](assets/new.png)  
-- [2022-01-20-求助：更新-macOS-Big-Sur-后-Postman-的中文都显示为条纹方块](https://www.v2ex.com/t/829506) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -573,9 +573,9 @@
 - [2022-01-20-浅谈C++回调函数的实现](https://toutiao.io/k/o8d6uf7) ![](assets/new.png)  
 - [2022-01-20-深入探讨-Room-2.4.0-的最新进展](https://toutiao.io/k/e4kgrwh) ![](assets/new.png)  
 - [2022-01-20-C#-使用-Excel-和-Math.Net-进行曲线拟合和数据预测](https://toutiao.io/k/v1hu10e) ![](assets/new.png)  
-- [2022-01-20-推荐-缓存一致性最佳实践](https://toutiao.io/k/ymscqc1) ![](assets/new.png)  
-- [2022-01-20-推荐-京东ClickHouse的实践之路](https://toutiao.io/k/j0r6746) ![](assets/new.png)  
-- [2022-01-20-推荐-网络编程怎么做才算是优雅？](https://toutiao.io/k/zylzzpi) ![](assets/new.png)  
+- [2022-01-20-推荐-JVM调优的几种场景（建议收藏）](https://toutiao.io/k/0mfx2nd) ![](assets/new.png)  
+- [2022-01-20-推荐-服务探活的五种方式](https://toutiao.io/k/1wuwmui) ![](assets/new.png)  
+- [2022-01-20-推荐-干货总结！Kafka-面试大全（万字长文，37-张图，28-个知识点）](https://toutiao.io/k/f9qe7be) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

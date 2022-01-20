@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-20 06:25:00，:rocket: 更新条数: +1789， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-20 06:44:28，:rocket: 更新条数: +1789， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,8 +494,14 @@
 </summary>
 
 
+- [2022-01-20-有未知域名解析到我的腾讯云服务器，然后腾讯把我的服务器给停了](https://www.v2ex.com/t/829471) ![](assets/new.png)  
+- [2022-01-20-主力办公，业余游戏的笔记本求推荐](https://www.v2ex.com/t/829468) ![](assets/new.png)  
+- [2022-01-20-市面上有这样的解决方案么？将多个设备图片/视频片段自动剪辑成视频成品](https://www.v2ex.com/t/829467) ![](assets/new.png)  
+- [2022-01-20-调研工厂北京研发团队急招后端岗位](https://www.v2ex.com/t/829466) ![](assets/new.png)  
+- [2022-01-20-求推荐类淘宝评论-wordpress-插件](https://www.v2ex.com/t/829465) ![](assets/new.png)  
+- [2022-01-20-关于透明代理问题](https://www.v2ex.com/t/829464) ![](assets/new.png)  
 - [2022-01-20-有完美适配新款-MBP-的外设吗？](https://www.v2ex.com/t/829463) ![](assets/new.png)  
-- [2022-01-20-聊聊远程工作那些事](https://www.v2ex.com/t/829462) ![](assets/new.png)  
+- [2022-01-20-成都-聊聊远程工作那些事](https://www.v2ex.com/t/829462) ![](assets/new.png)  
 - [2022-01-20-现在哪里还有一百多的-xgpu-会员买？](https://www.v2ex.com/t/829461) ![](assets/new.png)  
 - [2022-01-20-如何查询自己专业所属的一级学科的名称，和一级学科的代码](https://www.v2ex.com/t/829460) ![](assets/new.png)  
 - [2022-01-20-微信好像越来越膨胀了](https://www.v2ex.com/t/829459) ![](assets/new.png)  
@@ -508,12 +514,6 @@
 - [2022-01-20-有办法实现在不漏-UDP/DNS-的情况下使本机全部流量依次通过-Proxy1->Proxy2-到达-Target-Server-吗？](https://www.v2ex.com/t/829447) ![](assets/new.png)  
 - [2022-01-20-farbox.org-是不是挂了？我看作者半年多没有回复信息，网站也不能评论了](https://www.v2ex.com/t/829442) ![](assets/new.png)  
 - [2022-01-20-支持-tmux-类似-rz-/-sz-的-trzsz-发布了-v0.3.1-新版本](https://www.v2ex.com/t/829441) ![](assets/new.png)  
-- [2022-01-20-工作中需要维护一个-JFinal-项目，太他妈痛苦了](https://www.v2ex.com/t/829440) ![](assets/new.png)  
-- [2022-01-20-请问一下，-MYSQL-中，两张字段一样的表，能不能让它们自动比较后同步？](https://www.v2ex.com/t/829439) ![](assets/new.png)  
-- [2022-01-20-陷入了想换工作的恶性循环](https://www.v2ex.com/t/829438) ![](assets/new.png)  
-- [2022-01-20-分享我的独立运营日记-01](https://www.v2ex.com/t/829437) ![](assets/new.png)  
-- [2022-01-20-关于-pppoe-重拨后-IPV6-prefix-更新问题](https://www.v2ex.com/t/829436) ![](assets/new.png)  
-- [2022-01-20-WatchOS-的微信在蜂窝网络下能接收图片甚至视频了](https://www.v2ex.com/t/829435) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -569,13 +569,13 @@
 - [2022-01-20-探索-.NET-601-揭开-ConfigurationManager-的面纱](https://toutiao.io/k/f9udpbd) ![](assets/new.png)  
 - [2022-01-20-IPFS-速览](https://toutiao.io/k/wchxhiq) ![](assets/new.png)  
 - [2022-01-20-优惠券系统架构设计与实践](https://toutiao.io/k/q6yzp5j) ![](assets/new.png)  
+- [2022-01-20-计算机体系结构基础](https://toutiao.io/k/6fq7gt9) ![](assets/new.png)  
 - [2022-01-20-浅谈C++回调函数的实现](https://toutiao.io/k/o8d6uf7) ![](assets/new.png)  
 - [2022-01-20-深入探讨-Room-2.4.0-的最新进展](https://toutiao.io/k/e4kgrwh) ![](assets/new.png)  
-- [2022-01-20-计算机体系结构基础](https://toutiao.io/k/6fq7gt9) ![](assets/new.png)  
 - [2022-01-20-C#-使用-Excel-和-Math.Net-进行曲线拟合和数据预测](https://toutiao.io/k/v1hu10e) ![](assets/new.png)  
-- [2022-01-20-推荐-网络编程怎么做才算是优雅？](https://toutiao.io/k/zylzzpi) ![](assets/new.png)  
-- [2022-01-20-推荐-从MVC到DDD的架构演进](https://toutiao.io/k/c7mn7hz) ![](assets/new.png)  
-- [2022-01-20-推荐-JVM调优的几种场景（建议收藏）](https://toutiao.io/k/0mfx2nd) ![](assets/new.png)  
+- [2022-01-20-推荐-再见了-VMware，一款更轻量级的虚拟机！](https://toutiao.io/k/xw2lnva) ![](assets/new.png)  
+- [2022-01-20-推荐-面渣逆袭：Java并发六十问，图文详解，快来看看你会多少道！](https://toutiao.io/k/4ndh1gd) ![](assets/new.png)  
+- [2022-01-20-推荐-据说看完这篇-JVM-要一小时](https://toutiao.io/k/1dauixx) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

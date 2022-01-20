@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-01-20 05:11:56。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-01-20 05:19:48。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -241,7 +241,6 @@
 - [【武汉肺炎防疫全纪录(财新网)】广州17岁男生在定点医院参加高考-特殊考场视频监考](https://m.caixin.com/m/2021-06-05/101723418.html)
 - [【武汉肺炎防疫全纪录(财新网)】林郑月娥率13高官直播接种科兴疫苗-复星疫苗预计周中到港](https://m.caixin.com/m/2021-02-22/101665724.html)
 - [【V2EX】WatchOS-的微信在蜂窝网络下能接收图片甚至视频了](https://www.v2ex.com/t/829435)
-- [【V2EX】有无好用的-AI-移除视频水印的软件](https://www.v2ex.com/t/829391)
 - [【开发者头条】不止轻量，高性能图像处理库-ppl.cv-来袭](https://toutiao.io/k/yzw7lxc)
 - [......【查看更多】......](./details/tags/audio-video.md)
 
@@ -354,7 +353,6 @@
 
 
 - [【V2EX】招聘：区块链经济架构师-全球远端](https://www.v2ex.com/t/829418)
-- [【V2EX】前端招聘区块链公司瑞士基金会背景,有私募机会,token-激励](https://www.v2ex.com/t/829392)
 - [【开发者头条】推荐-干货总结！Kafka-面试大全（万字长文，37-张图，28-个知识点）](https://toutiao.io/k/f9qe7be)
 - [......【查看更多】......](./details/tags/job-interview.md)
 

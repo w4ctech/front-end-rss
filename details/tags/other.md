@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-01-20 13:56:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-01-20 14:11:38。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -6,7 +6,7 @@
 
 
 - [2022-01-20-最新疫情：全国新冠累计确诊105411例-累计接种新冠疫苗超29.51亿剂次](https://m.caixin.com/m/2022-01-20/101832706.html) 
-- [2022-01-20-5家中国药企获准仿制默沙东新冠口服药-均只能出口](https://m.caixin.com/m/2022-01-20/101832904.html) 
+- [2022-01-20-中国药企获准仿制全球首款口服抗新冠病毒药-均只能出口](https://m.caixin.com/m/2022-01-20/101832904.html) 
 - [2022-01-20-北京新增5确诊病例-两地调整为中风险地区](https://m.caixin.com/m/2022-01-20/101832749.html) 
 - [2022-01-20-港大研发新冠DNA疫苗-可快速调整应对变种病毒](https://m.caixin.com/m/2022-01-20/101832588.html) 
 - [2022-01-20-最新海外疫情：新冠感染超3.37亿-累计接种新冠疫苗超97.34亿剂次](https://m.caixin.com/m/2022-01-20/101832703.html) 
@@ -1732,15 +1732,15 @@
 - [2022-01-20-浅谈C++回调函数的实现](https://toutiao.io/k/o8d6uf7) 
 - [2022-01-20-深入探讨-Room-2.4.0-的最新进展](https://toutiao.io/k/e4kgrwh) 
 - [2022-01-20-C#-使用-Excel-和-Math.Net-进行曲线拟合和数据预测](https://toutiao.io/k/v1hu10e) 
-- [2022-01-20-推荐-用规则引擎让你一天上线十个需求](https://toutiao.io/k/ldd1cse) 
-- [2022-01-20-推荐-从零打造-Instagram](https://toutiao.io/k/hufqvji) 
-- [2022-01-20-推荐-从零开始搭建公司微服务授权架构技术栈（3种模式），这架构稳的一批...](https://toutiao.io/k/4g58j8v) 
-- [2022-01-20-推荐-关于代码质量退化的思考](https://toutiao.io/k/zzaz6vu) 
-- [2022-01-20-推荐-据说看完这篇-JVM-要一小时](https://toutiao.io/k/1dauixx) 
-- [2022-01-20-推荐-服务探活的五种方式](https://toutiao.io/k/1wuwmui) 
 - [2022-01-20-推荐-JVM调优的几种场景（建议收藏）](https://toutiao.io/k/0mfx2nd) 
+- [2022-01-20-推荐-据说看完这篇-JVM-要一小时](https://toutiao.io/k/1dauixx) 
+- [2022-01-20-推荐-关于代码质量退化的思考](https://toutiao.io/k/zzaz6vu) 
+- [2022-01-20-推荐-从零开始搭建公司微服务授权架构技术栈（3种模式），这架构稳的一批...](https://toutiao.io/k/4g58j8v) 
+- [2022-01-20-推荐-再见了-VMware，一款更轻量级的虚拟机！](https://toutiao.io/k/xw2lnva) 
 - [2022-01-20-推荐-面渣逆袭：Java并发六十问，图文详解，快来看看你会多少道！](https://toutiao.io/k/4ndh1gd) 
 - [2022-01-20-推荐-从MVC到DDD的架构演进](https://toutiao.io/k/c7mn7hz) 
-- [2022-01-20-推荐-再见了-VMware，一款更轻量级的虚拟机！](https://toutiao.io/k/xw2lnva) 
-- [2022-01-20-推荐-京东ClickHouse的实践之路](https://toutiao.io/k/j0r6746) 
+- [2022-01-20-推荐-服务探活的五种方式](https://toutiao.io/k/1wuwmui) 
 - [2022-01-20-推荐-网络编程怎么做才算是优雅？](https://toutiao.io/k/zylzzpi) 
+- [2022-01-20-推荐-从零打造-Instagram](https://toutiao.io/k/hufqvji) 
+- [2022-01-20-推荐-京东ClickHouse的实践之路](https://toutiao.io/k/j0r6746) 
+- [2022-01-20-推荐-用规则引擎让你一天上线十个需求](https://toutiao.io/k/ldd1cse) 

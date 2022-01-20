@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-20 12:33:43，:rocket: 更新条数: +1799， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-20 12:55:21，:rocket: 更新条数: +1799， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,8 @@
 </summary>
 
 
+- [2022-01-20-IPv4-如何远程控制有公网-IPv6-的电脑？](https://www.v2ex.com/t/829556) ![](assets/new.png)  
+- [2022-01-20-有人用-M1-芯片玩-UE5-吗，速度如何](https://www.v2ex.com/t/829555) ![](assets/new.png)  
 - [2022-01-20-北京的行程码已带星号](https://www.v2ex.com/t/829554) ![](assets/new.png)  
 - [2022-01-20-求分享房源信息，上海、能养宠物、小区能办停车包月](https://www.v2ex.com/t/829553) ![](assets/new.png)  
 - [2022-01-20-有-properties-配置文件转-bean-工具推荐吗？](https://www.v2ex.com/t/829552) ![](assets/new.png)  
@@ -512,8 +514,6 @@
 - [2022-01-20-一个自用桌面应用程序-F-Curator，方便离线管理收藏的网页](https://www.v2ex.com/t/829537) ![](assets/new.png)  
 - [2022-01-20-工作地点杨高中路+龙华中路，情侣整租一居室哪里比较好？](https://www.v2ex.com/t/829536) ![](assets/new.png)  
 - [2022-01-20-期望薪资到底是怎么算的](https://www.v2ex.com/t/829535) ![](assets/new.png)  
-- [2022-01-20-把自己-2021-年拍过的照片做成了视频](https://www.v2ex.com/t/829534) ![](assets/new.png)  
-- [2022-01-20-分享一个-iOS-上-Sony-耳机-NFC-设备切换的方法](https://www.v2ex.com/t/829533) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -573,9 +573,9 @@
 - [2022-01-20-浅谈C++回调函数的实现](https://toutiao.io/k/o8d6uf7) ![](assets/new.png)  
 - [2022-01-20-深入探讨-Room-2.4.0-的最新进展](https://toutiao.io/k/e4kgrwh) ![](assets/new.png)  
 - [2022-01-20-C#-使用-Excel-和-Math.Net-进行曲线拟合和数据预测](https://toutiao.io/k/v1hu10e) ![](assets/new.png)  
-- [2022-01-20-推荐-浅谈缓存最终一致性的解决方案](https://toutiao.io/k/mgym1lv) ![](assets/new.png)  
-- [2022-01-20-推荐-缓存一致性最佳实践](https://toutiao.io/k/ymscqc1) ![](assets/new.png)  
 - [2022-01-20-推荐-再见了-VMware，一款更轻量级的虚拟机！](https://toutiao.io/k/xw2lnva) ![](assets/new.png)  
+- [2022-01-20-推荐-据说看完这篇-JVM-要一小时](https://toutiao.io/k/1dauixx) ![](assets/new.png)  
+- [2022-01-20-推荐-关于代码质量退化的思考](https://toutiao.io/k/zzaz6vu) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

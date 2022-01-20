@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-20 08:56:37，:rocket: 更新条数: +1789， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-20 09:13:13，:rocket: 更新条数: +1789， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -65,13 +65,13 @@
 </summary>
 
 
-- [2022-01-20-1月19日全国新增新冠66例-四省份本土43例](https://m.caixin.com/m/2022-01-20/101832483.html) ![](assets/new.png)  
+- [2022-01-20-最新疫情：全国新冠累计确诊105411例-累计接种新冠疫苗超29.51亿剂次](https://m.caixin.com/m/2022-01-20/101832706.html) ![](assets/new.png)  
 - [2022-01-20-港大研发新冠DNA疫苗-可快速调整应对变种病毒](https://m.caixin.com/m/2022-01-20/101832588.html) ![](assets/new.png)  
 - [2022-01-20-新冠病毒“物传人”成风险疑点-广深强化境外物品接收防控](https://m.caixin.com/m/2022-01-20/101832563.html) ![](assets/new.png)  
+- [2022-01-20-最新海外疫情：新冠感染超3.37亿-累计接种新冠疫苗超97.34亿剂次](https://m.caixin.com/m/2022-01-20/101832703.html) ![](assets/new.png)  
 - [2022-01-20-【境内疫情观察】全国新增43例本土病例（1月19日）](https://database.caixin.com/m/2022-01-20/101832625.html) ![](assets/new.png)  
 - [2022-01-20-英格兰取消新冠限制-美国将分发4亿免费N95口罩｜大流行手记（1月19日）](https://m.caixin.com/m/2022-01-20/101832499.html) ![](assets/new.png)  
 - [2022-01-19-北京新增5例本土阳性，四区相继出现疫情](https://m.caixin.com/m/2022-01-19/101832330.html) ![](assets/new.png)  
-- [2022-01-19-最新海外疫情：新冠感染超3.33亿-累计接种新冠疫苗超97.03亿剂次](https://m.caixin.com/m/2022-01-19/101832247.html) ![](assets/new.png)  
 - [2022-01-19-北京朝阳新增无症状感染者行程发布](https://m.caixin.com/m/2022-01-19/101832388.html) ![](assets/new.png)  
 - [2022-01-19-全球首现仓鼠感染新冠-港府拟大规模扑杀](https://m.caixin.com/m/2022-01-19/101831948.html) ![](assets/new.png)  
 - [2022-01-19-【境内疫情观察】全国新增55例本土病例（1月18日）](https://database.caixin.com/m/2022-01-19/101832127.html) ![](assets/new.png)  
@@ -494,6 +494,9 @@
 </summary>
 
 
+- [2022-01-20-小米-11-突然黑屏了！](https://www.v2ex.com/t/829519) ![](assets/new.png)  
+- [2022-01-20-网页组件、页面、流程检查清单-checklist.design](https://www.v2ex.com/t/829518) ![](assets/new.png)  
+- [2022-01-20-可否改变-vim-中-leader-键的按键方式？](https://www.v2ex.com/t/829516) ![](assets/new.png)  
 - [2022-01-20-求一个可-WEB-管理的端口转发工具](https://www.v2ex.com/t/829512) ![](assets/new.png)  
 - [2022-01-20-V-站有人卖自家的羊肉吗？羊腿，羊排什么的。](https://www.v2ex.com/t/829511) ![](assets/new.png)  
 - [2022-01-20-给你一个逃离的机会](https://www.v2ex.com/t/829510) ![](assets/new.png)  
@@ -511,9 +514,6 @@
 - [2022-01-20-从-YouTube-上下载视频，高比特率的-AVC1-和低比特率的-VP9-编码哪个画质更好？-VP9-真的能做到降低一半文件体积吗？](https://www.v2ex.com/t/829497) ![](assets/new.png)  
 - [2022-01-20-问个-mac-rdp-分辨率设置的问题](https://www.v2ex.com/t/829491) ![](assets/new.png)  
 - [2022-01-20-当基于-springnboot-的模块打包成-Jar-包时，项目的-yml-怎么样才能被读取？](https://www.v2ex.com/t/829488) ![](assets/new.png)  
-- [2022-01-20-阿里云免费抽虎年机械日历](https://www.v2ex.com/t/829487) ![](assets/new.png)  
-- [2022-01-20-webvpn-和反向代理的区别](https://www.v2ex.com/t/829486) ![](assets/new.png)  
-- [2022-01-20-微博账号在哪里可以买，想买个小号来着](https://www.v2ex.com/t/829485) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -573,9 +573,9 @@
 - [2022-01-20-深入探讨-Room-2.4.0-的最新进展](https://toutiao.io/k/e4kgrwh) ![](assets/new.png)  
 - [2022-01-20-浅谈C++回调函数的实现](https://toutiao.io/k/o8d6uf7) ![](assets/new.png)  
 - [2022-01-20-C#-使用-Excel-和-Math.Net-进行曲线拟合和数据预测](https://toutiao.io/k/v1hu10e) ![](assets/new.png)  
-- [2022-01-20-推荐-干货总结！Kafka-面试大全（万字长文，37-张图，28-个知识点）](https://toutiao.io/k/f9qe7be) ![](assets/new.png)  
-- [2022-01-20-推荐-浅谈缓存最终一致性的解决方案](https://toutiao.io/k/mgym1lv) ![](assets/new.png)  
-- [2022-01-20-推荐-从零打造-Instagram](https://toutiao.io/k/hufqvji) ![](assets/new.png)  
+- [2022-01-20-推荐-京东ClickHouse的实践之路](https://toutiao.io/k/j0r6746) ![](assets/new.png)  
+- [2022-01-20-推荐-服务探活的五种方式](https://toutiao.io/k/1wuwmui) ![](assets/new.png)  
+- [2022-01-20-推荐-关于代码质量退化的思考](https://toutiao.io/k/zzaz6vu) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

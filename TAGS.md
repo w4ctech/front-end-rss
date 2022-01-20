@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-01-20 07:12:25。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-01-20 07:19:39。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -289,8 +289,8 @@
 - [【V2EX】有办法实现在不漏-UDP/DNS-的情况下使本机全部流量依次通过-Proxy1->Proxy2-到达-Target-Server-吗？](https://www.v2ex.com/t/829447)
 - [【技术头条】API面试四连杀：接口如何设计？安全如何保证？签名如何实现？防重如何实现？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14901&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493135%26amp%3Bidx%3D2%26amp%3Bsn%3D4569a4965be1a6e8b85369edd7fc91dc%26amp%3Bchksm%3Dfa3f0754cd488e427c9670d6aa67e0693725ee332f26e011767ba85562bd6bb08a65cc8aaaba%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【技术头条】一文读懂浏览器存储与缓存机制-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=14896&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F422666602%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
-- [【开发者头条】推荐-缓存一致性最佳实践](https://toutiao.io/k/ymscqc1)
 - [【开发者头条】推荐-浅谈缓存最终一致性的解决方案](https://toutiao.io/k/mgym1lv)
+- [【开发者头条】推荐-缓存一致性最佳实践](https://toutiao.io/k/ymscqc1)
 - [......【查看更多】......](./details/tags/browser.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -419,6 +419,7 @@
 - [【武汉肺炎防疫全纪录(财新网)】1月19日全国新增新冠66例-四省份本土43例](https://m.caixin.com/m/2022-01-20/101832483.html)
 - [【武汉肺炎防疫全纪录(财新网)】港大研发新冠DNA疫苗-可快速调整应对变种病毒](https://m.caixin.com/m/2022-01-20/101832588.html)
 - [【武汉肺炎防疫全纪录(财新网)】新冠病毒“物传人”成风险疑点-广深强化境外物品接收防控](https://m.caixin.com/m/2022-01-20/101832563.html)
+- [【武汉肺炎防疫全纪录(财新网)】【境内疫情观察】全国新增43例本土病例（1月19日）](https://database.caixin.com/m/2022-01-20/101832625.html)
 - [【武汉肺炎防疫全纪录(财新网)】英格兰取消新冠限制-美国将分发4亿免费N95口罩｜大流行手记（1月19日）](https://m.caixin.com/m/2022-01-20/101832499.html)
 - [【武汉肺炎防疫全纪录(财新网)】北京新增5例本土阳性，四区相继出现疫情](https://m.caixin.com/m/2022-01-19/101832330.html)
 - [【武汉肺炎防疫全纪录(财新网)】最新海外疫情：新冠感染超3.33亿-累计接种新冠疫苗超97.03亿剂次](https://m.caixin.com/m/2022-01-19/101832247.html)
@@ -435,7 +436,6 @@
 - [【武汉肺炎防疫全纪录(财新网)】广东多起疫情源头疑似境外物品暴露感染-邮政监管部门要求加强国际邮件消杀](https://m.caixin.com/m/2022-01-17/101831330.html)
 - [【武汉肺炎防疫全纪录(财新网)】北京确诊病例处于感染早期-所收国际邮件标本阳性](https://m.caixin.com/m/2022-01-17/101831061.html)
 - [【武汉肺炎防疫全纪录(财新网)】【境内疫情观察】全国新增163例本土病例（1月16日）](https://database.caixin.com/m/2022-01-17/101831120.html)
-- [【武汉肺炎防疫全纪录(财新网)】英国病例数下降-欧洲未接种疫苗人群正“退出社会”｜大流行手记（1月16日）](https://m.caixin.com/m/2022-01-17/101830909.html)
 - [......【查看更多】......](./details/tags/other.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

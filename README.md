@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-20 07:12:25，:rocket: 更新条数: +1790， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-20 07:19:39，:rocket: 更新条数: +1791， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -68,6 +68,7 @@
 - [2022-01-20-1月19日全国新增新冠66例-四省份本土43例](https://m.caixin.com/m/2022-01-20/101832483.html) ![](assets/new.png)  
 - [2022-01-20-港大研发新冠DNA疫苗-可快速调整应对变种病毒](https://m.caixin.com/m/2022-01-20/101832588.html) ![](assets/new.png)  
 - [2022-01-20-新冠病毒“物传人”成风险疑点-广深强化境外物品接收防控](https://m.caixin.com/m/2022-01-20/101832563.html) ![](assets/new.png)  
+- [2022-01-20-【境内疫情观察】全国新增43例本土病例（1月19日）](https://database.caixin.com/m/2022-01-20/101832625.html) ![](assets/new.png)  
 - [2022-01-20-英格兰取消新冠限制-美国将分发4亿免费N95口罩｜大流行手记（1月19日）](https://m.caixin.com/m/2022-01-20/101832499.html) ![](assets/new.png)  
 - [2022-01-19-北京新增5例本土阳性，四区相继出现疫情](https://m.caixin.com/m/2022-01-19/101832330.html) ![](assets/new.png)  
 - [2022-01-19-最新海外疫情：新冠感染超3.33亿-累计接种新冠疫苗超97.03亿剂次](https://m.caixin.com/m/2022-01-19/101832247.html) ![](assets/new.png)  
@@ -84,7 +85,6 @@
 - [2022-01-17-广东多起疫情源头疑似境外物品暴露感染-邮政监管部门要求加强国际邮件消杀](https://m.caixin.com/m/2022-01-17/101831330.html) ![](assets/new.png)  
 - [2022-01-17-北京确诊病例处于感染早期-所收国际邮件标本阳性](https://m.caixin.com/m/2022-01-17/101831061.html) ![](assets/new.png)  
 - [2022-01-17-【境内疫情观察】全国新增163例本土病例（1月16日）](https://database.caixin.com/m/2022-01-17/101831120.html) ![](assets/new.png)  
-- [2022-01-17-英国病例数下降-欧洲未接种疫苗人群正“退出社会”｜大流行手记（1月16日）](https://m.caixin.com/m/2022-01-17/101830909.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -494,6 +494,8 @@
 </summary>
 
 
+- [2022-01-20-当基于-springnboot-的模块打包成-Jar-包时，项目的-yml-怎么样才能被读取？](https://www.v2ex.com/t/829488) ![](assets/new.png)  
+- [2022-01-20-阿里云免费抽虎年机械日历](https://www.v2ex.com/t/829487) ![](assets/new.png)  
 - [2022-01-20-webvpn-和反向代理的区别](https://www.v2ex.com/t/829486) ![](assets/new.png)  
 - [2022-01-20-微博账号在哪里可以买，想买个小号来着](https://www.v2ex.com/t/829485) ![](assets/new.png)  
 - [2022-01-20-Market-Ledger-为投资者提供投资与资产管理一体化的平台](https://www.v2ex.com/t/829484) ![](assets/new.png)  
@@ -512,8 +514,6 @@
 - [2022-01-20-求推荐类淘宝评论-wordpress-插件](https://www.v2ex.com/t/829465) ![](assets/new.png)  
 - [2022-01-20-关于透明代理问题](https://www.v2ex.com/t/829464) ![](assets/new.png)  
 - [2022-01-20-有完美适配新款-MBP-的外设吗？](https://www.v2ex.com/t/829463) ![](assets/new.png)  
-- [2022-01-20-成都-聊聊远程工作那些事](https://www.v2ex.com/t/829462) ![](assets/new.png)  
-- [2022-01-20-现在哪里还有一百多的-xgpu-会员买？](https://www.v2ex.com/t/829461) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -573,9 +573,9 @@
 - [2022-01-20-深入探讨-Room-2.4.0-的最新进展](https://toutiao.io/k/e4kgrwh) ![](assets/new.png)  
 - [2022-01-20-浅谈C++回调函数的实现](https://toutiao.io/k/o8d6uf7) ![](assets/new.png)  
 - [2022-01-20-C#-使用-Excel-和-Math.Net-进行曲线拟合和数据预测](https://toutiao.io/k/v1hu10e) ![](assets/new.png)  
-- [2022-01-20-推荐-从MVC到DDD的架构演进](https://toutiao.io/k/c7mn7hz) ![](assets/new.png)  
-- [2022-01-20-推荐-据说看完这篇-JVM-要一小时](https://toutiao.io/k/1dauixx) ![](assets/new.png)  
-- [2022-01-20-推荐-京东ClickHouse的实践之路](https://toutiao.io/k/j0r6746) ![](assets/new.png)  
+- [2022-01-20-推荐-浅谈缓存最终一致性的解决方案](https://toutiao.io/k/mgym1lv) ![](assets/new.png)  
+- [2022-01-20-推荐-网络编程怎么做才算是优雅？](https://toutiao.io/k/zylzzpi) ![](assets/new.png)  
+- [2022-01-20-推荐-用规则引擎让你一天上线十个需求](https://toutiao.io/k/ldd1cse) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

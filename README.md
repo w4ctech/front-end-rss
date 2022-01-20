@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-20 02:56:26，:rocket: 更新条数: +1789， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-20 03:11:42，:rocket: 更新条数: +1788， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,11 @@
 </summary>
 
 
+- [2022-01-20-想问一下各位大佬们，-mbp-最近有点犯病，-18-年买的，现在打开谷歌浏览器说不定什么时候点击新建页签，浏览器就会关闭，只能再一次重新打开，这是个什么毛病。...](https://www.v2ex.com/t/829406) ![](assets/new.png)  
+- [2022-01-20-Supercell-家的-Everdale-如何在安卓模拟器上玩？](https://www.v2ex.com/t/829405) ![](assets/new.png)  
+- [2022-01-20-hey-工具小改造](https://www.v2ex.com/t/829404) ![](assets/new.png)  
+- [2022-01-20-打算组装快移动固态硬盘，有什么硬盘盒推荐吗-？](https://www.v2ex.com/t/829402) ![](assets/new.png)  
+- [2022-01-20-Java-如何分析-dump-文件信息](https://www.v2ex.com/t/829401) ![](assets/new.png)  
 - [2022-01-20-21-年到现在亏出翔了](https://www.v2ex.com/t/829400) ![](assets/new.png)  
 - [2022-01-20-你们微信昨天下午出问题了吗](https://www.v2ex.com/t/829399) ![](assets/new.png)  
 - [2022-01-20-企微-vs-钉钉-vs-飞书](https://www.v2ex.com/t/829398) ![](assets/new.png)  
@@ -509,11 +514,6 @@
 - [2022-01-20-QQ-音乐是如何知道我在起点小说里看到了了《赤伶》这首歌并在搜索推荐给我呢](https://www.v2ex.com/t/829383) ![](assets/new.png)  
 - [2022-01-20-快过年了，在广东打工的靓仔带点什么年货回去？](https://www.v2ex.com/t/829382) ![](assets/new.png)  
 - [2022-01-20-有没有要上-Youtube-印度车的-V-友？](https://www.v2ex.com/t/829381) ![](assets/new.png)  
-- [2022-01-20-听闻-G-Suite-免费版从-7-月-1-日开始要强制升级收费了。。。](https://www.v2ex.com/t/829380) ![](assets/new.png)  
-- [2022-01-20-请问被公司踢到子公司能按照原来合同发-13-薪吗？](https://www.v2ex.com/t/829379) ![](assets/new.png)  
-- [2022-01-20-发现-iPhone-定位服务对-WiFi-和蜂窝数据影响严重，有同感的吗？](https://www.v2ex.com/t/829378) ![](assets/new.png)  
-- [2022-01-20-上海急~腾讯广告招-go\-PHP](https://www.v2ex.com/t/829377) ![](assets/new.png)  
-- [2022-01-20-G-Suite-免费版没了！](https://www.v2ex.com/t/829376) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -558,8 +558,8 @@
 
 - [2022-01-20-Redis-很屌，不懂使用规范就糟蹋了](https://toutiao.io/k/lpnakbk) ![](assets/new.png)  
 - [2022-01-20-带你十天轻松搞定-Go-微服务系列（一）](https://toutiao.io/k/cm7r81b) ![](assets/new.png)  
-- [2022-01-20-深入浅出Apache-Pulsar（1）：Pulsar-vs-Kafka](https://toutiao.io/k/u78e5hn) ![](assets/new.png)  
 - [2022-01-20-代码质量第4层——健壮的代码](https://toutiao.io/k/rk56dfv) ![](assets/new.png)  
+- [2022-01-20-深入浅出Apache-Pulsar（1）：Pulsar-vs-Kafka](https://toutiao.io/k/u78e5hn) ![](assets/new.png)  
 - [2022-01-20-2022过虎年新年春节大门立体对联大礼包，点击链接立即领取红包！](https://toutiao.io/k/mfp3pig) ![](assets/new.png)  
 - [2022-01-20-不止轻量，高性能图像处理库-ppl.cv-来袭](https://toutiao.io/k/yzw7lxc) ![](assets/new.png)  
 - [2022-01-20-133-python|第六部分：正则表达式](https://toutiao.io/k/djwjb9d) ![](assets/new.png)  
@@ -568,14 +568,14 @@
 - [2022-01-20-Rust-for-Linux-源码导读-|-Ref-引用计数容器](https://toutiao.io/k/q8j7civ) ![](assets/new.png)  
 - [2022-01-20-探索-.NET-601-揭开-ConfigurationManager-的面纱](https://toutiao.io/k/f9udpbd) ![](assets/new.png)  
 - [2022-01-20-推荐-从零打造-Instagram](https://toutiao.io/k/hufqvji) ![](assets/new.png)  
-- [2022-01-20-推荐-用规则引擎让你一天上线十个需求](https://toutiao.io/k/ldd1cse) ![](assets/new.png)  
-- [2022-01-20-推荐-从MVC到DDD的架构演进](https://toutiao.io/k/c7mn7hz) ![](assets/new.png)  
+- [2022-01-20-推荐-JVM调优的几种场景（建议收藏）](https://toutiao.io/k/0mfx2nd) ![](assets/new.png)  
 - [2022-01-20-推荐-网络编程怎么做才算是优雅？](https://toutiao.io/k/zylzzpi) ![](assets/new.png)  
-- [2022-01-20-推荐-缓存一致性最佳实践](https://toutiao.io/k/ymscqc1) ![](assets/new.png)  
 - [2022-01-20-推荐-面渣逆袭：Java并发六十问，图文详解，快来看看你会多少道！](https://toutiao.io/k/4ndh1gd) ![](assets/new.png)  
+- [2022-01-20-推荐-关于代码质量退化的思考](https://toutiao.io/k/zzaz6vu) ![](assets/new.png)  
+- [2022-01-20-推荐-浅谈缓存最终一致性的解决方案](https://toutiao.io/k/mgym1lv) ![](assets/new.png)  
+- [2022-01-20-推荐-从零开始搭建公司微服务授权架构技术栈（3种模式），这架构稳的一批...](https://toutiao.io/k/4g58j8v) ![](assets/new.png)  
+- [2022-01-20-推荐-服务探活的五种方式](https://toutiao.io/k/1wuwmui) ![](assets/new.png)  
 - [2022-01-20-推荐-干货总结！Kafka-面试大全（万字长文，37-张图，28-个知识点）](https://toutiao.io/k/f9qe7be) ![](assets/new.png)  
-- [2022-01-20-推荐-据说看完这篇-JVM-要一小时](https://toutiao.io/k/1dauixx) ![](assets/new.png)  
-- [2022-01-20-推荐-京东ClickHouse的实践之路](https://toutiao.io/k/j0r6746) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

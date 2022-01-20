@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-20 09:13:13，:rocket: 更新条数: +1789， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-20 09:21:54，:rocket: 更新条数: +1790， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,8 @@
 </summary>
 
 
+- [2022-01-20-node-单线程是怎么应对高并发的场景的？](https://www.v2ex.com/t/829521) ![](assets/new.png)  
+- [2022-01-20-这种工作安排正常吗？我感觉我被坑了……](https://www.v2ex.com/t/829520) ![](assets/new.png)  
 - [2022-01-20-小米-11-突然黑屏了！](https://www.v2ex.com/t/829519) ![](assets/new.png)  
 - [2022-01-20-网页组件、页面、流程检查清单-checklist.design](https://www.v2ex.com/t/829518) ![](assets/new.png)  
 - [2022-01-20-可否改变-vim-中-leader-键的按键方式？](https://www.v2ex.com/t/829516) ![](assets/new.png)  
@@ -512,8 +514,6 @@
 - [2022-01-20-上海后端/前端小红书安全技术部招前/后端开发工程师](https://www.v2ex.com/t/829499) ![](assets/new.png)  
 - [2022-01-20-招募技术界的伯乐和千里马（内有彩蛋）](https://www.v2ex.com/t/829498) ![](assets/new.png)  
 - [2022-01-20-从-YouTube-上下载视频，高比特率的-AVC1-和低比特率的-VP9-编码哪个画质更好？-VP9-真的能做到降低一半文件体积吗？](https://www.v2ex.com/t/829497) ![](assets/new.png)  
-- [2022-01-20-问个-mac-rdp-分辨率设置的问题](https://www.v2ex.com/t/829491) ![](assets/new.png)  
-- [2022-01-20-当基于-springnboot-的模块打包成-Jar-包时，项目的-yml-怎么样才能被读取？](https://www.v2ex.com/t/829488) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -573,9 +573,9 @@
 - [2022-01-20-深入探讨-Room-2.4.0-的最新进展](https://toutiao.io/k/e4kgrwh) ![](assets/new.png)  
 - [2022-01-20-浅谈C++回调函数的实现](https://toutiao.io/k/o8d6uf7) ![](assets/new.png)  
 - [2022-01-20-C#-使用-Excel-和-Math.Net-进行曲线拟合和数据预测](https://toutiao.io/k/v1hu10e) ![](assets/new.png)  
-- [2022-01-20-推荐-京东ClickHouse的实践之路](https://toutiao.io/k/j0r6746) ![](assets/new.png)  
-- [2022-01-20-推荐-服务探活的五种方式](https://toutiao.io/k/1wuwmui) ![](assets/new.png)  
+- [2022-01-20-推荐-据说看完这篇-JVM-要一小时](https://toutiao.io/k/1dauixx) ![](assets/new.png)  
 - [2022-01-20-推荐-关于代码质量退化的思考](https://toutiao.io/k/zzaz6vu) ![](assets/new.png)  
+- [2022-01-20-推荐-干货总结！Kafka-面试大全（万字长文，37-张图，28-个知识点）](https://toutiao.io/k/f9qe7be) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

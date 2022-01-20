@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-20 14:54:30，:rocket: 更新条数: +1801， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-20 15:12:58，:rocket: 更新条数: +1801， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,7 @@
 </summary>
 
 
+- [2022-01-20-刚把手机从洗衣机里抢救出来](https://www.v2ex.com/t/829573) ![](assets/new.png)  
 - [2022-01-20-轻-小说-epub-生成框架，欢迎贡献！（雾](https://www.v2ex.com/t/829571) ![](assets/new.png)  
 - [2022-01-20-难道-nginx-不存在性能瓶颈？](https://www.v2ex.com/t/829569) ![](assets/new.png)  
 - [2022-01-20-你们-iPhone-第三方输入法会自己没掉吗](https://www.v2ex.com/t/829568) ![](assets/new.png)  
@@ -513,7 +514,6 @@
 - [2022-01-20-有-properties-配置文件转-bean-工具推荐吗？](https://www.v2ex.com/t/829552) ![](assets/new.png)  
 - [2022-01-20-因为疫情今年过年无法回家，想给家里送点礼物，各位有什么推荐的吗？](https://www.v2ex.com/t/829551) ![](assets/new.png)  
 - [2022-01-20-iPad-闪退，如何解決](https://www.v2ex.com/t/829549) ![](assets/new.png)  
-- [2022-01-20-安卓蓝牙-AVRCP-版本-1.6，各大-APP-使用蓝牙播放音乐不显示专辑封面，大佬们支支招！](https://www.v2ex.com/t/829548) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -573,9 +573,9 @@
 - [2022-01-20-浅谈C++回调函数的实现](https://toutiao.io/k/o8d6uf7) ![](assets/new.png)  
 - [2022-01-20-C#-使用-Excel-和-Math.Net-进行曲线拟合和数据预测](https://toutiao.io/k/v1hu10e) ![](assets/new.png)  
 - [2022-01-20-深入探讨-Room-2.4.0-的最新进展](https://toutiao.io/k/e4kgrwh) ![](assets/new.png)  
+- [2022-01-20-推荐-JVM调优的几种场景（建议收藏）](https://toutiao.io/k/0mfx2nd) ![](assets/new.png)  
 - [2022-01-20-推荐-服务探活的五种方式](https://toutiao.io/k/1wuwmui) ![](assets/new.png)  
-- [2022-01-20-推荐-从零开始搭建公司微服务授权架构技术栈（3种模式），这架构稳的一批...](https://toutiao.io/k/4g58j8v) ![](assets/new.png)  
-- [2022-01-20-推荐-京东ClickHouse的实践之路](https://toutiao.io/k/j0r6746) ![](assets/new.png)  
+- [2022-01-20-推荐-面渣逆袭：Java并发六十问，图文详解，快来看看你会多少道！](https://toutiao.io/k/4ndh1gd) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

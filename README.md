@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-20 09:42:10，:rocket: 更新条数: +1791， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-20 09:54:34，:rocket: 更新条数: +1793， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -66,6 +66,7 @@
 
 
 - [2022-01-20-最新疫情：全国新冠累计确诊105411例-累计接种新冠疫苗超29.51亿剂次](https://m.caixin.com/m/2022-01-20/101832706.html) ![](assets/new.png)  
+- [2022-01-20-北京新增5确诊病例-两地调整为中风险地区](https://m.caixin.com/m/2022-01-20/101832749.html) ![](assets/new.png)  
 - [2022-01-20-港大研发新冠DNA疫苗-可快速调整应对变种病毒](https://m.caixin.com/m/2022-01-20/101832588.html) ![](assets/new.png)  
 - [2022-01-20-新冠病毒“物传人”成风险疑点-广深强化境外物品接收防控](https://m.caixin.com/m/2022-01-20/101832563.html) ![](assets/new.png)  
 - [2022-01-20-最新海外疫情：新冠感染超3.37亿-累计接种新冠疫苗超97.34亿剂次](https://m.caixin.com/m/2022-01-20/101832703.html) ![](assets/new.png)  
@@ -84,7 +85,6 @@
 - [2022-01-18-【图集】浙江宁波北仑区全域低风险-地铁公交恢复运行](https://photos.caixin.com/m/2022-01-18/101831423.html) ![](assets/new.png)  
 - [2022-01-17-广东多起疫情源头疑似境外物品暴露感染-邮政监管部门要求加强国际邮件消杀](https://m.caixin.com/m/2022-01-17/101831330.html) ![](assets/new.png)  
 - [2022-01-17-北京确诊病例处于感染早期-所收国际邮件标本阳性](https://m.caixin.com/m/2022-01-17/101831061.html) ![](assets/new.png)  
-- [2022-01-17-【境内疫情观察】全国新增163例本土病例（1月16日）](https://database.caixin.com/m/2022-01-17/101831120.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -494,6 +494,10 @@
 </summary>
 
 
+- [2022-01-20-村里交停车费居然要三个月起交，配合新学到的词“懒政”](https://www.v2ex.com/t/829527) ![](assets/new.png)  
+- [2022-01-20-请问局域网多人语音聊天有哪些方案？](https://www.v2ex.com/t/829526) ![](assets/new.png)  
+- [2022-01-20-用-flask+vue-撸了一个论坛](https://www.v2ex.com/t/829525) ![](assets/new.png)  
+- [2022-01-20-vsftpd-怎么设置每个-ip-限制一个命令连接加一个数据连接](https://www.v2ex.com/t/829524) ![](assets/new.png)  
 - [2022-01-20-塞纳河成都分团又有消息了](https://www.v2ex.com/t/829523) ![](assets/new.png)  
 - [2022-01-20-win-本-是不是-27+2k-显示器就够了-4k-提升不大](https://www.v2ex.com/t/829522) ![](assets/new.png)  
 - [2022-01-20-node-单线程是怎么应对高并发的场景的？](https://www.v2ex.com/t/829521) ![](assets/new.png)  
@@ -510,10 +514,6 @@
 - [2022-01-20-求助：更新-macOS-Big-Sur-后-Postman-的中文都显示为条纹方块](https://www.v2ex.com/t/829506) ![](assets/new.png)  
 - [2022-01-20-coding-命令行创建合并请求](https://www.v2ex.com/t/829505) ![](assets/new.png)  
 - [2022-01-20-需要招聘一名-5+年左右的-Python](https://www.v2ex.com/t/829504) ![](assets/new.png)  
-- [2022-01-20-这个磁场辐射强度能说明什么问题吗？](https://www.v2ex.com/t/829503) ![](assets/new.png)  
-- [2022-01-20-有偿想解决下-N1-旁路由的问题-辛苦老哥远程解决下](https://www.v2ex.com/t/829502) ![](assets/new.png)  
-- [2022-01-20-NFT，击鼓传花的泡沫](https://www.v2ex.com/t/829500) ![](assets/new.png)  
-- [2022-01-20-上海后端/前端小红书安全技术部招前/后端开发工程师](https://www.v2ex.com/t/829499) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -561,8 +561,8 @@
 - [2022-01-20-代码质量第4层——健壮的代码](https://toutiao.io/k/rk56dfv) ![](assets/new.png)  
 - [2022-01-20-深入浅出Apache-Pulsar（1）：Pulsar-vs-Kafka](https://toutiao.io/k/u78e5hn) ![](assets/new.png)  
 - [2022-01-20-不止轻量，高性能图像处理库-ppl.cv-来袭](https://toutiao.io/k/yzw7lxc) ![](assets/new.png)  
-- [2022-01-20-为什么-Eslint-可以检查和修复格式问题，而-Babel-不可以？](https://toutiao.io/k/jqjcrcs) ![](assets/new.png)  
 - [2022-01-20-IPFS-速览](https://toutiao.io/k/wchxhiq) ![](assets/new.png)  
+- [2022-01-20-为什么-Eslint-可以检查和修复格式问题，而-Babel-不可以？](https://toutiao.io/k/jqjcrcs) ![](assets/new.png)  
 - [2022-01-20-133-python|第六部分：正则表达式](https://toutiao.io/k/djwjb9d) ![](assets/new.png)  
 - [2022-01-20-2022过虎年新年春节大门立体对联大礼包，点击链接立即领取红包！](https://toutiao.io/k/mfp3pig) ![](assets/new.png)  
 - [2022-01-20-原开发者出局，Faker.js-已被社区控制](https://toutiao.io/k/3xvhill) ![](assets/new.png)  
@@ -573,9 +573,9 @@
 - [2022-01-20-深入探讨-Room-2.4.0-的最新进展](https://toutiao.io/k/e4kgrwh) ![](assets/new.png)  
 - [2022-01-20-浅谈C++回调函数的实现](https://toutiao.io/k/o8d6uf7) ![](assets/new.png)  
 - [2022-01-20-C#-使用-Excel-和-Math.Net-进行曲线拟合和数据预测](https://toutiao.io/k/v1hu10e) ![](assets/new.png)  
-- [2022-01-20-推荐-网络编程怎么做才算是优雅？](https://toutiao.io/k/zylzzpi) ![](assets/new.png)  
+- [2022-01-20-推荐-服务探活的五种方式](https://toutiao.io/k/1wuwmui) ![](assets/new.png)  
 - [2022-01-20-推荐-浅谈缓存最终一致性的解决方案](https://toutiao.io/k/mgym1lv) ![](assets/new.png)  
-- [2022-01-20-推荐-JVM调优的几种场景（建议收藏）](https://toutiao.io/k/0mfx2nd) ![](assets/new.png)  
+- [2022-01-20-推荐-从MVC到DDD的架构演进](https://toutiao.io/k/c7mn7hz) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

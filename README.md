@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-20 07:54:36，:rocket: 更新条数: +1788， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-20 08:14:26，:rocket: 更新条数: +1791， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,13 @@
 </summary>
 
 
+- [2022-01-20-需要招聘一名-5+年左右的-Python](https://www.v2ex.com/t/829504) ![](assets/new.png)  
+- [2022-01-20-这个磁场辐射强度能说明什么问题吗？](https://www.v2ex.com/t/829503) ![](assets/new.png)  
+- [2022-01-20-有偿想解决下-N1-旁路由的问题-辛苦老哥远程解决下](https://www.v2ex.com/t/829502) ![](assets/new.png)  
+- [2022-01-20-NFT，击鼓传花的泡沫](https://www.v2ex.com/t/829500) ![](assets/new.png)  
+- [2022-01-20-上海后端/前端小红书安全技术部招前/后端开发工程师](https://www.v2ex.com/t/829499) ![](assets/new.png)  
+- [2022-01-20-招募技术界的伯乐和千里马（内有彩蛋）](https://www.v2ex.com/t/829498) ![](assets/new.png)  
+- [2022-01-20-从-YouTube-上下载视频，高比特率的-AVC1-和低比特率的-VP9-编码哪个画质更好？-VP9-真的能做到降低一半文件体积吗？](https://www.v2ex.com/t/829497) ![](assets/new.png)  
 - [2022-01-20-问个-mac-rdp-分辨率设置的问题](https://www.v2ex.com/t/829491) ![](assets/new.png)  
 - [2022-01-20-当基于-springnboot-的模块打包成-Jar-包时，项目的-yml-怎么样才能被读取？](https://www.v2ex.com/t/829488) ![](assets/new.png)  
 - [2022-01-20-阿里云免费抽虎年机械日历](https://www.v2ex.com/t/829487) ![](assets/new.png)  
@@ -507,13 +514,6 @@
 - [2022-01-20-dig-命令异常](https://www.v2ex.com/t/829476) ![](assets/new.png)  
 - [2022-01-20-TestFlight-每次启动都访问通讯录？](https://www.v2ex.com/t/829475) ![](assets/new.png)  
 - [2022-01-20-单机游戏推荐/hack-向/js-脚本放置游戏](https://www.v2ex.com/t/829474) ![](assets/new.png)  
-- [2022-01-20-京东的公积金缴纳比例是-8%?这么低吗](https://www.v2ex.com/t/829473) ![](assets/new.png)  
-- [2022-01-20-有未知域名解析到我的腾讯云服务器，然后腾讯把我的服务器给停了](https://www.v2ex.com/t/829471) ![](assets/new.png)  
-- [2022-01-20-主力办公，业余游戏的笔记本求推荐](https://www.v2ex.com/t/829468) ![](assets/new.png)  
-- [2022-01-20-市面上有这样的解决方案么？将多个设备图片/视频片段自动剪辑成视频成品](https://www.v2ex.com/t/829467) ![](assets/new.png)  
-- [2022-01-20-调研工厂北京研发团队急招后端岗位](https://www.v2ex.com/t/829466) ![](assets/new.png)  
-- [2022-01-20-求推荐类淘宝评论-wordpress-插件](https://www.v2ex.com/t/829465) ![](assets/new.png)  
-- [2022-01-20-关于透明代理问题](https://www.v2ex.com/t/829464) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -573,9 +573,9 @@
 - [2022-01-20-深入探讨-Room-2.4.0-的最新进展](https://toutiao.io/k/e4kgrwh) ![](assets/new.png)  
 - [2022-01-20-浅谈C++回调函数的实现](https://toutiao.io/k/o8d6uf7) ![](assets/new.png)  
 - [2022-01-20-C#-使用-Excel-和-Math.Net-进行曲线拟合和数据预测](https://toutiao.io/k/v1hu10e) ![](assets/new.png)  
-- [2022-01-20-推荐-从MVC到DDD的架构演进](https://toutiao.io/k/c7mn7hz) ![](assets/new.png)  
-- [2022-01-20-推荐-JVM调优的几种场景（建议收藏）](https://toutiao.io/k/0mfx2nd) ![](assets/new.png)  
+- [2022-01-20-推荐-浅谈缓存最终一致性的解决方案](https://toutiao.io/k/mgym1lv) ![](assets/new.png)  
 - [2022-01-20-推荐-干货总结！Kafka-面试大全（万字长文，37-张图，28-个知识点）](https://toutiao.io/k/f9qe7be) ![](assets/new.png)  
+- [2022-01-20-推荐-再见了-VMware，一款更轻量级的虚拟机！](https://toutiao.io/k/xw2lnva) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

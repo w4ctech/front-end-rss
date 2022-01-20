@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-20 11:39:34，:rocket: 更新条数: +1798， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-20 11:54:16，:rocket: 更新条数: +1798， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,7 +494,9 @@
 </summary>
 
 
-- [2022-01-20-各种进制下，如何判断两个数相乘的结果是否正确?](https://www.v2ex.com/t/829545) ![](assets/new.png)  
+- [2022-01-20-安卓蓝牙-AVRCP-版本-1.6，各大-APP-使用蓝牙播放音乐不显示专辑封面，大佬们支支招！](https://www.v2ex.com/t/829548) ![](assets/new.png)  
+- [2022-01-20-小米路由器-AX3000-可以实现科学上网吗？](https://www.v2ex.com/t/829547) ![](assets/new.png)  
+- [2022-01-20-大一离散数学题求助！各种进制下，如何判断两个数相乘的结果是否正确?](https://www.v2ex.com/t/829545) ![](assets/new.png)  
 - [2022-01-20-如何绕过本地路由？](https://www.v2ex.com/t/829544) ![](assets/new.png)  
 - [2022-01-20-Apple-Watch-辅助触控一个必现的-bug](https://www.v2ex.com/t/829543) ![](assets/new.png)  
 - [2022-01-20-大红包-请教一个-rust-延迟的问题，](https://www.v2ex.com/t/829542) ![](assets/new.png)  
@@ -512,8 +514,6 @@
 - [2022-01-20-一种新的-NFT：如何创建全球唯一的-DAO](https://www.v2ex.com/t/829530) ![](assets/new.png)  
 - [2022-01-20-Python-的-if-如果判断语句过于冗长，有书写技巧不？](https://www.v2ex.com/t/829529) ![](assets/new.png)  
 - [2022-01-20-git-如何所有分支里边搜索代码片段](https://www.v2ex.com/t/829528) ![](assets/new.png)  
-- [2022-01-20-请问局域网多人语音聊天有哪些方案？](https://www.v2ex.com/t/829526) ![](assets/new.png)  
-- [2022-01-20-用-flask+vue-撸了一个论坛](https://www.v2ex.com/t/829525) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -573,9 +573,9 @@
 - [2022-01-20-浅谈C++回调函数的实现](https://toutiao.io/k/o8d6uf7) ![](assets/new.png)  
 - [2022-01-20-深入探讨-Room-2.4.0-的最新进展](https://toutiao.io/k/e4kgrwh) ![](assets/new.png)  
 - [2022-01-20-C#-使用-Excel-和-Math.Net-进行曲线拟合和数据预测](https://toutiao.io/k/v1hu10e) ![](assets/new.png)  
-- [2022-01-20-推荐-关于代码质量退化的思考](https://toutiao.io/k/zzaz6vu) ![](assets/new.png)  
-- [2022-01-20-推荐-缓存一致性最佳实践](https://toutiao.io/k/ymscqc1) ![](assets/new.png)  
 - [2022-01-20-推荐-据说看完这篇-JVM-要一小时](https://toutiao.io/k/1dauixx) ![](assets/new.png)  
+- [2022-01-20-推荐-服务探活的五种方式](https://toutiao.io/k/1wuwmui) ![](assets/new.png)  
+- [2022-01-20-推荐-用规则引擎让你一天上线十个需求](https://toutiao.io/k/ldd1cse) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

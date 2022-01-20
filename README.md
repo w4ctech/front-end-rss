@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-20 06:48:12，:rocket: 更新条数: +1789， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-20 07:12:25，:rocket: 更新条数: +1790， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,17 @@
 </summary>
 
 
+- [2022-01-20-webvpn-和反向代理的区别](https://www.v2ex.com/t/829486) ![](assets/new.png)  
+- [2022-01-20-微博账号在哪里可以买，想买个小号来着](https://www.v2ex.com/t/829485) ![](assets/new.png)  
+- [2022-01-20-Market-Ledger-为投资者提供投资与资产管理一体化的平台](https://www.v2ex.com/t/829484) ![](assets/new.png)  
+- [2022-01-20-触摸屏-drag-and-drop](https://www.v2ex.com/t/829483) ![](assets/new.png)  
+- [2022-01-20-有没有遇到-WindTerm-无法切换用户的-BUG？](https://www.v2ex.com/t/829482) ![](assets/new.png)  
+- [2022-01-20-你都买了什么虎年限定的东西。包括但不限于红衣服。](https://www.v2ex.com/t/829481) ![](assets/new.png)  
+- [2022-01-20-抽卡集齐全部卡包的概率的期望，这种题应该怎么算？](https://www.v2ex.com/t/829478) ![](assets/new.png)  
+- [2022-01-20-dig-命令异常](https://www.v2ex.com/t/829476) ![](assets/new.png)  
+- [2022-01-20-TestFlight-每次启动都访问通讯录？](https://www.v2ex.com/t/829475) ![](assets/new.png)  
+- [2022-01-20-单机游戏推荐/hack-向/js-脚本放置游戏](https://www.v2ex.com/t/829474) ![](assets/new.png)  
+- [2022-01-20-京东的公积金缴纳比例是-8%?这么低吗](https://www.v2ex.com/t/829473) ![](assets/new.png)  
 - [2022-01-20-有未知域名解析到我的腾讯云服务器，然后腾讯把我的服务器给停了](https://www.v2ex.com/t/829471) ![](assets/new.png)  
 - [2022-01-20-主力办公，业余游戏的笔记本求推荐](https://www.v2ex.com/t/829468) ![](assets/new.png)  
 - [2022-01-20-市面上有这样的解决方案么？将多个设备图片/视频片段自动剪辑成视频成品](https://www.v2ex.com/t/829467) ![](assets/new.png)  
@@ -503,17 +514,6 @@
 - [2022-01-20-有完美适配新款-MBP-的外设吗？](https://www.v2ex.com/t/829463) ![](assets/new.png)  
 - [2022-01-20-成都-聊聊远程工作那些事](https://www.v2ex.com/t/829462) ![](assets/new.png)  
 - [2022-01-20-现在哪里还有一百多的-xgpu-会员买？](https://www.v2ex.com/t/829461) ![](assets/new.png)  
-- [2022-01-20-如何查询自己专业所属的一级学科的名称，和一级学科的代码](https://www.v2ex.com/t/829460) ![](assets/new.png)  
-- [2022-01-20-微信好像越来越膨胀了](https://www.v2ex.com/t/829459) ![](assets/new.png)  
-- [2022-01-20-ffmpeg-丢帧-补帧](https://www.v2ex.com/t/829458) ![](assets/new.png)  
-- [2022-01-20-如何有效的和产品沟通需求](https://www.v2ex.com/t/829456) ![](assets/new.png)  
-- [2022-01-20-《求推荐》刚买的-mac-应该装什么好呢😳](https://www.v2ex.com/t/829455) ![](assets/new.png)  
-- [2022-01-20-图中-finder-显示大小是怎么做到的？如何开启所有文件都显示大小？](https://www.v2ex.com/t/829454) ![](assets/new.png)  
-- [2022-01-20-你们玩游戏氪金吗？](https://www.v2ex.com/t/829449) ![](assets/new.png)  
-- [2022-01-20-实操干货分享-0-基础小白，耗时两个周末开发小程序！上线-5-小时，流量破千！](https://www.v2ex.com/t/829448) ![](assets/new.png)  
-- [2022-01-20-有办法实现在不漏-UDP/DNS-的情况下使本机全部流量依次通过-Proxy1->Proxy2-到达-Target-Server-吗？](https://www.v2ex.com/t/829447) ![](assets/new.png)  
-- [2022-01-20-farbox.org-是不是挂了？我看作者半年多没有回复信息，网站也不能评论了](https://www.v2ex.com/t/829442) ![](assets/new.png)  
-- [2022-01-20-支持-tmux-类似-rz-/-sz-的-trzsz-发布了-v0.3.1-新版本](https://www.v2ex.com/t/829441) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -561,21 +561,21 @@
 - [2022-01-20-代码质量第4层——健壮的代码](https://toutiao.io/k/rk56dfv) ![](assets/new.png)  
 - [2022-01-20-深入浅出Apache-Pulsar（1）：Pulsar-vs-Kafka](https://toutiao.io/k/u78e5hn) ![](assets/new.png)  
 - [2022-01-20-不止轻量，高性能图像处理库-ppl.cv-来袭](https://toutiao.io/k/yzw7lxc) ![](assets/new.png)  
-- [2022-01-20-2022过虎年新年春节大门立体对联大礼包，点击链接立即领取红包！](https://toutiao.io/k/mfp3pig) ![](assets/new.png)  
 - [2022-01-20-为什么-Eslint-可以检查和修复格式问题，而-Babel-不可以？](https://toutiao.io/k/jqjcrcs) ![](assets/new.png)  
+- [2022-01-20-2022过虎年新年春节大门立体对联大礼包，点击链接立即领取红包！](https://toutiao.io/k/mfp3pig) ![](assets/new.png)  
 - [2022-01-20-133-python|第六部分：正则表达式](https://toutiao.io/k/djwjb9d) ![](assets/new.png)  
 - [2022-01-20-原开发者出局，Faker.js-已被社区控制](https://toutiao.io/k/3xvhill) ![](assets/new.png)  
 - [2022-01-20-Rust-for-Linux-源码导读-|-Ref-引用计数容器](https://toutiao.io/k/q8j7civ) ![](assets/new.png)  
-- [2022-01-20-探索-.NET-601-揭开-ConfigurationManager-的面纱](https://toutiao.io/k/f9udpbd) ![](assets/new.png)  
 - [2022-01-20-IPFS-速览](https://toutiao.io/k/wchxhiq) ![](assets/new.png)  
+- [2022-01-20-探索-.NET-601-揭开-ConfigurationManager-的面纱](https://toutiao.io/k/f9udpbd) ![](assets/new.png)  
 - [2022-01-20-优惠券系统架构设计与实践](https://toutiao.io/k/q6yzp5j) ![](assets/new.png)  
 - [2022-01-20-计算机体系结构基础](https://toutiao.io/k/6fq7gt9) ![](assets/new.png)  
-- [2022-01-20-浅谈C++回调函数的实现](https://toutiao.io/k/o8d6uf7) ![](assets/new.png)  
 - [2022-01-20-深入探讨-Room-2.4.0-的最新进展](https://toutiao.io/k/e4kgrwh) ![](assets/new.png)  
+- [2022-01-20-浅谈C++回调函数的实现](https://toutiao.io/k/o8d6uf7) ![](assets/new.png)  
 - [2022-01-20-C#-使用-Excel-和-Math.Net-进行曲线拟合和数据预测](https://toutiao.io/k/v1hu10e) ![](assets/new.png)  
-- [2022-01-20-推荐-再见了-VMware，一款更轻量级的虚拟机！](https://toutiao.io/k/xw2lnva) ![](assets/new.png)  
-- [2022-01-20-推荐-面渣逆袭：Java并发六十问，图文详解，快来看看你会多少道！](https://toutiao.io/k/4ndh1gd) ![](assets/new.png)  
+- [2022-01-20-推荐-从MVC到DDD的架构演进](https://toutiao.io/k/c7mn7hz) ![](assets/new.png)  
 - [2022-01-20-推荐-据说看完这篇-JVM-要一小时](https://toutiao.io/k/1dauixx) ![](assets/new.png)  
+- [2022-01-20-推荐-京东ClickHouse的实践之路](https://toutiao.io/k/j0r6746) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-20 09:54:34，:rocket: 更新条数: +1793， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-20 10:13:20，:rocket: 更新条数: +1792， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,26 +494,26 @@
 </summary>
 
 
-- [2022-01-20-村里交停车费居然要三个月起交，配合新学到的词“懒政”](https://www.v2ex.com/t/829527) ![](assets/new.png)  
+- [2022-01-20-手机版的钉钉当遇到消息内容是-markdown（有图片、文字、超链接，一般都是钉钉机器人推送）无法部分选择复制。你们也这样么？](https://www.v2ex.com/t/829531) ![](assets/new.png)  
+- [2022-01-20-一种新的-NFT：如何创建全球唯一的-DAO](https://www.v2ex.com/t/829530) ![](assets/new.png)  
+- [2022-01-20-Python-的-if-如果判断语句过于冗长，有书写技巧不？](https://www.v2ex.com/t/829529) ![](assets/new.png)  
+- [2022-01-20-git-如何所有分支里边搜索代码片段](https://www.v2ex.com/t/829528) ![](assets/new.png)  
 - [2022-01-20-请问局域网多人语音聊天有哪些方案？](https://www.v2ex.com/t/829526) ![](assets/new.png)  
 - [2022-01-20-用-flask+vue-撸了一个论坛](https://www.v2ex.com/t/829525) ![](assets/new.png)  
 - [2022-01-20-vsftpd-怎么设置每个-ip-限制一个命令连接加一个数据连接](https://www.v2ex.com/t/829524) ![](assets/new.png)  
-- [2022-01-20-塞纳河成都分团又有消息了](https://www.v2ex.com/t/829523) ![](assets/new.png)  
 - [2022-01-20-win-本-是不是-27+2k-显示器就够了-4k-提升不大](https://www.v2ex.com/t/829522) ![](assets/new.png)  
 - [2022-01-20-node-单线程是怎么应对高并发的场景的？](https://www.v2ex.com/t/829521) ![](assets/new.png)  
 - [2022-01-20-这种工作安排正常吗？我感觉我被坑了……](https://www.v2ex.com/t/829520) ![](assets/new.png)  
 - [2022-01-20-小米-11-突然黑屏了！](https://www.v2ex.com/t/829519) ![](assets/new.png)  
 - [2022-01-20-网页组件、页面、流程检查清单-checklist.design](https://www.v2ex.com/t/829518) ![](assets/new.png)  
 - [2022-01-20-可否改变-vim-中-leader-键的按键方式？](https://www.v2ex.com/t/829516) ![](assets/new.png)  
+- [2022-01-20-迫于几座山的橙子熟了，向-V-友诚意推荐~](https://www.v2ex.com/t/829514) ![](assets/new.png)  
 - [2022-01-20-求一个可-WEB-管理的端口转发工具](https://www.v2ex.com/t/829512) ![](assets/new.png)  
-- [2022-01-20-V-站有人卖自家的羊肉吗？羊腿，羊排什么的。](https://www.v2ex.com/t/829511) ![](assets/new.png)  
 - [2022-01-20-给你一个逃离的机会](https://www.v2ex.com/t/829510) ![](assets/new.png)  
 - [2022-01-20-有没有自己搭建的邮件服务器推荐？](https://www.v2ex.com/t/829509) ![](assets/new.png)  
 - [2022-01-20-个人社保代缴问题](https://www.v2ex.com/t/829508) ![](assets/new.png)  
 - [2022-01-20-苹果设备访问接口比-windows-要慢吗？](https://www.v2ex.com/t/829507) ![](assets/new.png)  
 - [2022-01-20-求助：更新-macOS-Big-Sur-后-Postman-的中文都显示为条纹方块](https://www.v2ex.com/t/829506) ![](assets/new.png)  
-- [2022-01-20-coding-命令行创建合并请求](https://www.v2ex.com/t/829505) ![](assets/new.png)  
-- [2022-01-20-需要招聘一名-5+年左右的-Python](https://www.v2ex.com/t/829504) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -567,15 +567,15 @@
 - [2022-01-20-2022过虎年新年春节大门立体对联大礼包，点击链接立即领取红包！](https://toutiao.io/k/mfp3pig) ![](assets/new.png)  
 - [2022-01-20-原开发者出局，Faker.js-已被社区控制](https://toutiao.io/k/3xvhill) ![](assets/new.png)  
 - [2022-01-20-Rust-for-Linux-源码导读-|-Ref-引用计数容器](https://toutiao.io/k/q8j7civ) ![](assets/new.png)  
-- [2022-01-20-探索-.NET-601-揭开-ConfigurationManager-的面纱](https://toutiao.io/k/f9udpbd) ![](assets/new.png)  
 - [2022-01-20-优惠券系统架构设计与实践](https://toutiao.io/k/q6yzp5j) ![](assets/new.png)  
+- [2022-01-20-探索-.NET-601-揭开-ConfigurationManager-的面纱](https://toutiao.io/k/f9udpbd) ![](assets/new.png)  
 - [2022-01-20-计算机体系结构基础](https://toutiao.io/k/6fq7gt9) ![](assets/new.png)  
-- [2022-01-20-深入探讨-Room-2.4.0-的最新进展](https://toutiao.io/k/e4kgrwh) ![](assets/new.png)  
 - [2022-01-20-浅谈C++回调函数的实现](https://toutiao.io/k/o8d6uf7) ![](assets/new.png)  
+- [2022-01-20-深入探讨-Room-2.4.0-的最新进展](https://toutiao.io/k/e4kgrwh) ![](assets/new.png)  
 - [2022-01-20-C#-使用-Excel-和-Math.Net-进行曲线拟合和数据预测](https://toutiao.io/k/v1hu10e) ![](assets/new.png)  
-- [2022-01-20-推荐-服务探活的五种方式](https://toutiao.io/k/1wuwmui) ![](assets/new.png)  
-- [2022-01-20-推荐-浅谈缓存最终一致性的解决方案](https://toutiao.io/k/mgym1lv) ![](assets/new.png)  
-- [2022-01-20-推荐-从MVC到DDD的架构演进](https://toutiao.io/k/c7mn7hz) ![](assets/new.png)  
+- [2022-01-20-推荐-缓存一致性最佳实践](https://toutiao.io/k/ymscqc1) ![](assets/new.png)  
+- [2022-01-20-推荐-京东ClickHouse的实践之路](https://toutiao.io/k/j0r6746) ![](assets/new.png)  
+- [2022-01-20-推荐-网络编程怎么做才算是优雅？](https://toutiao.io/k/zylzzpi) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

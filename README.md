@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-20 11:54:16，:rocket: 更新条数: +1798， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-20 12:18:59，:rocket: 更新条数: +1798， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,9 @@
 </summary>
 
 
+- [2022-01-20-有-properties-配置文件转-bean-工具推荐吗？](https://www.v2ex.com/t/829552) ![](assets/new.png)  
+- [2022-01-20-因为疫情今年过年无法回家，想给家里送点礼物，各位有什么推荐的吗？](https://www.v2ex.com/t/829551) ![](assets/new.png)  
+- [2022-01-20-iPad-闪退，如何解決](https://www.v2ex.com/t/829549) ![](assets/new.png)  
 - [2022-01-20-安卓蓝牙-AVRCP-版本-1.6，各大-APP-使用蓝牙播放音乐不显示专辑封面，大佬们支支招！](https://www.v2ex.com/t/829548) ![](assets/new.png)  
 - [2022-01-20-小米路由器-AX3000-可以实现科学上网吗？](https://www.v2ex.com/t/829547) ![](assets/new.png)  
 - [2022-01-20-大一离散数学题求助！各种进制下，如何判断两个数相乘的结果是否正确?](https://www.v2ex.com/t/829545) ![](assets/new.png)  
@@ -511,9 +514,6 @@
 - [2022-01-20-分享一个-iOS-上-Sony-耳机-NFC-设备切换的方法](https://www.v2ex.com/t/829533) ![](assets/new.png)  
 - [2022-01-20-环洋诚信TrustOcean怎么了？](https://www.v2ex.com/t/829532) ![](assets/new.png)  
 - [2022-01-20-手机版的钉钉当遇到消息内容是-markdown（有图片、文字、超链接，一般都是钉钉机器人推送）无法部分选择复制。你们也这样么？](https://www.v2ex.com/t/829531) ![](assets/new.png)  
-- [2022-01-20-一种新的-NFT：如何创建全球唯一的-DAO](https://www.v2ex.com/t/829530) ![](assets/new.png)  
-- [2022-01-20-Python-的-if-如果判断语句过于冗长，有书写技巧不？](https://www.v2ex.com/t/829529) ![](assets/new.png)  
-- [2022-01-20-git-如何所有分支里边搜索代码片段](https://www.v2ex.com/t/829528) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -564,18 +564,18 @@
 - [2022-01-20-IPFS-速览](https://toutiao.io/k/wchxhiq) ![](assets/new.png)  
 - [2022-01-20-为什么-Eslint-可以检查和修复格式问题，而-Babel-不可以？](https://toutiao.io/k/jqjcrcs) ![](assets/new.png)  
 - [2022-01-20-133-python|第六部分：正则表达式](https://toutiao.io/k/djwjb9d) ![](assets/new.png)  
+- [2022-01-20-优惠券系统架构设计与实践](https://toutiao.io/k/q6yzp5j) ![](assets/new.png)  
 - [2022-01-20-原开发者出局，Faker.js-已被社区控制](https://toutiao.io/k/3xvhill) ![](assets/new.png)  
 - [2022-01-20-2022过虎年新年春节大门立体对联大礼包，点击链接立即领取红包！](https://toutiao.io/k/mfp3pig) ![](assets/new.png)  
-- [2022-01-20-优惠券系统架构设计与实践](https://toutiao.io/k/q6yzp5j) ![](assets/new.png)  
+- [2022-01-20-计算机体系结构基础](https://toutiao.io/k/6fq7gt9) ![](assets/new.png)  
 - [2022-01-20-Rust-for-Linux-源码导读-|-Ref-引用计数容器](https://toutiao.io/k/q8j7civ) ![](assets/new.png)  
 - [2022-01-20-探索-.NET-601-揭开-ConfigurationManager-的面纱](https://toutiao.io/k/f9udpbd) ![](assets/new.png)  
-- [2022-01-20-计算机体系结构基础](https://toutiao.io/k/6fq7gt9) ![](assets/new.png)  
 - [2022-01-20-浅谈C++回调函数的实现](https://toutiao.io/k/o8d6uf7) ![](assets/new.png)  
 - [2022-01-20-深入探讨-Room-2.4.0-的最新进展](https://toutiao.io/k/e4kgrwh) ![](assets/new.png)  
 - [2022-01-20-C#-使用-Excel-和-Math.Net-进行曲线拟合和数据预测](https://toutiao.io/k/v1hu10e) ![](assets/new.png)  
-- [2022-01-20-推荐-据说看完这篇-JVM-要一小时](https://toutiao.io/k/1dauixx) ![](assets/new.png)  
-- [2022-01-20-推荐-服务探活的五种方式](https://toutiao.io/k/1wuwmui) ![](assets/new.png)  
+- [2022-01-20-推荐-缓存一致性最佳实践](https://toutiao.io/k/ymscqc1) ![](assets/new.png)  
 - [2022-01-20-推荐-用规则引擎让你一天上线十个需求](https://toutiao.io/k/ldd1cse) ![](assets/new.png)  
+- [2022-01-20-推荐-据说看完这篇-JVM-要一小时](https://toutiao.io/k/1dauixx) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

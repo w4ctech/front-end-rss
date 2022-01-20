@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-20 03:20:58，:rocket: 更新条数: +1787， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-20 03:38:04，:rocket: 更新条数: +1788， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,11 @@
 </summary>
 
 
+- [2022-01-20-自建邮箱如何使用-ios-推送功能](https://www.v2ex.com/t/829415) ![](assets/new.png)  
+- [2022-01-20-水星的交换机-SG105pro-价格翻了三四倍-啥情况。](https://www.v2ex.com/t/829414) ![](assets/new.png)  
+- [2022-01-20-汤加火山爆发对地球造成的环境污染，相当于禁放烟花多长时间对地球减少的污染](https://www.v2ex.com/t/829413) ![](assets/new.png)  
+- [2022-01-20-gmail-多账号如何分类？](https://www.v2ex.com/t/829412) ![](assets/new.png)  
+- [2022-01-20-List-list=new-ArrayList-写法的意义是什么](https://www.v2ex.com/t/829411) ![](assets/new.png)  
 - [2022-01-20-自荐SMS-Push-一个极其简易的-Android-短信转邮件工具](https://www.v2ex.com/t/829410) ![](assets/new.png)  
 - [2022-01-20-考过软考的-V-友都是怎么学习的？](https://www.v2ex.com/t/829409) ![](assets/new.png)  
 - [2022-01-20-抽奖-春节将至，整点烤虾带回家吧！](https://www.v2ex.com/t/829407) ![](assets/new.png)  
@@ -509,11 +514,6 @@
 - [2022-01-20-项目组零基础转做前端，求助一点关于-React-项目架构相关的问题，做-Web-的图形编辑器](https://www.v2ex.com/t/829395) ![](assets/new.png)  
 - [2022-01-20-钉钉是怎么强奸了我的电脑](https://www.v2ex.com/t/829393) ![](assets/new.png)  
 - [2022-01-20-前端招聘区块链公司瑞士基金会背景,有私募机会,token-激励](https://www.v2ex.com/t/829392) ![](assets/new.png)  
-- [2022-01-20-有无好用的-AI-移除视频水印的软件](https://www.v2ex.com/t/829391) ![](assets/new.png)  
-- [2022-01-20-年会活动-哪些才是程序员真的喜欢的](https://www.v2ex.com/t/829390) ![](assets/new.png)  
-- [2022-01-20-今早同事要我留意供应商在管理平台的异常举动，说是要和公司打官司，理由是公司欠款。作为傀儡管理员的我该如何自保？因为项目验收也要求我签了字，但实际商业操...](https://www.v2ex.com/t/829387) ![](assets/new.png)  
-- [2022-01-20-有人尝试过-iPhone-官方以旧换新吗？](https://www.v2ex.com/t/829385) ![](assets/new.png)  
-- [2022-01-20-不懂就问，关于新款-iMac-背面接口...我该怎么插-U-盘和硬盘](https://www.v2ex.com/t/829384) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -568,14 +568,14 @@
 - [2022-01-20-Rust-for-Linux-源码导读-|-Ref-引用计数容器](https://toutiao.io/k/q8j7civ) ![](assets/new.png)  
 - [2022-01-20-探索-.NET-601-揭开-ConfigurationManager-的面纱](https://toutiao.io/k/f9udpbd) ![](assets/new.png)  
 - [2022-01-20-推荐-再见了-VMware，一款更轻量级的虚拟机！](https://toutiao.io/k/xw2lnva) ![](assets/new.png)  
-- [2022-01-20-推荐-干货总结！Kafka-面试大全（万字长文，37-张图，28-个知识点）](https://toutiao.io/k/f9qe7be) ![](assets/new.png)  
-- [2022-01-20-推荐-缓存一致性最佳实践](https://toutiao.io/k/ymscqc1) ![](assets/new.png)  
 - [2022-01-20-推荐-JVM调优的几种场景（建议收藏）](https://toutiao.io/k/0mfx2nd) ![](assets/new.png)  
+- [2022-01-20-推荐-从零开始搭建公司微服务授权架构技术栈（3种模式），这架构稳的一批...](https://toutiao.io/k/4g58j8v) ![](assets/new.png)  
+- [2022-01-20-推荐-浅谈缓存最终一致性的解决方案](https://toutiao.io/k/mgym1lv) ![](assets/new.png)  
+- [2022-01-20-推荐-从零打造-Instagram](https://toutiao.io/k/hufqvji) ![](assets/new.png)  
+- [2022-01-20-推荐-京东ClickHouse的实践之路](https://toutiao.io/k/j0r6746) ![](assets/new.png)  
+- [2022-01-20-推荐-服务探活的五种方式](https://toutiao.io/k/1wuwmui) ![](assets/new.png)  
 - [2022-01-20-推荐-从MVC到DDD的架构演进](https://toutiao.io/k/c7mn7hz) ![](assets/new.png)  
-- [2022-01-20-推荐-关于代码质量退化的思考](https://toutiao.io/k/zzaz6vu) ![](assets/new.png)  
-- [2022-01-20-推荐-据说看完这篇-JVM-要一小时](https://toutiao.io/k/1dauixx) ![](assets/new.png)  
-- [2022-01-20-推荐-面渣逆袭：Java并发六十问，图文详解，快来看看你会多少道！](https://toutiao.io/k/4ndh1gd) ![](assets/new.png)  
-- [2022-01-20-推荐-网络编程怎么做才算是优雅？](https://toutiao.io/k/zylzzpi) ![](assets/new.png)  
+- [2022-01-20-推荐-干货总结！Kafka-面试大全（万字长文，37-张图，28-个知识点）](https://toutiao.io/k/f9qe7be) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-20 23:20:39，:rocket: 更新条数: +1796， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-20 23:35:40，:rocket: 更新条数: +1796， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,7 @@
 </summary>
 
 
+- [2022-01-20-iPad-闪退，如何解決](https://www.v2ex.com/t/829592) ![](assets/new.png)  
 - [2022-01-20-你见过最简洁的后台管理系统是什么样的？](https://www.v2ex.com/t/829591) ![](assets/new.png)  
 - [2022-01-20-最近两个版本的-chrome-打开百度总是卡死](https://www.v2ex.com/t/829590) ![](assets/new.png)  
 - [2022-01-20-关于端口受限型-NAT-打洞可行性的思考](https://www.v2ex.com/t/829589) ![](assets/new.png)  
@@ -513,7 +514,6 @@
 - [2022-01-20-难道-nginx-不存在性能瓶颈？](https://www.v2ex.com/t/829569) ![](assets/new.png)  
 - [2022-01-20-你们-iPhone-第三方输入法会自己没掉吗](https://www.v2ex.com/t/829568) ![](assets/new.png)  
 - [2022-01-20-请教一个”前端/设计“的设计方案](https://www.v2ex.com/t/829567) ![](assets/new.png)  
-- [2022-01-20-有什么开源项目可以部署-fc/街机类游戏到服务器，然后-H5-访问](https://www.v2ex.com/t/829566) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -573,9 +573,9 @@
 - [2022-01-20-浅谈C++回调函数的实现](https://toutiao.io/k/o8d6uf7) ![](assets/new.png)  
 - [2022-01-20-C#-使用-Excel-和-Math.Net-进行曲线拟合和数据预测](https://toutiao.io/k/v1hu10e) ![](assets/new.png)  
 - [2022-01-20-深入探讨-Room-2.4.0-的最新进展](https://toutiao.io/k/e4kgrwh) ![](assets/new.png)  
-- [2022-01-20-推荐-从零开始搭建公司微服务授权架构技术栈（3种模式），这架构稳的一批...](https://toutiao.io/k/4g58j8v) ![](assets/new.png)  
-- [2022-01-20-推荐-据说看完这篇-JVM-要一小时](https://toutiao.io/k/1dauixx) ![](assets/new.png)  
-- [2022-01-20-推荐-用规则引擎让你一天上线十个需求](https://toutiao.io/k/ldd1cse) ![](assets/new.png)  
+- [2022-01-20-推荐-浅谈缓存最终一致性的解决方案](https://toutiao.io/k/mgym1lv) ![](assets/new.png)  
+- [2022-01-20-推荐-从零打造-Instagram](https://toutiao.io/k/hufqvji) ![](assets/new.png)  
+- [2022-01-20-推荐-面渣逆袭：Java并发六十问，图文详解，快来看看你会多少道！](https://toutiao.io/k/4ndh1gd) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

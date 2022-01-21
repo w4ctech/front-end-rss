@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-21 13:16:04，:rocket: 更新条数: +1795， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-21 13:31:26，:rocket: 更新条数: +1795， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -565,8 +565,8 @@
 - [2022-01-21-Go微服务中的trace日志串联](https://toutiao.io/k/16fvl8u) ![](assets/new.png)  
 - [2022-01-21-大数据SQL优化之数据倾斜解决案例全集](https://toutiao.io/k/liam55o) ![](assets/new.png)  
 - [2022-01-21-10年磨一剑，我是如何弃“医”从事“农民工”，给读研的学弟学妹一点建议](https://toutiao.io/k/3px8inc) ![](assets/new.png)  
-- [2022-01-21-事件驱动架构在-vivo-内容平台的实践](https://toutiao.io/k/co4uof3) ![](assets/new.png)  
 - [2022-01-21-我心中2021原创技术文TOP5](https://toutiao.io/k/fuyo87t) ![](assets/new.png)  
+- [2022-01-21-事件驱动架构在-vivo-内容平台的实践](https://toutiao.io/k/co4uof3) ![](assets/new.png)  
 - [2022-01-21-最佳实践-|-什么是好的日志记录实践？](https://toutiao.io/k/hswrs1p) ![](assets/new.png)  
 - [2022-01-21-5种高大上的yml文件读取方式，你知道吗？](https://toutiao.io/k/z9yxmod) ![](assets/new.png)  
 - [2022-01-21-Redis-7.0-共享复制缓冲区的设计与实现](https://toutiao.io/k/zodz8qu) ![](assets/new.png)  

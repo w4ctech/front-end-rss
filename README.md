@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-21 01:56:55，:rocket: 更新条数: +1785， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-21 02:08:48，:rocket: 更新条数: +1792， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -65,7 +65,7 @@
 </summary>
 
 
-- [2022-01-20-最新疫情：全国新冠累计确诊105411例-累计接种新冠疫苗超29.51亿剂次](https://m.caixin.com/m/2022-01-20/101832706.html) ![](assets/new.png)  
+- [2022-01-21-1月20日全国新增新冠73例-五省份本土23例](https://m.caixin.com/m/2022-01-21/101833002.html) ![](assets/new.png)  
 - [2022-01-20-火线评论｜返乡不分善恶-防控不可加码](https://opinion.caixin.com/m/2022-01-20/101832923.html) ![](assets/new.png)  
 - [2022-01-20-中国药企获准仿制全球首款口服抗新冠病毒药-均只能出口](https://m.caixin.com/m/2022-01-20/101832904.html) ![](assets/new.png)  
 - [2022-01-20-北京新增5确诊病例-两地调整为中风险地区](https://m.caixin.com/m/2022-01-20/101832749.html) ![](assets/new.png)  
@@ -494,6 +494,12 @@
 </summary>
 
 
+- [2022-01-21-发现小米-12X-的底层是-Android-11，雷总刀法精准！](https://www.v2ex.com/t/829624) ![](assets/new.png)  
+- [2022-01-21-How-to-write-a-Python-package-从零开始做一个-Python-软件](https://www.v2ex.com/t/829623) ![](assets/new.png)  
+- [2022-01-21-Chrome-自动更新失败错误-12，重装也没用，咋整](https://www.v2ex.com/t/829622) ![](assets/new.png)  
+- [2022-01-21-Java-on-Visual-Studio-Code-的更新-–-2022-年-1-月](https://www.v2ex.com/t/829621) ![](assets/new.png)  
+- [2022-01-21-程序员去酒吧应该注意的一些事项-以及那些花枝招展的女孩子们](https://www.v2ex.com/t/829620) ![](assets/new.png)  
+- [2022-01-21-睡够-9-个小时，早上起来感觉状态很好，来上一大杯咖啡，看见订阅的周刊更新了,-惬意的坐在椅子上，刷着周刊，看见一篇有意思的文章。小口抿着咖啡，一字一句的...](https://www.v2ex.com/t/829619) ![](assets/new.png)  
 - [2022-01-21-求个-win10-侧边工具栏](https://www.v2ex.com/t/829618) ![](assets/new.png)  
 - [2022-01-21-现在-iPad-远程-win-的最好解决方案是什么？](https://www.v2ex.com/t/829617) ![](assets/new.png)  
 - [2022-01-21-RouterOS-配置电信-IPv6-求助](https://www.v2ex.com/t/829616) ![](assets/new.png)  
@@ -508,12 +514,6 @@
 - [2022-01-21-苹果会推出-27-寸的-Pro-Display-XDR-吗，或者更新下-LG-UltraFine](https://www.v2ex.com/t/829603) ![](assets/new.png)  
 - [2022-01-21-安卓-微信的勿扰模式去哪了,-最近一次更新以后找不到了](https://www.v2ex.com/t/829601) ![](assets/new.png)  
 - [2022-01-21-win10-鼠标左键点击会卡顿延迟，右键刷新正常，怎么排查问题](https://www.v2ex.com/t/829600) ![](assets/new.png)  
-- [2022-01-21-计算机专业女生求专业必需品推荐](https://www.v2ex.com/t/829598) ![](assets/new.png)  
-- [2022-01-21-求助-2018-款-电脑无限重启](https://www.v2ex.com/t/829596) ![](assets/new.png)  
-- [2022-01-21-MacOS-腾讯会议咋每次要用的时候都打不开，要重装才行](https://www.v2ex.com/t/829594) ![](assets/new.png)  
-- [2022-01-21-惨痛教训，下雪天不要再路边停车](https://www.v2ex.com/t/829593) ![](assets/new.png)  
-- [2022-01-20-iPad-闪退，如何解決](https://www.v2ex.com/t/829592) ![](assets/new.png)  
-- [2022-01-20-你见过最简洁的后台管理系统是什么样的？](https://www.v2ex.com/t/829591) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -565,17 +565,17 @@
 - [2022-01-21-Go微服务中的trace日志串联](https://toutiao.io/k/16fvl8u) ![](assets/new.png)  
 - [2022-01-21-大数据SQL优化之数据倾斜解决案例全集](https://toutiao.io/k/liam55o) ![](assets/new.png)  
 - [2022-01-21-事件驱动架构在-vivo-内容平台的实践](https://toutiao.io/k/co4uof3) ![](assets/new.png)  
-- [2022-01-21-推荐-京东ClickHouse的实践之路](https://toutiao.io/k/j0r6746) ![](assets/new.png)  
-- [2022-01-21-推荐-从零打造-Instagram](https://toutiao.io/k/hufqvji) ![](assets/new.png)  
-- [2022-01-21-推荐-面渣逆袭：Java并发六十问，图文详解，快来看看你会多少道！](https://toutiao.io/k/4ndh1gd) ![](assets/new.png)  
-- [2022-01-21-推荐-服务探活的五种方式](https://toutiao.io/k/1wuwmui) ![](assets/new.png)  
-- [2022-01-21-推荐-关于代码质量退化的思考](https://toutiao.io/k/zzaz6vu) ![](assets/new.png)  
-- [2022-01-21-推荐-从MVC到DDD的架构演进](https://toutiao.io/k/c7mn7hz) ![](assets/new.png)  
-- [2022-01-21-推荐-从零开始搭建公司微服务授权架构技术栈（3种模式），这架构稳的一批...](https://toutiao.io/k/4g58j8v) ![](assets/new.png)  
-- [2022-01-21-推荐-JVM调优的几种场景（建议收藏）](https://toutiao.io/k/0mfx2nd) ![](assets/new.png)  
+- [2022-01-21-苹果接受台积电涨价，包下至少-12-万片-4nm-产能](https://toutiao.io/k/k0wflvy) ![](assets/new.png)  
+- [2022-01-21-五万字读懂c++](https://toutiao.io/k/jx3ogby) ![](assets/new.png)  
+- [2022-01-21-最佳实践-|-什么是好的日志记录实践？](https://toutiao.io/k/hswrs1p) ![](assets/new.png)  
+- [2022-01-21-流计算-Oceanus-|-Flink-JVM-内存超限的分析方法总结](https://toutiao.io/k/kaaxt90) ![](assets/new.png)  
+- [2022-01-21-这个API管理神器，很好用！](https://toutiao.io/k/lrpynnp) ![](assets/new.png)  
 - [2022-01-21-推荐-据说看完这篇-JVM-要一小时](https://toutiao.io/k/1dauixx) ![](assets/new.png)  
+- [2022-01-21-推荐-从MVC到DDD的架构演进](https://toutiao.io/k/c7mn7hz) ![](assets/new.png)  
 - [2022-01-21-推荐-3万字-|-34-图-|-Netty-|-内核角度看IO模型](https://toutiao.io/k/zavpca4) ![](assets/new.png)  
-- [2022-01-21-推荐-网络编程怎么做才算是优雅？](https://toutiao.io/k/zylzzpi) ![](assets/new.png)  
+- [2022-01-21-推荐-关于代码质量退化的思考](https://toutiao.io/k/zzaz6vu) ![](assets/new.png)  
+- [2022-01-21-推荐-从零打造-Instagram](https://toutiao.io/k/hufqvji) ![](assets/new.png)  
+- [2022-01-21-推荐-服务探活的五种方式](https://toutiao.io/k/1wuwmui) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

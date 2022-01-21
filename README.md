@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-21 08:25:11，:rocket: 更新条数: +1802， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-21 08:41:47，:rocket: 更新条数: +1801， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,10 @@
 </summary>
 
 
+- [2022-01-21-系统内各种运营配置头像-url,文案-etc.怎么集中管理](https://www.v2ex.com/t/829752) ![](assets/new.png)  
+- [2022-01-21-什么是精致的利己主义者](https://www.v2ex.com/t/829750) ![](assets/new.png)  
+- [2022-01-21-amber-group-这个公司怎么样](https://www.v2ex.com/t/829749) ![](assets/new.png)  
+- [2022-01-21-订单成功状态应该用-succeed、success-还是-successful-?](https://www.v2ex.com/t/829748) ![](assets/new.png)  
 - [2022-01-21-不想弄美术？不如试试-emoji！写一个只用了-emoji-的石头剪刀布小游戏](https://www.v2ex.com/t/829747) ![](assets/new.png)  
 - [2022-01-21-Cloudflare-上购买了一个便宜域名，添加任何-dns-解析，都无法解析成功，去查-whois-显示没有注册？有遇到的-v-友吗？](https://www.v2ex.com/t/829746) ![](assets/new.png)  
 - [2022-01-21-字节跳动今日头条｜抖音电商｜北上杭](https://www.v2ex.com/t/829745) ![](assets/new.png)  
@@ -510,10 +514,6 @@
 - [2022-01-21-国外学术圈也有学阀/抢学生一作的行为吗](https://www.v2ex.com/t/829733) ![](assets/new.png)  
 - [2022-01-21-关于开源项目二次开发的一个疑问](https://www.v2ex.com/t/829731) ![](assets/new.png)  
 - [2022-01-21-阿里小号一般几点放号啊，连续几天都没有抢到](https://www.v2ex.com/t/829729) ![](assets/new.png)  
-- [2022-01-21-joplin-笔记的手机端有点麻烦啊](https://www.v2ex.com/t/829728) ![](assets/new.png)  
-- [2022-01-21-今年-iPhone-过年大片《卷土重来》大家觉得怎么样？](https://www.v2ex.com/t/829727) ![](assets/new.png)  
-- [2022-01-21-服务器被植入挖矿病毒了，基于被挂马的脚本该怎么修复？](https://www.v2ex.com/t/829726) ![](assets/new.png)  
-- [2022-01-21-如何禁止钉钉来电全屏显示震动通知](https://www.v2ex.com/t/829725) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

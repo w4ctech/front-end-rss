@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-21 07:12:25，:rocket: 更新条数: +1804， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-21 07:19:56，:rocket: 更新条数: +1804， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,8 @@
 </summary>
 
 
+- [2022-01-21-现在-windows-服务器虚机用什么版本？](https://www.v2ex.com/t/829718) ![](assets/new.png)  
+- [2022-01-21-nginx-实现动态代理到服务器出现问题](https://www.v2ex.com/t/829716) ![](assets/new.png)  
 - [2022-01-21-游戏金融：传统游戏与-DAO](https://www.v2ex.com/t/829715) ![](assets/new.png)  
 - [2022-01-21-HTTP/1.1-axios-长连接断开后,-报错-502](https://www.v2ex.com/t/829714) ![](assets/new.png)  
 - [2022-01-21-过年了，想送亲戚小学女孩礼物，现在小学女生都流行什么？](https://www.v2ex.com/t/829713) ![](assets/new.png)  
@@ -512,8 +514,6 @@
 - [2022-01-21-V-友们最近都在折腾啥](https://www.v2ex.com/t/829698) ![](assets/new.png)  
 - [2022-01-21-苹果垃圾桶还能玩吗？](https://www.v2ex.com/t/829697) ![](assets/new.png)  
 - [2022-01-21-移动宽带感觉还是可以的啊](https://www.v2ex.com/t/829696) ![](assets/new.png)  
-- [2022-01-21-英语口语怎么入门？](https://www.v2ex.com/t/829695) ![](assets/new.png)  
-- [2022-01-21-如果-世界对你的善意和恶意-处在一个平衡](https://www.v2ex.com/t/829694) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -573,8 +573,8 @@
 - [2022-01-21-5种高大上的yml文件读取方式，你知道吗？](https://toutiao.io/k/z9yxmod) ![](assets/new.png)  
 - [2022-01-21-Redis-7.0-共享复制缓冲区的设计与实现](https://toutiao.io/k/zodz8qu) ![](assets/new.png)  
 - [2022-01-21-几种华丽无比的开发方式](https://toutiao.io/k/et05wng) ![](assets/new.png)  
-- [2022-01-21-在亚麻工作是一种怎样的体验（下）](https://toutiao.io/k/fbipovr) ![](assets/new.png)  
 - [2022-01-21-你会"拉链"吗？](https://toutiao.io/k/jaothzk) ![](assets/new.png)  
+- [2022-01-21-在亚麻工作是一种怎样的体验（下）](https://toutiao.io/k/fbipovr) ![](assets/new.png)  
 - [2022-01-21-带你彻底击溃跳表原理及其Golang实现！（内含图解）](https://toutiao.io/k/89m073c) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

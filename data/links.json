@@ -8659,6 +8659,11 @@
     "link": "http://www.ruanyifeng.com/blog/",
     "items": [
       {
+        "title": "科技爱好者周刊（第 193 期）：前端与后端，谁更难？",
+        "link": "http://www.ruanyifeng.com/blog/2022/01/weekly-issue-193.html",
+        "date": "2022-01-21"
+      },
+      {
         "title": "科技爱好者周刊（第 192 期）：最大的机会来自新技术",
         "link": "http://www.ruanyifeng.com/blog/2022/01/weekly-issue-192.html",
         "date": "2022-01-14"
@@ -8667,11 +8672,6 @@
         "title": "科技爱好者周刊（第 191 期）：一个程序员的财务独立之路",
         "link": "http://www.ruanyifeng.com/blog/2022/01/weekly-issue-191.html",
         "date": "2022-01-07"
-      },
-      {
-        "title": "科技爱好者周刊（第 190 期）：产品化思维",
-        "link": "http://www.ruanyifeng.com/blog/2021/12/weekly-issue-190.html",
-        "date": "2021-12-31"
       }
     ]
   },
@@ -8758,6 +8758,21 @@
     "title": "V2EX",
     "link": "https://www.v2ex.com/",
     "items": [
+      {
+        "title": "计算机专业女生求专业必需品推荐",
+        "link": "https://www.v2ex.com/t/829598",
+        "date": "2022-01-21"
+      },
+      {
+        "title": "求助 2018 款 电脑无限重启",
+        "link": "https://www.v2ex.com/t/829596",
+        "date": "2022-01-21"
+      },
+      {
+        "title": "MacOS 腾讯会议咋每次要用的时候都打不开，要重装才行",
+        "link": "https://www.v2ex.com/t/829594",
+        "date": "2022-01-21"
+      },
       {
         "title": "惨痛教训，下雪天不要再路边停车",
         "link": "https://www.v2ex.com/t/829593",
@@ -8937,26 +8952,6 @@
         "title": "iPad 闪退，如何解決",
         "link": "https://www.v2ex.com/t/829549",
         "date": "2022-01-20"
-      },
-      {
-        "title": "安卓蓝牙 AVRCP 版本 1.6，各大 APP 使用蓝牙播放音乐不显示专辑封面，大佬们支支招！",
-        "link": "https://www.v2ex.com/t/829548",
-        "date": "2022-01-20"
-      },
-      {
-        "title": "小米路由器 AX3000 可以实现科学上网吗？",
-        "link": "https://www.v2ex.com/t/829547",
-        "date": "2022-01-20"
-      },
-      {
-        "title": "大一离散数学题求助！各种进制下，如何判断两个数相乘的结果是否正确?",
-        "link": "https://www.v2ex.com/t/829545",
-        "date": "2022-01-20"
-      },
-      {
-        "title": "如何绕过本地路由？",
-        "link": "https://www.v2ex.com/t/829544",
-        "date": "2022-01-20"
       }
     ]
   },
@@ -9093,16 +9088,6 @@
         "date": "2022-01-21"
       },
       {
-        "title": "炸了！！又一VSCode神器面世！",
-        "link": "https://toutiao.io/k/fcnkzk7",
-        "date": "2022-01-21"
-      },
-      {
-        "title": "Go微服务中的trace日志串联",
-        "link": "https://toutiao.io/k/16fvl8u",
-        "date": "2022-01-21"
-      },
-      {
         "title": "袁腾飞：阿里飞猪信息流内容推荐探索",
         "link": "https://toutiao.io/k/qyj3l6n",
         "date": "2022-01-21"
@@ -9110,6 +9095,11 @@
       {
         "title": "不一般，在 Nginx 中运行 JavaScript",
         "link": "https://toutiao.io/k/t24637w",
+        "date": "2022-01-21"
+      },
+      {
+        "title": "Go微服务中的trace日志串联",
+        "link": "https://toutiao.io/k/16fvl8u",
         "date": "2022-01-21"
       },
       {
@@ -9123,13 +9113,8 @@
         "date": "2022-01-21"
       },
       {
-        "title": "[推荐] 服务探活的五种方式",
-        "link": "https://toutiao.io/k/1wuwmui",
-        "date": "2022-01-21"
-      },
-      {
-        "title": "[推荐] 从零打造 Instagram",
-        "link": "https://toutiao.io/k/hufqvji",
+        "title": "[推荐] 据说看完这篇 JVM 要一小时",
+        "link": "https://toutiao.io/k/1dauixx",
         "date": "2022-01-21"
       },
       {
@@ -9138,18 +9123,13 @@
         "date": "2022-01-21"
       },
       {
-        "title": "[推荐] 从零开始搭建公司微服务授权架构技术栈（3种模式），这架构稳的一批...",
-        "link": "https://toutiao.io/k/4g58j8v",
+        "title": "[推荐] 浅谈缓存最终一致性的解决方案",
+        "link": "https://toutiao.io/k/mgym1lv",
         "date": "2022-01-21"
       },
       {
         "title": "[推荐] 关于代码质量退化的思考",
         "link": "https://toutiao.io/k/zzaz6vu",
-        "date": "2022-01-21"
-      },
-      {
-        "title": "[推荐] 面渣逆袭：Java并发六十问，图文详解，快来看看你会多少道！",
-        "link": "https://toutiao.io/k/4ndh1gd",
         "date": "2022-01-21"
       },
       {
@@ -9163,8 +9143,23 @@
         "date": "2022-01-21"
       },
       {
+        "title": "[推荐] 面渣逆袭：Java并发六十问，图文详解，快来看看你会多少道！",
+        "link": "https://toutiao.io/k/4ndh1gd",
+        "date": "2022-01-21"
+      },
+      {
         "title": "[推荐] 网络编程怎么做才算是优雅？",
         "link": "https://toutiao.io/k/zylzzpi",
+        "date": "2022-01-21"
+      },
+      {
+        "title": "[推荐] 服务探活的五种方式",
+        "link": "https://toutiao.io/k/1wuwmui",
+        "date": "2022-01-21"
+      },
+      {
+        "title": "[推荐] 从零打造 Instagram",
+        "link": "https://toutiao.io/k/hufqvji",
         "date": "2022-01-21"
       },
       {
@@ -9173,13 +9168,8 @@
         "date": "2022-01-21"
       },
       {
-        "title": "[推荐] 浅谈缓存最终一致性的解决方案",
-        "link": "https://toutiao.io/k/mgym1lv",
-        "date": "2022-01-21"
-      },
-      {
-        "title": "[推荐] 据说看完这篇 JVM 要一小时",
-        "link": "https://toutiao.io/k/1dauixx",
+        "title": "[推荐] 从零开始搭建公司微服务授权架构技术栈（3种模式），这架构稳的一批...",
+        "link": "https://toutiao.io/k/4g58j8v",
         "date": "2022-01-21"
       }
     ]

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-21 00:38:06，:rocket: 更新条数: +1789， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-21 01:06:49，:rocket: 更新条数: +1787， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -337,9 +337,9 @@
 </summary>
 
 
+- [2022-01-21-科技爱好者周刊（第-193-期）：前端与后端，谁更难？](http://www.ruanyifeng.com/blog/2022/01/weekly-issue-193.html) ![](assets/new.png)  
 - [2022-01-14-科技爱好者周刊（第-192-期）：最大的机会来自新技术](http://www.ruanyifeng.com/blog/2022/01/weekly-issue-192.html) ![](assets/new.png)  
 - [2022-01-07-科技爱好者周刊（第-191-期）：一个程序员的财务独立之路](http://www.ruanyifeng.com/blog/2022/01/weekly-issue-191.html) ![](assets/new.png)  
-- [2021-12-31-科技爱好者周刊（第-190-期）：产品化思维](http://www.ruanyifeng.com/blog/2021/12/weekly-issue-190.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/阮一峰的网络日志.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -494,6 +494,9 @@
 </summary>
 
 
+- [2022-01-21-计算机专业女生求专业必需品推荐](https://www.v2ex.com/t/829598) ![](assets/new.png)  
+- [2022-01-21-求助-2018-款-电脑无限重启](https://www.v2ex.com/t/829596) ![](assets/new.png)  
+- [2022-01-21-MacOS-腾讯会议咋每次要用的时候都打不开，要重装才行](https://www.v2ex.com/t/829594) ![](assets/new.png)  
 - [2022-01-21-惨痛教训，下雪天不要再路边停车](https://www.v2ex.com/t/829593) ![](assets/new.png)  
 - [2022-01-20-iPad-闪退，如何解決](https://www.v2ex.com/t/829592) ![](assets/new.png)  
 - [2022-01-20-你见过最简洁的后台管理系统是什么样的？](https://www.v2ex.com/t/829591) ![](assets/new.png)  
@@ -511,9 +514,6 @@
 - [2022-01-20-现在的安卓手机性能已经很不错了,-可惜大部分仍然只是一个玩具...](https://www.v2ex.com/t/829575) ![](assets/new.png)  
 - [2022-01-20-MySQL-十多个表关联查询有更好的方案吗](https://www.v2ex.com/t/829574) ![](assets/new.png)  
 - [2022-01-20-刚把手机从洗衣机里抢救出来](https://www.v2ex.com/t/829573) ![](assets/new.png)  
-- [2022-01-20-轻-小说-epub-生成框架，欢迎贡献！（雾](https://www.v2ex.com/t/829571) ![](assets/new.png)  
-- [2022-01-20-难道-nginx-不存在性能瓶颈？](https://www.v2ex.com/t/829569) ![](assets/new.png)  
-- [2022-01-20-你们-iPhone-第三方输入法会自己没掉吗](https://www.v2ex.com/t/829568) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -560,21 +560,21 @@
 - [2022-01-21-会计学包含的两种程序设计思想](https://toutiao.io/k/0i1oswg) ![](assets/new.png)  
 - [2022-01-21-10年磨一剑，我是如何弃“医”从事“农民工”，给读研的学弟学妹一点建议](https://toutiao.io/k/3px8inc) ![](assets/new.png)  
 - [2022-01-21-今天你设计了吗？](https://toutiao.io/k/0p5qfkf) ![](assets/new.png)  
-- [2022-01-21-炸了！！又一VSCode神器面世！](https://toutiao.io/k/fcnkzk7) ![](assets/new.png)  
-- [2022-01-21-Go微服务中的trace日志串联](https://toutiao.io/k/16fvl8u) ![](assets/new.png)  
 - [2022-01-21-袁腾飞：阿里飞猪信息流内容推荐探索](https://toutiao.io/k/qyj3l6n) ![](assets/new.png)  
 - [2022-01-21-不一般，在-Nginx-中运行-JavaScript](https://toutiao.io/k/t24637w) ![](assets/new.png)  
+- [2022-01-21-Go微服务中的trace日志串联](https://toutiao.io/k/16fvl8u) ![](assets/new.png)  
 - [2022-01-21-事件驱动架构在-vivo-内容平台的实践](https://toutiao.io/k/co4uof3) ![](assets/new.png)  
 - [2022-01-21-大数据SQL优化之数据倾斜解决案例全集](https://toutiao.io/k/liam55o) ![](assets/new.png)  
-- [2022-01-21-推荐-服务探活的五种方式](https://toutiao.io/k/1wuwmui) ![](assets/new.png)  
-- [2022-01-21-推荐-从零打造-Instagram](https://toutiao.io/k/hufqvji) ![](assets/new.png)  
+- [2022-01-21-推荐-据说看完这篇-JVM-要一小时](https://toutiao.io/k/1dauixx) ![](assets/new.png)  
 - [2022-01-21-推荐-用规则引擎让你一天上线十个需求](https://toutiao.io/k/ldd1cse) ![](assets/new.png)  
-- [2022-01-21-推荐-从零开始搭建公司微服务授权架构技术栈（3种模式），这架构稳的一批...](https://toutiao.io/k/4g58j8v) ![](assets/new.png)  
+- [2022-01-21-推荐-浅谈缓存最终一致性的解决方案](https://toutiao.io/k/mgym1lv) ![](assets/new.png)  
 - [2022-01-21-推荐-关于代码质量退化的思考](https://toutiao.io/k/zzaz6vu) ![](assets/new.png)  
-- [2022-01-21-推荐-面渣逆袭：Java并发六十问，图文详解，快来看看你会多少道！](https://toutiao.io/k/4ndh1gd) ![](assets/new.png)  
 - [2022-01-21-推荐-JVM调优的几种场景（建议收藏）](https://toutiao.io/k/0mfx2nd) ![](assets/new.png)  
 - [2022-01-21-推荐-京东ClickHouse的实践之路](https://toutiao.io/k/j0r6746) ![](assets/new.png)  
+- [2022-01-21-推荐-面渣逆袭：Java并发六十问，图文详解，快来看看你会多少道！](https://toutiao.io/k/4ndh1gd) ![](assets/new.png)  
 - [2022-01-21-推荐-网络编程怎么做才算是优雅？](https://toutiao.io/k/zylzzpi) ![](assets/new.png)  
+- [2022-01-21-推荐-服务探活的五种方式](https://toutiao.io/k/1wuwmui) ![](assets/new.png)  
+- [2022-01-21-推荐-从零打造-Instagram](https://toutiao.io/k/hufqvji) ![](assets/new.png)  
 - [2022-01-21-推荐-从MVC到DDD的架构演进](https://toutiao.io/k/c7mn7hz) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

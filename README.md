@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-21 04:29:21，:rocket: 更新条数: +1794， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-21 04:49:09，:rocket: 更新条数: +1796， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -66,6 +66,7 @@
 
 
 - [2022-01-21-1月20日全国新增新冠73例-五省份本土23例](https://m.caixin.com/m/2022-01-21/101833002.html) ![](assets/new.png)  
+- [2022-01-21-柳叶刀刊文预测3月为“大流行”关键节点-法国将放松限制｜大流行手记（1月20日）](https://m.caixin.com/m/2022-01-21/101833057.html) ![](assets/new.png)  
 - [2022-01-20-火线评论｜返乡不分善恶-防控不可加码](https://opinion.caixin.com/m/2022-01-20/101832923.html) ![](assets/new.png)  
 - [2022-01-20-中国药企获准仿制全球首款口服抗新冠病毒药-均只能出口](https://m.caixin.com/m/2022-01-20/101832904.html) ![](assets/new.png)  
 - [2022-01-20-北京新增5确诊病例-两地调整为中风险地区](https://m.caixin.com/m/2022-01-20/101832749.html) ![](assets/new.png)  
@@ -84,7 +85,6 @@
 - [2022-01-18-【境内疫情观察】河南新增102例本土病例（1月17日）](https://database.caixin.com/m/2022-01-18/101831642.html) ![](assets/new.png)  
 - [2022-01-18-新德里、孟买新增病例下降-以色列缩短强制隔离期｜大流行手记（1月17日）](https://m.caixin.com/m/2022-01-18/101831511.html) ![](assets/new.png)  
 - [2022-01-18-北京海淀百旺茉莉园一期1人核酸阳性-小区封闭管理](https://photos.caixin.com/m/2022-01-18/101831624.html) ![](assets/new.png)  
-- [2022-01-18-【图集】浙江宁波北仑区全域低风险-地铁公交恢复运行](https://photos.caixin.com/m/2022-01-18/101831423.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -494,6 +494,12 @@
 </summary>
 
 
+- [2022-01-21-看广告听音乐他来了](https://www.v2ex.com/t/829662) ![](assets/new.png)  
+- [2022-01-21-「求职」「北京/远程」2.5-年前端开发找工作](https://www.v2ex.com/t/829661) ![](assets/new.png)  
+- [2022-01-21-为什么没有女性社区?](https://www.v2ex.com/t/829660) ![](assets/new.png)  
+- [2022-01-21-ios15.2.1-微信收款的通知失效了..](https://www.v2ex.com/t/829658) ![](assets/new.png)  
+- [2022-01-21-my-rss-together-一个可自定义订阅-rss-的文章聚合项目](https://www.v2ex.com/t/829657) ![](assets/new.png)  
+- [2022-01-21-Intellij-IDEA-干货分享](https://www.v2ex.com/t/829656) ![](assets/new.png)  
 - [2022-01-21-有没有啥业务级别的开源组件库](https://www.v2ex.com/t/829655) ![](assets/new.png)  
 - [2022-01-21-某多买了台手机，边框有点缺口，翻车了？](https://www.v2ex.com/t/829654) ![](assets/new.png)  
 - [2022-01-21-深刻感受到手机电脑等网络接入设备的-Wi-Fi-配置选项很局限](https://www.v2ex.com/t/829653) ![](assets/new.png)  
@@ -508,12 +514,6 @@
 - [2022-01-21-刚刚-V-站是去世了一阵子嘛？](https://www.v2ex.com/t/829640) ![](assets/new.png)  
 - [2022-01-21-啊哈哈哈哈哈~offer-来咯~是去还是留大佬们看看怎么选](https://www.v2ex.com/t/829639) ![](assets/new.png)  
 - [2022-01-21-一个快速浏览-github-源代码的图形化-Web-工具](https://www.v2ex.com/t/829638) ![](assets/new.png)  
-- [2022-01-21-终端命令下,什么命令-node-可以同时运行多个*.js-文件](https://www.v2ex.com/t/829637) ![](assets/new.png)  
-- [2022-01-21-js-如何实现动态修改-class-样式类中的值，不是不能修改的吗？](https://www.v2ex.com/t/829636) ![](assets/new.png)  
-- [2022-01-21-关于-F-搜-的广告](https://www.v2ex.com/t/829635) ![](assets/new.png)  
-- [2022-01-21-杭州最近裁员的公司不少啊，看到的有蘑菇街、有赞](https://www.v2ex.com/t/829634) ![](assets/new.png)  
-- [2022-01-21-关于第一次相亲，感觉好累呀！](https://www.v2ex.com/t/829633) ![](assets/new.png)  
-- [2022-01-21-又是在正式环境测试推送的](https://www.v2ex.com/t/829632) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -562,20 +562,20 @@
 - [2022-01-21-不一般，在-Nginx-中运行-JavaScript](https://toutiao.io/k/t24637w) ![](assets/new.png)  
 - [2022-01-21-10年磨一剑，我是如何弃“医”从事“农民工”，给读研的学弟学妹一点建议](https://toutiao.io/k/3px8inc) ![](assets/new.png)  
 - [2022-01-21-袁腾飞：阿里飞猪信息流内容推荐探索](https://toutiao.io/k/qyj3l6n) ![](assets/new.png)  
-- [2022-01-21-大数据SQL优化之数据倾斜解决案例全集](https://toutiao.io/k/liam55o) ![](assets/new.png)  
 - [2022-01-21-Go微服务中的trace日志串联](https://toutiao.io/k/16fvl8u) ![](assets/new.png)  
+- [2022-01-21-大数据SQL优化之数据倾斜解决案例全集](https://toutiao.io/k/liam55o) ![](assets/new.png)  
 - [2022-01-21-事件驱动架构在-vivo-内容平台的实践](https://toutiao.io/k/co4uof3) ![](assets/new.png)  
 - [2022-01-21-五万字读懂c++](https://toutiao.io/k/jx3ogby) ![](assets/new.png)  
 - [2022-01-21-最佳实践-|-什么是好的日志记录实践？](https://toutiao.io/k/hswrs1p) ![](assets/new.png)  
 - [2022-01-21-流计算-Oceanus-|-Flink-JVM-内存超限的分析方法总结](https://toutiao.io/k/kaaxt90) ![](assets/new.png)  
 - [2022-01-21-苹果接受台积电涨价，包下至少-12-万片-4nm-产能](https://toutiao.io/k/k0wflvy) ![](assets/new.png)  
 - [2022-01-21-推荐-京东ClickHouse的实践之路](https://toutiao.io/k/j0r6746) ![](assets/new.png)  
-- [2022-01-21-推荐-关于代码质量退化的思考](https://toutiao.io/k/zzaz6vu) ![](assets/new.png)  
-- [2022-01-21-推荐-JVM调优的几种场景（建议收藏）](https://toutiao.io/k/0mfx2nd) ![](assets/new.png)  
-- [2022-01-21-推荐-用规则引擎让你一天上线十个需求](https://toutiao.io/k/ldd1cse) ![](assets/new.png)  
-- [2022-01-21-推荐-3万字-|-34-图-|-Netty-|-内核角度看IO模型](https://toutiao.io/k/zavpca4) ![](assets/new.png)  
-- [2022-01-21-推荐-从零打造-Instagram](https://toutiao.io/k/hufqvji) ![](assets/new.png)  
 - [2022-01-21-推荐-服务探活的五种方式](https://toutiao.io/k/1wuwmui) ![](assets/new.png)  
+- [2022-01-21-推荐-用规则引擎让你一天上线十个需求](https://toutiao.io/k/ldd1cse) ![](assets/new.png)  
+- [2022-01-21-推荐-从MVC到DDD的架构演进](https://toutiao.io/k/c7mn7hz) ![](assets/new.png)  
+- [2022-01-21-推荐-浅谈缓存最终一致性的解决方案](https://toutiao.io/k/mgym1lv) ![](assets/new.png)  
+- [2022-01-21-推荐-3万字-|-34-图-|-Netty-|-内核角度看IO模型](https://toutiao.io/k/zavpca4) ![](assets/new.png)  
+- [2022-01-21-推荐-网络编程怎么做才算是优雅？](https://toutiao.io/k/zylzzpi) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

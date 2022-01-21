@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-21 05:54:29，:rocket: 更新条数: +1795， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-21 06:14:51，:rocket: 更新条数: +1801， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,17 @@
 </summary>
 
 
+- [2022-01-21-Javaer-用了一下-Go-web-开发，感觉开发体验倒退了](https://www.v2ex.com/t/829692) ![](assets/new.png)  
+- [2022-01-21-你们是否会经常做技术经验总结沉淀？分享出来一起学习](https://www.v2ex.com/t/829691) ![](assets/new.png)  
+- [2022-01-21-看到一个有趣的观点：高福利是一种变相的以国家为主体的天使投资](https://www.v2ex.com/t/829689) ![](assets/new.png)  
+- [2022-01-21-Vue-3-将在-2022-年-2-月-7-日成为新的默认版本](https://www.v2ex.com/t/829688) ![](assets/new.png)  
+- [2022-01-21-直接用-Rikai-SQL-检测图像中的周杰伦](https://www.v2ex.com/t/829687) ![](assets/new.png)  
+- [2022-01-21-请教各位大佬，-Mac-OS-上如何设置或修改进程名称？](https://www.v2ex.com/t/829686) ![](assets/new.png)  
+- [2022-01-21-完整-options+安装包](https://www.v2ex.com/t/829685) ![](assets/new.png)  
+- [2022-01-21-pandas-字符串拼接问题](https://www.v2ex.com/t/829684) ![](assets/new.png)  
+- [2022-01-21-GoLand-能否根据结构体-自动导入包前缀](https://www.v2ex.com/t/829683) ![](assets/new.png)  
+- [2022-01-21-WindowServer-报错-什么原因呢](https://www.v2ex.com/t/829682) ![](assets/new.png)  
+- [2022-01-21-大家规定的工作时长是多少？就我是满满-8-小时么？](https://www.v2ex.com/t/829680) ![](assets/new.png)  
 - [2022-01-21-MacBook-Pro-2017-屏幕舞台灯开始](https://www.v2ex.com/t/829679) ![](assets/new.png)  
 - [2022-01-21-一个月，从-3500-到-3000！创业板发生了什么？](https://www.v2ex.com/t/829677) ![](assets/new.png)  
 - [2022-01-21-Springboot-出-3.0-了，有公司跃跃欲试的吗？](https://www.v2ex.com/t/829676) ![](assets/new.png)  
@@ -503,17 +514,6 @@
 - [2022-01-21-Mac-商店,兑换-Montion-软件,兑换成功了,却没有出现在购买记录里](https://www.v2ex.com/t/829671) ![](assets/new.png)  
 - [2022-01-21-计算机专业男生过年送东西求推荐-o╥﹏╥o](https://www.v2ex.com/t/829670) ![](assets/new.png)  
 - [2022-01-21-请教一个-rxjs-的问题，基于-A-请求响应的数据再发出-B,C,D-三个请求（这三个相互之间无依赖），在-B,C,D-都完成后再做一些事情。](https://www.v2ex.com/t/829669) ![](assets/new.png)  
-- [2022-01-21-G-Suite-免费版将于-7-月-1-日起收费](https://www.v2ex.com/t/829667) ![](assets/new.png)  
-- [2022-01-21-新人求教成都的互联网企业卷不卷](https://www.v2ex.com/t/829666) ![](assets/new.png)  
-- [2022-01-21-远程-招-iOS-开发，兼职-5k~7k/mo-全职-20~30k/mo](https://www.v2ex.com/t/829665) ![](assets/new.png)  
-- [2022-01-21-英语差对编程的影响大吗？需要学到什么地步才够用？](https://www.v2ex.com/t/829664) ![](assets/new.png)  
-- [2022-01-21-如何在公网上用最廉价的方法提供文件共享服务?](https://www.v2ex.com/t/829663) ![](assets/new.png)  
-- [2022-01-21-看广告听音乐他来了](https://www.v2ex.com/t/829662) ![](assets/new.png)  
-- [2022-01-21-「求职」「北京/远程」2.5-年前端开发找工作](https://www.v2ex.com/t/829661) ![](assets/new.png)  
-- [2022-01-21-ios15.2.1-微信收款的通知失效了..](https://www.v2ex.com/t/829658) ![](assets/new.png)  
-- [2022-01-21-my-rss-together-一个可自定义订阅-rss-的文章聚合项目](https://www.v2ex.com/t/829657) ![](assets/new.png)  
-- [2022-01-21-Intellij-IDEA-干货分享](https://www.v2ex.com/t/829656) ![](assets/new.png)  
-- [2022-01-21-有没有啥业务级别的开源组件库](https://www.v2ex.com/t/829655) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -558,8 +558,8 @@
 
 - [2022-01-21-面试官问：设计高并发系统的时候，数据库层面该如何设计？](https://toutiao.io/k/p935kqr) ![](assets/new.png)  
 - [2022-01-21-会计学包含的两种程序设计思想](https://toutiao.io/k/0i1oswg) ![](assets/new.png)  
-- [2022-01-21-今天你设计了吗？](https://toutiao.io/k/0p5qfkf) ![](assets/new.png)  
 - [2022-01-21-不一般，在-Nginx-中运行-JavaScript](https://toutiao.io/k/t24637w) ![](assets/new.png)  
+- [2022-01-21-今天你设计了吗？](https://toutiao.io/k/0p5qfkf) ![](assets/new.png)  
 - [2022-01-21-袁腾飞：阿里飞猪信息流内容推荐探索](https://toutiao.io/k/qyj3l6n) ![](assets/new.png)  
 - [2022-01-21-10年磨一剑，我是如何弃“医”从事“农民工”，给读研的学弟学妹一点建议](https://toutiao.io/k/3px8inc) ![](assets/new.png)  
 - [2022-01-21-Go微服务中的trace日志串联](https://toutiao.io/k/16fvl8u) ![](assets/new.png)  
@@ -569,13 +569,13 @@
 - [2022-01-21-最佳实践-|-什么是好的日志记录实践？](https://toutiao.io/k/hswrs1p) ![](assets/new.png)  
 - [2022-01-21-流计算-Oceanus-|-Flink-JVM-内存超限的分析方法总结](https://toutiao.io/k/kaaxt90) ![](assets/new.png)  
 - [2022-01-21-苹果接受台积电涨价，包下至少-12-万片-4nm-产能](https://toutiao.io/k/k0wflvy) ![](assets/new.png)  
-- [2022-01-21-推荐-从零打造-Instagram](https://toutiao.io/k/hufqvji) ![](assets/new.png)  
-- [2022-01-21-推荐-3万字-|-34-图-|-Netty-|-内核角度看IO模型](https://toutiao.io/k/zavpca4) ![](assets/new.png)  
-- [2022-01-21-推荐-从零开始搭建公司微服务授权架构技术栈（3种模式），这架构稳的一批...](https://toutiao.io/k/4g58j8v) ![](assets/new.png)  
-- [2022-01-21-推荐-用规则引擎让你一天上线十个需求](https://toutiao.io/k/ldd1cse) ![](assets/new.png)  
-- [2022-01-21-推荐-关于代码质量退化的思考](https://toutiao.io/k/zzaz6vu) ![](assets/new.png)  
-- [2022-01-21-推荐-面渣逆袭：Java并发六十问，图文详解，快来看看你会多少道！](https://toutiao.io/k/4ndh1gd) ![](assets/new.png)  
-- [2022-01-21-推荐-服务探活的五种方式](https://toutiao.io/k/1wuwmui) ![](assets/new.png)  
+- [2022-01-21-我心中2021原创技术文TOP5](https://toutiao.io/k/fuyo87t) ![](assets/new.png)  
+- [2022-01-21-Redis-7.0-共享复制缓冲区的设计与实现](https://toutiao.io/k/zodz8qu) ![](assets/new.png)  
+- [2022-01-21-5种高大上的yml文件读取方式，你知道吗？](https://toutiao.io/k/z9yxmod) ![](assets/new.png)  
+- [2022-01-21-带你彻底击溃跳表原理及其Golang实现！（内含图解）](https://toutiao.io/k/89m073c) ![](assets/new.png)  
+- [2022-01-21-你会"拉链"吗？](https://toutiao.io/k/jaothzk) ![](assets/new.png)  
+- [2022-01-21-在亚麻工作是一种怎样的体验（下）](https://toutiao.io/k/fbipovr) ![](assets/new.png)  
+- [2022-01-21-几种华丽无比的开发方式](https://toutiao.io/k/et05wng) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

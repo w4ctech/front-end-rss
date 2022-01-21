@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-21 04:17:01，:rocket: 更新条数: +1793， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-21 04:29:21，:rocket: 更新条数: +1794， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,11 @@
 </summary>
 
 
+- [2022-01-21-有没有啥业务级别的开源组件库](https://www.v2ex.com/t/829655) ![](assets/new.png)  
+- [2022-01-21-某多买了台手机，边框有点缺口，翻车了？](https://www.v2ex.com/t/829654) ![](assets/new.png)  
+- [2022-01-21-深刻感受到手机电脑等网络接入设备的-Wi-Fi-配置选项很局限](https://www.v2ex.com/t/829653) ![](assets/new.png)  
+- [2022-01-21-请教-V-友-N1-USB-口长期接-U-盘会烧坏？](https://www.v2ex.com/t/829652) ![](assets/new.png)  
+- [2022-01-21-自荐-搞了一个-知乎日报小程序，欢迎各位-V-友使用，哈哈](https://www.v2ex.com/t/829650) ![](assets/new.png)  
 - [2022-01-21-WeChat-神奇功能，添加微信好友需要添加两次。](https://www.v2ex.com/t/829649) ![](assets/new.png)  
 - [2022-01-21-多个不同站点账号绑定问题，怎么做最简单？](https://www.v2ex.com/t/829648) ![](assets/new.png)  
 - [2022-01-21-过年了，来卷一卷极客的高质量课程吧](https://www.v2ex.com/t/829647) ![](assets/new.png)  
@@ -509,11 +514,6 @@
 - [2022-01-21-杭州最近裁员的公司不少啊，看到的有蘑菇街、有赞](https://www.v2ex.com/t/829634) ![](assets/new.png)  
 - [2022-01-21-关于第一次相亲，感觉好累呀！](https://www.v2ex.com/t/829633) ![](assets/new.png)  
 - [2022-01-21-又是在正式环境测试推送的](https://www.v2ex.com/t/829632) ![](assets/new.png)  
-- [2022-01-21-mac-外接-27-寸-4k-的显示器会模糊吗？](https://www.v2ex.com/t/829631) ![](assets/new.png)  
-- [2022-01-21-2000-左右的手机求推荐](https://www.v2ex.com/t/829630) ![](assets/new.png)  
-- [2022-01-21-如何不走相亲路线找对象-or-认识异性？](https://www.v2ex.com/t/829629) ![](assets/new.png)  
-- [2022-01-21-迫于需要在-n-多个-word-文档里找到关键信息，求方法](https://www.v2ex.com/t/829628) ![](assets/new.png)  
-- [2022-01-21-最近睡觉总是半夜把手举到头后面，着凉几次了](https://www.v2ex.com/t/829627) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -569,13 +569,13 @@
 - [2022-01-21-最佳实践-|-什么是好的日志记录实践？](https://toutiao.io/k/hswrs1p) ![](assets/new.png)  
 - [2022-01-21-流计算-Oceanus-|-Flink-JVM-内存超限的分析方法总结](https://toutiao.io/k/kaaxt90) ![](assets/new.png)  
 - [2022-01-21-苹果接受台积电涨价，包下至少-12-万片-4nm-产能](https://toutiao.io/k/k0wflvy) ![](assets/new.png)  
-- [2022-01-21-推荐-服务探活的五种方式](https://toutiao.io/k/1wuwmui) ![](assets/new.png)  
-- [2022-01-21-推荐-浅谈缓存最终一致性的解决方案](https://toutiao.io/k/mgym1lv) ![](assets/new.png)  
-- [2022-01-21-推荐-用规则引擎让你一天上线十个需求](https://toutiao.io/k/ldd1cse) ![](assets/new.png)  
-- [2022-01-21-推荐-从MVC到DDD的架构演进](https://toutiao.io/k/c7mn7hz) ![](assets/new.png)  
 - [2022-01-21-推荐-京东ClickHouse的实践之路](https://toutiao.io/k/j0r6746) ![](assets/new.png)  
 - [2022-01-21-推荐-关于代码质量退化的思考](https://toutiao.io/k/zzaz6vu) ![](assets/new.png)  
+- [2022-01-21-推荐-JVM调优的几种场景（建议收藏）](https://toutiao.io/k/0mfx2nd) ![](assets/new.png)  
+- [2022-01-21-推荐-用规则引擎让你一天上线十个需求](https://toutiao.io/k/ldd1cse) ![](assets/new.png)  
 - [2022-01-21-推荐-3万字-|-34-图-|-Netty-|-内核角度看IO模型](https://toutiao.io/k/zavpca4) ![](assets/new.png)  
+- [2022-01-21-推荐-从零打造-Instagram](https://toutiao.io/k/hufqvji) ![](assets/new.png)  
+- [2022-01-21-推荐-服务探活的五种方式](https://toutiao.io/k/1wuwmui) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

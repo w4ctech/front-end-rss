@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-21 19:11:11，:rocket: 更新条数: +1797， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-21 19:18:36，:rocket: 更新条数: +1798， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,7 @@
 </summary>
 
 
+- [2022-01-21-诸位有多久没有直接打车了？不通过-APP-打车](https://www.v2ex.com/t/829844) ![](assets/new.png)  
 - [2022-01-21-请问有没有申请过微信-H5-支付的朋友，能否指点一下诀窍。](https://www.v2ex.com/t/829843) ![](assets/new.png)  
 - [2022-01-21-obsidian-默认的图片管理真的稀烂啊,有什么插件可以拯救一下吗?](https://www.v2ex.com/t/829842) ![](assets/new.png)  
 - [2022-01-21-大家有看过哪些房间改造的视频](https://www.v2ex.com/t/829841) ![](assets/new.png)  
@@ -513,7 +514,6 @@
 - [2022-01-21-是我是我，扁平网线的受害者](https://www.v2ex.com/t/829820) ![](assets/new.png)  
 - [2022-01-21-前端开发，-6k（大概）左右预算，求推荐一款笔记本？](https://www.v2ex.com/t/829818) ![](assets/new.png)  
 - [2022-01-21-为什么中国互联网诱导下载情况如此严重？](https://www.v2ex.com/t/829817) ![](assets/new.png)  
-- [2022-01-21-我又来了，时隔半年，还是很想买-mac，还是下不定决心](https://www.v2ex.com/t/829816) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

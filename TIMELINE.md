@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-01-21 17:43:02。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-01-21 17:55:09。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -208,6 +208,7 @@
 - [【阮一峰的网络日志】2022-01-21-科技爱好者周刊（第-193-期）：前端与后端，谁更难？](http://www.ruanyifeng.com/blog/2022/01/weekly-issue-193.html) 
 - [【阮一峰的网络日志】2022-01-14-科技爱好者周刊（第-192-期）：最大的机会来自新技术](http://www.ruanyifeng.com/blog/2022/01/weekly-issue-192.html) 
 - [【阮一峰的网络日志】2022-01-07-科技爱好者周刊（第-191-期）：一个程序员的财务独立之路](http://www.ruanyifeng.com/blog/2022/01/weekly-issue-191.html) 
+- [【V2EX】2022-01-21-大家有看过哪些房间改造的视频](https://www.v2ex.com/t/829841) 
 - [【V2EX】2022-01-21-如何学习音频相关技术?](https://www.v2ex.com/t/829840) 
 - [【V2EX】2022-01-21-Airtag-bug-你们遇到了吗？](https://www.v2ex.com/t/829839) 
 - [【V2EX】2022-01-21-这么多音频编码，蜂窝的-AMR，-BT-的-SBC，除此之外还有-mp3，-aac-这些比较通用的，它们都是由什么硬件实现的？](https://www.v2ex.com/t/829838) 
@@ -241,7 +242,6 @@
 - [【V2EX】2022-01-21-摆脱各位-Javaer-转-go-的，别动不动就吐槽搞得不再用-Java-的都是垃圾一样](https://www.v2ex.com/t/829795) 
 - [【V2EX】2022-01-21-畅想一下国内什么时候能普及纯远程](https://www.v2ex.com/t/829793) 
 - [【V2EX】2022-01-21-想找个-个人开发者-开发个安卓版的程序，在哪里找比较好呀](https://www.v2ex.com/t/829792) 
-- [【V2EX】2022-01-21-我想到一个可以减肥还能挣钱的办法](https://www.v2ex.com/t/829791) 
 - [【技术头条】2022-01-21-微服务坏味道之循环依赖-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14907&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fmicroservices-bad-smell-circular-dependency%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-01-21-高效编写测试用例的技巧-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14906&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fwrite-effective-testcases-tips%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-01-21-软件工程师应该如何吵架？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14905&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fsoftware-engineer-quarrel-culture%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -282,17 +282,17 @@
 - [【开发者头条】2022-01-21-苹果接受台积电涨价，包下至少-12-万片-4nm-产能](https://toutiao.io/k/k0wflvy) 
 - [【开发者头条】2022-01-21-几种华丽无比的开发方式](https://toutiao.io/k/et05wng) 
 - [【开发者头条】2022-01-21-你会"拉链"吗？](https://toutiao.io/k/jaothzk) 
-- [【开发者头条】2022-01-21-推荐-网络编程怎么做才算是优雅？](https://toutiao.io/k/zylzzpi) 
 - [【开发者头条】2022-01-21-推荐-浅谈缓存最终一致性的解决方案](https://toutiao.io/k/mgym1lv) 
-- [【开发者头条】2022-01-21-推荐-从MVC到DDD的架构演进](https://toutiao.io/k/c7mn7hz) 
-- [【开发者头条】2022-01-21-推荐-关于代码质量退化的思考](https://toutiao.io/k/zzaz6vu) 
-- [【开发者头条】2022-01-21-推荐-据说看完这篇-JVM-要一小时](https://toutiao.io/k/1dauixx) 
-- [【开发者头条】2022-01-21-推荐-服务探活的五种方式](https://toutiao.io/k/1wuwmui) 
-- [【开发者头条】2022-01-21-推荐-3万字-|-34-图-|-Netty-|-内核角度看IO模型](https://toutiao.io/k/zavpca4) 
-- [【开发者头条】2022-01-21-推荐-从零开始搭建公司微服务授权架构技术栈（3种模式），这架构稳的一批...](https://toutiao.io/k/4g58j8v) 
-- [【开发者头条】2022-01-21-推荐-面渣逆袭：Java并发六十问，图文详解，快来看看你会多少道！](https://toutiao.io/k/4ndh1gd) 
-- [【开发者头条】2022-01-21-推荐-从零打造-Instagram](https://toutiao.io/k/hufqvji) 
 - [【开发者头条】2022-01-21-推荐-用规则引擎让你一天上线十个需求](https://toutiao.io/k/ldd1cse) 
+- [【开发者头条】2022-01-21-推荐-从MVC到DDD的架构演进](https://toutiao.io/k/c7mn7hz) 
+- [【开发者头条】2022-01-21-推荐-网络编程怎么做才算是优雅？](https://toutiao.io/k/zylzzpi) 
+- [【开发者头条】2022-01-21-推荐-关于代码质量退化的思考](https://toutiao.io/k/zzaz6vu) 
+- [【开发者头条】2022-01-21-推荐-面渣逆袭：Java并发六十问，图文详解，快来看看你会多少道！](https://toutiao.io/k/4ndh1gd) 
+- [【开发者头条】2022-01-21-推荐-服务探活的五种方式](https://toutiao.io/k/1wuwmui) 
+- [【开发者头条】2022-01-21-推荐-从零打造-Instagram](https://toutiao.io/k/hufqvji) 
+- [【开发者头条】2022-01-21-推荐-从零开始搭建公司微服务授权架构技术栈（3种模式），这架构稳的一批...](https://toutiao.io/k/4g58j8v) 
+- [【开发者头条】2022-01-21-推荐-3万字-|-34-图-|-Netty-|-内核角度看IO模型](https://toutiao.io/k/zavpca4) 
+- [【开发者头条】2022-01-21-推荐-据说看完这篇-JVM-要一小时](https://toutiao.io/k/1dauixx) 
 - [【开发者头条】2022-01-21-推荐-JVM调优的几种场景（建议收藏）](https://toutiao.io/k/0mfx2nd) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>

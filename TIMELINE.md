@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-01-21 16:59:59。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-01-21 17:15:37。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -208,6 +208,7 @@
 - [【阮一峰的网络日志】2022-01-21-科技爱好者周刊（第-193-期）：前端与后端，谁更难？](http://www.ruanyifeng.com/blog/2022/01/weekly-issue-193.html) 
 - [【阮一峰的网络日志】2022-01-14-科技爱好者周刊（第-192-期）：最大的机会来自新技术](http://www.ruanyifeng.com/blog/2022/01/weekly-issue-192.html) 
 - [【阮一峰的网络日志】2022-01-07-科技爱好者周刊（第-191-期）：一个程序员的财务独立之路](http://www.ruanyifeng.com/blog/2022/01/weekly-issue-191.html) 
+- [【V2EX】2022-01-21-Airtag-bug-你们遇到了吗？](https://www.v2ex.com/t/829839) 
 - [【V2EX】2022-01-21-这么多音频编码，蜂窝的-AMR，-BT-的-SBC，除此之外还有-mp3，-aac-这些比较通用的，它们都是由什么硬件实现的？](https://www.v2ex.com/t/829838) 
 - [【V2EX】2022-01-21-miui13-内置反诈中心-属实恶心](https://www.v2ex.com/t/829837) 
 - [【V2EX】2022-01-21-从-Huawei-路由器下载的-diagnose_enc.tar-文件如何解压？](https://www.v2ex.com/t/829836) 
@@ -280,18 +281,18 @@
 - [【开发者头条】2022-01-21-苹果接受台积电涨价，包下至少-12-万片-4nm-产能](https://toutiao.io/k/k0wflvy) 
 - [【开发者头条】2022-01-21-几种华丽无比的开发方式](https://toutiao.io/k/et05wng) 
 - [【开发者头条】2022-01-21-你会"拉链"吗？](https://toutiao.io/k/jaothzk) 
+- [【开发者头条】2022-01-21-推荐-从MVC到DDD的架构演进](https://toutiao.io/k/c7mn7hz) 
 - [【开发者头条】2022-01-21-推荐-JVM调优的几种场景（建议收藏）](https://toutiao.io/k/0mfx2nd) 
 - [【开发者头条】2022-01-21-推荐-关于代码质量退化的思考](https://toutiao.io/k/zzaz6vu) 
-- [【开发者头条】2022-01-21-推荐-从MVC到DDD的架构演进](https://toutiao.io/k/c7mn7hz) 
-- [【开发者头条】2022-01-21-推荐-服务探活的五种方式](https://toutiao.io/k/1wuwmui) 
 - [【开发者头条】2022-01-21-推荐-据说看完这篇-JVM-要一小时](https://toutiao.io/k/1dauixx) 
 - [【开发者头条】2022-01-21-推荐-网络编程怎么做才算是优雅？](https://toutiao.io/k/zylzzpi) 
-- [【开发者头条】2022-01-21-推荐-面渣逆袭：Java并发六十问，图文详解，快来看看你会多少道！](https://toutiao.io/k/4ndh1gd) 
-- [【开发者头条】2022-01-21-推荐-从零打造-Instagram](https://toutiao.io/k/hufqvji) 
-- [【开发者头条】2022-01-21-推荐-3万字-|-34-图-|-Netty-|-内核角度看IO模型](https://toutiao.io/k/zavpca4) 
-- [【开发者头条】2022-01-21-推荐-用规则引擎让你一天上线十个需求](https://toutiao.io/k/ldd1cse) 
+- [【开发者头条】2022-01-21-推荐-服务探活的五种方式](https://toutiao.io/k/1wuwmui) 
 - [【开发者头条】2022-01-21-推荐-浅谈缓存最终一致性的解决方案](https://toutiao.io/k/mgym1lv) 
 - [【开发者头条】2022-01-21-推荐-从零开始搭建公司微服务授权架构技术栈（3种模式），这架构稳的一批...](https://toutiao.io/k/4g58j8v) 
+- [【开发者头条】2022-01-21-推荐-3万字-|-34-图-|-Netty-|-内核角度看IO模型](https://toutiao.io/k/zavpca4) 
+- [【开发者头条】2022-01-21-推荐-面渣逆袭：Java并发六十问，图文详解，快来看看你会多少道！](https://toutiao.io/k/4ndh1gd) 
+- [【开发者头条】2022-01-21-推荐-从零打造-Instagram](https://toutiao.io/k/hufqvji) 
+- [【开发者头条】2022-01-21-推荐-用规则引擎让你一天上线十个需求](https://toutiao.io/k/ldd1cse) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

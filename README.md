@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-21 04:53:31，:rocket: 更新条数: +1796， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-21 05:11:12，:rocket: 更新条数: +1794， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,9 +494,14 @@
 </summary>
 
 
+- [2022-01-21-请教一个-rxjs-的问题，基于-A-请求响应的数据再发出-B,C,D-三个请求（这三个相互之间无依赖），在-B,C,D-都完成后再做一些事情。](https://www.v2ex.com/t/829669) ![](assets/new.png)  
+- [2022-01-21-G-Suite-免费版将于-7-月-1-日起收费](https://www.v2ex.com/t/829667) ![](assets/new.png)  
+- [2022-01-21-新人求教成都的互联网企业卷不卷](https://www.v2ex.com/t/829666) ![](assets/new.png)  
+- [2022-01-21-远程-招-iOS-开发，兼职-5k~7k/mo-全职-20~30k/mo](https://www.v2ex.com/t/829665) ![](assets/new.png)  
+- [2022-01-21-英语差对编程的影响大吗？需要学到什么地步才够用？](https://www.v2ex.com/t/829664) ![](assets/new.png)  
+- [2022-01-21-如何在公网上用最廉价的方法提供文件共享服务?](https://www.v2ex.com/t/829663) ![](assets/new.png)  
 - [2022-01-21-看广告听音乐他来了](https://www.v2ex.com/t/829662) ![](assets/new.png)  
 - [2022-01-21-「求职」「北京/远程」2.5-年前端开发找工作](https://www.v2ex.com/t/829661) ![](assets/new.png)  
-- [2022-01-21-为什么没有女性社区?](https://www.v2ex.com/t/829660) ![](assets/new.png)  
 - [2022-01-21-ios15.2.1-微信收款的通知失效了..](https://www.v2ex.com/t/829658) ![](assets/new.png)  
 - [2022-01-21-my-rss-together-一个可自定义订阅-rss-的文章聚合项目](https://www.v2ex.com/t/829657) ![](assets/new.png)  
 - [2022-01-21-Intellij-IDEA-干货分享](https://www.v2ex.com/t/829656) ![](assets/new.png)  
@@ -509,11 +514,6 @@
 - [2022-01-21-多个不同站点账号绑定问题，怎么做最简单？](https://www.v2ex.com/t/829648) ![](assets/new.png)  
 - [2022-01-21-过年了，来卷一卷极客的高质量课程吧](https://www.v2ex.com/t/829647) ![](assets/new.png)  
 - [2022-01-21-小白求助：-Java-有什么方法可以做复杂条件过滤](https://www.v2ex.com/t/829646) ![](assets/new.png)  
-- [2022-01-21-大佬们，-word2vector-是文本相似度还是语义相似度](https://www.v2ex.com/t/829643) ![](assets/new.png)  
-- [2022-01-21-大家今年还能回家过年吗](https://www.v2ex.com/t/829641) ![](assets/new.png)  
-- [2022-01-21-刚刚-V-站是去世了一阵子嘛？](https://www.v2ex.com/t/829640) ![](assets/new.png)  
-- [2022-01-21-啊哈哈哈哈哈~offer-来咯~是去还是留大佬们看看怎么选](https://www.v2ex.com/t/829639) ![](assets/new.png)  
-- [2022-01-21-一个快速浏览-github-源代码的图形化-Web-工具](https://www.v2ex.com/t/829638) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -569,13 +569,13 @@
 - [2022-01-21-最佳实践-|-什么是好的日志记录实践？](https://toutiao.io/k/hswrs1p) ![](assets/new.png)  
 - [2022-01-21-流计算-Oceanus-|-Flink-JVM-内存超限的分析方法总结](https://toutiao.io/k/kaaxt90) ![](assets/new.png)  
 - [2022-01-21-苹果接受台积电涨价，包下至少-12-万片-4nm-产能](https://toutiao.io/k/k0wflvy) ![](assets/new.png)  
-- [2022-01-21-推荐-京东ClickHouse的实践之路](https://toutiao.io/k/j0r6746) ![](assets/new.png)  
-- [2022-01-21-推荐-服务探活的五种方式](https://toutiao.io/k/1wuwmui) ![](assets/new.png)  
 - [2022-01-21-推荐-用规则引擎让你一天上线十个需求](https://toutiao.io/k/ldd1cse) ![](assets/new.png)  
-- [2022-01-21-推荐-从MVC到DDD的架构演进](https://toutiao.io/k/c7mn7hz) ![](assets/new.png)  
-- [2022-01-21-推荐-浅谈缓存最终一致性的解决方案](https://toutiao.io/k/mgym1lv) ![](assets/new.png)  
-- [2022-01-21-推荐-3万字-|-34-图-|-Netty-|-内核角度看IO模型](https://toutiao.io/k/zavpca4) ![](assets/new.png)  
+- [2022-01-21-推荐-据说看完这篇-JVM-要一小时](https://toutiao.io/k/1dauixx) ![](assets/new.png)  
 - [2022-01-21-推荐-网络编程怎么做才算是优雅？](https://toutiao.io/k/zylzzpi) ![](assets/new.png)  
+- [2022-01-21-推荐-从MVC到DDD的架构演进](https://toutiao.io/k/c7mn7hz) ![](assets/new.png)  
+- [2022-01-21-推荐-3万字-|-34-图-|-Netty-|-内核角度看IO模型](https://toutiao.io/k/zavpca4) ![](assets/new.png)  
+- [2022-01-21-推荐-从零打造-Instagram](https://toutiao.io/k/hufqvji) ![](assets/new.png)  
+- [2022-01-21-推荐-JVM调优的几种场景（建议收藏）](https://toutiao.io/k/0mfx2nd) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

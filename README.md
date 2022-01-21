@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-21 09:41:42，:rocket: 更新条数: +1804， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-21 09:54:09，:rocket: 更新条数: +1805， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,7 @@
 </summary>
 
 
+- [2022-01-21-Spotify-注册提示代理-怎么破。。。](https://www.v2ex.com/t/829773) ![](assets/new.png)  
 - [2022-01-21-像这种图前端有什么组件来画这种吗？](https://www.v2ex.com/t/829771) ![](assets/new.png)  
 - [2022-01-21-wh1000xm4-自动开机](https://www.v2ex.com/t/829770) ![](assets/new.png)  
 - [2022-01-21-北京-21-号又增加-7-个你们还要回老家吗？](https://www.v2ex.com/t/829769) ![](assets/new.png)  
@@ -513,7 +514,6 @@
 - [2022-01-21-系统内各种运营配置头像-url,文案-etc.怎么集中管理](https://www.v2ex.com/t/829752) ![](assets/new.png)  
 - [2022-01-21-什么是精致的利己主义者](https://www.v2ex.com/t/829750) ![](assets/new.png)  
 - [2022-01-21-amber-group-这个公司怎么样](https://www.v2ex.com/t/829749) ![](assets/new.png)  
-- [2022-01-21-订单成功状态应该用-succeed、success-还是-successful-?](https://www.v2ex.com/t/829748) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -525,6 +525,7 @@
 </summary>
 
 
+- [2022-01-21-微服务坏味道之循环依赖-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14907&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fmicroservices-bad-smell-circular-dependency%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-01-21-高效编写测试用例的技巧-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14906&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fwrite-effective-testcases-tips%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-01-21-软件工程师应该如何吵架？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14905&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fsoftware-engineer-quarrel-culture%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-01-21-Python之禅：编写优雅Python代码的16个原则-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14904&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493176%26amp%3Bidx%3D1%26amp%3Bsn%3Df2d627b156b058851c889b4445e11ec1%26amp%3Bchksm%3Dfa3f0763cd488e75569fb239eac349981802ba866826795ead0d9b7546d81579eed97e34bb65%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
@@ -544,7 +545,6 @@
 - [2022-01-21-10个动图,你会喜欢上idea的自动补全!-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14890&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247492923%26amp%3Bidx%3D1%26amp%3Bsn%3De52afa95777cbccbb584aad842d1a22c%26amp%3Bchksm%3Dfa3f0460cd488d76420858c663953776765cab8ce04561a825494e813096703d40f89dbbc5db%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-01-21-微信Windows版本干了件大事！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14889&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247492923%26amp%3Bidx%3D2%26amp%3Bsn%3Dc9c6fa08f8b83076a9c54be2f332c552%26amp%3Bchksm%3Dfa3f0460cd488d760fec7aab0ad0ee572186ed51bd269393426c617030e7ac3b63d164b6e572%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-01-21-一位10年Google工程师给技术人的建议-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14888&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247492913%26amp%3Bidx%3D1%26amp%3Bsn%3Dac389822c4e6f5899bf51ab9abd8aa3b%26amp%3Bchksm%3Dfa3f046acd488d7cbcc06db3b901854c31fcb2e4a724a20be7c60e969c8d4ad9796a077e703d%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-01-21-Vue开发移动端项目，这个工具对你一定有帮助-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14887&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247492913%26amp%3Bidx%3D2%26amp%3Bsn%3D925a00629c2130296cfc8227eddec078%26amp%3Bchksm%3Dfa3f046acd488d7cf66e591ea5dbbf890d12924a8b69610d80dd8130e00b20dde4b73211c64b%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -562,8 +562,8 @@
 - [2022-01-21-今天你设计了吗？](https://toutiao.io/k/0p5qfkf) ![](assets/new.png)  
 - [2022-01-21-袁腾飞：阿里飞猪信息流内容推荐探索](https://toutiao.io/k/qyj3l6n) ![](assets/new.png)  
 - [2022-01-21-五万字读懂c++](https://toutiao.io/k/jx3ogby) ![](assets/new.png)  
-- [2022-01-21-10年磨一剑，我是如何弃“医”从事“农民工”，给读研的学弟学妹一点建议](https://toutiao.io/k/3px8inc) ![](assets/new.png)  
 - [2022-01-21-Go微服务中的trace日志串联](https://toutiao.io/k/16fvl8u) ![](assets/new.png)  
+- [2022-01-21-10年磨一剑，我是如何弃“医”从事“农民工”，给读研的学弟学妹一点建议](https://toutiao.io/k/3px8inc) ![](assets/new.png)  
 - [2022-01-21-大数据SQL优化之数据倾斜解决案例全集](https://toutiao.io/k/liam55o) ![](assets/new.png)  
 - [2022-01-21-事件驱动架构在-vivo-内容平台的实践](https://toutiao.io/k/co4uof3) ![](assets/new.png)  
 - [2022-01-21-最佳实践-|-什么是好的日志记录实践？](https://toutiao.io/k/hswrs1p) ![](assets/new.png)  
@@ -573,8 +573,8 @@
 - [2022-01-21-5种高大上的yml文件读取方式，你知道吗？](https://toutiao.io/k/z9yxmod) ![](assets/new.png)  
 - [2022-01-21-Redis-7.0-共享复制缓冲区的设计与实现](https://toutiao.io/k/zodz8qu) ![](assets/new.png)  
 - [2022-01-21-在亚麻工作是一种怎样的体验（下）](https://toutiao.io/k/fbipovr) ![](assets/new.png)  
-- [2022-01-21-几种华丽无比的开发方式](https://toutiao.io/k/et05wng) ![](assets/new.png)  
 - [2022-01-21-带你彻底击溃跳表原理及其Golang实现！（内含图解）](https://toutiao.io/k/89m073c) ![](assets/new.png)  
+- [2022-01-21-几种华丽无比的开发方式](https://toutiao.io/k/et05wng) ![](assets/new.png)  
 - [2022-01-21-你会"拉链"吗？](https://toutiao.io/k/jaothzk) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

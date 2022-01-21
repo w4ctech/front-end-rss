@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2022-01-21 17:26:16。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-01-21 17:40:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-01-21-如何学习音频相关技术?](https://www.v2ex.com/t/829840) 
 - [2022-01-21-Airtag-bug-你们遇到了吗？](https://www.v2ex.com/t/829839) 
 - [2022-01-21-这么多音频编码，蜂窝的-AMR，-BT-的-SBC，除此之外还有-mp3，-aac-这些比较通用的，它们都是由什么硬件实现的？](https://www.v2ex.com/t/829838) 
 - [2022-01-21-miui13-内置反诈中心-属实恶心](https://www.v2ex.com/t/829837) 

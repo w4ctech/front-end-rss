@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-01-22 02:43:42。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-01-22 02:48:41。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -208,6 +208,7 @@
 - [【阮一峰的网络日志】2022-01-21-科技爱好者周刊（第-193-期）：前端与后端，谁更难？](http://www.ruanyifeng.com/blog/2022/01/weekly-issue-193.html) 
 - [【阮一峰的网络日志】2022-01-14-科技爱好者周刊（第-192-期）：最大的机会来自新技术](http://www.ruanyifeng.com/blog/2022/01/weekly-issue-192.html) 
 - [【阮一峰的网络日志】2022-01-07-科技爱好者周刊（第-191-期）：一个程序员的财务独立之路](http://www.ruanyifeng.com/blog/2022/01/weekly-issue-191.html) 
+- [【V2EX】2022-01-22-不懂就问-ios-设备如何方便的将照片备份到局域网-nas！](https://www.v2ex.com/t/829861) 
 - [【V2EX】2022-01-22-开发一个-TinyPNG-图像压缩桌面端工具，免费开源，无限制](https://www.v2ex.com/t/829856) 
 - [【V2EX】2022-01-22-爱幕---在线免费字幕编辑器，支持一键搬运-Youtube-视频功能](https://www.v2ex.com/t/829854) 
 - [【V2EX】2022-01-22-找项目，资金我出，你负责项目。](https://www.v2ex.com/t/829853) 
@@ -237,7 +238,6 @@
 - [【V2EX】2022-01-21-为什么中国互联网诱导下载情况如此严重？](https://www.v2ex.com/t/829817) 
 - [【V2EX】2022-01-21-我又来了，时隔半年，还是很想买-mac，还是下不定决心](https://www.v2ex.com/t/829816) 
 - [【V2EX】2022-01-21-下周一整周去长白山万达错峰滑雪](https://www.v2ex.com/t/829813) 
-- [【V2EX】2022-01-21-短链接跳转长链接-HTTP-状态码应该使用-301-302-还是-303？](https://www.v2ex.com/t/829811) 
 - [【技术头条】2022-01-22-微服务坏味道之循环依赖-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14907&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fmicroservices-bad-smell-circular-dependency%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-01-22-高效编写测试用例的技巧-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14906&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fwrite-effective-testcases-tips%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-01-22-软件工程师应该如何吵架？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14905&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fsoftware-engineer-quarrel-culture%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

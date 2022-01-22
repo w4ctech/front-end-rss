@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-01-22 02:43:42。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-01-22 02:48:41。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1680,6 +1680,7 @@
 - [2022-01-21-科技爱好者周刊（第-193-期）：前端与后端，谁更难？](http://www.ruanyifeng.com/blog/2022/01/weekly-issue-193.html) 
 - [2022-01-14-科技爱好者周刊（第-192-期）：最大的机会来自新技术](http://www.ruanyifeng.com/blog/2022/01/weekly-issue-192.html) 
 - [2022-01-07-科技爱好者周刊（第-191-期）：一个程序员的财务独立之路](http://www.ruanyifeng.com/blog/2022/01/weekly-issue-191.html) 
+- [2022-01-22-不懂就问-ios-设备如何方便的将照片备份到局域网-nas！](https://www.v2ex.com/t/829861) 
 - [2022-01-22-找项目，资金我出，你负责项目。](https://www.v2ex.com/t/829853) 
 - [2022-01-22-突然想铲雪](https://www.v2ex.com/t/829852) 
 - [2022-01-22-2022-年，跟各位求一个真无线或者挂耳的耳机](https://www.v2ex.com/t/829851) 

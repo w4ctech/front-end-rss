@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-01-22 16:16:00。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-01-22 16:30:13。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -213,6 +213,7 @@
 - [【阮一峰的网络日志】2022-01-21-科技爱好者周刊（第-193-期）：前端与后端，谁更难？](http://www.ruanyifeng.com/blog/2022/01/weekly-issue-193.html) 
 - [【阮一峰的网络日志】2022-01-14-科技爱好者周刊（第-192-期）：最大的机会来自新技术](http://www.ruanyifeng.com/blog/2022/01/weekly-issue-192.html) 
 - [【阮一峰的网络日志】2022-01-07-科技爱好者周刊（第-191-期）：一个程序员的财务独立之路](http://www.ruanyifeng.com/blog/2022/01/weekly-issue-191.html) 
+- [【V2EX】2022-01-22-年会竟然中了现金红包-h🧧，快一千，特来和大家分享下好运](https://www.v2ex.com/t/830004) 
 - [【V2EX】2022-01-22-分享一个很好用的检测网络是否存在多出口的网站](https://www.v2ex.com/t/830003) 
 - [【V2EX】2022-01-22-chrome-菜单这个是不是变了](https://www.v2ex.com/t/830001) 
 - [【V2EX】2022-01-22-2022-年去哪里买-switch-比较好](https://www.v2ex.com/t/830000) 
@@ -279,16 +280,16 @@
 - [【开发者头条】2022-01-22-超实用教程！一探Golang怎样践行Clean-Architecture？](https://toutiao.io/k/4a3bgsg) 
 - [【开发者头条】2022-01-22-字节跳动2021全年收入增速大降；有赞被曝大裁员：首先被裁的就是产品和技术研发；美国被曝以国家安全为由审查阿里云｜开发者头条](https://toutiao.io/k/5057j5t) 
 - [【开发者头条】2022-01-22-普通开发者，如何成为Apache顶级项目的commiter-？|-人物专访](https://toutiao.io/k/11xwv51) 
-- [【开发者头条】2022-01-22-推荐-JVM调优的几种场景（建议收藏）](https://toutiao.io/k/0mfx2nd) 
-- [【开发者头条】2022-01-22-推荐-面渣逆袭：Java并发六十问，图文详解，快来看看你会多少道！](https://toutiao.io/k/4ndh1gd) 
-- [【开发者头条】2022-01-22-推荐-关于代码质量退化的思考](https://toutiao.io/k/zzaz6vu) 
-- [【开发者头条】2022-01-22-推荐-据说看完这篇-JVM-要一小时](https://toutiao.io/k/1dauixx) 
-- [【开发者头条】2022-01-22-推荐-用规则引擎让你一天上线十个需求](https://toutiao.io/k/ldd1cse) 
-- [【开发者头条】2022-01-22-推荐-从MVC到DDD的架构演进](https://toutiao.io/k/c7mn7hz) 
-- [【开发者头条】2022-01-22-推荐-浅谈缓存最终一致性的解决方案](https://toutiao.io/k/mgym1lv) 
 - [【开发者头条】2022-01-22-推荐-从零开始搭建公司微服务授权架构技术栈（3种模式），这架构稳的一批...](https://toutiao.io/k/4g58j8v) 
+- [【开发者头条】2022-01-22-推荐-面渣逆袭：Java并发六十问，图文详解，快来看看你会多少道！](https://toutiao.io/k/4ndh1gd) 
+- [【开发者头条】2022-01-22-推荐-浅谈缓存最终一致性的解决方案](https://toutiao.io/k/mgym1lv) 
+- [【开发者头条】2022-01-22-推荐-关于代码质量退化的思考](https://toutiao.io/k/zzaz6vu) 
 - [【开发者头条】2022-01-22-推荐-优雅整洁的-Java-代码命名技巧，风之极·净化](https://toutiao.io/k/abc8vou) 
+- [【开发者头条】2022-01-22-推荐-从MVC到DDD的架构演进](https://toutiao.io/k/c7mn7hz) 
+- [【开发者头条】2022-01-22-推荐-用规则引擎让你一天上线十个需求](https://toutiao.io/k/ldd1cse) 
+- [【开发者头条】2022-01-22-推荐-据说看完这篇-JVM-要一小时](https://toutiao.io/k/1dauixx) 
 - [【开发者头条】2022-01-22-推荐-服务探活的五种方式](https://toutiao.io/k/1wuwmui) 
+- [【开发者头条】2022-01-22-推荐-JVM调优的几种场景（建议收藏）](https://toutiao.io/k/0mfx2nd) 
 - [【开发者头条】2022-01-22-推荐-3万字-|-34-图-|-Netty-|-内核角度看IO模型](https://toutiao.io/k/zavpca4) 
 - [【开发者头条】2022-01-22-推荐-从零打造-Instagram](https://toutiao.io/k/hufqvji) 
 

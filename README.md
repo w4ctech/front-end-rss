@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-22 09:19:52，:rocket: 更新条数: +1787， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-22 09:37:04，:rocket: 更新条数: +1788， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -66,13 +66,13 @@
 
 
 - [2022-01-22-1月21日全国新增新冠63例-四省份本土23例](https://m.caixin.com/m/2022-01-22/101833530.html) ![](assets/new.png)  
+- [2022-01-22-多起本土聚集性疫情见缓，专家称动态清零是现阶段最佳策略](https://m.caixin.com/m/2022-01-22/101833711.html) ![](assets/new.png)  
 - [2022-01-22-不满中方“熔断”-美国停飞中国航司44个航班](https://companies.caixin.com/m/2022-01-22/101833627.html) ![](assets/new.png)  
 - [2022-01-22-【境内疫情观察】北京新增10例本土病例（1月21日）](https://database.caixin.com/m/2022-01-22/101833675.html) ![](assets/new.png)  
 - [2022-01-22-欧盟讨论第四剂必要性-美料将为5岁以下儿童接种｜大流行手记（1月21日）](https://m.caixin.com/m/2022-01-22/101833640.html) ![](assets/new.png)  
 - [2022-01-21-北京新增12本土阳性病例-用国产替换进口标签者被立案侦查](https://m.caixin.com/m/2022-01-21/101833268.html) ![](assets/new.png)  
 - [2022-01-21-【境内疫情观察】北京新增5例本土病例（1月20日）](https://database.caixin.com/m/2022-01-21/101833122.html) ![](assets/new.png)  
 - [2022-01-21-柳叶刀刊文预测3月为“大流行”关键节点-法国将放松限制｜大流行手记（1月20日）](https://m.caixin.com/m/2022-01-21/101833057.html) ![](assets/new.png)  
-- [2022-01-20-火线评论｜返乡不分善恶-防控不可加码](https://opinion.caixin.com/m/2022-01-20/101832923.html) ![](assets/new.png)  
 - [2022-01-20-最新海外疫情：新冠感染超3.37亿-累计接种新冠疫苗超97.34亿剂次](https://m.caixin.com/m/2022-01-20/101832703.html) ![](assets/new.png)  
 - [2022-01-20-北京新增5确诊病例-两地调整为中风险地区](https://m.caixin.com/m/2022-01-20/101832749.html) ![](assets/new.png)  
 - [2022-01-20-新冠病毒“物传人”成风险疑点-广深强化境外物品接收防控](https://m.caixin.com/m/2022-01-20/101832563.html) ![](assets/new.png)  
@@ -81,10 +81,10 @@
 - [2022-01-20-中国药企获准仿制全球首款口服抗新冠病毒药-均只能出口](https://m.caixin.com/m/2022-01-20/101832904.html) ![](assets/new.png)  
 - [2022-01-20-港大研发新冠DNA疫苗-可快速调整应对变种病毒](https://m.caixin.com/m/2022-01-20/101832588.html) ![](assets/new.png)  
 - [2022-01-20-中国药企获准仿制全球首款口服抗新冠病毒药-均只能出口](https://m.caixin.com/m/2022-01-20/101832904.html) ![](assets/new.png)  
+- [2022-01-20-火线评论｜返乡不分善恶-防控不可加码](https://opinion.caixin.com/m/2022-01-20/101832923.html) ![](assets/new.png)  
 - [2022-01-19-北京新增5例本土阳性，四区相继出现疫情](https://m.caixin.com/m/2022-01-19/101832330.html) ![](assets/new.png)  
 - [2022-01-19-北京朝阳新增无症状感染者行程发布](https://m.caixin.com/m/2022-01-19/101832388.html) ![](assets/new.png)  
 - [2022-01-19-全球首现仓鼠感染新冠-港府拟大规模扑杀](https://m.caixin.com/m/2022-01-19/101831948.html) ![](assets/new.png)  
-- [2022-01-19-【境内疫情观察】全国新增55例本土病例（1月18日）](https://database.caixin.com/m/2022-01-19/101832127.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -494,6 +494,7 @@
 </summary>
 
 
+- [2022-01-22-SetApp-如何一起订阅？](https://www.v2ex.com/t/829945) ![](assets/new.png)  
 - [2022-01-22-为啥要使用-Inoreader-这种在线-RSS-服务？](https://www.v2ex.com/t/829942) ![](assets/new.png)  
 - [2022-01-22-没有-MacOS，除了黑苹果还有什么方法签名公证-Electron-编译好的-APP？](https://www.v2ex.com/t/829941) ![](assets/new.png)  
 - [2022-01-22-苹果钥匙串功能增强了，打电话给苹果客服后遇到的一些问题和疑虑，原来是用微软的-Microsoft-Authenticator-的，一些疑惑和不解，求指教。](https://www.v2ex.com/t/829940) ![](assets/new.png)  
@@ -513,7 +514,6 @@
 - [2022-01-22-给长辈用的大屏手机求推荐，原先是小米-Max3-6.9-英寸，家人表示很舒服。最近屏幕坏了，感觉换屏不如买新。预算不超过两千。最好仍是小米。](https://www.v2ex.com/t/829919) ![](assets/new.png)  
 - [2022-01-22-iptables-如何快速查看-rule-属于哪一个规则表？](https://www.v2ex.com/t/829918) ![](assets/new.png)  
 - [2022-01-22-我以为-apple-id-被封了...](https://www.v2ex.com/t/829917) ![](assets/new.png)  
-- [2022-01-22-ULA-RA-和-DHCPV6-PD-路由优先级的问题](https://www.v2ex.com/t/829916) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -564,18 +564,18 @@
 - [2022-01-22-超实用教程！一探Golang怎样践行Clean-Architecture？](https://toutiao.io/k/4a3bgsg) ![](assets/new.png)  
 - [2022-01-22-字节跳动2021全年收入增速大降；有赞被曝大裁员：首先被裁的就是产品和技术研发；美国被曝以国家安全为由审查阿里云｜开发者头条](https://toutiao.io/k/5057j5t) ![](assets/new.png)  
 - [2022-01-22-普通开发者，如何成为Apache顶级项目的commiter-？|-人物专访](https://toutiao.io/k/11xwv51) ![](assets/new.png)  
+- [2022-01-22-推荐-面渣逆袭：Java并发六十问，图文详解，快来看看你会多少道！](https://toutiao.io/k/4ndh1gd) ![](assets/new.png)  
+- [2022-01-22-推荐-从MVC到DDD的架构演进](https://toutiao.io/k/c7mn7hz) ![](assets/new.png)  
 - [2022-01-22-推荐-从零开始搭建公司微服务授权架构技术栈（3种模式），这架构稳的一批...](https://toutiao.io/k/4g58j8v) ![](assets/new.png)  
+- [2022-01-22-推荐-据说看完这篇-JVM-要一小时](https://toutiao.io/k/1dauixx) ![](assets/new.png)  
+- [2022-01-22-推荐-JVM调优的几种场景（建议收藏）](https://toutiao.io/k/0mfx2nd) ![](assets/new.png)  
+- [2022-01-22-推荐-网络编程怎么做才算是优雅？](https://toutiao.io/k/zylzzpi) ![](assets/new.png)  
+- [2022-01-22-推荐-浅谈缓存最终一致性的解决方案](https://toutiao.io/k/mgym1lv) ![](assets/new.png)  
+- [2022-01-22-推荐-从零打造-Instagram](https://toutiao.io/k/hufqvji) ![](assets/new.png)  
+- [2022-01-22-推荐-用规则引擎让你一天上线十个需求](https://toutiao.io/k/ldd1cse) ![](assets/new.png)  
 - [2022-01-22-推荐-3万字-|-34-图-|-Netty-|-内核角度看IO模型](https://toutiao.io/k/zavpca4) ![](assets/new.png)  
 - [2022-01-22-推荐-服务探活的五种方式](https://toutiao.io/k/1wuwmui) ![](assets/new.png)  
-- [2022-01-22-推荐-浅谈缓存最终一致性的解决方案](https://toutiao.io/k/mgym1lv) ![](assets/new.png)  
-- [2022-01-22-推荐-面渣逆袭：Java并发六十问，图文详解，快来看看你会多少道！](https://toutiao.io/k/4ndh1gd) ![](assets/new.png)  
-- [2022-01-22-推荐-从零打造-Instagram](https://toutiao.io/k/hufqvji) ![](assets/new.png)  
-- [2022-01-22-推荐-JVM调优的几种场景（建议收藏）](https://toutiao.io/k/0mfx2nd) ![](assets/new.png)  
 - [2022-01-22-推荐-关于代码质量退化的思考](https://toutiao.io/k/zzaz6vu) ![](assets/new.png)  
-- [2022-01-22-推荐-从MVC到DDD的架构演进](https://toutiao.io/k/c7mn7hz) ![](assets/new.png)  
-- [2022-01-22-推荐-用规则引擎让你一天上线十个需求](https://toutiao.io/k/ldd1cse) ![](assets/new.png)  
-- [2022-01-22-推荐-据说看完这篇-JVM-要一小时](https://toutiao.io/k/1dauixx) ![](assets/new.png)  
-- [2022-01-22-推荐-网络编程怎么做才算是优雅？](https://toutiao.io/k/zylzzpi) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

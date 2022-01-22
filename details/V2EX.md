@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2022-01-22 09:19:52。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-01-22 09:37:04。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-01-22-SetApp-如何一起订阅？](https://www.v2ex.com/t/829945) 
 - [2022-01-22-为啥要使用-Inoreader-这种在线-RSS-服务？](https://www.v2ex.com/t/829942) 
 - [2022-01-22-没有-MacOS，除了黑苹果还有什么方法签名公证-Electron-编译好的-APP？](https://www.v2ex.com/t/829941) 
 - [2022-01-22-苹果钥匙串功能增强了，打电话给苹果客服后遇到的一些问题和疑虑，原来是用微软的-Microsoft-Authenticator-的，一些疑惑和不解，求指教。](https://www.v2ex.com/t/829940) 
@@ -37,4 +38,3 @@
 - [2022-01-22-这套程序谁知道是什么程序吗](https://www.v2ex.com/t/829900) 
 - [2022-01-22-最近搞了几个小程序，想知道大家都搞过哪些小程序？欢迎评论分享](https://www.v2ex.com/t/829897) 
 - [2022-01-22-golang-csp-模型和单纯的协程框架在-web-上性能上哪个更好点](https://www.v2ex.com/t/829896) 
-- [2022-01-22-一咬牙买了只布偶，提前晒一下](https://www.v2ex.com/t/829893) 

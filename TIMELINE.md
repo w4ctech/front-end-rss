@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-01-22 02:04:38。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-01-22 02:26:10。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -208,6 +208,8 @@
 - [【阮一峰的网络日志】2022-01-21-科技爱好者周刊（第-193-期）：前端与后端，谁更难？](http://www.ruanyifeng.com/blog/2022/01/weekly-issue-193.html) 
 - [【阮一峰的网络日志】2022-01-14-科技爱好者周刊（第-192-期）：最大的机会来自新技术](http://www.ruanyifeng.com/blog/2022/01/weekly-issue-192.html) 
 - [【阮一峰的网络日志】2022-01-07-科技爱好者周刊（第-191-期）：一个程序员的财务独立之路](http://www.ruanyifeng.com/blog/2022/01/weekly-issue-191.html) 
+- [【V2EX】2022-01-22-开发一个-TinyPNG-图像压缩桌面端工具，免费开源，无限制](https://www.v2ex.com/t/829856) 
+- [【V2EX】2022-01-22-爱幕---在线免费字幕编辑器，支持一键搬运-Youtube-视频功能](https://www.v2ex.com/t/829854) 
 - [【V2EX】2022-01-22-找项目，资金我出，你负责项目。](https://www.v2ex.com/t/829853) 
 - [【V2EX】2022-01-22-突然想铲雪](https://www.v2ex.com/t/829852) 
 - [【V2EX】2022-01-22-2022-年，跟各位求一个真无线或者挂耳的耳机](https://www.v2ex.com/t/829851) 
@@ -238,9 +240,6 @@
 - [【V2EX】2022-01-21-短链接跳转长链接-HTTP-状态码应该使用-301-302-还是-303？](https://www.v2ex.com/t/829811) 
 - [【V2EX】2022-01-21-大家在-macos-上一般用-siri-来干嘛？](https://www.v2ex.com/t/829809) 
 - [【V2EX】2022-01-21-健身环大冒险-100-天与-Atomic-Habits](https://www.v2ex.com/t/829808) 
-- [【V2EX】2022-01-21-干掉-Java8-还得-Spring-来](https://www.v2ex.com/t/829807) 
-- [【V2EX】2022-01-21-用老毛子固件苹果手机更新慢的原因和解决办法](https://www.v2ex.com/t/829806) 
-- [【V2EX】2022-01-21-魔都去苏州打折真的这么厉害吗](https://www.v2ex.com/t/829804) 
 - [【技术头条】2022-01-22-微服务坏味道之循环依赖-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14907&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fmicroservices-bad-smell-circular-dependency%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-01-22-高效编写测试用例的技巧-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14906&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fwrite-effective-testcases-tips%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-01-22-软件工程师应该如何吵架？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14905&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fsoftware-engineer-quarrel-culture%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -269,18 +268,18 @@
 - [【开发者头条】2022-01-22-字节跳动2021全年收入增速大降；有赞被曝大裁员：首先被裁的就是产品和技术研发；美国被曝以国家安全为由审查阿里云｜开发者头条](https://toutiao.io/k/5057j5t) 
 - [【开发者头条】2022-01-22-普通开发者，如何成为Apache顶级项目的commiter-？|-人物专访](https://toutiao.io/k/11xwv51) 
 - [【开发者头条】2022-01-22-聊聊Netty那些事儿之从内核角度看IO模型](https://toutiao.io/k/kn9asp3) 
-- [【开发者头条】2022-01-22-推荐-从零开始搭建公司微服务授权架构技术栈（3种模式），这架构稳的一批...](https://toutiao.io/k/4g58j8v) 
-- [【开发者头条】2022-01-22-推荐-服务探活的五种方式](https://toutiao.io/k/1wuwmui) 
-- [【开发者头条】2022-01-22-推荐-JVM调优的几种场景（建议收藏）](https://toutiao.io/k/0mfx2nd) 
-- [【开发者头条】2022-01-22-推荐-关于代码质量退化的思考](https://toutiao.io/k/zzaz6vu) 
-- [【开发者头条】2022-01-22-推荐-浅谈缓存最终一致性的解决方案](https://toutiao.io/k/mgym1lv) 
-- [【开发者头条】2022-01-22-推荐-据说看完这篇-JVM-要一小时](https://toutiao.io/k/1dauixx) 
 - [【开发者头条】2022-01-22-推荐-面渣逆袭：Java并发六十问，图文详解，快来看看你会多少道！](https://toutiao.io/k/4ndh1gd) 
+- [【开发者头条】2022-01-22-推荐-3万字-|-34-图-|-Netty-|-内核角度看IO模型](https://toutiao.io/k/zavpca4) 
 - [【开发者头条】2022-01-22-推荐-网络编程怎么做才算是优雅？](https://toutiao.io/k/zylzzpi) 
 - [【开发者头条】2022-01-22-推荐-用规则引擎让你一天上线十个需求](https://toutiao.io/k/ldd1cse) 
+- [【开发者头条】2022-01-22-推荐-从零开始搭建公司微服务授权架构技术栈（3种模式），这架构稳的一批...](https://toutiao.io/k/4g58j8v) 
+- [【开发者头条】2022-01-22-推荐-关于代码质量退化的思考](https://toutiao.io/k/zzaz6vu) 
+- [【开发者头条】2022-01-22-推荐-JVM调优的几种场景（建议收藏）](https://toutiao.io/k/0mfx2nd) 
+- [【开发者头条】2022-01-22-推荐-服务探活的五种方式](https://toutiao.io/k/1wuwmui) 
 - [【开发者头条】2022-01-22-推荐-从MVC到DDD的架构演进](https://toutiao.io/k/c7mn7hz) 
+- [【开发者头条】2022-01-22-推荐-据说看完这篇-JVM-要一小时](https://toutiao.io/k/1dauixx) 
 - [【开发者头条】2022-01-22-推荐-从零打造-Instagram](https://toutiao.io/k/hufqvji) 
-- [【开发者头条】2022-01-22-推荐-3万字-|-34-图-|-Netty-|-内核角度看IO模型](https://toutiao.io/k/zavpca4) 
+- [【开发者头条】2022-01-22-推荐-浅谈缓存最终一致性的解决方案](https://toutiao.io/k/mgym1lv) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

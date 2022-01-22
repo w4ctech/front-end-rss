@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-01-22 13:39:39。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-01-22 13:54:32。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -6,7 +6,7 @@
 
 
 - [2022-01-22-最新疫情：全国新冠累计确诊105547例-累计接种新冠疫苗超29.6亿剂次](https://m.caixin.com/m/2022-01-22/101833722.html) 
-- [2022-01-22-香港本地疫情涌现-单日初步确诊逾百宗](https://m.caixin.com/m/2022-01-22/101833762.html) 
+- [2022-01-22-香港本地疫情成规模涌现-单日一地初步确诊逾百宗](https://m.caixin.com/m/2022-01-22/101833762.html) 
 - [2022-01-22-多起本土聚集性疫情见缓，专家称动态清零是现阶段最佳策略](https://m.caixin.com/m/2022-01-22/101833711.html) 
 - [2022-01-22-不满中方“熔断”-美国停飞中国航司44个航班](https://companies.caixin.com/m/2022-01-22/101833627.html) 
 - [2022-01-22-最新海外疫情：新冠感染超3.45亿-累计接种新冠疫苗超97.93亿剂次](https://m.caixin.com/m/2022-01-22/101833717.html) 
@@ -1685,6 +1685,7 @@
 - [2022-01-21-科技爱好者周刊（第-193-期）：前端与后端，谁更难？](http://www.ruanyifeng.com/blog/2022/01/weekly-issue-193.html) 
 - [2022-01-14-科技爱好者周刊（第-192-期）：最大的机会来自新技术](http://www.ruanyifeng.com/blog/2022/01/weekly-issue-192.html) 
 - [2022-01-07-科技爱好者周刊（第-191-期）：一个程序员的财务独立之路](http://www.ruanyifeng.com/blog/2022/01/weekly-issue-191.html) 
+- [2022-01-22-临时身份证能办理手机卡过户业务吗](https://www.v2ex.com/t/829981) 
 - [2022-01-22-请教下-V2-的历史](https://www.v2ex.com/t/829979) 
 - [2022-01-22-联通到-Amazon-日本改成直连了，不再经过-NTT](https://www.v2ex.com/t/829978) 
 - [2022-01-22-2021-MacBook-Pro-Wifi-上传和下载测速只有-500Mbps-左右](https://www.v2ex.com/t/829976) 
@@ -1715,7 +1716,6 @@
 - [2022-01-22-求把"王二到底爱不爱陈清扬”这十个字生成-ttf-格式字体的工具](https://www.v2ex.com/t/829937) 
 - [2022-01-22-娶妻-生子真的是必须吗？](https://www.v2ex.com/t/829936) 
 - [2022-01-22-Intro-new-book-on-Svelte](https://www.v2ex.com/t/829934) 
-- [2022-01-22-小米手机-怎么限制应用使用时间](https://www.v2ex.com/t/829933) 
 - [2022-01-22-微服务坏味道之循环依赖-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14907&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fmicroservices-bad-smell-circular-dependency%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-01-22-高效编写测试用例的技巧-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14906&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fwrite-effective-testcases-tips%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-01-22-软件工程师应该如何吵架？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14905&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fsoftware-engineer-quarrel-culture%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1735,14 +1735,14 @@
 - [2022-01-22-聊聊Netty那些事儿之从内核角度看IO模型](https://toutiao.io/k/kn9asp3) 
 - [2022-01-22-超实用教程！一探Golang怎样践行Clean-Architecture？](https://toutiao.io/k/4a3bgsg) 
 - [2022-01-22-普通开发者，如何成为Apache顶级项目的commiter-？|-人物专访](https://toutiao.io/k/11xwv51) 
-- [2022-01-22-推荐-从MVC到DDD的架构演进](https://toutiao.io/k/c7mn7hz) 
-- [2022-01-22-推荐-关于代码质量退化的思考](https://toutiao.io/k/zzaz6vu) 
 - [2022-01-22-推荐-从零开始搭建公司微服务授权架构技术栈（3种模式），这架构稳的一批...](https://toutiao.io/k/4g58j8v) 
-- [2022-01-22-推荐-用规则引擎让你一天上线十个需求](https://toutiao.io/k/ldd1cse) 
-- [2022-01-22-推荐-网络编程怎么做才算是优雅？](https://toutiao.io/k/zylzzpi) 
-- [2022-01-22-推荐-3万字-|-34-图-|-Netty-|-内核角度看IO模型](https://toutiao.io/k/zavpca4) 
-- [2022-01-22-推荐-面渣逆袭：Java并发六十问，图文详解，快来看看你会多少道！](https://toutiao.io/k/4ndh1gd) 
 - [2022-01-22-推荐-服务探活的五种方式](https://toutiao.io/k/1wuwmui) 
+- [2022-01-22-推荐-从MVC到DDD的架构演进](https://toutiao.io/k/c7mn7hz) 
+- [2022-01-22-推荐-网络编程怎么做才算是优雅？](https://toutiao.io/k/zylzzpi) 
+- [2022-01-22-推荐-用规则引擎让你一天上线十个需求](https://toutiao.io/k/ldd1cse) 
 - [2022-01-22-推荐-JVM调优的几种场景（建议收藏）](https://toutiao.io/k/0mfx2nd) 
-- [2022-01-22-推荐-据说看完这篇-JVM-要一小时](https://toutiao.io/k/1dauixx) 
 - [2022-01-22-推荐-从零打造-Instagram](https://toutiao.io/k/hufqvji) 
+- [2022-01-22-推荐-3万字-|-34-图-|-Netty-|-内核角度看IO模型](https://toutiao.io/k/zavpca4) 
+- [2022-01-22-推荐-据说看完这篇-JVM-要一小时](https://toutiao.io/k/1dauixx) 
+- [2022-01-22-推荐-面渣逆袭：Java并发六十问，图文详解，快来看看你会多少道！](https://toutiao.io/k/4ndh1gd) 
+- [2022-01-22-推荐-关于代码质量退化的思考](https://toutiao.io/k/zzaz6vu) 

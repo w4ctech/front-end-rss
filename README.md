@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-22 08:43:50，:rocket: 更新条数: +1785， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-22 08:56:30，:rocket: 更新条数: +1785， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,7 @@
 </summary>
 
 
+- [2022-01-22-请问国内大厂有没有-cpu-开-vtx-的-vps-主机出售，不要裸金属](https://www.v2ex.com/t/829938) ![](assets/new.png)  
 - [2022-01-22-求把"王二到底爱不爱陈清扬”这十个字生成-ttf-格式字体的工具](https://www.v2ex.com/t/829937) ![](assets/new.png)  
 - [2022-01-22-娶妻-生子真的是必须吗？](https://www.v2ex.com/t/829936) ![](assets/new.png)  
 - [2022-01-22-Intro-new-book-on-Svelte](https://www.v2ex.com/t/829934) ![](assets/new.png)  
@@ -513,7 +514,6 @@
 - [2022-01-22-MX-Keys-fn-键跟-mbp-原生键盘的-fn-不同吗～](https://www.v2ex.com/t/829914) ![](assets/new.png)  
 - [2022-01-22-关于-tls-卸载的问题](https://www.v2ex.com/t/829910) ![](assets/new.png)  
 - [2022-01-22-关于-Rust-的参数和配置读取的最佳实践问题](https://www.v2ex.com/t/829909) ![](assets/new.png)  
-- [2022-01-22-如何搜索-b-站属于一个播放列表的视频？](https://www.v2ex.com/t/829907) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -564,18 +564,18 @@
 - [2022-01-22-超实用教程！一探Golang怎样践行Clean-Architecture？](https://toutiao.io/k/4a3bgsg) ![](assets/new.png)  
 - [2022-01-22-字节跳动2021全年收入增速大降；有赞被曝大裁员：首先被裁的就是产品和技术研发；美国被曝以国家安全为由审查阿里云｜开发者头条](https://toutiao.io/k/5057j5t) ![](assets/new.png)  
 - [2022-01-22-普通开发者，如何成为Apache顶级项目的commiter-？|-人物专访](https://toutiao.io/k/11xwv51) ![](assets/new.png)  
+- [2022-01-22-推荐-从零开始搭建公司微服务授权架构技术栈（3种模式），这架构稳的一批...](https://toutiao.io/k/4g58j8v) ![](assets/new.png)  
+- [2022-01-22-推荐-据说看完这篇-JVM-要一小时](https://toutiao.io/k/1dauixx) ![](assets/new.png)  
+- [2022-01-22-推荐-网络编程怎么做才算是优雅？](https://toutiao.io/k/zylzzpi) ![](assets/new.png)  
 - [2022-01-22-推荐-从MVC到DDD的架构演进](https://toutiao.io/k/c7mn7hz) ![](assets/new.png)  
 - [2022-01-22-推荐-从零打造-Instagram](https://toutiao.io/k/hufqvji) ![](assets/new.png)  
 - [2022-01-22-推荐-服务探活的五种方式](https://toutiao.io/k/1wuwmui) ![](assets/new.png)  
+- [2022-01-22-推荐-用规则引擎让你一天上线十个需求](https://toutiao.io/k/ldd1cse) ![](assets/new.png)  
+- [2022-01-22-推荐-3万字-|-34-图-|-Netty-|-内核角度看IO模型](https://toutiao.io/k/zavpca4) ![](assets/new.png)  
 - [2022-01-22-推荐-面渣逆袭：Java并发六十问，图文详解，快来看看你会多少道！](https://toutiao.io/k/4ndh1gd) ![](assets/new.png)  
 - [2022-01-22-推荐-关于代码质量退化的思考](https://toutiao.io/k/zzaz6vu) ![](assets/new.png)  
-- [2022-01-22-推荐-JVM调优的几种场景（建议收藏）](https://toutiao.io/k/0mfx2nd) ![](assets/new.png)  
-- [2022-01-22-推荐-据说看完这篇-JVM-要一小时](https://toutiao.io/k/1dauixx) ![](assets/new.png)  
-- [2022-01-22-推荐-从零开始搭建公司微服务授权架构技术栈（3种模式），这架构稳的一批...](https://toutiao.io/k/4g58j8v) ![](assets/new.png)  
 - [2022-01-22-推荐-浅谈缓存最终一致性的解决方案](https://toutiao.io/k/mgym1lv) ![](assets/new.png)  
-- [2022-01-22-推荐-3万字-|-34-图-|-Netty-|-内核角度看IO模型](https://toutiao.io/k/zavpca4) ![](assets/new.png)  
-- [2022-01-22-推荐-网络编程怎么做才算是优雅？](https://toutiao.io/k/zylzzpi) ![](assets/new.png)  
-- [2022-01-22-推荐-用规则引擎让你一天上线十个需求](https://toutiao.io/k/ldd1cse) ![](assets/new.png)  
+- [2022-01-22-推荐-JVM调优的几种场景（建议收藏）](https://toutiao.io/k/0mfx2nd) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

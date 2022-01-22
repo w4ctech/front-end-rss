@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-01-22 13:14:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-01-22 13:23:36。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
@@ -39,4 +39,3 @@
 - [2022-01-22-Intro-new-book-on-Svelte](https://www.v2ex.com/t/829934) 
 - [2022-01-22-小米手机-怎么限制应用使用时间](https://www.v2ex.com/t/829933) 
 - [2022-01-22-超详细的-ARM-架构适配介绍！](https://www.v2ex.com/t/829931) 
-- [2022-01-22-实话说，我心中最完美的笔记本是-MacBook-12"](https://www.v2ex.com/t/829927) 

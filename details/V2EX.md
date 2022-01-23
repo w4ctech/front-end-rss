@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2022-01-23 10:12:59。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-01-23 10:22:34。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-01-23-vscode-开发-go，-import-本地包的时候能智能提示（自动补全）嘛](https://www.v2ex.com/t/830101) 
 - [2022-01-23-Apple-美国官网下单了-Pro-Apps-Bundle-for-Education，被重复扣费了，-V-友帮忙看一下呀](https://www.v2ex.com/t/830099) 
 - [2022-01-23-Chrome-最新版窗口全屏快捷键和-MAC-OS-冲突](https://www.v2ex.com/t/830098) 
 - [2022-01-23-旧笔记本只能用电池开机,能改装电池解决供电吗?](https://www.v2ex.com/t/830097) 
@@ -37,4 +38,3 @@
 - [2022-01-23-MX-Master-3-在-Mac-下滚轮几乎无法正常使用-😱](https://www.v2ex.com/t/830057) 
 - [2022-01-23-关于租房的一些事情](https://www.v2ex.com/t/830055) 
 - [2022-01-23-B-站有没有平时分享一些技术心得的大厂后端-Up-主呢，推荐学习学习。](https://www.v2ex.com/t/830054) 
-- [2022-01-23-怎么开始沉浸-minecraft](https://www.v2ex.com/t/830051) 

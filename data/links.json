@@ -8819,6 +8819,26 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "windows 安装 commitizen 使用命令弹出窗口问题",
+        "link": "https://www.v2ex.com/t/830126",
+        "date": "2022-01-23"
+      },
+      {
+        "title": "Google 原生信息 app 收到短信会提示保存号码，怎么取消？",
+        "link": "https://www.v2ex.com/t/830125",
+        "date": "2022-01-23"
+      },
+      {
+        "title": "windows terminal 底部 status bar",
+        "link": "https://www.v2ex.com/t/830124",
+        "date": "2022-01-23"
+      },
+      {
+        "title": "Netflix 会因为频繁切换代理和设备被限制吗？",
+        "link": "https://www.v2ex.com/t/830122",
+        "date": "2022-01-23"
+      },
+      {
         "title": "求助， Chrome 英文乱码",
         "link": "https://www.v2ex.com/t/830120",
         "date": "2022-01-23"
@@ -8971,31 +8991,6 @@
       {
         "title": "AlDente 导致 M1 MBP 不能睡眠",
         "link": "https://www.v2ex.com/t/830079",
-        "date": "2022-01-23"
-      },
-      {
-        "title": "有什么推荐的料理包？",
-        "link": "https://www.v2ex.com/t/830076",
-        "date": "2022-01-23"
-      },
-      {
-        "title": "mac mini m1 的 HDMI2.0 接口接 4k 显示器，有特定线材要求吗？",
-        "link": "https://www.v2ex.com/t/830074",
-        "date": "2022-01-23"
-      },
-      {
-        "title": "广州电信光猫改桥接，有没有懂的大佬？",
-        "link": "https://www.v2ex.com/t/830073",
-        "date": "2022-01-23"
-      },
-      {
-        "title": "客厅影音用 PC 有没有合适的可以买的到的显卡，要求 4k 输出和 HDCP2.2",
-        "link": "https://www.v2ex.com/t/830072",
-        "date": "2022-01-23"
-      },
-      {
-        "title": "原来，嵌入式 BI 方案的核心差异全在这，教你如何评估！",
-        "link": "https://www.v2ex.com/t/830071",
         "date": "2022-01-23"
       }
     ]
@@ -9168,8 +9163,8 @@
         "date": "2022-01-23"
       },
       {
-        "title": "[推荐] 据说看完这篇 JVM 要一小时",
-        "link": "https://toutiao.io/k/1dauixx",
+        "title": "[推荐] 从零打造 Instagram",
+        "link": "https://toutiao.io/k/hufqvji",
         "date": "2022-01-23"
       },
       {
@@ -9178,13 +9173,18 @@
         "date": "2022-01-23"
       },
       {
-        "title": "[推荐] 关于代码质量退化的思考",
-        "link": "https://toutiao.io/k/zzaz6vu",
+        "title": "[推荐] 优雅整洁的 Java 代码命名技巧，风之极·净化",
+        "link": "https://toutiao.io/k/abc8vou",
         "date": "2022-01-23"
       },
       {
-        "title": "[推荐] 优雅整洁的 Java 代码命名技巧，风之极·净化",
-        "link": "https://toutiao.io/k/abc8vou",
+        "title": "[推荐] 面渣逆袭：Java并发六十问，图文详解，快来看看你会多少道！",
+        "link": "https://toutiao.io/k/4ndh1gd",
+        "date": "2022-01-23"
+      },
+      {
+        "title": "[推荐] 据说看完这篇 JVM 要一小时",
+        "link": "https://toutiao.io/k/1dauixx",
         "date": "2022-01-23"
       },
       {
@@ -9193,18 +9193,8 @@
         "date": "2022-01-23"
       },
       {
-        "title": "[推荐] 从MVC到DDD的架构演进",
-        "link": "https://toutiao.io/k/c7mn7hz",
-        "date": "2022-01-23"
-      },
-      {
         "title": "[推荐] 用规则引擎让你一天上线十个需求",
         "link": "https://toutiao.io/k/ldd1cse",
-        "date": "2022-01-23"
-      },
-      {
-        "title": "[推荐] 面渣逆袭：Java并发六十问，图文详解，快来看看你会多少道！",
-        "link": "https://toutiao.io/k/4ndh1gd",
         "date": "2022-01-23"
       },
       {
@@ -9218,8 +9208,13 @@
         "date": "2022-01-23"
       },
       {
-        "title": "[推荐] 从零打造 Instagram",
-        "link": "https://toutiao.io/k/hufqvji",
+        "title": "[推荐] 从MVC到DDD的架构演进",
+        "link": "https://toutiao.io/k/c7mn7hz",
+        "date": "2022-01-23"
+      },
+      {
+        "title": "[推荐] 关于代码质量退化的思考",
+        "link": "https://toutiao.io/k/zzaz6vu",
         "date": "2022-01-23"
       }
     ]

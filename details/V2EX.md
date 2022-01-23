@@ -1,10 +1,14 @@
-:alarm_clock: 更新时间: 2022-01-23 12:59:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-01-23 13:14:45。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-01-23-windows-安装-commitizen-使用命令弹出窗口问题](https://www.v2ex.com/t/830126) 
+- [2022-01-23-Google-原生信息-app-收到短信会提示保存号码，怎么取消？](https://www.v2ex.com/t/830125) 
+- [2022-01-23-windows-terminal-底部-status-bar](https://www.v2ex.com/t/830124) 
+- [2022-01-23-Netflix-会因为频繁切换代理和设备被限制吗？](https://www.v2ex.com/t/830122) 
 - [2022-01-23-求助，-Chrome-英文乱码](https://www.v2ex.com/t/830120) 
 - [2022-01-23-招聘远程-web3js-开发工程师，月薪-40K](https://www.v2ex.com/t/830117) 
 - [2022-01-23-有在淘宝冲印照片的老哥么？](https://www.v2ex.com/t/830116) 
@@ -36,8 +40,3 @@
 - [2022-01-23-接到阿里小号的电话，说退差价](https://www.v2ex.com/t/830082) 
 - [2022-01-23-寻找一起回安徽池州的小伙伴](https://www.v2ex.com/t/830080) 
 - [2022-01-23-AlDente-导致-M1-MBP-不能睡眠](https://www.v2ex.com/t/830079) 
-- [2022-01-23-有什么推荐的料理包？](https://www.v2ex.com/t/830076) 
-- [2022-01-23-mac-mini-m1-的-HDMI2.0-接口接-4k-显示器，有特定线材要求吗？](https://www.v2ex.com/t/830074) 
-- [2022-01-23-广州电信光猫改桥接，有没有懂的大佬？](https://www.v2ex.com/t/830073) 
-- [2022-01-23-客厅影音用-PC-有没有合适的可以买的到的显卡，要求-4k-输出和-HDCP2.2](https://www.v2ex.com/t/830072) 
-- [2022-01-23-原来，嵌入式-BI-方案的核心差异全在这，教你如何评估！](https://www.v2ex.com/t/830071) 

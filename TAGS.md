@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-01-23 14:39:25。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-01-23 14:54:28。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -286,7 +286,6 @@
 - [【V2EX】求助，-Chrome-英文乱码](https://www.v2ex.com/t/830120)
 - [【V2EX】发现一个小众的-HTTP-Client-->-Auxl，基于节点的-HTTP-客户端，感觉很有创意](https://www.v2ex.com/t/830115)
 - [【V2EX】1History：一个备份浏览器访问记录的工具](https://www.v2ex.com/t/830108)
-- [【V2EX】Chrome-最新版窗口全屏快捷键和-MAC-OS-冲突](https://www.v2ex.com/t/830098)
 - [【技术头条】API面试四连杀：接口如何设计？安全如何保证？签名如何实现？防重如何实现？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14901&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493135%26amp%3Bidx%3D2%26amp%3Bsn%3D4569a4965be1a6e8b85369edd7fc91dc%26amp%3Bchksm%3Dfa3f0754cd488e427c9670d6aa67e0693725ee332f26e011767ba85562bd6bb08a65cc8aaaba%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【技术头条】一文读懂浏览器存储与缓存机制-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=14896&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F422666602%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【开发者头条】美团技术年货：1200+页电子书，覆盖前后端、算法、数据、安全、测试、顶会论文](https://toutiao.io/k/jios3ly)

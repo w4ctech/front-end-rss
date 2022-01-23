@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-01-23 04:49:49。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-01-23 05:11:18。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -214,6 +214,8 @@
 - [【阮一峰的网络日志】2022-01-21-科技爱好者周刊（第-193-期）：前端与后端，谁更难？](http://www.ruanyifeng.com/blog/2022/01/weekly-issue-193.html) 
 - [【阮一峰的网络日志】2022-01-14-科技爱好者周刊（第-192-期）：最大的机会来自新技术](http://www.ruanyifeng.com/blog/2022/01/weekly-issue-192.html) 
 - [【阮一峰的网络日志】2022-01-07-科技爱好者周刊（第-191-期）：一个程序员的财务独立之路](http://www.ruanyifeng.com/blog/2022/01/weekly-issue-191.html) 
+- [【V2EX】2022-01-23-MX-Master-3-在-Mac-下滚轮几乎无法正常使用-😱](https://www.v2ex.com/t/830057) 
+- [【V2EX】2022-01-23-关于租房的一些事情](https://www.v2ex.com/t/830055) 
 - [【V2EX】2022-01-23-B-站有没有平时分享一些技术心得的大厂后端-Up-主呢，推荐学习学习。](https://www.v2ex.com/t/830054) 
 - [【V2EX】2022-01-23-怎么开始沉浸-minecraft](https://www.v2ex.com/t/830051) 
 - [【V2EX】2022-01-23-今年春节放假前一天提离职，假如公司卡离职。法定最晚啥时候能拿到离职证明？](https://www.v2ex.com/t/830049) 
@@ -242,8 +244,6 @@
 - [【V2EX】2022-01-22-工作中大家-git-commit-规范是什么-windows-系统有什么好的规范插件吗](https://www.v2ex.com/t/830010) 
 - [【V2EX】2022-01-22-小米智能家具一天用-13-个-G-流量都干啥了它？](https://www.v2ex.com/t/830009) 
 - [【V2EX】2022-01-22-腾讯云广州香港-PostgreSQL-库挂了](https://www.v2ex.com/t/830008) 
-- [【V2EX】2022-01-22-美国苹果在线商店教育优惠取消-UNiDAYS-验证](https://www.v2ex.com/t/830006) 
-- [【V2EX】2022-01-22-Alfred-如何更改搜索结果顺序](https://www.v2ex.com/t/830005) 
 - [【技术头条】2022-01-23-微服务坏味道之循环依赖-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14907&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fmicroservices-bad-smell-circular-dependency%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-01-23-高效编写测试用例的技巧-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14906&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fwrite-effective-testcases-tips%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-01-23-软件工程师应该如何吵架？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14905&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fsoftware-engineer-quarrel-culture%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -271,18 +271,18 @@
 - [【开发者头条】2022-01-23-你是不是总是觉得钱不够花？——《工作、消费主义和新穷人》读书笔记](https://toutiao.io/k/269ugoo) 
 - [【开发者头条】2022-01-23-Redis-使用-List-实现消息队列的利与弊](https://toutiao.io/k/qasw3v7) 
 - [【开发者头条】2022-01-23-你应该了解的前端标准化](https://toutiao.io/k/yiqb5z7) 
-- [【开发者头条】2022-01-23-推荐-优雅整洁的-Java-代码命名技巧，风之极·净化](https://toutiao.io/k/abc8vou) 
-- [【开发者头条】2022-01-23-推荐-JVM调优的几种场景（建议收藏）](https://toutiao.io/k/0mfx2nd) 
-- [【开发者头条】2022-01-23-推荐-面渣逆袭：Java并发六十问，图文详解，快来看看你会多少道！](https://toutiao.io/k/4ndh1gd) 
-- [【开发者头条】2022-01-23-推荐-据说看完这篇-JVM-要一小时](https://toutiao.io/k/1dauixx) 
-- [【开发者头条】2022-01-23-推荐-浅谈缓存最终一致性的解决方案](https://toutiao.io/k/mgym1lv) 
-- [【开发者头条】2022-01-23-推荐-关于代码质量退化的思考](https://toutiao.io/k/zzaz6vu) 
-- [【开发者头条】2022-01-23-推荐-从零开始搭建公司微服务授权架构技术栈（3种模式），这架构稳的一批...](https://toutiao.io/k/4g58j8v) 
-- [【开发者头条】2022-01-23-推荐-从零打造-Instagram](https://toutiao.io/k/hufqvji) 
-- [【开发者头条】2022-01-23-推荐-用规则引擎让你一天上线十个需求](https://toutiao.io/k/ldd1cse) 
 - [【开发者头条】2022-01-23-推荐-服务探活的五种方式](https://toutiao.io/k/1wuwmui) 
 - [【开发者头条】2022-01-23-推荐-从MVC到DDD的架构演进](https://toutiao.io/k/c7mn7hz) 
+- [【开发者头条】2022-01-23-推荐-浅谈缓存最终一致性的解决方案](https://toutiao.io/k/mgym1lv) 
+- [【开发者头条】2022-01-23-推荐-优雅整洁的-Java-代码命名技巧，风之极·净化](https://toutiao.io/k/abc8vou) 
+- [【开发者头条】2022-01-23-推荐-据说看完这篇-JVM-要一小时](https://toutiao.io/k/1dauixx) 
+- [【开发者头条】2022-01-23-推荐-用规则引擎让你一天上线十个需求](https://toutiao.io/k/ldd1cse) 
 - [【开发者头条】2022-01-23-推荐-3万字-|-34-图-|-Netty-|-内核角度看IO模型](https://toutiao.io/k/zavpca4) 
+- [【开发者头条】2022-01-23-推荐-从零开始搭建公司微服务授权架构技术栈（3种模式），这架构稳的一批...](https://toutiao.io/k/4g58j8v) 
+- [【开发者头条】2022-01-23-推荐-关于代码质量退化的思考](https://toutiao.io/k/zzaz6vu) 
+- [【开发者头条】2022-01-23-推荐-从零打造-Instagram](https://toutiao.io/k/hufqvji) 
+- [【开发者头条】2022-01-23-推荐-面渣逆袭：Java并发六十问，图文详解，快来看看你会多少道！](https://toutiao.io/k/4ndh1gd) 
+- [【开发者头条】2022-01-23-推荐-JVM调优的几种场景（建议收藏）](https://toutiao.io/k/0mfx2nd) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-01-23 15:13:50。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-01-23 15:22:40。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
@@ -38,5 +38,3 @@
 - [2022-01-23-2022-年了，求一个使用体验还不错的老人防走丢定位器推荐（非手环/手表）](https://www.v2ex.com/t/830107) 
 - [2022-01-23-switch-除了玩游戏，还有其他折腾途径么](https://www.v2ex.com/t/830105) 
 - [2022-01-23-苹果竟早已加入面向字符串编程全家桶](https://www.v2ex.com/t/830104) 
-- [2022-01-23-gdb-dump-nemory](https://www.v2ex.com/t/830103) 
-- [2022-01-23-DigitalOcean-东京和-Linode-东京之间路由怎么样，不会故意互相丢包吧](https://www.v2ex.com/t/830102) 

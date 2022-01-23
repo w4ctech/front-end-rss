@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-01-23 06:24:57。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-01-23 06:43:27。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -214,6 +214,7 @@
 - [【阮一峰的网络日志】2022-01-21-科技爱好者周刊（第-193-期）：前端与后端，谁更难？](http://www.ruanyifeng.com/blog/2022/01/weekly-issue-193.html) 
 - [【阮一峰的网络日志】2022-01-14-科技爱好者周刊（第-192-期）：最大的机会来自新技术](http://www.ruanyifeng.com/blog/2022/01/weekly-issue-192.html) 
 - [【阮一峰的网络日志】2022-01-07-科技爱好者周刊（第-191-期）：一个程序员的财务独立之路](http://www.ruanyifeng.com/blog/2022/01/weekly-issue-191.html) 
+- [【V2EX】2022-01-23-请问一下前端怎么做手指点击文字-PREV/NEXT-时让文字有个一瞬间变色呢？-（就手指点的时候有一瞬间文字变成紫色然后再变回白色就行）](https://www.v2ex.com/t/830067) 
 - [【V2EX】2022-01-23-无线鼠标干扰太严重，有线鼠标老是被线拘束，怎么办怎么办](https://www.v2ex.com/t/830066) 
 - [【V2EX】2022-01-23-开源软件很好，有没有开源游戏呢？-Minecraft？](https://www.v2ex.com/t/830064) 
 - [【V2EX】2022-01-23-小红书-组内直招-高级后端开发工程师招聘-核心直播带货业务！](https://www.v2ex.com/t/830063) 
@@ -224,7 +225,6 @@
 - [【V2EX】2022-01-23-B-站有没有平时分享一些技术心得的大厂后端-Up-主呢，推荐学习学习。](https://www.v2ex.com/t/830054) 
 - [【V2EX】2022-01-23-怎么开始沉浸-minecraft](https://www.v2ex.com/t/830051) 
 - [【V2EX】2022-01-23-今年春节放假前一天提离职，假如公司卡离职。法定最晚啥时候能拿到离职证明？](https://www.v2ex.com/t/830049) 
-- [【V2EX】2022-01-23-哪个浏览器好？](https://www.v2ex.com/t/830048) 
 - [【V2EX】2022-01-23-安卓系统，微信能占用-20g-的空间，-qq-能占用-10g-的空间，怎么瘦身？](https://www.v2ex.com/t/830047) 
 - [【V2EX】2022-01-23-大家如何解决多个-css-库的命名冲突问题](https://www.v2ex.com/t/830045) 
 - [【V2EX】2022-01-23-腾讯云香港这几天丢包好像变得很严重啊](https://www.v2ex.com/t/830044) 
@@ -241,7 +241,6 @@
 - [【V2EX】2022-01-23-有没有用-chromium-的](https://www.v2ex.com/t/830020) 
 - [【V2EX】2022-01-23-想找个写日记的-App-需要完全离线-或者加密上传-iCloud](https://www.v2ex.com/t/830019) 
 - [【V2EX】2022-01-23-现在上海电信还会因为用-ddns-封宽带吗？](https://www.v2ex.com/t/830018) 
-- [【V2EX】2022-01-23-上传流量和计费流量差距如此之大正常吗？](https://www.v2ex.com/t/830017) 
 - [【技术头条】2022-01-23-微服务坏味道之循环依赖-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14907&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fmicroservices-bad-smell-circular-dependency%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-01-23-高效编写测试用例的技巧-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14906&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fwrite-effective-testcases-tips%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-01-23-软件工程师应该如何吵架？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14905&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fsoftware-engineer-quarrel-culture%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -272,18 +271,18 @@
 - [【开发者头条】2022-01-23-使用-T5-探索迁移学习：文本到文本迁移转换器](https://toutiao.io/k/g0muey0) 
 - [【开发者头条】2022-01-23-玩转-Spring-Boot-入门篇](https://toutiao.io/k/kflz2wm) 
 - [【开发者头条】2022-01-23-对微信感染病毒的分析](https://toutiao.io/k/00q46nc) 
-- [【开发者头条】2022-01-23-推荐-3万字-|-34-图-|-Netty-|-内核角度看IO模型](https://toutiao.io/k/zavpca4) 
-- [【开发者头条】2022-01-23-推荐-据说看完这篇-JVM-要一小时](https://toutiao.io/k/1dauixx) 
-- [【开发者头条】2022-01-23-推荐-浅谈缓存最终一致性的解决方案](https://toutiao.io/k/mgym1lv) 
-- [【开发者头条】2022-01-23-推荐-用规则引擎让你一天上线十个需求](https://toutiao.io/k/ldd1cse) 
+- [【开发者头条】2022-01-23-推荐-关于代码质量退化的思考](https://toutiao.io/k/zzaz6vu) 
 - [【开发者头条】2022-01-23-推荐-从零打造-Instagram](https://toutiao.io/k/hufqvji) 
-- [【开发者头条】2022-01-23-推荐-面渣逆袭：Java并发六十问，图文详解，快来看看你会多少道！](https://toutiao.io/k/4ndh1gd) 
-- [【开发者头条】2022-01-23-推荐-服务探活的五种方式](https://toutiao.io/k/1wuwmui) 
+- [【开发者头条】2022-01-23-推荐-浅谈缓存最终一致性的解决方案](https://toutiao.io/k/mgym1lv) 
 - [【开发者头条】2022-01-23-推荐-JVM调优的几种场景（建议收藏）](https://toutiao.io/k/0mfx2nd) 
 - [【开发者头条】2022-01-23-推荐-从MVC到DDD的架构演进](https://toutiao.io/k/c7mn7hz) 
-- [【开发者头条】2022-01-23-推荐-关于代码质量退化的思考](https://toutiao.io/k/zzaz6vu) 
-- [【开发者头条】2022-01-23-推荐-优雅整洁的-Java-代码命名技巧，风之极·净化](https://toutiao.io/k/abc8vou) 
+- [【开发者头条】2022-01-23-推荐-用规则引擎让你一天上线十个需求](https://toutiao.io/k/ldd1cse) 
+- [【开发者头条】2022-01-23-推荐-面渣逆袭：Java并发六十问，图文详解，快来看看你会多少道！](https://toutiao.io/k/4ndh1gd) 
 - [【开发者头条】2022-01-23-推荐-从零开始搭建公司微服务授权架构技术栈（3种模式），这架构稳的一批...](https://toutiao.io/k/4g58j8v) 
+- [【开发者头条】2022-01-23-推荐-优雅整洁的-Java-代码命名技巧，风之极·净化](https://toutiao.io/k/abc8vou) 
+- [【开发者头条】2022-01-23-推荐-服务探活的五种方式](https://toutiao.io/k/1wuwmui) 
+- [【开发者头条】2022-01-23-推荐-据说看完这篇-JVM-要一小时](https://toutiao.io/k/1dauixx) 
+- [【开发者头条】2022-01-23-推荐-3万字-|-34-图-|-Netty-|-内核角度看IO模型](https://toutiao.io/k/zavpca4) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

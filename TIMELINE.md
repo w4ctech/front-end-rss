@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-01-23 14:54:28。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-01-23 15:13:50。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -216,6 +216,9 @@
 - [【阮一峰的网络日志】2022-01-21-科技爱好者周刊（第-193-期）：前端与后端，谁更难？](http://www.ruanyifeng.com/blog/2022/01/weekly-issue-193.html) 
 - [【阮一峰的网络日志】2022-01-14-科技爱好者周刊（第-192-期）：最大的机会来自新技术](http://www.ruanyifeng.com/blog/2022/01/weekly-issue-192.html) 
 - [【阮一峰的网络日志】2022-01-07-科技爱好者周刊（第-191-期）：一个程序员的财务独立之路](http://www.ruanyifeng.com/blog/2022/01/weekly-issue-191.html) 
+- [【V2EX】2022-01-23-一个支持全局代理的软件除了使用-tun/tap（虚拟网卡技术）以外还有没有别的技术可以用啊？](https://www.v2ex.com/t/830151) 
+- [【V2EX】2022-01-23-吐槽-有没有人觉得-Chrome-自带的翻译越来越难用了](https://www.v2ex.com/t/830150) 
+- [【V2EX】2022-01-23-mybatisplus-如何动态创建-mapper-接口。](https://www.v2ex.com/t/830149) 
 - [【V2EX】2022-01-23-求助：-mbp-连接-dell-p2415q-突然连不了](https://www.v2ex.com/t/830146) 
 - [【V2EX】2022-01-23-坐标曼谷｜-Linux-运维工程师｜-25-50KRMB｜-8-小时双休｜游戏研发公司](https://www.v2ex.com/t/830143) 
 - [【V2EX】2022-01-23-不知道大家对-2022-的股市有什么预期?](https://www.v2ex.com/t/830142) 
@@ -248,8 +251,6 @@
 - [【V2EX】2022-01-23-苹果竟早已加入面向字符串编程全家桶](https://www.v2ex.com/t/830104) 
 - [【V2EX】2022-01-23-gdb-dump-nemory](https://www.v2ex.com/t/830103) 
 - [【V2EX】2022-01-23-DigitalOcean-东京和-Linode-东京之间路由怎么样，不会故意互相丢包吧](https://www.v2ex.com/t/830102) 
-- [【V2EX】2022-01-23-vscode-开发-go，-import-本地包的时候能智能提示（自动补全）嘛](https://www.v2ex.com/t/830101) 
-- [【V2EX】2022-01-23-Apple-美国官网下单了-Pro-Apps-Bundle-for-Education，被重复扣费了，-V-友帮忙看一下呀](https://www.v2ex.com/t/830099) 
 - [【技术头条】2022-01-23-微服务坏味道之循环依赖-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14907&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fmicroservices-bad-smell-circular-dependency%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-01-23-高效编写测试用例的技巧-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14906&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fwrite-effective-testcases-tips%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-01-23-软件工程师应该如何吵架？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14905&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fsoftware-engineer-quarrel-culture%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -280,18 +281,18 @@
 - [【开发者头条】2022-01-23-玩转-Spring-Boot-入门篇](https://toutiao.io/k/kflz2wm) 
 - [【开发者头条】2022-01-23-使用-T5-探索迁移学习：文本到文本迁移转换器](https://toutiao.io/k/g0muey0) 
 - [【开发者头条】2022-01-23-对微信感染病毒的分析](https://toutiao.io/k/00q46nc) 
-- [【开发者头条】2022-01-23-推荐-浅谈缓存最终一致性的解决方案](https://toutiao.io/k/mgym1lv) 
-- [【开发者头条】2022-01-23-推荐-用规则引擎让你一天上线十个需求](https://toutiao.io/k/ldd1cse) 
+- [【开发者头条】2022-01-23-推荐-从零开始搭建公司微服务授权架构技术栈（3种模式），这架构稳的一批...](https://toutiao.io/k/4g58j8v) 
+- [【开发者头条】2022-01-23-推荐-从零打造-Instagram](https://toutiao.io/k/hufqvji) 
 - [【开发者头条】2022-01-23-推荐-服务探活的五种方式](https://toutiao.io/k/1wuwmui) 
+- [【开发者头条】2022-01-23-推荐-用规则引擎让你一天上线十个需求](https://toutiao.io/k/ldd1cse) 
 - [【开发者头条】2022-01-23-推荐-据说看完这篇-JVM-要一小时](https://toutiao.io/k/1dauixx) 
+- [【开发者头条】2022-01-23-推荐-优雅整洁的-Java-代码命名技巧，风之极·净化](https://toutiao.io/k/abc8vou) 
+- [【开发者头条】2022-01-23-推荐-关于代码质量退化的思考](https://toutiao.io/k/zzaz6vu) 
+- [【开发者头条】2022-01-23-推荐-浅谈缓存最终一致性的解决方案](https://toutiao.io/k/mgym1lv) 
+- [【开发者头条】2022-01-23-推荐-从MVC到DDD的架构演进](https://toutiao.io/k/c7mn7hz) 
 - [【开发者头条】2022-01-23-推荐-面渣逆袭：Java并发六十问，图文详解，快来看看你会多少道！](https://toutiao.io/k/4ndh1gd) 
 - [【开发者头条】2022-01-23-推荐-3万字-|-34-图-|-Netty-|-内核角度看IO模型](https://toutiao.io/k/zavpca4) 
-- [【开发者头条】2022-01-23-推荐-从MVC到DDD的架构演进](https://toutiao.io/k/c7mn7hz) 
-- [【开发者头条】2022-01-23-推荐-关于代码质量退化的思考](https://toutiao.io/k/zzaz6vu) 
-- [【开发者头条】2022-01-23-推荐-优雅整洁的-Java-代码命名技巧，风之极·净化](https://toutiao.io/k/abc8vou) 
 - [【开发者头条】2022-01-23-推荐-JVM调优的几种场景（建议收藏）](https://toutiao.io/k/0mfx2nd) 
-- [【开发者头条】2022-01-23-推荐-从零打造-Instagram](https://toutiao.io/k/hufqvji) 
-- [【开发者头条】2022-01-23-推荐-从零开始搭建公司微服务授权架构技术栈（3种模式），这架构稳的一批...](https://toutiao.io/k/4g58j8v) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

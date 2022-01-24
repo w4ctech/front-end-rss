@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2022-01-24 03:56:05。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-01-24 04:15:12。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-01-24-问问大家-m1-mac-mini-8+512-的，韩国官翻版大概-5200-人民币，现在还值得买吗？](https://www.v2ex.com/t/830240) 
 - [2022-01-24-阿里小号打自己脸，-2-月-18-日前暂时回归-20-一年了](https://www.v2ex.com/t/830239) 
 - [2022-01-24-做公钥验签的功能，服务用-docker-打包，然后-mac-电脑上访问验证通过，在-Linux-上访问出现-Bad-signature](https://www.v2ex.com/t/830238) 
 - [2022-01-24-nginx-多个-url-重写](https://www.v2ex.com/t/830235) 
@@ -24,7 +25,6 @@
 - [2022-01-24-macbookpro2017-除了去苹果店还有什么靠谱换电池方法么](https://www.v2ex.com/t/830218) 
 - [2022-01-24-有-django-的兄弟吗？](https://www.v2ex.com/t/830216) 
 - [2022-01-24-mac-mini-m1-遇到的两个历史未解决-bug，输入法失去焦点，跑左下角和显示器闪屏问题。](https://www.v2ex.com/t/830215) 
-- [2022-01-24-上周摸鱼，今天放假，明天回家，年后十一上班](https://www.v2ex.com/t/830214) 
 - [2022-01-24-minecraft-m1-Java-版本如何搞](https://www.v2ex.com/t/830213) 
 - [2022-01-24-一键生成你的-Twitter-NFT-头像「Fake」](https://www.v2ex.com/t/830212) 
 - [2022-01-24-不懂就问，普通高刷屏如何实现快门-3D-显示](https://www.v2ex.com/t/830211) 
@@ -43,4 +43,3 @@
 - [2022-01-24-安卓系统的人脸解锁数据是保存在本地的吗？](https://www.v2ex.com/t/830195) 
 - [2022-01-24-求推荐奶飞好剧](https://www.v2ex.com/t/830193) 
 - [2022-01-24-节点名称应该改成-Starcoin](https://www.v2ex.com/t/830192) 
-- [2022-01-24-在职找工作大伙们都是怎么请假的？？](https://www.v2ex.com/t/830191) 

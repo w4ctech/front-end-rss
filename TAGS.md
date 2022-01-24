@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-01-24 02:13:47。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-01-24 02:35:58。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -279,9 +279,8 @@
 - [【武汉肺炎防疫全纪录(财新网)】腺病毒新冠疫苗引安全忧虑-康希诺称未发现血栓病例](https://m.caixin.com/m/2021-04-14/101691086.html)
 - [【武汉肺炎防疫全纪录(财新网)】解药|新冠mRNA疫苗安全性有哪些挑战？](https://m.caixin.com/m/2021-01-08/101648043.html)
 - [【武汉肺炎防疫全纪录(财新网)】大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html)
+- [【V2EX】有没有人觉得-http-缓存设计的很不合理？](https://www.v2ex.com/t/830203)
 - [【V2EX】哪位知道-Tesla-车机浏览器的-UA-是啥？](https://www.v2ex.com/t/830178)
-- [【V2EX】Chrome-有没有修改替换打开链接的方法](https://www.v2ex.com/t/830156)
-- [【V2EX】吐槽-有没有人觉得-Chrome-自带的翻译越来越难用了](https://www.v2ex.com/t/830150)
 - [【技术头条】API面试四连杀：接口如何设计？安全如何保证？签名如何实现？防重如何实现？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14901&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493135%26amp%3Bidx%3D2%26amp%3Bsn%3D4569a4965be1a6e8b85369edd7fc91dc%26amp%3Bchksm%3Dfa3f0754cd488e427c9670d6aa67e0693725ee332f26e011767ba85562bd6bb08a65cc8aaaba%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【技术头条】一文读懂浏览器存储与缓存机制-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=14896&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F422666602%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【开发者头条】技术干货｜缓存一致性最佳实践](https://toutiao.io/k/zgmi04u)
@@ -411,7 +410,8 @@
 
 
 
-- [【武汉肺炎防疫全纪录(财新网)】最新疫情：全国新冠累计确诊105603例-累计接种新冠疫苗超29.64亿剂次](https://m.caixin.com/m/2022-01-23/101833861.html)
+- [【武汉肺炎防疫全纪录(财新网)】1月23日全国新增新冠57例-八省份本土18例](https://m.caixin.com/m/2022-01-24/101833942.html)
+- [【武汉肺炎防疫全纪录(财新网)】【图集】西安高风险地区清零-有序恢复正常生产生活秩序](https://photos.caixin.com/m/2022-01-24/101833947.html)
 - [【武汉肺炎防疫全纪录(财新网)】北京疫情两条传播链累计感染43人，丰台区全员测核酸](https://m.caixin.com/m/2022-01-23/101833850.html)
 - [【武汉肺炎防疫全纪录(财新网)】最新海外疫情：新冠感染超3.48亿-累计接种新冠疫苗超98.2亿剂次](https://m.caixin.com/m/2022-01-23/101833857.html)
 - [【武汉肺炎防疫全纪录(财新网)】【境内疫情观察】全国新增19例本土病例（1月22日）](https://database.caixin.com/m/2022-01-23/101833869.html)
@@ -430,7 +430,6 @@
 - [【武汉肺炎防疫全纪录(财新网)】英格兰取消新冠限制-美国将分发4亿免费N95口罩｜大流行手记（1月19日）](https://m.caixin.com/m/2022-01-20/101832499.html)
 - [【武汉肺炎防疫全纪录(财新网)】中国药企获准仿制全球首款口服抗新冠病毒药-均只能出口](https://m.caixin.com/m/2022-01-20/101832904.html)
 - [【武汉肺炎防疫全纪录(财新网)】港大研发新冠DNA疫苗-可快速调整应对变种病毒](https://m.caixin.com/m/2022-01-20/101832588.html)
-- [【武汉肺炎防疫全纪录(财新网)】中国药企获准仿制全球首款口服抗新冠病毒药-均只能出口](https://m.caixin.com/m/2022-01-20/101832904.html)
 - [......【查看更多】......](./details/tags/other.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

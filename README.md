@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-24 02:13:47，:rocket: 更新条数: +1803， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-24 02:35:58，:rocket: 更新条数: +1807， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -65,7 +65,8 @@
 </summary>
 
 
-- [2022-01-23-最新疫情：全国新冠累计确诊105603例-累计接种新冠疫苗超29.64亿剂次](https://m.caixin.com/m/2022-01-23/101833861.html) ![](assets/new.png)  
+- [2022-01-24-1月23日全国新增新冠57例-八省份本土18例](https://m.caixin.com/m/2022-01-24/101833942.html) ![](assets/new.png)  
+- [2022-01-24-【图集】西安高风险地区清零-有序恢复正常生产生活秩序](https://photos.caixin.com/m/2022-01-24/101833947.html) ![](assets/new.png)  
 - [2022-01-23-北京疫情两条传播链累计感染43人，丰台区全员测核酸](https://m.caixin.com/m/2022-01-23/101833850.html) ![](assets/new.png)  
 - [2022-01-23-最新海外疫情：新冠感染超3.48亿-累计接种新冠疫苗超98.2亿剂次](https://m.caixin.com/m/2022-01-23/101833857.html) ![](assets/new.png)  
 - [2022-01-23-【境内疫情观察】全国新增19例本土病例（1月22日）](https://database.caixin.com/m/2022-01-23/101833869.html) ![](assets/new.png)  
@@ -84,7 +85,6 @@
 - [2022-01-20-英格兰取消新冠限制-美国将分发4亿免费N95口罩｜大流行手记（1月19日）](https://m.caixin.com/m/2022-01-20/101832499.html) ![](assets/new.png)  
 - [2022-01-20-中国药企获准仿制全球首款口服抗新冠病毒药-均只能出口](https://m.caixin.com/m/2022-01-20/101832904.html) ![](assets/new.png)  
 - [2022-01-20-港大研发新冠DNA疫苗-可快速调整应对变种病毒](https://m.caixin.com/m/2022-01-20/101832588.html) ![](assets/new.png)  
-- [2022-01-20-中国药企获准仿制全球首款口服抗新冠病毒药-均只能出口](https://m.caixin.com/m/2022-01-20/101832904.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -494,6 +494,15 @@
 </summary>
 
 
+- [2022-01-24-过年回家，想送点什么给爸妈](https://www.v2ex.com/t/830207) ![](assets/new.png)  
+- [2022-01-24-求推荐显示器支架](https://www.v2ex.com/t/830206) ![](assets/new.png)  
+- [2022-01-24-Cardano-的每个时期名称都很有意思](https://www.v2ex.com/t/830205) ![](assets/new.png)  
+- [2022-01-24-观看最新的韩剧或韩国综艺](https://www.v2ex.com/t/830204) ![](assets/new.png)  
+- [2022-01-24-有没有人觉得-http-缓存设计的很不合理？](https://www.v2ex.com/t/830203) ![](assets/new.png)  
+- [2022-01-24-wsa-有办法使用-ipv6-吗？](https://www.v2ex.com/t/830202) ![](assets/new.png)  
+- [2022-01-24-兄弟们，脱坑了，年后打算去乐刻做健身教练。](https://www.v2ex.com/t/830201) ![](assets/new.png)  
+- [2022-01-24-一个同事，平时干一点事就要到处广播一下](https://www.v2ex.com/t/830199) ![](assets/new.png)  
+- [2022-01-24-Leetcode-周赛我也能写完三道题了](https://www.v2ex.com/t/830198) ![](assets/new.png)  
 - [2022-01-24-谷歌的广告真的透明，谁购买了一清二楚](https://www.v2ex.com/t/830196) ![](assets/new.png)  
 - [2022-01-24-安卓系统的人脸解锁数据是保存在本地的吗？](https://www.v2ex.com/t/830195) ![](assets/new.png)  
 - [2022-01-24-求推荐奶飞好剧](https://www.v2ex.com/t/830193) ![](assets/new.png)  
@@ -505,15 +514,6 @@
 - [2022-01-24-2022-年-1-月，-windows-轻薄商务本中最能打的是不是就是-matebook-了](https://www.v2ex.com/t/830186) ![](assets/new.png)  
 - [2022-01-24-你们遇到过的觉得比较烂的-react-代码大概长什么样？](https://www.v2ex.com/t/830183) ![](assets/new.png)  
 - [2022-01-24-5-Levels:-用不同难度的语言解释一个概念](https://www.v2ex.com/t/830182) ![](assets/new.png)  
-- [2022-01-24-高层,-不封阳台,-可以养猫猫么?](https://www.v2ex.com/t/830181) ![](assets/new.png)  
-- [2022-01-24-iPad-性能問題，請教一下](https://www.v2ex.com/t/830180) ![](assets/new.png)  
-- [2022-01-24-xdm-帮忙推荐个笔记本](https://www.v2ex.com/t/830179) ![](assets/new.png)  
-- [2022-01-24-哪位知道-Tesla-车机浏览器的-UA-是啥？](https://www.v2ex.com/t/830178) ![](assets/new.png)  
-- [2022-01-24-有用-IDEA-兼写-PHP-的嘛](https://www.v2ex.com/t/830177) ![](assets/new.png)  
-- [2022-01-24-分享个-clash_for_windows-一键更新工具](https://www.v2ex.com/t/830173) ![](assets/new.png)  
-- [2022-01-24-分享一个-Mac-下的截图工具-Shottr](https://www.v2ex.com/t/830172) ![](assets/new.png)  
-- [2022-01-24-海鲜市场买的群晖便宜很多，是否真的靠普？](https://www.v2ex.com/t/830171) ![](assets/new.png)  
-- [2022-01-23-咸鱼交易盒马礼品卡遭遇欺诈](https://www.v2ex.com/t/830169) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -560,22 +560,22 @@
 - [2022-01-24-工商银行实时大数据平台建设历程及展望](https://toutiao.io/k/mf1lxng) ![](assets/new.png)  
 - [2022-01-24-面试官问:-说一说ReentrantReadWriteLock的实现原理与锁获取过程](https://toutiao.io/k/001uotl) ![](assets/new.png)  
 - [2022-01-24-Maven-Archetype-多-Module-自定义代码脚手架](https://toutiao.io/k/7f3yjyf) ![](assets/new.png)  
-- [2022-01-24-35岁程序员，同样的阿里梦](https://toutiao.io/k/hjn8rpb) ![](assets/new.png)  
 - [2022-01-24-盘点Linux-Epoll那些致命弱点](https://toutiao.io/k/pslbv0b) ![](assets/new.png)  
+- [2022-01-24-35岁程序员，同样的阿里梦](https://toutiao.io/k/hjn8rpb) ![](assets/new.png)  
 - [2022-01-24-技术干货｜缓存一致性最佳实践](https://toutiao.io/k/zgmi04u) ![](assets/new.png)  
 - [2022-01-24-《Julia编程基础》全集「建议收藏」](https://toutiao.io/k/44g55bu) ![](assets/new.png)  
 - [2022-01-24-手写简易前端框架：vdom-渲染和-jsx-编译](https://toutiao.io/k/i0d9tvh) ![](assets/new.png)  
-- [2022-01-24-SpringBoot实现登录拦截器（实战版）](https://toutiao.io/k/sjz728o) ![](assets/new.png)  
 - [2022-01-24-ClickHouse在趣头条中的实战PPT](https://toutiao.io/k/th8txp3) ![](assets/new.png)  
+- [2022-01-24-SpringBoot实现登录拦截器（实战版）](https://toutiao.io/k/sjz728o) ![](assets/new.png)  
 - [2022-01-24-分享-2-个-Go1.18-新特性的官方教程](https://toutiao.io/k/w7ylx5z) ![](assets/new.png)  
 - [2022-01-24-Spring-Boot-+-MySQL-快速搭建管理系统，不能太容易了！](https://toutiao.io/k/xfj85kd) ![](assets/new.png)  
 - [2022-01-24-Ambari2.7安装配置](https://toutiao.io/k/2zvn0wv) ![](assets/new.png)  
 - [2022-01-24-【译】现代Web应用应该是Bundless的](https://toutiao.io/k/iugpc2i) ![](assets/new.png)  
-- [2022-01-24-推荐-优雅整洁的-Java-代码命名技巧，风之极·净化](https://toutiao.io/k/abc8vou) ![](assets/new.png)  
-- [2022-01-24-推荐-3万字-|-34-图-|-Netty-|-内核角度看IO模型](https://toutiao.io/k/zavpca4) ![](assets/new.png)  
-- [2022-01-24-推荐-从MVC到DDD的架构演进](https://toutiao.io/k/c7mn7hz) ![](assets/new.png)  
-- [2022-01-24-推荐-据说看完这篇-JVM-要一小时](https://toutiao.io/k/1dauixx) ![](assets/new.png)  
+- [2022-01-24-推荐-关于代码质量退化的思考](https://toutiao.io/k/zzaz6vu) ![](assets/new.png)  
 - [2022-01-24-推荐-用规则引擎让你一天上线十个需求](https://toutiao.io/k/ldd1cse) ![](assets/new.png)  
+- [2022-01-24-推荐-据说看完这篇-JVM-要一小时](https://toutiao.io/k/1dauixx) ![](assets/new.png)  
+- [2022-01-24-推荐-从MVC到DDD的架构演进](https://toutiao.io/k/c7mn7hz) ![](assets/new.png)  
+- [2022-01-24-推荐-服务探活的五种方式](https://toutiao.io/k/1wuwmui) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

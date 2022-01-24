@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-24 21:30:29，:rocket: 更新条数: +1814， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-24 21:36:58，:rocket: 更新条数: +1814， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -573,9 +573,9 @@
 - [2022-01-24-Go1.18-新特性：编译后的二进制文件，将包含更多信息](https://toutiao.io/k/7vob07k) ![](assets/new.png)  
 - [2022-01-24-数据与广告系列三十一：智能调价oCPX，你以为赚的是保价，其实你丢的是流量](https://toutiao.io/k/5shtr8x) ![](assets/new.png)  
 - [2022-01-24-开发进阶：Dotnet-Core多路径异步终止](https://toutiao.io/k/k7m8122) ![](assets/new.png)  
-- [2022-01-24-推荐-优雅整洁的-Java-代码命名技巧，风之极·净化](https://toutiao.io/k/abc8vou) ![](assets/new.png)  
-- [2022-01-24-推荐-从零开始搭建公司微服务授权架构技术栈（3种模式），这架构稳的一批...](https://toutiao.io/k/4g58j8v) ![](assets/new.png)  
-- [2022-01-24-推荐-关于代码质量退化的思考](https://toutiao.io/k/zzaz6vu) ![](assets/new.png)  
+- [2022-01-24-推荐-从MVC到DDD的架构演进](https://toutiao.io/k/c7mn7hz) ![](assets/new.png)  
+- [2022-01-24-推荐-JVM调优的几种场景（建议收藏）](https://toutiao.io/k/0mfx2nd) ![](assets/new.png)  
+- [2022-01-24-推荐-服务探活的五种方式](https://toutiao.io/k/1wuwmui) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-24 16:17:10，:rocket: 更新条数: +1785， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-24 16:31:59，:rocket: 更新条数: +1813， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -53,7 +53,7 @@
 - [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)![](assets/dot.png)   
-- [开发者头条](#开发者头条)  
+- [开发者头条](#开发者头条)![](assets/dot.png)   
 - [安全热点](#安全热点)  
 - [物联网智库](#物联网智库)  
 
@@ -556,6 +556,26 @@
 </summary>
 
 
+- [2022-01-24-Java无垃圾稳态设计](https://toutiao.io/k/ly1kfiv) ![](assets/new.png)  
+- [2022-01-24-面试官问:-说一说ReentrantReadWriteLock的实现原理与锁获取过程](https://toutiao.io/k/001uotl) ![](assets/new.png)  
+- [2022-01-24-技术干货｜缓存一致性最佳实践](https://toutiao.io/k/zgmi04u) ![](assets/new.png)  
+- [2022-01-24-工商银行实时大数据平台建设历程及展望](https://toutiao.io/k/mf1lxng) ![](assets/new.png)  
+- [2022-01-24-盘点Linux-Epoll那些致命弱点](https://toutiao.io/k/pslbv0b) ![](assets/new.png)  
+- [2022-01-24-35岁程序员，同样的阿里梦](https://toutiao.io/k/hjn8rpb) ![](assets/new.png)  
+- [2022-01-24-嗨，我想和你分享一下千万级支付对账系统是怎么设计的。](https://toutiao.io/k/44s6x73) ![](assets/new.png)  
+- [2022-01-24-《Julia编程基础》全集「建议收藏」](https://toutiao.io/k/44g55bu) ![](assets/new.png)  
+- [2022-01-24-手写简易前端框架：vdom-渲染和-jsx-编译](https://toutiao.io/k/i0d9tvh) ![](assets/new.png)  
+- [2022-01-24-【译】现代Web应用应该是Bundless的](https://toutiao.io/k/iugpc2i) ![](assets/new.png)  
+- [2022-01-24-分享-2-个-Go1.18-新特性的官方教程](https://toutiao.io/k/w7ylx5z) ![](assets/new.png)  
+- [2022-01-24-Ambari2.7安装配置](https://toutiao.io/k/2zvn0wv) ![](assets/new.png)  
+- [2022-01-24-面渣逆袭：Java基础五十三问，快来看看有没有你不会的！](https://toutiao.io/k/hy8slfh) ![](assets/new.png)  
+- [2022-01-24-Go1.18-新特性：编译后的二进制文件，将包含更多信息](https://toutiao.io/k/7vob07k) ![](assets/new.png)  
+- [2022-01-24-浅谈我的几点学习经验](https://toutiao.io/k/1cvtmkk) ![](assets/new.png)  
+- [2022-01-24-开发进阶：Dotnet-Core多路径异步终止](https://toutiao.io/k/k7m8122) ![](assets/new.png)  
+- [2022-01-24-数据与广告系列三十一：智能调价oCPX，你以为赚的是保价，其实你丢的是流量](https://toutiao.io/k/5shtr8x) ![](assets/new.png)  
+- [2022-01-24-推荐-浅谈缓存最终一致性的解决方案](https://toutiao.io/k/mgym1lv) ![](assets/new.png)  
+- [2022-01-24-推荐-优雅整洁的-Java-代码命名技巧，风之极·净化](https://toutiao.io/k/abc8vou) ![](assets/new.png)  
+- [2022-01-24-推荐-据说看完这篇-JVM-要一小时](https://toutiao.io/k/1dauixx) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

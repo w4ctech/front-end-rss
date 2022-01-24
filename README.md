@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-24 22:41:14，:rocket: 更新条数: +1814， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-24 22:54:47，:rocket: 更新条数: +1814， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,7 @@
 </summary>
 
 
+- [2022-01-24-并非人人都需要一个-Yubikey](https://www.v2ex.com/t/830384) ![](assets/new.png)  
 - [2022-01-24-搭建了个节点，能-ping-通，能访问节点的服务器上的伪装网站，但是使用不了节点](https://www.v2ex.com/t/830383) ![](assets/new.png)  
 - [2022-01-24-群晖-DS916+-一边显示硬盘状态良好，一边邮件报-I/O-错误，相信谁？](https://www.v2ex.com/t/830382) ![](assets/new.png)  
 - [2022-01-24-如果使用函数计算-FC-或者-Serverless-服务，怎样储存临时数据？](https://www.v2ex.com/t/830381) ![](assets/new.png)  
@@ -513,7 +514,6 @@
 - [2022-01-24-被-VSCode-的-Terminal-背景色搞崩溃了](https://www.v2ex.com/t/830362) ![](assets/new.png)  
 - [2022-01-24-在-V-站搜发现个-hexo-博客主题，问下有没有类似的-hugo-主题](https://www.v2ex.com/t/830360) ![](assets/new.png)  
 - [2022-01-24-用无人机给自己带快递是否可行？](https://www.v2ex.com/t/830359) ![](assets/new.png)  
-- [2022-01-24-分享一个游戏本出街方案](https://www.v2ex.com/t/830358) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -574,8 +574,8 @@
 - [2022-01-24-Go1.18-新特性：编译后的二进制文件，将包含更多信息](https://toutiao.io/k/7vob07k) ![](assets/new.png)  
 - [2022-01-24-开发进阶：Dotnet-Core多路径异步终止](https://toutiao.io/k/k7m8122) ![](assets/new.png)  
 - [2022-01-24-推荐-面试官问：设计高并发系统的时候，数据库层面该如何设计？](https://toutiao.io/k/p935kqr) ![](assets/new.png)  
-- [2022-01-24-推荐-服务探活的五种方式](https://toutiao.io/k/1wuwmui) ![](assets/new.png)  
 - [2022-01-24-推荐-浅谈缓存最终一致性的解决方案](https://toutiao.io/k/mgym1lv) ![](assets/new.png)  
+- [2022-01-24-推荐-从MVC到DDD的架构演进](https://toutiao.io/k/c7mn7hz) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

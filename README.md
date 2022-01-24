@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-24 06:17:40，:rocket: 更新条数: +1806， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-24 06:28:11，:rocket: 更新条数: +1806， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,8 @@
 </summary>
 
 
+- [2022-01-24-阿里小号没号码了](https://www.v2ex.com/t/830266) ![](assets/new.png)  
+- [2022-01-24-终于解决了-mac-mini-388-休眠-usb-键盘失灵（鼠标正常）的问题](https://www.v2ex.com/t/830265) ![](assets/new.png)  
 - [2022-01-24-有个防疫不加码的家乡真好！](https://www.v2ex.com/t/830264) ![](assets/new.png)  
 - [2022-01-24-上海字节跳动，组内招聘服务端开发工程师/架构师](https://www.v2ex.com/t/830263) ![](assets/new.png)  
 - [2022-01-24-威联通的-HBS3-终于支持备份/同步到百度网盘和腾讯云了](https://www.v2ex.com/t/830262) ![](assets/new.png)  
@@ -512,8 +514,6 @@
 - [2022-01-24-问一下音乐播放中的“随机播放”逻辑](https://www.v2ex.com/t/830242) ![](assets/new.png)  
 - [2022-01-24-问问大家-m1-mac-mini-8+512-的，韩国官翻版大概-5200-人民币，现在还值得买吗？](https://www.v2ex.com/t/830240) ![](assets/new.png)  
 - [2022-01-24-阿里小号打自己脸，-2-月-18-日前暂时回归-20-一年了](https://www.v2ex.com/t/830239) ![](assets/new.png)  
-- [2022-01-24-做公钥验签的功能，服务用-docker-打包，然后-mac-电脑上访问验证通过，在-Linux-上访问出现-Bad-signature](https://www.v2ex.com/t/830238) ![](assets/new.png)  
-- [2022-01-24-nginx-多个-url-重写](https://www.v2ex.com/t/830235) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -570,12 +570,12 @@
 - [2022-01-24-嗨，我想和你分享一下千万级支付对账系统是怎么设计的。](https://toutiao.io/k/44s6x73) ![](assets/new.png)  
 - [2022-01-24-面渣逆袭：Java基础五十三问，快来看看有没有你不会的！](https://toutiao.io/k/hy8slfh) ![](assets/new.png)  
 - [2022-01-24-数据与广告系列三十一：智能调价oCPX，你以为赚的是保价，其实你丢的是流量](https://toutiao.io/k/5shtr8x) ![](assets/new.png)  
-- [2022-01-24-开发进阶：Dotnet-Core多路径异步终止](https://toutiao.io/k/k7m8122) ![](assets/new.png)  
 - [2022-01-24-浅谈我的几点学习经验](https://toutiao.io/k/1cvtmkk) ![](assets/new.png)  
+- [2022-01-24-开发进阶：Dotnet-Core多路径异步终止](https://toutiao.io/k/k7m8122) ![](assets/new.png)  
 - [2022-01-24-Go1.18-新特性：编译后的二进制文件，将包含更多信息](https://toutiao.io/k/7vob07k) ![](assets/new.png)  
-- [2022-01-24-推荐-JVM调优的几种场景（建议收藏）](https://toutiao.io/k/0mfx2nd) ![](assets/new.png)  
-- [2022-01-24-推荐-服务探活的五种方式](https://toutiao.io/k/1wuwmui) ![](assets/new.png)  
-- [2022-01-24-推荐-从MVC到DDD的架构演进](https://toutiao.io/k/c7mn7hz) ![](assets/new.png)  
+- [2022-01-24-推荐-用规则引擎让你一天上线十个需求](https://toutiao.io/k/ldd1cse) ![](assets/new.png)  
+- [2022-01-24-推荐-浅谈缓存最终一致性的解决方案](https://toutiao.io/k/mgym1lv) ![](assets/new.png)  
+- [2022-01-24-推荐-优雅整洁的-Java-代码命名技巧，风之极·净化](https://toutiao.io/k/abc8vou) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

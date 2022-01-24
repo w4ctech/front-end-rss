@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-24 16:31:59，:rocket: 更新条数: +1813， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-24 16:57:52，:rocket: 更新条数: +1813， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,7 @@
 </summary>
 
 
+- [2022-01-24-如果使用函数计算-FC-或者-Serverless-服务，怎样储存临时数据？](https://www.v2ex.com/t/830381) ![](assets/new.png)  
 - [2022-01-24-一年了，重回社区看看，发篇想法寻求认可](https://www.v2ex.com/t/830378) ![](assets/new.png)  
 - [2022-01-24-为数据库组件铺路，超好用的-go-集合（collection）库来了，有彩蛋](https://www.v2ex.com/t/830377) ![](assets/new.png)  
 - [2022-01-24-Pixel5-升级安卓-12-后电话-bug](https://www.v2ex.com/t/830376) ![](assets/new.png)  
@@ -513,7 +514,6 @@
 - [2022-01-24-分享一个游戏本出街方案](https://www.v2ex.com/t/830358) ![](assets/new.png)  
 - [2022-01-24-大家-Apple-Music-订阅外区时，还能用-Siri-来加入资料库吗？](https://www.v2ex.com/t/830356) ![](assets/new.png)  
 - [2022-01-24-iPad-现在还有办法临时切换商店么？](https://www.v2ex.com/t/830355) ![](assets/new.png)  
-- [2022-01-24-FireFox-在-mac-上奇怪的标题栏去不掉](https://www.v2ex.com/t/830354) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -573,9 +573,9 @@
 - [2022-01-24-浅谈我的几点学习经验](https://toutiao.io/k/1cvtmkk) ![](assets/new.png)  
 - [2022-01-24-开发进阶：Dotnet-Core多路径异步终止](https://toutiao.io/k/k7m8122) ![](assets/new.png)  
 - [2022-01-24-数据与广告系列三十一：智能调价oCPX，你以为赚的是保价，其实你丢的是流量](https://toutiao.io/k/5shtr8x) ![](assets/new.png)  
+- [2022-01-24-推荐-从零开始搭建公司微服务授权架构技术栈（3种模式），这架构稳的一批...](https://toutiao.io/k/4g58j8v) ![](assets/new.png)  
+- [2022-01-24-推荐-3万字-|-34-图-|-Netty-|-内核角度看IO模型](https://toutiao.io/k/zavpca4) ![](assets/new.png)  
 - [2022-01-24-推荐-浅谈缓存最终一致性的解决方案](https://toutiao.io/k/mgym1lv) ![](assets/new.png)  
-- [2022-01-24-推荐-优雅整洁的-Java-代码命名技巧，风之极·净化](https://toutiao.io/k/abc8vou) ![](assets/new.png)  
-- [2022-01-24-推荐-据说看完这篇-JVM-要一小时](https://toutiao.io/k/1dauixx) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-24 15:21:50，:rocket: 更新条数: +1815， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-24 15:41:27，:rocket: 更新条数: +1815， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,7 @@
 </summary>
 
 
+- [2022-01-24-为数据库组件铺路，超好用的-go-集合（collection）库来了，有彩蛋](https://www.v2ex.com/t/830377) ![](assets/new.png)  
 - [2022-01-24-Pixel5-升级安卓-12-后电话-bug](https://www.v2ex.com/t/830376) ![](assets/new.png)  
 - [2022-01-24-真官方出品-微软电脑管家](https://www.v2ex.com/t/830375) ![](assets/new.png)  
 - [2022-01-24-Java-开发-mbp-和-mba-应该选那种比较好？](https://www.v2ex.com/t/830374) ![](assets/new.png)  
@@ -513,7 +514,6 @@
 - [2022-01-24-iPad-现在还有办法临时切换商店么？](https://www.v2ex.com/t/830355) ![](assets/new.png)  
 - [2022-01-24-FireFox-在-mac-上奇怪的标题栏去不掉](https://www.v2ex.com/t/830354) ![](assets/new.png)  
 - [2022-01-24-b-站新功能？-Chrome-wasm-软解播放-H265-视频和-AV1-视频？](https://www.v2ex.com/t/830353) ![](assets/new.png)  
-- [2022-01-24-如何同时操作十几台电脑？](https://www.v2ex.com/t/830352) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -569,13 +569,13 @@
 - [2022-01-24-分享-2-个-Go1.18-新特性的官方教程](https://toutiao.io/k/w7ylx5z) ![](assets/new.png)  
 - [2022-01-24-Ambari2.7安装配置](https://toutiao.io/k/2zvn0wv) ![](assets/new.png)  
 - [2022-01-24-面渣逆袭：Java基础五十三问，快来看看有没有你不会的！](https://toutiao.io/k/hy8slfh) ![](assets/new.png)  
-- [2022-01-24-浅谈我的几点学习经验](https://toutiao.io/k/1cvtmkk) ![](assets/new.png)  
 - [2022-01-24-Go1.18-新特性：编译后的二进制文件，将包含更多信息](https://toutiao.io/k/7vob07k) ![](assets/new.png)  
+- [2022-01-24-浅谈我的几点学习经验](https://toutiao.io/k/1cvtmkk) ![](assets/new.png)  
 - [2022-01-24-开发进阶：Dotnet-Core多路径异步终止](https://toutiao.io/k/k7m8122) ![](assets/new.png)  
 - [2022-01-24-数据与广告系列三十一：智能调价oCPX，你以为赚的是保价，其实你丢的是流量](https://toutiao.io/k/5shtr8x) ![](assets/new.png)  
-- [2022-01-24-推荐-优雅整洁的-Java-代码命名技巧，风之极·净化](https://toutiao.io/k/abc8vou) ![](assets/new.png)  
-- [2022-01-24-推荐-3万字-|-34-图-|-Netty-|-内核角度看IO模型](https://toutiao.io/k/zavpca4) ![](assets/new.png)  
 - [2022-01-24-推荐-从MVC到DDD的架构演进](https://toutiao.io/k/c7mn7hz) ![](assets/new.png)  
+- [2022-01-24-推荐-据说看完这篇-JVM-要一小时](https://toutiao.io/k/1dauixx) ![](assets/new.png)  
+- [2022-01-24-推荐-Redis-很屌，不懂使用规范就糟蹋了](https://toutiao.io/k/lpnakbk) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

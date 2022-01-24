@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-24 14:54:37，:rocket: 更新条数: +1816， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-24 15:12:43，:rocket: 更新条数: +1815， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,9 +494,10 @@
 </summary>
 
 
+- [2022-01-24-Pixel5-升级安卓-12-后电话-bug](https://www.v2ex.com/t/830376) ![](assets/new.png)  
+- [2022-01-24-真官方出品-微软电脑管家](https://www.v2ex.com/t/830375) ![](assets/new.png)  
 - [2022-01-24-Java-开发-mbp-和-mba-应该选那种比较好？](https://www.v2ex.com/t/830374) ![](assets/new.png)  
 - [2022-01-24-北京联通开了桥接之后，偶尔出现莫名其妙的卡顿](https://www.v2ex.com/t/830373) ![](assets/new.png)  
-- [2022-01-24-NSFW-内容创收，老哥们支支招](https://www.v2ex.com/t/830372) ![](assets/new.png)  
 - [2022-01-24-南京互联网公司情况统计，通过提-issue-的方式快速添加公司情况，-github-action-自动生成表格和-readme.md，避免找工作开盲盒](https://www.v2ex.com/t/830371) ![](assets/new.png)  
 - [2022-01-24-5-年沒調薪提前-30-天申請離職卻因-3-個字要賠公司-13-萬元](https://www.v2ex.com/t/830370) ![](assets/new.png)  
 - [2022-01-24-realme-gt-顶配-12+256-PDD-百亿补贴-1829-火龙-888-还热么](https://www.v2ex.com/t/830369) ![](assets/new.png)  
@@ -513,7 +514,6 @@
 - [2022-01-24-FireFox-在-mac-上奇怪的标题栏去不掉](https://www.v2ex.com/t/830354) ![](assets/new.png)  
 - [2022-01-24-b-站新功能？-Chrome-wasm-软解播放-H265-视频和-AV1-视频？](https://www.v2ex.com/t/830353) ![](assets/new.png)  
 - [2022-01-24-如何同时操作十几台电脑？](https://www.v2ex.com/t/830352) ![](assets/new.png)  
-- [2022-01-24-兄弟们你们平时怎么理财的呀](https://www.v2ex.com/t/830351) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -557,8 +557,8 @@
 
 
 - [2022-01-24-Java无垃圾稳态设计](https://toutiao.io/k/ly1kfiv) ![](assets/new.png)  
-- [2022-01-24-技术干货｜缓存一致性最佳实践](https://toutiao.io/k/zgmi04u) ![](assets/new.png)  
 - [2022-01-24-面试官问:-说一说ReentrantReadWriteLock的实现原理与锁获取过程](https://toutiao.io/k/001uotl) ![](assets/new.png)  
+- [2022-01-24-技术干货｜缓存一致性最佳实践](https://toutiao.io/k/zgmi04u) ![](assets/new.png)  
 - [2022-01-24-工商银行实时大数据平台建设历程及展望](https://toutiao.io/k/mf1lxng) ![](assets/new.png)  
 - [2022-01-24-盘点Linux-Epoll那些致命弱点](https://toutiao.io/k/pslbv0b) ![](assets/new.png)  
 - [2022-01-24-35岁程序员，同样的阿里梦](https://toutiao.io/k/hjn8rpb) ![](assets/new.png)  
@@ -573,9 +573,9 @@
 - [2022-01-24-Go1.18-新特性：编译后的二进制文件，将包含更多信息](https://toutiao.io/k/7vob07k) ![](assets/new.png)  
 - [2022-01-24-开发进阶：Dotnet-Core多路径异步终止](https://toutiao.io/k/k7m8122) ![](assets/new.png)  
 - [2022-01-24-数据与广告系列三十一：智能调价oCPX，你以为赚的是保价，其实你丢的是流量](https://toutiao.io/k/5shtr8x) ![](assets/new.png)  
-- [2022-01-24-推荐-服务探活的五种方式](https://toutiao.io/k/1wuwmui) ![](assets/new.png)  
+- [2022-01-24-推荐-从MVC到DDD的架构演进](https://toutiao.io/k/c7mn7hz) ![](assets/new.png)  
+- [2022-01-24-推荐-从零开始搭建公司微服务授权架构技术栈（3种模式），这架构稳的一批...](https://toutiao.io/k/4g58j8v) ![](assets/new.png)  
 - [2022-01-24-推荐-据说看完这篇-JVM-要一小时](https://toutiao.io/k/1dauixx) ![](assets/new.png)  
-- [2022-01-24-推荐-关于代码质量退化的思考](https://toutiao.io/k/zzaz6vu) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

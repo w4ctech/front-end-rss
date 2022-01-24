@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-01-24 10:55:11。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-01-24 11:11:18。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -7,5 +7,4 @@
 
 
 
-- [2022-01-24-面试完问的一些问题](https://www.v2ex.com/t/830290) 
 - [2022-01-24-面试官问:-说一说ReentrantReadWriteLock的实现原理与锁获取过程](https://toutiao.io/k/001uotl) 

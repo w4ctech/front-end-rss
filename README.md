@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-24 09:12:22，:rocket: 更新条数: +1809， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-24 09:20:48，:rocket: 更新条数: +1810， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,10 @@
 </summary>
 
 
+- [2022-01-24-有没有什么办法能够每天定时保存腾讯文档至本地](https://www.v2ex.com/t/830326) ![](assets/new.png)  
+- [2022-01-24-微信智能了？电脑同时登陆，外出后手机竟然自动开启通知](https://www.v2ex.com/t/830325) ![](assets/new.png)  
+- [2022-01-24-Safari-移除-Google-搜索的-redirect-连接](https://www.v2ex.com/t/830324) ![](assets/new.png)  
+- [2022-01-24-传统行业，-offer-对比](https://www.v2ex.com/t/830323) ![](assets/new.png)  
 - [2022-01-24-问下-V-站的电工师傅们](https://www.v2ex.com/t/830322) ![](assets/new.png)  
 - [2022-01-24-春节到了，送一波-Moon-FM-兑换码](https://www.v2ex.com/t/830321) ![](assets/new.png)  
 - [2022-01-24-我姓万，男孩子-20-号晚-23:46-出生，求各位起个名字，坐标成都](https://www.v2ex.com/t/830320) ![](assets/new.png)  
@@ -510,10 +514,6 @@
 - [2022-01-24-docker-安装-canal](https://www.v2ex.com/t/830305) ![](assets/new.png)  
 - [2022-01-24-主机管理工具-natpass-v0.8.2-版本发布，去除连接池，支持上万并发](https://www.v2ex.com/t/830303) ![](assets/new.png)  
 - [2022-01-24-mbp-用触摸板久了感觉手腕很痛](https://www.v2ex.com/t/830302) ![](assets/new.png)  
-- [2022-01-24-现在大家选择对象存储和-CDN-加速-一般选择哪家？七牛云这个注册免费送每月-10GB-存储空间+20GB-CDN-流量（含-10GB-https-流量）还有吸引力吗？](https://www.v2ex.com/t/830301) ![](assets/new.png)  
-- [2022-01-24-感谢大哥分享上千个免费的-api，工具小程序成功落地](https://www.v2ex.com/t/830300) ![](assets/new.png)  
-- [2022-01-24-求个微服务+框架的-github](https://www.v2ex.com/t/830299) ![](assets/new.png)  
-- [2022-01-24-对于阅读小说引起的亿点点问题](https://www.v2ex.com/t/830298) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -573,9 +573,9 @@
 - [2022-01-24-数据与广告系列三十一：智能调价oCPX，你以为赚的是保价，其实你丢的是流量](https://toutiao.io/k/5shtr8x) ![](assets/new.png)  
 - [2022-01-24-开发进阶：Dotnet-Core多路径异步终止](https://toutiao.io/k/k7m8122) ![](assets/new.png)  
 - [2022-01-24-Go1.18-新特性：编译后的二进制文件，将包含更多信息](https://toutiao.io/k/7vob07k) ![](assets/new.png)  
-- [2022-01-24-推荐-面渣逆袭：Java并发六十问，图文详解，快来看看你会多少道！](https://toutiao.io/k/4ndh1gd) ![](assets/new.png)  
-- [2022-01-24-推荐-服务探活的五种方式](https://toutiao.io/k/1wuwmui) ![](assets/new.png)  
-- [2022-01-24-推荐-从MVC到DDD的架构演进](https://toutiao.io/k/c7mn7hz) ![](assets/new.png)  
+- [2022-01-24-推荐-用规则引擎让你一天上线十个需求](https://toutiao.io/k/ldd1cse) ![](assets/new.png)  
+- [2022-01-24-推荐-优雅整洁的-Java-代码命名技巧，风之极·净化](https://toutiao.io/k/abc8vou) ![](assets/new.png)  
+- [2022-01-24-推荐-3万字-|-34-图-|-Netty-|-内核角度看IO模型](https://toutiao.io/k/zavpca4) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

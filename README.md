@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-24 10:43:01，:rocket: 更新条数: +1811， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-24 10:55:11，:rocket: 更新条数: +1812， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,9 @@
 </summary>
 
 
+- [2022-01-24-英国留学-疫情下的期末考试](https://www.v2ex.com/t/830336) ![](assets/new.png)  
+- [2022-01-24-混了好几年的-GitHub，这个月提了两个-issue，并成功采纳一个，作者表示下个版本会改变。啊～终于在开源带来了一点点点影响了（虽然是小项目）（下巴仰起）](https://www.v2ex.com/t/830335) ![](assets/new.png)  
+- [2022-01-24-有没有在家带娃工作的](https://www.v2ex.com/t/830334) ![](assets/new.png)  
 - [2022-01-24-想整一个境外的手机卡](https://www.v2ex.com/t/830332) ![](assets/new.png)  
 - [2022-01-24-无法安装此应用程序,因为开发者未计划使其在此平台上运行。](https://www.v2ex.com/t/830331) ![](assets/new.png)  
 - [2022-01-24-ios-15.3-依旧没解决网络问题](https://www.v2ex.com/t/830330) ![](assets/new.png)  
@@ -511,9 +514,6 @@
 - [2022-01-24-VSCode-签出分支总是自动签出到旧版本，可能是什么原因造成的？](https://www.v2ex.com/t/830315) ![](assets/new.png)  
 - [2022-01-24-工作室有十几台电脑，怎么同时控制，同时装软件？](https://www.v2ex.com/t/830314) ![](assets/new.png)  
 - [2022-01-24-利用-GitHub-Actions-来实现-Docker-下载国外站点镜像](https://www.v2ex.com/t/830312) ![](assets/new.png)  
-- [2022-01-24-把-tg-表情添加到微信](https://www.v2ex.com/t/830311) ![](assets/new.png)  
-- [2022-01-24-求-Switch-游戏推荐](https://www.v2ex.com/t/830310) ![](assets/new.png)  
-- [2022-01-24-关于-ipv6,广州电信施工师傅这样说。](https://www.v2ex.com/t/830309) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -573,9 +573,9 @@
 - [2022-01-24-开发进阶：Dotnet-Core多路径异步终止](https://toutiao.io/k/k7m8122) ![](assets/new.png)  
 - [2022-01-24-数据与广告系列三十一：智能调价oCPX，你以为赚的是保价，其实你丢的是流量](https://toutiao.io/k/5shtr8x) ![](assets/new.png)  
 - [2022-01-24-Go1.18-新特性：编译后的二进制文件，将包含更多信息](https://toutiao.io/k/7vob07k) ![](assets/new.png)  
-- [2022-01-24-推荐-优雅整洁的-Java-代码命名技巧，风之极·净化](https://toutiao.io/k/abc8vou) ![](assets/new.png)  
+- [2022-01-24-推荐-面渣逆袭：Java并发六十问，图文详解，快来看看你会多少道！](https://toutiao.io/k/4ndh1gd) ![](assets/new.png)  
+- [2022-01-24-推荐-服务探活的五种方式](https://toutiao.io/k/1wuwmui) ![](assets/new.png)  
 - [2022-01-24-推荐-从零开始搭建公司微服务授权架构技术栈（3种模式），这架构稳的一批...](https://toutiao.io/k/4g58j8v) ![](assets/new.png)  
-- [2022-01-24-推荐-关于代码质量退化的思考](https://toutiao.io/k/zzaz6vu) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

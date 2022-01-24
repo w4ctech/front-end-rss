@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-01-24 10:43:01。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-01-24 10:55:11。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -282,7 +282,6 @@
 - [【武汉肺炎防疫全纪录(财新网)】大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html)
 - [【V2EX】Safari-移除-Google-搜索的-redirect-连接](https://www.v2ex.com/t/830324)
 - [【V2EX】Safari-卸了几个插件，内存占用率有明显下降](https://www.v2ex.com/t/830294)
-- [【V2EX】每小时-100W+的请求量，该怎么向黑产大哥们求饶啊？](https://www.v2ex.com/t/830286)
 - [【技术头条】API面试四连杀：接口如何设计？安全如何保证？签名如何实现？防重如何实现？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14901&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493135%26amp%3Bidx%3D2%26amp%3Bsn%3D4569a4965be1a6e8b85369edd7fc91dc%26amp%3Bchksm%3Dfa3f0754cd488e427c9670d6aa67e0693725ee332f26e011767ba85562bd6bb08a65cc8aaaba%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【技术头条】一文读懂浏览器存储与缓存机制-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=14896&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F422666602%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【开发者头条】技术干货｜缓存一致性最佳实践](https://toutiao.io/k/zgmi04u)
@@ -338,6 +337,7 @@
 
 
 
+- [【V2EX】混了好几年的-GitHub，这个月提了两个-issue，并成功采纳一个，作者表示下个版本会改变。啊～终于在开源带来了一点点点影响了（虽然是小项目）（下巴仰起）](https://www.v2ex.com/t/830335)
 - [【V2EX】求个微服务+框架的-github](https://www.v2ex.com/t/830299)
 - [......【查看更多】......](./details/tags/git-svn.md)
 
@@ -356,7 +356,6 @@
 
 
 - [【V2EX】面试完问的一些问题](https://www.v2ex.com/t/830290)
-- [【V2EX】北京-字节跳动急招广告系统实习生，面向-23-届同学，光速面试。](https://www.v2ex.com/t/830285)
 - [【开发者头条】面试官问:-说一说ReentrantReadWriteLock的实现原理与锁获取过程](https://toutiao.io/k/001uotl)
 - [......【查看更多】......](./details/tags/job-interview.md)
 

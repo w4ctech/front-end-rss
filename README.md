@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-24 08:14:51，:rocket: 更新条数: +1808， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-24 08:25:22，:rocket: 更新条数: +1809， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,7 @@
 </summary>
 
 
+- [2022-01-24-主机管理工具-natpass-v0.8.2-版本发布，去除连接池，支持上万并发](https://www.v2ex.com/t/830303) ![](assets/new.png)  
 - [2022-01-24-mbp-用触摸板久了感觉手腕很痛](https://www.v2ex.com/t/830302) ![](assets/new.png)  
 - [2022-01-24-现在大家选择对象存储和-CDN-加速-一般选择哪家？七牛云这个注册免费送每月-10GB-存储空间+20GB-CDN-流量（含-10GB-https-流量）还有吸引力吗？](https://www.v2ex.com/t/830301) ![](assets/new.png)  
 - [2022-01-24-感谢大哥分享上千个免费的-api，工具小程序成功落地](https://www.v2ex.com/t/830300) ![](assets/new.png)  
@@ -513,7 +514,6 @@
 - [2022-01-24-2022-了，-PHP-还是世界上最好的语言吗？](https://www.v2ex.com/t/830281) ![](assets/new.png)  
 - [2022-01-24-不懂就问：-如何把一台-iPhone-的短信自动同步转发到另一台-iPhone-！](https://www.v2ex.com/t/830280) ![](assets/new.png)  
 - [2022-01-24-StackOverflow-的-remote-job-网址是什么？](https://www.v2ex.com/t/830279) ![](assets/new.png)  
-- [2022-01-24-国产星链可能是-ppt-吗](https://www.v2ex.com/t/830277) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -573,9 +573,9 @@
 - [2022-01-24-数据与广告系列三十一：智能调价oCPX，你以为赚的是保价，其实你丢的是流量](https://toutiao.io/k/5shtr8x) ![](assets/new.png)  
 - [2022-01-24-开发进阶：Dotnet-Core多路径异步终止](https://toutiao.io/k/k7m8122) ![](assets/new.png)  
 - [2022-01-24-Go1.18-新特性：编译后的二进制文件，将包含更多信息](https://toutiao.io/k/7vob07k) ![](assets/new.png)  
-- [2022-01-24-推荐-从零开始搭建公司微服务授权架构技术栈（3种模式），这架构稳的一批...](https://toutiao.io/k/4g58j8v) ![](assets/new.png)  
-- [2022-01-24-推荐-据说看完这篇-JVM-要一小时](https://toutiao.io/k/1dauixx) ![](assets/new.png)  
-- [2022-01-24-推荐-用规则引擎让你一天上线十个需求](https://toutiao.io/k/ldd1cse) ![](assets/new.png)  
+- [2022-01-24-推荐-Redis-很屌，不懂使用规范就糟蹋了](https://toutiao.io/k/lpnakbk) ![](assets/new.png)  
+- [2022-01-24-推荐-面渣逆袭：Java并发六十问，图文详解，快来看看你会多少道！](https://toutiao.io/k/4ndh1gd) ![](assets/new.png)  
+- [2022-01-24-推荐-浅谈缓存最终一致性的解决方案](https://toutiao.io/k/mgym1lv) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

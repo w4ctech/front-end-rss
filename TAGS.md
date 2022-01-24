@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-01-24 23:12:32。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-01-24 23:21:01。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -336,7 +336,6 @@
 
 
 - [【V2EX】南京互联网公司情况统计，通过提-issue-的方式快速添加公司情况，-github-action-自动生成表格和-readme.md，避免找工作开盲盒](https://www.v2ex.com/t/830371)
-- [【V2EX】混了好几年的-GitHub，这个月提了两个-issue，并成功采纳一个，作者表示下个版本会改变。啊～终于在开源带来了一点点点影响了（虽然是小项目）（下巴仰起）](https://www.v2ex.com/t/830335)
 - [......【查看更多】......](./details/tags/git-svn.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

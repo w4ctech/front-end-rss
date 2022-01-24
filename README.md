@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-24 08:25:22，:rocket: 更新条数: +1809， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-24 08:42:28，:rocket: 更新条数: +1809， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,13 @@
 </summary>
 
 
+- [2022-01-24-把-tg-表情添加到微信](https://www.v2ex.com/t/830311) ![](assets/new.png)  
+- [2022-01-24-求-Switch-游戏推荐](https://www.v2ex.com/t/830310) ![](assets/new.png)  
+- [2022-01-24-关于-ipv6,广州电信施工师傅这样说。](https://www.v2ex.com/t/830309) ![](assets/new.png)  
+- [2022-01-24-自然语言处理研究方向求推荐（硕士研究生）](https://www.v2ex.com/t/830308) ![](assets/new.png)  
+- [2022-01-24-本来想过年玩博德之门-3-的，，，可这么长时间了还是没正式发售](https://www.v2ex.com/t/830307) ![](assets/new.png)  
+- [2022-01-24-远程全职-区块链前端，-ios-&-安卓](https://www.v2ex.com/t/830306) ![](assets/new.png)  
+- [2022-01-24-docker-安装-canal](https://www.v2ex.com/t/830305) ![](assets/new.png)  
 - [2022-01-24-主机管理工具-natpass-v0.8.2-版本发布，去除连接池，支持上万并发](https://www.v2ex.com/t/830303) ![](assets/new.png)  
 - [2022-01-24-mbp-用触摸板久了感觉手腕很痛](https://www.v2ex.com/t/830302) ![](assets/new.png)  
 - [2022-01-24-现在大家选择对象存储和-CDN-加速-一般选择哪家？七牛云这个注册免费送每月-10GB-存储空间+20GB-CDN-流量（含-10GB-https-流量）还有吸引力吗？](https://www.v2ex.com/t/830301) ![](assets/new.png)  
@@ -504,16 +511,9 @@
 - [2022-01-24-在上海打租房官司](https://www.v2ex.com/t/830295) ![](assets/new.png)  
 - [2022-01-24-Safari-卸了几个插件，内存占用率有明显下降](https://www.v2ex.com/t/830294) ![](assets/new.png)  
 - [2022-01-24-2021-复盘，-2022-展望](https://www.v2ex.com/t/830292) ![](assets/new.png)  
-- [2022-01-24-第一次坐飞机，请问一下有什么注意事项吗？](https://www.v2ex.com/t/830291) ![](assets/new.png)  
 - [2022-01-24-面试完问的一些问题](https://www.v2ex.com/t/830290) ![](assets/new.png)  
 - [2022-01-24-WebAssembly-如何返回异步执行的结果？](https://www.v2ex.com/t/830289) ![](assets/new.png)  
-- [2022-01-24-全球主机交流论坛被墙](https://www.v2ex.com/t/830288) ![](assets/new.png)  
 - [2022-01-24-每小时-100W+的请求量，该怎么向黑产大哥们求饶啊？](https://www.v2ex.com/t/830286) ![](assets/new.png)  
-- [2022-01-24-北京-字节跳动急招广告系统实习生，面向-23-届同学，光速面试。](https://www.v2ex.com/t/830285) ![](assets/new.png)  
-- [2022-01-24-北京-乐信圣文-|-后端-|-Unity-|-QA-|-出海游戏](https://www.v2ex.com/t/830282) ![](assets/new.png)  
-- [2022-01-24-2022-了，-PHP-还是世界上最好的语言吗？](https://www.v2ex.com/t/830281) ![](assets/new.png)  
-- [2022-01-24-不懂就问：-如何把一台-iPhone-的短信自动同步转发到另一台-iPhone-！](https://www.v2ex.com/t/830280) ![](assets/new.png)  
-- [2022-01-24-StackOverflow-的-remote-job-网址是什么？](https://www.v2ex.com/t/830279) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -568,14 +568,14 @@
 - [2022-01-24-分享-2-个-Go1.18-新特性的官方教程](https://toutiao.io/k/w7ylx5z) ![](assets/new.png)  
 - [2022-01-24-Ambari2.7安装配置](https://toutiao.io/k/2zvn0wv) ![](assets/new.png)  
 - [2022-01-24-嗨，我想和你分享一下千万级支付对账系统是怎么设计的。](https://toutiao.io/k/44s6x73) ![](assets/new.png)  
-- [2022-01-24-面渣逆袭：Java基础五十三问，快来看看有没有你不会的！](https://toutiao.io/k/hy8slfh) ![](assets/new.png)  
 - [2022-01-24-浅谈我的几点学习经验](https://toutiao.io/k/1cvtmkk) ![](assets/new.png)  
+- [2022-01-24-面渣逆袭：Java基础五十三问，快来看看有没有你不会的！](https://toutiao.io/k/hy8slfh) ![](assets/new.png)  
 - [2022-01-24-数据与广告系列三十一：智能调价oCPX，你以为赚的是保价，其实你丢的是流量](https://toutiao.io/k/5shtr8x) ![](assets/new.png)  
 - [2022-01-24-开发进阶：Dotnet-Core多路径异步终止](https://toutiao.io/k/k7m8122) ![](assets/new.png)  
 - [2022-01-24-Go1.18-新特性：编译后的二进制文件，将包含更多信息](https://toutiao.io/k/7vob07k) ![](assets/new.png)  
-- [2022-01-24-推荐-Redis-很屌，不懂使用规范就糟蹋了](https://toutiao.io/k/lpnakbk) ![](assets/new.png)  
-- [2022-01-24-推荐-面渣逆袭：Java并发六十问，图文详解，快来看看你会多少道！](https://toutiao.io/k/4ndh1gd) ![](assets/new.png)  
-- [2022-01-24-推荐-浅谈缓存最终一致性的解决方案](https://toutiao.io/k/mgym1lv) ![](assets/new.png)  
+- [2022-01-24-推荐-JVM调优的几种场景（建议收藏）](https://toutiao.io/k/0mfx2nd) ![](assets/new.png)  
+- [2022-01-24-推荐-从MVC到DDD的架构演进](https://toutiao.io/k/c7mn7hz) ![](assets/new.png)  
+- [2022-01-24-推荐-从零开始搭建公司微服务授权架构技术栈（3种模式），这架构稳的一批...](https://toutiao.io/k/4g58j8v) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-24 08:45:27，:rocket: 更新条数: +1809， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-24 08:57:30，:rocket: 更新条数: +1810， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -66,8 +66,9 @@
 
 
 - [2022-01-24-1月23日全国新增新冠57例-八省份本土18例](https://m.caixin.com/m/2022-01-24/101833942.html) ![](assets/new.png)  
-- [2022-01-24-上海新增本土确诊1例-系浦东机场进口货物派单员](https://m.caixin.com/m/2022-01-24/101834050.html) ![](assets/new.png)  
+- [2022-01-24-上海新增1例确诊-系机场货运区办理进口业务人员](https://m.caixin.com/m/2022-01-24/101834050.html) ![](assets/new.png)  
 - [2022-01-24-港大发现新药物组合可作为潜在广谱抗新冠口服药](https://m.caixin.com/m/2022-01-24/101834067.html) ![](assets/new.png)  
+- [2022-01-24-【境内疫情观察】北京市丰台区开展全员核酸检测（1月23日）](https://database.caixin.com/m/2022-01-24/101834159.html) ![](assets/new.png)  
 - [2022-01-24-《柳叶刀》论文称混打加强针效果更优-新西兰总理因Omicron取消婚礼｜大流行手记（1月23日）](https://m.caixin.com/m/2022-01-24/101833964.html) ![](assets/new.png)  
 - [2022-01-24-【图集】西安高风险地区清零-有序恢复正常生产生活秩序](https://photos.caixin.com/m/2022-01-24/101833947.html) ![](assets/new.png)  
 - [2022-01-23-北京疫情两条传播链累计感染43人，丰台区全员测核酸](https://m.caixin.com/m/2022-01-23/101833850.html) ![](assets/new.png)  
@@ -84,7 +85,6 @@
 - [2022-01-21-柳叶刀刊文预测3月为“大流行”关键节点-法国将放松限制｜大流行手记（1月20日）](https://m.caixin.com/m/2022-01-21/101833057.html) ![](assets/new.png)  
 - [2022-01-20-北京新增5确诊病例-两地调整为中风险地区](https://m.caixin.com/m/2022-01-20/101832749.html) ![](assets/new.png)  
 - [2022-01-20-新冠病毒“物传人”成风险疑点-广深强化境外物品接收防控](https://m.caixin.com/m/2022-01-20/101832563.html) ![](assets/new.png)  
-- [2022-01-20-【境内疫情观察】全国新增43例本土病例（1月19日）](https://database.caixin.com/m/2022-01-20/101832625.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -494,6 +494,9 @@
 </summary>
 
 
+- [2022-01-24-VSCode-签出分支总是自动签出到旧版本，可能是什么原因造成的？](https://www.v2ex.com/t/830315) ![](assets/new.png)  
+- [2022-01-24-工作室有十几台电脑，怎么同时控制，同时装软件？](https://www.v2ex.com/t/830314) ![](assets/new.png)  
+- [2022-01-24-利用-GitHub-Actions-来实现-Docker-下载国外站点镜像](https://www.v2ex.com/t/830312) ![](assets/new.png)  
 - [2022-01-24-把-tg-表情添加到微信](https://www.v2ex.com/t/830311) ![](assets/new.png)  
 - [2022-01-24-求-Switch-游戏推荐](https://www.v2ex.com/t/830310) ![](assets/new.png)  
 - [2022-01-24-关于-ipv6,广州电信施工师傅这样说。](https://www.v2ex.com/t/830309) ![](assets/new.png)  
@@ -511,9 +514,6 @@
 - [2022-01-24-在上海打租房官司](https://www.v2ex.com/t/830295) ![](assets/new.png)  
 - [2022-01-24-Safari-卸了几个插件，内存占用率有明显下降](https://www.v2ex.com/t/830294) ![](assets/new.png)  
 - [2022-01-24-2021-复盘，-2022-展望](https://www.v2ex.com/t/830292) ![](assets/new.png)  
-- [2022-01-24-面试完问的一些问题](https://www.v2ex.com/t/830290) ![](assets/new.png)  
-- [2022-01-24-WebAssembly-如何返回异步执行的结果？](https://www.v2ex.com/t/830289) ![](assets/new.png)  
-- [2022-01-24-每小时-100W+的请求量，该怎么向黑产大哥们求饶啊？](https://www.v2ex.com/t/830286) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -573,9 +573,9 @@
 - [2022-01-24-数据与广告系列三十一：智能调价oCPX，你以为赚的是保价，其实你丢的是流量](https://toutiao.io/k/5shtr8x) ![](assets/new.png)  
 - [2022-01-24-开发进阶：Dotnet-Core多路径异步终止](https://toutiao.io/k/k7m8122) ![](assets/new.png)  
 - [2022-01-24-Go1.18-新特性：编译后的二进制文件，将包含更多信息](https://toutiao.io/k/7vob07k) ![](assets/new.png)  
-- [2022-01-24-推荐-JVM调优的几种场景（建议收藏）](https://toutiao.io/k/0mfx2nd) ![](assets/new.png)  
 - [2022-01-24-推荐-从MVC到DDD的架构演进](https://toutiao.io/k/c7mn7hz) ![](assets/new.png)  
-- [2022-01-24-推荐-从零开始搭建公司微服务授权架构技术栈（3种模式），这架构稳的一批...](https://toutiao.io/k/4g58j8v) ![](assets/new.png)  
+- [2022-01-24-推荐-优雅整洁的-Java-代码命名技巧，风之极·净化](https://toutiao.io/k/abc8vou) ![](assets/new.png)  
+- [2022-01-24-推荐-浅谈缓存最终一致性的解决方案](https://toutiao.io/k/mgym1lv) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

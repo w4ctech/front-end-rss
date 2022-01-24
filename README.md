@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-24 11:54:24，:rocket: 更新条数: +1814， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-24 12:20:32，:rocket: 更新条数: +1815， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,10 @@
 </summary>
 
 
+- [2022-01-24-内推-TikTok-招聘-Android/iOS/golang-后端](https://www.v2ex.com/t/830349) ![](assets/new.png)  
+- [2022-01-24-每次临近放假就不想学习，怎么整？](https://www.v2ex.com/t/830348) ![](assets/new.png)  
+- [2022-01-24-Hi-维修的那个超大容量电池-咋样？](https://www.v2ex.com/t/830347) ![](assets/new.png)  
+- [2022-01-24-Bitwarden-安卓-APP-速度太慢](https://www.v2ex.com/t/830346) ![](assets/new.png)  
 - [2022-01-24-长沙/成都-C++/分布式存储开发工程师,待遇30-60k](https://www.v2ex.com/t/830344) ![](assets/new.png)  
 - [2022-01-24-搞-android-的学-Swift-成本怎么样？](https://www.v2ex.com/t/830343) ![](assets/new.png)  
 - [2022-01-24-小弟请教一个-maven-插件开发的问题](https://www.v2ex.com/t/830342) ![](assets/new.png)  
@@ -510,10 +514,6 @@
 - [2022-01-24-pixelschain-一个-NFT-的社会化实验](https://www.v2ex.com/t/830329) ![](assets/new.png)  
 - [2022-01-24-实时采集微信红包封面并推送](https://www.v2ex.com/t/830328) ![](assets/new.png)  
 - [2022-01-24-blender-中形态键能传递吗？](https://www.v2ex.com/t/830327) ![](assets/new.png)  
-- [2022-01-24-有没有什么办法能够每天定时保存腾讯文档至本地](https://www.v2ex.com/t/830326) ![](assets/new.png)  
-- [2022-01-24-微信智能了？电脑同时登陆，外出后手机竟然自动开启通知](https://www.v2ex.com/t/830325) ![](assets/new.png)  
-- [2022-01-24-Safari-移除-Google-搜索的-redirect-连接](https://www.v2ex.com/t/830324) ![](assets/new.png)  
-- [2022-01-24-传统行业，-offer-对比](https://www.v2ex.com/t/830323) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -562,8 +562,8 @@
 - [2022-01-24-工商银行实时大数据平台建设历程及展望](https://toutiao.io/k/mf1lxng) ![](assets/new.png)  
 - [2022-01-24-盘点Linux-Epoll那些致命弱点](https://toutiao.io/k/pslbv0b) ![](assets/new.png)  
 - [2022-01-24-35岁程序员，同样的阿里梦](https://toutiao.io/k/hjn8rpb) ![](assets/new.png)  
-- [2022-01-24-《Julia编程基础》全集「建议收藏」](https://toutiao.io/k/44g55bu) ![](assets/new.png)  
 - [2022-01-24-嗨，我想和你分享一下千万级支付对账系统是怎么设计的。](https://toutiao.io/k/44s6x73) ![](assets/new.png)  
+- [2022-01-24-《Julia编程基础》全集「建议收藏」](https://toutiao.io/k/44g55bu) ![](assets/new.png)  
 - [2022-01-24-手写简易前端框架：vdom-渲染和-jsx-编译](https://toutiao.io/k/i0d9tvh) ![](assets/new.png)  
 - [2022-01-24-【译】现代Web应用应该是Bundless的](https://toutiao.io/k/iugpc2i) ![](assets/new.png)  
 - [2022-01-24-分享-2-个-Go1.18-新特性的官方教程](https://toutiao.io/k/w7ylx5z) ![](assets/new.png)  
@@ -573,9 +573,9 @@
 - [2022-01-24-数据与广告系列三十一：智能调价oCPX，你以为赚的是保价，其实你丢的是流量](https://toutiao.io/k/5shtr8x) ![](assets/new.png)  
 - [2022-01-24-开发进阶：Dotnet-Core多路径异步终止](https://toutiao.io/k/k7m8122) ![](assets/new.png)  
 - [2022-01-24-Go1.18-新特性：编译后的二进制文件，将包含更多信息](https://toutiao.io/k/7vob07k) ![](assets/new.png)  
-- [2022-01-24-推荐-从零开始搭建公司微服务授权架构技术栈（3种模式），这架构稳的一批...](https://toutiao.io/k/4g58j8v) ![](assets/new.png)  
-- [2022-01-24-推荐-用规则引擎让你一天上线十个需求](https://toutiao.io/k/ldd1cse) ![](assets/new.png)  
-- [2022-01-24-推荐-JVM调优的几种场景（建议收藏）](https://toutiao.io/k/0mfx2nd) ![](assets/new.png)  
+- [2022-01-24-推荐-优雅整洁的-Java-代码命名技巧，风之极·净化](https://toutiao.io/k/abc8vou) ![](assets/new.png)  
+- [2022-01-24-推荐-浅谈缓存最终一致性的解决方案](https://toutiao.io/k/mgym1lv) ![](assets/new.png)  
+- [2022-01-24-推荐-据说看完这篇-JVM-要一小时](https://toutiao.io/k/1dauixx) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

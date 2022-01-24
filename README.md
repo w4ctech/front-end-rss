@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-24 13:54:19，:rocket: 更新条数: +1813， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-24 14:12:03，:rocket: 更新条数: +1816， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,11 @@
 </summary>
 
 
+- [2022-01-24-NSFW-内容创收，老哥们支支招](https://www.v2ex.com/t/830372) ![](assets/new.png)  
+- [2022-01-24-南京互联网公司情况统计，通过提-issue-的方式快速添加公司情况，-github-action-自动生成表格和-readme.md，避免找工作开盲盒](https://www.v2ex.com/t/830371) ![](assets/new.png)  
+- [2022-01-24-5-年沒調薪提前-30-天申請離職卻因-3-個字要賠公司-13-萬元](https://www.v2ex.com/t/830370) ![](assets/new.png)  
+- [2022-01-24-realme-gt-顶配-12+256-PDD-百亿补贴-1829-火龙-888-还热么](https://www.v2ex.com/t/830369) ![](assets/new.png)  
+- [2022-01-24-深圳电信用还可以用-AGA-吗](https://www.v2ex.com/t/830368) ![](assets/new.png)  
 - [2022-01-24-有没有将家用车后排改为工作站的方案呀](https://www.v2ex.com/t/830365) ![](assets/new.png)  
 - [2022-01-24-买服务器的话，-3950x-是不是会比双-e5-2650-好？](https://www.v2ex.com/t/830364) ![](assets/new.png)  
 - [2022-01-24-微信，快出来领-bug-啦！](https://www.v2ex.com/t/830363) ![](assets/new.png)  
@@ -509,11 +514,6 @@
 - [2022-01-24-兄弟们你们平时怎么理财的呀](https://www.v2ex.com/t/830351) ![](assets/new.png)  
 - [2022-01-24-内推-TikTok-招聘-Android/iOS/golang-后端](https://www.v2ex.com/t/830349) ![](assets/new.png)  
 - [2022-01-24-每次临近放假就不想学习，怎么整？](https://www.v2ex.com/t/830348) ![](assets/new.png)  
-- [2022-01-24-Hi-维修的那个超大容量电池-咋样？](https://www.v2ex.com/t/830347) ![](assets/new.png)  
-- [2022-01-24-Bitwarden-安卓-APP-速度太慢](https://www.v2ex.com/t/830346) ![](assets/new.png)  
-- [2022-01-24-长沙/成都-C++/分布式存储开发工程师,待遇30-60k](https://www.v2ex.com/t/830344) ![](assets/new.png)  
-- [2022-01-24-搞-android-的学-Swift-成本怎么样？](https://www.v2ex.com/t/830343) ![](assets/new.png)  
-- [2022-01-24-小弟请教一个-maven-插件开发的问题](https://www.v2ex.com/t/830342) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -570,11 +570,11 @@
 - [2022-01-24-Ambari2.7安装配置](https://toutiao.io/k/2zvn0wv) ![](assets/new.png)  
 - [2022-01-24-面渣逆袭：Java基础五十三问，快来看看有没有你不会的！](https://toutiao.io/k/hy8slfh) ![](assets/new.png)  
 - [2022-01-24-浅谈我的几点学习经验](https://toutiao.io/k/1cvtmkk) ![](assets/new.png)  
+- [2022-01-24-开发进阶：Dotnet-Core多路径异步终止](https://toutiao.io/k/k7m8122) ![](assets/new.png)  
 - [2022-01-24-Go1.18-新特性：编译后的二进制文件，将包含更多信息](https://toutiao.io/k/7vob07k) ![](assets/new.png)  
 - [2022-01-24-数据与广告系列三十一：智能调价oCPX，你以为赚的是保价，其实你丢的是流量](https://toutiao.io/k/5shtr8x) ![](assets/new.png)  
-- [2022-01-24-开发进阶：Dotnet-Core多路径异步终止](https://toutiao.io/k/k7m8122) ![](assets/new.png)  
-- [2022-01-24-推荐-用规则引擎让你一天上线十个需求](https://toutiao.io/k/ldd1cse) ![](assets/new.png)  
-- [2022-01-24-推荐-从MVC到DDD的架构演进](https://toutiao.io/k/c7mn7hz) ![](assets/new.png)  
+- [2022-01-24-推荐-Redis-很屌，不懂使用规范就糟蹋了](https://toutiao.io/k/lpnakbk) ![](assets/new.png)  
+- [2022-01-24-推荐-JVM调优的几种场景（建议收藏）](https://toutiao.io/k/0mfx2nd) ![](assets/new.png)  
 - [2022-01-24-推荐-优雅整洁的-Java-代码命名技巧，风之极·净化](https://toutiao.io/k/abc8vou) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2022-01-24 00:38:43。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-01-24 01:09:35。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-01-24-分享个-clash_for_windows-一键更新工具](https://www.v2ex.com/t/830173) 
+- [2022-01-24-分享一个-Mac-下的截图工具-Shottr](https://www.v2ex.com/t/830172) 
 - [2022-01-24-海鲜市场买的群晖便宜很多，是否真的靠普？](https://www.v2ex.com/t/830171) 
 - [2022-01-23-咸鱼交易盒马礼品卡遭遇欺诈](https://www.v2ex.com/t/830169) 
 - [2022-01-23-奠信宽带的迷惑行为](https://www.v2ex.com/t/830168) 
@@ -38,7 +40,3 @@
 - [2022-01-23-Miui13-下-google-contacts-不能正常工作](https://www.v2ex.com/t/830132) 
 - [2022-01-23-想买个电视条音响或者回音壁给-PC-用咋样](https://www.v2ex.com/t/830129) 
 - [2022-01-23-iPhone-录制-60fps-时实际帧率不到-60fps-的问题](https://www.v2ex.com/t/830128) 
-- [2022-01-23-windows-安装-commitizen-使用命令弹出窗口问题](https://www.v2ex.com/t/830126) 
-- [2022-01-23-Google-原生信息-app-收到短信会提示保存号码，怎么取消？](https://www.v2ex.com/t/830125) 
-- [2022-01-23-windows-terminal-底部-status-bar](https://www.v2ex.com/t/830124) 
-- [2022-01-23-Netflix-会因为频繁切换代理和设备被限制吗？](https://www.v2ex.com/t/830122) 

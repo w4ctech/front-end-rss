@@ -8819,6 +8819,16 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "分享个 clash_for_windows 一键更新工具",
+        "link": "https://www.v2ex.com/t/830173",
+        "date": "2022-01-24"
+      },
+      {
+        "title": "分享一个 Mac 下的截图工具 Shottr",
+        "link": "https://www.v2ex.com/t/830172",
+        "date": "2022-01-24"
+      },
+      {
         "title": "海鲜市场买的群晖便宜很多，是否真的靠普？",
         "link": "https://www.v2ex.com/t/830171",
         "date": "2022-01-24"
@@ -8982,26 +8992,6 @@
         "title": "iPhone 录制 60fps 时实际帧率不到 60fps 的问题",
         "link": "https://www.v2ex.com/t/830128",
         "date": "2022-01-23"
-      },
-      {
-        "title": "windows 安装 commitizen 使用命令弹出窗口问题",
-        "link": "https://www.v2ex.com/t/830126",
-        "date": "2022-01-23"
-      },
-      {
-        "title": "Google 原生信息 app 收到短信会提示保存号码，怎么取消？",
-        "link": "https://www.v2ex.com/t/830125",
-        "date": "2022-01-23"
-      },
-      {
-        "title": "windows terminal 底部 status bar",
-        "link": "https://www.v2ex.com/t/830124",
-        "date": "2022-01-23"
-      },
-      {
-        "title": "Netflix 会因为频繁切换代理和设备被限制吗？",
-        "link": "https://www.v2ex.com/t/830122",
-        "date": "2022-01-23"
       }
     ]
   },
@@ -9143,16 +9133,6 @@
         "date": "2022-01-24"
       },
       {
-        "title": "《Julia编程基础》全集「建议收藏」",
-        "link": "https://toutiao.io/k/44g55bu",
-        "date": "2022-01-24"
-      },
-      {
-        "title": "手写简易前端框架：vdom 渲染和 jsx 编译",
-        "link": "https://toutiao.io/k/i0d9tvh",
-        "date": "2022-01-24"
-      },
-      {
         "title": "Maven Archetype 多 Module 自定义代码脚手架",
         "link": "https://toutiao.io/k/7f3yjyf",
         "date": "2022-01-24"
@@ -9163,13 +9143,58 @@
         "date": "2022-01-24"
       },
       {
-        "title": "[推荐] 从零开始搭建公司微服务授权架构技术栈（3种模式），这架构稳的一批...",
-        "link": "https://toutiao.io/k/4g58j8v",
+        "title": "《Julia编程基础》全集「建议收藏」",
+        "link": "https://toutiao.io/k/44g55bu",
+        "date": "2022-01-24"
+      },
+      {
+        "title": "手写简易前端框架：vdom 渲染和 jsx 编译",
+        "link": "https://toutiao.io/k/i0d9tvh",
+        "date": "2022-01-24"
+      },
+      {
+        "title": "[推荐] Redis 很屌，不懂使用规范就糟蹋了",
+        "link": "https://toutiao.io/k/lpnakbk",
         "date": "2022-01-24"
       },
       {
         "title": "[推荐] 服务探活的五种方式",
         "link": "https://toutiao.io/k/1wuwmui",
+        "date": "2022-01-24"
+      },
+      {
+        "title": "[推荐] 关于代码质量退化的思考",
+        "link": "https://toutiao.io/k/zzaz6vu",
+        "date": "2022-01-24"
+      },
+      {
+        "title": "[推荐] 从MVC到DDD的架构演进",
+        "link": "https://toutiao.io/k/c7mn7hz",
+        "date": "2022-01-24"
+      },
+      {
+        "title": "[推荐] 从零开始搭建公司微服务授权架构技术栈（3种模式），这架构稳的一批...",
+        "link": "https://toutiao.io/k/4g58j8v",
+        "date": "2022-01-24"
+      },
+      {
+        "title": "[推荐] 据说看完这篇 JVM 要一小时",
+        "link": "https://toutiao.io/k/1dauixx",
+        "date": "2022-01-24"
+      },
+      {
+        "title": "[推荐] 优雅整洁的 Java 代码命名技巧，风之极·净化",
+        "link": "https://toutiao.io/k/abc8vou",
+        "date": "2022-01-24"
+      },
+      {
+        "title": "[推荐] 用规则引擎让你一天上线十个需求",
+        "link": "https://toutiao.io/k/ldd1cse",
+        "date": "2022-01-24"
+      },
+      {
+        "title": "[推荐] 3万字 | 34 图 | Netty | 内核角度看IO模型",
+        "link": "https://toutiao.io/k/zavpca4",
         "date": "2022-01-24"
       },
       {
@@ -9183,43 +9208,8 @@
         "date": "2022-01-24"
       },
       {
-        "title": "[推荐] 3万字 | 34 图 | Netty | 内核角度看IO模型",
-        "link": "https://toutiao.io/k/zavpca4",
-        "date": "2022-01-24"
-      },
-      {
         "title": "[推荐] 面渣逆袭：Java并发六十问，图文详解，快来看看你会多少道！",
         "link": "https://toutiao.io/k/4ndh1gd",
-        "date": "2022-01-24"
-      },
-      {
-        "title": "[推荐] Redis 很屌，不懂使用规范就糟蹋了",
-        "link": "https://toutiao.io/k/lpnakbk",
-        "date": "2022-01-24"
-      },
-      {
-        "title": "[推荐] 从MVC到DDD的架构演进",
-        "link": "https://toutiao.io/k/c7mn7hz",
-        "date": "2022-01-24"
-      },
-      {
-        "title": "[推荐] 用规则引擎让你一天上线十个需求",
-        "link": "https://toutiao.io/k/ldd1cse",
-        "date": "2022-01-24"
-      },
-      {
-        "title": "[推荐] 关于代码质量退化的思考",
-        "link": "https://toutiao.io/k/zzaz6vu",
-        "date": "2022-01-24"
-      },
-      {
-        "title": "[推荐] 优雅整洁的 Java 代码命名技巧，风之极·净化",
-        "link": "https://toutiao.io/k/abc8vou",
-        "date": "2022-01-24"
-      },
-      {
-        "title": "[推荐] 据说看完这篇 JVM 要一小时",
-        "link": "https://toutiao.io/k/1dauixx",
         "date": "2022-01-24"
       }
     ]

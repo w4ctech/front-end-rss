@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-24 00:38:43，:rocket: 更新条数: +1797， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-24 01:09:34，:rocket: 更新条数: +1795， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,8 @@
 </summary>
 
 
+- [2022-01-24-分享个-clash_for_windows-一键更新工具](https://www.v2ex.com/t/830173) ![](assets/new.png)  
+- [2022-01-24-分享一个-Mac-下的截图工具-Shottr](https://www.v2ex.com/t/830172) ![](assets/new.png)  
 - [2022-01-24-海鲜市场买的群晖便宜很多，是否真的靠普？](https://www.v2ex.com/t/830171) ![](assets/new.png)  
 - [2022-01-23-咸鱼交易盒马礼品卡遭遇欺诈](https://www.v2ex.com/t/830169) ![](assets/new.png)  
 - [2022-01-23-奠信宽带的迷惑行为](https://www.v2ex.com/t/830168) ![](assets/new.png)  
@@ -512,8 +514,6 @@
 - [2022-01-23-现在-iOS-app-比网页版能多获取哪些用户信息？](https://www.v2ex.com/t/830155) ![](assets/new.png)  
 - [2022-01-23-一个支持全局代理的软件除了使用-tun/tap（虚拟网卡技术）以外还有没有别的技术可以用啊？](https://www.v2ex.com/t/830151) ![](assets/new.png)  
 - [2022-01-23-吐槽-有没有人觉得-Chrome-自带的翻译越来越难用了](https://www.v2ex.com/t/830150) ![](assets/new.png)  
-- [2022-01-23-mybatisplus-如何动态创建-mapper-接口。](https://www.v2ex.com/t/830149) ![](assets/new.png)  
-- [2022-01-23-求助：-mbp-连接-dell-p2415q-突然连不了](https://www.v2ex.com/t/830146) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -561,21 +561,21 @@
 - [2022-01-24-面试官问:-说一说ReentrantReadWriteLock的实现原理与锁获取过程](https://toutiao.io/k/001uotl) ![](assets/new.png)  
 - [2022-01-24-35岁程序员，同样的阿里梦](https://toutiao.io/k/hjn8rpb) ![](assets/new.png)  
 - [2022-01-24-盘点Linux-Epoll那些致命弱点](https://toutiao.io/k/pslbv0b) ![](assets/new.png)  
-- [2022-01-24-《Julia编程基础》全集「建议收藏」](https://toutiao.io/k/44g55bu) ![](assets/new.png)  
-- [2022-01-24-手写简易前端框架：vdom-渲染和-jsx-编译](https://toutiao.io/k/i0d9tvh) ![](assets/new.png)  
 - [2022-01-24-Maven-Archetype-多-Module-自定义代码脚手架](https://toutiao.io/k/7f3yjyf) ![](assets/new.png)  
 - [2022-01-24-技术干货｜缓存一致性最佳实践](https://toutiao.io/k/zgmi04u) ![](assets/new.png)  
-- [2022-01-24-推荐-从零开始搭建公司微服务授权架构技术栈（3种模式），这架构稳的一批...](https://toutiao.io/k/4g58j8v) ![](assets/new.png)  
+- [2022-01-24-《Julia编程基础》全集「建议收藏」](https://toutiao.io/k/44g55bu) ![](assets/new.png)  
+- [2022-01-24-手写简易前端框架：vdom-渲染和-jsx-编译](https://toutiao.io/k/i0d9tvh) ![](assets/new.png)  
+- [2022-01-24-推荐-Redis-很屌，不懂使用规范就糟蹋了](https://toutiao.io/k/lpnakbk) ![](assets/new.png)  
 - [2022-01-24-推荐-服务探活的五种方式](https://toutiao.io/k/1wuwmui) ![](assets/new.png)  
+- [2022-01-24-推荐-关于代码质量退化的思考](https://toutiao.io/k/zzaz6vu) ![](assets/new.png)  
+- [2022-01-24-推荐-从MVC到DDD的架构演进](https://toutiao.io/k/c7mn7hz) ![](assets/new.png)  
+- [2022-01-24-推荐-从零开始搭建公司微服务授权架构技术栈（3种模式），这架构稳的一批...](https://toutiao.io/k/4g58j8v) ![](assets/new.png)  
+- [2022-01-24-推荐-据说看完这篇-JVM-要一小时](https://toutiao.io/k/1dauixx) ![](assets/new.png)  
+- [2022-01-24-推荐-优雅整洁的-Java-代码命名技巧，风之极·净化](https://toutiao.io/k/abc8vou) ![](assets/new.png)  
+- [2022-01-24-推荐-用规则引擎让你一天上线十个需求](https://toutiao.io/k/ldd1cse) ![](assets/new.png)  
+- [2022-01-24-推荐-3万字-|-34-图-|-Netty-|-内核角度看IO模型](https://toutiao.io/k/zavpca4) ![](assets/new.png)  
 - [2022-01-24-推荐-浅谈缓存最终一致性的解决方案](https://toutiao.io/k/mgym1lv) ![](assets/new.png)  
 - [2022-01-24-推荐-JVM调优的几种场景（建议收藏）](https://toutiao.io/k/0mfx2nd) ![](assets/new.png)  
-- [2022-01-24-推荐-3万字-|-34-图-|-Netty-|-内核角度看IO模型](https://toutiao.io/k/zavpca4) ![](assets/new.png)  
-- [2022-01-24-推荐-面渣逆袭：Java并发六十问，图文详解，快来看看你会多少道！](https://toutiao.io/k/4ndh1gd) ![](assets/new.png)  
-- [2022-01-24-推荐-Redis-很屌，不懂使用规范就糟蹋了](https://toutiao.io/k/lpnakbk) ![](assets/new.png)  
-- [2022-01-24-推荐-从MVC到DDD的架构演进](https://toutiao.io/k/c7mn7hz) ![](assets/new.png)  
-- [2022-01-24-推荐-用规则引擎让你一天上线十个需求](https://toutiao.io/k/ldd1cse) ![](assets/new.png)  
-- [2022-01-24-推荐-关于代码质量退化的思考](https://toutiao.io/k/zzaz6vu) ![](assets/new.png)  
-- [2022-01-24-推荐-优雅整洁的-Java-代码命名技巧，风之极·净化](https://toutiao.io/k/abc8vou) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

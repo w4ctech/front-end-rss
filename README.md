@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-24 03:44:05，:rocket: 更新条数: +1803， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-24 03:56:05，:rocket: 更新条数: +1803， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,11 @@
 </summary>
 
 
+- [2022-01-24-阿里小号打自己脸，-2-月-18-日前暂时回归-20-一年了](https://www.v2ex.com/t/830239) ![](assets/new.png)  
+- [2022-01-24-做公钥验签的功能，服务用-docker-打包，然后-mac-电脑上访问验证通过，在-Linux-上访问出现-Bad-signature](https://www.v2ex.com/t/830238) ![](assets/new.png)  
+- [2022-01-24-nginx-多个-url-重写](https://www.v2ex.com/t/830235) ![](assets/new.png)  
+- [2022-01-24-QEMU-桥接疑问](https://www.v2ex.com/t/830234) ![](assets/new.png)  
+- [2022-01-24-Github-的-markdown-项目可以商用吗](https://www.v2ex.com/t/830233) ![](assets/new.png)  
 - [2022-01-24-赠送-Google-Play-美区$25-兑换券](https://www.v2ex.com/t/830232) ![](assets/new.png)  
 - [2022-01-24-不知道有没有这样的-url-监控面板?](https://www.v2ex.com/t/830231) ![](assets/new.png)  
 - [2022-01-24-30-岁，北京到上海，会有怎样的利与弊？](https://www.v2ex.com/t/830230) ![](assets/new.png)  
@@ -509,11 +514,6 @@
 - [2022-01-24-有-django-的兄弟吗？](https://www.v2ex.com/t/830216) ![](assets/new.png)  
 - [2022-01-24-mac-mini-m1-遇到的两个历史未解决-bug，输入法失去焦点，跑左下角和显示器闪屏问题。](https://www.v2ex.com/t/830215) ![](assets/new.png)  
 - [2022-01-24-上周摸鱼，今天放假，明天回家，年后十一上班](https://www.v2ex.com/t/830214) ![](assets/new.png)  
-- [2022-01-24-minecraft-m1-Java-版本如何搞](https://www.v2ex.com/t/830213) ![](assets/new.png)  
-- [2022-01-24-一键生成你的-Twitter-NFT-头像「Fake」](https://www.v2ex.com/t/830212) ![](assets/new.png)  
-- [2022-01-24-不懂就问，普通高刷屏如何实现快门-3D-显示](https://www.v2ex.com/t/830211) ![](assets/new.png)  
-- [2022-01-24-作为-Javaer，-Typescript-这个特性太舒服了](https://www.v2ex.com/t/830210) ![](assets/new.png)  
-- [2022-01-24-2021-款-MacBook-Pro，-M1-Pro-芯片出现-vscode-卡死情况](https://www.v2ex.com/t/830209) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -565,17 +565,17 @@
 - [2022-01-24-《Julia编程基础》全集「建议收藏」](https://toutiao.io/k/44g55bu) ![](assets/new.png)  
 - [2022-01-24-手写简易前端框架：vdom-渲染和-jsx-编译](https://toutiao.io/k/i0d9tvh) ![](assets/new.png)  
 - [2022-01-24-分享-2-个-Go1.18-新特性的官方教程](https://toutiao.io/k/w7ylx5z) ![](assets/new.png)  
-- [2022-01-24-Ambari2.7安装配置](https://toutiao.io/k/2zvn0wv) ![](assets/new.png)  
 - [2022-01-24-【译】现代Web应用应该是Bundless的](https://toutiao.io/k/iugpc2i) ![](assets/new.png)  
-- [2022-01-24-推荐-从MVC到DDD的架构演进](https://toutiao.io/k/c7mn7hz) ![](assets/new.png)  
+- [2022-01-24-Ambari2.7安装配置](https://toutiao.io/k/2zvn0wv) ![](assets/new.png)  
 - [2022-01-24-推荐-优雅整洁的-Java-代码命名技巧，风之极·净化](https://toutiao.io/k/abc8vou) ![](assets/new.png)  
+- [2022-01-24-推荐-面渣逆袭：Java并发六十问，图文详解，快来看看你会多少道！](https://toutiao.io/k/4ndh1gd) ![](assets/new.png)  
 - [2022-01-24-推荐-JVM调优的几种场景（建议收藏）](https://toutiao.io/k/0mfx2nd) ![](assets/new.png)  
-- [2022-01-24-推荐-服务探活的五种方式](https://toutiao.io/k/1wuwmui) ![](assets/new.png)  
+- [2022-01-24-推荐-3万字-|-34-图-|-Netty-|-内核角度看IO模型](https://toutiao.io/k/zavpca4) ![](assets/new.png)  
+- [2022-01-24-推荐-浅谈缓存最终一致性的解决方案](https://toutiao.io/k/mgym1lv) ![](assets/new.png)  
 - [2022-01-24-推荐-关于代码质量退化的思考](https://toutiao.io/k/zzaz6vu) ![](assets/new.png)  
 - [2022-01-24-推荐-用规则引擎让你一天上线十个需求](https://toutiao.io/k/ldd1cse) ![](assets/new.png)  
-- [2022-01-24-推荐-3万字-|-34-图-|-Netty-|-内核角度看IO模型](https://toutiao.io/k/zavpca4) ![](assets/new.png)  
-- [2022-01-24-推荐-Redis-很屌，不懂使用规范就糟蹋了](https://toutiao.io/k/lpnakbk) ![](assets/new.png)  
-- [2022-01-24-推荐-从零开始搭建公司微服务授权架构技术栈（3种模式），这架构稳的一批...](https://toutiao.io/k/4g58j8v) ![](assets/new.png)  
+- [2022-01-24-推荐-从MVC到DDD的架构演进](https://toutiao.io/k/c7mn7hz) ![](assets/new.png)  
+- [2022-01-24-推荐-服务探活的五种方式](https://toutiao.io/k/1wuwmui) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

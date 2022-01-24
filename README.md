@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-24 05:19:11，:rocket: 更新条数: +1803， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-24 05:36:11，:rocket: 更新条数: +1802， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,6 +494,9 @@
 </summary>
 
 
+- [2022-01-24-来-review-代码](https://www.v2ex.com/t/830256) ![](assets/new.png)  
+- [2022-01-24-有没有能够结构化管理-typora-文档的工具？可利用多级目录管理文件夹和文档这种。](https://www.v2ex.com/t/830255) ![](assets/new.png)  
+- [2022-01-24-Apple-One-超大杯-Premier-拼车](https://www.v2ex.com/t/830253) ![](assets/new.png)  
 - [2022-01-24-试了一下联通-votle-视频通话半彻底抛弃微信视频，体验非常不错。](https://www.v2ex.com/t/830252) ![](assets/new.png)  
 - [2022-01-24-过年回老家，怎么保证外地家里的宽带在过年期间无人保持稳定畅通？](https://www.v2ex.com/t/830251) ![](assets/new.png)  
 - [2022-01-24-迎战金三银四-分享-2-款适合程序员的简历模板](https://www.v2ex.com/t/830250) ![](assets/new.png)  
@@ -511,9 +514,6 @@
 - [2022-01-24-赠送-Google-Play-美区$25-兑换券](https://www.v2ex.com/t/830232) ![](assets/new.png)  
 - [2022-01-24-不知道有没有这样的-url-监控面板?](https://www.v2ex.com/t/830231) ![](assets/new.png)  
 - [2022-01-24-30-岁，北京到上海，会有怎样的利与弊？](https://www.v2ex.com/t/830230) ![](assets/new.png)  
-- [2022-01-24-关于微信高比例分成，一直审批不下来的问题。](https://www.v2ex.com/t/830229) ![](assets/new.png)  
-- [2022-01-24-我在开发一个自动化测试平台，怎么证明我的自动化测试平台提效了呢？](https://www.v2ex.com/t/830228) ![](assets/new.png)  
-- [2022-01-24-如何在不用-https-的情况下使用-WebRTC？](https://www.v2ex.com/t/830227) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -557,8 +557,8 @@
 
 
 - [2022-01-24-Java无垃圾稳态设计](https://toutiao.io/k/ly1kfiv) ![](assets/new.png)  
-- [2022-01-24-工商银行实时大数据平台建设历程及展望](https://toutiao.io/k/mf1lxng) ![](assets/new.png)  
 - [2022-01-24-技术干货｜缓存一致性最佳实践](https://toutiao.io/k/zgmi04u) ![](assets/new.png)  
+- [2022-01-24-工商银行实时大数据平台建设历程及展望](https://toutiao.io/k/mf1lxng) ![](assets/new.png)  
 - [2022-01-24-面试官问:-说一说ReentrantReadWriteLock的实现原理与锁获取过程](https://toutiao.io/k/001uotl) ![](assets/new.png)  
 - [2022-01-24-盘点Linux-Epoll那些致命弱点](https://toutiao.io/k/pslbv0b) ![](assets/new.png)  
 - [2022-01-24-35岁程序员，同样的阿里梦](https://toutiao.io/k/hjn8rpb) ![](assets/new.png)  
@@ -567,15 +567,15 @@
 - [2022-01-24-【译】现代Web应用应该是Bundless的](https://toutiao.io/k/iugpc2i) ![](assets/new.png)  
 - [2022-01-24-分享-2-个-Go1.18-新特性的官方教程](https://toutiao.io/k/w7ylx5z) ![](assets/new.png)  
 - [2022-01-24-Ambari2.7安装配置](https://toutiao.io/k/2zvn0wv) ![](assets/new.png)  
-- [2022-01-24-推荐-服务探活的五种方式](https://toutiao.io/k/1wuwmui) ![](assets/new.png)  
-- [2022-01-24-推荐-用规则引擎让你一天上线十个需求](https://toutiao.io/k/ldd1cse) ![](assets/new.png)  
 - [2022-01-24-推荐-3万字-|-34-图-|-Netty-|-内核角度看IO模型](https://toutiao.io/k/zavpca4) ![](assets/new.png)  
-- [2022-01-24-推荐-据说看完这篇-JVM-要一小时](https://toutiao.io/k/1dauixx) ![](assets/new.png)  
-- [2022-01-24-推荐-从MVC到DDD的架构演进](https://toutiao.io/k/c7mn7hz) ![](assets/new.png)  
-- [2022-01-24-推荐-优雅整洁的-Java-代码命名技巧，风之极·净化](https://toutiao.io/k/abc8vou) ![](assets/new.png)  
-- [2022-01-24-推荐-关于代码质量退化的思考](https://toutiao.io/k/zzaz6vu) ![](assets/new.png)  
+- [2022-01-24-推荐-服务探活的五种方式](https://toutiao.io/k/1wuwmui) ![](assets/new.png)  
+- [2022-01-24-推荐-面渣逆袭：Java并发六十问，图文详解，快来看看你会多少道！](https://toutiao.io/k/4ndh1gd) ![](assets/new.png)  
+- [2022-01-24-推荐-浅谈缓存最终一致性的解决方案](https://toutiao.io/k/mgym1lv) ![](assets/new.png)  
 - [2022-01-24-推荐-JVM调优的几种场景（建议收藏）](https://toutiao.io/k/0mfx2nd) ![](assets/new.png)  
-- [2022-01-24-推荐-Redis-很屌，不懂使用规范就糟蹋了](https://toutiao.io/k/lpnakbk) ![](assets/new.png)  
+- [2022-01-24-推荐-关于代码质量退化的思考](https://toutiao.io/k/zzaz6vu) ![](assets/new.png)  
+- [2022-01-24-推荐-从零开始搭建公司微服务授权架构技术栈（3种模式），这架构稳的一批...](https://toutiao.io/k/4g58j8v) ![](assets/new.png)  
+- [2022-01-24-推荐-优雅整洁的-Java-代码命名技巧，风之极·净化](https://toutiao.io/k/abc8vou) ![](assets/new.png)  
+- [2022-01-24-推荐-用规则引擎让你一天上线十个需求](https://toutiao.io/k/ldd1cse) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

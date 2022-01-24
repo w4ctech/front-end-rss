@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-24 06:28:11，:rocket: 更新条数: +1806， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-24 06:48:21，:rocket: 更新条数: +1809， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -66,6 +66,7 @@
 
 
 - [2022-01-24-1月23日全国新增新冠57例-八省份本土18例](https://m.caixin.com/m/2022-01-24/101833942.html) ![](assets/new.png)  
+- [2022-01-24-上海新增本土确诊1例-系浦东机场进口货物派单员](https://m.caixin.com/m/2022-01-24/101834050.html) ![](assets/new.png)  
 - [2022-01-24-《柳叶刀》论文称混打加强针效果更优-新西兰总理因Omicron取消婚礼｜大流行手记（1月23日）](https://m.caixin.com/m/2022-01-24/101833964.html) ![](assets/new.png)  
 - [2022-01-24-【图集】西安高风险地区清零-有序恢复正常生产生活秩序](https://photos.caixin.com/m/2022-01-24/101833947.html) ![](assets/new.png)  
 - [2022-01-23-北京疫情两条传播链累计感染43人，丰台区全员测核酸](https://m.caixin.com/m/2022-01-23/101833850.html) ![](assets/new.png)  
@@ -84,7 +85,6 @@
 - [2022-01-20-新冠病毒“物传人”成风险疑点-广深强化境外物品接收防控](https://m.caixin.com/m/2022-01-20/101832563.html) ![](assets/new.png)  
 - [2022-01-20-【境内疫情观察】全国新增43例本土病例（1月19日）](https://database.caixin.com/m/2022-01-20/101832625.html) ![](assets/new.png)  
 - [2022-01-20-英格兰取消新冠限制-美国将分发4亿免费N95口罩｜大流行手记（1月19日）](https://m.caixin.com/m/2022-01-20/101832499.html) ![](assets/new.png)  
-- [2022-01-20-中国药企获准仿制全球首款口服抗新冠病毒药-均只能出口](https://m.caixin.com/m/2022-01-20/101832904.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -494,6 +494,12 @@
 </summary>
 
 
+- [2022-01-24-老哥们，-offer-求比较呀](https://www.v2ex.com/t/830273) ![](assets/new.png)  
+- [2022-01-24-白嫖-GitHub-Actions-来实现-Docker-下载国外站点镜像](https://www.v2ex.com/t/830272) ![](assets/new.png)  
+- [2022-01-24-低代码程序媛我该不该离职](https://www.v2ex.com/t/830271) ![](assets/new.png)  
+- [2022-01-24-基于锐龙-6000-系列和-12-代酷睿移动版年后即将铺货，不建议大家年前购买笔记本](https://www.v2ex.com/t/830270) ![](assets/new.png)  
+- [2022-01-24-请问宜家伊朵森的桌板能夹显示器支架吗？](https://www.v2ex.com/t/830269) ![](assets/new.png)  
+- [2022-01-24-前端开发-跟-unity3d-比起来，哪个更有前景？](https://www.v2ex.com/t/830267) ![](assets/new.png)  
 - [2022-01-24-阿里小号没号码了](https://www.v2ex.com/t/830266) ![](assets/new.png)  
 - [2022-01-24-终于解决了-mac-mini-388-休眠-usb-键盘失灵（鼠标正常）的问题](https://www.v2ex.com/t/830265) ![](assets/new.png)  
 - [2022-01-24-有个防疫不加码的家乡真好！](https://www.v2ex.com/t/830264) ![](assets/new.png)  
@@ -508,12 +514,6 @@
 - [2022-01-24-过年回老家，怎么保证外地家里的宽带在过年期间无人保持稳定畅通？](https://www.v2ex.com/t/830251) ![](assets/new.png)  
 - [2022-01-24-迎战金三银四-分享-2-款适合程序员的简历模板](https://www.v2ex.com/t/830250) ![](assets/new.png)  
 - [2022-01-24-休闲椅-or-单人沙发求推荐](https://www.v2ex.com/t/830249) ![](assets/new.png)  
-- [2022-01-24-拜亚动力/森海塞尔现在还有性价比较高的耳机吗](https://www.v2ex.com/t/830247) ![](assets/new.png)  
-- [2022-01-24-请教-caj-转-pdf-的工具，网上很多都收费，特来求教](https://www.v2ex.com/t/830245) ![](assets/new.png)  
-- [2022-01-24-请问审批单据设计成宽表还是窄表](https://www.v2ex.com/t/830243) ![](assets/new.png)  
-- [2022-01-24-问一下音乐播放中的“随机播放”逻辑](https://www.v2ex.com/t/830242) ![](assets/new.png)  
-- [2022-01-24-问问大家-m1-mac-mini-8+512-的，韩国官翻版大概-5200-人民币，现在还值得买吗？](https://www.v2ex.com/t/830240) ![](assets/new.png)  
-- [2022-01-24-阿里小号打自己脸，-2-月-18-日前暂时回归-20-一年了](https://www.v2ex.com/t/830239) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -569,13 +569,13 @@
 - [2022-01-24-Ambari2.7安装配置](https://toutiao.io/k/2zvn0wv) ![](assets/new.png)  
 - [2022-01-24-嗨，我想和你分享一下千万级支付对账系统是怎么设计的。](https://toutiao.io/k/44s6x73) ![](assets/new.png)  
 - [2022-01-24-面渣逆袭：Java基础五十三问，快来看看有没有你不会的！](https://toutiao.io/k/hy8slfh) ![](assets/new.png)  
-- [2022-01-24-数据与广告系列三十一：智能调价oCPX，你以为赚的是保价，其实你丢的是流量](https://toutiao.io/k/5shtr8x) ![](assets/new.png)  
 - [2022-01-24-浅谈我的几点学习经验](https://toutiao.io/k/1cvtmkk) ![](assets/new.png)  
+- [2022-01-24-数据与广告系列三十一：智能调价oCPX，你以为赚的是保价，其实你丢的是流量](https://toutiao.io/k/5shtr8x) ![](assets/new.png)  
 - [2022-01-24-开发进阶：Dotnet-Core多路径异步终止](https://toutiao.io/k/k7m8122) ![](assets/new.png)  
 - [2022-01-24-Go1.18-新特性：编译后的二进制文件，将包含更多信息](https://toutiao.io/k/7vob07k) ![](assets/new.png)  
+- [2022-01-24-推荐-从MVC到DDD的架构演进](https://toutiao.io/k/c7mn7hz) ![](assets/new.png)  
+- [2022-01-24-推荐-Redis-很屌，不懂使用规范就糟蹋了](https://toutiao.io/k/lpnakbk) ![](assets/new.png)  
 - [2022-01-24-推荐-用规则引擎让你一天上线十个需求](https://toutiao.io/k/ldd1cse) ![](assets/new.png)  
-- [2022-01-24-推荐-浅谈缓存最终一致性的解决方案](https://toutiao.io/k/mgym1lv) ![](assets/new.png)  
-- [2022-01-24-推荐-优雅整洁的-Java-代码命名技巧，风之极·净化](https://toutiao.io/k/abc8vou) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

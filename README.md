@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-25 13:32:06，:rocket: 更新条数: +1811， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-25 13:37:11，:rocket: 更新条数: +1811， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-01-25-端传媒-畅读会员一年-拼车，年付-58-元/人](https://www.v2ex.com/t/830584) ![](assets/new.png)  
 - [2022-01-25-出全新未拆封-mbp14-寸](https://www.v2ex.com/t/830582) ![](assets/new.png)  
 - [2022-01-25-想做一套交流社区网站](https://www.v2ex.com/t/830580) ![](assets/new.png)  
 - [2022-01-25-光猫桥接到路由器后，十几分钟一次断线](https://www.v2ex.com/t/830579) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-01-25-有没有什么推荐的写项目使用文档的组件？](https://www.v2ex.com/t/830556) ![](assets/new.png)  
 - [2022-01-25-求推荐稳点的硬盘，两块希捷酷鱼-4T-同时挂了](https://www.v2ex.com/t/830555) ![](assets/new.png)  
 - [2022-01-25-26-了，有必要镀个金吗](https://www.v2ex.com/t/830554) ![](assets/new.png)  
-- [2022-01-25-20-岁的时候想，-5-年后的-25-岁会是什么样子呢](https://www.v2ex.com/t/830553) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -571,8 +571,8 @@
 - [2022-01-25-聊一聊如何用C#轻松完成一个SAGA分布式事务](https://toutiao.io/k/f1t7jy9) ![](assets/new.png)  
 - [2022-01-25-OpenPPL-CUDA-技术解析](https://toutiao.io/k/zyuypw7) ![](assets/new.png)  
 - [2022-01-25-CPT：刷爆少样本REC任务！清华刘知远团队提出跨模态预训练Prompt-Tuning](https://toutiao.io/k/m7jujv7) ![](assets/new.png)  
-- [2022-01-25-推荐-优雅整洁的-Java-代码命名技巧，风之极·净化](https://toutiao.io/k/abc8vou) ![](assets/new.png)  
-- [2022-01-25-推荐-3万字-|-34-图-|-Netty-|-内核角度看IO模型](https://toutiao.io/k/zavpca4) ![](assets/new.png)  
+- [2022-01-25-推荐-Redis-很屌，不懂使用规范就糟蹋了](https://toutiao.io/k/lpnakbk) ![](assets/new.png)  
+- [2022-01-25-推荐-浅谈缓存最终一致性的解决方案](https://toutiao.io/k/mgym1lv) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

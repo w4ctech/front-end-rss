@@ -1,11 +1,14 @@
-:alarm_clock: 更新时间: 2022-01-25 06:14:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-01-25 06:25:06。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
-- [2022-01-25-Testdocs-写作学习和知识沉淀平台-可远程可坐班-按照工时结算](https://www.v2ex.com/t/830489) 
+- [2022-01-25-观站内讨论医生与程序员职业有感。](https://www.v2ex.com/t/830494) 
+- [2022-01-25-csdn-用的-markdown,-rst,-和-adoc-翻译器是我做的](https://www.v2ex.com/t/830493) 
+- [2022-01-25-国内的外企是不是都是中国人管中国人，还拿着国内标准的待遇](https://www.v2ex.com/t/830492) 
+- [2022-01-25-上海-Testdocs-写作学习和知识沉淀平台-可远程可坐班-按照工时结算](https://www.v2ex.com/t/830489) 
 - [2022-01-25-怎么才不被发送垃圾消息？](https://www.v2ex.com/t/830488) 
 - [2022-01-25-请教个腾讯云-dokcer-容器的问题：无论是宿主机还说容器，都无法启动-cron-任务](https://www.v2ex.com/t/830487) 
 - [2022-01-25-大佬们-js-世界地图可视化有推荐的库吗](https://www.v2ex.com/t/830486) 
@@ -43,5 +46,3 @@
 - [2022-01-25-武汉过年](https://www.v2ex.com/t/830447) 
 - [2022-01-25-一行-JS-打开屏幕拾色器](https://www.v2ex.com/t/830446) 
 - [2022-01-25-哪些变量是要放在-data-选项里的？](https://www.v2ex.com/t/830445) 
-- [2022-01-25-各位-v-友，目前有一个域名-mvvm.io、ruanlan.cn，做点什么好？](https://www.v2ex.com/t/830441) 
-- [2022-01-25-全球顶级高频交易公司之一-Position:-Network-Engineer,-Shangha-薪酬福利很赞](https://www.v2ex.com/t/830440) 

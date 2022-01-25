@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-25 06:14:26，:rocket: 更新条数: +1814， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-25 06:25:06，:rocket: 更新条数: +1815， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,7 +491,10 @@
 </summary>
 
 
-- [2022-01-25-Testdocs-写作学习和知识沉淀平台-可远程可坐班-按照工时结算](https://www.v2ex.com/t/830489) ![](assets/new.png)  
+- [2022-01-25-观站内讨论医生与程序员职业有感。](https://www.v2ex.com/t/830494) ![](assets/new.png)  
+- [2022-01-25-csdn-用的-markdown,-rst,-和-adoc-翻译器是我做的](https://www.v2ex.com/t/830493) ![](assets/new.png)  
+- [2022-01-25-国内的外企是不是都是中国人管中国人，还拿着国内标准的待遇](https://www.v2ex.com/t/830492) ![](assets/new.png)  
+- [2022-01-25-上海-Testdocs-写作学习和知识沉淀平台-可远程可坐班-按照工时结算](https://www.v2ex.com/t/830489) ![](assets/new.png)  
 - [2022-01-25-怎么才不被发送垃圾消息？](https://www.v2ex.com/t/830488) ![](assets/new.png)  
 - [2022-01-25-请教个腾讯云-dokcer-容器的问题：无论是宿主机还说容器，都无法启动-cron-任务](https://www.v2ex.com/t/830487) ![](assets/new.png)  
 - [2022-01-25-大佬们-js-世界地图可视化有推荐的库吗](https://www.v2ex.com/t/830486) ![](assets/new.png)  
@@ -508,9 +511,6 @@
 - [2022-01-25-北京朝阳区的核酸检测点地图](https://www.v2ex.com/t/830474) ![](assets/new.png)  
 - [2022-01-25-Idea-启动-Springboot-工程后，报如下错误](https://www.v2ex.com/t/830473) ![](assets/new.png)  
 - [2022-01-25-现在-aws-客服都没法打通大陆电话号码了](https://www.v2ex.com/t/830472) ![](assets/new.png)  
-- [2022-01-25-迫于-ps5，收-4000-京东-e-卡。](https://www.v2ex.com/t/830471) ![](assets/new.png)  
-- [2022-01-25-2022-年了，百度云实名认证居然还要-3-5-个工作日，我滴妈呀](https://www.v2ex.com/t/830470) ![](assets/new.png)  
-- [2022-01-25-创业团队寻找伙伴](https://www.v2ex.com/t/830467) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -565,14 +565,14 @@
 - [2022-01-25-开发者的瑞士军刀「GitHub-热点速览」](https://toutiao.io/k/9szt6fr) ![](assets/new.png)  
 - [2022-01-25-为什么SpringBoot-jar包中的文件读取不到？](https://toutiao.io/k/dnx4tha) ![](assets/new.png)  
 - [2022-01-25-基于Calcite的分布式多数据源查询](https://toutiao.io/k/zw4evb3) ![](assets/new.png)  
-- [2022-01-25-SkyWalking-针对-gRPC-的负载均衡和自动扩容实践](https://toutiao.io/k/9you17q) ![](assets/new.png)  
 - [2022-01-25-聊一聊如何用C#轻松完成一个SAGA分布式事务](https://toutiao.io/k/f1t7jy9) ![](assets/new.png)  
+- [2022-01-25-SkyWalking-针对-gRPC-的负载均衡和自动扩容实践](https://toutiao.io/k/9you17q) ![](assets/new.png)  
+- [2022-01-25-OpenPPL-CUDA-技术解析](https://toutiao.io/k/zyuypw7) ![](assets/new.png)  
 - [2022-01-25-在线进行分库分表中间件的平滑升级，正所谓艺高人胆大](https://toutiao.io/k/rvyc15u) ![](assets/new.png)  
 - [2022-01-25-JVM调优的几种场景（建议收藏）](https://toutiao.io/k/fib82nl) ![](assets/new.png)  
-- [2022-01-25-OpenPPL-CUDA-技术解析](https://toutiao.io/k/zyuypw7) ![](assets/new.png)  
 - [2022-01-25-CPT：刷爆少样本REC任务！清华刘知远团队提出跨模态预训练Prompt-Tuning](https://toutiao.io/k/m7jujv7) ![](assets/new.png)  
-- [2022-01-25-推荐-从零开始搭建公司微服务授权架构技术栈（3种模式），这架构稳的一批...](https://toutiao.io/k/4g58j8v) ![](assets/new.png)  
-- [2022-01-25-推荐-从MVC到DDD的架构演进](https://toutiao.io/k/c7mn7hz) ![](assets/new.png)  
+- [2022-01-25-推荐-Redis-很屌，不懂使用规范就糟蹋了](https://toutiao.io/k/lpnakbk) ![](assets/new.png)  
+- [2022-01-25-推荐-优雅整洁的-Java-代码命名技巧，风之极·净化](https://toutiao.io/k/abc8vou) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

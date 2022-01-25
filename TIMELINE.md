@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-01-25 00:43:09。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-01-25 01:14:49。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,7 +68,7 @@
 </summary>
 
 
-- [【武汉肺炎防疫全纪录(财新网)】2022-01-24-最新疫情：全国新冠累计确诊105660例-累计接种新冠疫苗超29.68亿剂次](https://m.caixin.com/m/2022-01-24/101834232.html) 
+- [【武汉肺炎防疫全纪录(财新网)】2022-01-25-1月24日全国新增新冠45例-六省份本土18例](https://m.caixin.com/m/2022-01-25/101834386.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2022-01-24-北京新增本土感染者9例-丰台将启第二轮核酸筛查](https://m.caixin.com/m/2022-01-24/101834253.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2022-01-24-上海新增1例确诊-系机场货运区办理进口业务人员](https://m.caixin.com/m/2022-01-24/101834050.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2022-01-24-港大发现新药物组合可作为潜在广谱抗新冠口服药](https://m.caixin.com/m/2022-01-24/101834067.html) 
@@ -222,6 +222,11 @@
 - [【阮一峰的网络日志】2022-01-21-科技爱好者周刊（第-193-期）：前端与后端，谁更难？](http://www.ruanyifeng.com/blog/2022/01/weekly-issue-193.html) 
 - [【阮一峰的网络日志】2022-01-14-科技爱好者周刊（第-192-期）：最大的机会来自新技术](http://www.ruanyifeng.com/blog/2022/01/weekly-issue-192.html) 
 - [【阮一峰的网络日志】2022-01-07-科技爱好者周刊（第-191-期）：一个程序员的财务独立之路](http://www.ruanyifeng.com/blog/2022/01/weekly-issue-191.html) 
+- [【V2EX】2022-01-25-话说我宽带网速都有挺好-有-1000M，但为啥用-Chrome-系浏览器看-B-站经常缓冲不过来？](https://www.v2ex.com/t/830394) 
+- [【V2EX】2022-01-25-请问-Clion-的跳转是基于-cmake-的吗？那该怎么用容器开发呢？](https://www.v2ex.com/t/830393) 
+- [【V2EX】2022-01-25-关于机器学习中应用线性回归的几点疑问](https://www.v2ex.com/t/830392) 
+- [【V2EX】2022-01-25-身边的同事基本都买房了，感觉自己好失败，谁来安慰下我](https://www.v2ex.com/t/830390) 
+- [【V2EX】2022-01-25-AirPods3-连接-mbp-只有单边有声音](https://www.v2ex.com/t/830389) 
 - [【V2EX】2022-01-25-13-Pro-Max-续航真的是刚](https://www.v2ex.com/t/830388) 
 - [【V2EX】2022-01-25-大早上的健康宝弹窗了,计划已乱](https://www.v2ex.com/t/830387) 
 - [【V2EX】2022-01-24-有什么好用的-url-缩短服务吗？](https://www.v2ex.com/t/830386) 
@@ -256,11 +261,6 @@
 - [【V2EX】2022-01-24-每次临近放假就不想学习，怎么整？](https://www.v2ex.com/t/830348) 
 - [【V2EX】2022-01-24-Hi-维修的那个超大容量电池-咋样？](https://www.v2ex.com/t/830347) 
 - [【V2EX】2022-01-24-Bitwarden-安卓-APP-速度太慢](https://www.v2ex.com/t/830346) 
-- [【V2EX】2022-01-24-长沙/成都-C++/分布式存储开发工程师,待遇30-60k](https://www.v2ex.com/t/830344) 
-- [【V2EX】2022-01-24-搞-android-的学-Swift-成本怎么样？](https://www.v2ex.com/t/830343) 
-- [【V2EX】2022-01-24-小弟请教一个-maven-插件开发的问题](https://www.v2ex.com/t/830342) 
-- [【V2EX】2022-01-24-话说-Win10-从-1909-升级到-21H-版本有重装比直接升级更好的说法嘛？](https://www.v2ex.com/t/830341) 
-- [【V2EX】2022-01-24-c++函数返回临时变量和局部变量，有什么区别？](https://www.v2ex.com/t/830339) 
 - [【技术头条】2022-01-25-微服务坏味道之循环依赖-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14907&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fmicroservices-bad-smell-circular-dependency%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-01-25-高效编写测试用例的技巧-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14906&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fwrite-effective-testcases-tips%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-01-25-软件工程师应该如何吵架？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14905&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fsoftware-engineer-quarrel-culture%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -282,24 +282,24 @@
 - [【技术头条】2022-01-25-微信Windows版本干了件大事！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14889&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247492923%26amp%3Bidx%3D2%26amp%3Bsn%3Dc9c6fa08f8b83076a9c54be2f332c552%26amp%3Bchksm%3Dfa3f0460cd488d760fec7aab0ad0ee572186ed51bd269393426c617030e7ac3b63d164b6e572%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-01-25-一位10年Google工程师给技术人的建议-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14888&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247492913%26amp%3Bidx%3D1%26amp%3Bsn%3Dac389822c4e6f5899bf51ab9abd8aa3b%26amp%3Bchksm%3Dfa3f046acd488d7cbcc06db3b901854c31fcb2e4a724a20be7c60e969c8d4ad9796a077e703d%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【开发者头条】2022-01-25-几张图搞定Spring-Cloud-Allibaba注册中心的架构原理](https://toutiao.io/k/kjzeych) 
-- [【开发者头条】2022-01-25-平安保险基于-SPI-机制的-RocketMQ-定制化应用](https://toutiao.io/k/w3wrja5) 
 - [【开发者头条】2022-01-25-10-款优雅的-Go-语言开发工具](https://toutiao.io/k/6rzknxe) 
-- [【开发者头条】2022-01-25-腾讯云十亿级-Node.js-网关的架构设计与工程实践](https://toutiao.io/k/4dc37rq) 
+- [【开发者头条】2022-01-25-平安保险基于-SPI-机制的-RocketMQ-定制化应用](https://toutiao.io/k/w3wrja5) 
 - [【开发者头条】2022-01-25-前端该如何优雅地Mock数据](https://toutiao.io/k/dfahlpc) 
+- [【开发者头条】2022-01-25-腾讯云十亿级-Node.js-网关的架构设计与工程实践](https://toutiao.io/k/4dc37rq) 
 - [【开发者头条】2022-01-25-Streaming-101:批处理之外的流式世界第一部分](https://toutiao.io/k/uljyrzy) 
 - [【开发者头条】2022-01-25-马斯克：载人飞船上天前，我曾跪地祈祷；中台的本质和设计之道；Go-GC-调优｜码农周刊VIP会员专属邮件周报-Vol.078](https://toutiao.io/k/y0dtjke) 
-- [【开发者头条】2022-01-25-推荐-浅谈缓存最终一致性的解决方案](https://toutiao.io/k/mgym1lv) 
-- [【开发者头条】2022-01-25-推荐-Redis-很屌，不懂使用规范就糟蹋了](https://toutiao.io/k/lpnakbk) 
-- [【开发者头条】2022-01-25-推荐-优雅整洁的-Java-代码命名技巧，风之极·净化](https://toutiao.io/k/abc8vou) 
-- [【开发者头条】2022-01-25-推荐-从零开始搭建公司微服务授权架构技术栈（3种模式），这架构稳的一批...](https://toutiao.io/k/4g58j8v) 
-- [【开发者头条】2022-01-25-推荐-据说看完这篇-JVM-要一小时](https://toutiao.io/k/1dauixx) 
 - [【开发者头条】2022-01-25-推荐-面渣逆袭：Java并发六十问，图文详解，快来看看你会多少道！](https://toutiao.io/k/4ndh1gd) 
-- [【开发者头条】2022-01-25-推荐-服务探活的五种方式](https://toutiao.io/k/1wuwmui) 
-- [【开发者头条】2022-01-25-推荐-面试官问：设计高并发系统的时候，数据库层面该如何设计？](https://toutiao.io/k/p935kqr) 
-- [【开发者头条】2022-01-25-推荐-从MVC到DDD的架构演进](https://toutiao.io/k/c7mn7hz) 
+- [【开发者头条】2022-01-25-推荐-从零开始搭建公司微服务授权架构技术栈（3种模式），这架构稳的一批...](https://toutiao.io/k/4g58j8v) 
 - [【开发者头条】2022-01-25-推荐-关于代码质量退化的思考](https://toutiao.io/k/zzaz6vu) 
+- [【开发者头条】2022-01-25-推荐-面试官问：设计高并发系统的时候，数据库层面该如何设计？](https://toutiao.io/k/p935kqr) 
+- [【开发者头条】2022-01-25-推荐-Redis-很屌，不懂使用规范就糟蹋了](https://toutiao.io/k/lpnakbk) 
+- [【开发者头条】2022-01-25-推荐-据说看完这篇-JVM-要一小时](https://toutiao.io/k/1dauixx) 
 - [【开发者头条】2022-01-25-推荐-3万字-|-34-图-|-Netty-|-内核角度看IO模型](https://toutiao.io/k/zavpca4) 
+- [【开发者头条】2022-01-25-推荐-从MVC到DDD的架构演进](https://toutiao.io/k/c7mn7hz) 
 - [【开发者头条】2022-01-25-推荐-JVM调优的几种场景（建议收藏）](https://toutiao.io/k/0mfx2nd) 
+- [【开发者头条】2022-01-25-推荐-浅谈缓存最终一致性的解决方案](https://toutiao.io/k/mgym1lv) 
+- [【开发者头条】2022-01-25-推荐-优雅整洁的-Java-代码命名技巧，风之极·净化](https://toutiao.io/k/abc8vou) 
+- [【开发者头条】2022-01-25-推荐-服务探活的五种方式](https://toutiao.io/k/1wuwmui) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

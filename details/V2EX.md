@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2022-01-25 15:22:06。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-01-25 15:40:52。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-01-25-MIT-线性代数更新了-2020-版-Gilbert-Strang](https://www.v2ex.com/t/830599) 
 - [2022-01-25-入了小米-ac2100-刷了老毛子，寻更多使用姿势](https://www.v2ex.com/t/830597) 
 - [2022-01-25-请问下-Golang-有类似-MongoDB-自带那种交互式的实现吗，试了下-mongodb-的-golang-库似乎没有实现这种可以自已输入命令的方法](https://www.v2ex.com/t/830596) 
 - [2022-01-25-chrome-是怎么知道你有多少密码被泄露的，有没有内部人士来说说](https://www.v2ex.com/t/830595) 

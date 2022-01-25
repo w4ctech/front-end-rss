@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-25 20:21:53，:rocket: 更新条数: +1809， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-25 20:37:43，:rocket: 更新条数: +1810， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-01-25-pycharm-如何快速打出三双引号快捷键?](https://www.v2ex.com/t/830614) ![](assets/new.png)  
 - [2022-01-25-是否可以逆向思维倒逼苹果推出-USB-C-的-iPhone](https://www.v2ex.com/t/830613) ![](assets/new.png)  
 - [2022-01-25-subprocess-怎么样才能切换到特定用户呢？](https://www.v2ex.com/t/830612) ![](assets/new.png)  
 - [2022-01-25-这不也年底了，吐槽一下现在所在的公司](https://www.v2ex.com/t/830610) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-01-25-.Net-技术摸索笔记，希望大家一起完善起来](https://www.v2ex.com/t/830592) ![](assets/new.png)  
 - [2022-01-25-阿里云有对标腾讯云的云开发能力吗？](https://www.v2ex.com/t/830591) ![](assets/new.png)  
 - [2022-01-25-有没有支持-ipv6-wol-的-Android-app？](https://www.v2ex.com/t/830590) ![](assets/new.png)  
-- [2022-01-25-国产安卓机的系统怎么用得下手的啊...](https://www.v2ex.com/t/830589) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -571,8 +571,8 @@
 - [2022-01-25-聊一聊如何用C#轻松完成一个SAGA分布式事务](https://toutiao.io/k/f1t7jy9) ![](assets/new.png)  
 - [2022-01-25-OpenPPL-CUDA-技术解析](https://toutiao.io/k/zyuypw7) ![](assets/new.png)  
 - [2022-01-25-CPT：刷爆少样本REC任务！清华刘知远团队提出跨模态预训练Prompt-Tuning](https://toutiao.io/k/m7jujv7) ![](assets/new.png)  
-- [2022-01-25-推荐-面试官问：设计高并发系统的时候，数据库层面该如何设计？](https://toutiao.io/k/p935kqr) ![](assets/new.png)  
-- [2022-01-25-推荐-据说看完这篇-JVM-要一小时](https://toutiao.io/k/1dauixx) ![](assets/new.png)  
+- [2022-01-25-推荐-3万字-|-34-图-|-Netty-|-内核角度看IO模型](https://toutiao.io/k/zavpca4) ![](assets/new.png)  
+- [2022-01-25-推荐-服务探活的五种方式](https://toutiao.io/k/1wuwmui) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

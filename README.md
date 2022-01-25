@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-25 09:54:39，:rocket: 更新条数: +1811， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-25 10:13:16，:rocket: 更新条数: +1810， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,11 @@
 </summary>
 
 
+- [2022-01-25-26-了，有必要镀个金吗](https://www.v2ex.com/t/830554) ![](assets/new.png)  
+- [2022-01-25-20-岁的时候想，-5-年后的-25-岁会是什么样子呢](https://www.v2ex.com/t/830553) ![](assets/new.png)  
+- [2022-01-25-新版-iOS-微信内置的权限管理好评](https://www.v2ex.com/t/830552) ![](assets/new.png)  
+- [2022-01-25-纯-Python-如何-优雅可靠地下载文件](https://www.v2ex.com/t/830551) ![](assets/new.png)  
+- [2022-01-25-你们用-airpods-参与腾讯会议的时候，说话声音会糊掉吗？](https://www.v2ex.com/t/830550) ![](assets/new.png)  
 - [2022-01-25-发个招聘。前景无限，不缺钱！](https://www.v2ex.com/t/830547) ![](assets/new.png)  
 - [2022-01-25-好的-IM-软件需要具备什么优点呢？](https://www.v2ex.com/t/830546) ![](assets/new.png)  
 - [2022-01-25-Hodl4Gold-H4G-收购-POW，成为-BSC-网络中的并购创举](https://www.v2ex.com/t/830545) ![](assets/new.png)  
@@ -506,11 +511,6 @@
 - [2022-01-25-给读高中的表弟买电脑，-3~4-千价位](https://www.v2ex.com/t/830534) ![](assets/new.png)  
 - [2022-01-25-github-上有苹果用的纯净的中国法定节假日的日历订阅吗？](https://www.v2ex.com/t/830533) ![](assets/new.png)  
 - [2022-01-25-江苏电信访问一些网站自动跳转到反炸页面从而阻止用户访问](https://www.v2ex.com/t/830528) ![](assets/new.png)  
-- [2022-01-25-使用-Tin-快速安装-MateCloud](https://www.v2ex.com/t/830527) ![](assets/new.png)  
-- [2022-01-25-小程序推荐-大家都回家了吧，安利一个打牌计分小程序，给大家助助兴！](https://www.v2ex.com/t/830526) ![](assets/new.png)  
-- [2022-01-25-2022-年了，-win10-中文输入法/变成、的设定改回去了吗](https://www.v2ex.com/t/830525) ![](assets/new.png)  
-- [2022-01-25-蓝湖的年度总结出来了，有彩蛋？](https://www.v2ex.com/t/830522) ![](assets/new.png)  
-- [2022-01-25-go-byte-切片初始化是有语法糖嘛](https://www.v2ex.com/t/830521) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -571,8 +571,8 @@
 - [2022-01-25-聊一聊如何用C#轻松完成一个SAGA分布式事务](https://toutiao.io/k/f1t7jy9) ![](assets/new.png)  
 - [2022-01-25-OpenPPL-CUDA-技术解析](https://toutiao.io/k/zyuypw7) ![](assets/new.png)  
 - [2022-01-25-CPT：刷爆少样本REC任务！清华刘知远团队提出跨模态预训练Prompt-Tuning](https://toutiao.io/k/m7jujv7) ![](assets/new.png)  
-- [2022-01-25-推荐-面渣逆袭：Java并发六十问，图文详解，快来看看你会多少道！](https://toutiao.io/k/4ndh1gd) ![](assets/new.png)  
-- [2022-01-25-推荐-Redis-很屌，不懂使用规范就糟蹋了](https://toutiao.io/k/lpnakbk) ![](assets/new.png)  
+- [2022-01-25-推荐-浅谈缓存最终一致性的解决方案](https://toutiao.io/k/mgym1lv) ![](assets/new.png)  
+- [2022-01-25-推荐-面试官问：设计高并发系统的时候，数据库层面该如何设计？](https://toutiao.io/k/p935kqr) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

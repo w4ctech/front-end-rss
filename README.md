@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-25 17:55:56，:rocket: 更新条数: +1808， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-25 18:14:50，:rocket: 更新条数: +1809， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-01-25-是否可以逆向思维倒逼苹果推出-USB-C-的-iPhone](https://www.v2ex.com/t/830613) ![](assets/new.png)  
+- [2022-01-25-subprocess-怎么样才能切换到特定用户呢？](https://www.v2ex.com/t/830612) ![](assets/new.png)  
 - [2022-01-25-这不也年底了，吐槽一下现在所在的公司](https://www.v2ex.com/t/830610) ![](assets/new.png)  
 - [2022-01-25-上海---美国直属子公司---混合办公---与-HR-PY-了一些初级开发岗位。1-2-年，-2020-届强推。面试简单，光速安排，语言不限，需要进来转-SAP-ABAP。初中级大数...](https://www.v2ex.com/t/830608) ![](assets/new.png)  
 - [2022-01-25-无需下载的“5G-消息”正式商用，个人使用按短信收费。来说说你会使用吗？](https://www.v2ex.com/t/830606) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-01-25-阿里云有对标腾讯云的云开发能力吗？](https://www.v2ex.com/t/830591) ![](assets/new.png)  
 - [2022-01-25-有没有支持-ipv6-wol-的-Android-app？](https://www.v2ex.com/t/830590) ![](assets/new.png)  
 - [2022-01-25-国产安卓机的系统怎么用得下手的啊...](https://www.v2ex.com/t/830589) ![](assets/new.png)  
-- [2022-01-25-截面回归是否有比较简单的例子？](https://www.v2ex.com/t/830588) ![](assets/new.png)  
-- [2022-01-25-老家办理的是假期宽带，合约-1-年，-300-元，-2017-年办理，近-1-年停机，未开机，未用，显示欠费-200+](https://www.v2ex.com/t/830587) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -572,7 +572,7 @@
 - [2022-01-25-OpenPPL-CUDA-技术解析](https://toutiao.io/k/zyuypw7) ![](assets/new.png)  
 - [2022-01-25-CPT：刷爆少样本REC任务！清华刘知远团队提出跨模态预训练Prompt-Tuning](https://toutiao.io/k/m7jujv7) ![](assets/new.png)  
 - [2022-01-25-推荐-优雅整洁的-Java-代码命名技巧，风之极·净化](https://toutiao.io/k/abc8vou) ![](assets/new.png)  
-- [2022-01-25-推荐-面渣逆袭：Java并发六十问，图文详解，快来看看你会多少道！](https://toutiao.io/k/4ndh1gd) ![](assets/new.png)  
+- [2022-01-25-推荐-从MVC到DDD的架构演进](https://toutiao.io/k/c7mn7hz) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -8858,6 +8858,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "美光上海 DRAM 设计团队解散，核心成员可携眷技术移民美国",
+        "link": "https://www.v2ex.com/t/830615",
+        "date": "2022-01-25"
+      },
+      {
         "title": "pycharm 如何快速打出三双引号快捷键?",
         "link": "https://www.v2ex.com/t/830614",
         "date": "2022-01-25"
@@ -9247,6 +9252,11 @@
         "date": "2022-01-25"
       },
       {
+        "title": "[推荐] 面渣逆袭：Java并发六十问，图文详解，快来看看你会多少道！",
+        "link": "https://toutiao.io/k/4ndh1gd",
+        "date": "2022-01-25"
+      },
+      {
         "title": "[推荐] 服务探活的五种方式",
         "link": "https://toutiao.io/k/1wuwmui",
         "date": "2022-01-25"
@@ -9257,13 +9267,13 @@
         "date": "2022-01-25"
       },
       {
-        "title": "[推荐] 优雅整洁的 Java 代码命名技巧，风之极·净化",
-        "link": "https://toutiao.io/k/abc8vou",
+        "title": "[推荐] Redis 很屌，不懂使用规范就糟蹋了",
+        "link": "https://toutiao.io/k/lpnakbk",
         "date": "2022-01-25"
       },
       {
-        "title": "[推荐] 据说看完这篇 JVM 要一小时",
-        "link": "https://toutiao.io/k/1dauixx",
+        "title": "[推荐] 优雅整洁的 Java 代码命名技巧，风之极·净化",
+        "link": "https://toutiao.io/k/abc8vou",
         "date": "2022-01-25"
       },
       {
@@ -9272,18 +9282,13 @@
         "date": "2022-01-25"
       },
       {
+        "title": "[推荐] 据说看完这篇 JVM 要一小时",
+        "link": "https://toutiao.io/k/1dauixx",
+        "date": "2022-01-25"
+      },
+      {
         "title": "[推荐] 从MVC到DDD的架构演进",
         "link": "https://toutiao.io/k/c7mn7hz",
-        "date": "2022-01-25"
-      },
-      {
-        "title": "[推荐] Redis 很屌，不懂使用规范就糟蹋了",
-        "link": "https://toutiao.io/k/lpnakbk",
-        "date": "2022-01-25"
-      },
-      {
-        "title": "[推荐] 面渣逆袭：Java并发六十问，图文详解，快来看看你会多少道！",
-        "link": "https://toutiao.io/k/4ndh1gd",
         "date": "2022-01-25"
       }
     ]

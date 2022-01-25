@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-25 03:13:10，:rocket: 更新条数: +1807， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-25 03:23:04，:rocket: 更新条数: +1802， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -37,7 +37,7 @@
 - [程序员成长指北](#程序员成长指北)  
 - [Nodejs技术栈](#nodejs技术栈)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
-- [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
+- [阮一峰的网络日志](#阮一峰的网络日志)  
 - [京东设计中心](#京东设计中心)  
 - [凹凸实验室](#凹凸实验室)  
 - [奇舞周刊](#奇舞周刊)  
@@ -337,9 +337,6 @@
 </summary>
 
 
-- [2022-01-21-科技爱好者周刊（第-193-期）：前端与后端，谁更难？](http://www.ruanyifeng.com/blog/2022/01/weekly-issue-193.html) ![](assets/new.png)  
-- [2022-01-14-科技爱好者周刊（第-192-期）：最大的机会来自新技术](http://www.ruanyifeng.com/blog/2022/01/weekly-issue-192.html) ![](assets/new.png)  
-- [2022-01-07-科技爱好者周刊（第-191-期）：一个程序员的财务独立之路](http://www.ruanyifeng.com/blog/2022/01/weekly-issue-191.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/阮一峰的网络日志.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -494,6 +491,8 @@
 </summary>
 
 
+- [2022-01-25-哪些变量是要放在-data-选项里的？](https://www.v2ex.com/t/830445) ![](assets/new.png)  
+- [2022-01-25-各位-v-友，目前有一个域名-mvvm.io、ruanlan.cn，做点什么好？](https://www.v2ex.com/t/830441) ![](assets/new.png)  
 - [2022-01-25-全球顶级高频交易公司之一-Position:-Network-Engineer,-Shangha-薪酬福利很赞](https://www.v2ex.com/t/830440) ![](assets/new.png)  
 - [2022-01-25-AppStore-点开-app-简介的“更多”之后掉帧非常严重](https://www.v2ex.com/t/830439) ![](assets/new.png)  
 - [2022-01-25-有没有国内地图运营商-有像-google-那样的国外地图的](https://www.v2ex.com/t/830438) ![](assets/new.png)  
@@ -512,8 +511,6 @@
 - [2022-01-25-zt-的-allowGlobal-选项有办法设置为永久或者写在配置文件里面？及其痛苦](https://www.v2ex.com/t/830422) ![](assets/new.png)  
 - [2022-01-25-airpods-电话来电,耳机爆炸](https://www.v2ex.com/t/830421) ![](assets/new.png)  
 - [2022-01-25-学软件开发上网课，-1-个-27-寸显示器-VS-2-个-24-寸显示器，选哪个？](https://www.v2ex.com/t/830420) ![](assets/new.png)  
-- [2022-01-25-webpack-里面-definePlugin-里面定义了一些-process.env-的变量，这个是如何应用到-runtime-环境的？](https://www.v2ex.com/t/830419) ![](assets/new.png)  
-- [2022-01-25-macOS，-200-元以下的无线鼠标都是垃圾doge](https://www.v2ex.com/t/830416) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -565,17 +562,17 @@
 - [2022-01-25-Streaming-101:批处理之外的流式世界第一部分](https://toutiao.io/k/uljyrzy) ![](assets/new.png)  
 - [2022-01-25-《雷锤3》魔数你见过吗？这10行代码简直吊炸天!](https://toutiao.io/k/5rqz8x0) ![](assets/new.png)  
 - [2022-01-25-如何落地业务建模4-将模型实现为RESTful-API](https://toutiao.io/k/g9bytug) ![](assets/new.png)  
-- [2022-01-25-推荐-浅谈缓存最终一致性的解决方案](https://toutiao.io/k/mgym1lv) ![](assets/new.png)  
-- [2022-01-25-推荐-从零开始搭建公司微服务授权架构技术栈（3种模式），这架构稳的一批...](https://toutiao.io/k/4g58j8v) ![](assets/new.png)  
+- [2022-01-25-推荐-JVM调优的几种场景（建议收藏）](https://toutiao.io/k/0mfx2nd) ![](assets/new.png)  
+- [2022-01-25-推荐-面渣逆袭：Java并发六十问，图文详解，快来看看你会多少道！](https://toutiao.io/k/4ndh1gd) ![](assets/new.png)  
 - [2022-01-25-推荐-Redis-很屌，不懂使用规范就糟蹋了](https://toutiao.io/k/lpnakbk) ![](assets/new.png)  
-- [2022-01-25-推荐-关于代码质量退化的思考](https://toutiao.io/k/zzaz6vu) ![](assets/new.png)  
-- [2022-01-25-推荐-3万字-|-34-图-|-Netty-|-内核角度看IO模型](https://toutiao.io/k/zavpca4) ![](assets/new.png)  
+- [2022-01-25-推荐-浅谈缓存最终一致性的解决方案](https://toutiao.io/k/mgym1lv) ![](assets/new.png)  
 - [2022-01-25-推荐-面试官问：设计高并发系统的时候，数据库层面该如何设计？](https://toutiao.io/k/p935kqr) ![](assets/new.png)  
 - [2022-01-25-推荐-据说看完这篇-JVM-要一小时](https://toutiao.io/k/1dauixx) ![](assets/new.png)  
-- [2022-01-25-推荐-面渣逆袭：Java并发六十问，图文详解，快来看看你会多少道！](https://toutiao.io/k/4ndh1gd) ![](assets/new.png)  
+- [2022-01-25-推荐-优雅整洁的-Java-代码命名技巧，风之极·净化](https://toutiao.io/k/abc8vou) ![](assets/new.png)  
+- [2022-01-25-推荐-3万字-|-34-图-|-Netty-|-内核角度看IO模型](https://toutiao.io/k/zavpca4) ![](assets/new.png)  
 - [2022-01-25-推荐-服务探活的五种方式](https://toutiao.io/k/1wuwmui) ![](assets/new.png)  
-- [2022-01-25-推荐-从MVC到DDD的架构演进](https://toutiao.io/k/c7mn7hz) ![](assets/new.png)  
-- [2022-01-25-推荐-JVM调优的几种场景（建议收藏）](https://toutiao.io/k/0mfx2nd) ![](assets/new.png)  
+- [2022-01-25-推荐-关于代码质量退化的思考](https://toutiao.io/k/zzaz6vu) ![](assets/new.png)  
+- [2022-01-25-推荐-从零开始搭建公司微服务授权架构技术栈（3种模式），这架构稳的一批...](https://toutiao.io/k/4g58j8v) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2022-01-25 09:12:41。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-01-25 09:21:03。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-01-25-Hodl4Gold-H4G-收购-POW，成为-BSC-网络中的并购创举](https://www.v2ex.com/t/830545) 
 - [2022-01-25-在大陸這麼做有什麼風險嗎](https://www.v2ex.com/t/830543) 
 - [2022-01-25-刚发年终奖半小时就提离职好不好](https://www.v2ex.com/t/830542) 
 - [2022-01-25-各位大佬们，问个友盟登录的问题，](https://www.v2ex.com/t/830541) 
@@ -41,4 +42,3 @@
 - [2022-01-25-不懂就问，-b-站大会员有什么用呢](https://www.v2ex.com/t/830499) 
 - [2022-01-25-求助-JDBC-的-statement-和-preparedStaement-执行结果不同](https://www.v2ex.com/t/830498) 
 - [2022-01-25-有没有练习-Vim-的网站或者软件推荐？](https://www.v2ex.com/t/830497) 
-- [2022-01-25-观站内讨论医生与程序员职业有感。](https://www.v2ex.com/t/830494) 

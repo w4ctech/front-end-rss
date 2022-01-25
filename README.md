@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-25 09:12:41，:rocket: 更新条数: +1811， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-25 09:21:03，:rocket: 更新条数: +1811， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-01-25-Hodl4Gold-H4G-收购-POW，成为-BSC-网络中的并购创举](https://www.v2ex.com/t/830545) ![](assets/new.png)  
 - [2022-01-25-在大陸這麼做有什麼風險嗎](https://www.v2ex.com/t/830543) ![](assets/new.png)  
 - [2022-01-25-刚发年终奖半小时就提离职好不好](https://www.v2ex.com/t/830542) ![](assets/new.png)  
 - [2022-01-25-各位大佬们，问个友盟登录的问题，](https://www.v2ex.com/t/830541) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-01-25-go-byte-切片初始化是有语法糖嘛](https://www.v2ex.com/t/830521) ![](assets/new.png)  
 - [2022-01-25-请教各位技术大佬，根据把图片嵌入视频模板，快速生成一个视频，技术栈是什么呀。](https://www.v2ex.com/t/830519) ![](assets/new.png)  
 - [2022-01-25-Workflow-正式进入-Debian-Linux-安装包](https://www.v2ex.com/t/830518) ![](assets/new.png)  
-- [2022-01-25-Q4-绩效评-C-得过-C-的不发年终，想提桶跑路，越想越气](https://www.v2ex.com/t/830517) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -571,8 +571,8 @@
 - [2022-01-25-聊一聊如何用C#轻松完成一个SAGA分布式事务](https://toutiao.io/k/f1t7jy9) ![](assets/new.png)  
 - [2022-01-25-OpenPPL-CUDA-技术解析](https://toutiao.io/k/zyuypw7) ![](assets/new.png)  
 - [2022-01-25-CPT：刷爆少样本REC任务！清华刘知远团队提出跨模态预训练Prompt-Tuning](https://toutiao.io/k/m7jujv7) ![](assets/new.png)  
-- [2022-01-25-推荐-从MVC到DDD的架构演进](https://toutiao.io/k/c7mn7hz) ![](assets/new.png)  
-- [2022-01-25-推荐-优雅整洁的-Java-代码命名技巧，风之极·净化](https://toutiao.io/k/abc8vou) ![](assets/new.png)  
+- [2022-01-25-推荐-关于代码质量退化的思考](https://toutiao.io/k/zzaz6vu) ![](assets/new.png)  
+- [2022-01-25-推荐-JVM调优的几种场景（建议收藏）](https://toutiao.io/k/0mfx2nd) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

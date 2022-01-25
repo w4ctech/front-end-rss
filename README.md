@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-25 07:54:39，:rocket: 更新条数: +1809， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-25 08:14:29，:rocket: 更新条数: +1811， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,11 @@
 </summary>
 
 
+- [2022-01-25-go-byte-切片初始化是有语法糖嘛](https://www.v2ex.com/t/830521) ![](assets/new.png)  
+- [2022-01-25-请教各位技术大佬，根据把图片嵌入视频模板，快速生成一个视频，技术栈是什么呀。](https://www.v2ex.com/t/830519) ![](assets/new.png)  
+- [2022-01-25-Workflow-正式进入-Debian-Linux-安装包](https://www.v2ex.com/t/830518) ![](assets/new.png)  
+- [2022-01-25-Q4-绩效评-C-得过-C-的不发年终，想提桶跑路，越想越气](https://www.v2ex.com/t/830517) ![](assets/new.png)  
+- [2022-01-25-歹佬们，问个-js-小问题？](https://www.v2ex.com/t/830516) ![](assets/new.png)  
 - [2022-01-25-Kotlin-的协程是真协程吗？被-b-站博主搞蒙了](https://www.v2ex.com/t/830515) ![](assets/new.png)  
 - [2022-01-25-经济崩盘和大规模打仗，哪个会先出现](https://www.v2ex.com/t/830513) ![](assets/new.png)  
 - [2022-01-25-搞一个订阅制的特产零食怎么样](https://www.v2ex.com/t/830512) ![](assets/new.png)  
@@ -506,11 +511,6 @@
 - [2022-01-25-不懂就问，-b-站大会员有什么用呢](https://www.v2ex.com/t/830499) ![](assets/new.png)  
 - [2022-01-25-求助-JDBC-的-statement-和-preparedStaement-执行结果不同](https://www.v2ex.com/t/830498) ![](assets/new.png)  
 - [2022-01-25-有没有练习-Vim-的网站或者软件推荐？](https://www.v2ex.com/t/830497) ![](assets/new.png)  
-- [2022-01-25-观站内讨论医生与程序员职业有感。](https://www.v2ex.com/t/830494) ![](assets/new.png)  
-- [2022-01-25-csdn-用的-markdown,-rst,-和-adoc-翻译器是我做的](https://www.v2ex.com/t/830493) ![](assets/new.png)  
-- [2022-01-25-国内的外企是不是都是中国人管中国人，还拿着国内标准的待遇](https://www.v2ex.com/t/830492) ![](assets/new.png)  
-- [2022-01-25-上海-Testdocs-写作学习和知识沉淀平台-可远程可坐班-按照工时结算](https://www.v2ex.com/t/830489) ![](assets/new.png)  
-- [2022-01-25-怎么才不被发送垃圾消息？](https://www.v2ex.com/t/830488) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -563,16 +563,16 @@
 - [2022-01-25-如何落地业务建模4-将模型实现为RESTful-API](https://toutiao.io/k/g9bytug) ![](assets/new.png)  
 - [2022-01-25-《雷锤3》魔数你见过吗？这10行代码简直吊炸天!](https://toutiao.io/k/5rqz8x0) ![](assets/new.png)  
 - [2022-01-25-为什么SpringBoot-jar包中的文件读取不到？](https://toutiao.io/k/dnx4tha) ![](assets/new.png)  
-- [2022-01-25-基于Calcite的分布式多数据源查询](https://toutiao.io/k/zw4evb3) ![](assets/new.png)  
 - [2022-01-25-JVM调优的几种场景（建议收藏）](https://toutiao.io/k/fib82nl) ![](assets/new.png)  
+- [2022-01-25-基于Calcite的分布式多数据源查询](https://toutiao.io/k/zw4evb3) ![](assets/new.png)  
 - [2022-01-25-开发者的瑞士军刀「GitHub-热点速览」](https://toutiao.io/k/9szt6fr) ![](assets/new.png)  
-- [2022-01-25-聊一聊如何用C#轻松完成一个SAGA分布式事务](https://toutiao.io/k/f1t7jy9) ![](assets/new.png)  
 - [2022-01-25-在线进行分库分表中间件的平滑升级，正所谓艺高人胆大](https://toutiao.io/k/rvyc15u) ![](assets/new.png)  
-- [2022-01-25-OpenPPL-CUDA-技术解析](https://toutiao.io/k/zyuypw7) ![](assets/new.png)  
 - [2022-01-25-SkyWalking-针对-gRPC-的负载均衡和自动扩容实践](https://toutiao.io/k/9you17q) ![](assets/new.png)  
+- [2022-01-25-聊一聊如何用C#轻松完成一个SAGA分布式事务](https://toutiao.io/k/f1t7jy9) ![](assets/new.png)  
+- [2022-01-25-OpenPPL-CUDA-技术解析](https://toutiao.io/k/zyuypw7) ![](assets/new.png)  
 - [2022-01-25-CPT：刷爆少样本REC任务！清华刘知远团队提出跨模态预训练Prompt-Tuning](https://toutiao.io/k/m7jujv7) ![](assets/new.png)  
-- [2022-01-25-推荐-据说看完这篇-JVM-要一小时](https://toutiao.io/k/1dauixx) ![](assets/new.png)  
-- [2022-01-25-推荐-面试官问：设计高并发系统的时候，数据库层面该如何设计？](https://toutiao.io/k/p935kqr) ![](assets/new.png)  
+- [2022-01-25-推荐-面渣逆袭：Java并发六十问，图文详解，快来看看你会多少道！](https://toutiao.io/k/4ndh1gd) ![](assets/new.png)  
+- [2022-01-25-推荐-优雅整洁的-Java-代码命名技巧，风之极·净化](https://toutiao.io/k/abc8vou) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

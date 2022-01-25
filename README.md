@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-25 10:13:16，:rocket: 更新条数: +1810， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-25 10:23:08，:rocket: 更新条数: +1811， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -66,15 +66,16 @@
 
 
 - [2022-01-25-最新疫情：全国新冠累计确诊105705例-累计接种新冠疫苗超29.73亿剂次](https://m.caixin.com/m/2022-01-25/101834628.html) ![](assets/new.png)  
+- [2022-01-25-解药｜国内首个mRNA疫苗I期临床数据显示有效性达95%](https://m.caixin.com/m/2022-01-25/101834715.html) ![](assets/new.png)  
 - [2022-01-25-最新海外疫情：新冠感染超3.54亿-累计接种新冠疫苗超98.7亿剂次](https://m.caixin.com/m/2022-01-25/101834623.html) ![](assets/new.png)  
 - [2022-01-25-新冠肺炎防疫全纪录（2020年）](https://mappv5.caixin.com/m_topic_detail/1670.html) ![](assets/new.png)  
 - [2022-01-25-研究称奥密克戎在塑料和皮肤上存活更久，世卫指疫情未达终结｜大流行手记（1月24日）](https://m.caixin.com/m/2022-01-25/101834420.html) ![](assets/new.png)  
 - [2022-01-25-【图集】法国疫苗通行证措施正式生效](https://photos.caixin.com/m/2022-01-25/101834413.html) ![](assets/new.png)  
 - [2022-01-24-北京新增本土感染者9例-丰台将启第二轮核酸筛查](https://m.caixin.com/m/2022-01-24/101834253.html) ![](assets/new.png)  
 - [2022-01-24-上海新增1例确诊-系机场货运区办理进口业务人员](https://m.caixin.com/m/2022-01-24/101834050.html) ![](assets/new.png)  
-- [2022-01-24-港大发现新药物组合可作为潜在广谱抗新冠口服药](https://m.caixin.com/m/2022-01-24/101834067.html) ![](assets/new.png)  
 - [2022-01-24-【境内疫情观察】北京市丰台区开展全员核酸检测（1月23日）](https://database.caixin.com/m/2022-01-24/101834159.html) ![](assets/new.png)  
 - [2022-01-24-《柳叶刀》论文称混打加强针效果更优-新西兰总理因Omicron取消婚礼｜大流行手记（1月23日）](https://m.caixin.com/m/2022-01-24/101833964.html) ![](assets/new.png)  
+- [2022-01-24-港大发现新药物组合可作为潜在广谱抗新冠口服药](https://m.caixin.com/m/2022-01-24/101834067.html) ![](assets/new.png)  
 - [2022-01-24-【图集】西安高风险地区清零-有序恢复正常生产生活秩序](https://photos.caixin.com/m/2022-01-24/101833947.html) ![](assets/new.png)  
 - [2022-01-23-北京疫情两条传播链累计感染43人，丰台区全员测核酸](https://m.caixin.com/m/2022-01-23/101833850.html) ![](assets/new.png)  
 - [2022-01-23-【境内疫情观察】全国新增19例本土病例（1月22日）](https://database.caixin.com/m/2022-01-23/101833869.html) ![](assets/new.png)  
@@ -84,7 +85,6 @@
 - [2022-01-22-【境内疫情观察】北京新增10例本土病例（1月21日）](https://database.caixin.com/m/2022-01-22/101833675.html) ![](assets/new.png)  
 - [2022-01-22-欧盟讨论第四剂必要性-美料将为5岁以下儿童接种｜大流行手记（1月21日）](https://m.caixin.com/m/2022-01-22/101833640.html) ![](assets/new.png)  
 - [2022-01-22-不满中方“熔断”-美国停飞中国航司44个航班](https://companies.caixin.com/m/2022-01-22/101833627.html) ![](assets/new.png)  
-- [2022-01-21-北京新增12本土阳性病例-用国产替换进口标签者被立案侦查](https://m.caixin.com/m/2022-01-21/101833268.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-01-25-求推荐稳点的硬盘，两块希捷酷鱼-4T-同时挂了](https://www.v2ex.com/t/830555) ![](assets/new.png)  
 - [2022-01-25-26-了，有必要镀个金吗](https://www.v2ex.com/t/830554) ![](assets/new.png)  
 - [2022-01-25-20-岁的时候想，-5-年后的-25-岁会是什么样子呢](https://www.v2ex.com/t/830553) ![](assets/new.png)  
 - [2022-01-25-新版-iOS-微信内置的权限管理好评](https://www.v2ex.com/t/830552) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-01-25-又到了一年一度的年终奖比拼环节](https://www.v2ex.com/t/830535) ![](assets/new.png)  
 - [2022-01-25-给读高中的表弟买电脑，-3~4-千价位](https://www.v2ex.com/t/830534) ![](assets/new.png)  
 - [2022-01-25-github-上有苹果用的纯净的中国法定节假日的日历订阅吗？](https://www.v2ex.com/t/830533) ![](assets/new.png)  
-- [2022-01-25-江苏电信访问一些网站自动跳转到反炸页面从而阻止用户访问](https://www.v2ex.com/t/830528) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -571,8 +571,8 @@
 - [2022-01-25-聊一聊如何用C#轻松完成一个SAGA分布式事务](https://toutiao.io/k/f1t7jy9) ![](assets/new.png)  
 - [2022-01-25-OpenPPL-CUDA-技术解析](https://toutiao.io/k/zyuypw7) ![](assets/new.png)  
 - [2022-01-25-CPT：刷爆少样本REC任务！清华刘知远团队提出跨模态预训练Prompt-Tuning](https://toutiao.io/k/m7jujv7) ![](assets/new.png)  
-- [2022-01-25-推荐-浅谈缓存最终一致性的解决方案](https://toutiao.io/k/mgym1lv) ![](assets/new.png)  
-- [2022-01-25-推荐-面试官问：设计高并发系统的时候，数据库层面该如何设计？](https://toutiao.io/k/p935kqr) ![](assets/new.png)  
+- [2022-01-25-推荐-优雅整洁的-Java-代码命名技巧，风之极·净化](https://toutiao.io/k/abc8vou) ![](assets/new.png)  
+- [2022-01-25-推荐-服务探活的五种方式](https://toutiao.io/k/1wuwmui) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

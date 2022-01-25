@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-01-25 10:13:17。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-01-25 10:23:08。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -69,15 +69,16 @@
 
 
 - [【武汉肺炎防疫全纪录(财新网)】2022-01-25-最新疫情：全国新冠累计确诊105705例-累计接种新冠疫苗超29.73亿剂次](https://m.caixin.com/m/2022-01-25/101834628.html) 
+- [【武汉肺炎防疫全纪录(财新网)】2022-01-25-解药｜国内首个mRNA疫苗I期临床数据显示有效性达95%](https://m.caixin.com/m/2022-01-25/101834715.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2022-01-25-最新海外疫情：新冠感染超3.54亿-累计接种新冠疫苗超98.7亿剂次](https://m.caixin.com/m/2022-01-25/101834623.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2022-01-25-新冠肺炎防疫全纪录（2020年）](https://mappv5.caixin.com/m_topic_detail/1670.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2022-01-25-研究称奥密克戎在塑料和皮肤上存活更久，世卫指疫情未达终结｜大流行手记（1月24日）](https://m.caixin.com/m/2022-01-25/101834420.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2022-01-25-【图集】法国疫苗通行证措施正式生效](https://photos.caixin.com/m/2022-01-25/101834413.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2022-01-24-北京新增本土感染者9例-丰台将启第二轮核酸筛查](https://m.caixin.com/m/2022-01-24/101834253.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2022-01-24-上海新增1例确诊-系机场货运区办理进口业务人员](https://m.caixin.com/m/2022-01-24/101834050.html) 
-- [【武汉肺炎防疫全纪录(财新网)】2022-01-24-港大发现新药物组合可作为潜在广谱抗新冠口服药](https://m.caixin.com/m/2022-01-24/101834067.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2022-01-24-【境内疫情观察】北京市丰台区开展全员核酸检测（1月23日）](https://database.caixin.com/m/2022-01-24/101834159.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2022-01-24-《柳叶刀》论文称混打加强针效果更优-新西兰总理因Omicron取消婚礼｜大流行手记（1月23日）](https://m.caixin.com/m/2022-01-24/101833964.html) 
+- [【武汉肺炎防疫全纪录(财新网)】2022-01-24-港大发现新药物组合可作为潜在广谱抗新冠口服药](https://m.caixin.com/m/2022-01-24/101834067.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2022-01-24-【图集】西安高风险地区清零-有序恢复正常生产生活秩序](https://photos.caixin.com/m/2022-01-24/101833947.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2022-01-23-北京疫情两条传播链累计感染43人，丰台区全员测核酸](https://m.caixin.com/m/2022-01-23/101833850.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2022-01-23-【境内疫情观察】全国新增19例本土病例（1月22日）](https://database.caixin.com/m/2022-01-23/101833869.html) 
@@ -222,6 +223,7 @@
 - [【武汉肺炎防疫全纪录(财新网)】2022-01-01-英国重启临时医院，多国医疗系统承压｜大流行手记（12月31日）](https://m.caixin.com/m/2022-01-01/101824902.html) 
 - [【张鑫旭-鑫空间-鑫生活】2022-01-14-纯CSS实现未读消息超过100自动显示为99+](https://www.zhangxinxu.com/wordpress/2022/01/css-show-diff-content-according-var/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-01-11-还有完没完，怎么又来了个-scrollbar-gutter？](https://www.zhangxinxu.com/wordpress/2022/01/css-scrollbar-gutter/) 
+- [【V2EX】2022-01-25-求推荐稳点的硬盘，两块希捷酷鱼-4T-同时挂了](https://www.v2ex.com/t/830555) 
 - [【V2EX】2022-01-25-26-了，有必要镀个金吗](https://www.v2ex.com/t/830554) 
 - [【V2EX】2022-01-25-20-岁的时候想，-5-年后的-25-岁会是什么样子呢](https://www.v2ex.com/t/830553) 
 - [【V2EX】2022-01-25-新版-iOS-微信内置的权限管理好评](https://www.v2ex.com/t/830552) 
@@ -257,7 +259,6 @@
 - [【V2EX】2022-01-25-Go-发送请求后要等待返回值为-Success-在进行下一步流程该怎么实现？](https://www.v2ex.com/t/830510) 
 - [【V2EX】2022-01-25-绩效垫底了，蛋蛋的忧伤。。。-完全不知道领导什么意思？](https://www.v2ex.com/t/830508) 
 - [【V2EX】2022-01-25-迫于过年不想回家，问问大家有什么乐子](https://www.v2ex.com/t/830506) 
-- [【V2EX】2022-01-25-最近发现-app-里提示更新，但-app-store-中却没有更新的现象加剧了。是-app-store-的审核时间更长，更严格了么？](https://www.v2ex.com/t/830505) 
 - [【技术头条】2022-01-25-微服务坏味道之循环依赖-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14907&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fmicroservices-bad-smell-circular-dependency%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-01-25-高效编写测试用例的技巧-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14906&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fwrite-effective-testcases-tips%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-01-25-软件工程师应该如何吵架？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14905&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fsoftware-engineer-quarrel-culture%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -296,18 +297,18 @@
 - [【开发者头条】2022-01-25-聊一聊如何用C#轻松完成一个SAGA分布式事务](https://toutiao.io/k/f1t7jy9) 
 - [【开发者头条】2022-01-25-OpenPPL-CUDA-技术解析](https://toutiao.io/k/zyuypw7) 
 - [【开发者头条】2022-01-25-CPT：刷爆少样本REC任务！清华刘知远团队提出跨模态预训练Prompt-Tuning](https://toutiao.io/k/m7jujv7) 
-- [【开发者头条】2022-01-25-推荐-浅谈缓存最终一致性的解决方案](https://toutiao.io/k/mgym1lv) 
-- [【开发者头条】2022-01-25-推荐-面试官问：设计高并发系统的时候，数据库层面该如何设计？](https://toutiao.io/k/p935kqr) 
-- [【开发者头条】2022-01-25-推荐-从零开始搭建公司微服务授权架构技术栈（3种模式），这架构稳的一批...](https://toutiao.io/k/4g58j8v) 
-- [【开发者头条】2022-01-25-推荐-服务探活的五种方式](https://toutiao.io/k/1wuwmui) 
 - [【开发者头条】2022-01-25-推荐-优雅整洁的-Java-代码命名技巧，风之极·净化](https://toutiao.io/k/abc8vou) 
+- [【开发者头条】2022-01-25-推荐-服务探活的五种方式](https://toutiao.io/k/1wuwmui) 
+- [【开发者头条】2022-01-25-推荐-面试官问：设计高并发系统的时候，数据库层面该如何设计？](https://toutiao.io/k/p935kqr) 
+- [【开发者头条】2022-01-25-推荐-浅谈缓存最终一致性的解决方案](https://toutiao.io/k/mgym1lv) 
 - [【开发者头条】2022-01-25-推荐-据说看完这篇-JVM-要一小时](https://toutiao.io/k/1dauixx) 
-- [【开发者头条】2022-01-25-推荐-JVM调优的几种场景（建议收藏）](https://toutiao.io/k/0mfx2nd) 
-- [【开发者头条】2022-01-25-推荐-Redis-很屌，不懂使用规范就糟蹋了](https://toutiao.io/k/lpnakbk) 
 - [【开发者头条】2022-01-25-推荐-3万字-|-34-图-|-Netty-|-内核角度看IO模型](https://toutiao.io/k/zavpca4) 
-- [【开发者头条】2022-01-25-推荐-关于代码质量退化的思考](https://toutiao.io/k/zzaz6vu) 
 - [【开发者头条】2022-01-25-推荐-面渣逆袭：Java并发六十问，图文详解，快来看看你会多少道！](https://toutiao.io/k/4ndh1gd) 
+- [【开发者头条】2022-01-25-推荐-关于代码质量退化的思考](https://toutiao.io/k/zzaz6vu) 
+- [【开发者头条】2022-01-25-推荐-从零开始搭建公司微服务授权架构技术栈（3种模式），这架构稳的一批...](https://toutiao.io/k/4g58j8v) 
 - [【开发者头条】2022-01-25-推荐-从MVC到DDD的架构演进](https://toutiao.io/k/c7mn7hz) 
+- [【开发者头条】2022-01-25-推荐-Redis-很屌，不懂使用规范就糟蹋了](https://toutiao.io/k/lpnakbk) 
+- [【开发者头条】2022-01-25-推荐-JVM调优的几种场景（建议收藏）](https://toutiao.io/k/0mfx2nd) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

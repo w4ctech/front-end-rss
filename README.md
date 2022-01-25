@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-25 16:32:02，:rocket: 更新条数: +1810， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-25 16:57:40，:rocket: 更新条数: +1809， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-01-25-无需下载的“5G-消息”正式商用，个人使用按短信收费。来说说你会使用吗？](https://www.v2ex.com/t/830606) ![](assets/new.png)  
 - [2022-01-25-有语言的-async/await-是直接改写成嵌套回调的吗？](https://www.v2ex.com/t/830605) ![](assets/new.png)  
 - [2022-01-25-GDP-增速计算问题出在哪里，经济晴雨表电量统计](https://www.v2ex.com/t/830604) ![](assets/new.png)  
 - [2022-01-25-iOS-15-的-Siri-不支持切换-AirPods-Pro-降噪/通透模式？](https://www.v2ex.com/t/830603) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-01-25-老家办理的是假期宽带，合约-1-年，-300-元，-2017-年办理，近-1-年停机，未开机，未用，显示欠费-200+](https://www.v2ex.com/t/830587) ![](assets/new.png)  
 - [2022-01-25-最近很迷。想听下过来人的建议。拜托了](https://www.v2ex.com/t/830585) ![](assets/new.png)  
 - [2022-01-25-端传媒-畅读会员一年-拼车，年付-58-元/人](https://www.v2ex.com/t/830584) ![](assets/new.png)  
-- [2022-01-25-出全新未拆封-mbp14-寸](https://www.v2ex.com/t/830582) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -571,8 +571,8 @@
 - [2022-01-25-聊一聊如何用C#轻松完成一个SAGA分布式事务](https://toutiao.io/k/f1t7jy9) ![](assets/new.png)  
 - [2022-01-25-OpenPPL-CUDA-技术解析](https://toutiao.io/k/zyuypw7) ![](assets/new.png)  
 - [2022-01-25-CPT：刷爆少样本REC任务！清华刘知远团队提出跨模态预训练Prompt-Tuning](https://toutiao.io/k/m7jujv7) ![](assets/new.png)  
-- [2022-01-25-推荐-服务探活的五种方式](https://toutiao.io/k/1wuwmui) ![](assets/new.png)  
 - [2022-01-25-推荐-关于代码质量退化的思考](https://toutiao.io/k/zzaz6vu) ![](assets/new.png)  
+- [2022-01-25-推荐-从MVC到DDD的架构演进](https://toutiao.io/k/c7mn7hz) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

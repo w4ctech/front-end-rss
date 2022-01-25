@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-01-25 16:32:02。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-01-25 16:57:40。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1696,6 +1696,7 @@
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2021-11-14-密码强度效果最佳实现一定是HTML-meter元素](https://www.zhangxinxu.com/wordpress/2021/11/html-meter-password/) 
 - [2021-11-02-见多识广，介绍Web开发中current开头的一些API属性](https://www.zhangxinxu.com/wordpress/2021/11/currentscript-currenttarget-currentsrc/) 
+- [2022-01-25-无需下载的“5G-消息”正式商用，个人使用按短信收费。来说说你会使用吗？](https://www.v2ex.com/t/830606) 
 - [2022-01-25-GDP-增速计算问题出在哪里，经济晴雨表电量统计](https://www.v2ex.com/t/830604) 
 - [2022-01-25-iOS-15-的-Siri-不支持切换-AirPods-Pro-降噪/通透模式？](https://www.v2ex.com/t/830603) 
 - [2022-01-25-使用-Cloudflare-做-DNS-的网站近期国内无法访问了，可能是什么原因导致的？](https://www.v2ex.com/t/830602) 
@@ -1724,7 +1725,6 @@
 - [2022-01-25-请问在-mac-下参加远程会议投屏时如何使用-PPT-的演讲者模式？](https://www.v2ex.com/t/830562) 
 - [2022-01-25-京东非官方旗舰舰店买-mbp（2021-款）靠谱吗？](https://www.v2ex.com/t/830561) 
 - [2022-01-25-阿里云把我们办公室公网-ip-禁了](https://www.v2ex.com/t/830559) 
-- [2022-01-25-有没有类似百度文库这样的开源网站，能够实现在线阅读即可。](https://www.v2ex.com/t/830557) 
 - [2022-01-25-微服务坏味道之循环依赖-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14907&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fmicroservices-bad-smell-circular-dependency%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-01-25-高效编写测试用例的技巧-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14906&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fwrite-effective-testcases-tips%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-01-25-软件工程师应该如何吵架？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14905&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fsoftware-engineer-quarrel-culture%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1753,11 +1753,11 @@
 - [2022-01-25-聊一聊如何用C#轻松完成一个SAGA分布式事务](https://toutiao.io/k/f1t7jy9) 
 - [2022-01-25-OpenPPL-CUDA-技术解析](https://toutiao.io/k/zyuypw7) 
 - [2022-01-25-CPT：刷爆少样本REC任务！清华刘知远团队提出跨模态预训练Prompt-Tuning](https://toutiao.io/k/m7jujv7) 
-- [2022-01-25-推荐-服务探活的五种方式](https://toutiao.io/k/1wuwmui) 
 - [2022-01-25-推荐-关于代码质量退化的思考](https://toutiao.io/k/zzaz6vu) 
-- [2022-01-25-推荐-面渣逆袭：Java并发六十问，图文详解，快来看看你会多少道！](https://toutiao.io/k/4ndh1gd) 
-- [2022-01-25-推荐-据说看完这篇-JVM-要一小时](https://toutiao.io/k/1dauixx) 
-- [2022-01-25-推荐-Redis-很屌，不懂使用规范就糟蹋了](https://toutiao.io/k/lpnakbk) 
 - [2022-01-25-推荐-从MVC到DDD的架构演进](https://toutiao.io/k/c7mn7hz) 
 - [2022-01-25-推荐-优雅整洁的-Java-代码命名技巧，风之极·净化](https://toutiao.io/k/abc8vou) 
+- [2022-01-25-推荐-据说看完这篇-JVM-要一小时](https://toutiao.io/k/1dauixx) 
+- [2022-01-25-推荐-面渣逆袭：Java并发六十问，图文详解，快来看看你会多少道！](https://toutiao.io/k/4ndh1gd) 
+- [2022-01-25-推荐-服务探活的五种方式](https://toutiao.io/k/1wuwmui) 
+- [2022-01-25-推荐-Redis-很屌，不懂使用规范就糟蹋了](https://toutiao.io/k/lpnakbk) 
 - [2022-01-25-推荐-3万字-|-34-图-|-Netty-|-内核角度看IO模型](https://toutiao.io/k/zavpca4) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-25 03:23:04，:rocket: 更新条数: +1802， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-25 03:39:05，:rocket: 更新条数: +1803， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,13 @@
 </summary>
 
 
+- [2022-01-25-我们自己开发代码托管服务，用了两年了，用于内部替代-Github，免费开源给大家使用](https://www.v2ex.com/t/830452) ![](assets/new.png)  
+- [2022-01-25-之前看到论坛里有人说-Apple-Care+-的保修时间会在激活的时候更新一下，这里澄清。。不会](https://www.v2ex.com/t/830451) ![](assets/new.png)  
+- [2022-01-25-百度网盘国际版为何不支持国内邮箱注册](https://www.v2ex.com/t/830450) ![](assets/new.png)  
+- [2022-01-25-“娶妻生子真的是必须的吗”](https://www.v2ex.com/t/830449) ![](assets/new.png)  
+- [2022-01-25-西安-央企-第一次开放社招-机会很不错，待遇-20-80-之间，前端，-Java-，测试，虚拟现实，-gis，岗位较多。](https://www.v2ex.com/t/830448) ![](assets/new.png)  
+- [2022-01-25-武汉过年](https://www.v2ex.com/t/830447) ![](assets/new.png)  
+- [2022-01-25-一行-JS-打开屏幕拾色器](https://www.v2ex.com/t/830446) ![](assets/new.png)  
 - [2022-01-25-哪些变量是要放在-data-选项里的？](https://www.v2ex.com/t/830445) ![](assets/new.png)  
 - [2022-01-25-各位-v-友，目前有一个域名-mvvm.io、ruanlan.cn，做点什么好？](https://www.v2ex.com/t/830441) ![](assets/new.png)  
 - [2022-01-25-全球顶级高频交易公司之一-Position:-Network-Engineer,-Shangha-薪酬福利很赞](https://www.v2ex.com/t/830440) ![](assets/new.png)  
@@ -504,13 +511,6 @@
 - [2022-01-25-求助：复杂关联查询加上全文检索如何做到秒级响应？](https://www.v2ex.com/t/830430) ![](assets/new.png)  
 - [2022-01-25-岳母是密接的密接，导致老婆和我的个人信息都明文泄露了，有办法收回来么？](https://www.v2ex.com/t/830429) ![](assets/new.png)  
 - [2022-01-25-连接-WiFi-后有办法自动登录吗](https://www.v2ex.com/t/830428) ![](assets/new.png)  
-- [2022-01-25-golang-新手开源一个-tcp-网络框架](https://www.v2ex.com/t/830426) ![](assets/new.png)  
-- [2022-01-25-请教大家一个函数的定义问题](https://www.v2ex.com/t/830425) ![](assets/new.png)  
-- [2022-01-25-一觉醒来-无追搜索又更新啦，无追搜索更新日志-持续更新](https://www.v2ex.com/t/830424) ![](assets/new.png)  
-- [2022-01-25-树结构数据是最难处理的，有人反对吗](https://www.v2ex.com/t/830423) ![](assets/new.png)  
-- [2022-01-25-zt-的-allowGlobal-选项有办法设置为永久或者写在配置文件里面？及其痛苦](https://www.v2ex.com/t/830422) ![](assets/new.png)  
-- [2022-01-25-airpods-电话来电,耳机爆炸](https://www.v2ex.com/t/830421) ![](assets/new.png)  
-- [2022-01-25-学软件开发上网课，-1-个-27-寸显示器-VS-2-个-24-寸显示器，选哪个？](https://www.v2ex.com/t/830420) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -558,21 +558,21 @@
 - [2022-01-25-平安保险基于-SPI-机制的-RocketMQ-定制化应用](https://toutiao.io/k/w3wrja5) ![](assets/new.png)  
 - [2022-01-25-腾讯云十亿级-Node.js-网关的架构设计与工程实践](https://toutiao.io/k/4dc37rq) ![](assets/new.png)  
 - [2022-01-25-马斯克：载人飞船上天前，我曾跪地祈祷；中台的本质和设计之道；Go-GC-调优｜码农周刊VIP会员专属邮件周报-Vol.078](https://toutiao.io/k/y0dtjke) ![](assets/new.png)  
-- [2022-01-25-前端该如何优雅地Mock数据](https://toutiao.io/k/dfahlpc) ![](assets/new.png)  
 - [2022-01-25-Streaming-101:批处理之外的流式世界第一部分](https://toutiao.io/k/uljyrzy) ![](assets/new.png)  
+- [2022-01-25-前端该如何优雅地Mock数据](https://toutiao.io/k/dfahlpc) ![](assets/new.png)  
 - [2022-01-25-《雷锤3》魔数你见过吗？这10行代码简直吊炸天!](https://toutiao.io/k/5rqz8x0) ![](assets/new.png)  
 - [2022-01-25-如何落地业务建模4-将模型实现为RESTful-API](https://toutiao.io/k/g9bytug) ![](assets/new.png)  
-- [2022-01-25-推荐-JVM调优的几种场景（建议收藏）](https://toutiao.io/k/0mfx2nd) ![](assets/new.png)  
-- [2022-01-25-推荐-面渣逆袭：Java并发六十问，图文详解，快来看看你会多少道！](https://toutiao.io/k/4ndh1gd) ![](assets/new.png)  
-- [2022-01-25-推荐-Redis-很屌，不懂使用规范就糟蹋了](https://toutiao.io/k/lpnakbk) ![](assets/new.png)  
-- [2022-01-25-推荐-浅谈缓存最终一致性的解决方案](https://toutiao.io/k/mgym1lv) ![](assets/new.png)  
-- [2022-01-25-推荐-面试官问：设计高并发系统的时候，数据库层面该如何设计？](https://toutiao.io/k/p935kqr) ![](assets/new.png)  
+- [2022-01-25-推荐-从MVC到DDD的架构演进](https://toutiao.io/k/c7mn7hz) ![](assets/new.png)  
 - [2022-01-25-推荐-据说看完这篇-JVM-要一小时](https://toutiao.io/k/1dauixx) ![](assets/new.png)  
-- [2022-01-25-推荐-优雅整洁的-Java-代码命名技巧，风之极·净化](https://toutiao.io/k/abc8vou) ![](assets/new.png)  
 - [2022-01-25-推荐-3万字-|-34-图-|-Netty-|-内核角度看IO模型](https://toutiao.io/k/zavpca4) ![](assets/new.png)  
 - [2022-01-25-推荐-服务探活的五种方式](https://toutiao.io/k/1wuwmui) ![](assets/new.png)  
+- [2022-01-25-推荐-面试官问：设计高并发系统的时候，数据库层面该如何设计？](https://toutiao.io/k/p935kqr) ![](assets/new.png)  
 - [2022-01-25-推荐-关于代码质量退化的思考](https://toutiao.io/k/zzaz6vu) ![](assets/new.png)  
+- [2022-01-25-推荐-Redis-很屌，不懂使用规范就糟蹋了](https://toutiao.io/k/lpnakbk) ![](assets/new.png)  
+- [2022-01-25-推荐-面渣逆袭：Java并发六十问，图文详解，快来看看你会多少道！](https://toutiao.io/k/4ndh1gd) ![](assets/new.png)  
+- [2022-01-25-推荐-优雅整洁的-Java-代码命名技巧，风之极·净化](https://toutiao.io/k/abc8vou) ![](assets/new.png)  
 - [2022-01-25-推荐-从零开始搭建公司微服务授权架构技术栈（3种模式），这架构稳的一批...](https://toutiao.io/k/4g58j8v) ![](assets/new.png)  
+- [2022-01-25-推荐-浅谈缓存最终一致性的解决方案](https://toutiao.io/k/mgym1lv) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

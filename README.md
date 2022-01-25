@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-25 01:14:49，:rocket: 更新条数: +1803， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-25 02:02:28，:rocket: 更新条数: +1807， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -494,26 +494,26 @@
 </summary>
 
 
+- [2022-01-25-X220i-想升级固态，需要一块-msata](https://www.v2ex.com/t/830406) ![](assets/new.png)  
+- [2022-01-25-搞游戏创业核心是什么，最近一直有一种想创业的念头](https://www.v2ex.com/t/830405) ![](assets/new.png)  
+- [2022-01-25-关于钉钉桌面端已读实际未读，以及微信桌面端一点击就可能漏掉重要信息的担忧。](https://www.v2ex.com/t/830404) ![](assets/new.png)  
+- [2022-01-25-Safari-PC-端有没有-v2exPlus-这种插件](https://www.v2ex.com/t/830402) ![](assets/new.png)  
+- [2022-01-25-分享自己一个月时间开发的极简主义-时间和待办事项管理工具-3x3](https://www.v2ex.com/t/830401) ![](assets/new.png)  
+- [2022-01-25-不一样的角度看人生](https://www.v2ex.com/t/830400) ![](assets/new.png)  
+- [2022-01-25-深圳第一次办携号转网感受](https://www.v2ex.com/t/830399) ![](assets/new.png)  
+- [2022-01-25-微服务怎么单元测试](https://www.v2ex.com/t/830397) ![](assets/new.png)  
+- [2022-01-25-NFC-已录入门卡，刷门有响应，会嘀的一声，但无法开门是怎么回事？](https://www.v2ex.com/t/830396) ![](assets/new.png)  
+- [2022-01-25-目前在杭州，过年回家想给老丈人带点杭州的东西，求推荐。-有考虑过茶叶，但觉得，买的少不好看，买的多太贵，有点犹豫](https://www.v2ex.com/t/830395) ![](assets/new.png)  
 - [2022-01-25-话说我宽带网速都有挺好-有-1000M，但为啥用-Chrome-系浏览器看-B-站经常缓冲不过来？](https://www.v2ex.com/t/830394) ![](assets/new.png)  
 - [2022-01-25-请问-Clion-的跳转是基于-cmake-的吗？那该怎么用容器开发呢？](https://www.v2ex.com/t/830393) ![](assets/new.png)  
 - [2022-01-25-关于机器学习中应用线性回归的几点疑问](https://www.v2ex.com/t/830392) ![](assets/new.png)  
-- [2022-01-25-身边的同事基本都买房了，感觉自己好失败，谁来安慰下我](https://www.v2ex.com/t/830390) ![](assets/new.png)  
 - [2022-01-25-AirPods3-连接-mbp-只有单边有声音](https://www.v2ex.com/t/830389) ![](assets/new.png)  
 - [2022-01-25-13-Pro-Max-续航真的是刚](https://www.v2ex.com/t/830388) ![](assets/new.png)  
-- [2022-01-25-大早上的健康宝弹窗了,计划已乱](https://www.v2ex.com/t/830387) ![](assets/new.png)  
 - [2022-01-24-有什么好用的-url-缩短服务吗？](https://www.v2ex.com/t/830386) ![](assets/new.png)  
 - [2022-01-24-并非人人都需要一个-Yubikey](https://www.v2ex.com/t/830384) ![](assets/new.png)  
 - [2022-01-24-搭建了个节点，能-ping-通，能访问节点的服务器上的伪装网站，但是使用不了节点](https://www.v2ex.com/t/830383) ![](assets/new.png)  
 - [2022-01-24-群晖-DS916+-一边显示硬盘状态良好，一边邮件报-I/O-错误，相信谁？](https://www.v2ex.com/t/830382) ![](assets/new.png)  
 - [2022-01-24-如果使用函数计算-FC-或者-Serverless-服务，怎样储存临时数据？](https://www.v2ex.com/t/830381) ![](assets/new.png)  
-- [2022-01-24-一年了，重回社区看看，发篇想法寻求认可](https://www.v2ex.com/t/830378) ![](assets/new.png)  
-- [2022-01-24-为数据库组件铺路，超好用的-go-集合（collection）库来了，有彩蛋](https://www.v2ex.com/t/830377) ![](assets/new.png)  
-- [2022-01-24-Pixel5-升级安卓-12-后电话-bug](https://www.v2ex.com/t/830376) ![](assets/new.png)  
-- [2022-01-24-真官方出品-微软电脑管家](https://www.v2ex.com/t/830375) ![](assets/new.png)  
-- [2022-01-24-Java-开发-mbp-和-mba-应该选那种比较好？](https://www.v2ex.com/t/830374) ![](assets/new.png)  
-- [2022-01-24-北京联通开了桥接之后，偶尔出现莫名其妙的卡顿](https://www.v2ex.com/t/830373) ![](assets/new.png)  
-- [2022-01-24-南京互联网公司情况统计，通过提-issue-的方式快速添加公司情况，-github-action-自动生成表格和-readme.md，避免找工作开盲盒](https://www.v2ex.com/t/830371) ![](assets/new.png)  
-- [2022-01-24-5-年沒調薪提前-30-天申請離職卻因-3-個字要賠公司-13-萬元](https://www.v2ex.com/t/830370) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -559,22 +559,23 @@
 - [2022-01-25-几张图搞定Spring-Cloud-Allibaba注册中心的架构原理](https://toutiao.io/k/kjzeych) ![](assets/new.png)  
 - [2022-01-25-10-款优雅的-Go-语言开发工具](https://toutiao.io/k/6rzknxe) ![](assets/new.png)  
 - [2022-01-25-平安保险基于-SPI-机制的-RocketMQ-定制化应用](https://toutiao.io/k/w3wrja5) ![](assets/new.png)  
-- [2022-01-25-前端该如何优雅地Mock数据](https://toutiao.io/k/dfahlpc) ![](assets/new.png)  
 - [2022-01-25-腾讯云十亿级-Node.js-网关的架构设计与工程实践](https://toutiao.io/k/4dc37rq) ![](assets/new.png)  
+- [2022-01-25-前端该如何优雅地Mock数据](https://toutiao.io/k/dfahlpc) ![](assets/new.png)  
 - [2022-01-25-Streaming-101:批处理之外的流式世界第一部分](https://toutiao.io/k/uljyrzy) ![](assets/new.png)  
 - [2022-01-25-马斯克：载人飞船上天前，我曾跪地祈祷；中台的本质和设计之道；Go-GC-调优｜码农周刊VIP会员专属邮件周报-Vol.078](https://toutiao.io/k/y0dtjke) ![](assets/new.png)  
-- [2022-01-25-推荐-面渣逆袭：Java并发六十问，图文详解，快来看看你会多少道！](https://toutiao.io/k/4ndh1gd) ![](assets/new.png)  
-- [2022-01-25-推荐-从零开始搭建公司微服务授权架构技术栈（3种模式），这架构稳的一批...](https://toutiao.io/k/4g58j8v) ![](assets/new.png)  
-- [2022-01-25-推荐-关于代码质量退化的思考](https://toutiao.io/k/zzaz6vu) ![](assets/new.png)  
-- [2022-01-25-推荐-面试官问：设计高并发系统的时候，数据库层面该如何设计？](https://toutiao.io/k/p935kqr) ![](assets/new.png)  
-- [2022-01-25-推荐-Redis-很屌，不懂使用规范就糟蹋了](https://toutiao.io/k/lpnakbk) ![](assets/new.png)  
-- [2022-01-25-推荐-据说看完这篇-JVM-要一小时](https://toutiao.io/k/1dauixx) ![](assets/new.png)  
+- [2022-01-25-40个SpringBoot常用注解](https://toutiao.io/k/rdjeqvz) ![](assets/new.png)  
+- [2022-01-25-使用雪花id或uuid作为Mysql主键，被老板怼了一顿！](https://toutiao.io/k/iydl2ni) ![](assets/new.png)  
+- [2022-01-25-什么是CI/CD，Linux搭建.net-core-CI/CD环境](https://toutiao.io/k/xeoh7jg) ![](assets/new.png)  
+- [2022-01-25-如何落地业务建模4-将模型实现为RESTful-API](https://toutiao.io/k/g9bytug) ![](assets/new.png)  
+- [2022-01-25-为什么说千万不要在深夜提交代码？](https://toutiao.io/k/trdx40j) ![](assets/new.png)  
+- [2022-01-25-《雷锤3》魔数你见过吗？这10行代码简直吊炸天!](https://toutiao.io/k/5rqz8x0) ![](assets/new.png)  
 - [2022-01-25-推荐-3万字-|-34-图-|-Netty-|-内核角度看IO模型](https://toutiao.io/k/zavpca4) ![](assets/new.png)  
+- [2022-01-25-推荐-关于代码质量退化的思考](https://toutiao.io/k/zzaz6vu) ![](assets/new.png)  
+- [2022-01-25-推荐-面渣逆袭：Java并发六十问，图文详解，快来看看你会多少道！](https://toutiao.io/k/4ndh1gd) ![](assets/new.png)  
 - [2022-01-25-推荐-从MVC到DDD的架构演进](https://toutiao.io/k/c7mn7hz) ![](assets/new.png)  
-- [2022-01-25-推荐-JVM调优的几种场景（建议收藏）](https://toutiao.io/k/0mfx2nd) ![](assets/new.png)  
-- [2022-01-25-推荐-浅谈缓存最终一致性的解决方案](https://toutiao.io/k/mgym1lv) ![](assets/new.png)  
-- [2022-01-25-推荐-优雅整洁的-Java-代码命名技巧，风之极·净化](https://toutiao.io/k/abc8vou) ![](assets/new.png)  
-- [2022-01-25-推荐-服务探活的五种方式](https://toutiao.io/k/1wuwmui) ![](assets/new.png)  
+- [2022-01-25-推荐-从零开始搭建公司微服务授权架构技术栈（3种模式），这架构稳的一批...](https://toutiao.io/k/4g58j8v) ![](assets/new.png)  
+- [2022-01-25-推荐-据说看完这篇-JVM-要一小时](https://toutiao.io/k/1dauixx) ![](assets/new.png)  
+- [2022-01-25-推荐-面试官问：设计高并发系统的时候，数据库层面该如何设计？](https://toutiao.io/k/p935kqr) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

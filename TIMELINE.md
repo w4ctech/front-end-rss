@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-01-25 02:38:03。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-01-25 02:45:30。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -224,6 +224,8 @@
 - [【阮一峰的网络日志】2022-01-21-科技爱好者周刊（第-193-期）：前端与后端，谁更难？](http://www.ruanyifeng.com/blog/2022/01/weekly-issue-193.html) 
 - [【阮一峰的网络日志】2022-01-14-科技爱好者周刊（第-192-期）：最大的机会来自新技术](http://www.ruanyifeng.com/blog/2022/01/weekly-issue-192.html) 
 - [【阮一峰的网络日志】2022-01-07-科技爱好者周刊（第-191-期）：一个程序员的财务独立之路](http://www.ruanyifeng.com/blog/2022/01/weekly-issue-191.html) 
+- [【V2EX】2022-01-25-树结构数据是最难处理的，有人反对吗](https://www.v2ex.com/t/830423) 
+- [【V2EX】2022-01-25-zt-的-allowGlobal-选项有办法设置为永久或者写在配置文件里面？及其痛苦](https://www.v2ex.com/t/830422) 
 - [【V2EX】2022-01-25-airpods-电话来电,耳机爆炸](https://www.v2ex.com/t/830421) 
 - [【V2EX】2022-01-25-学软件开发上网课，-1-个-27-寸显示器-VS-2-个-24-寸显示器，选哪个？](https://www.v2ex.com/t/830420) 
 - [【V2EX】2022-01-25-webpack-里面-definePlugin-里面定义了一些-process.env-的变量，这个是如何应用到-runtime-环境的？](https://www.v2ex.com/t/830419) 
@@ -259,7 +261,6 @@
 - [【V2EX】2022-01-24-Pixel5-升级安卓-12-后电话-bug](https://www.v2ex.com/t/830376) 
 - [【V2EX】2022-01-24-真官方出品-微软电脑管家](https://www.v2ex.com/t/830375) 
 - [【V2EX】2022-01-24-Java-开发-mbp-和-mba-应该选那种比较好？](https://www.v2ex.com/t/830374) 
-- [【V2EX】2022-01-24-北京联通开了桥接之后，偶尔出现莫名其妙的卡顿](https://www.v2ex.com/t/830373) 
 - [【技术头条】2022-01-25-微服务坏味道之循环依赖-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14907&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fmicroservices-bad-smell-circular-dependency%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-01-25-高效编写测试用例的技巧-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14906&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fwrite-effective-testcases-tips%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-01-25-软件工程师应该如何吵架？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14905&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fsoftware-engineer-quarrel-culture%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -285,22 +286,22 @@
 - [【开发者头条】2022-01-25-平安保险基于-SPI-机制的-RocketMQ-定制化应用](https://toutiao.io/k/w3wrja5) 
 - [【开发者头条】2022-01-25-腾讯云十亿级-Node.js-网关的架构设计与工程实践](https://toutiao.io/k/4dc37rq) 
 - [【开发者头条】2022-01-25-前端该如何优雅地Mock数据](https://toutiao.io/k/dfahlpc) 
-- [【开发者头条】2022-01-25-Streaming-101:批处理之外的流式世界第一部分](https://toutiao.io/k/uljyrzy) 
 - [【开发者头条】2022-01-25-马斯克：载人飞船上天前，我曾跪地祈祷；中台的本质和设计之道；Go-GC-调优｜码农周刊VIP会员专属邮件周报-Vol.078](https://toutiao.io/k/y0dtjke) 
+- [【开发者头条】2022-01-25-Streaming-101:批处理之外的流式世界第一部分](https://toutiao.io/k/uljyrzy) 
 - [【开发者头条】2022-01-25-《雷锤3》魔数你见过吗？这10行代码简直吊炸天!](https://toutiao.io/k/5rqz8x0) 
 - [【开发者头条】2022-01-25-如何落地业务建模4-将模型实现为RESTful-API](https://toutiao.io/k/g9bytug) 
-- [【开发者头条】2022-01-25-推荐-浅谈缓存最终一致性的解决方案](https://toutiao.io/k/mgym1lv) 
 - [【开发者头条】2022-01-25-推荐-关于代码质量退化的思考](https://toutiao.io/k/zzaz6vu) 
 - [【开发者头条】2022-01-25-推荐-3万字-|-34-图-|-Netty-|-内核角度看IO模型](https://toutiao.io/k/zavpca4) 
-- [【开发者头条】2022-01-25-推荐-面渣逆袭：Java并发六十问，图文详解，快来看看你会多少道！](https://toutiao.io/k/4ndh1gd) 
-- [【开发者头条】2022-01-25-推荐-Redis-很屌，不懂使用规范就糟蹋了](https://toutiao.io/k/lpnakbk) 
-- [【开发者头条】2022-01-25-推荐-据说看完这篇-JVM-要一小时](https://toutiao.io/k/1dauixx) 
-- [【开发者头条】2022-01-25-推荐-从MVC到DDD的架构演进](https://toutiao.io/k/c7mn7hz) 
 - [【开发者头条】2022-01-25-推荐-面试官问：设计高并发系统的时候，数据库层面该如何设计？](https://toutiao.io/k/p935kqr) 
-- [【开发者头条】2022-01-25-推荐-从零开始搭建公司微服务授权架构技术栈（3种模式），这架构稳的一批...](https://toutiao.io/k/4g58j8v) 
+- [【开发者头条】2022-01-25-推荐-据说看完这篇-JVM-要一小时](https://toutiao.io/k/1dauixx) 
+- [【开发者头条】2022-01-25-推荐-面渣逆袭：Java并发六十问，图文详解，快来看看你会多少道！](https://toutiao.io/k/4ndh1gd) 
+- [【开发者头条】2022-01-25-推荐-从MVC到DDD的架构演进](https://toutiao.io/k/c7mn7hz) 
+- [【开发者头条】2022-01-25-推荐-Redis-很屌，不懂使用规范就糟蹋了](https://toutiao.io/k/lpnakbk) 
+- [【开发者头条】2022-01-25-推荐-优雅整洁的-Java-代码命名技巧，风之极·净化](https://toutiao.io/k/abc8vou) 
+- [【开发者头条】2022-01-25-推荐-浅谈缓存最终一致性的解决方案](https://toutiao.io/k/mgym1lv) 
 - [【开发者头条】2022-01-25-推荐-JVM调优的几种场景（建议收藏）](https://toutiao.io/k/0mfx2nd) 
 - [【开发者头条】2022-01-25-推荐-服务探活的五种方式](https://toutiao.io/k/1wuwmui) 
-- [【开发者头条】2022-01-25-推荐-优雅整洁的-Java-代码命名技巧，风之极·净化](https://toutiao.io/k/abc8vou) 
+- [【开发者头条】2022-01-25-推荐-从零开始搭建公司微服务授权架构技术栈（3种模式），这架构稳的一批...](https://toutiao.io/k/4g58j8v) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

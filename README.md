@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-25 12:55:24，:rocket: 更新条数: +1810， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-25 13:05:19，:rocket: 更新条数: +1810， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-01-25-光猫桥接到路由器后，十几分钟一次断线](https://www.v2ex.com/t/830579) ![](assets/new.png)  
+- [2022-01-25-关于“我”](https://www.v2ex.com/t/830578) ![](assets/new.png)  
 - [2022-01-25-广州电信-219-开头段-ip-出口明显好过-119-段-ip](https://www.v2ex.com/t/830575) ![](assets/new.png)  
 - [2022-01-25-迫于过年不回家,深圳地区上门帮喂猫喂狗](https://www.v2ex.com/t/830572) ![](assets/new.png)  
 - [2022-01-25-微软电脑管家来了](https://www.v2ex.com/t/830571) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-01-25-20-岁的时候想，-5-年后的-25-岁会是什么样子呢](https://www.v2ex.com/t/830553) ![](assets/new.png)  
 - [2022-01-25-新版-iOS-微信内置的权限管理好评](https://www.v2ex.com/t/830552) ![](assets/new.png)  
 - [2022-01-25-纯-Python-如何-优雅可靠地下载文件](https://www.v2ex.com/t/830551) ![](assets/new.png)  
-- [2022-01-25-你们用-airpods-参与腾讯会议的时候，说话声音会糊掉吗？](https://www.v2ex.com/t/830550) ![](assets/new.png)  
-- [2022-01-25-好的-IM-软件需要具备什么优点呢？](https://www.v2ex.com/t/830546) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -571,8 +571,8 @@
 - [2022-01-25-聊一聊如何用C#轻松完成一个SAGA分布式事务](https://toutiao.io/k/f1t7jy9) ![](assets/new.png)  
 - [2022-01-25-OpenPPL-CUDA-技术解析](https://toutiao.io/k/zyuypw7) ![](assets/new.png)  
 - [2022-01-25-CPT：刷爆少样本REC任务！清华刘知远团队提出跨模态预训练Prompt-Tuning](https://toutiao.io/k/m7jujv7) ![](assets/new.png)  
-- [2022-01-25-推荐-Redis-很屌，不懂使用规范就糟蹋了](https://toutiao.io/k/lpnakbk) ![](assets/new.png)  
-- [2022-01-25-推荐-3万字-|-34-图-|-Netty-|-内核角度看IO模型](https://toutiao.io/k/zavpca4) ![](assets/new.png)  
+- [2022-01-25-推荐-据说看完这篇-JVM-要一小时](https://toutiao.io/k/1dauixx) ![](assets/new.png)  
+- [2022-01-25-推荐-关于代码质量退化的思考](https://toutiao.io/k/zzaz6vu) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

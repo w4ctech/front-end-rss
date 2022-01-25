@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-25 14:39:37，:rocket: 更新条数: +1811， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-25 14:54:24，:rocket: 更新条数: +1812， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-01-25-MacOS-12.1-锁屏后解锁部分应用退出](https://www.v2ex.com/t/830594) ![](assets/new.png)  
 - [2022-01-25-回到家乡，你们会"社恐"吗](https://www.v2ex.com/t/830593) ![](assets/new.png)  
 - [2022-01-25-.Net-技术摸索笔记，希望大家一起完善起来](https://www.v2ex.com/t/830592) ![](assets/new.png)  
 - [2022-01-25-阿里云有对标腾讯云的云开发能力吗？](https://www.v2ex.com/t/830591) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-01-25-年终定了，绩效大概是垫底](https://www.v2ex.com/t/830570) ![](assets/new.png)  
 - [2022-01-25-idea-运行-web-项目问题](https://www.v2ex.com/t/830569) ![](assets/new.png)  
 - [2022-01-25-上海深圳-全职招聘，腾讯元宇宙，前景无限](https://www.v2ex.com/t/830568) ![](assets/new.png)  
-- [2022-01-25-各位大佬们，问个友盟登录的问题](https://www.v2ex.com/t/830567) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -571,7 +571,7 @@
 - [2022-01-25-聊一聊如何用C#轻松完成一个SAGA分布式事务](https://toutiao.io/k/f1t7jy9) ![](assets/new.png)  
 - [2022-01-25-OpenPPL-CUDA-技术解析](https://toutiao.io/k/zyuypw7) ![](assets/new.png)  
 - [2022-01-25-CPT：刷爆少样本REC任务！清华刘知远团队提出跨模态预训练Prompt-Tuning](https://toutiao.io/k/m7jujv7) ![](assets/new.png)  
-- [2022-01-25-推荐-从MVC到DDD的架构演进](https://toutiao.io/k/c7mn7hz) ![](assets/new.png)  
+- [2022-01-25-推荐-Redis-很屌，不懂使用规范就糟蹋了](https://toutiao.io/k/lpnakbk) ![](assets/new.png)  
 - [2022-01-25-推荐-优雅整洁的-Java-代码命名技巧，风之极·净化](https://toutiao.io/k/abc8vou) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

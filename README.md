@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-25 08:25:14，:rocket: 更新条数: +1811， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-25 08:41:46，:rocket: 更新条数: +1809， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,9 @@
 </summary>
 
 
+- [2022-01-25-给读高中的表弟买电脑，-3~4-千价位](https://www.v2ex.com/t/830534) ![](assets/new.png)  
+- [2022-01-25-github-上有苹果用的纯净的中国法定节假日的日历订阅吗？](https://www.v2ex.com/t/830533) ![](assets/new.png)  
+- [2022-01-25-江苏电信访问一些网站自动跳转到反炸页面从而阻止用户访问](https://www.v2ex.com/t/830528) ![](assets/new.png)  
 - [2022-01-25-使用-Tin-快速安装-MateCloud](https://www.v2ex.com/t/830527) ![](assets/new.png)  
 - [2022-01-25-小程序推荐-大家都回家了吧，安利一个打牌计分小程序，给大家助助兴！](https://www.v2ex.com/t/830526) ![](assets/new.png)  
 - [2022-01-25-2022-年了，-win10-中文输入法/变成、的设定改回去了吗](https://www.v2ex.com/t/830525) ![](assets/new.png)  
@@ -508,9 +511,6 @@
 - [2022-01-25-绩效垫底了，蛋蛋的忧伤。。。-完全不知道领导什么意思？](https://www.v2ex.com/t/830508) ![](assets/new.png)  
 - [2022-01-25-迫于过年不想回家，问问大家有什么乐子](https://www.v2ex.com/t/830506) ![](assets/new.png)  
 - [2022-01-25-最近发现-app-里提示更新，但-app-store-中却没有更新的现象加剧了。是-app-store-的审核时间更长，更严格了么？](https://www.v2ex.com/t/830505) ![](assets/new.png)  
-- [2022-01-25-新浪的接口挂了吗？](https://www.v2ex.com/t/830504) ![](assets/new.png)  
-- [2022-01-25-关于-IDEA-markdown-换行](https://www.v2ex.com/t/830503) ![](assets/new.png)  
-- [2022-01-25-请教个定时任务处理问题](https://www.v2ex.com/t/830502) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -571,8 +571,8 @@
 - [2022-01-25-聊一聊如何用C#轻松完成一个SAGA分布式事务](https://toutiao.io/k/f1t7jy9) ![](assets/new.png)  
 - [2022-01-25-OpenPPL-CUDA-技术解析](https://toutiao.io/k/zyuypw7) ![](assets/new.png)  
 - [2022-01-25-CPT：刷爆少样本REC任务！清华刘知远团队提出跨模态预训练Prompt-Tuning](https://toutiao.io/k/m7jujv7) ![](assets/new.png)  
+- [2022-01-25-推荐-据说看完这篇-JVM-要一小时](https://toutiao.io/k/1dauixx) ![](assets/new.png)  
 - [2022-01-25-推荐-从MVC到DDD的架构演进](https://toutiao.io/k/c7mn7hz) ![](assets/new.png)  
-- [2022-01-25-推荐-Redis-很屌，不懂使用规范就糟蹋了](https://toutiao.io/k/lpnakbk) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

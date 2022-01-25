@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-01-25 13:17:02。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-01-25 13:32:06。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -332,7 +332,6 @@
 
 
 
-- [【V2EX】github-上有苹果用的纯净的中国法定节假日的日历订阅吗？](https://www.v2ex.com/t/830533)
 - [【开发者头条】开发者的瑞士军刀「GitHub-热点速览」](https://toutiao.io/k/9szt6fr)
 - [......【查看更多】......](./details/tags/git-svn.md)
 

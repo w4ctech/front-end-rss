@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-01-25 06:25:06。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-01-25 06:44:37。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -187,8 +187,6 @@
 - [【张鑫旭-鑫空间-鑫生活】JS复制文字到剪切板的极简实现及扩展](https://www.zhangxinxu.com/wordpress/2021/10/js-copy-paste-clipboard/)
 - [【V2EX】大佬们-js-世界地图可视化有推荐的库吗](https://www.v2ex.com/t/830486)
 - [【V2EX】求教：-javascript-对象里面可以只装一个单独方法吗](https://www.v2ex.com/t/830475)
-- [【V2EX】一行-JS-打开屏幕拾色器](https://www.v2ex.com/t/830446)
-- [【V2EX】哪些变量是要放在-data-选项里的？](https://www.v2ex.com/t/830445)
 - [【技术头条】公司这套架构统一处理try...catch，很牛逼！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14903&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493176%26amp%3Bidx%3D2%26amp%3Bsn%3D98ffd0ca1663318ac2b071210d422ade%26amp%3Bchksm%3Dfa3f0763cd488e75d3f771749cf8c542bc4a956a70c6a9b5d081ba654d919b72207bee03e9a5%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [......【查看更多】......](./details/tags/javascript.md)
 
@@ -301,6 +299,7 @@
 
 
 
+- [【V2EX】有没有练习-Vim-的网站或者软件推荐？](https://www.v2ex.com/t/830497)
 - [【V2EX】墙裂安利支持了插件市场的-raycast，可以抛弃-alfred-了](https://www.v2ex.com/t/830463)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 

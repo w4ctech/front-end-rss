@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-25 14:54:24，:rocket: 更新条数: +1812， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-25 15:12:45，:rocket: 更新条数: +1813， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,9 @@
 </summary>
 
 
+- [2022-01-25-入了小米-ac2100-刷了老毛子，寻更多使用姿势](https://www.v2ex.com/t/830597) ![](assets/new.png)  
+- [2022-01-25-请问下-Golang-有类似-MongoDB-自带那种交互式的实现吗，试了下-mongodb-的-golang-库似乎没有实现这种可以自已输入命令的方法](https://www.v2ex.com/t/830596) ![](assets/new.png)  
+- [2022-01-25-chrome-是怎么知道你有多少密码被泄露的，有没有内部人士来说说](https://www.v2ex.com/t/830595) ![](assets/new.png)  
 - [2022-01-25-MacOS-12.1-锁屏后解锁部分应用退出](https://www.v2ex.com/t/830594) ![](assets/new.png)  
 - [2022-01-25-回到家乡，你们会"社恐"吗](https://www.v2ex.com/t/830593) ![](assets/new.png)  
 - [2022-01-25-.Net-技术摸索笔记，希望大家一起完善起来](https://www.v2ex.com/t/830592) ![](assets/new.png)  
@@ -508,9 +511,6 @@
 - [2022-01-25-广州电信-219-开头段-ip-出口明显好过-119-段-ip](https://www.v2ex.com/t/830575) ![](assets/new.png)  
 - [2022-01-25-迫于过年不回家,深圳地区上门帮喂猫喂狗](https://www.v2ex.com/t/830572) ![](assets/new.png)  
 - [2022-01-25-微软电脑管家来了](https://www.v2ex.com/t/830571) ![](assets/new.png)  
-- [2022-01-25-年终定了，绩效大概是垫底](https://www.v2ex.com/t/830570) ![](assets/new.png)  
-- [2022-01-25-idea-运行-web-项目问题](https://www.v2ex.com/t/830569) ![](assets/new.png)  
-- [2022-01-25-上海深圳-全职招聘，腾讯元宇宙，前景无限](https://www.v2ex.com/t/830568) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -571,8 +571,8 @@
 - [2022-01-25-聊一聊如何用C#轻松完成一个SAGA分布式事务](https://toutiao.io/k/f1t7jy9) ![](assets/new.png)  
 - [2022-01-25-OpenPPL-CUDA-技术解析](https://toutiao.io/k/zyuypw7) ![](assets/new.png)  
 - [2022-01-25-CPT：刷爆少样本REC任务！清华刘知远团队提出跨模态预训练Prompt-Tuning](https://toutiao.io/k/m7jujv7) ![](assets/new.png)  
-- [2022-01-25-推荐-Redis-很屌，不懂使用规范就糟蹋了](https://toutiao.io/k/lpnakbk) ![](assets/new.png)  
-- [2022-01-25-推荐-优雅整洁的-Java-代码命名技巧，风之极·净化](https://toutiao.io/k/abc8vou) ![](assets/new.png)  
+- [2022-01-25-推荐-服务探活的五种方式](https://toutiao.io/k/1wuwmui) ![](assets/new.png)  
+- [2022-01-25-推荐-从MVC到DDD的架构演进](https://toutiao.io/k/c7mn7hz) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

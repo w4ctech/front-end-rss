@@ -9227,33 +9227,8 @@
         "date": "2022-01-25"
       },
       {
-        "title": "[推荐] 据说看完这篇 JVM 要一小时",
-        "link": "https://toutiao.io/k/1dauixx",
-        "date": "2022-01-25"
-      },
-      {
-        "title": "[推荐] 关于代码质量退化的思考",
-        "link": "https://toutiao.io/k/zzaz6vu",
-        "date": "2022-01-25"
-      },
-      {
-        "title": "[推荐] JVM调优的几种场景（建议收藏）",
-        "link": "https://toutiao.io/k/0mfx2nd",
-        "date": "2022-01-25"
-      },
-      {
-        "title": "[推荐] 从零开始搭建公司微服务授权架构技术栈（3种模式），这架构稳的一批...",
-        "link": "https://toutiao.io/k/4g58j8v",
-        "date": "2022-01-25"
-      },
-      {
-        "title": "[推荐] 服务探活的五种方式",
-        "link": "https://toutiao.io/k/1wuwmui",
-        "date": "2022-01-25"
-      },
-      {
-        "title": "[推荐] Redis 很屌，不懂使用规范就糟蹋了",
-        "link": "https://toutiao.io/k/lpnakbk",
+        "title": "[推荐] 优雅整洁的 Java 代码命名技巧，风之极·净化",
+        "link": "https://toutiao.io/k/abc8vou",
         "date": "2022-01-25"
       },
       {
@@ -9262,8 +9237,18 @@
         "date": "2022-01-25"
       },
       {
-        "title": "[推荐] 浅谈缓存最终一致性的解决方案",
-        "link": "https://toutiao.io/k/mgym1lv",
+        "title": "[推荐] 服务探活的五种方式",
+        "link": "https://toutiao.io/k/1wuwmui",
+        "date": "2022-01-25"
+      },
+      {
+        "title": "[推荐] 从零开始搭建公司微服务授权架构技术栈（3种模式），这架构稳的一批...",
+        "link": "https://toutiao.io/k/4g58j8v",
+        "date": "2022-01-25"
+      },
+      {
+        "title": "[推荐] 关于代码质量退化的思考",
+        "link": "https://toutiao.io/k/zzaz6vu",
         "date": "2022-01-25"
       },
       {
@@ -9282,8 +9267,23 @@
         "date": "2022-01-25"
       },
       {
-        "title": "[推荐] 优雅整洁的 Java 代码命名技巧，风之极·净化",
-        "link": "https://toutiao.io/k/abc8vou",
+        "title": "[推荐] JVM调优的几种场景（建议收藏）",
+        "link": "https://toutiao.io/k/0mfx2nd",
+        "date": "2022-01-25"
+      },
+      {
+        "title": "[推荐] Redis 很屌，不懂使用规范就糟蹋了",
+        "link": "https://toutiao.io/k/lpnakbk",
+        "date": "2022-01-25"
+      },
+      {
+        "title": "[推荐] 据说看完这篇 JVM 要一小时",
+        "link": "https://toutiao.io/k/1dauixx",
+        "date": "2022-01-25"
+      },
+      {
+        "title": "[推荐] 浅谈缓存最终一致性的解决方案",
+        "link": "https://toutiao.io/k/mgym1lv",
         "date": "2022-01-25"
       }
     ]

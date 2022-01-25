@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-25 15:56:56，:rocket: 更新条数: +1813， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-25 16:17:08，:rocket: 更新条数: +1810， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-01-25-iOS-15-的-Siri-不支持切换-AirPods-Pro-降噪/通透模式？](https://www.v2ex.com/t/830603) ![](assets/new.png)  
 - [2022-01-25-使用-Cloudflare-做-DNS-的网站近期国内无法访问了，可能是什么原因导致的？](https://www.v2ex.com/t/830602) ![](assets/new.png)  
 - [2022-01-25-阿里云-云原生-北京/杭州/深圳-2023-届春季实习生招聘](https://www.v2ex.com/t/830600) ![](assets/new.png)  
 - [2022-01-25-MIT-线性代数更新了-2020-版-Gilbert-Strang](https://www.v2ex.com/t/830599) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-01-25-出全新未拆封-mbp14-寸](https://www.v2ex.com/t/830582) ![](assets/new.png)  
 - [2022-01-25-想做一套交流社区网站](https://www.v2ex.com/t/830580) ![](assets/new.png)  
 - [2022-01-25-光猫桥接到路由器后，十几分钟一次断线](https://www.v2ex.com/t/830579) ![](assets/new.png)  
-- [2022-01-25-关于“我”](https://www.v2ex.com/t/830578) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -560,8 +560,8 @@
 - [2022-01-25-腾讯云十亿级-Node.js-网关的架构设计与工程实践](https://toutiao.io/k/4dc37rq) ![](assets/new.png)  
 - [2022-01-25-前端该如何优雅地Mock数据](https://toutiao.io/k/dfahlpc) ![](assets/new.png)  
 - [2022-01-25-为什么SpringBoot-jar包中的文件读取不到？](https://toutiao.io/k/dnx4tha) ![](assets/new.png)  
-- [2022-01-25-Streaming-101:批处理之外的流式世界第一部分](https://toutiao.io/k/uljyrzy) ![](assets/new.png)  
 - [2022-01-25-JVM调优的几种场景（建议收藏）](https://toutiao.io/k/fib82nl) ![](assets/new.png)  
+- [2022-01-25-Streaming-101:批处理之外的流式世界第一部分](https://toutiao.io/k/uljyrzy) ![](assets/new.png)  
 - [2022-01-25-如何落地业务建模4-将模型实现为RESTful-API](https://toutiao.io/k/g9bytug) ![](assets/new.png)  
 - [2022-01-25-《雷锤3》魔数你见过吗？这10行代码简直吊炸天!](https://toutiao.io/k/5rqz8x0) ![](assets/new.png)  
 - [2022-01-25-在线进行分库分表中间件的平滑升级，正所谓艺高人胆大](https://toutiao.io/k/rvyc15u) ![](assets/new.png)  
@@ -571,8 +571,8 @@
 - [2022-01-25-聊一聊如何用C#轻松完成一个SAGA分布式事务](https://toutiao.io/k/f1t7jy9) ![](assets/new.png)  
 - [2022-01-25-OpenPPL-CUDA-技术解析](https://toutiao.io/k/zyuypw7) ![](assets/new.png)  
 - [2022-01-25-CPT：刷爆少样本REC任务！清华刘知远团队提出跨模态预训练Prompt-Tuning](https://toutiao.io/k/m7jujv7) ![](assets/new.png)  
-- [2022-01-25-推荐-服务探活的五种方式](https://toutiao.io/k/1wuwmui) ![](assets/new.png)  
-- [2022-01-25-推荐-从MVC到DDD的架构演进](https://toutiao.io/k/c7mn7hz) ![](assets/new.png)  
+- [2022-01-25-推荐-关于代码质量退化的思考](https://toutiao.io/k/zzaz6vu) ![](assets/new.png)  
+- [2022-01-25-推荐-据说看完这篇-JVM-要一小时](https://toutiao.io/k/1dauixx) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-25 12:33:50，:rocket: 更新条数: +1811， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-25 12:55:24，:rocket: 更新条数: +1810， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -67,7 +67,7 @@
 
 - [2022-01-25-最新疫情：全国新冠累计确诊105705例-累计接种新冠疫苗超29.73亿剂次](https://m.caixin.com/m/2022-01-25/101834628.html) ![](assets/new.png)  
 - [2022-01-25-北京新增15例德尔塔感染者，核酸检测机构不得拒绝服务健康宝弹窗者](https://m.caixin.com/m/2022-01-25/101834748.html) ![](assets/new.png)  
-- [2022-01-25-解药｜国内首个mRNA疫苗I期临床数据显示有效性达95%](https://m.caixin.com/m/2022-01-25/101834715.html) ![](assets/new.png)  
+- [2022-01-25-解药｜国内首个mRNA疫苗I期临床数据显示抗体转阳率达95%](https://m.caixin.com/m/2022-01-25/101834715.html) ![](assets/new.png)  
 - [2022-01-25-最新海外疫情：新冠感染超3.54亿-累计接种新冠疫苗超98.7亿剂次](https://m.caixin.com/m/2022-01-25/101834623.html) ![](assets/new.png)  
 - [2022-01-25-新冠肺炎防疫全纪录（2020年）](https://mappv5.caixin.com/m_topic_detail/1670.html) ![](assets/new.png)  
 - [2022-01-25-研究称奥密克戎在塑料和皮肤上存活更久，世卫指疫情未达终结｜大流行手记（1月24日）](https://m.caixin.com/m/2022-01-25/101834420.html) ![](assets/new.png)  
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-01-25-广州电信-219-开头段-ip-出口明显好过-119-段-ip](https://www.v2ex.com/t/830575) ![](assets/new.png)  
 - [2022-01-25-迫于过年不回家,深圳地区上门帮喂猫喂狗](https://www.v2ex.com/t/830572) ![](assets/new.png)  
 - [2022-01-25-微软电脑管家来了](https://www.v2ex.com/t/830571) ![](assets/new.png)  
 - [2022-01-25-年终定了，绩效大概是垫底](https://www.v2ex.com/t/830570) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-01-25-纯-Python-如何-优雅可靠地下载文件](https://www.v2ex.com/t/830551) ![](assets/new.png)  
 - [2022-01-25-你们用-airpods-参与腾讯会议的时候，说话声音会糊掉吗？](https://www.v2ex.com/t/830550) ![](assets/new.png)  
 - [2022-01-25-好的-IM-软件需要具备什么优点呢？](https://www.v2ex.com/t/830546) ![](assets/new.png)  
-- [2022-01-25-Hodl4Gold-H4G-收购-POW，成为-BSC-网络中的并购创举](https://www.v2ex.com/t/830545) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -562,8 +562,8 @@
 - [2022-01-25-Streaming-101:批处理之外的流式世界第一部分](https://toutiao.io/k/uljyrzy) ![](assets/new.png)  
 - [2022-01-25-为什么SpringBoot-jar包中的文件读取不到？](https://toutiao.io/k/dnx4tha) ![](assets/new.png)  
 - [2022-01-25-如何落地业务建模4-将模型实现为RESTful-API](https://toutiao.io/k/g9bytug) ![](assets/new.png)  
-- [2022-01-25-《雷锤3》魔数你见过吗？这10行代码简直吊炸天!](https://toutiao.io/k/5rqz8x0) ![](assets/new.png)  
 - [2022-01-25-JVM调优的几种场景（建议收藏）](https://toutiao.io/k/fib82nl) ![](assets/new.png)  
+- [2022-01-25-《雷锤3》魔数你见过吗？这10行代码简直吊炸天!](https://toutiao.io/k/5rqz8x0) ![](assets/new.png)  
 - [2022-01-25-在线进行分库分表中间件的平滑升级，正所谓艺高人胆大](https://toutiao.io/k/rvyc15u) ![](assets/new.png)  
 - [2022-01-25-SkyWalking-针对-gRPC-的负载均衡和自动扩容实践](https://toutiao.io/k/9you17q) ![](assets/new.png)  
 - [2022-01-25-基于Calcite的分布式多数据源查询](https://toutiao.io/k/zw4evb3) ![](assets/new.png)  
@@ -571,8 +571,8 @@
 - [2022-01-25-聊一聊如何用C#轻松完成一个SAGA分布式事务](https://toutiao.io/k/f1t7jy9) ![](assets/new.png)  
 - [2022-01-25-OpenPPL-CUDA-技术解析](https://toutiao.io/k/zyuypw7) ![](assets/new.png)  
 - [2022-01-25-CPT：刷爆少样本REC任务！清华刘知远团队提出跨模态预训练Prompt-Tuning](https://toutiao.io/k/m7jujv7) ![](assets/new.png)  
-- [2022-01-25-推荐-从MVC到DDD的架构演进](https://toutiao.io/k/c7mn7hz) ![](assets/new.png)  
-- [2022-01-25-推荐-浅谈缓存最终一致性的解决方案](https://toutiao.io/k/mgym1lv) ![](assets/new.png)  
+- [2022-01-25-推荐-Redis-很屌，不懂使用规范就糟蹋了](https://toutiao.io/k/lpnakbk) ![](assets/new.png)  
+- [2022-01-25-推荐-3万字-|-34-图-|-Netty-|-内核角度看IO模型](https://toutiao.io/k/zavpca4) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

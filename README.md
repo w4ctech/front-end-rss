@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-25 11:39:32，:rocket: 更新条数: +1810， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-25 11:54:30，:rocket: 更新条数: +1810， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,9 @@
 </summary>
 
 
+- [2022-01-25-微软电脑管家来了](https://www.v2ex.com/t/830571) ![](assets/new.png)  
+- [2022-01-25-年终定了，绩效大概是垫底](https://www.v2ex.com/t/830570) ![](assets/new.png)  
+- [2022-01-25-idea-运行-web-项目问题](https://www.v2ex.com/t/830569) ![](assets/new.png)  
 - [2022-01-25-上海深圳-全职招聘，腾讯元宇宙，前景无限](https://www.v2ex.com/t/830568) ![](assets/new.png)  
 - [2022-01-25-各位大佬们，问个友盟登录的问题](https://www.v2ex.com/t/830567) ![](assets/new.png)  
 - [2022-01-25-请问在-mac-下参加远程会议投屏时如何使用-PPT-的演讲者模式？](https://www.v2ex.com/t/830562) ![](assets/new.png)  
@@ -507,10 +510,7 @@
 - [2022-01-25-你们用-airpods-参与腾讯会议的时候，说话声音会糊掉吗？](https://www.v2ex.com/t/830550) ![](assets/new.png)  
 - [2022-01-25-好的-IM-软件需要具备什么优点呢？](https://www.v2ex.com/t/830546) ![](assets/new.png)  
 - [2022-01-25-Hodl4Gold-H4G-收购-POW，成为-BSC-网络中的并购创举](https://www.v2ex.com/t/830545) ![](assets/new.png)  
-- [2022-01-25-在大陸這麼做有什麼風險嗎](https://www.v2ex.com/t/830543) ![](assets/new.png)  
 - [2022-01-25-刚发年终奖半小时就提离职好不好](https://www.v2ex.com/t/830542) ![](assets/new.png)  
-- [2022-01-25-各位大佬们，问个友盟登录的问题，](https://www.v2ex.com/t/830541) ![](assets/new.png)  
-- [2022-01-25-2022-年求-24-寸-4K-显示器推荐](https://www.v2ex.com/t/830540) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -571,8 +571,8 @@
 - [2022-01-25-聊一聊如何用C#轻松完成一个SAGA分布式事务](https://toutiao.io/k/f1t7jy9) ![](assets/new.png)  
 - [2022-01-25-OpenPPL-CUDA-技术解析](https://toutiao.io/k/zyuypw7) ![](assets/new.png)  
 - [2022-01-25-CPT：刷爆少样本REC任务！清华刘知远团队提出跨模态预训练Prompt-Tuning](https://toutiao.io/k/m7jujv7) ![](assets/new.png)  
-- [2022-01-25-推荐-服务探活的五种方式](https://toutiao.io/k/1wuwmui) ![](assets/new.png)  
-- [2022-01-25-推荐-据说看完这篇-JVM-要一小时](https://toutiao.io/k/1dauixx) ![](assets/new.png)  
+- [2022-01-25-推荐-浅谈缓存最终一致性的解决方案](https://toutiao.io/k/mgym1lv) ![](assets/new.png)  
+- [2022-01-25-推荐-优雅整洁的-Java-代码命名技巧，风之极·净化](https://toutiao.io/k/abc8vou) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

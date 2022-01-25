@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-25 02:13:53，:rocket: 更新条数: +1804， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-25 02:38:03，:rocket: 更新条数: +1804， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -66,6 +66,7 @@
 
 
 - [2022-01-25-1月24日全国新增新冠45例-六省份本土18例](https://m.caixin.com/m/2022-01-25/101834386.html) ![](assets/new.png)  
+- [2022-01-25-研究称奥密克戎在塑料和皮肤上存活更久，世卫指疫情未达终结｜大流行手记（1月24日）](https://m.caixin.com/m/2022-01-25/101834420.html) ![](assets/new.png)  
 - [2022-01-25-【图集】法国疫苗通行证措施正式生效](https://photos.caixin.com/m/2022-01-25/101834413.html) ![](assets/new.png)  
 - [2022-01-24-北京新增本土感染者9例-丰台将启第二轮核酸筛查](https://m.caixin.com/m/2022-01-24/101834253.html) ![](assets/new.png)  
 - [2022-01-24-上海新增1例确诊-系机场货运区办理进口业务人员](https://m.caixin.com/m/2022-01-24/101834050.html) ![](assets/new.png)  
@@ -84,7 +85,6 @@
 - [2022-01-22-不满中方“熔断”-美国停飞中国航司44个航班](https://companies.caixin.com/m/2022-01-22/101833627.html) ![](assets/new.png)  
 - [2022-01-21-北京新增12本土阳性病例-用国产替换进口标签者被立案侦查](https://m.caixin.com/m/2022-01-21/101833268.html) ![](assets/new.png)  
 - [2022-01-21-【境内疫情观察】北京新增5例本土病例（1月20日）](https://database.caixin.com/m/2022-01-21/101833122.html) ![](assets/new.png)  
-- [2022-01-21-柳叶刀刊文预测3月为“大流行”关键节点-法国将放松限制｜大流行手记（1月20日）](https://m.caixin.com/m/2022-01-21/101833057.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -494,6 +494,12 @@
 </summary>
 
 
+- [2022-01-25-airpods-电话来电,耳机爆炸](https://www.v2ex.com/t/830421) ![](assets/new.png)  
+- [2022-01-25-学软件开发上网课，-1-个-27-寸显示器-VS-2-个-24-寸显示器，选哪个？](https://www.v2ex.com/t/830420) ![](assets/new.png)  
+- [2022-01-25-webpack-里面-definePlugin-里面定义了一些-process.env-的变量，这个是如何应用到-runtime-环境的？](https://www.v2ex.com/t/830419) ![](assets/new.png)  
+- [2022-01-25-macOS，-200-元以下的无线鼠标都是垃圾doge](https://www.v2ex.com/t/830416) ![](assets/new.png)  
+- [2022-01-25-微信小程序登录问题](https://www.v2ex.com/t/830415) ![](assets/new.png)  
+- [2022-01-25-Windows-怎么开发配置环境来着，-WSL-好像没啥用啊](https://www.v2ex.com/t/830414) ![](assets/new.png)  
 - [2022-01-25-从老婆过年要值班，聊聊医学生的辛苦阿！还是咱们计科好！](https://www.v2ex.com/t/830412) ![](assets/new.png)  
 - [2022-01-25-iOS-15.2.1-通知中心的-BUG](https://www.v2ex.com/t/830411) ![](assets/new.png)  
 - [2022-01-25-换手机登录不刷脸就只能被限制吗？](https://www.v2ex.com/t/830409) ![](assets/new.png)  
@@ -508,12 +514,6 @@
 - [2022-01-25-微服务怎么单元测试](https://www.v2ex.com/t/830397) ![](assets/new.png)  
 - [2022-01-25-NFC-已录入门卡，刷门有响应，会嘀的一声，但无法开门是怎么回事？](https://www.v2ex.com/t/830396) ![](assets/new.png)  
 - [2022-01-25-目前在杭州，过年回家想给老丈人带点杭州的东西，求推荐。-有考虑过茶叶，但觉得，买的少不好看，买的多太贵，有点犹豫](https://www.v2ex.com/t/830395) ![](assets/new.png)  
-- [2022-01-25-话说我宽带网速都有挺好-有-1000M，但为啥用-Chrome-系浏览器看-B-站经常缓冲不过来？](https://www.v2ex.com/t/830394) ![](assets/new.png)  
-- [2022-01-25-请问-Clion-的跳转是基于-cmake-的吗？那该怎么用容器开发呢？](https://www.v2ex.com/t/830393) ![](assets/new.png)  
-- [2022-01-25-关于机器学习中应用线性回归的几点疑问](https://www.v2ex.com/t/830392) ![](assets/new.png)  
-- [2022-01-25-AirPods3-连接-mbp-只有单边有声音](https://www.v2ex.com/t/830389) ![](assets/new.png)  
-- [2022-01-25-13-Pro-Max-续航真的是刚](https://www.v2ex.com/t/830388) ![](assets/new.png)  
-- [2022-01-24-有什么好用的-url-缩短服务吗？](https://www.v2ex.com/t/830386) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -566,16 +566,16 @@
 - [2022-01-25-《雷锤3》魔数你见过吗？这10行代码简直吊炸天!](https://toutiao.io/k/5rqz8x0) ![](assets/new.png)  
 - [2022-01-25-如何落地业务建模4-将模型实现为RESTful-API](https://toutiao.io/k/g9bytug) ![](assets/new.png)  
 - [2022-01-25-推荐-浅谈缓存最终一致性的解决方案](https://toutiao.io/k/mgym1lv) ![](assets/new.png)  
-- [2022-01-25-推荐-从MVC到DDD的架构演进](https://toutiao.io/k/c7mn7hz) ![](assets/new.png)  
-- [2022-01-25-推荐-Redis-很屌，不懂使用规范就糟蹋了](https://toutiao.io/k/lpnakbk) ![](assets/new.png)  
-- [2022-01-25-推荐-面渣逆袭：Java并发六十问，图文详解，快来看看你会多少道！](https://toutiao.io/k/4ndh1gd) ![](assets/new.png)  
 - [2022-01-25-推荐-关于代码质量退化的思考](https://toutiao.io/k/zzaz6vu) ![](assets/new.png)  
-- [2022-01-25-推荐-JVM调优的几种场景（建议收藏）](https://toutiao.io/k/0mfx2nd) ![](assets/new.png)  
-- [2022-01-25-推荐-面试官问：设计高并发系统的时候，数据库层面该如何设计？](https://toutiao.io/k/p935kqr) ![](assets/new.png)  
-- [2022-01-25-推荐-服务探活的五种方式](https://toutiao.io/k/1wuwmui) ![](assets/new.png)  
-- [2022-01-25-推荐-从零开始搭建公司微服务授权架构技术栈（3种模式），这架构稳的一批...](https://toutiao.io/k/4g58j8v) ![](assets/new.png)  
-- [2022-01-25-推荐-据说看完这篇-JVM-要一小时](https://toutiao.io/k/1dauixx) ![](assets/new.png)  
 - [2022-01-25-推荐-3万字-|-34-图-|-Netty-|-内核角度看IO模型](https://toutiao.io/k/zavpca4) ![](assets/new.png)  
+- [2022-01-25-推荐-面渣逆袭：Java并发六十问，图文详解，快来看看你会多少道！](https://toutiao.io/k/4ndh1gd) ![](assets/new.png)  
+- [2022-01-25-推荐-Redis-很屌，不懂使用规范就糟蹋了](https://toutiao.io/k/lpnakbk) ![](assets/new.png)  
+- [2022-01-25-推荐-据说看完这篇-JVM-要一小时](https://toutiao.io/k/1dauixx) ![](assets/new.png)  
+- [2022-01-25-推荐-从MVC到DDD的架构演进](https://toutiao.io/k/c7mn7hz) ![](assets/new.png)  
+- [2022-01-25-推荐-面试官问：设计高并发系统的时候，数据库层面该如何设计？](https://toutiao.io/k/p935kqr) ![](assets/new.png)  
+- [2022-01-25-推荐-从零开始搭建公司微服务授权架构技术栈（3种模式），这架构稳的一批...](https://toutiao.io/k/4g58j8v) ![](assets/new.png)  
+- [2022-01-25-推荐-JVM调优的几种场景（建议收藏）](https://toutiao.io/k/0mfx2nd) ![](assets/new.png)  
+- [2022-01-25-推荐-服务探活的五种方式](https://toutiao.io/k/1wuwmui) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-25 11:18:17，:rocket: 更新条数: +1810， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-25 11:36:16，:rocket: 更新条数: +1810， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-01-25-上海深圳-全职招聘，腾讯元宇宙，前景无限](https://www.v2ex.com/t/830568) ![](assets/new.png)  
+- [2022-01-25-各位大佬们，问个友盟登录的问题](https://www.v2ex.com/t/830567) ![](assets/new.png)  
 - [2022-01-25-请问在-mac-下参加远程会议投屏时如何使用-PPT-的演讲者模式？](https://www.v2ex.com/t/830562) ![](assets/new.png)  
 - [2022-01-25-京东非官方旗舰舰店买-mbp（2021-款）靠谱吗？](https://www.v2ex.com/t/830561) ![](assets/new.png)  
 - [2022-01-25-阿里云把我们办公室公网-ip-禁了](https://www.v2ex.com/t/830559) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-01-25-刚发年终奖半小时就提离职好不好](https://www.v2ex.com/t/830542) ![](assets/new.png)  
 - [2022-01-25-各位大佬们，问个友盟登录的问题，](https://www.v2ex.com/t/830541) ![](assets/new.png)  
 - [2022-01-25-2022-年求-24-寸-4K-显示器推荐](https://www.v2ex.com/t/830540) ![](assets/new.png)  
-- [2022-01-25-青云开源的函数服务-openfunction，哪些是属于国外的技术](https://www.v2ex.com/t/830539) ![](assets/new.png)  
-- [2022-01-25-为什么-Mac-有的时候打开文件夹会默认用-idea-打开呢？](https://www.v2ex.com/t/830538) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -571,8 +571,8 @@
 - [2022-01-25-聊一聊如何用C#轻松完成一个SAGA分布式事务](https://toutiao.io/k/f1t7jy9) ![](assets/new.png)  
 - [2022-01-25-OpenPPL-CUDA-技术解析](https://toutiao.io/k/zyuypw7) ![](assets/new.png)  
 - [2022-01-25-CPT：刷爆少样本REC任务！清华刘知远团队提出跨模态预训练Prompt-Tuning](https://toutiao.io/k/m7jujv7) ![](assets/new.png)  
-- [2022-01-25-推荐-3万字-|-34-图-|-Netty-|-内核角度看IO模型](https://toutiao.io/k/zavpca4) ![](assets/new.png)  
-- [2022-01-25-推荐-浅谈缓存最终一致性的解决方案](https://toutiao.io/k/mgym1lv) ![](assets/new.png)  
+- [2022-01-25-推荐-服务探活的五种方式](https://toutiao.io/k/1wuwmui) ![](assets/new.png)  
+- [2022-01-25-推荐-据说看完这篇-JVM-要一小时](https://toutiao.io/k/1dauixx) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

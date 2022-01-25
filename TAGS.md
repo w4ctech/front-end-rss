@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-01-25 10:42:36。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-01-25 10:54:56。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -281,7 +281,6 @@
 - [【武汉肺炎防疫全纪录(财新网)】解药|新冠mRNA疫苗安全性有哪些挑战？](https://m.caixin.com/m/2021-01-08/101648043.html)
 - [【武汉肺炎防疫全纪录(财新网)】大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html)
 - [【V2EX】造了一个-protoc-gen-fieldmask-插件](https://www.v2ex.com/t/830537)
-- [【V2EX】Go-发送请求后要等待返回值为-Success-在进行下一步流程该怎么实现？](https://www.v2ex.com/t/830510)
 - [【技术头条】API面试四连杀：接口如何设计？安全如何保证？签名如何实现？防重如何实现？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14901&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493135%26amp%3Bidx%3D2%26amp%3Bsn%3D4569a4965be1a6e8b85369edd7fc91dc%26amp%3Bchksm%3Dfa3f0754cd488e427c9670d6aa67e0693725ee332f26e011767ba85562bd6bb08a65cc8aaaba%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【技术头条】一文读懂浏览器存储与缓存机制-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=14896&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F422666602%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【开发者头条】推荐-浅谈缓存最终一致性的解决方案](https://toutiao.io/k/mgym1lv)
@@ -353,7 +352,6 @@
 
 
 
-- [【V2EX】发个招聘。前景无限，不缺钱！](https://www.v2ex.com/t/830547)
 - [【开发者头条】推荐-面试官问：设计高并发系统的时候，数据库层面该如何设计？](https://toutiao.io/k/p935kqr)
 - [......【查看更多】......](./details/tags/job-interview.md)
 
@@ -415,12 +413,13 @@
 
 
 - [【武汉肺炎防疫全纪录(财新网)】最新疫情：全国新冠累计确诊105705例-累计接种新冠疫苗超29.73亿剂次](https://m.caixin.com/m/2022-01-25/101834628.html)
+- [【武汉肺炎防疫全纪录(财新网)】北京新增15例德尔塔感染者，核酸检测机构不得拒绝服务健康宝弹窗者](https://m.caixin.com/m/2022-01-25/101834748.html)
 - [【武汉肺炎防疫全纪录(财新网)】解药｜国内首个mRNA疫苗I期临床数据显示有效性达95%](https://m.caixin.com/m/2022-01-25/101834715.html)
 - [【武汉肺炎防疫全纪录(财新网)】最新海外疫情：新冠感染超3.54亿-累计接种新冠疫苗超98.7亿剂次](https://m.caixin.com/m/2022-01-25/101834623.html)
 - [【武汉肺炎防疫全纪录(财新网)】研究称奥密克戎在塑料和皮肤上存活更久，世卫指疫情未达终结｜大流行手记（1月24日）](https://m.caixin.com/m/2022-01-25/101834420.html)
 - [【武汉肺炎防疫全纪录(财新网)】【图集】法国疫苗通行证措施正式生效](https://photos.caixin.com/m/2022-01-25/101834413.html)
-- [【武汉肺炎防疫全纪录(财新网)】北京新增本土感染者9例-丰台将启第二轮核酸筛查](https://m.caixin.com/m/2022-01-24/101834253.html)
 - [【武汉肺炎防疫全纪录(财新网)】上海新增1例确诊-系机场货运区办理进口业务人员](https://m.caixin.com/m/2022-01-24/101834050.html)
+- [【武汉肺炎防疫全纪录(财新网)】北京新增本土感染者9例-丰台将启第二轮核酸筛查](https://m.caixin.com/m/2022-01-24/101834253.html)
 - [【武汉肺炎防疫全纪录(财新网)】【境内疫情观察】北京市丰台区开展全员核酸检测（1月23日）](https://database.caixin.com/m/2022-01-24/101834159.html)
 - [【武汉肺炎防疫全纪录(财新网)】《柳叶刀》论文称混打加强针效果更优-新西兰总理因Omicron取消婚礼｜大流行手记（1月23日）](https://m.caixin.com/m/2022-01-24/101833964.html)
 - [【武汉肺炎防疫全纪录(财新网)】港大发现新药物组合可作为潜在广谱抗新冠口服药](https://m.caixin.com/m/2022-01-24/101834067.html)
@@ -433,7 +432,6 @@
 - [【武汉肺炎防疫全纪录(财新网)】【境内疫情观察】北京新增10例本土病例（1月21日）](https://database.caixin.com/m/2022-01-22/101833675.html)
 - [【武汉肺炎防疫全纪录(财新网)】欧盟讨论第四剂必要性-美料将为5岁以下儿童接种｜大流行手记（1月21日）](https://m.caixin.com/m/2022-01-22/101833640.html)
 - [【武汉肺炎防疫全纪录(财新网)】不满中方“熔断”-美国停飞中国航司44个航班](https://companies.caixin.com/m/2022-01-22/101833627.html)
-- [【武汉肺炎防疫全纪录(财新网)】北京新增12本土阳性病例-用国产替换进口标签者被立案侦查](https://m.caixin.com/m/2022-01-21/101833268.html)
 - [......【查看更多】......](./details/tags/other.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

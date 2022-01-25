@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-25 10:42:36，:rocket: 更新条数: +1813， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-25 10:54:56，:rocket: 更新条数: +1812， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -66,13 +66,14 @@
 
 
 - [2022-01-25-最新疫情：全国新冠累计确诊105705例-累计接种新冠疫苗超29.73亿剂次](https://m.caixin.com/m/2022-01-25/101834628.html) ![](assets/new.png)  
+- [2022-01-25-北京新增15例德尔塔感染者，核酸检测机构不得拒绝服务健康宝弹窗者](https://m.caixin.com/m/2022-01-25/101834748.html) ![](assets/new.png)  
 - [2022-01-25-解药｜国内首个mRNA疫苗I期临床数据显示有效性达95%](https://m.caixin.com/m/2022-01-25/101834715.html) ![](assets/new.png)  
 - [2022-01-25-最新海外疫情：新冠感染超3.54亿-累计接种新冠疫苗超98.7亿剂次](https://m.caixin.com/m/2022-01-25/101834623.html) ![](assets/new.png)  
 - [2022-01-25-新冠肺炎防疫全纪录（2020年）](https://mappv5.caixin.com/m_topic_detail/1670.html) ![](assets/new.png)  
 - [2022-01-25-研究称奥密克戎在塑料和皮肤上存活更久，世卫指疫情未达终结｜大流行手记（1月24日）](https://m.caixin.com/m/2022-01-25/101834420.html) ![](assets/new.png)  
 - [2022-01-25-【图集】法国疫苗通行证措施正式生效](https://photos.caixin.com/m/2022-01-25/101834413.html) ![](assets/new.png)  
-- [2022-01-24-北京新增本土感染者9例-丰台将启第二轮核酸筛查](https://m.caixin.com/m/2022-01-24/101834253.html) ![](assets/new.png)  
 - [2022-01-24-上海新增1例确诊-系机场货运区办理进口业务人员](https://m.caixin.com/m/2022-01-24/101834050.html) ![](assets/new.png)  
+- [2022-01-24-北京新增本土感染者9例-丰台将启第二轮核酸筛查](https://m.caixin.com/m/2022-01-24/101834253.html) ![](assets/new.png)  
 - [2022-01-24-【境内疫情观察】北京市丰台区开展全员核酸检测（1月23日）](https://database.caixin.com/m/2022-01-24/101834159.html) ![](assets/new.png)  
 - [2022-01-24-《柳叶刀》论文称混打加强针效果更优-新西兰总理因Omicron取消婚礼｜大流行手记（1月23日）](https://m.caixin.com/m/2022-01-24/101833964.html) ![](assets/new.png)  
 - [2022-01-24-港大发现新药物组合可作为潜在广谱抗新冠口服药](https://m.caixin.com/m/2022-01-24/101834067.html) ![](assets/new.png)  
@@ -84,7 +85,6 @@
 - [2022-01-22-多起本土聚集性疫情见缓，专家称动态清零是现阶段最佳策略](https://m.caixin.com/m/2022-01-22/101833711.html) ![](assets/new.png)  
 - [2022-01-22-【境内疫情观察】北京新增10例本土病例（1月21日）](https://database.caixin.com/m/2022-01-22/101833675.html) ![](assets/new.png)  
 - [2022-01-22-欧盟讨论第四剂必要性-美料将为5岁以下儿童接种｜大流行手记（1月21日）](https://m.caixin.com/m/2022-01-22/101833640.html) ![](assets/new.png)  
-- [2022-01-22-不满中方“熔断”-美国停飞中国航司44个航班](https://companies.caixin.com/m/2022-01-22/101833627.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-01-25-请问在-mac-下参加远程会议投屏时如何使用-PPT-的演讲者模式？](https://www.v2ex.com/t/830562) ![](assets/new.png)  
+- [2022-01-25-京东非官方旗舰舰店买-mbp（2021-款）靠谱吗？](https://www.v2ex.com/t/830561) ![](assets/new.png)  
 - [2022-01-25-阿里云把我们办公室公网-ip-禁了](https://www.v2ex.com/t/830559) ![](assets/new.png)  
 - [2022-01-25-腾讯的-k8s-pod-ip-怎么和-node-ip-平级的](https://www.v2ex.com/t/830558) ![](assets/new.png)  
 - [2022-01-25-有没有类似百度文库这样的开源网站，能够实现在线阅读即可。](https://www.v2ex.com/t/830557) ![](assets/new.png)  
@@ -501,7 +503,6 @@
 - [2022-01-25-新版-iOS-微信内置的权限管理好评](https://www.v2ex.com/t/830552) ![](assets/new.png)  
 - [2022-01-25-纯-Python-如何-优雅可靠地下载文件](https://www.v2ex.com/t/830551) ![](assets/new.png)  
 - [2022-01-25-你们用-airpods-参与腾讯会议的时候，说话声音会糊掉吗？](https://www.v2ex.com/t/830550) ![](assets/new.png)  
-- [2022-01-25-发个招聘。前景无限，不缺钱！](https://www.v2ex.com/t/830547) ![](assets/new.png)  
 - [2022-01-25-好的-IM-软件需要具备什么优点呢？](https://www.v2ex.com/t/830546) ![](assets/new.png)  
 - [2022-01-25-Hodl4Gold-H4G-收购-POW，成为-BSC-网络中的并购创举](https://www.v2ex.com/t/830545) ![](assets/new.png)  
 - [2022-01-25-在大陸這麼做有什麼風險嗎](https://www.v2ex.com/t/830543) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-01-25-2022-年求-24-寸-4K-显示器推荐](https://www.v2ex.com/t/830540) ![](assets/new.png)  
 - [2022-01-25-青云开源的函数服务-openfunction，哪些是属于国外的技术](https://www.v2ex.com/t/830539) ![](assets/new.png)  
 - [2022-01-25-为什么-Mac-有的时候打开文件夹会默认用-idea-打开呢？](https://www.v2ex.com/t/830538) ![](assets/new.png)  
-- [2022-01-25-造了一个-protoc-gen-fieldmask-插件](https://www.v2ex.com/t/830537) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -561,8 +561,8 @@
 - [2022-01-25-前端该如何优雅地Mock数据](https://toutiao.io/k/dfahlpc) ![](assets/new.png)  
 - [2022-01-25-Streaming-101:批处理之外的流式世界第一部分](https://toutiao.io/k/uljyrzy) ![](assets/new.png)  
 - [2022-01-25-如何落地业务建模4-将模型实现为RESTful-API](https://toutiao.io/k/g9bytug) ![](assets/new.png)  
-- [2022-01-25-《雷锤3》魔数你见过吗？这10行代码简直吊炸天!](https://toutiao.io/k/5rqz8x0) ![](assets/new.png)  
 - [2022-01-25-为什么SpringBoot-jar包中的文件读取不到？](https://toutiao.io/k/dnx4tha) ![](assets/new.png)  
+- [2022-01-25-《雷锤3》魔数你见过吗？这10行代码简直吊炸天!](https://toutiao.io/k/5rqz8x0) ![](assets/new.png)  
 - [2022-01-25-JVM调优的几种场景（建议收藏）](https://toutiao.io/k/fib82nl) ![](assets/new.png)  
 - [2022-01-25-在线进行分库分表中间件的平滑升级，正所谓艺高人胆大](https://toutiao.io/k/rvyc15u) ![](assets/new.png)  
 - [2022-01-25-SkyWalking-针对-gRPC-的负载均衡和自动扩容实践](https://toutiao.io/k/9you17q) ![](assets/new.png)  
@@ -571,8 +571,8 @@
 - [2022-01-25-聊一聊如何用C#轻松完成一个SAGA分布式事务](https://toutiao.io/k/f1t7jy9) ![](assets/new.png)  
 - [2022-01-25-OpenPPL-CUDA-技术解析](https://toutiao.io/k/zyuypw7) ![](assets/new.png)  
 - [2022-01-25-CPT：刷爆少样本REC任务！清华刘知远团队提出跨模态预训练Prompt-Tuning](https://toutiao.io/k/m7jujv7) ![](assets/new.png)  
-- [2022-01-25-推荐-JVM调优的几种场景（建议收藏）](https://toutiao.io/k/0mfx2nd) ![](assets/new.png)  
-- [2022-01-25-推荐-服务探活的五种方式](https://toutiao.io/k/1wuwmui) ![](assets/new.png)  
+- [2022-01-25-推荐-关于代码质量退化的思考](https://toutiao.io/k/zzaz6vu) ![](assets/new.png)  
+- [2022-01-25-推荐-面渣逆袭：Java并发六十问，图文详解，快来看看你会多少道！](https://toutiao.io/k/4ndh1gd) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

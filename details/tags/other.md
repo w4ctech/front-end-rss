@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-01-25 07:39:48。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-01-25 07:54:39。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1693,6 +1693,10 @@
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2021-11-14-密码强度效果最佳实现一定是HTML-meter元素](https://www.zhangxinxu.com/wordpress/2021/11/html-meter-password/) 
 - [2021-11-02-见多识广，介绍Web开发中current开头的一些API属性](https://www.zhangxinxu.com/wordpress/2021/11/currentscript-currenttarget-currentsrc/) 
+- [2022-01-25-Kotlin-的协程是真协程吗？被-b-站博主搞蒙了](https://www.v2ex.com/t/830515) 
+- [2022-01-25-经济崩盘和大规模打仗，哪个会先出现](https://www.v2ex.com/t/830513) 
+- [2022-01-25-搞一个订阅制的特产零食怎么样](https://www.v2ex.com/t/830512) 
+- [2022-01-25-绩效垫底。。。问下广大-v-友，测试发出的程序有问题算开发还是测试的锅？](https://www.v2ex.com/t/830511) 
 - [2022-01-25-绩效垫底了，蛋蛋的忧伤。。。-完全不知道领导什么意思？](https://www.v2ex.com/t/830508) 
 - [2022-01-25-迫于过年不想回家，问问大家有什么乐子](https://www.v2ex.com/t/830506) 
 - [2022-01-25-最近发现-app-里提示更新，但-app-store-中却没有更新的现象加剧了。是-app-store-的审核时间更长，更严格了么？](https://www.v2ex.com/t/830505) 
@@ -1719,8 +1723,6 @@
 - [2022-01-25-迫于-ps5，收-4000-京东-e-卡。](https://www.v2ex.com/t/830471) 
 - [2022-01-25-2022-年了，百度云实名认证居然还要-3-5-个工作日，我滴妈呀](https://www.v2ex.com/t/830470) 
 - [2022-01-25-创业团队寻找伙伴](https://www.v2ex.com/t/830467) 
-- [2022-01-25-新版-OneDrive-For-Mac-似乎是采用了-macOS-的云盘-API，支持了访问权限管理](https://www.v2ex.com/t/830464) 
-- [2022-01-25-大多数人一辈子都接触不到淘宝双-11-流量冲击？那么我们怎么去锻炼这样的能力？](https://www.v2ex.com/t/830461) 
 - [2022-01-25-微服务坏味道之循环依赖-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14907&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fmicroservices-bad-smell-circular-dependency%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-01-25-高效编写测试用例的技巧-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14906&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fwrite-effective-testcases-tips%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-01-25-软件工程师应该如何吵架？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14905&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fsoftware-engineer-quarrel-culture%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1753,9 +1755,9 @@
 - [2022-01-25-推荐-从MVC到DDD的架构演进](https://toutiao.io/k/c7mn7hz) 
 - [2022-01-25-推荐-JVM调优的几种场景（建议收藏）](https://toutiao.io/k/0mfx2nd) 
 - [2022-01-25-推荐-服务探活的五种方式](https://toutiao.io/k/1wuwmui) 
+- [2022-01-25-推荐-从零开始搭建公司微服务授权架构技术栈（3种模式），这架构稳的一批...](https://toutiao.io/k/4g58j8v) 
 - [2022-01-25-推荐-面渣逆袭：Java并发六十问，图文详解，快来看看你会多少道！](https://toutiao.io/k/4ndh1gd) 
+- [2022-01-25-推荐-3万字-|-34-图-|-Netty-|-内核角度看IO模型](https://toutiao.io/k/zavpca4) 
 - [2022-01-25-推荐-关于代码质量退化的思考](https://toutiao.io/k/zzaz6vu) 
 - [2022-01-25-推荐-Redis-很屌，不懂使用规范就糟蹋了](https://toutiao.io/k/lpnakbk) 
 - [2022-01-25-推荐-优雅整洁的-Java-代码命名技巧，风之极·净化](https://toutiao.io/k/abc8vou) 
-- [2022-01-25-推荐-3万字-|-34-图-|-Netty-|-内核角度看IO模型](https://toutiao.io/k/zavpca4) 
-- [2022-01-25-推荐-从零开始搭建公司微服务授权架构技术栈（3种模式），这架构稳的一批...](https://toutiao.io/k/4g58j8v) 

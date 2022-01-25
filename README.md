@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-25 08:14:29，:rocket: 更新条数: +1811， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-25 08:25:14，:rocket: 更新条数: +1811， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,10 @@
 </summary>
 
 
+- [2022-01-25-使用-Tin-快速安装-MateCloud](https://www.v2ex.com/t/830527) ![](assets/new.png)  
+- [2022-01-25-小程序推荐-大家都回家了吧，安利一个打牌计分小程序，给大家助助兴！](https://www.v2ex.com/t/830526) ![](assets/new.png)  
+- [2022-01-25-2022-年了，-win10-中文输入法/变成、的设定改回去了吗](https://www.v2ex.com/t/830525) ![](assets/new.png)  
+- [2022-01-25-蓝湖的年度总结出来了，有彩蛋？](https://www.v2ex.com/t/830522) ![](assets/new.png)  
 - [2022-01-25-go-byte-切片初始化是有语法糖嘛](https://www.v2ex.com/t/830521) ![](assets/new.png)  
 - [2022-01-25-请教各位技术大佬，根据把图片嵌入视频模板，快速生成一个视频，技术栈是什么呀。](https://www.v2ex.com/t/830519) ![](assets/new.png)  
 - [2022-01-25-Workflow-正式进入-Debian-Linux-安装包](https://www.v2ex.com/t/830518) ![](assets/new.png)  
@@ -507,10 +511,6 @@
 - [2022-01-25-新浪的接口挂了吗？](https://www.v2ex.com/t/830504) ![](assets/new.png)  
 - [2022-01-25-关于-IDEA-markdown-换行](https://www.v2ex.com/t/830503) ![](assets/new.png)  
 - [2022-01-25-请教个定时任务处理问题](https://www.v2ex.com/t/830502) ![](assets/new.png)  
-- [2022-01-25-云原生一体机：开箱即用，轻松上云](https://www.v2ex.com/t/830501) ![](assets/new.png)  
-- [2022-01-25-不懂就问，-b-站大会员有什么用呢](https://www.v2ex.com/t/830499) ![](assets/new.png)  
-- [2022-01-25-求助-JDBC-的-statement-和-preparedStaement-执行结果不同](https://www.v2ex.com/t/830498) ![](assets/new.png)  
-- [2022-01-25-有没有练习-Vim-的网站或者软件推荐？](https://www.v2ex.com/t/830497) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -571,8 +571,8 @@
 - [2022-01-25-聊一聊如何用C#轻松完成一个SAGA分布式事务](https://toutiao.io/k/f1t7jy9) ![](assets/new.png)  
 - [2022-01-25-OpenPPL-CUDA-技术解析](https://toutiao.io/k/zyuypw7) ![](assets/new.png)  
 - [2022-01-25-CPT：刷爆少样本REC任务！清华刘知远团队提出跨模态预训练Prompt-Tuning](https://toutiao.io/k/m7jujv7) ![](assets/new.png)  
-- [2022-01-25-推荐-面渣逆袭：Java并发六十问，图文详解，快来看看你会多少道！](https://toutiao.io/k/4ndh1gd) ![](assets/new.png)  
-- [2022-01-25-推荐-优雅整洁的-Java-代码命名技巧，风之极·净化](https://toutiao.io/k/abc8vou) ![](assets/new.png)  
+- [2022-01-25-推荐-从MVC到DDD的架构演进](https://toutiao.io/k/c7mn7hz) ![](assets/new.png)  
+- [2022-01-25-推荐-Redis-很屌，不懂使用规范就糟蹋了](https://toutiao.io/k/lpnakbk) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

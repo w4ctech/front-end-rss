@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-26 05:39:18，:rocket: 更新条数: +1811， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-26 05:54:49，:rocket: 更新条数: +1811， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-01-26-我用-rails-7-集成了一个开源的漂亮的后台-Niceadmin](https://www.v2ex.com/t/830714) ![](assets/new.png)  
 - [2022-01-26-救救孩子吧~英文单词好难背~怎样才能更有效的记住单词呢/ㄒoㄒ/~~-能分享一下你背单词的方法吗~](https://www.v2ex.com/t/830713) ![](assets/new.png)  
 - [2022-01-26-MIUI-13-抓包，安装上传-经纬度+包名-小米用户来看看-fromtw](https://www.v2ex.com/t/830712) ![](assets/new.png)  
 - [2022-01-26-今天放假了](https://www.v2ex.com/t/830711) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-01-26-使用-M1-Mac-的用户，能够帮忙测试一个-WebAuthn-的问题吗？](https://www.v2ex.com/t/830692) ![](assets/new.png)  
 - [2022-01-26-2022-我的-Github-profile-及-个人简历更新](https://www.v2ex.com/t/830691) ![](assets/new.png)  
 - [2022-01-26-macOS-有哪些好用的视频录制软件呢？](https://www.v2ex.com/t/830687) ![](assets/new.png)  
-- [2022-01-26-Cromecast-Ultra-突然连不上-Wi-Fi-了](https://www.v2ex.com/t/830686) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -556,10 +556,10 @@
 - [2022-01-26-面试官问:-如何设计一个高并发系统?](https://toutiao.io/k/7hrrplb) ![](assets/new.png)  
 - [2022-01-26-原来这才是动态代理！！！](https://toutiao.io/k/ectyif9) ![](assets/new.png)  
 - [2022-01-26-谈谈服务治理](https://toutiao.io/k/fvpd29b) ![](assets/new.png)  
-- [2022-01-26-2022-年别再焦虑啦！加入我们！](https://toutiao.io/k/obimloc) ![](assets/new.png)  
 - [2022-01-26-iLogtail-与Filebeat-性能对比](https://toutiao.io/k/ckisbvw) ![](assets/new.png)  
-- [2022-01-26-Go-原生并发原语和最佳实践](https://toutiao.io/k/iuovf7l) ![](assets/new.png)  
+- [2022-01-26-2022-年别再焦虑啦！加入我们！](https://toutiao.io/k/obimloc) ![](assets/new.png)  
 - [2022-01-26-罗海伟：阿里云万亿级数据集成架构实践](https://toutiao.io/k/rakooko) ![](assets/new.png)  
+- [2022-01-26-Go-原生并发原语和最佳实践](https://toutiao.io/k/iuovf7l) ![](assets/new.png)  
 - [2022-01-26-译Netflix数据平台自动诊断和自动修复系统](https://toutiao.io/k/7f6v6sn) ![](assets/new.png)  
 - [2022-01-26-SpringBoot这样优化，让你的项目飞起来！](https://toutiao.io/k/e11ff0a) ![](assets/new.png)  
 - [2022-01-26-结构化文本处理利器-unified-生态介绍](https://toutiao.io/k/a25jp4k) ![](assets/new.png)  
@@ -568,11 +568,11 @@
 - [2022-01-26-SpringBoot-配置文件敏感信息加密](https://toutiao.io/k/k9ubzc8) ![](assets/new.png)  
 - [2022-01-26-为什么说-WebAssembly-是-Web-的未来？](https://toutiao.io/k/ym9tv10) ![](assets/new.png)  
 - [2022-01-26-KubeEdge-SIG-Device/IOT进展与后续规划](https://toutiao.io/k/ml44cl3) ![](assets/new.png)  
-- [2022-01-26-推荐-3万字-|-34-图-|-Netty-|-内核角度看IO模型](https://toutiao.io/k/zavpca4) ![](assets/new.png)  
-- [2022-01-26-推荐-面试官问：设计高并发系统的时候，数据库层面该如何设计？](https://toutiao.io/k/p935kqr) ![](assets/new.png)  
-- [2022-01-26-推荐-面渣逆袭：Java并发六十问，图文详解，快来看看你会多少道！](https://toutiao.io/k/4ndh1gd) ![](assets/new.png)  
 - [2022-01-26-推荐-从MVC到DDD的架构演进](https://toutiao.io/k/c7mn7hz) ![](assets/new.png)  
 - [2022-01-26-推荐-关于代码质量退化的思考](https://toutiao.io/k/zzaz6vu) ![](assets/new.png)  
+- [2022-01-26-推荐-面渣逆袭：Java并发六十问，图文详解，快来看看你会多少道！](https://toutiao.io/k/4ndh1gd) ![](assets/new.png)  
+- [2022-01-26-推荐-优雅整洁的-Java-代码命名技巧，风之极·净化](https://toutiao.io/k/abc8vou) ![](assets/new.png)  
+- [2022-01-26-推荐-服务探活的五种方式](https://toutiao.io/k/1wuwmui) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-01-26 06:14:41。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-01-26 06:25:17。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -153,7 +153,6 @@
 
 
 
-- [【V2EX】我也来求一波游戏，对显卡要求不高最好适配手柄的游戏。](https://www.v2ex.com/t/830673)
 - [【技术头条】用Python做一个游戏辅助脚本！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14893&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247492993%26amp%3Bidx%3D2%26amp%3Bsn%3D67230660b390f06f5584792da10b1078%26amp%3Bchksm%3Dfa3f04dacd488dccec0f68b1534821b98dde1730e4970ca0629239bd3275199e72af4b3c8771%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [......【查看更多】......](./details/tags/dev-game.md)
 
@@ -419,7 +418,7 @@
 
 
 - [【武汉肺炎防疫全纪录(财新网)】1月25日全国新增新冠44例-七省份本土24例](https://m.caixin.com/m/2022-01-26/101834891.html)
-- [【武汉肺炎防疫全纪录(财新网)】一款国产新冠口服药体外实验表现良好](https://m.caixin.com/m/2022-01-26/101834950.html)
+- [【武汉肺炎防疫全纪录(财新网)】一款国产新冠口服药体外实验表现良好-预计下半年进入临床试验](https://m.caixin.com/m/2022-01-26/101834950.html)
 - [【武汉肺炎防疫全纪录(财新网)】北京新增15例德尔塔感染者，核酸检测机构不得拒绝服务健康宝弹窗者](https://m.caixin.com/m/2022-01-25/101834748.html)
 - [【武汉肺炎防疫全纪录(财新网)】解药｜国内首个mRNA疫苗I期临床数据显示抗体转阳率达95%](https://m.caixin.com/m/2022-01-25/101834715.html)
 - [【武汉肺炎防疫全纪录(财新网)】最新海外疫情：新冠感染超3.54亿-累计接种新冠疫苗超98.7亿剂次](https://m.caixin.com/m/2022-01-25/101834623.html)

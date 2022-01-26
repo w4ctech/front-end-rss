@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-26 02:51:30，:rocket: 更新条数: +1810， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-26 03:12:15，:rocket: 更新条数: +1809， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,13 @@
 </summary>
 
 
+- [2022-01-26-我也来求一波游戏，对显卡要求不高最好适配手柄的游戏。](https://www.v2ex.com/t/830673) ![](assets/new.png)  
+- [2022-01-26-期待下-SE3,我的-X-实在是顶不住了](https://www.v2ex.com/t/830672) ![](assets/new.png)  
+- [2022-01-26-有没有搞自媒体方向的老哥带一手](https://www.v2ex.com/t/830671) ![](assets/new.png)  
+- [2022-01-26-有没有写-css-样式的教学类内容](https://www.v2ex.com/t/830669) ![](assets/new.png)  
+- [2022-01-26-昨天-xbox-到货，接上-wifi，下游戏，-wifi-是华硕路由器当-AP-接入-R2S-软路由，结果一天把我的微皮恩的流量干没了。](https://www.v2ex.com/t/830668) ![](assets/new.png)  
+- [2022-01-26-天下苦百度久矣，那么关于搜索引擎有什么能引入良心循环的盈利方式呢？](https://www.v2ex.com/t/830667) ![](assets/new.png)  
+- [2022-01-26-通过-wireguard-和-openwrt-路由器远程管理老人用的-Android-手机](https://www.v2ex.com/t/830665) ![](assets/new.png)  
 - [2022-01-26-使用-Tin-快速安装-StackEdit](https://www.v2ex.com/t/830664) ![](assets/new.png)  
 - [2022-01-26-深圳摘星--后续](https://www.v2ex.com/t/830663) ![](assets/new.png)  
 - [2022-01-26-杭州-这个节骨点上出疫情，我干](https://www.v2ex.com/t/830662) ![](assets/new.png)  
@@ -504,13 +511,6 @@
 - [2022-01-26-摸鱼摸了一个小程序](https://www.v2ex.com/t/830653) ![](assets/new.png)  
 - [2022-01-26-有适合-65-岁以上和-65-周岁左右购买的医疗保险吗](https://www.v2ex.com/t/830652) ![](assets/new.png)  
 - [2022-01-26-百元左右的耳机推荐](https://www.v2ex.com/t/830651) ![](assets/new.png)  
-- [2022-01-26-以罗翔的视角聊一聊《开端》的结局](https://www.v2ex.com/t/830650) ![](assets/new.png)  
-- [2022-01-26-写了个图片批量处理工具，会有人用吗？](https://www.v2ex.com/t/830649) ![](assets/new.png)  
-- [2022-01-26-黑神话悟空发新片了！](https://www.v2ex.com/t/830645) ![](assets/new.png)  
-- [2022-01-26-关于-GPL-协议的一些疑问](https://www.v2ex.com/t/830644) ![](assets/new.png)  
-- [2022-01-26-请教一个问题，-Clash-X-在-MacOS-上使用，全局模式才能翻墙了，咋回事](https://www.v2ex.com/t/830643) ![](assets/new.png)  
-- [2022-01-26-联动前几天生不生娃，分享一下在肿瘤科一天的经历，不知道自己有这么脆弱](https://www.v2ex.com/t/830642) ![](assets/new.png)  
-- [2022-01-26-iPhone-自带白噪音快捷指令](https://www.v2ex.com/t/830641) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -568,11 +568,11 @@
 - [2022-01-26-SpringBoot-配置文件敏感信息加密](https://toutiao.io/k/k9ubzc8) ![](assets/new.png)  
 - [2022-01-26-为什么说-WebAssembly-是-Web-的未来？](https://toutiao.io/k/ym9tv10) ![](assets/new.png)  
 - [2022-01-26-KubeEdge-SIG-Device/IOT进展与后续规划](https://toutiao.io/k/ml44cl3) ![](assets/new.png)  
-- [2022-01-26-推荐-面试官问：设计高并发系统的时候，数据库层面该如何设计？](https://toutiao.io/k/p935kqr) ![](assets/new.png)  
+- [2022-01-26-推荐-Redis-很屌，不懂使用规范就糟蹋了](https://toutiao.io/k/lpnakbk) ![](assets/new.png)  
 - [2022-01-26-推荐-据说看完这篇-JVM-要一小时](https://toutiao.io/k/1dauixx) ![](assets/new.png)  
-- [2022-01-26-推荐-服务探活的五种方式](https://toutiao.io/k/1wuwmui) ![](assets/new.png)  
-- [2022-01-26-推荐-3万字-|-34-图-|-Netty-|-内核角度看IO模型](https://toutiao.io/k/zavpca4) ![](assets/new.png)  
+- [2022-01-26-推荐-关于代码质量退化的思考](https://toutiao.io/k/zzaz6vu) ![](assets/new.png)  
 - [2022-01-26-推荐-优雅整洁的-Java-代码命名技巧，风之极·净化](https://toutiao.io/k/abc8vou) ![](assets/new.png)  
+- [2022-01-26-推荐-从MVC到DDD的架构演进](https://toutiao.io/k/c7mn7hz) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

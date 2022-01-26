@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-26 03:12:15，:rocket: 更新条数: +1809， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-26 03:20:56，:rocket: 更新条数: +1812， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,11 @@
 </summary>
 
 
+- [2022-01-26-万能-V-站，有无北京爱骑车的朋友](https://www.v2ex.com/t/830678) ![](assets/new.png)  
+- [2022-01-26-新来一个领导喜欢有事没事就将技术](https://www.v2ex.com/t/830677) ![](assets/new.png)  
+- [2022-01-26-bootcdn-又挂了？](https://www.v2ex.com/t/830676) ![](assets/new.png)  
+- [2022-01-26-腾讯云怎么续费最划算啊？](https://www.v2ex.com/t/830675) ![](assets/new.png)  
+- [2022-01-26-群聊的端到端加密有什么实现方案？](https://www.v2ex.com/t/830674) ![](assets/new.png)  
 - [2022-01-26-我也来求一波游戏，对显卡要求不高最好适配手柄的游戏。](https://www.v2ex.com/t/830673) ![](assets/new.png)  
 - [2022-01-26-期待下-SE3,我的-X-实在是顶不住了](https://www.v2ex.com/t/830672) ![](assets/new.png)  
 - [2022-01-26-有没有搞自媒体方向的老哥带一手](https://www.v2ex.com/t/830671) ![](assets/new.png)  
@@ -506,11 +511,6 @@
 - [2022-01-26-MBP-2017-内建显示器离奇地拥有-HDR](https://www.v2ex.com/t/830659) ![](assets/new.png)  
 - [2022-01-26-有没有这么一种自行车？](https://www.v2ex.com/t/830658) ![](assets/new.png)  
 - [2022-01-26-C++高性能篇-量化多金行业+上海北京](https://www.v2ex.com/t/830656) ![](assets/new.png)  
-- [2022-01-26-有人知道千宇智能关机的作者后来怎么样了吗](https://www.v2ex.com/t/830655) ![](assets/new.png)  
-- [2022-01-26-面试面试时对于算法题的通过标准](https://www.v2ex.com/t/830654) ![](assets/new.png)  
-- [2022-01-26-摸鱼摸了一个小程序](https://www.v2ex.com/t/830653) ![](assets/new.png)  
-- [2022-01-26-有适合-65-岁以上和-65-周岁左右购买的医疗保险吗](https://www.v2ex.com/t/830652) ![](assets/new.png)  
-- [2022-01-26-百元左右的耳机推荐](https://www.v2ex.com/t/830651) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -568,11 +568,11 @@
 - [2022-01-26-SpringBoot-配置文件敏感信息加密](https://toutiao.io/k/k9ubzc8) ![](assets/new.png)  
 - [2022-01-26-为什么说-WebAssembly-是-Web-的未来？](https://toutiao.io/k/ym9tv10) ![](assets/new.png)  
 - [2022-01-26-KubeEdge-SIG-Device/IOT进展与后续规划](https://toutiao.io/k/ml44cl3) ![](assets/new.png)  
-- [2022-01-26-推荐-Redis-很屌，不懂使用规范就糟蹋了](https://toutiao.io/k/lpnakbk) ![](assets/new.png)  
 - [2022-01-26-推荐-据说看完这篇-JVM-要一小时](https://toutiao.io/k/1dauixx) ![](assets/new.png)  
-- [2022-01-26-推荐-关于代码质量退化的思考](https://toutiao.io/k/zzaz6vu) ![](assets/new.png)  
 - [2022-01-26-推荐-优雅整洁的-Java-代码命名技巧，风之极·净化](https://toutiao.io/k/abc8vou) ![](assets/new.png)  
+- [2022-01-26-推荐-Redis-很屌，不懂使用规范就糟蹋了](https://toutiao.io/k/lpnakbk) ![](assets/new.png)  
 - [2022-01-26-推荐-从MVC到DDD的架构演进](https://toutiao.io/k/c7mn7hz) ![](assets/new.png)  
+- [2022-01-26-推荐-服务探活的五种方式](https://toutiao.io/k/1wuwmui) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

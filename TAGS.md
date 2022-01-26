@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-01-26 03:41:54。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-01-26 03:54:32。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -55,7 +55,6 @@
 
 
 
-- [【V2EX】vue-打印功能](https://www.v2ex.com/t/830634)
 - [......【查看更多】......](./details/tags/vue.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -157,7 +156,6 @@
 
 - [【V2EX】我也来求一波游戏，对显卡要求不高最好适配手柄的游戏。](https://www.v2ex.com/t/830673)
 - [【V2EX】昨天-xbox-到货，接上-wifi，下游戏，-wifi-是华硕路由器当-AP-接入-R2S-软路由，结果一天把我的微皮恩的流量干没了。](https://www.v2ex.com/t/830668)
-- [【V2EX】各位过年有推荐的游戏吗](https://www.v2ex.com/t/830638)
 - [【技术头条】用Python做一个游戏辅助脚本！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14893&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247492993%26amp%3Bidx%3D2%26amp%3Bsn%3D67230660b390f06f5584792da10b1078%26amp%3Bchksm%3Dfa3f04dacd488dccec0f68b1534821b98dde1730e4970ca0629239bd3275199e72af4b3c8771%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [......【查看更多】......](./details/tags/dev-game.md)
 
@@ -242,6 +240,7 @@
 
 - [【武汉肺炎防疫全纪录(财新网)】广州17岁男生在定点医院参加高考-特殊考场视频监考](https://m.caixin.com/m/2021-06-05/101723418.html)
 - [【武汉肺炎防疫全纪录(财新网)】林郑月娥率13高官直播接种科兴疫苗-复星疫苗预计周中到港](https://m.caixin.com/m/2021-02-22/101665724.html)
+- [【V2EX】macOS-有哪些好用的视频录制软件呢？](https://www.v2ex.com/t/830687)
 - [【V2EX】Movist-Pro-播放-4K-视频发热巨大](https://www.v2ex.com/t/830680)
 - [......【查看更多】......](./details/tags/audio-video.md)
 
@@ -306,6 +305,7 @@
 
 
 
+- [【V2EX】Cromecast-Ultra-突然连不上-Wi-Fi-了](https://www.v2ex.com/t/830686)
 - [【V2EX】面试面试时对于算法题的通过标准](https://www.v2ex.com/t/830654)
 - [【V2EX】之前-hacker-news-上推的-https://kinopio.club/-还是挺好用的，有类似这样的工具吗？](https://www.v2ex.com/t/830640)
 - [【开发者头条】为什么说-WebAssembly-是-Web-的未来？](https://toutiao.io/k/ym9tv10)

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-26 03:20:56，:rocket: 更新条数: +1812， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-26 03:38:06，:rocket: 更新条数: +1812， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,10 @@
 </summary>
 
 
+- [2022-01-26-更新到了-Monterey，发现-Spotlight-图标可以移除了](https://www.v2ex.com/t/830683) ![](assets/new.png)  
+- [2022-01-26-tx-新瓜，怎么看](https://www.v2ex.com/t/830681) ![](assets/new.png)  
+- [2022-01-26-Movist-Pro-播放-4K-视频发热巨大](https://www.v2ex.com/t/830680) ![](assets/new.png)  
+- [2022-01-26-问下设计师或移动端大佬关于-Material-Design](https://www.v2ex.com/t/830679) ![](assets/new.png)  
 - [2022-01-26-万能-V-站，有无北京爱骑车的朋友](https://www.v2ex.com/t/830678) ![](assets/new.png)  
 - [2022-01-26-新来一个领导喜欢有事没事就将技术](https://www.v2ex.com/t/830677) ![](assets/new.png)  
 - [2022-01-26-bootcdn-又挂了？](https://www.v2ex.com/t/830676) ![](assets/new.png)  
@@ -507,10 +511,6 @@
 - [2022-01-26-深圳摘星--后续](https://www.v2ex.com/t/830663) ![](assets/new.png)  
 - [2022-01-26-杭州-这个节骨点上出疫情，我干](https://www.v2ex.com/t/830662) ![](assets/new.png)  
 - [2022-01-26-端到端加密在大陆合法吗？](https://www.v2ex.com/t/830661) ![](assets/new.png)  
-- [2022-01-26-分享一个之前写的辅助安装微信内发送的-APK-的工具](https://www.v2ex.com/t/830660) ![](assets/new.png)  
-- [2022-01-26-MBP-2017-内建显示器离奇地拥有-HDR](https://www.v2ex.com/t/830659) ![](assets/new.png)  
-- [2022-01-26-有没有这么一种自行车？](https://www.v2ex.com/t/830658) ![](assets/new.png)  
-- [2022-01-26-C++高性能篇-量化多金行业+上海北京](https://www.v2ex.com/t/830656) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -562,17 +562,17 @@
 - [2022-01-26-iLogtail-与Filebeat-性能对比](https://toutiao.io/k/ckisbvw) ![](assets/new.png)  
 - [2022-01-26-译Netflix数据平台自动诊断和自动修复系统](https://toutiao.io/k/7f6v6sn) ![](assets/new.png)  
 - [2022-01-26-结构化文本处理利器-unified-生态介绍](https://toutiao.io/k/a25jp4k) ![](assets/new.png)  
+- [2022-01-26-【干货】6500字全面字讲解-Redis-性能优化点！](https://toutiao.io/k/vjx4bng) ![](assets/new.png)  
 - [2022-01-26-SpringBoot这样优化，让你的项目飞起来！](https://toutiao.io/k/e11ff0a) ![](assets/new.png)  
 - [2022-01-26-作业帮基于-Flink-的实时计算平台实践](https://toutiao.io/k/5it2m2p) ![](assets/new.png)  
-- [2022-01-26-【干货】6500字全面字讲解-Redis-性能优化点！](https://toutiao.io/k/vjx4bng) ![](assets/new.png)  
-- [2022-01-26-SpringBoot-配置文件敏感信息加密](https://toutiao.io/k/k9ubzc8) ![](assets/new.png)  
 - [2022-01-26-为什么说-WebAssembly-是-Web-的未来？](https://toutiao.io/k/ym9tv10) ![](assets/new.png)  
+- [2022-01-26-SpringBoot-配置文件敏感信息加密](https://toutiao.io/k/k9ubzc8) ![](assets/new.png)  
 - [2022-01-26-KubeEdge-SIG-Device/IOT进展与后续规划](https://toutiao.io/k/ml44cl3) ![](assets/new.png)  
-- [2022-01-26-推荐-据说看完这篇-JVM-要一小时](https://toutiao.io/k/1dauixx) ![](assets/new.png)  
-- [2022-01-26-推荐-优雅整洁的-Java-代码命名技巧，风之极·净化](https://toutiao.io/k/abc8vou) ![](assets/new.png)  
-- [2022-01-26-推荐-Redis-很屌，不懂使用规范就糟蹋了](https://toutiao.io/k/lpnakbk) ![](assets/new.png)  
 - [2022-01-26-推荐-从MVC到DDD的架构演进](https://toutiao.io/k/c7mn7hz) ![](assets/new.png)  
-- [2022-01-26-推荐-服务探活的五种方式](https://toutiao.io/k/1wuwmui) ![](assets/new.png)  
+- [2022-01-26-推荐-优雅整洁的-Java-代码命名技巧，风之极·净化](https://toutiao.io/k/abc8vou) ![](assets/new.png)  
+- [2022-01-26-推荐-3万字-|-34-图-|-Netty-|-内核角度看IO模型](https://toutiao.io/k/zavpca4) ![](assets/new.png)  
+- [2022-01-26-推荐-据说看完这篇-JVM-要一小时](https://toutiao.io/k/1dauixx) ![](assets/new.png)  
+- [2022-01-26-推荐-面渣逆袭：Java并发六十问，图文详解，快来看看你会多少道！](https://toutiao.io/k/4ndh1gd) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

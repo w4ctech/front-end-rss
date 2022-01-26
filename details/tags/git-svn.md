@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-01-26 06:48:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-01-26 07:12:02。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Git、SVN
 
@@ -6,5 +6,3 @@
 > 关键字：`Git`、`SVN`
 
 
-
-- [2022-01-26-2022-我的-Github-profile-及-个人简历更新](https://www.v2ex.com/t/830691) 

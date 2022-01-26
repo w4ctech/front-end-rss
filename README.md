@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-26 05:54:49，:rocket: 更新条数: +1811， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-26 06:14:41，:rocket: 更新条数: +1818， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,14 @@
 </summary>
 
 
+- [2022-01-26-微信读书-"书签与想法"-的导出插件](https://www.v2ex.com/t/830722) ![](assets/new.png)  
+- [2022-01-26-成都武侯区春节期间上门喂猫服务](https://www.v2ex.com/t/830721) ![](assets/new.png)  
+- [2022-01-26-发一个可以免费（最多付一个邮费）领东西的-App](https://www.v2ex.com/t/830720) ![](assets/new.png)  
+- [2022-01-26-上海电信-1000M-带宽升级感受](https://www.v2ex.com/t/830719) ![](assets/new.png)  
+- [2022-01-26-帮朋友转发招聘：北京初创互联网公司](https://www.v2ex.com/t/830718) ![](assets/new.png)  
+- [2022-01-26-folezhang-关于声讨加班事件的说明（部分）](https://www.v2ex.com/t/830717) ![](assets/new.png)  
+- [2022-01-26-上海-浦东-世纪大道-内推-965-Autodesk-欧特克急招全职研发（前端/后端/Mobile/UX/QA）](https://www.v2ex.com/t/830716) ![](assets/new.png)  
+- [2022-01-26-播客-RustTalk：-001.-与-Folyd-聊他的-Rust-使用经历](https://www.v2ex.com/t/830715) ![](assets/new.png)  
 - [2022-01-26-我用-rails-7-集成了一个开源的漂亮的后台-Niceadmin](https://www.v2ex.com/t/830714) ![](assets/new.png)  
 - [2022-01-26-救救孩子吧~英文单词好难背~怎样才能更有效的记住单词呢/ㄒoㄒ/~~-能分享一下你背单词的方法吗~](https://www.v2ex.com/t/830713) ![](assets/new.png)  
 - [2022-01-26-MIUI-13-抓包，安装上传-经纬度+包名-小米用户来看看-fromtw](https://www.v2ex.com/t/830712) ![](assets/new.png)  
@@ -503,14 +511,6 @@
 - [2022-01-26-v2ex-好像被我们单位网管针对了](https://www.v2ex.com/t/830702) ![](assets/new.png)  
 - [2022-01-26-两年来的崩溃时刻，早上六点赶高铁回家却出不了小区大门](https://www.v2ex.com/t/830701) ![](assets/new.png)  
 - [2022-01-26-能够被-Google-收录的条目是不是在互联网内容中的占比越来越低了？](https://www.v2ex.com/t/830700) ![](assets/new.png)  
-- [2022-01-26-为什么从来没有人说过-Hyper-V-下用-Win-10-虚拟机显示效果不如-VMware](https://www.v2ex.com/t/830698) ![](assets/new.png)  
-- [2022-01-26-webrtc-有什么封装比较好的-c/c++库吗](https://www.v2ex.com/t/830697) ![](assets/new.png)  
-- [2022-01-26-求租在望京附近，低于-2000-的房子](https://www.v2ex.com/t/830696) ![](assets/new.png)  
-- [2022-01-26-js-构造函数和闭包的问题](https://www.v2ex.com/t/830694) ![](assets/new.png)  
-- [2022-01-26-现在是真的拿菜鸟驿站一点办法都没有了吗？](https://www.v2ex.com/t/830693) ![](assets/new.png)  
-- [2022-01-26-使用-M1-Mac-的用户，能够帮忙测试一个-WebAuthn-的问题吗？](https://www.v2ex.com/t/830692) ![](assets/new.png)  
-- [2022-01-26-2022-我的-Github-profile-及-个人简历更新](https://www.v2ex.com/t/830691) ![](assets/new.png)  
-- [2022-01-26-macOS-有哪些好用的视频录制软件呢？](https://www.v2ex.com/t/830687) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -560,19 +560,19 @@
 - [2022-01-26-2022-年别再焦虑啦！加入我们！](https://toutiao.io/k/obimloc) ![](assets/new.png)  
 - [2022-01-26-罗海伟：阿里云万亿级数据集成架构实践](https://toutiao.io/k/rakooko) ![](assets/new.png)  
 - [2022-01-26-Go-原生并发原语和最佳实践](https://toutiao.io/k/iuovf7l) ![](assets/new.png)  
-- [2022-01-26-译Netflix数据平台自动诊断和自动修复系统](https://toutiao.io/k/7f6v6sn) ![](assets/new.png)  
 - [2022-01-26-SpringBoot这样优化，让你的项目飞起来！](https://toutiao.io/k/e11ff0a) ![](assets/new.png)  
+- [2022-01-26-译Netflix数据平台自动诊断和自动修复系统](https://toutiao.io/k/7f6v6sn) ![](assets/new.png)  
 - [2022-01-26-结构化文本处理利器-unified-生态介绍](https://toutiao.io/k/a25jp4k) ![](assets/new.png)  
 - [2022-01-26-【干货】6500字全面字讲解-Redis-性能优化点！](https://toutiao.io/k/vjx4bng) ![](assets/new.png)  
 - [2022-01-26-作业帮基于-Flink-的实时计算平台实践](https://toutiao.io/k/5it2m2p) ![](assets/new.png)  
 - [2022-01-26-SpringBoot-配置文件敏感信息加密](https://toutiao.io/k/k9ubzc8) ![](assets/new.png)  
 - [2022-01-26-为什么说-WebAssembly-是-Web-的未来？](https://toutiao.io/k/ym9tv10) ![](assets/new.png)  
 - [2022-01-26-KubeEdge-SIG-Device/IOT进展与后续规划](https://toutiao.io/k/ml44cl3) ![](assets/new.png)  
-- [2022-01-26-推荐-从MVC到DDD的架构演进](https://toutiao.io/k/c7mn7hz) ![](assets/new.png)  
-- [2022-01-26-推荐-关于代码质量退化的思考](https://toutiao.io/k/zzaz6vu) ![](assets/new.png)  
-- [2022-01-26-推荐-面渣逆袭：Java并发六十问，图文详解，快来看看你会多少道！](https://toutiao.io/k/4ndh1gd) ![](assets/new.png)  
-- [2022-01-26-推荐-优雅整洁的-Java-代码命名技巧，风之极·净化](https://toutiao.io/k/abc8vou) ![](assets/new.png)  
-- [2022-01-26-推荐-服务探活的五种方式](https://toutiao.io/k/1wuwmui) ![](assets/new.png)  
+- [2022-01-26-架构师如何技术选型-全链路监控](https://toutiao.io/k/pd98wl7) ![](assets/new.png)  
+- [2022-01-26-边学边赚：会增值的DAO-NFT终身会员卡模型](https://toutiao.io/k/joqqjet) ![](assets/new.png)  
+- [2022-01-26-过程宏---rust-note](https://toutiao.io/k/q2gwn23) ![](assets/new.png)  
+- [2022-01-26-Go1.18-新特性：新增好用的-Cut-方法](https://toutiao.io/k/0t45gsd) ![](assets/new.png)  
+- [2022-01-26-聊聊读源码这件事](https://toutiao.io/k/har4543) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

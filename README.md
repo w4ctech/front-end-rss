@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-26 00:43:39，:rocket: 更新条数: +1803， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-26 01:15:40，:rocket: 更新条数: +1802， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-01-26-WeChat-语音通话，对面经常听不到声音](https://www.v2ex.com/t/830621) ![](assets/new.png)  
 - [2022-01-26-北京WLB-云全栈开发工程师](https://www.v2ex.com/t/830620) ![](assets/new.png)  
 - [2022-01-26-平台禁止了热更新为何很多应用仍然可以自动大变样？](https://www.v2ex.com/t/830619) ![](assets/new.png)  
 - [2022-01-25-Apple-服务器出了问题？](https://www.v2ex.com/t/830618) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-01-25-阿里云-云原生-北京/杭州/深圳-2023-届春季实习生招聘](https://www.v2ex.com/t/830600) ![](assets/new.png)  
 - [2022-01-25-MIT-线性代数更新了-2020-版-Gilbert-Strang](https://www.v2ex.com/t/830599) ![](assets/new.png)  
 - [2022-01-25-入了小米-ac2100-刷了老毛子，寻更多使用姿势](https://www.v2ex.com/t/830597) ![](assets/new.png)  
-- [2022-01-25-请问下-Golang-有类似-MongoDB-自带那种交互式的实现吗，试了下-mongodb-的-golang-库似乎没有实现这种可以自已输入命令的方法](https://www.v2ex.com/t/830596) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -557,20 +557,20 @@
 - [2022-01-26-谈谈服务治理](https://toutiao.io/k/fvpd29b) ![](assets/new.png)  
 - [2022-01-26-原来这才是动态代理！！！](https://toutiao.io/k/ectyif9) ![](assets/new.png)  
 - [2022-01-26-2022-年别再焦虑啦！加入我们！](https://toutiao.io/k/obimloc) ![](assets/new.png)  
+- [2022-01-26-Go-原生并发原语和最佳实践](https://toutiao.io/k/iuovf7l) ![](assets/new.png)  
 - [2022-01-26-罗海伟：阿里云万亿级数据集成架构实践](https://toutiao.io/k/rakooko) ![](assets/new.png)  
 - [2022-01-26-译Netflix数据平台自动诊断和自动修复系统](https://toutiao.io/k/7f6v6sn) ![](assets/new.png)  
-- [2022-01-26-Go-原生并发原语和最佳实践](https://toutiao.io/k/iuovf7l) ![](assets/new.png)  
 - [2022-01-26-iLogtail-与Filebeat-性能对比](https://toutiao.io/k/ckisbvw) ![](assets/new.png)  
 - [2022-01-26-结构化文本处理利器-unified-生态介绍](https://toutiao.io/k/a25jp4k) ![](assets/new.png)  
+- [2022-01-26-推荐-从MVC到DDD的架构演进](https://toutiao.io/k/c7mn7hz) ![](assets/new.png)  
+- [2022-01-26-推荐-Redis-很屌，不懂使用规范就糟蹋了](https://toutiao.io/k/lpnakbk) ![](assets/new.png)  
 - [2022-01-26-推荐-面渣逆袭：Java并发六十问，图文详解，快来看看你会多少道！](https://toutiao.io/k/4ndh1gd) ![](assets/new.png)  
 - [2022-01-26-推荐-据说看完这篇-JVM-要一小时](https://toutiao.io/k/1dauixx) ![](assets/new.png)  
+- [2022-01-26-推荐-3万字-|-34-图-|-Netty-|-内核角度看IO模型](https://toutiao.io/k/zavpca4) ![](assets/new.png)  
+- [2022-01-26-推荐-服务探活的五种方式](https://toutiao.io/k/1wuwmui) ![](assets/new.png)  
 - [2022-01-26-推荐-关于代码质量退化的思考](https://toutiao.io/k/zzaz6vu) ![](assets/new.png)  
 - [2022-01-26-推荐-面试官问：设计高并发系统的时候，数据库层面该如何设计？](https://toutiao.io/k/p935kqr) ![](assets/new.png)  
-- [2022-01-26-推荐-Redis-很屌，不懂使用规范就糟蹋了](https://toutiao.io/k/lpnakbk) ![](assets/new.png)  
 - [2022-01-26-推荐-优雅整洁的-Java-代码命名技巧，风之极·净化](https://toutiao.io/k/abc8vou) ![](assets/new.png)  
-- [2022-01-26-推荐-服务探活的五种方式](https://toutiao.io/k/1wuwmui) ![](assets/new.png)  
-- [2022-01-26-推荐-从MVC到DDD的架构演进](https://toutiao.io/k/c7mn7hz) ![](assets/new.png)  
-- [2022-01-26-推荐-3万字-|-34-图-|-Netty-|-内核角度看IO模型](https://toutiao.io/k/zavpca4) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

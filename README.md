@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-01-26 01:15:40，:rocket: 更新条数: +1802， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-01-26 02:03:24，:rocket: 更新条数: +1810， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -65,7 +65,7 @@
 </summary>
 
 
-- [2022-01-25-最新疫情：全国新冠累计确诊105705例-累计接种新冠疫苗超29.73亿剂次](https://m.caixin.com/m/2022-01-25/101834628.html) ![](assets/new.png)  
+- [2022-01-26-1月25日全国新增新冠44例-七省份本土24例](https://m.caixin.com/m/2022-01-26/101834891.html) ![](assets/new.png)  
 - [2022-01-25-北京新增15例德尔塔感染者，核酸检测机构不得拒绝服务健康宝弹窗者](https://m.caixin.com/m/2022-01-25/101834748.html) ![](assets/new.png)  
 - [2022-01-25-解药｜国内首个mRNA疫苗I期临床数据显示抗体转阳率达95%](https://m.caixin.com/m/2022-01-25/101834715.html) ![](assets/new.png)  
 - [2022-01-25-最新海外疫情：新冠感染超3.54亿-累计接种新冠疫苗超98.7亿剂次](https://m.caixin.com/m/2022-01-25/101834623.html) ![](assets/new.png)  
@@ -491,6 +491,16 @@
 </summary>
 
 
+- [2022-01-26-我如果说-Pixel-一代现在使用还很流畅，会不会被很多人打？](https://www.v2ex.com/t/830637) ![](assets/new.png)  
+- [2022-01-26-微信电脑版的体验真是一坨**](https://www.v2ex.com/t/830635) ![](assets/new.png)  
+- [2022-01-26-vue-打印功能](https://www.v2ex.com/t/830634) ![](assets/new.png)  
+- [2022-01-26-移动宽带单独封锁-IP？](https://www.v2ex.com/t/830633) ![](assets/new.png)  
+- [2022-01-26-基于-Github/Gitee-轻松管理您的存储图库](https://www.v2ex.com/t/830632) ![](assets/new.png)  
+- [2022-01-26-远程配置老家路由器问题](https://www.v2ex.com/t/830631) ![](assets/new.png)  
+- [2022-01-26-M1-iPad-pro-12.9-的续航真的拉胯](https://www.v2ex.com/t/830630) ![](assets/new.png)  
+- [2022-01-26-过年回老家，如何解决宽带无线网的](https://www.v2ex.com/t/830628) ![](assets/new.png)  
+- [2022-01-26-没人讨论一下佳能卡片机这波裁员补偿吗。](https://www.v2ex.com/t/830626) ![](assets/new.png)  
+- [2022-01-26-请教一个有关-SVG-的问题](https://www.v2ex.com/t/830623) ![](assets/new.png)  
 - [2022-01-26-WeChat-语音通话，对面经常听不到声音](https://www.v2ex.com/t/830621) ![](assets/new.png)  
 - [2022-01-26-北京WLB-云全栈开发工程师](https://www.v2ex.com/t/830620) ![](assets/new.png)  
 - [2022-01-26-平台禁止了热更新为何很多应用仍然可以自动大变样？](https://www.v2ex.com/t/830619) ![](assets/new.png)  
@@ -501,16 +511,6 @@
 - [2022-01-25-pycharm-如何快速打出三双引号快捷键?](https://www.v2ex.com/t/830614) ![](assets/new.png)  
 - [2022-01-25-是否可以逆向思维倒逼苹果推出-USB-C-的-iPhone](https://www.v2ex.com/t/830613) ![](assets/new.png)  
 - [2022-01-25-subprocess-怎么样才能切换到特定用户呢？](https://www.v2ex.com/t/830612) ![](assets/new.png)  
-- [2022-01-25-这不也年底了，吐槽一下现在所在的公司](https://www.v2ex.com/t/830610) ![](assets/new.png)  
-- [2022-01-25-上海---美国直属子公司---混合办公---与-HR-PY-了一些初级开发岗位。1-2-年，-2020-届强推。面试简单，光速安排，语言不限，需要进来转-SAP-ABAP。初中级大数...](https://www.v2ex.com/t/830608) ![](assets/new.png)  
-- [2022-01-25-无需下载的“5G-消息”正式商用，个人使用按短信收费。来说说你会使用吗？](https://www.v2ex.com/t/830606) ![](assets/new.png)  
-- [2022-01-25-有语言的-async/await-是直接改写成嵌套回调的吗？](https://www.v2ex.com/t/830605) ![](assets/new.png)  
-- [2022-01-25-GDP-增速计算问题出在哪里，经济晴雨表电量统计](https://www.v2ex.com/t/830604) ![](assets/new.png)  
-- [2022-01-25-iOS-15-的-Siri-不支持切换-AirPods-Pro-降噪/通透模式？](https://www.v2ex.com/t/830603) ![](assets/new.png)  
-- [2022-01-25-使用-Cloudflare-做-DNS-的网站近期国内无法访问了，可能是什么原因导致的？](https://www.v2ex.com/t/830602) ![](assets/new.png)  
-- [2022-01-25-阿里云-云原生-北京/杭州/深圳-2023-届春季实习生招聘](https://www.v2ex.com/t/830600) ![](assets/new.png)  
-- [2022-01-25-MIT-线性代数更新了-2020-版-Gilbert-Strang](https://www.v2ex.com/t/830599) ![](assets/new.png)  
-- [2022-01-25-入了小米-ac2100-刷了老毛子，寻更多使用姿势](https://www.v2ex.com/t/830597) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -554,23 +554,25 @@
 
 
 - [2022-01-26-面试官问:-如何设计一个高并发系统?](https://toutiao.io/k/7hrrplb) ![](assets/new.png)  
-- [2022-01-26-谈谈服务治理](https://toutiao.io/k/fvpd29b) ![](assets/new.png)  
 - [2022-01-26-原来这才是动态代理！！！](https://toutiao.io/k/ectyif9) ![](assets/new.png)  
+- [2022-01-26-谈谈服务治理](https://toutiao.io/k/fvpd29b) ![](assets/new.png)  
 - [2022-01-26-2022-年别再焦虑啦！加入我们！](https://toutiao.io/k/obimloc) ![](assets/new.png)  
 - [2022-01-26-Go-原生并发原语和最佳实践](https://toutiao.io/k/iuovf7l) ![](assets/new.png)  
 - [2022-01-26-罗海伟：阿里云万亿级数据集成架构实践](https://toutiao.io/k/rakooko) ![](assets/new.png)  
-- [2022-01-26-译Netflix数据平台自动诊断和自动修复系统](https://toutiao.io/k/7f6v6sn) ![](assets/new.png)  
 - [2022-01-26-iLogtail-与Filebeat-性能对比](https://toutiao.io/k/ckisbvw) ![](assets/new.png)  
+- [2022-01-26-译Netflix数据平台自动诊断和自动修复系统](https://toutiao.io/k/7f6v6sn) ![](assets/new.png)  
 - [2022-01-26-结构化文本处理利器-unified-生态介绍](https://toutiao.io/k/a25jp4k) ![](assets/new.png)  
-- [2022-01-26-推荐-从MVC到DDD的架构演进](https://toutiao.io/k/c7mn7hz) ![](assets/new.png)  
-- [2022-01-26-推荐-Redis-很屌，不懂使用规范就糟蹋了](https://toutiao.io/k/lpnakbk) ![](assets/new.png)  
-- [2022-01-26-推荐-面渣逆袭：Java并发六十问，图文详解，快来看看你会多少道！](https://toutiao.io/k/4ndh1gd) ![](assets/new.png)  
-- [2022-01-26-推荐-据说看完这篇-JVM-要一小时](https://toutiao.io/k/1dauixx) ![](assets/new.png)  
-- [2022-01-26-推荐-3万字-|-34-图-|-Netty-|-内核角度看IO模型](https://toutiao.io/k/zavpca4) ![](assets/new.png)  
+- [2022-01-26-SpringBoot这样优化，让你的项目飞起来！](https://toutiao.io/k/e11ff0a) ![](assets/new.png)  
+- [2022-01-26-作业帮基于-Flink-的实时计算平台实践](https://toutiao.io/k/5it2m2p) ![](assets/new.png)  
+- [2022-01-26-SpringBoot-配置文件敏感信息加密](https://toutiao.io/k/k9ubzc8) ![](assets/new.png)  
+- [2022-01-26-KubeEdge-SIG-Device/IOT进展与后续规划](https://toutiao.io/k/ml44cl3) ![](assets/new.png)  
+- [2022-01-26-为什么说-WebAssembly-是-Web-的未来？](https://toutiao.io/k/ym9tv10) ![](assets/new.png)  
+- [2022-01-26-【干货】6500字全面字讲解-Redis-性能优化点！](https://toutiao.io/k/vjx4bng) ![](assets/new.png)  
 - [2022-01-26-推荐-服务探活的五种方式](https://toutiao.io/k/1wuwmui) ![](assets/new.png)  
+- [2022-01-26-推荐-3万字-|-34-图-|-Netty-|-内核角度看IO模型](https://toutiao.io/k/zavpca4) ![](assets/new.png)  
+- [2022-01-26-推荐-从MVC到DDD的架构演进](https://toutiao.io/k/c7mn7hz) ![](assets/new.png)  
+- [2022-01-26-推荐-面渣逆袭：Java并发六十问，图文详解，快来看看你会多少道！](https://toutiao.io/k/4ndh1gd) ![](assets/new.png)  
 - [2022-01-26-推荐-关于代码质量退化的思考](https://toutiao.io/k/zzaz6vu) ![](assets/new.png)  
-- [2022-01-26-推荐-面试官问：设计高并发系统的时候，数据库层面该如何设计？](https://toutiao.io/k/p935kqr) ![](assets/new.png)  
-- [2022-01-26-推荐-优雅整洁的-Java-代码命名技巧，风之极·净化](https://toutiao.io/k/abc8vou) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

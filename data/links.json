@@ -9221,11 +9221,6 @@
         "title": "电脑经常不开机，拔下显卡后正常，再装回显卡也正常，过段时间又重复以上，可能是什么问题",
         "link": "https://www.v2ex.com/t/831580",
         "date": "2022-02-01"
-      },
-      {
-        "title": "@微信官方,送我虎年专属头像",
-        "link": "https://www.v2ex.com/t/831579",
-        "date": "2022-02-01"
       }
     ]
   },
@@ -9372,6 +9367,21 @@
         "date": "2022-02-01"
       },
       {
+        "title": "[推荐] 技术干货｜缓存一致性最佳实践",
+        "link": "https://toutiao.io/k/zgmi04u",
+        "date": "2022-02-01"
+      },
+      {
+        "title": "[推荐] 字节的分布式链路追踪实践，教科书式的搭建指南",
+        "link": "https://toutiao.io/k/t6j66db",
+        "date": "2022-02-01"
+      },
+      {
+        "title": "[推荐] 面试官问：设计高并发系统的时候，数据库层面该如何设计？",
+        "link": "https://toutiao.io/k/p935kqr",
+        "date": "2022-02-01"
+      },
+      {
         "title": "[推荐] 优雅整洁的 Java 代码命名技巧，风之极·净化",
         "link": "https://toutiao.io/k/abc8vou",
         "date": "2022-02-01"
@@ -9382,11 +9392,6 @@
         "date": "2022-02-01"
       },
       {
-        "title": "[推荐] 面试官问：设计高并发系统的时候，数据库层面该如何设计？",
-        "link": "https://toutiao.io/k/p935kqr",
-        "date": "2022-02-01"
-      },
-      {
         "title": "[推荐] Redis 很屌，不懂使用规范就糟蹋了",
         "link": "https://toutiao.io/k/lpnakbk",
         "date": "2022-02-01"
@@ -9394,16 +9399,6 @@
       {
         "title": "[推荐] 优惠券系统架构设计与实践",
         "link": "https://toutiao.io/k/q6yzp5j",
-        "date": "2022-02-01"
-      },
-      {
-        "title": "[推荐] 字节的分布式链路追踪实践，教科书式的搭建指南",
-        "link": "https://toutiao.io/k/t6j66db",
-        "date": "2022-02-01"
-      },
-      {
-        "title": "[推荐] 技术干货｜缓存一致性最佳实践",
-        "link": "https://toutiao.io/k/zgmi04u",
         "date": "2022-02-01"
       }
     ]

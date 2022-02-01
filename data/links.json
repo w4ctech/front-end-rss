@@ -9013,6 +9013,16 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "咨询一下大家 有没有针对面试的服务？",
+        "link": "https://www.v2ex.com/t/831603",
+        "date": "2022-02-01"
+      },
+      {
+        "title": "为什么很多老一辈人这么排斥麦当劳、肯德基、必胜客。。。。",
+        "link": "https://www.v2ex.com/t/831602",
+        "date": "2022-02-01"
+      },
+      {
         "title": "有什么适配 Windows 10/11 比较好的 5K 显示器推荐？",
         "link": "https://www.v2ex.com/t/831601",
         "date": "2022-02-01"
@@ -9226,11 +9236,6 @@
         "title": "Windows 10 在插入雷蛇鼠标时自动打开 Razer Synapse Installer",
         "link": "https://www.v2ex.com/t/831554",
         "date": "2022-01-31"
-      },
-      {
-        "title": "什么时候能整治一下微信里的各种洗脑“养生类”“中医类”文章/视频？",
-        "link": "https://www.v2ex.com/t/831553",
-        "date": "2022-01-31"
       }
     ]
   },
@@ -9377,11 +9382,6 @@
         "date": "2022-02-01"
       },
       {
-        "title": "[推荐] 面试官问：设计高并发系统的时候，数据库层面该如何设计？",
-        "link": "https://toutiao.io/k/p935kqr",
-        "date": "2022-02-01"
-      },
-      {
         "title": "[推荐] 技术干货｜缓存一致性最佳实践",
         "link": "https://toutiao.io/k/zgmi04u",
         "date": "2022-02-01"
@@ -9392,8 +9392,8 @@
         "date": "2022-02-01"
       },
       {
-        "title": "[推荐] Redis 很屌，不懂使用规范就糟蹋了",
-        "link": "https://toutiao.io/k/lpnakbk",
+        "title": "[推荐] 优雅整洁的 Java 代码命名技巧，风之极·净化",
+        "link": "https://toutiao.io/k/abc8vou",
         "date": "2022-02-01"
       },
       {
@@ -9407,8 +9407,13 @@
         "date": "2022-02-01"
       },
       {
-        "title": "[推荐] 优雅整洁的 Java 代码命名技巧，风之极·净化",
-        "link": "https://toutiao.io/k/abc8vou",
+        "title": "[推荐] Redis 很屌，不懂使用规范就糟蹋了",
+        "link": "https://toutiao.io/k/lpnakbk",
+        "date": "2022-02-01"
+      },
+      {
+        "title": "[推荐] 面试官问：设计高并发系统的时候，数据库层面该如何设计？",
+        "link": "https://toutiao.io/k/p935kqr",
         "date": "2022-02-01"
       }
     ]

@@ -9013,8 +9013,8 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
-        "title": "Linux 有无假的装逼开源项目？",
-        "link": "https://www.v2ex.com/t/831582",
+        "title": "现在开一个新的 Python 项目，哪个包管理器比较合适？哪种打包分发方式（不需要编译）比较合适？",
+        "link": "https://www.v2ex.com/t/831583",
         "date": "2022-02-01"
       },
       {
@@ -9226,11 +9226,6 @@
         "title": "有没有使用 Obsidian 的老哥，文档格式化",
         "link": "https://www.v2ex.com/t/831534",
         "date": "2022-01-31"
-      },
-      {
-        "title": "今年用电脑接电视上看春晚，求稳定的最清晰源",
-        "link": "https://www.v2ex.com/t/831533",
-        "date": "2022-01-31"
       }
     ]
   },
@@ -9372,13 +9367,8 @@
         "date": "2022-02-01"
       },
       {
-        "title": "[推荐] 技术干货｜缓存一致性最佳实践",
-        "link": "https://toutiao.io/k/zgmi04u",
-        "date": "2022-02-01"
-      },
-      {
-        "title": "[推荐] 面试官问: 如何设计一个高并发系统?",
-        "link": "https://toutiao.io/k/7hrrplb",
+        "title": "[推荐] 字节的分布式链路追踪实践，教科书式的搭建指南",
+        "link": "https://toutiao.io/k/t6j66db",
         "date": "2022-02-01"
       },
       {
@@ -9387,13 +9377,13 @@
         "date": "2022-02-01"
       },
       {
-        "title": "[推荐] 优惠券系统架构设计与实践",
-        "link": "https://toutiao.io/k/q6yzp5j",
+        "title": "[推荐] 技术干货｜缓存一致性最佳实践",
+        "link": "https://toutiao.io/k/zgmi04u",
         "date": "2022-02-01"
       },
       {
-        "title": "[推荐] 面试官问：设计高并发系统的时候，数据库层面该如何设计？",
-        "link": "https://toutiao.io/k/p935kqr",
+        "title": "[推荐] 优惠券系统架构设计与实践",
+        "link": "https://toutiao.io/k/q6yzp5j",
         "date": "2022-02-01"
       },
       {
@@ -9402,8 +9392,13 @@
         "date": "2022-02-01"
       },
       {
-        "title": "[推荐] 字节的分布式链路追踪实践，教科书式的搭建指南",
-        "link": "https://toutiao.io/k/t6j66db",
+        "title": "[推荐] 面试官问：设计高并发系统的时候，数据库层面该如何设计？",
+        "link": "https://toutiao.io/k/p935kqr",
+        "date": "2022-02-01"
+      },
+      {
+        "title": "[推荐] 面试官问: 如何设计一个高并发系统?",
+        "link": "https://toutiao.io/k/7hrrplb",
         "date": "2022-02-01"
       }
     ]

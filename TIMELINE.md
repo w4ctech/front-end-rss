@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-02-01 17:35:14。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-02-01 17:40:13。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -73,6 +73,7 @@
 - [【武汉肺炎防疫全纪录(财新网)】2022-02-01-最新海外疫情：新冠感染超3.77亿-累计接种新冠疫苗超100.65亿剂次](https://m.caixin.com/m/2022-02-01/101837153.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2022-02-01-【境内疫情观察】全国累计接种新冠疫苗逾30亿剂次（1月31日）](https://database.caixin.com/m/2022-02-01/101837162.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2022-02-01-德国未实现接种目标-奥地利强制接种疫苗法律生效｜大流行手记（1月31日）](https://m.caixin.com/m/2022-02-01/101837106.html) 
+- [【V2EX】2022-02-01-Python-Type-返回值类型](https://www.v2ex.com/t/831630) 
 - [【V2EX】2022-02-01-北京联通千兆如何正确测速](https://www.v2ex.com/t/831627) 
 - [【V2EX】2022-02-01-Netflix-在-iOS+小火箭下一切正常，但在-LG-电视+软路由+passwall-下十分慢](https://www.v2ex.com/t/831626) 
 - [【V2EX】2022-02-01-有两条老版抖音口令似乎失效了，哪位大大能帮忙找到原视频链接](https://www.v2ex.com/t/831624) 
@@ -111,7 +112,6 @@
 - [【V2EX】2022-02-01-想打听下-Nvidia-湾区的级别和薪资](https://www.v2ex.com/t/831584) 
 - [【V2EX】2022-02-01-现在开一个新的-Python-项目，哪个包管理器比较合适？哪种打包分发方式（不需要编译）比较合适？](https://www.v2ex.com/t/831583) 
 - [【V2EX】2022-02-01-能否在-Visual-Studio-的-disassembly-窗口中进行复制？](https://www.v2ex.com/t/831581) 
-- [【V2EX】2022-02-01-电脑经常不开机，拔下显卡后正常，再装回显卡也正常，过段时间又重复以上，可能是什么问题](https://www.v2ex.com/t/831580) 
 - [【技术头条】2022-02-01-你不知道的CSS-media查询与用户体验-www.zhangxinxu.com](https://blogread.cn/news/go.php?idItem=14920&url=https%3A%2F%2Fwww.zhangxinxu.com%2Fwordpress%2F2021%2F12%2Fcss-meida-user-experience%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-02-01-Android-性能优化的术、道、器-androidperformance.com](https://blogread.cn/news/go.php?idItem=14919&url=https%3A%2F%2Fandroidperformance.com%2F2022%2F01%2F07%2FThe-Performace-1-Performance-Tools%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-02-01-优质网站同好者周刊（第-050-期）-blog.nicelinks.site](https://blogread.cn/news/go.php?idItem=14918&url=https%3A%2F%2Fblog.nicelinks.site%2Fweekly-050%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

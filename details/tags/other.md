@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-02-01 17:35:14。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-01 17:40:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1729,6 +1729,7 @@
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2021-11-14-密码强度效果最佳实现一定是HTML-meter元素](https://www.zhangxinxu.com/wordpress/2021/11/html-meter-password/) 
 - [2021-11-02-见多识广，介绍Web开发中current开头的一些API属性](https://www.zhangxinxu.com/wordpress/2021/11/currentscript-currenttarget-currentsrc/) 
+- [2022-02-01-Python-Type-返回值类型](https://www.v2ex.com/t/831630) 
 - [2022-02-01-北京联通千兆如何正确测速](https://www.v2ex.com/t/831627) 
 - [2022-02-01-走亲戚巨痛苦的情况](https://www.v2ex.com/t/831623) 
 - [2022-02-01-一些关于-2022-上半年的大致粗略计划：出去玩一圈](https://www.v2ex.com/t/831622) 
@@ -1753,7 +1754,6 @@
 - [2022-02-01-四川电信-同时拥有-公网-ipv4+ipv6](https://www.v2ex.com/t/831585) 
 - [2022-02-01-想打听下-Nvidia-湾区的级别和薪资](https://www.v2ex.com/t/831584) 
 - [2022-02-01-现在开一个新的-Python-项目，哪个包管理器比较合适？哪种打包分发方式（不需要编译）比较合适？](https://www.v2ex.com/t/831583) 
-- [2022-02-01-电脑经常不开机，拔下显卡后正常，再装回显卡也正常，过段时间又重复以上，可能是什么问题](https://www.v2ex.com/t/831580) 
 - [2022-02-01-优质网站同好者周刊（第-050-期）-blog.nicelinks.site](https://blogread.cn/news/go.php?idItem=14918&url=https%3A%2F%2Fblog.nicelinks.site%2Fweekly-050%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-02-01-漫谈金丝雀部署-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14917&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fcanary-deployment%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-02-01-大公司病，太TM形象了！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14915&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493202%26amp%3Bidx%3D1%26amp%3Bsn%3De08d82d00cbbf2c8e79f3c18167cf3a7%26amp%3Bchksm%3Dfa3f0709cd488e1f1aef1ff3977c30095179293a65fef2658c28e6ea8af2d5cf243d3fd432e6%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

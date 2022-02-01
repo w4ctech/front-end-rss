@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-01 17:35:14，:rocket: 更新条数: +1832， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-01 17:40:13，:rocket: 更新条数: +1832， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-02-01-Python-Type-返回值类型](https://www.v2ex.com/t/831630) ![](assets/new.png)  
 - [2022-02-01-北京联通千兆如何正确测速](https://www.v2ex.com/t/831627) ![](assets/new.png)  
 - [2022-02-01-Netflix-在-iOS+小火箭下一切正常，但在-LG-电视+软路由+passwall-下十分慢](https://www.v2ex.com/t/831626) ![](assets/new.png)  
 - [2022-02-01-有两条老版抖音口令似乎失效了，哪位大大能帮忙找到原视频链接](https://www.v2ex.com/t/831624) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-02-01-小而美-空间降不下去了啊](https://www.v2ex.com/t/831608) ![](assets/new.png)  
 - [2022-02-01-有没有成熟的矿渣-nas-主机](https://www.v2ex.com/t/831606) ![](assets/new.png)  
 - [2022-02-01-广东移动游戏宽带是永久套餐吗?](https://www.v2ex.com/t/831605) ![](assets/new.png)  
-- [2022-02-01-VMWare-Fusion-里的-Windows-开机后，-macOS-宿主系统就无法连接打印机](https://www.v2ex.com/t/831604) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

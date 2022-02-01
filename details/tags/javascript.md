@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-02-01 08:45:03。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-01 08:56:57。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -18,6 +18,7 @@
 - [2021-12-20-深入JS-getRandomValues和Math.random方法](https://www.zhangxinxu.com/wordpress/2021/12/js-getrandomvalue-math-random/) 
 - [2021-12-08-flex-end为什么overflow无法滚动及解决方法](https://www.zhangxinxu.com/wordpress/2021/12/flex-end-overflow/) 
 - [2021-11-23-从js-visibilitychange-Safari下无效说开去](https://www.zhangxinxu.com/wordpress/2021/11/js-visibilitychange-pagehide-lifecycle/) 
+- [2022-02-01-有什么适配-Windows-10/11-比较好的-5K-显示器推荐？](https://www.v2ex.com/t/831601) 
 - [2022-02-01-无障碍辅助网站-js-插件](https://www.v2ex.com/t/831593) 
 - [2022-02-01-帮忙推荐净水和软路由](https://www.v2ex.com/t/831590) 
 - [2022-02-01-4-款路由器为什么最贵的一款路由器测速最慢？](https://www.v2ex.com/t/831577) 

@@ -9033,11 +9033,6 @@
         "date": "2022-02-01"
       },
       {
-        "title": "可以过渡用的盗版软件 for mac",
-        "link": "https://www.v2ex.com/t/831625",
-        "date": "2022-02-01"
-      },
-      {
         "title": "有两条老版抖音口令似乎失效了，哪位大大能帮忙找到原视频链接",
         "link": "https://www.v2ex.com/t/831624",
         "date": "2022-02-01"
@@ -9367,8 +9362,8 @@
         "date": "2022-02-01"
       },
       {
-        "title": "[推荐] 面试官问：设计高并发系统的时候，数据库层面该如何设计？",
-        "link": "https://toutiao.io/k/p935kqr",
+        "title": "[推荐] 技术干货｜缓存一致性最佳实践",
+        "link": "https://toutiao.io/k/zgmi04u",
         "date": "2022-02-01"
       },
       {
@@ -9377,18 +9372,8 @@
         "date": "2022-02-01"
       },
       {
-        "title": "[推荐] 技术干货｜缓存一致性最佳实践",
-        "link": "https://toutiao.io/k/zgmi04u",
-        "date": "2022-02-01"
-      },
-      {
-        "title": "[推荐] Redis 很屌，不懂使用规范就糟蹋了",
-        "link": "https://toutiao.io/k/lpnakbk",
-        "date": "2022-02-01"
-      },
-      {
-        "title": "[推荐] 面试官问: 如何设计一个高并发系统?",
-        "link": "https://toutiao.io/k/7hrrplb",
+        "title": "[推荐] 优惠券系统架构设计与实践",
+        "link": "https://toutiao.io/k/q6yzp5j",
         "date": "2022-02-01"
       },
       {
@@ -9397,8 +9382,18 @@
         "date": "2022-02-01"
       },
       {
-        "title": "[推荐] 优惠券系统架构设计与实践",
-        "link": "https://toutiao.io/k/q6yzp5j",
+        "title": "[推荐] 面试官问: 如何设计一个高并发系统?",
+        "link": "https://toutiao.io/k/7hrrplb",
+        "date": "2022-02-01"
+      },
+      {
+        "title": "[推荐] Redis 很屌，不懂使用规范就糟蹋了",
+        "link": "https://toutiao.io/k/lpnakbk",
+        "date": "2022-02-01"
+      },
+      {
+        "title": "[推荐] 面试官问：设计高并发系统的时候，数据库层面该如何设计？",
+        "link": "https://toutiao.io/k/p935kqr",
         "date": "2022-02-01"
       }
     ]

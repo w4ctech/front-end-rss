@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-02-01 13:55:55。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-02-01 14:11:34。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -72,21 +72,21 @@
 - [【武汉肺炎防疫全纪录(财新网)】2022-02-01-最新海外疫情：新冠感染超3.77亿-累计接种新冠疫苗超100.65亿剂次](https://m.caixin.com/m/2022-02-01/101837153.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2022-02-01-【境内疫情观察】全国累计接种新冠疫苗逾30亿剂次（1月31日）](https://database.caixin.com/m/2022-02-01/101837162.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2022-02-01-德国未实现接种目标-奥地利强制接种疫苗法律生效｜大流行手记（1月31日）](https://m.caixin.com/m/2022-02-01/101837106.html) 
+- [【V2EX】2022-02-01-新年新家：从-Google-Blogger-到-Hugo：-2.-不够优雅的-Hugo-体验](https://www.v2ex.com/t/831615) 
+- [【V2EX】2022-02-01-做了个《水印相机》APP，欢迎大家体验，反馈](https://www.v2ex.com/t/831614) 
+- [【V2EX】2022-02-01-今年的春节档电影你打算看嘛？看哪部？](https://www.v2ex.com/t/831612) 
 - [【V2EX】2022-02-01-做笔记和公司文档，你会用语雀吗](https://www.v2ex.com/t/831611) 
 - [【V2EX】2022-02-01-Mac-webstrom-闪退](https://www.v2ex.com/t/831609) 
 - [【V2EX】2022-02-01-小而美-空间降不下去了啊](https://www.v2ex.com/t/831608) 
-- [【V2EX】2022-02-01-V2EX-不被墙了](https://www.v2ex.com/t/831607) 
 - [【V2EX】2022-02-01-有没有成熟的矿渣-nas-主机](https://www.v2ex.com/t/831606) 
 - [【V2EX】2022-02-01-广东移动游戏宽带是永久套餐吗?](https://www.v2ex.com/t/831605) 
 - [【V2EX】2022-02-01-VMWare-Fusion-里的-Windows-开机后，-macOS-宿主系统就无法连接打印机](https://www.v2ex.com/t/831604) 
 - [【V2EX】2022-02-01-咨询一下大家-有没有针对面试的服务？](https://www.v2ex.com/t/831603) 
-- [【V2EX】2022-02-01-为什么很多老一辈人这么排斥麦当劳、肯德基、必胜客。。。。](https://www.v2ex.com/t/831602) 
 - [【V2EX】2022-02-01-有什么适配-Windows-10/11-比较好的-5K-显示器推荐？](https://www.v2ex.com/t/831601) 
 - [【V2EX】2022-02-01-Castflow,-一款简单强大的-iOS-泛用型播客-App](https://www.v2ex.com/t/831600) 
 - [【V2EX】2022-02-01-我看现在有很多国产第三方的-Apple-Pencil，有没有用过的老哥说说好用不](https://www.v2ex.com/t/831599) 
 - [【V2EX】2022-02-01-浏览器里“运行”curl](https://www.v2ex.com/t/831597) 
 - [【V2EX】2022-02-01-单点登录（SSO）](https://www.v2ex.com/t/831596) 
-- [【V2EX】2022-02-01-office-365-家庭版-2022-拼车](https://www.v2ex.com/t/831595) 
 - [【V2EX】2022-02-01-小米电视-2-坏了，官方售后说是更换主板-700-多，加上上门和检测费用-120，有点不值当了，怎么修合适？](https://www.v2ex.com/t/831594) 
 - [【V2EX】2022-02-01-无障碍辅助网站-js-插件](https://www.v2ex.com/t/831593) 
 - [【V2EX】2022-02-01-Passpharse-隐藏钱包的原理是什么？](https://www.v2ex.com/t/831592) 
@@ -113,9 +113,6 @@
 - [【V2EX】2022-02-01-nginx-想针对不同-API-限制不同请求频次应该怎么写？](https://www.v2ex.com/t/831569) 
 - [【V2EX】2022-02-01-诗词版-wordle-来啦，顺祝新春快乐](https://www.v2ex.com/t/831568) 
 - [【V2EX】2022-02-01-如何禁止-usb-无线网卡插入电脑后自动弹出带有驱动的-cd-驱动器（即禁止-usb-modeswitch-功能）](https://www.v2ex.com/t/831566) 
-- [【V2EX】2022-02-01-苹果妙控板京东有优惠](https://www.v2ex.com/t/831565) 
-- [【V2EX】2022-02-01-用-PVE-和-Win10-下开-vbox-或者-hyper-v-相比的优势在哪里？](https://www.v2ex.com/t/831564) 
-- [【V2EX】2022-02-01-20mbp-待机一晚上耗电情况](https://www.v2ex.com/t/831563) 
 - [【技术头条】2022-02-01-优质网站同好者周刊（第-050-期）-blog.nicelinks.site](https://blogread.cn/news/go.php?idItem=14918&url=https%3A%2F%2Fblog.nicelinks.site%2Fweekly-050%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-02-01-漫谈金丝雀部署-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14917&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fcanary-deployment%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-02-01-Vue实战中的一些小魔法-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14916&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493203%26amp%3Bidx%3D2%26amp%3Bsn%3Dde9700033ad22427b1188396a4eb0294%26amp%3Bchksm%3Dfa3f0708cd488e1e16708c787c643e842476abe8a4de820fc49757f106a55d2572147b474a71%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -142,13 +139,13 @@
 - [【开发者头条】2022-02-01-虚数有物理意义：中科大潘建伟、南科大范靖云团队首次实验排除实数形式的标准量子力学](https://toutiao.io/k/d290ffc) 
 - [【开发者头条】2022-02-01-机器学习矩阵运算必学库Numpy首秀！](https://toutiao.io/k/d4fn9fw) 
 - [【开发者头条】2022-02-01-创业失败的工程师内心依旧有代码](https://toutiao.io/k/pn1k0wa) 
-- [【开发者头条】2022-02-01-推荐-面试官问:-如何设计一个高并发系统?](https://toutiao.io/k/7hrrplb) 
-- [【开发者头条】2022-02-01-推荐-技术干货｜缓存一致性最佳实践](https://toutiao.io/k/zgmi04u) 
 - [【开发者头条】2022-02-01-推荐-优惠券系统架构设计与实践](https://toutiao.io/k/q6yzp5j) 
-- [【开发者头条】2022-02-01-推荐-Redis-很屌，不懂使用规范就糟蹋了](https://toutiao.io/k/lpnakbk) 
-- [【开发者头条】2022-02-01-推荐-面试官问：设计高并发系统的时候，数据库层面该如何设计？](https://toutiao.io/k/p935kqr) 
 - [【开发者头条】2022-02-01-推荐-优雅整洁的-Java-代码命名技巧，风之极·净化](https://toutiao.io/k/abc8vou) 
+- [【开发者头条】2022-02-01-推荐-面试官问：设计高并发系统的时候，数据库层面该如何设计？](https://toutiao.io/k/p935kqr) 
+- [【开发者头条】2022-02-01-推荐-Redis-很屌，不懂使用规范就糟蹋了](https://toutiao.io/k/lpnakbk) 
+- [【开发者头条】2022-02-01-推荐-面试官问:-如何设计一个高并发系统?](https://toutiao.io/k/7hrrplb) 
 - [【开发者头条】2022-02-01-推荐-字节的分布式链路追踪实践，教科书式的搭建指南](https://toutiao.io/k/t6j66db) 
+- [【开发者头条】2022-02-01-推荐-技术干货｜缓存一致性最佳实践](https://toutiao.io/k/zgmi04u) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>
@@ -345,7 +342,6 @@
 - [【张鑫旭-鑫空间-鑫生活】2022-01-31-CSS-background背景图标的变色技巧](https://www.zhangxinxu.com/wordpress/2022/01/css-background-image-color/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-01-14-纯CSS实现未读消息超过100自动显示为99+](https://www.zhangxinxu.com/wordpress/2022/01/css-show-diff-content-according-var/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-01-11-还有完没完，怎么又来了个-scrollbar-gutter？](https://www.zhangxinxu.com/wordpress/2022/01/css-scrollbar-gutter/) 
-- [【V2EX】2022-01-31-各位前端工程师有没有什么通用的-JS-混淆的工具网站？](https://www.v2ex.com/t/831562) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-01 13:55:55，:rocket: 更新条数: +1837， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-01 14:11:34，:rocket: 更新条数: +1833， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,21 +491,21 @@
 </summary>
 
 
+- [2022-02-01-新年新家：从-Google-Blogger-到-Hugo：-2.-不够优雅的-Hugo-体验](https://www.v2ex.com/t/831615) ![](assets/new.png)  
+- [2022-02-01-做了个《水印相机》APP，欢迎大家体验，反馈](https://www.v2ex.com/t/831614) ![](assets/new.png)  
+- [2022-02-01-今年的春节档电影你打算看嘛？看哪部？](https://www.v2ex.com/t/831612) ![](assets/new.png)  
 - [2022-02-01-做笔记和公司文档，你会用语雀吗](https://www.v2ex.com/t/831611) ![](assets/new.png)  
 - [2022-02-01-Mac-webstrom-闪退](https://www.v2ex.com/t/831609) ![](assets/new.png)  
 - [2022-02-01-小而美-空间降不下去了啊](https://www.v2ex.com/t/831608) ![](assets/new.png)  
-- [2022-02-01-V2EX-不被墙了](https://www.v2ex.com/t/831607) ![](assets/new.png)  
 - [2022-02-01-有没有成熟的矿渣-nas-主机](https://www.v2ex.com/t/831606) ![](assets/new.png)  
 - [2022-02-01-广东移动游戏宽带是永久套餐吗?](https://www.v2ex.com/t/831605) ![](assets/new.png)  
 - [2022-02-01-VMWare-Fusion-里的-Windows-开机后，-macOS-宿主系统就无法连接打印机](https://www.v2ex.com/t/831604) ![](assets/new.png)  
 - [2022-02-01-咨询一下大家-有没有针对面试的服务？](https://www.v2ex.com/t/831603) ![](assets/new.png)  
-- [2022-02-01-为什么很多老一辈人这么排斥麦当劳、肯德基、必胜客。。。。](https://www.v2ex.com/t/831602) ![](assets/new.png)  
 - [2022-02-01-有什么适配-Windows-10/11-比较好的-5K-显示器推荐？](https://www.v2ex.com/t/831601) ![](assets/new.png)  
 - [2022-02-01-Castflow,-一款简单强大的-iOS-泛用型播客-App](https://www.v2ex.com/t/831600) ![](assets/new.png)  
 - [2022-02-01-我看现在有很多国产第三方的-Apple-Pencil，有没有用过的老哥说说好用不](https://www.v2ex.com/t/831599) ![](assets/new.png)  
 - [2022-02-01-浏览器里“运行”curl](https://www.v2ex.com/t/831597) ![](assets/new.png)  
 - [2022-02-01-单点登录（SSO）](https://www.v2ex.com/t/831596) ![](assets/new.png)  
-- [2022-02-01-office-365-家庭版-2022-拼车](https://www.v2ex.com/t/831595) ![](assets/new.png)  
 - [2022-02-01-小米电视-2-坏了，官方售后说是更换主板-700-多，加上上门和检测费用-120，有点不值当了，怎么修合适？](https://www.v2ex.com/t/831594) ![](assets/new.png)  
 - [2022-02-01-无障碍辅助网站-js-插件](https://www.v2ex.com/t/831593) ![](assets/new.png)  
 - [2022-02-01-Passpharse-隐藏钱包的原理是什么？](https://www.v2ex.com/t/831592) ![](assets/new.png)  
@@ -559,13 +559,13 @@
 - [2022-02-01-虚数有物理意义：中科大潘建伟、南科大范靖云团队首次实验排除实数形式的标准量子力学](https://toutiao.io/k/d290ffc) ![](assets/new.png)  
 - [2022-02-01-机器学习矩阵运算必学库Numpy首秀！](https://toutiao.io/k/d4fn9fw) ![](assets/new.png)  
 - [2022-02-01-创业失败的工程师内心依旧有代码](https://toutiao.io/k/pn1k0wa) ![](assets/new.png)  
-- [2022-02-01-推荐-面试官问:-如何设计一个高并发系统?](https://toutiao.io/k/7hrrplb) ![](assets/new.png)  
-- [2022-02-01-推荐-技术干货｜缓存一致性最佳实践](https://toutiao.io/k/zgmi04u) ![](assets/new.png)  
 - [2022-02-01-推荐-优惠券系统架构设计与实践](https://toutiao.io/k/q6yzp5j) ![](assets/new.png)  
-- [2022-02-01-推荐-Redis-很屌，不懂使用规范就糟蹋了](https://toutiao.io/k/lpnakbk) ![](assets/new.png)  
-- [2022-02-01-推荐-面试官问：设计高并发系统的时候，数据库层面该如何设计？](https://toutiao.io/k/p935kqr) ![](assets/new.png)  
 - [2022-02-01-推荐-优雅整洁的-Java-代码命名技巧，风之极·净化](https://toutiao.io/k/abc8vou) ![](assets/new.png)  
+- [2022-02-01-推荐-面试官问：设计高并发系统的时候，数据库层面该如何设计？](https://toutiao.io/k/p935kqr) ![](assets/new.png)  
+- [2022-02-01-推荐-Redis-很屌，不懂使用规范就糟蹋了](https://toutiao.io/k/lpnakbk) ![](assets/new.png)  
+- [2022-02-01-推荐-面试官问:-如何设计一个高并发系统?](https://toutiao.io/k/7hrrplb) ![](assets/new.png)  
 - [2022-02-01-推荐-字节的分布式链路追踪实践，教科书式的搭建指南](https://toutiao.io/k/t6j66db) ![](assets/new.png)  
+- [2022-02-01-推荐-技术干货｜缓存一致性最佳实践](https://toutiao.io/k/zgmi04u) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

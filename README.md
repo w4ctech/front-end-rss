@@ -11,11 +11,11 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-01 15:14:33，:rocket: 更新条数: +85， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-01 15:22:05，:rocket: 更新条数: +1814， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
@@ -52,7 +52,7 @@
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)![](assets/dot.png)   
-- [技术头条](#技术头条)![](assets/dot.png)   
+- [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)![](assets/dot.png)   
 - [安全热点](#安全热点)  
 - [物联网智库](#物联网智库)  
@@ -65,6 +65,26 @@
 </summary>
 
 
+- [2022-02-01-最新疫情：全国新冠累计确诊106139例-累计接种新冠疫苗超30亿剂次](https://m.caixin.com/m/2022-02-01/101837157.html) ![](assets/new.png)  
+- [2022-02-01-最新海外疫情：新冠感染超3.77亿-累计接种新冠疫苗超100.65亿剂次](https://m.caixin.com/m/2022-02-01/101837153.html) ![](assets/new.png)  
+- [2022-02-01-【境内疫情观察】全国累计接种新冠疫苗逾30亿剂次（1月31日）](https://database.caixin.com/m/2022-02-01/101837162.html) ![](assets/new.png)  
+- [2022-02-01-德国未实现接种目标-奥地利强制接种疫苗法律生效｜大流行手记（1月31日）](https://m.caixin.com/m/2022-02-01/101837106.html) ![](assets/new.png)  
+- [2022-01-31-【境内疫情观察】浙江新增24例本土病例（1月30日）](https://database.caixin.com/m/2022-01-31/101837030.html) ![](assets/new.png)  
+- [2022-01-31-冬奥会入境高峰已至，奥密克戎“隐形”亚变体引关注｜大流行手记（1月30日）](https://m.caixin.com/m/2022-01-31/101837011.html) ![](assets/new.png)  
+- [2022-01-30-北京本土感染者累计破百-新增3个高风险地区](https://m.caixin.com/m/2022-01-30/101836905.html) ![](assets/new.png)  
+- [2022-01-30-北京：关于对冷链传播疫情问题相关单位和人员追责问责情况的通报](https://china.caixin.com/m/2022-01-30/101836927.html) ![](assets/new.png)  
+- [2022-01-30-【境内疫情观察】全国新增54例本土病例（1月29日）](https://database.caixin.com/m/2022-01-30/101836868.html) ![](assets/new.png)  
+- [2022-01-30-英格兰为5-11岁高风险儿童接种疫苗-俄罗斯日增10万例｜大流行手记（1月29日）](https://m.caixin.com/m/2022-01-30/101836760.html) ![](assets/new.png)  
+- [2022-01-30-研发方回应首款国产新冠mRNA疫苗发热问题：与限制用药有关](https://m.caixin.com/m/2022-01-30/101836836.html) ![](assets/new.png)  
+- [2022-01-29-研究：新冠疫苗加强针“混打”保护效果优于同源接种](https://m.caixin.com/m/2022-01-29/101836549.html) ![](assets/new.png)  
+- [2022-01-29-国务院强调不得随意禁止外地群众返乡过年](https://m.caixin.com/m/2022-01-29/101836501.html) ![](assets/new.png)  
+- [2022-01-29-北京新增12例本土新冠确诊病例-涉及丰台、大兴、朝阳](https://m.caixin.com/m/2022-01-29/101836535.html) ![](assets/new.png)  
+- [2022-01-29-【境内疫情观察】全国新增37例本土病例（1月28日）](https://database.caixin.com/m/2022-01-29/101836489.html) ![](assets/new.png)  
+- [2022-01-29-科学家联名呼吁英国支持COVID专利豁免-加拿大感染高峰将过｜大流行手记（1月28日）](https://m.caixin.com/m/2022-01-29/101836375.html) ![](assets/new.png)  
+- [2022-01-28-杭州三日累计确诊30例外溢4省-初判源头为物传人](https://m.caixin.com/m/2022-01-28/101836259.html) ![](assets/new.png)  
+- [2022-01-28-【境内疫情观察】全国新增39例本土病例（1月27日）](https://database.caixin.com/m/2022-01-28/101836058.html) ![](assets/new.png)  
+- [2022-01-28-奥密克戎新亚型引关注，瑞典暂不为低龄儿童打疫苗｜大流行手记（1月27日）](https://m.caixin.com/m/2022-01-28/101835948.html) ![](assets/new.png)  
+- [2022-01-28-【图集】杭州启用核酸检测气膜实验室](https://photos.caixin.com/m/2022-01-28/101836022.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -502,26 +522,6 @@
 </summary>
 
 
-- [2022-02-01-你不知道的CSS-media查询与用户体验-www.zhangxinxu.com](https://blogread.cn/news/go.php?idItem=14920&url=https%3A%2F%2Fwww.zhangxinxu.com%2Fwordpress%2F2021%2F12%2Fcss-meida-user-experience%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-02-01-Android-性能优化的术、道、器-androidperformance.com](https://blogread.cn/news/go.php?idItem=14919&url=https%3A%2F%2Fandroidperformance.com%2F2022%2F01%2F07%2FThe-Performace-1-Performance-Tools%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-02-01-优质网站同好者周刊（第-050-期）-blog.nicelinks.site](https://blogread.cn/news/go.php?idItem=14918&url=https%3A%2F%2Fblog.nicelinks.site%2Fweekly-050%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-02-01-漫谈金丝雀部署-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14917&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fcanary-deployment%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-02-01-Vue实战中的一些小魔法-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14916&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493203%26amp%3Bidx%3D2%26amp%3Bsn%3Dde9700033ad22427b1188396a4eb0294%26amp%3Bchksm%3Dfa3f0708cd488e1e16708c787c643e842476abe8a4de820fc49757f106a55d2572147b474a71%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-02-01-大公司病，太TM形象了！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14915&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493202%26amp%3Bidx%3D1%26amp%3Bsn%3De08d82d00cbbf2c8e79f3c18167cf3a7%26amp%3Bchksm%3Dfa3f0709cd488e1f1aef1ff3977c30095179293a65fef2658c28e6ea8af2d5cf243d3fd432e6%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-02-01-老旧的API，该如何处理？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14914&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493202%26amp%3Bidx%3D2%26amp%3Bsn%3D07dd50f2cf3dee4fb8de9b96453bf09e%26amp%3Bchksm%3Dfa3f0709cd488e1feb6389d0e4f9316f9ce6c95e4e9af456ef52ec2e1ea57e0dea5f09810765%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-02-01-炸了，开源社区应该用中文吗？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14913&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493183%26amp%3Bidx%3D1%26amp%3Bsn%3Dd3e73153840609bd9a8d9ad2332ef0c0%26amp%3Bchksm%3Dfa3f0764cd488e722b45ee88954a3bf4ffec7eb827cd68df2aae903c3e762aa0687f3bb42eac%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-02-01-从面试官角度看一次前端面试经历-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14912&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493183%26amp%3Bidx%3D2%26amp%3Bsn%3D5fa4e2c3d2fe23c944a9e037e1b7aff5%26amp%3Bchksm%3Dfa3f0764cd488e720e4e68527c06873860d0fd73417c8765831c4a5022d541de6fad313a67b3%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-02-01-一个U盘装N款系统不是梦！超级好用的装机神器！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14911&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493182%26amp%3Bidx%3D1%26amp%3Bsn%3Ddf59f21929e95ea040b5e0b0c0450711%26amp%3Bchksm%3Dfa3f0765cd488e73bbf0a45ad1d96c1c1f6eefdb563b5ca31d18517b09660cda18eb35e1bff4%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-02-01-2021年10大流行软件测试工具-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14910&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493182%26amp%3Bidx%3D2%26amp%3Bsn%3Dd0808be25095064df4e148faf21fb915%26amp%3Bchksm%3Dfa3f0765cd488e73c3a0ede4bbd0a31fb822afbb649f8747894ebf6532433eb8e7ca23bf1281%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-02-01-5个免费在线SQL数据库环境，简直太方便了！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14909&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493177%26amp%3Bidx%3D2%26amp%3Bsn%3Dabab17fd476216398dfe1f016c4dcb84%26amp%3Bchksm%3Dfa3f0762cd488e7489964dbbfdb59b10f44ed9b5f7056ba6c5c63b268c6673677fd481af5a87%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-02-01-GoCD很好，但说说Jenkins吧-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14908&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fgocd-jenkins-pipeline%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-02-01-微服务坏味道之循环依赖-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14907&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fmicroservices-bad-smell-circular-dependency%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-02-01-高效编写测试用例的技巧-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14906&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fwrite-effective-testcases-tips%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-02-01-软件工程师应该如何吵架？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14905&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fsoftware-engineer-quarrel-culture%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-02-01-Python之禅：编写优雅Python代码的16个原则-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14904&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493176%26amp%3Bidx%3D1%26amp%3Bsn%3Df2d627b156b058851c889b4445e11ec1%26amp%3Bchksm%3Dfa3f0763cd488e75569fb239eac349981802ba866826795ead0d9b7546d81579eed97e34bb65%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-02-01-公司这套架构统一处理try...catch，很牛逼！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14903&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493176%26amp%3Bidx%3D2%26amp%3Bsn%3D98ffd0ca1663318ac2b071210d422ade%26amp%3Bchksm%3Dfa3f0763cd488e75d3f771749cf8c542bc4a956a70c6a9b5d081ba654d919b72207bee03e9a5%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-02-01-Windows10最新版壁纸下载-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14902&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493135%26amp%3Bidx%3D1%26amp%3Bsn%3Dd81460b7d7680b08f84d88644053f9ad%26amp%3Bchksm%3Dfa3f0754cd488e426414f463f7585a415ed6096c7bb374c3bbcaee6fb03fdc3c57b9a7262626%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-02-01-API面试四连杀：接口如何设计？安全如何保证？签名如何实现？防重如何实现？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14901&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493135%26amp%3Bidx%3D2%26amp%3Bsn%3D4569a4965be1a6e8b85369edd7fc91dc%26amp%3Bchksm%3Dfa3f0754cd488e427c9670d6aa67e0693725ee332f26e011767ba85562bd6bb08a65cc8aaaba%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -539,12 +539,12 @@
 - [2022-02-01-虚数有物理意义：中科大潘建伟、南科大范靖云团队首次实验排除实数形式的标准量子力学](https://toutiao.io/k/d290ffc) ![](assets/new.png)  
 - [2022-02-01-机器学习矩阵运算必学库Numpy首秀！](https://toutiao.io/k/d4fn9fw) ![](assets/new.png)  
 - [2022-02-01-创业失败的工程师内心依旧有代码](https://toutiao.io/k/pn1k0wa) ![](assets/new.png)  
-- [2022-02-01-推荐-字节的分布式链路追踪实践，教科书式的搭建指南](https://toutiao.io/k/t6j66db) ![](assets/new.png)  
-- [2022-02-01-推荐-优惠券系统架构设计与实践](https://toutiao.io/k/q6yzp5j) ![](assets/new.png)  
-- [2022-02-01-推荐-面试官问：设计高并发系统的时候，数据库层面该如何设计？](https://toutiao.io/k/p935kqr) ![](assets/new.png)  
-- [2022-02-01-推荐-优雅整洁的-Java-代码命名技巧，风之极·净化](https://toutiao.io/k/abc8vou) ![](assets/new.png)  
-- [2022-02-01-推荐-技术干货｜缓存一致性最佳实践](https://toutiao.io/k/zgmi04u) ![](assets/new.png)  
 - [2022-02-01-推荐-Redis-很屌，不懂使用规范就糟蹋了](https://toutiao.io/k/lpnakbk) ![](assets/new.png)  
+- [2022-02-01-推荐-面试官问：设计高并发系统的时候，数据库层面该如何设计？](https://toutiao.io/k/p935kqr) ![](assets/new.png)  
+- [2022-02-01-推荐-技术干货｜缓存一致性最佳实践](https://toutiao.io/k/zgmi04u) ![](assets/new.png)  
+- [2022-02-01-推荐-字节的分布式链路追踪实践，教科书式的搭建指南](https://toutiao.io/k/t6j66db) ![](assets/new.png)  
+- [2022-02-01-推荐-优雅整洁的-Java-代码命名技巧，风之极·净化](https://toutiao.io/k/abc8vou) ![](assets/new.png)  
+- [2022-02-01-推荐-优惠券系统架构设计与实践](https://toutiao.io/k/q6yzp5j) ![](assets/new.png)  
 - [2022-02-01-推荐-面试官问:-如何设计一个高并发系统?](https://toutiao.io/k/7hrrplb) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

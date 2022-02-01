@@ -9226,11 +9226,6 @@
         "title": "谁有 dong ao 开幕式或者项目门票",
         "link": "https://www.v2ex.com/t/831550",
         "date": "2022-01-31"
-      },
-      {
-        "title": "前端用什么技术，才能合理缓存分页结果？",
-        "link": "https://www.v2ex.com/t/831548",
-        "date": "2022-01-31"
       }
     ]
   },
@@ -9377,6 +9372,11 @@
         "date": "2022-02-01"
       },
       {
+        "title": "[推荐] 优雅整洁的 Java 代码命名技巧，风之极·净化",
+        "link": "https://toutiao.io/k/abc8vou",
+        "date": "2022-02-01"
+      },
+      {
         "title": "[推荐] 面试官问：设计高并发系统的时候，数据库层面该如何设计？",
         "link": "https://toutiao.io/k/p935kqr",
         "date": "2022-02-01"
@@ -9387,16 +9387,6 @@
         "date": "2022-02-01"
       },
       {
-        "title": "[推荐] 优雅整洁的 Java 代码命名技巧，风之极·净化",
-        "link": "https://toutiao.io/k/abc8vou",
-        "date": "2022-02-01"
-      },
-      {
-        "title": "[推荐] 技术干货｜缓存一致性最佳实践",
-        "link": "https://toutiao.io/k/zgmi04u",
-        "date": "2022-02-01"
-      },
-      {
         "title": "[推荐] Redis 很屌，不懂使用规范就糟蹋了",
         "link": "https://toutiao.io/k/lpnakbk",
         "date": "2022-02-01"
@@ -9404,6 +9394,11 @@
       {
         "title": "[推荐] 字节的分布式链路追踪实践，教科书式的搭建指南",
         "link": "https://toutiao.io/k/t6j66db",
+        "date": "2022-02-01"
+      },
+      {
+        "title": "[推荐] 技术干货｜缓存一致性最佳实践",
+        "link": "https://toutiao.io/k/zgmi04u",
         "date": "2022-02-01"
       },
       {

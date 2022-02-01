@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-02-01 00:41:45。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-01 01:12:02。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1726,6 +1726,7 @@
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2021-11-14-密码强度效果最佳实现一定是HTML-meter元素](https://www.zhangxinxu.com/wordpress/2021/11/html-meter-password/) 
 - [2021-11-02-见多识广，介绍Web开发中current开头的一些API属性](https://www.zhangxinxu.com/wordpress/2021/11/currentscript-currenttarget-currentsrc/) 
+- [2022-02-01-用-PVE-和-Win10-下开-vbox-或者-hyper-v-相比的优势在哪里？](https://www.v2ex.com/t/831564) 
 - [2022-02-01-20mbp-待机一晚上耗电情况](https://www.v2ex.com/t/831563) 
 - [2022-01-31-你们都用的什么虚拟币钱包呀？](https://www.v2ex.com/t/831561) 
 - [2022-01-31-申请恢复本账号（已被降权）为正常状态](https://www.v2ex.com/t/831560) 
@@ -1761,7 +1762,6 @@
 - [2022-01-31-我从双拼回归了全拼](https://www.v2ex.com/t/831519) 
 - [2022-01-31-开启联通-IPV6-发现-BT-下载快很多](https://www.v2ex.com/t/831517) 
 - [2022-01-31-限时活动湖北电信老用户半价15-元/月提速千兆宽带](https://www.v2ex.com/t/831515) 
-- [2022-01-31-新年新家，从-Google-Blogger-到-Hugo-：-1.-Blogger-的优缺点](https://www.v2ex.com/t/831514) 
 - [2022-02-01-优质网站同好者周刊（第-050-期）-blog.nicelinks.site](https://blogread.cn/news/go.php?idItem=14918&url=https%3A%2F%2Fblog.nicelinks.site%2Fweekly-050%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-02-01-漫谈金丝雀部署-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14917&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fcanary-deployment%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-02-01-大公司病，太TM形象了！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14915&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493202%26amp%3Bidx%3D1%26amp%3Bsn%3De08d82d00cbbf2c8e79f3c18167cf3a7%26amp%3Bchksm%3Dfa3f0709cd488e1f1aef1ff3977c30095179293a65fef2658c28e6ea8af2d5cf243d3fd432e6%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

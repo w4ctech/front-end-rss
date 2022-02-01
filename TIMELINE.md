@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-02-01 00:41:45。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-02-01 01:12:02。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,7 @@
 </summary>
 
 
+- [【V2EX】2022-02-01-用-PVE-和-Win10-下开-vbox-或者-hyper-v-相比的优势在哪里？](https://www.v2ex.com/t/831564) 
 - [【V2EX】2022-02-01-20mbp-待机一晚上耗电情况](https://www.v2ex.com/t/831563) 
 - [【技术头条】2022-02-01-优质网站同好者周刊（第-050-期）-blog.nicelinks.site](https://blogread.cn/news/go.php?idItem=14918&url=https%3A%2F%2Fblog.nicelinks.site%2Fweekly-050%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-02-01-漫谈金丝雀部署-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14917&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fcanary-deployment%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -94,11 +95,11 @@
 - [【开发者头条】2022-02-01-从数据库评估差异，看全球化长期主义之路](https://toutiao.io/k/r980b51) 
 - [【开发者头条】2022-02-01-虚数有物理意义：中科大潘建伟、南科大范靖云团队首次实验排除实数形式的标准量子力学](https://toutiao.io/k/d290ffc) 
 - [【开发者头条】2022-02-01-推荐-优惠券系统架构设计与实践](https://toutiao.io/k/q6yzp5j) 
-- [【开发者头条】2022-02-01-推荐-技术干货｜缓存一致性最佳实践](https://toutiao.io/k/zgmi04u) 
-- [【开发者头条】2022-02-01-推荐-字节的分布式链路追踪实践，教科书式的搭建指南](https://toutiao.io/k/t6j66db) 
 - [【开发者头条】2022-02-01-推荐-面试官问:-如何设计一个高并发系统?](https://toutiao.io/k/7hrrplb) 
-- [【开发者头条】2022-02-01-推荐-优雅整洁的-Java-代码命名技巧，风之极·净化](https://toutiao.io/k/abc8vou) 
 - [【开发者头条】2022-02-01-推荐-面试官问：设计高并发系统的时候，数据库层面该如何设计？](https://toutiao.io/k/p935kqr) 
+- [【开发者头条】2022-02-01-推荐-字节的分布式链路追踪实践，教科书式的搭建指南](https://toutiao.io/k/t6j66db) 
+- [【开发者头条】2022-02-01-推荐-优雅整洁的-Java-代码命名技巧，风之极·净化](https://toutiao.io/k/abc8vou) 
+- [【开发者头条】2022-02-01-推荐-技术干货｜缓存一致性最佳实践](https://toutiao.io/k/zgmi04u) 
 - [【开发者头条】2022-02-01-推荐-Redis-很屌，不懂使用规范就糟蹋了](https://toutiao.io/k/lpnakbk) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
@@ -341,7 +342,6 @@
 - [【V2EX】2022-01-31-开启联通-IPV6-发现-BT-下载快很多](https://www.v2ex.com/t/831517) 
 - [【V2EX】2022-01-31-CCTV4K，-CCTV-16-4K-直播源有分享吗？求分享，看春晚和奥运](https://www.v2ex.com/t/831516) 
 - [【V2EX】2022-01-31-限时活动湖北电信老用户半价15-元/月提速千兆宽带](https://www.v2ex.com/t/831515) 
-- [【V2EX】2022-01-31-新年新家，从-Google-Blogger-到-Hugo-：-1.-Blogger-的优缺点](https://www.v2ex.com/t/831514) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

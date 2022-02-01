@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-01 08:56:57，:rocket: 更新条数: +1835， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-01 09:12:35，:rocket: 更新条数: +1835， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -65,9 +65,9 @@
 </summary>
 
 
-- [2022-02-01-1月31日全国新增新冠66例-五省份本土27例](https://m.caixin.com/m/2022-02-01/101837092.html) ![](assets/new.png)  
+- [2022-02-01-最新疫情：全国新冠累计确诊106139例-累计接种新冠疫苗超30亿剂次](https://m.caixin.com/m/2022-02-01/101837157.html) ![](assets/new.png)  
+- [2022-02-01-最新海外疫情：新冠感染超3.77亿-累计接种新冠疫苗超100.65亿剂次](https://m.caixin.com/m/2022-02-01/101837153.html) ![](assets/new.png)  
 - [2022-02-01-德国未实现接种目标-奥地利强制接种疫苗法律生效｜大流行手记（1月31日）](https://m.caixin.com/m/2022-02-01/101837106.html) ![](assets/new.png)  
-- [2022-01-31-最新海外疫情：新冠感染超3.74亿-累计接种新冠疫苗超100.45亿剂次](https://m.caixin.com/m/2022-01-31/101837061.html) ![](assets/new.png)  
 - [2022-01-31-【境内疫情观察】浙江新增24例本土病例（1月30日）](https://database.caixin.com/m/2022-01-31/101837030.html) ![](assets/new.png)  
 - [2022-01-31-冬奥会入境高峰已至，奥密克戎“隐形”亚变体引关注｜大流行手记（1月30日）](https://m.caixin.com/m/2022-01-31/101837011.html) ![](assets/new.png)  
 - [2022-01-30-北京本土感染者累计破百-新增3个高风险地区](https://m.caixin.com/m/2022-01-30/101836905.html) ![](assets/new.png)  
@@ -560,12 +560,12 @@
 - [2022-02-01-机器学习矩阵运算必学库Numpy首秀！](https://toutiao.io/k/d4fn9fw) ![](assets/new.png)  
 - [2022-02-01-创业失败的工程师内心依旧有代码](https://toutiao.io/k/pn1k0wa) ![](assets/new.png)  
 - [2022-02-01-推荐-面试官问：设计高并发系统的时候，数据库层面该如何设计？](https://toutiao.io/k/p935kqr) ![](assets/new.png)  
-- [2022-02-01-推荐-优雅整洁的-Java-代码命名技巧，风之极·净化](https://toutiao.io/k/abc8vou) ![](assets/new.png)  
-- [2022-02-01-推荐-字节的分布式链路追踪实践，教科书式的搭建指南](https://toutiao.io/k/t6j66db) ![](assets/new.png)  
-- [2022-02-01-推荐-技术干货｜缓存一致性最佳实践](https://toutiao.io/k/zgmi04u) ![](assets/new.png)  
-- [2022-02-01-推荐-Redis-很屌，不懂使用规范就糟蹋了](https://toutiao.io/k/lpnakbk) ![](assets/new.png)  
-- [2022-02-01-推荐-优惠券系统架构设计与实践](https://toutiao.io/k/q6yzp5j) ![](assets/new.png)  
 - [2022-02-01-推荐-面试官问:-如何设计一个高并发系统?](https://toutiao.io/k/7hrrplb) ![](assets/new.png)  
+- [2022-02-01-推荐-字节的分布式链路追踪实践，教科书式的搭建指南](https://toutiao.io/k/t6j66db) ![](assets/new.png)  
+- [2022-02-01-推荐-优雅整洁的-Java-代码命名技巧，风之极·净化](https://toutiao.io/k/abc8vou) ![](assets/new.png)  
+- [2022-02-01-推荐-技术干货｜缓存一致性最佳实践](https://toutiao.io/k/zgmi04u) ![](assets/new.png)  
+- [2022-02-01-推荐-优惠券系统架构设计与实践](https://toutiao.io/k/q6yzp5j) ![](assets/new.png)  
+- [2022-02-01-推荐-Redis-很屌，不懂使用规范就糟蹋了](https://toutiao.io/k/lpnakbk) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

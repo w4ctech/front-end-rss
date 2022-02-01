@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2022-02-01 07:12:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-01 07:19:42。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-02-01-1keydd-inst.sh-显进度+镜像永不失联，-1keydd-一键-DD-脚本支持一键安装纯净版-debian-与自定镜像](https://www.v2ex.com/t/831591) 
 - [2022-02-01-帮忙推荐净水和软路由](https://www.v2ex.com/t/831590) 
 - [2022-02-01-有没有好玩的-VR-游戏推荐下](https://www.v2ex.com/t/831589) 
 - [2022-02-01-个人博客的新文章，关于-IPv6-基础协议-ICMPv6-的简单整理](https://www.v2ex.com/t/831588) 

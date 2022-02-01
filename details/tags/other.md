@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-02-01 18:46:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-01 18:58:41。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1729,6 +1729,7 @@
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2021-11-14-密码强度效果最佳实现一定是HTML-meter元素](https://www.zhangxinxu.com/wordpress/2021/11/html-meter-password/) 
 - [2021-11-02-见多识广，介绍Web开发中current开头的一些API属性](https://www.zhangxinxu.com/wordpress/2021/11/currentscript-currenttarget-currentsrc/) 
+- [2022-02-01-不懂就问，如何让-Mac-和-Win-能同时访问一个外置硬盘?-而且速度可以足够快。](https://www.v2ex.com/t/831631) 
 - [2022-02-01-Python-Type-返回值类型](https://www.v2ex.com/t/831630) 
 - [2022-02-01-北京联通千兆如何正确测速](https://www.v2ex.com/t/831627) 
 - [2022-02-01-走亲戚巨痛苦的情况](https://www.v2ex.com/t/831623) 
@@ -1774,7 +1775,7 @@
 - [2022-02-01-虚数有物理意义：中科大潘建伟、南科大范靖云团队首次实验排除实数形式的标准量子力学](https://toutiao.io/k/d290ffc) 
 - [2022-02-01-机器学习矩阵运算必学库Numpy首秀！](https://toutiao.io/k/d4fn9fw) 
 - [2022-02-01-创业失败的工程师内心依旧有代码](https://toutiao.io/k/pn1k0wa) 
-- [2022-02-01-推荐-字节的分布式链路追踪实践，教科书式的搭建指南](https://toutiao.io/k/t6j66db) 
-- [2022-02-01-推荐-Redis-很屌，不懂使用规范就糟蹋了](https://toutiao.io/k/lpnakbk) 
 - [2022-02-01-推荐-优雅整洁的-Java-代码命名技巧，风之极·净化](https://toutiao.io/k/abc8vou) 
+- [2022-02-01-推荐-Redis-很屌，不懂使用规范就糟蹋了](https://toutiao.io/k/lpnakbk) 
+- [2022-02-01-推荐-字节的分布式链路追踪实践，教科书式的搭建指南](https://toutiao.io/k/t6j66db) 
 - [2022-02-01-推荐-优惠券系统架构设计与实践](https://toutiao.io/k/q6yzp5j) 

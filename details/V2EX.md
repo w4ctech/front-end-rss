@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2022-02-01 09:54:36。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-01 10:13:49。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-02-01-VMWare-Fusion-里的-Windows-开机后，-macOS-宿主系统就无法连接打印机](https://www.v2ex.com/t/831604) 
 - [2022-02-01-咨询一下大家-有没有针对面试的服务？](https://www.v2ex.com/t/831603) 
 - [2022-02-01-为什么很多老一辈人这么排斥麦当劳、肯德基、必胜客。。。。](https://www.v2ex.com/t/831602) 
 - [2022-02-01-有什么适配-Windows-10/11-比较好的-5K-显示器推荐？](https://www.v2ex.com/t/831601) 
@@ -49,4 +50,3 @@
 - [2022-01-31-20220201-午夜俱乐部](https://www.v2ex.com/t/831557) 
 - [2022-01-31-2022-年了，如果想开发-macOS-简单的工具-app-考虑用学什么技术？](https://www.v2ex.com/t/831556) 
 - [2022-01-31-有沒有不限制傳輸量的-vm-主機推薦](https://www.v2ex.com/t/831555) 
-- [2022-01-31-Windows-10-在插入雷蛇鼠标时自动打开-Razer-Synapse-Installer](https://www.v2ex.com/t/831554) 

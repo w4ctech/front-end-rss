@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-02-01 13:36:29。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-01 13:43:40。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1728,6 +1728,8 @@
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2021-11-14-密码强度效果最佳实现一定是HTML-meter元素](https://www.zhangxinxu.com/wordpress/2021/11/html-meter-password/) 
 - [2021-11-02-见多识广，介绍Web开发中current开头的一些API属性](https://www.zhangxinxu.com/wordpress/2021/11/currentscript-currenttarget-currentsrc/) 
+- [2022-02-01-做笔记和公司文档，你会用语雀吗](https://www.v2ex.com/t/831611) 
+- [2022-02-01-Mac-webstrom-闪退](https://www.v2ex.com/t/831609) 
 - [2022-02-01-小而美-空间降不下去了啊](https://www.v2ex.com/t/831608) 
 - [2022-02-01-V2EX-不被墙了](https://www.v2ex.com/t/831607) 
 - [2022-02-01-有没有成熟的矿渣-nas-主机](https://www.v2ex.com/t/831606) 
@@ -1756,8 +1758,6 @@
 - [2022-02-01-苹果妙控板京东有优惠](https://www.v2ex.com/t/831565) 
 - [2022-02-01-用-PVE-和-Win10-下开-vbox-或者-hyper-v-相比的优势在哪里？](https://www.v2ex.com/t/831564) 
 - [2022-02-01-20mbp-待机一晚上耗电情况](https://www.v2ex.com/t/831563) 
-- [2022-01-31-你们都用的什么虚拟币钱包呀？](https://www.v2ex.com/t/831561) 
-- [2022-01-31-GSuite-邮箱中邮件导出或下载问题](https://www.v2ex.com/t/831559) 
 - [2022-02-01-优质网站同好者周刊（第-050-期）-blog.nicelinks.site](https://blogread.cn/news/go.php?idItem=14918&url=https%3A%2F%2Fblog.nicelinks.site%2Fweekly-050%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-02-01-漫谈金丝雀部署-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14917&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fcanary-deployment%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-02-01-大公司病，太TM形象了！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14915&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493202%26amp%3Bidx%3D1%26amp%3Bsn%3De08d82d00cbbf2c8e79f3c18167cf3a7%26amp%3Bchksm%3Dfa3f0709cd488e1f1aef1ff3977c30095179293a65fef2658c28e6ea8af2d5cf243d3fd432e6%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1780,7 +1780,7 @@
 - [2022-02-01-虚数有物理意义：中科大潘建伟、南科大范靖云团队首次实验排除实数形式的标准量子力学](https://toutiao.io/k/d290ffc) 
 - [2022-02-01-机器学习矩阵运算必学库Numpy首秀！](https://toutiao.io/k/d4fn9fw) 
 - [2022-02-01-创业失败的工程师内心依旧有代码](https://toutiao.io/k/pn1k0wa) 
-- [2022-02-01-推荐-Redis-很屌，不懂使用规范就糟蹋了](https://toutiao.io/k/lpnakbk) 
 - [2022-02-01-推荐-优雅整洁的-Java-代码命名技巧，风之极·净化](https://toutiao.io/k/abc8vou) 
-- [2022-02-01-推荐-字节的分布式链路追踪实践，教科书式的搭建指南](https://toutiao.io/k/t6j66db) 
 - [2022-02-01-推荐-优惠券系统架构设计与实践](https://toutiao.io/k/q6yzp5j) 
+- [2022-02-01-推荐-Redis-很屌，不懂使用规范就糟蹋了](https://toutiao.io/k/lpnakbk) 
+- [2022-02-01-推荐-字节的分布式链路追踪实践，教科书式的搭建指南](https://toutiao.io/k/t6j66db) 

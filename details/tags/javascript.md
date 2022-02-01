@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-02-01 15:22:05。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-01 15:40:46。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -22,3 +22,4 @@
 - [2022-02-01-无障碍辅助网站-js-插件](https://www.v2ex.com/t/831593) 
 - [2022-02-01-帮忙推荐净水和软路由](https://www.v2ex.com/t/831590) 
 - [2022-02-01-4-款路由器为什么最贵的一款路由器测速最慢？](https://www.v2ex.com/t/831577) 
+- [2022-02-01-公司这套架构统一处理try...catch，很牛逼！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14903&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493176%26amp%3Bidx%3D2%26amp%3Bsn%3D98ffd0ca1663318ac2b071210d422ade%26amp%3Bchksm%3Dfa3f0763cd488e75d3f771749cf8c542bc4a956a70c6a9b5d081ba654d919b72207bee03e9a5%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

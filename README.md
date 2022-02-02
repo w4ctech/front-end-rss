@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-02 14:39:36，:rocket: 更新条数: +1840， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-02 14:55:15，:rocket: 更新条数: +1841， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,11 @@
 </summary>
 
 
+- [2022-02-02-最近讨论键盘输入法挺多的，我想推荐一下手机输入法里的-14-键](https://www.v2ex.com/t/831710) ![](assets/new.png)  
+- [2022-02-02-中国电信出国使用-CN2-专属-DNS](https://www.v2ex.com/t/831709) ![](assets/new.png)  
+- [2022-02-02-Terminal-如何管理多个带密钥的-ssh-会话以方便连接](https://www.v2ex.com/t/831708) ![](assets/new.png)  
+- [2022-02-02-怎么系统学习下模板，求推荐书籍，博客](https://www.v2ex.com/t/831707) ![](assets/new.png)  
+- [2022-02-02-被提醒领-B-币有感，还有哪些定时需要提醒的](https://www.v2ex.com/t/831706) ![](assets/new.png)  
 - [2022-02-02-如何将一个在美国的-500G-的文件传输到国内？](https://www.v2ex.com/t/831705) ![](assets/new.png)  
 - [2022-02-02-iPad-错用-mac-的线充了一下电，然后正常充就充不进去电了](https://www.v2ex.com/t/831704) ![](assets/new.png)  
 - [2022-02-02-请问一下各位有没有男士控油的洗面奶推荐](https://www.v2ex.com/t/831703) ![](assets/new.png)  
@@ -506,11 +511,6 @@
 - [2022-02-02-元宇宙都要来了，为什么讨论区块链、以太坊的不多呢？](https://www.v2ex.com/t/831691) ![](assets/new.png)  
 - [2022-02-02-安装-win11&-Linux-双系统，在-Linux-分区时不太对劲，请帮忙看看](https://www.v2ex.com/t/831690) ![](assets/new.png)  
 - [2022-02-02-termius-终端滚动栏消失,如何翻页滚动查看历史日志?-谢谢大家](https://www.v2ex.com/t/831689) ![](assets/new.png)  
-- [2022-02-02-天猫这是准备倒闭了吗？还是就我这样](https://www.v2ex.com/t/831688) ![](assets/new.png)  
-- [2022-02-02-有老哥拔过火罐没?什么感觉?啥功效?](https://www.v2ex.com/t/831687) ![](assets/new.png)  
-- [2022-02-02-开源一个小项目：-eBooks-Assistant（豆瓣读书助手）](https://www.v2ex.com/t/831686) ![](assets/new.png)  
-- [2022-02-02-CCTV-8K,-iptv-源](https://www.v2ex.com/t/831685) ![](assets/new.png)  
-- [2022-02-02-27-寸-4K-接-Mac-显示效果到底怎么样呢？](https://www.v2ex.com/t/831684) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -563,13 +563,13 @@
 - [2022-02-02-一文读懂-Pytorch-中的-Tensor-View-机制](https://toutiao.io/k/7m0iqtp) ![](assets/new.png)  
 - [2022-02-02-优化.NET-应用程序-CPU-和内存的11-个实践](https://toutiao.io/k/8iocbd3) ![](assets/new.png)  
 - [2022-02-02-python中的元类](https://toutiao.io/k/t6jegz6) ![](assets/new.png)  
-- [2022-02-02-推荐-面试官问：设计高并发系统的时候，数据库层面该如何设计？](https://toutiao.io/k/p935kqr) ![](assets/new.png)  
-- [2022-02-02-推荐-字节的分布式链路追踪实践，教科书式的搭建指南](https://toutiao.io/k/t6j66db) ![](assets/new.png)  
 - [2022-02-02-推荐-技术干货｜缓存一致性最佳实践](https://toutiao.io/k/zgmi04u) ![](assets/new.png)  
+- [2022-02-02-推荐-优惠券系统架构设计与实践](https://toutiao.io/k/q6yzp5j) ![](assets/new.png)  
+- [2022-02-02-推荐-字节的分布式链路追踪实践，教科书式的搭建指南](https://toutiao.io/k/t6j66db) ![](assets/new.png)  
+- [2022-02-02-推荐-面试官问：设计高并发系统的时候，数据库层面该如何设计？](https://toutiao.io/k/p935kqr) ![](assets/new.png)  
+- [2022-02-02-推荐-Redis-很屌，不懂使用规范就糟蹋了](https://toutiao.io/k/lpnakbk) ![](assets/new.png)  
 - [2022-02-02-推荐-优雅整洁的-Java-代码命名技巧，风之极·净化](https://toutiao.io/k/abc8vou) ![](assets/new.png)  
 - [2022-02-02-推荐-面试官问:-如何设计一个高并发系统?](https://toutiao.io/k/7hrrplb) ![](assets/new.png)  
-- [2022-02-02-推荐-Redis-很屌，不懂使用规范就糟蹋了](https://toutiao.io/k/lpnakbk) ![](assets/new.png)  
-- [2022-02-02-推荐-优惠券系统架构设计与实践](https://toutiao.io/k/q6yzp5j) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

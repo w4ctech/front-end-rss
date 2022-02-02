@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2022-02-02 10:23:04。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-02 10:39:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-02-02-27-寸-4K-接-Mac-显示效果到底怎么样呢？](https://www.v2ex.com/t/831684) 
 - [2022-02-02-github-项目购买关注？](https://www.v2ex.com/t/831682) 
 - [2022-02-02-MacBook-Pro-2018-款使用了-3-年多：期间-3-次维修，目前主板损坏](https://www.v2ex.com/t/831679) 
 - [2022-02-02-如果买三十万以内的国产新能源](https://www.v2ex.com/t/831677) 
@@ -42,5 +43,3 @@
 - [2022-02-02-还是从全键盘用回了九宫格](https://www.v2ex.com/t/831638) 
 - [2022-02-02-火狐开发工具里边，溢出，是什么鬼，影响-seo-吗？](https://www.v2ex.com/t/831637) 
 - [2022-02-01-MacBook-也会降频吗？](https://www.v2ex.com/t/831635) 
-- [2022-02-01-有没有感觉最近-iPhone-13Pro-变热了？](https://www.v2ex.com/t/831634) 
-- [2022-02-01-Proxmox-+-OVH-Failover-IP-没有什么好的自动化处理方案么？](https://www.v2ex.com/t/831633) 

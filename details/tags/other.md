@@ -1,15 +1,15 @@
-:alarm_clock: 更新时间: 2022-02-02 08:44:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-02 08:56:29。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
 
 
 
-- [2022-02-02-2月1日全国新增新冠63例-五省份本土36例](https://m.caixin.com/m/2022-02-02/101837238.html) 
+- [2022-02-02-最新疫情：全国新冠累计确诊106202例-累计接种新冠疫苗超30亿剂次](https://m.caixin.com/m/2022-02-02/101837299.html) 
 - [2022-02-02-广东再现本土奥密克戎-五市共报告病例11个](https://m.caixin.com/m/2022-02-02/101837218.html) 
+- [2022-02-02-最新海外疫情：新冠感染近3.81亿-累计接种新冠疫苗超100.85亿剂次](https://m.caixin.com/m/2022-02-02/101837304.html) 
 - [2022-02-02-美国FDA批准第二款mRNA疫苗-挪威取消大部分限制措施｜大流行手记（2月1日）](https://m.caixin.com/m/2022-02-02/101837258.html) 
 - [2022-02-01-聚焦｜张文宏：未来抗疫，是努力夺回正常生活的过程](https://opinion.caixin.com/m/2022-02-01/101837206.html) 
-- [2022-02-01-最新海外疫情：新冠感染超3.77亿-累计接种新冠疫苗超100.65亿剂次](https://m.caixin.com/m/2022-02-01/101837153.html) 
 - [2022-02-01-【境内疫情观察】全国累计接种新冠疫苗逾30亿剂次（1月31日）](https://database.caixin.com/m/2022-02-01/101837162.html) 
 - [2022-02-01-德国未实现接种目标-奥地利强制接种疫苗法律生效｜大流行手记（1月31日）](https://m.caixin.com/m/2022-02-01/101837106.html) 
 - [2022-01-31-【境内疫情观察】浙江新增24例本土病例（1月30日）](https://database.caixin.com/m/2022-01-31/101837030.html) 
@@ -1731,6 +1731,7 @@
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2021-11-14-密码强度效果最佳实现一定是HTML-meter元素](https://www.zhangxinxu.com/wordpress/2021/11/html-meter-password/) 
 - [2021-11-02-见多识广，介绍Web开发中current开头的一些API属性](https://www.zhangxinxu.com/wordpress/2021/11/currentscript-currenttarget-currentsrc/) 
+- [2022-02-02-计算机杀毒软件](https://www.v2ex.com/t/831672) 
 - [2022-02-02-Apple-店购买的-LG-Ultrafine-4K-连接有问题，屏幕无法自动点亮](https://www.v2ex.com/t/831671) 
 - [2022-02-02-日本市场上的品牌电视为什么比国内贵这么多](https://www.v2ex.com/t/831670) 
 - [2022-02-02-出售-2019-iMac-27-5K-AC+-在保](https://www.v2ex.com/t/831669) 
@@ -1761,7 +1762,6 @@
 - [2022-02-01-Python-Type-返回值类型](https://www.v2ex.com/t/831630) 
 - [2022-02-01-北京联通千兆如何正确测速](https://www.v2ex.com/t/831627) 
 - [2022-02-01-走亲戚巨痛苦的情况](https://www.v2ex.com/t/831623) 
-- [2022-02-01-一些关于-2022-上半年的大致粗略计划：出去玩一圈](https://www.v2ex.com/t/831622) 
 - [2022-02-02-优质网站同好者周刊（第-050-期）-blog.nicelinks.site](https://blogread.cn/news/go.php?idItem=14918&url=https%3A%2F%2Fblog.nicelinks.site%2Fweekly-050%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-02-02-漫谈金丝雀部署-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14917&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fcanary-deployment%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-02-02-大公司病，太TM形象了！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14915&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493202%26amp%3Bidx%3D1%26amp%3Bsn%3De08d82d00cbbf2c8e79f3c18167cf3a7%26amp%3Bchksm%3Dfa3f0709cd488e1f1aef1ff3977c30095179293a65fef2658c28e6ea8af2d5cf243d3fd432e6%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1783,7 +1783,7 @@
 - [2022-02-02-sqlite3.36版本-btree实现（零）--起步及概述](https://toutiao.io/k/mbbbpdu) 
 - [2022-02-02-IO回忆录之怎样过目不忘BIO/NIO/AIO/Netty](https://toutiao.io/k/lvenyjo) 
 - [2022-02-02-python中的元类](https://toutiao.io/k/t6jegz6) 
-- [2022-02-02-推荐-Redis-很屌，不懂使用规范就糟蹋了](https://toutiao.io/k/lpnakbk) 
-- [2022-02-02-推荐-优惠券系统架构设计与实践](https://toutiao.io/k/q6yzp5j) 
 - [2022-02-02-推荐-优雅整洁的-Java-代码命名技巧，风之极·净化](https://toutiao.io/k/abc8vou) 
 - [2022-02-02-推荐-字节的分布式链路追踪实践，教科书式的搭建指南](https://toutiao.io/k/t6j66db) 
+- [2022-02-02-推荐-优惠券系统架构设计与实践](https://toutiao.io/k/q6yzp5j) 
+- [2022-02-02-推荐-Redis-很屌，不懂使用规范就糟蹋了](https://toutiao.io/k/lpnakbk) 

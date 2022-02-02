@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-02 08:44:25，:rocket: 更新条数: +1838， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-02 08:56:29，:rocket: 更新条数: +1838， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -65,11 +65,11 @@
 </summary>
 
 
-- [2022-02-02-2月1日全国新增新冠63例-五省份本土36例](https://m.caixin.com/m/2022-02-02/101837238.html) ![](assets/new.png)  
+- [2022-02-02-最新疫情：全国新冠累计确诊106202例-累计接种新冠疫苗超30亿剂次](https://m.caixin.com/m/2022-02-02/101837299.html) ![](assets/new.png)  
 - [2022-02-02-广东再现本土奥密克戎-五市共报告病例11个](https://m.caixin.com/m/2022-02-02/101837218.html) ![](assets/new.png)  
+- [2022-02-02-最新海外疫情：新冠感染近3.81亿-累计接种新冠疫苗超100.85亿剂次](https://m.caixin.com/m/2022-02-02/101837304.html) ![](assets/new.png)  
 - [2022-02-02-美国FDA批准第二款mRNA疫苗-挪威取消大部分限制措施｜大流行手记（2月1日）](https://m.caixin.com/m/2022-02-02/101837258.html) ![](assets/new.png)  
 - [2022-02-01-聚焦｜张文宏：未来抗疫，是努力夺回正常生活的过程](https://opinion.caixin.com/m/2022-02-01/101837206.html) ![](assets/new.png)  
-- [2022-02-01-最新海外疫情：新冠感染超3.77亿-累计接种新冠疫苗超100.65亿剂次](https://m.caixin.com/m/2022-02-01/101837153.html) ![](assets/new.png)  
 - [2022-02-01-【境内疫情观察】全国累计接种新冠疫苗逾30亿剂次（1月31日）](https://database.caixin.com/m/2022-02-01/101837162.html) ![](assets/new.png)  
 - [2022-02-01-德国未实现接种目标-奥地利强制接种疫苗法律生效｜大流行手记（1月31日）](https://m.caixin.com/m/2022-02-01/101837106.html) ![](assets/new.png)  
 - [2022-01-31-【境内疫情观察】浙江新增24例本土病例（1月30日）](https://database.caixin.com/m/2022-01-31/101837030.html) ![](assets/new.png)  
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-02-02-计算机杀毒软件](https://www.v2ex.com/t/831672) ![](assets/new.png)  
 - [2022-02-02-Apple-店购买的-LG-Ultrafine-4K-连接有问题，屏幕无法自动点亮](https://www.v2ex.com/t/831671) ![](assets/new.png)  
 - [2022-02-02-日本市场上的品牌电视为什么比国内贵这么多](https://www.v2ex.com/t/831670) ![](assets/new.png)  
 - [2022-02-02-出售-2019-iMac-27-5K-AC+-在保](https://www.v2ex.com/t/831669) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-02-02-Django-admin-当中动态显示外键的相关属性](https://www.v2ex.com/t/831650) ![](assets/new.png)  
 - [2022-02-02-广东联通申请公网-ip-的神奇经历](https://www.v2ex.com/t/831649) ![](assets/new.png)  
 - [2022-02-02-升级完-12.2-后-clash-就无法使用了](https://www.v2ex.com/t/831648) ![](assets/new.png)  
-- [2022-02-02-要开始接触-3D-软件了](https://www.v2ex.com/t/831647) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -563,13 +563,13 @@
 - [2022-02-02-优化.NET-应用程序-CPU-和内存的11-个实践](https://toutiao.io/k/8iocbd3) ![](assets/new.png)  
 - [2022-02-02-IO回忆录之怎样过目不忘BIO/NIO/AIO/Netty](https://toutiao.io/k/lvenyjo) ![](assets/new.png)  
 - [2022-02-02-python中的元类](https://toutiao.io/k/t6jegz6) ![](assets/new.png)  
-- [2022-02-02-推荐-Redis-很屌，不懂使用规范就糟蹋了](https://toutiao.io/k/lpnakbk) ![](assets/new.png)  
-- [2022-02-02-推荐-优惠券系统架构设计与实践](https://toutiao.io/k/q6yzp5j) ![](assets/new.png)  
-- [2022-02-02-推荐-优雅整洁的-Java-代码命名技巧，风之极·净化](https://toutiao.io/k/abc8vou) ![](assets/new.png)  
 - [2022-02-02-推荐-技术干货｜缓存一致性最佳实践](https://toutiao.io/k/zgmi04u) ![](assets/new.png)  
+- [2022-02-02-推荐-优雅整洁的-Java-代码命名技巧，风之极·净化](https://toutiao.io/k/abc8vou) ![](assets/new.png)  
 - [2022-02-02-推荐-面试官问:-如何设计一个高并发系统?](https://toutiao.io/k/7hrrplb) ![](assets/new.png)  
 - [2022-02-02-推荐-字节的分布式链路追踪实践，教科书式的搭建指南](https://toutiao.io/k/t6j66db) ![](assets/new.png)  
 - [2022-02-02-推荐-面试官问：设计高并发系统的时候，数据库层面该如何设计？](https://toutiao.io/k/p935kqr) ![](assets/new.png)  
+- [2022-02-02-推荐-优惠券系统架构设计与实践](https://toutiao.io/k/q6yzp5j) ![](assets/new.png)  
+- [2022-02-02-推荐-Redis-很屌，不懂使用规范就糟蹋了](https://toutiao.io/k/lpnakbk) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -11,11 +11,11 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-02 20:13:26，:rocket: 更新条数: +91， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-02 20:22:09，:rocket: 更新条数: +1844， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
@@ -65,6 +65,26 @@
 </summary>
 
 
+- [2022-02-02-最新疫情：全国新冠累计确诊106202例-累计接种新冠疫苗超30亿剂次](https://m.caixin.com/m/2022-02-02/101837299.html) ![](assets/new.png)  
+- [2022-02-02-广东再现本土奥密克戎-五市共报告病例11个](https://m.caixin.com/m/2022-02-02/101837218.html) ![](assets/new.png)  
+- [2022-02-02-最新海外疫情：新冠感染近3.81亿-累计接种新冠疫苗超100.85亿剂次](https://m.caixin.com/m/2022-02-02/101837304.html) ![](assets/new.png)  
+- [2022-02-02-【境内疫情观察】全国新增36例本土病例（2月1日）](https://database.caixin.com/m/2022-02-02/101837319.html) ![](assets/new.png)  
+- [2022-02-02-美国FDA批准第二款mRNA疫苗-挪威取消大部分限制措施｜大流行手记（2月1日）](https://m.caixin.com/m/2022-02-02/101837258.html) ![](assets/new.png)  
+- [2022-02-01-聚焦｜张文宏：未来抗疫，是努力夺回正常生活的过程](https://opinion.caixin.com/m/2022-02-01/101837206.html) ![](assets/new.png)  
+- [2022-02-01-【境内疫情观察】全国累计接种新冠疫苗逾30亿剂次（1月31日）](https://database.caixin.com/m/2022-02-01/101837162.html) ![](assets/new.png)  
+- [2022-02-01-德国未实现接种目标-奥地利强制接种疫苗法律生效｜大流行手记（1月31日）](https://m.caixin.com/m/2022-02-01/101837106.html) ![](assets/new.png)  
+- [2022-01-31-【境内疫情观察】浙江新增24例本土病例（1月30日）](https://database.caixin.com/m/2022-01-31/101837030.html) ![](assets/new.png)  
+- [2022-01-31-冬奥会入境高峰已至，奥密克戎“隐形”亚变体引关注｜大流行手记（1月30日）](https://m.caixin.com/m/2022-01-31/101837011.html) ![](assets/new.png)  
+- [2022-01-30-北京本土感染者累计破百-新增3个高风险地区](https://m.caixin.com/m/2022-01-30/101836905.html) ![](assets/new.png)  
+- [2022-01-30-北京：关于对冷链传播疫情问题相关单位和人员追责问责情况的通报](https://china.caixin.com/m/2022-01-30/101836927.html) ![](assets/new.png)  
+- [2022-01-30-【境内疫情观察】全国新增54例本土病例（1月29日）](https://database.caixin.com/m/2022-01-30/101836868.html) ![](assets/new.png)  
+- [2022-01-30-英格兰为5-11岁高风险儿童接种疫苗-俄罗斯日增10万例｜大流行手记（1月29日）](https://m.caixin.com/m/2022-01-30/101836760.html) ![](assets/new.png)  
+- [2022-01-30-研发方回应首款国产新冠mRNA疫苗发热问题：与限制用药有关](https://m.caixin.com/m/2022-01-30/101836836.html) ![](assets/new.png)  
+- [2022-01-29-国务院强调不得随意禁止外地群众返乡过年](https://m.caixin.com/m/2022-01-29/101836501.html) ![](assets/new.png)  
+- [2022-01-29-北京新增12例本土新冠确诊病例-涉及丰台、大兴、朝阳](https://m.caixin.com/m/2022-01-29/101836535.html) ![](assets/new.png)  
+- [2022-01-29-【境内疫情观察】全国新增37例本土病例（1月28日）](https://database.caixin.com/m/2022-01-29/101836489.html) ![](assets/new.png)  
+- [2022-01-29-科学家联名呼吁英国支持COVID专利豁免-加拿大感染高峰将过｜大流行手记（1月28日）](https://m.caixin.com/m/2022-01-29/101836375.html) ![](assets/new.png)  
+- [2022-01-29-研究：新冠疫苗加强针“混打”保护效果优于同源接种](https://m.caixin.com/m/2022-01-29/101836549.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -543,12 +563,12 @@
 - [2022-02-02-一文读懂-Pytorch-中的-Tensor-View-机制](https://toutiao.io/k/7m0iqtp) ![](assets/new.png)  
 - [2022-02-02-优化.NET-应用程序-CPU-和内存的11-个实践](https://toutiao.io/k/8iocbd3) ![](assets/new.png)  
 - [2022-02-02-python中的元类](https://toutiao.io/k/t6jegz6) ![](assets/new.png)  
-- [2022-02-02-推荐-Redis-很屌，不懂使用规范就糟蹋了](https://toutiao.io/k/lpnakbk) ![](assets/new.png)  
-- [2022-02-02-推荐-优惠券系统架构设计与实践](https://toutiao.io/k/q6yzp5j) ![](assets/new.png)  
-- [2022-02-02-推荐-面试官问:-如何设计一个高并发系统?](https://toutiao.io/k/7hrrplb) ![](assets/new.png)  
-- [2022-02-02-推荐-技术干货｜缓存一致性最佳实践](https://toutiao.io/k/zgmi04u) ![](assets/new.png)  
 - [2022-02-02-推荐-字节的分布式链路追踪实践，教科书式的搭建指南](https://toutiao.io/k/t6j66db) ![](assets/new.png)  
 - [2022-02-02-推荐-面试官问：设计高并发系统的时候，数据库层面该如何设计？](https://toutiao.io/k/p935kqr) ![](assets/new.png)  
+- [2022-02-02-推荐-技术干货｜缓存一致性最佳实践](https://toutiao.io/k/zgmi04u) ![](assets/new.png)  
+- [2022-02-02-推荐-优惠券系统架构设计与实践](https://toutiao.io/k/q6yzp5j) ![](assets/new.png)  
+- [2022-02-02-推荐-Redis-很屌，不懂使用规范就糟蹋了](https://toutiao.io/k/lpnakbk) ![](assets/new.png)  
+- [2022-02-02-推荐-面试官问:-如何设计一个高并发系统?](https://toutiao.io/k/7hrrplb) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

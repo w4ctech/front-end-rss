@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2022-02-02 05:54:35。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-02 06:14:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-02-02-2022-年了，-win10-外接显示器无法休眠](https://www.v2ex.com/t/831659) 
 - [2022-02-02-给博客网站加了一个类似微信读书分享书签的功能](https://www.v2ex.com/t/831658) 
 - [2022-02-02-在不更改“系统偏好设置”情况下，-Safari-如何设置-socks-代理？](https://www.v2ex.com/t/831657) 
 - [2022-02-02-win11-下的-chrome-各种闪退，请问下你们的也这样吗？](https://www.v2ex.com/t/831656) 
@@ -43,5 +44,3 @@
 - [2022-02-01-新年新家：从-Google-Blogger-到-Hugo：-2.-不够优雅的-Hugo-体验](https://www.v2ex.com/t/831615) 
 - [2022-02-01-做了个《水印相机》APP，欢迎大家体验，反馈](https://www.v2ex.com/t/831614) 
 - [2022-02-01-今年的春节档电影你打算看嘛？看哪部？](https://www.v2ex.com/t/831612) 
-- [2022-02-01-做笔记和公司文档，你会用语雀吗](https://www.v2ex.com/t/831611) 
-- [2022-02-01-Mac-webstrom-闪退](https://www.v2ex.com/t/831609) 

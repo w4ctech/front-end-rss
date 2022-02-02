@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2022-02-02 08:56:29。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-02 09:12:18。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-02-02-pcie-转-sata-识别不了-求助](https://www.v2ex.com/t/831674) 
+- [2022-02-02-阿里云注册的-.fun-域名转到-Namecheap-一直失败](https://www.v2ex.com/t/831673) 
 - [2022-02-02-计算机杀毒软件](https://www.v2ex.com/t/831672) 
 - [2022-02-02-Apple-店购买的-LG-Ultrafine-4K-连接有问题，屏幕无法自动点亮](https://www.v2ex.com/t/831671) 
 - [2022-02-02-日本市场上的品牌电视为什么比国内贵这么多](https://www.v2ex.com/t/831670) 
@@ -42,5 +44,3 @@
 - [2022-02-01-Python-Type-返回值类型](https://www.v2ex.com/t/831630) 
 - [2022-02-01-北京联通千兆如何正确测速](https://www.v2ex.com/t/831627) 
 - [2022-02-01-Netflix-在-iOS+小火箭下一切正常，但在-LG-电视+软路由+passwall-下十分慢](https://www.v2ex.com/t/831626) 
-- [2022-02-01-有两条老版抖音口令似乎失效了，哪位大大能帮忙找到原视频链接](https://www.v2ex.com/t/831624) 
-- [2022-02-01-走亲戚巨痛苦的情况](https://www.v2ex.com/t/831623) 

@@ -9427,6 +9427,11 @@
         "date": "2022-02-02"
       },
       {
+        "title": "[推荐] 技术干货｜缓存一致性最佳实践",
+        "link": "https://toutiao.io/k/zgmi04u",
+        "date": "2022-02-02"
+      },
+      {
         "title": "[推荐] Redis 很屌，不懂使用规范就糟蹋了",
         "link": "https://toutiao.io/k/lpnakbk",
         "date": "2022-02-02"
@@ -9442,18 +9447,13 @@
         "date": "2022-02-02"
       },
       {
-        "title": "[推荐] 面试官问：设计高并发系统的时候，数据库层面该如何设计？",
-        "link": "https://toutiao.io/k/p935kqr",
-        "date": "2022-02-02"
-      },
-      {
-        "title": "[推荐] 技术干货｜缓存一致性最佳实践",
-        "link": "https://toutiao.io/k/zgmi04u",
-        "date": "2022-02-02"
-      },
-      {
         "title": "[推荐] 优惠券系统架构设计与实践",
         "link": "https://toutiao.io/k/q6yzp5j",
+        "date": "2022-02-02"
+      },
+      {
+        "title": "[推荐] 面试官问：设计高并发系统的时候，数据库层面该如何设计？",
+        "link": "https://toutiao.io/k/p935kqr",
         "date": "2022-02-02"
       }
     ]

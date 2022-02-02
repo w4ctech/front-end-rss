@@ -9038,6 +9038,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "[全职长期远程岗位] Blockchain 开发工程师 50K/月，大牛另议",
+        "link": "https://www.v2ex.com/t/831725",
+        "date": "2022-02-02"
+      },
+      {
         "title": "如何协调 Flask 和其他不间断运行的 Background 程序？",
         "link": "https://www.v2ex.com/t/831723",
         "date": "2022-02-02"
@@ -9241,11 +9246,6 @@
         "title": "如果买三十万以内的国产新能源",
         "link": "https://www.v2ex.com/t/831677",
         "date": "2022-02-02"
-      },
-      {
-        "title": "寻找南京前端 Vue 小程序项目开发",
-        "link": "https://www.v2ex.com/t/831675",
-        "date": "2022-02-02"
       }
     ]
   },
@@ -9417,13 +9417,18 @@
         "date": "2022-02-02"
       },
       {
-        "title": "[推荐] 技术干货｜缓存一致性最佳实践",
-        "link": "https://toutiao.io/k/zgmi04u",
+        "title": "[推荐] Redis 很屌，不懂使用规范就糟蹋了",
+        "link": "https://toutiao.io/k/lpnakbk",
         "date": "2022-02-02"
       },
       {
-        "title": "[推荐] 面试官问: 如何设计一个高并发系统?",
-        "link": "https://toutiao.io/k/7hrrplb",
+        "title": "[推荐] 面试官问：设计高并发系统的时候，数据库层面该如何设计？",
+        "link": "https://toutiao.io/k/p935kqr",
+        "date": "2022-02-02"
+      },
+      {
+        "title": "[推荐] 技术干货｜缓存一致性最佳实践",
+        "link": "https://toutiao.io/k/zgmi04u",
         "date": "2022-02-02"
       },
       {
@@ -9432,13 +9437,8 @@
         "date": "2022-02-02"
       },
       {
-        "title": "[推荐] Redis 很屌，不懂使用规范就糟蹋了",
-        "link": "https://toutiao.io/k/lpnakbk",
-        "date": "2022-02-02"
-      },
-      {
-        "title": "[推荐] 面试官问：设计高并发系统的时候，数据库层面该如何设计？",
-        "link": "https://toutiao.io/k/p935kqr",
+        "title": "[推荐] 面试官问: 如何设计一个高并发系统?",
+        "link": "https://toutiao.io/k/7hrrplb",
         "date": "2022-02-02"
       }
     ]

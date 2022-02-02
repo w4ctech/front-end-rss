@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-02 18:58:03，:rocket: 更新条数: +1843， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-02 19:11:27，:rocket: 更新条数: +1844， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-02-02-有没有办法让-quick-look-完美支持-MS-Office](https://www.v2ex.com/t/831730) ![](assets/new.png)  
 - [2022-02-02-官网发货好慢](https://www.v2ex.com/t/831729) ![](assets/new.png)  
 - [2022-02-02-为啥我的多个机场都不能用了？](https://www.v2ex.com/t/831728) ![](assets/new.png)  
 - [2022-02-02-求问搜狗拼音输入法有什么方法获取到当前的输入状态是中文还是英文呢](https://www.v2ex.com/t/831727) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-02-02-2020-Intel-MBP13-格盘重装是选择-Catalina-还是-Monterey？](https://www.v2ex.com/t/831712) ![](assets/new.png)  
 - [2022-02-02-关于流浪猫](https://www.v2ex.com/t/831711) ![](assets/new.png)  
 - [2022-02-02-最近讨论键盘输入法挺多的，我想推荐一下手机输入法里的-14-键](https://www.v2ex.com/t/831710) ![](assets/new.png)  
-- [2022-02-02-中国电信出国使用-CN2-专属-DNS](https://www.v2ex.com/t/831709) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -563,12 +563,12 @@
 - [2022-02-02-一文读懂-Pytorch-中的-Tensor-View-机制](https://toutiao.io/k/7m0iqtp) ![](assets/new.png)  
 - [2022-02-02-优化.NET-应用程序-CPU-和内存的11-个实践](https://toutiao.io/k/8iocbd3) ![](assets/new.png)  
 - [2022-02-02-python中的元类](https://toutiao.io/k/t6jegz6) ![](assets/new.png)  
-- [2022-02-02-推荐-优惠券系统架构设计与实践](https://toutiao.io/k/q6yzp5j) ![](assets/new.png)  
-- [2022-02-02-推荐-面试官问：设计高并发系统的时候，数据库层面该如何设计？](https://toutiao.io/k/p935kqr) ![](assets/new.png)  
-- [2022-02-02-推荐-技术干货｜缓存一致性最佳实践](https://toutiao.io/k/zgmi04u) ![](assets/new.png)  
-- [2022-02-02-推荐-面试官问:-如何设计一个高并发系统?](https://toutiao.io/k/7hrrplb) ![](assets/new.png)  
 - [2022-02-02-推荐-字节的分布式链路追踪实践，教科书式的搭建指南](https://toutiao.io/k/t6j66db) ![](assets/new.png)  
 - [2022-02-02-推荐-Redis-很屌，不懂使用规范就糟蹋了](https://toutiao.io/k/lpnakbk) ![](assets/new.png)  
+- [2022-02-02-推荐-面试官问：设计高并发系统的时候，数据库层面该如何设计？](https://toutiao.io/k/p935kqr) ![](assets/new.png)  
+- [2022-02-02-推荐-优惠券系统架构设计与实践](https://toutiao.io/k/q6yzp5j) ![](assets/new.png)  
+- [2022-02-02-推荐-技术干货｜缓存一致性最佳实践](https://toutiao.io/k/zgmi04u) ![](assets/new.png)  
+- [2022-02-02-推荐-面试官问:-如何设计一个高并发系统?](https://toutiao.io/k/7hrrplb) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

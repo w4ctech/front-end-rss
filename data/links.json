@@ -9033,6 +9033,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "年费大会员记得月初领取 5 个 B 币",
+        "link": "https://www.v2ex.com/t/831644",
+        "date": "2022-02-02"
+      },
+      {
         "title": "请教将群晖的照片上传到 google 相册比较好的途径",
         "link": "https://www.v2ex.com/t/831643",
         "date": "2022-02-02"
@@ -9216,11 +9221,6 @@
         "title": "单点登录（SSO）",
         "link": "https://www.v2ex.com/t/831596",
         "date": "2022-02-01"
-      },
-      {
-        "title": "小米电视 2 坏了，官方售后说是更换主板 700 多，加上上门和检测费用 120，有点不值当了，怎么修合适？",
-        "link": "https://www.v2ex.com/t/831594",
-        "date": "2022-02-01"
       }
     ]
   },
@@ -9377,13 +9377,23 @@
         "date": "2022-02-02"
       },
       {
-        "title": "[推荐] Redis 很屌，不懂使用规范就糟蹋了",
-        "link": "https://toutiao.io/k/lpnakbk",
+        "title": "[推荐] 优雅整洁的 Java 代码命名技巧，风之极·净化",
+        "link": "https://toutiao.io/k/abc8vou",
         "date": "2022-02-02"
       },
       {
-        "title": "[推荐] 优雅整洁的 Java 代码命名技巧，风之极·净化",
-        "link": "https://toutiao.io/k/abc8vou",
+        "title": "[推荐] 面试官问：设计高并发系统的时候，数据库层面该如何设计？",
+        "link": "https://toutiao.io/k/p935kqr",
+        "date": "2022-02-02"
+      },
+      {
+        "title": "[推荐] 技术干货｜缓存一致性最佳实践",
+        "link": "https://toutiao.io/k/zgmi04u",
+        "date": "2022-02-02"
+      },
+      {
+        "title": "[推荐] Redis 很屌，不懂使用规范就糟蹋了",
+        "link": "https://toutiao.io/k/lpnakbk",
         "date": "2022-02-02"
       },
       {
@@ -9397,18 +9407,8 @@
         "date": "2022-02-02"
       },
       {
-        "title": "[推荐] 面试官问：设计高并发系统的时候，数据库层面该如何设计？",
-        "link": "https://toutiao.io/k/p935kqr",
-        "date": "2022-02-02"
-      },
-      {
         "title": "[推荐] 面试官问: 如何设计一个高并发系统?",
         "link": "https://toutiao.io/k/7hrrplb",
-        "date": "2022-02-02"
-      },
-      {
-        "title": "[推荐] 技术干货｜缓存一致性最佳实践",
-        "link": "https://toutiao.io/k/zgmi04u",
         "date": "2022-02-02"
       }
     ]

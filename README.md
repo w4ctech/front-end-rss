@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-02 12:32:25，:rocket: 更新条数: +1840， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-02 12:54:11，:rocket: 更新条数: +1840， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-02-02-有没有啥难吃的米（主食），可以限制自己的饭量（不要陈年米），平时饭量较大，有没有啥口味偏差、得难以下咽的米可以推荐，饭难吃就能少吃点。](https://www.v2ex.com/t/831695) ![](assets/new.png)  
+- [2022-02-02-拓展-Alfred-的快捷键](https://www.v2ex.com/t/831694) ![](assets/new.png)  
 - [2022-02-02-区块链点评网站-web3.0](https://www.v2ex.com/t/831693) ![](assets/new.png)  
 - [2022-02-02-为何谷歌商店没有付费的-app？](https://www.v2ex.com/t/831692) ![](assets/new.png)  
 - [2022-02-02-元宇宙都要来了，为什么讨论区块链、以太坊的不多呢？](https://www.v2ex.com/t/831691) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-02-02-阿里云注册的-.fun-域名转到-Namecheap-一直失败](https://www.v2ex.com/t/831673) ![](assets/new.png)  
 - [2022-02-02-计算机杀毒软件](https://www.v2ex.com/t/831672) ![](assets/new.png)  
 - [2022-02-02-Apple-店购买的-LG-Ultrafine-4K-连接有问题，屏幕无法自动点亮](https://www.v2ex.com/t/831671) ![](assets/new.png)  
-- [2022-02-02-日本市场上的品牌电视为什么比国内贵这么多](https://www.v2ex.com/t/831670) ![](assets/new.png)  
-- [2022-02-02-出售-2019-iMac-27-5K-AC+-在保](https://www.v2ex.com/t/831669) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -563,12 +563,12 @@
 - [2022-02-02-一文读懂-Pytorch-中的-Tensor-View-机制](https://toutiao.io/k/7m0iqtp) ![](assets/new.png)  
 - [2022-02-02-优化.NET-应用程序-CPU-和内存的11-个实践](https://toutiao.io/k/8iocbd3) ![](assets/new.png)  
 - [2022-02-02-python中的元类](https://toutiao.io/k/t6jegz6) ![](assets/new.png)  
-- [2022-02-02-推荐-Redis-很屌，不懂使用规范就糟蹋了](https://toutiao.io/k/lpnakbk) ![](assets/new.png)  
-- [2022-02-02-推荐-优惠券系统架构设计与实践](https://toutiao.io/k/q6yzp5j) ![](assets/new.png)  
 - [2022-02-02-推荐-字节的分布式链路追踪实践，教科书式的搭建指南](https://toutiao.io/k/t6j66db) ![](assets/new.png)  
+- [2022-02-02-推荐-Redis-很屌，不懂使用规范就糟蹋了](https://toutiao.io/k/lpnakbk) ![](assets/new.png)  
 - [2022-02-02-推荐-技术干货｜缓存一致性最佳实践](https://toutiao.io/k/zgmi04u) ![](assets/new.png)  
 - [2022-02-02-推荐-优雅整洁的-Java-代码命名技巧，风之极·净化](https://toutiao.io/k/abc8vou) ![](assets/new.png)  
 - [2022-02-02-推荐-面试官问:-如何设计一个高并发系统?](https://toutiao.io/k/7hrrplb) ![](assets/new.png)  
+- [2022-02-02-推荐-优惠券系统架构设计与实践](https://toutiao.io/k/q6yzp5j) ![](assets/new.png)  
 - [2022-02-02-推荐-面试官问：设计高并发系统的时候，数据库层面该如何设计？](https://toutiao.io/k/p935kqr) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

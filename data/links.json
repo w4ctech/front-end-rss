@@ -9033,6 +9033,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "又是谁做的 seo 站出来恶心人",
+        "link": "https://www.v2ex.com/t/831664",
+        "date": "2022-02-02"
+      },
+      {
         "title": "上市与裁员",
         "link": "https://www.v2ex.com/t/831663",
         "date": "2022-02-02"
@@ -9226,11 +9231,6 @@
         "title": "新年新家：从 Google Blogger 到 Hugo： 2. 不够优雅的 Hugo 体验",
         "link": "https://www.v2ex.com/t/831615",
         "date": "2022-02-01"
-      },
-      {
-        "title": "做了个《水印相机》APP，欢迎大家体验，反馈",
-        "link": "https://www.v2ex.com/t/831614",
-        "date": "2022-02-01"
       }
     ]
   },
@@ -9402,13 +9402,13 @@
         "date": "2022-02-02"
       },
       {
-        "title": "[推荐] 优雅整洁的 Java 代码命名技巧，风之极·净化",
-        "link": "https://toutiao.io/k/abc8vou",
+        "title": "[推荐] Redis 很屌，不懂使用规范就糟蹋了",
+        "link": "https://toutiao.io/k/lpnakbk",
         "date": "2022-02-02"
       },
       {
-        "title": "[推荐] 面试官问：设计高并发系统的时候，数据库层面该如何设计？",
-        "link": "https://toutiao.io/k/p935kqr",
+        "title": "[推荐] 优雅整洁的 Java 代码命名技巧，风之极·净化",
+        "link": "https://toutiao.io/k/abc8vou",
         "date": "2022-02-02"
       },
       {
@@ -9417,8 +9417,8 @@
         "date": "2022-02-02"
       },
       {
-        "title": "[推荐] Redis 很屌，不懂使用规范就糟蹋了",
-        "link": "https://toutiao.io/k/lpnakbk",
+        "title": "[推荐] 面试官问：设计高并发系统的时候，数据库层面该如何设计？",
+        "link": "https://toutiao.io/k/p935kqr",
         "date": "2022-02-02"
       },
       {

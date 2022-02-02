@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2022-02-02 04:26:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-02 04:46:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-02-02-有什么了解公司运行原理的书籍推荐吗？](https://www.v2ex.com/t/831654) 
 - [2022-02-02-升级-12.2，-Music.app-的-bug-有人遇到吗。。。](https://www.v2ex.com/t/831652) 
 - [2022-02-02-Django-admin-当中动态显示外键的相关属性](https://www.v2ex.com/t/831650) 
 - [2022-02-02-广东联通申请公网-ip-的神奇经历](https://www.v2ex.com/t/831649) 
@@ -43,5 +44,3 @@
 - [2022-02-01-小而美-空间降不下去了啊](https://www.v2ex.com/t/831608) 
 - [2022-02-01-有没有成熟的矿渣-nas-主机](https://www.v2ex.com/t/831606) 
 - [2022-02-01-广东移动游戏宽带是永久套餐吗?](https://www.v2ex.com/t/831605) 
-- [2022-02-01-VMWare-Fusion-里的-Windows-开机后，-macOS-宿主系统就无法连接打印机](https://www.v2ex.com/t/831604) 
-- [2022-02-01-咨询一下大家-有没有针对面试的服务？](https://www.v2ex.com/t/831603) 

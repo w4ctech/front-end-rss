@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-02-02 12:54:11。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-02-02 13:05:02。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -76,6 +76,7 @@
 - [【武汉肺炎防疫全纪录(财新网)】2022-02-01-聚焦｜张文宏：未来抗疫，是努力夺回正常生活的过程](https://opinion.caixin.com/m/2022-02-01/101837206.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2022-02-01-【境内疫情观察】全国累计接种新冠疫苗逾30亿剂次（1月31日）](https://database.caixin.com/m/2022-02-01/101837162.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2022-02-01-德国未实现接种目标-奥地利强制接种疫苗法律生效｜大流行手记（1月31日）](https://m.caixin.com/m/2022-02-01/101837106.html) 
+- [【V2EX】2022-02-02-2017-款-big-sur-升级到-Monterey12.2，然后关了-ocsp，太流畅了。](https://www.v2ex.com/t/831696) 
 - [【V2EX】2022-02-02-有没有啥难吃的米（主食），可以限制自己的饭量（不要陈年米），平时饭量较大，有没有啥口味偏差、得难以下咽的米可以推荐，饭难吃就能少吃点。](https://www.v2ex.com/t/831695) 
 - [【V2EX】2022-02-02-拓展-Alfred-的快捷键](https://www.v2ex.com/t/831694) 
 - [【V2EX】2022-02-02-区块链点评网站-web3.0](https://www.v2ex.com/t/831693) 
@@ -115,7 +116,6 @@
 - [【V2EX】2022-02-02-广东联通申请公网-ip-的神奇经历](https://www.v2ex.com/t/831649) 
 - [【V2EX】2022-02-02-升级完-12.2-后-clash-就无法使用了](https://www.v2ex.com/t/831648) 
 - [【V2EX】2022-02-02-要开始接触-3D-软件了](https://www.v2ex.com/t/831647) 
-- [【V2EX】2022-02-02-server-sql-怎么查出列在哪个存储过程？](https://www.v2ex.com/t/831646) 
 - [【技术头条】2022-02-02-你不知道的CSS-media查询与用户体验-www.zhangxinxu.com](https://blogread.cn/news/go.php?idItem=14920&url=https%3A%2F%2Fwww.zhangxinxu.com%2Fwordpress%2F2021%2F12%2Fcss-meida-user-experience%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-02-02-Android-性能优化的术、道、器-androidperformance.com](https://blogread.cn/news/go.php?idItem=14919&url=https%3A%2F%2Fandroidperformance.com%2F2022%2F01%2F07%2FThe-Performace-1-Performance-Tools%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-02-02-优质网站同好者周刊（第-050-期）-blog.nicelinks.site](https://blogread.cn/news/go.php?idItem=14918&url=https%3A%2F%2Fblog.nicelinks.site%2Fweekly-050%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -146,13 +146,13 @@
 - [【开发者头条】2022-02-02-一文读懂-Pytorch-中的-Tensor-View-机制](https://toutiao.io/k/7m0iqtp) 
 - [【开发者头条】2022-02-02-优化.NET-应用程序-CPU-和内存的11-个实践](https://toutiao.io/k/8iocbd3) 
 - [【开发者头条】2022-02-02-python中的元类](https://toutiao.io/k/t6jegz6) 
-- [【开发者头条】2022-02-02-推荐-字节的分布式链路追踪实践，教科书式的搭建指南](https://toutiao.io/k/t6j66db) 
-- [【开发者头条】2022-02-02-推荐-Redis-很屌，不懂使用规范就糟蹋了](https://toutiao.io/k/lpnakbk) 
-- [【开发者头条】2022-02-02-推荐-技术干货｜缓存一致性最佳实践](https://toutiao.io/k/zgmi04u) 
-- [【开发者头条】2022-02-02-推荐-优雅整洁的-Java-代码命名技巧，风之极·净化](https://toutiao.io/k/abc8vou) 
+- [【开发者头条】2022-02-02-推荐-面试官问：设计高并发系统的时候，数据库层面该如何设计？](https://toutiao.io/k/p935kqr) 
 - [【开发者头条】2022-02-02-推荐-面试官问:-如何设计一个高并发系统?](https://toutiao.io/k/7hrrplb) 
 - [【开发者头条】2022-02-02-推荐-优惠券系统架构设计与实践](https://toutiao.io/k/q6yzp5j) 
-- [【开发者头条】2022-02-02-推荐-面试官问：设计高并发系统的时候，数据库层面该如何设计？](https://toutiao.io/k/p935kqr) 
+- [【开发者头条】2022-02-02-推荐-Redis-很屌，不懂使用规范就糟蹋了](https://toutiao.io/k/lpnakbk) 
+- [【开发者头条】2022-02-02-推荐-技术干货｜缓存一致性最佳实践](https://toutiao.io/k/zgmi04u) 
+- [【开发者头条】2022-02-02-推荐-字节的分布式链路追踪实践，教科书式的搭建指南](https://toutiao.io/k/t6j66db) 
+- [【开发者头条】2022-02-02-推荐-优雅整洁的-Java-代码命名技巧，风之极·净化](https://toutiao.io/k/abc8vou) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

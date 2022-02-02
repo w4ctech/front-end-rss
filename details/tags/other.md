@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-02-02 17:25:32。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-02 17:39:11。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1732,6 +1732,7 @@
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2021-11-14-密码强度效果最佳实现一定是HTML-meter元素](https://www.zhangxinxu.com/wordpress/2021/11/html-meter-password/) 
 - [2021-11-02-见多识广，介绍Web开发中current开头的一些API属性](https://www.zhangxinxu.com/wordpress/2021/11/currentscript-currenttarget-currentsrc/) 
+- [2022-02-02-为什么公交地铁不能免费](https://www.v2ex.com/t/831726) 
 - [2022-02-02-全职长期远程岗位-Blockchain-开发工程师-50K/月，大牛另议](https://www.v2ex.com/t/831725) 
 - [2022-02-02-QQ-已撤回的消息是否还存在于内存中啊？](https://www.v2ex.com/t/831722) 
 - [2022-02-02-博客园用户的-RSS-是否已经无法使用](https://www.v2ex.com/t/831721) 
@@ -1789,6 +1790,6 @@
 - [2022-02-02-IO回忆录之怎样过目不忘BIO/NIO/AIO/Netty](https://toutiao.io/k/lvenyjo) 
 - [2022-02-02-sqlite3.36版本-btree实现（零）--起步及概述](https://toutiao.io/k/mbbbpdu) 
 - [2022-02-02-python中的元类](https://toutiao.io/k/t6jegz6) 
-- [2022-02-02-推荐-优惠券系统架构设计与实践](https://toutiao.io/k/q6yzp5j) 
 - [2022-02-02-推荐-Redis-很屌，不懂使用规范就糟蹋了](https://toutiao.io/k/lpnakbk) 
+- [2022-02-02-推荐-优惠券系统架构设计与实践](https://toutiao.io/k/q6yzp5j) 
 - [2022-02-02-推荐-字节的分布式链路追踪实践，教科书式的搭建指南](https://toutiao.io/k/t6j66db) 

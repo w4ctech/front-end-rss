@@ -9033,6 +9033,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "MacBook Pro 2018 款使用了 3 年多：期间 3 次维修，目前主板损坏",
+        "link": "https://www.v2ex.com/t/831679",
+        "date": "2022-02-02"
+      },
+      {
         "title": "如果买三十万以内的国产新能源",
         "link": "https://www.v2ex.com/t/831677",
         "date": "2022-02-02"
@@ -9216,16 +9221,6 @@
         "title": "Proxmox + OVH Failover IP 没有什么好的自动化处理方案么？",
         "link": "https://www.v2ex.com/t/831633",
         "date": "2022-02-01"
-      },
-      {
-        "title": "不懂就问，如何让 Mac 和 Win 能同时访问一个外置硬盘? 而且速度可以足够快。",
-        "link": "https://www.v2ex.com/t/831631",
-        "date": "2022-02-01"
-      },
-      {
-        "title": "Python Type 返回值类型",
-        "link": "https://www.v2ex.com/t/831630",
-        "date": "2022-02-01"
       }
     ]
   },
@@ -9392,23 +9387,8 @@
         "date": "2022-02-02"
       },
       {
-        "title": "[推荐] 优雅整洁的 Java 代码命名技巧，风之极·净化",
-        "link": "https://toutiao.io/k/abc8vou",
-        "date": "2022-02-02"
-      },
-      {
-        "title": "[推荐] 面试官问：设计高并发系统的时候，数据库层面该如何设计？",
-        "link": "https://toutiao.io/k/p935kqr",
-        "date": "2022-02-02"
-      },
-      {
         "title": "[推荐] Redis 很屌，不懂使用规范就糟蹋了",
         "link": "https://toutiao.io/k/lpnakbk",
-        "date": "2022-02-02"
-      },
-      {
-        "title": "[推荐] 技术干货｜缓存一致性最佳实践",
-        "link": "https://toutiao.io/k/zgmi04u",
         "date": "2022-02-02"
       },
       {
@@ -9417,13 +9397,28 @@
         "date": "2022-02-02"
       },
       {
-        "title": "[推荐] 优惠券系统架构设计与实践",
-        "link": "https://toutiao.io/k/q6yzp5j",
+        "title": "[推荐] 面试官问：设计高并发系统的时候，数据库层面该如何设计？",
+        "link": "https://toutiao.io/k/p935kqr",
         "date": "2022-02-02"
       },
       {
         "title": "[推荐] 字节的分布式链路追踪实践，教科书式的搭建指南",
         "link": "https://toutiao.io/k/t6j66db",
+        "date": "2022-02-02"
+      },
+      {
+        "title": "[推荐] 技术干货｜缓存一致性最佳实践",
+        "link": "https://toutiao.io/k/zgmi04u",
+        "date": "2022-02-02"
+      },
+      {
+        "title": "[推荐] 优雅整洁的 Java 代码命名技巧，风之极·净化",
+        "link": "https://toutiao.io/k/abc8vou",
+        "date": "2022-02-02"
+      },
+      {
+        "title": "[推荐] 优惠券系统架构设计与实践",
+        "link": "https://toutiao.io/k/q6yzp5j",
         "date": "2022-02-02"
       }
     ]

@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-02-02 02:54:59。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-02 03:12:42。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -184,8 +184,6 @@
 - [【张鑫旭-鑫空间-鑫生活】从js-visibilitychange-Safari下无效说开去](https://www.zhangxinxu.com/wordpress/2021/11/js-visibilitychange-pagehide-lifecycle/)
 - [【V2EX】Netflix-在-iOS+小火箭下一切正常，但在-LG-电视+软路由+passwall-下十分慢](https://www.v2ex.com/t/831626)
 - [【V2EX】有什么适配-Windows-10/11-比较好的-5K-显示器推荐？](https://www.v2ex.com/t/831601)
-- [【V2EX】无障碍辅助网站-js-插件](https://www.v2ex.com/t/831593)
-- [【V2EX】帮忙推荐净水和软路由](https://www.v2ex.com/t/831590)
 - [【技术头条】公司这套架构统一处理try...catch，很牛逼！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14903&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493176%26amp%3Bidx%3D2%26amp%3Bsn%3D98ffd0ca1663318ac2b071210d422ade%26amp%3Bchksm%3Dfa3f0763cd488e75d3f771749cf8c542bc4a956a70c6a9b5d081ba654d919b72207bee03e9a5%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [......【查看更多】......](./details/tags/javascript.md)
 
@@ -420,6 +418,7 @@
 
 - [【武汉肺炎防疫全纪录(财新网)】2月1日全国新增新冠63例-五省份本土36例](https://m.caixin.com/m/2022-02-02/101837238.html)
 - [【武汉肺炎防疫全纪录(财新网)】广东再现本土奥密克戎-五市共报告病例11个](https://m.caixin.com/m/2022-02-02/101837218.html)
+- [【武汉肺炎防疫全纪录(财新网)】美国FDA批准第二款mRNA疫苗-挪威取消大部分限制措施｜大流行手记（2月1日）](https://m.caixin.com/m/2022-02-02/101837258.html)
 - [【武汉肺炎防疫全纪录(财新网)】聚焦｜张文宏：未来抗疫，是努力夺回正常生活的过程](https://opinion.caixin.com/m/2022-02-01/101837206.html)
 - [【武汉肺炎防疫全纪录(财新网)】最新海外疫情：新冠感染超3.77亿-累计接种新冠疫苗超100.65亿剂次](https://m.caixin.com/m/2022-02-01/101837153.html)
 - [【武汉肺炎防疫全纪录(财新网)】【境内疫情观察】全国累计接种新冠疫苗逾30亿剂次（1月31日）](https://database.caixin.com/m/2022-02-01/101837162.html)
@@ -437,7 +436,6 @@
 - [【武汉肺炎防疫全纪录(财新网)】科学家联名呼吁英国支持COVID专利豁免-加拿大感染高峰将过｜大流行手记（1月28日）](https://m.caixin.com/m/2022-01-29/101836375.html)
 - [【武汉肺炎防疫全纪录(财新网)】研究：新冠疫苗加强针“混打”保护效果优于同源接种](https://m.caixin.com/m/2022-01-29/101836549.html)
 - [【武汉肺炎防疫全纪录(财新网)】杭州三日累计确诊30例外溢4省-初判源头为物传人](https://m.caixin.com/m/2022-01-28/101836259.html)
-- [【武汉肺炎防疫全纪录(财新网)】【境内疫情观察】全国新增39例本土病例（1月27日）](https://database.caixin.com/m/2022-01-28/101836058.html)
 - [......【查看更多】......](./details/tags/other.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

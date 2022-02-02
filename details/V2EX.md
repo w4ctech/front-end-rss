@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-02-02 13:05:02。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-02 13:16:07。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
@@ -43,5 +43,3 @@
 - [2022-02-02-升级-12.2，-Music.app-的-bug-有人遇到吗。。。](https://www.v2ex.com/t/831652) 
 - [2022-02-02-Django-admin-当中动态显示外键的相关属性](https://www.v2ex.com/t/831650) 
 - [2022-02-02-广东联通申请公网-ip-的神奇经历](https://www.v2ex.com/t/831649) 
-- [2022-02-02-升级完-12.2-后-clash-就无法使用了](https://www.v2ex.com/t/831648) 
-- [2022-02-02-要开始接触-3D-软件了](https://www.v2ex.com/t/831647) 

@@ -9226,16 +9226,6 @@
         "title": "广东联通申请公网 ip 的神奇经历",
         "link": "https://www.v2ex.com/t/831649",
         "date": "2022-02-02"
-      },
-      {
-        "title": "升级完 12.2 后 clash 就无法使用了",
-        "link": "https://www.v2ex.com/t/831648",
-        "date": "2022-02-02"
-      },
-      {
-        "title": "要开始接触 3D 软件了",
-        "link": "https://www.v2ex.com/t/831647",
-        "date": "2022-02-02"
       }
     ]
   },
@@ -9407,8 +9397,8 @@
         "date": "2022-02-02"
       },
       {
-        "title": "[推荐] 面试官问: 如何设计一个高并发系统?",
-        "link": "https://toutiao.io/k/7hrrplb",
+        "title": "[推荐] Redis 很屌，不懂使用规范就糟蹋了",
+        "link": "https://toutiao.io/k/lpnakbk",
         "date": "2022-02-02"
       },
       {
@@ -9417,8 +9407,8 @@
         "date": "2022-02-02"
       },
       {
-        "title": "[推荐] Redis 很屌，不懂使用规范就糟蹋了",
-        "link": "https://toutiao.io/k/lpnakbk",
+        "title": "[推荐] 字节的分布式链路追踪实践，教科书式的搭建指南",
+        "link": "https://toutiao.io/k/t6j66db",
         "date": "2022-02-02"
       },
       {
@@ -9427,13 +9417,13 @@
         "date": "2022-02-02"
       },
       {
-        "title": "[推荐] 字节的分布式链路追踪实践，教科书式的搭建指南",
-        "link": "https://toutiao.io/k/t6j66db",
+        "title": "[推荐] 优雅整洁的 Java 代码命名技巧，风之极·净化",
+        "link": "https://toutiao.io/k/abc8vou",
         "date": "2022-02-02"
       },
       {
-        "title": "[推荐] 优雅整洁的 Java 代码命名技巧，风之极·净化",
-        "link": "https://toutiao.io/k/abc8vou",
+        "title": "[推荐] 面试官问: 如何设计一个高并发系统?",
+        "link": "https://toutiao.io/k/7hrrplb",
         "date": "2022-02-02"
       }
     ]

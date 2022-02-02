@@ -1,10 +1,13 @@
-:alarm_clock: 更新时间: 2022-02-02 14:55:15。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-02 15:16:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-02-02-现在2022-年-2-月买-MacBook-Air-合适吗？](https://www.v2ex.com/t/831713) 
+- [2022-02-02-2020-Intel-MBP13-格盘重装是选择-Catalina-还是-Monterey？](https://www.v2ex.com/t/831712) 
+- [2022-02-02-关于流浪猫](https://www.v2ex.com/t/831711) 
 - [2022-02-02-最近讨论键盘输入法挺多的，我想推荐一下手机输入法里的-14-键](https://www.v2ex.com/t/831710) 
 - [2022-02-02-中国电信出国使用-CN2-专属-DNS](https://www.v2ex.com/t/831709) 
 - [2022-02-02-Terminal-如何管理多个带密钥的-ssh-会话以方便连接](https://www.v2ex.com/t/831708) 
@@ -44,5 +47,3 @@
 - [2022-02-02-Windows-10-不能正确分配局域网-IPv4-地址](https://www.v2ex.com/t/831666) 
 - [2022-02-02-发现一个很不错的开源钱包-AirGap](https://www.v2ex.com/t/831665) 
 - [2022-02-02-又是谁做的-seo-站出来恶心人](https://www.v2ex.com/t/831664) 
-- [2022-02-02-上市与裁员](https://www.v2ex.com/t/831663) 
-- [2022-02-02-vim-china.org-域名到期，有需要的可以认领](https://www.v2ex.com/t/831662) 

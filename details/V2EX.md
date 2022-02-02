@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2022-02-02 10:42:03。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-02 10:54:42。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-02-02-开源一个小项目：-eBooks-Assistant（豆瓣读书助手）](https://www.v2ex.com/t/831686) 
+- [2022-02-02-CCTV-8K,-iptv-源](https://www.v2ex.com/t/831685) 
 - [2022-02-02-27-寸-4K-接-Mac-显示效果到底怎么样呢？](https://www.v2ex.com/t/831684) 
 - [2022-02-02-github-项目购买关注？](https://www.v2ex.com/t/831682) 
 - [2022-02-02-MacBook-Pro-2018-款使用了-3-年多：期间-3-次维修，目前主板损坏](https://www.v2ex.com/t/831679) 
@@ -42,4 +44,3 @@
 - [2022-02-02-新年礼物](https://www.v2ex.com/t/831639) 
 - [2022-02-02-还是从全键盘用回了九宫格](https://www.v2ex.com/t/831638) 
 - [2022-02-02-火狐开发工具里边，溢出，是什么鬼，影响-seo-吗？](https://www.v2ex.com/t/831637) 
-- [2022-02-01-MacBook-也会降频吗？](https://www.v2ex.com/t/831635) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-03 17:42:20，:rocket: 更新条数: +1838， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-03 17:54:59，:rocket: 更新条数: +1838， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -559,10 +559,10 @@
 - [2022-02-03-现代软件架构师的-10-个技巧](https://toutiao.io/k/7ormdqi) ![](assets/new.png)  
 - [2022-02-03-Spring-Boot-使用的经典错误-找不到Bean了](https://toutiao.io/k/iedn9f7) ![](assets/new.png)  
 - [2022-02-03-网易云音乐广告CTR预估模型演进过程](https://toutiao.io/k/ajdmqsp) ![](assets/new.png)  
-- [2022-02-03-推荐-字节的分布式链路追踪实践，教科书式的搭建指南](https://toutiao.io/k/t6j66db) ![](assets/new.png)  
-- [2022-02-03-推荐-面试官问:-如何设计一个高并发系统?](https://toutiao.io/k/7hrrplb) ![](assets/new.png)  
 - [2022-02-03-推荐-面试官问：设计高并发系统的时候，数据库层面该如何设计？](https://toutiao.io/k/p935kqr) ![](assets/new.png)  
+- [2022-02-03-推荐-字节的分布式链路追踪实践，教科书式的搭建指南](https://toutiao.io/k/t6j66db) ![](assets/new.png)  
 - [2022-02-03-推荐-技术干货｜缓存一致性最佳实践](https://toutiao.io/k/zgmi04u) ![](assets/new.png)  
+- [2022-02-03-推荐-面试官问:-如何设计一个高并发系统?](https://toutiao.io/k/7hrrplb) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

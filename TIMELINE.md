@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-02-03 02:24:27。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-02-03 02:42:23。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -79,7 +79,6 @@
 - [【V2EX】2022-02-03-你们的电脑版微信还能正常同步消息吗？](https://www.v2ex.com/t/831742) 
 - [【V2EX】2022-02-03-1-月-6-号下单的-mbp-14-寸，选了美国键盘，等到了-2-月-2-才发货](https://www.v2ex.com/t/831741) 
 - [【V2EX】2022-02-03-迫于公司要求，有没有将“产品标准”数字化的平台？](https://www.v2ex.com/t/831740) 
-- [【V2EX】2022-02-03-发现了一个宝藏级美股交易所，支持-usdt-出入金](https://www.v2ex.com/t/831739) 
 - [【V2EX】2022-02-03-日系凯美瑞、卡罗拉](https://www.v2ex.com/t/831738) 
 - [【V2EX】2022-02-03-各位大佬，想留个好看的胡子，该怎么操作合适？](https://www.v2ex.com/t/831737) 
 - [【V2EX】2022-02-03-说说今年回家高铁带折叠车](https://www.v2ex.com/t/831735) 
@@ -147,12 +146,12 @@
 - [【开发者头条】2022-02-03-Apache-Flink:-Stateful-Functions-3.2.0-发布!](https://toutiao.io/k/lkx0tzp) 
 - [【开发者头条】2022-02-03-清华NLP实验室刘知远：如何写一篇合格的NLP论文](https://toutiao.io/k/0wn8cau) 
 - [【开发者头条】2022-02-03-新年特辑2-Gwen为你读：《IF》节选](https://toutiao.io/k/bs1bykt) 
-- [【开发者头条】2022-02-03-推荐-技术干货｜缓存一致性最佳实践](https://toutiao.io/k/zgmi04u) 
-- [【开发者头条】2022-02-03-推荐-优惠券系统架构设计与实践](https://toutiao.io/k/q6yzp5j) 
 - [【开发者头条】2022-02-03-推荐-字节的分布式链路追踪实践，教科书式的搭建指南](https://toutiao.io/k/t6j66db) 
-- [【开发者头条】2022-02-03-推荐-Redis-很屌，不懂使用规范就糟蹋了](https://toutiao.io/k/lpnakbk) 
+- [【开发者头条】2022-02-03-推荐-技术干货｜缓存一致性最佳实践](https://toutiao.io/k/zgmi04u) 
 - [【开发者头条】2022-02-03-推荐-面试官问：设计高并发系统的时候，数据库层面该如何设计？](https://toutiao.io/k/p935kqr) 
+- [【开发者头条】2022-02-03-推荐-Redis-很屌，不懂使用规范就糟蹋了](https://toutiao.io/k/lpnakbk) 
 - [【开发者头条】2022-02-03-推荐-面试官问:-如何设计一个高并发系统?](https://toutiao.io/k/7hrrplb) 
+- [【开发者头条】2022-02-03-推荐-优惠券系统架构设计与实践](https://toutiao.io/k/q6yzp5j) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

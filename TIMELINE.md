@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-02-03 17:00:09。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-02-03 17:15:24。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -142,15 +142,15 @@
 - [【技术头条】2022-02-03-Python之禅：编写优雅Python代码的16个原则-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14904&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493176%26amp%3Bidx%3D1%26amp%3Bsn%3Df2d627b156b058851c889b4445e11ec1%26amp%3Bchksm%3Dfa3f0763cd488e75569fb239eac349981802ba866826795ead0d9b7546d81579eed97e34bb65%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-02-03-公司这套架构统一处理try...catch，很牛逼！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14903&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493176%26amp%3Bidx%3D2%26amp%3Bsn%3D98ffd0ca1663318ac2b071210d422ade%26amp%3Bchksm%3Dfa3f0763cd488e75d3f771749cf8c542bc4a956a70c6a9b5d081ba654d919b72207bee03e9a5%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【开发者头条】2022-02-03-2022-年别再焦虑啦！加入我们！](https://toutiao.io/k/obimloc) 
-- [【开发者头条】2022-02-03-腾讯课堂-H5-直播间点赞动效实现](https://toutiao.io/k/s9wmei7) 
 - [【开发者头条】2022-02-03-2022春节贺岁档电影开分，水门桥不理想，四海崩了！用Python一探究竟](https://toutiao.io/k/877cd6d) 
+- [【开发者头条】2022-02-03-腾讯课堂-H5-直播间点赞动效实现](https://toutiao.io/k/s9wmei7) 
 - [【开发者头条】2022-02-03-现代软件架构师的-10-个技巧](https://toutiao.io/k/7ormdqi) 
 - [【开发者头条】2022-02-03-Spring-Boot-使用的经典错误-找不到Bean了](https://toutiao.io/k/iedn9f7) 
 - [【开发者头条】2022-02-03-网易云音乐广告CTR预估模型演进过程](https://toutiao.io/k/ajdmqsp) 
-- [【开发者头条】2022-02-03-推荐-面试官问：设计高并发系统的时候，数据库层面该如何设计？](https://toutiao.io/k/p935kqr) 
-- [【开发者头条】2022-02-03-推荐-技术干货｜缓存一致性最佳实践](https://toutiao.io/k/zgmi04u) 
-- [【开发者头条】2022-02-03-推荐-字节的分布式链路追踪实践，教科书式的搭建指南](https://toutiao.io/k/t6j66db) 
 - [【开发者头条】2022-02-03-推荐-面试官问:-如何设计一个高并发系统?](https://toutiao.io/k/7hrrplb) 
+- [【开发者头条】2022-02-03-推荐-字节的分布式链路追踪实践，教科书式的搭建指南](https://toutiao.io/k/t6j66db) 
+- [【开发者头条】2022-02-03-推荐-技术干货｜缓存一致性最佳实践](https://toutiao.io/k/zgmi04u) 
+- [【开发者头条】2022-02-03-推荐-面试官问：设计高并发系统的时候，数据库层面该如何设计？](https://toutiao.io/k/p935kqr) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

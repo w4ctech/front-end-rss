@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-03 05:54:39，:rocket: 更新条数: +1840， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-03 06:14:35，:rocket: 更新条数: +1841， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-02-03-境外银行卡在国内怎么消费](https://www.v2ex.com/t/831758) ![](assets/new.png)  
 - [2022-02-03-最近几年](https://www.v2ex.com/t/831756) ![](assets/new.png)  
 - [2022-02-03-密码管理软件它最强吗？](https://www.v2ex.com/t/831755) ![](assets/new.png)  
 - [2022-02-03-播客-RustTalk：-002.-与黄光星畅聊-Rust、Redis-与新加坡](https://www.v2ex.com/t/831754) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-02-03-日系凯美瑞、卡罗拉](https://www.v2ex.com/t/831738) ![](assets/new.png)  
 - [2022-02-03-各位大佬，想留个好看的胡子，该怎么操作合适？](https://www.v2ex.com/t/831737) ![](assets/new.png)  
 - [2022-02-03-说说今年回家高铁带折叠车](https://www.v2ex.com/t/831735) ![](assets/new.png)  
-- [2022-02-02-MacBook-Pro-16-M1-Pro-到手感受](https://www.v2ex.com/t/831734) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -561,11 +561,13 @@
 - [2022-02-03-Apache-Flink:-Stateful-Functions-3.2.0-发布!](https://toutiao.io/k/lkx0tzp) ![](assets/new.png)  
 - [2022-02-03-清华NLP实验室刘知远：如何写一篇合格的NLP论文](https://toutiao.io/k/0wn8cau) ![](assets/new.png)  
 - [2022-02-03-新年特辑2-Gwen为你读：《IF》节选](https://toutiao.io/k/bs1bykt) ![](assets/new.png)  
+- [2022-02-03-Spring-Boot-使用的经典错误-找不到Bean了](https://toutiao.io/k/iedn9f7) ![](assets/new.png)  
+- [2022-02-03-现代软件架构师的-10-个技巧](https://toutiao.io/k/7ormdqi) ![](assets/new.png)  
+- [2022-02-03-推荐-Redis-很屌，不懂使用规范就糟蹋了](https://toutiao.io/k/lpnakbk) ![](assets/new.png)  
+- [2022-02-03-推荐-优惠券系统架构设计与实践](https://toutiao.io/k/q6yzp5j) ![](assets/new.png)  
+- [2022-02-03-推荐-面试官问：设计高并发系统的时候，数据库层面该如何设计？](https://toutiao.io/k/p935kqr) ![](assets/new.png)  
 - [2022-02-03-推荐-技术干货｜缓存一致性最佳实践](https://toutiao.io/k/zgmi04u) ![](assets/new.png)  
 - [2022-02-03-推荐-面试官问:-如何设计一个高并发系统?](https://toutiao.io/k/7hrrplb) ![](assets/new.png)  
-- [2022-02-03-推荐-面试官问：设计高并发系统的时候，数据库层面该如何设计？](https://toutiao.io/k/p935kqr) ![](assets/new.png)  
-- [2022-02-03-推荐-优惠券系统架构设计与实践](https://toutiao.io/k/q6yzp5j) ![](assets/new.png)  
-- [2022-02-03-推荐-Redis-很屌，不懂使用规范就糟蹋了](https://toutiao.io/k/lpnakbk) ![](assets/new.png)  
 - [2022-02-03-推荐-字节的分布式链路追踪实践，教科书式的搭建指南](https://toutiao.io/k/t6j66db) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-03 07:54:24，:rocket: 更新条数: +1840， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-03 08:14:59，:rocket: 更新条数: +1840， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-02-03-2022-年-2-月，两步验证登录-app，哪个好用？（Microsoft-/-Google-Authenticator-/-Authy-/-……-）](https://www.v2ex.com/t/831772) ![](assets/new.png)  
 - [2022-02-03-前端新消息提示，这样实现的思路是对的吗？](https://www.v2ex.com/t/831771) ![](assets/new.png)  
 - [2022-02-03-AlphaCode](https://www.v2ex.com/t/831770) ![](assets/new.png)  
 - [2022-02-03-MBP-16-一周体验](https://www.v2ex.com/t/831769) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-02-03-在新加坡三年想回来了，广东地区有什么外企推荐吗或省外可以远程的](https://www.v2ex.com/t/831752) ![](assets/new.png)  
 - [2022-02-03-Surge-的奇怪小问题，百思不得其解---“重载配置”-不会自动显示了](https://www.v2ex.com/t/831751) ![](assets/new.png)  
 - [2022-02-03-字节北/上/深/杭-字节跳动-Client-AI-团队招端智能算法工程师](https://www.v2ex.com/t/831750) ![](assets/new.png)  
-- [2022-02-03-迫于想买美区-Switch-游戏，求可用的付款方式](https://www.v2ex.com/t/831749) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -554,8 +554,8 @@
 
 
 - [2022-02-03-2022-年别再焦虑啦！加入我们！](https://toutiao.io/k/obimloc) ![](assets/new.png)  
-- [2022-02-03-2022春节贺岁档电影开分，水门桥不理想，四海崩了！用Python一探究竟](https://toutiao.io/k/877cd6d) ![](assets/new.png)  
 - [2022-02-03-Tomcat-组成与工作原理总结](https://toutiao.io/k/tdvlczo) ![](assets/new.png)  
+- [2022-02-03-2022春节贺岁档电影开分，水门桥不理想，四海崩了！用Python一探究竟](https://toutiao.io/k/877cd6d) ![](assets/new.png)  
 - [2022-02-03-腾讯课堂-H5-直播间点赞动效实现](https://toutiao.io/k/s9wmei7) ![](assets/new.png)  
 - [2022-02-03-网易云音乐广告CTR预估模型演进过程](https://toutiao.io/k/ajdmqsp) ![](assets/new.png)  
 - [2022-02-03-Apache-Flink:-Stateful-Functions-3.2.0-发布!](https://toutiao.io/k/lkx0tzp) ![](assets/new.png)  
@@ -563,11 +563,11 @@
 - [2022-02-03-新年特辑2-Gwen为你读：《IF》节选](https://toutiao.io/k/bs1bykt) ![](assets/new.png)  
 - [2022-02-03-Spring-Boot-使用的经典错误-找不到Bean了](https://toutiao.io/k/iedn9f7) ![](assets/new.png)  
 - [2022-02-03-现代软件架构师的-10-个技巧](https://toutiao.io/k/7ormdqi) ![](assets/new.png)  
+- [2022-02-03-推荐-优惠券系统架构设计与实践](https://toutiao.io/k/q6yzp5j) ![](assets/new.png)  
 - [2022-02-03-推荐-技术干货｜缓存一致性最佳实践](https://toutiao.io/k/zgmi04u) ![](assets/new.png)  
 - [2022-02-03-推荐-面试官问:-如何设计一个高并发系统?](https://toutiao.io/k/7hrrplb) ![](assets/new.png)  
 - [2022-02-03-推荐-Redis-很屌，不懂使用规范就糟蹋了](https://toutiao.io/k/lpnakbk) ![](assets/new.png)  
 - [2022-02-03-推荐-字节的分布式链路追踪实践，教科书式的搭建指南](https://toutiao.io/k/t6j66db) ![](assets/new.png)  
-- [2022-02-03-推荐-优惠券系统架构设计与实践](https://toutiao.io/k/q6yzp5j) ![](assets/new.png)  
 - [2022-02-03-推荐-面试官问：设计高并发系统的时候，数据库层面该如何设计？](https://toutiao.io/k/p935kqr) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

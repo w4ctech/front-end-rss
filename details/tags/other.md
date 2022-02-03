@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-02-03 03:22:34。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-03 03:38:42。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -6,6 +6,7 @@
 
 
 - [2022-02-03-2月2日全国新增新冠39例-四省份本土21例](https://m.caixin.com/m/2022-02-03/101837368.html) 
+- [2022-02-03-世卫呼吁稳步缓慢“解封”，日本新增创新高｜大流行手记（2月2日）](https://m.caixin.com/m/2022-02-03/101837392.html) 
 - [2022-02-02-广东再现本土奥密克戎-五市共报告病例11个](https://m.caixin.com/m/2022-02-02/101837218.html) 
 - [2022-02-02-最新海外疫情：新冠感染近3.81亿-累计接种新冠疫苗超100.85亿剂次](https://m.caixin.com/m/2022-02-02/101837304.html) 
 - [2022-02-02-【境内疫情观察】全国新增36例本土病例（2月1日）](https://database.caixin.com/m/2022-02-02/101837319.html) 
@@ -1768,7 +1769,6 @@
 - [2022-02-02-喜欢车的老铁们](https://www.v2ex.com/t/831699) 
 - [2022-02-02-2017-款-big-sur-升级到-Monterey12.2，然后关了-ocsp，太流畅了。](https://www.v2ex.com/t/831696) 
 - [2022-02-02-有没有啥难吃的米（主食），可以限制自己的饭量（不要陈年米），平时饭量较大，有没有啥口味偏差、得难以下咽的米可以推荐，饭难吃就能少吃点。](https://www.v2ex.com/t/831695) 
-- [2022-02-02-拓展-Alfred-的快捷键](https://www.v2ex.com/t/831694) 
 - [2022-02-03-优质网站同好者周刊（第-050-期）-blog.nicelinks.site](https://blogread.cn/news/go.php?idItem=14918&url=https%3A%2F%2Fblog.nicelinks.site%2Fweekly-050%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-02-03-漫谈金丝雀部署-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14917&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fcanary-deployment%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-02-03-大公司病，太TM形象了！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14915&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493202%26amp%3Bidx%3D1%26amp%3Bsn%3De08d82d00cbbf2c8e79f3c18167cf3a7%26amp%3Bchksm%3Dfa3f0709cd488e1f1aef1ff3977c30095179293a65fef2658c28e6ea8af2d5cf243d3fd432e6%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1790,6 +1790,6 @@
 - [2022-02-03-Apache-Flink:-Stateful-Functions-3.2.0-发布!](https://toutiao.io/k/lkx0tzp) 
 - [2022-02-03-清华NLP实验室刘知远：如何写一篇合格的NLP论文](https://toutiao.io/k/0wn8cau) 
 - [2022-02-03-新年特辑2-Gwen为你读：《IF》节选](https://toutiao.io/k/bs1bykt) 
-- [2022-02-03-推荐-Redis-很屌，不懂使用规范就糟蹋了](https://toutiao.io/k/lpnakbk) 
 - [2022-02-03-推荐-字节的分布式链路追踪实践，教科书式的搭建指南](https://toutiao.io/k/t6j66db) 
 - [2022-02-03-推荐-优惠券系统架构设计与实践](https://toutiao.io/k/q6yzp5j) 
+- [2022-02-03-推荐-Redis-很屌，不懂使用规范就糟蹋了](https://toutiao.io/k/lpnakbk) 

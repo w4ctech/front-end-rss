@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-02-03 21:18:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-03 21:36:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1735,6 +1735,7 @@
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2021-11-14-密码强度效果最佳实现一定是HTML-meter元素](https://www.zhangxinxu.com/wordpress/2021/11/html-meter-password/) 
 - [2021-11-02-见多识广，介绍Web开发中current开头的一些API属性](https://www.zhangxinxu.com/wordpress/2021/11/currentscript-currenttarget-currentsrc/) 
+- [2022-02-03-程序员肉翻德国-FAQ](https://www.v2ex.com/t/831831) 
 - [2022-02-03-请问电信光猫不给-IPv6-地址能投诉解决吗](https://www.v2ex.com/t/831830) 
 - [2022-02-03-想问一下笔记本插一根-32G-内存条好还是-2-根-16G-的好？](https://www.v2ex.com/t/831829) 
 - [2022-02-03-请教一下，-ETL/ELT-中有必要对导入的查询做小写字母化吗？](https://www.v2ex.com/t/831828) 

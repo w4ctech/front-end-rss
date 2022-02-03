@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-02-03 14:11:38。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-03 14:19:50。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1792,6 +1792,6 @@
 - [2022-02-03-现代软件架构师的-10-个技巧](https://toutiao.io/k/7ormdqi) 
 - [2022-02-03-Spring-Boot-使用的经典错误-找不到Bean了](https://toutiao.io/k/iedn9f7) 
 - [2022-02-03-网易云音乐广告CTR预估模型演进过程](https://toutiao.io/k/ajdmqsp) 
-- [2022-02-03-推荐-Redis-很屌，不懂使用规范就糟蹋了](https://toutiao.io/k/lpnakbk) 
-- [2022-02-03-推荐-字节的分布式链路追踪实践，教科书式的搭建指南](https://toutiao.io/k/t6j66db) 
 - [2022-02-03-推荐-优惠券系统架构设计与实践](https://toutiao.io/k/q6yzp5j) 
+- [2022-02-03-推荐-字节的分布式链路追踪实践，教科书式的搭建指南](https://toutiao.io/k/t6j66db) 
+- [2022-02-03-推荐-Redis-很屌，不懂使用规范就糟蹋了](https://toutiao.io/k/lpnakbk) 

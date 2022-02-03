@@ -1,11 +1,11 @@
-:alarm_clock: 更新时间: 2022-02-03 01:06:49。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-03 01:53:03。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
 
 
 
-- [2022-02-02-最新疫情：全国新冠累计确诊106202例-累计接种新冠疫苗超30亿剂次](https://m.caixin.com/m/2022-02-02/101837299.html) 
+- [2022-02-03-2月2日全国新增新冠39例-四省份本土21例](https://m.caixin.com/m/2022-02-03/101837368.html) 
 - [2022-02-02-广东再现本土奥密克戎-五市共报告病例11个](https://m.caixin.com/m/2022-02-02/101837218.html) 
 - [2022-02-02-最新海外疫情：新冠感染近3.81亿-累计接种新冠疫苗超100.85亿剂次](https://m.caixin.com/m/2022-02-02/101837304.html) 
 - [2022-02-02-【境内疫情观察】全国新增36例本土病例（2月1日）](https://database.caixin.com/m/2022-02-02/101837319.html) 
@@ -1732,6 +1732,7 @@
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2021-11-14-密码强度效果最佳实现一定是HTML-meter元素](https://www.zhangxinxu.com/wordpress/2021/11/html-meter-password/) 
 - [2021-11-02-见多识广，介绍Web开发中current开头的一些API属性](https://www.zhangxinxu.com/wordpress/2021/11/currentscript-currenttarget-currentsrc/) 
+- [2022-02-03-发现了一个宝藏级美股交易所，支持-usdt-出入金](https://www.v2ex.com/t/831739) 
 - [2022-02-03-日系凯美瑞、卡罗拉](https://www.v2ex.com/t/831738) 
 - [2022-02-03-各位大佬，想留个好看的胡子，该怎么操作合适？](https://www.v2ex.com/t/831737) 
 - [2022-02-03-说说今年回家高铁带折叠车](https://www.v2ex.com/t/831735) 

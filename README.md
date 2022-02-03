@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-03 01:06:49，:rocket: 更新条数: +1836， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-03 01:53:03，:rocket: 更新条数: +1836， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -65,7 +65,7 @@
 </summary>
 
 
-- [2022-02-02-最新疫情：全国新冠累计确诊106202例-累计接种新冠疫苗超30亿剂次](https://m.caixin.com/m/2022-02-02/101837299.html) ![](assets/new.png)  
+- [2022-02-03-2月2日全国新增新冠39例-四省份本土21例](https://m.caixin.com/m/2022-02-03/101837368.html) ![](assets/new.png)  
 - [2022-02-02-广东再现本土奥密克戎-五市共报告病例11个](https://m.caixin.com/m/2022-02-02/101837218.html) ![](assets/new.png)  
 - [2022-02-02-最新海外疫情：新冠感染近3.81亿-累计接种新冠疫苗超100.85亿剂次](https://m.caixin.com/m/2022-02-02/101837304.html) ![](assets/new.png)  
 - [2022-02-02-【境内疫情观察】全国新增36例本土病例（2月1日）](https://database.caixin.com/m/2022-02-02/101837319.html) ![](assets/new.png)  
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-02-03-发现了一个宝藏级美股交易所，支持-usdt-出入金](https://www.v2ex.com/t/831739) ![](assets/new.png)  
 - [2022-02-03-日系凯美瑞、卡罗拉](https://www.v2ex.com/t/831738) ![](assets/new.png)  
 - [2022-02-03-各位大佬，想留个好看的胡子，该怎么操作合适？](https://www.v2ex.com/t/831737) ![](assets/new.png)  
 - [2022-02-03-说说今年回家高铁带折叠车](https://www.v2ex.com/t/831735) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-02-02-macOS-版威注音输入法-1.2.0-发布](https://www.v2ex.com/t/831717) ![](assets/new.png)  
 - [2022-02-02-多个-word,Excel-如何实现-替换文字？](https://www.v2ex.com/t/831716) ![](assets/new.png)  
 - [2022-02-02-第一次用-iPhone-，想问问-app-store-是美区还是国区好啊](https://www.v2ex.com/t/831715) ![](assets/new.png)  
-- [2022-02-02-1keydd-devdesk-实用的融合单机多-os-和云桌面伴侣，-onekeydevdesk-支持单核显切换交还和跨网虚拟机共享](https://www.v2ex.com/t/831714) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -558,11 +558,11 @@
 - [2022-02-03-网易云音乐广告CTR预估模型演进过程](https://toutiao.io/k/ajdmqsp) ![](assets/new.png)  
 - [2022-02-03-腾讯课堂-H5-直播间点赞动效实现](https://toutiao.io/k/s9wmei7) ![](assets/new.png)  
 - [2022-02-03-推荐-优惠券系统架构设计与实践](https://toutiao.io/k/q6yzp5j) ![](assets/new.png)  
-- [2022-02-03-推荐-面试官问：设计高并发系统的时候，数据库层面该如何设计？](https://toutiao.io/k/p935kqr) ![](assets/new.png)  
 - [2022-02-03-推荐-Redis-很屌，不懂使用规范就糟蹋了](https://toutiao.io/k/lpnakbk) ![](assets/new.png)  
-- [2022-02-03-推荐-字节的分布式链路追踪实践，教科书式的搭建指南](https://toutiao.io/k/t6j66db) ![](assets/new.png)  
 - [2022-02-03-推荐-技术干货｜缓存一致性最佳实践](https://toutiao.io/k/zgmi04u) ![](assets/new.png)  
+- [2022-02-03-推荐-面试官问：设计高并发系统的时候，数据库层面该如何设计？](https://toutiao.io/k/p935kqr) ![](assets/new.png)  
 - [2022-02-03-推荐-面试官问:-如何设计一个高并发系统?](https://toutiao.io/k/7hrrplb) ![](assets/new.png)  
+- [2022-02-03-推荐-字节的分布式链路追踪实践，教科书式的搭建指南](https://toutiao.io/k/t6j66db) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

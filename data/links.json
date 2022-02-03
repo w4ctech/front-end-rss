@@ -5,9 +5,9 @@
     "link": "http://m.app.caixin.com/m_topic_detail/1473.html",
     "items": [
       {
-        "title": "最新疫情：全国新冠累计确诊106202例 累计接种新冠疫苗超30亿剂次",
-        "link": "https://m.caixin.com/m/2022-02-02/101837299.html",
-        "date": "2022-02-02"
+        "title": "2月2日全国新增新冠39例 四省份本土21例",
+        "link": "https://m.caixin.com/m/2022-02-03/101837368.html",
+        "date": "2022-02-03"
       },
       {
         "title": "广东再现本土奥密克戎 五市共报告病例11个",
@@ -9038,6 +9038,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "发现了一个宝藏级美股交易所，支持 usdt 出入金",
+        "link": "https://www.v2ex.com/t/831739",
+        "date": "2022-02-03"
+      },
+      {
         "title": "日系凯美瑞、卡罗拉",
         "link": "https://www.v2ex.com/t/831738",
         "date": "2022-02-03"
@@ -9246,11 +9251,6 @@
         "title": "安装 win11& Linux 双系统，在 Linux 分区时不太对劲，请帮忙看看",
         "link": "https://www.v2ex.com/t/831690",
         "date": "2022-02-02"
-      },
-      {
-        "title": "termius 终端滚动栏消失,如何翻页滚动查看历史日志? 谢谢大家",
-        "link": "https://www.v2ex.com/t/831689",
-        "date": "2022-02-02"
       }
     ]
   },
@@ -9392,18 +9392,8 @@
         "date": "2022-02-03"
       },
       {
-        "title": "[推荐] 面试官问：设计高并发系统的时候，数据库层面该如何设计？",
-        "link": "https://toutiao.io/k/p935kqr",
-        "date": "2022-02-03"
-      },
-      {
         "title": "[推荐] Redis 很屌，不懂使用规范就糟蹋了",
         "link": "https://toutiao.io/k/lpnakbk",
-        "date": "2022-02-03"
-      },
-      {
-        "title": "[推荐] 字节的分布式链路追踪实践，教科书式的搭建指南",
-        "link": "https://toutiao.io/k/t6j66db",
         "date": "2022-02-03"
       },
       {
@@ -9412,8 +9402,18 @@
         "date": "2022-02-03"
       },
       {
+        "title": "[推荐] 面试官问：设计高并发系统的时候，数据库层面该如何设计？",
+        "link": "https://toutiao.io/k/p935kqr",
+        "date": "2022-02-03"
+      },
+      {
         "title": "[推荐] 面试官问: 如何设计一个高并发系统?",
         "link": "https://toutiao.io/k/7hrrplb",
+        "date": "2022-02-03"
+      },
+      {
+        "title": "[推荐] 字节的分布式链路追踪实践，教科书式的搭建指南",
+        "link": "https://toutiao.io/k/t6j66db",
         "date": "2022-02-03"
       }
     ]

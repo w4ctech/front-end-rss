@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-02-03 01:06:49。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-03 01:53:03。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -180,7 +180,6 @@
 - [【张鑫旭-鑫空间-鑫生活】深入JS-getRandomValues和Math.random方法](https://www.zhangxinxu.com/wordpress/2021/12/js-getrandomvalue-math-random/)
 - [【张鑫旭-鑫空间-鑫生活】flex-end为什么overflow无法滚动及解决方法](https://www.zhangxinxu.com/wordpress/2021/12/flex-end-overflow/)
 - [【张鑫旭-鑫空间-鑫生活】从js-visibilitychange-Safari下无效说开去](https://www.zhangxinxu.com/wordpress/2021/11/js-visibilitychange-pagehide-lifecycle/)
-- [【V2EX】termius-终端滚动栏消失,如何翻页滚动查看历史日志?-谢谢大家](https://www.v2ex.com/t/831689)
 - [【技术头条】公司这套架构统一处理try...catch，很牛逼！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14903&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493176%26amp%3Bidx%3D2%26amp%3Bsn%3D98ffd0ca1663318ac2b071210d422ade%26amp%3Bchksm%3Dfa3f0763cd488e75d3f771749cf8c542bc4a956a70c6a9b5d081ba654d919b72207bee03e9a5%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【开发者头条】腾讯课堂-H5-直播间点赞动效实现](https://toutiao.io/k/s9wmei7)
 - [......【查看更多】......](./details/tags/javascript.md)
@@ -409,7 +408,7 @@
 
 
 
-- [【武汉肺炎防疫全纪录(财新网)】最新疫情：全国新冠累计确诊106202例-累计接种新冠疫苗超30亿剂次](https://m.caixin.com/m/2022-02-02/101837299.html)
+- [【武汉肺炎防疫全纪录(财新网)】2月2日全国新增新冠39例-四省份本土21例](https://m.caixin.com/m/2022-02-03/101837368.html)
 - [【武汉肺炎防疫全纪录(财新网)】广东再现本土奥密克戎-五市共报告病例11个](https://m.caixin.com/m/2022-02-02/101837218.html)
 - [【武汉肺炎防疫全纪录(财新网)】最新海外疫情：新冠感染近3.81亿-累计接种新冠疫苗超100.85亿剂次](https://m.caixin.com/m/2022-02-02/101837304.html)
 - [【武汉肺炎防疫全纪录(财新网)】【境内疫情观察】全国新增36例本土病例（2月1日）](https://database.caixin.com/m/2022-02-02/101837319.html)

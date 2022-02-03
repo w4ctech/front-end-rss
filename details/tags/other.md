@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-02-03 06:25:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-03 06:43:56。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1733,6 +1733,9 @@
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2021-11-14-密码强度效果最佳实现一定是HTML-meter元素](https://www.zhangxinxu.com/wordpress/2021/11/html-meter-password/) 
 - [2021-11-02-见多识广，介绍Web开发中current开头的一些API属性](https://www.zhangxinxu.com/wordpress/2021/11/currentscript-currenttarget-currentsrc/) 
+- [2022-02-03-什么时候我们才能摆脱键盘敲代码？](https://www.v2ex.com/t/831764) 
+- [2022-02-03-不小心运行了-rm--rf/*-还有补救的机会吗？](https://www.v2ex.com/t/831763) 
+- [2022-02-03-那些个人开发者都在哪个论坛？个人开发了-app-或者-exe-程序的老板们在哪？](https://www.v2ex.com/t/831761) 
 - [2022-02-03-iPhone-储存空间里的“iCloud-云盘”的占用问题](https://www.v2ex.com/t/831760) 
 - [2022-02-03-境外银行卡在国内怎么消费](https://www.v2ex.com/t/831758) 
 - [2022-02-03-最近几年](https://www.v2ex.com/t/831756) 
@@ -1763,10 +1766,6 @@
 - [2022-02-02-macOS-版威注音输入法-1.2.0-发布](https://www.v2ex.com/t/831717) 
 - [2022-02-02-多个-word,Excel-如何实现-替换文字？](https://www.v2ex.com/t/831716) 
 - [2022-02-02-第一次用-iPhone-，想问问-app-store-是美区还是国区好啊](https://www.v2ex.com/t/831715) 
-- [2022-02-02-1keydd-devdesk-实用的融合单机多-os-和云桌面伴侣，-onekeydevdesk-支持单核显切换交还和跨网虚拟机共享](https://www.v2ex.com/t/831714) 
-- [2022-02-02-现在2022-年-2-月买-MacBook-Air-合适吗？](https://www.v2ex.com/t/831713) 
-- [2022-02-02-2020-Intel-MBP13-格盘重装是选择-Catalina-还是-Monterey？](https://www.v2ex.com/t/831712) 
-- [2022-02-02-关于流浪猫](https://www.v2ex.com/t/831711) 
 - [2022-02-03-Mac-终端下-实现-安装-ipa-包到-iPhone-真机-droidyue.com](https://blogread.cn/news/go.php?idItem=14922&url=https%3A%2F%2Fdroidyue.com%2Fblog%2F2022%2F01%2F03%2Fhow-to-install-ipa-on-iphone-in-terminal%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-02-03-ECS-中同类关联数据的处理-blog.codingnow.com](https://blogread.cn/news/go.php?idItem=14921&url=https%3A%2F%2Fblog.codingnow.com%2F2021%2F11%2Frelated_components.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-02-03-优质网站同好者周刊（第-050-期）-blog.nicelinks.site](https://blogread.cn/news/go.php?idItem=14918&url=https%3A%2F%2Fblog.nicelinks.site%2Fweekly-050%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1792,5 +1791,5 @@
 - [2022-02-03-Spring-Boot-使用的经典错误-找不到Bean了](https://toutiao.io/k/iedn9f7) 
 - [2022-02-03-现代软件架构师的-10-个技巧](https://toutiao.io/k/7ormdqi) 
 - [2022-02-03-推荐-优惠券系统架构设计与实践](https://toutiao.io/k/q6yzp5j) 
-- [2022-02-03-推荐-Redis-很屌，不懂使用规范就糟蹋了](https://toutiao.io/k/lpnakbk) 
 - [2022-02-03-推荐-字节的分布式链路追踪实践，教科书式的搭建指南](https://toutiao.io/k/t6j66db) 
+- [2022-02-03-推荐-Redis-很屌，不懂使用规范就糟蹋了](https://toutiao.io/k/lpnakbk) 

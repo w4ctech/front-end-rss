@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-02-03 12:33:32。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-03 12:54:45。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -153,7 +153,6 @@
 
 
 
-- [【V2EX】迫于想买美区-Switch-游戏，求可用的付款方式](https://www.v2ex.com/t/831749)
 - [......【查看更多】......](./details/tags/dev-game.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -278,7 +277,6 @@
 - [【武汉肺炎防疫全纪录(财新网)】大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html)
 - [【V2EX】公链的安全由数学证明，合约代码的安全无人能证明](https://www.v2ex.com/t/831791)
 - [【V2EX】win7-装了个-zerotier，删了腾讯安全管家，然后开机就黑屏，安全模式可以进](https://www.v2ex.com/t/831753)
-- [【V2EX】字节北/上/深/杭-字节跳动-Client-AI-团队招端智能算法工程师](https://www.v2ex.com/t/831750)
 - [【开发者头条】推荐-技术干货｜缓存一致性最佳实践](https://toutiao.io/k/zgmi04u)
 - [......【查看更多】......](./details/tags/browser.md)
 
@@ -296,6 +294,7 @@
 
 
 
+- [【V2EX】两步验证算法介绍与实现:-关于如何手写一个两步验证器的那点事](https://www.v2ex.com/t/831800)
 - [【V2EX】算法-4-中的均摊分析](https://www.v2ex.com/t/831774)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-02-03 01:53:03。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-03 02:05:14。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1732,6 +1732,7 @@
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2021-11-14-密码强度效果最佳实现一定是HTML-meter元素](https://www.zhangxinxu.com/wordpress/2021/11/html-meter-password/) 
 - [2021-11-02-见多识广，介绍Web开发中current开头的一些API属性](https://www.zhangxinxu.com/wordpress/2021/11/currentscript-currenttarget-currentsrc/) 
+- [2022-02-03-迫于公司要求，有没有将“产品标准”数字化的平台？](https://www.v2ex.com/t/831740) 
 - [2022-02-03-发现了一个宝藏级美股交易所，支持-usdt-出入金](https://www.v2ex.com/t/831739) 
 - [2022-02-03-日系凯美瑞、卡罗拉](https://www.v2ex.com/t/831738) 
 - [2022-02-03-各位大佬，想留个好看的胡子，该怎么操作合适？](https://www.v2ex.com/t/831737) 
@@ -1769,7 +1770,6 @@
 - [2022-02-02-区块链点评网站-web3.0](https://www.v2ex.com/t/831693) 
 - [2022-02-02-为何谷歌商店没有付费的-app？](https://www.v2ex.com/t/831692) 
 - [2022-02-02-元宇宙都要来了，为什么讨论区块链、以太坊的不多呢？](https://www.v2ex.com/t/831691) 
-- [2022-02-02-安装-win11&-Linux-双系统，在-Linux-分区时不太对劲，请帮忙看看](https://www.v2ex.com/t/831690) 
 - [2022-02-03-优质网站同好者周刊（第-050-期）-blog.nicelinks.site](https://blogread.cn/news/go.php?idItem=14918&url=https%3A%2F%2Fblog.nicelinks.site%2Fweekly-050%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-02-03-漫谈金丝雀部署-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14917&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fcanary-deployment%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-02-03-大公司病，太TM形象了！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14915&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493202%26amp%3Bidx%3D1%26amp%3Bsn%3De08d82d00cbbf2c8e79f3c18167cf3a7%26amp%3Bchksm%3Dfa3f0709cd488e1f1aef1ff3977c30095179293a65fef2658c28e6ea8af2d5cf243d3fd432e6%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1787,6 +1787,10 @@
 - [2022-02-03-2022-年别再焦虑啦！加入我们！](https://toutiao.io/k/obimloc) 
 - [2022-02-03-2022春节贺岁档电影开分，水门桥不理想，四海崩了！用Python一探究竟](https://toutiao.io/k/877cd6d) 
 - [2022-02-03-网易云音乐广告CTR预估模型演进过程](https://toutiao.io/k/ajdmqsp) 
+- [2022-02-03-Apache-Flink:-Stateful-Functions-3.2.0-发布!](https://toutiao.io/k/lkx0tzp) 
+- [2022-02-03-清华NLP实验室刘知远：如何写一篇合格的NLP论文](https://toutiao.io/k/0wn8cau) 
+- [2022-02-03-新年特辑2-Gwen为你读：《IF》节选](https://toutiao.io/k/bs1bykt) 
+- [2022-02-03-Tomcat-组成与工作原理总结](https://toutiao.io/k/tdvlczo) 
 - [2022-02-03-推荐-优惠券系统架构设计与实践](https://toutiao.io/k/q6yzp5j) 
 - [2022-02-03-推荐-Redis-很屌，不懂使用规范就糟蹋了](https://toutiao.io/k/lpnakbk) 
 - [2022-02-03-推荐-字节的分布式链路追踪实践，教科书式的搭建指南](https://toutiao.io/k/t6j66db) 

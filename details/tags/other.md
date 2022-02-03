@@ -1,14 +1,14 @@
-:alarm_clock: 更新时间: 2022-02-03 09:41:27。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-03 09:54:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
 
 
 
-- [2022-02-03-2月2日全国新增新冠39例-四省份本土21例](https://m.caixin.com/m/2022-02-03/101837368.html) 
+- [2022-02-03-最新疫情：全国新冠累计确诊106241例-累计接种新冠疫苗超30亿剂次](https://m.caixin.com/m/2022-02-03/101837465.html) 
+- [2022-02-03-最新海外疫情：新冠感染超3.84亿-累计接种新冠疫苗超101.03亿剂次](https://m.caixin.com/m/2022-02-03/101837469.html) 
 - [2022-02-03-世卫呼吁稳步缓慢“解封”，日本新增创新高｜大流行手记（2月2日）](https://m.caixin.com/m/2022-02-03/101837392.html) 
 - [2022-02-02-广东再现本土奥密克戎-五市共报告病例11个](https://m.caixin.com/m/2022-02-02/101837218.html) 
-- [2022-02-02-最新海外疫情：新冠感染近3.81亿-累计接种新冠疫苗超100.85亿剂次](https://m.caixin.com/m/2022-02-02/101837304.html) 
 - [2022-02-02-【境内疫情观察】全国新增36例本土病例（2月1日）](https://database.caixin.com/m/2022-02-02/101837319.html) 
 - [2022-02-02-美国FDA批准第二款mRNA疫苗-挪威取消大部分限制措施｜大流行手记（2月1日）](https://m.caixin.com/m/2022-02-02/101837258.html) 
 - [2022-02-01-聚焦｜张文宏：未来抗疫，是努力夺回正常生活的过程](https://opinion.caixin.com/m/2022-02-01/101837206.html) 
@@ -1733,6 +1733,7 @@
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2021-11-14-密码强度效果最佳实现一定是HTML-meter元素](https://www.zhangxinxu.com/wordpress/2021/11/html-meter-password/) 
 - [2021-11-02-见多识广，介绍Web开发中current开头的一些API属性](https://www.zhangxinxu.com/wordpress/2021/11/currentscript-currenttarget-currentsrc/) 
+- [2022-02-03-是否存在这样一种设备-/-方案（自建小型-NAS？）](https://www.v2ex.com/t/831783) 
 - [2022-02-03-滔博运动官方旗舰店，太恶心了](https://www.v2ex.com/t/831782) 
 - [2022-02-03-这大过年的，还有人在升级我无敌的墙？](https://www.v2ex.com/t/831781) 
 - [2022-02-03-入手-iPhone-，怎么选](https://www.v2ex.com/t/831780) 
@@ -1788,11 +1789,11 @@
 - [2022-02-03-Tomcat-组成与工作原理总结](https://toutiao.io/k/tdvlczo) 
 - [2022-02-03-2022春节贺岁档电影开分，水门桥不理想，四海崩了！用Python一探究竟](https://toutiao.io/k/877cd6d) 
 - [2022-02-03-网易云音乐广告CTR预估模型演进过程](https://toutiao.io/k/ajdmqsp) 
-- [2022-02-03-Apache-Flink:-Stateful-Functions-3.2.0-发布!](https://toutiao.io/k/lkx0tzp) 
 - [2022-02-03-Spring-Boot-使用的经典错误-找不到Bean了](https://toutiao.io/k/iedn9f7) 
-- [2022-02-03-清华NLP实验室刘知远：如何写一篇合格的NLP论文](https://toutiao.io/k/0wn8cau) 
+- [2022-02-03-Apache-Flink:-Stateful-Functions-3.2.0-发布!](https://toutiao.io/k/lkx0tzp) 
 - [2022-02-03-现代软件架构师的-10-个技巧](https://toutiao.io/k/7ormdqi) 
+- [2022-02-03-清华NLP实验室刘知远：如何写一篇合格的NLP论文](https://toutiao.io/k/0wn8cau) 
 - [2022-02-03-新年特辑2-Gwen为你读：《IF》节选](https://toutiao.io/k/bs1bykt) 
 - [2022-02-03-推荐-字节的分布式链路追踪实践，教科书式的搭建指南](https://toutiao.io/k/t6j66db) 
-- [2022-02-03-推荐-Redis-很屌，不懂使用规范就糟蹋了](https://toutiao.io/k/lpnakbk) 
 - [2022-02-03-推荐-优惠券系统架构设计与实践](https://toutiao.io/k/q6yzp5j) 
+- [2022-02-03-推荐-Redis-很屌，不懂使用规范就糟蹋了](https://toutiao.io/k/lpnakbk) 

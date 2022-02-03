@@ -9412,6 +9412,11 @@
         "date": "2022-02-03"
       },
       {
+        "title": "[推荐] 面试官问: 如何设计一个高并发系统?",
+        "link": "https://toutiao.io/k/7hrrplb",
+        "date": "2022-02-03"
+      },
+      {
         "title": "[推荐] 字节的分布式链路追踪实践，教科书式的搭建指南",
         "link": "https://toutiao.io/k/t6j66db",
         "date": "2022-02-03"
@@ -9419,11 +9424,6 @@
       {
         "title": "[推荐] 面试官问：设计高并发系统的时候，数据库层面该如何设计？",
         "link": "https://toutiao.io/k/p935kqr",
-        "date": "2022-02-03"
-      },
-      {
-        "title": "[推荐] 面试官问: 如何设计一个高并发系统?",
-        "link": "https://toutiao.io/k/7hrrplb",
         "date": "2022-02-03"
       }
     ]

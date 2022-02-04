@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-04 09:18:34，:rocket: 更新条数: +1836， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-04 09:37:09，:rocket: 更新条数: +1835， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -65,10 +65,9 @@
 </summary>
 
 
-- [2022-02-04-2月3日全国新增新冠29例-四省份本土12例](https://m.caixin.com/m/2022-02-04/101837560.html) ![](assets/new.png)  
+- [2022-02-04-最新海外疫情：新冠感染超3.87亿-累计接种新冠疫苗超101.27亿剂次](https://m.caixin.com/m/2022-02-04/101837639.html) ![](assets/new.png)  
 - [2022-02-04-首个新冠人类挑战试验带来重要发现-欧洲解封范围扩大｜大流行手记（2月3日）](https://m.caixin.com/m/2022-02-04/101837579.html) ![](assets/new.png)  
 - [2022-02-03-北京地坛医院1名医务人员确诊，为应急隔离区医生](https://m.caixin.com/m/2022-02-03/101837518.html) ![](assets/new.png)  
-- [2022-02-03-最新海外疫情：新冠感染超3.84亿-累计接种新冠疫苗超101.03亿剂次](https://m.caixin.com/m/2022-02-03/101837469.html) ![](assets/new.png)  
 - [2022-02-03-【境内疫情观察】全国新增21例本土病例（2月2日）](https://database.caixin.com/m/2022-02-03/101837478.html) ![](assets/new.png)  
 - [2022-02-03-世卫呼吁稳步缓慢“解封”，日本新增创新高｜大流行手记（2月2日）](https://m.caixin.com/m/2022-02-03/101837392.html) ![](assets/new.png)  
 - [2022-02-02-广东再现本土奥密克戎-五市共报告病例11个](https://m.caixin.com/m/2022-02-02/101837218.html) ![](assets/new.png)  
@@ -85,6 +84,7 @@
 - [2022-01-30-英格兰为5-11岁高风险儿童接种疫苗-俄罗斯日增10万例｜大流行手记（1月29日）](https://m.caixin.com/m/2022-01-30/101836760.html) ![](assets/new.png)  
 - [2022-01-30-研发方回应首款国产新冠mRNA疫苗发热问题：与限制用药有关](https://m.caixin.com/m/2022-01-30/101836836.html) ![](assets/new.png)  
 - [2022-01-29-国务院强调不得随意禁止外地群众返乡过年](https://m.caixin.com/m/2022-01-29/101836501.html) ![](assets/new.png)  
+- [2022-01-29-北京新增12例本土新冠确诊病例-涉及丰台、大兴、朝阳](https://m.caixin.com/m/2022-01-29/101836535.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -491,13 +491,14 @@
 </summary>
 
 
+- [2022-02-04-应届选手最后的春招该何去何从？](https://www.v2ex.com/t/831887) ![](assets/new.png)  
+- [2022-02-04-猫咪看到我发狂怎么办](https://www.v2ex.com/t/831886) ![](assets/new.png)  
 - [2022-02-04-RSS3-协议-v0.4.0-大冒险](https://www.v2ex.com/t/831885) ![](assets/new.png)  
 - [2022-02-04-有无可以调节安卓系统媒体音量的-app](https://www.v2ex.com/t/831883) ![](assets/new.png)  
 - [2022-02-04-上海落户相关问题请教](https://www.v2ex.com/t/831881) ![](assets/new.png)  
 - [2022-02-04-日经-大家怎么看待若饭，或者有无更合适的代餐推荐](https://www.v2ex.com/t/831880) ![](assets/new.png)  
 - [2022-02-04-有没有开发者做-Google-Play-或者-iOS-开发的，进来聊聊盈利机会和注意事项](https://www.v2ex.com/t/831879) ![](assets/new.png)  
 - [2022-02-04-Safari-的兼容性真的不行](https://www.v2ex.com/t/831878) ![](assets/new.png)  
-- [2022-02-04-有没网站是分享自己的他人的，聊天记录，对话记录。忘记附聊天记录在哪看见过了](https://www.v2ex.com/t/831877) ![](assets/new.png)  
 - [2022-02-04-Tinder-上面的-79-次赞有什么特殊含义吗](https://www.v2ex.com/t/831875) ![](assets/new.png)  
 - [2022-02-04-有个线下约谈大佬的-app-叫啥名字想不起来了？](https://www.v2ex.com/t/831874) ![](assets/new.png)  
 - [2022-02-04-华为工作到底行不行](https://www.v2ex.com/t/831873) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-02-04-用时间轴展示中国互联网发展大事记](https://www.v2ex.com/t/831862) ![](assets/new.png)  
 - [2022-02-04-Github-Issues-与博客的（又）一个思路](https://www.v2ex.com/t/831861) ![](assets/new.png)  
 - [2022-02-04-Pixaki](https://www.v2ex.com/t/831860) ![](assets/new.png)  
-- [2022-02-04-暂时玩不动了，老谭们谁去继续帮忙推动一下？](https://www.v2ex.com/t/831858) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -563,10 +563,10 @@
 - [2022-02-04-低代码：有点毒瘤，但管用就好](https://toutiao.io/k/9fly7qs) ![](assets/new.png)  
 - [2022-02-04-作为研发Leader，如何做总结](https://toutiao.io/k/1g7flto) ![](assets/new.png)  
 - [2022-02-04-从-IaC-到-IaD](https://toutiao.io/k/e1ty4o4) ![](assets/new.png)  
-- [2022-02-04-推荐-面试官问：设计高并发系统的时候，数据库层面该如何设计？](https://toutiao.io/k/p935kqr) ![](assets/new.png)  
-- [2022-02-04-推荐-面试官问:-如何设计一个高并发系统?](https://toutiao.io/k/7hrrplb) ![](assets/new.png)  
 - [2022-02-04-推荐-技术干货｜缓存一致性最佳实践](https://toutiao.io/k/zgmi04u) ![](assets/new.png)  
+- [2022-02-04-推荐-面试官问：设计高并发系统的时候，数据库层面该如何设计？](https://toutiao.io/k/p935kqr) ![](assets/new.png)  
 - [2022-02-04-推荐-字节的分布式链路追踪实践，教科书式的搭建指南](https://toutiao.io/k/t6j66db) ![](assets/new.png)  
+- [2022-02-04-推荐-面试官问:-如何设计一个高并发系统?](https://toutiao.io/k/7hrrplb) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

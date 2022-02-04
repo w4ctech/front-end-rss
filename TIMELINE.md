@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-02-04 03:39:13。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-02-04 03:54:47。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -80,6 +80,7 @@
 - [【武汉肺炎防疫全纪录(财新网)】2022-02-01-聚焦｜张文宏：未来抗疫，是努力夺回正常生活的过程](https://opinion.caixin.com/m/2022-02-01/101837206.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2022-02-01-【境内疫情观察】全国累计接种新冠疫苗逾30亿剂次（1月31日）](https://database.caixin.com/m/2022-02-01/101837162.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2022-02-01-德国未实现接种目标-奥地利强制接种疫苗法律生效｜大流行手记（1月31日）](https://m.caixin.com/m/2022-02-01/101837106.html) 
+- [【V2EX】2022-02-04-何同学的最新视频貌似翻车了-大家怎么看](https://www.v2ex.com/t/831851) 
 - [【V2EX】2022-02-04-GV-已绑定真实手机号且获取了-GV-号码的情况下，能否删掉重新选号而不需要再次验证手机？](https://www.v2ex.com/t/831850) 
 - [【V2EX】2022-02-04-明明公司-21-年数据很好看，年终却砍一半，求分析](https://www.v2ex.com/t/831847) 
 - [【V2EX】2022-02-04-谁能解释一下这段代码为什么在别的浏览器能工作但在-Safari-下不能工作吗？太离奇了](https://www.v2ex.com/t/831846) 
@@ -119,7 +120,6 @@
 - [【V2EX】2022-02-03-微博共享黑名单，一键拉黑](https://www.v2ex.com/t/831805) 
 - [【V2EX】2022-02-03-cloudflare-支持针对子域名单独开-5-秒盾吗？](https://www.v2ex.com/t/831804) 
 - [【V2EX】2022-02-03-求个好用的手机拼图软件](https://www.v2ex.com/t/831803) 
-- [【V2EX】2022-02-03-有没有可能把两台笔记本算力集中起来](https://www.v2ex.com/t/831801) 
 - [【技术头条】2022-02-04-Mac-终端下-实现-安装-ipa-包到-iPhone-真机-droidyue.com](https://blogread.cn/news/go.php?idItem=14922&url=https%3A%2F%2Fdroidyue.com%2Fblog%2F2022%2F01%2F03%2Fhow-to-install-ipa-on-iphone-in-terminal%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-02-04-ECS-中同类关联数据的处理-blog.codingnow.com](https://blogread.cn/news/go.php?idItem=14921&url=https%3A%2F%2Fblog.codingnow.com%2F2021%2F11%2Frelated_components.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-02-04-你不知道的CSS-media查询与用户体验-www.zhangxinxu.com](https://blogread.cn/news/go.php?idItem=14920&url=https%3A%2F%2Fwww.zhangxinxu.com%2Fwordpress%2F2021%2F12%2Fcss-meida-user-experience%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

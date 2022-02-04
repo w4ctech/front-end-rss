@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-04 01:46:04，:rocket: 更新条数: +1838， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-04 01:57:08，:rocket: 更新条数: +1838， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -559,9 +559,9 @@
 - [2022-02-04-喜迎虎年｜开源正当时！](https://toutiao.io/k/oya5qqf) ![](assets/new.png)  
 - [2022-02-04-【机器学习基础】一文带你用sklearn做特征工程](https://toutiao.io/k/7w3yd9n) ![](assets/new.png)  
 - [2022-02-04-推荐-面试官问:-如何设计一个高并发系统?](https://toutiao.io/k/7hrrplb) ![](assets/new.png)  
+- [2022-02-04-推荐-字节的分布式链路追踪实践，教科书式的搭建指南](https://toutiao.io/k/t6j66db) ![](assets/new.png)  
 - [2022-02-04-推荐-技术干货｜缓存一致性最佳实践](https://toutiao.io/k/zgmi04u) ![](assets/new.png)  
 - [2022-02-04-推荐-面试官问：设计高并发系统的时候，数据库层面该如何设计？](https://toutiao.io/k/p935kqr) ![](assets/new.png)  
-- [2022-02-04-推荐-字节的分布式链路追踪实践，教科书式的搭建指南](https://toutiao.io/k/t6j66db) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

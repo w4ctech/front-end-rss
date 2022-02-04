@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-04 03:18:37，:rocket: 更新条数: +1839， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-04 03:36:18，:rocket: 更新条数: +1839， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-02-04-GV-已绑定真实手机号且获取了-GV-号码的情况下，能否删掉重新选号而不需要再次验证手机？](https://www.v2ex.com/t/831850) ![](assets/new.png)  
 - [2022-02-04-明明公司-21-年数据很好看，年终却砍一半，求分析](https://www.v2ex.com/t/831847) ![](assets/new.png)  
 - [2022-02-04-谁能解释一下这段代码为什么在别的浏览器能工作但在-Safari-下不能工作吗？太离奇了](https://www.v2ex.com/t/831846) ![](assets/new.png)  
 - [2022-02-04-NTFS3-性能真强](https://www.v2ex.com/t/831844) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-02-03-桌上置物架有什么好选项么](https://www.v2ex.com/t/831827) ![](assets/new.png)  
 - [2022-02-03-关于-iPhone-SE3](https://www.v2ex.com/t/831826) ![](assets/new.png)  
 - [2022-02-03-记一次-mbp2021-14“故障及送修过程](https://www.v2ex.com/t/831825) ![](assets/new.png)  
-- [2022-02-03-有屏蔽-YouTube-内容农场的方法吗？](https://www.v2ex.com/t/831824) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -562,9 +562,9 @@
 - [2022-02-04-低代码：有点毒瘤，但管用就好](https://toutiao.io/k/9fly7qs) ![](assets/new.png)  
 - [2022-02-04-一次Web探测服务器技术学习总结](https://toutiao.io/k/uitbwhp) ![](assets/new.png)  
 - [2022-02-04-推荐-面试官问：设计高并发系统的时候，数据库层面该如何设计？](https://toutiao.io/k/p935kqr) ![](assets/new.png)  
-- [2022-02-04-推荐-技术干货｜缓存一致性最佳实践](https://toutiao.io/k/zgmi04u) ![](assets/new.png)  
 - [2022-02-04-推荐-字节的分布式链路追踪实践，教科书式的搭建指南](https://toutiao.io/k/t6j66db) ![](assets/new.png)  
 - [2022-02-04-推荐-面试官问:-如何设计一个高并发系统?](https://toutiao.io/k/7hrrplb) ![](assets/new.png)  
+- [2022-02-04-推荐-技术干货｜缓存一致性最佳实践](https://toutiao.io/k/zgmi04u) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

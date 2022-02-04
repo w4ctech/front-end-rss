@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-04 12:27:32，:rocket: 更新条数: +1838， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-04 12:46:31，:rocket: 更新条数: +1838， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,9 @@
 </summary>
 
 
+- [2022-02-04-Java-关于多平台接入-Java-设计模式问题](https://www.v2ex.com/t/831902) ![](assets/new.png)  
+- [2022-02-04-最近几年的喜剧题材作品是不是质量下降了](https://www.v2ex.com/t/831901) ![](assets/new.png)  
+- [2022-02-04-好苦恼，我女朋友哪儿都好，就是](https://www.v2ex.com/t/831900) ![](assets/new.png)  
 - [2022-02-04-Cmd+轻触失灵可能是硬件问题](https://www.v2ex.com/t/831899) ![](assets/new.png)  
 - [2022-02-04-怎么判断一个公司的基础架构水平](https://www.v2ex.com/t/831898) ![](assets/new.png)  
 - [2022-02-04-丢币了,心情复杂](https://www.v2ex.com/t/831896) ![](assets/new.png)  
@@ -508,9 +511,6 @@
 - [2022-02-04-日经-大家怎么看待若饭，或者有无更合适的代餐推荐](https://www.v2ex.com/t/831880) ![](assets/new.png)  
 - [2022-02-04-有没有开发者做-Google-Play-或者-iOS-开发的，进来聊聊盈利机会和注意事项](https://www.v2ex.com/t/831879) ![](assets/new.png)  
 - [2022-02-04-Safari-的兼容性真的不行](https://www.v2ex.com/t/831878) ![](assets/new.png)  
-- [2022-02-04-Tinder-上面的-79-次赞有什么特殊含义吗](https://www.v2ex.com/t/831875) ![](assets/new.png)  
-- [2022-02-04-有个线下约谈大佬的-app-叫啥名字想不起来了？](https://www.v2ex.com/t/831874) ![](assets/new.png)  
-- [2022-02-04-华为工作到底行不行](https://www.v2ex.com/t/831873) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -559,14 +559,14 @@
 - [2022-02-04-喜迎虎年｜开源正当时！](https://toutiao.io/k/oya5qqf) ![](assets/new.png)  
 - [2022-02-04-【机器学习基础】一文带你用sklearn做特征工程](https://toutiao.io/k/7w3yd9n) ![](assets/new.png)  
 - [2022-02-04-低代码：有点毒瘤，但管用就好](https://toutiao.io/k/9fly7qs) ![](assets/new.png)  
-- [2022-02-04-一次Web探测服务器技术学习总结](https://toutiao.io/k/uitbwhp) ![](assets/new.png)  
 - [2022-02-04-作为研发Leader，如何做总结](https://toutiao.io/k/1g7flto) ![](assets/new.png)  
+- [2022-02-04-一次Web探测服务器技术学习总结](https://toutiao.io/k/uitbwhp) ![](assets/new.png)  
 - [2022-02-04-聊聊-BI-的黑武器-——-分仓分库、前置仓，大型集团-BI-数据架构规划思路](https://toutiao.io/k/vcrbn6q) ![](assets/new.png)  
 - [2022-02-04-从-IaC-到-IaD](https://toutiao.io/k/e1ty4o4) ![](assets/new.png)  
 - [2022-02-04-推荐-字节的分布式链路追踪实践，教科书式的搭建指南](https://toutiao.io/k/t6j66db) ![](assets/new.png)  
+- [2022-02-04-推荐-面试官问:-如何设计一个高并发系统?](https://toutiao.io/k/7hrrplb) ![](assets/new.png)  
 - [2022-02-04-推荐-面试官问：设计高并发系统的时候，数据库层面该如何设计？](https://toutiao.io/k/p935kqr) ![](assets/new.png)  
 - [2022-02-04-推荐-技术干货｜缓存一致性最佳实践](https://toutiao.io/k/zgmi04u) ![](assets/new.png)  
-- [2022-02-04-推荐-面试官问:-如何设计一个高并发系统?](https://toutiao.io/k/7hrrplb) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -9063,6 +9063,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "新手，最近刚接触 Linux 类操作系统，想请问下 Linux 有没有软件下载站或者查询站",
+        "link": "https://www.v2ex.com/t/831905",
+        "date": "2022-02-04"
+      },
+      {
         "title": "老谋子审美确实在线的。",
         "link": "https://www.v2ex.com/t/831904",
         "date": "2022-02-04"
@@ -9241,11 +9246,6 @@
         "title": "中国电信 CN2 专属 IPV6 公共 DNS！？",
         "link": "https://www.v2ex.com/t/831856",
         "date": "2022-02-04"
-      },
-      {
-        "title": "[上海/远程] 海外闲置物品交易平台招聘 golang/flutter",
-        "link": "https://www.v2ex.com/t/831855",
-        "date": "2022-02-04"
       }
     ]
   },
@@ -9412,13 +9412,13 @@
         "date": "2022-02-04"
       },
       {
-        "title": "[推荐] 面试官问: 如何设计一个高并发系统?",
-        "link": "https://toutiao.io/k/7hrrplb",
+        "title": "[推荐] 字节的分布式链路追踪实践，教科书式的搭建指南",
+        "link": "https://toutiao.io/k/t6j66db",
         "date": "2022-02-04"
       },
       {
-        "title": "[推荐] 字节的分布式链路追踪实践，教科书式的搭建指南",
-        "link": "https://toutiao.io/k/t6j66db",
+        "title": "[推荐] 面试官问：设计高并发系统的时候，数据库层面该如何设计？",
+        "link": "https://toutiao.io/k/p935kqr",
         "date": "2022-02-04"
       },
       {
@@ -9427,8 +9427,8 @@
         "date": "2022-02-04"
       },
       {
-        "title": "[推荐] 面试官问：设计高并发系统的时候，数据库层面该如何设计？",
-        "link": "https://toutiao.io/k/p935kqr",
+        "title": "[推荐] 面试官问: 如何设计一个高并发系统?",
+        "link": "https://toutiao.io/k/7hrrplb",
         "date": "2022-02-04"
       }
     ]

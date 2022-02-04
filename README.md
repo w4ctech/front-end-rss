@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-04 08:12:31，:rocket: 更新条数: +1837， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-04 08:20:53，:rocket: 更新条数: +1837， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-02-04-Safari-的兼容性真的不行](https://www.v2ex.com/t/831878) ![](assets/new.png)  
+- [2022-02-04-有没网站是分享自己的他人的，聊天记录，对话记录。忘记附聊天记录在哪看见过了](https://www.v2ex.com/t/831877) ![](assets/new.png)  
 - [2022-02-04-Tinder-上面的-79-次赞有什么特殊含义吗](https://www.v2ex.com/t/831875) ![](assets/new.png)  
 - [2022-02-04-有个线下约谈大佬的-app-叫啥名字想不起来了？](https://www.v2ex.com/t/831874) ![](assets/new.png)  
 - [2022-02-04-华为工作到底行不行](https://www.v2ex.com/t/831873) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-02-04-上海/远程-海外闲置物品交易平台招聘-golang/flutter](https://www.v2ex.com/t/831855) ![](assets/new.png)  
 - [2022-02-04-深圳-拥抱全球数据文化.招聘数据开发-or-分析工程师Analytics-engineer](https://www.v2ex.com/t/831853) ![](assets/new.png)  
 - [2022-02-04-操作系统无法唤醒](https://www.v2ex.com/t/831852) ![](assets/new.png)  
-- [2022-02-04-GV-已绑定真实手机号且获取了-GV-号码的情况下，能否删掉重新选号而不需要再次验证手机？](https://www.v2ex.com/t/831850) ![](assets/new.png)  
-- [2022-02-04-明明公司-21-年数据很好看，年终却砍一半，求分析](https://www.v2ex.com/t/831847) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

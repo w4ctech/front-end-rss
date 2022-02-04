@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-02-04 08:39:47。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-02-04 08:54:35。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -80,6 +80,9 @@
 - [【武汉肺炎防疫全纪录(财新网)】2022-02-01-聚焦｜张文宏：未来抗疫，是努力夺回正常生活的过程](https://opinion.caixin.com/m/2022-02-01/101837206.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2022-02-01-【境内疫情观察】全国累计接种新冠疫苗逾30亿剂次（1月31日）](https://database.caixin.com/m/2022-02-01/101837162.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2022-02-01-德国未实现接种目标-奥地利强制接种疫苗法律生效｜大流行手记（1月31日）](https://m.caixin.com/m/2022-02-01/101837106.html) 
+- [【张鑫旭-鑫空间-鑫生活】2022-02-04-HTML-inputmode与iOS-Android软键盘类型测试](https://www.zhangxinxu.com/wordpress/2022/02/html-inputmode-keyboard/) 
+- [【V2EX】2022-02-04-上海落户相关问题请教](https://www.v2ex.com/t/831881) 
+- [【V2EX】2022-02-04-日经-大家怎么看待若饭，或者有无更合适的代餐推荐](https://www.v2ex.com/t/831880) 
 - [【V2EX】2022-02-04-有没有开发者做-Google-Play-或者-iOS-开发的，进来聊聊盈利机会和注意事项](https://www.v2ex.com/t/831879) 
 - [【V2EX】2022-02-04-Safari-的兼容性真的不行](https://www.v2ex.com/t/831878) 
 - [【V2EX】2022-02-04-有没网站是分享自己的他人的，聊天记录，对话记录。忘记附聊天记录在哪看见过了](https://www.v2ex.com/t/831877) 
@@ -113,9 +116,6 @@
 - [【V2EX】2022-02-04-求职远程-PHP-职位-转其它语言也可。-Java-go-Rust](https://www.v2ex.com/t/831837) 
 - [【V2EX】2022-02-04-内推.社招.算法工程师-20-45k-杭州-观远数据](https://www.v2ex.com/t/831835) 
 - [【V2EX】2022-02-03-surface-pro-4-不识别自己的屏幕](https://www.v2ex.com/t/831833) 
-- [【V2EX】2022-02-03-单指可以缩放-google-maps？不会的进来学习下](https://www.v2ex.com/t/831832) 
-- [【V2EX】2022-02-03-程序员肉翻德国-FAQ](https://www.v2ex.com/t/831831) 
-- [【V2EX】2022-02-03-请问电信光猫不给-IPv6-地址能投诉解决吗](https://www.v2ex.com/t/831830) 
 - [【技术头条】2022-02-04-Mac-终端下-实现-安装-ipa-包到-iPhone-真机-droidyue.com](https://blogread.cn/news/go.php?idItem=14922&url=https%3A%2F%2Fdroidyue.com%2Fblog%2F2022%2F01%2F03%2Fhow-to-install-ipa-on-iphone-in-terminal%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-02-04-ECS-中同类关联数据的处理-blog.codingnow.com](https://blogread.cn/news/go.php?idItem=14921&url=https%3A%2F%2Fblog.codingnow.com%2F2021%2F11%2Frelated_components.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-02-04-你不知道的CSS-media查询与用户体验-www.zhangxinxu.com](https://blogread.cn/news/go.php?idItem=14920&url=https%3A%2F%2Fwww.zhangxinxu.com%2Fwordpress%2F2021%2F12%2Fcss-meida-user-experience%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -146,10 +146,10 @@
 - [【开发者头条】2022-02-04-低代码：有点毒瘤，但管用就好](https://toutiao.io/k/9fly7qs) 
 - [【开发者头条】2022-02-04-作为研发Leader，如何做总结](https://toutiao.io/k/1g7flto) 
 - [【开发者头条】2022-02-04-从-IaC-到-IaD](https://toutiao.io/k/e1ty4o4) 
-- [【开发者头条】2022-02-04-推荐-技术干货｜缓存一致性最佳实践](https://toutiao.io/k/zgmi04u) 
 - [【开发者头条】2022-02-04-推荐-字节的分布式链路追踪实践，教科书式的搭建指南](https://toutiao.io/k/t6j66db) 
 - [【开发者头条】2022-02-04-推荐-面试官问：设计高并发系统的时候，数据库层面该如何设计？](https://toutiao.io/k/p935kqr) 
 - [【开发者头条】2022-02-04-推荐-面试官问:-如何设计一个高并发系统?](https://toutiao.io/k/7hrrplb) 
+- [【开发者头条】2022-02-04-推荐-技术干货｜缓存一致性最佳实践](https://toutiao.io/k/zgmi04u) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>
@@ -639,7 +639,6 @@
 - [【武汉肺炎防疫全纪录(财新网)】2021-11-01-【图集】上海迪士尼乐园因疫情影响闭园](https://photos.caixin.com/m/2021-11-01/101794371.html) 
 - [【张鑫旭-鑫空间-鑫生活】2021-11-23-从js-visibilitychange-Safari下无效说开去](https://www.zhangxinxu.com/wordpress/2021/11/js-visibilitychange-pagehide-lifecycle/) 
 - [【张鑫旭-鑫空间-鑫生活】2021-11-14-密码强度效果最佳实现一定是HTML-meter元素](https://www.zhangxinxu.com/wordpress/2021/11/html-meter-password/) 
-- [【张鑫旭-鑫空间-鑫生活】2021-11-02-见多识广，介绍Web开发中current开头的一些API属性](https://www.zhangxinxu.com/wordpress/2021/11/currentscript-currenttarget-currentsrc/) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

@@ -8917,6 +8917,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "HTML inputmode与iOS Android软键盘类型测试",
+        "link": "https://www.zhangxinxu.com/wordpress/2022/02/html-inputmode-keyboard/",
+        "date": "2022-02-04"
+      },
+      {
         "title": "CSS background背景图标的变色技巧",
         "link": "https://www.zhangxinxu.com/wordpress/2022/01/css-background-image-color/",
         "date": "2022-01-31"
@@ -8960,11 +8965,6 @@
         "title": "密码强度效果最佳实现一定是HTML meter元素",
         "link": "https://www.zhangxinxu.com/wordpress/2021/11/html-meter-password/",
         "date": "2021-11-14"
-      },
-      {
-        "title": "见多识广，介绍Web开发中current开头的一些API属性",
-        "link": "https://www.zhangxinxu.com/wordpress/2021/11/currentscript-currenttarget-currentsrc/",
-        "date": "2021-11-02"
       }
     ]
   },
@@ -9057,6 +9057,16 @@
     "title": "V2EX",
     "link": "https://www.v2ex.com/",
     "items": [
+      {
+        "title": "上海落户相关问题请教",
+        "link": "https://www.v2ex.com/t/831881",
+        "date": "2022-02-04"
+      },
+      {
+        "title": "[日经] 大家怎么看待若饭，或者有无更合适的代餐推荐",
+        "link": "https://www.v2ex.com/t/831880",
+        "date": "2022-02-04"
+      },
       {
         "title": "有没有开发者做 Google Play 或者 iOS 开发的，进来聊聊盈利机会和注意事项",
         "link": "https://www.v2ex.com/t/831879",
@@ -9220,21 +9230,6 @@
       {
         "title": "surface pro 4 不识别自己的屏幕",
         "link": "https://www.v2ex.com/t/831833",
-        "date": "2022-02-03"
-      },
-      {
-        "title": "单指可以缩放 google maps？不会的进来学习下",
-        "link": "https://www.v2ex.com/t/831832",
-        "date": "2022-02-03"
-      },
-      {
-        "title": "程序员肉翻德国 FAQ",
-        "link": "https://www.v2ex.com/t/831831",
-        "date": "2022-02-03"
-      },
-      {
-        "title": "请问电信光猫不给 IPv6 地址能投诉解决吗",
-        "link": "https://www.v2ex.com/t/831830",
         "date": "2022-02-03"
       }
     ]
@@ -9402,11 +9397,6 @@
         "date": "2022-02-04"
       },
       {
-        "title": "[推荐] 技术干货｜缓存一致性最佳实践",
-        "link": "https://toutiao.io/k/zgmi04u",
-        "date": "2022-02-04"
-      },
-      {
         "title": "[推荐] 字节的分布式链路追踪实践，教科书式的搭建指南",
         "link": "https://toutiao.io/k/t6j66db",
         "date": "2022-02-04"
@@ -9419,6 +9409,11 @@
       {
         "title": "[推荐] 面试官问: 如何设计一个高并发系统?",
         "link": "https://toutiao.io/k/7hrrplb",
+        "date": "2022-02-04"
+      },
+      {
+        "title": "[推荐] 技术干货｜缓存一致性最佳实践",
+        "link": "https://toutiao.io/k/zgmi04u",
         "date": "2022-02-04"
       }
     ]

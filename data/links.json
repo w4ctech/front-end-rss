@@ -5,9 +5,9 @@
     "link": "http://m.app.caixin.com/m_topic_detail/1473.html",
     "items": [
       {
-        "title": "最新疫情：全国新冠累计确诊106241例 累计接种新冠疫苗超30亿剂次",
-        "link": "https://m.caixin.com/m/2022-02-03/101837465.html",
-        "date": "2022-02-03"
+        "title": "2月3日全国新增新冠29例 四省份本土12例",
+        "link": "https://m.caixin.com/m/2022-02-04/101837560.html",
+        "date": "2022-02-04"
       },
       {
         "title": "北京地坛医院1名医务人员确诊，为应急隔离区医生",
@@ -9053,6 +9053,21 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "用不上 IPv6，救救我。",
+        "link": "https://www.v2ex.com/t/831839",
+        "date": "2022-02-04"
+      },
+      {
+        "title": "研二找实习，恳请各位大佬帮忙看看简历",
+        "link": "https://www.v2ex.com/t/831838",
+        "date": "2022-02-04"
+      },
+      {
+        "title": "求职远程 PHP 职位 转其它语言也可。 Java go Rust",
+        "link": "https://www.v2ex.com/t/831837",
+        "date": "2022-02-04"
+      },
+      {
         "title": "[内推.社招.算法工程师 20-45k] 杭州 观远数据",
         "link": "https://www.v2ex.com/t/831835",
         "date": "2022-02-04"
@@ -9251,21 +9266,6 @@
         "title": "过年随想",
         "link": "https://www.v2ex.com/t/831790",
         "date": "2022-02-03"
-      },
-      {
-        "title": "开了 Surge Mac 或 Clash X Pro 的增强模式，所有 DNS 查询返回 Fake IP， Terminal 想 Ping 些域名看延迟，需要怎么设置啊",
-        "link": "https://www.v2ex.com/t/831789",
-        "date": "2022-02-03"
-      },
-      {
-        "title": "请问如果有同邮箱的两台 iPhone 放不同号码，是不是所有 iOS/Mac 设备都能同时接受这两个号码和该邮箱的 iMessage？",
-        "link": "https://www.v2ex.com/t/831788",
-        "date": "2022-02-03"
-      },
-      {
-        "title": "家人的爱是怎样？",
-        "link": "https://www.v2ex.com/t/831787",
-        "date": "2022-02-03"
       }
     ]
   },
@@ -9407,6 +9407,11 @@
         "date": "2022-02-04"
       },
       {
+        "title": "[推荐] 面试官问: 如何设计一个高并发系统?",
+        "link": "https://toutiao.io/k/7hrrplb",
+        "date": "2022-02-04"
+      },
+      {
         "title": "[推荐] 技术干货｜缓存一致性最佳实践",
         "link": "https://toutiao.io/k/zgmi04u",
         "date": "2022-02-04"
@@ -9414,11 +9419,6 @@
       {
         "title": "[推荐] 面试官问：设计高并发系统的时候，数据库层面该如何设计？",
         "link": "https://toutiao.io/k/p935kqr",
-        "date": "2022-02-04"
-      },
-      {
-        "title": "[推荐] 面试官问: 如何设计一个高并发系统?",
-        "link": "https://toutiao.io/k/7hrrplb",
         "date": "2022-02-04"
       },
       {

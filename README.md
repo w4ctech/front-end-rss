@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-04 01:07:15，:rocket: 更新条数: +1838， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-04 01:46:04，:rocket: 更新条数: +1838， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -65,7 +65,7 @@
 </summary>
 
 
-- [2022-02-03-最新疫情：全国新冠累计确诊106241例-累计接种新冠疫苗超30亿剂次](https://m.caixin.com/m/2022-02-03/101837465.html) ![](assets/new.png)  
+- [2022-02-04-2月3日全国新增新冠29例-四省份本土12例](https://m.caixin.com/m/2022-02-04/101837560.html) ![](assets/new.png)  
 - [2022-02-03-北京地坛医院1名医务人员确诊，为应急隔离区医生](https://m.caixin.com/m/2022-02-03/101837518.html) ![](assets/new.png)  
 - [2022-02-03-最新海外疫情：新冠感染超3.84亿-累计接种新冠疫苗超101.03亿剂次](https://m.caixin.com/m/2022-02-03/101837469.html) ![](assets/new.png)  
 - [2022-02-03-【境内疫情观察】全国新增21例本土病例（2月2日）](https://database.caixin.com/m/2022-02-03/101837478.html) ![](assets/new.png)  
@@ -491,6 +491,9 @@
 </summary>
 
 
+- [2022-02-04-用不上-IPv6，救救我。](https://www.v2ex.com/t/831839) ![](assets/new.png)  
+- [2022-02-04-研二找实习，恳请各位大佬帮忙看看简历](https://www.v2ex.com/t/831838) ![](assets/new.png)  
+- [2022-02-04-求职远程-PHP-职位-转其它语言也可。-Java-go-Rust](https://www.v2ex.com/t/831837) ![](assets/new.png)  
 - [2022-02-04-内推.社招.算法工程师-20-45k-杭州-观远数据](https://www.v2ex.com/t/831835) ![](assets/new.png)  
 - [2022-02-03-surface-pro-4-不识别自己的屏幕](https://www.v2ex.com/t/831833) ![](assets/new.png)  
 - [2022-02-03-单指可以缩放-google-maps？不会的进来学习下](https://www.v2ex.com/t/831832) ![](assets/new.png)  
@@ -508,9 +511,6 @@
 - [2022-02-03-有没有第三方工具可以查看-won-日志？](https://www.v2ex.com/t/831819) ![](assets/new.png)  
 - [2022-02-03-使用.local-域名访问-Samba-的速度问题](https://www.v2ex.com/t/831818) ![](assets/new.png)  
 - [2022-02-03-搭了个-blog，现在有五篇文章了，欢迎大佬来玩](https://www.v2ex.com/t/831817) ![](assets/new.png)  
-- [2022-02-03-求助！如何恢复微信聊天记录](https://www.v2ex.com/t/831816) ![](assets/new.png)  
-- [2022-02-03-如何评价《TCP/IP-详解-卷-1：协议（第二版）》？](https://www.v2ex.com/t/831815) ![](assets/new.png)  
-- [2022-02-03-帮忙推荐下路由](https://www.v2ex.com/t/831814) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -558,9 +558,9 @@
 - [2022-02-04-浏览器中的音视频知识总结（工作中需要和视频打交道必看！](https://toutiao.io/k/7ayveb7) ![](assets/new.png)  
 - [2022-02-04-喜迎虎年｜开源正当时！](https://toutiao.io/k/oya5qqf) ![](assets/new.png)  
 - [2022-02-04-【机器学习基础】一文带你用sklearn做特征工程](https://toutiao.io/k/7w3yd9n) ![](assets/new.png)  
+- [2022-02-04-推荐-面试官问:-如何设计一个高并发系统?](https://toutiao.io/k/7hrrplb) ![](assets/new.png)  
 - [2022-02-04-推荐-技术干货｜缓存一致性最佳实践](https://toutiao.io/k/zgmi04u) ![](assets/new.png)  
 - [2022-02-04-推荐-面试官问：设计高并发系统的时候，数据库层面该如何设计？](https://toutiao.io/k/p935kqr) ![](assets/new.png)  
-- [2022-02-04-推荐-面试官问:-如何设计一个高并发系统?](https://toutiao.io/k/7hrrplb) ![](assets/new.png)  
 - [2022-02-04-推荐-字节的分布式链路追踪实践，教科书式的搭建指南](https://toutiao.io/k/t6j66db) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

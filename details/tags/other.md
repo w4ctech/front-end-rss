@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-02-04 05:54:36。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-04 06:12:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1736,6 +1736,7 @@
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2021-11-14-密码强度效果最佳实现一定是HTML-meter元素](https://www.zhangxinxu.com/wordpress/2021/11/html-meter-password/) 
 - [2021-11-02-见多识广，介绍Web开发中current开头的一些API属性](https://www.zhangxinxu.com/wordpress/2021/11/currentscript-currenttarget-currentsrc/) 
+- [2022-02-04-合肥-Java-Nyquist-Data-WLB+双休+带薪年假](https://www.v2ex.com/t/831865) 
 - [2022-02-04-用时间轴展示中国互联网发展大事记](https://www.v2ex.com/t/831862) 
 - [2022-02-04-Pixaki](https://www.v2ex.com/t/831860) 
 - [2022-02-04-暂时玩不动了，老谭们谁去继续帮忙推动一下？](https://www.v2ex.com/t/831858) 
@@ -1759,15 +1760,12 @@
 - [2022-02-03-桌上置物架有什么好选项么](https://www.v2ex.com/t/831827) 
 - [2022-02-03-关于-iPhone-SE3](https://www.v2ex.com/t/831826) 
 - [2022-02-03-记一次-mbp2021-14“故障及送修过程](https://www.v2ex.com/t/831825) 
-- [2022-02-03-有屏蔽-YouTube-内容农场的方法吗？](https://www.v2ex.com/t/831824) 
 - [2022-02-03-安装-manjaro-gnome：这是缺少引导文件吗？](https://www.v2ex.com/t/831823) 
 - [2022-02-03-🐶-goal-的用户认证（Auth）模块完成，离生产环境又双叒叕近了一步！](https://www.v2ex.com/t/831820) 
 - [2022-02-03-有没有第三方工具可以查看-won-日志？](https://www.v2ex.com/t/831819) 
 - [2022-02-03-使用.local-域名访问-Samba-的速度问题](https://www.v2ex.com/t/831818) 
 - [2022-02-03-搭了个-blog，现在有五篇文章了，欢迎大佬来玩](https://www.v2ex.com/t/831817) 
 - [2022-02-03-求助！如何恢复微信聊天记录](https://www.v2ex.com/t/831816) 
-- [2022-02-03-如何评价《TCP/IP-详解-卷-1：协议（第二版）》？](https://www.v2ex.com/t/831815) 
-- [2022-02-03-SSH-端口转发给我看迷糊了](https://www.v2ex.com/t/831813) 
 - [2022-02-04-Mac-终端下-实现-安装-ipa-包到-iPhone-真机-droidyue.com](https://blogread.cn/news/go.php?idItem=14922&url=https%3A%2F%2Fdroidyue.com%2Fblog%2F2022%2F01%2F03%2Fhow-to-install-ipa-on-iphone-in-terminal%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-02-04-ECS-中同类关联数据的处理-blog.codingnow.com](https://blogread.cn/news/go.php?idItem=14921&url=https%3A%2F%2Fblog.codingnow.com%2F2021%2F11%2Frelated_components.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-02-04-优质网站同好者周刊（第-050-期）-blog.nicelinks.site](https://blogread.cn/news/go.php?idItem=14918&url=https%3A%2F%2Fblog.nicelinks.site%2Fweekly-050%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1790,4 +1788,6 @@
 - [2022-02-04-聊聊-BI-的黑武器-——-分仓分库、前置仓，大型集团-BI-数据架构规划思路](https://toutiao.io/k/vcrbn6q) 
 - [2022-02-04-一次Web探测服务器技术学习总结](https://toutiao.io/k/uitbwhp) 
 - [2022-02-04-低代码：有点毒瘤，但管用就好](https://toutiao.io/k/9fly7qs) 
+- [2022-02-04-从-IaC-到-IaD](https://toutiao.io/k/e1ty4o4) 
+- [2022-02-04-作为研发Leader，如何做总结](https://toutiao.io/k/1g7flto) 
 - [2022-02-04-推荐-字节的分布式链路追踪实践，教科书式的搭建指南](https://toutiao.io/k/t6j66db) 

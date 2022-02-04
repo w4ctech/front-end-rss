@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-04 05:54:36，:rocket: 更新条数: +1840， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-04 06:12:09，:rocket: 更新条数: +1838， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-02-04-合肥-Java-Nyquist-Data-WLB+双休+带薪年假](https://www.v2ex.com/t/831865) ![](assets/new.png)  
 - [2022-02-04-用时间轴展示中国互联网发展大事记](https://www.v2ex.com/t/831862) ![](assets/new.png)  
 - [2022-02-04-Github-Issues-与博客的（又）一个思路](https://www.v2ex.com/t/831861) ![](assets/new.png)  
 - [2022-02-04-Pixaki](https://www.v2ex.com/t/831860) ![](assets/new.png)  
@@ -500,7 +501,6 @@
 - [2022-02-04-上海/远程-海外闲置物品交易平台招聘-golang/flutter](https://www.v2ex.com/t/831855) ![](assets/new.png)  
 - [2022-02-04-深圳-拥抱全球数据文化.招聘数据开发-or-分析工程师Analytics-engineer](https://www.v2ex.com/t/831853) ![](assets/new.png)  
 - [2022-02-04-操作系统无法唤醒](https://www.v2ex.com/t/831852) ![](assets/new.png)  
-- [2022-02-04-何同学的最新视频貌似翻车了-大家怎么看](https://www.v2ex.com/t/831851) ![](assets/new.png)  
 - [2022-02-04-GV-已绑定真实手机号且获取了-GV-号码的情况下，能否删掉重新选号而不需要再次验证手机？](https://www.v2ex.com/t/831850) ![](assets/new.png)  
 - [2022-02-04-明明公司-21-年数据很好看，年终却砍一半，求分析](https://www.v2ex.com/t/831847) ![](assets/new.png)  
 - [2022-02-04-谁能解释一下这段代码为什么在别的浏览器能工作但在-Safari-下不能工作吗？太离奇了](https://www.v2ex.com/t/831846) ![](assets/new.png)  
@@ -561,10 +561,12 @@
 - [2022-02-04-聊聊-BI-的黑武器-——-分仓分库、前置仓，大型集团-BI-数据架构规划思路](https://toutiao.io/k/vcrbn6q) ![](assets/new.png)  
 - [2022-02-04-一次Web探测服务器技术学习总结](https://toutiao.io/k/uitbwhp) ![](assets/new.png)  
 - [2022-02-04-低代码：有点毒瘤，但管用就好](https://toutiao.io/k/9fly7qs) ![](assets/new.png)  
-- [2022-02-04-推荐-面试官问：设计高并发系统的时候，数据库层面该如何设计？](https://toutiao.io/k/p935kqr) ![](assets/new.png)  
+- [2022-02-04-从-IaC-到-IaD](https://toutiao.io/k/e1ty4o4) ![](assets/new.png)  
+- [2022-02-04-作为研发Leader，如何做总结](https://toutiao.io/k/1g7flto) ![](assets/new.png)  
 - [2022-02-04-推荐-字节的分布式链路追踪实践，教科书式的搭建指南](https://toutiao.io/k/t6j66db) ![](assets/new.png)  
-- [2022-02-04-推荐-面试官问:-如何设计一个高并发系统?](https://toutiao.io/k/7hrrplb) ![](assets/new.png)  
 - [2022-02-04-推荐-技术干货｜缓存一致性最佳实践](https://toutiao.io/k/zgmi04u) ![](assets/new.png)  
+- [2022-02-04-推荐-面试官问:-如何设计一个高并发系统?](https://toutiao.io/k/7hrrplb) ![](assets/new.png)  
+- [2022-02-04-推荐-面试官问：设计高并发系统的时候，数据库层面该如何设计？](https://toutiao.io/k/p935kqr) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

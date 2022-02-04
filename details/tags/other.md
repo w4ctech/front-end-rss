@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-02-04 02:22:04。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-04 02:35:55。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -6,6 +6,7 @@
 
 
 - [2022-02-04-2月3日全国新增新冠29例-四省份本土12例](https://m.caixin.com/m/2022-02-04/101837560.html) 
+- [2022-02-04-首个新冠人类挑战试验带来重要发现-欧洲解封范围扩大｜大流行手记（2月3日）](https://m.caixin.com/m/2022-02-04/101837579.html) 
 - [2022-02-03-北京地坛医院1名医务人员确诊，为应急隔离区医生](https://m.caixin.com/m/2022-02-03/101837518.html) 
 - [2022-02-03-最新海外疫情：新冠感染超3.84亿-累计接种新冠疫苗超101.03亿剂次](https://m.caixin.com/m/2022-02-03/101837469.html) 
 - [2022-02-03-【境内疫情观察】全国新增21例本土病例（2月2日）](https://database.caixin.com/m/2022-02-03/101837478.html) 
@@ -1735,6 +1736,7 @@
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2021-11-14-密码强度效果最佳实现一定是HTML-meter元素](https://www.zhangxinxu.com/wordpress/2021/11/html-meter-password/) 
 - [2021-11-02-见多识广，介绍Web开发中current开头的一些API属性](https://www.zhangxinxu.com/wordpress/2021/11/currentscript-currenttarget-currentsrc/) 
+- [2022-02-04-macOS-12.2-更新后，启动电脑闪屏](https://www.v2ex.com/t/831843) 
 - [2022-02-04-苹果播客应用闪退](https://www.v2ex.com/t/831842) 
 - [2022-02-04-国内-app-使用密码管理工具不兼容的问题该如何解决？](https://www.v2ex.com/t/831840) 
 - [2022-02-04-用不上-IPv6，救救我。](https://www.v2ex.com/t/831839) 
@@ -1770,7 +1772,6 @@
 - [2022-02-03-有什么好的程序员社区推荐嘛？](https://www.v2ex.com/t/831797) 
 - [2022-02-03-M1-刘海屏的-MBP-右上角的-Menu-小图标显示不全怎么解决的？](https://www.v2ex.com/t/831796) 
 - [2022-02-03-编程题目的收集和分类](https://www.v2ex.com/t/831795) 
-- [2022-02-03-请问现在有哪些仍能使用的-QQ-机器人-API？](https://www.v2ex.com/t/831793) 
 - [2022-02-04-Mac-终端下-实现-安装-ipa-包到-iPhone-真机-droidyue.com](https://blogread.cn/news/go.php?idItem=14922&url=https%3A%2F%2Fdroidyue.com%2Fblog%2F2022%2F01%2F03%2Fhow-to-install-ipa-on-iphone-in-terminal%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-02-04-ECS-中同类关联数据的处理-blog.codingnow.com](https://blogread.cn/news/go.php?idItem=14921&url=https%3A%2F%2Fblog.codingnow.com%2F2021%2F11%2Frelated_components.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-02-04-优质网站同好者周刊（第-050-期）-blog.nicelinks.site](https://blogread.cn/news/go.php?idItem=14918&url=https%3A%2F%2Fblog.nicelinks.site%2Fweekly-050%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

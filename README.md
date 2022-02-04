@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-04 04:54:56，:rocket: 更新条数: +1840， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-04 05:10:27，:rocket: 更新条数: +1839， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,7 +491,7 @@
 </summary>
 
 
-- [2022-02-04-暂时不玩了，谁去继续帮一下？](https://www.v2ex.com/t/831858) ![](assets/new.png)  
+- [2022-02-04-暂时玩不动了，老谭们谁去继续帮忙推动一下？](https://www.v2ex.com/t/831858) ![](assets/new.png)  
 - [2022-02-04-共筑---用户反馈管理工具-#-企业服务-#-SaaS-#-兔小巢](https://www.v2ex.com/t/831857) ![](assets/new.png)  
 - [2022-02-04-中国电信-CN2-专属-IPV6-公共-DNS！？](https://www.v2ex.com/t/831856) ![](assets/new.png)  
 - [2022-02-04-上海/远程-海外闲置物品交易平台招聘-golang/flutter](https://www.v2ex.com/t/831855) ![](assets/new.png)  
@@ -561,10 +561,10 @@
 - [2022-02-04-聊聊-BI-的黑武器-——-分仓分库、前置仓，大型集团-BI-数据架构规划思路](https://toutiao.io/k/vcrbn6q) ![](assets/new.png)  
 - [2022-02-04-一次Web探测服务器技术学习总结](https://toutiao.io/k/uitbwhp) ![](assets/new.png)  
 - [2022-02-04-低代码：有点毒瘤，但管用就好](https://toutiao.io/k/9fly7qs) ![](assets/new.png)  
-- [2022-02-04-推荐-字节的分布式链路追踪实践，教科书式的搭建指南](https://toutiao.io/k/t6j66db) ![](assets/new.png)  
 - [2022-02-04-推荐-面试官问：设计高并发系统的时候，数据库层面该如何设计？](https://toutiao.io/k/p935kqr) ![](assets/new.png)  
 - [2022-02-04-推荐-技术干货｜缓存一致性最佳实践](https://toutiao.io/k/zgmi04u) ![](assets/new.png)  
 - [2022-02-04-推荐-面试官问:-如何设计一个高并发系统?](https://toutiao.io/k/7hrrplb) ![](assets/new.png)  
+- [2022-02-04-推荐-字节的分布式链路追踪实践，教科书式的搭建指南](https://toutiao.io/k/t6j66db) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

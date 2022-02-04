@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-02-04 11:54:47。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-02-04 12:15:24。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -82,6 +82,8 @@
 - [【武汉肺炎防疫全纪录(财新网)】2022-02-01-【境内疫情观察】全国累计接种新冠疫苗逾30亿剂次（1月31日）](https://database.caixin.com/m/2022-02-01/101837162.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2022-02-01-德国未实现接种目标-奥地利强制接种疫苗法律生效｜大流行手记（1月31日）](https://m.caixin.com/m/2022-02-01/101837106.html) 
 - [【张鑫旭-鑫空间-鑫生活】2022-02-04-HTML-inputmode与iOS-Android软键盘类型测试](https://www.zhangxinxu.com/wordpress/2022/02/html-inputmode-keyboard/) 
+- [【V2EX】2022-02-04-怎么判断一个公司的基础架构水平](https://www.v2ex.com/t/831898) 
+- [【V2EX】2022-02-04-丢币了,心情复杂](https://www.v2ex.com/t/831896) 
 - [【V2EX】2022-02-04-有没有质量较高的-5-分钟之内的简短英文播客，美式发音的？](https://www.v2ex.com/t/831894) 
 - [【V2EX】2022-02-04-谁能看图片识别字体？感觉这个字体挺好看](https://www.v2ex.com/t/831892) 
 - [【V2EX】2022-02-04-home-pod-现在值得买吗？](https://www.v2ex.com/t/831891) 
@@ -115,8 +117,6 @@
 - [【V2EX】2022-02-04-深圳-拥抱全球数据文化.招聘数据开发-or-分析工程师Analytics-engineer](https://www.v2ex.com/t/831853) 
 - [【V2EX】2022-02-04-操作系统无法唤醒](https://www.v2ex.com/t/831852) 
 - [【V2EX】2022-02-04-GV-已绑定真实手机号且获取了-GV-号码的情况下，能否删掉重新选号而不需要再次验证手机？](https://www.v2ex.com/t/831850) 
-- [【V2EX】2022-02-04-明明公司-21-年数据很好看，年终却砍一半，求分析](https://www.v2ex.com/t/831847) 
-- [【V2EX】2022-02-04-谁能解释一下这段代码为什么在别的浏览器能工作但在-Safari-下不能工作吗？太离奇了](https://www.v2ex.com/t/831846) 
 - [【技术头条】2022-02-04-frm和ibd文件数据库恢复-www.xifenfei.com](https://blogread.cn/news/go.php?idItem=14925&url=https%3A%2F%2Fwww.xifenfei.com%2F2021%2F12%2Ffrm-ibm-recovery.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-02-04-流体系统-blog.codingnow.com](https://blogread.cn/news/go.php?idItem=14924&url=https%3A%2F%2Fblog.codingnow.com%2F2022%2F01%2Ffluid_system.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-02-04-C-中访问-Lua-配置表的优化-blog.codingnow.com](https://blogread.cn/news/go.php?idItem=14923&url=https%3A%2F%2Fblog.codingnow.com%2F2021%2F11%2Fc_cache_lua_table.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

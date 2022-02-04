@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-02-04 11:54:47。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-04 12:15:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1737,6 +1737,8 @@
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2022-02-04-HTML-inputmode与iOS-Android软键盘类型测试](https://www.zhangxinxu.com/wordpress/2022/02/html-inputmode-keyboard/) 
 - [2021-11-14-密码强度效果最佳实现一定是HTML-meter元素](https://www.zhangxinxu.com/wordpress/2021/11/html-meter-password/) 
+- [2022-02-04-怎么判断一个公司的基础架构水平](https://www.v2ex.com/t/831898) 
+- [2022-02-04-丢币了,心情复杂](https://www.v2ex.com/t/831896) 
 - [2022-02-04-有没有质量较高的-5-分钟之内的简短英文播客，美式发音的？](https://www.v2ex.com/t/831894) 
 - [2022-02-04-谁能看图片识别字体？感觉这个字体挺好看](https://www.v2ex.com/t/831892) 
 - [2022-02-04-home-pod-现在值得买吗？](https://www.v2ex.com/t/831891) 
@@ -1765,7 +1767,6 @@
 - [2022-02-04-中国电信-CN2-专属-IPV6-公共-DNS！？](https://www.v2ex.com/t/831856) 
 - [2022-02-04-操作系统无法唤醒](https://www.v2ex.com/t/831852) 
 - [2022-02-04-GV-已绑定真实手机号且获取了-GV-号码的情况下，能否删掉重新选号而不需要再次验证手机？](https://www.v2ex.com/t/831850) 
-- [2022-02-04-明明公司-21-年数据很好看，年终却砍一半，求分析](https://www.v2ex.com/t/831847) 
 - [2022-02-04-frm和ibd文件数据库恢复-www.xifenfei.com](https://blogread.cn/news/go.php?idItem=14925&url=https%3A%2F%2Fwww.xifenfei.com%2F2021%2F12%2Ffrm-ibm-recovery.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-02-04-流体系统-blog.codingnow.com](https://blogread.cn/news/go.php?idItem=14924&url=https%3A%2F%2Fblog.codingnow.com%2F2022%2F01%2Ffluid_system.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-02-04-Mac-终端下-实现-安装-ipa-包到-iPhone-真机-droidyue.com](https://blogread.cn/news/go.php?idItem=14922&url=https%3A%2F%2Fdroidyue.com%2Fblog%2F2022%2F01%2F03%2Fhow-to-install-ipa-on-iphone-in-terminal%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

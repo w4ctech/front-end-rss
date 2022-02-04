@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-04 11:54:47，:rocket: 更新条数: +1837， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-04 12:15:24，:rocket: 更新条数: +1837， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-02-04-怎么判断一个公司的基础架构水平](https://www.v2ex.com/t/831898) ![](assets/new.png)  
+- [2022-02-04-丢币了,心情复杂](https://www.v2ex.com/t/831896) ![](assets/new.png)  
 - [2022-02-04-有没有质量较高的-5-分钟之内的简短英文播客，美式发音的？](https://www.v2ex.com/t/831894) ![](assets/new.png)  
 - [2022-02-04-谁能看图片识别字体？感觉这个字体挺好看](https://www.v2ex.com/t/831892) ![](assets/new.png)  
 - [2022-02-04-home-pod-现在值得买吗？](https://www.v2ex.com/t/831891) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-02-04-有个线下约谈大佬的-app-叫啥名字想不起来了？](https://www.v2ex.com/t/831874) ![](assets/new.png)  
 - [2022-02-04-华为工作到底行不行](https://www.v2ex.com/t/831873) ![](assets/new.png)  
 - [2022-02-04-月薪-30-50K，区块链前端/后端急招，长期远程机会。](https://www.v2ex.com/t/831871) ![](assets/new.png)  
-- [2022-02-04-冬天里的静电](https://www.v2ex.com/t/831870) ![](assets/new.png)  
-- [2022-02-04-开发机没有显示器，怎么给开发机加一个串口](https://www.v2ex.com/t/831869) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

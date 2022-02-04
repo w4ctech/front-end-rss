@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-02-04 22:10:36。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-02-04 22:17:28。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -149,8 +149,8 @@
 - [【开发者头条】2022-02-04-一次Web探测服务器技术学习总结](https://toutiao.io/k/uitbwhp) 
 - [【开发者头条】2022-02-04-从-IaC-到-IaD](https://toutiao.io/k/e1ty4o4) 
 - [【开发者头条】2022-02-04-推荐-字节的分布式链路追踪实践，教科书式的搭建指南](https://toutiao.io/k/t6j66db) 
-- [【开发者头条】2022-02-04-推荐-面试官问:-如何设计一个高并发系统?](https://toutiao.io/k/7hrrplb) 
 - [【开发者头条】2022-02-04-推荐-技术干货｜缓存一致性最佳实践](https://toutiao.io/k/zgmi04u) 
+- [【开发者头条】2022-02-04-推荐-面试官问:-如何设计一个高并发系统?](https://toutiao.io/k/7hrrplb) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

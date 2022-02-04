@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-02-04 14:17:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-04 14:35:56。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
@@ -41,5 +41,3 @@
 - [2022-02-04-Mac-OS-如何让云主机（Windows）读取本地-U-盘内容?](https://www.v2ex.com/t/831866) 
 - [2022-02-04-合肥-Java-Nyquist-Data-WLB+双休+带薪年假](https://www.v2ex.com/t/831865) 
 - [2022-02-04-用时间轴展示中国互联网发展大事记](https://www.v2ex.com/t/831862) 
-- [2022-02-04-Github-Issues-与博客的（又）一个思路](https://www.v2ex.com/t/831861) 
-- [2022-02-04-Pixaki](https://www.v2ex.com/t/831860) 

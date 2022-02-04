@@ -9058,6 +9058,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "本来想买本《某文化手册》看的，但当我看到某的价值观其中影响力(Impact),把我吓到了。还好没买。",
+        "link": "https://www.v2ex.com/t/831867",
+        "date": "2022-02-04"
+      },
+      {
         "title": "Mac OS 如何让云主机（Windows）读取本地 U 盘内容?",
         "link": "https://www.v2ex.com/t/831866",
         "date": "2022-02-04"
@@ -9236,11 +9241,6 @@
         "title": "使用.local 域名访问 Samba 的速度问题",
         "link": "https://www.v2ex.com/t/831818",
         "date": "2022-02-03"
-      },
-      {
-        "title": "搭了个 blog，现在有五篇文章了，欢迎大佬来玩",
-        "link": "https://www.v2ex.com/t/831817",
-        "date": "2022-02-03"
       }
     ]
   },
@@ -9407,13 +9407,13 @@
         "date": "2022-02-04"
       },
       {
-        "title": "[推荐] 面试官问：设计高并发系统的时候，数据库层面该如何设计？",
-        "link": "https://toutiao.io/k/p935kqr",
+        "title": "[推荐] 面试官问: 如何设计一个高并发系统?",
+        "link": "https://toutiao.io/k/7hrrplb",
         "date": "2022-02-04"
       },
       {
-        "title": "[推荐] 技术干货｜缓存一致性最佳实践",
-        "link": "https://toutiao.io/k/zgmi04u",
+        "title": "[推荐] 面试官问：设计高并发系统的时候，数据库层面该如何设计？",
+        "link": "https://toutiao.io/k/p935kqr",
         "date": "2022-02-04"
       },
       {
@@ -9422,8 +9422,8 @@
         "date": "2022-02-04"
       },
       {
-        "title": "[推荐] 面试官问: 如何设计一个高并发系统?",
-        "link": "https://toutiao.io/k/7hrrplb",
+        "title": "[推荐] 技术干货｜缓存一致性最佳实践",
+        "link": "https://toutiao.io/k/zgmi04u",
         "date": "2022-02-04"
       }
     ]

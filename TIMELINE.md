@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-02-04 12:15:24。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-02-04 12:27:32。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -82,6 +82,7 @@
 - [【武汉肺炎防疫全纪录(财新网)】2022-02-01-【境内疫情观察】全国累计接种新冠疫苗逾30亿剂次（1月31日）](https://database.caixin.com/m/2022-02-01/101837162.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2022-02-01-德国未实现接种目标-奥地利强制接种疫苗法律生效｜大流行手记（1月31日）](https://m.caixin.com/m/2022-02-01/101837106.html) 
 - [【张鑫旭-鑫空间-鑫生活】2022-02-04-HTML-inputmode与iOS-Android软键盘类型测试](https://www.zhangxinxu.com/wordpress/2022/02/html-inputmode-keyboard/) 
+- [【V2EX】2022-02-04-Cmd+轻触失灵可能是硬件问题](https://www.v2ex.com/t/831899) 
 - [【V2EX】2022-02-04-怎么判断一个公司的基础架构水平](https://www.v2ex.com/t/831898) 
 - [【V2EX】2022-02-04-丢币了,心情复杂](https://www.v2ex.com/t/831896) 
 - [【V2EX】2022-02-04-有没有质量较高的-5-分钟之内的简短英文播客，美式发音的？](https://www.v2ex.com/t/831894) 
@@ -144,13 +145,13 @@
 - [【开发者头条】2022-02-04-【机器学习基础】一文带你用sklearn做特征工程](https://toutiao.io/k/7w3yd9n) 
 - [【开发者头条】2022-02-04-低代码：有点毒瘤，但管用就好](https://toutiao.io/k/9fly7qs) 
 - [【开发者头条】2022-02-04-一次Web探测服务器技术学习总结](https://toutiao.io/k/uitbwhp) 
-- [【开发者头条】2022-02-04-聊聊-BI-的黑武器-——-分仓分库、前置仓，大型集团-BI-数据架构规划思路](https://toutiao.io/k/vcrbn6q) 
 - [【开发者头条】2022-02-04-作为研发Leader，如何做总结](https://toutiao.io/k/1g7flto) 
+- [【开发者头条】2022-02-04-聊聊-BI-的黑武器-——-分仓分库、前置仓，大型集团-BI-数据架构规划思路](https://toutiao.io/k/vcrbn6q) 
 - [【开发者头条】2022-02-04-从-IaC-到-IaD](https://toutiao.io/k/e1ty4o4) 
-- [【开发者头条】2022-02-04-推荐-面试官问:-如何设计一个高并发系统?](https://toutiao.io/k/7hrrplb) 
-- [【开发者头条】2022-02-04-推荐-面试官问：设计高并发系统的时候，数据库层面该如何设计？](https://toutiao.io/k/p935kqr) 
 - [【开发者头条】2022-02-04-推荐-字节的分布式链路追踪实践，教科书式的搭建指南](https://toutiao.io/k/t6j66db) 
+- [【开发者头条】2022-02-04-推荐-面试官问：设计高并发系统的时候，数据库层面该如何设计？](https://toutiao.io/k/p935kqr) 
 - [【开发者头条】2022-02-04-推荐-技术干货｜缓存一致性最佳实践](https://toutiao.io/k/zgmi04u) 
+- [【开发者头条】2022-02-04-推荐-面试官问:-如何设计一个高并发系统?](https://toutiao.io/k/7hrrplb) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

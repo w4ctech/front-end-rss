@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-02-04 12:15:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-04 12:27:32。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1737,6 +1737,7 @@
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2022-02-04-HTML-inputmode与iOS-Android软键盘类型测试](https://www.zhangxinxu.com/wordpress/2022/02/html-inputmode-keyboard/) 
 - [2021-11-14-密码强度效果最佳实现一定是HTML-meter元素](https://www.zhangxinxu.com/wordpress/2021/11/html-meter-password/) 
+- [2022-02-04-Cmd+轻触失灵可能是硬件问题](https://www.v2ex.com/t/831899) 
 - [2022-02-04-怎么判断一个公司的基础架构水平](https://www.v2ex.com/t/831898) 
 - [2022-02-04-丢币了,心情复杂](https://www.v2ex.com/t/831896) 
 - [2022-02-04-有没有质量较高的-5-分钟之内的简短英文播客，美式发音的？](https://www.v2ex.com/t/831894) 
@@ -1788,7 +1789,7 @@
 - [2022-02-04-【机器学习基础】一文带你用sklearn做特征工程](https://toutiao.io/k/7w3yd9n) 
 - [2022-02-04-低代码：有点毒瘤，但管用就好](https://toutiao.io/k/9fly7qs) 
 - [2022-02-04-一次Web探测服务器技术学习总结](https://toutiao.io/k/uitbwhp) 
-- [2022-02-04-聊聊-BI-的黑武器-——-分仓分库、前置仓，大型集团-BI-数据架构规划思路](https://toutiao.io/k/vcrbn6q) 
 - [2022-02-04-作为研发Leader，如何做总结](https://toutiao.io/k/1g7flto) 
+- [2022-02-04-聊聊-BI-的黑武器-——-分仓分库、前置仓，大型集团-BI-数据架构规划思路](https://toutiao.io/k/vcrbn6q) 
 - [2022-02-04-从-IaC-到-IaD](https://toutiao.io/k/e1ty4o4) 
 - [2022-02-04-推荐-字节的分布式链路追踪实践，教科书式的搭建指南](https://toutiao.io/k/t6j66db) 

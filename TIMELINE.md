@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-02-04 16:26:33。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-02-04 16:47:12。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -82,6 +82,7 @@
 - [【武汉肺炎防疫全纪录(财新网)】2022-02-01-【境内疫情观察】全国累计接种新冠疫苗逾30亿剂次（1月31日）](https://database.caixin.com/m/2022-02-01/101837162.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2022-02-01-德国未实现接种目标-奥地利强制接种疫苗法律生效｜大流行手记（1月31日）](https://m.caixin.com/m/2022-02-01/101837106.html) 
 - [【张鑫旭-鑫空间-鑫生活】2022-02-04-HTML-inputmode与iOS-Android软键盘类型测试](https://www.zhangxinxu.com/wordpress/2022/02/html-inputmode-keyboard/) 
+- [【V2EX】2022-02-04-别人说我自闭了](https://www.v2ex.com/t/831924) 
 - [【V2EX】2022-02-04-26-位大小写字母加上-0~9-数字的五位组合有多少种？](https://www.v2ex.com/t/831923) 
 - [【V2EX】2022-02-04-为什么这么多人愿意在-CSDN-上写博客？能拿到广告分成吗？](https://www.v2ex.com/t/831922) 
 - [【V2EX】2022-02-04-旁路由运行插件和主路由运行插件，多了个旁路由，有什么区别么？](https://www.v2ex.com/t/831921) 
@@ -116,8 +117,6 @@
 - [【V2EX】2022-02-04-日经-大家怎么看待若饭，或者有无更合适的代餐推荐](https://www.v2ex.com/t/831880) 
 - [【V2EX】2022-02-04-有没有开发者做-Google-Play-或者-iOS-开发的，进来聊聊盈利机会和注意事项](https://www.v2ex.com/t/831879) 
 - [【V2EX】2022-02-04-Safari-的兼容性真的不行](https://www.v2ex.com/t/831878) 
-- [【V2EX】2022-02-04-Tinder-上面的-79-次赞有什么特殊含义吗](https://www.v2ex.com/t/831875) 
-- [【V2EX】2022-02-04-有个线下约谈大佬的-app-叫啥名字想不起来了？](https://www.v2ex.com/t/831874) 
 - [【技术头条】2022-02-04-微话搭建优质-Web-应用其一-forum.lovejade.cn](https://blogread.cn/news/go.php?idItem=14928&url=https%3A%2F%2Fforum.lovejade.cn%2Fd%2F141-web%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-02-04-Puppeteer-使用分享及注意事项-forum.lovejade.cn](https://blogread.cn/news/go.php?idItem=14927&url=https%3A%2F%2Fforum.lovejade.cn%2Fd%2F145-puppeteer%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-02-04-优质网站同好者周刊（第-51-期）--倾城之链-blog.nicelinks.site](https://blogread.cn/news/go.php?idItem=14926&url=https%3A%2F%2Fblog.nicelinks.site%2Fweekly-051%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -149,8 +148,8 @@
 - [【开发者头条】2022-02-04-聊聊-BI-的黑武器-——-分仓分库、前置仓，大型集团-BI-数据架构规划思路](https://toutiao.io/k/vcrbn6q) 
 - [【开发者头条】2022-02-04-从-IaC-到-IaD](https://toutiao.io/k/e1ty4o4) 
 - [【开发者头条】2022-02-04-推荐-面试官问:-如何设计一个高并发系统?](https://toutiao.io/k/7hrrplb) 
-- [【开发者头条】2022-02-04-推荐-技术干货｜缓存一致性最佳实践](https://toutiao.io/k/zgmi04u) 
 - [【开发者头条】2022-02-04-推荐-字节的分布式链路追踪实践，教科书式的搭建指南](https://toutiao.io/k/t6j66db) 
+- [【开发者头条】2022-02-04-推荐-技术干货｜缓存一致性最佳实践](https://toutiao.io/k/zgmi04u) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

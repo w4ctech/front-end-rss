@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-04 16:26:33，:rocket: 更新条数: +1837， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-04 16:47:12，:rocket: 更新条数: +1836， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-02-04-别人说我自闭了](https://www.v2ex.com/t/831924) ![](assets/new.png)  
 - [2022-02-04-26-位大小写字母加上-0~9-数字的五位组合有多少种？](https://www.v2ex.com/t/831923) ![](assets/new.png)  
 - [2022-02-04-为什么这么多人愿意在-CSDN-上写博客？能拿到广告分成吗？](https://www.v2ex.com/t/831922) ![](assets/new.png)  
 - [2022-02-04-旁路由运行插件和主路由运行插件，多了个旁路由，有什么区别么？](https://www.v2ex.com/t/831921) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-02-04-最近几年的喜剧题材作品是不是质量下降了](https://www.v2ex.com/t/831901) ![](assets/new.png)  
 - [2022-02-04-Cmd+轻触失灵可能是硬件问题](https://www.v2ex.com/t/831899) ![](assets/new.png)  
 - [2022-02-04-怎么判断一个公司的基础架构水平](https://www.v2ex.com/t/831898) ![](assets/new.png)  
-- [2022-02-04-丢币了,心情复杂](https://www.v2ex.com/t/831896) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -564,8 +564,8 @@
 - [2022-02-04-聊聊-BI-的黑武器-——-分仓分库、前置仓，大型集团-BI-数据架构规划思路](https://toutiao.io/k/vcrbn6q) ![](assets/new.png)  
 - [2022-02-04-从-IaC-到-IaD](https://toutiao.io/k/e1ty4o4) ![](assets/new.png)  
 - [2022-02-04-推荐-面试官问:-如何设计一个高并发系统?](https://toutiao.io/k/7hrrplb) ![](assets/new.png)  
-- [2022-02-04-推荐-技术干货｜缓存一致性最佳实践](https://toutiao.io/k/zgmi04u) ![](assets/new.png)  
 - [2022-02-04-推荐-字节的分布式链路追踪实践，教科书式的搭建指南](https://toutiao.io/k/t6j66db) ![](assets/new.png)  
+- [2022-02-04-推荐-技术干货｜缓存一致性最佳实践](https://toutiao.io/k/zgmi04u) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-02-04 05:28:29。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-04 05:36:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1736,6 +1736,7 @@
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2021-11-14-密码强度效果最佳实现一定是HTML-meter元素](https://www.zhangxinxu.com/wordpress/2021/11/html-meter-password/) 
 - [2021-11-02-见多识广，介绍Web开发中current开头的一些API属性](https://www.zhangxinxu.com/wordpress/2021/11/currentscript-currenttarget-currentsrc/) 
+- [2022-02-04-Pixaki](https://www.v2ex.com/t/831860) 
 - [2022-02-04-暂时玩不动了，老谭们谁去继续帮忙推动一下？](https://www.v2ex.com/t/831858) 
 - [2022-02-04-共筑---用户反馈管理工具-#-企业服务-#-SaaS-#-兔小巢](https://www.v2ex.com/t/831857) 
 - [2022-02-04-中国电信-CN2-专属-IPV6-公共-DNS！？](https://www.v2ex.com/t/831856) 
@@ -1767,7 +1768,6 @@
 - [2022-02-03-如何评价《TCP/IP-详解-卷-1：协议（第二版）》？](https://www.v2ex.com/t/831815) 
 - [2022-02-03-SSH-端口转发给我看迷糊了](https://www.v2ex.com/t/831813) 
 - [2022-02-03-《和平使者》太好看了！](https://www.v2ex.com/t/831812) 
-- [2022-02-03-fleet-貌似在放新的名额](https://www.v2ex.com/t/831810) 
 - [2022-02-04-Mac-终端下-实现-安装-ipa-包到-iPhone-真机-droidyue.com](https://blogread.cn/news/go.php?idItem=14922&url=https%3A%2F%2Fdroidyue.com%2Fblog%2F2022%2F01%2F03%2Fhow-to-install-ipa-on-iphone-in-terminal%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-02-04-ECS-中同类关联数据的处理-blog.codingnow.com](https://blogread.cn/news/go.php?idItem=14921&url=https%3A%2F%2Fblog.codingnow.com%2F2021%2F11%2Frelated_components.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-02-04-优质网站同好者周刊（第-050-期）-blog.nicelinks.site](https://blogread.cn/news/go.php?idItem=14918&url=https%3A%2F%2Fblog.nicelinks.site%2Fweekly-050%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-02-04 13:39:31。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-04 13:54:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1737,6 +1737,8 @@
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2022-02-04-HTML-inputmode与iOS-Android软键盘类型测试](https://www.zhangxinxu.com/wordpress/2022/02/html-inputmode-keyboard/) 
 - [2021-11-14-密码强度效果最佳实现一定是HTML-meter元素](https://www.zhangxinxu.com/wordpress/2021/11/html-meter-password/) 
+- [2022-02-04-访达右键菜单里的“服务”没有了](https://www.v2ex.com/t/831908) 
+- [2022-02-04-114,dnspod,阿里-dns-这-3-个-dns-里选一个的话，是不是选-ping-最低的就行](https://www.v2ex.com/t/831907) 
 - [2022-02-04-Mac-pro-键盘冒怎么拆出来-清洗？](https://www.v2ex.com/t/831906) 
 - [2022-02-04-新手，最近刚接触-Linux-类操作系统，想请问下-Linux-有没有软件下载站或者查询站](https://www.v2ex.com/t/831905) 
 - [2022-02-04-老谋子审美确实在线的。](https://www.v2ex.com/t/831904) 
@@ -1769,8 +1771,6 @@
 - [2022-02-04-合肥-Java-Nyquist-Data-WLB+双休+带薪年假](https://www.v2ex.com/t/831865) 
 - [2022-02-04-用时间轴展示中国互联网发展大事记](https://www.v2ex.com/t/831862) 
 - [2022-02-04-Pixaki](https://www.v2ex.com/t/831860) 
-- [2022-02-04-暂时玩不动了，老谭们谁去继续帮忙推动一下？](https://www.v2ex.com/t/831858) 
-- [2022-02-04-共筑---用户反馈管理工具-#-企业服务-#-SaaS-#-兔小巢](https://www.v2ex.com/t/831857) 
 - [2022-02-04-微话搭建优质-Web-应用其一-forum.lovejade.cn](https://blogread.cn/news/go.php?idItem=14928&url=https%3A%2F%2Fforum.lovejade.cn%2Fd%2F141-web%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-02-04-Puppeteer-使用分享及注意事项-forum.lovejade.cn](https://blogread.cn/news/go.php?idItem=14927&url=https%3A%2F%2Fforum.lovejade.cn%2Fd%2F145-puppeteer%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-02-04-优质网站同好者周刊（第-51-期）--倾城之链-blog.nicelinks.site](https://blogread.cn/news/go.php?idItem=14926&url=https%3A%2F%2Fblog.nicelinks.site%2Fweekly-051%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

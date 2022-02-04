@@ -9063,6 +9063,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "老谋子审美确实在线的。",
+        "link": "https://www.v2ex.com/t/831904",
+        "date": "2022-02-04"
+      },
+      {
         "title": "Java 关于多平台接入 Java 设计模式问题",
         "link": "https://www.v2ex.com/t/831902",
         "date": "2022-02-04"
@@ -9250,6 +9255,21 @@
     "link": "http://blogread.cn/news/newest.php",
     "items": [
       {
+        "title": "微话搭建优质 Web 应用其一 (forum.lovejade.cn)",
+        "link": "https://blogread.cn/news/go.php?idItem=14928&url=https%3A%2F%2Fforum.lovejade.cn%2Fd%2F141-web%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2022-02-04"
+      },
+      {
+        "title": "Puppeteer 使用分享及注意事项 (forum.lovejade.cn)",
+        "link": "https://blogread.cn/news/go.php?idItem=14927&url=https%3A%2F%2Fforum.lovejade.cn%2Fd%2F145-puppeteer%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2022-02-04"
+      },
+      {
+        "title": "优质网站同好者周刊（第 51 期）- 倾城之链 (blog.nicelinks.site)",
+        "link": "https://blogread.cn/news/go.php?idItem=14926&url=https%3A%2F%2Fblog.nicelinks.site%2Fweekly-051%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2022-02-04"
+      },
+      {
         "title": "frm和ibd文件数据库恢复 (www.xifenfei.com)",
         "link": "https://blogread.cn/news/go.php?idItem=14925&url=https%3A%2F%2Fwww.xifenfei.com%2F2021%2F12%2Ffrm-ibm-recovery.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
         "date": "2022-02-04"
@@ -9333,21 +9353,6 @@
         "title": "5个免费在线SQL数据库环境，简直太方便了！ (mp.weixin.qq.com)",
         "link": "https://blogread.cn/news/go.php?idItem=14909&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493177%26amp%3Bidx%3D2%26amp%3Bsn%3Dabab17fd476216398dfe1f016c4dcb84%26amp%3Bchksm%3Dfa3f0762cd488e7489964dbbfdb59b10f44ed9b5f7056ba6c5c63b268c6673677fd481af5a87%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
         "date": "2022-02-04"
-      },
-      {
-        "title": "GoCD很好，但说说Jenkins吧 (insights.thoughtworks.cn)",
-        "link": "https://blogread.cn/news/go.php?idItem=14908&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fgocd-jenkins-pipeline%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-02-04"
-      },
-      {
-        "title": "微服务坏味道之循环依赖 (insights.thoughtworks.cn)",
-        "link": "https://blogread.cn/news/go.php?idItem=14907&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fmicroservices-bad-smell-circular-dependency%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-02-04"
-      },
-      {
-        "title": "高效编写测试用例的技巧 (insights.thoughtworks.cn)",
-        "link": "https://blogread.cn/news/go.php?idItem=14906&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fwrite-effective-testcases-tips%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-02-04"
       }
     ]
   },
@@ -9377,8 +9382,8 @@
         "date": "2022-02-04"
       },
       {
-        "title": "【机器学习基础】一文带你用sklearn做特征工程",
-        "link": "https://toutiao.io/k/7w3yd9n",
+        "title": "作为研发Leader，如何做总结",
+        "link": "https://toutiao.io/k/1g7flto",
         "date": "2022-02-04"
       },
       {
@@ -9387,8 +9392,8 @@
         "date": "2022-02-04"
       },
       {
-        "title": "作为研发Leader，如何做总结",
-        "link": "https://toutiao.io/k/1g7flto",
+        "title": "【机器学习基础】一文带你用sklearn做特征工程",
+        "link": "https://toutiao.io/k/7w3yd9n",
         "date": "2022-02-04"
       },
       {
@@ -9407,23 +9412,23 @@
         "date": "2022-02-04"
       },
       {
-        "title": "[推荐] 字节的分布式链路追踪实践，教科书式的搭建指南",
-        "link": "https://toutiao.io/k/t6j66db",
-        "date": "2022-02-04"
-      },
-      {
         "title": "[推荐] 面试官问: 如何设计一个高并发系统?",
         "link": "https://toutiao.io/k/7hrrplb",
         "date": "2022-02-04"
       },
       {
-        "title": "[推荐] 面试官问：设计高并发系统的时候，数据库层面该如何设计？",
-        "link": "https://toutiao.io/k/p935kqr",
+        "title": "[推荐] 字节的分布式链路追踪实践，教科书式的搭建指南",
+        "link": "https://toutiao.io/k/t6j66db",
         "date": "2022-02-04"
       },
       {
         "title": "[推荐] 技术干货｜缓存一致性最佳实践",
         "link": "https://toutiao.io/k/zgmi04u",
+        "date": "2022-02-04"
+      },
+      {
+        "title": "[推荐] 面试官问：设计高并发系统的时候，数据库层面该如何设计？",
+        "link": "https://toutiao.io/k/p935kqr",
         "date": "2022-02-04"
       }
     ]

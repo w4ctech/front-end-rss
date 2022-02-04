@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-02-04 12:49:58。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-02-04 13:11:44。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -82,6 +82,7 @@
 - [【武汉肺炎防疫全纪录(财新网)】2022-02-01-【境内疫情观察】全国累计接种新冠疫苗逾30亿剂次（1月31日）](https://database.caixin.com/m/2022-02-01/101837162.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2022-02-01-德国未实现接种目标-奥地利强制接种疫苗法律生效｜大流行手记（1月31日）](https://m.caixin.com/m/2022-02-01/101837106.html) 
 - [【张鑫旭-鑫空间-鑫生活】2022-02-04-HTML-inputmode与iOS-Android软键盘类型测试](https://www.zhangxinxu.com/wordpress/2022/02/html-inputmode-keyboard/) 
+- [【V2EX】2022-02-04-老谋子审美确实在线的。](https://www.v2ex.com/t/831904) 
 - [【V2EX】2022-02-04-Java-关于多平台接入-Java-设计模式问题](https://www.v2ex.com/t/831902) 
 - [【V2EX】2022-02-04-最近几年的喜剧题材作品是不是质量下降了](https://www.v2ex.com/t/831901) 
 - [【V2EX】2022-02-04-好苦恼，我女朋友哪儿都好，就是](https://www.v2ex.com/t/831900) 
@@ -118,6 +119,9 @@
 - [【V2EX】2022-02-04-共筑---用户反馈管理工具-#-企业服务-#-SaaS-#-兔小巢](https://www.v2ex.com/t/831857) 
 - [【V2EX】2022-02-04-中国电信-CN2-专属-IPV6-公共-DNS！？](https://www.v2ex.com/t/831856) 
 - [【V2EX】2022-02-04-上海/远程-海外闲置物品交易平台招聘-golang/flutter](https://www.v2ex.com/t/831855) 
+- [【技术头条】2022-02-04-微话搭建优质-Web-应用其一-forum.lovejade.cn](https://blogread.cn/news/go.php?idItem=14928&url=https%3A%2F%2Fforum.lovejade.cn%2Fd%2F141-web%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [【技术头条】2022-02-04-Puppeteer-使用分享及注意事项-forum.lovejade.cn](https://blogread.cn/news/go.php?idItem=14927&url=https%3A%2F%2Fforum.lovejade.cn%2Fd%2F145-puppeteer%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [【技术头条】2022-02-04-优质网站同好者周刊（第-51-期）--倾城之链-blog.nicelinks.site](https://blogread.cn/news/go.php?idItem=14926&url=https%3A%2F%2Fblog.nicelinks.site%2Fweekly-051%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-02-04-frm和ibd文件数据库恢复-www.xifenfei.com](https://blogread.cn/news/go.php?idItem=14925&url=https%3A%2F%2Fwww.xifenfei.com%2F2021%2F12%2Ffrm-ibm-recovery.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-02-04-流体系统-blog.codingnow.com](https://blogread.cn/news/go.php?idItem=14924&url=https%3A%2F%2Fblog.codingnow.com%2F2022%2F01%2Ffluid_system.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-02-04-C-中访问-Lua-配置表的优化-blog.codingnow.com](https://blogread.cn/news/go.php?idItem=14923&url=https%3A%2F%2Fblog.codingnow.com%2F2021%2F11%2Fc_cache_lua_table.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -135,23 +139,20 @@
 - [【技术头条】2022-02-04-一个U盘装N款系统不是梦！超级好用的装机神器！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14911&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493182%26amp%3Bidx%3D1%26amp%3Bsn%3Ddf59f21929e95ea040b5e0b0c0450711%26amp%3Bchksm%3Dfa3f0765cd488e73bbf0a45ad1d96c1c1f6eefdb563b5ca31d18517b09660cda18eb35e1bff4%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-02-04-2021年10大流行软件测试工具-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14910&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493182%26amp%3Bidx%3D2%26amp%3Bsn%3Dd0808be25095064df4e148faf21fb915%26amp%3Bchksm%3Dfa3f0765cd488e73c3a0ede4bbd0a31fb822afbb649f8747894ebf6532433eb8e7ca23bf1281%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-02-04-5个免费在线SQL数据库环境，简直太方便了！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14909&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493177%26amp%3Bidx%3D2%26amp%3Bsn%3Dabab17fd476216398dfe1f016c4dcb84%26amp%3Bchksm%3Dfa3f0762cd488e7489964dbbfdb59b10f44ed9b5f7056ba6c5c63b268c6673677fd481af5a87%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
-- [【技术头条】2022-02-04-GoCD很好，但说说Jenkins吧-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14908&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fgocd-jenkins-pipeline%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
-- [【技术头条】2022-02-04-微服务坏味道之循环依赖-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14907&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fmicroservices-bad-smell-circular-dependency%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
-- [【技术头条】2022-02-04-高效编写测试用例的技巧-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14906&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fwrite-effective-testcases-tips%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【开发者头条】2022-02-04-BookKeeper-简介](https://toutiao.io/k/8lznjxp) 
 - [【开发者头条】2022-02-04-浏览器中的音视频知识总结（工作中需要和视频打交道必看！](https://toutiao.io/k/7ayveb7) 
 - [【开发者头条】2022-02-04-为什么现在的年轻人不会用电脑了？](https://toutiao.io/k/qminvrc) 
 - [【开发者头条】2022-02-04-喜迎虎年｜开源正当时！](https://toutiao.io/k/oya5qqf) 
-- [【开发者头条】2022-02-04-【机器学习基础】一文带你用sklearn做特征工程](https://toutiao.io/k/7w3yd9n) 
-- [【开发者头条】2022-02-04-低代码：有点毒瘤，但管用就好](https://toutiao.io/k/9fly7qs) 
 - [【开发者头条】2022-02-04-作为研发Leader，如何做总结](https://toutiao.io/k/1g7flto) 
+- [【开发者头条】2022-02-04-低代码：有点毒瘤，但管用就好](https://toutiao.io/k/9fly7qs) 
+- [【开发者头条】2022-02-04-【机器学习基础】一文带你用sklearn做特征工程](https://toutiao.io/k/7w3yd9n) 
 - [【开发者头条】2022-02-04-一次Web探测服务器技术学习总结](https://toutiao.io/k/uitbwhp) 
 - [【开发者头条】2022-02-04-聊聊-BI-的黑武器-——-分仓分库、前置仓，大型集团-BI-数据架构规划思路](https://toutiao.io/k/vcrbn6q) 
 - [【开发者头条】2022-02-04-从-IaC-到-IaD](https://toutiao.io/k/e1ty4o4) 
-- [【开发者头条】2022-02-04-推荐-字节的分布式链路追踪实践，教科书式的搭建指南](https://toutiao.io/k/t6j66db) 
 - [【开发者头条】2022-02-04-推荐-面试官问:-如何设计一个高并发系统?](https://toutiao.io/k/7hrrplb) 
-- [【开发者头条】2022-02-04-推荐-面试官问：设计高并发系统的时候，数据库层面该如何设计？](https://toutiao.io/k/p935kqr) 
+- [【开发者头条】2022-02-04-推荐-字节的分布式链路追踪实践，教科书式的搭建指南](https://toutiao.io/k/t6j66db) 
 - [【开发者头条】2022-02-04-推荐-技术干货｜缓存一致性最佳实践](https://toutiao.io/k/zgmi04u) 
+- [【开发者头条】2022-02-04-推荐-面试官问：设计高并发系统的时候，数据库层面该如何设计？](https://toutiao.io/k/p935kqr) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2022-02-04 06:54:15。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-04 07:10:44。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-02-04-开发机没有显示器，怎么给开发机加一个串口](https://www.v2ex.com/t/831869) 
 - [2022-02-04-本来想买本《某文化手册》看的，但当我看到某的价值观其中影响力Impact,把我吓到了。还好没买。](https://www.v2ex.com/t/831867) 
 - [2022-02-04-Mac-OS-如何让云主机（Windows）读取本地-U-盘内容?](https://www.v2ex.com/t/831866) 
 - [2022-02-04-合肥-Java-Nyquist-Data-WLB+双休+带薪年假](https://www.v2ex.com/t/831865) 
@@ -40,5 +41,3 @@
 - [2022-02-03-安装-manjaro-gnome：这是缺少引导文件吗？](https://www.v2ex.com/t/831823) 
 - [2022-02-03-关于-Cloudflare-Workers-的一个问题](https://www.v2ex.com/t/831821) 
 - [2022-02-03-🐶-goal-的用户认证（Auth）模块完成，离生产环境又双叒叕近了一步！](https://www.v2ex.com/t/831820) 
-- [2022-02-03-有没有第三方工具可以查看-won-日志？](https://www.v2ex.com/t/831819) 
-- [2022-02-03-使用.local-域名访问-Samba-的速度问题](https://www.v2ex.com/t/831818) 

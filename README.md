@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-04 07:17:13，:rocket: 更新条数: +1837， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-04 07:36:09，:rocket: 更新条数: +1838， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,10 @@
 </summary>
 
 
+- [2022-02-04-有个线下约谈大佬的-app-叫啥名字想不起来了？](https://www.v2ex.com/t/831874) ![](assets/new.png)  
+- [2022-02-04-华为工作到底行不行](https://www.v2ex.com/t/831873) ![](assets/new.png)  
+- [2022-02-04-月薪-30-50K，区块链前端/后端急招，长期远程机会。](https://www.v2ex.com/t/831871) ![](assets/new.png)  
+- [2022-02-04-冬天里的静电](https://www.v2ex.com/t/831870) ![](assets/new.png)  
 - [2022-02-04-开发机没有显示器，怎么给开发机加一个串口](https://www.v2ex.com/t/831869) ![](assets/new.png)  
 - [2022-02-04-本来想买本《某文化手册》看的，但当我看到某的价值观其中影响力Impact,把我吓到了。还好没买。](https://www.v2ex.com/t/831867) ![](assets/new.png)  
 - [2022-02-04-Mac-OS-如何让云主机（Windows）读取本地-U-盘内容?](https://www.v2ex.com/t/831866) ![](assets/new.png)  
@@ -507,10 +511,6 @@
 - [2022-02-04-GV-已绑定真实手机号且获取了-GV-号码的情况下，能否删掉重新选号而不需要再次验证手机？](https://www.v2ex.com/t/831850) ![](assets/new.png)  
 - [2022-02-04-明明公司-21-年数据很好看，年终却砍一半，求分析](https://www.v2ex.com/t/831847) ![](assets/new.png)  
 - [2022-02-04-谁能解释一下这段代码为什么在别的浏览器能工作但在-Safari-下不能工作吗？太离奇了](https://www.v2ex.com/t/831846) ![](assets/new.png)  
-- [2022-02-04-NTFS3-性能真强](https://www.v2ex.com/t/831844) ![](assets/new.png)  
-- [2022-02-04-macOS-12.2-更新后，启动电脑闪屏](https://www.v2ex.com/t/831843) ![](assets/new.png)  
-- [2022-02-04-苹果播客应用闪退](https://www.v2ex.com/t/831842) ![](assets/new.png)  
-- [2022-02-04-国内-app-使用密码管理工具不兼容的问题该如何解决？](https://www.v2ex.com/t/831840) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -563,10 +563,10 @@
 - [2022-02-04-低代码：有点毒瘤，但管用就好](https://toutiao.io/k/9fly7qs) ![](assets/new.png)  
 - [2022-02-04-作为研发Leader，如何做总结](https://toutiao.io/k/1g7flto) ![](assets/new.png)  
 - [2022-02-04-从-IaC-到-IaD](https://toutiao.io/k/e1ty4o4) ![](assets/new.png)  
-- [2022-02-04-推荐-字节的分布式链路追踪实践，教科书式的搭建指南](https://toutiao.io/k/t6j66db) ![](assets/new.png)  
 - [2022-02-04-推荐-面试官问:-如何设计一个高并发系统?](https://toutiao.io/k/7hrrplb) ![](assets/new.png)  
-- [2022-02-04-推荐-面试官问：设计高并发系统的时候，数据库层面该如何设计？](https://toutiao.io/k/p935kqr) ![](assets/new.png)  
+- [2022-02-04-推荐-字节的分布式链路追踪实践，教科书式的搭建指南](https://toutiao.io/k/t6j66db) ![](assets/new.png)  
 - [2022-02-04-推荐-技术干货｜缓存一致性最佳实践](https://toutiao.io/k/zgmi04u) ![](assets/new.png)  
+- [2022-02-04-推荐-面试官问：设计高并发系统的时候，数据库层面该如何设计？](https://toutiao.io/k/p935kqr) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

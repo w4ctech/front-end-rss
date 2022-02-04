@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-02-04 07:17:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-04 07:36:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1736,6 +1736,10 @@
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2021-11-14-密码强度效果最佳实现一定是HTML-meter元素](https://www.zhangxinxu.com/wordpress/2021/11/html-meter-password/) 
 - [2021-11-02-见多识广，介绍Web开发中current开头的一些API属性](https://www.zhangxinxu.com/wordpress/2021/11/currentscript-currenttarget-currentsrc/) 
+- [2022-02-04-有个线下约谈大佬的-app-叫啥名字想不起来了？](https://www.v2ex.com/t/831874) 
+- [2022-02-04-华为工作到底行不行](https://www.v2ex.com/t/831873) 
+- [2022-02-04-月薪-30-50K，区块链前端/后端急招，长期远程机会。](https://www.v2ex.com/t/831871) 
+- [2022-02-04-冬天里的静电](https://www.v2ex.com/t/831870) 
 - [2022-02-04-开发机没有显示器，怎么给开发机加一个串口](https://www.v2ex.com/t/831869) 
 - [2022-02-04-本来想买本《某文化手册》看的，但当我看到某的价值观其中影响力Impact,把我吓到了。还好没买。](https://www.v2ex.com/t/831867) 
 - [2022-02-04-Mac-OS-如何让云主机（Windows）读取本地-U-盘内容?](https://www.v2ex.com/t/831866) 
@@ -1763,8 +1767,6 @@
 - [2022-02-03-桌上置物架有什么好选项么](https://www.v2ex.com/t/831827) 
 - [2022-02-03-关于-iPhone-SE3](https://www.v2ex.com/t/831826) 
 - [2022-02-03-记一次-mbp2021-14“故障及送修过程](https://www.v2ex.com/t/831825) 
-- [2022-02-03-安装-manjaro-gnome：这是缺少引导文件吗？](https://www.v2ex.com/t/831823) 
-- [2022-02-03-🐶-goal-的用户认证（Auth）模块完成，离生产环境又双叒叕近了一步！](https://www.v2ex.com/t/831820) 
 - [2022-02-04-Mac-终端下-实现-安装-ipa-包到-iPhone-真机-droidyue.com](https://blogread.cn/news/go.php?idItem=14922&url=https%3A%2F%2Fdroidyue.com%2Fblog%2F2022%2F01%2F03%2Fhow-to-install-ipa-on-iphone-in-terminal%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-02-04-ECS-中同类关联数据的处理-blog.codingnow.com](https://blogread.cn/news/go.php?idItem=14921&url=https%3A%2F%2Fblog.codingnow.com%2F2021%2F11%2Frelated_components.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-02-04-优质网站同好者周刊（第-050-期）-blog.nicelinks.site](https://blogread.cn/news/go.php?idItem=14918&url=https%3A%2F%2Fblog.nicelinks.site%2Fweekly-050%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

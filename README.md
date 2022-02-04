@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-04 10:19:36，:rocket: 更新条数: +1835， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-04 10:35:49，:rocket: 更新条数: +1837， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -65,7 +65,9 @@
 </summary>
 
 
+- [2022-02-04-最新疫情：全国新冠累计确诊106270例-累计接种新冠疫苗超30.01亿剂次](https://m.caixin.com/m/2022-02-04/101837643.html) ![](assets/new.png)  
 - [2022-02-04-最新海外疫情：新冠感染超3.87亿-累计接种新冠疫苗超101.27亿剂次](https://m.caixin.com/m/2022-02-04/101837639.html) ![](assets/new.png)  
+- [2022-02-04-【境内疫情观察】全国新增12例本土病例（2月3日）](https://database.caixin.com/m/2022-02-04/101837666.html) ![](assets/new.png)  
 - [2022-02-04-首个新冠人类挑战试验带来重要发现-欧洲解封范围扩大｜大流行手记（2月3日）](https://m.caixin.com/m/2022-02-04/101837579.html) ![](assets/new.png)  
 - [2022-02-03-北京地坛医院1名医务人员确诊，为应急隔离区医生](https://m.caixin.com/m/2022-02-03/101837518.html) ![](assets/new.png)  
 - [2022-02-03-【境内疫情观察】全国新增21例本土病例（2月2日）](https://database.caixin.com/m/2022-02-03/101837478.html) ![](assets/new.png)  
@@ -83,8 +85,6 @@
 - [2022-01-30-【境内疫情观察】全国新增54例本土病例（1月29日）](https://database.caixin.com/m/2022-01-30/101836868.html) ![](assets/new.png)  
 - [2022-01-30-英格兰为5-11岁高风险儿童接种疫苗-俄罗斯日增10万例｜大流行手记（1月29日）](https://m.caixin.com/m/2022-01-30/101836760.html) ![](assets/new.png)  
 - [2022-01-30-研发方回应首款国产新冠mRNA疫苗发热问题：与限制用药有关](https://m.caixin.com/m/2022-01-30/101836836.html) ![](assets/new.png)  
-- [2022-01-29-国务院强调不得随意禁止外地群众返乡过年](https://m.caixin.com/m/2022-01-29/101836501.html) ![](assets/new.png)  
-- [2022-01-29-北京新增12例本土新冠确诊病例-涉及丰台、大兴、朝阳](https://m.caixin.com/m/2022-01-29/101836535.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -563,10 +563,10 @@
 - [2022-02-04-低代码：有点毒瘤，但管用就好](https://toutiao.io/k/9fly7qs) ![](assets/new.png)  
 - [2022-02-04-作为研发Leader，如何做总结](https://toutiao.io/k/1g7flto) ![](assets/new.png)  
 - [2022-02-04-从-IaC-到-IaD](https://toutiao.io/k/e1ty4o4) ![](assets/new.png)  
-- [2022-02-04-推荐-面试官问：设计高并发系统的时候，数据库层面该如何设计？](https://toutiao.io/k/p935kqr) ![](assets/new.png)  
-- [2022-02-04-推荐-技术干货｜缓存一致性最佳实践](https://toutiao.io/k/zgmi04u) ![](assets/new.png)  
 - [2022-02-04-推荐-字节的分布式链路追踪实践，教科书式的搭建指南](https://toutiao.io/k/t6j66db) ![](assets/new.png)  
 - [2022-02-04-推荐-面试官问:-如何设计一个高并发系统?](https://toutiao.io/k/7hrrplb) ![](assets/new.png)  
+- [2022-02-04-推荐-技术干货｜缓存一致性最佳实践](https://toutiao.io/k/zgmi04u) ![](assets/new.png)  
+- [2022-02-04-推荐-面试官问：设计高并发系统的时候，数据库层面该如何设计？](https://toutiao.io/k/p935kqr) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

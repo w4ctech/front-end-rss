@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-04 08:20:53，:rocket: 更新条数: +1837， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-04 08:35:57，:rocket: 更新条数: +1837， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-02-04-有没有开发者做-Google-Play-或者-iOS-开发的，进来聊聊盈利机会和注意事项](https://www.v2ex.com/t/831879) ![](assets/new.png)  
 - [2022-02-04-Safari-的兼容性真的不行](https://www.v2ex.com/t/831878) ![](assets/new.png)  
 - [2022-02-04-有没网站是分享自己的他人的，聊天记录，对话记录。忘记附聊天记录在哪看见过了](https://www.v2ex.com/t/831877) ![](assets/new.png)  
 - [2022-02-04-Tinder-上面的-79-次赞有什么特殊含义吗](https://www.v2ex.com/t/831875) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-02-04-中国电信-CN2-专属-IPV6-公共-DNS！？](https://www.v2ex.com/t/831856) ![](assets/new.png)  
 - [2022-02-04-上海/远程-海外闲置物品交易平台招聘-golang/flutter](https://www.v2ex.com/t/831855) ![](assets/new.png)  
 - [2022-02-04-深圳-拥抱全球数据文化.招聘数据开发-or-分析工程师Analytics-engineer](https://www.v2ex.com/t/831853) ![](assets/new.png)  
-- [2022-02-04-操作系统无法唤醒](https://www.v2ex.com/t/831852) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

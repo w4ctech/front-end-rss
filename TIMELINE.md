@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-02-04 08:20:53。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-02-04 08:35:57。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -80,6 +80,7 @@
 - [【武汉肺炎防疫全纪录(财新网)】2022-02-01-聚焦｜张文宏：未来抗疫，是努力夺回正常生活的过程](https://opinion.caixin.com/m/2022-02-01/101837206.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2022-02-01-【境内疫情观察】全国累计接种新冠疫苗逾30亿剂次（1月31日）](https://database.caixin.com/m/2022-02-01/101837162.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2022-02-01-德国未实现接种目标-奥地利强制接种疫苗法律生效｜大流行手记（1月31日）](https://m.caixin.com/m/2022-02-01/101837106.html) 
+- [【V2EX】2022-02-04-有没有开发者做-Google-Play-或者-iOS-开发的，进来聊聊盈利机会和注意事项](https://www.v2ex.com/t/831879) 
 - [【V2EX】2022-02-04-Safari-的兼容性真的不行](https://www.v2ex.com/t/831878) 
 - [【V2EX】2022-02-04-有没网站是分享自己的他人的，聊天记录，对话记录。忘记附聊天记录在哪看见过了](https://www.v2ex.com/t/831877) 
 - [【V2EX】2022-02-04-Tinder-上面的-79-次赞有什么特殊含义吗](https://www.v2ex.com/t/831875) 
@@ -115,7 +116,6 @@
 - [【V2EX】2022-02-03-单指可以缩放-google-maps？不会的进来学习下](https://www.v2ex.com/t/831832) 
 - [【V2EX】2022-02-03-程序员肉翻德国-FAQ](https://www.v2ex.com/t/831831) 
 - [【V2EX】2022-02-03-请问电信光猫不给-IPv6-地址能投诉解决吗](https://www.v2ex.com/t/831830) 
-- [【V2EX】2022-02-03-想问一下笔记本插一根-32G-内存条好还是-2-根-16G-的好？](https://www.v2ex.com/t/831829) 
 - [【技术头条】2022-02-04-Mac-终端下-实现-安装-ipa-包到-iPhone-真机-droidyue.com](https://blogread.cn/news/go.php?idItem=14922&url=https%3A%2F%2Fdroidyue.com%2Fblog%2F2022%2F01%2F03%2Fhow-to-install-ipa-on-iphone-in-terminal%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-02-04-ECS-中同类关联数据的处理-blog.codingnow.com](https://blogread.cn/news/go.php?idItem=14921&url=https%3A%2F%2Fblog.codingnow.com%2F2021%2F11%2Frelated_components.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-02-04-你不知道的CSS-media查询与用户体验-www.zhangxinxu.com](https://blogread.cn/news/go.php?idItem=14920&url=https%3A%2F%2Fwww.zhangxinxu.com%2Fwordpress%2F2021%2F12%2Fcss-meida-user-experience%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

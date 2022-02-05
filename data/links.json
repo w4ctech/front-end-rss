@@ -9078,6 +9078,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "Technōs 真是日本最可惜的游戏公司",
+        "link": "https://www.v2ex.com/t/832024",
+        "date": "2022-02-05"
+      },
+      {
         "title": "夜深人静，思考着未来",
         "link": "https://www.v2ex.com/t/832023",
         "date": "2022-02-05"
@@ -9218,11 +9223,6 @@
         "date": "2022-02-05"
       },
       {
-        "title": "蝈蝻舔狗是真的多",
-        "link": "https://www.v2ex.com/t/831988",
-        "date": "2022-02-05"
-      },
-      {
         "title": "开源：基于 Flask 的 RSS 文章自动化采集项目",
         "link": "https://www.v2ex.com/t/831987",
         "date": "2022-02-05"
@@ -9285,11 +9285,6 @@
       {
         "title": "有比较好的播客推荐吗",
         "link": "https://www.v2ex.com/t/831975",
-        "date": "2022-02-05"
-      },
-      {
-        "title": "一个仿照 xv6 实现的玩具操作系统，基于 RISC-V，有从零开始的教程",
-        "link": "https://www.v2ex.com/t/831974",
         "date": "2022-02-05"
       }
     ]
@@ -9457,13 +9452,13 @@
         "date": "2022-02-05"
       },
       {
-        "title": "[推荐] 字节的分布式链路追踪实践，教科书式的搭建指南",
-        "link": "https://toutiao.io/k/t6j66db",
+        "title": "[推荐] 技术干货｜缓存一致性最佳实践",
+        "link": "https://toutiao.io/k/zgmi04u",
         "date": "2022-02-05"
       },
       {
-        "title": "[推荐] 技术干货｜缓存一致性最佳实践",
-        "link": "https://toutiao.io/k/zgmi04u",
+        "title": "[推荐] 字节的分布式链路追踪实践，教科书式的搭建指南",
+        "link": "https://toutiao.io/k/t6j66db",
         "date": "2022-02-05"
       },
       {

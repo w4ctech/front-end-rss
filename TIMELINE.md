@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-02-05 05:10:28。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-02-05 05:16:55。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -149,8 +149,8 @@
 - [【开发者头条】2022-02-05-优质网站同好者周刊（第-51-期）--倾城之链---悠然宜想亭](https://toutiao.io/k/jymdjoq) 
 - [【开发者头条】2022-02-05-腾讯音乐知识图谱搜索实践](https://toutiao.io/k/873mk1g) 
 - [【开发者头条】2022-02-05-2022-技术趋势：Go、Rust-将大放异彩](https://toutiao.io/k/jjrci58) 
-- [【开发者头条】2022-02-05-CNCF培育的OpenMetrics成为孵化项目](https://toutiao.io/k/wr97cij) 
 - [【开发者头条】2022-02-05-解读-5-种软件架构模式](https://toutiao.io/k/kzkb0tp) 
+- [【开发者头条】2022-02-05-CNCF培育的OpenMetrics成为孵化项目](https://toutiao.io/k/wr97cij) 
 - [【开发者头条】2022-02-05-React-新的文档用到了哪些技术？](https://toutiao.io/k/gpsq0q2) 
 - [【开发者头条】2022-02-05-用了五年-VS-Code-，我决定换成-JetBrains……](https://toutiao.io/k/kh404qx) 
 - [【开发者头条】2022-02-05-推荐-字节的分布式链路追踪实践，教科书式的搭建指南](https://toutiao.io/k/t6j66db) 

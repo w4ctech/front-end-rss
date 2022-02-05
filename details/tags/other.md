@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-02-05 21:54:43。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-05 22:15:50。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1740,6 +1740,7 @@
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2022-02-04-HTML-inputmode与iOS-Android软键盘类型测试](https://www.zhangxinxu.com/wordpress/2022/02/html-inputmode-keyboard/) 
 - [2021-11-14-密码强度效果最佳实现一定是HTML-meter元素](https://www.zhangxinxu.com/wordpress/2021/11/html-meter-password/) 
+- [2022-02-05-换新手机了-但有好有坏（K40）](https://www.v2ex.com/t/832025) 
 - [2022-02-05-夜深人静，思考着未来](https://www.v2ex.com/t/832023) 
 - [2022-02-05-对访问频率的限制是否过于严格了](https://www.v2ex.com/t/832022) 
 - [2022-02-05-请教一个-Python-浮点数的小问题](https://www.v2ex.com/t/832021) 
@@ -1779,7 +1780,6 @@
 - [2022-02-05-iOS15.XX-最近几个版本-iCloud-经常卡死](https://www.v2ex.com/t/831978) 
 - [2022-02-05-公司解散，赔偿问题](https://www.v2ex.com/t/831977) 
 - [2022-02-05-还有什么网盘能用-Python-批量上传的？](https://www.v2ex.com/t/831976) 
-- [2022-02-05-有比较好的播客推荐吗](https://www.v2ex.com/t/831975) 
 - [2022-02-05-微话搭建优质-Web-应用其一-forum.lovejade.cn](https://blogread.cn/news/go.php?idItem=14928&url=https%3A%2F%2Fforum.lovejade.cn%2Fd%2F141-web%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-02-05-Puppeteer-使用分享及注意事项-forum.lovejade.cn](https://blogread.cn/news/go.php?idItem=14927&url=https%3A%2F%2Fforum.lovejade.cn%2Fd%2F145-puppeteer%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-02-05-优质网站同好者周刊（第-51-期）--倾城之链-blog.nicelinks.site](https://blogread.cn/news/go.php?idItem=14926&url=https%3A%2F%2Fblog.nicelinks.site%2Fweekly-051%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

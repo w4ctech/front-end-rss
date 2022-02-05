@@ -9068,6 +9068,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "快速检测相机镜头 cmos 上的灰尘，一键去除照片上的污点",
+        "link": "https://www.v2ex.com/t/831966",
+        "date": "2022-02-05"
+      },
+      {
         "title": "iOS 的 anki 有没有办法使用自建服务器进行同步，或者提升同步速度？",
         "link": "https://www.v2ex.com/t/831965",
         "date": "2022-02-05"
@@ -9256,11 +9261,6 @@
         "title": "某猫是啥时候开始躺平的？",
         "link": "https://www.v2ex.com/t/831917",
         "date": "2022-02-04"
-      },
-      {
-        "title": "发现一个怪事，高学历毕业后在一线城市只能拿到十几万的工资，在老家可能被轻轻松松安排到差不多工资的工作",
-        "link": "https://www.v2ex.com/t/831916",
-        "date": "2022-02-04"
       }
     ]
   },
@@ -9402,13 +9402,13 @@
         "date": "2022-02-05"
       },
       {
-        "title": "2022 技术趋势：Go、Rust 将大放异彩",
-        "link": "https://toutiao.io/k/jjrci58",
+        "title": "CNCF培育的OpenMetrics成为孵化项目",
+        "link": "https://toutiao.io/k/wr97cij",
         "date": "2022-02-05"
       },
       {
-        "title": "CNCF培育的OpenMetrics成为孵化项目",
-        "link": "https://toutiao.io/k/wr97cij",
+        "title": "2022 技术趋势：Go、Rust 将大放异彩",
+        "link": "https://toutiao.io/k/jjrci58",
         "date": "2022-02-05"
       },
       {
@@ -9427,8 +9427,8 @@
         "date": "2022-02-05"
       },
       {
-        "title": "[推荐] 面试官问: 如何设计一个高并发系统?",
-        "link": "https://toutiao.io/k/7hrrplb",
+        "title": "[推荐] 技术干货｜缓存一致性最佳实践",
+        "link": "https://toutiao.io/k/zgmi04u",
         "date": "2022-02-05"
       },
       {
@@ -9437,8 +9437,8 @@
         "date": "2022-02-05"
       },
       {
-        "title": "[推荐] 技术干货｜缓存一致性最佳实践",
-        "link": "https://toutiao.io/k/zgmi04u",
+        "title": "[推荐] 面试官问: 如何设计一个高并发系统?",
+        "link": "https://toutiao.io/k/7hrrplb",
         "date": "2022-02-05"
       }
     ]

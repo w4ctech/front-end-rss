@@ -9246,11 +9246,6 @@
         "title": "大家工作之后会阅读 paper 吗？",
         "link": "https://www.v2ex.com/t/831890",
         "date": "2022-02-04"
-      },
-      {
-        "title": "大家有东奥 4k 的直播源吗？--cctv5",
-        "link": "https://www.v2ex.com/t/831889",
-        "date": "2022-02-04"
       }
     ]
   },
@@ -9392,11 +9387,6 @@
         "date": "2022-02-05"
       },
       {
-        "title": "官方实锤！程序员被划为新生代农民工",
-        "link": "https://toutiao.io/k/w57zs6s",
-        "date": "2022-02-05"
-      },
-      {
         "title": "用了五年 VS Code ，我决定换成 JetBrains……",
         "link": "https://toutiao.io/k/kh404qx",
         "date": "2022-02-05"
@@ -9407,18 +9397,23 @@
         "date": "2022-02-05"
       },
       {
+        "title": "官方实锤！程序员被划为新生代农民工",
+        "link": "https://toutiao.io/k/w57zs6s",
+        "date": "2022-02-05"
+      },
+      {
         "title": "[推荐] 技术干货｜缓存一致性最佳实践",
         "link": "https://toutiao.io/k/zgmi04u",
         "date": "2022-02-05"
       },
       {
-        "title": "[推荐] 字节的分布式链路追踪实践，教科书式的搭建指南",
-        "link": "https://toutiao.io/k/t6j66db",
+        "title": "[推荐] 面试官问: 如何设计一个高并发系统?",
+        "link": "https://toutiao.io/k/7hrrplb",
         "date": "2022-02-05"
       },
       {
-        "title": "[推荐] 面试官问: 如何设计一个高并发系统?",
-        "link": "https://toutiao.io/k/7hrrplb",
+        "title": "[推荐] 字节的分布式链路追踪实践，教科书式的搭建指南",
+        "link": "https://toutiao.io/k/t6j66db",
         "date": "2022-02-05"
       }
     ]

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-05 06:40:53，:rocket: 更新条数: +1842， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-05 06:54:47，:rocket: 更新条数: +1842， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -555,8 +555,8 @@
 
 - [2022-02-05-优质网站同好者周刊（第-51-期）--倾城之链---悠然宜想亭](https://toutiao.io/k/jymdjoq) ![](assets/new.png)  
 - [2022-02-05-腾讯音乐知识图谱搜索实践](https://toutiao.io/k/873mk1g) ![](assets/new.png)  
-- [2022-02-05-解读-5-种软件架构模式](https://toutiao.io/k/kzkb0tp) ![](assets/new.png)  
 - [2022-02-05-React-新的文档用到了哪些技术？](https://toutiao.io/k/gpsq0q2) ![](assets/new.png)  
+- [2022-02-05-解读-5-种软件架构模式](https://toutiao.io/k/kzkb0tp) ![](assets/new.png)  
 - [2022-02-05-2022-技术趋势：Go、Rust-将大放异彩](https://toutiao.io/k/jjrci58) ![](assets/new.png)  
 - [2022-02-05-用了五年-VS-Code-，我决定换成-JetBrains……](https://toutiao.io/k/kh404qx) ![](assets/new.png)  
 - [2022-02-05-CNCF培育的OpenMetrics成为孵化项目](https://toutiao.io/k/wr97cij) ![](assets/new.png)  

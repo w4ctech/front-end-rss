@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-02-05 15:39:16。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-02-05 15:54:41。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -129,7 +129,6 @@
 - [【V2EX】2022-02-05-快速检测相机镜头-cmos-上的灰尘，一键去除照片上的污点](https://www.v2ex.com/t/831966) 
 - [【V2EX】2022-02-05-iOS-的-anki-有没有办法使用自建服务器进行同步，或者提升同步速度？](https://www.v2ex.com/t/831965) 
 - [【V2EX】2022-02-05-突然想着买买买](https://www.v2ex.com/t/831964) 
-- [【V2EX】2022-02-05-公务员申请外币卡](https://www.v2ex.com/t/831963) 
 - [【技术头条】2022-02-05-微话搭建优质-Web-应用其一-forum.lovejade.cn](https://blogread.cn/news/go.php?idItem=14928&url=https%3A%2F%2Fforum.lovejade.cn%2Fd%2F141-web%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-02-05-Puppeteer-使用分享及注意事项-forum.lovejade.cn](https://blogread.cn/news/go.php?idItem=14927&url=https%3A%2F%2Fforum.lovejade.cn%2Fd%2F145-puppeteer%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-02-05-优质网站同好者周刊（第-51-期）--倾城之链-blog.nicelinks.site](https://blogread.cn/news/go.php?idItem=14926&url=https%3A%2F%2Fblog.nicelinks.site%2Fweekly-051%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -160,9 +159,9 @@
 - [【开发者头条】2022-02-05-我在阿里做测开](https://toutiao.io/k/1h8u439) 
 - [【开发者头条】2022-02-05-Kubernetes初学者指南](https://toutiao.io/k/w6do9el) 
 - [【开发者头条】2022-02-05-CompletableFuture使用场景和实现原理](https://toutiao.io/k/cia4ar7) 
-- [【开发者头条】2022-02-05-推荐-字节的分布式链路追踪实践，教科书式的搭建指南](https://toutiao.io/k/t6j66db) 
 - [【开发者头条】2022-02-05-推荐-技术干货｜缓存一致性最佳实践](https://toutiao.io/k/zgmi04u) 
 - [【开发者头条】2022-02-05-推荐-面试官问:-如何设计一个高并发系统?](https://toutiao.io/k/7hrrplb) 
+- [【开发者头条】2022-02-05-推荐-字节的分布式链路追踪实践，教科书式的搭建指南](https://toutiao.io/k/t6j66db) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-05 08:54:16，:rocket: 更新条数: +1843， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-05 09:10:54，:rocket: 更新条数: +1842， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-02-05-一个仿照-xv6-实现的玩具操作系统，基于-RISC-V，有从零开始的教程](https://www.v2ex.com/t/831974) ![](assets/new.png)  
 - [2022-02-05-澳洲远程区块链-以太坊-Ethereum-/-EVM-兼容区块链-/-智能合约-Smart-Contract-/-Solidity](https://www.v2ex.com/t/831972) ![](assets/new.png)  
 - [2022-02-05-程序员该-run-去新加坡吗](https://www.v2ex.com/t/831971) ![](assets/new.png)  
 - [2022-02-05-再次迷茫了-遭遇大事还是顶住了](https://www.v2ex.com/t/831970) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-02-05-存了点定期存款，年化-4，主要是不懂得如何理财](https://www.v2ex.com/t/831949) ![](assets/new.png)  
 - [2022-02-05-上海神仙公司-米哈游·原神-全程跟进进度（2.5-更新长期有效）](https://www.v2ex.com/t/831948) ![](assets/new.png)  
 - [2022-02-05-求推荐个-app-，-ios-和-mac-可同步。目标主要侧重计算机类文档阅读能力](https://www.v2ex.com/t/831947) ![](assets/new.png)  
-- [2022-02-05-iOS-上微信选图片有什么好的解决方案嘛？](https://www.v2ex.com/t/831946) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -554,18 +554,18 @@
 
 
 - [2022-02-05-优质网站同好者周刊（第-51-期）--倾城之链---悠然宜想亭](https://toutiao.io/k/jymdjoq) ![](assets/new.png)  
-- [2022-02-05-腾讯音乐知识图谱搜索实践](https://toutiao.io/k/873mk1g) ![](assets/new.png)  
 - [2022-02-05-解读-5-种软件架构模式](https://toutiao.io/k/kzkb0tp) ![](assets/new.png)  
+- [2022-02-05-腾讯音乐知识图谱搜索实践](https://toutiao.io/k/873mk1g) ![](assets/new.png)  
 - [2022-02-05-React-新的文档用到了哪些技术？](https://toutiao.io/k/gpsq0q2) ![](assets/new.png)  
 - [2022-02-05-用了五年-VS-Code-，我决定换成-JetBrains……](https://toutiao.io/k/kh404qx) ![](assets/new.png)  
 - [2022-02-05-CNCF培育的OpenMetrics成为孵化项目](https://toutiao.io/k/wr97cij) ![](assets/new.png)  
 - [2022-02-05-2022-技术趋势：Go、Rust-将大放异彩](https://toutiao.io/k/jjrci58) ![](assets/new.png)  
 - [2022-02-05-我在阿里做测开](https://toutiao.io/k/1h8u439) ![](assets/new.png)  
-- [2022-02-05-Kubernetes初学者指南](https://toutiao.io/k/w6do9el) ![](assets/new.png)  
 - [2022-02-05-CompletableFuture使用场景和实现原理](https://toutiao.io/k/cia4ar7) ![](assets/new.png)  
+- [2022-02-05-Kubernetes初学者指南](https://toutiao.io/k/w6do9el) ![](assets/new.png)  
+- [2022-02-05-推荐-字节的分布式链路追踪实践，教科书式的搭建指南](https://toutiao.io/k/t6j66db) ![](assets/new.png)  
 - [2022-02-05-推荐-技术干货｜缓存一致性最佳实践](https://toutiao.io/k/zgmi04u) ![](assets/new.png)  
 - [2022-02-05-推荐-面试官问:-如何设计一个高并发系统?](https://toutiao.io/k/7hrrplb) ![](assets/new.png)  
-- [2022-02-05-推荐-字节的分布式链路追踪实践，教科书式的搭建指南](https://toutiao.io/k/t6j66db) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

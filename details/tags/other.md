@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-02-05 08:54:16。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-05 09:10:54。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1738,6 +1738,7 @@
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2022-02-04-HTML-inputmode与iOS-Android软键盘类型测试](https://www.zhangxinxu.com/wordpress/2022/02/html-inputmode-keyboard/) 
 - [2021-11-14-密码强度效果最佳实现一定是HTML-meter元素](https://www.zhangxinxu.com/wordpress/2021/11/html-meter-password/) 
+- [2022-02-05-一个仿照-xv6-实现的玩具操作系统，基于-RISC-V，有从零开始的教程](https://www.v2ex.com/t/831974) 
 - [2022-02-05-澳洲远程区块链-以太坊-Ethereum-/-EVM-兼容区块链-/-智能合约-Smart-Contract-/-Solidity](https://www.v2ex.com/t/831972) 
 - [2022-02-05-程序员该-run-去新加坡吗](https://www.v2ex.com/t/831971) 
 - [2022-02-05-再次迷茫了-遭遇大事还是顶住了](https://www.v2ex.com/t/831970) 
@@ -1771,8 +1772,6 @@
 - [2022-02-04-博客首页突然错位了。](https://www.v2ex.com/t/831931) 
 - [2022-02-04-cdn-被人刷了个-7-万的账单，是不是该报警？](https://www.v2ex.com/t/831929) 
 - [2022-02-04-有做社区论坛的站长吗？](https://www.v2ex.com/t/831927) 
-- [2022-02-04-别人说我自闭了](https://www.v2ex.com/t/831924) 
-- [2022-02-04-26-位大小写字母加上-0~9-数字的五位组合有多少种？](https://www.v2ex.com/t/831923) 
 - [2022-02-05-微话搭建优质-Web-应用其一-forum.lovejade.cn](https://blogread.cn/news/go.php?idItem=14928&url=https%3A%2F%2Fforum.lovejade.cn%2Fd%2F141-web%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-02-05-Puppeteer-使用分享及注意事项-forum.lovejade.cn](https://blogread.cn/news/go.php?idItem=14927&url=https%3A%2F%2Fforum.lovejade.cn%2Fd%2F145-puppeteer%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-02-05-优质网站同好者周刊（第-51-期）--倾城之链-blog.nicelinks.site](https://blogread.cn/news/go.php?idItem=14926&url=https%3A%2F%2Fblog.nicelinks.site%2Fweekly-051%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1789,12 +1788,12 @@
 - [2022-02-05-2021年10大流行软件测试工具-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14910&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493182%26amp%3Bidx%3D2%26amp%3Bsn%3Dd0808be25095064df4e148faf21fb915%26amp%3Bchksm%3Dfa3f0765cd488e73c3a0ede4bbd0a31fb822afbb649f8747894ebf6532433eb8e7ca23bf1281%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-02-05-5个免费在线SQL数据库环境，简直太方便了！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14909&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493177%26amp%3Bidx%3D2%26amp%3Bsn%3Dabab17fd476216398dfe1f016c4dcb84%26amp%3Bchksm%3Dfa3f0762cd488e7489964dbbfdb59b10f44ed9b5f7056ba6c5c63b268c6673677fd481af5a87%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-02-05-优质网站同好者周刊（第-51-期）--倾城之链---悠然宜想亭](https://toutiao.io/k/jymdjoq) 
-- [2022-02-05-腾讯音乐知识图谱搜索实践](https://toutiao.io/k/873mk1g) 
 - [2022-02-05-解读-5-种软件架构模式](https://toutiao.io/k/kzkb0tp) 
+- [2022-02-05-腾讯音乐知识图谱搜索实践](https://toutiao.io/k/873mk1g) 
 - [2022-02-05-用了五年-VS-Code-，我决定换成-JetBrains……](https://toutiao.io/k/kh404qx) 
 - [2022-02-05-CNCF培育的OpenMetrics成为孵化项目](https://toutiao.io/k/wr97cij) 
 - [2022-02-05-2022-技术趋势：Go、Rust-将大放异彩](https://toutiao.io/k/jjrci58) 
 - [2022-02-05-我在阿里做测开](https://toutiao.io/k/1h8u439) 
-- [2022-02-05-Kubernetes初学者指南](https://toutiao.io/k/w6do9el) 
 - [2022-02-05-CompletableFuture使用场景和实现原理](https://toutiao.io/k/cia4ar7) 
+- [2022-02-05-Kubernetes初学者指南](https://toutiao.io/k/w6do9el) 
 - [2022-02-05-推荐-字节的分布式链路追踪实践，教科书式的搭建指南](https://toutiao.io/k/t6j66db) 

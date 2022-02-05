@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-05 07:41:11，:rocket: 更新条数: +1841， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-05 07:54:35，:rocket: 更新条数: +1841， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-02-05-iOS-的-anki-有没有办法使用自建服务器进行同步，或者提升同步速度？](https://www.v2ex.com/t/831965) ![](assets/new.png)  
 - [2022-02-05-突然想着买买买](https://www.v2ex.com/t/831964) ![](assets/new.png)  
 - [2022-02-05-公务员申请外币卡](https://www.v2ex.com/t/831963) ![](assets/new.png)  
 - [2022-02-05-求推荐不限制-BT-下载并且支持微信支付的-VPS](https://www.v2ex.com/t/831959) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-02-05-你们-iCloud-还能正常备份吗？](https://www.v2ex.com/t/831941) ![](assets/new.png)  
 - [2022-02-05-日常拍摄的照片和视频素材怎么合理管理和备份呢？](https://www.v2ex.com/t/831940) ![](assets/new.png)  
 - [2022-02-05-移动端无法点击感谢](https://www.v2ex.com/t/831938) ![](assets/new.png)  
-- [2022-02-05-心态有点绷不住](https://www.v2ex.com/t/831937) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -563,8 +563,8 @@
 - [2022-02-05-我在阿里做测开](https://toutiao.io/k/1h8u439) ![](assets/new.png)  
 - [2022-02-05-Kubernetes初学者指南](https://toutiao.io/k/w6do9el) ![](assets/new.png)  
 - [2022-02-05-CompletableFuture使用场景和实现原理](https://toutiao.io/k/cia4ar7) ![](assets/new.png)  
-- [2022-02-05-推荐-字节的分布式链路追踪实践，教科书式的搭建指南](https://toutiao.io/k/t6j66db) ![](assets/new.png)  
 - [2022-02-05-推荐-面试官问:-如何设计一个高并发系统?](https://toutiao.io/k/7hrrplb) ![](assets/new.png)  
+- [2022-02-05-推荐-字节的分布式链路追踪实践，教科书式的搭建指南](https://toutiao.io/k/t6j66db) ![](assets/new.png)  
 - [2022-02-05-推荐-技术干货｜缓存一致性最佳实践](https://toutiao.io/k/zgmi04u) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

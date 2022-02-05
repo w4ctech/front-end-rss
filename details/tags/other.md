@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-02-05 07:41:11。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-05 07:54:35。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1738,6 +1738,7 @@
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2022-02-04-HTML-inputmode与iOS-Android软键盘类型测试](https://www.zhangxinxu.com/wordpress/2022/02/html-inputmode-keyboard/) 
 - [2021-11-14-密码强度效果最佳实现一定是HTML-meter元素](https://www.zhangxinxu.com/wordpress/2021/11/html-meter-password/) 
+- [2022-02-05-iOS-的-anki-有没有办法使用自建服务器进行同步，或者提升同步速度？](https://www.v2ex.com/t/831965) 
 - [2022-02-05-突然想着买买买](https://www.v2ex.com/t/831964) 
 - [2022-02-05-公务员申请外币卡](https://www.v2ex.com/t/831963) 
 - [2022-02-05-求推荐不限制-BT-下载并且支持微信支付的-VPS](https://www.v2ex.com/t/831959) 
@@ -1770,7 +1771,6 @@
 - [2022-02-04-油车里面自动驾驶做的最好的品牌是哪个？](https://www.v2ex.com/t/831919) 
 - [2022-02-04-某猫是啥时候开始躺平的？](https://www.v2ex.com/t/831917) 
 - [2022-02-04-发现一个怪事，高学历毕业后在一线城市只能拿到十几万的工资，在老家可能被轻轻松松安排到差不多工资的工作](https://www.v2ex.com/t/831916) 
-- [2022-02-04-北京哪家宽带好？](https://www.v2ex.com/t/831915) 
 - [2022-02-05-微话搭建优质-Web-应用其一-forum.lovejade.cn](https://blogread.cn/news/go.php?idItem=14928&url=https%3A%2F%2Fforum.lovejade.cn%2Fd%2F141-web%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-02-05-Puppeteer-使用分享及注意事项-forum.lovejade.cn](https://blogread.cn/news/go.php?idItem=14927&url=https%3A%2F%2Fforum.lovejade.cn%2Fd%2F145-puppeteer%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-02-05-优质网站同好者周刊（第-51-期）--倾城之链-blog.nicelinks.site](https://blogread.cn/news/go.php?idItem=14926&url=https%3A%2F%2Fblog.nicelinks.site%2Fweekly-051%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

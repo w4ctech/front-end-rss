@@ -9068,6 +9068,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "平时的业务服务，你们使用消息队列吗？还是只有会出现高并发的业务",
+        "link": "https://www.v2ex.com/t/831967",
+        "date": "2022-02-05"
+      },
+      {
         "title": "快速检测相机镜头 cmos 上的灰尘，一键去除照片上的污点",
         "link": "https://www.v2ex.com/t/831966",
         "date": "2022-02-05"
@@ -9256,11 +9261,6 @@
         "title": "油车里面自动驾驶做的最好的品牌是哪个？",
         "link": "https://www.v2ex.com/t/831919",
         "date": "2022-02-04"
-      },
-      {
-        "title": "某猫是啥时候开始躺平的？",
-        "link": "https://www.v2ex.com/t/831917",
-        "date": "2022-02-04"
       }
     ]
   },
@@ -9427,13 +9427,13 @@
         "date": "2022-02-05"
       },
       {
-        "title": "[推荐] 技术干货｜缓存一致性最佳实践",
-        "link": "https://toutiao.io/k/zgmi04u",
+        "title": "[推荐] 字节的分布式链路追踪实践，教科书式的搭建指南",
+        "link": "https://toutiao.io/k/t6j66db",
         "date": "2022-02-05"
       },
       {
-        "title": "[推荐] 字节的分布式链路追踪实践，教科书式的搭建指南",
-        "link": "https://toutiao.io/k/t6j66db",
+        "title": "[推荐] 技术干货｜缓存一致性最佳实践",
+        "link": "https://toutiao.io/k/zgmi04u",
         "date": "2022-02-05"
       },
       {

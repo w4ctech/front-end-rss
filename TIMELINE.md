@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-02-05 01:36:52。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-02-05 01:45:07。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,7 +68,7 @@
 </summary>
 
 
-- [【武汉肺炎防疫全纪录(财新网)】2022-02-04-最新疫情：全国新冠累计确诊106270例-累计接种新冠疫苗超30.01亿剂次](https://m.caixin.com/m/2022-02-04/101837643.html) 
+- [【武汉肺炎防疫全纪录(财新网)】2022-02-05-2月4日全国新增新冠27例-三省份本土9例](https://m.caixin.com/m/2022-02-05/101837817.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2022-02-04-最新海外疫情：新冠感染超3.87亿-累计接种新冠疫苗超101.27亿剂次](https://m.caixin.com/m/2022-02-04/101837639.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2022-02-04-【境内疫情观察】全国新增12例本土病例（2月3日）](https://database.caixin.com/m/2022-02-04/101837666.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2022-02-04-首个新冠人类挑战试验带来重要发现-欧洲解封范围扩大｜大流行手记（2月3日）](https://m.caixin.com/m/2022-02-04/101837579.html) 
@@ -82,6 +82,7 @@
 - [【武汉肺炎防疫全纪录(财新网)】2022-02-01-【境内疫情观察】全国累计接种新冠疫苗逾30亿剂次（1月31日）](https://database.caixin.com/m/2022-02-01/101837162.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2022-02-01-德国未实现接种目标-奥地利强制接种疫苗法律生效｜大流行手记（1月31日）](https://m.caixin.com/m/2022-02-01/101837106.html) 
 - [【张鑫旭-鑫空间-鑫生活】2022-02-04-HTML-inputmode与iOS-Android软键盘类型测试](https://www.zhangxinxu.com/wordpress/2022/02/html-inputmode-keyboard/) 
+- [【V2EX】2022-02-05-不刷-ROM-的情况下-部分国产手机无法支持-google-play-框架？](https://www.v2ex.com/t/831936) 
 - [【V2EX】2022-02-05-外网能否访问-vps-中的-127.0.0.1](https://www.v2ex.com/t/831935) 
 - [【V2EX】2022-02-05-Google-家庭共享问题](https://www.v2ex.com/t/831934) 
 - [【V2EX】2022-02-05-安卓平台上有没有可以自主刷-ROM-包的虚拟机工具？](https://www.v2ex.com/t/831933) 
@@ -119,7 +120,6 @@
 - [【V2EX】2022-02-04-大家有东奥-4k-的直播源吗？--cctv5](https://www.v2ex.com/t/831889) 
 - [【V2EX】2022-02-04-欧美远程开发的进来聊聊](https://www.v2ex.com/t/831888) 
 - [【V2EX】2022-02-04-应届选手最后的春招该何去何从？](https://www.v2ex.com/t/831887) 
-- [【V2EX】2022-02-04-猫咪看到我发狂怎么办](https://www.v2ex.com/t/831886) 
 - [【技术头条】2022-02-05-微话搭建优质-Web-应用其一-forum.lovejade.cn](https://blogread.cn/news/go.php?idItem=14928&url=https%3A%2F%2Fforum.lovejade.cn%2Fd%2F141-web%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-02-05-Puppeteer-使用分享及注意事项-forum.lovejade.cn](https://blogread.cn/news/go.php?idItem=14927&url=https%3A%2F%2Fforum.lovejade.cn%2Fd%2F145-puppeteer%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-02-05-优质网站同好者周刊（第-51-期）--倾城之链-blog.nicelinks.site](https://blogread.cn/news/go.php?idItem=14926&url=https%3A%2F%2Fblog.nicelinks.site%2Fweekly-051%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -145,9 +145,9 @@
 - [【开发者头条】2022-02-05-CNCF培育的OpenMetrics成为孵化项目](https://toutiao.io/k/wr97cij) 
 - [【开发者头条】2022-02-05-2022-技术趋势：Go、Rust-将大放异彩](https://toutiao.io/k/jjrci58) 
 - [【开发者头条】2022-02-05-React-新的文档用到了哪些技术？](https://toutiao.io/k/gpsq0q2) 
-- [【开发者头条】2022-02-05-推荐-字节的分布式链路追踪实践，教科书式的搭建指南](https://toutiao.io/k/t6j66db) 
 - [【开发者头条】2022-02-05-推荐-技术干货｜缓存一致性最佳实践](https://toutiao.io/k/zgmi04u) 
 - [【开发者头条】2022-02-05-推荐-面试官问:-如何设计一个高并发系统?](https://toutiao.io/k/7hrrplb) 
+- [【开发者头条】2022-02-05-推荐-字节的分布式链路追踪实践，教科书式的搭建指南](https://toutiao.io/k/t6j66db) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-05 01:36:52，:rocket: 更新条数: +1834， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-05 01:45:07，:rocket: 更新条数: +1834， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -65,7 +65,7 @@
 </summary>
 
 
-- [2022-02-04-最新疫情：全国新冠累计确诊106270例-累计接种新冠疫苗超30.01亿剂次](https://m.caixin.com/m/2022-02-04/101837643.html) ![](assets/new.png)  
+- [2022-02-05-2月4日全国新增新冠27例-三省份本土9例](https://m.caixin.com/m/2022-02-05/101837817.html) ![](assets/new.png)  
 - [2022-02-04-最新海外疫情：新冠感染超3.87亿-累计接种新冠疫苗超101.27亿剂次](https://m.caixin.com/m/2022-02-04/101837639.html) ![](assets/new.png)  
 - [2022-02-04-【境内疫情观察】全国新增12例本土病例（2月3日）](https://database.caixin.com/m/2022-02-04/101837666.html) ![](assets/new.png)  
 - [2022-02-04-首个新冠人类挑战试验带来重要发现-欧洲解封范围扩大｜大流行手记（2月3日）](https://m.caixin.com/m/2022-02-04/101837579.html) ![](assets/new.png)  
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-02-05-不刷-ROM-的情况下-部分国产手机无法支持-google-play-框架？](https://www.v2ex.com/t/831936) ![](assets/new.png)  
 - [2022-02-05-外网能否访问-vps-中的-127.0.0.1](https://www.v2ex.com/t/831935) ![](assets/new.png)  
 - [2022-02-05-Google-家庭共享问题](https://www.v2ex.com/t/831934) ![](assets/new.png)  
 - [2022-02-05-安卓平台上有没有可以自主刷-ROM-包的虚拟机工具？](https://www.v2ex.com/t/831933) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-02-04-发现一个怪事，高学历毕业后在一线城市只能拿到十几万的工资，在老家可能被轻轻松松安排到差不多工资的工作](https://www.v2ex.com/t/831916) ![](assets/new.png)  
 - [2022-02-04-北京哪家宽带好？](https://www.v2ex.com/t/831915) ![](assets/new.png)  
 - [2022-02-04-企业微信无反应](https://www.v2ex.com/t/831913) ![](assets/new.png)  
-- [2022-02-04-年后想在世纪城附近租房，哪个-app-或网站比较靠谱捏？](https://www.v2ex.com/t/831912) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -558,9 +558,9 @@
 - [2022-02-05-CNCF培育的OpenMetrics成为孵化项目](https://toutiao.io/k/wr97cij) ![](assets/new.png)  
 - [2022-02-05-2022-技术趋势：Go、Rust-将大放异彩](https://toutiao.io/k/jjrci58) ![](assets/new.png)  
 - [2022-02-05-React-新的文档用到了哪些技术？](https://toutiao.io/k/gpsq0q2) ![](assets/new.png)  
-- [2022-02-05-推荐-字节的分布式链路追踪实践，教科书式的搭建指南](https://toutiao.io/k/t6j66db) ![](assets/new.png)  
 - [2022-02-05-推荐-技术干货｜缓存一致性最佳实践](https://toutiao.io/k/zgmi04u) ![](assets/new.png)  
 - [2022-02-05-推荐-面试官问:-如何设计一个高并发系统?](https://toutiao.io/k/7hrrplb) ![](assets/new.png)  
+- [2022-02-05-推荐-字节的分布式链路追踪实践，教科书式的搭建指南](https://toutiao.io/k/t6j66db) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

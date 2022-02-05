@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-02-05 04:54:53。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-05 05:10:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1738,6 +1738,8 @@
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2022-02-04-HTML-inputmode与iOS-Android软键盘类型测试](https://www.zhangxinxu.com/wordpress/2022/02/html-inputmode-keyboard/) 
 - [2021-11-14-密码强度效果最佳实现一定是HTML-meter元素](https://www.zhangxinxu.com/wordpress/2021/11/html-meter-password/) 
+- [2022-02-05-想问下有什么高质量论坛推荐。](https://www.v2ex.com/t/831956) 
+- [2022-02-05-NTFS3-还存在许多小问题](https://www.v2ex.com/t/831955) 
 - [2022-02-05-吃饭的时候头顶拼命冒汗是什么病？](https://www.v2ex.com/t/831954) 
 - [2022-02-05-做复古方面的线上网站还有前景吗](https://www.v2ex.com/t/831953) 
 - [2022-02-05-Gran-Turismo-7:-State-of-Play](https://www.v2ex.com/t/831951) 
@@ -1772,8 +1774,6 @@
 - [2022-02-04-请问下外网怎么才能访问-vps-中的-127.0.0.1](https://www.v2ex.com/t/831910) 
 - [2022-02-04-访达右键菜单里的“服务”没有了](https://www.v2ex.com/t/831908) 
 - [2022-02-04-114,dnspod,阿里-dns-这-3-个-dns-里选一个的话，是不是选-ping-最低的就行](https://www.v2ex.com/t/831907) 
-- [2022-02-04-Mac-pro-键盘冒怎么拆出来-清洗？](https://www.v2ex.com/t/831906) 
-- [2022-02-04-新手，最近刚接触-Linux-类操作系统，想请问下-Linux-有没有软件下载站或者查询站](https://www.v2ex.com/t/831905) 
 - [2022-02-05-微话搭建优质-Web-应用其一-forum.lovejade.cn](https://blogread.cn/news/go.php?idItem=14928&url=https%3A%2F%2Fforum.lovejade.cn%2Fd%2F141-web%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-02-05-Puppeteer-使用分享及注意事项-forum.lovejade.cn](https://blogread.cn/news/go.php?idItem=14927&url=https%3A%2F%2Fforum.lovejade.cn%2Fd%2F145-puppeteer%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-02-05-优质网站同好者周刊（第-51-期）--倾城之链-blog.nicelinks.site](https://blogread.cn/news/go.php?idItem=14926&url=https%3A%2F%2Fblog.nicelinks.site%2Fweekly-051%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1790,8 +1790,8 @@
 - [2022-02-05-2021年10大流行软件测试工具-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14910&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493182%26amp%3Bidx%3D2%26amp%3Bsn%3Dd0808be25095064df4e148faf21fb915%26amp%3Bchksm%3Dfa3f0765cd488e73c3a0ede4bbd0a31fb822afbb649f8747894ebf6532433eb8e7ca23bf1281%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-02-05-5个免费在线SQL数据库环境，简直太方便了！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14909&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493177%26amp%3Bidx%3D2%26amp%3Bsn%3Dabab17fd476216398dfe1f016c4dcb84%26amp%3Bchksm%3Dfa3f0762cd488e7489964dbbfdb59b10f44ed9b5f7056ba6c5c63b268c6673677fd481af5a87%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-02-05-优质网站同好者周刊（第-51-期）--倾城之链---悠然宜想亭](https://toutiao.io/k/jymdjoq) 
-- [2022-02-05-2022-技术趋势：Go、Rust-将大放异彩](https://toutiao.io/k/jjrci58) 
 - [2022-02-05-腾讯音乐知识图谱搜索实践](https://toutiao.io/k/873mk1g) 
+- [2022-02-05-2022-技术趋势：Go、Rust-将大放异彩](https://toutiao.io/k/jjrci58) 
 - [2022-02-05-CNCF培育的OpenMetrics成为孵化项目](https://toutiao.io/k/wr97cij) 
 - [2022-02-05-解读-5-种软件架构模式](https://toutiao.io/k/kzkb0tp) 
 - [2022-02-05-用了五年-VS-Code-，我决定换成-JetBrains……](https://toutiao.io/k/kh404qx) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-02-05 04:13:12。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-05 04:22:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1738,6 +1738,7 @@
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2022-02-04-HTML-inputmode与iOS-Android软键盘类型测试](https://www.zhangxinxu.com/wordpress/2022/02/html-inputmode-keyboard/) 
 - [2021-11-14-密码强度效果最佳实现一定是HTML-meter元素](https://www.zhangxinxu.com/wordpress/2021/11/html-meter-password/) 
+- [2022-02-05-存了点定期存款，年化-4，主要是不懂得如何理财](https://www.v2ex.com/t/831949) 
 - [2022-02-05-上海神仙公司-米哈游·原神-全程跟进进度（2.5-更新长期有效）](https://www.v2ex.com/t/831948) 
 - [2022-02-05-求推荐个-app-，-ios-和-mac-可同步。目标主要侧重计算机类文档阅读能力](https://www.v2ex.com/t/831947) 
 - [2022-02-05-iOS-上微信选图片有什么好的解决方案嘛？](https://www.v2ex.com/t/831946) 
@@ -1764,13 +1765,13 @@
 - [2022-02-04-北京哪家宽带好？](https://www.v2ex.com/t/831915) 
 - [2022-02-04-企业微信无反应](https://www.v2ex.com/t/831913) 
 - [2022-02-04-年后想在世纪城附近租房，哪个-app-或网站比较靠谱捏？](https://www.v2ex.com/t/831912) 
+- [2022-02-04-请问下外网怎么才能访问-vps-中的-127.0.0.1](https://www.v2ex.com/t/831910) 
 - [2022-02-04-访达右键菜单里的“服务”没有了](https://www.v2ex.com/t/831908) 
 - [2022-02-04-114,dnspod,阿里-dns-这-3-个-dns-里选一个的话，是不是选-ping-最低的就行](https://www.v2ex.com/t/831907) 
 - [2022-02-04-Mac-pro-键盘冒怎么拆出来-清洗？](https://www.v2ex.com/t/831906) 
 - [2022-02-04-新手，最近刚接触-Linux-类操作系统，想请问下-Linux-有没有软件下载站或者查询站](https://www.v2ex.com/t/831905) 
 - [2022-02-04-老谋子审美确实在线的。](https://www.v2ex.com/t/831904) 
 - [2022-02-04-Java-关于多平台接入-Java-设计模式问题](https://www.v2ex.com/t/831902) 
-- [2022-02-04-Cmd+轻触失灵可能是硬件问题](https://www.v2ex.com/t/831899) 
 - [2022-02-05-微话搭建优质-Web-应用其一-forum.lovejade.cn](https://blogread.cn/news/go.php?idItem=14928&url=https%3A%2F%2Fforum.lovejade.cn%2Fd%2F141-web%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-02-05-Puppeteer-使用分享及注意事项-forum.lovejade.cn](https://blogread.cn/news/go.php?idItem=14927&url=https%3A%2F%2Fforum.lovejade.cn%2Fd%2F145-puppeteer%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-02-05-优质网站同好者周刊（第-51-期）--倾城之链-blog.nicelinks.site](https://blogread.cn/news/go.php?idItem=14926&url=https%3A%2F%2Fblog.nicelinks.site%2Fweekly-051%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-02-05 02:54:53。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-02-05 03:11:33。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -82,6 +82,7 @@
 - [【武汉肺炎防疫全纪录(财新网)】2022-02-01-【境内疫情观察】全国累计接种新冠疫苗逾30亿剂次（1月31日）](https://database.caixin.com/m/2022-02-01/101837162.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2022-02-01-德国未实现接种目标-奥地利强制接种疫苗法律生效｜大流行手记（1月31日）](https://m.caixin.com/m/2022-02-01/101837106.html) 
 - [【张鑫旭-鑫空间-鑫生活】2022-02-04-HTML-inputmode与iOS-Android软键盘类型测试](https://www.zhangxinxu.com/wordpress/2022/02/html-inputmode-keyboard/) 
+- [【V2EX】2022-02-05-求推荐显示器？](https://www.v2ex.com/t/831942) 
 - [【V2EX】2022-02-05-你们-iCloud-还能正常备份吗？](https://www.v2ex.com/t/831941) 
 - [【V2EX】2022-02-05-日常拍摄的照片和视频素材怎么合理管理和备份呢？](https://www.v2ex.com/t/831940) 
 - [【V2EX】2022-02-05-移动端无法点击感谢](https://www.v2ex.com/t/831938) 
@@ -118,7 +119,6 @@
 - [【V2EX】2022-02-04-怎么判断一个公司的基础架构水平](https://www.v2ex.com/t/831898) 
 - [【V2EX】2022-02-04-丢币了,心情复杂](https://www.v2ex.com/t/831896) 
 - [【V2EX】2022-02-04-有没有质量较高的-5-分钟之内的简短英文播客，美式发音的？](https://www.v2ex.com/t/831894) 
-- [【V2EX】2022-02-04-谁能看图片识别字体？感觉这个字体挺好看](https://www.v2ex.com/t/831892) 
 - [【技术头条】2022-02-05-微话搭建优质-Web-应用其一-forum.lovejade.cn](https://blogread.cn/news/go.php?idItem=14928&url=https%3A%2F%2Fforum.lovejade.cn%2Fd%2F141-web%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-02-05-Puppeteer-使用分享及注意事项-forum.lovejade.cn](https://blogread.cn/news/go.php?idItem=14927&url=https%3A%2F%2Fforum.lovejade.cn%2Fd%2F145-puppeteer%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-02-05-优质网站同好者周刊（第-51-期）--倾城之链-blog.nicelinks.site](https://blogread.cn/news/go.php?idItem=14926&url=https%3A%2F%2Fblog.nicelinks.site%2Fweekly-051%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -147,9 +147,9 @@
 - [【开发者头条】2022-02-05-用了五年-VS-Code-，我决定换成-JetBrains……](https://toutiao.io/k/kh404qx) 
 - [【开发者头条】2022-02-05-解读-5-种软件架构模式](https://toutiao.io/k/kzkb0tp) 
 - [【开发者头条】2022-02-05-官方实锤！程序员被划为新生代农民工](https://toutiao.io/k/w57zs6s) 
-- [【开发者头条】2022-02-05-推荐-字节的分布式链路追踪实践，教科书式的搭建指南](https://toutiao.io/k/t6j66db) 
 - [【开发者头条】2022-02-05-推荐-技术干货｜缓存一致性最佳实践](https://toutiao.io/k/zgmi04u) 
 - [【开发者头条】2022-02-05-推荐-面试官问:-如何设计一个高并发系统?](https://toutiao.io/k/7hrrplb) 
+- [【开发者头条】2022-02-05-推荐-字节的分布式链路追踪实践，教科书式的搭建指南](https://toutiao.io/k/t6j66db) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

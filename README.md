@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-05 07:35:30，:rocket: 更新条数: +1841， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-05 07:41:11，:rocket: 更新条数: +1841， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-02-05-突然想着买买买](https://www.v2ex.com/t/831964) ![](assets/new.png)  
+- [2022-02-05-公务员申请外币卡](https://www.v2ex.com/t/831963) ![](assets/new.png)  
 - [2022-02-05-求推荐不限制-BT-下载并且支持微信支付的-VPS](https://www.v2ex.com/t/831959) ![](assets/new.png)  
 - [2022-02-05-NTFS3-还存在许多小问题](https://www.v2ex.com/t/831955) ![](assets/new.png)  
 - [2022-02-05-吃饭的时候头顶拼命冒汗是什么病？](https://www.v2ex.com/t/831954) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-02-05-日常拍摄的照片和视频素材怎么合理管理和备份呢？](https://www.v2ex.com/t/831940) ![](assets/new.png)  
 - [2022-02-05-移动端无法点击感谢](https://www.v2ex.com/t/831938) ![](assets/new.png)  
 - [2022-02-05-心态有点绷不住](https://www.v2ex.com/t/831937) ![](assets/new.png)  
-- [2022-02-05-不刷-ROM-的情况下-部分国产手机无法支持-google-play-框架？](https://www.v2ex.com/t/831936) ![](assets/new.png)  
-- [2022-02-05-外网能否访问-vps-中的-127.0.0.1](https://www.v2ex.com/t/831935) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

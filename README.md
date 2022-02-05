@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-05 12:59:06，:rocket: 更新条数: +1844， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-05 13:10:56，:rocket: 更新条数: +1845， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,10 @@
 </summary>
 
 
+- [2022-02-05-你们怎么看-mbti-这种测试呢？](https://www.v2ex.com/t/831995) ![](assets/new.png)  
+- [2022-02-05-过年又没带对象回家](https://www.v2ex.com/t/831994) ![](assets/new.png)  
+- [2022-02-05-如果每天默念"我是废物"一百遍会有什么变化](https://www.v2ex.com/t/831993) ![](assets/new.png)  
+- [2022-02-05-中文独立博客的年化“腐烂率”——8%](https://www.v2ex.com/t/831992) ![](assets/new.png)  
 - [2022-02-05-开源，无内购&广告的公益游戏能在无版号的情况下上架国区-App-Store-吗？](https://www.v2ex.com/t/831991) ![](assets/new.png)  
 - [2022-02-05-企业微信神逻辑](https://www.v2ex.com/t/831989) ![](assets/new.png)  
 - [2022-02-05-蝈蝻舔狗是真的多](https://www.v2ex.com/t/831988) ![](assets/new.png)  
@@ -507,10 +511,6 @@
 - [2022-02-05-公司解散，赔偿问题](https://www.v2ex.com/t/831977) ![](assets/new.png)  
 - [2022-02-05-还有什么网盘能用-Python-批量上传的？](https://www.v2ex.com/t/831976) ![](assets/new.png)  
 - [2022-02-05-有比较好的播客推荐吗](https://www.v2ex.com/t/831975) ![](assets/new.png)  
-- [2022-02-05-一个仿照-xv6-实现的玩具操作系统，基于-RISC-V，有从零开始的教程](https://www.v2ex.com/t/831974) ![](assets/new.png)  
-- [2022-02-05-澳洲远程区块链-以太坊-Ethereum-/-EVM-兼容区块链-/-智能合约-Smart-Contract-/-Solidity](https://www.v2ex.com/t/831972) ![](assets/new.png)  
-- [2022-02-05-程序员该-run-去新加坡吗](https://www.v2ex.com/t/831971) ![](assets/new.png)  
-- [2022-02-05-再次迷茫了-遭遇大事还是顶住了](https://www.v2ex.com/t/831970) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -563,8 +563,8 @@
 - [2022-02-05-我在阿里做测开](https://toutiao.io/k/1h8u439) ![](assets/new.png)  
 - [2022-02-05-Kubernetes初学者指南](https://toutiao.io/k/w6do9el) ![](assets/new.png)  
 - [2022-02-05-CompletableFuture使用场景和实现原理](https://toutiao.io/k/cia4ar7) ![](assets/new.png)  
-- [2022-02-05-推荐-字节的分布式链路追踪实践，教科书式的搭建指南](https://toutiao.io/k/t6j66db) ![](assets/new.png)  
 - [2022-02-05-推荐-面试官问:-如何设计一个高并发系统?](https://toutiao.io/k/7hrrplb) ![](assets/new.png)  
+- [2022-02-05-推荐-字节的分布式链路追踪实践，教科书式的搭建指南](https://toutiao.io/k/t6j66db) ![](assets/new.png)  
 - [2022-02-05-推荐-技术干货｜缓存一致性最佳实践](https://toutiao.io/k/zgmi04u) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

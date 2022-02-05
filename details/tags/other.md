@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-02-05 12:59:06。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-05 13:10:56。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1740,6 +1740,10 @@
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2022-02-04-HTML-inputmode与iOS-Android软键盘类型测试](https://www.zhangxinxu.com/wordpress/2022/02/html-inputmode-keyboard/) 
 - [2021-11-14-密码强度效果最佳实现一定是HTML-meter元素](https://www.zhangxinxu.com/wordpress/2021/11/html-meter-password/) 
+- [2022-02-05-你们怎么看-mbti-这种测试呢？](https://www.v2ex.com/t/831995) 
+- [2022-02-05-过年又没带对象回家](https://www.v2ex.com/t/831994) 
+- [2022-02-05-如果每天默念"我是废物"一百遍会有什么变化](https://www.v2ex.com/t/831993) 
+- [2022-02-05-中文独立博客的年化“腐烂率”——8%](https://www.v2ex.com/t/831992) 
 - [2022-02-05-企业微信神逻辑](https://www.v2ex.com/t/831989) 
 - [2022-02-05-蝈蝻舔狗是真的多](https://www.v2ex.com/t/831988) 
 - [2022-02-05-开源：基于-Flask-的-RSS-文章自动化采集项目](https://www.v2ex.com/t/831987) 
@@ -1775,8 +1779,6 @@
 - [2022-02-05-上海神仙公司-米哈游·原神-全程跟进进度（2.5-更新长期有效）](https://www.v2ex.com/t/831948) 
 - [2022-02-05-求推荐个-app-，-ios-和-mac-可同步。目标主要侧重计算机类文档阅读能力](https://www.v2ex.com/t/831947) 
 - [2022-02-05-iOS-上微信选图片有什么好的解决方案嘛？](https://www.v2ex.com/t/831946) 
-- [2022-02-05-不要钱-找一份远程开发工作-Java-go-rust](https://www.v2ex.com/t/831945) 
-- [2022-02-05-希望大家分享一下玩抖音的小技巧](https://www.v2ex.com/t/831944) 
 - [2022-02-05-微话搭建优质-Web-应用其一-forum.lovejade.cn](https://blogread.cn/news/go.php?idItem=14928&url=https%3A%2F%2Fforum.lovejade.cn%2Fd%2F141-web%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-02-05-Puppeteer-使用分享及注意事项-forum.lovejade.cn](https://blogread.cn/news/go.php?idItem=14927&url=https%3A%2F%2Fforum.lovejade.cn%2Fd%2F145-puppeteer%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-02-05-优质网站同好者周刊（第-51-期）--倾城之链-blog.nicelinks.site](https://blogread.cn/news/go.php?idItem=14926&url=https%3A%2F%2Fblog.nicelinks.site%2Fweekly-051%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

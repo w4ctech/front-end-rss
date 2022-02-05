@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-02-05 12:59:06。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-02-05 13:10:56。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -85,6 +85,10 @@
 - [【武汉肺炎防疫全纪录(财新网)】2022-02-01-德国未实现接种目标-奥地利强制接种疫苗法律生效｜大流行手记（1月31日）](https://m.caixin.com/m/2022-02-01/101837106.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2022-02-01-聚焦｜张文宏：未来抗疫，是努力夺回正常生活的过程](https://opinion.caixin.com/m/2022-02-01/101837206.html) 
 - [【张鑫旭-鑫空间-鑫生活】2022-02-04-HTML-inputmode与iOS-Android软键盘类型测试](https://www.zhangxinxu.com/wordpress/2022/02/html-inputmode-keyboard/) 
+- [【V2EX】2022-02-05-你们怎么看-mbti-这种测试呢？](https://www.v2ex.com/t/831995) 
+- [【V2EX】2022-02-05-过年又没带对象回家](https://www.v2ex.com/t/831994) 
+- [【V2EX】2022-02-05-如果每天默念"我是废物"一百遍会有什么变化](https://www.v2ex.com/t/831993) 
+- [【V2EX】2022-02-05-中文独立博客的年化“腐烂率”——8%](https://www.v2ex.com/t/831992) 
 - [【V2EX】2022-02-05-开源，无内购&广告的公益游戏能在无版号的情况下上架国区-App-Store-吗？](https://www.v2ex.com/t/831991) 
 - [【V2EX】2022-02-05-企业微信神逻辑](https://www.v2ex.com/t/831989) 
 - [【V2EX】2022-02-05-蝈蝻舔狗是真的多](https://www.v2ex.com/t/831988) 
@@ -122,9 +126,6 @@
 - [【V2EX】2022-02-05-上海神仙公司-米哈游·原神-全程跟进进度（2.5-更新长期有效）](https://www.v2ex.com/t/831948) 
 - [【V2EX】2022-02-05-求推荐个-app-，-ios-和-mac-可同步。目标主要侧重计算机类文档阅读能力](https://www.v2ex.com/t/831947) 
 - [【V2EX】2022-02-05-iOS-上微信选图片有什么好的解决方案嘛？](https://www.v2ex.com/t/831946) 
-- [【V2EX】2022-02-05-不要钱-找一份远程开发工作-Java-go-rust](https://www.v2ex.com/t/831945) 
-- [【V2EX】2022-02-05-希望大家分享一下玩抖音的小技巧](https://www.v2ex.com/t/831944) 
-- [【V2EX】2022-02-05-求帮忙回忆一个游戏-跑酷类的](https://www.v2ex.com/t/831943) 
 - [【技术头条】2022-02-05-微话搭建优质-Web-应用其一-forum.lovejade.cn](https://blogread.cn/news/go.php?idItem=14928&url=https%3A%2F%2Fforum.lovejade.cn%2Fd%2F141-web%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-02-05-Puppeteer-使用分享及注意事项-forum.lovejade.cn](https://blogread.cn/news/go.php?idItem=14927&url=https%3A%2F%2Fforum.lovejade.cn%2Fd%2F145-puppeteer%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-02-05-优质网站同好者周刊（第-51-期）--倾城之链-blog.nicelinks.site](https://blogread.cn/news/go.php?idItem=14926&url=https%3A%2F%2Fblog.nicelinks.site%2Fweekly-051%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -155,8 +156,8 @@
 - [【开发者头条】2022-02-05-我在阿里做测开](https://toutiao.io/k/1h8u439) 
 - [【开发者头条】2022-02-05-Kubernetes初学者指南](https://toutiao.io/k/w6do9el) 
 - [【开发者头条】2022-02-05-CompletableFuture使用场景和实现原理](https://toutiao.io/k/cia4ar7) 
-- [【开发者头条】2022-02-05-推荐-字节的分布式链路追踪实践，教科书式的搭建指南](https://toutiao.io/k/t6j66db) 
 - [【开发者头条】2022-02-05-推荐-面试官问:-如何设计一个高并发系统?](https://toutiao.io/k/7hrrplb) 
+- [【开发者头条】2022-02-05-推荐-字节的分布式链路追踪实践，教科书式的搭建指南](https://toutiao.io/k/t6j66db) 
 - [【开发者头条】2022-02-05-推荐-技术干货｜缓存一致性最佳实践](https://toutiao.io/k/zgmi04u) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>

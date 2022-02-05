@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-05 09:39:30，:rocket: 更新条数: +1843， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-05 09:54:25，:rocket: 更新条数: +1843， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-02-05-网易云音乐歌单惨不忍睹](https://www.v2ex.com/t/831980) ![](assets/new.png)  
+- [2022-02-05-必应百度已经和谐-V2EX-主站](https://www.v2ex.com/t/831979) ![](assets/new.png)  
 - [2022-02-05-iOS15.XX-最近几个版本-iCloud-经常卡死](https://www.v2ex.com/t/831978) ![](assets/new.png)  
 - [2022-02-05-公司解散，赔偿问题](https://www.v2ex.com/t/831977) ![](assets/new.png)  
 - [2022-02-05-还有什么网盘能用-Python-批量上传的？](https://www.v2ex.com/t/831976) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-02-05-求推荐不限制-BT-下载并且支持微信支付的-VPS](https://www.v2ex.com/t/831959) ![](assets/new.png)  
 - [2022-02-05-NTFS3-还存在许多小问题](https://www.v2ex.com/t/831955) ![](assets/new.png)  
 - [2022-02-05-吃饭的时候头顶拼命冒汗是什么病？](https://www.v2ex.com/t/831954) ![](assets/new.png)  
-- [2022-02-05-做复古方面的线上网站还有前景吗](https://www.v2ex.com/t/831953) ![](assets/new.png)  
-- [2022-02-05-Gran-Turismo-7:-State-of-Play](https://www.v2ex.com/t/831951) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -563,8 +563,8 @@
 - [2022-02-05-我在阿里做测开](https://toutiao.io/k/1h8u439) ![](assets/new.png)  
 - [2022-02-05-Kubernetes初学者指南](https://toutiao.io/k/w6do9el) ![](assets/new.png)  
 - [2022-02-05-CompletableFuture使用场景和实现原理](https://toutiao.io/k/cia4ar7) ![](assets/new.png)  
-- [2022-02-05-推荐-技术干货｜缓存一致性最佳实践](https://toutiao.io/k/zgmi04u) ![](assets/new.png)  
 - [2022-02-05-推荐-字节的分布式链路追踪实践，教科书式的搭建指南](https://toutiao.io/k/t6j66db) ![](assets/new.png)  
+- [2022-02-05-推荐-技术干货｜缓存一致性最佳实践](https://toutiao.io/k/zgmi04u) ![](assets/new.png)  
 - [2022-02-05-推荐-面试官问:-如何设计一个高并发系统?](https://toutiao.io/k/7hrrplb) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

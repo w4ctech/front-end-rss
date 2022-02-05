@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-05 08:20:04，:rocket: 更新条数: +1841， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-05 08:35:39，:rocket: 更新条数: +1842， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -65,9 +65,9 @@
 </summary>
 
 
-- [2022-02-05-2月4日全国新增新冠27例-三省份本土9例](https://m.caixin.com/m/2022-02-05/101837817.html) ![](assets/new.png)  
+- [2022-02-05-最新疫情：全国新冠累计确诊106297例-累计接种新冠疫苗超30.02亿剂次](https://m.caixin.com/m/2022-02-05/101837939.html) ![](assets/new.png)  
+- [2022-02-05-最新海外疫情：新冠感染超3.9亿-累计接种新冠疫苗超101.46亿剂次](https://m.caixin.com/m/2022-02-05/101837946.html) ![](assets/new.png)  
 - [2022-02-05-南非发现更多Omicron新亚型病例-希腊放开旅行者检测要求｜大流行手记（2月4日）](https://m.caixin.com/m/2022-02-05/101837887.html) ![](assets/new.png)  
-- [2022-02-04-最新海外疫情：新冠感染超3.87亿-累计接种新冠疫苗超101.27亿剂次](https://m.caixin.com/m/2022-02-04/101837639.html) ![](assets/new.png)  
 - [2022-02-04-【境内疫情观察】全国新增12例本土病例（2月3日）](https://database.caixin.com/m/2022-02-04/101837666.html) ![](assets/new.png)  
 - [2022-02-04-首个新冠人类挑战试验带来重要发现-欧洲解封范围扩大｜大流行手记（2月3日）](https://m.caixin.com/m/2022-02-04/101837579.html) ![](assets/new.png)  
 - [2022-02-03-北京地坛医院1名医务人员确诊，为应急隔离区医生](https://m.caixin.com/m/2022-02-03/101837518.html) ![](assets/new.png)  
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-02-05-现代化的-Vue-技术栈-即刻享受令人愉悦的开发体验](https://www.v2ex.com/t/831969) ![](assets/new.png)  
+- [2022-02-05-北京/深圳/三亚/成都-字节飞书---高级前端开发工程师（团队内部急聘）](https://www.v2ex.com/t/831968) ![](assets/new.png)  
 - [2022-02-05-平时的业务服务，你们使用消息队列吗？还是只有会出现高并发的业务](https://www.v2ex.com/t/831967) ![](assets/new.png)  
 - [2022-02-05-快速检测相机镜头-cmos-上的灰尘，一键去除照片上的污点](https://www.v2ex.com/t/831966) ![](assets/new.png)  
 - [2022-02-05-iOS-的-anki-有没有办法使用自建服务器进行同步，或者提升同步速度？](https://www.v2ex.com/t/831965) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-02-05-不要钱-找一份远程开发工作-Java-go-rust](https://www.v2ex.com/t/831945) ![](assets/new.png)  
 - [2022-02-05-希望大家分享一下玩抖音的小技巧](https://www.v2ex.com/t/831944) ![](assets/new.png)  
 - [2022-02-05-求帮忙回忆一个游戏-跑酷类的](https://www.v2ex.com/t/831943) ![](assets/new.png)  
-- [2022-02-05-求推荐显示器？](https://www.v2ex.com/t/831942) ![](assets/new.png)  
-- [2022-02-05-你们-iCloud-还能正常备份吗？](https://www.v2ex.com/t/831941) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

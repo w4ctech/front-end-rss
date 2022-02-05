@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-02-05 08:20:04。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-05 08:35:39。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -56,6 +56,7 @@
 
 
 
+- [【V2EX】现代化的-Vue-技术栈-即刻享受令人愉悦的开发体验](https://www.v2ex.com/t/831969)
 - [【技术头条】Vue实战中的一些小魔法-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14916&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493203%26amp%3Bidx%3D2%26amp%3Bsn%3Dde9700033ad22427b1188396a4eb0294%26amp%3Bchksm%3Dfa3f0708cd488e1e16708c787c643e842476abe8a4de820fc49757f106a55d2572147b474a71%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [......【查看更多】......](./details/tags/vue.md)
 
@@ -407,9 +408,9 @@
 
 
 
-- [【武汉肺炎防疫全纪录(财新网)】2月4日全国新增新冠27例-三省份本土9例](https://m.caixin.com/m/2022-02-05/101837817.html)
+- [【武汉肺炎防疫全纪录(财新网)】最新疫情：全国新冠累计确诊106297例-累计接种新冠疫苗超30.02亿剂次](https://m.caixin.com/m/2022-02-05/101837939.html)
+- [【武汉肺炎防疫全纪录(财新网)】最新海外疫情：新冠感染超3.9亿-累计接种新冠疫苗超101.46亿剂次](https://m.caixin.com/m/2022-02-05/101837946.html)
 - [【武汉肺炎防疫全纪录(财新网)】南非发现更多Omicron新亚型病例-希腊放开旅行者检测要求｜大流行手记（2月4日）](https://m.caixin.com/m/2022-02-05/101837887.html)
-- [【武汉肺炎防疫全纪录(财新网)】最新海外疫情：新冠感染超3.87亿-累计接种新冠疫苗超101.27亿剂次](https://m.caixin.com/m/2022-02-04/101837639.html)
 - [【武汉肺炎防疫全纪录(财新网)】【境内疫情观察】全国新增12例本土病例（2月3日）](https://database.caixin.com/m/2022-02-04/101837666.html)
 - [【武汉肺炎防疫全纪录(财新网)】首个新冠人类挑战试验带来重要发现-欧洲解封范围扩大｜大流行手记（2月3日）](https://m.caixin.com/m/2022-02-04/101837579.html)
 - [【武汉肺炎防疫全纪录(财新网)】北京地坛医院1名医务人员确诊，为应急隔离区医生](https://m.caixin.com/m/2022-02-03/101837518.html)

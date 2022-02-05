@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-02-05 08:39:31。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-05 08:54:16。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -19,4 +19,3 @@
 - [2021-12-08-flex-end为什么overflow无法滚动及解决方法](https://www.zhangxinxu.com/wordpress/2021/12/flex-end-overflow/) 
 - [2021-11-23-从js-visibilitychange-Safari下无效说开去](https://www.zhangxinxu.com/wordpress/2021/11/js-visibilitychange-pagehide-lifecycle/) 
 - [2022-02-04-拿到一个-response，用-json（）来操作取值，总是提示错误，百思不得其解啊](https://www.v2ex.com/t/831926) 
-- [2022-02-04-旁路由运行插件和主路由运行插件，多了个旁路由，有什么区别么？](https://www.v2ex.com/t/831921) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-02-05 03:39:40。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-05 03:54:38。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -6,6 +6,7 @@
 
 
 - [2022-02-05-2月4日全国新增新冠27例-三省份本土9例](https://m.caixin.com/m/2022-02-05/101837817.html) 
+- [2022-02-05-南非发现更多Omicron新亚型病例-希腊放开旅行者检测要求｜大流行手记（2月4日）](https://m.caixin.com/m/2022-02-05/101837887.html) 
 - [2022-02-04-最新海外疫情：新冠感染超3.87亿-累计接种新冠疫苗超101.27亿剂次](https://m.caixin.com/m/2022-02-04/101837639.html) 
 - [2022-02-04-【境内疫情观察】全国新增12例本土病例（2月3日）](https://database.caixin.com/m/2022-02-04/101837666.html) 
 - [2022-02-04-首个新冠人类挑战试验带来重要发现-欧洲解封范围扩大｜大流行手记（2月3日）](https://m.caixin.com/m/2022-02-04/101837579.html) 
@@ -1737,6 +1738,7 @@
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2022-02-04-HTML-inputmode与iOS-Android软键盘类型测试](https://www.zhangxinxu.com/wordpress/2022/02/html-inputmode-keyboard/) 
 - [2021-11-14-密码强度效果最佳实现一定是HTML-meter元素](https://www.zhangxinxu.com/wordpress/2021/11/html-meter-password/) 
+- [2022-02-05-不要钱-找一份远程开发工作-Java-go-rust](https://www.v2ex.com/t/831945) 
 - [2022-02-05-希望大家分享一下玩抖音的小技巧](https://www.v2ex.com/t/831944) 
 - [2022-02-05-求推荐显示器？](https://www.v2ex.com/t/831942) 
 - [2022-02-05-你们-iCloud-还能正常备份吗？](https://www.v2ex.com/t/831941) 
@@ -1789,5 +1791,4 @@
 - [2022-02-05-CNCF培育的OpenMetrics成为孵化项目](https://toutiao.io/k/wr97cij) 
 - [2022-02-05-解读-5-种软件架构模式](https://toutiao.io/k/kzkb0tp) 
 - [2022-02-05-用了五年-VS-Code-，我决定换成-JetBrains……](https://toutiao.io/k/kh404qx) 
-- [2022-02-05-官方实锤！程序员被划为新生代农民工](https://toutiao.io/k/w57zs6s) 
 - [2022-02-05-推荐-字节的分布式链路追踪实践，教科书式的搭建指南](https://toutiao.io/k/t6j66db) 

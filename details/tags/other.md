@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-02-05 05:54:34。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-05 06:11:56。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1771,8 +1771,6 @@
 - [2022-02-04-企业微信无反应](https://www.v2ex.com/t/831913) 
 - [2022-02-04-年后想在世纪城附近租房，哪个-app-或网站比较靠谱捏？](https://www.v2ex.com/t/831912) 
 - [2022-02-04-请问下外网怎么才能访问-vps-中的-127.0.0.1](https://www.v2ex.com/t/831910) 
-- [2022-02-04-访达右键菜单里的“服务”没有了](https://www.v2ex.com/t/831908) 
-- [2022-02-04-114,dnspod,阿里-dns-这-3-个-dns-里选一个的话，是不是选-ping-最低的就行](https://www.v2ex.com/t/831907) 
 - [2022-02-05-微话搭建优质-Web-应用其一-forum.lovejade.cn](https://blogread.cn/news/go.php?idItem=14928&url=https%3A%2F%2Fforum.lovejade.cn%2Fd%2F141-web%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-02-05-Puppeteer-使用分享及注意事项-forum.lovejade.cn](https://blogread.cn/news/go.php?idItem=14927&url=https%3A%2F%2Fforum.lovejade.cn%2Fd%2F145-puppeteer%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-02-05-优质网站同好者周刊（第-51-期）--倾城之链-blog.nicelinks.site](https://blogread.cn/news/go.php?idItem=14926&url=https%3A%2F%2Fblog.nicelinks.site%2Fweekly-051%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1794,4 +1792,7 @@
 - [2022-02-05-2022-技术趋势：Go、Rust-将大放异彩](https://toutiao.io/k/jjrci58) 
 - [2022-02-05-CNCF培育的OpenMetrics成为孵化项目](https://toutiao.io/k/wr97cij) 
 - [2022-02-05-用了五年-VS-Code-，我决定换成-JetBrains……](https://toutiao.io/k/kh404qx) 
+- [2022-02-05-我在阿里做测开](https://toutiao.io/k/1h8u439) 
+- [2022-02-05-Kubernetes初学者指南](https://toutiao.io/k/w6do9el) 
+- [2022-02-05-CompletableFuture使用场景和实现原理](https://toutiao.io/k/cia4ar7) 
 - [2022-02-05-推荐-字节的分布式链路追踪实践，教科书式的搭建指南](https://toutiao.io/k/t6j66db) 

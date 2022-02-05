@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-02-05 10:18:59。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-05 10:35:33。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -8,6 +8,7 @@
 - [2022-02-05-最新疫情：全国新冠累计确诊106297例-累计接种新冠疫苗超30.02亿剂次](https://m.caixin.com/m/2022-02-05/101837939.html) 
 - [2022-02-05-香港疫情两年来“最恶劣”-拟全民派发快速检测包](https://m.caixin.com/m/2022-02-05/101837956.html) 
 - [2022-02-05-最新海外疫情：新冠感染超3.9亿-累计接种新冠疫苗超101.46亿剂次](https://m.caixin.com/m/2022-02-05/101837946.html) 
+- [2022-02-05-【境内疫情观察】全国新增9例本土病例（2月4日）](https://database.caixin.com/m/2022-02-05/101837971.html) 
 - [2022-02-05-南非发现更多Omicron新亚型病例-希腊放开旅行者检测要求｜大流行手记（2月4日）](https://m.caixin.com/m/2022-02-05/101837887.html) 
 - [2022-02-04-【境内疫情观察】全国新增12例本土病例（2月3日）](https://database.caixin.com/m/2022-02-04/101837666.html) 
 - [2022-02-04-首个新冠人类挑战试验带来重要发现-欧洲解封范围扩大｜大流行手记（2月3日）](https://m.caixin.com/m/2022-02-04/101837579.html) 
@@ -1739,6 +1740,8 @@
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2022-02-04-HTML-inputmode与iOS-Android软键盘类型测试](https://www.zhangxinxu.com/wordpress/2022/02/html-inputmode-keyboard/) 
 - [2021-11-14-密码强度效果最佳实现一定是HTML-meter元素](https://www.zhangxinxu.com/wordpress/2021/11/html-meter-password/) 
+- [2022-02-05-现在都这样看电视的？](https://www.v2ex.com/t/831984) 
+- [2022-02-05-移动宽带-cloudflare-ipv6-地址推荐](https://www.v2ex.com/t/831983) 
 - [2022-02-05-聊聊哈希表的设计与具体实现](https://www.v2ex.com/t/831982) 
 - [2022-02-05-多平台剪贴板同步真的是一个世界性难题吗？搜了一圈好像没有一款合适的简单易用的解决方案](https://www.v2ex.com/t/831981) 
 - [2022-02-05-网易云音乐歌单惨不忍睹](https://www.v2ex.com/t/831980) 
@@ -1775,8 +1778,6 @@
 - [2022-02-05-心态有点绷不住](https://www.v2ex.com/t/831937) 
 - [2022-02-05-不刷-ROM-的情况下-部分国产手机无法支持-google-play-框架？](https://www.v2ex.com/t/831936) 
 - [2022-02-05-外网能否访问-vps-中的-127.0.0.1](https://www.v2ex.com/t/831935) 
-- [2022-02-05-Google-家庭共享问题](https://www.v2ex.com/t/831934) 
-- [2022-02-05-安卓平台上有没有可以自主刷-ROM-包的虚拟机工具？](https://www.v2ex.com/t/831933) 
 - [2022-02-05-微话搭建优质-Web-应用其一-forum.lovejade.cn](https://blogread.cn/news/go.php?idItem=14928&url=https%3A%2F%2Fforum.lovejade.cn%2Fd%2F141-web%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-02-05-Puppeteer-使用分享及注意事项-forum.lovejade.cn](https://blogread.cn/news/go.php?idItem=14927&url=https%3A%2F%2Fforum.lovejade.cn%2Fd%2F145-puppeteer%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-02-05-优质网站同好者周刊（第-51-期）--倾城之链-blog.nicelinks.site](https://blogread.cn/news/go.php?idItem=14926&url=https%3A%2F%2Fblog.nicelinks.site%2Fweekly-051%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-02-05 10:18:59。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-02-05 10:35:33。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -71,6 +71,7 @@
 - [【武汉肺炎防疫全纪录(财新网)】2022-02-05-最新疫情：全国新冠累计确诊106297例-累计接种新冠疫苗超30.02亿剂次](https://m.caixin.com/m/2022-02-05/101837939.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2022-02-05-香港疫情两年来“最恶劣”-拟全民派发快速检测包](https://m.caixin.com/m/2022-02-05/101837956.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2022-02-05-最新海外疫情：新冠感染超3.9亿-累计接种新冠疫苗超101.46亿剂次](https://m.caixin.com/m/2022-02-05/101837946.html) 
+- [【武汉肺炎防疫全纪录(财新网)】2022-02-05-【境内疫情观察】全国新增9例本土病例（2月4日）](https://database.caixin.com/m/2022-02-05/101837971.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2022-02-05-南非发现更多Omicron新亚型病例-希腊放开旅行者检测要求｜大流行手记（2月4日）](https://m.caixin.com/m/2022-02-05/101837887.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2022-02-04-【境内疫情观察】全国新增12例本土病例（2月3日）](https://database.caixin.com/m/2022-02-04/101837666.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2022-02-04-首个新冠人类挑战试验带来重要发现-欧洲解封范围扩大｜大流行手记（2月3日）](https://m.caixin.com/m/2022-02-04/101837579.html) 
@@ -84,6 +85,8 @@
 - [【武汉肺炎防疫全纪录(财新网)】2022-02-01-德国未实现接种目标-奥地利强制接种疫苗法律生效｜大流行手记（1月31日）](https://m.caixin.com/m/2022-02-01/101837106.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2022-02-01-聚焦｜张文宏：未来抗疫，是努力夺回正常生活的过程](https://opinion.caixin.com/m/2022-02-01/101837206.html) 
 - [【张鑫旭-鑫空间-鑫生活】2022-02-04-HTML-inputmode与iOS-Android软键盘类型测试](https://www.zhangxinxu.com/wordpress/2022/02/html-inputmode-keyboard/) 
+- [【V2EX】2022-02-05-现在都这样看电视的？](https://www.v2ex.com/t/831984) 
+- [【V2EX】2022-02-05-移动宽带-cloudflare-ipv6-地址推荐](https://www.v2ex.com/t/831983) 
 - [【V2EX】2022-02-05-聊聊哈希表的设计与具体实现](https://www.v2ex.com/t/831982) 
 - [【V2EX】2022-02-05-多平台剪贴板同步真的是一个世界性难题吗？搜了一圈好像没有一款合适的简单易用的解决方案](https://www.v2ex.com/t/831981) 
 - [【V2EX】2022-02-05-网易云音乐歌单惨不忍睹](https://www.v2ex.com/t/831980) 
@@ -123,8 +126,6 @@
 - [【V2EX】2022-02-05-心态有点绷不住](https://www.v2ex.com/t/831937) 
 - [【V2EX】2022-02-05-不刷-ROM-的情况下-部分国产手机无法支持-google-play-框架？](https://www.v2ex.com/t/831936) 
 - [【V2EX】2022-02-05-外网能否访问-vps-中的-127.0.0.1](https://www.v2ex.com/t/831935) 
-- [【V2EX】2022-02-05-Google-家庭共享问题](https://www.v2ex.com/t/831934) 
-- [【V2EX】2022-02-05-安卓平台上有没有可以自主刷-ROM-包的虚拟机工具？](https://www.v2ex.com/t/831933) 
 - [【技术头条】2022-02-05-微话搭建优质-Web-应用其一-forum.lovejade.cn](https://blogread.cn/news/go.php?idItem=14928&url=https%3A%2F%2Fforum.lovejade.cn%2Fd%2F141-web%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-02-05-Puppeteer-使用分享及注意事项-forum.lovejade.cn](https://blogread.cn/news/go.php?idItem=14927&url=https%3A%2F%2Fforum.lovejade.cn%2Fd%2F145-puppeteer%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-02-05-优质网站同好者周刊（第-51-期）--倾城之链-blog.nicelinks.site](https://blogread.cn/news/go.php?idItem=14926&url=https%3A%2F%2Fblog.nicelinks.site%2Fweekly-051%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -155,8 +156,8 @@
 - [【开发者头条】2022-02-05-我在阿里做测开](https://toutiao.io/k/1h8u439) 
 - [【开发者头条】2022-02-05-Kubernetes初学者指南](https://toutiao.io/k/w6do9el) 
 - [【开发者头条】2022-02-05-CompletableFuture使用场景和实现原理](https://toutiao.io/k/cia4ar7) 
-- [【开发者头条】2022-02-05-推荐-字节的分布式链路追踪实践，教科书式的搭建指南](https://toutiao.io/k/t6j66db) 
 - [【开发者头条】2022-02-05-推荐-面试官问:-如何设计一个高并发系统?](https://toutiao.io/k/7hrrplb) 
+- [【开发者头条】2022-02-05-推荐-字节的分布式链路追踪实践，教科书式的搭建指南](https://toutiao.io/k/t6j66db) 
 - [【开发者头条】2022-02-05-推荐-技术干货｜缓存一致性最佳实践](https://toutiao.io/k/zgmi04u) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>

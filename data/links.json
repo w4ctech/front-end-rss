@@ -20,6 +20,11 @@
         "date": "2022-02-05"
       },
       {
+        "title": "【境内疫情观察】全国新增9例本土病例（2月4日）",
+        "link": "https://database.caixin.com/m/2022-02-05/101837971.html",
+        "date": "2022-02-05"
+      },
+      {
         "title": "南非发现更多Omicron新亚型病例 希腊放开旅行者检测要求｜大流行手记（2月4日）",
         "link": "https://m.caixin.com/m/2022-02-05/101837887.html",
         "date": "2022-02-05"
@@ -9073,6 +9078,16 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "现在都这样看电视的？",
+        "link": "https://www.v2ex.com/t/831984",
+        "date": "2022-02-05"
+      },
+      {
+        "title": "移动宽带 cloudflare ipv6 地址推荐",
+        "link": "https://www.v2ex.com/t/831983",
+        "date": "2022-02-05"
+      },
+      {
         "title": "聊聊哈希表的设计与具体实现",
         "link": "https://www.v2ex.com/t/831982",
         "date": "2022-02-05"
@@ -9266,16 +9281,6 @@
         "title": "外网能否访问 vps 中的 127.0.0.1",
         "link": "https://www.v2ex.com/t/831935",
         "date": "2022-02-05"
-      },
-      {
-        "title": "Google 家庭共享问题",
-        "link": "https://www.v2ex.com/t/831934",
-        "date": "2022-02-05"
-      },
-      {
-        "title": "安卓平台上有没有可以自主刷 ROM 包的虚拟机工具？",
-        "link": "https://www.v2ex.com/t/831933",
-        "date": "2022-02-05"
       }
     ]
   },
@@ -9442,13 +9447,13 @@
         "date": "2022-02-05"
       },
       {
-        "title": "[推荐] 字节的分布式链路追踪实践，教科书式的搭建指南",
-        "link": "https://toutiao.io/k/t6j66db",
+        "title": "[推荐] 面试官问: 如何设计一个高并发系统?",
+        "link": "https://toutiao.io/k/7hrrplb",
         "date": "2022-02-05"
       },
       {
-        "title": "[推荐] 面试官问: 如何设计一个高并发系统?",
-        "link": "https://toutiao.io/k/7hrrplb",
+        "title": "[推荐] 字节的分布式链路追踪实践，教科书式的搭建指南",
+        "link": "https://toutiao.io/k/t6j66db",
         "date": "2022-02-05"
       },
       {

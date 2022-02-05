@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-05 10:18:59，:rocket: 更新条数: +1844， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-05 10:35:33，:rocket: 更新条数: +1845， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -68,6 +68,7 @@
 - [2022-02-05-最新疫情：全国新冠累计确诊106297例-累计接种新冠疫苗超30.02亿剂次](https://m.caixin.com/m/2022-02-05/101837939.html) ![](assets/new.png)  
 - [2022-02-05-香港疫情两年来“最恶劣”-拟全民派发快速检测包](https://m.caixin.com/m/2022-02-05/101837956.html) ![](assets/new.png)  
 - [2022-02-05-最新海外疫情：新冠感染超3.9亿-累计接种新冠疫苗超101.46亿剂次](https://m.caixin.com/m/2022-02-05/101837946.html) ![](assets/new.png)  
+- [2022-02-05-【境内疫情观察】全国新增9例本土病例（2月4日）](https://database.caixin.com/m/2022-02-05/101837971.html) ![](assets/new.png)  
 - [2022-02-05-南非发现更多Omicron新亚型病例-希腊放开旅行者检测要求｜大流行手记（2月4日）](https://m.caixin.com/m/2022-02-05/101837887.html) ![](assets/new.png)  
 - [2022-02-04-【境内疫情观察】全国新增12例本土病例（2月3日）](https://database.caixin.com/m/2022-02-04/101837666.html) ![](assets/new.png)  
 - [2022-02-04-首个新冠人类挑战试验带来重要发现-欧洲解封范围扩大｜大流行手记（2月3日）](https://m.caixin.com/m/2022-02-04/101837579.html) ![](assets/new.png)  
@@ -84,7 +85,6 @@
 - [2022-01-31-冬奥会入境高峰已至，奥密克戎“隐形”亚变体引关注｜大流行手记（1月30日）](https://m.caixin.com/m/2022-01-31/101837011.html) ![](assets/new.png)  
 - [2022-01-30-北京本土感染者累计破百-新增3个高风险地区](https://m.caixin.com/m/2022-01-30/101836905.html) ![](assets/new.png)  
 - [2022-01-30-北京：关于对冷链传播疫情问题相关单位和人员追责问责情况的通报](https://china.caixin.com/m/2022-01-30/101836927.html) ![](assets/new.png)  
-- [2022-01-30-【境内疫情观察】全国新增54例本土病例（1月29日）](https://database.caixin.com/m/2022-01-30/101836868.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-02-05-现在都这样看电视的？](https://www.v2ex.com/t/831984) ![](assets/new.png)  
+- [2022-02-05-移动宽带-cloudflare-ipv6-地址推荐](https://www.v2ex.com/t/831983) ![](assets/new.png)  
 - [2022-02-05-聊聊哈希表的设计与具体实现](https://www.v2ex.com/t/831982) ![](assets/new.png)  
 - [2022-02-05-多平台剪贴板同步真的是一个世界性难题吗？搜了一圈好像没有一款合适的简单易用的解决方案](https://www.v2ex.com/t/831981) ![](assets/new.png)  
 - [2022-02-05-网易云音乐歌单惨不忍睹](https://www.v2ex.com/t/831980) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-02-05-快速检测相机镜头-cmos-上的灰尘，一键去除照片上的污点](https://www.v2ex.com/t/831966) ![](assets/new.png)  
 - [2022-02-05-iOS-的-anki-有没有办法使用自建服务器进行同步，或者提升同步速度？](https://www.v2ex.com/t/831965) ![](assets/new.png)  
 - [2022-02-05-突然想着买买买](https://www.v2ex.com/t/831964) ![](assets/new.png)  
-- [2022-02-05-公务员申请外币卡](https://www.v2ex.com/t/831963) ![](assets/new.png)  
-- [2022-02-05-求推荐不限制-BT-下载并且支持微信支付的-VPS](https://www.v2ex.com/t/831959) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -563,8 +563,8 @@
 - [2022-02-05-我在阿里做测开](https://toutiao.io/k/1h8u439) ![](assets/new.png)  
 - [2022-02-05-Kubernetes初学者指南](https://toutiao.io/k/w6do9el) ![](assets/new.png)  
 - [2022-02-05-CompletableFuture使用场景和实现原理](https://toutiao.io/k/cia4ar7) ![](assets/new.png)  
-- [2022-02-05-推荐-字节的分布式链路追踪实践，教科书式的搭建指南](https://toutiao.io/k/t6j66db) ![](assets/new.png)  
 - [2022-02-05-推荐-面试官问:-如何设计一个高并发系统?](https://toutiao.io/k/7hrrplb) ![](assets/new.png)  
+- [2022-02-05-推荐-字节的分布式链路追踪实践，教科书式的搭建指南](https://toutiao.io/k/t6j66db) ![](assets/new.png)  
 - [2022-02-05-推荐-技术干货｜缓存一致性最佳实践](https://toutiao.io/k/zgmi04u) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

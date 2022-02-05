@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-05 03:19:04，:rocket: 更新条数: +1837， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-05 03:35:52，:rocket: 更新条数: +1837， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-02-05-希望大家分享一下玩抖音的小技巧](https://www.v2ex.com/t/831944) ![](assets/new.png)  
 - [2022-02-05-求帮忙回忆一个游戏-跑酷类的](https://www.v2ex.com/t/831943) ![](assets/new.png)  
 - [2022-02-05-求推荐显示器？](https://www.v2ex.com/t/831942) ![](assets/new.png)  
 - [2022-02-05-你们-iCloud-还能正常备份吗？](https://www.v2ex.com/t/831941) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-02-04-拿到一个-response，用-json（）来操作取值，总是提示错误，百思不得其解啊](https://www.v2ex.com/t/831926) ![](assets/new.png)  
 - [2022-02-04-别人说我自闭了](https://www.v2ex.com/t/831924) ![](assets/new.png)  
 - [2022-02-04-26-位大小写字母加上-0~9-数字的五位组合有多少种？](https://www.v2ex.com/t/831923) ![](assets/new.png)  
-- [2022-02-04-为什么这么多人愿意在-CSDN-上写博客？能拿到广告分成吗？](https://www.v2ex.com/t/831922) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -561,9 +561,9 @@
 - [2022-02-05-解读-5-种软件架构模式](https://toutiao.io/k/kzkb0tp) ![](assets/new.png)  
 - [2022-02-05-用了五年-VS-Code-，我决定换成-JetBrains……](https://toutiao.io/k/kh404qx) ![](assets/new.png)  
 - [2022-02-05-官方实锤！程序员被划为新生代农民工](https://toutiao.io/k/w57zs6s) ![](assets/new.png)  
-- [2022-02-05-推荐-技术干货｜缓存一致性最佳实践](https://toutiao.io/k/zgmi04u) ![](assets/new.png)  
 - [2022-02-05-推荐-面试官问:-如何设计一个高并发系统?](https://toutiao.io/k/7hrrplb) ![](assets/new.png)  
 - [2022-02-05-推荐-字节的分布式链路追踪实践，教科书式的搭建指南](https://toutiao.io/k/t6j66db) ![](assets/new.png)  
+- [2022-02-05-推荐-技术干货｜缓存一致性最佳实践](https://toutiao.io/k/zgmi04u) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

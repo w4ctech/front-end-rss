@@ -9063,6 +9063,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "心态有点绷不住",
+        "link": "https://www.v2ex.com/t/831937",
+        "date": "2022-02-05"
+      },
+      {
         "title": "不刷 ROM 的情况下 部分国产手机无法支持 google play 框架？",
         "link": "https://www.v2ex.com/t/831936",
         "date": "2022-02-05"
@@ -9246,11 +9251,6 @@
         "title": "欧美远程开发的进来聊聊",
         "link": "https://www.v2ex.com/t/831888",
         "date": "2022-02-04"
-      },
-      {
-        "title": "应届选手最后的春招该何去何从？",
-        "link": "https://www.v2ex.com/t/831887",
-        "date": "2022-02-04"
       }
     ]
   },
@@ -9392,13 +9392,28 @@
         "date": "2022-02-05"
       },
       {
-        "title": "[推荐] 技术干货｜缓存一致性最佳实践",
-        "link": "https://toutiao.io/k/zgmi04u",
+        "title": "用了五年 VS Code ，我决定换成 JetBrains……",
+        "link": "https://toutiao.io/k/kh404qx",
+        "date": "2022-02-05"
+      },
+      {
+        "title": "解读 5 种软件架构模式",
+        "link": "https://toutiao.io/k/kzkb0tp",
+        "date": "2022-02-05"
+      },
+      {
+        "title": "官方实锤！程序员被划为新生代农民工",
+        "link": "https://toutiao.io/k/w57zs6s",
         "date": "2022-02-05"
       },
       {
         "title": "[推荐] 面试官问: 如何设计一个高并发系统?",
         "link": "https://toutiao.io/k/7hrrplb",
+        "date": "2022-02-05"
+      },
+      {
+        "title": "[推荐] 技术干货｜缓存一致性最佳实践",
+        "link": "https://toutiao.io/k/zgmi04u",
         "date": "2022-02-05"
       },
       {

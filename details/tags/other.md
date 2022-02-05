@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-02-05 01:45:07。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-05 02:03:39。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1737,6 +1737,7 @@
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2022-02-04-HTML-inputmode与iOS-Android软键盘类型测试](https://www.zhangxinxu.com/wordpress/2022/02/html-inputmode-keyboard/) 
 - [2021-11-14-密码强度效果最佳实现一定是HTML-meter元素](https://www.zhangxinxu.com/wordpress/2021/11/html-meter-password/) 
+- [2022-02-05-心态有点绷不住](https://www.v2ex.com/t/831937) 
 - [2022-02-05-不刷-ROM-的情况下-部分国产手机无法支持-google-play-框架？](https://www.v2ex.com/t/831936) 
 - [2022-02-05-外网能否访问-vps-中的-127.0.0.1](https://www.v2ex.com/t/831935) 
 - [2022-02-05-Google-家庭共享问题](https://www.v2ex.com/t/831934) 
@@ -1768,7 +1769,6 @@
 - [2022-02-04-home-pod-现在值得买吗？](https://www.v2ex.com/t/831891) 
 - [2022-02-04-大家工作之后会阅读-paper-吗？](https://www.v2ex.com/t/831890) 
 - [2022-02-04-欧美远程开发的进来聊聊](https://www.v2ex.com/t/831888) 
-- [2022-02-04-应届选手最后的春招该何去何从？](https://www.v2ex.com/t/831887) 
 - [2022-02-05-微话搭建优质-Web-应用其一-forum.lovejade.cn](https://blogread.cn/news/go.php?idItem=14928&url=https%3A%2F%2Fforum.lovejade.cn%2Fd%2F141-web%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-02-05-Puppeteer-使用分享及注意事项-forum.lovejade.cn](https://blogread.cn/news/go.php?idItem=14927&url=https%3A%2F%2Fforum.lovejade.cn%2Fd%2F145-puppeteer%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-02-05-优质网站同好者周刊（第-51-期）--倾城之链-blog.nicelinks.site](https://blogread.cn/news/go.php?idItem=14926&url=https%3A%2F%2Fblog.nicelinks.site%2Fweekly-051%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1788,4 +1788,7 @@
 - [2022-02-05-腾讯音乐知识图谱搜索实践](https://toutiao.io/k/873mk1g) 
 - [2022-02-05-CNCF培育的OpenMetrics成为孵化项目](https://toutiao.io/k/wr97cij) 
 - [2022-02-05-2022-技术趋势：Go、Rust-将大放异彩](https://toutiao.io/k/jjrci58) 
+- [2022-02-05-用了五年-VS-Code-，我决定换成-JetBrains……](https://toutiao.io/k/kh404qx) 
+- [2022-02-05-解读-5-种软件架构模式](https://toutiao.io/k/kzkb0tp) 
+- [2022-02-05-官方实锤！程序员被划为新生代农民工](https://toutiao.io/k/w57zs6s) 
 - [2022-02-05-推荐-字节的分布式链路追踪实践，教科书式的搭建指南](https://toutiao.io/k/t6j66db) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-06 04:49:17，:rocket: 更新条数: +1839， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-06 05:11:29，:rocket: 更新条数: +1839， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,11 @@
 </summary>
 
 
+- [2022-02-06-提高编程效率的方法，抛砖引玉](https://www.v2ex.com/t/832061) ![](assets/new.png)  
+- [2022-02-06-听说-System.out.print-是同步的弊端那我这么写可不可以？](https://www.v2ex.com/t/832059) ![](assets/new.png)  
+- [2022-02-06-迫于宽带下月到期，北京联通宽带现在办哪个套餐比较合适？](https://www.v2ex.com/t/832058) ![](assets/new.png)  
+- [2022-02-06-成都/重庆-Android-工程师-10-15K](https://www.v2ex.com/t/832057) ![](assets/new.png)  
+- [2022-02-06-iOS-进度管理的-app-推荐？](https://www.v2ex.com/t/832056) ![](assets/new.png)  
 - [2022-02-06-Windows11-不能打开-QQ，找不到原因](https://www.v2ex.com/t/832055) ![](assets/new.png)  
 - [2022-02-06-硬盘关闭时间设很短有没有关系？](https://www.v2ex.com/t/832052) ![](assets/new.png)  
 - [2022-02-06-协纪辨方书](https://www.v2ex.com/t/832048) ![](assets/new.png)  
@@ -506,11 +511,6 @@
 - [2022-02-06-小米手环-6-请问现在值得买吗？有什么理由直接升级到手表吗？](https://www.v2ex.com/t/832035) ![](assets/new.png)  
 - [2022-02-06-Android-Studio-新版本-bumblebee-里面-gradle-脚本的疑惑](https://www.v2ex.com/t/832034) ![](assets/new.png)  
 - [2022-02-06-关于-k8s-调整卷大小的问题](https://www.v2ex.com/t/832032) ![](assets/new.png)  
-- [2022-02-06-打开-ipfs-后间歇地网络不可用](https://www.v2ex.com/t/832031) ![](assets/new.png)  
-- [2022-02-06-ZOC-的替代品有哪些](https://www.v2ex.com/t/832028) ![](assets/new.png)  
-- [2022-02-06-有人-25-岁靠自己出首付的吗？](https://www.v2ex.com/t/832027) ![](assets/new.png)  
-- [2022-02-06-问下-IPLC-和-GIA-线路的的实际区别-以及-影响网络体验的最主要因素](https://www.v2ex.com/t/832026) ![](assets/new.png)  
-- [2022-02-05-换新手机了-但有好有坏（K40）](https://www.v2ex.com/t/832025) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -561,9 +561,9 @@
 - [2022-02-06-关于如何更好地呈现红蓝对抗价值的思考](https://toutiao.io/k/0057ydw) ![](assets/new.png)  
 - [2022-02-06-卷起来了！DeepMind发布媲美普通程序员的AlphaCode，同日OpenAI神经数学证明器拿下奥数题](https://toutiao.io/k/dccden1) ![](assets/new.png)  
 - [2022-02-06-砍价永远差一刀？拼多多回应：小数点后面还有6位数！](https://toutiao.io/k/61pnqey) ![](assets/new.png)  
+- [2022-02-06-推荐-技术干货｜缓存一致性最佳实践](https://toutiao.io/k/zgmi04u) ![](assets/new.png)  
 - [2022-02-06-推荐-面试官问:-如何设计一个高并发系统?](https://toutiao.io/k/7hrrplb) ![](assets/new.png)  
 - [2022-02-06-推荐-字节的分布式链路追踪实践，教科书式的搭建指南](https://toutiao.io/k/t6j66db) ![](assets/new.png)  
-- [2022-02-06-推荐-技术干货｜缓存一致性最佳实践](https://toutiao.io/k/zgmi04u) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

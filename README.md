@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-06 02:28:10，:rocket: 更新条数: +1841， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-06 02:53:05，:rocket: 更新条数: +1842， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-02-06-Android-Studio-北极狐/大黄蜂-项目模板改动的讨论](https://www.v2ex.com/t/832040) ![](assets/new.png)  
+- [2022-02-06-iPhone-用-unc0ver-越狱，-Restore-RootFS-后依然无法用支付宝的刷脸功能（可以面容支付）](https://www.v2ex.com/t/832039) ![](assets/new.png)  
 - [2022-02-06-2022-年了，-React-Native-和-Flutter、uni-app-怎么选？](https://www.v2ex.com/t/832037) ![](assets/new.png)  
 - [2022-02-06-openwrt-下-docker-内安装-caliber-web-没有上传权限](https://www.v2ex.com/t/832036) ![](assets/new.png)  
 - [2022-02-06-小米手环-6-请问现在值得买吗？有什么理由直接升级到手表吗？](https://www.v2ex.com/t/832035) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-02-05-Xcode-解压出来比-GTA5-大](https://www.v2ex.com/t/832019) ![](assets/new.png)  
 - [2022-02-05-2022-年，求一款预装迅飞百度输入法的手机品牌？](https://www.v2ex.com/t/832018) ![](assets/new.png)  
 - [2022-02-05-多设备设置同步真的是一个世界性难题吗？搜了一圈好像没有一款合适的简单易用的解决方案](https://www.v2ex.com/t/832017) ![](assets/new.png)  
-- [2022-02-05-求推荐-iOS-后台自动同步日历的-app-或者方法](https://www.v2ex.com/t/832015) ![](assets/new.png)  
-- [2022-02-05-如何提升编写文档能力](https://www.v2ex.com/t/832014) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -554,8 +554,8 @@
 
 
 - [2022-02-06-汤楚熙：美团实时数仓架构演进与建设实践](https://toutiao.io/k/ctkg4cp) ![](assets/new.png)  
-- [2022-02-06-『每周译Go』Golang-在大规模流处理场景下的最小化内存使用](https://toutiao.io/k/1asw7xf) ![](assets/new.png)  
 - [2022-02-06-宣布Kubernetes策略管理白皮书](https://toutiao.io/k/m17h97v) ![](assets/new.png)  
+- [2022-02-06-『每周译Go』Golang-在大规模流处理场景下的最小化内存使用](https://toutiao.io/k/1asw7xf) ![](assets/new.png)  
 - [2022-02-06-如何为-Node.js-的-require-函数添加钩子？](https://toutiao.io/k/ek9h644) ![](assets/new.png)  
 - [2022-02-06-糟糕程序员的20个坏习惯，你命中几个？](https://toutiao.io/k/9ohal9c) ![](assets/new.png)  
 - [2022-02-06-关于如何更好地呈现红蓝对抗价值的思考](https://toutiao.io/k/0057ydw) ![](assets/new.png)  

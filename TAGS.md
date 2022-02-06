@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-02-06 02:28:10。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-06 02:53:05。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -311,6 +311,7 @@
 
 
 
+- [【V2EX】iPhone-用-unc0ver-越狱，-Restore-RootFS-后依然无法用支付宝的刷脸功能（可以面容支付）](https://www.v2ex.com/t/832039)
 - [【V2EX】openwrt-下-docker-内安装-caliber-web-没有上传权限](https://www.v2ex.com/t/832036)
 - [......【查看更多】......](./details/tags/server.md)
 

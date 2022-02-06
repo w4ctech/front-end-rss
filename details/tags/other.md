@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-02-06 04:26:45。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-06 04:45:57。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1741,6 +1741,7 @@
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2022-02-04-HTML-inputmode与iOS-Android软键盘类型测试](https://www.zhangxinxu.com/wordpress/2022/02/html-inputmode-keyboard/) 
 - [2021-11-14-密码强度效果最佳实现一定是HTML-meter元素](https://www.zhangxinxu.com/wordpress/2021/11/html-meter-password/) 
+- [2022-02-06-Windows11-不能打开-QQ，找不到原因](https://www.v2ex.com/t/832055) 
 - [2022-02-06-硬盘关闭时间设很短有没有关系？](https://www.v2ex.com/t/832052) 
 - [2022-02-06-协纪辨方书](https://www.v2ex.com/t/832048) 
 - [2022-02-06-LCD-屏幕频繁残影,-又频繁恢复,-屏幕的寿命还有多久?](https://www.v2ex.com/t/832045) 
@@ -1771,8 +1772,6 @@
 - [2022-02-05-你们加班吗？加班有调休吗？](https://www.v2ex.com/t/832009) 
 - [2022-02-05-突然发现腾讯云的轻量应用服务器涨价了，最低-34-一月](https://www.v2ex.com/t/832007) 
 - [2022-02-05-上海过年好无聊](https://www.v2ex.com/t/832006) 
-- [2022-02-05-发现桌面太乱了，-2022-年了，大家都用什么插线板？](https://www.v2ex.com/t/832005) 
-- [2022-02-05-为什么-Bitwarden-还有免费选项？](https://www.v2ex.com/t/832004) 
 - [2022-02-06-微话搭建优质-Web-应用其一-forum.lovejade.cn](https://blogread.cn/news/go.php?idItem=14928&url=https%3A%2F%2Fforum.lovejade.cn%2Fd%2F141-web%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-02-06-Puppeteer-使用分享及注意事项-forum.lovejade.cn](https://blogread.cn/news/go.php?idItem=14927&url=https%3A%2F%2Fforum.lovejade.cn%2Fd%2F145-puppeteer%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-02-06-优质网站同好者周刊（第-51-期）--倾城之链-blog.nicelinks.site](https://blogread.cn/news/go.php?idItem=14926&url=https%3A%2F%2Fblog.nicelinks.site%2Fweekly-051%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1789,8 +1788,8 @@
 - [2022-02-06-2021年10大流行软件测试工具-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14910&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493182%26amp%3Bidx%3D2%26amp%3Bsn%3Dd0808be25095064df4e148faf21fb915%26amp%3Bchksm%3Dfa3f0765cd488e73c3a0ede4bbd0a31fb822afbb649f8747894ebf6532433eb8e7ca23bf1281%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-02-06-5个免费在线SQL数据库环境，简直太方便了！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14909&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493177%26amp%3Bidx%3D2%26amp%3Bsn%3Dabab17fd476216398dfe1f016c4dcb84%26amp%3Bchksm%3Dfa3f0762cd488e7489964dbbfdb59b10f44ed9b5f7056ba6c5c63b268c6673677fd481af5a87%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-02-06-汤楚熙：美团实时数仓架构演进与建设实践](https://toutiao.io/k/ctkg4cp) 
-- [2022-02-06-宣布Kubernetes策略管理白皮书](https://toutiao.io/k/m17h97v) 
 - [2022-02-06-糟糕程序员的20个坏习惯，你命中几个？](https://toutiao.io/k/9ohal9c) 
+- [2022-02-06-宣布Kubernetes策略管理白皮书](https://toutiao.io/k/m17h97v) 
 - [2022-02-06-『每周译Go』Golang-在大规模流处理场景下的最小化内存使用](https://toutiao.io/k/1asw7xf) 
 - [2022-02-06-关于如何更好地呈现红蓝对抗价值的思考](https://toutiao.io/k/0057ydw) 
 - [2022-02-06-卷起来了！DeepMind发布媲美普通程序员的AlphaCode，同日OpenAI神经数学证明器拿下奥数题](https://toutiao.io/k/dccden1) 

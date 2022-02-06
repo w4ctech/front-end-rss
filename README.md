@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-06 04:26:45，:rocket: 更新条数: +1840， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-06 04:45:57，:rocket: 更新条数: +1839， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-02-06-Windows11-不能打开-QQ，找不到原因](https://www.v2ex.com/t/832055) ![](assets/new.png)  
 - [2022-02-06-硬盘关闭时间设很短有没有关系？](https://www.v2ex.com/t/832052) ![](assets/new.png)  
 - [2022-02-06-协纪辨方书](https://www.v2ex.com/t/832048) ![](assets/new.png)  
 - [2022-02-06-LCD-屏幕频繁残影,-又频繁恢复,-屏幕的寿命还有多久?](https://www.v2ex.com/t/832045) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-02-06-有人-25-岁靠自己出首付的吗？](https://www.v2ex.com/t/832027) ![](assets/new.png)  
 - [2022-02-06-问下-IPLC-和-GIA-线路的的实际区别-以及-影响网络体验的最主要因素](https://www.v2ex.com/t/832026) ![](assets/new.png)  
 - [2022-02-05-换新手机了-但有好有坏（K40）](https://www.v2ex.com/t/832025) ![](assets/new.png)  
-- [2022-02-05-Technōs-真是日本最可惜的游戏公司](https://www.v2ex.com/t/832024) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -554,16 +554,16 @@
 
 
 - [2022-02-06-汤楚熙：美团实时数仓架构演进与建设实践](https://toutiao.io/k/ctkg4cp) ![](assets/new.png)  
-- [2022-02-06-宣布Kubernetes策略管理白皮书](https://toutiao.io/k/m17h97v) ![](assets/new.png)  
 - [2022-02-06-糟糕程序员的20个坏习惯，你命中几个？](https://toutiao.io/k/9ohal9c) ![](assets/new.png)  
+- [2022-02-06-宣布Kubernetes策略管理白皮书](https://toutiao.io/k/m17h97v) ![](assets/new.png)  
 - [2022-02-06-『每周译Go』Golang-在大规模流处理场景下的最小化内存使用](https://toutiao.io/k/1asw7xf) ![](assets/new.png)  
 - [2022-02-06-如何为-Node.js-的-require-函数添加钩子？](https://toutiao.io/k/ek9h644) ![](assets/new.png)  
 - [2022-02-06-关于如何更好地呈现红蓝对抗价值的思考](https://toutiao.io/k/0057ydw) ![](assets/new.png)  
 - [2022-02-06-卷起来了！DeepMind发布媲美普通程序员的AlphaCode，同日OpenAI神经数学证明器拿下奥数题](https://toutiao.io/k/dccden1) ![](assets/new.png)  
 - [2022-02-06-砍价永远差一刀？拼多多回应：小数点后面还有6位数！](https://toutiao.io/k/61pnqey) ![](assets/new.png)  
-- [2022-02-06-推荐-技术干货｜缓存一致性最佳实践](https://toutiao.io/k/zgmi04u) ![](assets/new.png)  
 - [2022-02-06-推荐-面试官问:-如何设计一个高并发系统?](https://toutiao.io/k/7hrrplb) ![](assets/new.png)  
 - [2022-02-06-推荐-字节的分布式链路追踪实践，教科书式的搭建指南](https://toutiao.io/k/t6j66db) ![](assets/new.png)  
+- [2022-02-06-推荐-技术干货｜缓存一致性最佳实践](https://toutiao.io/k/zgmi04u) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

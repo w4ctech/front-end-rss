@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-06 17:54:40，:rocket: 更新条数: +1841， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-06 18:13:17，:rocket: 更新条数: +1840， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-02-06-手贱注册了个-ou.edu.pl](https://www.v2ex.com/t/832140) ![](assets/new.png)  
+- [2022-02-06-iOS-上-scriptable-app-桌面小组件遇到的问题](https://www.v2ex.com/t/832139) ![](assets/new.png)  
 - [2022-02-06-写了一篇博客，总结了我碰到的欧美科技公司的面试方式和准备方式](https://www.v2ex.com/t/832138) ![](assets/new.png)  
 - [2022-02-06-现在还有没有兼顾包容性和稳定性的随笔博客？主要记录各种工作小笔记用](https://www.v2ex.com/t/832135) ![](assets/new.png)  
 - [2022-02-06-问一个情商的问题](https://www.v2ex.com/t/832134) ![](assets/new.png)  
@@ -507,10 +509,8 @@
 - [2022-02-06-1password-家庭版合租](https://www.v2ex.com/t/832119) ![](assets/new.png)  
 - [2022-02-06-关于-sqlzoo-SQL-的问题](https://www.v2ex.com/t/832118) ![](assets/new.png)  
 - [2022-02-06-macOS-主机之间文件共享登录问题](https://www.v2ex.com/t/832115) ![](assets/new.png)  
-- [2022-02-06-我刚才干了一件这辈子做过最坏的事情，我家楼下的车位过年这几天有辆红色的小轿车一直占着我们的车位不肯挪，而且还没有留电话号码，我刚才乘着酒劲把它刮了，�...](https://www.v2ex.com/t/832114) ![](assets/new.png)  
 - [2022-02-06-Windows-11-Insider-更新了重新设计的记事本应用](https://www.v2ex.com/t/832112) ![](assets/new.png)  
 - [2022-02-06-为-macOS-固定-IPV6-后缀，设置-DDNS-及防火墙](https://www.v2ex.com/t/832110) ![](assets/new.png)  
-- [2022-02-06-v-友们，-100-~-200-块左右，可以买到用起来还行的“机械键盘”有哪些呢？](https://www.v2ex.com/t/832109) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -563,9 +563,9 @@
 - [2022-02-06-砍价永远差一刀？拼多多回应：小数点后面还有6位数！](https://toutiao.io/k/61pnqey) ![](assets/new.png)  
 - [2022-02-06-关于如何更好地呈现红蓝对抗价值的思考](https://toutiao.io/k/0057ydw) ![](assets/new.png)  
 - [2022-02-06-卷起来了！DeepMind发布媲美普通程序员的AlphaCode，同日OpenAI神经数学证明器拿下奥数题](https://toutiao.io/k/dccden1) ![](assets/new.png)  
+- [2022-02-06-推荐-面试官问:-如何设计一个高并发系统?](https://toutiao.io/k/7hrrplb) ![](assets/new.png)  
 - [2022-02-06-推荐-技术干货｜缓存一致性最佳实践](https://toutiao.io/k/zgmi04u) ![](assets/new.png)  
 - [2022-02-06-推荐-JVM调优的几种场景（建议收藏）](https://toutiao.io/k/fib82nl) ![](assets/new.png)  
-- [2022-02-06-推荐-面试官问:-如何设计一个高并发系统?](https://toutiao.io/k/7hrrplb) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-02-06 08:42:58。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-02-06 08:54:47。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -87,6 +87,9 @@
 - [【武汉肺炎防疫全纪录(财新网)】2022-02-01-德国未实现接种目标-奥地利强制接种疫苗法律生效｜大流行手记（1月31日）](https://m.caixin.com/m/2022-02-01/101837106.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2022-02-01-聚焦｜张文宏：未来抗疫，是努力夺回正常生活的过程](https://opinion.caixin.com/m/2022-02-01/101837206.html) 
 - [【张鑫旭-鑫空间-鑫生活】2022-02-04-HTML-inputmode与iOS-Android软键盘类型测试](https://www.zhangxinxu.com/wordpress/2022/02/html-inputmode-keyboard/) 
+- [【V2EX】2022-02-06-成都/重庆-Java-开发工程师-10-15K](https://www.v2ex.com/t/832082) 
+- [【V2EX】2022-02-06-关于分辨公司岗位的讨论](https://www.v2ex.com/t/832081) 
+- [【V2EX】2022-02-06-分享一下一直在使用的番茄工作法的一些见解](https://www.v2ex.com/t/832080) 
 - [【V2EX】2022-02-06-有道云笔记冷启动时间>=30s](https://www.v2ex.com/t/832078) 
 - [【V2EX】2022-02-06-3-万亿刀市值的公司，一个隔空投送十几年了搞不定](https://www.v2ex.com/t/832076) 
 - [【V2EX】2022-02-06-交流汽车租凭方面的发票开票问题](https://www.v2ex.com/t/832073) 
@@ -120,8 +123,6 @@
 - [【V2EX】2022-02-06-openwrt-下-docker-内安装-caliber-web-没有上传权限](https://www.v2ex.com/t/832036) 
 - [【V2EX】2022-02-06-小米手环-6-请问现在值得买吗？有什么理由直接升级到手表吗？](https://www.v2ex.com/t/832035) 
 - [【V2EX】2022-02-06-Android-Studio-新版本-bumblebee-里面-gradle-脚本的疑惑](https://www.v2ex.com/t/832034) 
-- [【V2EX】2022-02-06-关于-k8s-调整卷大小的问题](https://www.v2ex.com/t/832032) 
-- [【V2EX】2022-02-06-打开-ipfs-后间歇地网络不可用](https://www.v2ex.com/t/832031) 
 - [【技术头条】2022-02-06-微话搭建优质-Web-应用其一-forum.lovejade.cn](https://blogread.cn/news/go.php?idItem=14928&url=https%3A%2F%2Fforum.lovejade.cn%2Fd%2F141-web%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-02-06-Puppeteer-使用分享及注意事项-forum.lovejade.cn](https://blogread.cn/news/go.php?idItem=14927&url=https%3A%2F%2Fforum.lovejade.cn%2Fd%2F145-puppeteer%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-02-06-优质网站同好者周刊（第-51-期）--倾城之链-blog.nicelinks.site](https://blogread.cn/news/go.php?idItem=14926&url=https%3A%2F%2Fblog.nicelinks.site%2Fweekly-051%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

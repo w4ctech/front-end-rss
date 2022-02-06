@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-06 05:39:20，:rocket: 更新条数: +1839， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-06 05:54:44，:rocket: 更新条数: +1839， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-02-06-在学校读书应该学点什么？](https://www.v2ex.com/t/832065) ![](assets/new.png)  
+- [2022-02-06-发现在限制小孩玩手机这方面-安卓真的干不过-iOS](https://www.v2ex.com/t/832064) ![](assets/new.png)  
 - [2022-02-06-「GM-脚本」大会员-B-币领取提醒](https://www.v2ex.com/t/832062) ![](assets/new.png)  
 - [2022-02-06-提高编程效率的方法，抛砖引玉](https://www.v2ex.com/t/832061) ![](assets/new.png)  
 - [2022-02-06-听说-System.out.print-是同步的弊端那我这么写可不可以？](https://www.v2ex.com/t/832059) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-02-06-iPhone-用-unc0ver-越狱，-Restore-RootFS-后依然无法用支付宝的刷脸功能（可以面容支付）](https://www.v2ex.com/t/832039) ![](assets/new.png)  
 - [2022-02-06-2022-年了，-React-Native-和-Flutter、uni-app-怎么选？](https://www.v2ex.com/t/832037) ![](assets/new.png)  
 - [2022-02-06-openwrt-下-docker-内安装-caliber-web-没有上传权限](https://www.v2ex.com/t/832036) ![](assets/new.png)  
-- [2022-02-06-小米手环-6-请问现在值得买吗？有什么理由直接升级到手表吗？](https://www.v2ex.com/t/832035) ![](assets/new.png)  
-- [2022-02-06-Android-Studio-新版本-bumblebee-里面-gradle-脚本的疑惑](https://www.v2ex.com/t/832034) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -561,9 +561,9 @@
 - [2022-02-06-关于如何更好地呈现红蓝对抗价值的思考](https://toutiao.io/k/0057ydw) ![](assets/new.png)  
 - [2022-02-06-卷起来了！DeepMind发布媲美普通程序员的AlphaCode，同日OpenAI神经数学证明器拿下奥数题](https://toutiao.io/k/dccden1) ![](assets/new.png)  
 - [2022-02-06-砍价永远差一刀？拼多多回应：小数点后面还有6位数！](https://toutiao.io/k/61pnqey) ![](assets/new.png)  
-- [2022-02-06-推荐-面试官问:-如何设计一个高并发系统?](https://toutiao.io/k/7hrrplb) ![](assets/new.png)  
 - [2022-02-06-推荐-技术干货｜缓存一致性最佳实践](https://toutiao.io/k/zgmi04u) ![](assets/new.png)  
 - [2022-02-06-推荐-字节的分布式链路追踪实践，教科书式的搭建指南](https://toutiao.io/k/t6j66db) ![](assets/new.png)  
+- [2022-02-06-推荐-面试官问:-如何设计一个高并发系统?](https://toutiao.io/k/7hrrplb) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-02-06 22:54:32。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-06 23:12:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
@@ -10,7 +10,6 @@
 - [2022-02-06-Zard-翔哥近照](https://www.v2ex.com/t/832143) 
 - [2022-02-06-Debian-为啥设置好了-crontab-每日执行一次脚本，结果服务器不执行脚本呀？](https://www.v2ex.com/t/832142) 
 - [2022-02-06-怎么买电脑合适？](https://www.v2ex.com/t/832141) 
-- [2022-02-06-手贱注册了个-ou.edu.pl](https://www.v2ex.com/t/832140) 
 - [2022-02-06-iOS-上-scriptable-app-桌面小组件遇到的问题](https://www.v2ex.com/t/832139) 
 - [2022-02-06-写了一篇博客，总结了我碰到的欧美科技公司的面试方式和准备方式](https://www.v2ex.com/t/832138) 
 - [2022-02-06-现在还有没有兼顾包容性和稳定性的随笔博客？主要记录各种工作小笔记用](https://www.v2ex.com/t/832135) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-02-06 11:36:12。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-02-06 11:41:41。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -88,6 +88,7 @@
 - [【武汉肺炎防疫全纪录(财新网)】2022-02-01-德国未实现接种目标-奥地利强制接种疫苗法律生效｜大流行手记（1月31日）](https://m.caixin.com/m/2022-02-01/101837106.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2022-02-01-聚焦｜张文宏：未来抗疫，是努力夺回正常生活的过程](https://opinion.caixin.com/m/2022-02-01/101837206.html) 
 - [【张鑫旭-鑫空间-鑫生活】2022-02-04-HTML-inputmode与iOS-Android软键盘类型测试](https://www.zhangxinxu.com/wordpress/2022/02/html-inputmode-keyboard/) 
+- [【V2EX】2022-02-06-2022-北京冬奥会-24-节气超清图](https://www.v2ex.com/t/832104) 
 - [【V2EX】2022-02-06-迫于情人节-gucci-lv-包包什么渠道便宜?](https://www.v2ex.com/t/832103) 
 - [【V2EX】2022-02-06-macOS-下面，刚从-App-Store-升级了-OneDrive，结果文件夹变空了，有谁碰到一样的问题么？](https://www.v2ex.com/t/832102) 
 - [【V2EX】2022-02-06-为什么路由器厂商不生产傻瓜型单线复用设备？](https://www.v2ex.com/t/832101) 
@@ -155,9 +156,9 @@
 - [【开发者头条】2022-02-06-关于如何更好地呈现红蓝对抗价值的思考](https://toutiao.io/k/0057ydw) 
 - [【开发者头条】2022-02-06-卷起来了！DeepMind发布媲美普通程序员的AlphaCode，同日OpenAI神经数学证明器拿下奥数题](https://toutiao.io/k/dccden1) 
 - [【开发者头条】2022-02-06-新入手的Mac需要做的事](https://toutiao.io/k/zou2w7c) 
-- [【开发者头条】2022-02-06-推荐-面试官问:-如何设计一个高并发系统?](https://toutiao.io/k/7hrrplb) 
 - [【开发者头条】2022-02-06-推荐-技术干货｜缓存一致性最佳实践](https://toutiao.io/k/zgmi04u) 
 - [【开发者头条】2022-02-06-推荐-字节的分布式链路追踪实践，教科书式的搭建指南](https://toutiao.io/k/t6j66db) 
+- [【开发者头条】2022-02-06-推荐-面试官问:-如何设计一个高并发系统?](https://toutiao.io/k/7hrrplb) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

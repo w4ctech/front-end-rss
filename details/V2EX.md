@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-02-06 10:41:31。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-06 10:54:33。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
@@ -40,4 +40,3 @@
 - [2022-02-06-Windows11-不能打开-QQ，找不到原因](https://www.v2ex.com/t/832055) 
 - [2022-02-06-硬盘关闭时间设很短有没有关系？](https://www.v2ex.com/t/832052) 
 - [2022-02-06-macOS-ClashX-pro-更新节点后闪退，再次启动后所有节点-fail，无法上网](https://www.v2ex.com/t/832049) 
-- [2022-02-06-协纪辨方书](https://www.v2ex.com/t/832048) 

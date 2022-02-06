@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-06 20:40:08，:rocket: 更新条数: +1841， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-06 20:54:28，:rocket: 更新条数: +1841， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-02-06-iQDNS---五湖四海皆可析的稳定加密-DNS](https://www.v2ex.com/t/832145) ![](assets/new.png)  
 - [2022-02-06-百度为何一点节操都没有，搞中间人。](https://www.v2ex.com/t/832144) ![](assets/new.png)  
 - [2022-02-06-Zard-翔哥近照](https://www.v2ex.com/t/832143) ![](assets/new.png)  
 - [2022-02-06-Debian-为啥设置好了-crontab-每日执行一次脚本，结果服务器不执行脚本呀？](https://www.v2ex.com/t/832142) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-02-06-为什么前端圈那么热衷开发新框架？](https://www.v2ex.com/t/832122) ![](assets/new.png)  
 - [2022-02-06-大佬们，威联通-TS-451D-和群晖-DS-420+选哪个](https://www.v2ex.com/t/832121) ![](assets/new.png)  
 - [2022-02-06-没想到安卓-VLC-能直接播放-SMB-共享的蓝光-ISO](https://www.v2ex.com/t/832120) ![](assets/new.png)  
-- [2022-02-06-1password-家庭版合租](https://www.v2ex.com/t/832119) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -563,8 +563,8 @@
 - [2022-02-06-关于如何更好地呈现红蓝对抗价值的思考](https://toutiao.io/k/0057ydw) ![](assets/new.png)  
 - [2022-02-06-砍价永远差一刀？拼多多回应：小数点后面还有6位数！](https://toutiao.io/k/61pnqey) ![](assets/new.png)  
 - [2022-02-06-卷起来了！DeepMind发布媲美普通程序员的AlphaCode，同日OpenAI神经数学证明器拿下奥数题](https://toutiao.io/k/dccden1) ![](assets/new.png)  
-- [2022-02-06-推荐-JVM调优的几种场景（建议收藏）](https://toutiao.io/k/fib82nl) ![](assets/new.png)  
 - [2022-02-06-推荐-面试官问:-如何设计一个高并发系统?](https://toutiao.io/k/7hrrplb) ![](assets/new.png)  
+- [2022-02-06-推荐-JVM调优的几种场景（建议收藏）](https://toutiao.io/k/fib82nl) ![](assets/new.png)  
 - [2022-02-06-推荐-技术干货｜缓存一致性最佳实践](https://toutiao.io/k/zgmi04u) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

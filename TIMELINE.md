@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-02-06 03:12:04。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-02-06 03:20:51。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -86,6 +86,9 @@
 - [【武汉肺炎防疫全纪录(财新网)】2022-02-01-德国未实现接种目标-奥地利强制接种疫苗法律生效｜大流行手记（1月31日）](https://m.caixin.com/m/2022-02-01/101837106.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2022-02-01-聚焦｜张文宏：未来抗疫，是努力夺回正常生活的过程](https://opinion.caixin.com/m/2022-02-01/101837206.html) 
 - [【张鑫旭-鑫空间-鑫生活】2022-02-04-HTML-inputmode与iOS-Android软键盘类型测试](https://www.zhangxinxu.com/wordpress/2022/02/html-inputmode-keyboard/) 
+- [【V2EX】2022-02-06-协纪辨方书](https://www.v2ex.com/t/832048) 
+- [【V2EX】2022-02-06-据说公务员都没年终奖了](https://www.v2ex.com/t/832046) 
+- [【V2EX】2022-02-06-LCD-屏幕频繁残影,-又频繁恢复,-屏幕的寿命还有多久?](https://www.v2ex.com/t/832045) 
 - [【V2EX】2022-02-06-搞了给以前拍的照片分类的工具](https://www.v2ex.com/t/832044) 
 - [【V2EX】2022-02-06-突然-Paypal-收到了来自-DigitalOcean-的$5-汇入，啥情况？](https://www.v2ex.com/t/832043) 
 - [【V2EX】2022-02-06-三年前端准备辞职了，大伙看下简历行吗](https://www.v2ex.com/t/832042) 
@@ -124,9 +127,6 @@
 - [【V2EX】2022-02-05-如何快速输入英文符号](https://www.v2ex.com/t/832002) 
 - [【V2EX】2022-02-05-运维交流微信群-欢迎大家加入哈](https://www.v2ex.com/t/832001) 
 - [【V2EX】2022-02-05-海信去年出的-海信Hisense-TOUCH-音乐阅读器的设计真棒啊,-可惜没有做成手机](https://www.v2ex.com/t/832000) 
-- [【V2EX】2022-02-05-感觉-roam-research-要凉凉啊](https://www.v2ex.com/t/831998) 
-- [【V2EX】2022-02-05-隔壁新搬过来一对情侣...](https://www.v2ex.com/t/831996) 
-- [【V2EX】2022-02-05-你们怎么看-mbti-这种测试呢？](https://www.v2ex.com/t/831995) 
 - [【技术头条】2022-02-06-微话搭建优质-Web-应用其一-forum.lovejade.cn](https://blogread.cn/news/go.php?idItem=14928&url=https%3A%2F%2Fforum.lovejade.cn%2Fd%2F141-web%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-02-06-Puppeteer-使用分享及注意事项-forum.lovejade.cn](https://blogread.cn/news/go.php?idItem=14927&url=https%3A%2F%2Fforum.lovejade.cn%2Fd%2F145-puppeteer%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-02-06-优质网站同好者周刊（第-51-期）--倾城之链-blog.nicelinks.site](https://blogread.cn/news/go.php?idItem=14926&url=https%3A%2F%2Fblog.nicelinks.site%2Fweekly-051%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -149,15 +149,15 @@
 - [【技术头条】2022-02-06-5个免费在线SQL数据库环境，简直太方便了！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14909&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493177%26amp%3Bidx%3D2%26amp%3Bsn%3Dabab17fd476216398dfe1f016c4dcb84%26amp%3Bchksm%3Dfa3f0762cd488e7489964dbbfdb59b10f44ed9b5f7056ba6c5c63b268c6673677fd481af5a87%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【开发者头条】2022-02-06-汤楚熙：美团实时数仓架构演进与建设实践](https://toutiao.io/k/ctkg4cp) 
 - [【开发者头条】2022-02-06-『每周译Go』Golang-在大规模流处理场景下的最小化内存使用](https://toutiao.io/k/1asw7xf) 
-- [【开发者头条】2022-02-06-如何为-Node.js-的-require-函数添加钩子？](https://toutiao.io/k/ek9h644) 
 - [【开发者头条】2022-02-06-宣布Kubernetes策略管理白皮书](https://toutiao.io/k/m17h97v) 
+- [【开发者头条】2022-02-06-如何为-Node.js-的-require-函数添加钩子？](https://toutiao.io/k/ek9h644) 
 - [【开发者头条】2022-02-06-糟糕程序员的20个坏习惯，你命中几个？](https://toutiao.io/k/9ohal9c) 
 - [【开发者头条】2022-02-06-关于如何更好地呈现红蓝对抗价值的思考](https://toutiao.io/k/0057ydw) 
 - [【开发者头条】2022-02-06-卷起来了！DeepMind发布媲美普通程序员的AlphaCode，同日OpenAI神经数学证明器拿下奥数题](https://toutiao.io/k/dccden1) 
 - [【开发者头条】2022-02-06-砍价永远差一刀？拼多多回应：小数点后面还有6位数！](https://toutiao.io/k/61pnqey) 
-- [【开发者头条】2022-02-06-推荐-字节的分布式链路追踪实践，教科书式的搭建指南](https://toutiao.io/k/t6j66db) 
-- [【开发者头条】2022-02-06-推荐-面试官问:-如何设计一个高并发系统?](https://toutiao.io/k/7hrrplb) 
 - [【开发者头条】2022-02-06-推荐-技术干货｜缓存一致性最佳实践](https://toutiao.io/k/zgmi04u) 
+- [【开发者头条】2022-02-06-推荐-面试官问:-如何设计一个高并发系统?](https://toutiao.io/k/7hrrplb) 
+- [【开发者头条】2022-02-06-推荐-字节的分布式链路追踪实践，教科书式的搭建指南](https://toutiao.io/k/t6j66db) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

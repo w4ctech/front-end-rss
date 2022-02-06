@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-06 00:48:40，:rocket: 更新条数: +1841， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-06 01:17:32，:rocket: 更新条数: +1839， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-02-06-ZOC-的替代品有哪些](https://www.v2ex.com/t/832028) ![](assets/new.png)  
 - [2022-02-06-有人-25-岁靠自己出首付的吗？](https://www.v2ex.com/t/832027) ![](assets/new.png)  
 - [2022-02-06-问下-IPLC-和-GIA-线路的的实际区别-以及-影响网络体验的最主要因素](https://www.v2ex.com/t/832026) ![](assets/new.png)  
 - [2022-02-05-换新手机了-但有好有坏（K40）](https://www.v2ex.com/t/832025) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-02-05-你们加班吗？加班有调休吗？](https://www.v2ex.com/t/832009) ![](assets/new.png)  
 - [2022-02-05-突然发现腾讯云的轻量应用服务器涨价了，最低-34-一月](https://www.v2ex.com/t/832007) ![](assets/new.png)  
 - [2022-02-05-上海过年好无聊](https://www.v2ex.com/t/832006) ![](assets/new.png)  
-- [2022-02-05-发现桌面太乱了，-2022-年了，大家都用什么插线板？](https://www.v2ex.com/t/832005) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -555,11 +555,10 @@
 
 - [2022-02-06-汤楚熙：美团实时数仓架构演进与建设实践](https://toutiao.io/k/ctkg4cp) ![](assets/new.png)  
 - [2022-02-06-『每周译Go』Golang-在大规模流处理场景下的最小化内存使用](https://toutiao.io/k/1asw7xf) ![](assets/new.png)  
-- [2022-02-06-PHP-正在干掉-Python](https://toutiao.io/k/ds546b7) ![](assets/new.png)  
 - [2022-02-06-宣布Kubernetes策略管理白皮书](https://toutiao.io/k/m17h97v) ![](assets/new.png)  
 - [2022-02-06-如何为-Node.js-的-require-函数添加钩子？](https://toutiao.io/k/ek9h644) ![](assets/new.png)  
-- [2022-02-06-推荐-面试官问:-如何设计一个高并发系统?](https://toutiao.io/k/7hrrplb) ![](assets/new.png)  
 - [2022-02-06-推荐-技术干货｜缓存一致性最佳实践](https://toutiao.io/k/zgmi04u) ![](assets/new.png)  
+- [2022-02-06-推荐-面试官问:-如何设计一个高并发系统?](https://toutiao.io/k/7hrrplb) ![](assets/new.png)  
 - [2022-02-06-推荐-字节的分布式链路追踪实践，教科书式的搭建指南](https://toutiao.io/k/t6j66db) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

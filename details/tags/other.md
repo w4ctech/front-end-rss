@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-02-06 00:48:40。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-06 01:17:32。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1740,6 +1740,7 @@
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2022-02-04-HTML-inputmode与iOS-Android软键盘类型测试](https://www.zhangxinxu.com/wordpress/2022/02/html-inputmode-keyboard/) 
 - [2021-11-14-密码强度效果最佳实现一定是HTML-meter元素](https://www.zhangxinxu.com/wordpress/2021/11/html-meter-password/) 
+- [2022-02-06-ZOC-的替代品有哪些](https://www.v2ex.com/t/832028) 
 - [2022-02-06-有人-25-岁靠自己出首付的吗？](https://www.v2ex.com/t/832027) 
 - [2022-02-06-问下-IPLC-和-GIA-线路的的实际区别-以及-影响网络体验的最主要因素](https://www.v2ex.com/t/832026) 
 - [2022-02-05-换新手机了-但有好有坏（K40）](https://www.v2ex.com/t/832025) 
@@ -1778,8 +1779,6 @@
 - [2022-02-05-聊聊哈希表的设计与具体实现](https://www.v2ex.com/t/831982) 
 - [2022-02-05-多平台剪贴板同步真的是一个世界性难题吗？搜了一圈好像没有一款合适的简单易用的解决方案](https://www.v2ex.com/t/831981) 
 - [2022-02-05-网易云音乐歌单惨不忍睹](https://www.v2ex.com/t/831980) 
-- [2022-02-05-必应百度已经和谐-V2EX-主站](https://www.v2ex.com/t/831979) 
-- [2022-02-05-iOS15.XX-最近几个版本-iCloud-经常卡死](https://www.v2ex.com/t/831978) 
 - [2022-02-06-微话搭建优质-Web-应用其一-forum.lovejade.cn](https://blogread.cn/news/go.php?idItem=14928&url=https%3A%2F%2Fforum.lovejade.cn%2Fd%2F141-web%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-02-06-Puppeteer-使用分享及注意事项-forum.lovejade.cn](https://blogread.cn/news/go.php?idItem=14927&url=https%3A%2F%2Fforum.lovejade.cn%2Fd%2F145-puppeteer%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-02-06-优质网站同好者周刊（第-51-期）--倾城之链-blog.nicelinks.site](https://blogread.cn/news/go.php?idItem=14926&url=https%3A%2F%2Fblog.nicelinks.site%2Fweekly-051%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1797,6 +1796,5 @@
 - [2022-02-06-5个免费在线SQL数据库环境，简直太方便了！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14909&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493177%26amp%3Bidx%3D2%26amp%3Bsn%3Dabab17fd476216398dfe1f016c4dcb84%26amp%3Bchksm%3Dfa3f0762cd488e7489964dbbfdb59b10f44ed9b5f7056ba6c5c63b268c6673677fd481af5a87%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-02-06-汤楚熙：美团实时数仓架构演进与建设实践](https://toutiao.io/k/ctkg4cp) 
 - [2022-02-06-『每周译Go』Golang-在大规模流处理场景下的最小化内存使用](https://toutiao.io/k/1asw7xf) 
-- [2022-02-06-PHP-正在干掉-Python](https://toutiao.io/k/ds546b7) 
 - [2022-02-06-宣布Kubernetes策略管理白皮书](https://toutiao.io/k/m17h97v) 
 - [2022-02-06-推荐-字节的分布式链路追踪实践，教科书式的搭建指南](https://toutiao.io/k/t6j66db) 

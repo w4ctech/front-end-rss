@@ -9093,6 +9093,21 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "为 macOS 固定 IPV6 后缀，设置 DDNS 及防火墙",
+        "link": "https://www.v2ex.com/t/832110",
+        "date": "2022-02-06"
+      },
+      {
+        "title": "v 友们， 100 ~ 200 块左右，可以买到用起来还行的“机械键盘”有哪些呢？",
+        "link": "https://www.v2ex.com/t/832109",
+        "date": "2022-02-06"
+      },
+      {
+        "title": "二手笔记本电脑和 NUC 二选一？",
+        "link": "https://www.v2ex.com/t/832108",
+        "date": "2022-02-06"
+      },
+      {
         "title": "挑个笔记本有点难啊",
         "link": "https://www.v2ex.com/t/832105",
         "date": "2022-02-06"
@@ -9256,21 +9271,6 @@
         "title": "「GM 脚本」大会员 B 币领取提醒",
         "link": "https://www.v2ex.com/t/832062",
         "date": "2022-02-06"
-      },
-      {
-        "title": "提高编程效率的方法，抛砖引玉",
-        "link": "https://www.v2ex.com/t/832061",
-        "date": "2022-02-06"
-      },
-      {
-        "title": "听说 System.out.print 是同步的弊端那我这么写可不可以？",
-        "link": "https://www.v2ex.com/t/832059",
-        "date": "2022-02-06"
-      },
-      {
-        "title": "迫于宽带下月到期，北京联通宽带现在办哪个套餐比较合适？",
-        "link": "https://www.v2ex.com/t/832058",
-        "date": "2022-02-06"
       }
     ]
   },
@@ -9417,6 +9417,11 @@
         "date": "2022-02-06"
       },
       {
+        "title": "新入手的Mac需要做的事",
+        "link": "https://toutiao.io/k/zou2w7c",
+        "date": "2022-02-06"
+      },
+      {
         "title": "砍价永远差一刀？拼多多回应：小数点后面还有6位数！",
         "link": "https://toutiao.io/k/61pnqey",
         "date": "2022-02-06"
@@ -9427,18 +9432,8 @@
         "date": "2022-02-06"
       },
       {
-        "title": "新入手的Mac需要做的事",
-        "link": "https://toutiao.io/k/zou2w7c",
-        "date": "2022-02-06"
-      },
-      {
         "title": "卷起来了！DeepMind发布媲美普通程序员的AlphaCode，同日OpenAI神经数学证明器拿下奥数题",
         "link": "https://toutiao.io/k/dccden1",
-        "date": "2022-02-06"
-      },
-      {
-        "title": "[推荐] 技术干货｜缓存一致性最佳实践",
-        "link": "https://toutiao.io/k/zgmi04u",
         "date": "2022-02-06"
       },
       {
@@ -9449,6 +9444,11 @@
       {
         "title": "[推荐] 字节的分布式链路追踪实践，教科书式的搭建指南",
         "link": "https://toutiao.io/k/t6j66db",
+        "date": "2022-02-06"
+      },
+      {
+        "title": "[推荐] 技术干货｜缓存一致性最佳实践",
+        "link": "https://toutiao.io/k/zgmi04u",
         "date": "2022-02-06"
       }
     ]

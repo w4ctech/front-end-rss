@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-02-06 02:56:31。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-02-06 03:12:04。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -69,6 +69,7 @@
 
 
 - [【武汉肺炎防疫全纪录(财新网)】2022-02-06-2月5日全国新增新冠43例-六省份本土13例](https://m.caixin.com/m/2022-02-06/101838052.html) 
+- [【武汉肺炎防疫全纪录(财新网)】2022-02-06-土耳其总统埃尔多安新冠阳性-奥地利疫苗强制接种法案生效｜大流行手记（2月5日）](https://m.caixin.com/m/2022-02-06/101838056.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2022-02-05-香港疫情两年来“最恶劣”-拟全民派发快速检测包](https://m.caixin.com/m/2022-02-05/101837956.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2022-02-05-最新海外疫情：新冠感染超3.9亿-累计接种新冠疫苗超101.46亿剂次](https://m.caixin.com/m/2022-02-05/101837946.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2022-02-05-【境内疫情观察】全国新增9例本土病例（2月4日）](https://database.caixin.com/m/2022-02-05/101837971.html) 
@@ -85,6 +86,10 @@
 - [【武汉肺炎防疫全纪录(财新网)】2022-02-01-德国未实现接种目标-奥地利强制接种疫苗法律生效｜大流行手记（1月31日）](https://m.caixin.com/m/2022-02-01/101837106.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2022-02-01-聚焦｜张文宏：未来抗疫，是努力夺回正常生活的过程](https://opinion.caixin.com/m/2022-02-01/101837206.html) 
 - [【张鑫旭-鑫空间-鑫生活】2022-02-04-HTML-inputmode与iOS-Android软键盘类型测试](https://www.zhangxinxu.com/wordpress/2022/02/html-inputmode-keyboard/) 
+- [【V2EX】2022-02-06-搞了给以前拍的照片分类的工具](https://www.v2ex.com/t/832044) 
+- [【V2EX】2022-02-06-突然-Paypal-收到了来自-DigitalOcean-的$5-汇入，啥情况？](https://www.v2ex.com/t/832043) 
+- [【V2EX】2022-02-06-三年前端准备辞职了，大伙看下简历行吗](https://www.v2ex.com/t/832042) 
+- [【V2EX】2022-02-06-求个-mikrotik-routeros-的-dynv6.com-的-DDNS-脚本](https://www.v2ex.com/t/832041) 
 - [【V2EX】2022-02-06-Android-Studio-北极狐/大黄蜂-项目模板改动的讨论](https://www.v2ex.com/t/832040) 
 - [【V2EX】2022-02-06-iPhone-用-unc0ver-越狱，-Restore-RootFS-后依然无法用支付宝的刷脸功能（可以面容支付）](https://www.v2ex.com/t/832039) 
 - [【V2EX】2022-02-06-2022-年了，-React-Native-和-Flutter、uni-app-怎么选？](https://www.v2ex.com/t/832037) 
@@ -122,9 +127,6 @@
 - [【V2EX】2022-02-05-感觉-roam-research-要凉凉啊](https://www.v2ex.com/t/831998) 
 - [【V2EX】2022-02-05-隔壁新搬过来一对情侣...](https://www.v2ex.com/t/831996) 
 - [【V2EX】2022-02-05-你们怎么看-mbti-这种测试呢？](https://www.v2ex.com/t/831995) 
-- [【V2EX】2022-02-05-过年又没带对象回家](https://www.v2ex.com/t/831994) 
-- [【V2EX】2022-02-05-中文独立博客的年化“腐烂率”——8%](https://www.v2ex.com/t/831992) 
-- [【V2EX】2022-02-05-开源，无内购&广告的公益游戏能在无版号的情况下上架国区-App-Store-吗？](https://www.v2ex.com/t/831991) 
 - [【技术头条】2022-02-06-微话搭建优质-Web-应用其一-forum.lovejade.cn](https://blogread.cn/news/go.php?idItem=14928&url=https%3A%2F%2Fforum.lovejade.cn%2Fd%2F141-web%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-02-06-Puppeteer-使用分享及注意事项-forum.lovejade.cn](https://blogread.cn/news/go.php?idItem=14927&url=https%3A%2F%2Fforum.lovejade.cn%2Fd%2F145-puppeteer%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-02-06-优质网站同好者周刊（第-51-期）--倾城之链-blog.nicelinks.site](https://blogread.cn/news/go.php?idItem=14926&url=https%3A%2F%2Fblog.nicelinks.site%2Fweekly-051%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -146,9 +148,9 @@
 - [【技术头条】2022-02-06-2021年10大流行软件测试工具-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14910&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493182%26amp%3Bidx%3D2%26amp%3Bsn%3Dd0808be25095064df4e148faf21fb915%26amp%3Bchksm%3Dfa3f0765cd488e73c3a0ede4bbd0a31fb822afbb649f8747894ebf6532433eb8e7ca23bf1281%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-02-06-5个免费在线SQL数据库环境，简直太方便了！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14909&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493177%26amp%3Bidx%3D2%26amp%3Bsn%3Dabab17fd476216398dfe1f016c4dcb84%26amp%3Bchksm%3Dfa3f0762cd488e7489964dbbfdb59b10f44ed9b5f7056ba6c5c63b268c6673677fd481af5a87%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【开发者头条】2022-02-06-汤楚熙：美团实时数仓架构演进与建设实践](https://toutiao.io/k/ctkg4cp) 
-- [【开发者头条】2022-02-06-宣布Kubernetes策略管理白皮书](https://toutiao.io/k/m17h97v) 
 - [【开发者头条】2022-02-06-『每周译Go』Golang-在大规模流处理场景下的最小化内存使用](https://toutiao.io/k/1asw7xf) 
 - [【开发者头条】2022-02-06-如何为-Node.js-的-require-函数添加钩子？](https://toutiao.io/k/ek9h644) 
+- [【开发者头条】2022-02-06-宣布Kubernetes策略管理白皮书](https://toutiao.io/k/m17h97v) 
 - [【开发者头条】2022-02-06-糟糕程序员的20个坏习惯，你命中几个？](https://toutiao.io/k/9ohal9c) 
 - [【开发者头条】2022-02-06-关于如何更好地呈现红蓝对抗价值的思考](https://toutiao.io/k/0057ydw) 
 - [【开发者头条】2022-02-06-卷起来了！DeepMind发布媲美普通程序员的AlphaCode，同日OpenAI神经数学证明器拿下奥数题](https://toutiao.io/k/dccden1) 

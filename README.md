@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-06 02:56:31，:rocket: 更新条数: +1842， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-06 03:12:04，:rocket: 更新条数: +1844， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -66,6 +66,7 @@
 
 
 - [2022-02-06-2月5日全国新增新冠43例-六省份本土13例](https://m.caixin.com/m/2022-02-06/101838052.html) ![](assets/new.png)  
+- [2022-02-06-土耳其总统埃尔多安新冠阳性-奥地利疫苗强制接种法案生效｜大流行手记（2月5日）](https://m.caixin.com/m/2022-02-06/101838056.html) ![](assets/new.png)  
 - [2022-02-05-香港疫情两年来“最恶劣”-拟全民派发快速检测包](https://m.caixin.com/m/2022-02-05/101837956.html) ![](assets/new.png)  
 - [2022-02-05-最新海外疫情：新冠感染超3.9亿-累计接种新冠疫苗超101.46亿剂次](https://m.caixin.com/m/2022-02-05/101837946.html) ![](assets/new.png)  
 - [2022-02-05-【境内疫情观察】全国新增9例本土病例（2月4日）](https://database.caixin.com/m/2022-02-05/101837971.html) ![](assets/new.png)  
@@ -84,7 +85,6 @@
 - [2022-01-31-【境内疫情观察】浙江新增24例本土病例（1月30日）](https://database.caixin.com/m/2022-01-31/101837030.html) ![](assets/new.png)  
 - [2022-01-31-冬奥会入境高峰已至，奥密克戎“隐形”亚变体引关注｜大流行手记（1月30日）](https://m.caixin.com/m/2022-01-31/101837011.html) ![](assets/new.png)  
 - [2022-01-30-北京本土感染者累计破百-新增3个高风险地区](https://m.caixin.com/m/2022-01-30/101836905.html) ![](assets/new.png)  
-- [2022-01-30-北京：关于对冷链传播疫情问题相关单位和人员追责问责情况的通报](https://china.caixin.com/m/2022-01-30/101836927.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -491,6 +491,10 @@
 </summary>
 
 
+- [2022-02-06-搞了给以前拍的照片分类的工具](https://www.v2ex.com/t/832044) ![](assets/new.png)  
+- [2022-02-06-突然-Paypal-收到了来自-DigitalOcean-的$5-汇入，啥情况？](https://www.v2ex.com/t/832043) ![](assets/new.png)  
+- [2022-02-06-三年前端准备辞职了，大伙看下简历行吗](https://www.v2ex.com/t/832042) ![](assets/new.png)  
+- [2022-02-06-求个-mikrotik-routeros-的-dynv6.com-的-DDNS-脚本](https://www.v2ex.com/t/832041) ![](assets/new.png)  
 - [2022-02-06-Android-Studio-北极狐/大黄蜂-项目模板改动的讨论](https://www.v2ex.com/t/832040) ![](assets/new.png)  
 - [2022-02-06-iPhone-用-unc0ver-越狱，-Restore-RootFS-后依然无法用支付宝的刷脸功能（可以面容支付）](https://www.v2ex.com/t/832039) ![](assets/new.png)  
 - [2022-02-06-2022-年了，-React-Native-和-Flutter、uni-app-怎么选？](https://www.v2ex.com/t/832037) ![](assets/new.png)  
@@ -507,10 +511,6 @@
 - [2022-02-05-夜深人静，思考着未来](https://www.v2ex.com/t/832023) ![](assets/new.png)  
 - [2022-02-05-对访问频率的限制是否过于严格了](https://www.v2ex.com/t/832022) ![](assets/new.png)  
 - [2022-02-05-请教一个-Python-浮点数的小问题](https://www.v2ex.com/t/832021) ![](assets/new.png)  
-- [2022-02-05-有什么-vps-或者服务适合-bt-挂种呢？](https://www.v2ex.com/t/832020) ![](assets/new.png)  
-- [2022-02-05-Xcode-解压出来比-GTA5-大](https://www.v2ex.com/t/832019) ![](assets/new.png)  
-- [2022-02-05-2022-年，求一款预装迅飞百度输入法的手机品牌？](https://www.v2ex.com/t/832018) ![](assets/new.png)  
-- [2022-02-05-多设备设置同步真的是一个世界性难题吗？搜了一圈好像没有一款合适的简单易用的解决方案](https://www.v2ex.com/t/832017) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -554,9 +554,9 @@
 
 
 - [2022-02-06-汤楚熙：美团实时数仓架构演进与建设实践](https://toutiao.io/k/ctkg4cp) ![](assets/new.png)  
-- [2022-02-06-宣布Kubernetes策略管理白皮书](https://toutiao.io/k/m17h97v) ![](assets/new.png)  
 - [2022-02-06-『每周译Go』Golang-在大规模流处理场景下的最小化内存使用](https://toutiao.io/k/1asw7xf) ![](assets/new.png)  
 - [2022-02-06-如何为-Node.js-的-require-函数添加钩子？](https://toutiao.io/k/ek9h644) ![](assets/new.png)  
+- [2022-02-06-宣布Kubernetes策略管理白皮书](https://toutiao.io/k/m17h97v) ![](assets/new.png)  
 - [2022-02-06-糟糕程序员的20个坏习惯，你命中几个？](https://toutiao.io/k/9ohal9c) ![](assets/new.png)  
 - [2022-02-06-关于如何更好地呈现红蓝对抗价值的思考](https://toutiao.io/k/0057ydw) ![](assets/new.png)  
 - [2022-02-06-卷起来了！DeepMind发布媲美普通程序员的AlphaCode，同日OpenAI神经数学证明器拿下奥数题](https://toutiao.io/k/dccden1) ![](assets/new.png)  

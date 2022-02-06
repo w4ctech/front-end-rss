@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-02-06 20:11:52。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-02-06 20:20:43。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -88,6 +88,7 @@
 - [【武汉肺炎防疫全纪录(财新网)】2022-02-01-德国未实现接种目标-奥地利强制接种疫苗法律生效｜大流行手记（1月31日）](https://m.caixin.com/m/2022-02-01/101837106.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2022-02-01-聚焦｜张文宏：未来抗疫，是努力夺回正常生活的过程](https://opinion.caixin.com/m/2022-02-01/101837206.html) 
 - [【张鑫旭-鑫空间-鑫生活】2022-02-04-HTML-inputmode与iOS-Android软键盘类型测试](https://www.zhangxinxu.com/wordpress/2022/02/html-inputmode-keyboard/) 
+- [【V2EX】2022-02-06-Zard-翔哥近照](https://www.v2ex.com/t/832143) 
 - [【V2EX】2022-02-06-Debian-为啥设置好了-crontab-每日执行一次脚本，结果服务器不执行脚本呀？](https://www.v2ex.com/t/832142) 
 - [【V2EX】2022-02-06-怎么买电脑合适？](https://www.v2ex.com/t/832141) 
 - [【V2EX】2022-02-06-手贱注册了个-ou.edu.pl](https://www.v2ex.com/t/832140) 

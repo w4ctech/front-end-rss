@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-06 20:11:52，:rocket: 更新条数: +1840， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-06 20:20:43，:rocket: 更新条数: +1841， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-02-06-Zard-翔哥近照](https://www.v2ex.com/t/832143) ![](assets/new.png)  
 - [2022-02-06-Debian-为啥设置好了-crontab-每日执行一次脚本，结果服务器不执行脚本呀？](https://www.v2ex.com/t/832142) ![](assets/new.png)  
 - [2022-02-06-怎么买电脑合适？](https://www.v2ex.com/t/832141) ![](assets/new.png)  
 - [2022-02-06-手贱注册了个-ou.edu.pl](https://www.v2ex.com/t/832140) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-02-06-没想到安卓-VLC-能直接播放-SMB-共享的蓝光-ISO](https://www.v2ex.com/t/832120) ![](assets/new.png)  
 - [2022-02-06-1password-家庭版合租](https://www.v2ex.com/t/832119) ![](assets/new.png)  
 - [2022-02-06-关于-sqlzoo-SQL-的问题](https://www.v2ex.com/t/832118) ![](assets/new.png)  
-- [2022-02-06-macOS-主机之间文件共享登录问题](https://www.v2ex.com/t/832115) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

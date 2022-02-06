@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-06 14:11:16，:rocket: 更新条数: +1842， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-06 14:19:08，:rocket: 更新条数: +1842， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,7 +491,8 @@
 </summary>
 
 
-- [2022-02-06-问个关于-sqlzoo-SQL-的问题](https://www.v2ex.com/t/832118) ![](assets/new.png)  
+- [2022-02-06-1password-家庭版合租](https://www.v2ex.com/t/832119) ![](assets/new.png)  
+- [2022-02-06-关于-sqlzoo-SQL-的问题](https://www.v2ex.com/t/832118) ![](assets/new.png)  
 - [2022-02-06-macOS-主机之间文件共享登录问题](https://www.v2ex.com/t/832115) ![](assets/new.png)  
 - [2022-02-06-我刚才干了一件这辈子做过最坏的事情，我家楼下的车位过年这几天有辆红色的小轿车一直占着我们的车位不肯挪，而且还没有留电话号码，我刚才乘着酒劲把它刮了，�...](https://www.v2ex.com/t/832114) ![](assets/new.png)  
 - [2022-02-06-Windows-11-Insider-更新了重新设计的记事本应用](https://www.v2ex.com/t/832112) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-02-06-求软路由推荐](https://www.v2ex.com/t/832092) ![](assets/new.png)  
 - [2022-02-06-Dropbox-第三方客户端-Maestral，似乎相当不错](https://www.v2ex.com/t/832091) ![](assets/new.png)  
 - [2022-02-06-win10-下提示“请将磁盘插入可移动磁盘“的坏-U-盘可以在-macos-读取盘内数据](https://www.v2ex.com/t/832090) ![](assets/new.png)  
-- [2022-02-06-关于新版坚果云的存储位置](https://www.v2ex.com/t/832089) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -555,18 +555,18 @@
 
 - [2022-02-06-汤楚熙：美团实时数仓架构演进与建设实践](https://toutiao.io/k/ctkg4cp) ![](assets/new.png)  
 - [2022-02-06-糟糕程序员的20个坏习惯，你命中几个？](https://toutiao.io/k/9ohal9c) ![](assets/new.png)  
-- [2022-02-06-宣布Kubernetes策略管理白皮书](https://toutiao.io/k/m17h97v) ![](assets/new.png)  
 - [2022-02-06-微服务通信设计模式](https://toutiao.io/k/mp88imm) ![](assets/new.png)  
+- [2022-02-06-宣布Kubernetes策略管理白皮书](https://toutiao.io/k/m17h97v) ![](assets/new.png)  
 - [2022-02-06-『每周译Go』Golang-在大规模流处理场景下的最小化内存使用](https://toutiao.io/k/1asw7xf) ![](assets/new.png)  
 - [2022-02-06-如何为-Node.js-的-require-函数添加钩子？](https://toutiao.io/k/ek9h644) ![](assets/new.png)  
 - [2022-02-06-新入手的Mac需要做的事](https://toutiao.io/k/zou2w7c) ![](assets/new.png)  
 - [2022-02-06-砍价永远差一刀？拼多多回应：小数点后面还有6位数！](https://toutiao.io/k/61pnqey) ![](assets/new.png)  
 - [2022-02-06-关于如何更好地呈现红蓝对抗价值的思考](https://toutiao.io/k/0057ydw) ![](assets/new.png)  
 - [2022-02-06-卷起来了！DeepMind发布媲美普通程序员的AlphaCode，同日OpenAI神经数学证明器拿下奥数题](https://toutiao.io/k/dccden1) ![](assets/new.png)  
-- [2022-02-06-推荐-字节的分布式链路追踪实践，教科书式的搭建指南](https://toutiao.io/k/t6j66db) ![](assets/new.png)  
 - [2022-02-06-推荐-面试官问:-如何设计一个高并发系统?](https://toutiao.io/k/7hrrplb) ![](assets/new.png)  
-- [2022-02-06-推荐-技术干货｜缓存一致性最佳实践](https://toutiao.io/k/zgmi04u) ![](assets/new.png)  
+- [2022-02-06-推荐-字节的分布式链路追踪实践，教科书式的搭建指南](https://toutiao.io/k/t6j66db) ![](assets/new.png)  
 - [2022-02-06-推荐-JVM调优的几种场景（建议收藏）](https://toutiao.io/k/fib82nl) ![](assets/new.png)  
+- [2022-02-06-推荐-技术干货｜缓存一致性最佳实践](https://toutiao.io/k/zgmi04u) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

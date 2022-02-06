@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-06 05:54:44，:rocket: 更新条数: +1839， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-06 06:14:13，:rocket: 更新条数: +1843， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-02-06-Vim-设置自动保存，防止编辑内容丢失](https://www.v2ex.com/t/832066) ![](assets/new.png)  
 - [2022-02-06-在学校读书应该学点什么？](https://www.v2ex.com/t/832065) ![](assets/new.png)  
 - [2022-02-06-发现在限制小孩玩手机这方面-安卓真的干不过-iOS](https://www.v2ex.com/t/832064) ![](assets/new.png)  
 - [2022-02-06-「GM-脚本」大会员-B-币领取提醒](https://www.v2ex.com/t/832062) ![](assets/new.png)  
@@ -501,6 +502,7 @@
 - [2022-02-06-iOS-进度管理的-app-推荐？](https://www.v2ex.com/t/832056) ![](assets/new.png)  
 - [2022-02-06-Windows11-不能打开-QQ，找不到原因](https://www.v2ex.com/t/832055) ![](assets/new.png)  
 - [2022-02-06-硬盘关闭时间设很短有没有关系？](https://www.v2ex.com/t/832052) ![](assets/new.png)  
+- [2022-02-06-macOS-ClashX-pro-更新节点后闪退，再次启动后所有节点-fail，无法上网](https://www.v2ex.com/t/832049) ![](assets/new.png)  
 - [2022-02-06-协纪辨方书](https://www.v2ex.com/t/832048) ![](assets/new.png)  
 - [2022-02-06-LCD-屏幕频繁残影,-又频繁恢复,-屏幕的寿命还有多久?](https://www.v2ex.com/t/832045) ![](assets/new.png)  
 - [2022-02-06-搞了给以前拍的照片分类的工具](https://www.v2ex.com/t/832044) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-02-06-求个-mikrotik-routeros-的-dynv6.com-的-DDNS-脚本](https://www.v2ex.com/t/832041) ![](assets/new.png)  
 - [2022-02-06-Android-Studio-北极狐/大黄蜂-项目模板改动的讨论](https://www.v2ex.com/t/832040) ![](assets/new.png)  
 - [2022-02-06-iPhone-用-unc0ver-越狱，-Restore-RootFS-后依然无法用支付宝的刷脸功能（可以面容支付）](https://www.v2ex.com/t/832039) ![](assets/new.png)  
-- [2022-02-06-2022-年了，-React-Native-和-Flutter、uni-app-怎么选？](https://www.v2ex.com/t/832037) ![](assets/new.png)  
-- [2022-02-06-openwrt-下-docker-内安装-caliber-web-没有上传权限](https://www.v2ex.com/t/832036) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -561,6 +561,8 @@
 - [2022-02-06-关于如何更好地呈现红蓝对抗价值的思考](https://toutiao.io/k/0057ydw) ![](assets/new.png)  
 - [2022-02-06-卷起来了！DeepMind发布媲美普通程序员的AlphaCode，同日OpenAI神经数学证明器拿下奥数题](https://toutiao.io/k/dccden1) ![](assets/new.png)  
 - [2022-02-06-砍价永远差一刀？拼多多回应：小数点后面还有6位数！](https://toutiao.io/k/61pnqey) ![](assets/new.png)  
+- [2022-02-06-微服务通信设计模式](https://toutiao.io/k/mp88imm) ![](assets/new.png)  
+- [2022-02-06-新入手的Mac需要做的事](https://toutiao.io/k/zou2w7c) ![](assets/new.png)  
 - [2022-02-06-推荐-技术干货｜缓存一致性最佳实践](https://toutiao.io/k/zgmi04u) ![](assets/new.png)  
 - [2022-02-06-推荐-字节的分布式链路追踪实践，教科书式的搭建指南](https://toutiao.io/k/t6j66db) ![](assets/new.png)  
 - [2022-02-06-推荐-面试官问:-如何设计一个高并发系统?](https://toutiao.io/k/7hrrplb) ![](assets/new.png)  

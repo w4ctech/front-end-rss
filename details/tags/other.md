@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-02-06 05:54:44。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-06 06:14:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1751,6 +1751,7 @@
 - [2022-02-06-iOS-进度管理的-app-推荐？](https://www.v2ex.com/t/832056) 
 - [2022-02-06-Windows11-不能打开-QQ，找不到原因](https://www.v2ex.com/t/832055) 
 - [2022-02-06-硬盘关闭时间设很短有没有关系？](https://www.v2ex.com/t/832052) 
+- [2022-02-06-macOS-ClashX-pro-更新节点后闪退，再次启动后所有节点-fail，无法上网](https://www.v2ex.com/t/832049) 
 - [2022-02-06-协纪辨方书](https://www.v2ex.com/t/832048) 
 - [2022-02-06-LCD-屏幕频繁残影,-又频繁恢复,-屏幕的寿命还有多久?](https://www.v2ex.com/t/832045) 
 - [2022-02-06-搞了给以前拍的照片分类的工具](https://www.v2ex.com/t/832044) 
@@ -1794,4 +1795,6 @@
 - [2022-02-06-关于如何更好地呈现红蓝对抗价值的思考](https://toutiao.io/k/0057ydw) 
 - [2022-02-06-卷起来了！DeepMind发布媲美普通程序员的AlphaCode，同日OpenAI神经数学证明器拿下奥数题](https://toutiao.io/k/dccden1) 
 - [2022-02-06-砍价永远差一刀？拼多多回应：小数点后面还有6位数！](https://toutiao.io/k/61pnqey) 
+- [2022-02-06-微服务通信设计模式](https://toutiao.io/k/mp88imm) 
+- [2022-02-06-新入手的Mac需要做的事](https://toutiao.io/k/zou2w7c) 
 - [2022-02-06-推荐-字节的分布式链路追踪实践，教科书式的搭建指南](https://toutiao.io/k/t6j66db) 

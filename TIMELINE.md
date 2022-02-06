@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-02-06 05:54:44。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-02-06 06:14:13。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -86,6 +86,7 @@
 - [【武汉肺炎防疫全纪录(财新网)】2022-02-01-德国未实现接种目标-奥地利强制接种疫苗法律生效｜大流行手记（1月31日）](https://m.caixin.com/m/2022-02-01/101837106.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2022-02-01-聚焦｜张文宏：未来抗疫，是努力夺回正常生活的过程](https://opinion.caixin.com/m/2022-02-01/101837206.html) 
 - [【张鑫旭-鑫空间-鑫生活】2022-02-04-HTML-inputmode与iOS-Android软键盘类型测试](https://www.zhangxinxu.com/wordpress/2022/02/html-inputmode-keyboard/) 
+- [【V2EX】2022-02-06-Vim-设置自动保存，防止编辑内容丢失](https://www.v2ex.com/t/832066) 
 - [【V2EX】2022-02-06-在学校读书应该学点什么？](https://www.v2ex.com/t/832065) 
 - [【V2EX】2022-02-06-发现在限制小孩玩手机这方面-安卓真的干不过-iOS](https://www.v2ex.com/t/832064) 
 - [【V2EX】2022-02-06-「GM-脚本」大会员-B-币领取提醒](https://www.v2ex.com/t/832062) 
@@ -96,6 +97,7 @@
 - [【V2EX】2022-02-06-iOS-进度管理的-app-推荐？](https://www.v2ex.com/t/832056) 
 - [【V2EX】2022-02-06-Windows11-不能打开-QQ，找不到原因](https://www.v2ex.com/t/832055) 
 - [【V2EX】2022-02-06-硬盘关闭时间设很短有没有关系？](https://www.v2ex.com/t/832052) 
+- [【V2EX】2022-02-06-macOS-ClashX-pro-更新节点后闪退，再次启动后所有节点-fail，无法上网](https://www.v2ex.com/t/832049) 
 - [【V2EX】2022-02-06-协纪辨方书](https://www.v2ex.com/t/832048) 
 - [【V2EX】2022-02-06-LCD-屏幕频繁残影,-又频繁恢复,-屏幕的寿命还有多久?](https://www.v2ex.com/t/832045) 
 - [【V2EX】2022-02-06-搞了给以前拍的照片分类的工具](https://www.v2ex.com/t/832044) 
@@ -150,6 +152,8 @@
 - [【开发者头条】2022-02-06-关于如何更好地呈现红蓝对抗价值的思考](https://toutiao.io/k/0057ydw) 
 - [【开发者头条】2022-02-06-卷起来了！DeepMind发布媲美普通程序员的AlphaCode，同日OpenAI神经数学证明器拿下奥数题](https://toutiao.io/k/dccden1) 
 - [【开发者头条】2022-02-06-砍价永远差一刀？拼多多回应：小数点后面还有6位数！](https://toutiao.io/k/61pnqey) 
+- [【开发者头条】2022-02-06-微服务通信设计模式](https://toutiao.io/k/mp88imm) 
+- [【开发者头条】2022-02-06-新入手的Mac需要做的事](https://toutiao.io/k/zou2w7c) 
 - [【开发者头条】2022-02-06-推荐-技术干货｜缓存一致性最佳实践](https://toutiao.io/k/zgmi04u) 
 - [【开发者头条】2022-02-06-推荐-字节的分布式链路追踪实践，教科书式的搭建指南](https://toutiao.io/k/t6j66db) 
 - [【开发者头条】2022-02-06-推荐-面试官问:-如何设计一个高并发系统?](https://toutiao.io/k/7hrrplb) 

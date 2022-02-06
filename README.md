@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-06 08:23:21，:rocket: 更新条数: +1840， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-06 08:39:32，:rocket: 更新条数: +1841， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -66,6 +66,7 @@
 
 
 - [2022-02-06-2月5日全国新增新冠43例-六省份本土13例](https://m.caixin.com/m/2022-02-06/101838052.html) ![](assets/new.png)  
+- [2022-02-06-【境内疫情观察】广西新增6例本土病例（2月5日）](https://database.caixin.com/m/2022-02-06/101838097.html) ![](assets/new.png)  
 - [2022-02-06-土耳其总统埃尔多安新冠阳性-奥地利疫苗强制接种法案生效｜大流行手记（2月5日）](https://m.caixin.com/m/2022-02-06/101838056.html) ![](assets/new.png)  
 - [2022-02-05-香港疫情两年来“最恶劣”-拟全民派发快速检测包](https://m.caixin.com/m/2022-02-05/101837956.html) ![](assets/new.png)  
 - [2022-02-05-最新海外疫情：新冠感染超3.9亿-累计接种新冠疫苗超101.46亿剂次](https://m.caixin.com/m/2022-02-05/101837946.html) ![](assets/new.png)  
@@ -84,7 +85,6 @@
 - [2022-02-01-聚焦｜张文宏：未来抗疫，是努力夺回正常生活的过程](https://opinion.caixin.com/m/2022-02-01/101837206.html) ![](assets/new.png)  
 - [2022-01-31-【境内疫情观察】浙江新增24例本土病例（1月30日）](https://database.caixin.com/m/2022-01-31/101837030.html) ![](assets/new.png)  
 - [2022-01-31-冬奥会入境高峰已至，奥密克戎“隐形”亚变体引关注｜大流行手记（1月30日）](https://m.caixin.com/m/2022-01-31/101837011.html) ![](assets/new.png)  
-- [2022-01-30-北京本土感染者累计破百-新增3个高风险地区](https://m.caixin.com/m/2022-01-30/101836905.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -563,8 +563,8 @@
 - [2022-02-06-卷起来了！DeepMind发布媲美普通程序员的AlphaCode，同日OpenAI神经数学证明器拿下奥数题](https://toutiao.io/k/dccden1) ![](assets/new.png)  
 - [2022-02-06-微服务通信设计模式](https://toutiao.io/k/mp88imm) ![](assets/new.png)  
 - [2022-02-06-新入手的Mac需要做的事](https://toutiao.io/k/zou2w7c) ![](assets/new.png)  
-- [2022-02-06-推荐-面试官问:-如何设计一个高并发系统?](https://toutiao.io/k/7hrrplb) ![](assets/new.png)  
 - [2022-02-06-推荐-字节的分布式链路追踪实践，教科书式的搭建指南](https://toutiao.io/k/t6j66db) ![](assets/new.png)  
+- [2022-02-06-推荐-面试官问:-如何设计一个高并发系统?](https://toutiao.io/k/7hrrplb) ![](assets/new.png)  
 - [2022-02-06-推荐-技术干货｜缓存一致性最佳实践](https://toutiao.io/k/zgmi04u) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

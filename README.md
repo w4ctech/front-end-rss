@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-06 06:58:45，:rocket: 更新条数: +1843， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-06 07:12:10，:rocket: 更新条数: +1843， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-02-06-交流汽车租凭方面的发票开票问题](https://www.v2ex.com/t/832073) ![](assets/new.png)  
 - [2022-02-06-果子-11-做主力还值得入手吗](https://www.v2ex.com/t/832072) ![](assets/new.png)  
 - [2022-02-06-下载小红书无水印照片](https://www.v2ex.com/t/832071) ![](assets/new.png)  
 - [2022-02-06-终于体验到-inter-mbp-的一个好处](https://www.v2ex.com/t/832070) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-02-06-硬盘关闭时间设很短有没有关系？](https://www.v2ex.com/t/832052) ![](assets/new.png)  
 - [2022-02-06-macOS-ClashX-pro-更新节点后闪退，再次启动后所有节点-fail，无法上网](https://www.v2ex.com/t/832049) ![](assets/new.png)  
 - [2022-02-06-协纪辨方书](https://www.v2ex.com/t/832048) ![](assets/new.png)  
-- [2022-02-06-LCD-屏幕频繁残影,-又频繁恢复,-屏幕的寿命还有多久?](https://www.v2ex.com/t/832045) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -563,9 +563,9 @@
 - [2022-02-06-卷起来了！DeepMind发布媲美普通程序员的AlphaCode，同日OpenAI神经数学证明器拿下奥数题](https://toutiao.io/k/dccden1) ![](assets/new.png)  
 - [2022-02-06-微服务通信设计模式](https://toutiao.io/k/mp88imm) ![](assets/new.png)  
 - [2022-02-06-新入手的Mac需要做的事](https://toutiao.io/k/zou2w7c) ![](assets/new.png)  
+- [2022-02-06-推荐-字节的分布式链路追踪实践，教科书式的搭建指南](https://toutiao.io/k/t6j66db) ![](assets/new.png)  
 - [2022-02-06-推荐-面试官问:-如何设计一个高并发系统?](https://toutiao.io/k/7hrrplb) ![](assets/new.png)  
 - [2022-02-06-推荐-技术干货｜缓存一致性最佳实践](https://toutiao.io/k/zgmi04u) ![](assets/new.png)  
-- [2022-02-06-推荐-字节的分布式链路追踪实践，教科书式的搭建指南](https://toutiao.io/k/t6j66db) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-06 11:09:59，:rocket: 更新条数: +1842， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-06 11:17:22，:rocket: 更新条数: +1843， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -66,6 +66,7 @@
 
 
 - [2022-02-06-最新疫情：全国新冠累计确诊106340例-累计接种新冠疫苗超30.04亿剂次](https://m.caixin.com/m/2022-02-06/101838138.html) ![](assets/new.png)  
+- [2022-02-06-广西百色：本轮疫情累计确诊43例-第一轮核酸初筛阳性98人](https://m.caixin.com/m/2022-02-06/101838147.html) ![](assets/new.png)  
 - [2022-02-06-最新海外疫情：新冠感染超3.92亿-累计接种新冠疫苗超101.63亿剂次](https://m.caixin.com/m/2022-02-06/101838134.html) ![](assets/new.png)  
 - [2022-02-06-【境内疫情观察】广西新增6例本土病例（2月5日）](https://database.caixin.com/m/2022-02-06/101838097.html) ![](assets/new.png)  
 - [2022-02-06-土耳其总统埃尔多安新冠阳性-奥地利疫苗强制接种法案生效｜大流行手记（2月5日）](https://m.caixin.com/m/2022-02-06/101838056.html) ![](assets/new.png)  
@@ -84,7 +85,6 @@
 - [2022-02-01-德国未实现接种目标-奥地利强制接种疫苗法律生效｜大流行手记（1月31日）](https://m.caixin.com/m/2022-02-01/101837106.html) ![](assets/new.png)  
 - [2022-02-01-聚焦｜张文宏：未来抗疫，是努力夺回正常生活的过程](https://opinion.caixin.com/m/2022-02-01/101837206.html) ![](assets/new.png)  
 - [2022-01-31-【境内疫情观察】浙江新增24例本土病例（1月30日）](https://database.caixin.com/m/2022-01-31/101837030.html) ![](assets/new.png)  
-- [2022-01-31-冬奥会入境高峰已至，奥密克戎“隐形”亚变体引关注｜大流行手记（1月30日）](https://m.caixin.com/m/2022-01-31/101837011.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -557,8 +557,8 @@
 - [2022-02-06-糟糕程序员的20个坏习惯，你命中几个？](https://toutiao.io/k/9ohal9c) ![](assets/new.png)  
 - [2022-02-06-宣布Kubernetes策略管理白皮书](https://toutiao.io/k/m17h97v) ![](assets/new.png)  
 - [2022-02-06-『每周译Go』Golang-在大规模流处理场景下的最小化内存使用](https://toutiao.io/k/1asw7xf) ![](assets/new.png)  
-- [2022-02-06-如何为-Node.js-的-require-函数添加钩子？](https://toutiao.io/k/ek9h644) ![](assets/new.png)  
 - [2022-02-06-微服务通信设计模式](https://toutiao.io/k/mp88imm) ![](assets/new.png)  
+- [2022-02-06-如何为-Node.js-的-require-函数添加钩子？](https://toutiao.io/k/ek9h644) ![](assets/new.png)  
 - [2022-02-06-砍价永远差一刀？拼多多回应：小数点后面还有6位数！](https://toutiao.io/k/61pnqey) ![](assets/new.png)  
 - [2022-02-06-关于如何更好地呈现红蓝对抗价值的思考](https://toutiao.io/k/0057ydw) ![](assets/new.png)  
 - [2022-02-06-卷起来了！DeepMind发布媲美普通程序员的AlphaCode，同日OpenAI神经数学证明器拿下奥数题](https://toutiao.io/k/dccden1) ![](assets/new.png)  

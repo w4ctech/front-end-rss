@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-02-06 19:09:53。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-06 19:16:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1743,6 +1743,8 @@
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2022-02-04-HTML-inputmode与iOS-Android软键盘类型测试](https://www.zhangxinxu.com/wordpress/2022/02/html-inputmode-keyboard/) 
 - [2021-11-14-密码强度效果最佳实现一定是HTML-meter元素](https://www.zhangxinxu.com/wordpress/2021/11/html-meter-password/) 
+- [2022-02-06-Debian-为啥设置好了-crontab-每日执行一次脚本，结果服务器不执行脚本呀？](https://www.v2ex.com/t/832142) 
+- [2022-02-06-怎么买电脑合适？](https://www.v2ex.com/t/832141) 
 - [2022-02-06-手贱注册了个-ou.edu.pl](https://www.v2ex.com/t/832140) 
 - [2022-02-06-现在还有没有兼顾包容性和稳定性的随笔博客？主要记录各种工作小笔记用](https://www.v2ex.com/t/832135) 
 - [2022-02-06-问一个情商的问题](https://www.v2ex.com/t/832134) 
@@ -1770,7 +1772,6 @@
 - [2022-02-06-求电脑安卓虚拟机](https://www.v2ex.com/t/832096) 
 - [2022-02-06-今年好润去澳洲吗？](https://www.v2ex.com/t/832095) 
 - [2022-02-06-把垃圾短信的网站流量刷爆违法吗](https://www.v2ex.com/t/832094) 
-- [2022-02-06-Dropbox-第三方客户端-Maestral，似乎相当不错](https://www.v2ex.com/t/832091) 
 - [2022-02-06-微话搭建优质-Web-应用其一-forum.lovejade.cn](https://blogread.cn/news/go.php?idItem=14928&url=https%3A%2F%2Fforum.lovejade.cn%2Fd%2F141-web%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-02-06-Puppeteer-使用分享及注意事项-forum.lovejade.cn](https://blogread.cn/news/go.php?idItem=14927&url=https%3A%2F%2Fforum.lovejade.cn%2Fd%2F145-puppeteer%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-02-06-优质网站同好者周刊（第-51-期）--倾城之链-blog.nicelinks.site](https://blogread.cn/news/go.php?idItem=14926&url=https%3A%2F%2Fblog.nicelinks.site%2Fweekly-051%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

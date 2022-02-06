@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2022-02-06 19:09:53。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-06 19:16:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-02-06-Debian-为啥设置好了-crontab-每日执行一次脚本，结果服务器不执行脚本呀？](https://www.v2ex.com/t/832142) 
+- [2022-02-06-怎么买电脑合适？](https://www.v2ex.com/t/832141) 
 - [2022-02-06-手贱注册了个-ou.edu.pl](https://www.v2ex.com/t/832140) 
 - [2022-02-06-iOS-上-scriptable-app-桌面小组件遇到的问题](https://www.v2ex.com/t/832139) 
 - [2022-02-06-写了一篇博客，总结了我碰到的欧美科技公司的面试方式和准备方式](https://www.v2ex.com/t/832138) 
@@ -36,5 +38,3 @@
 - [2022-02-06-求电脑安卓虚拟机](https://www.v2ex.com/t/832096) 
 - [2022-02-06-今年好润去澳洲吗？](https://www.v2ex.com/t/832095) 
 - [2022-02-06-把垃圾短信的网站流量刷爆违法吗](https://www.v2ex.com/t/832094) 
-- [2022-02-06-求软路由推荐](https://www.v2ex.com/t/832092) 
-- [2022-02-06-Dropbox-第三方客户端-Maestral，似乎相当不错](https://www.v2ex.com/t/832091) 

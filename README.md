@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-06 19:09:52，:rocket: 更新条数: +1840， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-06 19:16:19，:rocket: 更新条数: +1840， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-02-06-Debian-为啥设置好了-crontab-每日执行一次脚本，结果服务器不执行脚本呀？](https://www.v2ex.com/t/832142) ![](assets/new.png)  
+- [2022-02-06-怎么买电脑合适？](https://www.v2ex.com/t/832141) ![](assets/new.png)  
 - [2022-02-06-手贱注册了个-ou.edu.pl](https://www.v2ex.com/t/832140) ![](assets/new.png)  
 - [2022-02-06-iOS-上-scriptable-app-桌面小组件遇到的问题](https://www.v2ex.com/t/832139) ![](assets/new.png)  
 - [2022-02-06-写了一篇博客，总结了我碰到的欧美科技公司的面试方式和准备方式](https://www.v2ex.com/t/832138) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-02-06-1password-家庭版合租](https://www.v2ex.com/t/832119) ![](assets/new.png)  
 - [2022-02-06-关于-sqlzoo-SQL-的问题](https://www.v2ex.com/t/832118) ![](assets/new.png)  
 - [2022-02-06-macOS-主机之间文件共享登录问题](https://www.v2ex.com/t/832115) ![](assets/new.png)  
-- [2022-02-06-Windows-11-Insider-更新了重新设计的记事本应用](https://www.v2ex.com/t/832112) ![](assets/new.png)  
-- [2022-02-06-为-macOS-固定-IPV6-后缀，设置-DDNS-及防火墙](https://www.v2ex.com/t/832110) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -563,8 +563,8 @@
 - [2022-02-06-关于如何更好地呈现红蓝对抗价值的思考](https://toutiao.io/k/0057ydw) ![](assets/new.png)  
 - [2022-02-06-砍价永远差一刀？拼多多回应：小数点后面还有6位数！](https://toutiao.io/k/61pnqey) ![](assets/new.png)  
 - [2022-02-06-卷起来了！DeepMind发布媲美普通程序员的AlphaCode，同日OpenAI神经数学证明器拿下奥数题](https://toutiao.io/k/dccden1) ![](assets/new.png)  
-- [2022-02-06-推荐-JVM调优的几种场景（建议收藏）](https://toutiao.io/k/fib82nl) ![](assets/new.png)  
 - [2022-02-06-推荐-技术干货｜缓存一致性最佳实践](https://toutiao.io/k/zgmi04u) ![](assets/new.png)  
+- [2022-02-06-推荐-JVM调优的几种场景（建议收藏）](https://toutiao.io/k/fib82nl) ![](assets/new.png)  
 - [2022-02-06-推荐-面试官问:-如何设计一个高并发系统?](https://toutiao.io/k/7hrrplb) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

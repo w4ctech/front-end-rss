@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-02-06 13:39:16。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-02-06 13:54:50。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -145,8 +145,8 @@
 - [【开发者头条】2022-02-06-汤楚熙：美团实时数仓架构演进与建设实践](https://toutiao.io/k/ctkg4cp) 
 - [【开发者头条】2022-02-06-糟糕程序员的20个坏习惯，你命中几个？](https://toutiao.io/k/9ohal9c) 
 - [【开发者头条】2022-02-06-宣布Kubernetes策略管理白皮书](https://toutiao.io/k/m17h97v) 
-- [【开发者头条】2022-02-06-『每周译Go』Golang-在大规模流处理场景下的最小化内存使用](https://toutiao.io/k/1asw7xf) 
 - [【开发者头条】2022-02-06-微服务通信设计模式](https://toutiao.io/k/mp88imm) 
+- [【开发者头条】2022-02-06-『每周译Go』Golang-在大规模流处理场景下的最小化内存使用](https://toutiao.io/k/1asw7xf) 
 - [【开发者头条】2022-02-06-如何为-Node.js-的-require-函数添加钩子？](https://toutiao.io/k/ek9h644) 
 - [【开发者头条】2022-02-06-新入手的Mac需要做的事](https://toutiao.io/k/zou2w7c) 
 - [【开发者头条】2022-02-06-砍价永远差一刀？拼多多回应：小数点后面还有6位数！](https://toutiao.io/k/61pnqey) 
@@ -155,6 +155,7 @@
 - [【开发者头条】2022-02-06-推荐-面试官问:-如何设计一个高并发系统?](https://toutiao.io/k/7hrrplb) 
 - [【开发者头条】2022-02-06-推荐-字节的分布式链路追踪实践，教科书式的搭建指南](https://toutiao.io/k/t6j66db) 
 - [【开发者头条】2022-02-06-推荐-技术干货｜缓存一致性最佳实践](https://toutiao.io/k/zgmi04u) 
+- [【开发者头条】2022-02-06-推荐-JVM调优的几种场景（建议收藏）](https://toutiao.io/k/fib82nl) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

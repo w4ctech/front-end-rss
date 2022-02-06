@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-06 13:39:16，:rocket: 更新条数: +1841， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-06 13:54:50，:rocket: 更新条数: +1842， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -556,8 +556,8 @@
 - [2022-02-06-汤楚熙：美团实时数仓架构演进与建设实践](https://toutiao.io/k/ctkg4cp) ![](assets/new.png)  
 - [2022-02-06-糟糕程序员的20个坏习惯，你命中几个？](https://toutiao.io/k/9ohal9c) ![](assets/new.png)  
 - [2022-02-06-宣布Kubernetes策略管理白皮书](https://toutiao.io/k/m17h97v) ![](assets/new.png)  
-- [2022-02-06-『每周译Go』Golang-在大规模流处理场景下的最小化内存使用](https://toutiao.io/k/1asw7xf) ![](assets/new.png)  
 - [2022-02-06-微服务通信设计模式](https://toutiao.io/k/mp88imm) ![](assets/new.png)  
+- [2022-02-06-『每周译Go』Golang-在大规模流处理场景下的最小化内存使用](https://toutiao.io/k/1asw7xf) ![](assets/new.png)  
 - [2022-02-06-如何为-Node.js-的-require-函数添加钩子？](https://toutiao.io/k/ek9h644) ![](assets/new.png)  
 - [2022-02-06-新入手的Mac需要做的事](https://toutiao.io/k/zou2w7c) ![](assets/new.png)  
 - [2022-02-06-砍价永远差一刀？拼多多回应：小数点后面还有6位数！](https://toutiao.io/k/61pnqey) ![](assets/new.png)  
@@ -566,6 +566,7 @@
 - [2022-02-06-推荐-面试官问:-如何设计一个高并发系统?](https://toutiao.io/k/7hrrplb) ![](assets/new.png)  
 - [2022-02-06-推荐-字节的分布式链路追踪实践，教科书式的搭建指南](https://toutiao.io/k/t6j66db) ![](assets/new.png)  
 - [2022-02-06-推荐-技术干货｜缓存一致性最佳实践](https://toutiao.io/k/zgmi04u) ![](assets/new.png)  
+- [2022-02-06-推荐-JVM调优的几种场景（建议收藏）](https://toutiao.io/k/fib82nl) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

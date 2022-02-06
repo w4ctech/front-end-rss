@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-06 12:30:37，:rocket: 更新条数: +1843， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-06 12:51:34，:rocket: 更新条数: +1843， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-02-06-macOS-主机之间文件共享登录问题](https://www.v2ex.com/t/832115) ![](assets/new.png)  
+- [2022-02-06-我刚才干了一件这辈子做过最坏的事情，我家楼下的车位过年这几天有辆红色的小轿车一直占着我们的车位不肯挪，而且还没有留电话号码，我刚才乘着酒劲把它刮了，�...](https://www.v2ex.com/t/832114) ![](assets/new.png)  
 - [2022-02-06-Windows-11-Insider-更新了重新设计的记事本应用](https://www.v2ex.com/t/832112) ![](assets/new.png)  
 - [2022-02-06-为-macOS-固定-IPV6-后缀，设置-DDNS-及防火墙](https://www.v2ex.com/t/832110) ![](assets/new.png)  
 - [2022-02-06-v-友们，-100-~-200-块左右，可以买到用起来还行的“机械键盘”有哪些呢？](https://www.v2ex.com/t/832109) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-02-06-win10-下提示“请将磁盘插入可移动磁盘“的坏-U-盘可以在-macos-读取盘内数据](https://www.v2ex.com/t/832090) ![](assets/new.png)  
 - [2022-02-06-关于新版坚果云的存储位置](https://www.v2ex.com/t/832089) ![](assets/new.png)  
 - [2022-02-06-老铁们，新年好！](https://www.v2ex.com/t/832087) ![](assets/new.png)  
-- [2022-02-06-再分享一个分流-DNS](https://www.v2ex.com/t/832085) ![](assets/new.png)  
-- [2022-02-06-一个好用的微信编辑器都有哪些功能](https://www.v2ex.com/t/832084) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -564,8 +564,8 @@
 - [2022-02-06-关于如何更好地呈现红蓝对抗价值的思考](https://toutiao.io/k/0057ydw) ![](assets/new.png)  
 - [2022-02-06-卷起来了！DeepMind发布媲美普通程序员的AlphaCode，同日OpenAI神经数学证明器拿下奥数题](https://toutiao.io/k/dccden1) ![](assets/new.png)  
 - [2022-02-06-推荐-字节的分布式链路追踪实践，教科书式的搭建指南](https://toutiao.io/k/t6j66db) ![](assets/new.png)  
-- [2022-02-06-推荐-面试官问:-如何设计一个高并发系统?](https://toutiao.io/k/7hrrplb) ![](assets/new.png)  
 - [2022-02-06-推荐-技术干货｜缓存一致性最佳实践](https://toutiao.io/k/zgmi04u) ![](assets/new.png)  
+- [2022-02-06-推荐-面试官问:-如何设计一个高并发系统?](https://toutiao.io/k/7hrrplb) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

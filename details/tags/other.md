@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-02-06 13:54:50。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-06 14:11:16。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1743,6 +1743,7 @@
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2022-02-04-HTML-inputmode与iOS-Android软键盘类型测试](https://www.zhangxinxu.com/wordpress/2022/02/html-inputmode-keyboard/) 
 - [2021-11-14-密码强度效果最佳实现一定是HTML-meter元素](https://www.zhangxinxu.com/wordpress/2021/11/html-meter-password/) 
+- [2022-02-06-问个关于-sqlzoo-SQL-的问题](https://www.v2ex.com/t/832118) 
 - [2022-02-06-macOS-主机之间文件共享登录问题](https://www.v2ex.com/t/832115) 
 - [2022-02-06-我刚才干了一件这辈子做过最坏的事情，我家楼下的车位过年这几天有辆红色的小轿车一直占着我们的车位不肯挪，而且还没有留电话号码，我刚才乘着酒劲把它刮了，�...](https://www.v2ex.com/t/832114) 
 - [2022-02-06-Windows-11-Insider-更新了重新设计的记事本应用](https://www.v2ex.com/t/832112) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-02-06 09:54:34。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-02-06 10:12:34。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -87,6 +87,7 @@
 - [【武汉肺炎防疫全纪录(财新网)】2022-02-01-德国未实现接种目标-奥地利强制接种疫苗法律生效｜大流行手记（1月31日）](https://m.caixin.com/m/2022-02-01/101837106.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2022-02-01-聚焦｜张文宏：未来抗疫，是努力夺回正常生活的过程](https://opinion.caixin.com/m/2022-02-01/101837206.html) 
 - [【张鑫旭-鑫空间-鑫生活】2022-02-04-HTML-inputmode与iOS-Android软键盘类型测试](https://www.zhangxinxu.com/wordpress/2022/02/html-inputmode-keyboard/) 
+- [【V2EX】2022-02-06-求软路由推荐](https://www.v2ex.com/t/832092) 
 - [【V2EX】2022-02-06-Dropbox-第三方客户端-Maestral，似乎相当不错](https://www.v2ex.com/t/832091) 
 - [【V2EX】2022-02-06-win10-下提示“请将磁盘插入可移动磁盘“的坏-U-盘可以在-macos-读取盘内数据](https://www.v2ex.com/t/832090) 
 - [【V2EX】2022-02-06-关于新版坚果云的存储位置](https://www.v2ex.com/t/832089) 
@@ -121,8 +122,6 @@
 - [【V2EX】2022-02-06-协纪辨方书](https://www.v2ex.com/t/832048) 
 - [【V2EX】2022-02-06-LCD-屏幕频繁残影,-又频繁恢复,-屏幕的寿命还有多久?](https://www.v2ex.com/t/832045) 
 - [【V2EX】2022-02-06-搞了给以前拍的照片分类的工具](https://www.v2ex.com/t/832044) 
-- [【V2EX】2022-02-06-突然-Paypal-收到了来自-DigitalOcean-的$5-汇入，啥情况？](https://www.v2ex.com/t/832043) 
-- [【V2EX】2022-02-06-三年前端准备辞职了，大伙看下简历行吗](https://www.v2ex.com/t/832042) 
 - [【技术头条】2022-02-06-微话搭建优质-Web-应用其一-forum.lovejade.cn](https://blogread.cn/news/go.php?idItem=14928&url=https%3A%2F%2Fforum.lovejade.cn%2Fd%2F141-web%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-02-06-Puppeteer-使用分享及注意事项-forum.lovejade.cn](https://blogread.cn/news/go.php?idItem=14927&url=https%3A%2F%2Fforum.lovejade.cn%2Fd%2F145-puppeteer%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-02-06-优质网站同好者周刊（第-51-期）--倾城之链-blog.nicelinks.site](https://blogread.cn/news/go.php?idItem=14926&url=https%3A%2F%2Fblog.nicelinks.site%2Fweekly-051%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -153,8 +152,8 @@
 - [【开发者头条】2022-02-06-关于如何更好地呈现红蓝对抗价值的思考](https://toutiao.io/k/0057ydw) 
 - [【开发者头条】2022-02-06-卷起来了！DeepMind发布媲美普通程序员的AlphaCode，同日OpenAI神经数学证明器拿下奥数题](https://toutiao.io/k/dccden1) 
 - [【开发者头条】2022-02-06-新入手的Mac需要做的事](https://toutiao.io/k/zou2w7c) 
-- [【开发者头条】2022-02-06-推荐-字节的分布式链路追踪实践，教科书式的搭建指南](https://toutiao.io/k/t6j66db) 
 - [【开发者头条】2022-02-06-推荐-面试官问:-如何设计一个高并发系统?](https://toutiao.io/k/7hrrplb) 
+- [【开发者头条】2022-02-06-推荐-字节的分布式链路追踪实践，教科书式的搭建指南](https://toutiao.io/k/t6j66db) 
 - [【开发者头条】2022-02-06-推荐-技术干货｜缓存一致性最佳实践](https://toutiao.io/k/zgmi04u) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>

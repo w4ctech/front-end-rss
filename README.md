@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-06 09:54:34，:rocket: 更新条数: +1842， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-06 10:12:34，:rocket: 更新条数: +1841， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-02-06-求软路由推荐](https://www.v2ex.com/t/832092) ![](assets/new.png)  
 - [2022-02-06-Dropbox-第三方客户端-Maestral，似乎相当不错](https://www.v2ex.com/t/832091) ![](assets/new.png)  
 - [2022-02-06-win10-下提示“请将磁盘插入可移动磁盘“的坏-U-盘可以在-macos-读取盘内数据](https://www.v2ex.com/t/832090) ![](assets/new.png)  
 - [2022-02-06-关于新版坚果云的存储位置](https://www.v2ex.com/t/832089) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-02-06-请教一下，为什么有些贴子无法浏览？](https://www.v2ex.com/t/832069) ![](assets/new.png)  
 - [2022-02-06-分享多年使用-Nvim/Vim-总结的一些小技巧](https://www.v2ex.com/t/832068) ![](assets/new.png)  
 - [2022-02-06-谜一样的上行，曾经以为是运营商问题，但是昨天发现-onedrive-是可以满速的，用了古老的软件锐速前来报告以及请教。](https://www.v2ex.com/t/832067) ![](assets/new.png)  
-- [2022-02-06-Vim-设置自动保存，防止编辑内容丢失](https://www.v2ex.com/t/832066) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -563,8 +563,8 @@
 - [2022-02-06-关于如何更好地呈现红蓝对抗价值的思考](https://toutiao.io/k/0057ydw) ![](assets/new.png)  
 - [2022-02-06-卷起来了！DeepMind发布媲美普通程序员的AlphaCode，同日OpenAI神经数学证明器拿下奥数题](https://toutiao.io/k/dccden1) ![](assets/new.png)  
 - [2022-02-06-新入手的Mac需要做的事](https://toutiao.io/k/zou2w7c) ![](assets/new.png)  
-- [2022-02-06-推荐-字节的分布式链路追踪实践，教科书式的搭建指南](https://toutiao.io/k/t6j66db) ![](assets/new.png)  
 - [2022-02-06-推荐-面试官问:-如何设计一个高并发系统?](https://toutiao.io/k/7hrrplb) ![](assets/new.png)  
+- [2022-02-06-推荐-字节的分布式链路追踪实践，教科书式的搭建指南](https://toutiao.io/k/t6j66db) ![](assets/new.png)  
 - [2022-02-06-推荐-技术干货｜缓存一致性最佳实践](https://toutiao.io/k/zgmi04u) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

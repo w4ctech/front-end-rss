@@ -1,11 +1,11 @@
-:alarm_clock: 更新时间: 2022-02-06 01:17:32。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-06 02:08:35。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
 
 
 
-- [2022-02-05-最新疫情：全国新冠累计确诊106297例-累计接种新冠疫苗超30.02亿剂次](https://m.caixin.com/m/2022-02-05/101837939.html) 
+- [2022-02-06-2月5日全国新增新冠43例-六省份本土13例](https://m.caixin.com/m/2022-02-06/101838052.html) 
 - [2022-02-05-香港疫情两年来“最恶劣”-拟全民派发快速检测包](https://m.caixin.com/m/2022-02-05/101837956.html) 
 - [2022-02-05-最新海外疫情：新冠感染超3.9亿-累计接种新冠疫苗超101.46亿剂次](https://m.caixin.com/m/2022-02-05/101837946.html) 
 - [2022-02-05-【境内疫情观察】全国新增9例本土病例（2月4日）](https://database.caixin.com/m/2022-02-05/101837971.html) 
@@ -1740,6 +1740,10 @@
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2022-02-04-HTML-inputmode与iOS-Android软键盘类型测试](https://www.zhangxinxu.com/wordpress/2022/02/html-inputmode-keyboard/) 
 - [2021-11-14-密码强度效果最佳实现一定是HTML-meter元素](https://www.zhangxinxu.com/wordpress/2021/11/html-meter-password/) 
+- [2022-02-06-小米手环-6-请问现在值得买吗？有什么理由直接升级到手表吗？](https://www.v2ex.com/t/832035) 
+- [2022-02-06-Android-Studio-新版本-bumblebee-里面-gradle-脚本的疑惑](https://www.v2ex.com/t/832034) 
+- [2022-02-06-关于-k8s-调整卷大小的问题](https://www.v2ex.com/t/832032) 
+- [2022-02-06-打开-ipfs-后间歇地网络不可用](https://www.v2ex.com/t/832031) 
 - [2022-02-06-ZOC-的替代品有哪些](https://www.v2ex.com/t/832028) 
 - [2022-02-06-有人-25-岁靠自己出首付的吗？](https://www.v2ex.com/t/832027) 
 - [2022-02-06-问下-IPLC-和-GIA-线路的的实际区别-以及-影响网络体验的最主要因素](https://www.v2ex.com/t/832026) 
@@ -1773,12 +1777,6 @@
 - [2022-02-05-企业微信神逻辑](https://www.v2ex.com/t/831989) 
 - [2022-02-05-开源：基于-Flask-的-RSS-文章自动化采集项目](https://www.v2ex.com/t/831987) 
 - [2022-02-05-腾讯这种大厂没有文档工程师这个职位吗？](https://www.v2ex.com/t/831986) 
-- [2022-02-05-北京联通—日本-AWS](https://www.v2ex.com/t/831985) 
-- [2022-02-05-现在都这样看电视的？](https://www.v2ex.com/t/831984) 
-- [2022-02-05-移动宽带-cloudflare-ipv6-地址推荐](https://www.v2ex.com/t/831983) 
-- [2022-02-05-聊聊哈希表的设计与具体实现](https://www.v2ex.com/t/831982) 
-- [2022-02-05-多平台剪贴板同步真的是一个世界性难题吗？搜了一圈好像没有一款合适的简单易用的解决方案](https://www.v2ex.com/t/831981) 
-- [2022-02-05-网易云音乐歌单惨不忍睹](https://www.v2ex.com/t/831980) 
 - [2022-02-06-微话搭建优质-Web-应用其一-forum.lovejade.cn](https://blogread.cn/news/go.php?idItem=14928&url=https%3A%2F%2Fforum.lovejade.cn%2Fd%2F141-web%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-02-06-Puppeteer-使用分享及注意事项-forum.lovejade.cn](https://blogread.cn/news/go.php?idItem=14927&url=https%3A%2F%2Fforum.lovejade.cn%2Fd%2F145-puppeteer%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-02-06-优质网站同好者周刊（第-51-期）--倾城之链-blog.nicelinks.site](https://blogread.cn/news/go.php?idItem=14926&url=https%3A%2F%2Fblog.nicelinks.site%2Fweekly-051%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1797,4 +1795,8 @@
 - [2022-02-06-汤楚熙：美团实时数仓架构演进与建设实践](https://toutiao.io/k/ctkg4cp) 
 - [2022-02-06-『每周译Go』Golang-在大规模流处理场景下的最小化内存使用](https://toutiao.io/k/1asw7xf) 
 - [2022-02-06-宣布Kubernetes策略管理白皮书](https://toutiao.io/k/m17h97v) 
+- [2022-02-06-糟糕程序员的20个坏习惯，你命中几个？](https://toutiao.io/k/9ohal9c) 
+- [2022-02-06-卷起来了！DeepMind发布媲美普通程序员的AlphaCode，同日OpenAI神经数学证明器拿下奥数题](https://toutiao.io/k/dccden1) 
+- [2022-02-06-关于如何更好地呈现红蓝对抗价值的思考](https://toutiao.io/k/0057ydw) 
+- [2022-02-06-砍价永远差一刀？拼多多回应：小数点后面还有6位数！](https://toutiao.io/k/61pnqey) 
 - [2022-02-06-推荐-字节的分布式链路追踪实践，教科书式的搭建指南](https://toutiao.io/k/t6j66db) 

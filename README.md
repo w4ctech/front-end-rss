@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-06 01:17:32，:rocket: 更新条数: +1839， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-06 02:08:35，:rocket: 更新条数: +1841， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -65,7 +65,7 @@
 </summary>
 
 
-- [2022-02-05-最新疫情：全国新冠累计确诊106297例-累计接种新冠疫苗超30.02亿剂次](https://m.caixin.com/m/2022-02-05/101837939.html) ![](assets/new.png)  
+- [2022-02-06-2月5日全国新增新冠43例-六省份本土13例](https://m.caixin.com/m/2022-02-06/101838052.html) ![](assets/new.png)  
 - [2022-02-05-香港疫情两年来“最恶劣”-拟全民派发快速检测包](https://m.caixin.com/m/2022-02-05/101837956.html) ![](assets/new.png)  
 - [2022-02-05-最新海外疫情：新冠感染超3.9亿-累计接种新冠疫苗超101.46亿剂次](https://m.caixin.com/m/2022-02-05/101837946.html) ![](assets/new.png)  
 - [2022-02-05-【境内疫情观察】全国新增9例本土病例（2月4日）](https://database.caixin.com/m/2022-02-05/101837971.html) ![](assets/new.png)  
@@ -491,6 +491,10 @@
 </summary>
 
 
+- [2022-02-06-小米手环-6-请问现在值得买吗？有什么理由直接升级到手表吗？](https://www.v2ex.com/t/832035) ![](assets/new.png)  
+- [2022-02-06-Android-Studio-新版本-bumblebee-里面-gradle-脚本的疑惑](https://www.v2ex.com/t/832034) ![](assets/new.png)  
+- [2022-02-06-关于-k8s-调整卷大小的问题](https://www.v2ex.com/t/832032) ![](assets/new.png)  
+- [2022-02-06-打开-ipfs-后间歇地网络不可用](https://www.v2ex.com/t/832031) ![](assets/new.png)  
 - [2022-02-06-ZOC-的替代品有哪些](https://www.v2ex.com/t/832028) ![](assets/new.png)  
 - [2022-02-06-有人-25-岁靠自己出首付的吗？](https://www.v2ex.com/t/832027) ![](assets/new.png)  
 - [2022-02-06-问下-IPLC-和-GIA-线路的的实际区别-以及-影响网络体验的最主要因素](https://www.v2ex.com/t/832026) ![](assets/new.png)  
@@ -507,10 +511,6 @@
 - [2022-02-05-如何提升编写文档能力](https://www.v2ex.com/t/832014) ![](assets/new.png)  
 - [2022-02-05-DNS-服务商问题](https://www.v2ex.com/t/832012) ![](assets/new.png)  
 - [2022-02-05-有没有-bose-耳机越用降噪效果越差的？](https://www.v2ex.com/t/832011) ![](assets/new.png)  
-- [2022-02-05-ServerCat-的开发者不让在-macOS-上用，有替代版吗？](https://www.v2ex.com/t/832010) ![](assets/new.png)  
-- [2022-02-05-你们加班吗？加班有调休吗？](https://www.v2ex.com/t/832009) ![](assets/new.png)  
-- [2022-02-05-突然发现腾讯云的轻量应用服务器涨价了，最低-34-一月](https://www.v2ex.com/t/832007) ![](assets/new.png)  
-- [2022-02-05-上海过年好无聊](https://www.v2ex.com/t/832006) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -557,6 +557,10 @@
 - [2022-02-06-『每周译Go』Golang-在大规模流处理场景下的最小化内存使用](https://toutiao.io/k/1asw7xf) ![](assets/new.png)  
 - [2022-02-06-宣布Kubernetes策略管理白皮书](https://toutiao.io/k/m17h97v) ![](assets/new.png)  
 - [2022-02-06-如何为-Node.js-的-require-函数添加钩子？](https://toutiao.io/k/ek9h644) ![](assets/new.png)  
+- [2022-02-06-糟糕程序员的20个坏习惯，你命中几个？](https://toutiao.io/k/9ohal9c) ![](assets/new.png)  
+- [2022-02-06-卷起来了！DeepMind发布媲美普通程序员的AlphaCode，同日OpenAI神经数学证明器拿下奥数题](https://toutiao.io/k/dccden1) ![](assets/new.png)  
+- [2022-02-06-关于如何更好地呈现红蓝对抗价值的思考](https://toutiao.io/k/0057ydw) ![](assets/new.png)  
+- [2022-02-06-砍价永远差一刀？拼多多回应：小数点后面还有6位数！](https://toutiao.io/k/61pnqey) ![](assets/new.png)  
 - [2022-02-06-推荐-技术干货｜缓存一致性最佳实践](https://toutiao.io/k/zgmi04u) ![](assets/new.png)  
 - [2022-02-06-推荐-面试官问:-如何设计一个高并发系统?](https://toutiao.io/k/7hrrplb) ![](assets/new.png)  
 - [2022-02-06-推荐-字节的分布式链路追踪实践，教科书式的搭建指南](https://toutiao.io/k/t6j66db) ![](assets/new.png)  

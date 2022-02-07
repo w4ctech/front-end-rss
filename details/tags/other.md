@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-02-07 03:54:33。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-07 04:15:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1743,6 +1743,9 @@
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2022-02-04-HTML-inputmode与iOS-Android软键盘类型测试](https://www.zhangxinxu.com/wordpress/2022/02/html-inputmode-keyboard/) 
 - [2021-11-14-密码强度效果最佳实现一定是HTML-meter元素](https://www.zhangxinxu.com/wordpress/2021/11/html-meter-password/) 
+- [2022-02-07-杭州外企微策略-不加班，年后继续招人，前端，测试，-Java-，-C++，-Android，-iOS，-Cloud-工程师-18-~-35K-13-薪，奖金另算](https://www.v2ex.com/t/832203) 
+- [2022-02-07-安卓-ZipFile-打开大文件似乎有问题](https://www.v2ex.com/t/832201) 
+- [2022-02-07-各种会员激活码](https://www.v2ex.com/t/832200) 
 - [2022-02-07-上海北京Airwallex-E-轮-SaaS+Fintech-独角兽内推，各岗位都有](https://www.v2ex.com/t/832198) 
 - [2022-02-07-iOS-是否有好用的同步部分相册的方案？](https://www.v2ex.com/t/832196) 
 - [2022-02-07-做跨境电商的一个后辈想转行-IT，想找个培训班趁着还算年轻-25-岁慢慢入-IT-坑，选前端还是-Java-，求大神指点?](https://www.v2ex.com/t/832195) 
@@ -1772,10 +1775,6 @@
 - [2022-02-07-求靠谱万兆光口网卡](https://www.v2ex.com/t/832157) 
 - [2022-02-07-iCloud-Drive-上弄个文件夹存储音乐，为何不显示封面呢？](https://www.v2ex.com/t/832156) 
 - [2022-02-07-今天还贷发现-LPR-降到-4.6%-了](https://www.v2ex.com/t/832155) 
-- [2022-02-07-又开始新一轮的搬砖，太快了](https://www.v2ex.com/t/832153) 
-- [2022-02-07-新的一年，推荐一个-Redis-可视化管理与监控工具](https://www.v2ex.com/t/832152) 
-- [2022-02-07-因为没有赶上高铁，被迫延长假期](https://www.v2ex.com/t/832150) 
-- [2022-02-07-Alibaba-Cloud-AI-Coding-Assistant](https://www.v2ex.com/t/832149) 
 - [2022-02-07-微话搭建优质-Web-应用其一-forum.lovejade.cn](https://blogread.cn/news/go.php?idItem=14928&url=https%3A%2F%2Fforum.lovejade.cn%2Fd%2F141-web%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-02-07-Puppeteer-使用分享及注意事项-forum.lovejade.cn](https://blogread.cn/news/go.php?idItem=14927&url=https%3A%2F%2Fforum.lovejade.cn%2Fd%2F145-puppeteer%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-02-07-优质网站同好者周刊（第-51-期）--倾城之链-blog.nicelinks.site](https://blogread.cn/news/go.php?idItem=14926&url=https%3A%2F%2Fblog.nicelinks.site%2Fweekly-051%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1797,5 +1796,5 @@
 - [2022-02-07-KubeVela-v1.2-发布：聚焦开发者体验，轻松发布你的多集群应用](https://toutiao.io/k/a6gjcmr) 
 - [2022-02-07-自我刷新2.5次后工资涨了1.5倍！](https://toutiao.io/k/pycipy6) 
 - [2022-02-07-盘古α,-Gopher,-派大星,-GLIDE...18个中美大厂去年搞的大模型工作我们试着总结回顾了一下](https://toutiao.io/k/5hj2vge) 
-- [2022-02-07-推荐-阿里专家：如何画出优秀的架构图？](https://toutiao.io/k/92sk26n) 
 - [2022-02-07-推荐-JVM调优的几种场景（建议收藏）](https://toutiao.io/k/fib82nl) 
+- [2022-02-07-推荐-阿里专家：如何画出优秀的架构图？](https://toutiao.io/k/92sk26n) 

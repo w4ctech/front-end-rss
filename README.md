@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-07 13:55:46，:rocket: 更新条数: +1850， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-07 14:12:14，:rocket: 更新条数: +1850， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-02-07-Oracle-免费的云主机内存为啥-16G，不是-1G-吗](https://www.v2ex.com/t/832325) ![](assets/new.png)  
 - [2022-02-07-请问有了解"深圳金融科技研究院"数字化货币研究所的吗?拿了-offer,不知道有没有坑..](https://www.v2ex.com/t/832324) ![](assets/new.png)  
 - [2022-02-07-分享一个纯异步-MySQL-客户端](https://www.v2ex.com/t/832323) ![](assets/new.png)  
 - [2022-02-07-视频通话对比：运营商、微信、facetime](https://www.v2ex.com/t/832322) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-02-07-各种浪费时间（生命](https://www.v2ex.com/t/832303) ![](assets/new.png)  
 - [2022-02-07-開源-免安裝-加密小工具-CDEncrypt](https://www.v2ex.com/t/832302) ![](assets/new.png)  
 - [2022-02-07-换工作改简历，麻烦-V-友给点意见](https://www.v2ex.com/t/832301) ![](assets/new.png)  
-- [2022-02-07-迫于性能需求，轻薄本求推荐](https://www.v2ex.com/t/832300) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -563,11 +563,11 @@
 - [2022-02-07-盘古α,-Gopher,-派大星,-GLIDE...18个中美大厂去年搞的大模型工作我们试着总结回顾了一下](https://toutiao.io/k/5hj2vge) ![](assets/new.png)  
 - [2022-02-07-跨域了？-装个插件就够了！](https://toutiao.io/k/v293cwf) ![](assets/new.png)  
 - [2022-02-07-Go-泛型变更：约束太丑了，先移动到-x/exp-做实验性功能](https://toutiao.io/k/5to3aln) ![](assets/new.png)  
-- [2022-02-07-推荐-JVM调优的几种场景（建议收藏）](https://toutiao.io/k/fib82nl) ![](assets/new.png)  
-- [2022-02-07-推荐-原来这才是动态代理！！！](https://toutiao.io/k/ectyif9) ![](assets/new.png)  
-- [2022-02-07-推荐-面试官问:-如何设计一个高并发系统?](https://toutiao.io/k/7hrrplb) ![](assets/new.png)  
-- [2022-02-07-推荐-技术干货｜缓存一致性最佳实践](https://toutiao.io/k/zgmi04u) ![](assets/new.png)  
 - [2022-02-07-推荐-阿里专家：如何画出优秀的架构图？](https://toutiao.io/k/92sk26n) ![](assets/new.png)  
+- [2022-02-07-推荐-JVM调优的几种场景（建议收藏）](https://toutiao.io/k/fib82nl) ![](assets/new.png)  
+- [2022-02-07-推荐-面试官问:-如何设计一个高并发系统?](https://toutiao.io/k/7hrrplb) ![](assets/new.png)  
+- [2022-02-07-推荐-原来这才是动态代理！！！](https://toutiao.io/k/ectyif9) ![](assets/new.png)  
+- [2022-02-07-推荐-技术干货｜缓存一致性最佳实践](https://toutiao.io/k/zgmi04u) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

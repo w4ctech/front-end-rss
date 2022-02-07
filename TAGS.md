@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-02-07 08:56:59。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-07 09:12:59。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -122,6 +122,7 @@
 
 
 
+- [【V2EX】最近准备去摆摊卖小吃了，想问一下-V-友有没有开源的点餐叫号小程序](https://www.v2ex.com/t/832267)
 - [......【查看更多】......](./details/tags/miniprogram.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -181,6 +182,7 @@
 - [【张鑫旭-鑫空间-鑫生活】深入JS-getRandomValues和Math.random方法](https://www.zhangxinxu.com/wordpress/2021/12/js-getrandomvalue-math-random/)
 - [【张鑫旭-鑫空间-鑫生活】flex-end为什么overflow无法滚动及解决方法](https://www.zhangxinxu.com/wordpress/2021/12/flex-end-overflow/)
 - [【张鑫旭-鑫空间-鑫生活】从js-visibilitychange-Safari下无效说开去](https://www.zhangxinxu.com/wordpress/2021/11/js-visibilitychange-pagehide-lifecycle/)
+- [【V2EX】有没有记录国内-IT-行业中猝死事件的文章或仓库？](https://www.v2ex.com/t/832274)
 - [......【查看更多】......](./details/tags/javascript.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -275,6 +277,7 @@
 - [【武汉肺炎防疫全纪录(财新网)】腺病毒新冠疫苗引安全忧虑-康希诺称未发现血栓病例](https://m.caixin.com/m/2021-04-14/101691086.html)
 - [【武汉肺炎防疫全纪录(财新网)】解药|新冠mRNA疫苗安全性有哪些挑战？](https://m.caixin.com/m/2021-01-08/101648043.html)
 - [【武汉肺炎防疫全纪录(财新网)】大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html)
+- [【V2EX】chrome-上保存网页为-pdf-有没有什么好方法](https://www.v2ex.com/t/832271)
 - [【V2EX】写了一个纯浏览器计算-MD5-的工具](https://www.v2ex.com/t/832244)
 - [【V2EX】Chrome-最新版本无法手动添加-cookie？](https://www.v2ex.com/t/832236)
 - [【开发者头条】跨域了？-装个插件就够了！](https://toutiao.io/k/v293cwf)

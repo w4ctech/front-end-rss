@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2022-02-07 17:40:58。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-07 17:54:33。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-02-07-写了一个生成-favicon.ico-的浏览器工具。](https://www.v2ex.com/t/832339) 
 - [2022-02-07-新手应该买啥车，老司机有啥分享的吗](https://www.v2ex.com/t/832338) 
 - [2022-02-07-入职新公司后上班如上坟](https://www.v2ex.com/t/832337) 
 - [2022-02-07-1Password-家庭开车](https://www.v2ex.com/t/832336) 

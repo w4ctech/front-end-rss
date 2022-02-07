@@ -11,11 +11,11 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-07 13:31:41，:rocket: 更新条数: +82， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-07 13:37:11，:rocket: 更新条数: +1849， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
@@ -65,6 +65,26 @@
 </summary>
 
 
+- [2022-02-07-最新疫情：全国新冠累计确诊106419例-累计接种新冠疫苗超30.06亿剂次](https://m.caixin.com/m/2022-02-07/101838645.html) ![](assets/new.png)  
+- [2022-02-07-广西百色三日累计确诊99例-2例为奥密克戎关联深圳](https://m.caixin.com/m/2022-02-07/101838632.html) ![](assets/new.png)  
+- [2022-02-07-香港日增614宗病例再创新高-密切接触者将居家隔离](https://m.caixin.com/m/2022-02-07/101838615.html) ![](assets/new.png)  
+- [2022-02-07-最新海外疫情：新冠感染超3.94亿-累计接种新冠疫苗超101.88亿剂次](https://m.caixin.com/m/2022-02-07/101838649.html) ![](assets/new.png)  
+- [2022-02-07-【境内疫情观察】广西新增37例本土病例（2月6日）](https://database.caixin.com/m/2022-02-07/101838439.html) ![](assets/new.png)  
+- [2022-02-07-渥太华进入紧急状态-韩国累计病例破百万｜大流行手记（2月6日）](https://m.caixin.com/m/2022-02-07/101838282.html) ![](assets/new.png)  
+- [2022-02-06-广西百色：本轮疫情累计确诊43例-第一轮核酸初筛阳性98人](https://m.caixin.com/m/2022-02-06/101838147.html) ![](assets/new.png)  
+- [2022-02-06-【境内疫情观察】广西新增6例本土病例（2月5日）](https://database.caixin.com/m/2022-02-06/101838097.html) ![](assets/new.png)  
+- [2022-02-06-土耳其总统埃尔多安新冠阳性-奥地利疫苗强制接种法案生效｜大流行手记（2月5日）](https://m.caixin.com/m/2022-02-06/101838056.html) ![](assets/new.png)  
+- [2022-02-05-香港疫情两年来“最恶劣”-拟全民派发快速检测包](https://m.caixin.com/m/2022-02-05/101837956.html) ![](assets/new.png)  
+- [2022-02-05-【境内疫情观察】全国新增9例本土病例（2月4日）](https://database.caixin.com/m/2022-02-05/101837971.html) ![](assets/new.png)  
+- [2022-02-05-南非发现更多Omicron新亚型病例-希腊放开旅行者检测要求｜大流行手记（2月4日）](https://m.caixin.com/m/2022-02-05/101837887.html) ![](assets/new.png)  
+- [2022-02-04-【境内疫情观察】全国新增12例本土病例（2月3日）](https://database.caixin.com/m/2022-02-04/101837666.html) ![](assets/new.png)  
+- [2022-02-04-首个新冠人类挑战试验带来重要发现-欧洲解封范围扩大｜大流行手记（2月3日）](https://m.caixin.com/m/2022-02-04/101837579.html) ![](assets/new.png)  
+- [2022-02-03-北京地坛医院1名医务人员确诊，为应急隔离区医生](https://m.caixin.com/m/2022-02-03/101837518.html) ![](assets/new.png)  
+- [2022-02-03-【境内疫情观察】全国新增21例本土病例（2月2日）](https://database.caixin.com/m/2022-02-03/101837478.html) ![](assets/new.png)  
+- [2022-02-03-世卫呼吁稳步缓慢“解封”，日本新增创新高｜大流行手记（2月2日）](https://m.caixin.com/m/2022-02-03/101837392.html) ![](assets/new.png)  
+- [2022-02-02-广东再现本土奥密克戎-五市共报告病例11个](https://m.caixin.com/m/2022-02-02/101837218.html) ![](assets/new.png)  
+- [2022-02-02-【境内疫情观察】全国新增36例本土病例（2月1日）](https://database.caixin.com/m/2022-02-02/101837319.html) ![](assets/new.png)  
+- [2022-02-02-美国FDA批准第二款mRNA疫苗-挪威取消大部分限制措施｜大流行手记（2月1日）](https://m.caixin.com/m/2022-02-02/101837258.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -471,6 +491,7 @@
 </summary>
 
 
+- [2022-02-07-视频通话对比：运营商、微信、facetime](https://www.v2ex.com/t/832322) ![](assets/new.png)  
 - [2022-02-07-大数据和-Java-后端方向哪个方向现在发展好一些](https://www.v2ex.com/t/832320) ![](assets/new.png)  
 - [2022-02-07-有关职业规划和未来选择，大佬们帮忙给点建议](https://www.v2ex.com/t/832318) ![](assets/new.png)  
 - [2022-02-07-提问一下-Gogs-部署-HTTPS-的问题](https://www.v2ex.com/t/832317) ![](assets/new.png)  
@@ -490,7 +511,6 @@
 - [2022-02-07-迫于性能需求，轻薄本求推荐](https://www.v2ex.com/t/832300) ![](assets/new.png)  
 - [2022-02-07-试用了一下-win11，真就是从头做系统？](https://www.v2ex.com/t/832299) ![](assets/new.png)  
 - [2022-02-07-FireFox-不能顺利自动切换网页的深色/明亮模式](https://www.v2ex.com/t/832298) ![](assets/new.png)  
-- [2022-02-07-马上过生日了，有啥礼物送的吗？](https://www.v2ex.com/t/832297) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -544,10 +564,10 @@
 - [2022-02-07-跨域了？-装个插件就够了！](https://toutiao.io/k/v293cwf) ![](assets/new.png)  
 - [2022-02-07-Go-泛型变更：约束太丑了，先移动到-x/exp-做实验性功能](https://toutiao.io/k/5to3aln) ![](assets/new.png)  
 - [2022-02-07-推荐-JVM调优的几种场景（建议收藏）](https://toutiao.io/k/fib82nl) ![](assets/new.png)  
-- [2022-02-07-推荐-面试官问:-如何设计一个高并发系统?](https://toutiao.io/k/7hrrplb) ![](assets/new.png)  
-- [2022-02-07-推荐-技术干货｜缓存一致性最佳实践](https://toutiao.io/k/zgmi04u) ![](assets/new.png)  
 - [2022-02-07-推荐-阿里专家：如何画出优秀的架构图？](https://toutiao.io/k/92sk26n) ![](assets/new.png)  
 - [2022-02-07-推荐-原来这才是动态代理！！！](https://toutiao.io/k/ectyif9) ![](assets/new.png)  
+- [2022-02-07-推荐-技术干货｜缓存一致性最佳实践](https://toutiao.io/k/zgmi04u) ![](assets/new.png)  
+- [2022-02-07-推荐-面试官问:-如何设计一个高并发系统?](https://toutiao.io/k/7hrrplb) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

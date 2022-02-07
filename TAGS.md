@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-02-07 04:15:24。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-07 04:27:10。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -275,6 +275,7 @@
 - [【武汉肺炎防疫全纪录(财新网)】腺病毒新冠疫苗引安全忧虑-康希诺称未发现血栓病例](https://m.caixin.com/m/2021-04-14/101691086.html)
 - [【武汉肺炎防疫全纪录(财新网)】解药|新冠mRNA疫苗安全性有哪些挑战？](https://m.caixin.com/m/2021-01-08/101648043.html)
 - [【武汉肺炎防疫全纪录(财新网)】大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html)
+- [【V2EX】Edge-的安全增强功能真的有效果吗？原理是什么？真的会比-Brave-等关注隐私的浏览器安全吗？](https://www.v2ex.com/t/832206)
 - [【V2EX】Chrome-窗口分屏同步浏览和操作的插件](https://www.v2ex.com/t/832162)
 - [【V2EX】新加坡技术移民机会-知名互联网公司，招移动端（iOS,安卓,-RN），前端，后端（不限开发语言），-运维及运维开发/DevOps-/SRE-和-DBA-及安全等各类工程师，个...](https://www.v2ex.com/t/832161)
 - [【开发者头条】推荐-技术干货｜缓存一致性最佳实践](https://toutiao.io/k/zgmi04u)
@@ -345,7 +346,6 @@
 
 
 
-- [【V2EX】2022-中国电信天翼云前端团队内推招聘](https://www.v2ex.com/t/832154)
 - [【技术头条】从面试官角度看一次前端面试经历-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14912&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493183%26amp%3Bidx%3D2%26amp%3Bsn%3D5fa4e2c3d2fe23c944a9e037e1b7aff5%26amp%3Bchksm%3Dfa3f0764cd488e720e4e68527c06873860d0fd73417c8765831c4a5022d541de6fad313a67b3%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【开发者头条】推荐-面试官问:-如何设计一个高并发系统?](https://toutiao.io/k/7hrrplb)
 - [......【查看更多】......](./details/tags/job-interview.md)

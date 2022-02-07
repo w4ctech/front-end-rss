@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-07 13:37:11，:rocket: 更新条数: +1849， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-07 13:43:53，:rocket: 更新条数: +1850， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-02-07-分享一个纯异步-MySQL-客户端](https://www.v2ex.com/t/832323) ![](assets/new.png)  
 - [2022-02-07-视频通话对比：运营商、微信、facetime](https://www.v2ex.com/t/832322) ![](assets/new.png)  
 - [2022-02-07-大数据和-Java-后端方向哪个方向现在发展好一些](https://www.v2ex.com/t/832320) ![](assets/new.png)  
 - [2022-02-07-有关职业规划和未来选择，大佬们帮忙给点建议](https://www.v2ex.com/t/832318) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-02-07-换工作改简历，麻烦-V-友给点意见](https://www.v2ex.com/t/832301) ![](assets/new.png)  
 - [2022-02-07-迫于性能需求，轻薄本求推荐](https://www.v2ex.com/t/832300) ![](assets/new.png)  
 - [2022-02-07-试用了一下-win11，真就是从头做系统？](https://www.v2ex.com/t/832299) ![](assets/new.png)  
-- [2022-02-07-FireFox-不能顺利自动切换网页的深色/明亮模式](https://www.v2ex.com/t/832298) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -563,11 +563,11 @@
 - [2022-02-07-盘古α,-Gopher,-派大星,-GLIDE...18个中美大厂去年搞的大模型工作我们试着总结回顾了一下](https://toutiao.io/k/5hj2vge) ![](assets/new.png)  
 - [2022-02-07-跨域了？-装个插件就够了！](https://toutiao.io/k/v293cwf) ![](assets/new.png)  
 - [2022-02-07-Go-泛型变更：约束太丑了，先移动到-x/exp-做实验性功能](https://toutiao.io/k/5to3aln) ![](assets/new.png)  
-- [2022-02-07-推荐-JVM调优的几种场景（建议收藏）](https://toutiao.io/k/fib82nl) ![](assets/new.png)  
-- [2022-02-07-推荐-阿里专家：如何画出优秀的架构图？](https://toutiao.io/k/92sk26n) ![](assets/new.png)  
 - [2022-02-07-推荐-原来这才是动态代理！！！](https://toutiao.io/k/ectyif9) ![](assets/new.png)  
-- [2022-02-07-推荐-技术干货｜缓存一致性最佳实践](https://toutiao.io/k/zgmi04u) ![](assets/new.png)  
+- [2022-02-07-推荐-阿里专家：如何画出优秀的架构图？](https://toutiao.io/k/92sk26n) ![](assets/new.png)  
 - [2022-02-07-推荐-面试官问:-如何设计一个高并发系统?](https://toutiao.io/k/7hrrplb) ![](assets/new.png)  
+- [2022-02-07-推荐-技术干货｜缓存一致性最佳实践](https://toutiao.io/k/zgmi04u) ![](assets/new.png)  
+- [2022-02-07-推荐-JVM调优的几种场景（建议收藏）](https://toutiao.io/k/fib82nl) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

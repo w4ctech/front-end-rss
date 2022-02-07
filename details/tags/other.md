@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-02-07 14:39:46。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-07 14:54:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1747,6 +1747,9 @@
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2022-02-04-HTML-inputmode与iOS-Android软键盘类型测试](https://www.zhangxinxu.com/wordpress/2022/02/html-inputmode-keyboard/) 
 - [2021-11-14-密码强度效果最佳实现一定是HTML-meter元素](https://www.zhangxinxu.com/wordpress/2021/11/html-meter-password/) 
+- [2022-02-07-迫于看国外技术文档看不懂,求推荐靠谱的英语培训机构一线城市的](https://www.v2ex.com/t/832329) 
+- [2022-02-07-windows-下，有什么好的桌面日历软件么（可以贴在桌面上，替代软媒云日历那种）](https://www.v2ex.com/t/832328) 
+- [2022-02-07-笔记本-Hyper-v-openwrt](https://www.v2ex.com/t/832327) 
 - [2022-02-07-Oracle-免费的云主机内存为啥-16G，不是-1G-吗](https://www.v2ex.com/t/832325) 
 - [2022-02-07-请问有了解"深圳金融科技研究院"数字化货币研究所的吗?拿了-offer,不知道有没有坑..](https://www.v2ex.com/t/832324) 
 - [2022-02-07-大数据和-Java-后端方向哪个方向现在发展好一些](https://www.v2ex.com/t/832320) 
@@ -1774,9 +1777,6 @@
 - [2022-02-07-Twitter-有什么更高级的屏蔽关键词的方法么？](https://www.v2ex.com/t/832285) 
 - [2022-02-07-Loon-有人用过吗](https://www.v2ex.com/t/832283) 
 - [2022-02-07-杭州外企Microstrategy-微策略社招/校招-+-内推-+-双休-+-年假多-+-周一在家办公](https://www.v2ex.com/t/832282) 
-- [2022-02-07-旧光猫有什么方法发挥余热？](https://www.v2ex.com/t/832279) 
-- [2022-02-07-Lua-table-疑问](https://www.v2ex.com/t/832278) 
-- [2022-02-07-眼镜近视了-请问配眼镜有啥需要注意的地方吗？坐标深圳](https://www.v2ex.com/t/832277) 
 - [2022-02-07-微话搭建优质-Web-应用其一-forum.lovejade.cn](https://blogread.cn/news/go.php?idItem=14928&url=https%3A%2F%2Fforum.lovejade.cn%2Fd%2F141-web%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-02-07-Puppeteer-使用分享及注意事项-forum.lovejade.cn](https://blogread.cn/news/go.php?idItem=14927&url=https%3A%2F%2Fforum.lovejade.cn%2Fd%2F145-puppeteer%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-02-07-优质网站同好者周刊（第-51-期）--倾城之链-blog.nicelinks.site](https://blogread.cn/news/go.php?idItem=14926&url=https%3A%2F%2Fblog.nicelinks.site%2Fweekly-051%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

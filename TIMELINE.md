@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-02-07 12:33:19。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-02-07 12:54:29。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -92,6 +92,8 @@
 - [【武汉肺炎防疫全纪录(财新网)】2022-02-01-德国未实现接种目标-奥地利强制接种疫苗法律生效｜大流行手记（1月31日）](https://m.caixin.com/m/2022-02-01/101837106.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2022-02-01-聚焦｜张文宏：未来抗疫，是努力夺回正常生活的过程](https://opinion.caixin.com/m/2022-02-01/101837206.html) 
 - [【张鑫旭-鑫空间-鑫生活】2022-02-04-HTML-inputmode与iOS-Android软键盘类型测试](https://www.zhangxinxu.com/wordpress/2022/02/html-inputmode-keyboard/) 
+- [【V2EX】2022-02-07-提问一下-Gogs-部署-HTTPS-的问题](https://www.v2ex.com/t/832317) 
+- [【V2EX】2022-02-07-华为云切到良心云](https://www.v2ex.com/t/832315) 
 - [【V2EX】2022-02-07-请教下关于函数传参的一点疑问](https://www.v2ex.com/t/832314) 
 - [【V2EX】2022-02-07-iPhone-12-屏幕轻微闪烁正常吗](https://www.v2ex.com/t/832313) 
 - [【V2EX】2022-02-07-求助各位-V-友：深圳租房](https://www.v2ex.com/t/832312) 
@@ -127,8 +129,6 @@
 - [【V2EX】2022-02-07-chrome-上保存网页为-pdf-有没有什么好方法](https://www.v2ex.com/t/832271) 
 - [【V2EX】2022-02-07-Files-Gallery](https://www.v2ex.com/t/832270) 
 - [【V2EX】2022-02-07-2022.2-月，有低门槛的办理香港卡的吗](https://www.v2ex.com/t/832269) 
-- [【V2EX】2022-02-07-最近准备去摆摊卖小吃了，想问一下-V-友有没有开源的点餐叫号小程序](https://www.v2ex.com/t/832267) 
-- [【V2EX】2022-02-07-arm-版-win-中，财务的开票软件无法使用了，估计是金税盘的驱动不认。](https://www.v2ex.com/t/832265) 
 - [【技术头条】2022-02-07-微话搭建优质-Web-应用其一-forum.lovejade.cn](https://blogread.cn/news/go.php?idItem=14928&url=https%3A%2F%2Fforum.lovejade.cn%2Fd%2F141-web%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-02-07-Puppeteer-使用分享及注意事项-forum.lovejade.cn](https://blogread.cn/news/go.php?idItem=14927&url=https%3A%2F%2Fforum.lovejade.cn%2Fd%2F145-puppeteer%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-02-07-优质网站同好者周刊（第-51-期）--倾城之链-blog.nicelinks.site](https://blogread.cn/news/go.php?idItem=14926&url=https%3A%2F%2Fblog.nicelinks.site%2Fweekly-051%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -159,11 +159,11 @@
 - [【开发者头条】2022-02-07-盘古α,-Gopher,-派大星,-GLIDE...18个中美大厂去年搞的大模型工作我们试着总结回顾了一下](https://toutiao.io/k/5hj2vge) 
 - [【开发者头条】2022-02-07-跨域了？-装个插件就够了！](https://toutiao.io/k/v293cwf) 
 - [【开发者头条】2022-02-07-Go-泛型变更：约束太丑了，先移动到-x/exp-做实验性功能](https://toutiao.io/k/5to3aln) 
-- [【开发者头条】2022-02-07-推荐-阿里专家：如何画出优秀的架构图？](https://toutiao.io/k/92sk26n) 
 - [【开发者头条】2022-02-07-推荐-面试官问:-如何设计一个高并发系统?](https://toutiao.io/k/7hrrplb) 
-- [【开发者头条】2022-02-07-推荐-JVM调优的几种场景（建议收藏）](https://toutiao.io/k/fib82nl) 
-- [【开发者头条】2022-02-07-推荐-原来这才是动态代理！！！](https://toutiao.io/k/ectyif9) 
 - [【开发者头条】2022-02-07-推荐-技术干货｜缓存一致性最佳实践](https://toutiao.io/k/zgmi04u) 
+- [【开发者头条】2022-02-07-推荐-原来这才是动态代理！！！](https://toutiao.io/k/ectyif9) 
+- [【开发者头条】2022-02-07-推荐-阿里专家：如何画出优秀的架构图？](https://toutiao.io/k/92sk26n) 
+- [【开发者头条】2022-02-07-推荐-JVM调优的几种场景（建议收藏）](https://toutiao.io/k/fib82nl) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

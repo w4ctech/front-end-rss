@@ -9093,6 +9093,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "求靠谱万兆光口网卡",
+        "link": "https://www.v2ex.com/t/832157",
+        "date": "2022-02-07"
+      },
+      {
         "title": "iCloud Drive 上弄个文件夹存储音乐，为何不显示封面呢？",
         "link": "https://www.v2ex.com/t/832156",
         "date": "2022-02-07"
@@ -9271,11 +9276,6 @@
         "title": "v 友们， 100 ~ 200 块左右，可以买到用起来还行的“机械键盘”有哪些呢？",
         "link": "https://www.v2ex.com/t/832109",
         "date": "2022-02-06"
-      },
-      {
-        "title": "二手笔记本电脑和 NUC 二选一？",
-        "link": "https://www.v2ex.com/t/832108",
-        "date": "2022-02-06"
       }
     ]
   },
@@ -9407,18 +9407,28 @@
         "date": "2022-02-07"
       },
       {
-        "title": "深入浅出 tnpm rapid 模式 - 如何比 pnpm 快 10 秒",
-        "link": "https://toutiao.io/k/n35ir19",
-        "date": "2022-02-07"
-      },
-      {
         "title": "KubeVela v1.2 发布：聚焦开发者体验，轻松发布你的多集群应用",
         "link": "https://toutiao.io/k/a6gjcmr",
         "date": "2022-02-07"
       },
       {
-        "title": "[推荐] JVM调优的几种场景（建议收藏）",
-        "link": "https://toutiao.io/k/fib82nl",
+        "title": "深入浅出 tnpm rapid 模式 - 如何比 pnpm 快 10 秒",
+        "link": "https://toutiao.io/k/n35ir19",
+        "date": "2022-02-07"
+      },
+      {
+        "title": "自我刷新2.5次后工资涨了1.5倍！",
+        "link": "https://toutiao.io/k/pycipy6",
+        "date": "2022-02-07"
+      },
+      {
+        "title": "腾讯员工分享的 Code Review经验",
+        "link": "https://toutiao.io/k/c6wnna4",
+        "date": "2022-02-07"
+      },
+      {
+        "title": "盘古α, Gopher, 派大星, GLIDE...18个中美大厂去年搞的大模型工作我们试着总结回顾了一下",
+        "link": "https://toutiao.io/k/5hj2vge",
         "date": "2022-02-07"
       },
       {
@@ -9429,6 +9439,11 @@
       {
         "title": "[推荐] 技术干货｜缓存一致性最佳实践",
         "link": "https://toutiao.io/k/zgmi04u",
+        "date": "2022-02-07"
+      },
+      {
+        "title": "[推荐] JVM调优的几种场景（建议收藏）",
+        "link": "https://toutiao.io/k/fib82nl",
         "date": "2022-02-07"
       }
     ]

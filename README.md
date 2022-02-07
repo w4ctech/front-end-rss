@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-07 01:55:51，:rocket: 更新条数: +1839， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-07 02:07:29，:rocket: 更新条数: +1842， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-02-07-求靠谱万兆光口网卡](https://www.v2ex.com/t/832157) ![](assets/new.png)  
 - [2022-02-07-iCloud-Drive-上弄个文件夹存储音乐，为何不显示封面呢？](https://www.v2ex.com/t/832156) ![](assets/new.png)  
 - [2022-02-07-今天还贷发现-LPR-降到-4.6%-了](https://www.v2ex.com/t/832155) ![](assets/new.png)  
 - [2022-02-07-2022-中国电信天翼云前端团队内推招聘](https://www.v2ex.com/t/832154) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-02-06-iOS-上-scriptable-app-桌面小组件遇到的问题](https://www.v2ex.com/t/832139) ![](assets/new.png)  
 - [2022-02-06-写了一篇博客，总结了我碰到的欧美科技公司的面试方式和准备方式](https://www.v2ex.com/t/832138) ![](assets/new.png)  
 - [2022-02-06-现在还有没有兼顾包容性和稳定性的随笔博客？主要记录各种工作小笔记用](https://www.v2ex.com/t/832135) ![](assets/new.png)  
-- [2022-02-06-问一个情商的问题](https://www.v2ex.com/t/832134) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -556,11 +556,14 @@
 - [2022-02-07-徐尧：如何搭建好的数据指标体系？](https://toutiao.io/k/w9ynkus) ![](assets/new.png)  
 - [2022-02-07-你知道的Go切片扩容机制可能是错的](https://toutiao.io/k/4e7rhoy) ![](assets/new.png)  
 - [2022-02-07-树莓派系统推出64位版本，更好支持4GB内存以上硬件](https://toutiao.io/k/vrdgebv) ![](assets/new.png)  
-- [2022-02-07-深入浅出-tnpm-rapid-模式---如何比-pnpm-快-10-秒](https://toutiao.io/k/n35ir19) ![](assets/new.png)  
 - [2022-02-07-KubeVela-v1.2-发布：聚焦开发者体验，轻松发布你的多集群应用](https://toutiao.io/k/a6gjcmr) ![](assets/new.png)  
-- [2022-02-07-推荐-JVM调优的几种场景（建议收藏）](https://toutiao.io/k/fib82nl) ![](assets/new.png)  
+- [2022-02-07-深入浅出-tnpm-rapid-模式---如何比-pnpm-快-10-秒](https://toutiao.io/k/n35ir19) ![](assets/new.png)  
+- [2022-02-07-自我刷新2.5次后工资涨了1.5倍！](https://toutiao.io/k/pycipy6) ![](assets/new.png)  
+- [2022-02-07-腾讯员工分享的-Code-Review经验](https://toutiao.io/k/c6wnna4) ![](assets/new.png)  
+- [2022-02-07-盘古α,-Gopher,-派大星,-GLIDE...18个中美大厂去年搞的大模型工作我们试着总结回顾了一下](https://toutiao.io/k/5hj2vge) ![](assets/new.png)  
 - [2022-02-07-推荐-面试官问:-如何设计一个高并发系统?](https://toutiao.io/k/7hrrplb) ![](assets/new.png)  
 - [2022-02-07-推荐-技术干货｜缓存一致性最佳实践](https://toutiao.io/k/zgmi04u) ![](assets/new.png)  
+- [2022-02-07-推荐-JVM调优的几种场景（建议收藏）](https://toutiao.io/k/fib82nl) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

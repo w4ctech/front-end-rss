@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-07 11:17:22，:rocket: 更新条数: +1848， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-07 11:36:14，:rocket: 更新条数: +1849， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -66,6 +66,7 @@
 
 
 - [2022-02-07-2月6日全国新增新冠79例-四省份本土45例](https://m.caixin.com/m/2022-02-07/101838254.html) ![](assets/new.png)  
+- [2022-02-07-香港日增614宗病例再创新高-密切接触者将居家隔离](https://m.caixin.com/m/2022-02-07/101838615.html) ![](assets/new.png)  
 - [2022-02-07-【境内疫情观察】广西新增37例本土病例（2月6日）](https://database.caixin.com/m/2022-02-07/101838439.html) ![](assets/new.png)  
 - [2022-02-07-渥太华进入紧急状态-韩国累计病例破百万｜大流行手记（2月6日）](https://m.caixin.com/m/2022-02-07/101838282.html) ![](assets/new.png)  
 - [2022-02-06-广西百色：本轮疫情累计确诊43例-第一轮核酸初筛阳性98人](https://m.caixin.com/m/2022-02-06/101838147.html) ![](assets/new.png)  
@@ -84,7 +85,6 @@
 - [2022-02-02-【境内疫情观察】全国新增36例本土病例（2月1日）](https://database.caixin.com/m/2022-02-02/101837319.html) ![](assets/new.png)  
 - [2022-02-02-美国FDA批准第二款mRNA疫苗-挪威取消大部分限制措施｜大流行手记（2月1日）](https://m.caixin.com/m/2022-02-02/101837258.html) ![](assets/new.png)  
 - [2022-02-01-【境内疫情观察】全国累计接种新冠疫苗逾30亿剂次（1月31日）](https://database.caixin.com/m/2022-02-01/101837162.html) ![](assets/new.png)  
-- [2022-02-01-德国未实现接种目标-奥地利强制接种疫苗法律生效｜大流行手记（1月31日）](https://m.caixin.com/m/2022-02-01/101837106.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-02-07-開源-免安裝-加密小工具-CDEncrypt](https://www.v2ex.com/t/832302) ![](assets/new.png)  
 - [2022-02-07-换工作改简历，麻烦-V-友给点意见](https://www.v2ex.com/t/832301) ![](assets/new.png)  
 - [2022-02-07-迫于性能需求，轻薄本求推荐](https://www.v2ex.com/t/832300) ![](assets/new.png)  
 - [2022-02-07-试用了一下-win11，真就是从头做系统？](https://www.v2ex.com/t/832299) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-02-07-Lua-table-疑问](https://www.v2ex.com/t/832278) ![](assets/new.png)  
 - [2022-02-07-眼镜近视了-请问配眼镜有啥需要注意的地方吗？坐标深圳](https://www.v2ex.com/t/832277) ![](assets/new.png)  
 - [2022-02-07-ax86u-如何开启多个-dmz？](https://www.v2ex.com/t/832275) ![](assets/new.png)  
-- [2022-02-07-有没有记录国内-IT-行业中猝死事件的文章或仓库？](https://www.v2ex.com/t/832274) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -564,9 +564,9 @@
 - [2022-02-07-跨域了？-装个插件就够了！](https://toutiao.io/k/v293cwf) ![](assets/new.png)  
 - [2022-02-07-Go-泛型变更：约束太丑了，先移动到-x/exp-做实验性功能](https://toutiao.io/k/5to3aln) ![](assets/new.png)  
 - [2022-02-07-推荐-面试官问:-如何设计一个高并发系统?](https://toutiao.io/k/7hrrplb) ![](assets/new.png)  
-- [2022-02-07-推荐-原来这才是动态代理！！！](https://toutiao.io/k/ectyif9) ![](assets/new.png)  
 - [2022-02-07-推荐-技术干货｜缓存一致性最佳实践](https://toutiao.io/k/zgmi04u) ![](assets/new.png)  
 - [2022-02-07-推荐-阿里专家：如何画出优秀的架构图？](https://toutiao.io/k/92sk26n) ![](assets/new.png)  
+- [2022-02-07-推荐-原来这才是动态代理！！！](https://toutiao.io/k/ectyif9) ![](assets/new.png)  
 - [2022-02-07-推荐-JVM调优的几种场景（建议收藏）](https://toutiao.io/k/fib82nl) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

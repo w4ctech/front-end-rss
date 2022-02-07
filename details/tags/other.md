@@ -1,16 +1,16 @@
-:alarm_clock: 更新时间: 2022-02-07 12:54:29。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-07 13:04:58。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
 
 
 
-- [2022-02-07-2月6日全国新增新冠79例-四省份本土45例](https://m.caixin.com/m/2022-02-07/101838254.html) 
+- [2022-02-07-最新疫情：全国新冠累计确诊106419例-累计接种新冠疫苗超30.06亿剂次](https://m.caixin.com/m/2022-02-07/101838645.html) 
 - [2022-02-07-广西百色三日累计确诊99例-2例为奥密克戎关联深圳](https://m.caixin.com/m/2022-02-07/101838632.html) 
 - [2022-02-07-香港日增614宗病例再创新高-密切接触者将居家隔离](https://m.caixin.com/m/2022-02-07/101838615.html) 
+- [2022-02-07-最新海外疫情：新冠感染超3.94亿-累计接种新冠疫苗超101.88亿剂次](https://m.caixin.com/m/2022-02-07/101838649.html) 
 - [2022-02-07-【境内疫情观察】广西新增37例本土病例（2月6日）](https://database.caixin.com/m/2022-02-07/101838439.html) 
 - [2022-02-07-渥太华进入紧急状态-韩国累计病例破百万｜大流行手记（2月6日）](https://m.caixin.com/m/2022-02-07/101838282.html) 
-- [2022-02-06-最新海外疫情：新冠感染超3.92亿-累计接种新冠疫苗超101.63亿剂次](https://m.caixin.com/m/2022-02-06/101838134.html) 
 - [2022-02-06-广西百色：本轮疫情累计确诊43例-第一轮核酸初筛阳性98人](https://m.caixin.com/m/2022-02-06/101838147.html) 
 - [2022-02-06-【境内疫情观察】广西新增6例本土病例（2月5日）](https://database.caixin.com/m/2022-02-06/101838097.html) 
 - [2022-02-06-土耳其总统埃尔多安新冠阳性-奥地利疫苗强制接种法案生效｜大流行手记（2月5日）](https://m.caixin.com/m/2022-02-06/101838056.html) 
@@ -1747,6 +1747,7 @@
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2022-02-04-HTML-inputmode与iOS-Android软键盘类型测试](https://www.zhangxinxu.com/wordpress/2022/02/html-inputmode-keyboard/) 
 - [2021-11-14-密码强度效果最佳实现一定是HTML-meter元素](https://www.zhangxinxu.com/wordpress/2021/11/html-meter-password/) 
+- [2022-02-07-有关职业规划和未来选择，大佬们帮忙给点建议](https://www.v2ex.com/t/832318) 
 - [2022-02-07-华为云切到良心云](https://www.v2ex.com/t/832315) 
 - [2022-02-07-请教下关于函数传参的一点疑问](https://www.v2ex.com/t/832314) 
 - [2022-02-07-iPhone-12-屏幕轻微闪烁正常吗](https://www.v2ex.com/t/832313) 
@@ -1776,7 +1777,6 @@
 - [2022-02-07-ax86u-如何开启多个-dmz？](https://www.v2ex.com/t/832275) 
 - [2022-02-07-黑苹果收不到系统更新](https://www.v2ex.com/t/832272) 
 - [2022-02-07-Files-Gallery](https://www.v2ex.com/t/832270) 
-- [2022-02-07-2022.2-月，有低门槛的办理香港卡的吗](https://www.v2ex.com/t/832269) 
 - [2022-02-07-微话搭建优质-Web-应用其一-forum.lovejade.cn](https://blogread.cn/news/go.php?idItem=14928&url=https%3A%2F%2Fforum.lovejade.cn%2Fd%2F141-web%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-02-07-Puppeteer-使用分享及注意事项-forum.lovejade.cn](https://blogread.cn/news/go.php?idItem=14927&url=https%3A%2F%2Fforum.lovejade.cn%2Fd%2F145-puppeteer%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-02-07-优质网站同好者周刊（第-51-期）--倾城之链-blog.nicelinks.site](https://blogread.cn/news/go.php?idItem=14926&url=https%3A%2F%2Fblog.nicelinks.site%2Fweekly-051%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

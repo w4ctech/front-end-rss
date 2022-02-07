@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-07 02:07:29，:rocket: 更新条数: +1842， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-07 02:26:58，:rocket: 更新条数: +1844， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,13 @@
 </summary>
 
 
+- [2022-02-07-icloud+-2T-家庭共享开车](https://www.v2ex.com/t/832166) ![](assets/new.png)  
+- [2022-02-07-目前-android11-如何给应用保活呢？](https://www.v2ex.com/t/832165) ![](assets/new.png)  
+- [2022-02-07-完了，完全忘记年前自己是干啥的了。。。](https://www.v2ex.com/t/832163) ![](assets/new.png)  
+- [2022-02-07-Chrome-窗口分屏同步浏览和操作的插件](https://www.v2ex.com/t/832162) ![](assets/new.png)  
+- [2022-02-07-新加坡技术移民机会-知名互联网公司，招移动端（iOS,安卓,-RN），前端，后端（不限开发语言），-运维及运维开发/DevOps-/SRE-和-DBA-及安全等各类工程师，个...](https://www.v2ex.com/t/832161) ![](assets/new.png)  
+- [2022-02-07-遇到的一个运行问题，求教](https://www.v2ex.com/t/832160) ![](assets/new.png)  
+- [2022-02-07-Apple-Connect-的-Proceeds-和-Sales-有啥区别啊?](https://www.v2ex.com/t/832159) ![](assets/new.png)  
 - [2022-02-07-求靠谱万兆光口网卡](https://www.v2ex.com/t/832157) ![](assets/new.png)  
 - [2022-02-07-iCloud-Drive-上弄个文件夹存储音乐，为何不显示封面呢？](https://www.v2ex.com/t/832156) ![](assets/new.png)  
 - [2022-02-07-今天还贷发现-LPR-降到-4.6%-了](https://www.v2ex.com/t/832155) ![](assets/new.png)  
@@ -504,13 +511,6 @@
 - [2022-02-07-周末和硅谷某些厂商聊了一下-DEVOPS-和-DEV-ONCALL。他们觉得苦不堪言，但是这也是-DEVOPS-自己作出来的](https://www.v2ex.com/t/832147) ![](assets/new.png)  
 - [2022-02-07-知乎可真有你的啊，不注册站内搜索都不给用了](https://www.v2ex.com/t/832146) ![](assets/new.png)  
 - [2022-02-06-iQDNS---五湖四海皆可析的稳定加密-DNS](https://www.v2ex.com/t/832145) ![](assets/new.png)  
-- [2022-02-06-百度为何一点节操都没有，搞中间人。](https://www.v2ex.com/t/832144) ![](assets/new.png)  
-- [2022-02-06-Zard-翔哥近照](https://www.v2ex.com/t/832143) ![](assets/new.png)  
-- [2022-02-06-Debian-为啥设置好了-crontab-每日执行一次脚本，结果服务器不执行脚本呀？](https://www.v2ex.com/t/832142) ![](assets/new.png)  
-- [2022-02-06-怎么买电脑合适？](https://www.v2ex.com/t/832141) ![](assets/new.png)  
-- [2022-02-06-iOS-上-scriptable-app-桌面小组件遇到的问题](https://www.v2ex.com/t/832139) ![](assets/new.png)  
-- [2022-02-06-写了一篇博客，总结了我碰到的欧美科技公司的面试方式和准备方式](https://www.v2ex.com/t/832138) ![](assets/new.png)  
-- [2022-02-06-现在还有没有兼顾包容性和稳定性的随笔博客？主要记录各种工作小笔记用](https://www.v2ex.com/t/832135) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -553,17 +553,16 @@
 </summary>
 
 
+- [2022-02-07-2022-年别再焦虑啦！加入我们！](https://toutiao.io/k/obimloc) ![](assets/new.png)  
 - [2022-02-07-徐尧：如何搭建好的数据指标体系？](https://toutiao.io/k/w9ynkus) ![](assets/new.png)  
 - [2022-02-07-你知道的Go切片扩容机制可能是错的](https://toutiao.io/k/4e7rhoy) ![](assets/new.png)  
-- [2022-02-07-树莓派系统推出64位版本，更好支持4GB内存以上硬件](https://toutiao.io/k/vrdgebv) ![](assets/new.png)  
 - [2022-02-07-KubeVela-v1.2-发布：聚焦开发者体验，轻松发布你的多集群应用](https://toutiao.io/k/a6gjcmr) ![](assets/new.png)  
-- [2022-02-07-深入浅出-tnpm-rapid-模式---如何比-pnpm-快-10-秒](https://toutiao.io/k/n35ir19) ![](assets/new.png)  
 - [2022-02-07-自我刷新2.5次后工资涨了1.5倍！](https://toutiao.io/k/pycipy6) ![](assets/new.png)  
-- [2022-02-07-腾讯员工分享的-Code-Review经验](https://toutiao.io/k/c6wnna4) ![](assets/new.png)  
 - [2022-02-07-盘古α,-Gopher,-派大星,-GLIDE...18个中美大厂去年搞的大模型工作我们试着总结回顾了一下](https://toutiao.io/k/5hj2vge) ![](assets/new.png)  
+- [2022-02-07-推荐-JVM调优的几种场景（建议收藏）](https://toutiao.io/k/fib82nl) ![](assets/new.png)  
+- [2022-02-07-推荐-阿里专家：如何画出优秀的架构图？](https://toutiao.io/k/92sk26n) ![](assets/new.png)  
 - [2022-02-07-推荐-面试官问:-如何设计一个高并发系统?](https://toutiao.io/k/7hrrplb) ![](assets/new.png)  
 - [2022-02-07-推荐-技术干货｜缓存一致性最佳实践](https://toutiao.io/k/zgmi04u) ![](assets/new.png)  
-- [2022-02-07-推荐-JVM调优的几种场景（建议收藏）](https://toutiao.io/k/fib82nl) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

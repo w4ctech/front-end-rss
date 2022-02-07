@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-02-07 01:09:11。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-02-07 01:55:52。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,7 +68,7 @@
 </summary>
 
 
-- [【武汉肺炎防疫全纪录(财新网)】2022-02-06-最新疫情：全国新冠累计确诊106340例-累计接种新冠疫苗超30.04亿剂次](https://m.caixin.com/m/2022-02-06/101838138.html) 
+- [【武汉肺炎防疫全纪录(财新网)】2022-02-07-2月6日全国新增新冠79例-四省份本土45例](https://m.caixin.com/m/2022-02-07/101838254.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2022-02-06-广西百色：本轮疫情累计确诊43例-第一轮核酸初筛阳性98人](https://m.caixin.com/m/2022-02-06/101838147.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2022-02-06-最新海外疫情：新冠感染超3.92亿-累计接种新冠疫苗超101.63亿剂次](https://m.caixin.com/m/2022-02-06/101838134.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2022-02-06-【境内疫情观察】广西新增6例本土病例（2月5日）](https://database.caixin.com/m/2022-02-06/101838097.html) 
@@ -88,6 +88,10 @@
 - [【武汉肺炎防疫全纪录(财新网)】2022-02-01-德国未实现接种目标-奥地利强制接种疫苗法律生效｜大流行手记（1月31日）](https://m.caixin.com/m/2022-02-01/101837106.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2022-02-01-聚焦｜张文宏：未来抗疫，是努力夺回正常生活的过程](https://opinion.caixin.com/m/2022-02-01/101837206.html) 
 - [【张鑫旭-鑫空间-鑫生活】2022-02-04-HTML-inputmode与iOS-Android软键盘类型测试](https://www.zhangxinxu.com/wordpress/2022/02/html-inputmode-keyboard/) 
+- [【V2EX】2022-02-07-iCloud-Drive-上弄个文件夹存储音乐，为何不显示封面呢？](https://www.v2ex.com/t/832156) 
+- [【V2EX】2022-02-07-今天还贷发现-LPR-降到-4.6%-了](https://www.v2ex.com/t/832155) 
+- [【V2EX】2022-02-07-2022-中国电信天翼云前端团队内推招聘](https://www.v2ex.com/t/832154) 
+- [【V2EX】2022-02-07-又开始新一轮的搬砖，太快了](https://www.v2ex.com/t/832153) 
 - [【V2EX】2022-02-07-新的一年，推荐一个-Redis-可视化管理与监控工具](https://www.v2ex.com/t/832152) 
 - [【V2EX】2022-02-07-最近试了下音乐-app-audiomack](https://www.v2ex.com/t/832151) 
 - [【V2EX】2022-02-07-因为没有赶上高铁，被迫延长假期](https://www.v2ex.com/t/832150) 
@@ -121,9 +125,6 @@
 - [【V2EX】2022-02-06-为-macOS-固定-IPV6-后缀，设置-DDNS-及防火墙](https://www.v2ex.com/t/832110) 
 - [【V2EX】2022-02-06-v-友们，-100-~-200-块左右，可以买到用起来还行的“机械键盘”有哪些呢？](https://www.v2ex.com/t/832109) 
 - [【V2EX】2022-02-06-二手笔记本电脑和-NUC-二选一？](https://www.v2ex.com/t/832108) 
-- [【V2EX】2022-02-06-挑个笔记本有点难啊](https://www.v2ex.com/t/832105) 
-- [【V2EX】2022-02-06-2022-北京冬奥会-24-节气超清图](https://www.v2ex.com/t/832104) 
-- [【V2EX】2022-02-06-迫于情人节-gucci-lv-包包什么渠道便宜?](https://www.v2ex.com/t/832103) 
 - [【技术头条】2022-02-07-微话搭建优质-Web-应用其一-forum.lovejade.cn](https://blogread.cn/news/go.php?idItem=14928&url=https%3A%2F%2Fforum.lovejade.cn%2Fd%2F141-web%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-02-07-Puppeteer-使用分享及注意事项-forum.lovejade.cn](https://blogread.cn/news/go.php?idItem=14927&url=https%3A%2F%2Fforum.lovejade.cn%2Fd%2F145-puppeteer%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-02-07-优质网站同好者周刊（第-51-期）--倾城之链-blog.nicelinks.site](https://blogread.cn/news/go.php?idItem=14926&url=https%3A%2F%2Fblog.nicelinks.site%2Fweekly-051%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

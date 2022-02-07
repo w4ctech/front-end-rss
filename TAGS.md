@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-02-07 01:09:11。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-07 01:55:52。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -343,6 +343,7 @@
 
 
 
+- [【V2EX】2022-中国电信天翼云前端团队内推招聘](https://www.v2ex.com/t/832154)
 - [【V2EX】写了一篇博客，总结了我碰到的欧美科技公司的面试方式和准备方式](https://www.v2ex.com/t/832138)
 - [【技术头条】从面试官角度看一次前端面试经历-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14912&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493183%26amp%3Bidx%3D2%26amp%3Bsn%3D5fa4e2c3d2fe23c944a9e037e1b7aff5%26amp%3Bchksm%3Dfa3f0764cd488e720e4e68527c06873860d0fd73417c8765831c4a5022d541de6fad313a67b3%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【开发者头条】推荐-面试官问:-如何设计一个高并发系统?](https://toutiao.io/k/7hrrplb)
@@ -405,7 +406,7 @@
 
 
 
-- [【武汉肺炎防疫全纪录(财新网)】最新疫情：全国新冠累计确诊106340例-累计接种新冠疫苗超30.04亿剂次](https://m.caixin.com/m/2022-02-06/101838138.html)
+- [【武汉肺炎防疫全纪录(财新网)】2月6日全国新增新冠79例-四省份本土45例](https://m.caixin.com/m/2022-02-07/101838254.html)
 - [【武汉肺炎防疫全纪录(财新网)】广西百色：本轮疫情累计确诊43例-第一轮核酸初筛阳性98人](https://m.caixin.com/m/2022-02-06/101838147.html)
 - [【武汉肺炎防疫全纪录(财新网)】最新海外疫情：新冠感染超3.92亿-累计接种新冠疫苗超101.63亿剂次](https://m.caixin.com/m/2022-02-06/101838134.html)
 - [【武汉肺炎防疫全纪录(财新网)】【境内疫情观察】广西新增6例本土病例（2月5日）](https://database.caixin.com/m/2022-02-06/101838097.html)

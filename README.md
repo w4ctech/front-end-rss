@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-07 23:12:55，:rocket: 更新条数: +1852， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-07 23:21:36，:rocket: 更新条数: +1852， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-02-07-建了一个针对海外华人-IT-移民的-discord-服务器](https://www.v2ex.com/t/832347) ![](assets/new.png)  
 - [2022-02-07-留学毕业去美国湾区当码农年薪十几万美金还是回国去个大厂比如腾讯?](https://www.v2ex.com/t/832346) ![](assets/new.png)  
 - [2022-02-07-Apple-Watch-Series-7-居然没有疏油层？](https://www.v2ex.com/t/832345) ![](assets/new.png)  
 - [2022-02-07-广州有没有线下聚会/活动可以认识优质单身男性？](https://www.v2ex.com/t/832344) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-02-07-Oracle-免费的云主机内存为啥-16G，不是-1G-吗](https://www.v2ex.com/t/832325) ![](assets/new.png)  
 - [2022-02-07-请问有了解"深圳金融科技研究院"数字化货币研究所的吗?拿了-offer,不知道有没有坑..](https://www.v2ex.com/t/832324) ![](assets/new.png)  
 - [2022-02-07-分享一个纯异步-MySQL-客户端](https://www.v2ex.com/t/832323) ![](assets/new.png)  
-- [2022-02-07-视频通话对比：运营商、微信、facetime](https://www.v2ex.com/t/832322) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -564,9 +564,9 @@
 - [2022-02-07-跨域了？-装个插件就够了！](https://toutiao.io/k/v293cwf) ![](assets/new.png)  
 - [2022-02-07-Go-泛型变更：约束太丑了，先移动到-x/exp-做实验性功能](https://toutiao.io/k/5to3aln) ![](assets/new.png)  
 - [2022-02-07-推荐-面试官问:-如何设计一个高并发系统?](https://toutiao.io/k/7hrrplb) ![](assets/new.png)  
-- [2022-02-07-推荐-原来这才是动态代理！！！](https://toutiao.io/k/ectyif9) ![](assets/new.png)  
-- [2022-02-07-推荐-JVM调优的几种场景（建议收藏）](https://toutiao.io/k/fib82nl) ![](assets/new.png)  
 - [2022-02-07-推荐-阿里专家：如何画出优秀的架构图？](https://toutiao.io/k/92sk26n) ![](assets/new.png)  
+- [2022-02-07-推荐-JVM调优的几种场景（建议收藏）](https://toutiao.io/k/fib82nl) ![](assets/new.png)  
+- [2022-02-07-推荐-原来这才是动态代理！！！](https://toutiao.io/k/ectyif9) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

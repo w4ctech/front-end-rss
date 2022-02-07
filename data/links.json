@@ -9103,6 +9103,21 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "arm 版 win 中，财务的开票软件无法使用了，估计是金税盘的驱动不认。",
+        "link": "https://www.v2ex.com/t/832265",
+        "date": "2022-02-07"
+      },
+      {
+        "title": "亚马逊中国无法登录",
+        "link": "https://www.v2ex.com/t/832264",
+        "date": "2022-02-07"
+      },
+      {
+        "title": "Mac 勾选了唤醒以供网络访问，外置显示器就会一直休眠、唤醒、休眠、唤醒。",
+        "link": "https://www.v2ex.com/t/832263",
+        "date": "2022-02-07"
+      },
+      {
         "title": "二本计算机职业规划",
         "link": "https://www.v2ex.com/t/832262",
         "date": "2022-02-07"
@@ -9281,16 +9296,6 @@
         "title": "斗鸡开色相头",
         "link": "https://www.v2ex.com/t/832216",
         "date": "2022-02-07"
-      },
-      {
-        "title": "[长期合作] 开发（求购）交友类 APP",
-        "link": "https://www.v2ex.com/t/832215",
-        "date": "2022-02-07"
-      },
-      {
-        "title": "请问谷歌自动填充服务，为什么一直用不了？",
-        "link": "https://www.v2ex.com/t/832214",
-        "date": "2022-02-07"
       }
     ]
   },
@@ -9447,13 +9452,18 @@
         "date": "2022-02-07"
       },
       {
+        "title": "Go 泛型变更：约束太丑了，先移动到 x/exp 做实验性功能",
+        "link": "https://toutiao.io/k/5to3aln",
+        "date": "2022-02-07"
+      },
+      {
         "title": "跨域了？ 装个插件就够了！",
         "link": "https://toutiao.io/k/v293cwf",
         "date": "2022-02-07"
       },
       {
-        "title": "Go 泛型变更：约束太丑了，先移动到 x/exp 做实验性功能",
-        "link": "https://toutiao.io/k/5to3aln",
+        "title": "[推荐] 阿里专家：如何画出优秀的架构图？",
+        "link": "https://toutiao.io/k/92sk26n",
         "date": "2022-02-07"
       },
       {
@@ -9462,18 +9472,13 @@
         "date": "2022-02-07"
       },
       {
-        "title": "[推荐] JVM调优的几种场景（建议收藏）",
-        "link": "https://toutiao.io/k/fib82nl",
-        "date": "2022-02-07"
-      },
-      {
         "title": "[推荐] 面试官问: 如何设计一个高并发系统?",
         "link": "https://toutiao.io/k/7hrrplb",
         "date": "2022-02-07"
       },
       {
-        "title": "[推荐] 阿里专家：如何画出优秀的架构图？",
-        "link": "https://toutiao.io/k/92sk26n",
+        "title": "[推荐] JVM调优的几种场景（建议收藏）",
+        "link": "https://toutiao.io/k/fib82nl",
         "date": "2022-02-07"
       },
       {

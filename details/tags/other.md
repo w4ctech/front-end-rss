@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-02-07 22:20:57。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-07 22:38:00。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1801,6 +1801,6 @@
 - [2022-02-07-KubeVela-v1.2-发布：聚焦开发者体验，轻松发布你的多集群应用](https://toutiao.io/k/a6gjcmr) 
 - [2022-02-07-盘古α,-Gopher,-派大星,-GLIDE...18个中美大厂去年搞的大模型工作我们试着总结回顾了一下](https://toutiao.io/k/5hj2vge) 
 - [2022-02-07-Go-泛型变更：约束太丑了，先移动到-x/exp-做实验性功能](https://toutiao.io/k/5to3aln) 
-- [2022-02-07-推荐-原来这才是动态代理！！！](https://toutiao.io/k/ectyif9) 
 - [2022-02-07-推荐-阿里专家：如何画出优秀的架构图？](https://toutiao.io/k/92sk26n) 
 - [2022-02-07-推荐-JVM调优的几种场景（建议收藏）](https://toutiao.io/k/fib82nl) 
+- [2022-02-07-推荐-原来这才是动态代理！！！](https://toutiao.io/k/ectyif9) 

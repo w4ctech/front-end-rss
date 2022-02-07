@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-02-07 02:48:53。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-07 02:55:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1743,6 +1743,8 @@
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2022-02-04-HTML-inputmode与iOS-Android软键盘类型测试](https://www.zhangxinxu.com/wordpress/2022/02/html-inputmode-keyboard/) 
 - [2021-11-14-密码强度效果最佳实现一定是HTML-meter元素](https://www.zhangxinxu.com/wordpress/2021/11/html-meter-password/) 
+- [2022-02-07-请问有用过摔倒检测的吗？来推荐一下吧](https://www.v2ex.com/t/832176) 
+- [2022-02-07-我骗了我爹-20-多年](https://www.v2ex.com/t/832175) 
 - [2022-02-07-觉得自己中招了怎么办?](https://www.v2ex.com/t/832174) 
 - [2022-02-07-朋友很少，结婚的时候找不到伴郎是不是超尴尬](https://www.v2ex.com/t/832171) 
 - [2022-02-07-各位开工利是都领了多少哇](https://www.v2ex.com/t/832169) 
@@ -1795,5 +1797,5 @@
 - [2022-02-07-KubeVela-v1.2-发布：聚焦开发者体验，轻松发布你的多集群应用](https://toutiao.io/k/a6gjcmr) 
 - [2022-02-07-自我刷新2.5次后工资涨了1.5倍！](https://toutiao.io/k/pycipy6) 
 - [2022-02-07-盘古α,-Gopher,-派大星,-GLIDE...18个中美大厂去年搞的大模型工作我们试着总结回顾了一下](https://toutiao.io/k/5hj2vge) 
-- [2022-02-07-推荐-JVM调优的几种场景（建议收藏）](https://toutiao.io/k/fib82nl) 
 - [2022-02-07-推荐-阿里专家：如何画出优秀的架构图？](https://toutiao.io/k/92sk26n) 
+- [2022-02-07-推荐-JVM调优的几种场景（建议收藏）](https://toutiao.io/k/fib82nl) 

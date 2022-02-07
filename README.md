@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-07 00:40:44，:rocket: 更新条数: +1835， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-07 01:09:11，:rocket: 更新条数: +1838， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,12 @@
 </summary>
 
 
+- [2022-02-07-新的一年，推荐一个-Redis-可视化管理与监控工具](https://www.v2ex.com/t/832152) ![](assets/new.png)  
+- [2022-02-07-最近试了下音乐-app-audiomack](https://www.v2ex.com/t/832151) ![](assets/new.png)  
+- [2022-02-07-因为没有赶上高铁，被迫延长假期](https://www.v2ex.com/t/832150) ![](assets/new.png)  
+- [2022-02-07-Alibaba-Cloud-AI-Coding-Assistant](https://www.v2ex.com/t/832149) ![](assets/new.png)  
+- [2022-02-07-PCA-影响机器学习的可解释性吧？](https://www.v2ex.com/t/832148) ![](assets/new.png)  
+- [2022-02-07-周末和硅谷某些厂商聊了一下-DEVOPS-和-DEV-ONCALL。他们觉得苦不堪言，但是这也是-DEVOPS-自己作出来的](https://www.v2ex.com/t/832147) ![](assets/new.png)  
 - [2022-02-07-知乎可真有你的啊，不注册站内搜索都不给用了](https://www.v2ex.com/t/832146) ![](assets/new.png)  
 - [2022-02-06-iQDNS---五湖四海皆可析的稳定加密-DNS](https://www.v2ex.com/t/832145) ![](assets/new.png)  
 - [2022-02-06-百度为何一点节操都没有，搞中间人。](https://www.v2ex.com/t/832144) ![](assets/new.png)  
@@ -505,12 +511,6 @@
 - [2022-02-06-怎么爬取在豆瓣小组被赞同了多少次？](https://www.v2ex.com/t/832131) ![](assets/new.png)  
 - [2022-02-06-求推荐一些穿搭的博主，或者-App](https://www.v2ex.com/t/832130) ![](assets/new.png)  
 - [2022-02-06-关于境外卡漫游的数据安全问题](https://www.v2ex.com/t/832129) ![](assets/new.png)  
-- [2022-02-06-AI-写代码比我还厉害。](https://www.v2ex.com/t/832128) ![](assets/new.png)  
-- [2022-02-06-编程思维看佳明&悦跑圈](https://www.v2ex.com/t/832127) ![](assets/new.png)  
-- [2022-02-06-VLC3.0.12-在-windows-上更新相关问题](https://www.v2ex.com/t/832123) ![](assets/new.png)  
-- [2022-02-06-为什么前端圈那么热衷开发新框架？](https://www.v2ex.com/t/832122) ![](assets/new.png)  
-- [2022-02-06-大佬们，威联通-TS-451D-和群晖-DS-420+选哪个](https://www.v2ex.com/t/832121) ![](assets/new.png)  
-- [2022-02-06-没想到安卓-VLC-能直接播放-SMB-共享的蓝光-ISO](https://www.v2ex.com/t/832120) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -556,8 +556,8 @@
 - [2022-02-07-徐尧：如何搭建好的数据指标体系？](https://toutiao.io/k/w9ynkus) ![](assets/new.png)  
 - [2022-02-07-你知道的Go切片扩容机制可能是错的](https://toutiao.io/k/4e7rhoy) ![](assets/new.png)  
 - [2022-02-07-树莓派系统推出64位版本，更好支持4GB内存以上硬件](https://toutiao.io/k/vrdgebv) ![](assets/new.png)  
-- [2022-02-07-KubeVela-v1.2-发布：聚焦开发者体验，轻松发布你的多集群应用](https://toutiao.io/k/a6gjcmr) ![](assets/new.png)  
 - [2022-02-07-深入浅出-tnpm-rapid-模式---如何比-pnpm-快-10-秒](https://toutiao.io/k/n35ir19) ![](assets/new.png)  
+- [2022-02-07-KubeVela-v1.2-发布：聚焦开发者体验，轻松发布你的多集群应用](https://toutiao.io/k/a6gjcmr) ![](assets/new.png)  
 - [2022-02-07-推荐-JVM调优的几种场景（建议收藏）](https://toutiao.io/k/fib82nl) ![](assets/new.png)  
 - [2022-02-07-推荐-面试官问:-如何设计一个高并发系统?](https://toutiao.io/k/7hrrplb) ![](assets/new.png)  
 - [2022-02-07-推荐-技术干货｜缓存一致性最佳实践](https://toutiao.io/k/zgmi04u) ![](assets/new.png)  

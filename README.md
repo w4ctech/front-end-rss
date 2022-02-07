@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-07 04:27:10，:rocket: 更新条数: +1843， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-07 04:47:13，:rocket: 更新条数: +1844， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-02-07-打算裸辞,请问北京社保是否有必要续缴](https://www.v2ex.com/t/832209) ![](assets/new.png)  
+- [2022-02-07-人在杭州，是否要回重庆？](https://www.v2ex.com/t/832208) ![](assets/new.png)  
 - [2022-02-07-Edge-的安全增强功能真的有效果吗？原理是什么？真的会比-Brave-等关注隐私的浏览器安全吗？](https://www.v2ex.com/t/832206) ![](assets/new.png)  
 - [2022-02-07-ZT最好的-ps1-模拟器-duckstation，已经停止开发](https://www.v2ex.com/t/832205) ![](assets/new.png)  
 - [2022-02-07-有没有基于-Python-的开来源课程系统](https://www.v2ex.com/t/832204) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-02-07-春节出行，你觉得高德好用还是百度好用？](https://www.v2ex.com/t/832188) ![](assets/new.png)  
 - [2022-02-07-国产私有云有什么推荐的](https://www.v2ex.com/t/832187) ![](assets/new.png)  
 - [2022-02-07-打算年后跑路的同学行动起来了嘛？](https://www.v2ex.com/t/832186) ![](assets/new.png)  
-- [2022-02-07-大家有用树莓派做-openwrt-嘛](https://www.v2ex.com/t/832185) ![](assets/new.png)  
-- [2022-02-07-6-年经验，求一枚杭州-web-前端工作，或者远程的,期望薪资税后-24k](https://www.v2ex.com/t/832184) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -559,10 +559,11 @@
 - [2022-02-07-KubeVela-v1.2-发布：聚焦开发者体验，轻松发布你的多集群应用](https://toutiao.io/k/a6gjcmr) ![](assets/new.png)  
 - [2022-02-07-自我刷新2.5次后工资涨了1.5倍！](https://toutiao.io/k/pycipy6) ![](assets/new.png)  
 - [2022-02-07-盘古α,-Gopher,-派大星,-GLIDE...18个中美大厂去年搞的大模型工作我们试着总结回顾了一下](https://toutiao.io/k/5hj2vge) ![](assets/new.png)  
+- [2022-02-07-推荐-阿里专家：如何画出优秀的架构图？](https://toutiao.io/k/92sk26n) ![](assets/new.png)  
 - [2022-02-07-推荐-技术干货｜缓存一致性最佳实践](https://toutiao.io/k/zgmi04u) ![](assets/new.png)  
+- [2022-02-07-推荐-原来这才是动态代理！！！](https://toutiao.io/k/ectyif9) ![](assets/new.png)  
 - [2022-02-07-推荐-JVM调优的几种场景（建议收藏）](https://toutiao.io/k/fib82nl) ![](assets/new.png)  
 - [2022-02-07-推荐-面试官问:-如何设计一个高并发系统?](https://toutiao.io/k/7hrrplb) ![](assets/new.png)  
-- [2022-02-07-推荐-阿里专家：如何画出优秀的架构图？](https://toutiao.io/k/92sk26n) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

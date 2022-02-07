@@ -9113,6 +9113,16 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "notion-md-gen：一个将 notion 页面转换成 markdown 文档的工具，支持所有静态博客。",
+        "link": "https://www.v2ex.com/t/832331",
+        "date": "2022-02-07"
+      },
+      {
+        "title": "[合肥][ 前端 ][Nyquist Data] WLB+双休+带薪年假",
+        "link": "https://www.v2ex.com/t/832330",
+        "date": "2022-02-07"
+      },
+      {
         "title": "迫于看国外技术文档看不懂,求推荐靠谱的英语培训机构(一线城市的)",
         "link": "https://www.v2ex.com/t/832329",
         "date": "2022-02-07"
@@ -9286,16 +9296,6 @@
         "title": "Twitter 有什么更高级的屏蔽关键词的方法么？",
         "link": "https://www.v2ex.com/t/832285",
         "date": "2022-02-07"
-      },
-      {
-        "title": "Loon 有人用过吗",
-        "link": "https://www.v2ex.com/t/832283",
-        "date": "2022-02-07"
-      },
-      {
-        "title": "杭州][外企][Microstrategy 微策略]社招/校招 + 内推 + 双休 + 年假多 + 周一在家办公",
-        "link": "https://www.v2ex.com/t/832282",
-        "date": "2022-02-07"
       }
     ]
   },
@@ -9462,8 +9462,8 @@
         "date": "2022-02-07"
       },
       {
-        "title": "[推荐] 技术干货｜缓存一致性最佳实践",
-        "link": "https://toutiao.io/k/zgmi04u",
+        "title": "[推荐] 面试官问: 如何设计一个高并发系统?",
+        "link": "https://toutiao.io/k/7hrrplb",
         "date": "2022-02-07"
       },
       {
@@ -9472,13 +9472,13 @@
         "date": "2022-02-07"
       },
       {
-        "title": "[推荐] JVM调优的几种场景（建议收藏）",
-        "link": "https://toutiao.io/k/fib82nl",
+        "title": "[推荐] 技术干货｜缓存一致性最佳实践",
+        "link": "https://toutiao.io/k/zgmi04u",
         "date": "2022-02-07"
       },
       {
-        "title": "[推荐] 面试官问: 如何设计一个高并发系统?",
-        "link": "https://toutiao.io/k/7hrrplb",
+        "title": "[推荐] JVM调优的几种场景（建议收藏）",
+        "link": "https://toutiao.io/k/fib82nl",
         "date": "2022-02-07"
       },
       {

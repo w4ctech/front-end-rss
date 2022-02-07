@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-02-07 15:56:05。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-07 16:16:55。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -281,7 +281,6 @@
 - [【V2EX】日语-urlencode-问题？](https://www.v2ex.com/t/832309)
 - [【V2EX】FireFox-不能顺利自动切换网页的深色/明亮模式](https://www.v2ex.com/t/832298)
 - [【开发者头条】跨域了？-装个插件就够了！](https://toutiao.io/k/v293cwf)
-- [【开发者头条】推荐-技术干货｜缓存一致性最佳实践](https://toutiao.io/k/zgmi04u)
 - [......【查看更多】......](./details/tags/browser.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

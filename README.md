@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-07 07:54:29，:rocket: 更新条数: +1848， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-07 08:15:14，:rocket: 更新条数: +1848， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -66,6 +66,7 @@
 
 
 - [2022-02-07-2月6日全国新增新冠79例-四省份本土45例](https://m.caixin.com/m/2022-02-07/101838254.html) ![](assets/new.png)  
+- [2022-02-07-【境内疫情观察】广西新增37例本土病例（2月6日）](https://database.caixin.com/m/2022-02-07/101838439.html) ![](assets/new.png)  
 - [2022-02-07-渥太华进入紧急状态-韩国累计病例破百万｜大流行手记（2月6日）](https://m.caixin.com/m/2022-02-07/101838282.html) ![](assets/new.png)  
 - [2022-02-06-广西百色：本轮疫情累计确诊43例-第一轮核酸初筛阳性98人](https://m.caixin.com/m/2022-02-06/101838147.html) ![](assets/new.png)  
 - [2022-02-06-最新海外疫情：新冠感染超3.92亿-累计接种新冠疫苗超101.63亿剂次](https://m.caixin.com/m/2022-02-06/101838134.html) ![](assets/new.png)  
@@ -84,7 +85,6 @@
 - [2022-02-02-美国FDA批准第二款mRNA疫苗-挪威取消大部分限制措施｜大流行手记（2月1日）](https://m.caixin.com/m/2022-02-02/101837258.html) ![](assets/new.png)  
 - [2022-02-01-【境内疫情观察】全国累计接种新冠疫苗逾30亿剂次（1月31日）](https://database.caixin.com/m/2022-02-01/101837162.html) ![](assets/new.png)  
 - [2022-02-01-德国未实现接种目标-奥地利强制接种疫苗法律生效｜大流行手记（1月31日）](https://m.caixin.com/m/2022-02-01/101837106.html) ![](assets/new.png)  
-- [2022-02-01-聚焦｜张文宏：未来抗疫，是努力夺回正常生活的过程](https://opinion.caixin.com/m/2022-02-01/101837206.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -491,6 +491,9 @@
 </summary>
 
 
+- [2022-02-07-祝各位-V-友新年快乐，万事如意，虎年大吉吧！鄙人来分享一个用-go+vue-开发的用户行为分析系统](https://www.v2ex.com/t/832255) ![](assets/new.png)  
+- [2022-02-07-在重庆-准备买房-的-V-友看过来](https://www.v2ex.com/t/832254) ![](assets/new.png)  
+- [2022-02-07-成都&北京-前端-Moka-团队招聘前端-15K-~-40K-*-15](https://www.v2ex.com/t/832253) ![](assets/new.png)  
 - [2022-02-07-夏普电视机怎么样](https://www.v2ex.com/t/832252) ![](assets/new.png)  
 - [2022-02-07-12-岁学编程-6-年是怎样一种体验？](https://www.v2ex.com/t/832249) ![](assets/new.png)  
 - [2022-02-07-traefik-反代用了-3-个多月了，感觉不太稳定。](https://www.v2ex.com/t/832248) ![](assets/new.png)  
@@ -508,9 +511,6 @@
 - [2022-02-07-有没有用防蓝光眼镜的-?-到底是不是智商税,每天看电脑时长超过六个小时](https://www.v2ex.com/t/832233) ![](assets/new.png)  
 - [2022-02-07-立个-22-年计划吧](https://www.v2ex.com/t/832231) ![](assets/new.png)  
 - [2022-02-07-HomePod-mini-为何这么难用？](https://www.v2ex.com/t/832229) ![](assets/new.png)  
-- [2022-02-07-为何要在-mock.go-上做文档注释](https://www.v2ex.com/t/832228) ![](assets/new.png)  
-- [2022-02-07-为什么同一个-WiFi-下，手机可以访问-v2，电脑却无法访问？而且只有一台电脑无法访问](https://www.v2ex.com/t/832227) ![](assets/new.png)  
-- [2022-02-07-以前微软同事写了推荐信，我彻底蒙逼（附带小广告）](https://www.v2ex.com/t/832225) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -561,13 +561,13 @@
 - [2022-02-07-盘古α,-Gopher,-派大星,-GLIDE...18个中美大厂去年搞的大模型工作我们试着总结回顾了一下](https://toutiao.io/k/5hj2vge) ![](assets/new.png)  
 - [2022-02-07-【拥有新时代的通信协议，引领云原生迈向更高的舞台】解密Dubbo3从微服务升华到云原生](https://toutiao.io/k/7e2kvuc) ![](assets/new.png)  
 - [2022-02-07-真香啊！接私活必备的-N-个开源项目（附源码合集第一期）！收藏走起！](https://toutiao.io/k/he7umju) ![](assets/new.png)  
-- [2022-02-07-Go-泛型变更：约束太丑了，先移动到-x/exp-做实验性功能](https://toutiao.io/k/5to3aln) ![](assets/new.png)  
 - [2022-02-07-跨域了？-装个插件就够了！](https://toutiao.io/k/v293cwf) ![](assets/new.png)  
-- [2022-02-07-推荐-JVM调优的几种场景（建议收藏）](https://toutiao.io/k/fib82nl) ![](assets/new.png)  
+- [2022-02-07-Go-泛型变更：约束太丑了，先移动到-x/exp-做实验性功能](https://toutiao.io/k/5to3aln) ![](assets/new.png)  
 - [2022-02-07-推荐-阿里专家：如何画出优秀的架构图？](https://toutiao.io/k/92sk26n) ![](assets/new.png)  
-- [2022-02-07-推荐-原来这才是动态代理！！！](https://toutiao.io/k/ectyif9) ![](assets/new.png)  
-- [2022-02-07-推荐-技术干货｜缓存一致性最佳实践](https://toutiao.io/k/zgmi04u) ![](assets/new.png)  
 - [2022-02-07-推荐-面试官问:-如何设计一个高并发系统?](https://toutiao.io/k/7hrrplb) ![](assets/new.png)  
+- [2022-02-07-推荐-原来这才是动态代理！！！](https://toutiao.io/k/ectyif9) ![](assets/new.png)  
+- [2022-02-07-推荐-JVM调优的几种场景（建议收藏）](https://toutiao.io/k/fib82nl) ![](assets/new.png)  
+- [2022-02-07-推荐-技术干货｜缓存一致性最佳实践](https://toutiao.io/k/zgmi04u) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

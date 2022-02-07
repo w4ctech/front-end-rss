@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-02-07 02:55:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-07 03:12:43。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1743,6 +1743,7 @@
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2022-02-04-HTML-inputmode与iOS-Android软键盘类型测试](https://www.zhangxinxu.com/wordpress/2022/02/html-inputmode-keyboard/) 
 - [2021-11-14-密码强度效果最佳实现一定是HTML-meter元素](https://www.zhangxinxu.com/wordpress/2021/11/html-meter-password/) 
+- [2022-02-07-发现急诊医生比门诊医生厉害很多，是我的错觉吗？](https://www.v2ex.com/t/832179) 
 - [2022-02-07-请问有用过摔倒检测的吗？来推荐一下吧](https://www.v2ex.com/t/832176) 
 - [2022-02-07-我骗了我爹-20-多年](https://www.v2ex.com/t/832175) 
 - [2022-02-07-觉得自己中招了怎么办?](https://www.v2ex.com/t/832174) 
@@ -1774,8 +1775,6 @@
 - [2022-02-06-请帮忙推荐一款办公人体工学右手鼠标](https://www.v2ex.com/t/832133) 
 - [2022-02-06-怎么爬取在豆瓣小组被赞同了多少次？](https://www.v2ex.com/t/832131) 
 - [2022-02-06-求推荐一些穿搭的博主，或者-App](https://www.v2ex.com/t/832130) 
-- [2022-02-06-AI-写代码比我还厉害。](https://www.v2ex.com/t/832128) 
-- [2022-02-06-编程思维看佳明&悦跑圈](https://www.v2ex.com/t/832127) 
 - [2022-02-07-微话搭建优质-Web-应用其一-forum.lovejade.cn](https://blogread.cn/news/go.php?idItem=14928&url=https%3A%2F%2Fforum.lovejade.cn%2Fd%2F141-web%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-02-07-Puppeteer-使用分享及注意事项-forum.lovejade.cn](https://blogread.cn/news/go.php?idItem=14927&url=https%3A%2F%2Fforum.lovejade.cn%2Fd%2F145-puppeteer%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-02-07-优质网站同好者周刊（第-51-期）--倾城之链-blog.nicelinks.site](https://blogread.cn/news/go.php?idItem=14926&url=https%3A%2F%2Fblog.nicelinks.site%2Fweekly-051%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

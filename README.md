@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-07 05:39:43，:rocket: 更新条数: +1843， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-07 05:54:22，:rocket: 更新条数: +1845， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,11 @@
 </summary>
 
 
+- [2022-02-07-以前微软同事写了推荐信，我彻底蒙逼（附带小广告）](https://www.v2ex.com/t/832225) ![](assets/new.png)  
+- [2022-02-07-各位-Mac-用户，能不能帮忙测试下苹果的系统](https://www.v2ex.com/t/832224) ![](assets/new.png)  
+- [2022-02-07-写代码的时候看不懂产品经理的-PRD-怎么办，很犯愁](https://www.v2ex.com/t/832223) ![](assets/new.png)  
+- [2022-02-07-爱奇艺+京东-Plus-两个年会员一起-123-块](https://www.v2ex.com/t/832222) ![](assets/new.png)  
+- [2022-02-07-广州］［前端］-4-年前端，想找份远程或者在广州的工作](https://www.v2ex.com/t/832220) ![](assets/new.png)  
 - [2022-02-07-请问-Linux-下无线网卡时不时掉线有解决方法么？](https://www.v2ex.com/t/832219) ![](assets/new.png)  
 - [2022-02-07-大家平时都在哪里看国家一些比较重大的决策决定的](https://www.v2ex.com/t/832218) ![](assets/new.png)  
 - [2022-02-07-vscode-终于出右侧边栏了](https://www.v2ex.com/t/832217) ![](assets/new.png)  
@@ -506,11 +511,6 @@
 - [2022-02-07-有没有基于-Python-的开来源课程系统](https://www.v2ex.com/t/832204) ![](assets/new.png)  
 - [2022-02-07-杭州外企微策略-不加班，年后继续招人，前端，测试，-Java-，-C++，-Android，-iOS，-Cloud-工程师-18-~-35K-13-薪，奖金另算](https://www.v2ex.com/t/832203) ![](assets/new.png)  
 - [2022-02-07-使用-1.1.1.1-的-DNS-over-HTTPS（DOH）把国内的-IP-解析到国外,有什么没有方法可以防止被污染并且正确解析?](https://www.v2ex.com/t/832202) ![](assets/new.png)  
-- [2022-02-07-安卓-ZipFile-打开大文件似乎有问题](https://www.v2ex.com/t/832201) ![](assets/new.png)  
-- [2022-02-07-各种会员激活码](https://www.v2ex.com/t/832200) ![](assets/new.png)  
-- [2022-02-07-上海北京Airwallex-E-轮-SaaS+Fintech-独角兽内推，各岗位都有](https://www.v2ex.com/t/832198) ![](assets/new.png)  
-- [2022-02-07-iOS-是否有好用的同步部分相册的方案？](https://www.v2ex.com/t/832196) ![](assets/new.png)  
-- [2022-02-07-做跨境电商的一个后辈想转行-IT，想找个培训班趁着还算年轻-25-岁慢慢入-IT-坑，选前端还是-Java-，求大神指点?](https://www.v2ex.com/t/832195) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -559,11 +559,11 @@
 - [2022-02-07-自我刷新2.5次后工资涨了1.5倍！](https://toutiao.io/k/pycipy6) ![](assets/new.png)  
 - [2022-02-07-KubeVela-v1.2-发布：聚焦开发者体验，轻松发布你的多集群应用](https://toutiao.io/k/a6gjcmr) ![](assets/new.png)  
 - [2022-02-07-盘古α,-Gopher,-派大星,-GLIDE...18个中美大厂去年搞的大模型工作我们试着总结回顾了一下](https://toutiao.io/k/5hj2vge) ![](assets/new.png)  
-- [2022-02-07-推荐-技术干货｜缓存一致性最佳实践](https://toutiao.io/k/zgmi04u) ![](assets/new.png)  
-- [2022-02-07-推荐-阿里专家：如何画出优秀的架构图？](https://toutiao.io/k/92sk26n) ![](assets/new.png)  
-- [2022-02-07-推荐-原来这才是动态代理！！！](https://toutiao.io/k/ectyif9) ![](assets/new.png)  
-- [2022-02-07-推荐-面试官问:-如何设计一个高并发系统?](https://toutiao.io/k/7hrrplb) ![](assets/new.png)  
 - [2022-02-07-推荐-JVM调优的几种场景（建议收藏）](https://toutiao.io/k/fib82nl) ![](assets/new.png)  
+- [2022-02-07-推荐-面试官问:-如何设计一个高并发系统?](https://toutiao.io/k/7hrrplb) ![](assets/new.png)  
+- [2022-02-07-推荐-技术干货｜缓存一致性最佳实践](https://toutiao.io/k/zgmi04u) ![](assets/new.png)  
+- [2022-02-07-推荐-原来这才是动态代理！！！](https://toutiao.io/k/ectyif9) ![](assets/new.png)  
+- [2022-02-07-推荐-阿里专家：如何画出优秀的架构图？](https://toutiao.io/k/92sk26n) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-08 01:11:28，:rocket: 更新条数: +1845， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-08 01:57:47，:rocket: 更新条数: +1841， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -65,7 +65,7 @@
 </summary>
 
 
-- [2022-02-07-最新疫情：全国新冠累计确诊106419例-累计接种新冠疫苗超30.06亿剂次](https://m.caixin.com/m/2022-02-07/101838645.html) ![](assets/new.png)  
+- [2022-02-08-2月7日全国新增新冠105例-本土广西64例天津1例](https://m.caixin.com/m/2022-02-08/101838731.html) ![](assets/new.png)  
 - [2022-02-07-广西百色三日累计确诊99例-2例为奥密克戎关联深圳](https://m.caixin.com/m/2022-02-07/101838632.html) ![](assets/new.png)  
 - [2022-02-07-香港日增614宗病例再创新高-密切接触者将居家隔离](https://m.caixin.com/m/2022-02-07/101838615.html) ![](assets/new.png)  
 - [2022-02-07-最新海外疫情：新冠感染超3.94亿-累计接种新冠疫苗超101.88亿剂次](https://m.caixin.com/m/2022-02-07/101838649.html) ![](assets/new.png)  
@@ -491,7 +491,13 @@
 </summary>
 
 
-- [2022-02-08-迫于马上情人节了，大*兄弟们都送什么给女朋友](https://www.v2ex.com/t/832353) ![](assets/new.png)  
+- [2022-02-08-网页上一个按钮的点击，如何用-js-判断为真人点击？](https://www.v2ex.com/t/832362) ![](assets/new.png)  
+- [2022-02-08-遭遇野蛮快递点，如何维权？](https://www.v2ex.com/t/832361) ![](assets/new.png)  
+- [2022-02-08-春节后开工，你们的开工-money-是多少？](https://www.v2ex.com/t/832360) ![](assets/new.png)  
+- [2022-02-08-MBP-2017-款，不插电源经常出现熄屏，电池电量充足，但显示电量不足](https://www.v2ex.com/t/832359) ![](assets/new.png)  
+- [2022-02-08-wireguard-android-客户端怎么不好使呢](https://www.v2ex.com/t/832358) ![](assets/new.png)  
+- [2022-02-08-truenas.com-被网警误报为诈骗](https://www.v2ex.com/t/832355) ![](assets/new.png)  
+- [2022-02-08-腾讯云春节特惠香港双核-2G-一年-328-内地双核-4G8M-三年仅-150-四核-8G10M-三年-768-四核-16G12M-三年-1098新老身份都可上车良心云海外机器也有活动海外...](https://www.v2ex.com/t/832354) ![](assets/new.png)  
 - [2022-02-08-网络安全产业未来前景如何？](https://www.v2ex.com/t/832351) ![](assets/new.png)  
 - [2022-02-08-国外远程区块链双语-GameFi-项目全球招聘技术](https://www.v2ex.com/t/832349) ![](assets/new.png)  
 - [2022-02-08-MBP-14-16+512-硬盘大量写入-36TB，-ScreenTimeAgent-这个进程是主要写入大户，如何解决](https://www.v2ex.com/t/832348) ![](assets/new.png)  
@@ -505,12 +511,6 @@
 - [2022-02-07-新手应该买啥车，老司机有啥分享的吗](https://www.v2ex.com/t/832338) ![](assets/new.png)  
 - [2022-02-07-入职新公司后上班如上坟](https://www.v2ex.com/t/832337) ![](assets/new.png)  
 - [2022-02-07-1Password-家庭开车](https://www.v2ex.com/t/832336) ![](assets/new.png)  
-- [2022-02-07-二本大三狗，有点迷茫](https://www.v2ex.com/t/832335) ![](assets/new.png)  
-- [2022-02-07-家用路由器开启-IPV6，-wifi-访问变慢甚至打不开网页？](https://www.v2ex.com/t/832334) ![](assets/new.png)  
-- [2022-02-07-notion-md-gen：一个将-notion-页面转换成-markdown-文档的工具，支持所有静态博客。](https://www.v2ex.com/t/832331) ![](assets/new.png)  
-- [2022-02-07-合肥-前端-Nyquist-Data-WLB+双休+带薪年假](https://www.v2ex.com/t/832330) ![](assets/new.png)  
-- [2022-02-07-迫于看国外技术文档看不懂,求推荐靠谱的英语培训机构一线城市的](https://www.v2ex.com/t/832329) ![](assets/new.png)  
-- [2022-02-07-windows-下，有什么好的桌面日历软件么（可以贴在桌面上，替代软媒云日历那种）](https://www.v2ex.com/t/832328) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -558,10 +558,10 @@
 - [2022-02-08-赵学敏：京东商品图谱构建与实体对齐](https://toutiao.io/k/nrwlirv) ![](assets/new.png)  
 - [2022-02-08-递归调用uGo函数](https://toutiao.io/k/hetjoek) ![](assets/new.png)  
 - [2022-02-08-136-python|第八部分：并发网络编程（一）网络编程上](https://toutiao.io/k/x1af9rz) ![](assets/new.png)  
-- [2022-02-08-推荐-阿里专家：如何画出优秀的架构图？](https://toutiao.io/k/92sk26n) ![](assets/new.png)  
-- [2022-02-08-推荐-JVM调优的几种场景（建议收藏）](https://toutiao.io/k/fib82nl) ![](assets/new.png)  
 - [2022-02-08-推荐-原来这才是动态代理！！！](https://toutiao.io/k/ectyif9) ![](assets/new.png)  
+- [2022-02-08-推荐-阿里专家：如何画出优秀的架构图？](https://toutiao.io/k/92sk26n) ![](assets/new.png)  
 - [2022-02-08-推荐-面试官问:-如何设计一个高并发系统?](https://toutiao.io/k/7hrrplb) ![](assets/new.png)  
+- [2022-02-08-推荐-JVM调优的几种场景（建议收藏）](https://toutiao.io/k/fib82nl) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

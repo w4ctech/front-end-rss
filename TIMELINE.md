@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-02-08 01:11:28。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-02-08 01:57:48。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,7 +68,7 @@
 </summary>
 
 
-- [【武汉肺炎防疫全纪录(财新网)】2022-02-07-最新疫情：全国新冠累计确诊106419例-累计接种新冠疫苗超30.06亿剂次](https://m.caixin.com/m/2022-02-07/101838645.html) 
+- [【武汉肺炎防疫全纪录(财新网)】2022-02-08-2月7日全国新增新冠105例-本土广西64例天津1例](https://m.caixin.com/m/2022-02-08/101838731.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2022-02-07-广西百色三日累计确诊99例-2例为奥密克戎关联深圳](https://m.caixin.com/m/2022-02-07/101838632.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2022-02-07-香港日增614宗病例再创新高-密切接触者将居家隔离](https://m.caixin.com/m/2022-02-07/101838615.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2022-02-07-最新海外疫情：新冠感染超3.94亿-累计接种新冠疫苗超101.88亿剂次](https://m.caixin.com/m/2022-02-07/101838649.html) 
@@ -92,7 +92,13 @@
 - [【武汉肺炎防疫全纪录(财新网)】2022-02-01-德国未实现接种目标-奥地利强制接种疫苗法律生效｜大流行手记（1月31日）](https://m.caixin.com/m/2022-02-01/101837106.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2022-02-01-聚焦｜张文宏：未来抗疫，是努力夺回正常生活的过程](https://opinion.caixin.com/m/2022-02-01/101837206.html) 
 - [【张鑫旭-鑫空间-鑫生活】2022-02-04-HTML-inputmode与iOS-Android软键盘类型测试](https://www.zhangxinxu.com/wordpress/2022/02/html-inputmode-keyboard/) 
-- [【V2EX】2022-02-08-迫于马上情人节了，大*兄弟们都送什么给女朋友](https://www.v2ex.com/t/832353) 
+- [【V2EX】2022-02-08-网页上一个按钮的点击，如何用-js-判断为真人点击？](https://www.v2ex.com/t/832362) 
+- [【V2EX】2022-02-08-遭遇野蛮快递点，如何维权？](https://www.v2ex.com/t/832361) 
+- [【V2EX】2022-02-08-春节后开工，你们的开工-money-是多少？](https://www.v2ex.com/t/832360) 
+- [【V2EX】2022-02-08-MBP-2017-款，不插电源经常出现熄屏，电池电量充足，但显示电量不足](https://www.v2ex.com/t/832359) 
+- [【V2EX】2022-02-08-wireguard-android-客户端怎么不好使呢](https://www.v2ex.com/t/832358) 
+- [【V2EX】2022-02-08-truenas.com-被网警误报为诈骗](https://www.v2ex.com/t/832355) 
+- [【V2EX】2022-02-08-腾讯云春节特惠香港双核-2G-一年-328-内地双核-4G8M-三年仅-150-四核-8G10M-三年-768-四核-16G12M-三年-1098新老身份都可上车良心云海外机器也有活动海外...](https://www.v2ex.com/t/832354) 
 - [【V2EX】2022-02-08-网络安全产业未来前景如何？](https://www.v2ex.com/t/832351) 
 - [【V2EX】2022-02-08-国外远程区块链双语-GameFi-项目全球招聘技术](https://www.v2ex.com/t/832349) 
 - [【V2EX】2022-02-08-MBP-14-16+512-硬盘大量写入-36TB，-ScreenTimeAgent-这个进程是主要写入大户，如何解决](https://www.v2ex.com/t/832348) 
@@ -120,16 +126,6 @@
 - [【V2EX】2022-02-07-大数据和-Java-后端方向哪个方向现在发展好一些](https://www.v2ex.com/t/832320) 
 - [【V2EX】2022-02-07-有关职业规划和未来选择，大佬们帮忙给点建议](https://www.v2ex.com/t/832318) 
 - [【V2EX】2022-02-07-提问一下-Gogs-部署-HTTPS-的问题](https://www.v2ex.com/t/832317) 
-- [【V2EX】2022-02-07-华为云切到良心云](https://www.v2ex.com/t/832315) 
-- [【V2EX】2022-02-07-请教下关于函数传参的一点疑问](https://www.v2ex.com/t/832314) 
-- [【V2EX】2022-02-07-iPhone-12-屏幕轻微闪烁正常吗](https://www.v2ex.com/t/832313) 
-- [【V2EX】2022-02-07-求助各位-V-友：深圳租房](https://www.v2ex.com/t/832312) 
-- [【V2EX】2022-02-07-小黄鱼杭州移动-380-两年-200M，加两个电视盒子划算不。](https://www.v2ex.com/t/832311) 
-- [【V2EX】2022-02-07-自荐一个平板设备的-Web-开发者工具](https://www.v2ex.com/t/832310) 
-- [【V2EX】2022-02-07-日语-urlencode-问题？](https://www.v2ex.com/t/832309) 
-- [【V2EX】2022-02-07-发现在高延迟下-dns-查询的-udp-和-tcp-方式延迟几乎一致](https://www.v2ex.com/t/832308) 
-- [【V2EX】2022-02-07-「字节跳动---智能创作」招前端/服务端/多媒体开发,-北京/深圳/广州均有岗位](https://www.v2ex.com/t/832307) 
-- [【V2EX】2022-02-07-AI-比我更会聊天,笑果很好](https://www.v2ex.com/t/832306) 
 - [【技术头条】2022-02-08-微话搭建优质-Web-应用其一-forum.lovejade.cn](https://blogread.cn/news/go.php?idItem=14928&url=https%3A%2F%2Fforum.lovejade.cn%2Fd%2F141-web%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-02-08-Puppeteer-使用分享及注意事项-forum.lovejade.cn](https://blogread.cn/news/go.php?idItem=14927&url=https%3A%2F%2Fforum.lovejade.cn%2Fd%2F145-puppeteer%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-02-08-优质网站同好者周刊（第-51-期）--倾城之链-blog.nicelinks.site](https://blogread.cn/news/go.php?idItem=14926&url=https%3A%2F%2Fblog.nicelinks.site%2Fweekly-051%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -155,10 +151,10 @@
 - [【开发者头条】2022-02-08-赵学敏：京东商品图谱构建与实体对齐](https://toutiao.io/k/nrwlirv) 
 - [【开发者头条】2022-02-08-递归调用uGo函数](https://toutiao.io/k/hetjoek) 
 - [【开发者头条】2022-02-08-136-python|第八部分：并发网络编程（一）网络编程上](https://toutiao.io/k/x1af9rz) 
-- [【开发者头条】2022-02-08-推荐-阿里专家：如何画出优秀的架构图？](https://toutiao.io/k/92sk26n) 
-- [【开发者头条】2022-02-08-推荐-JVM调优的几种场景（建议收藏）](https://toutiao.io/k/fib82nl) 
 - [【开发者头条】2022-02-08-推荐-原来这才是动态代理！！！](https://toutiao.io/k/ectyif9) 
+- [【开发者头条】2022-02-08-推荐-阿里专家：如何画出优秀的架构图？](https://toutiao.io/k/92sk26n) 
 - [【开发者头条】2022-02-08-推荐-面试官问:-如何设计一个高并发系统?](https://toutiao.io/k/7hrrplb) 
+- [【开发者头条】2022-02-08-推荐-JVM调优的几种场景（建议收藏）](https://toutiao.io/k/fib82nl) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

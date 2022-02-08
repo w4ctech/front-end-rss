@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-02-08 01:11:28。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-08 01:57:47。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -181,6 +181,7 @@
 - [【张鑫旭-鑫空间-鑫生活】深入JS-getRandomValues和Math.random方法](https://www.zhangxinxu.com/wordpress/2021/12/js-getrandomvalue-math-random/)
 - [【张鑫旭-鑫空间-鑫生活】flex-end为什么overflow无法滚动及解决方法](https://www.zhangxinxu.com/wordpress/2021/12/flex-end-overflow/)
 - [【张鑫旭-鑫空间-鑫生活】从js-visibilitychange-Safari下无效说开去](https://www.zhangxinxu.com/wordpress/2021/11/js-visibilitychange-pagehide-lifecycle/)
+- [【V2EX】网页上一个按钮的点击，如何用-js-判断为真人点击？](https://www.v2ex.com/t/832362)
 - [【V2EX】家用路由器开启-IPV6，-wifi-访问变慢甚至打不开网页？](https://www.v2ex.com/t/832334)
 - [【V2EX】分享一个纯异步-MySQL-客户端](https://www.v2ex.com/t/832323)
 - [......【查看更多】......](./details/tags/javascript.md)
@@ -281,7 +282,6 @@
 - [【V2EX】网络安全产业未来前景如何？](https://www.v2ex.com/t/832351)
 - [【V2EX】Apple-Watch-Series-7-居然没有疏油层？](https://www.v2ex.com/t/832345)
 - [【V2EX】写了一个生成-favicon.ico-的浏览器工具。](https://www.v2ex.com/t/832339)
-- [【V2EX】日语-urlencode-问题？](https://www.v2ex.com/t/832309)
 - [......【查看更多】......](./details/tags/browser.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -410,7 +410,7 @@
 
 
 
-- [【武汉肺炎防疫全纪录(财新网)】最新疫情：全国新冠累计确诊106419例-累计接种新冠疫苗超30.06亿剂次](https://m.caixin.com/m/2022-02-07/101838645.html)
+- [【武汉肺炎防疫全纪录(财新网)】2月7日全国新增新冠105例-本土广西64例天津1例](https://m.caixin.com/m/2022-02-08/101838731.html)
 - [【武汉肺炎防疫全纪录(财新网)】广西百色三日累计确诊99例-2例为奥密克戎关联深圳](https://m.caixin.com/m/2022-02-07/101838632.html)
 - [【武汉肺炎防疫全纪录(财新网)】香港日增614宗病例再创新高-密切接触者将居家隔离](https://m.caixin.com/m/2022-02-07/101838615.html)
 - [【武汉肺炎防疫全纪录(财新网)】最新海外疫情：新冠感染超3.94亿-累计接种新冠疫苗超101.88亿剂次](https://m.caixin.com/m/2022-02-07/101838649.html)

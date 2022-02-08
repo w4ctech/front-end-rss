@@ -1,11 +1,11 @@
-:alarm_clock: 更新时间: 2022-02-08 01:11:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-08 01:57:47。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
 
 
 
-- [2022-02-07-最新疫情：全国新冠累计确诊106419例-累计接种新冠疫苗超30.06亿剂次](https://m.caixin.com/m/2022-02-07/101838645.html) 
+- [2022-02-08-2月7日全国新增新冠105例-本土广西64例天津1例](https://m.caixin.com/m/2022-02-08/101838731.html) 
 - [2022-02-07-广西百色三日累计确诊99例-2例为奥密克戎关联深圳](https://m.caixin.com/m/2022-02-07/101838632.html) 
 - [2022-02-07-香港日增614宗病例再创新高-密切接触者将居家隔离](https://m.caixin.com/m/2022-02-07/101838615.html) 
 - [2022-02-07-最新海外疫情：新冠感染超3.94亿-累计接种新冠疫苗超101.88亿剂次](https://m.caixin.com/m/2022-02-07/101838649.html) 
@@ -1747,7 +1747,12 @@
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2022-02-04-HTML-inputmode与iOS-Android软键盘类型测试](https://www.zhangxinxu.com/wordpress/2022/02/html-inputmode-keyboard/) 
 - [2021-11-14-密码强度效果最佳实现一定是HTML-meter元素](https://www.zhangxinxu.com/wordpress/2021/11/html-meter-password/) 
-- [2022-02-08-迫于马上情人节了，大*兄弟们都送什么给女朋友](https://www.v2ex.com/t/832353) 
+- [2022-02-08-遭遇野蛮快递点，如何维权？](https://www.v2ex.com/t/832361) 
+- [2022-02-08-春节后开工，你们的开工-money-是多少？](https://www.v2ex.com/t/832360) 
+- [2022-02-08-MBP-2017-款，不插电源经常出现熄屏，电池电量充足，但显示电量不足](https://www.v2ex.com/t/832359) 
+- [2022-02-08-wireguard-android-客户端怎么不好使呢](https://www.v2ex.com/t/832358) 
+- [2022-02-08-truenas.com-被网警误报为诈骗](https://www.v2ex.com/t/832355) 
+- [2022-02-08-腾讯云春节特惠香港双核-2G-一年-328-内地双核-4G8M-三年仅-150-四核-8G10M-三年-768-四核-16G12M-三年-1098新老身份都可上车良心云海外机器也有活动海外...](https://www.v2ex.com/t/832354) 
 - [2022-02-08-MBP-14-16+512-硬盘大量写入-36TB，-ScreenTimeAgent-这个进程是主要写入大户，如何解决](https://www.v2ex.com/t/832348) 
 - [2022-02-07-建了一个针对海外华人-IT-移民的-discord-服务器](https://www.v2ex.com/t/832347) 
 - [2022-02-07-留学毕业去美国湾区当码农年薪十几万美金还是回国去个大厂比如腾讯?](https://www.v2ex.com/t/832346) 
@@ -1766,15 +1771,6 @@
 - [2022-02-07-请问有了解"深圳金融科技研究院"数字化货币研究所的吗?拿了-offer,不知道有没有坑..](https://www.v2ex.com/t/832324) 
 - [2022-02-07-大数据和-Java-后端方向哪个方向现在发展好一些](https://www.v2ex.com/t/832320) 
 - [2022-02-07-有关职业规划和未来选择，大佬们帮忙给点建议](https://www.v2ex.com/t/832318) 
-- [2022-02-07-华为云切到良心云](https://www.v2ex.com/t/832315) 
-- [2022-02-07-请教下关于函数传参的一点疑问](https://www.v2ex.com/t/832314) 
-- [2022-02-07-iPhone-12-屏幕轻微闪烁正常吗](https://www.v2ex.com/t/832313) 
-- [2022-02-07-求助各位-V-友：深圳租房](https://www.v2ex.com/t/832312) 
-- [2022-02-07-小黄鱼杭州移动-380-两年-200M，加两个电视盒子划算不。](https://www.v2ex.com/t/832311) 
-- [2022-02-07-自荐一个平板设备的-Web-开发者工具](https://www.v2ex.com/t/832310) 
-- [2022-02-07-发现在高延迟下-dns-查询的-udp-和-tcp-方式延迟几乎一致](https://www.v2ex.com/t/832308) 
-- [2022-02-07-「字节跳动---智能创作」招前端/服务端/多媒体开发,-北京/深圳/广州均有岗位](https://www.v2ex.com/t/832307) 
-- [2022-02-07-AI-比我更会聊天,笑果很好](https://www.v2ex.com/t/832306) 
 - [2022-02-08-微话搭建优质-Web-应用其一-forum.lovejade.cn](https://blogread.cn/news/go.php?idItem=14928&url=https%3A%2F%2Fforum.lovejade.cn%2Fd%2F141-web%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-02-08-Puppeteer-使用分享及注意事项-forum.lovejade.cn](https://blogread.cn/news/go.php?idItem=14927&url=https%3A%2F%2Fforum.lovejade.cn%2Fd%2F145-puppeteer%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-02-08-优质网站同好者周刊（第-51-期）--倾城之链-blog.nicelinks.site](https://blogread.cn/news/go.php?idItem=14926&url=https%3A%2F%2Fblog.nicelinks.site%2Fweekly-051%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1794,6 +1790,6 @@
 - [2022-02-08-Go-原生并发原语和最佳实践](https://toutiao.io/k/rdpao5x) 
 - [2022-02-08-递归调用uGo函数](https://toutiao.io/k/hetjoek) 
 - [2022-02-08-136-python|第八部分：并发网络编程（一）网络编程上](https://toutiao.io/k/x1af9rz) 
+- [2022-02-08-推荐-原来这才是动态代理！！！](https://toutiao.io/k/ectyif9) 
 - [2022-02-08-推荐-阿里专家：如何画出优秀的架构图？](https://toutiao.io/k/92sk26n) 
 - [2022-02-08-推荐-JVM调优的几种场景（建议收藏）](https://toutiao.io/k/fib82nl) 
-- [2022-02-08-推荐-原来这才是动态代理！！！](https://toutiao.io/k/ectyif9) 

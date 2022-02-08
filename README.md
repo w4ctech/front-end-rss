@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-08 11:18:50，:rocket: 更新条数: +1852， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-08 11:36:11，:rocket: 更新条数: +1852， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-02-08-家用路由器推荐](https://www.v2ex.com/t/832519) ![](assets/new.png)  
 - [2022-02-08-在北京三年经验的-Java-找工作的话都会被问哪些东西啊](https://www.v2ex.com/t/832518) ![](assets/new.png)  
 - [2022-02-08-中文-Wordle-汉兜-开源了！](https://www.v2ex.com/t/832517) ![](assets/new.png)  
 - [2022-02-08-求指导-程序员知识体系补全](https://www.v2ex.com/t/832516) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-02-08-全国，远程-分布式云存储，招-Web-前端，-Nodejs-后端及-Andriod-开发-15~25K](https://www.v2ex.com/t/832498) ![](assets/new.png)  
 - [2022-02-08-情人节要到了，给对象买什么礼物呢？](https://www.v2ex.com/t/832497) ![](assets/new.png)  
 - [2022-02-08-网页展示淘宝商品链接，如何做到手机和电脑都能唤醒？](https://www.v2ex.com/t/832495) ![](assets/new.png)  
-- [2022-02-08-各位住在北京哪里-上班在哪里](https://www.v2ex.com/t/832493) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -562,9 +562,10 @@
 - [2022-02-08-深度剖析-Vue3-的调度系统](https://toutiao.io/k/6d7kip2) ![](assets/new.png)  
 - [2022-02-08-聊一聊如何用C#轻松完成一个SAGA分布式事务](https://toutiao.io/k/ch1khtj) ![](assets/new.png)  
 - [2022-02-08-面试官：Context携带数据是线程安全的吗？](https://toutiao.io/k/brnxhv9) ![](assets/new.png)  
+- [2022-02-08-推荐-阿里专家：如何画出优秀的架构图？](https://toutiao.io/k/92sk26n) ![](assets/new.png)  
 - [2022-02-08-推荐-面试官问:-如何设计一个高并发系统?](https://toutiao.io/k/7hrrplb) ![](assets/new.png)  
 - [2022-02-08-推荐-原来这才是动态代理！！！](https://toutiao.io/k/ectyif9) ![](assets/new.png)  
-- [2022-02-08-推荐-阿里专家：如何画出优秀的架构图？](https://toutiao.io/k/92sk26n) ![](assets/new.png)  
+- [2022-02-08-推荐-作为研发Leader，如何做总结](https://toutiao.io/k/1g7flto) ![](assets/new.png)  
 - [2022-02-08-推荐-JVM调优的几种场景（建议收藏）](https://toutiao.io/k/fib82nl) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

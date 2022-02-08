@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-02-08 01:57:47。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-08 02:08:44。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1747,6 +1747,8 @@
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2022-02-04-HTML-inputmode与iOS-Android软键盘类型测试](https://www.zhangxinxu.com/wordpress/2022/02/html-inputmode-keyboard/) 
 - [2021-11-14-密码强度效果最佳实现一定是HTML-meter元素](https://www.zhangxinxu.com/wordpress/2021/11/html-meter-password/) 
+- [2022-02-08-电信-20g，限速，-50k，如何破？](https://www.v2ex.com/t/832367) 
+- [2022-02-08-代步纯电车怎么从深圳开回成都](https://www.v2ex.com/t/832366) 
 - [2022-02-08-遭遇野蛮快递点，如何维权？](https://www.v2ex.com/t/832361) 
 - [2022-02-08-春节后开工，你们的开工-money-是多少？](https://www.v2ex.com/t/832360) 
 - [2022-02-08-MBP-2017-款，不插电源经常出现熄屏，电池电量充足，但显示电量不足](https://www.v2ex.com/t/832359) 
@@ -1790,6 +1792,7 @@
 - [2022-02-08-Go-原生并发原语和最佳实践](https://toutiao.io/k/rdpao5x) 
 - [2022-02-08-递归调用uGo函数](https://toutiao.io/k/hetjoek) 
 - [2022-02-08-136-python|第八部分：并发网络编程（一）网络编程上](https://toutiao.io/k/x1af9rz) 
+- [2022-02-08-【送99元大礼包】开工啦！！！](https://toutiao.io/k/kxjpl8r) 
 - [2022-02-08-推荐-原来这才是动态代理！！！](https://toutiao.io/k/ectyif9) 
-- [2022-02-08-推荐-阿里专家：如何画出优秀的架构图？](https://toutiao.io/k/92sk26n) 
 - [2022-02-08-推荐-JVM调优的几种场景（建议收藏）](https://toutiao.io/k/fib82nl) 
+- [2022-02-08-推荐-阿里专家：如何画出优秀的架构图？](https://toutiao.io/k/92sk26n) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-02-08 06:47:27。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-08 07:12:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -13,6 +13,5 @@
 - [2021-04-14-腺病毒新冠疫苗引安全忧虑-康希诺称未发现血栓病例](https://m.caixin.com/m/2021-04-14/101691086.html) 
 - [2021-01-08-解药|新冠mRNA疫苗安全性有哪些挑战？](https://m.caixin.com/m/2021-01-08/101648043.html) 
 - [2021-01-01-大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html) 
-- [2022-02-08-Apple-One-Premier-超大杯-美区拼车-寻队友](https://www.v2ex.com/t/832413) 
-- [2022-02-08-一直有个困惑，手机浏览器怎么阻住跳转到下载-app](https://www.v2ex.com/t/832395) 
+- [2022-02-08-Ansible-请求-API-动态生成-inventory](https://www.v2ex.com/t/832452) 
 - [2022-02-08-面试官：Context携带数据是线程安全的吗？](https://toutiao.io/k/brnxhv9) 

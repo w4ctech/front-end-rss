@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-08 08:14:17，:rocket: 更新条数: +1852， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-08 08:24:06，:rocket: 更新条数: +1852， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-02-08-兄弟们，你们求婚时用的什么戒指可以推荐嘛，还是都用钻戒？](https://www.v2ex.com/t/832477) ![](assets/new.png)  
 - [2022-02-08-每天产生-1000-条左右消息的内网-Matrix-服务器可以用-SQLite-吗？有必要上-PostgreSQL-吗？](https://www.v2ex.com/t/832476) ![](assets/new.png)  
 - [2022-02-08-HomePod-mini-到底在播放什么](https://www.v2ex.com/t/832474) ![](assets/new.png)  
 - [2022-02-08-关于实时同步选项-FCM-和-HTTP-该如何选择？](https://www.v2ex.com/t/832473) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-02-08-vscode-解析-sigaction-不正确的处理方法](https://www.v2ex.com/t/832456) ![](assets/new.png)  
 - [2022-02-08-Gorm-相关，需要动态创建数据表，是不是不太适合使用-ORM-啊？](https://www.v2ex.com/t/832455) ![](assets/new.png)  
 - [2022-02-08-迫于有人跳车，-office365-家庭版空出两车位](https://www.v2ex.com/t/832454) ![](assets/new.png)  
-- [2022-02-08-Ansible-请求-API-动态生成-inventory](https://www.v2ex.com/t/832452) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -562,10 +562,10 @@
 - [2022-02-08-聊一聊如何用C#轻松完成一个SAGA分布式事务](https://toutiao.io/k/ch1khtj) ![](assets/new.png)  
 - [2022-02-08-支付系统架构设计详解](https://toutiao.io/k/5tx1zgw) ![](assets/new.png)  
 - [2022-02-08-面试官：Context携带数据是线程安全的吗？](https://toutiao.io/k/brnxhv9) ![](assets/new.png)  
-- [2022-02-08-推荐-原来这才是动态代理！！！](https://toutiao.io/k/ectyif9) ![](assets/new.png)  
 - [2022-02-08-推荐-阿里专家：如何画出优秀的架构图？](https://toutiao.io/k/92sk26n) ![](assets/new.png)  
 - [2022-02-08-推荐-面试官问:-如何设计一个高并发系统?](https://toutiao.io/k/7hrrplb) ![](assets/new.png)  
 - [2022-02-08-推荐-JVM调优的几种场景（建议收藏）](https://toutiao.io/k/fib82nl) ![](assets/new.png)  
+- [2022-02-08-推荐-原来这才是动态代理！！！](https://toutiao.io/k/ectyif9) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

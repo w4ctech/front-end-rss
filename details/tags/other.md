@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-02-08 03:41:32。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-08 03:54:35。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -6,6 +6,7 @@
 
 
 - [2022-02-08-2月7日全国新增新冠105例-本土广西64例天津1例](https://m.caixin.com/m/2022-02-08/101838731.html) 
+- [2022-02-08-世卫称新冠扰乱90%国家的卫生服务-印度尼西亚加强限制｜大流行手记（2月7日）](https://m.caixin.com/m/2022-02-08/101838792.html) 
 - [2022-02-07-广西百色三日累计确诊99例-2例为奥密克戎关联深圳](https://m.caixin.com/m/2022-02-07/101838632.html) 
 - [2022-02-07-香港日增614宗病例再创新高-密切接触者将居家隔离](https://m.caixin.com/m/2022-02-07/101838615.html) 
 - [2022-02-07-最新海外疫情：新冠感染超3.94亿-累计接种新冠疫苗超101.88亿剂次](https://m.caixin.com/m/2022-02-07/101838649.html) 
@@ -1747,6 +1748,10 @@
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2022-02-04-HTML-inputmode与iOS-Android软键盘类型测试](https://www.zhangxinxu.com/wordpress/2022/02/html-inputmode-keyboard/) 
 - [2021-11-14-密码强度效果最佳实现一定是HTML-meter元素](https://www.zhangxinxu.com/wordpress/2021/11/html-meter-password/) 
+- [2022-02-08-如何委婉的跟对面大哥说你的脚有点臭？](https://www.v2ex.com/t/832402) 
+- [2022-02-08-MicroPython-开发单片机应用上手](https://www.v2ex.com/t/832400) 
+- [2022-02-08-对于-Java-基础学习者，“目前”集合学习过程中有必要清楚理解底层原理吗](https://www.v2ex.com/t/832399) 
+- [2022-02-08-大龄基层前端再去海外读计算机硕士值吗](https://www.v2ex.com/t/832398) 
 - [2022-02-08-联通-60-元-300M-宽带](https://www.v2ex.com/t/832396) 
 - [2022-02-08-如何在-dict-内，根据指定的-value，查找出想要的-key-和-value](https://www.v2ex.com/t/832393) 
 - [2022-02-08-抽奖送码活动-&-macOS/iOS-任意箱：原生的书签管理应用，不可或缺的效率工具](https://www.v2ex.com/t/832392) 
@@ -1768,8 +1773,6 @@
 - [2022-02-08-wireguard-android-客户端怎么不好使呢](https://www.v2ex.com/t/832358) 
 - [2022-02-08-truenas.com-被网警误报为诈骗](https://www.v2ex.com/t/832355) 
 - [2022-02-08-腾讯云春节特惠香港双核-2G-一年-328-内地双核-4G8M-三年仅-150-四核-8G10M-三年-768-四核-16G12M-三年-1098新老身份都可上车良心云海外机器也有活动海外...](https://www.v2ex.com/t/832354) 
-- [2022-02-08-MBP-14-16+512-硬盘大量写入-36TB，-ScreenTimeAgent-这个进程是主要写入大户，如何解决](https://www.v2ex.com/t/832348) 
-- [2022-02-07-建了一个针对海外华人-IT-移民的-discord-服务器](https://www.v2ex.com/t/832347) 
 - [2022-02-08-微话搭建优质-Web-应用其一-forum.lovejade.cn](https://blogread.cn/news/go.php?idItem=14928&url=https%3A%2F%2Fforum.lovejade.cn%2Fd%2F141-web%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-02-08-Puppeteer-使用分享及注意事项-forum.lovejade.cn](https://blogread.cn/news/go.php?idItem=14927&url=https%3A%2F%2Fforum.lovejade.cn%2Fd%2F145-puppeteer%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-02-08-优质网站同好者周刊（第-51-期）--倾城之链-blog.nicelinks.site](https://blogread.cn/news/go.php?idItem=14926&url=https%3A%2F%2Fblog.nicelinks.site%2Fweekly-051%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1789,6 +1792,6 @@
 - [2022-02-08-Go-原生并发原语和最佳实践](https://toutiao.io/k/rdpao5x) 
 - [2022-02-08-递归调用uGo函数](https://toutiao.io/k/hetjoek) 
 - [2022-02-08-136-python|第八部分：并发网络编程（一）网络编程上](https://toutiao.io/k/x1af9rz) 
-- [2022-02-08-推荐-阿里专家：如何画出优秀的架构图？](https://toutiao.io/k/92sk26n) 
 - [2022-02-08-推荐-原来这才是动态代理！！！](https://toutiao.io/k/ectyif9) 
+- [2022-02-08-推荐-阿里专家：如何画出优秀的架构图？](https://toutiao.io/k/92sk26n) 
 - [2022-02-08-推荐-JVM调优的几种场景（建议收藏）](https://toutiao.io/k/fib82nl) 

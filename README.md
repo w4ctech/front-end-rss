@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-08 03:41:32，:rocket: 更新条数: +1841， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-08 03:54:35，:rocket: 更新条数: +1842， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -66,6 +66,7 @@
 
 
 - [2022-02-08-2月7日全国新增新冠105例-本土广西64例天津1例](https://m.caixin.com/m/2022-02-08/101838731.html) ![](assets/new.png)  
+- [2022-02-08-世卫称新冠扰乱90%国家的卫生服务-印度尼西亚加强限制｜大流行手记（2月7日）](https://m.caixin.com/m/2022-02-08/101838792.html) ![](assets/new.png)  
 - [2022-02-07-广西百色三日累计确诊99例-2例为奥密克戎关联深圳](https://m.caixin.com/m/2022-02-07/101838632.html) ![](assets/new.png)  
 - [2022-02-07-香港日增614宗病例再创新高-密切接触者将居家隔离](https://m.caixin.com/m/2022-02-07/101838615.html) ![](assets/new.png)  
 - [2022-02-07-最新海外疫情：新冠感染超3.94亿-累计接种新冠疫苗超101.88亿剂次](https://m.caixin.com/m/2022-02-07/101838649.html) ![](assets/new.png)  
@@ -84,7 +85,6 @@
 - [2022-02-03-世卫呼吁稳步缓慢“解封”，日本新增创新高｜大流行手记（2月2日）](https://m.caixin.com/m/2022-02-03/101837392.html) ![](assets/new.png)  
 - [2022-02-02-广东再现本土奥密克戎-五市共报告病例11个](https://m.caixin.com/m/2022-02-02/101837218.html) ![](assets/new.png)  
 - [2022-02-02-【境内疫情观察】全国新增36例本土病例（2月1日）](https://database.caixin.com/m/2022-02-02/101837319.html) ![](assets/new.png)  
-- [2022-02-02-美国FDA批准第二款mRNA疫苗-挪威取消大部分限制措施｜大流行手记（2月1日）](https://m.caixin.com/m/2022-02-02/101837258.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -491,6 +491,10 @@
 </summary>
 
 
+- [2022-02-08-如何委婉的跟对面大哥说你的脚有点臭？](https://www.v2ex.com/t/832402) ![](assets/new.png)  
+- [2022-02-08-MicroPython-开发单片机应用上手](https://www.v2ex.com/t/832400) ![](assets/new.png)  
+- [2022-02-08-对于-Java-基础学习者，“目前”集合学习过程中有必要清楚理解底层原理吗](https://www.v2ex.com/t/832399) ![](assets/new.png)  
+- [2022-02-08-大龄基层前端再去海外读计算机硕士值吗](https://www.v2ex.com/t/832398) ![](assets/new.png)  
 - [2022-02-08-联通-60-元-300M-宽带](https://www.v2ex.com/t/832396) ![](assets/new.png)  
 - [2022-02-08-一直有个困惑，手机浏览器怎么阻住跳转到下载-app](https://www.v2ex.com/t/832395) ![](assets/new.png)  
 - [2022-02-08-如何在-dict-内，根据指定的-value，查找出想要的-key-和-value](https://www.v2ex.com/t/832393) ![](assets/new.png)  
@@ -507,10 +511,6 @@
 - [2022-02-08-MacBook-Pro-M1-13-寸-2020-款休眠后，外接显示器需要重新拔插才能正常工作](https://www.v2ex.com/t/832377) ![](assets/new.png)  
 - [2022-02-08-《算法（第四版）》算法分析章节中的近似](https://www.v2ex.com/t/832373) ![](assets/new.png)  
 - [2022-02-08-开工大吉-深圳宝安，出海互联网，招-go/高级-go](https://www.v2ex.com/t/832372) ![](assets/new.png)  
-- [2022-02-08-外国程序员一般看啥（非技术类）（信息流）网站？](https://www.v2ex.com/t/832371) ![](assets/new.png)  
-- [2022-02-08-今年是上海混动送沪牌最后一年，推荐什么车？](https://www.v2ex.com/t/832370) ![](assets/new.png)  
-- [2022-02-08-无线桥接，数据都要转主路由转发吗？](https://www.v2ex.com/t/832369) ![](assets/new.png)  
-- [2022-02-08-cloudflare-的电子邮件路由是不是有点什么漏洞被人利用了么？？自从开了-Catch-all-之后-疯狂收到垃圾邮件，看了一下发信人还是我自己发的？？太离谱了](https://www.v2ex.com/t/832368) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -559,10 +559,10 @@
 - [2022-02-08-递归调用uGo函数](https://toutiao.io/k/hetjoek) ![](assets/new.png)  
 - [2022-02-08-136-python|第八部分：并发网络编程（一）网络编程上](https://toutiao.io/k/x1af9rz) ![](assets/new.png)  
 - [2022-02-08-深度剖析-Vue3-的调度系统](https://toutiao.io/k/6d7kip2) ![](assets/new.png)  
-- [2022-02-08-推荐-面试官问:-如何设计一个高并发系统?](https://toutiao.io/k/7hrrplb) ![](assets/new.png)  
-- [2022-02-08-推荐-阿里专家：如何画出优秀的架构图？](https://toutiao.io/k/92sk26n) ![](assets/new.png)  
 - [2022-02-08-推荐-原来这才是动态代理！！！](https://toutiao.io/k/ectyif9) ![](assets/new.png)  
+- [2022-02-08-推荐-阿里专家：如何画出优秀的架构图？](https://toutiao.io/k/92sk26n) ![](assets/new.png)  
 - [2022-02-08-推荐-JVM调优的几种场景（建议收藏）](https://toutiao.io/k/fib82nl) ![](assets/new.png)  
+- [2022-02-08-推荐-面试官问:-如何设计一个高并发系统?](https://toutiao.io/k/7hrrplb) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

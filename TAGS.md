@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-02-08 19:40:38。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-08 19:54:36。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -300,7 +300,6 @@
 
 
 - [【V2EX】google-的-br-压缩算法是真的强。](https://www.v2ex.com/t/832570)
-- [【V2EX】谷爱凌的热度这么大,-把谷歌算法给整不会了??](https://www.v2ex.com/t/832541)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

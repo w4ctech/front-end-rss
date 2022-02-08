@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-02-08 20:40:40。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-08 20:54:34。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -349,6 +349,7 @@
 
 
 
+- [【V2EX】🚗-硅谷-Top-50-FinTech-公司新春招聘全面开启🌟100%远程+期权+双休+四周年假+各种福利补贴](https://www.v2ex.com/t/832574)
 - [【开发者头条】推荐-面试官问:-如何设计一个高并发系统?](https://toutiao.io/k/7hrrplb)
 - [......【查看更多】......](./details/tags/job-interview.md)
 

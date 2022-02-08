@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-02-08 15:56:00。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-08 16:17:01。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1751,6 +1751,9 @@
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2022-02-04-HTML-inputmode与iOS-Android软键盘类型测试](https://www.zhangxinxu.com/wordpress/2022/02/html-inputmode-keyboard/) 
 - [2021-11-14-密码强度效果最佳实现一定是HTML-meter元素](https://www.zhangxinxu.com/wordpress/2021/11/html-meter-password/) 
+- [2022-02-08-小白求助！用-Xcode-写的程序每次打开都要求输入密码](https://www.v2ex.com/t/832564) 
+- [2022-02-08-有能够自动播放广播的闹钟么](https://www.v2ex.com/t/832563) 
+- [2022-02-08-求教-pandas-相关问题，有一个表-A,对其中一列-a-进行-groupby-和-agg比如-count处理后得到新表-B,如何把-B-表聚合结果列映射到-A-表？](https://www.v2ex.com/t/832562) 
 - [2022-02-08-键盘功能区播放按键为什么不能控制-Apple-Music-的播放暂停](https://www.v2ex.com/t/832559) 
 - [2022-02-08-PowerPoint-会禁用播放前不存在的显示器，你们有这个-Bug-吗？](https://www.v2ex.com/t/832558) 
 - [2022-02-08-iPad-选择](https://www.v2ex.com/t/832556) 
@@ -1774,9 +1777,6 @@
 - [2022-02-08-在北京三年经验的-Java-找工作的话都会被问哪些东西啊](https://www.v2ex.com/t/832518) 
 - [2022-02-08-中文-Wordle-汉兜-开源了！](https://www.v2ex.com/t/832517) 
 - [2022-02-08-求指导-程序员知识体系补全](https://www.v2ex.com/t/832516) 
-- [2022-02-08-写了个网页自动翻页脚本-东方永页机-，可以自动兼容-90%的网站](https://www.v2ex.com/t/832514) 
-- [2022-02-08-Mac-自带输入法不能删除首个词频调整后的备选项？](https://www.v2ex.com/t/832513) 
-- [2022-02-08-网站能否获知用户是通过哪个搜索引擎链接过去的？](https://www.v2ex.com/t/832511) 
 - [2022-02-08-5款最佳最牛代码比较神器-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14934&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493248%26amp%3Bidx%3D1%26amp%3Bsn%3D50bb00a7204f2595e19bba088152c56a%26amp%3Bchksm%3Dfa3f07dbcd488ecd96ab648174c45d2d5085db9e8ad2ec47e80bba1e6580f7d7158761183317%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-02-08-Linux新手入门的一些基本知识点整理-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14932&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493238%26amp%3Bidx%3D2%26amp%3Bsn%3D349fdafff5bc72eafcc5ac71ad01f6f4%26amp%3Bchksm%3Dfa3f072dcd488e3bf0ced8316f1c7278fce2eaf1946c7f123a864edf879ff397cee6f74a68aa%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-02-08-毕业不到1年的前端开发同学的焦虑-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14931&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493237%26amp%3Bidx%3D2%26amp%3Bsn%3D9ae8f1abd01b44eeba473fe6e653a9ca%26amp%3Bchksm%3Dfa3f072ecd488e388b746e9863b69792bf5882fed49d81e8b890da2d04c2fb588a78a875cab6%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1798,7 +1798,6 @@
 - [2022-02-08-聊一聊如何用C#轻松完成一个SAGA分布式事务](https://toutiao.io/k/ch1khtj) 
 - [2022-02-08-136-python|第八部分：并发网络编程（一）网络编程上](https://toutiao.io/k/x1af9rz) 
 - [2022-02-08-递归调用uGo函数](https://toutiao.io/k/hetjoek) 
-- [2022-02-08-推荐-JVM调优的几种场景（建议收藏）](https://toutiao.io/k/fib82nl) 
-- [2022-02-08-推荐-阿里专家：如何画出优秀的架构图？](https://toutiao.io/k/92sk26n) 
 - [2022-02-08-推荐-原来这才是动态代理！！！](https://toutiao.io/k/ectyif9) 
 - [2022-02-08-推荐-作为研发Leader，如何做总结](https://toutiao.io/k/1g7flto) 
+- [2022-02-08-推荐-阿里专家：如何画出优秀的架构图？](https://toutiao.io/k/92sk26n) 

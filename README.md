@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-08 09:21:26，:rocket: 更新条数: +1852， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-08 09:38:07，:rocket: 更新条数: +1851， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -65,12 +65,13 @@
 </summary>
 
 
-- [2022-02-08-2月7日全国新增新冠105例-本土广西64例天津1例](https://m.caixin.com/m/2022-02-08/101838731.html) ![](assets/new.png)  
+- [2022-02-08-最新疫情：全国新冠累计确诊106524例-累计接种新冠疫苗超30.1亿剂次](https://m.caixin.com/m/2022-02-08/101838953.html) ![](assets/new.png)  
+- [2022-02-08-深圳奥密克戎疫情已波及三省九市-百色疫情快速上升](https://m.caixin.com/m/2022-02-08/101838975.html) ![](assets/new.png)  
+- [2022-02-08-最新海外疫情：新冠感染超3.96亿-累计接种新冠疫苗超101.57亿剂次](https://m.caixin.com/m/2022-02-08/101838968.html) ![](assets/new.png)  
 - [2022-02-08-【境内疫情观察】广西新增64例本土病例（2月7日）](https://database.caixin.com/m/2022-02-08/101838906.html) ![](assets/new.png)  
 - [2022-02-08-世卫称新冠扰乱90%国家的卫生服务-印度尼西亚加强限制｜大流行手记（2月7日）](https://m.caixin.com/m/2022-02-08/101838792.html) ![](assets/new.png)  
-- [2022-02-07-广西百色三日累计确诊99例-2例为奥密克戎关联深圳](https://m.caixin.com/m/2022-02-07/101838632.html) ![](assets/new.png)  
 - [2022-02-07-香港日增614宗病例再创新高-密切接触者将居家隔离](https://m.caixin.com/m/2022-02-07/101838615.html) ![](assets/new.png)  
-- [2022-02-07-最新海外疫情：新冠感染超3.94亿-累计接种新冠疫苗超101.88亿剂次](https://m.caixin.com/m/2022-02-07/101838649.html) ![](assets/new.png)  
+- [2022-02-07-广西百色三日累计确诊99例-2例为奥密克戎关联深圳](https://m.caixin.com/m/2022-02-07/101838632.html) ![](assets/new.png)  
 - [2022-02-07-【境内疫情观察】广西新增37例本土病例（2月6日）](https://database.caixin.com/m/2022-02-07/101838439.html) ![](assets/new.png)  
 - [2022-02-07-渥太华进入紧急状态-韩国累计病例破百万｜大流行手记（2月6日）](https://m.caixin.com/m/2022-02-07/101838282.html) ![](assets/new.png)  
 - [2022-02-06-广西百色：本轮疫情累计确诊43例-第一轮核酸初筛阳性98人](https://m.caixin.com/m/2022-02-06/101838147.html) ![](assets/new.png)  
@@ -84,7 +85,6 @@
 - [2022-02-03-北京地坛医院1名医务人员确诊，为应急隔离区医生](https://m.caixin.com/m/2022-02-03/101837518.html) ![](assets/new.png)  
 - [2022-02-03-【境内疫情观察】全国新增21例本土病例（2月2日）](https://database.caixin.com/m/2022-02-03/101837478.html) ![](assets/new.png)  
 - [2022-02-03-世卫呼吁稳步缓慢“解封”，日本新增创新高｜大流行手记（2月2日）](https://m.caixin.com/m/2022-02-03/101837392.html) ![](assets/new.png)  
-- [2022-02-02-广东再现本土奥密克戎-五市共报告病例11个](https://m.caixin.com/m/2022-02-02/101837218.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -491,7 +491,10 @@
 </summary>
 
 
-- [2022-02-08-各位住在北京哪里](https://www.v2ex.com/t/832493) ![](assets/new.png)  
+- [2022-02-08-全国，远程-分布式云存储，招-Web-前端，-Nodejs-后端及-Andriod-开发-15~25K](https://www.v2ex.com/t/832498) ![](assets/new.png)  
+- [2022-02-08-情人节要到了，给对象买什么礼物呢？](https://www.v2ex.com/t/832497) ![](assets/new.png)  
+- [2022-02-08-网页展示淘宝商品链接，如何做到手机和电脑都能唤醒？](https://www.v2ex.com/t/832495) ![](assets/new.png)  
+- [2022-02-08-各位住在北京哪里-上班在哪里](https://www.v2ex.com/t/832493) ![](assets/new.png)  
 - [2022-02-08-新加坡-美国虚拟币交易所工作](https://www.v2ex.com/t/832492) ![](assets/new.png)  
 - [2022-02-08-公众号挪车通知功能邀请大家试用](https://www.v2ex.com/t/832489) ![](assets/new.png)  
 - [2022-02-08-2019-款-16-寸的-mbp-键盘不在额外保修范围内吗？](https://www.v2ex.com/t/832488) ![](assets/new.png)  
@@ -508,9 +511,6 @@
 - [2022-02-08-关于实时同步选项-FCM-和-HTTP-该如何选择？](https://www.v2ex.com/t/832473) ![](assets/new.png)  
 - [2022-02-08-2022-年-75-寸电视求推荐](https://www.v2ex.com/t/832472) ![](assets/new.png)  
 - [2022-02-08-如何将-win-下的单应用音频实时导出为-audio-文件。鉴于上班时要听小语种网课，编程新手求助解决思路](https://www.v2ex.com/t/832470) ![](assets/new.png)  
-- [2022-02-08-Tesla-的车内大屏娱乐系统中的应用程序是用什么编程语言开发?-有相关人士可以透漏下吗?](https://www.v2ex.com/t/832469) ![](assets/new.png)  
-- [2022-02-08-法拍房靠谱吗？](https://www.v2ex.com/t/832468) ![](assets/new.png)  
-- [2022-02-08-新手买车求推荐~](https://www.v2ex.com/t/832467) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -563,9 +563,9 @@
 - [2022-02-08-支付系统架构设计详解](https://toutiao.io/k/5tx1zgw) ![](assets/new.png)  
 - [2022-02-08-面试官：Context携带数据是线程安全的吗？](https://toutiao.io/k/brnxhv9) ![](assets/new.png)  
 - [2022-02-08-推荐-JVM调优的几种场景（建议收藏）](https://toutiao.io/k/fib82nl) ![](assets/new.png)  
-- [2022-02-08-推荐-阿里专家：如何画出优秀的架构图？](https://toutiao.io/k/92sk26n) ![](assets/new.png)  
 - [2022-02-08-推荐-面试官问:-如何设计一个高并发系统?](https://toutiao.io/k/7hrrplb) ![](assets/new.png)  
 - [2022-02-08-推荐-原来这才是动态代理！！！](https://toutiao.io/k/ectyif9) ![](assets/new.png)  
+- [2022-02-08-推荐-阿里专家：如何画出优秀的架构图？](https://toutiao.io/k/92sk26n) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

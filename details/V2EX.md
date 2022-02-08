@@ -1,10 +1,14 @@
-:alarm_clock: 更新时间: 2022-02-08 08:24:06。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-08 08:40:55。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-02-08-conda-如何将某个环境置为全局？](https://www.v2ex.com/t/832482) 
+- [2022-02-08-联通想转移动](https://www.v2ex.com/t/832480) 
+- [2022-02-08-Royal-TSX-for-Windows](https://www.v2ex.com/t/832479) 
+- [2022-02-08-mac-更新到-12.2-版本后打印机崩了](https://www.v2ex.com/t/832478) 
 - [2022-02-08-兄弟们，你们求婚时用的什么戒指可以推荐嘛，还是都用钻戒？](https://www.v2ex.com/t/832477) 
 - [2022-02-08-每天产生-1000-条左右消息的内网-Matrix-服务器可以用-SQLite-吗？有必要上-PostgreSQL-吗？](https://www.v2ex.com/t/832476) 
 - [2022-02-08-HomePod-mini-到底在播放什么](https://www.v2ex.com/t/832474) 
@@ -41,7 +45,3 @@
 - [2022-02-08-五六百元多盘位-diynas-主机推荐](https://www.v2ex.com/t/832438) 
 - [2022-02-08-抖音很可怕](https://www.v2ex.com/t/832436) 
 - [2022-02-08-你们-idea-内存占用高吗？](https://www.v2ex.com/t/832434) 
-- [2022-02-08-大家在用默认分辨率还是「更多空间」？](https://www.v2ex.com/t/832432) 
-- [2022-02-08-武汉路特斯科技-内推-长期有效-前端/-Java](https://www.v2ex.com/t/832431) 
-- [2022-02-08-翻译软件是怎么根据拉丁字母判断何种语言的？](https://www.v2ex.com/t/832429) 
-- [2022-02-08-sudo-配置了免密为什么切换过去还是要密码？](https://www.v2ex.com/t/832428) 

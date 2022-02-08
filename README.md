@@ -11,11 +11,11 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-08 08:24:06，:rocket: 更新条数: +1852， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-08 08:40:55，:rocket: 更新条数: +83， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
@@ -65,26 +65,6 @@
 </summary>
 
 
-- [2022-02-08-2月7日全国新增新冠105例-本土广西64例天津1例](https://m.caixin.com/m/2022-02-08/101838731.html) ![](assets/new.png)  
-- [2022-02-08-世卫称新冠扰乱90%国家的卫生服务-印度尼西亚加强限制｜大流行手记（2月7日）](https://m.caixin.com/m/2022-02-08/101838792.html) ![](assets/new.png)  
-- [2022-02-07-广西百色三日累计确诊99例-2例为奥密克戎关联深圳](https://m.caixin.com/m/2022-02-07/101838632.html) ![](assets/new.png)  
-- [2022-02-07-香港日增614宗病例再创新高-密切接触者将居家隔离](https://m.caixin.com/m/2022-02-07/101838615.html) ![](assets/new.png)  
-- [2022-02-07-最新海外疫情：新冠感染超3.94亿-累计接种新冠疫苗超101.88亿剂次](https://m.caixin.com/m/2022-02-07/101838649.html) ![](assets/new.png)  
-- [2022-02-07-【境内疫情观察】广西新增37例本土病例（2月6日）](https://database.caixin.com/m/2022-02-07/101838439.html) ![](assets/new.png)  
-- [2022-02-07-渥太华进入紧急状态-韩国累计病例破百万｜大流行手记（2月6日）](https://m.caixin.com/m/2022-02-07/101838282.html) ![](assets/new.png)  
-- [2022-02-06-广西百色：本轮疫情累计确诊43例-第一轮核酸初筛阳性98人](https://m.caixin.com/m/2022-02-06/101838147.html) ![](assets/new.png)  
-- [2022-02-06-【境内疫情观察】广西新增6例本土病例（2月5日）](https://database.caixin.com/m/2022-02-06/101838097.html) ![](assets/new.png)  
-- [2022-02-06-土耳其总统埃尔多安新冠阳性-奥地利疫苗强制接种法案生效｜大流行手记（2月5日）](https://m.caixin.com/m/2022-02-06/101838056.html) ![](assets/new.png)  
-- [2022-02-05-香港疫情两年来“最恶劣”-拟全民派发快速检测包](https://m.caixin.com/m/2022-02-05/101837956.html) ![](assets/new.png)  
-- [2022-02-05-【境内疫情观察】全国新增9例本土病例（2月4日）](https://database.caixin.com/m/2022-02-05/101837971.html) ![](assets/new.png)  
-- [2022-02-05-南非发现更多Omicron新亚型病例-希腊放开旅行者检测要求｜大流行手记（2月4日）](https://m.caixin.com/m/2022-02-05/101837887.html) ![](assets/new.png)  
-- [2022-02-04-【境内疫情观察】全国新增12例本土病例（2月3日）](https://database.caixin.com/m/2022-02-04/101837666.html) ![](assets/new.png)  
-- [2022-02-04-首个新冠人类挑战试验带来重要发现-欧洲解封范围扩大｜大流行手记（2月3日）](https://m.caixin.com/m/2022-02-04/101837579.html) ![](assets/new.png)  
-- [2022-02-03-北京地坛医院1名医务人员确诊，为应急隔离区医生](https://m.caixin.com/m/2022-02-03/101837518.html) ![](assets/new.png)  
-- [2022-02-03-【境内疫情观察】全国新增21例本土病例（2月2日）](https://database.caixin.com/m/2022-02-03/101837478.html) ![](assets/new.png)  
-- [2022-02-03-世卫呼吁稳步缓慢“解封”，日本新增创新高｜大流行手记（2月2日）](https://m.caixin.com/m/2022-02-03/101837392.html) ![](assets/new.png)  
-- [2022-02-02-广东再现本土奥密克戎-五市共报告病例11个](https://m.caixin.com/m/2022-02-02/101837218.html) ![](assets/new.png)  
-- [2022-02-02-【境内疫情观察】全国新增36例本土病例（2月1日）](https://database.caixin.com/m/2022-02-02/101837319.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -491,6 +471,10 @@
 </summary>
 
 
+- [2022-02-08-conda-如何将某个环境置为全局？](https://www.v2ex.com/t/832482) ![](assets/new.png)  
+- [2022-02-08-联通想转移动](https://www.v2ex.com/t/832480) ![](assets/new.png)  
+- [2022-02-08-Royal-TSX-for-Windows](https://www.v2ex.com/t/832479) ![](assets/new.png)  
+- [2022-02-08-mac-更新到-12.2-版本后打印机崩了](https://www.v2ex.com/t/832478) ![](assets/new.png)  
 - [2022-02-08-兄弟们，你们求婚时用的什么戒指可以推荐嘛，还是都用钻戒？](https://www.v2ex.com/t/832477) ![](assets/new.png)  
 - [2022-02-08-每天产生-1000-条左右消息的内网-Matrix-服务器可以用-SQLite-吗？有必要上-PostgreSQL-吗？](https://www.v2ex.com/t/832476) ![](assets/new.png)  
 - [2022-02-08-HomePod-mini-到底在播放什么](https://www.v2ex.com/t/832474) ![](assets/new.png)  
@@ -507,10 +491,6 @@
 - [2022-02-08-像这种网站能举报么？算内容农场么。](https://www.v2ex.com/t/832462) ![](assets/new.png)  
 - [2022-02-08-华为视频以红包诱导被扣了-138-元包年](https://www.v2ex.com/t/832460) ![](assets/new.png)  
 - [2022-02-08-http->https-的-301-跳转请求也是会暴露-url-的吧](https://www.v2ex.com/t/832458) ![](assets/new.png)  
-- [2022-02-08-14-寸-MacBook-Pro-的低音太上头了，有啥办法](https://www.v2ex.com/t/832457) ![](assets/new.png)  
-- [2022-02-08-vscode-解析-sigaction-不正确的处理方法](https://www.v2ex.com/t/832456) ![](assets/new.png)  
-- [2022-02-08-Gorm-相关，需要动态创建数据表，是不是不太适合使用-ORM-啊？](https://www.v2ex.com/t/832455) ![](assets/new.png)  
-- [2022-02-08-迫于有人跳车，-office365-家庭版空出两车位](https://www.v2ex.com/t/832454) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -562,10 +542,10 @@
 - [2022-02-08-聊一聊如何用C#轻松完成一个SAGA分布式事务](https://toutiao.io/k/ch1khtj) ![](assets/new.png)  
 - [2022-02-08-支付系统架构设计详解](https://toutiao.io/k/5tx1zgw) ![](assets/new.png)  
 - [2022-02-08-面试官：Context携带数据是线程安全的吗？](https://toutiao.io/k/brnxhv9) ![](assets/new.png)  
-- [2022-02-08-推荐-阿里专家：如何画出优秀的架构图？](https://toutiao.io/k/92sk26n) ![](assets/new.png)  
+- [2022-02-08-推荐-原来这才是动态代理！！！](https://toutiao.io/k/ectyif9) ![](assets/new.png)  
 - [2022-02-08-推荐-面试官问:-如何设计一个高并发系统?](https://toutiao.io/k/7hrrplb) ![](assets/new.png)  
 - [2022-02-08-推荐-JVM调优的几种场景（建议收藏）](https://toutiao.io/k/fib82nl) ![](assets/new.png)  
-- [2022-02-08-推荐-原来这才是动态代理！！！](https://toutiao.io/k/ectyif9) ![](assets/new.png)  
+- [2022-02-08-推荐-阿里专家：如何画出优秀的架构图？](https://toutiao.io/k/92sk26n) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

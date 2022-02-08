@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-02-08 14:12:36。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-08 14:20:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1751,6 +1751,7 @@
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2022-02-04-HTML-inputmode与iOS-Android软键盘类型测试](https://www.zhangxinxu.com/wordpress/2022/02/html-inputmode-keyboard/) 
 - [2021-11-14-密码强度效果最佳实现一定是HTML-meter元素](https://www.zhangxinxu.com/wordpress/2021/11/html-meter-password/) 
+- [2022-02-08-有和我一样不看奥运的吗？](https://www.v2ex.com/t/832546) 
 - [2022-02-08-之前在-v2-看到过一个分享最小博客的帖子，不记得具体名称了，内容隐约记得是整个博客仅用几-M，有人见过这个帖子吗？-想求个链接](https://www.v2ex.com/t/832545) 
 - [2022-02-08-Monterey-中使用-VPN-访问公司内网](https://www.v2ex.com/t/832543) 
 - [2022-02-08-ubuntu-访问-NAS-速度很慢](https://www.v2ex.com/t/832537) 
@@ -1800,7 +1801,7 @@
 - [2022-02-08-聊一聊如何用C#轻松完成一个SAGA分布式事务](https://toutiao.io/k/ch1khtj) 
 - [2022-02-08-136-python|第八部分：并发网络编程（一）网络编程上](https://toutiao.io/k/x1af9rz) 
 - [2022-02-08-递归调用uGo函数](https://toutiao.io/k/hetjoek) 
-- [2022-02-08-推荐-JVM调优的几种场景（建议收藏）](https://toutiao.io/k/fib82nl) 
-- [2022-02-08-推荐-作为研发Leader，如何做总结](https://toutiao.io/k/1g7flto) 
 - [2022-02-08-推荐-原来这才是动态代理！！！](https://toutiao.io/k/ectyif9) 
 - [2022-02-08-推荐-阿里专家：如何画出优秀的架构图？](https://toutiao.io/k/92sk26n) 
+- [2022-02-08-推荐-作为研发Leader，如何做总结](https://toutiao.io/k/1g7flto) 
+- [2022-02-08-推荐-JVM调优的几种场景（建议收藏）](https://toutiao.io/k/fib82nl) 

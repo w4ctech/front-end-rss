@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-02-08 10:42:45。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-08 10:55:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1751,6 +1751,8 @@
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2022-02-04-HTML-inputmode与iOS-Android软键盘类型测试](https://www.zhangxinxu.com/wordpress/2022/02/html-inputmode-keyboard/) 
 - [2021-11-14-密码强度效果最佳实现一定是HTML-meter元素](https://www.zhangxinxu.com/wordpress/2021/11/html-meter-password/) 
+- [2022-02-08-求指导-程序员知识体系补全](https://www.v2ex.com/t/832516) 
+- [2022-02-08-写了个网页自动翻页脚本-东方永页机-，可以自动兼容-90%的网站](https://www.v2ex.com/t/832514) 
 - [2022-02-08-Mac-自带输入法不能删除首个词频调整后的备选项？](https://www.v2ex.com/t/832513) 
 - [2022-02-08-我们也会变得跟欧美一样反智吗？](https://www.v2ex.com/t/832512) 
 - [2022-02-08-网站能否获知用户是通过哪个搜索引擎链接过去的？](https://www.v2ex.com/t/832511) 
@@ -1780,8 +1782,6 @@
 - [2022-02-08-Tesla-的车内大屏娱乐系统中的应用程序是用什么编程语言开发?-有相关人士可以透漏下吗?](https://www.v2ex.com/t/832469) 
 - [2022-02-08-法拍房靠谱吗？](https://www.v2ex.com/t/832468) 
 - [2022-02-08-新手买车求推荐~](https://www.v2ex.com/t/832467) 
-- [2022-02-08-话说-iPhone-x-健康-79-还有必要花-500+换电池吗？](https://www.v2ex.com/t/832465) 
-- [2022-02-08-请教一个打印浮点数精度的问题，为什么要把小数部分加一个-add-再进位](https://www.v2ex.com/t/832464) 
 - [2022-02-08-微话搭建优质-Web-应用其一-forum.lovejade.cn](https://blogread.cn/news/go.php?idItem=14928&url=https%3A%2F%2Fforum.lovejade.cn%2Fd%2F141-web%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-02-08-Puppeteer-使用分享及注意事项-forum.lovejade.cn](https://blogread.cn/news/go.php?idItem=14927&url=https%3A%2F%2Fforum.lovejade.cn%2Fd%2F145-puppeteer%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-02-08-优质网站同好者周刊（第-51-期）--倾城之链-blog.nicelinks.site](https://blogread.cn/news/go.php?idItem=14926&url=https%3A%2F%2Fblog.nicelinks.site%2Fweekly-051%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1803,6 +1803,6 @@
 - [2022-02-08-递归调用uGo函数](https://toutiao.io/k/hetjoek) 
 - [2022-02-08-支付系统架构设计详解](https://toutiao.io/k/5tx1zgw) 
 - [2022-02-08-聊一聊如何用C#轻松完成一个SAGA分布式事务](https://toutiao.io/k/ch1khtj) 
-- [2022-02-08-推荐-阿里专家：如何画出优秀的架构图？](https://toutiao.io/k/92sk26n) 
 - [2022-02-08-推荐-原来这才是动态代理！！！](https://toutiao.io/k/ectyif9) 
+- [2022-02-08-推荐-阿里专家：如何画出优秀的架构图？](https://toutiao.io/k/92sk26n) 
 - [2022-02-08-推荐-JVM调优的几种场景（建议收藏）](https://toutiao.io/k/fib82nl) 

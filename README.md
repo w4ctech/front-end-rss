@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-08 17:42:06，:rocket: 更新条数: +1845， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-08 17:54:35，:rocket: 更新条数: +1846， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-02-08-google-的-br-压缩算法是真的强。](https://www.v2ex.com/t/832570) ![](assets/new.png)  
 - [2022-02-08-抖音的人脸识别认证有活体检测吗？现在的人脸识别技术是不是都有活体检测？](https://www.v2ex.com/t/832569) ![](assets/new.png)  
 - [2022-02-08-viewport-info-网站,-探路响应式布局学习](https://www.v2ex.com/t/832568) ![](assets/new.png)  
 - [2022-02-08-请教查询语句，从-UNION-联合查询结果-中再查出指定字段重复的数据？](https://www.v2ex.com/t/832567) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-02-08-Monterey-中使用-VPN-访问公司内网](https://www.v2ex.com/t/832543) ![](assets/new.png)  
 - [2022-02-08-谷爱凌的热度这么大,-把谷歌算法给整不会了??](https://www.v2ex.com/t/832541) ![](assets/new.png)  
 - [2022-02-08-platformize-一个支持把-js-库中浏览器-api-改用定制-polyfill-的构建插件,-并提供-threejs/oasis/playcanvas/pixi-适配](https://www.v2ex.com/t/832540) ![](assets/new.png)  
-- [2022-02-08-ubuntu-访问-NAS-速度很慢](https://www.v2ex.com/t/832537) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -562,9 +562,9 @@
 - [2022-02-08-递归调用uGo函数](https://toutiao.io/k/hetjoek) ![](assets/new.png)  
 - [2022-02-08-136-python|第八部分：并发网络编程（一）网络编程上](https://toutiao.io/k/x1af9rz) ![](assets/new.png)  
 - [2022-02-08-面试官：Context携带数据是线程安全的吗？](https://toutiao.io/k/brnxhv9) ![](assets/new.png)  
+- [2022-02-08-推荐-阿里专家：如何画出优秀的架构图？](https://toutiao.io/k/92sk26n) ![](assets/new.png)  
 - [2022-02-08-推荐-原来这才是动态代理！！！](https://toutiao.io/k/ectyif9) ![](assets/new.png)  
 - [2022-02-08-推荐-作为研发Leader，如何做总结](https://toutiao.io/k/1g7flto) ![](assets/new.png)  
-- [2022-02-08-推荐-阿里专家：如何画出优秀的架构图？](https://toutiao.io/k/92sk26n) ![](assets/new.png)  
 - [2022-02-08-推荐-面试官问:-如何设计一个高并发系统?](https://toutiao.io/k/7hrrplb) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

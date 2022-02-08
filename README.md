@@ -11,11 +11,11 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-08 05:54:38，:rocket: 更新条数: +77， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-08 06:15:11，:rocket: 更新条数: +1849， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
@@ -65,6 +65,26 @@
 </summary>
 
 
+- [2022-02-08-2月7日全国新增新冠105例-本土广西64例天津1例](https://m.caixin.com/m/2022-02-08/101838731.html) ![](assets/new.png)  
+- [2022-02-08-世卫称新冠扰乱90%国家的卫生服务-印度尼西亚加强限制｜大流行手记（2月7日）](https://m.caixin.com/m/2022-02-08/101838792.html) ![](assets/new.png)  
+- [2022-02-07-广西百色三日累计确诊99例-2例为奥密克戎关联深圳](https://m.caixin.com/m/2022-02-07/101838632.html) ![](assets/new.png)  
+- [2022-02-07-香港日增614宗病例再创新高-密切接触者将居家隔离](https://m.caixin.com/m/2022-02-07/101838615.html) ![](assets/new.png)  
+- [2022-02-07-最新海外疫情：新冠感染超3.94亿-累计接种新冠疫苗超101.88亿剂次](https://m.caixin.com/m/2022-02-07/101838649.html) ![](assets/new.png)  
+- [2022-02-07-【境内疫情观察】广西新增37例本土病例（2月6日）](https://database.caixin.com/m/2022-02-07/101838439.html) ![](assets/new.png)  
+- [2022-02-07-渥太华进入紧急状态-韩国累计病例破百万｜大流行手记（2月6日）](https://m.caixin.com/m/2022-02-07/101838282.html) ![](assets/new.png)  
+- [2022-02-06-广西百色：本轮疫情累计确诊43例-第一轮核酸初筛阳性98人](https://m.caixin.com/m/2022-02-06/101838147.html) ![](assets/new.png)  
+- [2022-02-06-【境内疫情观察】广西新增6例本土病例（2月5日）](https://database.caixin.com/m/2022-02-06/101838097.html) ![](assets/new.png)  
+- [2022-02-06-土耳其总统埃尔多安新冠阳性-奥地利疫苗强制接种法案生效｜大流行手记（2月5日）](https://m.caixin.com/m/2022-02-06/101838056.html) ![](assets/new.png)  
+- [2022-02-05-香港疫情两年来“最恶劣”-拟全民派发快速检测包](https://m.caixin.com/m/2022-02-05/101837956.html) ![](assets/new.png)  
+- [2022-02-05-【境内疫情观察】全国新增9例本土病例（2月4日）](https://database.caixin.com/m/2022-02-05/101837971.html) ![](assets/new.png)  
+- [2022-02-05-南非发现更多Omicron新亚型病例-希腊放开旅行者检测要求｜大流行手记（2月4日）](https://m.caixin.com/m/2022-02-05/101837887.html) ![](assets/new.png)  
+- [2022-02-04-【境内疫情观察】全国新增12例本土病例（2月3日）](https://database.caixin.com/m/2022-02-04/101837666.html) ![](assets/new.png)  
+- [2022-02-04-首个新冠人类挑战试验带来重要发现-欧洲解封范围扩大｜大流行手记（2月3日）](https://m.caixin.com/m/2022-02-04/101837579.html) ![](assets/new.png)  
+- [2022-02-03-北京地坛医院1名医务人员确诊，为应急隔离区医生](https://m.caixin.com/m/2022-02-03/101837518.html) ![](assets/new.png)  
+- [2022-02-03-【境内疫情观察】全国新增21例本土病例（2月2日）](https://database.caixin.com/m/2022-02-03/101837478.html) ![](assets/new.png)  
+- [2022-02-03-世卫呼吁稳步缓慢“解封”，日本新增创新高｜大流行手记（2月2日）](https://m.caixin.com/m/2022-02-03/101837392.html) ![](assets/new.png)  
+- [2022-02-02-广东再现本土奥密克戎-五市共报告病例11个](https://m.caixin.com/m/2022-02-02/101837218.html) ![](assets/new.png)  
+- [2022-02-02-【境内疫情观察】全国新增36例本土病例（2月1日）](https://database.caixin.com/m/2022-02-02/101837319.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -471,6 +491,12 @@
 </summary>
 
 
+- [2022-02-08-抖音很可怕](https://www.v2ex.com/t/832436) ![](assets/new.png)  
+- [2022-02-08-你们-idea-内存占用高吗？](https://www.v2ex.com/t/832434) ![](assets/new.png)  
+- [2022-02-08-大家在用默认分辨率还是「更多空间」？](https://www.v2ex.com/t/832432) ![](assets/new.png)  
+- [2022-02-08-武汉路特斯科技-内推-长期有效-前端/-Java](https://www.v2ex.com/t/832431) ![](assets/new.png)  
+- [2022-02-08-翻译软件是怎么根据拉丁字母判断何种语言的？](https://www.v2ex.com/t/832429) ![](assets/new.png)  
+- [2022-02-08-sudo-配置了免密为什么切换过去还是要密码？](https://www.v2ex.com/t/832428) ![](assets/new.png)  
 - [2022-02-08-7-年前的机械盘，测速没问题，但磁盘占用一直很满，是否应该替换了？](https://www.v2ex.com/t/832427) ![](assets/new.png)  
 - [2022-02-08-有通过深度学习来提升音质的工具吗？](https://www.v2ex.com/t/832425) ![](assets/new.png)  
 - [2022-02-08-求职，非常希望有一份音视频方向的工作机会](https://www.v2ex.com/t/832424) ![](assets/new.png)  
@@ -485,12 +511,6 @@
 - [2022-02-08-第一次体验社保中心的门口的最牛人脸识别系统（无需证件）](https://www.v2ex.com/t/832412) ![](assets/new.png)  
 - [2022-02-08-前端怎么样才能获取到一个-img-图片的精确像素值？](https://www.v2ex.com/t/832411) ![](assets/new.png)  
 - [2022-02-08-命令行上传工具-Upgit-现已支持十余种图床](https://www.v2ex.com/t/832410) ![](assets/new.png)  
-- [2022-02-08-广州-资金稳定、产品成熟创业团队寻找一位中高级前端工程师，五险一金、待遇从优、双休](https://www.v2ex.com/t/832409) ![](assets/new.png)  
-- [2022-02-08-发现一个令人感到焦虑的点：电量百分比。](https://www.v2ex.com/t/832408) ![](assets/new.png)  
-- [2022-02-08-NVIDIA-内推---2022](https://www.v2ex.com/t/832407) ![](assets/new.png)  
-- [2022-02-08-令人叹为观止的国企强制-Linux](https://www.v2ex.com/t/832405) ![](assets/new.png)  
-- [2022-02-08-xss-可以垫显示器吗？](https://www.v2ex.com/t/832404) ![](assets/new.png)  
-- [2022-02-08-win11-UWP-微信用不了了？](https://www.v2ex.com/t/832403) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -539,10 +559,14 @@
 - [2022-02-08-递归调用uGo函数](https://toutiao.io/k/hetjoek) ![](assets/new.png)  
 - [2022-02-08-136-python|第八部分：并发网络编程（一）网络编程上](https://toutiao.io/k/x1af9rz) ![](assets/new.png)  
 - [2022-02-08-深度剖析-Vue3-的调度系统](https://toutiao.io/k/6d7kip2) ![](assets/new.png)  
+- [2022-02-08-聊一聊如何用C#轻松完成一个SAGA分布式事务](https://toutiao.io/k/ch1khtj) ![](assets/new.png)  
+- [2022-02-08-支付系统架构设计详解](https://toutiao.io/k/5tx1zgw) ![](assets/new.png)  
+- [2022-02-08-开工第一天：继架构手册之后的第二大手册出世了！](https://toutiao.io/k/9krryvy) ![](assets/new.png)  
+- [2022-02-08-面试官：Context携带数据是线程安全的吗？](https://toutiao.io/k/brnxhv9) ![](assets/new.png)  
+- [2022-02-08-推荐-原来这才是动态代理！！！](https://toutiao.io/k/ectyif9) ![](assets/new.png)  
 - [2022-02-08-推荐-面试官问:-如何设计一个高并发系统?](https://toutiao.io/k/7hrrplb) ![](assets/new.png)  
 - [2022-02-08-推荐-JVM调优的几种场景（建议收藏）](https://toutiao.io/k/fib82nl) ![](assets/new.png)  
 - [2022-02-08-推荐-阿里专家：如何画出优秀的架构图？](https://toutiao.io/k/92sk26n) ![](assets/new.png)  
-- [2022-02-08-推荐-原来这才是动态代理！！！](https://toutiao.io/k/ectyif9) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

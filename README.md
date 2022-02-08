@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-08 09:41:51，:rocket: 更新条数: +1851， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-08 09:54:17，:rocket: 更新条数: +1852， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -67,6 +67,7 @@
 
 - [2022-02-08-最新疫情：全国新冠累计确诊106524例-累计接种新冠疫苗超30.1亿剂次](https://m.caixin.com/m/2022-02-08/101838953.html) ![](assets/new.png)  
 - [2022-02-08-深圳奥密克戎疫情已波及三省九市-百色疫情快速上升](https://m.caixin.com/m/2022-02-08/101838975.html) ![](assets/new.png)  
+- [2022-02-08-深圳五名跨境货车司机确诊-香港蔬菜价格飙升](https://m.caixin.com/m/2022-02-08/101838992.html) ![](assets/new.png)  
 - [2022-02-08-最新海外疫情：新冠感染超3.96亿-累计接种新冠疫苗超101.57亿剂次](https://m.caixin.com/m/2022-02-08/101838968.html) ![](assets/new.png)  
 - [2022-02-08-【境内疫情观察】广西新增64例本土病例（2月7日）](https://database.caixin.com/m/2022-02-08/101838906.html) ![](assets/new.png)  
 - [2022-02-08-世卫称新冠扰乱90%国家的卫生服务-印度尼西亚加强限制｜大流行手记（2月7日）](https://m.caixin.com/m/2022-02-08/101838792.html) ![](assets/new.png)  
@@ -84,7 +85,6 @@
 - [2022-02-04-首个新冠人类挑战试验带来重要发现-欧洲解封范围扩大｜大流行手记（2月3日）](https://m.caixin.com/m/2022-02-04/101837579.html) ![](assets/new.png)  
 - [2022-02-03-北京地坛医院1名医务人员确诊，为应急隔离区医生](https://m.caixin.com/m/2022-02-03/101837518.html) ![](assets/new.png)  
 - [2022-02-03-【境内疫情观察】全国新增21例本土病例（2月2日）](https://database.caixin.com/m/2022-02-03/101837478.html) ![](assets/new.png)  
-- [2022-02-03-世卫呼吁稳步缓慢“解封”，日本新增创新高｜大流行手记（2月2日）](https://m.caixin.com/m/2022-02-03/101837392.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -491,6 +491,11 @@
 </summary>
 
 
+- [2022-02-08-公司以营收不好拒绝发年终是否合法？能否仲裁](https://www.v2ex.com/t/832505) ![](assets/new.png)  
+- [2022-02-08-找工作大厂毕业，回广州找一份-WLB-不卷的躺平前端工作](https://www.v2ex.com/t/832504) ![](assets/new.png)  
+- [2022-02-08-看个-commit-都需要登录，-Gitee-这是怎么了？](https://www.v2ex.com/t/832503) ![](assets/new.png)  
+- [2022-02-08-协方差矩阵为什么可以写成累加的形式？](https://www.v2ex.com/t/832502) ![](assets/new.png)  
+- [2022-02-08-有没有关于"单恋"的理论方面的书?](https://www.v2ex.com/t/832500) ![](assets/new.png)  
 - [2022-02-08-全国，远程-分布式云存储，招-Web-前端，-Nodejs-后端及-Andriod-开发-15~25K](https://www.v2ex.com/t/832498) ![](assets/new.png)  
 - [2022-02-08-情人节要到了，给对象买什么礼物呢？](https://www.v2ex.com/t/832497) ![](assets/new.png)  
 - [2022-02-08-网页展示淘宝商品链接，如何做到手机和电脑都能唤醒？](https://www.v2ex.com/t/832495) ![](assets/new.png)  
@@ -506,11 +511,6 @@
 - [2022-02-08-Royal-TSX-for-Windows](https://www.v2ex.com/t/832479) ![](assets/new.png)  
 - [2022-02-08-mac-更新到-12.2-版本后打印机崩了](https://www.v2ex.com/t/832478) ![](assets/new.png)  
 - [2022-02-08-兄弟们，你们求婚时用的什么戒指可以推荐嘛，还是都用钻戒？](https://www.v2ex.com/t/832477) ![](assets/new.png)  
-- [2022-02-08-每天产生-1000-条左右消息的内网-Matrix-服务器可以用-SQLite-吗？有必要上-PostgreSQL-吗？](https://www.v2ex.com/t/832476) ![](assets/new.png)  
-- [2022-02-08-HomePod-mini-到底在播放什么](https://www.v2ex.com/t/832474) ![](assets/new.png)  
-- [2022-02-08-关于实时同步选项-FCM-和-HTTP-该如何选择？](https://www.v2ex.com/t/832473) ![](assets/new.png)  
-- [2022-02-08-2022-年-75-寸电视求推荐](https://www.v2ex.com/t/832472) ![](assets/new.png)  
-- [2022-02-08-如何将-win-下的单应用音频实时导出为-audio-文件。鉴于上班时要听小语种网课，编程新手求助解决思路](https://www.v2ex.com/t/832470) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -556,16 +556,16 @@
 - [2022-02-08-2022-年别再焦虑啦！加入我们！](https://toutiao.io/k/obimloc) ![](assets/new.png)  
 - [2022-02-08-Go-原生并发原语和最佳实践](https://toutiao.io/k/rdpao5x) ![](assets/new.png)  
 - [2022-02-08-赵学敏：京东商品图谱构建与实体对齐](https://toutiao.io/k/nrwlirv) ![](assets/new.png)  
-- [2022-02-08-递归调用uGo函数](https://toutiao.io/k/hetjoek) ![](assets/new.png)  
 - [2022-02-08-136-python|第八部分：并发网络编程（一）网络编程上](https://toutiao.io/k/x1af9rz) ![](assets/new.png)  
+- [2022-02-08-递归调用uGo函数](https://toutiao.io/k/hetjoek) ![](assets/new.png)  
 - [2022-02-08-深度剖析-Vue3-的调度系统](https://toutiao.io/k/6d7kip2) ![](assets/new.png)  
 - [2022-02-08-聊一聊如何用C#轻松完成一个SAGA分布式事务](https://toutiao.io/k/ch1khtj) ![](assets/new.png)  
 - [2022-02-08-支付系统架构设计详解](https://toutiao.io/k/5tx1zgw) ![](assets/new.png)  
 - [2022-02-08-面试官：Context携带数据是线程安全的吗？](https://toutiao.io/k/brnxhv9) ![](assets/new.png)  
-- [2022-02-08-推荐-JVM调优的几种场景（建议收藏）](https://toutiao.io/k/fib82nl) ![](assets/new.png)  
-- [2022-02-08-推荐-面试官问:-如何设计一个高并发系统?](https://toutiao.io/k/7hrrplb) ![](assets/new.png)  
 - [2022-02-08-推荐-原来这才是动态代理！！！](https://toutiao.io/k/ectyif9) ![](assets/new.png)  
 - [2022-02-08-推荐-阿里专家：如何画出优秀的架构图？](https://toutiao.io/k/92sk26n) ![](assets/new.png)  
+- [2022-02-08-推荐-面试官问:-如何设计一个高并发系统?](https://toutiao.io/k/7hrrplb) ![](assets/new.png)  
+- [2022-02-08-推荐-JVM调优的几种场景（建议收藏）](https://toutiao.io/k/fib82nl) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

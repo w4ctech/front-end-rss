@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-02-08 09:13:14。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-08 09:21:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1749,6 +1749,8 @@
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2022-02-04-HTML-inputmode与iOS-Android软键盘类型测试](https://www.zhangxinxu.com/wordpress/2022/02/html-inputmode-keyboard/) 
 - [2021-11-14-密码强度效果最佳实现一定是HTML-meter元素](https://www.zhangxinxu.com/wordpress/2021/11/html-meter-password/) 
+- [2022-02-08-各位住在北京哪里](https://www.v2ex.com/t/832493) 
+- [2022-02-08-新加坡-美国虚拟币交易所工作](https://www.v2ex.com/t/832492) 
 - [2022-02-08-公众号挪车通知功能邀请大家试用](https://www.v2ex.com/t/832489) 
 - [2022-02-08-2019-款-16-寸的-mbp-键盘不在额外保修范围内吗？](https://www.v2ex.com/t/832488) 
 - [2022-02-08-二手车求推荐](https://www.v2ex.com/t/832485) 
@@ -1777,9 +1779,6 @@
 - [2022-02-08-南京UCLOUD-私有云平台-GoLang-开发，-20-40k*15](https://www.v2ex.com/t/832448) 
 - [2022-02-08-各位大佬们。机械键盘用时间久了，键帽有点发黄？怎么清洗一下。。。](https://www.v2ex.com/t/832446) 
 - [2022-02-08-坐标杭州，有没有啥干净点的外卖？](https://www.v2ex.com/t/832445) 
-- [2022-02-08-最近有没有性价比高点的矿渣可以捡的](https://www.v2ex.com/t/832444) 
-- [2022-02-08-准备金三银四了，吴彦祖们都进来分享点经验？](https://www.v2ex.com/t/832443) 
-- [2022-02-08-后端、前端招人，区块链方向，可远程全职兼职均可](https://www.v2ex.com/t/832441) 
 - [2022-02-08-微话搭建优质-Web-应用其一-forum.lovejade.cn](https://blogread.cn/news/go.php?idItem=14928&url=https%3A%2F%2Fforum.lovejade.cn%2Fd%2F141-web%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-02-08-Puppeteer-使用分享及注意事项-forum.lovejade.cn](https://blogread.cn/news/go.php?idItem=14927&url=https%3A%2F%2Fforum.lovejade.cn%2Fd%2F145-puppeteer%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-02-08-优质网站同好者周刊（第-51-期）--倾城之链-blog.nicelinks.site](https://blogread.cn/news/go.php?idItem=14926&url=https%3A%2F%2Fblog.nicelinks.site%2Fweekly-051%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1801,6 +1800,6 @@
 - [2022-02-08-136-python|第八部分：并发网络编程（一）网络编程上](https://toutiao.io/k/x1af9rz) 
 - [2022-02-08-聊一聊如何用C#轻松完成一个SAGA分布式事务](https://toutiao.io/k/ch1khtj) 
 - [2022-02-08-支付系统架构设计详解](https://toutiao.io/k/5tx1zgw) 
+- [2022-02-08-推荐-JVM调优的几种场景（建议收藏）](https://toutiao.io/k/fib82nl) 
 - [2022-02-08-推荐-阿里专家：如何画出优秀的架构图？](https://toutiao.io/k/92sk26n) 
 - [2022-02-08-推荐-原来这才是动态代理！！！](https://toutiao.io/k/ectyif9) 
-- [2022-02-08-推荐-JVM调优的几种场景（建议收藏）](https://toutiao.io/k/fib82nl) 

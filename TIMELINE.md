@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-02-08 09:13:14。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-02-08 09:21:26。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -94,6 +94,8 @@
 - [【武汉肺炎防疫全纪录(财新网)】2022-02-01-德国未实现接种目标-奥地利强制接种疫苗法律生效｜大流行手记（1月31日）](https://m.caixin.com/m/2022-02-01/101837106.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2022-02-01-聚焦｜张文宏：未来抗疫，是努力夺回正常生活的过程](https://opinion.caixin.com/m/2022-02-01/101837206.html) 
 - [【张鑫旭-鑫空间-鑫生活】2022-02-04-HTML-inputmode与iOS-Android软键盘类型测试](https://www.zhangxinxu.com/wordpress/2022/02/html-inputmode-keyboard/) 
+- [【V2EX】2022-02-08-各位住在北京哪里](https://www.v2ex.com/t/832493) 
+- [【V2EX】2022-02-08-新加坡-美国虚拟币交易所工作](https://www.v2ex.com/t/832492) 
 - [【V2EX】2022-02-08-公众号挪车通知功能邀请大家试用](https://www.v2ex.com/t/832489) 
 - [【V2EX】2022-02-08-2019-款-16-寸的-mbp-键盘不在额外保修范围内吗？](https://www.v2ex.com/t/832488) 
 - [【V2EX】2022-02-08-请教一下-npm-scripts-传参问题](https://www.v2ex.com/t/832486) 
@@ -131,9 +133,6 @@
 - [【V2EX】2022-02-08-成都/西安金数据团队诚聘前端/后端/全栈开发工程师🚀🚀🚀](https://www.v2ex.com/t/832447) 
 - [【V2EX】2022-02-08-各位大佬们。机械键盘用时间久了，键帽有点发黄？怎么清洗一下。。。](https://www.v2ex.com/t/832446) 
 - [【V2EX】2022-02-08-坐标杭州，有没有啥干净点的外卖？](https://www.v2ex.com/t/832445) 
-- [【V2EX】2022-02-08-最近有没有性价比高点的矿渣可以捡的](https://www.v2ex.com/t/832444) 
-- [【V2EX】2022-02-08-准备金三银四了，吴彦祖们都进来分享点经验？](https://www.v2ex.com/t/832443) 
-- [【V2EX】2022-02-08-后端、前端招人，区块链方向，可远程全职兼职均可](https://www.v2ex.com/t/832441) 
 - [【技术头条】2022-02-08-微话搭建优质-Web-应用其一-forum.lovejade.cn](https://blogread.cn/news/go.php?idItem=14928&url=https%3A%2F%2Fforum.lovejade.cn%2Fd%2F141-web%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-02-08-Puppeteer-使用分享及注意事项-forum.lovejade.cn](https://blogread.cn/news/go.php?idItem=14927&url=https%3A%2F%2Fforum.lovejade.cn%2Fd%2F145-puppeteer%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-02-08-优质网站同好者周刊（第-51-期）--倾城之链-blog.nicelinks.site](https://blogread.cn/news/go.php?idItem=14926&url=https%3A%2F%2Fblog.nicelinks.site%2Fweekly-051%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -163,10 +162,10 @@
 - [【开发者头条】2022-02-08-聊一聊如何用C#轻松完成一个SAGA分布式事务](https://toutiao.io/k/ch1khtj) 
 - [【开发者头条】2022-02-08-支付系统架构设计详解](https://toutiao.io/k/5tx1zgw) 
 - [【开发者头条】2022-02-08-面试官：Context携带数据是线程安全的吗？](https://toutiao.io/k/brnxhv9) 
-- [【开发者头条】2022-02-08-推荐-阿里专家：如何画出优秀的架构图？](https://toutiao.io/k/92sk26n) 
-- [【开发者头条】2022-02-08-推荐-原来这才是动态代理！！！](https://toutiao.io/k/ectyif9) 
 - [【开发者头条】2022-02-08-推荐-JVM调优的几种场景（建议收藏）](https://toutiao.io/k/fib82nl) 
+- [【开发者头条】2022-02-08-推荐-阿里专家：如何画出优秀的架构图？](https://toutiao.io/k/92sk26n) 
 - [【开发者头条】2022-02-08-推荐-面试官问:-如何设计一个高并发系统?](https://toutiao.io/k/7hrrplb) 
+- [【开发者头条】2022-02-08-推荐-原来这才是动态代理！！！](https://toutiao.io/k/ectyif9) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

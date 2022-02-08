@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-02-08 05:18:55。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-02-08 05:35:45。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -93,6 +93,8 @@
 - [【武汉肺炎防疫全纪录(财新网)】2022-02-01-德国未实现接种目标-奥地利强制接种疫苗法律生效｜大流行手记（1月31日）](https://m.caixin.com/m/2022-02-01/101837106.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2022-02-01-聚焦｜张文宏：未来抗疫，是努力夺回正常生活的过程](https://opinion.caixin.com/m/2022-02-01/101837206.html) 
 - [【张鑫旭-鑫空间-鑫生活】2022-02-04-HTML-inputmode与iOS-Android软键盘类型测试](https://www.zhangxinxu.com/wordpress/2022/02/html-inputmode-keyboard/) 
+- [【V2EX】2022-02-08-AMD-处理器黑苹果系统-ADOBE-软件有没有完美解决方法？](https://www.v2ex.com/t/832423) 
+- [【V2EX】2022-02-08-群聊-端到端加密-為何不用我這種簡單的方法呢？](https://www.v2ex.com/t/832422) 
 - [【V2EX】2022-02-08-欧链云科这公司咋样啊？](https://www.v2ex.com/t/832420) 
 - [【V2EX】2022-02-08-macOS-剪贴板接力功能失效的终极解决方法](https://www.v2ex.com/t/832417) 
 - [【V2EX】2022-02-08-漫谈找对象问题，引发的散乱探索。](https://www.v2ex.com/t/832416) 
@@ -126,9 +128,6 @@
 - [【V2EX】2022-02-08-单身的朋友看过来，九大靠谱的脱单平台介绍](https://www.v2ex.com/t/832382) 
 - [【V2EX】2022-02-08-我们自己开发代码托管服务，用了两年了，用于内部替代-Github，现免费开源给大家使用](https://www.v2ex.com/t/832380) 
 - [【V2EX】2022-02-08-MacBook-Pro-M1-13-寸-2020-款休眠后，外接显示器需要重新拔插才能正常工作](https://www.v2ex.com/t/832377) 
-- [【V2EX】2022-02-08-《算法（第四版）》算法分析章节中的近似](https://www.v2ex.com/t/832373) 
-- [【V2EX】2022-02-08-开工大吉-深圳宝安，出海互联网，招-go/高级-go](https://www.v2ex.com/t/832372) 
-- [【V2EX】2022-02-08-外国程序员一般看啥（非技术类）（信息流）网站？](https://www.v2ex.com/t/832371) 
 - [【技术头条】2022-02-08-微话搭建优质-Web-应用其一-forum.lovejade.cn](https://blogread.cn/news/go.php?idItem=14928&url=https%3A%2F%2Fforum.lovejade.cn%2Fd%2F141-web%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-02-08-Puppeteer-使用分享及注意事项-forum.lovejade.cn](https://blogread.cn/news/go.php?idItem=14927&url=https%3A%2F%2Fforum.lovejade.cn%2Fd%2F145-puppeteer%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-02-08-优质网站同好者周刊（第-51-期）--倾城之链-blog.nicelinks.site](https://blogread.cn/news/go.php?idItem=14926&url=https%3A%2F%2Fblog.nicelinks.site%2Fweekly-051%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -155,10 +154,10 @@
 - [【开发者头条】2022-02-08-递归调用uGo函数](https://toutiao.io/k/hetjoek) 
 - [【开发者头条】2022-02-08-136-python|第八部分：并发网络编程（一）网络编程上](https://toutiao.io/k/x1af9rz) 
 - [【开发者头条】2022-02-08-深度剖析-Vue3-的调度系统](https://toutiao.io/k/6d7kip2) 
-- [【开发者头条】2022-02-08-推荐-面试官问:-如何设计一个高并发系统?](https://toutiao.io/k/7hrrplb) 
-- [【开发者头条】2022-02-08-推荐-JVM调优的几种场景（建议收藏）](https://toutiao.io/k/fib82nl) 
-- [【开发者头条】2022-02-08-推荐-阿里专家：如何画出优秀的架构图？](https://toutiao.io/k/92sk26n) 
 - [【开发者头条】2022-02-08-推荐-原来这才是动态代理！！！](https://toutiao.io/k/ectyif9) 
+- [【开发者头条】2022-02-08-推荐-阿里专家：如何画出优秀的架构图？](https://toutiao.io/k/92sk26n) 
+- [【开发者头条】2022-02-08-推荐-JVM调优的几种场景（建议收藏）](https://toutiao.io/k/fib82nl) 
+- [【开发者头条】2022-02-08-推荐-面试官问:-如何设计一个高并发系统?](https://toutiao.io/k/7hrrplb) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

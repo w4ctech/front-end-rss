@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-02-08 04:26:17。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-08 04:45:45。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1748,6 +1748,9 @@
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2022-02-04-HTML-inputmode与iOS-Android软键盘类型测试](https://www.zhangxinxu.com/wordpress/2022/02/html-inputmode-keyboard/) 
 - [2021-11-14-密码强度效果最佳实现一定是HTML-meter元素](https://www.zhangxinxu.com/wordpress/2021/11/html-meter-password/) 
+- [2022-02-08-广州-资金稳定、产品成熟创业团队寻找一位中高级前端工程师，五险一金、待遇从优、双休](https://www.v2ex.com/t/832409) 
+- [2022-02-08-发现一个令人感到焦虑的点：电量百分比。](https://www.v2ex.com/t/832408) 
+- [2022-02-08-NVIDIA-内推---2022](https://www.v2ex.com/t/832407) 
 - [2022-02-08-令人叹为观止的国企强制-Linux](https://www.v2ex.com/t/832405) 
 - [2022-02-08-xss-可以垫显示器吗？](https://www.v2ex.com/t/832404) 
 - [2022-02-08-win11-UWP-微信用不了了？](https://www.v2ex.com/t/832403) 
@@ -1771,9 +1774,6 @@
 - [2022-02-08-电信-20g，限速，-50k，如何破？](https://www.v2ex.com/t/832367) 
 - [2022-02-08-代步纯电车怎么从深圳开回成都](https://www.v2ex.com/t/832366) 
 - [2022-02-08-遭遇野蛮快递点，如何维权？](https://www.v2ex.com/t/832361) 
-- [2022-02-08-春节后开工，你们的开工-money-是多少？](https://www.v2ex.com/t/832360) 
-- [2022-02-08-MBP-2017-款，不插电源经常出现熄屏，电池电量充足，但显示电量不足](https://www.v2ex.com/t/832359) 
-- [2022-02-08-wireguard-android-客户端怎么不好使呢](https://www.v2ex.com/t/832358) 
 - [2022-02-08-微话搭建优质-Web-应用其一-forum.lovejade.cn](https://blogread.cn/news/go.php?idItem=14928&url=https%3A%2F%2Fforum.lovejade.cn%2Fd%2F141-web%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-02-08-Puppeteer-使用分享及注意事项-forum.lovejade.cn](https://blogread.cn/news/go.php?idItem=14927&url=https%3A%2F%2Fforum.lovejade.cn%2Fd%2F145-puppeteer%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-02-08-优质网站同好者周刊（第-51-期）--倾城之链-blog.nicelinks.site](https://blogread.cn/news/go.php?idItem=14926&url=https%3A%2F%2Fblog.nicelinks.site%2Fweekly-051%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1793,6 +1793,6 @@
 - [2022-02-08-Go-原生并发原语和最佳实践](https://toutiao.io/k/rdpao5x) 
 - [2022-02-08-递归调用uGo函数](https://toutiao.io/k/hetjoek) 
 - [2022-02-08-136-python|第八部分：并发网络编程（一）网络编程上](https://toutiao.io/k/x1af9rz) 
-- [2022-02-08-推荐-原来这才是动态代理！！！](https://toutiao.io/k/ectyif9) 
-- [2022-02-08-推荐-阿里专家：如何画出优秀的架构图？](https://toutiao.io/k/92sk26n) 
 - [2022-02-08-推荐-JVM调优的几种场景（建议收藏）](https://toutiao.io/k/fib82nl) 
+- [2022-02-08-推荐-阿里专家：如何画出优秀的架构图？](https://toutiao.io/k/92sk26n) 
+- [2022-02-08-推荐-原来这才是动态代理！！！](https://toutiao.io/k/ectyif9) 

@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-02-09 15:56:43。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-09 16:16:40。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -355,7 +355,6 @@
 - [【V2EX】打算换坑,哪里有面试题刷?](https://www.v2ex.com/t/832789)
 - [【V2EX】目前辞职在家，想面试一下试试水，结果笔试题一做-emo-了](https://www.v2ex.com/t/832785)
 - [【V2EX】从面试时的公司-9-问，谈求职者与公司的不对等关系](https://www.v2ex.com/t/832770)
-- [【开发者头条】推荐-面试官问:-如何设计一个高并发系统?](https://toutiao.io/k/7hrrplb)
 - [......【查看更多】......](./details/tags/job-interview.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

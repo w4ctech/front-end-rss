@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-02-09 22:20:16。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-09 22:37:46。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1799,8 +1799,8 @@
 - [2022-02-09-漫谈金丝雀部署-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14917&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fcanary-deployment%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-02-09-大公司病，太TM形象了！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14915&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493202%26amp%3Bidx%3D1%26amp%3Bsn%3De08d82d00cbbf2c8e79f3c18167cf3a7%26amp%3Bchksm%3Dfa3f0709cd488e1f1aef1ff3977c30095179293a65fef2658c28e6ea8af2d5cf243d3fd432e6%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-02-09-2022-年别再焦虑啦！加入我们！](https://toutiao.io/k/obimloc) 
-- [2022-02-09-普通索引-PK-唯一性索引，用哪个好？](https://toutiao.io/k/dbupvgk) 
 - [2022-02-09-面渣逆袭：计算机网络六十二问，三万字图文详解！速收藏！](https://toutiao.io/k/f65mjpf) 
+- [2022-02-09-普通索引-PK-唯一性索引，用哪个好？](https://toutiao.io/k/dbupvgk) 
 - [2022-02-09-QQ音乐推荐系统的精细化调控](https://toutiao.io/k/j9ze7ux) 
 - [2022-02-09-聊聊写代码的20个反面教材](https://toutiao.io/k/d0k0gw1) 
 - [2022-02-09-TiDB-在平安科技丨从-Oracle-迁移到-UbiSQL-的实践](https://toutiao.io/k/mfvugz0) 

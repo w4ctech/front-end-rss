@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-09 08:56:46，:rocket: 更新条数: +1868， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-09 09:12:11，:rocket: 更新条数: +1867， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -65,14 +65,14 @@
 </summary>
 
 
-- [2022-02-09-2月8日全国新增新冠110例-本土广西72例辽宁1例](https://m.caixin.com/m/2022-02-09/101839185.html) ![](assets/new.png)  
+- [2022-02-09-最新疫情：全国新冠累计确诊106634例-累计接种新冠疫苗超30.16亿剂次](https://m.caixin.com/m/2022-02-09/101839437.html) ![](assets/new.png)  
 - [2022-02-09-严防新冠病毒“物传人”-深圳罗湖暂停入境邮件派送](https://m.caixin.com/m/2022-02-09/101839414.html) ![](assets/new.png)  
 - [2022-02-09-新冠为何致嗅觉失灵-《细胞》研究给出生物学解释](https://science.caixin.com/m/2022-02-09/101839294.html) ![](assets/new.png)  
 - [2022-02-09-不打疫苗不能理发-香港全面推行疫苗通行证](https://m.caixin.com/m/2022-02-09/101839260.html) ![](assets/new.png)  
+- [2022-02-09-最新海外疫情：新冠感染超4亿-累计接种新冠疫苗超101.76亿剂次](https://m.caixin.com/m/2022-02-09/101839425.html) ![](assets/new.png)  
 - [2022-02-09-【境内疫情观察】广西新增72例本土病例（2月8日）](https://database.caixin.com/m/2022-02-09/101839339.html) ![](assets/new.png)  
 - [2022-02-09-意大利取消户外口罩令，美国多州取消校园口罩令｜大流行手记（2月8日）](https://m.caixin.com/m/2022-02-09/101839221.html) ![](assets/new.png)  
 - [2022-02-09-新加坡日增逾万病例-儿童感染比例较高](https://m.caixin.com/m/2022-02-09/101839178.html) ![](assets/new.png)  
-- [2022-02-08-最新海外疫情：新冠感染超3.96亿-累计接种新冠疫苗超101.57亿剂次](https://m.caixin.com/m/2022-02-08/101838968.html) ![](assets/new.png)  
 - [2022-02-08-深圳奥密克戎疫情已波及三省九市-百色疫情快速上升](https://m.caixin.com/m/2022-02-08/101838975.html) ![](assets/new.png)  
 - [2022-02-08-深圳五名跨境货车司机确诊-香港蔬菜价格飙升](https://m.caixin.com/m/2022-02-08/101838992.html) ![](assets/new.png)  
 - [2022-02-08-【境内疫情观察】广西新增64例本土病例（2月7日）](https://database.caixin.com/m/2022-02-08/101838906.html) ![](assets/new.png)  
@@ -559,8 +559,8 @@
 - [2022-02-09-普通索引-PK-唯一性索引，用哪个好？](https://toutiao.io/k/dbupvgk) ![](assets/new.png)  
 - [2022-02-09-面渣逆袭：计算机网络六十二问，三万字图文详解！速收藏！](https://toutiao.io/k/f65mjpf) ![](assets/new.png)  
 - [2022-02-09-QQ音乐推荐系统的精细化调控](https://toutiao.io/k/j9ze7ux) ![](assets/new.png)  
-- [2022-02-09-Go-2-中你最期待什么功能？](https://toutiao.io/k/netxrkb) ![](assets/new.png)  
 - [2022-02-09-TiDB-在平安科技丨从-Oracle-迁移到-UbiSQL-的实践](https://toutiao.io/k/mfvugz0) ![](assets/new.png)  
+- [2022-02-09-Go-2-中你最期待什么功能？](https://toutiao.io/k/netxrkb) ![](assets/new.png)  
 - [2022-02-09-AliExpress基于Flink的广告实时数仓建设](https://toutiao.io/k/zr283ak) ![](assets/new.png)  
 - [2022-02-09-实现-React-requestIdleCallback-调度能力](https://toutiao.io/k/zy856av) ![](assets/new.png)  
 - [2022-02-09-从C++转向Rust：两大主题值得关注！](https://toutiao.io/k/ddl1csb) ![](assets/new.png)  
@@ -568,9 +568,9 @@
 - [2022-02-09-作业帮基于-Delta-Lake-的湖仓一体实践](https://toutiao.io/k/m0dkqw1) ![](assets/new.png)  
 - [2022-02-09-聊聊写代码的20个反面教材](https://toutiao.io/k/d0k0gw1) ![](assets/new.png)  
 - [2022-02-09-Mybatis的一些小技巧](https://toutiao.io/k/zt3k2z7) ![](assets/new.png)  
+- [2022-02-09-Deno-2021-回顾：优化内核、兼容-Node.js](https://toutiao.io/k/cjost47) ![](assets/new.png)  
 - [2022-02-09-一文读懂直播卡顿优化那些事儿](https://toutiao.io/k/fe7egng) ![](assets/new.png)  
 - [2022-02-09-全面解析容器编排技术-Kubernetes](https://toutiao.io/k/yhhexl8) ![](assets/new.png)  
-- [2022-02-09-Deno-2021-回顾：优化内核、兼容-Node.js](https://toutiao.io/k/cjost47) ![](assets/new.png)  
 - [2022-02-09-建模之旅：你以为的SCD](https://toutiao.io/k/7zvd3nq) ![](assets/new.png)  
 - [2022-02-09-推荐-原来这才是动态代理！！！](https://toutiao.io/k/ectyif9) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)

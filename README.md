@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-09 07:12:39，:rocket: 更新条数: +1867， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-09 07:20:27，:rocket: 更新条数: +1868， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -69,6 +69,7 @@
 - [2022-02-09-新冠为何致嗅觉失灵-《细胞》研究给出生物学解释](https://science.caixin.com/m/2022-02-09/101839294.html) ![](assets/new.png)  
 - [2022-02-09-不打疫苗不能理发-香港全面推行疫苗通行证](https://m.caixin.com/m/2022-02-09/101839260.html) ![](assets/new.png)  
 - [2022-02-09-新加坡日增逾万病例-儿童感染比例较高](https://m.caixin.com/m/2022-02-09/101839178.html) ![](assets/new.png)  
+- [2022-02-09-【境内疫情观察】广西新增72例本土病例（2月8日）](https://database.caixin.com/m/2022-02-09/101839339.html) ![](assets/new.png)  
 - [2022-02-09-意大利取消户外口罩令，美国多州取消校园口罩令｜大流行手记（2月8日）](https://m.caixin.com/m/2022-02-09/101839221.html) ![](assets/new.png)  
 - [2022-02-08-最新海外疫情：新冠感染超3.96亿-累计接种新冠疫苗超101.57亿剂次](https://m.caixin.com/m/2022-02-08/101838968.html) ![](assets/new.png)  
 - [2022-02-08-深圳奥密克戎疫情已波及三省九市-百色疫情快速上升](https://m.caixin.com/m/2022-02-08/101838975.html) ![](assets/new.png)  
@@ -84,7 +85,6 @@
 - [2022-02-06-土耳其总统埃尔多安新冠阳性-奥地利疫苗强制接种法案生效｜大流行手记（2月5日）](https://m.caixin.com/m/2022-02-06/101838056.html) ![](assets/new.png)  
 - [2022-02-05-香港疫情两年来“最恶劣”-拟全民派发快速检测包](https://m.caixin.com/m/2022-02-05/101837956.html) ![](assets/new.png)  
 - [2022-02-05-【境内疫情观察】全国新增9例本土病例（2月4日）](https://database.caixin.com/m/2022-02-05/101837971.html) ![](assets/new.png)  
-- [2022-02-05-南非发现更多Omicron新亚型病例-希腊放开旅行者检测要求｜大流行手记（2月4日）](https://m.caixin.com/m/2022-02-05/101837887.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-02-09-求推荐一款好用不掉屑的屏幕清洁湿巾](https://www.v2ex.com/t/832701) ![](assets/new.png)  
 - [2022-02-09-华为云-Android-obs-sdk-文件上传，上传-zi-文件，压缩文件损坏](https://www.v2ex.com/t/832700) ![](assets/new.png)  
 - [2022-02-09-坐标广州，寻一款租房软件](https://www.v2ex.com/t/832699) ![](assets/new.png)  
 - [2022-02-09-mysql-集群问题](https://www.v2ex.com/t/832698) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-02-09-一款支持长篇翻译的小程序](https://www.v2ex.com/t/832680) ![](assets/new.png)  
 - [2022-02-09-坐标成都，电信宽带移机后公网-ip-掉了](https://www.v2ex.com/t/832676) ![](assets/new.png)  
 - [2022-02-09-mac-上的-QQGuild-Helper-是什么？](https://www.v2ex.com/t/832675) ![](assets/new.png)  
-- [2022-02-09-广州/深圳新年央企内推，职位多多，福利多多，七险二金！](https://www.v2ex.com/t/832674) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

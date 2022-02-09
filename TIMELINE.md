@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-02-09 03:12:23。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-02-09 03:24:03。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -97,6 +97,10 @@
 - [【武汉肺炎防疫全纪录(财新网)】2022-02-01-德国未实现接种目标-奥地利强制接种疫苗法律生效｜大流行手记（1月31日）](https://m.caixin.com/m/2022-02-01/101837106.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2022-02-01-聚焦｜张文宏：未来抗疫，是努力夺回正常生活的过程](https://opinion.caixin.com/m/2022-02-01/101837206.html) 
 - [【张鑫旭-鑫空间-鑫生活】2022-02-04-HTML-inputmode与iOS-Android软键盘类型测试](https://www.zhangxinxu.com/wordpress/2022/02/html-inputmode-keyboard/) 
+- [【V2EX】2022-02-09-这个配置文件的工具类有没有存在的必要？](https://www.v2ex.com/t/832636) 
+- [【V2EX】2022-02-09-magsafe-的磁吸充电器买谁家的好呀，除了贵贵的官方版的。](https://www.v2ex.com/t/832635) 
+- [【V2EX】2022-02-09-买了个-xss，身边只有一台-macbook，不想买显示器，有别的解决办法吗](https://www.v2ex.com/t/832634) 
+- [【V2EX】2022-02-09-Mac-微信更新后截图一直提示需要权限](https://www.v2ex.com/t/832633) 
 - [【V2EX】2022-02-09-Apple-id-也有类似黑号的风控系统诶](https://www.v2ex.com/t/832630) 
 - [【V2EX】2022-02-09-两包不同口味的咖啡豆，拆了一包，可是很想尝一下另外一包的口味，你是选择先把拆开的喝完呢，还是直接拆第二包？](https://www.v2ex.com/t/832629) 
 - [【V2EX】2022-02-09-零基础转码，学前端还是后端？](https://www.v2ex.com/t/832628) 
@@ -129,10 +133,6 @@
 - [【V2EX】2022-02-09-2022-年-2-月请大家帮忙推荐一款-4K-显示器](https://www.v2ex.com/t/832589) 
 - [【V2EX】2022-02-09-广州央企大量-HC-开放，工作节奏科学，待遇对齐互联网](https://www.v2ex.com/t/832588) 
 - [【V2EX】2022-02-09-2022-年了，兄弟们，能说说提高生活质量/舒适度东西嘛？](https://www.v2ex.com/t/832587) 
-- [【V2EX】2022-02-09-一台-4-核-24G-内存的-arm-架构服务器可以用来做什么](https://www.v2ex.com/t/832586) 
-- [【V2EX】2022-02-09-Apple-在-iOS-15.4-Beta-2-版本中开始支持“Tap-to-Pay“特性，可以将-iPhone-用作移动收款终端。](https://www.v2ex.com/t/832583) 
-- [【V2EX】2022-02-09-大家用什么电视直播软件](https://www.v2ex.com/t/832582) 
-- [【V2EX】2022-02-09-稳定、无广告、1080p，家用监控摄像，求推荐](https://www.v2ex.com/t/832581) 
 - [【技术头条】2022-02-09-5款最佳最牛代码比较神器-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14934&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493248%26amp%3Bidx%3D1%26amp%3Bsn%3D50bb00a7204f2595e19bba088152c56a%26amp%3Bchksm%3Dfa3f07dbcd488ecd96ab648174c45d2d5085db9e8ad2ec47e80bba1e6580f7d7158761183317%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-02-09-在GitHub上提交代码必备指南！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14933&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493238%26amp%3Bidx%3D1%26amp%3Bsn%3Db92e65ee96d1c998d823b55d7fafc234%26amp%3Bchksm%3Dfa3f072dcd488e3b997e0b9b4b48f5c4de6513c91fd46a4d1bde7bb89bf61af7c319e2d5dfff%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-02-09-Linux新手入门的一些基本知识点整理-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14932&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493238%26amp%3Bidx%3D2%26amp%3Bsn%3D349fdafff5bc72eafcc5ac71ad01f6f4%26amp%3Bchksm%3Dfa3f072dcd488e3bf0ced8316f1c7278fce2eaf1946c7f123a864edf879ff397cee6f74a68aa%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -167,9 +167,9 @@
 - [【开发者头条】2022-02-09-AliExpress基于Flink的广告实时数仓建设](https://toutiao.io/k/zr283ak) 
 - [【开发者头条】2022-02-09-作业帮基于-Delta-Lake-的湖仓一体实践](https://toutiao.io/k/m0dkqw1) 
 - [【开发者头条】2022-02-09-推荐-面试官问:-如何设计一个高并发系统?](https://toutiao.io/k/7hrrplb) 
-- [【开发者头条】2022-02-09-推荐-原来这才是动态代理！！！](https://toutiao.io/k/ectyif9) 
 - [【开发者头条】2022-02-09-推荐-阿里专家：如何画出优秀的架构图？](https://toutiao.io/k/92sk26n) 
 - [【开发者头条】2022-02-09-推荐-作为研发Leader，如何做总结](https://toutiao.io/k/1g7flto) 
+- [【开发者头条】2022-02-09-推荐-原来这才是动态代理！！！](https://toutiao.io/k/ectyif9) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

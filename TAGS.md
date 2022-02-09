@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-02-09 10:42:42。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-09 10:54:45。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -282,9 +282,9 @@
 - [【武汉肺炎防疫全纪录(财新网)】腺病毒新冠疫苗引安全忧虑-康希诺称未发现血栓病例](https://m.caixin.com/m/2021-04-14/101691086.html)
 - [【武汉肺炎防疫全纪录(财新网)】解药|新冠mRNA疫苗安全性有哪些挑战？](https://m.caixin.com/m/2021-01-08/101648043.html)
 - [【武汉肺炎防疫全纪录(财新网)】大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html)
+- [【V2EX】edge-浏览器在关闭标签休眠、关闭节能模式的情况下，为什么一小段时间后，再切到之前打开的标签还是会强制刷新？](https://www.v2ex.com/t/832751)
 - [【V2EX】深圳-AfterShip-招聘-SRE,-DevOps-,DBA,-安全工程师](https://www.v2ex.com/t/832731)
 - [【V2EX】QQ-号存在安全风险登录失败，怎么解决？](https://www.v2ex.com/t/832717)
-- [【V2EX】Edge-浏览器-98-新增桌面侧边栏功能-Edge-Bar](https://www.v2ex.com/t/832704)
 - [【开发者头条】石墨文档是如何通过-WebSocket-实现百万长连接的？](https://toutiao.io/k/25nkguu)
 - [......【查看更多】......](./details/tags/browser.md)
 
@@ -354,7 +354,6 @@
 
 
 - [【V2EX】招聘-：资深-UI-设计师/资深交互设计师/资深品牌设计师/资深视觉运营设计师/用户研究员](https://www.v2ex.com/t/832719)
-- [【V2EX】永久远程-UE4-工程师招聘：月薪-30-40K，北美-GamiFi-项目](https://www.v2ex.com/t/832705)
 - [【开发者头条】推荐-面试官问:-如何设计一个高并发系统?](https://toutiao.io/k/7hrrplb)
 - [......【查看更多】......](./details/tags/job-interview.md)
 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-02-09 12:32:49。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-09 12:54:58。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1759,6 +1759,9 @@
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2022-02-04-HTML-inputmode与iOS-Android软键盘类型测试](https://www.zhangxinxu.com/wordpress/2022/02/html-inputmode-keyboard/) 
 - [2021-11-14-密码强度效果最佳实现一定是HTML-meter元素](https://www.zhangxinxu.com/wordpress/2021/11/html-meter-password/) 
+- [2022-02-09-elk-auth-casdoor:-基于-casdoor-的-ELK-开源登录认证解决方案](https://www.v2ex.com/t/832774) 
+- [2022-02-09-迫于休年假，去哪里玩比较好](https://www.v2ex.com/t/832773) 
+- [2022-02-09-美区-Apple-One-Premire-超大杯找乘客](https://www.v2ex.com/t/832772) 
 - [2022-02-09-冬天还有两个月呢，大家推荐家店铺](https://www.v2ex.com/t/832769) 
 - [2022-02-09-有没有适合影视设备出入库管理的系统或软件](https://www.v2ex.com/t/832763) 
 - [2022-02-09-转租立水桥南附近的美立方小区单间](https://www.v2ex.com/t/832762) 
@@ -1809,13 +1812,13 @@
 - [2022-02-09-QQ音乐推荐系统的精细化调控](https://toutiao.io/k/j9ze7ux) 
 - [2022-02-09-TiDB-在平安科技丨从-Oracle-迁移到-UbiSQL-的实践](https://toutiao.io/k/mfvugz0) 
 - [2022-02-09-Go-2-中你最期待什么功能？](https://toutiao.io/k/netxrkb) 
-- [2022-02-09-作业帮基于-Delta-Lake-的湖仓一体实践](https://toutiao.io/k/m0dkqw1) 
 - [2022-02-09-聊聊写代码的20个反面教材](https://toutiao.io/k/d0k0gw1) 
+- [2022-02-09-作业帮基于-Delta-Lake-的湖仓一体实践](https://toutiao.io/k/m0dkqw1) 
 - [2022-02-09-Mybatis的一些小技巧](https://toutiao.io/k/zt3k2z7) 
 - [2022-02-09-从C++转向Rust：两大主题值得关注！](https://toutiao.io/k/ddl1csb) 
 - [2022-02-09-Jetpack-DragAndDrop-库——拖放操作如此轻松！](https://toutiao.io/k/qjg7dky) 
 - [2022-02-09-全面解析容器编排技术-Kubernetes](https://toutiao.io/k/yhhexl8) 
 - [2022-02-09-建模之旅：你以为的SCD](https://toutiao.io/k/7zvd3nq) 
-- [2022-02-09-推荐-作为研发Leader，如何做总结](https://toutiao.io/k/1g7flto) 
-- [2022-02-09-推荐-阿里专家：如何画出优秀的架构图？](https://toutiao.io/k/92sk26n) 
 - [2022-02-09-推荐-原来这才是动态代理！！！](https://toutiao.io/k/ectyif9) 
+- [2022-02-09-推荐-阿里专家：如何画出优秀的架构图？](https://toutiao.io/k/92sk26n) 
+- [2022-02-09-推荐-作为研发Leader，如何做总结](https://toutiao.io/k/1g7flto) 

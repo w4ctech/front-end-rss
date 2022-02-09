@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-09 12:32:49，:rocket: 更新条数: +1872， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-09 12:54:58，:rocket: 更新条数: +1874， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,9 @@
 </summary>
 
 
+- [2022-02-09-elk-auth-casdoor:-基于-casdoor-的-ELK-开源登录认证解决方案](https://www.v2ex.com/t/832774) ![](assets/new.png)  
+- [2022-02-09-迫于休年假，去哪里玩比较好](https://www.v2ex.com/t/832773) ![](assets/new.png)  
+- [2022-02-09-美区-Apple-One-Premire-超大杯找乘客](https://www.v2ex.com/t/832772) ![](assets/new.png)  
 - [2022-02-09-从面试时的公司-9-问，谈求职者与公司的不对等关系](https://www.v2ex.com/t/832770) ![](assets/new.png)  
 - [2022-02-09-冬天还有两个月呢，大家推荐家店铺](https://www.v2ex.com/t/832769) ![](assets/new.png)  
 - [2022-02-09-马来区-Apple-One-Premier-超大杯拼车🚌](https://www.v2ex.com/t/832766) ![](assets/new.png)  
@@ -508,9 +511,6 @@
 - [2022-02-09-edge-浏览器在关闭标签休眠、关闭节能模式的情况下，为什么一小段时间后，再切到之前打开的标签还是会强制刷新？](https://www.v2ex.com/t/832751) ![](assets/new.png)  
 - [2022-02-09-如何给服务器选购-UPS？](https://www.v2ex.com/t/832750) ![](assets/new.png)  
 - [2022-02-09-有人知道国标里的具体项目中的数据类型这块怎么看吗？如何找到对应的规范？](https://www.v2ex.com/t/832749) ![](assets/new.png)  
-- [2022-02-09-求南京靠谱的公司有招实习生的捞下。感谢](https://www.v2ex.com/t/832748) ![](assets/new.png)  
-- [2022-02-09-daocloud-云原生开源项目整理介绍（eBPF，多集群，存储）](https://www.v2ex.com/t/832747) ![](assets/new.png)  
-- [2022-02-09-我的谷歌搜索结果为什么居中显示了？](https://www.v2ex.com/t/832746) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -562,9 +562,9 @@
 - [2022-02-09-TiDB-在平安科技丨从-Oracle-迁移到-UbiSQL-的实践](https://toutiao.io/k/mfvugz0) ![](assets/new.png)  
 - [2022-02-09-AliExpress基于Flink的广告实时数仓建设](https://toutiao.io/k/zr283ak) ![](assets/new.png)  
 - [2022-02-09-Go-2-中你最期待什么功能？](https://toutiao.io/k/netxrkb) ![](assets/new.png)  
+- [2022-02-09-聊聊写代码的20个反面教材](https://toutiao.io/k/d0k0gw1) ![](assets/new.png)  
 - [2022-02-09-作业帮基于-Delta-Lake-的湖仓一体实践](https://toutiao.io/k/m0dkqw1) ![](assets/new.png)  
 - [2022-02-09-实现-React-requestIdleCallback-调度能力](https://toutiao.io/k/zy856av) ![](assets/new.png)  
-- [2022-02-09-聊聊写代码的20个反面教材](https://toutiao.io/k/d0k0gw1) ![](assets/new.png)  
 - [2022-02-09-Mybatis的一些小技巧](https://toutiao.io/k/zt3k2z7) ![](assets/new.png)  
 - [2022-02-09-从C++转向Rust：两大主题值得关注！](https://toutiao.io/k/ddl1csb) ![](assets/new.png)  
 - [2022-02-09-Jetpack-DragAndDrop-库——拖放操作如此轻松！](https://toutiao.io/k/qjg7dky) ![](assets/new.png)  
@@ -572,7 +572,7 @@
 - [2022-02-09-全面解析容器编排技术-Kubernetes](https://toutiao.io/k/yhhexl8) ![](assets/new.png)  
 - [2022-02-09-一文读懂直播卡顿优化那些事儿](https://toutiao.io/k/fe7egng) ![](assets/new.png)  
 - [2022-02-09-建模之旅：你以为的SCD](https://toutiao.io/k/7zvd3nq) ![](assets/new.png)  
-- [2022-02-09-推荐-作为研发Leader，如何做总结](https://toutiao.io/k/1g7flto) ![](assets/new.png)  
+- [2022-02-09-推荐-面试官问:-如何设计一个高并发系统?](https://toutiao.io/k/7hrrplb) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

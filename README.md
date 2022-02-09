@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-09 01:15:14，:rocket: 更新条数: +1847， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-09 02:03:09，:rocket: 更新条数: +1857， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -65,10 +65,11 @@
 </summary>
 
 
-- [2022-02-08-最新疫情：全国新冠累计确诊106524例-累计接种新冠疫苗超30.1亿剂次](https://m.caixin.com/m/2022-02-08/101838953.html) ![](assets/new.png)  
+- [2022-02-09-2月8日全国新增新冠110例-本土广西72例辽宁1例](https://m.caixin.com/m/2022-02-09/101839185.html) ![](assets/new.png)  
+- [2022-02-09-新加坡日增逾万病例-儿童感染比例较高](https://m.caixin.com/m/2022-02-09/101839178.html) ![](assets/new.png)  
 - [2022-02-08-深圳奥密克戎疫情已波及三省九市-百色疫情快速上升](https://m.caixin.com/m/2022-02-08/101838975.html) ![](assets/new.png)  
-- [2022-02-08-深圳五名跨境货车司机确诊-香港蔬菜价格飙升](https://m.caixin.com/m/2022-02-08/101838992.html) ![](assets/new.png)  
 - [2022-02-08-最新海外疫情：新冠感染超3.96亿-累计接种新冠疫苗超101.57亿剂次](https://m.caixin.com/m/2022-02-08/101838968.html) ![](assets/new.png)  
+- [2022-02-08-深圳五名跨境货车司机确诊-香港蔬菜价格飙升](https://m.caixin.com/m/2022-02-08/101838992.html) ![](assets/new.png)  
 - [2022-02-08-【境内疫情观察】广西新增64例本土病例（2月7日）](https://database.caixin.com/m/2022-02-08/101838906.html) ![](assets/new.png)  
 - [2022-02-08-世卫称新冠扰乱90%国家的卫生服务-印度尼西亚加强限制｜大流行手记（2月7日）](https://m.caixin.com/m/2022-02-08/101838792.html) ![](assets/new.png)  
 - [2022-02-07-香港日增614宗病例再创新高-密切接触者将居家隔离](https://m.caixin.com/m/2022-02-07/101838615.html) ![](assets/new.png)  
@@ -84,7 +85,6 @@
 - [2022-02-04-【境内疫情观察】全国新增12例本土病例（2月3日）](https://database.caixin.com/m/2022-02-04/101837666.html) ![](assets/new.png)  
 - [2022-02-04-首个新冠人类挑战试验带来重要发现-欧洲解封范围扩大｜大流行手记（2月3日）](https://m.caixin.com/m/2022-02-04/101837579.html) ![](assets/new.png)  
 - [2022-02-03-北京地坛医院1名医务人员确诊，为应急隔离区医生](https://m.caixin.com/m/2022-02-03/101837518.html) ![](assets/new.png)  
-- [2022-02-03-【境内疫情观察】全国新增21例本土病例（2月2日）](https://database.caixin.com/m/2022-02-03/101837478.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -491,6 +491,11 @@
 </summary>
 
 
+- [2022-02-09-迫于内容农场横行，有必要做一个白名单搜索引擎吗？](https://www.v2ex.com/t/832596) ![](assets/new.png)  
+- [2022-02-09-请问我账号是被降权了吗？好多帖子看不了，被跳回首页。](https://www.v2ex.com/t/832595) ![](assets/new.png)  
+- [2022-02-09-自己写了一个打牌计分的微信小程序，欢迎大家看看](https://www.v2ex.com/t/832594) ![](assets/new.png)  
+- [2022-02-09-2022-年适合女生使用的拍照综合安卓机有哪些推荐？](https://www.v2ex.com/t/832592) ![](assets/new.png)  
+- [2022-02-09-兼职远程-招聘-Scala-工程师](https://www.v2ex.com/t/832590) ![](assets/new.png)  
 - [2022-02-09-2022-年-2-月请大家帮忙推荐一款-4K-显示器](https://www.v2ex.com/t/832589) ![](assets/new.png)  
 - [2022-02-09-广州央企大量-HC-开放，工作节奏科学，待遇对齐互联网](https://www.v2ex.com/t/832588) ![](assets/new.png)  
 - [2022-02-09-2022-年了，兄弟们，能说说提高生活质量/舒适度东西嘛？](https://www.v2ex.com/t/832587) ![](assets/new.png)  
@@ -506,11 +511,6 @@
 - [2022-02-08-ios-日历不显示-Google-账号的日历](https://www.v2ex.com/t/832573) ![](assets/new.png)  
 - [2022-02-08-海外服务不要用百度云加速的域名服务器](https://www.v2ex.com/t/832572) ![](assets/new.png)  
 - [2022-02-08-在微信中阅读订阅号文章时如何收藏起来稍后阅读？](https://www.v2ex.com/t/832571) ![](assets/new.png)  
-- [2022-02-08-google-的-br-压缩算法是真的强。](https://www.v2ex.com/t/832570) ![](assets/new.png)  
-- [2022-02-08-抖音的人脸识别认证有活体检测吗？现在的人脸识别技术是不是都有活体检测？](https://www.v2ex.com/t/832569) ![](assets/new.png)  
-- [2022-02-08-viewport-info-网站,-探路响应式布局学习](https://www.v2ex.com/t/832568) ![](assets/new.png)  
-- [2022-02-08-请教查询语句，从-UNION-联合查询结果-中再查出指定字段重复的数据？](https://www.v2ex.com/t/832567) ![](assets/new.png)  
-- [2022-02-08-小白求助！用-Xcode-写的程序每次打开都要求输入密码](https://www.v2ex.com/t/832564) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -556,15 +556,22 @@
 - [2022-02-09-2022-年别再焦虑啦！加入我们！](https://toutiao.io/k/obimloc) ![](assets/new.png)  
 - [2022-02-09-神器-Nginx-的学习手册-建议收藏-](https://toutiao.io/k/6f1qaso) ![](assets/new.png)  
 - [2022-02-09-石墨文档是如何通过-WebSocket-实现百万长连接的？](https://toutiao.io/k/25nkguu) ![](assets/new.png)  
-- [2022-02-09-面渣逆袭：计算机网络六十二问，三万字图文详解！速收藏！](https://toutiao.io/k/f65mjpf) ![](assets/new.png)  
-- [2022-02-09-Go-2-中你最期待什么功能？](https://toutiao.io/k/netxrkb) ![](assets/new.png)  
 - [2022-02-09-普通索引-PK-唯一性索引，用哪个好？](https://toutiao.io/k/dbupvgk) ![](assets/new.png)  
+- [2022-02-09-面渣逆袭：计算机网络六十二问，三万字图文详解！速收藏！](https://toutiao.io/k/f65mjpf) ![](assets/new.png)  
 - [2022-02-09-QQ音乐推荐系统的精细化调控](https://toutiao.io/k/j9ze7ux) ![](assets/new.png)  
+- [2022-02-09-Go-2-中你最期待什么功能？](https://toutiao.io/k/netxrkb) ![](assets/new.png)  
 - [2022-02-09-实现-React-requestIdleCallback-调度能力](https://toutiao.io/k/zy856av) ![](assets/new.png)  
-- [2022-02-09-推荐-面试官问:-如何设计一个高并发系统?](https://toutiao.io/k/7hrrplb) ![](assets/new.png)  
+- [2022-02-09-SpringBoot四大核心组件，你知道几个？](https://toutiao.io/k/hj0alue) ![](assets/new.png)  
+- [2022-02-09-AliExpress基于Flink的广告实时数仓建设](https://toutiao.io/k/zr283ak) ![](assets/new.png)  
+- [2022-02-09-TiDB-在平安科技丨从-Oracle-迁移到-UbiSQL-的实践](https://toutiao.io/k/mfvugz0) ![](assets/new.png)  
+- [2022-02-09-业务4P分析实践](https://toutiao.io/k/lmehkah) ![](assets/new.png)  
+- [2022-02-09-作业帮基于-Delta-Lake-的湖仓一体实践](https://toutiao.io/k/m0dkqw1) ![](assets/new.png)  
+- [2022-02-09-Jetpack-DragAndDrop-库——拖放操作如此轻松！](https://toutiao.io/k/qjg7dky) ![](assets/new.png)  
+- [2022-02-09-从C++转向Rust：两大主题值得关注！](https://toutiao.io/k/ddl1csb) ![](assets/new.png)  
+- [2022-02-09-推荐-原来这才是动态代理！！！](https://toutiao.io/k/ectyif9) ![](assets/new.png)  
 - [2022-02-09-推荐-作为研发Leader，如何做总结](https://toutiao.io/k/1g7flto) ![](assets/new.png)  
 - [2022-02-09-推荐-阿里专家：如何画出优秀的架构图？](https://toutiao.io/k/92sk26n) ![](assets/new.png)  
-- [2022-02-09-推荐-原来这才是动态代理！！！](https://toutiao.io/k/ectyif9) ![](assets/new.png)  
+- [2022-02-09-推荐-面试官问:-如何设计一个高并发系统?](https://toutiao.io/k/7hrrplb) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

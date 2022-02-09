@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-09 03:54:40，:rocket: 更新条数: +1855， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-09 04:15:11，:rocket: 更新条数: +1860， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -66,7 +66,9 @@
 
 
 - [2022-02-09-2月8日全国新增新冠110例-本土广西72例辽宁1例](https://m.caixin.com/m/2022-02-09/101839185.html) ![](assets/new.png)  
+- [2022-02-09-不打疫苗不能理发-香港全面推行疫苗通行证](https://m.caixin.com/m/2022-02-09/101839260.html) ![](assets/new.png)  
 - [2022-02-09-新加坡日增逾万病例-儿童感染比例较高](https://m.caixin.com/m/2022-02-09/101839178.html) ![](assets/new.png)  
+- [2022-02-09-意大利取消户外口罩令，美国多州取消校园口罩令｜大流行手记（2月8日）](https://m.caixin.com/m/2022-02-09/101839221.html) ![](assets/new.png)  
 - [2022-02-08-深圳奥密克戎疫情已波及三省九市-百色疫情快速上升](https://m.caixin.com/m/2022-02-08/101838975.html) ![](assets/new.png)  
 - [2022-02-08-最新海外疫情：新冠感染超3.96亿-累计接种新冠疫苗超101.57亿剂次](https://m.caixin.com/m/2022-02-08/101838968.html) ![](assets/new.png)  
 - [2022-02-08-深圳五名跨境货车司机确诊-香港蔬菜价格飙升](https://m.caixin.com/m/2022-02-08/101838992.html) ![](assets/new.png)  
@@ -83,8 +85,6 @@
 - [2022-02-05-【境内疫情观察】全国新增9例本土病例（2月4日）](https://database.caixin.com/m/2022-02-05/101837971.html) ![](assets/new.png)  
 - [2022-02-05-南非发现更多Omicron新亚型病例-希腊放开旅行者检测要求｜大流行手记（2月4日）](https://m.caixin.com/m/2022-02-05/101837887.html) ![](assets/new.png)  
 - [2022-02-04-【境内疫情观察】全国新增12例本土病例（2月3日）](https://database.caixin.com/m/2022-02-04/101837666.html) ![](assets/new.png)  
-- [2022-02-04-首个新冠人类挑战试验带来重要发现-欧洲解封范围扩大｜大流行手记（2月3日）](https://m.caixin.com/m/2022-02-04/101837579.html) ![](assets/new.png)  
-- [2022-02-03-北京地坛医院1名医务人员确诊，为应急隔离区医生](https://m.caixin.com/m/2022-02-03/101837518.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -491,6 +491,12 @@
 </summary>
 
 
+- [2022-02-09-wireguard-配合-NAT-实现-windows10-代理服务器](https://www.v2ex.com/t/832654) ![](assets/new.png)  
+- [2022-02-09-手动让-V2EX-走代理是最佳实践吗？](https://www.v2ex.com/t/832653) ![](assets/new.png)  
+- [2022-02-09-迫于想买键盘，最近有啥好用新鲜的键盘吗？](https://www.v2ex.com/t/832652) ![](assets/new.png)  
+- [2022-02-09-看贴《*提高生活质量/舒适度东西》，想购置一台烘干机，询问下大家都用啥烘干机，体验如何？](https://www.v2ex.com/t/832651) ![](assets/new.png)  
+- [2022-02-09-深圳/武汉-腾讯-后台开发高级工程师T9-T11](https://www.v2ex.com/t/832650) ![](assets/new.png)  
+- [2022-02-09-iPhone-12PM-和-13PM-优酷视频会自动调节视频音量](https://www.v2ex.com/t/832649) ![](assets/new.png)  
 - [2022-02-09-求助-如何确定点在曲线中的位置](https://www.v2ex.com/t/832648) ![](assets/new.png)  
 - [2022-02-09-有一个-offer-比较犹豫，大佬们给点意见](https://www.v2ex.com/t/832646) ![](assets/new.png)  
 - [2022-02-09-使用-M1-做-iOS-开发遇到-pod-install-ruby-问题你们都怎么解决?](https://www.v2ex.com/t/832645) ![](assets/new.png)  
@@ -505,12 +511,6 @@
 - [2022-02-09-Mac-微信更新后截图一直提示需要权限](https://www.v2ex.com/t/832633) ![](assets/new.png)  
 - [2022-02-09-使用相同的代理，在-google-搜索时，-Chrome-总是要求机器人验证，-Firefox-却不需要](https://www.v2ex.com/t/832631) ![](assets/new.png)  
 - [2022-02-09-Apple-id-也有类似黑号的风控系统诶](https://www.v2ex.com/t/832630) ![](assets/new.png)  
-- [2022-02-09-两包不同口味的咖啡豆，拆了一包，可是很想尝一下另外一包的口味，你是选择先把拆开的喝完呢，还是直接拆第二包？](https://www.v2ex.com/t/832629) ![](assets/new.png)  
-- [2022-02-09-零基础转码，学前端还是后端？](https://www.v2ex.com/t/832628) ![](assets/new.png)  
-- [2022-02-09-WebAssembly-能够调用另外一个-WebAssembly-么？](https://www.v2ex.com/t/832627) ![](assets/new.png)  
-- [2022-02-09-macbook-有-ac+-泡水后能换新机么？](https://www.v2ex.com/t/832626) ![](assets/new.png)  
-- [2022-02-09-没人关注下情人节嘛？](https://www.v2ex.com/t/832622) ![](assets/new.png)  
-- [2022-02-09-Mac-浏览-YouTube-时，视频亮度暴增是什么情况？](https://www.v2ex.com/t/832620) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -566,10 +566,10 @@
 - [2022-02-09-TiDB-在平安科技丨从-Oracle-迁移到-UbiSQL-的实践](https://toutiao.io/k/mfvugz0) ![](assets/new.png)  
 - [2022-02-09-AliExpress基于Flink的广告实时数仓建设](https://toutiao.io/k/zr283ak) ![](assets/new.png)  
 - [2022-02-09-作业帮基于-Delta-Lake-的湖仓一体实践](https://toutiao.io/k/m0dkqw1) ![](assets/new.png)  
-- [2022-02-09-推荐-阿里专家：如何画出优秀的架构图？](https://toutiao.io/k/92sk26n) ![](assets/new.png)  
-- [2022-02-09-推荐-面试官问:-如何设计一个高并发系统?](https://toutiao.io/k/7hrrplb) ![](assets/new.png)  
 - [2022-02-09-推荐-作为研发Leader，如何做总结](https://toutiao.io/k/1g7flto) ![](assets/new.png)  
+- [2022-02-09-推荐-面试官问:-如何设计一个高并发系统?](https://toutiao.io/k/7hrrplb) ![](assets/new.png)  
 - [2022-02-09-推荐-原来这才是动态代理！！！](https://toutiao.io/k/ectyif9) ![](assets/new.png)  
+- [2022-02-09-推荐-阿里专家：如何画出优秀的架构图？](https://toutiao.io/k/92sk26n) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

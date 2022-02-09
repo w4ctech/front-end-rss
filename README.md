@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-09 06:25:38，:rocket: 更新条数: +1867， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-09 06:44:32，:rocket: 更新条数: +1868， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,14 @@
 </summary>
 
 
+- [2022-02-09-k3s-server-怎么杀](https://www.v2ex.com/t/832691) ![](assets/new.png)  
+- [2022-02-09-有在菲律宾从事过软件开发或-IT-的朋友吗,怎么样?](https://www.v2ex.com/t/832690) ![](assets/new.png)  
+- [2022-02-09-求推荐：-Mac-mini/固定场景小主机解决方案](https://www.v2ex.com/t/832689) ![](assets/new.png)  
+- [2022-02-09-15W-以内的国产车配置中有啥配置里你觉得感知很强烈，能提高驾驶舒适度的？](https://www.v2ex.com/t/832688) ![](assets/new.png)  
+- [2022-02-09-求推荐红茶,口粮茶,便宜点](https://www.v2ex.com/t/832687) ![](assets/new.png)  
+- [2022-02-09-iOS-15.4-快捷指令自动化通知可以关闭了](https://www.v2ex.com/t/832686) ![](assets/new.png)  
+- [2022-02-09-个人项目怎么改掉老是想把代码写的规整的毛病，严重拖慢我写代码的速度](https://www.v2ex.com/t/832684) ![](assets/new.png)  
+- [2022-02-09-朋友公司的云服务器年前发现有挖矿程序，写了个杀挖矿程序的脚本，结果春节期间被-ddos-了](https://www.v2ex.com/t/832682) ![](assets/new.png)  
 - [2022-02-09-每日孩子灵魂拷问：爸爸你去上班干什么呀？](https://www.v2ex.com/t/832681) ![](assets/new.png)  
 - [2022-02-09-一款支持长篇翻译的小程序](https://www.v2ex.com/t/832680) ![](assets/new.png)  
 - [2022-02-09-坐标成都，电信宽带移机后公网-ip-掉了](https://www.v2ex.com/t/832676) ![](assets/new.png)  
@@ -503,14 +511,6 @@
 - [2022-02-09-代码格式化工具-Black-发布首个稳定版](https://www.v2ex.com/t/832665) ![](assets/new.png)  
 - [2022-02-09-在健身环大冒险-手拉坯关卡中作弊](https://www.v2ex.com/t/832663) ![](assets/new.png)  
 - [2022-02-09-美团打车网约车部门招人了](https://www.v2ex.com/t/832662) ![](assets/new.png)  
-- [2022-02-09-春节假期做了一个在线开发者工具包-BazingaTools，期待大家的反馈](https://www.v2ex.com/t/832661) ![](assets/new.png)  
-- [2022-02-09-OneDev-6.3---暗黑模式](https://www.v2ex.com/t/832660) ![](assets/new.png)  
-- [2022-02-09-hype-v、esxi、pve-三大虚拟机系统对比，哪个性能最好？哪个占用最低？](https://www.v2ex.com/t/832659) ![](assets/new.png)  
-- [2022-02-09-继续推进我的游戏，搞了一些室内布局-demo-展示](https://www.v2ex.com/t/832658) ![](assets/new.png)  
-- [2022-02-09-独立游戏靠广告能赚钱吗？分享一下这几天的广告收入](https://www.v2ex.com/t/832657) ![](assets/new.png)  
-- [2022-02-09-第一次装修，不找装修公司，室内效果图都是怎么搞的呀？](https://www.v2ex.com/t/832656) ![](assets/new.png)  
-- [2022-02-09-广州-三七互娱-内推-Golang/-PHP-](https://www.v2ex.com/t/832655) ![](assets/new.png)  
-- [2022-02-09-wireguard-配合-NAT-实现-windows10-代理服务器](https://www.v2ex.com/t/832654) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -568,11 +568,11 @@
 - [2022-02-09-作业帮基于-Delta-Lake-的湖仓一体实践](https://toutiao.io/k/m0dkqw1) ![](assets/new.png)  
 - [2022-02-09-聊聊写代码的20个反面教材](https://toutiao.io/k/d0k0gw1) ![](assets/new.png)  
 - [2022-02-09-Mybatis的一些小技巧](https://toutiao.io/k/zt3k2z7) ![](assets/new.png)  
-- [2022-02-09-节后面试必备：Spring-面试63问](https://toutiao.io/k/8gnkxjv) ![](assets/new.png)  
 - [2022-02-09-全面解析容器编排技术-Kubernetes](https://toutiao.io/k/yhhexl8) ![](assets/new.png)  
-- [2022-02-09-一文读懂直播卡顿优化那些事儿](https://toutiao.io/k/fe7egng) ![](assets/new.png)  
 - [2022-02-09-Deno-2021-回顾：优化内核、兼容-Node.js](https://toutiao.io/k/cjost47) ![](assets/new.png)  
+- [2022-02-09-一文读懂直播卡顿优化那些事儿](https://toutiao.io/k/fe7egng) ![](assets/new.png)  
 - [2022-02-09-建模之旅：你以为的SCD](https://toutiao.io/k/7zvd3nq) ![](assets/new.png)  
+- [2022-02-09-推荐-面试官问:-如何设计一个高并发系统?](https://toutiao.io/k/7hrrplb) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

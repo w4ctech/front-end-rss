@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-02-09 08:15:12。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-09 08:25:14。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -352,6 +352,7 @@
 
 
 
+- [【V2EX】招聘-：资深-UI-设计师/资深交互设计师/资深品牌设计师/资深视觉运营设计师/用户研究员](https://www.v2ex.com/t/832719)
 - [【V2EX】永久远程-UE4-工程师招聘：月薪-30-40K，北美-GamiFi-项目](https://www.v2ex.com/t/832705)
 - [【开发者头条】推荐-面试官问:-如何设计一个高并发系统?](https://toutiao.io/k/7hrrplb)
 - [......【查看更多】......](./details/tags/job-interview.md)

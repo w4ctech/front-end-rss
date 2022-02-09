@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-09 16:31:52，:rocket: 更新条数: +1867， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-09 16:56:45，:rocket: 更新条数: +1865， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-02-09-闲鱼现场交易二手打印机，怎么验机？](https://www.v2ex.com/t/832803) ![](assets/new.png)  
+- [2022-02-09-有没有-stripe-的大佬，分享一下-stripe-养号经验呗，最近真的比较头疼](https://www.v2ex.com/t/832802) ![](assets/new.png)  
 - [2022-02-09-推广一波我写的-Mongoose-插件，可以让我们直接搜索-ref:'xxx'-的属性](https://www.v2ex.com/t/832799) ![](assets/new.png)  
 - [2022-02-09-系统中文输入法按钮-∧没有-Retina-化，是长久以来的-bug-么？](https://www.v2ex.com/t/832796) ![](assets/new.png)  
 - [2022-02-09-目前兼容-MacType-的浏览器只有-Firefox-吗？](https://www.v2ex.com/t/832794) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-02-09-请问-diskinfo-怎么看硬盘呀？](https://www.v2ex.com/t/832778) ![](assets/new.png)  
 - [2022-02-09-2025-年-Java-才是究极体吗](https://www.v2ex.com/t/832777) ![](assets/new.png)  
 - [2022-02-09-索尼电视-65X90J-显示内存只有-3G，正常么？](https://www.v2ex.com/t/832776) ![](assets/new.png)  
-- [2022-02-09-elk-auth-casdoor:-基于-casdoor-的-ELK-开源登录认证解决方案](https://www.v2ex.com/t/832774) ![](assets/new.png)  
-- [2022-02-09-迫于休年假，去哪里玩比较好](https://www.v2ex.com/t/832773) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -572,7 +572,7 @@
 - [2022-02-09-一文读懂直播卡顿优化那些事儿](https://toutiao.io/k/fe7egng) ![](assets/new.png)  
 - [2022-02-09-全面解析容器编排技术-Kubernetes](https://toutiao.io/k/yhhexl8) ![](assets/new.png)  
 - [2022-02-09-建模之旅：你以为的SCD](https://toutiao.io/k/7zvd3nq) ![](assets/new.png)  
-- [2022-02-09-推荐-作为研发Leader，如何做总结](https://toutiao.io/k/1g7flto) ![](assets/new.png)  
+- [2022-02-09-推荐-阿里专家：如何画出优秀的架构图？](https://toutiao.io/k/92sk26n) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

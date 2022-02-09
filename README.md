@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-09 13:16:34，:rocket: 更新条数: +1873， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-09 13:32:25，:rocket: 更新条数: +1873， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -572,7 +572,7 @@
 - [2022-02-09-全面解析容器编排技术-Kubernetes](https://toutiao.io/k/yhhexl8) ![](assets/new.png)  
 - [2022-02-09-一文读懂直播卡顿优化那些事儿](https://toutiao.io/k/fe7egng) ![](assets/new.png)  
 - [2022-02-09-建模之旅：你以为的SCD](https://toutiao.io/k/7zvd3nq) ![](assets/new.png)  
-- [2022-02-09-推荐-原来这才是动态代理！！！](https://toutiao.io/k/ectyif9) ![](assets/new.png)  
+- [2022-02-09-推荐-作为研发Leader，如何做总结](https://toutiao.io/k/1g7flto) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-02-09 15:21:59。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-09 15:40:38。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -106,7 +106,6 @@
 
 
 
-- [【V2EX】m1-升级-macOS-12.3-beta-遇到打不开-chrome-和-electron-app-的问题](https://www.v2ex.com/t/832744)
 - [【开发者头条】AliExpress基于Flink的广告实时数仓建设](https://toutiao.io/k/zr283ak)
 - [【开发者头条】Deno-2021-回顾：优化内核、兼容-Node.js](https://toutiao.io/k/cjost47)
 - [......【查看更多】......](./details/tags/nodejs.md)
@@ -281,6 +280,7 @@
 - [【武汉肺炎防疫全纪录(财新网)】腺病毒新冠疫苗引安全忧虑-康希诺称未发现血栓病例](https://m.caixin.com/m/2021-04-14/101691086.html)
 - [【武汉肺炎防疫全纪录(财新网)】解药|新冠mRNA疫苗安全性有哪些挑战？](https://m.caixin.com/m/2021-01-08/101648043.html)
 - [【武汉肺炎防疫全纪录(财新网)】大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html)
+- [【V2EX】目前兼容-MacType-的浏览器只有-Firefox-吗？](https://www.v2ex.com/t/832794)
 - [【V2EX】马来区-Apple-One-Premier-超大杯拼车🚌](https://www.v2ex.com/t/832766)
 - [【V2EX】类似站长-api-的这种-key-验证方式安全吗？](https://www.v2ex.com/t/832761)
 - [【V2EX】有没有这样一款浏览器扩展?-跨设备查看标签页](https://www.v2ex.com/t/832758)

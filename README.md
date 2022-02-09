@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-09 15:21:59，:rocket: 更新条数: +1873， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-09 15:40:38，:rocket: 更新条数: +1872， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-02-09-目前兼容-MacType-的浏览器只有-Firefox-吗？](https://www.v2ex.com/t/832794) ![](assets/new.png)  
 - [2022-02-09-v-友们有人了解幻方量化么](https://www.v2ex.com/t/832792) ![](assets/new.png)  
 - [2022-02-09-你们习惯这种地图指示吗?](https://www.v2ex.com/t/832790) ![](assets/new.png)  
 - [2022-02-09-打算换坑,哪里有面试题刷?](https://www.v2ex.com/t/832789) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-02-09-迫于休年假，去哪里玩比较好](https://www.v2ex.com/t/832773) ![](assets/new.png)  
 - [2022-02-09-美区-Apple-One-Premire-超大杯找乘客](https://www.v2ex.com/t/832772) ![](assets/new.png)  
 - [2022-02-09-从面试时的公司-9-问，谈求职者与公司的不对等关系](https://www.v2ex.com/t/832770) ![](assets/new.png)  
-- [2022-02-09-冬天还有两个月呢，大家推荐家店铺](https://www.v2ex.com/t/832769) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -572,7 +572,7 @@
 - [2022-02-09-一文读懂直播卡顿优化那些事儿](https://toutiao.io/k/fe7egng) ![](assets/new.png)  
 - [2022-02-09-全面解析容器编排技术-Kubernetes](https://toutiao.io/k/yhhexl8) ![](assets/new.png)  
 - [2022-02-09-建模之旅：你以为的SCD](https://toutiao.io/k/7zvd3nq) ![](assets/new.png)  
-- [2022-02-09-推荐-作为研发Leader，如何做总结](https://toutiao.io/k/1g7flto) ![](assets/new.png)  
+- [2022-02-09-推荐-阿里专家：如何画出优秀的架构图？](https://toutiao.io/k/92sk26n) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

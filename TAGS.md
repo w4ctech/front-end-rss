@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-02-09 03:41:59。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-09 03:54:40。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -124,7 +124,6 @@
 
 
 
-- [【V2EX】自己写了一个打牌计分的微信小程序，欢迎大家看看](https://www.v2ex.com/t/832594)
 - [......【查看更多】......](./details/tags/miniprogram.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -279,6 +278,7 @@
 - [【武汉肺炎防疫全纪录(财新网)】腺病毒新冠疫苗引安全忧虑-康希诺称未发现血栓病例](https://m.caixin.com/m/2021-04-14/101691086.html)
 - [【武汉肺炎防疫全纪录(财新网)】解药|新冠mRNA疫苗安全性有哪些挑战？](https://m.caixin.com/m/2021-01-08/101648043.html)
 - [【武汉肺炎防疫全纪录(财新网)】大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html)
+- [【V2EX】使用相同的代理，在-google-搜索时，-Chrome-总是要求机器人验证，-Firefox-却不需要](https://www.v2ex.com/t/832631)
 - [【开发者头条】石墨文档是如何通过-WebSocket-实现百万长连接的？](https://toutiao.io/k/25nkguu)
 - [......【查看更多】......](./details/tags/browser.md)
 

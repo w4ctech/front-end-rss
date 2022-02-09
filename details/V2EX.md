@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2022-02-09 10:23:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-09 10:39:47。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-02-09-如何给服务器选购-UPS？](https://www.v2ex.com/t/832750) 
 - [2022-02-09-有人知道国标里的具体项目中的数据类型这块怎么看吗？如何找到对应的规范？](https://www.v2ex.com/t/832749) 
 - [2022-02-09-求南京靠谱的公司有招实习生的捞下。感谢](https://www.v2ex.com/t/832748) 
 - [2022-02-09-daocloud-云原生开源项目整理介绍（eBPF，多集群，存储）](https://www.v2ex.com/t/832747) 
@@ -22,7 +23,6 @@
 - [2022-02-09-iPhone-隔空投送给-Mac-失效](https://www.v2ex.com/t/832735) 
 - [2022-02-09-kvm-xen-OpenVZ-pve-esxi-什么关系呀？](https://www.v2ex.com/t/832734) 
 - [2022-02-09-Android-应该如何用代码停止-FCM-的功能？](https://www.v2ex.com/t/832733) 
-- [2022-02-09-哪位大佬帮帮我，-v2ray-一直连不上报错](https://www.v2ex.com/t/832732) 
 - [2022-02-09-深圳-AfterShip-招聘-SRE,-DevOps-,DBA,-安全工程师](https://www.v2ex.com/t/832731) 
 - [2022-02-09-几个构想中的想法](https://www.v2ex.com/t/832728) 
 - [2022-02-09-麻烦大家帮忙出出主意，这房型不知道如何改](https://www.v2ex.com/t/832727) 
@@ -45,4 +45,3 @@
 - [2022-02-09-Edge-浏览器-98-新增桌面侧边栏功能-Edge-Bar](https://www.v2ex.com/t/832704) 
 - [2022-02-09-家庭网络装修方案搞光纤？](https://www.v2ex.com/t/832702) 
 - [2022-02-09-求推荐一款好用不掉屑的屏幕清洁湿巾](https://www.v2ex.com/t/832701) 
-- [2022-02-09-华为云-Android-obs-sdk-文件上传，上传-zi-文件，压缩文件损坏](https://www.v2ex.com/t/832700) 

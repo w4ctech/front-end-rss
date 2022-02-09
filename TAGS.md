@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-02-09 14:54:23。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-09 15:12:58。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -336,7 +336,6 @@
 
 
 - [【V2EX】新年新家，从-Google-Blogger-到-Hugo：-3.-令人惊喜的-GitHub-Copilot](https://www.v2ex.com/t/832784)
-- [【V2EX】M1-小火箭可以让终端也走代理，但是为啥-Git-推代码会-Connection-closed](https://www.v2ex.com/t/832742)
 - [【技术头条】在GitHub上提交代码必备指南！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14933&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493238%26amp%3Bidx%3D1%26amp%3Bsn%3Db92e65ee96d1c998d823b55d7fafc234%26amp%3Bchksm%3Dfa3f072dcd488e3b997e0b9b4b48f5c4de6513c91fd46a4d1bde7bb89bf61af7c319e2d5dfff%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [......【查看更多】......](./details/tags/git-svn.md)
 
@@ -354,6 +353,7 @@
 
 
 
+- [【V2EX】打算换坑,哪里有面试题刷?](https://www.v2ex.com/t/832789)
 - [【V2EX】目前辞职在家，想面试一下试试水，结果笔试题一做-emo-了](https://www.v2ex.com/t/832785)
 - [【V2EX】从面试时的公司-9-问，谈求职者与公司的不对等关系](https://www.v2ex.com/t/832770)
 - [【开发者头条】推荐-面试官问:-如何设计一个高并发系统?](https://toutiao.io/k/7hrrplb)

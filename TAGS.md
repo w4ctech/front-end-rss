@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-02-09 18:46:33。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-09 18:58:35。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -281,7 +281,6 @@
 - [【武汉肺炎防疫全纪录(财新网)】大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html)
 - [【V2EX】目前兼容-MacType-的浏览器只有-Firefox-吗？](https://www.v2ex.com/t/832794)
 - [【V2EX】类似站长-api-的这种-key-验证方式安全吗？](https://www.v2ex.com/t/832761)
-- [【V2EX】有没有这样一款浏览器扩展?-跨设备查看标签页](https://www.v2ex.com/t/832758)
 - [【开发者头条】石墨文档是如何通过-WebSocket-实现百万长连接的？](https://toutiao.io/k/25nkguu)
 - [......【查看更多】......](./details/tags/browser.md)
 

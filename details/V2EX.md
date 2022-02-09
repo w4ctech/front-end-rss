@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2022-02-09 02:39:45。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-09 02:46:18。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-02-09-对象想转行去培训，好难啊](https://www.v2ex.com/t/832615) 
 - [2022-02-09-Deadline-上瘾怎么办？](https://www.v2ex.com/t/832614) 
 - [2022-02-09-JetBrain/Goland-有比较实惠的购买途径吗？平时用的不多](https://www.v2ex.com/t/832613) 
 - [2022-02-09-请家人们推荐一款去油的洗发水](https://www.v2ex.com/t/832611) 

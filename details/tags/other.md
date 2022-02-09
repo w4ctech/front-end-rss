@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-02-09 02:39:45。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-09 02:46:18。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1752,6 +1752,7 @@
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2022-02-04-HTML-inputmode与iOS-Android软键盘类型测试](https://www.zhangxinxu.com/wordpress/2022/02/html-inputmode-keyboard/) 
 - [2021-11-14-密码强度效果最佳实现一定是HTML-meter元素](https://www.zhangxinxu.com/wordpress/2021/11/html-meter-password/) 
+- [2022-02-09-对象想转行去培训，好难啊](https://www.v2ex.com/t/832615) 
 - [2022-02-09-Deadline-上瘾怎么办？](https://www.v2ex.com/t/832614) 
 - [2022-02-09-JetBrain/Goland-有比较实惠的购买途径吗？平时用的不多](https://www.v2ex.com/t/832613) 
 - [2022-02-09-请家人们推荐一款去油的洗发水](https://www.v2ex.com/t/832611) 
@@ -1807,6 +1808,6 @@
 - [2022-02-09-Jetpack-DragAndDrop-库——拖放操作如此轻松！](https://toutiao.io/k/qjg7dky) 
 - [2022-02-09-TiDB-在平安科技丨从-Oracle-迁移到-UbiSQL-的实践](https://toutiao.io/k/mfvugz0) 
 - [2022-02-09-作业帮基于-Delta-Lake-的湖仓一体实践](https://toutiao.io/k/m0dkqw1) 
-- [2022-02-09-推荐-阿里专家：如何画出优秀的架构图？](https://toutiao.io/k/92sk26n) 
-- [2022-02-09-推荐-作为研发Leader，如何做总结](https://toutiao.io/k/1g7flto) 
 - [2022-02-09-推荐-原来这才是动态代理！！！](https://toutiao.io/k/ectyif9) 
+- [2022-02-09-推荐-作为研发Leader，如何做总结](https://toutiao.io/k/1g7flto) 
+- [2022-02-09-推荐-阿里专家：如何画出优秀的架构图？](https://toutiao.io/k/92sk26n) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-09 02:39:45，:rocket: 更新条数: +1858， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-09 02:46:18，:rocket: 更新条数: +1859， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-02-09-对象想转行去培训，好难啊](https://www.v2ex.com/t/832615) ![](assets/new.png)  
 - [2022-02-09-Deadline-上瘾怎么办？](https://www.v2ex.com/t/832614) ![](assets/new.png)  
 - [2022-02-09-JetBrain/Goland-有比较实惠的购买途径吗？平时用的不多](https://www.v2ex.com/t/832613) ![](assets/new.png)  
 - [2022-02-09-请家人们推荐一款去油的洗发水](https://www.v2ex.com/t/832611) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-02-09-自己写了一个打牌计分的微信小程序，欢迎大家看看](https://www.v2ex.com/t/832594) ![](assets/new.png)  
 - [2022-02-09-2022-年适合女生使用的拍照综合安卓机有哪些推荐？](https://www.v2ex.com/t/832592) ![](assets/new.png)  
 - [2022-02-09-兼职远程-招聘-Scala-工程师](https://www.v2ex.com/t/832590) ![](assets/new.png)  
-- [2022-02-09-2022-年-2-月请大家帮忙推荐一款-4K-显示器](https://www.v2ex.com/t/832589) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -566,10 +566,10 @@
 - [2022-02-09-AliExpress基于Flink的广告实时数仓建设](https://toutiao.io/k/zr283ak) ![](assets/new.png)  
 - [2022-02-09-TiDB-在平安科技丨从-Oracle-迁移到-UbiSQL-的实践](https://toutiao.io/k/mfvugz0) ![](assets/new.png)  
 - [2022-02-09-作业帮基于-Delta-Lake-的湖仓一体实践](https://toutiao.io/k/m0dkqw1) ![](assets/new.png)  
-- [2022-02-09-推荐-阿里专家：如何画出优秀的架构图？](https://toutiao.io/k/92sk26n) ![](assets/new.png)  
-- [2022-02-09-推荐-面试官问:-如何设计一个高并发系统?](https://toutiao.io/k/7hrrplb) ![](assets/new.png)  
-- [2022-02-09-推荐-作为研发Leader，如何做总结](https://toutiao.io/k/1g7flto) ![](assets/new.png)  
 - [2022-02-09-推荐-原来这才是动态代理！！！](https://toutiao.io/k/ectyif9) ![](assets/new.png)  
+- [2022-02-09-推荐-作为研发Leader，如何做总结](https://toutiao.io/k/1g7flto) ![](assets/new.png)  
+- [2022-02-09-推荐-面试官问:-如何设计一个高并发系统?](https://toutiao.io/k/7hrrplb) ![](assets/new.png)  
+- [2022-02-09-推荐-阿里专家：如何画出优秀的架构图？](https://toutiao.io/k/92sk26n) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

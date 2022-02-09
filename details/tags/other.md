@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-02-09 02:46:18。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-09 02:58:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1752,6 +1752,8 @@
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2022-02-04-HTML-inputmode与iOS-Android软键盘类型测试](https://www.zhangxinxu.com/wordpress/2022/02/html-inputmode-keyboard/) 
 - [2021-11-14-密码强度效果最佳实现一定是HTML-meter元素](https://www.zhangxinxu.com/wordpress/2021/11/html-meter-password/) 
+- [2022-02-09-迫于总是看到迫于…](https://www.v2ex.com/t/832618) 
+- [2022-02-09-IntelliJ-IDEA-中怎么能看到-markdown-文档的目录？](https://www.v2ex.com/t/832616) 
 - [2022-02-09-对象想转行去培训，好难啊](https://www.v2ex.com/t/832615) 
 - [2022-02-09-Deadline-上瘾怎么办？](https://www.v2ex.com/t/832614) 
 - [2022-02-09-JetBrain/Goland-有比较实惠的购买途径吗？平时用的不多](https://www.v2ex.com/t/832613) 
@@ -1764,7 +1766,6 @@
 - [2022-02-09-针对新-OS-升级，若有必要，备份后是先升级再双清还是先双清再升级？](https://www.v2ex.com/t/832604) 
 - [2022-02-09-找了个新工作总部在成都，在北京上社保要委托易才，有什么风险](https://www.v2ex.com/t/832602) 
 - [2022-02-09-迫于只爱读实体书,-来求一些交换书籍或者购买书籍的渠道](https://www.v2ex.com/t/832600) 
-- [2022-02-09-腾讯云-2022-年最新注册活动领取](https://www.v2ex.com/t/832599) 
 - [2022-02-09-2021-款-iMac-（M1）给-windows-当外接显示器](https://www.v2ex.com/t/832598) 
 - [2022-02-09-分享一个自用的-Android-短信转发方案.](https://www.v2ex.com/t/832597) 
 - [2022-02-09-迫于内容农场横行，有必要做一个白名单搜索引擎吗？](https://www.v2ex.com/t/832596) 
@@ -1781,9 +1782,6 @@
 - [2022-02-08-插件语言该如何选择](https://www.v2ex.com/t/832575) 
 - [2022-02-08-ios-日历不显示-Google-账号的日历](https://www.v2ex.com/t/832573) 
 - [2022-02-08-海外服务不要用百度云加速的域名服务器](https://www.v2ex.com/t/832572) 
-- [2022-02-08-在微信中阅读订阅号文章时如何收藏起来稍后阅读？](https://www.v2ex.com/t/832571) 
-- [2022-02-08-抖音的人脸识别认证有活体检测吗？现在的人脸识别技术是不是都有活体检测？](https://www.v2ex.com/t/832569) 
-- [2022-02-08-请教查询语句，从-UNION-联合查询结果-中再查出指定字段重复的数据？](https://www.v2ex.com/t/832567) 
 - [2022-02-09-5款最佳最牛代码比较神器-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14934&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493248%26amp%3Bidx%3D1%26amp%3Bsn%3D50bb00a7204f2595e19bba088152c56a%26amp%3Bchksm%3Dfa3f07dbcd488ecd96ab648174c45d2d5085db9e8ad2ec47e80bba1e6580f7d7158761183317%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-02-09-Linux新手入门的一些基本知识点整理-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14932&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493238%26amp%3Bidx%3D2%26amp%3Bsn%3D349fdafff5bc72eafcc5ac71ad01f6f4%26amp%3Bchksm%3Dfa3f072dcd488e3bf0ced8316f1c7278fce2eaf1946c7f123a864edf879ff397cee6f74a68aa%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-02-09-毕业不到1年的前端开发同学的焦虑-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14931&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493237%26amp%3Bidx%3D2%26amp%3Bsn%3D9ae8f1abd01b44eeba473fe6e653a9ca%26amp%3Bchksm%3Dfa3f072ecd488e388b746e9863b69792bf5882fed49d81e8b890da2d04c2fb588a78a875cab6%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1808,6 +1806,6 @@
 - [2022-02-09-Jetpack-DragAndDrop-库——拖放操作如此轻松！](https://toutiao.io/k/qjg7dky) 
 - [2022-02-09-TiDB-在平安科技丨从-Oracle-迁移到-UbiSQL-的实践](https://toutiao.io/k/mfvugz0) 
 - [2022-02-09-作业帮基于-Delta-Lake-的湖仓一体实践](https://toutiao.io/k/m0dkqw1) 
+- [2022-02-09-推荐-阿里专家：如何画出优秀的架构图？](https://toutiao.io/k/92sk26n) 
 - [2022-02-09-推荐-原来这才是动态代理！！！](https://toutiao.io/k/ectyif9) 
 - [2022-02-09-推荐-作为研发Leader，如何做总结](https://toutiao.io/k/1g7flto) 
-- [2022-02-09-推荐-阿里专家：如何画出优秀的架构图？](https://toutiao.io/k/92sk26n) 

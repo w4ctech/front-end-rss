@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-02-09 05:54:46。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-09 06:14:50。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1754,6 +1754,8 @@
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2022-02-04-HTML-inputmode与iOS-Android软键盘类型测试](https://www.zhangxinxu.com/wordpress/2022/02/html-inputmode-keyboard/) 
 - [2021-11-14-密码强度效果最佳实现一定是HTML-meter元素](https://www.zhangxinxu.com/wordpress/2021/11/html-meter-password/) 
+- [2022-02-09-坐标成都，电信宽带移机后公网-ip-掉了](https://www.v2ex.com/t/832676) 
+- [2022-02-09-广州/深圳新年央企内推，职位多多，福利多多，七险二金！](https://www.v2ex.com/t/832674) 
 - [2022-02-09-为什么-HK-的服务器大部分都是洋垃圾？](https://www.v2ex.com/t/832671) 
 - [2022-02-09-腾讯云-2-年-7-个月香港轻量服务器只要-230](https://www.v2ex.com/t/832670) 
 - [2022-02-09-代码格式化工具-Black-发布首个稳定版](https://www.v2ex.com/t/832665) 
@@ -1782,8 +1784,6 @@
 - [2022-02-09-Mac-微信更新后截图一直提示需要权限](https://www.v2ex.com/t/832633) 
 - [2022-02-09-Apple-id-也有类似黑号的风控系统诶](https://www.v2ex.com/t/832630) 
 - [2022-02-09-两包不同口味的咖啡豆，拆了一包，可是很想尝一下另外一包的口味，你是选择先把拆开的喝完呢，还是直接拆第二包？](https://www.v2ex.com/t/832629) 
-- [2022-02-09-零基础转码，学前端还是后端？](https://www.v2ex.com/t/832628) 
-- [2022-02-09-macbook-有-ac+-泡水后能换新机么？](https://www.v2ex.com/t/832626) 
 - [2022-02-09-5款最佳最牛代码比较神器-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14934&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493248%26amp%3Bidx%3D1%26amp%3Bsn%3D50bb00a7204f2595e19bba088152c56a%26amp%3Bchksm%3Dfa3f07dbcd488ecd96ab648174c45d2d5085db9e8ad2ec47e80bba1e6580f7d7158761183317%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-02-09-Linux新手入门的一些基本知识点整理-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14932&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493238%26amp%3Bidx%3D2%26amp%3Bsn%3D349fdafff5bc72eafcc5ac71ad01f6f4%26amp%3Bchksm%3Dfa3f072dcd488e3bf0ced8316f1c7278fce2eaf1946c7f123a864edf879ff397cee6f74a68aa%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-02-09-毕业不到1年的前端开发同学的焦虑-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14931&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493237%26amp%3Bidx%3D2%26amp%3Bsn%3D9ae8f1abd01b44eeba473fe6e653a9ca%26amp%3Bchksm%3Dfa3f072ecd488e388b746e9863b69792bf5882fed49d81e8b890da2d04c2fb588a78a875cab6%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1808,6 +1808,10 @@
 - [2022-02-09-从C++转向Rust：两大主题值得关注！](https://toutiao.io/k/ddl1csb) 
 - [2022-02-09-Jetpack-DragAndDrop-库——拖放操作如此轻松！](https://toutiao.io/k/qjg7dky) 
 - [2022-02-09-作业帮基于-Delta-Lake-的湖仓一体实践](https://toutiao.io/k/m0dkqw1) 
-- [2022-02-09-推荐-作为研发Leader，如何做总结](https://toutiao.io/k/1g7flto) 
-- [2022-02-09-推荐-原来这才是动态代理！！！](https://toutiao.io/k/ectyif9) 
+- [2022-02-09-聊聊写代码的20个反面教材](https://toutiao.io/k/d0k0gw1) 
+- [2022-02-09-Mybatis的一些小技巧](https://toutiao.io/k/zt3k2z7) 
+- [2022-02-09-全面解析容器编排技术-Kubernetes](https://toutiao.io/k/yhhexl8) 
+- [2022-02-09-建模之旅：你以为的SCD](https://toutiao.io/k/7zvd3nq) 
 - [2022-02-09-推荐-阿里专家：如何画出优秀的架构图？](https://toutiao.io/k/92sk26n) 
+- [2022-02-09-推荐-原来这才是动态代理！！！](https://toutiao.io/k/ectyif9) 
+- [2022-02-09-推荐-作为研发Leader，如何做总结](https://toutiao.io/k/1g7flto) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-02-09 08:25:14。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-09 08:41:56。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1812,6 +1812,6 @@
 - [2022-02-09-Mybatis的一些小技巧](https://toutiao.io/k/zt3k2z7) 
 - [2022-02-09-全面解析容器编排技术-Kubernetes](https://toutiao.io/k/yhhexl8) 
 - [2022-02-09-建模之旅：你以为的SCD](https://toutiao.io/k/7zvd3nq) 
-- [2022-02-09-推荐-原来这才是动态代理！！！](https://toutiao.io/k/ectyif9) 
 - [2022-02-09-推荐-作为研发Leader，如何做总结](https://toutiao.io/k/1g7flto) 
 - [2022-02-09-推荐-阿里专家：如何画出优秀的架构图？](https://toutiao.io/k/92sk26n) 
+- [2022-02-09-推荐-原来这才是动态代理！！！](https://toutiao.io/k/ectyif9) 

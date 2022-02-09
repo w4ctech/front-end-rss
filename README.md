@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-09 04:26:54，:rocket: 更新条数: +1860， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-09 04:46:33，:rocket: 更新条数: +1860， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,10 @@
 </summary>
 
 
+- [2022-02-09-在健身环大冒险-手拉坯关卡中作弊](https://www.v2ex.com/t/832663) ![](assets/new.png)  
+- [2022-02-09-美团打车网约车部门招人了](https://www.v2ex.com/t/832662) ![](assets/new.png)  
+- [2022-02-09-春节假期做了一个在线开发者工具包-BazingaTools，期待大家的反馈](https://www.v2ex.com/t/832661) ![](assets/new.png)  
+- [2022-02-09-OneDev-6.3---暗黑模式](https://www.v2ex.com/t/832660) ![](assets/new.png)  
 - [2022-02-09-hype-v、esxi、pve-三大虚拟机系统对比，哪个性能最好？哪个占用最低？](https://www.v2ex.com/t/832659) ![](assets/new.png)  
 - [2022-02-09-继续推进我的游戏，搞了一些室内布局-demo-展示](https://www.v2ex.com/t/832658) ![](assets/new.png)  
 - [2022-02-09-独立游戏靠广告能赚钱吗？分享一下这几天的广告收入](https://www.v2ex.com/t/832657) ![](assets/new.png)  
@@ -507,10 +511,6 @@
 - [2022-02-09-使用-M1-做-iOS-开发遇到-pod-install-ruby-问题你们都怎么解决?](https://www.v2ex.com/t/832645) ![](assets/new.png)  
 - [2022-02-09-最近的树莓派-4B-一路飙升啊？啥情况](https://www.v2ex.com/t/832644) ![](assets/new.png)  
 - [2022-02-09-我的-newsletter-订阅数到-1000-啦](https://www.v2ex.com/t/832643) ![](assets/new.png)  
-- [2022-02-09-杭州-Java-PingPong-杭州独角兽](https://www.v2ex.com/t/832642) ![](assets/new.png)  
-- [2022-02-09-LaraveL-学习](https://www.v2ex.com/t/832640) ![](assets/new.png)  
-- [2022-02-09-2022-年，软件测试在北京还容易找工作吗？](https://www.v2ex.com/t/832639) ![](assets/new.png)  
-- [2022-02-09-这个配置文件的工具类有没有存在的必要？](https://www.v2ex.com/t/832636) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -566,10 +566,10 @@
 - [2022-02-09-TiDB-在平安科技丨从-Oracle-迁移到-UbiSQL-的实践](https://toutiao.io/k/mfvugz0) ![](assets/new.png)  
 - [2022-02-09-AliExpress基于Flink的广告实时数仓建设](https://toutiao.io/k/zr283ak) ![](assets/new.png)  
 - [2022-02-09-作业帮基于-Delta-Lake-的湖仓一体实践](https://toutiao.io/k/m0dkqw1) ![](assets/new.png)  
-- [2022-02-09-推荐-作为研发Leader，如何做总结](https://toutiao.io/k/1g7flto) ![](assets/new.png)  
-- [2022-02-09-推荐-面试官问:-如何设计一个高并发系统?](https://toutiao.io/k/7hrrplb) ![](assets/new.png)  
 - [2022-02-09-推荐-原来这才是动态代理！！！](https://toutiao.io/k/ectyif9) ![](assets/new.png)  
+- [2022-02-09-推荐-面试官问:-如何设计一个高并发系统?](https://toutiao.io/k/7hrrplb) ![](assets/new.png)  
 - [2022-02-09-推荐-阿里专家：如何画出优秀的架构图？](https://toutiao.io/k/92sk26n) ![](assets/new.png)  
+- [2022-02-09-推荐-作为研发Leader，如何做总结](https://toutiao.io/k/1g7flto) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

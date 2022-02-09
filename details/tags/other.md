@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-02-09 15:44:39。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-09 15:56:43。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1759,6 +1759,7 @@
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2022-02-04-HTML-inputmode与iOS-Android软键盘类型测试](https://www.zhangxinxu.com/wordpress/2022/02/html-inputmode-keyboard/) 
 - [2021-11-14-密码强度效果最佳实现一定是HTML-meter元素](https://www.zhangxinxu.com/wordpress/2021/11/html-meter-password/) 
+- [2022-02-09-系统中文输入法按钮-∧没有-Retina-化，是长久以来的-bug-么？](https://www.v2ex.com/t/832796) 
 - [2022-02-09-v-友们有人了解幻方量化么](https://www.v2ex.com/t/832792) 
 - [2022-02-09-你们习惯这种地图指示吗?](https://www.v2ex.com/t/832790) 
 - [2022-02-09-刚激活的-MacBook-Pro-16-电池循环已经-10-次，是否正常？](https://www.v2ex.com/t/832787) 
@@ -1785,8 +1786,6 @@
 - [2022-02-09-惹不起的灰尘](https://www.v2ex.com/t/832752) 
 - [2022-02-09-如何给服务器选购-UPS？](https://www.v2ex.com/t/832750) 
 - [2022-02-09-有人知道国标里的具体项目中的数据类型这块怎么看吗？如何找到对应的规范？](https://www.v2ex.com/t/832749) 
-- [2022-02-09-求南京靠谱的公司有招实习生的捞下。感谢](https://www.v2ex.com/t/832748) 
-- [2022-02-09-daocloud-云原生开源项目整理介绍（eBPF，多集群，存储）](https://www.v2ex.com/t/832747) 
 - [2022-02-09-5款最佳最牛代码比较神器-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14934&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493248%26amp%3Bidx%3D1%26amp%3Bsn%3D50bb00a7204f2595e19bba088152c56a%26amp%3Bchksm%3Dfa3f07dbcd488ecd96ab648174c45d2d5085db9e8ad2ec47e80bba1e6580f7d7158761183317%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-02-09-Linux新手入门的一些基本知识点整理-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14932&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493238%26amp%3Bidx%3D2%26amp%3Bsn%3D349fdafff5bc72eafcc5ac71ad01f6f4%26amp%3Bchksm%3Dfa3f072dcd488e3bf0ced8316f1c7278fce2eaf1946c7f123a864edf879ff397cee6f74a68aa%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-02-09-毕业不到1年的前端开发同学的焦虑-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14931&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493237%26amp%3Bidx%3D2%26amp%3Bsn%3D9ae8f1abd01b44eeba473fe6e653a9ca%26amp%3Bchksm%3Dfa3f072ecd488e388b746e9863b69792bf5882fed49d81e8b890da2d04c2fb588a78a875cab6%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1803,8 +1802,8 @@
 - [2022-02-09-漫谈金丝雀部署-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14917&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fcanary-deployment%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-02-09-大公司病，太TM形象了！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14915&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493202%26amp%3Bidx%3D1%26amp%3Bsn%3De08d82d00cbbf2c8e79f3c18167cf3a7%26amp%3Bchksm%3Dfa3f0709cd488e1f1aef1ff3977c30095179293a65fef2658c28e6ea8af2d5cf243d3fd432e6%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-02-09-2022-年别再焦虑啦！加入我们！](https://toutiao.io/k/obimloc) 
-- [2022-02-09-面渣逆袭：计算机网络六十二问，三万字图文详解！速收藏！](https://toutiao.io/k/f65mjpf) 
 - [2022-02-09-普通索引-PK-唯一性索引，用哪个好？](https://toutiao.io/k/dbupvgk) 
+- [2022-02-09-面渣逆袭：计算机网络六十二问，三万字图文详解！速收藏！](https://toutiao.io/k/f65mjpf) 
 - [2022-02-09-QQ音乐推荐系统的精细化调控](https://toutiao.io/k/j9ze7ux) 
 - [2022-02-09-聊聊写代码的20个反面教材](https://toutiao.io/k/d0k0gw1) 
 - [2022-02-09-TiDB-在平安科技丨从-Oracle-迁移到-UbiSQL-的实践](https://toutiao.io/k/mfvugz0) 

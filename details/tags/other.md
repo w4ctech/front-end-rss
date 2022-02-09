@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-02-09 10:54:45。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-09 11:11:12。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -6,10 +6,11 @@
 
 
 - [2022-02-09-最新疫情：全国新冠累计确诊106634例-累计接种新冠疫苗超30.16亿剂次](https://m.caixin.com/m/2022-02-09/101839437.html) 
+- [2022-02-09-香港日增病例破千-医院急诊室严重超负荷](https://m.caixin.com/m/2022-02-09/101839506.html) 
 - [2022-02-09-严防新冠病毒“物传人”-深圳罗湖暂停入境邮件派送](https://m.caixin.com/m/2022-02-09/101839414.html) 
 - [2022-02-09-新冠为何致嗅觉失灵-《细胞》研究给出生物学解释](https://science.caixin.com/m/2022-02-09/101839294.html) 
-- [2022-02-09-不打疫苗不能理发-香港全面推行疫苗通行证](https://m.caixin.com/m/2022-02-09/101839260.html) 
 - [2022-02-09-最新海外疫情：新冠感染超4亿-累计接种新冠疫苗超101.76亿剂次](https://m.caixin.com/m/2022-02-09/101839425.html) 
+- [2022-02-09-不打疫苗不能理发-香港全面推行疫苗通行证](https://m.caixin.com/m/2022-02-09/101839260.html) 
 - [2022-02-09-【境内疫情观察】广西新增72例本土病例（2月8日）](https://database.caixin.com/m/2022-02-09/101839339.html) 
 - [2022-02-09-意大利取消户外口罩令，美国多州取消校园口罩令｜大流行手记（2月8日）](https://m.caixin.com/m/2022-02-09/101839221.html) 
 - [2022-02-09-新加坡日增逾万病例-儿童感染比例较高](https://m.caixin.com/m/2022-02-09/101839178.html) 
@@ -1757,6 +1758,7 @@
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2022-02-04-HTML-inputmode与iOS-Android软键盘类型测试](https://www.zhangxinxu.com/wordpress/2022/02/html-inputmode-keyboard/) 
 - [2021-11-14-密码强度效果最佳实现一定是HTML-meter元素](https://www.zhangxinxu.com/wordpress/2021/11/html-meter-password/) 
+- [2022-02-09-dell-机架式服务器装-centos-7.7，部署应用后断电开机黑屏](https://www.v2ex.com/t/832756) 
 - [2022-02-09-写的开源软件被剽窃了，竟然还发到-app-store](https://www.v2ex.com/t/832755) 
 - [2022-02-09-请教下根据数据表，自动生成查看数据的页面的类似项目](https://www.v2ex.com/t/832754) 
 - [2022-02-09-把开源项目新的-feature-更新到已经魔改过的自用版本上的最佳姿势是什么？](https://www.v2ex.com/t/832753) 
@@ -1786,9 +1788,6 @@
 - [2022-02-09-家人们成都这边有没有啥卖中央空调的商家推荐的-最近准备装房子](https://www.v2ex.com/t/832712) 
 - [2022-02-09-2022-M1-mac-侧载-ipa-还有可能吗？](https://www.v2ex.com/t/832711) 
 - [2022-02-09-cmd-轻点失灵，是否有其他替代方案？](https://www.v2ex.com/t/832710) 
-- [2022-02-09-有没有基于-ML-的音质增强的开源项目？](https://www.v2ex.com/t/832708) 
-- [2022-02-09-google-voice-号码前几天刚过期了，求助](https://www.v2ex.com/t/832707) 
-- [2022-02-09-腾讯内推，欢迎来聊~](https://www.v2ex.com/t/832706) 
 - [2022-02-09-5款最佳最牛代码比较神器-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14934&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493248%26amp%3Bidx%3D1%26amp%3Bsn%3D50bb00a7204f2595e19bba088152c56a%26amp%3Bchksm%3Dfa3f07dbcd488ecd96ab648174c45d2d5085db9e8ad2ec47e80bba1e6580f7d7158761183317%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-02-09-Linux新手入门的一些基本知识点整理-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14932&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493238%26amp%3Bidx%3D2%26amp%3Bsn%3D349fdafff5bc72eafcc5ac71ad01f6f4%26amp%3Bchksm%3Dfa3f072dcd488e3bf0ced8316f1c7278fce2eaf1946c7f123a864edf879ff397cee6f74a68aa%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-02-09-毕业不到1年的前端开发同学的焦虑-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14931&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493237%26amp%3Bidx%3D2%26amp%3Bsn%3D9ae8f1abd01b44eeba473fe6e653a9ca%26amp%3Bchksm%3Dfa3f072ecd488e388b746e9863b69792bf5882fed49d81e8b890da2d04c2fb588a78a875cab6%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1817,6 +1816,6 @@
 - [2022-02-09-Mybatis的一些小技巧](https://toutiao.io/k/zt3k2z7) 
 - [2022-02-09-全面解析容器编排技术-Kubernetes](https://toutiao.io/k/yhhexl8) 
 - [2022-02-09-建模之旅：你以为的SCD](https://toutiao.io/k/7zvd3nq) 
-- [2022-02-09-推荐-原来这才是动态代理！！！](https://toutiao.io/k/ectyif9) 
 - [2022-02-09-推荐-阿里专家：如何画出优秀的架构图？](https://toutiao.io/k/92sk26n) 
+- [2022-02-09-推荐-原来这才是动态代理！！！](https://toutiao.io/k/ectyif9) 
 - [2022-02-09-推荐-作为研发Leader，如何做总结](https://toutiao.io/k/1g7flto) 

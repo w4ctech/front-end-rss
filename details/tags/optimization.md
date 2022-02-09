@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-02-09 04:15:11。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-09 04:26:54。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 性能优化
 
@@ -7,5 +7,6 @@
 
 
 
+- [2022-02-09-hype-v、esxi、pve-三大虚拟机系统对比，哪个性能最好？哪个占用最低？](https://www.v2ex.com/t/832659) 
 - [2022-02-09-C-中访问-Lua-配置表的优化-blog.codingnow.com](https://blogread.cn/news/go.php?idItem=14923&url=https%3A%2F%2Fblog.codingnow.com%2F2021%2F11%2Fc_cache_lua_table.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-02-09-Android-性能优化的术、道、器-androidperformance.com](https://blogread.cn/news/go.php?idItem=14919&url=https%3A%2F%2Fandroidperformance.com%2F2022%2F01%2F07%2FThe-Performace-1-Performance-Tools%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

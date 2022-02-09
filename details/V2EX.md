@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-02-09 17:00:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-09 17:15:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
@@ -27,7 +27,6 @@
 - [2022-02-09-索尼电视-65X90J-显示内存只有-3G，正常么？](https://www.v2ex.com/t/832776) 
 - [2022-02-09-elk-auth-casdoor:-基于-casdoor-的-ELK-开源登录认证解决方案](https://www.v2ex.com/t/832774) 
 - [2022-02-09-迫于休年假，去哪里玩比较好](https://www.v2ex.com/t/832773) 
-- [2022-02-09-美区-Apple-One-Premire-超大杯找乘客](https://www.v2ex.com/t/832772) 
 - [2022-02-09-从面试时的公司-9-问，谈求职者与公司的不对等关系](https://www.v2ex.com/t/832770) 
 - [2022-02-09-冬天还有两个月呢，大家推荐家店铺](https://www.v2ex.com/t/832769) 
 - [2022-02-09-有没有适合影视设备出入库管理的系统或软件](https://www.v2ex.com/t/832763) 

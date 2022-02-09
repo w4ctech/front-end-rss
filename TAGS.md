@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-02-09 03:24:03。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-09 03:38:29。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -347,7 +347,6 @@
 
 
 
-- [【V2EX】兼职远程-招聘-Scala-工程师](https://www.v2ex.com/t/832590)
 - [【开发者头条】推荐-面试官问:-如何设计一个高并发系统?](https://toutiao.io/k/7hrrplb)
 - [......【查看更多】......](./details/tags/job-interview.md)
 

@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-02-09 13:54:47。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-09 14:11:16。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -284,7 +284,6 @@
 - [【V2EX】类似站长-api-的这种-key-验证方式安全吗？](https://www.v2ex.com/t/832761)
 - [【V2EX】有没有这样一款浏览器扩展?-跨设备查看标签页](https://www.v2ex.com/t/832758)
 - [【V2EX】edge-浏览器在关闭标签休眠、关闭节能模式的情况下，为什么一小段时间后，再切到之前打开的标签还是会强制刷新？](https://www.v2ex.com/t/832751)
-- [【V2EX】深圳-AfterShip-招聘-SRE,-DevOps-,DBA,-安全工程师](https://www.v2ex.com/t/832731)
 - [【开发者头条】石墨文档是如何通过-WebSocket-实现百万长连接的？](https://toutiao.io/k/25nkguu)
 - [......【查看更多】......](./details/tags/browser.md)
 

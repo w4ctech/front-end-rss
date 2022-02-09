@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-09 13:54:47，:rocket: 更新条数: +1875， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-09 14:11:16，:rocket: 更新条数: +1875， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-02-09-在-2021-年之后上线的新的网站项目中，你觉得设计方面让你最喜欢的是哪些？](https://www.v2ex.com/t/832783) ![](assets/new.png)  
+- [2022-02-09-两个-offer-对比，求指教。](https://www.v2ex.com/t/832781) ![](assets/new.png)  
 - [2022-02-09-请谨慎在奈飞小粉/奈飞-Fans/naifei.fans-家购买合租服务](https://www.v2ex.com/t/832780) ![](assets/new.png)  
 - [2022-02-09-想要系统学习唱歌的话，哪里能提供在线服务？](https://www.v2ex.com/t/832779) ![](assets/new.png)  
 - [2022-02-09-请问-diskinfo-怎么看硬盘呀？](https://www.v2ex.com/t/832778) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-02-09-手上有个特别好用的即时通讯系统，支持集群](https://www.v2ex.com/t/832759) ![](assets/new.png)  
 - [2022-02-09-有没有这样一款浏览器扩展?-跨设备查看标签页](https://www.v2ex.com/t/832758) ![](assets/new.png)  
 - [2022-02-09-dell-机架式服务器装-centos-7.7，部署应用后断电开机黑屏](https://www.v2ex.com/t/832756) ![](assets/new.png)  
-- [2022-02-09-写的开源软件被剽窃了，竟然还发到-app-store](https://www.v2ex.com/t/832755) ![](assets/new.png)  
-- [2022-02-09-请教下根据数据表，自动生成查看数据的页面的类似项目](https://www.v2ex.com/t/832754) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -572,7 +572,7 @@
 - [2022-02-09-一文读懂直播卡顿优化那些事儿](https://toutiao.io/k/fe7egng) ![](assets/new.png)  
 - [2022-02-09-全面解析容器编排技术-Kubernetes](https://toutiao.io/k/yhhexl8) ![](assets/new.png)  
 - [2022-02-09-建模之旅：你以为的SCD](https://toutiao.io/k/7zvd3nq) ![](assets/new.png)  
-- [2022-02-09-推荐-阿里专家：如何画出优秀的架构图？](https://toutiao.io/k/92sk26n) ![](assets/new.png)  
+- [2022-02-09-推荐-作为研发Leader，如何做总结](https://toutiao.io/k/1g7flto) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

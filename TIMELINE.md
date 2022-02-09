@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-02-09 22:11:58。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-02-09 22:20:16。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -174,8 +174,8 @@
 - [【开发者头条】2022-02-09-一文读懂直播卡顿优化那些事儿](https://toutiao.io/k/fe7egng) 
 - [【开发者头条】2022-02-09-全面解析容器编排技术-Kubernetes](https://toutiao.io/k/yhhexl8) 
 - [【开发者头条】2022-02-09-建模之旅：你以为的SCD](https://toutiao.io/k/7zvd3nq) 
-- [【开发者头条】2022-02-09-推荐-作为研发Leader，如何做总结](https://toutiao.io/k/1g7flto) 
 - [【开发者头条】2022-02-09-推荐-阿里专家：如何画出优秀的架构图？](https://toutiao.io/k/92sk26n) 
+- [【开发者头条】2022-02-09-推荐-作为研发Leader，如何做总结](https://toutiao.io/k/1g7flto) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

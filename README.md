@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-09 11:18:04，:rocket: 更新条数: +1872， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-09 11:35:55，:rocket: 更新条数: +1874， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,11 @@
 </summary>
 
 
+- [2022-02-09-有没有适合影视设备出入库管理的系统或软件](https://www.v2ex.com/t/832763) ![](assets/new.png)  
+- [2022-02-09-转租立水桥南附近的美立方小区单间](https://www.v2ex.com/t/832762) ![](assets/new.png)  
+- [2022-02-09-类似站长-api-的这种-key-验证方式安全吗？](https://www.v2ex.com/t/832761) ![](assets/new.png)  
+- [2022-02-09-FF:-做空报告失实-“超-1.4-万份预订为免费预订单”](https://www.v2ex.com/t/832760) ![](assets/new.png)  
+- [2022-02-09-手上有个特别好用的即时通讯系统，支持集群](https://www.v2ex.com/t/832759) ![](assets/new.png)  
 - [2022-02-09-有没有这样一款浏览器扩展?-跨设备查看标签页](https://www.v2ex.com/t/832758) ![](assets/new.png)  
 - [2022-02-09-dell-机架式服务器装-centos-7.7，部署应用后断电开机黑屏](https://www.v2ex.com/t/832756) ![](assets/new.png)  
 - [2022-02-09-写的开源软件被剽窃了，竟然还发到-app-store](https://www.v2ex.com/t/832755) ![](assets/new.png)  
@@ -506,11 +511,6 @@
 - [2022-02-09-aws-ec2-主机-ssh-连上去，无响应是为什么，必须要重新-ssh-登录才行](https://www.v2ex.com/t/832745) ![](assets/new.png)  
 - [2022-02-09-m1-升级-macOS-12.3-beta-遇到打不开-chrome-和-electron-app-的问题](https://www.v2ex.com/t/832744) ![](assets/new.png)  
 - [2022-02-09-钱少，几万块，短期流动性较大，偏向保守型投资理财，现在疫情的原因，实业被嚯嚯的厉害，实业都不景气了投资理财不就风险更大了，想入又不想入，这还能推荐吗？](https://www.v2ex.com/t/832743) ![](assets/new.png)  
-- [2022-02-09-M1-小火箭可以让终端也走代理，但是为啥-Git-推代码会-Connection-closed](https://www.v2ex.com/t/832742) ![](assets/new.png)  
-- [2022-02-09-南京-国企-证券头部30~60k-求-C++和-Java-简历](https://www.v2ex.com/t/832741) ![](assets/new.png)  
-- [2022-02-09-内推晶泰科技深圳/上海-AI+生物医药独角兽-IT/产品/机械/电子/运营-大量岗位在招](https://www.v2ex.com/t/832740) ![](assets/new.png)  
-- [2022-02-09-Kindle-iOS-App-即使切换成英文也还是只能登录国区亚马逊账号](https://www.v2ex.com/t/832739) ![](assets/new.png)  
-- [2022-02-09-热泵热水器/太阳能热水器](https://www.v2ex.com/t/832738) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -572,7 +572,7 @@
 - [2022-02-09-全面解析容器编排技术-Kubernetes](https://toutiao.io/k/yhhexl8) ![](assets/new.png)  
 - [2022-02-09-一文读懂直播卡顿优化那些事儿](https://toutiao.io/k/fe7egng) ![](assets/new.png)  
 - [2022-02-09-建模之旅：你以为的SCD](https://toutiao.io/k/7zvd3nq) ![](assets/new.png)  
-- [2022-02-09-推荐-阿里专家：如何画出优秀的架构图？](https://toutiao.io/k/92sk26n) ![](assets/new.png)  
+- [2022-02-09-推荐-原来这才是动态代理！！！](https://toutiao.io/k/ectyif9) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

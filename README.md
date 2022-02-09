@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-09 14:11:16，:rocket: 更新条数: +1875， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-09 14:19:10，:rocket: 更新条数: +1875， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-02-09-新年新家，从-Google-Blogger-到-Hugo：-3.-令人惊喜的-GitHub-Copilot](https://www.v2ex.com/t/832784) ![](assets/new.png)  
 - [2022-02-09-在-2021-年之后上线的新的网站项目中，你觉得设计方面让你最喜欢的是哪些？](https://www.v2ex.com/t/832783) ![](assets/new.png)  
 - [2022-02-09-两个-offer-对比，求指教。](https://www.v2ex.com/t/832781) ![](assets/new.png)  
 - [2022-02-09-请谨慎在奈飞小粉/奈飞-Fans/naifei.fans-家购买合租服务](https://www.v2ex.com/t/832780) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-02-09-FF:-做空报告失实-“超-1.4-万份预订为免费预订单”](https://www.v2ex.com/t/832760) ![](assets/new.png)  
 - [2022-02-09-手上有个特别好用的即时通讯系统，支持集群](https://www.v2ex.com/t/832759) ![](assets/new.png)  
 - [2022-02-09-有没有这样一款浏览器扩展?-跨设备查看标签页](https://www.v2ex.com/t/832758) ![](assets/new.png)  
-- [2022-02-09-dell-机架式服务器装-centos-7.7，部署应用后断电开机黑屏](https://www.v2ex.com/t/832756) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

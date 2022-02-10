@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-02-10 08:14:15。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-10 08:24:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1762,6 +1762,12 @@
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2022-02-04-HTML-inputmode与iOS-Android软键盘类型测试](https://www.zhangxinxu.com/wordpress/2022/02/html-inputmode-keyboard/) 
 - [2021-11-14-密码强度效果最佳实现一定是HTML-meter元素](https://www.zhangxinxu.com/wordpress/2021/11/html-meter-password/) 
+- [2022-02-10-现在所有网络交易平台里,体验最差的是咸鱼吧?](https://www.v2ex.com/t/832980) 
+- [2022-02-10-求进度可视化-app](https://www.v2ex.com/t/832979) 
+- [2022-02-10-PCA-降维后数据的协方差为什么变成-0？](https://www.v2ex.com/t/832978) 
+- [2022-02-10-一个开发者产品下线怎么样才能足够优雅](https://www.v2ex.com/t/832977) 
+- [2022-02-10-去配近视镜怎么避免智商税？](https://www.v2ex.com/t/832976) 
+- [2022-02-10-command-+-h-隐藏的应用，如何用快捷键恢复](https://www.v2ex.com/t/832975) 
 - [2022-02-10-为什么最近天气这么冷](https://www.v2ex.com/t/832974) 
 - [2022-02-10-DuckDuckGo-Email-Protection-大面积邀请了,-之前加入-waitlist-的可以打开看看,-另外安利-Shortcuts](https://www.v2ex.com/t/832969) 
 - [2022-02-10-淘宝上卖的低价-amazon-礼品卡，靠谱么？](https://www.v2ex.com/t/832968) 
@@ -1788,11 +1794,6 @@
 - [2022-02-10-微信有哪些方式可以加到一些比较活跃自己也感兴趣的群聊？](https://www.v2ex.com/t/832934) 
 - [2022-02-10-2022-年，开新项目用什么技术栈比较好？](https://www.v2ex.com/t/832932) 
 - [2022-02-10-微信英文版站长认证](https://www.v2ex.com/t/832931) 
-- [2022-02-10-求助-北京健康宝有没有切实的解决办法](https://www.v2ex.com/t/832930) 
-- [2022-02-10-信用卡在境外网站在线支付后，如何保证不被盗刷？](https://www.v2ex.com/t/832929) 
-- [2022-02-10-使用苹果的随航功能,-必须依赖-wifi-么?-为啥我的手机热点不行?](https://www.v2ex.com/t/832927) 
-- [2022-02-10-抖音电商-北京、上海、杭州-我又来找人了（狗头）](https://www.v2ex.com/t/832926) 
-- [2022-02-10-有文件-MD5-时能否利用网盘的"秒传"来快速上传文件?](https://www.v2ex.com/t/832925) 
 - [2022-02-10-5款最佳最牛代码比较神器-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14934&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493248%26amp%3Bidx%3D1%26amp%3Bsn%3D50bb00a7204f2595e19bba088152c56a%26amp%3Bchksm%3Dfa3f07dbcd488ecd96ab648174c45d2d5085db9e8ad2ec47e80bba1e6580f7d7158761183317%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-02-10-Linux新手入门的一些基本知识点整理-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14932&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493238%26amp%3Bidx%3D2%26amp%3Bsn%3D349fdafff5bc72eafcc5ac71ad01f6f4%26amp%3Bchksm%3Dfa3f072dcd488e3bf0ced8316f1c7278fce2eaf1946c7f123a864edf879ff397cee6f74a68aa%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-02-10-毕业不到1年的前端开发同学的焦虑-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14931&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493237%26amp%3Bidx%3D2%26amp%3Bsn%3D9ae8f1abd01b44eeba473fe6e653a9ca%26amp%3Bchksm%3Dfa3f072ecd488e388b746e9863b69792bf5882fed49d81e8b890da2d04c2fb588a78a875cab6%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

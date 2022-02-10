@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-10 07:54:36，:rocket: 更新条数: +1873， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-10 08:14:15，:rocket: 更新条数: +1871， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,9 @@
 </summary>
 
 
+- [2022-02-10-为什么最近天气这么冷](https://www.v2ex.com/t/832974) ![](assets/new.png)  
+- [2022-02-10-上海-区块链前端工程师-20-30k-招聘](https://www.v2ex.com/t/832970) ![](assets/new.png)  
+- [2022-02-10-DuckDuckGo-Email-Protection-大面积邀请了,-之前加入-waitlist-的可以打开看看,-另外安利-Shortcuts](https://www.v2ex.com/t/832969) ![](assets/new.png)  
 - [2022-02-10-淘宝上卖的低价-amazon-礼品卡，靠谱么？](https://www.v2ex.com/t/832968) ![](assets/new.png)  
 - [2022-02-10-招聘美术-内推成功奖金平分！](https://www.v2ex.com/t/832967) ![](assets/new.png)  
 - [2022-02-10-今天就礼拜四了，大家上班无聊的时候都会干啥？](https://www.v2ex.com/t/832966) ![](assets/new.png)  
@@ -508,9 +511,6 @@
 - [2022-02-10-我终于找到解决-macOS-切换输入法慢/不响应的方法了](https://www.v2ex.com/t/832952) ![](assets/new.png)  
 - [2022-02-10-这么好用的软件怎么就没人用呢？](https://www.v2ex.com/t/832950) ![](assets/new.png)  
 - [2022-02-10-北京-初创公司-全职-DeFi-方向-招聘前端-后端-产品。](https://www.v2ex.com/t/832947) ![](assets/new.png)  
-- [2022-02-10-如何规避员工-996-引发的一系列问题](https://www.v2ex.com/t/832946) ![](assets/new.png)  
-- [2022-02-10-各位运维大佬都用什么监控软件，出警报时实现电话报警](https://www.v2ex.com/t/832943) ![](assets/new.png)  
-- [2022-02-10-请教一下，有没有可以自动查看某个微博用户发了新微博然后在新微博下留言的工具？（不是用来干坏事的，这种可以问吗？）](https://www.v2ex.com/t/832942) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -567,12 +567,12 @@
 - [2022-02-10-动手打造一款-canvas-排版引擎](https://toutiao.io/k/zizo8yy) ![](assets/new.png)  
 - [2022-02-10-开源与云城堡：开源初创公司如何与三巨头竞争！](https://toutiao.io/k/4gdphhl) ![](assets/new.png)  
 - [2022-02-10-KeePass-跨终端密码管理](https://toutiao.io/k/84eswdg) ![](assets/new.png)  
-- [2022-02-10-应用架构指南全新发布](https://toutiao.io/k/lmy3ob3) ![](assets/new.png)  
 - [2022-02-10-我心中的高级程序员](https://toutiao.io/k/79oinns) ![](assets/new.png)  
+- [2022-02-10-应用架构指南全新发布](https://toutiao.io/k/lmy3ob3) ![](assets/new.png)  
 - [2022-02-10-上帝视角来看-2022-年前端趋势](https://toutiao.io/k/s9zf3yw) ![](assets/new.png)  
 - [2022-02-10-面向B端算法实时业务支撑的工程实践](https://toutiao.io/k/fqvac2i) ![](assets/new.png)  
 - [2022-02-10-TiDB-在-eBay丨亿优百倍：商品数据服务缓存与代码优化](https://toutiao.io/k/8crgvt6) ![](assets/new.png)  
-- [2022-02-10-推荐-阿里专家：如何画出优秀的架构图？](https://toutiao.io/k/92sk26n) ![](assets/new.png)  
+- [2022-02-10-推荐-作为研发Leader，如何做总结](https://toutiao.io/k/1g7flto) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

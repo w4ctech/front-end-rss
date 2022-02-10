@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-10 07:12:21，:rocket: 更新条数: +1867， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-10 07:21:20，:rocket: 更新条数: +1868， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-02-10-出个独服务器](https://www.v2ex.com/t/832957) ![](assets/new.png)  
 - [2022-02-10-有线连接两个普通路由做信号扩展是否可行，其中一个设置了-ap-模式，但是还是感觉设备有时候会在两个路由不停切换](https://www.v2ex.com/t/832956) ![](assets/new.png)  
 - [2022-02-10-2202-年了，上海电信还给用户装百兆光猫](https://www.v2ex.com/t/832955) ![](assets/new.png)  
 - [2022-02-10-各位大佬用-vps-自动提供的密码有什么风险吗-需要特地换密码吗-感觉如果服务提供商要搞事也不差这个密码是不是不用换了？](https://www.v2ex.com/t/832953) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-02-10-2022-年，开新项目用什么技术栈比较好？](https://www.v2ex.com/t/832932) ![](assets/new.png)  
 - [2022-02-10-微信英文版站长认证](https://www.v2ex.com/t/832931) ![](assets/new.png)  
 - [2022-02-10-求助-北京健康宝有没有切实的解决办法](https://www.v2ex.com/t/832930) ![](assets/new.png)  
-- [2022-02-10-信用卡在境外网站在线支付后，如何保证不被盗刷？](https://www.v2ex.com/t/832929) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -570,9 +570,9 @@
 - [2022-02-10-应用架构指南全新发布](https://toutiao.io/k/lmy3ob3) ![](assets/new.png)  
 - [2022-02-10-我心中的高级程序员](https://toutiao.io/k/79oinns) ![](assets/new.png)  
 - [2022-02-10-上帝视角来看-2022-年前端趋势](https://toutiao.io/k/s9zf3yw) ![](assets/new.png)  
-- [2022-02-10-TiDB-在-eBay丨亿优百倍：商品数据服务缓存与代码优化](https://toutiao.io/k/8crgvt6) ![](assets/new.png)  
 - [2022-02-10-面向B端算法实时业务支撑的工程实践](https://toutiao.io/k/fqvac2i) ![](assets/new.png)  
-- [2022-02-10-推荐-作为研发Leader，如何做总结](https://toutiao.io/k/1g7flto) ![](assets/new.png)  
+- [2022-02-10-TiDB-在-eBay丨亿优百倍：商品数据服务缓存与代码优化](https://toutiao.io/k/8crgvt6) ![](assets/new.png)  
+- [2022-02-10-推荐-阿里专家：如何画出优秀的架构图？](https://toutiao.io/k/92sk26n) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

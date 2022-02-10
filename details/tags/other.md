@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-02-10 07:12:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-10 07:21:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1761,6 +1761,7 @@
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2022-02-04-HTML-inputmode与iOS-Android软键盘类型测试](https://www.zhangxinxu.com/wordpress/2022/02/html-inputmode-keyboard/) 
 - [2021-11-14-密码强度效果最佳实现一定是HTML-meter元素](https://www.zhangxinxu.com/wordpress/2021/11/html-meter-password/) 
+- [2022-02-10-出个独服务器](https://www.v2ex.com/t/832957) 
 - [2022-02-10-2202-年了，上海电信还给用户装百兆光猫](https://www.v2ex.com/t/832955) 
 - [2022-02-10-各位大佬用-vps-自动提供的密码有什么风险吗-需要特地换密码吗-感觉如果服务提供商要搞事也不差这个密码是不是不用换了？](https://www.v2ex.com/t/832953) 
 - [2022-02-10-我终于找到解决-macOS-切换输入法慢/不响应的方法了](https://www.v2ex.com/t/832952) 
@@ -1818,5 +1819,5 @@
 - [2022-02-10-应用架构指南全新发布](https://toutiao.io/k/lmy3ob3) 
 - [2022-02-10-我心中的高级程序员](https://toutiao.io/k/79oinns) 
 - [2022-02-10-上帝视角来看-2022-年前端趋势](https://toutiao.io/k/s9zf3yw) 
-- [2022-02-10-推荐-作为研发Leader，如何做总结](https://toutiao.io/k/1g7flto) 
 - [2022-02-10-推荐-阿里专家：如何画出优秀的架构图？](https://toutiao.io/k/92sk26n) 
+- [2022-02-10-推荐-作为研发Leader，如何做总结](https://toutiao.io/k/1g7flto) 

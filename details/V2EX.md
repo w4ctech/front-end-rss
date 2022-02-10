@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2022-02-10 09:12:31。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-10 09:20:46。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-02-10-成都高新区新川-AI-创新中心-招聘软件工程师-联系方式，站内-DM-或者-HR-at-jiujintech.com](https://www.v2ex.com/t/832999) 
 - [2022-02-10-netflix-阿根廷区拼车（premium-套餐支持-uhd）](https://www.v2ex.com/t/832994) 
 - [2022-02-10-准备自己-DIY-一台主机，大家看看这样配置有没有不妥的地方](https://www.v2ex.com/t/832992) 
 - [2022-02-10-有没有-V-友在用-Coding-的持续集成功能？](https://www.v2ex.com/t/832991) 

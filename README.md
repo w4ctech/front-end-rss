@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-10 09:12:31，:rocket: 更新条数: +1870， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-10 09:20:46，:rocket: 更新条数: +1871， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-02-10-成都高新区新川-AI-创新中心-招聘软件工程师-联系方式，站内-DM-或者-HR-at-jiujintech.com](https://www.v2ex.com/t/832999) ![](assets/new.png)  
 - [2022-02-10-netflix-阿根廷区拼车（premium-套餐支持-uhd）](https://www.v2ex.com/t/832994) ![](assets/new.png)  
 - [2022-02-10-准备自己-DIY-一台主机，大家看看这样配置有没有不妥的地方](https://www.v2ex.com/t/832992) ![](assets/new.png)  
 - [2022-02-10-有没有-V-友在用-Coding-的持续集成功能？](https://www.v2ex.com/t/832991) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-02-10-command-+-h-隐藏的应用，如何用快捷键恢复](https://www.v2ex.com/t/832975) ![](assets/new.png)  
 - [2022-02-10-为什么最近天气这么冷](https://www.v2ex.com/t/832974) ![](assets/new.png)  
 - [2022-02-10-上海-区块链前端工程师-20-30k-招聘](https://www.v2ex.com/t/832970) ![](assets/new.png)  
-- [2022-02-10-DuckDuckGo-Email-Protection-大面积邀请了,-之前加入-waitlist-的可以打开看看,-另外安利-Shortcuts](https://www.v2ex.com/t/832969) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

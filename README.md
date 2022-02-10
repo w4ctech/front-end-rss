@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-10 01:56:30，:rocket: 更新条数: +1856， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-10 02:07:26，:rocket: 更新条数: +1863， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -66,6 +66,7 @@
 
 
 - [2022-02-10-2月9日全国新增新冠29例-广西本土7例](https://m.caixin.com/m/2022-02-10/101839639.html) ![](assets/new.png)  
+- [2022-02-10-美计划为5岁以下儿童接种疫苗-全球病例超4亿｜大流行手记（2月9日）](https://m.caixin.com/m/2022-02-10/101839650.html) ![](assets/new.png)  
 - [2022-02-09-美野生白尾鹿被发现染奥密克戎-或由人类溢出](https://science.caixin.com/m/2022-02-09/101839538.html) ![](assets/new.png)  
 - [2022-02-09-香港日增病例破千-医院急诊室严重超负荷](https://m.caixin.com/m/2022-02-09/101839506.html) ![](assets/new.png)  
 - [2022-02-09-严防新冠病毒“物传人”-深圳罗湖暂停入境邮件派送](https://m.caixin.com/m/2022-02-09/101839414.html) ![](assets/new.png)  
@@ -84,7 +85,6 @@
 - [2022-02-07-【境内疫情观察】广西新增37例本土病例（2月6日）](https://database.caixin.com/m/2022-02-07/101838439.html) ![](assets/new.png)  
 - [2022-02-07-渥太华进入紧急状态-韩国累计病例破百万｜大流行手记（2月6日）](https://m.caixin.com/m/2022-02-07/101838282.html) ![](assets/new.png)  
 - [2022-02-06-广西百色：本轮疫情累计确诊43例-第一轮核酸初筛阳性98人](https://m.caixin.com/m/2022-02-06/101838147.html) ![](assets/new.png)  
-- [2022-02-06-【境内疫情观察】广西新增6例本土病例（2月5日）](https://database.caixin.com/m/2022-02-06/101838097.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -491,6 +491,9 @@
 </summary>
 
 
+- [2022-02-10-求这句话的原文](https://www.v2ex.com/t/832833) ![](assets/new.png)  
+- [2022-02-10-offer-求比较推荐](https://www.v2ex.com/t/832830) ![](assets/new.png)  
+- [2022-02-10-前辈们，-2022-转行计算机的路在何方？](https://www.v2ex.com/t/832829) ![](assets/new.png)  
 - [2022-02-10-早餐店为什么不做汉堡](https://www.v2ex.com/t/832828) ![](assets/new.png)  
 - [2022-02-10-媳妇儿脚底的跖疣去医院做液氮冷冻，已经做了四次，今天听说别人做七次才好的，这东西这么难治啊？！](https://www.v2ex.com/t/832826) ![](assets/new.png)  
 - [2022-02-10-如何防脱发和白头发？](https://www.v2ex.com/t/832825) ![](assets/new.png)  
@@ -508,9 +511,6 @@
 - [2022-02-10-显示器支架的困惑](https://www.v2ex.com/t/832811) ![](assets/new.png)  
 - [2022-02-09-迫于京东自营苹果-3880-400-优惠券无处使用，有没有需要代拍的](https://www.v2ex.com/t/832810) ![](assets/new.png)  
 - [2022-02-09-cheatsheet-都用过吧，-Windows-版来了](https://www.v2ex.com/t/832808) ![](assets/new.png)  
-- [2022-02-09-求一个大文件分享的方案](https://www.v2ex.com/t/832806) ![](assets/new.png)  
-- [2022-02-09-关于线下聚会，希望有深圳的朋友可以线下一起玩玩，只针对深圳的朋友](https://www.v2ex.com/t/832805) ![](assets/new.png)  
-- [2022-02-09-闲鱼现场交易二手打印机，怎么验机？](https://www.v2ex.com/t/832803) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -558,11 +558,18 @@
 - [2022-02-10-如何撰写好的技术方案设计-真实案例干货分享](https://toutiao.io/k/0f5fv4t) ![](assets/new.png)  
 - [2022-02-10-CTO手绘的那些事](https://toutiao.io/k/uoyap1i) ![](assets/new.png)  
 - [2022-02-10-理解go中空结构体的应用和实现原理](https://toutiao.io/k/filze2x) ![](assets/new.png)  
-- [2022-02-10-实锤被抓包！字节跳动违反Apache-2.0许可证，在火山引擎里违规重新发布Apache-SkyWalking！](https://toutiao.io/k/gqk90p3) ![](assets/new.png)  
 - [2022-02-10-DPM在数仓建设中的作用](https://toutiao.io/k/v9ufbbj) ![](assets/new.png)  
+- [2022-02-10-实锤被抓包！字节跳动违反Apache-2.0许可证，在火山引擎里违规重新发布Apache-SkyWalking！](https://toutiao.io/k/gqk90p3) ![](assets/new.png)  
 - [2022-02-10-三年前写的-express-action，今天看了下还是觉得挺好用。。。](https://toutiao.io/k/7076pzd) ![](assets/new.png)  
-- [2022-02-10-推荐-作为研发Leader，如何做总结](https://toutiao.io/k/1g7flto) ![](assets/new.png)  
+- [2022-02-10-SpringCloud架构的各个组件的原理分析](https://toutiao.io/k/4iiqtoj) ![](assets/new.png)  
+- [2022-02-10-来自未来，2022-年的前端人都在做什么?](https://toutiao.io/k/pv81l86) ![](assets/new.png)  
+- [2022-02-10-分布式缓存，就该这样设计！](https://toutiao.io/k/apw8n0u) ![](assets/new.png)  
+- [2022-02-10-BIGO-使用-Flink-做-OLAP-分析及实时数仓的实践和优化](https://toutiao.io/k/1qqcy1y) ![](assets/new.png)  
+- [2022-02-10-开源与云城堡：开源初创公司如何与三巨头竞争！](https://toutiao.io/k/4gdphhl) ![](assets/new.png)  
+- [2022-02-10-动手打造一款-canvas-排版引擎](https://toutiao.io/k/zizo8yy) ![](assets/new.png)  
+- [2022-02-10-什么是分布式配置中心？](https://toutiao.io/k/q4j71uk) ![](assets/new.png)  
 - [2022-02-10-推荐-阿里专家：如何画出优秀的架构图？](https://toutiao.io/k/92sk26n) ![](assets/new.png)  
+- [2022-02-10-推荐-作为研发Leader，如何做总结](https://toutiao.io/k/1g7flto) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

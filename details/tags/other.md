@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-02-10 01:56:30。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-10 02:07:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -6,6 +6,7 @@
 
 
 - [2022-02-10-2月9日全国新增新冠29例-广西本土7例](https://m.caixin.com/m/2022-02-10/101839639.html) 
+- [2022-02-10-美计划为5岁以下儿童接种疫苗-全球病例超4亿｜大流行手记（2月9日）](https://m.caixin.com/m/2022-02-10/101839650.html) 
 - [2022-02-09-美野生白尾鹿被发现染奥密克戎-或由人类溢出](https://science.caixin.com/m/2022-02-09/101839538.html) 
 - [2022-02-09-香港日增病例破千-医院急诊室严重超负荷](https://m.caixin.com/m/2022-02-09/101839506.html) 
 - [2022-02-09-严防新冠病毒“物传人”-深圳罗湖暂停入境邮件派送](https://m.caixin.com/m/2022-02-09/101839414.html) 
@@ -1759,6 +1760,9 @@
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2022-02-04-HTML-inputmode与iOS-Android软键盘类型测试](https://www.zhangxinxu.com/wordpress/2022/02/html-inputmode-keyboard/) 
 - [2021-11-14-密码强度效果最佳实现一定是HTML-meter元素](https://www.zhangxinxu.com/wordpress/2021/11/html-meter-password/) 
+- [2022-02-10-求这句话的原文](https://www.v2ex.com/t/832833) 
+- [2022-02-10-offer-求比较推荐](https://www.v2ex.com/t/832830) 
+- [2022-02-10-前辈们，-2022-转行计算机的路在何方？](https://www.v2ex.com/t/832829) 
 - [2022-02-10-早餐店为什么不做汉堡](https://www.v2ex.com/t/832828) 
 - [2022-02-10-媳妇儿脚底的跖疣去医院做液氮冷冻，已经做了四次，今天听说别人做七次才好的，这东西这么难治啊？！](https://www.v2ex.com/t/832826) 
 - [2022-02-10-如何防脱发和白头发？](https://www.v2ex.com/t/832825) 
@@ -1785,10 +1789,6 @@
 - [2022-02-09-你们习惯这种地图指示吗?](https://www.v2ex.com/t/832790) 
 - [2022-02-09-刚激活的-MacBook-Pro-16-电池循环已经-10-次，是否正常？](https://www.v2ex.com/t/832787) 
 - [2022-02-09-我离开-F500-创业，历时-12-个月开发了一个程序员零工副业平台，-AMA](https://www.v2ex.com/t/832786) 
-- [2022-02-09-在-2021-年之后上线的新的网站项目中，你觉得设计方面让你最喜欢的是哪些？](https://www.v2ex.com/t/832783) 
-- [2022-02-09-两个-offer-对比，求指教。](https://www.v2ex.com/t/832781) 
-- [2022-02-09-请谨慎在奈飞小粉/奈飞-Fans/naifei.fans-家购买合租服务](https://www.v2ex.com/t/832780) 
-- [2022-02-09-想要系统学习唱歌的话，哪里能提供在线服务？](https://www.v2ex.com/t/832779) 
 - [2022-02-10-5款最佳最牛代码比较神器-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14934&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493248%26amp%3Bidx%3D1%26amp%3Bsn%3D50bb00a7204f2595e19bba088152c56a%26amp%3Bchksm%3Dfa3f07dbcd488ecd96ab648174c45d2d5085db9e8ad2ec47e80bba1e6580f7d7158761183317%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-02-10-Linux新手入门的一些基本知识点整理-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14932&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493238%26amp%3Bidx%3D2%26amp%3Bsn%3D349fdafff5bc72eafcc5ac71ad01f6f4%26amp%3Bchksm%3Dfa3f072dcd488e3bf0ced8316f1c7278fce2eaf1946c7f123a864edf879ff397cee6f74a68aa%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-02-10-毕业不到1年的前端开发同学的焦虑-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14931&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493237%26amp%3Bidx%3D2%26amp%3Bsn%3D9ae8f1abd01b44eeba473fe6e653a9ca%26amp%3Bchksm%3Dfa3f072ecd488e388b746e9863b69792bf5882fed49d81e8b890da2d04c2fb588a78a875cab6%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1808,7 +1808,10 @@
 - [2022-02-10-如何撰写好的技术方案设计-真实案例干货分享](https://toutiao.io/k/0f5fv4t) 
 - [2022-02-10-CTO手绘的那些事](https://toutiao.io/k/uoyap1i) 
 - [2022-02-10-理解go中空结构体的应用和实现原理](https://toutiao.io/k/filze2x) 
-- [2022-02-10-实锤被抓包！字节跳动违反Apache-2.0许可证，在火山引擎里违规重新发布Apache-SkyWalking！](https://toutiao.io/k/gqk90p3) 
 - [2022-02-10-DPM在数仓建设中的作用](https://toutiao.io/k/v9ufbbj) 
-- [2022-02-10-推荐-作为研发Leader，如何做总结](https://toutiao.io/k/1g7flto) 
+- [2022-02-10-实锤被抓包！字节跳动违反Apache-2.0许可证，在火山引擎里违规重新发布Apache-SkyWalking！](https://toutiao.io/k/gqk90p3) 
+- [2022-02-10-来自未来，2022-年的前端人都在做什么?](https://toutiao.io/k/pv81l86) 
+- [2022-02-10-开源与云城堡：开源初创公司如何与三巨头竞争！](https://toutiao.io/k/4gdphhl) 
+- [2022-02-10-什么是分布式配置中心？](https://toutiao.io/k/q4j71uk) 
 - [2022-02-10-推荐-阿里专家：如何画出优秀的架构图？](https://toutiao.io/k/92sk26n) 
+- [2022-02-10-推荐-作为研发Leader，如何做总结](https://toutiao.io/k/1g7flto) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-02-10 13:44:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-10 13:56:39。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1763,6 +1763,8 @@
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2022-02-04-HTML-inputmode与iOS-Android软键盘类型测试](https://www.zhangxinxu.com/wordpress/2022/02/html-inputmode-keyboard/) 
 - [2021-11-14-密码强度效果最佳实现一定是HTML-meter元素](https://www.zhangxinxu.com/wordpress/2021/11/html-meter-password/) 
+- [2022-02-10-文科生不太懂-5g-频段，帮着看一下国内可以吗？](https://www.v2ex.com/t/833056) 
+- [2022-02-10-现在有哪些以-ObjC-或者-ObjCpp-为主的非-package-形式的-OpenCC-扩展？](https://www.v2ex.com/t/833055) 
 - [2022-02-10-今日头条-APP-研发团队（北京、深圳、广州）大量招人啦，内推机会来啦！欢迎来撩~！前端、后端、客户端统统都要，快到碗里来！](https://www.v2ex.com/t/833053) 
 - [2022-02-10-关于联通手机号收不到微博验证码的问题](https://www.v2ex.com/t/833051) 
 - [2022-02-10-突然发现天翼云盘有-10T-空间！](https://www.v2ex.com/t/833050) 
@@ -1817,5 +1819,5 @@
 - [2022-02-10-KeePass-跨终端密码管理](https://toutiao.io/k/84eswdg) 
 - [2022-02-10-应用架构指南全新发布](https://toutiao.io/k/lmy3ob3) 
 - [2022-02-10-上帝视角来看-2022-年前端趋势](https://toutiao.io/k/s9zf3yw) 
-- [2022-02-10-推荐-阿里专家：如何画出优秀的架构图？](https://toutiao.io/k/92sk26n) 
 - [2022-02-10-推荐-作为研发Leader，如何做总结](https://toutiao.io/k/1g7flto) 
+- [2022-02-10-推荐-阿里专家：如何画出优秀的架构图？](https://toutiao.io/k/92sk26n) 

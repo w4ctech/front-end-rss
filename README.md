@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-10 13:44:09，:rocket: 更新条数: +1877， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-10 13:56:39，:rocket: 更新条数: +1878， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-02-10-文科生不太懂-5g-频段，帮着看一下国内可以吗？](https://www.v2ex.com/t/833056) ![](assets/new.png)  
+- [2022-02-10-现在有哪些以-ObjC-或者-ObjCpp-为主的非-package-形式的-OpenCC-扩展？](https://www.v2ex.com/t/833055) ![](assets/new.png)  
 - [2022-02-10-vim-插件-ycm-无法补全-golang-代码](https://www.v2ex.com/t/833054) ![](assets/new.png)  
 - [2022-02-10-今日头条-APP-研发团队（北京、深圳、广州）大量招人啦，内推机会来啦！欢迎来撩~！前端、后端、客户端统统都要，快到碗里来！](https://www.v2ex.com/t/833053) ![](assets/new.png)  
 - [2022-02-10-关于联通手机号收不到微博验证码的问题](https://www.v2ex.com/t/833051) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-02-10-问一下各位玩-HiFi-的朋友,-耳塞单元的-mmcx-接口接触不良了怎么破](https://www.v2ex.com/t/833037) ![](assets/new.png)  
 - [2022-02-10-微软苏州M365-新春热招](https://www.v2ex.com/t/833036) ![](assets/new.png)  
 - [2022-02-10-迫于圈子小，建了一个互联网单身交友群](https://www.v2ex.com/t/833035) ![](assets/new.png)  
-- [2022-02-10-上海视频后期实习生](https://www.v2ex.com/t/833034) ![](assets/new.png)  
-- [2022-02-10-在其他论坛看到一道算法题，似乎有点思路但是又想不太清楚，各位能解吗？](https://www.v2ex.com/t/833033) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -572,7 +572,7 @@
 - [2022-02-10-上帝视角来看-2022-年前端趋势](https://toutiao.io/k/s9zf3yw) ![](assets/new.png)  
 - [2022-02-10-面向B端算法实时业务支撑的工程实践](https://toutiao.io/k/fqvac2i) ![](assets/new.png)  
 - [2022-02-10-TiDB-在-eBay丨亿优百倍：商品数据服务缓存与代码优化](https://toutiao.io/k/8crgvt6) ![](assets/new.png)  
-- [2022-02-10-推荐-阿里专家：如何画出优秀的架构图？](https://toutiao.io/k/92sk26n) ![](assets/new.png)  
+- [2022-02-10-推荐-作为研发Leader，如何做总结](https://toutiao.io/k/1g7flto) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

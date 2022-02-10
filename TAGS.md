@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-02-10 13:03:29。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-10 13:15:24。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -359,7 +359,6 @@
 
 - [【V2EX】坚果云（效率工具软件）年后第一波紧急真实招聘！!（可远程面试~）‼‼](https://www.v2ex.com/t/833010)
 - [【V2EX】面试面的怀疑人生了，一轮游怎么搞](https://www.v2ex.com/t/833009)
-- [【V2EX】成都高新区新川-AI-创新中心-招聘软件工程师-联系方式，站内-DM-或者-HR-at-jiujintech.com](https://www.v2ex.com/t/832999)
 - [【开发者头条】推荐-百度和米哈游的Golang面试经验分享](https://toutiao.io/k/q0sox0k)
 - [......【查看更多】......](./details/tags/job-interview.md)
 

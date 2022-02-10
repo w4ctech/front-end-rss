@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-02-10 03:21:07。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-02-10 03:38:07。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -105,6 +105,11 @@
 - [【武汉肺炎防疫全纪录(财新网)】2022-02-01-德国未实现接种目标-奥地利强制接种疫苗法律生效｜大流行手记（1月31日）](https://m.caixin.com/m/2022-02-01/101837106.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2022-02-01-聚焦｜张文宏：未来抗疫，是努力夺回正常生活的过程](https://opinion.caixin.com/m/2022-02-01/101837206.html) 
 - [【张鑫旭-鑫空间-鑫生活】2022-02-04-HTML-inputmode与iOS-Android软键盘类型测试](https://www.zhangxinxu.com/wordpress/2022/02/html-inputmode-keyboard/) 
+- [【V2EX】2022-02-10-内推-58-同城算法、-Java-、风控、数据分析工程师，大量急招](https://www.v2ex.com/t/832890) 
+- [【V2EX】2022-02-10-2022-前端该转行哪](https://www.v2ex.com/t/832887) 
+- [【V2EX】2022-02-10-12-代移动版异构处理器使用-Windows10-与-Windows11-的-CPU-Z-跑分对比](https://www.v2ex.com/t/832886) 
+- [【V2EX】2022-02-10-如果读透读懂了李航老师的《统计学习方法》第二版以后，对机器学习理论的认识相当于什么水平？](https://www.v2ex.com/t/832884) 
+- [【V2EX】2022-02-10-个人收款可用的面包多支付-PHP-SDK](https://www.v2ex.com/t/832883) 
 - [【V2EX】2022-02-10-「CDC-春招」「西安」「CoDesign-/-TDesign-」研发岗前后端（高级/中级/校招）](https://www.v2ex.com/t/832882) 
 - [【V2EX】2022-02-10-请教这是什么原理？搜索单个汉字，无结果，搜索该字的词组才有结果](https://www.v2ex.com/t/832881) 
 - [【V2EX】2022-02-10-只有我觉得那个冰墩墩奇丑无比吗](https://www.v2ex.com/t/832880) 
@@ -134,12 +139,6 @@
 - [【V2EX】2022-02-10-iOS-一个-app-打开另一个-app-的弹框提示](https://www.v2ex.com/t/832845) 
 - [【V2EX】2022-02-10-想实地看看深圳的楼价，需要怎么做？](https://www.v2ex.com/t/832844) 
 - [【V2EX】2022-02-10-User-Agent-注入](https://www.v2ex.com/t/832843) 
-- [【V2EX】2022-02-10-失业在家怎么减少焦虑情绪](https://www.v2ex.com/t/832840) 
-- [【V2EX】2022-02-10-是否可以通过机器学习/深度学习的方式，进行网络资产指纹生成/资产识别？](https://www.v2ex.com/t/832839) 
-- [【V2EX】2022-02-10-全职远程长期稳定15k-30k招募全栈开发工程师、项目产品经理](https://www.v2ex.com/t/832838) 
-- [【V2EX】2022-02-10-北京-小而美外企-Senior-Android/iOS-Engineer](https://www.v2ex.com/t/832837) 
-- [【V2EX】2022-02-10-2022-2-10-想上星-13-air-5600u-的车会不会晚了点，还是在等等？](https://www.v2ex.com/t/832836) 
-- [【V2EX】2022-02-10-请问有人使用过华美吗？-Velo-这个靠谱吗？](https://www.v2ex.com/t/832834) 
 - [【技术头条】2022-02-10-5款最佳最牛代码比较神器-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14934&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493248%26amp%3Bidx%3D1%26amp%3Bsn%3D50bb00a7204f2595e19bba088152c56a%26amp%3Bchksm%3Dfa3f07dbcd488ecd96ab648174c45d2d5085db9e8ad2ec47e80bba1e6580f7d7158761183317%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-02-10-在GitHub上提交代码必备指南！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14933&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493238%26amp%3Bidx%3D1%26amp%3Bsn%3Db92e65ee96d1c998d823b55d7fafc234%26amp%3Bchksm%3Dfa3f072dcd488e3b997e0b9b4b48f5c4de6513c91fd46a4d1bde7bb89bf61af7c319e2d5dfff%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-02-10-Linux新手入门的一些基本知识点整理-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14932&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493238%26amp%3Bidx%3D2%26amp%3Bsn%3D349fdafff5bc72eafcc5ac71ad01f6f4%26amp%3Bchksm%3Dfa3f072dcd488e3bf0ced8316f1c7278fce2eaf1946c7f123a864edf879ff397cee6f74a68aa%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -171,8 +170,8 @@
 - [【开发者头条】2022-02-10-什么是分布式配置中心？](https://toutiao.io/k/q4j71uk) 
 - [【开发者头条】2022-02-10-来自未来，2022-年的前端人都在做什么?](https://toutiao.io/k/pv81l86) 
 - [【开发者头条】2022-02-10-BIGO-使用-Flink-做-OLAP-分析及实时数仓的实践和优化](https://toutiao.io/k/1qqcy1y) 
-- [【开发者头条】2022-02-10-开源与云城堡：开源初创公司如何与三巨头竞争！](https://toutiao.io/k/4gdphhl) 
 - [【开发者头条】2022-02-10-动手打造一款-canvas-排版引擎](https://toutiao.io/k/zizo8yy) 
+- [【开发者头条】2022-02-10-开源与云城堡：开源初创公司如何与三巨头竞争！](https://toutiao.io/k/4gdphhl) 
 - [【开发者头条】2022-02-10-推荐-作为研发Leader，如何做总结](https://toutiao.io/k/1g7flto) 
 - [【开发者头条】2022-02-10-推荐-阿里专家：如何画出优秀的架构图？](https://toutiao.io/k/92sk26n) 
 

@@ -1,17 +1,17 @@
-:alarm_clock: 更新时间: 2022-02-10 10:23:06。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-10 10:39:15。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
 
 
 
-- [2022-02-10-2月9日全国新增新冠29例-广西本土7例](https://m.caixin.com/m/2022-02-10/101839639.html) 
+- [2022-02-10-最新疫情：全国新冠累计确诊106663例-累计接种新冠疫苗超30.22亿剂次](https://m.caixin.com/m/2022-02-10/101839985.html) 
 - [2022-02-10-严防“物传人”-杭州部分进口商品专业卖场暂停经营](https://m.caixin.com/m/2022-02-10/101839784.html) 
+- [2022-02-10-最新海外疫情：新冠感染超4.02亿-累计接种新冠疫苗超101.98亿剂次](https://m.caixin.com/m/2022-02-10/101839989.html) 
 - [2022-02-10-【境内疫情观察】广西新增7例本土病例（2月9日）](https://database.caixin.com/m/2022-02-10/101839821.html) 
 - [2022-02-10-美计划为5岁以下儿童接种疫苗-全球病例超4亿｜大流行手记（2月9日）](https://m.caixin.com/m/2022-02-10/101839650.html) 
 - [2022-02-09-美野生白尾鹿被发现染奥密克戎-或由人类溢出](https://science.caixin.com/m/2022-02-09/101839538.html) 
 - [2022-02-09-香港日增病例破千-医院急诊室严重超负荷](https://m.caixin.com/m/2022-02-09/101839506.html) 
-- [2022-02-09-最新海外疫情：新冠感染超4亿-累计接种新冠疫苗超101.76亿剂次](https://m.caixin.com/m/2022-02-09/101839425.html) 
 - [2022-02-09-严防新冠病毒“物传人”-深圳罗湖暂停入境邮件派送](https://m.caixin.com/m/2022-02-09/101839414.html) 
 - [2022-02-09-不打疫苗不能理发-香港全面推行疫苗通行证](https://m.caixin.com/m/2022-02-09/101839260.html) 
 - [2022-02-09-【境内疫情观察】广西新增72例本土病例（2月8日）](https://database.caixin.com/m/2022-02-09/101839339.html) 
@@ -1762,6 +1762,7 @@
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2022-02-04-HTML-inputmode与iOS-Android软键盘类型测试](https://www.zhangxinxu.com/wordpress/2022/02/html-inputmode-keyboard/) 
 - [2021-11-14-密码强度效果最佳实现一定是HTML-meter元素](https://www.zhangxinxu.com/wordpress/2021/11/html-meter-password/) 
+- [2022-02-10-我今天才知道元宵节不放假](https://www.v2ex.com/t/833027) 
 - [2022-02-10-neno-笔记的一些更新和插件更新](https://www.v2ex.com/t/833026) 
 - [2022-02-10-传广西电信宣布关停宽带公网-IPv4-服务-只用-IPv6](https://www.v2ex.com/t/833024) 
 - [2022-02-10-有独立-IP-的梯子或者-VPS-推荐吗？](https://www.v2ex.com/t/833021) 
@@ -1786,7 +1787,6 @@
 - [2022-02-10-现在所有网络交易平台里,体验最差的是咸鱼吧?](https://www.v2ex.com/t/832980) 
 - [2022-02-10-求进度可视化-app](https://www.v2ex.com/t/832979) 
 - [2022-02-10-PCA-降维后数据的协方差为什么变成-0？](https://www.v2ex.com/t/832978) 
-- [2022-02-10-一个开发者产品下线怎么样才能足够优雅](https://www.v2ex.com/t/832977) 
 - [2022-02-10-Cucumber测试实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14935&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fcucumber-testing-practice%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-02-10-5款最佳最牛代码比较神器-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14934&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493248%26amp%3Bidx%3D1%26amp%3Bsn%3D50bb00a7204f2595e19bba088152c56a%26amp%3Bchksm%3Dfa3f07dbcd488ecd96ab648174c45d2d5085db9e8ad2ec47e80bba1e6580f7d7158761183317%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-02-10-Linux新手入门的一些基本知识点整理-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14932&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493238%26amp%3Bidx%3D2%26amp%3Bsn%3D349fdafff5bc72eafcc5ac71ad01f6f4%26amp%3Bchksm%3Dfa3f072dcd488e3bf0ced8316f1c7278fce2eaf1946c7f123a864edf879ff397cee6f74a68aa%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

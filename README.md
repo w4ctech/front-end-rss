@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-10 10:23:06，:rocket: 更新条数: +1870， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-10 10:39:15，:rocket: 更新条数: +1869， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -65,13 +65,13 @@
 </summary>
 
 
-- [2022-02-10-2月9日全国新增新冠29例-广西本土7例](https://m.caixin.com/m/2022-02-10/101839639.html) ![](assets/new.png)  
+- [2022-02-10-最新疫情：全国新冠累计确诊106663例-累计接种新冠疫苗超30.22亿剂次](https://m.caixin.com/m/2022-02-10/101839985.html) ![](assets/new.png)  
 - [2022-02-10-严防“物传人”-杭州部分进口商品专业卖场暂停经营](https://m.caixin.com/m/2022-02-10/101839784.html) ![](assets/new.png)  
+- [2022-02-10-最新海外疫情：新冠感染超4.02亿-累计接种新冠疫苗超101.98亿剂次](https://m.caixin.com/m/2022-02-10/101839989.html) ![](assets/new.png)  
 - [2022-02-10-【境内疫情观察】广西新增7例本土病例（2月9日）](https://database.caixin.com/m/2022-02-10/101839821.html) ![](assets/new.png)  
 - [2022-02-10-美计划为5岁以下儿童接种疫苗-全球病例超4亿｜大流行手记（2月9日）](https://m.caixin.com/m/2022-02-10/101839650.html) ![](assets/new.png)  
 - [2022-02-09-美野生白尾鹿被发现染奥密克戎-或由人类溢出](https://science.caixin.com/m/2022-02-09/101839538.html) ![](assets/new.png)  
 - [2022-02-09-香港日增病例破千-医院急诊室严重超负荷](https://m.caixin.com/m/2022-02-09/101839506.html) ![](assets/new.png)  
-- [2022-02-09-最新海外疫情：新冠感染超4亿-累计接种新冠疫苗超101.76亿剂次](https://m.caixin.com/m/2022-02-09/101839425.html) ![](assets/new.png)  
 - [2022-02-09-严防新冠病毒“物传人”-深圳罗湖暂停入境邮件派送](https://m.caixin.com/m/2022-02-09/101839414.html) ![](assets/new.png)  
 - [2022-02-09-不打疫苗不能理发-香港全面推行疫苗通行证](https://m.caixin.com/m/2022-02-09/101839260.html) ![](assets/new.png)  
 - [2022-02-09-【境内疫情观察】广西新增72例本土病例（2月8日）](https://database.caixin.com/m/2022-02-09/101839339.html) ![](assets/new.png)  
@@ -491,8 +491,8 @@
 </summary>
 
 
+- [2022-02-10-我今天才知道元宵节不放假](https://www.v2ex.com/t/833027) ![](assets/new.png)  
 - [2022-02-10-neno-笔记的一些更新和插件更新](https://www.v2ex.com/t/833026) ![](assets/new.png)  
-- [2022-02-10-寻上海外包团队-：小程序端+后端](https://www.v2ex.com/t/833025) ![](assets/new.png)  
 - [2022-02-10-传广西电信宣布关停宽带公网-IPv4-服务-只用-IPv6](https://www.v2ex.com/t/833024) ![](assets/new.png)  
 - [2022-02-10-awesome-starlette，-fastapi-之下的框架](https://www.v2ex.com/t/833023) ![](assets/new.png)  
 - [2022-02-10-深圳/龙华全职-招-React-前端-产品](https://www.v2ex.com/t/833022) ![](assets/new.png)  
@@ -565,13 +565,13 @@
 - [2022-02-10-BIGO-使用-Flink-做-OLAP-分析及实时数仓的实践和优化](https://toutiao.io/k/1qqcy1y) ![](assets/new.png)  
 - [2022-02-10-来自未来，2022-年的前端人都在做什么?](https://toutiao.io/k/pv81l86) ![](assets/new.png)  
 - [2022-02-10-开源与云城堡：开源初创公司如何与三巨头竞争！](https://toutiao.io/k/4gdphhl) ![](assets/new.png)  
-- [2022-02-10-动手打造一款-canvas-排版引擎](https://toutiao.io/k/zizo8yy) ![](assets/new.png)  
 - [2022-02-10-我心中的高级程序员](https://toutiao.io/k/79oinns) ![](assets/new.png)  
+- [2022-02-10-动手打造一款-canvas-排版引擎](https://toutiao.io/k/zizo8yy) ![](assets/new.png)  
 - [2022-02-10-KeePass-跨终端密码管理](https://toutiao.io/k/84eswdg) ![](assets/new.png)  
 - [2022-02-10-应用架构指南全新发布](https://toutiao.io/k/lmy3ob3) ![](assets/new.png)  
 - [2022-02-10-上帝视角来看-2022-年前端趋势](https://toutiao.io/k/s9zf3yw) ![](assets/new.png)  
-- [2022-02-10-TiDB-在-eBay丨亿优百倍：商品数据服务缓存与代码优化](https://toutiao.io/k/8crgvt6) ![](assets/new.png)  
 - [2022-02-10-面向B端算法实时业务支撑的工程实践](https://toutiao.io/k/fqvac2i) ![](assets/new.png)  
+- [2022-02-10-TiDB-在-eBay丨亿优百倍：商品数据服务缓存与代码优化](https://toutiao.io/k/8crgvt6) ![](assets/new.png)  
 - [2022-02-10-推荐-阿里专家：如何画出优秀的架构图？](https://toutiao.io/k/92sk26n) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

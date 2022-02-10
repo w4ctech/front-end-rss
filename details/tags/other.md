@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-02-10 14:19:46。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-10 14:36:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1763,6 +1763,7 @@
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2022-02-04-HTML-inputmode与iOS-Android软键盘类型测试](https://www.zhangxinxu.com/wordpress/2022/02/html-inputmode-keyboard/) 
 - [2021-11-14-密码强度效果最佳实现一定是HTML-meter元素](https://www.zhangxinxu.com/wordpress/2021/11/html-meter-password/) 
+- [2022-02-10-写了一个-Go-的集合库（处理-Slice/Map/Array-数据），基于-Go-1.18-泛型](https://www.v2ex.com/t/833062) 
 - [2022-02-10-寻合伙人](https://www.v2ex.com/t/833061) 
 - [2022-02-10-成人复习英语，有什么好素材吗](https://www.v2ex.com/t/833060) 
 - [2022-02-10-山东联通宽带“温馨提示”：一个账号最多接入-15-个终端-超出算违约](https://www.v2ex.com/t/833059) 
@@ -1793,7 +1794,6 @@
 - [2022-02-10-京东买个-xbox-精英-2-代手柄，第一个-A-键断触和扳机按压力度不一样，然后给我换了个二手的就退款了，有其他推荐的店铺买吗？](https://www.v2ex.com/t/833020) 
 - [2022-02-10-镜像是怎么做的](https://www.v2ex.com/t/833019) 
 - [2022-02-10-胸弟们，你们投影仪/电视都是用什么看美剧或者英剧的](https://www.v2ex.com/t/833013) 
-- [2022-02-10-深圳联通套餐更换咨询](https://www.v2ex.com/t/833012) 
 - [2022-02-10-Cucumber测试实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14935&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fcucumber-testing-practice%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-02-10-5款最佳最牛代码比较神器-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14934&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493248%26amp%3Bidx%3D1%26amp%3Bsn%3D50bb00a7204f2595e19bba088152c56a%26amp%3Bchksm%3Dfa3f07dbcd488ecd96ab648174c45d2d5085db9e8ad2ec47e80bba1e6580f7d7158761183317%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-02-10-Linux新手入门的一些基本知识点整理-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14932&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493238%26amp%3Bidx%3D2%26amp%3Bsn%3D349fdafff5bc72eafcc5ac71ad01f6f4%26amp%3Bchksm%3Dfa3f072dcd488e3bf0ced8316f1c7278fce2eaf1946c7f123a864edf879ff397cee6f74a68aa%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

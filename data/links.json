@@ -9193,6 +9193,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "写了一个 Go 的集合库（处理 Slice/Map/Array 数据），基于 Go 1.18 泛型",
+        "link": "https://www.v2ex.com/t/833062",
+        "date": "2022-02-10"
+      },
+      {
         "title": "寻合伙人",
         "link": "https://www.v2ex.com/t/833061",
         "date": "2022-02-10"
@@ -9395,11 +9400,6 @@
       {
         "title": "胸弟们，你们投影仪/电视都是用什么看美剧或者英剧的",
         "link": "https://www.v2ex.com/t/833013",
-        "date": "2022-02-10"
-      },
-      {
-        "title": "深圳联通套餐更换咨询",
-        "link": "https://www.v2ex.com/t/833012",
         "date": "2022-02-10"
       }
     ]

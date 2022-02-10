@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-02-10 07:39:11。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-10 07:54:36。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -347,6 +347,7 @@
 
 
 
+- [【V2EX】招聘美术-内推成功奖金平分！](https://www.v2ex.com/t/832967)
 - [【V2EX】北京-初创公司-全职-DeFi-方向-招聘前端-后端-产品。](https://www.v2ex.com/t/832947)
 - [【V2EX】新加坡阿里巴巴Daraz招聘中级/高级-iOS-开发](https://www.v2ex.com/t/832935)
 - [......【查看更多】......](./details/tags/job-interview.md)

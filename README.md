@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-10 06:47:00，:rocket: 更新条数: +1870， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-10 06:59:15，:rocket: 更新条数: +1867， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,12 @@
 </summary>
 
 
+- [2022-02-10-这么好用的软件怎么就没人用呢？](https://www.v2ex.com/t/832950) ![](assets/new.png)  
+- [2022-02-10-北京-初创公司-全职-DeFi-方向-招聘前端-后端-产品。](https://www.v2ex.com/t/832947) ![](assets/new.png)  
+- [2022-02-10-如何规避员工-996-引发的一系列问题](https://www.v2ex.com/t/832946) ![](assets/new.png)  
+- [2022-02-10-各位运维大佬都用什么监控软件，出警报时实现电话报警](https://www.v2ex.com/t/832943) ![](assets/new.png)  
+- [2022-02-10-请教一下，有没有可以自动查看某个微博用户发了新微博然后在新微博下留言的工具？（不是用来干坏事的，这种可以问吗？）](https://www.v2ex.com/t/832942) ![](assets/new.png)  
+- [2022-02-10-求推荐-2000-价位-55-寸~65-寸电视](https://www.v2ex.com/t/832941) ![](assets/new.png)  
 - [2022-02-10-2022-开工了，想辞职！怎么办](https://www.v2ex.com/t/832939) ![](assets/new.png)  
 - [2022-02-10-浙江移动国际出口问题](https://www.v2ex.com/t/832937) ![](assets/new.png)  
 - [2022-02-10-我在小米官网买了个-86-寸电视，我到底遭遇了什么？](https://www.v2ex.com/t/832936) ![](assets/new.png)  
@@ -505,12 +511,6 @@
 - [2022-02-10-抖音电商-北京、上海、杭州-我又来找人了（狗头）](https://www.v2ex.com/t/832926) ![](assets/new.png)  
 - [2022-02-10-有文件-MD5-时能否利用网盘的"秒传"来快速上传文件?](https://www.v2ex.com/t/832925) ![](assets/new.png)  
 - [2022-02-10-请教各位大神，这个负载可能是从哪来的?](https://www.v2ex.com/t/832924) ![](assets/new.png)  
-- [2022-02-10-投资系列闲聊-5:-我觉得可以抄底了](https://www.v2ex.com/t/832923) ![](assets/new.png)  
-- [2022-02-10-阿里云盘-webdav-好像用不了了，不香了](https://www.v2ex.com/t/832922) ![](assets/new.png)  
-- [2022-02-10-iPhone-上观看-netflix-无解了吗？看一会儿就只能自制剧了](https://www.v2ex.com/t/832921) ![](assets/new.png)  
-- [2022-02-10-V2EX-手机开帖](https://www.v2ex.com/t/832919) ![](assets/new.png)  
-- [2022-02-10-新年-offer-比较，拿不定主意](https://www.v2ex.com/t/832918) ![](assets/new.png)  
-- [2022-02-10-b-站这些-up-的声音是用什么软件做的](https://www.v2ex.com/t/832917) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -559,20 +559,20 @@
 - [2022-02-10-CTO手绘的那些事](https://toutiao.io/k/uoyap1i) ![](assets/new.png)  
 - [2022-02-10-理解go中空结构体的应用和实现原理](https://toutiao.io/k/filze2x) ![](assets/new.png)  
 - [2022-02-10-实锤被抓包！字节跳动违反Apache-2.0许可证，在火山引擎里违规重新发布Apache-SkyWalking！](https://toutiao.io/k/gqk90p3) ![](assets/new.png)  
-- [2022-02-10-DPM在数仓建设中的作用](https://toutiao.io/k/v9ufbbj) ![](assets/new.png)  
 - [2022-02-10-什么是分布式配置中心？](https://toutiao.io/k/q4j71uk) ![](assets/new.png)  
+- [2022-02-10-DPM在数仓建设中的作用](https://toutiao.io/k/v9ufbbj) ![](assets/new.png)  
 - [2022-02-10-三年前写的-express-action，今天看了下还是觉得挺好用。。。](https://toutiao.io/k/7076pzd) ![](assets/new.png)  
 - [2022-02-10-BIGO-使用-Flink-做-OLAP-分析及实时数仓的实践和优化](https://toutiao.io/k/1qqcy1y) ![](assets/new.png)  
 - [2022-02-10-来自未来，2022-年的前端人都在做什么?](https://toutiao.io/k/pv81l86) ![](assets/new.png)  
 - [2022-02-10-动手打造一款-canvas-排版引擎](https://toutiao.io/k/zizo8yy) ![](assets/new.png)  
 - [2022-02-10-开源与云城堡：开源初创公司如何与三巨头竞争！](https://toutiao.io/k/4gdphhl) ![](assets/new.png)  
 - [2022-02-10-KeePass-跨终端密码管理](https://toutiao.io/k/84eswdg) ![](assets/new.png)  
-- [2022-02-10-运维与微服务结合？深度解析微服务框架Tars整体解决方案](https://toutiao.io/k/9jgfa5b) ![](assets/new.png)  
 - [2022-02-10-应用架构指南全新发布](https://toutiao.io/k/lmy3ob3) ![](assets/new.png)  
 - [2022-02-10-我心中的高级程序员](https://toutiao.io/k/79oinns) ![](assets/new.png)  
-- [2022-02-10-TiDB-在-eBay丨亿优百倍：商品数据服务缓存与代码优化](https://toutiao.io/k/8crgvt6) ![](assets/new.png)  
 - [2022-02-10-上帝视角来看-2022-年前端趋势](https://toutiao.io/k/s9zf3yw) ![](assets/new.png)  
+- [2022-02-10-TiDB-在-eBay丨亿优百倍：商品数据服务缓存与代码优化](https://toutiao.io/k/8crgvt6) ![](assets/new.png)  
 - [2022-02-10-面向B端算法实时业务支撑的工程实践](https://toutiao.io/k/fqvac2i) ![](assets/new.png)  
+- [2022-02-10-推荐-阿里专家：如何画出优秀的架构图？](https://toutiao.io/k/92sk26n) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

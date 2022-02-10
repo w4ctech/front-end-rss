@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-02-10 06:47:00。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-10 06:59:15。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -297,7 +297,6 @@
 
 
 
-- [【V2EX】内推-58-同城算法、-Java-、风控、数据分析工程师，大量急招](https://www.v2ex.com/t/832890)
 - [【开发者头条】面向B端算法实时业务支撑的工程实践](https://toutiao.io/k/fqvac2i)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 
@@ -349,6 +348,7 @@
 
 
 
+- [【V2EX】北京-初创公司-全职-DeFi-方向-招聘前端-后端-产品。](https://www.v2ex.com/t/832947)
 - [【V2EX】新加坡阿里巴巴Daraz招聘中级/高级-iOS-开发](https://www.v2ex.com/t/832935)
 - [......【查看更多】......](./details/tags/job-interview.md)
 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-02-10 21:54:52。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-10 22:12:17。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -18,5 +18,5 @@
 - [2021-12-20-深入JS-getRandomValues和Math.random方法](https://www.zhangxinxu.com/wordpress/2021/12/js-getrandomvalue-math-random/) 
 - [2021-12-08-flex-end为什么overflow无法滚动及解决方法](https://www.zhangxinxu.com/wordpress/2021/12/flex-end-overflow/) 
 - [2021-11-23-从js-visibilitychange-Safari下无效说开去](https://www.zhangxinxu.com/wordpress/2021/11/js-visibilitychange-pagehide-lifecycle/) 
-- [2022-02-10-想了一天也没搞定，如何用-js-分割字符](https://www.v2ex.com/t/833087) 
+- [2022-02-10-求助-想了一天也没搞定，如何用-js-分割字符？](https://www.v2ex.com/t/833087) 
 - [2022-02-10-家里软路由下的设备，突然无法-ping-通外网了，可能是什么原因导致的？](https://www.v2ex.com/t/833045) 

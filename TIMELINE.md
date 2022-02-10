@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-02-10 05:54:04。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-02-10 06:14:41。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -105,6 +105,11 @@
 - [【武汉肺炎防疫全纪录(财新网)】2022-02-01-德国未实现接种目标-奥地利强制接种疫苗法律生效｜大流行手记（1月31日）](https://m.caixin.com/m/2022-02-01/101837106.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2022-02-01-聚焦｜张文宏：未来抗疫，是努力夺回正常生活的过程](https://opinion.caixin.com/m/2022-02-01/101837206.html) 
 - [【张鑫旭-鑫空间-鑫生活】2022-02-04-HTML-inputmode与iOS-Android软键盘类型测试](https://www.zhangxinxu.com/wordpress/2022/02/html-inputmode-keyboard/) 
+- [【V2EX】2022-02-10-有文件-MD5-时能否利用网盘的"秒传"来快速上传文件?](https://www.v2ex.com/t/832925) 
+- [【V2EX】2022-02-10-请教各位大神，这个负载可能是从哪来的?](https://www.v2ex.com/t/832924) 
+- [【V2EX】2022-02-10-投资系列闲聊-5:-我觉得可以抄底了](https://www.v2ex.com/t/832923) 
+- [【V2EX】2022-02-10-阿里云盘-webdav-好像用不了了，不香了](https://www.v2ex.com/t/832922) 
+- [【V2EX】2022-02-10-iPhone-上观看-netflix-无解了吗？看一会儿就只能自制剧了](https://www.v2ex.com/t/832921) 
 - [【V2EX】2022-02-10-V2EX-手机开帖](https://www.v2ex.com/t/832919) 
 - [【V2EX】2022-02-10-新年-offer-比较，拿不定主意](https://www.v2ex.com/t/832918) 
 - [【V2EX】2022-02-10-b-站这些-up-的声音是用什么软件做的](https://www.v2ex.com/t/832917) 
@@ -133,8 +138,6 @@
 - [【V2EX】2022-02-10-只有我觉得那个冰墩墩奇丑无比吗](https://www.v2ex.com/t/832880) 
 - [【V2EX】2022-02-10-大家有遇到-Mac-微信视频通话音量问题吗?](https://www.v2ex.com/t/832878) 
 - [【V2EX】2022-02-10-双系统电脑远程唤醒有什么办法选择系统呢？](https://www.v2ex.com/t/832877) 
-- [【V2EX】2022-02-10-关于-switch-代理服务器设置问题求助](https://www.v2ex.com/t/832874) 
-- [【V2EX】2022-02-10-google-voice-可以选择号码，但需要短信验证，有解不？](https://www.v2ex.com/t/832871) 
 - [【技术头条】2022-02-10-5款最佳最牛代码比较神器-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14934&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493248%26amp%3Bidx%3D1%26amp%3Bsn%3D50bb00a7204f2595e19bba088152c56a%26amp%3Bchksm%3Dfa3f07dbcd488ecd96ab648174c45d2d5085db9e8ad2ec47e80bba1e6580f7d7158761183317%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-02-10-在GitHub上提交代码必备指南！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14933&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493238%26amp%3Bidx%3D1%26amp%3Bsn%3Db92e65ee96d1c998d823b55d7fafc234%26amp%3Bchksm%3Dfa3f072dcd488e3b997e0b9b4b48f5c4de6513c91fd46a4d1bde7bb89bf61af7c319e2d5dfff%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-02-10-Linux新手入门的一些基本知识点整理-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14932&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493238%26amp%3Bidx%3D2%26amp%3Bsn%3D349fdafff5bc72eafcc5ac71ad01f6f4%26amp%3Bchksm%3Dfa3f072dcd488e3bf0ced8316f1c7278fce2eaf1946c7f123a864edf879ff397cee6f74a68aa%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -157,8 +160,8 @@
 - [【技术头条】2022-02-10-大公司病，太TM形象了！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14915&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493202%26amp%3Bidx%3D1%26amp%3Bsn%3De08d82d00cbbf2c8e79f3c18167cf3a7%26amp%3Bchksm%3Dfa3f0709cd488e1f1aef1ff3977c30095179293a65fef2658c28e6ea8af2d5cf243d3fd432e6%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【开发者头条】2022-02-10-2022-年别再焦虑啦！加入我们！](https://toutiao.io/k/obimloc) 
 - [【开发者头条】2022-02-10-如何撰写好的技术方案设计-真实案例干货分享](https://toutiao.io/k/0f5fv4t) 
-- [【开发者头条】2022-02-10-CTO手绘的那些事](https://toutiao.io/k/uoyap1i) 
 - [【开发者头条】2022-02-10-如何在快应用开发中使用-vuex-做状态管理---悠然宜想亭](https://toutiao.io/k/80h0rp2) 
+- [【开发者头条】2022-02-10-CTO手绘的那些事](https://toutiao.io/k/uoyap1i) 
 - [【开发者头条】2022-02-10-理解go中空结构体的应用和实现原理](https://toutiao.io/k/filze2x) 
 - [【开发者头条】2022-02-10-实锤被抓包！字节跳动违反Apache-2.0许可证，在火山引擎里违规重新发布Apache-SkyWalking！](https://toutiao.io/k/gqk90p3) 
 - [【开发者头条】2022-02-10-DPM在数仓建设中的作用](https://toutiao.io/k/v9ufbbj) 
@@ -168,8 +171,15 @@
 - [【开发者头条】2022-02-10-来自未来，2022-年的前端人都在做什么?](https://toutiao.io/k/pv81l86) 
 - [【开发者头条】2022-02-10-开源与云城堡：开源初创公司如何与三巨头竞争！](https://toutiao.io/k/4gdphhl) 
 - [【开发者头条】2022-02-10-动手打造一款-canvas-排版引擎](https://toutiao.io/k/zizo8yy) 
-- [【开发者头条】2022-02-10-推荐-阿里专家：如何画出优秀的架构图？](https://toutiao.io/k/92sk26n) 
+- [【开发者头条】2022-02-10-KeePass-跨终端密码管理](https://toutiao.io/k/84eswdg) 
+- [【开发者头条】2022-02-10-应用架构指南全新发布](https://toutiao.io/k/lmy3ob3) 
+- [【开发者头条】2022-02-10-我心中的高级程序员](https://toutiao.io/k/79oinns) 
+- [【开发者头条】2022-02-10-TiDB-在-eBay丨亿优百倍：商品数据服务缓存与代码优化](https://toutiao.io/k/8crgvt6) 
+- [【开发者头条】2022-02-10-运维与微服务结合？深度解析微服务框架Tars整体解决方案](https://toutiao.io/k/9jgfa5b) 
+- [【开发者头条】2022-02-10-面向B端算法实时业务支撑的工程实践](https://toutiao.io/k/fqvac2i) 
+- [【开发者头条】2022-02-10-上帝视角来看-2022-年前端趋势](https://toutiao.io/k/s9zf3yw) 
 - [【开发者头条】2022-02-10-推荐-作为研发Leader，如何做总结](https://toutiao.io/k/1g7flto) 
+- [【开发者头条】2022-02-10-推荐-阿里专家：如何画出优秀的架构图？](https://toutiao.io/k/92sk26n) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

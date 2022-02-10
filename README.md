@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-10 15:12:42，:rocket: 更新条数: +1879， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-10 15:21:49，:rocket: 更新条数: +1879， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-02-10-如何克服焦虑](https://www.v2ex.com/t/833071) ![](assets/new.png)  
 - [2022-02-10-结婚这件大事](https://www.v2ex.com/t/833069) ![](assets/new.png)  
 - [2022-02-10-作为业务研发，大家是如何思考和成长的呢？](https://www.v2ex.com/t/833067) ![](assets/new.png)  
 - [2022-02-10-有-V-友给父母安排体检吗？](https://www.v2ex.com/t/833066) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-02-10-闲鱼上-800-元捡了台光纤熔接机，靠谱吗](https://www.v2ex.com/t/833049) ![](assets/new.png)  
 - [2022-02-10-iCloud+的蛋疼问题（两台不同容量的-Mac）](https://www.v2ex.com/t/833048) ![](assets/new.png)  
 - [2022-02-10-wordpress-丰富多彩的插件，移植到-Go/-PHP-/-Java-的-cms-框架成本高吗？](https://www.v2ex.com/t/833047) ![](assets/new.png)  
-- [2022-02-10-2022-年，我们再来谈谈-React-状态管理](https://www.v2ex.com/t/833046) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -572,7 +572,7 @@
 - [2022-02-10-上帝视角来看-2022-年前端趋势](https://toutiao.io/k/s9zf3yw) ![](assets/new.png)  
 - [2022-02-10-面向B端算法实时业务支撑的工程实践](https://toutiao.io/k/fqvac2i) ![](assets/new.png)  
 - [2022-02-10-TiDB-在-eBay丨亿优百倍：商品数据服务缓存与代码优化](https://toutiao.io/k/8crgvt6) ![](assets/new.png)  
-- [2022-02-10-推荐-作为研发Leader，如何做总结](https://toutiao.io/k/1g7flto) ![](assets/new.png)  
+- [2022-02-10-推荐-百度和米哈游的Golang面试经验分享](https://toutiao.io/k/q0sox0k) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

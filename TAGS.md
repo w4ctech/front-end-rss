@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-02-10 13:56:39。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-10 14:11:39。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -76,7 +76,6 @@
 
 
 
-- [【V2EX】vscode-写-typescript-有些包反应特别慢应该怎么办](https://www.v2ex.com/t/833011)
 - [......【查看更多】......](./details/tags/typescript.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -357,8 +356,6 @@
 
 
 
-- [【V2EX】坚果云（效率工具软件）年后第一波紧急真实招聘！!（可远程面试~）‼‼](https://www.v2ex.com/t/833010)
-- [【V2EX】面试面的怀疑人生了，一轮游怎么搞](https://www.v2ex.com/t/833009)
 - [【开发者头条】推荐-百度和米哈游的Golang面试经验分享](https://toutiao.io/k/q0sox0k)
 - [......【查看更多】......](./details/tags/job-interview.md)
 

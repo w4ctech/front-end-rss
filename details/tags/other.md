@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-02-10 10:42:46。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-10 10:54:56。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1762,6 +1762,8 @@
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2022-02-04-HTML-inputmode与iOS-Android软键盘类型测试](https://www.zhangxinxu.com/wordpress/2022/02/html-inputmode-keyboard/) 
 - [2021-11-14-密码强度效果最佳实现一定是HTML-meter元素](https://www.zhangxinxu.com/wordpress/2021/11/html-meter-password/) 
+- [2022-02-10-#量化-#production-engineer-某量化私募公司-｛-AUM30-亿～｝-base：上海-薪资好还双休](https://www.v2ex.com/t/833030) 
+- [2022-02-10-不知道-V-站买车的人多不多，想请教一下大家买车或者不买车的理由](https://www.v2ex.com/t/833029) 
 - [2022-02-10-我今天才知道元宵节不放假](https://www.v2ex.com/t/833027) 
 - [2022-02-10-neno-笔记的一些更新和插件更新](https://www.v2ex.com/t/833026) 
 - [2022-02-10-传广西电信宣布关停宽带公网-IPv4-服务-只用-IPv6](https://www.v2ex.com/t/833024) 
@@ -1784,9 +1786,6 @@
 - [2022-02-10-鼠标在大屏幕下-感觉有点不跟手](https://www.v2ex.com/t/832983) 
 - [2022-02-10-开源最佳实践](https://www.v2ex.com/t/832982) 
 - [2022-02-10-招募-TPM（技术项目经理）](https://www.v2ex.com/t/832981) 
-- [2022-02-10-现在所有网络交易平台里,体验最差的是咸鱼吧?](https://www.v2ex.com/t/832980) 
-- [2022-02-10-求进度可视化-app](https://www.v2ex.com/t/832979) 
-- [2022-02-10-PCA-降维后数据的协方差为什么变成-0？](https://www.v2ex.com/t/832978) 
 - [2022-02-10-Cucumber测试实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14935&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fcucumber-testing-practice%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-02-10-5款最佳最牛代码比较神器-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14934&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493248%26amp%3Bidx%3D1%26amp%3Bsn%3D50bb00a7204f2595e19bba088152c56a%26amp%3Bchksm%3Dfa3f07dbcd488ecd96ab648174c45d2d5085db9e8ad2ec47e80bba1e6580f7d7158761183317%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-02-10-Linux新手入门的一些基本知识点整理-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14932&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493238%26amp%3Bidx%3D2%26amp%3Bsn%3D349fdafff5bc72eafcc5ac71ad01f6f4%26amp%3Bchksm%3Dfa3f072dcd488e3bf0ced8316f1c7278fce2eaf1946c7f123a864edf879ff397cee6f74a68aa%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1810,8 +1809,8 @@
 - [2022-02-10-什么是分布式配置中心？](https://toutiao.io/k/q4j71uk) 
 - [2022-02-10-DPM在数仓建设中的作用](https://toutiao.io/k/v9ufbbj) 
 - [2022-02-10-来自未来，2022-年的前端人都在做什么?](https://toutiao.io/k/pv81l86) 
-- [2022-02-10-开源与云城堡：开源初创公司如何与三巨头竞争！](https://toutiao.io/k/4gdphhl) 
 - [2022-02-10-我心中的高级程序员](https://toutiao.io/k/79oinns) 
+- [2022-02-10-开源与云城堡：开源初创公司如何与三巨头竞争！](https://toutiao.io/k/4gdphhl) 
 - [2022-02-10-KeePass-跨终端密码管理](https://toutiao.io/k/84eswdg) 
 - [2022-02-10-应用架构指南全新发布](https://toutiao.io/k/lmy3ob3) 
 - [2022-02-10-上帝视角来看-2022-年前端趋势](https://toutiao.io/k/s9zf3yw) 

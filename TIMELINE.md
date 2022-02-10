@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-02-10 10:42:46。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-02-10 10:54:56。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -107,6 +107,9 @@
 - [【武汉肺炎防疫全纪录(财新网)】2022-02-01-德国未实现接种目标-奥地利强制接种疫苗法律生效｜大流行手记（1月31日）](https://m.caixin.com/m/2022-02-01/101837106.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2022-02-01-聚焦｜张文宏：未来抗疫，是努力夺回正常生活的过程](https://opinion.caixin.com/m/2022-02-01/101837206.html) 
 - [【张鑫旭-鑫空间-鑫生活】2022-02-04-HTML-inputmode与iOS-Android软键盘类型测试](https://www.zhangxinxu.com/wordpress/2022/02/html-inputmode-keyboard/) 
+- [【V2EX】2022-02-10-#量化-#production-engineer-某量化私募公司-｛-AUM30-亿～｝-base：上海-薪资好还双休](https://www.v2ex.com/t/833030) 
+- [【V2EX】2022-02-10-不知道-V-站买车的人多不多，想请教一下大家买车或者不买车的理由](https://www.v2ex.com/t/833029) 
+- [【V2EX】2022-02-10-有做浏览器插件开发的吗？](https://www.v2ex.com/t/833028) 
 - [【V2EX】2022-02-10-我今天才知道元宵节不放假](https://www.v2ex.com/t/833027) 
 - [【V2EX】2022-02-10-neno-笔记的一些更新和插件更新](https://www.v2ex.com/t/833026) 
 - [【V2EX】2022-02-10-传广西电信宣布关停宽带公网-IPv4-服务-只用-IPv6](https://www.v2ex.com/t/833024) 
@@ -139,9 +142,6 @@
 - [【V2EX】2022-02-10-鼠标在大屏幕下-感觉有点不跟手](https://www.v2ex.com/t/832983) 
 - [【V2EX】2022-02-10-开源最佳实践](https://www.v2ex.com/t/832982) 
 - [【V2EX】2022-02-10-招募-TPM（技术项目经理）](https://www.v2ex.com/t/832981) 
-- [【V2EX】2022-02-10-现在所有网络交易平台里,体验最差的是咸鱼吧?](https://www.v2ex.com/t/832980) 
-- [【V2EX】2022-02-10-求进度可视化-app](https://www.v2ex.com/t/832979) 
-- [【V2EX】2022-02-10-PCA-降维后数据的协方差为什么变成-0？](https://www.v2ex.com/t/832978) 
 - [【技术头条】2022-02-10-Cucumber测试实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14935&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fcucumber-testing-practice%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-02-10-5款最佳最牛代码比较神器-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14934&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493248%26amp%3Bidx%3D1%26amp%3Bsn%3D50bb00a7204f2595e19bba088152c56a%26amp%3Bchksm%3Dfa3f07dbcd488ecd96ab648174c45d2d5085db9e8ad2ec47e80bba1e6580f7d7158761183317%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-02-10-在GitHub上提交代码必备指南！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14933&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493238%26amp%3Bidx%3D1%26amp%3Bsn%3Db92e65ee96d1c998d823b55d7fafc234%26amp%3Bchksm%3Dfa3f072dcd488e3b997e0b9b4b48f5c4de6513c91fd46a4d1bde7bb89bf61af7c319e2d5dfff%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -173,8 +173,8 @@
 - [【开发者头条】2022-02-10-三年前写的-express-action，今天看了下还是觉得挺好用。。。](https://toutiao.io/k/7076pzd) 
 - [【开发者头条】2022-02-10-BIGO-使用-Flink-做-OLAP-分析及实时数仓的实践和优化](https://toutiao.io/k/1qqcy1y) 
 - [【开发者头条】2022-02-10-来自未来，2022-年的前端人都在做什么?](https://toutiao.io/k/pv81l86) 
-- [【开发者头条】2022-02-10-开源与云城堡：开源初创公司如何与三巨头竞争！](https://toutiao.io/k/4gdphhl) 
 - [【开发者头条】2022-02-10-我心中的高级程序员](https://toutiao.io/k/79oinns) 
+- [【开发者头条】2022-02-10-开源与云城堡：开源初创公司如何与三巨头竞争！](https://toutiao.io/k/4gdphhl) 
 - [【开发者头条】2022-02-10-动手打造一款-canvas-排版引擎](https://toutiao.io/k/zizo8yy) 
 - [【开发者头条】2022-02-10-KeePass-跨终端密码管理](https://toutiao.io/k/84eswdg) 
 - [【开发者头条】2022-02-10-应用架构指南全新发布](https://toutiao.io/k/lmy3ob3) 

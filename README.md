@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-10 21:39:50，:rocket: 更新条数: +1879， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-10 21:54:52，:rocket: 更新条数: +1879， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-02-10-想了一天也没搞定，如何用-js-分割字符](https://www.v2ex.com/t/833087) ![](assets/new.png)  
 - [2022-02-10-毕业家里蹲两年该怎么找工作啊？想找图形或游戏相关的](https://www.v2ex.com/t/833086) ![](assets/new.png)  
 - [2022-02-10-惨痛教训，数据被-nextcloud-删了，找公司从开启-TRIM-的-SSD-硬盘的-Mac-上恢复删除的数据还有可能吗？](https://www.v2ex.com/t/833084) ![](assets/new.png)  
 - [2022-02-10-app-有没有可能利用-iOS-多摄像头同时摄影的特性偷偷摄影，但是只展示一个摄像头的结果给你](https://www.v2ex.com/t/833083) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-02-10-有-V-友给父母安排体检吗？](https://www.v2ex.com/t/833066) ![](assets/new.png)  
 - [2022-02-10-iOS-15-正式版以来-Apple-Pay-银行卡不再显示交易记录](https://www.v2ex.com/t/833064) ![](assets/new.png)  
 - [2022-02-10-个人创业-寻找技术合伙人](https://www.v2ex.com/t/833063) ![](assets/new.png)  
-- [2022-02-10-写了一个-Go-的集合库（处理-Slice/Map/Array-数据），基于-Go-1.18-泛型](https://www.v2ex.com/t/833062) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -572,7 +572,7 @@
 - [2022-02-10-上帝视角来看-2022-年前端趋势](https://toutiao.io/k/s9zf3yw) ![](assets/new.png)  
 - [2022-02-10-面向B端算法实时业务支撑的工程实践](https://toutiao.io/k/fqvac2i) ![](assets/new.png)  
 - [2022-02-10-TiDB-在-eBay丨亿优百倍：商品数据服务缓存与代码优化](https://toutiao.io/k/8crgvt6) ![](assets/new.png)  
-- [2022-02-10-推荐-百度和米哈游的Golang面试经验分享](https://toutiao.io/k/q0sox0k) ![](assets/new.png)  
+- [2022-02-10-推荐-作为研发Leader，如何做总结](https://toutiao.io/k/1g7flto) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

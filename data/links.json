@@ -9188,6 +9188,26 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "netflix 阿根廷区拼车（premium 套餐支持 uhd）",
+        "link": "https://www.v2ex.com/t/832994",
+        "date": "2022-02-10"
+      },
+      {
+        "title": "准备自己 DIY 一台主机，大家看看这样配置有没有不妥的地方",
+        "link": "https://www.v2ex.com/t/832992",
+        "date": "2022-02-10"
+      },
+      {
+        "title": "有没有 V 友在用 Coding 的持续集成功能？",
+        "link": "https://www.v2ex.com/t/832991",
+        "date": "2022-02-10"
+      },
+      {
+        "title": "一百万能在二线城市躺多久?",
+        "link": "https://www.v2ex.com/t/832990",
+        "date": "2022-02-10"
+      },
+      {
         "title": "京东企业会员是个什么东西？居然打电话让我注册，确认是官方.",
         "link": "https://www.v2ex.com/t/832989",
         "date": "2022-02-10"
@@ -9346,31 +9366,6 @@
         "title": "这么好用的软件怎么就没人用呢？",
         "link": "https://www.v2ex.com/t/832950",
         "date": "2022-02-10"
-      },
-      {
-        "title": "[北京] 初创公司 全职 DeFi 方向 招聘前端 后端 产品。",
-        "link": "https://www.v2ex.com/t/832947",
-        "date": "2022-02-10"
-      },
-      {
-        "title": "如何规避员工 996 引发的一系列问题",
-        "link": "https://www.v2ex.com/t/832946",
-        "date": "2022-02-10"
-      },
-      {
-        "title": "各位运维大佬都用什么监控软件，出警报时实现电话报警",
-        "link": "https://www.v2ex.com/t/832943",
-        "date": "2022-02-10"
-      },
-      {
-        "title": "请教一下，有没有可以自动查看某个微博用户发了新微博然后在新微博下留言的工具？（不是用来干坏事的，这种可以问吗？）",
-        "link": "https://www.v2ex.com/t/832942",
-        "date": "2022-02-10"
-      },
-      {
-        "title": "求推荐 2000 价位 55 寸~65 寸电视",
-        "link": "https://www.v2ex.com/t/832941",
-        "date": "2022-02-10"
       }
     ]
   },
@@ -9379,6 +9374,11 @@
     "title": "技术头条",
     "link": "http://blogread.cn/news/newest.php",
     "items": [
+      {
+        "title": "Cucumber测试实践 (insights.thoughtworks.cn)",
+        "link": "https://blogread.cn/news/go.php?idItem=14935&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fcucumber-testing-practice%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2022-02-10"
+      },
       {
         "title": "5款最佳最牛代码比较神器 (mp.weixin.qq.com)",
         "link": "https://blogread.cn/news/go.php?idItem=14934&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493248%26amp%3Bidx%3D1%26amp%3Bsn%3D50bb00a7204f2595e19bba088152c56a%26amp%3Bchksm%3Dfa3f07dbcd488ecd96ab648174c45d2d5085db9e8ad2ec47e80bba1e6580f7d7158761183317%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
@@ -9472,11 +9472,6 @@
       {
         "title": "Vue实战中的一些小魔法 (mp.weixin.qq.com)",
         "link": "https://blogread.cn/news/go.php?idItem=14916&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493203%26amp%3Bidx%3D2%26amp%3Bsn%3Dde9700033ad22427b1188396a4eb0294%26amp%3Bchksm%3Dfa3f0708cd488e1e16708c787c643e842476abe8a4de820fc49757f106a55d2572147b474a71%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-02-10"
-      },
-      {
-        "title": "大公司病，太TM形象了！ (mp.weixin.qq.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=14915&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493202%26amp%3Bidx%3D1%26amp%3Bsn%3De08d82d00cbbf2c8e79f3c18167cf3a7%26amp%3Bchksm%3Dfa3f0709cd488e1f1aef1ff3977c30095179293a65fef2658c28e6ea8af2d5cf243d3fd432e6%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
         "date": "2022-02-10"
       }
     ]

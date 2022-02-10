@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-10 08:55:36，:rocket: 更新条数: +1871， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-10 09:12:31，:rocket: 更新条数: +1870， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,10 @@
 </summary>
 
 
+- [2022-02-10-netflix-阿根廷区拼车（premium-套餐支持-uhd）](https://www.v2ex.com/t/832994) ![](assets/new.png)  
+- [2022-02-10-准备自己-DIY-一台主机，大家看看这样配置有没有不妥的地方](https://www.v2ex.com/t/832992) ![](assets/new.png)  
+- [2022-02-10-有没有-V-友在用-Coding-的持续集成功能？](https://www.v2ex.com/t/832991) ![](assets/new.png)  
+- [2022-02-10-一百万能在二线城市躺多久?](https://www.v2ex.com/t/832990) ![](assets/new.png)  
 - [2022-02-10-京东企业会员是个什么东西？居然打电话让我注册，确认是官方.](https://www.v2ex.com/t/832989) ![](assets/new.png)  
 - [2022-02-10-AI-新型电子计算单元，模拟神经元](https://www.v2ex.com/t/832988) ![](assets/new.png)  
 - [2022-02-10-jvm-某个组件设置的使用堆外内存，但是-jvm-又部署在-docker-里，那这个堆外内存此时到底是什么？](https://www.v2ex.com/t/832986) ![](assets/new.png)  
@@ -507,10 +511,6 @@
 - [2022-02-10-为什么最近天气这么冷](https://www.v2ex.com/t/832974) ![](assets/new.png)  
 - [2022-02-10-上海-区块链前端工程师-20-30k-招聘](https://www.v2ex.com/t/832970) ![](assets/new.png)  
 - [2022-02-10-DuckDuckGo-Email-Protection-大面积邀请了,-之前加入-waitlist-的可以打开看看,-另外安利-Shortcuts](https://www.v2ex.com/t/832969) ![](assets/new.png)  
-- [2022-02-10-淘宝上卖的低价-amazon-礼品卡，靠谱么？](https://www.v2ex.com/t/832968) ![](assets/new.png)  
-- [2022-02-10-招聘美术-内推成功奖金平分！](https://www.v2ex.com/t/832967) ![](assets/new.png)  
-- [2022-02-10-今天就礼拜四了，大家上班无聊的时候都会干啥？](https://www.v2ex.com/t/832966) ![](assets/new.png)  
-- [2022-02-10-Ant-Design-Amiya-发布啦～🎉🎉🎉](https://www.v2ex.com/t/832965) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -522,6 +522,7 @@
 </summary>
 
 
+- [2022-02-10-Cucumber测试实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14935&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fcucumber-testing-practice%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-02-10-5款最佳最牛代码比较神器-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14934&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493248%26amp%3Bidx%3D1%26amp%3Bsn%3D50bb00a7204f2595e19bba088152c56a%26amp%3Bchksm%3Dfa3f07dbcd488ecd96ab648174c45d2d5085db9e8ad2ec47e80bba1e6580f7d7158761183317%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-02-10-在GitHub上提交代码必备指南！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14933&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493238%26amp%3Bidx%3D1%26amp%3Bsn%3Db92e65ee96d1c998d823b55d7fafc234%26amp%3Bchksm%3Dfa3f072dcd488e3b997e0b9b4b48f5c4de6513c91fd46a4d1bde7bb89bf61af7c319e2d5dfff%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-02-10-Linux新手入门的一些基本知识点整理-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14932&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493238%26amp%3Bidx%3D2%26amp%3Bsn%3D349fdafff5bc72eafcc5ac71ad01f6f4%26amp%3Bchksm%3Dfa3f072dcd488e3bf0ced8316f1c7278fce2eaf1946c7f123a864edf879ff397cee6f74a68aa%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
@@ -541,7 +542,6 @@
 - [2022-02-10-优质网站同好者周刊（第-050-期）-blog.nicelinks.site](https://blogread.cn/news/go.php?idItem=14918&url=https%3A%2F%2Fblog.nicelinks.site%2Fweekly-050%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-02-10-漫谈金丝雀部署-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14917&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fcanary-deployment%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-02-10-Vue实战中的一些小魔法-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14916&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493203%26amp%3Bidx%3D2%26amp%3Bsn%3Dde9700033ad22427b1188396a4eb0294%26amp%3Bchksm%3Dfa3f0708cd488e1e16708c787c643e842476abe8a4de820fc49757f106a55d2572147b474a71%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-02-10-大公司病，太TM形象了！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14915&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493202%26amp%3Bidx%3D1%26amp%3Bsn%3De08d82d00cbbf2c8e79f3c18167cf3a7%26amp%3Bchksm%3Dfa3f0709cd488e1f1aef1ff3977c30095179293a65fef2658c28e6ea8af2d5cf243d3fd432e6%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

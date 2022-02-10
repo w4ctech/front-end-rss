@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-02-10 08:55:36。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-02-10 09:12:31。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -107,6 +107,10 @@
 - [【武汉肺炎防疫全纪录(财新网)】2022-02-01-德国未实现接种目标-奥地利强制接种疫苗法律生效｜大流行手记（1月31日）](https://m.caixin.com/m/2022-02-01/101837106.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2022-02-01-聚焦｜张文宏：未来抗疫，是努力夺回正常生活的过程](https://opinion.caixin.com/m/2022-02-01/101837206.html) 
 - [【张鑫旭-鑫空间-鑫生活】2022-02-04-HTML-inputmode与iOS-Android软键盘类型测试](https://www.zhangxinxu.com/wordpress/2022/02/html-inputmode-keyboard/) 
+- [【V2EX】2022-02-10-netflix-阿根廷区拼车（premium-套餐支持-uhd）](https://www.v2ex.com/t/832994) 
+- [【V2EX】2022-02-10-准备自己-DIY-一台主机，大家看看这样配置有没有不妥的地方](https://www.v2ex.com/t/832992) 
+- [【V2EX】2022-02-10-有没有-V-友在用-Coding-的持续集成功能？](https://www.v2ex.com/t/832991) 
+- [【V2EX】2022-02-10-一百万能在二线城市躺多久?](https://www.v2ex.com/t/832990) 
 - [【V2EX】2022-02-10-京东企业会员是个什么东西？居然打电话让我注册，确认是官方.](https://www.v2ex.com/t/832989) 
 - [【V2EX】2022-02-10-AI-新型电子计算单元，模拟神经元](https://www.v2ex.com/t/832988) 
 - [【V2EX】2022-02-10-jvm-某个组件设置的使用堆外内存，但是-jvm-又部署在-docker-里，那这个堆外内存此时到底是什么？](https://www.v2ex.com/t/832986) 
@@ -139,11 +143,7 @@
 - [【V2EX】2022-02-10-各位大佬用-vps-自动提供的密码有什么风险吗-需要特地换密码吗-感觉如果服务提供商要搞事也不差这个密码是不是不用换了？](https://www.v2ex.com/t/832953) 
 - [【V2EX】2022-02-10-我终于找到解决-macOS-切换输入法慢/不响应的方法了](https://www.v2ex.com/t/832952) 
 - [【V2EX】2022-02-10-这么好用的软件怎么就没人用呢？](https://www.v2ex.com/t/832950) 
-- [【V2EX】2022-02-10-北京-初创公司-全职-DeFi-方向-招聘前端-后端-产品。](https://www.v2ex.com/t/832947) 
-- [【V2EX】2022-02-10-如何规避员工-996-引发的一系列问题](https://www.v2ex.com/t/832946) 
-- [【V2EX】2022-02-10-各位运维大佬都用什么监控软件，出警报时实现电话报警](https://www.v2ex.com/t/832943) 
-- [【V2EX】2022-02-10-请教一下，有没有可以自动查看某个微博用户发了新微博然后在新微博下留言的工具？（不是用来干坏事的，这种可以问吗？）](https://www.v2ex.com/t/832942) 
-- [【V2EX】2022-02-10-求推荐-2000-价位-55-寸~65-寸电视](https://www.v2ex.com/t/832941) 
+- [【技术头条】2022-02-10-Cucumber测试实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14935&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fcucumber-testing-practice%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-02-10-5款最佳最牛代码比较神器-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14934&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493248%26amp%3Bidx%3D1%26amp%3Bsn%3D50bb00a7204f2595e19bba088152c56a%26amp%3Bchksm%3Dfa3f07dbcd488ecd96ab648174c45d2d5085db9e8ad2ec47e80bba1e6580f7d7158761183317%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-02-10-在GitHub上提交代码必备指南！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14933&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493238%26amp%3Bidx%3D1%26amp%3Bsn%3Db92e65ee96d1c998d823b55d7fafc234%26amp%3Bchksm%3Dfa3f072dcd488e3b997e0b9b4b48f5c4de6513c91fd46a4d1bde7bb89bf61af7c319e2d5dfff%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-02-10-Linux新手入门的一些基本知识点整理-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14932&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493238%26amp%3Bidx%3D2%26amp%3Bsn%3D349fdafff5bc72eafcc5ac71ad01f6f4%26amp%3Bchksm%3Dfa3f072dcd488e3bf0ced8316f1c7278fce2eaf1946c7f123a864edf879ff397cee6f74a68aa%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -163,7 +163,6 @@
 - [【技术头条】2022-02-10-优质网站同好者周刊（第-050-期）-blog.nicelinks.site](https://blogread.cn/news/go.php?idItem=14918&url=https%3A%2F%2Fblog.nicelinks.site%2Fweekly-050%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-02-10-漫谈金丝雀部署-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14917&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fcanary-deployment%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-02-10-Vue实战中的一些小魔法-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14916&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493203%26amp%3Bidx%3D2%26amp%3Bsn%3Dde9700033ad22427b1188396a4eb0294%26amp%3Bchksm%3Dfa3f0708cd488e1e16708c787c643e842476abe8a4de820fc49757f106a55d2572147b474a71%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
-- [【技术头条】2022-02-10-大公司病，太TM形象了！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14915&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493202%26amp%3Bidx%3D1%26amp%3Bsn%3De08d82d00cbbf2c8e79f3c18167cf3a7%26amp%3Bchksm%3Dfa3f0709cd488e1f1aef1ff3977c30095179293a65fef2658c28e6ea8af2d5cf243d3fd432e6%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【开发者头条】2022-02-10-2022-年别再焦虑啦！加入我们！](https://toutiao.io/k/obimloc) 
 - [【开发者头条】2022-02-10-如何撰写好的技术方案设计-真实案例干货分享](https://toutiao.io/k/0f5fv4t) 
 - [【开发者头条】2022-02-10-CTO手绘的那些事](https://toutiao.io/k/uoyap1i) 

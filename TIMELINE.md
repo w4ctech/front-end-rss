@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-02-10 17:41:02。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-02-10 17:54:49。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -190,9 +190,9 @@
 - [【开发者头条】2022-02-10-上帝视角来看-2022-年前端趋势](https://toutiao.io/k/s9zf3yw) 
 - [【开发者头条】2022-02-10-面向B端算法实时业务支撑的工程实践](https://toutiao.io/k/fqvac2i) 
 - [【开发者头条】2022-02-10-TiDB-在-eBay丨亿优百倍：商品数据服务缓存与代码优化](https://toutiao.io/k/8crgvt6) 
-- [【开发者头条】2022-02-10-推荐-作为研发Leader，如何做总结](https://toutiao.io/k/1g7flto) 
 - [【开发者头条】2022-02-10-推荐-阿里专家：如何画出优秀的架构图？](https://toutiao.io/k/92sk26n) 
 - [【开发者头条】2022-02-10-推荐-百度和米哈游的Golang面试经验分享](https://toutiao.io/k/q0sox0k) 
+- [【开发者头条】2022-02-10-推荐-作为研发Leader，如何做总结](https://toutiao.io/k/1g7flto) 
 - [【开发者头条】2022-02-10-推荐-真香啊！接私活必备的-N-个开源项目（附源码合集第一期）！收藏走起！](https://toutiao.io/k/he7umju) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>

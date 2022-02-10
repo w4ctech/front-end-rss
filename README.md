@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-10 17:41:02，:rocket: 更新条数: +1880， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-10 17:54:49，:rocket: 更新条数: +1880， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -572,7 +572,7 @@
 - [2022-02-10-上帝视角来看-2022-年前端趋势](https://toutiao.io/k/s9zf3yw) ![](assets/new.png)  
 - [2022-02-10-面向B端算法实时业务支撑的工程实践](https://toutiao.io/k/fqvac2i) ![](assets/new.png)  
 - [2022-02-10-TiDB-在-eBay丨亿优百倍：商品数据服务缓存与代码优化](https://toutiao.io/k/8crgvt6) ![](assets/new.png)  
-- [2022-02-10-推荐-作为研发Leader，如何做总结](https://toutiao.io/k/1g7flto) ![](assets/new.png)  
+- [2022-02-10-推荐-阿里专家：如何画出优秀的架构图？](https://toutiao.io/k/92sk26n) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

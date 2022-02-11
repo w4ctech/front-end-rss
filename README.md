@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-11 23:20:51，:rocket: 更新条数: +1880， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-11 23:36:53，:rocket: 更新条数: +1880， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-02-11-《水印相机-简单好用》第二版更新了](https://www.v2ex.com/t/833341) ![](assets/new.png)  
 - [2022-02-11-拒绝别人感觉很难受怎么办？](https://www.v2ex.com/t/833339) ![](assets/new.png)  
 - [2022-02-11-响应式的图片-CDN](https://www.v2ex.com/t/833338) ![](assets/new.png)  
 - [2022-02-11-swiftui后端-crud-程序员想学-swiftui,可以在哪里学,应该怎么学？](https://www.v2ex.com/t/833337) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-02-11-Macbook-air-连了显示器，没多余的口连接-G502-鼠标的适配器咋办？](https://www.v2ex.com/t/833318) ![](assets/new.png)  
 - [2022-02-11-mac-的重装系统是不留任何数据吗?](https://www.v2ex.com/t/833316) ![](assets/new.png)  
 - [2022-02-11-想找一个类似-apple-watch-那样圆环的习惯养成-app](https://www.v2ex.com/t/833315) ![](assets/new.png)  
-- [2022-02-11-又是一年情人节，我做的这个小工具，肯定能让你平稳度过这一天...](https://www.v2ex.com/t/833314) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -571,8 +571,8 @@
 - [2022-02-11-回望-2021-年大前端技术，未来可期！](https://toutiao.io/k/mycr10e) ![](assets/new.png)  
 - [2022-02-11-大型有状态服务基于-K8s-的落地实践——按部门租户隔离](https://toutiao.io/k/mn4oh6q) ![](assets/new.png)  
 - [2022-02-11-137-python|第八部分：并发网络编程（二）网络编程下](https://toutiao.io/k/arftq9n) ![](assets/new.png)  
-- [2022-02-11-推荐-支付系统架构设计详解](https://toutiao.io/k/5tx1zgw) ![](assets/new.png)  
 - [2022-02-11-推荐-阿里专家：如何画出优秀的架构图？](https://toutiao.io/k/92sk26n) ![](assets/new.png)  
+- [2022-02-11-推荐-真香啊！接私活必备的-N-个开源项目（附源码合集第一期）！收藏走起！](https://toutiao.io/k/he7umju) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

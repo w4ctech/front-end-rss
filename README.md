@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-11 02:10:38，:rocket: 更新条数: +1872， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-11 02:30:45，:rocket: 更新条数: +1874， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,15 @@
 </summary>
 
 
+- [2022-02-11-看过的书记不住怎么办，尤其是技术书籍](https://www.v2ex.com/t/833122) ![](assets/new.png)  
+- [2022-02-11-有什么能监控后端-api-的组件，能配合-prometheus-和-grafana-的最好](https://www.v2ex.com/t/833120) ![](assets/new.png)  
+- [2022-02-11-光猫桥接软路由拨号，-nat-类型依然不稳定](https://www.v2ex.com/t/833119) ![](assets/new.png)  
+- [2022-02-11-karabiner-on-iPad-或者其它方式，能实现-iPad-上的自定义键盘吗](https://www.v2ex.com/t/833118) ![](assets/new.png)  
+- [2022-02-11-Safari-和-Webkit-团队终于承认错误并开始征求反馈](https://www.v2ex.com/t/833117) ![](assets/new.png)  
+- [2022-02-11-10-年了，-Android-13-终于支持了系统图片选择器](https://www.v2ex.com/t/833116) ![](assets/new.png)  
+- [2022-02-11-公众号-码农翻身-也开始贩卖焦虑了。赚钱又很多种方式，这种最垃圾。](https://www.v2ex.com/t/833115) ![](assets/new.png)  
+- [2022-02-11-招聘：产品经理/产品经理/3D-设计师/Senior/Leader-运营-元宇宙/海外新媒体负责人/-海外市场负责⼈/⾼级营销策划/⾼级整合营销经理](https://www.v2ex.com/t/833114) ![](assets/new.png)  
+- [2022-02-11-带云盘功能的播放器推荐](https://www.v2ex.com/t/833113) ![](assets/new.png)  
 - [2022-02-11-动森交易铃钱会有风险么-？](https://www.v2ex.com/t/833112) ![](assets/new.png)  
 - [2022-02-11-两个向量之间的相关系数如何定义？](https://www.v2ex.com/t/833111) ![](assets/new.png)  
 - [2022-02-11-求助-springboot+thymeleaf-实现页面静态化方案，各位大佬有没有推荐的](https://www.v2ex.com/t/833110) ![](assets/new.png)  
@@ -502,15 +511,6 @@
 - [2022-02-11-关于求婚](https://www.v2ex.com/t/833103) ![](assets/new.png)  
 - [2022-02-11-现在还有啥看电影的安卓-APP-吗](https://www.v2ex.com/t/833102) ![](assets/new.png)  
 - [2022-02-11-京东刷京豆脚本安装教程](https://www.v2ex.com/t/833101) ![](assets/new.png)  
-- [2022-02-11-积累财富最好的方式还是反消费主义](https://www.v2ex.com/t/833100) ![](assets/new.png)  
-- [2022-02-11-PixelExperience-将支持-Google-相册原画质无限空间上传](https://www.v2ex.com/t/833099) ![](assets/new.png)  
-- [2022-02-11-有遇到过为知笔记-docker-版上传图片失败的问题吗？](https://www.v2ex.com/t/833098) ![](assets/new.png)  
-- [2022-02-11-在这个信息爆炸的时代，怎么做到花最少的时间，获取到对自己有用的信息，避免浪费时间。](https://www.v2ex.com/t/833096) ![](assets/new.png)  
-- [2022-02-11-分享一下你今年的书单](https://www.v2ex.com/t/833095) ![](assets/new.png)  
-- [2022-02-11-彦祖们都用什么图片素材管理工具？](https://www.v2ex.com/t/833094) ![](assets/new.png)  
-- [2022-02-11-iOS/macOS-安全更新：还是-WebKit，还是任意代码执行](https://www.v2ex.com/t/833093) ![](assets/new.png)  
-- [2022-02-11-喜欢看一些“牛鬼蛇神”的东西，是不是逃离现实的心里疾病？](https://www.v2ex.com/t/833092) ![](assets/new.png)  
-- [2022-02-11-很好奇，-duckduckgo-是如何盈利的](https://www.v2ex.com/t/833091) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -560,13 +560,13 @@
 - [2022-02-11-案例：知乎是怎么落地Istio的？](https://toutiao.io/k/7p0meht) ![](assets/new.png)  
 - [2022-02-11-一文讲透大数据列存标准格式：Parquet](https://toutiao.io/k/lmke626) ![](assets/new.png)  
 - [2022-02-11-【第2523期】搭建场景下的页面编译提速方案探索](https://toutiao.io/k/kydff3r) ![](assets/new.png)  
-- [2022-02-11-担保这次能看懂！DDD落地数据库设计实战](https://toutiao.io/k/rg953es) ![](assets/new.png)  
 - [2022-02-11-如何设计一个复杂的业务系统？从对领域设计、云原生、微服务、中台的理解开始](https://toutiao.io/k/7zvfdzt) ![](assets/new.png)  
+- [2022-02-11-担保这次能看懂！DDD落地数据库设计实战](https://toutiao.io/k/rg953es) ![](assets/new.png)  
 - [2022-02-11-Trino（Presto-SQL）新版本发布！](https://toutiao.io/k/v03xfke) ![](assets/new.png)  
 - [2022-02-11-Cucumber测试实践](https://toutiao.io/k/je2y6ea) ![](assets/new.png)  
 - [2022-02-11-推荐-阿里专家：如何画出优秀的架构图？](https://toutiao.io/k/92sk26n) ![](assets/new.png)  
-- [2022-02-11-推荐-真香啊！接私活必备的-N-个开源项目（附源码合集第一期）！收藏走起！](https://toutiao.io/k/he7umju) ![](assets/new.png)  
 - [2022-02-11-推荐-百度和米哈游的Golang面试经验分享](https://toutiao.io/k/q0sox0k) ![](assets/new.png)  
+- [2022-02-11-推荐-真香啊！接私活必备的-N-个开源项目（附源码合集第一期）！收藏走起！](https://toutiao.io/k/he7umju) ![](assets/new.png)  
 - [2022-02-11-推荐-作为研发Leader，如何做总结](https://toutiao.io/k/1g7flto) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

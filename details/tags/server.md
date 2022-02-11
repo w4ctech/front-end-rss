@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-02-11 10:22:45。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-11 10:39:01。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 服务端相关
 
@@ -7,5 +7,4 @@
 
 
 
-- [2022-02-11-为什么-ubuntu-上面有多个-nginx](https://www.v2ex.com/t/833229) 
 - [2022-02-11-Trino（Presto-SQL）新版本发布！](https://toutiao.io/k/v03xfke) 

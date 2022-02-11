@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-11 13:54:25，:rocket: 更新条数: +1875， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-11 14:12:29，:rocket: 更新条数: +1876， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-02-11-看到这份-2021-年-JavaScript-明星项目列表，我惊呆了](https://www.v2ex.com/t/833312) ![](assets/new.png)  
+- [2022-02-11-下雨天，笔记本应该怎么防水？](https://www.v2ex.com/t/833311) ![](assets/new.png)  
 - [2022-02-11-视频分享：火影-ending,-<wind>-，-激起无数美好的回忆啊，那个追火影追到热血沸腾的少年。](https://www.v2ex.com/t/833310) ![](assets/new.png)  
 - [2022-02-11-上海紧急DevOps---薪资待遇-要-k8s-落地经验以及-Python-精通](https://www.v2ex.com/t/833309) ![](assets/new.png)  
 - [2022-02-11-谷歌搜索-telegram，前面两个都是病毒的推广，一年前就这样了](https://www.v2ex.com/t/833308) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-02-11-宇宙的尽头不一定是编制吧，但肯定不是互联网](https://www.v2ex.com/t/833293) ![](assets/new.png)  
 - [2022-02-11-国内哪家银行-bank-statements-会显示自己家庭地址？](https://www.v2ex.com/t/833292) ![](assets/new.png)  
 - [2022-02-11-腾讯云数据库炸了，安全组全部不见了，瑟瑟发抖。](https://www.v2ex.com/t/833291) ![](assets/new.png)  
-- [2022-02-11-Seagate-硬盘的故障率明显偏高](https://www.v2ex.com/t/833289) ![](assets/new.png)  
-- [2022-02-11-Go-embed-初体验](https://www.v2ex.com/t/833285) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -572,7 +572,7 @@
 - [2022-02-11-大型有状态服务基于-K8s-的落地实践——按部门租户隔离](https://toutiao.io/k/mn4oh6q) ![](assets/new.png)  
 - [2022-02-11-137-python|第八部分：并发网络编程（二）网络编程下](https://toutiao.io/k/arftq9n) ![](assets/new.png)  
 - [2022-02-11-推荐-百度和米哈游的Golang面试经验分享](https://toutiao.io/k/q0sox0k) ![](assets/new.png)  
-- [2022-02-11-推荐-阿里专家：如何画出优秀的架构图？](https://toutiao.io/k/92sk26n) ![](assets/new.png)  
+- [2022-02-11-推荐-真香啊！接私活必备的-N-个开源项目（附源码合集第一期）！收藏走起！](https://toutiao.io/k/he7umju) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-02-11 07:11:39。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-02-11 07:19:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -109,6 +109,8 @@
 - [【武汉肺炎防疫全纪录(财新网)】2022-02-01-德国未实现接种目标-奥地利强制接种疫苗法律生效｜大流行手记（1月31日）](https://m.caixin.com/m/2022-02-01/101837106.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2022-02-01-聚焦｜张文宏：未来抗疫，是努力夺回正常生活的过程](https://opinion.caixin.com/m/2022-02-01/101837206.html) 
 - [【张鑫旭-鑫空间-鑫生活】2022-02-04-HTML-inputmode与iOS-Android软键盘类型测试](https://www.zhangxinxu.com/wordpress/2022/02/html-inputmode-keyboard/) 
+- [【V2EX】2022-02-11-请问下-MINISFORUM-的-Windows10pro-是否是正版](https://www.v2ex.com/t/833218) 
+- [【V2EX】2022-02-11-苏州-测试工程师/前端工程师-10-20k](https://www.v2ex.com/t/833217) 
 - [【V2EX】2022-02-11-eBPF-WebAssembly-于-Rust](https://www.v2ex.com/t/833215) 
 - [【V2EX】2022-02-11-上海WLB-SAP-急招-Java-开发](https://www.v2ex.com/t/833214) 
 - [【V2EX】2022-02-11-初学-Java-,请教大神们一个问题](https://www.v2ex.com/t/833213) 
@@ -148,8 +150,6 @@
 - [【V2EX】2022-02-11-iOS-的-Files-App-连-SMB-只能用-445-端口吗？](https://www.v2ex.com/t/833171) 
 - [【V2EX】2022-02-11-我又来了，关于有线-MESH-路由器的推荐咨询](https://www.v2ex.com/t/833170) 
 - [【V2EX】2022-02-11-自然卷，如何在不用发胶的前提下保持头发整齐不起毛不翻起？](https://www.v2ex.com/t/833169) 
-- [【V2EX】2022-02-11-银行总部和互联网-Offer-该怎么选](https://www.v2ex.com/t/833168) 
-- [【V2EX】2022-02-11-公司准备重构-App，请问一下现在最流行的架构是什么？](https://www.v2ex.com/t/833167) 
 - [【技术头条】2022-02-11-Cucumber测试实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14935&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fcucumber-testing-practice%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-02-11-5款最佳最牛代码比较神器-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14934&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493248%26amp%3Bidx%3D1%26amp%3Bsn%3D50bb00a7204f2595e19bba088152c56a%26amp%3Bchksm%3Dfa3f07dbcd488ecd96ab648174c45d2d5085db9e8ad2ec47e80bba1e6580f7d7158761183317%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-02-11-在GitHub上提交代码必备指南！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14933&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493238%26amp%3Bidx%3D1%26amp%3Bsn%3Db92e65ee96d1c998d823b55d7fafc234%26amp%3Bchksm%3Dfa3f072dcd488e3b997e0b9b4b48f5c4de6513c91fd46a4d1bde7bb89bf61af7c319e2d5dfff%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -185,13 +185,13 @@
 - [【开发者头条】2022-02-11-独立开发变现周刊（第41期）：一个开源项目一个人每月收入8万美金](https://toutiao.io/k/lnq5xiv) 
 - [【开发者头条】2022-02-11-Android-13-首个开发者预览版到来](https://toutiao.io/k/d2m85fr) 
 - [【开发者头条】2022-02-11-回望-2021-年大前端技术，未来可期！](https://toutiao.io/k/mycr10e) 
-- [【开发者头条】2022-02-11-137-python|第八部分：并发网络编程（二）网络编程下](https://toutiao.io/k/arftq9n) 
 - [【开发者头条】2022-02-11-千万不要这么写SQL，有坑！](https://toutiao.io/k/7mphoiz) 
+- [【开发者头条】2022-02-11-137-python|第八部分：并发网络编程（二）网络编程下](https://toutiao.io/k/arftq9n) 
 - [【开发者头条】2022-02-11-大型有状态服务基于-K8s-的落地实践——按部门租户隔离](https://toutiao.io/k/mn4oh6q) 
-- [【开发者头条】2022-02-11-推荐-作为研发Leader，如何做总结](https://toutiao.io/k/1g7flto) 
 - [【开发者头条】2022-02-11-推荐-阿里专家：如何画出优秀的架构图？](https://toutiao.io/k/92sk26n) 
-- [【开发者头条】2022-02-11-推荐-真香啊！接私活必备的-N-个开源项目（附源码合集第一期）！收藏走起！](https://toutiao.io/k/he7umju) 
 - [【开发者头条】2022-02-11-推荐-百度和米哈游的Golang面试经验分享](https://toutiao.io/k/q0sox0k) 
+- [【开发者头条】2022-02-11-推荐-作为研发Leader，如何做总结](https://toutiao.io/k/1g7flto) 
+- [【开发者头条】2022-02-11-推荐-真香啊！接私活必备的-N-个开源项目（附源码合集第一期）！收藏走起！](https://toutiao.io/k/he7umju) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

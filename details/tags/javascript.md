@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-02-11 06:25:53。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-11 06:44:43。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -19,4 +19,3 @@
 - [2021-12-08-flex-end为什么overflow无法滚动及解决方法](https://www.zhangxinxu.com/wordpress/2021/12/flex-end-overflow/) 
 - [2021-11-23-从js-visibilitychange-Safari下无效说开去](https://www.zhangxinxu.com/wordpress/2021/11/js-visibilitychange-pagehide-lifecycle/) 
 - [2022-02-11-我又来了，关于有线-MESH-路由器的推荐咨询](https://www.v2ex.com/t/833170) 
-- [2022-02-11-现在-Android-能够在安装完软件之后删除软件的部分组件吗](https://www.v2ex.com/t/833147) 

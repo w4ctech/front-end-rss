@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-02-11 03:21:04。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-11 03:37:59。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1764,6 +1764,11 @@
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2022-02-04-HTML-inputmode与iOS-Android软键盘类型测试](https://www.zhangxinxu.com/wordpress/2022/02/html-inputmode-keyboard/) 
 - [2021-11-14-密码强度效果最佳实现一定是HTML-meter元素](https://www.zhangxinxu.com/wordpress/2021/11/html-meter-password/) 
+- [2022-02-11-成都-互联网创业团队寻找技术合伙人/开发-leader/-UIUX-设计师](https://www.v2ex.com/t/833149) 
+- [2022-02-11-M1-Max-的续航](https://www.v2ex.com/t/833148) 
+- [2022-02-11-csdn-看不清代码](https://www.v2ex.com/t/833146) 
+- [2022-02-11-各位有什么好用的指甲刀推荐吗？](https://www.v2ex.com/t/833145) 
+- [2022-02-11-kotlin-官方推荐的服务端框架](https://www.v2ex.com/t/833144) 
 - [2022-02-11-微信读书连夜下架哈利波特？](https://www.v2ex.com/t/833142) 
 - [2022-02-11-求-VOIP-通话平台](https://www.v2ex.com/t/833141) 
 - [2022-02-11-装-Linux-，哪款笔记本待机时间长一些呀](https://www.v2ex.com/t/833137) 
@@ -1790,10 +1795,6 @@
 - [2022-02-11-有没有-virt-manager-和-kvm-配-windows-虚拟机的详细教程呢](https://www.v2ex.com/t/833105) 
 - [2022-02-11-弱问一个-mac-键盘的问题](https://www.v2ex.com/t/833104) 
 - [2022-02-11-京东刷京豆脚本安装教程](https://www.v2ex.com/t/833101) 
-- [2022-02-11-积累财富最好的方式还是反消费主义](https://www.v2ex.com/t/833100) 
-- [2022-02-11-在这个信息爆炸的时代，怎么做到花最少的时间，获取到对自己有用的信息，避免浪费时间。](https://www.v2ex.com/t/833096) 
-- [2022-02-11-分享一下你今年的书单](https://www.v2ex.com/t/833095) 
-- [2022-02-11-彦祖们都用什么图片素材管理工具？](https://www.v2ex.com/t/833094) 
 - [2022-02-11-Cucumber测试实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14935&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fcucumber-testing-practice%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-02-11-5款最佳最牛代码比较神器-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14934&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493248%26amp%3Bidx%3D1%26amp%3Bsn%3D50bb00a7204f2595e19bba088152c56a%26amp%3Bchksm%3Dfa3f07dbcd488ecd96ab648174c45d2d5085db9e8ad2ec47e80bba1e6580f7d7158761183317%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-02-11-Linux新手入门的一些基本知识点整理-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14932&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493238%26amp%3Bidx%3D2%26amp%3Bsn%3D349fdafff5bc72eafcc5ac71ad01f6f4%26amp%3Bchksm%3Dfa3f072dcd488e3bf0ced8316f1c7278fce2eaf1946c7f123a864edf879ff397cee6f74a68aa%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

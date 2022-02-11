@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-02-11 02:56:45。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-11 03:12:32。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1764,6 +1764,12 @@
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2022-02-04-HTML-inputmode与iOS-Android软键盘类型测试](https://www.zhangxinxu.com/wordpress/2022/02/html-inputmode-keyboard/) 
 - [2021-11-14-密码强度效果最佳实现一定是HTML-meter元素](https://www.zhangxinxu.com/wordpress/2021/11/html-meter-password/) 
+- [2022-02-11-镜像“深圳如何买房问题”：武汉如何看房买房？](https://www.v2ex.com/t/833138) 
+- [2022-02-11-装-Linux-，哪款笔记本待机时间长一些呀](https://www.v2ex.com/t/833137) 
+- [2022-02-11-如果在-2022-年，给你一次重新选择职业的机会，你会选择什么？](https://www.v2ex.com/t/833135) 
+- [2022-02-11-江苏电信-IPTV-的问题请教](https://www.v2ex.com/t/833134) 
+- [2022-02-11-成都创业公司寻找开发/设计人员](https://www.v2ex.com/t/833133) 
+- [2022-02-11-来几个大顾交流下啊](https://www.v2ex.com/t/833132) 
 - [2022-02-11-提前一个月下单的-MBP-为什么比现在下单的送达时间还要慢](https://www.v2ex.com/t/833131) 
 - [2022-02-11-租房-建国北路地铁口求租房-----有人转租吗可以接手](https://www.v2ex.com/t/833128) 
 - [2022-02-11-晚上的那个冻奥-NFT-有币圈大神告诉下-国内咋买嘛](https://www.v2ex.com/t/833127) 
@@ -1783,7 +1789,6 @@
 - [2022-02-11-有没有-virt-manager-和-kvm-配-windows-虚拟机的详细教程呢](https://www.v2ex.com/t/833105) 
 - [2022-02-11-弱问一个-mac-键盘的问题](https://www.v2ex.com/t/833104) 
 - [2022-02-11-关于求婚](https://www.v2ex.com/t/833103) 
-- [2022-02-11-现在还有啥看电影的安卓-APP-吗](https://www.v2ex.com/t/833102) 
 - [2022-02-11-京东刷京豆脚本安装教程](https://www.v2ex.com/t/833101) 
 - [2022-02-11-积累财富最好的方式还是反消费主义](https://www.v2ex.com/t/833100) 
 - [2022-02-11-在这个信息爆炸的时代，怎么做到花最少的时间，获取到对自己有用的信息，避免浪费时间。](https://www.v2ex.com/t/833096) 
@@ -1792,9 +1797,6 @@
 - [2022-02-11-喜欢看一些“牛鬼蛇神”的东西，是不是逃离现实的心里疾病？](https://www.v2ex.com/t/833092) 
 - [2022-02-11-很好奇，-duckduckgo-是如何盈利的](https://www.v2ex.com/t/833091) 
 - [2022-02-11-如何调整-Windows10-自带输入法候选项格式](https://www.v2ex.com/t/833089) 
-- [2022-02-10-mbp14-又换成-magsafe-充电头了吗？](https://www.v2ex.com/t/833088) 
-- [2022-02-10-惨痛教训，数据被-nextcloud-删了，找公司从开启-TRIM-的-SSD-硬盘的-Mac-上恢复删除的数据还有可能吗？](https://www.v2ex.com/t/833084) 
-- [2022-02-10-问大家一个问题，看电影的好的解决方案](https://www.v2ex.com/t/833082) 
 - [2022-02-11-Cucumber测试实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14935&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fcucumber-testing-practice%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-02-11-5款最佳最牛代码比较神器-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14934&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493248%26amp%3Bidx%3D1%26amp%3Bsn%3D50bb00a7204f2595e19bba088152c56a%26amp%3Bchksm%3Dfa3f07dbcd488ecd96ab648174c45d2d5085db9e8ad2ec47e80bba1e6580f7d7158761183317%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-02-11-Linux新手入门的一些基本知识点整理-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14932&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493238%26amp%3Bidx%3D2%26amp%3Bsn%3D349fdafff5bc72eafcc5ac71ad01f6f4%26amp%3Bchksm%3Dfa3f072dcd488e3bf0ced8316f1c7278fce2eaf1946c7f123a864edf879ff397cee6f74a68aa%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1820,5 +1822,5 @@
 - [2022-02-11-如何设计一个复杂的业务系统？从对领域设计、云原生、微服务、中台的理解开始](https://toutiao.io/k/7zvfdzt) 
 - [2022-02-11-Cucumber测试实践](https://toutiao.io/k/je2y6ea) 
 - [2022-02-11-推荐-阿里专家：如何画出优秀的架构图？](https://toutiao.io/k/92sk26n) 
-- [2022-02-11-推荐-作为研发Leader，如何做总结](https://toutiao.io/k/1g7flto) 
 - [2022-02-11-推荐-真香啊！接私活必备的-N-个开源项目（附源码合集第一期）！收藏走起！](https://toutiao.io/k/he7umju) 
+- [2022-02-11-推荐-作为研发Leader，如何做总结](https://toutiao.io/k/1g7flto) 

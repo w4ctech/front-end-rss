@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-02-11 14:54:32。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-02-11 15:12:09。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -111,6 +111,7 @@
 - [【武汉肺炎防疫全纪录(财新网)】2022-02-01-德国未实现接种目标-奥地利强制接种疫苗法律生效｜大流行手记（1月31日）](https://m.caixin.com/m/2022-02-01/101837106.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2022-02-01-聚焦｜张文宏：未来抗疫，是努力夺回正常生活的过程](https://opinion.caixin.com/m/2022-02-01/101837206.html) 
 - [【张鑫旭-鑫空间-鑫生活】2022-02-04-HTML-inputmode与iOS-Android软键盘类型测试](https://www.zhangxinxu.com/wordpress/2022/02/html-inputmode-keyboard/) 
+- [【V2EX】2022-02-11-一个人（公司摸鱼+业余时间）开发了五年的开源项目：可用于自建-Git-服务，自带看板和-CI/CD，可替代-GitHub/GitLab（功能级的替代，而非小而美）](https://www.v2ex.com/t/833320) 
 - [【V2EX】2022-02-11-关于“解压”和“解压缩”突然发现一个问题](https://www.v2ex.com/t/833319) 
 - [【V2EX】2022-02-11-Macbook-air-连了显示器，没多余的口连接-G502-鼠标的适配器咋办？](https://www.v2ex.com/t/833318) 
 - [【V2EX】2022-02-11-mac-的重装系统是不留任何数据吗?](https://www.v2ex.com/t/833316) 
@@ -190,8 +191,8 @@
 - [【开发者头条】2022-02-11-137-python|第八部分：并发网络编程（二）网络编程下](https://toutiao.io/k/arftq9n) 
 - [【开发者头条】2022-02-11-推荐-阿里专家：如何画出优秀的架构图？](https://toutiao.io/k/92sk26n) 
 - [【开发者头条】2022-02-11-推荐-作为研发Leader，如何做总结](https://toutiao.io/k/1g7flto) 
-- [【开发者头条】2022-02-11-推荐-百度和米哈游的Golang面试经验分享](https://toutiao.io/k/q0sox0k) 
 - [【开发者头条】2022-02-11-推荐-真香啊！接私活必备的-N-个开源项目（附源码合集第一期）！收藏走起！](https://toutiao.io/k/he7umju) 
+- [【开发者头条】2022-02-11-推荐-百度和米哈游的Golang面试经验分享](https://toutiao.io/k/q0sox0k) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

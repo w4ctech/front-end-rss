@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-11 14:54:32，:rocket: 更新条数: +1878， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-11 15:12:09，:rocket: 更新条数: +1879， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-02-11-一个人（公司摸鱼+业余时间）开发了五年的开源项目：可用于自建-Git-服务，自带看板和-CI/CD，可替代-GitHub/GitLab（功能级的替代，而非小而美）](https://www.v2ex.com/t/833320) ![](assets/new.png)  
 - [2022-02-11-关于“解压”和“解压缩”突然发现一个问题](https://www.v2ex.com/t/833319) ![](assets/new.png)  
 - [2022-02-11-Macbook-air-连了显示器，没多余的口连接-G502-鼠标的适配器咋办？](https://www.v2ex.com/t/833318) ![](assets/new.png)  
 - [2022-02-11-mac-的重装系统是不留任何数据吗?](https://www.v2ex.com/t/833316) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-02-11-滴滴司机端：导航过程中会提示附近可能有大车](https://www.v2ex.com/t/833302) ![](assets/new.png)  
 - [2022-02-11-自家猫咪领养-赠送](https://www.v2ex.com/t/833301) ![](assets/new.png)  
 - [2022-02-11-小区还可以这样管？真的被震撼到了。](https://www.v2ex.com/t/833300) ![](assets/new.png)  
-- [2022-02-11-居家办公已有半年，谈谈感受](https://www.v2ex.com/t/833299) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

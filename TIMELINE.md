@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-02-11 04:48:38。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-02-11 05:11:41。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -109,6 +109,13 @@
 - [【武汉肺炎防疫全纪录(财新网)】2022-02-01-德国未实现接种目标-奥地利强制接种疫苗法律生效｜大流行手记（1月31日）](https://m.caixin.com/m/2022-02-01/101837106.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2022-02-01-聚焦｜张文宏：未来抗疫，是努力夺回正常生活的过程](https://opinion.caixin.com/m/2022-02-01/101837206.html) 
 - [【张鑫旭-鑫空间-鑫生活】2022-02-04-HTML-inputmode与iOS-Android软键盘类型测试](https://www.zhangxinxu.com/wordpress/2022/02/html-inputmode-keyboard/) 
+- [【V2EX】2022-02-11-MIUI-12.5.8-开启谷歌基础服务后耗电量大幅上升](https://www.v2ex.com/t/833176) 
+- [【V2EX】2022-02-11-实在是抢不到冰墩墩，我做了款「冰墩墩表情生成器」玩玩](https://www.v2ex.com/t/833175) 
+- [【V2EX】2022-02-11-上海/北京/深圳/杭州-字节跳动音乐团队（国际、国内方向）iOS/Android-岗位招聘](https://www.v2ex.com/t/833173) 
+- [【V2EX】2022-02-11-北京/广州/深圳-字节跳动---智能创作-招前端/服务端/客户端/C++，新方向大量机会](https://www.v2ex.com/t/833172) 
+- [【V2EX】2022-02-11-iOS-的-Files-App-连-SMB-只能用-445-端口吗？](https://www.v2ex.com/t/833171) 
+- [【V2EX】2022-02-11-我又来了，关于有线-MESH-路由器的推荐咨询](https://www.v2ex.com/t/833170) 
+- [【V2EX】2022-02-11-自然卷，如何在不用发胶的前提下保持头发整齐不起毛不翻起？](https://www.v2ex.com/t/833169) 
 - [【V2EX】2022-02-11-银行总部和互联网-Offer-该怎么选](https://www.v2ex.com/t/833168) 
 - [【V2EX】2022-02-11-公司准备重构-App，请问一下现在最流行的架构是什么？](https://www.v2ex.com/t/833167) 
 - [【V2EX】2022-02-11-Node.js-生态中有没有对标-PHP-生态的-Fastadmin-的产品/框架?](https://www.v2ex.com/t/833166) 
@@ -147,13 +154,6 @@
 - [【V2EX】2022-02-11-有啥工具能快速画这样的-3d-场景图么？](https://www.v2ex.com/t/833129) 
 - [【V2EX】2022-02-11-租房-建国北路地铁口求租房-----有人转租吗可以接手](https://www.v2ex.com/t/833128) 
 - [【V2EX】2022-02-11-晚上的那个冻奥-NFT-有币圈大神告诉下-国内咋买嘛](https://www.v2ex.com/t/833127) 
-- [【V2EX】2022-02-11-win-有什么定时提醒的工具？](https://www.v2ex.com/t/833126) 
-- [【V2EX】2022-02-11-60-收几个京东-plus](https://www.v2ex.com/t/833125) 
-- [【V2EX】2022-02-11-跳槽半年，有点迷茫](https://www.v2ex.com/t/833124) 
-- [【V2EX】2022-02-11-算法问题，大神进！](https://www.v2ex.com/t/833123) 
-- [【V2EX】2022-02-11-看过的书记不住怎么办，尤其是技术书籍](https://www.v2ex.com/t/833122) 
-- [【V2EX】2022-02-11-有什么能监控后端-api-的组件，能配合-prometheus-和-grafana-的最好](https://www.v2ex.com/t/833120) 
-- [【V2EX】2022-02-11-光猫桥接软路由拨号，-nat-类型依然不稳定](https://www.v2ex.com/t/833119) 
 - [【技术头条】2022-02-11-Cucumber测试实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14935&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fcucumber-testing-practice%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-02-11-5款最佳最牛代码比较神器-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14934&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493248%26amp%3Bidx%3D1%26amp%3Bsn%3D50bb00a7204f2595e19bba088152c56a%26amp%3Bchksm%3Dfa3f07dbcd488ecd96ab648174c45d2d5085db9e8ad2ec47e80bba1e6580f7d7158761183317%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-02-11-在GitHub上提交代码必备指南！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14933&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493238%26amp%3Bidx%3D1%26amp%3Bsn%3Db92e65ee96d1c998d823b55d7fafc234%26amp%3Bchksm%3Dfa3f072dcd488e3b997e0b9b4b48f5c4de6513c91fd46a4d1bde7bb89bf61af7c319e2d5dfff%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -180,15 +180,15 @@
 - [【开发者头条】2022-02-11-流量录制与回放在vivo的落地实践](https://toutiao.io/k/es8kiqb) 
 - [【开发者头条】2022-02-11-案例：知乎是怎么落地Istio的？](https://toutiao.io/k/7p0meht) 
 - [【开发者头条】2022-02-11-一文讲透大数据列存标准格式：Parquet](https://toutiao.io/k/lmke626) 
-- [【开发者头条】2022-02-11-【第2523期】搭建场景下的页面编译提速方案探索](https://toutiao.io/k/kydff3r) 
 - [【开发者头条】2022-02-11-担保这次能看懂！DDD落地数据库设计实战](https://toutiao.io/k/rg953es) 
+- [【开发者头条】2022-02-11-【第2523期】搭建场景下的页面编译提速方案探索](https://toutiao.io/k/kydff3r) 
 - [【开发者头条】2022-02-11-如何设计一个复杂的业务系统？从对领域设计、云原生、微服务、中台的理解开始](https://toutiao.io/k/7zvfdzt) 
 - [【开发者头条】2022-02-11-Trino（Presto-SQL）新版本发布！](https://toutiao.io/k/v03xfke) 
 - [【开发者头条】2022-02-11-Cucumber测试实践](https://toutiao.io/k/je2y6ea) 
-- [【开发者头条】2022-02-11-推荐-作为研发Leader，如何做总结](https://toutiao.io/k/1g7flto) 
+- [【开发者头条】2022-02-11-推荐-真香啊！接私活必备的-N-个开源项目（附源码合集第一期）！收藏走起！](https://toutiao.io/k/he7umju) 
 - [【开发者头条】2022-02-11-推荐-阿里专家：如何画出优秀的架构图？](https://toutiao.io/k/92sk26n) 
 - [【开发者头条】2022-02-11-推荐-百度和米哈游的Golang面试经验分享](https://toutiao.io/k/q0sox0k) 
-- [【开发者头条】2022-02-11-推荐-真香啊！接私活必备的-N-个开源项目（附源码合集第一期）！收藏走起！](https://toutiao.io/k/he7umju) 
+- [【开发者头条】2022-02-11-推荐-作为研发Leader，如何做总结](https://toutiao.io/k/1g7flto) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

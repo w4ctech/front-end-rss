@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-11 10:54:48，:rocket: 更新条数: +1871， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-11 11:10:34，:rocket: 更新条数: +1873， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -66,6 +66,7 @@
 
 
 - [2022-02-11-最新疫情：全国新冠累计确诊106764例-累计接种新冠疫苗近30.3亿剂次](https://m.caixin.com/m/2022-02-11/101840496.html) ![](assets/new.png)  
+- [2022-02-11-香港本地疫情持续恶化-港澳办称内地将“有求必应”](https://m.caixin.com/m/2022-02-11/101840642.html) ![](assets/new.png)  
 - [2022-02-11-最新海外疫情：新冠感染超4.05亿-累计接种新冠疫苗超102.2亿剂次](https://m.caixin.com/m/2022-02-11/101840493.html) ![](assets/new.png)  
 - [2022-02-11-【境内疫情观察】全国新增56例本土病例（2月10日）](https://database.caixin.com/m/2022-02-11/101840505.html) ![](assets/new.png)  
 - [2022-02-11-韩国轻症患者不得不自行治疗-荷兰拟放弃大部分限制｜大流行手记（2月10日）](https://m.caixin.com/m/2022-02-11/101840205.html) ![](assets/new.png)  
@@ -73,18 +74,17 @@
 - [2022-02-10-严防“物传人”-杭州部分进口商品专业卖场暂停经营](https://m.caixin.com/m/2022-02-10/101839784.html) ![](assets/new.png)  
 - [2022-02-10-【境内疫情观察】广西新增7例本土病例（2月9日）](https://database.caixin.com/m/2022-02-10/101839821.html) ![](assets/new.png)  
 - [2022-02-10-美计划为5岁以下儿童接种疫苗-全球病例超4亿｜大流行手记（2月9日）](https://m.caixin.com/m/2022-02-10/101839650.html) ![](assets/new.png)  
-- [2022-02-09-美野生白尾鹿被发现染奥密克戎-或由人类溢出](https://science.caixin.com/m/2022-02-09/101839538.html) ![](assets/new.png)  
 - [2022-02-09-香港日增病例破千-医院急诊室严重超负荷](https://m.caixin.com/m/2022-02-09/101839506.html) ![](assets/new.png)  
 - [2022-02-09-严防新冠病毒“物传人”-深圳罗湖暂停入境邮件派送](https://m.caixin.com/m/2022-02-09/101839414.html) ![](assets/new.png)  
 - [2022-02-09-不打疫苗不能理发-香港全面推行疫苗通行证](https://m.caixin.com/m/2022-02-09/101839260.html) ![](assets/new.png)  
 - [2022-02-09-【境内疫情观察】广西新增72例本土病例（2月8日）](https://database.caixin.com/m/2022-02-09/101839339.html) ![](assets/new.png)  
 - [2022-02-09-意大利取消户外口罩令，美国多州取消校园口罩令｜大流行手记（2月8日）](https://m.caixin.com/m/2022-02-09/101839221.html) ![](assets/new.png)  
 - [2022-02-09-新冠为何致嗅觉失灵-《细胞》研究给出生物学解释](https://science.caixin.com/m/2022-02-09/101839294.html) ![](assets/new.png)  
+- [2022-02-09-美野生白尾鹿被发现染奥密克戎-或由人类溢出](https://science.caixin.com/m/2022-02-09/101839538.html) ![](assets/new.png)  
 - [2022-02-09-新加坡日增逾万病例-儿童感染比例较高](https://m.caixin.com/m/2022-02-09/101839178.html) ![](assets/new.png)  
 - [2022-02-08-深圳奥密克戎疫情已波及三省九市-百色疫情快速上升](https://m.caixin.com/m/2022-02-08/101838975.html) ![](assets/new.png)  
 - [2022-02-08-深圳五名跨境货车司机确诊-香港蔬菜价格飙升](https://m.caixin.com/m/2022-02-08/101838992.html) ![](assets/new.png)  
 - [2022-02-08-【境内疫情观察】广西新增64例本土病例（2月7日）](https://database.caixin.com/m/2022-02-08/101838906.html) ![](assets/new.png)  
-- [2022-02-08-世卫称新冠扰乱90%国家的卫生服务-印度尼西亚加强限制｜大流行手记（2月7日）](https://m.caixin.com/m/2022-02-08/101838792.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-02-11-bitwarden-炸了](https://www.v2ex.com/t/833284) ![](assets/new.png)  
 - [2022-02-11-MySQL-的-IF-THEN-似乎不是这样用，还是语句有错误？-要完成这一的逻辑执行，-HOW？](https://www.v2ex.com/t/833283) ![](assets/new.png)  
 - [2022-02-11-airpods-pro-返修](https://www.v2ex.com/t/833281) ![](assets/new.png)  
 - [2022-02-11-我十分享受「高清」带给我的精致感](https://www.v2ex.com/t/833280) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-02-11-联通营销客服-到底是什么样的存在？](https://www.v2ex.com/t/833259) ![](assets/new.png)  
 - [2022-02-11-在中国没有手机号可以正常生活吗？](https://www.v2ex.com/t/833258) ![](assets/new.png)  
 - [2022-02-11-Win10-安装在-4415U-的软路由ESXI还是在群晖-220+上？](https://www.v2ex.com/t/833257) ![](assets/new.png)  
-- [2022-02-11-hugo-主题有没有什么好看的推荐啊~](https://www.v2ex.com/t/833256) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -561,8 +561,8 @@
 - [2022-02-11-担保这次能看懂！DDD落地数据库设计实战](https://toutiao.io/k/rg953es) ![](assets/new.png)  
 - [2022-02-11-一文讲透大数据列存标准格式：Parquet](https://toutiao.io/k/lmke626) ![](assets/new.png)  
 - [2022-02-11-如何设计一个复杂的业务系统？从对领域设计、云原生、微服务、中台的理解开始](https://toutiao.io/k/7zvfdzt) ![](assets/new.png)  
-- [2022-02-11-【第2523期】搭建场景下的页面编译提速方案探索](https://toutiao.io/k/kydff3r) ![](assets/new.png)  
 - [2022-02-11-Trino（Presto-SQL）新版本发布！](https://toutiao.io/k/v03xfke) ![](assets/new.png)  
+- [2022-02-11-【第2523期】搭建场景下的页面编译提速方案探索](https://toutiao.io/k/kydff3r) ![](assets/new.png)  
 - [2022-02-11-这个Dubbo注册中心扩展，有点意思！](https://toutiao.io/k/p21t9eh) ![](assets/new.png)  
 - [2022-02-11-Cucumber测试实践](https://toutiao.io/k/je2y6ea) ![](assets/new.png)  
 - [2022-02-11-Android-13-首个开发者预览版到来](https://toutiao.io/k/d2m85fr) ![](assets/new.png)  
@@ -571,8 +571,8 @@
 - [2022-02-11-回望-2021-年大前端技术，未来可期！](https://toutiao.io/k/mycr10e) ![](assets/new.png)  
 - [2022-02-11-137-python|第八部分：并发网络编程（二）网络编程下](https://toutiao.io/k/arftq9n) ![](assets/new.png)  
 - [2022-02-11-大型有状态服务基于-K8s-的落地实践——按部门租户隔离](https://toutiao.io/k/mn4oh6q) ![](assets/new.png)  
-- [2022-02-11-推荐-阿里专家：如何画出优秀的架构图？](https://toutiao.io/k/92sk26n) ![](assets/new.png)  
 - [2022-02-11-推荐-作为研发Leader，如何做总结](https://toutiao.io/k/1g7flto) ![](assets/new.png)  
+- [2022-02-11-推荐-百度和米哈游的Golang面试经验分享](https://toutiao.io/k/q0sox0k) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

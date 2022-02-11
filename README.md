@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-11 00:45:42，:rocket: 更新条数: +1871， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-11 01:15:43，:rocket: 更新条数: +1867， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,11 @@
 </summary>
 
 
+- [2022-02-11-在这个信息爆炸的时代，怎么做到花最少的时间，获取到对自己有用的信息，避免浪费时间。](https://www.v2ex.com/t/833096) ![](assets/new.png)  
+- [2022-02-11-分享一下你今年的书单](https://www.v2ex.com/t/833095) ![](assets/new.png)  
+- [2022-02-11-彦祖们都用什么图片素材管理工具？](https://www.v2ex.com/t/833094) ![](assets/new.png)  
+- [2022-02-11-iOS/macOS-安全更新：还是-WebKit，还是任意代码执行](https://www.v2ex.com/t/833093) ![](assets/new.png)  
+- [2022-02-11-喜欢看一些“牛鬼蛇神”的东西，是不是逃离现实的心里疾病？](https://www.v2ex.com/t/833092) ![](assets/new.png)  
 - [2022-02-11-很好奇，-duckduckgo-是如何盈利的](https://www.v2ex.com/t/833091) ![](assets/new.png)  
 - [2022-02-11-EdgeDB-1.0-正式发布](https://www.v2ex.com/t/833090) ![](assets/new.png)  
 - [2022-02-11-如何调整-Windows10-自带输入法候选项格式](https://www.v2ex.com/t/833089) ![](assets/new.png)  
@@ -506,11 +511,6 @@
 - [2022-02-10-前端奇技淫巧之-reactjs-打开过的页面不销毁](https://www.v2ex.com/t/833077) ![](assets/new.png)  
 - [2022-02-10-坐标-020，刚点击个网页就跳转到这个页面，说明了什么](https://www.v2ex.com/t/833076) ![](assets/new.png)  
 - [2022-02-10-用-ipv6-构造一个代理-ip-池](https://www.v2ex.com/t/833075) ![](assets/new.png)  
-- [2022-02-10-开源的-PaaS-怎么选择？](https://www.v2ex.com/t/833074) ![](assets/new.png)  
-- [2022-02-10-新加坡公司在大陆的校招机会有哪些？](https://www.v2ex.com/t/833073) ![](assets/new.png)  
-- [2022-02-10-重要数据被-NextCloud-直接删除了，从开启-TRIM-的-SSD-MacOS上删除的数据还有可能恢复吗？](https://www.v2ex.com/t/833072) ![](assets/new.png)  
-- [2022-02-10-如何克服焦虑](https://www.v2ex.com/t/833071) ![](assets/new.png)  
-- [2022-02-10-结婚这件大事](https://www.v2ex.com/t/833069) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -553,14 +553,11 @@
 </summary>
 
 
+- [2022-02-11-2022-年别再焦虑啦！加入我们！](https://toutiao.io/k/obimloc) ![](assets/new.png)  
 - [2022-02-11-如何撰写好技术方案设计-真实案例干货分享](https://toutiao.io/k/t1d9x3b) ![](assets/new.png)  
 - [2022-02-11-Redis-在-vivo-推送平台的应用与优化实践](https://toutiao.io/k/on9i9p4) ![](assets/new.png)  
-- [2022-02-11-Spring注入Bean的七种方式](https://toutiao.io/k/p279cks) ![](assets/new.png)  
-- [2022-02-11-京东二面：商品库存的扣除过程，如何防止超卖？](https://toutiao.io/k/1wgog5q) ![](assets/new.png)  
-- [2022-02-11-生还是不生？-SpringBoot3-版本有起飞前兆，最小依赖Java17！](https://toutiao.io/k/p23ymnd) ![](assets/new.png)  
-- [2022-02-11-案例：知乎是怎么落地Istio的？](https://toutiao.io/k/7p0meht) ![](assets/new.png)  
 - [2022-02-11-流量录制与回放在vivo的落地实践](https://toutiao.io/k/es8kiqb) ![](assets/new.png)  
-- [2022-02-11-K8s集群如何保证高可用？来自B站、大疆、网易的最佳实践](https://toutiao.io/k/ymxidgo) ![](assets/new.png)  
+- [2022-02-11-案例：知乎是怎么落地Istio的？](https://toutiao.io/k/7p0meht) ![](assets/new.png)  
 - [2022-02-11-一文讲透大数据列存标准格式：Parquet](https://toutiao.io/k/lmke626) ![](assets/new.png)  
 - [2022-02-11-【第2523期】搭建场景下的页面编译提速方案探索](https://toutiao.io/k/kydff3r) ![](assets/new.png)  
 - [2022-02-11-推荐-百度和米哈游的Golang面试经验分享](https://toutiao.io/k/q0sox0k) ![](assets/new.png)  

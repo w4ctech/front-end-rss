@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-11 08:43:14，:rocket: 更新条数: +1875， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-11 08:55:32，:rocket: 更新条数: +1875， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-02-11-回忆-2020-年-9-月份实习](https://www.v2ex.com/t/833241) ![](assets/new.png)  
+- [2022-02-11-杭州招音视频/应用开发/安卓测试，大佬快到碗里来～](https://www.v2ex.com/t/833240) ![](assets/new.png)  
 - [2022-02-11-杭州-可远程居家办公秘猿科技-招聘区块链工程师/Rust-开发工程师/全栈开发/高级前端开发/技术文档工程师/Senior-Performance-engineer](https://www.v2ex.com/t/833236) ![](assets/new.png)  
 - [2022-02-11-请问哪里有-win11-的累积更新包单独下载吗？](https://www.v2ex.com/t/833235) ![](assets/new.png)  
 - [2022-02-11-有做过银企直联的大佬吗，安全性如何保证，有哪些注意点](https://www.v2ex.com/t/833233) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-02-11-eBPF-WebAssembly-于-Rust](https://www.v2ex.com/t/833215) ![](assets/new.png)  
 - [2022-02-11-上海WLB-SAP-急招-Java-开发](https://www.v2ex.com/t/833214) ![](assets/new.png)  
 - [2022-02-11-初学-Java-,请教大神们一个问题](https://www.v2ex.com/t/833213) ![](assets/new.png)  
-- [2022-02-11-iphone12-的问题](https://www.v2ex.com/t/833212) ![](assets/new.png)  
-- [2022-02-11-关于-httpasyncclient-异步效果不起作用](https://www.v2ex.com/t/833211) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -565,13 +565,13 @@
 - [2022-02-11-Trino（Presto-SQL）新版本发布！](https://toutiao.io/k/v03xfke) ![](assets/new.png)  
 - [2022-02-11-Cucumber测试实践](https://toutiao.io/k/je2y6ea) ![](assets/new.png)  
 - [2022-02-11-这个Dubbo注册中心扩展，有点意思！](https://toutiao.io/k/p21t9eh) ![](assets/new.png)  
-- [2022-02-11-千万不要这么写SQL，有坑！](https://toutiao.io/k/7mphoiz) ![](assets/new.png)  
 - [2022-02-11-Android-13-首个开发者预览版到来](https://toutiao.io/k/d2m85fr) ![](assets/new.png)  
+- [2022-02-11-千万不要这么写SQL，有坑！](https://toutiao.io/k/7mphoiz) ![](assets/new.png)  
 - [2022-02-11-回望-2021-年大前端技术，未来可期！](https://toutiao.io/k/mycr10e) ![](assets/new.png)  
 - [2022-02-11-独立开发变现周刊（第41期）：一个开源项目一个人每月收入8万美金](https://toutiao.io/k/lnq5xiv) ![](assets/new.png)  
 - [2022-02-11-大型有状态服务基于-K8s-的落地实践——按部门租户隔离](https://toutiao.io/k/mn4oh6q) ![](assets/new.png)  
 - [2022-02-11-137-python|第八部分：并发网络编程（二）网络编程下](https://toutiao.io/k/arftq9n) ![](assets/new.png)  
-- [2022-02-11-推荐-阿里专家：如何画出优秀的架构图？](https://toutiao.io/k/92sk26n) ![](assets/new.png)  
+- [2022-02-11-推荐-作为研发Leader，如何做总结](https://toutiao.io/k/1g7flto) ![](assets/new.png)  
 - [2022-02-11-推荐-真香啊！接私活必备的-N-个开源项目（附源码合集第一期）！收藏走起！](https://toutiao.io/k/he7umju) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-02-11 05:11:41。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-11 05:19:41。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1764,6 +1764,8 @@
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2022-02-04-HTML-inputmode与iOS-Android软键盘类型测试](https://www.zhangxinxu.com/wordpress/2022/02/html-inputmode-keyboard/) 
 - [2021-11-14-密码强度效果最佳实现一定是HTML-meter元素](https://www.zhangxinxu.com/wordpress/2021/11/html-meter-password/) 
+- [2022-02-11-外地人从杭州入境，如何完成“7-天居家隔离”？](https://www.v2ex.com/t/833178) 
+- [2022-02-11-现在有什么好用的-5G-手机卡么？](https://www.v2ex.com/t/833177) 
 - [2022-02-11-MIUI-12.5.8-开启谷歌基础服务后耗电量大幅上升](https://www.v2ex.com/t/833176) 
 - [2022-02-11-实在是抢不到冰墩墩，我做了款「冰墩墩表情生成器」玩玩](https://www.v2ex.com/t/833175) 
 - [2022-02-11-北京/广州/深圳-字节跳动---智能创作-招前端/服务端/客户端/C++，新方向大量机会](https://www.v2ex.com/t/833172) 
@@ -1796,8 +1798,6 @@
 - [2022-02-11-成都创业公司寻找开发/设计人员](https://www.v2ex.com/t/833133) 
 - [2022-02-11-来几个大顾交流下啊](https://www.v2ex.com/t/833132) 
 - [2022-02-11-提前一个月下单的-MBP-为什么比现在下单的送达时间还要慢](https://www.v2ex.com/t/833131) 
-- [2022-02-11-租房-建国北路地铁口求租房-----有人转租吗可以接手](https://www.v2ex.com/t/833128) 
-- [2022-02-11-晚上的那个冻奥-NFT-有币圈大神告诉下-国内咋买嘛](https://www.v2ex.com/t/833127) 
 - [2022-02-11-Cucumber测试实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14935&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fcucumber-testing-practice%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-02-11-5款最佳最牛代码比较神器-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14934&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493248%26amp%3Bidx%3D1%26amp%3Bsn%3D50bb00a7204f2595e19bba088152c56a%26amp%3Bchksm%3Dfa3f07dbcd488ecd96ab648174c45d2d5085db9e8ad2ec47e80bba1e6580f7d7158761183317%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-02-11-Linux新手入门的一些基本知识点整理-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14932&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493238%26amp%3Bidx%3D2%26amp%3Bsn%3D349fdafff5bc72eafcc5ac71ad01f6f4%26amp%3Bchksm%3Dfa3f072dcd488e3bf0ced8316f1c7278fce2eaf1946c7f123a864edf879ff397cee6f74a68aa%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

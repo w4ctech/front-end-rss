@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2022-02-11 11:39:39。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-11 11:54:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-02-11-Seagate-硬盘的故障率明显偏高](https://www.v2ex.com/t/833289) 
 - [2022-02-11-Go-embed-初体验](https://www.v2ex.com/t/833285) 
 - [2022-02-11-bitwarden-炸了](https://www.v2ex.com/t/833284) 
 - [2022-02-11-MySQL-的-IF-THEN-似乎不是这样用，还是语句有错误？-要完成这一的逻辑执行，-HOW？](https://www.v2ex.com/t/833283) 
@@ -37,4 +38,3 @@
 - [2022-02-11-小米路由有线中继下，设备-dhcp-异常](https://www.v2ex.com/t/833246) 
 - [2022-02-11-美亚疑似变相杀熟行为](https://www.v2ex.com/t/833245) 
 - [2022-02-11-回忆-2020-年-9-月份实习](https://www.v2ex.com/t/833241) 
-- [2022-02-11-杭州招音视频/应用开发/安卓测试，大佬快到碗里来～](https://www.v2ex.com/t/833240) 

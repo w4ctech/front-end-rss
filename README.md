@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-11 11:39:39，:rocket: 更新条数: +1872， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-11 11:54:25，:rocket: 更新条数: +1872， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-02-11-Seagate-硬盘的故障率明显偏高](https://www.v2ex.com/t/833289) ![](assets/new.png)  
 - [2022-02-11-Go-embed-初体验](https://www.v2ex.com/t/833285) ![](assets/new.png)  
 - [2022-02-11-bitwarden-炸了](https://www.v2ex.com/t/833284) ![](assets/new.png)  
 - [2022-02-11-MySQL-的-IF-THEN-似乎不是这样用，还是语句有错误？-要完成这一的逻辑执行，-HOW？](https://www.v2ex.com/t/833283) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-02-11-在最新的-macOS-上运行经典老游戏过山车大亨-2](https://www.v2ex.com/t/833262) ![](assets/new.png)  
 - [2022-02-11-北京海淀怎么租房啊](https://www.v2ex.com/t/833260) ![](assets/new.png)  
 - [2022-02-11-联通营销客服-到底是什么样的存在？](https://www.v2ex.com/t/833259) ![](assets/new.png)  
-- [2022-02-11-在中国没有手机号可以正常生活吗？](https://www.v2ex.com/t/833258) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -562,8 +562,8 @@
 - [2022-02-11-一文讲透大数据列存标准格式：Parquet](https://toutiao.io/k/lmke626) ![](assets/new.png)  
 - [2022-02-11-如何设计一个复杂的业务系统？从对领域设计、云原生、微服务、中台的理解开始](https://toutiao.io/k/7zvfdzt) ![](assets/new.png)  
 - [2022-02-11-Trino（Presto-SQL）新版本发布！](https://toutiao.io/k/v03xfke) ![](assets/new.png)  
-- [2022-02-11-【第2523期】搭建场景下的页面编译提速方案探索](https://toutiao.io/k/kydff3r) ![](assets/new.png)  
 - [2022-02-11-这个Dubbo注册中心扩展，有点意思！](https://toutiao.io/k/p21t9eh) ![](assets/new.png)  
+- [2022-02-11-【第2523期】搭建场景下的页面编译提速方案探索](https://toutiao.io/k/kydff3r) ![](assets/new.png)  
 - [2022-02-11-Cucumber测试实践](https://toutiao.io/k/je2y6ea) ![](assets/new.png)  
 - [2022-02-11-Android-13-首个开发者预览版到来](https://toutiao.io/k/d2m85fr) ![](assets/new.png)  
 - [2022-02-11-千万不要这么写SQL，有坑！](https://toutiao.io/k/7mphoiz) ![](assets/new.png)  
@@ -571,7 +571,7 @@
 - [2022-02-11-回望-2021-年大前端技术，未来可期！](https://toutiao.io/k/mycr10e) ![](assets/new.png)  
 - [2022-02-11-137-python|第八部分：并发网络编程（二）网络编程下](https://toutiao.io/k/arftq9n) ![](assets/new.png)  
 - [2022-02-11-大型有状态服务基于-K8s-的落地实践——按部门租户隔离](https://toutiao.io/k/mn4oh6q) ![](assets/new.png)  
-- [2022-02-11-推荐-阿里专家：如何画出优秀的架构图？](https://toutiao.io/k/92sk26n) ![](assets/new.png)  
+- [2022-02-11-推荐-真香啊！接私活必备的-N-个开源项目（附源码合集第一期）！收藏走起！](https://toutiao.io/k/he7umju) ![](assets/new.png)  
 - [2022-02-11-推荐-作为研发Leader，如何做总结](https://toutiao.io/k/1g7flto) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

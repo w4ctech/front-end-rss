@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-02-11 07:40:03。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-11 07:54:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1764,6 +1764,8 @@
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2022-02-04-HTML-inputmode与iOS-Android软键盘类型测试](https://www.zhangxinxu.com/wordpress/2022/02/html-inputmode-keyboard/) 
 - [2021-11-14-密码强度效果最佳实现一定是HTML-meter元素](https://www.zhangxinxu.com/wordpress/2021/11/html-meter-password/) 
+- [2022-02-11-上海WLB-外企-🐯年第一帖-|-25K-45K*13-薪急招-5️⃣位前端开发,-2-年以上经验即可🔜](https://www.v2ex.com/t/833224) 
+- [2022-02-11-申请软件或-app-著作权,你们都找谁呀](https://www.v2ex.com/t/833223) 
 - [2022-02-11-v-友们,-有知道为什么流量多的卡,-网速和信号都比较差,-是这类卡有什么限制吗](https://www.v2ex.com/t/833222) 
 - [2022-02-11-物联网-IOT-场景下-MQ-的技术选型](https://www.v2ex.com/t/833221) 
 - [2022-02-11-有没有一种-app-可以控制-mac-在满屏或非满屏下的圆角](https://www.v2ex.com/t/833220) 
@@ -1790,8 +1792,6 @@
 - [2022-02-11-京东微软鼠标保修-1-年,如果买"原厂服务-4-年升级换新-￥-29.00"是不是等于保修-4-年?](https://www.v2ex.com/t/833180) 
 - [2022-02-11-外地人从杭州入境，如何完成“7-天居家隔离”？](https://www.v2ex.com/t/833178) 
 - [2022-02-11-现在有什么好用的-5G-手机卡么？](https://www.v2ex.com/t/833177) 
-- [2022-02-11-MIUI-12.5.8-开启谷歌基础服务后耗电量大幅上升](https://www.v2ex.com/t/833176) 
-- [2022-02-11-实在是抢不到冰墩墩，我做了款「冰墩墩表情生成器」玩玩](https://www.v2ex.com/t/833175) 
 - [2022-02-11-Cucumber测试实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14935&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fcucumber-testing-practice%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-02-11-5款最佳最牛代码比较神器-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14934&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493248%26amp%3Bidx%3D1%26amp%3Bsn%3D50bb00a7204f2595e19bba088152c56a%26amp%3Bchksm%3Dfa3f07dbcd488ecd96ab648174c45d2d5085db9e8ad2ec47e80bba1e6580f7d7158761183317%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-02-11-Linux新手入门的一些基本知识点整理-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14932&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493238%26amp%3Bidx%3D2%26amp%3Bsn%3D349fdafff5bc72eafcc5ac71ad01f6f4%26amp%3Bchksm%3Dfa3f072dcd488e3bf0ced8316f1c7278fce2eaf1946c7f123a864edf879ff397cee6f74a68aa%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1819,10 +1819,10 @@
 - [2022-02-11-这个Dubbo注册中心扩展，有点意思！](https://toutiao.io/k/p21t9eh) 
 - [2022-02-11-独立开发变现周刊（第41期）：一个开源项目一个人每月收入8万美金](https://toutiao.io/k/lnq5xiv) 
 - [2022-02-11-回望-2021-年大前端技术，未来可期！](https://toutiao.io/k/mycr10e) 
-- [2022-02-11-Android-13-首个开发者预览版到来](https://toutiao.io/k/d2m85fr) 
 - [2022-02-11-千万不要这么写SQL，有坑！](https://toutiao.io/k/7mphoiz) 
+- [2022-02-11-Android-13-首个开发者预览版到来](https://toutiao.io/k/d2m85fr) 
 - [2022-02-11-137-python|第八部分：并发网络编程（二）网络编程下](https://toutiao.io/k/arftq9n) 
 - [2022-02-11-大型有状态服务基于-K8s-的落地实践——按部门租户隔离](https://toutiao.io/k/mn4oh6q) 
 - [2022-02-11-推荐-作为研发Leader，如何做总结](https://toutiao.io/k/1g7flto) 
-- [2022-02-11-推荐-阿里专家：如何画出优秀的架构图？](https://toutiao.io/k/92sk26n) 
 - [2022-02-11-推荐-真香啊！接私活必备的-N-个开源项目（附源码合集第一期）！收藏走起！](https://toutiao.io/k/he7umju) 
+- [2022-02-11-推荐-阿里专家：如何画出优秀的架构图？](https://toutiao.io/k/92sk26n) 

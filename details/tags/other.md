@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-02-11 13:39:31。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-11 13:54:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1766,6 +1766,7 @@
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2022-02-04-HTML-inputmode与iOS-Android软键盘类型测试](https://www.zhangxinxu.com/wordpress/2022/02/html-inputmode-keyboard/) 
 - [2021-11-14-密码强度效果最佳实现一定是HTML-meter元素](https://www.zhangxinxu.com/wordpress/2021/11/html-meter-password/) 
+- [2022-02-11-上海紧急DevOps---薪资待遇-要-k8s-落地经验以及-Python-精通](https://www.v2ex.com/t/833309) 
 - [2022-02-11-谷歌搜索-telegram，前面两个都是病毒的推广，一年前就这样了](https://www.v2ex.com/t/833308) 
 - [2022-02-11-matlab-或-Python-是否有方法定义比较美观的字母下标符号？](https://www.v2ex.com/t/833307) 
 - [2022-02-11-尝试通过预处理解决-Go-的-`if-err-!=-nil-{...}`-问题](https://www.v2ex.com/t/833306) 
@@ -1796,8 +1797,6 @@
 - [2022-02-11-深圳租房停车难](https://www.v2ex.com/t/833272) 
 - [2022-02-11-回龙观\霍营-8-号线\13-号线-二居室找合租室友-（地铁去望京，西二旗都直达）](https://www.v2ex.com/t/833266) 
 - [2022-02-11-求一个-Python-代码格式化工具](https://www.v2ex.com/t/833263) 
-- [2022-02-11-北京海淀怎么租房啊](https://www.v2ex.com/t/833260) 
-- [2022-02-11-联通营销客服-到底是什么样的存在？](https://www.v2ex.com/t/833259) 
 - [2022-02-11-怎样避免纠结，快速决策？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14936&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fmake-effective-decisions%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-02-11-Cucumber测试实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14935&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fcucumber-testing-practice%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-02-11-5款最佳最牛代码比较神器-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14934&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493248%26amp%3Bidx%3D1%26amp%3Bsn%3D50bb00a7204f2595e19bba088152c56a%26amp%3Bchksm%3Dfa3f07dbcd488ecd96ab648174c45d2d5085db9e8ad2ec47e80bba1e6580f7d7158761183317%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1824,12 +1823,12 @@
 - [2022-02-11-这个Dubbo注册中心扩展，有点意思！](https://toutiao.io/k/p21t9eh) 
 - [2022-02-11-【第2523期】搭建场景下的页面编译提速方案探索](https://toutiao.io/k/kydff3r) 
 - [2022-02-11-Android-13-首个开发者预览版到来](https://toutiao.io/k/d2m85fr) 
-- [2022-02-11-Cucumber测试实践](https://toutiao.io/k/je2y6ea) 
 - [2022-02-11-千万不要这么写SQL，有坑！](https://toutiao.io/k/7mphoiz) 
+- [2022-02-11-Cucumber测试实践](https://toutiao.io/k/je2y6ea) 
 - [2022-02-11-独立开发变现周刊（第41期）：一个开源项目一个人每月收入8万美金](https://toutiao.io/k/lnq5xiv) 
 - [2022-02-11-回望-2021-年大前端技术，未来可期！](https://toutiao.io/k/mycr10e) 
 - [2022-02-11-大型有状态服务基于-K8s-的落地实践——按部门租户隔离](https://toutiao.io/k/mn4oh6q) 
 - [2022-02-11-137-python|第八部分：并发网络编程（二）网络编程下](https://toutiao.io/k/arftq9n) 
-- [2022-02-11-推荐-真香啊！接私活必备的-N-个开源项目（附源码合集第一期）！收藏走起！](https://toutiao.io/k/he7umju) 
 - [2022-02-11-推荐-阿里专家：如何画出优秀的架构图？](https://toutiao.io/k/92sk26n) 
+- [2022-02-11-推荐-真香啊！接私活必备的-N-个开源项目（附源码合集第一期）！收藏走起！](https://toutiao.io/k/he7umju) 
 - [2022-02-11-推荐-作为研发Leader，如何做总结](https://toutiao.io/k/1g7flto) 

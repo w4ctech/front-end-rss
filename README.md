@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-11 01:15:43，:rocket: 更新条数: +1867， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-11 01:59:56，:rocket: 更新条数: +1868， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -65,7 +65,7 @@
 </summary>
 
 
-- [2022-02-10-最新疫情：全国新冠累计确诊106663例-累计接种新冠疫苗超30.22亿剂次](https://m.caixin.com/m/2022-02-10/101839985.html) ![](assets/new.png)  
+- [2022-02-11-2月10日全国新增新冠101例-三省份本土56例](https://m.caixin.com/m/2022-02-11/101840172.html) ![](assets/new.png)  
 - [2022-02-10-百色防疫物资告急已做多轮全员核酸，辽宁葫芦岛市疫情抬头](https://m.caixin.com/m/2022-02-10/101840019.html) ![](assets/new.png)  
 - [2022-02-10-严防“物传人”-杭州部分进口商品专业卖场暂停经营](https://m.caixin.com/m/2022-02-10/101839784.html) ![](assets/new.png)  
 - [2022-02-10-最新海外疫情：新冠感染超4.02亿-累计接种新冠疫苗超101.98亿剂次](https://m.caixin.com/m/2022-02-10/101839989.html) ![](assets/new.png)  
@@ -491,6 +491,18 @@
 </summary>
 
 
+- [2022-02-11-求助-springboot+thymeleaf-实现页面静态化方案，各位大佬有没有推荐的](https://www.v2ex.com/t/833110) ![](assets/new.png)  
+- [2022-02-11-求助，-win11-卡自动修复循环，无法启动](https://www.v2ex.com/t/833108) ![](assets/new.png)  
+- [2022-02-11-「CodeFever-Community-保姆级教程」手把手教你搭建自己的代码托管服务器](https://www.v2ex.com/t/833107) ![](assets/new.png)  
+- [2022-02-11-请问三星-S20-系列国行版本是否支持刷机，我看-xda-上有-S20-的-rom](https://www.v2ex.com/t/833106) ![](assets/new.png)  
+- [2022-02-11-有没有-virt-manager-和-kvm-配-windows-虚拟机的详细教程呢](https://www.v2ex.com/t/833105) ![](assets/new.png)  
+- [2022-02-11-弱问一个-mac-键盘的问题](https://www.v2ex.com/t/833104) ![](assets/new.png)  
+- [2022-02-11-关于求婚](https://www.v2ex.com/t/833103) ![](assets/new.png)  
+- [2022-02-11-现在还有啥看电影的安卓-APP-吗](https://www.v2ex.com/t/833102) ![](assets/new.png)  
+- [2022-02-11-京东刷京豆脚本安装教程](https://www.v2ex.com/t/833101) ![](assets/new.png)  
+- [2022-02-11-积累财富最好的方式还是反消费主义](https://www.v2ex.com/t/833100) ![](assets/new.png)  
+- [2022-02-11-PixelExperience-将支持-Google-相册原画质无限空间上传](https://www.v2ex.com/t/833099) ![](assets/new.png)  
+- [2022-02-11-有遇到过为知笔记-docker-版上传图片失败的问题吗？](https://www.v2ex.com/t/833098) ![](assets/new.png)  
 - [2022-02-11-在这个信息爆炸的时代，怎么做到花最少的时间，获取到对自己有用的信息，避免浪费时间。](https://www.v2ex.com/t/833096) ![](assets/new.png)  
 - [2022-02-11-分享一下你今年的书单](https://www.v2ex.com/t/833095) ![](assets/new.png)  
 - [2022-02-11-彦祖们都用什么图片素材管理工具？](https://www.v2ex.com/t/833094) ![](assets/new.png)  
@@ -499,18 +511,6 @@
 - [2022-02-11-很好奇，-duckduckgo-是如何盈利的](https://www.v2ex.com/t/833091) ![](assets/new.png)  
 - [2022-02-11-EdgeDB-1.0-正式发布](https://www.v2ex.com/t/833090) ![](assets/new.png)  
 - [2022-02-11-如何调整-Windows10-自带输入法候选项格式](https://www.v2ex.com/t/833089) ![](assets/new.png)  
-- [2022-02-10-mbp14-又换成-magsafe-充电头了吗？](https://www.v2ex.com/t/833088) ![](assets/new.png)  
-- [2022-02-10-求助-想了一天也没搞定，如何用-js-分割字符？](https://www.v2ex.com/t/833087) ![](assets/new.png)  
-- [2022-02-10-毕业家里蹲两年该怎么找工作啊？想找图形或游戏相关的](https://www.v2ex.com/t/833086) ![](assets/new.png)  
-- [2022-02-10-惨痛教训，数据被-nextcloud-删了，找公司从开启-TRIM-的-SSD-硬盘的-Mac-上恢复删除的数据还有可能吗？](https://www.v2ex.com/t/833084) ![](assets/new.png)  
-- [2022-02-10-app-有没有可能利用-iOS-多摄像头同时摄影的特性偷偷摄影，但是只展示一个摄像头的结果给你](https://www.v2ex.com/t/833083) ![](assets/new.png)  
-- [2022-02-10-问大家一个问题，看电影的好的解决方案](https://www.v2ex.com/t/833082) ![](assets/new.png)  
-- [2022-02-10-go-为什么这样的代码会产生死锁问题](https://www.v2ex.com/t/833080) ![](assets/new.png)  
-- [2022-02-10-小几百预算推荐给哪几个开源组织或工程捐款？](https://www.v2ex.com/t/833079) ![](assets/new.png)  
-- [2022-02-10-iShot-截图时的拍照声如何关闭？](https://www.v2ex.com/t/833078) ![](assets/new.png)  
-- [2022-02-10-前端奇技淫巧之-reactjs-打开过的页面不销毁](https://www.v2ex.com/t/833077) ![](assets/new.png)  
-- [2022-02-10-坐标-020，刚点击个网页就跳转到这个页面，说明了什么](https://www.v2ex.com/t/833076) ![](assets/new.png)  
-- [2022-02-10-用-ipv6-构造一个代理-ip-池](https://www.v2ex.com/t/833075) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -561,9 +561,9 @@
 - [2022-02-11-一文讲透大数据列存标准格式：Parquet](https://toutiao.io/k/lmke626) ![](assets/new.png)  
 - [2022-02-11-【第2523期】搭建场景下的页面编译提速方案探索](https://toutiao.io/k/kydff3r) ![](assets/new.png)  
 - [2022-02-11-推荐-百度和米哈游的Golang面试经验分享](https://toutiao.io/k/q0sox0k) ![](assets/new.png)  
-- [2022-02-11-推荐-阿里专家：如何画出优秀的架构图？](https://toutiao.io/k/92sk26n) ![](assets/new.png)  
 - [2022-02-11-推荐-作为研发Leader，如何做总结](https://toutiao.io/k/1g7flto) ![](assets/new.png)  
 - [2022-02-11-推荐-真香啊！接私活必备的-N-个开源项目（附源码合集第一期）！收藏走起！](https://toutiao.io/k/he7umju) ![](assets/new.png)  
+- [2022-02-11-推荐-阿里专家：如何画出优秀的架构图？](https://toutiao.io/k/92sk26n) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

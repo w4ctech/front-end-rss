@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-02-11 07:54:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-11 08:14:03。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1791,7 +1791,6 @@
 - [2022-02-11-M1-MBP-的第二个-C-口间歇性的无法使用，有遇到的吗](https://www.v2ex.com/t/833184) 
 - [2022-02-11-京东微软鼠标保修-1-年,如果买"原厂服务-4-年升级换新-￥-29.00"是不是等于保修-4-年?](https://www.v2ex.com/t/833180) 
 - [2022-02-11-外地人从杭州入境，如何完成“7-天居家隔离”？](https://www.v2ex.com/t/833178) 
-- [2022-02-11-现在有什么好用的-5G-手机卡么？](https://www.v2ex.com/t/833177) 
 - [2022-02-11-Cucumber测试实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14935&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fcucumber-testing-practice%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-02-11-5款最佳最牛代码比较神器-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14934&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493248%26amp%3Bidx%3D1%26amp%3Bsn%3D50bb00a7204f2595e19bba088152c56a%26amp%3Bchksm%3Dfa3f07dbcd488ecd96ab648174c45d2d5085db9e8ad2ec47e80bba1e6580f7d7158761183317%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-02-11-Linux新手入门的一些基本知识点整理-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14932&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493238%26amp%3Bidx%3D2%26amp%3Bsn%3D349fdafff5bc72eafcc5ac71ad01f6f4%26amp%3Bchksm%3Dfa3f072dcd488e3bf0ced8316f1c7278fce2eaf1946c7f123a864edf879ff397cee6f74a68aa%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1823,6 +1822,6 @@
 - [2022-02-11-Android-13-首个开发者预览版到来](https://toutiao.io/k/d2m85fr) 
 - [2022-02-11-137-python|第八部分：并发网络编程（二）网络编程下](https://toutiao.io/k/arftq9n) 
 - [2022-02-11-大型有状态服务基于-K8s-的落地实践——按部门租户隔离](https://toutiao.io/k/mn4oh6q) 
-- [2022-02-11-推荐-作为研发Leader，如何做总结](https://toutiao.io/k/1g7flto) 
 - [2022-02-11-推荐-真香啊！接私活必备的-N-个开源项目（附源码合集第一期）！收藏走起！](https://toutiao.io/k/he7umju) 
+- [2022-02-11-推荐-作为研发Leader，如何做总结](https://toutiao.io/k/1g7flto) 
 - [2022-02-11-推荐-阿里专家：如何画出优秀的架构图？](https://toutiao.io/k/92sk26n) 

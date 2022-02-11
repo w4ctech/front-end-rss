@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-02-11 04:14:42。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-11 04:26:12。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -17,4 +17,3 @@
 - [2022-02-11-做离线缓存，什么时候进行数据存储比较合理-？](https://www.v2ex.com/t/833150) 
 - [2022-02-11-firefox-nightly-99-已支持-ECH](https://www.v2ex.com/t/833143) 
 - [2022-02-11-离线缓存，什么时候进行数据存储比较合理-？](https://www.v2ex.com/t/833136) 
-- [2022-02-11-Safari-和-Webkit-团队终于承认错误并开始征求反馈](https://www.v2ex.com/t/833117) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-02-11 01:59:56。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-02-11 02:10:38。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -108,6 +108,8 @@
 - [【武汉肺炎防疫全纪录(财新网)】2022-02-01-德国未实现接种目标-奥地利强制接种疫苗法律生效｜大流行手记（1月31日）](https://m.caixin.com/m/2022-02-01/101837106.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2022-02-01-聚焦｜张文宏：未来抗疫，是努力夺回正常生活的过程](https://opinion.caixin.com/m/2022-02-01/101837206.html) 
 - [【张鑫旭-鑫空间-鑫生活】2022-02-04-HTML-inputmode与iOS-Android软键盘类型测试](https://www.zhangxinxu.com/wordpress/2022/02/html-inputmode-keyboard/) 
+- [【V2EX】2022-02-11-动森交易铃钱会有风险么-？](https://www.v2ex.com/t/833112) 
+- [【V2EX】2022-02-11-两个向量之间的相关系数如何定义？](https://www.v2ex.com/t/833111) 
 - [【V2EX】2022-02-11-求助-springboot+thymeleaf-实现页面静态化方案，各位大佬有没有推荐的](https://www.v2ex.com/t/833110) 
 - [【V2EX】2022-02-11-求助，-win11-卡自动修复循环，无法启动](https://www.v2ex.com/t/833108) 
 - [【V2EX】2022-02-11-「CodeFever-Community-保姆级教程」手把手教你搭建自己的代码托管服务器](https://www.v2ex.com/t/833107) 
@@ -149,8 +151,6 @@
 - [【V2EX】2022-02-10-有-V-友给父母安排体检吗？](https://www.v2ex.com/t/833066) 
 - [【V2EX】2022-02-10-iOS-15-正式版以来-Apple-Pay-银行卡不再显示交易记录](https://www.v2ex.com/t/833064) 
 - [【V2EX】2022-02-10-个人创业-寻找技术合伙人](https://www.v2ex.com/t/833063) 
-- [【V2EX】2022-02-10-写了一个-Go-的集合库（处理-Slice/Map/Array-数据），基于-Go-1.18-泛型](https://www.v2ex.com/t/833062) 
-- [【V2EX】2022-02-10-寻合伙人](https://www.v2ex.com/t/833061) 
 - [【技术头条】2022-02-11-Cucumber测试实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14935&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fcucumber-testing-practice%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-02-11-5款最佳最牛代码比较神器-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14934&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493248%26amp%3Bidx%3D1%26amp%3Bsn%3D50bb00a7204f2595e19bba088152c56a%26amp%3Bchksm%3Dfa3f07dbcd488ecd96ab648174c45d2d5085db9e8ad2ec47e80bba1e6580f7d7158761183317%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-02-11-在GitHub上提交代码必备指南！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14933&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493238%26amp%3Bidx%3D1%26amp%3Bsn%3Db92e65ee96d1c998d823b55d7fafc234%26amp%3Bchksm%3Dfa3f072dcd488e3b997e0b9b4b48f5c4de6513c91fd46a4d1bde7bb89bf61af7c319e2d5dfff%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -178,10 +178,14 @@
 - [【开发者头条】2022-02-11-案例：知乎是怎么落地Istio的？](https://toutiao.io/k/7p0meht) 
 - [【开发者头条】2022-02-11-一文讲透大数据列存标准格式：Parquet](https://toutiao.io/k/lmke626) 
 - [【开发者头条】2022-02-11-【第2523期】搭建场景下的页面编译提速方案探索](https://toutiao.io/k/kydff3r) 
+- [【开发者头条】2022-02-11-担保这次能看懂！DDD落地数据库设计实战](https://toutiao.io/k/rg953es) 
+- [【开发者头条】2022-02-11-如何设计一个复杂的业务系统？从对领域设计、云原生、微服务、中台的理解开始](https://toutiao.io/k/7zvfdzt) 
+- [【开发者头条】2022-02-11-Trino（Presto-SQL）新版本发布！](https://toutiao.io/k/v03xfke) 
+- [【开发者头条】2022-02-11-Cucumber测试实践](https://toutiao.io/k/je2y6ea) 
+- [【开发者头条】2022-02-11-推荐-阿里专家：如何画出优秀的架构图？](https://toutiao.io/k/92sk26n) 
+- [【开发者头条】2022-02-11-推荐-真香啊！接私活必备的-N-个开源项目（附源码合集第一期）！收藏走起！](https://toutiao.io/k/he7umju) 
 - [【开发者头条】2022-02-11-推荐-百度和米哈游的Golang面试经验分享](https://toutiao.io/k/q0sox0k) 
 - [【开发者头条】2022-02-11-推荐-作为研发Leader，如何做总结](https://toutiao.io/k/1g7flto) 
-- [【开发者头条】2022-02-11-推荐-真香啊！接私活必备的-N-个开源项目（附源码合集第一期）！收藏走起！](https://toutiao.io/k/he7umju) 
-- [【开发者头条】2022-02-11-推荐-阿里专家：如何画出优秀的架构图？](https://toutiao.io/k/92sk26n) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

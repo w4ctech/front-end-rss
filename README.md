@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-11 01:59:56，:rocket: 更新条数: +1868， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-11 02:10:38，:rocket: 更新条数: +1872， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-02-11-动森交易铃钱会有风险么-？](https://www.v2ex.com/t/833112) ![](assets/new.png)  
+- [2022-02-11-两个向量之间的相关系数如何定义？](https://www.v2ex.com/t/833111) ![](assets/new.png)  
 - [2022-02-11-求助-springboot+thymeleaf-实现页面静态化方案，各位大佬有没有推荐的](https://www.v2ex.com/t/833110) ![](assets/new.png)  
 - [2022-02-11-求助，-win11-卡自动修复循环，无法启动](https://www.v2ex.com/t/833108) ![](assets/new.png)  
 - [2022-02-11-「CodeFever-Community-保姆级教程」手把手教你搭建自己的代码托管服务器](https://www.v2ex.com/t/833107) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-02-11-iOS/macOS-安全更新：还是-WebKit，还是任意代码执行](https://www.v2ex.com/t/833093) ![](assets/new.png)  
 - [2022-02-11-喜欢看一些“牛鬼蛇神”的东西，是不是逃离现实的心里疾病？](https://www.v2ex.com/t/833092) ![](assets/new.png)  
 - [2022-02-11-很好奇，-duckduckgo-是如何盈利的](https://www.v2ex.com/t/833091) ![](assets/new.png)  
-- [2022-02-11-EdgeDB-1.0-正式发布](https://www.v2ex.com/t/833090) ![](assets/new.png)  
-- [2022-02-11-如何调整-Windows10-自带输入法候选项格式](https://www.v2ex.com/t/833089) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -560,10 +560,14 @@
 - [2022-02-11-案例：知乎是怎么落地Istio的？](https://toutiao.io/k/7p0meht) ![](assets/new.png)  
 - [2022-02-11-一文讲透大数据列存标准格式：Parquet](https://toutiao.io/k/lmke626) ![](assets/new.png)  
 - [2022-02-11-【第2523期】搭建场景下的页面编译提速方案探索](https://toutiao.io/k/kydff3r) ![](assets/new.png)  
+- [2022-02-11-担保这次能看懂！DDD落地数据库设计实战](https://toutiao.io/k/rg953es) ![](assets/new.png)  
+- [2022-02-11-如何设计一个复杂的业务系统？从对领域设计、云原生、微服务、中台的理解开始](https://toutiao.io/k/7zvfdzt) ![](assets/new.png)  
+- [2022-02-11-Trino（Presto-SQL）新版本发布！](https://toutiao.io/k/v03xfke) ![](assets/new.png)  
+- [2022-02-11-Cucumber测试实践](https://toutiao.io/k/je2y6ea) ![](assets/new.png)  
+- [2022-02-11-推荐-阿里专家：如何画出优秀的架构图？](https://toutiao.io/k/92sk26n) ![](assets/new.png)  
+- [2022-02-11-推荐-真香啊！接私活必备的-N-个开源项目（附源码合集第一期）！收藏走起！](https://toutiao.io/k/he7umju) ![](assets/new.png)  
 - [2022-02-11-推荐-百度和米哈游的Golang面试经验分享](https://toutiao.io/k/q0sox0k) ![](assets/new.png)  
 - [2022-02-11-推荐-作为研发Leader，如何做总结](https://toutiao.io/k/1g7flto) ![](assets/new.png)  
-- [2022-02-11-推荐-真香啊！接私活必备的-N-个开源项目（附源码合集第一期）！收藏走起！](https://toutiao.io/k/he7umju) ![](assets/new.png)  
-- [2022-02-11-推荐-阿里专家：如何画出优秀的架构图？](https://toutiao.io/k/92sk26n) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-11 13:14:39，:rocket: 更新条数: +1875， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-11 13:24:35，:rocket: 更新条数: +1875， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -564,15 +564,15 @@
 - [2022-02-11-这个Dubbo注册中心扩展，有点意思！](https://toutiao.io/k/p21t9eh) ![](assets/new.png)  
 - [2022-02-11-Trino（Presto-SQL）新版本发布！](https://toutiao.io/k/v03xfke) ![](assets/new.png)  
 - [2022-02-11-【第2523期】搭建场景下的页面编译提速方案探索](https://toutiao.io/k/kydff3r) ![](assets/new.png)  
-- [2022-02-11-Cucumber测试实践](https://toutiao.io/k/je2y6ea) ![](assets/new.png)  
 - [2022-02-11-Android-13-首个开发者预览版到来](https://toutiao.io/k/d2m85fr) ![](assets/new.png)  
+- [2022-02-11-Cucumber测试实践](https://toutiao.io/k/je2y6ea) ![](assets/new.png)  
 - [2022-02-11-千万不要这么写SQL，有坑！](https://toutiao.io/k/7mphoiz) ![](assets/new.png)  
 - [2022-02-11-独立开发变现周刊（第41期）：一个开源项目一个人每月收入8万美金](https://toutiao.io/k/lnq5xiv) ![](assets/new.png)  
 - [2022-02-11-回望-2021-年大前端技术，未来可期！](https://toutiao.io/k/mycr10e) ![](assets/new.png)  
 - [2022-02-11-137-python|第八部分：并发网络编程（二）网络编程下](https://toutiao.io/k/arftq9n) ![](assets/new.png)  
 - [2022-02-11-大型有状态服务基于-K8s-的落地实践——按部门租户隔离](https://toutiao.io/k/mn4oh6q) ![](assets/new.png)  
 - [2022-02-11-推荐-阿里专家：如何画出优秀的架构图？](https://toutiao.io/k/92sk26n) ![](assets/new.png)  
-- [2022-02-11-推荐-百度和米哈游的Golang面试经验分享](https://toutiao.io/k/q0sox0k) ![](assets/new.png)  
+- [2022-02-11-推荐-真香啊！接私活必备的-N-个开源项目（附源码合集第一期）！收藏走起！](https://toutiao.io/k/he7umju) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

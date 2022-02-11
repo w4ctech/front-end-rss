@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-02-11 05:39:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-11 05:54:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1764,6 +1764,8 @@
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2022-02-04-HTML-inputmode与iOS-Android软键盘类型测试](https://www.zhangxinxu.com/wordpress/2022/02/html-inputmode-keyboard/) 
 - [2021-11-14-密码强度效果最佳实现一定是HTML-meter元素](https://www.zhangxinxu.com/wordpress/2021/11/html-meter-password/) 
+- [2022-02-11-KPlayer-v0.5.0-发布，更好的服务端推流工具](https://www.v2ex.com/t/833185) 
+- [2022-02-11-M1-MBP-的第二个-C-口间歇性的无法使用，有遇到的吗](https://www.v2ex.com/t/833184) 
 - [2022-02-11-京东微软鼠标保修-1-年,如果买"原厂服务-4-年升级换新-￥-29.00"是不是等于保修-4-年?](https://www.v2ex.com/t/833180) 
 - [2022-02-11-外地人从杭州入境，如何完成“7-天居家隔离”？](https://www.v2ex.com/t/833178) 
 - [2022-02-11-现在有什么好用的-5G-手机卡么？](https://www.v2ex.com/t/833177) 
@@ -1793,9 +1795,6 @@
 - [2022-02-11-kotlin-官方推荐的服务端框架](https://www.v2ex.com/t/833144) 
 - [2022-02-11-微信读书连夜下架哈利波特？](https://www.v2ex.com/t/833142) 
 - [2022-02-11-求-VOIP-通话平台](https://www.v2ex.com/t/833141) 
-- [2022-02-11-装-Linux-，哪款笔记本待机时间长一些呀](https://www.v2ex.com/t/833137) 
-- [2022-02-11-如果在-2022-年，给你一次重新选择职业的机会，你会选择什么？](https://www.v2ex.com/t/833135) 
-- [2022-02-11-江苏电信-IPTV-的问题请教](https://www.v2ex.com/t/833134) 
 - [2022-02-11-Cucumber测试实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14935&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fcucumber-testing-practice%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-02-11-5款最佳最牛代码比较神器-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14934&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493248%26amp%3Bidx%3D1%26amp%3Bsn%3D50bb00a7204f2595e19bba088152c56a%26amp%3Bchksm%3Dfa3f07dbcd488ecd96ab648174c45d2d5085db9e8ad2ec47e80bba1e6580f7d7158761183317%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-02-11-Linux新手入门的一些基本知识点整理-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14932&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493238%26amp%3Bidx%3D2%26amp%3Bsn%3D349fdafff5bc72eafcc5ac71ad01f6f4%26amp%3Bchksm%3Dfa3f072dcd488e3bf0ced8316f1c7278fce2eaf1946c7f123a864edf879ff397cee6f74a68aa%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1820,6 +1819,6 @@
 - [2022-02-11-如何设计一个复杂的业务系统？从对领域设计、云原生、微服务、中台的理解开始](https://toutiao.io/k/7zvfdzt) 
 - [2022-02-11-【第2523期】搭建场景下的页面编译提速方案探索](https://toutiao.io/k/kydff3r) 
 - [2022-02-11-Cucumber测试实践](https://toutiao.io/k/je2y6ea) 
-- [2022-02-11-推荐-作为研发Leader，如何做总结](https://toutiao.io/k/1g7flto) 
 - [2022-02-11-推荐-真香啊！接私活必备的-N-个开源项目（附源码合集第一期）！收藏走起！](https://toutiao.io/k/he7umju) 
 - [2022-02-11-推荐-阿里专家：如何画出优秀的架构图？](https://toutiao.io/k/92sk26n) 
+- [2022-02-11-推荐-作为研发Leader，如何做总结](https://toutiao.io/k/1g7flto) 

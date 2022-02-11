@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2022-02-11 11:10:34。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-11 11:18:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-02-11-Go-embed-初体验](https://www.v2ex.com/t/833285) 
 - [2022-02-11-bitwarden-炸了](https://www.v2ex.com/t/833284) 
 - [2022-02-11-MySQL-的-IF-THEN-似乎不是这样用，还是语句有错误？-要完成这一的逻辑执行，-HOW？](https://www.v2ex.com/t/833283) 
 - [2022-02-11-airpods-pro-返修](https://www.v2ex.com/t/833281) 
@@ -38,4 +39,3 @@
 - [2022-02-11-回忆-2020-年-9-月份实习](https://www.v2ex.com/t/833241) 
 - [2022-02-11-杭州招音视频/应用开发/安卓测试，大佬快到碗里来～](https://www.v2ex.com/t/833240) 
 - [2022-02-11-杭州-可远程居家办公秘猿科技-招聘区块链工程师/Rust-开发工程师/全栈开发/高级前端开发/技术文档工程师/Senior-Performance-engineer](https://www.v2ex.com/t/833236) 
-- [2022-02-11-请问哪里有-win11-的累积更新包单独下载吗？](https://www.v2ex.com/t/833235) 

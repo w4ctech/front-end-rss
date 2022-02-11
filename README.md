@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-11 09:54:22，:rocket: 更新条数: +1873， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-11 10:13:06，:rocket: 更新条数: +1871， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,8 +491,11 @@
 </summary>
 
 
-- [2022-02-11-过年相亲的"意外"后续，不知道该咋办了](https://www.v2ex.com/t/833265) ![](assets/new.png)  
-- [2022-02-11-Remote-极狐-GitLab-招聘-Ruby/GO-从面试到入职全程一对一帮扶](https://www.v2ex.com/t/833264) ![](assets/new.png)  
+- [2022-02-11-深圳租房停车难](https://www.v2ex.com/t/833272) ![](assets/new.png)  
+- [2022-02-11-前端的生态也太畸形了](https://www.v2ex.com/t/833270) ![](assets/new.png)  
+- [2022-02-11-美团安全部招聘-Mac/IOS/-Linux-/Windows-安全开发](https://www.v2ex.com/t/833268) ![](assets/new.png)  
+- [2022-02-11-回龙观\霍营-8-号线\13-号线-二居室找合租室友-（地铁去望京，西二旗都直达）](https://www.v2ex.com/t/833266) ![](assets/new.png)  
+- [2022-02-11-Remote-极狐-GitLab-体验游艇办公-从面试到入职全程一对一帮扶](https://www.v2ex.com/t/833264) ![](assets/new.png)  
 - [2022-02-11-求一个-Python-代码格式化工具](https://www.v2ex.com/t/833263) ![](assets/new.png)  
 - [2022-02-11-在最新的-macOS-上运行经典老游戏过山车大亨-2](https://www.v2ex.com/t/833262) ![](assets/new.png)  
 - [2022-02-11-北京海淀怎么租房啊](https://www.v2ex.com/t/833260) ![](assets/new.png)  
@@ -508,9 +511,6 @@
 - [2022-02-11-CNN-入门，-pycharm-报错：数组是-0-维的，但是有-1-个被索引了](https://www.v2ex.com/t/833250) ![](assets/new.png)  
 - [2022-02-11-请教一下关于欠薪离职，部门领导强留代码交接二三事？](https://www.v2ex.com/t/833249) ![](assets/new.png)  
 - [2022-02-11-小米路由有线中继下，设备-dhcp-异常](https://www.v2ex.com/t/833246) ![](assets/new.png)  
-- [2022-02-11-美亚疑似变相杀熟行为](https://www.v2ex.com/t/833245) ![](assets/new.png)  
-- [2022-02-11-回忆-2020-年-9-月份实习](https://www.v2ex.com/t/833241) ![](assets/new.png)  
-- [2022-02-11-杭州招音视频/应用开发/安卓测试，大佬快到碗里来～](https://www.v2ex.com/t/833240) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -522,6 +522,7 @@
 </summary>
 
 
+- [2022-02-11-怎样避免纠结，快速决策？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14936&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fmake-effective-decisions%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-02-11-Cucumber测试实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14935&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fcucumber-testing-practice%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-02-11-5款最佳最牛代码比较神器-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14934&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493248%26amp%3Bidx%3D1%26amp%3Bsn%3D50bb00a7204f2595e19bba088152c56a%26amp%3Bchksm%3Dfa3f07dbcd488ecd96ab648174c45d2d5085db9e8ad2ec47e80bba1e6580f7d7158761183317%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-02-11-在GitHub上提交代码必备指南！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14933&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493238%26amp%3Bidx%3D1%26amp%3Bsn%3Db92e65ee96d1c998d823b55d7fafc234%26amp%3Bchksm%3Dfa3f072dcd488e3b997e0b9b4b48f5c4de6513c91fd46a4d1bde7bb89bf61af7c319e2d5dfff%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
@@ -541,7 +542,6 @@
 - [2022-02-11-Android-性能优化的术、道、器-androidperformance.com](https://blogread.cn/news/go.php?idItem=14919&url=https%3A%2F%2Fandroidperformance.com%2F2022%2F01%2F07%2FThe-Performace-1-Performance-Tools%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-02-11-优质网站同好者周刊（第-050-期）-blog.nicelinks.site](https://blogread.cn/news/go.php?idItem=14918&url=https%3A%2F%2Fblog.nicelinks.site%2Fweekly-050%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-02-11-漫谈金丝雀部署-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14917&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fcanary-deployment%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-02-11-Vue实战中的一些小魔法-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14916&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493203%26amp%3Bidx%3D2%26amp%3Bsn%3Dde9700033ad22427b1188396a4eb0294%26amp%3Bchksm%3Dfa3f0708cd488e1e16708c787c643e842476abe8a4de820fc49757f106a55d2572147b474a71%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -563,16 +563,16 @@
 - [2022-02-11-如何设计一个复杂的业务系统？从对领域设计、云原生、微服务、中台的理解开始](https://toutiao.io/k/7zvfdzt) ![](assets/new.png)  
 - [2022-02-11-【第2523期】搭建场景下的页面编译提速方案探索](https://toutiao.io/k/kydff3r) ![](assets/new.png)  
 - [2022-02-11-Trino（Presto-SQL）新版本发布！](https://toutiao.io/k/v03xfke) ![](assets/new.png)  
-- [2022-02-11-Cucumber测试实践](https://toutiao.io/k/je2y6ea) ![](assets/new.png)  
 - [2022-02-11-这个Dubbo注册中心扩展，有点意思！](https://toutiao.io/k/p21t9eh) ![](assets/new.png)  
+- [2022-02-11-Cucumber测试实践](https://toutiao.io/k/je2y6ea) ![](assets/new.png)  
 - [2022-02-11-Android-13-首个开发者预览版到来](https://toutiao.io/k/d2m85fr) ![](assets/new.png)  
 - [2022-02-11-千万不要这么写SQL，有坑！](https://toutiao.io/k/7mphoiz) ![](assets/new.png)  
 - [2022-02-11-回望-2021-年大前端技术，未来可期！](https://toutiao.io/k/mycr10e) ![](assets/new.png)  
 - [2022-02-11-独立开发变现周刊（第41期）：一个开源项目一个人每月收入8万美金](https://toutiao.io/k/lnq5xiv) ![](assets/new.png)  
 - [2022-02-11-137-python|第八部分：并发网络编程（二）网络编程下](https://toutiao.io/k/arftq9n) ![](assets/new.png)  
 - [2022-02-11-大型有状态服务基于-K8s-的落地实践——按部门租户隔离](https://toutiao.io/k/mn4oh6q) ![](assets/new.png)  
-- [2022-02-11-推荐-百度和米哈游的Golang面试经验分享](https://toutiao.io/k/q0sox0k) ![](assets/new.png)  
 - [2022-02-11-推荐-阿里专家：如何画出优秀的架构图？](https://toutiao.io/k/92sk26n) ![](assets/new.png)  
+- [2022-02-11-推荐-作为研发Leader，如何做总结](https://toutiao.io/k/1g7flto) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

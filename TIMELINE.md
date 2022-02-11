@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-02-11 08:14:03。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-02-11 08:24:09。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,11 +68,11 @@
 </summary>
 
 
-- [【武汉肺炎防疫全纪录(财新网)】2022-02-11-2月10日全国新增新冠101例-三省份本土56例](https://m.caixin.com/m/2022-02-11/101840172.html) 
+- [【武汉肺炎防疫全纪录(财新网)】2022-02-11-最新疫情：全国新冠累计确诊106764例-累计接种新冠疫苗近30.3亿剂次](https://m.caixin.com/m/2022-02-11/101840496.html) 
+- [【武汉肺炎防疫全纪录(财新网)】2022-02-11-最新海外疫情：新冠感染超4.05亿-累计接种新冠疫苗超102.2亿剂次](https://m.caixin.com/m/2022-02-11/101840493.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2022-02-11-韩国轻症患者不得不自行治疗-荷兰拟放弃大部分限制｜大流行手记（2月10日）](https://m.caixin.com/m/2022-02-11/101840205.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2022-02-10-百色防疫物资告急已做多轮全员核酸，辽宁葫芦岛市疫情抬头](https://m.caixin.com/m/2022-02-10/101840019.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2022-02-10-严防“物传人”-杭州部分进口商品专业卖场暂停经营](https://m.caixin.com/m/2022-02-10/101839784.html) 
-- [【武汉肺炎防疫全纪录(财新网)】2022-02-10-最新海外疫情：新冠感染超4.02亿-累计接种新冠疫苗超101.98亿剂次](https://m.caixin.com/m/2022-02-10/101839989.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2022-02-10-【境内疫情观察】广西新增7例本土病例（2月9日）](https://database.caixin.com/m/2022-02-10/101839821.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2022-02-10-美计划为5岁以下儿童接种疫苗-全球病例超4亿｜大流行手记（2月9日）](https://m.caixin.com/m/2022-02-10/101839650.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2022-02-09-美野生白尾鹿被发现染奥密克戎-或由人类溢出](https://science.caixin.com/m/2022-02-09/101839538.html) 
@@ -146,7 +146,6 @@
 - [【V2EX】2022-02-11-想出一个正在运营的微信小程序](https://www.v2ex.com/t/833183) 
 - [【V2EX】2022-02-11-京东微软鼠标保修-1-年,如果买"原厂服务-4-年升级换新-￥-29.00"是不是等于保修-4-年?](https://www.v2ex.com/t/833180) 
 - [【V2EX】2022-02-11-视频小白求助：安卓手机录制的-mp4-格式视频无法在-macbook-pro-和-iPhone-上播放](https://www.v2ex.com/t/833179) 
-- [【V2EX】2022-02-11-外地人从杭州入境，如何完成“7-天居家隔离”？](https://www.v2ex.com/t/833178) 
 - [【技术头条】2022-02-11-Cucumber测试实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14935&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fcucumber-testing-practice%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-02-11-5款最佳最牛代码比较神器-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14934&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493248%26amp%3Bidx%3D1%26amp%3Bsn%3D50bb00a7204f2595e19bba088152c56a%26amp%3Bchksm%3Dfa3f07dbcd488ecd96ab648174c45d2d5085db9e8ad2ec47e80bba1e6580f7d7158761183317%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-02-11-在GitHub上提交代码必备指南！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14933&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493238%26amp%3Bidx%3D1%26amp%3Bsn%3Db92e65ee96d1c998d823b55d7fafc234%26amp%3Bchksm%3Dfa3f072dcd488e3b997e0b9b4b48f5c4de6513c91fd46a4d1bde7bb89bf61af7c319e2d5dfff%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -172,23 +171,23 @@
 - [【开发者头条】2022-02-11-Redis-在-vivo-推送平台的应用与优化实践](https://toutiao.io/k/on9i9p4) 
 - [【开发者头条】2022-02-11-流量录制与回放在vivo的落地实践](https://toutiao.io/k/es8kiqb) 
 - [【开发者头条】2022-02-11-案例：知乎是怎么落地Istio的？](https://toutiao.io/k/7p0meht) 
-- [【开发者头条】2022-02-11-一文讲透大数据列存标准格式：Parquet](https://toutiao.io/k/lmke626) 
 - [【开发者头条】2022-02-11-担保这次能看懂！DDD落地数据库设计实战](https://toutiao.io/k/rg953es) 
+- [【开发者头条】2022-02-11-一文讲透大数据列存标准格式：Parquet](https://toutiao.io/k/lmke626) 
 - [【开发者头条】2022-02-11-如何设计一个复杂的业务系统？从对领域设计、云原生、微服务、中台的理解开始](https://toutiao.io/k/7zvfdzt) 
 - [【开发者头条】2022-02-11-【第2523期】搭建场景下的页面编译提速方案探索](https://toutiao.io/k/kydff3r) 
 - [【开发者头条】2022-02-11-Trino（Presto-SQL）新版本发布！](https://toutiao.io/k/v03xfke) 
 - [【开发者头条】2022-02-11-Cucumber测试实践](https://toutiao.io/k/je2y6ea) 
 - [【开发者头条】2022-02-11-这个Dubbo注册中心扩展，有点意思！](https://toutiao.io/k/p21t9eh) 
-- [【开发者头条】2022-02-11-独立开发变现周刊（第41期）：一个开源项目一个人每月收入8万美金](https://toutiao.io/k/lnq5xiv) 
 - [【开发者头条】2022-02-11-回望-2021-年大前端技术，未来可期！](https://toutiao.io/k/mycr10e) 
+- [【开发者头条】2022-02-11-独立开发变现周刊（第41期）：一个开源项目一个人每月收入8万美金](https://toutiao.io/k/lnq5xiv) 
 - [【开发者头条】2022-02-11-千万不要这么写SQL，有坑！](https://toutiao.io/k/7mphoiz) 
 - [【开发者头条】2022-02-11-Android-13-首个开发者预览版到来](https://toutiao.io/k/d2m85fr) 
 - [【开发者头条】2022-02-11-137-python|第八部分：并发网络编程（二）网络编程下](https://toutiao.io/k/arftq9n) 
 - [【开发者头条】2022-02-11-大型有状态服务基于-K8s-的落地实践——按部门租户隔离](https://toutiao.io/k/mn4oh6q) 
-- [【开发者头条】2022-02-11-推荐-真香啊！接私活必备的-N-个开源项目（附源码合集第一期）！收藏走起！](https://toutiao.io/k/he7umju) 
 - [【开发者头条】2022-02-11-推荐-作为研发Leader，如何做总结](https://toutiao.io/k/1g7flto) 
-- [【开发者头条】2022-02-11-推荐-百度和米哈游的Golang面试经验分享](https://toutiao.io/k/q0sox0k) 
 - [【开发者头条】2022-02-11-推荐-阿里专家：如何画出优秀的架构图？](https://toutiao.io/k/92sk26n) 
+- [【开发者头条】2022-02-11-推荐-真香啊！接私活必备的-N-个开源项目（附源码合集第一期）！收藏走起！](https://toutiao.io/k/he7umju) 
+- [【开发者头条】2022-02-11-推荐-百度和米哈游的Golang面试经验分享](https://toutiao.io/k/q0sox0k) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

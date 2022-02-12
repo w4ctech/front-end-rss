@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-12 15:42:26，:rocket: 更新条数: +1874， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-12 15:54:41，:rocket: 更新条数: +1875， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,11 @@
 </summary>
 
 
+- [2022-02-12-楼上晚上睡觉时间总是发出噪音，如何才能安静的睡觉？](https://www.v2ex.com/t/833484) ![](assets/new.png)  
+- [2022-02-12-情人节到了，手摸手教女友撸代码心跳代码❤️](https://www.v2ex.com/t/833482) ![](assets/new.png)  
+- [2022-02-12-我编译安装了系统组件例如-zlib-openssl-openssh，现在出于某些原因我想还原成包管理版本，直接-reinstall-可以吗](https://www.v2ex.com/t/833481) ![](assets/new.png)  
+- [2022-02-12-请教一下各位大佬关于家用宽带-IPV6-公网的问题](https://www.v2ex.com/t/833480) ![](assets/new.png)  
+- [2022-02-12-Apple-Watch-蜂窝版什么时候能全球“全网通”？](https://www.v2ex.com/t/833479) ![](assets/new.png)  
 - [2022-02-12-使用中国移动-APP-的本机号码一键登录，登录之后是陌生账号？](https://www.v2ex.com/t/833478) ![](assets/new.png)  
 - [2022-02-12-2022-年了，不知道微软会不会砍掉-uwp](https://www.v2ex.com/t/833477) ![](assets/new.png)  
 - [2022-02-12-谈谈我对色盲的理解](https://www.v2ex.com/t/833476) ![](assets/new.png)  
@@ -506,11 +511,6 @@
 - [2022-02-12-Netflix-土区开车-季付-30](https://www.v2ex.com/t/833464) ![](assets/new.png)  
 - [2022-02-12-求推荐儿童单车](https://www.v2ex.com/t/833463) ![](assets/new.png)  
 - [2022-02-12-V-友们知道怎么把牙齿变白吗](https://www.v2ex.com/t/833462) ![](assets/new.png)  
-- [2022-02-12-限免-与众不同的-MacOS-浏览器](https://www.v2ex.com/t/833461) ![](assets/new.png)  
-- [2022-02-12-Python-能否-mock-函数，只获取入参或返回值，不改变函数逻辑？](https://www.v2ex.com/t/833460) ![](assets/new.png)  
-- [2022-02-12-给-zsh-自定义命令添加参数自动补全](https://www.v2ex.com/t/833459) ![](assets/new.png)  
-- [2022-02-12-GCP-不能注册了？](https://www.v2ex.com/t/833458) ![](assets/new.png)  
-- [2022-02-12-android-盒子/电视如何开机启动指定-APP](https://www.v2ex.com/t/833456) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -559,14 +559,14 @@
 - [2022-02-12-从0到1剖析并编码实现短链系统](https://toutiao.io/k/n9hfkus) ![](assets/new.png)  
 - [2022-02-12-冰墩墩官方NFT盲盒开售；蚂蚁高P何昌华离职；极狐正式发布GitLabSaaS｜开发者头条](https://toutiao.io/k/vysw00t) ![](assets/new.png)  
 - [2022-02-12-解构流存储-—-Pravega，与-Flink-构建端到端的大数据流水处理线](https://toutiao.io/k/ksw7b48) ![](assets/new.png)  
-- [2022-02-12-谈谈我这些年对前端框架的理解](https://toutiao.io/k/zy2njkc) ![](assets/new.png)  
 - [2022-02-12-Salesforce架构师的10大原则](https://toutiao.io/k/dh89y23) ![](assets/new.png)  
+- [2022-02-12-谈谈我这些年对前端框架的理解](https://toutiao.io/k/zy2njkc) ![](assets/new.png)  
 - [2022-02-12-删库跑路大神的一生：曾在家造炸弹被捕，现卖房押宝-NFT，原是开源创业之星](https://toutiao.io/k/omqguov) ![](assets/new.png)  
-- [2022-02-12-推荐-作为研发Leader，如何做总结](https://toutiao.io/k/1g7flto) ![](assets/new.png)  
-- [2022-02-12-推荐-支付系统架构设计详解](https://toutiao.io/k/5tx1zgw) ![](assets/new.png)  
+- [2022-02-12-推荐-阿里专家：如何画出优秀的架构图？](https://toutiao.io/k/92sk26n) ![](assets/new.png)  
 - [2022-02-12-推荐-百度和米哈游的Golang面试经验分享](https://toutiao.io/k/q0sox0k) ![](assets/new.png)  
 - [2022-02-12-推荐-真香啊！接私活必备的-N-个开源项目（附源码合集第一期）！收藏走起！](https://toutiao.io/k/he7umju) ![](assets/new.png)  
-- [2022-02-12-推荐-阿里专家：如何画出优秀的架构图？](https://toutiao.io/k/92sk26n) ![](assets/new.png)  
+- [2022-02-12-推荐-支付系统架构设计详解](https://toutiao.io/k/5tx1zgw) ![](assets/new.png)  
+- [2022-02-12-推荐-作为研发Leader，如何做总结](https://toutiao.io/k/1g7flto) ![](assets/new.png)  
 - [2022-02-12-推荐-Go-原生并发原语和最佳实践](https://toutiao.io/k/rdpao5x) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

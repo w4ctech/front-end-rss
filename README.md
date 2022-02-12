@@ -11,11 +11,11 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-12 22:19:36，:rocket: 更新条数: +86， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-12 22:36:37，:rocket: 更新条数: +1877， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
@@ -65,6 +65,26 @@
 </summary>
 
 
+- [2022-02-12-最新疫情：全国新冠累计确诊106863例-累计接种新冠疫苗超30.36亿剂次](https://m.caixin.com/m/2022-02-12/101841012.html) ![](assets/new.png)  
+- [2022-02-12-新冠后遗症：遗忘的角落](https://m.caixin.com/m/2022-02-12/101841104.html) ![](assets/new.png)  
+- [2022-02-12-辉瑞新冠口服药获中国药监局附条件批准-全球预计今年可提供1.2亿疗程](https://m.caixin.com/m/2022-02-12/101840963.html) ![](assets/new.png)  
+- [2022-02-12-最新海外疫情：新冠感染超4.07亿-累计接种新冠疫苗超102.45亿剂次](https://m.caixin.com/m/2022-02-12/101841009.html) ![](assets/new.png)  
+- [2022-02-12-【境内疫情观察】全国新增40例本土病例（2月11日）](https://database.caixin.com/m/2022-02-12/101840997.html) ![](assets/new.png)  
+- [2022-02-12-礼来将向美国供应60万剂新冠抗体，辉瑞口服药可进口中国｜大流行手记（2月11日）](https://m.caixin.com/m/2022-02-12/101840901.html) ![](assets/new.png)  
+- [2022-02-11-香港本地疫情持续恶化-港澳办称内地将“有求必应”](https://m.caixin.com/m/2022-02-11/101840642.html) ![](assets/new.png)  
+- [2022-02-11-【境内疫情观察】全国新增56例本土病例（2月10日）](https://database.caixin.com/m/2022-02-11/101840505.html) ![](assets/new.png)  
+- [2022-02-11-韩国轻症患者不得不自行治疗-荷兰拟放弃大部分限制｜大流行手记（2月10日）](https://m.caixin.com/m/2022-02-11/101840205.html) ![](assets/new.png)  
+- [2022-02-10-百色防疫物资告急已做多轮全员核酸，辽宁葫芦岛市疫情抬头](https://m.caixin.com/m/2022-02-10/101840019.html) ![](assets/new.png)  
+- [2022-02-10-严防“物传人”-杭州部分进口商品专业卖场暂停经营](https://m.caixin.com/m/2022-02-10/101839784.html) ![](assets/new.png)  
+- [2022-02-10-【境内疫情观察】广西新增7例本土病例（2月9日）](https://database.caixin.com/m/2022-02-10/101839821.html) ![](assets/new.png)  
+- [2022-02-10-美计划为5岁以下儿童接种疫苗-全球病例超4亿｜大流行手记（2月9日）](https://m.caixin.com/m/2022-02-10/101839650.html) ![](assets/new.png)  
+- [2022-02-09-香港日增病例破千-医院急诊室严重超负荷](https://m.caixin.com/m/2022-02-09/101839506.html) ![](assets/new.png)  
+- [2022-02-09-严防新冠病毒“物传人”-深圳罗湖暂停入境邮件派送](https://m.caixin.com/m/2022-02-09/101839414.html) ![](assets/new.png)  
+- [2022-02-09-不打疫苗不能理发-香港全面推行疫苗通行证](https://m.caixin.com/m/2022-02-09/101839260.html) ![](assets/new.png)  
+- [2022-02-09-【境内疫情观察】广西新增72例本土病例（2月8日）](https://database.caixin.com/m/2022-02-09/101839339.html) ![](assets/new.png)  
+- [2022-02-09-意大利取消户外口罩令，美国多州取消校园口罩令｜大流行手记（2月8日）](https://m.caixin.com/m/2022-02-09/101839221.html) ![](assets/new.png)  
+- [2022-02-09-新冠为何致嗅觉失灵-《细胞》研究给出生物学解释](https://science.caixin.com/m/2022-02-09/101839294.html) ![](assets/new.png)  
+- [2022-02-09-美野生白尾鹿被发现染奥密克戎-或由人类溢出](https://science.caixin.com/m/2022-02-09/101839538.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -542,13 +562,13 @@
 - [2022-02-12-解构流存储-—-Pravega，与-Flink-构建端到端的大数据流水处理线](https://toutiao.io/k/ksw7b48) ![](assets/new.png)  
 - [2022-02-12-谈谈我这些年对前端框架的理解](https://toutiao.io/k/zy2njkc) ![](assets/new.png)  
 - [2022-02-12-删库跑路大神的一生：曾在家造炸弹被捕，现卖房押宝-NFT，原是开源创业之星](https://toutiao.io/k/omqguov) ![](assets/new.png)  
-- [2022-02-12-推荐-百度和米哈游的Golang面试经验分享](https://toutiao.io/k/q0sox0k) ![](assets/new.png)  
-- [2022-02-12-推荐-神器-Nginx-的学习手册-建议收藏-](https://toutiao.io/k/6f1qaso) ![](assets/new.png)  
-- [2022-02-12-推荐-支付系统架构设计详解](https://toutiao.io/k/5tx1zgw) ![](assets/new.png)  
-- [2022-02-12-推荐-真香啊！接私活必备的-N-个开源项目（附源码合集第一期）！收藏走起！](https://toutiao.io/k/he7umju) ![](assets/new.png)  
-- [2022-02-12-推荐-作为研发Leader，如何做总结](https://toutiao.io/k/1g7flto) ![](assets/new.png)  
-- [2022-02-12-推荐-阿里专家：如何画出优秀的架构图？](https://toutiao.io/k/92sk26n) ![](assets/new.png)  
 - [2022-02-12-推荐-Go-原生并发原语和最佳实践](https://toutiao.io/k/rdpao5x) ![](assets/new.png)  
+- [2022-02-12-推荐-百度和米哈游的Golang面试经验分享](https://toutiao.io/k/q0sox0k) ![](assets/new.png)  
+- [2022-02-12-推荐-作为研发Leader，如何做总结](https://toutiao.io/k/1g7flto) ![](assets/new.png)  
+- [2022-02-12-推荐-真香啊！接私活必备的-N-个开源项目（附源码合集第一期）！收藏走起！](https://toutiao.io/k/he7umju) ![](assets/new.png)  
+- [2022-02-12-推荐-支付系统架构设计详解](https://toutiao.io/k/5tx1zgw) ![](assets/new.png)  
+- [2022-02-12-推荐-神器-Nginx-的学习手册-建议收藏-](https://toutiao.io/k/6f1qaso) ![](assets/new.png)  
+- [2022-02-12-推荐-阿里专家：如何画出优秀的架构图？](https://toutiao.io/k/92sk26n) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

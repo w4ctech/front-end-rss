@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-12 13:13:08，:rocket: 更新条数: +1869， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-12 13:21:27，:rocket: 更新条数: +1869， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-02-12-V-友们知道怎么把牙齿变白吗](https://www.v2ex.com/t/833462) ![](assets/new.png)  
 - [2022-02-12-限免-与众不同的-MacOS-浏览器](https://www.v2ex.com/t/833461) ![](assets/new.png)  
 - [2022-02-12-Python-能否-mock-函数，只获取入参或返回值，不改变函数逻辑？](https://www.v2ex.com/t/833460) ![](assets/new.png)  
 - [2022-02-12-给-zsh-自定义命令添加参数自动补全](https://www.v2ex.com/t/833459) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-02-12-在北京的兄弟们都是怎么脱单的啊](https://www.v2ex.com/t/833439) ![](assets/new.png)  
 - [2022-02-12-PHP-：假设上传文件接口高并发情况下，$_FILES'file''tmp_name'-这个由-PHP-生成的临时文件名，可能会重名，导致文件被覆盖吗？](https://www.v2ex.com/t/833437) ![](assets/new.png)  
 - [2022-02-12-准备换工作了，求大佬们指导](https://www.v2ex.com/t/833436) ![](assets/new.png)  
-- [2022-02-12-想辞职](https://www.v2ex.com/t/833434) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -562,12 +562,12 @@
 - [2022-02-12-删库跑路大神的一生：曾在家造炸弹被捕，现卖房押宝-NFT，原是开源创业之星](https://toutiao.io/k/omqguov) ![](assets/new.png)  
 - [2022-02-12-解构流存储-—-Pravega，与-Flink-构建端到端的大数据流水处理线](https://toutiao.io/k/ksw7b48) ![](assets/new.png)  
 - [2022-02-12-Salesforce架构师的10大原则](https://toutiao.io/k/dh89y23) ![](assets/new.png)  
+- [2022-02-12-推荐-作为研发Leader，如何做总结](https://toutiao.io/k/1g7flto) ![](assets/new.png)  
+- [2022-02-12-推荐-阿里专家：如何画出优秀的架构图？](https://toutiao.io/k/92sk26n) ![](assets/new.png)  
 - [2022-02-12-推荐-Go-原生并发原语和最佳实践](https://toutiao.io/k/rdpao5x) ![](assets/new.png)  
 - [2022-02-12-推荐-百度和米哈游的Golang面试经验分享](https://toutiao.io/k/q0sox0k) ![](assets/new.png)  
 - [2022-02-12-推荐-真香啊！接私活必备的-N-个开源项目（附源码合集第一期）！收藏走起！](https://toutiao.io/k/he7umju) ![](assets/new.png)  
-- [2022-02-12-推荐-作为研发Leader，如何做总结](https://toutiao.io/k/1g7flto) ![](assets/new.png)  
 - [2022-02-12-推荐-支付系统架构设计详解](https://toutiao.io/k/5tx1zgw) ![](assets/new.png)  
-- [2022-02-12-推荐-阿里专家：如何画出优秀的架构图？](https://toutiao.io/k/92sk26n) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

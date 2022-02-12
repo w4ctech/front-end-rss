@@ -9223,6 +9223,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "android 盒子/电视如何开机启动指定 APP",
+        "link": "https://www.v2ex.com/t/833456",
+        "date": "2022-02-12"
+      },
+      {
         "title": "在 SMR 笔记本硬盘上编译大项目真的很恶心",
         "link": "https://www.v2ex.com/t/833455",
         "date": "2022-02-12"
@@ -9391,11 +9396,6 @@
         "title": "怎么开始一个属于自己的小“项目”呢？",
         "link": "https://www.v2ex.com/t/833407",
         "date": "2022-02-12"
-      },
-      {
-        "title": "Swift 写的 dev toys for mac",
-        "link": "https://www.v2ex.com/t/833406",
-        "date": "2022-02-12"
       }
     ]
   },
@@ -9557,8 +9557,8 @@
         "date": "2022-02-12"
       },
       {
-        "title": "[推荐] 阿里专家：如何画出优秀的架构图？",
-        "link": "https://toutiao.io/k/92sk26n",
+        "title": "[推荐] 真香啊！接私活必备的 N 个开源项目（附源码合集第一期）！收藏走起！",
+        "link": "https://toutiao.io/k/he7umju",
         "date": "2022-02-12"
       },
       {
@@ -9567,8 +9567,8 @@
         "date": "2022-02-12"
       },
       {
-        "title": "[推荐] 真香啊！接私活必备的 N 个开源项目（附源码合集第一期）！收藏走起！",
-        "link": "https://toutiao.io/k/he7umju",
+        "title": "[推荐] Go 原生并发原语和最佳实践",
+        "link": "https://toutiao.io/k/rdpao5x",
         "date": "2022-02-12"
       },
       {
@@ -9582,8 +9582,8 @@
         "date": "2022-02-12"
       },
       {
-        "title": "[推荐] Go 原生并发原语和最佳实践",
-        "link": "https://toutiao.io/k/rdpao5x",
+        "title": "[推荐] 阿里专家：如何画出优秀的架构图？",
+        "link": "https://toutiao.io/k/92sk26n",
         "date": "2022-02-12"
       }
     ]

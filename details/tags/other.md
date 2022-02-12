@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-02-12 07:54:33。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-12 08:14:17。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1768,6 +1768,8 @@
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2022-02-04-HTML-inputmode与iOS-Android软键盘类型测试](https://www.zhangxinxu.com/wordpress/2022/02/html-inputmode-keyboard/) 
 - [2021-11-14-密码强度效果最佳实现一定是HTML-meter元素](https://www.zhangxinxu.com/wordpress/2021/11/html-meter-password/) 
+- [2022-02-12-电池健康度跌得很快](https://www.v2ex.com/t/833412) 
+- [2022-02-12-2022-年-FreeBSD-手册中文翻译项目](https://www.v2ex.com/t/833411) 
 - [2022-02-12-springboot-项目主备切换](https://www.v2ex.com/t/833410) 
 - [2022-02-12-想搭建个远程下载的主机，有什么不错的低成本、低功耗解决方案么？](https://www.v2ex.com/t/833409) 
 - [2022-02-12-云闪付-绑定了自己的所有卡后-还能绑定家人的卡吗](https://www.v2ex.com/t/833408) 
@@ -1796,9 +1798,6 @@
 - [2022-02-12-请教，自建-matrix-synapse-聊天关于联系人备注问题](https://www.v2ex.com/t/833369) 
 - [2022-02-12-今年的情人节，给心爱的她一个不一样的礼物吧](https://www.v2ex.com/t/833368) 
 - [2022-02-12-openwrt-使用-tproxy-只传输-tcp，-一直不成功](https://www.v2ex.com/t/833367) 
-- [2022-02-12-windows-的这种进程怎么才能-kill](https://www.v2ex.com/t/833363) 
-- [2022-02-12-请问大家是如何保存账号的恢复代码的？](https://www.v2ex.com/t/833362) 
-- [2022-02-12-Clarity-智能合约开发语言编程风格](https://www.v2ex.com/t/833361) 
 - [2022-02-12-怎样避免纠结，快速决策？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14936&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fmake-effective-decisions%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-02-12-Cucumber测试实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14935&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fcucumber-testing-practice%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-02-12-5款最佳最牛代码比较神器-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14934&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493248%26amp%3Bidx%3D1%26amp%3Bsn%3D50bb00a7204f2595e19bba088152c56a%26amp%3Bchksm%3Dfa3f07dbcd488ecd96ab648174c45d2d5085db9e8ad2ec47e80bba1e6580f7d7158761183317%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1822,9 +1821,8 @@
 - [2022-02-12-谈谈我这些年对前端框架的理解](https://toutiao.io/k/zy2njkc) 
 - [2022-02-12-删库跑路大神的一生：曾在家造炸弹被捕，现卖房押宝-NFT，原是开源创业之星](https://toutiao.io/k/omqguov) 
 - [2022-02-12-Salesforce架构师的10大原则](https://toutiao.io/k/dh89y23) 
-- [2022-02-12-API快速开发平台设计思考](https://toutiao.io/k/t3f4ydd) 
-- [2022-02-12-推荐-Go-原生并发原语和最佳实践](https://toutiao.io/k/rdpao5x) 
-- [2022-02-12-推荐-真香啊！接私活必备的-N-个开源项目（附源码合集第一期）！收藏走起！](https://toutiao.io/k/he7umju) 
+- [2022-02-12-推荐-支付系统架构设计详解](https://toutiao.io/k/5tx1zgw) 
 - [2022-02-12-推荐-阿里专家：如何画出优秀的架构图？](https://toutiao.io/k/92sk26n) 
 - [2022-02-12-推荐-作为研发Leader，如何做总结](https://toutiao.io/k/1g7flto) 
-- [2022-02-12-推荐-支付系统架构设计详解](https://toutiao.io/k/5tx1zgw) 
+- [2022-02-12-推荐-真香啊！接私活必备的-N-个开源项目（附源码合集第一期）！收藏走起！](https://toutiao.io/k/he7umju) 
+- [2022-02-12-推荐-Go-原生并发原语和最佳实践](https://toutiao.io/k/rdpao5x) 

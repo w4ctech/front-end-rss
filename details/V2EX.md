@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2022-02-12 07:54:33。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-12 08:14:18。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-02-12-电池健康度跌得很快](https://www.v2ex.com/t/833412) 
+- [2022-02-12-2022-年-FreeBSD-手册中文翻译项目](https://www.v2ex.com/t/833411) 
 - [2022-02-12-springboot-项目主备切换](https://www.v2ex.com/t/833410) 
 - [2022-02-12-想搭建个远程下载的主机，有什么不错的低成本、低功耗解决方案么？](https://www.v2ex.com/t/833409) 
 - [2022-02-12-云闪付-绑定了自己的所有卡后-还能绑定家人的卡吗](https://www.v2ex.com/t/833408) 
@@ -38,6 +40,3 @@
 - [2022-02-12-请教，自建-matrix-synapse-聊天关于联系人备注问题](https://www.v2ex.com/t/833369) 
 - [2022-02-12-今年的情人节，给心爱的她一个不一样的礼物吧](https://www.v2ex.com/t/833368) 
 - [2022-02-12-openwrt-使用-tproxy-只传输-tcp，-一直不成功](https://www.v2ex.com/t/833367) 
-- [2022-02-12-windows-的这种进程怎么才能-kill](https://www.v2ex.com/t/833363) 
-- [2022-02-12-请问大家是如何保存账号的恢复代码的？](https://www.v2ex.com/t/833362) 
-- [2022-02-12-Clarity-智能合约开发语言编程风格](https://www.v2ex.com/t/833361) 

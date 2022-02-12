@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-12 07:54:33，:rocket: 更新条数: +1871， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-12 08:14:17，:rocket: 更新条数: +1869， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-02-12-电池健康度跌得很快](https://www.v2ex.com/t/833412) ![](assets/new.png)  
+- [2022-02-12-2022-年-FreeBSD-手册中文翻译项目](https://www.v2ex.com/t/833411) ![](assets/new.png)  
 - [2022-02-12-springboot-项目主备切换](https://www.v2ex.com/t/833410) ![](assets/new.png)  
 - [2022-02-12-想搭建个远程下载的主机，有什么不错的低成本、低功耗解决方案么？](https://www.v2ex.com/t/833409) ![](assets/new.png)  
 - [2022-02-12-云闪付-绑定了自己的所有卡后-还能绑定家人的卡吗](https://www.v2ex.com/t/833408) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-02-12-分享下成年人改名流程](https://www.v2ex.com/t/833390) ![](assets/new.png)  
 - [2022-02-12-升级-beta-版本后,界面、图标显示异常,有办法解决吗?](https://www.v2ex.com/t/833388) ![](assets/new.png)  
 - [2022-02-12-搞事情-汽车的车载终端预装软件无法卸载，是不是不符合工信部的相关要求？](https://www.v2ex.com/t/833387) ![](assets/new.png)  
-- [2022-02-12-MBP-2015-MID-15',更换电池及硬盘，希望有实战经验的出出注意~](https://www.v2ex.com/t/833386) ![](assets/new.png)  
-- [2022-02-12-iPad-Air3-屏幕一觉醒来绿线了](https://www.v2ex.com/t/833385) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -562,13 +562,12 @@
 - [2022-02-12-删库跑路大神的一生：曾在家造炸弹被捕，现卖房押宝-NFT，原是开源创业之星](https://toutiao.io/k/omqguov) ![](assets/new.png)  
 - [2022-02-12-解构流存储-—-Pravega，与-Flink-构建端到端的大数据流水处理线](https://toutiao.io/k/ksw7b48) ![](assets/new.png)  
 - [2022-02-12-Salesforce架构师的10大原则](https://toutiao.io/k/dh89y23) ![](assets/new.png)  
-- [2022-02-12-API快速开发平台设计思考](https://toutiao.io/k/t3f4ydd) ![](assets/new.png)  
-- [2022-02-12-推荐-Go-原生并发原语和最佳实践](https://toutiao.io/k/rdpao5x) ![](assets/new.png)  
-- [2022-02-12-推荐-真香啊！接私活必备的-N-个开源项目（附源码合集第一期）！收藏走起！](https://toutiao.io/k/he7umju) ![](assets/new.png)  
+- [2022-02-12-推荐-支付系统架构设计详解](https://toutiao.io/k/5tx1zgw) ![](assets/new.png)  
 - [2022-02-12-推荐-阿里专家：如何画出优秀的架构图？](https://toutiao.io/k/92sk26n) ![](assets/new.png)  
 - [2022-02-12-推荐-作为研发Leader，如何做总结](https://toutiao.io/k/1g7flto) ![](assets/new.png)  
-- [2022-02-12-推荐-支付系统架构设计详解](https://toutiao.io/k/5tx1zgw) ![](assets/new.png)  
+- [2022-02-12-推荐-真香啊！接私活必备的-N-个开源项目（附源码合集第一期）！收藏走起！](https://toutiao.io/k/he7umju) ![](assets/new.png)  
 - [2022-02-12-推荐-百度和米哈游的Golang面试经验分享](https://toutiao.io/k/q0sox0k) ![](assets/new.png)  
+- [2022-02-12-推荐-Go-原生并发原语和最佳实践](https://toutiao.io/k/rdpao5x) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

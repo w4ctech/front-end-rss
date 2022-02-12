@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-02-12 02:40:45。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-12 02:50:02。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1823,7 +1823,7 @@
 - [2022-02-12-20000字详解大厂实时数仓建设](https://toutiao.io/k/gc9jet5) 
 - [2022-02-12-删库跑路大神的一生：曾在家造炸弹被捕，现卖房押宝-NFT，原是开源创业之星](https://toutiao.io/k/omqguov) 
 - [2022-02-12-谈谈我这些年对前端框架的理解](https://toutiao.io/k/zy2njkc) 
-- [2022-02-12-推荐-作为研发Leader，如何做总结](https://toutiao.io/k/1g7flto) 
-- [2022-02-12-推荐-支付系统架构设计详解](https://toutiao.io/k/5tx1zgw) 
 - [2022-02-12-推荐-真香啊！接私活必备的-N-个开源项目（附源码合集第一期）！收藏走起！](https://toutiao.io/k/he7umju) 
+- [2022-02-12-推荐-支付系统架构设计详解](https://toutiao.io/k/5tx1zgw) 
 - [2022-02-12-推荐-阿里专家：如何画出优秀的架构图？](https://toutiao.io/k/92sk26n) 
+- [2022-02-12-推荐-作为研发Leader，如何做总结](https://toutiao.io/k/1g7flto) 

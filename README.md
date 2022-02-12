@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-12 03:20:36，:rocket: 更新条数: +1871， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-12 03:37:42，:rocket: 更新条数: +1871， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-02-12-说说前几天跟朋友开-ECG-V2-的经历把，供各位参考](https://www.v2ex.com/t/833360) ![](assets/new.png)  
+- [2022-02-12-远程运营-期望每日有-4-小时投入项目中，薪资-6-10k，可谈](https://www.v2ex.com/t/833359) ![](assets/new.png)  
 - [2022-02-12-公司项目接入三方支付如支付宝，需要做等级保护吗](https://www.v2ex.com/t/833357) ![](assets/new.png)  
 - [2022-02-12-一种用-raycast-将剪贴板图片上传到图床的设想](https://www.v2ex.com/t/833356) ![](assets/new.png)  
 - [2022-02-12-成都新房摇号太难了](https://www.v2ex.com/t/833355) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-02-11-响应式的图片-CDN](https://www.v2ex.com/t/833338) ![](assets/new.png)  
 - [2022-02-11-swiftui后端-crud-程序员想学-swiftui,可以在哪里学,应该怎么学？](https://www.v2ex.com/t/833337) ![](assets/new.png)  
 - [2022-02-11-观“公众号”的讨论有感](https://www.v2ex.com/t/833335) ![](assets/new.png)  
-- [2022-02-11-如何在语音聊天的时候同时分享电脑上正在播放的声音](https://www.v2ex.com/t/833334) ![](assets/new.png)  
-- [2022-02-11-authenticator-里面保存的密码怎么全删了？](https://www.v2ex.com/t/833332) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -561,11 +561,11 @@
 - [2022-02-12-删库跑路大神的一生：曾在家造炸弹被捕，现卖房押宝-NFT，原是开源创业之星](https://toutiao.io/k/omqguov) ![](assets/new.png)  
 - [2022-02-12-谈谈我这些年对前端框架的理解](https://toutiao.io/k/zy2njkc) ![](assets/new.png)  
 - [2022-02-12-解构流存储-—-Pravega，与-Flink-构建端到端的大数据流水处理线](https://toutiao.io/k/ksw7b48) ![](assets/new.png)  
-- [2022-02-12-推荐-百度和米哈游的Golang面试经验分享](https://toutiao.io/k/q0sox0k) ![](assets/new.png)  
 - [2022-02-12-推荐-阿里专家：如何画出优秀的架构图？](https://toutiao.io/k/92sk26n) ![](assets/new.png)  
-- [2022-02-12-推荐-真香啊！接私活必备的-N-个开源项目（附源码合集第一期）！收藏走起！](https://toutiao.io/k/he7umju) ![](assets/new.png)  
 - [2022-02-12-推荐-支付系统架构设计详解](https://toutiao.io/k/5tx1zgw) ![](assets/new.png)  
+- [2022-02-12-推荐-百度和米哈游的Golang面试经验分享](https://toutiao.io/k/q0sox0k) ![](assets/new.png)  
 - [2022-02-12-推荐-作为研发Leader，如何做总结](https://toutiao.io/k/1g7flto) ![](assets/new.png)  
+- [2022-02-12-推荐-真香啊！接私活必备的-N-个开源项目（附源码合集第一期）！收藏走起！](https://toutiao.io/k/he7umju) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

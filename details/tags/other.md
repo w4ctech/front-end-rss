@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-02-12 03:20:37。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-12 03:37:42。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1768,6 +1768,8 @@
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2022-02-04-HTML-inputmode与iOS-Android软键盘类型测试](https://www.zhangxinxu.com/wordpress/2022/02/html-inputmode-keyboard/) 
 - [2021-11-14-密码强度效果最佳实现一定是HTML-meter元素](https://www.zhangxinxu.com/wordpress/2021/11/html-meter-password/) 
+- [2022-02-12-说说前几天跟朋友开-ECG-V2-的经历把，供各位参考](https://www.v2ex.com/t/833360) 
+- [2022-02-12-远程运营-期望每日有-4-小时投入项目中，薪资-6-10k，可谈](https://www.v2ex.com/t/833359) 
 - [2022-02-12-公司项目接入三方支付如支付宝，需要做等级保护吗](https://www.v2ex.com/t/833357) 
 - [2022-02-12-成都新房摇号太难了](https://www.v2ex.com/t/833355) 
 - [2022-02-12-PCA-为什么归入无监督学习的范畴？](https://www.v2ex.com/t/833353) 
@@ -1799,7 +1801,6 @@
 - [2022-02-11-又是一年情人节，我做的这个小工具，肯定能让你平稳度过这一天...](https://www.v2ex.com/t/833314) 
 - [2022-02-11-下载-app-store-每日推荐文章的图片的捷径-谁有能用的-找了几个都不行](https://www.v2ex.com/t/833313) 
 - [2022-02-11-下雨天，笔记本应该怎么防水？](https://www.v2ex.com/t/833311) 
-- [2022-02-11-上海紧急DevOps---薪资待遇-要-k8s-落地经验以及-Python-精通](https://www.v2ex.com/t/833309) 
 - [2022-02-12-怎样避免纠结，快速决策？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14936&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fmake-effective-decisions%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-02-12-Cucumber测试实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14935&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fcucumber-testing-practice%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-02-12-5款最佳最牛代码比较神器-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14934&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493248%26amp%3Bidx%3D1%26amp%3Bsn%3D50bb00a7204f2595e19bba088152c56a%26amp%3Bchksm%3Dfa3f07dbcd488ecd96ab648174c45d2d5085db9e8ad2ec47e80bba1e6580f7d7158761183317%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1823,6 +1824,6 @@
 - [2022-02-12-删库跑路大神的一生：曾在家造炸弹被捕，现卖房押宝-NFT，原是开源创业之星](https://toutiao.io/k/omqguov) 
 - [2022-02-12-谈谈我这些年对前端框架的理解](https://toutiao.io/k/zy2njkc) 
 - [2022-02-12-推荐-阿里专家：如何画出优秀的架构图？](https://toutiao.io/k/92sk26n) 
-- [2022-02-12-推荐-真香啊！接私活必备的-N-个开源项目（附源码合集第一期）！收藏走起！](https://toutiao.io/k/he7umju) 
 - [2022-02-12-推荐-支付系统架构设计详解](https://toutiao.io/k/5tx1zgw) 
 - [2022-02-12-推荐-作为研发Leader，如何做总结](https://toutiao.io/k/1g7flto) 
+- [2022-02-12-推荐-真香啊！接私活必备的-N-个开源项目（附源码合集第一期）！收藏走起！](https://toutiao.io/k/he7umju) 

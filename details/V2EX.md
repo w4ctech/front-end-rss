@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2022-02-12 12:31:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-12 12:51:52。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-02-12-在-SMR-笔记本硬盘上编译大项目真的很恶心](https://www.v2ex.com/t/833455) 
+- [2022-02-12-一个基于缠论的-TradingView-指标系统](https://www.v2ex.com/t/833454) 
 - [2022-02-12-mx-master-3-鼠标飘逸卡顿，有办法解决吗？](https://www.v2ex.com/t/833453) 
 - [2022-02-12-不要意思各位，我又来向各位大佬请教了，本人玩-GitHub-两年了，最近一段时间才向一些开源项目勇敢的提-issue，最后被人采纳后很开心，我想知道怎样开始自己的第...](https://www.v2ex.com/t/833451) 
 - [2022-02-12-MacBook-Pro-2018，按下-Touch-Bar-上的-Siri-键，狂转的风扇会立马停止](https://www.v2ex.com/t/833449) 
@@ -38,4 +40,3 @@
 - [2022-02-12-云闪付-绑定了自己的所有卡后-还能绑定家人的卡吗](https://www.v2ex.com/t/833408) 
 - [2022-02-12-怎么开始一个属于自己的小“项目”呢？](https://www.v2ex.com/t/833407) 
 - [2022-02-12-Swift-写的-dev-toys-for-mac](https://www.v2ex.com/t/833406) 
-- [2022-02-12-分享一个根据-Typescript-文件自动生成-fastify-框架的-json-schema-的工具](https://www.v2ex.com/t/833404) 

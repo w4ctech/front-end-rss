@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-02-12 17:19:33。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-12 17:36:17。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1769,6 +1769,7 @@
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2022-02-04-HTML-inputmode与iOS-Android软键盘类型测试](https://www.zhangxinxu.com/wordpress/2022/02/html-inputmode-keyboard/) 
+- [2022-02-12-上帝打开一扇门，我却把它关上了](https://www.v2ex.com/t/833493) 
 - [2022-02-12-杭州租房-钱江世纪城](https://www.v2ex.com/t/833492) 
 - [2022-02-12-btc-双倍返？](https://www.v2ex.com/t/833491) 
 - [2022-02-12-SQL-语句求助，下述需求可否用一条语句优雅地实现？](https://www.v2ex.com/t/833489) 
@@ -1822,8 +1823,8 @@
 - [2022-02-12-Salesforce架构师的10大原则](https://toutiao.io/k/dh89y23) 
 - [2022-02-12-谈谈我这些年对前端框架的理解](https://toutiao.io/k/zy2njkc) 
 - [2022-02-12-删库跑路大神的一生：曾在家造炸弹被捕，现卖房押宝-NFT，原是开源创业之星](https://toutiao.io/k/omqguov) 
+- [2022-02-12-推荐-支付系统架构设计详解](https://toutiao.io/k/5tx1zgw) 
 - [2022-02-12-推荐-作为研发Leader，如何做总结](https://toutiao.io/k/1g7flto) 
-- [2022-02-12-推荐-Go-原生并发原语和最佳实践](https://toutiao.io/k/rdpao5x) 
 - [2022-02-12-推荐-真香啊！接私活必备的-N-个开源项目（附源码合集第一期）！收藏走起！](https://toutiao.io/k/he7umju) 
 - [2022-02-12-推荐-阿里专家：如何画出优秀的架构图？](https://toutiao.io/k/92sk26n) 
-- [2022-02-12-推荐-支付系统架构设计详解](https://toutiao.io/k/5tx1zgw) 
+- [2022-02-12-推荐-Go-原生并发原语和最佳实践](https://toutiao.io/k/rdpao5x) 

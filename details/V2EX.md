@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2022-02-12 14:18:33。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-12 14:36:18。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-02-12-关于-nodebb-后台查看用户修改发言记录](https://www.v2ex.com/t/833471) 
+- [2022-02-12-岳父想在上海找一份工作，求建议](https://www.v2ex.com/t/833470) 
 - [2022-02-12-微软暑期实习—求内推](https://www.v2ex.com/t/833469) 
 - [2022-02-12-求助：-macOS-12.3-beta2，-vscode-无法启动，删除重置之后完全无法加载](https://www.v2ex.com/t/833468) 
 - [2022-02-12-OneDrive-macOS-重启后“文件随选”设置消失](https://www.v2ex.com/t/833467) 
@@ -40,5 +42,3 @@
 - [2022-02-12-求一款-windows-上的-TODO-软件](https://www.v2ex.com/t/833426) 
 - [2022-02-12-博客服务器用-gentoo-感觉很不错，整个系统只需要-30MB-左右内存](https://www.v2ex.com/t/833424) 
 - [2022-02-12-dell-服务器断电后开机密码错误？！](https://www.v2ex.com/t/833423) 
-- [2022-02-12-Macbook-电源带来的噪音](https://www.v2ex.com/t/833422) 
-- [2022-02-12-远程Web3SolidityNFT-国际化元宇宙/数字收藏类初创项目，前端/后端/全栈/智能合约/自荐职位（021222-更新岗位信息）](https://www.v2ex.com/t/833421) 

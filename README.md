@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-12 01:15:03，:rocket: 更新条数: +1869， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-12 02:01:26，:rocket: 更新条数: +1872， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -65,7 +65,8 @@
 </summary>
 
 
-- [2022-02-11-最新疫情：全国新冠累计确诊106764例-累计接种新冠疫苗近30.3亿剂次](https://m.caixin.com/m/2022-02-11/101840496.html) ![](assets/new.png)  
+- [2022-02-12-2月11日全国新增新冠99例-本土广西30例辽宁10例](https://m.caixin.com/m/2022-02-12/101840861.html) ![](assets/new.png)  
+- [2022-02-12-国家药监局应急附条件批准辉瑞新冠治疗药物进口注册](https://m.caixin.com/m/2022-02-12/101840874.html) ![](assets/new.png)  
 - [2022-02-11-香港本地疫情持续恶化-港澳办称内地将“有求必应”](https://m.caixin.com/m/2022-02-11/101840642.html) ![](assets/new.png)  
 - [2022-02-11-最新海外疫情：新冠感染超4.05亿-累计接种新冠疫苗超102.2亿剂次](https://m.caixin.com/m/2022-02-11/101840493.html) ![](assets/new.png)  
 - [2022-02-11-【境内疫情观察】全国新增56例本土病例（2月10日）](https://database.caixin.com/m/2022-02-11/101840505.html) ![](assets/new.png)  
@@ -84,7 +85,6 @@
 - [2022-02-09-新加坡日增逾万病例-儿童感染比例较高](https://m.caixin.com/m/2022-02-09/101839178.html) ![](assets/new.png)  
 - [2022-02-08-深圳奥密克戎疫情已波及三省九市-百色疫情快速上升](https://m.caixin.com/m/2022-02-08/101838975.html) ![](assets/new.png)  
 - [2022-02-08-深圳五名跨境货车司机确诊-香港蔬菜价格飙升](https://m.caixin.com/m/2022-02-08/101838992.html) ![](assets/new.png)  
-- [2022-02-08-【境内疫情观察】广西新增64例本土病例（2月7日）](https://database.caixin.com/m/2022-02-08/101838906.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -491,6 +491,11 @@
 </summary>
 
 
+- [2022-02-12-PCA-为什么归入无监督学习的范畴？](https://www.v2ex.com/t/833353) ![](assets/new.png)  
+- [2022-02-12-字节可以内推简历~~~](https://www.v2ex.com/t/833352) ![](assets/new.png)  
+- [2022-02-12-在大城市，年龄越大越发觉得孤独，该怎么缓解这种情绪。](https://www.v2ex.com/t/833351) ![](assets/new.png)  
+- [2022-02-12-头一回感觉被拼多多恶心到…](https://www.v2ex.com/t/833350) ![](assets/new.png)  
+- [2022-02-12-请问下-google-drive-2t-有什么优惠的购买渠道](https://www.v2ex.com/t/833348) ![](assets/new.png)  
 - [2022-02-12-Apple-Watch-有换过电池的吗？健康度-80-了](https://www.v2ex.com/t/833347) ![](assets/new.png)  
 - [2022-02-12-武汉购房相关问题求教。](https://www.v2ex.com/t/833345) ![](assets/new.png)  
 - [2022-02-12-如何在服务器断电关机时立刻断开-ssh-client-的连接？](https://www.v2ex.com/t/833344) ![](assets/new.png)  
@@ -506,11 +511,6 @@
 - [2022-02-11-有规模使用微前端架构的老哥吗？请进来讲一下经验吧](https://www.v2ex.com/t/833331) ![](assets/new.png)  
 - [2022-02-11-有大神玩过-juniper-的无线-AP-吗？](https://www.v2ex.com/t/833330) ![](assets/new.png)  
 - [2022-02-11-本人从事-Java-工作-4-年了，做过的项目一直没有什么亮点突出。最近想咨询各位同行前辈么，帮忙推荐几个有突出亮点的开源微服务分布式项目，自己想关注一下，为...](https://www.v2ex.com/t/833328) ![](assets/new.png)  
-- [2022-02-11-请教-windows-bitlocker-仅通过恢复密钥能解密磁盘吗？](https://www.v2ex.com/t/833327) ![](assets/new.png)  
-- [2022-02-11-14-寸-Macbook-Pro-遇到扬声器问题](https://www.v2ex.com/t/833324) ![](assets/new.png)  
-- [2022-02-11-什么是大厂的视野](https://www.v2ex.com/t/833323) ![](assets/new.png)  
-- [2022-02-11-关于我在报期望薪资时报成税后薪资这一件事。](https://www.v2ex.com/t/833322) ![](assets/new.png)  
-- [2022-02-11-求-NAS-解决方案及-HDD-推荐](https://www.v2ex.com/t/833321) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -553,16 +553,19 @@
 </summary>
 
 
+- [2022-02-12-2022-年别再焦虑啦！加入我们！](https://toutiao.io/k/obimloc) ![](assets/new.png)  
 - [2022-02-12-从0到1剖析并编码实现短链系统](https://toutiao.io/k/n9hfkus) ![](assets/new.png)  
 - [2022-02-12-20000字详解大厂实时数仓建设](https://toutiao.io/k/gc9jet5) ![](assets/new.png)  
-- [2022-02-12-为什么不建议你用去-“!-=-null”-做判空？](https://toutiao.io/k/gbcl6q0) ![](assets/new.png)  
 - [2022-02-12-Redis-7.0-Multi-Part-AOF的设计和实现](https://toutiao.io/k/dtraf4e) ![](assets/new.png)  
-- [2022-02-12-你可能并不需要微前端](https://toutiao.io/k/8ev5rnd) ![](assets/new.png)  
+- [2022-02-12-冰墩墩官方NFT盲盒开售；蚂蚁高P何昌华离职；极狐正式发布GitLabSaaS｜开发者头条](https://toutiao.io/k/vysw00t) ![](assets/new.png)  
+- [2022-02-12-谈谈我这些年对前端框架的理解](https://toutiao.io/k/zy2njkc) ![](assets/new.png)  
+- [2022-02-12-删库跑路大神的一生：曾在家造炸弹被捕，现卖房押宝-NFT，原是开源创业之星](https://toutiao.io/k/omqguov) ![](assets/new.png)  
+- [2022-02-12-解构流存储-—-Pravega，与-Flink-构建端到端的大数据流水处理线](https://toutiao.io/k/ksw7b48) ![](assets/new.png)  
+- [2022-02-12-推荐-支付系统架构设计详解](https://toutiao.io/k/5tx1zgw) ![](assets/new.png)  
+- [2022-02-12-推荐-作为研发Leader，如何做总结](https://toutiao.io/k/1g7flto) ![](assets/new.png)  
+- [2022-02-12-推荐-阿里专家：如何画出优秀的架构图？](https://toutiao.io/k/92sk26n) ![](assets/new.png)  
 - [2022-02-12-推荐-真香啊！接私活必备的-N-个开源项目（附源码合集第一期）！收藏走起！](https://toutiao.io/k/he7umju) ![](assets/new.png)  
 - [2022-02-12-推荐-百度和米哈游的Golang面试经验分享](https://toutiao.io/k/q0sox0k) ![](assets/new.png)  
-- [2022-02-12-推荐-支付系统架构设计详解](https://toutiao.io/k/5tx1zgw) ![](assets/new.png)  
-- [2022-02-12-推荐-阿里专家：如何画出优秀的架构图？](https://toutiao.io/k/92sk26n) ![](assets/new.png)  
-- [2022-02-12-推荐-作为研发Leader，如何做总结](https://toutiao.io/k/1g7flto) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

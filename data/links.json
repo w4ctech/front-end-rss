@@ -9228,6 +9228,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "Java 正版服欢迎大家！立足美利坚，服务全球华人！",
+        "link": "https://www.v2ex.com/t/833499",
+        "date": "2022-02-12"
+      },
+      {
         "title": "Mac 怎么配合组合方向键进行片段选取？",
         "link": "https://www.v2ex.com/t/833498",
         "date": "2022-02-12"
@@ -9421,11 +9426,6 @@
         "title": "不要意思各位，我又来向各位大佬请教了，本人玩 GitHub 两年了，最近一段时间才向一些开源项目勇敢的提 issue，最后被人采纳后很开心，我想知道怎样开始自己的第...",
         "link": "https://www.v2ex.com/t/833451",
         "date": "2022-02-12"
-      },
-      {
-        "title": "MacBook Pro 2018，按下 Touch Bar 上的 Siri 键，狂转的风扇会立马停止",
-        "link": "https://www.v2ex.com/t/833449",
-        "date": "2022-02-12"
       }
     ]
   },
@@ -9592,18 +9592,8 @@
         "date": "2022-02-12"
       },
       {
-        "title": "[推荐] 作为研发Leader，如何做总结",
-        "link": "https://toutiao.io/k/1g7flto",
-        "date": "2022-02-12"
-      },
-      {
-        "title": "[推荐] Go 原生并发原语和最佳实践",
-        "link": "https://toutiao.io/k/rdpao5x",
-        "date": "2022-02-12"
-      },
-      {
-        "title": "[推荐] 支付系统架构设计详解",
-        "link": "https://toutiao.io/k/5tx1zgw",
+        "title": "[推荐] 阿里专家：如何画出优秀的架构图？",
+        "link": "https://toutiao.io/k/92sk26n",
         "date": "2022-02-12"
       },
       {
@@ -9612,13 +9602,23 @@
         "date": "2022-02-12"
       },
       {
+        "title": "[推荐] 支付系统架构设计详解",
+        "link": "https://toutiao.io/k/5tx1zgw",
+        "date": "2022-02-12"
+      },
+      {
+        "title": "[推荐] 作为研发Leader，如何做总结",
+        "link": "https://toutiao.io/k/1g7flto",
+        "date": "2022-02-12"
+      },
+      {
         "title": "[推荐] 真香啊！接私活必备的 N 个开源项目（附源码合集第一期）！收藏走起！",
         "link": "https://toutiao.io/k/he7umju",
         "date": "2022-02-12"
       },
       {
-        "title": "[推荐] 阿里专家：如何画出优秀的架构图？",
-        "link": "https://toutiao.io/k/92sk26n",
+        "title": "[推荐] Go 原生并发原语和最佳实践",
+        "link": "https://toutiao.io/k/rdpao5x",
         "date": "2022-02-12"
       }
     ]

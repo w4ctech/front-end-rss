@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2022-02-12 08:14:18。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-12 08:24:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-02-12-有给长辈买-miui-手机的吗?有没有一些长辈好用的小爱同学命令?](https://www.v2ex.com/t/833414) 
 - [2022-02-12-电池健康度跌得很快](https://www.v2ex.com/t/833412) 
 - [2022-02-12-2022-年-FreeBSD-手册中文翻译项目](https://www.v2ex.com/t/833411) 
 - [2022-02-12-springboot-项目主备切换](https://www.v2ex.com/t/833410) 

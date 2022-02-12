@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-12 11:17:33，:rocket: 更新条数: +1869， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-12 11:35:50，:rocket: 更新条数: +1869， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,9 @@
 </summary>
 
 
+- [2022-02-12-印度区-youtube-会员](https://www.v2ex.com/t/833447) ![](assets/new.png)  
+- [2022-02-12-闲置-vga-显示器与安卓手机的连接](https://www.v2ex.com/t/833446) ![](assets/new.png)  
+- [2022-02-12-我老板曾经对我说：结婚过日子，其实跟谁过都差不太多](https://www.v2ex.com/t/833445) ![](assets/new.png)  
 - [2022-02-12-新撸的全国省市区乡镇行政区划数据，持续更新中，欢迎下载把玩](https://www.v2ex.com/t/833442) ![](assets/new.png)  
 - [2022-02-12-短期工作经历要不要写在简历上？](https://www.v2ex.com/t/833441) ![](assets/new.png)  
 - [2022-02-12-黑客访谈-Gummo](https://www.v2ex.com/t/833440) ![](assets/new.png)  
@@ -508,9 +511,6 @@
 - [2022-02-12-Macbook-电源带来的噪音](https://www.v2ex.com/t/833422) ![](assets/new.png)  
 - [2022-02-12-远程Web3SolidityNFT-国际化元宇宙/数字收藏类初创项目，前端/后端/全栈/智能合约/自荐职位（021222-更新岗位信息）](https://www.v2ex.com/t/833421) ![](assets/new.png)  
 - [2022-02-12-在多台机器上用-docker-搭建-elasticseach，每台机器上一个。然后能用-kibana-监控他们，这算集群吗？可不可行？](https://www.v2ex.com/t/833419) ![](assets/new.png)  
-- [2022-02-12-南京有没推荐的-Java-培训，从零入门转行的那种](https://www.v2ex.com/t/833418) ![](assets/new.png)  
-- [2022-02-12-聊天关键词是怎么获取的呢？](https://www.v2ex.com/t/833415) ![](assets/new.png)  
-- [2022-02-12-有给长辈买-miui-手机的吗?有没有一些长辈好用的小爱同学命令?](https://www.v2ex.com/t/833414) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -565,9 +565,9 @@
 - [2022-02-12-推荐-阿里专家：如何画出优秀的架构图？](https://toutiao.io/k/92sk26n) ![](assets/new.png)  
 - [2022-02-12-推荐-百度和米哈游的Golang面试经验分享](https://toutiao.io/k/q0sox0k) ![](assets/new.png)  
 - [2022-02-12-推荐-真香啊！接私活必备的-N-个开源项目（附源码合集第一期）！收藏走起！](https://toutiao.io/k/he7umju) ![](assets/new.png)  
-- [2022-02-12-推荐-支付系统架构设计详解](https://toutiao.io/k/5tx1zgw) ![](assets/new.png)  
-- [2022-02-12-推荐-Go-原生并发原语和最佳实践](https://toutiao.io/k/rdpao5x) ![](assets/new.png)  
 - [2022-02-12-推荐-作为研发Leader，如何做总结](https://toutiao.io/k/1g7flto) ![](assets/new.png)  
+- [2022-02-12-推荐-Go-原生并发原语和最佳实践](https://toutiao.io/k/rdpao5x) ![](assets/new.png)  
+- [2022-02-12-推荐-支付系统架构设计详解](https://toutiao.io/k/5tx1zgw) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

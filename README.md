@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-12 14:39:53，:rocket: 更新条数: +1872， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-12 14:54:37，:rocket: 更新条数: +1873， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -66,6 +66,7 @@
 
 
 - [2022-02-12-最新疫情：全国新冠累计确诊106863例-累计接种新冠疫苗超30.36亿剂次](https://m.caixin.com/m/2022-02-12/101841012.html) ![](assets/new.png)  
+- [2022-02-12-新冠后遗症：遗忘的角落](https://m.caixin.com/m/2022-02-12/101841104.html) ![](assets/new.png)  
 - [2022-02-12-辉瑞新冠口服药获中国药监局附条件批准-全球预计今年可提供1.2亿疗程](https://m.caixin.com/m/2022-02-12/101840963.html) ![](assets/new.png)  
 - [2022-02-12-最新海外疫情：新冠感染超4.07亿-累计接种新冠疫苗超102.45亿剂次](https://m.caixin.com/m/2022-02-12/101841009.html) ![](assets/new.png)  
 - [2022-02-12-【境内疫情观察】全国新增40例本土病例（2月11日）](https://database.caixin.com/m/2022-02-12/101840997.html) ![](assets/new.png)  
@@ -84,7 +85,6 @@
 - [2022-02-09-意大利取消户外口罩令，美国多州取消校园口罩令｜大流行手记（2月8日）](https://m.caixin.com/m/2022-02-09/101839221.html) ![](assets/new.png)  
 - [2022-02-09-新冠为何致嗅觉失灵-《细胞》研究给出生物学解释](https://science.caixin.com/m/2022-02-09/101839294.html) ![](assets/new.png)  
 - [2022-02-09-美野生白尾鹿被发现染奥密克戎-或由人类溢出](https://science.caixin.com/m/2022-02-09/101839538.html) ![](assets/new.png)  
-- [2022-02-09-新加坡日增逾万病例-儿童感染比例较高](https://m.caixin.com/m/2022-02-09/101839178.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-02-12-25-万以内，新能源-suv-有什么推荐么？](https://www.v2ex.com/t/833473) ![](assets/new.png)  
 - [2022-02-12-关于-nodebb-后台查看用户修改发言记录](https://www.v2ex.com/t/833471) ![](assets/new.png)  
 - [2022-02-12-岳父想在上海找一份工作，求建议](https://www.v2ex.com/t/833470) ![](assets/new.png)  
 - [2022-02-12-微软暑期实习—求内推](https://www.v2ex.com/t/833469) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-02-12-一个基于缠论的-TradingView-指标系统](https://www.v2ex.com/t/833454) ![](assets/new.png)  
 - [2022-02-12-mx-master-3-鼠标飘逸卡顿，有办法解决吗？](https://www.v2ex.com/t/833453) ![](assets/new.png)  
 - [2022-02-12-不要意思各位，我又来向各位大佬请教了，本人玩-GitHub-两年了，最近一段时间才向一些开源项目勇敢的提-issue，最后被人采纳后很开心，我想知道怎样开始自己的第...](https://www.v2ex.com/t/833451) ![](assets/new.png)  
-- [2022-02-12-MacBook-Pro-2018，按下-Touch-Bar-上的-Siri-键，狂转的风扇会立马停止](https://www.v2ex.com/t/833449) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -562,12 +562,12 @@
 - [2022-02-12-解构流存储-—-Pravega，与-Flink-构建端到端的大数据流水处理线](https://toutiao.io/k/ksw7b48) ![](assets/new.png)  
 - [2022-02-12-删库跑路大神的一生：曾在家造炸弹被捕，现卖房押宝-NFT，原是开源创业之星](https://toutiao.io/k/omqguov) ![](assets/new.png)  
 - [2022-02-12-Salesforce架构师的10大原则](https://toutiao.io/k/dh89y23) ![](assets/new.png)  
-- [2022-02-12-推荐-百度和米哈游的Golang面试经验分享](https://toutiao.io/k/q0sox0k) ![](assets/new.png)  
-- [2022-02-12-推荐-作为研发Leader，如何做总结](https://toutiao.io/k/1g7flto) ![](assets/new.png)  
 - [2022-02-12-推荐-真香啊！接私活必备的-N-个开源项目（附源码合集第一期）！收藏走起！](https://toutiao.io/k/he7umju) ![](assets/new.png)  
 - [2022-02-12-推荐-支付系统架构设计详解](https://toutiao.io/k/5tx1zgw) ![](assets/new.png)  
 - [2022-02-12-推荐-阿里专家：如何画出优秀的架构图？](https://toutiao.io/k/92sk26n) ![](assets/new.png)  
+- [2022-02-12-推荐-作为研发Leader，如何做总结](https://toutiao.io/k/1g7flto) ![](assets/new.png)  
 - [2022-02-12-推荐-Go-原生并发原语和最佳实践](https://toutiao.io/k/rdpao5x) ![](assets/new.png)  
+- [2022-02-12-推荐-百度和米哈游的Golang面试经验分享](https://toutiao.io/k/q0sox0k) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

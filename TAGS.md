@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-02-12 13:54:37。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-12 14:10:56。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -295,7 +295,6 @@
 
 - [【V2EX】mx-master-3-鼠标飘逸卡顿，有办法解决吗？](https://www.v2ex.com/t/833453)
 - [【V2EX】远程Web3SolidityNFT-国际化元宇宙/数字收藏类初创项目，前端/后端/全栈/智能合约/自荐职位（021222-更新岗位信息）](https://www.v2ex.com/t/833421)
-- [【V2EX】在多台机器上用-docker-搭建-elasticseach，每台机器上一个。然后能用-kibana-监控他们，这算集群吗？可不可行？](https://www.v2ex.com/t/833419)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

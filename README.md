@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-12 09:40:44，:rocket: 更新条数: +1870， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-12 09:54:29，:rocket: 更新条数: +1870， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,10 @@
 </summary>
 
 
+- [2022-02-12-想辞职](https://www.v2ex.com/t/833434) ![](assets/new.png)  
+- [2022-02-12-旧版本比如-10.14-macos-要去哪里下呢？](https://www.v2ex.com/t/833433) ![](assets/new.png)  
+- [2022-02-12-Go-轮子项目集合贴](https://www.v2ex.com/t/833430) ![](assets/new.png)  
+- [2022-02-12-油猴脚本-写了个网页自动翻页脚本-东方永页机-，可以自动兼容-90%的网站](https://www.v2ex.com/t/833429) ![](assets/new.png)  
 - [2022-02-12-去年关闭了花呗，今天又关闭了白条，强烈建议大家都这么干](https://www.v2ex.com/t/833428) ![](assets/new.png)  
 - [2022-02-12-求一款-windows-上的-TODO-软件](https://www.v2ex.com/t/833426) ![](assets/new.png)  
 - [2022-02-12-博客服务器用-gentoo-感觉很不错，整个系统只需要-30MB-左右内存](https://www.v2ex.com/t/833424) ![](assets/new.png)  
@@ -507,10 +511,6 @@
 - [2022-02-12-想搭建个远程下载的主机，有什么不错的低成本、低功耗解决方案么？](https://www.v2ex.com/t/833409) ![](assets/new.png)  
 - [2022-02-12-云闪付-绑定了自己的所有卡后-还能绑定家人的卡吗](https://www.v2ex.com/t/833408) ![](assets/new.png)  
 - [2022-02-12-怎么开始一个属于自己的小“项目”呢？](https://www.v2ex.com/t/833407) ![](assets/new.png)  
-- [2022-02-12-Swift-写的-dev-toys-for-mac](https://www.v2ex.com/t/833406) ![](assets/new.png)  
-- [2022-02-12-分享一个根据-Typescript-文件自动生成-fastify-框架的-json-schema-的工具](https://www.v2ex.com/t/833404) ![](assets/new.png)  
-- [2022-02-12-Apple-Watch-ECG-问题](https://www.v2ex.com/t/833402) ![](assets/new.png)  
-- [2022-02-12-如何在-wordpress-的-post-列表那一页的上方，显示一段文字？](https://www.v2ex.com/t/833401) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -562,12 +562,12 @@
 - [2022-02-12-删库跑路大神的一生：曾在家造炸弹被捕，现卖房押宝-NFT，原是开源创业之星](https://toutiao.io/k/omqguov) ![](assets/new.png)  
 - [2022-02-12-解构流存储-—-Pravega，与-Flink-构建端到端的大数据流水处理线](https://toutiao.io/k/ksw7b48) ![](assets/new.png)  
 - [2022-02-12-Salesforce架构师的10大原则](https://toutiao.io/k/dh89y23) ![](assets/new.png)  
+- [2022-02-12-推荐-作为研发Leader，如何做总结](https://toutiao.io/k/1g7flto) ![](assets/new.png)  
+- [2022-02-12-推荐-百度和米哈游的Golang面试经验分享](https://toutiao.io/k/q0sox0k) ![](assets/new.png)  
+- [2022-02-12-推荐-Go-原生并发原语和最佳实践](https://toutiao.io/k/rdpao5x) ![](assets/new.png)  
+- [2022-02-12-推荐-阿里专家：如何画出优秀的架构图？](https://toutiao.io/k/92sk26n) ![](assets/new.png)  
 - [2022-02-12-推荐-真香啊！接私活必备的-N-个开源项目（附源码合集第一期）！收藏走起！](https://toutiao.io/k/he7umju) ![](assets/new.png)  
 - [2022-02-12-推荐-支付系统架构设计详解](https://toutiao.io/k/5tx1zgw) ![](assets/new.png)  
-- [2022-02-12-推荐-Go-原生并发原语和最佳实践](https://toutiao.io/k/rdpao5x) ![](assets/new.png)  
-- [2022-02-12-推荐-百度和米哈游的Golang面试经验分享](https://toutiao.io/k/q0sox0k) ![](assets/new.png)  
-- [2022-02-12-推荐-作为研发Leader，如何做总结](https://toutiao.io/k/1g7flto) ![](assets/new.png)  
-- [2022-02-12-推荐-阿里专家：如何画出优秀的架构图？](https://toutiao.io/k/92sk26n) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

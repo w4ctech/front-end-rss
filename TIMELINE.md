@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-02-12 14:54:37。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-02-12 15:11:41。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -114,7 +114,10 @@
 - [【武汉肺炎防疫全纪录(财新网)】2022-02-01-【境内疫情观察】全国累计接种新冠疫苗逾30亿剂次（1月31日）](https://database.caixin.com/m/2022-02-01/101837162.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2022-02-01-德国未实现接种目标-奥地利强制接种疫苗法律生效｜大流行手记（1月31日）](https://m.caixin.com/m/2022-02-01/101837106.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2022-02-01-聚焦｜张文宏：未来抗疫，是努力夺回正常生活的过程](https://opinion.caixin.com/m/2022-02-01/101837206.html) 
+- [【张鑫旭-鑫空间-鑫生活】2022-02-12-CSS-:not伪类选择器已支持复杂参数](https://www.zhangxinxu.com/wordpress/2022/02/css-not-pseudo-class-list-argument/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-02-04-HTML-inputmode与iOS-Android软键盘类型测试](https://www.zhangxinxu.com/wordpress/2022/02/html-inputmode-keyboard/) 
+- [【V2EX】2022-02-12-谈谈我对色盲的理解](https://www.v2ex.com/t/833476) 
+- [【V2EX】2022-02-12-2022-年初-20-万买什么车？](https://www.v2ex.com/t/833474) 
 - [【V2EX】2022-02-12-25-万以内，新能源-suv-有什么推荐么？](https://www.v2ex.com/t/833473) 
 - [【V2EX】2022-02-12-关于-nodebb-后台查看用户修改发言记录](https://www.v2ex.com/t/833471) 
 - [【V2EX】2022-02-12-岳父想在上海找一份工作，求建议](https://www.v2ex.com/t/833470) 
@@ -150,8 +153,6 @@
 - [【V2EX】2022-02-12-Go-轮子项目集合贴](https://www.v2ex.com/t/833430) 
 - [【V2EX】2022-02-12-油猴脚本-写了个网页自动翻页脚本-东方永页机-，可以自动兼容-90%的网站](https://www.v2ex.com/t/833429) 
 - [【V2EX】2022-02-12-去年关闭了花呗，今天又关闭了白条，强烈建议大家都这么干](https://www.v2ex.com/t/833428) 
-- [【V2EX】2022-02-12-求一款-windows-上的-TODO-软件](https://www.v2ex.com/t/833426) 
-- [【V2EX】2022-02-12-博客服务器用-gentoo-感觉很不错，整个系统只需要-30MB-左右内存](https://www.v2ex.com/t/833424) 
 - [【技术头条】2022-02-12-怎样避免纠结，快速决策？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14936&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fmake-effective-decisions%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-02-12-Cucumber测试实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14935&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fcucumber-testing-practice%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-02-12-5款最佳最牛代码比较神器-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14934&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493248%26amp%3Bidx%3D1%26amp%3Bsn%3D50bb00a7204f2595e19bba088152c56a%26amp%3Bchksm%3Dfa3f07dbcd488ecd96ab648174c45d2d5085db9e8ad2ec47e80bba1e6580f7d7158761183317%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -177,16 +178,16 @@
 - [【开发者头条】2022-02-12-20000字详解大厂实时数仓建设](https://toutiao.io/k/gc9jet5) 
 - [【开发者头条】2022-02-12-从0到1剖析并编码实现短链系统](https://toutiao.io/k/n9hfkus) 
 - [【开发者头条】2022-02-12-冰墩墩官方NFT盲盒开售；蚂蚁高P何昌华离职；极狐正式发布GitLabSaaS｜开发者头条](https://toutiao.io/k/vysw00t) 
-- [【开发者头条】2022-02-12-谈谈我这些年对前端框架的理解](https://toutiao.io/k/zy2njkc) 
 - [【开发者头条】2022-02-12-解构流存储-—-Pravega，与-Flink-构建端到端的大数据流水处理线](https://toutiao.io/k/ksw7b48) 
-- [【开发者头条】2022-02-12-删库跑路大神的一生：曾在家造炸弹被捕，现卖房押宝-NFT，原是开源创业之星](https://toutiao.io/k/omqguov) 
+- [【开发者头条】2022-02-12-谈谈我这些年对前端框架的理解](https://toutiao.io/k/zy2njkc) 
 - [【开发者头条】2022-02-12-Salesforce架构师的10大原则](https://toutiao.io/k/dh89y23) 
-- [【开发者头条】2022-02-12-推荐-真香啊！接私活必备的-N-个开源项目（附源码合集第一期）！收藏走起！](https://toutiao.io/k/he7umju) 
-- [【开发者头条】2022-02-12-推荐-支付系统架构设计详解](https://toutiao.io/k/5tx1zgw) 
-- [【开发者头条】2022-02-12-推荐-阿里专家：如何画出优秀的架构图？](https://toutiao.io/k/92sk26n) 
+- [【开发者头条】2022-02-12-删库跑路大神的一生：曾在家造炸弹被捕，现卖房押宝-NFT，原是开源创业之星](https://toutiao.io/k/omqguov) 
 - [【开发者头条】2022-02-12-推荐-作为研发Leader，如何做总结](https://toutiao.io/k/1g7flto) 
-- [【开发者头条】2022-02-12-推荐-Go-原生并发原语和最佳实践](https://toutiao.io/k/rdpao5x) 
 - [【开发者头条】2022-02-12-推荐-百度和米哈游的Golang面试经验分享](https://toutiao.io/k/q0sox0k) 
+- [【开发者头条】2022-02-12-推荐-支付系统架构设计详解](https://toutiao.io/k/5tx1zgw) 
+- [【开发者头条】2022-02-12-推荐-真香啊！接私活必备的-N-个开源项目（附源码合集第一期）！收藏走起！](https://toutiao.io/k/he7umju) 
+- [【开发者头条】2022-02-12-推荐-阿里专家：如何画出优秀的架构图？](https://toutiao.io/k/92sk26n) 
+- [【开发者头条】2022-02-12-推荐-Go-原生并发原语和最佳实践](https://toutiao.io/k/rdpao5x) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>
@@ -675,7 +676,6 @@
 - [【武汉肺炎防疫全纪录(财新网)】2021-11-01-甘肃天水市卫健委主任、疾控中心主任被免职](https://china.caixin.com/m/2021-11-01/101794412.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2021-11-01-【图集】上海迪士尼乐园因疫情影响闭园](https://photos.caixin.com/m/2021-11-01/101794371.html) 
 - [【张鑫旭-鑫空间-鑫生活】2021-11-23-从js-visibilitychange-Safari下无效说开去](https://www.zhangxinxu.com/wordpress/2021/11/js-visibilitychange-pagehide-lifecycle/) 
-- [【张鑫旭-鑫空间-鑫生活】2021-11-14-密码强度效果最佳实现一定是HTML-meter元素](https://www.zhangxinxu.com/wordpress/2021/11/html-meter-password/) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

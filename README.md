@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-12 14:54:37，:rocket: 更新条数: +1873， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-12 15:11:41，:rocket: 更新条数: +1873， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -316,6 +316,7 @@
 </summary>
 
 
+- [2022-02-12-CSS-:not伪类选择器已支持复杂参数](https://www.zhangxinxu.com/wordpress/2022/02/css-not-pseudo-class-list-argument/) ![](assets/new.png)  
 - [2022-02-04-HTML-inputmode与iOS-Android软键盘类型测试](https://www.zhangxinxu.com/wordpress/2022/02/html-inputmode-keyboard/) ![](assets/new.png)  
 - [2022-01-31-CSS-background背景图标的变色技巧](https://www.zhangxinxu.com/wordpress/2022/01/css-background-image-color/) ![](assets/new.png)  
 - [2022-01-14-纯CSS实现未读消息超过100自动显示为99+](https://www.zhangxinxu.com/wordpress/2022/01/css-show-diff-content-according-var/) ![](assets/new.png)  
@@ -325,7 +326,6 @@
 - [2021-12-13-你不知道的CSS-media查询与用户体验](https://www.zhangxinxu.com/wordpress/2021/12/css-meida-user-experience/) ![](assets/new.png)  
 - [2021-12-08-flex-end为什么overflow无法滚动及解决方法](https://www.zhangxinxu.com/wordpress/2021/12/flex-end-overflow/) ![](assets/new.png)  
 - [2021-11-23-从js-visibilitychange-Safari下无效说开去](https://www.zhangxinxu.com/wordpress/2021/11/js-visibilitychange-pagehide-lifecycle/) ![](assets/new.png)  
-- [2021-11-14-密码强度效果最佳实现一定是HTML-meter元素](https://www.zhangxinxu.com/wordpress/2021/11/html-meter-password/) ![](assets/new.png)  
 - [......【查看更多】......](./details/张鑫旭-鑫空间-鑫生活.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-02-12-谈谈我对色盲的理解](https://www.v2ex.com/t/833476) ![](assets/new.png)  
+- [2022-02-12-2022-年初-20-万买什么车？](https://www.v2ex.com/t/833474) ![](assets/new.png)  
 - [2022-02-12-25-万以内，新能源-suv-有什么推荐么？](https://www.v2ex.com/t/833473) ![](assets/new.png)  
 - [2022-02-12-关于-nodebb-后台查看用户修改发言记录](https://www.v2ex.com/t/833471) ![](assets/new.png)  
 - [2022-02-12-岳父想在上海找一份工作，求建议](https://www.v2ex.com/t/833470) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-02-12-android-盒子/电视如何开机启动指定-APP](https://www.v2ex.com/t/833456) ![](assets/new.png)  
 - [2022-02-12-在-SMR-笔记本硬盘上编译大项目真的很恶心](https://www.v2ex.com/t/833455) ![](assets/new.png)  
 - [2022-02-12-一个基于缠论的-TradingView-指标系统](https://www.v2ex.com/t/833454) ![](assets/new.png)  
-- [2022-02-12-mx-master-3-鼠标飘逸卡顿，有办法解决吗？](https://www.v2ex.com/t/833453) ![](assets/new.png)  
-- [2022-02-12-不要意思各位，我又来向各位大佬请教了，本人玩-GitHub-两年了，最近一段时间才向一些开源项目勇敢的提-issue，最后被人采纳后很开心，我想知道怎样开始自己的第...](https://www.v2ex.com/t/833451) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -558,16 +558,16 @@
 - [2022-02-12-20000字详解大厂实时数仓建设](https://toutiao.io/k/gc9jet5) ![](assets/new.png)  
 - [2022-02-12-从0到1剖析并编码实现短链系统](https://toutiao.io/k/n9hfkus) ![](assets/new.png)  
 - [2022-02-12-冰墩墩官方NFT盲盒开售；蚂蚁高P何昌华离职；极狐正式发布GitLabSaaS｜开发者头条](https://toutiao.io/k/vysw00t) ![](assets/new.png)  
-- [2022-02-12-谈谈我这些年对前端框架的理解](https://toutiao.io/k/zy2njkc) ![](assets/new.png)  
 - [2022-02-12-解构流存储-—-Pravega，与-Flink-构建端到端的大数据流水处理线](https://toutiao.io/k/ksw7b48) ![](assets/new.png)  
-- [2022-02-12-删库跑路大神的一生：曾在家造炸弹被捕，现卖房押宝-NFT，原是开源创业之星](https://toutiao.io/k/omqguov) ![](assets/new.png)  
+- [2022-02-12-谈谈我这些年对前端框架的理解](https://toutiao.io/k/zy2njkc) ![](assets/new.png)  
 - [2022-02-12-Salesforce架构师的10大原则](https://toutiao.io/k/dh89y23) ![](assets/new.png)  
-- [2022-02-12-推荐-真香啊！接私活必备的-N-个开源项目（附源码合集第一期）！收藏走起！](https://toutiao.io/k/he7umju) ![](assets/new.png)  
-- [2022-02-12-推荐-支付系统架构设计详解](https://toutiao.io/k/5tx1zgw) ![](assets/new.png)  
-- [2022-02-12-推荐-阿里专家：如何画出优秀的架构图？](https://toutiao.io/k/92sk26n) ![](assets/new.png)  
+- [2022-02-12-删库跑路大神的一生：曾在家造炸弹被捕，现卖房押宝-NFT，原是开源创业之星](https://toutiao.io/k/omqguov) ![](assets/new.png)  
 - [2022-02-12-推荐-作为研发Leader，如何做总结](https://toutiao.io/k/1g7flto) ![](assets/new.png)  
-- [2022-02-12-推荐-Go-原生并发原语和最佳实践](https://toutiao.io/k/rdpao5x) ![](assets/new.png)  
 - [2022-02-12-推荐-百度和米哈游的Golang面试经验分享](https://toutiao.io/k/q0sox0k) ![](assets/new.png)  
+- [2022-02-12-推荐-支付系统架构设计详解](https://toutiao.io/k/5tx1zgw) ![](assets/new.png)  
+- [2022-02-12-推荐-真香啊！接私活必备的-N-个开源项目（附源码合集第一期）！收藏走起！](https://toutiao.io/k/he7umju) ![](assets/new.png)  
+- [2022-02-12-推荐-阿里专家：如何画出优秀的架构图？](https://toutiao.io/k/92sk26n) ![](assets/new.png)  
+- [2022-02-12-推荐-Go-原生并发原语和最佳实践](https://toutiao.io/k/rdpao5x) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

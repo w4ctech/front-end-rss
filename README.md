@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-12 03:54:29，:rocket: 更新条数: +1869， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-12 04:15:23，:rocket: 更新条数: +1869， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -66,7 +66,7 @@
 
 
 - [2022-02-12-2月11日全国新增新冠99例-本土广西30例辽宁10例](https://m.caixin.com/m/2022-02-12/101840861.html) ![](assets/new.png)  
-- [2022-02-12-国家药监局应急附条件批准辉瑞新冠治疗药物进口注册](https://m.caixin.com/m/2022-02-12/101840874.html) ![](assets/new.png)  
+- [2022-02-12-辉瑞新冠口服药获中国药监局附条件批准-全球预计今年可提供1.2亿疗程](https://m.caixin.com/m/2022-02-12/101840963.html) ![](assets/new.png)  
 - [2022-02-12-礼来将向美国供应60万剂新冠抗体，辉瑞口服药可进口中国｜大流行手记（2月11日）](https://m.caixin.com/m/2022-02-12/101840901.html) ![](assets/new.png)  
 - [2022-02-11-香港本地疫情持续恶化-港澳办称内地将“有求必应”](https://m.caixin.com/m/2022-02-11/101840642.html) ![](assets/new.png)  
 - [2022-02-11-最新海外疫情：新冠感染超4.05亿-累计接种新冠疫苗超102.2亿剂次](https://m.caixin.com/m/2022-02-11/101840493.html) ![](assets/new.png)  
@@ -491,11 +491,11 @@
 </summary>
 
 
+- [2022-02-12-openwrt-使用-tproxy-只传输-tcp，-一直不成功](https://www.v2ex.com/t/833367) ![](assets/new.png)  
 - [2022-02-12-windows-的这种进程怎么才能-kill](https://www.v2ex.com/t/833363) ![](assets/new.png)  
 - [2022-02-12-请问大家是如何保存账号的恢复代码的？](https://www.v2ex.com/t/833362) ![](assets/new.png)  
 - [2022-02-12-Clarity-智能合约开发语言编程风格](https://www.v2ex.com/t/833361) ![](assets/new.png)  
 - [2022-02-12-说说前几天跟朋友开-ECG-V2-的经历把，供各位参考](https://www.v2ex.com/t/833360) ![](assets/new.png)  
-- [2022-02-12-远程运营-期望每日有-4-小时投入项目中，薪资-6-10k，可谈](https://www.v2ex.com/t/833359) ![](assets/new.png)  
 - [2022-02-12-公司项目接入三方支付如支付宝，需要做等级保护吗](https://www.v2ex.com/t/833357) ![](assets/new.png)  
 - [2022-02-12-一种用-raycast-将剪贴板图片上传到图床的设想](https://www.v2ex.com/t/833356) ![](assets/new.png)  
 - [2022-02-12-成都新房摇号太难了](https://www.v2ex.com/t/833355) ![](assets/new.png)  
@@ -561,10 +561,11 @@
 - [2022-02-12-删库跑路大神的一生：曾在家造炸弹被捕，现卖房押宝-NFT，原是开源创业之星](https://toutiao.io/k/omqguov) ![](assets/new.png)  
 - [2022-02-12-谈谈我这些年对前端框架的理解](https://toutiao.io/k/zy2njkc) ![](assets/new.png)  
 - [2022-02-12-解构流存储-—-Pravega，与-Flink-构建端到端的大数据流水处理线](https://toutiao.io/k/ksw7b48) ![](assets/new.png)  
-- [2022-02-12-推荐-阿里专家：如何画出优秀的架构图？](https://toutiao.io/k/92sk26n) ![](assets/new.png)  
-- [2022-02-12-推荐-支付系统架构设计详解](https://toutiao.io/k/5tx1zgw) ![](assets/new.png)  
 - [2022-02-12-推荐-百度和米哈游的Golang面试经验分享](https://toutiao.io/k/q0sox0k) ![](assets/new.png)  
 - [2022-02-12-推荐-真香啊！接私活必备的-N-个开源项目（附源码合集第一期）！收藏走起！](https://toutiao.io/k/he7umju) ![](assets/new.png)  
+- [2022-02-12-推荐-阿里专家：如何画出优秀的架构图？](https://toutiao.io/k/92sk26n) ![](assets/new.png)  
+- [2022-02-12-推荐-Go-原生并发原语和最佳实践](https://toutiao.io/k/rdpao5x) ![](assets/new.png)  
+- [2022-02-12-推荐-支付系统架构设计详解](https://toutiao.io/k/5tx1zgw) ![](assets/new.png)  
 - [2022-02-12-推荐-作为研发Leader，如何做总结](https://toutiao.io/k/1g7flto) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

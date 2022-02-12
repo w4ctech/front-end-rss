@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-02-12 03:54:29。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-02-12 04:15:23。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -69,7 +69,7 @@
 
 
 - [【武汉肺炎防疫全纪录(财新网)】2022-02-12-2月11日全国新增新冠99例-本土广西30例辽宁10例](https://m.caixin.com/m/2022-02-12/101840861.html) 
-- [【武汉肺炎防疫全纪录(财新网)】2022-02-12-国家药监局应急附条件批准辉瑞新冠治疗药物进口注册](https://m.caixin.com/m/2022-02-12/101840874.html) 
+- [【武汉肺炎防疫全纪录(财新网)】2022-02-12-辉瑞新冠口服药获中国药监局附条件批准-全球预计今年可提供1.2亿疗程](https://m.caixin.com/m/2022-02-12/101840963.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2022-02-12-礼来将向美国供应60万剂新冠抗体，辉瑞口服药可进口中国｜大流行手记（2月11日）](https://m.caixin.com/m/2022-02-12/101840901.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2022-02-11-香港本地疫情持续恶化-港澳办称内地将“有求必应”](https://m.caixin.com/m/2022-02-11/101840642.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2022-02-11-最新海外疫情：新冠感染超4.05亿-累计接种新冠疫苗超102.2亿剂次](https://m.caixin.com/m/2022-02-11/101840493.html) 
@@ -113,11 +113,11 @@
 - [【武汉肺炎防疫全纪录(财新网)】2022-02-01-德国未实现接种目标-奥地利强制接种疫苗法律生效｜大流行手记（1月31日）](https://m.caixin.com/m/2022-02-01/101837106.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2022-02-01-聚焦｜张文宏：未来抗疫，是努力夺回正常生活的过程](https://opinion.caixin.com/m/2022-02-01/101837206.html) 
 - [【张鑫旭-鑫空间-鑫生活】2022-02-04-HTML-inputmode与iOS-Android软键盘类型测试](https://www.zhangxinxu.com/wordpress/2022/02/html-inputmode-keyboard/) 
+- [【V2EX】2022-02-12-openwrt-使用-tproxy-只传输-tcp，-一直不成功](https://www.v2ex.com/t/833367) 
 - [【V2EX】2022-02-12-windows-的这种进程怎么才能-kill](https://www.v2ex.com/t/833363) 
 - [【V2EX】2022-02-12-请问大家是如何保存账号的恢复代码的？](https://www.v2ex.com/t/833362) 
 - [【V2EX】2022-02-12-Clarity-智能合约开发语言编程风格](https://www.v2ex.com/t/833361) 
 - [【V2EX】2022-02-12-说说前几天跟朋友开-ECG-V2-的经历把，供各位参考](https://www.v2ex.com/t/833360) 
-- [【V2EX】2022-02-12-远程运营-期望每日有-4-小时投入项目中，薪资-6-10k，可谈](https://www.v2ex.com/t/833359) 
 - [【V2EX】2022-02-12-公司项目接入三方支付如支付宝，需要做等级保护吗](https://www.v2ex.com/t/833357) 
 - [【V2EX】2022-02-12-一种用-raycast-将剪贴板图片上传到图床的设想](https://www.v2ex.com/t/833356) 
 - [【V2EX】2022-02-12-成都新房摇号太难了](https://www.v2ex.com/t/833355) 
@@ -149,7 +149,6 @@
 - [【V2EX】2022-02-11-一个人（公司摸鱼+业余时间）开发了五年的开源项目：可用于自建-Git-服务，自带看板和-CI/CD，可替代-GitHub/GitLab（功能级的替代，而非小而美）](https://www.v2ex.com/t/833320) 
 - [【V2EX】2022-02-11-关于“解压”和“解压缩”突然发现一个问题](https://www.v2ex.com/t/833319) 
 - [【V2EX】2022-02-11-Macbook-air-连了显示器，没多余的口连接-G502-鼠标的适配器咋办？](https://www.v2ex.com/t/833318) 
-- [【V2EX】2022-02-11-mac-的重装系统是不留任何数据吗?](https://www.v2ex.com/t/833316) 
 - [【技术头条】2022-02-12-怎样避免纠结，快速决策？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14936&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fmake-effective-decisions%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-02-12-Cucumber测试实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14935&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fcucumber-testing-practice%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-02-12-5款最佳最牛代码比较神器-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14934&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493248%26amp%3Bidx%3D1%26amp%3Bsn%3D50bb00a7204f2595e19bba088152c56a%26amp%3Bchksm%3Dfa3f07dbcd488ecd96ab648174c45d2d5085db9e8ad2ec47e80bba1e6580f7d7158761183317%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -178,10 +177,11 @@
 - [【开发者头条】2022-02-12-删库跑路大神的一生：曾在家造炸弹被捕，现卖房押宝-NFT，原是开源创业之星](https://toutiao.io/k/omqguov) 
 - [【开发者头条】2022-02-12-谈谈我这些年对前端框架的理解](https://toutiao.io/k/zy2njkc) 
 - [【开发者头条】2022-02-12-解构流存储-—-Pravega，与-Flink-构建端到端的大数据流水处理线](https://toutiao.io/k/ksw7b48) 
-- [【开发者头条】2022-02-12-推荐-阿里专家：如何画出优秀的架构图？](https://toutiao.io/k/92sk26n) 
-- [【开发者头条】2022-02-12-推荐-支付系统架构设计详解](https://toutiao.io/k/5tx1zgw) 
 - [【开发者头条】2022-02-12-推荐-百度和米哈游的Golang面试经验分享](https://toutiao.io/k/q0sox0k) 
 - [【开发者头条】2022-02-12-推荐-真香啊！接私活必备的-N-个开源项目（附源码合集第一期）！收藏走起！](https://toutiao.io/k/he7umju) 
+- [【开发者头条】2022-02-12-推荐-阿里专家：如何画出优秀的架构图？](https://toutiao.io/k/92sk26n) 
+- [【开发者头条】2022-02-12-推荐-Go-原生并发原语和最佳实践](https://toutiao.io/k/rdpao5x) 
+- [【开发者头条】2022-02-12-推荐-支付系统架构设计详解](https://toutiao.io/k/5tx1zgw) 
 - [【开发者头条】2022-02-12-推荐-作为研发Leader，如何做总结](https://toutiao.io/k/1g7flto) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>

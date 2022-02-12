@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-02-12 05:39:34。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-02-12 05:54:26。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -113,6 +113,10 @@
 - [【武汉肺炎防疫全纪录(财新网)】2022-02-01-德国未实现接种目标-奥地利强制接种疫苗法律生效｜大流行手记（1月31日）](https://m.caixin.com/m/2022-02-01/101837106.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2022-02-01-聚焦｜张文宏：未来抗疫，是努力夺回正常生活的过程](https://opinion.caixin.com/m/2022-02-01/101837206.html) 
 - [【张鑫旭-鑫空间-鑫生活】2022-02-04-HTML-inputmode与iOS-Android软键盘类型测试](https://www.zhangxinxu.com/wordpress/2022/02/html-inputmode-keyboard/) 
+- [【V2EX】2022-02-12-MacWK-这事彻底关停了码](https://www.v2ex.com/t/833383) 
+- [【V2EX】2022-02-12-招聘：游戏研发工程师，-COO](https://www.v2ex.com/t/833382) 
+- [【V2EX】2022-02-12-房子要改为出租房，现在有什么好的智能配置么](https://www.v2ex.com/t/833381) 
+- [【V2EX】2022-02-12-原生安卓-ROM-可以通过安装支付证书使用支付宝的指纹支付吗](https://www.v2ex.com/t/833380) 
 - [【V2EX】2022-02-12-macOS-的-MACL-扩展属性可以被移除了](https://www.v2ex.com/t/833379) 
 - [【V2EX】2022-02-12-M1-max-MBP16-指纹解锁-2-到-3-秒钟，甚至不解锁。最新系统的问题还是其他原因？](https://www.v2ex.com/t/833378) 
 - [【V2EX】2022-02-12-分享下我突破-1000M-宽带外网的方案，虽然不太完美。](https://www.v2ex.com/t/833376) 
@@ -145,10 +149,6 @@
 - [【V2EX】2022-02-11-响应式的图片-CDN](https://www.v2ex.com/t/833338) 
 - [【V2EX】2022-02-11-swiftui后端-crud-程序员想学-swiftui,可以在哪里学,应该怎么学？](https://www.v2ex.com/t/833337) 
 - [【V2EX】2022-02-11-观“公众号”的讨论有感](https://www.v2ex.com/t/833335) 
-- [【V2EX】2022-02-11-如何在语音聊天的时候同时分享电脑上正在播放的声音](https://www.v2ex.com/t/833334) 
-- [【V2EX】2022-02-11-authenticator-里面保存的密码怎么全删了？](https://www.v2ex.com/t/833332) 
-- [【V2EX】2022-02-11-有规模使用微前端架构的老哥吗？请进来讲一下经验吧](https://www.v2ex.com/t/833331) 
-- [【V2EX】2022-02-11-有大神玩过-juniper-的无线-AP-吗？](https://www.v2ex.com/t/833330) 
 - [【技术头条】2022-02-12-怎样避免纠结，快速决策？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14936&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fmake-effective-decisions%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-02-12-Cucumber测试实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14935&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fcucumber-testing-practice%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-02-12-5款最佳最牛代码比较神器-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14934&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493248%26amp%3Bidx%3D1%26amp%3Bsn%3D50bb00a7204f2595e19bba088152c56a%26amp%3Bchksm%3Dfa3f07dbcd488ecd96ab648174c45d2d5085db9e8ad2ec47e80bba1e6580f7d7158761183317%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -177,12 +177,12 @@
 - [【开发者头条】2022-02-12-谈谈我这些年对前端框架的理解](https://toutiao.io/k/zy2njkc) 
 - [【开发者头条】2022-02-12-删库跑路大神的一生：曾在家造炸弹被捕，现卖房押宝-NFT，原是开源创业之星](https://toutiao.io/k/omqguov) 
 - [【开发者头条】2022-02-12-解构流存储-—-Pravega，与-Flink-构建端到端的大数据流水处理线](https://toutiao.io/k/ksw7b48) 
-- [【开发者头条】2022-02-12-推荐-阿里专家：如何画出优秀的架构图？](https://toutiao.io/k/92sk26n) 
-- [【开发者头条】2022-02-12-推荐-百度和米哈游的Golang面试经验分享](https://toutiao.io/k/q0sox0k) 
-- [【开发者头条】2022-02-12-推荐-真香啊！接私活必备的-N-个开源项目（附源码合集第一期）！收藏走起！](https://toutiao.io/k/he7umju) 
-- [【开发者头条】2022-02-12-推荐-支付系统架构设计详解](https://toutiao.io/k/5tx1zgw) 
-- [【开发者头条】2022-02-12-推荐-作为研发Leader，如何做总结](https://toutiao.io/k/1g7flto) 
 - [【开发者头条】2022-02-12-推荐-Go-原生并发原语和最佳实践](https://toutiao.io/k/rdpao5x) 
+- [【开发者头条】2022-02-12-推荐-阿里专家：如何画出优秀的架构图？](https://toutiao.io/k/92sk26n) 
+- [【开发者头条】2022-02-12-推荐-作为研发Leader，如何做总结](https://toutiao.io/k/1g7flto) 
+- [【开发者头条】2022-02-12-推荐-真香啊！接私活必备的-N-个开源项目（附源码合集第一期）！收藏走起！](https://toutiao.io/k/he7umju) 
+- [【开发者头条】2022-02-12-推荐-百度和米哈游的Golang面试经验分享](https://toutiao.io/k/q0sox0k) 
+- [【开发者头条】2022-02-12-推荐-支付系统架构设计详解](https://toutiao.io/k/5tx1zgw) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

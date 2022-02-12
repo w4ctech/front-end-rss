@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-12 05:39:34，:rocket: 更新条数: +1869， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-12 05:54:26，:rocket: 更新条数: +1869， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,10 @@
 </summary>
 
 
+- [2022-02-12-MacWK-这事彻底关停了码](https://www.v2ex.com/t/833383) ![](assets/new.png)  
+- [2022-02-12-招聘：游戏研发工程师，-COO](https://www.v2ex.com/t/833382) ![](assets/new.png)  
+- [2022-02-12-房子要改为出租房，现在有什么好的智能配置么](https://www.v2ex.com/t/833381) ![](assets/new.png)  
+- [2022-02-12-原生安卓-ROM-可以通过安装支付证书使用支付宝的指纹支付吗](https://www.v2ex.com/t/833380) ![](assets/new.png)  
 - [2022-02-12-macOS-的-MACL-扩展属性可以被移除了](https://www.v2ex.com/t/833379) ![](assets/new.png)  
 - [2022-02-12-M1-max-MBP16-指纹解锁-2-到-3-秒钟，甚至不解锁。最新系统的问题还是其他原因？](https://www.v2ex.com/t/833378) ![](assets/new.png)  
 - [2022-02-12-分享下我突破-1000M-宽带外网的方案，虽然不太完美。](https://www.v2ex.com/t/833376) ![](assets/new.png)  
@@ -507,10 +511,6 @@
 - [2022-02-12-说说前几天跟朋友开-ECG-V2-的经历把，供各位参考](https://www.v2ex.com/t/833360) ![](assets/new.png)  
 - [2022-02-12-公司项目接入三方支付如支付宝，需要做等级保护吗](https://www.v2ex.com/t/833357) ![](assets/new.png)  
 - [2022-02-12-一种用-raycast-将剪贴板图片上传到图床的设想](https://www.v2ex.com/t/833356) ![](assets/new.png)  
-- [2022-02-12-成都新房摇号太难了](https://www.v2ex.com/t/833355) ![](assets/new.png)  
-- [2022-02-12-PCA-为什么归入无监督学习的范畴？](https://www.v2ex.com/t/833353) ![](assets/new.png)  
-- [2022-02-12-字节可以内推简历~~~](https://www.v2ex.com/t/833352) ![](assets/new.png)  
-- [2022-02-12-在大城市，年龄越大越发觉得孤独，该怎么缓解这种情绪。](https://www.v2ex.com/t/833351) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -561,12 +561,12 @@
 - [2022-02-12-谈谈我这些年对前端框架的理解](https://toutiao.io/k/zy2njkc) ![](assets/new.png)  
 - [2022-02-12-删库跑路大神的一生：曾在家造炸弹被捕，现卖房押宝-NFT，原是开源创业之星](https://toutiao.io/k/omqguov) ![](assets/new.png)  
 - [2022-02-12-解构流存储-—-Pravega，与-Flink-构建端到端的大数据流水处理线](https://toutiao.io/k/ksw7b48) ![](assets/new.png)  
-- [2022-02-12-推荐-阿里专家：如何画出优秀的架构图？](https://toutiao.io/k/92sk26n) ![](assets/new.png)  
-- [2022-02-12-推荐-百度和米哈游的Golang面试经验分享](https://toutiao.io/k/q0sox0k) ![](assets/new.png)  
-- [2022-02-12-推荐-真香啊！接私活必备的-N-个开源项目（附源码合集第一期）！收藏走起！](https://toutiao.io/k/he7umju) ![](assets/new.png)  
-- [2022-02-12-推荐-支付系统架构设计详解](https://toutiao.io/k/5tx1zgw) ![](assets/new.png)  
-- [2022-02-12-推荐-作为研发Leader，如何做总结](https://toutiao.io/k/1g7flto) ![](assets/new.png)  
 - [2022-02-12-推荐-Go-原生并发原语和最佳实践](https://toutiao.io/k/rdpao5x) ![](assets/new.png)  
+- [2022-02-12-推荐-阿里专家：如何画出优秀的架构图？](https://toutiao.io/k/92sk26n) ![](assets/new.png)  
+- [2022-02-12-推荐-作为研发Leader，如何做总结](https://toutiao.io/k/1g7flto) ![](assets/new.png)  
+- [2022-02-12-推荐-真香啊！接私活必备的-N-个开源项目（附源码合集第一期）！收藏走起！](https://toutiao.io/k/he7umju) ![](assets/new.png)  
+- [2022-02-12-推荐-百度和米哈游的Golang面试经验分享](https://toutiao.io/k/q0sox0k) ![](assets/new.png)  
+- [2022-02-12-推荐-支付系统架构设计详解](https://toutiao.io/k/5tx1zgw) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

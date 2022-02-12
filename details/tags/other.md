@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-02-12 02:50:02。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-12 03:11:37。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -7,6 +7,7 @@
 
 - [2022-02-12-2月11日全国新增新冠99例-本土广西30例辽宁10例](https://m.caixin.com/m/2022-02-12/101840861.html) 
 - [2022-02-12-国家药监局应急附条件批准辉瑞新冠治疗药物进口注册](https://m.caixin.com/m/2022-02-12/101840874.html) 
+- [2022-02-12-礼来将向美国供应60万剂新冠抗体，辉瑞口服药可进口中国｜大流行手记（2月11日）](https://m.caixin.com/m/2022-02-12/101840901.html) 
 - [2022-02-11-香港本地疫情持续恶化-港澳办称内地将“有求必应”](https://m.caixin.com/m/2022-02-11/101840642.html) 
 - [2022-02-11-最新海外疫情：新冠感染超4.05亿-累计接种新冠疫苗超102.2亿剂次](https://m.caixin.com/m/2022-02-11/101840493.html) 
 - [2022-02-11-【境内疫情观察】全国新增56例本土病例（2月10日）](https://database.caixin.com/m/2022-02-11/101840505.html) 
@@ -1767,6 +1768,7 @@
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2022-02-04-HTML-inputmode与iOS-Android软键盘类型测试](https://www.zhangxinxu.com/wordpress/2022/02/html-inputmode-keyboard/) 
 - [2021-11-14-密码强度效果最佳实现一定是HTML-meter元素](https://www.zhangxinxu.com/wordpress/2021/11/html-meter-password/) 
+- [2022-02-12-公司项目接入三方支付如支付宝，需要做等级保护吗](https://www.v2ex.com/t/833357) 
 - [2022-02-12-成都新房摇号太难了](https://www.v2ex.com/t/833355) 
 - [2022-02-12-PCA-为什么归入无监督学习的范畴？](https://www.v2ex.com/t/833353) 
 - [2022-02-12-字节可以内推简历~~~](https://www.v2ex.com/t/833352) 
@@ -1798,9 +1800,6 @@
 - [2022-02-11-下载-app-store-每日推荐文章的图片的捷径-谁有能用的-找了几个都不行](https://www.v2ex.com/t/833313) 
 - [2022-02-11-下雨天，笔记本应该怎么防水？](https://www.v2ex.com/t/833311) 
 - [2022-02-11-上海紧急DevOps---薪资待遇-要-k8s-落地经验以及-Python-精通](https://www.v2ex.com/t/833309) 
-- [2022-02-11-谷歌搜索-telegram，前面两个都是病毒的推广，一年前就这样了](https://www.v2ex.com/t/833308) 
-- [2022-02-11-matlab-或-Python-是否有方法定义比较美观的字母下标符号？](https://www.v2ex.com/t/833307) 
-- [2022-02-11-尝试通过预处理解决-Go-的-`if-err-!=-nil-{...}`-问题](https://www.v2ex.com/t/833306) 
 - [2022-02-12-怎样避免纠结，快速决策？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14936&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fmake-effective-decisions%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-02-12-Cucumber测试实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14935&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fcucumber-testing-practice%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-02-12-5款最佳最牛代码比较神器-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14934&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493248%26amp%3Bidx%3D1%26amp%3Bsn%3D50bb00a7204f2595e19bba088152c56a%26amp%3Bchksm%3Dfa3f07dbcd488ecd96ab648174c45d2d5085db9e8ad2ec47e80bba1e6580f7d7158761183317%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1823,7 +1822,7 @@
 - [2022-02-12-20000字详解大厂实时数仓建设](https://toutiao.io/k/gc9jet5) 
 - [2022-02-12-删库跑路大神的一生：曾在家造炸弹被捕，现卖房押宝-NFT，原是开源创业之星](https://toutiao.io/k/omqguov) 
 - [2022-02-12-谈谈我这些年对前端框架的理解](https://toutiao.io/k/zy2njkc) 
-- [2022-02-12-推荐-真香啊！接私活必备的-N-个开源项目（附源码合集第一期）！收藏走起！](https://toutiao.io/k/he7umju) 
-- [2022-02-12-推荐-支付系统架构设计详解](https://toutiao.io/k/5tx1zgw) 
-- [2022-02-12-推荐-阿里专家：如何画出优秀的架构图？](https://toutiao.io/k/92sk26n) 
 - [2022-02-12-推荐-作为研发Leader，如何做总结](https://toutiao.io/k/1g7flto) 
+- [2022-02-12-推荐-支付系统架构设计详解](https://toutiao.io/k/5tx1zgw) 
+- [2022-02-12-推荐-真香啊！接私活必备的-N-个开源项目（附源码合集第一期）！收藏走起！](https://toutiao.io/k/he7umju) 
+- [2022-02-12-推荐-阿里专家：如何画出优秀的架构图？](https://toutiao.io/k/92sk26n) 

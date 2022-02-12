@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-02-12 02:14:30。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-02-12 02:40:45。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -112,6 +112,7 @@
 - [【武汉肺炎防疫全纪录(财新网)】2022-02-01-德国未实现接种目标-奥地利强制接种疫苗法律生效｜大流行手记（1月31日）](https://m.caixin.com/m/2022-02-01/101837106.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2022-02-01-聚焦｜张文宏：未来抗疫，是努力夺回正常生活的过程](https://opinion.caixin.com/m/2022-02-01/101837206.html) 
 - [【张鑫旭-鑫空间-鑫生活】2022-02-04-HTML-inputmode与iOS-Android软键盘类型测试](https://www.zhangxinxu.com/wordpress/2022/02/html-inputmode-keyboard/) 
+- [【V2EX】2022-02-12-成都新房摇号太难了](https://www.v2ex.com/t/833355) 
 - [【V2EX】2022-02-12-PCA-为什么归入无监督学习的范畴？](https://www.v2ex.com/t/833353) 
 - [【V2EX】2022-02-12-字节可以内推简历~~~](https://www.v2ex.com/t/833352) 
 - [【V2EX】2022-02-12-在大城市，年龄越大越发觉得孤独，该怎么缓解这种情绪。](https://www.v2ex.com/t/833351) 
@@ -151,8 +152,6 @@
 - [【V2EX】2022-02-11-谷歌搜索-telegram，前面两个都是病毒的推广，一年前就这样了](https://www.v2ex.com/t/833308) 
 - [【V2EX】2022-02-11-matlab-或-Python-是否有方法定义比较美观的字母下标符号？](https://www.v2ex.com/t/833307) 
 - [【V2EX】2022-02-11-尝试通过预处理解决-Go-的-`if-err-!=-nil-{...}`-问题](https://www.v2ex.com/t/833306) 
-- [【V2EX】2022-02-11-薪水差不多：广州-vs-珠海，选哪个？](https://www.v2ex.com/t/833305) 
-- [【V2EX】2022-02-11-创建一个-200-左右用户的论坛需要什么配置的云服务器](https://www.v2ex.com/t/833304) 
 - [【技术头条】2022-02-12-怎样避免纠结，快速决策？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14936&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fmake-effective-decisions%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-02-12-Cucumber测试实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14935&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fcucumber-testing-practice%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-02-12-5款最佳最牛代码比较神器-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14934&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493248%26amp%3Bidx%3D1%26amp%3Bsn%3D50bb00a7204f2595e19bba088152c56a%26amp%3Bchksm%3Dfa3f07dbcd488ecd96ab648174c45d2d5085db9e8ad2ec47e80bba1e6580f7d7158761183317%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -174,18 +173,18 @@
 - [【技术头条】2022-02-12-优质网站同好者周刊（第-050-期）-blog.nicelinks.site](https://blogread.cn/news/go.php?idItem=14918&url=https%3A%2F%2Fblog.nicelinks.site%2Fweekly-050%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-02-12-漫谈金丝雀部署-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14917&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fcanary-deployment%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【开发者头条】2022-02-12-2022-年别再焦虑啦！加入我们！](https://toutiao.io/k/obimloc) 
+- [【开发者头条】2022-02-12-Redis-7.0-Multi-Part-AOF的设计和实现](https://toutiao.io/k/dtraf4e) 
 - [【开发者头条】2022-02-12-从0到1剖析并编码实现短链系统](https://toutiao.io/k/n9hfkus) 
 - [【开发者头条】2022-02-12-20000字详解大厂实时数仓建设](https://toutiao.io/k/gc9jet5) 
-- [【开发者头条】2022-02-12-Redis-7.0-Multi-Part-AOF的设计和实现](https://toutiao.io/k/dtraf4e) 
 - [【开发者头条】2022-02-12-冰墩墩官方NFT盲盒开售；蚂蚁高P何昌华离职；极狐正式发布GitLabSaaS｜开发者头条](https://toutiao.io/k/vysw00t) 
 - [【开发者头条】2022-02-12-删库跑路大神的一生：曾在家造炸弹被捕，现卖房押宝-NFT，原是开源创业之星](https://toutiao.io/k/omqguov) 
 - [【开发者头条】2022-02-12-谈谈我这些年对前端框架的理解](https://toutiao.io/k/zy2njkc) 
 - [【开发者头条】2022-02-12-解构流存储-—-Pravega，与-Flink-构建端到端的大数据流水处理线](https://toutiao.io/k/ksw7b48) 
 - [【开发者头条】2022-02-12-推荐-作为研发Leader，如何做总结](https://toutiao.io/k/1g7flto) 
-- [【开发者头条】2022-02-12-推荐-百度和米哈游的Golang面试经验分享](https://toutiao.io/k/q0sox0k) 
 - [【开发者头条】2022-02-12-推荐-支付系统架构设计详解](https://toutiao.io/k/5tx1zgw) 
-- [【开发者头条】2022-02-12-推荐-阿里专家：如何画出优秀的架构图？](https://toutiao.io/k/92sk26n) 
 - [【开发者头条】2022-02-12-推荐-真香啊！接私活必备的-N-个开源项目（附源码合集第一期）！收藏走起！](https://toutiao.io/k/he7umju) 
+- [【开发者头条】2022-02-12-推荐-百度和米哈游的Golang面试经验分享](https://toutiao.io/k/q0sox0k) 
+- [【开发者头条】2022-02-12-推荐-阿里专家：如何画出优秀的架构图？](https://toutiao.io/k/92sk26n) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

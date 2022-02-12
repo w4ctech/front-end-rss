@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-02-12 06:14:12。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-02-12 06:24:24。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -113,6 +113,8 @@
 - [【武汉肺炎防疫全纪录(财新网)】2022-02-01-德国未实现接种目标-奥地利强制接种疫苗法律生效｜大流行手记（1月31日）](https://m.caixin.com/m/2022-02-01/101837106.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2022-02-01-聚焦｜张文宏：未来抗疫，是努力夺回正常生活的过程](https://opinion.caixin.com/m/2022-02-01/101837206.html) 
 - [【张鑫旭-鑫空间-鑫生活】2022-02-04-HTML-inputmode与iOS-Android软键盘类型测试](https://www.zhangxinxu.com/wordpress/2022/02/html-inputmode-keyboard/) 
+- [【V2EX】2022-02-12-分享下成年人改名流程](https://www.v2ex.com/t/833390) 
+- [【V2EX】2022-02-12-升级-beta-界面、图标显示异常,有办法解决吗?](https://www.v2ex.com/t/833388) 
 - [【V2EX】2022-02-12-搞事情-汽车的车载终端预装软件无法卸载，是不是不符合工信部的相关要求？](https://www.v2ex.com/t/833387) 
 - [【V2EX】2022-02-12-MBP-2015-MID-15',更换电池及硬盘，希望有实战经验的出出注意~](https://www.v2ex.com/t/833386) 
 - [【V2EX】2022-02-12-iPad-Air3-屏幕一觉醒来绿线了](https://www.v2ex.com/t/833385) 
@@ -148,8 +150,6 @@
 - [【V2EX】2022-02-12-如何应对京东金融的频繁骚扰？](https://www.v2ex.com/t/833343) 
 - [【V2EX】2022-02-12-n1-单臂路由-无法访问-ipv4-网络](https://www.v2ex.com/t/833342) 
 - [【V2EX】2022-02-11-《水印相机-简单好用》第二版更新了](https://www.v2ex.com/t/833341) 
-- [【V2EX】2022-02-11-拒绝别人感觉很难受怎么办？](https://www.v2ex.com/t/833339) 
-- [【V2EX】2022-02-11-响应式的图片-CDN](https://www.v2ex.com/t/833338) 
 - [【技术头条】2022-02-12-怎样避免纠结，快速决策？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14936&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fmake-effective-decisions%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-02-12-Cucumber测试实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14935&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fcucumber-testing-practice%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-02-12-5款最佳最牛代码比较神器-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14934&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493248%26amp%3Bidx%3D1%26amp%3Bsn%3D50bb00a7204f2595e19bba088152c56a%26amp%3Bchksm%3Dfa3f07dbcd488ecd96ab648174c45d2d5085db9e8ad2ec47e80bba1e6580f7d7158761183317%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -180,12 +180,12 @@
 - [【开发者头条】2022-02-12-解构流存储-—-Pravega，与-Flink-构建端到端的大数据流水处理线](https://toutiao.io/k/ksw7b48) 
 - [【开发者头条】2022-02-12-API快速开发平台设计思考](https://toutiao.io/k/t3f4ydd) 
 - [【开发者头条】2022-02-12-Salesforce架构师的10大原则](https://toutiao.io/k/dh89y23) 
+- [【开发者头条】2022-02-12-推荐-阿里专家：如何画出优秀的架构图？](https://toutiao.io/k/92sk26n) 
+- [【开发者头条】2022-02-12-推荐-真香啊！接私活必备的-N-个开源项目（附源码合集第一期）！收藏走起！](https://toutiao.io/k/he7umju) 
 - [【开发者头条】2022-02-12-推荐-支付系统架构设计详解](https://toutiao.io/k/5tx1zgw) 
 - [【开发者头条】2022-02-12-推荐-Go-原生并发原语和最佳实践](https://toutiao.io/k/rdpao5x) 
-- [【开发者头条】2022-02-12-推荐-真香啊！接私活必备的-N-个开源项目（附源码合集第一期）！收藏走起！](https://toutiao.io/k/he7umju) 
-- [【开发者头条】2022-02-12-推荐-百度和米哈游的Golang面试经验分享](https://toutiao.io/k/q0sox0k) 
-- [【开发者头条】2022-02-12-推荐-阿里专家：如何画出优秀的架构图？](https://toutiao.io/k/92sk26n) 
 - [【开发者头条】2022-02-12-推荐-作为研发Leader，如何做总结](https://toutiao.io/k/1g7flto) 
+- [【开发者头条】2022-02-12-推荐-百度和米哈游的Golang面试经验分享](https://toutiao.io/k/q0sox0k) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

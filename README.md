@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-13 09:21:17，:rocket: 更新条数: +1878， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-13 09:37:27，:rocket: 更新条数: +1877， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -509,8 +509,8 @@
 - [2022-02-13-网页实时编辑有现成的轮子吗?](https://www.v2ex.com/t/833548) ![](assets/new.png)  
 - [2022-02-13-做了一个通过支付宝/微信进行打赏的页面](https://www.v2ex.com/t/833547) ![](assets/new.png)  
 - [2022-02-13-求问大家如何整理和管理自己的照片和视频](https://www.v2ex.com/t/833546) ![](assets/new.png)  
-- [2022-02-13-苹果证书/微信多开/其他-App-多开](https://www.v2ex.com/t/833545) ![](assets/new.png)  
 - [2022-02-13-美区-App-Store-能用-Privacy.com-的信用卡吗？](https://www.v2ex.com/t/833544) ![](assets/new.png)  
+- [2022-02-13-杭州-内推-顶级美企-MicroStrategy-招聘云产品专家，云迁移实施专家](https://www.v2ex.com/t/833543) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -562,13 +562,13 @@
 - [2022-02-13-比快更快，Elasticsearch-8.0-正式发布！](https://toutiao.io/k/ex013em) ![](assets/new.png)  
 - [2022-02-13-Deno-2021-回顾：优化内核、兼容-Node.js](https://toutiao.io/k/nl6nf8r) ![](assets/new.png)  
 - [2022-02-13-提高云端数据安全的十条“军规”](https://toutiao.io/k/cfdgv1v) ![](assets/new.png)  
-- [2022-02-13-推荐-Go-原生并发原语和最佳实践](https://toutiao.io/k/rdpao5x) ![](assets/new.png)  
-- [2022-02-13-推荐-神器-Nginx-的学习手册-建议收藏-](https://toutiao.io/k/6f1qaso) ![](assets/new.png)  
-- [2022-02-13-推荐-作为研发Leader，如何做总结](https://toutiao.io/k/1g7flto) ![](assets/new.png)  
 - [2022-02-13-推荐-阿里专家：如何画出优秀的架构图？](https://toutiao.io/k/92sk26n) ![](assets/new.png)  
-- [2022-02-13-推荐-百度和米哈游的Golang面试经验分享](https://toutiao.io/k/q0sox0k) ![](assets/new.png)  
-- [2022-02-13-推荐-支付系统架构设计详解](https://toutiao.io/k/5tx1zgw) ![](assets/new.png)  
+- [2022-02-13-推荐-神器-Nginx-的学习手册-建议收藏-](https://toutiao.io/k/6f1qaso) ![](assets/new.png)  
 - [2022-02-13-推荐-真香啊！接私活必备的-N-个开源项目（附源码合集第一期）！收藏走起！](https://toutiao.io/k/he7umju) ![](assets/new.png)  
+- [2022-02-13-推荐-支付系统架构设计详解](https://toutiao.io/k/5tx1zgw) ![](assets/new.png)  
+- [2022-02-13-推荐-作为研发Leader，如何做总结](https://toutiao.io/k/1g7flto) ![](assets/new.png)  
+- [2022-02-13-推荐-百度和米哈游的Golang面试经验分享](https://toutiao.io/k/q0sox0k) ![](assets/new.png)  
+- [2022-02-13-推荐-Go-原生并发原语和最佳实践](https://toutiao.io/k/rdpao5x) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

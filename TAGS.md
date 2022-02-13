@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-02-13 15:55:15。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-13 16:15:59。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -351,6 +351,7 @@
 
 
 
+- [【V2EX】深圳-南山-收购为知笔记和-Tower-的-ONES-团队招聘前端、后端Golang、测试、产品和项目经理](https://www.v2ex.com/t/833626)
 - [【开发者头条】推荐-百度和米哈游的Golang面试经验分享](https://toutiao.io/k/q0sox0k)
 - [......【查看更多】......](./details/tags/job-interview.md)
 

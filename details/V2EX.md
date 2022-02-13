@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2022-02-13 11:16:55。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-13 11:29:01。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-02-13-为什么-Windows-没有说话或打字让系统直接做某件事的功能呢？](https://www.v2ex.com/t/833589) 
 - [2022-02-13-macSO-普通账户下，如何使用-Touch-ID-验证-admin-账户？](https://www.v2ex.com/t/833588) 
 - [2022-02-13-有从开发转到产品的吗？愿意分享经验的请进来聊聊](https://www.v2ex.com/t/833587) 
 - [2022-02-13-有人在显示器上装过护眼灯吗？](https://www.v2ex.com/t/833586) 

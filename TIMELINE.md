@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-02-13 05:18:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-02-13 05:36:10。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -70,6 +70,7 @@
 
 - [【武汉肺炎防疫全纪录(财新网)】2022-02-13-2月12日全国新增新冠67例-五省份本土28例](https://m.caixin.com/m/2022-02-13/101841162.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2022-02-13-挪威取消几乎所有限制措施-多国疫苗抗议增加｜大流行手记（2月12日）](https://m.caixin.com/m/2022-02-13/101841166.html) 
+- [【武汉肺炎防疫全纪录(财新网)】2022-02-12-记者手记｜数百万“长新冠”患者，成为欧美社会的新焦点](https://m.caixin.com/m/2022-02-12/101841104.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2022-02-12-辉瑞新冠口服药获中国药监局附条件批准-全球预计今年可提供1.2亿疗程](https://m.caixin.com/m/2022-02-12/101840963.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2022-02-12-最新海外疫情：新冠感染超4.07亿-累计接种新冠疫苗超102.45亿剂次](https://m.caixin.com/m/2022-02-12/101841009.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2022-02-12-【境内疫情观察】全国新增40例本土病例（2月11日）](https://database.caixin.com/m/2022-02-12/101840997.html) 
@@ -116,6 +117,9 @@
 - [【武汉肺炎防疫全纪录(财新网)】2022-02-01-聚焦｜张文宏：未来抗疫，是努力夺回正常生活的过程](https://opinion.caixin.com/m/2022-02-01/101837206.html) 
 - [【张鑫旭-鑫空间-鑫生活】2022-02-12-CSS-:not伪类选择器已支持复杂参数](https://www.zhangxinxu.com/wordpress/2022/02/css-not-pseudo-class-list-argument/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-02-04-HTML-inputmode与iOS-Android软键盘类型测试](https://www.zhangxinxu.com/wordpress/2022/02/html-inputmode-keyboard/) 
+- [【V2EX】2022-02-13-ssh-连接-debian-的时频繁掉线，不是长时间无操作导致的。](https://www.v2ex.com/t/833529) 
+- [【V2EX】2022-02-13-求指教-boltdb-中-关于文件-grow-和-remmap-的逻辑](https://www.v2ex.com/t/833528) 
+- [【V2EX】2022-02-13-一个可以在-Windows-11-状态栏上显示网速的小工具](https://www.v2ex.com/t/833527) 
 - [【V2EX】2022-02-13-伸手党真是烦](https://www.v2ex.com/t/833524) 
 - [【V2EX】2022-02-13-使用-React-和-Tailwindcss-复刻了-HackerWeb-网站](https://www.v2ex.com/t/833523) 
 - [【V2EX】2022-02-13-原团队用的-laravel,现在需要用-Java-/spring-做新项目,如何选择框架?](https://www.v2ex.com/t/833522) 
@@ -152,9 +156,6 @@
 - [【V2EX】2022-02-12-情人节到了，手摸手教女友撸代码心跳代码❤️](https://www.v2ex.com/t/833482) 
 - [【V2EX】2022-02-12-我编译安装了系统组件例如-zlib-openssl-openssh，现在出于某些原因我想还原成包管理版本，直接-reinstall-可以吗](https://www.v2ex.com/t/833481) 
 - [【V2EX】2022-02-12-请教一下各位大佬关于家用宽带-IPV6-公网的问题](https://www.v2ex.com/t/833480) 
-- [【V2EX】2022-02-12-Apple-Watch-蜂窝版什么时候能全球“全网通”？](https://www.v2ex.com/t/833479) 
-- [【V2EX】2022-02-12-使用中国移动-APP-的本机号码一键登录，登录之后是陌生账号？](https://www.v2ex.com/t/833478) 
-- [【V2EX】2022-02-12-2022-年了，不知道微软会不会砍掉-uwp](https://www.v2ex.com/t/833477) 
 - [【技术头条】2022-02-13-怎样避免纠结，快速决策？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14936&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fmake-effective-decisions%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-02-13-Cucumber测试实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14935&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fcucumber-testing-practice%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-02-13-5款最佳最牛代码比较神器-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14934&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493248%26amp%3Bidx%3D1%26amp%3Bsn%3D50bb00a7204f2595e19bba088152c56a%26amp%3Bchksm%3Dfa3f07dbcd488ecd96ab648174c45d2d5085db9e8ad2ec47e80bba1e6580f7d7158761183317%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -183,13 +184,13 @@
 - [【开发者头条】2022-02-13-学到了！将缓冲-channel-当做-Mutex-来使用](https://toutiao.io/k/moc4cef) 
 - [【开发者头条】2022-02-13-2022年之WEB开发新基准](https://toutiao.io/k/82apco8) 
 - [【开发者头条】2022-02-13-比快更快，Elasticsearch-8.0-正式发布！](https://toutiao.io/k/ex013em) 
-- [【开发者头条】2022-02-13-推荐-Go-原生并发原语和最佳实践](https://toutiao.io/k/rdpao5x) 
+- [【开发者头条】2022-02-13-推荐-真香啊！接私活必备的-N-个开源项目（附源码合集第一期）！收藏走起！](https://toutiao.io/k/he7umju) 
 - [【开发者头条】2022-02-13-推荐-支付系统架构设计详解](https://toutiao.io/k/5tx1zgw) 
+- [【开发者头条】2022-02-13-推荐-百度和米哈游的Golang面试经验分享](https://toutiao.io/k/q0sox0k) 
 - [【开发者头条】2022-02-13-推荐-作为研发Leader，如何做总结](https://toutiao.io/k/1g7flto) 
 - [【开发者头条】2022-02-13-推荐-神器-Nginx-的学习手册-建议收藏-](https://toutiao.io/k/6f1qaso) 
-- [【开发者头条】2022-02-13-推荐-百度和米哈游的Golang面试经验分享](https://toutiao.io/k/q0sox0k) 
+- [【开发者头条】2022-02-13-推荐-Go-原生并发原语和最佳实践](https://toutiao.io/k/rdpao5x) 
 - [【开发者头条】2022-02-13-推荐-阿里专家：如何画出优秀的架构图？](https://toutiao.io/k/92sk26n) 
-- [【开发者头条】2022-02-13-推荐-真香啊！接私活必备的-N-个开源项目（附源码合集第一期）！收藏走起！](https://toutiao.io/k/he7umju) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

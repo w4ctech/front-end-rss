@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-02-13 15:21:35。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-13 15:39:38。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1771,6 +1771,8 @@
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2022-02-04-HTML-inputmode与iOS-Android软键盘类型测试](https://www.zhangxinxu.com/wordpress/2022/02/html-inputmode-keyboard/) 
+- [2022-02-13-现在买喷射战士-2-是不是不太合适](https://www.v2ex.com/t/833624) 
+- [2022-02-13-组内急招-杭州-西湖区内推-Java-工程师-中高资深](https://www.v2ex.com/t/833622) 
 - [2022-02-13-Licloud-垃圾玩意](https://www.v2ex.com/t/833618) 
 - [2022-02-13-请教各位大佬：-利用-PC-硬件资源挖矿代替支付的-idea-是否可行](https://www.v2ex.com/t/833617) 
 - [2022-02-13-裸辞做了一款监控告警服务，-v-友们有兴趣来试用一波](https://www.v2ex.com/t/833616) 
@@ -1798,10 +1800,6 @@
 - [2022-02-13-备用电脑求推荐，有一号本工程师系列和-GPD-Pocket-3-的替代品吗？](https://www.v2ex.com/t/833579) 
 - [2022-02-13-Surge-配置文件](https://www.v2ex.com/t/833578) 
 - [2022-02-13-J1900-平台-Nas-通过-SMB-potplayer-看-4k-蓝光电影卡顿](https://www.v2ex.com/t/833575) 
-- [2022-02-13-收个备用机-收-iPhone-7/8-外加-京东-plus-年卡求一个](https://www.v2ex.com/t/833573) 
-- [2022-02-13-用阿里云偶尔传输大量文件，用什么方式好？](https://www.v2ex.com/t/833572) 
-- [2022-02-13-帮转广州银行，保险外企急招-Java-开发工程师-14-薪](https://www.v2ex.com/t/833571) 
-- [2022-02-13-使用泊松分布计算和概率直接相乘有什么区别](https://www.v2ex.com/t/833570) 
 - [2022-02-13-推荐几款好用的文本编辑器-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14942&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493346%26amp%3Bidx%3D1%26amp%3Bsn%3D0ef808a629a358b59a32154a8dec322e%26amp%3Bchksm%3Dfa3f07b9cd488eaf74721223621f30a5592e3f3bad32c95c27cd69dffa9ca188fcdf1cba51f0%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-02-13-免费！快速上手R语言，这本书一定要看！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14941&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493346%26amp%3Bidx%3D2%26amp%3Bsn%3Df7cf33db4f64e063e501c916e5625c62%26amp%3Bchksm%3Dfa3f07b9cd488eaf5ae3cb27bb5121d968aa0a602e069c8854a5c764fc8b4a85ad273d928585%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-02-13-《天龙八部》这段高潮，只有搞IT的才看得懂-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14940&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493345%26amp%3Bidx%3D1%26amp%3Bsn%3D6eaa80e3313ea46ab111e942c59c2b25%26amp%3Bchksm%3Dfa3f07bacd488eac768db573a43e296b7f0ffc225f34a9e4c2f899ed7ddff9a831093e6abe06%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1825,8 +1823,8 @@
 - [2022-02-13-2022年之WEB开发新基准](https://toutiao.io/k/82apco8) 
 - [2022-02-13-2022-年升职加薪就靠它了！抓紧时间！](https://toutiao.io/k/fitvcz1) 
 - [2022-02-13-学到了！将缓冲-channel-当做-Mutex-来使用](https://toutiao.io/k/moc4cef) 
-- [2022-02-13-推荐-阿里专家：如何画出优秀的架构图？](https://toutiao.io/k/92sk26n) 
-- [2022-02-13-推荐-支付系统架构设计详解](https://toutiao.io/k/5tx1zgw) 
-- [2022-02-13-推荐-作为研发Leader，如何做总结](https://toutiao.io/k/1g7flto) 
 - [2022-02-13-推荐-Go-原生并发原语和最佳实践](https://toutiao.io/k/rdpao5x) 
+- [2022-02-13-推荐-作为研发Leader，如何做总结](https://toutiao.io/k/1g7flto) 
 - [2022-02-13-推荐-真香啊！接私活必备的-N-个开源项目（附源码合集第一期）！收藏走起！](https://toutiao.io/k/he7umju) 
+- [2022-02-13-推荐-支付系统架构设计详解](https://toutiao.io/k/5tx1zgw) 
+- [2022-02-13-推荐-阿里专家：如何画出优秀的架构图？](https://toutiao.io/k/92sk26n) 

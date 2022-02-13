@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2022-02-13 09:54:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-13 10:12:47。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-02-13-备用电脑求推荐，有一号本工程师系列和-GPD-Pocket-3-的替代品吗？](https://www.v2ex.com/t/833579) 
+- [2022-02-13-Surge-配置文件](https://www.v2ex.com/t/833578) 
 - [2022-02-13-J1900-平台-Nas-通过-SMB-potplayer-看-4k-蓝光电影卡顿](https://www.v2ex.com/t/833575) 
 - [2022-02-13-⚙️-IFTTT-和-Zapier-使用对比、最好的效率系统、投入产出比最高的-3-件事](https://www.v2ex.com/t/833574) 
 - [2022-02-13-收个备用机-收-iPhone-7/8-外加-京东-plus-年卡求一个](https://www.v2ex.com/t/833573) 
@@ -41,6 +43,3 @@
 - [2022-02-13-使用-access-是否会比-excel-更方便来管理这些数据。](https://www.v2ex.com/t/833533) 
 - [2022-02-13-测试岗想换个岗位，兄弟们给点经验](https://www.v2ex.com/t/833531) 
 - [2022-02-13-万能的-v-友们，寻一款可以支持两个人一块看电视的软件](https://www.v2ex.com/t/833530) 
-- [2022-02-13-ssh-连接-debian-的时频繁掉线，不是长时间无操作导致的。](https://www.v2ex.com/t/833529) 
-- [2022-02-13-求指教-boltdb-中-关于文件-grow-和-remmap-的逻辑](https://www.v2ex.com/t/833528) 
-- [2022-02-13-一个可以在-Windows-11-状态栏上显示网速的小工具](https://www.v2ex.com/t/833527) 

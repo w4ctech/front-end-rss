@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-02-13 06:23:55。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-13 06:42:22。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -106,7 +106,6 @@
 
 
 
-- [【V2EX】请问全新安装的-nodejs-为啥会报这个错呢？](https://www.v2ex.com/t/833487)
 - [【开发者头条】Deno-2021-回顾：优化内核、兼容-Node.js](https://toutiao.io/k/nl6nf8r)
 - [......【查看更多】......](./details/tags/nodejs.md)
 

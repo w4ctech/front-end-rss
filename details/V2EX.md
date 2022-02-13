@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2022-02-13 04:26:07。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-13 04:45:39。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-02-13-伸手党真是烦](https://www.v2ex.com/t/833524) 
 - [2022-02-13-使用-React-和-Tailwindcss-复刻了-HackerWeb-网站](https://www.v2ex.com/t/833523) 
 - [2022-02-13-原团队用的-laravel,现在需要用-Java-/spring-做新项目,如何选择框架?](https://www.v2ex.com/t/833522) 
 - [2022-02-13-深圳电信突然访问不了-translate.google.cn，导致-chrome-网页翻译没法用，如何解决？](https://www.v2ex.com/t/833520) 
@@ -44,4 +45,3 @@
 - [2022-02-12-使用中国移动-APP-的本机号码一键登录，登录之后是陌生账号？](https://www.v2ex.com/t/833478) 
 - [2022-02-12-2022-年了，不知道微软会不会砍掉-uwp](https://www.v2ex.com/t/833477) 
 - [2022-02-12-谈谈我对色盲的理解](https://www.v2ex.com/t/833476) 
-- [2022-02-12-2022-年初-20-万买什么车？](https://www.v2ex.com/t/833474) 

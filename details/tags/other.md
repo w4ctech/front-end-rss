@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-02-13 12:30:58。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-13 12:51:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1802,7 +1802,6 @@
 - [2022-02-13-商汤科技社招实习内推](https://www.v2ex.com/t/833549) 
 - [2022-02-13-网页实时编辑有现成的轮子吗?](https://www.v2ex.com/t/833548) 
 - [2022-02-13-做了一个通过支付宝/微信进行打赏的页面](https://www.v2ex.com/t/833547) 
-- [2022-02-13-美区-App-Store-能用-Privacy.com-的信用卡吗？](https://www.v2ex.com/t/833544) 
 - [2022-02-13-怎样避免纠结，快速决策？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14936&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fmake-effective-decisions%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-02-13-Cucumber测试实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14935&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fcucumber-testing-practice%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-02-13-5款最佳最牛代码比较神器-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14934&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493248%26amp%3Bidx%3D1%26amp%3Bsn%3D50bb00a7204f2595e19bba088152c56a%26amp%3Bchksm%3Dfa3f07dbcd488ecd96ab648174c45d2d5085db9e8ad2ec47e80bba1e6580f7d7158761183317%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1825,7 +1824,7 @@
 - [2022-02-13-2022-年升职加薪就靠它了！抓紧时间！](https://toutiao.io/k/fitvcz1) 
 - [2022-02-13-学到了！将缓冲-channel-当做-Mutex-来使用](https://toutiao.io/k/moc4cef) 
 - [2022-02-13-推荐-Go-原生并发原语和最佳实践](https://toutiao.io/k/rdpao5x) 
-- [2022-02-13-推荐-支付系统架构设计详解](https://toutiao.io/k/5tx1zgw) 
-- [2022-02-13-推荐-作为研发Leader，如何做总结](https://toutiao.io/k/1g7flto) 
 - [2022-02-13-推荐-阿里专家：如何画出优秀的架构图？](https://toutiao.io/k/92sk26n) 
 - [2022-02-13-推荐-真香啊！接私活必备的-N-个开源项目（附源码合集第一期）！收藏走起！](https://toutiao.io/k/he7umju) 
+- [2022-02-13-推荐-作为研发Leader，如何做总结](https://toutiao.io/k/1g7flto) 
+- [2022-02-13-推荐-支付系统架构设计详解](https://toutiao.io/k/5tx1zgw) 

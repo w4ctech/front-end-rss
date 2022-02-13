@@ -1,10 +1,17 @@
-:alarm_clock: 更新时间: 2022-02-13 09:40:45。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-13 09:54:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-02-13-J1900-平台-Nas-通过-SMB-potplayer-看-4k-蓝光电影卡顿](https://www.v2ex.com/t/833575) 
+- [2022-02-13-⚙️-IFTTT-和-Zapier-使用对比、最好的效率系统、投入产出比最高的-3-件事](https://www.v2ex.com/t/833574) 
+- [2022-02-13-收个备用机-收-iPhone-7/8-外加-京东-plus-年卡求一个](https://www.v2ex.com/t/833573) 
+- [2022-02-13-用阿里云偶尔传输大量文件，用什么方式好？](https://www.v2ex.com/t/833572) 
+- [2022-02-13-帮转广州银行，保险外企急招-Java-开发工程师-14-薪](https://www.v2ex.com/t/833571) 
+- [2022-02-13-使用泊松分布计算和概率直接相乘有什么区别](https://www.v2ex.com/t/833570) 
+- [2022-02-13-AMD-fTPM-导致-win11-间歇性卡顿的问题，官方终于开始调查了](https://www.v2ex.com/t/833569) 
 - [2022-02-13-发布-Wordle-猜单词：我们做了一款-Wordle-练习工具，快来试试吧-🎮](https://www.v2ex.com/t/833567) 
 - [2022-02-13-问一个关于-mac-上投屏一直困扰的问题](https://www.v2ex.com/t/833565) 
 - [2022-02-13-笔记本-MX450-都能干点啥？](https://www.v2ex.com/t/833564) 
@@ -37,9 +44,3 @@
 - [2022-02-13-ssh-连接-debian-的时频繁掉线，不是长时间无操作导致的。](https://www.v2ex.com/t/833529) 
 - [2022-02-13-求指教-boltdb-中-关于文件-grow-和-remmap-的逻辑](https://www.v2ex.com/t/833528) 
 - [2022-02-13-一个可以在-Windows-11-状态栏上显示网速的小工具](https://www.v2ex.com/t/833527) 
-- [2022-02-13-伸手党真是烦](https://www.v2ex.com/t/833524) 
-- [2022-02-13-使用-React-和-Tailwindcss-复刻了-HackerWeb-网站](https://www.v2ex.com/t/833523) 
-- [2022-02-13-原团队用的-laravel,现在需要用-Java-/spring-做新项目,如何选择框架?](https://www.v2ex.com/t/833522) 
-- [2022-02-13-深圳电信突然访问不了-translate.google.cn，导致-chrome-网页翻译没法用，如何解决？](https://www.v2ex.com/t/833520) 
-- [2022-02-13-从哪里能看到一些现代化计算机网络的文字或者视频呢](https://www.v2ex.com/t/833519) 
-- [2022-02-13-Mac-电脑贴不贴膜](https://www.v2ex.com/t/833518) 

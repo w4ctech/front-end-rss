@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-02-13 07:21:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-13 07:35:59。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1770,6 +1770,8 @@
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2022-02-04-HTML-inputmode与iOS-Android软键盘类型测试](https://www.zhangxinxu.com/wordpress/2022/02/html-inputmode-keyboard/) 
+- [2022-02-13-网页实时编辑有现成的轮子吗?](https://www.v2ex.com/t/833548) 
+- [2022-02-13-做了一个通过支付宝/微信进行打赏的页面](https://www.v2ex.com/t/833547) 
 - [2022-02-13-苹果证书/微信多开/其他-App-多开](https://www.v2ex.com/t/833545) 
 - [2022-02-13-美区-App-Store-能用-Privacy.com-的信用卡吗？](https://www.v2ex.com/t/833544) 
 - [2022-02-13-大金空调实际使用体验](https://www.v2ex.com/t/833540) 
@@ -1799,9 +1801,6 @@
 - [2022-02-13-想买一个妙控键盘-有第三方推荐的吗](https://www.v2ex.com/t/833504) 
 - [2022-02-13-开工上新大促，高配独服买一送一，-CERA-独服-7-折优惠](https://www.v2ex.com/t/833503) 
 - [2022-02-12-Java-正版服欢迎大家！立足美利坚，服务全球华人！](https://www.v2ex.com/t/833499) 
-- [2022-02-12-Mac-怎么配合组合方向键进行片段选取？](https://www.v2ex.com/t/833498) 
-- [2022-02-12-iPhone-12-pro-max-比-xs-max-厚重](https://www.v2ex.com/t/833497) 
-- [2022-02-12-9-年-PHP-开发经验，求职长沙-PHP-岗位](https://www.v2ex.com/t/833496) 
 - [2022-02-13-怎样避免纠结，快速决策？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14936&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fmake-effective-decisions%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-02-13-Cucumber测试实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14935&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fcucumber-testing-practice%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-02-13-5款最佳最牛代码比较神器-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14934&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493248%26amp%3Bidx%3D1%26amp%3Bsn%3D50bb00a7204f2595e19bba088152c56a%26amp%3Bchksm%3Dfa3f07dbcd488ecd96ab648174c45d2d5085db9e8ad2ec47e80bba1e6580f7d7158761183317%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1827,5 +1826,5 @@
 - [2022-02-13-推荐-真香啊！接私活必备的-N-个开源项目（附源码合集第一期）！收藏走起！](https://toutiao.io/k/he7umju) 
 - [2022-02-13-推荐-支付系统架构设计详解](https://toutiao.io/k/5tx1zgw) 
 - [2022-02-13-推荐-Go-原生并发原语和最佳实践](https://toutiao.io/k/rdpao5x) 
-- [2022-02-13-推荐-阿里专家：如何画出优秀的架构图？](https://toutiao.io/k/92sk26n) 
 - [2022-02-13-推荐-作为研发Leader，如何做总结](https://toutiao.io/k/1g7flto) 
+- [2022-02-13-推荐-阿里专家：如何画出优秀的架构图？](https://toutiao.io/k/92sk26n) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-02-13 21:18:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-13 21:36:17。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1771,6 +1771,7 @@
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2022-02-04-HTML-inputmode与iOS-Android软键盘类型测试](https://www.zhangxinxu.com/wordpress/2022/02/html-inputmode-keyboard/) 
+- [2022-02-13-移动首年优惠没了...-早知道多包一年了..](https://www.v2ex.com/t/833639) 
 - [2022-02-13-求助关于学习路线的规划，大佬们看看有什么建议](https://www.v2ex.com/t/833638) 
 - [2022-02-13-电信-240e-是私网吗？](https://www.v2ex.com/t/833637) 
 - [2022-02-13-开发者怎么知道自己发的-app-兑换码被哪个-appleid-兑换了么？](https://www.v2ex.com/t/833635) 
@@ -1798,7 +1799,6 @@
 - [2022-02-13-Alfred-Open-in-Editors](https://www.v2ex.com/t/833599) 
 - [2022-02-13-练手小工具-之-纯文本跨设备传输](https://www.v2ex.com/t/833597) 
 - [2022-02-13-因为特殊原因我需要在-macOS-M1-上使用-windows-版的-office-2010-全家桶，有没有啥可行的魔法方法啊](https://www.v2ex.com/t/833591) 
-- [2022-02-13-为什么-Windows-没有说话或打字让系统直接做某件事的功能呢？](https://www.v2ex.com/t/833589) 
 - [2022-02-13-推荐几款好用的文本编辑器-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14942&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493346%26amp%3Bidx%3D1%26amp%3Bsn%3D0ef808a629a358b59a32154a8dec322e%26amp%3Bchksm%3Dfa3f07b9cd488eaf74721223621f30a5592e3f3bad32c95c27cd69dffa9ca188fcdf1cba51f0%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-02-13-免费！快速上手R语言，这本书一定要看！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14941&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493346%26amp%3Bidx%3D2%26amp%3Bsn%3Df7cf33db4f64e063e501c916e5625c62%26amp%3Bchksm%3Dfa3f07b9cd488eaf5ae3cb27bb5121d968aa0a602e069c8854a5c764fc8b4a85ad273d928585%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-02-13-《天龙八部》这段高潮，只有搞IT的才看得懂-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14940&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493345%26amp%3Bidx%3D1%26amp%3Bsn%3D6eaa80e3313ea46ab111e942c59c2b25%26amp%3Bchksm%3Dfa3f07bacd488eac768db573a43e296b7f0ffc225f34a9e4c2f899ed7ddff9a831093e6abe06%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1822,9 +1822,9 @@
 - [2022-02-13-2022年之WEB开发新基准](https://toutiao.io/k/82apco8) 
 - [2022-02-13-2022-年升职加薪就靠它了！抓紧时间！](https://toutiao.io/k/fitvcz1) 
 - [2022-02-13-学到了！将缓冲-channel-当做-Mutex-来使用](https://toutiao.io/k/moc4cef) 
-- [2022-02-13-推荐-如何撰写好的技术方案设计-真实案例干货分享](https://toutiao.io/k/0f5fv4t) 
-- [2022-02-13-推荐-Go-原生并发原语和最佳实践](https://toutiao.io/k/rdpao5x) 
 - [2022-02-13-推荐-阿里专家：如何画出优秀的架构图？](https://toutiao.io/k/92sk26n) 
+- [2022-02-13-推荐-如何撰写好的技术方案设计-真实案例干货分享](https://toutiao.io/k/0f5fv4t) 
 - [2022-02-13-推荐-支付系统架构设计详解](https://toutiao.io/k/5tx1zgw) 
-- [2022-02-13-推荐-作为研发Leader，如何做总结](https://toutiao.io/k/1g7flto) 
+- [2022-02-13-推荐-Go-原生并发原语和最佳实践](https://toutiao.io/k/rdpao5x) 
 - [2022-02-13-推荐-真香啊！接私活必备的-N-个开源项目（附源码合集第一期）！收藏走起！](https://toutiao.io/k/he7umju) 
+- [2022-02-13-推荐-作为研发Leader，如何做总结](https://toutiao.io/k/1g7flto) 

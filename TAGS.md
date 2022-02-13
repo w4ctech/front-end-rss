@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-02-13 06:58:19。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-13 07:12:03。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -351,6 +351,7 @@
 
 
 
+- [【V2EX】杭州-内推-顶级美企-MicroStrategy-招聘云产品专家，云迁移实施专家](https://www.v2ex.com/t/833543)
 - [【开发者头条】推荐-百度和米哈游的Golang面试经验分享](https://toutiao.io/k/q0sox0k)
 - [......【查看更多】......](./details/tags/job-interview.md)
 

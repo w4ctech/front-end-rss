@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-02-13 05:54:15。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-13 06:14:03。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -15,3 +15,4 @@
 - [2021-01-01-大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html) 
 - [2022-02-13-深圳电信突然访问不了-translate.google.cn，导致-chrome-网页翻译没法用，如何解决？](https://www.v2ex.com/t/833520) 
 - [2022-02-13-一种开发-Chrome-扩展程序的新姿势](https://toutiao.io/k/zq92ag2) 
+- [2022-02-13-提高云端数据安全的十条“军规”](https://toutiao.io/k/cfdgv1v) 

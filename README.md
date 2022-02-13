@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-13 14:39:33，:rocket: 更新条数: +1878， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-13 14:54:44，:rocket: 更新条数: +1878， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-02-13-裸辞做了一款监控告警服务，-v-友们有兴趣来试用一波](https://www.v2ex.com/t/833616) ![](assets/new.png)  
+- [2022-02-13-Golang:-如何处理日渐膨胀的-interface](https://www.v2ex.com/t/833614) ![](assets/new.png)  
 - [2022-02-13-白嫖了一台-Windows-的小鸡](https://www.v2ex.com/t/833613) ![](assets/new.png)  
 - [2022-02-13-请问-Resilio-Sync-同步速度非常慢如何解决？](https://www.v2ex.com/t/833612) ![](assets/new.png)  
 - [2022-02-13-从春节到现在，做了这个东西-🎉](https://www.v2ex.com/t/833611) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-02-13-记录-SteelSeries-Kana-v2-游戏鼠标-购入](https://www.v2ex.com/t/833594) ![](assets/new.png)  
 - [2022-02-13-因为特殊原因我需要在-macOS-M1-上使用-windows-版的-office-2010-全家桶，有没有啥可行的魔法方法啊](https://www.v2ex.com/t/833591) ![](assets/new.png)  
 - [2022-02-13-最近遇到了一个-alpine-Linux-打包的镜像在-k3s-下内部-dns-请求丢包问题，记录了一下](https://www.v2ex.com/t/833590) ![](assets/new.png)  
-- [2022-02-13-为什么-Windows-没有说话或打字让系统直接做某件事的功能呢？](https://www.v2ex.com/t/833589) ![](assets/new.png)  
-- [2022-02-13-macSO-普通账户下，如何使用-Touch-ID-验证-admin-账户？](https://www.v2ex.com/t/833588) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -558,17 +558,17 @@
 - [2022-02-13-一种开发-Chrome-扩展程序的新姿势](https://toutiao.io/k/zq92ag2) ![](assets/new.png)  
 - [2022-02-13-2022年之WEB开发新基准](https://toutiao.io/k/82apco8) ![](assets/new.png)  
 - [2022-02-13-2022-年升职加薪就靠它了！抓紧时间！](https://toutiao.io/k/fitvcz1) ![](assets/new.png)  
-- [2022-02-13-学到了！将缓冲-channel-当做-Mutex-来使用](https://toutiao.io/k/moc4cef) ![](assets/new.png)  
 - [2022-02-13-比快更快，Elasticsearch-8.0-正式发布！](https://toutiao.io/k/ex013em) ![](assets/new.png)  
+- [2022-02-13-学到了！将缓冲-channel-当做-Mutex-来使用](https://toutiao.io/k/moc4cef) ![](assets/new.png)  
 - [2022-02-13-提高云端数据安全的十条“军规”](https://toutiao.io/k/cfdgv1v) ![](assets/new.png)  
 - [2022-02-13-Deno-2021-回顾：优化内核、兼容-Node.js](https://toutiao.io/k/nl6nf8r) ![](assets/new.png)  
-- [2022-02-13-推荐-神器-Nginx-的学习手册-建议收藏-](https://toutiao.io/k/6f1qaso) ![](assets/new.png)  
-- [2022-02-13-推荐-百度和米哈游的Golang面试经验分享](https://toutiao.io/k/q0sox0k) ![](assets/new.png)  
-- [2022-02-13-推荐-真香啊！接私活必备的-N-个开源项目（附源码合集第一期）！收藏走起！](https://toutiao.io/k/he7umju) ![](assets/new.png)  
 - [2022-02-13-推荐-Go-原生并发原语和最佳实践](https://toutiao.io/k/rdpao5x) ![](assets/new.png)  
-- [2022-02-13-推荐-作为研发Leader，如何做总结](https://toutiao.io/k/1g7flto) ![](assets/new.png)  
-- [2022-02-13-推荐-阿里专家：如何画出优秀的架构图？](https://toutiao.io/k/92sk26n) ![](assets/new.png)  
 - [2022-02-13-推荐-支付系统架构设计详解](https://toutiao.io/k/5tx1zgw) ![](assets/new.png)  
+- [2022-02-13-推荐-阿里专家：如何画出优秀的架构图？](https://toutiao.io/k/92sk26n) ![](assets/new.png)  
+- [2022-02-13-推荐-百度和米哈游的Golang面试经验分享](https://toutiao.io/k/q0sox0k) ![](assets/new.png)  
+- [2022-02-13-推荐-作为研发Leader，如何做总结](https://toutiao.io/k/1g7flto) ![](assets/new.png)  
+- [2022-02-13-推荐-神器-Nginx-的学习手册-建议收藏-](https://toutiao.io/k/6f1qaso) ![](assets/new.png)  
+- [2022-02-13-推荐-真香啊！接私活必备的-N-个开源项目（附源码合集第一期）！收藏走起！](https://toutiao.io/k/he7umju) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

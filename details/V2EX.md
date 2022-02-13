@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2022-02-13 11:10:31。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-13 11:16:55。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-02-13-macSO-普通账户下，如何使用-Touch-ID-验证-admin-账户？](https://www.v2ex.com/t/833588) 
+- [2022-02-13-有从开发转到产品的吗？愿意分享经验的请进来聊聊](https://www.v2ex.com/t/833587) 
 - [2022-02-13-有人在显示器上装过护眼灯吗？](https://www.v2ex.com/t/833586) 
 - [2022-02-13-「Zeno」为应用提供构建到分发服务，让开发者专注迭代](https://www.v2ex.com/t/833585) 
 - [2022-02-13-JB-提示本地语言包可用的消息怎么屏蔽掉](https://www.v2ex.com/t/833584) 
@@ -41,5 +43,3 @@
 - [2022-02-13-美区-App-Store-能用-Privacy.com-的信用卡吗？](https://www.v2ex.com/t/833544) 
 - [2022-02-13-杭州-内推-顶级美企-MicroStrategy-招聘云产品专家，云迁移实施专家](https://www.v2ex.com/t/833543) 
 - [2022-02-13-大金空调实际使用体验](https://www.v2ex.com/t/833540) 
-- [2022-02-13-看-Hacker-News-有感](https://www.v2ex.com/t/833538) 
-- [2022-02-13-甲骨文大阪哪个-IP-段可以解锁油管-premium?](https://www.v2ex.com/t/833537) 

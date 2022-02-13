@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-02-13 14:18:43。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-13 14:36:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -16,6 +16,5 @@
 - [2022-02-13-http1.1-长连接与-golang-并发请求的疑问](https://www.v2ex.com/t/833608) 
 - [2022-02-13-最近遇到了一个-alpine-Linux-打包的镜像在-k3s-下内部-dns-请求丢包问题，记录了一下](https://www.v2ex.com/t/833590) 
 - [2022-02-13-⚙️-IFTTT-和-Zapier-使用对比、最好的效率系统、投入产出比最高的-3-件事](https://www.v2ex.com/t/833574) 
-- [2022-02-13-openwrt-安装-zerotier-后可以正常访问，但是-lan-口不通...](https://www.v2ex.com/t/833563) 
 - [2022-02-13-一种开发-Chrome-扩展程序的新姿势](https://toutiao.io/k/zq92ag2) 
 - [2022-02-13-提高云端数据安全的十条“军规”](https://toutiao.io/k/cfdgv1v) 

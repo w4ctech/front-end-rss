@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-13 03:54:21，:rocket: 更新条数: +1875， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-13 04:14:59，:rocket: 更新条数: +1875， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,10 @@
 </summary>
 
 
+- [2022-02-13-深圳电信突然访问不了-translate.google.cn，导致-chrome-网页翻译没法用，如何解决？](https://www.v2ex.com/t/833520) ![](assets/new.png)  
+- [2022-02-13-从哪里能看到一些现代化计算机网络的文字或者视频呢](https://www.v2ex.com/t/833519) ![](assets/new.png)  
+- [2022-02-13-Mac-电脑贴不贴膜](https://www.v2ex.com/t/833518) ![](assets/new.png)  
+- [2022-02-13-关于空调维保公司的查找](https://www.v2ex.com/t/833517) ![](assets/new.png)  
 - [2022-02-13-大家-iPhone-有没有碰到过,wifi-处惊叹号，显示“无互联网连接”，但实际上网正常的现象！？](https://www.v2ex.com/t/833516) ![](assets/new.png)  
 - [2022-02-13-纠结是否要跳槽](https://www.v2ex.com/t/833515) ![](assets/new.png)  
 - [2022-02-13-今天有要去看电影的么？招商银行-40-元无门槛优惠券免费送](https://www.v2ex.com/t/833512) ![](assets/new.png)  
@@ -507,10 +511,6 @@
 - [2022-02-12-Java-正版服欢迎大家！立足美利坚，服务全球华人！](https://www.v2ex.com/t/833499) ![](assets/new.png)  
 - [2022-02-12-Mac-怎么配合组合方向键进行片段选取？](https://www.v2ex.com/t/833498) ![](assets/new.png)  
 - [2022-02-12-iPhone-12-pro-max-比-xs-max-厚重](https://www.v2ex.com/t/833497) ![](assets/new.png)  
-- [2022-02-12-9-年-PHP-开发经验，求职长沙-PHP-岗位](https://www.v2ex.com/t/833496) ![](assets/new.png)  
-- [2022-02-12-关于流媒体家庭共享拼车价格的想法](https://www.v2ex.com/t/833495) ![](assets/new.png)  
-- [2022-02-12-上帝打开一扇门，我却把它关上了](https://www.v2ex.com/t/833493) ![](assets/new.png)  
-- [2022-02-12-杭州租房-钱江世纪城](https://www.v2ex.com/t/833492) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -557,17 +557,17 @@
 - [2022-02-13-你分库分表的姿势对么？——详谈水平分库分表](https://toutiao.io/k/eteqw6s) ![](assets/new.png)  
 - [2022-02-13-2022-年升职加薪就靠它了！抓紧时间！](https://toutiao.io/k/fitvcz1) ![](assets/new.png)  
 - [2022-02-13-一种开发-Chrome-扩展程序的新姿势](https://toutiao.io/k/zq92ag2) ![](assets/new.png)  
-- [2022-02-13-学到了！将缓冲-channel-当做-Mutex-来使用](https://toutiao.io/k/moc4cef) ![](assets/new.png)  
 - [2022-02-13-别再乱搞了，快看优秀的代码是如何分层的！](https://toutiao.io/k/eqjv12t) ![](assets/new.png)  
-- [2022-02-13-比快更快，Elasticsearch-8.0-正式发布！](https://toutiao.io/k/ex013em) ![](assets/new.png)  
+- [2022-02-13-学到了！将缓冲-channel-当做-Mutex-来使用](https://toutiao.io/k/moc4cef) ![](assets/new.png)  
 - [2022-02-13-2022年之WEB开发新基准](https://toutiao.io/k/82apco8) ![](assets/new.png)  
-- [2022-02-13-推荐-真香啊！接私活必备的-N-个开源项目（附源码合集第一期）！收藏走起！](https://toutiao.io/k/he7umju) ![](assets/new.png)  
-- [2022-02-13-推荐-支付系统架构设计详解](https://toutiao.io/k/5tx1zgw) ![](assets/new.png)  
-- [2022-02-13-推荐-神器-Nginx-的学习手册-建议收藏-](https://toutiao.io/k/6f1qaso) ![](assets/new.png)  
-- [2022-02-13-推荐-Go-原生并发原语和最佳实践](https://toutiao.io/k/rdpao5x) ![](assets/new.png)  
-- [2022-02-13-推荐-阿里专家：如何画出优秀的架构图？](https://toutiao.io/k/92sk26n) ![](assets/new.png)  
+- [2022-02-13-比快更快，Elasticsearch-8.0-正式发布！](https://toutiao.io/k/ex013em) ![](assets/new.png)  
 - [2022-02-13-推荐-百度和米哈游的Golang面试经验分享](https://toutiao.io/k/q0sox0k) ![](assets/new.png)  
 - [2022-02-13-推荐-作为研发Leader，如何做总结](https://toutiao.io/k/1g7flto) ![](assets/new.png)  
+- [2022-02-13-推荐-支付系统架构设计详解](https://toutiao.io/k/5tx1zgw) ![](assets/new.png)  
+- [2022-02-13-推荐-Go-原生并发原语和最佳实践](https://toutiao.io/k/rdpao5x) ![](assets/new.png)  
+- [2022-02-13-推荐-阿里专家：如何画出优秀的架构图？](https://toutiao.io/k/92sk26n) ![](assets/new.png)  
+- [2022-02-13-推荐-真香啊！接私活必备的-N-个开源项目（附源码合集第一期）！收藏走起！](https://toutiao.io/k/he7umju) ![](assets/new.png)  
+- [2022-02-13-推荐-神器-Nginx-的学习手册-建议收藏-](https://toutiao.io/k/6f1qaso) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

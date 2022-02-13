@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-13 12:57:19，:rocket: 更新条数: +1878， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-13 13:13:25，:rocket: 更新条数: +1876， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-02-13-练手小工具-之-纯文本跨设备传输](https://www.v2ex.com/t/833597) ![](assets/new.png)  
 - [2022-02-13-记录-SteelSeries-Kana-v2-游戏鼠标-购入](https://www.v2ex.com/t/833594) ![](assets/new.png)  
 - [2022-02-13-因为特殊原因我需要在-macOS-M1-上使用-windows-版的-office-2010-全家桶，有没有啥可行的魔法方法啊](https://www.v2ex.com/t/833591) ![](assets/new.png)  
 - [2022-02-13-最近遇到了一个-alpine-Linux-打包的镜像在-k3s-下内部-dns-请求丢包问题，记录了一下](https://www.v2ex.com/t/833590) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-02-13-收个备用机-收-iPhone-7/8-外加-京东-plus-年卡求一个](https://www.v2ex.com/t/833573) ![](assets/new.png)  
 - [2022-02-13-用阿里云偶尔传输大量文件，用什么方式好？](https://www.v2ex.com/t/833572) ![](assets/new.png)  
 - [2022-02-13-帮转广州银行，保险外企急招-Java-开发工程师-14-薪](https://www.v2ex.com/t/833571) ![](assets/new.png)  
-- [2022-02-13-使用泊松分布计算和概率直接相乘有什么区别](https://www.v2ex.com/t/833570) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -562,13 +562,13 @@
 - [2022-02-13-比快更快，Elasticsearch-8.0-正式发布！](https://toutiao.io/k/ex013em) ![](assets/new.png)  
 - [2022-02-13-提高云端数据安全的十条“军规”](https://toutiao.io/k/cfdgv1v) ![](assets/new.png)  
 - [2022-02-13-Deno-2021-回顾：优化内核、兼容-Node.js](https://toutiao.io/k/nl6nf8r) ![](assets/new.png)  
-- [2022-02-13-推荐-Go-原生并发原语和最佳实践](https://toutiao.io/k/rdpao5x) ![](assets/new.png)  
-- [2022-02-13-推荐-作为研发Leader，如何做总结](https://toutiao.io/k/1g7flto) ![](assets/new.png)  
 - [2022-02-13-推荐-支付系统架构设计详解](https://toutiao.io/k/5tx1zgw) ![](assets/new.png)  
-- [2022-02-13-推荐-神器-Nginx-的学习手册-建议收藏-](https://toutiao.io/k/6f1qaso) ![](assets/new.png)  
-- [2022-02-13-推荐-百度和米哈游的Golang面试经验分享](https://toutiao.io/k/q0sox0k) ![](assets/new.png)  
 - [2022-02-13-推荐-真香啊！接私活必备的-N-个开源项目（附源码合集第一期）！收藏走起！](https://toutiao.io/k/he7umju) ![](assets/new.png)  
+- [2022-02-13-推荐-百度和米哈游的Golang面试经验分享](https://toutiao.io/k/q0sox0k) ![](assets/new.png)  
 - [2022-02-13-推荐-阿里专家：如何画出优秀的架构图？](https://toutiao.io/k/92sk26n) ![](assets/new.png)  
+- [2022-02-13-推荐-作为研发Leader，如何做总结](https://toutiao.io/k/1g7flto) ![](assets/new.png)  
+- [2022-02-13-推荐-神器-Nginx-的学习手册-建议收藏-](https://toutiao.io/k/6f1qaso) ![](assets/new.png)  
+- [2022-02-13-推荐-Go-原生并发原语和最佳实践](https://toutiao.io/k/rdpao5x) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

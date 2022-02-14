@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-14 15:43:36，:rocket: 更新条数: +1894， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-14 15:55:49，:rocket: 更新条数: +1894， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-02-14-抖音真牛逼，我发语音说微信两个字，都能识别到还自动把我静音了](https://www.v2ex.com/t/833876) ![](assets/new.png)  
 - [2022-02-14-大家-idea-有升级-3.2-版本吗？好像自带-17-的-jbr，可以通过-metal-渲染](https://www.v2ex.com/t/833875) ![](assets/new.png)  
 - [2022-02-14-safari-有一个网址，在地址栏点击，永远是载入状态，而且此时控制台的网络请求里面也不显示-GET-请求](https://www.v2ex.com/t/833873) ![](assets/new.png)  
 - [2022-02-14-Sinatra-源码分析-一:set-系统工作原理](https://www.v2ex.com/t/833872) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-02-14-安卓手机上有好用的-git-客户端吗？](https://www.v2ex.com/t/833853) ![](assets/new.png)  
 - [2022-02-14-Teamspeak-安卓客户端有-V-友知道的吗？](https://www.v2ex.com/t/833852) ![](assets/new.png)  
 - [2022-02-14-哪个版本的的妙控键盘和-Apple-Silicon-MacBook-自带键盘手感一致？](https://www.v2ex.com/t/833851) ![](assets/new.png)  
-- [2022-02-14-在学习方法上的一点困扰！](https://www.v2ex.com/t/833850) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -557,8 +557,8 @@
 - [2022-02-14-业务系统调研方法论](https://toutiao.io/k/i6ehcav) ![](assets/new.png)  
 - [2022-02-14-网易开源-Envoy-企业级自定义扩展框架-Hango-Rider-简介](https://toutiao.io/k/4nqamzr) ![](assets/new.png)  
 - [2022-02-14-什么人能成为Leader，大Leader该做什么](https://toutiao.io/k/pnlaqae) ![](assets/new.png)  
-- [2022-02-14-使用-Kafka、Debezium-和-Kubernetes-实现应用现代化的模式](https://toutiao.io/k/ks1h7if) ![](assets/new.png)  
 - [2022-02-14-别再用-main-方法测试了，这才是专业-Java-测试方法！](https://toutiao.io/k/apxszeo) ![](assets/new.png)  
+- [2022-02-14-使用-Kafka、Debezium-和-Kubernetes-实现应用现代化的模式](https://toutiao.io/k/ks1h7if) ![](assets/new.png)  
 - [2022-02-14-Rust重头实现迷你Go语言](https://toutiao.io/k/xa9w1ne) ![](assets/new.png)  
 - [2022-02-14-数据库存储选型经验总结](https://toutiao.io/k/54pasze) ![](assets/new.png)  
 - [2022-02-14-浅析gowatch监听文件变动实现原理](https://toutiao.io/k/01w80df) ![](assets/new.png)  
@@ -572,7 +572,7 @@
 - [2022-02-14-认识你的时候我15岁-祝有情人终成眷属（情人节快乐）](https://toutiao.io/k/3qiu8qz) ![](assets/new.png)  
 - [2022-02-14-建木持续集成平台v2.2.2发布](https://toutiao.io/k/0a1wx80) ![](assets/new.png)  
 - [2022-02-14-ZLT-MP-v5.2.0-发布](https://toutiao.io/k/u2cmn1e) ![](assets/new.png)  
-- [2022-02-14-推荐-百度和米哈游的Golang面试经验分享](https://toutiao.io/k/q0sox0k) ![](assets/new.png)  
+- [2022-02-14-推荐-如何撰写好的技术方案设计-真实案例干货分享](https://toutiao.io/k/0f5fv4t) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

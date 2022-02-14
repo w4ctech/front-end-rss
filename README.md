@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-14 12:18:39，:rocket: 更新条数: +1895， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-14 12:33:11，:rocket: 更新条数: +1895， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-02-14-iOS-的一些安全策略是不是太严苛、到了影响使用便利的地步？例如频繁要求输入密码以启用-FaceID](https://www.v2ex.com/t/833859) ![](assets/new.png)  
 - [2022-02-14-免费领养猫咪：中华田园本土猫，共两只（同胞胎）](https://www.v2ex.com/t/833857) ![](assets/new.png)  
 - [2022-02-14-北上深杭-商汤科技内推！](https://www.v2ex.com/t/833856) ![](assets/new.png)  
 - [2022-02-14-windows-11-远程桌面-连接三次以后-总是无法再连接了](https://www.v2ex.com/t/833855) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-02-14-求助苦恼了很久的终端下某些符号的错位问题](https://www.v2ex.com/t/833836) ![](assets/new.png)  
 - [2022-02-14-杭州、上海、北京、广州-招-Java-、Go、产品经理，欢迎应届、实习-内推邮箱：-zenlayer.hire@gmail.com](https://www.v2ex.com/t/833835) ![](assets/new.png)  
 - [2022-02-14-有了解法律的同学么？小区物业维权问题](https://www.v2ex.com/t/833834) ![](assets/new.png)  
-- [2022-02-14-想拿到一些虚拟货币实时价格，哪里可以找到合适的-api？](https://www.v2ex.com/t/833833) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -562,17 +562,17 @@
 - [2022-02-14-Rust重头实现迷你Go语言](https://toutiao.io/k/xa9w1ne) ![](assets/new.png)  
 - [2022-02-14-数据库存储选型经验总结](https://toutiao.io/k/54pasze) ![](assets/new.png)  
 - [2022-02-14-浅析gowatch监听文件变动实现原理](https://toutiao.io/k/01w80df) ![](assets/new.png)  
-- [2022-02-14-优化.NET-应用程序-CPU-和内存的11-个实践](https://toutiao.io/k/sczu14j) ![](assets/new.png)  
 - [2022-02-14-爱的五种语言，你会吗？](https://toutiao.io/k/svyk1vc) ![](assets/new.png)  
+- [2022-02-14-优化.NET-应用程序-CPU-和内存的11-个实践](https://toutiao.io/k/sczu14j) ![](assets/new.png)  
 - [2022-02-14-玩转-Spring-Boot-集成篇（@Scheduled、静态、动态定时任务）](https://toutiao.io/k/2on9cof) ![](assets/new.png)  
 - [2022-02-14-【线上故障】通过系统日志分析和定位](https://toutiao.io/k/xyztj7f) ![](assets/new.png)  
-- [2022-02-14-车载可爱太阳能招财猫，点击链接即可领券购买！](https://toutiao.io/k/lj1vbby) ![](assets/new.png)  
 - [2022-02-14-字符作画，我用字符画个冰墩墩](https://toutiao.io/k/f819vz0) ![](assets/new.png)  
+- [2022-02-14-车载可爱太阳能招财猫，点击链接即可领券购买！](https://toutiao.io/k/lj1vbby) ![](assets/new.png)  
 - [2022-02-14-动态卷积效率低？UCSD&微软用矩阵分解的方法解决了这个问题，性能还更高！（ICLR2021）](https://toutiao.io/k/g1rf9c9) ![](assets/new.png)  
 - [2022-02-14-认识你的时候我15岁-祝有情人终成眷属（情人节快乐）](https://toutiao.io/k/3qiu8qz) ![](assets/new.png)  
 - [2022-02-14-建木持续集成平台v2.2.2发布](https://toutiao.io/k/0a1wx80) ![](assets/new.png)  
 - [2022-02-14-ZLT-MP-v5.2.0-发布](https://toutiao.io/k/u2cmn1e) ![](assets/new.png)  
-- [2022-02-14-推荐-如何撰写好的技术方案设计-真实案例干货分享](https://toutiao.io/k/0f5fv4t) ![](assets/new.png)  
+- [2022-02-14-推荐-阿里专家：如何画出优秀的架构图？](https://toutiao.io/k/92sk26n) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

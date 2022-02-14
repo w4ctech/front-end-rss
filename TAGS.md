@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-02-14 01:54:02。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-14 02:05:10。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -254,6 +254,7 @@
 
 - [【V2EX】MySQL-导入大批量数据-这些优化不生效吗？](https://www.v2ex.com/t/833652)
 - [【开发者头条】优化.NET-应用程序-CPU-和内存的11-个实践](https://toutiao.io/k/sczu14j)
+- [【开发者头条】动态卷积效率低？UCSD&微软用矩阵分解的方法解决了这个问题，性能还更高！（ICLR2021）](https://toutiao.io/k/g1rf9c9)
 - [......【查看更多】......](./details/tags/optimization.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -278,6 +279,7 @@
 - [【武汉肺炎防疫全纪录(财新网)】大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html)
 - [【V2EX】浏览器firefox如何屏蔽掉页面上带有某个关键词的链接？](https://www.v2ex.com/t/833640)
 - [【V2EX】问一下各位大佬,-golang-中-想要给-*websocket.Conn-实现-Reader接口,-两种方法其中一个失败的原因](https://www.v2ex.com/t/833623)
+- [【开发者头条】为什么HTTPS是安全的？](https://toutiao.io/k/v6tppd6)
 - [......【查看更多】......](./details/tags/browser.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-02-14 02:40:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-14 02:46:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1773,6 +1773,8 @@
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2022-02-04-HTML-inputmode与iOS-Android软键盘类型测试](https://www.zhangxinxu.com/wordpress/2022/02/html-inputmode-keyboard/) 
+- [2022-02-14-Linux-终端环境下的一款扶墙客户端](https://www.v2ex.com/t/833680) 
+- [2022-02-14-铁子们，轻薄办公本。预算-4000，有啥推荐的吗？](https://www.v2ex.com/t/833679) 
 - [2022-02-14-分享最近阅读的书藉清单三](https://www.v2ex.com/t/833675) 
 - [2022-02-14-你们怎么看待初创公司给的期权（ABC-轮）？](https://www.v2ex.com/t/833674) 
 - [2022-02-14-网关是个什么东西？](https://www.v2ex.com/t/833670) 
@@ -1831,9 +1833,9 @@
 - [2022-02-14-车载可爱太阳能招财猫，点击链接即可领券购买！](https://toutiao.io/k/lj1vbby) 
 - [2022-02-14-数据库存储选型经验总结](https://toutiao.io/k/54pasze) 
 - [2022-02-14-什么人能成为Leader，大Leader该做什么](https://toutiao.io/k/pnlaqae) 
-- [2022-02-14-推荐-支付系统架构设计详解](https://toutiao.io/k/5tx1zgw) 
 - [2022-02-14-推荐-真香啊！接私活必备的-N-个开源项目（附源码合集第一期）！收藏走起！](https://toutiao.io/k/he7umju) 
 - [2022-02-14-推荐-如何撰写好的技术方案设计-真实案例干货分享](https://toutiao.io/k/0f5fv4t) 
 - [2022-02-14-推荐-Go-原生并发原语和最佳实践](https://toutiao.io/k/rdpao5x) 
 - [2022-02-14-推荐-作为研发Leader，如何做总结](https://toutiao.io/k/1g7flto) 
 - [2022-02-14-推荐-阿里专家：如何画出优秀的架构图？](https://toutiao.io/k/92sk26n) 
+- [2022-02-14-推荐-支付系统架构设计详解](https://toutiao.io/k/5tx1zgw) 

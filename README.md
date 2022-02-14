@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-14 00:40:10，:rocket: 更新条数: +1880， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-14 01:08:19，:rocket: 更新条数: +1883， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -65,6 +65,7 @@
 </summary>
 
 
+- [2022-02-14-苏州现4例阳性-多家医院停诊](https://m.caixin.com/m/2022-02-14/101841328.html) ![](assets/new.png)  
 - [2022-02-13-最新疫情：全国新冠累计确诊106930例-累计接种新冠疫苗超30.42亿剂次](https://m.caixin.com/m/2022-02-13/101841261.html) ![](assets/new.png)  
 - [2022-02-13-最新海外疫情：新冠感染超4.09亿-累计接种新冠疫苗超103.17亿剂次](https://m.caixin.com/m/2022-02-13/101841257.html) ![](assets/new.png)  
 - [2022-02-13-【境内疫情观察】全国新增28例本土病例（2月12日）](https://database.caixin.com/m/2022-02-13/101841209.html) ![](assets/new.png)  
@@ -84,7 +85,6 @@
 - [2022-02-09-严防新冠病毒“物传人”-深圳罗湖暂停入境邮件派送](https://m.caixin.com/m/2022-02-09/101839414.html) ![](assets/new.png)  
 - [2022-02-09-不打疫苗不能理发-香港全面推行疫苗通行证](https://m.caixin.com/m/2022-02-09/101839260.html) ![](assets/new.png)  
 - [2022-02-09-【境内疫情观察】广西新增72例本土病例（2月8日）](https://database.caixin.com/m/2022-02-09/101839339.html) ![](assets/new.png)  
-- [2022-02-09-意大利取消户外口罩令，美国多州取消校园口罩令｜大流行手记（2月8日）](https://m.caixin.com/m/2022-02-09/101839221.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -491,6 +491,10 @@
 </summary>
 
 
+- [2022-02-14-新装的-win10-ltsc，部分数字显示乱码？](https://www.v2ex.com/t/833647) ![](assets/new.png)  
+- [2022-02-14-现在拍沪牌都有什么黑科技工具](https://www.v2ex.com/t/833646) ![](assets/new.png)  
+- [2022-02-14-Apple-Watch-升级系统续航尿崩后续](https://www.v2ex.com/t/833645) ![](assets/new.png)  
+- [2022-02-14-由于工作需要，你们写工作日志用什么记录的？印象笔记？-OneNote？为知笔记？还是](https://www.v2ex.com/t/833644) ![](assets/new.png)  
 - [2022-02-14-iPhone13-屏幕拖影](https://www.v2ex.com/t/833642) ![](assets/new.png)  
 - [2022-02-13-Apple-TV-Plus-试用感受](https://www.v2ex.com/t/833641) ![](assets/new.png)  
 - [2022-02-13-浏览器firefox如何屏蔽掉页面上带有某个关键词的链接？](https://www.v2ex.com/t/833640) ![](assets/new.png)  
@@ -507,10 +511,6 @@
 - [2022-02-13-深圳-南山-收购为知笔记和-Tower-的-ONES-团队招聘前端、后端Golang、测试、产品和项目经理](https://www.v2ex.com/t/833626) ![](assets/new.png)  
 - [2022-02-13-covid-19-卫健委统计数据采集](https://www.v2ex.com/t/833625) ![](assets/new.png)  
 - [2022-02-13-现在买喷射战士-2-是不是不太合适](https://www.v2ex.com/t/833624) ![](assets/new.png)  
-- [2022-02-13-问一下各位大佬,-golang-中-想要给-*websocket.Conn-实现-Reader接口,-两种方法其中一个失败的原因](https://www.v2ex.com/t/833623) ![](assets/new.png)  
-- [2022-02-13-组内急招-杭州-西湖区内推-Java-工程师-中高资深](https://www.v2ex.com/t/833622) ![](assets/new.png)  
-- [2022-02-13-微信小程序开发体验一言难尽,求正确的小程序开发姿势](https://www.v2ex.com/t/833619) ![](assets/new.png)  
-- [2022-02-13-Licloud-垃圾玩意](https://www.v2ex.com/t/833618) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -557,18 +557,18 @@
 - [2022-02-14-22条API设计的最佳实践](https://toutiao.io/k/8y8p2q1) ![](assets/new.png)  
 - [2022-02-14-网易开源-Envoy-企业级自定义扩展框架-Hango-Rider-简介](https://toutiao.io/k/4nqamzr) ![](assets/new.png)  
 - [2022-02-14-推荐9个VUE3-UI框架](https://toutiao.io/k/oedl5rr) ![](assets/new.png)  
-- [2022-02-14-浅析gowatch监听文件变动实现原理](https://toutiao.io/k/01w80df) ![](assets/new.png)  
-- [2022-02-14-优化.NET-应用程序-CPU-和内存的11-个实践](https://toutiao.io/k/sczu14j) ![](assets/new.png)  
 - [2022-02-14-使用-Kafka、Debezium-和-Kubernetes-实现应用现代化的模式](https://toutiao.io/k/ks1h7if) ![](assets/new.png)  
+- [2022-02-14-浅析gowatch监听文件变动实现原理](https://toutiao.io/k/01w80df) ![](assets/new.png)  
 - [2022-02-14-Rust重头实现迷你Go语言](https://toutiao.io/k/xa9w1ne) ![](assets/new.png)  
+- [2022-02-14-优化.NET-应用程序-CPU-和内存的11-个实践](https://toutiao.io/k/sczu14j) ![](assets/new.png)  
 - [2022-02-14-Spring-Data-JPA-与-MyBatis-对比，你喜欢用哪个？](https://toutiao.io/k/wagsb8h) ![](assets/new.png)  
 - [2022-02-14-当webpack有了vite的速度你会喜欢吗？](https://toutiao.io/k/oh25l2z) ![](assets/new.png)  
-- [2022-02-14-推荐-支付系统架构设计详解](https://toutiao.io/k/5tx1zgw) ![](assets/new.png)  
-- [2022-02-14-推荐-神器-Nginx-的学习手册-建议收藏-](https://toutiao.io/k/6f1qaso) ![](assets/new.png)  
-- [2022-02-14-推荐-如何撰写好的技术方案设计-真实案例干货分享](https://toutiao.io/k/0f5fv4t) ![](assets/new.png)  
-- [2022-02-14-推荐-作为研发Leader，如何做总结](https://toutiao.io/k/1g7flto) ![](assets/new.png)  
 - [2022-02-14-推荐-真香啊！接私活必备的-N-个开源项目（附源码合集第一期）！收藏走起！](https://toutiao.io/k/he7umju) ![](assets/new.png)  
+- [2022-02-14-推荐-作为研发Leader，如何做总结](https://toutiao.io/k/1g7flto) ![](assets/new.png)  
 - [2022-02-14-推荐-百度和米哈游的Golang面试经验分享](https://toutiao.io/k/q0sox0k) ![](assets/new.png)  
+- [2022-02-14-推荐-如何撰写好的技术方案设计-真实案例干货分享](https://toutiao.io/k/0f5fv4t) ![](assets/new.png)  
+- [2022-02-14-推荐-神器-Nginx-的学习手册-建议收藏-](https://toutiao.io/k/6f1qaso) ![](assets/new.png)  
+- [2022-02-14-推荐-支付系统架构设计详解](https://toutiao.io/k/5tx1zgw) ![](assets/new.png)  
 - [2022-02-14-推荐-Go-原生并发原语和最佳实践](https://toutiao.io/k/rdpao5x) ![](assets/new.png)  
 - [2022-02-14-推荐-阿里专家：如何画出优秀的架构图？](https://toutiao.io/k/92sk26n) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-14 05:54:25，:rocket: 更新条数: +1884， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-14 06:14:30，:rocket: 更新条数: +1888， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,11 @@
 </summary>
 
 
+- [2022-02-14-各线路齐刷刷断掉，我是一个人吗？](https://www.v2ex.com/t/833754) ![](assets/new.png)  
+- [2022-02-14-在银行里做开发，想注册个公司做点副业，合规吗？](https://www.v2ex.com/t/833753) ![](assets/new.png)  
+- [2022-02-14-某宝-app-挂着小火箭经常加载不出来商品详情](https://www.v2ex.com/t/833752) ![](assets/new.png)  
+- [2022-02-14-发一下最近两个适用于独立开发者的产品项目](https://www.v2ex.com/t/833750) ![](assets/new.png)  
+- [2022-02-14-wolai-是不是在抄-notion？](https://www.v2ex.com/t/833749) ![](assets/new.png)  
 - [2022-02-14-妹妹和男友意外怀孕，该怎么办？](https://www.v2ex.com/t/833746) ![](assets/new.png)  
 - [2022-02-14-德国计划找工作](https://www.v2ex.com/t/833745) ![](assets/new.png)  
 - [2022-02-14-听朋友说很多公司用-go-写的业务系统写不下去，现在都开始用-Java-写了，是真的吗？？](https://www.v2ex.com/t/833744) ![](assets/new.png)  
@@ -506,11 +511,6 @@
 - [2022-02-14-网站视频课程防录屏技术](https://www.v2ex.com/t/833732) ![](assets/new.png)  
 - [2022-02-14-Android-手机从零开始构架自己的私有云生态备忘录](https://www.v2ex.com/t/833731) ![](assets/new.png)  
 - [2022-02-14-VMware-Fusion-貌似已经支持-M1-了](https://www.v2ex.com/t/833730) ![](assets/new.png)  
-- [2022-02-14-Nginx-做反代，设置-SSL-证书问题](https://www.v2ex.com/t/833729) ![](assets/new.png)  
-- [2022-02-14-请问，有没有云端-xcode-编译环境](https://www.v2ex.com/t/833728) ![](assets/new.png)  
-- [2022-02-14-老哥门，有无成都的内推，岗位爬虫工程师](https://www.v2ex.com/t/833726) ![](assets/new.png)  
-- [2022-02-14-静态托管加-Userbase-还是整站一把梭](https://www.v2ex.com/t/833725) ![](assets/new.png)  
-- [2022-02-14-因为-2020-年的税务问题，被税务局请喝茶了！](https://www.v2ex.com/t/833724) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -558,21 +558,21 @@
 - [2022-02-14-网易开源-Envoy-企业级自定义扩展框架-Hango-Rider-简介](https://toutiao.io/k/4nqamzr) ![](assets/new.png)  
 - [2022-02-14-什么人能成为Leader，大Leader该做什么](https://toutiao.io/k/pnlaqae) ![](assets/new.png)  
 - [2022-02-14-使用-Kafka、Debezium-和-Kubernetes-实现应用现代化的模式](https://toutiao.io/k/ks1h7if) ![](assets/new.png)  
-- [2022-02-14-Rust重头实现迷你Go语言](https://toutiao.io/k/xa9w1ne) ![](assets/new.png)  
 - [2022-02-14-别再用-main-方法测试了，这才是专业-Java-测试方法！](https://toutiao.io/k/apxszeo) ![](assets/new.png)  
+- [2022-02-14-Rust重头实现迷你Go语言](https://toutiao.io/k/xa9w1ne) ![](assets/new.png)  
 - [2022-02-14-浅析gowatch监听文件变动实现原理](https://toutiao.io/k/01w80df) ![](assets/new.png)  
 - [2022-02-14-数据库存储选型经验总结](https://toutiao.io/k/54pasze) ![](assets/new.png)  
 - [2022-02-14-优化.NET-应用程序-CPU-和内存的11-个实践](https://toutiao.io/k/sczu14j) ![](assets/new.png)  
 - [2022-02-14-车载可爱太阳能招财猫，点击链接即可领券购买！](https://toutiao.io/k/lj1vbby) ![](assets/new.png)  
 - [2022-02-14-动态卷积效率低？UCSD&微软用矩阵分解的方法解决了这个问题，性能还更高！（ICLR2021）](https://toutiao.io/k/g1rf9c9) ![](assets/new.png)  
 - [2022-02-14-爱的五种语言，你会吗？](https://toutiao.io/k/svyk1vc) ![](assets/new.png)  
-- [2022-02-14-推荐-作为研发Leader，如何做总结](https://toutiao.io/k/1g7flto) ![](assets/new.png)  
-- [2022-02-14-推荐-百度和米哈游的Golang面试经验分享](https://toutiao.io/k/q0sox0k) ![](assets/new.png)  
-- [2022-02-14-推荐-阿里专家：如何画出优秀的架构图？](https://toutiao.io/k/92sk26n) ![](assets/new.png)  
-- [2022-02-14-推荐-如何撰写好的技术方案设计-真实案例干货分享](https://toutiao.io/k/0f5fv4t) ![](assets/new.png)  
+- [2022-02-14-字符作画，我用字符画个冰墩墩](https://toutiao.io/k/f819vz0) ![](assets/new.png)  
+- [2022-02-14-【线上故障】通过系统日志分析和定位](https://toutiao.io/k/xyztj7f) ![](assets/new.png)  
+- [2022-02-14-认识你的时候我15岁-祝有情人终成眷属（情人节快乐）](https://toutiao.io/k/3qiu8qz) ![](assets/new.png)  
+- [2022-02-14-ZLT-MP-v5.2.0-发布](https://toutiao.io/k/u2cmn1e) ![](assets/new.png)  
+- [2022-02-14-玩转-Spring-Boot-集成篇（@Scheduled、静态、动态定时任务）](https://toutiao.io/k/2on9cof) ![](assets/new.png)  
+- [2022-02-14-建木持续集成平台v2.2.2发布](https://toutiao.io/k/0a1wx80) ![](assets/new.png)  
 - [2022-02-14-推荐-Go-原生并发原语和最佳实践](https://toutiao.io/k/rdpao5x) ![](assets/new.png)  
-- [2022-02-14-推荐-真香啊！接私活必备的-N-个开源项目（附源码合集第一期）！收藏走起！](https://toutiao.io/k/he7umju) ![](assets/new.png)  
-- [2022-02-14-推荐-支付系统架构设计详解](https://toutiao.io/k/5tx1zgw) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-14 07:20:09，:rocket: 更新条数: +1893， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-14 07:35:36，:rocket: 更新条数: +1893， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,9 +491,16 @@
 </summary>
 
 
+- [2022-02-14-iOS-日历“中国节假日”变更为“中国大陆节假日”，去除部分节日](https://www.v2ex.com/t/833781) ![](assets/new.png)  
+- [2022-02-14-看深信服新闻有感](https://www.v2ex.com/t/833779) ![](assets/new.png)  
+- [2022-02-14-vue-组件拓展，如何提供组件拓展功能使用户可以添加新的组件](https://www.v2ex.com/t/833778) ![](assets/new.png)  
+- [2022-02-14-远程/新加坡-DeBank/Rabby-招聘-算法/SRE/前端/后端/产品](https://www.v2ex.com/t/833777) ![](assets/new.png)  
+- [2022-02-14-用-WASM-插件，给-JS-提速-17-倍。](https://www.v2ex.com/t/833776) ![](assets/new.png)  
+- [2022-02-14-打算入手机械键盘，小键盘有必要吗](https://www.v2ex.com/t/833774) ![](assets/new.png)  
 - [2022-02-14-为啥-Apple-推出-Siri10-年，她还像个傻子。。。](https://www.v2ex.com/t/833773) ![](assets/new.png)  
 - [2022-02-14-持有了-10-年的域名今天在阿里云卖了-5000-块，意外之财了属于是](https://www.v2ex.com/t/833772) ![](assets/new.png)  
 - [2022-02-14-寻找临时展示给朋友-markdown-页面友好的方式](https://www.v2ex.com/t/833771) ![](assets/new.png)  
+- [2022-02-14-公司改变工作内容、工作地点、绩效工资，我可以离职并要求赔偿吗](https://www.v2ex.com/t/833770) ![](assets/new.png)  
 - [2022-02-14-奈飞自用合租车寻车友](https://www.v2ex.com/t/833769) ![](assets/new.png)  
 - [2022-02-14-英伟达-Nvidia-上海-高级计算机视觉工程师-自动驾驶地图方向](https://www.v2ex.com/t/833768) ![](assets/new.png)  
 - [2022-02-14-老婆经常从娘家那向我们家倒腾钱。。。](https://www.v2ex.com/t/833766) ![](assets/new.png)  
@@ -504,13 +511,6 @@
 - [2022-02-14-全职远程-React-高级前端工程师/中美大牛团队/灵活办公](https://www.v2ex.com/t/833760) ![](assets/new.png)  
 - [2022-02-14-同事为了调休要拉着我加班周末加班](https://www.v2ex.com/t/833758) ![](assets/new.png)  
 - [2022-02-14-redisson-分布式锁-watchdog-机制疑问](https://www.v2ex.com/t/833757) ![](assets/new.png)  
-- [2022-02-14-邮箱-iOS-客户端问题](https://www.v2ex.com/t/833756) ![](assets/new.png)  
-- [2022-02-14-2022-了什么手机能够连接显示器充当娱乐型主机？](https://www.v2ex.com/t/833755) ![](assets/new.png)  
-- [2022-02-14-各线路齐刷刷断掉，我是一个人吗？](https://www.v2ex.com/t/833754) ![](assets/new.png)  
-- [2022-02-14-在银行里做开发，想注册个公司做点副业，合规吗？](https://www.v2ex.com/t/833753) ![](assets/new.png)  
-- [2022-02-14-某宝-app-挂着小火箭经常加载不出来商品详情](https://www.v2ex.com/t/833752) ![](assets/new.png)  
-- [2022-02-14-发一下最近两个适用于独立开发者的产品项目](https://www.v2ex.com/t/833750) ![](assets/new.png)  
-- [2022-02-14-wolai-是不是在抄-notion？](https://www.v2ex.com/t/833749) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -572,7 +572,7 @@
 - [2022-02-14-玩转-Spring-Boot-集成篇（@Scheduled、静态、动态定时任务）](https://toutiao.io/k/2on9cof) ![](assets/new.png)  
 - [2022-02-14-ZLT-MP-v5.2.0-发布](https://toutiao.io/k/u2cmn1e) ![](assets/new.png)  
 - [2022-02-14-建木持续集成平台v2.2.2发布](https://toutiao.io/k/0a1wx80) ![](assets/new.png)  
-- [2022-02-14-推荐-阿里专家：如何画出优秀的架构图？](https://toutiao.io/k/92sk26n) ![](assets/new.png)  
+- [2022-02-14-推荐-作为研发Leader，如何做总结](https://toutiao.io/k/1g7flto) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

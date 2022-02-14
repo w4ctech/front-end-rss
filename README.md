@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-14 07:39:17，:rocket: 更新条数: +1893， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-14 07:54:40，:rocket: 更新条数: +1894， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -66,8 +66,8 @@
 
 
 - [2022-02-14-2月13日全国新增新冠84例-四省份本土26例](https://m.caixin.com/m/2022-02-14/101841359.html) ![](assets/new.png)  
+- [2022-02-14-苏州现8例新冠感染者-多在工业园区工作](https://m.caixin.com/m/2022-02-14/101841328.html) ![](assets/new.png)  
 - [2022-02-14-记者手记｜浪尖上的第三方核酸检测：时效紧、单价低，暴利时代已远去](https://m.caixin.com/m/2022-02-14/101841436.html) ![](assets/new.png)  
-- [2022-02-14-苏州现4例阳性-多家医院停诊](https://m.caixin.com/m/2022-02-14/101841328.html) ![](assets/new.png)  
 - [2022-02-14-越南将结束国际航班限制-加拿大清走“大使桥”抗议者｜大流行手记（2月13日）](https://m.caixin.com/m/2022-02-14/101841402.html) ![](assets/new.png)  
 - [2022-02-13-最新海外疫情：新冠感染超4.09亿-累计接种新冠疫苗超103.17亿剂次](https://m.caixin.com/m/2022-02-13/101841257.html) ![](assets/new.png)  
 - [2022-02-13-【境内疫情观察】全国新增28例本土病例（2月12日）](https://database.caixin.com/m/2022-02-13/101841209.html) ![](assets/new.png)  
@@ -491,6 +491,14 @@
 </summary>
 
 
+- [2022-02-14-ios-上有类似-onetab-的浏览器或者-app-吗？](https://www.v2ex.com/t/833789) ![](assets/new.png)  
+- [2022-02-14-给一个-rgb-数值，怎么知道这个颜色的名称？](https://www.v2ex.com/t/833788) ![](assets/new.png)  
+- [2022-02-14-求电影推荐](https://www.v2ex.com/t/833787) ![](assets/new.png)  
+- [2022-02-14-自己买了不错的威士忌去哪里适合跟朋友一起喝？](https://www.v2ex.com/t/833786) ![](assets/new.png)  
+- [2022-02-14-一年前花了大半年写了启小程，一个少儿编程平台](https://www.v2ex.com/t/833785) ![](assets/new.png)  
+- [2022-02-14-有什么推荐的个人任务管理工具，适合程序员的。](https://www.v2ex.com/t/833784) ![](assets/new.png)  
+- [2022-02-14-大家车险都买哪家？哪家优惠点呢](https://www.v2ex.com/t/833783) ![](assets/new.png)  
+- [2022-02-14-Linux-笔记本闲置一会儿会断网，有什么头绪吗？](https://www.v2ex.com/t/833782) ![](assets/new.png)  
 - [2022-02-14-iOS-日历“中国节假日”变更为“中国大陆节假日”，去除部分节日](https://www.v2ex.com/t/833781) ![](assets/new.png)  
 - [2022-02-14-看深信服新闻有感](https://www.v2ex.com/t/833779) ![](assets/new.png)  
 - [2022-02-14-vue-组件拓展，如何提供组件拓展功能使用户可以添加新的组件](https://www.v2ex.com/t/833778) ![](assets/new.png)  
@@ -503,14 +511,6 @@
 - [2022-02-14-公司改变工作内容、工作地点、绩效工资，我可以离职并要求赔偿吗](https://www.v2ex.com/t/833770) ![](assets/new.png)  
 - [2022-02-14-奈飞自用合租车寻车友](https://www.v2ex.com/t/833769) ![](assets/new.png)  
 - [2022-02-14-英伟达-Nvidia-上海-高级计算机视觉工程师-自动驾驶地图方向](https://www.v2ex.com/t/833768) ![](assets/new.png)  
-- [2022-02-14-老婆经常从娘家那向我们家倒腾钱。。。](https://www.v2ex.com/t/833766) ![](assets/new.png)  
-- [2022-02-14-现在-115-网盘资源去哪里找？](https://www.v2ex.com/t/833765) ![](assets/new.png)  
-- [2022-02-14-求推荐设计师-4k-显示器](https://www.v2ex.com/t/833763) ![](assets/new.png)  
-- [2022-02-14-微信到底应该怎么调声音大小？](https://www.v2ex.com/t/833762) ![](assets/new.png)  
-- [2022-02-14-帮忙编译一个-ipa，谢谢](https://www.v2ex.com/t/833761) ![](assets/new.png)  
-- [2022-02-14-全职远程-React-高级前端工程师/中美大牛团队/灵活办公](https://www.v2ex.com/t/833760) ![](assets/new.png)  
-- [2022-02-14-同事为了调休要拉着我加班周末加班](https://www.v2ex.com/t/833758) ![](assets/new.png)  
-- [2022-02-14-redisson-分布式锁-watchdog-机制疑问](https://www.v2ex.com/t/833757) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -567,12 +567,12 @@
 - [2022-02-14-动态卷积效率低？UCSD&微软用矩阵分解的方法解决了这个问题，性能还更高！（ICLR2021）](https://toutiao.io/k/g1rf9c9) ![](assets/new.png)  
 - [2022-02-14-爱的五种语言，你会吗？](https://toutiao.io/k/svyk1vc) ![](assets/new.png)  
 - [2022-02-14-字符作画，我用字符画个冰墩墩](https://toutiao.io/k/f819vz0) ![](assets/new.png)  
-- [2022-02-14-【线上故障】通过系统日志分析和定位](https://toutiao.io/k/xyztj7f) ![](assets/new.png)  
 - [2022-02-14-认识你的时候我15岁-祝有情人终成眷属（情人节快乐）](https://toutiao.io/k/3qiu8qz) ![](assets/new.png)  
+- [2022-02-14-【线上故障】通过系统日志分析和定位](https://toutiao.io/k/xyztj7f) ![](assets/new.png)  
 - [2022-02-14-玩转-Spring-Boot-集成篇（@Scheduled、静态、动态定时任务）](https://toutiao.io/k/2on9cof) ![](assets/new.png)  
 - [2022-02-14-ZLT-MP-v5.2.0-发布](https://toutiao.io/k/u2cmn1e) ![](assets/new.png)  
 - [2022-02-14-建木持续集成平台v2.2.2发布](https://toutiao.io/k/0a1wx80) ![](assets/new.png)  
-- [2022-02-14-推荐-作为研发Leader，如何做总结](https://toutiao.io/k/1g7flto) ![](assets/new.png)  
+- [2022-02-14-推荐-如何撰写好的技术方案设计-真实案例干货分享](https://toutiao.io/k/0f5fv4t) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-02-14 06:47:14。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-14 07:12:56。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -39,6 +39,7 @@
 
 
 
+- [【V2EX】全职远程-React-高级前端工程师/中美大牛团队/灵活办公](https://www.v2ex.com/t/833760)
 - [......【查看更多】......](./details/tags/react.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -217,7 +218,6 @@
 
 
 
-- [【V2EX】canvas-画笔的颜色透明度如何实现？](https://www.v2ex.com/t/833714)
 - [......【查看更多】......](./details/tags/canvas-image.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

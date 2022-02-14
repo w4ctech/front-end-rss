@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-02-14 05:39:22。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-14 05:54:25。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -293,6 +293,7 @@
 
 
 
+- [【V2EX】英伟达-上海-自动驾驶感知算法工程师](https://www.v2ex.com/t/833736)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -344,7 +345,6 @@
 
 
 
-- [【V2EX】广州10k-20k-医疗外企招聘-/-测试工程师-/-运维-DevOps-/-Java-工程师（可实习）](https://www.v2ex.com/t/833686)
 - [【开发者头条】推荐-百度和米哈游的Golang面试经验分享](https://toutiao.io/k/q0sox0k)
 - [......【查看更多】......](./details/tags/job-interview.md)
 

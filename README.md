@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-14 04:26:44，:rocket: 更新条数: +1883， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-14 04:45:57，:rocket: 更新条数: +1879， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,14 +491,15 @@
 </summary>
 
 
+- [2022-02-14-KCD-成都站-|-即日开启报名-|-活动日期：-2-月-26-日](https://www.v2ex.com/t/833720) ![](assets/new.png)  
+- [2022-02-14-为什么有些电子产品说明书上写着“不要用南孚电池，会烧，选其他牌子的电池”，这有什么科学依据么？](https://www.v2ex.com/t/833718) ![](assets/new.png)  
+- [2022-02-14-想知道自身技能水平,学历,工龄在某个城市能拿到多少-k-工资有什么途径?](https://www.v2ex.com/t/833717) ![](assets/new.png)  
+- [2022-02-14-上海-硅谷高科技-IOT-公司-Proxy-招-前端-UIUX-Python-iOS-补充公积金-大部分时间可-WFH](https://www.v2ex.com/t/833716) ![](assets/new.png)  
 - [2022-02-14-canvas-画笔的颜色透明度如何实现？](https://www.v2ex.com/t/833714) ![](assets/new.png)  
 - [2022-02-14-清华版电子书：“偏函数”和数学上的偏函数不一样。数学上的偏函数是啥？](https://www.v2ex.com/t/833713) ![](assets/new.png)  
-- [2022-02-14-xa8.net-这玩意是个啥？](https://www.v2ex.com/t/833711) ![](assets/new.png)  
-- [2022-02-14-谁有美区小火箭吗-借用下-Apple-ID](https://www.v2ex.com/t/833710) ![](assets/new.png)  
 - [2022-02-14-请教下关于交通事故中的赔偿问题](https://www.v2ex.com/t/833708) ![](assets/new.png)  
 - [2022-02-14-华为开发联盟邮箱-bug-了？](https://www.v2ex.com/t/833706) ![](assets/new.png)  
 - [2022-02-14-小米南京-～～～招-人～～～](https://www.v2ex.com/t/833705) ![](assets/new.png)  
-- [2022-02-14-印度区-YouTube-车位-还有-1-个座位，欢迎联系上车](https://www.v2ex.com/t/833704) ![](assets/new.png)  
 - [2022-02-14-小米解-BL-锁，除了等-168-小时还有别的靠谱的方法吗](https://www.v2ex.com/t/833703) ![](assets/new.png)  
 - [2022-02-14-Windows11-垂直副屏的诡异问题](https://www.v2ex.com/t/833702) ![](assets/new.png)  
 - [2022-02-14-QQ-可太厉害了，暂时冻结还有救吗？](https://www.v2ex.com/t/833701) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-02-14-内推-成功后奖金平分！坐标：北京](https://www.v2ex.com/t/833694) ![](assets/new.png)  
 - [2022-02-14-珠海维港口腔怎么样，帮在珠海的女朋友问问](https://www.v2ex.com/t/833693) ![](assets/new.png)  
 - [2022-02-14-想转行干厨师去](https://www.v2ex.com/t/833691) ![](assets/new.png)  
-- [2022-02-14-有没有能转发邮件到钉钉群的东西](https://www.v2ex.com/t/833690) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -558,20 +558,20 @@
 - [2022-02-14-网易开源-Envoy-企业级自定义扩展框架-Hango-Rider-简介](https://toutiao.io/k/4nqamzr) ![](assets/new.png)  
 - [2022-02-14-使用-Kafka、Debezium-和-Kubernetes-实现应用现代化的模式](https://toutiao.io/k/ks1h7if) ![](assets/new.png)  
 - [2022-02-14-Rust重头实现迷你Go语言](https://toutiao.io/k/xa9w1ne) ![](assets/new.png)  
-- [2022-02-14-浅析gowatch监听文件变动实现原理](https://toutiao.io/k/01w80df) ![](assets/new.png)  
 - [2022-02-14-什么人能成为Leader，大Leader该做什么](https://toutiao.io/k/pnlaqae) ![](assets/new.png)  
+- [2022-02-14-浅析gowatch监听文件变动实现原理](https://toutiao.io/k/01w80df) ![](assets/new.png)  
 - [2022-02-14-别再用-main-方法测试了，这才是专业-Java-测试方法！](https://toutiao.io/k/apxszeo) ![](assets/new.png)  
 - [2022-02-14-优化.NET-应用程序-CPU-和内存的11-个实践](https://toutiao.io/k/sczu14j) ![](assets/new.png)  
 - [2022-02-14-数据库存储选型经验总结](https://toutiao.io/k/54pasze) ![](assets/new.png)  
 - [2022-02-14-车载可爱太阳能招财猫，点击链接即可领券购买！](https://toutiao.io/k/lj1vbby) ![](assets/new.png)  
 - [2022-02-14-动态卷积效率低？UCSD&微软用矩阵分解的方法解决了这个问题，性能还更高！（ICLR2021）](https://toutiao.io/k/g1rf9c9) ![](assets/new.png)  
-- [2022-02-14-推荐-阿里专家：如何画出优秀的架构图？](https://toutiao.io/k/92sk26n) ![](assets/new.png)  
-- [2022-02-14-推荐-神器-Nginx-的学习手册-建议收藏-](https://toutiao.io/k/6f1qaso) ![](assets/new.png)  
 - [2022-02-14-推荐-支付系统架构设计详解](https://toutiao.io/k/5tx1zgw) ![](assets/new.png)  
-- [2022-02-14-推荐-Go-原生并发原语和最佳实践](https://toutiao.io/k/rdpao5x) ![](assets/new.png)  
+- [2022-02-14-推荐-神器-Nginx-的学习手册-建议收藏-](https://toutiao.io/k/6f1qaso) ![](assets/new.png)  
 - [2022-02-14-推荐-作为研发Leader，如何做总结](https://toutiao.io/k/1g7flto) ![](assets/new.png)  
-- [2022-02-14-推荐-真香啊！接私活必备的-N-个开源项目（附源码合集第一期）！收藏走起！](https://toutiao.io/k/he7umju) ![](assets/new.png)  
+- [2022-02-14-推荐-Go-原生并发原语和最佳实践](https://toutiao.io/k/rdpao5x) ![](assets/new.png)  
 - [2022-02-14-推荐-百度和米哈游的Golang面试经验分享](https://toutiao.io/k/q0sox0k) ![](assets/new.png)  
+- [2022-02-14-推荐-真香啊！接私活必备的-N-个开源项目（附源码合集第一期）！收藏走起！](https://toutiao.io/k/he7umju) ![](assets/new.png)  
+- [2022-02-14-推荐-阿里专家：如何画出优秀的架构图？](https://toutiao.io/k/92sk26n) ![](assets/new.png)  
 - [2022-02-14-推荐-如何撰写好的技术方案设计-真实案例干货分享](https://toutiao.io/k/0f5fv4t) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

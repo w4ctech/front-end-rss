@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-02-14 20:40:44。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-14 20:54:45。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1776,6 +1776,7 @@
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2022-02-04-HTML-inputmode与iOS-Android软键盘类型测试](https://www.zhangxinxu.com/wordpress/2022/02/html-inputmode-keyboard/) 
+- [2022-02-14-Kubernetes-官方纪录片](https://www.v2ex.com/t/833889) 
 - [2022-02-14-Windows-笔记本换机有什么优雅的系统迁移方案](https://www.v2ex.com/t/833888) 
 - [2022-02-14-又到了道理我都懂，就是迈不开第一步的境地。](https://www.v2ex.com/t/833887) 
 - [2022-02-14-请教如何在-sqlalchemy-model-的-event-里面停止删除或者用其他方式实现软删除](https://www.v2ex.com/t/833886) 
@@ -1826,9 +1827,9 @@
 - [2022-02-14-frm和ibd文件数据库恢复-www.xifenfei.com](https://blogread.cn/news/go.php?idItem=14925&url=https%3A%2F%2Fwww.xifenfei.com%2F2021%2F12%2Ffrm-ibm-recovery.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-02-14-流体系统-blog.codingnow.com](https://blogread.cn/news/go.php?idItem=14924&url=https%3A%2F%2Fblog.codingnow.com%2F2022%2F01%2Ffluid_system.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-02-14-2块大号猫抓板送猫薄荷送小块](https://toutiao.io/k/2qh6etz) 
-- [2022-02-14-推荐-作为研发Leader，如何做总结](https://toutiao.io/k/1g7flto) 
-- [2022-02-14-推荐-真香啊！接私活必备的-N-个开源项目（附源码合集第一期）！收藏走起！](https://toutiao.io/k/he7umju) 
-- [2022-02-14-推荐-如何撰写好的技术方案设计-真实案例干货分享](https://toutiao.io/k/0f5fv4t) 
 - [2022-02-14-推荐-支付系统架构设计详解](https://toutiao.io/k/5tx1zgw) 
+- [2022-02-14-推荐-真香啊！接私活必备的-N-个开源项目（附源码合集第一期）！收藏走起！](https://toutiao.io/k/he7umju) 
 - [2022-02-14-推荐-阿里专家：如何画出优秀的架构图？](https://toutiao.io/k/92sk26n) 
 - [2022-02-14-推荐-Go-原生并发原语和最佳实践](https://toutiao.io/k/rdpao5x) 
+- [2022-02-14-推荐-如何撰写好的技术方案设计-真实案例干货分享](https://toutiao.io/k/0f5fv4t) 
+- [2022-02-14-推荐-作为研发Leader，如何做总结](https://toutiao.io/k/1g7flto) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-14 02:05:10，:rocket: 更新条数: +1884， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-14 02:23:31，:rocket: 更新条数: +1883， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,13 @@
 </summary>
 
 
+- [2022-02-14-干货收藏-||-Vulkan-Game-Engine-视频教程](https://www.v2ex.com/t/833672) ![](assets/new.png)  
+- [2022-02-14-小程序-canvas-画笔的颜色透明度如何实现？](https://www.v2ex.com/t/833671) ![](assets/new.png)  
+- [2022-02-14-网关是个什么东西？](https://www.v2ex.com/t/833670) ![](assets/new.png)  
+- [2022-02-14-推一下这份持续更新了接近-5-年的英语进阶指南](https://www.v2ex.com/t/833669) ![](assets/new.png)  
+- [2022-02-14-到底什么情况下跑路](https://www.v2ex.com/t/833667) ![](assets/new.png)  
+- [2022-02-14-该微信号因涉嫌发布恶性谣言等违法违规内容，当前被关闭群聊、朋友圈等功能！](https://www.v2ex.com/t/833665) ![](assets/new.png)  
+- [2022-02-14-请问有-v-友遇到-Dock-闪烁的情况吗？](https://www.v2ex.com/t/833664) ![](assets/new.png)  
 - [2022-02-14-关于上海地区买车上外地牌的一些疑问](https://www.v2ex.com/t/833663) ![](assets/new.png)  
 - [2022-02-14-Java-on-Visual-Studio-Code-的更新-–-2022-年-2-月](https://www.v2ex.com/t/833661) ![](assets/new.png)  
 - [2022-02-14-女友要在老家贷款买房](https://www.v2ex.com/t/833660) ![](assets/new.png)  
@@ -504,13 +511,6 @@
 - [2022-02-14-今天情人节，大家都怎么过？我看一下有没有新奇的](https://www.v2ex.com/t/833648) ![](assets/new.png)  
 - [2022-02-14-新装的-win10-ltsc，部分数字显示乱码？](https://www.v2ex.com/t/833647) ![](assets/new.png)  
 - [2022-02-14-现在拍沪牌都有什么黑科技工具](https://www.v2ex.com/t/833646) ![](assets/new.png)  
-- [2022-02-14-Apple-Watch-升级系统续航尿崩后续](https://www.v2ex.com/t/833645) ![](assets/new.png)  
-- [2022-02-14-由于工作需要，你们写工作日志用什么记录的？印象笔记？-OneNote？为知笔记？还是](https://www.v2ex.com/t/833644) ![](assets/new.png)  
-- [2022-02-14-iPhone13-屏幕拖影](https://www.v2ex.com/t/833642) ![](assets/new.png)  
-- [2022-02-13-Apple-TV-Plus-试用感受](https://www.v2ex.com/t/833641) ![](assets/new.png)  
-- [2022-02-13-浏览器firefox如何屏蔽掉页面上带有某个关键词的链接？](https://www.v2ex.com/t/833640) ![](assets/new.png)  
-- [2022-02-13-移动首年优惠没了...-早知道多包一年了..](https://www.v2ex.com/t/833639) ![](assets/new.png)  
-- [2022-02-13-求助关于学习路线的规划，大佬们看看有什么建议](https://www.v2ex.com/t/833638) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -561,18 +561,18 @@
 - [2022-02-14-浅析gowatch监听文件变动实现原理](https://toutiao.io/k/01w80df) ![](assets/new.png)  
 - [2022-02-14-优化.NET-应用程序-CPU-和内存的11-个实践](https://toutiao.io/k/sczu14j) ![](assets/new.png)  
 - [2022-02-14-车载可爱太阳能招财猫，点击链接即可领券购买！](https://toutiao.io/k/lj1vbby) ![](assets/new.png)  
-- [2022-02-14-为什么HTTPS是安全的？](https://toutiao.io/k/v6tppd6) ![](assets/new.png)  
 - [2022-02-14-别再用-main-方法测试了，这才是专业-Java-测试方法！](https://toutiao.io/k/apxszeo) ![](assets/new.png)  
 - [2022-02-14-数据库存储选型经验总结](https://toutiao.io/k/54pasze) ![](assets/new.png)  
-- [2022-02-14-用Compose画个小老虎恭贺新春](https://toutiao.io/k/dy8cz78) ![](assets/new.png)  
-- [2022-02-14-动态卷积效率低？UCSD&微软用矩阵分解的方法解决了这个问题，性能还更高！（ICLR2021）](https://toutiao.io/k/g1rf9c9) ![](assets/new.png)  
 - [2022-02-14-什么人能成为Leader，大Leader该做什么](https://toutiao.io/k/pnlaqae) ![](assets/new.png)  
-- [2022-02-14-推荐-作为研发Leader，如何做总结](https://toutiao.io/k/1g7flto) ![](assets/new.png)  
+- [2022-02-14-动态卷积效率低？UCSD&微软用矩阵分解的方法解决了这个问题，性能还更高！（ICLR2021）](https://toutiao.io/k/g1rf9c9) ![](assets/new.png)  
 - [2022-02-14-推荐-Go-原生并发原语和最佳实践](https://toutiao.io/k/rdpao5x) ![](assets/new.png)  
-- [2022-02-14-推荐-真香啊！接私活必备的-N-个开源项目（附源码合集第一期）！收藏走起！](https://toutiao.io/k/he7umju) ![](assets/new.png)  
-- [2022-02-14-推荐-神器-Nginx-的学习手册-建议收藏-](https://toutiao.io/k/6f1qaso) ![](assets/new.png)  
-- [2022-02-14-推荐-百度和米哈游的Golang面试经验分享](https://toutiao.io/k/q0sox0k) ![](assets/new.png)  
+- [2022-02-14-推荐-支付系统架构设计详解](https://toutiao.io/k/5tx1zgw) ![](assets/new.png)  
 - [2022-02-14-推荐-阿里专家：如何画出优秀的架构图？](https://toutiao.io/k/92sk26n) ![](assets/new.png)  
+- [2022-02-14-推荐-作为研发Leader，如何做总结](https://toutiao.io/k/1g7flto) ![](assets/new.png)  
+- [2022-02-14-推荐-真香啊！接私活必备的-N-个开源项目（附源码合集第一期）！收藏走起！](https://toutiao.io/k/he7umju) ![](assets/new.png)  
+- [2022-02-14-推荐-百度和米哈游的Golang面试经验分享](https://toutiao.io/k/q0sox0k) ![](assets/new.png)  
+- [2022-02-14-推荐-神器-Nginx-的学习手册-建议收藏-](https://toutiao.io/k/6f1qaso) ![](assets/new.png)  
+- [2022-02-14-推荐-如何撰写好的技术方案设计-真实案例干货分享](https://toutiao.io/k/0f5fv4t) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

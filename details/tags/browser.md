@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-02-13 23:54:33。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-14 00:40:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -16,5 +16,3 @@
 - [2022-02-13-浏览器firefox如何屏蔽掉页面上带有某个关键词的链接？](https://www.v2ex.com/t/833640) 
 - [2022-02-13-问一下各位大佬,-golang-中-想要给-*websocket.Conn-实现-Reader接口,-两种方法其中一个失败的原因](https://www.v2ex.com/t/833623) 
 - [2022-02-13-http1.1-长连接与-golang-并发请求的疑问](https://www.v2ex.com/t/833608) 
-- [2022-02-13-一种开发-Chrome-扩展程序的新姿势](https://toutiao.io/k/zq92ag2) 
-- [2022-02-13-提高云端数据安全的十条“军规”](https://toutiao.io/k/cfdgv1v) 

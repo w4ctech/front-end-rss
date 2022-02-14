@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-14 07:12:56，:rocket: 更新条数: +1892， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-14 07:20:09，:rocket: 更新条数: +1893， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,9 @@
 </summary>
 
 
+- [2022-02-14-为啥-Apple-推出-Siri10-年，她还像个傻子。。。](https://www.v2ex.com/t/833773) ![](assets/new.png)  
+- [2022-02-14-持有了-10-年的域名今天在阿里云卖了-5000-块，意外之财了属于是](https://www.v2ex.com/t/833772) ![](assets/new.png)  
+- [2022-02-14-寻找临时展示给朋友-markdown-页面友好的方式](https://www.v2ex.com/t/833771) ![](assets/new.png)  
 - [2022-02-14-奈飞自用合租车寻车友](https://www.v2ex.com/t/833769) ![](assets/new.png)  
 - [2022-02-14-英伟达-Nvidia-上海-高级计算机视觉工程师-自动驾驶地图方向](https://www.v2ex.com/t/833768) ![](assets/new.png)  
 - [2022-02-14-老婆经常从娘家那向我们家倒腾钱。。。](https://www.v2ex.com/t/833766) ![](assets/new.png)  
@@ -508,9 +511,6 @@
 - [2022-02-14-某宝-app-挂着小火箭经常加载不出来商品详情](https://www.v2ex.com/t/833752) ![](assets/new.png)  
 - [2022-02-14-发一下最近两个适用于独立开发者的产品项目](https://www.v2ex.com/t/833750) ![](assets/new.png)  
 - [2022-02-14-wolai-是不是在抄-notion？](https://www.v2ex.com/t/833749) ![](assets/new.png)  
-- [2022-02-14-妹妹和男友意外怀孕，该怎么办？](https://www.v2ex.com/t/833746) ![](assets/new.png)  
-- [2022-02-14-德国计划找工作](https://www.v2ex.com/t/833745) ![](assets/new.png)  
-- [2022-02-14-听朋友说很多公司用-go-写的业务系统写不下去，现在都开始用-Java-写了，是真的吗？？](https://www.v2ex.com/t/833744) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -572,7 +572,7 @@
 - [2022-02-14-玩转-Spring-Boot-集成篇（@Scheduled、静态、动态定时任务）](https://toutiao.io/k/2on9cof) ![](assets/new.png)  
 - [2022-02-14-ZLT-MP-v5.2.0-发布](https://toutiao.io/k/u2cmn1e) ![](assets/new.png)  
 - [2022-02-14-建木持续集成平台v2.2.2发布](https://toutiao.io/k/0a1wx80) ![](assets/new.png)  
-- [2022-02-14-推荐-作为研发Leader，如何做总结](https://toutiao.io/k/1g7flto) ![](assets/new.png)  
+- [2022-02-14-推荐-阿里专家：如何画出优秀的架构图？](https://toutiao.io/k/92sk26n) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

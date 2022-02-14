@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-14 05:11:59，:rocket: 更新条数: +1880， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-14 05:19:51，:rocket: 更新条数: +1880， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-02-14-VMware-Fusion-貌似已经支持-M1-了](https://www.v2ex.com/t/833730) ![](assets/new.png)  
+- [2022-02-14-Nginx-做反代，设置-SSL-证书问题](https://www.v2ex.com/t/833729) ![](assets/new.png)  
 - [2022-02-14-请问，有没有云端-xcode-编译环境](https://www.v2ex.com/t/833728) ![](assets/new.png)  
 - [2022-02-14-boss-直聘开玩笑，调戏妹子，被封了怎么办](https://www.v2ex.com/t/833727) ![](assets/new.png)  
 - [2022-02-14-老哥门，有无成都的内推，岗位爬虫工程师](https://www.v2ex.com/t/833726) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-02-14-小米解-BL-锁，除了等-168-小时还有别的靠谱的方法吗](https://www.v2ex.com/t/833703) ![](assets/new.png)  
 - [2022-02-14-Windows11-垂直副屏的诡异问题](https://www.v2ex.com/t/833702) ![](assets/new.png)  
 - [2022-02-14-QQ-可太厉害了，暂时冻结还有救吗？](https://www.v2ex.com/t/833701) ![](assets/new.png)  
-- [2022-02-14-着实是误会微软了，-win11-竟增加如此特性](https://www.v2ex.com/t/833700) ![](assets/new.png)  
-- [2022-02-14-有好兄弟做过仪征麻将](https://www.v2ex.com/t/833699) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -565,14 +565,14 @@
 - [2022-02-14-数据库存储选型经验总结](https://toutiao.io/k/54pasze) ![](assets/new.png)  
 - [2022-02-14-车载可爱太阳能招财猫，点击链接即可领券购买！](https://toutiao.io/k/lj1vbby) ![](assets/new.png)  
 - [2022-02-14-动态卷积效率低？UCSD&微软用矩阵分解的方法解决了这个问题，性能还更高！（ICLR2021）](https://toutiao.io/k/g1rf9c9) ![](assets/new.png)  
-- [2022-02-14-推荐-作为研发Leader，如何做总结](https://toutiao.io/k/1g7flto) ![](assets/new.png)  
 - [2022-02-14-推荐-如何撰写好的技术方案设计-真实案例干货分享](https://toutiao.io/k/0f5fv4t) ![](assets/new.png)  
-- [2022-02-14-推荐-真香啊！接私活必备的-N-个开源项目（附源码合集第一期）！收藏走起！](https://toutiao.io/k/he7umju) ![](assets/new.png)  
-- [2022-02-14-推荐-支付系统架构设计详解](https://toutiao.io/k/5tx1zgw) ![](assets/new.png)  
-- [2022-02-14-推荐-百度和米哈游的Golang面试经验分享](https://toutiao.io/k/q0sox0k) ![](assets/new.png)  
-- [2022-02-14-推荐-阿里专家：如何画出优秀的架构图？](https://toutiao.io/k/92sk26n) ![](assets/new.png)  
+- [2022-02-14-推荐-作为研发Leader，如何做总结](https://toutiao.io/k/1g7flto) ![](assets/new.png)  
 - [2022-02-14-推荐-Go-原生并发原语和最佳实践](https://toutiao.io/k/rdpao5x) ![](assets/new.png)  
+- [2022-02-14-推荐-真香啊！接私活必备的-N-个开源项目（附源码合集第一期）！收藏走起！](https://toutiao.io/k/he7umju) ![](assets/new.png)  
+- [2022-02-14-推荐-百度和米哈游的Golang面试经验分享](https://toutiao.io/k/q0sox0k) ![](assets/new.png)  
+- [2022-02-14-推荐-支付系统架构设计详解](https://toutiao.io/k/5tx1zgw) ![](assets/new.png)  
 - [2022-02-14-推荐-神器-Nginx-的学习手册-建议收藏-](https://toutiao.io/k/6f1qaso) ![](assets/new.png)  
+- [2022-02-14-推荐-阿里专家：如何画出优秀的架构图？](https://toutiao.io/k/92sk26n) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

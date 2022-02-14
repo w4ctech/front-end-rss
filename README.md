@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-14 09:41:04，:rocket: 更新条数: +1897， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-14 09:54:36，:rocket: 更新条数: +1898， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -70,6 +70,7 @@
 - [2022-02-14-记者手记｜浪尖上的第三方核酸检测：时效紧、单价低，暴利时代已远去](https://m.caixin.com/m/2022-02-14/101841436.html) ![](assets/new.png)  
 - [2022-02-14-【境内疫情观察】全国新增26例本土病例（2月13日）](https://database.caixin.com/m/2022-02-14/101841558.html) ![](assets/new.png)  
 - [2022-02-14-越南将结束国际航班限制-加拿大清走“大使桥”抗议者｜大流行手记（2月13日）](https://m.caixin.com/m/2022-02-14/101841402.html) ![](assets/new.png)  
+- [2022-02-14-【图集】苏州工业园区启动全员核酸检测](https://photos.caixin.com/m/2022-02-14/101841529.html) ![](assets/new.png)  
 - [2022-02-13-最新海外疫情：新冠感染超4.09亿-累计接种新冠疫苗超103.17亿剂次](https://m.caixin.com/m/2022-02-13/101841257.html) ![](assets/new.png)  
 - [2022-02-13-【境内疫情观察】全国新增28例本土病例（2月12日）](https://database.caixin.com/m/2022-02-13/101841209.html) ![](assets/new.png)  
 - [2022-02-13-挪威取消几乎所有限制措施-多国疫苗抗议增加｜大流行手记（2月12日）](https://m.caixin.com/m/2022-02-13/101841166.html) ![](assets/new.png)  
@@ -84,7 +85,6 @@
 - [2022-02-10-严防“物传人”-杭州部分进口商品专业卖场暂停经营](https://m.caixin.com/m/2022-02-10/101839784.html) ![](assets/new.png)  
 - [2022-02-10-【境内疫情观察】广西新增7例本土病例（2月9日）](https://database.caixin.com/m/2022-02-10/101839821.html) ![](assets/new.png)  
 - [2022-02-10-美计划为5岁以下儿童接种疫苗-全球病例超4亿｜大流行手记（2月9日）](https://m.caixin.com/m/2022-02-10/101839650.html) ![](assets/new.png)  
-- [2022-02-09-香港日增病例破千-医院急诊室严重超负荷](https://m.caixin.com/m/2022-02-09/101839506.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-02-14-k8s-同一个-namespace,-udp-读写不支持吗](https://www.v2ex.com/t/833825) ![](assets/new.png)  
+- [2022-02-14-不懂就问，请问这个-UU-的根证书是用来做什么的？](https://www.v2ex.com/t/833824) ![](assets/new.png)  
 - [2022-02-14-如何根据-timezone-name-获取-GMT-时区](https://www.v2ex.com/t/833822) ![](assets/new.png)  
 - [2022-02-14-西数紫盘怎么供电](https://www.v2ex.com/t/833821) ![](assets/new.png)  
 - [2022-02-14-求推荐，标签打印机家用，希望功能有：蓝牙或网络连接、能手机控制打印内容、标签的大小可调节、能制作条形码或二维码。网上搜了一下，参差不齐的，不太敢下手。](https://www.v2ex.com/t/833820) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-02-14-1-个不错的-dns-查询测试工具](https://www.v2ex.com/t/833803) ![](assets/new.png)  
 - [2022-02-14-二胎烦恼和身边大龄未婚青年的烦恼](https://www.v2ex.com/t/833801) ![](assets/new.png)  
 - [2022-02-14-没人发？-M1-适配的-oracle-jdk-的来了](https://www.v2ex.com/t/833800) ![](assets/new.png)  
-- [2022-02-14-你们国内手机能正常接到美国打过来的电话吗](https://www.v2ex.com/t/833799) ![](assets/new.png)  
-- [2022-02-14-假期做了一个拦截垃圾短信的-App](https://www.v2ex.com/t/833798) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -564,8 +564,8 @@
 - [2022-02-14-浅析gowatch监听文件变动实现原理](https://toutiao.io/k/01w80df) ![](assets/new.png)  
 - [2022-02-14-优化.NET-应用程序-CPU-和内存的11-个实践](https://toutiao.io/k/sczu14j) ![](assets/new.png)  
 - [2022-02-14-车载可爱太阳能招财猫，点击链接即可领券购买！](https://toutiao.io/k/lj1vbby) ![](assets/new.png)  
-- [2022-02-14-动态卷积效率低？UCSD&微软用矩阵分解的方法解决了这个问题，性能还更高！（ICLR2021）](https://toutiao.io/k/g1rf9c9) ![](assets/new.png)  
 - [2022-02-14-爱的五种语言，你会吗？](https://toutiao.io/k/svyk1vc) ![](assets/new.png)  
+- [2022-02-14-动态卷积效率低？UCSD&微软用矩阵分解的方法解决了这个问题，性能还更高！（ICLR2021）](https://toutiao.io/k/g1rf9c9) ![](assets/new.png)  
 - [2022-02-14-字符作画，我用字符画个冰墩墩](https://toutiao.io/k/f819vz0) ![](assets/new.png)  
 - [2022-02-14-玩转-Spring-Boot-集成篇（@Scheduled、静态、动态定时任务）](https://toutiao.io/k/2on9cof) ![](assets/new.png)  
 - [2022-02-14-【线上故障】通过系统日志分析和定位](https://toutiao.io/k/xyztj7f) ![](assets/new.png)  

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-14 10:54:38，:rocket: 更新条数: +1895， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-14 11:11:19，:rocket: 更新条数: +1894， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-02-14-给-NUC-换了个机箱，猫扇加持，极度安静](https://www.v2ex.com/t/833846) ![](assets/new.png)  
+- [2022-02-14-今天-214，大家有没有大学时候感情意难平的事情？](https://www.v2ex.com/t/833845) ![](assets/new.png)  
 - [2022-02-14-mi-8-pro-国际版，-开发者模式中的-USB-tethering-，无法选中](https://www.v2ex.com/t/833843) ![](assets/new.png)  
 - [2022-02-14-顺丰快递员侧取消寄件订单的逻辑是不是可以改进下！](https://www.v2ex.com/t/833842) ![](assets/new.png)  
 - [2022-02-14-有偿找一个会-Polkadot-的接链开发人员](https://www.v2ex.com/t/833841) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-02-14-不懂就问，请问这个-UU-的根证书是用来做什么的？](https://www.v2ex.com/t/833824) ![](assets/new.png)  
 - [2022-02-14-如何根据-timezone-name-获取-GMT-时区](https://www.v2ex.com/t/833822) ![](assets/new.png)  
 - [2022-02-14-西数紫盘怎么供电](https://www.v2ex.com/t/833821) ![](assets/new.png)  
-- [2022-02-14-求推荐，标签打印机家用，希望功能有：蓝牙或网络连接、能手机控制打印内容、标签的大小可调节、能制作条形码或二维码。网上搜了一下，参差不齐的，不太敢下手。](https://www.v2ex.com/t/833820) ![](assets/new.png)  
-- [2022-02-14-支付宝搜索-apple-专区-可领-4-个月-icloud+](https://www.v2ex.com/t/833819) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -572,7 +572,7 @@
 - [2022-02-14-认识你的时候我15岁-祝有情人终成眷属（情人节快乐）](https://toutiao.io/k/3qiu8qz) ![](assets/new.png)  
 - [2022-02-14-建木持续集成平台v2.2.2发布](https://toutiao.io/k/0a1wx80) ![](assets/new.png)  
 - [2022-02-14-ZLT-MP-v5.2.0-发布](https://toutiao.io/k/u2cmn1e) ![](assets/new.png)  
-- [2022-02-14-推荐-作为研发Leader，如何做总结](https://toutiao.io/k/1g7flto) ![](assets/new.png)  
+- [2022-02-14-推荐-Go-原生并发原语和最佳实践](https://toutiao.io/k/rdpao5x) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

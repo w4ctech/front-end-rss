@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-02-14 10:54:38。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-14 11:11:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1776,6 +1776,8 @@
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2022-02-04-HTML-inputmode与iOS-Android软键盘类型测试](https://www.zhangxinxu.com/wordpress/2022/02/html-inputmode-keyboard/) 
+- [2022-02-14-给-NUC-换了个机箱，猫扇加持，极度安静](https://www.v2ex.com/t/833846) 
+- [2022-02-14-今天-214，大家有没有大学时候感情意难平的事情？](https://www.v2ex.com/t/833845) 
 - [2022-02-14-mi-8-pro-国际版，-开发者模式中的-USB-tethering-，无法选中](https://www.v2ex.com/t/833843) 
 - [2022-02-14-顺丰快递员侧取消寄件订单的逻辑是不是可以改进下！](https://www.v2ex.com/t/833842) 
 - [2022-02-14-有偿找一个会-Polkadot-的接链开发人员](https://www.v2ex.com/t/833841) 
@@ -1808,9 +1810,6 @@
 - [2022-02-14-你们国内手机能正常接到美国打过来的电话吗](https://www.v2ex.com/t/833799) 
 - [2022-02-14-假期做了一个拦截垃圾短信的-App](https://www.v2ex.com/t/833798) 
 - [2022-02-14-有哪些过时，但是便宜的运动相机](https://www.v2ex.com/t/833797) 
-- [2022-02-14-MIUI-12-到底还能不能用-google-play](https://www.v2ex.com/t/833796) 
-- [2022-02-14-预算一千，有什么好看的手表推荐吗？](https://www.v2ex.com/t/833795) 
-- [2022-02-14-浪潮杭州这里的部门值得去吗？](https://www.v2ex.com/t/833794) 
 - [2022-02-14-推荐几款好用的文本编辑器-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14942&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493346%26amp%3Bidx%3D1%26amp%3Bsn%3D0ef808a629a358b59a32154a8dec322e%26amp%3Bchksm%3Dfa3f07b9cd488eaf74721223621f30a5592e3f3bad32c95c27cd69dffa9ca188fcdf1cba51f0%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-02-14-免费！快速上手R语言，这本书一定要看！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14941&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493346%26amp%3Bidx%3D2%26amp%3Bsn%3Df7cf33db4f64e063e501c916e5625c62%26amp%3Bchksm%3Dfa3f07b9cd488eaf5ae3cb27bb5121d968aa0a602e069c8854a5c764fc8b4a85ad273d928585%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-02-14-《天龙八部》这段高潮，只有搞IT的才看得懂-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14940&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493345%26amp%3Bidx%3D1%26amp%3Bsn%3D6eaa80e3313ea46ab111e942c59c2b25%26amp%3Bchksm%3Dfa3f07bacd488eac768db573a43e296b7f0ffc225f34a9e4c2f899ed7ddff9a831093e6abe06%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1846,9 +1845,9 @@
 - [2022-02-14-认识你的时候我15岁-祝有情人终成眷属（情人节快乐）](https://toutiao.io/k/3qiu8qz) 
 - [2022-02-14-建木持续集成平台v2.2.2发布](https://toutiao.io/k/0a1wx80) 
 - [2022-02-14-ZLT-MP-v5.2.0-发布](https://toutiao.io/k/u2cmn1e) 
-- [2022-02-14-推荐-作为研发Leader，如何做总结](https://toutiao.io/k/1g7flto) 
 - [2022-02-14-推荐-Go-原生并发原语和最佳实践](https://toutiao.io/k/rdpao5x) 
-- [2022-02-14-推荐-阿里专家：如何画出优秀的架构图？](https://toutiao.io/k/92sk26n) 
-- [2022-02-14-推荐-真香啊！接私活必备的-N-个开源项目（附源码合集第一期）！收藏走起！](https://toutiao.io/k/he7umju) 
-- [2022-02-14-推荐-如何撰写好的技术方案设计-真实案例干货分享](https://toutiao.io/k/0f5fv4t) 
 - [2022-02-14-推荐-支付系统架构设计详解](https://toutiao.io/k/5tx1zgw) 
+- [2022-02-14-推荐-真香啊！接私活必备的-N-个开源项目（附源码合集第一期）！收藏走起！](https://toutiao.io/k/he7umju) 
+- [2022-02-14-推荐-阿里专家：如何画出优秀的架构图？](https://toutiao.io/k/92sk26n) 
+- [2022-02-14-推荐-如何撰写好的技术方案设计-真实案例干货分享](https://toutiao.io/k/0f5fv4t) 
+- [2022-02-14-推荐-作为研发Leader，如何做总结](https://toutiao.io/k/1g7flto) 

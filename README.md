@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-14 10:13:09，:rocket: 更新条数: +1898， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-14 10:22:50，:rocket: 更新条数: +1898， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -68,6 +68,7 @@
 - [2022-02-14-最新疫情：全国新冠累计确诊107014例-累计接种新冠疫苗超30.46亿剂次](https://m.caixin.com/m/2022-02-14/101841655.html) ![](assets/new.png)  
 - [2022-02-14-苏州现8例新冠感染者-多在工业园区工作](https://m.caixin.com/m/2022-02-14/101841328.html) ![](assets/new.png)  
 - [2022-02-14-记者手记｜浪尖上的第三方核酸检测：时效紧、单价低，暴利时代已远去](https://m.caixin.com/m/2022-02-14/101841436.html) ![](assets/new.png)  
+- [2022-02-14-最新海外疫情：新冠感染超4.1亿-累计接种新冠疫苗近103亿剂次](https://m.caixin.com/m/2022-02-14/101841671.html) ![](assets/new.png)  
 - [2022-02-14-【境内疫情观察】全国新增26例本土病例（2月13日）](https://database.caixin.com/m/2022-02-14/101841558.html) ![](assets/new.png)  
 - [2022-02-14-越南将结束国际航班限制-加拿大清走“大使桥”抗议者｜大流行手记（2月13日）](https://m.caixin.com/m/2022-02-14/101841402.html) ![](assets/new.png)  
 - [2022-02-14-【图集】苏州工业园区启动全员核酸检测](https://photos.caixin.com/m/2022-02-14/101841529.html) ![](assets/new.png)  
@@ -84,7 +85,6 @@
 - [2022-02-10-严防“物传人”-杭州部分进口商品专业卖场暂停经营](https://m.caixin.com/m/2022-02-10/101839784.html) ![](assets/new.png)  
 - [2022-02-10-【境内疫情观察】广西新增7例本土病例（2月9日）](https://database.caixin.com/m/2022-02-10/101839821.html) ![](assets/new.png)  
 - [2022-02-10-美计划为5岁以下儿童接种疫苗-全球病例超4亿｜大流行手记（2月9日）](https://m.caixin.com/m/2022-02-10/101839650.html) ![](assets/new.png)  
-- [2022-02-09-香港日增病例破千-医院急诊室严重超负荷](https://m.caixin.com/m/2022-02-09/101839506.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -491,6 +491,10 @@
 </summary>
 
 
+- [2022-02-14-求助苦恼了很久的终端下某些符号的错位问题](https://www.v2ex.com/t/833836) ![](assets/new.png)  
+- [2022-02-14-杭州、上海、北京、广州-招-Java-、Go、产品经理，欢迎应届、实习-内推邮箱：-zenlayer.hire@gmail.com](https://www.v2ex.com/t/833835) ![](assets/new.png)  
+- [2022-02-14-有了解法律的同学么？小区物业维权问题](https://www.v2ex.com/t/833834) ![](assets/new.png)  
+- [2022-02-14-想拿到一些虚拟货币实时价格，哪里可以找到合适的-api？](https://www.v2ex.com/t/833833) ![](assets/new.png)  
 - [2022-02-14-哈哈哈，你们进去看下，有什么不对吗](https://www.v2ex.com/t/833832) ![](assets/new.png)  
 - [2022-02-14-深圳/北京/上海-Shopee-2-月内推，后端（Go-&-Java-）/-前端-/-测试](https://www.v2ex.com/t/833831) ![](assets/new.png)  
 - [2022-02-14-关于-21-款-MacBook，各位大佬有啥墙裂推荐的配件么？](https://www.v2ex.com/t/833830) ![](assets/new.png)  
@@ -507,10 +511,6 @@
 - [2022-02-14-正做一个-web-端用户自选组件生成移动端页面的功能，求一个监听鼠标点击位置的最佳实现方法？](https://www.v2ex.com/t/833818) ![](assets/new.png)  
 - [2022-02-14-不格式化的情况下如何复制迁移-Windows-系统？](https://www.v2ex.com/t/833817) ![](assets/new.png)  
 - [2022-02-14-airplay-只有声音没有图像，请问怎么解决](https://www.v2ex.com/t/833814) ![](assets/new.png)  
-- [2022-02-14-赶紧抛掉所有腾讯股票吧](https://www.v2ex.com/t/833813) ![](assets/new.png)  
-- [2022-02-14-记一次-Win11-开机蓝屏的恢复](https://www.v2ex.com/t/833812) ![](assets/new.png)  
-- [2022-02-14-微信文件助手-bot](https://www.v2ex.com/t/833810) ![](assets/new.png)  
-- [2022-02-14-关于给爸妈写了一个短信拦截-App-这件事](https://www.v2ex.com/t/833808) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -572,7 +572,7 @@
 - [2022-02-14-认识你的时候我15岁-祝有情人终成眷属（情人节快乐）](https://toutiao.io/k/3qiu8qz) ![](assets/new.png)  
 - [2022-02-14-建木持续集成平台v2.2.2发布](https://toutiao.io/k/0a1wx80) ![](assets/new.png)  
 - [2022-02-14-ZLT-MP-v5.2.0-发布](https://toutiao.io/k/u2cmn1e) ![](assets/new.png)  
-- [2022-02-14-推荐-真香啊！接私活必备的-N-个开源项目（附源码合集第一期）！收藏走起！](https://toutiao.io/k/he7umju) ![](assets/new.png)  
+- [2022-02-14-推荐-神器-Nginx-的学习手册-建议收藏-](https://toutiao.io/k/6f1qaso) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

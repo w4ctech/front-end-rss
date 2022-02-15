@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-02-15 07:19:44。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-15 07:35:35。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -184,8 +184,6 @@
 - [【张鑫旭-鑫空间-鑫生活】从js-visibilitychange-Safari下无效说开去](https://www.zhangxinxu.com/wordpress/2021/11/js-visibilitychange-pagehide-lifecycle/)
 - [【V2EX】分享一个-JAVASCRIPTAMAZON-SES-SDK发送邮件的方法，-便宜好用！](https://www.v2ex.com/t/833981)
 - [【V2EX】求个前端-table-组件，支持自定义列和字段](https://www.v2ex.com/t/833959)
-- [【V2EX】html5-推-rtmp-流的方案？](https://www.v2ex.com/t/833952)
-- [【V2EX】国内用哪个-js/css-公共-cdn-比较好？最近我这边（广东）访问-cdn.jsdelivr.net-偶尔有联不通的情况。](https://www.v2ex.com/t/833949)
 - [【开发者头条】深入理解Go-Json.Unmarshal精度丢失之谜](https://toutiao.io/k/uhqypuz)
 - [......【查看更多】......](./details/tags/javascript.md)
 
@@ -298,6 +296,7 @@
 
 
 
+- [【V2EX】我又来推广我的博客了，这次聊聊从面试官的角度来看算法面试](https://www.v2ex.com/t/833998)
 - [【V2EX】上海-英伟达-GPU-基础架构-C++](https://www.v2ex.com/t/833975)
 - [【V2EX】育碧上海---招聘-Python-后端开发工程师，全栈开发工程师](https://www.v2ex.com/t/833961)
 - [【开发者头条】Elasticsearch-断路器报错了，怎么办？](https://toutiao.io/k/jnyt0mv)

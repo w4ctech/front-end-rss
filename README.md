@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-15 14:19:52，:rocket: 更新条数: +1906， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-15 14:35:56，:rocket: 更新条数: +1880， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -53,7 +53,7 @@
 - [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)![](assets/dot.png)   
-- [开发者头条](#开发者头条)![](assets/dot.png)   
+- [开发者头条](#开发者头条)  
 - [安全热点](#安全热点)  
 - [物联网智库](#物联网智库)  
 
@@ -66,10 +66,11 @@
 
 
 - [2022-02-15-最新疫情：全国新冠累计确诊107094例-累计接种新冠疫苗超30.52亿剂次](https://m.caixin.com/m/2022-02-15/101842173.html) ![](assets/new.png)  
+- [2022-02-15-广州报告3例阳性病例-专家称传播风险较大](https://m.caixin.com/m/2022-02-15/101842301.html) ![](assets/new.png)  
 - [2022-02-15-香港疫情通过海上路线溢出-湖南郴州报告2例阳性病例](https://m.caixin.com/m/2022-02-15/101842241.html) ![](assets/new.png)  
 - [2022-02-15-联电苏州工厂一员工确诊新冠-停工影响几何？](https://m.caixin.com/m/2022-02-15/101842221.html) ![](assets/new.png)  
-- [2022-02-15-跨境货车司机阳性病例增至35例-供港物资压力加大](https://m.caixin.com/m/2022-02-15/101841970.html) ![](assets/new.png)  
 - [2022-02-15-最新海外疫情：新冠感染超4.12亿-累计接种新冠疫苗超103.02亿剂次](https://m.caixin.com/m/2022-02-15/101842177.html) ![](assets/new.png)  
+- [2022-02-15-跨境货车司机阳性病例增至35例-供港物资压力加大](https://m.caixin.com/m/2022-02-15/101841970.html) ![](assets/new.png)  
 - [2022-02-15-香港初步确诊病例再翻倍-两长者过世后才确诊](https://m.caixin.com/m/2022-02-15/101841897.html) ![](assets/new.png)  
 - [2022-02-15-【境内疫情观察】江苏新增8例本土病例（2月14日）](https://database.caixin.com/m/2022-02-15/101842129.html) ![](assets/new.png)  
 - [2022-02-15-日本居家患者超50万人，瑞典、韩国开启第四针疫苗｜大流行手记（2月14日）](https://m.caixin.com/m/2022-02-15/101841904.html) ![](assets/new.png)  
@@ -84,7 +85,6 @@
 - [2022-02-12-记者手记｜数百万“长新冠”患者，成为欧美社会的新焦点](https://m.caixin.com/m/2022-02-12/101841104.html) ![](assets/new.png)  
 - [2022-02-12-【境内疫情观察】全国新增40例本土病例（2月11日）](https://database.caixin.com/m/2022-02-12/101840997.html) ![](assets/new.png)  
 - [2022-02-12-礼来将向美国供应60万剂新冠抗体，辉瑞口服药可进口中国｜大流行手记（2月11日）](https://m.caixin.com/m/2022-02-12/101840901.html) ![](assets/new.png)  
-- [2022-02-12-辉瑞新冠口服药获中国药监局附条件批准-全球预计今年可提供1.2亿疗程](https://m.caixin.com/m/2022-02-12/101840963.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-02-15-为知笔记私有部署后如何同步之前自己的数据过来?](https://www.v2ex.com/t/834098) ![](assets/new.png)  
+- [2022-02-15-dell-u2723qe/qx-已可购买](https://www.v2ex.com/t/834097) ![](assets/new.png)  
 - [2022-02-15-连载-说说那些我自己经历的、以及我看见的，创业失败的例子](https://www.v2ex.com/t/834095) ![](assets/new.png)  
 - [2022-02-15-分享一款便宜好喝的红酒，性价比很高，真的不是广告](https://www.v2ex.com/t/834094) ![](assets/new.png)  
 - [2022-02-15-我该如何推广自己的网站](https://www.v2ex.com/t/834092) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-02-15-让百度统计插件支持谷歌浏览器插件和-Electron](https://www.v2ex.com/t/834076) ![](assets/new.png)  
 - [2022-02-15-传统开关改造，请问有哪些支持-home-assistant-的-wifi-发射模块。](https://www.v2ex.com/t/834075) ![](assets/new.png)  
 - [2022-02-15-求助苏州的-v-友](https://www.v2ex.com/t/834074) ![](assets/new.png)  
-- [2022-02-15-2022-年了，如何映射文件夹为「本地磁盘」？](https://www.v2ex.com/t/834073) ![](assets/new.png)  
-- [2022-02-15-求助：小程序分享到朋友圈功能，单页模式一直提示数据库无权限是怎么回事？](https://www.v2ex.com/t/834072) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -553,26 +553,6 @@
 </summary>
 
 
-- [2022-02-15-2022-年升职加薪就靠它了！抓紧时间！](https://toutiao.io/k/fitvcz1) ![](assets/new.png)  
-- [2022-02-15-深度分页，我都是这么玩的](https://toutiao.io/k/p61u81q) ![](assets/new.png)  
-- [2022-02-15-2022-年要考虑的-7-种-Docker-替代方案](https://toutiao.io/k/ywk73n5) ![](assets/new.png)  
-- [2022-02-15-我做基础架构学到的42件事](https://toutiao.io/k/k6tjws1) ![](assets/new.png)  
-- [2022-02-15-阿里P9专家右军：以终为始的架构设计](https://toutiao.io/k/dx66bds) ![](assets/new.png)  
-- [2022-02-15-新入手的Mac需要做的事；自我刷新2.5次后工资涨了1.5倍；谷爱凌，欢迎归来｜码农周刊VIP会员专属邮件周报-Vol.079](https://toutiao.io/k/c1004x2) ![](assets/new.png)  
-- [2022-02-15-微服务网关选型，请收下我的膝盖!](https://toutiao.io/k/8errm9q) ![](assets/new.png)  
-- [2022-02-15-京东二面：群聊消息的已读未读设计](https://toutiao.io/k/8rijq6l) ![](assets/new.png)  
-- [2022-02-15-使用-Cilium-增强-Kubernetes-网络安全](https://toutiao.io/k/37vv9md) ![](assets/new.png)  
-- [2022-02-15-Elasticsearch-断路器报错了，怎么办？](https://toutiao.io/k/jnyt0mv) ![](assets/new.png)  
-- [2022-02-15-SUSE发布容器桌面管理工具Rancher-Desktop-v1.0](https://toutiao.io/k/iturymz) ![](assets/new.png)  
-- [2022-02-15-探索-iOS-编码对包大小的影响](https://toutiao.io/k/9l0jd4q) ![](assets/new.png)  
-- [2022-02-15-玩转-Spring-Boot-集成篇（任务动态管理代码篇）](https://toutiao.io/k/rbq0osi) ![](assets/new.png)  
-- [2022-02-15-500行代码了解缓存客户端驱动原理](https://toutiao.io/k/ac0zoxq) ![](assets/new.png)  
-- [2022-02-15-深入理解Go-Json.Unmarshal精度丢失之谜](https://toutiao.io/k/uhqypuz) ![](assets/new.png)  
-- [2022-02-15-程序员的情人节「GitHub-热点速览-v.22.07」](https://toutiao.io/k/iptnj50) ![](assets/new.png)  
-- [2022-02-15-如何消除Go的编译特征.md](https://toutiao.io/k/asmdrms) ![](assets/new.png)  
-- [2022-02-15-SRE团队KPI制定思路](https://toutiao.io/k/6pih1dn) ![](assets/new.png)  
-- [2022-02-15-终极-debug-大法---二分](https://toutiao.io/k/z0q8b3b) ![](assets/new.png)  
-- [2022-02-15-推荐-真香啊！接私活必备的-N-个开源项目（附源码合集第一期）！收藏走起！](https://toutiao.io/k/he7umju) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

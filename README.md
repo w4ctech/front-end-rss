@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-15 09:54:39，:rocket: 更新条数: +1897， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-15 10:13:30，:rocket: 更新条数: +1897， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,11 @@
 </summary>
 
 
+- [2022-02-15-能和中小团队项目管理工具,-能和-slack-整合的？（类似-jira）](https://www.v2ex.com/t/834056) ![](assets/new.png)  
+- [2022-02-15-求助:-怎么使用-Google-api-访问自己私人表格](https://www.v2ex.com/t/834055) ![](assets/new.png)  
+- [2022-02-15-深圳20-40k-产品/iOS/Go-后端-大佬们来呀](https://www.v2ex.com/t/834054) ![](assets/new.png)  
+- [2022-02-15-有无实用现代高级编程语言实现了传说中图灵打孔机的程序？](https://www.v2ex.com/t/834053) ![](assets/new.png)  
+- [2022-02-15-现如今的购房态度¬‿¬](https://www.v2ex.com/t/834052) ![](assets/new.png)  
 - [2022-02-15-专注模式下，站立提醒没了，怎么设置能让他在专注模式下也提醒？](https://www.v2ex.com/t/834051) ![](assets/new.png)  
 - [2022-02-15-用-Go-编译到-WASM-在浏览器里实现了个编程语言解释器，欢迎来玩](https://www.v2ex.com/t/834050) ![](assets/new.png)  
 - [2022-02-15-内推-NVIDIA-上海招聘测试开发多名5G,-CUDA,-DPU,-cloud-等方向](https://www.v2ex.com/t/834049) ![](assets/new.png)  
@@ -506,11 +511,6 @@
 - [2022-02-15-关于卸载-bartender4-之后的后遗症](https://www.v2ex.com/t/834035) ![](assets/new.png)  
 - [2022-02-15-收一个可以刷-openwrt-的无线路由器](https://www.v2ex.com/t/834032) ![](assets/new.png)  
 - [2022-02-15-微信语音通话严重发热-ios15.4-b2-微信最新版本](https://www.v2ex.com/t/834031) ![](assets/new.png)  
-- [2022-02-15-原来-safari-有默认阅读的功能啊](https://www.v2ex.com/t/834030) ![](assets/new.png)  
-- [2022-02-15-魔都德企关于出游度假的大部队还差两个-@Frontend-这件事](https://www.v2ex.com/t/834029) ![](assets/new.png)  
-- [2022-02-15-VS-Code-更新了，可以愉快地-Ctrl+C-了](https://www.v2ex.com/t/834028) ![](assets/new.png)  
-- [2022-02-15-我刚突然有一个想法！](https://www.v2ex.com/t/834027) ![](assets/new.png)  
-- [2022-02-15-为什么现在国内用-Angular-的网站感觉非常少？](https://www.v2ex.com/t/834025) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -572,7 +572,7 @@
 - [2022-02-15-SRE团队KPI制定思路](https://toutiao.io/k/6pih1dn) ![](assets/new.png)  
 - [2022-02-15-如何消除Go的编译特征.md](https://toutiao.io/k/asmdrms) ![](assets/new.png)  
 - [2022-02-15-终极-debug-大法---二分](https://toutiao.io/k/z0q8b3b) ![](assets/new.png)  
-- [2022-02-15-推荐-作为研发Leader，如何做总结](https://toutiao.io/k/1g7flto) ![](assets/new.png)  
+- [2022-02-15-推荐-真香啊！接私活必备的-N-个开源项目（附源码合集第一期）！收藏走起！](https://toutiao.io/k/he7umju) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2022-02-15 08:24:34。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-15 08:40:36。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-02-15-VS-Code-更新了，可以愉快地-Ctrl+C-了](https://www.v2ex.com/t/834028) 
 - [2022-02-15-我刚突然有一个想法！](https://www.v2ex.com/t/834027) 
 - [2022-02-15-为什么现在国内用-Angular-的网站感觉非常少？](https://www.v2ex.com/t/834025) 
 - [2022-02-15-cyberpunk-2077-gtx1060-6g-太慢？](https://www.v2ex.com/t/834024) 
@@ -36,4 +37,3 @@
 - [2022-02-15-求租-10-号线芍药居附近大一居或小两居](https://www.v2ex.com/t/833983) 
 - [2022-02-15-分享一个-JAVASCRIPTAMAZON-SES-SDK发送邮件的方法，-便宜好用！](https://www.v2ex.com/t/833981) 
 - [2022-02-15-有什么推荐的可支持在线编辑的文档系统呢？](https://www.v2ex.com/t/833979) 
-- [2022-02-15-全国英国公司招聘全职-asp.net-工程师,-一年合同，-工作地点可在上海或全国远程](https://www.v2ex.com/t/833978) 

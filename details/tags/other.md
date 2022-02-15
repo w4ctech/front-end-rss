@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-02-15 08:24:34。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-15 08:40:36。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1779,6 +1779,7 @@
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2022-02-04-HTML-inputmode与iOS-Android软键盘类型测试](https://www.zhangxinxu.com/wordpress/2022/02/html-inputmode-keyboard/) 
+- [2022-02-15-VS-Code-更新了，可以愉快地-Ctrl+C-了](https://www.v2ex.com/t/834028) 
 - [2022-02-15-我刚突然有一个想法！](https://www.v2ex.com/t/834027) 
 - [2022-02-15-为什么现在国内用-Angular-的网站感觉非常少？](https://www.v2ex.com/t/834025) 
 - [2022-02-15-cyberpunk-2077-gtx1060-6g-太慢？](https://www.v2ex.com/t/834024) 
@@ -1833,13 +1834,13 @@
 - [2022-02-15-SUSE发布容器桌面管理工具Rancher-Desktop-v1.0](https://toutiao.io/k/iturymz) 
 - [2022-02-15-探索-iOS-编码对包大小的影响](https://toutiao.io/k/9l0jd4q) 
 - [2022-02-15-玩转-Spring-Boot-集成篇（任务动态管理代码篇）](https://toutiao.io/k/rbq0osi) 
-- [2022-02-15-终极-debug-大法---二分](https://toutiao.io/k/z0q8b3b) 
 - [2022-02-15-如何消除Go的编译特征.md](https://toutiao.io/k/asmdrms) 
+- [2022-02-15-终极-debug-大法---二分](https://toutiao.io/k/z0q8b3b) 
 - [2022-02-15-SRE团队KPI制定思路](https://toutiao.io/k/6pih1dn) 
-- [2022-02-15-推荐-支付系统架构设计详解](https://toutiao.io/k/5tx1zgw) 
+- [2022-02-15-推荐-阿里专家：如何画出优秀的架构图？](https://toutiao.io/k/92sk26n) 
+- [2022-02-15-推荐-Go-原生并发原语和最佳实践](https://toutiao.io/k/rdpao5x) 
+- [2022-02-15-推荐-如何撰写好技术方案设计-真实案例干货分享](https://toutiao.io/k/t1d9x3b) 
 - [2022-02-15-推荐-真香啊！接私活必备的-N-个开源项目（附源码合集第一期）！收藏走起！](https://toutiao.io/k/he7umju) 
 - [2022-02-15-推荐-如何撰写好的技术方案设计-真实案例干货分享](https://toutiao.io/k/0f5fv4t) 
-- [2022-02-15-推荐-如何撰写好技术方案设计-真实案例干货分享](https://toutiao.io/k/t1d9x3b) 
-- [2022-02-15-推荐-Go-原生并发原语和最佳实践](https://toutiao.io/k/rdpao5x) 
-- [2022-02-15-推荐-阿里专家：如何画出优秀的架构图？](https://toutiao.io/k/92sk26n) 
+- [2022-02-15-推荐-支付系统架构设计详解](https://toutiao.io/k/5tx1zgw) 
 - [2022-02-15-推荐-作为研发Leader，如何做总结](https://toutiao.io/k/1g7flto) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-15 11:39:28，:rocket: 更新条数: +1902， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-15 11:54:35，:rocket: 更新条数: +1904， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -66,9 +66,10 @@
 
 
 - [2022-02-15-最新疫情：全国新冠累计确诊107094例-累计接种新冠疫苗超30.52亿剂次](https://m.caixin.com/m/2022-02-15/101842173.html) ![](assets/new.png)  
+- [2022-02-15-香港疫情通过海上路线溢出-湖南郴州报告2例阳性病例](https://m.caixin.com/m/2022-02-15/101842241.html) ![](assets/new.png)  
 - [2022-02-15-跨境货车司机阳性病例增至35例-供港物资压力加大](https://m.caixin.com/m/2022-02-15/101841970.html) ![](assets/new.png)  
-- [2022-02-15-香港初步确诊病例再翻倍-两长者过世后才确诊](https://m.caixin.com/m/2022-02-15/101841897.html) ![](assets/new.png)  
 - [2022-02-15-最新海外疫情：新冠感染超4.12亿-累计接种新冠疫苗超103.02亿剂次](https://m.caixin.com/m/2022-02-15/101842177.html) ![](assets/new.png)  
+- [2022-02-15-香港初步确诊病例再翻倍-两长者过世后才确诊](https://m.caixin.com/m/2022-02-15/101841897.html) ![](assets/new.png)  
 - [2022-02-15-【境内疫情观察】江苏新增8例本土病例（2月14日）](https://database.caixin.com/m/2022-02-15/101842129.html) ![](assets/new.png)  
 - [2022-02-15-日本居家患者超50万人，瑞典、韩国开启第四针疫苗｜大流行手记（2月14日）](https://m.caixin.com/m/2022-02-15/101841904.html) ![](assets/new.png)  
 - [2022-02-15-【图集】香港中环流动检测站有序开展核酸检测](https://photos.caixin.com/m/2022-02-15/101842061.html) ![](assets/new.png)  
@@ -84,7 +85,6 @@
 - [2022-02-12-礼来将向美国供应60万剂新冠抗体，辉瑞口服药可进口中国｜大流行手记（2月11日）](https://m.caixin.com/m/2022-02-12/101840901.html) ![](assets/new.png)  
 - [2022-02-12-辉瑞新冠口服药获中国药监局附条件批准-全球预计今年可提供1.2亿疗程](https://m.caixin.com/m/2022-02-12/101840963.html) ![](assets/new.png)  
 - [2022-02-11-香港本地疫情持续恶化-港澳办称内地将“有求必应”](https://m.caixin.com/m/2022-02-11/101840642.html) ![](assets/new.png)  
-- [2022-02-11-【境内疫情观察】全国新增56例本土病例（2月10日）](https://database.caixin.com/m/2022-02-11/101840505.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-02-15-大家是否对外包程序员都有天然的歧视和刻板印象？](https://www.v2ex.com/t/834071) ![](assets/new.png)  
+- [2022-02-15-Mac-有没有办法快速锁定/Disable-内置键盘和触控板？](https://www.v2ex.com/t/834070) ![](assets/new.png)  
 - [2022-02-15-有比-gitpod-更好用的-Cloud-IDE-吗](https://www.v2ex.com/t/834069) ![](assets/new.png)  
 - [2022-02-15-如何炼就强健体魄](https://www.v2ex.com/t/834068) ![](assets/new.png)  
 - [2022-02-15-N1-电视盒子-rom-推荐](https://www.v2ex.com/t/834067) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-02-15-有无实用现代高级编程语言实现了传说中图灵打孔机的程序？](https://www.v2ex.com/t/834053) ![](assets/new.png)  
 - [2022-02-15-现如今的购房态度¬‿¬](https://www.v2ex.com/t/834052) ![](assets/new.png)  
 - [2022-02-15-专注模式下，站立提醒没了，怎么设置能让他在专注模式下也提醒？](https://www.v2ex.com/t/834051) ![](assets/new.png)  
-- [2022-02-15-用-Go-编译到-WASM-在浏览器里实现了个编程语言解释器，欢迎来玩](https://www.v2ex.com/t/834050) ![](assets/new.png)  
-- [2022-02-15-内推-NVIDIA-上海招聘测试开发多名5G,-CUDA,-DPU,-cloud-等方向](https://www.v2ex.com/t/834049) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -566,13 +566,13 @@
 - [2022-02-15-SUSE发布容器桌面管理工具Rancher-Desktop-v1.0](https://toutiao.io/k/iturymz) ![](assets/new.png)  
 - [2022-02-15-探索-iOS-编码对包大小的影响](https://toutiao.io/k/9l0jd4q) ![](assets/new.png)  
 - [2022-02-15-500行代码了解缓存客户端驱动原理](https://toutiao.io/k/ac0zoxq) ![](assets/new.png)  
-- [2022-02-15-程序员的情人节「GitHub-热点速览-v.22.07」](https://toutiao.io/k/iptnj50) ![](assets/new.png)  
 - [2022-02-15-玩转-Spring-Boot-集成篇（任务动态管理代码篇）](https://toutiao.io/k/rbq0osi) ![](assets/new.png)  
+- [2022-02-15-程序员的情人节「GitHub-热点速览-v.22.07」](https://toutiao.io/k/iptnj50) ![](assets/new.png)  
 - [2022-02-15-深入理解Go-Json.Unmarshal精度丢失之谜](https://toutiao.io/k/uhqypuz) ![](assets/new.png)  
 - [2022-02-15-SRE团队KPI制定思路](https://toutiao.io/k/6pih1dn) ![](assets/new.png)  
 - [2022-02-15-如何消除Go的编译特征.md](https://toutiao.io/k/asmdrms) ![](assets/new.png)  
 - [2022-02-15-终极-debug-大法---二分](https://toutiao.io/k/z0q8b3b) ![](assets/new.png)  
-- [2022-02-15-推荐-支付系统架构设计详解](https://toutiao.io/k/5tx1zgw) ![](assets/new.png)  
+- [2022-02-15-推荐-如何撰写好技术方案设计-真实案例干货分享](https://toutiao.io/k/t1d9x3b) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

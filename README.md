@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-15 14:35:56，:rocket: 更新条数: +1880， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-15 14:39:37，:rocket: 更新条数: +1908， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -53,7 +53,7 @@
 - [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)![](assets/dot.png)   
-- [开发者头条](#开发者头条)  
+- [开发者头条](#开发者头条)![](assets/dot.png)   
 - [安全热点](#安全热点)  
 - [物联网智库](#物联网智库)  
 
@@ -553,6 +553,26 @@
 </summary>
 
 
+- [2022-02-15-2022-年升职加薪就靠它了！抓紧时间！](https://toutiao.io/k/fitvcz1) ![](assets/new.png)  
+- [2022-02-15-深度分页，我都是这么玩的](https://toutiao.io/k/p61u81q) ![](assets/new.png)  
+- [2022-02-15-2022-年要考虑的-7-种-Docker-替代方案](https://toutiao.io/k/ywk73n5) ![](assets/new.png)  
+- [2022-02-15-我做基础架构学到的42件事](https://toutiao.io/k/k6tjws1) ![](assets/new.png)  
+- [2022-02-15-阿里P9专家右军：以终为始的架构设计](https://toutiao.io/k/dx66bds) ![](assets/new.png)  
+- [2022-02-15-新入手的Mac需要做的事；自我刷新2.5次后工资涨了1.5倍；谷爱凌，欢迎归来｜码农周刊VIP会员专属邮件周报-Vol.079](https://toutiao.io/k/c1004x2) ![](assets/new.png)  
+- [2022-02-15-微服务网关选型，请收下我的膝盖!](https://toutiao.io/k/8errm9q) ![](assets/new.png)  
+- [2022-02-15-京东二面：群聊消息的已读未读设计](https://toutiao.io/k/8rijq6l) ![](assets/new.png)  
+- [2022-02-15-使用-Cilium-增强-Kubernetes-网络安全](https://toutiao.io/k/37vv9md) ![](assets/new.png)  
+- [2022-02-15-Elasticsearch-断路器报错了，怎么办？](https://toutiao.io/k/jnyt0mv) ![](assets/new.png)  
+- [2022-02-15-SUSE发布容器桌面管理工具Rancher-Desktop-v1.0](https://toutiao.io/k/iturymz) ![](assets/new.png)  
+- [2022-02-15-探索-iOS-编码对包大小的影响](https://toutiao.io/k/9l0jd4q) ![](assets/new.png)  
+- [2022-02-15-玩转-Spring-Boot-集成篇（任务动态管理代码篇）](https://toutiao.io/k/rbq0osi) ![](assets/new.png)  
+- [2022-02-15-500行代码了解缓存客户端驱动原理](https://toutiao.io/k/ac0zoxq) ![](assets/new.png)  
+- [2022-02-15-深入理解Go-Json.Unmarshal精度丢失之谜](https://toutiao.io/k/uhqypuz) ![](assets/new.png)  
+- [2022-02-15-程序员的情人节「GitHub-热点速览-v.22.07」](https://toutiao.io/k/iptnj50) ![](assets/new.png)  
+- [2022-02-15-如何消除Go的编译特征.md](https://toutiao.io/k/asmdrms) ![](assets/new.png)  
+- [2022-02-15-SRE团队KPI制定思路](https://toutiao.io/k/6pih1dn) ![](assets/new.png)  
+- [2022-02-15-终极-debug-大法---二分](https://toutiao.io/k/z0q8b3b) ![](assets/new.png)  
+- [2022-02-15-推荐-如何撰写好技术方案设计-真实案例干货分享](https://toutiao.io/k/t1d9x3b) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

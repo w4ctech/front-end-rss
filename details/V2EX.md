@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-02-15 20:40:51。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-15 20:54:33。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
@@ -45,4 +45,3 @@
 - [2022-02-15-让百度统计插件支持谷歌浏览器插件和-Electron](https://www.v2ex.com/t/834076) 
 - [2022-02-15-传统开关改造，请问有哪些支持-home-assistant-的-wifi-发射模块。](https://www.v2ex.com/t/834075) 
 - [2022-02-15-求助苏州的-v-友](https://www.v2ex.com/t/834074) 
-- [2022-02-15-2022-年了，如何映射文件夹为「本地磁盘」？](https://www.v2ex.com/t/834073) 

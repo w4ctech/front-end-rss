@@ -11,11 +11,11 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-15 14:12:05，:rocket: 更新条数: +101， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-15 14:19:52，:rocket: 更新条数: +1906， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
@@ -65,6 +65,26 @@
 </summary>
 
 
+- [2022-02-15-最新疫情：全国新冠累计确诊107094例-累计接种新冠疫苗超30.52亿剂次](https://m.caixin.com/m/2022-02-15/101842173.html) ![](assets/new.png)  
+- [2022-02-15-香港疫情通过海上路线溢出-湖南郴州报告2例阳性病例](https://m.caixin.com/m/2022-02-15/101842241.html) ![](assets/new.png)  
+- [2022-02-15-联电苏州工厂一员工确诊新冠-停工影响几何？](https://m.caixin.com/m/2022-02-15/101842221.html) ![](assets/new.png)  
+- [2022-02-15-跨境货车司机阳性病例增至35例-供港物资压力加大](https://m.caixin.com/m/2022-02-15/101841970.html) ![](assets/new.png)  
+- [2022-02-15-最新海外疫情：新冠感染超4.12亿-累计接种新冠疫苗超103.02亿剂次](https://m.caixin.com/m/2022-02-15/101842177.html) ![](assets/new.png)  
+- [2022-02-15-香港初步确诊病例再翻倍-两长者过世后才确诊](https://m.caixin.com/m/2022-02-15/101841897.html) ![](assets/new.png)  
+- [2022-02-15-【境内疫情观察】江苏新增8例本土病例（2月14日）](https://database.caixin.com/m/2022-02-15/101842129.html) ![](assets/new.png)  
+- [2022-02-15-日本居家患者超50万人，瑞典、韩国开启第四针疫苗｜大流行手记（2月14日）](https://m.caixin.com/m/2022-02-15/101841904.html) ![](assets/new.png)  
+- [2022-02-15-【图集】香港中环流动检测站有序开展核酸检测](https://photos.caixin.com/m/2022-02-15/101842061.html) ![](assets/new.png)  
+- [2022-02-14-苏州现8例新冠感染者-多在工业园区工作](https://m.caixin.com/m/2022-02-14/101841328.html) ![](assets/new.png)  
+- [2022-02-14-【境内疫情观察】全国新增26例本土病例（2月13日）](https://database.caixin.com/m/2022-02-14/101841558.html) ![](assets/new.png)  
+- [2022-02-14-越南将结束国际航班限制-加拿大清走“大使桥”抗议者｜大流行手记（2月13日）](https://m.caixin.com/m/2022-02-14/101841402.html) ![](assets/new.png)  
+- [2022-02-14-浪尖上的第三方核酸检测：时效紧、单价低，暴利时代已远去](https://m.caixin.com/m/2022-02-14/101841436.html) ![](assets/new.png)  
+- [2022-02-14-【图集】苏州工业园区启动全员核酸检测](https://photos.caixin.com/m/2022-02-14/101841529.html) ![](assets/new.png)  
+- [2022-02-13-【境内疫情观察】全国新增28例本土病例（2月12日）](https://database.caixin.com/m/2022-02-13/101841209.html) ![](assets/new.png)  
+- [2022-02-13-挪威取消几乎所有限制措施-多国疫苗抗议增加｜大流行手记（2月12日）](https://m.caixin.com/m/2022-02-13/101841166.html) ![](assets/new.png)  
+- [2022-02-12-记者手记｜数百万“长新冠”患者，成为欧美社会的新焦点](https://m.caixin.com/m/2022-02-12/101841104.html) ![](assets/new.png)  
+- [2022-02-12-【境内疫情观察】全国新增40例本土病例（2月11日）](https://database.caixin.com/m/2022-02-12/101840997.html) ![](assets/new.png)  
+- [2022-02-12-礼来将向美国供应60万剂新冠抗体，辉瑞口服药可进口中国｜大流行手记（2月11日）](https://m.caixin.com/m/2022-02-12/101840901.html) ![](assets/new.png)  
+- [2022-02-12-辉瑞新冠口服药获中国药监局附条件批准-全球预计今年可提供1.2亿疗程](https://m.caixin.com/m/2022-02-12/101840963.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -471,6 +491,8 @@
 </summary>
 
 
+- [2022-02-15-连载-说说那些我自己经历的、以及我看见的，创业失败的例子](https://www.v2ex.com/t/834095) ![](assets/new.png)  
+- [2022-02-15-分享一款便宜好喝的红酒，性价比很高，真的不是广告](https://www.v2ex.com/t/834094) ![](assets/new.png)  
 - [2022-02-15-我该如何推广自己的网站](https://www.v2ex.com/t/834092) ![](assets/new.png)  
 - [2022-02-15-B-站-PC-端的评论你们能看到吗？](https://www.v2ex.com/t/834091) ![](assets/new.png)  
 - [2022-02-15-金融行业-有-IT-嘛！](https://www.v2ex.com/t/834088) ![](assets/new.png)  
@@ -489,8 +511,6 @@
 - [2022-02-15-求助苏州的-v-友](https://www.v2ex.com/t/834074) ![](assets/new.png)  
 - [2022-02-15-2022-年了，如何映射文件夹为「本地磁盘」？](https://www.v2ex.com/t/834073) ![](assets/new.png)  
 - [2022-02-15-求助：小程序分享到朋友圈功能，单页模式一直提示数据库无权限是怎么回事？](https://www.v2ex.com/t/834072) ![](assets/new.png)  
-- [2022-02-15-大家是否对外包程序员都有天然的歧视和刻板印象？](https://www.v2ex.com/t/834071) ![](assets/new.png)  
-- [2022-02-15-Mac-有没有办法快速锁定/Disable-内置键盘和触控板？](https://www.v2ex.com/t/834070) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -552,7 +572,7 @@
 - [2022-02-15-如何消除Go的编译特征.md](https://toutiao.io/k/asmdrms) ![](assets/new.png)  
 - [2022-02-15-SRE团队KPI制定思路](https://toutiao.io/k/6pih1dn) ![](assets/new.png)  
 - [2022-02-15-终极-debug-大法---二分](https://toutiao.io/k/z0q8b3b) ![](assets/new.png)  
-- [2022-02-15-推荐-阿里专家：如何画出优秀的架构图？](https://toutiao.io/k/92sk26n) ![](assets/new.png)  
+- [2022-02-15-推荐-真香啊！接私活必备的-N-个开源项目（附源码合集第一期）！收藏走起！](https://toutiao.io/k/he7umju) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

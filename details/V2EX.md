@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2022-02-15 09:12:36。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-15 09:20:46。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-02-15-esxi-硬盘直通后的问题](https://www.v2ex.com/t/834041) 
 - [2022-02-15-有没有便宜的中转机啊](https://www.v2ex.com/t/834040) 
 - [2022-02-15-想找一个懂-DirectX-的朋友帮忙](https://www.v2ex.com/t/834039) 
 - [2022-02-15-如果说某个城市的互联网从业者团结一致能否改变这种现象？](https://www.v2ex.com/t/834036) 
@@ -38,4 +39,3 @@
 - [2022-02-15-北京-多邻国-Duolingo-招聘-安卓/iOS-工程师](https://www.v2ex.com/t/833996) 
 - [2022-02-15-xdm，有无租房群，求拉，或者其他租房渠道](https://www.v2ex.com/t/833995) 
 - [2022-02-15-Sr-Solution-Architect-Hands-on-Tech-Lead，地点：上海，薪水：-OPEN（福利待遇超赞）](https://www.v2ex.com/t/833994) 
-- [2022-02-15-icloud-钥匙串是不是不支持老系统呀](https://www.v2ex.com/t/833991) 

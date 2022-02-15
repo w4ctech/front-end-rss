@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-15 01:19:32，:rocket: 更新条数: +1885， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-15 02:06:42，:rocket: 更新条数: +1890， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -65,7 +65,7 @@
 </summary>
 
 
-- [2022-02-14-最新疫情：全国新冠累计确诊107014例-累计接种新冠疫苗超30.46亿剂次](https://m.caixin.com/m/2022-02-14/101841655.html) ![](assets/new.png)  
+- [2022-02-15-2月14日全国新增新冠80例-四省份本土40例](https://m.caixin.com/m/2022-02-15/101841862.html) ![](assets/new.png)  
 - [2022-02-14-苏州现8例新冠感染者-多在工业园区工作](https://m.caixin.com/m/2022-02-14/101841328.html) ![](assets/new.png)  
 - [2022-02-14-浪尖上的第三方核酸检测：时效紧、单价低，暴利时代已远去](https://m.caixin.com/m/2022-02-14/101841436.html) ![](assets/new.png)  
 - [2022-02-14-最新海外疫情：新冠感染超4.1亿-累计接种新冠疫苗近103亿剂次](https://m.caixin.com/m/2022-02-14/101841671.html) ![](assets/new.png)  
@@ -491,6 +491,16 @@
 </summary>
 
 
+- [2022-02-15-最好的非曲面屏安卓手机是哪几款？](https://www.v2ex.com/t/833912) ![](assets/new.png)  
+- [2022-02-15-求教，如何在-PayPal（美区）客服电话中找到真人客服](https://www.v2ex.com/t/833911) ![](assets/new.png)  
+- [2022-02-15-27-寸-4K-显示器第二块竖屏应该如何选择？](https://www.v2ex.com/t/833910) ![](assets/new.png)  
+- [2022-02-15-scala-问题吐槽一下](https://www.v2ex.com/t/833909) ![](assets/new.png)  
+- [2022-02-15-你订阅了哪些阅读列表（newsletter）？](https://www.v2ex.com/t/833908) ![](assets/new.png)  
+- [2022-02-15-如何固定安卓手机-mac-地址](https://www.v2ex.com/t/833906) ![](assets/new.png)  
+- [2022-02-15-你们说-siri-不要用，我觉得-siri-声音好听](https://www.v2ex.com/t/833903) ![](assets/new.png)  
+- [2022-02-15-各位-V-友，哪款-wifi-路由器质量好，允许-root-登录上去？翻墙用。](https://www.v2ex.com/t/833902) ![](assets/new.png)  
+- [2022-02-15-关于-Web3.0-的问题](https://www.v2ex.com/t/833901) ![](assets/new.png)  
+- [2022-02-15-DOMParser-在解析-xml-的时候，如果含有&符号，会失败](https://www.v2ex.com/t/833899) ![](assets/new.png)  
 - [2022-02-15-怎样才能找到大三暑期实习，对编程能力的要求有多高呢？](https://www.v2ex.com/t/833897) ![](assets/new.png)  
 - [2022-02-15-有没有这样的手机](https://www.v2ex.com/t/833896) ![](assets/new.png)  
 - [2022-02-15-向量乘法为什么等同于点积？](https://www.v2ex.com/t/833895) ![](assets/new.png)  
@@ -501,16 +511,6 @@
 - [2022-02-14-Kubernetes-官方纪录片](https://www.v2ex.com/t/833889) ![](assets/new.png)  
 - [2022-02-14-Windows-笔记本换机有什么优雅的系统迁移方案](https://www.v2ex.com/t/833888) ![](assets/new.png)  
 - [2022-02-14-又到了道理我都懂，就是迈不开第一步的境地。](https://www.v2ex.com/t/833887) ![](assets/new.png)  
-- [2022-02-14-请教如何在-sqlalchemy-model-的-event-里面停止删除或者用其他方式实现软删除](https://www.v2ex.com/t/833886) ![](assets/new.png)  
-- [2022-02-14-也在考虑车，-V-友给给建议](https://www.v2ex.com/t/833885) ![](assets/new.png)  
-- [2022-02-14-日本千兆宽带只有-300Mbps](https://www.v2ex.com/t/833884) ![](assets/new.png)  
-- [2022-02-14-macOS-一直提示微信在使用麦克风？](https://www.v2ex.com/t/833883) ![](assets/new.png)  
-- [2022-02-14-小公司办公文件服务器，偶尔外网访问，什么方案好？](https://www.v2ex.com/t/833882) ![](assets/new.png)  
-- [2022-02-14-前端如何替换单个-SVG-图标的图片内容？](https://www.v2ex.com/t/833881) ![](assets/new.png)  
-- [2022-02-14-用-PooledDB-的-V-友，组装出来的-SQL-语句，不能一次执行？](https://www.v2ex.com/t/833880) ![](assets/new.png)  
-- [2022-02-14-大家遇到代码或程序问题时是如何使用英语搜索的？](https://www.v2ex.com/t/833879) ![](assets/new.png)  
-- [2022-02-14-想问一下财新怎么订阅会便宜一些？](https://www.v2ex.com/t/833878) ![](assets/new.png)  
-- [2022-02-14-今年上海电信变向涨价啊，一线城市开倒车](https://www.v2ex.com/t/833877) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -556,18 +556,23 @@
 - [2022-02-15-2022-年升职加薪就靠它了！抓紧时间！](https://toutiao.io/k/fitvcz1) ![](assets/new.png)  
 - [2022-02-15-深度分页，我都是这么玩的](https://toutiao.io/k/p61u81q) ![](assets/new.png)  
 - [2022-02-15-2022-年要考虑的-7-种-Docker-替代方案](https://toutiao.io/k/ywk73n5) ![](assets/new.png)  
-- [2022-02-15-探索-iOS-编码对包大小的影响](https://toutiao.io/k/9l0jd4q) ![](assets/new.png)  
 - [2022-02-15-使用-Cilium-增强-Kubernetes-网络安全](https://toutiao.io/k/37vv9md) ![](assets/new.png)  
+- [2022-02-15-探索-iOS-编码对包大小的影响](https://toutiao.io/k/9l0jd4q) ![](assets/new.png)  
 - [2022-02-15-500行代码了解缓存客户端驱动原理](https://toutiao.io/k/ac0zoxq) ![](assets/new.png)  
-- [2022-02-15-推荐-阿里专家：如何画出优秀的架构图？](https://toutiao.io/k/92sk26n) ![](assets/new.png)  
-- [2022-02-15-推荐-如何撰写好技术方案设计-真实案例干货分享](https://toutiao.io/k/t1d9x3b) ![](assets/new.png)  
-- [2022-02-15-推荐-百度和米哈游的Golang面试经验分享](https://toutiao.io/k/q0sox0k) ![](assets/new.png)  
-- [2022-02-15-推荐-神器-Nginx-的学习手册-建议收藏-](https://toutiao.io/k/6f1qaso) ![](assets/new.png)  
-- [2022-02-15-推荐-支付系统架构设计详解](https://toutiao.io/k/5tx1zgw) ![](assets/new.png)  
+- [2022-02-15-我做基础架构学到的42件事](https://toutiao.io/k/k6tjws1) ![](assets/new.png)  
+- [2022-02-15-京东二面：群聊消息的已读未读设计](https://toutiao.io/k/8rijq6l) ![](assets/new.png)  
+- [2022-02-15-阿里P9专家右军：以终为始的架构设计](https://toutiao.io/k/dx66bds) ![](assets/new.png)  
+- [2022-02-15-Elasticsearch-断路器报错了，怎么办？](https://toutiao.io/k/jnyt0mv) ![](assets/new.png)  
+- [2022-02-15-微服务网关选型，请收下我的膝盖!](https://toutiao.io/k/8errm9q) ![](assets/new.png)  
+- [2022-02-15-SUSE发布容器桌面管理工具Rancher-Desktop-v1.0](https://toutiao.io/k/iturymz) ![](assets/new.png)  
+- [2022-02-15-程序员的情人节「GitHub-热点速览-v.22.07」](https://toutiao.io/k/iptnj50) ![](assets/new.png)  
 - [2022-02-15-推荐-如何撰写好的技术方案设计-真实案例干货分享](https://toutiao.io/k/0f5fv4t) ![](assets/new.png)  
 - [2022-02-15-推荐-Go-原生并发原语和最佳实践](https://toutiao.io/k/rdpao5x) ![](assets/new.png)  
-- [2022-02-15-推荐-作为研发Leader，如何做总结](https://toutiao.io/k/1g7flto) ![](assets/new.png)  
+- [2022-02-15-推荐-神器-Nginx-的学习手册-建议收藏-](https://toutiao.io/k/6f1qaso) ![](assets/new.png)  
+- [2022-02-15-推荐-如何撰写好技术方案设计-真实案例干货分享](https://toutiao.io/k/t1d9x3b) ![](assets/new.png)  
+- [2022-02-15-推荐-百度和米哈游的Golang面试经验分享](https://toutiao.io/k/q0sox0k) ![](assets/new.png)  
 - [2022-02-15-推荐-真香啊！接私活必备的-N-个开源项目（附源码合集第一期）！收藏走起！](https://toutiao.io/k/he7umju) ![](assets/new.png)  
+- [2022-02-15-推荐-作为研发Leader，如何做总结](https://toutiao.io/k/1g7flto) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

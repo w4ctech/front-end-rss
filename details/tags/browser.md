@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-02-15 01:19:32。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-15 02:06:42。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -16,6 +16,5 @@
 - [2022-02-14-大家-idea-有升级-3.2-版本吗？好像自带-17-的-jbr，可以通过-metal-渲染](https://www.v2ex.com/t/833875) 
 - [2022-02-14-safari-有一个网址，在地址栏点击，永远是载入状态，而且此时控制台的网络请求里面也不显示-GET-请求](https://www.v2ex.com/t/833873) 
 - [2022-02-14-HDTune-的-5220.22-M-程序-7-次-能安全擦除-SSD-吗？](https://www.v2ex.com/t/833870) 
-- [2022-02-14-iOS-的一些安全策略是不是太严苛、到了影响使用便利的地步？例如频繁要求输入密码以启用-FaceID](https://www.v2ex.com/t/833859) 
 - [2022-02-15-使用-Cilium-增强-Kubernetes-网络安全](https://toutiao.io/k/37vv9md) 
 - [2022-02-15-500行代码了解缓存客户端驱动原理](https://toutiao.io/k/ac0zoxq) 

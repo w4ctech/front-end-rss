@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-02-15 01:19:32。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-15 02:06:42。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -181,6 +181,8 @@
 - [【张鑫旭-鑫空间-鑫生活】深入JS-getRandomValues和Math.random方法](https://www.zhangxinxu.com/wordpress/2021/12/js-getrandomvalue-math-random/)
 - [【张鑫旭-鑫空间-鑫生活】flex-end为什么overflow无法滚动及解决方法](https://www.zhangxinxu.com/wordpress/2021/12/flex-end-overflow/)
 - [【张鑫旭-鑫空间-鑫生活】从js-visibilitychange-Safari下无效说开去](https://www.zhangxinxu.com/wordpress/2021/11/js-visibilitychange-pagehide-lifecycle/)
+- [【V2EX】各位-V-友，哪款-wifi-路由器质量好，允许-root-登录上去？翻墙用。](https://www.v2ex.com/t/833902)
+- [【V2EX】DOMParser-在解析-xml-的时候，如果含有&符号，会失败](https://www.v2ex.com/t/833899)
 - [【V2EX】Vite-约定式路由的最佳实践](https://www.v2ex.com/t/833869)
 - [......【查看更多】......](./details/tags/javascript.md)
 
@@ -278,7 +280,6 @@
 - [【V2EX】大家-idea-有升级-3.2-版本吗？好像自带-17-的-jbr，可以通过-metal-渲染](https://www.v2ex.com/t/833875)
 - [【V2EX】safari-有一个网址，在地址栏点击，永远是载入状态，而且此时控制台的网络请求里面也不显示-GET-请求](https://www.v2ex.com/t/833873)
 - [【V2EX】HDTune-的-5220.22-M-程序-7-次-能安全擦除-SSD-吗？](https://www.v2ex.com/t/833870)
-- [【V2EX】iOS-的一些安全策略是不是太严苛、到了影响使用便利的地步？例如频繁要求输入密码以启用-FaceID](https://www.v2ex.com/t/833859)
 - [【开发者头条】使用-Cilium-增强-Kubernetes-网络安全](https://toutiao.io/k/37vv9md)
 - [【开发者头条】500行代码了解缓存客户端驱动原理](https://toutiao.io/k/ac0zoxq)
 - [......【查看更多】......](./details/tags/browser.md)
@@ -297,6 +298,7 @@
 
 
 
+- [【开发者头条】Elasticsearch-断路器报错了，怎么办？](https://toutiao.io/k/jnyt0mv)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -331,8 +333,8 @@
 
 
 
-- [【V2EX】安卓手机上有好用的-git-客户端吗？](https://www.v2ex.com/t/833853)
 - [【技术头条】在GitHub上提交代码必备指南！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14933&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493238%26amp%3Bidx%3D1%26amp%3Bsn%3Db92e65ee96d1c998d823b55d7fafc234%26amp%3Bchksm%3Dfa3f072dcd488e3b997e0b9b4b48f5c4de6513c91fd46a4d1bde7bb89bf61af7c319e2d5dfff%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
+- [【开发者头条】程序员的情人节「GitHub-热点速览-v.22.07」](https://toutiao.io/k/iptnj50)
 - [......【查看更多】......](./details/tags/git-svn.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -349,7 +351,6 @@
 
 
 
-- [【V2EX】北京/上海/深圳/杭州/海外/远程-Juicedata-|-招聘啦，-JuiceFS-期待你的加入！研发与开发者市场相关岗位全部开放！](https://www.v2ex.com/t/833849)
 - [【开发者头条】推荐-百度和米哈游的Golang面试经验分享](https://toutiao.io/k/q0sox0k)
 - [......【查看更多】......](./details/tags/job-interview.md)
 
@@ -410,7 +411,7 @@
 
 
 
-- [【武汉肺炎防疫全纪录(财新网)】最新疫情：全国新冠累计确诊107014例-累计接种新冠疫苗超30.46亿剂次](https://m.caixin.com/m/2022-02-14/101841655.html)
+- [【武汉肺炎防疫全纪录(财新网)】2月14日全国新增新冠80例-四省份本土40例](https://m.caixin.com/m/2022-02-15/101841862.html)
 - [【武汉肺炎防疫全纪录(财新网)】苏州现8例新冠感染者-多在工业园区工作](https://m.caixin.com/m/2022-02-14/101841328.html)
 - [【武汉肺炎防疫全纪录(财新网)】浪尖上的第三方核酸检测：时效紧、单价低，暴利时代已远去](https://m.caixin.com/m/2022-02-14/101841436.html)
 - [【武汉肺炎防疫全纪录(财新网)】最新海外疫情：新冠感染超4.1亿-累计接种新冠疫苗近103亿剂次](https://m.caixin.com/m/2022-02-14/101841671.html)

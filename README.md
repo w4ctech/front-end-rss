@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-15 00:44:23，:rocket: 更新条数: +1885， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-15 01:19:32，:rocket: 更新条数: +1885， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,9 @@
 </summary>
 
 
+- [2022-02-15-怎样才能找到大三暑期实习，对编程能力的要求有多高呢？](https://www.v2ex.com/t/833897) ![](assets/new.png)  
+- [2022-02-15-有没有这样的手机](https://www.v2ex.com/t/833896) ![](assets/new.png)  
+- [2022-02-15-向量乘法为什么等同于点积？](https://www.v2ex.com/t/833895) ![](assets/new.png)  
 - [2022-02-15-室外跑步，你会关注空气质量指数吗？](https://www.v2ex.com/t/833894) ![](assets/new.png)  
 - [2022-02-15-最近对前端低代码想要学习](https://www.v2ex.com/t/833893) ![](assets/new.png)  
 - [2022-02-14-江苏电信换套餐选哪个呢](https://www.v2ex.com/t/833892) ![](assets/new.png)  
@@ -508,9 +511,6 @@
 - [2022-02-14-大家遇到代码或程序问题时是如何使用英语搜索的？](https://www.v2ex.com/t/833879) ![](assets/new.png)  
 - [2022-02-14-想问一下财新怎么订阅会便宜一些？](https://www.v2ex.com/t/833878) ![](assets/new.png)  
 - [2022-02-14-今年上海电信变向涨价啊，一线城市开倒车](https://www.v2ex.com/t/833877) ![](assets/new.png)  
-- [2022-02-14-大家-idea-有升级-3.2-版本吗？好像自带-17-的-jbr，可以通过-metal-渲染](https://www.v2ex.com/t/833875) ![](assets/new.png)  
-- [2022-02-14-safari-有一个网址，在地址栏点击，永远是载入状态，而且此时控制台的网络请求里面也不显示-GET-请求](https://www.v2ex.com/t/833873) ![](assets/new.png)  
-- [2022-02-14-Sinatra-源码分析-一:set-系统工作原理](https://www.v2ex.com/t/833872) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -556,18 +556,18 @@
 - [2022-02-15-2022-年升职加薪就靠它了！抓紧时间！](https://toutiao.io/k/fitvcz1) ![](assets/new.png)  
 - [2022-02-15-深度分页，我都是这么玩的](https://toutiao.io/k/p61u81q) ![](assets/new.png)  
 - [2022-02-15-2022-年要考虑的-7-种-Docker-替代方案](https://toutiao.io/k/ywk73n5) ![](assets/new.png)  
+- [2022-02-15-探索-iOS-编码对包大小的影响](https://toutiao.io/k/9l0jd4q) ![](assets/new.png)  
 - [2022-02-15-使用-Cilium-增强-Kubernetes-网络安全](https://toutiao.io/k/37vv9md) ![](assets/new.png)  
 - [2022-02-15-500行代码了解缓存客户端驱动原理](https://toutiao.io/k/ac0zoxq) ![](assets/new.png)  
-- [2022-02-15-探索-iOS-编码对包大小的影响](https://toutiao.io/k/9l0jd4q) ![](assets/new.png)  
-- [2022-02-15-推荐-作为研发Leader，如何做总结](https://toutiao.io/k/1g7flto) ![](assets/new.png)  
-- [2022-02-15-推荐-百度和米哈游的Golang面试经验分享](https://toutiao.io/k/q0sox0k) ![](assets/new.png)  
-- [2022-02-15-推荐-支付系统架构设计详解](https://toutiao.io/k/5tx1zgw) ![](assets/new.png)  
-- [2022-02-15-推荐-真香啊！接私活必备的-N-个开源项目（附源码合集第一期）！收藏走起！](https://toutiao.io/k/he7umju) ![](assets/new.png)  
-- [2022-02-15-推荐-神器-Nginx-的学习手册-建议收藏-](https://toutiao.io/k/6f1qaso) ![](assets/new.png)  
-- [2022-02-15-推荐-Go-原生并发原语和最佳实践](https://toutiao.io/k/rdpao5x) ![](assets/new.png)  
-- [2022-02-15-推荐-如何撰写好的技术方案设计-真实案例干货分享](https://toutiao.io/k/0f5fv4t) ![](assets/new.png)  
 - [2022-02-15-推荐-阿里专家：如何画出优秀的架构图？](https://toutiao.io/k/92sk26n) ![](assets/new.png)  
 - [2022-02-15-推荐-如何撰写好技术方案设计-真实案例干货分享](https://toutiao.io/k/t1d9x3b) ![](assets/new.png)  
+- [2022-02-15-推荐-百度和米哈游的Golang面试经验分享](https://toutiao.io/k/q0sox0k) ![](assets/new.png)  
+- [2022-02-15-推荐-神器-Nginx-的学习手册-建议收藏-](https://toutiao.io/k/6f1qaso) ![](assets/new.png)  
+- [2022-02-15-推荐-支付系统架构设计详解](https://toutiao.io/k/5tx1zgw) ![](assets/new.png)  
+- [2022-02-15-推荐-如何撰写好的技术方案设计-真实案例干货分享](https://toutiao.io/k/0f5fv4t) ![](assets/new.png)  
+- [2022-02-15-推荐-Go-原生并发原语和最佳实践](https://toutiao.io/k/rdpao5x) ![](assets/new.png)  
+- [2022-02-15-推荐-作为研发Leader，如何做总结](https://toutiao.io/k/1g7flto) ![](assets/new.png)  
+- [2022-02-15-推荐-真香啊！接私活必备的-N-个开源项目（附源码合集第一期）！收藏走起！](https://toutiao.io/k/he7umju) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

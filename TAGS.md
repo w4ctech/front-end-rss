@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-02-15 03:02:06。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-15 03:22:00。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -180,6 +180,7 @@
 - [【张鑫旭-鑫空间-鑫生活】深入JS-getRandomValues和Math.random方法](https://www.zhangxinxu.com/wordpress/2021/12/js-getrandomvalue-math-random/)
 - [【张鑫旭-鑫空间-鑫生活】flex-end为什么overflow无法滚动及解决方法](https://www.zhangxinxu.com/wordpress/2021/12/flex-end-overflow/)
 - [【张鑫旭-鑫空间-鑫生活】从js-visibilitychange-Safari下无效说开去](https://www.zhangxinxu.com/wordpress/2021/11/js-visibilitychange-pagehide-lifecycle/)
+- [【V2EX】软路由复用光猫-LAN-网口为交换机的犹豫](https://www.v2ex.com/t/833932)
 - [【V2EX】各位-V-友，哪款-wifi-路由器质量好，允许-root-登录上去？翻墙用。](https://www.v2ex.com/t/833902)
 - [【V2EX】DOMParser-在解析-xml-的时候，如果含有&符号，会失败](https://www.v2ex.com/t/833899)
 - [......【查看更多】......](./details/tags/javascript.md)
@@ -218,7 +219,6 @@
 
 
 
-- [【V2EX】前端如何替换单个-SVG-图标的图片内容？](https://www.v2ex.com/t/833881)
 - [......【查看更多】......](./details/tags/canvas-image.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -275,6 +275,7 @@
 - [【武汉肺炎防疫全纪录(财新网)】腺病毒新冠疫苗引安全忧虑-康希诺称未发现血栓病例](https://m.caixin.com/m/2021-04-14/101691086.html)
 - [【武汉肺炎防疫全纪录(财新网)】解药|新冠mRNA疫苗安全性有哪些挑战？](https://m.caixin.com/m/2021-01-08/101648043.html)
 - [【武汉肺炎防疫全纪录(财新网)】大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html)
+- [【V2EX】新加坡技术移民机会-知名互联网公司，招移动端（iOS,安卓,-RN），前端开发，后端开发（不限开发语言），-运维及运维开发/DevOps-/SRE-和-DBA-及安全等各类工...](https://www.v2ex.com/t/833939)
 - [【开发者头条】使用-Cilium-增强-Kubernetes-网络安全](https://toutiao.io/k/37vv9md)
 - [【开发者头条】500行代码了解缓存客户端驱动原理](https://toutiao.io/k/ac0zoxq)
 - [......【查看更多】......](./details/tags/browser.md)

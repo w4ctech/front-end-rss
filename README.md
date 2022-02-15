@@ -11,11 +11,11 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-15 04:26:50，:rocket: 更新条数: +88， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-15 04:46:10，:rocket: 更新条数: +1889， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
@@ -65,6 +65,26 @@
 </summary>
 
 
+- [2022-02-15-2月14日全国新增新冠80例-四省份本土40例](https://m.caixin.com/m/2022-02-15/101841862.html) ![](assets/new.png)  
+- [2022-02-15-跨境货车司机阳性病例增至35例-供港物资压力加大](https://m.caixin.com/m/2022-02-15/101841970.html) ![](assets/new.png)  
+- [2022-02-15-香港初步确诊病例再翻倍-两长者过世后才确诊](https://m.caixin.com/m/2022-02-15/101841897.html) ![](assets/new.png)  
+- [2022-02-15-日本居家患者超50万人，瑞典、韩国开启第四针疫苗｜大流行手记（2月14日）](https://m.caixin.com/m/2022-02-15/101841904.html) ![](assets/new.png)  
+- [2022-02-14-苏州现8例新冠感染者-多在工业园区工作](https://m.caixin.com/m/2022-02-14/101841328.html) ![](assets/new.png)  
+- [2022-02-14-最新海外疫情：新冠感染超4.1亿-累计接种新冠疫苗近103亿剂次](https://m.caixin.com/m/2022-02-14/101841671.html) ![](assets/new.png)  
+- [2022-02-14-【境内疫情观察】全国新增26例本土病例（2月13日）](https://database.caixin.com/m/2022-02-14/101841558.html) ![](assets/new.png)  
+- [2022-02-14-越南将结束国际航班限制-加拿大清走“大使桥”抗议者｜大流行手记（2月13日）](https://m.caixin.com/m/2022-02-14/101841402.html) ![](assets/new.png)  
+- [2022-02-14-浪尖上的第三方核酸检测：时效紧、单价低，暴利时代已远去](https://m.caixin.com/m/2022-02-14/101841436.html) ![](assets/new.png)  
+- [2022-02-14-【图集】苏州工业园区启动全员核酸检测](https://photos.caixin.com/m/2022-02-14/101841529.html) ![](assets/new.png)  
+- [2022-02-13-【境内疫情观察】全国新增28例本土病例（2月12日）](https://database.caixin.com/m/2022-02-13/101841209.html) ![](assets/new.png)  
+- [2022-02-13-挪威取消几乎所有限制措施-多国疫苗抗议增加｜大流行手记（2月12日）](https://m.caixin.com/m/2022-02-13/101841166.html) ![](assets/new.png)  
+- [2022-02-12-记者手记｜数百万“长新冠”患者，成为欧美社会的新焦点](https://m.caixin.com/m/2022-02-12/101841104.html) ![](assets/new.png)  
+- [2022-02-12-【境内疫情观察】全国新增40例本土病例（2月11日）](https://database.caixin.com/m/2022-02-12/101840997.html) ![](assets/new.png)  
+- [2022-02-12-礼来将向美国供应60万剂新冠抗体，辉瑞口服药可进口中国｜大流行手记（2月11日）](https://m.caixin.com/m/2022-02-12/101840901.html) ![](assets/new.png)  
+- [2022-02-12-辉瑞新冠口服药获中国药监局附条件批准-全球预计今年可提供1.2亿疗程](https://m.caixin.com/m/2022-02-12/101840963.html) ![](assets/new.png)  
+- [2022-02-11-香港本地疫情持续恶化-港澳办称内地将“有求必应”](https://m.caixin.com/m/2022-02-11/101840642.html) ![](assets/new.png)  
+- [2022-02-11-【境内疫情观察】全国新增56例本土病例（2月10日）](https://database.caixin.com/m/2022-02-11/101840505.html) ![](assets/new.png)  
+- [2022-02-11-韩国轻症患者不得不自行治疗-荷兰拟放弃大部分限制｜大流行手记（2月10日）](https://m.caixin.com/m/2022-02-11/101840205.html) ![](assets/new.png)  
+- [2022-02-10-百色防疫物资告急已做多轮全员核酸，辽宁葫芦岛市疫情抬头](https://m.caixin.com/m/2022-02-10/101840019.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -471,6 +491,9 @@
 </summary>
 
 
+- [2022-02-15-macOS-多语种输入切换方案征集](https://www.v2ex.com/t/833964) ![](assets/new.png)  
+- [2022-02-15-24-年毕业大学生，有一定前端三件套基础，学习-vue-和-react-该如何选择？](https://www.v2ex.com/t/833963) ![](assets/new.png)  
+- [2022-02-15-golang-只有中国人用的多，外国人用的少，所以-go-不行？](https://www.v2ex.com/t/833962) ![](assets/new.png)  
 - [2022-02-15-育碧上海---招聘-Python-后端开发工程师，全栈开发工程师](https://www.v2ex.com/t/833961) ![](assets/new.png)  
 - [2022-02-15-网站客服、帮助中心、图片托管、下载文件托管等限时限量优惠](https://www.v2ex.com/t/833960) ![](assets/new.png)  
 - [2022-02-15-求个前端-table-组件，支持自定义列和字段](https://www.v2ex.com/t/833959) ![](assets/new.png)  
@@ -488,9 +511,6 @@
 - [2022-02-15-关于电信宽带偷降低网速的问题有什么解决方案吗？](https://www.v2ex.com/t/833942) ![](assets/new.png)  
 - [2022-02-15-新加坡技术移民机会-知名互联网公司，招移动端（iOS,安卓,-RN），前端开发，后端开发（不限开发语言），-运维及运维开发/DevOps-/SRE-和-DBA-及安全等各类工...](https://www.v2ex.com/t/833939) ![](assets/new.png)  
 - [2022-02-15-（远程）Basecamp-招-Product-Designer-前端设计师](https://www.v2ex.com/t/833935) ![](assets/new.png)  
-- [2022-02-15-Javaer，项目中会引入多个同类型的依赖吗？](https://www.v2ex.com/t/833934) ![](assets/new.png)  
-- [2022-02-15-软路由复用光猫-LAN-网口为交换机的犹豫](https://www.v2ex.com/t/833932) ![](assets/new.png)  
-- [2022-02-15-有协议婚姻的吗？就像《逃避可耻却有用》那样。](https://www.v2ex.com/t/833931) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -541,17 +561,17 @@
 - [2022-02-15-阿里P9专家右军：以终为始的架构设计](https://toutiao.io/k/dx66bds) ![](assets/new.png)  
 - [2022-02-15-使用-Cilium-增强-Kubernetes-网络安全](https://toutiao.io/k/37vv9md) ![](assets/new.png)  
 - [2022-02-15-500行代码了解缓存客户端驱动原理](https://toutiao.io/k/ac0zoxq) ![](assets/new.png)  
-- [2022-02-15-探索-iOS-编码对包大小的影响](https://toutiao.io/k/9l0jd4q) ![](assets/new.png)  
 - [2022-02-15-微服务网关选型，请收下我的膝盖!](https://toutiao.io/k/8errm9q) ![](assets/new.png)  
+- [2022-02-15-探索-iOS-编码对包大小的影响](https://toutiao.io/k/9l0jd4q) ![](assets/new.png)  
 - [2022-02-15-京东二面：群聊消息的已读未读设计](https://toutiao.io/k/8rijq6l) ![](assets/new.png)  
-- [2022-02-15-SUSE发布容器桌面管理工具Rancher-Desktop-v1.0](https://toutiao.io/k/iturymz) ![](assets/new.png)  
 - [2022-02-15-Elasticsearch-断路器报错了，怎么办？](https://toutiao.io/k/jnyt0mv) ![](assets/new.png)  
+- [2022-02-15-SUSE发布容器桌面管理工具Rancher-Desktop-v1.0](https://toutiao.io/k/iturymz) ![](assets/new.png)  
 - [2022-02-15-程序员的情人节「GitHub-热点速览-v.22.07」](https://toutiao.io/k/iptnj50) ![](assets/new.png)  
-- [2022-02-15-推荐-支付系统架构设计详解](https://toutiao.io/k/5tx1zgw) ![](assets/new.png)  
-- [2022-02-15-推荐-神器-Nginx-的学习手册-建议收藏-](https://toutiao.io/k/6f1qaso) ![](assets/new.png)  
+- [2022-02-15-推荐-Go-原生并发原语和最佳实践](https://toutiao.io/k/rdpao5x) ![](assets/new.png)  
 - [2022-02-15-推荐-百度和米哈游的Golang面试经验分享](https://toutiao.io/k/q0sox0k) ![](assets/new.png)  
-- [2022-02-15-推荐-阿里专家：如何画出优秀的架构图？](https://toutiao.io/k/92sk26n) ![](assets/new.png)  
-- [2022-02-15-推荐-作为研发Leader，如何做总结](https://toutiao.io/k/1g7flto) ![](assets/new.png)  
+- [2022-02-15-推荐-真香啊！接私活必备的-N-个开源项目（附源码合集第一期）！收藏走起！](https://toutiao.io/k/he7umju) ![](assets/new.png)  
+- [2022-02-15-推荐-神器-Nginx-的学习手册-建议收藏-](https://toutiao.io/k/6f1qaso) ![](assets/new.png)  
+- [2022-02-15-推荐-支付系统架构设计详解](https://toutiao.io/k/5tx1zgw) ![](assets/new.png)  
 - [2022-02-15-推荐-如何撰写好的技术方案设计-真实案例干货分享](https://toutiao.io/k/0f5fv4t) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

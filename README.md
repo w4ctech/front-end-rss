@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-15 12:18:22，:rocket: 更新条数: +1904， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-15 12:33:04，:rocket: 更新条数: +1905， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -67,6 +67,7 @@
 
 - [2022-02-15-最新疫情：全国新冠累计确诊107094例-累计接种新冠疫苗超30.52亿剂次](https://m.caixin.com/m/2022-02-15/101842173.html) ![](assets/new.png)  
 - [2022-02-15-香港疫情通过海上路线溢出-湖南郴州报告2例阳性病例](https://m.caixin.com/m/2022-02-15/101842241.html) ![](assets/new.png)  
+- [2022-02-15-联电苏州工厂一员工确诊新冠-停工影响几何？](https://m.caixin.com/m/2022-02-15/101842221.html) ![](assets/new.png)  
 - [2022-02-15-跨境货车司机阳性病例增至35例-供港物资压力加大](https://m.caixin.com/m/2022-02-15/101841970.html) ![](assets/new.png)  
 - [2022-02-15-最新海外疫情：新冠感染超4.12亿-累计接种新冠疫苗超103.02亿剂次](https://m.caixin.com/m/2022-02-15/101842177.html) ![](assets/new.png)  
 - [2022-02-15-香港初步确诊病例再翻倍-两长者过世后才确诊](https://m.caixin.com/m/2022-02-15/101841897.html) ![](assets/new.png)  
@@ -84,7 +85,6 @@
 - [2022-02-12-【境内疫情观察】全国新增40例本土病例（2月11日）](https://database.caixin.com/m/2022-02-12/101840997.html) ![](assets/new.png)  
 - [2022-02-12-礼来将向美国供应60万剂新冠抗体，辉瑞口服药可进口中国｜大流行手记（2月11日）](https://m.caixin.com/m/2022-02-12/101840901.html) ![](assets/new.png)  
 - [2022-02-12-辉瑞新冠口服药获中国药监局附条件批准-全球预计今年可提供1.2亿疗程](https://m.caixin.com/m/2022-02-12/101840963.html) ![](assets/new.png)  
-- [2022-02-11-香港本地疫情持续恶化-港澳办称内地将“有求必应”](https://m.caixin.com/m/2022-02-11/101840642.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-02-15-传统开关改造，请问有哪些支持-home-assistant-的-wifi-发射模块。](https://www.v2ex.com/t/834075) ![](assets/new.png)  
 - [2022-02-15-求助苏州的-v-友](https://www.v2ex.com/t/834074) ![](assets/new.png)  
 - [2022-02-15-2022-年了，如何映射文件夹为「本地磁盘」？](https://www.v2ex.com/t/834073) ![](assets/new.png)  
 - [2022-02-15-求助：小程序分享到朋友圈功能，单页模式一直提示数据库无权限是怎么回事？](https://www.v2ex.com/t/834072) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-02-15-今天摸鱼想出一个项目，回武汉老家搞预约早餐送上门如何？](https://www.v2ex.com/t/834057) ![](assets/new.png)  
 - [2022-02-15-能和中小团队项目管理工具,-能和-slack-整合的？（类似-jira）](https://www.v2ex.com/t/834056) ![](assets/new.png)  
 - [2022-02-15-求助:-怎么使用-Google-api-访问自己私人表格](https://www.v2ex.com/t/834055) ![](assets/new.png)  
-- [2022-02-15-深圳20-40k-产品/iOS/Go-后端-大佬们来呀](https://www.v2ex.com/t/834054) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -569,10 +569,10 @@
 - [2022-02-15-玩转-Spring-Boot-集成篇（任务动态管理代码篇）](https://toutiao.io/k/rbq0osi) ![](assets/new.png)  
 - [2022-02-15-程序员的情人节「GitHub-热点速览-v.22.07」](https://toutiao.io/k/iptnj50) ![](assets/new.png)  
 - [2022-02-15-深入理解Go-Json.Unmarshal精度丢失之谜](https://toutiao.io/k/uhqypuz) ![](assets/new.png)  
-- [2022-02-15-SRE团队KPI制定思路](https://toutiao.io/k/6pih1dn) ![](assets/new.png)  
 - [2022-02-15-如何消除Go的编译特征.md](https://toutiao.io/k/asmdrms) ![](assets/new.png)  
+- [2022-02-15-SRE团队KPI制定思路](https://toutiao.io/k/6pih1dn) ![](assets/new.png)  
 - [2022-02-15-终极-debug-大法---二分](https://toutiao.io/k/z0q8b3b) ![](assets/new.png)  
-- [2022-02-15-推荐-真香啊！接私活必备的-N-个开源项目（附源码合集第一期）！收藏走起！](https://toutiao.io/k/he7umju) ![](assets/new.png)  
+- [2022-02-15-推荐-阿里专家：如何画出优秀的架构图？](https://toutiao.io/k/92sk26n) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

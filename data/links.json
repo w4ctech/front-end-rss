@@ -9303,6 +9303,26 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "对于非科班的开发，有什么好的书籍建议必读",
+        "link": "https://www.v2ex.com/t/834102",
+        "date": "2022-02-15"
+      },
+      {
+        "title": "[tep] 用 Rust 写的汉语到英语标点用法转换工具",
+        "link": "https://www.v2ex.com/t/834101",
+        "date": "2022-02-15"
+      },
+      {
+        "title": "[中国人寿研发中心][2022 社招/校招内推][大型央企][北京/上海/深圳/杭州/成都]感兴趣的童鞋看过来：）",
+        "link": "https://www.v2ex.com/t/834100",
+        "date": "2022-02-15"
+      },
+      {
+        "title": "如何部署一个 URL 转发系统",
+        "link": "https://www.v2ex.com/t/834099",
+        "date": "2022-02-15"
+      },
+      {
         "title": "为知笔记私有部署后如何同步之前自己的数据过来?",
         "link": "https://www.v2ex.com/t/834098",
         "date": "2022-02-15"
@@ -9501,26 +9521,6 @@
         "title": "有无实用现代高级编程语言实现了传说中图灵打孔机的程序？",
         "link": "https://www.v2ex.com/t/834053",
         "date": "2022-02-15"
-      },
-      {
-        "title": "现如今的购房态度(¬‿¬)",
-        "link": "https://www.v2ex.com/t/834052",
-        "date": "2022-02-15"
-      },
-      {
-        "title": "专注模式下，站立提醒没了，怎么设置能让他在专注模式下也提醒？",
-        "link": "https://www.v2ex.com/t/834051",
-        "date": "2022-02-15"
-      },
-      {
-        "title": "用 Go 编译到 WASM 在浏览器里实现了个编程语言解释器，欢迎来玩",
-        "link": "https://www.v2ex.com/t/834050",
-        "date": "2022-02-15"
-      },
-      {
-        "title": "[内推] NVIDIA 上海招聘测试开发多名(5G, CUDA, DPU, cloud 等方向)",
-        "link": "https://www.v2ex.com/t/834049",
-        "date": "2022-02-15"
       }
     ]
   },
@@ -9712,13 +9712,13 @@
         "date": "2022-02-15"
       },
       {
-        "title": "程序员的情人节「GitHub 热点速览 v.22.07」",
-        "link": "https://toutiao.io/k/iptnj50",
+        "title": "如何消除Go的编译特征.md",
+        "link": "https://toutiao.io/k/asmdrms",
         "date": "2022-02-15"
       },
       {
-        "title": "如何消除Go的编译特征.md",
-        "link": "https://toutiao.io/k/asmdrms",
+        "title": "程序员的情人节「GitHub 热点速览 v.22.07」",
+        "link": "https://toutiao.io/k/iptnj50",
         "date": "2022-02-15"
       },
       {
@@ -9737,6 +9737,21 @@
         "date": "2022-02-15"
       },
       {
+        "title": "[推荐] 作为研发Leader，如何做总结",
+        "link": "https://toutiao.io/k/1g7flto",
+        "date": "2022-02-15"
+      },
+      {
+        "title": "[推荐] 支付系统架构设计详解",
+        "link": "https://toutiao.io/k/5tx1zgw",
+        "date": "2022-02-15"
+      },
+      {
+        "title": "[推荐] 真香啊！接私活必备的 N 个开源项目（附源码合集第一期）！收藏走起！",
+        "link": "https://toutiao.io/k/he7umju",
+        "date": "2022-02-15"
+      },
+      {
         "title": "[推荐] Go 原生并发原语和最佳实践",
         "link": "https://toutiao.io/k/rdpao5x",
         "date": "2022-02-15"
@@ -9747,33 +9762,18 @@
         "date": "2022-02-15"
       },
       {
-        "title": "[推荐] 支付系统架构设计详解",
-        "link": "https://toutiao.io/k/5tx1zgw",
-        "date": "2022-02-15"
-      },
-      {
-        "title": "[推荐] 作为研发Leader，如何做总结",
-        "link": "https://toutiao.io/k/1g7flto",
-        "date": "2022-02-15"
-      },
-      {
         "title": "[推荐] 百度和米哈游的Golang面试经验分享",
         "link": "https://toutiao.io/k/q0sox0k",
         "date": "2022-02-15"
       },
       {
-        "title": "[推荐] 如何撰写好的技术方案设计-真实案例干货分享",
-        "link": "https://toutiao.io/k/0f5fv4t",
-        "date": "2022-02-15"
-      },
-      {
-        "title": "[推荐] 真香啊！接私活必备的 N 个开源项目（附源码合集第一期）！收藏走起！",
-        "link": "https://toutiao.io/k/he7umju",
-        "date": "2022-02-15"
-      },
-      {
         "title": "[推荐] 阿里专家：如何画出优秀的架构图？",
         "link": "https://toutiao.io/k/92sk26n",
+        "date": "2022-02-15"
+      },
+      {
+        "title": "[推荐] 如何撰写好的技术方案设计-真实案例干货分享",
+        "link": "https://toutiao.io/k/0f5fv4t",
         "date": "2022-02-15"
       }
     ]

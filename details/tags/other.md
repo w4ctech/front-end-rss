@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-02-15 14:39:37。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-15 14:54:56。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1784,6 +1784,9 @@
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2022-02-04-HTML-inputmode与iOS-Android软键盘类型测试](https://www.zhangxinxu.com/wordpress/2022/02/html-inputmode-keyboard/) 
+- [2022-02-15-对于非科班的开发，有什么好的书籍建议必读](https://www.v2ex.com/t/834102) 
+- [2022-02-15-tep-用-Rust-写的汉语到英语标点用法转换工具](https://www.v2ex.com/t/834101) 
+- [2022-02-15-中国人寿研发中心2022-社招/校招内推大型央企北京/上海/深圳/杭州/成都感兴趣的童鞋看过来：）](https://www.v2ex.com/t/834100) 
 - [2022-02-15-为知笔记私有部署后如何同步之前自己的数据过来?](https://www.v2ex.com/t/834098) 
 - [2022-02-15-dell-u2723qe/qx-已可购买](https://www.v2ex.com/t/834097) 
 - [2022-02-15-连载-说说那些我自己经历的、以及我看见的，创业失败的例子](https://www.v2ex.com/t/834095) 
@@ -1817,8 +1820,6 @@
 - [2022-02-15-求助:-怎么使用-Google-api-访问自己私人表格](https://www.v2ex.com/t/834055) 
 - [2022-02-15-深圳20-40k-产品/iOS/Go-后端-大佬们来呀](https://www.v2ex.com/t/834054) 
 - [2022-02-15-有无实用现代高级编程语言实现了传说中图灵打孔机的程序？](https://www.v2ex.com/t/834053) 
-- [2022-02-15-现如今的购房态度¬‿¬](https://www.v2ex.com/t/834052) 
-- [2022-02-15-专注模式下，站立提醒没了，怎么设置能让他在专注模式下也提醒？](https://www.v2ex.com/t/834051) 
 - [2022-02-15-推荐几款好用的文本编辑器-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14942&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493346%26amp%3Bidx%3D1%26amp%3Bsn%3D0ef808a629a358b59a32154a8dec322e%26amp%3Bchksm%3Dfa3f07b9cd488eaf74721223621f30a5592e3f3bad32c95c27cd69dffa9ca188fcdf1cba51f0%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-02-15-免费！快速上手R语言，这本书一定要看！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14941&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493346%26amp%3Bidx%3D2%26amp%3Bsn%3Df7cf33db4f64e063e501c916e5625c62%26amp%3Bchksm%3Dfa3f07b9cd488eaf5ae3cb27bb5121d968aa0a602e069c8854a5c764fc8b4a85ad273d928585%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-02-15-《天龙八部》这段高潮，只有搞IT的才看得懂-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14940&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493345%26amp%3Bidx%3D1%26amp%3Bsn%3D6eaa80e3313ea46ab111e942c59c2b25%26amp%3Bchksm%3Dfa3f07bacd488eac768db573a43e296b7f0ffc225f34a9e4c2f899ed7ddff9a831093e6abe06%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1851,9 +1852,9 @@
 - [2022-02-15-SRE团队KPI制定思路](https://toutiao.io/k/6pih1dn) 
 - [2022-02-15-终极-debug-大法---二分](https://toutiao.io/k/z0q8b3b) 
 - [2022-02-15-推荐-如何撰写好技术方案设计-真实案例干货分享](https://toutiao.io/k/t1d9x3b) 
-- [2022-02-15-推荐-Go-原生并发原语和最佳实践](https://toutiao.io/k/rdpao5x) 
-- [2022-02-15-推荐-支付系统架构设计详解](https://toutiao.io/k/5tx1zgw) 
 - [2022-02-15-推荐-作为研发Leader，如何做总结](https://toutiao.io/k/1g7flto) 
-- [2022-02-15-推荐-如何撰写好的技术方案设计-真实案例干货分享](https://toutiao.io/k/0f5fv4t) 
+- [2022-02-15-推荐-支付系统架构设计详解](https://toutiao.io/k/5tx1zgw) 
 - [2022-02-15-推荐-真香啊！接私活必备的-N-个开源项目（附源码合集第一期）！收藏走起！](https://toutiao.io/k/he7umju) 
+- [2022-02-15-推荐-Go-原生并发原语和最佳实践](https://toutiao.io/k/rdpao5x) 
 - [2022-02-15-推荐-阿里专家：如何画出优秀的架构图？](https://toutiao.io/k/92sk26n) 
+- [2022-02-15-推荐-如何撰写好的技术方案设计-真实案例干货分享](https://toutiao.io/k/0f5fv4t) 

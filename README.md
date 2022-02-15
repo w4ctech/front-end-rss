@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-15 13:15:37，:rocket: 更新条数: +1906， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-15 13:31:17，:rocket: 更新条数: +1907， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,10 @@
 </summary>
 
 
+- [2022-02-15-iCloud-感觉要拆家了，-cn/international-版本以后会隔离吗？](https://www.v2ex.com/t/834084) ![](assets/new.png)  
+- [2022-02-15-记录-Windows-Ternimal-的一次美化](https://www.v2ex.com/t/834083) ![](assets/new.png)  
+- [2022-02-15-2022-年了，还有很多主板/笔记本的-HDMI-接口只支持-HDMI1.4](https://www.v2ex.com/t/834082) ![](assets/new.png)  
+- [2022-02-15-nas-系统有什么推荐](https://www.v2ex.com/t/834081) ![](assets/new.png)  
 - [2022-02-15-vscode-打开-xml-文件，内容会有个选中效果，有人知道怎么去掉吗](https://www.v2ex.com/t/834080) ![](assets/new.png)  
 - [2022-02-15-三丰云免费主机很“贵”](https://www.v2ex.com/t/834079) ![](assets/new.png)  
 - [2022-02-15-以二三十万年薪来说，北京好还是上海好呢？](https://www.v2ex.com/t/834078) ![](assets/new.png)  
@@ -507,10 +511,6 @@
 - [2022-02-15-N1-电视盒子-rom-推荐](https://www.v2ex.com/t/834067) ![](assets/new.png)  
 - [2022-02-15-go-打包-sqlite-到可执行程序内](https://www.v2ex.com/t/834066) ![](assets/new.png)  
 - [2022-02-15-有无成熟的自建-NAT-穿透-P2P-VPN-方案？](https://www.v2ex.com/t/834065) ![](assets/new.png)  
-- [2022-02-15-关于-Debian-设置-crontab-的问题](https://www.v2ex.com/t/834064) ![](assets/new.png)  
-- [2022-02-15-这个对战图里的高亮效果怎样实现呢。-hover-到某个节点，能高亮对应的路径](https://www.v2ex.com/t/834062) ![](assets/new.png)  
-- [2022-02-15-迫于-navicat-太贵，有什么可以替代它且能用在-Linux-系统上的数据库-GUI-工具吗?](https://www.v2ex.com/t/834061) ![](assets/new.png)  
-- [2022-02-15-大三下，对生涯规划感到迷茫&焦虑，希望得到一点过来人的指点](https://www.v2ex.com/t/834060) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -557,8 +557,8 @@
 - [2022-02-15-深度分页，我都是这么玩的](https://toutiao.io/k/p61u81q) ![](assets/new.png)  
 - [2022-02-15-2022-年要考虑的-7-种-Docker-替代方案](https://toutiao.io/k/ywk73n5) ![](assets/new.png)  
 - [2022-02-15-我做基础架构学到的42件事](https://toutiao.io/k/k6tjws1) ![](assets/new.png)  
-- [2022-02-15-新入手的Mac需要做的事；自我刷新2.5次后工资涨了1.5倍；谷爱凌，欢迎归来｜码农周刊VIP会员专属邮件周报-Vol.079](https://toutiao.io/k/c1004x2) ![](assets/new.png)  
 - [2022-02-15-阿里P9专家右军：以终为始的架构设计](https://toutiao.io/k/dx66bds) ![](assets/new.png)  
+- [2022-02-15-新入手的Mac需要做的事；自我刷新2.5次后工资涨了1.5倍；谷爱凌，欢迎归来｜码农周刊VIP会员专属邮件周报-Vol.079](https://toutiao.io/k/c1004x2) ![](assets/new.png)  
 - [2022-02-15-微服务网关选型，请收下我的膝盖!](https://toutiao.io/k/8errm9q) ![](assets/new.png)  
 - [2022-02-15-京东二面：群聊消息的已读未读设计](https://toutiao.io/k/8rijq6l) ![](assets/new.png)  
 - [2022-02-15-使用-Cilium-增强-Kubernetes-网络安全](https://toutiao.io/k/37vv9md) ![](assets/new.png)  
@@ -572,7 +572,7 @@
 - [2022-02-15-如何消除Go的编译特征.md](https://toutiao.io/k/asmdrms) ![](assets/new.png)  
 - [2022-02-15-SRE团队KPI制定思路](https://toutiao.io/k/6pih1dn) ![](assets/new.png)  
 - [2022-02-15-终极-debug-大法---二分](https://toutiao.io/k/z0q8b3b) ![](assets/new.png)  
-- [2022-02-15-推荐-真香啊！接私活必备的-N-个开源项目（附源码合集第一期）！收藏走起！](https://toutiao.io/k/he7umju) ![](assets/new.png)  
+- [2022-02-15-推荐-如何撰写好技术方案设计-真实案例干货分享](https://toutiao.io/k/t1d9x3b) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

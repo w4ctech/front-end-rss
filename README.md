@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-15 10:54:44，:rocket: 更新条数: +1901， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-15 11:10:29，:rocket: 更新条数: +1902， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,9 @@
 </summary>
 
 
+- [2022-02-15-N1-电视盒子-rom-推荐](https://www.v2ex.com/t/834067) ![](assets/new.png)  
+- [2022-02-15-go-打包-sqlite-到可执行程序内](https://www.v2ex.com/t/834066) ![](assets/new.png)  
+- [2022-02-15-有无成熟的自建-NAT-穿透-P2P-VPN-方案？](https://www.v2ex.com/t/834065) ![](assets/new.png)  
 - [2022-02-15-关于-Debian-设置-crontab-的问题](https://www.v2ex.com/t/834064) ![](assets/new.png)  
 - [2022-02-15-这个对战图里的高亮效果怎样实现呢。-hover-到某个节点，能高亮对应的路径](https://www.v2ex.com/t/834062) ![](assets/new.png)  
 - [2022-02-15-迫于-navicat-太贵，有什么可以替代它且能用在-Linux-系统上的数据库-GUI-工具吗?](https://www.v2ex.com/t/834061) ![](assets/new.png)  
@@ -508,9 +511,6 @@
 - [2022-02-15-内推-NVIDIA-上海招聘测试开发多名5G,-CUDA,-DPU,-cloud-等方向](https://www.v2ex.com/t/834049) ![](assets/new.png)  
 - [2022-02-15-小学-2-3-年级-辅导书-阅读书-求推荐](https://www.v2ex.com/t/834048) ![](assets/new.png)  
 - [2022-02-15-我发现了盲点！](https://www.v2ex.com/t/834046) ![](assets/new.png)  
-- [2022-02-15-我又来出租房子了-闵行区-浦江线-东城一路地铁站-1000-块/月](https://www.v2ex.com/t/834044) ![](assets/new.png)  
-- [2022-02-15-深圳/武汉-国企似的福利-招联金融-各种技术工种大量招聘,-C++/-Java-/前端/数据分析*****](https://www.v2ex.com/t/834043) ![](assets/new.png)  
-- [2022-02-15-今天去了重医附二院牙科](https://www.v2ex.com/t/834042) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -572,7 +572,7 @@
 - [2022-02-15-SRE团队KPI制定思路](https://toutiao.io/k/6pih1dn) ![](assets/new.png)  
 - [2022-02-15-如何消除Go的编译特征.md](https://toutiao.io/k/asmdrms) ![](assets/new.png)  
 - [2022-02-15-终极-debug-大法---二分](https://toutiao.io/k/z0q8b3b) ![](assets/new.png)  
-- [2022-02-15-推荐-支付系统架构设计详解](https://toutiao.io/k/5tx1zgw) ![](assets/new.png)  
+- [2022-02-15-推荐-神器-Nginx-的学习手册-建议收藏-](https://toutiao.io/k/6f1qaso) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

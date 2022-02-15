@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-15 11:54:35，:rocket: 更新条数: +1904， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-15 12:18:22，:rocket: 更新条数: +1904， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,9 @@
 </summary>
 
 
+- [2022-02-15-求助苏州的-v-友](https://www.v2ex.com/t/834074) ![](assets/new.png)  
+- [2022-02-15-2022-年了，如何映射文件夹为「本地磁盘」？](https://www.v2ex.com/t/834073) ![](assets/new.png)  
+- [2022-02-15-求助：小程序分享到朋友圈功能，单页模式一直提示数据库无权限是怎么回事？](https://www.v2ex.com/t/834072) ![](assets/new.png)  
 - [2022-02-15-大家是否对外包程序员都有天然的歧视和刻板印象？](https://www.v2ex.com/t/834071) ![](assets/new.png)  
 - [2022-02-15-Mac-有没有办法快速锁定/Disable-内置键盘和触控板？](https://www.v2ex.com/t/834070) ![](assets/new.png)  
 - [2022-02-15-有比-gitpod-更好用的-Cloud-IDE-吗](https://www.v2ex.com/t/834069) ![](assets/new.png)  
@@ -508,9 +511,6 @@
 - [2022-02-15-能和中小团队项目管理工具,-能和-slack-整合的？（类似-jira）](https://www.v2ex.com/t/834056) ![](assets/new.png)  
 - [2022-02-15-求助:-怎么使用-Google-api-访问自己私人表格](https://www.v2ex.com/t/834055) ![](assets/new.png)  
 - [2022-02-15-深圳20-40k-产品/iOS/Go-后端-大佬们来呀](https://www.v2ex.com/t/834054) ![](assets/new.png)  
-- [2022-02-15-有无实用现代高级编程语言实现了传说中图灵打孔机的程序？](https://www.v2ex.com/t/834053) ![](assets/new.png)  
-- [2022-02-15-现如今的购房态度¬‿¬](https://www.v2ex.com/t/834052) ![](assets/new.png)  
-- [2022-02-15-专注模式下，站立提醒没了，怎么设置能让他在专注模式下也提醒？](https://www.v2ex.com/t/834051) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -572,7 +572,7 @@
 - [2022-02-15-SRE团队KPI制定思路](https://toutiao.io/k/6pih1dn) ![](assets/new.png)  
 - [2022-02-15-如何消除Go的编译特征.md](https://toutiao.io/k/asmdrms) ![](assets/new.png)  
 - [2022-02-15-终极-debug-大法---二分](https://toutiao.io/k/z0q8b3b) ![](assets/new.png)  
-- [2022-02-15-推荐-如何撰写好技术方案设计-真实案例干货分享](https://toutiao.io/k/t1d9x3b) ![](assets/new.png)  
+- [2022-02-15-推荐-真香啊！接私活必备的-N-个开源项目（附源码合集第一期）！收藏走起！](https://toutiao.io/k/he7umju) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

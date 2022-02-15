@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-15 08:14:33，:rocket: 更新条数: +1890， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-15 08:24:34，:rocket: 更新条数: +1891， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-02-15-我刚突然有一个想法！](https://www.v2ex.com/t/834027) ![](assets/new.png)  
+- [2022-02-15-为什么现在国内用-Angular-的网站感觉非常少？](https://www.v2ex.com/t/834025) ![](assets/new.png)  
 - [2022-02-15-cyberpunk-2077-gtx1060-6g-太慢？](https://www.v2ex.com/t/834024) ![](assets/new.png)  
 - [2022-02-15-没人吐槽企业微信新推出的邮箱功能吗？](https://www.v2ex.com/t/834023) ![](assets/new.png)  
 - [2022-02-15-分享一个在线开发工具网站](https://www.v2ex.com/t/834022) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-02-15-我决定停止我的项目](https://www.v2ex.com/t/834003) ![](assets/new.png)  
 - [2022-02-15-我来收集下好工具，有哪些是需要-FQ-使用的？](https://www.v2ex.com/t/834002) ![](assets/new.png)  
 - [2022-02-15-龙岗区丹竹头地铁站岭背东十巷出租](https://www.v2ex.com/t/833999) ![](assets/new.png)  
-- [2022-02-15-我又来推广我的博客了，这次聊聊从面试官的角度来看算法面试](https://www.v2ex.com/t/833998) ![](assets/new.png)  
-- [2022-02-15-北京-多邻国-Duolingo-招聘-安卓/iOS-工程师](https://www.v2ex.com/t/833996) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -572,7 +572,7 @@
 - [2022-02-15-终极-debug-大法---二分](https://toutiao.io/k/z0q8b3b) ![](assets/new.png)  
 - [2022-02-15-如何消除Go的编译特征.md](https://toutiao.io/k/asmdrms) ![](assets/new.png)  
 - [2022-02-15-SRE团队KPI制定思路](https://toutiao.io/k/6pih1dn) ![](assets/new.png)  
-- [2022-02-15-推荐-如何撰写好技术方案设计-真实案例干货分享](https://toutiao.io/k/t1d9x3b) ![](assets/new.png)  
+- [2022-02-15-推荐-支付系统架构设计详解](https://toutiao.io/k/5tx1zgw) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

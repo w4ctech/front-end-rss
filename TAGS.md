@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-02-15 08:14:33。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-15 08:24:34。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -294,7 +294,6 @@
 
 
 - [【V2EX】我又来推广我的博客了，这次聊聊从面试官的角度来看算法面试](https://www.v2ex.com/t/833998)
-- [【V2EX】上海-英伟达-GPU-基础架构-C++](https://www.v2ex.com/t/833975)
 - [【开发者头条】Elasticsearch-断路器报错了，怎么办？](https://toutiao.io/k/jnyt0mv)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 

@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-02-15 06:47:27。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-15 07:12:11。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -280,7 +280,6 @@
 - [【武汉肺炎防疫全纪录(财新网)】解药|新冠mRNA疫苗安全性有哪些挑战？](https://m.caixin.com/m/2021-01-08/101648043.html)
 - [【武汉肺炎防疫全纪录(财新网)】大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html)
 - [【V2EX】今天一打开-Edge，登录的网站都退出了，密码也没有自动输入](https://www.v2ex.com/t/833987)
-- [【V2EX】新加坡技术移民机会-知名互联网公司，招移动端（iOS,安卓,-RN），前端开发，后端开发（不限开发语言），-运维及运维开发/DevOps-/SRE-和-DBA-及安全等各类工...](https://www.v2ex.com/t/833939)
 - [【开发者头条】使用-Cilium-增强-Kubernetes-网络安全](https://toutiao.io/k/37vv9md)
 - [【开发者头条】500行代码了解缓存客户端驱动原理](https://toutiao.io/k/ac0zoxq)
 - [......【查看更多】......](./details/tags/browser.md)
@@ -354,6 +353,7 @@
 
 
 
+- [【V2EX】北京-多邻国-Duolingo-招聘-安卓/iOS-工程师](https://www.v2ex.com/t/833996)
 - [【V2EX】全国英国公司招聘全职-asp.net-工程师,-一年合同，-工作地点可在上海或全国远程](https://www.v2ex.com/t/833978)
 - [【开发者头条】推荐-百度和米哈游的Golang面试经验分享](https://toutiao.io/k/q0sox0k)
 - [......【查看更多】......](./details/tags/job-interview.md)

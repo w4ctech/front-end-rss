@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-15 15:19:25，:rocket: 更新条数: +1908， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-15 15:35:44，:rocket: 更新条数: +1907， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-02-15-关于微软子账户的疑惑](https://www.v2ex.com/t/834109) ![](assets/new.png)  
+- [2022-02-15-14-寸-M1-Pro-乞丐版和满血版差距大不大？](https://www.v2ex.com/t/834107) ![](assets/new.png)  
 - [2022-02-15-北上广深杭-网易内推](https://www.v2ex.com/t/834106) ![](assets/new.png)  
 - [2022-02-15-求个国区-apple-music-家庭车](https://www.v2ex.com/t/834105) ![](assets/new.png)  
 - [2022-02-15-Surge-后台运行事实上还是很耗电的](https://www.v2ex.com/t/834104) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-02-15-Apple-面试流程是怎样的](https://www.v2ex.com/t/834087) ![](assets/new.png)  
 - [2022-02-15-求问如何把手机和-iCloud-里面的照片导出到-Windows-外置硬盘](https://www.v2ex.com/t/834086) ![](assets/new.png)  
 - [2022-02-15-iCloud-感觉要拆家了，-cn/international-版本以后会隔离吗？](https://www.v2ex.com/t/834084) ![](assets/new.png)  
-- [2022-02-15-记录-Windows-Ternimal-的一次美化](https://www.v2ex.com/t/834083) ![](assets/new.png)  
-- [2022-02-15-2022-年了，还有很多主板/笔记本的-HDMI-接口只支持-HDMI1.4](https://www.v2ex.com/t/834082) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -572,7 +572,7 @@
 - [2022-02-15-程序员的情人节「GitHub-热点速览-v.22.07」](https://toutiao.io/k/iptnj50) ![](assets/new.png)  
 - [2022-02-15-SRE团队KPI制定思路](https://toutiao.io/k/6pih1dn) ![](assets/new.png)  
 - [2022-02-15-终极-debug-大法---二分](https://toutiao.io/k/z0q8b3b) ![](assets/new.png)  
-- [2022-02-15-推荐-如何撰写好的技术方案设计-真实案例干货分享](https://toutiao.io/k/0f5fv4t) ![](assets/new.png)  
+- [2022-02-15-推荐-神器-Nginx-的学习手册-建议收藏-](https://toutiao.io/k/6f1qaso) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

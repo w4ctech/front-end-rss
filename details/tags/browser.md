@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-02-15 15:19:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-15 15:35:44。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -15,6 +15,5 @@
 - [2021-01-01-大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html) 
 - [2022-02-15-如何部署一个-URL-转发系统](https://www.v2ex.com/t/834099) 
 - [2022-02-15-真心求问，-Paw-比-Postman-好在哪里？有什么决定性的区别嘛](https://www.v2ex.com/t/834077) 
-- [2022-02-15-Xbox-Series-不配拥有独立的节点吗?-🐶](https://www.v2ex.com/t/834058) 
 - [2022-02-15-使用-Cilium-增强-Kubernetes-网络安全](https://toutiao.io/k/37vv9md) 
 - [2022-02-15-500行代码了解缓存客户端驱动原理](https://toutiao.io/k/ac0zoxq) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-15 07:39:40，:rocket: 更新条数: +1890， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-15 07:54:26，:rocket: 更新条数: +1888， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,12 @@
 </summary>
 
 
+- [2022-02-15-阿里云的-dms-挂了，执行-sql-数据库直接重启了](https://www.v2ex.com/t/834011) ![](assets/new.png)  
+- [2022-02-15-09-年就开始卖钱的自动翻译软件，-v-友帮忙支招推广](https://www.v2ex.com/t/834007) ![](assets/new.png)  
+- [2022-02-15-杭州博克软件应届生实习怎么样，找应届校招](https://www.v2ex.com/t/834006) ![](assets/new.png)  
+- [2022-02-15-2022-漏扫工具交流](https://www.v2ex.com/t/834005) ![](assets/new.png)  
+- [2022-02-15-某东自动领京豆](https://www.v2ex.com/t/834004) ![](assets/new.png)  
+- [2022-02-15-我决定停止我的项目](https://www.v2ex.com/t/834003) ![](assets/new.png)  
 - [2022-02-15-我来收集下好工具，有哪些是需要-FQ-使用的？](https://www.v2ex.com/t/834002) ![](assets/new.png)  
 - [2022-02-15-龙岗区丹竹头地铁站岭背东十巷出租](https://www.v2ex.com/t/833999) ![](assets/new.png)  
 - [2022-02-15-我又来推广我的博客了，这次聊聊从面试官的角度来看算法面试](https://www.v2ex.com/t/833998) ![](assets/new.png)  
@@ -505,12 +511,6 @@
 - [2022-02-15-分享一个-JAVASCRIPTAMAZON-SES-SDK发送邮件的方法，-便宜好用！](https://www.v2ex.com/t/833981) ![](assets/new.png)  
 - [2022-02-15-有什么推荐的可支持在线编辑的文档系统呢？](https://www.v2ex.com/t/833979) ![](assets/new.png)  
 - [2022-02-15-全国英国公司招聘全职-asp.net-工程师,-一年合同，-工作地点可在上海或全国远程](https://www.v2ex.com/t/833978) ![](assets/new.png)  
-- [2022-02-15-上海-英伟达-GPU-基础架构-C++](https://www.v2ex.com/t/833975) ![](assets/new.png)  
-- [2022-02-15-vivo-T1x-手机下载-Google-Play-Store-无法添加安装未知应用权限，如何解决？](https://www.v2ex.com/t/833974) ![](assets/new.png)  
-- [2022-02-15-现在学理工科的大学生，还有不学编程的吗？](https://www.v2ex.com/t/833973) ![](assets/new.png)  
-- [2022-02-15-山东电信推荐我办融合套餐，-69-一月千兆网](https://www.v2ex.com/t/833972) ![](assets/new.png)  
-- [2022-02-15-数据库放在公网供其它服务远程访问如何？](https://www.v2ex.com/t/833971) ![](assets/new.png)  
-- [2022-02-15-windows-自动开机，不解锁如何让自启动软件自启动](https://www.v2ex.com/t/833970) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -560,8 +560,8 @@
 - [2022-02-15-新入手的Mac需要做的事；自我刷新2.5次后工资涨了1.5倍；谷爱凌，欢迎归来｜码农周刊VIP会员专属邮件周报-Vol.079](https://toutiao.io/k/c1004x2) ![](assets/new.png)  
 - [2022-02-15-阿里P9专家右军：以终为始的架构设计](https://toutiao.io/k/dx66bds) ![](assets/new.png)  
 - [2022-02-15-微服务网关选型，请收下我的膝盖!](https://toutiao.io/k/8errm9q) ![](assets/new.png)  
-- [2022-02-15-使用-Cilium-增强-Kubernetes-网络安全](https://toutiao.io/k/37vv9md) ![](assets/new.png)  
 - [2022-02-15-京东二面：群聊消息的已读未读设计](https://toutiao.io/k/8rijq6l) ![](assets/new.png)  
+- [2022-02-15-使用-Cilium-增强-Kubernetes-网络安全](https://toutiao.io/k/37vv9md) ![](assets/new.png)  
 - [2022-02-15-Elasticsearch-断路器报错了，怎么办？](https://toutiao.io/k/jnyt0mv) ![](assets/new.png)  
 - [2022-02-15-SUSE发布容器桌面管理工具Rancher-Desktop-v1.0](https://toutiao.io/k/iturymz) ![](assets/new.png)  
 - [2022-02-15-500行代码了解缓存客户端驱动原理](https://toutiao.io/k/ac0zoxq) ![](assets/new.png)  
@@ -572,7 +572,7 @@
 - [2022-02-15-终极-debug-大法---二分](https://toutiao.io/k/z0q8b3b) ![](assets/new.png)  
 - [2022-02-15-如何消除Go的编译特征.md](https://toutiao.io/k/asmdrms) ![](assets/new.png)  
 - [2022-02-15-SRE团队KPI制定思路](https://toutiao.io/k/6pih1dn) ![](assets/new.png)  
-- [2022-02-15-推荐-神器-Nginx-的学习手册-建议收藏-](https://toutiao.io/k/6f1qaso) ![](assets/new.png)  
+- [2022-02-15-推荐-支付系统架构设计详解](https://toutiao.io/k/5tx1zgw) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

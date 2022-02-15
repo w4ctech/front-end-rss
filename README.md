@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-15 05:54:29，:rocket: 更新条数: +1884， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-15 06:14:59，:rocket: 更新条数: +1889， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,10 @@
 </summary>
 
 
+- [2022-02-15-分享一个-JAVASCRIPTAMAZON-SES-SDK发送邮件的方法，-便宜好用！](https://www.v2ex.com/t/833981) ![](assets/new.png)  
+- [2022-02-15-有什么推荐的可支持在线编辑的文档系统呢？](https://www.v2ex.com/t/833979) ![](assets/new.png)  
+- [2022-02-15-全国英国公司招聘全职-asp.net-工程师,-一年合同，-工作地点可在上海或全国远程](https://www.v2ex.com/t/833978) ![](assets/new.png)  
+- [2022-02-15-上海-英伟达-GPU-基础架构-C++](https://www.v2ex.com/t/833975) ![](assets/new.png)  
 - [2022-02-15-vivo-T1x-手机下载-Google-Play-Store-无法添加安装未知应用权限，如何解决？](https://www.v2ex.com/t/833974) ![](assets/new.png)  
 - [2022-02-15-现在学理工科的大学生，还有不学编程的吗？](https://www.v2ex.com/t/833973) ![](assets/new.png)  
 - [2022-02-15-山东电信推荐我办融合套餐，-69-一月千兆网](https://www.v2ex.com/t/833972) ![](assets/new.png)  
@@ -507,10 +511,6 @@
 - [2022-02-15-如何解决-PC-死机导致交换机下其他机器网络瘫痪？](https://www.v2ex.com/t/833956) ![](assets/new.png)  
 - [2022-02-15-深圳-30-50k有准备跑路的后端大佬吗](https://www.v2ex.com/t/833955) ![](assets/new.png)  
 - [2022-02-15-准备把-XPS9370-卖了换-Macbook-球推荐最佳渠道](https://www.v2ex.com/t/833953) ![](assets/new.png)  
-- [2022-02-15-html5-推-rtmp-流的方案？](https://www.v2ex.com/t/833952) ![](assets/new.png)  
-- [2022-02-15-8-万变-80-万](https://www.v2ex.com/t/833951) ![](assets/new.png)  
-- [2022-02-15-国内用哪个-js/css-公共-cdn-比较好？最近我这边（广东）访问-cdn.jsdelivr.net-偶尔有联不通的情况。](https://www.v2ex.com/t/833949) ![](assets/new.png)  
-- [2022-02-15-请教各位，-Office-365-的账号分地区吗？](https://www.v2ex.com/t/833948) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -562,17 +562,17 @@
 - [2022-02-15-使用-Cilium-增强-Kubernetes-网络安全](https://toutiao.io/k/37vv9md) ![](assets/new.png)  
 - [2022-02-15-微服务网关选型，请收下我的膝盖!](https://toutiao.io/k/8errm9q) ![](assets/new.png)  
 - [2022-02-15-京东二面：群聊消息的已读未读设计](https://toutiao.io/k/8rijq6l) ![](assets/new.png)  
-- [2022-02-15-500行代码了解缓存客户端驱动原理](https://toutiao.io/k/ac0zoxq) ![](assets/new.png)  
 - [2022-02-15-Elasticsearch-断路器报错了，怎么办？](https://toutiao.io/k/jnyt0mv) ![](assets/new.png)  
-- [2022-02-15-探索-iOS-编码对包大小的影响](https://toutiao.io/k/9l0jd4q) ![](assets/new.png)  
+- [2022-02-15-500行代码了解缓存客户端驱动原理](https://toutiao.io/k/ac0zoxq) ![](assets/new.png)  
 - [2022-02-15-SUSE发布容器桌面管理工具Rancher-Desktop-v1.0](https://toutiao.io/k/iturymz) ![](assets/new.png)  
+- [2022-02-15-探索-iOS-编码对包大小的影响](https://toutiao.io/k/9l0jd4q) ![](assets/new.png)  
 - [2022-02-15-程序员的情人节「GitHub-热点速览-v.22.07」](https://toutiao.io/k/iptnj50) ![](assets/new.png)  
-- [2022-02-15-推荐-百度和米哈游的Golang面试经验分享](https://toutiao.io/k/q0sox0k) ![](assets/new.png)  
-- [2022-02-15-推荐-阿里专家：如何画出优秀的架构图？](https://toutiao.io/k/92sk26n) ![](assets/new.png)  
-- [2022-02-15-推荐-支付系统架构设计详解](https://toutiao.io/k/5tx1zgw) ![](assets/new.png)  
-- [2022-02-15-推荐-真香啊！接私活必备的-N-个开源项目（附源码合集第一期）！收藏走起！](https://toutiao.io/k/he7umju) ![](assets/new.png)  
-- [2022-02-15-推荐-Go-原生并发原语和最佳实践](https://toutiao.io/k/rdpao5x) ![](assets/new.png)  
-- [2022-02-15-推荐-神器-Nginx-的学习手册-建议收藏-](https://toutiao.io/k/6f1qaso) ![](assets/new.png)  
+- [2022-02-15-玩转-Spring-Boot-集成篇（任务动态管理代码篇）](https://toutiao.io/k/rbq0osi) ![](assets/new.png)  
+- [2022-02-15-深入理解Go-Json.Unmarshal精度丢失之谜](https://toutiao.io/k/uhqypuz) ![](assets/new.png)  
+- [2022-02-15-PPT-|-大数据湖架构规划建设方案](https://toutiao.io/k/53ow8kt) ![](assets/new.png)  
+- [2022-02-15-终极-debug-大法---二分](https://toutiao.io/k/z0q8b3b) ![](assets/new.png)  
+- [2022-02-15-如何消除Go的编译特征.md](https://toutiao.io/k/asmdrms) ![](assets/new.png)  
+- [2022-02-15-SRE团队KPI制定思路](https://toutiao.io/k/6pih1dn) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

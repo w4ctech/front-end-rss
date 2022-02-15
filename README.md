@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-15 09:41:07，:rocket: 更新条数: +1895， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-15 09:54:39，:rocket: 更新条数: +1897， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -65,13 +65,13 @@
 </summary>
 
 
-- [2022-02-15-2月14日全国新增新冠80例-四省份本土40例](https://m.caixin.com/m/2022-02-15/101841862.html) ![](assets/new.png)  
+- [2022-02-15-最新疫情：全国新冠累计确诊107094例-累计接种新冠疫苗超30.52亿剂次](https://m.caixin.com/m/2022-02-15/101842173.html) ![](assets/new.png)  
 - [2022-02-15-跨境货车司机阳性病例增至35例-供港物资压力加大](https://m.caixin.com/m/2022-02-15/101841970.html) ![](assets/new.png)  
 - [2022-02-15-香港初步确诊病例再翻倍-两长者过世后才确诊](https://m.caixin.com/m/2022-02-15/101841897.html) ![](assets/new.png)  
+- [2022-02-15-最新海外疫情：新冠感染超4.12亿-累计接种新冠疫苗超103.02亿剂次](https://m.caixin.com/m/2022-02-15/101842177.html) ![](assets/new.png)  
 - [2022-02-15-【境内疫情观察】江苏新增8例本土病例（2月14日）](https://database.caixin.com/m/2022-02-15/101842129.html) ![](assets/new.png)  
 - [2022-02-15-日本居家患者超50万人，瑞典、韩国开启第四针疫苗｜大流行手记（2月14日）](https://m.caixin.com/m/2022-02-15/101841904.html) ![](assets/new.png)  
 - [2022-02-14-苏州现8例新冠感染者-多在工业园区工作](https://m.caixin.com/m/2022-02-14/101841328.html) ![](assets/new.png)  
-- [2022-02-14-最新海外疫情：新冠感染超4.1亿-累计接种新冠疫苗近103亿剂次](https://m.caixin.com/m/2022-02-14/101841671.html) ![](assets/new.png)  
 - [2022-02-14-【境内疫情观察】全国新增26例本土病例（2月13日）](https://database.caixin.com/m/2022-02-14/101841558.html) ![](assets/new.png)  
 - [2022-02-14-越南将结束国际航班限制-加拿大清走“大使桥”抗议者｜大流行手记（2月13日）](https://m.caixin.com/m/2022-02-14/101841402.html) ![](assets/new.png)  
 - [2022-02-14-浪尖上的第三方核酸检测：时效紧、单价低，暴利时代已远去](https://m.caixin.com/m/2022-02-14/101841436.html) ![](assets/new.png)  
@@ -491,7 +491,12 @@
 </summary>
 
 
-- [2022-02-15-我又来出租房子了-浦江线-东城一路地铁站-1000-块/月](https://www.v2ex.com/t/834044) ![](assets/new.png)  
+- [2022-02-15-专注模式下，站立提醒没了，怎么设置能让他在专注模式下也提醒？](https://www.v2ex.com/t/834051) ![](assets/new.png)  
+- [2022-02-15-用-Go-编译到-WASM-在浏览器里实现了个编程语言解释器，欢迎来玩](https://www.v2ex.com/t/834050) ![](assets/new.png)  
+- [2022-02-15-内推-NVIDIA-上海招聘测试开发多名5G,-CUDA,-DPU,-cloud-等方向](https://www.v2ex.com/t/834049) ![](assets/new.png)  
+- [2022-02-15-小学-2-3-年级-辅导书-阅读书-求推荐](https://www.v2ex.com/t/834048) ![](assets/new.png)  
+- [2022-02-15-我发现了盲点！](https://www.v2ex.com/t/834046) ![](assets/new.png)  
+- [2022-02-15-我又来出租房子了-闵行区-浦江线-东城一路地铁站-1000-块/月](https://www.v2ex.com/t/834044) ![](assets/new.png)  
 - [2022-02-15-深圳/武汉-国企似的福利-招联金融-各种技术工种大量招聘,-C++/-Java-/前端/数据分析*****](https://www.v2ex.com/t/834043) ![](assets/new.png)  
 - [2022-02-15-今天去了重医附二院牙科](https://www.v2ex.com/t/834042) ![](assets/new.png)  
 - [2022-02-15-esxi-硬盘直通后的问题](https://www.v2ex.com/t/834041) ![](assets/new.png)  
@@ -506,11 +511,6 @@
 - [2022-02-15-VS-Code-更新了，可以愉快地-Ctrl+C-了](https://www.v2ex.com/t/834028) ![](assets/new.png)  
 - [2022-02-15-我刚突然有一个想法！](https://www.v2ex.com/t/834027) ![](assets/new.png)  
 - [2022-02-15-为什么现在国内用-Angular-的网站感觉非常少？](https://www.v2ex.com/t/834025) ![](assets/new.png)  
-- [2022-02-15-cyberpunk-2077-gtx1060-6g-太慢？](https://www.v2ex.com/t/834024) ![](assets/new.png)  
-- [2022-02-15-没人吐槽企业微信新推出的邮箱功能吗？](https://www.v2ex.com/t/834023) ![](assets/new.png)  
-- [2022-02-15-分享一个在线开发工具网站](https://www.v2ex.com/t/834022) ![](assets/new.png)  
-- [2022-02-15-MBP-M1-鼠标光标在黑色-ide-背景下，不快不慢的挪动光标可以看到光标有重影](https://www.v2ex.com/t/834020) ![](assets/new.png)  
-- [2022-02-15-小米平板内存扩容水深不深](https://www.v2ex.com/t/834019) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -572,7 +572,7 @@
 - [2022-02-15-SRE团队KPI制定思路](https://toutiao.io/k/6pih1dn) ![](assets/new.png)  
 - [2022-02-15-如何消除Go的编译特征.md](https://toutiao.io/k/asmdrms) ![](assets/new.png)  
 - [2022-02-15-终极-debug-大法---二分](https://toutiao.io/k/z0q8b3b) ![](assets/new.png)  
-- [2022-02-15-推荐-阿里专家：如何画出优秀的架构图？](https://toutiao.io/k/92sk26n) ![](assets/new.png)  
+- [2022-02-15-推荐-作为研发Leader，如何做总结](https://toutiao.io/k/1g7flto) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

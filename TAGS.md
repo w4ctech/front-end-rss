@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-02-16 16:30:52。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-16 16:53:27。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -355,7 +355,6 @@
 
 - [【V2EX】各位觉得今年招聘岗位少吗？](https://www.v2ex.com/t/834358)
 - [【V2EX】-58-集团-招聘-Java-高级开发工程师，薪资-28K---50K，工作地点：北京](https://www.v2ex.com/t/834351)
-- [【V2EX】杭州&阿里-国际化中台-平台架构,-招聘-P6P7-童鞋💥💥💥](https://www.v2ex.com/t/834333)
 - [......【查看更多】......](./details/tags/job-interview.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

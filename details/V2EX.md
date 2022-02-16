@@ -1,10 +1,15 @@
-:alarm_clock: 更新时间: 2022-02-16 02:58:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-16 03:12:58。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-02-16-HDMI-同步氛围灯比如-Philips-Hue是怎么解决-HDCP-的问题的？](https://www.v2ex.com/t/834176) 
+- [2022-02-16-英语很烂怎么办啊？](https://www.v2ex.com/t/834175) 
+- [2022-02-16-吐槽下华为手环-6，为何不能双击亮屏，只能费劲去按侧边那个实体键](https://www.v2ex.com/t/834174) 
+- [2022-02-16-关于-Java-中的-DO、DTO、BO、AO、VO、POJO-有没有人能用一个接口的例子通俗的解释一下？](https://www.v2ex.com/t/834173) 
+- [2022-02-16-杭州良企-三国杀公司诚聘前端若干名！](https://www.v2ex.com/t/834172) 
 - [2022-02-16-打算弃用电信了](https://www.v2ex.com/t/834171) 
 - [2022-02-16-基于个人使用的一款文本转语音小程序](https://www.v2ex.com/t/834169) 
 - [2022-02-16-Parallels-Desktop-高级捆绑包活动，不是-7-折，而是-0.9-折](https://www.v2ex.com/t/834166) 
@@ -43,6 +48,3 @@
 - [2022-02-16-有方案可以基于域名分流,转发所有流量吗不限于-TCP,UDP,TLS,PPTP,ICMP-等?](https://www.v2ex.com/t/834130) 
 - [2022-02-16-有没有除甲醛的好方法？](https://www.v2ex.com/t/834129) 
 - [2022-02-16-深圳Amber-Group-量化开发工程师-25k-45k-*-18-薪](https://www.v2ex.com/t/834127) 
-- [2022-02-16-试用期最后一天被辞赔了半个月工资](https://www.v2ex.com/t/834126) 
-- [2022-02-16-nginx-编译扩展的这个参数是什么含义](https://www.v2ex.com/t/834125) 
-- [2022-02-16-自荐一款-ZooKeeper-可视化管理工具](https://www.v2ex.com/t/834124) 

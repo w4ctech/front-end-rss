@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-16 04:50:15，:rocket: 更新条数: +1902， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-16 05:11:43，:rocket: 更新条数: +1901， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,9 @@
 </summary>
 
 
+- [2022-02-16-Celery-任务-prefork-多进程启动时，如何通过自定义类的__call__函数设置属性](https://www.v2ex.com/t/834205) ![](assets/new.png)  
+- [2022-02-16-卖二手车的一点经验总结（附新手买车建议）](https://www.v2ex.com/t/834203) ![](assets/new.png)  
+- [2022-02-16-今天去重医附二院洗了牙。](https://www.v2ex.com/t/834202) ![](assets/new.png)  
 - [2022-02-16-写了一个申请-SSL-免费证书的浏览器工具](https://www.v2ex.com/t/834201) ![](assets/new.png)  
 - [2022-02-16-请推荐几款苹果手机用-u-盘-方便传输](https://www.v2ex.com/t/834200) ![](assets/new.png)  
 - [2022-02-16-Netmaker-无法打开-WebUI](https://www.v2ex.com/t/834199) ![](assets/new.png)  
@@ -508,9 +511,6 @@
 - [2022-02-16-Markdown-和-reStructuredText-哪个适合用来写文档？适合写哪种项目的文档？](https://www.v2ex.com/t/834184) ![](assets/new.png)  
 - [2022-02-16-哪个函数返回参数本身？](https://www.v2ex.com/t/834182) ![](assets/new.png)  
 - [2022-02-16-真不能这么要钱啊](https://www.v2ex.com/t/834181) ![](assets/new.png)  
-- [2022-02-16-春节自学了-SwiftUI-7-天，今天终于上架了第一款-iOS-APP，分享一下过程](https://www.v2ex.com/t/834180) ![](assets/new.png)  
-- [2022-02-16-未来的路在哪里？](https://www.v2ex.com/t/834179) ![](assets/new.png)  
-- [2022-02-16-自己组网构建云电脑串流，除了-Zerotier，还有别的推荐吗](https://www.v2ex.com/t/834178) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -565,14 +565,14 @@
 - [2022-02-16-「研发共建」提升中台效能初探](https://toutiao.io/k/x4fuwdz) ![](assets/new.png)  
 - [2022-02-16-「图分类研究」最新2022综述](https://toutiao.io/k/i36qw5w) ![](assets/new.png)  
 - [2022-02-16-Remix-究竟比-Next.js-强在哪儿？](https://toutiao.io/k/e8wlj2s) ![](assets/new.png)  
-- [2022-02-16-推荐-如何撰写好的技术方案设计-真实案例干货分享](https://toutiao.io/k/0f5fv4t) ![](assets/new.png)  
+- [2022-02-16-推荐-支付系统架构设计详解](https://toutiao.io/k/5tx1zgw) ![](assets/new.png)  
+- [2022-02-16-推荐-真香啊！接私活必备的-N-个开源项目（附源码合集第一期）！收藏走起！](https://toutiao.io/k/he7umju) ![](assets/new.png)  
 - [2022-02-16-推荐-阿里专家：如何画出优秀的架构图？](https://toutiao.io/k/92sk26n) ![](assets/new.png)  
 - [2022-02-16-推荐-作为研发Leader，如何做总结](https://toutiao.io/k/1g7flto) ![](assets/new.png)  
-- [2022-02-16-推荐-Go-原生并发原语和最佳实践](https://toutiao.io/k/rdpao5x) ![](assets/new.png)  
-- [2022-02-16-推荐-支付系统架构设计详解](https://toutiao.io/k/5tx1zgw) ![](assets/new.png)  
-- [2022-02-16-推荐-如何撰写好技术方案设计-真实案例干货分享](https://toutiao.io/k/t1d9x3b) ![](assets/new.png)  
+- [2022-02-16-推荐-如何撰写好的技术方案设计-真实案例干货分享](https://toutiao.io/k/0f5fv4t) ![](assets/new.png)  
 - [2022-02-16-推荐-百度和米哈游的Golang面试经验分享](https://toutiao.io/k/q0sox0k) ![](assets/new.png)  
-- [2022-02-16-推荐-神器-Nginx-的学习手册-建议收藏-](https://toutiao.io/k/6f1qaso) ![](assets/new.png)  
+- [2022-02-16-推荐-如何撰写好技术方案设计-真实案例干货分享](https://toutiao.io/k/t1d9x3b) ![](assets/new.png)  
+- [2022-02-16-推荐-Go-原生并发原语和最佳实践](https://toutiao.io/k/rdpao5x) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-16 15:44:30，:rocket: 更新条数: +1913， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-16 15:56:43，:rocket: 更新条数: +1914， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,7 +491,10 @@
 </summary>
 
 
-- [2022-02-16-推荐电视棒，-firetv-stick-几代之间的区别？](https://www.v2ex.com/t/834373) ![](assets/new.png)  
+- [2022-02-16-在交易区的帖子无法打开,并且会重定向到首页](https://www.v2ex.com/t/834376) ![](assets/new.png)  
+- [2022-02-16-Plex-如何设置跳过片头](https://www.v2ex.com/t/834375) ![](assets/new.png)  
+- [2022-02-16-Apple-One-美区-差一个](https://www.v2ex.com/t/834374) ![](assets/new.png)  
+- [2022-02-16-求推荐电视棒，-firetv-stick-几代之间的区别？](https://www.v2ex.com/t/834373) ![](assets/new.png)  
 - [2022-02-16-求职-远程/杭州-10+yr-开发经验，求职-Android-或者嵌入式相关开发，预期-45K+](https://www.v2ex.com/t/834372) ![](assets/new.png)  
 - [2022-02-16-小书签-一个管理-Kindle-笔记、微信读书笔记的-macOS-应用](https://www.v2ex.com/t/834371) ![](assets/new.png)  
 - [2022-02-16-寻找闹钟类-APP，倒计时中途可以设置某间隔弱提醒一次](https://www.v2ex.com/t/834370) ![](assets/new.png)  
@@ -508,9 +511,6 @@
 - [2022-02-16-应该是一个-Android-开发中的新手问题，请教一下](https://www.v2ex.com/t/834355) ![](assets/new.png)  
 - [2022-02-16-flutter-小白接外包疑问（定价）（法律风险）](https://www.v2ex.com/t/834354) ![](assets/new.png)  
 - [2022-02-16-React-有什么比较优雅的跨组件通信方法吗](https://www.v2ex.com/t/834353) ![](assets/new.png)  
-- [2022-02-16--58-集团-招聘-Java-高级开发工程师，薪资-28K---50K，工作地点：北京](https://www.v2ex.com/t/834351) ![](assets/new.png)  
-- [2022-02-16-向日葵远程桌面存在远程代码执行漏洞](https://www.v2ex.com/t/834350) ![](assets/new.png)  
-- [2022-02-16-拯救你的英语发音，在线英语发音跟读纠正](https://www.v2ex.com/t/834349) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -572,7 +572,7 @@
 - [2022-02-16-Flux项目谈安全：镜像来源](https://toutiao.io/k/1kze64s) ![](assets/new.png)  
 - [2022-02-16-Hyperledger-Fabric-2.x-自定义智能合约](https://toutiao.io/k/ivnmmc3) ![](assets/new.png)  
 - [2022-02-16-OpenPPL-性能优化解析之-X86-篇](https://toutiao.io/k/ibsqlvy) ![](assets/new.png)  
-- [2022-02-16-推荐-如何撰写好技术方案设计-真实案例干货分享](https://toutiao.io/k/t1d9x3b) ![](assets/new.png)  
+- [2022-02-16-推荐-Go-原生并发原语和最佳实践](https://toutiao.io/k/rdpao5x) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

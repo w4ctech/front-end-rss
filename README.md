@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-16 10:55:34，:rocket: 更新条数: +1908， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-16 11:11:39，:rocket: 更新条数: +1908， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-02-16-是找家外包公司好，还是找家小公司好？](https://www.v2ex.com/t/834327) ![](assets/new.png)  
 - [2022-02-16-请教一下桌面整理达人，推荐点好物呗？](https://www.v2ex.com/t/834326) ![](assets/new.png)  
 - [2022-02-16-分享我的独立运营日记-03-结束](https://www.v2ex.com/t/834324) ![](assets/new.png)  
 - [2022-02-16-还有类似“熊猫吃短信”-的这类利用-iOS-设备离线-ML-能力的-App-吗](https://www.v2ex.com/t/834321) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-02-16-库珀科技招聘-Java-/前端/测试20~60K18~24-薪-成都可远程](https://www.v2ex.com/t/834303) ![](assets/new.png)  
 - [2022-02-16-天敌——产品](https://www.v2ex.com/t/834301) ![](assets/new.png)  
 - [2022-02-16-M1-更新-12.2-之后频繁黑屏死机续-磁盘救急出现错误-69845](https://www.v2ex.com/t/834300) ![](assets/new.png)  
-- [2022-02-16-群控安卓手机软件推荐？付费的最好](https://www.v2ex.com/t/834298) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

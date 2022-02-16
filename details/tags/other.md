@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-02-16 10:55:34。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-16 11:11:39。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1791,6 +1791,7 @@
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2022-02-04-HTML-inputmode与iOS-Android软键盘类型测试](https://www.zhangxinxu.com/wordpress/2022/02/html-inputmode-keyboard/) 
+- [2022-02-16-是找家外包公司好，还是找家小公司好？](https://www.v2ex.com/t/834327) 
 - [2022-02-16-请教一下桌面整理达人，推荐点好物呗？](https://www.v2ex.com/t/834326) 
 - [2022-02-16-分享我的独立运营日记-03-结束](https://www.v2ex.com/t/834324) 
 - [2022-02-16-还有类似“熊猫吃短信”-的这类利用-iOS-设备离线-ML-能力的-App-吗](https://www.v2ex.com/t/834321) 
@@ -1846,9 +1847,9 @@
 - [2022-02-16-协同文档工作机制简介](https://toutiao.io/k/z6g6oni) 
 - [2022-02-16-Go1.18-新特性：弃用-strings.Title-方法，换个新坑吧！](https://toutiao.io/k/li42h75) 
 - [2022-02-16-推荐-阿里专家：如何画出优秀的架构图？](https://toutiao.io/k/92sk26n) 
-- [2022-02-16-推荐-如何撰写好技术方案设计-真实案例干货分享](https://toutiao.io/k/t1d9x3b) 
-- [2022-02-16-推荐-Go-原生并发原语和最佳实践](https://toutiao.io/k/rdpao5x) 
-- [2022-02-16-推荐-如何撰写好的技术方案设计-真实案例干货分享](https://toutiao.io/k/0f5fv4t) 
-- [2022-02-16-推荐-支付系统架构设计详解](https://toutiao.io/k/5tx1zgw) 
-- [2022-02-16-推荐-作为研发Leader，如何做总结](https://toutiao.io/k/1g7flto) 
 - [2022-02-16-推荐-真香啊！接私活必备的-N-个开源项目（附源码合集第一期）！收藏走起！](https://toutiao.io/k/he7umju) 
+- [2022-02-16-推荐-如何撰写好的技术方案设计-真实案例干货分享](https://toutiao.io/k/0f5fv4t) 
+- [2022-02-16-推荐-作为研发Leader，如何做总结](https://toutiao.io/k/1g7flto) 
+- [2022-02-16-推荐-Go-原生并发原语和最佳实践](https://toutiao.io/k/rdpao5x) 
+- [2022-02-16-推荐-如何撰写好技术方案设计-真实案例干货分享](https://toutiao.io/k/t1d9x3b) 
+- [2022-02-16-推荐-支付系统架构设计详解](https://toutiao.io/k/5tx1zgw) 

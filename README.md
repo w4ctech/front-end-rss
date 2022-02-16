@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-16 13:03:48，:rocket: 更新条数: +1909， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-16 13:15:55，:rocket: 更新条数: +1910， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-02-16-拯救你的英语发音，在线英语发音跟读纠正](https://www.v2ex.com/t/834349) ![](assets/new.png)  
+- [2022-02-16-搬瓦工疑似被黑，因为滥发邮件被停用。](https://www.v2ex.com/t/834348) ![](assets/new.png)  
 - [2022-02-16-求租，滨康二院、铂金名筑、江南铭庭附近都行](https://www.v2ex.com/t/834347) ![](assets/new.png)  
 - [2022-02-16-经常感觉头晕，没精神](https://www.v2ex.com/t/834346) ![](assets/new.png)  
 - [2022-02-16-关于-MySQL-分库分表-多表关联设计](https://www.v2ex.com/t/834345) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-02-16-大佬，这个接口如何优化](https://www.v2ex.com/t/834329) ![](assets/new.png)  
 - [2022-02-16-是找家外包公司好，还是找家小公司好？](https://www.v2ex.com/t/834327) ![](assets/new.png)  
 - [2022-02-16-请教一下桌面整理达人，推荐点好物呗？](https://www.v2ex.com/t/834326) ![](assets/new.png)  
-- [2022-02-16-分享我的独立运营日记-03-结束](https://www.v2ex.com/t/834324) ![](assets/new.png)  
-- [2022-02-16-还有类似“熊猫吃短信”-的这类利用-iOS-设备离线-ML-能力的-App-吗](https://www.v2ex.com/t/834321) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -572,7 +572,7 @@
 - [2022-02-16-Flux项目谈安全：镜像来源](https://toutiao.io/k/1kze64s) ![](assets/new.png)  
 - [2022-02-16-OpenPPL-性能优化解析之-X86-篇](https://toutiao.io/k/ibsqlvy) ![](assets/new.png)  
 - [2022-02-16-Hyperledger-Fabric-2.x-自定义智能合约](https://toutiao.io/k/ivnmmc3) ![](assets/new.png)  
-- [2022-02-16-推荐-Go-原生并发原语和最佳实践](https://toutiao.io/k/rdpao5x) ![](assets/new.png)  
+- [2022-02-16-推荐-阿里专家：如何画出优秀的架构图？](https://toutiao.io/k/92sk26n) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

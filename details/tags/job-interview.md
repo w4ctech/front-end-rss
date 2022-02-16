@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-02-16 07:39:36。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-16 07:54:43。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -7,4 +7,5 @@
 
 
 
+- [2022-02-16-请教一下，运维开发面试需要准备些什么呢](https://www.v2ex.com/t/834265) 
 - [2022-02-16-推荐-百度和米哈游的Golang面试经验分享](https://toutiao.io/k/q0sox0k) 

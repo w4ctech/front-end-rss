@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-02-16 09:41:09。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-16 09:54:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -240,7 +240,6 @@
 - [【武汉肺炎防疫全纪录(财新网)】广州17岁男生在定点医院参加高考-特殊考场视频监考](https://m.caixin.com/m/2021-06-05/101723418.html)
 - [【武汉肺炎防疫全纪录(财新网)】林郑月娥率13高官直播接种科兴疫苗-复星疫苗预计周中到港](https://m.caixin.com/m/2021-02-22/101665724.html)
 - [【V2EX】急·招聘远程办公（30-60K/月）--音视频算法工程师](https://www.v2ex.com/t/834277)
-- [【V2EX】急招聘远程/30-60K（13-薪+）----音视频算法工程师](https://www.v2ex.com/t/834262)
 - [......【查看更多】......](./details/tags/audio-video.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -281,6 +280,9 @@
 - [【武汉肺炎防疫全纪录(财新网)】腺病毒新冠疫苗引安全忧虑-康希诺称未发现血栓病例](https://m.caixin.com/m/2021-04-14/101691086.html)
 - [【武汉肺炎防疫全纪录(财新网)】解药|新冠mRNA疫苗安全性有哪些挑战？](https://m.caixin.com/m/2021-01-08/101648043.html)
 - [【武汉肺炎防疫全纪录(财新网)】大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html)
+- [【V2EX】Chrome-浏览器的一个-bug！](https://www.v2ex.com/t/834314)
+- [【V2EX】ES-暴露公网如何保证安全](https://www.v2ex.com/t/834313)
+- [【V2EX】关于-Nginx-处理请求方法的猜想](https://www.v2ex.com/t/834311)
 - [【V2EX】推荐一款安卓强大的浏览器，完美支持-Chrome、edge-拓展插件](https://www.v2ex.com/t/834285)
 - [【开发者头条】Flux项目谈安全：镜像来源](https://toutiao.io/k/1kze64s)
 - [【开发者头条】Hyperledger-Fabric-2.x-自定义智能合约](https://toutiao.io/k/ivnmmc3)
@@ -355,7 +357,6 @@
 
 - [【V2EX】库珀科技招聘-Java-/前端/测试20~60K18~24-薪-成都可远程](https://www.v2ex.com/t/834303)
 - [【V2EX】广州-汇丰银行-诚意招聘中高级-Java-工程师和中高级前端工程师-20-30K++](https://www.v2ex.com/t/834296)
-- [【V2EX】请教一下，运维开发面试需要准备些什么呢](https://www.v2ex.com/t/834265)
 - [【开发者头条】推荐-百度和米哈游的Golang面试经验分享](https://toutiao.io/k/q0sox0k)
 - [......【查看更多】......](./details/tags/job-interview.md)
 

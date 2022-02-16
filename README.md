@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-16 20:21:50，:rocket: 更新条数: +1916， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-16 20:37:10，:rocket: 更新条数: +1916， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-02-16-北京电信上行最高多少？](https://www.v2ex.com/t/834389) ![](assets/new.png)  
 - [2022-02-16-我是如何从哑巴英语到无障碍英文工作沟通的](https://www.v2ex.com/t/834388) ![](assets/new.png)  
 - [2022-02-16-tailscale-节点作为网关有同学玩过吗?](https://www.v2ex.com/t/834387) ![](assets/new.png)  
 - [2022-02-16-把产品说成“国产”的意义？](https://www.v2ex.com/t/834386) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-02-16-小书签-一个管理-Kindle-笔记、微信读书笔记的-macOS-应用](https://www.v2ex.com/t/834371) ![](assets/new.png)  
 - [2022-02-16-寻找闹钟类-APP，倒计时中途可以设置某间隔弱提醒一次](https://www.v2ex.com/t/834370) ![](assets/new.png)  
 - [2022-02-16-开发了一个-Microsoft-To-Do-浏览器扩展](https://www.v2ex.com/t/834368) ![](assets/new.png)  
-- [2022-02-16-香港人來到深圳隔離,-需要使用流量卡,-求可用方案](https://www.v2ex.com/t/834365) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -572,7 +572,7 @@
 - [2022-02-16-Flux项目谈安全：镜像来源](https://toutiao.io/k/1kze64s) ![](assets/new.png)  
 - [2022-02-16-Hyperledger-Fabric-2.x-自定义智能合约](https://toutiao.io/k/ivnmmc3) ![](assets/new.png)  
 - [2022-02-16-OpenPPL-性能优化解析之-X86-篇](https://toutiao.io/k/ibsqlvy) ![](assets/new.png)  
-- [2022-02-16-推荐-你分库分表的姿势对么？——详谈水平分库分表](https://toutiao.io/k/eteqw6s) ![](assets/new.png)  
+- [2022-02-16-推荐-如何撰写好技术方案设计-真实案例干货分享](https://toutiao.io/k/t1d9x3b) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

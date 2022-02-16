@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-16 23:42:17，:rocket: 更新条数: +1915， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-16 23:54:31，:rocket: 更新条数: +1896， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -553,26 +553,16 @@
 </summary>
 
 
-- [2022-02-16-2022-年升职加薪就靠它了！抓紧时间！](https://toutiao.io/k/fitvcz1) ![](assets/new.png)  
-- [2022-02-16-元数据性能大比拼：HDFS-vs-OSS-vs-JuiceFS](https://toutiao.io/k/kdd5k5y) ![](assets/new.png)  
-- [2022-02-16-AliExpress基于Flink的广告实时数仓建设](https://toutiao.io/k/filrcil) ![](assets/new.png)  
-- [2022-02-16-2021-大前端技术回顾及未来展望](https://toutiao.io/k/uuq8ojp) ![](assets/new.png)  
-- [2022-02-16-使用-Flink-Hudi-构建流式数据湖平台](https://toutiao.io/k/wded8mj) ![](assets/new.png)  
-- [2022-02-16-「研发共建」提升中台效能初探](https://toutiao.io/k/x4fuwdz) ![](assets/new.png)  
-- [2022-02-16-一文读懂｜Linux-进程管理之CFS负载均衡](https://toutiao.io/k/8fqq8tp) ![](assets/new.png)  
-- [2022-02-16-前端组件/库打包利器rollup使用与配置实战](https://toutiao.io/k/xlhkzta) ![](assets/new.png)  
-- [2022-02-16-机器学习全生命周期研究（二）](https://toutiao.io/k/3i428fq) ![](assets/new.png)  
-- [2022-02-16-3.6-万颗星！开源-Web-服务器后起之秀，自带免费-HTTPS-开箱即用](https://toutiao.io/k/o9t1ira) ![](assets/new.png)  
-- [2022-02-16-为什么SpringBoot可以直接运行-jar-包？](https://toutiao.io/k/v7lkeg4) ![](assets/new.png)  
-- [2022-02-16-多功能猫咪爬架，点击链接立即购买！](https://toutiao.io/k/2qh6etz) ![](assets/new.png)  
-- [2022-02-16-协同文档工作机制简介](https://toutiao.io/k/z6g6oni) ![](assets/new.png)  
-- [2022-02-16-Remix-究竟比-Next.js-强在哪儿？](https://toutiao.io/k/e8wlj2s) ![](assets/new.png)  
-- [2022-02-16-「图分类研究」最新2022综述](https://toutiao.io/k/i36qw5w) ![](assets/new.png)  
-- [2022-02-16-Go1.18-新特性：弃用-strings.Title-方法，换个新坑吧！](https://toutiao.io/k/li42h75) ![](assets/new.png)  
-- [2022-02-16-Flux项目谈安全：镜像来源](https://toutiao.io/k/1kze64s) ![](assets/new.png)  
-- [2022-02-16-OpenPPL-性能优化解析之-X86-篇](https://toutiao.io/k/ibsqlvy) ![](assets/new.png)  
-- [2022-02-16-Hyperledger-Fabric-2.x-自定义智能合约](https://toutiao.io/k/ivnmmc3) ![](assets/new.png)  
+- [2022-02-16-中大型犬护肘衣，点击链接立即购买！](https://toutiao.io/k/s3rthzk) ![](assets/new.png)  
+- [2022-02-16-推荐-作为研发Leader，如何做总结](https://toutiao.io/k/1g7flto) ![](assets/new.png)  
 - [2022-02-16-推荐-轻松搞懂5种IO模型](https://toutiao.io/k/o77uhyt) ![](assets/new.png)  
+- [2022-02-16-推荐-你分库分表的姿势对么？——详谈水平分库分表](https://toutiao.io/k/eteqw6s) ![](assets/new.png)  
+- [2022-02-16-推荐-支付系统架构设计详解](https://toutiao.io/k/5tx1zgw) ![](assets/new.png)  
+- [2022-02-16-推荐-Go-原生并发原语和最佳实践](https://toutiao.io/k/rdpao5x) ![](assets/new.png)  
+- [2022-02-16-推荐-如何撰写好的技术方案设计-真实案例干货分享](https://toutiao.io/k/0f5fv4t) ![](assets/new.png)  
+- [2022-02-16-推荐-如何撰写好技术方案设计-真实案例干货分享](https://toutiao.io/k/t1d9x3b) ![](assets/new.png)  
+- [2022-02-16-推荐-真香啊！接私活必备的-N-个开源项目（附源码合集第一期）！收藏走起！](https://toutiao.io/k/he7umju) ![](assets/new.png)  
+- [2022-02-16-推荐-神器-Nginx-的学习手册-建议收藏-](https://toutiao.io/k/6f1qaso) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

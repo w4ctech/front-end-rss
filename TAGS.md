@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-02-16 13:56:04。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-16 14:12:30。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -308,7 +308,6 @@
 
 
 - [【V2EX】有人把-vim-的方向键-hjkl-映射成-ijkl-吗？](https://www.v2ex.com/t/834357)
-- [【V2EX】excel-公式作为算法程序，可行吗？](https://www.v2ex.com/t/834309)
 - [【开发者头条】3.6-万颗星！开源-Web-服务器后起之秀，自带免费-HTTPS-开箱即用](https://toutiao.io/k/o9t1ira)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 
@@ -360,6 +359,7 @@
 
 
 
+- [【V2EX】各位觉得今年招聘岗位少吗？](https://www.v2ex.com/t/834358)
 - [【V2EX】-58-集团-招聘-Java-高级开发工程师，薪资-28K---50K，工作地点：北京](https://www.v2ex.com/t/834351)
 - [【V2EX】杭州&阿里-国际化中台-平台架构,-招聘-P6P7-童鞋💥💥💥](https://www.v2ex.com/t/834333)
 - [【开发者头条】推荐-百度和米哈游的Golang面试经验分享](https://toutiao.io/k/q0sox0k)

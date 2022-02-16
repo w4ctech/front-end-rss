@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-16 08:43:28，:rocket: 更新条数: +1904， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-16 08:55:35，:rocket: 更新条数: +1907， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,9 +491,18 @@
 </summary>
 
 
+- [2022-02-16-群控安卓手机软件推荐？付费的最好](https://www.v2ex.com/t/834298) ![](assets/new.png)  
+- [2022-02-16-Django-不同环境表结构修改最佳实践是什么？](https://www.v2ex.com/t/834297) ![](assets/new.png)  
+- [2022-02-16-广州-汇丰银行-诚意招聘中高级-Java-工程师和中高级前端工程师-20-30K++](https://www.v2ex.com/t/834296) ![](assets/new.png)  
+- [2022-02-16-上班静不下心来，只想刷-leetcode](https://www.v2ex.com/t/834295) ![](assets/new.png)  
+- [2022-02-16-推荐一部-Netflix-纪录片《诈骗之王》](https://www.v2ex.com/t/834294) ![](assets/new.png)  
+- [2022-02-16-有程序员转行的吗？](https://www.v2ex.com/t/834292) ![](assets/new.png)  
+- [2022-02-16-b-站的网页版首页从去年-10-月左右开始更换为新版的页面，如何回退到旧版首页？](https://www.v2ex.com/t/834291) ![](assets/new.png)  
+- [2022-02-16-现在有哪些支持-webdav-的-Android-App？](https://www.v2ex.com/t/834290) ![](assets/new.png)  
+- [2022-02-16-网页字体不放大就不清晰，是显示器-DPI-不够的问题？](https://www.v2ex.com/t/834289) ![](assets/new.png)  
 - [2022-02-16-迫于换-4K-上海出-aoc-24-寸显示器](https://www.v2ex.com/t/834288) ![](assets/new.png)  
 - [2022-02-16-Telegram-安卓版图片浏览操控的问题](https://www.v2ex.com/t/834287) ![](assets/new.png)  
-- [2022-02-16-请教各位大佬：搭建快递智能货架系统](https://www.v2ex.com/t/834286) ![](assets/new.png)  
+- [2022-02-16-请教各位大佬：-DIY-快递驿站智能货架管理系统](https://www.v2ex.com/t/834286) ![](assets/new.png)  
 - [2022-02-16-推荐一款安卓强大的浏览器，完美支持-Chrome、edge-拓展插件](https://www.v2ex.com/t/834285) ![](assets/new.png)  
 - [2022-02-16-爱回收问我要-Apple-ID-的密码。是骗子还是爱回收这么不专业](https://www.v2ex.com/t/834283) ![](assets/new.png)  
 - [2022-02-16-LibreOffice-通过-Qt-for-WebAssembly-运行](https://www.v2ex.com/t/834281) ![](assets/new.png)  
@@ -502,15 +511,6 @@
 - [2022-02-16-急·招聘远程办公（30-60K/月）--音视频算法工程师](https://www.v2ex.com/t/834277) ![](assets/new.png)  
 - [2022-02-16-杭州-内推-顶级美企跪求资深测试-以及-Web,-C++,-DevOps,-iOS,-Android-研发简历](https://www.v2ex.com/t/834276) ![](assets/new.png)  
 - [2022-02-16-有用小米即热净水器-Q600-的-v2er-吗](https://www.v2ex.com/t/834275) ![](assets/new.png)  
-- [2022-02-16-这是怎样的业务逻辑:-亚马逊怀疑我盗刷他人卡-却不退款给卡主-字多慎入](https://www.v2ex.com/t/834274) ![](assets/new.png)  
-- [2022-02-16-怎么才能结合-knife4j-和-Java-validation？](https://www.v2ex.com/t/834271) ![](assets/new.png)  
-- [2022-02-16-话说有今年新机器的小道消息吗？-哈哈](https://www.v2ex.com/t/834270) ![](assets/new.png)  
-- [2022-02-16-每次看到-xdm,-第一反应都是"小的们"](https://www.v2ex.com/t/834269) ![](assets/new.png)  
-- [2022-02-16-在-windows-terminal-里用-pip-安装库的时候进度条是彩色的,是装了什么插件吗?](https://www.v2ex.com/t/834267) ![](assets/new.png)  
-- [2022-02-16-请问-Golang-模板定义可以在不同路径下使用吗？](https://www.v2ex.com/t/834266) ![](assets/new.png)  
-- [2022-02-16-请教一下，运维开发面试需要准备些什么呢](https://www.v2ex.com/t/834265) ![](assets/new.png)  
-- [2022-02-16-字节跳动内推~](https://www.v2ex.com/t/834263) ![](assets/new.png)  
-- [2022-02-16-急招聘远程/30-60K（13-薪+）----音视频算法工程师](https://www.v2ex.com/t/834262) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -560,19 +560,19 @@
 - [2022-02-16-2021-大前端技术回顾及未来展望](https://toutiao.io/k/uuq8ojp) ![](assets/new.png)  
 - [2022-02-16-前端组件/库打包利器rollup使用与配置实战](https://toutiao.io/k/xlhkzta) ![](assets/new.png)  
 - [2022-02-16-机器学习全生命周期研究（二）](https://toutiao.io/k/3i428fq) ![](assets/new.png)  
-- [2022-02-16-多功能猫咪爬架，点击链接立即购买！](https://toutiao.io/k/2qh6etz) ![](assets/new.png)  
 - [2022-02-16-一文读懂｜Linux-进程管理之CFS负载均衡](https://toutiao.io/k/8fqq8tp) ![](assets/new.png)  
+- [2022-02-16-多功能猫咪爬架，点击链接立即购买！](https://toutiao.io/k/2qh6etz) ![](assets/new.png)  
 - [2022-02-16-「研发共建」提升中台效能初探](https://toutiao.io/k/x4fuwdz) ![](assets/new.png)  
 - [2022-02-16-Remix-究竟比-Next.js-强在哪儿？](https://toutiao.io/k/e8wlj2s) ![](assets/new.png)  
 - [2022-02-16-「图分类研究」最新2022综述](https://toutiao.io/k/i36qw5w) ![](assets/new.png)  
 - [2022-02-16-为什么SpringBoot可以直接运行-jar-包？](https://toutiao.io/k/v7lkeg4) ![](assets/new.png)  
-- [2022-02-16-3.6-万颗星！开源-Web-服务器后起之秀，自带免费-HTTPS-开箱即用](https://toutiao.io/k/o9t1ira) ![](assets/new.png)  
 - [2022-02-16-协同文档工作机制简介](https://toutiao.io/k/z6g6oni) ![](assets/new.png)  
+- [2022-02-16-3.6-万颗星！开源-Web-服务器后起之秀，自带免费-HTTPS-开箱即用](https://toutiao.io/k/o9t1ira) ![](assets/new.png)  
 - [2022-02-16-Go1.18-新特性：弃用-strings.Title-方法，换个新坑吧！](https://toutiao.io/k/li42h75) ![](assets/new.png)  
 - [2022-02-16-OpenPPL-性能优化解析之-X86-篇](https://toutiao.io/k/ibsqlvy) ![](assets/new.png)  
 - [2022-02-16-Flux项目谈安全：镜像来源](https://toutiao.io/k/1kze64s) ![](assets/new.png)  
 - [2022-02-16-Hyperledger-Fabric-2.x-自定义智能合约](https://toutiao.io/k/ivnmmc3) ![](assets/new.png)  
-- [2022-02-16-推荐-阿里专家：如何画出优秀的架构图？](https://toutiao.io/k/92sk26n) ![](assets/new.png)  
+- [2022-02-16-推荐-百度和米哈游的Golang面试经验分享](https://toutiao.io/k/q0sox0k) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

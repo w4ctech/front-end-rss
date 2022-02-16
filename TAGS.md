@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-02-16 08:43:28。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-16 08:55:35。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -156,8 +156,6 @@
 
 
 
-- [【V2EX】求问深圳地区有哪些游戏开发培训班](https://www.v2ex.com/t/834245)
-- [【V2EX】v-友-有人玩部落冲突的游戏吗，要分服了，不能全球同服了，有点不甘心。。。](https://www.v2ex.com/t/834239)
 - [......【查看更多】......](./details/tags/dev-game.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -353,6 +351,7 @@
 
 
 
+- [【V2EX】广州-汇丰银行-诚意招聘中高级-Java-工程师和中高级前端工程师-20-30K++](https://www.v2ex.com/t/834296)
 - [【V2EX】请教一下，运维开发面试需要准备些什么呢](https://www.v2ex.com/t/834265)
 - [【开发者头条】推荐-百度和米哈游的Golang面试经验分享](https://toutiao.io/k/q0sox0k)
 - [......【查看更多】......](./details/tags/job-interview.md)

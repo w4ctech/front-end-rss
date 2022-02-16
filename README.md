@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-16 07:54:43，:rocket: 更新条数: +1903， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-16 08:14:46，:rocket: 更新条数: +1901， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -65,13 +65,13 @@
 </summary>
 
 
-- [2022-02-16-2月15日全国新增新冠102例-五省份本土46例](https://m.caixin.com/m/2022-02-16/101842395.html) ![](assets/new.png)  
+- [2022-02-16-最新疫情：全国新冠累计确诊107196例-累计接种新冠疫苗超30.56亿剂次](https://m.caixin.com/m/2022-02-16/101842597.html) ![](assets/new.png)  
 - [2022-02-16-习近平：稳控疫情是港府当前压倒一切的任务](https://m.caixin.com/m/2022-02-16/101842493.html) ![](assets/new.png)  
-- [2022-02-16-国产家用自测试剂盒出海记](https://m.caixin.com/m/2022-02-16/101842579.html) ![](assets/new.png)  
+- [2022-02-16-国产家用新冠自测试剂盒出海记](https://m.caixin.com/m/2022-02-16/101842579.html) ![](assets/new.png)  
 - [2022-02-16-香港疫情外溢内地-广东多地严打走私偷渡](https://m.caixin.com/m/2022-02-16/101842537.html) ![](assets/new.png)  
+- [2022-02-16-最新海外疫情：新冠感染超4.14亿-累计接种新冠疫苗超103.44亿剂次](https://m.caixin.com/m/2022-02-16/101842593.html) ![](assets/new.png)  
 - [2022-02-16-怀孕期间接种疫苗或保护婴儿-荷兰取消大部分限制措施｜大流行手记（2月15日）](https://m.caixin.com/m/2022-02-16/101842404.html) ![](assets/new.png)  
 - [2022-02-16-【图集】丰台封控管控小区全部解封-北京中高风险区域清零](https://photos.caixin.com/m/2022-02-16/101842550.html) ![](assets/new.png)  
-- [2022-02-15-最新海外疫情：新冠感染超4.12亿-累计接种新冠疫苗超103.02亿剂次](https://m.caixin.com/m/2022-02-15/101842177.html) ![](assets/new.png)  
 - [2022-02-15-广州报告3例阳性病例-专家称传播风险较大](https://m.caixin.com/m/2022-02-15/101842301.html) ![](assets/new.png)  
 - [2022-02-15-香港疫情通过海上路线溢出-湖南郴州报告2例阳性病例](https://m.caixin.com/m/2022-02-15/101842241.html) ![](assets/new.png)  
 - [2022-02-15-联电苏州工厂一员工确诊新冠-停工影响几何？](https://m.caixin.com/m/2022-02-15/101842221.html) ![](assets/new.png)  
@@ -491,6 +491,13 @@
 </summary>
 
 
+- [2022-02-16-急·招聘远程办公（30-60K/月）--音视频算法工程师](https://www.v2ex.com/t/834277) ![](assets/new.png)  
+- [2022-02-16-杭州-内推-顶级美企跪求资深测试-以及-Web,-C++,-DevOps,-iOS,-Android-研发简历](https://www.v2ex.com/t/834276) ![](assets/new.png)  
+- [2022-02-16-有用小米即热净水器-Q600-的-v2er-吗](https://www.v2ex.com/t/834275) ![](assets/new.png)  
+- [2022-02-16-这是怎样的业务逻辑:-亚马逊怀疑我盗刷他人卡-却不退款给卡主-字多慎入](https://www.v2ex.com/t/834274) ![](assets/new.png)  
+- [2022-02-16-怎么才能结合-knife4j-和-Java-validation？](https://www.v2ex.com/t/834271) ![](assets/new.png)  
+- [2022-02-16-话说有今年新机器的小道消息吗？-哈哈](https://www.v2ex.com/t/834270) ![](assets/new.png)  
+- [2022-02-16-每次看到-xdm,-第一反应都是"小的们"](https://www.v2ex.com/t/834269) ![](assets/new.png)  
 - [2022-02-16-在-windows-terminal-里用-pip-安装库的时候进度条是彩色的,是装了什么插件吗?](https://www.v2ex.com/t/834267) ![](assets/new.png)  
 - [2022-02-16-请问-Golang-模板定义可以在不同路径下使用吗？](https://www.v2ex.com/t/834266) ![](assets/new.png)  
 - [2022-02-16-请教一下，运维开发面试需要准备些什么呢](https://www.v2ex.com/t/834265) ![](assets/new.png)  
@@ -504,13 +511,6 @@
 - [2022-02-16-请问一下想购买二手的相机/镜头有什么渠道比较靠谱吗？](https://www.v2ex.com/t/834252) ![](assets/new.png)  
 - [2022-02-16-小黄鱼买东西被鸽，有点难过](https://www.v2ex.com/t/834251) ![](assets/new.png)  
 - [2022-02-16-steam-创意工坊分时间段的热门度排序是如何实现的](https://www.v2ex.com/t/834249) ![](assets/new.png)  
-- [2022-02-16-单体应用改造微服务疑惑求解](https://www.v2ex.com/t/834248) ![](assets/new.png)  
-- [2022-02-16-收-3-个招商白金体检](https://www.v2ex.com/t/834247) ![](assets/new.png)  
-- [2022-02-16-求问深圳地区有哪些游戏开发培训班](https://www.v2ex.com/t/834245) ![](assets/new.png)  
-- [2022-02-16-iPhone-每次在应用中进行-Face-ID-认证都会震动，求解决方法](https://www.v2ex.com/t/834243) ![](assets/new.png)  
-- [2022-02-16-找人逆一套端游，有经验的来聊一下。](https://www.v2ex.com/t/834241) ![](assets/new.png)  
-- [2022-02-16-v-友-有人玩部落冲突的游戏吗，要分服了，不能全球同服了，有点不甘心。。。](https://www.v2ex.com/t/834239) ![](assets/new.png)  
-- [2022-02-16-老哥门，我又来了，这次是-offer-选择](https://www.v2ex.com/t/834238) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -572,7 +572,7 @@
 - [2022-02-16-OpenPPL-性能优化解析之-X86-篇](https://toutiao.io/k/ibsqlvy) ![](assets/new.png)  
 - [2022-02-16-Flux项目谈安全：镜像来源](https://toutiao.io/k/1kze64s) ![](assets/new.png)  
 - [2022-02-16-Hyperledger-Fabric-2.x-自定义智能合约](https://toutiao.io/k/ivnmmc3) ![](assets/new.png)  
-- [2022-02-16-推荐-神器-Nginx-的学习手册-建议收藏-](https://toutiao.io/k/6f1qaso) ![](assets/new.png)  
+- [2022-02-16-推荐-如何撰写好技术方案设计-真实案例干货分享](https://toutiao.io/k/t1d9x3b) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

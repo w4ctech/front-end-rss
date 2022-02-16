@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-16 18:45:31，:rocket: 更新条数: +1915， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-16 18:57:33，:rocket: 更新条数: +1916， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-02-16-把产品说成“国产”的意义？](https://www.v2ex.com/t/834386) ![](assets/new.png)  
 - [2022-02-16-m1-mba-购买三周-电池循环-17-次-最大容量掉到了-98%正常吗？](https://www.v2ex.com/t/834385) ![](assets/new.png)  
 - [2022-02-16-厨刀，需要分生熟吗？](https://www.v2ex.com/t/834384) ![](assets/new.png)  
 - [2022-02-16-最近开始喜欢走有线连接的东西了](https://www.v2ex.com/t/834383) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-02-16-香港人來到深圳隔離,-需要使用流量卡,-求可用方案](https://www.v2ex.com/t/834365) ![](assets/new.png)  
 - [2022-02-16-请问移动联通宽带双出口如何实现-ipv6-双出口？](https://www.v2ex.com/t/834363) ![](assets/new.png)  
 - [2022-02-16-北京/深圳/广州「字节跳动---智能创作」招前端/服务端/多媒体/客户端开发,-新方向大量机会](https://www.v2ex.com/t/834362) ![](assets/new.png)  
-- [2022-02-16-阿里云-云原生-2023-届春季实习-北京/杭州/深圳](https://www.v2ex.com/t/834361) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -572,7 +572,7 @@
 - [2022-02-16-Flux项目谈安全：镜像来源](https://toutiao.io/k/1kze64s) ![](assets/new.png)  
 - [2022-02-16-Hyperledger-Fabric-2.x-自定义智能合约](https://toutiao.io/k/ivnmmc3) ![](assets/new.png)  
 - [2022-02-16-OpenPPL-性能优化解析之-X86-篇](https://toutiao.io/k/ibsqlvy) ![](assets/new.png)  
-- [2022-02-16-推荐-Go-原生并发原语和最佳实践](https://toutiao.io/k/rdpao5x) ![](assets/new.png)  
+- [2022-02-16-推荐-你分库分表的姿势对么？——详谈水平分库分表](https://toutiao.io/k/eteqw6s) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

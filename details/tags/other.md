@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-02-17 21:37:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-17 22:12:55。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1802,6 +1802,8 @@
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2022-02-04-HTML-inputmode与iOS-Android软键盘类型测试](https://www.zhangxinxu.com/wordpress/2022/02/html-inputmode-keyboard/) 
+- [2022-02-17-请教有什么软件支持-TODO-转成桌面背景吗](https://www.v2ex.com/t/834679) 
+- [2022-02-17-MacOS-12-邮件-app-无法使用查词](https://www.v2ex.com/t/834678) 
 - [2022-02-17-10-年工作经验，-100-万包裹的工作好找吗（一线城市）？](https://www.v2ex.com/t/834677) 
 - [2022-02-17-捡来的一只流浪猫，把我给整自闭了](https://www.v2ex.com/t/834675) 
 - [2022-02-17-iPhone-无法接收和发送短信-问题附解决方案](https://www.v2ex.com/t/834672) 
@@ -1864,11 +1866,11 @@
 - [2022-02-17-技术人聊开源：这并不只是用爱发电](https://toutiao.io/k/pv6e5rs) 
 - [2022-02-17-推荐-如何撰写好技术方案设计-真实案例干货分享](https://toutiao.io/k/t1d9x3b) 
 - [2022-02-17-推荐-轻松搞懂5种IO模型](https://toutiao.io/k/o77uhyt) 
-- [2022-02-17-推荐-Go-原生并发原语和最佳实践](https://toutiao.io/k/rdpao5x) 
-- [2022-02-17-推荐-你分库分表的姿势对么？——详谈水平分库分表](https://toutiao.io/k/eteqw6s) 
 - [2022-02-17-推荐-什么人能成为Leader，大Leader该做什么](https://toutiao.io/k/pnlaqae) 
-- [2022-02-17-推荐-真香啊！接私活必备的-N-个开源项目（附源码合集第一期）！收藏走起！](https://toutiao.io/k/he7umju) 
-- [2022-02-17-推荐-支付系统架构设计详解](https://toutiao.io/k/5tx1zgw) 
-- [2022-02-17-推荐-作为研发Leader，如何做总结](https://toutiao.io/k/1g7flto) 
+- [2022-02-17-推荐-Go-原生并发原语和最佳实践](https://toutiao.io/k/rdpao5x) 
 - [2022-02-17-推荐-微服务通信设计模式](https://toutiao.io/k/mp88imm) 
 - [2022-02-17-推荐-如何撰写好的技术方案设计-真实案例干货分享](https://toutiao.io/k/0f5fv4t) 
+- [2022-02-17-推荐-支付系统架构设计详解](https://toutiao.io/k/5tx1zgw) 
+- [2022-02-17-推荐-你分库分表的姿势对么？——详谈水平分库分表](https://toutiao.io/k/eteqw6s) 
+- [2022-02-17-推荐-真香啊！接私活必备的-N-个开源项目（附源码合集第一期）！收藏走起！](https://toutiao.io/k/he7umju) 
+- [2022-02-17-推荐-作为研发Leader，如何做总结](https://toutiao.io/k/1g7flto) 

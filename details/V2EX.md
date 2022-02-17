@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2022-02-17 13:15:36。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-17 13:37:05。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-02-17-Product-ManagerCloud-Infrastructure，地点：上海陆家嘴地铁站](https://www.v2ex.com/t/834631) 
+- [2022-02-17-一个开源技术博客系统](https://www.v2ex.com/t/834630) 
 - [2022-02-17-现在-Series-S-的市场价都快赶上-PS5-数字版了](https://www.v2ex.com/t/834626) 
 - [2022-02-17-求助，一直卡在“正在验证已更新的-iPhone-软件”](https://www.v2ex.com/t/834625) 
 - [2022-02-17-一面-HR-面的情况多吗？](https://www.v2ex.com/t/834624) 
@@ -40,6 +42,3 @@
 - [2022-02-17-上海韵达快递倒闭了?](https://www.v2ex.com/t/834584) 
 - [2022-02-17-Apple-store-可以免费换键帽么](https://www.v2ex.com/t/834583) 
 - [2022-02-17-全职远程-25-35k/去中心化金融（DeFi）招聘后端程序员](https://www.v2ex.com/t/834582) 
-- [2022-02-17-Marin-Software-招资深-IT-基础设施网络管理工程师，大数据开发Spark,-Scala，自动化测试-Java-](https://www.v2ex.com/t/834581) 
-- [2022-02-17-为什么这段-CSS-的-first-of-type-不起作用？](https://www.v2ex.com/t/834580) 
-- [2022-02-17-像这种微信机器人是有开源项目自己部署的吗?](https://www.v2ex.com/t/834579) 

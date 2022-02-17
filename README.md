@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-17 02:22:01，:rocket: 更新条数: +1905， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-17 02:45:15，:rocket: 更新条数: +1901， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-02-17-威联通的-Qsync-规则也太迷了，该如何设置啊？](https://www.v2ex.com/t/834431) ![](assets/new.png)  
+- [2022-02-17-充值-100-话费到账-201.34，好像发现了不得了的东西](https://www.v2ex.com/t/834429) ![](assets/new.png)  
 - [2022-02-17-看到卖课的就焦虑怎么办](https://www.v2ex.com/t/834424) ![](assets/new.png)  
 - [2022-02-17-2022-年了，用-m1-开发-Android-还有什么不方便的地方吗？](https://www.v2ex.com/t/834423) ![](assets/new.png)  
 - [2022-02-17-总是喜欢替别人瞎操心怎么办呢？](https://www.v2ex.com/t/834422) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-02-17-神界-原罪-2-for-mac](https://www.v2ex.com/t/834405) ![](assets/new.png)  
 - [2022-02-17-在盒子里自动连接手机，并耗光电](https://www.v2ex.com/t/834397) ![](assets/new.png)  
 - [2022-02-17-各位大佬有在-iOS-上面用-stream-抓包吗？请教一下](https://www.v2ex.com/t/834396) ![](assets/new.png)  
-- [2022-02-17-小米-pro-风扇声音大，受不了](https://www.v2ex.com/t/834395) ![](assets/new.png)  
-- [2022-02-17-iPad-的选择](https://www.v2ex.com/t/834394) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -558,8 +558,6 @@
 - [2022-02-17-基于.NET-制作一个气象站-IoT-应用](https://toutiao.io/k/8ajh0b4) ![](assets/new.png)  
 - [2022-02-17-做好用户标签体系建设，打好精细化运营的底层根基](https://toutiao.io/k/4zaxevz) ![](assets/new.png)  
 - [2022-02-17-中大型犬护肘衣，点击链接立即购买！](https://toutiao.io/k/s3rthzk) ![](assets/new.png)  
-- [2022-02-17-复盘一次线上OOM和性能优化](https://toutiao.io/k/qmpil8o) ![](assets/new.png)  
-- [2022-02-17-先写代码再出API文档？你已经落伍了！](https://toutiao.io/k/56lr8du) ![](assets/new.png)  
 - [2022-02-17-大型AI已有自主意识了？LeCun开喷Open-AI首席科学家](https://toutiao.io/k/ws6uy58) ![](assets/new.png)  
 - [2022-02-17-携程开启“混合办公”模式，来听听豚厂人怎么说](https://toutiao.io/k/3hs2e41) ![](assets/new.png)  
 - [2022-02-17-技术人聊开源：这并不只是用爱发电](https://toutiao.io/k/pv6e5rs) ![](assets/new.png)  
@@ -567,12 +565,14 @@
 - [2022-02-17-esrally-如何进行简单的自定义性能测试？](https://toutiao.io/k/rqjhpjb) ![](assets/new.png)  
 - [2022-02-17-Linux-内核源码如何学习？](https://toutiao.io/k/x7ixror) ![](assets/new.png)  
 - [2022-02-17-12-个-Vue-开发中的性能优化小技巧](https://toutiao.io/k/smj29br) ![](assets/new.png)  
-- [2022-02-17-推荐-支付系统架构设计详解](https://toutiao.io/k/5tx1zgw) ![](assets/new.png)  
-- [2022-02-17-推荐-如何撰写好技术方案设计-真实案例干货分享](https://toutiao.io/k/t1d9x3b) ![](assets/new.png)  
-- [2022-02-17-推荐-你分库分表的姿势对么？——详谈水平分库分表](https://toutiao.io/k/eteqw6s) ![](assets/new.png)  
+- [2022-02-17-2022-年别再焦虑啦！加入我们！](https://toutiao.io/k/9f0514g) ![](assets/new.png)  
+- [2022-02-17-推荐-作为研发Leader，如何做总结](https://toutiao.io/k/1g7flto) ![](assets/new.png)  
 - [2022-02-17-推荐-真香啊！接私活必备的-N-个开源项目（附源码合集第一期）！收藏走起！](https://toutiao.io/k/he7umju) ![](assets/new.png)  
-- [2022-02-17-推荐-如何撰写好的技术方案设计-真实案例干货分享](https://toutiao.io/k/0f5fv4t) ![](assets/new.png)  
+- [2022-02-17-推荐-支付系统架构设计详解](https://toutiao.io/k/5tx1zgw) ![](assets/new.png)  
+- [2022-02-17-推荐-轻松搞懂5种IO模型](https://toutiao.io/k/o77uhyt) ![](assets/new.png)  
 - [2022-02-17-推荐-Go-原生并发原语和最佳实践](https://toutiao.io/k/rdpao5x) ![](assets/new.png)  
+- [2022-02-17-推荐-如何撰写好的技术方案设计-真实案例干货分享](https://toutiao.io/k/0f5fv4t) ![](assets/new.png)  
+- [2022-02-17-推荐-如何撰写好技术方案设计-真实案例干货分享](https://toutiao.io/k/t1d9x3b) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

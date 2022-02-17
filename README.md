@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-17 16:16:41，:rocket: 更新条数: +1921， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-17 16:54:26，:rocket: 更新条数: +1919， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,9 @@
 </summary>
 
 
+- [2022-02-17-有在腾讯-AI-lab-的吗？](https://www.v2ex.com/t/834666) ![](assets/new.png)  
+- [2022-02-17-office-365-家庭版发车啦](https://www.v2ex.com/t/834664) ![](assets/new.png)  
+- [2022-02-17-关于工作选择的问题](https://www.v2ex.com/t/834663) ![](assets/new.png)  
 - [2022-02-17-为什么很多二次元立绘都把脖子画得很细，有什么原因吗？](https://www.v2ex.com/t/834661) ![](assets/new.png)  
 - [2022-02-17-深圳、北京-RE:-内推大量工作岗位，-k8s、测试开发等研发岗位](https://www.v2ex.com/t/834660) ![](assets/new.png)  
 - [2022-02-17-DELL-U2723-音响推荐？](https://www.v2ex.com/t/834659) ![](assets/new.png)  
@@ -508,9 +511,6 @@
 - [2022-02-17-MBP-睡醒后-safari、app-store-等其他系统软件都不能上网，-chrome-可以](https://www.v2ex.com/t/834642) ![](assets/new.png)  
 - [2022-02-17-给人事套路了](https://www.v2ex.com/t/834641) ![](assets/new.png)  
 - [2022-02-17-字节跳动——互娱研发春招正式启动-校招&实习，你关心的都在这里！](https://www.v2ex.com/t/834640) ![](assets/new.png)  
-- [2022-02-17-关于手机端列表页面操作定位的处理](https://www.v2ex.com/t/834639) ![](assets/new.png)  
-- [2022-02-17-求职-商务英语专业，广东/浙江皆可](https://www.v2ex.com/t/834638) ![](assets/new.png)  
-- [2022-02-17-一个公网-IPv4-的市场价格是-____-美刀](https://www.v2ex.com/t/834637) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -570,9 +570,9 @@
 - [2022-02-17-Kubernetes核心组件-ETCD详解](https://toutiao.io/k/5rb7726) ![](assets/new.png)  
 - [2022-02-17-一文带你理解URI-和-URL-有什么区别？](https://toutiao.io/k/f30zsoj) ![](assets/new.png)  
 - [2022-02-17-技术人聊开源：这并不只是用爱发电](https://toutiao.io/k/pv6e5rs) ![](assets/new.png)  
-- [2022-02-17-推荐-真香啊！接私活必备的-N-个开源项目（附源码合集第一期）！收藏走起！](https://toutiao.io/k/he7umju) ![](assets/new.png)  
-- [2022-02-17-推荐-神器-Nginx-的学习手册-建议收藏-](https://toutiao.io/k/6f1qaso) ![](assets/new.png)  
-- [2022-02-17-推荐-作为研发Leader，如何做总结](https://toutiao.io/k/1g7flto) ![](assets/new.png)  
+- [2022-02-17-推荐-你分库分表的姿势对么？——详谈水平分库分表](https://toutiao.io/k/eteqw6s) ![](assets/new.png)  
+- [2022-02-17-推荐-支付系统架构设计详解](https://toutiao.io/k/5tx1zgw) ![](assets/new.png)  
+- [2022-02-17-推荐-微服务通信设计模式](https://toutiao.io/k/mp88imm) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

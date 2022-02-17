@@ -2,7 +2,7 @@ name: rss
 
 on:
   schedule:
-    - cron: "*/15 * * * *"
+    - cron: "0 23 * * *"    
 jobs:
   front-rss-bot:
     runs-on: ubuntu-latest

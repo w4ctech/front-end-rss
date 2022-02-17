@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-02-17 07:12:37。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-17 07:35:52。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -257,7 +257,6 @@
 
 
 - [【V2EX】如果有-1.5T-的照片，-2T-的-iCloud，可-iPhone-最大只有-1T，也只能把照片全部保留在-iCloud优化-iPhone-存储空间，本地只保留小尺寸的？](https://www.v2ex.com/t/834486)
-- [【V2EX】求大神看下目前的方案没有可以优化的地方](https://www.v2ex.com/t/834480)
 - [【开发者头条】esrally-如何进行简单的自定义性能测试？](https://toutiao.io/k/rqjhpjb)
 - [......【查看更多】......](./details/tags/optimization.md)
 
@@ -351,6 +350,7 @@
 
 
 
+- [【V2EX】面试答的可以但是挂了](https://www.v2ex.com/t/834531)
 - [......【查看更多】......](./details/tags/job-interview.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

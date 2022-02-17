@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-17 07:12:37，:rocket: 更新条数: +1921， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-17 07:35:52，:rocket: 更新条数: +1921， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,9 @@
 </summary>
 
 
+- [2022-02-17-面试答的可以但是挂了](https://www.v2ex.com/t/834531) ![](assets/new.png)  
+- [2022-02-17-奇怪-美区-Apple-Id-不能直接登录注册抖音，然而国区-Apple-Id-可以](https://www.v2ex.com/t/834530) ![](assets/new.png)  
+- [2022-02-17-求-rust-学习交流群](https://www.v2ex.com/t/834528) ![](assets/new.png)  
 - [2022-02-17-亿级别的频率控制应该怎么设计](https://www.v2ex.com/t/834527) ![](assets/new.png)  
 - [2022-02-17-各位产品经理如何制作「产品介绍视频」或者「产品介绍动画」的？](https://www.v2ex.com/t/834526) ![](assets/new.png)  
 - [2022-02-17-Log4Shell-你不知道的事](https://www.v2ex.com/t/834525) ![](assets/new.png)  
@@ -508,9 +511,6 @@
 - [2022-02-17-中文/英文-国际电话区号数据集合](https://www.v2ex.com/t/834512) ![](assets/new.png)  
 - [2022-02-17-作为程序员的你，喜欢帮同事-review-代码吗](https://www.v2ex.com/t/834509) ![](assets/new.png)  
 - [2022-02-17-创建了-20-个-Bear-风格的-Typora-主题，欢迎使用](https://www.v2ex.com/t/834508) ![](assets/new.png)  
-- [2022-02-17-蹲一波述职用的-ppt-模板](https://www.v2ex.com/t/834507) ![](assets/new.png)  
-- [2022-02-17-请问如何克服在一个新城市的孤独感？](https://www.v2ex.com/t/834506) ![](assets/new.png)  
-- [2022-02-17-电脑模拟正方体拼凑](https://www.v2ex.com/t/834504) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -570,9 +570,9 @@
 - [2022-02-17-从-0-到-1-开发一个-IntelliJ-IDEA-插件](https://toutiao.io/k/ehszbny) ![](assets/new.png)  
 - [2022-02-17-一文带你理解URI-和-URL-有什么区别？](https://toutiao.io/k/f30zsoj) ![](assets/new.png)  
 - [2022-02-17-Kubernetes核心组件-ETCD详解](https://toutiao.io/k/5rb7726) ![](assets/new.png)  
+- [2022-02-17-推荐-真香啊！接私活必备的-N-个开源项目（附源码合集第一期）！收藏走起！](https://toutiao.io/k/he7umju) ![](assets/new.png)  
+- [2022-02-17-推荐-如何撰写好的技术方案设计-真实案例干货分享](https://toutiao.io/k/0f5fv4t) ![](assets/new.png)  
 - [2022-02-17-推荐-如何撰写好技术方案设计-真实案例干货分享](https://toutiao.io/k/t1d9x3b) ![](assets/new.png)  
-- [2022-02-17-推荐-你分库分表的姿势对么？——详谈水平分库分表](https://toutiao.io/k/eteqw6s) ![](assets/new.png)  
-- [2022-02-17-推荐-轻松搞懂5种IO模型](https://toutiao.io/k/o77uhyt) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

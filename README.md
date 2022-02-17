@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-17 18:14:58，:rocket: 更新条数: +1918， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-17 18:43:05，:rocket: 更新条数: +1919， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-02-17-Apache-上搭建-typecho-开不了地址重写吗？](https://www.v2ex.com/t/834670) ![](assets/new.png)  
+- [2022-02-17-看完了-电影《美国往事》-的感想](https://www.v2ex.com/t/834669) ![](assets/new.png)  
 - [2022-02-17-有习惯关闭「Siri-与搜索」功能的用户吗？](https://www.v2ex.com/t/834668) ![](assets/new.png)  
 - [2022-02-17-基于-github-issue-和-label-的分布式系统职位内推中心](https://www.v2ex.com/t/834667) ![](assets/new.png)  
 - [2022-02-17-有在腾讯-AI-lab-的吗？](https://www.v2ex.com/t/834666) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-02-17-求推荐手环/手表](https://www.v2ex.com/t/834645) ![](assets/new.png)  
 - [2022-02-17-热帖有感，为什么北京被上海完爆呢？](https://www.v2ex.com/t/834644) ![](assets/new.png)  
 - [2022-02-17-有个-laravel-admin-后台的外包。有熟悉这个或者相关的-qq-群吗](https://www.v2ex.com/t/834643) ![](assets/new.png)  
-- [2022-02-17-MBP-睡醒后-safari、app-store-等其他系统软件都不能上网，-chrome-可以](https://www.v2ex.com/t/834642) ![](assets/new.png)  
-- [2022-02-17-给人事套路了](https://www.v2ex.com/t/834641) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -570,9 +570,9 @@
 - [2022-02-17-Kubernetes核心组件-ETCD详解](https://toutiao.io/k/5rb7726) ![](assets/new.png)  
 - [2022-02-17-一文带你理解URI-和-URL-有什么区别？](https://toutiao.io/k/f30zsoj) ![](assets/new.png)  
 - [2022-02-17-技术人聊开源：这并不只是用爱发电](https://toutiao.io/k/pv6e5rs) ![](assets/new.png)  
-- [2022-02-17-推荐-真香啊！接私活必备的-N-个开源项目（附源码合集第一期）！收藏走起！](https://toutiao.io/k/he7umju) ![](assets/new.png)  
-- [2022-02-17-推荐-微服务通信设计模式](https://toutiao.io/k/mp88imm) ![](assets/new.png)  
 - [2022-02-17-推荐-什么人能成为Leader，大Leader该做什么](https://toutiao.io/k/pnlaqae) ![](assets/new.png)  
+- [2022-02-17-推荐-如何撰写好技术方案设计-真实案例干货分享](https://toutiao.io/k/t1d9x3b) ![](assets/new.png)  
+- [2022-02-17-推荐-如何撰写好的技术方案设计-真实案例干货分享](https://toutiao.io/k/0f5fv4t) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

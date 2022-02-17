@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-17 22:12:55，:rocket: 更新条数: +1922， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-17 22:38:21，:rocket: 更新条数: +1922， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -570,9 +570,9 @@
 - [2022-02-17-Kubernetes核心组件-ETCD详解](https://toutiao.io/k/5rb7726) ![](assets/new.png)  
 - [2022-02-17-一文带你理解URI-和-URL-有什么区别？](https://toutiao.io/k/f30zsoj) ![](assets/new.png)  
 - [2022-02-17-技术人聊开源：这并不只是用爱发电](https://toutiao.io/k/pv6e5rs) ![](assets/new.png)  
-- [2022-02-17-推荐-如何撰写好技术方案设计-真实案例干货分享](https://toutiao.io/k/t1d9x3b) ![](assets/new.png)  
-- [2022-02-17-推荐-轻松搞懂5种IO模型](https://toutiao.io/k/o77uhyt) ![](assets/new.png)  
-- [2022-02-17-推荐-什么人能成为Leader，大Leader该做什么](https://toutiao.io/k/pnlaqae) ![](assets/new.png)  
+- [2022-02-17-推荐-Go-原生并发原语和最佳实践](https://toutiao.io/k/rdpao5x) ![](assets/new.png)  
+- [2022-02-17-推荐-作为研发Leader，如何做总结](https://toutiao.io/k/1g7flto) ![](assets/new.png)  
+- [2022-02-17-推荐-微服务通信设计模式](https://toutiao.io/k/mp88imm) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

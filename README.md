@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-17 12:54:42，:rocket: 更新条数: +1919， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-17 13:15:36，:rocket: 更新条数: +1918， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-02-17-现在-Series-S-的市场价都快赶上-PS5-数字版了](https://www.v2ex.com/t/834626) ![](assets/new.png)  
+- [2022-02-17-求助，一直卡在“正在验证已更新的-iPhone-软件”](https://www.v2ex.com/t/834625) ![](assets/new.png)  
 - [2022-02-17-一面-HR-面的情况多吗？](https://www.v2ex.com/t/834624) ![](assets/new.png)  
 - [2022-02-17-字节跳动春季校招内推](https://www.v2ex.com/t/834623) ![](assets/new.png)  
 - [2022-02-17-向-Apple-提意见的用户多了，是不是会被采纳？](https://www.v2ex.com/t/834622) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-02-17-Pcdn-交流](https://www.v2ex.com/t/834605) ![](assets/new.png)  
 - [2022-02-17-laravel-req->all-与$_POST-可能是什么原因](https://www.v2ex.com/t/834603) ![](assets/new.png)  
 - [2022-02-17-上海核定征收改查账征收](https://www.v2ex.com/t/834601) ![](assets/new.png)  
-- [2022-02-17-现在普通用户用迅雷下载基本没速度啊，一开会员立马满速](https://www.v2ex.com/t/834600) ![](assets/new.png)  
-- [2022-02-17-请问一下有朋友或者平台可以进行代购吗](https://www.v2ex.com/t/834599) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -570,9 +570,9 @@
 - [2022-02-17-技术人聊开源：这并不只是用爱发电](https://toutiao.io/k/pv6e5rs) ![](assets/new.png)  
 - [2022-02-17-一文带你理解URI-和-URL-有什么区别？](https://toutiao.io/k/f30zsoj) ![](assets/new.png)  
 - [2022-02-17-Kubernetes核心组件-ETCD详解](https://toutiao.io/k/5rb7726) ![](assets/new.png)  
-- [2022-02-17-推荐-作为研发Leader，如何做总结](https://toutiao.io/k/1g7flto) ![](assets/new.png)  
-- [2022-02-17-推荐-Go-原生并发原语和最佳实践](https://toutiao.io/k/rdpao5x) ![](assets/new.png)  
-- [2022-02-17-推荐-你分库分表的姿势对么？——详谈水平分库分表](https://toutiao.io/k/eteqw6s) ![](assets/new.png)  
+- [2022-02-17-推荐-神器-Nginx-的学习手册-建议收藏-](https://toutiao.io/k/6f1qaso) ![](assets/new.png)  
+- [2022-02-17-推荐-微服务通信设计模式](https://toutiao.io/k/mp88imm) ![](assets/new.png)  
+- [2022-02-17-推荐-如何撰写好技术方案设计-真实案例干货分享](https://toutiao.io/k/t1d9x3b) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

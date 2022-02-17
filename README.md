@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-17 01:51:58，:rocket: 更新条数: +1892， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-17 02:03:19，:rocket: 更新条数: +1903， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,10 @@
 </summary>
 
 
+- [2022-02-17-有什么好用的离线下载项目？](https://www.v2ex.com/t/834417) ![](assets/new.png)  
+- [2022-02-17-大部分公司的产品经理是不是都是不太聪明的脑子，瞎搞胡搞的德行？](https://www.v2ex.com/t/834415) ![](assets/new.png)  
+- [2022-02-17-spring-自定义配置文件多环境切换](https://www.v2ex.com/t/834414) ![](assets/new.png)  
+- [2022-02-17-腾讯云-2022-年新春采购活动，-224-轻量-18-元/1-年起，云服务器续费-2-折起](https://www.v2ex.com/t/834413) ![](assets/new.png)  
 - [2022-02-17-深圳Amber-Group-后端开发工程师（-Python-/Go/Node.js/-Java-等-20k-40k·18-薪](https://www.v2ex.com/t/834412) ![](assets/new.png)  
 - [2022-02-17-2.22-号出差合肥,第一次出差没经验.](https://www.v2ex.com/t/834411) ![](assets/new.png)  
 - [2022-02-17-北京-国内一线量化基金公司-寻求一名-高级开发运维工程师/Senior-DevOps-Eng-Requirement-Key-Words：-Python-,-shell,-Ansible,-CI/CD,-告警系统，容灾系...](https://www.v2ex.com/t/834410) ![](assets/new.png)  
@@ -507,10 +511,6 @@
 - [2022-02-16-北京电信上行最高多少？](https://www.v2ex.com/t/834389) ![](assets/new.png)  
 - [2022-02-16-我是如何从哑巴英语到无障碍英文工作沟通的](https://www.v2ex.com/t/834388) ![](assets/new.png)  
 - [2022-02-16-tailscale-节点作为网关有同学玩过吗?](https://www.v2ex.com/t/834387) ![](assets/new.png)  
-- [2022-02-16-m1-mba-购买三周-电池循环-17-次-最大容量掉到了-98%正常吗？](https://www.v2ex.com/t/834385) ![](assets/new.png)  
-- [2022-02-16-厨刀，需要分生熟吗？](https://www.v2ex.com/t/834384) ![](assets/new.png)  
-- [2022-02-16-最近开始喜欢走有线连接的东西了](https://www.v2ex.com/t/834383) ![](assets/new.png)  
-- [2022-02-16-阿里小号啥时候放号啊？](https://www.v2ex.com/t/834382) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -558,15 +558,21 @@
 - [2022-02-17-基于.NET-制作一个气象站-IoT-应用](https://toutiao.io/k/8ajh0b4) ![](assets/new.png)  
 - [2022-02-17-做好用户标签体系建设，打好精细化运营的底层根基](https://toutiao.io/k/4zaxevz) ![](assets/new.png)  
 - [2022-02-17-中大型犬护肘衣，点击链接立即购买！](https://toutiao.io/k/s3rthzk) ![](assets/new.png)  
-- [2022-02-17-推荐-如何撰写好技术方案设计-真实案例干货分享](https://toutiao.io/k/t1d9x3b) ![](assets/new.png)  
-- [2022-02-17-推荐-真香啊！接私活必备的-N-个开源项目（附源码合集第一期）！收藏走起！](https://toutiao.io/k/he7umju) ![](assets/new.png)  
-- [2022-02-17-推荐-神器-Nginx-的学习手册-建议收藏-](https://toutiao.io/k/6f1qaso) ![](assets/new.png)  
-- [2022-02-17-推荐-支付系统架构设计详解](https://toutiao.io/k/5tx1zgw) ![](assets/new.png)  
-- [2022-02-17-推荐-Go-原生并发原语和最佳实践](https://toutiao.io/k/rdpao5x) ![](assets/new.png)  
-- [2022-02-17-推荐-如何撰写好的技术方案设计-真实案例干货分享](https://toutiao.io/k/0f5fv4t) ![](assets/new.png)  
-- [2022-02-17-推荐-你分库分表的姿势对么？——详谈水平分库分表](https://toutiao.io/k/eteqw6s) ![](assets/new.png)  
-- [2022-02-17-推荐-轻松搞懂5种IO模型](https://toutiao.io/k/o77uhyt) ![](assets/new.png)  
+- [2022-02-17-复盘一次线上OOM和性能优化](https://toutiao.io/k/qmpil8o) ![](assets/new.png)  
+- [2022-02-17-12-个-Vue-开发中的性能优化小技巧](https://toutiao.io/k/smj29br) ![](assets/new.png)  
+- [2022-02-17-携程开启“混合办公”模式，来听听豚厂人怎么说](https://toutiao.io/k/3hs2e41) ![](assets/new.png)  
+- [2022-02-17-先写代码再出API文档？你已经落伍了！](https://toutiao.io/k/56lr8du) ![](assets/new.png)  
+- [2022-02-17-除了两大“鼻祖”之外，银河恶魔城游戏还有哪些值得我们深挖的地方？](https://toutiao.io/k/uu6ko4b) ![](assets/new.png)  
+- [2022-02-17-大型AI已有自主意识了？LeCun开喷Open-AI首席科学家](https://toutiao.io/k/ws6uy58) ![](assets/new.png)  
+- [2022-02-17-Linux-内核源码如何学习？](https://toutiao.io/k/x7ixror) ![](assets/new.png)  
+- [2022-02-17-esrally-如何进行简单的自定义性能测试？](https://toutiao.io/k/rqjhpjb) ![](assets/new.png)  
+- [2022-02-17-技术人聊开源：这并不只是用爱发电](https://toutiao.io/k/pv6e5rs) ![](assets/new.png)  
 - [2022-02-17-推荐-作为研发Leader，如何做总结](https://toutiao.io/k/1g7flto) ![](assets/new.png)  
+- [2022-02-17-推荐-如何撰写好技术方案设计-真实案例干货分享](https://toutiao.io/k/t1d9x3b) ![](assets/new.png)  
+- [2022-02-17-推荐-轻松搞懂5种IO模型](https://toutiao.io/k/o77uhyt) ![](assets/new.png)  
+- [2022-02-17-推荐-真香啊！接私活必备的-N-个开源项目（附源码合集第一期）！收藏走起！](https://toutiao.io/k/he7umju) ![](assets/new.png)  
+- [2022-02-17-推荐-你分库分表的姿势对么？——详谈水平分库分表](https://toutiao.io/k/eteqw6s) ![](assets/new.png)  
+- [2022-02-17-推荐-Go-原生并发原语和最佳实践](https://toutiao.io/k/rdpao5x) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

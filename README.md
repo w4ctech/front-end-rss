@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-17 09:37:44，:rocket: 更新条数: +1914， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-17 10:13:57，:rocket: 更新条数: +1915， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,13 @@
 </summary>
 
 
+- [2022-02-17-录了一篇和陈述-IT-培训产业和培训者本身相关的视频，求点意见。](https://www.v2ex.com/t/834589) ![](assets/new.png)  
+- [2022-02-17-一款-OCR-识别，多达-80-种语言的小程序](https://www.v2ex.com/t/834588) ![](assets/new.png)  
+- [2022-02-17-Kindle-同步书失败](https://www.v2ex.com/t/834587) ![](assets/new.png)  
+- [2022-02-17-Spring-源码有啥学习资料啊，要吐了。。。](https://www.v2ex.com/t/834586) ![](assets/new.png)  
+- [2022-02-17-上海韵达快递倒闭了?](https://www.v2ex.com/t/834584) ![](assets/new.png)  
+- [2022-02-17-Apple-store-可以免费换键帽么](https://www.v2ex.com/t/834583) ![](assets/new.png)  
+- [2022-02-17-全职远程-25-35k/去中心化金融（DeFi）招聘后端程序员](https://www.v2ex.com/t/834582) ![](assets/new.png)  
 - [2022-02-17-Marin-Software-招资深-IT-基础设施网络管理工程师，大数据开发Spark,-Scala，自动化测试-Java-](https://www.v2ex.com/t/834581) ![](assets/new.png)  
 - [2022-02-17-为什么这段-CSS-的-first-of-type-不起作用？](https://www.v2ex.com/t/834580) ![](assets/new.png)  
 - [2022-02-17-像这种微信机器人是有开源项目自己部署的吗?](https://www.v2ex.com/t/834579) ![](assets/new.png)  
@@ -504,13 +511,6 @@
 - [2022-02-17-有朋友知道为啥在-Docker-in-Docker-中的-services-设置了-command:-"--insecure-registry=registry.test:5000"-仍旧无效吗？](https://www.v2ex.com/t/834570) ![](assets/new.png)  
 - [2022-02-17-想想跑着跑着跑着-Android-的-Windows-的-Android-的-Windows-的-Android，有一点小激动呢](https://www.v2ex.com/t/834567) ![](assets/new.png)  
 - [2022-02-17-开源-代码托管仓库——CodeFever-Community](https://www.v2ex.com/t/834562) ![](assets/new.png)  
-- [2022-02-17-Linux-下的进程监控](https://www.v2ex.com/t/834561) ![](assets/new.png)  
-- [2022-02-17-分享我的独立开发日记-开源](https://www.v2ex.com/t/834560) ![](assets/new.png)  
-- [2022-02-17-33-岁了，想找个月薪-35k-左右的工作](https://www.v2ex.com/t/834559) ![](assets/new.png)  
-- [2022-02-17-有哪些-HackerNews-衍生网站](https://www.v2ex.com/t/834558) ![](assets/new.png)  
-- [2022-02-17-写字楼企业专线](https://www.v2ex.com/t/834557) ![](assets/new.png)  
-- [2022-02-17-发现在淘宝搜“蓝牙适配器”除了前几个广告，剩下的都是蓝牙耳机](https://www.v2ex.com/t/834556) ![](assets/new.png)  
-- [2022-02-17-腾讯云新春采购节,2-核-2g4m-轻量云-3-年-200,轻量云挂载云盘-1tb-3-年-低至-60](https://www.v2ex.com/t/834554) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -570,9 +570,9 @@
 - [2022-02-17-Debezium-1.9.0.Alpha2-正式发布](https://toutiao.io/k/wuq0s4i) ![](assets/new.png)  
 - [2022-02-17-一文带你理解URI-和-URL-有什么区别？](https://toutiao.io/k/f30zsoj) ![](assets/new.png)  
 - [2022-02-17-Kubernetes核心组件-ETCD详解](https://toutiao.io/k/5rb7726) ![](assets/new.png)  
-- [2022-02-17-推荐-Go-原生并发原语和最佳实践](https://toutiao.io/k/rdpao5x) ![](assets/new.png)  
-- [2022-02-17-推荐-真香啊！接私活必备的-N-个开源项目（附源码合集第一期）！收藏走起！](https://toutiao.io/k/he7umju) ![](assets/new.png)  
-- [2022-02-17-推荐-作为研发Leader，如何做总结](https://toutiao.io/k/1g7flto) ![](assets/new.png)  
+- [2022-02-17-推荐-微服务通信设计模式](https://toutiao.io/k/mp88imm) ![](assets/new.png)  
+- [2022-02-17-推荐-支付系统架构设计详解](https://toutiao.io/k/5tx1zgw) ![](assets/new.png)  
+- [2022-02-17-推荐-神器-Nginx-的学习手册-建议收藏-](https://toutiao.io/k/6f1qaso) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

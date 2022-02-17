@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-02-17 09:37:44。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-17 10:13:57。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -123,6 +123,7 @@
 
 
 
+- [【V2EX】一款-OCR-识别，多达-80-种语言的小程序](https://www.v2ex.com/t/834588)
 - [【V2EX】小程序-URL-Scheme-一键直达页面被禁用的解决](https://www.v2ex.com/t/834574)
 - [【V2EX】微信小程序实现热更新](https://www.v2ex.com/t/834551)
 - [......【查看更多】......](./details/tags/miniprogram.md)
@@ -242,6 +243,7 @@
 
 - [【武汉肺炎防疫全纪录(财新网)】广州17岁男生在定点医院参加高考-特殊考场视频监考](https://m.caixin.com/m/2021-06-05/101723418.html)
 - [【武汉肺炎防疫全纪录(财新网)】林郑月娥率13高官直播接种科兴疫苗-复星疫苗预计周中到港](https://m.caixin.com/m/2021-02-22/101665724.html)
+- [【V2EX】录了一篇和陈述-IT-培训产业和培训者本身相关的视频，求点意见。](https://www.v2ex.com/t/834589)
 - [......【查看更多】......](./details/tags/audio-video.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -350,6 +352,7 @@
 
 
 
+- [【V2EX】全职远程-25-35k/去中心化金融（DeFi）招聘后端程序员](https://www.v2ex.com/t/834582)
 - [【V2EX】上海/北京/杭州抖音电商-抖音极速版电商&抖音盒子-招聘前端工程师-25k---50k-*-15-薪](https://www.v2ex.com/t/834575)
 - [【V2EX】深圳-腾讯投资研发团队招聘--Java-高级研发工程师](https://www.v2ex.com/t/834547)
 - [......【查看更多】......](./details/tags/job-interview.md)

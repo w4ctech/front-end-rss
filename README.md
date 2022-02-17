@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-17 08:40:35，:rocket: 更新条数: +1918， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-17 09:13:01，:rocket: 更新条数: +1917， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,13 @@
 </summary>
 
 
+- [2022-02-17-开源-代码托管仓库——CodeFever-Community](https://www.v2ex.com/t/834562) ![](assets/new.png)  
+- [2022-02-17-Linux-下的进程监控](https://www.v2ex.com/t/834561) ![](assets/new.png)  
+- [2022-02-17-分享我的独立开发日记-开源](https://www.v2ex.com/t/834560) ![](assets/new.png)  
+- [2022-02-17-33-岁了，想找个月薪-35k-左右的工作](https://www.v2ex.com/t/834559) ![](assets/new.png)  
+- [2022-02-17-有哪些-HackerNews-衍生网站](https://www.v2ex.com/t/834558) ![](assets/new.png)  
+- [2022-02-17-写字楼企业专线](https://www.v2ex.com/t/834557) ![](assets/new.png)  
+- [2022-02-17-发现在淘宝搜“蓝牙适配器”除了前几个广告，剩下的都是蓝牙耳机](https://www.v2ex.com/t/834556) ![](assets/new.png)  
 - [2022-02-17-腾讯云新春采购节,2-核-2g4m-轻量云-3-年-200,轻量云挂载云盘-1tb-3-年-低至-60](https://www.v2ex.com/t/834554) ![](assets/new.png)  
 - [2022-02-17-关于合作的产品经理拿了优秀员工奖这件事](https://www.v2ex.com/t/834552) ![](assets/new.png)  
 - [2022-02-17-微信小程序实现热更新](https://www.v2ex.com/t/834551) ![](assets/new.png)  
@@ -504,13 +511,6 @@
 - [2022-02-17-webpack-关于依赖提取的-build-差异](https://www.v2ex.com/t/834542) ![](assets/new.png)  
 - [2022-02-17-技术面过了，然后-HR-说-HC-不够了，问接不接受外包](https://www.v2ex.com/t/834541) ![](assets/new.png)  
 - [2022-02-17-安卓平板目前什么情况?-值得入手给老人家刷剧吗?](https://www.v2ex.com/t/834540) ![](assets/new.png)  
-- [2022-02-17-有必要等秋天的-m2-iPad-pro-么？](https://www.v2ex.com/t/834539) ![](assets/new.png)  
-- [2022-02-17-请问下我是否降权了，为什么刚发的-topic-没有显示出来](https://www.v2ex.com/t/834537) ![](assets/new.png)  
-- [2022-02-17-Youtube-premium-两次退出家庭组就没别的方法再上车了吗？](https://www.v2ex.com/t/834536) ![](assets/new.png)  
-- [2022-02-17-妈妈开了实体鲜花店，该怎么做网店？（请大佬们指点）](https://www.v2ex.com/t/834534) ![](assets/new.png)  
-- [2022-02-17-老哥们，这样的条件能找到一份实习么](https://www.v2ex.com/t/834533) ![](assets/new.png)  
-- [2022-02-17-面试答的可以但是挂了](https://www.v2ex.com/t/834531) ![](assets/new.png)  
-- [2022-02-17-奇怪-美区-Apple-Id-不能直接登录注册抖音，然而国区-Apple-Id-可以](https://www.v2ex.com/t/834530) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -522,6 +522,7 @@
 </summary>
 
 
+- [2022-02-17-性能工程之性能规划实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14944&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fperformance-testing-planning%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-02-17-从实际项目出发，告诉你vue3到底香不香-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14943&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493377%26amp%3Bidx%3D2%26amp%3Bsn%3D38dcff122477793c2bfa2353abca7ecc%26amp%3Bchksm%3Dfa3f065acd488f4c47984479b5068b79976b72e2284221362b1746315de5f6c4e4d9a25a17d5%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-02-17-推荐几款好用的文本编辑器-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14942&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493346%26amp%3Bidx%3D1%26amp%3Bsn%3D0ef808a629a358b59a32154a8dec322e%26amp%3Bchksm%3Dfa3f07b9cd488eaf74721223621f30a5592e3f3bad32c95c27cd69dffa9ca188fcdf1cba51f0%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-02-17-免费！快速上手R语言，这本书一定要看！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14941&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493346%26amp%3Bidx%3D2%26amp%3Bsn%3Df7cf33db4f64e063e501c916e5625c62%26amp%3Bchksm%3Dfa3f07b9cd488eaf5ae3cb27bb5121d968aa0a602e069c8854a5c764fc8b4a85ad273d928585%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
@@ -541,7 +542,6 @@
 - [2022-02-17-Puppeteer-使用分享及注意事项-forum.lovejade.cn](https://blogread.cn/news/go.php?idItem=14927&url=https%3A%2F%2Fforum.lovejade.cn%2Fd%2F145-puppeteer%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-02-17-优质网站同好者周刊（第-51-期）--倾城之链-blog.nicelinks.site](https://blogread.cn/news/go.php?idItem=14926&url=https%3A%2F%2Fblog.nicelinks.site%2Fweekly-051%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-02-17-frm和ibd文件数据库恢复-www.xifenfei.com](https://blogread.cn/news/go.php?idItem=14925&url=https%3A%2F%2Fwww.xifenfei.com%2F2021%2F12%2Ffrm-ibm-recovery.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-02-17-流体系统-blog.codingnow.com](https://blogread.cn/news/go.php?idItem=14924&url=https%3A%2F%2Fblog.codingnow.com%2F2022%2F01%2Ffluid_system.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -556,8 +556,8 @@
 - [2022-02-17-趣谈IO多路复用的本质](https://toutiao.io/k/j4nqhbc) ![](assets/new.png)  
 - [2022-02-17-MQTT、CoAP-还是-LwM2M？主流物联网协议如何选择](https://toutiao.io/k/10rarjx) ![](assets/new.png)  
 - [2022-02-17-12-个-Vue-开发中的性能优化小技巧](https://toutiao.io/k/smj29br) ![](assets/new.png)  
-- [2022-02-17-基于.NET-制作一个气象站-IoT-应用](https://toutiao.io/k/8ajh0b4) ![](assets/new.png)  
 - [2022-02-17-携程开启“混合办公”模式，来听听豚厂人怎么说](https://toutiao.io/k/3hs2e41) ![](assets/new.png)  
+- [2022-02-17-基于.NET-制作一个气象站-IoT-应用](https://toutiao.io/k/8ajh0b4) ![](assets/new.png)  
 - [2022-02-17-做好用户标签体系建设，打好精细化运营的底层根基](https://toutiao.io/k/4zaxevz) ![](assets/new.png)  
 - [2022-02-17-大型AI已有自主意识了？LeCun开喷Open-AI首席科学家](https://toutiao.io/k/ws6uy58) ![](assets/new.png)  
 - [2022-02-17-2022-年别再焦虑啦！加入我们！](https://toutiao.io/k/9f0514g) ![](assets/new.png)  
@@ -570,9 +570,9 @@
 - [2022-02-17-从-0-到-1-开发一个-IntelliJ-IDEA-插件](https://toutiao.io/k/ehszbny) ![](assets/new.png)  
 - [2022-02-17-一文带你理解URI-和-URL-有什么区别？](https://toutiao.io/k/f30zsoj) ![](assets/new.png)  
 - [2022-02-17-Kubernetes核心组件-ETCD详解](https://toutiao.io/k/5rb7726) ![](assets/new.png)  
-- [2022-02-17-推荐-支付系统架构设计详解](https://toutiao.io/k/5tx1zgw) ![](assets/new.png)  
-- [2022-02-17-推荐-真香啊！接私活必备的-N-个开源项目（附源码合集第一期）！收藏走起！](https://toutiao.io/k/he7umju) ![](assets/new.png)  
-- [2022-02-17-推荐-轻松搞懂5种IO模型](https://toutiao.io/k/o77uhyt) ![](assets/new.png)  
+- [2022-02-17-推荐-如何撰写好技术方案设计-真实案例干货分享](https://toutiao.io/k/t1d9x3b) ![](assets/new.png)  
+- [2022-02-17-推荐-Go-原生并发原语和最佳实践](https://toutiao.io/k/rdpao5x) ![](assets/new.png)  
+- [2022-02-17-推荐-神器-Nginx-的学习手册-建议收藏-](https://toutiao.io/k/6f1qaso) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

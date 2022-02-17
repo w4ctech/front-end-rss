@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-17 14:36:46，:rocket: 更新条数: +1920， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-17 15:13:24，:rocket: 更新条数: +1917， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-02-17-想问问数据平台方向有前景吗](https://www.v2ex.com/t/834652) ![](assets/new.png)  
+- [2022-02-17-腾讯云按量计费资源不支持设置欠费限额](https://www.v2ex.com/t/834651) ![](assets/new.png)  
 - [2022-02-17-求推荐手环/手表](https://www.v2ex.com/t/834645) ![](assets/new.png)  
 - [2022-02-17-热帖有感，为什么北京被上海完爆呢？](https://www.v2ex.com/t/834644) ![](assets/new.png)  
 - [2022-02-17-有个-laravel-admin-后台的外包。有熟悉这个或者相关的-qq-群吗](https://www.v2ex.com/t/834643) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-02-17-现在-Series-S-的市场价都快赶上-PS5-数字版了](https://www.v2ex.com/t/834626) ![](assets/new.png)  
 - [2022-02-17-求助，一直卡在“正在验证已更新的-iPhone-软件”](https://www.v2ex.com/t/834625) ![](assets/new.png)  
 - [2022-02-17-一面-HR-面的情况多吗？](https://www.v2ex.com/t/834624) ![](assets/new.png)  
-- [2022-02-17-字节跳动春季校招内推](https://www.v2ex.com/t/834623) ![](assets/new.png)  
-- [2022-02-17-向-Apple-提意见的用户多了，是不是会被采纳？](https://www.v2ex.com/t/834622) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -558,21 +558,21 @@
 - [2022-02-17-12-个-Vue-开发中的性能优化小技巧](https://toutiao.io/k/smj29br) ![](assets/new.png)  
 - [2022-02-17-携程开启“混合办公”模式，来听听豚厂人怎么说](https://toutiao.io/k/3hs2e41) ![](assets/new.png)  
 - [2022-02-17-基于.NET-制作一个气象站-IoT-应用](https://toutiao.io/k/8ajh0b4) ![](assets/new.png)  
+- [2022-02-17-从-0-到-1-开发一个-IntelliJ-IDEA-插件](https://toutiao.io/k/ehszbny) ![](assets/new.png)  
 - [2022-02-17-大型AI已有自主意识了？LeCun开喷Open-AI首席科学家](https://toutiao.io/k/ws6uy58) ![](assets/new.png)  
 - [2022-02-17-做好用户标签体系建设，打好精细化运营的底层根基](https://toutiao.io/k/4zaxevz) ![](assets/new.png)  
-- [2022-02-17-从-0-到-1-开发一个-IntelliJ-IDEA-插件](https://toutiao.io/k/ehszbny) ![](assets/new.png)  
 - [2022-02-17-2022-年别再焦虑啦！加入我们！](https://toutiao.io/k/9f0514g) ![](assets/new.png)  
 - [2022-02-17-除了两大“鼻祖”之外，银河恶魔城游戏还有哪些值得我们深挖的地方？](https://toutiao.io/k/uu6ko4b) ![](assets/new.png)  
 - [2022-02-17-esrally-如何进行简单的自定义性能测试？](https://toutiao.io/k/rqjhpjb) ![](assets/new.png)  
-- [2022-02-17-Debezium-1.9.0.Alpha2-正式发布](https://toutiao.io/k/wuq0s4i) ![](assets/new.png)  
 - [2022-02-17-Linux-内核源码如何学习？](https://toutiao.io/k/x7ixror) ![](assets/new.png)  
+- [2022-02-17-Debezium-1.9.0.Alpha2-正式发布](https://toutiao.io/k/wuq0s4i) ![](assets/new.png)  
 - [2022-02-17-中大型犬护肘衣，点击链接立即购买！](https://toutiao.io/k/s3rthzk) ![](assets/new.png)  
+- [2022-02-17-Kubernetes核心组件-ETCD详解](https://toutiao.io/k/5rb7726) ![](assets/new.png)  
 - [2022-02-17-技术人聊开源：这并不只是用爱发电](https://toutiao.io/k/pv6e5rs) ![](assets/new.png)  
 - [2022-02-17-一文带你理解URI-和-URL-有什么区别？](https://toutiao.io/k/f30zsoj) ![](assets/new.png)  
-- [2022-02-17-Kubernetes核心组件-ETCD详解](https://toutiao.io/k/5rb7726) ![](assets/new.png)  
-- [2022-02-17-推荐-Go-原生并发原语和最佳实践](https://toutiao.io/k/rdpao5x) ![](assets/new.png)  
-- [2022-02-17-推荐-作为研发Leader，如何做总结](https://toutiao.io/k/1g7flto) ![](assets/new.png)  
-- [2022-02-17-推荐-你分库分表的姿势对么？——详谈水平分库分表](https://toutiao.io/k/eteqw6s) ![](assets/new.png)  
+- [2022-02-17-推荐-支付系统架构设计详解](https://toutiao.io/k/5tx1zgw) ![](assets/new.png)  
+- [2022-02-17-推荐-轻松搞懂5种IO模型](https://toutiao.io/k/o77uhyt) ![](assets/new.png)  
+- [2022-02-17-推荐-真香啊！接私活必备的-N-个开源项目（附源码合集第一期）！收藏走起！](https://toutiao.io/k/he7umju) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-02-17 13:37:05。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-17 14:12:24。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -122,7 +122,6 @@
 
 
 
-- [【V2EX】一款-OCR-识别，多达-80-种语言的小程序](https://www.v2ex.com/t/834588)
 - [......【查看更多】......](./details/tags/miniprogram.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -349,9 +348,9 @@
 
 
 
+- [【V2EX】上海-|-传音移动互联-|-招聘-容器开发-|-go&k8s-|-16-薪](https://www.v2ex.com/t/834636)
 - [【V2EX】三国杀招聘还这态度？早日凉凉](https://www.v2ex.com/t/834616)
 - [【V2EX】郑州-招聘运维主管（带-10-人团队），-15K*16-薪，还有、产品经理、-PHP-、-Java-等](https://www.v2ex.com/t/834593)
-- [【V2EX】全职远程-25-35k/去中心化金融（DeFi）招聘后端程序员](https://www.v2ex.com/t/834582)
 - [......【查看更多】......](./details/tags/job-interview.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

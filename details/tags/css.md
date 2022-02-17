@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-02-17 09:13:01。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-17 09:37:44。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## CSS
 
@@ -11,4 +11,4 @@
 - [2022-01-31-CSS-background背景图标的变色技巧](https://www.zhangxinxu.com/wordpress/2022/01/css-background-image-color/) 
 - [2022-01-14-纯CSS实现未读消息超过100自动显示为99+](https://www.zhangxinxu.com/wordpress/2022/01/css-show-diff-content-according-var/) 
 - [2021-12-13-你不知道的CSS-media查询与用户体验](https://www.zhangxinxu.com/wordpress/2021/12/css-meida-user-experience/) 
-- [2022-02-17-各位产品经理如何制作「产品介绍视频」或者「产品介绍动画」的？](https://www.v2ex.com/t/834526) 
+- [2022-02-17-为什么这段-CSS-的-first-of-type-不起作用？](https://www.v2ex.com/t/834580) 

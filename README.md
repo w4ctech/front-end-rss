@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-17 03:39:27，:rocket: 更新条数: +1908， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-17 04:15:27，:rocket: 更新条数: +1907， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,12 @@
 </summary>
 
 
+- [2022-02-17-请问现在有不让使用框架的团队或者企业嘛](https://www.v2ex.com/t/834462) ![](assets/new.png)  
+- [2022-02-17-trivial，-tri-词根意思是三-，单词意思为何是：琐碎平凡微不足道？哪里可以查到单词的词源呢？](https://www.v2ex.com/t/834460) ![](assets/new.png)  
+- [2022-02-17-DMIT-的洛杉矶-gg-了](https://www.v2ex.com/t/834457) ![](assets/new.png)  
+- [2022-02-17-纯技术讨论-关于-go.mod-咨询](https://www.v2ex.com/t/834456) ![](assets/new.png)  
+- [2022-02-17-截图管理小技巧](https://www.v2ex.com/t/834455) ![](assets/new.png)  
+- [2022-02-17-由（po）于-XShell-免费版开始弹窗，求一个替代品](https://www.v2ex.com/t/834454) ![](assets/new.png)  
 - [2022-02-17-Dune:-Spice-Wars](https://www.v2ex.com/t/834453) ![](assets/new.png)  
 - [2022-02-17-通过-dockfile-来-build-镜像时失败产生的文件怎么查看](https://www.v2ex.com/t/834452) ![](assets/new.png)  
 - [2022-02-17-V2EX-底部的“感谢”入口](https://www.v2ex.com/t/834451) ![](assets/new.png)  
@@ -505,12 +511,6 @@
 - [2022-02-17-github-基于别的库开发，是否需要保留-fork](https://www.v2ex.com/t/834440) ![](assets/new.png)  
 - [2022-02-17-nftable-下-怎么把流量从-br-lan-接口转发到-wg0-接口-?](https://www.v2ex.com/t/834439) ![](assets/new.png)  
 - [2022-02-17-用-Migration-Assistant-把旧-MacBook-上的所有东西-transfer-到新的-M1-上，之后。。。](https://www.v2ex.com/t/834438) ![](assets/new.png)  
-- [2022-02-17-求租迫于月底到成都工作，锦江区求租一个独卫单间](https://www.v2ex.com/t/834437) ![](assets/new.png)  
-- [2022-02-17-openwrt-ipv6-问题。](https://www.v2ex.com/t/834436) ![](assets/new.png)  
-- [2022-02-17-resso，设计一个最简单的-React-状态管理器](https://www.v2ex.com/t/834435) ![](assets/new.png)  
-- [2022-02-17-转租城西银泰附近-水月街东方福邸](https://www.v2ex.com/t/834434) ![](assets/new.png)  
-- [2022-02-17-求职-1.5-年的菜鸟求一份远程](https://www.v2ex.com/t/834433) ![](assets/new.png)  
-- [2022-02-17-鉴于向日葵爆远程执行漏洞](https://www.v2ex.com/t/834432) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -562,17 +562,17 @@
 - [2022-02-17-2022-年别再焦虑啦！加入我们！](https://toutiao.io/k/9f0514g) ![](assets/new.png)  
 - [2022-02-17-除了两大“鼻祖”之外，银河恶魔城游戏还有哪些值得我们深挖的地方？](https://toutiao.io/k/uu6ko4b) ![](assets/new.png)  
 - [2022-02-17-携程开启“混合办公”模式，来听听豚厂人怎么说](https://toutiao.io/k/3hs2e41) ![](assets/new.png)  
+- [2022-02-17-12-个-Vue-开发中的性能优化小技巧](https://toutiao.io/k/smj29br) ![](assets/new.png)  
 - [2022-02-17-技术人聊开源：这并不只是用爱发电](https://toutiao.io/k/pv6e5rs) ![](assets/new.png)  
 - [2022-02-17-esrally-如何进行简单的自定义性能测试？](https://toutiao.io/k/rqjhpjb) ![](assets/new.png)  
 - [2022-02-17-Linux-内核源码如何学习？](https://toutiao.io/k/x7ixror) ![](assets/new.png)  
-- [2022-02-17-12-个-Vue-开发中的性能优化小技巧](https://toutiao.io/k/smj29br) ![](assets/new.png)  
 - [2022-02-17-推荐-轻松搞懂5种IO模型](https://toutiao.io/k/o77uhyt) ![](assets/new.png)  
-- [2022-02-17-推荐-作为研发Leader，如何做总结](https://toutiao.io/k/1g7flto) ![](assets/new.png)  
-- [2022-02-17-推荐-你分库分表的姿势对么？——详谈水平分库分表](https://toutiao.io/k/eteqw6s) ![](assets/new.png)  
 - [2022-02-17-推荐-神器-Nginx-的学习手册-建议收藏-](https://toutiao.io/k/6f1qaso) ![](assets/new.png)  
-- [2022-02-17-推荐-微服务通信设计模式](https://toutiao.io/k/mp88imm) ![](assets/new.png)  
 - [2022-02-17-推荐-支付系统架构设计详解](https://toutiao.io/k/5tx1zgw) ![](assets/new.png)  
+- [2022-02-17-推荐-真香啊！接私活必备的-N-个开源项目（附源码合集第一期）！收藏走起！](https://toutiao.io/k/he7umju) ![](assets/new.png)  
 - [2022-02-17-推荐-如何撰写好技术方案设计-真实案例干货分享](https://toutiao.io/k/t1d9x3b) ![](assets/new.png)  
+- [2022-02-17-推荐-Go-原生并发原语和最佳实践](https://toutiao.io/k/rdpao5x) ![](assets/new.png)  
+- [2022-02-17-推荐-作为研发Leader，如何做总结](https://toutiao.io/k/1g7flto) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

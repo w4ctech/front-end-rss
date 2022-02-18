@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-18 22:38:32，:rocket: 更新条数: +1924， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-18 23:03:04，:rocket: 更新条数: +1924， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -572,7 +572,7 @@
 - [2022-02-18-深入解析-Flink-细粒度资源管理](https://toutiao.io/k/cz0eafy) ![](assets/new.png)  
 - [2022-02-18-独立开发变现周刊（第42期）：将爱好变成一个能赚钱的副业产品](https://toutiao.io/k/a7ojj74) ![](assets/new.png)  
 - [2022-02-18-八一八Windows-Docker有趣的故事](https://toutiao.io/k/nqvgp6w) ![](assets/new.png)  
-- [2022-02-18-推荐-微服务通信设计模式](https://toutiao.io/k/mp88imm) ![](assets/new.png)  
+- [2022-02-18-推荐-如何撰写好的技术方案设计-真实案例干货分享](https://toutiao.io/k/0f5fv4t) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

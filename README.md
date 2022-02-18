@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-18 08:40:30，:rocket: 更新条数: +1931， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-18 09:13:28，:rocket: 更新条数: +1929， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,18 @@
 </summary>
 
 
+- [2022-02-18-招聘开发、运维、安全、相关管理人才，我赚积分换冰墩墩](https://www.v2ex.com/t/834855) ![](assets/new.png)  
+- [2022-02-18-有活跃点的-AI-技术论坛或社区推荐吗？](https://www.v2ex.com/t/834853) ![](assets/new.png)  
+- [2022-02-18-深圳-内推一轮我面试平安产险招聘-NLP、机器学习、深度学习（图像也可）算法-40W-100W，附带招两名后端开发](https://www.v2ex.com/t/834852) ![](assets/new.png)  
+- [2022-02-18-Redmi-Note-11-4G-6GB+128GB-给老妈用能用上-2-年不是非常卡么](https://www.v2ex.com/t/834851) ![](assets/new.png)  
+- [2022-02-18-看到那个『年薪百万和年入百万』帖子有感。](https://www.v2ex.com/t/834850) ![](assets/new.png)  
+- [2022-02-18-手机和电脑之间能同步当前打开的浏览器标签页吗？](https://www.v2ex.com/t/834849) ![](assets/new.png)  
+- [2022-02-18-大龄程序员还刷-leetcode-么？](https://www.v2ex.com/t/834848) ![](assets/new.png)  
+- [2022-02-18-C++外资/中资_量化交易公司_薪资福利工作时间都是国内顶尖_渴求技术高手](https://www.v2ex.com/t/834847) ![](assets/new.png)  
+- [2022-02-18-在生活，职场，感情中，被冤枉你都会怎么处理？](https://www.v2ex.com/t/834846) ![](assets/new.png)  
+- [2022-02-18-热点里面刷到一个香港-ISP-的-2.5G-上下行的宽带好羡慕哦](https://www.v2ex.com/t/834845) ![](assets/new.png)  
+- [2022-02-18-杭州内推阿里巴巴-钉钉-基础平台-IM&组织关系-23-届实习生](https://www.v2ex.com/t/834844) ![](assets/new.png)  
+- [2022-02-18-PS-on-mac-m1](https://www.v2ex.com/t/834839) ![](assets/new.png)  
 - [2022-02-18-有遇到过-Safari-浏览器填充密码后总会卡死一会的问题吗?](https://www.v2ex.com/t/834838) ![](assets/new.png)  
 - [2022-02-18-关于键盘选择](https://www.v2ex.com/t/834837) ![](assets/new.png)  
 - [2022-02-18-网络超时问题求解](https://www.v2ex.com/t/834835) ![](assets/new.png)  
@@ -499,18 +511,6 @@
 - [2022-02-18-{蹲守一线回郑州的选手}运维、-Java-、前端、-PHP-等等](https://www.v2ex.com/t/834832) ![](assets/new.png)  
 - [2022-02-18-家里的多台小米电视，怎么解决蓝牙遥控器互相干扰的问题](https://www.v2ex.com/t/834831) ![](assets/new.png)  
 - [2022-02-18-请问-idea-自动导包实现的原理是什么](https://www.v2ex.com/t/834830) ![](assets/new.png)  
-- [2022-02-18-招聘开发、运维、安全、项目管理等岗位，福利待遇尚可](https://www.v2ex.com/t/834829) ![](assets/new.png)  
-- [2022-02-18-求助，动态设置页面-meta-的-TDK-在查看网页源代码里看不到](https://www.v2ex.com/t/834828) ![](assets/new.png)  
-- [2022-02-18-树莓派能给-3.5-寸硬盘供电吗？](https://www.v2ex.com/t/834827) ![](assets/new.png)  
-- [2022-02-18-深圳电信-500M-宽带出租，-150-元/月](https://www.v2ex.com/t/834826) ![](assets/new.png)  
-- [2022-02-18-刚才中行-app-跳了个通知，很有意思。](https://www.v2ex.com/t/834824) ![](assets/new.png)  
-- [2022-02-18-深圳20-40k-招产品/iOS/Go-后端](https://www.v2ex.com/t/834823) ![](assets/new.png)  
-- [2022-02-18-（吐槽/避坑）最近买了小米电视大师-65-寸，吐槽吐槽碰到的问题](https://www.v2ex.com/t/834822) ![](assets/new.png)  
-- [2022-02-18-假驾照能认证-apple-cash-身份吗](https://www.v2ex.com/t/834821) ![](assets/new.png)  
-- [2022-02-18-北京的海鲜自助餐有什么推荐的吗?](https://www.v2ex.com/t/834820) ![](assets/new.png)  
-- [2022-02-18-访问-cloudflare-的-1.1.1.1-公共-DNS-有概率会被跳转到反诈中心页面](https://www.v2ex.com/t/834819) ![](assets/new.png)  
-- [2022-02-18-脑袋太聪明会不会变成神经病](https://www.v2ex.com/t/834818) ![](assets/new.png)  
-- [2022-02-18-内推-阿里巴巴-Lazada--Java-开发工程师-商家端方向-深圳](https://www.v2ex.com/t/834817) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -522,6 +522,7 @@
 </summary>
 
 
+- [2022-02-18-性能优化那些事儿（2）-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14945&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fperformance-turning-practice-2%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-02-18-性能工程之性能规划实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14944&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fperformance-testing-planning%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-02-18-从实际项目出发，告诉你vue3到底香不香-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14943&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493377%26amp%3Bidx%3D2%26amp%3Bsn%3D38dcff122477793c2bfa2353abca7ecc%26amp%3Bchksm%3Dfa3f065acd488f4c47984479b5068b79976b72e2284221362b1746315de5f6c4e4d9a25a17d5%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-02-18-推荐几款好用的文本编辑器-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14942&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493346%26amp%3Bidx%3D1%26amp%3Bsn%3D0ef808a629a358b59a32154a8dec322e%26amp%3Bchksm%3Dfa3f07b9cd488eaf74721223621f30a5592e3f3bad32c95c27cd69dffa9ca188fcdf1cba51f0%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
@@ -541,7 +542,6 @@
 - [2022-02-18-微话搭建优质-Web-应用其一-forum.lovejade.cn](https://blogread.cn/news/go.php?idItem=14928&url=https%3A%2F%2Fforum.lovejade.cn%2Fd%2F141-web%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-02-18-Puppeteer-使用分享及注意事项-forum.lovejade.cn](https://blogread.cn/news/go.php?idItem=14927&url=https%3A%2F%2Fforum.lovejade.cn%2Fd%2F145-puppeteer%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-02-18-优质网站同好者周刊（第-51-期）--倾城之链-blog.nicelinks.site](https://blogread.cn/news/go.php?idItem=14926&url=https%3A%2F%2Fblog.nicelinks.site%2Fweekly-051%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-02-18-frm和ibd文件数据库恢复-www.xifenfei.com](https://blogread.cn/news/go.php?idItem=14925&url=https%3A%2F%2Fwww.xifenfei.com%2F2021%2F12%2Ffrm-ibm-recovery.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -566,13 +566,13 @@
 - [2022-02-18-深入解析-Flink-细粒度资源管理](https://toutiao.io/k/cz0eafy) ![](assets/new.png)  
 - [2022-02-18-异步神器：CompletableFuture实现原理和使用场景](https://toutiao.io/k/z8cyhu6) ![](assets/new.png)  
 - [2022-02-18-二叉树、红黑树以及Golang实现红黑树](https://toutiao.io/k/80497ea) ![](assets/new.png)  
+- [2022-02-18-如何保证数据库缓存的最终一致性？](https://toutiao.io/k/6y65s8u) ![](assets/new.png)  
 - [2022-02-18-八一八Windows-Docker有趣的故事](https://toutiao.io/k/nqvgp6w) ![](assets/new.png)  
 - [2022-02-18-搞事情，这种跨域方案快要被禁用了！](https://toutiao.io/k/jq3asqu) ![](assets/new.png)  
-- [2022-02-18-如何保证数据库缓存的最终一致性？](https://toutiao.io/k/6y65s8u) ![](assets/new.png)  
 - [2022-02-18-顺丰：一场颠覆传统的架构升级之战](https://toutiao.io/k/htsy8sl) ![](assets/new.png)  
 - [2022-02-18-独立开发变现周刊（第42期）：将爱好变成一个能赚钱的副业产品](https://toutiao.io/k/a7ojj74) ![](assets/new.png)  
 - [2022-02-18-《剑指Offer：专项突破版》---整数部分-JavaScript-题解](https://toutiao.io/k/1w0mg1r) ![](assets/new.png)  
-- [2022-02-18-推荐-轻松搞懂5种IO模型](https://toutiao.io/k/o77uhyt) ![](assets/new.png)  
+- [2022-02-18-推荐-Go-原生并发原语和最佳实践](https://toutiao.io/k/rdpao5x) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-02-18 13:16:03。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-18 13:37:07。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -183,7 +183,6 @@
 - [【张鑫旭-鑫空间-鑫生活】深入JS-getRandomValues和Math.random方法](https://www.zhangxinxu.com/wordpress/2021/12/js-getrandomvalue-math-random/)
 - [【张鑫旭-鑫空间-鑫生活】flex-end为什么overflow无法滚动及解决方法](https://www.zhangxinxu.com/wordpress/2021/12/flex-end-overflow/)
 - [【张鑫旭-鑫空间-鑫生活】从js-visibilitychange-Safari下无效说开去](https://www.zhangxinxu.com/wordpress/2021/11/js-visibilitychange-pagehide-lifecycle/)
-- [【V2EX】一个批量压缩和最小化-JS-代码的在线工具](https://www.v2ex.com/t/834866)
 - [【开发者头条】异步神器：CompletableFuture实现原理和使用场景](https://toutiao.io/k/z8cyhu6)
 - [【开发者头条】《剑指Offer：专项突破版》---整数部分-JavaScript-题解](https://toutiao.io/k/1w0mg1r)
 - [......【查看更多】......](./details/tags/javascript.md)

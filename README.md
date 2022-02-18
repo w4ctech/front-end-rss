@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-18 06:45:15，:rocket: 更新条数: +1922， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-18 07:13:13，:rocket: 更新条数: +1924， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,15 @@
 </summary>
 
 
+- [2022-02-18-miui12.5-第三方手势总是会失效](https://www.v2ex.com/t/834802) ![](assets/new.png)  
+- [2022-02-18-真有熬夜险/996-加班险吗？](https://www.v2ex.com/t/834801) ![](assets/new.png)  
+- [2022-02-18-上海-（坚果云---同步办公网盘）新增运维/运维开发，其他移动端也在持续扩招中...](https://www.v2ex.com/t/834800) ![](assets/new.png)  
+- [2022-02-18-建了个学习资料交流群，大家可以加一下，一起分享](https://www.v2ex.com/t/834799) ![](assets/new.png)  
+- [2022-02-18-CS-技术书籍/课程中英文的割裂，造成的尴尬情况](https://www.v2ex.com/t/834798) ![](assets/new.png)  
+- [2022-02-18-四月想去上海求指点](https://www.v2ex.com/t/834797) ![](assets/new.png)  
+- [2022-02-18-导致-AWS-服务器无响应的一个问题](https://www.v2ex.com/t/834796) ![](assets/new.png)  
+- [2022-02-18-房贷商业贷款部分提前换合适吗？](https://www.v2ex.com/t/834795) ![](assets/new.png)  
+- [2022-02-18-想找个三甲医院体检](https://www.v2ex.com/t/834794) ![](assets/new.png)  
 - [2022-02-18-大佬们，求开发一个类似-SSTap-的软件的思路](https://www.v2ex.com/t/834792) ![](assets/new.png)  
 - [2022-02-18-国区-Icloud-2T+音乐-14/月，老司机自用号稳定开车，只找长期稳定的车友-只有-3-个位置](https://www.v2ex.com/t/834791) ![](assets/new.png)  
 - [2022-02-18-杭州寻一个社群运营的岗位，大家有推荐吗](https://www.v2ex.com/t/834789) ![](assets/new.png)  
@@ -502,15 +511,6 @@
 - [2022-02-18-raspbian-卡在启动界面的问题，不显示登录提示问题](https://www.v2ex.com/t/834782) ![](assets/new.png)  
 - [2022-02-18-为什么-linus-会选择-rust-语言加入到内核](https://www.v2ex.com/t/834781) ![](assets/new.png)  
 - [2022-02-18-路由器-df-统计的空间小于实际空间是啥情况？](https://www.v2ex.com/t/834780) ![](assets/new.png)  
-- [2022-02-18-求问成都ThoughtWorks海外业务线](https://www.v2ex.com/t/834779) ![](assets/new.png)  
-- [2022-02-18-想买辆电动自行车，深圳这边有没有推荐的？](https://www.v2ex.com/t/834777) ![](assets/new.png)  
-- [2022-02-18-媳妇家那边的亲戚，老跟我家借钱](https://www.v2ex.com/t/834774) ![](assets/new.png)  
-- [2022-02-18-分享电费充值优惠](https://www.v2ex.com/t/834772) ![](assets/new.png)  
-- [2022-02-18-字节跳动春招内推～](https://www.v2ex.com/t/834771) ![](assets/new.png)  
-- [2022-02-18-上海-米哈游内推---Golang-后端-/-Java-后端-/-移动客户端-/前端](https://www.v2ex.com/t/834770) ![](assets/new.png)  
-- [2022-02-18-用-Java-可以写网页？](https://www.v2ex.com/t/834768) ![](assets/new.png)  
-- [2022-02-18-美团-到家事业群-交易系统平台-公共技术-高级-Java-工程师/技术专家](https://www.v2ex.com/t/834766) ![](assets/new.png)  
-- [2022-02-18-原来做一个个人网站这么简单](https://www.v2ex.com/t/834765) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -565,13 +565,13 @@
 - [2022-02-18-源码10行代码在Unity中实现一条绳子](https://toutiao.io/k/ww6s5qt) ![](assets/new.png)  
 - [2022-02-18-深入解析-Flink-细粒度资源管理](https://toutiao.io/k/cz0eafy) ![](assets/new.png)  
 - [2022-02-18-异步神器：CompletableFuture实现原理和使用场景](https://toutiao.io/k/z8cyhu6) ![](assets/new.png)  
-- [2022-02-18-《剑指Offer：专项突破版》---整数部分-JavaScript-题解](https://toutiao.io/k/1w0mg1r) ![](assets/new.png)  
-- [2022-02-18-独立开发变现周刊（第42期）：将爱好变成一个能赚钱的副业产品](https://toutiao.io/k/a7ojj74) ![](assets/new.png)  
-- [2022-02-18-搞事情，这种跨域方案快要被禁用了！](https://toutiao.io/k/jq3asqu) ![](assets/new.png)  
 - [2022-02-18-二叉树、红黑树以及Golang实现红黑树](https://toutiao.io/k/80497ea) ![](assets/new.png)  
-- [2022-02-18-顺丰：一场颠覆传统的架构升级之战](https://toutiao.io/k/htsy8sl) ![](assets/new.png)  
+- [2022-02-18-搞事情，这种跨域方案快要被禁用了！](https://toutiao.io/k/jq3asqu) ![](assets/new.png)  
 - [2022-02-18-八一八Windows-Docker有趣的故事](https://toutiao.io/k/nqvgp6w) ![](assets/new.png)  
 - [2022-02-18-如何保证数据库缓存的最终一致性？](https://toutiao.io/k/6y65s8u) ![](assets/new.png)  
+- [2022-02-18-独立开发变现周刊（第42期）：将爱好变成一个能赚钱的副业产品](https://toutiao.io/k/a7ojj74) ![](assets/new.png)  
+- [2022-02-18-《剑指Offer：专项突破版》---整数部分-JavaScript-题解](https://toutiao.io/k/1w0mg1r) ![](assets/new.png)  
+- [2022-02-18-顺丰：一场颠覆传统的架构升级之战](https://toutiao.io/k/htsy8sl) ![](assets/new.png)  
 - [2022-02-18-推荐-如何撰写好技术方案设计-真实案例干货分享](https://toutiao.io/k/t1d9x3b) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

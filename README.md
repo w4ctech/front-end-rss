@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-18 04:47:07，:rocket: 更新条数: +1916， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-18 05:11:56，:rocket: 更新条数: +1916， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,10 @@
 </summary>
 
 
+- [2022-02-18-用-Java-可以写网页？](https://www.v2ex.com/t/834768) ![](assets/new.png)  
+- [2022-02-18-找熟悉端游的个人或者团队。](https://www.v2ex.com/t/834767) ![](assets/new.png)  
+- [2022-02-18-美团-到家事业群-交易系统平台-公共技术-高级-Java-工程师/技术专家](https://www.v2ex.com/t/834766) ![](assets/new.png)  
+- [2022-02-18-原来做一个个人网站这么简单](https://www.v2ex.com/t/834765) ![](assets/new.png)  
 - [2022-02-18-SpringBoot-中如何记录调用外部接口的操作日志？](https://www.v2ex.com/t/834762) ![](assets/new.png)  
 - [2022-02-18-安卓版微软-authenticator-里添加的二级密码怎么同步到-IOS-版里去](https://www.v2ex.com/t/834761) ![](assets/new.png)  
 - [2022-02-18-网易广州招聘-VR-游戏开发（Unity/Unreal）](https://www.v2ex.com/t/834760) ![](assets/new.png)  
@@ -507,10 +511,6 @@
 - [2022-02-18-我们做了一个-超超超超简洁控-的浏览器新标签页](https://www.v2ex.com/t/834744) ![](assets/new.png)  
 - [2022-02-18-怎么保持乐观？](https://www.v2ex.com/t/834742) ![](assets/new.png)  
 - [2022-02-18-适合俩人一起玩的-switch-游戏有哪些？](https://www.v2ex.com/t/834741) ![](assets/new.png)  
-- [2022-02-18-kong-管理面板](https://www.v2ex.com/t/834740) ![](assets/new.png)  
-- [2022-02-18-Notion-表格中支持每行设置不同的计算公式吗？](https://www.v2ex.com/t/834739) ![](assets/new.png)  
-- [2022-02-18-如何在-ShortCut-中获得网页的-token](https://www.v2ex.com/t/834738) ![](assets/new.png)  
-- [2022-02-18-春节期间了解了下-idea-插件开发，写了一个图片处理工具的插件](https://www.v2ex.com/t/834737) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -556,23 +556,23 @@
 - [2022-02-18-一张图看懂微服务架构路线](https://toutiao.io/k/upx1qip) ![](assets/new.png)  
 - [2022-02-18-vivo-服务端监控架构设计与实践](https://toutiao.io/k/hzyaenp) ![](assets/new.png)  
 - [2022-02-18-ClickHouse使用实践与规范](https://toutiao.io/k/fb7mdkl) ![](assets/new.png)  
-- [2022-02-18-「码农周刊-VIP-会员专属邮件周报」每周五发送，赶紧上车吧！](https://toutiao.io/k/7za8cy8) ![](assets/new.png)  
 - [2022-02-18-码农进阶指北——最近的一点感悟](https://toutiao.io/k/yr360fh) ![](assets/new.png)  
+- [2022-02-18-「码农周刊-VIP-会员专属邮件周报」每周五发送，赶紧上车吧！](https://toutiao.io/k/7za8cy8) ![](assets/new.png)  
 - [2022-02-18-Python数据处理入门教程！](https://toutiao.io/k/q09t751) ![](assets/new.png)  
 - [2022-02-18-那些年我做的开源项目之web篇](https://toutiao.io/k/eeatcgr) ![](assets/new.png)  
 - [2022-02-18-可裁剪狗狗USB发光项圈](https://toutiao.io/k/ltepxgx) ![](assets/new.png)  
 - [2022-02-18-美团集群调度系统的云原生实践](https://toutiao.io/k/zhifgsz) ![](assets/new.png)  
 - [2022-02-18-源码10行代码在Unity中实现一条绳子](https://toutiao.io/k/ww6s5qt) ![](assets/new.png)  
 - [2022-02-18-深入解析-Flink-细粒度资源管理](https://toutiao.io/k/cz0eafy) ![](assets/new.png)  
-- [2022-02-18-推荐-Go-原生并发原语和最佳实践](https://toutiao.io/k/rdpao5x) ![](assets/new.png)  
 - [2022-02-18-推荐-轻松搞懂5种IO模型](https://toutiao.io/k/o77uhyt) ![](assets/new.png)  
-- [2022-02-18-推荐-神器-Nginx-的学习手册-建议收藏-](https://toutiao.io/k/6f1qaso) ![](assets/new.png)  
 - [2022-02-18-推荐-微服务通信设计模式](https://toutiao.io/k/mp88imm) ![](assets/new.png)  
 - [2022-02-18-推荐-你分库分表的姿势对么？——详谈水平分库分表](https://toutiao.io/k/eteqw6s) ![](assets/new.png)  
 - [2022-02-18-推荐-什么人能成为Leader，大Leader该做什么](https://toutiao.io/k/pnlaqae) ![](assets/new.png)  
+- [2022-02-18-推荐-神器-Nginx-的学习手册-建议收藏-](https://toutiao.io/k/6f1qaso) ![](assets/new.png)  
+- [2022-02-18-推荐-Go-原生并发原语和最佳实践](https://toutiao.io/k/rdpao5x) ![](assets/new.png)  
 - [2022-02-18-推荐-如何撰写好技术方案设计-真实案例干货分享](https://toutiao.io/k/t1d9x3b) ![](assets/new.png)  
-- [2022-02-18-推荐-支付系统架构设计详解](https://toutiao.io/k/5tx1zgw) ![](assets/new.png)  
-- [2022-02-18-推荐-真香啊！接私活必备的-N-个开源项目（附源码合集第一期）！收藏走起！](https://toutiao.io/k/he7umju) ![](assets/new.png)  
+- [2022-02-18-推荐-如何撰写好的技术方案设计-真实案例干货分享](https://toutiao.io/k/0f5fv4t) ![](assets/new.png)  
+- [2022-02-18-推荐-作为研发Leader，如何做总结](https://toutiao.io/k/1g7flto) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-18 05:11:56，:rocket: 更新条数: +1916， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-18 05:36:15，:rocket: 更新条数: +1916， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -69,8 +69,8 @@
 - [2022-02-18-世卫建议缩短隔离期以应对感染激增-多国逐步放松限制｜大流行手记（2月17日）](https://m.caixin.com/m/2022-02-18/101843635.html) ![](assets/new.png)  
 - [2022-02-17-苏州累计新冠感染61例-全市诊所、门诊部停诊](https://m.caixin.com/m/2022-02-17/101843426.html) ![](assets/new.png)  
 - [2022-02-17-国家卫健委副主任王贺胜南下助港抗疫-曾临危受命“空降”湖北](https://m.caixin.com/m/2022-02-17/101843392.html) ![](assets/new.png)  
-- [2022-02-17-香港日增约7000宗初步阳性病例-逾1.7万感染者未入院](https://m.caixin.com/m/2022-02-17/101842942.html) ![](assets/new.png)  
 - [2022-02-17-最新海外疫情：新冠感染超4.16亿-累计接种新冠疫苗超103.65亿剂次](https://m.caixin.com/m/2022-02-17/101843220.html) ![](assets/new.png)  
+- [2022-02-17-香港日增约7000宗初步阳性病例-逾1.7万感染者未入院](https://m.caixin.com/m/2022-02-17/101842942.html) ![](assets/new.png)  
 - [2022-02-17-【境内疫情观察】江苏新增16例本土病例（2月16日）](https://database.caixin.com/m/2022-02-17/101843168.html) ![](assets/new.png)  
 - [2022-02-17-美国为大流行下阶段做准备-香港疫情持续恶化｜大流行手记（2月16日）](https://m.caixin.com/m/2022-02-17/101843007.html) ![](assets/new.png)  
 - [2022-02-17-国内第二款新冠疫苗公布“混打”数据：绝对保护力为61.35%](https://m.caixin.com/m/2022-02-17/101843111.html) ![](assets/new.png)  
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-02-18-字节跳动春招内推～](https://www.v2ex.com/t/834771) ![](assets/new.png)  
+- [2022-02-18-上海-米哈游内推---Golang-后端-/-Java-后端-/-移动客户端-/前端](https://www.v2ex.com/t/834770) ![](assets/new.png)  
 - [2022-02-18-用-Java-可以写网页？](https://www.v2ex.com/t/834768) ![](assets/new.png)  
 - [2022-02-18-找熟悉端游的个人或者团队。](https://www.v2ex.com/t/834767) ![](assets/new.png)  
 - [2022-02-18-美团-到家事业群-交易系统平台-公共技术-高级-Java-工程师/技术专家](https://www.v2ex.com/t/834766) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-02-18-小红书内推招聘啦（非-HR，是研发同学）](https://www.v2ex.com/t/834746) ![](assets/new.png)  
 - [2022-02-18-成都-我家的房子要出租，有没有成都的小伙伴需要的](https://www.v2ex.com/t/834745) ![](assets/new.png)  
 - [2022-02-18-我们做了一个-超超超超简洁控-的浏览器新标签页](https://www.v2ex.com/t/834744) ![](assets/new.png)  
-- [2022-02-18-怎么保持乐观？](https://www.v2ex.com/t/834742) ![](assets/new.png)  
-- [2022-02-18-适合俩人一起玩的-switch-游戏有哪些？](https://www.v2ex.com/t/834741) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -564,15 +564,15 @@
 - [2022-02-18-美团集群调度系统的云原生实践](https://toutiao.io/k/zhifgsz) ![](assets/new.png)  
 - [2022-02-18-源码10行代码在Unity中实现一条绳子](https://toutiao.io/k/ww6s5qt) ![](assets/new.png)  
 - [2022-02-18-深入解析-Flink-细粒度资源管理](https://toutiao.io/k/cz0eafy) ![](assets/new.png)  
-- [2022-02-18-推荐-轻松搞懂5种IO模型](https://toutiao.io/k/o77uhyt) ![](assets/new.png)  
-- [2022-02-18-推荐-微服务通信设计模式](https://toutiao.io/k/mp88imm) ![](assets/new.png)  
-- [2022-02-18-推荐-你分库分表的姿势对么？——详谈水平分库分表](https://toutiao.io/k/eteqw6s) ![](assets/new.png)  
-- [2022-02-18-推荐-什么人能成为Leader，大Leader该做什么](https://toutiao.io/k/pnlaqae) ![](assets/new.png)  
-- [2022-02-18-推荐-神器-Nginx-的学习手册-建议收藏-](https://toutiao.io/k/6f1qaso) ![](assets/new.png)  
-- [2022-02-18-推荐-Go-原生并发原语和最佳实践](https://toutiao.io/k/rdpao5x) ![](assets/new.png)  
-- [2022-02-18-推荐-如何撰写好技术方案设计-真实案例干货分享](https://toutiao.io/k/t1d9x3b) ![](assets/new.png)  
 - [2022-02-18-推荐-如何撰写好的技术方案设计-真实案例干货分享](https://toutiao.io/k/0f5fv4t) ![](assets/new.png)  
+- [2022-02-18-推荐-支付系统架构设计详解](https://toutiao.io/k/5tx1zgw) ![](assets/new.png)  
+- [2022-02-18-推荐-你分库分表的姿势对么？——详谈水平分库分表](https://toutiao.io/k/eteqw6s) ![](assets/new.png)  
+- [2022-02-18-推荐-如何撰写好技术方案设计-真实案例干货分享](https://toutiao.io/k/t1d9x3b) ![](assets/new.png)  
 - [2022-02-18-推荐-作为研发Leader，如何做总结](https://toutiao.io/k/1g7flto) ![](assets/new.png)  
+- [2022-02-18-推荐-轻松搞懂5种IO模型](https://toutiao.io/k/o77uhyt) ![](assets/new.png)  
+- [2022-02-18-推荐-Go-原生并发原语和最佳实践](https://toutiao.io/k/rdpao5x) ![](assets/new.png)  
+- [2022-02-18-推荐-微服务通信设计模式](https://toutiao.io/k/mp88imm) ![](assets/new.png)  
+- [2022-02-18-推荐-神器-Nginx-的学习手册-建议收藏-](https://toutiao.io/k/6f1qaso) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

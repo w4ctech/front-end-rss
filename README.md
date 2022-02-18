@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-18 09:13:28，:rocket: 更新条数: +1929， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-18 09:38:01，:rocket: 更新条数: +1929， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,13 @@
 </summary>
 
 
+- [2022-02-18-你觉得技术分享有价值吗？为什么我这么排斥呢。。](https://www.v2ex.com/t/834862) ![](assets/new.png)  
+- [2022-02-18-bottlepy-还有人在用吗？](https://www.v2ex.com/t/834861) ![](assets/new.png)  
+- [2022-02-18-大家工作日的早餐都吃啥](https://www.v2ex.com/t/834860) ![](assets/new.png)  
+- [2022-02-18-周末了，去干嘛？](https://www.v2ex.com/t/834859) ![](assets/new.png)  
+- [2022-02-18-有没有-mp3-时间轴匹配的工具](https://www.v2ex.com/t/834858) ![](assets/new.png)  
+- [2022-02-18-关于-k8s-的-service-请教](https://www.v2ex.com/t/834857) ![](assets/new.png)  
+- [2022-02-18-intellij-idea-国际化-无法跳转到声明](https://www.v2ex.com/t/834856) ![](assets/new.png)  
 - [2022-02-18-招聘开发、运维、安全、相关管理人才，我赚积分换冰墩墩](https://www.v2ex.com/t/834855) ![](assets/new.png)  
 - [2022-02-18-有活跃点的-AI-技术论坛或社区推荐吗？](https://www.v2ex.com/t/834853) ![](assets/new.png)  
 - [2022-02-18-深圳-内推一轮我面试平安产险招聘-NLP、机器学习、深度学习（图像也可）算法-40W-100W，附带招两名后端开发](https://www.v2ex.com/t/834852) ![](assets/new.png)  
@@ -504,13 +511,6 @@
 - [2022-02-18-杭州内推阿里巴巴-钉钉-基础平台-IM&组织关系-23-届实习生](https://www.v2ex.com/t/834844) ![](assets/new.png)  
 - [2022-02-18-PS-on-mac-m1](https://www.v2ex.com/t/834839) ![](assets/new.png)  
 - [2022-02-18-有遇到过-Safari-浏览器填充密码后总会卡死一会的问题吗?](https://www.v2ex.com/t/834838) ![](assets/new.png)  
-- [2022-02-18-关于键盘选择](https://www.v2ex.com/t/834837) ![](assets/new.png)  
-- [2022-02-18-网络超时问题求解](https://www.v2ex.com/t/834835) ![](assets/new.png)  
-- [2022-02-18-现在已经-2022-年了，还有哪些-App-不符合-API-30-的目标要求？](https://www.v2ex.com/t/834834) ![](assets/new.png)  
-- [2022-02-18-由于身体原因可能干不了写代码这行了，大佬们有啥推荐么](https://www.v2ex.com/t/834833) ![](assets/new.png)  
-- [2022-02-18-{蹲守一线回郑州的选手}运维、-Java-、前端、-PHP-等等](https://www.v2ex.com/t/834832) ![](assets/new.png)  
-- [2022-02-18-家里的多台小米电视，怎么解决蓝牙遥控器互相干扰的问题](https://www.v2ex.com/t/834831) ![](assets/new.png)  
-- [2022-02-18-请问-idea-自动导包实现的原理是什么](https://www.v2ex.com/t/834830) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -570,9 +570,9 @@
 - [2022-02-18-八一八Windows-Docker有趣的故事](https://toutiao.io/k/nqvgp6w) ![](assets/new.png)  
 - [2022-02-18-搞事情，这种跨域方案快要被禁用了！](https://toutiao.io/k/jq3asqu) ![](assets/new.png)  
 - [2022-02-18-顺丰：一场颠覆传统的架构升级之战](https://toutiao.io/k/htsy8sl) ![](assets/new.png)  
-- [2022-02-18-独立开发变现周刊（第42期）：将爱好变成一个能赚钱的副业产品](https://toutiao.io/k/a7ojj74) ![](assets/new.png)  
 - [2022-02-18-《剑指Offer：专项突破版》---整数部分-JavaScript-题解](https://toutiao.io/k/1w0mg1r) ![](assets/new.png)  
-- [2022-02-18-推荐-Go-原生并发原语和最佳实践](https://toutiao.io/k/rdpao5x) ![](assets/new.png)  
+- [2022-02-18-独立开发变现周刊（第42期）：将爱好变成一个能赚钱的副业产品](https://toutiao.io/k/a7ojj74) ![](assets/new.png)  
+- [2022-02-18-推荐-微服务通信设计模式](https://toutiao.io/k/mp88imm) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-19 14:12:02，:rocket: 更新条数: +1913， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-19 14:36:11，:rocket: 更新条数: +1914， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,11 @@
 </summary>
 
 
+- [2022-02-19-来玩大菠萝-2-重制版](https://www.v2ex.com/t/835109) ![](assets/new.png)  
+- [2022-02-19-请教-react-hook-有没有方法主动控制子组件更新（排除其他状态更新组件）](https://www.v2ex.com/t/835108) ![](assets/new.png)  
+- [2022-02-19-旺信-UWP-版已下架](https://www.v2ex.com/t/835107) ![](assets/new.png)  
+- [2022-02-19-想找一下社区一位大佬的前端作品是个二次元网站,pixiv-日系风格](https://www.v2ex.com/t/835103) ![](assets/new.png)  
+- [2022-02-19-SHA1-很不安全吗？](https://www.v2ex.com/t/835102) ![](assets/new.png)  
 - [2022-02-19-上海移动宽带-IPV6-的诡异问题。。。。](https://www.v2ex.com/t/835101) ![](assets/new.png)  
 - [2022-02-19-组队上车存储+音乐；年付-72](https://www.v2ex.com/t/835100) ![](assets/new.png)  
 - [2022-02-19-群晖-Chrome-下载插件只支持-HTTPS-解决-HTTP-服务的正常使用](https://www.v2ex.com/t/835098) ![](assets/new.png)  
@@ -506,11 +511,6 @@
 - [2022-02-19-看到了一份-MySQL-项目经理写的-MySQL-优化器使用指南，很不错，是精品，做了下中文翻译](https://www.v2ex.com/t/835074) ![](assets/new.png)  
 - [2022-02-19-请问-MacBook-Pro-13-inch,-2016-可以升级-MacOS-Monterey-吗？](https://www.v2ex.com/t/835073) ![](assets/new.png)  
 - [2022-02-19-443-端口不能处理-UDP-流量吗?](https://www.v2ex.com/t/835072) ![](assets/new.png)  
-- [2022-02-19-普通的监控《柠檬监控》](https://www.v2ex.com/t/835071) ![](assets/new.png)  
-- [2022-02-19-北京成都-字节跳动抖音团队-持续招聘-ing](https://www.v2ex.com/t/835069) ![](assets/new.png)  
-- [2022-02-19-UE4-着色器开发，笔记本求推荐，需要-12-代-CPU&3070-显卡吗？](https://www.v2ex.com/t/835068) ![](assets/new.png)  
-- [2022-02-19-Apache-2.4-无法开启地址重写，求仁兄帮助我解惑](https://www.v2ex.com/t/835066) ![](assets/new.png)  
-- [2022-02-19-后端开发主机-CPU-选择](https://www.v2ex.com/t/835065) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -563,16 +563,16 @@
 - [2022-02-19-Spring-Boot-+-EasyExcel-导入导出，好用到爆，可以扔掉-POI-了！](https://toutiao.io/k/1g4x7ts) ![](assets/new.png)  
 - [2022-02-19-“大学生如创业失败，贷款10万以下由政府代偿”非新政；理想汽车CTO王凯将离职；红杉资本推出数字加密货币专项基金｜开发者头条](https://toutiao.io/k/k58mum8) ![](assets/new.png)  
 - [2022-02-19-快手徐波：元数据的建设与分析是数据治理未来的不可或缺的一环](https://toutiao.io/k/u7tf08v) ![](assets/new.png)  
-- [2022-02-19-推荐-什么人能成为Leader，大Leader该做什么](https://toutiao.io/k/pnlaqae) ![](assets/new.png)  
-- [2022-02-19-推荐-支付系统架构设计详解](https://toutiao.io/k/5tx1zgw) ![](assets/new.png)  
 - [2022-02-19-推荐-轻松搞懂5种IO模型](https://toutiao.io/k/o77uhyt) ![](assets/new.png)  
-- [2022-02-19-推荐-真香啊！接私活必备的-N-个开源项目（附源码合集第一期）！收藏走起！](https://toutiao.io/k/he7umju) ![](assets/new.png)  
-- [2022-02-19-推荐-如何撰写好技术方案设计-真实案例干货分享](https://toutiao.io/k/t1d9x3b) ![](assets/new.png)  
-- [2022-02-19-推荐-你分库分表的姿势对么？——详谈水平分库分表](https://toutiao.io/k/eteqw6s) ![](assets/new.png)  
 - [2022-02-19-推荐-Go-原生并发原语和最佳实践](https://toutiao.io/k/rdpao5x) ![](assets/new.png)  
-- [2022-02-19-推荐-我做基础架构学到的42件事](https://toutiao.io/k/k6tjws1) ![](assets/new.png)  
+- [2022-02-19-推荐-支付系统架构设计详解](https://toutiao.io/k/5tx1zgw) ![](assets/new.png)  
+- [2022-02-19-推荐-你分库分表的姿势对么？——详谈水平分库分表](https://toutiao.io/k/eteqw6s) ![](assets/new.png)  
+- [2022-02-19-推荐-微服务通信设计模式](https://toutiao.io/k/mp88imm) ![](assets/new.png)  
 - [2022-02-19-推荐-如何撰写好的技术方案设计-真实案例干货分享](https://toutiao.io/k/0f5fv4t) ![](assets/new.png)  
-- [2022-02-19-推荐-神器-Nginx-的学习手册-建议收藏-](https://toutiao.io/k/6f1qaso) ![](assets/new.png)  
+- [2022-02-19-推荐-真香啊！接私活必备的-N-个开源项目（附源码合集第一期）！收藏走起！](https://toutiao.io/k/he7umju) ![](assets/new.png)  
+- [2022-02-19-推荐-什么人能成为Leader，大Leader该做什么](https://toutiao.io/k/pnlaqae) ![](assets/new.png)  
+- [2022-02-19-推荐-如何撰写好技术方案设计-真实案例干货分享](https://toutiao.io/k/t1d9x3b) ![](assets/new.png)  
+- [2022-02-19-推荐-我做基础架构学到的42件事](https://toutiao.io/k/k6tjws1) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-02-19 10:39:16。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-19 11:11:23。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -346,6 +346,7 @@
 
 
 
+- [【V2EX】北京成都-字节跳动抖音团队-持续招聘-ing](https://www.v2ex.com/t/835069)
 - [【V2EX】北京社招-AWS-中国区-招聘信息更新](https://www.v2ex.com/t/835026)
 - [......【查看更多】......](./details/tags/job-interview.md)
 

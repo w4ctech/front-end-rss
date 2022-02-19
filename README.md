@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-19 04:15:47，:rocket: 更新条数: +1919， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-19 04:46:24，:rocket: 更新条数: +1919， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -66,6 +66,7 @@
 
 
 - [2022-02-19-2月18日全国新增新冠137例-六省份本土80例](https://m.caixin.com/m/2022-02-19/101844144.html) ![](assets/new.png)  
+- [2022-02-19-韩国单日病例超10万-美国将延长国家紧急状态｜大流行手记（2月18日）](https://m.caixin.com/m/2022-02-19/101844164.html) ![](assets/new.png)  
 - [2022-02-18-香港特首选举押后至5月8日举行-内地援港持续推进专注抗疫](https://m.caixin.com/m/2022-02-18/101844003.html) ![](assets/new.png)  
 - [2022-02-18-中国拟启动新冠疫苗加强针“混打”方案-智飞和康希诺入选](https://m.caixin.com/m/2022-02-18/101843656.html) ![](assets/new.png)  
 - [2022-02-18-内地男子从香港非法入境于上海确诊-珠海日前抓获10人偷渡团伙](https://m.caixin.com/m/2022-02-18/101843644.html) ![](assets/new.png)  
@@ -84,7 +85,6 @@
 - [2022-02-17-【图集】香港新增新冠确诊病例4285例-再达单日新高](https://photos.caixin.com/m/2022-02-17/101843012.html) ![](assets/new.png)  
 - [2022-02-16-苏州三日累计42例阳性-强化交通出行管控](https://m.caixin.com/m/2022-02-16/101842843.html) ![](assets/new.png)  
 - [2022-02-16-湖南郴州确诊病例系由香港偷渡珠海-警方立案侦查](https://m.caixin.com/m/2022-02-16/101842758.html) ![](assets/new.png)  
-- [2022-02-16-香港疫情外溢内地-广东多地严打走私偷渡](https://m.caixin.com/m/2022-02-16/101842537.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-02-19-最近又可以领微信大额提现券了](https://www.v2ex.com/t/834998) ![](assets/new.png)  
 - [2022-02-19-Provider-API-的-Onedrive-有无办法下载一个文件夹中的内容到本地](https://www.v2ex.com/t/834996) ![](assets/new.png)  
 - [2022-02-19-推导-Y-组合子的意义是什么？](https://www.v2ex.com/t/834995) ![](assets/new.png)  
 - [2022-02-19-有了解-skyguard-endpoint-的么？](https://www.v2ex.com/t/834994) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-02-19-远程-中国首个进入谷歌-GSoC-的开源项目：-Casbin，-2022-年预选生招募！](https://www.v2ex.com/t/834979) ![](assets/new.png)  
 - [2022-02-19-有没有类似百度首页网址导航的开源个人用导航系统？](https://www.v2ex.com/t/834978) ![](assets/new.png)  
 - [2022-02-19-做一个实时的律师支援平台如何？](https://www.v2ex.com/t/834977) ![](assets/new.png)  
-- [2022-02-19-微博-iOS-端的存图漏图问题](https://www.v2ex.com/t/834976) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -557,21 +557,21 @@
 - [2022-02-19-B站基于Iceberg的湖仓一体架构实践](https://toutiao.io/k/cfss22w) ![](assets/new.png)  
 - [2022-02-19-贝壳找房一站式报警平台建设实践](https://toutiao.io/k/jobtx78) ![](assets/new.png)  
 - [2022-02-19-这-6-个开源项目很-Cool](https://toutiao.io/k/7kdj29e) ![](assets/new.png)  
-- [2022-02-19-138-python|第八部分：并发网络编程（三）多任务编程上--进程](https://toutiao.io/k/2z3c7um) ![](assets/new.png)  
 - [2022-02-19-系统重构数据同步利器之Canal实战篇](https://toutiao.io/k/kwfs5x7) ![](assets/new.png)  
+- [2022-02-19-138-python|第八部分：并发网络编程（三）多任务编程上--进程](https://toutiao.io/k/2z3c7um) ![](assets/new.png)  
 - [2022-02-19-“大学生如创业失败，贷款10万以下由政府代偿”非新政；理想汽车CTO王凯将离职；红杉资本推出数字加密货币专项基金｜开发者头条](https://toutiao.io/k/k58mum8) ![](assets/new.png)  
 - [2022-02-19-体验-http3:-基于-nginx-quic-分支](https://toutiao.io/k/ifzpvze) ![](assets/new.png)  
-- [2022-02-19-推荐-真香啊！接私活必备的-N-个开源项目（附源码合集第一期）！收藏走起！](https://toutiao.io/k/he7umju) ![](assets/new.png)  
-- [2022-02-19-推荐-什么人能成为Leader，大Leader该做什么](https://toutiao.io/k/pnlaqae) ![](assets/new.png)  
-- [2022-02-19-推荐-如何撰写好的技术方案设计-真实案例干货分享](https://toutiao.io/k/0f5fv4t) ![](assets/new.png)  
+- [2022-02-19-推荐-Go-原生并发原语和最佳实践](https://toutiao.io/k/rdpao5x) ![](assets/new.png)  
 - [2022-02-19-推荐-微服务通信设计模式](https://toutiao.io/k/mp88imm) ![](assets/new.png)  
-- [2022-02-19-推荐-你分库分表的姿势对么？——详谈水平分库分表](https://toutiao.io/k/eteqw6s) ![](assets/new.png)  
-- [2022-02-19-推荐-支付系统架构设计详解](https://toutiao.io/k/5tx1zgw) ![](assets/new.png)  
+- [2022-02-19-推荐-如何撰写好的技术方案设计-真实案例干货分享](https://toutiao.io/k/0f5fv4t) ![](assets/new.png)  
 - [2022-02-19-推荐-轻松搞懂5种IO模型](https://toutiao.io/k/o77uhyt) ![](assets/new.png)  
 - [2022-02-19-推荐-神器-Nginx-的学习手册-建议收藏-](https://toutiao.io/k/6f1qaso) ![](assets/new.png)  
-- [2022-02-19-推荐-我做基础架构学到的42件事](https://toutiao.io/k/k6tjws1) ![](assets/new.png)  
-- [2022-02-19-推荐-Go-原生并发原语和最佳实践](https://toutiao.io/k/rdpao5x) ![](assets/new.png)  
+- [2022-02-19-推荐-什么人能成为Leader，大Leader该做什么](https://toutiao.io/k/pnlaqae) ![](assets/new.png)  
 - [2022-02-19-推荐-如何撰写好技术方案设计-真实案例干货分享](https://toutiao.io/k/t1d9x3b) ![](assets/new.png)  
+- [2022-02-19-推荐-我做基础架构学到的42件事](https://toutiao.io/k/k6tjws1) ![](assets/new.png)  
+- [2022-02-19-推荐-支付系统架构设计详解](https://toutiao.io/k/5tx1zgw) ![](assets/new.png)  
+- [2022-02-19-推荐-真香啊！接私活必备的-N-个开源项目（附源码合集第一期）！收藏走起！](https://toutiao.io/k/he7umju) ![](assets/new.png)  
+- [2022-02-19-推荐-你分库分表的姿势对么？——详谈水平分库分表](https://toutiao.io/k/eteqw6s) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

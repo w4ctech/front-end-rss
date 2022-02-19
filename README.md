@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-19 04:46:24，:rocket: 更新条数: +1919， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-19 05:12:20，:rocket: 更新条数: +1919， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,13 @@
 </summary>
 
 
+- [2022-02-19-Snell-协议-GG-了](https://www.v2ex.com/t/835007) ![](assets/new.png)  
+- [2022-02-19-Fred's-ImageMagick-Scripts](https://www.v2ex.com/t/835006) ![](assets/new.png)  
+- [2022-02-19-msi-安装包（Microsoft-Installer）提示必须从-setup.exe-运行才能正常安装，如何跳过这个限制？](https://www.v2ex.com/t/835005) ![](assets/new.png)  
+- [2022-02-19-有没有可以使用服务器内存的迷你主机？](https://www.v2ex.com/t/835003) ![](assets/new.png)  
+- [2022-02-19-阿里旺旺-Windows-版是不打算继续维护了吗？](https://www.v2ex.com/t/835002) ![](assets/new.png)  
+- [2022-02-19-使用-vue-框架，刷新界面的时候请求-401，不知道啥原因](https://www.v2ex.com/t/835001) ![](assets/new.png)  
+- [2022-02-19-170-一年升级宽带到-500mb](https://www.v2ex.com/t/835000) ![](assets/new.png)  
 - [2022-02-19-最近又可以领微信大额提现券了](https://www.v2ex.com/t/834998) ![](assets/new.png)  
 - [2022-02-19-Provider-API-的-Onedrive-有无办法下载一个文件夹中的内容到本地](https://www.v2ex.com/t/834996) ![](assets/new.png)  
 - [2022-02-19-推导-Y-组合子的意义是什么？](https://www.v2ex.com/t/834995) ![](assets/new.png)  
@@ -504,13 +511,6 @@
 - [2022-02-19-edge-浏览器如何实现标签页滚动](https://www.v2ex.com/t/834986) ![](assets/new.png)  
 - [2022-02-19-小红书挂了](https://www.v2ex.com/t/834985) ![](assets/new.png)  
 - [2022-02-19-有什么办法取消-Vultr-的图形验证码?](https://www.v2ex.com/t/834984) ![](assets/new.png)  
-- [2022-02-19-golang-中-channel-的一个问题](https://www.v2ex.com/t/834983) ![](assets/new.png)  
-- [2022-02-19-Apple-官网购物退货的一些疑问](https://www.v2ex.com/t/834982) ![](assets/new.png)  
-- [2022-02-19-关于坚持自律的一种想法](https://www.v2ex.com/t/834981) ![](assets/new.png)  
-- [2022-02-19-有人使用我的域名发送垃圾邮件](https://www.v2ex.com/t/834980) ![](assets/new.png)  
-- [2022-02-19-远程-中国首个进入谷歌-GSoC-的开源项目：-Casbin，-2022-年预选生招募！](https://www.v2ex.com/t/834979) ![](assets/new.png)  
-- [2022-02-19-有没有类似百度首页网址导航的开源个人用导航系统？](https://www.v2ex.com/t/834978) ![](assets/new.png)  
-- [2022-02-19-做一个实时的律师支援平台如何？](https://www.v2ex.com/t/834977) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -562,16 +562,16 @@
 - [2022-02-19-“大学生如创业失败，贷款10万以下由政府代偿”非新政；理想汽车CTO王凯将离职；红杉资本推出数字加密货币专项基金｜开发者头条](https://toutiao.io/k/k58mum8) ![](assets/new.png)  
 - [2022-02-19-体验-http3:-基于-nginx-quic-分支](https://toutiao.io/k/ifzpvze) ![](assets/new.png)  
 - [2022-02-19-推荐-Go-原生并发原语和最佳实践](https://toutiao.io/k/rdpao5x) ![](assets/new.png)  
-- [2022-02-19-推荐-微服务通信设计模式](https://toutiao.io/k/mp88imm) ![](assets/new.png)  
-- [2022-02-19-推荐-如何撰写好的技术方案设计-真实案例干货分享](https://toutiao.io/k/0f5fv4t) ![](assets/new.png)  
 - [2022-02-19-推荐-轻松搞懂5种IO模型](https://toutiao.io/k/o77uhyt) ![](assets/new.png)  
-- [2022-02-19-推荐-神器-Nginx-的学习手册-建议收藏-](https://toutiao.io/k/6f1qaso) ![](assets/new.png)  
-- [2022-02-19-推荐-什么人能成为Leader，大Leader该做什么](https://toutiao.io/k/pnlaqae) ![](assets/new.png)  
-- [2022-02-19-推荐-如何撰写好技术方案设计-真实案例干货分享](https://toutiao.io/k/t1d9x3b) ![](assets/new.png)  
-- [2022-02-19-推荐-我做基础架构学到的42件事](https://toutiao.io/k/k6tjws1) ![](assets/new.png)  
-- [2022-02-19-推荐-支付系统架构设计详解](https://toutiao.io/k/5tx1zgw) ![](assets/new.png)  
 - [2022-02-19-推荐-真香啊！接私活必备的-N-个开源项目（附源码合集第一期）！收藏走起！](https://toutiao.io/k/he7umju) ![](assets/new.png)  
+- [2022-02-19-推荐-什么人能成为Leader，大Leader该做什么](https://toutiao.io/k/pnlaqae) ![](assets/new.png)  
+- [2022-02-19-推荐-神器-Nginx-的学习手册-建议收藏-](https://toutiao.io/k/6f1qaso) ![](assets/new.png)  
+- [2022-02-19-推荐-支付系统架构设计详解](https://toutiao.io/k/5tx1zgw) ![](assets/new.png)  
+- [2022-02-19-推荐-如何撰写好的技术方案设计-真实案例干货分享](https://toutiao.io/k/0f5fv4t) ![](assets/new.png)  
 - [2022-02-19-推荐-你分库分表的姿势对么？——详谈水平分库分表](https://toutiao.io/k/eteqw6s) ![](assets/new.png)  
+- [2022-02-19-推荐-微服务通信设计模式](https://toutiao.io/k/mp88imm) ![](assets/new.png)  
+- [2022-02-19-推荐-我做基础架构学到的42件事](https://toutiao.io/k/k6tjws1) ![](assets/new.png)  
+- [2022-02-19-推荐-如何撰写好技术方案设计-真实案例干货分享](https://toutiao.io/k/t1d9x3b) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-19 09:37:29，:rocket: 更新条数: +1920， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-19 10:13:32，:rocket: 更新条数: +1921， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,10 @@
 </summary>
 
 
+- [2022-02-19-后端开发主机-CPU-选择](https://www.v2ex.com/t/835065) ![](assets/new.png)  
+- [2022-02-19-上海不加班外企招-后端、测试、C++\C#、前端、devOps-，找我内推，帮忙内推，成功送-5000-内推费！](https://www.v2ex.com/t/835064) ![](assets/new.png)  
+- [2022-02-19-SNIProxy+DNSmasq-的落地方案，除了解锁奈飞有办法所有流量都走落地鸡吗？](https://www.v2ex.com/t/835062) ![](assets/new.png)  
+- [2022-02-19-mitmproxy-太慢了，有没有性能更好的替代品？](https://www.v2ex.com/t/835061) ![](assets/new.png)  
 - [2022-02-19-为何有的有的-ocr-平台会被抓有的不会？](https://www.v2ex.com/t/835060) ![](assets/new.png)  
 - [2022-02-19-北京联通的沃派校园套餐-48-元合约无法续费了吗？有没有北京联通别的套餐推荐](https://www.v2ex.com/t/835059) ![](assets/new.png)  
 - [2022-02-19-升级-Windows-11-后，原有的-windows.old-丢失了...](https://www.v2ex.com/t/835058) ![](assets/new.png)  
@@ -507,10 +511,6 @@
 - [2022-02-19-不考虑-Docker-本身存在的漏洞，仅正常部署容器，是否存在从容器中访问外部文件或执行外部操作的可能性？](https://www.v2ex.com/t/835042) ![](assets/new.png)  
 - [2022-02-19-有没有替人问诊的跑腿服务？](https://www.v2ex.com/t/835041) ![](assets/new.png)  
 - [2022-02-19-mac-mini-m1-接有线鼠标的问题](https://www.v2ex.com/t/835039) ![](assets/new.png)  
-- [2022-02-19-Github-上-k-星的业余小开发者，通过什么渠道接收国际-coffee-呢？](https://www.v2ex.com/t/835038) ![](assets/new.png)  
-- [2022-02-19-windows-软件防截屏？](https://www.v2ex.com/t/835037) ![](assets/new.png)  
-- [2022-02-19-从-Google-账户中删除了-YouTube-服务还有方法可以恢复吗？](https://www.v2ex.com/t/835036) ![](assets/new.png)  
-- [2022-02-19-求一个好用的内衣内裤洗衣机](https://www.v2ex.com/t/835035) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -563,15 +563,15 @@
 - [2022-02-19-“大学生如创业失败，贷款10万以下由政府代偿”非新政；理想汽车CTO王凯将离职；红杉资本推出数字加密货币专项基金｜开发者头条](https://toutiao.io/k/k58mum8) ![](assets/new.png)  
 - [2022-02-19-Spring-Boot-+-EasyExcel-导入导出，好用到爆，可以扔掉-POI-了！](https://toutiao.io/k/1g4x7ts) ![](assets/new.png)  
 - [2022-02-19-快手徐波：元数据的建设与分析是数据治理未来的不可或缺的一环](https://toutiao.io/k/u7tf08v) ![](assets/new.png)  
-- [2022-02-19-推荐-支付系统架构设计详解](https://toutiao.io/k/5tx1zgw) ![](assets/new.png)  
+- [2022-02-19-推荐-真香啊！接私活必备的-N-个开源项目（附源码合集第一期）！收藏走起！](https://toutiao.io/k/he7umju) ![](assets/new.png)  
+- [2022-02-19-推荐-神器-Nginx-的学习手册-建议收藏-](https://toutiao.io/k/6f1qaso) ![](assets/new.png)  
+- [2022-02-19-推荐-Go-原生并发原语和最佳实践](https://toutiao.io/k/rdpao5x) ![](assets/new.png)  
+- [2022-02-19-推荐-如何撰写好技术方案设计-真实案例干货分享](https://toutiao.io/k/t1d9x3b) ![](assets/new.png)  
 - [2022-02-19-推荐-如何撰写好的技术方案设计-真实案例干货分享](https://toutiao.io/k/0f5fv4t) ![](assets/new.png)  
 - [2022-02-19-推荐-我做基础架构学到的42件事](https://toutiao.io/k/k6tjws1) ![](assets/new.png)  
-- [2022-02-19-推荐-真香啊！接私活必备的-N-个开源项目（附源码合集第一期）！收藏走起！](https://toutiao.io/k/he7umju) ![](assets/new.png)  
-- [2022-02-19-推荐-Go-原生并发原语和最佳实践](https://toutiao.io/k/rdpao5x) ![](assets/new.png)  
-- [2022-02-19-推荐-神器-Nginx-的学习手册-建议收藏-](https://toutiao.io/k/6f1qaso) ![](assets/new.png)  
+- [2022-02-19-推荐-轻松搞懂5种IO模型](https://toutiao.io/k/o77uhyt) ![](assets/new.png)  
 - [2022-02-19-推荐-你分库分表的姿势对么？——详谈水平分库分表](https://toutiao.io/k/eteqw6s) ![](assets/new.png)  
-- [2022-02-19-推荐-如何撰写好技术方案设计-真实案例干货分享](https://toutiao.io/k/t1d9x3b) ![](assets/new.png)  
-- [2022-02-19-推荐-什么人能成为Leader，大Leader该做什么](https://toutiao.io/k/pnlaqae) ![](assets/new.png)  
+- [2022-02-19-推荐-支付系统架构设计详解](https://toutiao.io/k/5tx1zgw) ![](assets/new.png)  
 - [2022-02-19-推荐-微服务通信设计模式](https://toutiao.io/k/mp88imm) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

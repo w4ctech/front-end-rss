@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-19 06:15:21，:rocket: 更新条数: +1920， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-19 06:43:08，:rocket: 更新条数: +1923， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -66,12 +66,15 @@
 
 
 - [2022-02-19-2月18日全国新增新冠137例-六省份本土80例](https://m.caixin.com/m/2022-02-19/101844144.html) ![](assets/new.png)  
+- [2022-02-19-内蒙古三市现新冠疫情-累计本土确诊病例78例](https://m.caixin.com/m/2022-02-19/101844249.html) ![](assets/new.png)  
+- [2022-02-19-多部门发文禁止突破防疫规定封城封区-加大对工业服务业减税力度](https://economy.caixin.com/m/2022-02-19/101844153.html) ![](assets/new.png)  
+- [2022-02-19-广东破获偷渡案7起-各地悬红奖励线索](https://m.caixin.com/m/2022-02-19/101844232.html) ![](assets/new.png)  
 - [2022-02-19-韩国单日病例超10万-美国将延长国家紧急状态｜大流行手记（2月18日）](https://m.caixin.com/m/2022-02-19/101844164.html) ![](assets/new.png)  
 - [2022-02-18-香港特首选举押后至5月8日举行-内地援港持续推进专注抗疫](https://m.caixin.com/m/2022-02-18/101844003.html) ![](assets/new.png)  
-- [2022-02-18-中国拟启动新冠疫苗加强针“混打”方案-智飞和康希诺入选](https://m.caixin.com/m/2022-02-18/101843656.html) ![](assets/new.png)  
 - [2022-02-18-内地男子从香港非法入境于上海确诊-珠海日前抓获10人偷渡团伙](https://m.caixin.com/m/2022-02-18/101843644.html) ![](assets/new.png)  
 - [2022-02-18-【境内疫情观察】内蒙古新增22例本土病例（2月17日）](https://database.caixin.com/m/2022-02-18/101843835.html) ![](assets/new.png)  
 - [2022-02-18-世卫建议缩短隔离期以应对感染激增-多国逐步放松限制｜大流行手记（2月17日）](https://m.caixin.com/m/2022-02-18/101843635.html) ![](assets/new.png)  
+- [2022-02-18-中国拟启动新冠疫苗加强针“混打”方案-智飞和康希诺入选](https://m.caixin.com/m/2022-02-18/101843656.html) ![](assets/new.png)  
 - [2022-02-18-日本将自3月起逐步开放边境-允许留学生和商务人士等入境](https://international.caixin.com/m/2022-02-18/101843648.html) ![](assets/new.png)  
 - [2022-02-17-最新海外疫情：新冠感染超4.16亿-累计接种新冠疫苗超103.65亿剂次](https://m.caixin.com/m/2022-02-17/101843220.html) ![](assets/new.png)  
 - [2022-02-17-苏州累计新冠感染61例-全市诊所、门诊部停诊](https://m.caixin.com/m/2022-02-17/101843426.html) ![](assets/new.png)  
@@ -82,9 +85,6 @@
 - [2022-02-17-国内第二款新冠疫苗公布“混打”数据：绝对保护力为61.35%](https://m.caixin.com/m/2022-02-17/101843111.html) ![](assets/new.png)  
 - [2022-02-17-加拿大卡车司机组织反疫苗堵路示威-特鲁多动用重法欲强力解决](https://international.caixin.com/m/2022-02-17/101843350.html) ![](assets/new.png)  
 - [2022-02-17-新加坡进一步解封-重启疫苗接种者旅游通道](https://m.caixin.com/m/2022-02-17/101843099.html) ![](assets/new.png)  
-- [2022-02-17-【图集】香港新增新冠确诊病例4285例-再达单日新高](https://photos.caixin.com/m/2022-02-17/101843012.html) ![](assets/new.png)  
-- [2022-02-16-苏州三日累计42例阳性-强化交通出行管控](https://m.caixin.com/m/2022-02-16/101842843.html) ![](assets/new.png)  
-- [2022-02-16-湖南郴州确诊病例系由香港偷渡珠海-警方立案侦查](https://m.caixin.com/m/2022-02-16/101842758.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -491,6 +491,10 @@
 </summary>
 
 
+- [2022-02-19-运动健身类的-app，哪个好用点？（主要是跟着视频做动作的那种）](https://www.v2ex.com/t/835029) ![](assets/new.png)  
+- [2022-02-19-Youtube-印度车，还有一个位置](https://www.v2ex.com/t/835028) ![](assets/new.png)  
+- [2022-02-19-简历花了，还有救嘛](https://www.v2ex.com/t/835027) ![](assets/new.png)  
+- [2022-02-19-北京社招-AWS-中国区-招聘信息更新](https://www.v2ex.com/t/835026) ![](assets/new.png)  
 - [2022-02-19-2021-年-我的万元阅读书单与推荐-第二篇](https://www.v2ex.com/t/835025) ![](assets/new.png)  
 - [2022-02-19-人人搭建自己的白名单搜索引擎](https://www.v2ex.com/t/835024) ![](assets/new.png)  
 - [2022-02-19-分享个批量压缩照片（以保存）shell。那么，有无能像-squoosh-那样可以即时对比压缩前后效果（批量）的软件？](https://www.v2ex.com/t/835023) ![](assets/new.png)  
@@ -507,10 +511,6 @@
 - [2022-02-19-有没有可以使用服务器内存的迷你主机？](https://www.v2ex.com/t/835003) ![](assets/new.png)  
 - [2022-02-19-阿里旺旺-Windows-版是不打算继续维护了吗？](https://www.v2ex.com/t/835002) ![](assets/new.png)  
 - [2022-02-19-使用-vue-框架，刷新界面的时候请求-401，不知道啥原因](https://www.v2ex.com/t/835001) ![](assets/new.png)  
-- [2022-02-19-170-一年升级宽带到-500mb](https://www.v2ex.com/t/835000) ![](assets/new.png)  
-- [2022-02-19-最近又可以领微信大额提现券了](https://www.v2ex.com/t/834998) ![](assets/new.png)  
-- [2022-02-19-Provider-API-的-Onedrive-有无办法下载一个文件夹中的内容到本地](https://www.v2ex.com/t/834996) ![](assets/new.png)  
-- [2022-02-19-推导-Y-组合子的意义是什么？](https://www.v2ex.com/t/834995) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -563,16 +563,16 @@
 - [2022-02-19-体验-http3:-基于-nginx-quic-分支](https://toutiao.io/k/ifzpvze) ![](assets/new.png)  
 - [2022-02-19-Spring-Boot-+-EasyExcel-导入导出，好用到爆，可以扔掉-POI-了！](https://toutiao.io/k/1g4x7ts) ![](assets/new.png)  
 - [2022-02-19-快手徐波：元数据的建设与分析是数据治理未来的不可或缺的一环](https://toutiao.io/k/u7tf08v) ![](assets/new.png)  
-- [2022-02-19-推荐-轻松搞懂5种IO模型](https://toutiao.io/k/o77uhyt) ![](assets/new.png)  
-- [2022-02-19-推荐-你分库分表的姿势对么？——详谈水平分库分表](https://toutiao.io/k/eteqw6s) ![](assets/new.png)  
-- [2022-02-19-推荐-如何撰写好技术方案设计-真实案例干货分享](https://toutiao.io/k/t1d9x3b) ![](assets/new.png)  
-- [2022-02-19-推荐-支付系统架构设计详解](https://toutiao.io/k/5tx1zgw) ![](assets/new.png)  
 - [2022-02-19-推荐-真香啊！接私活必备的-N-个开源项目（附源码合集第一期）！收藏走起！](https://toutiao.io/k/he7umju) ![](assets/new.png)  
-- [2022-02-19-推荐-微服务通信设计模式](https://toutiao.io/k/mp88imm) ![](assets/new.png)  
-- [2022-02-19-推荐-我做基础架构学到的42件事](https://toutiao.io/k/k6tjws1) ![](assets/new.png)  
-- [2022-02-19-推荐-如何撰写好的技术方案设计-真实案例干货分享](https://toutiao.io/k/0f5fv4t) ![](assets/new.png)  
-- [2022-02-19-推荐-Go-原生并发原语和最佳实践](https://toutiao.io/k/rdpao5x) ![](assets/new.png)  
 - [2022-02-19-推荐-神器-Nginx-的学习手册-建议收藏-](https://toutiao.io/k/6f1qaso) ![](assets/new.png)  
+- [2022-02-19-推荐-支付系统架构设计详解](https://toutiao.io/k/5tx1zgw) ![](assets/new.png)  
+- [2022-02-19-推荐-什么人能成为Leader，大Leader该做什么](https://toutiao.io/k/pnlaqae) ![](assets/new.png)  
+- [2022-02-19-推荐-我做基础架构学到的42件事](https://toutiao.io/k/k6tjws1) ![](assets/new.png)  
+- [2022-02-19-推荐-微服务通信设计模式](https://toutiao.io/k/mp88imm) ![](assets/new.png)  
+- [2022-02-19-推荐-轻松搞懂5种IO模型](https://toutiao.io/k/o77uhyt) ![](assets/new.png)  
+- [2022-02-19-推荐-Go-原生并发原语和最佳实践](https://toutiao.io/k/rdpao5x) ![](assets/new.png)  
+- [2022-02-19-推荐-如何撰写好的技术方案设计-真实案例干货分享](https://toutiao.io/k/0f5fv4t) ![](assets/new.png)  
+- [2022-02-19-推荐-你分库分表的姿势对么？——详谈水平分库分表](https://toutiao.io/k/eteqw6s) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

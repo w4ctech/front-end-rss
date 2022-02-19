@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-02-19 08:14:40。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-19 08:40:01。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
@@ -38,4 +38,3 @@
 - [2022-02-19-Fred's-ImageMagick-Scripts](https://www.v2ex.com/t/835006) 
 - [2022-02-19-msi-安装包（Microsoft-Installer）提示必须从-setup.exe-运行才能正常安装，如何跳过这个限制？](https://www.v2ex.com/t/835005) 
 - [2022-02-19-有没有可以使用服务器内存的迷你主机？](https://www.v2ex.com/t/835003) 
-- [2022-02-19-阿里旺旺-Windows-版是不打算继续维护了吗？](https://www.v2ex.com/t/835002) 

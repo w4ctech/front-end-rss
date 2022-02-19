@@ -1,10 +1,13 @@
-:alarm_clock: 更新时间: 2022-02-19 05:12:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-19 05:36:00。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-02-19-深圳非远程-Python-开发工程师-30-60w-AI-公司](https://www.v2ex.com/t/835012) 
+- [2022-02-19-Windows-Server-2022-文件共享会损坏文件？](https://www.v2ex.com/t/835011) 
+- [2022-02-19-巨人的两个感想](https://www.v2ex.com/t/835010) 
 - [2022-02-19-Snell-协议-GG-了](https://www.v2ex.com/t/835007) 
 - [2022-02-19-Fred's-ImageMagick-Scripts](https://www.v2ex.com/t/835006) 
 - [2022-02-19-msi-安装包（Microsoft-Installer）提示必须从-setup.exe-运行才能正常安装，如何跳过这个限制？](https://www.v2ex.com/t/835005) 
@@ -41,6 +44,3 @@
 - [2022-02-19-ios-15.3.1-消息摘要，一段时间就会出现-N-天前的过时消息](https://www.v2ex.com/t/834966) 
 - [2022-02-19-悲报，某丁代理-Microsoft-365-了。不想给引流，就不放链接了](https://www.v2ex.com/t/834964) 
 - [2022-02-19-V2EXer-的图床使用情况的不保真统计](https://www.v2ex.com/t/834963) 
-- [2022-02-19-是不是在梦里时，脑子发现自己编不下去了就会把人给弄醒？](https://www.v2ex.com/t/834962) 
-- [2022-02-19-v2-可以看最新发的帖子而不是最新回复的吗](https://www.v2ex.com/t/834961) 
-- [2022-02-19-某站看到一个算法，合理吗](https://www.v2ex.com/t/834960) 

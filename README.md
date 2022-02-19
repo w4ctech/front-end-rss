@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-19 02:51:26，:rocket: 更新条数: +1914， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-19 03:13:31，:rocket: 更新条数: +1916， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,12 @@
 </summary>
 
 
+- [2022-02-19-Apple-官网购物退货的一些疑问](https://www.v2ex.com/t/834982) ![](assets/new.png)  
+- [2022-02-19-关于坚持自律的一种想法](https://www.v2ex.com/t/834981) ![](assets/new.png)  
+- [2022-02-19-有人使用我的域名发送垃圾邮件](https://www.v2ex.com/t/834980) ![](assets/new.png)  
+- [2022-02-19-远程-中国首个进入谷歌-GSoC-的开源项目：-Casbin，-2022-年预选生招募！](https://www.v2ex.com/t/834979) ![](assets/new.png)  
+- [2022-02-19-有没有类似百度首页网址导航的开源个人用导航系统？](https://www.v2ex.com/t/834978) ![](assets/new.png)  
+- [2022-02-19-做一个实时的律师支援平台如何？](https://www.v2ex.com/t/834977) ![](assets/new.png)  
 - [2022-02-19-微博-iOS-端的存图漏图问题](https://www.v2ex.com/t/834976) ![](assets/new.png)  
 - [2022-02-19-近期-iPhone-上的-Gmail-未读数总是延迟严重](https://www.v2ex.com/t/834975) ![](assets/new.png)  
 - [2022-02-19-想请问一下为什么我新发的贴子排到了五页之后](https://www.v2ex.com/t/834973) ![](assets/new.png)  
@@ -505,12 +511,6 @@
 - [2022-02-19-某站看到一个算法，合理吗](https://www.v2ex.com/t/834960) ![](assets/new.png)  
 - [2022-02-18-国外远程区块链双语-GameFi-项目全球招聘区块链/合约工程师](https://www.v2ex.com/t/834958) ![](assets/new.png)  
 - [2022-02-18-外婆不识字，想在她有生之年让她口述转文字，写些回忆录，有好的方案么？](https://www.v2ex.com/t/834957) ![](assets/new.png)  
-- [2022-02-18-iwatch7-和-switch-oled-哪个更合适？](https://www.v2ex.com/t/834956) ![](assets/new.png)  
-- [2022-02-18-有啥好的埋点工具-能统计网站行为点击吗](https://www.v2ex.com/t/834955) ![](assets/new.png)  
-- [2022-02-18-求推荐一个床头阅读灯。](https://www.v2ex.com/t/834952) ![](assets/new.png)  
-- [2022-02-18-20220219-午夜俱乐部](https://www.v2ex.com/t/834951) ![](assets/new.png)  
-- [2022-02-18-请问现在-AI-在与人对话方面是什么水平？](https://www.v2ex.com/t/834950) ![](assets/new.png)  
-- [2022-02-18-iPjone-的短信同步，需要多久才会同步到另一台手机上？](https://www.v2ex.com/t/834949) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -561,17 +561,17 @@
 - [2022-02-19-这-6-个开源项目很-Cool](https://toutiao.io/k/7kdj29e) ![](assets/new.png)  
 - [2022-02-19-系统重构数据同步利器之Canal实战篇](https://toutiao.io/k/kwfs5x7) ![](assets/new.png)  
 - [2022-02-19-体验-http3:-基于-nginx-quic-分支](https://toutiao.io/k/ifzpvze) ![](assets/new.png)  
-- [2022-02-19-推荐-什么人能成为Leader，大Leader该做什么](https://toutiao.io/k/pnlaqae) ![](assets/new.png)  
-- [2022-02-19-推荐-真香啊！接私活必备的-N-个开源项目（附源码合集第一期）！收藏走起！](https://toutiao.io/k/he7umju) ![](assets/new.png)  
-- [2022-02-19-推荐-如何撰写好技术方案设计-真实案例干货分享](https://toutiao.io/k/t1d9x3b) ![](assets/new.png)  
-- [2022-02-19-推荐-我做基础架构学到的42件事](https://toutiao.io/k/k6tjws1) ![](assets/new.png)  
-- [2022-02-19-推荐-轻松搞懂5种IO模型](https://toutiao.io/k/o77uhyt) ![](assets/new.png)  
-- [2022-02-19-推荐-神器-Nginx-的学习手册-建议收藏-](https://toutiao.io/k/6f1qaso) ![](assets/new.png)  
-- [2022-02-19-推荐-微服务通信设计模式](https://toutiao.io/k/mp88imm) ![](assets/new.png)  
-- [2022-02-19-推荐-支付系统架构设计详解](https://toutiao.io/k/5tx1zgw) ![](assets/new.png)  
 - [2022-02-19-推荐-你分库分表的姿势对么？——详谈水平分库分表](https://toutiao.io/k/eteqw6s) ![](assets/new.png)  
-- [2022-02-19-推荐-如何撰写好的技术方案设计-真实案例干货分享](https://toutiao.io/k/0f5fv4t) ![](assets/new.png)  
+- [2022-02-19-推荐-神器-Nginx-的学习手册-建议收藏-](https://toutiao.io/k/6f1qaso) ![](assets/new.png)  
+- [2022-02-19-推荐-我做基础架构学到的42件事](https://toutiao.io/k/k6tjws1) ![](assets/new.png)  
 - [2022-02-19-推荐-Go-原生并发原语和最佳实践](https://toutiao.io/k/rdpao5x) ![](assets/new.png)  
+- [2022-02-19-推荐-如何撰写好技术方案设计-真实案例干货分享](https://toutiao.io/k/t1d9x3b) ![](assets/new.png)  
+- [2022-02-19-推荐-微服务通信设计模式](https://toutiao.io/k/mp88imm) ![](assets/new.png)  
+- [2022-02-19-推荐-如何撰写好的技术方案设计-真实案例干货分享](https://toutiao.io/k/0f5fv4t) ![](assets/new.png)  
+- [2022-02-19-推荐-真香啊！接私活必备的-N-个开源项目（附源码合集第一期）！收藏走起！](https://toutiao.io/k/he7umju) ![](assets/new.png)  
+- [2022-02-19-推荐-什么人能成为Leader，大Leader该做什么](https://toutiao.io/k/pnlaqae) ![](assets/new.png)  
+- [2022-02-19-推荐-支付系统架构设计详解](https://toutiao.io/k/5tx1zgw) ![](assets/new.png)  
+- [2022-02-19-推荐-轻松搞懂5种IO模型](https://toutiao.io/k/o77uhyt) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

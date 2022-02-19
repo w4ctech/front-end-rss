@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-19 05:36:00，:rocket: 更新条数: +1919， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-19 06:15:21，:rocket: 更新条数: +1920， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,13 @@
 </summary>
 
 
+- [2022-02-19-2021-年-我的万元阅读书单与推荐-第二篇](https://www.v2ex.com/t/835025) ![](assets/new.png)  
+- [2022-02-19-人人搭建自己的白名单搜索引擎](https://www.v2ex.com/t/835024) ![](assets/new.png)  
+- [2022-02-19-分享个批量压缩照片（以保存）shell。那么，有无能像-squoosh-那样可以即时对比压缩前后效果（批量）的软件？](https://www.v2ex.com/t/835023) ![](assets/new.png)  
+- [2022-02-19-每天面对的都是电脑，工作、学习、娱乐都是面对电脑，有什么离开了电脑也可以做的事？](https://www.v2ex.com/t/835022) ![](assets/new.png)  
+- [2022-02-19-M1-MAX-低配有人要吗？没拆封。32+32+1T](https://www.v2ex.com/t/835018) ![](assets/new.png)  
+- [2022-02-19-广州硅谷大厂-Salesforce-后端开发/产品经理招聘](https://www.v2ex.com/t/835016) ![](assets/new.png)  
+- [2022-02-19-机场安检要把电脑从内胆包里拿出来吗](https://www.v2ex.com/t/835013) ![](assets/new.png)  
 - [2022-02-19-深圳非远程-Python-开发工程师-30-60w-AI-公司](https://www.v2ex.com/t/835012) ![](assets/new.png)  
 - [2022-02-19-Windows-Server-2022-文件共享会损坏文件？](https://www.v2ex.com/t/835011) ![](assets/new.png)  
 - [2022-02-19-巨人的两个感想](https://www.v2ex.com/t/835010) ![](assets/new.png)  
@@ -504,13 +511,6 @@
 - [2022-02-19-最近又可以领微信大额提现券了](https://www.v2ex.com/t/834998) ![](assets/new.png)  
 - [2022-02-19-Provider-API-的-Onedrive-有无办法下载一个文件夹中的内容到本地](https://www.v2ex.com/t/834996) ![](assets/new.png)  
 - [2022-02-19-推导-Y-组合子的意义是什么？](https://www.v2ex.com/t/834995) ![](assets/new.png)  
-- [2022-02-19-有了解-skyguard-endpoint-的么？](https://www.v2ex.com/t/834994) ![](assets/new.png)  
-- [2022-02-19-成都电信-iptv-认证超时](https://www.v2ex.com/t/834992) ![](assets/new.png)  
-- [2022-02-19-求助：苹果电脑-系统声音-如何立即下载？](https://www.v2ex.com/t/834991) ![](assets/new.png)  
-- [2022-02-19-WH-1000XM3-快挂了，求推荐一款耳机](https://www.v2ex.com/t/834990) ![](assets/new.png)  
-- [2022-02-19-Hacki---用-Flutter-写的-Hacker-News-客户端](https://www.v2ex.com/t/834989) ![](assets/new.png)  
-- [2022-02-19-怎么抢注要过期的域名？](https://www.v2ex.com/t/834988) ![](assets/new.png)  
-- [2022-02-19-我的客制化键盘初体验](https://www.v2ex.com/t/834987) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -561,17 +561,18 @@
 - [2022-02-19-138-python|第八部分：并发网络编程（三）多任务编程上--进程](https://toutiao.io/k/2z3c7um) ![](assets/new.png)  
 - [2022-02-19-“大学生如创业失败，贷款10万以下由政府代偿”非新政；理想汽车CTO王凯将离职；红杉资本推出数字加密货币专项基金｜开发者头条](https://toutiao.io/k/k58mum8) ![](assets/new.png)  
 - [2022-02-19-体验-http3:-基于-nginx-quic-分支](https://toutiao.io/k/ifzpvze) ![](assets/new.png)  
-- [2022-02-19-推荐-支付系统架构设计详解](https://toutiao.io/k/5tx1zgw) ![](assets/new.png)  
-- [2022-02-19-推荐-我做基础架构学到的42件事](https://toutiao.io/k/k6tjws1) ![](assets/new.png)  
-- [2022-02-19-推荐-什么人能成为Leader，大Leader该做什么](https://toutiao.io/k/pnlaqae) ![](assets/new.png)  
+- [2022-02-19-Spring-Boot-+-EasyExcel-导入导出，好用到爆，可以扔掉-POI-了！](https://toutiao.io/k/1g4x7ts) ![](assets/new.png)  
+- [2022-02-19-快手徐波：元数据的建设与分析是数据治理未来的不可或缺的一环](https://toutiao.io/k/u7tf08v) ![](assets/new.png)  
+- [2022-02-19-推荐-轻松搞懂5种IO模型](https://toutiao.io/k/o77uhyt) ![](assets/new.png)  
 - [2022-02-19-推荐-你分库分表的姿势对么？——详谈水平分库分表](https://toutiao.io/k/eteqw6s) ![](assets/new.png)  
+- [2022-02-19-推荐-如何撰写好技术方案设计-真实案例干货分享](https://toutiao.io/k/t1d9x3b) ![](assets/new.png)  
+- [2022-02-19-推荐-支付系统架构设计详解](https://toutiao.io/k/5tx1zgw) ![](assets/new.png)  
+- [2022-02-19-推荐-真香啊！接私活必备的-N-个开源项目（附源码合集第一期）！收藏走起！](https://toutiao.io/k/he7umju) ![](assets/new.png)  
+- [2022-02-19-推荐-微服务通信设计模式](https://toutiao.io/k/mp88imm) ![](assets/new.png)  
+- [2022-02-19-推荐-我做基础架构学到的42件事](https://toutiao.io/k/k6tjws1) ![](assets/new.png)  
 - [2022-02-19-推荐-如何撰写好的技术方案设计-真实案例干货分享](https://toutiao.io/k/0f5fv4t) ![](assets/new.png)  
 - [2022-02-19-推荐-Go-原生并发原语和最佳实践](https://toutiao.io/k/rdpao5x) ![](assets/new.png)  
-- [2022-02-19-推荐-微服务通信设计模式](https://toutiao.io/k/mp88imm) ![](assets/new.png)  
-- [2022-02-19-推荐-轻松搞懂5种IO模型](https://toutiao.io/k/o77uhyt) ![](assets/new.png)  
 - [2022-02-19-推荐-神器-Nginx-的学习手册-建议收藏-](https://toutiao.io/k/6f1qaso) ![](assets/new.png)  
-- [2022-02-19-推荐-如何撰写好技术方案设计-真实案例干货分享](https://toutiao.io/k/t1d9x3b) ![](assets/new.png)  
-- [2022-02-19-推荐-真香啊！接私活必备的-N-个开源项目（附源码合集第一期）！收藏走起！](https://toutiao.io/k/he7umju) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,10 +1,14 @@
-:alarm_clock: 更新时间: 2022-02-19 09:13:43。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-19 09:37:29。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-02-19-为何有的有的-ocr-平台会被抓有的不会？](https://www.v2ex.com/t/835060) 
+- [2022-02-19-北京联通的沃派校园套餐-48-元合约无法续费了吗？有没有北京联通别的套餐推荐](https://www.v2ex.com/t/835059) 
+- [2022-02-19-升级-Windows-11-后，原有的-windows.old-丢失了...](https://www.v2ex.com/t/835058) 
+- [2022-02-19-生活小感-220219](https://www.v2ex.com/t/835057) 
 - [2022-02-19-多线程的一点问题](https://www.v2ex.com/t/835055) 
 - [2022-02-19-输入法（拼音）会把输入内容上传到云端吗？如果会的话，有什么办法可以防止输入法把输入内容上传到云端吗？](https://www.v2ex.com/t/835053) 
 - [2022-02-19-深圳Amber-Group-前端开发工程师-20k-50k·18-薪](https://www.v2ex.com/t/835050) 
@@ -35,6 +39,3 @@
 - [2022-02-19-机场安检要把电脑从内胆包里拿出来吗](https://www.v2ex.com/t/835013) 
 - [2022-02-19-深圳非远程-Python-开发工程师-30-60w-AI-公司](https://www.v2ex.com/t/835012) 
 - [2022-02-19-Windows-Server-2022-文件共享会损坏文件？](https://www.v2ex.com/t/835011) 
-- [2022-02-19-巨人的两个感想](https://www.v2ex.com/t/835010) 
-- [2022-02-19-Snell-协议-GG-了](https://www.v2ex.com/t/835007) 
-- [2022-02-19-Fred's-ImageMagick-Scripts](https://www.v2ex.com/t/835006) 

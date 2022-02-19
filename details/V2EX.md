@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-02-19 12:18:42。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-19 12:52:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
@@ -37,4 +37,3 @@
 - [2022-02-19-windows-软件防截屏？](https://www.v2ex.com/t/835037) 
 - [2022-02-19-从-Google-账户中删除了-YouTube-服务还有方法可以恢复吗？](https://www.v2ex.com/t/835036) 
 - [2022-02-19-求一个好用的内衣内裤洗衣机](https://www.v2ex.com/t/835035) 
-- [2022-02-19-关于个人心态的讨论](https://www.v2ex.com/t/835034) 

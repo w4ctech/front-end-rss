@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-20 06:14:49，:rocket: 更新条数: +1920， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-20 06:43:32，:rocket: 更新条数: +1921， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,10 @@
 </summary>
 
 
+- [2022-02-20-群晖-NAS-总是掉盘并异常关机,-原来如此!](https://www.v2ex.com/t/835197) ![](assets/new.png)  
+- [2022-02-20-Xshell7-0098-版本无-tab-页限制](https://www.v2ex.com/t/835196) ![](assets/new.png)  
+- [2022-02-20-iOS：如何自动砸壳](https://www.v2ex.com/t/835194) ![](assets/new.png)  
+- [2022-02-20-Pixel-4-换机为何无法迁移程序数据](https://www.v2ex.com/t/835193) ![](assets/new.png)  
 - [2022-02-20-PPT（mac-版）导出的-PDF，用-Adobe-Illustrator-打开文字乱码该如何解决？](https://www.v2ex.com/t/835191) ![](assets/new.png)  
 - [2022-02-20-WSL2-nameserver-的冲突问题](https://www.v2ex.com/t/835190) ![](assets/new.png)  
 - [2022-02-20-年关已过，骚扰已来](https://www.v2ex.com/t/835189) ![](assets/new.png)  
@@ -498,7 +502,6 @@
 - [2022-02-20-电脑点不亮了，是出掉换新还是找地方修好呢？](https://www.v2ex.com/t/835187) ![](assets/new.png)  
 - [2022-02-20-用纯-Python-写了个简单的检测空气质量显示在状态栏的-MacOS-应用，可以自行打包.app-拖进应用文件夹。我自己用了两天，没啥大-bug，开发着玩的，勿喷](https://www.v2ex.com/t/835186) ![](assets/new.png)  
 - [2022-02-20-头疼，孩子不聪明怎么办……](https://www.v2ex.com/t/835185) ![](assets/new.png)  
-- [2022-02-20-65-收京东-plus](https://www.v2ex.com/t/835183) ![](assets/new.png)  
 - [2022-02-20-关于入职体检问题的一些问题](https://www.v2ex.com/t/835182) ![](assets/new.png)  
 - [2022-02-20-求助-同一个局域网下，其他电脑都正常，唯独一台电脑-OneDrive-无法登录](https://www.v2ex.com/t/835181) ![](assets/new.png)  
 - [2022-02-20-补充医疗险以及重疾险推荐](https://www.v2ex.com/t/835178) ![](assets/new.png)  
@@ -508,9 +511,6 @@
 - [2022-02-20-纯亮机卡配-4k-屏不容易啊，找到个有-dp-口的结果还是不行](https://www.v2ex.com/t/835169) ![](assets/new.png)  
 - [2022-02-20-求推荐-MacBook-电池](https://www.v2ex.com/t/835168) ![](assets/new.png)  
 - [2022-02-20-M1Craft](https://www.v2ex.com/t/835167) ![](assets/new.png)  
-- [2022-02-20-虾皮内推，内推码-NTAG0Ii-或者私聊看岗位-shopee-，-深圳、上海、北京都有岗位。](https://www.v2ex.com/t/835165) ![](assets/new.png)  
-- [2022-02-20-请推荐一个-IOS-下每-15-分钟提醒一下的闹钟，最好可以提醒后可以记录文本的那种](https://www.v2ex.com/t/835163) ![](assets/new.png)  
-- [2022-02-20-和几位道友利用摸鱼时间做了一个宠物-pk](https://www.v2ex.com/t/835162) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -563,16 +563,16 @@
 - [2022-02-20-20张图助你了解JVM运行时数据区，你还觉得枯燥吗？](https://toutiao.io/k/6hsbqkc) ![](assets/new.png)  
 - [2022-02-20-浅谈SQL执行计划优化（GBase8s篇）](https://toutiao.io/k/e6syyx5) ![](assets/new.png)  
 - [2022-02-20-如何获取List<String>中的String？](https://toutiao.io/k/mtdk47v) ![](assets/new.png)  
-- [2022-02-20-推荐-微服务通信设计模式](https://toutiao.io/k/mp88imm) ![](assets/new.png)  
-- [2022-02-20-推荐-如何撰写好技术方案设计-真实案例干货分享](https://toutiao.io/k/t1d9x3b) ![](assets/new.png)  
+- [2022-02-20-推荐-轻松搞懂5种IO模型](https://toutiao.io/k/o77uhyt) ![](assets/new.png)  
+- [2022-02-20-推荐-我做基础架构学到的42件事](https://toutiao.io/k/k6tjws1) ![](assets/new.png)  
+- [2022-02-20-推荐-真香啊！接私活必备的-N-个开源项目（附源码合集第一期）！收藏走起！](https://toutiao.io/k/he7umju) ![](assets/new.png)  
 - [2022-02-20-推荐-如何撰写好的技术方案设计-真实案例干货分享](https://toutiao.io/k/0f5fv4t) ![](assets/new.png)  
 - [2022-02-20-推荐-支付系统架构设计详解](https://toutiao.io/k/5tx1zgw) ![](assets/new.png)  
 - [2022-02-20-推荐-神器-Nginx-的学习手册-建议收藏-](https://toutiao.io/k/6f1qaso) ![](assets/new.png)  
-- [2022-02-20-推荐-真香啊！接私活必备的-N-个开源项目（附源码合集第一期）！收藏走起！](https://toutiao.io/k/he7umju) ![](assets/new.png)  
-- [2022-02-20-推荐-什么人能成为Leader，大Leader该做什么](https://toutiao.io/k/pnlaqae) ![](assets/new.png)  
-- [2022-02-20-推荐-我做基础架构学到的42件事](https://toutiao.io/k/k6tjws1) ![](assets/new.png)  
-- [2022-02-20-推荐-Go-原生并发原语和最佳实践](https://toutiao.io/k/rdpao5x) ![](assets/new.png)  
 - [2022-02-20-推荐-你分库分表的姿势对么？——详谈水平分库分表](https://toutiao.io/k/eteqw6s) ![](assets/new.png)  
+- [2022-02-20-推荐-什么人能成为Leader，大Leader该做什么](https://toutiao.io/k/pnlaqae) ![](assets/new.png)  
+- [2022-02-20-推荐-微服务通信设计模式](https://toutiao.io/k/mp88imm) ![](assets/new.png)  
+- [2022-02-20-推荐-如何撰写好技术方案设计-真实案例干货分享](https://toutiao.io/k/t1d9x3b) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

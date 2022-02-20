@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-02-20 13:35:52。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-20 14:12:13。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -183,6 +183,7 @@
 - [【张鑫旭-鑫空间-鑫生活】深入JS-getRandomValues和Math.random方法](https://www.zhangxinxu.com/wordpress/2021/12/js-getrandomvalue-math-random/)
 - [【张鑫旭-鑫空间-鑫生活】flex-end为什么overflow无法滚动及解决方法](https://www.zhangxinxu.com/wordpress/2021/12/flex-end-overflow/)
 - [【张鑫旭-鑫空间-鑫生活】从js-visibilitychange-Safari下无效说开去](https://www.zhangxinxu.com/wordpress/2021/11/js-visibilitychange-pagehide-lifecycle/)
+- [【V2EX】路由器-OpenWRT-可以一边桥接一边设置代理吗](https://www.v2ex.com/t/835262)
 - [【V2EX】分享一个前端在线代码编辑器-JS-Encoder](https://www.v2ex.com/t/835237)
 - [......【查看更多】......](./details/tags/javascript.md)
 
@@ -238,7 +239,8 @@
 
 - [【武汉肺炎防疫全纪录(财新网)】广州17岁男生在定点医院参加高考-特殊考场视频监考](https://m.caixin.com/m/2021-06-05/101723418.html)
 - [【武汉肺炎防疫全纪录(财新网)】林郑月娥率13高官直播接种科兴疫苗-复星疫苗预计周中到港](https://m.caixin.com/m/2021-02-22/101665724.html)
-- [【V2EX】samba-服务上的同一个视频为什么有不同的-MD5？](https://www.v2ex.com/t/835215)
+- [【V2EX】有没有可以基于端设备创建影音资料库的播放器呢？](https://www.v2ex.com/t/835268)
+- [【V2EX】youtube-所有-olympics-频道下的视频都显示-video-unavailable](https://www.v2ex.com/t/835266)
 - [......【查看更多】......](./details/tags/audio-video.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -280,6 +282,7 @@
 - [【武汉肺炎防疫全纪录(财新网)】腺病毒新冠疫苗引安全忧虑-康希诺称未发现血栓病例](https://m.caixin.com/m/2021-04-14/101691086.html)
 - [【武汉肺炎防疫全纪录(财新网)】解药|新冠mRNA疫苗安全性有哪些挑战？](https://m.caixin.com/m/2021-01-08/101648043.html)
 - [【武汉肺炎防疫全纪录(财新网)】大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html)
+- [【V2EX】一个算法题，请求哪位大佬指教](https://www.v2ex.com/t/835261)
 - [【V2EX】在路上看到一排这样的-poster，有老哥知道是什么玩意吗，行为艺术？](https://www.v2ex.com/t/835224)
 - [【V2EX】无框架的纯-servlet-项目，配置应该写在-web.xml-里还是-application.properties-里？](https://www.v2ex.com/t/835219)
 - [【技术头条】再见，收费的Teamviewer！！！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14949&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493389%26amp%3Bidx%3D1%26amp%3Bsn%3D978ce04acd53a4a22494d0f55c740b35%26amp%3Bchksm%3Dfa3f0656cd488f40f1c5b506b10237a45806e6624d1646f8bac19084dedc385e200de1a4e489%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)

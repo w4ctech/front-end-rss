@@ -1,14 +1,18 @@
-:alarm_clock: 更新时间: 2022-02-20 04:46:29。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-20 05:12:02。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-02-20-用纯-Python-写了个简单的检测空气质量显示在状态栏的-MacOS-应用，可以自行打包.app-拖进应用文件夹。我自己用了两天，没啥大-bug，开发着玩的，勿喷](https://www.v2ex.com/t/835186) 
+- [2022-02-20-头疼，孩子不聪明怎么办……](https://www.v2ex.com/t/835185) 
+- [2022-02-20-65-收京东-plus](https://www.v2ex.com/t/835183) 
+- [2022-02-20-关于入职体检问题的一些问题](https://www.v2ex.com/t/835182) 
+- [2022-02-20-求助-同一个局域网下，其他电脑都正常，唯独一台电脑-OneDrive-无法登录](https://www.v2ex.com/t/835181) 
 - [2022-02-20-补充医疗险以及重疾险推荐](https://www.v2ex.com/t/835178) 
 - [2022-02-20-iPhone-摔得稀碎后如何恢复数据？](https://www.v2ex.com/t/835177) 
 - [2022-02-20-The-Cuphead-Show](https://www.v2ex.com/t/835175) 
-- [2022-02-20-apple-music-+icliud-组队上车存储+音乐；年付-72](https://www.v2ex.com/t/835173) 
 - [2022-02-20-北京-移动出海游戏公司-社招-2022-春招--Unity-游戏开发工程师/高级工程师/主程](https://www.v2ex.com/t/835171) 
 - [2022-02-20-纯亮机卡配-4k-屏不容易啊，找到个有-dp-口的结果还是不行](https://www.v2ex.com/t/835169) 
 - [2022-02-20-求推荐-MacBook-电池](https://www.v2ex.com/t/835168) 
@@ -34,8 +38,3 @@
 - [2022-02-20-全职远程-招聘-React-前端工程师](https://www.v2ex.com/t/835140) 
 - [2022-02-20-家里电视应该买什么牌子的？](https://www.v2ex.com/t/835139) 
 - [2022-02-20-那种十几二十块钱的山寨蓝牙耳机容易坏吗？需求是听个响，偶尔（一周一到两次）需要用到](https://www.v2ex.com/t/835137) 
-- [2022-02-19-如果你还在用-WordPres，也希望有微信公众号那样的语法纠错功能，可以试试这个插件](https://www.v2ex.com/t/835136) 
-- [2022-02-19-如果有大量数据需要-data-migration，如何实现-zero-downtime-deployment?](https://www.v2ex.com/t/835135) 
-- [2022-02-19-MAUI-跨平台是为了替代-Xamarin？可以入坑吗各位觉得](https://www.v2ex.com/t/835134) 
-- [2022-02-19-這樣中轉映像是不是不安全？](https://www.v2ex.com/t/835133) 
-- [2022-02-19-HI,我又来了，好久没上了。](https://www.v2ex.com/t/835131) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-20 04:46:29，:rocket: 更新条数: +1917， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-20 05:12:02，:rocket: 更新条数: +1916， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,10 +491,14 @@
 </summary>
 
 
+- [2022-02-20-用纯-Python-写了个简单的检测空气质量显示在状态栏的-MacOS-应用，可以自行打包.app-拖进应用文件夹。我自己用了两天，没啥大-bug，开发着玩的，勿喷](https://www.v2ex.com/t/835186) ![](assets/new.png)  
+- [2022-02-20-头疼，孩子不聪明怎么办……](https://www.v2ex.com/t/835185) ![](assets/new.png)  
+- [2022-02-20-65-收京东-plus](https://www.v2ex.com/t/835183) ![](assets/new.png)  
+- [2022-02-20-关于入职体检问题的一些问题](https://www.v2ex.com/t/835182) ![](assets/new.png)  
+- [2022-02-20-求助-同一个局域网下，其他电脑都正常，唯独一台电脑-OneDrive-无法登录](https://www.v2ex.com/t/835181) ![](assets/new.png)  
 - [2022-02-20-补充医疗险以及重疾险推荐](https://www.v2ex.com/t/835178) ![](assets/new.png)  
 - [2022-02-20-iPhone-摔得稀碎后如何恢复数据？](https://www.v2ex.com/t/835177) ![](assets/new.png)  
 - [2022-02-20-The-Cuphead-Show](https://www.v2ex.com/t/835175) ![](assets/new.png)  
-- [2022-02-20-apple-music-+icliud-组队上车存储+音乐；年付-72](https://www.v2ex.com/t/835173) ![](assets/new.png)  
 - [2022-02-20-北京-移动出海游戏公司-社招-2022-春招--Unity-游戏开发工程师/高级工程师/主程](https://www.v2ex.com/t/835171) ![](assets/new.png)  
 - [2022-02-20-纯亮机卡配-4k-屏不容易啊，找到个有-dp-口的结果还是不行](https://www.v2ex.com/t/835169) ![](assets/new.png)  
 - [2022-02-20-求推荐-MacBook-电池](https://www.v2ex.com/t/835168) ![](assets/new.png)  
@@ -507,10 +511,6 @@
 - [2022-02-20-最近又看-CSAPP，请教无符号数比较问题](https://www.v2ex.com/t/835159) ![](assets/new.png)  
 - [2022-02-20-成都移动升级-1000M-家宽体验（避坑）](https://www.v2ex.com/t/835158) ![](assets/new.png)  
 - [2022-02-20-我们是如何把一个产品做凉的..](https://www.v2ex.com/t/835156) ![](assets/new.png)  
-- [2022-02-20-Google-域名邮箱有什么可以替代](https://www.v2ex.com/t/835155) ![](assets/new.png)  
-- [2022-02-20-leetcode-502badgateway-了？](https://www.v2ex.com/t/835154) ![](assets/new.png)  
-- [2022-02-20-2021-年-我的万元阅读书单与推荐-第三篇](https://www.v2ex.com/t/835153) ![](assets/new.png)  
-- [2022-02-20-程序员，你们的颈椎还好吗](https://www.v2ex.com/t/835152) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -560,17 +560,17 @@
 - [2022-02-20-月薪2千KTV服务员到月薪2万Java工程师真的很励志啊！](https://toutiao.io/k/ef8oh4r) ![](assets/new.png)  
 - [2022-02-20-结合SQL解析的ClickHouse表生命周期管理](https://toutiao.io/k/gu1652m) ![](assets/new.png)  
 - [2022-02-20-『每周译Go』Go-官方出品泛型教程：如何开始使用泛型](https://toutiao.io/k/h0lv562) ![](assets/new.png)  
-- [2022-02-20-推荐-真香啊！接私活必备的-N-个开源项目（附源码合集第一期）！收藏走起！](https://toutiao.io/k/he7umju) ![](assets/new.png)  
-- [2022-02-20-推荐-什么人能成为Leader，大Leader该做什么](https://toutiao.io/k/pnlaqae) ![](assets/new.png)  
-- [2022-02-20-推荐-如何撰写好的技术方案设计-真实案例干货分享](https://toutiao.io/k/0f5fv4t) ![](assets/new.png)  
-- [2022-02-20-推荐-我做基础架构学到的42件事](https://toutiao.io/k/k6tjws1) ![](assets/new.png)  
-- [2022-02-20-推荐-如何撰写好技术方案设计-真实案例干货分享](https://toutiao.io/k/t1d9x3b) ![](assets/new.png)  
-- [2022-02-20-推荐-你分库分表的姿势对么？——详谈水平分库分表](https://toutiao.io/k/eteqw6s) ![](assets/new.png)  
 - [2022-02-20-推荐-轻松搞懂5种IO模型](https://toutiao.io/k/o77uhyt) ![](assets/new.png)  
-- [2022-02-20-推荐-Go-原生并发原语和最佳实践](https://toutiao.io/k/rdpao5x) ![](assets/new.png)  
-- [2022-02-20-推荐-微服务通信设计模式](https://toutiao.io/k/mp88imm) ![](assets/new.png)  
+- [2022-02-20-推荐-什么人能成为Leader，大Leader该做什么](https://toutiao.io/k/pnlaqae) ![](assets/new.png)  
+- [2022-02-20-推荐-如何撰写好技术方案设计-真实案例干货分享](https://toutiao.io/k/t1d9x3b) ![](assets/new.png)  
 - [2022-02-20-推荐-支付系统架构设计详解](https://toutiao.io/k/5tx1zgw) ![](assets/new.png)  
+- [2022-02-20-推荐-真香啊！接私活必备的-N-个开源项目（附源码合集第一期）！收藏走起！](https://toutiao.io/k/he7umju) ![](assets/new.png)  
+- [2022-02-20-推荐-如何撰写好的技术方案设计-真实案例干货分享](https://toutiao.io/k/0f5fv4t) ![](assets/new.png)  
 - [2022-02-20-推荐-神器-Nginx-的学习手册-建议收藏-](https://toutiao.io/k/6f1qaso) ![](assets/new.png)  
+- [2022-02-20-推荐-微服务通信设计模式](https://toutiao.io/k/mp88imm) ![](assets/new.png)  
+- [2022-02-20-推荐-你分库分表的姿势对么？——详谈水平分库分表](https://toutiao.io/k/eteqw6s) ![](assets/new.png)  
+- [2022-02-20-推荐-Go-原生并发原语和最佳实践](https://toutiao.io/k/rdpao5x) ![](assets/new.png)  
+- [2022-02-20-推荐-我做基础架构学到的42件事](https://toutiao.io/k/k6tjws1) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

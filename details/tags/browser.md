@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-02-19 23:37:33。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-20 00:48:57。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -19,3 +19,4 @@
 - [2022-02-19-SHA1-很不安全吗？](https://www.v2ex.com/t/835102) 
 - [2022-02-19-群晖-Chrome-下载插件只支持-HTTPS-解决-HTTP-服务的正常使用](https://www.v2ex.com/t/835098) 
 - [2022-02-19-Edge-OS-开启-IPv6](https://www.v2ex.com/t/835094) 
+- [2022-02-20-Windows-是最安全的操作系统](https://toutiao.io/k/66e0ect) 

@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2022-02-20 11:12:14。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-20 11:35:47。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-02-20-感觉国外应用的信息茧房比国内的严重的多啊,极度痴迷于-follow-这个功能,这属于文化差异吗?我举几个对比例子,想知道下你们的感受](https://www.v2ex.com/t/835238) 
 - [2022-02-20-分享一个前端在线代码编辑器-JS-Encoder](https://www.v2ex.com/t/835237) 
 - [2022-02-20-感觉-b-站有些兼职-up-更新频率好高](https://www.v2ex.com/t/835236) 
 - [2022-02-20-求推荐同时支持-RTP/RSTP/HTTPS协议和-EPG-的-IPTV-播放-APP](https://www.v2ex.com/t/835234) 
@@ -46,4 +47,3 @@
 - [2022-02-20-PPT（mac-版）导出的-PDF，用-Adobe-Illustrator-打开文字乱码该如何解决？](https://www.v2ex.com/t/835191) 
 - [2022-02-20-WSL2-nameserver-的冲突问题](https://www.v2ex.com/t/835190) 
 - [2022-02-20-年关已过，骚扰已来](https://www.v2ex.com/t/835189) 
-- [2022-02-20-C-端桌面应用程序，请问大家有知道：怎么测它的性能吗？](https://www.v2ex.com/t/835188) 

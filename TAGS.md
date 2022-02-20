@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-02-20 02:49:26。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-20 03:13:33。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -40,7 +40,6 @@
 
 
 - [【V2EX】全职远程-招聘-React-前端工程师](https://www.v2ex.com/t/835140)
-- [【V2EX】请教-react-hook-有没有方法主手动控制子组件更新（排除其他状态更新组件）](https://www.v2ex.com/t/835108)
 - [......【查看更多】......](./details/tags/react.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

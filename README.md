@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-21 21:36:09，:rocket: 更新条数: +1938， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-21 22:13:13，:rocket: 更新条数: +1938， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-02-21-OP-在-SLAAC-模式下-无法修改-valid_lifetime-/-preferred_lifetime](https://www.v2ex.com/t/835534) ![](assets/new.png)  
 - [2022-02-21-如何避免拷贝到-iCloud-Photos-里的照片被分类到“导入”文件夹](https://www.v2ex.com/t/835533) ![](assets/new.png)  
 - [2022-02-21-上海/新加坡/北京/广州/台湾/香港招前端-&-Go-开发-&-测试-&-Devops-&-安全](https://www.v2ex.com/t/835531) ![](assets/new.png)  
 - [2022-02-21-可以在-mac-上运行安卓虚拟机，体验下原生-Andriod-么？](https://www.v2ex.com/t/835527) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-02-21-招厦门三万月薪以上的开发](https://www.v2ex.com/t/835506) ![](assets/new.png)  
 - [2022-02-21-iCloud-邮箱的-appleid-是如何泄漏的？](https://www.v2ex.com/t/835505) ![](assets/new.png)  
 - [2022-02-21-前端-package.json-添加-node-版本有必要和-DevOps-确认？](https://www.v2ex.com/t/835504) ![](assets/new.png)  
-- [2022-02-21-如何解决开了-ipv6-导致奈飞看不了的问题？](https://www.v2ex.com/t/835503) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -572,7 +572,7 @@
 - [2022-02-21-3D-世界的钥匙「GitHub-热点速览」](https://toutiao.io/k/ylbai7y) ![](assets/new.png)  
 - [2022-02-21-Go1.18-新特性：高效复制，strings,-bytes-标准库新增-Clone-API](https://toutiao.io/k/l3pczke) ![](assets/new.png)  
 - [2022-02-21-Hyperledger-Fabric-2.x-动态更新智能合约](https://toutiao.io/k/5ee660r) ![](assets/new.png)  
-- [2022-02-21-推荐-如何撰写好技术方案设计-真实案例干货分享](https://toutiao.io/k/t1d9x3b) ![](assets/new.png)  
+- [2022-02-21-推荐-轻松搞懂5种IO模型](https://toutiao.io/k/o77uhyt) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

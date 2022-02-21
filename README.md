@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-21 08:41:16，:rocket: 更新条数: +1930， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-21 09:14:06，:rocket: 更新条数: +1929， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,13 @@
 </summary>
 
 
+- [2022-02-21-分享一下我做的树莓派小屏应用](https://www.v2ex.com/t/835449) ![](assets/new.png)  
+- [2022-02-21-《咒术回战》动画最新是第几季，看了一季没-get-到什么爽点](https://www.v2ex.com/t/835448) ![](assets/new.png)  
+- [2022-02-21-如何决定新的-wiki-是目录式的还是词条式的](https://www.v2ex.com/t/835446) ![](assets/new.png)  
+- [2022-02-21-公司要改-996](https://www.v2ex.com/t/835444) ![](assets/new.png)  
+- [2022-02-21-指路-靠情怀创业是怎么让我赔掉十多万？](https://www.v2ex.com/t/835441) ![](assets/new.png)  
+- [2022-02-21-北京杭州-抖音服务端研发](https://www.v2ex.com/t/835440) ![](assets/new.png)  
+- [2022-02-21-逻辑大量的写在-sql-语句里](https://www.v2ex.com/t/835439) ![](assets/new.png)  
 - [2022-02-21-迅雷玩客云登录不了了](https://www.v2ex.com/t/835438) ![](assets/new.png)  
 - [2022-02-21-成都疫情又来了](https://www.v2ex.com/t/835435) ![](assets/new.png)  
 - [2022-02-21-北京/新加坡-招-Golang-开发](https://www.v2ex.com/t/835430) ![](assets/new.png)  
@@ -502,15 +509,8 @@
 - [2022-02-21-字节跳动-RTC-服务端开发工程师急招----上海](https://www.v2ex.com/t/835422) ![](assets/new.png)  
 - [2022-02-21-「DaoCloud-道客」荣升-Istio-社区指导委员会席位](https://www.v2ex.com/t/835421) ![](assets/new.png)  
 - [2022-02-21-家庭投影仪怎么快速方便的看美剧？](https://www.v2ex.com/t/835420) ![](assets/new.png)  
-- [2022-02-21-我写代码女朋友说我土狗,-公司里一男的帮她重装系统,换内存,-她说他是电脑高手](https://www.v2ex.com/t/835417) ![](assets/new.png)  
 - [2022-02-21-想在-windows-下面写一个脚本，一键安装开发环境，用啥写比较好写一些？](https://www.v2ex.com/t/835416) ![](assets/new.png)  
 - [2022-02-21-搭了个水木秦淮-bbs，南京的小伙伴进来看看哈](https://www.v2ex.com/t/835415) ![](assets/new.png)  
-- [2022-02-21-得知小区旁边的公园充电桩深夜电费半价之后](https://www.v2ex.com/t/835413) ![](assets/new.png)  
-- [2022-02-21-有没有大佬是做自动化测试的？](https://www.v2ex.com/t/835412) ![](assets/new.png)  
-- [2022-02-21-光耦+电阻可以检测交流电吗？](https://www.v2ex.com/t/835410) ![](assets/new.png)  
-- [2022-02-21-预算-3500-，推荐一张显卡](https://www.v2ex.com/t/835409) ![](assets/new.png)  
-- [2022-02-21-请问怎样订阅被某些美区的播客？](https://www.v2ex.com/t/835406) ![](assets/new.png)  
-- [2022-02-21-公众号的留言功能不会再开放了吗？](https://www.v2ex.com/t/835405) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -572,7 +572,7 @@
 - [2022-02-21-Go1.18-新特性：高效复制，strings,-bytes-标准库新增-Clone-API](https://toutiao.io/k/l3pczke) ![](assets/new.png)  
 - [2022-02-21-3D-世界的钥匙「GitHub-热点速览」](https://toutiao.io/k/ylbai7y) ![](assets/new.png)  
 - [2022-02-21-Hyperledger-Fabric-2.x-动态更新智能合约](https://toutiao.io/k/5ee660r) ![](assets/new.png)  
-- [2022-02-21-推荐-如何撰写好技术方案设计-真实案例干货分享](https://toutiao.io/k/t1d9x3b) ![](assets/new.png)  
+- [2022-02-21-推荐-我做基础架构学到的42件事](https://toutiao.io/k/k6tjws1) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

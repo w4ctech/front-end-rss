@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-21 23:13:21，:rocket: 更新条数: +1938， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-21 23:37:44，:rocket: 更新条数: +1937， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -562,8 +562,8 @@
 - [2022-02-21-阿里架构师，如何降低系统架构复杂度？](https://toutiao.io/k/1n6fpn9) ![](assets/new.png)  
 - [2022-02-21-与-Kubernetes-共存：强大的-API-使用和管理](https://toutiao.io/k/hjhf0u2) ![](assets/new.png)  
 - [2022-02-21-性能优化那些事儿（2）](https://toutiao.io/k/uxeyd3y) ![](assets/new.png)  
-- [2022-02-21-Go-Fuzzing-还未发布就遭重创，未来将何去何从？](https://toutiao.io/k/qzawy6g) ![](assets/new.png)  
 - [2022-02-21-Redis-突然变慢了如何排查并解决？](https://toutiao.io/k/9co9rgd) ![](assets/new.png)  
+- [2022-02-21-Go-Fuzzing-还未发布就遭重创，未来将何去何从？](https://toutiao.io/k/qzawy6g) ![](assets/new.png)  
 - [2022-02-21-我的个人开发作品「见闻历」重磅更新！](https://toutiao.io/k/d27p4tq) ![](assets/new.png)  
 - [2022-02-21-基于PaddleOCR实现AI发票识别的Asp.net-Core应用](https://toutiao.io/k/1bhk10r) ![](assets/new.png)  
 - [2022-02-21-宠物狗狗润鼻膏，点击链接立即购买！](https://toutiao.io/k/brs9rvx) ![](assets/new.png)  
@@ -572,7 +572,7 @@
 - [2022-02-21-3D-世界的钥匙「GitHub-热点速览」](https://toutiao.io/k/ylbai7y) ![](assets/new.png)  
 - [2022-02-21-Go1.18-新特性：高效复制，strings,-bytes-标准库新增-Clone-API](https://toutiao.io/k/l3pczke) ![](assets/new.png)  
 - [2022-02-21-Hyperledger-Fabric-2.x-动态更新智能合约](https://toutiao.io/k/5ee660r) ![](assets/new.png)  
-- [2022-02-21-推荐-轻松搞懂5种IO模型](https://toutiao.io/k/o77uhyt) ![](assets/new.png)  
+- [2022-02-21-推荐-一张图看懂微服务架构路线](https://toutiao.io/k/upx1qip) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

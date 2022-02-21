@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-21 14:13:27，:rocket: 更新条数: +1941， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-21 14:36:55，:rocket: 更新条数: +1942， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-02-21-能想出“残忍离开”、“狠心卸载”用到产品上的人其实更残忍也更狠心](https://www.v2ex.com/t/835516) ![](assets/new.png)  
 - [2022-02-21-如何找在线实习经历](https://www.v2ex.com/t/835513) ![](assets/new.png)  
 - [2022-02-21-字节跳动+校招内推-坐标抖音，部门直招研发&测试，真的好缺人....](https://www.v2ex.com/t/835512) ![](assets/new.png)  
 - [2022-02-21-布线问题，无线-or-六类-or-隐形光纤？老哥们给点意见](https://www.v2ex.com/t/835510) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-02-21-MBP-已经卖出去了-但是-iCloud-忘记退出了](https://www.v2ex.com/t/835495) ![](assets/new.png)  
 - [2022-02-21-Dell-U2723QX-货到手了](https://www.v2ex.com/t/835494) ![](assets/new.png)  
 - [2022-02-21-老板要做-B2B2C-商城,求推荐好的可二开源码付费](https://www.v2ex.com/t/835493) ![](assets/new.png)  
-- [2022-02-21-请教关于加密算法-blake2b](https://www.v2ex.com/t/835492) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -563,8 +563,8 @@
 - [2022-02-21-阿里架构师，如何降低系统架构复杂度？](https://toutiao.io/k/1n6fpn9) ![](assets/new.png)  
 - [2022-02-21-Go-Fuzzing-还未发布就遭重创，未来将何去何从？](https://toutiao.io/k/qzawy6g) ![](assets/new.png)  
 - [2022-02-21-性能优化那些事儿（2）](https://toutiao.io/k/uxeyd3y) ![](assets/new.png)  
-- [2022-02-21-宠物狗狗润鼻膏，点击链接立即购买！](https://toutiao.io/k/brs9rvx) ![](assets/new.png)  
 - [2022-02-21-基于PaddleOCR实现AI发票识别的Asp.net-Core应用](https://toutiao.io/k/1bhk10r) ![](assets/new.png)  
+- [2022-02-21-宠物狗狗润鼻膏，点击链接立即购买！](https://toutiao.io/k/brs9rvx) ![](assets/new.png)  
 - [2022-02-21-我的个人开发作品「见闻历」重磅更新！](https://toutiao.io/k/d27p4tq) ![](assets/new.png)  
 - [2022-02-21-Redis-突然变慢了如何排查并解决？](https://toutiao.io/k/9co9rgd) ![](assets/new.png)  
 - [2022-02-21-Elasticsearch-JVM-堆内存使用率飙升，怎么办？](https://toutiao.io/k/5yzz44e) ![](assets/new.png)  
@@ -572,7 +572,7 @@
 - [2022-02-21-3D-世界的钥匙「GitHub-热点速览」](https://toutiao.io/k/ylbai7y) ![](assets/new.png)  
 - [2022-02-21-Go1.18-新特性：高效复制，strings,-bytes-标准库新增-Clone-API](https://toutiao.io/k/l3pczke) ![](assets/new.png)  
 - [2022-02-21-Hyperledger-Fabric-2.x-动态更新智能合约](https://toutiao.io/k/5ee660r) ![](assets/new.png)  
-- [2022-02-21-推荐-我做基础架构学到的42件事](https://toutiao.io/k/k6tjws1) ![](assets/new.png)  
+- [2022-02-21-推荐-你分库分表的姿势对么？——详谈水平分库分表](https://toutiao.io/k/eteqw6s) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

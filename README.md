@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-21 07:12:46，:rocket: 更新条数: +1933， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-21 07:35:40，:rocket: 更新条数: +1930， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,12 @@
 </summary>
 
 
+- [2022-02-21-想在-windows-下面写一个脚本，一键安装开发环境，用啥写比较好写一些？](https://www.v2ex.com/t/835416) ![](assets/new.png)  
+- [2022-02-21-搭了个水木秦淮-bbs，南京的小伙伴进来看看哈](https://www.v2ex.com/t/835415) ![](assets/new.png)  
+- [2022-02-21-得知小区旁边的公园充电桩深夜电费半价之后](https://www.v2ex.com/t/835413) ![](assets/new.png)  
+- [2022-02-21-有没有大佬是做自动化测试的？](https://www.v2ex.com/t/835412) ![](assets/new.png)  
+- [2022-02-21-光耦+电阻可以检测交流电吗？](https://www.v2ex.com/t/835410) ![](assets/new.png)  
+- [2022-02-21-预算-3500-，推荐一张显卡](https://www.v2ex.com/t/835409) ![](assets/new.png)  
 - [2022-02-21-请问怎样订阅被某些美区的播客？](https://www.v2ex.com/t/835406) ![](assets/new.png)  
 - [2022-02-21-公众号的留言功能不会再开放了吗？](https://www.v2ex.com/t/835405) ![](assets/new.png)  
 - [2022-02-21-仔细思考后，我发现我根本不怎么需要软路由](https://www.v2ex.com/t/835403) ![](assets/new.png)  
@@ -505,12 +511,6 @@
 - [2022-02-21-关于售卖网上课程的副业选择？](https://www.v2ex.com/t/835390) ![](assets/new.png)  
 - [2022-02-21-博客服务器](https://www.v2ex.com/t/835389) ![](assets/new.png)  
 - [2022-02-21-authing-又又又百度推广买友商公司名了？](https://www.v2ex.com/t/835387) ![](assets/new.png)  
-- [2022-02-21-北上深杭成都字节跳动抖音招测试开发工程师](https://www.v2ex.com/t/835383) ![](assets/new.png)  
-- [2022-02-21-2021-年-我的万元阅读书单与推荐-第四篇](https://www.v2ex.com/t/835381) ![](assets/new.png)  
-- [2022-02-21-如何给-M1-Mac-的小火箭设定全局快捷键](https://www.v2ex.com/t/835380) ![](assets/new.png)  
-- [2022-02-21-转岗，跳槽](https://www.v2ex.com/t/835379) ![](assets/new.png)  
-- [2022-02-21-一个神奇的-bug，苦思不得其解](https://www.v2ex.com/t/835377) ![](assets/new.png)  
-- [2022-02-21-在火币、中币用手机号注册了账号，未实名，未绑定银行卡，未进行过交易，钱包余额-0，一直放着会被查水表吗](https://www.v2ex.com/t/835376) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -561,18 +561,18 @@
 - [2022-02-21-Flink-1.13-StateBackend-与-CheckpointStorage-拆分](https://toutiao.io/k/9pt4x01) ![](assets/new.png)  
 - [2022-02-21-宠物狗狗润鼻膏，点击链接立即购买！](https://toutiao.io/k/brs9rvx) ![](assets/new.png)  
 - [2022-02-21-Go-Fuzzing-还未发布就遭重创，未来将何去何从？](https://toutiao.io/k/qzawy6g) ![](assets/new.png)  
-- [2022-02-21-性能优化那些事儿（2）](https://toutiao.io/k/uxeyd3y) ![](assets/new.png)  
 - [2022-02-21-与-Kubernetes-共存：强大的-API-使用和管理](https://toutiao.io/k/hjhf0u2) ![](assets/new.png)  
+- [2022-02-21-性能优化那些事儿（2）](https://toutiao.io/k/uxeyd3y) ![](assets/new.png)  
 - [2022-02-21-基于PaddleOCR实现AI发票识别的Asp.net-Core应用](https://toutiao.io/k/1bhk10r) ![](assets/new.png)  
 - [2022-02-21-我的个人开发作品「见闻历」重磅更新！](https://toutiao.io/k/d27p4tq) ![](assets/new.png)  
 - [2022-02-21-阿里架构师，如何降低系统架构复杂度？](https://toutiao.io/k/1n6fpn9) ![](assets/new.png)  
-- [2022-02-21-3D-世界的钥匙「GitHub-热点速览」](https://toutiao.io/k/ylbai7y) ![](assets/new.png)  
-- [2022-02-21-Go1.18-新特性：高效复制，strings,-bytes-标准库新增-Clone-API](https://toutiao.io/k/l3pczke) ![](assets/new.png)  
-- [2022-02-21-如何用Redis实现访问次数限流？](https://toutiao.io/k/qzbiqvr) ![](assets/new.png)  
 - [2022-02-21-Redis-突然变慢了如何排查并解决？](https://toutiao.io/k/9co9rgd) ![](assets/new.png)  
-- [2022-02-21-Hyperledger-Fabric-2.x-动态更新智能合约](https://toutiao.io/k/5ee660r) ![](assets/new.png)  
 - [2022-02-21-Elasticsearch-JVM-堆内存使用率飙升，怎么办？](https://toutiao.io/k/5yzz44e) ![](assets/new.png)  
-- [2022-02-21-推荐-如何撰写好技术方案设计-真实案例干货分享](https://toutiao.io/k/t1d9x3b) ![](assets/new.png)  
+- [2022-02-21-3D-世界的钥匙「GitHub-热点速览」](https://toutiao.io/k/ylbai7y) ![](assets/new.png)  
+- [2022-02-21-如何用Redis实现访问次数限流？](https://toutiao.io/k/qzbiqvr) ![](assets/new.png)  
+- [2022-02-21-Go1.18-新特性：高效复制，strings,-bytes-标准库新增-Clone-API](https://toutiao.io/k/l3pczke) ![](assets/new.png)  
+- [2022-02-21-Hyperledger-Fabric-2.x-动态更新智能合约](https://toutiao.io/k/5ee660r) ![](assets/new.png)  
+- [2022-02-21-推荐-你分库分表的姿势对么？——详谈水平分库分表](https://toutiao.io/k/eteqw6s) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

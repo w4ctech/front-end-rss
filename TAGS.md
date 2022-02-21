@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-02-21 11:11:29。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-21 11:36:24。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -353,7 +353,6 @@
 
 
 - [【V2EX】珠海-内推-金山办公-wps-招聘](https://www.v2ex.com/t/835463)
-- [【V2EX】「北京」「前端-iOS-安卓」雪球财经资讯社区招聘](https://www.v2ex.com/t/835427)
 - [【开发者头条】小公司比较吃亏的两道微服务面试](https://toutiao.io/k/fszlj7r)
 - [......【查看更多】......](./details/tags/job-interview.md)
 

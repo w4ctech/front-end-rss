@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-02-22 03:13:49。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-22 03:39:35。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -13,7 +13,6 @@
 - [2021-04-14-腺病毒新冠疫苗引安全忧虑-康希诺称未发现血栓病例](https://m.caixin.com/m/2021-04-14/101691086.html) 
 - [2021-01-08-解药|新冠mRNA疫苗安全性有哪些挑战？](https://m.caixin.com/m/2021-01-08/101648043.html) 
 - [2021-01-01-大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html) 
-- [2022-02-22-目前录制屏幕部分区域及鼠标轨迹成-gif-的软件-or-浏览器插件有哪些？](https://www.v2ex.com/t/835545) 
-- [2022-02-22-在浏览器本地给你的证件照加水印](https://www.v2ex.com/t/835543) 
+- [2022-02-22-新加坡-新年新气象，新加坡工作机会看一波。安全/DevOps/SRE/DBA/前端/后端岗位开放中，-P6-P9，大中型互联网公司，技术移民，薪资待遇从优，详情请微信咨询-h...](https://www.v2ex.com/t/835587) 
 - [2022-02-22-再见，收费的Teamviewer！！！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14949&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493389%26amp%3Bidx%3D1%26amp%3Bsn%3D978ce04acd53a4a22494d0f55c740b35%26amp%3Bchksm%3Dfa3f0656cd488f40f1c5b506b10237a45806e6624d1646f8bac19084dedc385e200de1a4e489%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-02-22-不废话，代码实践带你掌握-强缓存、协商缓存！](https://toutiao.io/k/7sdby3w) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-02-22 16:17:37。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-22 16:55:05。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1834,6 +1834,7 @@
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2022-02-04-HTML-inputmode与iOS-Android软键盘类型测试](https://www.zhangxinxu.com/wordpress/2022/02/html-inputmode-keyboard/) 
+- [2022-02-22-graph-relational-model-怎么翻译最合适？](https://www.v2ex.com/t/835791) 
 - [2022-02-22-在合肥外企，时间比较多，闲时间想接点外包，客户端的，求推荐哪个平台靠谱点？](https://www.v2ex.com/t/835787) 
 - [2022-02-22-最近在弄公众号"太白技术"，求关注一波](https://www.v2ex.com/t/835785) 
 - [2022-02-22-17-款-13-寸-mbp-外接-4k-显示器,卡卡的,发热严重,有解决方案吗](https://www.v2ex.com/t/835784) 
@@ -1862,7 +1863,6 @@
 - [2022-02-22-实习-成都部门直招，双休不卷，历史转正率百分百](https://www.v2ex.com/t/835745) 
 - [2022-02-22-闲置-iPad-Air-2-插电用作局域网代理怎么样](https://www.v2ex.com/t/835743) 
 - [2022-02-22-连续两个项目培训都被告知只限举办地人员参加，我太难了](https://www.v2ex.com/t/835742) 
-- [2022-02-22-在网上找了个判断-IPv4/v6-的脚本，但是改了就不好使了](https://www.v2ex.com/t/835741) 
 - [2022-02-22-以荣耀公司为例，拆解成功企业的股权架构设计！-www.sohu.com](https://blogread.cn/news/go.php?idItem=14953&url=https%3A%2F%2Fwww.sohu.com%2Fa%2F476319747_120317149%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-02-22-19张图看懂SpringCloud-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14952&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493479%26amp%3Bidx%3D2%26amp%3Bsn%3D4ef8ac05bb19160caf58d5a0b1095aac%26amp%3Bchksm%3Dfa3f063ccd488f2aa426d2936a91ea7d90c418ff13650eab18ba313c795c0777152c41072b83%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-02-22-华为HarmonyOS系统一键升级指南来了！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14951&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493478%26amp%3Bidx%3D1%26amp%3Bsn%3D4cc671f0644583c54ff1cfb28b6ba457%26amp%3Bchksm%3Dfa3f063dcd488f2b8926901f33de52b069c7a2da1c1ca7eae90e68a3485f3e15fd3f75eb4094%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1880,10 +1880,10 @@
 - [2022-02-22-5款最佳最牛代码比较神器-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14934&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493248%26amp%3Bidx%3D1%26amp%3Bsn%3D50bb00a7204f2595e19bba088152c56a%26amp%3Bchksm%3Dfa3f07dbcd488ecd96ab648174c45d2d5085db9e8ad2ec47e80bba1e6580f7d7158761183317%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-02-22-盒子放久了，总会长出猫的！猫盒+抓板，点击链接立即购买！](https://toutiao.io/k/kcky0ar) 
 - [2022-02-22-推荐-你分库分表的姿势对么？——详谈水平分库分表](https://toutiao.io/k/eteqw6s) 
-- [2022-02-22-推荐-如何撰写好技术方案设计-真实案例干货分享](https://toutiao.io/k/t1d9x3b) 
-- [2022-02-22-推荐-ClickHouse使用实践与规范](https://toutiao.io/k/fb7mdkl) 
-- [2022-02-22-推荐-我做基础架构学到的42件事](https://toutiao.io/k/k6tjws1) 
-- [2022-02-22-推荐-一张图看懂微服务架构路线](https://toutiao.io/k/upx1qip) 
-- [2022-02-22-推荐-如何撰写好的技术方案设计-真实案例干货分享](https://toutiao.io/k/0f5fv4t) 
 - [2022-02-22-推荐-什么人能成为Leader，大Leader该做什么](https://toutiao.io/k/pnlaqae) 
 - [2022-02-22-推荐-轻松搞懂5种IO模型](https://toutiao.io/k/o77uhyt) 
+- [2022-02-22-推荐-如何撰写好技术方案设计-真实案例干货分享](https://toutiao.io/k/t1d9x3b) 
+- [2022-02-22-推荐-如何撰写好的技术方案设计-真实案例干货分享](https://toutiao.io/k/0f5fv4t) 
+- [2022-02-22-推荐-一张图看懂微服务架构路线](https://toutiao.io/k/upx1qip) 
+- [2022-02-22-推荐-ClickHouse使用实践与规范](https://toutiao.io/k/fb7mdkl) 
+- [2022-02-22-推荐-我做基础架构学到的42件事](https://toutiao.io/k/k6tjws1) 

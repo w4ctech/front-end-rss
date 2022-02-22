@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-22 05:36:03，:rocket: 更新条数: +1936， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-22 06:15:31，:rocket: 更新条数: +1944， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,26 +491,26 @@
 </summary>
 
 
+- [2022-02-22-我的-2022-减肥日记](https://www.v2ex.com/t/835647) ![](assets/new.png)  
+- [2022-02-22-Canva-可画连续两年荣获最佳职场｜热招职位等你来！](https://www.v2ex.com/t/835646) ![](assets/new.png)  
+- [2022-02-22-单点服务器有什么靠谱的容灾方案么？](https://www.v2ex.com/t/835645) ![](assets/new.png)  
+- [2022-02-22-爬虫不想做了，想转后端，学-go-有出路吗](https://www.v2ex.com/t/835644) ![](assets/new.png)  
+- [2022-02-22-以前没发现-form-表单这个特性](https://www.v2ex.com/t/835643) ![](assets/new.png)  
+- [2022-02-22-打算拍婚纱照，求推荐](https://www.v2ex.com/t/835642) ![](assets/new.png)  
+- [2022-02-22-腾讯企业微信的产品经理用脚想需求吗？](https://www.v2ex.com/t/835641) ![](assets/new.png)  
+- [2022-02-22-国内类似-Cloudflare-的产品是？](https://www.v2ex.com/t/835640) ![](assets/new.png)  
+- [2022-02-22-22-年毕业应届生，在广州找份前端实习工作，有没有大佬要人..](https://www.v2ex.com/t/835639) ![](assets/new.png)  
+- [2022-02-22-2022-年-Java-找工作行情](https://www.v2ex.com/t/835637) ![](assets/new.png)  
+- [2022-02-22-在-nas-存小姐姐违法吗](https://www.v2ex.com/t/835636) ![](assets/new.png)  
+- [2022-02-22-据说-Apple-在-3-月要发布全新-Mac-mini，纠结是买全新-Mac-mini，还是一体机-iMac-。](https://www.v2ex.com/t/835635) ![](assets/new.png)  
+- [2022-02-22-有在传智开办的在宿迁的大专的学生-or-老师吗？](https://www.v2ex.com/t/835634) ![](assets/new.png)  
+- [2022-02-22-升级到-macOS-12.2.1-之后鼠标和键盘无法通过外接显示器的-USB-系统进行连接了，有一样的吗](https://www.v2ex.com/t/835632) ![](assets/new.png)  
+- [2022-02-22-求推荐前端框架，封装个-webUI-给编辑数据复杂-JSON用。所编辑内容有一定的模板模式，但仍要求不少灵活性](https://www.v2ex.com/t/835629) ![](assets/new.png)  
 - [2022-02-22-北京教育行业-聂卫平围棋道场-后端/前端](https://www.v2ex.com/t/835626) ![](assets/new.png)  
 - [2022-02-22-杭州/广州/上海-2023-届-网易暑期实习生-内推](https://www.v2ex.com/t/835625) ![](assets/new.png)  
 - [2022-02-22-U-盘选型](https://www.v2ex.com/t/835624) ![](assets/new.png)  
 - [2022-02-22-电脑上跑安卓-apk-的最佳环境是啥](https://www.v2ex.com/t/835623) ![](assets/new.png)  
 - [2022-02-22-既然-AI-算法那么厉害，为什么几乎没人使用-AI-压缩图片算法呢？](https://www.v2ex.com/t/835621) ![](assets/new.png)  
-- [2022-02-22-k8s-抛弃-docker-之后，-docker-还有前途吗？](https://www.v2ex.com/t/835619) ![](assets/new.png)  
-- [2022-02-22-端传媒尊享与华尔街日报](https://www.v2ex.com/t/835618) ![](assets/new.png)  
-- [2022-02-22-cmd-命令行能否弹出-tf-卡或-U-盘](https://www.v2ex.com/t/835617) ![](assets/new.png)  
-- [2022-02-22-项目组零基础转做前端，求助前端项目目前流行的图标管理方案](https://www.v2ex.com/t/835616) ![](assets/new.png)  
-- [2022-02-22-国内云服务器续费太贵怎么办？](https://www.v2ex.com/t/835614) ![](assets/new.png)  
-- [2022-02-22-校园网-udp-qos-及内网穿透速度问题](https://www.v2ex.com/t/835613) ![](assets/new.png)  
-- [2022-02-22-手动把默认浏览器改成-Chrome，但-win10-每次都自动把默认浏览器改成-IE，如何破解？](https://www.v2ex.com/t/835612) ![](assets/new.png)  
-- [2022-02-22-最近在研究一个数据挖掘或者叫机器学习的项目，请教大家一下](https://www.v2ex.com/t/835609) ![](assets/new.png)  
-- [2022-02-22-求助各位大佬一下，一个-nginx-配置的问题，](https://www.v2ex.com/t/835608) ![](assets/new.png)  
-- [2022-02-22-有人要-iphoneX-吗?-明盘低价出个闲置.](https://www.v2ex.com/t/835607) ![](assets/new.png)  
-- [2022-02-22-坐标上海，东方有线/联通-IPTV/电信-IPTV-怎么选？](https://www.v2ex.com/t/835606) ![](assets/new.png)  
-- [2022-02-22-家用服务器方案推荐-在家挂机赚钱](https://www.v2ex.com/t/835605) ![](assets/new.png)  
-- [2022-02-22-作为一名专科生，有点迷茫。](https://www.v2ex.com/t/835603) ![](assets/new.png)  
-- [2022-02-22-西诺德-苏州-招聘](https://www.v2ex.com/t/835601) ![](assets/new.png)  
-- [2022-02-22-首付降低，利率下降，刚需是现在买房还是等？](https://www.v2ex.com/t/835597) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -556,23 +556,23 @@
 - [2022-02-22-Golang-简洁架构实战](https://toutiao.io/k/vjw1dlc) ![](assets/new.png)  
 - [2022-02-22-Golang-语言-gRPC-服务怎么同时支持-gRPC-和-HTTP-客户端调用？](https://toutiao.io/k/emhzf5r) ![](assets/new.png)  
 - [2022-02-22-携程的混合办公，到底行不行？12个Vue小技巧；2022年之Web开发新基准｜码农周刊VIP会员专属邮件周报-Vol.080](https://toutiao.io/k/lk15pdx) ![](assets/new.png)  
-- [2022-02-22-一款开源NFT市场](https://toutiao.io/k/xsynx5j) ![](assets/new.png)  
 - [2022-02-22-还在用ES查日志吗，快看看石墨文档-Clickhouse-日志架构玩法](https://toutiao.io/k/pqacedc) ![](assets/new.png)  
+- [2022-02-22-一款开源NFT市场](https://toutiao.io/k/xsynx5j) ![](assets/new.png)  
+- [2022-02-22-K8s-为什么这么复杂？](https://toutiao.io/k/cqip8a8) ![](assets/new.png)  
 - [2022-02-22-不废话，代码实践带你掌握-强缓存、协商缓存！](https://toutiao.io/k/7sdby3w) ![](assets/new.png)  
 - [2022-02-22-观点｜SparkSQL在企业级数仓建设的优势](https://toutiao.io/k/vpbar1l) ![](assets/new.png)  
-- [2022-02-22-K8s-为什么这么复杂？](https://toutiao.io/k/cqip8a8) ![](assets/new.png)  
 - [2022-02-22-用-Peer.js-愉快上手-P2P-通信](https://toutiao.io/k/gwo840i) ![](assets/new.png)  
 - [2022-02-22-做到这7点，避免微服务落地失败](https://toutiao.io/k/keoawt5) ![](assets/new.png)  
 - [2022-02-22-工作中的“厨师”，生活上的诗人，其实也是架构师](https://toutiao.io/k/09pwff0) ![](assets/new.png)  
 - [2022-02-22-学习方法｜一把解开Kafka背后机制的“钥匙”](https://toutiao.io/k/do3l9kc) ![](assets/new.png)  
-- [2022-02-22-推荐-你分库分表的姿势对么？——详谈水平分库分表](https://toutiao.io/k/eteqw6s) ![](assets/new.png)  
-- [2022-02-22-推荐-我做基础架构学到的42件事](https://toutiao.io/k/k6tjws1) ![](assets/new.png)  
-- [2022-02-22-推荐-支付系统架构设计详解](https://toutiao.io/k/5tx1zgw) ![](assets/new.png)  
-- [2022-02-22-推荐-一张图看懂微服务架构路线](https://toutiao.io/k/upx1qip) ![](assets/new.png)  
-- [2022-02-22-推荐-神器-Nginx-的学习手册-建议收藏-](https://toutiao.io/k/6f1qaso) ![](assets/new.png)  
+- [2022-02-22-大厂偏爱的Agent技术究竟是个啥](https://toutiao.io/k/8o9533u) ![](assets/new.png)  
+- [2022-02-22-Android-Studio-对现代-WorkManager-的支持](https://toutiao.io/k/meof9d2) ![](assets/new.png)  
+- [2022-02-22-高效使用Chrome浏览器，你可能不知道的10个技巧。](https://toutiao.io/k/7k375t4) ![](assets/new.png)  
+- [2022-02-22-如何用建木CI往七牛云上传文件](https://toutiao.io/k/n48ld2w) ![](assets/new.png)  
+- [2022-02-22-Hyperledger-Fabric-2.x-Java区块链应用](https://toutiao.io/k/nf1kyvz) ![](assets/new.png)  
+- [2022-02-22-你理想的混合现实MR世界是什么样的呢](https://toutiao.io/k/riqcjql) ![](assets/new.png)  
 - [2022-02-22-推荐-ClickHouse使用实践与规范](https://toutiao.io/k/fb7mdkl) ![](assets/new.png)  
-- [2022-02-22-推荐-什么人能成为Leader，大Leader该做什么](https://toutiao.io/k/pnlaqae) ![](assets/new.png)  
-- [2022-02-22-推荐-Go-原生并发原语和最佳实践](https://toutiao.io/k/rdpao5x) ![](assets/new.png)  
+- [2022-02-22-推荐-我做基础架构学到的42件事](https://toutiao.io/k/k6tjws1) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

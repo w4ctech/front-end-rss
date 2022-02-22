@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-22 09:13:38，:rocket: 更新条数: +1950， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-22 09:37:54，:rocket: 更新条数: +1952， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -66,6 +66,7 @@
 
 
 - [2022-02-22-2月21日全国新增新冠138例-八省份本土59例](https://m.caixin.com/m/2022-02-22/101845056.html) ![](assets/new.png)  
+- [2022-02-22-研究指奥密克戎新亚型传播力更强-致病性未减弱](https://m.caixin.com/m/2022-02-22/101845391.html) ![](assets/new.png)  
 - [2022-02-22-北京、武汉现关联疫情-北京新增4例本土确诊](https://m.caixin.com/m/2022-02-22/101845168.html) ![](assets/new.png)  
 - [2022-02-22-英格兰将取消所有新冠限制措施-确诊者无需自我隔离](https://m.caixin.com/m/2022-02-22/101845288.html) ![](assets/new.png)  
 - [2022-02-22-钟南山为香港抗疫提三大建议-强调奥密克戎危害远大于流感](https://m.caixin.com/m/2022-02-22/101845161.html) ![](assets/new.png)  
@@ -84,7 +85,6 @@
 - [2022-02-21-【图集】香港新增6067例确诊病例-市民在雨中排队检测](https://photos.caixin.com/m/2022-02-21/101844805.html) ![](assets/new.png)  
 - [2022-02-20-【境内疫情观察】内蒙古新增65例本土病例（2月19日）](https://database.caixin.com/m/2022-02-20/101844492.html) ![](assets/new.png)  
 - [2022-02-20-英国或取消新冠患者隔离规定，兽药伊维菌素不治新冠｜大流行手记（2月19日）](https://m.caixin.com/m/2022-02-20/101844467.html) ![](assets/new.png)  
-- [2022-02-20-95岁英国女王确诊新冠-白金汉宫称目前症状温和](https://international.caixin.com/m/2022-02-20/101844551.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -491,8 +491,15 @@
 </summary>
 
 
+- [2022-02-22-浙大小表弟的纠结，考研还是工作？太难了。。。](https://www.v2ex.com/t/835719) ![](assets/new.png)  
+- [2022-02-22-有偿求苹果-Appstore-上架指导](https://www.v2ex.com/t/835717) ![](assets/new.png)  
+- [2022-02-22-新人入坑前端，请问应该如何学习-H5-移动端响应式布局呢？](https://www.v2ex.com/t/835716) ![](assets/new.png)  
+- [2022-02-22-没有在有效期内的护照/港澳通行证或海外银行卡，有办法开通-GitHub-Sponsors-吗？](https://www.v2ex.com/t/835715) ![](assets/new.png)  
+- [2022-02-22-小米用户，你升级-MIUI13-了吗？](https://www.v2ex.com/t/835714) ![](assets/new.png)  
+- [2022-02-22-Logi-Options+最新版本支持-Apple-Silicon-了](https://www.v2ex.com/t/835712) ![](assets/new.png)  
+- [2022-02-22-请问如何用-hooks-实现一个定时保存的功能?](https://www.v2ex.com/t/835710) ![](assets/new.png)  
+- [2022-02-22-三年大数据，-base-深圳](https://www.v2ex.com/t/835709) ![](assets/new.png)  
 - [2022-02-22-携程上买机票+酒店产品坑死了](https://www.v2ex.com/t/835708) ![](assets/new.png)  
-- [2022-02-22-60-出京东会员实体卡](https://www.v2ex.com/t/835707) ![](assets/new.png)  
 - [2022-02-22-Office-365-家庭版-订阅-拼车-16-个月-OneDrive-1T/每人](https://www.v2ex.com/t/835705) ![](assets/new.png)  
 - [2022-02-22-内推-抖音移动端-2022-暑期实习，日常实习，海量-HC，零基础，优先转正，-leader-直推](https://www.v2ex.com/t/835704) ![](assets/new.png)  
 - [2022-02-22-有人尝试过同时使用卡巴斯基和国内安全软件吗？](https://www.v2ex.com/t/835703) ![](assets/new.png)  
@@ -504,13 +511,6 @@
 - [2022-02-22-如何限制-centos-服务器对外请求数据，限制出站规则。](https://www.v2ex.com/t/835695) ![](assets/new.png)  
 - [2022-02-22-关于-DNS-显性-URL-记录类型](https://www.v2ex.com/t/835693) ![](assets/new.png)  
 - [2022-02-22-国内区块链开发前景如何](https://www.v2ex.com/t/835692) ![](assets/new.png)  
-- [2022-02-22-关于-promtail-与-loki-处理时间戳](https://www.v2ex.com/t/835691) ![](assets/new.png)  
-- [2022-02-22-家里面最近准备装修，想实现全屋智能化家居](https://www.v2ex.com/t/835690) ![](assets/new.png)  
-- [2022-02-22-问一下大佬，家用服务器是选择-ESXI-套娃，还是直接物理机上-Linux](https://www.v2ex.com/t/835688) ![](assets/new.png)  
-- [2022-02-22-Safari-有什么可以网页截长图的插件吗？](https://www.v2ex.com/t/835687) ![](assets/new.png)  
-- [2022-02-22-在-Linux-上一键搭建环境以及统一管理目录](https://www.v2ex.com/t/835686) ![](assets/new.png)  
-- [2022-02-22-35-岁+的程序员都去哪里了？](https://www.v2ex.com/t/835685) ![](assets/new.png)  
-- [2022-02-22-今天是个特殊的日子](https://www.v2ex.com/t/835684) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -568,11 +568,11 @@
 - [2022-02-22-大厂偏爱的Agent技术究竟是个啥](https://toutiao.io/k/8o9533u) ![](assets/new.png)  
 - [2022-02-22-高效使用Chrome浏览器，你可能不知道的10个技巧。](https://toutiao.io/k/7k375t4) ![](assets/new.png)  
 - [2022-02-22-你理想的混合现实MR世界是什么样的呢](https://toutiao.io/k/riqcjql) ![](assets/new.png)  
-- [2022-02-22-如何用建木CI往七牛云上传文件](https://toutiao.io/k/n48ld2w) ![](assets/new.png)  
 - [2022-02-22-Android-Studio-对现代-WorkManager-的支持](https://toutiao.io/k/meof9d2) ![](assets/new.png)  
+- [2022-02-22-如何用建木CI往七牛云上传文件](https://toutiao.io/k/n48ld2w) ![](assets/new.png)  
 - [2022-02-22-Hyperledger-Fabric-2.x-Java区块链应用](https://toutiao.io/k/nf1kyvz) ![](assets/new.png)  
-- [2022-02-22-推荐-我做基础架构学到的42件事](https://toutiao.io/k/k6tjws1) ![](assets/new.png)  
-- [2022-02-22-推荐-Go-原生并发原语和最佳实践](https://toutiao.io/k/rdpao5x) ![](assets/new.png)  
+- [2022-02-22-推荐-如何撰写好技术方案设计-真实案例干货分享](https://toutiao.io/k/t1d9x3b) ![](assets/new.png)  
+- [2022-02-22-推荐-支付系统架构设计详解](https://toutiao.io/k/5tx1zgw) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

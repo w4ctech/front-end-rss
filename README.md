@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-22 12:21:45，:rocket: 更新条数: +1950， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-22 12:56:57，:rocket: 更新条数: +1951， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,10 @@
 </summary>
 
 
+- [2022-02-22-主成分分析得到的新坐标系为什么会是所有可能坐标系中坐标轴方差最大的？](https://www.v2ex.com/t/835760) ![](assets/new.png)  
+- [2022-02-22-v-友们，现在可以买到的“剪刀脚“的薄膜键盘还有哪些啊？（剪刀脚就是像-dell-xps13-笔记本上的那种）](https://www.v2ex.com/t/835759) ![](assets/new.png)  
+- [2022-02-22-如何苦中作乐](https://www.v2ex.com/t/835758) ![](assets/new.png)  
+- [2022-02-22-写了个京东抢购助手～（自动下单）](https://www.v2ex.com/t/835757) ![](assets/new.png)  
 - [2022-02-22-为什么-macOS-不支持-虚拟网卡](https://www.v2ex.com/t/835754) ![](assets/new.png)  
 - [2022-02-22-类似快速幂，但是不知道原理，请求大佬指导](https://www.v2ex.com/t/835752) ![](assets/new.png)  
 - [2022-02-22-突然想写小说了，可是不知道写什么好](https://www.v2ex.com/t/835750) ![](assets/new.png)  
@@ -507,10 +511,6 @@
 - [2022-02-22-Phala-Network-北京/成都-招聘全职-React-前端、DevOps-开发运维](https://www.v2ex.com/t/835739) ![](assets/new.png)  
 - [2022-02-22-北京/上海-太极图形-招聘-后端开发工程师（Golang）——-公司已获得红杉资本、源码资本、GGV-纪源资本、BAI-资本数千万美元-A-轮融资](https://www.v2ex.com/t/835736) ![](assets/new.png)  
 - [2022-02-22-求购一个-surge-4-for-mac-终身订阅](https://www.v2ex.com/t/835735) ![](assets/new.png)  
-- [2022-02-22-三年经验的前端开发应当具备哪些能力](https://www.v2ex.com/t/835734) ![](assets/new.png)  
-- [2022-02-22-360-的扫地机器人为啥这么多-DNS-请求](https://www.v2ex.com/t/835733) ![](assets/new.png)  
-- [2022-02-22-playwright-咋获取标签里面的地址链接呢](https://www.v2ex.com/t/835732) ![](assets/new.png)  
-- [2022-02-22-想研究下跑在嵌入式-ARM-上的软件（底层）优化，从哪里可以找点资料。](https://www.v2ex.com/t/835731) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -571,8 +571,8 @@
 - [2022-02-22-你理想的混合现实MR世界是什么样的呢](https://toutiao.io/k/riqcjql) ![](assets/new.png)  
 - [2022-02-22-如何用建木CI往七牛云上传文件](https://toutiao.io/k/n48ld2w) ![](assets/new.png)  
 - [2022-02-22-Hyperledger-Fabric-2.x-Java区块链应用](https://toutiao.io/k/nf1kyvz) ![](assets/new.png)  
-- [2022-02-22-推荐-Go-原生并发原语和最佳实践](https://toutiao.io/k/rdpao5x) ![](assets/new.png)  
-- [2022-02-22-推荐-什么人能成为Leader，大Leader该做什么](https://toutiao.io/k/pnlaqae) ![](assets/new.png)  
+- [2022-02-22-推荐-我做基础架构学到的42件事](https://toutiao.io/k/k6tjws1) ![](assets/new.png)  
+- [2022-02-22-推荐-神器-Nginx-的学习手册-建议收藏-](https://toutiao.io/k/6f1qaso) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

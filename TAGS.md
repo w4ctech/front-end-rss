@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-02-22 14:12:10。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-22 14:36:57。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -356,7 +356,6 @@
 
 
 - [【V2EX】北京/上海-太极图形-招聘-后端开发工程师（Golang）——-公司已获得红杉资本、源码资本、GGV-纪源资本、BAI-资本数千万美元-A-轮融资](https://www.v2ex.com/t/835736)
-- [【V2EX】北上深杭-抖音工程效率/业务方向求简历---另技术面试群加人](https://www.v2ex.com/t/835730)
 - [......【查看更多】......](./details/tags/job-interview.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

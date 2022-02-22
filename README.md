@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-22 15:41:37，:rocket: 更新条数: +1951， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-22 16:17:37，:rocket: 更新条数: +1932， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-02-22-两个面试题求助，有关-slice-和字符串的](https://www.v2ex.com/t/835790) ![](assets/new.png)  
 - [2022-02-22-在合肥外企，时间比较多，闲时间想接点外包，客户端的，求推荐哪个平台靠谱点？](https://www.v2ex.com/t/835787) ![](assets/new.png)  
 - [2022-02-22-最近在弄公众号"太白技术"，求关注一波](https://www.v2ex.com/t/835785) ![](assets/new.png)  
 - [2022-02-22-17-款-13-寸-mbp-外接-4k-显示器,卡卡的,发热严重,有解决方案吗](https://www.v2ex.com/t/835784) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-02-22-Vim-的主要维护者之一-Sven-Guckes-去世了](https://www.v2ex.com/t/835762) ![](assets/new.png)  
 - [2022-02-22-Ubuntu-18-长时间不开机之后系统乱码怎么修复](https://www.v2ex.com/t/835761) ![](assets/new.png)  
 - [2022-02-22-主成分分析得到的新坐标系为什么会是所有可能坐标系中坐标轴方差最大的？](https://www.v2ex.com/t/835760) ![](assets/new.png)  
-- [2022-02-22-v-友们，现在可以买到的“剪刀脚“的薄膜键盘还有哪些啊？（剪刀脚就是像-dell-xps13-笔记本上的那种）](https://www.v2ex.com/t/835759) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -553,26 +553,17 @@
 </summary>
 
 
-- [2022-02-22-Golang-简洁架构实战](https://toutiao.io/k/vjw1dlc) ![](assets/new.png)  
-- [2022-02-22-Golang-语言-gRPC-服务怎么同时支持-gRPC-和-HTTP-客户端调用？](https://toutiao.io/k/emhzf5r) ![](assets/new.png)  
-- [2022-02-22-还在用ES查日志吗，快看看石墨文档-Clickhouse-日志架构玩法](https://toutiao.io/k/pqacedc) ![](assets/new.png)  
-- [2022-02-22-K8s-为什么这么复杂？](https://toutiao.io/k/cqip8a8) ![](assets/new.png)  
-- [2022-02-22-携程的混合办公，到底行不行？12个Vue小技巧；2022年之Web开发新基准｜码农周刊VIP会员专属邮件周报-Vol.080](https://toutiao.io/k/lk15pdx) ![](assets/new.png)  
-- [2022-02-22-一款开源NFT市场](https://toutiao.io/k/xsynx5j) ![](assets/new.png)  
-- [2022-02-22-不废话，代码实践带你掌握-强缓存、协商缓存！](https://toutiao.io/k/7sdby3w) ![](assets/new.png)  
-- [2022-02-22-用-Peer.js-愉快上手-P2P-通信](https://toutiao.io/k/gwo840i) ![](assets/new.png)  
-- [2022-02-22-观点｜SparkSQL在企业级数仓建设的优势](https://toutiao.io/k/vpbar1l) ![](assets/new.png)  
-- [2022-02-22-做到这7点，避免微服务落地失败](https://toutiao.io/k/keoawt5) ![](assets/new.png)  
-- [2022-02-22-工作中的“厨师”，生活上的诗人，其实也是架构师](https://toutiao.io/k/09pwff0) ![](assets/new.png)  
-- [2022-02-22-大厂偏爱的Agent技术究竟是个啥](https://toutiao.io/k/8o9533u) ![](assets/new.png)  
-- [2022-02-22-高效使用Chrome浏览器，你可能不知道的10个技巧。](https://toutiao.io/k/7k375t4) ![](assets/new.png)  
-- [2022-02-22-学习方法｜一把解开Kafka背后机制的“钥匙”](https://toutiao.io/k/do3l9kc) ![](assets/new.png)  
-- [2022-02-22-如何用建木CI往七牛云上传文件](https://toutiao.io/k/n48ld2w) ![](assets/new.png)  
-- [2022-02-22-Android-Studio-对现代-WorkManager-的支持](https://toutiao.io/k/meof9d2) ![](assets/new.png)  
-- [2022-02-22-你理想的混合现实MR世界是什么样的呢](https://toutiao.io/k/riqcjql) ![](assets/new.png)  
-- [2022-02-22-Hyperledger-Fabric-2.x-Java区块链应用](https://toutiao.io/k/nf1kyvz) ![](assets/new.png)  
+- [2022-02-22-盒子放久了，总会长出猫的！猫盒+抓板，点击链接立即购买！](https://toutiao.io/k/kcky0ar) ![](assets/new.png)  
+- [2022-02-22-推荐-你分库分表的姿势对么？——详谈水平分库分表](https://toutiao.io/k/eteqw6s) ![](assets/new.png)  
+- [2022-02-22-推荐-如何撰写好技术方案设计-真实案例干货分享](https://toutiao.io/k/t1d9x3b) ![](assets/new.png)  
+- [2022-02-22-推荐-ClickHouse使用实践与规范](https://toutiao.io/k/fb7mdkl) ![](assets/new.png)  
+- [2022-02-22-推荐-我做基础架构学到的42件事](https://toutiao.io/k/k6tjws1) ![](assets/new.png)  
+- [2022-02-22-推荐-一张图看懂微服务架构路线](https://toutiao.io/k/upx1qip) ![](assets/new.png)  
+- [2022-02-22-推荐-石墨文档是如何通过-WebSocket-实现百万长连接的？](https://toutiao.io/k/25nkguu) ![](assets/new.png)  
 - [2022-02-22-推荐-如何撰写好的技术方案设计-真实案例干货分享](https://toutiao.io/k/0f5fv4t) ![](assets/new.png)  
 - [2022-02-22-推荐-什么人能成为Leader，大Leader该做什么](https://toutiao.io/k/pnlaqae) ![](assets/new.png)  
+- [2022-02-22-推荐-轻松搞懂5种IO模型](https://toutiao.io/k/o77uhyt) ![](assets/new.png)  
+- [2022-02-22-推荐-神器-Nginx-的学习手册-建议收藏-](https://toutiao.io/k/6f1qaso) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

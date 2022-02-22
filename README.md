@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-22 13:18:11，:rocket: 更新条数: +1951， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-22 13:37:47，:rocket: 更新条数: +1951， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,9 @@
 </summary>
 
 
+- [2022-02-22-果断已注销京东帐号，评价同一商品两个链接两个价，无法申请价保，你真牛。好的，注销，不会再用。](https://www.v2ex.com/t/835768) ![](assets/new.png)  
+- [2022-02-22-大佬们，请问??是什么运算符](https://www.v2ex.com/t/835766) ![](assets/new.png)  
+- [2022-02-22-请问有相对完善的黑苹果-macOS12.3-的-EFI-文件不？机器是-NUC8i5-豆子峡谷网卡硬改](https://www.v2ex.com/t/835765) ![](assets/new.png)  
 - [2022-02-22-Vim-的主要维护者之一-Sven-Guckes-去世了](https://www.v2ex.com/t/835762) ![](assets/new.png)  
 - [2022-02-22-Ubuntu-18-长时间不开机之后系统乱码怎么修复](https://www.v2ex.com/t/835761) ![](assets/new.png)  
 - [2022-02-22-主成分分析得到的新坐标系为什么会是所有可能坐标系中坐标轴方差最大的？](https://www.v2ex.com/t/835760) ![](assets/new.png)  
@@ -508,9 +511,6 @@
 - [2022-02-22-苦于自己找不到某个视频，向大家求助](https://www.v2ex.com/t/835744) ![](assets/new.png)  
 - [2022-02-22-闲置-iPad-Air-2-插电用作局域网代理怎么样](https://www.v2ex.com/t/835743) ![](assets/new.png)  
 - [2022-02-22-连续两个项目培训都被告知只限举办地人员参加，我太难了](https://www.v2ex.com/t/835742) ![](assets/new.png)  
-- [2022-02-22-在网上找了个判断-IPv4/v6-的脚本，但是改了就不好使了](https://www.v2ex.com/t/835741) ![](assets/new.png)  
-- [2022-02-22-求协同表格应用，内网部署](https://www.v2ex.com/t/835740) ![](assets/new.png)  
-- [2022-02-22-Phala-Network-北京/成都-招聘全职-React-前端、DevOps-开发运维](https://www.v2ex.com/t/835739) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -571,8 +571,8 @@
 - [2022-02-22-Android-Studio-对现代-WorkManager-的支持](https://toutiao.io/k/meof9d2) ![](assets/new.png)  
 - [2022-02-22-如何用建木CI往七牛云上传文件](https://toutiao.io/k/n48ld2w) ![](assets/new.png)  
 - [2022-02-22-Hyperledger-Fabric-2.x-Java区块链应用](https://toutiao.io/k/nf1kyvz) ![](assets/new.png)  
-- [2022-02-22-推荐-支付系统架构设计详解](https://toutiao.io/k/5tx1zgw) ![](assets/new.png)  
-- [2022-02-22-推荐-如何撰写好技术方案设计-真实案例干货分享](https://toutiao.io/k/t1d9x3b) ![](assets/new.png)  
+- [2022-02-22-推荐-ClickHouse使用实践与规范](https://toutiao.io/k/fb7mdkl) ![](assets/new.png)  
+- [2022-02-22-推荐-神器-Nginx-的学习手册-建议收藏-](https://toutiao.io/k/6f1qaso) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

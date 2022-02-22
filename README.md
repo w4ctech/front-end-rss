@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-22 04:46:45，:rocket: 更新条数: +1934， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-22 05:12:21，:rocket: 更新条数: +1934， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -66,11 +66,12 @@
 
 
 - [2022-02-22-2月21日全国新增新冠138例-八省份本土59例](https://m.caixin.com/m/2022-02-22/101845056.html) ![](assets/new.png)  
+- [2022-02-22-2月21日北京新增4例本土确诊病例-涉海淀西城丰台等区](https://m.caixin.com/m/2022-02-22/101845168.html) ![](assets/new.png)  
 - [2022-02-22-钟南山为香港抗疫提三大建议-强调奥密克戎危害远大于流感](https://m.caixin.com/m/2022-02-22/101845161.html) ![](assets/new.png)  
 - [2022-02-22-研究：奥密克戎亚变体对仓鼠致病性增强](https://science.caixin.com/m/2022-02-22/101845140.html) ![](assets/new.png)  
-- [2022-02-22-张文宏：疫情防控与全球无障碍交流的冬奥探索](https://opinion.caixin.com/m/2022-02-22/101845024.html) ![](assets/new.png)  
 - [2022-02-22-香港新冠死亡病例不断攀升-11个月大女婴成最年轻死者](https://m.caixin.com/m/2022-02-22/101845080.html) ![](assets/new.png)  
 - [2022-02-22-英格兰取消所有限制-意大利免疫低下者或接种第四针｜大流行手记（2月21日）](https://m.caixin.com/m/2022-02-22/101845086.html) ![](assets/new.png)  
+- [2022-02-22-张文宏：疫情防控与全球无障碍交流的冬奥探索](https://opinion.caixin.com/m/2022-02-22/101845024.html) ![](assets/new.png)  
 - [2022-02-22-【图集】江苏苏州街道冷清-全市按下“暂停键”](https://photos.caixin.com/m/2022-02-22/101845099.html) ![](assets/new.png)  
 - [2022-02-21-最新海外疫情：新冠感染超4.23亿-累计接种新冠疫苗超104.69亿剂次](https://m.caixin.com/m/2022-02-21/101844922.html) ![](assets/new.png)  
 - [2022-02-21-北京丰台区现阳性病例-呼和浩特累计确诊161例](https://m.caixin.com/m/2022-02-21/101844898.html) ![](assets/new.png)  
@@ -84,7 +85,6 @@
 - [2022-02-19-内蒙古三市现新冠疫情-累计本土确诊病例78例](https://m.caixin.com/m/2022-02-19/101844249.html) ![](assets/new.png)  
 - [2022-02-19-广东破获偷渡案7起-各地悬红奖励线索](https://m.caixin.com/m/2022-02-19/101844232.html) ![](assets/new.png)  
 - [2022-02-19-【境内疫情观察】全国新增80例本土病例（2月18日）](https://database.caixin.com/m/2022-02-19/101844267.html) ![](assets/new.png)  
-- [2022-02-19-韩国单日病例超10万-美国将延长国家紧急状态｜大流行手记（2月18日）](https://m.caixin.com/m/2022-02-19/101844164.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -491,6 +491,13 @@
 </summary>
 
 
+- [2022-02-22-既然-AI-算法那么厉害，为什么几乎没人使用-AI-压缩图片算法呢？](https://www.v2ex.com/t/835621) ![](assets/new.png)  
+- [2022-02-22-k8s-抛弃-docker-之后，-docker-还有前途吗？](https://www.v2ex.com/t/835619) ![](assets/new.png)  
+- [2022-02-22-端传媒尊享与华尔街日报](https://www.v2ex.com/t/835618) ![](assets/new.png)  
+- [2022-02-22-cmd-命令行能否弹出-tf-卡或-U-盘](https://www.v2ex.com/t/835617) ![](assets/new.png)  
+- [2022-02-22-项目组零基础转做前端，求助前端项目目前流行的图标管理方案](https://www.v2ex.com/t/835616) ![](assets/new.png)  
+- [2022-02-22-国内云服务器续费太贵怎么办？](https://www.v2ex.com/t/835614) ![](assets/new.png)  
+- [2022-02-22-校园网-udp-qos-及内网穿透速度问题](https://www.v2ex.com/t/835613) ![](assets/new.png)  
 - [2022-02-22-手动把默认浏览器改成-Chrome，但-win10-每次都自动把默认浏览器改成-IE，如何破解？](https://www.v2ex.com/t/835612) ![](assets/new.png)  
 - [2022-02-22-最近在研究一个数据挖掘或者叫机器学习的项目，请教大家一下](https://www.v2ex.com/t/835609) ![](assets/new.png)  
 - [2022-02-22-求助各位大佬一下，一个-nginx-配置的问题，](https://www.v2ex.com/t/835608) ![](assets/new.png)  
@@ -504,13 +511,6 @@
 - [2022-02-22-张江镇三灶路转租](https://www.v2ex.com/t/835592) ![](assets/new.png)  
 - [2022-02-22-大家看《ES6-标准入门》这类技术书是怎么看的，有什么技巧吗？](https://www.v2ex.com/t/835590) ![](assets/new.png)  
 - [2022-02-22-年终奖一直不发，要离职吗？](https://www.v2ex.com/t/835588) ![](assets/new.png)  
-- [2022-02-22-新加坡-新年新气象，新加坡工作机会看一波。安全/DevOps/SRE/DBA/前端/后端岗位开放中，-P6-P9，大中型互联网公司，技术移民，薪资待遇从优，详情请微信咨询-h...](https://www.v2ex.com/t/835587) ![](assets/new.png)  
-- [2022-02-22-可不可以用树莓派作为旁路由从而实现在电视上看-Youtube?](https://www.v2ex.com/t/835585) ![](assets/new.png)  
-- [2022-02-22-如何确认自己的-iPhone-没有被零点击技术攻击](https://www.v2ex.com/t/835584) ![](assets/new.png)  
-- [2022-02-22-想在家里布置求婚场景求推荐](https://www.v2ex.com/t/835583) ![](assets/new.png)  
-- [2022-02-22-华为云开年大促销，等您来选购-V0-用户即可享受优惠,1-核-2g1m-3-年-463,2C-4G-5M-1191-3-年多种配置满足不同场景](https://www.v2ex.com/t/835582) ![](assets/new.png)  
-- [2022-02-22-Brook-v20220401](https://www.v2ex.com/t/835581) ![](assets/new.png)  
-- [2022-02-22-#-深圳Amber-Group-测试开发工程师-15k-50k·18-薪](https://www.v2ex.com/t/835580) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -565,13 +565,13 @@
 - [2022-02-22-用-Peer.js-愉快上手-P2P-通信](https://toutiao.io/k/gwo840i) ![](assets/new.png)  
 - [2022-02-22-工作中的“厨师”，生活上的诗人，其实也是架构师](https://toutiao.io/k/09pwff0) ![](assets/new.png)  
 - [2022-02-22-学习方法｜一把解开Kafka背后机制的“钥匙”](https://toutiao.io/k/do3l9kc) ![](assets/new.png)  
-- [2022-02-22-推荐-一张图看懂微服务架构路线](https://toutiao.io/k/upx1qip) ![](assets/new.png)  
-- [2022-02-22-推荐-ClickHouse使用实践与规范](https://toutiao.io/k/fb7mdkl) ![](assets/new.png)  
-- [2022-02-22-推荐-如何撰写好的技术方案设计-真实案例干货分享](https://toutiao.io/k/0f5fv4t) ![](assets/new.png)  
 - [2022-02-22-推荐-我做基础架构学到的42件事](https://toutiao.io/k/k6tjws1) ![](assets/new.png)  
-- [2022-02-22-推荐-轻松搞懂5种IO模型](https://toutiao.io/k/o77uhyt) ![](assets/new.png)  
+- [2022-02-22-推荐-一张图看懂微服务架构路线](https://toutiao.io/k/upx1qip) ![](assets/new.png)  
+- [2022-02-22-推荐-什么人能成为Leader，大Leader该做什么](https://toutiao.io/k/pnlaqae) ![](assets/new.png)  
+- [2022-02-22-推荐-你分库分表的姿势对么？——详谈水平分库分表](https://toutiao.io/k/eteqw6s) ![](assets/new.png)  
 - [2022-02-22-推荐-Go-原生并发原语和最佳实践](https://toutiao.io/k/rdpao5x) ![](assets/new.png)  
-- [2022-02-22-推荐-神器-Nginx-的学习手册-建议收藏-](https://toutiao.io/k/6f1qaso) ![](assets/new.png)  
+- [2022-02-22-推荐-支付系统架构设计详解](https://toutiao.io/k/5tx1zgw) ![](assets/new.png)  
+- [2022-02-22-推荐-轻松搞懂5种IO模型](https://toutiao.io/k/o77uhyt) ![](assets/new.png)  
 - [2022-02-22-推荐-如何撰写好技术方案设计-真实案例干货分享](https://toutiao.io/k/t1d9x3b) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

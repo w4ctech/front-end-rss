@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-02-22 00:43:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-22 01:58:25。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -107,7 +107,6 @@
 
 
 
-- [【V2EX】前端-package.json-添加-node-版本有必要和-DevOps-确认？](https://www.v2ex.com/t/835504)
 - [......【查看更多】......](./details/tags/nodejs.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -237,7 +236,6 @@
 
 - [【武汉肺炎防疫全纪录(财新网)】广州17岁男生在定点医院参加高考-特殊考场视频监考](https://m.caixin.com/m/2021-06-05/101723418.html)
 - [【武汉肺炎防疫全纪录(财新网)】林郑月娥率13高官直播接种科兴疫苗-复星疫苗预计周中到港](https://m.caixin.com/m/2021-02-22/101665724.html)
-- [【V2EX】想写一个-wasm-软解-av1-的播放器，请问如何下手？](https://www.v2ex.com/t/835501)
 - [......【查看更多】......](./details/tags/audio-video.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -278,6 +276,8 @@
 - [【武汉肺炎防疫全纪录(财新网)】腺病毒新冠疫苗引安全忧虑-康希诺称未发现血栓病例](https://m.caixin.com/m/2021-04-14/101691086.html)
 - [【武汉肺炎防疫全纪录(财新网)】解药|新冠mRNA疫苗安全性有哪些挑战？](https://m.caixin.com/m/2021-01-08/101648043.html)
 - [【武汉肺炎防疫全纪录(财新网)】大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html)
+- [【V2EX】目前录制屏幕部分区域及鼠标轨迹成-gif-的软件-or-浏览器插件有哪些？](https://www.v2ex.com/t/835545)
+- [【V2EX】在浏览器本地给你的证件照加水印](https://www.v2ex.com/t/835543)
 - [【V2EX】上海/新加坡/北京/广州/台湾/香港招前端-&-Go-开发-&-测试-&-Devops-&-安全](https://www.v2ex.com/t/835531)
 - [【技术头条】再见，收费的Teamviewer！！！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14949&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493389%26amp%3Bidx%3D1%26amp%3Bsn%3D978ce04acd53a4a22494d0f55c740b35%26amp%3Bchksm%3Dfa3f0656cd488f40f1c5b506b10237a45806e6624d1646f8bac19084dedc385e200de1a4e489%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【开发者头条】不废话，代码实践带你掌握-强缓存、协商缓存！](https://toutiao.io/k/7sdby3w)
@@ -297,7 +297,6 @@
 
 
 
-- [【V2EX】请教关于加密算法-blake2b](https://www.v2ex.com/t/835492)
 - [【开发者头条】Golang-语言-gRPC-服务怎么同时支持-gRPC-和-HTTP-客户端调用？](https://toutiao.io/k/emhzf5r)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 
@@ -348,7 +347,6 @@
 
 
 
-- [【V2EX】厦门中高薪程序员面试题](https://www.v2ex.com/t/835509)
 - [......【查看更多】......](./details/tags/job-interview.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -408,8 +406,8 @@
 
 
 
+- [【武汉肺炎防疫全纪录(财新网)】2月21日全国新增新冠138例-八省份本土59例](https://m.caixin.com/m/2022-02-22/101845056.html)
 - [【武汉肺炎防疫全纪录(财新网)】张文宏：疫情防控与全球无障碍交流的冬奥探索](https://opinion.caixin.com/m/2022-02-22/101845024.html)
-- [【武汉肺炎防疫全纪录(财新网)】最新疫情：全国新冠累计确诊107851例-累计接种新冠疫苗超30.84亿剂次](https://m.caixin.com/m/2022-02-21/101844925.html)
 - [【武汉肺炎防疫全纪录(财新网)】港大动物实验表明新冠致男性生育能力下降，疫苗可预防](https://m.caixin.com/m/2022-02-21/101844919.html)
 - [【武汉肺炎防疫全纪录(财新网)】北京丰台区现阳性病例-呼和浩特累计确诊161例](https://m.caixin.com/m/2022-02-21/101844898.html)
 - [【武汉肺炎防疫全纪录(财新网)】最新海外疫情：新冠感染超4.23亿-累计接种新冠疫苗超104.69亿剂次](https://m.caixin.com/m/2022-02-21/101844922.html)

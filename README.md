@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-22 00:43:20，:rocket: 更新条数: +1931， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-22 01:58:25，:rocket: 更新条数: +1927， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -65,8 +65,8 @@
 </summary>
 
 
+- [2022-02-22-2月21日全国新增新冠138例-八省份本土59例](https://m.caixin.com/m/2022-02-22/101845056.html) ![](assets/new.png)  
 - [2022-02-22-张文宏：疫情防控与全球无障碍交流的冬奥探索](https://opinion.caixin.com/m/2022-02-22/101845024.html) ![](assets/new.png)  
-- [2022-02-21-最新疫情：全国新冠累计确诊107851例-累计接种新冠疫苗超30.84亿剂次](https://m.caixin.com/m/2022-02-21/101844925.html) ![](assets/new.png)  
 - [2022-02-21-港大动物实验表明新冠致男性生育能力下降，疫苗可预防](https://m.caixin.com/m/2022-02-21/101844919.html) ![](assets/new.png)  
 - [2022-02-21-北京丰台区现阳性病例-呼和浩特累计确诊161例](https://m.caixin.com/m/2022-02-21/101844898.html) ![](assets/new.png)  
 - [2022-02-21-最新海外疫情：新冠感染超4.23亿-累计接种新冠疫苗超104.69亿剂次](https://m.caixin.com/m/2022-02-21/101844922.html) ![](assets/new.png)  
@@ -491,26 +491,26 @@
 </summary>
 
 
+- [2022-02-22-这是李鬼和李逵？-V2EX-vs-xa8](https://www.v2ex.com/t/835559) ![](assets/new.png)  
+- [2022-02-22-请教一下各位，上海联通的宽带怎么样？](https://www.v2ex.com/t/835558) ![](assets/new.png)  
+- [2022-02-22-微信支付港澳台地区的身份证怎么验证？](https://www.v2ex.com/t/835556) ![](assets/new.png)  
+- [2022-02-22-UML-图哪些比较有用，架构图怎么看](https://www.v2ex.com/t/835555) ![](assets/new.png)  
+- [2022-02-22-北京清华软件园-国内头部量化基金公司-寻求一名-数据开发工程师-中台方向-全日制统招本科！精通-Python-！](https://www.v2ex.com/t/835554) ![](assets/new.png)  
+- [2022-02-22-回看自己一年前职场困惑贴子有感](https://www.v2ex.com/t/835553) ![](assets/new.png)  
+- [2022-02-22-停封闭车库的电瓶车车头被挖了两个洞是想做什么](https://www.v2ex.com/t/835552) ![](assets/new.png)  
+- [2022-02-22-昨天做了一个很离谱的梦](https://www.v2ex.com/t/835550) ![](assets/new.png)  
+- [2022-02-22-想有偿请大佬写一些代码。-Python-调用-Cpp](https://www.v2ex.com/t/835549) ![](assets/new.png)  
+- [2022-02-22-Android-Privacy-Sandbox-要来了!](https://www.v2ex.com/t/835548) ![](assets/new.png)  
+- [2022-02-22-大家用-Server-酱都用在哪些场景下？](https://www.v2ex.com/t/835547) ![](assets/new.png)  
+- [2022-02-22-如何有效增强手机信号？](https://www.v2ex.com/t/835546) ![](assets/new.png)  
+- [2022-02-22-目前录制屏幕部分区域及鼠标轨迹成-gif-的软件-or-浏览器插件有哪些？](https://www.v2ex.com/t/835545) ![](assets/new.png)  
+- [2022-02-22-在浏览器本地给你的证件照加水印](https://www.v2ex.com/t/835543) ![](assets/new.png)  
+- [2022-02-22-平台在线订单的合法性怎么处理？](https://www.v2ex.com/t/835542) ![](assets/new.png)  
+- [2022-02-22-跟着电影，一起打卡东南第二大岛屿](https://www.v2ex.com/t/835541) ![](assets/new.png)  
+- [2022-02-22-有没有一种方法能检测-app-应用图标](https://www.v2ex.com/t/835540) ![](assets/new.png)  
+- [2022-02-22-这种光猫-改桥接后-iptv-要怎么设置？](https://www.v2ex.com/t/835539) ![](assets/new.png)  
 - [2022-02-22-macos-的-onedrive-不支持保存在外部存储了](https://www.v2ex.com/t/835538) ![](assets/new.png)  
 - [2022-02-21-每日一梦是什么感受](https://www.v2ex.com/t/835537) ![](assets/new.png)  
-- [2022-02-21-Linux-能否实现-Windows-临时-IPv6-地址](https://www.v2ex.com/t/835535) ![](assets/new.png)  
-- [2022-02-21-OP-在-SLAAC-模式下-无法修改-valid_lifetime-/-preferred_lifetime](https://www.v2ex.com/t/835534) ![](assets/new.png)  
-- [2022-02-21-如何避免拷贝到-iCloud-Photos-里的照片被分类到“导入”文件夹](https://www.v2ex.com/t/835533) ![](assets/new.png)  
-- [2022-02-21-上海/新加坡/北京/广州/台湾/香港招前端-&-Go-开发-&-测试-&-Devops-&-安全](https://www.v2ex.com/t/835531) ![](assets/new.png)  
-- [2022-02-21-可以在-mac-上运行安卓虚拟机，体验下原生-Andriod-么？](https://www.v2ex.com/t/835527) ![](assets/new.png)  
-- [2022-02-21-即将去-B-站入职，求推荐租房](https://www.v2ex.com/t/835526) ![](assets/new.png)  
-- [2022-02-21-深圳-大疆自动驾驶急招后端/前端/C++/可视化...](https://www.v2ex.com/t/835523) ![](assets/new.png)  
-- [2022-02-21-想配台主机（不带显卡，价位-5000-左右），目前有推荐的配置有哪些？](https://www.v2ex.com/t/835521) ![](assets/new.png)  
-- [2022-02-21-尝试在家办公了半个月，感觉很不适合自己。](https://www.v2ex.com/t/835520) ![](assets/new.png)  
-- [2022-02-21-2022-年了，微信-PC-客户端居然不支持自定义字体大小？](https://www.v2ex.com/t/835519) ![](assets/new.png)  
-- [2022-02-21-戴森吹风机冬天风不热是不是坏了？](https://www.v2ex.com/t/835517) ![](assets/new.png)  
-- [2022-02-21-能想出“残忍离开”、“狠心卸载”用到产品上的人其实更残忍也更狠心](https://www.v2ex.com/t/835516) ![](assets/new.png)  
-- [2022-02-21-如何找在线实习经历](https://www.v2ex.com/t/835513) ![](assets/new.png)  
-- [2022-02-21-字节跳动+校招内推-坐标抖音，部门直招研发&测试，真的好缺人....](https://www.v2ex.com/t/835512) ![](assets/new.png)  
-- [2022-02-21-布线问题，无线-or-六类-or-隐形光纤？老哥们给点意见](https://www.v2ex.com/t/835510) ![](assets/new.png)  
-- [2022-02-21-厦门中高薪程序员面试题](https://www.v2ex.com/t/835509) ![](assets/new.png)  
-- [2022-02-21-如何获取微信-ipa-并重新签名实现两个共存](https://www.v2ex.com/t/835508) ![](assets/new.png)  
-- [2022-02-21-推荐大家不要购买联想-CC100-充电头](https://www.v2ex.com/t/835507) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -553,26 +553,24 @@
 </summary>
 
 
-- [2022-02-22-求你别自己瞎写工具类了，Spring自带的这些他不香麽？](https://toutiao.io/k/jvzkrt6) ![](assets/new.png)  
-- [2022-02-22-携程的混合办公，到底行不行？12个Vue小技巧；2022年之Web开发新基准｜码农周刊VIP会员专属邮件周报-Vol.080](https://toutiao.io/k/lk15pdx) ![](assets/new.png)  
 - [2022-02-22-Golang-简洁架构实战](https://toutiao.io/k/vjw1dlc) ![](assets/new.png)  
+- [2022-02-22-携程的混合办公，到底行不行？12个Vue小技巧；2022年之Web开发新基准｜码农周刊VIP会员专属邮件周报-Vol.080](https://toutiao.io/k/lk15pdx) ![](assets/new.png)  
 - [2022-02-22-一款开源NFT市场](https://toutiao.io/k/xsynx5j) ![](assets/new.png)  
 - [2022-02-22-Golang-语言-gRPC-服务怎么同时支持-gRPC-和-HTTP-客户端调用？](https://toutiao.io/k/emhzf5r) ![](assets/new.png)  
 - [2022-02-22-还在用ES查日志吗，快看看石墨文档-Clickhouse-日志架构玩法](https://toutiao.io/k/pqacedc) ![](assets/new.png)  
-- [2022-02-22-一些日常使用的Python技巧分享](https://toutiao.io/k/2c2m91a) ![](assets/new.png)  
-- [2022-02-22-95后阿里P7晒出工资单：狠补了这个，真香…](https://toutiao.io/k/2vdq63l) ![](assets/new.png)  
-- [2022-02-22-观点｜SparkSQL在企业级数仓建设的优势](https://toutiao.io/k/vpbar1l) ![](assets/new.png)  
 - [2022-02-22-不废话，代码实践带你掌握-强缓存、协商缓存！](https://toutiao.io/k/7sdby3w) ![](assets/new.png)  
-- [2022-02-22-推荐-什么人能成为Leader，大Leader该做什么](https://toutiao.io/k/pnlaqae) ![](assets/new.png)  
-- [2022-02-22-推荐-轻松搞懂5种IO模型](https://toutiao.io/k/o77uhyt) ![](assets/new.png)  
-- [2022-02-22-推荐-支付系统架构设计详解](https://toutiao.io/k/5tx1zgw) ![](assets/new.png)  
-- [2022-02-22-推荐-如何撰写好技术方案设计-真实案例干货分享](https://toutiao.io/k/t1d9x3b) ![](assets/new.png)  
-- [2022-02-22-推荐-你分库分表的姿势对么？——详谈水平分库分表](https://toutiao.io/k/eteqw6s) ![](assets/new.png)  
-- [2022-02-22-推荐-如何撰写好的技术方案设计-真实案例干货分享](https://toutiao.io/k/0f5fv4t) ![](assets/new.png)  
+- [2022-02-22-观点｜SparkSQL在企业级数仓建设的优势](https://toutiao.io/k/vpbar1l) ![](assets/new.png)  
 - [2022-02-22-推荐-我做基础架构学到的42件事](https://toutiao.io/k/k6tjws1) ![](assets/new.png)  
-- [2022-02-22-推荐-ClickHouse使用实践与规范](https://toutiao.io/k/fb7mdkl) ![](assets/new.png)  
+- [2022-02-22-推荐-支付系统架构设计详解](https://toutiao.io/k/5tx1zgw) ![](assets/new.png)  
+- [2022-02-22-推荐-什么人能成为Leader，大Leader该做什么](https://toutiao.io/k/pnlaqae) ![](assets/new.png)  
+- [2022-02-22-推荐-你分库分表的姿势对么？——详谈水平分库分表](https://toutiao.io/k/eteqw6s) ![](assets/new.png)  
 - [2022-02-22-推荐-一张图看懂微服务架构路线](https://toutiao.io/k/upx1qip) ![](assets/new.png)  
+- [2022-02-22-推荐-ClickHouse使用实践与规范](https://toutiao.io/k/fb7mdkl) ![](assets/new.png)  
+- [2022-02-22-推荐-神器-Nginx-的学习手册-建议收藏-](https://toutiao.io/k/6f1qaso) ![](assets/new.png)  
+- [2022-02-22-推荐-如何撰写好技术方案设计-真实案例干货分享](https://toutiao.io/k/t1d9x3b) ![](assets/new.png)  
 - [2022-02-22-推荐-Go-原生并发原语和最佳实践](https://toutiao.io/k/rdpao5x) ![](assets/new.png)  
+- [2022-02-22-推荐-轻松搞懂5种IO模型](https://toutiao.io/k/o77uhyt) ![](assets/new.png)  
+- [2022-02-22-推荐-如何撰写好的技术方案设计-真实案例干货分享](https://toutiao.io/k/0f5fv4t) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

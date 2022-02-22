@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-02-22 11:35:56。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-22 12:21:45。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -157,7 +157,6 @@
 
 
 
-- [【V2EX】想买个投影仪用-NS-主机模式打游戏，求推荐。](https://www.v2ex.com/t/835701)
 - [......【查看更多】......](./details/tags/dev-game.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -258,6 +257,7 @@
 
 
 
+- [【V2EX】一行代码动态加载-Python-库依赖](https://www.v2ex.com/t/835749)
 - [【V2EX】想研究下跑在嵌入式-ARM-上的软件（底层）优化，从哪里可以找点资料。](https://www.v2ex.com/t/835731)
 - [【技术头条】性能优化那些事儿（2）-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14945&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fperformance-turning-practice-2%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【技术头条】性能工程之性能规划实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14944&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fperformance-testing-planning%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
@@ -283,8 +283,9 @@
 - [【武汉肺炎防疫全纪录(财新网)】腺病毒新冠疫苗引安全忧虑-康希诺称未发现血栓病例](https://m.caixin.com/m/2021-04-14/101691086.html)
 - [【武汉肺炎防疫全纪录(财新网)】解药|新冠mRNA疫苗安全性有哪些挑战？](https://m.caixin.com/m/2021-01-08/101648043.html)
 - [【武汉肺炎防疫全纪录(财新网)】大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html)
+- [【V2EX】类似快速幂，但是不知道原理，请求大佬指导](https://www.v2ex.com/t/835752)
+- [【V2EX】Chrome-登录-Apple-网站每次选择「信任此浏览器」，感觉都毫无作用啊](https://www.v2ex.com/t/835748)
 - [【V2EX】360-的扫地机器人为啥这么多-DNS-请求](https://www.v2ex.com/t/835733)
-- [【V2EX】有人尝试过同时使用卡巴斯基和国内安全软件吗？](https://www.v2ex.com/t/835703)
 - [【技术头条】再见，收费的Teamviewer！！！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14949&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493389%26amp%3Bidx%3D1%26amp%3Bsn%3D978ce04acd53a4a22494d0f55c740b35%26amp%3Bchksm%3Dfa3f0656cd488f40f1c5b506b10237a45806e6624d1646f8bac19084dedc385e200de1a4e489%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【开发者头条】不废话，代码实践带你掌握-强缓存、协商缓存！](https://toutiao.io/k/7sdby3w)
 - [【开发者头条】高效使用Chrome浏览器，你可能不知道的10个技巧。](https://toutiao.io/k/7k375t4)

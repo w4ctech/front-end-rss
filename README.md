@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-22 10:40:10，:rocket: 更新条数: +1949， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-22 11:11:52，:rocket: 更新条数: +1949， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-02-22-求协同表格应用，内网部署](https://www.v2ex.com/t/835740) ![](assets/new.png)  
+- [2022-02-22-Phala-Network-北京/成都-招聘全职-React-前端、DevOps-开发运维](https://www.v2ex.com/t/835739) ![](assets/new.png)  
 - [2022-02-22-北京/上海-太极图形-招聘-后端开发工程师（Golang）——-公司已获得红杉资本、源码资本、GGV-纪源资本、BAI-资本数千万美元-A-轮融资](https://www.v2ex.com/t/835736) ![](assets/new.png)  
 - [2022-02-22-求购一个-surge-4-for-mac-终身订阅](https://www.v2ex.com/t/835735) ![](assets/new.png)  
 - [2022-02-22-三年经验的前端开发应当具备哪些能力](https://www.v2ex.com/t/835734) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-02-22-有偿求苹果-Appstore-上架指导](https://www.v2ex.com/t/835717) ![](assets/new.png)  
 - [2022-02-22-新人入坑前端，请问应该如何学习-H5-移动端响应式布局呢？](https://www.v2ex.com/t/835716) ![](assets/new.png)  
 - [2022-02-22-没有在有效期内的护照/港澳通行证或海外银行卡，有办法开通-GitHub-Sponsors-吗？](https://www.v2ex.com/t/835715) ![](assets/new.png)  
-- [2022-02-22-小米用户，你升级-MIUI13-了吗？](https://www.v2ex.com/t/835714) ![](assets/new.png)  
-- [2022-02-22-Logi-Options+最新版本支持-Apple-Silicon-了](https://www.v2ex.com/t/835712) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -571,8 +571,8 @@
 - [2022-02-22-Android-Studio-对现代-WorkManager-的支持](https://toutiao.io/k/meof9d2) ![](assets/new.png)  
 - [2022-02-22-如何用建木CI往七牛云上传文件](https://toutiao.io/k/n48ld2w) ![](assets/new.png)  
 - [2022-02-22-Hyperledger-Fabric-2.x-Java区块链应用](https://toutiao.io/k/nf1kyvz) ![](assets/new.png)  
-- [2022-02-22-推荐-如何撰写好的技术方案设计-真实案例干货分享](https://toutiao.io/k/0f5fv4t) ![](assets/new.png)  
-- [2022-02-22-推荐-神器-Nginx-的学习手册-建议收藏-](https://toutiao.io/k/6f1qaso) ![](assets/new.png)  
+- [2022-02-22-推荐-支付系统架构设计详解](https://toutiao.io/k/5tx1zgw) ![](assets/new.png)  
+- [2022-02-22-推荐-什么人能成为Leader，大Leader该做什么](https://toutiao.io/k/pnlaqae) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

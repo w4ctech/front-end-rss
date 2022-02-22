@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2022-02-22 12:56:57。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-22 13:18:11。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-02-22-Vim-的主要维护者之一-Sven-Guckes-去世了](https://www.v2ex.com/t/835762) 
+- [2022-02-22-Ubuntu-18-长时间不开机之后系统乱码怎么修复](https://www.v2ex.com/t/835761) 
 - [2022-02-22-主成分分析得到的新坐标系为什么会是所有可能坐标系中坐标轴方差最大的？](https://www.v2ex.com/t/835760) 
 - [2022-02-22-v-友们，现在可以买到的“剪刀脚“的薄膜键盘还有哪些啊？（剪刀脚就是像-dell-xps13-笔记本上的那种）](https://www.v2ex.com/t/835759) 
 - [2022-02-22-如何苦中作乐](https://www.v2ex.com/t/835758) 
@@ -41,5 +43,3 @@
 - [2022-02-22-有偿求苹果-Appstore-上架指导](https://www.v2ex.com/t/835717) 
 - [2022-02-22-新人入坑前端，请问应该如何学习-H5-移动端响应式布局呢？](https://www.v2ex.com/t/835716) 
 - [2022-02-22-没有在有效期内的护照/港澳通行证或海外银行卡，有办法开通-GitHub-Sponsors-吗？](https://www.v2ex.com/t/835715) 
-- [2022-02-22-小米用户，你升级-MIUI13-了吗？](https://www.v2ex.com/t/835714) 
-- [2022-02-22-Logi-Options+最新版本支持-Apple-Silicon-了](https://www.v2ex.com/t/835712) 

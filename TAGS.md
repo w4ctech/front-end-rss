@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-02-22 12:56:57。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-22 13:18:11。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -305,6 +305,7 @@
 
 
 
+- [【V2EX】Vim-的主要维护者之一-Sven-Guckes-去世了](https://www.v2ex.com/t/835762)
 - [【开发者头条】Golang-语言-gRPC-服务怎么同时支持-gRPC-和-HTTP-客户端调用？](https://toutiao.io/k/emhzf5r)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 

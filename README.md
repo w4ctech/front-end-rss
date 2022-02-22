@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-22 12:56:57，:rocket: 更新条数: +1951， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-22 13:18:11，:rocket: 更新条数: +1951， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-02-22-Vim-的主要维护者之一-Sven-Guckes-去世了](https://www.v2ex.com/t/835762) ![](assets/new.png)  
+- [2022-02-22-Ubuntu-18-长时间不开机之后系统乱码怎么修复](https://www.v2ex.com/t/835761) ![](assets/new.png)  
 - [2022-02-22-主成分分析得到的新坐标系为什么会是所有可能坐标系中坐标轴方差最大的？](https://www.v2ex.com/t/835760) ![](assets/new.png)  
 - [2022-02-22-v-友们，现在可以买到的“剪刀脚“的薄膜键盘还有哪些啊？（剪刀脚就是像-dell-xps13-笔记本上的那种）](https://www.v2ex.com/t/835759) ![](assets/new.png)  
 - [2022-02-22-如何苦中作乐](https://www.v2ex.com/t/835758) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-02-22-在网上找了个判断-IPv4/v6-的脚本，但是改了就不好使了](https://www.v2ex.com/t/835741) ![](assets/new.png)  
 - [2022-02-22-求协同表格应用，内网部署](https://www.v2ex.com/t/835740) ![](assets/new.png)  
 - [2022-02-22-Phala-Network-北京/成都-招聘全职-React-前端、DevOps-开发运维](https://www.v2ex.com/t/835739) ![](assets/new.png)  
-- [2022-02-22-北京/上海-太极图形-招聘-后端开发工程师（Golang）——-公司已获得红杉资本、源码资本、GGV-纪源资本、BAI-资本数千万美元-A-轮融资](https://www.v2ex.com/t/835736) ![](assets/new.png)  
-- [2022-02-22-求购一个-surge-4-for-mac-终身订阅](https://www.v2ex.com/t/835735) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -567,12 +567,12 @@
 - [2022-02-22-大厂偏爱的Agent技术究竟是个啥](https://toutiao.io/k/8o9533u) ![](assets/new.png)  
 - [2022-02-22-学习方法｜一把解开Kafka背后机制的“钥匙”](https://toutiao.io/k/do3l9kc) ![](assets/new.png)  
 - [2022-02-22-高效使用Chrome浏览器，你可能不知道的10个技巧。](https://toutiao.io/k/7k375t4) ![](assets/new.png)  
-- [2022-02-22-Android-Studio-对现代-WorkManager-的支持](https://toutiao.io/k/meof9d2) ![](assets/new.png)  
 - [2022-02-22-你理想的混合现实MR世界是什么样的呢](https://toutiao.io/k/riqcjql) ![](assets/new.png)  
+- [2022-02-22-Android-Studio-对现代-WorkManager-的支持](https://toutiao.io/k/meof9d2) ![](assets/new.png)  
 - [2022-02-22-如何用建木CI往七牛云上传文件](https://toutiao.io/k/n48ld2w) ![](assets/new.png)  
 - [2022-02-22-Hyperledger-Fabric-2.x-Java区块链应用](https://toutiao.io/k/nf1kyvz) ![](assets/new.png)  
-- [2022-02-22-推荐-我做基础架构学到的42件事](https://toutiao.io/k/k6tjws1) ![](assets/new.png)  
-- [2022-02-22-推荐-神器-Nginx-的学习手册-建议收藏-](https://toutiao.io/k/6f1qaso) ![](assets/new.png)  
+- [2022-02-22-推荐-支付系统架构设计详解](https://toutiao.io/k/5tx1zgw) ![](assets/new.png)  
+- [2022-02-22-推荐-如何撰写好技术方案设计-真实案例干货分享](https://toutiao.io/k/t1d9x3b) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

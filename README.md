@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-22 15:14:29，:rocket: 更新条数: +1951， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-22 15:41:37，:rocket: 更新条数: +1951， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-02-22-在合肥外企，时间比较多，闲时间想接点外包，客户端的，求推荐哪个平台靠谱点？](https://www.v2ex.com/t/835787) ![](assets/new.png)  
+- [2022-02-22-最近在弄公众号"太白技术"，求关注一波](https://www.v2ex.com/t/835785) ![](assets/new.png)  
 - [2022-02-22-17-款-13-寸-mbp-外接-4k-显示器,卡卡的,发热严重,有解决方案吗](https://www.v2ex.com/t/835784) ![](assets/new.png)  
 - [2022-02-22-迫于-Apple-TV-被女朋友嫌弃连爱奇艺都看不了，求推荐外贸盒子](https://www.v2ex.com/t/835783) ![](assets/new.png)  
 - [2022-02-22-杭州-滴滴-Java-开发内推](https://www.v2ex.com/t/835780) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-02-22-Ubuntu-18-长时间不开机之后系统乱码怎么修复](https://www.v2ex.com/t/835761) ![](assets/new.png)  
 - [2022-02-22-主成分分析得到的新坐标系为什么会是所有可能坐标系中坐标轴方差最大的？](https://www.v2ex.com/t/835760) ![](assets/new.png)  
 - [2022-02-22-v-友们，现在可以买到的“剪刀脚“的薄膜键盘还有哪些啊？（剪刀脚就是像-dell-xps13-笔记本上的那种）](https://www.v2ex.com/t/835759) ![](assets/new.png)  
-- [2022-02-22-如何苦中作乐](https://www.v2ex.com/t/835758) ![](assets/new.png)  
-- [2022-02-22-写了个京东抢购助手～（自动下单）](https://www.v2ex.com/t/835757) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -571,8 +571,8 @@
 - [2022-02-22-Android-Studio-对现代-WorkManager-的支持](https://toutiao.io/k/meof9d2) ![](assets/new.png)  
 - [2022-02-22-你理想的混合现实MR世界是什么样的呢](https://toutiao.io/k/riqcjql) ![](assets/new.png)  
 - [2022-02-22-Hyperledger-Fabric-2.x-Java区块链应用](https://toutiao.io/k/nf1kyvz) ![](assets/new.png)  
-- [2022-02-22-推荐-轻松搞懂5种IO模型](https://toutiao.io/k/o77uhyt) ![](assets/new.png)  
-- [2022-02-22-推荐-我做基础架构学到的42件事](https://toutiao.io/k/k6tjws1) ![](assets/new.png)  
+- [2022-02-22-推荐-如何撰写好的技术方案设计-真实案例干货分享](https://toutiao.io/k/0f5fv4t) ![](assets/new.png)  
+- [2022-02-22-推荐-什么人能成为Leader，大Leader该做什么](https://toutiao.io/k/pnlaqae) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

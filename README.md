@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-23 16:56:25，:rocket: 更新条数: +1955， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-23 17:15:55，:rocket: 更新条数: +1955， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-02-23-美区-apple-id-被限制内购](https://www.v2ex.com/t/836057) ![](assets/new.png)  
 - [2022-02-23-怎么简单的加密文件名？](https://www.v2ex.com/t/836056) ![](assets/new.png)  
 - [2022-02-23-GitLab-China-居然不支持在发行版本时上传二进位程式档案](https://www.v2ex.com/t/836055) ![](assets/new.png)  
 - [2022-02-23-现在看不下去书和资料，是不是该找一个培训班提升下自己](https://www.v2ex.com/t/836053) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-02-23-南京-citrix超多-hc-虚拟化云计算大数据机器学习-Devops-移动端-测试-Java-/C#/C++-美国外企-20-70k-五险一金-24％男性陪产假-180-天全年在家办公](https://www.v2ex.com/t/836034) ![](assets/new.png)  
 - [2022-02-23-为什么硬盘录像机能搜索到不同网段的监控摄像头？](https://www.v2ex.com/t/836033) ![](assets/new.png)  
 - [2022-02-23-疲劳值测试](https://www.v2ex.com/t/836032) ![](assets/new.png)  
-- [2022-02-23-投票推广活动，用哪个小程序好呢？](https://www.v2ex.com/t/836031) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -569,10 +569,10 @@
 - [2022-02-23-网友：Go-你是-Google-的，Go：我不是](https://toutiao.io/k/i96jp2j) ![](assets/new.png)  
 - [2022-02-23-Java不支持协程？那是你不知道Quasar！](https://toutiao.io/k/7jbrdsb) ![](assets/new.png)  
 - [2022-02-23-对C指针的理解](https://toutiao.io/k/vkg2o84) ![](assets/new.png)  
+- [2022-02-23-推荐-我做基础架构学到的42件事](https://toutiao.io/k/k6tjws1) ![](assets/new.png)  
+- [2022-02-23-推荐-如何撰写好技术方案设计-真实案例干货分享](https://toutiao.io/k/t1d9x3b) ![](assets/new.png)  
 - [2022-02-23-推荐-【超赞】技术架构的战略和战术原则](https://toutiao.io/k/j9872pc) ![](assets/new.png)  
-- [2022-02-23-推荐-ClickHouse使用实践与规范](https://toutiao.io/k/fb7mdkl) ![](assets/new.png)  
-- [2022-02-23-推荐-一张图看懂微服务架构路线](https://toutiao.io/k/upx1qip) ![](assets/new.png)  
-- [2022-02-23-推荐-你分库分表的姿势对么？——详谈水平分库分表](https://toutiao.io/k/eteqw6s) ![](assets/new.png)  
+- [2022-02-23-推荐-趣谈IO多路复用的本质](https://toutiao.io/k/j4nqhbc) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-02-23 04:46:35。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-23 05:12:41。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -241,6 +241,7 @@
 
 - [【武汉肺炎防疫全纪录(财新网)】广州17岁男生在定点医院参加高考-特殊考场视频监考](https://m.caixin.com/m/2021-06-05/101723418.html)
 - [【武汉肺炎防疫全纪录(财新网)】林郑月娥率13高官直播接种科兴疫苗-复星疫苗预计周中到港](https://m.caixin.com/m/2021-02-22/101665724.html)
+- [【V2EX】我有一个-mov-视频文件的-URL，请问怎么让别人的-iPhone-快速保存到相册？](https://www.v2ex.com/t/835892)
 - [【V2EX】CDN-在直播时发挥的作用大吗？](https://www.v2ex.com/t/835861)
 - [......【查看更多】......](./details/tags/audio-video.md)
 
@@ -283,7 +284,6 @@
 - [【武汉肺炎防疫全纪录(财新网)】解药|新冠mRNA疫苗安全性有哪些挑战？](https://m.caixin.com/m/2021-01-08/101648043.html)
 - [【武汉肺炎防疫全纪录(财新网)】大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html)
 - [【V2EX】chrome-最近一个星期登录的网站时不时就会退出，怀疑是某种情形下-cookie-丢失了。](https://www.v2ex.com/t/835885)
-- [【V2EX】新加坡技术移民机会-知名互联网公司，招移动端（iOS,安卓,-RN），前端开发，后端开发（不限开发语言），-运维及运维开发/DevOps-/SRE-和-DBA-及安全等各类工...](https://www.v2ex.com/t/835843)
 - [【技术头条】再见，收费的Teamviewer！！！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14949&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493389%26amp%3Bidx%3D1%26amp%3Bsn%3D978ce04acd53a4a22494d0f55c740b35%26amp%3Bchksm%3Dfa3f0656cd488f40f1c5b506b10237a45806e6624d1646f8bac19084dedc385e200de1a4e489%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【开发者头条】推荐-石墨文档是如何通过-WebSocket-实现百万长连接的？](https://toutiao.io/k/25nkguu)
 - [......【查看更多】......](./details/tags/browser.md)

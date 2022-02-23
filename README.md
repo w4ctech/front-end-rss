@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-23 15:41:16，:rocket: 更新条数: +1956， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-23 16:17:50，:rocket: 更新条数: +1955， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-02-23-迫于想在简历上写我的开源项目的下载量，有办法统计-GitHub-Release-的下载次数吗？](https://www.v2ex.com/t/836051) ![](assets/new.png)  
+- [2022-02-23-Windows-任务管理器的分析等待链，程序只有进程没有界面，线程卡死如何处理？](https://www.v2ex.com/t/836048) ![](assets/new.png)  
 - [2022-02-23-Arm-架构的-windows](https://www.v2ex.com/t/836047) ![](assets/new.png)  
 - [2022-02-23-m1-mac-顶部菜单栏空间不够显示所有软件怎么办？](https://www.v2ex.com/t/836046) ![](assets/new.png)  
 - [2022-02-23-广东电信貌似已经有了-2000Mbps-宽带的模板](https://www.v2ex.com/t/836044) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-02-23-进行主成分分析后如何正确的对主成分进行解释？](https://www.v2ex.com/t/836028) ![](assets/new.png)  
 - [2022-02-23-全栈找工作好难啊,大多数企业都只招专精的人才,或者说是全栈,去面试才知道就是单纯的各种做管理系统](https://www.v2ex.com/t/836027) ![](assets/new.png)  
 - [2022-02-23-ios-微信端可以热更新吗？不通过-appstore-就能实现](https://www.v2ex.com/t/836026) ![](assets/new.png)  
-- [2022-02-23-做了一套捏人系统的-demo](https://www.v2ex.com/t/836025) ![](assets/new.png)  
-- [2022-02-23-基于-debian-的-Docker-内如何添加-LC_CTYPE-项？](https://www.v2ex.com/t/836024) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -561,8 +561,8 @@
 - [2022-02-23-SpringBoot性能优化大全，贼好使！](https://toutiao.io/k/75br1se) ![](assets/new.png)  
 - [2022-02-23-海量Node.js网关的架构设计与工程实践！](https://toutiao.io/k/xfbz3fp) ![](assets/new.png)  
 - [2022-02-23-极速生成缩略图，Serverless-支撑赛事转播锁定冬奥亮点](https://toutiao.io/k/1n166h7) ![](assets/new.png)  
-- [2022-02-23-盒子放久了，总会长出猫的！猫盒+抓板，点击链接立即购买！](https://toutiao.io/k/kcky0ar) ![](assets/new.png)  
 - [2022-02-23-麻省理工学院推出新编程语言](https://toutiao.io/k/9kokar6) ![](assets/new.png)  
+- [2022-02-23-盒子放久了，总会长出猫的！猫盒+抓板，点击链接立即购买！](https://toutiao.io/k/kcky0ar) ![](assets/new.png)  
 - [2022-02-23-面渣逆袭：二十二图、八千字、二十问，彻底搞定MyBatis！](https://toutiao.io/k/cbbl4wm) ![](assets/new.png)  
 - [2022-02-23-Vue-是如何用-Rollup-打包的？](https://toutiao.io/k/2o5ql5a) ![](assets/new.png)  
 - [2022-02-23-网传字节跳动一员工猝死，妻子怀孕两个月](https://toutiao.io/k/8v9qo6f) ![](assets/new.png)  
@@ -570,9 +570,9 @@
 - [2022-02-23-网友：Go-你是-Google-的，Go：我不是](https://toutiao.io/k/i96jp2j) ![](assets/new.png)  
 - [2022-02-23-对C指针的理解](https://toutiao.io/k/vkg2o84) ![](assets/new.png)  
 - [2022-02-23-推荐-轻松搞懂5种IO模型](https://toutiao.io/k/o77uhyt) ![](assets/new.png)  
-- [2022-02-23-推荐-如何撰写好技术方案设计-真实案例干货分享](https://toutiao.io/k/t1d9x3b) ![](assets/new.png)  
-- [2022-02-23-推荐-一张图看懂微服务架构路线](https://toutiao.io/k/upx1qip) ![](assets/new.png)  
-- [2022-02-23-推荐-趣谈IO多路复用的本质](https://toutiao.io/k/j4nqhbc) ![](assets/new.png)  
+- [2022-02-23-推荐-【超赞】技术架构的战略和战术原则](https://toutiao.io/k/j9872pc) ![](assets/new.png)  
+- [2022-02-23-推荐-什么人能成为Leader，大Leader该做什么](https://toutiao.io/k/pnlaqae) ![](assets/new.png)  
+- [2022-02-23-推荐-ClickHouse使用实践与规范](https://toutiao.io/k/fb7mdkl) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-02-23 15:41:16。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-23 16:17:51。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -20,4 +20,3 @@
 - [2022-02-23-现在-Web-开发大家用-H5-语义化标签还是用的-div+span-呀](https://www.v2ex.com/t/836039) 
 - [2022-02-23-有懂主板的老哥吗？帮我看看我软路由上这个主板能否接-SATA-的机械硬盘](https://www.v2ex.com/t/836012) 
 - [2022-02-23-github-action-可以由前端-js-事件触发吗](https://www.v2ex.com/t/836008) 
-- [2022-02-23-12-年的-dell-主机能塞下微星-h510m-吗？附图。](https://www.v2ex.com/t/836000) 

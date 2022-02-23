@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-02-23 06:44:50。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-23 07:12:32。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 前端进阶相关
 
@@ -7,4 +7,5 @@
 
 
 
+- [2022-02-23-miui-刷机求助，-fastboot-模式下连电脑不识别，正常连接电脑可以识别](https://www.v2ex.com/t/835926) 
 - [2022-02-23-《算法通关手册》](https://toutiao.io/k/g61h5oi) 

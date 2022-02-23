@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-02-23 08:40:58。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-23 09:12:28。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -223,6 +223,7 @@
 
 
 
+- [【V2EX】TinyPNG-图片压缩问题](https://www.v2ex.com/t/835964)
 - [【V2EX】关于-PNG-图片二次压缩，刚发现一件很有意思的事情。](https://www.v2ex.com/t/835949)
 - [......【查看更多】......](./details/tags/canvas-image.md)
 
@@ -337,7 +338,6 @@
 
 
 - [【V2EX】求助大佬~-iSH-同步-Github-报错-Could-not-read-from-remote-repository](https://www.v2ex.com/t/835959)
-- [【V2EX】终于说动公司切-Git-了，现调研阶段，求-GitLab-+-Jenkins-类似的技术方案推荐。](https://www.v2ex.com/t/835915)
 - [【开发者头条】刷新世界纪录，GitHub-又一黑科技项目面世！](https://toutiao.io/k/5z90ek1)
 - [......【查看更多】......](./details/tags/git-svn.md)
 
@@ -355,6 +355,7 @@
 
 
 
+- [【V2EX】一年经验-面试大厂的-Java-开发-基础知识需要准备到什么程度呢](https://www.v2ex.com/t/835965)
 - [【V2EX】杭州-WLB-微软谷歌大牛带领的智能硬件公司大量招聘](https://www.v2ex.com/t/835957)
 - [【V2EX】20K-60K+16+965-顶级区块链吴忌寒项目-招聘前端研发/Golang/其他岗位-可远程不卷](https://www.v2ex.com/t/835922)
 - [......【查看更多】......](./details/tags/job-interview.md)

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-23 03:13:31，:rocket: 更新条数: +1946， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-23 03:38:57，:rocket: 更新条数: +1945， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-02-23-请问下面这个软件是用什么语言写的？](https://www.v2ex.com/t/835876) ![](assets/new.png)  
 - [2022-02-23-北京-后端研发工程师（云原生/区块链方向）](https://www.v2ex.com/t/835873) ![](assets/new.png)  
 - [2022-02-23-房东不退押金，如何维权？](https://www.v2ex.com/t/835872) ![](assets/new.png)  
 - [2022-02-23-公司内部系统单点登录求求大佬给个方案](https://www.v2ex.com/t/835870) ![](assets/new.png)  
@@ -509,7 +510,6 @@
 - [2022-02-23-深圳在哪里配眼镜性价比高-500-以内](https://www.v2ex.com/t/835853) ![](assets/new.png)  
 - [2022-02-23-人生第一次跳槽,有几个问题想要请教各位](https://www.v2ex.com/t/835851) ![](assets/new.png)  
 - [2022-02-23-好物推荐（互利互惠）](https://www.v2ex.com/t/835850) ![](assets/new.png)  
-- [2022-02-23-好奇一下，最近猝死的字节员工是哪个小区的](https://www.v2ex.com/t/835848) ![](assets/new.png)  
 - [2022-02-23-是时候解散微信企业了](https://www.v2ex.com/t/835845) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
@@ -561,18 +561,18 @@
 - [2022-02-23-Vue-是如何用-Rollup-打包的？](https://toutiao.io/k/2o5ql5a) ![](assets/new.png)  
 - [2022-02-23-Kubernetes-故障排除三板斧：理解、管理和预防](https://toutiao.io/k/5ximy5q) ![](assets/new.png)  
 - [2022-02-23-图文详解CDC技术，看这一篇就够了！](https://toutiao.io/k/fu2lq0l) ![](assets/new.png)  
-- [2022-02-23-极速生成缩略图，Serverless-支撑赛事转播锁定冬奥亮点](https://toutiao.io/k/1n166h7) ![](assets/new.png)  
 - [2022-02-23-海量Node.js网关的架构设计与工程实践！](https://toutiao.io/k/xfbz3fp) ![](assets/new.png)  
+- [2022-02-23-极速生成缩略图，Serverless-支撑赛事转播锁定冬奥亮点](https://toutiao.io/k/1n166h7) ![](assets/new.png)  
+- [2022-02-23-推荐-石墨文档是如何通过-WebSocket-实现百万长连接的？](https://toutiao.io/k/25nkguu) ![](assets/new.png)  
+- [2022-02-23-推荐-如何撰写好的技术方案设计-真实案例干货分享](https://toutiao.io/k/0f5fv4t) ![](assets/new.png)  
+- [2022-02-23-推荐-如何撰写好技术方案设计-真实案例干货分享](https://toutiao.io/k/t1d9x3b) ![](assets/new.png)  
 - [2022-02-23-推荐-什么人能成为Leader，大Leader该做什么](https://toutiao.io/k/pnlaqae) ![](assets/new.png)  
 - [2022-02-23-推荐-你分库分表的姿势对么？——详谈水平分库分表](https://toutiao.io/k/eteqw6s) ![](assets/new.png)  
-- [2022-02-23-推荐-石墨文档是如何通过-WebSocket-实现百万长连接的？](https://toutiao.io/k/25nkguu) ![](assets/new.png)  
-- [2022-02-23-推荐-我做基础架构学到的42件事](https://toutiao.io/k/k6tjws1) ![](assets/new.png)  
-- [2022-02-23-推荐-趣谈IO多路复用的本质](https://toutiao.io/k/j4nqhbc) ![](assets/new.png)  
-- [2022-02-23-推荐-轻松搞懂5种IO模型](https://toutiao.io/k/o77uhyt) ![](assets/new.png)  
 - [2022-02-23-推荐-神器-Nginx-的学习手册-建议收藏-](https://toutiao.io/k/6f1qaso) ![](assets/new.png)  
-- [2022-02-23-推荐-ClickHouse使用实践与规范](https://toutiao.io/k/fb7mdkl) ![](assets/new.png)  
-- [2022-02-23-推荐-如何撰写好的技术方案设计-真实案例干货分享](https://toutiao.io/k/0f5fv4t) ![](assets/new.png)  
+- [2022-02-23-推荐-趣谈IO多路复用的本质](https://toutiao.io/k/j4nqhbc) ![](assets/new.png)  
 - [2022-02-23-推荐-一张图看懂微服务架构路线](https://toutiao.io/k/upx1qip) ![](assets/new.png)  
+- [2022-02-23-推荐-ClickHouse使用实践与规范](https://toutiao.io/k/fb7mdkl) ![](assets/new.png)  
+- [2022-02-23-推荐-我做基础架构学到的42件事](https://toutiao.io/k/k6tjws1) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

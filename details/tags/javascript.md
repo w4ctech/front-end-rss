@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-02-23 17:39:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-23 18:13:40。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -18,4 +18,3 @@
 - [2021-12-20-深入JS-getRandomValues和Math.random方法](https://www.zhangxinxu.com/wordpress/2021/12/js-getrandomvalue-math-random/) 
 - [2021-12-08-flex-end为什么overflow无法滚动及解决方法](https://www.zhangxinxu.com/wordpress/2021/12/flex-end-overflow/) 
 - [2022-02-23-现在-Web-开发大家用-H5-语义化标签还是用的-div+span-呀](https://www.v2ex.com/t/836039) 
-- [2022-02-23-有懂主板的老哥吗？帮我看看我软路由上这个主板能否接-SATA-的机械硬盘](https://www.v2ex.com/t/836012) 

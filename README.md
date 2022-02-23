@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-23 23:13:31，:rocket: 更新条数: +1955， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-23 23:39:25，:rocket: 更新条数: +1941， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-02-23-UniFi-出品的各种-Router-的性能对比（2022-年初）](https://www.v2ex.com/t/836066) ![](assets/new.png)  
 - [2022-02-23-可视化内嵌-app-时如何分离用户数据](https://www.v2ex.com/t/836065) ![](assets/new.png)  
 - [2022-02-23-🚗-新职位开放-硅谷-Top50-Startup-扩招国内研发团队-🌟-100%远程+期权+各种福利补贴](https://www.v2ex.com/t/836064) ![](assets/new.png)  
 - [2022-02-23-20220224-午夜俱乐部](https://www.v2ex.com/t/836063) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-02-23-广东电信貌似已经有了-2000Mbps-宽带的模板](https://www.v2ex.com/t/836044) ![](assets/new.png)  
 - [2022-02-23-请推荐一些-rss-订阅源](https://www.v2ex.com/t/836043) ![](assets/new.png)  
 - [2022-02-23-求推荐-WordPress-网站上-CRM-插件](https://www.v2ex.com/t/836042) ![](assets/new.png)  
-- [2022-02-23-samba-是否能够在同一主机内做到不同文件夹不同权限？](https://www.v2ex.com/t/836041) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -553,26 +553,18 @@
 </summary>
 
 
-- [2022-02-23-2万字，详解数据湖，概念、特征、架构、方案、场景以及建湖全过程（建议收藏）](https://toutiao.io/k/vcpzf1w) ![](assets/new.png)  
-- [2022-02-23-刷新世界纪录，GitHub-又一黑科技项目面世！](https://toutiao.io/k/5z90ek1) ![](assets/new.png)  
-- [2022-02-23-《算法通关手册》](https://toutiao.io/k/g61h5oi) ![](assets/new.png)  
-- [2022-02-23-Kubernetes-故障排除三板斧：理解、管理和预防](https://toutiao.io/k/5ximy5q) ![](assets/new.png)  
-- [2022-02-23-图文详解CDC技术，看这一篇就够了！](https://toutiao.io/k/fu2lq0l) ![](assets/new.png)  
-- [2022-02-23-SpringBoot性能优化大全，贼好使！](https://toutiao.io/k/75br1se) ![](assets/new.png)  
-- [2022-02-23-海量Node.js网关的架构设计与工程实践！](https://toutiao.io/k/xfbz3fp) ![](assets/new.png)  
-- [2022-02-23-极速生成缩略图，Serverless-支撑赛事转播锁定冬奥亮点](https://toutiao.io/k/1n166h7) ![](assets/new.png)  
-- [2022-02-23-盒子放久了，总会长出猫的！猫盒+抓板，点击链接立即购买！](https://toutiao.io/k/kcky0ar) ![](assets/new.png)  
-- [2022-02-23-麻省理工学院推出新编程语言](https://toutiao.io/k/9kokar6) ![](assets/new.png)  
-- [2022-02-23-面渣逆袭：二十二图、八千字、二十问，彻底搞定MyBatis！](https://toutiao.io/k/cbbl4wm) ![](assets/new.png)  
-- [2022-02-23-Vue-是如何用-Rollup-打包的？](https://toutiao.io/k/2o5ql5a) ![](assets/new.png)  
-- [2022-02-23-Java不支持协程？那是你不知道Quasar！](https://toutiao.io/k/7jbrdsb) ![](assets/new.png)  
-- [2022-02-23-网友：Go-你是-Google-的，Go：我不是](https://toutiao.io/k/i96jp2j) ![](assets/new.png)  
-- [2022-02-23-网传字节跳动一员工猝死，妻子怀孕两个月](https://toutiao.io/k/8v9qo6f) ![](assets/new.png)  
-- [2022-02-23-对C指针的理解](https://toutiao.io/k/vkg2o84) ![](assets/new.png)  
+- [2022-02-23-《Rust-编码规范》](https://toutiao.io/k/injccgg) ![](assets/new.png)  
+- [2022-02-23-浴缸猫抓板｜猫咪玩具，点击领券9.9元包邮！](https://toutiao.io/k/caq2j5n) ![](assets/new.png)  
+- [2022-02-23-推荐-我做基础架构学到的42件事](https://toutiao.io/k/k6tjws1) ![](assets/new.png)  
+- [2022-02-23-推荐-轻松搞懂5种IO模型](https://toutiao.io/k/o77uhyt) ![](assets/new.png)  
+- [2022-02-23-推荐-如何撰写好的技术方案设计-真实案例干货分享](https://toutiao.io/k/0f5fv4t) ![](assets/new.png)  
 - [2022-02-23-推荐-你分库分表的姿势对么？——详谈水平分库分表](https://toutiao.io/k/eteqw6s) ![](assets/new.png)  
-- [2022-02-23-推荐-【超赞】技术架构的战略和战术原则](https://toutiao.io/k/j9872pc) ![](assets/new.png)  
 - [2022-02-23-推荐-趣谈IO多路复用的本质](https://toutiao.io/k/j4nqhbc) ![](assets/new.png)  
 - [2022-02-23-推荐-ClickHouse使用实践与规范](https://toutiao.io/k/fb7mdkl) ![](assets/new.png)  
+- [2022-02-23-推荐-如何撰写好技术方案设计-真实案例干货分享](https://toutiao.io/k/t1d9x3b) ![](assets/new.png)  
+- [2022-02-23-推荐-什么人能成为Leader，大Leader该做什么](https://toutiao.io/k/pnlaqae) ![](assets/new.png)  
+- [2022-02-23-推荐-【超赞】技术架构的战略和战术原则](https://toutiao.io/k/j9872pc) ![](assets/new.png)  
+- [2022-02-23-推荐-一张图看懂微服务架构路线](https://toutiao.io/k/upx1qip) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

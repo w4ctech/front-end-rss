@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-23 13:38:17，:rocket: 更新条数: +1954， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-23 14:12:09，:rocket: 更新条数: +1956， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,13 @@
 </summary>
 
 
+- [2022-02-23-南京-citrix超多-hc-虚拟化云计算大数据机器学习-Devops-移动端-测试-Java-/C#/C++-美国外企-20-70k-五险一金-24％男性陪产假-180-天全年在家办公](https://www.v2ex.com/t/836034) ![](assets/new.png)  
+- [2022-02-23-为什么硬盘录像机能搜索到不同网段的监控摄像头？](https://www.v2ex.com/t/836033) ![](assets/new.png)  
+- [2022-02-23-疲劳值测试](https://www.v2ex.com/t/836032) ![](assets/new.png)  
+- [2022-02-23-投票推广活动，用哪个小程序好呢？](https://www.v2ex.com/t/836031) ![](assets/new.png)  
+- [2022-02-23-2-个用户同时使用同一个邀请码注册，如何保证邀请码有效性校验的原子性？](https://www.v2ex.com/t/836030) ![](assets/new.png)  
+- [2022-02-23-进行主成分分析后如何正确的对主成分进行解释？](https://www.v2ex.com/t/836028) ![](assets/new.png)  
+- [2022-02-23-全栈找工作好难啊,大多数企业都只招专精的人才,或者说是全栈,去面试才知道就是单纯的各种做管理系统](https://www.v2ex.com/t/836027) ![](assets/new.png)  
 - [2022-02-23-ios-微信端可以热更新吗？不通过-appstore-就能实现](https://www.v2ex.com/t/836026) ![](assets/new.png)  
 - [2022-02-23-做了一套捏人系统的-demo](https://www.v2ex.com/t/836025) ![](assets/new.png)  
 - [2022-02-23-基于-debian-的-Docker-内如何添加-LC_CTYPE-项？](https://www.v2ex.com/t/836024) ![](assets/new.png)  
@@ -504,13 +511,6 @@
 - [2022-02-23-有懂主板的老哥吗？帮我看看我软路由上这个主板能否接-SATA-的机械硬盘](https://www.v2ex.com/t/836012) ![](assets/new.png)  
 - [2022-02-23-USDT-转-RMB-最稳妥的办法是什么？](https://www.v2ex.com/t/836011) ![](assets/new.png)  
 - [2022-02-23-github-action-可以由前端-js-事件触发吗](https://www.v2ex.com/t/836008) ![](assets/new.png)  
-- [2022-02-23-二分电台《#15-新兴外企的工作体验-Grab---Yifen-篇》](https://www.v2ex.com/t/836007) ![](assets/new.png)  
-- [2022-02-23-CLion-适合开发-Qt-Widget-桌面应用吗？为什么很少看见用-CLion-开发的-Qt-桌面应用？](https://www.v2ex.com/t/836006) ![](assets/new.png)  
-- [2022-02-23-哔哩哔哩-iOS-端无法真正意义上的保存原图](https://www.v2ex.com/t/836005) ![](assets/new.png)  
-- [2022-02-23-V2er-有打网球的吗？请问怎么入门](https://www.v2ex.com/t/836004) ![](assets/new.png)  
-- [2022-02-23-请问-MacOS-能设置类似-XDG_CONFIG_HOME-这样的地址吗](https://www.v2ex.com/t/836002) ![](assets/new.png)  
-- [2022-02-23-是不是互联网行业已经走向衰落了？](https://www.v2ex.com/t/836001) ![](assets/new.png)  
-- [2022-02-23-12-年的-dell-主机能塞下微星-h510m-吗？附图。](https://www.v2ex.com/t/836000) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -569,9 +569,9 @@
 - [2022-02-23-Java不支持协程？那是你不知道Quasar！](https://toutiao.io/k/7jbrdsb) ![](assets/new.png)  
 - [2022-02-23-网友：Go-你是-Google-的，Go：我不是](https://toutiao.io/k/i96jp2j) ![](assets/new.png)  
 - [2022-02-23-对C指针的理解](https://toutiao.io/k/vkg2o84) ![](assets/new.png)  
-- [2022-02-23-推荐-神器-Nginx-的学习手册-建议收藏-](https://toutiao.io/k/6f1qaso) ![](assets/new.png)  
-- [2022-02-23-推荐-我做基础架构学到的42件事](https://toutiao.io/k/k6tjws1) ![](assets/new.png)  
-- [2022-02-23-推荐-如何撰写好技术方案设计-真实案例干货分享](https://toutiao.io/k/t1d9x3b) ![](assets/new.png)  
+- [2022-02-23-推荐-你分库分表的姿势对么？——详谈水平分库分表](https://toutiao.io/k/eteqw6s) ![](assets/new.png)  
+- [2022-02-23-推荐-石墨文档是如何通过-WebSocket-实现百万长连接的？](https://toutiao.io/k/25nkguu) ![](assets/new.png)  
+- [2022-02-23-推荐-趣谈IO多路复用的本质](https://toutiao.io/k/j4nqhbc) ![](assets/new.png)  
 - [2022-02-23-推荐-轻松搞懂5种IO模型](https://toutiao.io/k/o77uhyt) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

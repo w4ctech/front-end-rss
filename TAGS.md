@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-02-23 09:12:28。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-23 09:36:35。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -184,7 +184,6 @@
 - [【张鑫旭-鑫空间-鑫生活】JS-标签模板（Tagged-templates）什么时候使用？](https://www.zhangxinxu.com/wordpress/2021/12/js-tagged-templates/)
 - [【张鑫旭-鑫空间-鑫生活】深入JS-getRandomValues和Math.random方法](https://www.zhangxinxu.com/wordpress/2021/12/js-getrandomvalue-math-random/)
 - [【张鑫旭-鑫空间-鑫生活】flex-end为什么overflow无法滚动及解决方法](https://www.zhangxinxu.com/wordpress/2021/12/flex-end-overflow/)
-- [【V2EX】service-worker-缓存网站的原理是什么？有什么潜在的缺陷？](https://www.v2ex.com/t/835920)
 - [......【查看更多】......](./details/tags/javascript.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -302,7 +301,6 @@
 
 
 
-- [【V2EX】miui-刷机求助，-fastboot-模式下连电脑不识别，正常连接电脑可以识别](https://www.v2ex.com/t/835926)
 - [【开发者头条】《算法通关手册》](https://toutiao.io/k/g61h5oi)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 
@@ -357,7 +355,6 @@
 
 - [【V2EX】一年经验-面试大厂的-Java-开发-基础知识需要准备到什么程度呢](https://www.v2ex.com/t/835965)
 - [【V2EX】杭州-WLB-微软谷歌大牛带领的智能硬件公司大量招聘](https://www.v2ex.com/t/835957)
-- [【V2EX】20K-60K+16+965-顶级区块链吴忌寒项目-招聘前端研发/Golang/其他岗位-可远程不卷](https://www.v2ex.com/t/835922)
 - [......【查看更多】......](./details/tags/job-interview.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

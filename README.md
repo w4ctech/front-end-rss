@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-23 00:49:28，:rocket: 更新条数: +1936， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-23 02:06:17，:rocket: 更新条数: +1953， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -65,7 +65,7 @@
 </summary>
 
 
-- [2022-02-22-最新疫情：全国新冠累计确诊107989例-累计接种新冠疫苗超30.9亿剂次](https://m.caixin.com/m/2022-02-22/101845418.html) ![](assets/new.png)  
+- [2022-02-23-2月22日全国新增新冠205例-十省份本土90例](https://m.caixin.com/m/2022-02-23/101845579.html) ![](assets/new.png)  
 - [2022-02-22-深圳疫情多点散发-市内多地划分封控区](https://m.caixin.com/m/2022-02-22/101845530.html) ![](assets/new.png)  
 - [2022-02-22-香港3月启动强制性全民检测-中小学提前放暑假](https://m.caixin.com/m/2022-02-22/101845511.html) ![](assets/new.png)  
 - [2022-02-22-北京、武汉现关联疫情-北京新增4例本土确诊](https://m.caixin.com/m/2022-02-22/101845168.html) ![](assets/new.png)  
@@ -491,26 +491,26 @@
 </summary>
 
 
-- [2022-02-23-有无更好的-word-文档手机前端编辑方案？](https://www.v2ex.com/t/835812) ![](assets/new.png)  
-- [2022-02-23-关于刚需的讨论](https://www.v2ex.com/t/835811) ![](assets/new.png)  
-- [2022-02-23-如何防御刷票？](https://www.v2ex.com/t/835809) ![](assets/new.png)  
-- [2022-02-23-有没有什么远程桌面软件可以让-MacBook-远程使用和本地使用互不影响？](https://www.v2ex.com/t/835808) ![](assets/new.png)  
-- [2022-02-23-28-岁字节员工猝死](https://www.v2ex.com/t/835806) ![](assets/new.png)  
-- [2022-02-23-M1-上-Docker/容器-开发环境有什么推荐？尽量不要是-Docker-官方的-GUI（2022-年上半年）](https://www.v2ex.com/t/835805) ![](assets/new.png)  
-- [2022-02-23-有关-docker-主服务会占用多少内存](https://www.v2ex.com/t/835804) ![](assets/new.png)  
-- [2022-02-22-劳动者的出路在哪里？](https://www.v2ex.com/t/835803) ![](assets/new.png)  
-- [2022-02-22-为什么有些-PHP-网站可以做到直接发送邮件？](https://www.v2ex.com/t/835802) ![](assets/new.png)  
-- [2022-02-22-德国/爱尔兰-Netskope-内推，远程](https://www.v2ex.com/t/835801) ![](assets/new.png)  
-- [2022-02-22-你们的-13pro-电池开始崩了么？](https://www.v2ex.com/t/835800) ![](assets/new.png)  
-- [2022-02-22-坐标北京，求职-Golang，感谢！](https://www.v2ex.com/t/835799) ![](assets/new.png)  
-- [2022-02-22-诡异的端口号占用的问题](https://www.v2ex.com/t/835798) ![](assets/new.png)  
-- [2022-02-22-请安全大神技术分析](https://www.v2ex.com/t/835797) ![](assets/new.png)  
-- [2022-02-22-人生苦短，两次考研失败，是继续还是工作？](https://www.v2ex.com/t/835796) ![](assets/new.png)  
-- [2022-02-22-好奇一个循环地址的问题](https://www.v2ex.com/t/835795) ![](assets/new.png)  
-- [2022-02-22-Chris-Lattner-退出了-Swift-Core-Team](https://www.v2ex.com/t/835794) ![](assets/new.png)  
-- [2022-02-22-graph-relational-model-怎么翻译最合适？](https://www.v2ex.com/t/835791) ![](assets/new.png)  
-- [2022-02-22-两个面试题求助，有关-slice-和字符串的](https://www.v2ex.com/t/835790) ![](assets/new.png)  
-- [2022-02-22-在合肥外企，时间比较多，闲时间想接点外包，客户端的，求推荐哪个平台靠谱点？](https://www.v2ex.com/t/835787) ![](assets/new.png)  
+- [2022-02-23-MBA-M1-升级到-Monterey-之后续航直接爆炸](https://www.v2ex.com/t/835844) ![](assets/new.png)  
+- [2022-02-23-新加坡技术移民机会-知名互联网公司，招移动端（iOS,安卓,-RN），前端开发，后端开发（不限开发语言），-运维及运维开发/DevOps-/SRE-和-DBA-及安全等各类工...](https://www.v2ex.com/t/835843) ![](assets/new.png)  
+- [2022-02-23-后端开发怎么设计好看的界面](https://www.v2ex.com/t/835842) ![](assets/new.png)  
+- [2022-02-23-逐渐对互联网企业猝死新闻麻木](https://www.v2ex.com/t/835841) ![](assets/new.png)  
+- [2022-02-23-又来发求助帖了，麻烦各位-v2exer-们提一些建议。工作中领导指出工作主动性不足，那么工作主动性又体现在哪些方面呢？？](https://www.v2ex.com/t/835840) ![](assets/new.png)  
+- [2022-02-23-京东联盟收入上报税务了](https://www.v2ex.com/t/835838) ![](assets/new.png)  
+- [2022-02-23-怎么注册美区的-Facebook-进行-oculus-邀请](https://www.v2ex.com/t/835837) ![](assets/new.png)  
+- [2022-02-23-住的地方管控，出不去，公司不发工资咋办？](https://www.v2ex.com/t/835836) ![](assets/new.png)  
+- [2022-02-23-Notion-Dark-Mode-颜色变成了黑色](https://www.v2ex.com/t/835835) ![](assets/new.png)  
+- [2022-02-23-莫名接到很多快递电话，但都不是我买的，怀疑是刷单，怎么破](https://www.v2ex.com/t/835834) ![](assets/new.png)  
+- [2022-02-23-怎么避免晚上失眠在分析场景梳理思路？各位有什么经验避免吗](https://www.v2ex.com/t/835833) ![](assets/new.png)  
+- [2022-02-23-分布式办公/全国招聘-pin-运维工程师/内容运营/rust-合约开发工程师](https://www.v2ex.com/t/835832) ![](assets/new.png)  
+- [2022-02-23-鹅厂三面被面试官说的一无是处,开始怀疑人生了](https://www.v2ex.com/t/835831) ![](assets/new.png)  
+- [2022-02-23-当-Linux-内核正在把-A-文件写入磁盘，这时另一个进程调用-write-写-A-文件，该进程会挂起么](https://www.v2ex.com/t/835830) ![](assets/new.png)  
+- [2022-02-23-看到令人难受的新闻，想给同是程序员的自己买个保险。求助各位-V2er-有没有好的推荐](https://www.v2ex.com/t/835829) ![](assets/new.png)  
+- [2022-02-23-如何将一个已经配置好的-ubuntu-制作成可分发的镜像？](https://www.v2ex.com/t/835828) ![](assets/new.png)  
+- [2022-02-23-store.steampowered.com-疑似已经恢复正常](https://www.v2ex.com/t/835827) ![](assets/new.png)  
+- [2022-02-23-大家软路由上都跑了什么服务](https://www.v2ex.com/t/835824) ![](assets/new.png)  
+- [2022-02-23-残疾人、有案底刑满释放，社会弱势群体劳动就业人员的出路在哪里？](https://www.v2ex.com/t/835822) ![](assets/new.png)  
+- [2022-02-23-澳洲顶级区块链团队招聘（可远程，美元-USDT+BONUS-币+-优秀可公司担保绿卡）](https://www.v2ex.com/t/835821) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -554,21 +554,25 @@
 
 
 - [2022-02-23-2万字，详解数据湖，概念、特征、架构、方案、场景以及建湖全过程（建议收藏）](https://toutiao.io/k/vcpzf1w) ![](assets/new.png)  
-- [2022-02-23-《算法通关手册》](https://toutiao.io/k/g61h5oi) ![](assets/new.png)  
 - [2022-02-23-刷新世界纪录，GitHub-又一黑科技项目面世！](https://toutiao.io/k/5z90ek1) ![](assets/new.png)  
+- [2022-02-23-《算法通关手册》](https://toutiao.io/k/g61h5oi) ![](assets/new.png)  
 - [2022-02-23-盒子放久了，总会长出猫的！猫盒+抓板，点击链接立即购买！](https://toutiao.io/k/kcky0ar) ![](assets/new.png)  
 - [2022-02-23-麻省理工学院推出新编程语言](https://toutiao.io/k/9kokar6) ![](assets/new.png)  
 - [2022-02-23-Vue-是如何用-Rollup-打包的？](https://toutiao.io/k/2o5ql5a) ![](assets/new.png)  
-- [2022-02-23-推荐-如何撰写好技术方案设计-真实案例干货分享](https://toutiao.io/k/t1d9x3b) ![](assets/new.png)  
-- [2022-02-23-推荐-什么人能成为Leader，大Leader该做什么](https://toutiao.io/k/pnlaqae) ![](assets/new.png)  
-- [2022-02-23-推荐-石墨文档是如何通过-WebSocket-实现百万长连接的？](https://toutiao.io/k/25nkguu) ![](assets/new.png)  
-- [2022-02-23-推荐-如何撰写好的技术方案设计-真实案例干货分享](https://toutiao.io/k/0f5fv4t) ![](assets/new.png)  
-- [2022-02-23-推荐-ClickHouse使用实践与规范](https://toutiao.io/k/fb7mdkl) ![](assets/new.png)  
-- [2022-02-23-推荐-轻松搞懂5种IO模型](https://toutiao.io/k/o77uhyt) ![](assets/new.png)  
+- [2022-02-23-Docker-的-8-个应用场景，看看你知道几个？！](https://toutiao.io/k/4lktxiz) ![](assets/new.png)  
+- [2022-02-23-终于有人把Kafka3.0的新特性讲全乎了！](https://toutiao.io/k/efpeghc) ![](assets/new.png)  
+- [2022-02-23-图文详解CDC技术，看这一篇就够了！](https://toutiao.io/k/fu2lq0l) ![](assets/new.png)  
+- [2022-02-23-极速生成缩略图，Serverless-支撑赛事转播锁定冬奥亮点](https://toutiao.io/k/1n166h7) ![](assets/new.png)  
+- [2022-02-23-深入理解分布式缓存设计](https://toutiao.io/k/vsvvwb6) ![](assets/new.png)  
+- [2022-02-23-10-个开源-Service-Mesh-测试工具和框架比较](https://toutiao.io/k/sgb85nf) ![](assets/new.png)  
+- [2022-02-23-海量Node.js网关的架构设计与工程实践！](https://toutiao.io/k/xfbz3fp) ![](assets/new.png)  
+- [2022-02-23-Kubernetes-故障排除三板斧：理解、管理和预防](https://toutiao.io/k/5ximy5q) ![](assets/new.png)  
 - [2022-02-23-推荐-你分库分表的姿势对么？——详谈水平分库分表](https://toutiao.io/k/eteqw6s) ![](assets/new.png)  
-- [2022-02-23-推荐-一张图看懂微服务架构路线](https://toutiao.io/k/upx1qip) ![](assets/new.png)  
-- [2022-02-23-推荐-我做基础架构学到的42件事](https://toutiao.io/k/k6tjws1) ![](assets/new.png)  
 - [2022-02-23-推荐-神器-Nginx-的学习手册-建议收藏-](https://toutiao.io/k/6f1qaso) ![](assets/new.png)  
+- [2022-02-23-推荐-轻松搞懂5种IO模型](https://toutiao.io/k/o77uhyt) ![](assets/new.png)  
+- [2022-02-23-推荐-一张图看懂微服务架构路线](https://toutiao.io/k/upx1qip) ![](assets/new.png)  
+- [2022-02-23-推荐-趣谈IO多路复用的本质](https://toutiao.io/k/j4nqhbc) ![](assets/new.png)  
+- [2022-02-23-推荐-ClickHouse使用实践与规范](https://toutiao.io/k/fb7mdkl) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

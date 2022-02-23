@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-23 15:14:21，:rocket: 更新条数: +1955， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-23 15:41:16，:rocket: 更新条数: +1956， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-02-23-Arm-架构的-windows](https://www.v2ex.com/t/836047) ![](assets/new.png)  
+- [2022-02-23-m1-mac-顶部菜单栏空间不够显示所有软件怎么办？](https://www.v2ex.com/t/836046) ![](assets/new.png)  
 - [2022-02-23-广东电信貌似已经有了-2000Mbps-宽带的模板](https://www.v2ex.com/t/836044) ![](assets/new.png)  
 - [2022-02-23-请推荐一些-rss-订阅源](https://www.v2ex.com/t/836043) ![](assets/new.png)  
 - [2022-02-23-求推荐-WordPress-网站上-CRM-插件](https://www.v2ex.com/t/836042) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-02-23-ios-微信端可以热更新吗？不通过-appstore-就能实现](https://www.v2ex.com/t/836026) ![](assets/new.png)  
 - [2022-02-23-做了一套捏人系统的-demo](https://www.v2ex.com/t/836025) ![](assets/new.png)  
 - [2022-02-23-基于-debian-的-Docker-内如何添加-LC_CTYPE-项？](https://www.v2ex.com/t/836024) ![](assets/new.png)  
-- [2022-02-23-rosetta-安装失败](https://www.v2ex.com/t/836023) ![](assets/new.png)  
-- [2022-02-23-React-effects-的闭包里锁定-state-值是怎么实现的?](https://www.v2ex.com/t/836021) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -569,10 +569,10 @@
 - [2022-02-23-Java不支持协程？那是你不知道Quasar！](https://toutiao.io/k/7jbrdsb) ![](assets/new.png)  
 - [2022-02-23-网友：Go-你是-Google-的，Go：我不是](https://toutiao.io/k/i96jp2j) ![](assets/new.png)  
 - [2022-02-23-对C指针的理解](https://toutiao.io/k/vkg2o84) ![](assets/new.png)  
-- [2022-02-23-推荐-如何撰写好的技术方案设计-真实案例干货分享](https://toutiao.io/k/0f5fv4t) ![](assets/new.png)  
 - [2022-02-23-推荐-轻松搞懂5种IO模型](https://toutiao.io/k/o77uhyt) ![](assets/new.png)  
-- [2022-02-23-推荐-什么人能成为Leader，大Leader该做什么](https://toutiao.io/k/pnlaqae) ![](assets/new.png)  
-- [2022-02-23-推荐-ClickHouse使用实践与规范](https://toutiao.io/k/fb7mdkl) ![](assets/new.png)  
+- [2022-02-23-推荐-如何撰写好技术方案设计-真实案例干货分享](https://toutiao.io/k/t1d9x3b) ![](assets/new.png)  
+- [2022-02-23-推荐-一张图看懂微服务架构路线](https://toutiao.io/k/upx1qip) ![](assets/new.png)  
+- [2022-02-23-推荐-趣谈IO多路复用的本质](https://toutiao.io/k/j4nqhbc) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

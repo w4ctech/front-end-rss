@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-02-23 15:14:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-23 15:41:16。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1840,6 +1840,8 @@
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2022-02-04-HTML-inputmode与iOS-Android软键盘类型测试](https://www.zhangxinxu.com/wordpress/2022/02/html-inputmode-keyboard/) 
+- [2022-02-23-Arm-架构的-windows](https://www.v2ex.com/t/836047) 
+- [2022-02-23-m1-mac-顶部菜单栏空间不够显示所有软件怎么办？](https://www.v2ex.com/t/836046) 
 - [2022-02-23-广东电信貌似已经有了-2000Mbps-宽带的模板](https://www.v2ex.com/t/836044) 
 - [2022-02-23-请推荐一些-rss-订阅源](https://www.v2ex.com/t/836043) 
 - [2022-02-23-求推荐-WordPress-网站上-CRM-插件](https://www.v2ex.com/t/836042) 
@@ -1887,12 +1889,12 @@
 - [2022-02-23-Java不支持协程？那是你不知道Quasar！](https://toutiao.io/k/7jbrdsb) 
 - [2022-02-23-网友：Go-你是-Google-的，Go：我不是](https://toutiao.io/k/i96jp2j) 
 - [2022-02-23-对C指针的理解](https://toutiao.io/k/vkg2o84) 
-- [2022-02-23-推荐-如何撰写好的技术方案设计-真实案例干货分享](https://toutiao.io/k/0f5fv4t) 
 - [2022-02-23-推荐-轻松搞懂5种IO模型](https://toutiao.io/k/o77uhyt) 
-- [2022-02-23-推荐-什么人能成为Leader，大Leader该做什么](https://toutiao.io/k/pnlaqae) 
-- [2022-02-23-推荐-ClickHouse使用实践与规范](https://toutiao.io/k/fb7mdkl) 
-- [2022-02-23-推荐-一张图看懂微服务架构路线](https://toutiao.io/k/upx1qip) 
-- [2022-02-23-推荐-我做基础架构学到的42件事](https://toutiao.io/k/k6tjws1) 
-- [2022-02-23-推荐-你分库分表的姿势对么？——详谈水平分库分表](https://toutiao.io/k/eteqw6s) 
 - [2022-02-23-推荐-如何撰写好技术方案设计-真实案例干货分享](https://toutiao.io/k/t1d9x3b) 
+- [2022-02-23-推荐-一张图看懂微服务架构路线](https://toutiao.io/k/upx1qip) 
 - [2022-02-23-推荐-趣谈IO多路复用的本质](https://toutiao.io/k/j4nqhbc) 
+- [2022-02-23-推荐-你分库分表的姿势对么？——详谈水平分库分表](https://toutiao.io/k/eteqw6s) 
+- [2022-02-23-推荐-什么人能成为Leader，大Leader该做什么](https://toutiao.io/k/pnlaqae) 
+- [2022-02-23-推荐-如何撰写好的技术方案设计-真实案例干货分享](https://toutiao.io/k/0f5fv4t) 
+- [2022-02-23-推荐-ClickHouse使用实践与规范](https://toutiao.io/k/fb7mdkl) 
+- [2022-02-23-推荐-我做基础架构学到的42件事](https://toutiao.io/k/k6tjws1) 

@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-02-24 03:38:30。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-24 04:16:38。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -55,7 +55,6 @@
 
 
 
-- [【V2EX】Vue3.0-如何快速入门？](https://www.v2ex.com/t/836083)
 - [【技术头条】Vue3.0七大亮点是什么？？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14946&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493388%26amp%3Bidx%3D2%26amp%3Bsn%3D444ceba4f1e66a8553283a9424eec1be%26amp%3Bchksm%3Dfa3f0657cd488f413f3099568d4e134cc4ed0fd8d7cdb4c4963d2a87859087aff79080558a7c%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【技术头条】从实际项目出发，告诉你vue3到底香不香-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14943&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493377%26amp%3Bidx%3D2%26amp%3Bsn%3D38dcff122477793c2bfa2353abca7ecc%26amp%3Bchksm%3Dfa3f065acd488f4c47984479b5068b79976b72e2284221362b1746315de5f6c4e4d9a25a17d5%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [......【查看更多】......](./details/tags/vue.md)
@@ -156,7 +155,6 @@
 
 
 
-- [【V2EX】请教各位-switch-数字版游戏购入的方式](https://www.v2ex.com/t/836080)
 - [......【查看更多】......](./details/tags/dev-game.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -352,6 +350,7 @@
 
 
 
+- [【V2EX】深圳技术开发岗位招聘！-Python-开发工程师](https://www.v2ex.com/t/836129)
 - [【V2EX】面试结束被催着回答是否入职，该怎么答复合适？](https://www.v2ex.com/t/836119)
 - [......【查看更多】......](./details/tags/job-interview.md)
 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-24 14:13:03，:rocket: 更新条数: +1968， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-24 14:37:18，:rocket: 更新条数: +1966， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,9 +491,10 @@
 </summary>
 
 
+- [2022-02-24-Steam-Deck-虚拟键盘配色](https://www.v2ex.com/t/836267) ![](assets/new.png)  
+- [2022-02-24-有没有专门公布软件漏洞，能订阅自己在用的软件，有漏洞自动邮件通知的网站？](https://www.v2ex.com/t/836266) ![](assets/new.png)  
 - [2022-02-24-做一个网页需要多少钱？](https://www.v2ex.com/t/836265) ![](assets/new.png)  
 - [2022-02-24-公司如何选？大佬推荐下](https://www.v2ex.com/t/836264) ![](assets/new.png)  
-- [2022-02-24-李赛高账号还在？字节跳动你老母亲可还安好？](https://www.v2ex.com/t/836263) ![](assets/new.png)  
 - [2022-02-24-杰伦粉丝圈](https://www.v2ex.com/t/836262) ![](assets/new.png)  
 - [2022-02-24-上海-上海地区有朋友需要找公司挂靠社保吗？](https://www.v2ex.com/t/836261) ![](assets/new.png)  
 - [2022-02-24-行云集团-怎么样！](https://www.v2ex.com/t/836259) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-02-24-Whatsapp-的语音验证码电话被反诈中心屏蔽怎么办](https://www.v2ex.com/t/836247) ![](assets/new.png)  
 - [2022-02-24-深圳-福田-智能医疗设备高新技术企业招聘后端、iOS-研发工程师](https://www.v2ex.com/t/836244) ![](assets/new.png)  
 - [2022-02-24-和老板出差，工厂塞了红包，怎么处理？](https://www.v2ex.com/t/836243) ![](assets/new.png)  
-- [2022-02-24-急着转行程序员的人别学-Python-和-C++](https://www.v2ex.com/t/836242) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

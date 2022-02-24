@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-24 12:20:51，:rocket: 更新条数: +1966， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-24 12:56:32，:rocket: 更新条数: +1969， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -70,6 +70,8 @@
 - [2022-02-24-最新海外疫情：新冠感染超4.28亿-累计接种新冠疫苗超105.45亿剂次](https://m.caixin.com/m/2022-02-24/101846379.html) ![](assets/new.png)  
 - [2022-02-24-【境内疫情观察】全国新增85例本土病例（2月23日）](https://database.caixin.com/m/2022-02-24/101846271.html) ![](assets/new.png)  
 - [2022-02-24-COVAX疫苗分配首现供过于求-意大利结束紧急状态｜大流行手记（2月23日）](https://m.caixin.com/m/2022-02-24/101846046.html) ![](assets/new.png)  
+- [2022-02-24-【图集】香港特区政府全力建设多处隔离治疗设施](https://photos.caixin.com/m/2022-02-24/101846216.html) ![](assets/new.png)  
+- [2022-02-24-【图集】韩国日增新冠肺炎确诊病例突破17万例](https://photos.caixin.com/m/2022-02-24/101846047.html) ![](assets/new.png)  
 - [2022-02-23-香港三日新增82宗新冠死亡病例-多数未接种疫苗](https://m.caixin.com/m/2022-02-23/101845939.html) ![](assets/new.png)  
 - [2022-02-23-北京疫情关联武汉及内蒙古，进返京政策趋严](https://m.caixin.com/m/2022-02-23/101845849.html) ![](assets/new.png)  
 - [2022-02-23-香港抗疫-特区财政拟增拨547亿元](https://m.caixin.com/m/2022-02-23/101845874.html) ![](assets/new.png)  
@@ -83,8 +85,6 @@
 - [2022-02-22-武汉市新增4例新冠病毒核酸检测阳性病例](https://m.caixin.com/m/2022-02-22/101845172.html) ![](assets/new.png)  
 - [2022-02-22-香港新冠死亡病例不断攀升-11个月大女婴成最年轻死者](https://m.caixin.com/m/2022-02-22/101845080.html) ![](assets/new.png)  
 - [2022-02-22-【境内疫情观察】全国新增59例本土病例（2月21日）](https://database.caixin.com/m/2022-02-22/101845251.html) ![](assets/new.png)  
-- [2022-02-22-英格兰取消所有限制-意大利免疫低下者或接种第四针｜大流行手记（2月21日）](https://m.caixin.com/m/2022-02-22/101845086.html) ![](assets/new.png)  
-- [2022-02-22-研究指奥密克戎新亚型传播力更强-致病性未减弱](https://m.caixin.com/m/2022-02-22/101845391.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -491,6 +491,13 @@
 </summary>
 
 
+- [2022-02-24-中年-offer-选择](https://www.v2ex.com/t/836254) ![](assets/new.png)  
+- [2022-02-24-思细级恐啊，我们自己搭的-gitlab-的都被黑了！](https://www.v2ex.com/t/836253) ![](assets/new.png)  
+- [2022-02-24-求一个-patch-configmap-的指令](https://www.v2ex.com/t/836252) ![](assets/new.png)  
+- [2022-02-24-躺平两年，发现工资被倒挂了](https://www.v2ex.com/t/836251) ![](assets/new.png)  
+- [2022-02-24-Apple-Watch-SE-耗电尿崩](https://www.v2ex.com/t/836250) ![](assets/new.png)  
+- [2022-02-24-手机被监听了？](https://www.v2ex.com/t/836249) ![](assets/new.png)  
+- [2022-02-24-上海965-后端研发工程师-30-60w-不卷](https://www.v2ex.com/t/836248) ![](assets/new.png)  
 - [2022-02-24-Whatsapp-的语音验证码电话被反诈中心屏蔽怎么办](https://www.v2ex.com/t/836247) ![](assets/new.png)  
 - [2022-02-24-深圳-福田-智能医疗设备高新技术企业招聘后端、iOS-研发工程师](https://www.v2ex.com/t/836244) ![](assets/new.png)  
 - [2022-02-24-和老板出差，工厂塞了红包，怎么处理？](https://www.v2ex.com/t/836243) ![](assets/new.png)  
@@ -504,13 +511,6 @@
 - [2022-02-24-Beam](https://www.v2ex.com/t/836233) ![](assets/new.png)  
 - [2022-02-24-第-k-个变量与-m-个变量的相关系数等于单个相关系数的累加么？](https://www.v2ex.com/t/836232) ![](assets/new.png)  
 - [2022-02-24-Ubuntu-Server-启动时为什么会出现-Started-Session-1-of-user-xxx?](https://www.v2ex.com/t/836231) ![](assets/new.png)  
-- [2022-02-24-chrome-插件可以查看或者执行原页面的-js-变量和函数吗？](https://www.v2ex.com/t/836229) ![](assets/new.png)  
-- [2022-02-24-你们的-Spotlight-耗电也这么高么](https://www.v2ex.com/t/836228) ![](assets/new.png)  
-- [2022-02-24-大家日常网上参与度高么](https://www.v2ex.com/t/836227) ![](assets/new.png)  
-- [2022-02-24-上海/北京壁仞科技-大量芯片、AI、软件岗位](https://www.v2ex.com/t/836225) ![](assets/new.png)  
-- [2022-02-24-群晖这是打算彻底堵住国区能用-chat-server-的漏洞？](https://www.v2ex.com/t/836224) ![](assets/new.png)  
-- [2022-02-24-求推荐小程序-SAAS-平台](https://www.v2ex.com/t/836221) ![](assets/new.png)  
-- [2022-02-24-不懂-Swift-想改一个开源项目不知道如何构建](https://www.v2ex.com/t/836220) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

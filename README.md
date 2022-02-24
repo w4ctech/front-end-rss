@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-24 23:13:41，:rocket: 更新条数: +1970， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-24 23:38:53，:rocket: 更新条数: +1969， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -567,9 +567,9 @@
 - [2022-02-24-浴缸猫抓板｜猫咪玩具，点击领券9.9元包邮！](https://toutiao.io/k/caq2j5n) ![](assets/new.png)  
 - [2022-02-24-10分钟搞懂！消息队列选型全方位对比](https://toutiao.io/k/c8hj3hw) ![](assets/new.png)  
 - [2022-02-24-详解AI加速器（二）：为什么说现在是AI加速器的黄金时代？](https://toutiao.io/k/j062hbr) ![](assets/new.png)  
+- [2022-02-24-数据平台与Flink任务运行原理介绍](https://toutiao.io/k/5updjvh) ![](assets/new.png)  
 - [2022-02-24-Web内核微信小程序框架实践](https://toutiao.io/k/gik7jgd) ![](assets/new.png)  
 - [2022-02-24-不是我吹，这款-IDEA-插件你真没用过！](https://toutiao.io/k/b8ifmbp) ![](assets/new.png)  
-- [2022-02-24-数据平台与Flink任务运行原理介绍](https://toutiao.io/k/5updjvh) ![](assets/new.png)  
 - [2022-02-24-前端人员不要只知道KFC，你应该了解-BFC、IFC、GFC-和-FFC](https://toutiao.io/k/zijdias) ![](assets/new.png)  
 - [2022-02-24-JDK动态代理为什么必须要基于接口？](https://toutiao.io/k/mjc3cpv) ![](assets/new.png)  
 - [2022-02-24-你才二十几岁呀，怎么眼里没有光了呢？](https://toutiao.io/k/8tgaadu) ![](assets/new.png)  

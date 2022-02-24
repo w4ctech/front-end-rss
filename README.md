@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-24 05:12:34，:rocket: 更新条数: +1952， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-24 05:36:17，:rocket: 更新条数: +1952， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-02-24-大家来看一下还应该增加什么功能](https://www.v2ex.com/t/836146) ![](assets/new.png)  
+- [2022-02-24-合伙创业](https://www.v2ex.com/t/836145) ![](assets/new.png)  
 - [2022-02-24-卫生间洗手盆经常有很多头发，室友不承认，那么怎么知道头发是谁掉的？](https://www.v2ex.com/t/836144) ![](assets/new.png)  
 - [2022-02-24-v2-有对露营感兴趣的朋友吗-可以加群一起耍啊](https://www.v2ex.com/t/836143) ![](assets/new.png)  
 - [2022-02-24-Serverless-的前景怎么样啊？](https://www.v2ex.com/t/836142) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-02-24-面试结束被催着回答是否入职，该怎么答复合适？](https://www.v2ex.com/t/836119) ![](assets/new.png)  
 - [2022-02-24-关于如何给宠物设置电子围栏的问题.](https://www.v2ex.com/t/836118) ![](assets/new.png)  
 - [2022-02-24-程序员海外求职/移民留学/生活交流社区](https://www.v2ex.com/t/836117) ![](assets/new.png)  
-- [2022-02-24-公司要求帮看下-PB-项目的流程问题-请问一下-powerbuilder2019-怎么查找方法的引用。](https://www.v2ex.com/t/836116) ![](assets/new.png)  
-- [2022-02-24-关于构想做一个私人的记录情侣/家人/小孩成长的-APP，因为自己和爱人也会经常记录一下关于我们的点点滴滴，也会写一些总结，后面再翻出来看看会很有感触，充满回...](https://www.v2ex.com/t/836115) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -558,21 +558,21 @@
 - [2022-02-24-基于-Kafka-的实时数仓在搜索的实践应用](https://toutiao.io/k/tynr8z3) ![](assets/new.png)  
 - [2022-02-24-《Rust-编码规范》](https://toutiao.io/k/injccgg) ![](assets/new.png)  
 - [2022-02-24-GitHub-上只卖-5-美元的脚本，却给我带来了一年数十万元报酬](https://toutiao.io/k/l44ffjj) ![](assets/new.png)  
-- [2022-02-24-浴缸猫抓板｜猫咪玩具，点击领券9.9元包邮！](https://toutiao.io/k/caq2j5n) ![](assets/new.png)  
 - [2022-02-24-系统困境与软件复杂度，为什么我们的系统会如此复杂](https://toutiao.io/k/7kraspn) ![](assets/new.png)  
-- [2022-02-24-详解AI加速器（二）：为什么说现在是AI加速器的黄金时代？](https://toutiao.io/k/j062hbr) ![](assets/new.png)  
+- [2022-02-24-浴缸猫抓板｜猫咪玩具，点击领券9.9元包邮！](https://toutiao.io/k/caq2j5n) ![](assets/new.png)  
 - [2022-02-24-如何快速成长为技术大牛？](https://toutiao.io/k/byt1kde) ![](assets/new.png)  
+- [2022-02-24-详解AI加速器（二）：为什么说现在是AI加速器的黄金时代？](https://toutiao.io/k/j062hbr) ![](assets/new.png)  
 - [2022-02-24-Rust-vs.-Go：两个团队成员都认为两者结合效果更好！](https://toutiao.io/k/k9gx6ho) ![](assets/new.png)  
 - [2022-02-24-从Nacos到完全自研｜得物的注册中心演进之路](https://toutiao.io/k/t08sv0r) ![](assets/new.png)  
 - [2022-02-24-15-分钟实现企业级应用无损上下线](https://toutiao.io/k/y9468wq) ![](assets/new.png)  
 - [2022-02-24-不是我吹，这款-IDEA-插件你真没用过！](https://toutiao.io/k/b8ifmbp) ![](assets/new.png)  
 - [2022-02-24-Web内核微信小程序框架实践](https://toutiao.io/k/gik7jgd) ![](assets/new.png)  
 - [2022-02-24-前端人员不要只知道KFC，你应该了解-BFC、IFC、GFC-和-FFC](https://toutiao.io/k/zijdias) ![](assets/new.png)  
-- [2022-02-24-推荐-轻松搞懂5种IO模型](https://toutiao.io/k/o77uhyt) ![](assets/new.png)  
-- [2022-02-24-推荐-如何撰写好的技术方案设计-真实案例干货分享](https://toutiao.io/k/0f5fv4t) ![](assets/new.png)  
 - [2022-02-24-推荐-趣谈IO多路复用的本质](https://toutiao.io/k/j4nqhbc) ![](assets/new.png)  
+- [2022-02-24-推荐-轻松搞懂5种IO模型](https://toutiao.io/k/o77uhyt) ![](assets/new.png)  
+- [2022-02-24-推荐-【超赞】技术架构的战略和战术原则](https://toutiao.io/k/j9872pc) ![](assets/new.png)  
+- [2022-02-24-推荐-我做基础架构学到的42件事](https://toutiao.io/k/k6tjws1) ![](assets/new.png)  
 - [2022-02-24-推荐-ClickHouse使用实践与规范](https://toutiao.io/k/fb7mdkl) ![](assets/new.png)  
-- [2022-02-24-推荐-如何撰写好技术方案设计-真实案例干货分享](https://toutiao.io/k/t1d9x3b) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

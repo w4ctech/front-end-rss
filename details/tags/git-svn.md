@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-02-23 23:39:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-24 00:46:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Git、SVN
 
@@ -9,3 +9,4 @@
 
 - [2022-02-23-GitLab-China-居然不支持在发行版本时上传二进位程式档案](https://www.v2ex.com/t/836055) 
 - [2022-02-23-迫于想在简历上写我的开源项目的下载量，有办法统计-GitHub-Release-的下载次数吗？](https://www.v2ex.com/t/836051) 
+- [2022-02-24-GitHub-上只卖-5-美元的脚本，却给我带来了一年数十万元报酬](https://toutiao.io/k/l44ffjj) 

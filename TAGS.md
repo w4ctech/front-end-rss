@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-02-24 02:52:19。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-24 03:12:06。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -240,6 +240,7 @@
 
 - [【武汉肺炎防疫全纪录(财新网)】广州17岁男生在定点医院参加高考-特殊考场视频监考](https://m.caixin.com/m/2021-06-05/101723418.html)
 - [【武汉肺炎防疫全纪录(财新网)】林郑月娥率13高官直播接种科兴疫苗-复星疫苗预计周中到港](https://m.caixin.com/m/2021-02-22/101665724.html)
+- [【V2EX】有些网页视频放在后台播放，一段时间后就会被暂停，大佬们都有什么高级方案？](https://www.v2ex.com/t/836104)
 - [......【查看更多】......](./details/tags/audio-video.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -257,7 +258,6 @@
 
 
 - [【V2EX】UniFi-出品的各种-Router-的性能对比（2022-年初）](https://www.v2ex.com/t/836066)
-- [【V2EX】在网上看多了裁员优化，这次终于轮到我](https://www.v2ex.com/t/836052)
 - [【技术头条】性能优化那些事儿（2）-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14945&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fperformance-turning-practice-2%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【技术头条】性能工程之性能规划实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14944&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fperformance-testing-planning%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [......【查看更多】......](./details/tags/optimization.md)
@@ -336,7 +336,6 @@
 
 - [【V2EX】调研一下现在大家的公司有使用-Github-非私有部署托管代码吗？](https://www.v2ex.com/t/836094)
 - [【V2EX】GitHub-无预警突然封号](https://www.v2ex.com/t/836086)
-- [【V2EX】GitLab-China-居然不支持在发行版本时上传二进位程式档案](https://www.v2ex.com/t/836055)
 - [【开发者头条】GitHub-上只卖-5-美元的脚本，却给我带来了一年数十万元报酬](https://toutiao.io/k/l44ffjj)
 - [......【查看更多】......](./details/tags/git-svn.md)
 

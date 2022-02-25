@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-02-25 16:17:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-25 16:54:18。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -108,7 +108,6 @@
 
 
 - [【V2EX】最近写了个使用-Node.js-实现一个简单的数据库的教程](https://www.v2ex.com/t/836478)
-- [【V2EX】ingress-nginx-使用-nodeport-模式会占用-80-和-443-端口吗？](https://www.v2ex.com/t/836460)
 - [......【查看更多】......](./details/tags/nodejs.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

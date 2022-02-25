@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-25 12:55:14，:rocket: 更新条数: +1965， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-25 13:17:21，:rocket: 更新条数: +1966， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-02-25-上传了行车记录仪的录像到-B-站（山里的工作单位到县城）](https://www.v2ex.com/t/836484) ![](assets/new.png)  
+- [2022-02-25-老婆太小气怎么办](https://www.v2ex.com/t/836483) ![](assets/new.png)  
 - [2022-02-25-页记-App---一个方便保存微信文章的-iOS-小工具](https://www.v2ex.com/t/836480) ![](assets/new.png)  
 - [2022-02-25-使用开源软件-与-开车-的相同点](https://www.v2ex.com/t/836479) ![](assets/new.png)  
 - [2022-02-25-最近写了个使用-Node.js-实现一个简单的数据库的教程](https://www.v2ex.com/t/836478) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-02-25-ingress-nginx-使用-nodeport-模式会占用-80-和-443-端口吗？](https://www.v2ex.com/t/836460) ![](assets/new.png)  
 - [2022-02-25-有人使用澳门电信大湾区预付费卡吗？感知如何？](https://www.v2ex.com/t/836459) ![](assets/new.png)  
 - [2022-02-25-BlackSheep-有什么优势么](https://www.v2ex.com/t/836458) ![](assets/new.png)  
-- [2022-02-25-有人学过菲律宾外教吗](https://www.v2ex.com/t/836457) ![](assets/new.png)  
-- [2022-02-25-前端有坑吗，或者有远程全职、兼职](https://www.v2ex.com/t/836456) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -570,9 +570,9 @@
 - [2022-02-25-稳定性与高可用保障的工作思路](https://toutiao.io/k/1j7mtb6) ![](assets/new.png)  
 - [2022-02-25-学好Spring，分三步！](https://toutiao.io/k/9nzosrd) ![](assets/new.png)  
 - [2022-02-25-如何编译-dotnet/aspnetcore-源代码](https://toutiao.io/k/21dv1k6) ![](assets/new.png)  
-- [2022-02-25-推荐-我做基础架构学到的42件事](https://toutiao.io/k/k6tjws1) ![](assets/new.png)  
+- [2022-02-25-推荐-轻松搞懂5种IO模型](https://toutiao.io/k/o77uhyt) ![](assets/new.png)  
 - [2022-02-25-推荐-ClickHouse使用实践与规范](https://toutiao.io/k/fb7mdkl) ![](assets/new.png)  
-- [2022-02-25-推荐-【超赞】技术架构的战略和战术原则](https://toutiao.io/k/j9872pc) ![](assets/new.png)  
+- [2022-02-25-推荐-趣谈IO多路复用的本质](https://toutiao.io/k/j4nqhbc) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

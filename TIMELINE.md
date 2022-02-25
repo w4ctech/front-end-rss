@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-02-25 21:11:41。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-02-25 21:36:43。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -272,16 +272,16 @@
 - [【开发者头条】2022-02-25-「码农周刊-VIP-会员专属邮件周报」每周五发送，赶紧上车吧！](https://toutiao.io/k/p3yqons) 
 - [【开发者头条】2022-02-25-稳定性与高可用保障的工作思路](https://toutiao.io/k/1j7mtb6) 
 - [【开发者头条】2022-02-25-如何编译-dotnet/aspnetcore-源代码](https://toutiao.io/k/21dv1k6) 
-- [【开发者头条】2022-02-25-推荐-【超赞】技术架构的战略和战术原则](https://toutiao.io/k/j9872pc) 
-- [【开发者头条】2022-02-25-推荐-一张图看懂微服务架构路线](https://toutiao.io/k/upx1qip) 
 - [【开发者头条】2022-02-25-推荐-Golang-简洁架构实战](https://toutiao.io/k/vjw1dlc) 
+- [【开发者头条】2022-02-25-推荐-【超赞】技术架构的战略和战术原则](https://toutiao.io/k/j9872pc) 
 - [【开发者头条】2022-02-25-推荐-2021年最受程序员欢迎的开发工具TOP-100名单出炉！](https://toutiao.io/k/uf5vypr) 
 - [【开发者头条】2022-02-25-推荐-轻松搞懂5种IO模型](https://toutiao.io/k/o77uhyt) 
-- [【开发者头条】2022-02-25-推荐-ClickHouse使用实践与规范](https://toutiao.io/k/fb7mdkl) 
-- [【开发者头条】2022-02-25-推荐-我做基础架构学到的42件事](https://toutiao.io/k/k6tjws1) 
+- [【开发者头条】2022-02-25-推荐-一张图看懂微服务架构路线](https://toutiao.io/k/upx1qip) 
 - [【开发者头条】2022-02-25-推荐-你分库分表的姿势对么？——详谈水平分库分表](https://toutiao.io/k/eteqw6s) 
-- [【开发者头条】2022-02-25-推荐-什么人能成为Leader，大Leader该做什么](https://toutiao.io/k/pnlaqae) 
+- [【开发者头条】2022-02-25-推荐-我做基础架构学到的42件事](https://toutiao.io/k/k6tjws1) 
+- [【开发者头条】2022-02-25-推荐-ClickHouse使用实践与规范](https://toutiao.io/k/fb7mdkl) 
 - [【开发者头条】2022-02-25-推荐-趣谈IO多路复用的本质](https://toutiao.io/k/j4nqhbc) 
+- [【开发者头条】2022-02-25-推荐-什么人能成为Leader，大Leader该做什么](https://toutiao.io/k/pnlaqae) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

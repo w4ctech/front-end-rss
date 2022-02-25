@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-25 08:15:34，:rocket: 更新条数: +1965， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-25 08:40:47，:rocket: 更新条数: +1966， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,11 @@
 </summary>
 
 
+- [2022-02-25-canvas-绘制端点的圆角](https://www.v2ex.com/t/836424) ![](assets/new.png)  
+- [2022-02-25-无偿辞退员工方案.ppt](https://www.v2ex.com/t/836423) ![](assets/new.png)  
+- [2022-02-25-有没有喜欢听播客的程序员，来一起维护-Open-Podcasts](https://www.v2ex.com/t/836422) ![](assets/new.png)  
+- [2022-02-25-请问有无-MAC-的第三方-QQ-客户端](https://www.v2ex.com/t/836421) ![](assets/new.png)  
+- [2022-02-25-Element-Plus-正式发布，快试试这个工具自动升级你的-Element-老项目](https://www.v2ex.com/t/836420) ![](assets/new.png)  
 - [2022-02-25-微信读书，目前书价最高的是哪本？](https://www.v2ex.com/t/836419) ![](assets/new.png)  
 - [2022-02-25-大家都在哪买冰墩墩公仔和钥匙扣？](https://www.v2ex.com/t/836417) ![](assets/new.png)  
 - [2022-02-25-职业生涯问题](https://www.v2ex.com/t/836416) ![](assets/new.png)  
@@ -506,11 +511,6 @@
 - [2022-02-25-Mac-上-Word-文档等线字体神奇显示问题](https://www.v2ex.com/t/836404) ![](assets/new.png)  
 - [2022-02-25-mac-M1-idea-莫名自己重新构建项目索引](https://www.v2ex.com/t/836403) ![](assets/new.png)  
 - [2022-02-25-FPGA/HPC/Heterogeneous/Compiler_中国/USA/HK/Australia_HFT&QuantFunds](https://www.v2ex.com/t/836402) ![](assets/new.png)  
-- [2022-02-25-新加坡/远程-DeBank/Rabby-招聘-Web3-开发者/产品设计师-40K-80K](https://www.v2ex.com/t/836401) ![](assets/new.png)  
-- [2022-02-25-领导连续几次画饼，最终兑现时兑现给了别人，跑路还是-忍？](https://www.v2ex.com/t/836400) ![](assets/new.png)  
-- [2022-02-25-极兔（百世快递）现在是真的不行](https://www.v2ex.com/t/836399) ![](assets/new.png)  
-- [2022-02-25-qq-可以查看-vx-上的信息吗](https://www.v2ex.com/t/836397) ![](assets/new.png)  
-- [2022-02-25-网络-IP-地址和子网掩码设置问题](https://www.v2ex.com/t/836396) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -522,6 +522,8 @@
 </summary>
 
 
+- [2022-02-25-别被框架框住了-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14955&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffrontend-framework%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2022-02-25-聊聊低代码平台-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14954&url=https%3A%2F%2Finsights.thoughtworks.cn%2Flow-code-platform%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-02-25-以荣耀公司为例，拆解成功企业的股权架构设计！-www.sohu.com](https://blogread.cn/news/go.php?idItem=14953&url=https%3A%2F%2Fwww.sohu.com%2Fa%2F476319747_120317149%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-02-25-19张图看懂SpringCloud-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14952&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493479%26amp%3Bidx%3D2%26amp%3Bsn%3D4ef8ac05bb19160caf58d5a0b1095aac%26amp%3Bchksm%3Dfa3f063ccd488f2aa426d2936a91ea7d90c418ff13650eab18ba313c795c0777152c41072b83%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-02-25-华为HarmonyOS系统一键升级指南来了！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14951&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493478%26amp%3Bidx%3D1%26amp%3Bsn%3D4cc671f0644583c54ff1cfb28b6ba457%26amp%3Bchksm%3Dfa3f063dcd488f2b8926901f33de52b069c7a2da1c1ca7eae90e68a3485f3e15fd3f75eb4094%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
@@ -540,8 +542,6 @@
 - [2022-02-25-Java程序员常犯的10个SQL错误！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14938&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493307%26amp%3Bidx%3D2%26amp%3Bsn%3Dcdeea1c1c755a6dae53d71735c78de29%26amp%3Bchksm%3Dfa3f07e0cd488ef6eaf8f33b0735c731a41cd1876f1ddb273e17fdc63afdb90bbdfd3ac78dc2%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-02-25-MySql批量插入时，如何不插入重复的数据-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14937&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493281%26amp%3Bidx%3D2%26amp%3Bsn%3D2a7b4df854f9f1eca21c7308df9c78d1%26amp%3Bchksm%3Dfa3f07facd488eec588a65dc8ecf2f5c49ef3c56e25a09a52f4b6128c5cd69476c2394856a63%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-02-25-怎样避免纠结，快速决策？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14936&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fmake-effective-decisions%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-02-25-Cucumber测试实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14935&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fcucumber-testing-practice%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-02-25-5款最佳最牛代码比较神器-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14934&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493248%26amp%3Bidx%3D1%26amp%3Bsn%3D50bb00a7204f2595e19bba088152c56a%26amp%3Bchksm%3Dfa3f07dbcd488ecd96ab648174c45d2d5085db9e8ad2ec47e80bba1e6580f7d7158761183317%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -570,9 +570,9 @@
 - [2022-02-25-直播间海量聊天消息的架构设计难点实践](https://toutiao.io/k/9t23rup) ![](assets/new.png)  
 - [2022-02-25-学好Spring，分三步！](https://toutiao.io/k/9nzosrd) ![](assets/new.png)  
 - [2022-02-25-如何编译-dotnet/aspnetcore-源代码](https://toutiao.io/k/21dv1k6) ![](assets/new.png)  
-- [2022-02-25-推荐-【超赞】技术架构的战略和战术原则](https://toutiao.io/k/j9872pc) ![](assets/new.png)  
-- [2022-02-25-推荐-轻松搞懂5种IO模型](https://toutiao.io/k/o77uhyt) ![](assets/new.png)  
-- [2022-02-25-推荐-如何撰写好技术方案设计-真实案例干货分享](https://toutiao.io/k/t1d9x3b) ![](assets/new.png)  
+- [2022-02-25-推荐-什么人能成为Leader，大Leader该做什么](https://toutiao.io/k/pnlaqae) ![](assets/new.png)  
+- [2022-02-25-推荐-你分库分表的姿势对么？——详谈水平分库分表](https://toutiao.io/k/eteqw6s) ![](assets/new.png)  
+- [2022-02-25-推荐-一张图看懂微服务架构路线](https://toutiao.io/k/upx1qip) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

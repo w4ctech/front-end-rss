@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-02-25 09:13:06。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-02-25 09:38:31。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,12 +68,12 @@
 </summary>
 
 
-- [【武汉肺炎防疫全纪录(财新网)】2022-02-25-2月24日全国新增新冠224例-13省份本土82例](https://m.caixin.com/m/2022-02-25/101846698.html) 
+- [【武汉肺炎防疫全纪录(财新网)】2022-02-25-最新疫情：全国新冠累计确诊108604例-累计接种新冠疫苗超31.08亿剂次](https://m.caixin.com/m/2022-02-25/101847056.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2022-02-25-深圳单日新增新冠13例-强调非必要不离深](https://m.caixin.com/m/2022-02-25/101846935.html) 
+- [【武汉肺炎防疫全纪录(财新网)】2022-02-25-最新海外疫情：新冠感染超4.3亿-累计接种新冠疫苗超105.64亿剂次](https://m.caixin.com/m/2022-02-25/101847061.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2022-02-25-【境内疫情观察】全国新增82例本土病例（2月24日）](https://database.caixin.com/m/2022-02-25/101846865.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2022-02-25-Moderna疫苗真实世界保护力研究发表-加拿大批准Medicago植物性疫苗｜大流行手记（2月24日）](https://m.caixin.com/m/2022-02-25/101846726.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2022-02-24-研究：新冠灭活疫苗效果可能在三针后“饱和”](https://m.caixin.com/m/2022-02-24/101846017.html) 
-- [【武汉肺炎防疫全纪录(财新网)】2022-02-24-最新海外疫情：新冠感染超4.28亿-累计接种新冠疫苗超105.45亿剂次](https://m.caixin.com/m/2022-02-24/101846379.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2022-02-24-【境内疫情观察】全国新增85例本土病例（2月23日）](https://database.caixin.com/m/2022-02-24/101846271.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2022-02-24-COVAX疫苗分配首现供过于求-意大利结束紧急状态｜大流行手记（2月23日）](https://m.caixin.com/m/2022-02-24/101846046.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2022-02-24-【图集】香港特区政府加紧建设多处隔离治疗设施](https://photos.caixin.com/m/2022-02-24/101846216.html) 
@@ -196,6 +196,10 @@
 - [【张鑫旭-鑫空间-鑫生活】2022-02-20-CSS-overflow-clip-margin属性简介](https://www.zhangxinxu.com/wordpress/2022/02/css-overflow-clip-margin/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-02-12-CSS-:not伪类选择器已支持复杂参数](https://www.zhangxinxu.com/wordpress/2022/02/css-not-pseudo-class-list-argument/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-02-04-HTML-inputmode与iOS-Android软键盘类型测试](https://www.zhangxinxu.com/wordpress/2022/02/html-inputmode-keyboard/) 
+- [【V2EX】2022-02-25-想跳槽，想去做点更有意义的事情](https://www.v2ex.com/t/836441) 
+- [【V2EX】2022-02-25-请教关于类加载器报-NoClassDefFoundError-错误的几点疑问附详细代码](https://www.v2ex.com/t/836439) 
+- [【V2EX】2022-02-25-在-gitlab-runner-中进行-electron-应用打包时发生-RequestError:-socket-hang-up](https://www.v2ex.com/t/836438) 
+- [【V2EX】2022-02-25-新品发布-|-Cloudpods-3.8.7-版本上线！](https://www.v2ex.com/t/836437) 
 - [【V2EX】2022-02-25-2015-mid-MBP-15"-换-2021-的-MBP，速度会有明显的提升吗？](https://www.v2ex.com/t/836436) 
 - [【V2EX】2022-02-25-深圳-租房-南山-63㎡一室一厅-免中介费-OCT-华侨城物业，-7000-元/月，带地下车位出租](https://www.v2ex.com/t/836435) 
 - [【V2EX】2022-02-25-Clash-远程命令执行漏洞，有主机上线！](https://www.v2ex.com/t/836433) 
@@ -235,9 +239,6 @@
 - [【V2EX】2022-02-25-珠海-外企不加班氛围轻松-VR-企业虎江科技招募-Unity-Dev](https://www.v2ex.com/t/836395) 
 - [【V2EX】2022-02-25-谁有-Hostloc-邀请权限呀，可以邀请我一下嘛？](https://www.v2ex.com/t/836393) 
 - [【V2EX】2022-02-25-上海-Booking.com-招聘网站可靠性工程师-3-名，-后端开发工程师-10+-名](https://www.v2ex.com/t/836392) 
-- [【V2EX】2022-02-25-2022-年求推荐运动相机！](https://www.v2ex.com/t/836391) 
-- [【V2EX】2022-02-25-今年行情这么差，一个面试都没有](https://www.v2ex.com/t/836389) 
-- [【V2EX】2022-02-25-ios-装了多开-app-每次都跳转到多开的-app-咋整](https://www.v2ex.com/t/836388) 
 - [【技术头条】2022-02-25-别被框架框住了-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14955&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffrontend-framework%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-02-25-聊聊低代码平台-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14954&url=https%3A%2F%2Finsights.thoughtworks.cn%2Flow-code-platform%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-02-25-以荣耀公司为例，拆解成功企业的股权架构设计！-www.sohu.com](https://blogread.cn/news/go.php?idItem=14953&url=https%3A%2F%2Fwww.sohu.com%2Fa%2F476319747_120317149%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -261,8 +262,8 @@
 - [【开发者头条】2022-02-25-一个小破网站，居然比-Python-官网还牛逼](https://toutiao.io/k/noxp0wx) 
 - [【开发者头条】2022-02-25-猝死为何盯上年轻程序员？应该如何预防猝死？](https://toutiao.io/k/35zbhmv) 
 - [【开发者头条】2022-02-25-领域驱动设计DDD中简单易用的10种技巧](https://toutiao.io/k/0i01zb6) 
-- [【开发者头条】2022-02-25-知乎高赞！有没有适合新手练习-Python-的做题类网站？](https://toutiao.io/k/th5mczx) 
 - [【开发者头条】2022-02-25-时间序列建模：时间戳与时序特征衍生思路](https://toutiao.io/k/mpdzb41) 
+- [【开发者头条】2022-02-25-知乎高赞！有没有适合新手练习-Python-的做题类网站？](https://toutiao.io/k/th5mczx) 
 - [【开发者头条】2022-02-25-流批一体技术框架探索及在袋鼠云数栈中的实践](https://toutiao.io/k/rl15pv8) 
 - [【开发者头条】2022-02-25-Trisk：在-Flink-实现以-task-为中心的流处理动态-Reconfiguration-的-Control-Plane](https://toutiao.io/k/fle66tm) 
 - [【开发者头条】2022-02-25-端智能在大众点评搜索重排序的应用实践](https://toutiao.io/k/c6sfq46) 
@@ -275,16 +276,16 @@
 - [【开发者头条】2022-02-25-直播间海量聊天消息的架构设计难点实践](https://toutiao.io/k/9t23rup) 
 - [【开发者头条】2022-02-25-学好Spring，分三步！](https://toutiao.io/k/9nzosrd) 
 - [【开发者头条】2022-02-25-如何编译-dotnet/aspnetcore-源代码](https://toutiao.io/k/21dv1k6) 
-- [【开发者头条】2022-02-25-推荐-一张图看懂微服务架构路线](https://toutiao.io/k/upx1qip) 
-- [【开发者头条】2022-02-25-推荐-轻松搞懂5种IO模型](https://toutiao.io/k/o77uhyt) 
-- [【开发者头条】2022-02-25-推荐-你分库分表的姿势对么？——详谈水平分库分表](https://toutiao.io/k/eteqw6s) 
-- [【开发者头条】2022-02-25-推荐-我做基础架构学到的42件事](https://toutiao.io/k/k6tjws1) 
-- [【开发者头条】2022-02-25-推荐-2021年最受程序员欢迎的开发工具TOP-100名单出炉！](https://toutiao.io/k/uf5vypr) 
-- [【开发者头条】2022-02-25-推荐-如何撰写好技术方案设计-真实案例干货分享](https://toutiao.io/k/t1d9x3b) 
-- [【开发者头条】2022-02-25-推荐-趣谈IO多路复用的本质](https://toutiao.io/k/j4nqhbc) 
 - [【开发者头条】2022-02-25-推荐-什么人能成为Leader，大Leader该做什么](https://toutiao.io/k/pnlaqae) 
 - [【开发者头条】2022-02-25-推荐-【超赞】技术架构的战略和战术原则](https://toutiao.io/k/j9872pc) 
 - [【开发者头条】2022-02-25-推荐-ClickHouse使用实践与规范](https://toutiao.io/k/fb7mdkl) 
+- [【开发者头条】2022-02-25-推荐-轻松搞懂5种IO模型](https://toutiao.io/k/o77uhyt) 
+- [【开发者头条】2022-02-25-推荐-你分库分表的姿势对么？——详谈水平分库分表](https://toutiao.io/k/eteqw6s) 
+- [【开发者头条】2022-02-25-推荐-我做基础架构学到的42件事](https://toutiao.io/k/k6tjws1) 
+- [【开发者头条】2022-02-25-推荐-一张图看懂微服务架构路线](https://toutiao.io/k/upx1qip) 
+- [【开发者头条】2022-02-25-推荐-2021年最受程序员欢迎的开发工具TOP-100名单出炉！](https://toutiao.io/k/uf5vypr) 
+- [【开发者头条】2022-02-25-推荐-趣谈IO多路复用的本质](https://toutiao.io/k/j4nqhbc) 
+- [【开发者头条】2022-02-25-推荐-如何撰写好技术方案设计-真实案例干货分享](https://toutiao.io/k/t1d9x3b) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

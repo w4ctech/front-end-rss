@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-25 09:13:06，:rocket: 更新条数: +1969， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-25 09:38:31，:rocket: 更新条数: +1970， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -65,12 +65,12 @@
 </summary>
 
 
-- [2022-02-25-2月24日全国新增新冠224例-13省份本土82例](https://m.caixin.com/m/2022-02-25/101846698.html) ![](assets/new.png)  
+- [2022-02-25-最新疫情：全国新冠累计确诊108604例-累计接种新冠疫苗超31.08亿剂次](https://m.caixin.com/m/2022-02-25/101847056.html) ![](assets/new.png)  
 - [2022-02-25-深圳单日新增新冠13例-强调非必要不离深](https://m.caixin.com/m/2022-02-25/101846935.html) ![](assets/new.png)  
+- [2022-02-25-最新海外疫情：新冠感染超4.3亿-累计接种新冠疫苗超105.64亿剂次](https://m.caixin.com/m/2022-02-25/101847061.html) ![](assets/new.png)  
 - [2022-02-25-【境内疫情观察】全国新增82例本土病例（2月24日）](https://database.caixin.com/m/2022-02-25/101846865.html) ![](assets/new.png)  
 - [2022-02-25-Moderna疫苗真实世界保护力研究发表-加拿大批准Medicago植物性疫苗｜大流行手记（2月24日）](https://m.caixin.com/m/2022-02-25/101846726.html) ![](assets/new.png)  
 - [2022-02-24-研究：新冠灭活疫苗效果可能在三针后“饱和”](https://m.caixin.com/m/2022-02-24/101846017.html) ![](assets/new.png)  
-- [2022-02-24-最新海外疫情：新冠感染超4.28亿-累计接种新冠疫苗超105.45亿剂次](https://m.caixin.com/m/2022-02-24/101846379.html) ![](assets/new.png)  
 - [2022-02-24-【境内疫情观察】全国新增85例本土病例（2月23日）](https://database.caixin.com/m/2022-02-24/101846271.html) ![](assets/new.png)  
 - [2022-02-24-COVAX疫苗分配首现供过于求-意大利结束紧急状态｜大流行手记（2月23日）](https://m.caixin.com/m/2022-02-24/101846046.html) ![](assets/new.png)  
 - [2022-02-24-【图集】香港特区政府加紧建设多处隔离治疗设施](https://photos.caixin.com/m/2022-02-24/101846216.html) ![](assets/new.png)  
@@ -491,6 +491,10 @@
 </summary>
 
 
+- [2022-02-25-想跳槽，想去做点更有意义的事情](https://www.v2ex.com/t/836441) ![](assets/new.png)  
+- [2022-02-25-请教关于类加载器报-NoClassDefFoundError-错误的几点疑问附详细代码](https://www.v2ex.com/t/836439) ![](assets/new.png)  
+- [2022-02-25-在-gitlab-runner-中进行-electron-应用打包时发生-RequestError:-socket-hang-up](https://www.v2ex.com/t/836438) ![](assets/new.png)  
+- [2022-02-25-新品发布-|-Cloudpods-3.8.7-版本上线！](https://www.v2ex.com/t/836437) ![](assets/new.png)  
 - [2022-02-25-2015-mid-MBP-15"-换-2021-的-MBP，速度会有明显的提升吗？](https://www.v2ex.com/t/836436) ![](assets/new.png)  
 - [2022-02-25-深圳-租房-南山-63㎡一室一厅-免中介费-OCT-华侨城物业，-7000-元/月，带地下车位出租](https://www.v2ex.com/t/836435) ![](assets/new.png)  
 - [2022-02-25-Clash-远程命令执行漏洞，有主机上线！](https://www.v2ex.com/t/836433) ![](assets/new.png)  
@@ -507,10 +511,6 @@
 - [2022-02-25-有没有喜欢听播客的程序员，来一起维护-Open-Podcasts](https://www.v2ex.com/t/836422) ![](assets/new.png)  
 - [2022-02-25-请问有无-MAC-的第三方-QQ-客户端](https://www.v2ex.com/t/836421) ![](assets/new.png)  
 - [2022-02-25-Element-Plus-正式发布，快试试这个工具自动升级你的-Element-老项目](https://www.v2ex.com/t/836420) ![](assets/new.png)  
-- [2022-02-25-微信读书，目前书价最高的是哪本？](https://www.v2ex.com/t/836419) ![](assets/new.png)  
-- [2022-02-25-大家都在哪买冰墩墩公仔和钥匙扣？](https://www.v2ex.com/t/836417) ![](assets/new.png)  
-- [2022-02-25-职业生涯问题](https://www.v2ex.com/t/836416) ![](assets/new.png)  
-- [2022-02-25-关于《计算机网络：自顶向下方法》一书中-TCP-协议的问题](https://www.v2ex.com/t/836415) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -556,8 +556,8 @@
 - [2022-02-25-一个小破网站，居然比-Python-官网还牛逼](https://toutiao.io/k/noxp0wx) ![](assets/new.png)  
 - [2022-02-25-猝死为何盯上年轻程序员？应该如何预防猝死？](https://toutiao.io/k/35zbhmv) ![](assets/new.png)  
 - [2022-02-25-领域驱动设计DDD中简单易用的10种技巧](https://toutiao.io/k/0i01zb6) ![](assets/new.png)  
-- [2022-02-25-知乎高赞！有没有适合新手练习-Python-的做题类网站？](https://toutiao.io/k/th5mczx) ![](assets/new.png)  
 - [2022-02-25-时间序列建模：时间戳与时序特征衍生思路](https://toutiao.io/k/mpdzb41) ![](assets/new.png)  
+- [2022-02-25-知乎高赞！有没有适合新手练习-Python-的做题类网站？](https://toutiao.io/k/th5mczx) ![](assets/new.png)  
 - [2022-02-25-流批一体技术框架探索及在袋鼠云数栈中的实践](https://toutiao.io/k/rl15pv8) ![](assets/new.png)  
 - [2022-02-25-Trisk：在-Flink-实现以-task-为中心的流处理动态-Reconfiguration-的-Control-Plane](https://toutiao.io/k/fle66tm) ![](assets/new.png)  
 - [2022-02-25-端智能在大众点评搜索重排序的应用实践](https://toutiao.io/k/c6sfq46) ![](assets/new.png)  
@@ -570,9 +570,9 @@
 - [2022-02-25-直播间海量聊天消息的架构设计难点实践](https://toutiao.io/k/9t23rup) ![](assets/new.png)  
 - [2022-02-25-学好Spring，分三步！](https://toutiao.io/k/9nzosrd) ![](assets/new.png)  
 - [2022-02-25-如何编译-dotnet/aspnetcore-源代码](https://toutiao.io/k/21dv1k6) ![](assets/new.png)  
-- [2022-02-25-推荐-一张图看懂微服务架构路线](https://toutiao.io/k/upx1qip) ![](assets/new.png)  
-- [2022-02-25-推荐-轻松搞懂5种IO模型](https://toutiao.io/k/o77uhyt) ![](assets/new.png)  
-- [2022-02-25-推荐-你分库分表的姿势对么？——详谈水平分库分表](https://toutiao.io/k/eteqw6s) ![](assets/new.png)  
+- [2022-02-25-推荐-什么人能成为Leader，大Leader该做什么](https://toutiao.io/k/pnlaqae) ![](assets/new.png)  
+- [2022-02-25-推荐-【超赞】技术架构的战略和战术原则](https://toutiao.io/k/j9872pc) ![](assets/new.png)  
+- [2022-02-25-推荐-ClickHouse使用实践与规范](https://toutiao.io/k/fb7mdkl) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

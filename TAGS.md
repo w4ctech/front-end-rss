@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-02-25 11:36:05。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-25 12:20:13。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -55,6 +55,7 @@
 
 
 
+- [【V2EX】写了一个插件-vuepress-plugin-smplayer](https://www.v2ex.com/t/836471)
 - [【技术头条】Vue3.0七大亮点是什么？？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14946&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493388%26amp%3Bidx%3D2%26amp%3Bsn%3D444ceba4f1e66a8553283a9424eec1be%26amp%3Bchksm%3Dfa3f0657cd488f413f3099568d4e134cc4ed0fd8d7cdb4c4963d2a87859087aff79080558a7c%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【技术头条】从实际项目出发，告诉你vue3到底香不香-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14943&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493377%26amp%3Bidx%3D2%26amp%3Bsn%3D38dcff122477793c2bfa2353abca7ecc%26amp%3Bchksm%3Dfa3f065acd488f4c47984479b5068b79976b72e2284221362b1746315de5f6c4e4d9a25a17d5%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [......【查看更多】......](./details/tags/vue.md)
@@ -220,7 +221,6 @@
 
 
 
-- [【V2EX】canvas-绘制端点的圆角](https://www.v2ex.com/t/836424)
 - [......【查看更多】......](./details/tags/canvas-image.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -239,6 +239,7 @@
 
 - [【武汉肺炎防疫全纪录(财新网)】广州17岁男生在定点医院参加高考-特殊考场视频监考](https://m.caixin.com/m/2021-06-05/101723418.html)
 - [【武汉肺炎防疫全纪录(财新网)】林郑月娥率13高官直播接种科兴疫苗-复星疫苗预计周中到港](https://m.caixin.com/m/2021-02-22/101665724.html)
+- [【V2EX】录了一期消费观，负债相关的视频，求建议。](https://www.v2ex.com/t/836475)
 - [【开发者头条】直播间海量聊天消息的架构设计难点实践](https://toutiao.io/k/9t23rup)
 - [......【查看更多】......](./details/tags/audio-video.md)
 
@@ -299,7 +300,6 @@
 
 
 
-- [【V2EX】有没有喜欢听播客的程序员，来一起维护-Open-Podcasts](https://www.v2ex.com/t/836422)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

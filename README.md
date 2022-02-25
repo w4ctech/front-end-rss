@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-25 23:13:16，:rocket: 更新条数: +1964， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-25 23:38:07，:rocket: 更新条数: +1964， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -570,9 +570,9 @@
 - [2022-02-25-「码农周刊-VIP-会员专属邮件周报」每周五发送，赶紧上车吧！](https://toutiao.io/k/p3yqons) ![](assets/new.png)  
 - [2022-02-25-稳定性与高可用保障的工作思路](https://toutiao.io/k/1j7mtb6) ![](assets/new.png)  
 - [2022-02-25-如何编译-dotnet/aspnetcore-源代码](https://toutiao.io/k/21dv1k6) ![](assets/new.png)  
-- [2022-02-25-推荐-【超赞】技术架构的战略和战术原则](https://toutiao.io/k/j9872pc) ![](assets/new.png)  
 - [2022-02-25-推荐-什么人能成为Leader，大Leader该做什么](https://toutiao.io/k/pnlaqae) ![](assets/new.png)  
-- [2022-02-25-推荐-你分库分表的姿势对么？——详谈水平分库分表](https://toutiao.io/k/eteqw6s) ![](assets/new.png)  
+- [2022-02-25-推荐-轻松搞懂5种IO模型](https://toutiao.io/k/o77uhyt) ![](assets/new.png)  
+- [2022-02-25-推荐-【超赞】技术架构的战略和战术原则](https://toutiao.io/k/j9872pc) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

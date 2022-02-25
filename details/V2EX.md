@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-02-25 22:38:41。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-25 23:03:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
@@ -40,4 +40,3 @@
 - [2022-02-25-6-个月神奇的兼职经历](https://www.v2ex.com/t/836472) 
 - [2022-02-25-写了一个插件-vuepress-plugin-smplayer](https://www.v2ex.com/t/836471) 
 - [2022-02-25-老头环学习了一下午-一起来学习吧](https://www.v2ex.com/t/836470) 
-- [2022-02-25-2022-年-2-月，-nuc8-还值得购买吗？](https://www.v2ex.com/t/836469) 

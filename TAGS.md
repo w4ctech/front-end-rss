@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-02-25 04:15:42。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-25 04:46:52。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -282,8 +282,6 @@
 - [【武汉肺炎防疫全纪录(财新网)】解药|新冠mRNA疫苗安全性有哪些挑战？](https://m.caixin.com/m/2021-01-08/101648043.html)
 - [【武汉肺炎防疫全纪录(财新网)】大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html)
 - [【V2EX】v2ex-无法在最新版的-Google-浏览器发帖？](https://www.v2ex.com/t/836341)
-- [【V2EX】Edge-又开始做恶，起始页固定-Bing-搜索且无法修改](https://www.v2ex.com/t/836316)
-- [【V2EX】iOS-Safari-移除强制跳转到-app-的扩展分享](https://www.v2ex.com/t/836315)
 - [【技术头条】再见，收费的Teamviewer！！！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14949&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493389%26amp%3Bidx%3D1%26amp%3Bsn%3D978ce04acd53a4a22494d0f55c740b35%26amp%3Bchksm%3Dfa3f0656cd488f40f1c5b506b10237a45806e6624d1646f8bac19084dedc385e200de1a4e489%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【开发者头条】端智能在大众点评搜索重排序的应用实践](https://toutiao.io/k/c6sfq46)
 - [......【查看更多】......](./details/tags/browser.md)

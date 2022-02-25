@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-25 13:17:21，:rocket: 更新条数: +1966， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-25 13:37:55，:rocket: 更新条数: +1966， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -66,14 +66,15 @@
 
 
 - [2022-02-25-最新疫情：全国新冠累计确诊108604例-累计接种新冠疫苗超31.08亿剂次](https://m.caixin.com/m/2022-02-25/101847056.html) ![](assets/new.png)  
+- [2022-02-25-疾控：新冠灭活疫苗能污染接种点人群或环境-但不具传染性](https://m.caixin.com/m/2022-02-25/101847263.html) ![](assets/new.png)  
 - [2022-02-25-香港日新增病例破万-拟引进内地医护援助](https://m.caixin.com/m/2022-02-25/101847103.html) ![](assets/new.png)  
 - [2022-02-25-深圳单日新增新冠13例-强调非必要不离深](https://m.caixin.com/m/2022-02-25/101846935.html) ![](assets/new.png)  
 - [2022-02-25-最新海外疫情：新冠感染超4.3亿-累计接种新冠疫苗超105.64亿剂次](https://m.caixin.com/m/2022-02-25/101847061.html) ![](assets/new.png)  
 - [2022-02-25-【境内疫情观察】全国新增82例本土病例（2月24日）](https://database.caixin.com/m/2022-02-25/101846865.html) ![](assets/new.png)  
 - [2022-02-25-Moderna疫苗真实世界保护力研究发表-加拿大批准Medicago植物性疫苗｜大流行手记（2月24日）](https://m.caixin.com/m/2022-02-25/101846726.html) ![](assets/new.png)  
-- [2022-02-24-研究：新冠灭活疫苗效果可能在三针后“饱和”](https://m.caixin.com/m/2022-02-24/101846017.html) ![](assets/new.png)  
 - [2022-02-24-【境内疫情观察】全国新增85例本土病例（2月23日）](https://database.caixin.com/m/2022-02-24/101846271.html) ![](assets/new.png)  
 - [2022-02-24-COVAX疫苗分配首现供过于求-意大利结束紧急状态｜大流行手记（2月23日）](https://m.caixin.com/m/2022-02-24/101846046.html) ![](assets/new.png)  
+- [2022-02-24-研究：新冠灭活疫苗效果可能在三针后“饱和”](https://m.caixin.com/m/2022-02-24/101846017.html) ![](assets/new.png)  
 - [2022-02-24-【图集】香港特区政府加紧建设多处隔离治疗设施](https://photos.caixin.com/m/2022-02-24/101846216.html) ![](assets/new.png)  
 - [2022-02-24-【图集】韩国日增新冠肺炎确诊病例突破17万例](https://photos.caixin.com/m/2022-02-24/101846047.html) ![](assets/new.png)  
 - [2022-02-23-香港三日新增82宗新冠死亡病例-多数未接种疫苗](https://m.caixin.com/m/2022-02-23/101845939.html) ![](assets/new.png)  
@@ -84,7 +85,6 @@
 - [2022-02-23-【图集】武汉升级疫情防控措施-针对重点人员开展核酸检测](https://photos.caixin.com/m/2022-02-23/101845660.html) ![](assets/new.png)  
 - [2022-02-22-深圳疫情多点散发-市内多地划分封控区](https://m.caixin.com/m/2022-02-22/101845530.html) ![](assets/new.png)  
 - [2022-02-22-北京、武汉现关联疫情-北京新增4例本土确诊](https://m.caixin.com/m/2022-02-22/101845168.html) ![](assets/new.png)  
-- [2022-02-22-香港3月启动强制性全民检测-中小学提前放暑假](https://m.caixin.com/m/2022-02-22/101845511.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -491,8 +491,12 @@
 </summary>
 
 
+- [2022-02-25-现在小米刷欧版-MIUI，必须要有能直接科学上网的-WIFI？？](https://www.v2ex.com/t/836490) ![](assets/new.png)  
+- [2022-02-25-刚发现-DNSPod-上线-IP-DoH/DoT-了](https://www.v2ex.com/t/836489) ![](assets/new.png)  
+- [2022-02-25-拼多多红包机制调研](https://www.v2ex.com/t/836488) ![](assets/new.png)  
+- [2022-02-25-生产力工具公司-Readdle-Spark-邮件客户端-&-PDF-Expert-和-MacPaw-Setapp-都是乌克兰公司](https://www.v2ex.com/t/836487) ![](assets/new.png)  
+- [2022-02-25-问一个-frp-内网穿透的问题](https://www.v2ex.com/t/836485) ![](assets/new.png)  
 - [2022-02-25-上传了行车记录仪的录像到-B-站（山里的工作单位到县城）](https://www.v2ex.com/t/836484) ![](assets/new.png)  
-- [2022-02-25-老婆太小气怎么办](https://www.v2ex.com/t/836483) ![](assets/new.png)  
 - [2022-02-25-页记-App---一个方便保存微信文章的-iOS-小工具](https://www.v2ex.com/t/836480) ![](assets/new.png)  
 - [2022-02-25-使用开源软件-与-开车-的相同点](https://www.v2ex.com/t/836479) ![](assets/new.png)  
 - [2022-02-25-最近写了个使用-Node.js-实现一个简单的数据库的教程](https://www.v2ex.com/t/836478) ![](assets/new.png)  
@@ -507,10 +511,6 @@
 - [2022-02-25-charles-如何设置代理验证？我想给代理设置个帐号密码](https://www.v2ex.com/t/836465) ![](assets/new.png)  
 - [2022-02-25-考勤打卡这种项目经验有用嘛](https://www.v2ex.com/t/836464) ![](assets/new.png)  
 - [2022-02-25-请教-iCloud-付费问题](https://www.v2ex.com/t/836463) ![](assets/new.png)  
-- [2022-02-25-IOS15.3.1-京喜和拼多多、不上滑杀掉-APP、这俩一直在后台运行.](https://www.v2ex.com/t/836462) ![](assets/new.png)  
-- [2022-02-25-ingress-nginx-使用-nodeport-模式会占用-80-和-443-端口吗？](https://www.v2ex.com/t/836460) ![](assets/new.png)  
-- [2022-02-25-有人使用澳门电信大湾区预付费卡吗？感知如何？](https://www.v2ex.com/t/836459) ![](assets/new.png)  
-- [2022-02-25-BlackSheep-有什么优势么](https://www.v2ex.com/t/836458) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -570,8 +570,8 @@
 - [2022-02-25-稳定性与高可用保障的工作思路](https://toutiao.io/k/1j7mtb6) ![](assets/new.png)  
 - [2022-02-25-学好Spring，分三步！](https://toutiao.io/k/9nzosrd) ![](assets/new.png)  
 - [2022-02-25-如何编译-dotnet/aspnetcore-源代码](https://toutiao.io/k/21dv1k6) ![](assets/new.png)  
-- [2022-02-25-推荐-轻松搞懂5种IO模型](https://toutiao.io/k/o77uhyt) ![](assets/new.png)  
-- [2022-02-25-推荐-ClickHouse使用实践与规范](https://toutiao.io/k/fb7mdkl) ![](assets/new.png)  
+- [2022-02-25-推荐-你分库分表的姿势对么？——详谈水平分库分表](https://toutiao.io/k/eteqw6s) ![](assets/new.png)  
+- [2022-02-25-推荐-如何撰写好技术方案设计-真实案例干货分享](https://toutiao.io/k/t1d9x3b) ![](assets/new.png)  
 - [2022-02-25-推荐-趣谈IO多路复用的本质](https://toutiao.io/k/j4nqhbc) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

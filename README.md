@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-25 17:38:20，:rocket: 更新条数: +1965， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-25 18:16:04，:rocket: 更新条数: +1965， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,9 @@
 </summary>
 
 
+- [2022-02-25-升级-monterey-后-tmc-beans-闪退](https://www.v2ex.com/t/836514) ![](assets/new.png)  
+- [2022-02-25-分享一个自动换壁纸的快捷指令](https://www.v2ex.com/t/836513) ![](assets/new.png)  
+- [2022-02-25-IOS-SIM-能错误-14-次？](https://www.v2ex.com/t/836512) ![](assets/new.png)  
 - [2022-02-25-大数据平台和业务后端哪个前景好](https://www.v2ex.com/t/836511) ![](assets/new.png)  
 - [2022-02-25-在哪里注册-10-年-.com-.me-不建站比较便宜靠谱？](https://www.v2ex.com/t/836510) ![](assets/new.png)  
 - [2022-02-25-后端用什么方法实现限制用户访问资源数量比较好？](https://www.v2ex.com/t/836509) ![](assets/new.png)  
@@ -508,9 +511,6 @@
 - [2022-02-25-全职远程-40-50k/去中心化金融（DeFi）交易所招聘全栈工程师](https://www.v2ex.com/t/836493) ![](assets/new.png)  
 - [2022-02-25-如果你是部门主管，你会招个比自己更强的人吗?](https://www.v2ex.com/t/836491) ![](assets/new.png)  
 - [2022-02-25-刚发现-DNSPod-上线-IP-DoH/DoT-了](https://www.v2ex.com/t/836489) ![](assets/new.png)  
-- [2022-02-25-拼多多红包机制调研](https://www.v2ex.com/t/836488) ![](assets/new.png)  
-- [2022-02-25-生产力工具公司-Readdle-Spark-邮件客户端-&-PDF-Expert-和-MacPaw-Setapp-都是乌克兰公司](https://www.v2ex.com/t/836487) ![](assets/new.png)  
-- [2022-02-25-问一个-frp-内网穿透的问题](https://www.v2ex.com/t/836485) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -554,8 +554,8 @@
 
 
 - [2022-02-25-一个小破网站，居然比-Python-官网还牛逼](https://toutiao.io/k/noxp0wx) ![](assets/new.png)  
-- [2022-02-25-猝死为何盯上年轻程序员？应该如何预防猝死？](https://toutiao.io/k/35zbhmv) ![](assets/new.png)  
 - [2022-02-25-领域驱动设计DDD中简单易用的10种技巧](https://toutiao.io/k/0i01zb6) ![](assets/new.png)  
+- [2022-02-25-猝死为何盯上年轻程序员？应该如何预防猝死？](https://toutiao.io/k/35zbhmv) ![](assets/new.png)  
 - [2022-02-25-时间序列建模：时间戳与时序特征衍生思路](https://toutiao.io/k/mpdzb41) ![](assets/new.png)  
 - [2022-02-25-知乎高赞！有没有适合新手练习-Python-的做题类网站？](https://toutiao.io/k/th5mczx) ![](assets/new.png)  
 - [2022-02-25-开源-|-携程-Foxpage-前端低代码框架](https://toutiao.io/k/63jbeuu) ![](assets/new.png)  
@@ -566,13 +566,13 @@
 - [2022-02-25-贵公司技术有话语权吗，为什么？](https://toutiao.io/k/5awyyzi) ![](assets/new.png)  
 - [2022-02-25-前端工程师生产环境-debugger-小技巧](https://toutiao.io/k/y4ipnzb) ![](assets/new.png)  
 - [2022-02-25-基于ASP.NET-Core-api-的服务器事件发送](https://toutiao.io/k/fuc1d2e) ![](assets/new.png)  
-- [2022-02-25-「码农周刊-VIP-会员专属邮件周报」每周五发送，赶紧上车吧！](https://toutiao.io/k/p3yqons) ![](assets/new.png)  
 - [2022-02-25-学好Spring，分三步！](https://toutiao.io/k/9nzosrd) ![](assets/new.png)  
+- [2022-02-25-「码农周刊-VIP-会员专属邮件周报」每周五发送，赶紧上车吧！](https://toutiao.io/k/p3yqons) ![](assets/new.png)  
 - [2022-02-25-稳定性与高可用保障的工作思路](https://toutiao.io/k/1j7mtb6) ![](assets/new.png)  
 - [2022-02-25-如何编译-dotnet/aspnetcore-源代码](https://toutiao.io/k/21dv1k6) ![](assets/new.png)  
 - [2022-02-25-推荐-我做基础架构学到的42件事](https://toutiao.io/k/k6tjws1) ![](assets/new.png)  
+- [2022-02-25-推荐-【超赞】技术架构的战略和战术原则](https://toutiao.io/k/j9872pc) ![](assets/new.png)  
 - [2022-02-25-推荐-什么人能成为Leader，大Leader该做什么](https://toutiao.io/k/pnlaqae) ![](assets/new.png)  
-- [2022-02-25-推荐-你分库分表的姿势对么？——详谈水平分库分表](https://toutiao.io/k/eteqw6s) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

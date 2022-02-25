@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-25 14:12:19，:rocket: 更新条数: +1965， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-25 14:36:39，:rocket: 更新条数: +1964， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-02-25-如果你是部门主管，你会招个比自己更强的人吗?](https://www.v2ex.com/t/836491) ![](assets/new.png)  
 - [2022-02-25-刚发现-DNSPod-上线-IP-DoH/DoT-了](https://www.v2ex.com/t/836489) ![](assets/new.png)  
 - [2022-02-25-拼多多红包机制调研](https://www.v2ex.com/t/836488) ![](assets/new.png)  
 - [2022-02-25-生产力工具公司-Readdle-Spark-邮件客户端-&-PDF-Expert-和-MacPaw-Setapp-都是乌克兰公司](https://www.v2ex.com/t/836487) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-02-25-charles-如何设置代理验证？我想给代理设置个帐号密码](https://www.v2ex.com/t/836465) ![](assets/new.png)  
 - [2022-02-25-考勤打卡这种项目经验有用嘛](https://www.v2ex.com/t/836464) ![](assets/new.png)  
 - [2022-02-25-请教-iCloud-付费问题](https://www.v2ex.com/t/836463) ![](assets/new.png)  
-- [2022-02-25-IOS15.3.1-京喜和拼多多、不上滑杀掉-APP、这俩一直在后台运行.](https://www.v2ex.com/t/836462) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -570,9 +570,9 @@
 - [2022-02-25-稳定性与高可用保障的工作思路](https://toutiao.io/k/1j7mtb6) ![](assets/new.png)  
 - [2022-02-25-学好Spring，分三步！](https://toutiao.io/k/9nzosrd) ![](assets/new.png)  
 - [2022-02-25-如何编译-dotnet/aspnetcore-源代码](https://toutiao.io/k/21dv1k6) ![](assets/new.png)  
+- [2022-02-25-推荐-ClickHouse使用实践与规范](https://toutiao.io/k/fb7mdkl) ![](assets/new.png)  
 - [2022-02-25-推荐-2021年最受程序员欢迎的开发工具TOP-100名单出炉！](https://toutiao.io/k/uf5vypr) ![](assets/new.png)  
-- [2022-02-25-推荐-什么人能成为Leader，大Leader该做什么](https://toutiao.io/k/pnlaqae) ![](assets/new.png)  
-- [2022-02-25-推荐-一张图看懂微服务架构路线](https://toutiao.io/k/upx1qip) ![](assets/new.png)  
+- [2022-02-25-推荐-趣谈IO多路复用的本质](https://toutiao.io/k/j4nqhbc) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2022-02-25 14:12:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-25 14:36:39。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-02-25-如果你是部门主管，你会招个比自己更强的人吗?](https://www.v2ex.com/t/836491) 
 - [2022-02-25-刚发现-DNSPod-上线-IP-DoH/DoT-了](https://www.v2ex.com/t/836489) 
 - [2022-02-25-拼多多红包机制调研](https://www.v2ex.com/t/836488) 
 - [2022-02-25-生产力工具公司-Readdle-Spark-邮件客户端-&-PDF-Expert-和-MacPaw-Setapp-都是乌克兰公司](https://www.v2ex.com/t/836487) 
@@ -39,5 +40,3 @@
 - [2022-02-25-腾讯内测-QQ-频道，开放了-QQ-机器人-api-接口，有何玩法](https://www.v2ex.com/t/836445) 
 - [2022-02-25-工作一年半想重新做-c/c++方向](https://www.v2ex.com/t/836444) 
 - [2022-02-25-求推荐在手机和-iPad-上全文搜索-markdown-文件的-app](https://www.v2ex.com/t/836443) 
-- [2022-02-25-DJI-大疆软件部各研发岗位热招中-深圳](https://www.v2ex.com/t/836442) 
-- [2022-02-25-想跳槽，想去做点更有意义的事情](https://www.v2ex.com/t/836441) 

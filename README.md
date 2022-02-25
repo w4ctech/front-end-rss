@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-25 06:44:55，:rocket: 更新条数: +1960， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-25 07:12:55，:rocket: 更新条数: +1963， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -66,6 +66,7 @@
 
 
 - [2022-02-25-2月24日全国新增新冠224例-13省份本土82例](https://m.caixin.com/m/2022-02-25/101846698.html) ![](assets/new.png)  
+- [2022-02-25-【境内疫情观察】全国新增82例本土病例（2月24日）](https://database.caixin.com/m/2022-02-25/101846865.html) ![](assets/new.png)  
 - [2022-02-25-Moderna疫苗真实世界保护力研究发表-加拿大批准Medicago植物性疫苗｜大流行手记（2月24日）](https://m.caixin.com/m/2022-02-25/101846726.html) ![](assets/new.png)  
 - [2022-02-24-研究：新冠灭活疫苗效果可能在三针后“饱和”](https://m.caixin.com/m/2022-02-24/101846017.html) ![](assets/new.png)  
 - [2022-02-24-最新海外疫情：新冠感染超4.28亿-累计接种新冠疫苗超105.45亿剂次](https://m.caixin.com/m/2022-02-24/101846379.html) ![](assets/new.png)  
@@ -84,7 +85,6 @@
 - [2022-02-22-香港3月启动强制性全民检测-中小学提前放暑假](https://m.caixin.com/m/2022-02-22/101845511.html) ![](assets/new.png)  
 - [2022-02-22-钟南山为香港抗疫提三大建议-强调奥密克戎危害远大于流感](https://m.caixin.com/m/2022-02-22/101845161.html) ![](assets/new.png)  
 - [2022-02-22-武汉市新增4例新冠病毒核酸检测阳性病例](https://m.caixin.com/m/2022-02-22/101845172.html) ![](assets/new.png)  
-- [2022-02-22-香港新冠死亡病例不断攀升-11个月大女婴成最年轻死者](https://m.caixin.com/m/2022-02-22/101845080.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -491,6 +491,12 @@
 </summary>
 
 
+- [2022-02-25-Mac-上-Word-文档等线字体神奇显示问题](https://www.v2ex.com/t/836404) ![](assets/new.png)  
+- [2022-02-25-mac-M1-idea-莫名自己重新构建项目索引](https://www.v2ex.com/t/836403) ![](assets/new.png)  
+- [2022-02-25-FPGA/HPC/Heterogeneous/Compiler_中国/USA/HK/Australia_HFT&QuantFunds](https://www.v2ex.com/t/836402) ![](assets/new.png)  
+- [2022-02-25-新加坡/远程-DeBank/Rabby-招聘-Web3-开发者/产品设计师-40K-80K](https://www.v2ex.com/t/836401) ![](assets/new.png)  
+- [2022-02-25-领导连续几次画饼，最终兑现时兑现给了别人，跑路还是-忍？](https://www.v2ex.com/t/836400) ![](assets/new.png)  
+- [2022-02-25-极兔（百世快递）现在是真的不行](https://www.v2ex.com/t/836399) ![](assets/new.png)  
 - [2022-02-25-qq-可以查看-vx-上的信息吗](https://www.v2ex.com/t/836397) ![](assets/new.png)  
 - [2022-02-25-网络-IP-地址和子网掩码设置问题](https://www.v2ex.com/t/836396) ![](assets/new.png)  
 - [2022-02-25-珠海-外企不加班氛围轻松-VR-企业虎江科技招募-Unity-Dev](https://www.v2ex.com/t/836395) ![](assets/new.png)  
@@ -505,12 +511,6 @@
 - [2022-02-25-博树-Busuu-使用体验](https://www.v2ex.com/t/836381) ![](assets/new.png)  
 - [2022-02-25-杭州外企微策略-不加班，年后继续招人，前端，测试，-Java-，-C++，-Android，-iOS，-Cloud-工程师-18-~-40K-13-薪，奖金另算](https://www.v2ex.com/t/836380) ![](assets/new.png)  
 - [2022-02-25-无法通过-web-访问-jar-包中的一个-0-字节的文件](https://www.v2ex.com/t/836379) ![](assets/new.png)  
-- [2022-02-25-React-Context-应该怎么用?](https://www.v2ex.com/t/836378) ![](assets/new.png)  
-- [2022-02-25-有没有人在坐-岗村-contessa2-代人体工学椅](https://www.v2ex.com/t/836375) ![](assets/new.png)  
-- [2022-02-25-经验-React-17-和-comsjs-冲突的解决](https://www.v2ex.com/t/836374) ![](assets/new.png)  
-- [2022-02-25-无法胜任工作怎么办](https://www.v2ex.com/t/836372) ![](assets/new.png)  
-- [2022-02-25-您的日历未能刷新](https://www.v2ex.com/t/836371) ![](assets/new.png)  
-- [2022-02-25-请问大家上海开滴滴哪里靠谱租车](https://www.v2ex.com/t/836370) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -558,20 +558,20 @@
 - [2022-02-25-领域驱动设计DDD中简单易用的10种技巧](https://toutiao.io/k/0i01zb6) ![](assets/new.png)  
 - [2022-02-25-知乎高赞！有没有适合新手练习-Python-的做题类网站？](https://toutiao.io/k/th5mczx) ![](assets/new.png)  
 - [2022-02-25-时间序列建模：时间戳与时序特征衍生思路](https://toutiao.io/k/mpdzb41) ![](assets/new.png)  
-- [2022-02-25-流批一体技术框架探索及在袋鼠云数栈中的实践](https://toutiao.io/k/rl15pv8) ![](assets/new.png)  
 - [2022-02-25-Trisk：在-Flink-实现以-task-为中心的流处理动态-Reconfiguration-的-Control-Plane](https://toutiao.io/k/fle66tm) ![](assets/new.png)  
+- [2022-02-25-流批一体技术框架探索及在袋鼠云数栈中的实践](https://toutiao.io/k/rl15pv8) ![](assets/new.png)  
 - [2022-02-25-端智能在大众点评搜索重排序的应用实践](https://toutiao.io/k/c6sfq46) ![](assets/new.png)  
 - [2022-02-25-开源-|-携程-Foxpage-前端低代码框架](https://toutiao.io/k/63jbeuu) ![](assets/new.png)  
 - [2022-02-25-基于ASP.NET-Core-api-的服务器事件发送](https://toutiao.io/k/fuc1d2e) ![](assets/new.png)  
 - [2022-02-25-「码农周刊-VIP-会员专属邮件周报」每周五发送，赶紧上车吧！](https://toutiao.io/k/p3yqons) ![](assets/new.png)  
 - [2022-02-25-贵公司技术有话语权吗，为什么？](https://toutiao.io/k/5awyyzi) ![](assets/new.png)  
-- [2022-02-25-稳定性与高可用保障的工作思路](https://toutiao.io/k/1j7mtb6) ![](assets/new.png)  
 - [2022-02-25-前端工程师生产环境-debugger-小技巧](https://toutiao.io/k/y4ipnzb) ![](assets/new.png)  
+- [2022-02-25-稳定性与高可用保障的工作思路](https://toutiao.io/k/1j7mtb6) ![](assets/new.png)  
 - [2022-02-25-学好Spring，分三步！](https://toutiao.io/k/9nzosrd) ![](assets/new.png)  
 - [2022-02-25-直播间海量聊天消息的架构设计难点实践](https://toutiao.io/k/9t23rup) ![](assets/new.png)  
 - [2022-02-25-如何编译-dotnet/aspnetcore-源代码](https://toutiao.io/k/21dv1k6) ![](assets/new.png)  
-- [2022-02-25-推荐-【超赞】技术架构的战略和战术原则](https://toutiao.io/k/j9872pc) ![](assets/new.png)  
-- [2022-02-25-推荐-我做基础架构学到的42件事](https://toutiao.io/k/k6tjws1) ![](assets/new.png)  
+- [2022-02-25-推荐-你分库分表的姿势对么？——详谈水平分库分表](https://toutiao.io/k/eteqw6s) ![](assets/new.png)  
+- [2022-02-25-推荐-轻松搞懂5种IO模型](https://toutiao.io/k/o77uhyt) ![](assets/new.png)  
 - [2022-02-25-推荐-趣谈IO多路复用的本质](https://toutiao.io/k/j4nqhbc) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

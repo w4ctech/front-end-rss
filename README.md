@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-25 12:20:13，:rocket: 更新条数: +1968， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-25 12:55:14，:rocket: 更新条数: +1965， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,9 +491,11 @@
 </summary>
 
 
+- [2022-02-25-页记-App---一个方便保存微信文章的-iOS-小工具](https://www.v2ex.com/t/836480) ![](assets/new.png)  
+- [2022-02-25-使用开源软件-与-开车-的相同点](https://www.v2ex.com/t/836479) ![](assets/new.png)  
+- [2022-02-25-最近写了个使用-Node.js-实现一个简单的数据库的教程](https://www.v2ex.com/t/836478) ![](assets/new.png)  
 - [2022-02-25-录了一期消费观，负债相关的视频，求建议。](https://www.v2ex.com/t/836475) ![](assets/new.png)  
 - [2022-02-25-可以加入关闭发布的内容被收藏/感谢提醒的功能吗？](https://www.v2ex.com/t/836474) ![](assets/new.png)  
-- [2022-02-25-各位检查一下自己的鸡场吧](https://www.v2ex.com/t/836473) ![](assets/new.png)  
 - [2022-02-25-6-个月神奇的兼职经历](https://www.v2ex.com/t/836472) ![](assets/new.png)  
 - [2022-02-25-写了一个插件-vuepress-plugin-smplayer](https://www.v2ex.com/t/836471) ![](assets/new.png)  
 - [2022-02-25-老头环学习了一下午-一起来学习吧](https://www.v2ex.com/t/836470) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-02-25-BlackSheep-有什么优势么](https://www.v2ex.com/t/836458) ![](assets/new.png)  
 - [2022-02-25-有人学过菲律宾外教吗](https://www.v2ex.com/t/836457) ![](assets/new.png)  
 - [2022-02-25-前端有坑吗，或者有远程全职、兼职](https://www.v2ex.com/t/836456) ![](assets/new.png)  
-- [2022-02-25-pip-安装包的时候如何控制搜索顺序？](https://www.v2ex.com/t/836454) ![](assets/new.png)  
-- [2022-02-25-现在-2022-年怎么办理-ETC-最划算，售后有保障](https://www.v2ex.com/t/836453) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -564,14 +564,14 @@
 - [2022-02-25-端智能在大众点评搜索重排序的应用实践](https://toutiao.io/k/c6sfq46) ![](assets/new.png)  
 - [2022-02-25-直播间海量聊天消息的架构设计难点实践](https://toutiao.io/k/9t23rup) ![](assets/new.png)  
 - [2022-02-25-贵公司技术有话语权吗，为什么？](https://toutiao.io/k/5awyyzi) ![](assets/new.png)  
-- [2022-02-25-基于ASP.NET-Core-api-的服务器事件发送](https://toutiao.io/k/fuc1d2e) ![](assets/new.png)  
 - [2022-02-25-前端工程师生产环境-debugger-小技巧](https://toutiao.io/k/y4ipnzb) ![](assets/new.png)  
+- [2022-02-25-基于ASP.NET-Core-api-的服务器事件发送](https://toutiao.io/k/fuc1d2e) ![](assets/new.png)  
 - [2022-02-25-「码农周刊-VIP-会员专属邮件周报」每周五发送，赶紧上车吧！](https://toutiao.io/k/p3yqons) ![](assets/new.png)  
 - [2022-02-25-稳定性与高可用保障的工作思路](https://toutiao.io/k/1j7mtb6) ![](assets/new.png)  
 - [2022-02-25-学好Spring，分三步！](https://toutiao.io/k/9nzosrd) ![](assets/new.png)  
 - [2022-02-25-如何编译-dotnet/aspnetcore-源代码](https://toutiao.io/k/21dv1k6) ![](assets/new.png)  
+- [2022-02-25-推荐-我做基础架构学到的42件事](https://toutiao.io/k/k6tjws1) ![](assets/new.png)  
 - [2022-02-25-推荐-ClickHouse使用实践与规范](https://toutiao.io/k/fb7mdkl) ![](assets/new.png)  
-- [2022-02-25-推荐-什么人能成为Leader，大Leader该做什么](https://toutiao.io/k/pnlaqae) ![](assets/new.png)  
 - [2022-02-25-推荐-【超赞】技术架构的战略和战术原则](https://toutiao.io/k/j9872pc) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

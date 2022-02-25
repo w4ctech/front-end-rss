@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-02-25 00:46:17。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-25 02:05:07。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -17,5 +17,6 @@
 - [2021-12-29-JS-标签模板（Tagged-templates）什么时候使用？](https://www.zhangxinxu.com/wordpress/2021/12/js-tagged-templates/) 
 - [2021-12-20-深入JS-getRandomValues和Math.random方法](https://www.zhangxinxu.com/wordpress/2021/12/js-getrandomvalue-math-random/) 
 - [2021-12-08-flex-end为什么overflow无法滚动及解决方法](https://www.zhangxinxu.com/wordpress/2021/12/flex-end-overflow/) 
+- [2022-02-25-新手前端，问个项目与项目的公共组件引用问题](https://www.v2ex.com/t/836295) 
 - [2022-02-25-奇葩的微信滚动条](https://www.v2ex.com/t/836288) 
 - [2022-02-25-基于ASP.NET-Core-api-的服务器事件发送](https://toutiao.io/k/fuc1d2e) 

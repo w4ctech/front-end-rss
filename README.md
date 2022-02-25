@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-25 20:38:17，:rocket: 更新条数: +1965， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-25 21:11:41，:rocket: 更新条数: +1965， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-02-25-如何让笔记本内置的扬声器和外接的音响同时发声？](https://www.v2ex.com/t/836517) ![](assets/new.png)  
+- [2022-02-25-腾讯的漏洞扫描服务不需要验证目标网站权限的？](https://www.v2ex.com/t/836516) ![](assets/new.png)  
 - [2022-02-25-小伙伴们是-ota-还是电脑下载完整包更新系统？](https://www.v2ex.com/t/836515) ![](assets/new.png)  
 - [2022-02-25-升级-monterey-后-tmc-beans-闪退](https://www.v2ex.com/t/836514) ![](assets/new.png)  
 - [2022-02-25-分享一个自动换壁纸的快捷指令](https://www.v2ex.com/t/836513) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-02-25-模仿了一个-jira](https://www.v2ex.com/t/836497) ![](assets/new.png)  
 - [2022-02-25-请问-macOS-上有没有可能在打开腾讯会议的同时自动开启勿扰模式](https://www.v2ex.com/t/836496) ![](assets/new.png)  
 - [2022-02-25-一道贝叶斯概率题](https://www.v2ex.com/t/836494) ![](assets/new.png)  
-- [2022-02-25-全职远程-40-50k/去中心化金融（DeFi）交易所招聘全栈工程师](https://www.v2ex.com/t/836493) ![](assets/new.png)  
-- [2022-02-25-如果你是部门主管，你会招个比自己更强的人吗?](https://www.v2ex.com/t/836491) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -554,8 +554,8 @@
 
 
 - [2022-02-25-一个小破网站，居然比-Python-官网还牛逼](https://toutiao.io/k/noxp0wx) ![](assets/new.png)  
-- [2022-02-25-领域驱动设计DDD中简单易用的10种技巧](https://toutiao.io/k/0i01zb6) ![](assets/new.png)  
 - [2022-02-25-猝死为何盯上年轻程序员？应该如何预防猝死？](https://toutiao.io/k/35zbhmv) ![](assets/new.png)  
+- [2022-02-25-领域驱动设计DDD中简单易用的10种技巧](https://toutiao.io/k/0i01zb6) ![](assets/new.png)  
 - [2022-02-25-时间序列建模：时间戳与时序特征衍生思路](https://toutiao.io/k/mpdzb41) ![](assets/new.png)  
 - [2022-02-25-知乎高赞！有没有适合新手练习-Python-的做题类网站？](https://toutiao.io/k/th5mczx) ![](assets/new.png)  
 - [2022-02-25-开源-|-携程-Foxpage-前端低代码框架](https://toutiao.io/k/63jbeuu) ![](assets/new.png)  
@@ -570,9 +570,9 @@
 - [2022-02-25-「码农周刊-VIP-会员专属邮件周报」每周五发送，赶紧上车吧！](https://toutiao.io/k/p3yqons) ![](assets/new.png)  
 - [2022-02-25-稳定性与高可用保障的工作思路](https://toutiao.io/k/1j7mtb6) ![](assets/new.png)  
 - [2022-02-25-如何编译-dotnet/aspnetcore-源代码](https://toutiao.io/k/21dv1k6) ![](assets/new.png)  
-- [2022-02-25-推荐-ClickHouse使用实践与规范](https://toutiao.io/k/fb7mdkl) ![](assets/new.png)  
-- [2022-02-25-推荐-我做基础架构学到的42件事](https://toutiao.io/k/k6tjws1) ![](assets/new.png)  
-- [2022-02-25-推荐-2021年最受程序员欢迎的开发工具TOP-100名单出炉！](https://toutiao.io/k/uf5vypr) ![](assets/new.png)  
+- [2022-02-25-推荐-【超赞】技术架构的战略和战术原则](https://toutiao.io/k/j9872pc) ![](assets/new.png)  
+- [2022-02-25-推荐-一张图看懂微服务架构路线](https://toutiao.io/k/upx1qip) ![](assets/new.png)  
+- [2022-02-25-推荐-Golang-简洁架构实战](https://toutiao.io/k/vjw1dlc) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-02-25 20:38:18。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-02-25 21:11:41。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -199,6 +199,8 @@
 - [【张鑫旭-鑫空间-鑫生活】2022-02-20-CSS-overflow-clip-margin属性简介](https://www.zhangxinxu.com/wordpress/2022/02/css-overflow-clip-margin/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-02-12-CSS-:not伪类选择器已支持复杂参数](https://www.zhangxinxu.com/wordpress/2022/02/css-not-pseudo-class-list-argument/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-02-04-HTML-inputmode与iOS-Android软键盘类型测试](https://www.zhangxinxu.com/wordpress/2022/02/html-inputmode-keyboard/) 
+- [【V2EX】2022-02-25-如何让笔记本内置的扬声器和外接的音响同时发声？](https://www.v2ex.com/t/836517) 
+- [【V2EX】2022-02-25-腾讯的漏洞扫描服务不需要验证目标网站权限的？](https://www.v2ex.com/t/836516) 
 - [【V2EX】2022-02-25-小伙伴们是-ota-还是电脑下载完整包更新系统？](https://www.v2ex.com/t/836515) 
 - [【V2EX】2022-02-25-升级-monterey-后-tmc-beans-闪退](https://www.v2ex.com/t/836514) 
 - [【V2EX】2022-02-25-分享一个自动换壁纸的快捷指令](https://www.v2ex.com/t/836513) 
@@ -233,8 +235,6 @@
 - [【V2EX】2022-02-25-写了一个插件-vuepress-plugin-smplayer](https://www.v2ex.com/t/836471) 
 - [【V2EX】2022-02-25-老头环学习了一下午-一起来学习吧](https://www.v2ex.com/t/836470) 
 - [【V2EX】2022-02-25-2022-年-2-月，-nuc8-还值得购买吗？](https://www.v2ex.com/t/836469) 
-- [【V2EX】2022-02-25-dockfile-里命令为啥这样写，高手或者熟悉-Linux-命令的老哥请进！](https://www.v2ex.com/t/836467) 
-- [【V2EX】2022-02-25-Activision-动视上海工作室招人啦~快来一起做使命召唤！](https://www.v2ex.com/t/836466) 
 - [【技术头条】2022-02-25-别被框架框住了-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14955&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffrontend-framework%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-02-25-聊聊低代码平台-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14954&url=https%3A%2F%2Finsights.thoughtworks.cn%2Flow-code-platform%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-02-25-以荣耀公司为例，拆解成功企业的股权架构设计！-www.sohu.com](https://blogread.cn/news/go.php?idItem=14953&url=https%3A%2F%2Fwww.sohu.com%2Fa%2F476319747_120317149%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -256,8 +256,8 @@
 - [【技术头条】2022-02-25-MySql批量插入时，如何不插入重复的数据-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14937&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493281%26amp%3Bidx%3D2%26amp%3Bsn%3D2a7b4df854f9f1eca21c7308df9c78d1%26amp%3Bchksm%3Dfa3f07facd488eec588a65dc8ecf2f5c49ef3c56e25a09a52f4b6128c5cd69476c2394856a63%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-02-25-怎样避免纠结，快速决策？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14936&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fmake-effective-decisions%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【开发者头条】2022-02-25-一个小破网站，居然比-Python-官网还牛逼](https://toutiao.io/k/noxp0wx) 
-- [【开发者头条】2022-02-25-领域驱动设计DDD中简单易用的10种技巧](https://toutiao.io/k/0i01zb6) 
 - [【开发者头条】2022-02-25-猝死为何盯上年轻程序员？应该如何预防猝死？](https://toutiao.io/k/35zbhmv) 
+- [【开发者头条】2022-02-25-领域驱动设计DDD中简单易用的10种技巧](https://toutiao.io/k/0i01zb6) 
 - [【开发者头条】2022-02-25-时间序列建模：时间戳与时序特征衍生思路](https://toutiao.io/k/mpdzb41) 
 - [【开发者头条】2022-02-25-知乎高赞！有没有适合新手练习-Python-的做题类网站？](https://toutiao.io/k/th5mczx) 
 - [【开发者头条】2022-02-25-开源-|-携程-Foxpage-前端低代码框架](https://toutiao.io/k/63jbeuu) 
@@ -272,16 +272,16 @@
 - [【开发者头条】2022-02-25-「码农周刊-VIP-会员专属邮件周报」每周五发送，赶紧上车吧！](https://toutiao.io/k/p3yqons) 
 - [【开发者头条】2022-02-25-稳定性与高可用保障的工作思路](https://toutiao.io/k/1j7mtb6) 
 - [【开发者头条】2022-02-25-如何编译-dotnet/aspnetcore-源代码](https://toutiao.io/k/21dv1k6) 
-- [【开发者头条】2022-02-25-推荐-ClickHouse使用实践与规范](https://toutiao.io/k/fb7mdkl) 
-- [【开发者头条】2022-02-25-推荐-我做基础架构学到的42件事](https://toutiao.io/k/k6tjws1) 
-- [【开发者头条】2022-02-25-推荐-2021年最受程序员欢迎的开发工具TOP-100名单出炉！](https://toutiao.io/k/uf5vypr) 
-- [【开发者头条】2022-02-25-推荐-Golang-简洁架构实战](https://toutiao.io/k/vjw1dlc) 
-- [【开发者头条】2022-02-25-推荐-趣谈IO多路复用的本质](https://toutiao.io/k/j4nqhbc) 
-- [【开发者头条】2022-02-25-推荐-轻松搞懂5种IO模型](https://toutiao.io/k/o77uhyt) 
-- [【开发者头条】2022-02-25-推荐-什么人能成为Leader，大Leader该做什么](https://toutiao.io/k/pnlaqae) 
 - [【开发者头条】2022-02-25-推荐-【超赞】技术架构的战略和战术原则](https://toutiao.io/k/j9872pc) 
 - [【开发者头条】2022-02-25-推荐-一张图看懂微服务架构路线](https://toutiao.io/k/upx1qip) 
+- [【开发者头条】2022-02-25-推荐-Golang-简洁架构实战](https://toutiao.io/k/vjw1dlc) 
+- [【开发者头条】2022-02-25-推荐-2021年最受程序员欢迎的开发工具TOP-100名单出炉！](https://toutiao.io/k/uf5vypr) 
+- [【开发者头条】2022-02-25-推荐-轻松搞懂5种IO模型](https://toutiao.io/k/o77uhyt) 
+- [【开发者头条】2022-02-25-推荐-ClickHouse使用实践与规范](https://toutiao.io/k/fb7mdkl) 
+- [【开发者头条】2022-02-25-推荐-我做基础架构学到的42件事](https://toutiao.io/k/k6tjws1) 
 - [【开发者头条】2022-02-25-推荐-你分库分表的姿势对么？——详谈水平分库分表](https://toutiao.io/k/eteqw6s) 
+- [【开发者头条】2022-02-25-推荐-什么人能成为Leader，大Leader该做什么](https://toutiao.io/k/pnlaqae) 
+- [【开发者头条】2022-02-25-推荐-趣谈IO多路复用的本质](https://toutiao.io/k/j4nqhbc) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

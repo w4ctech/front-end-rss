@@ -9633,6 +9633,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "小伙伴们是 ota 还是电脑下载完整包更新系统？",
+        "link": "https://www.v2ex.com/t/836515",
+        "date": "2022-02-25"
+      },
+      {
         "title": "升级 monterey 后 tmc beans 闪退",
         "link": "https://www.v2ex.com/t/836514",
         "date": "2022-02-25"
@@ -9805,11 +9810,6 @@
       {
         "title": "Activision 动视上海工作室招人啦~快来一起做使命召唤！",
         "link": "https://www.v2ex.com/t/836466",
-        "date": "2022-02-25"
-      },
-      {
-        "title": "charles 如何设置代理验证？我想给代理设置个帐号密码",
-        "link": "https://www.v2ex.com/t/836465",
         "date": "2022-02-25"
       }
     ]
@@ -10012,33 +10012,8 @@
         "date": "2022-02-25"
       },
       {
-        "title": "[推荐] 轻松搞懂5种IO模型",
-        "link": "https://toutiao.io/k/o77uhyt",
-        "date": "2022-02-25"
-      },
-      {
-        "title": "[推荐] 2021年最受程序员欢迎的开发工具TOP 100名单出炉！",
-        "link": "https://toutiao.io/k/uf5vypr",
-        "date": "2022-02-25"
-      },
-      {
-        "title": "[推荐] ClickHouse使用实践与规范",
-        "link": "https://toutiao.io/k/fb7mdkl",
-        "date": "2022-02-25"
-      },
-      {
         "title": "[推荐] 你分库分表的姿势对么？——详谈水平分库分表",
         "link": "https://toutiao.io/k/eteqw6s",
-        "date": "2022-02-25"
-      },
-      {
-        "title": "[推荐] 我做基础架构学到的42件事",
-        "link": "https://toutiao.io/k/k6tjws1",
-        "date": "2022-02-25"
-      },
-      {
-        "title": "[推荐] Golang 简洁架构实战",
-        "link": "https://toutiao.io/k/vjw1dlc",
         "date": "2022-02-25"
       },
       {
@@ -10052,6 +10027,21 @@
         "date": "2022-02-25"
       },
       {
+        "title": "[推荐] 2021年最受程序员欢迎的开发工具TOP 100名单出炉！",
+        "link": "https://toutiao.io/k/uf5vypr",
+        "date": "2022-02-25"
+      },
+      {
+        "title": "[推荐] Golang 简洁架构实战",
+        "link": "https://toutiao.io/k/vjw1dlc",
+        "date": "2022-02-25"
+      },
+      {
+        "title": "[推荐] 我做基础架构学到的42件事",
+        "link": "https://toutiao.io/k/k6tjws1",
+        "date": "2022-02-25"
+      },
+      {
         "title": "[推荐] 一张图看懂微服务架构路线",
         "link": "https://toutiao.io/k/upx1qip",
         "date": "2022-02-25"
@@ -10059,6 +10049,16 @@
       {
         "title": "[推荐] 趣谈IO多路复用的本质",
         "link": "https://toutiao.io/k/j4nqhbc",
+        "date": "2022-02-25"
+      },
+      {
+        "title": "[推荐] 轻松搞懂5种IO模型",
+        "link": "https://toutiao.io/k/o77uhyt",
+        "date": "2022-02-25"
+      },
+      {
+        "title": "[推荐] ClickHouse使用实践与规范",
+        "link": "https://toutiao.io/k/fb7mdkl",
         "date": "2022-02-25"
       }
     ]

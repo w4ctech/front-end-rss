@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2022-02-25 19:36:48。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-25 20:14:17。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-02-25-小伙伴们是-ota-还是电脑下载完整包更新系统？](https://www.v2ex.com/t/836515) 
 - [2022-02-25-升级-monterey-后-tmc-beans-闪退](https://www.v2ex.com/t/836514) 
 - [2022-02-25-分享一个自动换壁纸的快捷指令](https://www.v2ex.com/t/836513) 
 - [2022-02-25-IOS-SIM-能错误-14-次？](https://www.v2ex.com/t/836512) 
@@ -40,4 +41,3 @@
 - [2022-02-25-2022-年-2-月，-nuc8-还值得购买吗？](https://www.v2ex.com/t/836469) 
 - [2022-02-25-dockfile-里命令为啥这样写，高手或者熟悉-Linux-命令的老哥请进！](https://www.v2ex.com/t/836467) 
 - [2022-02-25-Activision-动视上海工作室招人啦~快来一起做使命召唤！](https://www.v2ex.com/t/836466) 
-- [2022-02-25-charles-如何设置代理验证？我想给代理设置个帐号密码](https://www.v2ex.com/t/836465) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-25 19:36:48，:rocket: 更新条数: +1965， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-25 20:14:17，:rocket: 更新条数: +1965， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-02-25-小伙伴们是-ota-还是电脑下载完整包更新系统？](https://www.v2ex.com/t/836515) ![](assets/new.png)  
 - [2022-02-25-升级-monterey-后-tmc-beans-闪退](https://www.v2ex.com/t/836514) ![](assets/new.png)  
 - [2022-02-25-分享一个自动换壁纸的快捷指令](https://www.v2ex.com/t/836513) ![](assets/new.png)  
 - [2022-02-25-IOS-SIM-能错误-14-次？](https://www.v2ex.com/t/836512) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-02-25-一道贝叶斯概率题](https://www.v2ex.com/t/836494) ![](assets/new.png)  
 - [2022-02-25-全职远程-40-50k/去中心化金融（DeFi）交易所招聘全栈工程师](https://www.v2ex.com/t/836493) ![](assets/new.png)  
 - [2022-02-25-如果你是部门主管，你会招个比自己更强的人吗?](https://www.v2ex.com/t/836491) ![](assets/new.png)  
-- [2022-02-25-刚发现-DNSPod-上线-IP-DoH/DoT-了](https://www.v2ex.com/t/836489) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -570,9 +570,9 @@
 - [2022-02-25-「码农周刊-VIP-会员专属邮件周报」每周五发送，赶紧上车吧！](https://toutiao.io/k/p3yqons) ![](assets/new.png)  
 - [2022-02-25-稳定性与高可用保障的工作思路](https://toutiao.io/k/1j7mtb6) ![](assets/new.png)  
 - [2022-02-25-如何编译-dotnet/aspnetcore-源代码](https://toutiao.io/k/21dv1k6) ![](assets/new.png)  
-- [2022-02-25-推荐-轻松搞懂5种IO模型](https://toutiao.io/k/o77uhyt) ![](assets/new.png)  
-- [2022-02-25-推荐-2021年最受程序员欢迎的开发工具TOP-100名单出炉！](https://toutiao.io/k/uf5vypr) ![](assets/new.png)  
-- [2022-02-25-推荐-ClickHouse使用实践与规范](https://toutiao.io/k/fb7mdkl) ![](assets/new.png)  
+- [2022-02-25-推荐-你分库分表的姿势对么？——详谈水平分库分表](https://toutiao.io/k/eteqw6s) ![](assets/new.png)  
+- [2022-02-25-推荐-【超赞】技术架构的战略和战术原则](https://toutiao.io/k/j9872pc) ![](assets/new.png)  
+- [2022-02-25-推荐-什么人能成为Leader，大Leader该做什么](https://toutiao.io/k/pnlaqae) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

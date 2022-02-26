@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-26 02:30:43，:rocket: 更新条数: +1959， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-26 02:52:18，:rocket: 更新条数: +1960， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-02-26-Skim-PDF-的高亮笔记如何保存并兼容其他-PDF-软件？](https://www.v2ex.com/t/836537) ![](assets/new.png)  
+- [2022-02-26-Steam-Deck-首发日](https://www.v2ex.com/t/836536) ![](assets/new.png)  
 - [2022-02-26-Mac-book-pro-配置选择，请教各位](https://www.v2ex.com/t/836532) ![](assets/new.png)  
 - [2022-02-26-关于挂梯子爬数据的疑问](https://www.v2ex.com/t/836531) ![](assets/new.png)  
 - [2022-02-26-京粉在没签协议的情况下给我报税了，但是还不给我钱？](https://www.v2ex.com/t/836530) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-02-25-升级-monterey-后-tmc-beans-闪退](https://www.v2ex.com/t/836514) ![](assets/new.png)  
 - [2022-02-25-分享一个自动换壁纸的快捷指令](https://www.v2ex.com/t/836513) ![](assets/new.png)  
 - [2022-02-25-IOS-SIM-能错误-14-次？](https://www.v2ex.com/t/836512) ![](assets/new.png)  
-- [2022-02-25-大数据平台和业务后端哪个前景好](https://www.v2ex.com/t/836511) ![](assets/new.png)  
-- [2022-02-25-在哪里注册-10-年-.com-.me-不建站比较便宜靠谱？](https://www.v2ex.com/t/836510) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -556,23 +556,23 @@
 - [2022-02-26-优质网站同好者周刊（第-54-期）--倾城之链---悠然宜想亭](https://toutiao.io/k/y8jsfcd) ![](assets/new.png)  
 - [2022-02-26-跟着-Go-作者掌握泛型](https://toutiao.io/k/821lotp) ![](assets/new.png)  
 - [2022-02-26-开源｜一款适合于快速开发业务的-Go-框架](https://toutiao.io/k/wnwdwqc) ![](assets/new.png)  
-- [2022-02-26-阿里巴巴第三季度净利润同比下降-75%；字节跳动确认-28-岁员工不幸离世；去哪儿网因让员工加班被罚款｜开发者头条](https://toutiao.io/k/szrj964) ![](assets/new.png)  
 - [2022-02-26-如何写一份让面试官眼前一亮的简历？](https://toutiao.io/k/n5pmmlc) ![](assets/new.png)  
+- [2022-02-26-阿里巴巴第三季度净利润同比下降-75%；字节跳动确认-28-岁员工不幸离世；去哪儿网因让员工加班被罚款｜开发者头条](https://toutiao.io/k/szrj964) ![](assets/new.png)  
 - [2022-02-26-苏舒：速度提升10倍，腾讯基于Iceberg的数据治理优化实践](https://toutiao.io/k/ozsrs9c) ![](assets/new.png)  
 - [2022-02-26-用babel和nodemon搭建一个功能齐全的nodejs开发环境](https://toutiao.io/k/ssqvyd0) ![](assets/new.png)  
 - [2022-02-26-Java17：和遗留25年的漏洞SayGoodbye](https://toutiao.io/k/hz8g5pu) ![](assets/new.png)  
-- [2022-02-26-能解决80%故障的排查思路](https://toutiao.io/k/r5dkzd0) ![](assets/new.png)  
 - [2022-02-26-当-synchronized-遇到这玩意儿，有个大坑，要注意！](https://toutiao.io/k/s694r65) ![](assets/new.png)  
-- [2022-02-26-推荐-Golang-简洁架构实战](https://toutiao.io/k/vjw1dlc) ![](assets/new.png)  
-- [2022-02-26-推荐-轻松搞懂5种IO模型](https://toutiao.io/k/o77uhyt) ![](assets/new.png)  
-- [2022-02-26-推荐-【超赞】技术架构的战略和战术原则](https://toutiao.io/k/j9872pc) ![](assets/new.png)  
-- [2022-02-26-推荐-2021年最受程序员欢迎的开发工具TOP-100名单出炉！](https://toutiao.io/k/uf5vypr) ![](assets/new.png)  
-- [2022-02-26-推荐-我做基础架构学到的42件事](https://toutiao.io/k/k6tjws1) ![](assets/new.png)  
-- [2022-02-26-推荐-一张图看懂微服务架构路线](https://toutiao.io/k/upx1qip) ![](assets/new.png)  
+- [2022-02-26-能解决80%故障的排查思路](https://toutiao.io/k/r5dkzd0) ![](assets/new.png)  
 - [2022-02-26-推荐-你分库分表的姿势对么？——详谈水平分库分表](https://toutiao.io/k/eteqw6s) ![](assets/new.png)  
-- [2022-02-26-推荐-趣谈IO多路复用的本质](https://toutiao.io/k/j4nqhbc) ![](assets/new.png)  
-- [2022-02-26-推荐-什么人能成为Leader，大Leader该做什么](https://toutiao.io/k/pnlaqae) ![](assets/new.png)  
 - [2022-02-26-推荐-ClickHouse使用实践与规范](https://toutiao.io/k/fb7mdkl) ![](assets/new.png)  
+- [2022-02-26-推荐-什么人能成为Leader，大Leader该做什么](https://toutiao.io/k/pnlaqae) ![](assets/new.png)  
+- [2022-02-26-推荐-轻松搞懂5种IO模型](https://toutiao.io/k/o77uhyt) ![](assets/new.png)  
+- [2022-02-26-推荐-我做基础架构学到的42件事](https://toutiao.io/k/k6tjws1) ![](assets/new.png)  
+- [2022-02-26-推荐-【超赞】技术架构的战略和战术原则](https://toutiao.io/k/j9872pc) ![](assets/new.png)  
+- [2022-02-26-推荐-一张图看懂微服务架构路线](https://toutiao.io/k/upx1qip) ![](assets/new.png)  
+- [2022-02-26-推荐-Golang-简洁架构实战](https://toutiao.io/k/vjw1dlc) ![](assets/new.png)  
+- [2022-02-26-推荐-2021年最受程序员欢迎的开发工具TOP-100名单出炉！](https://toutiao.io/k/uf5vypr) ![](assets/new.png)  
+- [2022-02-26-推荐-趣谈IO多路复用的本质](https://toutiao.io/k/j4nqhbc) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

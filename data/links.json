@@ -9638,6 +9638,16 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "Skim PDF 的高亮笔记如何保存并兼容其他 PDF 软件？",
+        "link": "https://www.v2ex.com/t/836537",
+        "date": "2022-02-26"
+      },
+      {
+        "title": "Steam Deck 首发日",
+        "link": "https://www.v2ex.com/t/836536",
+        "date": "2022-02-26"
+      },
+      {
         "title": "Mac book pro 配置选择，请教各位",
         "link": "https://www.v2ex.com/t/836532",
         "date": "2022-02-26"
@@ -9811,11 +9821,6 @@
         "title": "拼多多红包机制调研",
         "link": "https://www.v2ex.com/t/836488",
         "date": "2022-02-25"
-      },
-      {
-        "title": "生产力工具公司 Readdle (Spark 邮件客户端 & PDF Expert) 和 MacPaw (Setapp) 都是乌克兰公司",
-        "link": "https://www.v2ex.com/t/836487",
-        "date": "2022-02-25"
       }
     ]
   },
@@ -9947,13 +9952,13 @@
         "date": "2022-02-26"
       },
       {
-        "title": "阿里巴巴第三季度净利润同比下降 75%；字节跳动确认 28 岁员工不幸离世；去哪儿网因让员工加班被罚款｜开发者头条",
-        "link": "https://toutiao.io/k/szrj964",
+        "title": "如何写一份让面试官眼前一亮的简历？",
+        "link": "https://toutiao.io/k/n5pmmlc",
         "date": "2022-02-26"
       },
       {
-        "title": "如何写一份让面试官眼前一亮的简历？",
-        "link": "https://toutiao.io/k/n5pmmlc",
+        "title": "阿里巴巴第三季度净利润同比下降 75%；字节跳动确认 28 岁员工不幸离世；去哪儿网因让员工加班被罚款｜开发者头条",
+        "link": "https://toutiao.io/k/szrj964",
         "date": "2022-02-26"
       },
       {
@@ -9972,43 +9977,13 @@
         "date": "2022-02-26"
       },
       {
-        "title": "能解决80%故障的排查思路",
-        "link": "https://toutiao.io/k/r5dkzd0",
-        "date": "2022-02-26"
-      },
-      {
         "title": "当 synchronized 遇到这玩意儿，有个大坑，要注意！",
         "link": "https://toutiao.io/k/s694r65",
         "date": "2022-02-26"
       },
       {
-        "title": "[推荐] Golang 简洁架构实战",
-        "link": "https://toutiao.io/k/vjw1dlc",
-        "date": "2022-02-26"
-      },
-      {
-        "title": "[推荐] 轻松搞懂5种IO模型",
-        "link": "https://toutiao.io/k/o77uhyt",
-        "date": "2022-02-26"
-      },
-      {
-        "title": "[推荐] 【超赞】技术架构的战略和战术原则",
-        "link": "https://toutiao.io/k/j9872pc",
-        "date": "2022-02-26"
-      },
-      {
-        "title": "[推荐] 2021年最受程序员欢迎的开发工具TOP 100名单出炉！",
-        "link": "https://toutiao.io/k/uf5vypr",
-        "date": "2022-02-26"
-      },
-      {
-        "title": "[推荐] 我做基础架构学到的42件事",
-        "link": "https://toutiao.io/k/k6tjws1",
-        "date": "2022-02-26"
-      },
-      {
-        "title": "[推荐] 一张图看懂微服务架构路线",
-        "link": "https://toutiao.io/k/upx1qip",
+        "title": "能解决80%故障的排查思路",
+        "link": "https://toutiao.io/k/r5dkzd0",
         "date": "2022-02-26"
       },
       {
@@ -10017,8 +9992,8 @@
         "date": "2022-02-26"
       },
       {
-        "title": "[推荐] 趣谈IO多路复用的本质",
-        "link": "https://toutiao.io/k/j4nqhbc",
+        "title": "[推荐] ClickHouse使用实践与规范",
+        "link": "https://toutiao.io/k/fb7mdkl",
         "date": "2022-02-26"
       },
       {
@@ -10027,8 +10002,38 @@
         "date": "2022-02-26"
       },
       {
-        "title": "[推荐] ClickHouse使用实践与规范",
-        "link": "https://toutiao.io/k/fb7mdkl",
+        "title": "[推荐] 轻松搞懂5种IO模型",
+        "link": "https://toutiao.io/k/o77uhyt",
+        "date": "2022-02-26"
+      },
+      {
+        "title": "[推荐] 我做基础架构学到的42件事",
+        "link": "https://toutiao.io/k/k6tjws1",
+        "date": "2022-02-26"
+      },
+      {
+        "title": "[推荐] 【超赞】技术架构的战略和战术原则",
+        "link": "https://toutiao.io/k/j9872pc",
+        "date": "2022-02-26"
+      },
+      {
+        "title": "[推荐] 一张图看懂微服务架构路线",
+        "link": "https://toutiao.io/k/upx1qip",
+        "date": "2022-02-26"
+      },
+      {
+        "title": "[推荐] Golang 简洁架构实战",
+        "link": "https://toutiao.io/k/vjw1dlc",
+        "date": "2022-02-26"
+      },
+      {
+        "title": "[推荐] 2021年最受程序员欢迎的开发工具TOP 100名单出炉！",
+        "link": "https://toutiao.io/k/uf5vypr",
+        "date": "2022-02-26"
+      },
+      {
+        "title": "[推荐] 趣谈IO多路复用的本质",
+        "link": "https://toutiao.io/k/j4nqhbc",
         "date": "2022-02-26"
       }
     ]

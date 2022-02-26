@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-02-26 11:11:03。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-26 11:36:38。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -16,4 +16,5 @@
 - [2022-01-11-还有完没完，怎么又来了个-scrollbar-gutter？](https://www.zhangxinxu.com/wordpress/2022/01/css-scrollbar-gutter/) 
 - [2021-12-29-JS-标签模板（Tagged-templates）什么时候使用？](https://www.zhangxinxu.com/wordpress/2021/12/js-tagged-templates/) 
 - [2021-12-20-深入JS-getRandomValues和Math.random方法](https://www.zhangxinxu.com/wordpress/2021/12/js-getrandomvalue-math-random/) 
+- [2022-02-26-企业微信里的-h5-应用要每日打卡，如何自动打卡？](https://www.v2ex.com/t/836616) 
 - [2022-02-26-算法题求解答：如何简化下面的代码？-js-代码](https://www.v2ex.com/t/836600) 

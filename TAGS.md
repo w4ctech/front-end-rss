@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-02-26 11:11:03。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-26 11:36:38。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -156,7 +156,6 @@
 
 
 
-- [【V2EX】Kirby-and-the-Forgotten-Land-20220225-最新游戏过程视频](https://www.v2ex.com/t/836566)
 - [......【查看更多】......](./details/tags/dev-game.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -182,6 +181,7 @@
 - [【张鑫旭-鑫空间-鑫生活】还有完没完，怎么又来了个-scrollbar-gutter？](https://www.zhangxinxu.com/wordpress/2022/01/css-scrollbar-gutter/)
 - [【张鑫旭-鑫空间-鑫生活】JS-标签模板（Tagged-templates）什么时候使用？](https://www.zhangxinxu.com/wordpress/2021/12/js-tagged-templates/)
 - [【张鑫旭-鑫空间-鑫生活】深入JS-getRandomValues和Math.random方法](https://www.zhangxinxu.com/wordpress/2021/12/js-getrandomvalue-math-random/)
+- [【V2EX】企业微信里的-h5-应用要每日打卡，如何自动打卡？](https://www.v2ex.com/t/836616)
 - [【V2EX】算法题求解答：如何简化下面的代码？-js-代码](https://www.v2ex.com/t/836600)
 - [......【查看更多】......](./details/tags/javascript.md)
 
@@ -347,7 +347,6 @@
 
 
 
-- [【V2EX】远程居家工作，招聘啦](https://www.v2ex.com/t/836604)
 - [【开发者头条】如何写一份让面试官眼前一亮的简历？](https://toutiao.io/k/n5pmmlc)
 - [......【查看更多】......](./details/tags/job-interview.md)
 

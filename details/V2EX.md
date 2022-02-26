@@ -1,11 +1,13 @@
-:alarm_clock: 更新时间: 2022-02-26 11:11:04。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-26 11:36:38。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
-- [2022-02-26-M1-Pro-和-Ryzen-6900HS-的-Geekbench-5-的-compute-的-OpenGL-分数差不多都是-35000，谁更强？](https://www.v2ex.com/t/836614) 
+- [2022-02-26-企业微信里的-h5-应用要每日打卡，如何自动打卡？](https://www.v2ex.com/t/836616) 
+- [2022-02-26-求软件推荐程序管理，日志记录，-CI/CD?](https://www.v2ex.com/t/836615) 
+- [2022-02-26-M1-Pro-和-Ryzen-6900HS-核显-Geekbench-5-compute-的-OpenGL-分数都是-35000-左右，谁更强？](https://www.v2ex.com/t/836614) 
 - [2022-02-26-深圳remote-运维开发工程师](https://www.v2ex.com/t/836613) 
 - [2022-02-26-想买个人体工学椅求推荐，最高标准-1000](https://www.v2ex.com/t/836612) 
 - [2022-02-26-IOS-设备有没有办法让热点开启后一直保持](https://www.v2ex.com/t/836611) 
@@ -13,12 +15,10 @@
 - [2022-02-26-warp---一个-rust-写的终端](https://www.v2ex.com/t/836608) 
 - [2022-02-26-从-GitHub-账号被删想到中心化第三方登录的弊端](https://www.v2ex.com/t/836607) 
 - [2022-02-26-VS-Code-如何返回到上一个编辑位置-jupyter](https://www.v2ex.com/t/836605) 
-- [2022-02-26-远程居家工作，招聘啦](https://www.v2ex.com/t/836604) 
 - [2022-02-26-碰到个很奇怪的问题，没有头绪](https://www.v2ex.com/t/836603) 
 - [2022-02-26-天气终于暖起来了，想出去散心](https://www.v2ex.com/t/836602) 
 - [2022-02-26-算法题求解答：如何简化下面的代码？-js-代码](https://www.v2ex.com/t/836600) 
 - [2022-02-26-Microsoft-Office-2021-终身版](https://www.v2ex.com/t/836599) 
-- [2022-02-26-如何知道域名确切的掉落日期?com-和-net](https://www.v2ex.com/t/836597) 
 - [2022-02-26-请问有什么软件可以两个人一起记笔记咩？](https://www.v2ex.com/t/836596) 
 - [2022-02-26-dp-问题](https://www.v2ex.com/t/836595) 
 - [2022-02-26-怎么用一句话证明你用的是什么语言开发?](https://www.v2ex.com/t/836593) 
@@ -30,7 +30,6 @@
 - [2022-02-26-关于认知的请教，有没有什么书籍来介绍，工作中什么类型的事情是机会什么的是风险](https://www.v2ex.com/t/836586) 
 - [2022-02-26-连续三个周末泡图书馆了](https://www.v2ex.com/t/836585) 
 - [2022-02-26-关于自建-Bitwarden-同一网站多账户的问题](https://www.v2ex.com/t/836584) 
-- [2022-02-26-关于女朋友看网上鸡汤感动的哭了问题-我直接怼回去](https://www.v2ex.com/t/836583) 
 - [2022-02-26-如何让-Ubuntu-中的部分用户无法登录到-shell？](https://www.v2ex.com/t/836582) 
 - [2022-02-26-有没有方法让局域网内的-client-向指定的-DHCP-Server-发起请求](https://www.v2ex.com/t/836581) 
 - [2022-02-26-请问一下各位大佬们-MacOS-下，窗口切换除了-contexts，其余哪个-app-能做到应用内切换？](https://www.v2ex.com/t/836580) 
@@ -45,5 +44,3 @@
 - [2022-02-26-QQ-里的诈骗机器人](https://www.v2ex.com/t/836569) 
 - [2022-02-26-内推-Shopee-Shopee-社招-or-校招，超多岗位](https://www.v2ex.com/t/836568) 
 - [2022-02-26-有知乎的程序员吗？出大-bug-了狗头](https://www.v2ex.com/t/836567) 
-- [2022-02-26-Kirby-and-the-Forgotten-Land-20220225-最新游戏过程视频](https://www.v2ex.com/t/836566) 
-- [2022-02-26-上海-不加班-外企-招-Java-，-C++，-C#，测试，安卓，前端，-devOps，-PMO](https://www.v2ex.com/t/836565) 

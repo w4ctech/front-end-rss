@@ -9653,6 +9653,16 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "M1 Pro 和 Ryzen 6900HS 的 Geekbench 5 的 compute 的 OpenGL 分数差不多都是 35000，谁更强？",
+        "link": "https://www.v2ex.com/t/836614",
+        "date": "2022-02-26"
+      },
+      {
+        "title": "[深圳][remote] 运维开发工程师",
+        "link": "https://www.v2ex.com/t/836613",
+        "date": "2022-02-26"
+      },
+      {
         "title": "想买个人体工学椅求推荐，最高标准 1000",
         "link": "https://www.v2ex.com/t/836612",
         "date": "2022-02-26"
@@ -9851,11 +9861,6 @@
         "title": "上海-不加班-外企 招 Java ， C++， C#，测试，安卓，前端， devOps， PMO",
         "link": "https://www.v2ex.com/t/836565",
         "date": "2022-02-26"
-      },
-      {
-        "title": "ARM windows 11 下需要使用 IIS 有没解决方案？",
-        "link": "https://www.v2ex.com/t/836564",
-        "date": "2022-02-26"
       }
     ]
   },
@@ -9992,13 +9997,13 @@
         "date": "2022-02-26"
       },
       {
-        "title": "阿里巴巴第三季度净利润同比下降 75%；字节跳动确认 28 岁员工不幸离世；去哪儿网因让员工加班被罚款｜开发者头条",
-        "link": "https://toutiao.io/k/szrj964",
+        "title": "当 synchronized 遇到这玩意儿，有个大坑，要注意！",
+        "link": "https://toutiao.io/k/s694r65",
         "date": "2022-02-26"
       },
       {
-        "title": "当 synchronized 遇到这玩意儿，有个大坑，要注意！",
-        "link": "https://toutiao.io/k/s694r65",
+        "title": "阿里巴巴第三季度净利润同比下降 75%；字节跳动确认 28 岁员工不幸离世；去哪儿网因让员工加班被罚款｜开发者头条",
+        "link": "https://toutiao.io/k/szrj964",
         "date": "2022-02-26"
       },
       {
@@ -10022,28 +10027,23 @@
         "date": "2022-02-26"
       },
       {
-        "title": "[推荐] 【超赞】技术架构的战略和战术原则",
-        "link": "https://toutiao.io/k/j9872pc",
+        "title": "[推荐] ClickHouse使用实践与规范",
+        "link": "https://toutiao.io/k/fb7mdkl",
         "date": "2022-02-26"
       },
       {
-        "title": "[推荐] 一张图看懂微服务架构路线",
-        "link": "https://toutiao.io/k/upx1qip",
-        "date": "2022-02-26"
-      },
-      {
-        "title": "[推荐] 趣谈IO多路复用的本质",
-        "link": "https://toutiao.io/k/j4nqhbc",
-        "date": "2022-02-26"
-      },
-      {
-        "title": "[推荐] 什么人能成为Leader，大Leader该做什么",
-        "link": "https://toutiao.io/k/pnlaqae",
+        "title": "[推荐] 我做基础架构学到的42件事",
+        "link": "https://toutiao.io/k/k6tjws1",
         "date": "2022-02-26"
       },
       {
         "title": "[推荐] Golang 简洁架构实战",
         "link": "https://toutiao.io/k/vjw1dlc",
+        "date": "2022-02-26"
+      },
+      {
+        "title": "[推荐] 趣谈IO多路复用的本质",
+        "link": "https://toutiao.io/k/j4nqhbc",
         "date": "2022-02-26"
       },
       {
@@ -10057,18 +10057,23 @@
         "date": "2022-02-26"
       },
       {
-        "title": "[推荐] 我做基础架构学到的42件事",
-        "link": "https://toutiao.io/k/k6tjws1",
-        "date": "2022-02-26"
-      },
-      {
-        "title": "[推荐] ClickHouse使用实践与规范",
-        "link": "https://toutiao.io/k/fb7mdkl",
+        "title": "[推荐] 一张图看懂微服务架构路线",
+        "link": "https://toutiao.io/k/upx1qip",
         "date": "2022-02-26"
       },
       {
         "title": "[推荐] 2021年最受程序员欢迎的开发工具TOP 100名单出炉！",
         "link": "https://toutiao.io/k/uf5vypr",
+        "date": "2022-02-26"
+      },
+      {
+        "title": "[推荐] 什么人能成为Leader，大Leader该做什么",
+        "link": "https://toutiao.io/k/pnlaqae",
+        "date": "2022-02-26"
+      },
+      {
+        "title": "[推荐] 【超赞】技术架构的战略和战术原则",
+        "link": "https://toutiao.io/k/j9872pc",
         "date": "2022-02-26"
       }
     ]

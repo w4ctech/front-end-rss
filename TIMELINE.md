@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-02-26 19:36:25。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-02-26 20:12:49。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -203,7 +203,7 @@
 - [【张鑫旭-鑫空间-鑫生活】2022-02-20-CSS-overflow-clip-margin属性简介](https://www.zhangxinxu.com/wordpress/2022/02/css-overflow-clip-margin/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-02-12-CSS-:not伪类选择器已支持复杂参数](https://www.zhangxinxu.com/wordpress/2022/02/css-not-pseudo-class-list-argument/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-02-04-HTML-inputmode与iOS-Android软键盘类型测试](https://www.zhangxinxu.com/wordpress/2022/02/html-inputmode-keyboard/) 
-- [【V2EX】2022-02-26-杭州有哪些加班少的公司？](https://www.v2ex.com/t/836659) 
+- [【V2EX】2022-02-26-有没有成熟的管理两步验证的网站？](https://www.v2ex.com/t/836660) 
 - [【V2EX】2022-02-26-同时用-MacBook-Pro-的-Retina-显示屏和-1080P-的低分屏显示器舒服吗？](https://www.v2ex.com/t/836658) 
 - [【V2EX】2022-02-26-shopee-虾皮内推-内推码-NTAJiup](https://www.v2ex.com/t/836656) 
 - [【V2EX】2022-02-26-能否获得-icloud-分享的文本的永久性的直接下载地址？](https://www.v2ex.com/t/836655) 
@@ -270,16 +270,16 @@
 - [【开发者头条】2022-02-26-用babel和nodemon搭建一个功能齐全的nodejs开发环境](https://toutiao.io/k/ssqvyd0) 
 - [【开发者头条】2022-02-26-堪比JMeter的.Net压测工具---Crank-入门篇](https://toutiao.io/k/uafhh2q) 
 - [【开发者头条】2022-02-26-React+babylon写游戏第一篇](https://toutiao.io/k/h71p89y) 
+- [【开发者头条】2022-02-26-推荐-【超赞】技术架构的战略和战术原则](https://toutiao.io/k/j9872pc) 
+- [【开发者头条】2022-02-26-推荐-你分库分表的姿势对么？——详谈水平分库分表](https://toutiao.io/k/eteqw6s) 
+- [【开发者头条】2022-02-26-推荐-ClickHouse使用实践与规范](https://toutiao.io/k/fb7mdkl) 
+- [【开发者头条】2022-02-26-推荐-趣谈IO多路复用的本质](https://toutiao.io/k/j4nqhbc) 
+- [【开发者头条】2022-02-26-推荐-什么人能成为Leader，大Leader该做什么](https://toutiao.io/k/pnlaqae) 
+- [【开发者头条】2022-02-26-推荐-2021年最受程序员欢迎的开发工具TOP-100名单出炉！](https://toutiao.io/k/uf5vypr) 
 - [【开发者头条】2022-02-26-推荐-我做基础架构学到的42件事](https://toutiao.io/k/k6tjws1) 
 - [【开发者头条】2022-02-26-推荐-轻松搞懂5种IO模型](https://toutiao.io/k/o77uhyt) 
-- [【开发者头条】2022-02-26-推荐-ClickHouse使用实践与规范](https://toutiao.io/k/fb7mdkl) 
-- [【开发者头条】2022-02-26-推荐-【超赞】技术架构的战略和战术原则](https://toutiao.io/k/j9872pc) 
-- [【开发者头条】2022-02-26-推荐-一张图看懂微服务架构路线](https://toutiao.io/k/upx1qip) 
-- [【开发者头条】2022-02-26-推荐-2021年最受程序员欢迎的开发工具TOP-100名单出炉！](https://toutiao.io/k/uf5vypr) 
-- [【开发者头条】2022-02-26-推荐-趣谈IO多路复用的本质](https://toutiao.io/k/j4nqhbc) 
 - [【开发者头条】2022-02-26-推荐-Golang-简洁架构实战](https://toutiao.io/k/vjw1dlc) 
-- [【开发者头条】2022-02-26-推荐-你分库分表的姿势对么？——详谈水平分库分表](https://toutiao.io/k/eteqw6s) 
-- [【开发者头条】2022-02-26-推荐-什么人能成为Leader，大Leader该做什么](https://toutiao.io/k/pnlaqae) 
+- [【开发者头条】2022-02-26-推荐-一张图看懂微服务架构路线](https://toutiao.io/k/upx1qip) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

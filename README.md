@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-26 04:46:52，:rocket: 更新条数: +1962， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-26 05:12:21，:rocket: 更新条数: +1960， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,11 +491,11 @@
 </summary>
 
 
+- [2022-02-26-cppreference.com-被墙了？](https://www.v2ex.com/t/836558) ![](assets/new.png)  
 - [2022-02-26-AdGuard-Home-使用-DoH-就没网，而且症状非常诡异](https://www.v2ex.com/t/836557) ![](assets/new.png)  
 - [2022-02-26-如何设计一款-Linux-防火墙软件](https://www.v2ex.com/t/836555) ![](assets/new.png)  
 - [2022-02-26-深圳电信今年会全面升级千兆网络](https://www.v2ex.com/t/836553) ![](assets/new.png)  
 - [2022-02-26-xx-科技公司域名注册求建议](https://www.v2ex.com/t/836552) ![](assets/new.png)  
-- [2022-02-26-2022-年了你还用迅雷下载吗？有推荐的电影资源站和下载方式吗？](https://www.v2ex.com/t/836551) ![](assets/new.png)  
 - [2022-02-26-扩展坞的-USB-A-口突然失效，重启进入安全模式再正常重启就好了，这是什么问题](https://www.v2ex.com/t/836550) ![](assets/new.png)  
 - [2022-02-26-Git-如何根据不同远程仓库推送不同内容的-README](https://www.v2ex.com/t/836549) ![](assets/new.png)  
 - [2022-02-26-手里还有小几十万，搞点啥。。](https://www.v2ex.com/t/836548) ![](assets/new.png)  
@@ -558,19 +558,19 @@
 - [2022-02-26-跟着-Go-作者掌握泛型](https://toutiao.io/k/821lotp) ![](assets/new.png)  
 - [2022-02-26-阿里巴巴第三季度净利润同比下降-75%；字节跳动确认-28-岁员工不幸离世；去哪儿网因让员工加班被罚款｜开发者头条](https://toutiao.io/k/szrj964) ![](assets/new.png)  
 - [2022-02-26-如何写一份让面试官眼前一亮的简历？](https://toutiao.io/k/n5pmmlc) ![](assets/new.png)  
-- [2022-02-26-苏舒：速度提升10倍，腾讯基于Iceberg的数据治理优化实践](https://toutiao.io/k/ozsrs9c) ![](assets/new.png)  
 - [2022-02-26-当-synchronized-遇到这玩意儿，有个大坑，要注意！](https://toutiao.io/k/s694r65) ![](assets/new.png)  
+- [2022-02-26-苏舒：速度提升10倍，腾讯基于Iceberg的数据治理优化实践](https://toutiao.io/k/ozsrs9c) ![](assets/new.png)  
 - [2022-02-26-用babel和nodemon搭建一个功能齐全的nodejs开发环境](https://toutiao.io/k/ssqvyd0) ![](assets/new.png)  
-- [2022-02-26-推荐-一张图看懂微服务架构路线](https://toutiao.io/k/upx1qip) ![](assets/new.png)  
-- [2022-02-26-推荐-什么人能成为Leader，大Leader该做什么](https://toutiao.io/k/pnlaqae) ![](assets/new.png)  
-- [2022-02-26-推荐-趣谈IO多路复用的本质](https://toutiao.io/k/j4nqhbc) ![](assets/new.png)  
-- [2022-02-26-推荐-你分库分表的姿势对么？——详谈水平分库分表](https://toutiao.io/k/eteqw6s) ![](assets/new.png)  
-- [2022-02-26-推荐-2021年最受程序员欢迎的开发工具TOP-100名单出炉！](https://toutiao.io/k/uf5vypr) ![](assets/new.png)  
-- [2022-02-26-推荐-ClickHouse使用实践与规范](https://toutiao.io/k/fb7mdkl) ![](assets/new.png)  
 - [2022-02-26-推荐-【超赞】技术架构的战略和战术原则](https://toutiao.io/k/j9872pc) ![](assets/new.png)  
 - [2022-02-26-推荐-轻松搞懂5种IO模型](https://toutiao.io/k/o77uhyt) ![](assets/new.png)  
+- [2022-02-26-推荐-2021年最受程序员欢迎的开发工具TOP-100名单出炉！](https://toutiao.io/k/uf5vypr) ![](assets/new.png)  
+- [2022-02-26-推荐-一张图看懂微服务架构路线](https://toutiao.io/k/upx1qip) ![](assets/new.png)  
+- [2022-02-26-推荐-什么人能成为Leader，大Leader该做什么](https://toutiao.io/k/pnlaqae) ![](assets/new.png)  
 - [2022-02-26-推荐-Golang-简洁架构实战](https://toutiao.io/k/vjw1dlc) ![](assets/new.png)  
 - [2022-02-26-推荐-我做基础架构学到的42件事](https://toutiao.io/k/k6tjws1) ![](assets/new.png)  
+- [2022-02-26-推荐-ClickHouse使用实践与规范](https://toutiao.io/k/fb7mdkl) ![](assets/new.png)  
+- [2022-02-26-推荐-你分库分表的姿势对么？——详谈水平分库分表](https://toutiao.io/k/eteqw6s) ![](assets/new.png)  
+- [2022-02-26-推荐-趣谈IO多路复用的本质](https://toutiao.io/k/j4nqhbc) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

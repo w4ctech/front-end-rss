@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-02-26 13:36:36。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-02-26 14:13:01。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -203,6 +203,9 @@
 - [【张鑫旭-鑫空间-鑫生活】2022-02-20-CSS-overflow-clip-margin属性简介](https://www.zhangxinxu.com/wordpress/2022/02/css-overflow-clip-margin/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-02-12-CSS-:not伪类选择器已支持复杂参数](https://www.zhangxinxu.com/wordpress/2022/02/css-not-pseudo-class-list-argument/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-02-04-HTML-inputmode与iOS-Android软键盘类型测试](https://www.zhangxinxu.com/wordpress/2022/02/html-inputmode-keyboard/) 
+- [【V2EX】2022-02-26-k8s-并发场景下错误：-kubectl-unable-to-upgrade-connection-Unsupported-method-'POST'](https://www.v2ex.com/t/836634) 
+- [【V2EX】2022-02-26-Homebrew-安装不了-Subversion](https://www.v2ex.com/t/836633) 
+- [【V2EX】2022-02-26-寻找合租室友-下沙江滨地铁站---晨光国际两居室次卧-1200-元/月](https://www.v2ex.com/t/836631) 
 - [【V2EX】2022-02-26-内推-松下集团」2022-春季校园招聘全面启动-~-10-座城市-400+岗位](https://www.v2ex.com/t/836629) 
 - [【V2EX】2022-02-26-一加-8-pro-刷机刷成黑砖，售后拆机拔电池都搞不定](https://www.v2ex.com/t/836628) 
 - [【V2EX】2022-02-26-因为灵活就业，高新区找地方自习](https://www.v2ex.com/t/836625) 
@@ -235,9 +238,6 @@
 - [【V2EX】2022-02-26-DELL-u2723q-支持-dp-out-到-u2720q-吗](https://www.v2ex.com/t/836588) 
 - [【V2EX】2022-02-26-关于认知的请教，有没有什么书籍来介绍，工作中什么类型的事情是机会什么的是风险](https://www.v2ex.com/t/836586) 
 - [【V2EX】2022-02-26-连续三个周末泡图书馆了](https://www.v2ex.com/t/836585) 
-- [【V2EX】2022-02-26-关于自建-Bitwarden-同一网站多账户的问题](https://www.v2ex.com/t/836584) 
-- [【V2EX】2022-02-26-如何让-Ubuntu-中的部分用户无法登录到-shell？](https://www.v2ex.com/t/836582) 
-- [【V2EX】2022-02-26-有没有方法让局域网内的-client-向指定的-DHCP-Server-发起请求](https://www.v2ex.com/t/836581) 
 - [【技术头条】2022-02-26-别被框架框住了-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14955&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffrontend-framework%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-02-26-聊聊低代码平台-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14954&url=https%3A%2F%2Finsights.thoughtworks.cn%2Flow-code-platform%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-02-26-以荣耀公司为例，拆解成功企业的股权架构设计！-www.sohu.com](https://blogread.cn/news/go.php?idItem=14953&url=https%3A%2F%2Fwww.sohu.com%2Fa%2F476319747_120317149%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -268,16 +268,16 @@
 - [【开发者头条】2022-02-26-用babel和nodemon搭建一个功能齐全的nodejs开发环境](https://toutiao.io/k/ssqvyd0) 
 - [【开发者头条】2022-02-26-React+babylon写游戏第一篇](https://toutiao.io/k/h71p89y) 
 - [【开发者头条】2022-02-26-堪比JMeter的.Net压测工具---Crank-入门篇](https://toutiao.io/k/uafhh2q) 
-- [【开发者头条】2022-02-26-推荐-你分库分表的姿势对么？——详谈水平分库分表](https://toutiao.io/k/eteqw6s) 
 - [【开发者头条】2022-02-26-推荐-什么人能成为Leader，大Leader该做什么](https://toutiao.io/k/pnlaqae) 
-- [【开发者头条】2022-02-26-推荐-轻松搞懂5种IO模型](https://toutiao.io/k/o77uhyt) 
-- [【开发者头条】2022-02-26-推荐-【超赞】技术架构的战略和战术原则](https://toutiao.io/k/j9872pc) 
-- [【开发者头条】2022-02-26-推荐-Golang-简洁架构实战](https://toutiao.io/k/vjw1dlc) 
-- [【开发者头条】2022-02-26-推荐-一张图看懂微服务架构路线](https://toutiao.io/k/upx1qip) 
-- [【开发者头条】2022-02-26-推荐-趣谈IO多路复用的本质](https://toutiao.io/k/j4nqhbc) 
 - [【开发者头条】2022-02-26-推荐-2021年最受程序员欢迎的开发工具TOP-100名单出炉！](https://toutiao.io/k/uf5vypr) 
 - [【开发者头条】2022-02-26-推荐-我做基础架构学到的42件事](https://toutiao.io/k/k6tjws1) 
+- [【开发者头条】2022-02-26-推荐-一张图看懂微服务架构路线](https://toutiao.io/k/upx1qip) 
 - [【开发者头条】2022-02-26-推荐-ClickHouse使用实践与规范](https://toutiao.io/k/fb7mdkl) 
+- [【开发者头条】2022-02-26-推荐-轻松搞懂5种IO模型](https://toutiao.io/k/o77uhyt) 
+- [【开发者头条】2022-02-26-推荐-Golang-简洁架构实战](https://toutiao.io/k/vjw1dlc) 
+- [【开发者头条】2022-02-26-推荐-趣谈IO多路复用的本质](https://toutiao.io/k/j4nqhbc) 
+- [【开发者头条】2022-02-26-推荐-你分库分表的姿势对么？——详谈水平分库分表](https://toutiao.io/k/eteqw6s) 
+- [【开发者头条】2022-02-26-推荐-【超赞】技术架构的战略和战术原则](https://toutiao.io/k/j9872pc) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

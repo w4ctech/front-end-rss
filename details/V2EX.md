@@ -1,10 +1,13 @@
-:alarm_clock: 更新时间: 2022-02-26 13:36:36。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-26 14:13:01。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-02-26-k8s-并发场景下错误：-kubectl-unable-to-upgrade-connection-Unsupported-method-'POST'](https://www.v2ex.com/t/836634) 
+- [2022-02-26-Homebrew-安装不了-Subversion](https://www.v2ex.com/t/836633) 
+- [2022-02-26-寻找合租室友-下沙江滨地铁站---晨光国际两居室次卧-1200-元/月](https://www.v2ex.com/t/836631) 
 - [2022-02-26-内推-松下集团」2022-春季校园招聘全面启动-~-10-座城市-400+岗位](https://www.v2ex.com/t/836629) 
 - [2022-02-26-一加-8-pro-刷机刷成黑砖，售后拆机拔电池都搞不定](https://www.v2ex.com/t/836628) 
 - [2022-02-26-因为灵活就业，高新区找地方自习](https://www.v2ex.com/t/836625) 
@@ -37,6 +40,3 @@
 - [2022-02-26-DELL-u2723q-支持-dp-out-到-u2720q-吗](https://www.v2ex.com/t/836588) 
 - [2022-02-26-关于认知的请教，有没有什么书籍来介绍，工作中什么类型的事情是机会什么的是风险](https://www.v2ex.com/t/836586) 
 - [2022-02-26-连续三个周末泡图书馆了](https://www.v2ex.com/t/836585) 
-- [2022-02-26-关于自建-Bitwarden-同一网站多账户的问题](https://www.v2ex.com/t/836584) 
-- [2022-02-26-如何让-Ubuntu-中的部分用户无法登录到-shell？](https://www.v2ex.com/t/836582) 
-- [2022-02-26-有没有方法让局域网内的-client-向指定的-DHCP-Server-发起请求](https://www.v2ex.com/t/836581) 

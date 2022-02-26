@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-02-26 09:12:26。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-26 09:36:58。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -182,6 +182,7 @@
 - [【张鑫旭-鑫空间-鑫生活】还有完没完，怎么又来了个-scrollbar-gutter？](https://www.zhangxinxu.com/wordpress/2022/01/css-scrollbar-gutter/)
 - [【张鑫旭-鑫空间-鑫生活】JS-标签模板（Tagged-templates）什么时候使用？](https://www.zhangxinxu.com/wordpress/2021/12/js-tagged-templates/)
 - [【张鑫旭-鑫空间-鑫生活】深入JS-getRandomValues和Math.random方法](https://www.zhangxinxu.com/wordpress/2021/12/js-getrandomvalue-math-random/)
+- [【V2EX】算法题求解答：如何简化下面的代码？-js-代码](https://www.v2ex.com/t/836600)
 - [......【查看更多】......](./details/tags/javascript.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -280,7 +281,6 @@
 - [【武汉肺炎防疫全纪录(财新网)】解药|新冠mRNA疫苗安全性有哪些挑战？](https://m.caixin.com/m/2021-01-08/101648043.html)
 - [【武汉肺炎防疫全纪录(财新网)】大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html)
 - [【V2EX】有没有方法让局域网内的-client-向指定的-DHCP-Server-发起请求](https://www.v2ex.com/t/836581)
-- [【V2EX】扩展坞的-USB-A-口突然失效，重启进入安全模式再正常重启就好了，这是什么问题](https://www.v2ex.com/t/836550)
 - [【技术头条】再见，收费的Teamviewer！！！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14949&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493389%26amp%3Bidx%3D1%26amp%3Bsn%3D978ce04acd53a4a22494d0f55c740b35%26amp%3Bchksm%3Dfa3f0656cd488f40f1c5b506b10237a45806e6624d1646f8bac19084dedc385e200de1a4e489%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [......【查看更多】......](./details/tags/browser.md)
 
@@ -346,6 +346,7 @@
 
 
 
+- [【V2EX】远程居家工作，招聘啦](https://www.v2ex.com/t/836604)
 - [【开发者头条】如何写一份让面试官眼前一亮的简历？](https://toutiao.io/k/n5pmmlc)
 - [......【查看更多】......](./details/tags/job-interview.md)
 

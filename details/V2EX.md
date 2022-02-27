@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2022-02-27 08:15:16。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-27 08:39:44。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-02-27-macbook-m1-的一个-Type-C-接口不能用](https://www.v2ex.com/t/836722) 
 - [2022-02-27-关于入职埃森哲的咨询](https://www.v2ex.com/t/836721) 
 - [2022-02-27-本人高中毕业，想加入字节跳动，求内推](https://www.v2ex.com/t/836720) 
 - [2022-02-27-有上过培训班的老哥么，请教下。](https://www.v2ex.com/t/836719) 

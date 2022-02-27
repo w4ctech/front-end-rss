@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2022-02-27 12:19:18。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-27 12:53:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-02-27-tailscale-速度特别慢，有时候还连不上](https://www.v2ex.com/t/836758) 
+- [2022-02-27-红警-2-在-win10-下切屏](https://www.v2ex.com/t/836756) 
 - [2022-02-27-国内的-ROM-如何换掉移动数据的-DNS？](https://www.v2ex.com/t/836755) 
 - [2022-02-27-请教一个关于-dns-使用-doh-问题](https://www.v2ex.com/t/836753) 
 - [2022-02-27-为什么-CLion-总是建立到-visualstudio.com-的连接？（只安装了-Rust-和-Toml-插件和一个官方主题，禁用后还是一样）不想安装抓包工具，有-V-友能帮忙看看么？](https://www.v2ex.com/t/836752) 
@@ -43,5 +45,3 @@
 - [2022-02-27-一次火烧眉毛的-PostgreSQL-事故分析](https://www.v2ex.com/t/836712) 
 - [2022-02-27-Apple-Store-零售店购买的-iPhone-SE-官方售后检测屏幕是第三方产](https://www.v2ex.com/t/836711) 
 - [2022-02-27-红米-k40-用类原生系统的小伙伴，-12306-app-能正常验证通过吗？](https://www.v2ex.com/t/836709) 
-- [2022-02-27-适合-Go-新手的免费项目课-免费视频-27-集，附送代码](https://www.v2ex.com/t/836708) 
-- [2022-02-27-电信的移动数据开始实装反诈页面了](https://www.v2ex.com/t/836707) 

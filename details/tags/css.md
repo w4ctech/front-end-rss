@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-02-27 13:15:48。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-27 13:37:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## CSS
 
@@ -14,4 +14,3 @@
 - [2022-01-14-纯CSS实现未读消息超过100自动显示为99+](https://www.zhangxinxu.com/wordpress/2022/01/css-show-diff-content-according-var/) 
 - [2021-12-13-你不知道的CSS-media查询与用户体验](https://www.zhangxinxu.com/wordpress/2021/12/css-meida-user-experience/) 
 - [2022-02-27-tailscale-速度特别慢，有时候还连不上](https://www.v2ex.com/t/836758) 
-- [2022-02-27-14-寸-M1-双击-chrome-标题栏动画卡顿](https://www.v2ex.com/t/836715) 

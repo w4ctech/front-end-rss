@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-02-27 13:15:48。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-02-27 13:37:13。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -206,7 +206,9 @@
 - [【张鑫旭-鑫空间-鑫生活】2022-02-20-CSS-overflow-clip-margin属性简介](https://www.zhangxinxu.com/wordpress/2022/02/css-overflow-clip-margin/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-02-12-CSS-:not伪类选择器已支持复杂参数](https://www.zhangxinxu.com/wordpress/2022/02/css-not-pseudo-class-list-argument/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-02-04-HTML-inputmode与iOS-Android软键盘类型测试](https://www.zhangxinxu.com/wordpress/2022/02/html-inputmode-keyboard/) 
-- [【V2EX】2022-02-27-女孩子-93-年-211-硕士毕业-之前做银行对公贷款的，因为加班太多，想跳槽，有什么行业值得推荐的，谢谢](https://www.v2ex.com/t/836762) 
+- [【V2EX】2022-02-27-练手小工具-之-纯文本跨设备传输-做出来了](https://www.v2ex.com/t/836764) 
+- [【V2EX】2022-02-27-红警-1-重制版有啥秘籍呢](https://www.v2ex.com/t/836763) 
+- [【V2EX】2022-02-27-女孩子-93-年-211-硕士毕业-之前做银行对公贷款的，因为有连带责任，想跳槽，有什么行业值得推荐的，谢谢](https://www.v2ex.com/t/836762) 
 - [【V2EX】2022-02-27-求推荐个-gps-手环](https://www.v2ex.com/t/836761) 
 - [【V2EX】2022-02-27-插件市场安装的-Chrome-插件如何调试？](https://www.v2ex.com/t/836759) 
 - [【V2EX】2022-02-27-tailscale-速度特别慢，有时候还连不上](https://www.v2ex.com/t/836758) 
@@ -243,8 +245,6 @@
 - [【V2EX】2022-02-27-ios-的垃圾信息总共有多少种方式？](https://www.v2ex.com/t/836718) 
 - [【V2EX】2022-02-27-内推vivovivo-招募推荐算法工程师/专家，欢迎来撩](https://www.v2ex.com/t/836717) 
 - [【V2EX】2022-02-27-挂载进-Docker-的-Git-库文件会被认为有修改](https://www.v2ex.com/t/836716) 
-- [【V2EX】2022-02-27-14-寸-M1-双击-chrome-标题栏动画卡顿](https://www.v2ex.com/t/836715) 
-- [【V2EX】2022-02-27-有哪些代码仓分析系统？](https://www.v2ex.com/t/836713) 
 - [【技术头条】2022-02-27-手把手教你打造一款高逼格的Vim神器-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14962&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493488%26amp%3Bidx%3D1%26amp%3Bsn%3D8c128186d0b12d8022708ce9b725c809%26amp%3Bchksm%3Dfa3f062bcd488f3d67c96d2ef6df68b69de330f0c59212326cb0ae131769811d029e0b67efb7%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-02-27-傻傻分不清，前后端接口Cookie、Session、Token的区别？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14961&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493488%26amp%3Bidx%3D2%26amp%3Bsn%3D6c976132f89f3b2e7578d471ef4f260a%26amp%3Bchksm%3Dfa3f062bcd488f3dc5acee3f3f231bf90a3fa4081829f4fb53c83193994c3e095596b4aa426f%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-02-27-为什么会有TCPIP协议？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14960&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493487%26amp%3Bidx%3D1%26amp%3Bsn%3Dae7576870da25f743982f068bbc66cb8%26amp%3Bchksm%3Dfa3f0634cd488f226de44a1c25699248ed8c16e9953f97e0dee85a1d446b6414cef55042ae0f%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -277,16 +277,16 @@
 - [【开发者头条】2022-02-27-Java线程池进阶-|-木小丰的博客](https://toutiao.io/k/xm02hqn) 
 - [【开发者头条】2022-02-27-如何让一个创业公司优雅的进行云原生之旅](https://toutiao.io/k/htutu42) 
 - [【开发者头条】2022-02-27-八大步骤带你深度剖析-Kafka-生产级容量评估方案](https://toutiao.io/k/k0exslz) 
-- [【开发者头条】2022-02-27-推荐-我做基础架构学到的42件事](https://toutiao.io/k/k6tjws1) 
+- [【开发者头条】2022-02-27-推荐-什么人能成为Leader，大Leader该做什么](https://toutiao.io/k/pnlaqae) 
 - [【开发者头条】2022-02-27-推荐-【超赞】技术架构的战略和战术原则](https://toutiao.io/k/j9872pc) 
 - [【开发者头条】2022-02-27-推荐-2021年最受程序员欢迎的开发工具TOP-100名单出炉！](https://toutiao.io/k/uf5vypr) 
-- [【开发者头条】2022-02-27-推荐-你分库分表的姿势对么？——详谈水平分库分表](https://toutiao.io/k/eteqw6s) 
-- [【开发者头条】2022-02-27-推荐-轻松搞懂5种IO模型](https://toutiao.io/k/o77uhyt) 
 - [【开发者头条】2022-02-27-推荐-一张图看懂微服务架构路线](https://toutiao.io/k/upx1qip) 
-- [【开发者头条】2022-02-27-推荐-什么人能成为Leader，大Leader该做什么](https://toutiao.io/k/pnlaqae) 
-- [【开发者头条】2022-02-27-推荐-ClickHouse使用实践与规范](https://toutiao.io/k/fb7mdkl) 
-- [【开发者头条】2022-02-27-推荐-趣谈IO多路复用的本质](https://toutiao.io/k/j4nqhbc) 
 - [【开发者头条】2022-02-27-推荐-Golang-简洁架构实战](https://toutiao.io/k/vjw1dlc) 
+- [【开发者头条】2022-02-27-推荐-ClickHouse使用实践与规范](https://toutiao.io/k/fb7mdkl) 
+- [【开发者头条】2022-02-27-推荐-我做基础架构学到的42件事](https://toutiao.io/k/k6tjws1) 
+- [【开发者头条】2022-02-27-推荐-轻松搞懂5种IO模型](https://toutiao.io/k/o77uhyt) 
+- [【开发者头条】2022-02-27-推荐-趣谈IO多路复用的本质](https://toutiao.io/k/j4nqhbc) 
+- [【开发者头条】2022-02-27-推荐-你分库分表的姿势对么？——详谈水平分库分表](https://toutiao.io/k/eteqw6s) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

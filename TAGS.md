@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-02-27 13:15:48。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-27 13:37:13。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -204,7 +204,6 @@
 - [【张鑫旭-鑫空间-鑫生活】纯CSS实现未读消息超过100自动显示为99+](https://www.zhangxinxu.com/wordpress/2022/01/css-show-diff-content-according-var/)
 - [【张鑫旭-鑫空间-鑫生活】你不知道的CSS-media查询与用户体验](https://www.zhangxinxu.com/wordpress/2021/12/css-meida-user-experience/)
 - [【V2EX】tailscale-速度特别慢，有时候还连不上](https://www.v2ex.com/t/836758)
-- [【V2EX】14-寸-M1-双击-chrome-标题栏动画卡顿](https://www.v2ex.com/t/836715)
 - [......【查看更多】......](./details/tags/css.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

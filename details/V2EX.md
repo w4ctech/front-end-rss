@@ -1,10 +1,13 @@
-:alarm_clock: 更新时间: 2022-02-27 03:39:05。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-27 04:15:46。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-02-27-iPhone-自动化不好使了（自动清空剪贴板）](https://www.v2ex.com/t/836686) 
+- [2022-02-27-iOS-屏蔽越狱检测-用什么插件好呢？](https://www.v2ex.com/t/836685) 
+- [2022-02-27-用了老爸的剃须刀，才知道我的有多垃圾](https://www.v2ex.com/t/836684) 
 - [2022-02-27-程序员本科已毕业，工作了几年，想去读个网络教育本科，便于转行，可行吗？](https://www.v2ex.com/t/836683) 
 - [2022-02-27-1password-的-bug，我该怎么办，花了钱怎么体验像吃屎](https://www.v2ex.com/t/836682) 
 - [2022-02-27-请问有没有办法让-Linux-访问到-github-的时候自动添加加速域名？](https://www.v2ex.com/t/836681) 
@@ -39,5 +42,3 @@
 - [2022-02-26-webpack-的代码请教](https://www.v2ex.com/t/836640) 
 - [2022-02-26-B-站搜索抽风了？只要带英文就不能搜](https://www.v2ex.com/t/836638) 
 - [2022-02-26-宽油用完怎么处理?](https://www.v2ex.com/t/836637) 
-- [2022-02-26-B-站把所有小写字母的搜索结果都屏蔽了？](https://www.v2ex.com/t/836635) 
-- [2022-02-26-k8s-并发场景下错误：-kubectl-unable-to-upgrade-connection-Unsupported-method-'POST'](https://www.v2ex.com/t/836634) 

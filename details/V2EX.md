@@ -1,10 +1,13 @@
-:alarm_clock: 更新时间: 2022-02-27 12:53:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-27 13:15:48。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-02-27-女孩子-93-年-211-硕士毕业-之前做银行对公贷款的，因为加班太多，想跳槽，有什么行业值得推荐的，谢谢](https://www.v2ex.com/t/836762) 
+- [2022-02-27-求推荐个-gps-手环](https://www.v2ex.com/t/836761) 
+- [2022-02-27-插件市场安装的-Chrome-插件如何调试？](https://www.v2ex.com/t/836759) 
 - [2022-02-27-tailscale-速度特别慢，有时候还连不上](https://www.v2ex.com/t/836758) 
 - [2022-02-27-红警-2-在-win10-下切屏](https://www.v2ex.com/t/836756) 
 - [2022-02-27-国内的-ROM-如何换掉移动数据的-DNS？](https://www.v2ex.com/t/836755) 
@@ -12,7 +15,6 @@
 - [2022-02-27-为什么-CLion-总是建立到-visualstudio.com-的连接？（只安装了-Rust-和-Toml-插件和一个官方主题，禁用后还是一样）不想安装抓包工具，有-V-友能帮忙看看么？](https://www.v2ex.com/t/836752) 
 - [2022-02-27-有没有-Fanfou-复刻版的开源项目？](https://www.v2ex.com/t/836749) 
 - [2022-02-27-如何改善鼠标在-macOS-下指针和滚轮糟心的体验？](https://www.v2ex.com/t/836748) 
-- [2022-02-27-内推-Shopee-虾皮](https://www.v2ex.com/t/836747) 
 - [2022-02-27-求推荐一款黑白激光打印机，家用](https://www.v2ex.com/t/836745) 
 - [2022-02-27-.net-core-2.2-升级到最新-LTS](https://www.v2ex.com/t/836744) 
 - [2022-02-27-不管是-mac-还是-ios-都只能砸壳已经安装在-iPhone-上的-app-吗？不能下载拿到-ipa-文件直接砸？](https://www.v2ex.com/t/836742) 
@@ -42,6 +44,3 @@
 - [2022-02-27-挂载进-Docker-的-Git-库文件会被认为有修改](https://www.v2ex.com/t/836716) 
 - [2022-02-27-14-寸-M1-双击-chrome-标题栏动画卡顿](https://www.v2ex.com/t/836715) 
 - [2022-02-27-有哪些代码仓分析系统？](https://www.v2ex.com/t/836713) 
-- [2022-02-27-一次火烧眉毛的-PostgreSQL-事故分析](https://www.v2ex.com/t/836712) 
-- [2022-02-27-Apple-Store-零售店购买的-iPhone-SE-官方售后检测屏幕是第三方产](https://www.v2ex.com/t/836711) 
-- [2022-02-27-红米-k40-用类原生系统的小伙伴，-12306-app-能正常验证通过吗？](https://www.v2ex.com/t/836709) 

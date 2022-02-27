@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-27 15:39:59，:rocket: 更新条数: +1965， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-27 16:16:35，:rocket: 更新条数: +1962， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,11 @@
 </summary>
 
 
+- [2022-02-27-用了三个半月-21-款-15-寸-M1Max，感觉-15-款-15-寸比没用新本本之前还卡了](https://www.v2ex.com/t/836792) ![](assets/new.png)  
+- [2022-02-27-js-中用自己定义的函数覆盖内建函数这种行为应该叫什么？](https://www.v2ex.com/t/836791) ![](assets/new.png)  
+- [2022-02-27-接到朋友给的外包支付，做完发现不对劲](https://www.v2ex.com/t/836789) ![](assets/new.png)  
+- [2022-02-27-跨境漫游只不过是透明代理？](https://www.v2ex.com/t/836788) ![](assets/new.png)  
+- [2022-02-27-豆瓣音乐-专辑条目重复](https://www.v2ex.com/t/836787) ![](assets/new.png)  
 - [2022-02-27-算术运算为什么加$](https://www.v2ex.com/t/836786) ![](assets/new.png)  
 - [2022-02-27-对于不适合加索引的场景，如何做到数据判重？](https://www.v2ex.com/t/836785) ![](assets/new.png)  
 - [2022-02-27-google-搜索结果有啥好办法-exclude-特写语种吗？](https://www.v2ex.com/t/836782) ![](assets/new.png)  
@@ -506,11 +511,6 @@
 - [2022-02-27-问下各位大佬，如何使用国内成都的电信内网穿透，搭建一个网站](https://www.v2ex.com/t/836768) ![](assets/new.png)  
 - [2022-02-27-公司要给自己的系统起一个高大上的名称，例如-天宫-苍穹-猎户座-猎狐-等，请各位彦祖-支招。](https://www.v2ex.com/t/836767) ![](assets/new.png)  
 - [2022-02-27-练手小工具-之-纯文本跨设备传输-做出来了](https://www.v2ex.com/t/836764) ![](assets/new.png)  
-- [2022-02-27-红警-1-重制版有啥秘籍呢](https://www.v2ex.com/t/836763) ![](assets/new.png)  
-- [2022-02-27-女孩子-93-年-211-硕士毕业-之前做银行对公贷款的，因为有连带责任，想跳槽，有什么行业值得推荐的，谢谢](https://www.v2ex.com/t/836762) ![](assets/new.png)  
-- [2022-02-27-求推荐个-gps-手环](https://www.v2ex.com/t/836761) ![](assets/new.png)  
-- [2022-02-27-插件市场安装的-Chrome-插件如何调试？](https://www.v2ex.com/t/836759) ![](assets/new.png)  
-- [2022-02-27-tailscale-速度特别慢，有时候还连不上](https://www.v2ex.com/t/836758) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -565,14 +565,14 @@
 - [2022-02-27-对Go存严重误导，Go开发团队leader怒驳AWS](https://toutiao.io/k/dif57if) ![](assets/new.png)  
 - [2022-02-27-如何让一个创业公司优雅的进行云原生之旅](https://toutiao.io/k/htutu42) ![](assets/new.png)  
 - [2022-02-27-马斯克：虽然我是Rust的粉丝，但我选择C，其次是C++和Python](https://toutiao.io/k/xnvw7sp) ![](assets/new.png)  
-- [2022-02-27-推荐-Golang-简洁架构实战](https://toutiao.io/k/vjw1dlc) ![](assets/new.png)  
-- [2022-02-27-推荐-轻松搞懂5种IO模型](https://toutiao.io/k/o77uhyt) ![](assets/new.png)  
-- [2022-02-27-推荐-我做基础架构学到的42件事](https://toutiao.io/k/k6tjws1) ![](assets/new.png)  
+- [2022-02-27-推荐-趣谈IO多路复用的本质](https://toutiao.io/k/j4nqhbc) ![](assets/new.png)  
+- [2022-02-27-推荐-一张图看懂微服务架构路线](https://toutiao.io/k/upx1qip) ![](assets/new.png)  
+- [2022-02-27-推荐-什么人能成为Leader，大Leader该做什么](https://toutiao.io/k/pnlaqae) ![](assets/new.png)  
+- [2022-02-27-推荐-2021年最受程序员欢迎的开发工具TOP-100名单出炉！](https://toutiao.io/k/uf5vypr) ![](assets/new.png)  
 - [2022-02-27-推荐-【超赞】技术架构的战略和战术原则](https://toutiao.io/k/j9872pc) ![](assets/new.png)  
 - [2022-02-27-推荐-ClickHouse使用实践与规范](https://toutiao.io/k/fb7mdkl) ![](assets/new.png)  
-- [2022-02-27-推荐-趣谈IO多路复用的本质](https://toutiao.io/k/j4nqhbc) ![](assets/new.png)  
-- [2022-02-27-推荐-2021年最受程序员欢迎的开发工具TOP-100名单出炉！](https://toutiao.io/k/uf5vypr) ![](assets/new.png)  
-- [2022-02-27-推荐-什么人能成为Leader，大Leader该做什么](https://toutiao.io/k/pnlaqae) ![](assets/new.png)  
+- [2022-02-27-推荐-我做基础架构学到的42件事](https://toutiao.io/k/k6tjws1) ![](assets/new.png)  
+- [2022-02-27-推荐-Golang-简洁架构实战](https://toutiao.io/k/vjw1dlc) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

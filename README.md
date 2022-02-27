@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-27 02:03:49，:rocket: 更新条数: +1961， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-27 02:50:53，:rocket: 更新条数: +1958， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,9 @@
 </summary>
 
 
+- [2022-02-27-用-PushDeer-给你的网站添加一个实时反馈页面吧](https://www.v2ex.com/t/836680) ![](assets/new.png)  
+- [2022-02-27-关于-TLS-中的数据压缩](https://www.v2ex.com/t/836677) ![](assets/new.png)  
+- [2022-02-27-也许是全球唯一能用的-Python-代码混淆器，新增支持-string-literals-混淆](https://www.v2ex.com/t/836674) ![](assets/new.png)  
 - [2022-02-27-请教一个高中生就会的简单数学题](https://www.v2ex.com/t/836671) ![](assets/new.png)  
 - [2022-02-27-cloudflare-无法购买域名了吗？](https://www.v2ex.com/t/836670) ![](assets/new.png)  
 - [2022-02-27-有大佬注册过个体户么](https://www.v2ex.com/t/836669) ![](assets/new.png)  
@@ -508,9 +511,6 @@
 - [2022-02-26-从最近两次租房经历的噪音问题到租客的基本权益问题？](https://www.v2ex.com/t/836651) ![](assets/new.png)  
 - [2022-02-26-B-站码率确实不行](https://www.v2ex.com/t/836650) ![](assets/new.png)  
 - [2022-02-26-crm-定做或者二次开发](https://www.v2ex.com/t/836649) ![](assets/new.png)  
-- [2022-02-26-是否有开源或免费的上网行为分析系统？](https://www.v2ex.com/t/836648) ![](assets/new.png)  
-- [2022-02-26-有没有办法让夜览和原彩显示应用于外接显示器？](https://www.v2ex.com/t/836647) ![](assets/new.png)  
-- [2022-02-26-分享《谷歌工程实践-》学习笔记](https://www.v2ex.com/t/836646) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -558,21 +558,18 @@
 - [2022-02-27-对Go存严重误导，Go开发团队leader怒驳AWS](https://toutiao.io/k/dif57if) ![](assets/new.png)  
 - [2022-02-27-马斯克：虽然我是Rust的粉丝，但我选择C，其次是C++和Python](https://toutiao.io/k/xnvw7sp) ![](assets/new.png)  
 - [2022-02-27-纳瓦尔宝典：财富和幸福指南.pdf](https://toutiao.io/k/br1y473) ![](assets/new.png)  
-- [2022-02-27-SpringBoot-搭建基于-minio-的高性能存储服务](https://toutiao.io/k/vas2lqw) ![](assets/new.png)  
-- [2022-02-27-Docker-的崛起、殒落](https://toutiao.io/k/tsgtsfv) ![](assets/new.png)  
-- [2022-02-27-面试八股：MySQL-InnoDB-是如何存数据的？](https://toutiao.io/k/cmd3ajh) ![](assets/new.png)  
 - [2022-02-27-Http缓存有什么最佳实践么？](https://toutiao.io/k/7qn4gpb) ![](assets/new.png)  
 - [2022-02-27-博文干货｜在-Kotlin-中使用-Apache-Pulsar](https://toutiao.io/k/626jcon) ![](assets/new.png)  
-- [2022-02-27-推荐-ClickHouse使用实践与规范](https://toutiao.io/k/fb7mdkl) ![](assets/new.png)  
-- [2022-02-27-推荐-2021年最受程序员欢迎的开发工具TOP-100名单出炉！](https://toutiao.io/k/uf5vypr) ![](assets/new.png)  
-- [2022-02-27-推荐-一张图看懂微服务架构路线](https://toutiao.io/k/upx1qip) ![](assets/new.png)  
-- [2022-02-27-推荐-【超赞】技术架构的战略和战术原则](https://toutiao.io/k/j9872pc) ![](assets/new.png)  
-- [2022-02-27-推荐-Golang-简洁架构实战](https://toutiao.io/k/vjw1dlc) ![](assets/new.png)  
-- [2022-02-27-推荐-趣谈IO多路复用的本质](https://toutiao.io/k/j4nqhbc) ![](assets/new.png)  
-- [2022-02-27-推荐-轻松搞懂5种IO模型](https://toutiao.io/k/o77uhyt) ![](assets/new.png)  
-- [2022-02-27-推荐-什么人能成为Leader，大Leader该做什么](https://toutiao.io/k/pnlaqae) ![](assets/new.png)  
-- [2022-02-27-推荐-你分库分表的姿势对么？——详谈水平分库分表](https://toutiao.io/k/eteqw6s) ![](assets/new.png)  
 - [2022-02-27-推荐-我做基础架构学到的42件事](https://toutiao.io/k/k6tjws1) ![](assets/new.png)  
+- [2022-02-27-推荐-轻松搞懂5种IO模型](https://toutiao.io/k/o77uhyt) ![](assets/new.png)  
+- [2022-02-27-推荐-【超赞】技术架构的战略和战术原则](https://toutiao.io/k/j9872pc) ![](assets/new.png)  
+- [2022-02-27-推荐-你分库分表的姿势对么？——详谈水平分库分表](https://toutiao.io/k/eteqw6s) ![](assets/new.png)  
+- [2022-02-27-推荐-趣谈IO多路复用的本质](https://toutiao.io/k/j4nqhbc) ![](assets/new.png)  
+- [2022-02-27-推荐-ClickHouse使用实践与规范](https://toutiao.io/k/fb7mdkl) ![](assets/new.png)  
+- [2022-02-27-推荐-什么人能成为Leader，大Leader该做什么](https://toutiao.io/k/pnlaqae) ![](assets/new.png)  
+- [2022-02-27-推荐-2021年最受程序员欢迎的开发工具TOP-100名单出炉！](https://toutiao.io/k/uf5vypr) ![](assets/new.png)  
+- [2022-02-27-推荐-Golang-简洁架构实战](https://toutiao.io/k/vjw1dlc) ![](assets/new.png)  
+- [2022-02-27-推荐-一张图看懂微服务架构路线](https://toutiao.io/k/upx1qip) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

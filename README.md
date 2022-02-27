@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-27 17:12:45，:rocket: 更新条数: +1963， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-27 17:37:54，:rocket: 更新条数: +1963， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -565,14 +565,14 @@
 - [2022-02-27-对Go存严重误导，Go开发团队leader怒驳AWS](https://toutiao.io/k/dif57if) ![](assets/new.png)  
 - [2022-02-27-如何让一个创业公司优雅的进行云原生之旅](https://toutiao.io/k/htutu42) ![](assets/new.png)  
 - [2022-02-27-马斯克：虽然我是Rust的粉丝，但我选择C，其次是C++和Python](https://toutiao.io/k/xnvw7sp) ![](assets/new.png)  
+- [2022-02-27-推荐-ClickHouse使用实践与规范](https://toutiao.io/k/fb7mdkl) ![](assets/new.png)  
+- [2022-02-27-推荐-什么人能成为Leader，大Leader该做什么](https://toutiao.io/k/pnlaqae) ![](assets/new.png)  
+- [2022-02-27-推荐-趣谈IO多路复用的本质](https://toutiao.io/k/j4nqhbc) ![](assets/new.png)  
+- [2022-02-27-推荐-我做基础架构学到的42件事](https://toutiao.io/k/k6tjws1) ![](assets/new.png)  
+- [2022-02-27-推荐-2021年最受程序员欢迎的开发工具TOP-100名单出炉！](https://toutiao.io/k/uf5vypr) ![](assets/new.png)  
 - [2022-02-27-推荐-一张图看懂微服务架构路线](https://toutiao.io/k/upx1qip) ![](assets/new.png)  
 - [2022-02-27-推荐-Golang-简洁架构实战](https://toutiao.io/k/vjw1dlc) ![](assets/new.png)  
-- [2022-02-27-推荐-2021年最受程序员欢迎的开发工具TOP-100名单出炉！](https://toutiao.io/k/uf5vypr) ![](assets/new.png)  
-- [2022-02-27-推荐-我做基础架构学到的42件事](https://toutiao.io/k/k6tjws1) ![](assets/new.png)  
-- [2022-02-27-推荐-ClickHouse使用实践与规范](https://toutiao.io/k/fb7mdkl) ![](assets/new.png)  
 - [2022-02-27-推荐-【超赞】技术架构的战略和战术原则](https://toutiao.io/k/j9872pc) ![](assets/new.png)  
-- [2022-02-27-推荐-趣谈IO多路复用的本质](https://toutiao.io/k/j4nqhbc) ![](assets/new.png)  
-- [2022-02-27-推荐-什么人能成为Leader，大Leader该做什么](https://toutiao.io/k/pnlaqae) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

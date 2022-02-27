@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2022-02-27 11:11:50。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-27 11:35:54。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-02-27-.net-core-2.2-升级到最新-LTS](https://www.v2ex.com/t/836744) 
+- [2022-02-27-不管是-mac-还是-ios-都只能砸壳已经安装在-iPhone-上的-app-吗？不能下载拿到-ipa-文件直接砸？](https://www.v2ex.com/t/836742) 
 - [2022-02-27-鸟哥的这个案例执行不正确啊](https://www.v2ex.com/t/836741) 
 - [2022-02-27-升职加薪了，感觉一个同事心态崩了](https://www.v2ex.com/t/836740) 
 - [2022-02-27-使用-git-send-email-从-gmail-给多个人发邮件，-gmail-不让发送怎么办？](https://www.v2ex.com/t/836739) 

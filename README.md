@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-27 09:37:22，:rocket: 更新条数: +1969， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-27 10:14:07，:rocket: 更新条数: +1968， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,14 @@
 </summary>
 
 
+- [2022-02-27-#-深圳Amber-Group-量化开发工程师-25k-45k-*-18-薪](https://www.v2ex.com/t/836737) ![](assets/new.png)  
+- [2022-02-27-请问各位租房平台有哪些靠谱的可以介绍的吗？](https://www.v2ex.com/t/836736) ![](assets/new.png)  
+- [2022-02-27-应届硕-offer-怎么选](https://www.v2ex.com/t/836735) ![](assets/new.png)  
+- [2022-02-27-求一个-React-这样的实战项目，不知道大家有没有推荐](https://www.v2ex.com/t/836734) ![](assets/new.png)  
+- [2022-02-27-好像得了干眼症](https://www.v2ex.com/t/836733) ![](assets/new.png)  
+- [2022-02-27-求助-MacOS-Big-Sur-11.6.1-深信服-EasyConnect-版本-7.6.3.0-不可用](https://www.v2ex.com/t/836732) ![](assets/new.png)  
+- [2022-02-27-Android-离线播放器求推荐](https://www.v2ex.com/t/836731) ![](assets/new.png)  
+- [2022-02-27-艾尔登法环太好玩](https://www.v2ex.com/t/836730) ![](assets/new.png)  
 - [2022-02-27-红米-k30-备份数据问题&&腾讯系产品拉屎问题](https://www.v2ex.com/t/836728) ![](assets/new.png)  
 - [2022-02-27-小米云服务到期了，-200GB-年费-208-元，有优惠的续费渠道吗？](https://www.v2ex.com/t/836727) ![](assets/new.png)  
 - [2022-02-27-.ltd-在阿里云比-cloudflare-便宜](https://www.v2ex.com/t/836726) ![](assets/new.png)  
@@ -503,14 +511,6 @@
 - [2022-02-27-ios-的垃圾信息总共有多少种方式？](https://www.v2ex.com/t/836718) ![](assets/new.png)  
 - [2022-02-27-内推vivovivo-招募推荐算法工程师/专家，欢迎来撩](https://www.v2ex.com/t/836717) ![](assets/new.png)  
 - [2022-02-27-挂载进-Docker-的-Git-库文件会被认为有修改](https://www.v2ex.com/t/836716) ![](assets/new.png)  
-- [2022-02-27-14-寸-M1-双击-chrome-标题栏动画卡顿](https://www.v2ex.com/t/836715) ![](assets/new.png)  
-- [2022-02-27-有哪些代码仓分析系统？](https://www.v2ex.com/t/836713) ![](assets/new.png)  
-- [2022-02-27-一次火烧眉毛的-PostgreSQL-事故分析](https://www.v2ex.com/t/836712) ![](assets/new.png)  
-- [2022-02-27-Apple-Store-零售店购买的-iPhone-SE-官方售后检测屏幕是第三方产](https://www.v2ex.com/t/836711) ![](assets/new.png)  
-- [2022-02-27-红米-k40-用类原生系统的小伙伴，-12306-app-能正常验证通过吗？](https://www.v2ex.com/t/836709) ![](assets/new.png)  
-- [2022-02-27-适合-Go-新手的免费项目课-免费视频-27-集，附送代码](https://www.v2ex.com/t/836708) ![](assets/new.png)  
-- [2022-02-27-电信的移动数据开始实装反诈页面了](https://www.v2ex.com/t/836707) ![](assets/new.png)  
-- [2022-02-27-关系好的人干传销逼你做下线该如何处理](https://www.v2ex.com/t/836706) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -562,17 +562,17 @@
 - [2022-02-27-马斯克：虽然我是Rust的粉丝，但我选择C，其次是C++和Python](https://toutiao.io/k/xnvw7sp) ![](assets/new.png)  
 - [2022-02-27-谷歌工程实践-|-学习笔记](https://toutiao.io/k/qvka8z3) ![](assets/new.png)  
 - [2022-02-27-MySQL-分库分表及其平滑扩容方案](https://toutiao.io/k/nc8n4q2) ![](assets/new.png)  
-- [2022-02-27-如何让一个创业公司优雅的进行云原生之旅](https://toutiao.io/k/htutu42) ![](assets/new.png)  
 - [2022-02-27-Java线程池进阶-|-木小丰的博客](https://toutiao.io/k/xm02hqn) ![](assets/new.png)  
+- [2022-02-27-如何让一个创业公司优雅的进行云原生之旅](https://toutiao.io/k/htutu42) ![](assets/new.png)  
 - [2022-02-27-八大步骤带你深度剖析-Kafka-生产级容量评估方案](https://toutiao.io/k/k0exslz) ![](assets/new.png)  
 - [2022-02-27-推荐-我做基础架构学到的42件事](https://toutiao.io/k/k6tjws1) ![](assets/new.png)  
-- [2022-02-27-推荐-一张图看懂微服务架构路线](https://toutiao.io/k/upx1qip) ![](assets/new.png)  
-- [2022-02-27-推荐-你分库分表的姿势对么？——详谈水平分库分表](https://toutiao.io/k/eteqw6s) ![](assets/new.png)  
-- [2022-02-27-推荐-趣谈IO多路复用的本质](https://toutiao.io/k/j4nqhbc) ![](assets/new.png)  
-- [2022-02-27-推荐-什么人能成为Leader，大Leader该做什么](https://toutiao.io/k/pnlaqae) ![](assets/new.png)  
-- [2022-02-27-推荐-ClickHouse使用实践与规范](https://toutiao.io/k/fb7mdkl) ![](assets/new.png)  
-- [2022-02-27-推荐-2021年最受程序员欢迎的开发工具TOP-100名单出炉！](https://toutiao.io/k/uf5vypr) ![](assets/new.png)  
 - [2022-02-27-推荐-轻松搞懂5种IO模型](https://toutiao.io/k/o77uhyt) ![](assets/new.png)  
+- [2022-02-27-推荐-一张图看懂微服务架构路线](https://toutiao.io/k/upx1qip) ![](assets/new.png)  
+- [2022-02-27-推荐-【超赞】技术架构的战略和战术原则](https://toutiao.io/k/j9872pc) ![](assets/new.png)  
+- [2022-02-27-推荐-趣谈IO多路复用的本质](https://toutiao.io/k/j4nqhbc) ![](assets/new.png)  
+- [2022-02-27-推荐-你分库分表的姿势对么？——详谈水平分库分表](https://toutiao.io/k/eteqw6s) ![](assets/new.png)  
+- [2022-02-27-推荐-2021年最受程序员欢迎的开发工具TOP-100名单出炉！](https://toutiao.io/k/uf5vypr) ![](assets/new.png)  
+- [2022-02-27-推荐-ClickHouse使用实践与规范](https://toutiao.io/k/fb7mdkl) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

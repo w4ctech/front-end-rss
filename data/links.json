@@ -10,6 +10,11 @@
         "date": "2022-02-27"
       },
       {
+        "title": "乌克兰危机或加剧疫情蔓延，新西兰传染指数现居全球首位｜大流行手记（2月25日）",
+        "link": "https://m.caixin.com/m/2022-02-27/101847682.html",
+        "date": "2022-02-27"
+      },
+      {
         "title": "两条加强免疫路线并行，专家称已接种加强针人群不用进行序贯免疫",
         "link": "https://m.caixin.com/m/2022-02-26/101847522.html",
         "date": "2022-02-26"
@@ -9653,6 +9658,16 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "程序员本科已毕业，工作了几年，想去读个网络教育本科，便于转行，可行吗？",
+        "link": "https://www.v2ex.com/t/836683",
+        "date": "2022-02-27"
+      },
+      {
+        "title": "1password 的 bug，我该怎么办，花了钱怎么体验像吃屎",
+        "link": "https://www.v2ex.com/t/836682",
+        "date": "2022-02-27"
+      },
+      {
         "title": "请问有没有办法让 Linux 访问到 github 的时候自动添加加速域名？",
         "link": "https://www.v2ex.com/t/836681",
         "date": "2022-02-27"
@@ -9821,11 +9836,6 @@
         "title": "k8s 并发场景下错误： kubectl unable to upgrade connection Unsupported method ('POST')",
         "link": "https://www.v2ex.com/t/836634",
         "date": "2022-02-26"
-      },
-      {
-        "title": "Homebrew 安装不了 Subversion",
-        "link": "https://www.v2ex.com/t/836633",
-        "date": "2022-02-26"
       }
     ]
   },
@@ -9977,43 +9987,18 @@
         "date": "2022-02-27"
       },
       {
-        "title": "[推荐] 一张图看懂微服务架构路线",
-        "link": "https://toutiao.io/k/upx1qip",
-        "date": "2022-02-27"
-      },
-      {
-        "title": "[推荐] 什么人能成为Leader，大Leader该做什么",
-        "link": "https://toutiao.io/k/pnlaqae",
-        "date": "2022-02-27"
-      },
-      {
-        "title": "[推荐] 轻松搞懂5种IO模型",
-        "link": "https://toutiao.io/k/o77uhyt",
-        "date": "2022-02-27"
-      },
-      {
-        "title": "[推荐] 我做基础架构学到的42件事",
-        "link": "https://toutiao.io/k/k6tjws1",
-        "date": "2022-02-27"
-      },
-      {
-        "title": "[推荐] ClickHouse使用实践与规范",
-        "link": "https://toutiao.io/k/fb7mdkl",
-        "date": "2022-02-27"
-      },
-      {
         "title": "[推荐] 【超赞】技术架构的战略和战术原则",
         "link": "https://toutiao.io/k/j9872pc",
         "date": "2022-02-27"
       },
       {
-        "title": "[推荐] Golang 简洁架构实战",
-        "link": "https://toutiao.io/k/vjw1dlc",
+        "title": "[推荐] 趣谈IO多路复用的本质",
+        "link": "https://toutiao.io/k/j4nqhbc",
         "date": "2022-02-27"
       },
       {
-        "title": "[推荐] 趣谈IO多路复用的本质",
-        "link": "https://toutiao.io/k/j4nqhbc",
+        "title": "[推荐] ClickHouse使用实践与规范",
+        "link": "https://toutiao.io/k/fb7mdkl",
         "date": "2022-02-27"
       },
       {
@@ -10024,6 +10009,31 @@
       {
         "title": "[推荐] 你分库分表的姿势对么？——详谈水平分库分表",
         "link": "https://toutiao.io/k/eteqw6s",
+        "date": "2022-02-27"
+      },
+      {
+        "title": "[推荐] 什么人能成为Leader，大Leader该做什么",
+        "link": "https://toutiao.io/k/pnlaqae",
+        "date": "2022-02-27"
+      },
+      {
+        "title": "[推荐] 我做基础架构学到的42件事",
+        "link": "https://toutiao.io/k/k6tjws1",
+        "date": "2022-02-27"
+      },
+      {
+        "title": "[推荐] 轻松搞懂5种IO模型",
+        "link": "https://toutiao.io/k/o77uhyt",
+        "date": "2022-02-27"
+      },
+      {
+        "title": "[推荐] Golang 简洁架构实战",
+        "link": "https://toutiao.io/k/vjw1dlc",
+        "date": "2022-02-27"
+      },
+      {
+        "title": "[推荐] 一张图看懂微服务架构路线",
+        "link": "https://toutiao.io/k/upx1qip",
         "date": "2022-02-27"
       }
     ]

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-02-27 03:13:43。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-27 03:39:05。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -6,6 +6,7 @@
 
 
 - [2022-02-27-2月26日全国新增新冠239例-十省份本土112例](https://m.caixin.com/m/2022-02-27/101847668.html) 
+- [2022-02-27-乌克兰危机或加剧疫情蔓延，新西兰传染指数现居全球首位｜大流行手记（2月25日）](https://m.caixin.com/m/2022-02-27/101847682.html) 
 - [2022-02-26-两条加强免疫路线并行，专家称已接种加强针人群不用进行序贯免疫](https://m.caixin.com/m/2022-02-26/101847522.html) 
 - [2022-02-26-深圳科兴科学园开展疫情排查-数万人提前下班](https://m.caixin.com/m/2022-02-26/101847366.html) 
 - [2022-02-26-最新海外疫情：新冠感染超4.32亿-累计接种新冠疫苗超105.8亿剂次](https://m.caixin.com/m/2022-02-26/101847539.html) 
@@ -1853,6 +1854,8 @@
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2022-02-04-HTML-inputmode与iOS-Android软键盘类型测试](https://www.zhangxinxu.com/wordpress/2022/02/html-inputmode-keyboard/) 
+- [2022-02-27-程序员本科已毕业，工作了几年，想去读个网络教育本科，便于转行，可行吗？](https://www.v2ex.com/t/836683) 
+- [2022-02-27-1password-的-bug，我该怎么办，花了钱怎么体验像吃屎](https://www.v2ex.com/t/836682) 
 - [2022-02-27-用-PushDeer-给你的网站添加一个实时反馈页面吧](https://www.v2ex.com/t/836680) 
 - [2022-02-27-关于-TLS-中的数据压缩](https://www.v2ex.com/t/836677) 
 - [2022-02-27-也许是全球唯一能用的-Python-代码混淆器，新增支持-string-literals-混淆](https://www.v2ex.com/t/836674) 
@@ -1883,7 +1886,6 @@
 - [2022-02-26-B-站搜索抽风了？只要带英文就不能搜](https://www.v2ex.com/t/836638) 
 - [2022-02-26-宽油用完怎么处理?](https://www.v2ex.com/t/836637) 
 - [2022-02-26-B-站把所有小写字母的搜索结果都屏蔽了？](https://www.v2ex.com/t/836635) 
-- [2022-02-26-Homebrew-安装不了-Subversion](https://www.v2ex.com/t/836633) 
 - [2022-02-27-别被框架框住了-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14955&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffrontend-framework%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-02-27-聊聊低代码平台-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14954&url=https%3A%2F%2Finsights.thoughtworks.cn%2Flow-code-platform%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-02-27-以荣耀公司为例，拆解成功企业的股权架构设计！-www.sohu.com](https://blogread.cn/news/go.php?idItem=14953&url=https%3A%2F%2Fwww.sohu.com%2Fa%2F476319747_120317149%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1905,13 +1907,13 @@
 - [2022-02-27-马斯克：虽然我是Rust的粉丝，但我选择C，其次是C++和Python](https://toutiao.io/k/xnvw7sp) 
 - [2022-02-27-纳瓦尔宝典：财富和幸福指南.pdf](https://toutiao.io/k/br1y473) 
 - [2022-02-27-博文干货｜在-Kotlin-中使用-Apache-Pulsar](https://toutiao.io/k/626jcon) 
-- [2022-02-27-推荐-一张图看懂微服务架构路线](https://toutiao.io/k/upx1qip) 
-- [2022-02-27-推荐-什么人能成为Leader，大Leader该做什么](https://toutiao.io/k/pnlaqae) 
-- [2022-02-27-推荐-轻松搞懂5种IO模型](https://toutiao.io/k/o77uhyt) 
-- [2022-02-27-推荐-我做基础架构学到的42件事](https://toutiao.io/k/k6tjws1) 
-- [2022-02-27-推荐-ClickHouse使用实践与规范](https://toutiao.io/k/fb7mdkl) 
 - [2022-02-27-推荐-【超赞】技术架构的战略和战术原则](https://toutiao.io/k/j9872pc) 
-- [2022-02-27-推荐-Golang-简洁架构实战](https://toutiao.io/k/vjw1dlc) 
 - [2022-02-27-推荐-趣谈IO多路复用的本质](https://toutiao.io/k/j4nqhbc) 
+- [2022-02-27-推荐-ClickHouse使用实践与规范](https://toutiao.io/k/fb7mdkl) 
 - [2022-02-27-推荐-2021年最受程序员欢迎的开发工具TOP-100名单出炉！](https://toutiao.io/k/uf5vypr) 
 - [2022-02-27-推荐-你分库分表的姿势对么？——详谈水平分库分表](https://toutiao.io/k/eteqw6s) 
+- [2022-02-27-推荐-什么人能成为Leader，大Leader该做什么](https://toutiao.io/k/pnlaqae) 
+- [2022-02-27-推荐-我做基础架构学到的42件事](https://toutiao.io/k/k6tjws1) 
+- [2022-02-27-推荐-轻松搞懂5种IO模型](https://toutiao.io/k/o77uhyt) 
+- [2022-02-27-推荐-Golang-简洁架构实战](https://toutiao.io/k/vjw1dlc) 
+- [2022-02-27-推荐-一张图看懂微服务架构路线](https://toutiao.io/k/upx1qip) 

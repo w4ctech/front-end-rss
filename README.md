@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-27 06:15:41，:rocket: 更新条数: +1959， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-27 06:48:18，:rocket: 更新条数: +1962， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,12 @@
 </summary>
 
 
+- [2022-02-27-红米-k40-用类原生系统的小伙伴，-12306-app-能正常验证通过吗？](https://www.v2ex.com/t/836709) ![](assets/new.png)  
+- [2022-02-27-适合-Go-新手的免费项目课-免费视频-27-集，附送代码](https://www.v2ex.com/t/836708) ![](assets/new.png)  
+- [2022-02-27-电信的移动数据开始实装反诈页面了](https://www.v2ex.com/t/836707) ![](assets/new.png)  
+- [2022-02-27-关系好的人干传销逼你做下线该如何处理](https://www.v2ex.com/t/836706) ![](assets/new.png)  
+- [2022-02-27-各位平常会在-YouTube-上看哪位主播的游戏实况？](https://www.v2ex.com/t/836705) ![](assets/new.png)  
+- [2022-02-27-兼职合同薪资问题](https://www.v2ex.com/t/836703) ![](assets/new.png)  
 - [2022-02-27-关于离岸账户的一些问题](https://www.v2ex.com/t/836699) ![](assets/new.png)  
 - [2022-02-27-有没有开发的大佬接单-Google-voice-API？](https://www.v2ex.com/t/836698) ![](assets/new.png)  
 - [2022-02-27-WeChat-最新版-iOS-15-疯狂杀后台](https://www.v2ex.com/t/836697) ![](assets/new.png)  
@@ -505,12 +511,6 @@
 - [2022-02-27-用了老爸的剃须刀，才知道我的有多垃圾](https://www.v2ex.com/t/836684) ![](assets/new.png)  
 - [2022-02-27-程序员本科已毕业，工作了几年，想去读个网络教育本科，便于转行，可行吗？](https://www.v2ex.com/t/836683) ![](assets/new.png)  
 - [2022-02-27-1password-的-bug，我该怎么办，花了钱怎么体验像吃屎](https://www.v2ex.com/t/836682) ![](assets/new.png)  
-- [2022-02-27-请问有没有办法让-Linux-访问到-github-的时候自动添加加速域名？](https://www.v2ex.com/t/836681) ![](assets/new.png)  
-- [2022-02-27-用-PushDeer-给你的网站添加一个实时反馈页面吧](https://www.v2ex.com/t/836680) ![](assets/new.png)  
-- [2022-02-27-关于-TLS-中的数据压缩](https://www.v2ex.com/t/836677) ![](assets/new.png)  
-- [2022-02-27-也许是全球唯一能用的-Python-代码混淆器，新增支持-string-literals-混淆](https://www.v2ex.com/t/836674) ![](assets/new.png)  
-- [2022-02-27-请教一个高中生就会的简单数学题](https://www.v2ex.com/t/836671) ![](assets/new.png)  
-- [2022-02-27-cloudflare-无法购买域名了吗？](https://www.v2ex.com/t/836670) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -565,14 +565,14 @@
 - [2022-02-27-如何让一个创业公司优雅的进行云原生之旅](https://toutiao.io/k/htutu42) ![](assets/new.png)  
 - [2022-02-27-MySQL-分库分表及其平滑扩容方案](https://toutiao.io/k/nc8n4q2) ![](assets/new.png)  
 - [2022-02-27-八大步骤带你深度剖析-Kafka-生产级容量评估方案](https://toutiao.io/k/k0exslz) ![](assets/new.png)  
-- [2022-02-27-推荐-什么人能成为Leader，大Leader该做什么](https://toutiao.io/k/pnlaqae) ![](assets/new.png)  
-- [2022-02-27-推荐-趣谈IO多路复用的本质](https://toutiao.io/k/j4nqhbc) ![](assets/new.png)  
 - [2022-02-27-推荐-我做基础架构学到的42件事](https://toutiao.io/k/k6tjws1) ![](assets/new.png)  
-- [2022-02-27-推荐-轻松搞懂5种IO模型](https://toutiao.io/k/o77uhyt) ![](assets/new.png)  
-- [2022-02-27-推荐-一张图看懂微服务架构路线](https://toutiao.io/k/upx1qip) ![](assets/new.png)  
-- [2022-02-27-推荐-2021年最受程序员欢迎的开发工具TOP-100名单出炉！](https://toutiao.io/k/uf5vypr) ![](assets/new.png)  
-- [2022-02-27-推荐-【超赞】技术架构的战略和战术原则](https://toutiao.io/k/j9872pc) ![](assets/new.png)  
+- [2022-02-27-推荐-Golang-简洁架构实战](https://toutiao.io/k/vjw1dlc) ![](assets/new.png)  
 - [2022-02-27-推荐-你分库分表的姿势对么？——详谈水平分库分表](https://toutiao.io/k/eteqw6s) ![](assets/new.png)  
+- [2022-02-27-推荐-【超赞】技术架构的战略和战术原则](https://toutiao.io/k/j9872pc) ![](assets/new.png)  
+- [2022-02-27-推荐-什么人能成为Leader，大Leader该做什么](https://toutiao.io/k/pnlaqae) ![](assets/new.png)  
+- [2022-02-27-推荐-ClickHouse使用实践与规范](https://toutiao.io/k/fb7mdkl) ![](assets/new.png)  
+- [2022-02-27-推荐-一张图看懂微服务架构路线](https://toutiao.io/k/upx1qip) ![](assets/new.png)  
+- [2022-02-27-推荐-趣谈IO多路复用的本质](https://toutiao.io/k/j4nqhbc) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

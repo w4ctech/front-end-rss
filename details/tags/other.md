@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-02-28 11:11:54。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-28 11:36:12。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1869,7 +1869,6 @@
 - [2022-02-28-建议增加-2-个流媒体节点](https://www.v2ex.com/t/836978) 
 - [2022-02-28-今年金三银四工作好找吗](https://www.v2ex.com/t/836976) 
 - [2022-02-28-Mac-用-api-获取的-frontmostapplication-在-QQ-界面时显示-/sbin/launch](https://www.v2ex.com/t/836974) 
-- [2022-02-28-新车免检是-6-年，不是-72-个月](https://www.v2ex.com/t/836973) 
 - [2022-02-28-求购-齿研社洗牙会员](https://www.v2ex.com/t/836972) 
 - [2022-02-28-慌的一匹](https://www.v2ex.com/t/836971) 
 - [2022-02-28-杭州团队解散，是否继续-work-from-home-选择](https://www.v2ex.com/t/836970) 
@@ -1881,7 +1880,6 @@
 - [2022-02-28-上海有什么实惠的宽带套餐吗？](https://www.v2ex.com/t/836960) 
 - [2022-02-28-华为-nova5-pro-屏幕坏了，还值得维修吗？](https://www.v2ex.com/t/836958) 
 - [2022-02-28-golang-call-graph](https://www.v2ex.com/t/836957) 
-- [2022-02-28-俄罗斯股票可以买入了吗?](https://www.v2ex.com/t/836956) 
 - [2022-02-28-S02E02-走进全员-Remote-公司-StreamNative，共建开源乐园](https://www.v2ex.com/t/836955) 
 - [2022-02-28-上海·965-外企-广纳数字英才，解锁苹果好礼-|-前后端开发+数字产品设计&顾问，推荐入职即送-AirPods](https://www.v2ex.com/t/836954) 
 - [2022-02-28-郑州-华三-存储开发-c/C++](https://www.v2ex.com/t/836953) 
@@ -1921,11 +1919,11 @@
 - [2022-02-28-独立开发变现周刊（第43期）：业余项目成功的秘密](https://toutiao.io/k/c9fj1yx) 
 - [2022-02-28-手把手教你做一个数据图表生成器（附源码）...](https://toutiao.io/k/eiktnps) 
 - [2022-02-28-一道正确率只有15%的命名返回值和闭包的问题](https://toutiao.io/k/bl6yenb) 
-- [2022-02-28-推荐-趣谈IO多路复用的本质](https://toutiao.io/k/j4nqhbc) 
 - [2022-02-28-推荐-我做基础架构学到的42件事](https://toutiao.io/k/k6tjws1) 
-- [2022-02-28-推荐-ClickHouse使用实践与规范](https://toutiao.io/k/fb7mdkl) 
-- [2022-02-28-推荐-Golang-简洁架构实战](https://toutiao.io/k/vjw1dlc) 
-- [2022-02-28-推荐-【超赞】技术架构的战略和战术原则](https://toutiao.io/k/j9872pc) 
 - [2022-02-28-推荐-什么人能成为Leader，大Leader该做什么](https://toutiao.io/k/pnlaqae) 
+- [2022-02-28-推荐-【超赞】技术架构的战略和战术原则](https://toutiao.io/k/j9872pc) 
+- [2022-02-28-推荐-ClickHouse使用实践与规范](https://toutiao.io/k/fb7mdkl) 
+- [2022-02-28-推荐-趣谈IO多路复用的本质](https://toutiao.io/k/j4nqhbc) 
+- [2022-02-28-推荐-Golang-简洁架构实战](https://toutiao.io/k/vjw1dlc) 
 - [2022-02-28-推荐-2021年最受程序员欢迎的开发工具TOP-100名单出炉！](https://toutiao.io/k/uf5vypr) 
 - [2022-02-28-推荐-一张图看懂微服务架构路线](https://toutiao.io/k/upx1qip) 

@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-02-28 14:37:05。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-28 15:19:19。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -184,7 +184,6 @@
 - [【张鑫旭-鑫空间-鑫生活】JS-标签模板（Tagged-templates）什么时候使用？](https://www.zhangxinxu.com/wordpress/2021/12/js-tagged-templates/)
 - [【张鑫旭-鑫空间-鑫生活】深入JS-getRandomValues和Math.random方法](https://www.zhangxinxu.com/wordpress/2021/12/js-getrandomvalue-math-random/)
 - [【V2EX】由于经常要向用户介绍本次更新了哪些特性，于是做了一个-guideline-前端组件](https://www.v2ex.com/t/836995)
-- [【V2EX】请教一下-ECMAScript-每一年的新特性有没有什么网站或者渠道了解？](https://www.v2ex.com/t/836969)
 - [【开发者头条】《剑指Offer：专项突破版》---数组部分-JavaScript-题解](https://toutiao.io/k/2r6f7io)
 - [......【查看更多】......](./details/tags/javascript.md)
 
@@ -356,6 +355,7 @@
 
 
 
+- [【V2EX】上海福利超级赞的外企-招聘：-Senior-Product-Manager/Director（Dsp-方向最佳），英语口语流利](https://www.v2ex.com/t/837018)
 - [【开发者头条】程序员如何高效率的准备面试](https://toutiao.io/k/00y73jn)
 - [......【查看更多】......](./details/tags/job-interview.md)
 

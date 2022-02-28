@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-02-28 14:37:05。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-28 15:19:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -7,4 +7,5 @@
 
 
 
+- [2022-02-28-上海福利超级赞的外企-招聘：-Senior-Product-Manager/Director（Dsp-方向最佳），英语口语流利](https://www.v2ex.com/t/837018) 
 - [2022-02-28-程序员如何高效率的准备面试](https://toutiao.io/k/00y73jn) 

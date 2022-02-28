@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-28 04:47:44，:rocket: 更新条数: +1967， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-28 05:12:28，:rocket: 更新条数: +1968， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,10 @@
 </summary>
 
 
+- [2022-02-28-sqlz---极简-SQL-拼接库](https://www.v2ex.com/t/836889) ![](assets/new.png)  
+- [2022-02-28-Telegram-你们是怎么在国内登录的](https://www.v2ex.com/t/836887) ![](assets/new.png)  
+- [2022-02-28-pdd-上的-apple-watch-能买吗](https://www.v2ex.com/t/836886) ![](assets/new.png)  
+- [2022-02-28-深圳Nebula-Brands-跨境电商品牌收购集团研发岗位招聘](https://www.v2ex.com/t/836885) ![](assets/new.png)  
 - [2022-02-28-深圳-朴朴超市朴朴社招内推：产品、-Java-、测试、项管](https://www.v2ex.com/t/836884) ![](assets/new.png)  
 - [2022-02-28-喜马拉雅有声主播有必要报名学习嘛-学费-4k-1-万-4](https://www.v2ex.com/t/836883) ![](assets/new.png)  
 - [2022-02-28-为什么我的-LaTeX-公式在-MS-Word-里面不能正常显示？用其它工具，例如-Typora-的内联-LaTeX-等都可以显示](https://www.v2ex.com/t/836882) ![](assets/new.png)  
@@ -507,10 +511,6 @@
 - [2022-02-28-容器安全开源检测工具--问脉-VeinMind（镜像后门、恶意样本、敏感信息、弱口令等）](https://www.v2ex.com/t/836867) ![](assets/new.png)  
 - [2022-02-28-滴滴杭州小桔车服设计外包-9k（7+2），-13-薪，该不该去？](https://www.v2ex.com/t/836866) ![](assets/new.png)  
 - [2022-02-28-Quora-和-Bing-是有什么过节吗？](https://www.v2ex.com/t/836865) ![](assets/new.png)  
-- [2022-02-28-自动领京豆,安卓-app-一体操作](https://www.v2ex.com/t/836864) ![](assets/new.png)  
-- [2022-02-28-谁有过仲裁得经历呢？工作-10-年，被裁员。](https://www.v2ex.com/t/836863) ![](assets/new.png)  
-- [2022-02-28-上海、北京、杭州、广州、深圳-内推-声网-Agora](https://www.v2ex.com/t/836862) ![](assets/new.png)  
-- [2022-02-28-JetBrains-系的-IDE-如何使用键盘选中多处光标？](https://www.v2ex.com/t/836861) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -563,16 +563,16 @@
 - [2022-02-28-使用策略相似性嵌入改进强化学习的泛化](https://toutiao.io/k/x0z8w5q) ![](assets/new.png)  
 - [2022-02-28-【投稿】逃离编译时的内存溢出](https://toutiao.io/k/pjenjsr) ![](assets/new.png)  
 - [2022-02-28-《剑指Offer：专项突破版》---数组部分-JavaScript-题解](https://toutiao.io/k/2r6f7io) ![](assets/new.png)  
-- [2022-02-28-淘宝店铺是如何全面拥抱-TypeScript-的](https://toutiao.io/k/zezjhwx) ![](assets/new.png)  
 - [2022-02-28-聊聊跨端技术的本质与现状](https://toutiao.io/k/bpfr8oq) ![](assets/new.png)  
+- [2022-02-28-淘宝店铺是如何全面拥抱-TypeScript-的](https://toutiao.io/k/zezjhwx) ![](assets/new.png)  
 - [2022-02-28-一个使用Flask-Login登录后的Pytest测试用例的坑](https://toutiao.io/k/hucgs22) ![](assets/new.png)  
 - [2022-02-28-推荐-Golang-简洁架构实战](https://toutiao.io/k/vjw1dlc) ![](assets/new.png)  
-- [2022-02-28-推荐-趣谈IO多路复用的本质](https://toutiao.io/k/j4nqhbc) ![](assets/new.png)  
 - [2022-02-28-推荐-ClickHouse使用实践与规范](https://toutiao.io/k/fb7mdkl) ![](assets/new.png)  
 - [2022-02-28-推荐-2021年最受程序员欢迎的开发工具TOP-100名单出炉！](https://toutiao.io/k/uf5vypr) ![](assets/new.png)  
-- [2022-02-28-推荐-我做基础架构学到的42件事](https://toutiao.io/k/k6tjws1) ![](assets/new.png)  
-- [2022-02-28-推荐-一张图看懂微服务架构路线](https://toutiao.io/k/upx1qip) ![](assets/new.png)  
 - [2022-02-28-推荐-什么人能成为Leader，大Leader该做什么](https://toutiao.io/k/pnlaqae) ![](assets/new.png)  
+- [2022-02-28-推荐-一张图看懂微服务架构路线](https://toutiao.io/k/upx1qip) ![](assets/new.png)  
+- [2022-02-28-推荐-【超赞】技术架构的战略和战术原则](https://toutiao.io/k/j9872pc) ![](assets/new.png)  
+- [2022-02-28-推荐-趣谈IO多路复用的本质](https://toutiao.io/k/j4nqhbc) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

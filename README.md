@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-28 00:47:31，:rocket: 更新条数: +1956， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-28 02:06:41，:rocket: 更新条数: +1963， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -65,7 +65,7 @@
 </summary>
 
 
-- [2022-02-27-最新疫情：全国新冠累计确诊109092例-累计接种新冠疫苗超31.19亿剂次](https://m.caixin.com/m/2022-02-27/101847776.html) ![](assets/new.png)  
+- [2022-02-28-2月27日全国新增新冠234例-九省份本土87例](https://m.caixin.com/m/2022-02-28/101847881.html) ![](assets/new.png)  
 - [2022-02-27-深圳本轮疫情感染者增至百例-两机构违反防疫规定被立案](https://m.caixin.com/m/2022-02-27/101847766.html) ![](assets/new.png)  
 - [2022-02-27-最新海外疫情：新冠感染超4.33亿-累计接种新冠疫苗超105.99亿剂次](https://m.caixin.com/m/2022-02-27/101847781.html) ![](assets/new.png)  
 - [2022-02-27-【境内疫情观察】广东新增48例本土病例（2月26日）](https://database.caixin.com/m/2022-02-27/101847753.html) ![](assets/new.png)  
@@ -491,6 +491,19 @@
 </summary>
 
 
+- [2022-02-28-额，前端造了个小轮子，欢迎围观指点~](https://www.v2ex.com/t/836818) ![](assets/new.png)  
+- [2022-02-28-两台同网段的电脑如何架设共享盘啊](https://www.v2ex.com/t/836817) ![](assets/new.png)  
+- [2022-02-28-吐槽下小米的售后](https://www.v2ex.com/t/836815) ![](assets/new.png)  
+- [2022-02-28-安全部门/岗位](https://www.v2ex.com/t/836814) ![](assets/new.png)  
+- [2022-02-28-各位老哥老版本的-typora-还有吗，新版本要收费了啊](https://www.v2ex.com/t/836813) ![](assets/new.png)  
+- [2022-02-28-有-scala-兄弟吗？有招-scala-的公司吗？](https://www.v2ex.com/t/836811) ![](assets/new.png)  
+- [2022-02-28-哎，被查出来腰椎间盘突出了](https://www.v2ex.com/t/836810) ![](assets/new.png)  
+- [2022-02-28-建了一个基于-coca-20000-的英语单词仓库，对英语感兴趣，想提高自己的词汇量的同学可以来看看](https://www.v2ex.com/t/836809) ![](assets/new.png)  
+- [2022-02-28-美国创业公司诚招-前端和-Ruby-工程师20-40K](https://www.v2ex.com/t/836805) ![](assets/new.png)  
+- [2022-02-28-alt-+-`-快速切换同一应用的不同窗口](https://www.v2ex.com/t/836804) ![](assets/new.png)  
+- [2022-02-28-surge-mac-无法访问内网](https://www.v2ex.com/t/836803) ![](assets/new.png)  
+- [2022-02-28-autosleep-从上周开始记录噪声](https://www.v2ex.com/t/836802) ![](assets/new.png)  
+- [2022-02-28-校园网设备检测问题求教](https://www.v2ex.com/t/836801) ![](assets/new.png)  
 - [2022-02-27-IS-IS-协议的拔草](https://www.v2ex.com/t/836796) ![](assets/new.png)  
 - [2022-02-27-iOS-其它系统数据占用-43G，剩余空间-13G](https://www.v2ex.com/t/836794) ![](assets/new.png)  
 - [2022-02-27-vue-中嵌套循环-input-如何绑定-v-model-的问题](https://www.v2ex.com/t/836793) ![](assets/new.png)  
@@ -498,19 +511,6 @@
 - [2022-02-27-js-中用自己定义的函数覆盖内建函数这种行为应该叫什么？](https://www.v2ex.com/t/836791) ![](assets/new.png)  
 - [2022-02-27-接到朋友给的外包支付，做完发现不对劲](https://www.v2ex.com/t/836789) ![](assets/new.png)  
 - [2022-02-27-跨境漫游只不过是透明代理？](https://www.v2ex.com/t/836788) ![](assets/new.png)  
-- [2022-02-27-豆瓣音乐-专辑条目重复](https://www.v2ex.com/t/836787) ![](assets/new.png)  
-- [2022-02-27-算术运算为什么加$](https://www.v2ex.com/t/836786) ![](assets/new.png)  
-- [2022-02-27-对于不适合加索引的场景，如何做到数据判重？](https://www.v2ex.com/t/836785) ![](assets/new.png)  
-- [2022-02-27-google-搜索结果有啥好办法-exclude-特写语种吗？](https://www.v2ex.com/t/836782) ![](assets/new.png)  
-- [2022-02-27-小白求问，怎样订机票能比较便宜呢？](https://www.v2ex.com/t/836780) ![](assets/new.png)  
-- [2022-02-27-看到一个显示器，貌似是新加坡的品牌，看着还行，价格也不贵](https://www.v2ex.com/t/836779) ![](assets/new.png)  
-- [2022-02-27-4G-网络下-telegram-无法语音通话](https://www.v2ex.com/t/836778) ![](assets/new.png)  
-- [2022-02-27-单位发的超市纸质提货券卡贩子不要，又不让买烟酒，如何套现？](https://www.v2ex.com/t/836777) ![](assets/new.png)  
-- [2022-02-27-Ms-Access-可以批量保存，批量撤销吗？](https://www.v2ex.com/t/836776) ![](assets/new.png)  
-- [2022-02-27-你们一般在什么设备上跑-OpenBSD？体验如何？](https://www.v2ex.com/t/836775) ![](assets/new.png)  
-- [2022-02-27-写了一个-Golang-的-enum-到-typescript-的转换器](https://www.v2ex.com/t/836774) ![](assets/new.png)  
-- [2022-02-27-可以用-mingw-直接编译汇编文件吗？](https://www.v2ex.com/t/836771) ![](assets/new.png)  
-- [2022-02-27-VHD-如何进行大版本更新，找了一圈也没有看到有效的办法，大家有什么办法或建议么](https://www.v2ex.com/t/836769) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -557,17 +557,22 @@
 - [2022-02-28-深入浅出操作系统的零拷贝](https://toutiao.io/k/x5izhz0) ![](assets/new.png)  
 - [2022-02-28-微服务从代码到k8s部署应有尽有大结局（k8s部署）](https://toutiao.io/k/xk3qbvm) ![](assets/new.png)  
 - [2022-02-28-Spark-on-Kubernetes-与-Spark-on-Yarn-不完全对比分析](https://toutiao.io/k/s0etrjq) ![](assets/new.png)  
-- [2022-02-28-王志勇：贝壳CVR转化率预估模型实践](https://toutiao.io/k/aebtffz) ![](assets/new.png)  
 - [2022-02-28-一文彻底搞懂前端沙箱](https://toutiao.io/k/5p2gbvz) ![](assets/new.png)  
+- [2022-02-28-王志勇：贝壳CVR转化率预估模型实践](https://toutiao.io/k/aebtffz) ![](assets/new.png)  
 - [2022-02-28-安排！Kylin-4-现已支持-AWS-Glue-Catalog](https://toutiao.io/k/4bi5pn7) ![](assets/new.png)  
+- [2022-02-28-使用策略相似性嵌入改进强化学习的泛化](https://toutiao.io/k/x0z8w5q) ![](assets/new.png)  
+- [2022-02-28-《剑指Offer：专项突破版》---数组部分-JavaScript-题解](https://toutiao.io/k/2r6f7io) ![](assets/new.png)  
+- [2022-02-28-一个使用Flask-Login登录后的Pytest测试用例的坑](https://toutiao.io/k/hucgs22) ![](assets/new.png)  
+- [2022-02-28-聊聊跨端技术的本质与现状](https://toutiao.io/k/bpfr8oq) ![](assets/new.png)  
+- [2022-02-28-【投稿】逃离编译时的内存溢出](https://toutiao.io/k/pjenjsr) ![](assets/new.png)  
+- [2022-02-28-淘宝店铺是如何全面拥抱-TypeScript-的](https://toutiao.io/k/zezjhwx) ![](assets/new.png)  
+- [2022-02-28-推荐-2021年最受程序员欢迎的开发工具TOP-100名单出炉！](https://toutiao.io/k/uf5vypr) ![](assets/new.png)  
+- [2022-02-28-推荐-趣谈IO多路复用的本质](https://toutiao.io/k/j4nqhbc) ![](assets/new.png)  
+- [2022-02-28-推荐-【超赞】技术架构的战略和战术原则](https://toutiao.io/k/j9872pc) ![](assets/new.png)  
+- [2022-02-28-推荐-我做基础架构学到的42件事](https://toutiao.io/k/k6tjws1) ![](assets/new.png)  
 - [2022-02-28-推荐-Golang-简洁架构实战](https://toutiao.io/k/vjw1dlc) ![](assets/new.png)  
 - [2022-02-28-推荐-什么人能成为Leader，大Leader该做什么](https://toutiao.io/k/pnlaqae) ![](assets/new.png)  
-- [2022-02-28-推荐-我做基础架构学到的42件事](https://toutiao.io/k/k6tjws1) ![](assets/new.png)  
 - [2022-02-28-推荐-一张图看懂微服务架构路线](https://toutiao.io/k/upx1qip) ![](assets/new.png)  
-- [2022-02-28-推荐-2021年最受程序员欢迎的开发工具TOP-100名单出炉！](https://toutiao.io/k/uf5vypr) ![](assets/new.png)  
-- [2022-02-28-推荐-【超赞】技术架构的战略和战术原则](https://toutiao.io/k/j9872pc) ![](assets/new.png)  
-- [2022-02-28-推荐-趣谈IO多路复用的本质](https://toutiao.io/k/j4nqhbc) ![](assets/new.png)  
-- [2022-02-28-推荐-ClickHouse使用实践与规范](https://toutiao.io/k/fb7mdkl) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

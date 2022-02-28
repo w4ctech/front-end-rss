@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-28 08:16:00，:rocket: 更新条数: +1981， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-28 08:41:40，:rocket: 更新条数: +1983， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,16 @@
 </summary>
 
 
+- [2022-02-28-Android-TV（索尼电视）上有哪些好用的-IPTV-播放器](https://www.v2ex.com/t/836949) ![](assets/new.png)  
+- [2022-02-28-考研-350-分上西电](https://www.v2ex.com/t/836948) ![](assets/new.png)  
+- [2022-02-28-请问下，考个软件工程师好找工作吗?](https://www.v2ex.com/t/836947) ![](assets/new.png)  
+- [2022-02-28-各位大佬电视反光怎么办？-似乎新买的上面有层膜，是不是揭掉就好了？-还是上面弄个屏幕灯？](https://www.v2ex.com/t/836946) ![](assets/new.png)  
+- [2022-02-28-如何保护配置文件中的敏感信息,比如数据库密码](https://www.v2ex.com/t/836944) ![](assets/new.png)  
+- [2022-02-28-上班期间戴耳机听歌这个现象普遍吗？](https://www.v2ex.com/t/836942) ![](assets/new.png)  
+- [2022-02-28-MBP-上用什么虚拟机比较好？之前听朋友说有个比-VirtualBox-好的。我就不去问他了，来着问问大家吧。](https://www.v2ex.com/t/836941) ![](assets/new.png)  
+- [2022-02-28-冷门问题：泰国宝石现在哪里能买到？](https://www.v2ex.com/t/836940) ![](assets/new.png)  
+- [2022-02-28-快手-Y-tech-AI-引擎组招聘实习生](https://www.v2ex.com/t/836939) ![](assets/new.png)  
+- [2022-02-28-美团成都内推美团医药团队-Java-专家](https://www.v2ex.com/t/836938) ![](assets/new.png)  
 - [2022-02-28-docker-怎么跑在只读的系统环境下？](https://www.v2ex.com/t/836937) ![](assets/new.png)  
 - [2022-02-28-工行信用卡一定要去当地注销才行？](https://www.v2ex.com/t/836936) ![](assets/new.png)  
 - [2022-02-28-有关如何在网页中嵌入更好的-gzip-炸弹](https://www.v2ex.com/t/836934) ![](assets/new.png)  
@@ -501,16 +511,6 @@
 - [2022-02-28-Dell-U2723QE-屏幕发黄?](https://www.v2ex.com/t/836929) ![](assets/new.png)  
 - [2022-02-28-有什么证书可以考吗？](https://www.v2ex.com/t/836928) ![](assets/new.png)  
 - [2022-02-28-iPhone-怎么限制地区电话来电](https://www.v2ex.com/t/836927) ![](assets/new.png)  
-- [2022-02-28-34-寸-带鱼屏求推荐](https://www.v2ex.com/t/836926) ![](assets/new.png)  
-- [2022-02-28-突然被查出来肾有问题](https://www.v2ex.com/t/836925) ![](assets/new.png)  
-- [2022-02-28-macOS-QQ-屏幕共享一直是花屏？](https://www.v2ex.com/t/836923) ![](assets/new.png)  
-- [2022-02-28-看到程序员做饭指南有感，有没有类似的程序员运动指南？](https://www.v2ex.com/t/836921) ![](assets/new.png)  
-- [2022-02-28-jetBrains-怎么买最划算？](https://www.v2ex.com/t/836918) ![](assets/new.png)  
-- [2022-02-28-PyCharm-Ai-插件-哪款好用?](https://www.v2ex.com/t/836917) ![](assets/new.png)  
-- [2022-02-28-谁对接过亚马逊-SP-API？有偿服务，有做过的请联系我，急！](https://www.v2ex.com/t/836916) ![](assets/new.png)  
-- [2022-02-28-风姿花传到底是谁创作的](https://www.v2ex.com/t/836915) ![](assets/new.png)  
-- [2022-02-28-今天帮朋友发一份大厂蚂蚁集团-2023-届实习生招聘的时候，突然看到其福利，不禁羡慕不已啊，比我们那时好多了，不知道其它大厂是怎样的？](https://www.v2ex.com/t/836914) ![](assets/new.png)  
-- [2022-02-28-请教，有没有工具能将-GB2312-的代码文件转-UTF8](https://www.v2ex.com/t/836913) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -571,8 +571,8 @@
 - [2022-02-28-听说：分布式ID不能全局递增？](https://toutiao.io/k/vg1xuxn) ![](assets/new.png)  
 - [2022-02-28-互联网人的命运，就是活到30岁都难？](https://toutiao.io/k/iw35jvj) ![](assets/new.png)  
 - [2022-02-28-独立开发变现周刊（第43期）：业余项目成功的秘密](https://toutiao.io/k/c9fj1yx) ![](assets/new.png)  
-- [2022-02-28-一道正确率只有15%的命名返回值和闭包的问题](https://toutiao.io/k/bl6yenb) ![](assets/new.png)  
 - [2022-02-28-程序员开源月刊《HelloGitHub》第-71-期](https://toutiao.io/k/o1kl9wv) ![](assets/new.png)  
+- [2022-02-28-一道正确率只有15%的命名返回值和闭包的问题](https://toutiao.io/k/bl6yenb) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

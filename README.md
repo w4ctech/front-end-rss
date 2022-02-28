@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-02-28 16:17:53，:rocket: 更新条数: +1983， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-02-28 16:55:55，:rocket: 更新条数: +1982， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-02-28-这是一个镜像站点吗](https://www.v2ex.com/t/837034) ![](assets/new.png)  
+- [2022-02-28-请问可以修改笔记本-BIOS-以支持设置风扇转速吗](https://www.v2ex.com/t/837033) ![](assets/new.png)  
 - [2022-02-28-云非科技，-opay-钱包部门，昆仑万维子公司](https://www.v2ex.com/t/837032) ![](assets/new.png)  
 - [2022-02-28-微信的-OAuth2.0-拿到的-access_token-除了获取用户信息，还能做什么呢](https://www.v2ex.com/t/837031) ![](assets/new.png)  
 - [2022-02-28-小白请教关于-Angular-路由的动态注册方式](https://www.v2ex.com/t/837029) ![](assets/new.png)  
@@ -505,12 +507,10 @@
 - [2022-02-28-上海福利超级赞的外企-招聘：-Senior-Product-Manager/Director（Dsp-方向最佳），英语口语流利](https://www.v2ex.com/t/837018) ![](assets/new.png)  
 - [2022-02-28-记账-app-求推荐，不联网](https://www.v2ex.com/t/837017) ![](assets/new.png)  
 - [2022-02-28-作为独立开发者在过去一个月做的事情](https://www.v2ex.com/t/837016) ![](assets/new.png)  
-- [2022-02-28-财新通招-1-名车友](https://www.v2ex.com/t/837015) ![](assets/new.png)  
 - [2022-02-28-writage-插件有朋友用吗](https://www.v2ex.com/t/837014) ![](assets/new.png)  
 - [2022-02-28-docker-更改了配置文件怎么生效](https://www.v2ex.com/t/837013) ![](assets/new.png)  
 - [2022-02-28-CLion-的-Deployment-功能能否只对单个项目设置？](https://www.v2ex.com/t/837012) ![](assets/new.png)  
 - [2022-02-28-有什么好的-macOS-Safari-浏览器暗黑模式的插件吗？](https://www.v2ex.com/t/837011) ![](assets/new.png)  
-- [2022-02-28-卧室想弄个挂壁显示器代替电视，可行性如何?](https://www.v2ex.com/t/837010) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

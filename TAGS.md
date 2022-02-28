@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-02-28 11:36:12。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-02-28 12:20:12。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -318,7 +318,6 @@
 
 
 
-- [【V2EX】docker-怎么跑在只读的系统环境下？](https://www.v2ex.com/t/836937)
 - [......【查看更多】......](./details/tags/server.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -352,7 +351,6 @@
 
 
 
-- [【V2EX】快手-Y-tech-AI-引擎组招聘实习生](https://www.v2ex.com/t/836939)
 - [【开发者头条】程序员如何高效率的准备面试](https://toutiao.io/k/00y73jn)
 - [......【查看更多】......](./details/tags/job-interview.md)
 

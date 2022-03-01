@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-03-01 02:16:11。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-03-01 03:00:53。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -18,6 +18,5 @@
 - [2021-12-20-深入JS-getRandomValues和Math.random方法](https://www.zhangxinxu.com/wordpress/2021/12/js-getrandomvalue-math-random/) 
 - [2022-03-01-一键批量生成测试数据集，支持导出-JSON、SQL、CSV、HTML、XML](https://www.v2ex.com/t/837054) 
 - [2022-03-01-为什么-JS-中写第一种快排比标准快排慢-3-倍？](https://www.v2ex.com/t/837047) 
-- [2022-02-28-小白请教关于-Angular-路由的动态注册方式](https://www.v2ex.com/t/837029) 
 - [2022-03-01-【第2540期】来自Stateofjs调查，JavaScript-2021年度报告正式发布！](https://toutiao.io/k/3k5m5b3) 
 - [2022-03-01-80-行代码实现简易-RxJS](https://toutiao.io/k/uei46sb) 

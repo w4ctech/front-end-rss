@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-03-01 12:57:02，:rocket: 更新条数: +1990， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-03-01 13:19:16，:rocket: 更新条数: +1989， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-03-01-上海-米哈游-miHoYo-2022.3.1-最新招聘信息（可内推哦）](https://www.v2ex.com/t/837276) ![](assets/new.png)  
+- [2022-03-01-群晖-磁盘有坏道了，还能继续用么？](https://www.v2ex.com/t/837274) ![](assets/new.png)  
 - [2022-03-01-端传媒-尊享会员-有朋友上车吗](https://www.v2ex.com/t/837273) ![](assets/new.png)  
 - [2022-03-01-远程｜-Remote-前端｜-AppFlutter｜.Net｜-Product-Manager｜双休｜当地法定假日](https://www.v2ex.com/t/837272) ![](assets/new.png)  
 - [2022-03-01-2021-年-我的万元阅读书单与推荐第九篇](https://www.v2ex.com/t/837271) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-03-01-请教怎样获得微信内置浏览器中的网页代码](https://www.v2ex.com/t/837253) ![](assets/new.png)  
 - [2022-03-01-除了-Hoppscotch-还有什么稳定开源的-API-测试工具么？](https://www.v2ex.com/t/837252) ![](assets/new.png)  
 - [2022-03-01-码农-35-岁之后不做管理就是失败吗？](https://www.v2ex.com/t/837250) ![](assets/new.png)  
-- [2022-03-01-入职七个月被裁了，今天通知业务侧重调整，被裁了..](https://www.v2ex.com/t/837249) ![](assets/new.png)  
-- [2022-03-01-哪些大型-Go-项目正在使用-Echo-框架？想学习一下它们的项目结构。](https://www.v2ex.com/t/837248) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -559,8 +559,8 @@
 - [2022-03-01-Spark-Structured-Streaming-2021年最新进展的总结](https://toutiao.io/k/sltylsw) ![](assets/new.png)  
 - [2022-03-01-点赞动画还可以做得那么飘逸！](https://toutiao.io/k/h0drzhi) ![](assets/new.png)  
 - [2022-03-01-【实践】小红书推荐中台实践](https://toutiao.io/k/zkfazet) ![](assets/new.png)  
-- [2022-03-01-30-分钟看懂-CatBoost（Python代码）](https://toutiao.io/k/5oal7wa) ![](assets/new.png)  
 - [2022-03-01-自动化集成：Pipeline整合Docker+K8S](https://toutiao.io/k/4vvig3p) ![](assets/new.png)  
+- [2022-03-01-30-分钟看懂-CatBoost（Python代码）](https://toutiao.io/k/5oal7wa) ![](assets/new.png)  
 - [2022-03-01-Pathdreamer：室内导航的世界模型](https://toutiao.io/k/4jsu3l4) ![](assets/new.png)  
 - [2022-03-01-「GoCN酷Go推荐」Go高性能多语言NLP和分词库——gse](https://toutiao.io/k/5qwx68s) ![](assets/new.png)  
 - [2022-03-01-【第2540期】来自Stateofjs调查，JavaScript-2021年度报告正式发布！](https://toutiao.io/k/3k5m5b3) ![](assets/new.png)  
@@ -572,7 +572,7 @@
 - [2022-03-01-Markdown文本转视频在线工具上线---md2vid](https://toutiao.io/k/cvz6t43) ![](assets/new.png)  
 - [2022-03-01-星环-KunDB-2.2-发布，为高并发事务与查询混合的业务系统提供一个新选择](https://toutiao.io/k/znktqgr) ![](assets/new.png)  
 - [2022-03-01-面试导论第二弹：看完HTTP协议的艰辛发家史，我悟到了......](https://toutiao.io/k/zpzptfs) ![](assets/new.png)  
-- [2022-03-01-推荐-一张图看懂微服务架构路线](https://toutiao.io/k/upx1qip) ![](assets/new.png)  
+- [2022-03-01-推荐-我做基础架构学到的42件事](https://toutiao.io/k/k6tjws1) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-03-01 12:57:02。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-03-01 13:19:16。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -357,6 +357,7 @@
 
 
 
+- [【V2EX】上海-米哈游-miHoYo-2022.3.1-最新招聘信息（可内推哦）](https://www.v2ex.com/t/837276)
 - [【V2EX】阿里云-ClickHouse-组暑期实习招聘-C++/Go-23-届春招](https://www.v2ex.com/t/837258)
 - [......【查看更多】......](./details/tags/job-interview.md)
 

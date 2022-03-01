@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-03-01 16:17:42。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-03-01 16:55:00。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1867,6 +1867,7 @@
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2022-02-04-HTML-inputmode与iOS-Android软键盘类型测试](https://www.zhangxinxu.com/wordpress/2022/02/html-inputmode-keyboard/) 
+- [2022-03-01-长期没有朋友，是不是心理存在严重问题？](https://www.v2ex.com/t/837304) 
 - [2022-03-01-新手机使用-google-photos-备份照片一直处于“正在准备进行备份”的状态](https://www.v2ex.com/t/837303) 
 - [2022-03-01-base-杭的，最近有-hc-嘛](https://www.v2ex.com/t/837302) 
 - [2022-03-01-20220302-午夜俱乐部](https://www.v2ex.com/t/837301) 
@@ -1919,10 +1920,10 @@
 - [2022-03-01-在-AlertManager-报警通知中展示监控图表](https://toutiao.io/k/3u2uz7c) 
 - [2022-03-01-数据平台SQL开发详解与函数使用](https://toutiao.io/k/1w6yrjt) 
 - [2022-03-01-星环-KunDB-2.2-发布，为高并发事务与查询混合的业务系统提供一个新选择](https://toutiao.io/k/znktqgr) 
-- [2022-03-01-推荐-Golang-简洁架构实战](https://toutiao.io/k/vjw1dlc) 
-- [2022-03-01-推荐-一张图看懂微服务架构路线](https://toutiao.io/k/upx1qip) 
 - [2022-03-01-推荐-【超赞】技术架构的战略和战术原则](https://toutiao.io/k/j9872pc) 
-- [2022-03-01-推荐-2021年最受程序员欢迎的开发工具TOP-100名单出炉！](https://toutiao.io/k/uf5vypr) 
 - [2022-03-01-推荐-ClickHouse使用实践与规范](https://toutiao.io/k/fb7mdkl) 
+- [2022-03-01-推荐-一张图看懂微服务架构路线](https://toutiao.io/k/upx1qip) 
 - [2022-03-01-推荐-趣谈IO多路复用的本质](https://toutiao.io/k/j4nqhbc) 
 - [2022-03-01-推荐-2万字，详解数据湖，概念、特征、架构、方案、场景以及建湖全过程（建议收藏）](https://toutiao.io/k/vcpzf1w) 
+- [2022-03-01-推荐-Golang-简洁架构实战](https://toutiao.io/k/vjw1dlc) 
+- [2022-03-01-推荐-2021年最受程序员欢迎的开发工具TOP-100名单出炉！](https://toutiao.io/k/uf5vypr) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-03-01 10:40:59，:rocket: 更新条数: +1986， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-03-01 11:12:12，:rocket: 更新条数: +1987， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-03-01-码农-35-岁之后不做管理就是失败吗？](https://www.v2ex.com/t/837250) ![](assets/new.png)  
+- [2022-03-01-入职七个月被裁了，今天通知业务侧重调整，被裁了..](https://www.v2ex.com/t/837249) ![](assets/new.png)  
 - [2022-03-01-哪些大型-Go-项目正在使用-Echo-框架？想学习一下它们的项目结构。](https://www.v2ex.com/t/837248) ![](assets/new.png)  
 - [2022-03-01-介于-V-友需求，再开一辆-财新通](https://www.v2ex.com/t/837247) ![](assets/new.png)  
 - [2022-03-01-全新的国产-golang-框架准备发布啦，快来看看吧](https://www.v2ex.com/t/837246) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-03-01-OpenWRT-重新拨号后内网偶尔获取不到-IPv6-PD](https://www.v2ex.com/t/837232) ![](assets/new.png)  
 - [2022-03-01-「招人｜帮朋友转发」游戏服务端开发工程师-｜-Unity-游戏开发工程师](https://www.v2ex.com/t/837231) ![](assets/new.png)  
 - [2022-03-01-一年经验，在上海好找工作吗？-Java-后端](https://www.v2ex.com/t/837230) ![](assets/new.png)  
-- [2022-03-01-十块左右的耳机有推荐吗](https://www.v2ex.com/t/837229) ![](assets/new.png)  
-- [2022-03-01-Tendis-咋样](https://www.v2ex.com/t/837228) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -564,15 +564,15 @@
 - [2022-03-01-自动化集成：Pipeline整合Docker+K8S](https://toutiao.io/k/4vvig3p) ![](assets/new.png)  
 - [2022-03-01-「GoCN酷Go推荐」Go高性能多语言NLP和分词库——gse](https://toutiao.io/k/5qwx68s) ![](assets/new.png)  
 - [2022-03-01-【第2540期】来自Stateofjs调查，JavaScript-2021年度报告正式发布！](https://toutiao.io/k/3k5m5b3) ![](assets/new.png)  
+- [2022-03-01-Goland-最新破解教程](https://toutiao.io/k/izlm9pj) ![](assets/new.png)  
 - [2022-03-01-CTO-应该知道的五大「非传统」指标](https://toutiao.io/k/ya99ohi) ![](assets/new.png)  
 - [2022-03-01-80-行代码实现简易-RxJS](https://toutiao.io/k/uei46sb) ![](assets/new.png)  
 - [2022-03-01-在-AlertManager-报警通知中展示监控图表](https://toutiao.io/k/3u2uz7c) ![](assets/new.png)  
-- [2022-03-01-Goland-最新破解教程](https://toutiao.io/k/izlm9pj) ![](assets/new.png)  
 - [2022-03-01-数据平台SQL开发详解与函数使用](https://toutiao.io/k/1w6yrjt) ![](assets/new.png)  
 - [2022-03-01-Markdown文本转视频在线工具上线---md2vid](https://toutiao.io/k/cvz6t43) ![](assets/new.png)  
 - [2022-03-01-星环-KunDB-2.2-发布，为高并发事务与查询混合的业务系统提供一个新选择](https://toutiao.io/k/znktqgr) ![](assets/new.png)  
 - [2022-03-01-面试导论第二弹：看完HTTP协议的艰辛发家史，我悟到了......](https://toutiao.io/k/zpzptfs) ![](assets/new.png)  
-- [2022-03-01-推荐-2021年最受程序员欢迎的开发工具TOP-100名单出炉！](https://toutiao.io/k/uf5vypr) ![](assets/new.png)  
+- [2022-03-01-推荐-ClickHouse使用实践与规范](https://toutiao.io/k/fb7mdkl) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

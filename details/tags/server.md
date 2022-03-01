@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-03-01 00:53:07。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-03-01 02:16:11。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 服务端相关
 
@@ -8,4 +8,4 @@
 
 
 - [2022-03-01-求推荐国内可用的-Docker-加速镜像](https://www.v2ex.com/t/837050) 
-- [2022-02-28-docker-更改了配置文件怎么生效](https://www.v2ex.com/t/837013) 
+- [2022-03-01-自动化集成：Pipeline整合Docker+K8S](https://toutiao.io/k/4vvig3p) 

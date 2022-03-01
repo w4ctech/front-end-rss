@@ -9723,6 +9723,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "请问 windows 系统，有没有好用的截图翻译软件",
+        "link": "https://www.v2ex.com/t/837308",
+        "date": "2022-03-01"
+      },
+      {
         "title": "那种常受到促销 html 格式邮件，公司要求做，请问如何入手？",
         "link": "https://www.v2ex.com/t/837307",
         "date": "2022-03-01"
@@ -9895,11 +9900,6 @@
       {
         "title": "[上海] [米哈游社招内推] Java 后端（人事方向/信息化方向/财务系统方向）/数据开发",
         "link": "https://www.v2ex.com/t/837260",
-        "date": "2022-03-01"
-      },
-      {
-        "title": "阿里云 ClickHouse 组暑期实习招聘 C++/Go [23 届春招]",
-        "link": "https://www.v2ex.com/t/837258",
         "date": "2022-03-01"
       }
     ]
@@ -10112,28 +10112,8 @@
         "date": "2022-03-01"
       },
       {
-        "title": "[推荐] 2万字，详解数据湖，概念、特征、架构、方案、场景以及建湖全过程（建议收藏）",
-        "link": "https://toutiao.io/k/vcpzf1w",
-        "date": "2022-03-01"
-      },
-      {
         "title": "[推荐] 趣谈IO多路复用的本质",
         "link": "https://toutiao.io/k/j4nqhbc",
-        "date": "2022-03-01"
-      },
-      {
-        "title": "[推荐] 2021年最受程序员欢迎的开发工具TOP 100名单出炉！",
-        "link": "https://toutiao.io/k/uf5vypr",
-        "date": "2022-03-01"
-      },
-      {
-        "title": "[推荐] ClickHouse使用实践与规范",
-        "link": "https://toutiao.io/k/fb7mdkl",
-        "date": "2022-03-01"
-      },
-      {
-        "title": "[推荐] Golang 简洁架构实战",
-        "link": "https://toutiao.io/k/vjw1dlc",
         "date": "2022-03-01"
       },
       {
@@ -10142,8 +10122,28 @@
         "date": "2022-03-01"
       },
       {
+        "title": "[推荐] ClickHouse使用实践与规范",
+        "link": "https://toutiao.io/k/fb7mdkl",
+        "date": "2022-03-01"
+      },
+      {
+        "title": "[推荐] 2万字，详解数据湖，概念、特征、架构、方案、场景以及建湖全过程（建议收藏）",
+        "link": "https://toutiao.io/k/vcpzf1w",
+        "date": "2022-03-01"
+      },
+      {
         "title": "[推荐] 一张图看懂微服务架构路线",
         "link": "https://toutiao.io/k/upx1qip",
+        "date": "2022-03-01"
+      },
+      {
+        "title": "[推荐] Golang 简洁架构实战",
+        "link": "https://toutiao.io/k/vjw1dlc",
+        "date": "2022-03-01"
+      },
+      {
+        "title": "[推荐] 2021年最受程序员欢迎的开发工具TOP 100名单出炉！",
+        "link": "https://toutiao.io/k/uf5vypr",
         "date": "2022-03-01"
       }
     ]

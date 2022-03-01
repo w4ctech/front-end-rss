@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-03-01 05:36:14。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-03-01 06:16:40。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -55,7 +55,6 @@
 
 
 
-- [【V2EX】更新-Go+Vue-实现容器多集群管理平台、集成-Prometheus-监控](https://www.v2ex.com/t/837094)
 - [【技术头条】Vue3.0七大亮点是什么？？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14946&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493388%26amp%3Bidx%3D2%26amp%3Bsn%3D444ceba4f1e66a8553283a9424eec1be%26amp%3Bchksm%3Dfa3f0657cd488f413f3099568d4e134cc4ed0fd8d7cdb4c4963d2a87859087aff79080558a7c%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【技术头条】从实际项目出发，告诉你vue3到底香不香-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14943&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493377%26amp%3Bidx%3D2%26amp%3Bsn%3D38dcff122477793c2bfa2353abca7ecc%26amp%3Bchksm%3Dfa3f065acd488f4c47984479b5068b79976b72e2284221362b1746315de5f6c4e4d9a25a17d5%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [......【查看更多】......](./details/tags/vue.md)
@@ -183,7 +182,6 @@
 - [【张鑫旭-鑫空间-鑫生活】深入JS-getRandomValues和Math.random方法](https://www.zhangxinxu.com/wordpress/2021/12/js-getrandomvalue-math-random/)
 - [【V2EX】胶囊消息-Poinotes，一个可以“抹除”、“分离”和“认领”消息或形成“事件”的站点](https://www.v2ex.com/t/837143)
 - [【V2EX】PHP-数组转对象](https://www.v2ex.com/t/837122)
-- [【V2EX】请教各位-V-友们一个关于路由的问题](https://www.v2ex.com/t/837105)
 - [【开发者头条】【第2540期】来自Stateofjs调查，JavaScript-2021年度报告正式发布！](https://toutiao.io/k/3k5m5b3)
 - [【开发者头条】80-行代码实现简易-RxJS](https://toutiao.io/k/uei46sb)
 - [......【查看更多】......](./details/tags/javascript.md)
@@ -243,6 +241,7 @@
 
 - [【武汉肺炎防疫全纪录(财新网)】广州17岁男生在定点医院参加高考-特殊考场视频监考](https://m.caixin.com/m/2021-06-05/101723418.html)
 - [【武汉肺炎防疫全纪录(财新网)】林郑月娥率13高官直播接种科兴疫苗-复星疫苗预计周中到港](https://m.caixin.com/m/2021-02-22/101665724.html)
+- [【开发者头条】Markdown文本转视频在线工具上线---md2vid](https://toutiao.io/k/cvz6t43)
 - [......【查看更多】......](./details/tags/audio-video.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -284,6 +283,7 @@
 - [【武汉肺炎防疫全纪录(财新网)】腺病毒新冠疫苗引安全忧虑-康希诺称未发现血栓病例](https://m.caixin.com/m/2021-04-14/101691086.html)
 - [【武汉肺炎防疫全纪录(财新网)】解药|新冠mRNA疫苗安全性有哪些挑战？](https://m.caixin.com/m/2021-01-08/101648043.html)
 - [【武汉肺炎防疫全纪录(财新网)】大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html)
+- [【V2EX】一个在浏览器里用现代前端技术实现的-MacPaint](https://www.v2ex.com/t/837154)
 - [【V2EX】吐槽下-360极速浏览器，-ublock-origin-对-360-网站无效](https://www.v2ex.com/t/837142)
 - [【V2EX】只有开源软件，才能保证真正安全！](https://www.v2ex.com/t/837126)
 - [【V2EX】第三方-cookie](https://www.v2ex.com/t/837125)
@@ -309,6 +309,7 @@
 
 
 - [【技术头条】手把手教你打造一款高逼格的Vim神器-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14962&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493488%26amp%3Bidx%3D1%26amp%3Bsn%3D8c128186d0b12d8022708ce9b725c809%26amp%3Bchksm%3Dfa3f062bcd488f3d67c96d2ef6df68b69de330f0c59212326cb0ae131769811d029e0b67efb7%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
+- [【开发者头条】面试导论第二弹：看完HTTP协议的艰辛发家史，我悟到了......](https://toutiao.io/k/zpzptfs)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -359,8 +360,6 @@
 
 
 
-- [【V2EX】（上海/杭州/北京）（云方向）蚂蚁集团-2023-届实习生招聘](https://www.v2ex.com/t/837096)
-- [【V2EX】赴日移民-日本海关已经开放。对日外包公司招聘第五波](https://www.v2ex.com/t/837095)
 - [......【查看更多】......](./details/tags/job-interview.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

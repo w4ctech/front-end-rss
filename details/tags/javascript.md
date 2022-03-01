@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-03-01 05:36:14。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-03-01 06:16:40。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -18,6 +18,5 @@
 - [2021-12-20-深入JS-getRandomValues和Math.random方法](https://www.zhangxinxu.com/wordpress/2021/12/js-getrandomvalue-math-random/) 
 - [2022-03-01-胶囊消息-Poinotes，一个可以“抹除”、“分离”和“认领”消息或形成“事件”的站点](https://www.v2ex.com/t/837143) 
 - [2022-03-01-PHP-数组转对象](https://www.v2ex.com/t/837122) 
-- [2022-03-01-请教各位-V-友们一个关于路由的问题](https://www.v2ex.com/t/837105) 
 - [2022-03-01-【第2540期】来自Stateofjs调查，JavaScript-2021年度报告正式发布！](https://toutiao.io/k/3k5m5b3) 
 - [2022-03-01-80-行代码实现简易-RxJS](https://toutiao.io/k/uei46sb) 

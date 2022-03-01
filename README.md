@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-03-01 15:14:19，:rocket: 更新条数: +1985， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-03-01 15:42:12，:rocket: 更新条数: +1984， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,10 @@
 </summary>
 
 
+- [2022-03-01-推荐一个用了-6-年的-mac-软件，新媒体工作经常用到，但无奈遇到一个问题](https://www.v2ex.com/t/837295) ![](assets/new.png)  
+- [2022-03-01-GOFLY-在线客服系统-基于-Go-语言-Gin+Vue+ElementUI-的前后端分离在线客服系统](https://www.v2ex.com/t/837294) ![](assets/new.png)  
+- [2022-03-01-Apple-Podcasts-浏览网络问题](https://www.v2ex.com/t/837293) ![](assets/new.png)  
+- [2022-03-01-小米笔记本](https://www.v2ex.com/t/837291) ![](assets/new.png)  
 - [2022-03-01-杭州租房记](https://www.v2ex.com/t/837289) ![](assets/new.png)  
 - [2022-03-01-北上广深杭-网易内推～](https://www.v2ex.com/t/837288) ![](assets/new.png)  
 - [2022-03-01-DFX-设计是一种理念还是说有具体的可操作性?](https://www.v2ex.com/t/837287) ![](assets/new.png)  
@@ -507,10 +511,6 @@
 - [2022-03-01-2021-年-我的万元阅读书单与推荐第九篇](https://www.v2ex.com/t/837271) ![](assets/new.png)  
 - [2022-03-01-前几天上-wc-时，站着等雨下时，手指无意识的虚点-2-下，手指肌肉记忆，突然就想起前面那个-OPPO-手机的密码了。太神奇了。](https://www.v2ex.com/t/837270) ![](assets/new.png)  
 - [2022-03-01-深圳Amber-Group-Python-开发工程师-25k-50k·18-薪](https://www.v2ex.com/t/837267) ![](assets/new.png)  
-- [2022-03-01-论城市商业的发展，我写的一篇文章](https://www.v2ex.com/t/837266) ![](assets/new.png)  
-- [2022-03-01-杭州校招淘菜菜-C-端技术部-2023-届校招](https://www.v2ex.com/t/837265) ![](assets/new.png)  
-- [2022-03-01-深圳大疆内推车载基础设施组社招岗位](https://www.v2ex.com/t/837263) ![](assets/new.png)  
-- [2022-03-01-求助：-vscode，-md-文件配色问题。核心痛点，一个针对每一个语法进行的色彩区分的配色方案。](https://www.v2ex.com/t/837262) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -572,7 +572,7 @@
 - [2022-03-01-Markdown文本转视频在线工具上线---md2vid](https://toutiao.io/k/cvz6t43) ![](assets/new.png)  
 - [2022-03-01-面试导论第二弹：看完HTTP协议的艰辛发家史，我悟到了......](https://toutiao.io/k/zpzptfs) ![](assets/new.png)  
 - [2022-03-01-星环-KunDB-2.2-发布，为高并发事务与查询混合的业务系统提供一个新选择](https://toutiao.io/k/znktqgr) ![](assets/new.png)  
-- [2022-03-01-推荐-我做基础架构学到的42件事](https://toutiao.io/k/k6tjws1) ![](assets/new.png)  
+- [2022-03-01-推荐-ClickHouse使用实践与规范](https://toutiao.io/k/fb7mdkl) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

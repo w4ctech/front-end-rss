@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-03-01 13:19:16，:rocket: 更新条数: +1989， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-03-01 13:37:04，:rocket: 更新条数: +1987， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,9 @@
 </summary>
 
 
+- [2022-03-01-因为我的号不能在自己的贴回帖，再开一贴财新通，请管理谅解](https://www.v2ex.com/t/837281) ![](assets/new.png)  
+- [2022-03-01-Mac-天气预报小组件经常显示一片空白是怎么回事](https://www.v2ex.com/t/837280) ![](assets/new.png)  
+- [2022-03-01-感恩生活中的简单事物](https://www.v2ex.com/t/837279) ![](assets/new.png)  
 - [2022-03-01-上海-米哈游-miHoYo-2022.3.1-最新招聘信息（可内推哦）](https://www.v2ex.com/t/837276) ![](assets/new.png)  
 - [2022-03-01-群晖-磁盘有坏道了，还能继续用么？](https://www.v2ex.com/t/837274) ![](assets/new.png)  
 - [2022-03-01-端传媒-尊享会员-有朋友上车吗](https://www.v2ex.com/t/837273) ![](assets/new.png)  
@@ -508,9 +511,6 @@
 - [2022-03-01-晚上好啊！新的职位推荐-机器学习系统开发工程师-#量化基金公司-北京或上海-福利多多-薪资多多还不加班-冲啊！-全日制统招本科-CS-专业](https://www.v2ex.com/t/837257) ![](assets/new.png)  
 - [2022-03-01-根据自身买房经验总结了一份《杭州购房指南》](https://www.v2ex.com/t/837256) ![](assets/new.png)  
 - [2022-03-01-ios-vr-播放器](https://www.v2ex.com/t/837254) ![](assets/new.png)  
-- [2022-03-01-请教怎样获得微信内置浏览器中的网页代码](https://www.v2ex.com/t/837253) ![](assets/new.png)  
-- [2022-03-01-除了-Hoppscotch-还有什么稳定开源的-API-测试工具么？](https://www.v2ex.com/t/837252) ![](assets/new.png)  
-- [2022-03-01-码农-35-岁之后不做管理就是失败吗？](https://www.v2ex.com/t/837250) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -570,9 +570,9 @@
 - [2022-03-01-在-AlertManager-报警通知中展示监控图表](https://toutiao.io/k/3u2uz7c) ![](assets/new.png)  
 - [2022-03-01-数据平台SQL开发详解与函数使用](https://toutiao.io/k/1w6yrjt) ![](assets/new.png)  
 - [2022-03-01-Markdown文本转视频在线工具上线---md2vid](https://toutiao.io/k/cvz6t43) ![](assets/new.png)  
-- [2022-03-01-星环-KunDB-2.2-发布，为高并发事务与查询混合的业务系统提供一个新选择](https://toutiao.io/k/znktqgr) ![](assets/new.png)  
 - [2022-03-01-面试导论第二弹：看完HTTP协议的艰辛发家史，我悟到了......](https://toutiao.io/k/zpzptfs) ![](assets/new.png)  
-- [2022-03-01-推荐-我做基础架构学到的42件事](https://toutiao.io/k/k6tjws1) ![](assets/new.png)  
+- [2022-03-01-星环-KunDB-2.2-发布，为高并发事务与查询混合的业务系统提供一个新选择](https://toutiao.io/k/znktqgr) ![](assets/new.png)  
+- [2022-03-01-推荐-Golang-简洁架构实战](https://toutiao.io/k/vjw1dlc) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

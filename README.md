@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-03-01 06:16:40，:rocket: 更新条数: +1985， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-03-01 06:45:23，:rocket: 更新条数: +1983， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,11 @@
 </summary>
 
 
+- [2022-03-01-请教各位大佬一个-nginx-问题](https://www.v2ex.com/t/837165) ![](assets/new.png)  
+- [2022-03-01-Typora-for-Mac-卡慢是-WebKit-的问题？](https://www.v2ex.com/t/837163) ![](assets/new.png)  
+- [2022-03-01-伸手求一本绝版的书《佛利民在中国》](https://www.v2ex.com/t/837162) ![](assets/new.png)  
+- [2022-03-01-中年人的一哆嗦](https://www.v2ex.com/t/837161) ![](assets/new.png)  
+- [2022-03-01-请问信必优怎么样?-广州/深圳](https://www.v2ex.com/t/837160) ![](assets/new.png)  
 - [2022-03-01-如何快速提取修改文件并包含工程的全路径](https://www.v2ex.com/t/837157) ![](assets/new.png)  
 - [2022-03-01-求租，九号线，曹路站，一室户](https://www.v2ex.com/t/837156) ![](assets/new.png)  
 - [2022-03-01-广州上班，佛山买房的-V-友有了](https://www.v2ex.com/t/837155) ![](assets/new.png)  
@@ -506,11 +511,6 @@
 - [2022-03-01-如何更新-iPhone-运营商配置文件](https://www.v2ex.com/t/837140) ![](assets/new.png)  
 - [2022-03-01-遇到这个情况要咋办？](https://www.v2ex.com/t/837139) ![](assets/new.png)  
 - [2022-03-01-求-v-友答疑解惑/说服劝阻，关于要不要重写/重构以前写的个人项目](https://www.v2ex.com/t/837138) ![](assets/new.png)  
-- [2022-03-01-做了一个-markdown目录转-notion-的小玩具](https://www.v2ex.com/t/837137) ![](assets/new.png)  
-- [2022-03-01-有什么好用的即时通讯软件，非微信，-qq，钉钉哈](https://www.v2ex.com/t/837136) ![](assets/new.png)  
-- [2022-03-01-OneDrive-原生支持-Apple-Silicon-了](https://www.v2ex.com/t/837135) ![](assets/new.png)  
-- [2022-03-01-这是不是说明硬盘要坏了？](https://www.v2ex.com/t/837133) ![](assets/new.png)  
-- [2022-03-01-在不用-Git-的情况下，有什么软件能实现-git-status-的作用？](https://www.v2ex.com/t/837132) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -561,8 +561,8 @@
 - [2022-03-01-【实践】小红书推荐中台实践](https://toutiao.io/k/zkfazet) ![](assets/new.png)  
 - [2022-03-01-30-分钟看懂-CatBoost（Python代码）](https://toutiao.io/k/5oal7wa) ![](assets/new.png)  
 - [2022-03-01-Pathdreamer：室内导航的世界模型](https://toutiao.io/k/4jsu3l4) ![](assets/new.png)  
-- [2022-03-01-【第2540期】来自Stateofjs调查，JavaScript-2021年度报告正式发布！](https://toutiao.io/k/3k5m5b3) ![](assets/new.png)  
 - [2022-03-01-自动化集成：Pipeline整合Docker+K8S](https://toutiao.io/k/4vvig3p) ![](assets/new.png)  
+- [2022-03-01-【第2540期】来自Stateofjs调查，JavaScript-2021年度报告正式发布！](https://toutiao.io/k/3k5m5b3) ![](assets/new.png)  
 - [2022-03-01-「GoCN酷Go推荐」Go高性能多语言NLP和分词库——gse](https://toutiao.io/k/5qwx68s) ![](assets/new.png)  
 - [2022-03-01-80-行代码实现简易-RxJS](https://toutiao.io/k/uei46sb) ![](assets/new.png)  
 - [2022-03-01-在-AlertManager-报警通知中展示监控图表](https://toutiao.io/k/3u2uz7c) ![](assets/new.png)  
@@ -570,9 +570,9 @@
 - [2022-03-01-数据平台SQL开发详解与函数使用](https://toutiao.io/k/1w6yrjt) ![](assets/new.png)  
 - [2022-03-01-面试导论第二弹：看完HTTP协议的艰辛发家史，我悟到了......](https://toutiao.io/k/zpzptfs) ![](assets/new.png)  
 - [2022-03-01-Markdown文本转视频在线工具上线---md2vid](https://toutiao.io/k/cvz6t43) ![](assets/new.png)  
-- [2022-03-01-星环-KunDB-2.2-发布，为高并发事务与查询混合的业务系统提供一个新选择](https://toutiao.io/k/znktqgr) ![](assets/new.png)  
 - [2022-03-01-Goland-最新破解教程](https://toutiao.io/k/izlm9pj) ![](assets/new.png)  
-- [2022-03-01-推荐-2万字，详解数据湖，概念、特征、架构、方案、场景以及建湖全过程（建议收藏）](https://toutiao.io/k/vcpzf1w) ![](assets/new.png)  
+- [2022-03-01-星环-KunDB-2.2-发布，为高并发事务与查询混合的业务系统提供一个新选择](https://toutiao.io/k/znktqgr) ![](assets/new.png)  
+- [2022-03-01-推荐-【超赞】技术架构的战略和战术原则](https://toutiao.io/k/j9872pc) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

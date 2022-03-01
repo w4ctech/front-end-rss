@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-03-01 11:12:12，:rocket: 更新条数: +1987， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-03-01 11:38:20，:rocket: 更新条数: +1987， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -66,7 +66,7 @@
 
 
 - [2022-03-01-2月28日全国新增新冠200例-11省份本土75例](https://m.caixin.com/m/2022-03-01/101848522.html) ![](assets/new.png)  
-- [2022-03-01-上海新增1例本土确诊-系普陀区退休人员](https://m.caixin.com/m/2022-03-01/101848818.html) ![](assets/new.png)  
+- [2022-03-01-上海普陀区新增1例本土确诊-两家三甲医院停诊](https://m.caixin.com/m/2022-03-01/101848818.html) ![](assets/new.png)  
 - [2022-03-01-全民检测或将禁足-香港出现持续抢购潮](https://m.caixin.com/m/2022-03-01/101848658.html) ![](assets/new.png)  
 - [2022-03-01-【境内疫情观察】全国现有无症状感染者1097例（2月28日）](https://database.caixin.com/m/2022-03-01/101848773.html) ![](assets/new.png)  
 - [2022-03-01-Moderna面临专利侵权诉讼-香港单日新增病例突破两万大关｜大流行手记（2月28日）](https://m.caixin.com/m/2022-03-01/101848534.html) ![](assets/new.png)  
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-03-01-除了-Hoppscotch-还有什么稳定开源的-API-测试工具么？](https://www.v2ex.com/t/837252) ![](assets/new.png)  
 - [2022-03-01-码农-35-岁之后不做管理就是失败吗？](https://www.v2ex.com/t/837250) ![](assets/new.png)  
 - [2022-03-01-入职七个月被裁了，今天通知业务侧重调整，被裁了..](https://www.v2ex.com/t/837249) ![](assets/new.png)  
 - [2022-03-01-哪些大型-Go-项目正在使用-Echo-框架？想学习一下它们的项目结构。](https://www.v2ex.com/t/837248) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-03-01-为什么一个支付宝的付款码能扫出几个不同的公司？](https://www.v2ex.com/t/837233) ![](assets/new.png)  
 - [2022-03-01-OpenWRT-重新拨号后内网偶尔获取不到-IPv6-PD](https://www.v2ex.com/t/837232) ![](assets/new.png)  
 - [2022-03-01-「招人｜帮朋友转发」游戏服务端开发工程师-｜-Unity-游戏开发工程师](https://www.v2ex.com/t/837231) ![](assets/new.png)  
-- [2022-03-01-一年经验，在上海好找工作吗？-Java-后端](https://www.v2ex.com/t/837230) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -560,8 +560,8 @@
 - [2022-03-01-点赞动画还可以做得那么飘逸！](https://toutiao.io/k/h0drzhi) ![](assets/new.png)  
 - [2022-03-01-【实践】小红书推荐中台实践](https://toutiao.io/k/zkfazet) ![](assets/new.png)  
 - [2022-03-01-30-分钟看懂-CatBoost（Python代码）](https://toutiao.io/k/5oal7wa) ![](assets/new.png)  
-- [2022-03-01-Pathdreamer：室内导航的世界模型](https://toutiao.io/k/4jsu3l4) ![](assets/new.png)  
 - [2022-03-01-自动化集成：Pipeline整合Docker+K8S](https://toutiao.io/k/4vvig3p) ![](assets/new.png)  
+- [2022-03-01-Pathdreamer：室内导航的世界模型](https://toutiao.io/k/4jsu3l4) ![](assets/new.png)  
 - [2022-03-01-「GoCN酷Go推荐」Go高性能多语言NLP和分词库——gse](https://toutiao.io/k/5qwx68s) ![](assets/new.png)  
 - [2022-03-01-【第2540期】来自Stateofjs调查，JavaScript-2021年度报告正式发布！](https://toutiao.io/k/3k5m5b3) ![](assets/new.png)  
 - [2022-03-01-Goland-最新破解教程](https://toutiao.io/k/izlm9pj) ![](assets/new.png)  
@@ -570,9 +570,9 @@
 - [2022-03-01-在-AlertManager-报警通知中展示监控图表](https://toutiao.io/k/3u2uz7c) ![](assets/new.png)  
 - [2022-03-01-数据平台SQL开发详解与函数使用](https://toutiao.io/k/1w6yrjt) ![](assets/new.png)  
 - [2022-03-01-Markdown文本转视频在线工具上线---md2vid](https://toutiao.io/k/cvz6t43) ![](assets/new.png)  
-- [2022-03-01-星环-KunDB-2.2-发布，为高并发事务与查询混合的业务系统提供一个新选择](https://toutiao.io/k/znktqgr) ![](assets/new.png)  
 - [2022-03-01-面试导论第二弹：看完HTTP协议的艰辛发家史，我悟到了......](https://toutiao.io/k/zpzptfs) ![](assets/new.png)  
-- [2022-03-01-推荐-ClickHouse使用实践与规范](https://toutiao.io/k/fb7mdkl) ![](assets/new.png)  
+- [2022-03-01-星环-KunDB-2.2-发布，为高并发事务与查询混合的业务系统提供一个新选择](https://toutiao.io/k/znktqgr) ![](assets/new.png)  
+- [2022-03-01-推荐-一张图看懂微服务架构路线](https://toutiao.io/k/upx1qip) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

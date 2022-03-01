@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-03-01 23:13:25，:rocket: 更新条数: +1982， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-03-01 23:38:14，:rocket: 更新条数: +1982， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-03-01-12306-内推-后端-北京西直门](https://www.v2ex.com/t/837311) ![](assets/new.png)  
+- [2022-03-01-新加坡-bybit-值得去吗](https://www.v2ex.com/t/837310) ![](assets/new.png)  
 - [2022-03-01-请问-windows-系统，有没有好用的截图翻译软件](https://www.v2ex.com/t/837308) ![](assets/new.png)  
 - [2022-03-01-那种常受到促销-html-格式邮件，公司要求做，请问如何入手？](https://www.v2ex.com/t/837307) ![](assets/new.png)  
 - [2022-03-01-有能对抗-ks-风控的大佬吗](https://www.v2ex.com/t/837306) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-03-01-小米笔记本](https://www.v2ex.com/t/837291) ![](assets/new.png)  
 - [2022-03-01-杭州租房记](https://www.v2ex.com/t/837289) ![](assets/new.png)  
 - [2022-03-01-北上广深杭-网易内推～](https://www.v2ex.com/t/837288) ![](assets/new.png)  
-- [2022-03-01-DFX-设计是一种理念还是说有具体的可操作性?](https://www.v2ex.com/t/837287) ![](assets/new.png)  
-- [2022-03-01-关于拖地机器人的自动上下水，现在的方案成熟了吗？](https://www.v2ex.com/t/837286) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -572,7 +572,7 @@
 - [2022-03-01-Markdown文本转视频在线工具上线---md2vid](https://toutiao.io/k/cvz6t43) ![](assets/new.png)  
 - [2022-03-01-面试导论第二弹：看完HTTP协议的艰辛发家史，我悟到了......](https://toutiao.io/k/zpzptfs) ![](assets/new.png)  
 - [2022-03-01-星环-KunDB-2.2-发布，为高并发事务与查询混合的业务系统提供一个新选择](https://toutiao.io/k/znktqgr) ![](assets/new.png)  
-- [2022-03-01-推荐-Golang-简洁架构实战](https://toutiao.io/k/vjw1dlc) ![](assets/new.png)  
+- [2022-03-01-推荐-【超赞】技术架构的战略和战术原则](https://toutiao.io/k/j9872pc) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

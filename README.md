@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-03-01 15:42:12，:rocket: 更新条数: +1984， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-03-01 16:17:42，:rocket: 更新条数: +1983， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,13 @@
 </summary>
 
 
+- [2022-03-01-新手机使用-google-photos-备份照片一直处于“正在准备进行备份”的状态](https://www.v2ex.com/t/837303) ![](assets/new.png)  
+- [2022-03-01-base-杭的，最近有-hc-嘛](https://www.v2ex.com/t/837302) ![](assets/new.png)  
+- [2022-03-01-20220302-午夜俱乐部](https://www.v2ex.com/t/837301) ![](assets/new.png)  
+- [2022-03-01-想看看各位-macOS-硬盘耗损程度](https://www.v2ex.com/t/837300) ![](assets/new.png)  
+- [2022-03-01-上海-不加班-外企-招-Java-，-C++，测试，安卓，资深前端，-devOps，-PMO，帮忙内推也送钱！](https://www.v2ex.com/t/837299) ![](assets/new.png)  
+- [2022-03-01-小说向《核弹之后：物理定律突变，开启修仙时代》](https://www.v2ex.com/t/837298) ![](assets/new.png)  
+- [2022-03-01-已接入上海联通宽带-300M，还可-0-元办理-200M-联通，如何有效利用呢？](https://www.v2ex.com/t/837297) ![](assets/new.png)  
 - [2022-03-01-推荐一个用了-6-年的-mac-软件，新媒体工作经常用到，但无奈遇到一个问题](https://www.v2ex.com/t/837295) ![](assets/new.png)  
 - [2022-03-01-GOFLY-在线客服系统-基于-Go-语言-Gin+Vue+ElementUI-的前后端分离在线客服系统](https://www.v2ex.com/t/837294) ![](assets/new.png)  
 - [2022-03-01-Apple-Podcasts-浏览网络问题](https://www.v2ex.com/t/837293) ![](assets/new.png)  
@@ -504,13 +511,6 @@
 - [2022-03-01-因为我的号不能在自己的贴回帖，再开一贴财新通，请管理谅解](https://www.v2ex.com/t/837281) ![](assets/new.png)  
 - [2022-03-01-Mac-天气预报小组件经常显示一片空白是怎么回事](https://www.v2ex.com/t/837280) ![](assets/new.png)  
 - [2022-03-01-感恩生活中的简单事物](https://www.v2ex.com/t/837279) ![](assets/new.png)  
-- [2022-03-01-上海-米哈游-miHoYo-2022.3.1-最新招聘信息（可内推哦）](https://www.v2ex.com/t/837276) ![](assets/new.png)  
-- [2022-03-01-群晖-磁盘有坏道了，还能继续用么？](https://www.v2ex.com/t/837274) ![](assets/new.png)  
-- [2022-03-01-端传媒-尊享会员-有朋友上车吗](https://www.v2ex.com/t/837273) ![](assets/new.png)  
-- [2022-03-01-远程｜-Remote-前端｜-AppFlutter｜.Net｜-Product-Manager｜双休｜当地法定假日](https://www.v2ex.com/t/837272) ![](assets/new.png)  
-- [2022-03-01-2021-年-我的万元阅读书单与推荐第九篇](https://www.v2ex.com/t/837271) ![](assets/new.png)  
-- [2022-03-01-前几天上-wc-时，站着等雨下时，手指无意识的虚点-2-下，手指肌肉记忆，突然就想起前面那个-OPPO-手机的密码了。太神奇了。](https://www.v2ex.com/t/837270) ![](assets/new.png)  
-- [2022-03-01-深圳Amber-Group-Python-开发工程师-25k-50k·18-薪](https://www.v2ex.com/t/837267) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -572,7 +572,7 @@
 - [2022-03-01-Markdown文本转视频在线工具上线---md2vid](https://toutiao.io/k/cvz6t43) ![](assets/new.png)  
 - [2022-03-01-面试导论第二弹：看完HTTP协议的艰辛发家史，我悟到了......](https://toutiao.io/k/zpzptfs) ![](assets/new.png)  
 - [2022-03-01-星环-KunDB-2.2-发布，为高并发事务与查询混合的业务系统提供一个新选择](https://toutiao.io/k/znktqgr) ![](assets/new.png)  
-- [2022-03-01-推荐-ClickHouse使用实践与规范](https://toutiao.io/k/fb7mdkl) ![](assets/new.png)  
+- [2022-03-01-推荐-Golang-简洁架构实战](https://toutiao.io/k/vjw1dlc) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

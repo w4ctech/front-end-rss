@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-03-01 11:38:20，:rocket: 更新条数: +1987， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-03-01 12:20:54，:rocket: 更新条数: +1990， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -65,14 +65,14 @@
 </summary>
 
 
-- [2022-03-01-2月28日全国新增新冠200例-11省份本土75例](https://m.caixin.com/m/2022-03-01/101848522.html) ![](assets/new.png)  
+- [2022-03-01-最新疫情：全国新冠累计确诊109526例-累计接种新冠疫苗超31.29亿剂次](https://m.caixin.com/m/2022-03-01/101849002.html) ![](assets/new.png)  
 - [2022-03-01-上海普陀区新增1例本土确诊-两家三甲医院停诊](https://m.caixin.com/m/2022-03-01/101848818.html) ![](assets/new.png)  
 - [2022-03-01-全民检测或将禁足-香港出现持续抢购潮](https://m.caixin.com/m/2022-03-01/101848658.html) ![](assets/new.png)  
+- [2022-03-01-最新海外疫情：新冠感染超4.36亿-累计接种新冠疫苗超106.37亿剂次](https://m.caixin.com/m/2022-03-01/101848998.html) ![](assets/new.png)  
 - [2022-03-01-【境内疫情观察】全国现有无症状感染者1097例（2月28日）](https://database.caixin.com/m/2022-03-01/101848773.html) ![](assets/new.png)  
 - [2022-03-01-Moderna面临专利侵权诉讼-香港单日新增病例突破两万大关｜大流行手记（2月28日）](https://m.caixin.com/m/2022-03-01/101848534.html) ![](assets/new.png)  
 - [2022-03-01-香港新增34466例确诊-即将开展全民强制核酸检测](https://photos.caixin.com/m/2022-03-01/101848603.html) ![](assets/new.png)  
 - [2022-02-28-广东汕尾港澳流动渔船三船员感染新冠](https://m.caixin.com/m/2022-02-28/101848125.html) ![](assets/new.png)  
-- [2022-02-28-最新海外疫情：新冠感染超4.34亿-累计接种新冠疫苗超106.15亿剂次](https://m.caixin.com/m/2022-02-28/101848217.html) ![](assets/new.png)  
 - [2022-02-28-香港单日新增病例高达2.6万-8间在建方舱医院1间今竣工](https://m.caixin.com/m/2022-02-28/101848001.html) ![](assets/new.png)  
 - [2022-02-28-【境内疫情观察】全国新增234例确诊病例（2月27日）](https://database.caixin.com/m/2022-02-28/101848086.html) ![](assets/new.png)  
 - [2022-02-28-乌克兰氧气供应或将耗尽-阿联酋取消户外口罩要求｜大流行手记（2月27日）](https://m.caixin.com/m/2022-02-28/101847910.html) ![](assets/new.png)  
@@ -491,6 +491,14 @@
 </summary>
 
 
+- [2022-03-01-求助：-vscode，-md-文件配色问题。核心痛点，一个针对每一个语法进行的色彩区分的配色方案。](https://www.v2ex.com/t/837262) ![](assets/new.png)  
+- [2022-03-01-html-内嵌-BiliBili-视频在部分手机上没法播放](https://www.v2ex.com/t/837261) ![](assets/new.png)  
+- [2022-03-01-上海-米哈游社招内推-Java-后端（人事方向/信息化方向/财务系统方向）/数据开发](https://www.v2ex.com/t/837260) ![](assets/new.png)  
+- [2022-03-01-阿里云-ClickHouse-组暑期实习招聘-C++/Go-23-届春招](https://www.v2ex.com/t/837258) ![](assets/new.png)  
+- [2022-03-01-晚上好啊！新的职位推荐-机器学习系统开发工程师-#量化基金公司-北京或上海-福利多多-薪资多多还不加班-冲啊！-全日制统招本科-CS-专业](https://www.v2ex.com/t/837257) ![](assets/new.png)  
+- [2022-03-01-根据自身买房经验总结了一份《杭州购房指南》](https://www.v2ex.com/t/837256) ![](assets/new.png)  
+- [2022-03-01-ios-vr-播放器](https://www.v2ex.com/t/837254) ![](assets/new.png)  
+- [2022-03-01-请教怎样获得微信内置浏览器中的网页代码](https://www.v2ex.com/t/837253) ![](assets/new.png)  
 - [2022-03-01-除了-Hoppscotch-还有什么稳定开源的-API-测试工具么？](https://www.v2ex.com/t/837252) ![](assets/new.png)  
 - [2022-03-01-码农-35-岁之后不做管理就是失败吗？](https://www.v2ex.com/t/837250) ![](assets/new.png)  
 - [2022-03-01-入职七个月被裁了，今天通知业务侧重调整，被裁了..](https://www.v2ex.com/t/837249) ![](assets/new.png)  
@@ -503,14 +511,6 @@
 - [2022-03-01-求问一个-Chrome-插件，可以下载整个网页到一个文件](https://www.v2ex.com/t/837242) ![](assets/new.png)  
 - [2022-03-01-如何让-mac-在几分钟不操作后屏幕变暗，但不要关闭？](https://www.v2ex.com/t/837241) ![](assets/new.png)  
 - [2022-03-01-一般而言个人项目在互联网上公开如何选择适合的协议？](https://www.v2ex.com/t/837240) ![](assets/new.png)  
-- [2022-03-01-腾讯/春招/内推-23-届-Web-前端实习生](https://www.v2ex.com/t/837239) ![](assets/new.png)  
-- [2022-03-01-.com-域名的续费优惠和价格](https://www.v2ex.com/t/837238) ![](assets/new.png)  
-- [2022-03-01-找工作啦。深圳溪畔树网络怎么样？](https://www.v2ex.com/t/837236) ![](assets/new.png)  
-- [2022-03-01-有什么分享活动的论坛吗](https://www.v2ex.com/t/837235) ![](assets/new.png)  
-- [2022-03-01-有没有小型的数字-/-英文-OCR-模块可以集成进-C++写的小工具里面？](https://www.v2ex.com/t/837234) ![](assets/new.png)  
-- [2022-03-01-为什么一个支付宝的付款码能扫出几个不同的公司？](https://www.v2ex.com/t/837233) ![](assets/new.png)  
-- [2022-03-01-OpenWRT-重新拨号后内网偶尔获取不到-IPv6-PD](https://www.v2ex.com/t/837232) ![](assets/new.png)  
-- [2022-03-01-「招人｜帮朋友转发」游戏服务端开发工程师-｜-Unity-游戏开发工程师](https://www.v2ex.com/t/837231) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -570,9 +570,9 @@
 - [2022-03-01-在-AlertManager-报警通知中展示监控图表](https://toutiao.io/k/3u2uz7c) ![](assets/new.png)  
 - [2022-03-01-数据平台SQL开发详解与函数使用](https://toutiao.io/k/1w6yrjt) ![](assets/new.png)  
 - [2022-03-01-Markdown文本转视频在线工具上线---md2vid](https://toutiao.io/k/cvz6t43) ![](assets/new.png)  
-- [2022-03-01-面试导论第二弹：看完HTTP协议的艰辛发家史，我悟到了......](https://toutiao.io/k/zpzptfs) ![](assets/new.png)  
 - [2022-03-01-星环-KunDB-2.2-发布，为高并发事务与查询混合的业务系统提供一个新选择](https://toutiao.io/k/znktqgr) ![](assets/new.png)  
-- [2022-03-01-推荐-一张图看懂微服务架构路线](https://toutiao.io/k/upx1qip) ![](assets/new.png)  
+- [2022-03-01-面试导论第二弹：看完HTTP协议的艰辛发家史，我悟到了......](https://toutiao.io/k/zpzptfs) ![](assets/new.png)  
+- [2022-03-01-推荐-【超赞】技术架构的战略和战术原则](https://toutiao.io/k/j9872pc) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

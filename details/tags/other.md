@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-03-02 11:12:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-03-02 11:36:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -6,12 +6,14 @@
 
 
 - [2022-03-02-最新疫情：全国新冠累计确诊109750例-累计接种新冠疫苗超31.35亿剂次](https://m.caixin.com/m/2022-03-02/101849589.html) 
+- [2022-03-02-上海8例新冠感染者均为同一老年舞蹈队-病毒毒株为奥密克戎](https://m.caixin.com/m/2022-03-02/101849650.html) 
 - [2022-03-02-香港单日新增逾5万宗病例-特首重申不“封城”](https://m.caixin.com/m/2022-03-02/101849609.html) 
-- [2022-03-02-深圳部分地区“扫楼”排查感染者-居民称柜子床底都要看](https://m.caixin.com/m/2022-03-02/101849116.html) 
-- [2022-03-02-健康码管理各自为政问题重重-人大代表建议全国“一码通行”](https://m.caixin.com/m/2022-03-02/101849377.html) 
+- [2022-03-02-数字说｜连续四日新增确诊超3万例-香港第五波疫情离拐点有多远？](https://datanews.caixin.com/m/2022-03-02/101849616.html) 
 - [2022-03-02-最新海外疫情：新冠感染超4.37亿-累计接种新冠疫苗超106.64亿剂次](https://m.caixin.com/m/2022-03-02/101849586.html) 
+- [2022-03-02-深圳部分地区“扫楼”排查感染者-居民称柜子床底都要看](https://m.caixin.com/m/2022-03-02/101849116.html) 
 - [2022-03-02-【境内疫情观察】广东新增32例本土病例（3月1日）](https://database.caixin.com/m/2022-03-02/101849330.html) 
 - [2022-03-02-研究称辉瑞疫苗对低龄儿童保护效力快速下降，Novavax争取疫苗全面批准｜大流行手记（3月1日）](https://m.caixin.com/m/2022-03-02/101849237.html) 
+- [2022-03-02-健康码管理各自为政问题重重-人大代表建议全国“一码通行”](https://m.caixin.com/m/2022-03-02/101849377.html) 
 - [2022-03-02-英国女王感染新冠一周后康复-与家人欢度周末时光](https://international.caixin.com/m/2022-03-02/101849261.html) 
 - [2022-03-01-港府拟从内地聘千名临时护工-月薪3.1万港元](https://companies.caixin.com/m/2022-03-01/101849018.html) 
 - [2022-03-01-上海普陀区新增1例本土确诊-两家三甲医院停诊](https://m.caixin.com/m/2022-03-01/101848818.html) 
@@ -1873,6 +1875,7 @@
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2022-02-04-HTML-inputmode与iOS-Android软键盘类型测试](https://www.zhangxinxu.com/wordpress/2022/02/html-inputmode-keyboard/) 
+- [2022-03-02-Windows-10-新打开的窗口永远在任务栏前面，挡住任务栏](https://www.v2ex.com/t/837524) 
 - [2022-03-02-请问数据库-Developer-有前途吗？](https://www.v2ex.com/t/837523) 
 - [2022-03-02-大佬们，请问为什么会有-254，-255-开头的-ip-访问-vps](https://www.v2ex.com/t/837521) 
 - [2022-03-02-上海-喜马拉雅总部---Java-、前端---20-35k*15-帮内推](https://www.v2ex.com/t/837520) 
@@ -1899,7 +1902,6 @@
 - [2022-03-02-airpods-pro-的-AC+-还有-10-天到期了，准备去换新。](https://www.v2ex.com/t/837481) 
 - [2022-03-02-深圳-Heighliner-云原生初创团队招早期创始员工-30-45k-*-16-+-期权](https://www.v2ex.com/t/837479) 
 - [2022-03-02-问一下大家一个-SQL-select-视图的问题](https://www.v2ex.com/t/837477) 
-- [2022-03-02-Python-程序健康检查问题](https://www.v2ex.com/t/837474) 
 - [2022-03-02-为什么会有TCPIP协议？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14960&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493487%26amp%3Bidx%3D1%26amp%3Bsn%3Dae7576870da25f743982f068bbc66cb8%26amp%3Bchksm%3Dfa3f0634cd488f226de44a1c25699248ed8c16e9953f97e0dee85a1d446b6414cef55042ae0f%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-03-02-分享一个完整的【停车系统】-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14958&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493484%26amp%3Bidx%3D1%26amp%3Bsn%3D2058998476be2536471f15549250c63d%26amp%3Bchksm%3Dfa3f0637cd488f2132af305dea472a02e7daaf2f9aa885f7b902a2f7407a40dca2bb165202d8%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-03-02-推荐3个快速开发平台项目经验又有着落了-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14956&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493479%26amp%3Bidx%3D1%26amp%3Bsn%3D8cdc4d51c317c4a548e2976e480bcee8%26amp%3Bchksm%3Dfa3f063ccd488f2a6678743a62fc58a2de268a1c03ed5949b62ff38454d0f417aa1ed662d0c1%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1922,10 +1924,10 @@
 - [2022-03-02-五分钟，手撸一个Spring容器！](https://toutiao.io/k/mjvymm8) 
 - [2022-03-02-简简单单的总结，意如生活的平淡](https://toutiao.io/k/b9plbg6) 
 - [2022-03-02-一文全面掌握大数据关联与汇聚](https://toutiao.io/k/kxyxfs6) 
+- [2022-03-02-推荐-一张图看懂微服务架构路线](https://toutiao.io/k/upx1qip) 
+- [2022-03-02-推荐-2万字，详解数据湖，概念、特征、架构、方案、场景以及建湖全过程（建议收藏）](https://toutiao.io/k/vcpzf1w) 
+- [2022-03-02-推荐-趣谈IO多路复用的本质](https://toutiao.io/k/j4nqhbc) 
+- [2022-03-02-推荐-【超赞】技术架构的战略和战术原则](https://toutiao.io/k/j9872pc) 
 - [2022-03-02-推荐-2021年最受程序员欢迎的开发工具TOP-100名单出炉！](https://toutiao.io/k/uf5vypr) 
 - [2022-03-02-推荐-Golang-简洁架构实战](https://toutiao.io/k/vjw1dlc) 
-- [2022-03-02-推荐-【超赞】技术架构的战略和战术原则](https://toutiao.io/k/j9872pc) 
-- [2022-03-02-推荐-2万字，详解数据湖，概念、特征、架构、方案、场景以及建湖全过程（建议收藏）](https://toutiao.io/k/vcpzf1w) 
-- [2022-03-02-推荐-一张图看懂微服务架构路线](https://toutiao.io/k/upx1qip) 
 - [2022-03-02-推荐-ClickHouse使用实践与规范](https://toutiao.io/k/fb7mdkl) 
-- [2022-03-02-推荐-趣谈IO多路复用的本质](https://toutiao.io/k/j4nqhbc) 

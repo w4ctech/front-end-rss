@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-03-02 16:54:06。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-03-02 17:14:39。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -17,4 +17,3 @@
 - [2021-12-29-JS-标签模板（Tagged-templates）什么时候使用？](https://www.zhangxinxu.com/wordpress/2021/12/js-tagged-templates/) 
 - [2021-12-20-深入JS-getRandomValues和Math.random方法](https://www.zhangxinxu.com/wordpress/2021/12/js-getrandomvalue-math-random/) 
 - [2022-03-02-2022-强力之作：一款超精致的图片预览组件](https://www.v2ex.com/t/837557) 
-- [2022-03-02-帮人安装服务器虚拟化系统+软路由系统，人工成本收费多少合适？](https://www.v2ex.com/t/837517) 

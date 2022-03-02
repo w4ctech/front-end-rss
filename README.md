@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-03-02 06:45:56，:rocket: 更新条数: +1984， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-03-02 07:12:45，:rocket: 更新条数: +1985， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -68,6 +68,7 @@
 - [2022-03-02-3月1日全国新增新冠224例-12省份本土71例](https://m.caixin.com/m/2022-03-02/101849174.html) ![](assets/new.png)  
 - [2022-03-02-深圳部分地区“扫楼”排查感染者-居民称柜子床底都要看](https://m.caixin.com/m/2022-03-02/101849116.html) ![](assets/new.png)  
 - [2022-03-02-英国女王感染新冠一周后康复-与家人欢度周末时光](https://international.caixin.com/m/2022-03-02/101849261.html) ![](assets/new.png)  
+- [2022-03-02-【境内疫情观察】广东新增32例本土病例（3月1日）](https://database.caixin.com/m/2022-03-02/101849330.html) ![](assets/new.png)  
 - [2022-03-02-研究称辉瑞疫苗对低龄儿童保护效力快速下降，Novavax争取疫苗全面批准｜大流行手记（3月1日）](https://m.caixin.com/m/2022-03-02/101849237.html) ![](assets/new.png)  
 - [2022-03-01-港府拟从内地聘千名临时护工-月薪3.1万港元](https://companies.caixin.com/m/2022-03-01/101849018.html) ![](assets/new.png)  
 - [2022-03-01-最新海外疫情：新冠感染超4.36亿-累计接种新冠疫苗超106.37亿剂次](https://m.caixin.com/m/2022-03-01/101848998.html) ![](assets/new.png)  
@@ -84,7 +85,6 @@
 - [2022-02-27-深圳本轮疫情感染者增至百例-两机构违反防疫规定被立案](https://m.caixin.com/m/2022-02-27/101847766.html) ![](assets/new.png)  
 - [2022-02-27-【境内疫情观察】广东新增48例本土病例（2月26日）](https://database.caixin.com/m/2022-02-27/101847753.html) ![](assets/new.png)  
 - [2022-02-27-乌克兰危机或加剧疫情蔓延，新西兰传染指数现居全球首位｜大流行手记（2月25日）](https://m.caixin.com/m/2022-02-27/101847682.html) ![](assets/new.png)  
-- [2022-02-26-深圳科兴科学园开展疫情排查-数万人提前下班](https://m.caixin.com/m/2022-02-26/101847366.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -491,6 +491,10 @@
 </summary>
 
 
+- [2022-03-02-提一个图片转数字的问题？](https://www.v2ex.com/t/837443) ![](assets/new.png)  
+- [2022-03-02-MDN-改版了-https://hacks.mozilla.org/2022/03/a-new-year-a-new-mdn/](https://www.v2ex.com/t/837441) ![](assets/new.png)  
+- [2022-03-02-问一个-PPTP-服务端访问客户端子网的问题](https://www.v2ex.com/t/837440) ![](assets/new.png)  
+- [2022-03-02-互联网越来越不开放了，大家觉得呢？](https://www.v2ex.com/t/837439) ![](assets/new.png)  
 - [2022-03-02-跟我一起手写-Redux-视频/17-集/免费/附源码](https://www.v2ex.com/t/837438) ![](assets/new.png)  
 - [2022-03-02-notion-自定义域名的问题](https://www.v2ex.com/t/837437) ![](assets/new.png)  
 - [2022-03-02-博客根据文章内容跑自然语言分析自动识别关键字，有什么廉价的实现方法吗？](https://www.v2ex.com/t/837436) ![](assets/new.png)  
@@ -507,10 +511,6 @@
 - [2022-03-02-突然出现的问题很困惑](https://www.v2ex.com/t/837421) ![](assets/new.png)  
 - [2022-03-02-双非本科-大二在校-该学些什么](https://www.v2ex.com/t/837420) ![](assets/new.png)  
 - [2022-03-02-最近个税申报，关于“专项附加扣除”中的“住房租金”有几个疑问请教下](https://www.v2ex.com/t/837419) ![](assets/new.png)  
-- [2022-03-02-玩转-DevOps-工具链从未如此简单，开源项目-DevStream-v0.1.0-Release-可以尝尝鲜](https://www.v2ex.com/t/837417) ![](assets/new.png)  
-- [2022-03-02-Ubuntu-如何永久修改-MAC-地址？](https://www.v2ex.com/t/837416) ![](assets/new.png)  
-- [2022-03-02-notion-上传文件大小限定在-5G?](https://www.v2ex.com/t/837414) ![](assets/new.png)  
-- [2022-03-02-米哈游-上海&新加坡-米哈游社招&&校招-金三内推专场](https://www.v2ex.com/t/837413) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -567,12 +567,12 @@
 - [2022-03-02-ASP.NET-Core基于滑动窗口算法实现限流控制](https://toutiao.io/k/t0o2x09) ![](assets/new.png)  
 - [2022-03-02-聊聊并发编程的10个坑](https://toutiao.io/k/0sy35hu) ![](assets/new.png)  
 - [2022-03-02-五分钟，手撸一个Spring容器！](https://toutiao.io/k/mjvymm8) ![](assets/new.png)  
-- [2022-03-02-一文全面掌握大数据关联与汇聚](https://toutiao.io/k/kxyxfs6) ![](assets/new.png)  
 - [2022-03-02-开源｜一款简洁好用的数据库表结构文档生成工具](https://toutiao.io/k/e2mzgaf) ![](assets/new.png)  
-- [2022-03-02-推荐-趣谈IO多路复用的本质](https://toutiao.io/k/j4nqhbc) ![](assets/new.png)  
-- [2022-03-02-推荐-Golang-简洁架构实战](https://toutiao.io/k/vjw1dlc) ![](assets/new.png)  
+- [2022-03-02-一文全面掌握大数据关联与汇聚](https://toutiao.io/k/kxyxfs6) ![](assets/new.png)  
 - [2022-03-02-推荐-2万字，详解数据湖，概念、特征、架构、方案、场景以及建湖全过程（建议收藏）](https://toutiao.io/k/vcpzf1w) ![](assets/new.png)  
+- [2022-03-02-推荐-Golang-简洁架构实战](https://toutiao.io/k/vjw1dlc) ![](assets/new.png)  
 - [2022-03-02-推荐-一张图看懂微服务架构路线](https://toutiao.io/k/upx1qip) ![](assets/new.png)  
+- [2022-03-02-推荐-【超赞】技术架构的战略和战术原则](https://toutiao.io/k/j9872pc) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

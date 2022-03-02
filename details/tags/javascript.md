@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-03-01 23:38:14。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-03-02 00:50:43。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -17,5 +17,3 @@
 - [2021-12-29-JS-标签模板（Tagged-templates）什么时候使用？](https://www.zhangxinxu.com/wordpress/2021/12/js-tagged-templates/) 
 - [2021-12-20-深入JS-getRandomValues和Math.random方法](https://www.zhangxinxu.com/wordpress/2021/12/js-getrandomvalue-math-random/) 
 - [2022-03-01-Mac-天气预报小组件经常显示一片空白是怎么回事](https://www.v2ex.com/t/837280) 
-- [2022-03-01-【第2540期】来自Stateofjs调查，JavaScript-2021年度报告正式发布！](https://toutiao.io/k/3k5m5b3) 
-- [2022-03-01-80-行代码实现简易-RxJS](https://toutiao.io/k/uei46sb) 

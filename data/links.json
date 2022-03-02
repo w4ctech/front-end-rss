@@ -9763,7 +9763,37 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
-        "title": "[北京] 亚马逊 招聘 iOS/Android 开发工程师",
+        "title": "xshell 和 xftp 终于支持跨平台了",
+        "link": "https://www.v2ex.com/t/837538",
+        "date": "2022-03-02"
+      },
+      {
+        "title": "[青岛] 招聘高级软件工程师 [后端]",
+        "link": "https://www.v2ex.com/t/837537",
+        "date": "2022-03-02"
+      },
+      {
+        "title": "网络安全在读大学生暑假工",
+        "link": "https://www.v2ex.com/t/837535",
+        "date": "2022-03-02"
+      },
+      {
+        "title": "Office 365 的 Excel 有 Google Sheets 这样的汇率折线功能吗？",
+        "link": "https://www.v2ex.com/t/837534",
+        "date": "2022-03-02"
+      },
+      {
+        "title": "考虑换 win 本了， macOS 下的这些软件 windows 系统有替代品吗？",
+        "link": "https://www.v2ex.com/t/837533",
+        "date": "2022-03-02"
+      },
+      {
+        "title": "[深圳]复临科技有限公司海外团队大力招募（ones）",
+        "link": "https://www.v2ex.com/t/837532",
+        "date": "2022-03-02"
+      },
+      {
+        "title": "[北京] 亚马逊 招聘 iOS/Android 工程师",
         "link": "https://www.v2ex.com/t/837530",
         "date": "2022-03-02"
       },
@@ -9915,26 +9945,6 @@
       {
         "title": "拼音或首字母快速检索信息一般是怎么实现的。",
         "link": "https://www.v2ex.com/t/837489",
-        "date": "2022-03-02"
-      },
-      {
-        "title": "SVN 中如何知道自己有哪些项目的权限？",
-        "link": "https://www.v2ex.com/t/837485",
-        "date": "2022-03-02"
-      },
-      {
-        "title": "[北京]小而美外企招聘",
-        "link": "https://www.v2ex.com/t/837484",
-        "date": "2022-03-02"
-      },
-      {
-        "title": "三圣乡附近的美食",
-        "link": "https://www.v2ex.com/t/837483",
-        "date": "2022-03-02"
-      },
-      {
-        "title": "海边的曼彻斯特",
-        "link": "https://www.v2ex.com/t/837482",
         "date": "2022-03-02"
       }
     ]
@@ -10137,8 +10147,23 @@
         "date": "2022-03-02"
       },
       {
+        "title": "[推荐] 2万字，详解数据湖，概念、特征、架构、方案、场景以及建湖全过程（建议收藏）",
+        "link": "https://toutiao.io/k/vcpzf1w",
+        "date": "2022-03-02"
+      },
+      {
         "title": "[推荐] 趣谈IO多路复用的本质",
         "link": "https://toutiao.io/k/j4nqhbc",
+        "date": "2022-03-02"
+      },
+      {
+        "title": "[推荐] 一张图看懂微服务架构路线",
+        "link": "https://toutiao.io/k/upx1qip",
+        "date": "2022-03-02"
+      },
+      {
+        "title": "[推荐] 2021年最受程序员欢迎的开发工具TOP 100名单出炉！",
+        "link": "https://toutiao.io/k/uf5vypr",
         "date": "2022-03-02"
       },
       {
@@ -10149,21 +10174,6 @@
       {
         "title": "[推荐] ClickHouse使用实践与规范",
         "link": "https://toutiao.io/k/fb7mdkl",
-        "date": "2022-03-02"
-      },
-      {
-        "title": "[推荐] 2021年最受程序员欢迎的开发工具TOP 100名单出炉！",
-        "link": "https://toutiao.io/k/uf5vypr",
-        "date": "2022-03-02"
-      },
-      {
-        "title": "[推荐] 2万字，详解数据湖，概念、特征、架构、方案、场景以及建湖全过程（建议收藏）",
-        "link": "https://toutiao.io/k/vcpzf1w",
-        "date": "2022-03-02"
-      },
-      {
-        "title": "[推荐] 一张图看懂微服务架构路线",
-        "link": "https://toutiao.io/k/upx1qip",
         "date": "2022-03-02"
       }
     ]

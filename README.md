@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-03-02 12:20:26，:rocket: 更新条数: +1986， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-03-02 12:57:13，:rocket: 更新条数: +1988， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,7 +491,13 @@
 </summary>
 
 
-- [2022-03-02-北京-亚马逊-招聘-iOS/Android-开发工程师](https://www.v2ex.com/t/837530) ![](assets/new.png)  
+- [2022-03-02-xshell-和-xftp-终于支持跨平台了](https://www.v2ex.com/t/837538) ![](assets/new.png)  
+- [2022-03-02-青岛-招聘高级软件工程师-后端](https://www.v2ex.com/t/837537) ![](assets/new.png)  
+- [2022-03-02-网络安全在读大学生暑假工](https://www.v2ex.com/t/837535) ![](assets/new.png)  
+- [2022-03-02-Office-365-的-Excel-有-Google-Sheets-这样的汇率折线功能吗？](https://www.v2ex.com/t/837534) ![](assets/new.png)  
+- [2022-03-02-考虑换-win-本了，-macOS-下的这些软件-windows-系统有替代品吗？](https://www.v2ex.com/t/837533) ![](assets/new.png)  
+- [2022-03-02-深圳复临科技有限公司海外团队大力招募（ones）](https://www.v2ex.com/t/837532) ![](assets/new.png)  
+- [2022-03-02-北京-亚马逊-招聘-iOS/Android-工程师](https://www.v2ex.com/t/837530) ![](assets/new.png)  
 - [2022-03-02-公司的产品经理什么也不会，只会催进度怎么办](https://www.v2ex.com/t/837529) ![](assets/new.png)  
 - [2022-03-02-rDNS：一种可能的解决谷歌学术-403-错误的方法](https://www.v2ex.com/t/837528) ![](assets/new.png)  
 - [2022-03-02-中级-CA-门槛](https://www.v2ex.com/t/837526) ![](assets/new.png)  
@@ -505,12 +511,6 @@
 - [2022-03-02-spark-做内容推荐，希望大佬给一些思路上的指导](https://www.v2ex.com/t/837514) ![](assets/new.png)  
 - [2022-03-02-宽带到期急收，北京收个宽带，-8-个月至一年的都可以，有的联系](https://www.v2ex.com/t/837513) ![](assets/new.png)  
 - [2022-03-02-想问下最近前端热门的培训班项目-demo-有什么](https://www.v2ex.com/t/837512) ![](assets/new.png)  
-- [2022-03-02-mac-下-App-Store-怎么赠送付费-App-给别人?](https://www.v2ex.com/t/837511) ![](assets/new.png)  
-- [2022-03-02-vue-项目，同一版本-node、npm，-windows-可以编译，-Linux-不行](https://www.v2ex.com/t/837509) ![](assets/new.png)  
-- [2022-03-02-存在-OSS-上的-mp4-文件如何加密禁止下载](https://www.v2ex.com/t/837508) ![](assets/new.png)  
-- [2022-03-02-tiktok-直播网络需求](https://www.v2ex.com/t/837507) ![](assets/new.png)  
-- [2022-03-02-Microsoft-帐户删除之后无法再被注册？](https://www.v2ex.com/t/837506) ![](assets/new.png)  
-- [2022-03-02-求问上海-2500-在哪里可以租到干净点的一室一厅](https://www.v2ex.com/t/837504) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -570,9 +570,9 @@
 - [2022-03-02-ASP.NET-Core基于滑动窗口算法实现限流控制](https://toutiao.io/k/t0o2x09) ![](assets/new.png)  
 - [2022-03-02-一文全面掌握大数据关联与汇聚](https://toutiao.io/k/kxyxfs6) ![](assets/new.png)  
 - [2022-03-02-推荐-【超赞】技术架构的战略和战术原则](https://toutiao.io/k/j9872pc) ![](assets/new.png)  
+- [2022-03-02-推荐-2万字，详解数据湖，概念、特征、架构、方案、场景以及建湖全过程（建议收藏）](https://toutiao.io/k/vcpzf1w) ![](assets/new.png)  
 - [2022-03-02-推荐-趣谈IO多路复用的本质](https://toutiao.io/k/j4nqhbc) ![](assets/new.png)  
-- [2022-03-02-推荐-Golang-简洁架构实战](https://toutiao.io/k/vjw1dlc) ![](assets/new.png)  
-- [2022-03-02-推荐-ClickHouse使用实践与规范](https://toutiao.io/k/fb7mdkl) ![](assets/new.png)  
+- [2022-03-02-推荐-一张图看懂微服务架构路线](https://toutiao.io/k/upx1qip) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

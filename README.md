@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-03-02 03:40:00，:rocket: 更新条数: +1976， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-03-02 04:16:37，:rocket: 更新条数: +1978， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -67,6 +67,7 @@
 
 - [2022-03-02-3月1日全国新增新冠224例-12省份本土71例](https://m.caixin.com/m/2022-03-02/101849174.html) ![](assets/new.png)  
 - [2022-03-02-深圳部分地区“扫楼”排查感染者-居民称柜子床底都要看](https://m.caixin.com/m/2022-03-02/101849116.html) ![](assets/new.png)  
+- [2022-03-02-研究称辉瑞疫苗对低龄儿童保护效力快速下降，Novavax争取疫苗全面批准｜大流行手记（3月1日）](https://m.caixin.com/m/2022-03-02/101849237.html) ![](assets/new.png)  
 - [2022-03-01-港府拟从内地聘千名临时护工-月薪3.1万港元](https://companies.caixin.com/m/2022-03-01/101849018.html) ![](assets/new.png)  
 - [2022-03-01-上海普陀区新增1例本土确诊-两家三甲医院停诊](https://m.caixin.com/m/2022-03-01/101848818.html) ![](assets/new.png)  
 - [2022-03-01-最新海外疫情：新冠感染超4.36亿-累计接种新冠疫苗超106.37亿剂次](https://m.caixin.com/m/2022-03-01/101848998.html) ![](assets/new.png)  
@@ -84,7 +85,6 @@
 - [2022-02-27-乌克兰危机或加剧疫情蔓延，新西兰传染指数现居全球首位｜大流行手记（2月25日）](https://m.caixin.com/m/2022-02-27/101847682.html) ![](assets/new.png)  
 - [2022-02-26-深圳科兴科学园开展疫情排查-数万人提前下班](https://m.caixin.com/m/2022-02-26/101847366.html) ![](assets/new.png)  
 - [2022-02-26-【境内疫情观察】广东新增30例本土病例（2月25日）](https://database.caixin.com/m/2022-02-26/101847544.html) ![](assets/new.png)  
-- [2022-02-26-美大幅放宽室内口罩指南-香港单日新增病例破万｜大流行手记（2月25日）](https://m.caixin.com/m/2022-02-26/101847412.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -491,6 +491,17 @@
 </summary>
 
 
+- [2022-03-02-陪母亲看病之医院见闻](https://www.v2ex.com/t/837391) ![](assets/new.png)  
+- [2022-03-02-上海-7-8-年经验-Java-后端找个地方收留](https://www.v2ex.com/t/837390) ![](assets/new.png)  
+- [2022-03-02-关于苹果停止俄罗斯-Apple-Pay-的想法](https://www.v2ex.com/t/837389) ![](assets/new.png)  
+- [2022-03-02-服务器网络可以走-CDN？](https://www.v2ex.com/t/837388) ![](assets/new.png)  
+- [2022-03-02-ts-小白问个问题](https://www.v2ex.com/t/837386) ![](assets/new.png)  
+- [2022-03-02-u2723qe-无法以暗角大为由进行换货，想退了附对比](https://www.v2ex.com/t/837385) ![](assets/new.png)  
+- [2022-03-02-关于在线人数技术指标看起来没有任何标准吗](https://www.v2ex.com/t/837384) ![](assets/new.png)  
+- [2022-03-02-凉了凉了，竟然有警方监控我，还要罚款，吓死了...](https://www.v2ex.com/t/837383) ![](assets/new.png)  
+- [2022-03-02-有在国行-apple-watch-上成功开启-fitness+-time-to-run-功能的同学吗？](https://www.v2ex.com/t/837382) ![](assets/new.png)  
+- [2022-03-02-几个腾讯会议的网络研讨会-Webinar-问题](https://www.v2ex.com/t/837379) ![](assets/new.png)  
+- [2022-03-02-上海的互联网创业者交流群，留下你的-vx-，我来加你](https://www.v2ex.com/t/837378) ![](assets/new.png)  
 - [2022-03-02-移动硬盘格式化成什么格式可以方便在-macOS-和-Windows-之间无缝使用？](https://www.v2ex.com/t/837377) ![](assets/new.png)  
 - [2022-03-02-有没有这样的-ML-项目，读取/扫描大量的图然后转成-AutoCAD-的文件格式-dwg/dxf](https://www.v2ex.com/t/837375) ![](assets/new.png)  
 - [2022-03-02-求前端兼职-6-年+前端，时间充裕，求远程兼职](https://www.v2ex.com/t/837373) ![](assets/new.png)  
@@ -500,17 +511,6 @@
 - [2022-03-02-推荐一个基于-WebKit-的浏览器---Orion](https://www.v2ex.com/t/837369) ![](assets/new.png)  
 - [2022-03-02-一个不做饭的人在疫情严重的时候家里应该准备什么以防居家隔离](https://www.v2ex.com/t/837368) ![](assets/new.png)  
 - [2022-03-02-请问怎样关闭-Safari-的翻译功能](https://www.v2ex.com/t/837367) ![](assets/new.png)  
-- [2022-03-02-坐标上海，-4-年经验-Java-求职](https://www.v2ex.com/t/837366) ![](assets/new.png)  
-- [2022-03-02-蚂蚁集团-2023-届实习生招聘开始了，可以加群一起交流关注一波-,-欢迎大家一起交流探讨！](https://www.v2ex.com/t/837365) ![](assets/new.png)  
-- [2022-03-02-说到可维护，-vue-react-等哪个框架更有优势？](https://www.v2ex.com/t/837364) ![](assets/new.png)  
-- [2022-03-02-Micro-Focus-内推中高级-Java-、Android、QA、C++-工程师，欢迎各位大佬联系](https://www.v2ex.com/t/837363) ![](assets/new.png)  
-- [2022-03-02-Apple-支持的所谓高级/顾问真的是一群***](https://www.v2ex.com/t/837362) ![](assets/new.png)  
-- [2022-03-02-杭州/北京校招内推蚂蚁金服大前端网商银行信息科技移动渠道部-2023-届校招](https://www.v2ex.com/t/837359) ![](assets/new.png)  
-- [2022-03-02-离大谱，-13pro-的待机耗电堪称恐怖！](https://www.v2ex.com/t/837358) ![](assets/new.png)  
-- [2022-03-02-在-Sqlite-中，怎么查询树形结构的-JSON-数据](https://www.v2ex.com/t/837357) ![](assets/new.png)  
-- [2022-03-02-国区-apple-ID-在-appstore-的余额能看花在哪吗？](https://www.v2ex.com/t/837356) ![](assets/new.png)  
-- [2022-03-02-北京/上海/杭州/深圳-抖音基础技术-iOS-开发（研发效能方向/稳定性/-Swift-/全栈/架构等方向）](https://www.v2ex.com/t/837354) ![](assets/new.png)  
-- [2022-03-02-绩效背锅了，年终奖低的超出预期](https://www.v2ex.com/t/837353) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -561,16 +561,16 @@
 - [2022-03-02-支持Python-3.10，OpenAI强化学习工具包Gym迎来史上最大更新](https://toutiao.io/k/b3wu60z) ![](assets/new.png)  
 - [2022-03-02-实现快速准确的图像识别神经网络](https://toutiao.io/k/u8rlcan) ![](assets/new.png)  
 - [2022-03-02-一起聊聊工作中的功能安全测试](https://toutiao.io/k/56s9ila) ![](assets/new.png)  
-- [2022-03-02-简简单单的总结，意如生活的平淡](https://toutiao.io/k/b9plbg6) ![](assets/new.png)  
-- [2022-03-02-【文稿】小程序分包的一些思考及Uiniapp-分包优化逻辑的验证](https://toutiao.io/k/6c8b7rs) ![](assets/new.png)  
-- [2022-03-02-ASP.NET-Core基于滑动窗口算法实现限流控制](https://toutiao.io/k/t0o2x09) ![](assets/new.png)  
 - [2022-03-02-DM-中-relay-log-性能优化实践丨TiDB-工具分享](https://toutiao.io/k/hydxer5) ![](assets/new.png)  
+- [2022-03-02-【文稿】小程序分包的一些思考及Uiniapp-分包优化逻辑的验证](https://toutiao.io/k/6c8b7rs) ![](assets/new.png)  
+- [2022-03-02-简简单单的总结，意如生活的平淡](https://toutiao.io/k/b9plbg6) ![](assets/new.png)  
+- [2022-03-02-ASP.NET-Core基于滑动窗口算法实现限流控制](https://toutiao.io/k/t0o2x09) ![](assets/new.png)  
 - [2022-03-02-推荐-趣谈IO多路复用的本质](https://toutiao.io/k/j4nqhbc) ![](assets/new.png)  
 - [2022-03-02-推荐-Golang-简洁架构实战](https://toutiao.io/k/vjw1dlc) ![](assets/new.png)  
-- [2022-03-02-推荐-一张图看懂微服务架构路线](https://toutiao.io/k/upx1qip) ![](assets/new.png)  
-- [2022-03-02-推荐-2021年最受程序员欢迎的开发工具TOP-100名单出炉！](https://toutiao.io/k/uf5vypr) ![](assets/new.png)  
 - [2022-03-02-推荐-2万字，详解数据湖，概念、特征、架构、方案、场景以及建湖全过程（建议收藏）](https://toutiao.io/k/vcpzf1w) ![](assets/new.png)  
 - [2022-03-02-推荐-ClickHouse使用实践与规范](https://toutiao.io/k/fb7mdkl) ![](assets/new.png)  
+- [2022-03-02-推荐-2021年最受程序员欢迎的开发工具TOP-100名单出炉！](https://toutiao.io/k/uf5vypr) ![](assets/new.png)  
+- [2022-03-02-推荐-一张图看懂微服务架构路线](https://toutiao.io/k/upx1qip) ![](assets/new.png)  
 - [2022-03-02-推荐-【超赞】技术架构的战略和战术原则](https://toutiao.io/k/j9872pc) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

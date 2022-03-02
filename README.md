@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-03-02 10:14:46，:rocket: 更新条数: +1984， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-03-02 10:40:41，:rocket: 更新条数: +1983， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -65,13 +65,13 @@
 </summary>
 
 
-- [2022-03-02-3月1日全国新增新冠224例-12省份本土71例](https://m.caixin.com/m/2022-03-02/101849174.html) ![](assets/new.png)  
+- [2022-03-02-最新疫情：全国新冠累计确诊109750例-累计接种新冠疫苗超31.35亿剂次](https://m.caixin.com/m/2022-03-02/101849589.html) ![](assets/new.png)  
 - [2022-03-02-深圳部分地区“扫楼”排查感染者-居民称柜子床底都要看](https://m.caixin.com/m/2022-03-02/101849116.html) ![](assets/new.png)  
 - [2022-03-02-健康码管理各自为政问题重重-人大代表建议全国“一码通行”](https://m.caixin.com/m/2022-03-02/101849377.html) ![](assets/new.png)  
 - [2022-03-02-英国女王感染新冠一周后康复-与家人欢度周末时光](https://international.caixin.com/m/2022-03-02/101849261.html) ![](assets/new.png)  
+- [2022-03-02-最新海外疫情：新冠感染超4.37亿-累计接种新冠疫苗超106.64亿剂次](https://m.caixin.com/m/2022-03-02/101849586.html) ![](assets/new.png)  
 - [2022-03-02-【境内疫情观察】广东新增32例本土病例（3月1日）](https://database.caixin.com/m/2022-03-02/101849330.html) ![](assets/new.png)  
 - [2022-03-02-研究称辉瑞疫苗对低龄儿童保护效力快速下降，Novavax争取疫苗全面批准｜大流行手记（3月1日）](https://m.caixin.com/m/2022-03-02/101849237.html) ![](assets/new.png)  
-- [2022-03-01-最新海外疫情：新冠感染超4.36亿-累计接种新冠疫苗超106.37亿剂次](https://m.caixin.com/m/2022-03-01/101848998.html) ![](assets/new.png)  
 - [2022-03-01-港府拟从内地聘千名临时护工-月薪3.1万港元](https://companies.caixin.com/m/2022-03-01/101849018.html) ![](assets/new.png)  
 - [2022-03-01-上海普陀区新增1例本土确诊-两家三甲医院停诊](https://m.caixin.com/m/2022-03-01/101848818.html) ![](assets/new.png)  
 - [2022-03-01-全民检测或将禁足-香港出现持续抢购潮](https://m.caixin.com/m/2022-03-01/101848658.html) ![](assets/new.png)  
@@ -491,6 +491,10 @@
 </summary>
 
 
+- [2022-03-02-spark-做内容推荐，希望大佬给一些思路上的指导](https://www.v2ex.com/t/837514) ![](assets/new.png)  
+- [2022-03-02-宽带到期急收，北京收个宽带，-8-个月至一年的都可以，有的联系](https://www.v2ex.com/t/837513) ![](assets/new.png)  
+- [2022-03-02-想问下最近前端热门的培训班项目-demo-有什么](https://www.v2ex.com/t/837512) ![](assets/new.png)  
+- [2022-03-02-mac-下-App-Store-怎么赠送付费-App-给别人?](https://www.v2ex.com/t/837511) ![](assets/new.png)  
 - [2022-03-02-vue-项目，同一版本-node、npm，-windows-可以编译，-Linux-不行](https://www.v2ex.com/t/837509) ![](assets/new.png)  
 - [2022-03-02-存在-OSS-上的-mp4-文件如何加密禁止下载](https://www.v2ex.com/t/837508) ![](assets/new.png)  
 - [2022-03-02-tiktok-直播网络需求](https://www.v2ex.com/t/837507) ![](assets/new.png)  
@@ -501,16 +505,12 @@
 - [2022-03-02-.NET-程序员命名都这么野的吗？](https://www.v2ex.com/t/837500) ![](assets/new.png)  
 - [2022-03-02-Django-线上项目-项目启动时使用了大量外键，一对一，一对多，多对多的关联，-现在需要去除外键依赖，该怎么去除？](https://www.v2ex.com/t/837499) ![](assets/new.png)  
 - [2022-03-02-一线城市三年经验前端薪资应该要多少？需要会写什么呀？](https://www.v2ex.com/t/837497) ![](assets/new.png)  
-- [2022-03-02-请大佬们留下你最推荐的、值得学习的优质-github-代码仓库](https://www.v2ex.com/t/837496) ![](assets/new.png)  
 - [2022-03-02-Windows-软件里不能复制，有没有办法破解？](https://www.v2ex.com/t/837495) ![](assets/new.png)  
 - [2022-03-02-求教！-Mac-上有没有什么好用而又优雅的个人财物状况管理软件？](https://www.v2ex.com/t/837494) ![](assets/new.png)  
 - [2022-03-02-程序员的主业已经逐渐稳定了，想探索人生的另外一种可能性](https://www.v2ex.com/t/837492) ![](assets/new.png)  
 - [2022-03-02-拖拽时默认的橡皮筋效果，它的参数从哪里获取呢？](https://www.v2ex.com/t/837491) ![](assets/new.png)  
 - [2022-03-02-开发了个全新风格类似的-V2EX，兄弟萌帮我看看](https://www.v2ex.com/t/837490) ![](assets/new.png)  
 - [2022-03-02-拼音或首字母快速检索信息一般是怎么实现的。](https://www.v2ex.com/t/837489) ![](assets/new.png)  
-- [2022-03-02-SVN-中如何知道自己有哪些项目的权限？](https://www.v2ex.com/t/837485) ![](assets/new.png)  
-- [2022-03-02-北京小而美外企招聘](https://www.v2ex.com/t/837484) ![](assets/new.png)  
-- [2022-03-02-三圣乡附近的美食](https://www.v2ex.com/t/837483) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -562,17 +562,17 @@
 - [2022-03-02-支持Python-3.10，OpenAI强化学习工具包Gym迎来史上最大更新](https://toutiao.io/k/b3wu60z) ![](assets/new.png)  
 - [2022-03-02-一起聊聊工作中的功能安全测试](https://toutiao.io/k/56s9ila) ![](assets/new.png)  
 - [2022-03-02-【文稿】小程序分包的一些思考及Uiniapp-分包优化逻辑的验证](https://toutiao.io/k/6c8b7rs) ![](assets/new.png)  
+- [2022-03-02-开源｜一款简洁好用的数据库表结构文档生成工具](https://toutiao.io/k/e2mzgaf) ![](assets/new.png)  
 - [2022-03-02-聊聊并发编程的10个坑](https://toutiao.io/k/0sy35hu) ![](assets/new.png)  
 - [2022-03-02-五分钟，手撸一个Spring容器！](https://toutiao.io/k/mjvymm8) ![](assets/new.png)  
 - [2022-03-02-简简单单的总结，意如生活的平淡](https://toutiao.io/k/b9plbg6) ![](assets/new.png)  
 - [2022-03-02-DM-中-relay-log-性能优化实践丨TiDB-工具分享](https://toutiao.io/k/hydxer5) ![](assets/new.png)  
 - [2022-03-02-ASP.NET-Core基于滑动窗口算法实现限流控制](https://toutiao.io/k/t0o2x09) ![](assets/new.png)  
-- [2022-03-02-开源｜一款简洁好用的数据库表结构文档生成工具](https://toutiao.io/k/e2mzgaf) ![](assets/new.png)  
 - [2022-03-02-一文全面掌握大数据关联与汇聚](https://toutiao.io/k/kxyxfs6) ![](assets/new.png)  
+- [2022-03-02-推荐-一张图看懂微服务架构路线](https://toutiao.io/k/upx1qip) ![](assets/new.png)  
+- [2022-03-02-推荐-Golang-简洁架构实战](https://toutiao.io/k/vjw1dlc) ![](assets/new.png)  
 - [2022-03-02-推荐-ClickHouse使用实践与规范](https://toutiao.io/k/fb7mdkl) ![](assets/new.png)  
 - [2022-03-02-推荐-2021年最受程序员欢迎的开发工具TOP-100名单出炉！](https://toutiao.io/k/uf5vypr) ![](assets/new.png)  
-- [2022-03-02-推荐-2万字，详解数据湖，概念、特征、架构、方案、场景以及建湖全过程（建议收藏）](https://toutiao.io/k/vcpzf1w) ![](assets/new.png)  
-- [2022-03-02-推荐-Golang-简洁架构实战](https://toutiao.io/k/vjw1dlc) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

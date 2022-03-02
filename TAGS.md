@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-03-02 08:16:25。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-03-02 08:42:41。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -356,6 +356,8 @@
 
 
 
+- [【V2EX】北京/杭州-PingCAP-Chaos-Mesh-招聘前端工程师啦，欢迎加入我们！](https://www.v2ex.com/t/837476)
+- [【V2EX】上海|广东|北京-声网前端,后端,产品大量岗位招聘](https://www.v2ex.com/t/837475)
 - [......【查看更多】......](./details/tags/job-interview.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

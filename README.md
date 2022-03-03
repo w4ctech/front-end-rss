@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-03-03 08:41:47，:rocket: 更新条数: +2006， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-03-03 09:14:21，:rocket: 更新条数: +2001， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -65,16 +65,15 @@
 </summary>
 
 
-- [2022-03-03-3月2日全国新增新冠214例-13省份本土54例](https://m.caixin.com/m/2022-03-03/101849839.html) ![](assets/new.png)  
+- [2022-03-03-最新疫情：全国新冠累计确诊109964例-累计接种新冠疫苗超31.41亿剂次](https://m.caixin.com/m/2022-03-03/101850102.html) ![](assets/new.png)  
 - [2022-03-03-研究：华南海鲜市场的新冠病毒或来自人而非动物](https://science.caixin.com/m/2022-03-03/101849954.html) ![](assets/new.png)  
+- [2022-03-03-最新海外疫情：新冠感染超4.39亿-累计接种新冠疫苗超107.03亿剂次](https://m.caixin.com/m/2022-03-03/101850097.html) ![](assets/new.png)  
 - [2022-03-03-【境内疫情观察】广东新增28例本土病例（3月2日）](https://database.caixin.com/m/2022-03-03/101850027.html) ![](assets/new.png)  
 - [2022-03-03-美国更新疫情应对计划-世卫推荐默沙东口服药用于高危人群｜大流行手记（3月2日）](https://m.caixin.com/m/2022-03-03/101849872.html) ![](assets/new.png)  
 - [2022-03-03-【图集】香港新增55353例确诊病例-再创单日新高](https://photos.caixin.com/m/2022-03-03/101849875.html) ![](assets/new.png)  
 - [2022-03-02-深圳本轮疫情感染者达190例-搭乘地铁需持48小时核酸阴性证明](https://m.caixin.com/m/2022-03-02/101849740.html) ![](assets/new.png)  
 - [2022-03-02-上海8例新冠感染者均为同一老年舞蹈队-病毒毒株为奥密克戎](https://m.caixin.com/m/2022-03-02/101849650.html) ![](assets/new.png)  
-- [2022-03-02-最新海外疫情：新冠感染超4.37亿-累计接种新冠疫苗超106.64亿剂次](https://m.caixin.com/m/2022-03-02/101849586.html) ![](assets/new.png)  
 - [2022-03-02-香港单日新增逾5万宗病例-特首重申不“封城”](https://m.caixin.com/m/2022-03-02/101849609.html) ![](assets/new.png)  
-- [2022-03-02-数字说｜单日新增确诊超5万例-香港第五波疫情离拐点有多远？](https://datanews.caixin.com/m/2022-03-02/101849616.html) ![](assets/new.png)  
 - [2022-03-02-深圳部分地区“扫楼”排查感染者-居民称柜子床底都要看](https://m.caixin.com/m/2022-03-02/101849116.html) ![](assets/new.png)  
 - [2022-03-02-【境内疫情观察】广东新增32例本土病例（3月1日）](https://database.caixin.com/m/2022-03-02/101849330.html) ![](assets/new.png)  
 - [2022-03-02-研究称辉瑞疫苗对低龄儿童保护效力快速下降，Novavax争取疫苗全面批准｜大流行手记（3月1日）](https://m.caixin.com/m/2022-03-02/101849237.html) ![](assets/new.png)  
@@ -85,6 +84,7 @@
 - [2022-03-01-全民检测或将禁足-香港出现持续抢购潮](https://m.caixin.com/m/2022-03-01/101848658.html) ![](assets/new.png)  
 - [2022-03-01-【境内疫情观察】全国现有无症状感染者1097例（2月28日）](https://database.caixin.com/m/2022-03-01/101848773.html) ![](assets/new.png)  
 - [2022-03-01-Moderna面临专利侵权诉讼-香港单日新增病例突破两万大关｜大流行手记（2月28日）](https://m.caixin.com/m/2022-03-01/101848534.html) ![](assets/new.png)  
+- [2022-03-01-【图集】香港新增34466例确诊-即将开展全民强制核酸检测](https://photos.caixin.com/m/2022-03-01/101848603.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -491,6 +491,16 @@
 </summary>
 
 
+- [2022-03-03-规定下来了，速度好快！不得要求用户不下载-App-就不给看全文！](https://www.v2ex.com/t/837752) ![](assets/new.png)  
+- [2022-03-03-黑群配置推荐](https://www.v2ex.com/t/837749) ![](assets/new.png)  
+- [2022-03-03-PayPal-美区被永久封禁了](https://www.v2ex.com/t/837747) ![](assets/new.png)  
+- [2022-03-03-OO-封装订单处理类](https://www.v2ex.com/t/837746) ![](assets/new.png)  
+- [2022-03-03-这是什么中间语言](https://www.v2ex.com/t/837745) ![](assets/new.png)  
+- [2022-03-03-杭州行云集团电商、供应链方向-Java-、前端、测试招聘](https://www.v2ex.com/t/837744) ![](assets/new.png)  
+- [2022-03-03-Starswap-要上线了](https://www.v2ex.com/t/837743) ![](assets/new.png)  
+- [2022-03-03-反馈优化结果,单机单表-20-亿数据走索引查询也可以在-100ms-左右返回结果.](https://www.v2ex.com/t/837742) ![](assets/new.png)  
+- [2022-03-03-在-Mac-上重新安装-OneDrive-后无法访问上面的文件](https://www.v2ex.com/t/837741) ![](assets/new.png)  
+- [2022-03-03-Google-Account-您的设备中提示我的-OnePlus-6-未发现任何屏幕锁定](https://www.v2ex.com/t/837739) ![](assets/new.png)  
 - [2022-03-03-mac-的隔空投屏只能连同一个-wifi？](https://www.v2ex.com/t/837737) ![](assets/new.png)  
 - [2022-03-03-日常开发-m1-pro-有必要上-32-G-内存吗?](https://www.v2ex.com/t/837736) ![](assets/new.png)  
 - [2022-03-03-chrome-99-把-network-悬浮显示完整-url-的功能给去了,有办法打开吗](https://www.v2ex.com/t/837735) ![](assets/new.png)  
@@ -501,16 +511,6 @@
 - [2022-03-03-实习-微软亚洲研究院-基于-SONiC-开源云网络操作系统的安全机制研发实习生](https://www.v2ex.com/t/837730) ![](assets/new.png)  
 - [2022-03-03-上海-拼多多招聘前端后端客户端测试设计（30k-60k）](https://www.v2ex.com/t/837729) ![](assets/new.png)  
 - [2022-03-03-抖音服务端架构资深研发工程师](https://www.v2ex.com/t/837728) ![](assets/new.png)  
-- [2022-03-03-前端如何在网页渲染-opengraph？](https://www.v2ex.com/t/837727) ![](assets/new.png)  
-- [2022-03-03-我为什么要做凹凸小区](https://www.v2ex.com/t/837724) ![](assets/new.png)  
-- [2022-03-03-只做存储，-512M-内存的群晖-NAS-可以买吗？](https://www.v2ex.com/t/837723) ![](assets/new.png)  
-- [2022-03-03-Podman-和-docker-可以同时安装吗？会不会冲突？想试一下-Podman](https://www.v2ex.com/t/837722) ![](assets/new.png)  
-- [2022-03-03-有没有那种可以一次性批量管理多个账户的软件工具？](https://www.v2ex.com/t/837721) ![](assets/new.png)  
-- [2022-03-03-请教一个-通用的数据库备份还原-选型与方案问题](https://www.v2ex.com/t/837720) ![](assets/new.png)  
-- [2022-03-03-离职-2-个月了，简单聊聊感受](https://www.v2ex.com/t/837719) ![](assets/new.png)  
-- [2022-03-03-office-365-拼个](https://www.v2ex.com/t/837718) ![](assets/new.png)  
-- [2022-03-03-北京哪里可以拍星空？](https://www.v2ex.com/t/837717) ![](assets/new.png)  
-- [2022-03-03-公益捐款发票可以给别人用吗？](https://www.v2ex.com/t/837716) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -561,17 +561,17 @@
 - [2022-03-03-俄罗斯开发人员或被限制访问-GitHub？！](https://toutiao.io/k/d00vtoz) ![](assets/new.png)  
 - [2022-03-03-React-Native原理之跨端通信机制](https://toutiao.io/k/hlj8zl8) ![](assets/new.png)  
 - [2022-03-03-「码农周刊-VIP-会员专属邮件周报」每周五发送，赶紧上车吧！](https://toutiao.io/k/vlohxda) ![](assets/new.png)  
-- [2022-03-03-虚拟数字人，哪家最强？](https://toutiao.io/k/3c65cde) ![](assets/new.png)  
-- [2022-03-03-老板养蛊吗，我想成为「独狼」](https://toutiao.io/k/vyu5huo) ![](assets/new.png)  
 - [2022-03-03-系统性学习-CSS-指南及全-DEMO-练习](https://toutiao.io/k/81jce7k) ![](assets/new.png)  
+- [2022-03-03-虚拟数字人，哪家最强？](https://toutiao.io/k/3c65cde) ![](assets/new.png)  
 - [2022-03-03-C++-学习笔记](https://toutiao.io/k/4n1ukoz) ![](assets/new.png)  
+- [2022-03-03-老板养蛊吗，我想成为「独狼」](https://toutiao.io/k/vyu5huo) ![](assets/new.png)  
 - [2022-03-03-Web前端性能优化思路](https://toutiao.io/k/dyx26fc) ![](assets/new.png)  
 - [2022-03-03-开发一款专属的-VSCode-代码提示插件](https://toutiao.io/k/5k6itxc) ![](assets/new.png)  
 - [2022-03-03-一行-JavaScript-代码搞定这些骚操作！收藏了~](https://toutiao.io/k/nwc1tyr) ![](assets/new.png)  
 - [2022-03-03-初识工业互联网](https://toutiao.io/k/2s05fpw) ![](assets/new.png)  
 - [2022-03-03-领导看了我写的关闭超时订单，让我出门左转！](https://toutiao.io/k/hxzcs0m) ![](assets/new.png)  
-- [2022-03-03-iOS-直播流程概述](https://toutiao.io/k/bsto33h) ![](assets/new.png)  
 - [2022-03-03-应用架构设计---智能物流柜](https://toutiao.io/k/89h4jmq) ![](assets/new.png)  
+- [2022-03-03-iOS-直播流程概述](https://toutiao.io/k/bsto33h) ![](assets/new.png)  
 - [2022-03-03-TiDB-Online-DDL-在-TiCDC-中的应用](https://toutiao.io/k/irpda95) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

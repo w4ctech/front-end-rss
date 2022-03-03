@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-03-03 23:13:28，:rocket: 更新条数: +1991， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-03-03 23:38:14，:rocket: 更新条数: +1992， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-03-03-开发者应当通过开源项目表达自己的立场吗？](https://www.v2ex.com/t/837832) ![](assets/new.png)  
 - [2022-03-03-济南-产品经理-交流](https://www.v2ex.com/t/837831) ![](assets/new.png)  
 - [2022-03-03-有没有操作和原理类似-git，但是可以限定保留版本记录范围的工具或库推荐呢？](https://www.v2ex.com/t/837830) ![](assets/new.png)  
 - [2022-03-03-大家推荐下-CRM，特别是微商们用的](https://www.v2ex.com/t/837829) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-03-03-随机抽取沙雕图---一个快乐的小玩具](https://www.v2ex.com/t/837801) ![](assets/new.png)  
 - [2022-03-03-Powershell-匹配方括号内数字重命名文件](https://www.v2ex.com/t/837800) ![](assets/new.png)  
 - [2022-03-03-内推-上海、北京、杭州、广州、深圳-声网-Agora](https://www.v2ex.com/t/837799) ![](assets/new.png)  
-- [2022-03-03-深圳前后端+安卓全职-医疗信息化创业公司招靠谱小伙伴](https://www.v2ex.com/t/837798) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

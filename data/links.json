@@ -15,11 +15,6 @@
         "date": "2022-03-03"
       },
       {
-        "title": "研究：华南海鲜市场的新冠病毒或来自人而非动物",
-        "link": "https://science.caixin.com/m/2022-03-03/101849954.html",
-        "date": "2022-03-03"
-      },
-      {
         "title": "最新海外疫情：新冠感染超4.39亿 累计接种新冠疫苗超107.03亿剂次",
         "link": "https://m.caixin.com/m/2022-03-03/101850097.html",
         "date": "2022-03-03"
@@ -45,13 +40,13 @@
         "date": "2022-03-03"
       },
       {
-        "title": "深圳本轮疫情感染者达190例 搭乘地铁需持48小时核酸阴性证明",
-        "link": "https://m.caixin.com/m/2022-03-02/101849740.html",
+        "title": "上海8例新冠感染者均为同一老年舞蹈队 病毒毒株为奥密克戎",
+        "link": "https://m.caixin.com/m/2022-03-02/101849650.html",
         "date": "2022-03-02"
       },
       {
-        "title": "上海8例新冠感染者均为同一老年舞蹈队 病毒毒株为奥密克戎",
-        "link": "https://m.caixin.com/m/2022-03-02/101849650.html",
+        "title": "深圳本轮疫情感染者达190例 搭乘地铁需持48小时核酸阴性证明",
+        "link": "https://m.caixin.com/m/2022-03-02/101849740.html",
         "date": "2022-03-02"
       },
       {
@@ -9793,6 +9788,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "关于 MySQL 和 Redis 一致性问题",
+        "link": "https://www.v2ex.com/t/837806",
+        "date": "2022-03-03"
+      },
+      {
         "title": "顶级互联网公司 Snap 内推 2022 (深圳/北京/其他全球 Office)",
         "link": "https://www.v2ex.com/t/837804",
         "date": "2022-03-03"
@@ -10172,13 +10172,8 @@
         "date": "2022-03-03"
       },
       {
-        "title": "[推荐] 趣谈IO多路复用的本质",
-        "link": "https://toutiao.io/k/j4nqhbc",
-        "date": "2022-03-03"
-      },
-      {
-        "title": "[推荐] Golang 简洁架构实战",
-        "link": "https://toutiao.io/k/vjw1dlc",
+        "title": "[推荐] 2万字，详解数据湖，概念、特征、架构、方案、场景以及建湖全过程（建议收藏）",
+        "link": "https://toutiao.io/k/vcpzf1w",
         "date": "2022-03-03"
       },
       {
@@ -10187,8 +10182,8 @@
         "date": "2022-03-03"
       },
       {
-        "title": "[推荐] 【超赞】技术架构的战略和战术原则",
-        "link": "https://toutiao.io/k/j9872pc",
+        "title": "[推荐] ClickHouse使用实践与规范",
+        "link": "https://toutiao.io/k/fb7mdkl",
         "date": "2022-03-03"
       },
       {
@@ -10197,13 +10192,18 @@
         "date": "2022-03-03"
       },
       {
-        "title": "[推荐] ClickHouse使用实践与规范",
-        "link": "https://toutiao.io/k/fb7mdkl",
+        "title": "[推荐] 【超赞】技术架构的战略和战术原则",
+        "link": "https://toutiao.io/k/j9872pc",
         "date": "2022-03-03"
       },
       {
-        "title": "[推荐] 2万字，详解数据湖，概念、特征、架构、方案、场景以及建湖全过程（建议收藏）",
-        "link": "https://toutiao.io/k/vcpzf1w",
+        "title": "[推荐] 趣谈IO多路复用的本质",
+        "link": "https://toutiao.io/k/j4nqhbc",
+        "date": "2022-03-03"
+      },
+      {
+        "title": "[推荐] Golang 简洁架构实战",
+        "link": "https://toutiao.io/k/vjw1dlc",
         "date": "2022-03-03"
       }
     ]

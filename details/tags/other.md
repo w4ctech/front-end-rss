@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-03-03 18:16:18。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-03-03 18:41:34。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1879,6 +1879,7 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-02-04-HTML-inputmode与iOS-Android软键盘类型测试](https://www.zhangxinxu.com/wordpress/2022/02/html-inputmode-keyboard/) 
 - [2022-03-03-pandas-dataframe-时间作为索引时-如何转化为日期而非时间？](https://www.v2ex.com/t/837827) 
 - [2022-03-03-为什么-vscode+wsl，编译-go-报错信息中的文件路径由正斜杠被替换为反斜杠](https://www.v2ex.com/t/837821) 
 - [2022-03-03-工具栏变白。](https://www.v2ex.com/t/837816) 
@@ -1927,10 +1928,10 @@
 - [2022-03-03-应用架构设计---智能物流柜](https://toutiao.io/k/89h4jmq) 
 - [2022-03-03-Go-函数的-Map-型参数，会发生扩容后指向不同底层内存的事儿吗？](https://toutiao.io/k/9j97ruz) 
 - [2022-03-03-TiDB-Online-DDL-在-TiCDC-中的应用](https://toutiao.io/k/irpda95) 
-- [2022-03-03-推荐-ClickHouse使用实践与规范](https://toutiao.io/k/fb7mdkl) 
-- [2022-03-03-推荐-2万字，详解数据湖，概念、特征、架构、方案、场景以及建湖全过程（建议收藏）](https://toutiao.io/k/vcpzf1w) 
-- [2022-03-03-推荐-2021年最受程序员欢迎的开发工具TOP-100名单出炉！](https://toutiao.io/k/uf5vypr) 
-- [2022-03-03-推荐-一张图看懂微服务架构路线](https://toutiao.io/k/upx1qip) 
-- [2022-03-03-推荐-【超赞】技术架构的战略和战术原则](https://toutiao.io/k/j9872pc) 
-- [2022-03-03-推荐-Golang-简洁架构实战](https://toutiao.io/k/vjw1dlc) 
 - [2022-03-03-推荐-微服务从代码到k8s部署应有尽有大结局（k8s部署）](https://toutiao.io/k/xk3qbvm) 
+- [2022-03-03-推荐-一张图看懂微服务架构路线](https://toutiao.io/k/upx1qip) 
+- [2022-03-03-推荐-2万字，详解数据湖，概念、特征、架构、方案、场景以及建湖全过程（建议收藏）](https://toutiao.io/k/vcpzf1w) 
+- [2022-03-03-推荐-Golang-简洁架构实战](https://toutiao.io/k/vjw1dlc) 
+- [2022-03-03-推荐-ClickHouse使用实践与规范](https://toutiao.io/k/fb7mdkl) 
+- [2022-03-03-推荐-2021年最受程序员欢迎的开发工具TOP-100名单出炉！](https://toutiao.io/k/uf5vypr) 
+- [2022-03-03-推荐-【超赞】技术架构的战略和战术原则](https://toutiao.io/k/j9872pc) 

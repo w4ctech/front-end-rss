@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-03-03 03:41:25。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-03-03 04:16:35。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -108,7 +108,6 @@
 
 
 
-- [【V2EX】求助！类似-vnode-渲染成-dom-的问题](https://www.v2ex.com/t/837603)
 - [......【查看更多】......](./details/tags/nodejs.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -125,6 +124,7 @@
 
 
 
+- [【V2EX】有没有玩小程序开发的呢？建个微信交流群怎么样呢？](https://www.v2ex.com/t/837653)
 - [【V2EX】想运营个校园跑腿/代取快递类的微信小程序，有开源的程序推荐吗](https://www.v2ex.com/t/837632)
 - [......【查看更多】......](./details/tags/miniprogram.md)
 
@@ -223,6 +223,7 @@
 
 
 
+- [【V2EX】Windows-的软件需要用到他的一个功能，可不可以绕过他的-GUI-操作界面，直接通过命令进行控制。](https://www.v2ex.com/t/837648)
 - [......【查看更多】......](./details/tags/canvas-image.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -356,7 +357,6 @@
 
 
 - [【V2EX】外企区块链招聘-Java-技术经理（总监）一名（分布式办公）50K~80K](https://www.v2ex.com/t/837624)
-- [【V2EX】蚂蚁集团-2023-届实习生招聘开始了，可以加群一起交流关注一波-,-欢迎大家一起交流探讨！（附图更正版-](https://www.v2ex.com/t/837609)
 - [【开发者头条】直击RocketMQ面试现场](https://toutiao.io/k/pg4axb3)
 - [......【查看更多】......](./details/tags/job-interview.md)
 

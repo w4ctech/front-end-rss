@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-03-03 04:16:35。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-03-03 04:47:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -16,4 +16,5 @@
 - [2022-01-11-还有完没完，怎么又来了个-scrollbar-gutter？](https://www.zhangxinxu.com/wordpress/2022/01/css-scrollbar-gutter/) 
 - [2021-12-29-JS-标签模板（Tagged-templates）什么时候使用？](https://www.zhangxinxu.com/wordpress/2021/12/js-tagged-templates/) 
 - [2021-12-20-深入JS-getRandomValues和Math.random方法](https://www.zhangxinxu.com/wordpress/2021/12/js-getrandomvalue-math-random/) 
+- [2022-03-03-yuicompressor-maven-plugin-完全无效！求推荐靠谱的-js-压缩-maven-插件](https://www.v2ex.com/t/837661) 
 - [2022-03-03-一行-JavaScript-代码搞定这些骚操作！收藏了~](https://toutiao.io/k/nwc1tyr) 

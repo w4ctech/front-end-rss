@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-03-03 07:12:38，:rocket: 更新条数: +2001， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-03-03 08:41:47，:rocket: 更新条数: +2006， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -67,6 +67,7 @@
 
 - [2022-03-03-3月2日全国新增新冠214例-13省份本土54例](https://m.caixin.com/m/2022-03-03/101849839.html) ![](assets/new.png)  
 - [2022-03-03-研究：华南海鲜市场的新冠病毒或来自人而非动物](https://science.caixin.com/m/2022-03-03/101849954.html) ![](assets/new.png)  
+- [2022-03-03-【境内疫情观察】广东新增28例本土病例（3月2日）](https://database.caixin.com/m/2022-03-03/101850027.html) ![](assets/new.png)  
 - [2022-03-03-美国更新疫情应对计划-世卫推荐默沙东口服药用于高危人群｜大流行手记（3月2日）](https://m.caixin.com/m/2022-03-03/101849872.html) ![](assets/new.png)  
 - [2022-03-03-【图集】香港新增55353例确诊病例-再创单日新高](https://photos.caixin.com/m/2022-03-03/101849875.html) ![](assets/new.png)  
 - [2022-03-02-深圳本轮疫情感染者达190例-搭乘地铁需持48小时核酸阴性证明](https://m.caixin.com/m/2022-03-02/101849740.html) ![](assets/new.png)  
@@ -84,7 +85,6 @@
 - [2022-03-01-全民检测或将禁足-香港出现持续抢购潮](https://m.caixin.com/m/2022-03-01/101848658.html) ![](assets/new.png)  
 - [2022-03-01-【境内疫情观察】全国现有无症状感染者1097例（2月28日）](https://database.caixin.com/m/2022-03-01/101848773.html) ![](assets/new.png)  
 - [2022-03-01-Moderna面临专利侵权诉讼-香港单日新增病例突破两万大关｜大流行手记（2月28日）](https://m.caixin.com/m/2022-03-01/101848534.html) ![](assets/new.png)  
-- [2022-03-01-【图集】香港新增34466例确诊-即将开展全民强制核酸检测](https://photos.caixin.com/m/2022-03-01/101848603.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -491,26 +491,26 @@
 </summary>
 
 
-- [2022-03-03-广州、上海找云计算售前工程师-20220303](https://www.v2ex.com/t/837703) ![](assets/new.png)  
-- [2022-03-03-HIRING-Fully-Remote-Senior-Cloud-DevOps:-120K-180k-USD/yr-需要英语可作为工作语言）](https://www.v2ex.com/t/837702) ![](assets/new.png)  
-- [2022-03-03-可以在文件夹内打标签吗？标签搜索只对一个文件夹有效](https://www.v2ex.com/t/837701) ![](assets/new.png)  
-- [2022-03-03-Android-端有什么好用的自定义短语-App](https://www.v2ex.com/t/837699) ![](assets/new.png)  
-- [2022-03-03-彩票店主微信下单](https://www.v2ex.com/t/837698) ![](assets/new.png)  
-- [2022-03-03-虚心求教独立开发者的优秀产品通常通过哪些渠道去推广](https://www.v2ex.com/t/837697) ![](assets/new.png)  
-- [2022-03-03-建了个上海群，只聊生活，禁止广告，色情，-PDD-拉人行为](https://www.v2ex.com/t/837696) ![](assets/new.png)  
-- [2022-03-03-Spring-服务测试和线上同时出现-500](https://www.v2ex.com/t/837695) ![](assets/new.png)  
-- [2022-03-03-有哪些岗位要求-Python-+-C-语言嘛？](https://www.v2ex.com/t/837694) ![](assets/new.png)  
-- [2022-03-03-Chrome-版本号这个月就要刷到-100-了，不知道有多少网站会挂掉](https://www.v2ex.com/t/837693) ![](assets/new.png)  
-- [2022-03-03-小米自带的搜狗输入法怎么清除记忆词库](https://www.v2ex.com/t/837692) ![](assets/new.png)  
-- [2022-03-03-2021macbook-m1max-如何删除自带输入法-ABC](https://www.v2ex.com/t/837691) ![](assets/new.png)  
-- [2022-03-03-汇总区块链公司，可以帮大家内推-分布式或者在国内集中办公或者去国外的都有](https://www.v2ex.com/t/837690) ![](assets/new.png)  
-- [2022-03-03-蚂蚁实习生内推-Java-/C++程序员（算法工程）](https://www.v2ex.com/t/837689) ![](assets/new.png)  
-- [2022-03-03-国内部分-steam-开发者主动下架游戏是什么原因，最近出啥情况了？](https://www.v2ex.com/t/837688) ![](assets/new.png)  
-- [2022-03-03-辞职了！从深圳回成都](https://www.v2ex.com/t/837686) ![](assets/new.png)  
-- [2022-03-03-Service-层接口问题](https://www.v2ex.com/t/837685) ![](assets/new.png)  
-- [2022-03-03-上海｜寻找资深-RPG-游戏美术动态设计师/资深-Unity-2D-开发/资深-React-开发，和-Adventure-一起开创潮流吧！有原始股份，可在家办公一周到公司一至两天做工作...](https://www.v2ex.com/t/837683) ![](assets/new.png)  
-- [2022-03-03-深圳电信跑不满千兆，求助](https://www.v2ex.com/t/837682) ![](assets/new.png)  
-- [2022-03-03-阿里小号续费-120-100-优惠-2022.3.2-亲测](https://www.v2ex.com/t/837680) ![](assets/new.png)  
+- [2022-03-03-mac-的隔空投屏只能连同一个-wifi？](https://www.v2ex.com/t/837737) ![](assets/new.png)  
+- [2022-03-03-日常开发-m1-pro-有必要上-32-G-内存吗?](https://www.v2ex.com/t/837736) ![](assets/new.png)  
+- [2022-03-03-chrome-99-把-network-悬浮显示完整-url-的功能给去了,有办法打开吗](https://www.v2ex.com/t/837735) ![](assets/new.png)  
+- [2022-03-03-求推荐：支持“镜像同步”的网盘？](https://www.v2ex.com/t/837734) ![](assets/new.png)  
+- [2022-03-03-需要一台显示器，不知道选哪个](https://www.v2ex.com/t/837733) ![](assets/new.png)  
+- [2022-03-03-通信专业大一学生毕业想当程序员应该学些什么](https://www.v2ex.com/t/837732) ![](assets/new.png)  
+- [2022-03-03-有什么关注信息的聚合解决方案吗](https://www.v2ex.com/t/837731) ![](assets/new.png)  
+- [2022-03-03-实习-微软亚洲研究院-基于-SONiC-开源云网络操作系统的安全机制研发实习生](https://www.v2ex.com/t/837730) ![](assets/new.png)  
+- [2022-03-03-上海-拼多多招聘前端后端客户端测试设计（30k-60k）](https://www.v2ex.com/t/837729) ![](assets/new.png)  
+- [2022-03-03-抖音服务端架构资深研发工程师](https://www.v2ex.com/t/837728) ![](assets/new.png)  
+- [2022-03-03-前端如何在网页渲染-opengraph？](https://www.v2ex.com/t/837727) ![](assets/new.png)  
+- [2022-03-03-我为什么要做凹凸小区](https://www.v2ex.com/t/837724) ![](assets/new.png)  
+- [2022-03-03-只做存储，-512M-内存的群晖-NAS-可以买吗？](https://www.v2ex.com/t/837723) ![](assets/new.png)  
+- [2022-03-03-Podman-和-docker-可以同时安装吗？会不会冲突？想试一下-Podman](https://www.v2ex.com/t/837722) ![](assets/new.png)  
+- [2022-03-03-有没有那种可以一次性批量管理多个账户的软件工具？](https://www.v2ex.com/t/837721) ![](assets/new.png)  
+- [2022-03-03-请教一个-通用的数据库备份还原-选型与方案问题](https://www.v2ex.com/t/837720) ![](assets/new.png)  
+- [2022-03-03-离职-2-个月了，简单聊聊感受](https://www.v2ex.com/t/837719) ![](assets/new.png)  
+- [2022-03-03-office-365-拼个](https://www.v2ex.com/t/837718) ![](assets/new.png)  
+- [2022-03-03-北京哪里可以拍星空？](https://www.v2ex.com/t/837717) ![](assets/new.png)  
+- [2022-03-03-公益捐款发票可以给别人用吗？](https://www.v2ex.com/t/837716) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -558,21 +558,21 @@
 - [2022-03-03-Apache-Pulsar-技术系列---Pulsar事务实现原理](https://toutiao.io/k/m4medd4) ![](assets/new.png)  
 - [2022-03-03-联通实时计算平台演进与实践](https://toutiao.io/k/2jffo8z) ![](assets/new.png)  
 - [2022-03-03-Robinhood的下一代数据湖实践](https://toutiao.io/k/u7yxbz0) ![](assets/new.png)  
-- [2022-03-03-React-Native原理之跨端通信机制](https://toutiao.io/k/hlj8zl8) ![](assets/new.png)  
 - [2022-03-03-俄罗斯开发人员或被限制访问-GitHub？！](https://toutiao.io/k/d00vtoz) ![](assets/new.png)  
+- [2022-03-03-React-Native原理之跨端通信机制](https://toutiao.io/k/hlj8zl8) ![](assets/new.png)  
 - [2022-03-03-「码农周刊-VIP-会员专属邮件周报」每周五发送，赶紧上车吧！](https://toutiao.io/k/vlohxda) ![](assets/new.png)  
 - [2022-03-03-虚拟数字人，哪家最强？](https://toutiao.io/k/3c65cde) ![](assets/new.png)  
 - [2022-03-03-老板养蛊吗，我想成为「独狼」](https://toutiao.io/k/vyu5huo) ![](assets/new.png)  
 - [2022-03-03-系统性学习-CSS-指南及全-DEMO-练习](https://toutiao.io/k/81jce7k) ![](assets/new.png)  
 - [2022-03-03-C++-学习笔记](https://toutiao.io/k/4n1ukoz) ![](assets/new.png)  
 - [2022-03-03-Web前端性能优化思路](https://toutiao.io/k/dyx26fc) ![](assets/new.png)  
-- [2022-03-03-一行-JavaScript-代码搞定这些骚操作！收藏了~](https://toutiao.io/k/nwc1tyr) ![](assets/new.png)  
 - [2022-03-03-开发一款专属的-VSCode-代码提示插件](https://toutiao.io/k/5k6itxc) ![](assets/new.png)  
-- [2022-03-03-领导看了我写的关闭超时订单，让我出门左转！](https://toutiao.io/k/hxzcs0m) ![](assets/new.png)  
+- [2022-03-03-一行-JavaScript-代码搞定这些骚操作！收藏了~](https://toutiao.io/k/nwc1tyr) ![](assets/new.png)  
 - [2022-03-03-初识工业互联网](https://toutiao.io/k/2s05fpw) ![](assets/new.png)  
+- [2022-03-03-领导看了我写的关闭超时订单，让我出门左转！](https://toutiao.io/k/hxzcs0m) ![](assets/new.png)  
+- [2022-03-03-iOS-直播流程概述](https://toutiao.io/k/bsto33h) ![](assets/new.png)  
 - [2022-03-03-应用架构设计---智能物流柜](https://toutiao.io/k/89h4jmq) ![](assets/new.png)  
 - [2022-03-03-TiDB-Online-DDL-在-TiCDC-中的应用](https://toutiao.io/k/irpda95) ![](assets/new.png)  
-- [2022-03-03-iOS-直播流程概述](https://toutiao.io/k/bsto33h) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

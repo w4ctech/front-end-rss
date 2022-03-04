@@ -9803,6 +9803,61 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "[PrettyClean] 使用 Rust 写了一个好用的 macOS 磁盘清理工具",
+        "link": "https://www.v2ex.com/t/838008",
+        "date": "2022-03-04"
+      },
+      {
+        "title": "深圳电信可以更换光猫吗",
+        "link": "https://www.v2ex.com/t/838007",
+        "date": "2022-03-04"
+      },
+      {
+        "title": "Go 开发的 数据库操作框架",
+        "link": "https://www.v2ex.com/t/838006",
+        "date": "2022-03-04"
+      },
+      {
+        "title": "[上海张江] eBay Applied Researcher (Risk)",
+        "link": "https://www.v2ex.com/t/838004",
+        "date": "2022-03-04"
+      },
+      {
+        "title": "这还没开始就结束了。。",
+        "link": "https://www.v2ex.com/t/838003",
+        "date": "2022-03-04"
+      },
+      {
+        "title": "Docker Shim 被移除， K8s v1.24 升级该怎么办",
+        "link": "https://www.v2ex.com/t/838001",
+        "date": "2022-03-04"
+      },
+      {
+        "title": "写给 20 几岁的程序员",
+        "link": "https://www.v2ex.com/t/838000",
+        "date": "2022-03-04"
+      },
+      {
+        "title": "宣传/网站物料设计师长期合作, 有偿",
+        "link": "https://www.v2ex.com/t/837999",
+        "date": "2022-03-04"
+      },
+      {
+        "title": "nodejs 如何查看安装包对应版本的官方文档",
+        "link": "https://www.v2ex.com/t/837998",
+        "date": "2022-03-04"
+      },
+      {
+        "title": "良心云免费升级，之前买了 2c4g8M 套餐的可以免费升到 4c4g8m 的套餐",
+        "link": "https://www.v2ex.com/t/837997",
+        "date": "2022-03-04"
+      },
+      {
+        "title": "啊啊啊！ mac 拷贝文件太反人类了吧！",
+        "link": "https://www.v2ex.com/t/837996",
+        "date": "2022-03-04"
+      },
+      {
         "title": "clion 右键 cmakelists.txt 点击 reload cmake project 这个步骤怎么走代理",
         "link": "https://www.v2ex.com/t/837995",
         "date": "2022-03-04"
@@ -9941,46 +9996,6 @@
         "title": "2022 年 怎么注册一个最便宜的域名？",
         "link": "https://www.v2ex.com/t/837960",
         "date": "2022-03-04"
-      },
-      {
-        "title": "showdoc 也支持微信推送了",
-        "link": "https://www.v2ex.com/t/837957",
-        "date": "2022-03-04"
-      },
-      {
-        "title": "MySQL 关于定点数浮点数问题",
-        "link": "https://www.v2ex.com/t/837956",
-        "date": "2022-03-04"
-      },
-      {
-        "title": "maven 子工程必须被 install 吗",
-        "link": "https://www.v2ex.com/t/837955",
-        "date": "2022-03-04"
-      },
-      {
-        "title": "有大佬知道 6000u 系列的笔记本大概什么时候发布吗？",
-        "link": "https://www.v2ex.com/t/837954",
-        "date": "2022-03-04"
-      },
-      {
-        "title": "本人新手，北京有没有吉他俱乐部之类的，周末想找个有氛围的地方练习和学习吉他",
-        "link": "https://www.v2ex.com/t/837953",
-        "date": "2022-03-04"
-      },
-      {
-        "title": "想做一个 vr 实验室管理系统",
-        "link": "https://www.v2ex.com/t/837949",
-        "date": "2022-03-04"
-      },
-      {
-        "title": "离大谱， Xmind 一面禁止破解版，一面联系各大网站放破解版引流",
-        "link": "https://www.v2ex.com/t/837948",
-        "date": "2022-03-04"
-      },
-      {
-        "title": "2019 款 mbp 可以外接 2k144hz 显示器吗",
-        "link": "https://www.v2ex.com/t/837947",
-        "date": "2022-03-04"
       }
     ]
   },
@@ -9989,6 +10004,16 @@
     "title": "技术头条",
     "link": "http://blogread.cn/news/newest.php",
     "items": [
+      {
+        "title": "浅谈企业数据能力建设 (insights.thoughtworks.cn)",
+        "link": "https://blogread.cn/news/go.php?idItem=14964&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fenterprise-data-capability-building%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2022-03-04"
+      },
+      {
+        "title": "Web前端性能优化思路 (insights.thoughtworks.cn)",
+        "link": "https://blogread.cn/news/go.php?idItem=14963&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fweb-frontend-performance-tuning%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2022-03-04"
+      },
       {
         "title": "手把手教你打造一款高逼格的Vim神器 (mp.weixin.qq.com)",
         "link": "https://blogread.cn/news/go.php?idItem=14962&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493488%26amp%3Bidx%3D1%26amp%3Bsn%3D8c128186d0b12d8022708ce9b725c809%26amp%3Bchksm%3Dfa3f062bcd488f3d67c96d2ef6df68b69de330f0c59212326cb0ae131769811d029e0b67efb7%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
@@ -10077,16 +10102,6 @@
       {
         "title": "性能优化那些事儿（2） (insights.thoughtworks.cn)",
         "link": "https://blogread.cn/news/go.php?idItem=14945&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fperformance-turning-practice-2%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-03-04"
-      },
-      {
-        "title": "性能工程之性能规划实践 (insights.thoughtworks.cn)",
-        "link": "https://blogread.cn/news/go.php?idItem=14944&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fperformance-testing-planning%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-03-04"
-      },
-      {
-        "title": "从实际项目出发，告诉你vue3到底香不香 (mp.weixin.qq.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=14943&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493377%26amp%3Bidx%3D2%26amp%3Bsn%3D38dcff122477793c2bfa2353abca7ecc%26amp%3Bchksm%3Dfa3f065acd488f4c47984479b5068b79976b72e2284221362b1746315de5f6c4e4d9a25a17d5%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
         "date": "2022-03-04"
       }
     ]
@@ -10197,13 +10212,13 @@
         "date": "2022-03-04"
       },
       {
-        "title": "[推荐] 微服务从代码到k8s部署应有尽有大结局（k8s部署）",
-        "link": "https://toutiao.io/k/xk3qbvm",
+        "title": "[推荐] 2021年最受程序员欢迎的开发工具TOP 100名单出炉！",
+        "link": "https://toutiao.io/k/uf5vypr",
         "date": "2022-03-04"
       },
       {
-        "title": "[推荐] 2021年最受程序员欢迎的开发工具TOP 100名单出炉！",
-        "link": "https://toutiao.io/k/uf5vypr",
+        "title": "[推荐] Golang 简洁架构实战",
+        "link": "https://toutiao.io/k/vjw1dlc",
         "date": "2022-03-04"
       },
       {
@@ -10212,8 +10227,8 @@
         "date": "2022-03-04"
       },
       {
-        "title": "[推荐] Golang 简洁架构实战",
-        "link": "https://toutiao.io/k/vjw1dlc",
+        "title": "[推荐] SpringBoot性能优化大全，贼好使！",
+        "link": "https://toutiao.io/k/75br1se",
         "date": "2022-03-04"
       },
       {
@@ -10227,13 +10242,13 @@
         "date": "2022-03-04"
       },
       {
-        "title": "[推荐] SpringBoot性能优化大全，贼好使！",
-        "link": "https://toutiao.io/k/75br1se",
+        "title": "[推荐] 2万字，详解数据湖，概念、特征、架构、方案、场景以及建湖全过程（建议收藏）",
+        "link": "https://toutiao.io/k/vcpzf1w",
         "date": "2022-03-04"
       },
       {
-        "title": "[推荐] 2万字，详解数据湖，概念、特征、架构、方案、场景以及建湖全过程（建议收藏）",
-        "link": "https://toutiao.io/k/vcpzf1w",
+        "title": "[推荐] 微服务从代码到k8s部署应有尽有大结局（k8s部署）",
+        "link": "https://toutiao.io/k/xk3qbvm",
         "date": "2022-03-04"
       }
     ]

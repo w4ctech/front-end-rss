@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-03-04 11:11:04，:rocket: 更新条数: +2007， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-03-04 11:36:10，:rocket: 更新条数: +2007， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,9 @@
 </summary>
 
 
+- [2022-03-04-接私活接的心累，请问大家怎么优雅的和客户撕（jia）逼（qian）的？？](https://www.v2ex.com/t/838045) ![](assets/new.png)  
+- [2022-03-04-有哪些环境音-API-可以在线调用呢？](https://www.v2ex.com/t/838044) ![](assets/new.png)  
+- [2022-03-04-解决服务器端口不通的方法竟是如此诡异?](https://www.v2ex.com/t/838043) ![](assets/new.png)  
 - [2022-03-04-kube--scheduler-调度的问题](https://www.v2ex.com/t/838042) ![](assets/new.png)  
 - [2022-03-04-Mac-Plex-客户端,-播放高清-4k-视频会导致电脑重启](https://www.v2ex.com/t/838041) ![](assets/new.png)  
 - [2022-03-04-爱奇艺京东联名-123-元，奇异果-VIP+京东+黄金-VIP-198-元，其他也便宜-不要爱奇艺我可以帮出，京东-PLUS-合-50-左右](https://www.v2ex.com/t/838040) ![](assets/new.png)  
@@ -508,9 +511,6 @@
 - [2022-03-04-pycharm-中-vim-配置疑问](https://www.v2ex.com/t/838026) ![](assets/new.png)  
 - [2022-03-04-蚂蚁资金平台校招开始了，欢迎来聊](https://www.v2ex.com/t/838025) ![](assets/new.png)  
 - [2022-03-04-支撑你们认真学习工作生活的精神力量/信念/信仰/动力是什么](https://www.v2ex.com/t/838024) ![](assets/new.png)  
-- [2022-03-04-预算-1.2w-游戏本求推荐](https://www.v2ex.com/t/838023) ![](assets/new.png)  
-- [2022-03-04-我一直都是一个-SQL-派，所以我开发了这个框架](https://www.v2ex.com/t/838021) ![](assets/new.png)  
-- [2022-03-04-低价出租房屋，赤峰路附近，限短租](https://www.v2ex.com/t/838020) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -559,10 +559,10 @@
 - [2022-03-04-微服务从代码到k8s部署应有尽有系列全集](https://toutiao.io/k/dcd3fuh) ![](assets/new.png)  
 - [2022-03-04-前端架构破局---NodeJS-落地-WebSocket](https://toutiao.io/k/eoi703i) ![](assets/new.png)  
 - [2022-03-04-程序员如何高效的分析HC岗位](https://toutiao.io/k/hghmrf8) ![](assets/new.png)  
-- [2022-03-04-Presto-常用性能优化技巧](https://toutiao.io/k/yzqtgts) ![](assets/new.png)  
 - [2022-03-04-关于微服务的一些思考](https://toutiao.io/k/b9ztphf) ![](assets/new.png)  
-- [2022-03-04-Google搜索正在“死亡”](https://toutiao.io/k/iveqip4) ![](assets/new.png)  
 - [2022-03-04-美团外卖广告平台化的探索与实践](https://toutiao.io/k/u45i061) ![](assets/new.png)  
+- [2022-03-04-Presto-常用性能优化技巧](https://toutiao.io/k/yzqtgts) ![](assets/new.png)  
+- [2022-03-04-Google搜索正在“死亡”](https://toutiao.io/k/iveqip4) ![](assets/new.png)  
 - [2022-03-04-别找了，关于如何面试的问题都在这](https://toutiao.io/k/k9rxkb7) ![](assets/new.png)  
 - [2022-03-04-一条慢SQL引发的改造](https://toutiao.io/k/ltu8g55) ![](assets/new.png)  
 - [2022-03-04-贝壳Go实现的多云对接存储网关建设](https://toutiao.io/k/4jn0kmn) ![](assets/new.png)  

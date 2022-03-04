@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-03-04 23:13:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-03-04 23:38:17。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
@@ -6,7 +6,6 @@
 
 
 - [2022-03-04-低功耗-ECC-NAS，现在用的是-z240，有更低功耗的选项吗](https://www.v2ex.com/t/838111) 
-- [2022-03-04-duolingo-多邻国-拼个](https://www.v2ex.com/t/838110) 
 - [2022-03-04-MacBook-Pro,-14-inch-M1-Pro.-外接显示器求推荐](https://www.v2ex.com/t/838109) 
 - [2022-03-04-币安去迪拜用旅游签？](https://www.v2ex.com/t/838108) 
 - [2022-03-04-目前在亚马逊开网店盈利的难度高吗](https://www.v2ex.com/t/838106) 
@@ -20,7 +19,6 @@
 - [2022-03-04-求助-支付宝多了一笔信用卡消费账单](https://www.v2ex.com/t/838097) 
 - [2022-03-04-上海-不加班-外企-招-Java-，-C++，测试，安卓，资深前端，-devOps，-PMO，帮忙内推也送钱](https://www.v2ex.com/t/838096) 
 - [2022-03-04-（纯主观）一个-javaver-用-go-语言的初步体验](https://www.v2ex.com/t/838094) 
-- [2022-03-04-github-上的这个卡片是什么意思](https://www.v2ex.com/t/838093) 
 - [2022-03-04-之后想使用-Garuda-Linux-进行日常工作，买什么电脑好呢？](https://www.v2ex.com/t/838087) 
 - [2022-03-04-做了一个开源的脑图编辑器](https://www.v2ex.com/t/838086) 
 - [2022-03-04-win10-如何把默认浏览器从-IE-改成-chrome、Edge？各种方法都试了](https://www.v2ex.com/t/838085) 

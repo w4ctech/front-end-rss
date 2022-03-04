@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-03-04 19:35:57。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-03-04 20:14:37。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1885,6 +1885,7 @@
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2022-02-04-HTML-inputmode与iOS-Android软键盘类型测试](https://www.zhangxinxu.com/wordpress/2022/02/html-inputmode-keyboard/) 
+- [2022-03-04-币安去迪拜用旅游签？](https://www.v2ex.com/t/838108) 
 - [2022-03-04-目前在亚马逊开网店盈利的难度高吗](https://www.v2ex.com/t/838106) 
 - [2022-03-04-用-Type-C-to-Type-C-线经过雷电-3-接口连接手机与电脑传输文件，拔线之后手机在息屏时会出现花屏一下，复现概率较高，但出现场景和次数均不变（息屏时、一次）...](https://www.v2ex.com/t/838104) 
 - [2022-03-04-良心云香港有啥便宜的套餐嘛-轻量或者标准都行-带宽优先-个人用](https://www.v2ex.com/t/838103) 
@@ -1940,9 +1941,9 @@
 - [2022-03-04-记-K8s-集群中-Flannel-遇到的两个问题](https://toutiao.io/k/fjsx0r1) 
 - [2022-03-04-独立开发变现周刊（第44期）：12岁的小男孩在9个小时内NFT卖了40万美元!](https://toutiao.io/k/xuyky00) 
 - [2022-03-04-你能答对这道-Go-题目吗？超过-80%-的人都答错了...](https://toutiao.io/k/gc171my) 
-- [2022-03-04-推荐-微服务从代码到k8s部署应有尽有大结局（k8s部署）](https://toutiao.io/k/xk3qbvm) 
-- [2022-03-04-推荐-【超赞】技术架构的战略和战术原则](https://toutiao.io/k/j9872pc) 
 - [2022-03-04-推荐-2万字，详解数据湖，概念、特征、架构、方案、场景以及建湖全过程（建议收藏）](https://toutiao.io/k/vcpzf1w) 
 - [2022-03-04-推荐-Golang-简洁架构实战](https://toutiao.io/k/vjw1dlc) 
+- [2022-03-04-推荐-微服务从代码到k8s部署应有尽有大结局（k8s部署）](https://toutiao.io/k/xk3qbvm) 
 - [2022-03-04-推荐-高并发是一种架构思维模式](https://toutiao.io/k/imslmgz) 
+- [2022-03-04-推荐-【超赞】技术架构的战略和战术原则](https://toutiao.io/k/j9872pc) 
 - [2022-03-04-推荐-2021年最受程序员欢迎的开发工具TOP-100名单出炉！](https://toutiao.io/k/uf5vypr) 

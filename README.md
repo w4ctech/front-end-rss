@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-03-04 03:00:25，:rocket: 更新条数: +1993， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-03-04 03:21:15，:rocket: 更新条数: +1994， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -66,7 +66,6 @@
 
 
 - [2022-03-04-3月3日全国新增新冠294例-12省份本土61例](https://m.caixin.com/m/2022-03-04/101850355.html) ![](assets/new.png)  
-- [2022-03-04-曾光：“动态清零”不会永远不变](https://m.caixin.com/m/2022-03-04/101850410.html) ![](assets/new.png)  
 - [2022-03-04-俄乌战火暂未影响非洲疫苗供应-瑞典解封后病例下降｜大流行手记（3月3日）](https://m.caixin.com/m/2022-03-04/101850383.html) ![](assets/new.png)  
 - [2022-03-04-深圳公共交通须持48小时核酸证明-市民排队检测](https://photos.caixin.com/m/2022-03-04/101850391.html) ![](assets/new.png)  
 - [2022-03-03-深圳疫情仍处于不稳定期-华强北电子市场临时休市](https://m.caixin.com/m/2022-03-03/101850186.html) ![](assets/new.png)  
@@ -85,6 +84,7 @@
 - [2022-03-02-英国女王感染新冠一周后康复-与家人欢度周末时光](https://international.caixin.com/m/2022-03-02/101849261.html) ![](assets/new.png)  
 - [2022-03-01-港府拟从内地聘千名临时护工-月薪3.1万港元](https://companies.caixin.com/m/2022-03-01/101849018.html) ![](assets/new.png)  
 - [2022-03-01-上海普陀区新增1例本土确诊-两家三甲医院停诊](https://m.caixin.com/m/2022-03-01/101848818.html) ![](assets/new.png)  
+- [2022-03-01-全民检测或将禁足-香港出现持续抢购潮](https://m.caixin.com/m/2022-03-01/101848658.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -491,6 +491,11 @@
 </summary>
 
 
+- [2022-03-04-求推荐谷歌浏览器插件:-高亮网页中代码块](https://www.v2ex.com/t/837899) ![](assets/new.png)  
+- [2022-03-04-啥时候国行还能放货啊愁人](https://www.v2ex.com/t/837897) ![](assets/new.png)  
+- [2022-03-04-1000M-的带宽，推荐下路由器](https://www.v2ex.com/t/837895) ![](assets/new.png)  
+- [2022-03-04-你们平时都怎么学习技术啊](https://www.v2ex.com/t/837894) ![](assets/new.png)  
+- [2022-03-04-创建了一个-TG-吹牛逼群，里面就是吹释放压力，拒绝黄赌毒，-v2-的同学们遇到压力吹一吹释放一下](https://www.v2ex.com/t/837893) ![](assets/new.png)  
 - [2022-03-04-分享个-nextcloud-的下载工具ocdownloader-改进版](https://www.v2ex.com/t/837892) ![](assets/new.png)  
 - [2022-03-04-我发现了一个点外卖隐藏入口，适用于杭州用户，可以无限领红包](https://www.v2ex.com/t/837891) ![](assets/new.png)  
 - [2022-03-04-国内为什么服务器成本那么高？](https://www.v2ex.com/t/837890) ![](assets/new.png)  
@@ -506,11 +511,6 @@
 - [2022-03-04-新人装机求指导](https://www.v2ex.com/t/837878) ![](assets/new.png)  
 - [2022-03-04-Web3-by-Example---尝试用交互式示例让-web3-开发更快一点](https://www.v2ex.com/t/837877) ![](assets/new.png)  
 - [2022-03-04-apple-watch-提醒不振动，无声音](https://www.v2ex.com/t/837876) ![](assets/new.png)  
-- [2022-03-04-社招内推深圳南山-富途证券-港美股证券公司](https://www.v2ex.com/t/837875) ![](assets/new.png)  
-- [2022-03-04-flutter-的-mulit-platform-多了个-embedded](https://www.v2ex.com/t/837873) ![](assets/new.png)  
-- [2022-03-04-广州TypeScript-游戏开发工程师](https://www.v2ex.com/t/837872) ![](assets/new.png)  
-- [2022-03-04-为了让-mbp14-实现最大化续航，有没有一种工具可以关闭-cpu-核心？把-M1max-变成-M1？](https://www.v2ex.com/t/837869) ![](assets/new.png)  
-- [2022-03-04-开发了一个内容分享工具：-Pinfive.Today，欢迎使用。](https://www.v2ex.com/t/837867) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -568,11 +568,11 @@
 - [2022-03-04-贝壳Go实现的多云对接存储网关建设](https://toutiao.io/k/4jn0kmn) ![](assets/new.png)  
 - [2022-03-04-一条慢SQL引发的改造](https://toutiao.io/k/ltu8g55) ![](assets/new.png)  
 - [2022-03-04-CNCF-Serverless工作流社区携华为云FunctionGraph开拓编排新时代](https://toutiao.io/k/klr11r6) ![](assets/new.png)  
+- [2022-03-04-推荐-一张图看懂微服务架构路线](https://toutiao.io/k/upx1qip) ![](assets/new.png)  
 - [2022-03-04-推荐-ClickHouse使用实践与规范](https://toutiao.io/k/fb7mdkl) ![](assets/new.png)  
 - [2022-03-04-推荐-2021年最受程序员欢迎的开发工具TOP-100名单出炉！](https://toutiao.io/k/uf5vypr) ![](assets/new.png)  
-- [2022-03-04-推荐-一张图看懂微服务架构路线](https://toutiao.io/k/upx1qip) ![](assets/new.png)  
+- [2022-03-04-推荐-微服务从代码到k8s部署应有尽有大结局（k8s部署）](https://toutiao.io/k/xk3qbvm) ![](assets/new.png)  
 - [2022-03-04-推荐-【超赞】技术架构的战略和战术原则](https://toutiao.io/k/j9872pc) ![](assets/new.png)  
-- [2022-03-04-推荐-Golang-简洁架构实战](https://toutiao.io/k/vjw1dlc) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

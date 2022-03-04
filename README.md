@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-03-04 04:47:19，:rocket: 更新条数: +1993， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-03-04 05:13:02，:rocket: 更新条数: +1993， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,9 +491,12 @@
 </summary>
 
 
+- [2022-03-04-绷不住了，下回了讯飞，发现老版本下架了，账号也没了，什么鬼](https://www.v2ex.com/t/837926) ![](assets/new.png)  
+- [2022-03-04-请问这样的曲线有标准方程吗？](https://www.v2ex.com/t/837925) ![](assets/new.png)  
+- [2022-03-04-用了阿里小号，怎么知道打进的电话是小号还是我的主号？](https://www.v2ex.com/t/837924) ![](assets/new.png)  
+- [2022-03-04-失业了，想接私活运维、网络方面都行，可以服务器，网站维护，有合适的麻烦帮忙来点活。](https://www.v2ex.com/t/837923) ![](assets/new.png)  
 - [2022-03-04-Intel-MBP-IDEA-持续占用-100%](https://www.v2ex.com/t/837921) ![](assets/new.png)  
 - [2022-03-04-不打开-Thor-的情况下，-ios-设备访问-V2EX-显示-NSURLErrorDomain](https://www.v2ex.com/t/837920) ![](assets/new.png)  
-- [2022-03-04-记忆中的她](https://www.v2ex.com/t/837919) ![](assets/new.png)  
 - [2022-03-04-有没有类似于-notion-这样的笔记软件数据在本地存储](https://www.v2ex.com/t/837918) ![](assets/new.png)  
 - [2022-03-04-C#-模式匹配完全指南](https://www.v2ex.com/t/837916) ![](assets/new.png)  
 - [2022-03-04-「求助」请问-iOS-如何通过个人热点给-Windows-共享代理](https://www.v2ex.com/t/837914) ![](assets/new.png)  
@@ -508,9 +511,6 @@
 - [2022-03-04-不考虑-IOS，本人想换个安卓手机，纠结中，用过的都帮看看。需求：-1.骁龙-870-或冷静-U，-2.拍照好，-3.原生系统或可随意刷机，-4-屏幕表现优秀。](https://www.v2ex.com/t/837902) ![](assets/new.png)  
 - [2022-03-04-记录-收到一家貌似是外包公司的投递反馈邮件](https://www.v2ex.com/t/837901) ![](assets/new.png)  
 - [2022-03-04-求推荐谷歌浏览器插件:-高亮网页中代码块](https://www.v2ex.com/t/837899) ![](assets/new.png)  
-- [2022-03-04-啥时候国行还能放货啊愁人](https://www.v2ex.com/t/837897) ![](assets/new.png)  
-- [2022-03-04-1000M-的带宽，推荐下路由器](https://www.v2ex.com/t/837895) ![](assets/new.png)  
-- [2022-03-04-你们平时都怎么学习技术啊](https://www.v2ex.com/t/837894) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -568,11 +568,11 @@
 - [2022-03-04-一条慢SQL引发的改造](https://toutiao.io/k/ltu8g55) ![](assets/new.png)  
 - [2022-03-04-贝壳Go实现的多云对接存储网关建设](https://toutiao.io/k/4jn0kmn) ![](assets/new.png)  
 - [2022-03-04-CNCF-Serverless工作流社区携华为云FunctionGraph开拓编排新时代](https://toutiao.io/k/klr11r6) ![](assets/new.png)  
-- [2022-03-04-推荐-一张图看懂微服务架构路线](https://toutiao.io/k/upx1qip) ![](assets/new.png)  
-- [2022-03-04-推荐-Golang-简洁架构实战](https://toutiao.io/k/vjw1dlc) ![](assets/new.png)  
-- [2022-03-04-推荐-ClickHouse使用实践与规范](https://toutiao.io/k/fb7mdkl) ![](assets/new.png)  
-- [2022-03-04-推荐-2021年最受程序员欢迎的开发工具TOP-100名单出炉！](https://toutiao.io/k/uf5vypr) ![](assets/new.png)  
 - [2022-03-04-推荐-【超赞】技术架构的战略和战术原则](https://toutiao.io/k/j9872pc) ![](assets/new.png)  
+- [2022-03-04-推荐-一张图看懂微服务架构路线](https://toutiao.io/k/upx1qip) ![](assets/new.png)  
+- [2022-03-04-推荐-ClickHouse使用实践与规范](https://toutiao.io/k/fb7mdkl) ![](assets/new.png)  
+- [2022-03-04-推荐-2万字，详解数据湖，概念、特征、架构、方案、场景以及建湖全过程（建议收藏）](https://toutiao.io/k/vcpzf1w) ![](assets/new.png)  
+- [2022-03-04-推荐-微服务从代码到k8s部署应有尽有大结局（k8s部署）](https://toutiao.io/k/xk3qbvm) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

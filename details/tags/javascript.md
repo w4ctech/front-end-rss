@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-03-03 23:38:14。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-03-04 00:53:11。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -17,5 +17,3 @@
 - [2021-12-29-JS-标签模板（Tagged-templates）什么时候使用？](https://www.zhangxinxu.com/wordpress/2021/12/js-tagged-templates/) 
 - [2021-12-20-深入JS-getRandomValues和Math.random方法](https://www.zhangxinxu.com/wordpress/2021/12/js-getrandomvalue-math-random/) 
 - [2022-03-03-请教一个前端-JS-以数组值作为变量名的问题](https://www.v2ex.com/t/837803) 
-- [2022-03-03-numpy-对二维数组按某行或某列排序问题](https://www.v2ex.com/t/837783) 
-- [2022-03-03-一行-JavaScript-代码搞定这些骚操作！收藏了~](https://toutiao.io/k/nwc1tyr) 

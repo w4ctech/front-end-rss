@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-03-04 07:12:53，:rocket: 更新条数: +1999， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-03-04 07:36:33，:rocket: 更新条数: +1999， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,9 @@
 </summary>
 
 
+- [2022-03-04-宽带显示已在其他地方登录，无法继续拨号。如何通过账号查询宽带运营商？](https://www.v2ex.com/t/837981) ![](assets/new.png)  
+- [2022-03-04-猎头推荐|高级社招|量化交易|软件-C++|异构高性能-FPGA|北京上海-HK](https://www.v2ex.com/t/837980) ![](assets/new.png)  
+- [2022-03-04-关于-888-的神奇现象](https://www.v2ex.com/t/837979) ![](assets/new.png)  
 - [2022-03-04-macos-上音频格式转换有没有推荐的软件？](https://www.v2ex.com/t/837978) ![](assets/new.png)  
 - [2022-03-04-遇到一个问题，需要从预插入数据的表，随机找一条，分配给一个用户，求一个简洁的方案](https://www.v2ex.com/t/837977) ![](assets/new.png)  
 - [2022-03-04-2015-款-mbp-升级到了-16g-内存。CPU-你们的够用？](https://www.v2ex.com/t/837976) ![](assets/new.png)  
@@ -508,9 +511,6 @@
 - [2022-03-04-showdoc-也支持微信推送了](https://www.v2ex.com/t/837957) ![](assets/new.png)  
 - [2022-03-04-MySQL-关于定点数浮点数问题](https://www.v2ex.com/t/837956) ![](assets/new.png)  
 - [2022-03-04-maven-子工程必须被-install-吗](https://www.v2ex.com/t/837955) ![](assets/new.png)  
-- [2022-03-04-有大佬知道-6000u-系列的笔记本大概什么时候发布吗？](https://www.v2ex.com/t/837954) ![](assets/new.png)  
-- [2022-03-04-本人新手，北京有没有吉他俱乐部之类的，周末想找个有氛围的地方练习和学习吉他](https://www.v2ex.com/t/837953) ![](assets/new.png)  
-- [2022-03-04-想做一个-vr-实验室管理系统](https://www.v2ex.com/t/837949) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -568,9 +568,9 @@
 - [2022-03-04-贝壳Go实现的多云对接存储网关建设](https://toutiao.io/k/4jn0kmn) ![](assets/new.png)  
 - [2022-03-04-宋哲琦：一站式数据开发平台在有赞的最佳实践](https://toutiao.io/k/wzztcj4) ![](assets/new.png)  
 - [2022-03-04-CNCF-Serverless工作流社区携华为云FunctionGraph开拓编排新时代](https://toutiao.io/k/klr11r6) ![](assets/new.png)  
+- [2022-03-04-MySQL-团队开发规范](https://toutiao.io/k/qjooigy) ![](assets/new.png)  
 - [2022-03-04-独立开发变现周刊（第44期）：12岁的小男孩在9个小时内NFT卖了40万美元!](https://toutiao.io/k/xuyky00) ![](assets/new.png)  
 - [2022-03-04-分享一个CI/CD的自动部署想法](https://toutiao.io/k/5ui7zv4) ![](assets/new.png)  
-- [2022-03-04-MySQL-团队开发规范](https://toutiao.io/k/qjooigy) ![](assets/new.png)  
 - [2022-03-04-你能答对这道-Go-题目吗？超过-80%-的人都答错了...](https://toutiao.io/k/gc171my) ![](assets/new.png)  
 - [2022-03-04-记-K8s-集群中-Flannel-遇到的两个问题](https://toutiao.io/k/fjsx0r1) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)

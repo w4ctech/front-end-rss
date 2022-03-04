@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-03-04 22:37:03，:rocket: 更新条数: +2002， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-03-04 23:02:58，:rocket: 更新条数: +2002， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -561,8 +561,8 @@
 - [2022-03-04-程序员如何高效的分析HC岗位](https://toutiao.io/k/hghmrf8) ![](assets/new.png)  
 - [2022-03-04-关于微服务的一些思考](https://toutiao.io/k/b9ztphf) ![](assets/new.png)  
 - [2022-03-04-美团外卖广告平台化的探索与实践](https://toutiao.io/k/u45i061) ![](assets/new.png)  
-- [2022-03-04-Presto-常用性能优化技巧](https://toutiao.io/k/yzqtgts) ![](assets/new.png)  
 - [2022-03-04-MySQL-团队开发规范](https://toutiao.io/k/qjooigy) ![](assets/new.png)  
+- [2022-03-04-Presto-常用性能优化技巧](https://toutiao.io/k/yzqtgts) ![](assets/new.png)  
 - [2022-03-04-一条慢SQL引发的改造](https://toutiao.io/k/ltu8g55) ![](assets/new.png)  
 - [2022-03-04-Google搜索正在“死亡”](https://toutiao.io/k/iveqip4) ![](assets/new.png)  
 - [2022-03-04-别找了，关于如何面试的问题都在这](https://toutiao.io/k/k9rxkb7) ![](assets/new.png)  

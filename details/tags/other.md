@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-03-04 22:10:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-03-04 22:37:03。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1885,6 +1885,7 @@
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2022-02-04-HTML-inputmode与iOS-Android软键盘类型测试](https://www.zhangxinxu.com/wordpress/2022/02/html-inputmode-keyboard/) 
+- [2022-03-04-duolingo-多邻国-拼个](https://www.v2ex.com/t/838110) 
 - [2022-03-04-MacBook-Pro,-14-inch-M1-Pro.-外接显示器求推荐](https://www.v2ex.com/t/838109) 
 - [2022-03-04-币安去迪拜用旅游签？](https://www.v2ex.com/t/838108) 
 - [2022-03-04-目前在亚马逊开网店盈利的难度高吗](https://www.v2ex.com/t/838106) 
@@ -1913,7 +1914,6 @@
 - [2022-03-04-没有啥技术积累的小公司可以驾驭-Ceph-吗？](https://www.v2ex.com/t/838065) 
 - [2022-03-04-求各位-v-友-推荐一款直链-mac-显示屏](https://www.v2ex.com/t/838064) 
 - [2022-03-04-vscode-里面多行注释样式能调整吗？](https://www.v2ex.com/t/838063) 
-- [2022-03-04-为什么-JetBrains-会免费给非商业开源项目的核心开发者提供-License？](https://www.v2ex.com/t/838060) 
 - [2022-03-04-浅谈企业数据能力建设-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14964&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fenterprise-data-capability-building%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-03-04-为什么会有TCPIP协议？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14960&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493487%26amp%3Bidx%3D1%26amp%3Bsn%3Dae7576870da25f743982f068bbc66cb8%26amp%3Bchksm%3Dfa3f0634cd488f226de44a1c25699248ed8c16e9953f97e0dee85a1d446b6414cef55042ae0f%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-03-04-分享一个完整的【停车系统】-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14958&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493484%26amp%3Bidx%3D1%26amp%3Bsn%3D2058998476be2536471f15549250c63d%26amp%3Bchksm%3Dfa3f0637cd488f2132af305dea472a02e7daaf2f9aa885f7b902a2f7407a40dca2bb165202d8%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1943,8 +1943,8 @@
 - [2022-03-04-独立开发变现周刊（第44期）：12岁的小男孩在9个小时内NFT卖了40万美元!](https://toutiao.io/k/xuyky00) 
 - [2022-03-04-你能答对这道-Go-题目吗？超过-80%-的人都答错了...](https://toutiao.io/k/gc171my) 
 - [2022-03-04-推荐-Golang-简洁架构实战](https://toutiao.io/k/vjw1dlc) 
-- [2022-03-04-推荐-【超赞】技术架构的战略和战术原则](https://toutiao.io/k/j9872pc) 
 - [2022-03-04-推荐-微服务从代码到k8s部署应有尽有大结局（k8s部署）](https://toutiao.io/k/xk3qbvm) 
 - [2022-03-04-推荐-高并发是一种架构思维模式](https://toutiao.io/k/imslmgz) 
+- [2022-03-04-推荐-【超赞】技术架构的战略和战术原则](https://toutiao.io/k/j9872pc) 
 - [2022-03-04-推荐-2万字，详解数据湖，概念、特征、架构、方案、场景以及建湖全过程（建议收藏）](https://toutiao.io/k/vcpzf1w) 
 - [2022-03-04-推荐-2021年最受程序员欢迎的开发工具TOP-100名单出炉！](https://toutiao.io/k/uf5vypr) 

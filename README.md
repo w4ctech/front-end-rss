@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-03-04 10:40:36，:rocket: 更新条数: +2006， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-03-04 11:11:04，:rocket: 更新条数: +2007， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -65,13 +65,13 @@
 </summary>
 
 
-- [2022-03-04-3月3日全国新增新冠294例-12省份本土61例](https://m.caixin.com/m/2022-03-04/101850355.html) ![](assets/new.png)  
+- [2022-03-04-最新疫情：全国新冠累计确诊110258例-累计接种新冠疫苗超31.47亿剂次](https://m.caixin.com/m/2022-03-04/101850850.html) ![](assets/new.png)  
 - [2022-03-04-上海9天新增34例新冠感染者-计划扩大定点医院收治能力](https://m.caixin.com/m/2022-03-04/101850824.html) ![](assets/new.png)  
+- [2022-03-04-最新海外疫情：新冠感染超4.41亿-累计接种新冠疫苗超107.21亿剂次](https://m.caixin.com/m/2022-03-04/101850856.html) ![](assets/new.png)  
 - [2022-03-04-【境内疫情观察】广东新增117例境外输入病例（3月3日）](https://database.caixin.com/m/2022-03-04/101850568.html) ![](assets/new.png)  
 - [2022-03-04-俄乌战火暂未影响非洲疫苗供应-瑞典解封后病例下降｜大流行手记（3月3日）](https://m.caixin.com/m/2022-03-04/101850383.html) ![](assets/new.png)  
 - [2022-03-04-深圳公共交通须持48小时核酸证明-市民排队检测](https://photos.caixin.com/m/2022-03-04/101850391.html) ![](assets/new.png)  
 - [2022-03-03-深圳疫情仍处于不稳定期-华强北电子市场临时休市](https://m.caixin.com/m/2022-03-03/101850186.html) ![](assets/new.png)  
-- [2022-03-03-最新海外疫情：新冠感染超4.39亿-累计接种新冠疫苗超107.03亿剂次](https://m.caixin.com/m/2022-03-03/101850097.html) ![](assets/new.png)  
 - [2022-03-03-【境内疫情观察】广东新增28例本土病例（3月2日）](https://database.caixin.com/m/2022-03-03/101850027.html) ![](assets/new.png)  
 - [2022-03-03-美国更新疫情应对计划-世卫推荐默沙东口服药用于高危人群｜大流行手记（3月2日）](https://m.caixin.com/m/2022-03-03/101849872.html) ![](assets/new.png)  
 - [2022-03-03-【图集】多处商铺感冒药售罄，香港再现物资抢购潮](https://photos.caixin.com/m/2022-03-03/101850170.html) ![](assets/new.png)  
@@ -491,6 +491,13 @@
 </summary>
 
 
+- [2022-03-04-kube--scheduler-调度的问题](https://www.v2ex.com/t/838042) ![](assets/new.png)  
+- [2022-03-04-Mac-Plex-客户端,-播放高清-4k-视频会导致电脑重启](https://www.v2ex.com/t/838041) ![](assets/new.png)  
+- [2022-03-04-爱奇艺京东联名-123-元，奇异果-VIP+京东+黄金-VIP-198-元，其他也便宜-不要爱奇艺我可以帮出，京东-PLUS-合-50-左右](https://www.v2ex.com/t/838040) ![](assets/new.png)  
+- [2022-03-04-请教-spring-加载二方包指定目录下的文件](https://www.v2ex.com/t/838039) ![](assets/new.png)  
+- [2022-03-04-想请教-V-站玩金融玩的好的大佬一些问题](https://www.v2ex.com/t/838038) ![](assets/new.png)  
+- [2022-03-04-12-岁小男孩在-9-个小时内-NFT-卖了-40-万美元!](https://www.v2ex.com/t/838037) ![](assets/new.png)  
+- [2022-03-04-在北京城六区内住的外地人怎么给摩托车上牌照呢](https://www.v2ex.com/t/838036) ![](assets/new.png)  
 - [2022-03-04-XXNet-项目-xtunnel-和-v2-有什么区别](https://www.v2ex.com/t/838035) ![](assets/new.png)  
 - [2022-03-04-19-款-MacBook-Pro-16-寸内置屏能看-4K-网飞吗？](https://www.v2ex.com/t/838034) ![](assets/new.png)  
 - [2022-03-04-谁有美区号，帮我收个验证码，急急](https://www.v2ex.com/t/838033) ![](assets/new.png)  
@@ -504,13 +511,6 @@
 - [2022-03-04-预算-1.2w-游戏本求推荐](https://www.v2ex.com/t/838023) ![](assets/new.png)  
 - [2022-03-04-我一直都是一个-SQL-派，所以我开发了这个框架](https://www.v2ex.com/t/838021) ![](assets/new.png)  
 - [2022-03-04-低价出租房屋，赤峰路附近，限短租](https://www.v2ex.com/t/838020) ![](assets/new.png)  
-- [2022-03-04-CSDN-在这个页面写什么东西了,CPU-占用-100%,风扇狂转](https://www.v2ex.com/t/838019) ![](assets/new.png)  
-- [2022-03-04-iShot-截图软件今天更新变成订阅制了，求替换软件](https://www.v2ex.com/t/838018) ![](assets/new.png)  
-- [2022-03-04-坐标广州、迫于欠薪、找一份-Java-工作，-5-年经验](https://www.v2ex.com/t/838017) ![](assets/new.png)  
-- [2022-03-04-良心云免费-2-双核升级到-4-核，慢者无](https://www.v2ex.com/t/838016) ![](assets/new.png)  
-- [2022-03-04-AuthPass-能否提供更为通俗的简体中文翻译](https://www.v2ex.com/t/838014) ![](assets/new.png)  
-- [2022-03-04-打开多个文件夹窗口，如何设置不同标题栏颜色？](https://www.v2ex.com/t/838013) ![](assets/new.png)  
-- [2022-03-04-js-的-promise，求指导](https://www.v2ex.com/t/838012) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -560,19 +560,19 @@
 - [2022-03-04-前端架构破局---NodeJS-落地-WebSocket](https://toutiao.io/k/eoi703i) ![](assets/new.png)  
 - [2022-03-04-程序员如何高效的分析HC岗位](https://toutiao.io/k/hghmrf8) ![](assets/new.png)  
 - [2022-03-04-Presto-常用性能优化技巧](https://toutiao.io/k/yzqtgts) ![](assets/new.png)  
+- [2022-03-04-关于微服务的一些思考](https://toutiao.io/k/b9ztphf) ![](assets/new.png)  
 - [2022-03-04-Google搜索正在“死亡”](https://toutiao.io/k/iveqip4) ![](assets/new.png)  
 - [2022-03-04-美团外卖广告平台化的探索与实践](https://toutiao.io/k/u45i061) ![](assets/new.png)  
-- [2022-03-04-关于微服务的一些思考](https://toutiao.io/k/b9ztphf) ![](assets/new.png)  
 - [2022-03-04-别找了，关于如何面试的问题都在这](https://toutiao.io/k/k9rxkb7) ![](assets/new.png)  
 - [2022-03-04-一条慢SQL引发的改造](https://toutiao.io/k/ltu8g55) ![](assets/new.png)  
 - [2022-03-04-贝壳Go实现的多云对接存储网关建设](https://toutiao.io/k/4jn0kmn) ![](assets/new.png)  
+- [2022-03-04-MySQL-团队开发规范](https://toutiao.io/k/qjooigy) ![](assets/new.png)  
 - [2022-03-04-宋哲琦：一站式数据开发平台在有赞的最佳实践](https://toutiao.io/k/wzztcj4) ![](assets/new.png)  
 - [2022-03-04-CNCF-Serverless工作流社区携华为云FunctionGraph开拓编排新时代](https://toutiao.io/k/klr11r6) ![](assets/new.png)  
-- [2022-03-04-MySQL-团队开发规范](https://toutiao.io/k/qjooigy) ![](assets/new.png)  
 - [2022-03-04-分享一个CI/CD的自动部署想法](https://toutiao.io/k/5ui7zv4) ![](assets/new.png)  
+- [2022-03-04-记-K8s-集群中-Flannel-遇到的两个问题](https://toutiao.io/k/fjsx0r1) ![](assets/new.png)  
 - [2022-03-04-独立开发变现周刊（第44期）：12岁的小男孩在9个小时内NFT卖了40万美元!](https://toutiao.io/k/xuyky00) ![](assets/new.png)  
 - [2022-03-04-你能答对这道-Go-题目吗？超过-80%-的人都答错了...](https://toutiao.io/k/gc171my) ![](assets/new.png)  
-- [2022-03-04-记-K8s-集群中-Flannel-遇到的两个问题](https://toutiao.io/k/fjsx0r1) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-03-04 05:13:02，:rocket: 更新条数: +1993， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-03-04 05:36:44，:rocket: 更新条数: +1994， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,11 @@
 </summary>
 
 
+- [2022-03-04-项目里有许多-mp4-视频文件需要播放，用什么解决方案比较好](https://www.v2ex.com/t/837931) ![](assets/new.png)  
+- [2022-03-04-俄乌冲突,有哪些值得抄底的股票\基金\债券吗](https://www.v2ex.com/t/837930) ![](assets/new.png)  
+- [2022-03-04-iOS15-录制的视频播放下一个时卡住](https://www.v2ex.com/t/837929) ![](assets/new.png)  
+- [2022-03-04-AirPods-Pro-在洗衣机里洗了-心痛](https://www.v2ex.com/t/837928) ![](assets/new.png)  
+- [2022-03-04-知乎可以网页端打开问题了，但恐怕又是短暂的](https://www.v2ex.com/t/837927) ![](assets/new.png)  
 - [2022-03-04-绷不住了，下回了讯飞，发现老版本下架了，账号也没了，什么鬼](https://www.v2ex.com/t/837926) ![](assets/new.png)  
 - [2022-03-04-请问这样的曲线有标准方程吗？](https://www.v2ex.com/t/837925) ![](assets/new.png)  
 - [2022-03-04-用了阿里小号，怎么知道打进的电话是小号还是我的主号？](https://www.v2ex.com/t/837924) ![](assets/new.png)  
@@ -506,11 +511,6 @@
 - [2022-03-04-需要群发些短信，国内有哪些比较优惠的短信供应商？](https://www.v2ex.com/t/837910) ![](assets/new.png)  
 - [2022-03-04-一线-CDN-厂牌推出客户端，专治没公网-IP](https://www.v2ex.com/t/837908) ![](assets/new.png)  
 - [2022-03-04-windows-server-2008-R2-nginx-访问中文文件报错，有大佬知道怎么解决吗？](https://www.v2ex.com/t/837906) ![](assets/new.png)  
-- [2022-03-04-海外服务器约-20T-的数据怎样传回国内比较方便？](https://www.v2ex.com/t/837904) ![](assets/new.png)  
-- [2022-03-04-三星-970-EVO-plus-价格变化为什么会这么离谱？](https://www.v2ex.com/t/837903) ![](assets/new.png)  
-- [2022-03-04-不考虑-IOS，本人想换个安卓手机，纠结中，用过的都帮看看。需求：-1.骁龙-870-或冷静-U，-2.拍照好，-3.原生系统或可随意刷机，-4-屏幕表现优秀。](https://www.v2ex.com/t/837902) ![](assets/new.png)  
-- [2022-03-04-记录-收到一家貌似是外包公司的投递反馈邮件](https://www.v2ex.com/t/837901) ![](assets/new.png)  
-- [2022-03-04-求推荐谷歌浏览器插件:-高亮网页中代码块](https://www.v2ex.com/t/837899) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -556,23 +556,23 @@
 - [2022-03-04-「码农周刊-VIP-会员专属邮件周报」每周五发送，赶紧上车吧！](https://toutiao.io/k/vlohxda) ![](assets/new.png)  
 - [2022-03-04-云上共享文件系统的兼容性大比拼](https://toutiao.io/k/cjuez0d) ![](assets/new.png)  
 - [2022-03-04-一文掌握go语言的泛型](https://toutiao.io/k/3fdrlea) ![](assets/new.png)  
-- [2022-03-04-程序员如何高效的分析HC岗位](https://toutiao.io/k/hghmrf8) ![](assets/new.png)  
 - [2022-03-04-微服务从代码到k8s部署应有尽有系列全集](https://toutiao.io/k/dcd3fuh) ![](assets/new.png)  
+- [2022-03-04-程序员如何高效的分析HC岗位](https://toutiao.io/k/hghmrf8) ![](assets/new.png)  
 - [2022-03-04-前端架构破局---NodeJS-落地-WebSocket](https://toutiao.io/k/eoi703i) ![](assets/new.png)  
 - [2022-03-04-Presto-常用性能优化技巧](https://toutiao.io/k/yzqtgts) ![](assets/new.png)  
 - [2022-03-04-美团外卖广告平台化的探索与实践](https://toutiao.io/k/u45i061) ![](assets/new.png)  
 - [2022-03-04-Google搜索正在“死亡”](https://toutiao.io/k/iveqip4) ![](assets/new.png)  
 - [2022-03-04-别找了，关于如何面试的问题都在这](https://toutiao.io/k/k9rxkb7) ![](assets/new.png)  
 - [2022-03-04-关于微服务的一些思考](https://toutiao.io/k/b9ztphf) ![](assets/new.png)  
-- [2022-03-04-宋哲琦：一站式数据开发平台在有赞的最佳实践](https://toutiao.io/k/wzztcj4) ![](assets/new.png)  
 - [2022-03-04-一条慢SQL引发的改造](https://toutiao.io/k/ltu8g55) ![](assets/new.png)  
+- [2022-03-04-宋哲琦：一站式数据开发平台在有赞的最佳实践](https://toutiao.io/k/wzztcj4) ![](assets/new.png)  
 - [2022-03-04-贝壳Go实现的多云对接存储网关建设](https://toutiao.io/k/4jn0kmn) ![](assets/new.png)  
 - [2022-03-04-CNCF-Serverless工作流社区携华为云FunctionGraph开拓编排新时代](https://toutiao.io/k/klr11r6) ![](assets/new.png)  
 - [2022-03-04-推荐-【超赞】技术架构的战略和战术原则](https://toutiao.io/k/j9872pc) ![](assets/new.png)  
-- [2022-03-04-推荐-一张图看懂微服务架构路线](https://toutiao.io/k/upx1qip) ![](assets/new.png)  
-- [2022-03-04-推荐-ClickHouse使用实践与规范](https://toutiao.io/k/fb7mdkl) ![](assets/new.png)  
-- [2022-03-04-推荐-2万字，详解数据湖，概念、特征、架构、方案、场景以及建湖全过程（建议收藏）](https://toutiao.io/k/vcpzf1w) ![](assets/new.png)  
+- [2022-03-04-推荐-Golang-简洁架构实战](https://toutiao.io/k/vjw1dlc) ![](assets/new.png)  
 - [2022-03-04-推荐-微服务从代码到k8s部署应有尽有大结局（k8s部署）](https://toutiao.io/k/xk3qbvm) ![](assets/new.png)  
+- [2022-03-04-推荐-一张图看懂微服务架构路线](https://toutiao.io/k/upx1qip) ![](assets/new.png)  
+- [2022-03-04-推荐-2021年最受程序员欢迎的开发工具TOP-100名单出炉！](https://toutiao.io/k/uf5vypr) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2022-03-04 14:13:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-03-04 14:36:45。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-03-04-2022-年了，怎么还没有-all-in-one-的-linter+formatter](https://www.v2ex.com/t/838074) 
 - [2022-03-04-激情褪去，剩下什么](https://www.v2ex.com/t/838073) 
 - [2022-03-04-旧闻:-Hyper-V-中的-Linux-guest-如果有跑-GUI-的需求的话,-可以试试-Hyperv-drm-显示驱动了](https://www.v2ex.com/t/838071) 
 - [2022-03-04-筑·格瓦拉](https://www.v2ex.com/t/838069) 
@@ -41,5 +42,3 @@
 - [2022-03-04-IOS-上有什么好用的计算器吗？](https://www.v2ex.com/t/838028) 
 - [2022-03-04-mac-上的-ibook-体验好差](https://www.v2ex.com/t/838027) 
 - [2022-03-04-pycharm-中-vim-配置疑问](https://www.v2ex.com/t/838026) 
-- [2022-03-04-蚂蚁资金平台校招开始了，欢迎来聊](https://www.v2ex.com/t/838025) 
-- [2022-03-04-支撑你们认真学习工作生活的精神力量/信念/信仰/动力是什么](https://www.v2ex.com/t/838024) 

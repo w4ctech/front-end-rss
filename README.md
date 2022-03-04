@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-03-04 14:13:19，:rocket: 更新条数: +2003， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-03-04 14:36:45，:rocket: 更新条数: +2003， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -66,6 +66,7 @@
 
 
 - [2022-03-04-最新疫情：全国新冠累计确诊110258例-累计接种新冠疫苗超31.47亿剂次](https://m.caixin.com/m/2022-03-04/101850850.html) ![](assets/new.png)  
+- [2022-03-04-香港放开第四针新冠疫苗接种](https://m.caixin.com/m/2022-03-04/101851034.html) ![](assets/new.png)  
 - [2022-03-04-上海9天新增34例新冠感染者-计划扩大定点医院收治能力](https://m.caixin.com/m/2022-03-04/101850824.html) ![](assets/new.png)  
 - [2022-03-04-最新海外疫情：新冠感染超4.41亿-累计接种新冠疫苗超107.21亿剂次](https://m.caixin.com/m/2022-03-04/101850856.html) ![](assets/new.png)  
 - [2022-03-04-【境内疫情观察】广东新增117例境外输入病例（3月3日）](https://database.caixin.com/m/2022-03-04/101850568.html) ![](assets/new.png)  
@@ -84,7 +85,6 @@
 - [2022-03-02-研究称辉瑞疫苗对低龄儿童保护效力快速下降，Novavax争取疫苗全面批准｜大流行手记（3月1日）](https://m.caixin.com/m/2022-03-02/101849237.html) ![](assets/new.png)  
 - [2022-03-02-健康码管理各自为政问题重重-人大代表建议全国“一码通行”](https://m.caixin.com/m/2022-03-02/101849377.html) ![](assets/new.png)  
 - [2022-03-02-英国女王感染新冠一周后康复-与家人欢度周末时光](https://international.caixin.com/m/2022-03-02/101849261.html) ![](assets/new.png)  
-- [2022-03-01-港府拟从内地聘千名临时护工-月薪3.1万港元](https://companies.caixin.com/m/2022-03-01/101849018.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-03-04-2022-年了，怎么还没有-all-in-one-的-linter+formatter](https://www.v2ex.com/t/838074) ![](assets/new.png)  
 - [2022-03-04-激情褪去，剩下什么](https://www.v2ex.com/t/838073) ![](assets/new.png)  
 - [2022-03-04-旧闻:-Hyper-V-中的-Linux-guest-如果有跑-GUI-的需求的话,-可以试试-Hyperv-drm-显示驱动了](https://www.v2ex.com/t/838071) ![](assets/new.png)  
 - [2022-03-04-筑·格瓦拉](https://www.v2ex.com/t/838069) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-03-04-求-Windows-操作系统各个版本的中国市场份额？](https://www.v2ex.com/t/838051) ![](assets/new.png)  
 - [2022-03-04-flask-内存回收的问题，请教下各位大佬](https://www.v2ex.com/t/838050) ![](assets/new.png)  
 - [2022-03-04-接私活接的心累，请问大家怎么优雅的和客户撕（jia）逼（qian）的？？](https://www.v2ex.com/t/838045) ![](assets/new.png)  
-- [2022-03-04-有哪些环境音-API-可以在线调用呢？](https://www.v2ex.com/t/838044) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -562,10 +562,10 @@
 - [2022-03-04-关于微服务的一些思考](https://toutiao.io/k/b9ztphf) ![](assets/new.png)  
 - [2022-03-04-美团外卖广告平台化的探索与实践](https://toutiao.io/k/u45i061) ![](assets/new.png)  
 - [2022-03-04-Presto-常用性能优化技巧](https://toutiao.io/k/yzqtgts) ![](assets/new.png)  
-- [2022-03-04-Google搜索正在“死亡”](https://toutiao.io/k/iveqip4) ![](assets/new.png)  
 - [2022-03-04-一条慢SQL引发的改造](https://toutiao.io/k/ltu8g55) ![](assets/new.png)  
-- [2022-03-04-别找了，关于如何面试的问题都在这](https://toutiao.io/k/k9rxkb7) ![](assets/new.png)  
+- [2022-03-04-Google搜索正在“死亡”](https://toutiao.io/k/iveqip4) ![](assets/new.png)  
 - [2022-03-04-MySQL-团队开发规范](https://toutiao.io/k/qjooigy) ![](assets/new.png)  
+- [2022-03-04-别找了，关于如何面试的问题都在这](https://toutiao.io/k/k9rxkb7) ![](assets/new.png)  
 - [2022-03-04-贝壳Go实现的多云对接存储网关建设](https://toutiao.io/k/4jn0kmn) ![](assets/new.png)  
 - [2022-03-04-宋哲琦：一站式数据开发平台在有赞的最佳实践](https://toutiao.io/k/wzztcj4) ![](assets/new.png)  
 - [2022-03-04-分享一个CI/CD的自动部署想法](https://toutiao.io/k/5ui7zv4) ![](assets/new.png)  

@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2022-03-04 23:02:59。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-03-04 23:13:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-03-04-低功耗-ECC-NAS，现在用的是-z240，有更低功耗的选项吗](https://www.v2ex.com/t/838111) 
 - [2022-03-04-duolingo-多邻国-拼个](https://www.v2ex.com/t/838110) 
 - [2022-03-04-MacBook-Pro,-14-inch-M1-Pro.-外接显示器求推荐](https://www.v2ex.com/t/838109) 
 - [2022-03-04-币安去迪拜用旅游签？](https://www.v2ex.com/t/838108) 

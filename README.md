@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-03-04 23:02:58，:rocket: 更新条数: +2002， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-03-04 23:13:08，:rocket: 更新条数: +2003， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-03-04-低功耗-ECC-NAS，现在用的是-z240，有更低功耗的选项吗](https://www.v2ex.com/t/838111) ![](assets/new.png)  
 - [2022-03-04-duolingo-多邻国-拼个](https://www.v2ex.com/t/838110) ![](assets/new.png)  
 - [2022-03-04-MacBook-Pro,-14-inch-M1-Pro.-外接显示器求推荐](https://www.v2ex.com/t/838109) ![](assets/new.png)  
 - [2022-03-04-币安去迪拜用旅游签？](https://www.v2ex.com/t/838108) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-03-04-做了一个开源的脑图编辑器](https://www.v2ex.com/t/838086) ![](assets/new.png)  
 - [2022-03-04-win10-如何把默认浏览器从-IE-改成-chrome、Edge？各种方法都试了](https://www.v2ex.com/t/838085) ![](assets/new.png)  
 - [2022-03-04-nodejs-打印输出成-excel-文档代码有吗](https://www.v2ex.com/t/838084) ![](assets/new.png)  
-- [2022-03-04-求一个上海程序员的微信群.-谢谢](https://www.v2ex.com/t/838083) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

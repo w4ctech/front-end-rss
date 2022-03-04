@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-03-04 04:16:40。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-03-04 04:47:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -73,7 +73,6 @@
 
 
 
-- [【V2EX】广州TypeScript-游戏开发工程师](https://www.v2ex.com/t/837872)
 - [......【查看更多】......](./details/tags/typescript.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -183,6 +182,7 @@
 - [【张鑫旭-鑫空间-鑫生活】还有完没完，怎么又来了个-scrollbar-gutter？](https://www.zhangxinxu.com/wordpress/2022/01/css-scrollbar-gutter/)
 - [【张鑫旭-鑫空间-鑫生活】JS-标签模板（Tagged-templates）什么时候使用？](https://www.zhangxinxu.com/wordpress/2021/12/js-tagged-templates/)
 - [【张鑫旭-鑫空间-鑫生活】深入JS-getRandomValues和Math.random方法](https://www.zhangxinxu.com/wordpress/2021/12/js-getrandomvalue-math-random/)
+- [【V2EX】不打开-Thor-的情况下，-ios-设备访问-V2EX-显示-NSURLErrorDomain](https://www.v2ex.com/t/837920)
 - [【V2EX】1000M-的带宽，推荐下路由器](https://www.v2ex.com/t/837895)
 - [......【查看更多】......](./details/tags/javascript.md)
 

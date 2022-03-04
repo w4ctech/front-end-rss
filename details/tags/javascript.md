@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-03-04 09:13:18。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-03-04 09:38:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -16,5 +16,5 @@
 - [2022-01-11-还有完没完，怎么又来了个-scrollbar-gutter？](https://www.zhangxinxu.com/wordpress/2022/01/css-scrollbar-gutter/) 
 - [2021-12-29-JS-标签模板（Tagged-templates）什么时候使用？](https://www.zhangxinxu.com/wordpress/2021/12/js-tagged-templates/) 
 - [2021-12-20-深入JS-getRandomValues和Math.random方法](https://www.zhangxinxu.com/wordpress/2021/12/js-getrandomvalue-math-random/) 
+- [2022-03-04-js-的-promise，求指导](https://www.v2ex.com/t/838012) 
 - [2022-03-04-Logi-options-里的平滑滚动开和关的效果都一样？](https://www.v2ex.com/t/837983) 
-- [2022-03-04-请问正则表达式中，中间部分的?:的作用是什么？](https://www.v2ex.com/t/837966) 

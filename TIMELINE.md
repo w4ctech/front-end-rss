@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-03-05 08:40:46。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-03-05 09:12:14。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -69,6 +69,7 @@
 
 
 - [【武汉肺炎防疫全纪录(财新网)】2022-03-05-3月4日全国新增新冠281例-15省份本土102例](https://m.caixin.com/m/2022-03-05/101851122.html) 
+- [【武汉肺炎防疫全纪录(财新网)】2022-03-05-【境内疫情观察】全国15省新增102例本土病例（3月4日）](https://database.caixin.com/m/2022-03-05/101851302.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2022-03-05-丹麦研究称1/3感染者出现“长新冠”，比利时大幅取消疫情限制｜大流行手记（3月4日）](https://m.caixin.com/m/2022-03-05/101851182.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2022-03-04-香港放开第四针新冠疫苗接种](https://m.caixin.com/m/2022-03-04/101851034.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2022-03-04-上海9天新增34例新冠感染者-计划扩大定点医院收治能力](https://m.caixin.com/m/2022-03-04/101850824.html) 
@@ -95,6 +96,11 @@
 - [【武汉肺炎防疫全纪录(财新网)】2022-03-01-【境内疫情观察】全国现有无症状感染者1097例（2月28日）](https://database.caixin.com/m/2022-03-01/101848773.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2022-03-01-Moderna面临专利侵权诉讼-香港单日新增病例突破两万大关｜大流行手记（2月28日）](https://m.caixin.com/m/2022-03-01/101848534.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2022-03-01-【图集】香港新增34466例确诊-即将开展全民强制核酸检测](https://photos.caixin.com/m/2022-03-01/101848603.html) 
+- [【V2EX】2022-03-05-做-manager-其实挺累的](https://www.v2ex.com/t/838214) 
+- [【V2EX】2022-03-05-有没有一款拍照-app-是内建相册的？](https://www.v2ex.com/t/838213) 
+- [【V2EX】2022-03-05-咨询一个开发管理问题](https://www.v2ex.com/t/838212) 
+- [【V2EX】2022-03-05-刷短视频时而上瘾时而劝退...纯吐槽向,发牢骚](https://www.v2ex.com/t/838210) 
+- [【V2EX】2022-03-05-求推荐-Git-代码托管平台](https://www.v2ex.com/t/838209) 
 - [【V2EX】2022-03-05-想用个开发板+1-寸显示屏做开源手表,应该学习哪些技能?](https://www.v2ex.com/t/838207) 
 - [【V2EX】2022-03-05-分享一个不用第三方工具在给长辈或小孩的-Android-手机上禁止-APK-Sideload-的方法。](https://www.v2ex.com/t/838206) 
 - [【V2EX】2022-03-05-大学两年啥比赛也没参加，天天忙自己的东西还累得要死，到现在一事无成。焦虑，对未来很迷茫。](https://www.v2ex.com/t/838205) 
@@ -124,10 +130,6 @@
 - [【V2EX】2022-03-05-wsl-中如何单独安装-PHP-给-vscode](https://www.v2ex.com/t/838168) 
 - [【V2EX】2022-03-05-今天听到一个笑话](https://www.v2ex.com/t/838166) 
 - [【V2EX】2022-03-05-大家的-Git-有几个分支，有什么比较好的-Git-实践吗](https://www.v2ex.com/t/838165) 
-- [【V2EX】2022-03-05-大家理解的技术大神都是什么标准？](https://www.v2ex.com/t/838162) 
-- [【V2EX】2022-03-05-请问硕士毕业后去小学/初中的计算机老师怎么样？](https://www.v2ex.com/t/838161) 
-- [【V2EX】2022-03-05-关于女朋友的闲置-iphone11-的处理问题](https://www.v2ex.com/t/838160) 
-- [【V2EX】2022-03-05-有没有便宜点的软路由方案？最好是成品中控机](https://www.v2ex.com/t/838159) 
 - [【技术头条】2022-03-05-浅谈企业数据能力建设-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14964&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fenterprise-data-capability-building%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-03-05-Web前端性能优化思路-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14963&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fweb-frontend-performance-tuning%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-03-05-手把手教你打造一款高逼格的Vim神器-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14962&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493488%26amp%3Bidx%3D1%26amp%3Bsn%3D8c128186d0b12d8022708ce9b725c809%26amp%3Bchksm%3Dfa3f062bcd488f3d67c96d2ef6df68b69de330f0c59212326cb0ae131769811d029e0b67efb7%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -160,13 +162,13 @@
 - [【开发者头条】2022-03-05-Nest.js-用了-Express-但也没完全用](https://toutiao.io/k/cpce480) 
 - [【开发者头条】2022-03-05-金三银四，offer收割指南](https://toutiao.io/k/i0m3csp) 
 - [【开发者头条】2022-03-05-【第2547期】TypeScript-4.6-正式发布](https://toutiao.io/k/vrjc1l3) 
-- [【开发者头条】2022-03-05-推荐-【超赞】技术架构的战略和战术原则](https://toutiao.io/k/j9872pc) 
 - [【开发者头条】2022-03-05-推荐-高并发是一种架构思维模式](https://toutiao.io/k/imslmgz) 
-- [【开发者头条】2022-03-05-推荐-Golang-简洁架构实战](https://toutiao.io/k/vjw1dlc) 
 - [【开发者头条】2022-03-05-推荐-2万字，详解数据湖，概念、特征、架构、方案、场景以及建湖全过程（建议收藏）](https://toutiao.io/k/vcpzf1w) 
-- [【开发者头条】2022-03-05-推荐-微服务从代码到k8s部署应有尽有大结局（k8s部署）](https://toutiao.io/k/xk3qbvm) 
-- [【开发者头条】2022-03-05-推荐-2021年最受程序员欢迎的开发工具TOP-100名单出炉！](https://toutiao.io/k/uf5vypr) 
 - [【开发者头条】2022-03-05-推荐-SpringBoot性能优化大全，贼好使！](https://toutiao.io/k/75br1se) 
+- [【开发者头条】2022-03-05-推荐-【超赞】技术架构的战略和战术原则](https://toutiao.io/k/j9872pc) 
+- [【开发者头条】2022-03-05-推荐-2021年最受程序员欢迎的开发工具TOP-100名单出炉！](https://toutiao.io/k/uf5vypr) 
+- [【开发者头条】2022-03-05-推荐-微服务从代码到k8s部署应有尽有大结局（k8s部署）](https://toutiao.io/k/xk3qbvm) 
+- [【开发者头条】2022-03-05-推荐-Golang-简洁架构实战](https://toutiao.io/k/vjw1dlc) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

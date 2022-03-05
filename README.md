@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-03-05 08:40:46，:rocket: 更新条数: +1991， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-03-05 09:12:14，:rocket: 更新条数: +1993， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -66,6 +66,7 @@
 
 
 - [2022-03-05-3月4日全国新增新冠281例-15省份本土102例](https://m.caixin.com/m/2022-03-05/101851122.html) ![](assets/new.png)  
+- [2022-03-05-【境内疫情观察】全国15省新增102例本土病例（3月4日）](https://database.caixin.com/m/2022-03-05/101851302.html) ![](assets/new.png)  
 - [2022-03-05-丹麦研究称1/3感染者出现“长新冠”，比利时大幅取消疫情限制｜大流行手记（3月4日）](https://m.caixin.com/m/2022-03-05/101851182.html) ![](assets/new.png)  
 - [2022-03-04-香港放开第四针新冠疫苗接种](https://m.caixin.com/m/2022-03-04/101851034.html) ![](assets/new.png)  
 - [2022-03-04-上海9天新增34例新冠感染者-计划扩大定点医院收治能力](https://m.caixin.com/m/2022-03-04/101850824.html) ![](assets/new.png)  
@@ -84,7 +85,6 @@
 - [2022-03-02-深圳部分地区“扫楼”排查感染者-居民称柜子床底都要看](https://m.caixin.com/m/2022-03-02/101849116.html) ![](assets/new.png)  
 - [2022-03-02-【境内疫情观察】广东新增32例本土病例（3月1日）](https://database.caixin.com/m/2022-03-02/101849330.html) ![](assets/new.png)  
 - [2022-03-02-研究称辉瑞疫苗对低龄儿童保护效力快速下降，Novavax争取疫苗全面批准｜大流行手记（3月1日）](https://m.caixin.com/m/2022-03-02/101849237.html) ![](assets/new.png)  
-- [2022-03-02-健康码管理各自为政问题重重-人大代表建议全国“一码通行”](https://m.caixin.com/m/2022-03-02/101849377.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -491,6 +491,11 @@
 </summary>
 
 
+- [2022-03-05-做-manager-其实挺累的](https://www.v2ex.com/t/838214) ![](assets/new.png)  
+- [2022-03-05-有没有一款拍照-app-是内建相册的？](https://www.v2ex.com/t/838213) ![](assets/new.png)  
+- [2022-03-05-咨询一个开发管理问题](https://www.v2ex.com/t/838212) ![](assets/new.png)  
+- [2022-03-05-刷短视频时而上瘾时而劝退...纯吐槽向,发牢骚](https://www.v2ex.com/t/838210) ![](assets/new.png)  
+- [2022-03-05-求推荐-Git-代码托管平台](https://www.v2ex.com/t/838209) ![](assets/new.png)  
 - [2022-03-05-想用个开发板+1-寸显示屏做开源手表,应该学习哪些技能?](https://www.v2ex.com/t/838207) ![](assets/new.png)  
 - [2022-03-05-分享一个不用第三方工具在给长辈或小孩的-Android-手机上禁止-APK-Sideload-的方法。](https://www.v2ex.com/t/838206) ![](assets/new.png)  
 - [2022-03-05-大学两年啥比赛也没参加，天天忙自己的东西还累得要死，到现在一事无成。焦虑，对未来很迷茫。](https://www.v2ex.com/t/838205) ![](assets/new.png)  
@@ -506,11 +511,6 @@
 - [2022-03-05-V-友们，-4K-显示器请教一下](https://www.v2ex.com/t/838188) ![](assets/new.png)  
 - [2022-03-05-win10-4K-显示器选择](https://www.v2ex.com/t/838187) ![](assets/new.png)  
 - [2022-03-05-求近年在美丽国长时间生活/学习的中国人咨询点问题](https://www.v2ex.com/t/838185) ![](assets/new.png)  
-- [2022-03-05-Ubuntu-20.04-下，-Docker-容器如何获取和宿主机同一网段的独立-IP？](https://www.v2ex.com/t/838183) ![](assets/new.png)  
-- [2022-03-05-求推荐-AP+AC](https://www.v2ex.com/t/838181) ![](assets/new.png)  
-- [2022-03-05-准备换手机，请教一下三星小米的一些问题](https://www.v2ex.com/t/838180) ![](assets/new.png)  
-- [2022-03-05-2022-年，求推荐大学生笔记本配置](https://www.v2ex.com/t/838179) ![](assets/new.png)  
-- [2022-03-05-兴东站附近工作，租哪里好？](https://www.v2ex.com/t/838178) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -565,13 +565,13 @@
 - [2022-03-05-Nest.js-用了-Express-但也没完全用](https://toutiao.io/k/cpce480) ![](assets/new.png)  
 - [2022-03-05-金三银四，offer收割指南](https://toutiao.io/k/i0m3csp) ![](assets/new.png)  
 - [2022-03-05-【第2547期】TypeScript-4.6-正式发布](https://toutiao.io/k/vrjc1l3) ![](assets/new.png)  
-- [2022-03-05-推荐-【超赞】技术架构的战略和战术原则](https://toutiao.io/k/j9872pc) ![](assets/new.png)  
 - [2022-03-05-推荐-高并发是一种架构思维模式](https://toutiao.io/k/imslmgz) ![](assets/new.png)  
-- [2022-03-05-推荐-Golang-简洁架构实战](https://toutiao.io/k/vjw1dlc) ![](assets/new.png)  
 - [2022-03-05-推荐-2万字，详解数据湖，概念、特征、架构、方案、场景以及建湖全过程（建议收藏）](https://toutiao.io/k/vcpzf1w) ![](assets/new.png)  
-- [2022-03-05-推荐-微服务从代码到k8s部署应有尽有大结局（k8s部署）](https://toutiao.io/k/xk3qbvm) ![](assets/new.png)  
-- [2022-03-05-推荐-2021年最受程序员欢迎的开发工具TOP-100名单出炉！](https://toutiao.io/k/uf5vypr) ![](assets/new.png)  
 - [2022-03-05-推荐-SpringBoot性能优化大全，贼好使！](https://toutiao.io/k/75br1se) ![](assets/new.png)  
+- [2022-03-05-推荐-【超赞】技术架构的战略和战术原则](https://toutiao.io/k/j9872pc) ![](assets/new.png)  
+- [2022-03-05-推荐-2021年最受程序员欢迎的开发工具TOP-100名单出炉！](https://toutiao.io/k/uf5vypr) ![](assets/new.png)  
+- [2022-03-05-推荐-微服务从代码到k8s部署应有尽有大结局（k8s部署）](https://toutiao.io/k/xk3qbvm) ![](assets/new.png)  
+- [2022-03-05-推荐-Golang-简洁架构实战](https://toutiao.io/k/vjw1dlc) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

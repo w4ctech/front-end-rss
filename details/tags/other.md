@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-03-05 08:40:46。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-03-05 09:12:14。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -6,6 +6,7 @@
 
 
 - [2022-03-05-3月4日全国新增新冠281例-15省份本土102例](https://m.caixin.com/m/2022-03-05/101851122.html) 
+- [2022-03-05-【境内疫情观察】全国15省新增102例本土病例（3月4日）](https://database.caixin.com/m/2022-03-05/101851302.html) 
 - [2022-03-05-丹麦研究称1/3感染者出现“长新冠”，比利时大幅取消疫情限制｜大流行手记（3月4日）](https://m.caixin.com/m/2022-03-05/101851182.html) 
 - [2022-03-04-香港放开第四针新冠疫苗接种](https://m.caixin.com/m/2022-03-04/101851034.html) 
 - [2022-03-04-上海9天新增34例新冠感染者-计划扩大定点医院收治能力](https://m.caixin.com/m/2022-03-04/101850824.html) 
@@ -1886,6 +1887,9 @@
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2022-02-04-HTML-inputmode与iOS-Android软键盘类型测试](https://www.zhangxinxu.com/wordpress/2022/02/html-inputmode-keyboard/) 
+- [2022-03-05-做-manager-其实挺累的](https://www.v2ex.com/t/838214) 
+- [2022-03-05-有没有一款拍照-app-是内建相册的？](https://www.v2ex.com/t/838213) 
+- [2022-03-05-咨询一个开发管理问题](https://www.v2ex.com/t/838212) 
 - [2022-03-05-想用个开发板+1-寸显示屏做开源手表,应该学习哪些技能?](https://www.v2ex.com/t/838207) 
 - [2022-03-05-分享一个不用第三方工具在给长辈或小孩的-Android-手机上禁止-APK-Sideload-的方法。](https://www.v2ex.com/t/838206) 
 - [2022-03-05-大学两年啥比赛也没参加，天天忙自己的东西还累得要死，到现在一事无成。焦虑，对未来很迷茫。](https://www.v2ex.com/t/838205) 
@@ -1912,9 +1916,6 @@
 - [2022-03-05-上海浦东新世纪花苑耀华路-421-弄，-7、13-号线长青路地铁站一室一厅，房租-5000](https://www.v2ex.com/t/838169) 
 - [2022-03-05-wsl-中如何单独安装-PHP-给-vscode](https://www.v2ex.com/t/838168) 
 - [2022-03-05-今天听到一个笑话](https://www.v2ex.com/t/838166) 
-- [2022-03-05-大家理解的技术大神都是什么标准？](https://www.v2ex.com/t/838162) 
-- [2022-03-05-请问硕士毕业后去小学/初中的计算机老师怎么样？](https://www.v2ex.com/t/838161) 
-- [2022-03-05-关于女朋友的闲置-iphone11-的处理问题](https://www.v2ex.com/t/838160) 
 - [2022-03-05-浅谈企业数据能力建设-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14964&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fenterprise-data-capability-building%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-03-05-为什么会有TCPIP协议？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14960&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493487%26amp%3Bidx%3D1%26amp%3Bsn%3Dae7576870da25f743982f068bbc66cb8%26amp%3Bchksm%3Dfa3f0634cd488f226de44a1c25699248ed8c16e9953f97e0dee85a1d446b6414cef55042ae0f%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-03-05-分享一个完整的【停车系统】-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14958&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493484%26amp%3Bidx%3D1%26amp%3Bsn%3D2058998476be2536471f15549250c63d%26amp%3Bchksm%3Dfa3f0637cd488f2132af305dea472a02e7daaf2f9aa885f7b902a2f7407a40dca2bb165202d8%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1933,9 +1934,9 @@
 - [2022-03-05-百度多个业务线减员，涉及核心技术部门；阿里开启大规模校招；工信部：未经用户同意不得强制下载-App｜开发者头条](https://toutiao.io/k/vcn66sm) 
 - [2022-03-05-一年之计在于春！周末别闲着！](https://toutiao.io/k/32pyr3x) 
 - [2022-03-05-金三银四，offer收割指南](https://toutiao.io/k/i0m3csp) 
-- [2022-03-05-推荐-【超赞】技术架构的战略和战术原则](https://toutiao.io/k/j9872pc) 
 - [2022-03-05-推荐-高并发是一种架构思维模式](https://toutiao.io/k/imslmgz) 
-- [2022-03-05-推荐-Golang-简洁架构实战](https://toutiao.io/k/vjw1dlc) 
 - [2022-03-05-推荐-2万字，详解数据湖，概念、特征、架构、方案、场景以及建湖全过程（建议收藏）](https://toutiao.io/k/vcpzf1w) 
-- [2022-03-05-推荐-微服务从代码到k8s部署应有尽有大结局（k8s部署）](https://toutiao.io/k/xk3qbvm) 
+- [2022-03-05-推荐-【超赞】技术架构的战略和战术原则](https://toutiao.io/k/j9872pc) 
 - [2022-03-05-推荐-2021年最受程序员欢迎的开发工具TOP-100名单出炉！](https://toutiao.io/k/uf5vypr) 
+- [2022-03-05-推荐-微服务从代码到k8s部署应有尽有大结局（k8s部署）](https://toutiao.io/k/xk3qbvm) 
+- [2022-03-05-推荐-Golang-简洁架构实战](https://toutiao.io/k/vjw1dlc) 

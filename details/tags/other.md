@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-03-05 21:36:40。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-03-05 22:13:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1889,6 +1889,7 @@
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2022-02-04-HTML-inputmode与iOS-Android软键盘类型测试](https://www.zhangxinxu.com/wordpress/2022/02/html-inputmode-keyboard/) 
+- [2022-03-05-为什么现在短信登录场景，很少有行为验证了？](https://www.v2ex.com/t/838297) 
 - [2022-03-05-介绍一个生成互联网公司公司职级对应关系的量化方法](https://www.v2ex.com/t/838295) 
 - [2022-03-05-200M-电信正常跑-230M-但过十天半个月的会掉到-130-140，重启光猫能恢复，是猫不太行吗](https://www.v2ex.com/t/838294) 
 - [2022-03-05-总监面一般都问些啥](https://www.v2ex.com/t/838291) 
@@ -1933,10 +1934,10 @@
 - [2022-03-05-网上的“考勤神器”，其实是黑灰产作弊工具](https://toutiao.io/k/32fipdr) 
 - [2022-03-05-百度多个业务线减员，涉及核心技术部门；阿里开启大规模校招；工信部：未经用户同意不得强制下载-App｜开发者头条](https://toutiao.io/k/vcn66sm) 
 - [2022-03-05-一年之计在于春！周末别闲着！](https://toutiao.io/k/32pyr3x) 
-- [2022-03-05-推荐-Golang-简洁架构实战](https://toutiao.io/k/vjw1dlc) 
-- [2022-03-05-推荐-高并发是一种架构思维模式](https://toutiao.io/k/imslmgz) 
+- [2022-03-05-推荐-微服务从代码到k8s部署应有尽有大结局（k8s部署）](https://toutiao.io/k/xk3qbvm) 
 - [2022-03-05-推荐-2万字，详解数据湖，概念、特征、架构、方案、场景以及建湖全过程（建议收藏）](https://toutiao.io/k/vcpzf1w) 
 - [2022-03-05-推荐-【超赞】技术架构的战略和战术原则](https://toutiao.io/k/j9872pc) 
-- [2022-03-05-推荐-微服务从代码到k8s部署应有尽有大结局（k8s部署）](https://toutiao.io/k/xk3qbvm) 
 - [2022-03-05-推荐-Java泛型详解，史上最全图文详解！](https://toutiao.io/k/chtkqxo) 
+- [2022-03-05-推荐-Golang-简洁架构实战](https://toutiao.io/k/vjw1dlc) 
+- [2022-03-05-推荐-高并发是一种架构思维模式](https://toutiao.io/k/imslmgz) 
 - [2022-03-05-推荐-2021年最受程序员欢迎的开发工具TOP-100名单出炉！](https://toutiao.io/k/uf5vypr) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-03-05 13:37:18，:rocket: 更新条数: +1996， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-03-05 14:11:58，:rocket: 更新条数: +1996， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-03-05-SQL-Insert-字段数量上限](https://www.v2ex.com/t/838252) ![](assets/new.png)  
+- [2022-03-05-手汗症的-V-友们，你们用-touch-ID-解锁的体验如何，有考虑换-face-ID-的手机么。。。。](https://www.v2ex.com/t/838251) ![](assets/new.png)  
 - [2022-03-05-云-Editor-来了，一键集成富文本编辑器，封闭测试招募中](https://www.v2ex.com/t/838248) ![](assets/new.png)  
 - [2022-03-05-运维转-Java-开发，-10-号入职，有点迷茫](https://www.v2ex.com/t/838246) ![](assets/new.png)  
 - [2022-03-05-（续）记录一下深圳电信办理-2000M-宽带](https://www.v2ex.com/t/838245) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-03-05-有没有想自学钢琴的，-Simply-Piano-可以免费领取一个月](https://www.v2ex.com/t/838230) ![](assets/new.png)  
 - [2022-03-05-做投屏软件很赚钱吗，为什么那么多？](https://www.v2ex.com/t/838228) ![](assets/new.png)  
 - [2022-03-05-本科毕设求助](https://www.v2ex.com/t/838227) ![](assets/new.png)  
-- [2022-03-05-广州/深圳字节跳动-校招、社招-Java-内推](https://www.v2ex.com/t/838226) ![](assets/new.png)  
-- [2022-03-05-深圳昨天推了一个“鹏城保”，大家看下性价比怎么样？值的买吗？](https://www.v2ex.com/t/838224) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -564,13 +564,13 @@
 - [2022-03-05-HiveSQL技术原理、优化与面试](https://toutiao.io/k/0vnab56) ![](assets/new.png)  
 - [2022-03-05-Nest.js-用了-Express-但也没完全用](https://toutiao.io/k/cpce480) ![](assets/new.png)  
 - [2022-03-05-【第2547期】TypeScript-4.6-正式发布](https://toutiao.io/k/vrjc1l3) ![](assets/new.png)  
-- [2022-03-05-推荐-SpringBoot性能优化大全，贼好使！](https://toutiao.io/k/75br1se) ![](assets/new.png)  
-- [2022-03-05-推荐-2021年最受程序员欢迎的开发工具TOP-100名单出炉！](https://toutiao.io/k/uf5vypr) ![](assets/new.png)  
-- [2022-03-05-推荐-【超赞】技术架构的战略和战术原则](https://toutiao.io/k/j9872pc) ![](assets/new.png)  
-- [2022-03-05-推荐-微服务从代码到k8s部署应有尽有大结局（k8s部署）](https://toutiao.io/k/xk3qbvm) ![](assets/new.png)  
-- [2022-03-05-推荐-2万字，详解数据湖，概念、特征、架构、方案、场景以及建湖全过程（建议收藏）](https://toutiao.io/k/vcpzf1w) ![](assets/new.png)  
-- [2022-03-05-推荐-高并发是一种架构思维模式](https://toutiao.io/k/imslmgz) ![](assets/new.png)  
 - [2022-03-05-推荐-Golang-简洁架构实战](https://toutiao.io/k/vjw1dlc) ![](assets/new.png)  
+- [2022-03-05-推荐-微服务从代码到k8s部署应有尽有大结局（k8s部署）](https://toutiao.io/k/xk3qbvm) ![](assets/new.png)  
+- [2022-03-05-推荐-SpringBoot性能优化大全，贼好使！](https://toutiao.io/k/75br1se) ![](assets/new.png)  
+- [2022-03-05-推荐-【超赞】技术架构的战略和战术原则](https://toutiao.io/k/j9872pc) ![](assets/new.png)  
+- [2022-03-05-推荐-2021年最受程序员欢迎的开发工具TOP-100名单出炉！](https://toutiao.io/k/uf5vypr) ![](assets/new.png)  
+- [2022-03-05-推荐-高并发是一种架构思维模式](https://toutiao.io/k/imslmgz) ![](assets/new.png)  
+- [2022-03-05-推荐-2万字，详解数据湖，概念、特征、架构、方案、场景以及建湖全过程（建议收藏）](https://toutiao.io/k/vcpzf1w) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

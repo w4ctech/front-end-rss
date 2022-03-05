@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-03-05 12:18:47。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-03-05 12:54:07。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -353,6 +353,7 @@
 
 
 
+- [【V2EX】蚂蚁-数字金融线-保险技术部-2023-届实习生招聘内推](https://www.v2ex.com/t/838242)
 - [【V2EX】北京雍和宫附近招聘-C++研发工程师](https://www.v2ex.com/t/838218)
 - [【开发者头条】假如你是面试官，你怎么问Mybatis的原理](https://toutiao.io/k/o78x0tp)
 - [......【查看更多】......](./details/tags/job-interview.md)

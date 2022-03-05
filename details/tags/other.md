@@ -1,11 +1,11 @@
-:alarm_clock: 更新时间: 2022-03-05 00:49:55。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-03-05 02:06:43。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
 
 
 
-- [2022-03-04-最新疫情：全国新冠累计确诊110258例-累计接种新冠疫苗超31.47亿剂次](https://m.caixin.com/m/2022-03-04/101850850.html) 
+- [2022-03-05-3月4日全国新增新冠281例-15省份本土102例](https://m.caixin.com/m/2022-03-05/101851122.html) 
 - [2022-03-04-香港放开第四针新冠疫苗接种](https://m.caixin.com/m/2022-03-04/101851034.html) 
 - [2022-03-04-上海9天新增34例新冠感染者-计划扩大定点医院收治能力](https://m.caixin.com/m/2022-03-04/101850824.html) 
 - [2022-03-04-最新海外疫情：新冠感染超4.41亿-累计接种新冠疫苗超107.21亿剂次](https://m.caixin.com/m/2022-03-04/101850856.html) 
@@ -1885,8 +1885,10 @@
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2022-02-04-HTML-inputmode与iOS-Android软键盘类型测试](https://www.zhangxinxu.com/wordpress/2022/02/html-inputmode-keyboard/) 
-- [2022-03-05-App-Store-开启-unicef-捐款通道](https://www.v2ex.com/t/838114) 
-- [2022-03-05-微软思科-VMware-都暂停了在俄罗斯服务](https://www.v2ex.com/t/838113) 
+- [2022-03-05-8-年大厂经验-iOSer，寻安卓-Kotlin-开发技能互换](https://www.v2ex.com/t/838123) 
+- [2022-03-05-RSA-AES256-GCM-SHA384-和-ECDHE-RSA-AES256-CBC-SHA384-哪种更强](https://www.v2ex.com/t/838121) 
+- [2022-03-05-为什么-IOS-的相机总是卡成狗？](https://www.v2ex.com/t/838120) 
+- [2022-03-05-有精通-Linux-内核内存管理的老哥能说说你是怎么学这一块的知识的吗？](https://www.v2ex.com/t/838115) 
 - [2022-03-04-苹果在美区-App-Store-开通了-Unicef-联合国儿童基金会捐赠入口。](https://www.v2ex.com/t/838112) 
 - [2022-03-04-低功耗-ECC-NAS，现在用的是-z240，有更低功耗的选项吗](https://www.v2ex.com/t/838111) 
 - [2022-03-04-MacBook-Pro,-14-inch-M1-Pro.-外接显示器求推荐](https://www.v2ex.com/t/838109) 
@@ -1910,11 +1912,6 @@
 - [2022-03-04-不同转速硬盘功耗区别大不？](https://www.v2ex.com/t/838077) 
 - [2022-03-04-Cloudflare-tunnel-能处理高并发吗？](https://www.v2ex.com/t/838076) 
 - [2022-03-04-2022-年了，怎么还没有-all-in-one-的-linter+formatter](https://www.v2ex.com/t/838074) 
-- [2022-03-04-激情褪去，剩下什么](https://www.v2ex.com/t/838073) 
-- [2022-03-04-筑·格瓦拉](https://www.v2ex.com/t/838069) 
-- [2022-03-04-该说不说的，就外网同步数据回家里来说，-resilio-sync-比-syncthing-快多了。](https://www.v2ex.com/t/838067) 
-- [2022-03-04-双非本科转行码农,简历求指导](https://www.v2ex.com/t/838066) 
-- [2022-03-04-没有啥技术积累的小公司可以驾驭-Ceph-吗？](https://www.v2ex.com/t/838065) 
 - [2022-03-05-浅谈企业数据能力建设-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14964&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fenterprise-data-capability-building%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-03-05-为什么会有TCPIP协议？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14960&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493487%26amp%3Bidx%3D1%26amp%3Bsn%3Dae7576870da25f743982f068bbc66cb8%26amp%3Bchksm%3Dfa3f0634cd488f226de44a1c25699248ed8c16e9953f97e0dee85a1d446b6414cef55042ae0f%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-03-05-分享一个完整的【停车系统】-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14958&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493484%26amp%3Bidx%3D1%26amp%3Bsn%3D2058998476be2536471f15549250c63d%26amp%3Bchksm%3Dfa3f0637cd488f2132af305dea472a02e7daaf2f9aa885f7b902a2f7407a40dca2bb165202d8%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1930,9 +1927,11 @@
 - [2022-03-05-优质网站同好者周刊（第-55-期）--倾城之链---悠然宜想亭](https://toutiao.io/k/l7nomyp) 
 - [2022-03-05-网上的“考勤神器”，其实是黑灰产作弊工具](https://toutiao.io/k/32fipdr) 
 - [2022-03-05-你好，皮卡丘！用python写一个可以陪你聊天的皮卡丘版桌面宠物吧~](https://toutiao.io/k/4zqyn5g) 
-- [2022-03-05-推荐-2021年最受程序员欢迎的开发工具TOP-100名单出炉！](https://toutiao.io/k/uf5vypr) 
-- [2022-03-05-推荐-【超赞】技术架构的战略和战术原则](https://toutiao.io/k/j9872pc) 
-- [2022-03-05-推荐-2万字，详解数据湖，概念、特征、架构、方案、场景以及建湖全过程（建议收藏）](https://toutiao.io/k/vcpzf1w) 
+- [2022-03-05-百度多个业务线减员，涉及核心技术部门；阿里开启大规模校招；工信部：未经用户同意不得强制下载-App｜开发者头条](https://toutiao.io/k/vcn66sm) 
+- [2022-03-05-一年之计在于春！周末别闲着！](https://toutiao.io/k/32pyr3x) 
 - [2022-03-05-推荐-高并发是一种架构思维模式](https://toutiao.io/k/imslmgz) 
 - [2022-03-05-推荐-微服务从代码到k8s部署应有尽有大结局（k8s部署）](https://toutiao.io/k/xk3qbvm) 
+- [2022-03-05-推荐-2021年最受程序员欢迎的开发工具TOP-100名单出炉！](https://toutiao.io/k/uf5vypr) 
+- [2022-03-05-推荐-2万字，详解数据湖，概念、特征、架构、方案、场景以及建湖全过程（建议收藏）](https://toutiao.io/k/vcpzf1w) 
+- [2022-03-05-推荐-【超赞】技术架构的战略和战术原则](https://toutiao.io/k/j9872pc) 
 - [2022-03-05-推荐-Golang-简洁架构实战](https://toutiao.io/k/vjw1dlc) 

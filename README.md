@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-03-05 00:49:55，:rocket: 更新条数: +1986， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-03-05 02:06:43，:rocket: 更新条数: +1988， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -65,7 +65,7 @@
 </summary>
 
 
-- [2022-03-04-最新疫情：全国新冠累计确诊110258例-累计接种新冠疫苗超31.47亿剂次](https://m.caixin.com/m/2022-03-04/101850850.html) ![](assets/new.png)  
+- [2022-03-05-3月4日全国新增新冠281例-15省份本土102例](https://m.caixin.com/m/2022-03-05/101851122.html) ![](assets/new.png)  
 - [2022-03-04-香港放开第四针新冠疫苗接种](https://m.caixin.com/m/2022-03-04/101851034.html) ![](assets/new.png)  
 - [2022-03-04-上海9天新增34例新冠感染者-计划扩大定点医院收治能力](https://m.caixin.com/m/2022-03-04/101850824.html) ![](assets/new.png)  
 - [2022-03-04-最新海外疫情：新冠感染超4.41亿-累计接种新冠疫苗超107.21亿剂次](https://m.caixin.com/m/2022-03-04/101850856.html) ![](assets/new.png)  
@@ -491,8 +491,12 @@
 </summary>
 
 
-- [2022-03-05-App-Store-开启-unicef-捐款通道](https://www.v2ex.com/t/838114) ![](assets/new.png)  
-- [2022-03-05-微软思科-VMware-都暂停了在俄罗斯服务](https://www.v2ex.com/t/838113) ![](assets/new.png)  
+- [2022-03-05-8-年大厂经验-iOSer，寻安卓-Kotlin-开发技能互换](https://www.v2ex.com/t/838123) ![](assets/new.png)  
+- [2022-03-05-RSA-AES256-GCM-SHA384-和-ECDHE-RSA-AES256-CBC-SHA384-哪种更强](https://www.v2ex.com/t/838121) ![](assets/new.png)  
+- [2022-03-05-为什么-IOS-的相机总是卡成狗？](https://www.v2ex.com/t/838120) ![](assets/new.png)  
+- [2022-03-05-请教一个-H5-和-PC-上的程序通讯的问题](https://www.v2ex.com/t/838119) ![](assets/new.png)  
+- [2022-03-05-如何打包魔改后的基于-maven-构建的开源项目](https://www.v2ex.com/t/838117) ![](assets/new.png)  
+- [2022-03-05-有精通-Linux-内核内存管理的老哥能说说你是怎么学这一块的知识的吗？](https://www.v2ex.com/t/838115) ![](assets/new.png)  
 - [2022-03-04-苹果在美区-App-Store-开通了-Unicef-联合国儿童基金会捐赠入口。](https://www.v2ex.com/t/838112) ![](assets/new.png)  
 - [2022-03-04-低功耗-ECC-NAS，现在用的是-z240，有更低功耗的选项吗](https://www.v2ex.com/t/838111) ![](assets/new.png)  
 - [2022-03-04-MacBook-Pro,-14-inch-M1-Pro.-外接显示器求推荐](https://www.v2ex.com/t/838109) ![](assets/new.png)  
@@ -507,10 +511,6 @@
 - [2022-03-04-docker-做-CLion-toolchain-的时候，-CLion-是用什么用户名连进去-docker-的？](https://www.v2ex.com/t/838098) ![](assets/new.png)  
 - [2022-03-04-求助-支付宝多了一笔信用卡消费账单](https://www.v2ex.com/t/838097) ![](assets/new.png)  
 - [2022-03-04-上海-不加班-外企-招-Java-，-C++，测试，安卓，资深前端，-devOps，-PMO，帮忙内推也送钱](https://www.v2ex.com/t/838096) ![](assets/new.png)  
-- [2022-03-04-（纯主观）一个-javaver-用-go-语言的初步体验](https://www.v2ex.com/t/838094) ![](assets/new.png)  
-- [2022-03-04-之后想使用-Garuda-Linux-进行日常工作，买什么电脑好呢？](https://www.v2ex.com/t/838087) ![](assets/new.png)  
-- [2022-03-04-做了一个开源的脑图编辑器](https://www.v2ex.com/t/838086) ![](assets/new.png)  
-- [2022-03-04-win10-如何把默认浏览器从-IE-改成-chrome、Edge？各种方法都试了](https://www.v2ex.com/t/838085) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -558,13 +558,18 @@
 - [2022-03-05-你好，皮卡丘！用python写一个可以陪你聊天的皮卡丘版桌面宠物吧~](https://toutiao.io/k/4zqyn5g) ![](assets/new.png)  
 - [2022-03-05-假如你是面试官，你怎么问Mybatis的原理](https://toutiao.io/k/o78x0tp) ![](assets/new.png)  
 - [2022-03-05-Golang-语言微服务的服务发现组件-Consul-的系统架构介绍](https://toutiao.io/k/iggziwj) ![](assets/new.png)  
-- [2022-03-05-推荐-2021年最受程序员欢迎的开发工具TOP-100名单出炉！](https://toutiao.io/k/uf5vypr) ![](assets/new.png)  
-- [2022-03-05-推荐-【超赞】技术架构的战略和战术原则](https://toutiao.io/k/j9872pc) ![](assets/new.png)  
-- [2022-03-05-推荐-2万字，详解数据湖，概念、特征、架构、方案、场景以及建湖全过程（建议收藏）](https://toutiao.io/k/vcpzf1w) ![](assets/new.png)  
-- [2022-03-05-推荐-SpringBoot性能优化大全，贼好使！](https://toutiao.io/k/75br1se) ![](assets/new.png)  
+- [2022-03-05-百度多个业务线减员，涉及核心技术部门；阿里开启大规模校招；工信部：未经用户同意不得强制下载-App｜开发者头条](https://toutiao.io/k/vcn66sm) ![](assets/new.png)  
+- [2022-03-05-一年之计在于春！周末别闲着！](https://toutiao.io/k/32pyr3x) ![](assets/new.png)  
+- [2022-03-05-GPU在外卖场景精排模型预估中的应用实践](https://toutiao.io/k/ud6k3wq) ![](assets/new.png)  
+- [2022-03-05-HiveSQL技术原理、优化与面试](https://toutiao.io/k/0vnab56) ![](assets/new.png)  
+- [2022-03-05-Nest.js-用了-Express-但也没完全用](https://toutiao.io/k/cpce480) ![](assets/new.png)  
 - [2022-03-05-推荐-高并发是一种架构思维模式](https://toutiao.io/k/imslmgz) ![](assets/new.png)  
 - [2022-03-05-推荐-微服务从代码到k8s部署应有尽有大结局（k8s部署）](https://toutiao.io/k/xk3qbvm) ![](assets/new.png)  
+- [2022-03-05-推荐-2021年最受程序员欢迎的开发工具TOP-100名单出炉！](https://toutiao.io/k/uf5vypr) ![](assets/new.png)  
+- [2022-03-05-推荐-2万字，详解数据湖，概念、特征、架构、方案、场景以及建湖全过程（建议收藏）](https://toutiao.io/k/vcpzf1w) ![](assets/new.png)  
+- [2022-03-05-推荐-【超赞】技术架构的战略和战术原则](https://toutiao.io/k/j9872pc) ![](assets/new.png)  
 - [2022-03-05-推荐-Golang-简洁架构实战](https://toutiao.io/k/vjw1dlc) ![](assets/new.png)  
+- [2022-03-05-推荐-SpringBoot性能优化大全，贼好使！](https://toutiao.io/k/75br1se) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

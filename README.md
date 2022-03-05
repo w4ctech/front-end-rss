@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-03-05 08:15:00，:rocket: 更新条数: +1988， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-03-05 08:40:46，:rocket: 更新条数: +1991， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,12 @@
 </summary>
 
 
+- [2022-03-05-想用个开发板+1-寸显示屏做开源手表,应该学习哪些技能?](https://www.v2ex.com/t/838207) ![](assets/new.png)  
+- [2022-03-05-分享一个不用第三方工具在给长辈或小孩的-Android-手机上禁止-APK-Sideload-的方法。](https://www.v2ex.com/t/838206) ![](assets/new.png)  
+- [2022-03-05-大学两年啥比赛也没参加，天天忙自己的东西还累得要死，到现在一事无成。焦虑，对未来很迷茫。](https://www.v2ex.com/t/838205) ![](assets/new.png)  
+- [2022-03-05-求助-maven-工程模块太多，依赖复杂，父-pom-依赖太深，-eclipse-building-速度太慢](https://www.v2ex.com/t/838204) ![](assets/new.png)  
+- [2022-03-05-Rust-这-4-种写法都通过编译了，但不知道我这样理解是对的吗？](https://www.v2ex.com/t/838203) ![](assets/new.png)  
+- [2022-03-05-Scrapy-Scapy-spaCy-分不清了](https://www.v2ex.com/t/838201) ![](assets/new.png)  
 - [2022-03-05-大家的-MacBook-工作的时候都多少度呀](https://www.v2ex.com/t/838198) ![](assets/new.png)  
 - [2022-03-05-官翻版的-m1-macmini-16G-256-现在能出多少钱呀？](https://www.v2ex.com/t/838196) ![](assets/new.png)  
 - [2022-03-05-有哪些你以为是-BUG-，实际上是-Feature？](https://www.v2ex.com/t/838195) ![](assets/new.png)  
@@ -505,12 +511,6 @@
 - [2022-03-05-准备换手机，请教一下三星小米的一些问题](https://www.v2ex.com/t/838180) ![](assets/new.png)  
 - [2022-03-05-2022-年，求推荐大学生笔记本配置](https://www.v2ex.com/t/838179) ![](assets/new.png)  
 - [2022-03-05-兴东站附近工作，租哪里好？](https://www.v2ex.com/t/838178) ![](assets/new.png)  
-- [2022-03-05-关于社恐，作了一期视频。](https://www.v2ex.com/t/838174) ![](assets/new.png)  
-- [2022-03-05-现在-PowerShell-是不是没有什么用？](https://www.v2ex.com/t/838173) ![](assets/new.png)  
-- [2022-03-05-咨询-周末-4g-网络延迟很高](https://www.v2ex.com/t/838172) ![](assets/new.png)  
-- [2022-03-05-如何尽可能防止虚拟机逃逸？](https://www.v2ex.com/t/838171) ![](assets/new.png)  
-- [2022-03-05-昨晚睡觉的时候发现一件事](https://www.v2ex.com/t/838170) ![](assets/new.png)  
-- [2022-03-05-上海浦东新世纪花苑耀华路-421-弄，-7、13-号线长青路地铁站一室一厅，房租-5000](https://www.v2ex.com/t/838169) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -565,13 +565,13 @@
 - [2022-03-05-Nest.js-用了-Express-但也没完全用](https://toutiao.io/k/cpce480) ![](assets/new.png)  
 - [2022-03-05-金三银四，offer收割指南](https://toutiao.io/k/i0m3csp) ![](assets/new.png)  
 - [2022-03-05-【第2547期】TypeScript-4.6-正式发布](https://toutiao.io/k/vrjc1l3) ![](assets/new.png)  
+- [2022-03-05-推荐-【超赞】技术架构的战略和战术原则](https://toutiao.io/k/j9872pc) ![](assets/new.png)  
+- [2022-03-05-推荐-高并发是一种架构思维模式](https://toutiao.io/k/imslmgz) ![](assets/new.png)  
 - [2022-03-05-推荐-Golang-简洁架构实战](https://toutiao.io/k/vjw1dlc) ![](assets/new.png)  
 - [2022-03-05-推荐-2万字，详解数据湖，概念、特征、架构、方案、场景以及建湖全过程（建议收藏）](https://toutiao.io/k/vcpzf1w) ![](assets/new.png)  
-- [2022-03-05-推荐-SpringBoot性能优化大全，贼好使！](https://toutiao.io/k/75br1se) ![](assets/new.png)  
 - [2022-03-05-推荐-微服务从代码到k8s部署应有尽有大结局（k8s部署）](https://toutiao.io/k/xk3qbvm) ![](assets/new.png)  
-- [2022-03-05-推荐-高并发是一种架构思维模式](https://toutiao.io/k/imslmgz) ![](assets/new.png)  
-- [2022-03-05-推荐-【超赞】技术架构的战略和战术原则](https://toutiao.io/k/j9872pc) ![](assets/new.png)  
 - [2022-03-05-推荐-2021年最受程序员欢迎的开发工具TOP-100名单出炉！](https://toutiao.io/k/uf5vypr) ![](assets/new.png)  
+- [2022-03-05-推荐-SpringBoot性能优化大全，贼好使！](https://toutiao.io/k/75br1se) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

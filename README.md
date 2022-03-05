@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-03-05 03:32:00，:rocket: 更新条数: +1987， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-03-05 03:39:23，:rocket: 更新条数: +1990， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -66,6 +66,7 @@
 
 
 - [2022-03-05-3月4日全国新增新冠281例-15省份本土102例](https://m.caixin.com/m/2022-03-05/101851122.html) ![](assets/new.png)  
+- [2022-03-05-丹麦研究称1/3感染者出现“长新冠”，比利时大幅取消疫情限制｜大流行手记（3月4日）](https://m.caixin.com/m/2022-03-05/101851182.html) ![](assets/new.png)  
 - [2022-03-04-香港放开第四针新冠疫苗接种](https://m.caixin.com/m/2022-03-04/101851034.html) ![](assets/new.png)  
 - [2022-03-04-上海9天新增34例新冠感染者-计划扩大定点医院收治能力](https://m.caixin.com/m/2022-03-04/101850824.html) ![](assets/new.png)  
 - [2022-03-04-最新海外疫情：新冠感染超4.41亿-累计接种新冠疫苗超107.21亿剂次](https://m.caixin.com/m/2022-03-04/101850856.html) ![](assets/new.png)  
@@ -84,7 +85,6 @@
 - [2022-03-02-【境内疫情观察】广东新增32例本土病例（3月1日）](https://database.caixin.com/m/2022-03-02/101849330.html) ![](assets/new.png)  
 - [2022-03-02-研究称辉瑞疫苗对低龄儿童保护效力快速下降，Novavax争取疫苗全面批准｜大流行手记（3月1日）](https://m.caixin.com/m/2022-03-02/101849237.html) ![](assets/new.png)  
 - [2022-03-02-健康码管理各自为政问题重重-人大代表建议全国“一码通行”](https://m.caixin.com/m/2022-03-02/101849377.html) ![](assets/new.png)  
-- [2022-03-02-英国女王感染新冠一周后康复-与家人欢度周末时光](https://international.caixin.com/m/2022-03-02/101849261.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-03-05-openwrt-自身能出国，局域网其他机子不能出国](https://www.v2ex.com/t/838141) ![](assets/new.png)  
+- [2022-03-05-CLion-卡在-loading-cmake-project，不管杀进程多少次，每次重启-CLion-都卡在这里](https://www.v2ex.com/t/838140) ![](assets/new.png)  
 - [2022-03-05-我们-v-友现在都这么没有节操了吗，随便用我帐号下单，然后还退款](https://www.v2ex.com/t/838139) ![](assets/new.png)  
 - [2022-03-05-有没有人感觉整改后的-Bing-搜索有些残废了？](https://www.v2ex.com/t/838138) ![](assets/new.png)  
 - [2022-03-05-关于腰痛](https://www.v2ex.com/t/838137) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-03-05-如何打包魔改后的基于-maven-构建的开源项目](https://www.v2ex.com/t/838117) ![](assets/new.png)  
 - [2022-03-05-有精通-Linux-内核内存管理的老哥能说说你是怎么学这一块的知识的吗？](https://www.v2ex.com/t/838115) ![](assets/new.png)  
 - [2022-03-04-苹果在美区-App-Store-开通了-Unicef-联合国儿童基金会捐赠入口。](https://www.v2ex.com/t/838112) ![](assets/new.png)  
-- [2022-03-04-低功耗-ECC-NAS，现在用的是-z240，有更低功耗的选项吗](https://www.v2ex.com/t/838111) ![](assets/new.png)  
-- [2022-03-04-MacBook-Pro,-14-inch-M1-Pro.-外接显示器求推荐](https://www.v2ex.com/t/838109) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -563,13 +563,13 @@
 - [2022-03-05-GPU在外卖场景精排模型预估中的应用实践](https://toutiao.io/k/ud6k3wq) ![](assets/new.png)  
 - [2022-03-05-HiveSQL技术原理、优化与面试](https://toutiao.io/k/0vnab56) ![](assets/new.png)  
 - [2022-03-05-Nest.js-用了-Express-但也没完全用](https://toutiao.io/k/cpce480) ![](assets/new.png)  
-- [2022-03-05-推荐-SpringBoot性能优化大全，贼好使！](https://toutiao.io/k/75br1se) ![](assets/new.png)  
-- [2022-03-05-推荐-高并发是一种架构思维模式](https://toutiao.io/k/imslmgz) ![](assets/new.png)  
-- [2022-03-05-推荐-微服务从代码到k8s部署应有尽有大结局（k8s部署）](https://toutiao.io/k/xk3qbvm) ![](assets/new.png)  
-- [2022-03-05-推荐-2021年最受程序员欢迎的开发工具TOP-100名单出炉！](https://toutiao.io/k/uf5vypr) ![](assets/new.png)  
-- [2022-03-05-推荐-2万字，详解数据湖，概念、特征、架构、方案、场景以及建湖全过程（建议收藏）](https://toutiao.io/k/vcpzf1w) ![](assets/new.png)  
 - [2022-03-05-推荐-【超赞】技术架构的战略和战术原则](https://toutiao.io/k/j9872pc) ![](assets/new.png)  
+- [2022-03-05-推荐-2万字，详解数据湖，概念、特征、架构、方案、场景以及建湖全过程（建议收藏）](https://toutiao.io/k/vcpzf1w) ![](assets/new.png)  
+- [2022-03-05-推荐-微服务从代码到k8s部署应有尽有大结局（k8s部署）](https://toutiao.io/k/xk3qbvm) ![](assets/new.png)  
+- [2022-03-05-推荐-高并发是一种架构思维模式](https://toutiao.io/k/imslmgz) ![](assets/new.png)  
+- [2022-03-05-推荐-2021年最受程序员欢迎的开发工具TOP-100名单出炉！](https://toutiao.io/k/uf5vypr) ![](assets/new.png)  
 - [2022-03-05-推荐-Golang-简洁架构实战](https://toutiao.io/k/vjw1dlc) ![](assets/new.png)  
+- [2022-03-05-推荐-SpringBoot性能优化大全，贼好使！](https://toutiao.io/k/75br1se) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

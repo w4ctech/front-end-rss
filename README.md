@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-03-05 07:12:57，:rocket: 更新条数: +1994， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-03-05 07:35:44，:rocket: 更新条数: +1991， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,10 @@
 </summary>
 
 
+- [2022-03-05-V-友们，-4K-显示器请教一下](https://www.v2ex.com/t/838188) ![](assets/new.png)  
+- [2022-03-05-win10-4K-显示器选择](https://www.v2ex.com/t/838187) ![](assets/new.png)  
+- [2022-03-05-求近年在美丽国长时间生活/学习的中国人咨询点问题](https://www.v2ex.com/t/838185) ![](assets/new.png)  
+- [2022-03-05-Ubuntu-20.04-下，-Docker-容器如何获取和宿主机同一网段的独立-IP？](https://www.v2ex.com/t/838183) ![](assets/new.png)  
 - [2022-03-05-求推荐-AP+AC](https://www.v2ex.com/t/838181) ![](assets/new.png)  
 - [2022-03-05-准备换手机，请教一下三星小米的一些问题](https://www.v2ex.com/t/838180) ![](assets/new.png)  
 - [2022-03-05-2022-年，求推荐大学生笔记本配置](https://www.v2ex.com/t/838179) ![](assets/new.png)  
@@ -507,10 +511,6 @@
 - [2022-03-05-大家理解的技术大神都是什么标准？](https://www.v2ex.com/t/838162) ![](assets/new.png)  
 - [2022-03-05-请问硕士毕业后去小学/初中的计算机老师怎么样？](https://www.v2ex.com/t/838161) ![](assets/new.png)  
 - [2022-03-05-关于女朋友的闲置-iphone11-的处理问题](https://www.v2ex.com/t/838160) ![](assets/new.png)  
-- [2022-03-05-有没有便宜点的软路由方案？最好是成品中控机](https://www.v2ex.com/t/838159) ![](assets/new.png)  
-- [2022-03-05-寻找方便的在线更新-service-程序的方案](https://www.v2ex.com/t/838157) ![](assets/new.png)  
-- [2022-03-05-深圳-转租-龙岗-公寓单间-泊寓，-1028-元/月](https://www.v2ex.com/t/838154) ![](assets/new.png)  
-- [2022-03-05-这几天折腾-IPv6，有点意思](https://www.v2ex.com/t/838152) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -560,18 +560,18 @@
 - [2022-03-05-百度多个业务线减员，涉及核心技术部门；阿里开启大规模校招；工信部：未经用户同意不得强制下载-App｜开发者头条](https://toutiao.io/k/vcn66sm) ![](assets/new.png)  
 - [2022-03-05-一年之计在于春！周末别闲着！](https://toutiao.io/k/32pyr3x) ![](assets/new.png)  
 - [2022-03-05-Golang-语言微服务的服务发现组件-Consul-的系统架构介绍](https://toutiao.io/k/iggziwj) ![](assets/new.png)  
-- [2022-03-05-GPU在外卖场景精排模型预估中的应用实践](https://toutiao.io/k/ud6k3wq) ![](assets/new.png)  
 - [2022-03-05-HiveSQL技术原理、优化与面试](https://toutiao.io/k/0vnab56) ![](assets/new.png)  
+- [2022-03-05-GPU在外卖场景精排模型预估中的应用实践](https://toutiao.io/k/ud6k3wq) ![](assets/new.png)  
 - [2022-03-05-Nest.js-用了-Express-但也没完全用](https://toutiao.io/k/cpce480) ![](assets/new.png)  
 - [2022-03-05-金三银四，offer收割指南](https://toutiao.io/k/i0m3csp) ![](assets/new.png)  
 - [2022-03-05-【第2547期】TypeScript-4.6-正式发布](https://toutiao.io/k/vrjc1l3) ![](assets/new.png)  
-- [2022-03-05-推荐-SpringBoot性能优化大全，贼好使！](https://toutiao.io/k/75br1se) ![](assets/new.png)  
-- [2022-03-05-推荐-Golang-简洁架构实战](https://toutiao.io/k/vjw1dlc) ![](assets/new.png)  
-- [2022-03-05-推荐-2021年最受程序员欢迎的开发工具TOP-100名单出炉！](https://toutiao.io/k/uf5vypr) ![](assets/new.png)  
+- [2022-03-05-推荐-2万字，详解数据湖，概念、特征、架构、方案、场景以及建湖全过程（建议收藏）](https://toutiao.io/k/vcpzf1w) ![](assets/new.png)  
 - [2022-03-05-推荐-高并发是一种架构思维模式](https://toutiao.io/k/imslmgz) ![](assets/new.png)  
 - [2022-03-05-推荐-【超赞】技术架构的战略和战术原则](https://toutiao.io/k/j9872pc) ![](assets/new.png)  
-- [2022-03-05-推荐-2万字，详解数据湖，概念、特征、架构、方案、场景以及建湖全过程（建议收藏）](https://toutiao.io/k/vcpzf1w) ![](assets/new.png)  
 - [2022-03-05-推荐-微服务从代码到k8s部署应有尽有大结局（k8s部署）](https://toutiao.io/k/xk3qbvm) ![](assets/new.png)  
+- [2022-03-05-推荐-SpringBoot性能优化大全，贼好使！](https://toutiao.io/k/75br1se) ![](assets/new.png)  
+- [2022-03-05-推荐-2021年最受程序员欢迎的开发工具TOP-100名单出炉！](https://toutiao.io/k/uf5vypr) ![](assets/new.png)  
+- [2022-03-05-推荐-Golang-简洁架构实战](https://toutiao.io/k/vjw1dlc) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

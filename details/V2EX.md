@@ -1,10 +1,13 @@
-:alarm_clock: 更新时间: 2022-03-04 23:38:17。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-03-05 00:49:55。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-03-05-App-Store-开启-unicef-捐款通道](https://www.v2ex.com/t/838114) 
+- [2022-03-05-微软思科-VMware-都暂停了在俄罗斯服务](https://www.v2ex.com/t/838113) 
+- [2022-03-04-苹果在美区-App-Store-开通了-Unicef-联合国儿童基金会捐赠入口。](https://www.v2ex.com/t/838112) 
 - [2022-03-04-低功耗-ECC-NAS，现在用的是-z240，有更低功耗的选项吗](https://www.v2ex.com/t/838111) 
 - [2022-03-04-MacBook-Pro,-14-inch-M1-Pro.-外接显示器求推荐](https://www.v2ex.com/t/838109) 
 - [2022-03-04-币安去迪拜用旅游签？](https://www.v2ex.com/t/838108) 
@@ -38,6 +41,3 @@
 - [2022-03-04-该说不说的，就外网同步数据回家里来说，-resilio-sync-比-syncthing-快多了。](https://www.v2ex.com/t/838067) 
 - [2022-03-04-双非本科转行码农,简历求指导](https://www.v2ex.com/t/838066) 
 - [2022-03-04-没有啥技术积累的小公司可以驾驭-Ceph-吗？](https://www.v2ex.com/t/838065) 
-- [2022-03-04-求各位-v-友-推荐一款直链-mac-显示屏](https://www.v2ex.com/t/838064) 
-- [2022-03-04-vscode-里面多行注释样式能调整吗？](https://www.v2ex.com/t/838063) 
-- [2022-03-04-摄像头有什么推荐？](https://www.v2ex.com/t/838062) 

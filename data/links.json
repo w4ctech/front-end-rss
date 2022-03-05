@@ -9833,6 +9833,16 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "感觉 Rust 确实是一门人类比较难以理解的语言",
+        "link": "https://www.v2ex.com/t/838275",
+        "date": "2022-03-05"
+      },
+      {
+        "title": "想学习某个网站上 js 代码渲染过程，实现过程绕来绕去，是不是应该用什么好工具来辅助？",
+        "link": "https://www.v2ex.com/t/838274",
+        "date": "2022-03-05"
+      },
+      {
         "title": "iOS Safari 网页 link 分享 的显示逻辑",
         "link": "https://www.v2ex.com/t/838273",
         "date": "2022-03-05"
@@ -10006,11 +10016,6 @@
         "title": "[广州/深圳][字节跳动] 校招、社招 Java 内推",
         "link": "https://www.v2ex.com/t/838226",
         "date": "2022-03-05"
-      },
-      {
-        "title": "深圳昨天推了一个“鹏城保”，大家看下性价比怎么样？值的买吗？",
-        "link": "https://www.v2ex.com/t/838224",
-        "date": "2022-03-05"
       }
     ]
   },
@@ -10182,23 +10187,13 @@
         "date": "2022-03-05"
       },
       {
-        "title": "[推荐] 2021年最受程序员欢迎的开发工具TOP 100名单出炉！",
-        "link": "https://toutiao.io/k/uf5vypr",
+        "title": "[推荐] 2万字，详解数据湖，概念、特征、架构、方案、场景以及建湖全过程（建议收藏）",
+        "link": "https://toutiao.io/k/vcpzf1w",
         "date": "2022-03-05"
       },
       {
-        "title": "[推荐] 高并发是一种架构思维模式",
-        "link": "https://toutiao.io/k/imslmgz",
-        "date": "2022-03-05"
-      },
-      {
-        "title": "[推荐] 微服务从代码到k8s部署应有尽有大结局（k8s部署）",
-        "link": "https://toutiao.io/k/xk3qbvm",
-        "date": "2022-03-05"
-      },
-      {
-        "title": "[推荐] SpringBoot性能优化大全，贼好使！",
-        "link": "https://toutiao.io/k/75br1se",
+        "title": "[推荐] Java泛型详解，史上最全图文详解！",
+        "link": "https://toutiao.io/k/chtkqxo",
         "date": "2022-03-05"
       },
       {
@@ -10212,8 +10207,23 @@
         "date": "2022-03-05"
       },
       {
-        "title": "[推荐] 2万字，详解数据湖，概念、特征、架构、方案、场景以及建湖全过程（建议收藏）",
-        "link": "https://toutiao.io/k/vcpzf1w",
+        "title": "[推荐] SpringBoot性能优化大全，贼好使！",
+        "link": "https://toutiao.io/k/75br1se",
+        "date": "2022-03-05"
+      },
+      {
+        "title": "[推荐] 2021年最受程序员欢迎的开发工具TOP 100名单出炉！",
+        "link": "https://toutiao.io/k/uf5vypr",
+        "date": "2022-03-05"
+      },
+      {
+        "title": "[推荐] 高并发是一种架构思维模式",
+        "link": "https://toutiao.io/k/imslmgz",
+        "date": "2022-03-05"
+      },
+      {
+        "title": "[推荐] 微服务从代码到k8s部署应有尽有大结局（k8s部署）",
+        "link": "https://toutiao.io/k/xk3qbvm",
         "date": "2022-03-05"
       }
     ]

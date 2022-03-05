@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-03-05 14:36:36，:rocket: 更新条数: +1996， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-03-05 15:12:49，:rocket: 更新条数: +1995， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -66,6 +66,7 @@
 
 
 - [2022-03-05-最新疫情：全国新冠累计确诊110539例-累计接种新冠疫苗超31.52亿剂次](https://m.caixin.com/m/2022-03-05/101851349.html) ![](assets/new.png)  
+- [2022-03-05-山东青岛莱西市新增44例确诊-均为集中隔离人员](https://m.caixin.com/m/2022-03-05/101851408.html) ![](assets/new.png)  
 - [2022-03-05-深圳本轮疫情感染者增至256例-官方辟谣多起“偷渡”传言](https://m.caixin.com/m/2022-03-05/101851328.html) ![](assets/new.png)  
 - [2022-03-05-最新海外疫情：新冠感染超4.42亿-累计接种新冠疫苗超107.37亿剂次](https://m.caixin.com/m/2022-03-05/101851354.html) ![](assets/new.png)  
 - [2022-03-05-【境内疫情观察】全国15省新增102例本土病例（3月4日）](https://database.caixin.com/m/2022-03-05/101851302.html) ![](assets/new.png)  
@@ -84,7 +85,6 @@
 - [2022-03-02-深圳本轮疫情感染者达190例-搭乘地铁需持48小时核酸阴性证明](https://m.caixin.com/m/2022-03-02/101849740.html) ![](assets/new.png)  
 - [2022-03-02-香港单日新增逾5万宗病例-特首重申不“封城”](https://m.caixin.com/m/2022-03-02/101849609.html) ![](assets/new.png)  
 - [2022-03-02-深圳部分地区“扫楼”排查感染者-居民称柜子床底都要看](https://m.caixin.com/m/2022-03-02/101849116.html) ![](assets/new.png)  
-- [2022-03-02-【境内疫情观察】广东新增32例本土病例（3月1日）](https://database.caixin.com/m/2022-03-02/101849330.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -491,6 +491,10 @@
 </summary>
 
 
+- [2022-03-05-iPad-Pro-m1-||-iPad-Pro-2020-||-MacBook-Air-M1-||-MacBook-Pro-13-or-14-M1](https://www.v2ex.com/t/838267) ![](assets/new.png)  
+- [2022-03-05-Java-开发，买什么-macbook-比较好，老哥们推荐一下哈。](https://www.v2ex.com/t/838265) ![](assets/new.png)  
+- [2022-03-05-esxi-和-pve-装-win-体验](https://www.v2ex.com/t/838263) ![](assets/new.png)  
+- [2022-03-05-关于-Safari-和-Chrome-在外接显示器的拖影](https://www.v2ex.com/t/838261) ![](assets/new.png)  
 - [2022-03-05-云端内容管理系统，一键集成富文本编辑器](https://www.v2ex.com/t/838259) ![](assets/new.png)  
 - [2022-03-05-河北廊坊本地科技公司，不做外包有自己的产品，急聘各种职位](https://www.v2ex.com/t/838258) ![](assets/new.png)  
 - [2022-03-05-xx-知识网卷土重来](https://www.v2ex.com/t/838257) ![](assets/new.png)  
@@ -507,10 +511,6 @@
 - [2022-03-05-移动光猫-WiFi-获取-IPV6-地址](https://www.v2ex.com/t/838243) ![](assets/new.png)  
 - [2022-03-05-蚂蚁-数字金融线-保险技术部-2023-届实习生招聘内推](https://www.v2ex.com/t/838242) ![](assets/new.png)  
 - [2022-03-05-export-问题请教](https://www.v2ex.com/t/838241) ![](assets/new.png)  
-- [2022-03-05-QUdpSocket-bind-特定的本地-ip，无法发送数据？](https://www.v2ex.com/t/838240) ![](assets/new.png)  
-- [2022-03-05-内推字节业务中台前端，有需要的朋友发送邮件到-guanyunfeng.work@bytedance.com](https://www.v2ex.com/t/838239) ![](assets/new.png)  
-- [2022-03-05-扩展坞求推荐-笔记本外接双屏](https://www.v2ex.com/t/838237) ![](assets/new.png)  
-- [2022-03-05-问下-iOS-开发的老铁，你们收到苹果的打款没？](https://www.v2ex.com/t/838236) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -558,19 +558,19 @@
 - [2022-03-05-你好，皮卡丘！用python写一个可以陪你聊天的皮卡丘版桌面宠物吧~](https://toutiao.io/k/4zqyn5g) ![](assets/new.png)  
 - [2022-03-05-网上的“考勤神器”，其实是黑灰产作弊工具](https://toutiao.io/k/32fipdr) ![](assets/new.png)  
 - [2022-03-05-百度多个业务线减员，涉及核心技术部门；阿里开启大规模校招；工信部：未经用户同意不得强制下载-App｜开发者头条](https://toutiao.io/k/vcn66sm) ![](assets/new.png)  
-- [2022-03-05-一年之计在于春！周末别闲着！](https://toutiao.io/k/32pyr3x) ![](assets/new.png)  
 - [2022-03-05-Golang-语言微服务的服务发现组件-Consul-的系统架构介绍](https://toutiao.io/k/iggziwj) ![](assets/new.png)  
+- [2022-03-05-一年之计在于春！周末别闲着！](https://toutiao.io/k/32pyr3x) ![](assets/new.png)  
 - [2022-03-05-GPU在外卖场景精排模型预估中的应用实践](https://toutiao.io/k/ud6k3wq) ![](assets/new.png)  
 - [2022-03-05-HiveSQL技术原理、优化与面试](https://toutiao.io/k/0vnab56) ![](assets/new.png)  
 - [2022-03-05-Nest.js-用了-Express-但也没完全用](https://toutiao.io/k/cpce480) ![](assets/new.png)  
 - [2022-03-05-【第2547期】TypeScript-4.6-正式发布](https://toutiao.io/k/vrjc1l3) ![](assets/new.png)  
-- [2022-03-05-推荐-高并发是一种架构思维模式](https://toutiao.io/k/imslmgz) ![](assets/new.png)  
-- [2022-03-05-推荐-【超赞】技术架构的战略和战术原则](https://toutiao.io/k/j9872pc) ![](assets/new.png)  
-- [2022-03-05-推荐-SpringBoot性能优化大全，贼好使！](https://toutiao.io/k/75br1se) ![](assets/new.png)  
-- [2022-03-05-推荐-2万字，详解数据湖，概念、特征、架构、方案、场景以及建湖全过程（建议收藏）](https://toutiao.io/k/vcpzf1w) ![](assets/new.png)  
+- [2022-03-05-推荐-Golang-简洁架构实战](https://toutiao.io/k/vjw1dlc) ![](assets/new.png)  
 - [2022-03-05-推荐-2021年最受程序员欢迎的开发工具TOP-100名单出炉！](https://toutiao.io/k/uf5vypr) ![](assets/new.png)  
 - [2022-03-05-推荐-微服务从代码到k8s部署应有尽有大结局（k8s部署）](https://toutiao.io/k/xk3qbvm) ![](assets/new.png)  
-- [2022-03-05-推荐-Golang-简洁架构实战](https://toutiao.io/k/vjw1dlc) ![](assets/new.png)  
+- [2022-03-05-推荐-2万字，详解数据湖，概念、特征、架构、方案、场景以及建湖全过程（建议收藏）](https://toutiao.io/k/vcpzf1w) ![](assets/new.png)  
+- [2022-03-05-推荐-SpringBoot性能优化大全，贼好使！](https://toutiao.io/k/75br1se) ![](assets/new.png)  
+- [2022-03-05-推荐-高并发是一种架构思维模式](https://toutiao.io/k/imslmgz) ![](assets/new.png)  
+- [2022-03-05-推荐-【超赞】技术架构的战略和战术原则](https://toutiao.io/k/j9872pc) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

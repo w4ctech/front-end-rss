@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-03-05 16:52:10，:rocket: 更新条数: +1998， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-03-05 17:12:42，:rocket: 更新条数: +1996， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-03-05-有工具可以把各平台消息整合在一起吗](https://www.v2ex.com/t/838286) ![](assets/new.png)  
 - [2022-03-05-Windows-上的-DoH-默认用什么来解析到-DNS-的-IP](https://www.v2ex.com/t/838284) ![](assets/new.png)  
 - [2022-03-05-搬家了，出点二手书。](https://www.v2ex.com/t/838282) ![](assets/new.png)  
 - [2022-03-05-现在的人类文明能够进行星际旅行吗](https://www.v2ex.com/t/838281) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-03-05-关于-Safari-和-Chrome-在外接显示器的拖影](https://www.v2ex.com/t/838261) ![](assets/new.png)  
 - [2022-03-05-云端内容管理系统，一键集成富文本编辑器](https://www.v2ex.com/t/838259) ![](assets/new.png)  
 - [2022-03-05-河北廊坊本地科技公司，不做外包有自己的产品，急聘各种职位](https://www.v2ex.com/t/838258) ![](assets/new.png)  
-- [2022-03-05-xx-知识网卷土重来](https://www.v2ex.com/t/838257) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -564,14 +564,14 @@
 - [2022-03-05-HiveSQL技术原理、优化与面试](https://toutiao.io/k/0vnab56) ![](assets/new.png)  
 - [2022-03-05-Nest.js-用了-Express-但也没完全用](https://toutiao.io/k/cpce480) ![](assets/new.png)  
 - [2022-03-05-【第2547期】TypeScript-4.6-正式发布](https://toutiao.io/k/vrjc1l3) ![](assets/new.png)  
-- [2022-03-05-推荐-【超赞】技术架构的战略和战术原则](https://toutiao.io/k/j9872pc) ![](assets/new.png)  
 - [2022-03-05-推荐-2021年最受程序员欢迎的开发工具TOP-100名单出炉！](https://toutiao.io/k/uf5vypr) ![](assets/new.png)  
-- [2022-03-05-推荐-SpringBoot性能优化大全，贼好使！](https://toutiao.io/k/75br1se) ![](assets/new.png)  
-- [2022-03-05-推荐-2万字，详解数据湖，概念、特征、架构、方案、场景以及建湖全过程（建议收藏）](https://toutiao.io/k/vcpzf1w) ![](assets/new.png)  
-- [2022-03-05-推荐-Java泛型详解，史上最全图文详解！](https://toutiao.io/k/chtkqxo) ![](assets/new.png)  
-- [2022-03-05-推荐-微服务从代码到k8s部署应有尽有大结局（k8s部署）](https://toutiao.io/k/xk3qbvm) ![](assets/new.png)  
-- [2022-03-05-推荐-Golang-简洁架构实战](https://toutiao.io/k/vjw1dlc) ![](assets/new.png)  
 - [2022-03-05-推荐-高并发是一种架构思维模式](https://toutiao.io/k/imslmgz) ![](assets/new.png)  
+- [2022-03-05-推荐-Java泛型详解，史上最全图文详解！](https://toutiao.io/k/chtkqxo) ![](assets/new.png)  
+- [2022-03-05-推荐-2万字，详解数据湖，概念、特征、架构、方案、场景以及建湖全过程（建议收藏）](https://toutiao.io/k/vcpzf1w) ![](assets/new.png)  
+- [2022-03-05-推荐-微服务从代码到k8s部署应有尽有大结局（k8s部署）](https://toutiao.io/k/xk3qbvm) ![](assets/new.png)  
+- [2022-03-05-推荐-【超赞】技术架构的战略和战术原则](https://toutiao.io/k/j9872pc) ![](assets/new.png)  
+- [2022-03-05-推荐-Golang-简洁架构实战](https://toutiao.io/k/vjw1dlc) ![](assets/new.png)  
+- [2022-03-05-推荐-SpringBoot性能优化大全，贼好使！](https://toutiao.io/k/75br1se) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

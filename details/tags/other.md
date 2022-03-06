@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-03-06 02:51:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-03-06 03:13:27。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -6,6 +6,7 @@
 
 
 - [2022-03-06-3月5日全国新增新冠329例-12省份本土175例](https://m.caixin.com/m/2022-03-06/101851429.html) 
+- [2022-03-06-车队抗议涌向华盛顿-英国面临手术挤压压力｜大流行手记（3月5日）](https://m.caixin.com/m/2022-03-06/101851444.html) 
 - [2022-03-05-山东青岛莱西市新增44例确诊-均为集中隔离人员](https://m.caixin.com/m/2022-03-05/101851408.html) 
 - [2022-03-05-深圳本轮疫情感染者增至256例-官方辟谣多起“偷渡”传言](https://m.caixin.com/m/2022-03-05/101851328.html) 
 - [2022-03-05-最新海外疫情：新冠感染超4.42亿-累计接种新冠疫苗超107.37亿剂次](https://m.caixin.com/m/2022-03-05/101851354.html) 
@@ -1912,7 +1913,6 @@
 - [2022-03-05-B-站这个翻译的太风骚了](https://www.v2ex.com/t/838270) 
 - [2022-03-05-求大佬告知萌新哪里可以找到-Java-的八股文？](https://www.v2ex.com/t/838268) 
 - [2022-03-05-iPad-Pro-m1-||-iPad-Pro-2020-||-MacBook-Air-M1-||-MacBook-Pro-13-or-14-M1](https://www.v2ex.com/t/838267) 
-- [2022-03-05-Java-开发，买什么-macbook-比较好，老哥们推荐一下哈。](https://www.v2ex.com/t/838265) 
 - [2022-03-06-浅谈企业数据能力建设-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14964&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fenterprise-data-capability-building%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-03-06-为什么会有TCPIP协议？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14960&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493487%26amp%3Bidx%3D1%26amp%3Bsn%3Dae7576870da25f743982f068bbc66cb8%26amp%3Bchksm%3Dfa3f0634cd488f226de44a1c25699248ed8c16e9953f97e0dee85a1d446b6414cef55042ae0f%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-03-06-分享一个完整的【停车系统】-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14958&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493484%26amp%3Bidx%3D1%26amp%3Bsn%3D2058998476be2536471f15549250c63d%26amp%3Bchksm%3Dfa3f0637cd488f2132af305dea472a02e7daaf2f9aa885f7b902a2f7407a40dca2bb165202d8%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1933,10 +1933,10 @@
 - [2022-03-06-几行代码就可以使用分布式配置中心，Spring-Cloud-Alibaba真香](https://toutiao.io/k/8l9m89x) 
 - [2022-03-06-深入理解Cache工作原理](https://toutiao.io/k/parigqh) 
 - [2022-03-06-机器学习初探-线性回归](https://toutiao.io/k/xspm14g) 
-- [2022-03-06-推荐-高并发是一种架构思维模式](https://toutiao.io/k/imslmgz) 
-- [2022-03-06-推荐-Golang-简洁架构实战](https://toutiao.io/k/vjw1dlc) 
-- [2022-03-06-推荐-【超赞】技术架构的战略和战术原则](https://toutiao.io/k/j9872pc) 
-- [2022-03-06-推荐-2万字，详解数据湖，概念、特征、架构、方案、场景以及建湖全过程（建议收藏）](https://toutiao.io/k/vcpzf1w) 
-- [2022-03-06-推荐-微服务从代码到k8s部署应有尽有大结局（k8s部署）](https://toutiao.io/k/xk3qbvm) 
 - [2022-03-06-推荐-2021年最受程序员欢迎的开发工具TOP-100名单出炉！](https://toutiao.io/k/uf5vypr) 
+- [2022-03-06-推荐-【超赞】技术架构的战略和战术原则](https://toutiao.io/k/j9872pc) 
+- [2022-03-06-推荐-Golang-简洁架构实战](https://toutiao.io/k/vjw1dlc) 
+- [2022-03-06-推荐-2万字，详解数据湖，概念、特征、架构、方案、场景以及建湖全过程（建议收藏）](https://toutiao.io/k/vcpzf1w) 
 - [2022-03-06-推荐-Java泛型详解，史上最全图文详解！](https://toutiao.io/k/chtkqxo) 
+- [2022-03-06-推荐-高并发是一种架构思维模式](https://toutiao.io/k/imslmgz) 
+- [2022-03-06-推荐-微服务从代码到k8s部署应有尽有大结局（k8s部署）](https://toutiao.io/k/xk3qbvm) 

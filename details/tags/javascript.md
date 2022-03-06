@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-03-06 00:47:06。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-03-06 02:06:30。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -16,6 +16,8 @@
 - [2022-01-11-还有完没完，怎么又来了个-scrollbar-gutter？](https://www.zhangxinxu.com/wordpress/2022/01/css-scrollbar-gutter/) 
 - [2021-12-29-JS-标签模板（Tagged-templates）什么时候使用？](https://www.zhangxinxu.com/wordpress/2021/12/js-tagged-templates/) 
 - [2021-12-20-深入JS-getRandomValues和Math.random方法](https://www.zhangxinxu.com/wordpress/2021/12/js-getrandomvalue-math-random/) 
+- [2022-03-06-有关前端使用-JS-生成音频指纹指代浏览器唯一用户，是否存在不稳定的问题](https://www.v2ex.com/t/838308) 
 - [2022-03-05-js-代码函数传参的时候要把单引号一起传入怎么处理](https://www.v2ex.com/t/838289) 
 - [2022-03-05-JavaScript-有什么办法能够执行-DLL-函数?](https://www.v2ex.com/t/838277) 
 - [2022-03-05-想学习某个网站上-js-代码渲染过程，实现过程绕来绕去，是不是应该用什么好工具来辅助？](https://www.v2ex.com/t/838274) 
+- [2022-03-06-导入-ES-Modules-的新姿势！](https://toutiao.io/k/5u33kz0) 

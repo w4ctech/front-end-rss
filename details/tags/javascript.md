@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-03-06 14:11:16。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-03-06 14:36:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -16,6 +16,7 @@
 - [2022-01-11-还有完没完，怎么又来了个-scrollbar-gutter？](https://www.zhangxinxu.com/wordpress/2022/01/css-scrollbar-gutter/) 
 - [2021-12-29-JS-标签模板（Tagged-templates）什么时候使用？](https://www.zhangxinxu.com/wordpress/2021/12/js-tagged-templates/) 
 - [2021-12-20-深入JS-getRandomValues和Math.random方法](https://www.zhangxinxu.com/wordpress/2021/12/js-getrandomvalue-math-random/) 
+- [2022-03-06-请教下，通过-fetch/axios-从网上-GET-到的文件，-response.data-是-ArrayBuffer-还是-Blob，怎么转换呀？](https://www.v2ex.com/t/838445) 
 - [2022-03-06-有好的笔记软件同时适配-markdown-&-LaTeX-的嘛](https://www.v2ex.com/t/838433) 
 - [2022-03-06-1000M-电信宽带，直接路由器拨号后用链路聚合交换机双线聚合电脑和路由器，能否达到-1.2Gbps？](https://www.v2ex.com/t/838422) 
 - [2022-03-06-1000M-宽带，直接路由器拨号后用链路聚合交换机双线聚合电脑和路由器，能否达到满速？](https://www.v2ex.com/t/838416) 

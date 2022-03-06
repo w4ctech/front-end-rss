@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-03-06 11:36:27。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-03-06 12:19:35。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -16,6 +16,7 @@
 - [2022-01-11-还有完没完，怎么又来了个-scrollbar-gutter？](https://www.zhangxinxu.com/wordpress/2022/01/css-scrollbar-gutter/) 
 - [2021-12-29-JS-标签模板（Tagged-templates）什么时候使用？](https://www.zhangxinxu.com/wordpress/2021/12/js-tagged-templates/) 
 - [2021-12-20-深入JS-getRandomValues和Math.random方法](https://www.zhangxinxu.com/wordpress/2021/12/js-getrandomvalue-math-random/) 
+- [2022-03-06-1000M-宽带，直接路由器拨号后用链路聚合交换机双线聚合电脑和路由器，能否达到满速？](https://www.v2ex.com/t/838416) 
 - [2022-03-06-谷歌浏览器执行-js-脚本打开新窗口如何在新窗口执行后续脚本](https://www.v2ex.com/t/838377) 
 - [2022-03-06-面试官问:为什么说-async/await-是生成器的语法糖?这种题一般需要掌握到什么深度?](https://www.v2ex.com/t/838371) 
 - [2022-03-06-导入-ES-Modules-的新姿势！](https://toutiao.io/k/5u33kz0) 

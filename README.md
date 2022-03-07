@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-03-07 12:57:13，:rocket: 更新条数: +2018， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-03-07 13:19:25，:rocket: 更新条数: +2017， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,8 +491,11 @@
 </summary>
 
 
+- [2022-03-07-尝试修复-andoid-开机缓慢的脚本](https://www.v2ex.com/t/838710) ![](assets/new.png)  
+- [2022-03-07-关于-ECC-内存的一个疑问](https://www.v2ex.com/t/838709) ![](assets/new.png)  
+- [2022-03-07-负延时器可以干嘛？](https://www.v2ex.com/t/838708) ![](assets/new.png)  
+- [2022-03-07-OS-X-下有没有能平替-source-insight-的软件](https://www.v2ex.com/t/838707) ![](assets/new.png)  
 - [2022-03-07-良心云福利：之前买了-3-年-2C-4G，现可免费升级为-4C-4G](https://www.v2ex.com/t/838705) ![](assets/new.png)  
-- [2022-03-07-找一个远程后端-懂-GIS-和遥感的](https://www.v2ex.com/t/838704) ![](assets/new.png)  
 - [2022-03-07-Google-Play-开发者账号要如何注册？](https://www.v2ex.com/t/838703) ![](assets/new.png)  
 - [2022-03-07-上海三林-天翼云科技有限公司招聘-Java-高级后端工程师](https://www.v2ex.com/t/838702) ![](assets/new.png)  
 - [2022-03-07-现在前端开发-node-用-mac-m1-还有-bug-吗-?-选择-m1-芯片还是买个-nuc-?-明天苹果开发布会了,我还在用-i7-4700mq,实在受不了了](https://www.v2ex.com/t/838701) ![](assets/new.png)  
@@ -508,9 +511,6 @@
 - [2022-03-07-xbox-精英-2-手柄咋样，听说是手柄天花板，想买一个玩老头环用](https://www.v2ex.com/t/838689) ![](assets/new.png)  
 - [2022-03-07-Edge-是不是有点过分了](https://www.v2ex.com/t/838688) ![](assets/new.png)  
 - [2022-03-07-clash-fake-ip-模式是否可以解决-dns-污染？](https://www.v2ex.com/t/838687) ![](assets/new.png)  
-- [2022-03-07-AMD-Yes?](https://www.v2ex.com/t/838685) ![](assets/new.png)  
-- [2022-03-07-家里监控摄像头可以语音通话，有没有通话前可以给对方发送个响铃的功能？](https://www.v2ex.com/t/838683) ![](assets/new.png)  
-- [2022-03-07-让腾讯云恶心死了，误封我机子还打太极拳](https://www.v2ex.com/t/838682) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -572,7 +572,7 @@
 - [2022-03-07-懒人必备神器-！一个创意十足的-Python-命令行工具](https://toutiao.io/k/uu75b91) ![](assets/new.png)  
 - [2022-03-07-干货-|-Elasticsearch-Nested-数组大小求解，一网打尽！](https://toutiao.io/k/5nq9eay) ![](assets/new.png)  
 - [2022-03-07-Postgres中UPDATE源码分析](https://toutiao.io/k/0f6lffy) ![](assets/new.png)  
-- [2022-03-07-推荐-SpringBoot性能优化大全，贼好使！](https://toutiao.io/k/75br1se) ![](assets/new.png)  
+- [2022-03-07-推荐-Golang-简洁架构实战](https://toutiao.io/k/vjw1dlc) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

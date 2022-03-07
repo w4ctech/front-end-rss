@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-03-07 07:13:51，:rocket: 更新条数: +2005， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-03-07 07:37:07，:rocket: 更新条数: +2008， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -68,6 +68,7 @@
 - [2022-03-07-3月6日全国新增新冠327例-13省份本土214例](https://m.caixin.com/m/2022-03-07/101851641.html) ![](assets/new.png)  
 - [2022-03-07-香港“方舱医院”入住率仅四成-确诊者可自行申请入住](https://m.caixin.com/m/2022-03-07/101851760.html) ![](assets/new.png)  
 - [2022-03-07-广东惠州基层防疫扑杀宠物狗-街道致歉涉事者停职](https://m.caixin.com/m/2022-03-07/101851565.html) ![](assets/new.png)  
+- [2022-03-07-【境内疫情观察】全国新增214例本土病例（3月6日）](https://database.caixin.com/m/2022-03-07/101851858.html) ![](assets/new.png)  
 - [2022-03-07-苏格兰为弱势群体打第四针-印度尼西亚再放宽旅行限制｜大流行手记（3月6日）](https://m.caixin.com/m/2022-03-07/101851699.html) ![](assets/new.png)  
 - [2022-03-06-上海在院新冠病例数创新高-已增调医护人员储备医疗资源](https://m.caixin.com/m/2022-03-06/101851549.html) ![](assets/new.png)  
 - [2022-03-06-最新海外疫情：新冠感染超4.44亿-累计接种新冠疫苗超107.51亿剂次](https://m.caixin.com/m/2022-03-06/101851521.html) ![](assets/new.png)  
@@ -84,7 +85,6 @@
 - [2022-03-04-俄乌战火暂未影响非洲疫苗供应-瑞典解封后病例下降｜大流行手记（3月3日）](https://m.caixin.com/m/2022-03-04/101850383.html) ![](assets/new.png)  
 - [2022-03-04-深圳公共交通须持48小时核酸证明-市民排队检测](https://photos.caixin.com/m/2022-03-04/101850391.html) ![](assets/new.png)  
 - [2022-03-03-深圳疫情仍处于不稳定期-华强北电子市场临时休市](https://m.caixin.com/m/2022-03-03/101850186.html) ![](assets/new.png)  
-- [2022-03-03-【境内疫情观察】广东新增28例本土病例（3月2日）](https://database.caixin.com/m/2022-03-03/101850027.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -491,6 +491,12 @@
 </summary>
 
 
+- [2022-03-07-想逃离开发行业了！](https://www.v2ex.com/t/838623) ![](assets/new.png)  
+- [2022-03-07-招前端-/-base-杭州-未来科技城-8-小时工作制，小而精美有人性](https://www.v2ex.com/t/838622) ![](assets/new.png)  
+- [2022-03-07-读研-or-工作](https://www.v2ex.com/t/838621) ![](assets/new.png)  
+- [2022-03-07-持续冒泡，-goal-添加快速开始文档](https://www.v2ex.com/t/838620) ![](assets/new.png)  
+- [2022-03-07-咨询一下多主机多显示器解决方案](https://www.v2ex.com/t/838619) ![](assets/new.png)  
+- [2022-03-07-跟着设计稿做还有错了流汗黄豆](https://www.v2ex.com/t/838618) ![](assets/new.png)  
 - [2022-03-07-项目运行后，线程越来越多](https://www.v2ex.com/t/838615) ![](assets/new.png)  
 - [2022-03-07-Mac-的-siri-建议的开启机制是什么](https://www.v2ex.com/t/838614) ![](assets/new.png)  
 - [2022-03-07-各位做过微服务的大佬，请教一个问题](https://www.v2ex.com/t/838613) ![](assets/new.png)  
@@ -505,12 +511,6 @@
 - [2022-03-07-三网话费低至-88-折-电费-92-折-倾心反馈-支持淘宝交易安全放心](https://www.v2ex.com/t/838600) ![](assets/new.png)  
 - [2022-03-07-大家都是怎么开始逐渐放弃自己的兴趣爱好的](https://www.v2ex.com/t/838599) ![](assets/new.png)  
 - [2022-03-07-iPhone-13-mini-无线充电器推荐](https://www.v2ex.com/t/838598) ![](assets/new.png)  
-- [2022-03-07-CentOS-如何无痛迁移到-Debian-？](https://www.v2ex.com/t/838595) ![](assets/new.png)  
-- [2022-03-07-说说内容侵权与维权以及-NFTs-能否革命整个版权市场？](https://www.v2ex.com/t/838594) ![](assets/new.png)  
-- [2022-03-07-求教一个问题](https://www.v2ex.com/t/838593) ![](assets/new.png)  
-- [2022-03-07-最近想跳槽，看了-boss-直聘，感觉广州的-Android-坑少了（非外包）](https://www.v2ex.com/t/838590) ![](assets/new.png)  
-- [2022-03-07-关于序列化和编码这两个概念的疑惑](https://www.v2ex.com/t/838587) ![](assets/new.png)  
-- [2022-03-07-adb-关闭后仍然存在挂起进程，无法关闭](https://www.v2ex.com/t/838586) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -561,8 +561,8 @@
 - [2022-03-07-助力双-11-个性化会场高效交付：Deco-智能代码技术揭秘](https://toutiao.io/k/skq0oro) ![](assets/new.png)  
 - [2022-03-07-这个-Go-程序分析工具太帅了](https://toutiao.io/k/tlsh7eo) ![](assets/new.png)  
 - [2022-03-07-想变好却不能坚持，我告诉你怎么办](https://toutiao.io/k/juf9iad) ![](assets/new.png)  
-- [2022-03-07-NutsDB-v0.7.0发布～](https://toutiao.io/k/pjm6nwi) ![](assets/new.png)  
 - [2022-03-07-项目集成管理包括哪些集成？](https://toutiao.io/k/0at7eb4) ![](assets/new.png)  
+- [2022-03-07-NutsDB-v0.7.0发布～](https://toutiao.io/k/pjm6nwi) ![](assets/new.png)  
 - [2022-03-07-Hudi小文件问题处理和生产调优个人笔记](https://toutiao.io/k/26vspp9) ![](assets/new.png)  
 - [2022-03-07-C#-模式匹配完全指南](https://toutiao.io/k/z19aapw) ![](assets/new.png)  
 - [2022-03-07-技术从业带来的副作用](https://toutiao.io/k/fgirk9z) ![](assets/new.png)  
@@ -572,7 +572,7 @@
 - [2022-03-07-从-0-开始写一个-springboot-starter](https://toutiao.io/k/5hbz48r) ![](assets/new.png)  
 - [2022-03-07-干货-|-Elasticsearch-Nested-数组大小求解，一网打尽！](https://toutiao.io/k/5nq9eay) ![](assets/new.png)  
 - [2022-03-07-Postgres中UPDATE源码分析](https://toutiao.io/k/0f6lffy) ![](assets/new.png)  
-- [2022-03-07-推荐-SpringBoot性能优化大全，贼好使！](https://toutiao.io/k/75br1se) ![](assets/new.png)  
+- [2022-03-07-推荐-微服务从代码到k8s部署应有尽有大结局（k8s部署）](https://toutiao.io/k/xk3qbvm) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

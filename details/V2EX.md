@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2022-03-07 17:20:49。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-03-07 17:39:43。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-03-07-Javascript-为什么不增加静态类型呢？](https://www.v2ex.com/t/838755) 
+- [2022-03-07-你们手机会贴膜/戴手机壳么](https://www.v2ex.com/t/838754) 
 - [2022-03-07-为自己的-sdb-增加了-cli](https://www.v2ex.com/t/838753) 
 - [2022-03-07-去来广营上班的有愿意搭顺风车的吗？](https://www.v2ex.com/t/838752) 
 - [2022-03-07-iPhone-11-突然黑屏转菊花是什么问题？](https://www.v2ex.com/t/838751) 
@@ -41,4 +43,3 @@
 - [2022-03-07-关于-ECC-内存的一个疑问](https://www.v2ex.com/t/838709) 
 - [2022-03-07-负延时器可以干嘛？](https://www.v2ex.com/t/838708) 
 - [2022-03-07-OS-X-下有没有能平替-source-insight-的软件](https://www.v2ex.com/t/838707) 
-- [2022-03-07-良心云福利：之前买了-3-年-2C-4G，现可免费升级为-4C-4G](https://www.v2ex.com/t/838705) 

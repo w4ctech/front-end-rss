@@ -9888,6 +9888,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "去年的腾讯云 2C4G 轻量，除了升级 4 核之外，还可以 19.9 一年加 1T 数据盘",
+        "link": "https://www.v2ex.com/t/838760",
+        "date": "2022-03-07"
+      },
+      {
         "title": "关于 Windows 下 C/C++ Runtime 兼容性的问题",
         "link": "https://www.v2ex.com/t/838759",
         "date": "2022-03-07"
@@ -10065,11 +10070,6 @@
       {
         "title": "v2ex 屏蔽节点后还能在 web 端首页的“今日热议主题”看到不想看的节点的主题，希望在这里也不显示。",
         "link": "https://www.v2ex.com/t/838711",
-        "date": "2022-03-07"
-      },
-      {
-        "title": "尝试修复 andoid 开机缓慢的脚本",
-        "link": "https://www.v2ex.com/t/838710",
         "date": "2022-03-07"
       }
     ]
@@ -10262,13 +10262,13 @@
         "date": "2022-03-07"
       },
       {
-        "title": "C# 模式匹配完全指南",
-        "link": "https://toutiao.io/k/z19aapw",
+        "title": "懒人必备神器 ！一个创意十足的 Python 命令行工具",
+        "link": "https://toutiao.io/k/uu75b91",
         "date": "2022-03-07"
       },
       {
-        "title": "懒人必备神器 ！一个创意十足的 Python 命令行工具",
-        "link": "https://toutiao.io/k/uu75b91",
+        "title": "C# 模式匹配完全指南",
+        "link": "https://toutiao.io/k/z19aapw",
         "date": "2022-03-07"
       },
       {
@@ -10292,8 +10292,8 @@
         "date": "2022-03-07"
       },
       {
-        "title": "[推荐] Golang 简洁架构实战",
-        "link": "https://toutiao.io/k/vjw1dlc",
+        "title": "[推荐] MySQL 团队开发规范",
+        "link": "https://toutiao.io/k/qjooigy",
         "date": "2022-03-07"
       },
       {
@@ -10302,13 +10302,13 @@
         "date": "2022-03-07"
       },
       {
-        "title": "[推荐] MySQL 团队开发规范",
-        "link": "https://toutiao.io/k/qjooigy",
+        "title": "[推荐] 2万字，详解数据湖，概念、特征、架构、方案、场景以及建湖全过程（建议收藏）",
+        "link": "https://toutiao.io/k/vcpzf1w",
         "date": "2022-03-07"
       },
       {
-        "title": "[推荐] 2万字，详解数据湖，概念、特征、架构、方案、场景以及建湖全过程（建议收藏）",
-        "link": "https://toutiao.io/k/vcpzf1w",
+        "title": "[推荐] Golang 简洁架构实战",
+        "link": "https://toutiao.io/k/vjw1dlc",
         "date": "2022-03-07"
       },
       {

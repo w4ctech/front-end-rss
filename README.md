@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-03-07 14:37:25，:rocket: 更新条数: +2017， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-03-07 15:14:05，:rocket: 更新条数: +2016， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -73,7 +73,7 @@
 - [2022-03-07-广东惠州基层防疫扑杀宠物狗-街道致歉涉事者停职](https://m.caixin.com/m/2022-03-07/101851565.html) ![](assets/new.png)  
 - [2022-03-07-【境内疫情观察】全国新增214例本土病例（3月6日）](https://database.caixin.com/m/2022-03-07/101851858.html) ![](assets/new.png)  
 - [2022-03-07-苏格兰为弱势群体打第四针-印度尼西亚再放宽旅行限制｜大流行手记（3月6日）](https://m.caixin.com/m/2022-03-07/101851699.html) ![](assets/new.png)  
-- [2022-03-07-【图集】上海新增本土确诊3例无症状45例-徐汇部分街道连夜检测](https://photos.caixin.com/m/2022-03-07/101851932.html) ![](assets/new.png)  
+- [2022-03-07-【图集】上海一周增新冠感染者136例-徐汇部分街道连夜检测](https://photos.caixin.com/m/2022-03-07/101851932.html) ![](assets/new.png)  
 - [2022-03-06-上海在院新冠病例数创新高-已增调医护人员储备医疗资源](https://m.caixin.com/m/2022-03-06/101851549.html) ![](assets/new.png)  
 - [2022-03-06-山东青岛新增88例确诊-78人为在校学生](https://china.caixin.com/m/2022-03-06/101851448.html) ![](assets/new.png)  
 - [2022-03-06-【境内疫情观察】山东新增88例本土病例（3月5日）](https://database.caixin.com/m/2022-03-06/101851487.html) ![](assets/new.png)  
@@ -491,6 +491,13 @@
 </summary>
 
 
+- [2022-03-07-四国军棋有人工智能机了吗？人工智能对人类胜率突破-90%的最难的棋类游戏应该是四国军棋吧？](https://www.v2ex.com/t/838736) ![](assets/new.png)  
+- [2022-03-07-Oracle-数据库---如何安全快速全表更新-20-亿条数据](https://www.v2ex.com/t/838735) ![](assets/new.png)  
+- [2022-03-07-求推荐适合电视主机的-Linux-系统](https://www.v2ex.com/t/838734) ![](assets/new.png)  
+- [2022-03-07-钓鱼（片荒）：-说出你看过最喜欢的动漫，并且会反复观看的动漫](https://www.v2ex.com/t/838733) ![](assets/new.png)  
+- [2022-03-07-如何在苹果的设备上做好照片管理？](https://www.v2ex.com/t/838732) ![](assets/new.png)  
+- [2022-03-07-家人们，娃四个月，被湿疹折磨得不行](https://www.v2ex.com/t/838731) ![](assets/new.png)  
+- [2022-03-07-求问，杭州跳成都，算一线去二线吗？](https://www.v2ex.com/t/838730) ![](assets/new.png)  
 - [2022-03-07-大家平时学习/工作的时候，休息时间和专心做事的时间的比例一般是多少](https://www.v2ex.com/t/838728) ![](assets/new.png)  
 - [2022-03-07-一个面试的小疑问](https://www.v2ex.com/t/838726) ![](assets/new.png)  
 - [2022-03-07-异地组网怎么实现一个软件定义的传统局域网](https://www.v2ex.com/t/838723) ![](assets/new.png)  
@@ -504,13 +511,6 @@
 - [2022-03-07-在家如何连接公司网络内的测试设备](https://www.v2ex.com/t/838712) ![](assets/new.png)  
 - [2022-03-07-v2ex-屏蔽节点后还能在-web-端首页的“今日热议主题”看到不想看的节点的主题，希望在这里也不显示。](https://www.v2ex.com/t/838711) ![](assets/new.png)  
 - [2022-03-07-尝试修复-andoid-开机缓慢的脚本](https://www.v2ex.com/t/838710) ![](assets/new.png)  
-- [2022-03-07-关于-ECC-内存的一个疑问](https://www.v2ex.com/t/838709) ![](assets/new.png)  
-- [2022-03-07-负延时器可以干嘛？](https://www.v2ex.com/t/838708) ![](assets/new.png)  
-- [2022-03-07-OS-X-下有没有能平替-source-insight-的软件](https://www.v2ex.com/t/838707) ![](assets/new.png)  
-- [2022-03-07-良心云福利：之前买了-3-年-2C-4G，现可免费升级为-4C-4G](https://www.v2ex.com/t/838705) ![](assets/new.png)  
-- [2022-03-07-Google-Play-开发者账号要如何注册？](https://www.v2ex.com/t/838703) ![](assets/new.png)  
-- [2022-03-07-上海三林-天翼云科技有限公司招聘-Java-高级后端工程师](https://www.v2ex.com/t/838702) ![](assets/new.png)  
-- [2022-03-07-现在前端开发-node-用-mac-m1-还有-bug-吗-?-选择-m1-芯片还是买个-nuc-?-明天苹果开发布会了,我还在用-i7-4700mq,实在受不了了](https://www.v2ex.com/t/838701) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -572,7 +572,7 @@
 - [2022-03-07-懒人必备神器-！一个创意十足的-Python-命令行工具](https://toutiao.io/k/uu75b91) ![](assets/new.png)  
 - [2022-03-07-干货-|-Elasticsearch-Nested-数组大小求解，一网打尽！](https://toutiao.io/k/5nq9eay) ![](assets/new.png)  
 - [2022-03-07-Postgres中UPDATE源码分析](https://toutiao.io/k/0f6lffy) ![](assets/new.png)  
-- [2022-03-07-推荐-2万字，详解数据湖，概念、特征、架构、方案、场景以及建湖全过程（建议收藏）](https://toutiao.io/k/vcpzf1w) ![](assets/new.png)  
+- [2022-03-07-推荐-微服务从代码到k8s部署应有尽有大结局（k8s部署）](https://toutiao.io/k/xk3qbvm) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

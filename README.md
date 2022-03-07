@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-03-07 21:37:41，:rocket: 更新条数: +2016， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-03-07 22:13:50，:rocket: 更新条数: +2016， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -572,7 +572,7 @@
 - [2022-03-07-懒人必备神器-！一个创意十足的-Python-命令行工具](https://toutiao.io/k/uu75b91) ![](assets/new.png)  
 - [2022-03-07-干货-|-Elasticsearch-Nested-数组大小求解，一网打尽！](https://toutiao.io/k/5nq9eay) ![](assets/new.png)  
 - [2022-03-07-Postgres中UPDATE源码分析](https://toutiao.io/k/0f6lffy) ![](assets/new.png)  
-- [2022-03-07-推荐-2万字，详解数据湖，概念、特征、架构、方案、场景以及建湖全过程（建议收藏）](https://toutiao.io/k/vcpzf1w) ![](assets/new.png)  
+- [2022-03-07-推荐-高并发是一种架构思维模式](https://toutiao.io/k/imslmgz) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

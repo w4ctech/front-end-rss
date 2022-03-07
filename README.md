@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-03-07 11:12:00，:rocket: 更新条数: +2015， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-03-07 11:36:02，:rocket: 更新条数: +2015， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,10 @@
 </summary>
 
 
+- [2022-03-07-家里监控摄像头可以语音通话，有没有通话前可以给对方发送个响铃的功能？](https://www.v2ex.com/t/838683) ![](assets/new.png)  
+- [2022-03-07-让腾讯云恶心死了，误封我机子还打太极拳](https://www.v2ex.com/t/838682) ![](assets/new.png)  
+- [2022-03-07-传统行业的开发岗，有必要去吗？](https://www.v2ex.com/t/838681) ![](assets/new.png)  
+- [2022-03-07-腾讯云服务器-3-折-3-折香港日本新加坡-硅谷-等海外服务器约-3-年-260-淘宝交易-288](https://www.v2ex.com/t/838680) ![](assets/new.png)  
 - [2022-03-07-暗夜精灵-6air-是否支持-64G-内存](https://www.v2ex.com/t/838679) ![](assets/new.png)  
 - [2022-03-07-当电脑有两个输入源的时候比如两个-HDMI-1-和-2,-有没有办法,-在连接到输入源-1-的时候,-在系统内显示输入源-2-的画面呢?](https://www.v2ex.com/t/838678) ![](assets/new.png)  
 - [2022-03-07-PC-端-去锯齿画笔](https://www.v2ex.com/t/838677) ![](assets/new.png)  
@@ -507,10 +511,6 @@
 - [2022-03-07-女朋友问了最近在学习计算机的知识,问了我一个难以回答的问题](https://www.v2ex.com/t/838662) ![](assets/new.png)  
 - [2022-03-07-各位大佬-keyboard-maestro-和-karabiner-是什么关系？-有同时用这两个的吗？](https://www.v2ex.com/t/838661) ![](assets/new.png)  
 - [2022-03-07-2021-年-我的万元阅读书单与推荐第十三篇](https://www.v2ex.com/t/838660) ![](assets/new.png)  
-- [2022-03-07-复刻了个-Safari-起始页](https://www.v2ex.com/t/838657) ![](assets/new.png)  
-- [2022-03-07-新学-Flutter，请教个问题](https://www.v2ex.com/t/838656) ![](assets/new.png)  
-- [2022-03-07-两房出租，-8-号线江月路地铁站附近](https://www.v2ex.com/t/838654) ![](assets/new.png)  
-- [2022-03-07-不懂就问-TypeScript-可以生成这样的类型吗](https://www.v2ex.com/t/838653) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -564,15 +564,15 @@
 - [2022-03-07-技术从业带来的副作用](https://toutiao.io/k/fgirk9z) ![](assets/new.png)  
 - [2022-03-07-项目集成管理包括哪些集成？](https://toutiao.io/k/0at7eb4) ![](assets/new.png)  
 - [2022-03-07-NutsDB-v0.7.0发布～](https://toutiao.io/k/pjm6nwi) ![](assets/new.png)  
+- [2022-03-07-使用-Hardhat-入门以太坊智能合约](https://toutiao.io/k/sa3crwy) ![](assets/new.png)  
 - [2022-03-07-Hudi小文件问题处理和生产调优个人笔记](https://toutiao.io/k/26vspp9) ![](assets/new.png)  
 - [2022-03-07-C#-模式匹配完全指南](https://toutiao.io/k/z19aapw) ![](assets/new.png)  
-- [2022-03-07-使用-Hardhat-入门以太坊智能合约](https://toutiao.io/k/sa3crwy) ![](assets/new.png)  
 - [2022-03-07-从-0-开始写一个-springboot-starter](https://toutiao.io/k/5hbz48r) ![](assets/new.png)  
 - [2022-03-07-懒人必备神器-！一个创意十足的-Python-命令行工具](https://toutiao.io/k/uu75b91) ![](assets/new.png)  
 - [2022-03-07-平平无奇的项目「GitHub-热点速览-v.22.10」](https://toutiao.io/k/f66fufc) ![](assets/new.png)  
 - [2022-03-07-干货-|-Elasticsearch-Nested-数组大小求解，一网打尽！](https://toutiao.io/k/5nq9eay) ![](assets/new.png)  
 - [2022-03-07-Postgres中UPDATE源码分析](https://toutiao.io/k/0f6lffy) ![](assets/new.png)  
-- [2022-03-07-推荐-高并发是一种架构思维模式](https://toutiao.io/k/imslmgz) ![](assets/new.png)  
+- [2022-03-07-推荐-微服务从代码到k8s部署应有尽有大结局（k8s部署）](https://toutiao.io/k/xk3qbvm) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

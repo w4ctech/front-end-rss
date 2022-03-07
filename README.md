@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-03-07 05:13:27，:rocket: 更新条数: +2004， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-03-07 05:36:29，:rocket: 更新条数: +2000， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,11 @@
 </summary>
 
 
+- [2022-03-07-关于序列化和编码这两个概念的疑惑](https://www.v2ex.com/t/838587) ![](assets/new.png)  
+- [2022-03-07-adb-关闭后仍然存在挂起进程，无法关闭](https://www.v2ex.com/t/838586) ![](assets/new.png)  
+- [2022-03-07-上海-不加班-外企-招-Java-，-C++，测试，安卓，资深前端，-devOps，-PMO，帮忙内推送钱！](https://www.v2ex.com/t/838583) ![](assets/new.png)  
+- [2022-03-07-迫于女友压力，如何选购高性价比的订婚戒指？](https://www.v2ex.com/t/838582) ![](assets/new.png)  
+- [2022-03-07-黑心房东来吸血-5-月份空出-2-个居住证位置](https://www.v2ex.com/t/838581) ![](assets/new.png)  
 - [2022-03-07-MIUI-通过硬编码内置了-DNS？](https://www.v2ex.com/t/838579) ![](assets/new.png)  
 - [2022-03-07-成都字节的易帅，你的工牌在我这里](https://www.v2ex.com/t/838578) ![](assets/new.png)  
 - [2022-03-07-Python-:strip（）方法的正则表达式余运算判断传参](https://www.v2ex.com/t/838577) ![](assets/new.png)  
@@ -502,15 +507,10 @@
 - [2022-03-07-ASP.NET-Core-有什么便宜/免费好用的混淆工具？](https://www.v2ex.com/t/838566) ![](assets/new.png)  
 - [2022-03-07-昨晚核酸完，-10-多个小时后还没收到结果，出行很被动](https://www.v2ex.com/t/838565) ![](assets/new.png)  
 - [2022-03-07-分享自己的投资策略](https://www.v2ex.com/t/838564) ![](assets/new.png)  
-- [2022-03-07-新冠无情人有情-上海松江九亭-5-月份空出-2-个居住证位置](https://www.v2ex.com/t/838563) ![](assets/new.png)  
 - [2022-03-07-求各位-v-友推荐一款-hdmi-切换器（至少四进二出）](https://www.v2ex.com/t/838561) ![](assets/new.png)  
 - [2022-03-07-如果没有-996（正常时间上下班），你愿意接受工作时间内不摸鱼吗？](https://www.v2ex.com/t/838557) ![](assets/new.png)  
 - [2022-03-07-小孩近视了](https://www.v2ex.com/t/838556) ![](assets/new.png)  
 - [2022-03-07-监听网页背景颜色变化比较好的方式是什么？](https://www.v2ex.com/t/838555) ![](assets/new.png)  
-- [2022-03-07-周末花了两天时间，把所有国外公司的服务数据全部都备份了一遍](https://www.v2ex.com/t/838553) ![](assets/new.png)  
-- [2022-03-07-vscode-sshremote-隐藏终端的快捷键是啥](https://www.v2ex.com/t/838552) ![](assets/new.png)  
-- [2022-03-07-各位程序员们，工作中有用妙控板代替鼠标的吗？](https://www.v2ex.com/t/838551) ![](assets/new.png)  
-- [2022-03-07-申请企业类型的微信服务号碰到的一个棘手问题](https://www.v2ex.com/t/838549) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -557,21 +557,21 @@
 - [2022-03-07-微服务如何划分](https://toutiao.io/k/f4vabj7) ![](assets/new.png)  
 - [2022-03-07-数据分析终极一问：指标波动多大才算是异常？](https://toutiao.io/k/fnok9ww) ![](assets/new.png)  
 - [2022-03-07-硬核解析-Webpack-事件流核心！](https://toutiao.io/k/846v1xn) ![](assets/new.png)  
-- [2022-03-07-助力双-11-个性化会场高效交付：Deco-智能代码技术揭秘](https://toutiao.io/k/skq0oro) ![](assets/new.png)  
 - [2022-03-07-数据可视化-|-五常纸面实力历年变化与对比](https://toutiao.io/k/9silce5) ![](assets/new.png)  
+- [2022-03-07-助力双-11-个性化会场高效交付：Deco-智能代码技术揭秘](https://toutiao.io/k/skq0oro) ![](assets/new.png)  
 - [2022-03-07-这个-Go-程序分析工具太帅了](https://toutiao.io/k/tlsh7eo) ![](assets/new.png)  
 - [2022-03-07-NutsDB-v0.7.0发布～](https://toutiao.io/k/pjm6nwi) ![](assets/new.png)  
 - [2022-03-07-想变好却不能坚持，我告诉你怎么办](https://toutiao.io/k/juf9iad) ![](assets/new.png)  
 - [2022-03-07-Hudi小文件问题处理和生产调优个人笔记](https://toutiao.io/k/26vspp9) ![](assets/new.png)  
 - [2022-03-07-C#-模式匹配完全指南](https://toutiao.io/k/z19aapw) ![](assets/new.png)  
 - [2022-03-07-项目集成管理包括哪些集成？](https://toutiao.io/k/0at7eb4) ![](assets/new.png)  
-- [2022-03-07-推荐-高并发是一种架构思维模式](https://toutiao.io/k/imslmgz) ![](assets/new.png)  
+- [2022-03-07-推荐-SpringBoot性能优化大全，贼好使！](https://toutiao.io/k/75br1se) ![](assets/new.png)  
 - [2022-03-07-推荐-Java泛型详解，史上最全图文详解！](https://toutiao.io/k/chtkqxo) ![](assets/new.png)  
+- [2022-03-07-推荐-2万字，详解数据湖，概念、特征、架构、方案、场景以及建湖全过程（建议收藏）](https://toutiao.io/k/vcpzf1w) ![](assets/new.png)  
 - [2022-03-07-推荐-微服务从代码到k8s部署应有尽有大结局（k8s部署）](https://toutiao.io/k/xk3qbvm) ![](assets/new.png)  
 - [2022-03-07-推荐-Golang-简洁架构实战](https://toutiao.io/k/vjw1dlc) ![](assets/new.png)  
 - [2022-03-07-推荐-2021年最受程序员欢迎的开发工具TOP-100名单出炉！](https://toutiao.io/k/uf5vypr) ![](assets/new.png)  
-- [2022-03-07-推荐-SpringBoot性能优化大全，贼好使！](https://toutiao.io/k/75br1se) ![](assets/new.png)  
-- [2022-03-07-推荐-2万字，详解数据湖，概念、特征、架构、方案、场景以及建湖全过程（建议收藏）](https://toutiao.io/k/vcpzf1w) ![](assets/new.png)  
+- [2022-03-07-推荐-高并发是一种架构思维模式](https://toutiao.io/k/imslmgz) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-03-07 23:03:40，:rocket: 更新条数: +2016， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-03-07 23:13:09，:rocket: 更新条数: +2015， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,7 +491,6 @@
 </summary>
 
 
-- [2022-03-07-去年的腾讯云-2C4G-轻量，除了升级-4-核之外，还可以-19.9-一年加-1T-数据盘](https://www.v2ex.com/t/838760) ![](assets/new.png)  
 - [2022-03-07-关于-Windows-下-C/C++-Runtime-兼容性的问题](https://www.v2ex.com/t/838759) ![](assets/new.png)  
 - [2022-03-07-总结一下最近一年多寻求业余爱好的经历](https://www.v2ex.com/t/838757) ![](assets/new.png)  
 - [2022-03-07-2019-年-16-寸顶配-MBP，哪里回收（卖二手）比较好？](https://www.v2ex.com/t/838756) ![](assets/new.png)  
@@ -511,6 +510,7 @@
 - [2022-03-07-悟了](https://www.v2ex.com/t/838739) ![](assets/new.png)  
 - [2022-03-07-四国军棋有人工智能机了吗？人工智能对人类胜率突破-90%的最难的棋类游戏应该是四国军棋吧？](https://www.v2ex.com/t/838736) ![](assets/new.png)  
 - [2022-03-07-Oracle-数据库---如何安全快速全表更新-20-亿条数据](https://www.v2ex.com/t/838735) ![](assets/new.png)  
+- [2022-03-07-求推荐适合电视主机的-Linux-系统](https://www.v2ex.com/t/838734) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -568,11 +568,11 @@
 - [2022-03-07-平平无奇的项目「GitHub-热点速览-v.22.10」](https://toutiao.io/k/f66fufc) ![](assets/new.png)  
 - [2022-03-07-Hudi小文件问题处理和生产调优个人笔记](https://toutiao.io/k/26vspp9) ![](assets/new.png)  
 - [2022-03-07-NutsDB-v0.7.0发布～](https://toutiao.io/k/pjm6nwi) ![](assets/new.png)  
-- [2022-03-07-懒人必备神器-！一个创意十足的-Python-命令行工具](https://toutiao.io/k/uu75b91) ![](assets/new.png)  
 - [2022-03-07-C#-模式匹配完全指南](https://toutiao.io/k/z19aapw) ![](assets/new.png)  
+- [2022-03-07-懒人必备神器-！一个创意十足的-Python-命令行工具](https://toutiao.io/k/uu75b91) ![](assets/new.png)  
 - [2022-03-07-干货-|-Elasticsearch-Nested-数组大小求解，一网打尽！](https://toutiao.io/k/5nq9eay) ![](assets/new.png)  
 - [2022-03-07-Postgres中UPDATE源码分析](https://toutiao.io/k/0f6lffy) ![](assets/new.png)  
-- [2022-03-07-推荐-高并发是一种架构思维模式](https://toutiao.io/k/imslmgz) ![](assets/new.png)  
+- [2022-03-07-推荐-2万字，详解数据湖，概念、特征、架构、方案、场景以及建湖全过程（建议收藏）](https://toutiao.io/k/vcpzf1w) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

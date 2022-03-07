@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-03-07 10:14:05，:rocket: 更新条数: +2018， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-03-07 10:40:27，:rocket: 更新条数: +2015， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -65,14 +65,15 @@
 </summary>
 
 
-- [2022-03-07-3月6日全国新增新冠327例-13省份本土214例](https://m.caixin.com/m/2022-03-07/101851641.html) ![](assets/new.png)  
+- [2022-03-07-最新疫情：全国新冠累计确诊111195例-累计接种新冠疫苗超31.6亿剂次](https://m.caixin.com/m/2022-03-07/101852149.html) ![](assets/new.png)  
+- [2022-03-07-张文宏：严守新一轮疫情规模性反弹底线，探索更智慧动态清零模式](https://opinion.caixin.com/m/2022-03-07/101852141.html) ![](assets/new.png)  
 - [2022-03-07-香港“方舱医院”入住率仅四成-确诊者可自行申请入住](https://m.caixin.com/m/2022-03-07/101851760.html) ![](assets/new.png)  
 - [2022-03-07-广东惠州基层防疫扑杀宠物狗-街道致歉涉事者停职](https://m.caixin.com/m/2022-03-07/101851565.html) ![](assets/new.png)  
+- [2022-03-07-最新海外疫情：新冠感染超4.45亿-累计接种新冠疫苗超107.62亿剂次](https://m.caixin.com/m/2022-03-07/101852154.html) ![](assets/new.png)  
 - [2022-03-07-【境内疫情观察】全国新增214例本土病例（3月6日）](https://database.caixin.com/m/2022-03-07/101851858.html) ![](assets/new.png)  
 - [2022-03-07-苏格兰为弱势群体打第四针-印度尼西亚再放宽旅行限制｜大流行手记（3月6日）](https://m.caixin.com/m/2022-03-07/101851699.html) ![](assets/new.png)  
 - [2022-03-07-【图集】上海新增本土确诊3例无症状45例-市民连夜检测](https://photos.caixin.com/m/2022-03-07/101851932.html) ![](assets/new.png)  
 - [2022-03-06-上海在院新冠病例数创新高-已增调医护人员储备医疗资源](https://m.caixin.com/m/2022-03-06/101851549.html) ![](assets/new.png)  
-- [2022-03-06-最新海外疫情：新冠感染超4.44亿-累计接种新冠疫苗超107.51亿剂次](https://m.caixin.com/m/2022-03-06/101851521.html) ![](assets/new.png)  
 - [2022-03-06-山东青岛新增88例确诊-78人为在校学生](https://china.caixin.com/m/2022-03-06/101851448.html) ![](assets/new.png)  
 - [2022-03-06-【境内疫情观察】山东新增88例本土病例（3月5日）](https://database.caixin.com/m/2022-03-06/101851487.html) ![](assets/new.png)  
 - [2022-03-06-车队抗议涌向华盛顿-英国面临手术挤压压力｜大流行手记（3月5日）](https://m.caixin.com/m/2022-03-06/101851444.html) ![](assets/new.png)  
@@ -84,7 +85,6 @@
 - [2022-03-04-上海9天新增34例新冠感染者-计划扩大定点医院收治能力](https://m.caixin.com/m/2022-03-04/101850824.html) ![](assets/new.png)  
 - [2022-03-04-【境内疫情观察】广东新增117例境外输入病例（3月3日）](https://database.caixin.com/m/2022-03-04/101850568.html) ![](assets/new.png)  
 - [2022-03-04-俄乌战火暂未影响非洲疫苗供应-瑞典解封后病例下降｜大流行手记（3月3日）](https://m.caixin.com/m/2022-03-04/101850383.html) ![](assets/new.png)  
-- [2022-03-04-深圳公共交通须持48小时核酸证明-市民排队检测](https://photos.caixin.com/m/2022-03-04/101850391.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-03-07-终于在-opensea-上架了第一个-NFT-，我晚了吗？](https://www.v2ex.com/t/838671) ![](assets/new.png)  
 - [2022-03-07-问下-wireguard-的客户端密钥可以公用吗](https://www.v2ex.com/t/838667) ![](assets/new.png)  
 - [2022-03-07-有没有办法自动同步-Safari-和-Chrome-的书签？](https://www.v2ex.com/t/838666) ![](assets/new.png)  
 - [2022-03-07-不装智能门锁的前提下（因为家里有电子门锁，不想换了），小米生态，晚上回家开门自动亮灯的场景有何方案？](https://www.v2ex.com/t/838665) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-03-07-mongodb-数据全量加载到-redis，怎样提升速度？](https://www.v2ex.com/t/838648) ![](assets/new.png)  
 - [2022-03-07-有没有提供-api可以用代码发送请求下载文件，可以自己部署的的开源同步盘？](https://www.v2ex.com/t/838646) ![](assets/new.png)  
 - [2022-03-07-你还在使用-AdBlock-吗？](https://www.v2ex.com/t/838645) ![](assets/new.png)  
-- [2022-03-07-今年人大代表提了不少意见，突然有感而发](https://www.v2ex.com/t/838644) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -572,7 +572,7 @@
 - [2022-03-07-平平无奇的项目「GitHub-热点速览-v.22.10」](https://toutiao.io/k/f66fufc) ![](assets/new.png)  
 - [2022-03-07-干货-|-Elasticsearch-Nested-数组大小求解，一网打尽！](https://toutiao.io/k/5nq9eay) ![](assets/new.png)  
 - [2022-03-07-Postgres中UPDATE源码分析](https://toutiao.io/k/0f6lffy) ![](assets/new.png)  
-- [2022-03-07-推荐-微服务从代码到k8s部署应有尽有大结局（k8s部署）](https://toutiao.io/k/xk3qbvm) ![](assets/new.png)  
+- [2022-03-07-推荐-2万字，详解数据湖，概念、特征、架构、方案、场景以及建湖全过程（建议收藏）](https://toutiao.io/k/vcpzf1w) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

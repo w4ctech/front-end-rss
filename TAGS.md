@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-03-07 12:21:16。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-03-07 12:57:13。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -71,7 +71,6 @@
 
 
 
-- [【V2EX】不懂就问-TypeScript-可以生成这样的类型吗](https://www.v2ex.com/t/838653)
 - [......【查看更多】......](./details/tags/typescript.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -107,6 +106,7 @@
 
 
 
+- [【V2EX】现在前端开发-node-用-mac-m1-还有-bug-吗-?-选择-m1-芯片还是买个-nuc-?-明天苹果开发布会了,我还在用-i7-4700mq,实在受不了了](https://www.v2ex.com/t/838701)
 - [【技术头条】V8引入全新的非优化JS编译器，性能大幅提升！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14967&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493491%26amp%3Bidx%3D2%26amp%3Bsn%3D8615a95217d4fdb3a4fec9e28699eb1b%26amp%3Bchksm%3Dfa3f0628cd488f3e2c42fc16240aa5459fcdb5a99d3f7d5fe8c32cae5f9acedac8b17c2ea191%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [......【查看更多】......](./details/tags/nodejs.md)
 
@@ -258,7 +258,6 @@
 
 
 
-- [【V2EX】mongodb-数据全量加载到-redis，怎样提升速度？](https://www.v2ex.com/t/838648)
 - [【技术头条】Web前端性能优化思路-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14963&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fweb-frontend-performance-tuning%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【开发者头条】推荐-SpringBoot性能优化大全，贼好使！](https://toutiao.io/k/75br1se)
 - [......【查看更多】......](./details/tags/optimization.md)
@@ -286,7 +285,6 @@
 - [【V2EX】Edge-是不是有点过分了](https://www.v2ex.com/t/838688)
 - [【V2EX】有没有办法自动同步-Safari-和-Chrome-的书签？](https://www.v2ex.com/t/838666)
 - [【V2EX】复刻了个-Safari-起始页](https://www.v2ex.com/t/838657)
-- [【V2EX】有没有提供-api可以用代码发送请求下载文件，可以自己部署的的开源同步盘？](https://www.v2ex.com/t/838646)
 - [【技术头条】傻傻分不清，前后端接口Cookie、Session、Token的区别？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14961&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493488%26amp%3Bidx%3D2%26amp%3Bsn%3D6c976132f89f3b2e7578d471ef4f260a%26amp%3Bchksm%3Dfa3f062bcd488f3dc5acee3f3f231bf90a3fa4081829f4fb53c83193994c3e095596b4aa426f%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【技术头条】在IDEA中的各种调试，Bug定位（超级全面）-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14959&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493487%26amp%3Bidx%3D2%26amp%3Bsn%3D2a117b44b5dd666ddd79ebf90940831a%26amp%3Bchksm%3Dfa3f0634cd488f22657c709768ceb59cab1c4dda36185984e6d0dd5c5fd191e80a0b6b21c2c2%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【开发者头条】Postgres中UPDATE源码分析](https://toutiao.io/k/0f6lffy)
@@ -356,6 +354,8 @@
 
 
 
+- [【V2EX】上海三林-天翼云科技有限公司招聘-Java-高级后端工程师](https://www.v2ex.com/t/838702)
+- [【V2EX】区块链行业-招聘（分布式办公）](https://www.v2ex.com/t/838699)
 - [......【查看更多】......](./details/tags/job-interview.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

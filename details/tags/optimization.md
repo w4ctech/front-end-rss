@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-03-07 12:21:16。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-03-07 12:57:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 性能优化
 
@@ -7,6 +7,5 @@
 
 
 
-- [2022-03-07-mongodb-数据全量加载到-redis，怎样提升速度？](https://www.v2ex.com/t/838648) 
 - [2022-03-07-Web前端性能优化思路-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14963&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fweb-frontend-performance-tuning%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-03-07-推荐-SpringBoot性能优化大全，贼好使！](https://toutiao.io/k/75br1se) 

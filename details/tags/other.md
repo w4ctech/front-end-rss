@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-03-08 12:58:32。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-03-08 13:20:53。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -6,10 +6,11 @@
 
 
 - [2022-03-08-最新疫情：全国新冠累计确诊111520例-累计接种新冠疫苗超31.65亿剂次](https://m.caixin.com/m/2022-03-08/101852706.html) 
+- [2022-03-08-香港日增病例呈回落趋势-港大预测5月降至两位数](https://m.caixin.com/m/2022-03-08/101852848.html) 
 - [2022-03-08-北京新增7例本土确诊-一人曾赴上海团建](https://m.caixin.com/m/2022-03-08/101852668.html) 
-- [2022-03-08-深港边境临时搭桥-内地援建香港河套应急医院](https://m.caixin.com/m/2022-03-08/101852776.html) 
 - [2022-03-08-北京新增新冠病例涉字节跳动办公区-员工就地隔离过夜](https://m.caixin.com/m/2022-03-08/101852591.html) 
 - [2022-03-08-最新海外疫情：新冠感染超4.46亿-累计接种新冠疫苗超107.87亿剂次](https://m.caixin.com/m/2022-03-08/101852715.html) 
+- [2022-03-08-深港边境临时搭桥-内地援建香港河套应急医院](https://m.caixin.com/m/2022-03-08/101852776.html) 
 - [2022-03-08-【境内疫情观察】全国现有确诊病例超4000例（3月7日）](https://database.caixin.com/m/2022-03-08/101852579.html) 
 - [2022-03-08-研究发现新冠重症患者特殊基因-全球死亡病例超600万｜大流行手记（3月7日）](https://m.caixin.com/m/2022-03-08/101852426.html) 
 - [2022-03-07-上海一周增新冠感染者179例-徐汇部分街道启动全员筛查](https://m.caixin.com/m/2022-03-07/101852250.html) 
@@ -1905,6 +1906,9 @@
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2022-02-04-HTML-inputmode与iOS-Android软键盘类型测试](https://www.zhangxinxu.com/wordpress/2022/02/html-inputmode-keyboard/) 
+- [2022-03-08-兑换码分享-「ULPB-试试双拼」--iOS-平台首个双拼练习软件](https://www.v2ex.com/t/838953) 
+- [2022-03-08-有没有一款类似-Wise-System-Monitor-但是可以自动上传系统状态信息到云端服务器的系统监控软件](https://www.v2ex.com/t/838951) 
+- [2022-03-08-最近树莓派价格炒的离谱](https://www.v2ex.com/t/838950) 
 - [2022-03-08-mac-的电池健康方案靠谱吗？](https://www.v2ex.com/t/838949) 
 - [2022-03-08-hs8145v-带不带-5-的区别是？](https://www.v2ex.com/t/838947) 
 - [2022-03-08-国行特供的-WiFi-权限对部分应用似乎会侧漏](https://www.v2ex.com/t/838946) 
@@ -1931,11 +1935,6 @@
 - [2022-03-08-腾讯云轻量虎年升配及不限新老优惠](https://www.v2ex.com/t/838908) 
 - [2022-03-08-今天提出离职了](https://www.v2ex.com/t/838907) 
 - [2022-03-08-想问一个前端侧边菜单导航的问题](https://www.v2ex.com/t/838906) 
-- [2022-03-08-有人接私活吗,小需求==](https://www.v2ex.com/t/838904) 
-- [2022-03-08-全职远程-20k-35k/web-前端开发/SaaS/上海](https://www.v2ex.com/t/838903) 
-- [2022-03-08-14-年了，我总结了一下过往的工作经历](https://www.v2ex.com/t/838902) 
-- [2022-03-08-电信换了个光猫，网口发的包会带-tag？？](https://www.v2ex.com/t/838901) 
-- [2022-03-08-Mac-备忘录带不带改动提示？](https://www.v2ex.com/t/838900) 
 - [2022-03-08-wallys/DR6018-S/Support-OpenWRT-IPQ6010-802.11ax-2x2-2.4G&5G-www.wallystech.com](https://blogread.cn/news/go.php?idItem=14974&url=https%3A%2F%2Fwww.wallystech.com%2FRouterboard%2FDR6018-S-V02-wifi6-Qualcomm-IPQ6010-2T2R-2-GE-port-supporting-QCN9074-wifi-card-802.11AX-MU-MIMO-OFDMA.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-03-08-wallys/DR6018/Support-OpenWRT-IPQ6010-802.11ax-2x2-2.4G&5G-2.5Gbps-Ethernet-Port-www.wallystech.com](https://blogread.cn/news/go.php?idItem=14973&url=https%3A%2F%2Fwww.wallystech.com%2FRouterboard%2FDR6018V4-wifi6-Qualcomm-IPQ6010-IPQ6018-FAMILY-2T2R-2.5G-ETH-port-supporting-5G-celluar-Modem-802-11AX-MU-MIMO-OFDMA.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-03-08-wallys/DR-AP4029-M/Enclosure-Metal-Outdoor-Outdoor-Metal-Waterproof-www.wallystech.com](https://blogread.cn/news/go.php?idItem=14972&url=https%3A%2F%2Fwww.wallystech.com%2FIndustrial_Wireless_AP%2FDR-AP4029-M-WiFi-5-outdoor-Access-point-IPQ-4019-4029-DUAL-BAND-802.11AC-WAVE2-MU-MIMO.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1963,7 +1962,7 @@
 - [2022-03-08-「前端CI/CD系列」第二篇：如何用建木CI更新七牛云CDN证书](https://toutiao.io/k/2z83xu1) 
 - [2022-03-08-推荐-高并发是一种架构思维模式](https://toutiao.io/k/imslmgz) 
 - [2022-03-08-推荐-2万字，详解数据湖，概念、特征、架构、方案、场景以及建湖全过程（建议收藏）](https://toutiao.io/k/vcpzf1w) 
+- [2022-03-08-推荐-微服务从代码到k8s部署应有尽有大结局（k8s部署）](https://toutiao.io/k/xk3qbvm) 
+- [2022-03-08-推荐-MySQL-团队开发规范](https://toutiao.io/k/qjooigy) 
 - [2022-03-08-推荐-Golang-简洁架构实战](https://toutiao.io/k/vjw1dlc) 
 - [2022-03-08-推荐-Java泛型详解，史上最全图文详解！](https://toutiao.io/k/chtkqxo) 
-- [2022-03-08-推荐-MySQL-团队开发规范](https://toutiao.io/k/qjooigy) 
-- [2022-03-08-推荐-微服务从代码到k8s部署应有尽有大结局（k8s部署）](https://toutiao.io/k/xk3qbvm) 

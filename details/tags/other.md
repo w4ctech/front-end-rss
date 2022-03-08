@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-03-08 23:13:32。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-03-08 23:38:12。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -13,7 +13,6 @@
 - [2022-03-08-深港边境临时搭桥-内地援建香港河套应急医院](https://m.caixin.com/m/2022-03-08/101852776.html) 
 - [2022-03-08-【境内疫情观察】全国现有确诊病例超4000例（3月7日）](https://database.caixin.com/m/2022-03-08/101852579.html) 
 - [2022-03-08-研究发现新冠重症患者特殊基因-全球死亡病例超600万｜大流行手记（3月7日）](https://m.caixin.com/m/2022-03-08/101852426.html) 
-- [2022-03-07-上海一周增新冠感染者179例-徐汇部分街道启动全员筛查](https://m.caixin.com/m/2022-03-07/101852250.html) 
 - [2022-03-07-广东惠州基层防疫扑杀宠物狗-街道致歉涉事者停职](https://m.caixin.com/m/2022-03-07/101851565.html) 
 - [2022-03-07-【境内疫情观察】全国新增214例本土病例（3月6日）](https://database.caixin.com/m/2022-03-07/101851858.html) 
 - [2022-03-07-苏格兰为弱势群体打第四针-印度尼西亚再放宽旅行限制｜大流行手记（3月6日）](https://m.caixin.com/m/2022-03-07/101851699.html) 
@@ -29,7 +28,6 @@
 - [2022-03-05-【境内疫情观察】全国15省新增102例本土病例（3月4日）](https://database.caixin.com/m/2022-03-05/101851302.html) 
 - [2022-03-05-丹麦研究称1/3感染者出现“长新冠”，比利时大幅取消疫情限制｜大流行手记（3月4日）](https://m.caixin.com/m/2022-03-05/101851182.html) 
 - [2022-03-04-香港放开第四针新冠疫苗接种](https://m.caixin.com/m/2022-03-04/101851034.html) 
-- [2022-03-04-上海9天新增34例新冠感染者-计划扩大定点医院收治能力](https://m.caixin.com/m/2022-03-04/101850824.html) 
 - [2022-03-04-【境内疫情观察】广东新增117例境外输入病例（3月3日）](https://database.caixin.com/m/2022-03-04/101850568.html) 
 - [2022-03-04-俄乌战火暂未影响非洲疫苗供应-瑞典解封后病例下降｜大流行手记（3月3日）](https://m.caixin.com/m/2022-03-04/101850383.html) 
 - [2022-03-04-【图集】深圳公共交通须持48小时核酸证明-市民排队检测](https://photos.caixin.com/m/2022-03-04/101850391.html) 
@@ -1938,7 +1936,6 @@
 - [2022-03-08-兑换码分享-「ULPB-试试双拼」--iOS-平台首个双拼练习软件](https://www.v2ex.com/t/838953) 
 - [2022-03-08-有没有一款类似-Wise-System-Monitor-但是可以自动上传系统状态信息到云端服务器的系统监控软件](https://www.v2ex.com/t/838951) 
 - [2022-03-08-最近树莓派价格炒的离谱](https://www.v2ex.com/t/838950) 
-- [2022-03-08-mac-的电池健康方案靠谱吗？](https://www.v2ex.com/t/838949) 
 - [2022-03-08-wallys/DR6018-S/Support-OpenWRT-IPQ6010-802.11ax-2x2-2.4G&5G-www.wallystech.com](https://blogread.cn/news/go.php?idItem=14974&url=https%3A%2F%2Fwww.wallystech.com%2FRouterboard%2FDR6018-S-V02-wifi6-Qualcomm-IPQ6010-2T2R-2-GE-port-supporting-QCN9074-wifi-card-802.11AX-MU-MIMO-OFDMA.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-03-08-wallys/DR6018/Support-OpenWRT-IPQ6010-802.11ax-2x2-2.4G&5G-2.5Gbps-Ethernet-Port-www.wallystech.com](https://blogread.cn/news/go.php?idItem=14973&url=https%3A%2F%2Fwww.wallystech.com%2FRouterboard%2FDR6018V4-wifi6-Qualcomm-IPQ6010-IPQ6018-FAMILY-2T2R-2.5G-ETH-port-supporting-5G-celluar-Modem-802-11AX-MU-MIMO-OFDMA.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-03-08-wallys/DR-AP4029-M/Enclosure-Metal-Outdoor-Outdoor-Metal-Waterproof-www.wallystech.com](https://blogread.cn/news/go.php?idItem=14972&url=https%3A%2F%2Fwww.wallystech.com%2FIndustrial_Wireless_AP%2FDR-AP4029-M-WiFi-5-outdoor-Access-point-IPQ-4019-4029-DUAL-BAND-802.11AC-WAVE2-MU-MIMO.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1964,8 +1961,8 @@
 - [2022-03-08-实施5000能提高软件质量吗？](https://toutiao.io/k/6pltecc) 
 - [2022-03-08-开源：如何自定义spring-boot-starter](https://toutiao.io/k/wwseuek) 
 - [2022-03-08-「前端CI/CD系列」第二篇：如何用建木CI更新七牛云CDN证书](https://toutiao.io/k/2z83xu1) 
-- [2022-03-08-推荐-MySQL-团队开发规范](https://toutiao.io/k/qjooigy) 
 - [2022-03-08-推荐-高并发是一种架构思维模式](https://toutiao.io/k/imslmgz) 
-- [2022-03-08-推荐-2万字，详解数据湖，概念、特征、架构、方案、场景以及建湖全过程（建议收藏）](https://toutiao.io/k/vcpzf1w) 
 - [2022-03-08-推荐-Java泛型详解，史上最全图文详解！](https://toutiao.io/k/chtkqxo) 
 - [2022-03-08-推荐-微服务从代码到k8s部署应有尽有大结局（k8s部署）](https://toutiao.io/k/xk3qbvm) 
+- [2022-03-08-推荐-MySQL-团队开发规范](https://toutiao.io/k/qjooigy) 
+- [2022-03-08-推荐-2万字，详解数据湖，概念、特征、架构、方案、场景以及建湖全过程（建议收藏）](https://toutiao.io/k/vcpzf1w) 

@@ -45,11 +45,6 @@
         "date": "2022-03-08"
       },
       {
-        "title": "上海一周增新冠感染者179例 徐汇部分街道启动全员筛查",
-        "link": "https://m.caixin.com/m/2022-03-07/101852250.html",
-        "date": "2022-03-07"
-      },
-      {
         "title": "广东惠州基层防疫扑杀宠物狗 街道致歉涉事者停职",
         "link": "https://m.caixin.com/m/2022-03-07/101851565.html",
         "date": "2022-03-07"
@@ -122,11 +117,6 @@
       {
         "title": "香港放开第四针新冠疫苗接种",
         "link": "https://m.caixin.com/m/2022-03-04/101851034.html",
-        "date": "2022-03-04"
-      },
-      {
-        "title": "上海9天新增34例新冠感染者 计划扩大定点医院收治能力",
-        "link": "https://m.caixin.com/m/2022-03-04/101850824.html",
         "date": "2022-03-04"
       },
       {
@@ -9918,6 +9908,16 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "苹果新显示器 Apple Studio Display",
+        "link": "https://www.v2ex.com/t/838999",
+        "date": "2022-03-08"
+      },
+      {
+        "title": "苹果新出的 studio display 搭载了 a13，性能约等于骁龙 8gen 1",
+        "link": "https://www.v2ex.com/t/838998",
+        "date": "2022-03-08"
+      },
+      {
         "title": "M1 Ultra 跑分",
         "link": "https://www.v2ex.com/t/838997",
         "date": "2022-03-08"
@@ -10120,16 +10120,6 @@
       {
         "title": "最近树莓派价格炒的离谱",
         "link": "https://www.v2ex.com/t/838950",
-        "date": "2022-03-08"
-      },
-      {
-        "title": "mac 的电池健康方案靠谱吗？",
-        "link": "https://www.v2ex.com/t/838949",
-        "date": "2022-03-08"
-      },
-      {
-        "title": "3D 互联网的大航海，你要上船一起冒险吗？社交公司 Presence，诚邀各位才华横溢的 Unity3d 大佬上船！",
-        "link": "https://www.v2ex.com/t/838948",
         "date": "2022-03-08"
       }
     ]
@@ -10337,23 +10327,8 @@
         "date": "2022-03-08"
       },
       {
-        "title": "[推荐] SpringBoot性能优化大全，贼好使！",
-        "link": "https://toutiao.io/k/75br1se",
-        "date": "2022-03-08"
-      },
-      {
-        "title": "[推荐] MySQL 团队开发规范",
-        "link": "https://toutiao.io/k/qjooigy",
-        "date": "2022-03-08"
-      },
-      {
         "title": "[推荐] 高并发是一种架构思维模式",
         "link": "https://toutiao.io/k/imslmgz",
-        "date": "2022-03-08"
-      },
-      {
-        "title": "[推荐] 2万字，详解数据湖，概念、特征、架构、方案、场景以及建湖全过程（建议收藏）",
-        "link": "https://toutiao.io/k/vcpzf1w",
         "date": "2022-03-08"
       },
       {
@@ -10364,6 +10339,21 @@
       {
         "title": "[推荐] 微服务从代码到k8s部署应有尽有大结局（k8s部署）",
         "link": "https://toutiao.io/k/xk3qbvm",
+        "date": "2022-03-08"
+      },
+      {
+        "title": "[推荐] MySQL 团队开发规范",
+        "link": "https://toutiao.io/k/qjooigy",
+        "date": "2022-03-08"
+      },
+      {
+        "title": "[推荐] 2万字，详解数据湖，概念、特征、架构、方案、场景以及建湖全过程（建议收藏）",
+        "link": "https://toutiao.io/k/vcpzf1w",
+        "date": "2022-03-08"
+      },
+      {
+        "title": "[推荐] SpringBoot性能优化大全，贼好使！",
+        "link": "https://toutiao.io/k/75br1se",
         "date": "2022-03-08"
       }
     ]

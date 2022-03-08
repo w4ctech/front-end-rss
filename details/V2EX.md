@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2022-03-08 23:13:32。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-03-08 23:38:12。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-03-08-苹果新显示器-Apple-Studio-Display](https://www.v2ex.com/t/838999) 
+- [2022-03-08-苹果新出的-studio-display-搭载了-a13，性能约等于骁龙-8gen-1](https://www.v2ex.com/t/838998) 
 - [2022-03-08-M1-Ultra-跑分](https://www.v2ex.com/t/838997) 
 - [2022-03-08-原来两个-M1-Max-可以拼在一起……](https://www.v2ex.com/t/838996) 
 - [2022-03-08-Time-Machine-无法完成恢复，提示没有足够的空间](https://www.v2ex.com/t/838995) 
@@ -46,5 +48,3 @@
 - [2022-03-08-明天看-apple-直播的小伙伴有多少？](https://www.v2ex.com/t/838952) 
 - [2022-03-08-有没有一款类似-Wise-System-Monitor-但是可以自动上传系统状态信息到云端服务器的系统监控软件](https://www.v2ex.com/t/838951) 
 - [2022-03-08-最近树莓派价格炒的离谱](https://www.v2ex.com/t/838950) 
-- [2022-03-08-mac-的电池健康方案靠谱吗？](https://www.v2ex.com/t/838949) 
-- [2022-03-08-3D-互联网的大航海，你要上船一起冒险吗？社交公司-Presence，诚邀各位才华横溢的-Unity3d-大佬上船！](https://www.v2ex.com/t/838948) 

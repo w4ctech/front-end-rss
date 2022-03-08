@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-03-08 23:13:32，:rocket: 更新条数: +2026， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-03-08 23:38:12，:rocket: 更新条数: +2024， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -73,7 +73,6 @@
 - [2022-03-08-深港边境临时搭桥-内地援建香港河套应急医院](https://m.caixin.com/m/2022-03-08/101852776.html) ![](assets/new.png)  
 - [2022-03-08-【境内疫情观察】全国现有确诊病例超4000例（3月7日）](https://database.caixin.com/m/2022-03-08/101852579.html) ![](assets/new.png)  
 - [2022-03-08-研究发现新冠重症患者特殊基因-全球死亡病例超600万｜大流行手记（3月7日）](https://m.caixin.com/m/2022-03-08/101852426.html) ![](assets/new.png)  
-- [2022-03-07-上海一周增新冠感染者179例-徐汇部分街道启动全员筛查](https://m.caixin.com/m/2022-03-07/101852250.html) ![](assets/new.png)  
 - [2022-03-07-广东惠州基层防疫扑杀宠物狗-街道致歉涉事者停职](https://m.caixin.com/m/2022-03-07/101851565.html) ![](assets/new.png)  
 - [2022-03-07-【境内疫情观察】全国新增214例本土病例（3月6日）](https://database.caixin.com/m/2022-03-07/101851858.html) ![](assets/new.png)  
 - [2022-03-07-苏格兰为弱势群体打第四针-印度尼西亚再放宽旅行限制｜大流行手记（3月6日）](https://m.caixin.com/m/2022-03-07/101851699.html) ![](assets/new.png)  
@@ -85,6 +84,7 @@
 - [2022-03-06-【境内疫情观察】山东新增88例本土病例（3月5日）](https://database.caixin.com/m/2022-03-06/101851487.html) ![](assets/new.png)  
 - [2022-03-06-车队抗议涌向华盛顿-英国面临手术挤压压力｜大流行手记（3月5日）](https://m.caixin.com/m/2022-03-06/101851444.html) ![](assets/new.png)  
 - [2022-03-05-深圳本轮疫情感染者增至256例-官方辟谣多起“偷渡”传言](https://m.caixin.com/m/2022-03-05/101851328.html) ![](assets/new.png)  
+- [2022-03-05-山东青岛莱西市新增44例确诊-均为集中隔离人员](https://m.caixin.com/m/2022-03-05/101851408.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-03-08-苹果新显示器-Apple-Studio-Display](https://www.v2ex.com/t/838999) ![](assets/new.png)  
+- [2022-03-08-苹果新出的-studio-display-搭载了-a13，性能约等于骁龙-8gen-1](https://www.v2ex.com/t/838998) ![](assets/new.png)  
 - [2022-03-08-M1-Ultra-跑分](https://www.v2ex.com/t/838997) ![](assets/new.png)  
 - [2022-03-08-原来两个-M1-Max-可以拼在一起……](https://www.v2ex.com/t/838996) ![](assets/new.png)  
 - [2022-03-08-Time-Machine-无法完成恢复，提示没有足够的空间](https://www.v2ex.com/t/838995) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-03-08-有没有公司打算购买-量子计算-解决方案?](https://www.v2ex.com/t/838981) ![](assets/new.png)  
 - [2022-03-08-大数据量下数据判重，有什么好的方法？](https://www.v2ex.com/t/838980) ![](assets/new.png)  
 - [2022-03-08-明年毕业的三本生-投暑期实习有机会吗？](https://www.v2ex.com/t/838979) ![](assets/new.png)  
-- [2022-03-08-office-A1-管理账号被封，请教有解决的办法吗](https://www.v2ex.com/t/838978) ![](assets/new.png)  
-- [2022-03-08-Python-连接别人的数据库开发-restful-接口使用什么-web-框架合适啊？](https://www.v2ex.com/t/838977) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -571,8 +571,8 @@
 - [2022-03-08-开源：如何自定义spring-boot-starter](https://toutiao.io/k/wwseuek) ![](assets/new.png)  
 - [2022-03-08-「前端CI/CD系列」第二篇：如何用建木CI更新七牛云CDN证书](https://toutiao.io/k/2z83xu1) ![](assets/new.png)  
 - [2022-03-08-图解算法基础--快速排序，附-Go-代码实现](https://toutiao.io/k/hhsjbir) ![](assets/new.png)  
-- [2022-03-08-推荐-SpringBoot性能优化大全，贼好使！](https://toutiao.io/k/75br1se) ![](assets/new.png)  
-- [2022-03-08-推荐-MySQL-团队开发规范](https://toutiao.io/k/qjooigy) ![](assets/new.png)  
+- [2022-03-08-推荐-高并发是一种架构思维模式](https://toutiao.io/k/imslmgz) ![](assets/new.png)  
+- [2022-03-08-推荐-Java泛型详解，史上最全图文详解！](https://toutiao.io/k/chtkqxo) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

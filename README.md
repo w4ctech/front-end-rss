@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-03-08 15:42:01，:rocket: 更新条数: +2022， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-03-08 16:18:22，:rocket: 更新条数: +2022， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-03-08-字符串映射成数字，有什么好的算法嘛](https://www.v2ex.com/t/838982) ![](assets/new.png)  
+- [2022-03-08-有没有公司打算购买-量子计算-解决方案?](https://www.v2ex.com/t/838981) ![](assets/new.png)  
 - [2022-03-08-大数据量下数据判重，有什么好的方法？](https://www.v2ex.com/t/838980) ![](assets/new.png)  
 - [2022-03-08-明年毕业的三本生-投暑期实习有机会吗？](https://www.v2ex.com/t/838979) ![](assets/new.png)  
 - [2022-03-08-office-A1-管理账号被封，请教有解决的办法吗](https://www.v2ex.com/t/838978) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-03-08-求职-7-年-Java-、期间做过-uniapp（IOS+安卓）、会-vue、希望求个工作-or-私活-都可以~](https://www.v2ex.com/t/838962) ![](assets/new.png)  
 - [2022-03-08-2022.03.08-今天-iCloud-Drive-上传又卡死不动了](https://www.v2ex.com/t/838959) ![](assets/new.png)  
 - [2022-03-08-alibaba-cn-pvg-00001.oss-cn-shanghai.aliyuncs.com-是什么](https://www.v2ex.com/t/838958) ![](assets/new.png)  
-- [2022-03-08-TaPL-这本书有相关的在线课程吗](https://www.v2ex.com/t/838957) ![](assets/new.png)  
-- [2022-03-08-2022-年，-0-基础想做-Android-应用开发者是否可以从-Kotlin-直接学起？](https://www.v2ex.com/t/838956) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -571,8 +571,8 @@
 - [2022-03-08-开源：如何自定义spring-boot-starter](https://toutiao.io/k/wwseuek) ![](assets/new.png)  
 - [2022-03-08-「前端CI/CD系列」第二篇：如何用建木CI更新七牛云CDN证书](https://toutiao.io/k/2z83xu1) ![](assets/new.png)  
 - [2022-03-08-图解算法基础--快速排序，附-Go-代码实现](https://toutiao.io/k/hhsjbir) ![](assets/new.png)  
-- [2022-03-08-推荐-高并发是一种架构思维模式](https://toutiao.io/k/imslmgz) ![](assets/new.png)  
-- [2022-03-08-推荐-MySQL-团队开发规范](https://toutiao.io/k/qjooigy) ![](assets/new.png)  
+- [2022-03-08-推荐-SpringBoot性能优化大全，贼好使！](https://toutiao.io/k/75br1se) ![](assets/new.png)  
+- [2022-03-08-推荐-2万字，详解数据湖，概念、特征、架构、方案、场景以及建湖全过程（建议收藏）](https://toutiao.io/k/vcpzf1w) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

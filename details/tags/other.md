@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-03-08 13:20:53。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-03-08 13:39:30。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1906,6 +1906,9 @@
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2022-02-04-HTML-inputmode与iOS-Android软键盘类型测试](https://www.zhangxinxu.com/wordpress/2022/02/html-inputmode-keyboard/) 
+- [2022-03-08-alibaba-cn-pvg-00001.oss-cn-shanghai.aliyuncs.com-是什么](https://www.v2ex.com/t/838958) 
+- [2022-03-08-TaPL-这本书有相关的在线课程吗](https://www.v2ex.com/t/838957) 
+- [2022-03-08-2022-年，-0-基础想做-Android-应用开发者是否可以从-Kotlin-直接学起？](https://www.v2ex.com/t/838956) 
 - [2022-03-08-兑换码分享-「ULPB-试试双拼」--iOS-平台首个双拼练习软件](https://www.v2ex.com/t/838953) 
 - [2022-03-08-有没有一款类似-Wise-System-Monitor-但是可以自动上传系统状态信息到云端服务器的系统监控软件](https://www.v2ex.com/t/838951) 
 - [2022-03-08-最近树莓派价格炒的离谱](https://www.v2ex.com/t/838950) 
@@ -1932,9 +1935,6 @@
 - [2022-03-08-神经衰弱，楼上熬夜小伙天天到-2-点怎么办](https://www.v2ex.com/t/838912) 
 - [2022-03-08-深圳高级前端职位](https://www.v2ex.com/t/838911) 
 - [2022-03-08-tx-轻量-2c4g-的可以免费升级-4c-了](https://www.v2ex.com/t/838909) 
-- [2022-03-08-腾讯云轻量虎年升配及不限新老优惠](https://www.v2ex.com/t/838908) 
-- [2022-03-08-今天提出离职了](https://www.v2ex.com/t/838907) 
-- [2022-03-08-想问一个前端侧边菜单导航的问题](https://www.v2ex.com/t/838906) 
 - [2022-03-08-wallys/DR6018-S/Support-OpenWRT-IPQ6010-802.11ax-2x2-2.4G&5G-www.wallystech.com](https://blogread.cn/news/go.php?idItem=14974&url=https%3A%2F%2Fwww.wallystech.com%2FRouterboard%2FDR6018-S-V02-wifi6-Qualcomm-IPQ6010-2T2R-2-GE-port-supporting-QCN9074-wifi-card-802.11AX-MU-MIMO-OFDMA.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-03-08-wallys/DR6018/Support-OpenWRT-IPQ6010-802.11ax-2x2-2.4G&5G-2.5Gbps-Ethernet-Port-www.wallystech.com](https://blogread.cn/news/go.php?idItem=14973&url=https%3A%2F%2Fwww.wallystech.com%2FRouterboard%2FDR6018V4-wifi6-Qualcomm-IPQ6010-IPQ6018-FAMILY-2T2R-2.5G-ETH-port-supporting-5G-celluar-Modem-802-11AX-MU-MIMO-OFDMA.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-03-08-wallys/DR-AP4029-M/Enclosure-Metal-Outdoor-Outdoor-Metal-Waterproof-www.wallystech.com](https://blogread.cn/news/go.php?idItem=14972&url=https%3A%2F%2Fwww.wallystech.com%2FIndustrial_Wireless_AP%2FDR-AP4029-M-WiFi-5-outdoor-Access-point-IPQ-4019-4029-DUAL-BAND-802.11AC-WAVE2-MU-MIMO.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1960,9 +1960,9 @@
 - [2022-03-08-实施5000能提高软件质量吗？](https://toutiao.io/k/6pltecc) 
 - [2022-03-08-开源：如何自定义spring-boot-starter](https://toutiao.io/k/wwseuek) 
 - [2022-03-08-「前端CI/CD系列」第二篇：如何用建木CI更新七牛云CDN证书](https://toutiao.io/k/2z83xu1) 
-- [2022-03-08-推荐-高并发是一种架构思维模式](https://toutiao.io/k/imslmgz) 
 - [2022-03-08-推荐-2万字，详解数据湖，概念、特征、架构、方案、场景以及建湖全过程（建议收藏）](https://toutiao.io/k/vcpzf1w) 
-- [2022-03-08-推荐-微服务从代码到k8s部署应有尽有大结局（k8s部署）](https://toutiao.io/k/xk3qbvm) 
 - [2022-03-08-推荐-MySQL-团队开发规范](https://toutiao.io/k/qjooigy) 
-- [2022-03-08-推荐-Golang-简洁架构实战](https://toutiao.io/k/vjw1dlc) 
+- [2022-03-08-推荐-微服务从代码到k8s部署应有尽有大结局（k8s部署）](https://toutiao.io/k/xk3qbvm) 
+- [2022-03-08-推荐-高并发是一种架构思维模式](https://toutiao.io/k/imslmgz) 
 - [2022-03-08-推荐-Java泛型详解，史上最全图文详解！](https://toutiao.io/k/chtkqxo) 
+- [2022-03-08-推荐-Golang-简洁架构实战](https://toutiao.io/k/vjw1dlc) 

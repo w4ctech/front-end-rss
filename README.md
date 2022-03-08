@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-03-08 10:14:44，:rocket: 更新条数: +2022， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-03-08 10:40:36，:rocket: 更新条数: +2021， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-03-08-有没有什么奇淫技巧防止-Linux-程序多开？](https://www.v2ex.com/t/838924) ![](assets/new.png)  
+- [2022-03-08-刚刚发现-CleanMyMac-X-图标上有乌克兰🇺🇦-国旗](https://www.v2ex.com/t/838922) ![](assets/new.png)  
 - [2022-03-08-麻烦各位同学帮忙看一下-RocketMQ-问题，先磕头感谢](https://www.v2ex.com/t/838920) ![](assets/new.png)  
 - [2022-03-08-iPhone-13-Pro-插双卡可以禁用其中一张卡吗](https://www.v2ex.com/t/838919) ![](assets/new.png)  
 - [2022-03-08-询问杭州租房](https://www.v2ex.com/t/838918) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-03-08-14-年了，我总结了一下过往的工作经历](https://www.v2ex.com/t/838902) ![](assets/new.png)  
 - [2022-03-08-电信换了个光猫，网口发的包会带-tag？？](https://www.v2ex.com/t/838901) ![](assets/new.png)  
 - [2022-03-08-Mac-备忘录带不带改动提示？](https://www.v2ex.com/t/838900) ![](assets/new.png)  
-- [2022-03-08-不经意间了解到-MIUI-欧版，是真香还是鸡肋？](https://www.v2ex.com/t/838899) ![](assets/new.png)  
-- [2022-03-08-深圳大数据-Leader-职位](https://www.v2ex.com/t/838898) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -564,15 +564,15 @@
 - [2022-03-08-浅谈-Node.js-热更新](https://toutiao.io/k/i82qqok) ![](assets/new.png)  
 - [2022-03-08-Flink-CDC-核心：Debezium-1.9.0.Beta1-发布！](https://toutiao.io/k/c8j9oo2) ![](assets/new.png)  
 - [2022-03-08-手撸一个智能指针](https://toutiao.io/k/akfto1w) ![](assets/new.png)  
-- [2022-03-08-惨，给Go提的代码被批麻了](https://toutiao.io/k/jck618p) ![](assets/new.png)  
 - [2022-03-08-深入剖析优惠券核心架构设计](https://toutiao.io/k/qj0g7q6) ![](assets/new.png)  
-- [2022-03-08-实施5000能提高软件质量吗？](https://toutiao.io/k/6pltecc) ![](assets/new.png)  
+- [2022-03-08-惨，给Go提的代码被批麻了](https://toutiao.io/k/jck618p) ![](assets/new.png)  
 - [2022-03-08-震惊，博主终于更新了坦克大战小游戏！！！](https://toutiao.io/k/5b6lzfv) ![](assets/new.png)  
+- [2022-03-08-实施5000能提高软件质量吗？](https://toutiao.io/k/6pltecc) ![](assets/new.png)  
 - [2022-03-08-开源：如何自定义spring-boot-starter](https://toutiao.io/k/wwseuek) ![](assets/new.png)  
 - [2022-03-08-「前端CI/CD系列」第二篇：如何用建木CI更新七牛云CDN证书](https://toutiao.io/k/2z83xu1) ![](assets/new.png)  
 - [2022-03-08-图解算法基础--快速排序，附-Go-代码实现](https://toutiao.io/k/hhsjbir) ![](assets/new.png)  
-- [2022-03-08-推荐-MySQL-团队开发规范](https://toutiao.io/k/qjooigy) ![](assets/new.png)  
-- [2022-03-08-推荐-2万字，详解数据湖，概念、特征、架构、方案、场景以及建湖全过程（建议收藏）](https://toutiao.io/k/vcpzf1w) ![](assets/new.png)  
+- [2022-03-08-推荐-SpringBoot性能优化大全，贼好使！](https://toutiao.io/k/75br1se) ![](assets/new.png)  
+- [2022-03-08-推荐-Golang-简洁架构实战](https://toutiao.io/k/vjw1dlc) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

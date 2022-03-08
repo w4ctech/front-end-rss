@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-03-08 09:12:55，:rocket: 更新条数: +2020， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-03-08 09:38:26，:rocket: 更新条数: +2020， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -65,13 +65,13 @@
 </summary>
 
 
-- [2022-03-08-3月7日全国新增新冠325例-16省份本土175例](https://m.caixin.com/m/2022-03-08/101852356.html) ![](assets/new.png)  
+- [2022-03-08-最新疫情：全国新冠累计确诊111520例-累计接种新冠疫苗超31.65亿剂次](https://m.caixin.com/m/2022-03-08/101852706.html) ![](assets/new.png)  
 - [2022-03-08-北京新增7例本土新冠确诊病例-详情公布](https://m.caixin.com/m/2022-03-08/101852668.html) ![](assets/new.png)  
 - [2022-03-08-北京新增新冠病例涉字节跳动办公区-员工就地隔离过夜](https://m.caixin.com/m/2022-03-08/101852591.html) ![](assets/new.png)  
+- [2022-03-08-最新海外疫情：新冠感染超4.46亿-累计接种新冠疫苗超107.87亿剂次](https://m.caixin.com/m/2022-03-08/101852715.html) ![](assets/new.png)  
 - [2022-03-08-【境内疫情观察】全国现有确诊病例超4000例（3月7日）](https://database.caixin.com/m/2022-03-08/101852579.html) ![](assets/new.png)  
 - [2022-03-08-研究发现新冠重症患者特殊基因-全球死亡病例超600万｜大流行手记（3月7日）](https://m.caixin.com/m/2022-03-08/101852426.html) ![](assets/new.png)  
 - [2022-03-07-上海一周增新冠感染者179例-徐汇部分街道启动全员筛查](https://m.caixin.com/m/2022-03-07/101852250.html) ![](assets/new.png)  
-- [2022-03-07-最新海外疫情：新冠感染超4.45亿-累计接种新冠疫苗超107.62亿剂次](https://m.caixin.com/m/2022-03-07/101852154.html) ![](assets/new.png)  
 - [2022-03-07-广东惠州基层防疫扑杀宠物狗-街道致歉涉事者停职](https://m.caixin.com/m/2022-03-07/101851565.html) ![](assets/new.png)  
 - [2022-03-07-【境内疫情观察】全国新增214例本土病例（3月6日）](https://database.caixin.com/m/2022-03-07/101851858.html) ![](assets/new.png)  
 - [2022-03-07-苏格兰为弱势群体打第四针-印度尼西亚再放宽旅行限制｜大流行手记（3月6日）](https://m.caixin.com/m/2022-03-07/101851699.html) ![](assets/new.png)  
@@ -491,6 +491,10 @@
 </summary>
 
 
+- [2022-03-08-今天提出离职了](https://www.v2ex.com/t/838907) ![](assets/new.png)  
+- [2022-03-08-想问一个前端侧边菜单导航的问题](https://www.v2ex.com/t/838906) ![](assets/new.png)  
+- [2022-03-08-有人接私活吗,小需求==](https://www.v2ex.com/t/838904) ![](assets/new.png)  
+- [2022-03-08-全职远程-20k-35k/web-前端开发/SaaS/上海](https://www.v2ex.com/t/838903) ![](assets/new.png)  
 - [2022-03-08-14-年了，我总结了一下过往的工作经历](https://www.v2ex.com/t/838902) ![](assets/new.png)  
 - [2022-03-08-电信换了个光猫，网口发的包会带-tag？？](https://www.v2ex.com/t/838901) ![](assets/new.png)  
 - [2022-03-08-Mac-备忘录带不带改动提示？](https://www.v2ex.com/t/838900) ![](assets/new.png)  
@@ -507,10 +511,6 @@
 - [2022-03-08-明天凌晨会出-AirPods-pro-吗？](https://www.v2ex.com/t/838886) ![](assets/new.png)  
 - [2022-03-08-人在欧洲，如何玩限制国内-ip-的游戏更流畅？](https://www.v2ex.com/t/838885) ![](assets/new.png)  
 - [2022-03-08-apple-触控板蓝牙老是断联？](https://www.v2ex.com/t/838884) ![](assets/new.png)  
-- [2022-03-08-上海-明星开源-Infra-厂商-Kong-Inc.-进入中国！期待您的加入](https://www.v2ex.com/t/838883) ![](assets/new.png)  
-- [2022-03-08-我真的好喜欢-iPhone-13-mini](https://www.v2ex.com/t/838881) ![](assets/new.png)  
-- [2022-03-08-UltimateShell-开源-ssh/sftp/telnet/rdp/vnc-工具箱](https://www.v2ex.com/t/838880) ![](assets/new.png)  
-- [2022-03-08-精彩逆向文章倾囊相授](https://www.v2ex.com/t/838879) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -568,11 +568,11 @@
 - [2022-03-08-惨，给Go提的代码被批麻了](https://toutiao.io/k/jck618p) ![](assets/new.png)  
 - [2022-03-08-深入剖析优惠券核心架构设计](https://toutiao.io/k/qj0g7q6) ![](assets/new.png)  
 - [2022-03-08-震惊，博主终于更新了坦克大战小游戏！！！](https://toutiao.io/k/5b6lzfv) ![](assets/new.png)  
-- [2022-03-08-「前端CI/CD系列」第二篇：如何用建木CI更新七牛云CDN证书](https://toutiao.io/k/2z83xu1) ![](assets/new.png)  
 - [2022-03-08-开源：如何自定义spring-boot-starter](https://toutiao.io/k/wwseuek) ![](assets/new.png)  
+- [2022-03-08-「前端CI/CD系列」第二篇：如何用建木CI更新七牛云CDN证书](https://toutiao.io/k/2z83xu1) ![](assets/new.png)  
 - [2022-03-08-图解算法基础--快速排序，附-Go-代码实现](https://toutiao.io/k/hhsjbir) ![](assets/new.png)  
+- [2022-03-08-推荐-Golang-简洁架构实战](https://toutiao.io/k/vjw1dlc) ![](assets/new.png)  
 - [2022-03-08-推荐-微服务从代码到k8s部署应有尽有大结局（k8s部署）](https://toutiao.io/k/xk3qbvm) ![](assets/new.png)  
-- [2022-03-08-推荐-SpringBoot性能优化大全，贼好使！](https://toutiao.io/k/75br1se) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-03-08 08:42:13，:rocket: 更新条数: +2019， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-03-08 09:12:55，:rocket: 更新条数: +2020， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -66,15 +66,16 @@
 
 
 - [2022-03-08-3月7日全国新增新冠325例-16省份本土175例](https://m.caixin.com/m/2022-03-08/101852356.html) ![](assets/new.png)  
+- [2022-03-08-北京新增7例本土新冠确诊病例-详情公布](https://m.caixin.com/m/2022-03-08/101852668.html) ![](assets/new.png)  
 - [2022-03-08-北京新增新冠病例涉字节跳动办公区-员工就地隔离过夜](https://m.caixin.com/m/2022-03-08/101852591.html) ![](assets/new.png)  
 - [2022-03-08-【境内疫情观察】全国现有确诊病例超4000例（3月7日）](https://database.caixin.com/m/2022-03-08/101852579.html) ![](assets/new.png)  
 - [2022-03-08-研究发现新冠重症患者特殊基因-全球死亡病例超600万｜大流行手记（3月7日）](https://m.caixin.com/m/2022-03-08/101852426.html) ![](assets/new.png)  
 - [2022-03-07-上海一周增新冠感染者179例-徐汇部分街道启动全员筛查](https://m.caixin.com/m/2022-03-07/101852250.html) ![](assets/new.png)  
-- [2022-03-07-张文宏：严守新一轮疫情规模性反弹底线，探索更智慧动态清零模式](https://opinion.caixin.com/m/2022-03-07/101852141.html) ![](assets/new.png)  
 - [2022-03-07-最新海外疫情：新冠感染超4.45亿-累计接种新冠疫苗超107.62亿剂次](https://m.caixin.com/m/2022-03-07/101852154.html) ![](assets/new.png)  
 - [2022-03-07-广东惠州基层防疫扑杀宠物狗-街道致歉涉事者停职](https://m.caixin.com/m/2022-03-07/101851565.html) ![](assets/new.png)  
 - [2022-03-07-【境内疫情观察】全国新增214例本土病例（3月6日）](https://database.caixin.com/m/2022-03-07/101851858.html) ![](assets/new.png)  
 - [2022-03-07-苏格兰为弱势群体打第四针-印度尼西亚再放宽旅行限制｜大流行手记（3月6日）](https://m.caixin.com/m/2022-03-07/101851699.html) ![](assets/new.png)  
+- [2022-03-07-张文宏：严守新一轮疫情规模性反弹底线，探索更智慧动态清零模式](https://opinion.caixin.com/m/2022-03-07/101852141.html) ![](assets/new.png)  
 - [2022-03-07-中国医药称正与辉瑞洽谈新冠口服药入华合作-最终结果未定](https://m.caixin.com/m/2022-03-07/101852269.html) ![](assets/new.png)  
 - [2022-03-07-【图集】上海一周增新冠感染者136例-徐汇部分街道连夜检测](https://photos.caixin.com/m/2022-03-07/101851932.html) ![](assets/new.png)  
 - [2022-03-06-上海在院新冠病例数创新高-已增调医护人员储备医疗资源](https://m.caixin.com/m/2022-03-06/101851549.html) ![](assets/new.png)  
@@ -84,7 +85,6 @@
 - [2022-03-05-深圳本轮疫情感染者增至256例-官方辟谣多起“偷渡”传言](https://m.caixin.com/m/2022-03-05/101851328.html) ![](assets/new.png)  
 - [2022-03-05-山东青岛莱西市新增44例确诊-均为集中隔离人员](https://m.caixin.com/m/2022-03-05/101851408.html) ![](assets/new.png)  
 - [2022-03-05-【境内疫情观察】全国15省新增102例本土病例（3月4日）](https://database.caixin.com/m/2022-03-05/101851302.html) ![](assets/new.png)  
-- [2022-03-05-丹麦研究称1/3感染者出现“长新冠”，比利时大幅取消疫情限制｜大流行手记（3月4日）](https://m.caixin.com/m/2022-03-05/101851182.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -491,6 +491,14 @@
 </summary>
 
 
+- [2022-03-08-14-年了，我总结了一下过往的工作经历](https://www.v2ex.com/t/838902) ![](assets/new.png)  
+- [2022-03-08-电信换了个光猫，网口发的包会带-tag？？](https://www.v2ex.com/t/838901) ![](assets/new.png)  
+- [2022-03-08-Mac-备忘录带不带改动提示？](https://www.v2ex.com/t/838900) ![](assets/new.png)  
+- [2022-03-08-不经意间了解到-MIUI-欧版，是真香还是鸡肋？](https://www.v2ex.com/t/838899) ![](assets/new.png)  
+- [2022-03-08-深圳大数据-Leader-职位](https://www.v2ex.com/t/838898) ![](assets/new.png)  
+- [2022-03-08-远程-DeBank/Rabby-招聘-Web3-产品设计师/工程师/算法/SRE-40K-80K](https://www.v2ex.com/t/838896) ![](assets/new.png)  
+- [2022-03-08-远程Web3SolidityNFT-国际化元宇宙/数字收藏类初创项目，前端/后端/全栈/智能合约/游戏开发/自荐职位（030822-更新岗位信息）](https://www.v2ex.com/t/838895) ![](assets/new.png)  
+- [2022-03-08-蚂蚁集团招聘实习生啦！](https://www.v2ex.com/t/838894) ![](assets/new.png)  
 - [2022-03-08-光猫已桥接，有两个电信宽带账号，是否可以多拨？](https://www.v2ex.com/t/838893) ![](assets/new.png)  
 - [2022-03-08-有关大数据-Cloudera-公司推出的-CCA131-大数据考试的含金量](https://www.v2ex.com/t/838891) ![](assets/new.png)  
 - [2022-03-08-毕业第一次租房就踩坑。。。](https://www.v2ex.com/t/838890) ![](assets/new.png)  
@@ -503,14 +511,6 @@
 - [2022-03-08-我真的好喜欢-iPhone-13-mini](https://www.v2ex.com/t/838881) ![](assets/new.png)  
 - [2022-03-08-UltimateShell-开源-ssh/sftp/telnet/rdp/vnc-工具箱](https://www.v2ex.com/t/838880) ![](assets/new.png)  
 - [2022-03-08-精彩逆向文章倾囊相授](https://www.v2ex.com/t/838879) ![](assets/new.png)  
-- [2022-03-08-4-核-8G-想搭个虚拟机平台，除了-zstack-还有啥合适的吗](https://www.v2ex.com/t/838878) ![](assets/new.png)  
-- [2022-03-08-有没有品质优良的摸鱼群？](https://www.v2ex.com/t/838875) ![](assets/new.png)  
-- [2022-03-08-如果让你直播带货-，你觉得什么东西可以？](https://www.v2ex.com/t/838874) ![](assets/new.png)  
-- [2022-03-08-抖音业务架构资深研发工程师](https://www.v2ex.com/t/838873) ![](assets/new.png)  
-- [2022-03-08-Linux-的/usr/bin-或者/usr/local-没有权限，如何安装软件](https://www.v2ex.com/t/838872) ![](assets/new.png)  
-- [2022-03-08-网易-2023-届网易互联网精英实习生招聘内推，社招全岗位日常内推](https://www.v2ex.com/t/838871) ![](assets/new.png)  
-- [2022-03-08-navicat-永久授权中文版-30%-off，官网-20%-off](https://www.v2ex.com/t/838870) ![](assets/new.png)  
-- [2022-03-08-现在买房感觉只能找中介了](https://www.v2ex.com/t/838867) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -568,11 +568,11 @@
 - [2022-03-08-惨，给Go提的代码被批麻了](https://toutiao.io/k/jck618p) ![](assets/new.png)  
 - [2022-03-08-深入剖析优惠券核心架构设计](https://toutiao.io/k/qj0g7q6) ![](assets/new.png)  
 - [2022-03-08-震惊，博主终于更新了坦克大战小游戏！！！](https://toutiao.io/k/5b6lzfv) ![](assets/new.png)  
-- [2022-03-08-开源：如何自定义spring-boot-starter](https://toutiao.io/k/wwseuek) ![](assets/new.png)  
 - [2022-03-08-「前端CI/CD系列」第二篇：如何用建木CI更新七牛云CDN证书](https://toutiao.io/k/2z83xu1) ![](assets/new.png)  
+- [2022-03-08-开源：如何自定义spring-boot-starter](https://toutiao.io/k/wwseuek) ![](assets/new.png)  
 - [2022-03-08-图解算法基础--快速排序，附-Go-代码实现](https://toutiao.io/k/hhsjbir) ![](assets/new.png)  
-- [2022-03-08-推荐-高并发是一种架构思维模式](https://toutiao.io/k/imslmgz) ![](assets/new.png)  
 - [2022-03-08-推荐-微服务从代码到k8s部署应有尽有大结局（k8s部署）](https://toutiao.io/k/xk3qbvm) ![](assets/new.png)  
+- [2022-03-08-推荐-SpringBoot性能优化大全，贼好使！](https://toutiao.io/k/75br1se) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

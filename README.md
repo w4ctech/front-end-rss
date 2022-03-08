@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-03-08 15:13:24，:rocket: 更新条数: +2022， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-03-08 15:42:01，:rocket: 更新条数: +2022， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-03-08-大数据量下数据判重，有什么好的方法？](https://www.v2ex.com/t/838980) ![](assets/new.png)  
 - [2022-03-08-明年毕业的三本生-投暑期实习有机会吗？](https://www.v2ex.com/t/838979) ![](assets/new.png)  
 - [2022-03-08-office-A1-管理账号被封，请教有解决的办法吗](https://www.v2ex.com/t/838978) ![](assets/new.png)  
 - [2022-03-08-Python-连接别人的数据库开发-restful-接口使用什么-web-框架合适啊？](https://www.v2ex.com/t/838977) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-03-08-alibaba-cn-pvg-00001.oss-cn-shanghai.aliyuncs.com-是什么](https://www.v2ex.com/t/838958) ![](assets/new.png)  
 - [2022-03-08-TaPL-这本书有相关的在线课程吗](https://www.v2ex.com/t/838957) ![](assets/new.png)  
 - [2022-03-08-2022-年，-0-基础想做-Android-应用开发者是否可以从-Kotlin-直接学起？](https://www.v2ex.com/t/838956) ![](assets/new.png)  
-- [2022-03-08-请教一个使用-RestTemplete-调用服务周期性卡顿的问题](https://www.v2ex.com/t/838954) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -564,15 +564,15 @@
 - [2022-03-08-游戏黑灰产识别和溯源取证](https://toutiao.io/k/ivkhjaa) ![](assets/new.png)  
 - [2022-03-08-浅谈-Node.js-热更新](https://toutiao.io/k/i82qqok) ![](assets/new.png)  
 - [2022-03-08-手撸一个智能指针](https://toutiao.io/k/akfto1w) ![](assets/new.png)  
-- [2022-03-08-惨，给Go提的代码被批麻了](https://toutiao.io/k/jck618p) ![](assets/new.png)  
 - [2022-03-08-震惊，博主终于更新了坦克大战小游戏！！！](https://toutiao.io/k/5b6lzfv) ![](assets/new.png)  
+- [2022-03-08-惨，给Go提的代码被批麻了](https://toutiao.io/k/jck618p) ![](assets/new.png)  
 - [2022-03-08-Flink-CDC-核心：Debezium-1.9.0.Beta1-发布！](https://toutiao.io/k/c8j9oo2) ![](assets/new.png)  
 - [2022-03-08-实施5000能提高软件质量吗？](https://toutiao.io/k/6pltecc) ![](assets/new.png)  
 - [2022-03-08-开源：如何自定义spring-boot-starter](https://toutiao.io/k/wwseuek) ![](assets/new.png)  
 - [2022-03-08-「前端CI/CD系列」第二篇：如何用建木CI更新七牛云CDN证书](https://toutiao.io/k/2z83xu1) ![](assets/new.png)  
 - [2022-03-08-图解算法基础--快速排序，附-Go-代码实现](https://toutiao.io/k/hhsjbir) ![](assets/new.png)  
-- [2022-03-08-推荐-Java泛型详解，史上最全图文详解！](https://toutiao.io/k/chtkqxo) ![](assets/new.png)  
-- [2022-03-08-推荐-2万字，详解数据湖，概念、特征、架构、方案、场景以及建湖全过程（建议收藏）](https://toutiao.io/k/vcpzf1w) ![](assets/new.png)  
+- [2022-03-08-推荐-高并发是一种架构思维模式](https://toutiao.io/k/imslmgz) ![](assets/new.png)  
+- [2022-03-08-推荐-MySQL-团队开发规范](https://toutiao.io/k/qjooigy) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

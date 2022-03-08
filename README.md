@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-03-08 13:39:30，:rocket: 更新条数: +2023， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-03-08 14:13:50，:rocket: 更新条数: +2022， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,9 @@
 </summary>
 
 
+- [2022-03-08-《超时空亚当计划》（The-Adam-Project）2022-年-3-月](https://www.v2ex.com/t/838963) ![](assets/new.png)  
+- [2022-03-08-求职-7-年-Java-、期间做过-uniapp（IOS+安卓）、会-vue、希望求个工作-or-私活-都可以~](https://www.v2ex.com/t/838962) ![](assets/new.png)  
+- [2022-03-08-2022.03.08-今天-iCloud-Drive-上传又卡死不动了](https://www.v2ex.com/t/838959) ![](assets/new.png)  
 - [2022-03-08-alibaba-cn-pvg-00001.oss-cn-shanghai.aliyuncs.com-是什么](https://www.v2ex.com/t/838958) ![](assets/new.png)  
 - [2022-03-08-TaPL-这本书有相关的在线课程吗](https://www.v2ex.com/t/838957) ![](assets/new.png)  
 - [2022-03-08-2022-年，-0-基础想做-Android-应用开发者是否可以从-Kotlin-直接学起？](https://www.v2ex.com/t/838956) ![](assets/new.png)  
@@ -508,9 +511,6 @@
 - [2022-03-08-罗技-G-hub-怎么模拟键盘按下+鼠标点击，实现-IDEA-里-ctrl/command-+-左键点击的效果](https://www.v2ex.com/t/838941) ![](assets/new.png)  
 - [2022-03-08-关于云笔记，我折腾了几个星期，经历分享](https://www.v2ex.com/t/838940) ![](assets/new.png)  
 - [2022-03-08-lead-lag-regression-对应中文的专业名词是什么？](https://www.v2ex.com/t/838938) ![](assets/new.png)  
-- [2022-03-08-折腾了下-ponstick-替换光猫的玩法教程，单拨可以破千兆](https://www.v2ex.com/t/838936) ![](assets/new.png)  
-- [2022-03-08-正弦信号能于深度学习吗](https://www.v2ex.com/t/838935) ![](assets/new.png)  
-- [2022-03-08-求游戏推荐](https://www.v2ex.com/t/838934) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -571,8 +571,8 @@
 - [2022-03-08-开源：如何自定义spring-boot-starter](https://toutiao.io/k/wwseuek) ![](assets/new.png)  
 - [2022-03-08-「前端CI/CD系列」第二篇：如何用建木CI更新七牛云CDN证书](https://toutiao.io/k/2z83xu1) ![](assets/new.png)  
 - [2022-03-08-图解算法基础--快速排序，附-Go-代码实现](https://toutiao.io/k/hhsjbir) ![](assets/new.png)  
+- [2022-03-08-推荐-Golang-简洁架构实战](https://toutiao.io/k/vjw1dlc) ![](assets/new.png)  
 - [2022-03-08-推荐-2万字，详解数据湖，概念、特征、架构、方案、场景以及建湖全过程（建议收藏）](https://toutiao.io/k/vcpzf1w) ![](assets/new.png)  
-- [2022-03-08-推荐-MySQL-团队开发规范](https://toutiao.io/k/qjooigy) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

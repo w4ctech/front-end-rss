@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-03-08 07:14:00，:rocket: 更新条数: +2015， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-03-08 07:37:05，:rocket: 更新条数: +2017， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -66,6 +66,8 @@
 
 
 - [2022-03-08-3月7日全国新增新冠325例-16省份本土175例](https://m.caixin.com/m/2022-03-08/101852356.html) ![](assets/new.png)  
+- [2022-03-08-北京新增新冠病例涉字节跳动办公区-员工就地隔离过夜](https://m.caixin.com/m/2022-03-08/101852591.html) ![](assets/new.png)  
+- [2022-03-08-【境内疫情观察】全国现有确诊病例超4000例（3月7日）](https://database.caixin.com/m/2022-03-08/101852579.html) ![](assets/new.png)  
 - [2022-03-08-研究发现新冠重症患者特殊基因-全球死亡病例超600万｜大流行手记（3月7日）](https://m.caixin.com/m/2022-03-08/101852426.html) ![](assets/new.png)  
 - [2022-03-07-上海一周增新冠感染者179例-徐汇部分街道启动全员筛查](https://m.caixin.com/m/2022-03-07/101852250.html) ![](assets/new.png)  
 - [2022-03-07-张文宏：严守新一轮疫情规模性反弹底线，探索更智慧动态清零模式](https://opinion.caixin.com/m/2022-03-07/101852141.html) ![](assets/new.png)  
@@ -83,8 +85,6 @@
 - [2022-03-05-山东青岛莱西市新增44例确诊-均为集中隔离人员](https://m.caixin.com/m/2022-03-05/101851408.html) ![](assets/new.png)  
 - [2022-03-05-【境内疫情观察】全国15省新增102例本土病例（3月4日）](https://database.caixin.com/m/2022-03-05/101851302.html) ![](assets/new.png)  
 - [2022-03-05-丹麦研究称1/3感染者出现“长新冠”，比利时大幅取消疫情限制｜大流行手记（3月4日）](https://m.caixin.com/m/2022-03-05/101851182.html) ![](assets/new.png)  
-- [2022-03-04-香港放开第四针新冠疫苗接种](https://m.caixin.com/m/2022-03-04/101851034.html) ![](assets/new.png)  
-- [2022-03-04-上海9天新增34例新冠感染者-计划扩大定点医院收治能力](https://m.caixin.com/m/2022-03-04/101850824.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -491,6 +491,15 @@
 </summary>
 
 
+- [2022-03-08-杭州代交社保](https://www.v2ex.com/t/838877) ![](assets/new.png)  
+- [2022-03-08-有人接私活吗](https://www.v2ex.com/t/838876) ![](assets/new.png)  
+- [2022-03-08-有没有品质优良的摸鱼群？](https://www.v2ex.com/t/838875) ![](assets/new.png)  
+- [2022-03-08-如果让你直播带货-，你觉得什么东西可以？](https://www.v2ex.com/t/838874) ![](assets/new.png)  
+- [2022-03-08-抖音业务架构资深研发工程师](https://www.v2ex.com/t/838873) ![](assets/new.png)  
+- [2022-03-08-Linux-的/usr/bin-或者/usr/local-没有权限，如何安装软件](https://www.v2ex.com/t/838872) ![](assets/new.png)  
+- [2022-03-08-网易-2023-届网易互联网精英实习生招聘内推，社招全岗位日常内推](https://www.v2ex.com/t/838871) ![](assets/new.png)  
+- [2022-03-08-navicat-永久授权中文版-30%-off，官网-20%-off](https://www.v2ex.com/t/838870) ![](assets/new.png)  
+- [2022-03-08-现在买房感觉只能找中介了](https://www.v2ex.com/t/838867) ![](assets/new.png)  
 - [2022-03-08-19-款-16-寸-mbp-安静的环境下能听到滋滋滋的声音](https://www.v2ex.com/t/838865) ![](assets/new.png)  
 - [2022-03-08-2022-年了，广东电信游戏加速包还能办吗？](https://www.v2ex.com/t/838864) ![](assets/new.png)  
 - [2022-03-08-为什么一些-js/ts-的函数工具库没有类似-optional/maybe-的东西](https://www.v2ex.com/t/838862) ![](assets/new.png)  
@@ -502,15 +511,6 @@
 - [2022-03-08-现在应该对游戏有一个包容的态度吗？](https://www.v2ex.com/t/838854) ![](assets/new.png)  
 - [2022-03-08-calico-ebpf-数据平面下-nodeport-服务访问问题排查](https://www.v2ex.com/t/838853) ![](assets/new.png)  
 - [2022-03-08-Django-扩展了自带的-Group-字段，如何管理-migrations？](https://www.v2ex.com/t/838852) ![](assets/new.png)  
-- [2022-03-08-哪里有免费的可以用来测试的临时数据库（MySQL,-Postgres可以用吗？](https://www.v2ex.com/t/838851) ![](assets/new.png)  
-- [2022-03-08-Istio-有没有比较简单的管理平台推荐](https://www.v2ex.com/t/838850) ![](assets/new.png)  
-- [2022-03-08-开源区块链工具箱](https://www.v2ex.com/t/838849) ![](assets/new.png)  
-- [2022-03-08-posteo-邮箱服务关于垃圾邮件过滤机制的问题](https://www.v2ex.com/t/838848) ![](assets/new.png)  
-- [2022-03-08-北京-社招/实习/校招-美团配送算法团队](https://www.v2ex.com/t/838847) ![](assets/new.png)  
-- [2022-03-08-东莞宽带](https://www.v2ex.com/t/838846) ![](assets/new.png)  
-- [2022-03-08-网上搜到了一个包含电话身份证住址的网站](https://www.v2ex.com/t/838844) ![](assets/new.png)  
-- [2022-03-08-运营商宽带限速算法的一个疑问](https://www.v2ex.com/t/838843) ![](assets/new.png)  
-- [2022-03-08-请问各位大佬如何获取微软个人账户授权并使用-Microsoft-Graph-接口](https://www.v2ex.com/t/838838) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -522,6 +522,9 @@
 </summary>
 
 
+- [2022-03-08-wallys/DR6018-S/Support-OpenWRT-IPQ6010-802.11ax-2x2-2.4G&5G-www.wallystech.com](https://blogread.cn/news/go.php?idItem=14974&url=https%3A%2F%2Fwww.wallystech.com%2FRouterboard%2FDR6018-S-V02-wifi6-Qualcomm-IPQ6010-2T2R-2-GE-port-supporting-QCN9074-wifi-card-802.11AX-MU-MIMO-OFDMA.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2022-03-08-wallys/DR6018/Support-OpenWRT-IPQ6010-802.11ax-2x2-2.4G&5G-2.5Gbps-Ethernet-Port-www.wallystech.com](https://blogread.cn/news/go.php?idItem=14973&url=https%3A%2F%2Fwww.wallystech.com%2FRouterboard%2FDR6018V4-wifi6-Qualcomm-IPQ6010-IPQ6018-FAMILY-2T2R-2.5G-ETH-port-supporting-5G-celluar-Modem-802-11AX-MU-MIMO-OFDMA.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2022-03-08-wallys/DR-AP4029-M/Enclosure-Metal-Outdoor-Outdoor-Metal-Waterproof-www.wallystech.com](https://blogread.cn/news/go.php?idItem=14972&url=https%3A%2F%2Fwww.wallystech.com%2FIndustrial_Wireless_AP%2FDR-AP4029-M-WiFi-5-outdoor-Access-point-IPQ-4019-4029-DUAL-BAND-802.11AC-WAVE2-MU-MIMO.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-03-08-130个资源网站，个个都是神器！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14971&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493580%26amp%3Bidx%3D1%26amp%3Bsn%3Dfd904a3b3fd9314aa81a75b7fabdd875%26amp%3Bchksm%3Dfa3f0697cd488f81fab7170540c3eec1e55614329bc698d920c3b30ac99de707dba71f66b781%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-03-08-小团队真的适合引入SpringCloud微服务吗？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14970&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493573%26amp%3Bidx%3D2%26amp%3Bsn%3D17eb2f3f163bc0629b97f1c9c3304091%26amp%3Bchksm%3Dfa3f069ecd488f88c73ce2ed5ef9ff1d2778c8efe4458ca3e397acb9d5b86c427c0eb9078b4a%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-03-08-9个超实用的JavaScript原生插件工具-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14969&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493512%26amp%3Bidx%3D2%26amp%3Bsn%3Da468f26f038143ce2dc3febc6b045909%26amp%3Bchksm%3Dfa3f06d3cd488fc5de14e3266bddfc8103a5895393f6b258d895629e7906464585ccbf539021%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
@@ -539,9 +542,6 @@
 - [2022-03-08-【干货】为什么我会放弃Webpack而选择Vite-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14957&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493484%26amp%3Bidx%3D2%26amp%3Bsn%3D729e4110a57c1a14ce95a8683a0a3b25%26amp%3Bchksm%3Dfa3f0637cd488f2136db7ee9d1108504d923c7430e1be1b1572a5b420a1d5edcd574cbb90228%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-03-08-推荐3个快速开发平台项目经验又有着落了-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14956&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493479%26amp%3Bidx%3D1%26amp%3Bsn%3D8cdc4d51c317c4a548e2976e480bcee8%26amp%3Bchksm%3Dfa3f063ccd488f2a6678743a62fc58a2de268a1c03ed5949b62ff38454d0f417aa1ed662d0c1%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-03-08-别被框架框住了-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14955&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffrontend-framework%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-03-08-聊聊低代码平台-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14954&url=https%3A%2F%2Finsights.thoughtworks.cn%2Flow-code-platform%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-03-08-以荣耀公司为例，拆解成功企业的股权架构设计！-www.sohu.com](https://blogread.cn/news/go.php?idItem=14953&url=https%3A%2F%2Fwww.sohu.com%2Fa%2F476319747_120317149%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-03-08-19张图看懂SpringCloud-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14952&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493479%26amp%3Bidx%3D2%26amp%3Bsn%3D4ef8ac05bb19160caf58d5a0b1095aac%26amp%3Bchksm%3Dfa3f063ccd488f2aa426d2936a91ea7d90c418ff13650eab18ba313c795c0777152c41072b83%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -571,8 +571,8 @@
 - [2022-03-08-开源：如何自定义spring-boot-starter](https://toutiao.io/k/wwseuek) ![](assets/new.png)  
 - [2022-03-08-图解算法基础--快速排序，附-Go-代码实现](https://toutiao.io/k/hhsjbir) ![](assets/new.png)  
 - [2022-03-08-「前端CI/CD系列」第二篇：如何用建木CI更新七牛云CDN证书](https://toutiao.io/k/2z83xu1) ![](assets/new.png)  
-- [2022-03-08-推荐-2万字，详解数据湖，概念、特征、架构、方案、场景以及建湖全过程（建议收藏）](https://toutiao.io/k/vcpzf1w) ![](assets/new.png)  
-- [2022-03-08-推荐-MySQL-团队开发规范](https://toutiao.io/k/qjooigy) ![](assets/new.png)  
+- [2022-03-08-推荐-Java泛型详解，史上最全图文详解！](https://toutiao.io/k/chtkqxo) ![](assets/new.png)  
+- [2022-03-08-推荐-高并发是一种架构思维模式](https://toutiao.io/k/imslmgz) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

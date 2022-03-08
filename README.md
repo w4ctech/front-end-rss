@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-03-08 11:36:14，:rocket: 更新条数: +2023， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-03-08 12:20:46，:rocket: 更新条数: +2022， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,12 @@
 </summary>
 
 
+- [2022-03-08-lead-lag-regression-对应中文的专业名词是什么？](https://www.v2ex.com/t/838938) ![](assets/new.png)  
+- [2022-03-08-折腾了下-ponstick-替换光猫的玩法教程，单拨可以破千兆](https://www.v2ex.com/t/838936) ![](assets/new.png)  
+- [2022-03-08-正弦信号能于深度学习吗](https://www.v2ex.com/t/838935) ![](assets/new.png)  
+- [2022-03-08-求游戏推荐](https://www.v2ex.com/t/838934) ![](assets/new.png)  
+- [2022-03-08-维护一个屎山时看到了模板渲染的最佳实践（误），竟然说不出缺点](https://www.v2ex.com/t/838933) ![](assets/new.png)  
+- [2022-03-08-re.split分割正则匹配问题保留字符？）](https://www.v2ex.com/t/838932) ![](assets/new.png)  
 - [2022-03-08-有什么浏览器可以同步共享-Chrome-的书签？](https://www.v2ex.com/t/838930) ![](assets/new.png)  
 - [2022-03-08-杭州-内推-未来科技城一带，-Teamind-招聘前端开发、产品经理、运营](https://www.v2ex.com/t/838929) ![](assets/new.png)  
 - [2022-03-08-问-siri：今天（3-月-8-号）离-4-月-24-还有多少天，猜怎么回？](https://www.v2ex.com/t/838927) ![](assets/new.png)  
@@ -505,12 +511,6 @@
 - [2022-03-08-询问下新加坡疫情情况](https://www.v2ex.com/t/838916) ![](assets/new.png)  
 - [2022-03-08-部署在-vercel-的静态博客该如何设置图片资源引用](https://www.v2ex.com/t/838915) ![](assets/new.png)  
 - [2022-03-08-神经衰弱，楼上熬夜小伙天天到-2-点怎么办](https://www.v2ex.com/t/838912) ![](assets/new.png)  
-- [2022-03-08-深圳高级前端职位](https://www.v2ex.com/t/838911) ![](assets/new.png)  
-- [2022-03-08-公司有意在-GitHub-开源一些项目，请问有哪些需要注意的事项呢？](https://www.v2ex.com/t/838910) ![](assets/new.png)  
-- [2022-03-08-tx-轻量-2c4g-的可以免费升级-4c-了](https://www.v2ex.com/t/838909) ![](assets/new.png)  
-- [2022-03-08-腾讯云轻量虎年升配及不限新老优惠](https://www.v2ex.com/t/838908) ![](assets/new.png)  
-- [2022-03-08-今天提出离职了](https://www.v2ex.com/t/838907) ![](assets/new.png)  
-- [2022-03-08-想问一个前端侧边菜单导航的问题](https://www.v2ex.com/t/838906) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -564,14 +564,14 @@
 - [2022-03-08-浅谈-Node.js-热更新](https://toutiao.io/k/i82qqok) ![](assets/new.png)  
 - [2022-03-08-深入剖析优惠券核心架构设计](https://toutiao.io/k/qj0g7q6) ![](assets/new.png)  
 - [2022-03-08-手撸一个智能指针](https://toutiao.io/k/akfto1w) ![](assets/new.png)  
-- [2022-03-08-Flink-CDC-核心：Debezium-1.9.0.Beta1-发布！](https://toutiao.io/k/c8j9oo2) ![](assets/new.png)  
 - [2022-03-08-惨，给Go提的代码被批麻了](https://toutiao.io/k/jck618p) ![](assets/new.png)  
+- [2022-03-08-Flink-CDC-核心：Debezium-1.9.0.Beta1-发布！](https://toutiao.io/k/c8j9oo2) ![](assets/new.png)  
 - [2022-03-08-震惊，博主终于更新了坦克大战小游戏！！！](https://toutiao.io/k/5b6lzfv) ![](assets/new.png)  
 - [2022-03-08-实施5000能提高软件质量吗？](https://toutiao.io/k/6pltecc) ![](assets/new.png)  
 - [2022-03-08-开源：如何自定义spring-boot-starter](https://toutiao.io/k/wwseuek) ![](assets/new.png)  
 - [2022-03-08-「前端CI/CD系列」第二篇：如何用建木CI更新七牛云CDN证书](https://toutiao.io/k/2z83xu1) ![](assets/new.png)  
 - [2022-03-08-图解算法基础--快速排序，附-Go-代码实现](https://toutiao.io/k/hhsjbir) ![](assets/new.png)  
-- [2022-03-08-推荐-MySQL-团队开发规范](https://toutiao.io/k/qjooigy) ![](assets/new.png)  
+- [2022-03-08-推荐-微服务从代码到k8s部署应有尽有大结局（k8s部署）](https://toutiao.io/k/xk3qbvm) ![](assets/new.png)  
 - [2022-03-08-推荐-Golang-简洁架构实战](https://toutiao.io/k/vjw1dlc) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

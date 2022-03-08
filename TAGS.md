@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-03-08 12:20:46。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-03-08 12:58:32。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -156,7 +156,6 @@
 
 
 - [【V2EX】求游戏推荐](https://www.v2ex.com/t/838934)
-- [【V2EX】远程Web3SolidityNFT-国际化元宇宙/数字收藏类初创项目，前端/后端/全栈/智能合约/游戏开发/自荐职位（030822-更新岗位信息）](https://www.v2ex.com/t/838895)
 - [【开发者头条】游戏黑灰产识别和溯源取证](https://toutiao.io/k/ivkhjaa)
 - [【开发者头条】震惊，博主终于更新了坦克大战小游戏！！！](https://toutiao.io/k/5b6lzfv)
 - [......【查看更多】......](./details/tags/dev-game.md)
@@ -224,6 +223,7 @@
 
 
 
+- [【V2EX】3D-互联网的大航海，你要上船一起冒险吗？社交公司-Presence，诚邀各位才华横溢的-Unity3d-大佬上船！](https://www.v2ex.com/t/838948)
 - [......【查看更多】......](./details/tags/canvas-image.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -303,7 +303,6 @@
 
 
 
-- [【V2EX】远程-DeBank/Rabby-招聘-Web3-产品设计师/工程师/算法/SRE-40K-80K](https://www.v2ex.com/t/838896)
 - [【技术头条】手把手教你打造一款高逼格的Vim神器-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14962&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493488%26amp%3Bidx%3D1%26amp%3Bsn%3D8c128186d0b12d8022708ce9b725c809%26amp%3Bchksm%3Dfa3f062bcd488f3d67c96d2ef6df68b69de330f0c59212326cb0ae131769811d029e0b67efb7%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【开发者头条】图解算法基础--快速排序，附-Go-代码实现](https://toutiao.io/k/hhsjbir)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
@@ -357,7 +356,6 @@
 
 - [【V2EX】杭州-内推-未来科技城一带，-Teamind-招聘前端开发、产品经理、运营](https://www.v2ex.com/t/838929)
 - [【V2EX】阿里集团-CTO-线实习生招聘](https://www.v2ex.com/t/838925)
-- [【V2EX】蚂蚁集团招聘实习生啦！](https://www.v2ex.com/t/838894)
 - [【开发者头条】12-道腾讯前端面试真题及答案整理](https://toutiao.io/k/p5z6q6j)
 - [......【查看更多】......](./details/tags/job-interview.md)
 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-03-08 06:45:17。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-03-08 07:14:00。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1901,6 +1901,7 @@
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2022-02-04-HTML-inputmode与iOS-Android软键盘类型测试](https://www.zhangxinxu.com/wordpress/2022/02/html-inputmode-keyboard/) 
+- [2022-03-08-19-款-16-寸-mbp-安静的环境下能听到滋滋滋的声音](https://www.v2ex.com/t/838865) 
 - [2022-03-08-求职-坐标上海，-3-年-golang](https://www.v2ex.com/t/838860) 
 - [2022-03-08-今晚要发-se3-了，有啥期待吗？](https://www.v2ex.com/t/838859) 
 - [2022-03-08-想买个投影仪/电动车，-想问问大家的意见](https://www.v2ex.com/t/838857) 
@@ -1922,9 +1923,6 @@
 - [2022-03-08-Never-Gonna-Give-You-Up-这首歌-有谁知道女伴舞的名字吗](https://www.v2ex.com/t/838823) 
 - [2022-03-08-兄弟们-magsafe-外接电池值得买吗-pdd469-了](https://www.v2ex.com/t/838819) 
 - [2022-03-08-接到滴滴电话，云服务业务调整](https://www.v2ex.com/t/838817) 
-- [2022-03-08-各位，选择东芝-MG-还是-MN-系列用于-NAS-存储呢-？](https://www.v2ex.com/t/838816) 
-- [2022-03-08-第一次申请劳动仲裁](https://www.v2ex.com/t/838815) 
-- [2022-03-08-WPFDevelopers.Minimal-基础库](https://www.v2ex.com/t/838814) 
 - [2022-03-08-130个资源网站，个个都是神器！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14971&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493580%26amp%3Bidx%3D1%26amp%3Bsn%3Dfd904a3b3fd9314aa81a75b7fabdd875%26amp%3Bchksm%3Dfa3f0697cd488f81fab7170540c3eec1e55614329bc698d920c3b30ac99de707dba71f66b781%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-03-08-小团队真的适合引入SpringCloud微服务吗？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14970&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493573%26amp%3Bidx%3D2%26amp%3Bsn%3D17eb2f3f163bc0629b97f1c9c3304091%26amp%3Bchksm%3Dfa3f069ecd488f88c73ce2ed5ef9ff1d2778c8efe4458ca3e397acb9d5b86c427c0eb9078b4a%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-03-08-你应该知道的89个操作系统核心概念-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14968&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493491%26amp%3Bidx%3D1%26amp%3Bsn%3Dab6b3b9e486885fc6d8c6b7328f78872%26amp%3Bchksm%3Dfa3f0628cd488f3e6af49195cb15bc8b3831262690616324fc4dc96786a7ee14897ca1ef2804%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1948,11 +1946,11 @@
 - [2022-03-08-实施5000能提高软件质量吗？](https://toutiao.io/k/6pltecc) 
 - [2022-03-08-惨，给Go提的代码被批麻了](https://toutiao.io/k/jck618p) 
 - [2022-03-08-深入剖析优惠券核心架构设计](https://toutiao.io/k/qj0g7q6) 
-- [2022-03-08-「前端CI/CD系列」第二篇：如何用建木CI更新七牛云CDN证书](https://toutiao.io/k/2z83xu1) 
 - [2022-03-08-开源：如何自定义spring-boot-starter](https://toutiao.io/k/wwseuek) 
+- [2022-03-08-「前端CI/CD系列」第二篇：如何用建木CI更新七牛云CDN证书](https://toutiao.io/k/2z83xu1) 
+- [2022-03-08-推荐-2万字，详解数据湖，概念、特征、架构、方案、场景以及建湖全过程（建议收藏）](https://toutiao.io/k/vcpzf1w) 
 - [2022-03-08-推荐-MySQL-团队开发规范](https://toutiao.io/k/qjooigy) 
 - [2022-03-08-推荐-微服务从代码到k8s部署应有尽有大结局（k8s部署）](https://toutiao.io/k/xk3qbvm) 
-- [2022-03-08-推荐-Java泛型详解，史上最全图文详解！](https://toutiao.io/k/chtkqxo) 
 - [2022-03-08-推荐-Golang-简洁架构实战](https://toutiao.io/k/vjw1dlc) 
-- [2022-03-08-推荐-2万字，详解数据湖，概念、特征、架构、方案、场景以及建湖全过程（建议收藏）](https://toutiao.io/k/vcpzf1w) 
 - [2022-03-08-推荐-高并发是一种架构思维模式](https://toutiao.io/k/imslmgz) 
+- [2022-03-08-推荐-Java泛型详解，史上最全图文详解！](https://toutiao.io/k/chtkqxo) 

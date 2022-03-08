@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-03-08 14:13:51。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-03-08 14:37:10。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -55,6 +55,7 @@
 
 
 
+- [【V2EX】vue-的-computed-里面的函数为什么要绑定成-property，而不是绑定成-method](https://www.v2ex.com/t/838970)
 - [【V2EX】求职-7-年-Java-、期间做过-uniapp（IOS+安卓）、会-vue、希望求个工作-or-私活-都可以~](https://www.v2ex.com/t/838962)
 - [......【查看更多】......](./details/tags/vue.md)
 

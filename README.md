@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-03-08 11:11:18，:rocket: 更新条数: +2023， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-03-08 11:36:14，:rocket: 更新条数: +2023， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-03-08-有什么浏览器可以同步共享-Chrome-的书签？](https://www.v2ex.com/t/838930) ![](assets/new.png)  
+- [2022-03-08-杭州-内推-未来科技城一带，-Teamind-招聘前端开发、产品经理、运营](https://www.v2ex.com/t/838929) ![](assets/new.png)  
 - [2022-03-08-问-siri：今天（3-月-8-号）离-4-月-24-还有多少天，猜怎么回？](https://www.v2ex.com/t/838927) ![](assets/new.png)  
 - [2022-03-08-苏州移动普通商务宽带有-ipv6-吗？](https://www.v2ex.com/t/838926) ![](assets/new.png)  
 - [2022-03-08-阿里集团-CTO-线实习生招聘](https://www.v2ex.com/t/838925) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-03-08-腾讯云轻量虎年升配及不限新老优惠](https://www.v2ex.com/t/838908) ![](assets/new.png)  
 - [2022-03-08-今天提出离职了](https://www.v2ex.com/t/838907) ![](assets/new.png)  
 - [2022-03-08-想问一个前端侧边菜单导航的问题](https://www.v2ex.com/t/838906) ![](assets/new.png)  
-- [2022-03-08-有人接私活吗,小需求==](https://www.v2ex.com/t/838904) ![](assets/new.png)  
-- [2022-03-08-全职远程-20k-35k/web-前端开发/SaaS/上海](https://www.v2ex.com/t/838903) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -571,8 +571,8 @@
 - [2022-03-08-开源：如何自定义spring-boot-starter](https://toutiao.io/k/wwseuek) ![](assets/new.png)  
 - [2022-03-08-「前端CI/CD系列」第二篇：如何用建木CI更新七牛云CDN证书](https://toutiao.io/k/2z83xu1) ![](assets/new.png)  
 - [2022-03-08-图解算法基础--快速排序，附-Go-代码实现](https://toutiao.io/k/hhsjbir) ![](assets/new.png)  
-- [2022-03-08-推荐-微服务从代码到k8s部署应有尽有大结局（k8s部署）](https://toutiao.io/k/xk3qbvm) ![](assets/new.png)  
-- [2022-03-08-推荐-SpringBoot性能优化大全，贼好使！](https://toutiao.io/k/75br1se) ![](assets/new.png)  
+- [2022-03-08-推荐-MySQL-团队开发规范](https://toutiao.io/k/qjooigy) ![](assets/new.png)  
+- [2022-03-08-推荐-Golang-简洁架构实战](https://toutiao.io/k/vjw1dlc) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

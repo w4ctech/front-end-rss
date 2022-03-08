@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-03-08 17:16:00，:rocket: 更新条数: +2022， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-03-08 17:39:23，:rocket: 更新条数: +2023， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,7 +491,8 @@
 </summary>
 
 
-- [2022-03-08-用光猫拨号的话，哪个光猫性能最好？](https://www.v2ex.com/t/838986) ![](assets/new.png)  
+- [2022-03-08-腾讯云香港东京新加坡（cn2）硅谷轻量服务器-约-3-年-266-团购折上折](https://www.v2ex.com/t/838987) ![](assets/new.png)  
+- [2022-03-08-用光猫拨号的话，现在哪个光猫性能最好？](https://www.v2ex.com/t/838986) ![](assets/new.png)  
 - [2022-03-08-在某个关键的时间点，做错了一件事，导致之前所有的努力都白费了，大伙有没有这样的经历？](https://www.v2ex.com/t/838985) ![](assets/new.png)  
 - [2022-03-08-Switch-上很火的游戏其实很少？](https://www.v2ex.com/t/838984) ![](assets/new.png)  
 - [2022-03-08-做个-notion+-marginnote-的软件,你们觉得怎么样.](https://www.v2ex.com/t/838983) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-03-08-不太懂-Python-，想实现把图片绘制都一个画布上，不知道应该用哪个库？](https://www.v2ex.com/t/838967) ![](assets/new.png)  
 - [2022-03-08-良心云升配后可以干啥呢？谈谈我的用法](https://www.v2ex.com/t/838966) ![](assets/new.png)  
 - [2022-03-08-BundleHunt-再次出现，可以购买-iMazing-的绑定电脑版本](https://www.v2ex.com/t/838965) ![](assets/new.png)  
-- [2022-03-08-MySQL-只读操作一般需要开启事务吗？](https://www.v2ex.com/t/838964) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -572,7 +572,7 @@
 - [2022-03-08-「前端CI/CD系列」第二篇：如何用建木CI更新七牛云CDN证书](https://toutiao.io/k/2z83xu1) ![](assets/new.png)  
 - [2022-03-08-图解算法基础--快速排序，附-Go-代码实现](https://toutiao.io/k/hhsjbir) ![](assets/new.png)  
 - [2022-03-08-推荐-高并发是一种架构思维模式](https://toutiao.io/k/imslmgz) ![](assets/new.png)  
-- [2022-03-08-推荐-2万字，详解数据湖，概念、特征、架构、方案、场景以及建湖全过程（建议收藏）](https://toutiao.io/k/vcpzf1w) ![](assets/new.png)  
+- [2022-03-08-推荐-微服务从代码到k8s部署应有尽有大结局（k8s部署）](https://toutiao.io/k/xk3qbvm) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-03-08 09:38:26，:rocket: 更新条数: +2020， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-03-08 10:14:44，:rocket: 更新条数: +2022， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -66,7 +66,7 @@
 
 
 - [2022-03-08-最新疫情：全国新冠累计确诊111520例-累计接种新冠疫苗超31.65亿剂次](https://m.caixin.com/m/2022-03-08/101852706.html) ![](assets/new.png)  
-- [2022-03-08-北京新增7例本土新冠确诊病例-详情公布](https://m.caixin.com/m/2022-03-08/101852668.html) ![](assets/new.png)  
+- [2022-03-08-北京新增7例本土确诊-一人曾赴上海团建](https://m.caixin.com/m/2022-03-08/101852668.html) ![](assets/new.png)  
 - [2022-03-08-北京新增新冠病例涉字节跳动办公区-员工就地隔离过夜](https://m.caixin.com/m/2022-03-08/101852591.html) ![](assets/new.png)  
 - [2022-03-08-最新海外疫情：新冠感染超4.46亿-累计接种新冠疫苗超107.87亿剂次](https://m.caixin.com/m/2022-03-08/101852715.html) ![](assets/new.png)  
 - [2022-03-08-【境内疫情观察】全国现有确诊病例超4000例（3月7日）](https://database.caixin.com/m/2022-03-08/101852579.html) ![](assets/new.png)  
@@ -491,6 +491,17 @@
 </summary>
 
 
+- [2022-03-08-麻烦各位同学帮忙看一下-RocketMQ-问题，先磕头感谢](https://www.v2ex.com/t/838920) ![](assets/new.png)  
+- [2022-03-08-iPhone-13-Pro-插双卡可以禁用其中一张卡吗](https://www.v2ex.com/t/838919) ![](assets/new.png)  
+- [2022-03-08-询问杭州租房](https://www.v2ex.com/t/838918) ![](assets/new.png)  
+- [2022-03-08-有类似树莓派的-X86-开发板吗？](https://www.v2ex.com/t/838917) ![](assets/new.png)  
+- [2022-03-08-询问下新加坡疫情情况](https://www.v2ex.com/t/838916) ![](assets/new.png)  
+- [2022-03-08-部署在-vercel-的静态博客该如何设置图片资源引用](https://www.v2ex.com/t/838915) ![](assets/new.png)  
+- [2022-03-08-神经衰弱，楼上熬夜小伙天天到-2-点怎么办](https://www.v2ex.com/t/838912) ![](assets/new.png)  
+- [2022-03-08-深圳高级前端职位](https://www.v2ex.com/t/838911) ![](assets/new.png)  
+- [2022-03-08-公司有意在-GitHub-开源一些项目，请问有哪些需要注意的事项呢？](https://www.v2ex.com/t/838910) ![](assets/new.png)  
+- [2022-03-08-tx-轻量-2c4g-的可以免费升级-4c-了](https://www.v2ex.com/t/838909) ![](assets/new.png)  
+- [2022-03-08-腾讯云轻量虎年升配及不限新老优惠](https://www.v2ex.com/t/838908) ![](assets/new.png)  
 - [2022-03-08-今天提出离职了](https://www.v2ex.com/t/838907) ![](assets/new.png)  
 - [2022-03-08-想问一个前端侧边菜单导航的问题](https://www.v2ex.com/t/838906) ![](assets/new.png)  
 - [2022-03-08-有人接私活吗,小需求==](https://www.v2ex.com/t/838904) ![](assets/new.png)  
@@ -500,17 +511,6 @@
 - [2022-03-08-Mac-备忘录带不带改动提示？](https://www.v2ex.com/t/838900) ![](assets/new.png)  
 - [2022-03-08-不经意间了解到-MIUI-欧版，是真香还是鸡肋？](https://www.v2ex.com/t/838899) ![](assets/new.png)  
 - [2022-03-08-深圳大数据-Leader-职位](https://www.v2ex.com/t/838898) ![](assets/new.png)  
-- [2022-03-08-远程-DeBank/Rabby-招聘-Web3-产品设计师/工程师/算法/SRE-40K-80K](https://www.v2ex.com/t/838896) ![](assets/new.png)  
-- [2022-03-08-远程Web3SolidityNFT-国际化元宇宙/数字收藏类初创项目，前端/后端/全栈/智能合约/游戏开发/自荐职位（030822-更新岗位信息）](https://www.v2ex.com/t/838895) ![](assets/new.png)  
-- [2022-03-08-蚂蚁集团招聘实习生啦！](https://www.v2ex.com/t/838894) ![](assets/new.png)  
-- [2022-03-08-光猫已桥接，有两个电信宽带账号，是否可以多拨？](https://www.v2ex.com/t/838893) ![](assets/new.png)  
-- [2022-03-08-有关大数据-Cloudera-公司推出的-CCA131-大数据考试的含金量](https://www.v2ex.com/t/838891) ![](assets/new.png)  
-- [2022-03-08-毕业第一次租房就踩坑。。。](https://www.v2ex.com/t/838890) ![](assets/new.png)  
-- [2022-03-08-各位觉得-watchOS-8-的新版随手写怎么样？](https://www.v2ex.com/t/838888) ![](assets/new.png)  
-- [2022-03-08-上海梦创双杨等进吗？大佬们](https://www.v2ex.com/t/838887) ![](assets/new.png)  
-- [2022-03-08-明天凌晨会出-AirPods-pro-吗？](https://www.v2ex.com/t/838886) ![](assets/new.png)  
-- [2022-03-08-人在欧洲，如何玩限制国内-ip-的游戏更流畅？](https://www.v2ex.com/t/838885) ![](assets/new.png)  
-- [2022-03-08-apple-触控板蓝牙老是断联？](https://www.v2ex.com/t/838884) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -564,15 +564,15 @@
 - [2022-03-08-浅谈-Node.js-热更新](https://toutiao.io/k/i82qqok) ![](assets/new.png)  
 - [2022-03-08-Flink-CDC-核心：Debezium-1.9.0.Beta1-发布！](https://toutiao.io/k/c8j9oo2) ![](assets/new.png)  
 - [2022-03-08-手撸一个智能指针](https://toutiao.io/k/akfto1w) ![](assets/new.png)  
-- [2022-03-08-实施5000能提高软件质量吗？](https://toutiao.io/k/6pltecc) ![](assets/new.png)  
 - [2022-03-08-惨，给Go提的代码被批麻了](https://toutiao.io/k/jck618p) ![](assets/new.png)  
 - [2022-03-08-深入剖析优惠券核心架构设计](https://toutiao.io/k/qj0g7q6) ![](assets/new.png)  
+- [2022-03-08-实施5000能提高软件质量吗？](https://toutiao.io/k/6pltecc) ![](assets/new.png)  
 - [2022-03-08-震惊，博主终于更新了坦克大战小游戏！！！](https://toutiao.io/k/5b6lzfv) ![](assets/new.png)  
 - [2022-03-08-开源：如何自定义spring-boot-starter](https://toutiao.io/k/wwseuek) ![](assets/new.png)  
 - [2022-03-08-「前端CI/CD系列」第二篇：如何用建木CI更新七牛云CDN证书](https://toutiao.io/k/2z83xu1) ![](assets/new.png)  
 - [2022-03-08-图解算法基础--快速排序，附-Go-代码实现](https://toutiao.io/k/hhsjbir) ![](assets/new.png)  
-- [2022-03-08-推荐-Golang-简洁架构实战](https://toutiao.io/k/vjw1dlc) ![](assets/new.png)  
-- [2022-03-08-推荐-微服务从代码到k8s部署应有尽有大结局（k8s部署）](https://toutiao.io/k/xk3qbvm) ![](assets/new.png)  
+- [2022-03-08-推荐-MySQL-团队开发规范](https://toutiao.io/k/qjooigy) ![](assets/new.png)  
+- [2022-03-08-推荐-2万字，详解数据湖，概念、特征、架构、方案、场景以及建湖全过程（建议收藏）](https://toutiao.io/k/vcpzf1w) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

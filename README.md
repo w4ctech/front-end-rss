@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-03-09 15:41:22，:rocket: 更新条数: +2028， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-03-09 16:18:39，:rocket: 更新条数: +2027， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,10 @@
 </summary>
 
 
+- [2022-03-09-有没有打印机-4000-以下支持下面这些功能](https://www.v2ex.com/t/839266) ![](assets/new.png)  
+- [2022-03-09-有在推上的-EZFIX-扩容过-mac-的朋友嘛](https://www.v2ex.com/t/839265) ![](assets/new.png)  
+- [2022-03-09-Mac-Pro-应该会用-M2-芯片](https://www.v2ex.com/t/839264) ![](assets/new.png)  
+- [2022-03-09-Macbook-Pro-Intel-16G，非常卡](https://www.v2ex.com/t/839263) ![](assets/new.png)  
 - [2022-03-09-菜鸡求教，-BeautifulSoup-处理百度百科数据问题](https://www.v2ex.com/t/839262) ![](assets/new.png)  
 - [2022-03-09-百度网盘-PC-版的人呢？新版本在搞毛，自动生成图标还删不掉？](https://www.v2ex.com/t/839261) ![](assets/new.png)  
 - [2022-03-09-如何消除-Log-的重复代码？](https://www.v2ex.com/t/839260) ![](assets/new.png)  
@@ -507,10 +511,6 @@
 - [2022-03-09-新买了-Mac-多屏控制软件-Lunar-Pro，出-4-个车位](https://www.v2ex.com/t/839245) ![](assets/new.png)  
 - [2022-03-09-老头环盾反有点难，大佬能分享经验不？](https://www.v2ex.com/t/839244) ![](assets/new.png)  
 - [2022-03-09-上市公司跳医疗小公司，值不值得](https://www.v2ex.com/t/839243) ![](assets/new.png)  
-- [2022-03-09-流浪猫的生活其实也...](https://www.v2ex.com/t/839242) ![](assets/new.png)  
-- [2022-03-09-杭州/北京/上海/深圳/广州/武汉-海量-HC，-1-3-年工作经验，-Java-/Golang-开发、前端、测试工程师](https://www.v2ex.com/t/839240) ![](assets/new.png)  
-- [2022-03-09-CI/CD-工具，除了-Jenkins，还有推荐吗？](https://www.v2ex.com/t/839239) ![](assets/new.png)  
-- [2022-03-09-网站域名在微信被封了应该怎么弄？申诉也没反应。有哥们遇到这种问题吗？](https://www.v2ex.com/t/839238) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -9933,6 +9933,26 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "有没有打印机 4000 以下支持下面这些功能",
+        "link": "https://www.v2ex.com/t/839266",
+        "date": "2022-03-09"
+      },
+      {
+        "title": "有在推上的 EZFIX 扩容过 mac 的朋友嘛",
+        "link": "https://www.v2ex.com/t/839265",
+        "date": "2022-03-09"
+      },
+      {
+        "title": "Mac Pro 应该会用 M2 芯片",
+        "link": "https://www.v2ex.com/t/839264",
+        "date": "2022-03-09"
+      },
+      {
+        "title": "Macbook Pro Intel 16G，非常卡",
+        "link": "https://www.v2ex.com/t/839263",
+        "date": "2022-03-09"
+      },
+      {
         "title": "菜鸡求教， BeautifulSoup 处理百度百科数据问题",
         "link": "https://www.v2ex.com/t/839262",
         "date": "2022-03-09"
@@ -10110,21 +10130,6 @@
       {
         "title": "这种情况怎样批量重命名?(文件名包含的数字减 1)",
         "link": "https://www.v2ex.com/t/839217",
-        "date": "2022-03-09"
-      },
-      {
-        "title": "请问有没有研究深度学习编译器方向的研究生导师推荐？",
-        "link": "https://www.v2ex.com/t/839216",
-        "date": "2022-03-09"
-      },
-      {
-        "title": "事到如今只能买 MacBook Air M1 了，发布会有点失望",
-        "link": "https://www.v2ex.com/t/839214",
-        "date": "2022-03-09"
-      },
-      {
-        "title": "有没有办法 在官方不支持的设备上 强行开启通用控制",
-        "link": "https://www.v2ex.com/t/839213",
         "date": "2022-03-09"
       }
     ]
@@ -10347,11 +10352,6 @@
         "date": "2022-03-09"
       },
       {
-        "title": "[推荐] 2万字，详解数据湖，概念、特征、架构、方案、场景以及建湖全过程（建议收藏）",
-        "link": "https://toutiao.io/k/vcpzf1w",
-        "date": "2022-03-09"
-      },
-      {
         "title": "[推荐] 微服务从代码到k8s部署应有尽有大结局（k8s部署）",
         "link": "https://toutiao.io/k/xk3qbvm",
         "date": "2022-03-09"
@@ -10362,18 +10362,13 @@
         "date": "2022-03-09"
       },
       {
-        "title": "[推荐] SpringBoot性能优化大全，贼好使！",
-        "link": "https://toutiao.io/k/75br1se",
+        "title": "[推荐] MySQL 团队开发规范",
+        "link": "https://toutiao.io/k/qjooigy",
         "date": "2022-03-09"
       },
       {
         "title": "[推荐] Java泛型详解，史上最全图文详解！",
         "link": "https://toutiao.io/k/chtkqxo",
-        "date": "2022-03-09"
-      },
-      {
-        "title": "[推荐] MySQL 团队开发规范",
-        "link": "https://toutiao.io/k/qjooigy",
         "date": "2022-03-09"
       }
     ]

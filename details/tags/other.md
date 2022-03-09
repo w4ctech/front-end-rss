@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-03-09 15:41:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-03-09 16:18:39。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1909,6 +1909,10 @@
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2022-02-04-HTML-inputmode与iOS-Android软键盘类型测试](https://www.zhangxinxu.com/wordpress/2022/02/html-inputmode-keyboard/) 
+- [2022-03-09-有没有打印机-4000-以下支持下面这些功能](https://www.v2ex.com/t/839266) 
+- [2022-03-09-有在推上的-EZFIX-扩容过-mac-的朋友嘛](https://www.v2ex.com/t/839265) 
+- [2022-03-09-Mac-Pro-应该会用-M2-芯片](https://www.v2ex.com/t/839264) 
+- [2022-03-09-Macbook-Pro-Intel-16G，非常卡](https://www.v2ex.com/t/839263) 
 - [2022-03-09-菜鸡求教，-BeautifulSoup-处理百度百科数据问题](https://www.v2ex.com/t/839262) 
 - [2022-03-09-百度网盘-PC-版的人呢？新版本在搞毛，自动生成图标还删不掉？](https://www.v2ex.com/t/839261) 
 - [2022-03-09-如何消除-Log-的重复代码？](https://www.v2ex.com/t/839260) 
@@ -1941,9 +1945,6 @@
 - [2022-03-09-关于-V2EX-回复的阅读感受和改进建议](https://www.v2ex.com/t/839222) 
 - [2022-03-09-用-Go-写了个微信消息推送的系统，欢迎大家使用](https://www.v2ex.com/t/839219) 
 - [2022-03-09-这种情况怎样批量重命名?文件名包含的数字减-1](https://www.v2ex.com/t/839217) 
-- [2022-03-09-请问有没有研究深度学习编译器方向的研究生导师推荐？](https://www.v2ex.com/t/839216) 
-- [2022-03-09-事到如今只能买-MacBook-Air-M1-了，发布会有点失望](https://www.v2ex.com/t/839214) 
-- [2022-03-09-有没有办法-在官方不支持的设备上-强行开启通用控制](https://www.v2ex.com/t/839213) 
 - [2022-03-09-wallys/DR6018-S/Support-OpenWRT-IPQ6010-802.11ax-2x2-2.4G&5G-www.wallystech.com](https://blogread.cn/news/go.php?idItem=14974&url=https%3A%2F%2Fwww.wallystech.com%2FRouterboard%2FDR6018-S-V02-wifi6-Qualcomm-IPQ6010-2T2R-2-GE-port-supporting-QCN9074-wifi-card-802.11AX-MU-MIMO-OFDMA.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-03-09-wallys/DR6018/Support-OpenWRT-IPQ6010-802.11ax-2x2-2.4G&5G-2.5Gbps-Ethernet-Port-www.wallystech.com](https://blogread.cn/news/go.php?idItem=14973&url=https%3A%2F%2Fwww.wallystech.com%2FRouterboard%2FDR6018V4-wifi6-Qualcomm-IPQ6010-IPQ6018-FAMILY-2T2R-2.5G-ETH-port-supporting-5G-celluar-Modem-802-11AX-MU-MIMO-OFDMA.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-03-09-wallys/DR-AP4029-M/Enclosure-Metal-Outdoor-Outdoor-Metal-Waterproof-www.wallystech.com](https://blogread.cn/news/go.php?idItem=14972&url=https%3A%2F%2Fwww.wallystech.com%2FIndustrial_Wireless_AP%2FDR-AP4029-M-WiFi-5-outdoor-Access-point-IPQ-4019-4029-DUAL-BAND-802.11AC-WAVE2-MU-MIMO.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1971,8 +1972,7 @@
 - [2022-03-09-Go-在-1972-年提交了第一行代码？](https://toutiao.io/k/90htthi) 
 - [2022-03-09-有没有一种简单的方法监控风险和机遇的转化？](https://toutiao.io/k/uz2j06x) 
 - [2022-03-09-SparkSQL-在企业级数仓建设的优势](https://toutiao.io/k/xh56y3z) 
-- [2022-03-09-推荐-2万字，详解数据湖，概念、特征、架构、方案、场景以及建湖全过程（建议收藏）](https://toutiao.io/k/vcpzf1w) 
 - [2022-03-09-推荐-微服务从代码到k8s部署应有尽有大结局（k8s部署）](https://toutiao.io/k/xk3qbvm) 
 - [2022-03-09-推荐-高并发是一种架构思维模式](https://toutiao.io/k/imslmgz) 
-- [2022-03-09-推荐-Java泛型详解，史上最全图文详解！](https://toutiao.io/k/chtkqxo) 
 - [2022-03-09-推荐-MySQL-团队开发规范](https://toutiao.io/k/qjooigy) 
+- [2022-03-09-推荐-Java泛型详解，史上最全图文详解！](https://toutiao.io/k/chtkqxo) 

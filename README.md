@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-03-09 11:36:07，:rocket: 更新条数: +2024， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-03-09 12:21:20，:rocket: 更新条数: +2027， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -66,12 +66,13 @@
 
 
 - [2022-03-09-最新疫情：全国新冠累计确诊111857例-累计接种新冠疫苗超31.69亿剂次](https://m.caixin.com/m/2022-03-09/101853209.html) ![](assets/new.png)  
+- [2022-03-09-香港调整抗疫策略-全民检测或将推迟](https://m.caixin.com/m/2022-03-09/101853319.html) ![](assets/new.png)  
 - [2022-03-09-字节跳动办公区现确诊病例-公司深夜组织员工回家](https://companies.caixin.com/m/2022-03-09/101852947.html) ![](assets/new.png)  
 - [2022-03-09-最新海外疫情：新冠感染超4.48亿-累计接种新冠疫苗超108.06亿剂次](https://m.caixin.com/m/2022-03-09/101853206.html) ![](assets/new.png)  
 - [2022-03-09-【境内疫情观察】全国新增322例本土无症状感染者（3月8日）](https://database.caixin.com/m/2022-03-09/101853141.html) ![](assets/new.png)  
 - [2022-03-09-研究称COVID-19或能导致脑异常-马来西亚4月将重新开放边境｜大流行手记（3月8日）](https://m.caixin.com/m/2022-03-09/101853036.html) ![](assets/new.png)  
-- [2022-03-08-香港日增病例呈回落趋势-港大预测5月降至两位数](https://m.caixin.com/m/2022-03-08/101852848.html) ![](assets/new.png)  
 - [2022-03-08-北京新增7例本土确诊-一人曾赴上海团建](https://m.caixin.com/m/2022-03-08/101852668.html) ![](assets/new.png)  
+- [2022-03-08-香港日增病例呈回落趋势-港大预测5月降至两位数](https://m.caixin.com/m/2022-03-08/101852848.html) ![](assets/new.png)  
 - [2022-03-08-北京新增新冠病例涉字节跳动办公区-员工就地隔离过夜](https://m.caixin.com/m/2022-03-08/101852591.html) ![](assets/new.png)  
 - [2022-03-08-深港边境临时搭桥-内地援建香港河套应急医院](https://m.caixin.com/m/2022-03-08/101852776.html) ![](assets/new.png)  
 - [2022-03-08-【境内疫情观察】全国现有确诊病例超4000例（3月7日）](https://database.caixin.com/m/2022-03-08/101852579.html) ![](assets/new.png)  
@@ -84,7 +85,6 @@
 - [2022-03-07-【图集】上海一周增新冠感染者136例-徐汇部分街道连夜检测](https://photos.caixin.com/m/2022-03-07/101851932.html) ![](assets/new.png)  
 - [2022-03-06-上海在院新冠病例数创新高-已增调医护人员储备医疗资源](https://m.caixin.com/m/2022-03-06/101851549.html) ![](assets/new.png)  
 - [2022-03-06-山东青岛新增88例确诊-78人为在校学生](https://china.caixin.com/m/2022-03-06/101851448.html) ![](assets/new.png)  
-- [2022-03-06-【境内疫情观察】山东新增88例本土病例（3月5日）](https://database.caixin.com/m/2022-03-06/101851487.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -491,6 +491,13 @@
 </summary>
 
 
+- [2022-03-09-iOS-Clash-客户端的新选择，内附兑换码](https://www.v2ex.com/t/839223) ![](assets/new.png)  
+- [2022-03-09-关于-V2EX-回复的阅读感受和改进建议](https://www.v2ex.com/t/839222) ![](assets/new.png)  
+- [2022-03-09-高性能-arm-pc-Linux-类似-m1promax-性能的-CPU-什么时候出现](https://www.v2ex.com/t/839221) ![](assets/new.png)  
+- [2022-03-09-有没有类型安全的类似-lodash-的库](https://www.v2ex.com/t/839220) ![](assets/new.png)  
+- [2022-03-09-用-Go-写了个微信消息推送的系统，欢迎大家使用](https://www.v2ex.com/t/839219) ![](assets/new.png)  
+- [2022-03-09-这种情况怎样批量重命名?文件名包含的数字减-1](https://www.v2ex.com/t/839217) ![](assets/new.png)  
+- [2022-03-09-请问有没有研究深度学习编译器方向的研究生导师推荐？](https://www.v2ex.com/t/839216) ![](assets/new.png)  
 - [2022-03-09-事到如今只能买-MacBook-Air-M1-了，发布会有点失望](https://www.v2ex.com/t/839214) ![](assets/new.png)  
 - [2022-03-09-有没有办法-在官方不支持的设备上-强行开启通用控制](https://www.v2ex.com/t/839213) ![](assets/new.png)  
 - [2022-03-09-Info-from-https://repo.packagist.org:-#StandWithUkraine](https://www.v2ex.com/t/839211) ![](assets/new.png)  
@@ -504,13 +511,6 @@
 - [2022-03-09-外企远程工作，但是是外包，可以冲吗？](https://www.v2ex.com/t/839202) ![](assets/new.png)  
 - [2022-03-09-基于-Native.js-实现蓝牙打印问题请教](https://www.v2ex.com/t/839201) ![](assets/new.png)  
 - [2022-03-09-今天是什么情况，所有远程软件都用不了了？](https://www.v2ex.com/t/839200) ![](assets/new.png)  
-- [2022-03-09-看看这个,-腾讯云邀请三个好友关注公众号给你购买资格](https://www.v2ex.com/t/839199) ![](assets/new.png)  
-- [2022-03-09-shell-使用-EOF-解决交互输入时，如何在-EOF-中使用变量？](https://www.v2ex.com/t/839197) ![](assets/new.png)  
-- [2022-03-09-央企内推，职位多多，福利多多，八险二金！](https://www.v2ex.com/t/839194) ![](assets/new.png)  
-- [2022-03-09-推荐一款好用的健身软件](https://www.v2ex.com/t/839192) ![](assets/new.png)  
-- [2022-03-09-深圳宝安的人才房值得租吗？](https://www.v2ex.com/t/839191) ![](assets/new.png)  
-- [2022-03-09-gitlab/github-的-CI/CD-这个功能可以保存文件到-git-仓库吗，比如上传-markdown-文件，自动执行程序解析成-html-文件，然后还是保存在这个仓库里](https://www.v2ex.com/t/839190) ![](assets/new.png)  
-- [2022-03-09-年终奖会写在合同上吗？](https://www.v2ex.com/t/839189) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -559,9 +559,9 @@
 - [2022-03-09-python制作炸弹人小游戏](https://toutiao.io/k/xz30ujj) ![](assets/new.png)  
 - [2022-03-09-服务端渲染SSR-通用技术解决方案](https://toutiao.io/k/mg5jid1) ![](assets/new.png)  
 - [2022-03-09-月收入过亿，中老年大妈最爱，这款全球第1隐物手游如何成功的？](https://toutiao.io/k/hqeqgv9) ![](assets/new.png)  
+- [2022-03-09-京东一面：MySQL-主备延迟有哪些坑？主备切换策略](https://toutiao.io/k/tzvtuoj) ![](assets/new.png)  
 - [2022-03-09-Apriori-关联规则算法（Python代码）](https://toutiao.io/k/cfoo52i) ![](assets/new.png)  
 - [2022-03-09-​Flink-流处理在中信建投证券的实践与应用](https://toutiao.io/k/k9atagg) ![](assets/new.png)  
-- [2022-03-09-京东一面：MySQL-主备延迟有哪些坑？主备切换策略](https://toutiao.io/k/tzvtuoj) ![](assets/new.png)  
 - [2022-03-09-如何愉快地调试-Vue、React源码](https://toutiao.io/k/y8x80qb) ![](assets/new.png)  
 - [2022-03-09-每一个元宇宙、区块链、NFT、DAO从业者都应该深度学习这套课](https://toutiao.io/k/6gbahfs) ![](assets/new.png)  
 - [2022-03-09-今天你设计了吗？](https://toutiao.io/k/vgz5mrm) ![](assets/new.png)  

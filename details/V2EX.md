@@ -1,10 +1,13 @@
-:alarm_clock: 更新时间: 2022-03-09 15:14:05。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-03-09 15:41:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-03-09-菜鸡求教，-BeautifulSoup-处理百度百科数据问题](https://www.v2ex.com/t/839262) 
+- [2022-03-09-百度网盘-PC-版的人呢？新版本在搞毛，自动生成图标还删不掉？](https://www.v2ex.com/t/839261) 
+- [2022-03-09-如何消除-Log-的重复代码？](https://www.v2ex.com/t/839260) 
 - [2022-03-09-手机自动连接上别人的加密热点，可以很肯定这个热点我从来没连过，是啥黑科技吗？](https://www.v2ex.com/t/839259) 
 - [2022-03-09-蓝牙耳机连接手机和电脑音质差别巨大](https://www.v2ex.com/t/839257) 
 - [2022-03-09-税友春招开始啦，我在税友集团帮你内推~](https://www.v2ex.com/t/839256) 
@@ -27,7 +30,6 @@
 - [2022-03-09-杭州-阿里云-ClickHouse-组暑期实习招聘-C++/Go-23-届春招](https://www.v2ex.com/t/839235) 
 - [2022-03-09-升级-menterey-后-airplay-功能怎么没了](https://www.v2ex.com/t/839234) 
 - [2022-03-09-Mac-的-telegram-怎样才能愉快地翻译内容？](https://www.v2ex.com/t/839233) 
-- [2022-03-09-jms-机场全线挂了。。](https://www.v2ex.com/t/839232) 
 - [2022-03-09-求教国行-Xbox-Series-X-什么渠道可以买](https://www.v2ex.com/t/839230) 
 - [2022-03-09-typora-写-markdown-好在哪](https://www.v2ex.com/t/839228) 
 - [2022-03-09-96-年，本科传统工科，天坑研究生毕业，现在纠结于换个另一个天坑专业考博或者毕业后找培训班转码/考个计算机博（还没了解过难度，不知道好不好考](https://www.v2ex.com/t/839227) 
@@ -42,4 +44,3 @@
 - [2022-03-09-请问有没有研究深度学习编译器方向的研究生导师推荐？](https://www.v2ex.com/t/839216) 
 - [2022-03-09-事到如今只能买-MacBook-Air-M1-了，发布会有点失望](https://www.v2ex.com/t/839214) 
 - [2022-03-09-有没有办法-在官方不支持的设备上-强行开启通用控制](https://www.v2ex.com/t/839213) 
-- [2022-03-09-Info-from-https://repo.packagist.org:-#StandWithUkraine](https://www.v2ex.com/t/839211) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-03-09 08:41:52，:rocket: 更新条数: +2023， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-03-09 09:13:03，:rocket: 更新条数: +2023， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -65,13 +65,13 @@
 </summary>
 
 
-- [2022-03-09-3月8日全国新增新冠337例-15省份本土233例](https://m.caixin.com/m/2022-03-09/101852958.html) ![](assets/new.png)  
+- [2022-03-09-最新疫情：全国新冠累计确诊111857例-累计接种新冠疫苗超31.69亿剂次](https://m.caixin.com/m/2022-03-09/101853209.html) ![](assets/new.png)  
 - [2022-03-09-字节跳动办公区现确诊病例-公司深夜组织员工回家](https://companies.caixin.com/m/2022-03-09/101852947.html) ![](assets/new.png)  
+- [2022-03-09-最新海外疫情：新冠感染超4.48亿-累计接种新冠疫苗超108.06亿剂次](https://m.caixin.com/m/2022-03-09/101853206.html) ![](assets/new.png)  
 - [2022-03-09-【境内疫情观察】全国新增322例本土无症状感染者（3月8日）](https://database.caixin.com/m/2022-03-09/101853141.html) ![](assets/new.png)  
 - [2022-03-09-研究称COVID-19或能导致脑异常-马来西亚4月将重新开放边境｜大流行手记（3月8日）](https://m.caixin.com/m/2022-03-09/101853036.html) ![](assets/new.png)  
 - [2022-03-08-香港日增病例呈回落趋势-港大预测5月降至两位数](https://m.caixin.com/m/2022-03-08/101852848.html) ![](assets/new.png)  
 - [2022-03-08-北京新增7例本土确诊-一人曾赴上海团建](https://m.caixin.com/m/2022-03-08/101852668.html) ![](assets/new.png)  
-- [2022-03-08-最新海外疫情：新冠感染超4.46亿-累计接种新冠疫苗超107.87亿剂次](https://m.caixin.com/m/2022-03-08/101852715.html) ![](assets/new.png)  
 - [2022-03-08-北京新增新冠病例涉字节跳动办公区-员工就地隔离过夜](https://m.caixin.com/m/2022-03-08/101852591.html) ![](assets/new.png)  
 - [2022-03-08-深港边境临时搭桥-内地援建香港河套应急医院](https://m.caixin.com/m/2022-03-08/101852776.html) ![](assets/new.png)  
 - [2022-03-08-【境内疫情观察】全国现有确诊病例超4000例（3月7日）](https://database.caixin.com/m/2022-03-08/101852579.html) ![](assets/new.png)  
@@ -491,6 +491,12 @@
 </summary>
 
 
+- [2022-03-09-edge-收藏夹栏切换快捷键问题](https://www.v2ex.com/t/839186) ![](assets/new.png)  
+- [2022-03-09-一个-touch-bar-坏了的-18-年-MacBook-Pro-能卖多少钱？](https://www.v2ex.com/t/839185) ![](assets/new.png)  
+- [2022-03-09-良心云虎年回馈可以买-5-年了](https://www.v2ex.com/t/839184) ![](assets/new.png)  
+- [2022-03-09-todesk-是不是出问题了](https://www.v2ex.com/t/839182) ![](assets/new.png)  
+- [2022-03-09-最近打算换工作，来找的都是大数据分析，正常吗？](https://www.v2ex.com/t/839181) ![](assets/new.png)  
+- [2022-03-09-i7-6700hq-笔记本想加内存-这么老的机器加好内存/坏内存是不是看不出差距了？](https://www.v2ex.com/t/839180) ![](assets/new.png)  
 - [2022-03-09-TCP-上定义一个应用层传输协议,如何确定通信协议最大数据长度?](https://www.v2ex.com/t/839178) ![](assets/new.png)  
 - [2022-03-09-求推荐一款室外摄像头拍小动物](https://www.v2ex.com/t/839177) ![](assets/new.png)  
 - [2022-03-09-m1x-16-mbp-用-apple-music-听歌频繁爆音。你们遇到了么](https://www.v2ex.com/t/839176) ![](assets/new.png)  
@@ -505,12 +511,6 @@
 - [2022-03-09-高度怀疑向日葵在监控硬盘](https://www.v2ex.com/t/839163) ![](assets/new.png)  
 - [2022-03-09-YouTube-车位补充](https://www.v2ex.com/t/839162) ![](assets/new.png)  
 - [2022-03-09-运维咨询业务有前途么](https://www.v2ex.com/t/839161) ![](assets/new.png)  
-- [2022-03-09-前端下载文件从-headers"content-disposition"取-fileName，但是名称显示成问号问题](https://www.v2ex.com/t/839160) ![](assets/new.png)  
-- [2022-03-09-Windows-是如何实现睡眠向休眠切换的？](https://www.v2ex.com/t/839159) ![](assets/new.png)  
-- [2022-03-09-求问:-RabbitMQ-如何获取指定的消息](https://www.v2ex.com/t/839158) ![](assets/new.png)  
-- [2022-03-09-AirPods-充电口突然卡不住充电线了](https://www.v2ex.com/t/839157) ![](assets/new.png)  
-- [2022-03-09-腾讯-腾讯科技社招&&校招大量招人-金三内推专场](https://www.v2ex.com/t/839156) ![](assets/new.png)  
-- [2022-03-09-为什么常见的狗狗猫猫，甚至龙猫等大耳朵动物，耳朵会自己主动躲避触碰？](https://www.v2ex.com/t/839155) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -562,16 +562,16 @@
 - [2022-03-09-Apriori-关联规则算法（Python代码）](https://toutiao.io/k/cfoo52i) ![](assets/new.png)  
 - [2022-03-09-​Flink-流处理在中信建投证券的实践与应用](https://toutiao.io/k/k9atagg) ![](assets/new.png)  
 - [2022-03-09-如何愉快地调试-Vue、React源码](https://toutiao.io/k/y8x80qb) ![](assets/new.png)  
-- [2022-03-09-每一个元宇宙、区块链、NFT、DAO从业者都应该深度学习这套课](https://toutiao.io/k/6gbahfs) ![](assets/new.png)  
 - [2022-03-09-京东一面：MySQL-主备延迟有哪些坑？主备切换策略](https://toutiao.io/k/tzvtuoj) ![](assets/new.png)  
+- [2022-03-09-每一个元宇宙、区块链、NFT、DAO从业者都应该深度学习这套课](https://toutiao.io/k/6gbahfs) ![](assets/new.png)  
 - [2022-03-09-第一个五年，快速到P7获取年薪50w](https://toutiao.io/k/c712tyc) ![](assets/new.png)  
 - [2022-03-09-Go-在-1972-年提交了第一行代码？](https://toutiao.io/k/90htthi) ![](assets/new.png)  
 - [2022-03-09-V8-JS-AOT化的探索与实践](https://toutiao.io/k/r3avybh) ![](assets/new.png)  
 - [2022-03-09-有没有一种简单的方法监控风险和机遇的转化？](https://toutiao.io/k/uz2j06x) ![](assets/new.png)  
 - [2022-03-09-企业安全运营实践：四个阶段实现风险处置的快和准](https://toutiao.io/k/pmih6mn) ![](assets/new.png)  
 - [2022-03-09-今天你设计了吗？](https://toutiao.io/k/vgz5mrm) ![](assets/new.png)  
-- [2022-03-09-设计小姐姐都说好的视觉还原对比利器](https://toutiao.io/k/a6rbb0d) ![](assets/new.png)  
 - [2022-03-09-泛型的类型擦除后，fastjson反序列化时如何还原？](https://toutiao.io/k/divx74c) ![](assets/new.png)  
+- [2022-03-09-设计小姐姐都说好的视觉还原对比利器](https://toutiao.io/k/a6rbb0d) ![](assets/new.png)  
 - [2022-03-09-「1.9W字总结」一份通俗易懂的-TS-教程，入门-+-实战！](https://toutiao.io/k/0fn0zxz) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-03-09 03:13:51，:rocket: 更新条数: +2019， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-03-09 03:40:34，:rocket: 更新条数: +2024， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -67,6 +67,7 @@
 
 - [2022-03-09-3月8日全国新增新冠337例-15省份本土233例](https://m.caixin.com/m/2022-03-09/101852958.html) ![](assets/new.png)  
 - [2022-03-09-字节跳动办公区现确诊病例-公司深夜组织员工回家](https://companies.caixin.com/m/2022-03-09/101852947.html) ![](assets/new.png)  
+- [2022-03-09-研究称COVID-19或能导致脑异常-马来西亚4月将重新开放边境｜大流行手记（3月8日）](https://m.caixin.com/m/2022-03-09/101853036.html) ![](assets/new.png)  
 - [2022-03-08-香港日增病例呈回落趋势-港大预测5月降至两位数](https://m.caixin.com/m/2022-03-08/101852848.html) ![](assets/new.png)  
 - [2022-03-08-北京新增7例本土确诊-一人曾赴上海团建](https://m.caixin.com/m/2022-03-08/101852668.html) ![](assets/new.png)  
 - [2022-03-08-最新海外疫情：新冠感染超4.46亿-累计接种新冠疫苗超107.87亿剂次](https://m.caixin.com/m/2022-03-08/101852715.html) ![](assets/new.png)  
@@ -84,7 +85,6 @@
 - [2022-03-06-山东青岛新增88例确诊-78人为在校学生](https://china.caixin.com/m/2022-03-06/101851448.html) ![](assets/new.png)  
 - [2022-03-06-【境内疫情观察】山东新增88例本土病例（3月5日）](https://database.caixin.com/m/2022-03-06/101851487.html) ![](assets/new.png)  
 - [2022-03-06-车队抗议涌向华盛顿-英国面临手术挤压压力｜大流行手记（3月5日）](https://m.caixin.com/m/2022-03-06/101851444.html) ![](assets/new.png)  
-- [2022-03-05-深圳本轮疫情感染者增至256例-官方辟谣多起“偷渡”传言](https://m.caixin.com/m/2022-03-05/101851328.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -491,6 +491,18 @@
 </summary>
 
 
+- [2022-03-09-腾讯云云函数好用吗？](https://www.v2ex.com/t/839085) ![](assets/new.png)  
+- [2022-03-09-一个创作者小额收款平台](https://www.v2ex.com/t/839084) ![](assets/new.png)  
+- [2022-03-09-求教，二级路由-OpenWrt-通过中继获取的-IPv6-能正常使用，但是外部连不进来](https://www.v2ex.com/t/839083) ![](assets/new.png)  
+- [2022-03-09-TrackPad-换个颜色加价-150-吗？](https://www.v2ex.com/t/839082) ![](assets/new.png)  
+- [2022-03-09-还要再卷，卷到足够优秀-HR-就不会犹豫吗](https://www.v2ex.com/t/839081) ![](assets/new.png)  
+- [2022-03-09-m1-Ultra-48-核-gpu-版本-128G-内存-Geekbench-Compute-的-OpenCL-跑分-77164](https://www.v2ex.com/t/839080) ![](assets/new.png)  
+- [2022-03-09-在前端面试八股中，问到-Promise-时面试官是想听到什么样的答案？](https://www.v2ex.com/t/839079) ![](assets/new.png)  
+- [2022-03-09-Chrome-的-basic-authentication-基本验证，没法自动填写用户名和密码吗？](https://www.v2ex.com/t/839078) ![](assets/new.png)  
+- [2022-03-09-oracle-永久免费云可以跑生产服务不？](https://www.v2ex.com/t/839077) ![](assets/new.png)  
+- [2022-03-09-上海-HC-#元宇宙#智能-AI-虚拟人#UGC+GPT-3#硅谷创业团队#招募移动端开发+UX-设计师#](https://www.v2ex.com/t/839076) ![](assets/new.png)  
+- [2022-03-09-上海硅谷归国创业公司-前端工程师/软件工程师招聘-支持远程](https://www.v2ex.com/t/839075) ![](assets/new.png)  
+- [2022-03-09-Linux-安装-Python-包用到-CMake-编译，总是找不到各种软件包](https://www.v2ex.com/t/839074) ![](assets/new.png)  
 - [2022-03-09-容貌焦虑,求推荐北京的口腔门诊](https://www.v2ex.com/t/839073) ![](assets/new.png)  
 - [2022-03-09-微服务就是把每个数据交换不是非常频繁，并发有较大区别的服务都做成-API-放进不同容器吗？想把一个-ASP.NET-Core-写的网站改造成微服务，这个方案-V-友有什么意...](https://www.v2ex.com/t/839072) ![](assets/new.png)  
 - [2022-03-09-微信现在会自动启动-google-框架](https://www.v2ex.com/t/839071) ![](assets/new.png)  
@@ -499,18 +511,6 @@
 - [2022-03-09-现在有没有-ipv6-tracker-可以推荐下？](https://www.v2ex.com/t/839066) ![](assets/new.png)  
 - [2022-03-09-预测下这波-A-股行情？](https://www.v2ex.com/t/839065) ![](assets/new.png)  
 - [2022-03-09-最近一年大家基金、股票盈利情况](https://www.v2ex.com/t/839064) ![](assets/new.png)  
-- [2022-03-09-offer-各有优点，望大家给点意见](https://www.v2ex.com/t/839063) ![](assets/new.png)  
-- [2022-03-09-上海上海国企直招系统运维](https://www.v2ex.com/t/839061) ![](assets/new.png)  
-- [2022-03-09-gradle-问题](https://www.v2ex.com/t/839060) ![](assets/new.png)  
-- [2022-03-09-关于云游戏的几个疑问](https://www.v2ex.com/t/839059) ![](assets/new.png)  
-- [2022-03-09-有人知道-GitLab-Auto-DevOps-中的-DB_INITIALIZE-如何再次执行吗？](https://www.v2ex.com/t/839058) ![](assets/new.png)  
-- [2022-03-09-苹果发布会上的这个手势是啥意思？rock+cross-finger](https://www.v2ex.com/t/839057) ![](assets/new.png)  
-- [2022-03-09-如果-电脑-不见了，要怎么断开-OneDrive-？](https://www.v2ex.com/t/839055) ![](assets/new.png)  
-- [2022-03-09-分享一部今年的科幻美剧-Severance，里面的关于职场的设计估计很多人会有共鸣。](https://www.v2ex.com/t/839054) ![](assets/new.png)  
-- [2022-03-09-求教,-Swift-引入-.a-库,-类型缺失?](https://www.v2ex.com/t/839053) ![](assets/new.png)  
-- [2022-03-09-Fomir:-又一个表单轮子](https://www.v2ex.com/t/839052) ![](assets/new.png)  
-- [2022-03-09-Photoshop-存储为选择的格式问题](https://www.v2ex.com/t/839050) ![](assets/new.png)  
-- [2022-03-09-面对-M1-MAX-的欧它-fusion-有什么感想？](https://www.v2ex.com/t/839049) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -562,17 +562,17 @@
 - [2022-03-09-月收入过亿，中老年大妈最爱，这款全球第1隐物手游如何成功的？](https://toutiao.io/k/hqeqgv9) ![](assets/new.png)  
 - [2022-03-09-​Flink-流处理在中信建投证券的实践与应用](https://toutiao.io/k/k9atagg) ![](assets/new.png)  
 - [2022-03-09-每一个元宇宙、区块链、NFT、DAO从业者都应该深度学习这套课](https://toutiao.io/k/6gbahfs) ![](assets/new.png)  
-- [2022-03-09-第一个五年，快速到P7获取年薪50w](https://toutiao.io/k/c712tyc) ![](assets/new.png)  
 - [2022-03-09-如何愉快地调试-Vue、React源码](https://toutiao.io/k/y8x80qb) ![](assets/new.png)  
+- [2022-03-09-第一个五年，快速到P7获取年薪50w](https://toutiao.io/k/c712tyc) ![](assets/new.png)  
 - [2022-03-09-Go-在-1972-年提交了第一行代码？](https://toutiao.io/k/90htthi) ![](assets/new.png)  
 - [2022-03-09-企业安全运营实践：四个阶段实现风险处置的快和准](https://toutiao.io/k/pmih6mn) ![](assets/new.png)  
 - [2022-03-09-有没有一种简单的方法监控风险和机遇的转化？](https://toutiao.io/k/uz2j06x) ![](assets/new.png)  
 - [2022-03-09-V8-JS-AOT化的探索与实践](https://toutiao.io/k/r3avybh) ![](assets/new.png)  
-- [2022-03-09-推荐-SpringBoot性能优化大全，贼好使！](https://toutiao.io/k/75br1se) ![](assets/new.png)  
-- [2022-03-09-推荐-Java泛型详解，史上最全图文详解！](https://toutiao.io/k/chtkqxo) ![](assets/new.png)  
-- [2022-03-09-推荐-2万字，详解数据湖，概念、特征、架构、方案、场景以及建湖全过程（建议收藏）](https://toutiao.io/k/vcpzf1w) ![](assets/new.png)  
-- [2022-03-09-推荐-MySQL-团队开发规范](https://toutiao.io/k/qjooigy) ![](assets/new.png)  
 - [2022-03-09-推荐-高并发是一种架构思维模式](https://toutiao.io/k/imslmgz) ![](assets/new.png)  
+- [2022-03-09-推荐-MySQL-团队开发规范](https://toutiao.io/k/qjooigy) ![](assets/new.png)  
+- [2022-03-09-推荐-2万字，详解数据湖，概念、特征、架构、方案、场景以及建湖全过程（建议收藏）](https://toutiao.io/k/vcpzf1w) ![](assets/new.png)  
+- [2022-03-09-推荐-微服务从代码到k8s部署应有尽有大结局（k8s部署）](https://toutiao.io/k/xk3qbvm) ![](assets/new.png)  
+- [2022-03-09-推荐-SpringBoot性能优化大全，贼好使！](https://toutiao.io/k/75br1se) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

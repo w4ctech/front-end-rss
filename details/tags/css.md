@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-03-09 00:47:39。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-03-09 02:12:27。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## CSS
 
@@ -13,5 +13,6 @@
 - [2022-02-12-CSS-:not伪类选择器已支持复杂参数](https://www.zhangxinxu.com/wordpress/2022/02/css-not-pseudo-class-list-argument/) 
 - [2022-01-31-CSS-background背景图标的变色技巧](https://www.zhangxinxu.com/wordpress/2022/01/css-background-image-color/) 
 - [2022-01-14-纯CSS实现未读消息超过100自动显示为99+](https://www.zhangxinxu.com/wordpress/2022/01/css-show-diff-content-according-var/) 
+- [2022-03-09-亚马逊云科技--Serverless-产品架构师-深圳+广州](https://www.v2ex.com/t/839031) 
 - [2022-03-08-苹果新显示器-Apple-Studio-Display](https://www.v2ex.com/t/838999) 
 - [2022-03-08-苹果新出的-studio-display-搭载了-a13，性能约等于骁龙-8gen-1](https://www.v2ex.com/t/838998) 

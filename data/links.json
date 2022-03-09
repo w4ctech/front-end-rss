@@ -9933,6 +9933,31 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "有没有什么 selenium 做网站自动化测试的框架或者现在的其他代码用例工程推荐尼?",
+        "link": "https://www.v2ex.com/t/839271",
+        "date": "2022-03-09"
+      },
+      {
+        "title": "Windows10 下有什么好办法可以只重置驱动而保留其他文件吗？",
+        "link": "https://www.v2ex.com/t/839270",
+        "date": "2022-03-09"
+      },
+      {
+        "title": "update set num=num+1 和 select for update",
+        "link": "https://www.v2ex.com/t/839269",
+        "date": "2022-03-09"
+      },
+      {
+        "title": "为什么网上很少有关于 safari 扩展的开发教程",
+        "link": "https://www.v2ex.com/t/839268",
+        "date": "2022-03-09"
+      },
+      {
+        "title": "有意购买 Studio Display 的需要注意几个问题",
+        "link": "https://www.v2ex.com/t/839267",
+        "date": "2022-03-09"
+      },
+      {
         "title": "有没有打印机 4000 以下支持下面这些功能",
         "link": "https://www.v2ex.com/t/839266",
         "date": "2022-03-09"
@@ -10110,26 +10135,6 @@
       {
         "title": "关于 V2EX 回复的阅读感受和改进建议",
         "link": "https://www.v2ex.com/t/839222",
-        "date": "2022-03-09"
-      },
-      {
-        "title": "高性能 arm pc Linux 类似 m1promax 性能的 CPU 什么时候出现",
-        "link": "https://www.v2ex.com/t/839221",
-        "date": "2022-03-09"
-      },
-      {
-        "title": "有没有类型安全的类似 lodash 的库",
-        "link": "https://www.v2ex.com/t/839220",
-        "date": "2022-03-09"
-      },
-      {
-        "title": "用 Go 写了个微信消息推送的系统，欢迎大家使用",
-        "link": "https://www.v2ex.com/t/839219",
-        "date": "2022-03-09"
-      },
-      {
-        "title": "这种情况怎样批量重命名?(文件名包含的数字减 1)",
-        "link": "https://www.v2ex.com/t/839217",
         "date": "2022-03-09"
       }
     ]
@@ -10352,13 +10357,8 @@
         "date": "2022-03-09"
       },
       {
-        "title": "[推荐] 微服务从代码到k8s部署应有尽有大结局（k8s部署）",
-        "link": "https://toutiao.io/k/xk3qbvm",
-        "date": "2022-03-09"
-      },
-      {
-        "title": "[推荐] 高并发是一种架构思维模式",
-        "link": "https://toutiao.io/k/imslmgz",
+        "title": "[推荐] Java泛型详解，史上最全图文详解！",
+        "link": "https://toutiao.io/k/chtkqxo",
         "date": "2022-03-09"
       },
       {
@@ -10367,8 +10367,13 @@
         "date": "2022-03-09"
       },
       {
-        "title": "[推荐] Java泛型详解，史上最全图文详解！",
-        "link": "https://toutiao.io/k/chtkqxo",
+        "title": "[推荐] 微服务从代码到k8s部署应有尽有大结局（k8s部署）",
+        "link": "https://toutiao.io/k/xk3qbvm",
+        "date": "2022-03-09"
+      },
+      {
+        "title": "[推荐] 高并发是一种架构思维模式",
+        "link": "https://toutiao.io/k/imslmgz",
         "date": "2022-03-09"
       }
     ]

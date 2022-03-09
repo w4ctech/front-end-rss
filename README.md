@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-03-09 16:18:39，:rocket: 更新条数: +2027， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-03-09 16:55:10，:rocket: 更新条数: +2028， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,11 @@
 </summary>
 
 
+- [2022-03-09-有没有什么-selenium-做网站自动化测试的框架或者现在的其他代码用例工程推荐尼?](https://www.v2ex.com/t/839271) ![](assets/new.png)  
+- [2022-03-09-Windows10-下有什么好办法可以只重置驱动而保留其他文件吗？](https://www.v2ex.com/t/839270) ![](assets/new.png)  
+- [2022-03-09-update-set-num=num+1-和-select-for-update](https://www.v2ex.com/t/839269) ![](assets/new.png)  
+- [2022-03-09-为什么网上很少有关于-safari-扩展的开发教程](https://www.v2ex.com/t/839268) ![](assets/new.png)  
+- [2022-03-09-有意购买-Studio-Display-的需要注意几个问题](https://www.v2ex.com/t/839267) ![](assets/new.png)  
 - [2022-03-09-有没有打印机-4000-以下支持下面这些功能](https://www.v2ex.com/t/839266) ![](assets/new.png)  
 - [2022-03-09-有在推上的-EZFIX-扩容过-mac-的朋友嘛](https://www.v2ex.com/t/839265) ![](assets/new.png)  
 - [2022-03-09-Mac-Pro-应该会用-M2-芯片](https://www.v2ex.com/t/839264) ![](assets/new.png)  
@@ -506,11 +511,6 @@
 - [2022-03-09-共享科学上-W](https://www.v2ex.com/t/839251) ![](assets/new.png)  
 - [2022-03-09-花钱买教训，在这里记录一下-机器码修改专家-这个软件是无效软件](https://www.v2ex.com/t/839250) ![](assets/new.png)  
 - [2022-03-09-10g-pon-stick-团购](https://www.v2ex.com/t/839248) ![](assets/new.png)  
-- [2022-03-09-CI/CD-工具比如-Jenkins-是怎么处理某一个步骤的结果并反馈给下一个步骤？](https://www.v2ex.com/t/839247) ![](assets/new.png)  
-- [2022-03-09-突然想去外包了，听说外包到国企-965-不加班](https://www.v2ex.com/t/839246) ![](assets/new.png)  
-- [2022-03-09-新买了-Mac-多屏控制软件-Lunar-Pro，出-4-个车位](https://www.v2ex.com/t/839245) ![](assets/new.png)  
-- [2022-03-09-老头环盾反有点难，大佬能分享经验不？](https://www.v2ex.com/t/839244) ![](assets/new.png)  
-- [2022-03-09-上市公司跳医疗小公司，值不值得](https://www.v2ex.com/t/839243) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

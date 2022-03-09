@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-03-09 09:13:03。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-03-09 09:38:41。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -341,6 +341,7 @@
 
 
 
+- [【V2EX】gitlab/github-的-CI/CD-这个功能可以保存文件到-git-仓库吗，比如上传-markdown-文件，自动执行程序解析成-html-文件，然后还是保存在这个仓库里](https://www.v2ex.com/t/839190)
 - [......【查看更多】......](./details/tags/git-svn.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

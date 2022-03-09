@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-03-09 02:12:27，:rocket: 更新条数: +2015， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-03-09 02:55:26，:rocket: 更新条数: +2017， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,26 +491,26 @@
 </summary>
 
 
-- [2022-03-09-国内实施-IaC-的公司有哪些?](https://www.v2ex.com/t/839036) ![](assets/new.png)  
-- [2022-03-09-求推荐一个好用，样式较美观的生成-API-文档接口的开源工具](https://www.v2ex.com/t/839035) ![](assets/new.png)  
-- [2022-03-09-是不是买了-AppleCare+-后，就算电脑砸烂了也是花-2000-多就能修好或换新？](https://www.v2ex.com/t/839034) ![](assets/new.png)  
-- [2022-03-09-迷茫期被问到职业规划怎么答？](https://www.v2ex.com/t/839032) ![](assets/new.png)  
-- [2022-03-09-亚马逊云科技--Serverless-产品架构师-深圳+广州](https://www.v2ex.com/t/839031) ![](assets/new.png)  
-- [2022-03-09-上海不加班外企-招-Java-，-C++，测试，安卓，高级前端，-devOps，-PMO，帮忙内推也送钱！](https://www.v2ex.com/t/839029) ![](assets/new.png)  
-- [2022-03-09-MacBookPro-显示器的选择](https://www.v2ex.com/t/839028) ![](assets/new.png)  
-- [2022-03-09-13-还是-13mini](https://www.v2ex.com/t/839026) ![](assets/new.png)  
-- [2022-03-09-在校园网内，无论是-ping-还是浏览器都可以通过-ip+端口的形式访问我的宿舍电脑，在外网同样的形式，为什么能-ping-通但是通过浏览器打不开？](https://www.v2ex.com/t/839025) ![](assets/new.png)  
-- [2022-03-09-是不还能再扩-2-个-m1-max，就是年底-mac-pro-用的-cpu](https://www.v2ex.com/t/839024) ![](assets/new.png)  
-- [2022-03-09-求推荐电饭锅](https://www.v2ex.com/t/839023) ![](assets/new.png)  
-- [2022-03-09-十字路口，电动车这样算逆行吗](https://www.v2ex.com/t/839021) ![](assets/new.png)  
-- [2022-03-09-8G-内存的-MacBook-Air，前端设计师用的话性能够吗？](https://www.v2ex.com/t/839019) ![](assets/new.png)  
-- [2022-03-09-macos-Time-Machine-的存储容量的-bug](https://www.v2ex.com/t/839018) ![](assets/new.png)  
-- [2022-03-09-看完发布会，还是-14’mbp-香啊](https://www.v2ex.com/t/839017) ![](assets/new.png)  
-- [2022-03-09-14-寸的-MBP-低配玩-DOTA2-怎么样](https://www.v2ex.com/t/839014) ![](assets/new.png)  
-- [2022-03-09-怎么优雅的解决-员工对线上数据库的访问-考虑多实例、账号权限（只读）、及时创建和收回权限](https://www.v2ex.com/t/839013) ![](assets/new.png)  
-- [2022-03-09-电动车充电器被偷了，有监控，报警有用没](https://www.v2ex.com/t/839012) ![](assets/new.png)  
-- [2022-03-09-腾讯云特惠海外香港新加坡等-2-核-2G30M-一年-149老账号也可上车双核-2G-三年仅-128-两核-4G-三年-192-四核-8G-无限流量三年-89-良心云海外特惠香港新加坡...](https://www.v2ex.com/t/839011) ![](assets/new.png)  
-- [2022-03-09-自荐一个-ZooKeeper-可视化工具，已上架微软商店](https://www.v2ex.com/t/839010) ![](assets/new.png)  
+- [2022-03-09-上海上海国企直招系统运维](https://www.v2ex.com/t/839061) ![](assets/new.png)  
+- [2022-03-09-gradle-问题](https://www.v2ex.com/t/839060) ![](assets/new.png)  
+- [2022-03-09-关于云游戏的几个疑问](https://www.v2ex.com/t/839059) ![](assets/new.png)  
+- [2022-03-09-有人知道-GitLab-Auto-DevOps-中的-DB_INITIALIZE-如何再次执行吗？](https://www.v2ex.com/t/839058) ![](assets/new.png)  
+- [2022-03-09-苹果发布会上的这个手势是啥意思？rock+cross-finger](https://www.v2ex.com/t/839057) ![](assets/new.png)  
+- [2022-03-09-如果-电脑-不见了，要怎么断开-OneDrive-？](https://www.v2ex.com/t/839055) ![](assets/new.png)  
+- [2022-03-09-分享一部今年的科幻美剧-Severance，里面的关于职场的设计估计很多人会有共鸣。](https://www.v2ex.com/t/839054) ![](assets/new.png)  
+- [2022-03-09-求教,-Swift-引入-.a-库,-类型缺失?](https://www.v2ex.com/t/839053) ![](assets/new.png)  
+- [2022-03-09-Fomir:-又一个表单轮子](https://www.v2ex.com/t/839052) ![](assets/new.png)  
+- [2022-03-09-Photoshop-存储为选择的格式问题](https://www.v2ex.com/t/839050) ![](assets/new.png)  
+- [2022-03-09-面对-M1-MAX-的欧它-fusion-有什么感想？](https://www.v2ex.com/t/839049) ![](assets/new.png)  
+- [2022-03-09-iPhone-SE（第三代）发布了，大家会买吗？](https://www.v2ex.com/t/839048) ![](assets/new.png)  
+- [2022-03-09-高并发下订单状态更新](https://www.v2ex.com/t/839046) ![](assets/new.png)  
+- [2022-03-09-关于商城订单系统的疑问](https://www.v2ex.com/t/839045) ![](assets/new.png)  
+- [2022-03-09-现在有黑科技可以把-Macbook-Air-M1-的内存硬盘换成更大的吗？](https://www.v2ex.com/t/839044) ![](assets/new.png)  
+- [2022-03-09-Kivy-终于更新了，自-2020-年-release-后，这次主要还是针对-MacOS-的-ARM-兼容，请问有人深度用过这个框架吗，体验怎样。](https://www.v2ex.com/t/839043) ![](assets/new.png)  
+- [2022-03-09-国企工作-20-年，还剩不到-3-年退休，这种情况是不是只能闷声吃个-N-的补偿了？](https://www.v2ex.com/t/839042) ![](assets/new.png)  
+- [2022-03-09-有始有终记录一次失败的低成本创业实验](https://www.v2ex.com/t/839041) ![](assets/new.png)  
+- [2022-03-09-做了个随机获取-NFT-图片的小程序](https://www.v2ex.com/t/839040) ![](assets/new.png)  
+- [2022-03-09-想体验-promotion，又不想花那么高的价钱，了解一下-iPhone-的黑解](https://www.v2ex.com/t/839039) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -564,15 +564,15 @@
 - [2022-03-09-每一个元宇宙、区块链、NFT、DAO从业者都应该深度学习这套课](https://toutiao.io/k/6gbahfs) ![](assets/new.png)  
 - [2022-03-09-第一个五年，快速到P7获取年薪50w](https://toutiao.io/k/c712tyc) ![](assets/new.png)  
 - [2022-03-09-如何愉快地调试-Vue、React源码](https://toutiao.io/k/y8x80qb) ![](assets/new.png)  
-- [2022-03-09-企业安全运营实践：四个阶段实现风险处置的快和准](https://toutiao.io/k/pmih6mn) ![](assets/new.png)  
-- [2022-03-09-V8-JS-AOT化的探索与实践](https://toutiao.io/k/r3avybh) ![](assets/new.png)  
 - [2022-03-09-Go-在-1972-年提交了第一行代码？](https://toutiao.io/k/90htthi) ![](assets/new.png)  
 - [2022-03-09-有没有一种简单的方法监控风险和机遇的转化？](https://toutiao.io/k/uz2j06x) ![](assets/new.png)  
-- [2022-03-09-推荐-MySQL-团队开发规范](https://toutiao.io/k/qjooigy) ![](assets/new.png)  
+- [2022-03-09-企业安全运营实践：四个阶段实现风险处置的快和准](https://toutiao.io/k/pmih6mn) ![](assets/new.png)  
+- [2022-03-09-V8-JS-AOT化的探索与实践](https://toutiao.io/k/r3avybh) ![](assets/new.png)  
 - [2022-03-09-推荐-2万字，详解数据湖，概念、特征、架构、方案、场景以及建湖全过程（建议收藏）](https://toutiao.io/k/vcpzf1w) ![](assets/new.png)  
-- [2022-03-09-推荐-高并发是一种架构思维模式](https://toutiao.io/k/imslmgz) ![](assets/new.png)  
-- [2022-03-09-推荐-SpringBoot性能优化大全，贼好使！](https://toutiao.io/k/75br1se) ![](assets/new.png)  
 - [2022-03-09-推荐-微服务从代码到k8s部署应有尽有大结局（k8s部署）](https://toutiao.io/k/xk3qbvm) ![](assets/new.png)  
+- [2022-03-09-推荐-Java泛型详解，史上最全图文详解！](https://toutiao.io/k/chtkqxo) ![](assets/new.png)  
+- [2022-03-09-推荐-高并发是一种架构思维模式](https://toutiao.io/k/imslmgz) ![](assets/new.png)  
+- [2022-03-09-推荐-MySQL-团队开发规范](https://toutiao.io/k/qjooigy) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

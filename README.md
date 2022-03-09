@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-03-09 08:15:45，:rocket: 更新条数: +2024， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-03-09 08:41:52，:rocket: 更新条数: +2023， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,14 @@
 </summary>
 
 
+- [2022-03-09-TCP-上定义一个应用层传输协议,如何确定通信协议最大数据长度?](https://www.v2ex.com/t/839178) ![](assets/new.png)  
+- [2022-03-09-求推荐一款室外摄像头拍小动物](https://www.v2ex.com/t/839177) ![](assets/new.png)  
+- [2022-03-09-m1x-16-mbp-用-apple-music-听歌频繁爆音。你们遇到了么](https://www.v2ex.com/t/839176) ![](assets/new.png)  
+- [2022-03-09-华强北-airpods-还是不行](https://www.v2ex.com/t/839175) ![](assets/new.png)  
+- [2022-03-09-挖-K-被-jc-和居委会电话“访问”](https://www.v2ex.com/t/839172) ![](assets/new.png)  
+- [2022-03-09-公司最近离职人有点多，截止初步计算离职率约-15%+，这个算高还是低呢？不知各位老哥所在公司的离职率都是多少？](https://www.v2ex.com/t/839171) ![](assets/new.png)  
+- [2022-03-09-2021-年-我的万元阅读书单与推荐第十四篇](https://www.v2ex.com/t/839170) ![](assets/new.png)  
+- [2022-03-09-我们做了一个-iOS-桌面图标工具：小捷径，欢迎大家来试试！](https://www.v2ex.com/t/839168) ![](assets/new.png)  
 - [2022-03-09-求助-macOS-12-的-Podcasts-下载的视频、音频存放在哪里？](https://www.v2ex.com/t/839167) ![](assets/new.png)  
 - [2022-03-09-现有的-M1-MBP-Max-用户能帮忙测试一下么？](https://www.v2ex.com/t/839166) ![](assets/new.png)  
 - [2022-03-09-北京/上海/深圳/杭州/西安-华为-2012-实验室中央软件院网络协议实验室诚聘软件英才](https://www.v2ex.com/t/839164) ![](assets/new.png)  
@@ -503,14 +511,6 @@
 - [2022-03-09-AirPods-充电口突然卡不住充电线了](https://www.v2ex.com/t/839157) ![](assets/new.png)  
 - [2022-03-09-腾讯-腾讯科技社招&&校招大量招人-金三内推专场](https://www.v2ex.com/t/839156) ![](assets/new.png)  
 - [2022-03-09-为什么常见的狗狗猫猫，甚至龙猫等大耳朵动物，耳朵会自己主动躲避触碰？](https://www.v2ex.com/t/839155) ![](assets/new.png)  
-- [2022-03-09-深圳的朋友，辅城坳科目三周末考试吗？](https://www.v2ex.com/t/839154) ![](assets/new.png)  
-- [2022-03-09-新加坡技术移民机会-知名互联网公司，招前端开发，后端开发（不限开发语言），移动端（iOS,安卓,-RN），运维及运维开发/DevOps-/SRE-和-DBA-及大数据开发等...](https://www.v2ex.com/t/839152) ![](assets/new.png)  
-- [2022-03-09-软路由总是自己关机会是什么原因呢](https://www.v2ex.com/t/839148) ![](assets/new.png)  
-- [2022-03-09-能用-vue-写个独立的-js-文件供第三方用么？](https://www.v2ex.com/t/839147) ![](assets/new.png)  
-- [2022-03-09-最近求职,总碰壁,来-v2-试试,-顺带求大佬指点一下.](https://www.v2ex.com/t/839146) ![](assets/new.png)  
-- [2022-03-09-分享一个交叉表组件-AntV/S2](https://www.v2ex.com/t/839144) ![](assets/new.png)  
-- [2022-03-09-看完了苹果-2022-的发布会，想入手-mac-studio，先问哪里价格有优惠？](https://www.v2ex.com/t/839143) ![](assets/new.png)  
-- [2022-03-09-有没有指数涨跌提醒的-app?](https://www.v2ex.com/t/839141) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -563,15 +563,15 @@
 - [2022-03-09-​Flink-流处理在中信建投证券的实践与应用](https://toutiao.io/k/k9atagg) ![](assets/new.png)  
 - [2022-03-09-如何愉快地调试-Vue、React源码](https://toutiao.io/k/y8x80qb) ![](assets/new.png)  
 - [2022-03-09-每一个元宇宙、区块链、NFT、DAO从业者都应该深度学习这套课](https://toutiao.io/k/6gbahfs) ![](assets/new.png)  
+- [2022-03-09-京东一面：MySQL-主备延迟有哪些坑？主备切换策略](https://toutiao.io/k/tzvtuoj) ![](assets/new.png)  
 - [2022-03-09-第一个五年，快速到P7获取年薪50w](https://toutiao.io/k/c712tyc) ![](assets/new.png)  
 - [2022-03-09-Go-在-1972-年提交了第一行代码？](https://toutiao.io/k/90htthi) ![](assets/new.png)  
 - [2022-03-09-V8-JS-AOT化的探索与实践](https://toutiao.io/k/r3avybh) ![](assets/new.png)  
-- [2022-03-09-京东一面：MySQL-主备延迟有哪些坑？主备切换策略](https://toutiao.io/k/tzvtuoj) ![](assets/new.png)  
 - [2022-03-09-有没有一种简单的方法监控风险和机遇的转化？](https://toutiao.io/k/uz2j06x) ![](assets/new.png)  
 - [2022-03-09-企业安全运营实践：四个阶段实现风险处置的快和准](https://toutiao.io/k/pmih6mn) ![](assets/new.png)  
 - [2022-03-09-今天你设计了吗？](https://toutiao.io/k/vgz5mrm) ![](assets/new.png)  
-- [2022-03-09-泛型的类型擦除后，fastjson反序列化时如何还原？](https://toutiao.io/k/divx74c) ![](assets/new.png)  
 - [2022-03-09-设计小姐姐都说好的视觉还原对比利器](https://toutiao.io/k/a6rbb0d) ![](assets/new.png)  
+- [2022-03-09-泛型的类型擦除后，fastjson反序列化时如何还原？](https://toutiao.io/k/divx74c) ![](assets/new.png)  
 - [2022-03-09-「1.9W字总结」一份通俗易懂的-TS-教程，入门-+-实战！](https://toutiao.io/k/0fn0zxz) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

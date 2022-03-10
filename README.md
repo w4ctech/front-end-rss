@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-03-10 21:12:32，:rocket: 更新条数: +2027， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-03-10 21:37:37，:rocket: 更新条数: +2028， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-03-10-TA-工资该怎么花？](https://www.v2ex.com/t/839557) ![](assets/new.png)  
 - [2022-03-10-Steam-on-macOS-中文-UI-缺失？](https://www.v2ex.com/t/839556) ![](assets/new.png)  
 - [2022-03-10-linuxserver.io-的镜像比官方的要好吗？](https://www.v2ex.com/t/839555) ![](assets/new.png)  
 - [2022-03-10-MacBook-电池在（充满电）插电使用一两天后，电池会逐渐掉落到-80%，是正常的吗？](https://www.v2ex.com/t/839554) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-03-10-gmail-不让发邮件怎么办？](https://www.v2ex.com/t/839532) ![](assets/new.png)  
 - [2022-03-10-建行颠覆了我对信用卡的认知。。。](https://www.v2ex.com/t/839530) ![](assets/new.png)  
 - [2022-03-10-ubuntu-20.04-升级内核到-v5.16.13-在启动和配置防火墙的时候一堆-bpfilter:read-fail-0](https://www.v2ex.com/t/839529) ![](assets/new.png)  
-- [2022-03-10-旁理由设置](https://www.v2ex.com/t/839528) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

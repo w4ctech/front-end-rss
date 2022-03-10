@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-03-10 11:36:13。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-03-10 12:21:27。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -353,10 +353,10 @@
 
 
 
+- [【V2EX】阿里巴巴-B2C-零售---2023-年实习生招聘---HC-多流程快，拿-offer-送数码大礼品，随时跟进](https://www.v2ex.com/t/839511)
 - [【V2EX】下厨房-WLB-北京-iOS-工程师/实习生招聘](https://www.v2ex.com/t/839489)
 - [【V2EX】求一枚区块链开发大佬！后端-Golang-开发招聘！-Base-深圳-1.5-5-年工作经验即可](https://www.v2ex.com/t/839478)
 - [【V2EX】分享最近面试的情况-电力业务相关](https://www.v2ex.com/t/839469)
-- [【V2EX】阿里巴巴-淘系技术部2023-届实习生招聘～](https://www.v2ex.com/t/839456)
 - [【开发者头条】某中型公司面试原题](https://toutiao.io/k/k46pzgf)
 - [......【查看更多】......](./details/tags/job-interview.md)
 

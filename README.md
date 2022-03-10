@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-03-10 12:59:07，:rocket: 更新条数: +2029， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-03-10 13:22:08，:rocket: 更新条数: +2029， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -565,8 +565,8 @@
 - [2022-03-10-需求分析首要的是分析业务而非技术](https://toutiao.io/k/kybw1na) ![](assets/new.png)  
 - [2022-03-10-谷维：快手如何提升数据化管理效率？](https://toutiao.io/k/6dc86p6) ![](assets/new.png)  
 - [2022-03-10-某中型公司面试原题](https://toutiao.io/k/k46pzgf) ![](assets/new.png)  
-- [2022-03-10-OpenPPL-支持作为-NVIDIA-Triton-后端提供-Serving-功能](https://toutiao.io/k/63kxm62) ![](assets/new.png)  
 - [2022-03-10-源码Lua垃圾回收详解](https://toutiao.io/k/gzvpbp8) ![](assets/new.png)  
+- [2022-03-10-OpenPPL-支持作为-NVIDIA-Triton-后端提供-Serving-功能](https://toutiao.io/k/63kxm62) ![](assets/new.png)  
 - [2022-03-10-基于电商业务中台最佳实践：总体架构介绍与交易业务中台核心设计](https://toutiao.io/k/jkpwyi3) ![](assets/new.png)  
 - [2022-03-10-JavaScript-新增两个原始数据类型](https://toutiao.io/k/poua5x4) ![](assets/new.png)  
 - [2022-03-10-Go-设计哲学：少即是多，哪里来的？](https://toutiao.io/k/u5kjrn3) ![](assets/new.png)  

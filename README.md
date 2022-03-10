@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-03-10 16:55:34，:rocket: 更新条数: +2027， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-03-10 17:15:07，:rocket: 更新条数: +2027， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-03-10-MacBook-电池在（充满电）插电使用一两天后，电池会逐渐掉落到-80%，是正常的吗？](https://www.v2ex.com/t/839554) ![](assets/new.png)  
+- [2022-03-10-max16-mbp-扬声器噼啪声太严重了。外网好多人都遇到了](https://www.v2ex.com/t/839553) ![](assets/new.png)  
 - [2022-03-10-苏康码个人信息泄漏](https://www.v2ex.com/t/839552) ![](assets/new.png)  
 - [2022-03-10-复杂网络下-Speedtest-识别问题](https://www.v2ex.com/t/839551) ![](assets/new.png)  
 - [2022-03-10-JetBrains-IDE-使用-docker-toolchain-的时候怎么批量运行-Google-Test-呢？不知道怎么才能在-docker-toolchain-里面运行脚本](https://www.v2ex.com/t/839550) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-03-10-建行颠覆了我对信用卡的认知。。。](https://www.v2ex.com/t/839530) ![](assets/new.png)  
 - [2022-03-10-ubuntu-20.04-升级内核到-v5.16.13-在启动和配置防火墙的时候一堆-bpfilter:read-fail-0](https://www.v2ex.com/t/839529) ![](assets/new.png)  
 - [2022-03-10-旁理由设置](https://www.v2ex.com/t/839528) ![](assets/new.png)  
-- [2022-03-10-为什么现在没有校内社交网站了呢](https://www.v2ex.com/t/839527) ![](assets/new.png)  
-- [2022-03-10-知更鸟鸣要关停了，寻替代方案](https://www.v2ex.com/t/839526) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

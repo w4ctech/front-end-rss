@@ -11,11 +11,11 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-03-10 11:12:30，:rocket: 更新条数: +92， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-03-10 11:36:13，:rocket: 更新条数: +2027， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
@@ -65,6 +65,26 @@
 </summary>
 
 
+- [2022-03-10-最新疫情：全国新冠累计确诊112385例-累计接种新冠疫苗超31.74亿剂次](https://m.caixin.com/m/2022-03-10/101853748.html) ![](assets/new.png)  
+- [2022-03-10-广州新增1例新冠确诊病例-疾控中心专家称防控形势严峻](https://m.caixin.com/m/2022-03-10/101853835.html) ![](assets/new.png)  
+- [2022-03-10-新加坡官员：本地奥密克戎疫情已过峰值开始消退](https://m.caixin.com/m/2022-03-10/101853827.html) ![](assets/new.png)  
+- [2022-03-10-最新海外疫情：新冠感染超4.5亿-累计接种新冠疫苗超108.2亿剂次](https://m.caixin.com/m/2022-03-10/101853753.html) ![](assets/new.png)  
+- [2022-03-10-【境内疫情观察】全国新增402例本土病例、435例本土无症状感染者（3月9日）](https://database.caixin.com/m/2022-03-10/101853636.html) ![](assets/new.png)  
+- [2022-03-10-香港调整抗疫策略-辉瑞口服药确定在华合作伙伴｜大流行手记（3月9日）](https://m.caixin.com/m/2022-03-10/101853553.html) ![](assets/new.png)  
+- [2022-03-09-一小学被列为中风险地区-上海加强线上教学资源](https://m.caixin.com/m/2022-03-09/101853329.html) ![](assets/new.png)  
+- [2022-03-09-香港调整抗疫策略-全民检测或将推迟](https://m.caixin.com/m/2022-03-09/101853319.html) ![](assets/new.png)  
+- [2022-03-09-字节跳动办公区现确诊病例-公司深夜组织员工回家](https://companies.caixin.com/m/2022-03-09/101852947.html) ![](assets/new.png)  
+- [2022-03-09-【境内疫情观察】全国新增322例本土无症状感染者（3月8日）](https://database.caixin.com/m/2022-03-09/101853141.html) ![](assets/new.png)  
+- [2022-03-09-研究称COVID-19或能导致脑异常-马来西亚4月将重新开放边境｜大流行手记（3月8日）](https://m.caixin.com/m/2022-03-09/101853036.html) ![](assets/new.png)  
+- [2022-03-08-北京新增7例本土确诊-一人曾赴上海团建](https://m.caixin.com/m/2022-03-08/101852668.html) ![](assets/new.png)  
+- [2022-03-08-香港日增病例呈回落趋势-港大预测5月降至两位数](https://m.caixin.com/m/2022-03-08/101852848.html) ![](assets/new.png)  
+- [2022-03-08-北京新增新冠病例涉字节跳动办公区-员工就地隔离过夜](https://m.caixin.com/m/2022-03-08/101852591.html) ![](assets/new.png)  
+- [2022-03-08-深港边境临时搭桥-内地援建香港河套应急医院](https://m.caixin.com/m/2022-03-08/101852776.html) ![](assets/new.png)  
+- [2022-03-08-【境内疫情观察】全国现有确诊病例超4000例（3月7日）](https://database.caixin.com/m/2022-03-08/101852579.html) ![](assets/new.png)  
+- [2022-03-08-研究发现新冠重症患者特殊基因-全球死亡病例超600万｜大流行手记（3月7日）](https://m.caixin.com/m/2022-03-08/101852426.html) ![](assets/new.png)  
+- [2022-03-07-广东惠州基层防疫扑杀宠物狗-街道致歉涉事者停职](https://m.caixin.com/m/2022-03-07/101851565.html) ![](assets/new.png)  
+- [2022-03-07-【境内疫情观察】全国新增214例本土病例（3月6日）](https://database.caixin.com/m/2022-03-07/101851858.html) ![](assets/new.png)  
+- [2022-03-07-苏格兰为弱势群体打第四针-印度尼西亚再放宽旅行限制｜大流行手记（3月6日）](https://m.caixin.com/m/2022-03-07/101851699.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -471,6 +491,8 @@
 </summary>
 
 
+- [2022-03-10-$推广=array"埋点系统"=>"铸龙用户行为分析系统";](https://www.v2ex.com/t/839502) ![](assets/new.png)  
+- [2022-03-10-腾讯云直接删服务器吞域名，国内服务商太可怕了，躲远点吧。](https://www.v2ex.com/t/839500) ![](assets/new.png)  
 - [2022-03-10-自定义指标查询，有什么好的实现方法？](https://www.v2ex.com/t/839499) ![](assets/new.png)  
 - [2022-03-10-你们用什么浏览器？](https://www.v2ex.com/t/839498) ![](assets/new.png)  
 - [2022-03-10-有人走银行渠道开过微信支付商家吗？商户全称能修改吗？](https://www.v2ex.com/t/839495) ![](assets/new.png)  
@@ -489,8 +511,6 @@
 - [2022-03-10-求一枚区块链开发大佬！后端-Golang-开发招聘！-Base-深圳-1.5-5-年工作经验即可](https://www.v2ex.com/t/839478) ![](assets/new.png)  
 - [2022-03-10-变量之和的期望值-EA+B的含义究竟是什么？](https://www.v2ex.com/t/839477) ![](assets/new.png)  
 - [2022-03-10-macos-如何替换-三指翻译功能（即-macos-自带词典）为第三方软件的查词功能？](https://www.v2ex.com/t/839476) ![](assets/new.png)  
-- [2022-03-10-请问前辈们，学习用，-4G-内存的云服务器能启动一整套如下的系统吗？](https://www.v2ex.com/t/839474) ![](assets/new.png)  
-- [2022-03-10-react-下如何读取文件arrarybuffer给-video-控件播放?](https://www.v2ex.com/t/839473) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -539,10 +559,10 @@
 - [2022-03-10-开源｜开发者不需要写一行代码，就可以拥有-10-倍生产力！](https://toutiao.io/k/fiqzd4b) ![](assets/new.png)  
 - [2022-03-10-用魔法打败魔法？！俄罗斯解封盗版资源站RuTracker](https://toutiao.io/k/h3ebcl5) ![](assets/new.png)  
 - [2022-03-10-MySQL命名、设计及使用规范](https://toutiao.io/k/s4i3m9a) ![](assets/new.png)  
-- [2022-03-10-Python监控小姐姐/小哥哥微博，了解一下？](https://toutiao.io/k/ag0wyrr) ![](assets/new.png)  
 - [2022-03-10-50000字，数仓建设保姆级教程，离线和实时一网打尽理论+实战-上](https://toutiao.io/k/s8hu2au) ![](assets/new.png)  
-- [2022-03-10-需求分析首要的是分析业务而非技术](https://toutiao.io/k/kybw1na) ![](assets/new.png)  
+- [2022-03-10-Python监控小姐姐/小哥哥微博，了解一下？](https://toutiao.io/k/ag0wyrr) ![](assets/new.png)  
 - [2022-03-10-实现自适应卡片布局](https://toutiao.io/k/9c6052g) ![](assets/new.png)  
+- [2022-03-10-需求分析首要的是分析业务而非技术](https://toutiao.io/k/kybw1na) ![](assets/new.png)  
 - [2022-03-10-OpenPPL-支持作为-NVIDIA-Triton-后端提供-Serving-功能](https://toutiao.io/k/63kxm62) ![](assets/new.png)  
 - [2022-03-10-谷维：快手如何提升数据化管理效率？](https://toutiao.io/k/6dc86p6) ![](assets/new.png)  
 - [2022-03-10-某中型公司面试原题](https://toutiao.io/k/k46pzgf) ![](assets/new.png)  

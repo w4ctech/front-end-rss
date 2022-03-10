@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-03-10 18:15:51。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-03-10 18:44:10。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -201,11 +201,11 @@
 - [【开发者头条】2022-03-10-工程设计论——如何写好工程代码](https://toutiao.io/k/yl7cm7e) 
 - [【开发者头条】2022-03-10-vivo鲁班RocketMQ平台的消息灰度方案](https://toutiao.io/k/m7je57r) 
 - [【开发者头条】2022-03-10-通过断点技巧让调试更高效](https://toutiao.io/k/07gnsj7) 
+- [【开发者头条】2022-03-10-推荐-MySQL-团队开发规范](https://toutiao.io/k/qjooigy) 
 - [【开发者头条】2022-03-10-推荐-微服务从代码到k8s部署应有尽有大结局（k8s部署）](https://toutiao.io/k/xk3qbvm) 
 - [【开发者头条】2022-03-10-推荐-微服务如何划分](https://toutiao.io/k/f4vabj7) 
-- [【开发者头条】2022-03-10-推荐-Java泛型详解，史上最全图文详解！](https://toutiao.io/k/chtkqxo) 
 - [【开发者头条】2022-03-10-推荐-高并发是一种架构思维模式](https://toutiao.io/k/imslmgz) 
-- [【开发者头条】2022-03-10-推荐-MySQL-团队开发规范](https://toutiao.io/k/qjooigy) 
+- [【开发者头条】2022-03-10-推荐-Java泛型详解，史上最全图文详解！](https://toutiao.io/k/chtkqxo) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

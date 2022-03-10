@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-03-10 23:13:39，:rocket: 更新条数: +2028， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-03-10 23:38:36，:rocket: 更新条数: +2008， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,9 @@
 </summary>
 
 
+- [2022-03-10-MongoDB-有和-Mybatis-collections-相同效果的查询方式么？](https://www.v2ex.com/t/839562) ![](assets/new.png)  
+- [2022-03-10-两个月时间抽空从前端的角度总结了一下设计模式](https://www.v2ex.com/t/839561) ![](assets/new.png)  
+- [2022-03-10-请问世界上有-16：-10-的-27-寸-2k-或-4k-显示器吗？](https://www.v2ex.com/t/839560) ![](assets/new.png)  
 - [2022-03-10-iPhone-SE第三代发布了，看来我的-iPhone-SE-2-还能再战三年。。](https://www.v2ex.com/t/839559) ![](assets/new.png)  
 - [2022-03-10-打算上-kw-v3](https://www.v2ex.com/t/839558) ![](assets/new.png)  
 - [2022-03-10-TA-工资该怎么花？](https://www.v2ex.com/t/839557) ![](assets/new.png)  
@@ -508,9 +511,6 @@
 - [2022-03-10-你们是怎么实现-rate-limiting-的？](https://www.v2ex.com/t/839542) ![](assets/new.png)  
 - [2022-03-10-老生常谈-apple-13mini-无线充电](https://www.v2ex.com/t/839541) ![](assets/new.png)  
 - [2022-03-10-求助各位大佬-2014-Macbook-Pro-更换-SSD-后-功耗奇高](https://www.v2ex.com/t/839540) ![](assets/new.png)  
-- [2022-03-10-不懂就问，丰巢扫码取件之后打开推广页是怎么实现的？](https://www.v2ex.com/t/839535) ![](assets/new.png)  
-- [2022-03-10-新版-Mac-Mini-将会有-M2-和-M2-Pro-两个版本](https://www.v2ex.com/t/839533) ![](assets/new.png)  
-- [2022-03-10-gmail-不让发邮件怎么办？](https://www.v2ex.com/t/839532) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -553,26 +553,12 @@
 </summary>
 
 
-- [2022-03-10-说透分布式事务](https://toutiao.io/k/kx3ajgy) ![](assets/new.png)  
-- [2022-03-10-使用Gin过程中的一些优化](https://toutiao.io/k/oaxpllk) ![](assets/new.png)  
-- [2022-03-10-开源｜开发者不需要写一行代码，就可以拥有-10-倍生产力！](https://toutiao.io/k/fiqzd4b) ![](assets/new.png)  
-- [2022-03-10-深入解读SQL优化中的执行计划](https://toutiao.io/k/dgc70dw) ![](assets/new.png)  
-- [2022-03-10-用魔法打败魔法？！俄罗斯解封盗版资源站RuTracker](https://toutiao.io/k/h3ebcl5) ![](assets/new.png)  
-- [2022-03-10-MySQL命名、设计及使用规范](https://toutiao.io/k/s4i3m9a) ![](assets/new.png)  
-- [2022-03-10-50000字，数仓建设保姆级教程，离线和实时一网打尽理论+实战-上](https://toutiao.io/k/s8hu2au) ![](assets/new.png)  
-- [2022-03-10-Python监控小姐姐/小哥哥微博，了解一下？](https://toutiao.io/k/ag0wyrr) ![](assets/new.png)  
-- [2022-03-10-实现自适应卡片布局](https://toutiao.io/k/9c6052g) ![](assets/new.png)  
-- [2022-03-10-需求分析首要的是分析业务而非技术](https://toutiao.io/k/kybw1na) ![](assets/new.png)  
-- [2022-03-10-谷维：快手如何提升数据化管理效率？](https://toutiao.io/k/6dc86p6) ![](assets/new.png)  
-- [2022-03-10-某中型公司面试原题](https://toutiao.io/k/k46pzgf) ![](assets/new.png)  
-- [2022-03-10-源码Lua垃圾回收详解](https://toutiao.io/k/gzvpbp8) ![](assets/new.png)  
-- [2022-03-10-电商搜索业务介绍](https://toutiao.io/k/ufqrdpm) ![](assets/new.png)  
-- [2022-03-10-OpenPPL-支持作为-NVIDIA-Triton-后端提供-Serving-功能](https://toutiao.io/k/63kxm62) ![](assets/new.png)  
-- [2022-03-10-基于电商业务中台最佳实践：总体架构介绍与交易业务中台核心设计](https://toutiao.io/k/jkpwyi3) ![](assets/new.png)  
-- [2022-03-10-JavaScript-新增两个原始数据类型](https://toutiao.io/k/poua5x4) ![](assets/new.png)  
-- [2022-03-10-关于防御性编程，你应该知道的事](https://toutiao.io/k/fum2p87) ![](assets/new.png)  
-- [2022-03-10-工程设计论——如何写好工程代码](https://toutiao.io/k/yl7cm7e) ![](assets/new.png)  
-- [2022-03-10-Go-设计哲学：少即是多，哪里来的？](https://toutiao.io/k/u5kjrn3) ![](assets/new.png)  
+- [2022-03-10-成为更好的开发者！行动起来！](https://toutiao.io/k/bcodelm) ![](assets/new.png)  
+- [2022-03-10-推荐-微服务从代码到k8s部署应有尽有大结局（k8s部署）](https://toutiao.io/k/xk3qbvm) ![](assets/new.png)  
+- [2022-03-10-推荐-高并发是一种架构思维模式](https://toutiao.io/k/imslmgz) ![](assets/new.png)  
+- [2022-03-10-推荐-微服务如何划分](https://toutiao.io/k/f4vabj7) ![](assets/new.png)  
+- [2022-03-10-推荐-Java泛型详解，史上最全图文详解！](https://toutiao.io/k/chtkqxo) ![](assets/new.png)  
+- [2022-03-10-推荐-MySQL-团队开发规范](https://toutiao.io/k/qjooigy) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

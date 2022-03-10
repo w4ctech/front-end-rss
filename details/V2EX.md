@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-03-10 19:36:29。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-03-10 20:14:32。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
@@ -19,7 +19,6 @@
 - [2022-03-10-老生常谈-apple-13mini-无线充电](https://www.v2ex.com/t/839541) 
 - [2022-03-10-求助各位大佬-2014-Macbook-Pro-更换-SSD-后-功耗奇高](https://www.v2ex.com/t/839540) 
 - [2022-03-10-不懂就问，丰巢扫码取件之后打开推广页是怎么实现的？](https://www.v2ex.com/t/839535) 
-- [2022-03-10-上海疫情地图](https://www.v2ex.com/t/839534) 
 - [2022-03-10-新版-Mac-Mini-将会有-M2-和-M2-Pro-两个版本](https://www.v2ex.com/t/839533) 
 - [2022-03-10-gmail-不让发邮件怎么办？](https://www.v2ex.com/t/839532) 
 - [2022-03-10-建行颠覆了我对信用卡的认知。。。](https://www.v2ex.com/t/839530) 

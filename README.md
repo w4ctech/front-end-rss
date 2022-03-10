@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-03-10 19:36:29，:rocket: 更新条数: +2027， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-03-10 20:14:32，:rocket: 更新条数: +2026， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -505,12 +505,12 @@
 - [2022-03-10-老生常谈-apple-13mini-无线充电](https://www.v2ex.com/t/839541) ![](assets/new.png)  
 - [2022-03-10-求助各位大佬-2014-Macbook-Pro-更换-SSD-后-功耗奇高](https://www.v2ex.com/t/839540) ![](assets/new.png)  
 - [2022-03-10-不懂就问，丰巢扫码取件之后打开推广页是怎么实现的？](https://www.v2ex.com/t/839535) ![](assets/new.png)  
-- [2022-03-10-上海疫情地图](https://www.v2ex.com/t/839534) ![](assets/new.png)  
 - [2022-03-10-新版-Mac-Mini-将会有-M2-和-M2-Pro-两个版本](https://www.v2ex.com/t/839533) ![](assets/new.png)  
 - [2022-03-10-gmail-不让发邮件怎么办？](https://www.v2ex.com/t/839532) ![](assets/new.png)  
 - [2022-03-10-建行颠覆了我对信用卡的认知。。。](https://www.v2ex.com/t/839530) ![](assets/new.png)  
 - [2022-03-10-ubuntu-20.04-升级内核到-v5.16.13-在启动和配置防火墙的时候一堆-bpfilter:read-fail-0](https://www.v2ex.com/t/839529) ![](assets/new.png)  
 - [2022-03-10-旁理由设置](https://www.v2ex.com/t/839528) ![](assets/new.png)  
+- [2022-03-10-为什么现在没有校内社交网站了呢](https://www.v2ex.com/t/839527) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-03-11 18:16:23，:rocket: 更新条数: +2025， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-03-11 18:43:36，:rocket: 更新条数: +2025， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -571,8 +571,8 @@
 - [2022-03-11-高手过招不用鼠标，一款超好用的跨平台命令行界面库](https://toutiao.io/k/zc9bzj3) ![](assets/new.png)  
 - [2022-03-11-【实战】ASP.NET-Core-6-部署在-ARM-树莓派实现-DDNS-和网络唤醒](https://toutiao.io/k/pdcgnw3) ![](assets/new.png)  
 - [2022-03-11-去哪儿网核心领域DevOps落地实践](https://toutiao.io/k/t7xl35j) ![](assets/new.png)  
-- [2022-03-11-PPQ-~-OpenPPL-之多平台量化部署工具来啦！](https://toutiao.io/k/craf7go) ![](assets/new.png)  
 - [2022-03-11-贝壳大数据任务调度DAG体系设计实践](https://toutiao.io/k/acp1uob) ![](assets/new.png)  
+- [2022-03-11-PPQ-~-OpenPPL-之多平台量化部署工具来啦！](https://toutiao.io/k/craf7go) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

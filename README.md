@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-03-11 17:39:00，:rocket: 更新条数: +2024， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-03-11 18:16:23，:rocket: 更新条数: +2025， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-03-11-有熟悉微信广告投放的朋友吗？](https://www.v2ex.com/t/839787) ![](assets/new.png)  
 - [2022-03-11-求-chrome-收藏夹插件：添加书签到此文件夹](https://www.v2ex.com/t/839784) ![](assets/new.png)  
 - [2022-03-11-有用红米-AX6-刷-openwrt-的吗？刷完信号怎么样？](https://www.v2ex.com/t/839780) ![](assets/new.png)  
 - [2022-03-11-Slackware-15.0](https://www.v2ex.com/t/839779) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-03-11-小舒同学是怎么帮助我学习，卷死舍友的？](https://www.v2ex.com/t/839763) ![](assets/new.png)  
 - [2022-03-11-国外稚晖君？太厉害了！](https://www.v2ex.com/t/839762) ![](assets/new.png)  
 - [2022-03-11-魔都这次被打脸了吧](https://www.v2ex.com/t/839761) ![](assets/new.png)  
-- [2022-03-11-阿里云-新加坡-ECS-可以弄代理啥的吗？](https://www.v2ex.com/t/839760) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-03-11 02:14:47，:rocket: 更新条数: +2021， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-03-11 02:58:08，:rocket: 更新条数: +2015， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,26 +491,26 @@
 </summary>
 
 
+- [2022-03-11-Marin-Software-知名美资硅谷软件公司-中国工作机会-可以远程在家办公，英语熟练](https://www.v2ex.com/t/839618) ![](assets/new.png)  
+- [2022-03-11-关于我的域名被删除的教训](https://www.v2ex.com/t/839617) ![](assets/new.png)  
+- [2022-03-11-2022-年-chrome-内核的-windows-浏览器哪个值得推荐？](https://www.v2ex.com/t/839613) ![](assets/new.png)  
+- [2022-03-11-请问有必要买-macbookair-教育优惠版么？能便宜多少啊？](https://www.v2ex.com/t/839612) ![](assets/new.png)  
+- [2022-03-11-求推荐能用的-2k-或者-4k-屏，预算-800，考虑二手！](https://www.v2ex.com/t/839611) ![](assets/new.png)  
+- [2022-03-11-Vue-有啥办法调用-React-写的组件吗?](https://www.v2ex.com/t/839610) ![](assets/new.png)  
+- [2022-03-11-跌麻了](https://www.v2ex.com/t/839607) ![](assets/new.png)  
+- [2022-03-11-上海-紫竹-实习-·-急招-Intel-Cloud-Solution-Engineer-Intern](https://www.v2ex.com/t/839606) ![](assets/new.png)  
+- [2022-03-11-谷歌云香港-IP，来测一波速？](https://www.v2ex.com/t/839605) ![](assets/new.png)  
+- [2022-03-11-患干燥症的那位兄台请别轻言放弃](https://www.v2ex.com/t/839603) ![](assets/new.png)  
+- [2022-03-11-各位在提薪资要求时，会明确薪资种类吗？](https://www.v2ex.com/t/839602) ![](assets/new.png)  
+- [2022-03-11-不当程序员了，改行当了书法老师，工资低了但更快乐了](https://www.v2ex.com/t/839599) ![](assets/new.png)  
+- [2022-03-11-辞职考研社保问题求助](https://www.v2ex.com/t/839597) ![](assets/new.png)  
+- [2022-03-11-滴滴有毒，司机那边显示的手机号码不是我的，我手机显示的车牌是对的](https://www.v2ex.com/t/839596) ![](assets/new.png)  
 - [2022-03-11-求推荐轻便的通勤/相机包](https://www.v2ex.com/t/839592) ![](assets/new.png)  
 - [2022-03-11-气！-Airpods-Pro-连接-Mac，来回切桌面后突然就没声音，重新再连接也没声音](https://www.v2ex.com/t/839591) ![](assets/new.png)  
 - [2022-03-11-深圳-react-前端-2-年及以上，运维，资深运维；虚位以待](https://www.v2ex.com/t/839590) ![](assets/new.png)  
 - [2022-03-11-Apple-m1-下的可用安卓模拟器是否有任何一款可以模拟-root+装-xposed-的？](https://www.v2ex.com/t/839589) ![](assets/new.png)  
 - [2022-03-11-前端如果跨项目共享代码？](https://www.v2ex.com/t/839588) ![](assets/new.png)  
 - [2022-03-11-异想天开：有这样的午睡场所提供吗？](https://www.v2ex.com/t/839585) ![](assets/new.png)  
-- [2022-03-11-c-盘的$WINDOWS.~BT-删除不了，请求大佬！](https://www.v2ex.com/t/839584) ![](assets/new.png)  
-- [2022-03-11-工作中使用-mysql-事务的问题](https://www.v2ex.com/t/839583) ![](assets/new.png)  
-- [2022-03-11-xdm，大伙找工作会查社保吗](https://www.v2ex.com/t/839581) ![](assets/new.png)  
-- [2022-03-11-yuque-vip-活动可以领到-1-年的](https://www.v2ex.com/t/839578) ![](assets/new.png)  
-- [2022-03-11-广州大事件科技有限公司的开发岗位坑不坑的](https://www.v2ex.com/t/839577) ![](assets/new.png)  
-- [2022-03-11-不懂就问-关于-Jenkins-自动部署项目后的疑问](https://www.v2ex.com/t/839575) ![](assets/new.png)  
-- [2022-03-11-有什么性价比高的新冠疫情隔离/确诊险可以购买吗？](https://www.v2ex.com/t/839574) ![](assets/new.png)  
-- [2022-03-11-独立开发，创业是不是做前端比单纯后端更容易些](https://www.v2ex.com/t/839573) ![](assets/new.png)  
-- [2022-03-11-铁观音有推荐吗～](https://www.v2ex.com/t/839572) ![](assets/new.png)  
-- [2022-03-11-RuTracker-搜索小工具](https://www.v2ex.com/t/839571) ![](assets/new.png)  
-- [2022-03-11-使用-github-的网页上传二进制文件,一直报错-HTTP-ERROR-400](https://www.v2ex.com/t/839569) ![](assets/new.png)  
-- [2022-03-11-有哪些简易方法可以使手机处于持续亮屏状态？](https://www.v2ex.com/t/839566) ![](assets/new.png)  
-- [2022-03-10-Windows11-正在测试文件管理器标签页模式](https://www.v2ex.com/t/839563) ![](assets/new.png)  
-- [2022-03-10-MongoDB-有和-Mybatis-collections-相同效果的查询方式么？](https://www.v2ex.com/t/839562) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -555,24 +555,22 @@
 
 - [2022-03-11-纯Docker部署Https服务——以Nextcloud为例](https://toutiao.io/k/v7hy6ct) ![](assets/new.png)  
 - [2022-03-11-分库分表，我为什么要用Shardingsphere呢？](https://toutiao.io/k/naz0qrj) ![](assets/new.png)  
-- [2022-03-11-python实现B站UP主自动监控](https://toutiao.io/k/p8i7cpt) ![](assets/new.png)  
 - [2022-03-11-面试官问，Redis-是单线程还是多线程?我懵了](https://toutiao.io/k/kd3u5dk) ![](assets/new.png)  
+- [2022-03-11-python实现B站UP主自动监控](https://toutiao.io/k/p8i7cpt) ![](assets/new.png)  
 - [2022-03-11-成为更好的开发者！行动起来！](https://toutiao.io/k/bcodelm) ![](assets/new.png)  
 - [2022-03-11-某大厂37岁程序员，月薪3万，200万存款加一套房：内卷到抑郁，想躺平！](https://toutiao.io/k/6gshid6) ![](assets/new.png)  
 - [2022-03-11-异构广告混排在美团到店业务的探索与实践](https://toutiao.io/k/6srsj5k) ![](assets/new.png)  
 - [2022-03-11-前端周刊：2022-3期](https://toutiao.io/k/vuxjw6c) ![](assets/new.png)  
 - [2022-03-11-Go-1.16-io/fs-设计与实现及正确使用姿势](https://toutiao.io/k/b2s324x) ![](assets/new.png)  
 - [2022-03-11-浅谈-Node.js-热更新](https://toutiao.io/k/72n8sit) ![](assets/new.png)  
-- [2022-03-11-10分钟使用SpringBoot+Vue+Antd+US3搭建自己的图床](https://toutiao.io/k/6a218m0) ![](assets/new.png)  
 - [2022-03-11-GitHub还是GitLab？谈谈两者的区别](https://toutiao.io/k/s4vinxq) ![](assets/new.png)  
-- [2022-03-11-前端-“一键换肤“-的-N-种方案](https://toutiao.io/k/y7emhz0) ![](assets/new.png)  
-- [2022-03-11-OAuth-2-实现单点登录，通俗易懂！](https://toutiao.io/k/8cj08j7) ![](assets/new.png)  
 - [2022-03-11-面向流批一体的-Flink-Runtime-新进展](https://toutiao.io/k/zujnf0f) ![](assets/new.png)  
 - [2022-03-11-【实战】ASP.NET-Core-6-部署在-ARM-树莓派实现-DDNS-和网络唤醒](https://toutiao.io/k/pdcgnw3) ![](assets/new.png)  
 - [2022-03-11-推荐-Java泛型详解，史上最全图文详解！](https://toutiao.io/k/chtkqxo) ![](assets/new.png)  
-- [2022-03-11-推荐-高并发是一种架构思维模式](https://toutiao.io/k/imslmgz) ![](assets/new.png)  
-- [2022-03-11-推荐-MySQL-团队开发规范](https://toutiao.io/k/qjooigy) ![](assets/new.png)  
 - [2022-03-11-推荐-微服务如何划分](https://toutiao.io/k/f4vabj7) ![](assets/new.png)  
+- [2022-03-11-推荐-MySQL-团队开发规范](https://toutiao.io/k/qjooigy) ![](assets/new.png)  
+- [2022-03-11-推荐-微服务从代码到k8s部署应有尽有大结局（k8s部署）](https://toutiao.io/k/xk3qbvm) ![](assets/new.png)  
+- [2022-03-11-推荐-高并发是一种架构思维模式](https://toutiao.io/k/imslmgz) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

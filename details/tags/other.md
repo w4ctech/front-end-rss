@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-03-11 10:41:07。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-03-11 11:12:15。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1912,6 +1912,7 @@
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2022-02-04-HTML-inputmode与iOS-Android软键盘类型测试](https://www.zhangxinxu.com/wordpress/2022/02/html-inputmode-keyboard/) 
+- [2022-03-11-急需一个技术大佬搞过-vscode-插件的，一起搞个摸鱼聊天工具](https://www.v2ex.com/t/839743) 
 - [2022-03-11-离职回家了，请教一个问题，有没有对太阳能电池板感兴趣的呀，把家里的照明全部改成太阳能供电的可行吗？](https://www.v2ex.com/t/839739) 
 - [2022-03-11-mac-开机后屏幕频繁出现问号](https://www.v2ex.com/t/839735) 
 - [2022-03-11-这一期，是关于“内卷”制造内卷](https://www.v2ex.com/t/839734) 
@@ -1939,10 +1940,8 @@
 - [2022-03-11-有没有一种可能，-Mac-Studio-就是替换-Mac-Pro-的形态呢？](https://www.v2ex.com/t/839701) 
 - [2022-03-11-推广一下自己的表情包网站，顺便求一波友情链接。](https://www.v2ex.com/t/839700) 
 - [2022-03-11-30-岁之后还会频繁跳槽吗](https://www.v2ex.com/t/839699) 
-- [2022-03-11-阿里巴巴股价为什么跌的这么厉害？](https://www.v2ex.com/t/839698) 
 - [2022-03-11-VS2019-可以在-DllMain-里面创建线程，-VS2017-则会被一直挂起？](https://www.v2ex.com/t/839696) 
 - [2022-03-11-招共事的靠谱前端Keep](https://www.v2ex.com/t/839694) 
-- [2022-03-11-手残请教一个-netlify-静态网站子目录部署的问题](https://www.v2ex.com/t/839691) 
 - [2022-03-11-聊聊通用的架构设计-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14976&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fcommon-architecture-design%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-03-11-如何学习一门技术-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14975&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-learn-new-technique%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-03-11-wallys/DR6018-S/Support-OpenWRT-IPQ6010-802.11ax-2x2-2.4G&5G-www.wallystech.com](https://blogread.cn/news/go.php?idItem=14974&url=https%3A%2F%2Fwww.wallystech.com%2FRouterboard%2FDR6018-S-V02-wifi6-Qualcomm-IPQ6010-2T2R-2-GE-port-supporting-QCN9074-wifi-card-802.11AX-MU-MIMO-OFDMA.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1969,8 +1968,8 @@
 - [2022-03-11-高手过招不用鼠标，一款超好用的跨平台命令行界面库](https://toutiao.io/k/zc9bzj3) 
 - [2022-03-11-PPQ-~-OpenPPL-之多平台量化部署工具来啦！](https://toutiao.io/k/craf7go) 
 - [2022-03-11-贝壳大数据任务调度DAG体系设计实践](https://toutiao.io/k/acp1uob) 
-- [2022-03-11-推荐-微服务从代码到k8s部署应有尽有大结局（k8s部署）](https://toutiao.io/k/xk3qbvm) 
-- [2022-03-11-推荐-Java泛型详解，史上最全图文详解！](https://toutiao.io/k/chtkqxo) 
 - [2022-03-11-推荐-MySQL-团队开发规范](https://toutiao.io/k/qjooigy) 
+- [2022-03-11-推荐-Java泛型详解，史上最全图文详解！](https://toutiao.io/k/chtkqxo) 
 - [2022-03-11-推荐-高并发是一种架构思维模式](https://toutiao.io/k/imslmgz) 
+- [2022-03-11-推荐-微服务从代码到k8s部署应有尽有大结局（k8s部署）](https://toutiao.io/k/xk3qbvm) 
 - [2022-03-11-推荐-微服务如何划分](https://toutiao.io/k/f4vabj7) 

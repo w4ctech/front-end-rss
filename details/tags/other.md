@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-03-11 12:20:35。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-03-11 12:57:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1912,6 +1912,7 @@
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2022-02-04-HTML-inputmode与iOS-Android软键盘类型测试](https://www.zhangxinxu.com/wordpress/2022/02/html-inputmode-keyboard/) 
+- [2022-03-11-阿里云-新加坡-ECS-可以弄代理啥的吗？](https://www.v2ex.com/t/839760) 
 - [2022-03-11-电脑电源输出端，相同电压的线以及-GND-为什么不合并成一根](https://www.v2ex.com/t/839757) 
 - [2022-03-11-最近是不是找工作的少了？](https://www.v2ex.com/t/839756) 
 - [2022-03-11-很多鼠标侧边会有前进-后退两个按键，想问下，这两个键，在-mac-的键盘快捷键，对应的是哪个？](https://www.v2ex.com/t/839754) 
@@ -1939,7 +1940,6 @@
 - [2022-03-11-SHELL](https://www.v2ex.com/t/839718) 
 - [2022-03-11-Excalidraw-支持自定义字体,-包括中文手写字体](https://www.v2ex.com/t/839717) 
 - [2022-03-11-有没用过-dash-的大佬指点下网页-caching-清空](https://www.v2ex.com/t/839711) 
-- [2022-03-11-车险续保有什么需要注意的么](https://www.v2ex.com/t/839710) 
 - [2022-03-11-聊聊通用的架构设计-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14976&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fcommon-architecture-design%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-03-11-如何学习一门技术-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14975&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-learn-new-technique%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-03-11-wallys/DR6018-S/Support-OpenWRT-IPQ6010-802.11ax-2x2-2.4G&5G-www.wallystech.com](https://blogread.cn/news/go.php?idItem=14974&url=https%3A%2F%2Fwww.wallystech.com%2FRouterboard%2FDR6018-S-V02-wifi6-Qualcomm-IPQ6010-2T2R-2-GE-port-supporting-QCN9074-wifi-card-802.11AX-MU-MIMO-OFDMA.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1966,8 +1966,9 @@
 - [2022-03-11-去哪儿网核心领域DevOps落地实践](https://toutiao.io/k/t7xl35j) 
 - [2022-03-11-PPQ-~-OpenPPL-之多平台量化部署工具来啦！](https://toutiao.io/k/craf7go) 
 - [2022-03-11-贝壳大数据任务调度DAG体系设计实践](https://toutiao.io/k/acp1uob) 
-- [2022-03-11-推荐-Java泛型详解，史上最全图文详解！](https://toutiao.io/k/chtkqxo) 
 - [2022-03-11-推荐-MySQL-团队开发规范](https://toutiao.io/k/qjooigy) 
-- [2022-03-11-推荐-微服务如何划分](https://toutiao.io/k/f4vabj7) 
 - [2022-03-11-推荐-高并发是一种架构思维模式](https://toutiao.io/k/imslmgz) 
 - [2022-03-11-推荐-微服务从代码到k8s部署应有尽有大结局（k8s部署）](https://toutiao.io/k/xk3qbvm) 
+- [2022-03-11-推荐-微服务如何划分](https://toutiao.io/k/f4vabj7) 
+- [2022-03-11-推荐-Java泛型详解，史上最全图文详解！](https://toutiao.io/k/chtkqxo) 
+- [2022-03-11-推荐-快看我在Redis分布式锁上，栽的8个跟头！](https://toutiao.io/k/pshtt8d) 

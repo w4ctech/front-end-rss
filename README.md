@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-03-11 16:18:36，:rocket: 更新条数: +2028， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-03-11 16:55:40，:rocket: 更新条数: +2026， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-03-11-求-chrome-收藏夹插件：添加书签到此文件夹](https://www.v2ex.com/t/839784) ![](assets/new.png)  
 - [2022-03-11-有用红米-AX6-刷-openwrt-的吗？刷完信号怎么样？](https://www.v2ex.com/t/839780) ![](assets/new.png)  
 - [2022-03-11-Slackware-15.0](https://www.v2ex.com/t/839779) ![](assets/new.png)  
 - [2022-03-11-请求-MacBook-连接罗技-G903-鼠标问题](https://www.v2ex.com/t/839778) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-03-11-国外稚晖君？太厉害了！](https://www.v2ex.com/t/839762) ![](assets/new.png)  
 - [2022-03-11-魔都这次被打脸了吧](https://www.v2ex.com/t/839761) ![](assets/new.png)  
 - [2022-03-11-阿里云-新加坡-ECS-可以弄代理啥的吗？](https://www.v2ex.com/t/839760) ![](assets/new.png)  
-- [2022-03-11-同时发出多个相同请求,-如何区别这些请求的返回?](https://www.v2ex.com/t/839758) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -571,8 +571,8 @@
 - [2022-03-11-高手过招不用鼠标，一款超好用的跨平台命令行界面库](https://toutiao.io/k/zc9bzj3) ![](assets/new.png)  
 - [2022-03-11-【实战】ASP.NET-Core-6-部署在-ARM-树莓派实现-DDNS-和网络唤醒](https://toutiao.io/k/pdcgnw3) ![](assets/new.png)  
 - [2022-03-11-去哪儿网核心领域DevOps落地实践](https://toutiao.io/k/t7xl35j) ![](assets/new.png)  
-- [2022-03-11-贝壳大数据任务调度DAG体系设计实践](https://toutiao.io/k/acp1uob) ![](assets/new.png)  
 - [2022-03-11-PPQ-~-OpenPPL-之多平台量化部署工具来啦！](https://toutiao.io/k/craf7go) ![](assets/new.png)  
+- [2022-03-11-贝壳大数据任务调度DAG体系设计实践](https://toutiao.io/k/acp1uob) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

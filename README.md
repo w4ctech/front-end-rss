@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-03-12 19:36:09，:rocket: 更新条数: +2020， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-03-12 20:14:19，:rocket: 更新条数: +2021， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-03-12-用-Flarum-搭了个论坛感觉还不错](https://www.v2ex.com/t/839967) ![](assets/new.png)  
+- [2022-03-12-小型家用服务器-ITX-机箱推荐？](https://www.v2ex.com/t/839966) ![](assets/new.png)  
 - [2022-03-12-求求了-被隔离在宾馆-笔记本无法使用网络](https://www.v2ex.com/t/839964) ![](assets/new.png)  
 - [2022-03-12-救助!-四川移动-4G/5G-无法使用-DoT](https://www.v2ex.com/t/839963) ![](assets/new.png)  
 - [2022-03-12-网络文件系统的选择](https://www.v2ex.com/t/839962) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-03-12-需要快速入门-React,-有什么资料/最佳实践/脚手架推荐吗?](https://www.v2ex.com/t/839947) ![](assets/new.png)  
 - [2022-03-12-win10-已经装了-wsl，怎么装安卓或安卓模拟器?](https://www.v2ex.com/t/839946) ![](assets/new.png)  
 - [2022-03-12-为了防止可能不知道：-Firefox-与“铬”与-Chrome](https://www.v2ex.com/t/839944) ![](assets/new.png)  
-- [2022-03-12-QNAP-手机端和电脑端映射都能连接-qnap，但是-qfinder-无法找到-nas，-qts-网页无法打开，这是为什么？](https://www.v2ex.com/t/839942) ![](assets/new.png)  
-- [2022-03-12-微牛证券是不允许国内用户注册了吗？](https://www.v2ex.com/t/839940) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -565,12 +565,12 @@
 - [2022-03-12-C++：Trivial、Standard-Layout-和-POD](https://toutiao.io/k/inpdi98) ![](assets/new.png)  
 - [2022-03-12-操作系统两大创始人反目，这个排名第九的-Linux-发行版-OS-何去何从？](https://toutiao.io/k/i9richc) ![](assets/new.png)  
 - [2022-03-12-单个-GPU-无法训练-GPT-3，但有了这个，你能调优超参数了](https://toutiao.io/k/3y6p0p9) ![](assets/new.png)  
+- [2022-03-12-推荐-高并发是一种架构思维模式](https://toutiao.io/k/imslmgz) ![](assets/new.png)  
+- [2022-03-12-推荐-快看我在Redis分布式锁上，栽的8个跟头！](https://toutiao.io/k/pshtt8d) ![](assets/new.png)  
 - [2022-03-12-推荐-Java泛型详解，史上最全图文详解！](https://toutiao.io/k/chtkqxo) ![](assets/new.png)  
-- [2022-03-12-推荐-微服务从代码到k8s部署应有尽有大结局（k8s部署）](https://toutiao.io/k/xk3qbvm) ![](assets/new.png)  
 - [2022-03-12-推荐-微服务如何划分](https://toutiao.io/k/f4vabj7) ![](assets/new.png)  
 - [2022-03-12-推荐-MySQL-团队开发规范](https://toutiao.io/k/qjooigy) ![](assets/new.png)  
-- [2022-03-12-推荐-快看我在Redis分布式锁上，栽的8个跟头！](https://toutiao.io/k/pshtt8d) ![](assets/new.png)  
-- [2022-03-12-推荐-高并发是一种架构思维模式](https://toutiao.io/k/imslmgz) ![](assets/new.png)  
+- [2022-03-12-推荐-微服务从代码到k8s部署应有尽有大结局（k8s部署）](https://toutiao.io/k/xk3qbvm) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

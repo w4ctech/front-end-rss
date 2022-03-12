@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2022-03-12 12:54:15。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-03-12 13:16:42。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-03-12-Microsoft-WinRT-Storage-API-右键-BUG-清理注册表却无用-救救强迫症](https://www.v2ex.com/t/839927) 
 - [2022-03-12-Haskell-运算斐波那契数列怎么这么慢，比-JS-慢多了。。](https://www.v2ex.com/t/839924) 
 - [2022-03-12-软件测试有没有简历模板可以参考？](https://www.v2ex.com/t/839923) 
 - [2022-03-12-表妹的-qq-号被盗了，有无大佬能帮帮，孩子哭的很。](https://www.v2ex.com/t/839922) 
@@ -41,6 +42,3 @@
 - [2022-03-12-求晓言智屏音箱原版系统,-中移物联网的朋友请进](https://www.v2ex.com/t/839883) 
 - [2022-03-12-taobao-的-Web-端适老化及无障碍改造做的不错，好评](https://www.v2ex.com/t/839881) 
 - [2022-03-12-GraphQL-有什么优缺点](https://www.v2ex.com/t/839880) 
-- [2022-03-12-分享：几秒钟删除图片中你不需要的东西](https://www.v2ex.com/t/839877) 
-- [2022-03-12-为什么我好像很难能接通腾讯云的电话](https://www.v2ex.com/t/839876) 
-- [2022-03-12-盖棺论定-m1-ultra-64CU-Geekbench-Compute-Metal-分数-100000±3000-左右。](https://www.v2ex.com/t/839875) 

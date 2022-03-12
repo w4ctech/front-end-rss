@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-03-12 07:36:36，:rocket: 更新条数: +2019， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-03-12 08:15:59，:rocket: 更新条数: +2019， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,11 @@
 </summary>
 
 
+- [2022-03-12-支付宝上线“支付宝号”](https://www.v2ex.com/t/839885) ![](assets/new.png)  
+- [2022-03-12-搞了个文字转语音的小工具](https://www.v2ex.com/t/839884) ![](assets/new.png)  
+- [2022-03-12-求晓言智屏音箱原版系统,-中移物联网的朋友请进](https://www.v2ex.com/t/839883) ![](assets/new.png)  
+- [2022-03-12-taobao-的-Web-端适老化及无障碍改造做的不错，好评](https://www.v2ex.com/t/839881) ![](assets/new.png)  
+- [2022-03-12-GraphQL-有什么优缺点](https://www.v2ex.com/t/839880) ![](assets/new.png)  
 - [2022-03-12-分享：几秒钟删除图片中你不需要的东西](https://www.v2ex.com/t/839877) ![](assets/new.png)  
 - [2022-03-12-为什么我好像很难能接通腾讯云的电话](https://www.v2ex.com/t/839876) ![](assets/new.png)  
 - [2022-03-12-盖棺论定-m1-ultra-64CU-Geekbench-Compute-Metal-分数-100000±3000-左右。](https://www.v2ex.com/t/839875) ![](assets/new.png)  
@@ -506,11 +511,6 @@
 - [2022-03-12-M1-能装上-AutoCAD-的麻烦进来分享一下](https://www.v2ex.com/t/839863) ![](assets/new.png)  
 - [2022-03-12-用-React-做的一个云顶教程编写的网站，麻烦给点意见](https://www.v2ex.com/t/839862) ![](assets/new.png)  
 - [2022-03-12-想烧个音箱，桌面音箱有没有类似原道耳机这种退烧神器](https://www.v2ex.com/t/839861) ![](assets/new.png)  
-- [2022-03-12-使用默认配置可能导致连接/协程泄露，包括标准库、基于并使用标准库默认配置的框架，-fasthttp-也存在类似的问题](https://www.v2ex.com/t/839860) ![](assets/new.png)  
-- [2022-03-12-上海黑鲨科技25~50K招聘靠谱高级/资深-Android-开发工程师](https://www.v2ex.com/t/839859) ![](assets/new.png)  
-- [2022-03-12-如果安装-MSI-包时提示"waiting-for-another-install-to-complete"请到火绒剑里搜索-msiexec-把相关进程强行停止](https://www.v2ex.com/t/839856) ![](assets/new.png)  
-- [2022-03-12-win-下用-Linux-paste-命令合并输出了个-txt，打开乱码](https://www.v2ex.com/t/839854) ![](assets/new.png)  
-- [2022-03-12-mqtt-消费者并发情况下丢消息的情况](https://www.v2ex.com/t/839852) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -565,12 +565,12 @@
 - [2022-03-12-温故知新-什么是软件工程](https://toutiao.io/k/kd65fkp) ![](assets/new.png)  
 - [2022-03-12-看看用python让一群机器人聊聊中国足球会发生什么事~](https://toutiao.io/k/ti1f0tk) ![](assets/new.png)  
 - [2022-03-12-C++：Trivial、Standard-Layout-和-POD](https://toutiao.io/k/inpdi98) ![](assets/new.png)  
-- [2022-03-12-推荐-快看我在Redis分布式锁上，栽的8个跟头！](https://toutiao.io/k/pshtt8d) ![](assets/new.png)  
-- [2022-03-12-推荐-高并发是一种架构思维模式](https://toutiao.io/k/imslmgz) ![](assets/new.png)  
-- [2022-03-12-推荐-Java泛型详解，史上最全图文详解！](https://toutiao.io/k/chtkqxo) ![](assets/new.png)  
-- [2022-03-12-推荐-微服务如何划分](https://toutiao.io/k/f4vabj7) ![](assets/new.png)  
-- [2022-03-12-推荐-MySQL-团队开发规范](https://toutiao.io/k/qjooigy) ![](assets/new.png)  
 - [2022-03-12-推荐-微服务从代码到k8s部署应有尽有大结局（k8s部署）](https://toutiao.io/k/xk3qbvm) ![](assets/new.png)  
+- [2022-03-12-推荐-高并发是一种架构思维模式](https://toutiao.io/k/imslmgz) ![](assets/new.png)  
+- [2022-03-12-推荐-微服务如何划分](https://toutiao.io/k/f4vabj7) ![](assets/new.png)  
+- [2022-03-12-推荐-Java泛型详解，史上最全图文详解！](https://toutiao.io/k/chtkqxo) ![](assets/new.png)  
+- [2022-03-12-推荐-快看我在Redis分布式锁上，栽的8个跟头！](https://toutiao.io/k/pshtt8d) ![](assets/new.png)  
+- [2022-03-12-推荐-MySQL-团队开发规范](https://toutiao.io/k/qjooigy) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

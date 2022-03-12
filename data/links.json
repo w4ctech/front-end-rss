@@ -9953,6 +9953,31 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "应该如何选择第二门开发语言？",
+        "link": "https://www.v2ex.com/t/839907",
+        "date": "2022-03-12"
+      },
+      {
+        "title": "spotlight 之前的插件为什么不能用了呢？",
+        "link": "https://www.v2ex.com/t/839906",
+        "date": "2022-03-12"
+      },
+      {
+        "title": "macOS 12 的翻译功能有独立 App 和 API 吗",
+        "link": "https://www.v2ex.com/t/839905",
+        "date": "2022-03-12"
+      },
+      {
+        "title": "求推荐一个软件发布管理系统",
+        "link": "https://www.v2ex.com/t/839904",
+        "date": "2022-03-12"
+      },
+      {
+        "title": "rutracker",
+        "link": "https://www.v2ex.com/t/839903",
+        "date": "2022-03-12"
+      },
+      {
         "title": "[TG] 请问各位有什么看乌克兰俄罗斯战报分析的帖子或者群？",
         "link": "https://www.v2ex.com/t/839902",
         "date": "2022-03-12"
@@ -10126,16 +10151,6 @@
         "title": "[上海][黑鲨科技][25~50K]招聘靠谱高级/资深 Android 开发工程师",
         "link": "https://www.v2ex.com/t/839859",
         "date": "2022-03-12"
-      },
-      {
-        "title": "如果安装 MSI 包时提示\"waiting for another install to complete\"请到火绒剑里搜索 msiexec 把相关进程强行停止",
-        "link": "https://www.v2ex.com/t/839856",
-        "date": "2022-03-12"
-      },
-      {
-        "title": "win 下用 Linux paste 命令合并输出了个 txt，打开乱码",
-        "link": "https://www.v2ex.com/t/839854",
-        "date": "2022-03-12"
       }
     ]
   },
@@ -10267,13 +10282,13 @@
         "date": "2022-03-12"
       },
       {
-        "title": "TikTok或将与甲骨文达成数据存储协议；董明珠建议对996开展公益诉讼；苹果举办春季新品发布会｜开发者头条",
-        "link": "https://toutiao.io/k/fxpbkrf",
+        "title": "设计一个靠谱的监控告警平台",
+        "link": "https://toutiao.io/k/tyojqf4",
         "date": "2022-03-12"
       },
       {
-        "title": "设计一个靠谱的监控告警平台",
-        "link": "https://toutiao.io/k/tyojqf4",
+        "title": "TikTok或将与甲骨文达成数据存储协议；董明珠建议对996开展公益诉讼；苹果举办春季新品发布会｜开发者头条",
+        "link": "https://toutiao.io/k/fxpbkrf",
         "date": "2022-03-12"
       },
       {
@@ -10312,11 +10327,6 @@
         "date": "2022-03-12"
       },
       {
-        "title": "[推荐] 快看我在Redis分布式锁上，栽的8个跟头！",
-        "link": "https://toutiao.io/k/pshtt8d",
-        "date": "2022-03-12"
-      },
-      {
         "title": "[推荐] 微服务从代码到k8s部署应有尽有大结局（k8s部署）",
         "link": "https://toutiao.io/k/xk3qbvm",
         "date": "2022-03-12"
@@ -10327,8 +10337,13 @@
         "date": "2022-03-12"
       },
       {
-        "title": "[推荐] 微服务如何划分",
-        "link": "https://toutiao.io/k/f4vabj7",
+        "title": "[推荐] MySQL 团队开发规范",
+        "link": "https://toutiao.io/k/qjooigy",
+        "date": "2022-03-12"
+      },
+      {
+        "title": "[推荐] 快看我在Redis分布式锁上，栽的8个跟头！",
+        "link": "https://toutiao.io/k/pshtt8d",
         "date": "2022-03-12"
       },
       {
@@ -10337,8 +10352,8 @@
         "date": "2022-03-12"
       },
       {
-        "title": "[推荐] MySQL 团队开发规范",
-        "link": "https://toutiao.io/k/qjooigy",
+        "title": "[推荐] 微服务如何划分",
+        "link": "https://toutiao.io/k/f4vabj7",
         "date": "2022-03-12"
       }
     ]

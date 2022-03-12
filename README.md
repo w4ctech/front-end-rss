@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-03-12 10:14:26，:rocket: 更新条数: +2021， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-03-12 10:39:47，:rocket: 更新条数: +2024， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,11 @@
 </summary>
 
 
+- [2022-03-12-应该如何选择第二门开发语言？](https://www.v2ex.com/t/839907) ![](assets/new.png)  
+- [2022-03-12-spotlight-之前的插件为什么不能用了呢？](https://www.v2ex.com/t/839906) ![](assets/new.png)  
+- [2022-03-12-macOS-12-的翻译功能有独立-App-和-API-吗](https://www.v2ex.com/t/839905) ![](assets/new.png)  
+- [2022-03-12-求推荐一个软件发布管理系统](https://www.v2ex.com/t/839904) ![](assets/new.png)  
+- [2022-03-12-rutracker](https://www.v2ex.com/t/839903) ![](assets/new.png)  
 - [2022-03-12-TG-请问各位有什么看乌克兰俄罗斯战报分析的帖子或者群？](https://www.v2ex.com/t/839902) ![](assets/new.png)  
 - [2022-03-12-惠新西街南口转租-2-居室-6500](https://www.v2ex.com/t/839900) ![](assets/new.png)  
 - [2022-03-12-哪段代码，你读完久久不能释怀？](https://www.v2ex.com/t/839898) ![](assets/new.png)  
@@ -506,11 +511,6 @@
 - [2022-03-12-笔记本卡在开机界面，怎么办？](https://www.v2ex.com/t/839887) ![](assets/new.png)  
 - [2022-03-12-支付宝上线“支付宝号”](https://www.v2ex.com/t/839885) ![](assets/new.png)  
 - [2022-03-12-搞了个文字转语音的小工具](https://www.v2ex.com/t/839884) ![](assets/new.png)  
-- [2022-03-12-求晓言智屏音箱原版系统,-中移物联网的朋友请进](https://www.v2ex.com/t/839883) ![](assets/new.png)  
-- [2022-03-12-taobao-的-Web-端适老化及无障碍改造做的不错，好评](https://www.v2ex.com/t/839881) ![](assets/new.png)  
-- [2022-03-12-GraphQL-有什么优缺点](https://www.v2ex.com/t/839880) ![](assets/new.png)  
-- [2022-03-12-分享：几秒钟删除图片中你不需要的东西](https://www.v2ex.com/t/839877) ![](assets/new.png)  
-- [2022-03-12-为什么我好像很难能接通腾讯云的电话](https://www.v2ex.com/t/839876) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -556,8 +556,8 @@
 - [2022-03-12-成为更好的开发者！行动起来！](https://toutiao.io/k/bcodelm) ![](assets/new.png)  
 - [2022-03-12-快手抓包问题分析](https://toutiao.io/k/ef3rtq9) ![](assets/new.png)  
 - [2022-03-12-一文彻底了解Low-Code](https://toutiao.io/k/beqdqw9) ![](assets/new.png)  
-- [2022-03-12-TikTok或将与甲骨文达成数据存储协议；董明珠建议对996开展公益诉讼；苹果举办春季新品发布会｜开发者头条](https://toutiao.io/k/fxpbkrf) ![](assets/new.png)  
 - [2022-03-12-设计一个靠谱的监控告警平台](https://toutiao.io/k/tyojqf4) ![](assets/new.png)  
+- [2022-03-12-TikTok或将与甲骨文达成数据存储协议；董明珠建议对996开展公益诉讼；苹果举办春季新品发布会｜开发者头条](https://toutiao.io/k/fxpbkrf) ![](assets/new.png)  
 - [2022-03-12-Decorator-装饰器](https://toutiao.io/k/4m72ib3) ![](assets/new.png)  
 - [2022-03-12-优质网站同好者周刊（第-56-期）--倾城之链---悠然宜想亭](https://toutiao.io/k/0secq8g) ![](assets/new.png)  
 - [2022-03-12-温故知新-什么是软件工程](https://toutiao.io/k/kd65fkp) ![](assets/new.png)  
@@ -565,12 +565,12 @@
 - [2022-03-12-看看用python让一群机器人聊聊中国足球会发生什么事~](https://toutiao.io/k/ti1f0tk) ![](assets/new.png)  
 - [2022-03-12-单个-GPU-无法训练-GPT-3，但有了这个，你能调优超参数了](https://toutiao.io/k/3y6p0p9) ![](assets/new.png)  
 - [2022-03-12-C++：Trivial、Standard-Layout-和-POD](https://toutiao.io/k/inpdi98) ![](assets/new.png)  
-- [2022-03-12-推荐-快看我在Redis分布式锁上，栽的8个跟头！](https://toutiao.io/k/pshtt8d) ![](assets/new.png)  
 - [2022-03-12-推荐-微服务从代码到k8s部署应有尽有大结局（k8s部署）](https://toutiao.io/k/xk3qbvm) ![](assets/new.png)  
 - [2022-03-12-推荐-Java泛型详解，史上最全图文详解！](https://toutiao.io/k/chtkqxo) ![](assets/new.png)  
-- [2022-03-12-推荐-微服务如何划分](https://toutiao.io/k/f4vabj7) ![](assets/new.png)  
-- [2022-03-12-推荐-高并发是一种架构思维模式](https://toutiao.io/k/imslmgz) ![](assets/new.png)  
 - [2022-03-12-推荐-MySQL-团队开发规范](https://toutiao.io/k/qjooigy) ![](assets/new.png)  
+- [2022-03-12-推荐-快看我在Redis分布式锁上，栽的8个跟头！](https://toutiao.io/k/pshtt8d) ![](assets/new.png)  
+- [2022-03-12-推荐-高并发是一种架构思维模式](https://toutiao.io/k/imslmgz) ![](assets/new.png)  
+- [2022-03-12-推荐-微服务如何划分](https://toutiao.io/k/f4vabj7) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

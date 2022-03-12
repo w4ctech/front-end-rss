@@ -1,10 +1,15 @@
-:alarm_clock: 更新时间: 2022-03-12 10:14:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-03-12 10:39:47。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-03-12-应该如何选择第二门开发语言？](https://www.v2ex.com/t/839907) 
+- [2022-03-12-spotlight-之前的插件为什么不能用了呢？](https://www.v2ex.com/t/839906) 
+- [2022-03-12-macOS-12-的翻译功能有独立-App-和-API-吗](https://www.v2ex.com/t/839905) 
+- [2022-03-12-求推荐一个软件发布管理系统](https://www.v2ex.com/t/839904) 
+- [2022-03-12-rutracker](https://www.v2ex.com/t/839903) 
 - [2022-03-12-TG-请问各位有什么看乌克兰俄罗斯战报分析的帖子或者群？](https://www.v2ex.com/t/839902) 
 - [2022-03-12-惠新西街南口转租-2-居室-6500](https://www.v2ex.com/t/839900) 
 - [2022-03-12-哪段代码，你读完久久不能释怀？](https://www.v2ex.com/t/839898) 
@@ -40,5 +45,3 @@
 - [2022-03-12-想烧个音箱，桌面音箱有没有类似原道耳机这种退烧神器](https://www.v2ex.com/t/839861) 
 - [2022-03-12-使用默认配置可能导致连接/协程泄露，包括标准库、基于并使用标准库默认配置的框架，-fasthttp-也存在类似的问题](https://www.v2ex.com/t/839860) 
 - [2022-03-12-上海黑鲨科技25~50K招聘靠谱高级/资深-Android-开发工程师](https://www.v2ex.com/t/839859) 
-- [2022-03-12-如果安装-MSI-包时提示"waiting-for-another-install-to-complete"请到火绒剑里搜索-msiexec-把相关进程强行停止](https://www.v2ex.com/t/839856) 
-- [2022-03-12-win-下用-Linux-paste-命令合并输出了个-txt，打开乱码](https://www.v2ex.com/t/839854) 

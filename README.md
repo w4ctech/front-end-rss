@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-03-12 13:37:41，:rocket: 更新条数: +2023， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-03-12 14:11:25，:rocket: 更新条数: +2022， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,7 +491,11 @@
 </summary>
 
 
-- [2022-03-12-蓝湖](https://www.v2ex.com/t/839932) ![](assets/new.png)  
+- [2022-03-12-为什么-Firefox-里面存在-chrome://-地址?](https://www.v2ex.com/t/839937) ![](assets/new.png)  
+- [2022-03-12-请问下类似于-Xmind-的脑图，思维导图之类的实现技术，是否有可以学习的开源项目或博客？谢谢分享](https://www.v2ex.com/t/839936) ![](assets/new.png)  
+- [2022-03-12-TLS-传输真的安全吗?Trojan-TLS-传输协议真的能保证数据的可靠传输，不容易被-GFW-精准识别?](https://www.v2ex.com/t/839935) ![](assets/new.png)  
+- [2022-03-12-中科大的源挂掉了？](https://www.v2ex.com/t/839934) ![](assets/new.png)  
+- [2022-03-12-还能这样定义结构体数组的？](https://www.v2ex.com/t/839933) ![](assets/new.png)  
 - [2022-03-12-Apple-设备导出-HDR-照片的困惑](https://www.v2ex.com/t/839931) ![](assets/new.png)  
 - [2022-03-12-拼多多-上海-拼多多可内推，团队主要招-Android&iOS-客户端基础技术方向，其他技术方向社招和校招也可以内推，欢迎投递](https://www.v2ex.com/t/839930) ![](assets/new.png)  
 - [2022-03-12-自己家用主机的虚拟化方案实施情况](https://www.v2ex.com/t/839929) ![](assets/new.png)  
@@ -507,10 +511,6 @@
 - [2022-03-12-报告各位，那部有点阴间，又很有意思的科幻剧《上载新生》第二季全剧放出来了](https://www.v2ex.com/t/839913) ![](assets/new.png)  
 - [2022-03-12-MBP2017-的屏幕坏了](https://www.v2ex.com/t/839911) ![](assets/new.png)  
 - [2022-03-12-耗时-39-天-DIY-申请到-ITIN-，已成功拿下-C1-押金卡](https://www.v2ex.com/t/839910) ![](assets/new.png)  
-- [2022-03-12-iOS-上有什么方法可以自动把非中/英文的-Twitter-全部翻译成英文吗？](https://www.v2ex.com/t/839909) ![](assets/new.png)  
-- [2022-03-12-南京-华为数通设备软件开发岗位内招](https://www.v2ex.com/t/839908) ![](assets/new.png)  
-- [2022-03-12-应该如何选择第二门开发语言？](https://www.v2ex.com/t/839907) ![](assets/new.png)  
-- [2022-03-12-spotlight-之前的插件为什么不能用了呢？](https://www.v2ex.com/t/839906) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -565,12 +565,12 @@
 - [2022-03-12-C++：Trivial、Standard-Layout-和-POD](https://toutiao.io/k/inpdi98) ![](assets/new.png)  
 - [2022-03-12-操作系统两大创始人反目，这个排名第九的-Linux-发行版-OS-何去何从？](https://toutiao.io/k/i9richc) ![](assets/new.png)  
 - [2022-03-12-单个-GPU-无法训练-GPT-3，但有了这个，你能调优超参数了](https://toutiao.io/k/3y6p0p9) ![](assets/new.png)  
-- [2022-03-12-推荐-快看我在Redis分布式锁上，栽的8个跟头！](https://toutiao.io/k/pshtt8d) ![](assets/new.png)  
-- [2022-03-12-推荐-微服务如何划分](https://toutiao.io/k/f4vabj7) ![](assets/new.png)  
-- [2022-03-12-推荐-Java泛型详解，史上最全图文详解！](https://toutiao.io/k/chtkqxo) ![](assets/new.png)  
-- [2022-03-12-推荐-微服务从代码到k8s部署应有尽有大结局（k8s部署）](https://toutiao.io/k/xk3qbvm) ![](assets/new.png)  
 - [2022-03-12-推荐-高并发是一种架构思维模式](https://toutiao.io/k/imslmgz) ![](assets/new.png)  
 - [2022-03-12-推荐-MySQL-团队开发规范](https://toutiao.io/k/qjooigy) ![](assets/new.png)  
+- [2022-03-12-推荐-Java泛型详解，史上最全图文详解！](https://toutiao.io/k/chtkqxo) ![](assets/new.png)  
+- [2022-03-12-推荐-快看我在Redis分布式锁上，栽的8个跟头！](https://toutiao.io/k/pshtt8d) ![](assets/new.png)  
+- [2022-03-12-推荐-微服务如何划分](https://toutiao.io/k/f4vabj7) ![](assets/new.png)  
+- [2022-03-12-推荐-微服务从代码到k8s部署应有尽有大结局（k8s部署）](https://toutiao.io/k/xk3qbvm) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

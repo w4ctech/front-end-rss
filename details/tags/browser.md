@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-03-12 14:11:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-03-12 14:37:18。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -13,6 +13,7 @@
 - [2021-04-14-腺病毒新冠疫苗引安全忧虑-康希诺称未发现血栓病例](https://m.caixin.com/m/2021-04-14/101691086.html) 
 - [2021-01-08-解药|新冠mRNA疫苗安全性有哪些挑战？](https://m.caixin.com/m/2021-01-08/101648043.html) 
 - [2021-01-01-大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html) 
+- [2022-03-12-为了防止可能不知道：-Firefox-与“铬”与-Chrome](https://www.v2ex.com/t/839944) 
 - [2022-03-12-为什么-Firefox-里面存在-chrome://-地址?](https://www.v2ex.com/t/839937) 
 - [2022-03-12-TLS-传输真的安全吗?Trojan-TLS-传输协议真的能保证数据的可靠传输，不容易被-GFW-精准识别?](https://www.v2ex.com/t/839935) 
 - [2022-03-12-傻傻分不清，前后端接口Cookie、Session、Token的区别？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14961&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493488%26amp%3Bidx%3D2%26amp%3Bsn%3D6c976132f89f3b2e7578d471ef4f260a%26amp%3Bchksm%3Dfa3f062bcd488f3dc5acee3f3f231bf90a3fa4081829f4fb53c83193994c3e095596b4aa426f%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

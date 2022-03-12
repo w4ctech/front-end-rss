@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-03-12 14:11:25，:rocket: 更新条数: +2022， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-03-12 14:37:18，:rocket: 更新条数: +2021， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,11 @@
 </summary>
 
 
+- [2022-03-12-为了防止可能不知道：-Firefox-与“铬”与-Chrome](https://www.v2ex.com/t/839944) ![](assets/new.png)  
+- [2022-03-12-你所知道的-V2EX-上的月经帖有哪些？](https://www.v2ex.com/t/839943) ![](assets/new.png)  
+- [2022-03-12-QNAP-手机端和电脑端映射都能连接-qnap，但是-qfinder-无法找到-nas，-qts-网页无法打开，这是为什么？](https://www.v2ex.com/t/839942) ![](assets/new.png)  
+- [2022-03-12-微牛证券是不允许国内用户注册了吗？](https://www.v2ex.com/t/839940) ![](assets/new.png)  
+- [2022-03-12-新手问下，阿里云服务器连不上-github，怎么处理?](https://www.v2ex.com/t/839939) ![](assets/new.png)  
 - [2022-03-12-为什么-Firefox-里面存在-chrome://-地址?](https://www.v2ex.com/t/839937) ![](assets/new.png)  
 - [2022-03-12-请问下类似于-Xmind-的脑图，思维导图之类的实现技术，是否有可以学习的开源项目或博客？谢谢分享](https://www.v2ex.com/t/839936) ![](assets/new.png)  
 - [2022-03-12-TLS-传输真的安全吗?Trojan-TLS-传输协议真的能保证数据的可靠传输，不容易被-GFW-精准识别?](https://www.v2ex.com/t/839935) ![](assets/new.png)  
@@ -506,11 +511,6 @@
 - [2022-03-12-有没有人认识下面这个字的，手写都识别不了，不知道去哪里可以识别了。](https://www.v2ex.com/t/839920) ![](assets/new.png)  
 - [2022-03-12-华强北的-apple-watch-可以买吗？看上去各种功能都有，还可以测心跳。价格也是超便宜这个可买吗？](https://www.v2ex.com/t/839919) ![](assets/new.png)  
 - [2022-03-12-2022-年夏天入手-iPad-Pro-2018-算-49-年入国军吗？当前合理的价格大约是多少？](https://www.v2ex.com/t/839918) ![](assets/new.png)  
-- [2022-03-12-网络游戏服务端用什么语言写区别是不是不大？-Java-/C++/C#哪个用得更多，为什么？](https://www.v2ex.com/t/839916) ![](assets/new.png)  
-- [2022-03-12-请问-Windows-和-Mac-的电脑组合该如何搭配？](https://www.v2ex.com/t/839914) ![](assets/new.png)  
-- [2022-03-12-报告各位，那部有点阴间，又很有意思的科幻剧《上载新生》第二季全剧放出来了](https://www.v2ex.com/t/839913) ![](assets/new.png)  
-- [2022-03-12-MBP2017-的屏幕坏了](https://www.v2ex.com/t/839911) ![](assets/new.png)  
-- [2022-03-12-耗时-39-天-DIY-申请到-ITIN-，已成功拿下-C1-押金卡](https://www.v2ex.com/t/839910) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -559,17 +559,17 @@
 - [2022-03-12-设计一个靠谱的监控告警平台](https://toutiao.io/k/tyojqf4) ![](assets/new.png)  
 - [2022-03-12-优质网站同好者周刊（第-56-期）--倾城之链---悠然宜想亭](https://toutiao.io/k/0secq8g) ![](assets/new.png)  
 - [2022-03-12-TikTok或将与甲骨文达成数据存储协议；董明珠建议对996开展公益诉讼；苹果举办春季新品发布会｜开发者头条](https://toutiao.io/k/fxpbkrf) ![](assets/new.png)  
-- [2022-03-12-Decorator-装饰器](https://toutiao.io/k/4m72ib3) ![](assets/new.png)  
 - [2022-03-12-温故知新-什么是软件工程](https://toutiao.io/k/kd65fkp) ![](assets/new.png)  
+- [2022-03-12-Decorator-装饰器](https://toutiao.io/k/4m72ib3) ![](assets/new.png)  
 - [2022-03-12-看看用python让一群机器人聊聊中国足球会发生什么事~](https://toutiao.io/k/ti1f0tk) ![](assets/new.png)  
 - [2022-03-12-C++：Trivial、Standard-Layout-和-POD](https://toutiao.io/k/inpdi98) ![](assets/new.png)  
 - [2022-03-12-操作系统两大创始人反目，这个排名第九的-Linux-发行版-OS-何去何从？](https://toutiao.io/k/i9richc) ![](assets/new.png)  
 - [2022-03-12-单个-GPU-无法训练-GPT-3，但有了这个，你能调优超参数了](https://toutiao.io/k/3y6p0p9) ![](assets/new.png)  
-- [2022-03-12-推荐-高并发是一种架构思维模式](https://toutiao.io/k/imslmgz) ![](assets/new.png)  
-- [2022-03-12-推荐-MySQL-团队开发规范](https://toutiao.io/k/qjooigy) ![](assets/new.png)  
-- [2022-03-12-推荐-Java泛型详解，史上最全图文详解！](https://toutiao.io/k/chtkqxo) ![](assets/new.png)  
 - [2022-03-12-推荐-快看我在Redis分布式锁上，栽的8个跟头！](https://toutiao.io/k/pshtt8d) ![](assets/new.png)  
 - [2022-03-12-推荐-微服务如何划分](https://toutiao.io/k/f4vabj7) ![](assets/new.png)  
+- [2022-03-12-推荐-MySQL-团队开发规范](https://toutiao.io/k/qjooigy) ![](assets/new.png)  
+- [2022-03-12-推荐-高并发是一种架构思维模式](https://toutiao.io/k/imslmgz) ![](assets/new.png)  
+- [2022-03-12-推荐-Java泛型详解，史上最全图文详解！](https://toutiao.io/k/chtkqxo) ![](assets/new.png)  
 - [2022-03-12-推荐-微服务从代码到k8s部署应有尽有大结局（k8s部署）](https://toutiao.io/k/xk3qbvm) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

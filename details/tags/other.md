@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-03-12 18:42:31。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-03-12 19:11:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1912,6 +1912,7 @@
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2022-02-04-HTML-inputmode与iOS-Android软键盘类型测试](https://www.zhangxinxu.com/wordpress/2022/02/html-inputmode-keyboard/) 
+- [2022-03-12-求求了-被隔离在宾馆-笔记本无法使用网络](https://www.v2ex.com/t/839964) 
 - [2022-03-12-救助!-四川移动-4G/5G-无法使用-DoT](https://www.v2ex.com/t/839963) 
 - [2022-03-12-网络文件系统的选择](https://www.v2ex.com/t/839962) 
 - [2022-03-12-有没有办法把-MBA-时间机器备份到台式-MAC-的-SSD-里面](https://www.v2ex.com/t/839961) 
@@ -1938,7 +1939,6 @@
 - [2022-03-12-有没有人认识下面这个字的，手写都识别不了，不知道去哪里可以识别了。](https://www.v2ex.com/t/839920) 
 - [2022-03-12-华强北的-apple-watch-可以买吗？看上去各种功能都有，还可以测心跳。价格也是超便宜这个可买吗？](https://www.v2ex.com/t/839919) 
 - [2022-03-12-2022-年夏天入手-iPad-Pro-2018-算-49-年入国军吗？当前合理的价格大约是多少？](https://www.v2ex.com/t/839918) 
-- [2022-03-12-请问-Windows-和-Mac-的电脑组合该如何搭配？](https://www.v2ex.com/t/839914) 
 - [2022-03-12-聊聊通用的架构设计-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14976&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fcommon-architecture-design%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-03-12-如何学习一门技术-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14975&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-learn-new-technique%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-03-12-wallys/DR6018-S/Support-OpenWRT-IPQ6010-802.11ax-2x2-2.4G&5G-www.wallystech.com](https://blogread.cn/news/go.php?idItem=14974&url=https%3A%2F%2Fwww.wallystech.com%2FRouterboard%2FDR6018-S-V02-wifi6-Qualcomm-IPQ6010-2T2R-2-GE-port-supporting-QCN9074-wifi-card-802.11AX-MU-MIMO-OFDMA.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1962,9 +1962,9 @@
 - [2022-03-12-看看用python让一群机器人聊聊中国足球会发生什么事~](https://toutiao.io/k/ti1f0tk) 
 - [2022-03-12-C++：Trivial、Standard-Layout-和-POD](https://toutiao.io/k/inpdi98) 
 - [2022-03-12-操作系统两大创始人反目，这个排名第九的-Linux-发行版-OS-何去何从？](https://toutiao.io/k/i9richc) 
+- [2022-03-12-推荐-MySQL-团队开发规范](https://toutiao.io/k/qjooigy) 
 - [2022-03-12-推荐-高并发是一种架构思维模式](https://toutiao.io/k/imslmgz) 
 - [2022-03-12-推荐-微服务从代码到k8s部署应有尽有大结局（k8s部署）](https://toutiao.io/k/xk3qbvm) 
-- [2022-03-12-推荐-快看我在Redis分布式锁上，栽的8个跟头！](https://toutiao.io/k/pshtt8d) 
 - [2022-03-12-推荐-Java泛型详解，史上最全图文详解！](https://toutiao.io/k/chtkqxo) 
 - [2022-03-12-推荐-微服务如何划分](https://toutiao.io/k/f4vabj7) 
-- [2022-03-12-推荐-MySQL-团队开发规范](https://toutiao.io/k/qjooigy) 
+- [2022-03-12-推荐-快看我在Redis分布式锁上，栽的8个跟头！](https://toutiao.io/k/pshtt8d) 

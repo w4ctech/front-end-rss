@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-03-12 09:12:53。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-03-12 09:37:48。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -239,6 +239,7 @@
 
 - [【武汉肺炎防疫全纪录(财新网)】广州17岁男生在定点医院参加高考-特殊考场视频监考](https://m.caixin.com/m/2021-06-05/101723418.html)
 - [【武汉肺炎防疫全纪录(财新网)】林郑月娥率13高官直播接种科兴疫苗-复星疫苗预计周中到港](https://m.caixin.com/m/2021-02-22/101665724.html)
+- [【V2EX】Mac-有无办法通过软件屏蔽视频输出源](https://www.v2ex.com/t/839894)
 - [......【查看更多】......](./details/tags/audio-video.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -351,6 +352,7 @@
 
 
 
+- [【V2EX】远程区块链应用方向招聘前端工程师](https://www.v2ex.com/t/839896)
 - [【V2EX】云南昆明招聘，想回云南的同学看过来，-C++、前后端、运维](https://www.v2ex.com/t/839871)
 - [【V2EX】上海黑鲨科技25~50K招聘靠谱高级/资深-Android-开发工程师](https://www.v2ex.com/t/839859)
 - [......【查看更多】......](./details/tags/job-interview.md)

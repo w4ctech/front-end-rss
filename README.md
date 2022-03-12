@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-03-12 13:16:42，:rocket: 更新条数: +2021， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-03-12 13:37:41，:rocket: 更新条数: +2023， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,10 @@
 </summary>
 
 
+- [2022-03-12-蓝湖](https://www.v2ex.com/t/839932) ![](assets/new.png)  
+- [2022-03-12-Apple-设备导出-HDR-照片的困惑](https://www.v2ex.com/t/839931) ![](assets/new.png)  
+- [2022-03-12-拼多多-上海-拼多多可内推，团队主要招-Android&iOS-客户端基础技术方向，其他技术方向社招和校招也可以内推，欢迎投递](https://www.v2ex.com/t/839930) ![](assets/new.png)  
+- [2022-03-12-自己家用主机的虚拟化方案实施情况](https://www.v2ex.com/t/839929) ![](assets/new.png)  
 - [2022-03-12-Microsoft-WinRT-Storage-API-右键-BUG-清理注册表却无用-救救强迫症](https://www.v2ex.com/t/839927) ![](assets/new.png)  
 - [2022-03-12-Haskell-运算斐波那契数列怎么这么慢，比-JS-慢多了。。](https://www.v2ex.com/t/839924) ![](assets/new.png)  
 - [2022-03-12-软件测试有没有简历模板可以参考？](https://www.v2ex.com/t/839923) ![](assets/new.png)  
@@ -507,10 +511,6 @@
 - [2022-03-12-南京-华为数通设备软件开发岗位内招](https://www.v2ex.com/t/839908) ![](assets/new.png)  
 - [2022-03-12-应该如何选择第二门开发语言？](https://www.v2ex.com/t/839907) ![](assets/new.png)  
 - [2022-03-12-spotlight-之前的插件为什么不能用了呢？](https://www.v2ex.com/t/839906) ![](assets/new.png)  
-- [2022-03-12-macOS-12-的翻译功能有独立-App-和-API-吗](https://www.v2ex.com/t/839905) ![](assets/new.png)  
-- [2022-03-12-求推荐一个软件发布管理系统](https://www.v2ex.com/t/839904) ![](assets/new.png)  
-- [2022-03-12-rutracker](https://www.v2ex.com/t/839903) ![](assets/new.png)  
-- [2022-03-12-TG-请问各位有什么看乌克兰俄罗斯战报分析的帖子或者群？](https://www.v2ex.com/t/839902) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -566,10 +566,10 @@
 - [2022-03-12-操作系统两大创始人反目，这个排名第九的-Linux-发行版-OS-何去何从？](https://toutiao.io/k/i9richc) ![](assets/new.png)  
 - [2022-03-12-单个-GPU-无法训练-GPT-3，但有了这个，你能调优超参数了](https://toutiao.io/k/3y6p0p9) ![](assets/new.png)  
 - [2022-03-12-推荐-快看我在Redis分布式锁上，栽的8个跟头！](https://toutiao.io/k/pshtt8d) ![](assets/new.png)  
-- [2022-03-12-推荐-高并发是一种架构思维模式](https://toutiao.io/k/imslmgz) ![](assets/new.png)  
-- [2022-03-12-推荐-微服务从代码到k8s部署应有尽有大结局（k8s部署）](https://toutiao.io/k/xk3qbvm) ![](assets/new.png)  
-- [2022-03-12-推荐-Java泛型详解，史上最全图文详解！](https://toutiao.io/k/chtkqxo) ![](assets/new.png)  
 - [2022-03-12-推荐-微服务如何划分](https://toutiao.io/k/f4vabj7) ![](assets/new.png)  
+- [2022-03-12-推荐-Java泛型详解，史上最全图文详解！](https://toutiao.io/k/chtkqxo) ![](assets/new.png)  
+- [2022-03-12-推荐-微服务从代码到k8s部署应有尽有大结局（k8s部署）](https://toutiao.io/k/xk3qbvm) ![](assets/new.png)  
+- [2022-03-12-推荐-高并发是一种架构思维模式](https://toutiao.io/k/imslmgz) ![](assets/new.png)  
 - [2022-03-12-推荐-MySQL-团队开发规范](https://toutiao.io/k/qjooigy) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

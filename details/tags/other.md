@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-03-12 13:16:42。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-03-12 13:37:41。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1912,6 +1912,10 @@
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2022-02-04-HTML-inputmode与iOS-Android软键盘类型测试](https://www.zhangxinxu.com/wordpress/2022/02/html-inputmode-keyboard/) 
+- [2022-03-12-蓝湖](https://www.v2ex.com/t/839932) 
+- [2022-03-12-Apple-设备导出-HDR-照片的困惑](https://www.v2ex.com/t/839931) 
+- [2022-03-12-拼多多-上海-拼多多可内推，团队主要招-Android&iOS-客户端基础技术方向，其他技术方向社招和校招也可以内推，欢迎投递](https://www.v2ex.com/t/839930) 
+- [2022-03-12-自己家用主机的虚拟化方案实施情况](https://www.v2ex.com/t/839929) 
 - [2022-03-12-Microsoft-WinRT-Storage-API-右键-BUG-清理注册表却无用-救救强迫症](https://www.v2ex.com/t/839927) 
 - [2022-03-12-软件测试有没有简历模板可以参考？](https://www.v2ex.com/t/839923) 
 - [2022-03-12-表妹的-qq-号被盗了，有无大佬能帮帮，孩子哭的很。](https://www.v2ex.com/t/839922) 
@@ -1942,7 +1946,6 @@
 - [2022-03-12-支付宝上线“支付宝号”](https://www.v2ex.com/t/839885) 
 - [2022-03-12-搞了个文字转语音的小工具](https://www.v2ex.com/t/839884) 
 - [2022-03-12-求晓言智屏音箱原版系统,-中移物联网的朋友请进](https://www.v2ex.com/t/839883) 
-- [2022-03-12-taobao-的-Web-端适老化及无障碍改造做的不错，好评](https://www.v2ex.com/t/839881) 
 - [2022-03-12-聊聊通用的架构设计-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14976&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fcommon-architecture-design%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-03-12-如何学习一门技术-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14975&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-learn-new-technique%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-03-12-wallys/DR6018-S/Support-OpenWRT-IPQ6010-802.11ax-2x2-2.4G&5G-www.wallystech.com](https://blogread.cn/news/go.php?idItem=14974&url=https%3A%2F%2Fwww.wallystech.com%2FRouterboard%2FDR6018-S-V02-wifi6-Qualcomm-IPQ6010-2T2R-2-GE-port-supporting-QCN9074-wifi-card-802.11AX-MU-MIMO-OFDMA.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1967,8 +1970,8 @@
 - [2022-03-12-C++：Trivial、Standard-Layout-和-POD](https://toutiao.io/k/inpdi98) 
 - [2022-03-12-操作系统两大创始人反目，这个排名第九的-Linux-发行版-OS-何去何从？](https://toutiao.io/k/i9richc) 
 - [2022-03-12-推荐-快看我在Redis分布式锁上，栽的8个跟头！](https://toutiao.io/k/pshtt8d) 
-- [2022-03-12-推荐-高并发是一种架构思维模式](https://toutiao.io/k/imslmgz) 
-- [2022-03-12-推荐-微服务从代码到k8s部署应有尽有大结局（k8s部署）](https://toutiao.io/k/xk3qbvm) 
-- [2022-03-12-推荐-Java泛型详解，史上最全图文详解！](https://toutiao.io/k/chtkqxo) 
 - [2022-03-12-推荐-微服务如何划分](https://toutiao.io/k/f4vabj7) 
+- [2022-03-12-推荐-Java泛型详解，史上最全图文详解！](https://toutiao.io/k/chtkqxo) 
+- [2022-03-12-推荐-微服务从代码到k8s部署应有尽有大结局（k8s部署）](https://toutiao.io/k/xk3qbvm) 
+- [2022-03-12-推荐-高并发是一种架构思维模式](https://toutiao.io/k/imslmgz) 
 - [2022-03-12-推荐-MySQL-团队开发规范](https://toutiao.io/k/qjooigy) 

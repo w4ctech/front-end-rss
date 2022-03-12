@@ -1,10 +1,14 @@
-:alarm_clock: 更新时间: 2022-03-12 13:16:42。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-03-12 13:37:41。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-03-12-蓝湖](https://www.v2ex.com/t/839932) 
+- [2022-03-12-Apple-设备导出-HDR-照片的困惑](https://www.v2ex.com/t/839931) 
+- [2022-03-12-拼多多-上海-拼多多可内推，团队主要招-Android&iOS-客户端基础技术方向，其他技术方向社招和校招也可以内推，欢迎投递](https://www.v2ex.com/t/839930) 
+- [2022-03-12-自己家用主机的虚拟化方案实施情况](https://www.v2ex.com/t/839929) 
 - [2022-03-12-Microsoft-WinRT-Storage-API-右键-BUG-清理注册表却无用-救救强迫症](https://www.v2ex.com/t/839927) 
 - [2022-03-12-Haskell-运算斐波那契数列怎么这么慢，比-JS-慢多了。。](https://www.v2ex.com/t/839924) 
 - [2022-03-12-软件测试有没有简历模板可以参考？](https://www.v2ex.com/t/839923) 
@@ -40,5 +44,3 @@
 - [2022-03-12-支付宝上线“支付宝号”](https://www.v2ex.com/t/839885) 
 - [2022-03-12-搞了个文字转语音的小工具](https://www.v2ex.com/t/839884) 
 - [2022-03-12-求晓言智屏音箱原版系统,-中移物联网的朋友请进](https://www.v2ex.com/t/839883) 
-- [2022-03-12-taobao-的-Web-端适老化及无障碍改造做的不错，好评](https://www.v2ex.com/t/839881) 
-- [2022-03-12-GraphQL-有什么优缺点](https://www.v2ex.com/t/839880) 

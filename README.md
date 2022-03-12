@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-03-12 00:44:35，:rocket: 更新条数: +2013， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-03-12 02:00:41，:rocket: 更新条数: +2020， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,26 +491,26 @@
 </summary>
 
 
+- [2022-03-12-平时刷视频会遇到电脑人读的旁白，是用什么软件做的？](https://www.v2ex.com/t/839812) ![](assets/new.png)  
+- [2022-03-12-M1-MacBook-Air-连接-HN8145v-光猫-Wi-Fi-测速时-Tx-速率骤减](https://www.v2ex.com/t/839811) ![](assets/new.png)  
+- [2022-03-12-租房改造建议](https://www.v2ex.com/t/839810) ![](assets/new.png)  
+- [2022-03-12-做了个《24-点》APP，欢迎大家体验](https://www.v2ex.com/t/839809) ![](assets/new.png)  
+- [2022-03-12-tp-5430-太丑了，有没有换壳的](https://www.v2ex.com/t/839807) ![](assets/new.png)  
+- [2022-03-12-从阿里小号-app-买的阿里小号如何-20-元/年续费](https://www.v2ex.com/t/839805) ![](assets/new.png)  
+- [2022-03-12-L2TP-中-LAC-之间无法互通](https://www.v2ex.com/t/839804) ![](assets/new.png)  
+- [2022-03-12-IOS-的录音机文件-ACC，-windows-能播放么？](https://www.v2ex.com/t/839803) ![](assets/new.png)  
+- [2022-03-12-搭配-Typora-写作的图片管理工具优惠码](https://www.v2ex.com/t/839802) ![](assets/new.png)  
+- [2022-03-12-yuga-labs-买了-punks-和-meebits，并把版权给了用户](https://www.v2ex.com/t/839801) ![](assets/new.png)  
 - [2022-03-12-去年-6-月公司裁员后一直到现在没上班，今天看了下个税要补交-3-万？-期间社保通过某渠道续着的-。。](https://www.v2ex.com/t/839800) ![](assets/new.png)  
 - [2022-03-12-MBP2017-外接显示器原来-4k60，又突然变成-4k30hz-了](https://www.v2ex.com/t/839799) ![](assets/new.png)  
 - [2022-03-12-有没有-Mysql-转-SQLite-的工具或者库啊？](https://www.v2ex.com/t/839798) ![](assets/new.png)  
 - [2022-03-12-相同接口不同客户端](https://www.v2ex.com/t/839797) ![](assets/new.png)  
-- [2022-03-11-JetBrains-做了一个艰难的决定](https://www.v2ex.com/t/839796) ![](assets/new.png)  
 - [2022-03-11-有没有免费的短网址](https://www.v2ex.com/t/839795) ![](assets/new.png)  
 - [2022-03-11-某宝号码卡低月租大流量靠谱吗🙈](https://www.v2ex.com/t/839794) ![](assets/new.png)  
 - [2022-03-11-有没有豆瓣备份站点？](https://www.v2ex.com/t/839793) ![](assets/new.png)  
 - [2022-03-11-有没有什么现在能方便买到的，国内可以使用的北美电话卡，需要用流量](https://www.v2ex.com/t/839792) ![](assets/new.png)  
 - [2022-03-11-海外服务器求推荐](https://www.v2ex.com/t/839791) ![](assets/new.png)  
 - [2022-03-11-~/Developer](https://www.v2ex.com/t/839790) ![](assets/new.png)  
-- [2022-03-11-Rayon-·-一款开源的-SSH-+-服务器监控工具](https://www.v2ex.com/t/839789) ![](assets/new.png)  
-- [2022-03-11-有熟悉微信广告投放的朋友吗？](https://www.v2ex.com/t/839787) ![](assets/new.png)  
-- [2022-03-11-求-chrome-收藏夹插件：添加书签到此文件夹](https://www.v2ex.com/t/839784) ![](assets/new.png)  
-- [2022-03-11-有用红米-AX6-刷-openwrt-的吗？刷完信号怎么样？](https://www.v2ex.com/t/839780) ![](assets/new.png)  
-- [2022-03-11-Slackware-15.0](https://www.v2ex.com/t/839779) ![](assets/new.png)  
-- [2022-03-11-请求-MacBook-连接罗技-G903-鼠标问题](https://www.v2ex.com/t/839778) ![](assets/new.png)  
-- [2022-03-11-可否用香港-appleid-完全替代国区-id？](https://www.v2ex.com/t/839777) ![](assets/new.png)  
-- [2022-03-11-16-寸-M1-Max-在拷贝文件的时候只有两个能效核心-100%运行，导致拷贝的比较慢？](https://www.v2ex.com/t/839776) ![](assets/new.png)  
-- [2022-03-11-v2ex-简单应用](https://www.v2ex.com/t/839775) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -557,11 +557,17 @@
 - [2022-03-12-快手抓包问题分析](https://toutiao.io/k/ef3rtq9) ![](assets/new.png)  
 - [2022-03-12-TikTok或将与甲骨文达成数据存储协议；董明珠建议对996开展公益诉讼；苹果举办春季新品发布会｜开发者头条](https://toutiao.io/k/fxpbkrf) ![](assets/new.png)  
 - [2022-03-12-Decorator-装饰器](https://toutiao.io/k/4m72ib3) ![](assets/new.png)  
-- [2022-03-12-推荐-高并发是一种架构思维模式](https://toutiao.io/k/imslmgz) ![](assets/new.png)  
-- [2022-03-12-推荐-MySQL-团队开发规范](https://toutiao.io/k/qjooigy) ![](assets/new.png)  
+- [2022-03-12-Java8中的真的Optional很强大，你用对了吗？](https://toutiao.io/k/qs2wv18) ![](assets/new.png)  
+- [2022-03-12-操作系统两大创始人反目，这个排名第九的-Linux-发行版-OS-何去何从？](https://toutiao.io/k/i9richc) ![](assets/new.png)  
+- [2022-03-12-这才叫高颜值的Markdown编辑神器！](https://toutiao.io/k/1e2emdd) ![](assets/new.png)  
+- [2022-03-12-设计一个靠谱的监控告警平台](https://toutiao.io/k/tyojqf4) ![](assets/new.png)  
+- [2022-03-12-单个-GPU-无法训练-GPT-3，但有了这个，你能调优超参数了](https://toutiao.io/k/3y6p0p9) ![](assets/new.png)  
+- [2022-03-12-一文彻底了解Low-Code](https://toutiao.io/k/beqdqw9) ![](assets/new.png)  
 - [2022-03-12-推荐-微服务如何划分](https://toutiao.io/k/f4vabj7) ![](assets/new.png)  
-- [2022-03-12-推荐-快看我在Redis分布式锁上，栽的8个跟头！](https://toutiao.io/k/pshtt8d) ![](assets/new.png)  
 - [2022-03-12-推荐-Java泛型详解，史上最全图文详解！](https://toutiao.io/k/chtkqxo) ![](assets/new.png)  
+- [2022-03-12-推荐-MySQL-团队开发规范](https://toutiao.io/k/qjooigy) ![](assets/new.png)  
+- [2022-03-12-推荐-快看我在Redis分布式锁上，栽的8个跟头！](https://toutiao.io/k/pshtt8d) ![](assets/new.png)  
+- [2022-03-12-推荐-高并发是一种架构思维模式](https://toutiao.io/k/imslmgz) ![](assets/new.png)  
 - [2022-03-12-推荐-微服务从代码到k8s部署应有尽有大结局（k8s部署）](https://toutiao.io/k/xk3qbvm) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-03-12 08:15:59，:rocket: 更新条数: +2019， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-03-12 08:40:58，:rocket: 更新条数: +2018， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-03-12-《开源面对面》S01E06-从民营书店进货员到开源创业工程师的故事](https://www.v2ex.com/t/839888) ![](assets/new.png)  
+- [2022-03-12-笔记本卡在开机界面，怎么办？](https://www.v2ex.com/t/839887) ![](assets/new.png)  
 - [2022-03-12-支付宝上线“支付宝号”](https://www.v2ex.com/t/839885) ![](assets/new.png)  
 - [2022-03-12-搞了个文字转语音的小工具](https://www.v2ex.com/t/839884) ![](assets/new.png)  
 - [2022-03-12-求晓言智屏音箱原版系统,-中移物联网的朋友请进](https://www.v2ex.com/t/839883) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-03-12-这是前端-URL-参数加密了吗？](https://www.v2ex.com/t/839865) ![](assets/new.png)  
 - [2022-03-12-买了新款-iPhone-SE-3](https://www.v2ex.com/t/839864) ![](assets/new.png)  
 - [2022-03-12-M1-能装上-AutoCAD-的麻烦进来分享一下](https://www.v2ex.com/t/839863) ![](assets/new.png)  
-- [2022-03-12-用-React-做的一个云顶教程编写的网站，麻烦给点意见](https://www.v2ex.com/t/839862) ![](assets/new.png)  
-- [2022-03-12-想烧个音箱，桌面音箱有没有类似原道耳机这种退烧神器](https://www.v2ex.com/t/839861) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -565,11 +565,11 @@
 - [2022-03-12-温故知新-什么是软件工程](https://toutiao.io/k/kd65fkp) ![](assets/new.png)  
 - [2022-03-12-看看用python让一群机器人聊聊中国足球会发生什么事~](https://toutiao.io/k/ti1f0tk) ![](assets/new.png)  
 - [2022-03-12-C++：Trivial、Standard-Layout-和-POD](https://toutiao.io/k/inpdi98) ![](assets/new.png)  
+- [2022-03-12-推荐-快看我在Redis分布式锁上，栽的8个跟头！](https://toutiao.io/k/pshtt8d) ![](assets/new.png)  
+- [2022-03-12-推荐-Java泛型详解，史上最全图文详解！](https://toutiao.io/k/chtkqxo) ![](assets/new.png)  
 - [2022-03-12-推荐-微服务从代码到k8s部署应有尽有大结局（k8s部署）](https://toutiao.io/k/xk3qbvm) ![](assets/new.png)  
 - [2022-03-12-推荐-高并发是一种架构思维模式](https://toutiao.io/k/imslmgz) ![](assets/new.png)  
 - [2022-03-12-推荐-微服务如何划分](https://toutiao.io/k/f4vabj7) ![](assets/new.png)  
-- [2022-03-12-推荐-Java泛型详解，史上最全图文详解！](https://toutiao.io/k/chtkqxo) ![](assets/new.png)  
-- [2022-03-12-推荐-快看我在Redis分布式锁上，栽的8个跟头！](https://toutiao.io/k/pshtt8d) ![](assets/new.png)  
 - [2022-03-12-推荐-MySQL-团队开发规范](https://toutiao.io/k/qjooigy) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-03-13 14:12:46。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-03-13 14:37:34。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1912,7 +1912,8 @@
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2022-02-04-HTML-inputmode与iOS-Android软键盘类型测试](https://www.zhangxinxu.com/wordpress/2022/02/html-inputmode-keyboard/) 
-- [2022-03-13-项目管理副业](https://www.v2ex.com/t/840088) 
+- [2022-03-13-求推荐-2-万左右的商务笔记本](https://www.v2ex.com/t/840090) 
+- [2022-03-13-寻找项目管理副业](https://www.v2ex.com/t/840088) 
 - [2022-03-13-去哪里找外包开发靠谱一点？](https://www.v2ex.com/t/840087) 
 - [2022-03-13-有什么安卓-APP-可以自定义手机本地连接的-IP-设置（IP、掩码、网关）？](https://www.v2ex.com/t/840086) 
 - [2022-03-13-各位-V-友，请教一个关于电路中积分器的一个问题](https://www.v2ex.com/t/840084) 
@@ -1946,8 +1947,6 @@
 - [2022-03-13-各位-v-友啊，请问一下对于-notion、语雀、wolai、印象笔记等这些你们是什么看法或者有什么可以推荐？](https://www.v2ex.com/t/840045) 
 - [2022-03-13-这是一个求职贴，-C/C++程序员找工作](https://www.v2ex.com/t/840044) 
 - [2022-03-13-唯一没买-Apple-Care-的手表坏了](https://www.v2ex.com/t/840043) 
-- [2022-03-13-彩云天气，原来多好的一个-app，现在真是让人一言难尽……（记得产品经理在-v-站出没过](https://www.v2ex.com/t/840040) 
-- [2022-03-13-B-站内推](https://www.v2ex.com/t/840039) 
 - [2022-03-13-聊聊通用的架构设计-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14976&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fcommon-architecture-design%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-03-13-如何学习一门技术-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14975&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-learn-new-technique%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-03-13-wallys/DR6018-S/Support-OpenWRT-IPQ6010-802.11ax-2x2-2.4G&5G-www.wallystech.com](https://blogread.cn/news/go.php?idItem=14974&url=https%3A%2F%2Fwww.wallystech.com%2FRouterboard%2FDR6018-S-V02-wifi6-Qualcomm-IPQ6010-2T2R-2-GE-port-supporting-QCN9074-wifi-card-802.11AX-MU-MIMO-OFDMA.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1970,8 +1969,8 @@
 - [2022-03-13-行业实践-Apache-Flink-在移动云实时计算的实践](https://toutiao.io/k/4zaegp9) 
 - [2022-03-13-亚1纳米制程晶体管，一个碳原子栅极厚度：清华重大突破登上Nature](https://toutiao.io/k/6wx668d) 
 - [2022-03-13-Netflix是如何做决策的?-|-4.-A/B测试结果之假阴性和统计功效](https://toutiao.io/k/wxlqlsy) 
+- [2022-03-13-推荐-高并发是一种架构思维模式](https://toutiao.io/k/imslmgz) 
 - [2022-03-13-推荐-Java泛型详解，史上最全图文详解！](https://toutiao.io/k/chtkqxo) 
 - [2022-03-13-推荐-微服务从代码到k8s部署应有尽有大结局（k8s部署）](https://toutiao.io/k/xk3qbvm) 
-- [2022-03-13-推荐-高并发是一种架构思维模式](https://toutiao.io/k/imslmgz) 
-- [2022-03-13-推荐-MySQL-团队开发规范](https://toutiao.io/k/qjooigy) 
 - [2022-03-13-推荐-微服务如何划分](https://toutiao.io/k/f4vabj7) 
+- [2022-03-13-推荐-MySQL-团队开发规范](https://toutiao.io/k/qjooigy) 

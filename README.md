@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-03-13 07:36:14，:rocket: 更新条数: +2017， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-03-13 08:15:25，:rocket: 更新条数: +2018， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,10 @@
 </summary>
 
 
+- [2022-03-13-有哪些开源的逆向图片识别引擎？](https://www.v2ex.com/t/840028) ![](assets/new.png)  
+- [2022-03-13-NAS-下的-wifi6-速度测试还可以，云剪辑可行](https://www.v2ex.com/t/840027) ![](assets/new.png)  
+- [2022-03-13-程序员的人生不要设限](https://www.v2ex.com/t/840026) ![](assets/new.png)  
+- [2022-03-13-apt-安装软件时会验证每个包的签名吗？为什么下载软件包走-http-传输，是出于性能考虑吗？](https://www.v2ex.com/t/840025) ![](assets/new.png)  
 - [2022-03-13-北上广深杭-网易内推~~~](https://www.v2ex.com/t/840024) ![](assets/new.png)  
 - [2022-03-13-都-2022-年了，中国联通官网的修改密码页面还是-HTTP-连接](https://www.v2ex.com/t/840023) ![](assets/new.png)  
 - [2022-03-13-OneDrive-设置了“始终保留在此设备上”，还是会被释放空间，是什么原因呢？](https://www.v2ex.com/t/840022) ![](assets/new.png)  
@@ -507,10 +511,6 @@
 - [2022-03-13-正在寻找能够自主设定烹煮流程（或可编程）的电锅，或烹饪工具](https://www.v2ex.com/t/840000) ![](assets/new.png)  
 - [2022-03-13-求-macOS-上好用的右键增强软件。](https://www.v2ex.com/t/839999) ![](assets/new.png)  
 - [2022-03-13-stackoverflow-维护几个小时了，这让我有些后怕](https://www.v2ex.com/t/839998) ![](assets/new.png)  
-- [2022-03-13-MacBook-Pro-的屏幕显示效果接近什么价位的显示器，为什么感觉我-19-款的-MacBook-Pro-显示效果比朋友接近-5000-元的-Dell-U3223QE-效果还好？](https://www.v2ex.com/t/839997) ![](assets/new.png)  
-- [2022-03-13-Go-语言写的-KV-引擎-NutsDB-的前生今世-&-招募开发者共建-NutsDB](https://www.v2ex.com/t/839996) ![](assets/new.png)  
-- [2022-03-13-通勤最后一公里有没有什么好方式?](https://www.v2ex.com/t/839994) ![](assets/new.png)  
-- [2022-03-13-有没有可能人类文明只是某个硅基生命的培养皿](https://www.v2ex.com/t/839993) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -565,12 +565,12 @@
 - [2022-03-13-InnoDB原理篇：聊聊数据页变成索引这件事](https://toutiao.io/k/02kvspy) ![](assets/new.png)  
 - [2022-03-13-Netflix是如何做决策的?-|-4.-A/B测试结果之假阴性和统计功效](https://toutiao.io/k/wxlqlsy) ![](assets/new.png)  
 - [2022-03-13-Elasticsearch-集群状态变成黄色或者红色，怎么办？](https://toutiao.io/k/vcflw6z) ![](assets/new.png)  
-- [2022-03-13-推荐-快看我在Redis分布式锁上，栽的8个跟头！](https://toutiao.io/k/pshtt8d) ![](assets/new.png)  
+- [2022-03-13-推荐-微服务如何划分](https://toutiao.io/k/f4vabj7) ![](assets/new.png)  
 - [2022-03-13-推荐-Java泛型详解，史上最全图文详解！](https://toutiao.io/k/chtkqxo) ![](assets/new.png)  
 - [2022-03-13-推荐-微服务从代码到k8s部署应有尽有大结局（k8s部署）](https://toutiao.io/k/xk3qbvm) ![](assets/new.png)  
-- [2022-03-13-推荐-微服务如何划分](https://toutiao.io/k/f4vabj7) ![](assets/new.png)  
-- [2022-03-13-推荐-高并发是一种架构思维模式](https://toutiao.io/k/imslmgz) ![](assets/new.png)  
+- [2022-03-13-推荐-快看我在Redis分布式锁上，栽的8个跟头！](https://toutiao.io/k/pshtt8d) ![](assets/new.png)  
 - [2022-03-13-推荐-MySQL-团队开发规范](https://toutiao.io/k/qjooigy) ![](assets/new.png)  
+- [2022-03-13-推荐-高并发是一种架构思维模式](https://toutiao.io/k/imslmgz) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

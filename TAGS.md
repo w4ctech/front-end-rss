@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-03-13 07:36:14。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-03-13 08:15:26。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -219,7 +219,6 @@
 
 
 
-- [【V2EX】有关于浏览器-Canvas-指纹，添加多种语言的文字是否能增加区分度，在-v2-做个小实验](https://www.v2ex.com/t/839977)
 - [......【查看更多】......](./details/tags/canvas-image.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -238,7 +237,6 @@
 
 - [【武汉肺炎防疫全纪录(财新网)】广州17岁男生在定点医院参加高考-特殊考场视频监考](https://m.caixin.com/m/2021-06-05/101723418.html)
 - [【武汉肺炎防疫全纪录(财新网)】林郑月娥率13高官直播接种科兴疫苗-复星疫苗预计周中到港](https://m.caixin.com/m/2021-02-22/101665724.html)
-- [【V2EX】直播流检测](https://www.v2ex.com/t/839978)
 - [......【查看更多】......](./details/tags/audio-video.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -255,6 +253,7 @@
 
 
 
+- [【V2EX】apt-安装软件时会验证每个包的签名吗？为什么下载软件包走-http-传输，是出于性能考虑吗？](https://www.v2ex.com/t/840025)
 - [【技术头条】Web前端性能优化思路-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14963&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fweb-frontend-performance-tuning%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [......【查看更多】......](./details/tags/optimization.md)
 

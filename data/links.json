@@ -9953,6 +9953,16 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "Rust 的实际应用场景有哪些？哪些公司或组织在用？",
+        "link": "https://www.v2ex.com/t/840103",
+        "date": "2022-03-13"
+      },
+      {
+        "title": "自建网盘文件存储用 POSIX 文件系统还是 MongoDB 还是 minio 等 OSS？",
+        "link": "https://www.v2ex.com/t/840102",
+        "date": "2022-03-13"
+      },
+      {
         "title": "为什么欧美二次元游戏厂商这么少？",
         "link": "https://www.v2ex.com/t/840101",
         "date": "2022-03-13"
@@ -10146,11 +10156,6 @@
         "title": "有无懂计算机网络的 V 友，问一个单臂旁网关（N1 盒子）端口转发的问题",
         "link": "https://www.v2ex.com/t/840054",
         "date": "2022-03-13"
-      },
-      {
-        "title": "Pixel6 入手体验",
-        "link": "https://www.v2ex.com/t/840053",
-        "date": "2022-03-13"
       }
     ]
   },
@@ -10159,6 +10164,41 @@
     "title": "技术头条",
     "link": "http://blogread.cn/news/newest.php",
     "items": [
+      {
+        "title": "上架Steam一周的付费游戏，在GitHub开源了！ (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=14983&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493708%26amp%3Bidx%3D1%26amp%3Bsn%3D1082a7525d5449a8cc0e789adb84dfe3%26amp%3Bchksm%3Dfa3f0917cd488001a9e21cb4f8ed85d331c858e1fc3fb0e47a23798a8ada565bfc1e5fc8221b%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2022-03-13"
+      },
+      {
+        "title": "书单嵌入式、C语言编程书籍 (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=14982&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493708%26amp%3Bidx%3D2%26amp%3Bsn%3D8912c67f39a11e5c64a6f0cc7e0c0c7f%26amp%3Bchksm%3Dfa3f0917cd48800188d3b29be8afbb3d13e5d5837c0b52052115688b4f57b307a1dfa3f14b3e%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2022-03-13"
+      },
+      {
+        "title": "12个“经典”网站！ (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=14981&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493629%26amp%3Bidx%3D1%26amp%3Bsn%3D92373e79046af0c911cd3f150722950e%26amp%3Bchksm%3Dfa3f06a6cd488fb08bd084438b95cbc4bf8d938626c68a16d79b952565803cc8d5868beaa419%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2022-03-13"
+      },
+      {
+        "title": "2021年最佳JavaScript框架排名 (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=14980&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493629%26amp%3Bidx%3D2%26amp%3Bsn%3Dd08e370f799b050dc7206273191f2840%26amp%3Bchksm%3Dfa3f06a6cd488fb065b71894f60b9ac64a4ec84efed20d00736892b9328a0f91383403bd92c7%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2022-03-13"
+      },
+      {
+        "title": "推荐一本免费的Go书籍！ (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=14979&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493626%26amp%3Bidx%3D1%26amp%3Bsn%3D4681027d12e73760b7bb0a764a4ced5b%26amp%3Bchksm%3Dfa3f06a1cd488fb71d84baf9e5ccb2a84ceab9ff5c748312e3682dbab7afef5ac842705b5451%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2022-03-13"
+      },
+      {
+        "title": "快速上手Token登录认证 (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=14978&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493626%26amp%3Bidx%3D2%26amp%3Bsn%3D58414a4725480cdae052491971a6501a%26amp%3Bchksm%3Dfa3f06a1cd488fb724de143a83e4770665fb8c6c49aebbd5632db0b2f468635729cde0a3e41f%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2022-03-13"
+      },
+      {
+        "title": "从0搭建SpringCloud服务，完整教程！ (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=14977&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493625%26amp%3Bidx%3D2%26amp%3Bsn%3D8a31cdaec238dc2b0b638435cb24f322%26amp%3Bchksm%3Dfa3f06a2cd488fb49f7638e664389db59c8c728b14f2bd1293b51b13a45a969c3daf796cba51%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2022-03-13"
+      },
       {
         "title": "聊聊通用的架构设计 (insights.thoughtworks.cn)",
         "link": "https://blogread.cn/news/go.php?idItem=14976&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fcommon-architecture-design%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
@@ -10222,41 +10262,6 @@
       {
         "title": "浅谈企业数据能力建设 (insights.thoughtworks.cn)",
         "link": "https://blogread.cn/news/go.php?idItem=14964&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fenterprise-data-capability-building%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-03-13"
-      },
-      {
-        "title": "Web前端性能优化思路 (insights.thoughtworks.cn)",
-        "link": "https://blogread.cn/news/go.php?idItem=14963&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fweb-frontend-performance-tuning%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-03-13"
-      },
-      {
-        "title": "手把手教你打造一款高逼格的Vim神器 (mp.weixin.qq.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=14962&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493488%26amp%3Bidx%3D1%26amp%3Bsn%3D8c128186d0b12d8022708ce9b725c809%26amp%3Bchksm%3Dfa3f062bcd488f3d67c96d2ef6df68b69de330f0c59212326cb0ae131769811d029e0b67efb7%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-03-13"
-      },
-      {
-        "title": "傻傻分不清，前后端接口Cookie、Session、Token的区别？ (mp.weixin.qq.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=14961&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493488%26amp%3Bidx%3D2%26amp%3Bsn%3D6c976132f89f3b2e7578d471ef4f260a%26amp%3Bchksm%3Dfa3f062bcd488f3dc5acee3f3f231bf90a3fa4081829f4fb53c83193994c3e095596b4aa426f%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-03-13"
-      },
-      {
-        "title": "为什么会有TCPIP协议？ (mp.weixin.qq.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=14960&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493487%26amp%3Bidx%3D1%26amp%3Bsn%3Dae7576870da25f743982f068bbc66cb8%26amp%3Bchksm%3Dfa3f0634cd488f226de44a1c25699248ed8c16e9953f97e0dee85a1d446b6414cef55042ae0f%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-03-13"
-      },
-      {
-        "title": "在IDEA中的各种调试，Bug定位（超级全面） (mp.weixin.qq.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=14959&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493487%26amp%3Bidx%3D2%26amp%3Bsn%3D2a117b44b5dd666ddd79ebf90940831a%26amp%3Bchksm%3Dfa3f0634cd488f22657c709768ceb59cab1c4dda36185984e6d0dd5c5fd191e80a0b6b21c2c2%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-03-13"
-      },
-      {
-        "title": "分享一个完整的【停车系统】 (mp.weixin.qq.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=14958&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493484%26amp%3Bidx%3D1%26amp%3Bsn%3D2058998476be2536471f15549250c63d%26amp%3Bchksm%3Dfa3f0637cd488f2132af305dea472a02e7daaf2f9aa885f7b902a2f7407a40dca2bb165202d8%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-03-13"
-      },
-      {
-        "title": "【干货】为什么我会放弃Webpack而选择Vite (mp.weixin.qq.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=14957&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493484%26amp%3Bidx%3D2%26amp%3Bsn%3D729e4110a57c1a14ce95a8683a0a3b25%26amp%3Bchksm%3Dfa3f0637cd488f2136db7ee9d1108504d923c7430e1be1b1572a5b420a1d5edcd574cbb90228%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
         "date": "2022-03-13"
       }
     ]
@@ -10327,8 +10332,13 @@
         "date": "2022-03-13"
       },
       {
-        "title": "[推荐] Java泛型详解，史上最全图文详解！",
-        "link": "https://toutiao.io/k/chtkqxo",
+        "title": "[推荐] 微服务从代码到k8s部署应有尽有大结局（k8s部署）",
+        "link": "https://toutiao.io/k/xk3qbvm",
+        "date": "2022-03-13"
+      },
+      {
+        "title": "[推荐] MySQL 团队开发规范",
+        "link": "https://toutiao.io/k/qjooigy",
         "date": "2022-03-13"
       },
       {
@@ -10337,18 +10347,18 @@
         "date": "2022-03-13"
       },
       {
+        "title": "[推荐] Java泛型详解，史上最全图文详解！",
+        "link": "https://toutiao.io/k/chtkqxo",
+        "date": "2022-03-13"
+      },
+      {
+        "title": "[推荐] 快看我在Redis分布式锁上，栽的8个跟头！",
+        "link": "https://toutiao.io/k/pshtt8d",
+        "date": "2022-03-13"
+      },
+      {
         "title": "[推荐] 高并发是一种架构思维模式",
         "link": "https://toutiao.io/k/imslmgz",
-        "date": "2022-03-13"
-      },
-      {
-        "title": "[推荐] 微服务从代码到k8s部署应有尽有大结局（k8s部署）",
-        "link": "https://toutiao.io/k/xk3qbvm",
-        "date": "2022-03-13"
-      },
-      {
-        "title": "[推荐] MySQL 团队开发规范",
-        "link": "https://toutiao.io/k/qjooigy",
         "date": "2022-03-13"
       }
     ]

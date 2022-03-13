@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-03-13 02:50:37。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-03-13 03:14:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1912,6 +1912,9 @@
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2022-02-04-HTML-inputmode与iOS-Android软键盘类型测试](https://www.zhangxinxu.com/wordpress/2022/02/html-inputmode-keyboard/) 
+- [2022-03-13-通勤最后一公里有没有什么好方式?](https://www.v2ex.com/t/839994) 
+- [2022-03-13-有没有可能人类文明只是某个硅基生命的培养皿](https://www.v2ex.com/t/839993) 
+- [2022-03-13-语雀免费领取-1-4-年会员（必领-1-年）](https://www.v2ex.com/t/839992) 
 - [2022-03-13-iPhone-13-mini-磁吸充电宝选择它？](https://www.v2ex.com/t/839991) 
 - [2022-03-13-为什么-Ctrl-C-按键失效？](https://www.v2ex.com/t/839990) 
 - [2022-03-13-五千米-33-分才跑完](https://www.v2ex.com/t/839987) 
@@ -1943,7 +1946,6 @@
 - [2022-03-12-surfingkeys-的-t-键是不是有点难用](https://www.v2ex.com/t/839951) 
 - [2022-03-12-求各位推荐办公用笔记本](https://www.v2ex.com/t/839950) 
 - [2022-03-12-win10-已经装了-wsl，怎么装安卓或安卓模拟器?](https://www.v2ex.com/t/839946) 
-- [2022-03-12-QNAP-手机端和电脑端映射都能连接-qnap，但是-qfinder-无法找到-nas，-qts-网页无法打开，这是为什么？](https://www.v2ex.com/t/839942) 
 - [2022-03-13-聊聊通用的架构设计-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14976&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fcommon-architecture-design%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-03-13-如何学习一门技术-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14975&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-learn-new-technique%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-03-13-wallys/DR6018-S/Support-OpenWRT-IPQ6010-802.11ax-2x2-2.4G&5G-www.wallystech.com](https://blogread.cn/news/go.php?idItem=14974&url=https%3A%2F%2Fwww.wallystech.com%2FRouterboard%2FDR6018-S-V02-wifi6-Qualcomm-IPQ6010-2T2R-2-GE-port-supporting-QCN9074-wifi-card-802.11AX-MU-MIMO-OFDMA.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1964,9 +1966,9 @@
 - [2022-03-13-行业实践-Apache-Flink-在移动云实时计算的实践](https://toutiao.io/k/4zaegp9) 
 - [2022-03-13-设计模式二三事](https://toutiao.io/k/xxsl3zv) 
 - [2022-03-13-亚1纳米制程晶体管，一个碳原子栅极厚度：清华重大突破登上Nature](https://toutiao.io/k/6wx668d) 
-- [2022-03-13-推荐-微服务从代码到k8s部署应有尽有大结局（k8s部署）](https://toutiao.io/k/xk3qbvm) 
 - [2022-03-13-推荐-MySQL-团队开发规范](https://toutiao.io/k/qjooigy) 
-- [2022-03-13-推荐-高并发是一种架构思维模式](https://toutiao.io/k/imslmgz) 
+- [2022-03-13-推荐-微服务从代码到k8s部署应有尽有大结局（k8s部署）](https://toutiao.io/k/xk3qbvm) 
 - [2022-03-13-推荐-Java泛型详解，史上最全图文详解！](https://toutiao.io/k/chtkqxo) 
-- [2022-03-13-推荐-快看我在Redis分布式锁上，栽的8个跟头！](https://toutiao.io/k/pshtt8d) 
+- [2022-03-13-推荐-高并发是一种架构思维模式](https://toutiao.io/k/imslmgz) 
 - [2022-03-13-推荐-微服务如何划分](https://toutiao.io/k/f4vabj7) 
+- [2022-03-13-推荐-快看我在Redis分布式锁上，栽的8个跟头！](https://toutiao.io/k/pshtt8d) 

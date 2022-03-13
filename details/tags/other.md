@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-03-13 18:15:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-03-13 18:42:15。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1969,9 +1969,9 @@
 - [2022-03-13-行业实践-Apache-Flink-在移动云实时计算的实践](https://toutiao.io/k/4zaegp9) 
 - [2022-03-13-亚1纳米制程晶体管，一个碳原子栅极厚度：清华重大突破登上Nature](https://toutiao.io/k/6wx668d) 
 - [2022-03-13-Netflix是如何做决策的?-|-4.-A/B测试结果之假阴性和统计功效](https://toutiao.io/k/wxlqlsy) 
-- [2022-03-13-推荐-Java泛型详解，史上最全图文详解！](https://toutiao.io/k/chtkqxo) 
 - [2022-03-13-推荐-MySQL-团队开发规范](https://toutiao.io/k/qjooigy) 
-- [2022-03-13-推荐-微服务如何划分](https://toutiao.io/k/f4vabj7) 
 - [2022-03-13-推荐-快看我在Redis分布式锁上，栽的8个跟头！](https://toutiao.io/k/pshtt8d) 
 - [2022-03-13-推荐-微服务从代码到k8s部署应有尽有大结局（k8s部署）](https://toutiao.io/k/xk3qbvm) 
+- [2022-03-13-推荐-Java泛型详解，史上最全图文详解！](https://toutiao.io/k/chtkqxo) 
+- [2022-03-13-推荐-微服务如何划分](https://toutiao.io/k/f4vabj7) 
 - [2022-03-13-推荐-高并发是一种架构思维模式](https://toutiao.io/k/imslmgz) 

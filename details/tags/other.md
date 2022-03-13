@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-03-13 10:13:47。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-03-13 10:39:27。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1912,6 +1912,7 @@
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2022-02-04-HTML-inputmode与iOS-Android软键盘类型测试](https://www.zhangxinxu.com/wordpress/2022/02/html-inputmode-keyboard/) 
+- [2022-03-13-MacBook-Pro-隐藏刘海-浅色模式下黑色状态栏](https://www.v2ex.com/t/840050) 
 - [2022-03-13-实现了个-IPP互联网打印协议解包及发包的小玩意](https://www.v2ex.com/t/840049) 
 - [2022-03-13-问各位大佬一个个奇怪的问题，很是羡慕那些随手就能手写出很有条理很好看的笔记（或随笔）的人，那种技能是怎么练出来的，我是个学渣不太懂。](https://www.v2ex.com/t/840048) 
 - [2022-03-13-iPhone-/-iPad-Pro-系列上的-lidar-激光雷达（前置/后置）的刷新率是多少？](https://www.v2ex.com/t/840047) 
@@ -1939,7 +1940,6 @@
 - [2022-03-13-有买幻-x-的吗，说下有什么不好的地方](https://www.v2ex.com/t/840004) 
 - [2022-03-13-servlet-有没有办法判断客户端已经断开连接？](https://www.v2ex.com/t/840003) 
 - [2022-03-13-关于断头-MacBook-的某些问题](https://www.v2ex.com/t/840002) 
-- [2022-03-13-正在寻找能够自主设定烹煮流程（或可编程）的电锅，或烹饪工具](https://www.v2ex.com/t/840000) 
 - [2022-03-13-聊聊通用的架构设计-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14976&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fcommon-architecture-design%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-03-13-如何学习一门技术-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14975&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-learn-new-technique%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-03-13-wallys/DR6018-S/Support-OpenWRT-IPQ6010-802.11ax-2x2-2.4G&5G-www.wallystech.com](https://blogread.cn/news/go.php?idItem=14974&url=https%3A%2F%2Fwww.wallystech.com%2FRouterboard%2FDR6018-S-V02-wifi6-Qualcomm-IPQ6010-2T2R-2-GE-port-supporting-QCN9074-wifi-card-802.11AX-MU-MIMO-OFDMA.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1959,11 +1959,11 @@
 - [2022-03-13-91.6K-的-Axios-项目有哪些值得借鉴的地方](https://toutiao.io/k/z9a31ne) 
 - [2022-03-13-设计模式二三事](https://toutiao.io/k/xxsl3zv) 
 - [2022-03-13-行业实践-Apache-Flink-在移动云实时计算的实践](https://toutiao.io/k/4zaegp9) 
-- [2022-03-13-亚1纳米制程晶体管，一个碳原子栅极厚度：清华重大突破登上Nature](https://toutiao.io/k/6wx668d) 
 - [2022-03-13-InnoDB原理篇：聊聊数据页变成索引这件事](https://toutiao.io/k/02kvspy) 
+- [2022-03-13-亚1纳米制程晶体管，一个碳原子栅极厚度：清华重大突破登上Nature](https://toutiao.io/k/6wx668d) 
 - [2022-03-13-Netflix是如何做决策的?-|-4.-A/B测试结果之假阴性和统计功效](https://toutiao.io/k/wxlqlsy) 
 - [2022-03-13-推荐-微服务从代码到k8s部署应有尽有大结局（k8s部署）](https://toutiao.io/k/xk3qbvm) 
-- [2022-03-13-推荐-Java泛型详解，史上最全图文详解！](https://toutiao.io/k/chtkqxo) 
-- [2022-03-13-推荐-微服务如何划分](https://toutiao.io/k/f4vabj7) 
-- [2022-03-13-推荐-高并发是一种架构思维模式](https://toutiao.io/k/imslmgz) 
 - [2022-03-13-推荐-MySQL-团队开发规范](https://toutiao.io/k/qjooigy) 
+- [2022-03-13-推荐-高并发是一种架构思维模式](https://toutiao.io/k/imslmgz) 
+- [2022-03-13-推荐-微服务如何划分](https://toutiao.io/k/f4vabj7) 
+- [2022-03-13-推荐-Java泛型详解，史上最全图文详解！](https://toutiao.io/k/chtkqxo) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-03-13 11:37:21，:rocket: 更新条数: +2020， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-03-13 12:20:10，:rocket: 更新条数: +2023， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,11 @@
 </summary>
 
 
+- [2022-03-13-做了个类似-MSDN-原版镜像网站，直到我遇见-Debian-...](https://www.v2ex.com/t/840069) ![](assets/new.png)  
+- [2022-03-13-互联网寒冬已来？网传大公司都开始大裁员，真的假的？](https://www.v2ex.com/t/840068) ![](assets/new.png)  
+- [2022-03-13-帮同学转租-四河地铁站-套二-2600-无中介](https://www.v2ex.com/t/840067) ![](assets/new.png)  
+- [2022-03-13-如果室友在公司宿舍长期留宿外人，怎么解决？](https://www.v2ex.com/t/840066) ![](assets/new.png)  
+- [2022-03-13-准备出掉-iPhone11-换-se3-了](https://www.v2ex.com/t/840065) ![](assets/new.png)  
 - [2022-03-13-opencv-cpp-中对于-matchtemplate-的结果如何使用-threshold-筛选?](https://www.v2ex.com/t/840064) ![](assets/new.png)  
 - [2022-03-13-小米/Redmi-有合适的路由器可以改吸顶壳子么？](https://www.v2ex.com/t/840063) ![](assets/new.png)  
 - [2022-03-13-安卓-11-已-root-怎么卸载系统-app](https://www.v2ex.com/t/840062) ![](assets/new.png)  
@@ -506,11 +511,6 @@
 - [2022-03-13-问各位大佬一个个奇怪的问题，很是羡慕那些随手就能手写出很有条理很好看的笔记（或随笔）的人，那种技能是怎么练出来的，我是个学渣不太懂。](https://www.v2ex.com/t/840048) ![](assets/new.png)  
 - [2022-03-13-iPhone-/-iPad-Pro-系列上的-lidar-激光雷达（前置/后置）的刷新率是多少？](https://www.v2ex.com/t/840047) ![](assets/new.png)  
 - [2022-03-13-各位-v-友啊，请问一下对于-notion、语雀、wolai、印象笔记等这些你们是什么看法或者有什么可以推荐？](https://www.v2ex.com/t/840045) ![](assets/new.png)  
-- [2022-03-13-这是一个求职贴，-C/C++程序员找工作](https://www.v2ex.com/t/840044) ![](assets/new.png)  
-- [2022-03-13-唯一没买-Apple-Care-的手表坏了](https://www.v2ex.com/t/840043) ![](assets/new.png)  
-- [2022-03-13-我修改的一个浏览器插件（Smart-TOC-/-智能网页大纲）被小众软件推荐了，分享给大家](https://www.v2ex.com/t/840041) ![](assets/new.png)  
-- [2022-03-13-彩云天气，原来多好的一个-app，现在真是让人一言难尽……（记得产品经理在-v-站出没过](https://www.v2ex.com/t/840040) ![](assets/new.png)  
-- [2022-03-13-B-站内推](https://www.v2ex.com/t/840039) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -566,10 +566,10 @@
 - [2022-03-13-Netflix是如何做决策的?-|-4.-A/B测试结果之假阴性和统计功效](https://toutiao.io/k/wxlqlsy) ![](assets/new.png)  
 - [2022-03-13-Elasticsearch-集群状态变成黄色或者红色，怎么办？](https://toutiao.io/k/vcflw6z) ![](assets/new.png)  
 - [2022-03-13-推荐-MySQL-团队开发规范](https://toutiao.io/k/qjooigy) ![](assets/new.png)  
-- [2022-03-13-推荐-微服务如何划分](https://toutiao.io/k/f4vabj7) ![](assets/new.png)  
-- [2022-03-13-推荐-微服务从代码到k8s部署应有尽有大结局（k8s部署）](https://toutiao.io/k/xk3qbvm) ![](assets/new.png)  
 - [2022-03-13-推荐-Java泛型详解，史上最全图文详解！](https://toutiao.io/k/chtkqxo) ![](assets/new.png)  
 - [2022-03-13-推荐-高并发是一种架构思维模式](https://toutiao.io/k/imslmgz) ![](assets/new.png)  
+- [2022-03-13-推荐-微服务从代码到k8s部署应有尽有大结局（k8s部署）](https://toutiao.io/k/xk3qbvm) ![](assets/new.png)  
+- [2022-03-13-推荐-微服务如何划分](https://toutiao.io/k/f4vabj7) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

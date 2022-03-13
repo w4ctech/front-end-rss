@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-03-13 03:14:19，:rocket: 更新条数: +2020， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-03-13 03:40:27，:rocket: 更新条数: +2021， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-03-13-Figma-禁封中国企业，下一个会是-Postman-吗？](https://www.v2ex.com/t/839995) ![](assets/new.png)  
 - [2022-03-13-通勤最后一公里有没有什么好方式?](https://www.v2ex.com/t/839994) ![](assets/new.png)  
 - [2022-03-13-有没有可能人类文明只是某个硅基生命的培养皿](https://www.v2ex.com/t/839993) ![](assets/new.png)  
 - [2022-03-13-语雀免费领取-1-4-年会员（必领-1-年）](https://www.v2ex.com/t/839992) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-03-13-抢注“支付宝号”要点总结](https://www.v2ex.com/t/839973) ![](assets/new.png)  
 - [2022-03-12-显示器而论，-5k-和-4k-120hz-哪个更提升用户体验？](https://www.v2ex.com/t/839972) ![](assets/new.png)  
 - [2022-03-12-node.js-writeFile-间歇性出现-EPERM-问题，如何-debug](https://www.v2ex.com/t/839970) ![](assets/new.png)  
-- [2022-03-12-好想买。。可惜现在只能看看流流口水](https://www.v2ex.com/t/839969) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -561,12 +561,12 @@
 - [2022-03-13-设计模式二三事](https://toutiao.io/k/xxsl3zv) ![](assets/new.png)  
 - [2022-03-13-希尔排序，冷门但是有趣的排序算法](https://toutiao.io/k/slexg4p) ![](assets/new.png)  
 - [2022-03-13-亚1纳米制程晶体管，一个碳原子栅极厚度：清华重大突破登上Nature](https://toutiao.io/k/6wx668d) ![](assets/new.png)  
-- [2022-03-13-推荐-MySQL-团队开发规范](https://toutiao.io/k/qjooigy) ![](assets/new.png)  
 - [2022-03-13-推荐-微服务从代码到k8s部署应有尽有大结局（k8s部署）](https://toutiao.io/k/xk3qbvm) ![](assets/new.png)  
-- [2022-03-13-推荐-Java泛型详解，史上最全图文详解！](https://toutiao.io/k/chtkqxo) ![](assets/new.png)  
-- [2022-03-13-推荐-高并发是一种架构思维模式](https://toutiao.io/k/imslmgz) ![](assets/new.png)  
 - [2022-03-13-推荐-微服务如何划分](https://toutiao.io/k/f4vabj7) ![](assets/new.png)  
 - [2022-03-13-推荐-快看我在Redis分布式锁上，栽的8个跟头！](https://toutiao.io/k/pshtt8d) ![](assets/new.png)  
+- [2022-03-13-推荐-高并发是一种架构思维模式](https://toutiao.io/k/imslmgz) ![](assets/new.png)  
+- [2022-03-13-推荐-MySQL-团队开发规范](https://toutiao.io/k/qjooigy) ![](assets/new.png)  
+- [2022-03-13-推荐-Java泛型详解，史上最全图文详解！](https://toutiao.io/k/chtkqxo) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

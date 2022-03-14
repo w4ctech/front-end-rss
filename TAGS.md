@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-03-14 07:13:42。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-03-14 07:36:42。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -207,7 +207,6 @@
 - [【张鑫旭-鑫空间-鑫生活】CSS-background背景图标的变色技巧](https://www.zhangxinxu.com/wordpress/2022/01/css-background-image-color/)
 - [【张鑫旭-鑫空间-鑫生活】纯CSS实现未读消息超过100自动显示为99+](https://www.zhangxinxu.com/wordpress/2022/01/css-show-diff-content-according-var/)
 - [【V2EX】对于后端程序员如何学习好-CSS？](https://www.v2ex.com/t/840240)
-- [【V2EX】纠结于-iMac-27-2020-/-2021-/-Studio-Display](https://www.v2ex.com/t/840191)
 - [......【查看更多】......](./details/tags/css.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -349,6 +348,7 @@
 
 
 
+- [【V2EX】杭州-金融软件行业上市公司-总部技术平台-大前端团队招聘-20-40K*12-+-年终](https://www.v2ex.com/t/840249)
 - [【V2EX】北京-初创公司-全职-DeFi-方向-招聘后端-产品。](https://www.v2ex.com/t/840235)
 - [【V2EX】远程-年薪-120K-150K-USD-招聘-Technical-Product-Manager（要求中英双语）](https://www.v2ex.com/t/840222)
 - [......【查看更多】......](./details/tags/job-interview.md)

@@ -10252,128 +10252,13 @@
     "link": "https://toutiao.io",
     "items": [
       {
-        "title": "成为更好的开发者！行动起来！",
-        "link": "https://toutiao.io/k/bcodelm",
+        "title": "传阿里腾讯即将大裁员，最高裁撤 30%",
+        "link": "https://toutiao.io/k/4ucbsnc",
         "date": "2022-03-14"
       },
       {
-        "title": "架构师如何选型分布式业务网关",
-        "link": "https://toutiao.io/k/enmg99d",
-        "date": "2022-03-14"
-      },
-      {
-        "title": "最常用的架构模式",
-        "link": "https://toutiao.io/k/qnfl3t6",
-        "date": "2022-03-14"
-      },
-      {
-        "title": "结合最近的感受谈谈《原则》和《浪潮之巅》给我的启示",
-        "link": "https://toutiao.io/k/tkb15br",
-        "date": "2022-03-14"
-      },
-      {
-        "title": "基于Web内核的微信小程序框架实践",
-        "link": "https://toutiao.io/k/zusq063",
-        "date": "2022-03-14"
-      },
-      {
-        "title": "数据中台之OneID (ID-Mapping)架构设计细节全解",
-        "link": "https://toutiao.io/k/2hosbu7",
-        "date": "2022-03-14"
-      },
-      {
-        "title": "程序员必备的几种常见排序算法和搜索算法总结",
-        "link": "https://toutiao.io/k/j230wfq",
-        "date": "2022-03-14"
-      },
-      {
-        "title": "重构于 Vite：我如何做 SSG、静态资源发布以及自动化部署",
-        "link": "https://toutiao.io/k/kjlg5vq",
-        "date": "2022-03-14"
-      },
-      {
-        "title": "那些年我做的开源项目之KV引擎（NutsDB）",
-        "link": "https://toutiao.io/k/xl5b90u",
-        "date": "2022-03-14"
-      },
-      {
-        "title": "一文读懂层次聚类（Python代码）",
-        "link": "https://toutiao.io/k/dpr2ch4",
-        "date": "2022-03-14"
-      },
-      {
-        "title": "完了，下属成长速度超过我了怎么办？",
-        "link": "https://toutiao.io/k/7wn7ly3",
-        "date": "2022-03-14"
-      },
-      {
-        "title": "太离谱了，世界未解之谜上的物种竟然都有数据集了~",
-        "link": "https://toutiao.io/k/2vdescl",
-        "date": "2022-03-14"
-      },
-      {
-        "title": "iOS 高刷屏监控 + 优化：从理论到实践全面解析",
-        "link": "https://toutiao.io/k/yunu9qi",
-        "date": "2022-03-14"
-      },
-      {
-        "title": "Prometheus 参考实现的时序数据库 Gorilla 介绍",
-        "link": "https://toutiao.io/k/nwv8ulb",
-        "date": "2022-03-14"
-      },
-      {
-        "title": "Go官方 - 1.18 发布说明",
-        "link": "https://toutiao.io/k/vxpgeo7",
-        "date": "2022-03-14"
-      },
-      {
-        "title": "通用能力抽象选择SDK组件还是API服务？",
-        "link": "https://toutiao.io/k/8cpc8ct",
-        "date": "2022-03-14"
-      },
-      {
-        "title": "Bean容器生命周期，好像人的一生。。",
-        "link": "https://toutiao.io/k/o8s8taj",
-        "date": "2022-03-14"
-      },
-      {
-        "title": "能动的电脑配件「GitHub 热点速览 v.22.11」",
-        "link": "https://toutiao.io/k/s4njudj",
-        "date": "2022-03-14"
-      },
-      {
-        "title": "Gin框架的设计模式-\"控制反转\"",
-        "link": "https://toutiao.io/k/fmq2y43",
-        "date": "2022-03-14"
-      },
-      {
-        "title": "读书分享｜高效能人士要培养哪些习惯",
-        "link": "https://toutiao.io/k/uyyb10d",
-        "date": "2022-03-14"
-      },
-      {
-        "title": "Decoded: GNU coreutils",
-        "link": "https://toutiao.io/k/71bhcm8",
-        "date": "2022-03-14"
-      },
-      {
-        "title": "[推荐] 微服务如何划分",
-        "link": "https://toutiao.io/k/f4vabj7",
-        "date": "2022-03-14"
-      },
-      {
-        "title": "[推荐] 我的命令行开发环境 ❤️",
-        "link": "https://toutiao.io/k/hjda293",
-        "date": "2022-03-14"
-      },
-      {
-        "title": "[推荐] 高并发是一种架构思维模式",
-        "link": "https://toutiao.io/k/imslmgz",
-        "date": "2022-03-14"
-      },
-      {
-        "title": "[推荐] 快看我在Redis分布式锁上，栽的8个跟头！",
-        "link": "https://toutiao.io/k/pshtt8d",
+        "title": "大厂中层“再就业”难；我的命令行开发环境；第一个五年，快速到P7获取年薪50w｜码农周刊VIP会员专属邮件周报 Vol.083",
+        "link": "https://toutiao.io/k/qtrl966",
         "date": "2022-03-14"
       },
       {
@@ -10384,6 +10269,26 @@
       {
         "title": "[推荐] MySQL 团队开发规范",
         "link": "https://toutiao.io/k/qjooigy",
+        "date": "2022-03-14"
+      },
+      {
+        "title": "[推荐] 我的命令行开发环境 ❤️",
+        "link": "https://toutiao.io/k/hjda293",
+        "date": "2022-03-14"
+      },
+      {
+        "title": "[推荐] 微服务如何划分",
+        "link": "https://toutiao.io/k/f4vabj7",
+        "date": "2022-03-14"
+      },
+      {
+        "title": "[推荐] 高并发是一种架构思维模式",
+        "link": "https://toutiao.io/k/imslmgz",
+        "date": "2022-03-14"
+      },
+      {
+        "title": "[推荐] 快看我在Redis分布式锁上，栽的8个跟头！",
+        "link": "https://toutiao.io/k/pshtt8d",
         "date": "2022-03-14"
       }
     ]

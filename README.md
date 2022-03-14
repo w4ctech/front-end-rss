@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-03-14 22:13:59，:rocket: 更新条数: +2030， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-03-14 22:39:02，:rocket: 更新条数: +2011， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -553,26 +553,14 @@
 </summary>
 
 
-- [2022-03-14-成为更好的开发者！行动起来！](https://toutiao.io/k/bcodelm) ![](assets/new.png)  
-- [2022-03-14-架构师如何选型分布式业务网关](https://toutiao.io/k/enmg99d) ![](assets/new.png)  
-- [2022-03-14-最常用的架构模式](https://toutiao.io/k/qnfl3t6) ![](assets/new.png)  
-- [2022-03-14-结合最近的感受谈谈《原则》和《浪潮之巅》给我的启示](https://toutiao.io/k/tkb15br) ![](assets/new.png)  
-- [2022-03-14-基于Web内核的微信小程序框架实践](https://toutiao.io/k/zusq063) ![](assets/new.png)  
-- [2022-03-14-数据中台之OneID-ID-Mapping架构设计细节全解](https://toutiao.io/k/2hosbu7) ![](assets/new.png)  
-- [2022-03-14-程序员必备的几种常见排序算法和搜索算法总结](https://toutiao.io/k/j230wfq) ![](assets/new.png)  
-- [2022-03-14-重构于-Vite：我如何做-SSG、静态资源发布以及自动化部署](https://toutiao.io/k/kjlg5vq) ![](assets/new.png)  
-- [2022-03-14-那些年我做的开源项目之KV引擎（NutsDB）](https://toutiao.io/k/xl5b90u) ![](assets/new.png)  
-- [2022-03-14-一文读懂层次聚类（Python代码）](https://toutiao.io/k/dpr2ch4) ![](assets/new.png)  
-- [2022-03-14-完了，下属成长速度超过我了怎么办？](https://toutiao.io/k/7wn7ly3) ![](assets/new.png)  
-- [2022-03-14-太离谱了，世界未解之谜上的物种竟然都有数据集了~](https://toutiao.io/k/2vdescl) ![](assets/new.png)  
-- [2022-03-14-iOS-高刷屏监控-+-优化：从理论到实践全面解析](https://toutiao.io/k/yunu9qi) ![](assets/new.png)  
-- [2022-03-14-Prometheus-参考实现的时序数据库-Gorilla-介绍](https://toutiao.io/k/nwv8ulb) ![](assets/new.png)  
-- [2022-03-14-Go官方---1.18-发布说明](https://toutiao.io/k/vxpgeo7) ![](assets/new.png)  
-- [2022-03-14-通用能力抽象选择SDK组件还是API服务？](https://toutiao.io/k/8cpc8ct) ![](assets/new.png)  
-- [2022-03-14-Bean容器生命周期，好像人的一生。。](https://toutiao.io/k/o8s8taj) ![](assets/new.png)  
-- [2022-03-14-能动的电脑配件「GitHub-热点速览-v.22.11」](https://toutiao.io/k/s4njudj) ![](assets/new.png)  
-- [2022-03-14-Gin框架的设计模式-"控制反转"](https://toutiao.io/k/fmq2y43) ![](assets/new.png)  
-- [2022-03-14-读书分享｜高效能人士要培养哪些习惯](https://toutiao.io/k/uyyb10d) ![](assets/new.png)  
+- [2022-03-14-传阿里腾讯即将大裁员，最高裁撤-30%](https://toutiao.io/k/4ucbsnc) ![](assets/new.png)  
+- [2022-03-14-大厂中层“再就业”难；我的命令行开发环境；第一个五年，快速到P7获取年薪50w｜码农周刊VIP会员专属邮件周报-Vol.083](https://toutiao.io/k/qtrl966) ![](assets/new.png)  
+- [2022-03-14-推荐-Java泛型详解，史上最全图文详解！](https://toutiao.io/k/chtkqxo) ![](assets/new.png)  
+- [2022-03-14-推荐-MySQL-团队开发规范](https://toutiao.io/k/qjooigy) ![](assets/new.png)  
+- [2022-03-14-推荐-我的命令行开发环境-❤️](https://toutiao.io/k/hjda293) ![](assets/new.png)  
+- [2022-03-14-推荐-微服务如何划分](https://toutiao.io/k/f4vabj7) ![](assets/new.png)  
+- [2022-03-14-推荐-高并发是一种架构思维模式](https://toutiao.io/k/imslmgz) ![](assets/new.png)  
+- [2022-03-14-推荐-快看我在Redis分布式锁上，栽的8个跟头！](https://toutiao.io/k/pshtt8d) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

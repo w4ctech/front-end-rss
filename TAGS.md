@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-03-14 06:16:16。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-03-14 06:46:26。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -122,7 +122,6 @@
 
 
 
-- [【V2EX】在微信小程序中使用-javascript-eval](https://www.v2ex.com/t/840186)
 - [【开发者头条】基于Web内核的微信小程序框架实践](https://toutiao.io/k/zusq063)
 - [......【查看更多】......](./details/tags/miniprogram.md)
 
@@ -350,6 +349,7 @@
 
 
 
+- [【V2EX】北京-初创公司-全职-DeFi-方向-招聘后端-产品。](https://www.v2ex.com/t/840235)
 - [【V2EX】远程-年薪-120K-150K-USD-招聘-Technical-Product-Manager（要求中英双语）](https://www.v2ex.com/t/840222)
 - [......【查看更多】......](./details/tags/job-interview.md)
 

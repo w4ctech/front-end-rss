@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-03-14 06:16:16，:rocket: 更新条数: +2033， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-03-14 06:46:26，:rocket: 更新条数: +2034， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,12 @@
 </summary>
 
 
+- [2022-03-14-mac-idea-已经在-idea.vmoptions-配置内存，但在活动监视器显示占的内存仍大于配置](https://www.v2ex.com/t/840237) ![](assets/new.png)  
+- [2022-03-14-在信息技术领域，有哪些原生中文书或教材能和外国优秀作品一较高下？](https://www.v2ex.com/t/840236) ![](assets/new.png)  
+- [2022-03-14-北京-初创公司-全职-DeFi-方向-招聘后端-产品。](https://www.v2ex.com/t/840235) ![](assets/new.png)  
+- [2022-03-14-2022-年大家用什么管理测试用例？](https://www.v2ex.com/t/840233) ![](assets/new.png)  
+- [2022-03-14-苹果的服务怎么又挂了。。](https://www.v2ex.com/t/840231) ![](assets/new.png)  
+- [2022-03-14-请问单位局域网实名制有什么好的解决方案么？](https://www.v2ex.com/t/840230) ![](assets/new.png)  
 - [2022-03-14-拯救者-Y9000P-2022-奔驰灯怎么控制](https://www.v2ex.com/t/840229) ![](assets/new.png)  
 - [2022-03-14-对象池-maxIdle-的作用是什么？](https://www.v2ex.com/t/840225) ![](assets/new.png)  
 - [2022-03-14-群暉購買問題-DS920+-近期是否會更新至-DS922+](https://www.v2ex.com/t/840223) ![](assets/new.png)  
@@ -505,12 +511,6 @@
 - [2022-03-14-除了-CF-有没有其他什么国内访问好用的免费-CDN](https://www.v2ex.com/t/840212) ![](assets/new.png)  
 - [2022-03-14-长期虎卡，大流量电信卡，用起来有没有什么坑？](https://www.v2ex.com/t/840211) ![](assets/new.png)  
 - [2022-03-14-上海-区块链-/-量化-/-Golang-/-20-30K+-/-小团队](https://www.v2ex.com/t/840210) ![](assets/new.png)  
-- [2022-03-14-通过正宗雷电-3-扩展坞扩展出来的-DP-接口，能够使-MacBook-Pro-支持-DP-MST-菊链吗？](https://www.v2ex.com/t/840209) ![](assets/new.png)  
-- [2022-03-14-magsafe-凯夫拉手机壳-什么牌子的好用-全包和半包-区别是啥](https://www.v2ex.com/t/840208) ![](assets/new.png)  
-- [2022-03-14-在上海的你们开始居家办公了吗？](https://www.v2ex.com/t/840207) ![](assets/new.png)  
-- [2022-03-14-做了一个文本转语音的桌面工具，跨平台-windows-、macOS-、-Linux-。已开源](https://www.v2ex.com/t/840206) ![](assets/new.png)  
-- [2022-03-14-数据库/PostgreSQL-真的没有完美的分页方法吗？](https://www.v2ex.com/t/840205) ![](assets/new.png)  
-- [2022-03-14-新-hc-Airbnb-北京-招工程师](https://www.v2ex.com/t/840203) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -571,7 +571,7 @@
 - [2022-03-14-通用能力抽象选择SDK组件还是API服务？](https://toutiao.io/k/8cpc8ct) ![](assets/new.png)  
 - [2022-03-14-Gin框架的设计模式-"控制反转"](https://toutiao.io/k/fmq2y43) ![](assets/new.png)  
 - [2022-03-14-Bean容器生命周期，好像人的一生。。](https://toutiao.io/k/o8s8taj) ![](assets/new.png)  
-- [2022-03-14-Decoded:-GNU-coreutils](https://toutiao.io/k/71bhcm8) ![](assets/new.png)  
+- [2022-03-14-读书分享｜高效能人士要培养哪些习惯](https://toutiao.io/k/uyyb10d) ![](assets/new.png)  
 - [2022-03-14-能动的电脑配件「GitHub-热点速览-v.22.11」](https://toutiao.io/k/s4njudj) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

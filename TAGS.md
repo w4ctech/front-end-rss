@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-03-14 09:38:43。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-03-14 10:15:13。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -240,6 +240,7 @@
 
 - [【武汉肺炎防疫全纪录(财新网)】广州17岁男生在定点医院参加高考-特殊考场视频监考](https://m.caixin.com/m/2021-06-05/101723418.html)
 - [【武汉肺炎防疫全纪录(财新网)】林郑月娥率13高官直播接种科兴疫苗-复星疫苗预计周中到港](https://m.caixin.com/m/2021-02-22/101665724.html)
+- [【V2EX】准备做-UP-主，现有个-16T-的-NAS，-Windows10-系统，工作电脑是-MBA-和-windows11-的笔记本，如何开心的读写-NAS-里面的视频素材？还需要装点什么软件？](https://www.v2ex.com/t/840292)
 - [......【查看更多】......](./details/tags/audio-video.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -295,6 +296,7 @@
 
 
 
+- [【V2EX】Base-新加坡-无-996！-Work-Life-Balance-大数据开发工程师/风控算法工程师/数据分析师等数据算法相关方向岗位](https://www.v2ex.com/t/840293)
 - [【V2EX】北京-澜舟科技-|-Pre-A-轮-NLP-初创公司-|-预训练算法工程师](https://www.v2ex.com/t/840279)
 - [【开发者头条】程序员必备的几种常见排序算法和搜索算法总结](https://toutiao.io/k/j230wfq)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
@@ -349,7 +351,6 @@
 - [【V2EX】成都中交兴路内推/招聘-Java-、前端、测试/15k-25k/全额五险一金](https://www.v2ex.com/t/840288)
 - [【V2EX】招聘：量化交易系统开发-，-Java-Application-Developer，量化交易系统开发工程师](https://www.v2ex.com/t/840269)
 - [【V2EX】「联想中国」2022-校园招聘扩招及补录&暑期实习生招募](https://www.v2ex.com/t/840253)
-- [【V2EX】杭州-金融软件行业上市公司-总部技术平台-大前端团队招聘-20-40K*12-+-年终](https://www.v2ex.com/t/840249)
 - [......【查看更多】......](./details/tags/job-interview.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

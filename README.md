@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-03-14 14:14:18，:rocket: 更新条数: +2033， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-03-14 14:37:45，:rocket: 更新条数: +2031， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,9 @@
 </summary>
 
 
+- [2022-03-14-求一款能简单替代-AutoCAD-的工程绘图软件](https://www.v2ex.com/t/840341) ![](assets/new.png)  
+- [2022-03-14-字节跳动-直播抖音业务-后端、前端、客户端、实习生招聘，-HC-很多](https://www.v2ex.com/t/840340) ![](assets/new.png)  
+- [2022-03-14-我的第一个作品，终于上线了！集美美图，小而美的美女壁纸精选-APP](https://www.v2ex.com/t/840339) ![](assets/new.png)  
 - [2022-03-14-网络大神进，迫于没有网络知识，请教几个问题](https://www.v2ex.com/t/840335) ![](assets/new.png)  
 - [2022-03-14-哪里能找到有偿靠谱的日文脚本翻译](https://www.v2ex.com/t/840332) ![](assets/new.png)  
 - [2022-03-14-删除主题](https://www.v2ex.com/t/840331) ![](assets/new.png)  
@@ -508,9 +511,6 @@
 - [2022-03-14-有些软件比如小红书支付宝只有-App-没有电脑版,Mac-有什么办法可以把-iPhone-投屏到-Mac-并控制操作-iPhone-的-App?就像华为多屏协同一样](https://www.v2ex.com/t/840318) ![](assets/new.png)  
 - [2022-03-14-iOS-15.4-RC，-iPhone-13-mini-拍摄-4K60-HDR-视频画质稀烂？](https://www.v2ex.com/t/840317) ![](assets/new.png)  
 - [2022-03-14-VLOOK-14！与你在实践中共创自动化排版-2.0，实用好用的-Markdown-主题与增强插件](https://www.v2ex.com/t/840316) ![](assets/new.png)  
-- [2022-03-14-Mbp-在睡眠期间，-cpu-在低频运行，发热](https://www.v2ex.com/t/840315) ![](assets/new.png)  
-- [2022-03-14-谷歌翻译桌面端](https://www.v2ex.com/t/840314) ![](assets/new.png)  
-- [2022-03-14-248->448-的猜测](https://www.v2ex.com/t/840313) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -560,8 +560,8 @@
 - [2022-03-14-基于Web内核的微信小程序框架实践](https://toutiao.io/k/zusq063) ![](assets/new.png)  
 - [2022-03-14-重构于-Vite：我如何做-SSG、静态资源发布以及自动化部署](https://toutiao.io/k/kjlg5vq) ![](assets/new.png)  
 - [2022-03-14-数据中台之OneID-ID-Mapping架构设计细节全解](https://toutiao.io/k/2hosbu7) ![](assets/new.png)  
-- [2022-03-14-那些年我做的开源项目之KV引擎（NutsDB）](https://toutiao.io/k/xl5b90u) ![](assets/new.png)  
 - [2022-03-14-程序员必备的几种常见排序算法和搜索算法总结](https://toutiao.io/k/j230wfq) ![](assets/new.png)  
+- [2022-03-14-那些年我做的开源项目之KV引擎（NutsDB）](https://toutiao.io/k/xl5b90u) ![](assets/new.png)  
 - [2022-03-14-一文读懂层次聚类（Python代码）](https://toutiao.io/k/dpr2ch4) ![](assets/new.png)  
 - [2022-03-14-完了，下属成长速度超过我了怎么办？](https://toutiao.io/k/7wn7ly3) ![](assets/new.png)  
 - [2022-03-14-太离谱了，世界未解之谜上的物种竟然都有数据集了~](https://toutiao.io/k/2vdescl) ![](assets/new.png)  
@@ -571,8 +571,8 @@
 - [2022-03-14-通用能力抽象选择SDK组件还是API服务？](https://toutiao.io/k/8cpc8ct) ![](assets/new.png)  
 - [2022-03-14-Bean容器生命周期，好像人的一生。。](https://toutiao.io/k/o8s8taj) ![](assets/new.png)  
 - [2022-03-14-Gin框架的设计模式-"控制反转"](https://toutiao.io/k/fmq2y43) ![](assets/new.png)  
+- [2022-03-14-读书分享｜高效能人士要培养哪些习惯](https://toutiao.io/k/uyyb10d) ![](assets/new.png)  
 - [2022-03-14-Decoded:-GNU-coreutils](https://toutiao.io/k/71bhcm8) ![](assets/new.png)  
-- [2022-03-14-能动的电脑配件「GitHub-热点速览-v.22.11」](https://toutiao.io/k/s4njudj) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

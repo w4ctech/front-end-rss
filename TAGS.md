@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-03-14 14:14:18。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-03-14 14:37:45。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -241,8 +241,8 @@
 
 - [【武汉肺炎防疫全纪录(财新网)】广州17岁男生在定点医院参加高考-特殊考场视频监考](https://m.caixin.com/m/2021-06-05/101723418.html)
 - [【武汉肺炎防疫全纪录(财新网)】林郑月娥率13高官直播接种科兴疫苗-复星疫苗预计周中到港](https://m.caixin.com/m/2021-02-22/101665724.html)
+- [【V2EX】字节跳动-直播抖音业务-后端、前端、客户端、实习生招聘，-HC-很多](https://www.v2ex.com/t/840340)
 - [【V2EX】iOS-15.4-RC，-iPhone-13-mini-拍摄-4K60-HDR-视频画质稀烂？](https://www.v2ex.com/t/840317)
-- [【V2EX】准备做-UP-主，现有个-16T-的-NAS，-Windows10-系统，工作电脑是-MBA-和-windows11-的笔记本，如何开心的读写-NAS-里面的视频素材？还需要装点什么软件？](https://www.v2ex.com/t/840292)
 - [......【查看更多】......](./details/tags/audio-video.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -354,7 +354,6 @@
 
 
 
-- [【V2EX】成都中交兴路内推/招聘-Java-、前端、测试/15k-25k/全额五险一金](https://www.v2ex.com/t/840288)
 - [......【查看更多】......](./details/tags/job-interview.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

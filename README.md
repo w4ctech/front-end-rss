@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-03-14 11:37:12，:rocket: 更新条数: +2029， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-03-14 12:21:14，:rocket: 更新条数: +2031， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,11 @@
 </summary>
 
 
+- [2022-03-14-谷歌翻译桌面端](https://www.v2ex.com/t/840314) ![](assets/new.png)  
+- [2022-03-14-248->448-的猜测](https://www.v2ex.com/t/840313) ![](assets/new.png)  
+- [2022-03-14-请问哪里有免费下载的虚拟机（懒人版）黑苹果镜像？以及在-vmware-中如何驱动-vm-的虚拟显卡？](https://www.v2ex.com/t/840312) ![](assets/new.png)  
+- [2022-03-14-喜欢上的女生说以男朋友标准，我的话题太浅了.](https://www.v2ex.com/t/840311) ![](assets/new.png)  
+- [2022-03-14-拼多多百亿补贴购买即将发布的手机是否靠谱？](https://www.v2ex.com/t/840310) ![](assets/new.png)  
 - [2022-03-14-讨论一下跳槽问题](https://www.v2ex.com/t/840308) ![](assets/new.png)  
 - [2022-03-14-Handshaker-安卓与-mbp-14-连接后卡在文件缩略图加载中](https://www.v2ex.com/t/840307) ![](assets/new.png)  
 - [2022-03-14-office-365-随附的-excel-无法自动挂载-excel-加载项，如何解决。](https://www.v2ex.com/t/840306) ![](assets/new.png)  
@@ -506,11 +511,6 @@
 - [2022-03-14-准备做-UP-主，现有个-16T-的-NAS，-Windows10-系统，工作电脑是-MBA-和-windows11-的笔记本，如何开心的读写-NAS-里面的视频素材？还需要装点什么软件？](https://www.v2ex.com/t/840292) ![](assets/new.png)  
 - [2022-03-14-2022-03-CPU-选购求指导](https://www.v2ex.com/t/840291) ![](assets/new.png)  
 - [2022-03-14-预览-html-的需求](https://www.v2ex.com/t/840290) ![](assets/new.png)  
-- [2022-03-14-国内云厂商标配么？](https://www.v2ex.com/t/840289) ![](assets/new.png)  
-- [2022-03-14-成都中交兴路内推/招聘-Java-、前端、测试/15k-25k/全额五险一金](https://www.v2ex.com/t/840288) ![](assets/new.png)  
-- [2022-03-14-最近刚提车，车载香薰有推荐的吗？还有其它的好玩的车内饰品？](https://www.v2ex.com/t/840286) ![](assets/new.png)  
-- [2022-03-14-空耳识别器](https://www.v2ex.com/t/840285) ![](assets/new.png)  
-- [2022-03-14-Windows-Server-创建文件提示文件名过长？](https://www.v2ex.com/t/840284) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -558,21 +558,21 @@
 - [2022-03-14-结合最近的感受谈谈《原则》和《浪潮之巅》给我的启示](https://toutiao.io/k/tkb15br) ![](assets/new.png)  
 - [2022-03-14-最常用的架构模式](https://toutiao.io/k/qnfl3t6) ![](assets/new.png)  
 - [2022-03-14-重构于-Vite：我如何做-SSG、静态资源发布以及自动化部署](https://toutiao.io/k/kjlg5vq) ![](assets/new.png)  
-- [2022-03-14-那些年我做的开源项目之KV引擎（NutsDB）](https://toutiao.io/k/xl5b90u) ![](assets/new.png)  
 - [2022-03-14-基于Web内核的微信小程序框架实践](https://toutiao.io/k/zusq063) ![](assets/new.png)  
+- [2022-03-14-那些年我做的开源项目之KV引擎（NutsDB）](https://toutiao.io/k/xl5b90u) ![](assets/new.png)  
 - [2022-03-14-程序员必备的几种常见排序算法和搜索算法总结](https://toutiao.io/k/j230wfq) ![](assets/new.png)  
 - [2022-03-14-数据中台之OneID-ID-Mapping架构设计细节全解](https://toutiao.io/k/2hosbu7) ![](assets/new.png)  
 - [2022-03-14-一文读懂层次聚类（Python代码）](https://toutiao.io/k/dpr2ch4) ![](assets/new.png)  
 - [2022-03-14-完了，下属成长速度超过我了怎么办？](https://toutiao.io/k/7wn7ly3) ![](assets/new.png)  
 - [2022-03-14-太离谱了，世界未解之谜上的物种竟然都有数据集了~](https://toutiao.io/k/2vdescl) ![](assets/new.png)  
 - [2022-03-14-Go官方---1.18-发布说明](https://toutiao.io/k/vxpgeo7) ![](assets/new.png)  
-- [2022-03-14-Prometheus-参考实现的时序数据库-Gorilla-介绍](https://toutiao.io/k/nwv8ulb) ![](assets/new.png)  
 - [2022-03-14-iOS-高刷屏监控-+-优化：从理论到实践全面解析](https://toutiao.io/k/yunu9qi) ![](assets/new.png)  
+- [2022-03-14-Prometheus-参考实现的时序数据库-Gorilla-介绍](https://toutiao.io/k/nwv8ulb) ![](assets/new.png)  
 - [2022-03-14-通用能力抽象选择SDK组件还是API服务？](https://toutiao.io/k/8cpc8ct) ![](assets/new.png)  
 - [2022-03-14-Gin框架的设计模式-"控制反转"](https://toutiao.io/k/fmq2y43) ![](assets/new.png)  
-- [2022-03-14-Decoded:-GNU-coreutils](https://toutiao.io/k/71bhcm8) ![](assets/new.png)  
-- [2022-03-14-能动的电脑配件「GitHub-热点速览-v.22.11」](https://toutiao.io/k/s4njudj) ![](assets/new.png)  
 - [2022-03-14-Bean容器生命周期，好像人的一生。。](https://toutiao.io/k/o8s8taj) ![](assets/new.png)  
+- [2022-03-14-能动的电脑配件「GitHub-热点速览-v.22.11」](https://toutiao.io/k/s4njudj) ![](assets/new.png)  
+- [2022-03-14-Decoded:-GNU-coreutils](https://toutiao.io/k/71bhcm8) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

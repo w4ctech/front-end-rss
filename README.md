@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-03-14 05:51:27，:rocket: 更新条数: +2029， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-03-14 06:16:16，:rocket: 更新条数: +2033， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,14 @@
 </summary>
 
 
+- [2022-03-14-拯救者-Y9000P-2022-奔驰灯怎么控制](https://www.v2ex.com/t/840229) ![](assets/new.png)  
+- [2022-03-14-对象池-maxIdle-的作用是什么？](https://www.v2ex.com/t/840225) ![](assets/new.png)  
+- [2022-03-14-群暉購買問題-DS920+-近期是否會更新至-DS922+](https://www.v2ex.com/t/840223) ![](assets/new.png)  
+- [2022-03-14-远程-年薪-120K-150K-USD-招聘-Technical-Product-Manager（要求中英双语）](https://www.v2ex.com/t/840222) ![](assets/new.png)  
+- [2022-03-14-腾讯云挖矿流量转发被警告了-买了三年的-vps-要吃灰了](https://www.v2ex.com/t/840221) ![](assets/new.png)  
+- [2022-03-14-有啥办法可以在更多国家交退休金么](https://www.v2ex.com/t/840220) ![](assets/new.png)  
+- [2022-03-14-哪个-Linux-发行版适合-coder](https://www.v2ex.com/t/840219) ![](assets/new.png)  
+- [2022-03-14-嗨呀-洗衣机求推荐](https://www.v2ex.com/t/840218) ![](assets/new.png)  
 - [2022-03-14-iPhone-皮革保护套（保护壳）交流](https://www.v2ex.com/t/840217) ![](assets/new.png)  
 - [2022-03-14-大家还记得树下野狐这个名字么](https://www.v2ex.com/t/840215) ![](assets/new.png)  
 - [2022-03-14-有办法让-mbp-直接当-PS5-的显示屏么？](https://www.v2ex.com/t/840214) ![](assets/new.png)  
@@ -503,14 +511,6 @@
 - [2022-03-14-做了一个文本转语音的桌面工具，跨平台-windows-、macOS-、-Linux-。已开源](https://www.v2ex.com/t/840206) ![](assets/new.png)  
 - [2022-03-14-数据库/PostgreSQL-真的没有完美的分页方法吗？](https://www.v2ex.com/t/840205) ![](assets/new.png)  
 - [2022-03-14-新-hc-Airbnb-北京-招工程师](https://www.v2ex.com/t/840203) ![](assets/new.png)  
-- [2022-03-14-Chrome-设为默认浏览器无法打开超链接](https://www.v2ex.com/t/840202) ![](assets/new.png)  
-- [2022-03-14-211-本-5-前端不想沪漂了，想回苏州定居了，-求内推](https://www.v2ex.com/t/840201) ![](assets/new.png)  
-- [2022-03-14-2022-年，推荐的-React-状态管理框架是？](https://www.v2ex.com/t/840200) ![](assets/new.png)  
-- [2022-03-14-外置机械硬盘是用-APFS-好还是-HFS-好呢？](https://www.v2ex.com/t/840199) ![](assets/new.png)  
-- [2022-03-14-V2EX-bug-回报](https://www.v2ex.com/t/840198) ![](assets/new.png)  
-- [2022-03-14-iPad-Air-5-和-11-寸-Pro-2021-不知道如何选了,-256GB](https://www.v2ex.com/t/840197) ![](assets/new.png)  
-- [2022-03-14-升降桌值得买吗?-买了的-V-友来说下使用感受?](https://www.v2ex.com/t/840196) ![](assets/new.png)  
-- [2022-03-14-一个-Python-库，轻量的，基于-sqlite-的持久化-list,-dict](https://www.v2ex.com/t/840194) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -567,12 +567,12 @@
 - [2022-03-14-Go官方---1.18-发布说明](https://toutiao.io/k/vxpgeo7) ![](assets/new.png)  
 - [2022-03-14-iOS-高刷屏监控-+-优化：从理论到实践全面解析](https://toutiao.io/k/yunu9qi) ![](assets/new.png)  
 - [2022-03-14-Prometheus-参考实现的时序数据库-Gorilla-介绍](https://toutiao.io/k/nwv8ulb) ![](assets/new.png)  
-- [2022-03-14-推荐-Java泛型详解，史上最全图文详解！](https://toutiao.io/k/chtkqxo) ![](assets/new.png)  
-- [2022-03-14-推荐-微服务如何划分](https://toutiao.io/k/f4vabj7) ![](assets/new.png)  
-- [2022-03-14-推荐-快看我在Redis分布式锁上，栽的8个跟头！](https://toutiao.io/k/pshtt8d) ![](assets/new.png)  
-- [2022-03-14-推荐-我的命令行开发环境-❤️](https://toutiao.io/k/hjda293) ![](assets/new.png)  
-- [2022-03-14-推荐-高并发是一种架构思维模式](https://toutiao.io/k/imslmgz) ![](assets/new.png)  
-- [2022-03-14-推荐-微服务从代码到k8s部署应有尽有大结局（k8s部署）](https://toutiao.io/k/xk3qbvm) ![](assets/new.png)  
+- [2022-03-14-太离谱了，世界未解之谜上的物种竟然都有数据集了~](https://toutiao.io/k/2vdescl) ![](assets/new.png)  
+- [2022-03-14-通用能力抽象选择SDK组件还是API服务？](https://toutiao.io/k/8cpc8ct) ![](assets/new.png)  
+- [2022-03-14-Gin框架的设计模式-"控制反转"](https://toutiao.io/k/fmq2y43) ![](assets/new.png)  
+- [2022-03-14-Bean容器生命周期，好像人的一生。。](https://toutiao.io/k/o8s8taj) ![](assets/new.png)  
+- [2022-03-14-Decoded:-GNU-coreutils](https://toutiao.io/k/71bhcm8) ![](assets/new.png)  
+- [2022-03-14-能动的电脑配件「GitHub-热点速览-v.22.11」](https://toutiao.io/k/s4njudj) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-03-14 07:36:42，:rocket: 更新条数: +2032， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-03-14 08:16:38，:rocket: 更新条数: +2031， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,15 @@
 </summary>
 
 
+- [2022-03-14-一个人开发维护、写文章、推广运营真的好累啊](https://www.v2ex.com/t/840260) ![](assets/new.png)  
+- [2022-03-14-zlibrary-好像没内容了。。。](https://www.v2ex.com/t/840258) ![](assets/new.png)  
+- [2022-03-14-小飞页超好看的响应式个人网站模板来啦！](https://www.v2ex.com/t/840256) ![](assets/new.png)  
+- [2022-03-14-Windows-上求一款好用一点的虚拟机-装-MacOS-用](https://www.v2ex.com/t/840255) ![](assets/new.png)  
+- [2022-03-14-港股啥情况？](https://www.v2ex.com/t/840254) ![](assets/new.png)  
+- [2022-03-14-「联想中国」2022-校园招聘扩招及补录&暑期实习生招募](https://www.v2ex.com/t/840253) ![](assets/new.png)  
+- [2022-03-14-请问-mac-如何使用-PPT-的演讲者模式进行远程会议投屏？](https://www.v2ex.com/t/840252) ![](assets/new.png)  
+- [2022-03-14-如何让-Macos-全盘备份到-iCloud？](https://www.v2ex.com/t/840251) ![](assets/new.png)  
+- [2022-03-14-Idea-下有没有什么插件或设置，能强制检查，类中属性是否在方法之前。](https://www.v2ex.com/t/840250) ![](assets/new.png)  
 - [2022-03-14-杭州-金融软件行业上市公司-总部技术平台-大前端团队招聘-20-40K*12-+-年终](https://www.v2ex.com/t/840249) ![](assets/new.png)  
 - [2022-03-14-今天现在语雀网页打开缓慢？](https://www.v2ex.com/t/840248) ![](assets/new.png)  
 - [2022-03-14-2022-年-3-月，华为手机还没有能用的-GMS-解决办法？](https://www.v2ex.com/t/840247) ![](assets/new.png)  
@@ -502,15 +511,6 @@
 - [2022-03-14-你们有遇到-macos12-总是自动开启可变刷新率导致-gsync-显示器黑屏的问题吗？](https://www.v2ex.com/t/840239) ![](assets/new.png)  
 - [2022-03-14-语雀领取-1-4-年会员教程来了，新老客户都可以得](https://www.v2ex.com/t/840238) ![](assets/new.png)  
 - [2022-03-14-mac-idea-已经在-idea.vmoptions-配置内存，但在活动监视器显示占的内存仍大于配置](https://www.v2ex.com/t/840237) ![](assets/new.png)  
-- [2022-03-14-在信息技术领域，有哪些原生中文书或教材能和外国优秀作品一较高下？](https://www.v2ex.com/t/840236) ![](assets/new.png)  
-- [2022-03-14-北京-初创公司-全职-DeFi-方向-招聘后端-产品。](https://www.v2ex.com/t/840235) ![](assets/new.png)  
-- [2022-03-14-2022-年大家用什么管理测试用例？](https://www.v2ex.com/t/840233) ![](assets/new.png)  
-- [2022-03-14-苹果的服务怎么又挂了。。](https://www.v2ex.com/t/840231) ![](assets/new.png)  
-- [2022-03-14-请问单位局域网实名制有什么好的解决方案么？](https://www.v2ex.com/t/840230) ![](assets/new.png)  
-- [2022-03-14-拯救者-Y9000P-2022-奔驰灯怎么控制](https://www.v2ex.com/t/840229) ![](assets/new.png)  
-- [2022-03-14-对象池-maxIdle-的作用是什么？](https://www.v2ex.com/t/840225) ![](assets/new.png)  
-- [2022-03-14-群暉購買問題-DS920+-近期是否會更新至-DS922+](https://www.v2ex.com/t/840223) ![](assets/new.png)  
-- [2022-03-14-远程-年薪-120K-150K-USD-招聘-Technical-Product-Manager（要求中英双语）](https://www.v2ex.com/t/840222) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -568,10 +568,10 @@
 - [2022-03-14-Prometheus-参考实现的时序数据库-Gorilla-介绍](https://toutiao.io/k/nwv8ulb) ![](assets/new.png)  
 - [2022-03-14-iOS-高刷屏监控-+-优化：从理论到实践全面解析](https://toutiao.io/k/yunu9qi) ![](assets/new.png)  
 - [2022-03-14-太离谱了，世界未解之谜上的物种竟然都有数据集了~](https://toutiao.io/k/2vdescl) ![](assets/new.png)  
+- [2022-03-14-Bean容器生命周期，好像人的一生。。](https://toutiao.io/k/o8s8taj) ![](assets/new.png)  
+- [2022-03-14-Decoded:-GNU-coreutils](https://toutiao.io/k/71bhcm8) ![](assets/new.png)  
 - [2022-03-14-通用能力抽象选择SDK组件还是API服务？](https://toutiao.io/k/8cpc8ct) ![](assets/new.png)  
 - [2022-03-14-Gin框架的设计模式-"控制反转"](https://toutiao.io/k/fmq2y43) ![](assets/new.png)  
-- [2022-03-14-Decoded:-GNU-coreutils](https://toutiao.io/k/71bhcm8) ![](assets/new.png)  
-- [2022-03-14-Bean容器生命周期，好像人的一生。。](https://toutiao.io/k/o8s8taj) ![](assets/new.png)  
 - [2022-03-14-能动的电脑配件「GitHub-热点速览-v.22.11」](https://toutiao.io/k/s4njudj) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-03-14 23:03:26。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-03-14 23:14:13。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -183,12 +183,12 @@
 - [【技术头条】2022-03-14-浅谈企业数据能力建设-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14964&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fenterprise-data-capability-building%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【开发者头条】2022-03-14-传阿里腾讯即将大裁员，最高裁撤-30%](https://toutiao.io/k/4ucbsnc) 
 - [【开发者头条】2022-03-14-大厂中层“再就业”难；我的命令行开发环境；第一个五年，快速到P7获取年薪50w｜码农周刊VIP会员专属邮件周报-Vol.083](https://toutiao.io/k/qtrl966) 
-- [【开发者头条】2022-03-14-推荐-MySQL-团队开发规范](https://toutiao.io/k/qjooigy) 
-- [【开发者头条】2022-03-14-推荐-高并发是一种架构思维模式](https://toutiao.io/k/imslmgz) 
-- [【开发者头条】2022-03-14-推荐-我的命令行开发环境-❤️](https://toutiao.io/k/hjda293) 
 - [【开发者头条】2022-03-14-推荐-快看我在Redis分布式锁上，栽的8个跟头！](https://toutiao.io/k/pshtt8d) 
+- [【开发者头条】2022-03-14-推荐-我的命令行开发环境-❤️](https://toutiao.io/k/hjda293) 
+- [【开发者头条】2022-03-14-推荐-MySQL-团队开发规范](https://toutiao.io/k/qjooigy) 
 - [【开发者头条】2022-03-14-推荐-Java泛型详解，史上最全图文详解！](https://toutiao.io/k/chtkqxo) 
 - [【开发者头条】2022-03-14-推荐-微服务如何划分](https://toutiao.io/k/f4vabj7) 
+- [【开发者头条】2022-03-14-推荐-高并发是一种架构思维模式](https://toutiao.io/k/imslmgz) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-03-15 22:14:27。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-03-15 22:39:57。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -180,8 +180,8 @@
 - [【技术头条】2022-03-15-不可错过的11个IDEA插件-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14966&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493489%26amp%3Bidx%3D1%26amp%3Bsn%3D2c351ce9a3d1d92094c9e993c85da01a%26amp%3Bchksm%3Dfa3f062acd488f3c46772527c8aad4af3eae2bd879c27940d19c9ba7f373697b3daa16506a2b%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-03-15-前端异常埋点系统初探-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14965&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493489%26amp%3Bidx%3D2%26amp%3Bsn%3Dd542e229cdcb9a424cd0ac0e232cc668%26amp%3Bchksm%3Dfa3f062acd488f3c638bce222f765cc53dfe12ce66d84c76b7db365a3493c776bd5bade5f28b%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【开发者头条】2022-03-15-实时数仓之-Kappa-架构与-Lambda-架构（建议收藏！）](https://toutiao.io/k/sh6t6h0) 
-- [【开发者头条】2022-03-15-GitLab-CI-打造一条自己的流水线](https://toutiao.io/k/0m9sdkf) 
 - [【开发者头条】2022-03-15-微信全文搜索技术优化](https://toutiao.io/k/fvhw2yp) 
+- [【开发者头条】2022-03-15-GitLab-CI-打造一条自己的流水线](https://toutiao.io/k/0m9sdkf) 
 - [【开发者头条】2022-03-15-大厂中层“再就业”难；我的命令行开发环境；第一个五年，快速到P7获取年薪50w｜码农周刊VIP会员专属邮件周报-Vol.083](https://toutiao.io/k/qtrl966) 
 - [【开发者头条】2022-03-15-前端大佬都在使用的JavaScript工具函数宝典（内含95个工具函数）](https://toutiao.io/k/2yey7b2) 
 - [【开发者头条】2022-03-15-传阿里腾讯即将大裁员，最高裁撤-30%](https://toutiao.io/k/4ucbsnc) 
@@ -198,11 +198,11 @@
 - [【开发者头条】2022-03-15-Guava中这些Map的骚操作，让我的代码量减少了50%](https://toutiao.io/k/548fuud) 
 - [【开发者头条】2022-03-15-获取设备唯一编号替代IMEI新方案](https://toutiao.io/k/8afuprx) 
 - [【开发者头条】2022-03-15-花式沉默Defender](https://toutiao.io/k/ql0u274) 
-- [【开发者头条】2022-03-15-推荐-微服务如何划分](https://toutiao.io/k/f4vabj7) 
-- [【开发者头条】2022-03-15-推荐-快看我在Redis分布式锁上，栽的8个跟头！](https://toutiao.io/k/pshtt8d) 
-- [【开发者头条】2022-03-15-推荐-Java泛型详解，史上最全图文详解！](https://toutiao.io/k/chtkqxo) 
-- [【开发者头条】2022-03-15-推荐-我的命令行开发环境-❤️](https://toutiao.io/k/hjda293) 
 - [【开发者头条】2022-03-15-推荐-MySQL-团队开发规范](https://toutiao.io/k/qjooigy) 
+- [【开发者头条】2022-03-15-推荐-快看我在Redis分布式锁上，栽的8个跟头！](https://toutiao.io/k/pshtt8d) 
+- [【开发者头条】2022-03-15-推荐-微服务如何划分](https://toutiao.io/k/f4vabj7) 
+- [【开发者头条】2022-03-15-推荐-我的命令行开发环境-❤️](https://toutiao.io/k/hjda293) 
+- [【开发者头条】2022-03-15-推荐-Java泛型详解，史上最全图文详解！](https://toutiao.io/k/chtkqxo) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

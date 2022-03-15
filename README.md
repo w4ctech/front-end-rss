@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-03-15 02:15:00，:rocket: 更新条数: +2033， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-03-15 02:56:44，:rocket: 更新条数: +2032， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,18 @@
 </summary>
 
 
+- [2022-03-15-免费领取-7-天-QQ-音乐绿钻](https://www.v2ex.com/t/840414) ![](assets/new.png)  
+- [2022-03-15-以后日本品牌能避就避](https://www.v2ex.com/t/840413) ![](assets/new.png)  
+- [2022-03-15-苹果表的这个站立统计是不是有问题](https://www.v2ex.com/t/840412) ![](assets/new.png)  
+- [2022-03-15-蜂窝板-mini6-信号和续航如何？](https://www.v2ex.com/t/840411) ![](assets/new.png)  
+- [2022-03-15-谁能给我彻底解释一下-APR](https://www.v2ex.com/t/840409) ![](assets/new.png)  
+- [2022-03-15-求推荐苹果键盘的增高底座](https://www.v2ex.com/t/840408) ![](assets/new.png)  
+- [2022-03-15-tomcat-需要反弹-shell-该如何剥离？](https://www.v2ex.com/t/840407) ![](assets/new.png)  
+- [2022-03-15-准备买三年腾讯云轻量做鸡场，请指教！](https://www.v2ex.com/t/840406) ![](assets/new.png)  
+- [2022-03-15-公司网络是电信，怎么获取的是移动-IP？还经常变](https://www.v2ex.com/t/840405) ![](assets/new.png)  
+- [2022-03-15-兄弟们，你们-mbp-使用蓝牙鼠标时，会跳帧么？](https://www.v2ex.com/t/840404) ![](assets/new.png)  
+- [2022-03-15-Mac-的可维修性真的低到了离谱的地步啊](https://www.v2ex.com/t/840402) ![](assets/new.png)  
+- [2022-03-15-如果个人想找云存储备份数据的话，直接用国内网盘还是个不错的选择？](https://www.v2ex.com/t/840401) ![](assets/new.png)  
 - [2022-03-15-遇到个高并发的问题](https://www.v2ex.com/t/840400) ![](assets/new.png)  
 - [2022-03-15-经过企业微信认证的中国移动客服人员可信吗？](https://www.v2ex.com/t/840399) ![](assets/new.png)  
 - [2022-03-15-wordpress-有给-tag-分组/分层的-plugin-么？](https://www.v2ex.com/t/840398) ![](assets/new.png)  
@@ -499,18 +511,6 @@
 - [2022-03-15-新加坡-安全/DevOps/SRE/DBA/前端/后端/Flutter-岗位开放中，-P6-P9，大中型互联网公司。世界这么大，不妨来看看。详情请微信咨询-happierenee](https://www.v2ex.com/t/840394) ![](assets/new.png)  
 - [2022-03-15-前端求助](https://www.v2ex.com/t/840393) ![](assets/new.png)  
 - [2022-03-15-iPhone-11-用户表示很淦](https://www.v2ex.com/t/840392) ![](assets/new.png)  
-- [2022-03-15-原生-Android-11-之后，隐私权限和后台管理是否靠得住？](https://www.v2ex.com/t/840391) ![](assets/new.png)  
-- [2022-03-15-大-A-教你做人，股灾来的更猛烈些把](https://www.v2ex.com/t/840390) ![](assets/new.png)  
-- [2022-03-15-Apple-新显示器的芯片有什么用？](https://www.v2ex.com/t/840389) ![](assets/new.png)  
-- [2022-03-15-大家千万不要关注理想汽车的小程序](https://www.v2ex.com/t/840388) ![](assets/new.png)  
-- [2022-03-15-有木有大佬做过小体积的-GPS-上报模块？-我在这方面是纯小白，最近买了辆自行车，想自己做一个小玩意塞进去上报位置～](https://www.v2ex.com/t/840387) ![](assets/new.png)  
-- [2022-03-15-请问-MUI-button-组件的点击涟漪效果是如何实现的呢？有哪位大佬能写个-demo-么-^_^](https://www.v2ex.com/t/840386) ![](assets/new.png)  
-- [2022-03-15-iOS-15.4-升级后反馈记录贴](https://www.v2ex.com/t/840384) ![](assets/new.png)  
-- [2022-03-15-web-app-的形式只有-https-地址可以调用手机摄像头？](https://www.v2ex.com/t/840383) ![](assets/new.png)  
-- [2022-03-15-企业微信-SSO-又不能用了吗？](https://www.v2ex.com/t/840382) ![](assets/new.png)  
-- [2022-03-15-关于-win-和-mac-的同步方案](https://www.v2ex.com/t/840381) ![](assets/new.png)  
-- [2022-03-15-送码-开发了一个物品记录与管理的-app-ios-端，欢迎大家体验](https://www.v2ex.com/t/840380) ![](assets/new.png)  
-- [2022-03-15-macOS-12.3-正式版发布](https://www.v2ex.com/t/840379) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -555,24 +555,24 @@
 
 - [2022-03-15-传阿里腾讯即将大裁员，最高裁撤-30%](https://toutiao.io/k/4ucbsnc) ![](assets/new.png)  
 - [2022-03-15-大厂中层“再就业”难；我的命令行开发环境；第一个五年，快速到P7获取年薪50w｜码农周刊VIP会员专属邮件周报-Vol.083](https://toutiao.io/k/qtrl966) ![](assets/new.png)  
-- [2022-03-15-GitLab-CI-打造一条自己的流水线](https://toutiao.io/k/0m9sdkf) ![](assets/new.png)  
 - [2022-03-15-实时数仓之-Kappa-架构与-Lambda-架构（建议收藏！）](https://toutiao.io/k/sh6t6h0) ![](assets/new.png)  
+- [2022-03-15-GitLab-CI-打造一条自己的流水线](https://toutiao.io/k/0m9sdkf) ![](assets/new.png)  
 - [2022-03-15-微信全文搜索技术优化](https://toutiao.io/k/fvhw2yp) ![](assets/new.png)  
 - [2022-03-15-WebRTC系列分享-|-WebRTC视频QoS全局技术栈](https://toutiao.io/k/a6f8gq1) ![](assets/new.png)  
 - [2022-03-15-90-后都开始说自己老了…](https://toutiao.io/k/hejzm9o) ![](assets/new.png)  
 - [2022-03-15-人工智能的学习经验总结！](https://toutiao.io/k/ad3p2fg) ![](assets/new.png)  
 - [2022-03-15-字节的“派对岛”、腾讯的超级QQ秀…为何元宇宙落点都在社交？｜海外视角](https://toutiao.io/k/an88hln) ![](assets/new.png)  
-- [2022-03-15-微信又更新了！支持导出个人信息](https://toutiao.io/k/ahojpdz) ![](assets/new.png)  
 - [2022-03-15-《剑指Offer：专项突破版》---链表部分-JavaScript-题解](https://toutiao.io/k/6shc3p2) ![](assets/new.png)  
 - [2022-03-15-分布式系统中的领导选举](https://toutiao.io/k/qrjplwz) ![](assets/new.png)  
-- [2022-03-15-花式沉默Defender](https://toutiao.io/k/ql0u274) ![](assets/new.png)  
 - [2022-03-15-获取设备唯一编号替代IMEI新方案](https://toutiao.io/k/8afuprx) ![](assets/new.png)  
+- [2022-03-15-前端大佬都在使用的JavaScript工具函数宝典（内含95个工具函数）](https://toutiao.io/k/2yey7b2) ![](assets/new.png)  
 - [2022-03-15-兑现-Service-Mesh-的新价值：精确控制“爆炸半径”](https://toutiao.io/k/2e6758m) ![](assets/new.png)  
 - [2022-03-15-有赞移动隐私制约探索与实践](https://toutiao.io/k/7bn5kqr) ![](assets/new.png)  
-- [2022-03-15-前端大佬都在使用的JavaScript工具函数宝典（内含95个工具函数）](https://toutiao.io/k/2yey7b2) ![](assets/new.png)  
-- [2022-03-15-推荐-微服务如何划分](https://toutiao.io/k/f4vabj7) ![](assets/new.png)  
-- [2022-03-15-推荐-高并发是一种架构思维模式](https://toutiao.io/k/imslmgz) ![](assets/new.png)  
+- [2022-03-15-花式沉默Defender](https://toutiao.io/k/ql0u274) ![](assets/new.png)  
 - [2022-03-15-推荐-Java泛型详解，史上最全图文详解！](https://toutiao.io/k/chtkqxo) ![](assets/new.png)  
+- [2022-03-15-推荐-快看我在Redis分布式锁上，栽的8个跟头！](https://toutiao.io/k/pshtt8d) ![](assets/new.png)  
+- [2022-03-15-推荐-我的命令行开发环境-❤️](https://toutiao.io/k/hjda293) ![](assets/new.png)  
+- [2022-03-15-推荐-MySQL-团队开发规范](https://toutiao.io/k/qjooigy) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

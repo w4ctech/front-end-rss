@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-03-15 03:40:55，:rocket: 更新条数: +2027， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-03-15 04:17:17，:rocket: 更新条数: +2028， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,26 +491,26 @@
 </summary>
 
 
+- [2022-03-15-求推荐微信公众号或小程序商城系统](https://www.v2ex.com/t/840453) ![](assets/new.png)  
+- [2022-03-15-已经退出-iCould-的设备还能收到两步验证](https://www.v2ex.com/t/840452) ![](assets/new.png)  
+- [2022-03-15-《C++-Primer》关于-reference-和-pointer-部分看的人“生气”](https://www.v2ex.com/t/840451) ![](assets/new.png)  
+- [2022-03-15-play-install-referrer-api-中没有-utm_campaign-信息？](https://www.v2ex.com/t/840450) ![](assets/new.png)  
+- [2022-03-15-国内小白都用了-Windows-10，为何仍要使用国内杀毒、安全类流氓程序呢？](https://www.v2ex.com/t/840449) ![](assets/new.png)  
+- [2022-03-15-datax-可以把某个字段连表查转换成其他字段吗？](https://www.v2ex.com/t/840448) ![](assets/new.png)  
+- [2022-03-15-Golang-有没有像-Python-pillow-那样简单易用的绘图库？](https://www.v2ex.com/t/840447) ![](assets/new.png)  
+- [2022-03-15-关于-nginx-的-rewrite-配置。](https://www.v2ex.com/t/840446) ![](assets/new.png)  
+- [2022-03-15-有无支持-html-编写的邮件客户端？](https://www.v2ex.com/t/840445) ![](assets/new.png)  
+- [2022-03-15-关于夫妻的这两件事，诚心争取大家意见，到底谁对谁错](https://www.v2ex.com/t/840443) ![](assets/new.png)  
+- [2022-03-15-各位程序员兄弟们，你们是如何锻炼颈椎的](https://www.v2ex.com/t/840442) ![](assets/new.png)  
+- [2022-03-15-Mac-电池不行了，过保，准备自己买电池更换，有靠谱的店推荐么](https://www.v2ex.com/t/840441) ![](assets/new.png)  
+- [2022-03-15-最近群晖挂载阿里云盘被限制了？](https://www.v2ex.com/t/840440) ![](assets/new.png)  
+- [2022-03-15-MacOS-降级导致照片图库打不开了，求指教。](https://www.v2ex.com/t/840439) ![](assets/new.png)  
+- [2022-03-15-你们的-mac-会一直更新系统么？走在时代的最前沿](https://www.v2ex.com/t/840438) ![](assets/new.png)  
+- [2022-03-15-有人了解花么？求推荐](https://www.v2ex.com/t/840437) ![](assets/new.png)  
+- [2022-03-15-你们-Alfred-能够检索到-OneDrive-文件么？](https://www.v2ex.com/t/840436) ![](assets/new.png)  
+- [2022-03-15-请问有什么办法可以方便翻译网页中图片中的文字？](https://www.v2ex.com/t/840435) ![](assets/new.png)  
 - [2022-03-15-有更新-macOS-12.3-的吗？进来说说体验](https://www.v2ex.com/t/840431) ![](assets/new.png)  
 - [2022-03-15-2022-现在-Python-的包管理用什么？](https://www.v2ex.com/t/840430) ![](assets/new.png)  
-- [2022-03-15-升级需谨慎吖！-MacOS-12.3-升级问题](https://www.v2ex.com/t/840429) ![](assets/new.png)  
-- [2022-03-15-Office365-拼团，-45-元/年，有需要的朋友请上车。](https://www.v2ex.com/t/840428) ![](assets/new.png)  
-- [2022-03-15-mysql-有啥简单易用的高可用方案？](https://www.v2ex.com/t/840427) ![](assets/new.png)  
-- [2022-03-15-obsidian-怎么插入日期呀？比如插入今天：-2022/03/15-这种类似格式](https://www.v2ex.com/t/840425) ![](assets/new.png)  
-- [2022-03-15-一张主表，多张关联表，查询逻辑写在-sql-中好，还是业务代码中好？](https://www.v2ex.com/t/840423) ![](assets/new.png)  
-- [2022-03-15-macOS-Monterey-12.3「通用控制-Beta-版」跨端触控板手势不统一](https://www.v2ex.com/t/840422) ![](assets/new.png)  
-- [2022-03-15-iPhone-更新-15.4-以后提示我密码泄露](https://www.v2ex.com/t/840421) ![](assets/new.png)  
-- [2022-03-15-由腾讯企业邮箱转的企业微信已经可以解散](https://www.v2ex.com/t/840420) ![](assets/new.png)  
-- [2022-03-15-Windows-应用商店的搜索功能还能更烂一些吗](https://www.v2ex.com/t/840419) ![](assets/new.png)  
-- [2022-03-15-骑驴找马问题](https://www.v2ex.com/t/840416) ![](assets/new.png)  
-- [2022-03-15-免费领取-7-天-QQ-音乐绿钻](https://www.v2ex.com/t/840414) ![](assets/new.png)  
-- [2022-03-15-以后日本品牌能避就避](https://www.v2ex.com/t/840413) ![](assets/new.png)  
-- [2022-03-15-苹果表的这个站立统计是不是有问题](https://www.v2ex.com/t/840412) ![](assets/new.png)  
-- [2022-03-15-蜂窝板-mini6-信号和续航如何？](https://www.v2ex.com/t/840411) ![](assets/new.png)  
-- [2022-03-15-谁能给我彻底解释一下-APR](https://www.v2ex.com/t/840409) ![](assets/new.png)  
-- [2022-03-15-求推荐苹果键盘的增高底座](https://www.v2ex.com/t/840408) ![](assets/new.png)  
-- [2022-03-15-tomcat-需要反弹-shell-该如何剥离？](https://www.v2ex.com/t/840407) ![](assets/new.png)  
-- [2022-03-15-准备买三年腾讯云轻量做鸡场，请指教！](https://www.v2ex.com/t/840406) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -554,8 +554,8 @@
 
 
 - [2022-03-15-传阿里腾讯即将大裁员，最高裁撤-30%](https://toutiao.io/k/4ucbsnc) ![](assets/new.png)  
-- [2022-03-15-大厂中层“再就业”难；我的命令行开发环境；第一个五年，快速到P7获取年薪50w｜码农周刊VIP会员专属邮件周报-Vol.083](https://toutiao.io/k/qtrl966) ![](assets/new.png)  
 - [2022-03-15-实时数仓之-Kappa-架构与-Lambda-架构（建议收藏！）](https://toutiao.io/k/sh6t6h0) ![](assets/new.png)  
+- [2022-03-15-大厂中层“再就业”难；我的命令行开发环境；第一个五年，快速到P7获取年薪50w｜码农周刊VIP会员专属邮件周报-Vol.083](https://toutiao.io/k/qtrl966) ![](assets/new.png)  
 - [2022-03-15-GitLab-CI-打造一条自己的流水线](https://toutiao.io/k/0m9sdkf) ![](assets/new.png)  
 - [2022-03-15-微信全文搜索技术优化](https://toutiao.io/k/fvhw2yp) ![](assets/new.png)  
 - [2022-03-15-WebRTC系列分享-|-WebRTC视频QoS全局技术栈](https://toutiao.io/k/a6f8gq1) ![](assets/new.png)  
@@ -564,15 +564,15 @@
 - [2022-03-15-字节的“派对岛”、腾讯的超级QQ秀…为何元宇宙落点都在社交？｜海外视角](https://toutiao.io/k/an88hln) ![](assets/new.png)  
 - [2022-03-15-《剑指Offer：专项突破版》---链表部分-JavaScript-题解](https://toutiao.io/k/6shc3p2) ![](assets/new.png)  
 - [2022-03-15-分布式系统中的领导选举](https://toutiao.io/k/qrjplwz) ![](assets/new.png)  
+- [2022-03-15-兑现-Service-Mesh-的新价值：精确控制“爆炸半径”](https://toutiao.io/k/2e6758m) ![](assets/new.png)  
 - [2022-03-15-前端大佬都在使用的JavaScript工具函数宝典（内含95个工具函数）](https://toutiao.io/k/2yey7b2) ![](assets/new.png)  
 - [2022-03-15-获取设备唯一编号替代IMEI新方案](https://toutiao.io/k/8afuprx) ![](assets/new.png)  
-- [2022-03-15-兑现-Service-Mesh-的新价值：精确控制“爆炸半径”](https://toutiao.io/k/2e6758m) ![](assets/new.png)  
 - [2022-03-15-有赞移动隐私制约探索与实践](https://toutiao.io/k/7bn5kqr) ![](assets/new.png)  
 - [2022-03-15-花式沉默Defender](https://toutiao.io/k/ql0u274) ![](assets/new.png)  
-- [2022-03-15-推荐-快看我在Redis分布式锁上，栽的8个跟头！](https://toutiao.io/k/pshtt8d) ![](assets/new.png)  
+- [2022-03-15-推荐-高并发是一种架构思维模式](https://toutiao.io/k/imslmgz) ![](assets/new.png)  
 - [2022-03-15-推荐-Java泛型详解，史上最全图文详解！](https://toutiao.io/k/chtkqxo) ![](assets/new.png)  
 - [2022-03-15-推荐-MySQL-团队开发规范](https://toutiao.io/k/qjooigy) ![](assets/new.png)  
-- [2022-03-15-推荐-我的命令行开发环境-❤️](https://toutiao.io/k/hjda293) ![](assets/new.png)  
+- [2022-03-15-推荐-快看我在Redis分布式锁上，栽的8个跟头！](https://toutiao.io/k/pshtt8d) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

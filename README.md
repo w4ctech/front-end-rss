@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-03-15 08:17:16，:rocket: 更新条数: +2028， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-03-15 08:42:44，:rocket: 更新条数: +2028， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-03-15-各位如何看待面试测情商、智商，以及填写户口本信息？](https://www.v2ex.com/t/840534) ![](assets/new.png)  
+- [2022-03-15-联动二郎腿，请问喜欢抠鼻屎如何戒掉？](https://www.v2ex.com/t/840532) ![](assets/new.png)  
 - [2022-03-15-个人转租-6-号线浦电路-一室一厅](https://www.v2ex.com/t/840531) ![](assets/new.png)  
 - [2022-03-15-公司发的年终奖没有进入个人所得税是怎么回事？](https://www.v2ex.com/t/840529) ![](assets/new.png)  
 - [2022-03-15-关于进一步做好工时和休息休假权益维护工作的通知](https://www.v2ex.com/t/840528) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-03-15-安卓手机破解密码-已经-Root-有我自己的指纹可以正常解锁](https://www.v2ex.com/t/840509) ![](assets/new.png)  
 - [2022-03-15-自己做了一个摸鱼网站](https://www.v2ex.com/t/840508) ![](assets/new.png)  
 - [2022-03-15-刚入职的小白写了一个登录的接口，但感觉写的很臃肿，请教一下大佬有没有可以优化的地方呢？](https://www.v2ex.com/t/840507) ![](assets/new.png)  
-- [2022-03-15-win-上有没有可以实时翻译直播的应用或者浏览器插件？需要日译中。](https://www.v2ex.com/t/840506) ![](assets/new.png)  
-- [2022-03-15-免费领-7-天-QQ-音乐绿钻](https://www.v2ex.com/t/840505) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -563,8 +563,8 @@
 - [2022-03-15-分布式系统中的领导选举](https://toutiao.io/k/qrjplwz) ![](assets/new.png)  
 - [2022-03-15-人工智能的学习经验总结！](https://toutiao.io/k/ad3p2fg) ![](assets/new.png)  
 - [2022-03-15-兑现-Service-Mesh-的新价值：精确控制“爆炸半径”](https://toutiao.io/k/2e6758m) ![](assets/new.png)  
-- [2022-03-15-WebRTC系列分享-|-WebRTC视频QoS全局技术栈](https://toutiao.io/k/a6f8gq1) ![](assets/new.png)  
 - [2022-03-15-有赞移动隐私制约探索与实践](https://toutiao.io/k/7bn5kqr) ![](assets/new.png)  
+- [2022-03-15-WebRTC系列分享-|-WebRTC视频QoS全局技术栈](https://toutiao.io/k/a6f8gq1) ![](assets/new.png)  
 - [2022-03-15-90-后都开始说自己老了…](https://toutiao.io/k/hejzm9o) ![](assets/new.png)  
 - [2022-03-15-字节的“派对岛”、腾讯的超级QQ秀…为何元宇宙落点都在社交？｜海外视角](https://toutiao.io/k/an88hln) ![](assets/new.png)  
 - [2022-03-15-获取设备唯一编号替代IMEI新方案](https://toutiao.io/k/8afuprx) ![](assets/new.png)  
@@ -572,7 +572,7 @@
 - [2022-03-15-开源：如何优雅的实现一个操作日志组件](https://toutiao.io/k/izj117w) ![](assets/new.png)  
 - [2022-03-15-聊聊springboot项目全局异常处理那些事儿](https://toutiao.io/k/p4u2lwf) ![](assets/new.png)  
 - [2022-03-15-Guava中这些Map的骚操作，让我的代码量减少了50%](https://toutiao.io/k/548fuud) ![](assets/new.png)  
-- [2022-03-15-推荐-MySQL-团队开发规范](https://toutiao.io/k/qjooigy) ![](assets/new.png)  
+- [2022-03-15-推荐-高并发是一种架构思维模式](https://toutiao.io/k/imslmgz) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

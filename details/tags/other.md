@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-03-15 20:39:00。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-03-15 21:11:06。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1912,6 +1912,7 @@
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2022-02-04-HTML-inputmode与iOS-Android软键盘类型测试](https://www.zhangxinxu.com/wordpress/2022/02/html-inputmode-keyboard/) 
+- [2022-03-15-开源的-erp-有推荐吗](https://www.v2ex.com/t/840646) 
 - [2022-03-15-分享-Let's-Encrypt-SSL-每-80-天自動更新腳本，帶進度條指示](https://www.v2ex.com/t/840645) 
 - [2022-03-15-存在禁用-AAAA-记录的公共-DNS-Server-？](https://www.v2ex.com/t/840644) 
 - [2022-03-15-315-曝光的浏览网页就能获取用户手机号是怎么做到的？](https://www.v2ex.com/t/840643) 
@@ -1969,7 +1970,7 @@
 - [2022-03-15-获取设备唯一编号替代IMEI新方案](https://toutiao.io/k/8afuprx) 
 - [2022-03-15-花式沉默Defender](https://toutiao.io/k/ql0u274) 
 - [2022-03-15-推荐-微服务如何划分](https://toutiao.io/k/f4vabj7) 
+- [2022-03-15-推荐-Java泛型详解，史上最全图文详解！](https://toutiao.io/k/chtkqxo) 
 - [2022-03-15-推荐-快看我在Redis分布式锁上，栽的8个跟头！](https://toutiao.io/k/pshtt8d) 
 - [2022-03-15-推荐-我的命令行开发环境-❤️](https://toutiao.io/k/hjda293) 
-- [2022-03-15-推荐-Java泛型详解，史上最全图文详解！](https://toutiao.io/k/chtkqxo) 
 - [2022-03-15-推荐-MySQL-团队开发规范](https://toutiao.io/k/qjooigy) 

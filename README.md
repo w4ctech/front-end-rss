@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-03-15 20:39:00，:rocket: 更新条数: +2024， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-03-15 21:11:06，:rocket: 更新条数: +2024， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-03-15-开源的-erp-有推荐吗](https://www.v2ex.com/t/840646) ![](assets/new.png)  
 - [2022-03-15-分享-Let's-Encrypt-SSL-每-80-天自動更新腳本，帶進度條指示](https://www.v2ex.com/t/840645) ![](assets/new.png)  
 - [2022-03-15-存在禁用-AAAA-记录的公共-DNS-Server-？](https://www.v2ex.com/t/840644) ![](assets/new.png)  
 - [2022-03-15-315-曝光的浏览网页就能获取用户手机号是怎么做到的？](https://www.v2ex.com/t/840643) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-03-15-2500-左右可以收到-2015-款以后的-macbook-吗](https://www.v2ex.com/t/840626) ![](assets/new.png)  
 - [2022-03-15-为了避免睡前脑子像网络蜘蛛一样在记忆库里乱爬胡思乱想，有啥适合脑子的"睡前任务"吗](https://www.v2ex.com/t/840625) ![](assets/new.png)  
 - [2022-03-15-纠结要不要跳槽](https://www.v2ex.com/t/840619) ![](assets/new.png)  
-- [2022-03-15-前端摸索后端小白，请教各位一个服务端的问题，关于-Python-sanic-用法](https://www.v2ex.com/t/840618) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

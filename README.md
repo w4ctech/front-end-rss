@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-03-15 17:15:14，:rocket: 更新条数: +2023， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-03-15 17:37:43，:rocket: 更新条数: +2023， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -572,7 +572,7 @@
 - [2022-03-15-Guava中这些Map的骚操作，让我的代码量减少了50%](https://toutiao.io/k/548fuud) ![](assets/new.png)  
 - [2022-03-15-获取设备唯一编号替代IMEI新方案](https://toutiao.io/k/8afuprx) ![](assets/new.png)  
 - [2022-03-15-花式沉默Defender](https://toutiao.io/k/ql0u274) ![](assets/new.png)  
-- [2022-03-15-推荐-MySQL-团队开发规范](https://toutiao.io/k/qjooigy) ![](assets/new.png)  
+- [2022-03-15-推荐-Java泛型详解，史上最全图文详解！](https://toutiao.io/k/chtkqxo) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

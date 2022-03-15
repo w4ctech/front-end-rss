@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-03-15 09:13:29，:rocket: 更新条数: +2029， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-03-15 09:39:20，:rocket: 更新条数: +2028， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,10 @@
 </summary>
 
 
+- [2022-03-15-有一个算法，根据不同的结果求值](https://www.v2ex.com/t/840549) ![](assets/new.png)  
+- [2022-03-15-显示器防窥膜是真的不好用](https://www.v2ex.com/t/840548) ![](assets/new.png)  
+- [2022-03-15-MBP-14-和红米-Note-Pro-11-使用-USB-2.0-的-Type-C-连接问题](https://www.v2ex.com/t/840546) ![](assets/new.png)  
+- [2022-03-15-语雀～～求邀请](https://www.v2ex.com/t/840545) ![](assets/new.png)  
 - [2022-03-15-开源了一个基于-K8s-的微服务本地联调测试工具-KubeOrbit](https://www.v2ex.com/t/840543) ![](assets/new.png)  
 - [2022-03-15-阿里语雀免费领取-1-4-年会员，必得-1-年-vip-会员](https://www.v2ex.com/t/840542) ![](assets/new.png)  
 - [2022-03-15-homepod-mini-升级-15.4-无法唤醒-Apple-tv-了](https://www.v2ex.com/t/840541) ![](assets/new.png)  
@@ -507,10 +511,6 @@
 - [2022-03-15-有没有双卡同时上网的手机](https://www.v2ex.com/t/840527) ![](assets/new.png)  
 - [2022-03-15-升级到-MacOs-12.3-出-bug-了](https://www.v2ex.com/t/840526) ![](assets/new.png)  
 - [2022-03-15-微信的朋友圈广告是不是热爱推游戏？](https://www.v2ex.com/t/840525) ![](assets/new.png)  
-- [2022-03-15-Gen4-NVMe-求推荐](https://www.v2ex.com/t/840524) ![](assets/new.png)  
-- [2022-03-15-Hubstudio-如何做到跨境电商平台防关联?](https://www.v2ex.com/t/840522) ![](assets/new.png)  
-- [2022-03-15-MiPay-无法移除卡片](https://www.v2ex.com/t/840520) ![](assets/new.png)  
-- [2022-03-15-如果自觉有冤-有什么好办法可以申诉呢](https://www.v2ex.com/t/840517) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -572,7 +572,7 @@
 - [2022-03-15-开源：如何优雅的实现一个操作日志组件](https://toutiao.io/k/izj117w) ![](assets/new.png)  
 - [2022-03-15-聊聊springboot项目全局异常处理那些事儿](https://toutiao.io/k/p4u2lwf) ![](assets/new.png)  
 - [2022-03-15-Guava中这些Map的骚操作，让我的代码量减少了50%](https://toutiao.io/k/548fuud) ![](assets/new.png)  
-- [2022-03-15-推荐-微服务如何划分](https://toutiao.io/k/f4vabj7) ![](assets/new.png)  
+- [2022-03-15-推荐-MySQL-团队开发规范](https://toutiao.io/k/qjooigy) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

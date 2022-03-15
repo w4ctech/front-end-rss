@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-03-15 13:23:28，:rocket: 更新条数: +2032， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-03-15 13:40:23，:rocket: 更新条数: +2033， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,10 @@
 </summary>
 
 
+- [2022-03-15-存在多个设备时，“Hey-Siri”-唤醒的优先级：-HomePod->-iPhone->-iPad-？](https://www.v2ex.com/t/840599) ![](assets/new.png)  
+- [2022-03-15-有没有办法快捷打开-iPhone-信号测试界面的方法](https://www.v2ex.com/t/840598) ![](assets/new.png)  
+- [2022-03-15-干净有歌词的音乐软件](https://www.v2ex.com/t/840597) ![](assets/new.png)  
+- [2022-03-15-是为什么-JS-要有原型对象？](https://www.v2ex.com/t/840596) ![](assets/new.png)  
 - [2022-03-15-自己搭了一个在线听广播电台的网站](https://www.v2ex.com/t/840594) ![](assets/new.png)  
 - [2022-03-15-爬虫的极限是什么？](https://www.v2ex.com/t/840593) ![](assets/new.png)  
 - [2022-03-15-为什么中转的机场打开油管默认都是低画质？引发两个疑惑](https://www.v2ex.com/t/840592) ![](assets/new.png)  
@@ -507,10 +511,6 @@
 - [2022-03-15-腾讯股票可以入手了么？](https://www.v2ex.com/t/840578) ![](assets/new.png)  
 - [2022-03-15-上海电信如何申请关闭-IPv6-？](https://www.v2ex.com/t/840577) ![](assets/new.png)  
 - [2022-03-15-如何快速入门-Intellij-插件开发？](https://www.v2ex.com/t/840576) ![](assets/new.png)  
-- [2022-03-15-Windows-11-更新到-22000.556-之后，任务栏依旧没有出现天气](https://www.v2ex.com/t/840575) ![](assets/new.png)  
-- [2022-03-15-ASP.NET-Core-存在类似-il2Cpp-这种可以把-C#代码转换成-C++代码编译来防止逆向获得原始代码的黑科技吗？如果不存在，为什么？](https://www.v2ex.com/t/840573) ![](assets/new.png)  
-- [2022-03-15-小调查，你的副业一年能带来多少钱？](https://www.v2ex.com/t/840572) ![](assets/new.png)  
-- [2022-03-15-备用机推荐？](https://www.v2ex.com/t/840570) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -556,8 +556,8 @@
 - [2022-03-15-实时数仓之-Kappa-架构与-Lambda-架构（建议收藏！）](https://toutiao.io/k/sh6t6h0) ![](assets/new.png)  
 - [2022-03-15-GitLab-CI-打造一条自己的流水线](https://toutiao.io/k/0m9sdkf) ![](assets/new.png)  
 - [2022-03-15-微信全文搜索技术优化](https://toutiao.io/k/fvhw2yp) ![](assets/new.png)  
-- [2022-03-15-传阿里腾讯即将大裁员，最高裁撤-30%](https://toutiao.io/k/4ucbsnc) ![](assets/new.png)  
 - [2022-03-15-大厂中层“再就业”难；我的命令行开发环境；第一个五年，快速到P7获取年薪50w｜码农周刊VIP会员专属邮件周报-Vol.083](https://toutiao.io/k/qtrl966) ![](assets/new.png)  
+- [2022-03-15-传阿里腾讯即将大裁员，最高裁撤-30%](https://toutiao.io/k/4ucbsnc) ![](assets/new.png)  
 - [2022-03-15-前端大佬都在使用的JavaScript工具函数宝典（内含95个工具函数）](https://toutiao.io/k/2yey7b2) ![](assets/new.png)  
 - [2022-03-15-分布式系统中的领导选举](https://toutiao.io/k/qrjplwz) ![](assets/new.png)  
 - [2022-03-15-《剑指Offer：专项突破版》---链表部分-JavaScript-题解](https://toutiao.io/k/6shc3p2) ![](assets/new.png)  
@@ -572,7 +572,7 @@
 - [2022-03-15-花式沉默Defender](https://toutiao.io/k/ql0u274) ![](assets/new.png)  
 - [2022-03-15-聊聊springboot项目全局异常处理那些事儿](https://toutiao.io/k/p4u2lwf) ![](assets/new.png)  
 - [2022-03-15-Guava中这些Map的骚操作，让我的代码量减少了50%](https://toutiao.io/k/548fuud) ![](assets/new.png)  
-- [2022-03-15-推荐-我的命令行开发环境-❤️](https://toutiao.io/k/hjda293) ![](assets/new.png)  
+- [2022-03-15-推荐-快看我在Redis分布式锁上，栽的8个跟头！](https://toutiao.io/k/pshtt8d) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

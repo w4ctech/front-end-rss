@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-03-16 21:38:05，:rocket: 更新条数: +2027， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-03-16 22:12:06，:rocket: 更新条数: +2027， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-03-16-iOS15.4-苹果修改了共享家庭通知拒绝选项的描述](https://www.v2ex.com/t/840911) ![](assets/new.png)  
 - [2022-03-16-miui13，微信输入框被遮挡](https://www.v2ex.com/t/840910) ![](assets/new.png)  
 - [2022-03-16-Java-中-Mysql-的状态列用-int-还是用-varchar-好点](https://www.v2ex.com/t/840907) ![](assets/new.png)  
 - [2022-03-16-米家-APP，网络检测模块缺少回落](https://www.v2ex.com/t/840906) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-03-16-22-考研失败求份广州工作实习也可以，-Golang-或-Java](https://www.v2ex.com/t/840887) ![](assets/new.png)  
 - [2022-03-16-看到一道面试题，多线程适合用来做大量文件的读取吗](https://www.v2ex.com/t/840884) ![](assets/new.png)  
 - [2022-03-16-22-应届考研炮灰求一个前端工作](https://www.v2ex.com/t/840883) ![](assets/new.png)  
-- [2022-03-16-mac-/-win-用户都用什么软件看小说呢？](https://www.v2ex.com/t/840882) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

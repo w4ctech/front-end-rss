@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2022-03-16 21:38:05。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-03-16 22:12:07。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-03-16-iOS15.4-苹果修改了共享家庭通知拒绝选项的描述](https://www.v2ex.com/t/840911) 
 - [2022-03-16-miui13，微信输入框被遮挡](https://www.v2ex.com/t/840910) 
 - [2022-03-16-Java-中-Mysql-的状态列用-int-还是用-varchar-好点](https://www.v2ex.com/t/840907) 
 - [2022-03-16-米家-APP，网络检测模块缺少回落](https://www.v2ex.com/t/840906) 
@@ -42,4 +43,3 @@
 - [2022-03-16-win11-右下角提示“不满足系统要求...”](https://www.v2ex.com/t/840865) 
 - [2022-03-16-宾馆隔离-可以煮开水-可以买什么吃的自己吃呢？](https://www.v2ex.com/t/840863) 
 - [2022-03-16-请教大家一下，-GitHub-登录之后的个人主页，有一个-“All-activity”，-这个是从哪里能删除？](https://www.v2ex.com/t/840862) 
-- [2022-03-16-用-Safari-看视频调快倍速后声音会变闷，-Chrome/Firefox-则不会](https://www.v2ex.com/t/840861) 

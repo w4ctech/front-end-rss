@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-03-16 17:40:04。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-03-16 18:16:01。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1939,7 +1939,6 @@
 - [2022-03-16-外企-965-思科中国招人-Java-、数据、C++-等岗位](https://www.v2ex.com/t/840866) 
 - [2022-03-16-win11-右下角提示“不满足系统要求...”](https://www.v2ex.com/t/840865) 
 - [2022-03-16-宾馆隔离-可以煮开水-可以买什么吃的自己吃呢？](https://www.v2ex.com/t/840863) 
-- [2022-03-16-为什么大多数情况你不应该立刻更新你的软件/系统](https://www.v2ex.com/t/840859) 
 - [2022-03-16-书单嵌入式、C语言编程书籍-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14982&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493708%26amp%3Bidx%3D2%26amp%3Bsn%3D8912c67f39a11e5c64a6f0cc7e0c0c7f%26amp%3Bchksm%3Dfa3f0917cd48800188d3b29be8afbb3d13e5d5837c0b52052115688b4f57b307a1dfa3f14b3e%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-03-16-12个“经典”网站！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14981&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493629%26amp%3Bidx%3D1%26amp%3Bsn%3D92373e79046af0c911cd3f150722950e%26amp%3Bchksm%3Dfa3f06a6cd488fb08bd084438b95cbc4bf8d938626c68a16d79b952565803cc8d5868beaa419%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-03-16-推荐一本免费的Go书籍！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14979&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493626%26amp%3Bidx%3D1%26amp%3Bsn%3D4681027d12e73760b7bb0a764a4ced5b%26amp%3Bchksm%3Dfa3f06a1cd488fb71d84baf9e5ccb2a84ceab9ff5c748312e3682dbab7afef5ac842705b5451%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1968,5 +1967,5 @@
 - [2022-03-16-腾讯开源业界首个云原生标准的一站式微服务管理框架Femas](https://toutiao.io/k/jnqesva) 
 - [2022-03-16-Go-要违背初心吗？新提案：手动管理内存](https://toutiao.io/k/gc1hojq) 
 - [2022-03-16-推荐-MySQL-团队开发规范](https://toutiao.io/k/qjooigy) 
-- [2022-03-16-推荐-我的命令行开发环境-❤️](https://toutiao.io/k/hjda293) 
 - [2022-03-16-推荐-微服务如何划分](https://toutiao.io/k/f4vabj7) 
+- [2022-03-16-推荐-我的命令行开发环境-❤️](https://toutiao.io/k/hjda293) 

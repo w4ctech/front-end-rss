@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-03-16 16:54:59。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-03-16 17:15:03。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
@@ -43,4 +43,3 @@
 - [2022-03-16-请教大家一下，-GitHub-登录之后的个人主页，有一个-“All-activity”，-这个是从哪里能删除？](https://www.v2ex.com/t/840862) 
 - [2022-03-16-用-Safari-看视频调快倍速后声音会变闷，-Chrome/Firefox-则不会](https://www.v2ex.com/t/840861) 
 - [2022-03-16-为什么大多数情况你不应该立刻更新你的软件/系统](https://www.v2ex.com/t/840859) 
-- [2022-03-16-ios-safari-在搜索栏搜索，-google-无法自动定向-hk](https://www.v2ex.com/t/840858) 

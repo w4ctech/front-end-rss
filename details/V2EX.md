@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2022-03-15 23:39:01。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-03-16 00:51:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-03-16-想组装一台-AMD-R5-R5600G-的主机](https://www.v2ex.com/t/840651) 
+- [2022-03-16-我想从买一台-MacBook-Air，有几个关于-macOS-问题想要请教一下大家。](https://www.v2ex.com/t/840648) 
 - [2022-03-15-开源的-erp-有推荐吗](https://www.v2ex.com/t/840646) 
 - [2022-03-15-分享-Let's-Encrypt-SSL-每-80-天自動更新腳本，帶進度條指示](https://www.v2ex.com/t/840645) 
 - [2022-03-15-存在禁用-AAAA-记录的公共-DNS-Server-？](https://www.v2ex.com/t/840644) 
@@ -36,6 +38,3 @@
 - [2022-03-15-没人讨论今天发布的-GTA5-主机次世代版吗？](https://www.v2ex.com/t/840605) 
 - [2022-03-15-现在做一些小众的-bbs-还能赚到钱吗？](https://www.v2ex.com/t/840603) 
 - [2022-03-15-Debian-路由器使用-PD-获得运营商-ipv6](https://www.v2ex.com/t/840602) 
-- [2022-03-15-存在多个设备时，“Hey-Siri”-唤醒的优先级：-HomePod->-iPhone->-iPad-？](https://www.v2ex.com/t/840599) 
-- [2022-03-15-有没有办法快捷打开-iPhone-信号测试界面的方法](https://www.v2ex.com/t/840598) 
-- [2022-03-15-干净有歌词的音乐软件](https://www.v2ex.com/t/840597) 

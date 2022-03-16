@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-03-16 07:13:41。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-03-16 07:36:49。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -14,6 +14,5 @@
 - [2021-01-08-解药|新冠mRNA疫苗安全性有哪些挑战？](https://m.caixin.com/m/2021-01-08/101648043.html) 
 - [2021-01-01-大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html) 
 - [2022-03-16-macOS-12.3-终于修复了状态栏图标过多时的间距突变问题，然后-safari-又出了-bug？](https://www.v2ex.com/t/840736) 
-- [2022-03-16-Chrome-今天更新后,好像修复了-MacOS-的-ProMotion-限制在-60Hz-的问题](https://www.v2ex.com/t/840715) 
 - [2022-03-16-Websocket-被玩出了多种花样！](https://toutiao.io/k/rmavgs5) 
 - [2022-03-16-如何调试大型-Linux-C/C++-项目？](https://toutiao.io/k/75g26ny) 

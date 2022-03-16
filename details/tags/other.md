@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-03-16 12:21:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-03-16 12:57:18。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1912,6 +1912,9 @@
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2022-02-04-HTML-inputmode与iOS-Android软键盘类型测试](https://www.zhangxinxu.com/wordpress/2022/02/html-inputmode-keyboard/) 
+- [2022-03-16-k8s-集群的-ingress-为啥识别不到另一个节点部署的-pod](https://www.v2ex.com/t/840870) 
+- [2022-03-16-中国移动和包-app-快进来改你的代码](https://www.v2ex.com/t/840869) 
+- [2022-03-16-Linux-下-4K-屏的-SysTray-里图标不正常怎么破？](https://www.v2ex.com/t/840867) 
 - [2022-03-16-外企-965-思科中国招人-Java-、数据、C++-等岗位](https://www.v2ex.com/t/840866) 
 - [2022-03-16-win11-右下角提示“不满足系统要求...”](https://www.v2ex.com/t/840865) 
 - [2022-03-16-宾馆隔离-可以煮开水-可以买什么吃的自己吃呢？](https://www.v2ex.com/t/840863) 
@@ -1937,8 +1940,6 @@
 - [2022-03-16-移动携号转网](https://www.v2ex.com/t/840824) 
 - [2022-03-16-OneDrive-傻了？](https://www.v2ex.com/t/840823) 
 - [2022-03-16-Parallels-Desktop-如何绕过软件的虚拟机检测？](https://www.v2ex.com/t/840821) 
-- [2022-03-16-大佬们-请教一下关于-Spring-的-@Value-注解](https://www.v2ex.com/t/840820) 
-- [2022-03-16-上海全职-Front-End-Engineer-前端工程师支持远程](https://www.v2ex.com/t/840817) 
 - [2022-03-16-书单嵌入式、C语言编程书籍-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14982&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493708%26amp%3Bidx%3D2%26amp%3Bsn%3D8912c67f39a11e5c64a6f0cc7e0c0c7f%26amp%3Bchksm%3Dfa3f0917cd48800188d3b29be8afbb3d13e5d5837c0b52052115688b4f57b307a1dfa3f14b3e%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-03-16-12个“经典”网站！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14981&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493629%26amp%3Bidx%3D1%26amp%3Bsn%3D92373e79046af0c911cd3f150722950e%26amp%3Bchksm%3Dfa3f06a6cd488fb08bd084438b95cbc4bf8d938626c68a16d79b952565803cc8d5868beaa419%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-03-16-推荐一本免费的Go书籍！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14979&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493626%26amp%3Bidx%3D1%26amp%3Bsn%3D4681027d12e73760b7bb0a764a4ced5b%26amp%3Bchksm%3Dfa3f06a1cd488fb71d84baf9e5ccb2a84ceab9ff5c748312e3682dbab7afef5ac842705b5451%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

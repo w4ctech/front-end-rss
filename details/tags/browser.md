@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-03-16 12:21:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-03-16 12:57:18。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -16,6 +16,5 @@
 - [2022-03-16-ios-safari-在搜索栏搜索，-google-无法自动定向-hk](https://www.v2ex.com/t/840858) 
 - [2022-03-16-神奇浏览器拦截广告遭起诉，将破产](https://www.v2ex.com/t/840843) 
 - [2022-03-16-Spark-基于浏览器的开源跨平台远程控制](https://www.v2ex.com/t/840826) 
-- [2022-03-16-麻烦问下-chrome-有个浏览记录删不掉是怎么回事啊？](https://www.v2ex.com/t/840819) 
 - [2022-03-16-Websocket-被玩出了多种花样！](https://toutiao.io/k/rmavgs5) 
 - [2022-03-16-如何调试大型-Linux-C/C++-项目？](https://toutiao.io/k/75g26ny) 

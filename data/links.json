@@ -9953,6 +9953,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "大家学习的时候有没有一些网课推荐？",
+        "link": "https://www.v2ex.com/t/840871",
+        "date": "2022-03-16"
+      },
+      {
         "title": "k8s 集群的 ingress 为啥识别不到另一个节点部署的 pod",
         "link": "https://www.v2ex.com/t/840870",
         "date": "2022-03-16"
@@ -10150,11 +10155,6 @@
       {
         "title": "[杭州/WFH] Splashtop HC Angular 前端、React 前端、Windows 开发工程师、Golang 开发工程师、DBA",
         "link": "https://www.v2ex.com/t/840822",
-        "date": "2022-03-16"
-      },
-      {
-        "title": "Parallels Desktop 如何绕过软件的虚拟机检测？",
-        "link": "https://www.v2ex.com/t/840821",
         "date": "2022-03-16"
       }
     ]
@@ -10372,8 +10372,13 @@
         "date": "2022-03-16"
       },
       {
-        "title": "[推荐] MySQL 团队开发规范",
-        "link": "https://toutiao.io/k/qjooigy",
+        "title": "[推荐] 快看我在Redis分布式锁上，栽的8个跟头！",
+        "link": "https://toutiao.io/k/pshtt8d",
+        "date": "2022-03-16"
+      },
+      {
+        "title": "[推荐] 我的命令行开发环境 ❤️",
+        "link": "https://toutiao.io/k/hjda293",
         "date": "2022-03-16"
       },
       {
@@ -10387,13 +10392,8 @@
         "date": "2022-03-16"
       },
       {
-        "title": "[推荐] 快看我在Redis分布式锁上，栽的8个跟头！",
-        "link": "https://toutiao.io/k/pshtt8d",
-        "date": "2022-03-16"
-      },
-      {
-        "title": "[推荐] 我的命令行开发环境 ❤️",
-        "link": "https://toutiao.io/k/hjda293",
+        "title": "[推荐] MySQL 团队开发规范",
+        "link": "https://toutiao.io/k/qjooigy",
         "date": "2022-03-16"
       }
     ]

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-03-16 16:16:47。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-03-16 16:54:59。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1912,6 +1912,10 @@
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2022-02-04-HTML-inputmode与iOS-Android软键盘类型测试](https://www.zhangxinxu.com/wordpress/2022/02/html-inputmode-keyboard/) 
+- [2022-03-16-Java-中-Mysql-的状态列用-int-还是用-varchar-好点](https://www.v2ex.com/t/840907) 
+- [2022-03-16-米家-APP，网络检测模块缺少回落](https://www.v2ex.com/t/840906) 
+- [2022-03-16-我去，什么情况，牛市来了，还是回光返照？](https://www.v2ex.com/t/840902) 
+- [2022-03-16-2022-年想找款绿色的磁力链+BT-下载器？Windows-用](https://www.v2ex.com/t/840901) 
 - [2022-03-16-关于单光纤入户单只光猫如何拨不同的账号的问题](https://www.v2ex.com/t/840900) 
 - [2022-03-16-腾讯云香港云服务器-约-3-年-333-元-4-台-cn2gia-解锁流媒体](https://www.v2ex.com/t/840899) 
 - [2022-03-16-请教一个问题，有没有一个监控主机是否在线并且生成在线时长报告的开源项目](https://www.v2ex.com/t/840897) 
@@ -1936,12 +1940,6 @@
 - [2022-03-16-win11-右下角提示“不满足系统要求...”](https://www.v2ex.com/t/840865) 
 - [2022-03-16-宾馆隔离-可以煮开水-可以买什么吃的自己吃呢？](https://www.v2ex.com/t/840863) 
 - [2022-03-16-为什么大多数情况你不应该立刻更新你的软件/系统](https://www.v2ex.com/t/840859) 
-- [2022-03-16-xrdp-是不是不支持-wayland](https://www.v2ex.com/t/840857) 
-- [2022-03-16-如何面对-35-岁](https://www.v2ex.com/t/840855) 
-- [2022-03-16-有没有-usb3.0-千兆网卡可以刷-armbian-盒子？](https://www.v2ex.com/t/840854) 
-- [2022-03-16-mac-如何下载-app-store-的旧版本软件](https://www.v2ex.com/t/840853) 
-- [2022-03-16-升不升-win11](https://www.v2ex.com/t/840852) 
-- [2022-03-16-文本编辑器转换编码的功能是如何实现的？](https://www.v2ex.com/t/840851) 
 - [2022-03-16-书单嵌入式、C语言编程书籍-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14982&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493708%26amp%3Bidx%3D2%26amp%3Bsn%3D8912c67f39a11e5c64a6f0cc7e0c0c7f%26amp%3Bchksm%3Dfa3f0917cd48800188d3b29be8afbb3d13e5d5837c0b52052115688b4f57b307a1dfa3f14b3e%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-03-16-12个“经典”网站！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14981&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493629%26amp%3Bidx%3D1%26amp%3Bsn%3D92373e79046af0c911cd3f150722950e%26amp%3Bchksm%3Dfa3f06a6cd488fb08bd084438b95cbc4bf8d938626c68a16d79b952565803cc8d5868beaa419%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-03-16-推荐一本免费的Go书籍！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14979&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493626%26amp%3Bidx%3D1%26amp%3Bsn%3D4681027d12e73760b7bb0a764a4ced5b%26amp%3Bchksm%3Dfa3f06a1cd488fb71d84baf9e5ccb2a84ceab9ff5c748312e3682dbab7afef5ac842705b5451%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1969,6 +1967,6 @@
 - [2022-03-16-字节跳动内部的数据血缘用例与设计](https://toutiao.io/k/490a9dh) 
 - [2022-03-16-腾讯开源业界首个云原生标准的一站式微服务管理框架Femas](https://toutiao.io/k/jnqesva) 
 - [2022-03-16-Go-要违背初心吗？新提案：手动管理内存](https://toutiao.io/k/gc1hojq) 
-- [2022-03-16-推荐-我的命令行开发环境-❤️](https://toutiao.io/k/hjda293) 
-- [2022-03-16-推荐-MySQL-团队开发规范](https://toutiao.io/k/qjooigy) 
 - [2022-03-16-推荐-微服务如何划分](https://toutiao.io/k/f4vabj7) 
+- [2022-03-16-推荐-MySQL-团队开发规范](https://toutiao.io/k/qjooigy) 
+- [2022-03-16-推荐-我的命令行开发环境-❤️](https://toutiao.io/k/hjda293) 

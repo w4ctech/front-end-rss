@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-03-16 07:36:49。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-03-16 08:15:49。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -122,7 +122,6 @@
 
 
 
-- [【开发者头条】不想内卷了，整个B站全自动抽奖的小程序吧，万一不小心暴富了呢~](https://toutiao.io/k/7fsz548)
 - [......【查看更多】......](./details/tags/miniprogram.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -355,10 +354,11 @@
 
 
 
+- [【V2EX】opera-北京招聘-golang/c++工程师](https://www.v2ex.com/t/840783)
+- [【V2EX】一个-GamiFi-项目招聘-UE4-远程工程师：月薪-30-40K](https://www.v2ex.com/t/840772)
 - [【V2EX】现在的年轻人真是太强了,-校招面试的简历就如此丰富](https://www.v2ex.com/t/840767)
 - [【V2EX】北/上/杭州/新加坡-TikTok-招聘-Android/iOS/golang-后端](https://www.v2ex.com/t/840754)
 - [【V2EX】北京/青岛-高薪招聘-Java-开发工程师](https://www.v2ex.com/t/840747)
-- [【V2EX】为什么现在招聘软件上聊得说双休去线下就变单休了？](https://www.v2ex.com/t/840729)
 - [......【查看更多】......](./details/tags/job-interview.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

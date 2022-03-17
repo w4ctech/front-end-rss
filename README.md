@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-03-17 23:13:10，:rocket: 更新条数: +2029， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-03-17 23:38:34，:rocket: 更新条数: +2012， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -553,26 +553,13 @@
 </summary>
 
 
-- [2022-03-17-2万字-+-50-张图，细说-JVM-内存分布、内存对齐、压缩指针！](https://toutiao.io/k/02whm5c) ![](assets/new.png)  
-- [2022-03-17-京东开源的轻量级移动端-Vue2、Vue3-组件库](https://toutiao.io/k/8rp1seo) ![](assets/new.png)  
-- [2022-03-17-2022年最值得关注的Chrome浏览器扩展插件](https://toutiao.io/k/lz60fko) ![](assets/new.png)  
-- [2022-03-17-快手大数据统一安全平台](https://toutiao.io/k/s3vru8f) ![](assets/new.png)  
-- [2022-03-17-TypeScript-官方：JavaScript-中直接支持类型！](https://toutiao.io/k/xnrgzre) ![](assets/new.png)  
-- [2022-03-17-整洁架构之道--三种经典的编程范式](https://toutiao.io/k/1w9oinl) ![](assets/new.png)  
-- [2022-03-17-闲鱼策略中枢业务扩展模块实现](https://toutiao.io/k/fdv54qp) ![](assets/new.png)  
-- [2022-03-17-Go中fuzzing系统的原理分析](https://toutiao.io/k/24y6zey) ![](assets/new.png)  
-- [2022-03-17-从MVC到DDD的架构演进](https://toutiao.io/k/oajqbhj) ![](assets/new.png)  
-- [2022-03-17-基于-Observable-构建前端防腐策略](https://toutiao.io/k/6xh9zlw) ![](assets/new.png)  
-- [2022-03-17-拆什么拆？这才是微服务拆分的正确姿势！](https://toutiao.io/k/drjcj2u) ![](assets/new.png)  
-- [2022-03-17-WebSocket-基础与应用系列（二）——-Engine.IO-原理了解](https://toutiao.io/k/onjjwlz) ![](assets/new.png)  
-- [2022-03-17-发现自己的代码在CSDN上被西南交通的学生售卖是一种什么体验？](https://toutiao.io/k/23zcakb) ![](assets/new.png)  
-- [2022-03-17-使用-Node.js-操作-Docker](https://toutiao.io/k/al73et4) ![](assets/new.png)  
-- [2022-03-17-Spark的两种核心Shuffle详解（面试常问，工作常用）](https://toutiao.io/k/e2j5m1u) ![](assets/new.png)  
-- [2022-03-17-一个响应是如何从Pod回到客户端](https://toutiao.io/k/4morqbg) ![](assets/new.png)  
-- [2022-03-17-用例——需求规格中定义功能需求的最佳实践](https://toutiao.io/k/q2hc2v5) ![](assets/new.png)  
-- [2022-03-17-Android-13-第一个开发者预览版本来了，网友直呼：Android-12-还没透](https://toutiao.io/k/6mcniy8) ![](assets/new.png)  
-- [2022-03-17-【创宇小课堂】内网渗透-内网信息搜集](https://toutiao.io/k/lk39stl) ![](assets/new.png)  
+- [2022-03-17-腾讯开源的云原生多运行时微服务框架](https://toutiao.io/k/7glt0ge) ![](assets/new.png)  
+- [2022-03-17-「码农周刊-VIP-会员专属邮件周报」每周五发送，赶紧上车吧！](https://toutiao.io/k/o7clccl) ![](assets/new.png)  
+- [2022-03-17-推荐-我的命令行开发环境-❤️](https://toutiao.io/k/hjda293) ![](assets/new.png)  
+- [2022-03-17-推荐-微服务如何划分](https://toutiao.io/k/f4vabj7) ![](assets/new.png)  
+- [2022-03-17-推荐-阿里巴巴开源的低代码引擎](https://toutiao.io/k/gsosp6w) ![](assets/new.png)  
 - [2022-03-17-推荐-架构师如何选型分布式业务网关](https://toutiao.io/k/enmg99d) ![](assets/new.png)  
+- [2022-03-17-推荐-MySQL-团队开发规范](https://toutiao.io/k/qjooigy) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

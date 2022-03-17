@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-03-17 07:13:30，:rocket: 更新条数: +2026， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-03-17 07:36:04，:rocket: 更新条数: +2026， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,10 @@
 </summary>
 
 
+- [2022-03-17-怎么用-go-维护一堆-TCP-连接，必要时可以针对单个连接进行指定动作（读/写）](https://www.v2ex.com/t/841023) ![](assets/new.png)  
+- [2022-03-17-作为一个“让用户通过编程/定义一些策略来对战”的游戏，怎么才能保证这样一个游戏的可玩性呢？](https://www.v2ex.com/t/841022) ![](assets/new.png)  
+- [2022-03-17-写了个网页版物品临期提醒，欢迎大家使用](https://www.v2ex.com/t/841021) ![](assets/new.png)  
+- [2022-03-17-vue-插件-highlightjs-打包问题](https://www.v2ex.com/t/841020) ![](assets/new.png)  
 - [2022-03-17-请问北京封城了吗](https://www.v2ex.com/t/841019) ![](assets/new.png)  
 - [2022-03-17-textarea-规定最多每行输入-35-个字符*4-行，如何实现？](https://www.v2ex.com/t/841017) ![](assets/new.png)  
 - [2022-03-17-RemoteApp-端口转发失效](https://www.v2ex.com/t/841016) ![](assets/new.png)  
@@ -507,10 +511,6 @@
 - [2022-03-17-VCSA-加域报错-error-code-31](https://www.v2ex.com/t/841001) ![](assets/new.png)  
 - [2022-03-17-在-b-站、youtube-视频列表的视频标题上悬停时，出现的悬浮框会显示完整的标题，它的-css-选择器是什么？](https://www.v2ex.com/t/841000) ![](assets/new.png)  
 - [2022-03-17-还在写-SQL-做-SAP-二开？通过-RFC-调用-NetWeaver，让-HANA-数据库操作更可靠](https://www.v2ex.com/t/840999) ![](assets/new.png)  
-- [2022-03-17-求教，-DRF-中如何既验-Token，也验参数签名](https://www.v2ex.com/t/840998) ![](assets/new.png)  
-- [2022-03-17-北京-500M-联通宽带，含40G-流量+1500-分钟-99/月](https://www.v2ex.com/t/840996) ![](assets/new.png)  
-- [2022-03-17-最近-PC-有什么好玩游戏吗](https://www.v2ex.com/t/840994) ![](assets/new.png)  
-- [2022-03-17-手机可以通过-wifi-连接硬件设备传递信息吗？](https://www.v2ex.com/t/840992) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -569,10 +569,10 @@
 - [2022-03-17-用例——需求规格中定义功能需求的最佳实践](https://toutiao.io/k/q2hc2v5) ![](assets/new.png)  
 - [2022-03-17-发现自己的代码在CSDN上被西南交通的学生售卖是一种什么体验？](https://toutiao.io/k/23zcakb) ![](assets/new.png)  
 - [2022-03-17-拆什么拆？这才是微服务拆分的正确姿势！](https://toutiao.io/k/drjcj2u) ![](assets/new.png)  
-- [2022-03-17-Android-13-第一个开发者预览版本来了，网友直呼：Android-12-还没透](https://toutiao.io/k/6mcniy8) ![](assets/new.png)  
 - [2022-03-17-从MVC到DDD的架构演进](https://toutiao.io/k/oajqbhj) ![](assets/new.png)  
+- [2022-03-17-Android-13-第一个开发者预览版本来了，网友直呼：Android-12-还没透](https://toutiao.io/k/6mcniy8) ![](assets/new.png)  
 - [2022-03-17-【创宇小课堂】内网渗透-内网信息搜集](https://toutiao.io/k/lk39stl) ![](assets/new.png)  
-- [2022-03-17-推荐-微服务如何划分](https://toutiao.io/k/f4vabj7) ![](assets/new.png)  
+- [2022-03-17-推荐-MySQL-团队开发规范](https://toutiao.io/k/qjooigy) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2022-03-17 16:17:05。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-03-17 16:55:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-03-17-macOS-上，除了搜狗输入法可以语音输入之外，还有什么输入法可以语音输入的？？（自带的除外）](https://www.v2ex.com/t/841149) 
+- [2022-03-17-求职，车载安卓开发-C/C++](https://www.v2ex.com/t/841148) 
 - [2022-03-17-国内一份工，国外一份工，现实吗？](https://www.v2ex.com/t/841147) 
 - [2022-03-17-华硕-REDOLBOOK14-AMD-锐龙版开机不认-INTEL-SSD](https://www.v2ex.com/t/841145) 
 - [2022-03-17-无头骑士-macbook-值得买吗](https://www.v2ex.com/t/841142) 
@@ -41,5 +43,3 @@
 - [2022-03-17-M1-是-mba-还是-mbp-好](https://www.v2ex.com/t/841106) 
 - [2022-03-17-首发入了丐版-m1-air，刚刚又买了-8+512-的-m1-mini，好像性能上重复了。](https://www.v2ex.com/t/841102) 
 - [2022-03-17-Openwrt-做旁路由可以设置-IPTV-嘛](https://www.v2ex.com/t/841101) 
-- [2022-03-17-请教个问题-如果发生经济危机，货币贬值，那我的努力是白费了吗](https://www.v2ex.com/t/841099) 
-- [2022-03-17-macbook-pro-只有-type-c-接口，-iPhone-/Android-可以把普通数据线用-OTG-转接线连上-macbook-进行调试开发吗？](https://www.v2ex.com/t/841098) 

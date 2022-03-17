@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-03-17 18:44:14，:rocket: 更新条数: +2031， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-03-17 19:12:19，:rocket: 更新条数: +2031， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -572,7 +572,7 @@
 - [2022-03-17-用例——需求规格中定义功能需求的最佳实践](https://toutiao.io/k/q2hc2v5) ![](assets/new.png)  
 - [2022-03-17-Android-13-第一个开发者预览版本来了，网友直呼：Android-12-还没透](https://toutiao.io/k/6mcniy8) ![](assets/new.png)  
 - [2022-03-17-【创宇小课堂】内网渗透-内网信息搜集](https://toutiao.io/k/lk39stl) ![](assets/new.png)  
-- [2022-03-17-推荐-架构师如何选型分布式业务网关](https://toutiao.io/k/enmg99d) ![](assets/new.png)  
+- [2022-03-17-推荐-微服务如何划分](https://toutiao.io/k/f4vabj7) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,12 +1,13 @@
-:alarm_clock: 更新时间: 2022-03-17 04:47:45。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-03-17 05:12:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-03-17-Windows-QQ-貌似会使电脑无法自动进入睡眠状态](https://www.v2ex.com/t/840989) 
 - [2022-03-17-寻找公链工程师，懂-go-语言](https://www.v2ex.com/t/840988) 
-- [2022-03-17-实习-Offer-选择23-届暑期实习-Offer-选择，大三](https://www.v2ex.com/t/840987) 
+- [2022-03-17-实习-Offer-选择23-届暑期实习-Offer-选择，大三，研发岗](https://www.v2ex.com/t/840987) 
 - [2022-03-17-JetBrains-宣布无限期暂停在俄销售](https://www.v2ex.com/t/840986) 
 - [2022-03-17-我发行了一套北极熊的-NFT](https://www.v2ex.com/t/840985) 
 - [2022-03-17-单节点单服务前后端分离网站鉴权的最佳实践是什么？](https://www.v2ex.com/t/840984) 
@@ -46,5 +47,3 @@
 - [2022-03-17-8-年-Java-后端开发，换工作今年薪资是多少](https://www.v2ex.com/t/840943) 
 - [2022-03-17-求推荐结实耐用的雨伞](https://www.v2ex.com/t/840942) 
 - [2022-03-17-synology-drive-有个很扯的设计-bug](https://www.v2ex.com/t/840941) 
-- [2022-03-17-2022-年-3-月，现在推荐-2020-13-寸-MBP-升级到-Monterey-吗？](https://www.v2ex.com/t/840940) 
-- [2022-03-17-关于-macOS12.3-移除-python2-导致-Alfred-的-workflow-无法使用的疑惑。](https://www.v2ex.com/t/840939) 

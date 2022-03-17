@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-03-17 08:15:45。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-03-17 08:42:40。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## CSS
 
@@ -14,4 +14,3 @@
 - [2022-01-31-CSS-background背景图标的变色技巧](https://www.zhangxinxu.com/wordpress/2022/01/css-background-image-color/) 
 - [2022-01-14-纯CSS实现未读消息超过100自动显示为99+](https://www.zhangxinxu.com/wordpress/2022/01/css-show-diff-content-according-var/) 
 - [2022-03-17-在-B-站开了个教学视频，阅读-Bootstrap-CSS-源码](https://www.v2ex.com/t/841029) 
-- [2022-03-17-在-b-站、youtube-视频列表的视频标题上悬停时，出现的悬浮框会显示完整的标题，它的-css-选择器是什么？](https://www.v2ex.com/t/841000) 

@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2022-03-17 15:48:49。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-03-17 16:17:05。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-03-17-国内一份工，国外一份工，现实吗？](https://www.v2ex.com/t/841147) 
 - [2022-03-17-华硕-REDOLBOOK14-AMD-锐龙版开机不认-INTEL-SSD](https://www.v2ex.com/t/841145) 
 - [2022-03-17-无头骑士-macbook-值得买吗](https://www.v2ex.com/t/841142) 
 - [2022-03-17-混沌周刊第-30-期：信任无价](https://www.v2ex.com/t/841140) 
@@ -42,4 +43,3 @@
 - [2022-03-17-Openwrt-做旁路由可以设置-IPTV-嘛](https://www.v2ex.com/t/841101) 
 - [2022-03-17-请教个问题-如果发生经济危机，货币贬值，那我的努力是白费了吗](https://www.v2ex.com/t/841099) 
 - [2022-03-17-macbook-pro-只有-type-c-接口，-iPhone-/Android-可以把普通数据线用-OTG-转接线连上-macbook-进行调试开发吗？](https://www.v2ex.com/t/841098) 
-- [2022-03-17-送点-15-块钱现金券](https://www.v2ex.com/t/841096) 

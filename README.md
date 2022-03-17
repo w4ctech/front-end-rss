@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-03-17 03:14:52，:rocket: 更新条数: +2028， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-03-17 03:40:53，:rocket: 更新条数: +2027， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,15 @@
 </summary>
 
 
+- [2022-03-17-碎碎念，这两年被疫情剥夺的快乐](https://www.v2ex.com/t/840975) ![](assets/new.png)  
+- [2022-03-17-后端程序员想要学习一下前端，有无比较好的学习路线推荐](https://www.v2ex.com/t/840973) ![](assets/new.png)  
+- [2022-03-17-macOS-12.3-14-寸-MacBook-充电-100%以后-magSafe-充电指示灯熄灭](https://www.v2ex.com/t/840972) ![](assets/new.png)  
+- [2022-03-17-zerotier-接入网络，如何用-ubuntu-监控网络中的设备？？](https://www.v2ex.com/t/840971) ![](assets/new.png)  
+- [2022-03-17-Youtube-Vanced-被谷歌叫停了](https://www.v2ex.com/t/840970) ![](assets/new.png)  
+- [2022-03-17-破疫情，买个手机壳都买不到](https://www.v2ex.com/t/840969) ![](assets/new.png)  
+- [2022-03-17-想问个编码转换问题](https://www.v2ex.com/t/840968) ![](assets/new.png)  
+- [2022-03-17-图一乐-我竟然遇到了连-Rust-都无法解决的内存错误](https://www.v2ex.com/t/840967) ![](assets/new.png)  
+- [2022-03-17-作为一个菜鸟级的-Java-面试官，到底要问些什么才能招到合适的人啊！](https://www.v2ex.com/t/840966) ![](assets/new.png)  
 - [2022-03-17-疑问：为什么很多医院的内网服务器都是-windows？](https://www.v2ex.com/t/840965) ![](assets/new.png)  
 - [2022-03-17-请教一下怎么将路径数组转为树形结构](https://www.v2ex.com/t/840964) ![](assets/new.png)  
 - [2022-03-17-隔离上网课，闲着写了个镜像老师工具箱（雾](https://www.v2ex.com/t/840963) ![](assets/new.png)  
@@ -502,15 +511,6 @@
 - [2022-03-17-使用-redis-如何维护一个动态的区间和？](https://www.v2ex.com/t/840956) ![](assets/new.png)  
 - [2022-03-17-一个老项目上线个新功能，结果新来的测试从屎山底下挖出来一堆-bug](https://www.v2ex.com/t/840955) ![](assets/new.png)  
 - [2022-03-17-如果国家要像现实一样,在互联网建设“公共设施”作为基建,你觉得应该优先建设哪些方面?](https://www.v2ex.com/t/840954) ![](assets/new.png)  
-- [2022-03-17-只狼、对马岛之魂归类的话算什么游戏呢？](https://www.v2ex.com/t/840952) ![](assets/new.png)  
-- [2022-03-17-艾尔登法环-请问打完碎星拉塔恩之后还可以做魔法学院的线吗？](https://www.v2ex.com/t/840951) ![](assets/new.png)  
-- [2022-03-17-好美的诗句-送给大家](https://www.v2ex.com/t/840950) ![](assets/new.png)  
-- [2022-03-17-请教-MySQL-Utilities-为什么不更新了？-被什么替代了？](https://www.v2ex.com/t/840949) ![](assets/new.png)  
-- [2022-03-17-测试工程师（远程不限-base-地/北美团队）](https://www.v2ex.com/t/840948) ![](assets/new.png)  
-- [2022-03-17-Vue-类前端框架开发的网站，如何在新标签页打开链接](https://www.v2ex.com/t/840945) ![](assets/new.png)  
-- [2022-03-17-远程-全职稳定-React-同学们都来看看！](https://www.v2ex.com/t/840944) ![](assets/new.png)  
-- [2022-03-17-8-年-Java-后端开发，换工作今年薪资是多少](https://www.v2ex.com/t/840943) ![](assets/new.png)  
-- [2022-03-17-求推荐结实耐用的雨伞](https://www.v2ex.com/t/840942) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -565,14 +565,12 @@
 - [2022-03-17-Spark的两种核心Shuffle详解（面试常问，工作常用）](https://toutiao.io/k/e2j5m1u) ![](assets/new.png)  
 - [2022-03-17-一个响应是如何从Pod回到客户端](https://toutiao.io/k/4morqbg) ![](assets/new.png)  
 - [2022-03-17-整洁架构之道--三种经典的编程范式](https://toutiao.io/k/1w9oinl) ![](assets/new.png)  
-- [2022-03-17-系统架构性能问题诊断及优化思路，纯干货！](https://toutiao.io/k/tnldb79) ![](assets/new.png)  
-- [2022-03-17-亿级流量高并发场景下，如何保证缓存与数据库的双写一致性？](https://toutiao.io/k/dyw1o8q) ![](assets/new.png)  
-- [2022-03-17-用例——需求规格中定义功能需求的最佳实践](https://toutiao.io/k/q2hc2v5) ![](assets/new.png)  
 - [2022-03-17-基于-Observable-构建前端防腐策略](https://toutiao.io/k/6xh9zlw) ![](assets/new.png)  
-- [2022-03-17-推荐-微服务如何划分](https://toutiao.io/k/f4vabj7) ![](assets/new.png)  
-- [2022-03-17-推荐-阿里巴巴开源的低代码引擎](https://toutiao.io/k/gsosp6w) ![](assets/new.png)  
+- [2022-03-17-用例——需求规格中定义功能需求的最佳实践](https://toutiao.io/k/q2hc2v5) ![](assets/new.png)  
 - [2022-03-17-推荐-我的命令行开发环境-❤️](https://toutiao.io/k/hjda293) ![](assets/new.png)  
+- [2022-03-17-推荐-微服务如何划分](https://toutiao.io/k/f4vabj7) ![](assets/new.png)  
 - [2022-03-17-推荐-MySQL-团队开发规范](https://toutiao.io/k/qjooigy) ![](assets/new.png)  
+- [2022-03-17-推荐-阿里巴巴开源的低代码引擎](https://toutiao.io/k/gsosp6w) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

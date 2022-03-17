@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-03-16 23:38:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-03-17 00:50:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -9,3 +9,4 @@
 
 - [2022-03-16-看到一道面试题，多线程适合用来做大量文件的读取吗](https://www.v2ex.com/t/840884) 
 - [2022-03-16-招聘-阿里巴巴-Lazada-高级前端工程师/前端技术专家](https://www.v2ex.com/t/840879) 
+- [2022-03-17-Spark的两种核心Shuffle详解（面试常问，工作常用）](https://toutiao.io/k/e2j5m1u) 

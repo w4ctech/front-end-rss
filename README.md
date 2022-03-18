@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-03-18 07:36:59，:rocket: 更新条数: +2028， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-03-18 08:16:08，:rocket: 更新条数: +2030， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,18 @@
 </summary>
 
 
+- [2022-03-18-请教一些关于-k8s-的问题](https://www.v2ex.com/t/841298) ![](assets/new.png)  
+- [2022-03-18-新发布的红米-K50-如何](https://www.v2ex.com/t/841296) ![](assets/new.png)  
+- [2022-03-18-Cloudpods-Golang-实践，希望大家能有所收获](https://www.v2ex.com/t/841295) ![](assets/new.png)  
+- [2022-03-18-区块链研究员-非深圳可远程办公+年薪-60-万+年终奖+期权+六险一金+五天八小时+法定假期](https://www.v2ex.com/t/841293) ![](assets/new.png)  
+- [2022-03-18-用了-OLED-就回不去了](https://www.v2ex.com/t/841292) ![](assets/new.png)  
+- [2022-03-18-mac-连接-4K-显示器卡...](https://www.v2ex.com/t/841291) ![](assets/new.png)  
+- [2022-03-18-v2-咋没有人讨论那个湾区男的事情](https://www.v2ex.com/t/841290) ![](assets/new.png)  
+- [2022-03-18-问个数学问题-关于机器学习-SVM](https://www.v2ex.com/t/841289) ![](assets/new.png)  
+- [2022-03-18-请教各位大佬，-chrome-怎么使用-mac-自带钥匙串密码](https://www.v2ex.com/t/841288) ![](assets/new.png)  
+- [2022-03-18-海外闲置了大量计算资源跟带宽,-能干点啥呢](https://www.v2ex.com/t/841287) ![](assets/new.png)  
+- [2022-03-18-为什么显示器显示纯蓝色，离近了能看到白色的格子](https://www.v2ex.com/t/841285) ![](assets/new.png)  
+- [2022-03-18-想买个-parallels-desktop-有什么坑吗？](https://www.v2ex.com/t/841284) ![](assets/new.png)  
 - [2022-03-18-有无优雅&实用的充电方式](https://www.v2ex.com/t/841283) ![](assets/new.png)  
 - [2022-03-18-羊毛-icloud+50GB-4-个月体验](https://www.v2ex.com/t/841276) ![](assets/new.png)  
 - [2022-03-18-macOS12.3-的密码菜单是什么鬼?](https://www.v2ex.com/t/841275) ![](assets/new.png)  
@@ -499,18 +511,6 @@
 - [2022-03-18-推荐一个适合-Linux-的笔记本？](https://www.v2ex.com/t/841271) ![](assets/new.png)  
 - [2022-03-18-Reliable-Chemical-Reagents-for-biological-research,courses](https://www.v2ex.com/t/841270) ![](assets/new.png)  
 - [2022-03-18-有写-rust-的老哥吗？](https://www.v2ex.com/t/841268) ![](assets/new.png)  
-- [2022-03-18-百度你想干什么](https://www.v2ex.com/t/841267) ![](assets/new.png)  
-- [2022-03-18-地铁出行优惠-亿通行-APP-开通-NFC-立得-5-元-*-6-张乘车券](https://www.v2ex.com/t/841266) ![](assets/new.png)  
-- [2022-03-18-大佬们能推荐个干净、稳定的万兆路由器么？](https://www.v2ex.com/t/841265) ![](assets/new.png)  
-- [2022-03-18-关于-MBP2015-款-13-寸升级内存后的问题咨询](https://www.v2ex.com/t/841263) ![](assets/new.png)  
-- [2022-03-18-Win10-语言首选项中总会多出一个外语...-谁能救救我](https://www.v2ex.com/t/841262) ![](assets/new.png)  
-- [2022-03-18-求职可远程-偏全栈类工程师](https://www.v2ex.com/t/841261) ![](assets/new.png)  
-- [2022-03-18-Apple-TV-开发的《wework-兴衰史》上线了](https://www.v2ex.com/t/841260) ![](assets/new.png)  
-- [2022-03-18-关于老坛酸菜，确实国内和美帝的不一样（可能有个人经历偏差）](https://www.v2ex.com/t/841259) ![](assets/new.png)  
-- [2022-03-18-有人知道贴吧或者-V2EX-的排序算法吗？不止是按照回复时间，而且还根据热度和发帖时间？](https://www.v2ex.com/t/841258) ![](assets/new.png)  
-- [2022-03-18-iPhone-静音模式如何,短信推送不振动,打电话震动](https://www.v2ex.com/t/841257) ![](assets/new.png)  
-- [2022-03-18-显示器的原厂背光重要吗？](https://www.v2ex.com/t/841256) ![](assets/new.png)  
-- [2022-03-18-Pixelschain-增加了一个动画页面](https://www.v2ex.com/t/841255) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -561,16 +561,16 @@
 - [2022-03-18-消息队列经典十连问，你能扛到第几问？](https://toutiao.io/k/8jfl3pp) ![](assets/new.png)  
 - [2022-03-18-「码农周刊-VIP-会员专属邮件周报」每周五发送，赶紧上车吧！](https://toutiao.io/k/o7clccl) ![](assets/new.png)  
 - [2022-03-18-应用实践-|-特步集团基于-Apache-Doris-的零售数据仓库项目实践](https://toutiao.io/k/2rc1dxi) ![](assets/new.png)  
-- [2022-03-18-RocketMQ平台的消息灰度方案](https://toutiao.io/k/279176g) ![](assets/new.png)  
 - [2022-03-18-go-zero效率工具一览图](https://toutiao.io/k/awfolb2) ![](assets/new.png)  
+- [2022-03-18-RocketMQ平台的消息灰度方案](https://toutiao.io/k/279176g) ![](assets/new.png)  
 - [2022-03-18-腾讯山海网关的高性能高可用网络架构](https://toutiao.io/k/h11h700) ![](assets/new.png)  
 - [2022-03-18-表达式引擎在转转平台的实践](https://toutiao.io/k/vbd3slp) ![](assets/new.png)  
 - [2022-03-18-基于-Nest.js+TypeORM-实战，项目已开源，推荐！](https://toutiao.io/k/lz8nnyl) ![](assets/new.png)  
-- [2022-03-18-异常情况及其处理是需求分析不可或缺的内容](https://toutiao.io/k/54sxonx) ![](assets/new.png)  
 - [2022-03-18-字节跳动开源大模型训练框架-veGiantModel](https://toutiao.io/k/v6bp9ic) ![](assets/new.png)  
+- [2022-03-18-异常情况及其处理是需求分析不可或缺的内容](https://toutiao.io/k/54sxonx) ![](assets/new.png)  
 - [2022-03-18-为什么业务面试总问“乐观锁”](https://toutiao.io/k/2xvzsa2) ![](assets/new.png)  
-- [2022-03-18-一文学会用Requests实现网站模拟登录-|-以腾讯视频为例](https://toutiao.io/k/8nup7sa) ![](assets/new.png)  
 - [2022-03-18-如何设计良好的技术项目文档结构](https://toutiao.io/k/tfyo5nm) ![](assets/new.png)  
+- [2022-03-18-一文学会用Requests实现网站模拟登录-|-以腾讯视频为例](https://toutiao.io/k/8nup7sa) ![](assets/new.png)  
 - [2022-03-18-独立开发变现周刊（第46期）：通过“Chrome-即服务”每月赚取4000美元](https://toutiao.io/k/x355z6a) ![](assets/new.png)  
 - [2022-03-18-SRE认知升级之可用性的本质](https://toutiao.io/k/oyub435) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)

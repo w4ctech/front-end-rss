@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-03-18 15:41:29。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-03-18 16:17:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -7,5 +7,4 @@
 
 
 
-- [2022-03-18-北京欧科云链部分远程招聘-iOS-和-Android-P5-P7-若干](https://www.v2ex.com/t/841337) 
 - [2022-03-18-为什么业务面试总问“乐观锁”](https://toutiao.io/k/2xvzsa2) 

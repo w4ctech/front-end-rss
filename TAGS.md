@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-03-18 15:41:29。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-03-18 16:17:19。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -206,6 +206,7 @@
 - [【张鑫旭-鑫空间-鑫生活】CSS-:not伪类选择器已支持复杂参数](https://www.zhangxinxu.com/wordpress/2022/02/css-not-pseudo-class-list-argument/)
 - [【张鑫旭-鑫空间-鑫生活】CSS-background背景图标的变色技巧](https://www.zhangxinxu.com/wordpress/2022/01/css-background-image-color/)
 - [【张鑫旭-鑫空间-鑫生活】纯CSS实现未读消息超过100自动显示为99+](https://www.zhangxinxu.com/wordpress/2022/01/css-show-diff-content-according-var/)
+- [【V2EX】前端关于拖拽、动画和样式相关的开发简直属于是纯纯的折磨了](https://www.v2ex.com/t/841384)
 - [【V2EX】像-vultr.com-首页下滑出现的动画有什么开源框架/工具可以快速制作吗？还是必须手搓-CSS-来写？](https://www.v2ex.com/t/841366)
 - [【V2EX】Studio-Display-运行的是完整版-iOS-15.4](https://www.v2ex.com/t/841364)
 - [......【查看更多】......](./details/tags/css.md)
@@ -287,7 +288,6 @@
 - [【V2EX】升级到-15.4-后，你们的-safari-谷歌搜索还正常吗？](https://www.v2ex.com/t/841375)
 - [【V2EX】升级-hibernate5-后报-getProperties-的错误-案例很特别-求大佬解答](https://www.v2ex.com/t/841348)
 - [【V2EX】C++为什么-For-循环在调试时执行顺序像个悠悠球？](https://www.v2ex.com/t/841338)
-- [【V2EX】你们讨厌那些网站自己搞的-URL-跳转确认吗？](https://www.v2ex.com/t/841335)
 - [【开发者头条】独立开发变现周刊（第46期）：通过“Chrome-即服务”每月赚取4000美元](https://toutiao.io/k/x355z6a)
 - [......【查看更多】......](./details/tags/browser.md)
 
@@ -354,7 +354,6 @@
 
 
 
-- [【V2EX】北京欧科云链部分远程招聘-iOS-和-Android-P5-P7-若干](https://www.v2ex.com/t/841337)
 - [【开发者头条】为什么业务面试总问“乐观锁”](https://toutiao.io/k/2xvzsa2)
 - [......【查看更多】......](./details/tags/job-interview.md)
 

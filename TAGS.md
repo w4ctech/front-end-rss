@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-03-18 03:00:34。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-03-18 03:22:29。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -260,7 +260,6 @@
 
 
 
-- [【V2EX】请教一条-sql-语句执行完超过一秒的概率很高，该如何优化？](https://www.v2ex.com/t/841172)
 - [【开发者头条】腾讯山海网关的高性能高可用网络架构](https://toutiao.io/k/h11h700)
 - [......【查看更多】......](./details/tags/optimization.md)
 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-03-18 21:13:32，:rocket: 更新条数: +2032， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-03-18 21:37:23，:rocket: 更新条数: +2032， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,8 +491,9 @@
 </summary>
 
 
+- [2022-03-18-求-golang-设置目录及安装三方库的正确方式](https://www.v2ex.com/t/841396) ![](assets/new.png)  
+- [2022-03-18-目前微信封群到底是什么规则](https://www.v2ex.com/t/841395) ![](assets/new.png)  
 - [2022-03-18-mini-led-的高刷也省电？](https://www.v2ex.com/t/841394) ![](assets/new.png)  
-- [2022-03-18-润故事分享：低成本-run，风险可控](https://www.v2ex.com/t/841393) ![](assets/new.png)  
 - [2022-03-18-vscode-可以快速切换配置吗](https://www.v2ex.com/t/841391) ![](assets/new.png)  
 - [2022-03-18-请问有没有英雄联盟的-LCU-API-接口分析或者接口地址](https://www.v2ex.com/t/841390) ![](assets/new.png)  
 - [2022-03-18-windows-下有-airdrop-协议的软件吗，-airplay，-airprint-都有第三方](https://www.v2ex.com/t/841389) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-03-18-升级到-15.4-后，你们的-safari-谷歌搜索还正常吗？](https://www.v2ex.com/t/841375) ![](assets/new.png)  
 - [2022-03-18-请教一个简单的-sql-语句](https://www.v2ex.com/t/841373) ![](assets/new.png)  
 - [2022-03-18-如何摆脱微信这种"小而美"的小垃圾](https://www.v2ex.com/t/841372) ![](assets/new.png)  
-- [2022-03-18-MacBook-Air-显示屏出现光斑（没有抱怨，只是想交流交流）](https://www.v2ex.com/t/841371) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

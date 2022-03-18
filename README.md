@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-03-18 07:13:25，:rocket: 更新条数: +2032， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-03-18 07:36:59，:rocket: 更新条数: +2028， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-03-18-有无优雅&实用的充电方式](https://www.v2ex.com/t/841283) ![](assets/new.png)  
 - [2022-03-18-羊毛-icloud+50GB-4-个月体验](https://www.v2ex.com/t/841276) ![](assets/new.png)  
 - [2022-03-18-macOS12.3-的密码菜单是什么鬼?](https://www.v2ex.com/t/841275) ![](assets/new.png)  
 - [2022-03-18-不杠。2022-免费听音乐的体验里，豆瓣-FM-就是好过网抑云，起码不会下架太多好歌曲，而网抑云快成全民卡拉-OK-和剪剪开头就说自己是-DJ-的网红天堂了。](https://www.v2ex.com/t/841273) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-03-18-iPhone-静音模式如何,短信推送不振动,打电话震动](https://www.v2ex.com/t/841257) ![](assets/new.png)  
 - [2022-03-18-显示器的原厂背光重要吗？](https://www.v2ex.com/t/841256) ![](assets/new.png)  
 - [2022-03-18-Pixelschain-增加了一个动画页面](https://www.v2ex.com/t/841255) ![](assets/new.png)  
-- [2022-03-18-thinkbook-和-thinkpad-区别](https://www.v2ex.com/t/841254) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

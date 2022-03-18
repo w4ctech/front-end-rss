@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-03-18 16:55:19，:rocket: 更新条数: +2032， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-03-18 17:15:35，:rocket: 更新条数: +2032， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-03-18-vscode-可以快速切换配置吗](https://www.v2ex.com/t/841391) ![](assets/new.png)  
 - [2022-03-18-请问有没有英雄联盟的-LCU-API-接口分析或者接口地址](https://www.v2ex.com/t/841390) ![](assets/new.png)  
 - [2022-03-18-windows-下有-airdrop-协议的软件吗，-airplay，-airprint-都有第三方](https://www.v2ex.com/t/841389) ![](assets/new.png)  
 - [2022-03-18-求推荐一个机械键盘](https://www.v2ex.com/t/841388) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-03-18-MacBook-Air-显示屏出现光斑（没有抱怨，只是想交流交流）](https://www.v2ex.com/t/841371) ![](assets/new.png)  
 - [2022-03-18-csgo-延迟问题](https://www.v2ex.com/t/841370) ![](assets/new.png)  
 - [2022-03-18-laravel-接口响应输出奇怪的东西](https://www.v2ex.com/t/841368) ![](assets/new.png)  
-- [2022-03-18-用了-1-年多的-m1-MacBook-Air-电池健康度](https://www.v2ex.com/t/841367) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

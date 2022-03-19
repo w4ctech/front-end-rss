@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-03-19 04:16:10，:rocket: 更新条数: +2017， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-03-19 04:46:53，:rocket: 更新条数: +2017， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,10 @@
 </summary>
 
 
+- [2022-03-19-2022-大家-Android-开发都用的撒](https://www.v2ex.com/t/841443) ![](assets/new.png)  
+- [2022-03-19-为了管理我的-4-万个书签，我写了个插件](https://www.v2ex.com/t/841442) ![](assets/new.png)  
+- [2022-03-19-升级-macOS12.3-之后-Dock-栏莫名多了个白色的点](https://www.v2ex.com/t/841439) ![](assets/new.png)  
+- [2022-03-19-macOS-上无法使用-iCloud-钥匙串](https://www.v2ex.com/t/841438) ![](assets/new.png)  
 - [2022-03-19-mac-里面最保值的应该是-Mac-mini-了吧？-12-年的-mini、12-年的-Mac-Pro，都差不多价格了](https://www.v2ex.com/t/841435) ![](assets/new.png)  
 - [2022-03-19-GitHub-clone-时总是非常慢，有梯子也不管用。有无优化方案？](https://www.v2ex.com/t/841434) ![](assets/new.png)  
 - [2022-03-19-原样复制-GPL-协议开源项目部分文件时文件开头的版权信息可以拿掉/换成自己的，然后在-项目-Third-Party-Notice-中说明使用了这个项目的代码吗？](https://www.v2ex.com/t/841433) ![](assets/new.png)  
@@ -507,10 +511,6 @@
 - [2022-03-19-上海/北京安全20-60k*15.5小红书安全团队求贤](https://www.v2ex.com/t/841421) ![](assets/new.png)  
 - [2022-03-19-移动固态硬盘组合指导](https://www.v2ex.com/t/841420) ![](assets/new.png)  
 - [2022-03-19-Netflix-计划向分享账号的用户收费](https://www.v2ex.com/t/841419) ![](assets/new.png)  
-- [2022-03-19-用第三方软件调高-mbp-的风扇转速对电脑有影响吗?](https://www.v2ex.com/t/841418) ![](assets/new.png)  
-- [2022-03-19-firefox-经常无法显示知乎专栏"出了一点问题"如何解决？](https://www.v2ex.com/t/841417) ![](assets/new.png)  
-- [2022-03-19-怎么理解-NFT-的价值](https://www.v2ex.com/t/841416) ![](assets/new.png)  
-- [2022-03-19-我最近的一个哲学探讨：探讨理论的有效性](https://www.v2ex.com/t/841415) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -554,17 +554,17 @@
 
 
 - [2022-03-19-优质网站同好者周刊（第-57-期）--倾城之链---悠然宜想亭](https://toutiao.io/k/8jgfrzw) ![](assets/new.png)  
-- [2022-03-19-Golang-常见设计模式之装饰模式](https://toutiao.io/k/jwkjr3i) ![](assets/new.png)  
 - [2022-03-19-复盘归因，提高交付质量的秘诀](https://toutiao.io/k/mvs5ovy) ![](assets/new.png)  
+- [2022-03-19-Golang-常见设计模式之装饰模式](https://toutiao.io/k/jwkjr3i) ![](assets/new.png)  
 - [2022-03-19-WebRTC系列分享-第二期-|-WebRTC-QoS方法之Pacer实现](https://toutiao.io/k/kirmecw) ![](assets/new.png)  
 - [2022-03-19-Go-1.18-终于来了！](https://toutiao.io/k/zmhxdzr) ![](assets/new.png)  
 - [2022-03-19-干货-|-Apache-Doris在小米集团的运维实践](https://toutiao.io/k/gncf129) ![](assets/new.png)  
 - [2022-03-19-源码游戏输入框架的设计基于Unity](https://toutiao.io/k/dlkiivq) ![](assets/new.png)  
-- [2022-03-19-推荐-阿里巴巴开源的低代码引擎](https://toutiao.io/k/gsosp6w) ![](assets/new.png)  
-- [2022-03-19-推荐-最常用的架构模式](https://toutiao.io/k/qnfl3t6) ![](assets/new.png)  
-- [2022-03-19-推荐-我的命令行开发环境-❤️](https://toutiao.io/k/hjda293) ![](assets/new.png)  
 - [2022-03-19-推荐-架构师如何选型分布式业务网关](https://toutiao.io/k/enmg99d) ![](assets/new.png)  
 - [2022-03-19-推荐-微服务如何划分](https://toutiao.io/k/f4vabj7) ![](assets/new.png)  
+- [2022-03-19-推荐-我的命令行开发环境-❤️](https://toutiao.io/k/hjda293) ![](assets/new.png)  
+- [2022-03-19-推荐-最常用的架构模式](https://toutiao.io/k/qnfl3t6) ![](assets/new.png)  
+- [2022-03-19-推荐-阿里巴巴开源的低代码引擎](https://toutiao.io/k/gsosp6w) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

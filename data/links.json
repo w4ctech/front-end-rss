@@ -9953,6 +9953,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "买了 mac studio",
+        "link": "https://www.v2ex.com/t/841484",
+        "date": "2022-03-19"
+      },
+      {
         "title": "win10 wsl 下运行 ubuntu 为何不能像 powershell git-bash 那样运行 win 上的 docker？",
         "link": "https://www.v2ex.com/t/841483",
         "date": "2022-03-19"
@@ -10126,11 +10131,6 @@
         "title": "mac 里面最保值的应该是 Mac mini 了吧？ 12 年的 mini、12 年的 Mac Pro，都差不多价格了",
         "link": "https://www.v2ex.com/t/841435",
         "date": "2022-03-19"
-      },
-      {
-        "title": "GitHub clone 时总是非常慢，有梯子也不管用。有无优化方案？",
-        "link": "https://www.v2ex.com/t/841434",
-        "date": "2022-03-19"
       }
     ]
   },
@@ -10292,11 +10292,6 @@
         "date": "2022-03-19"
       },
       {
-        "title": "[推荐] 最常用的架构模式",
-        "link": "https://toutiao.io/k/qnfl3t6",
-        "date": "2022-03-19"
-      },
-      {
         "title": "[推荐] 阿里巴巴开源的低代码引擎",
         "link": "https://toutiao.io/k/gsosp6w",
         "date": "2022-03-19"
@@ -10309,6 +10304,11 @@
       {
         "title": "[推荐] 我的命令行开发环境 ❤️",
         "link": "https://toutiao.io/k/hjda293",
+        "date": "2022-03-19"
+      },
+      {
+        "title": "[推荐] 最常用的架构模式",
+        "link": "https://toutiao.io/k/qnfl3t6",
         "date": "2022-03-19"
       },
       {

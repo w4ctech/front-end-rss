@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2022-03-19 09:12:59。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-03-19 09:37:45。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-03-19-买了-mac-studio](https://www.v2ex.com/t/841484) 
 - [2022-03-19-win10-wsl-下运行-ubuntu-为何不能像-powershell-git-bash-那样运行-win-上的-docker？](https://www.v2ex.com/t/841483) 
 - [2022-03-19-求职-南京-交大-帮师妹找一个南京靠谱互联网相关的实习岗位，本科江苏大学，已保研上海交通大学，实习到-7-月份，地址南京江宁区附近，需要的麻烦帮捞一下...](https://www.v2ex.com/t/841482) 
 - [2022-03-19-关于社保缴纳问题](https://www.v2ex.com/t/841481) 
@@ -40,4 +41,3 @@
 - [2022-03-19-升级-macOS12.3-之后-Dock-栏莫名多了个白色的点](https://www.v2ex.com/t/841439) 
 - [2022-03-19-macOS-上无法使用-iCloud-钥匙串](https://www.v2ex.com/t/841438) 
 - [2022-03-19-mac-里面最保值的应该是-Mac-mini-了吧？-12-年的-mini、12-年的-Mac-Pro，都差不多价格了](https://www.v2ex.com/t/841435) 
-- [2022-03-19-GitHub-clone-时总是非常慢，有梯子也不管用。有无优化方案？](https://www.v2ex.com/t/841434) 

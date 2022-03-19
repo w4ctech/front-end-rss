@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-03-19 09:12:59。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-03-19 09:37:45。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1912,6 +1912,7 @@
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2022-02-04-HTML-inputmode与iOS-Android软键盘类型测试](https://www.zhangxinxu.com/wordpress/2022/02/html-inputmode-keyboard/) 
+- [2022-03-19-买了-mac-studio](https://www.v2ex.com/t/841484) 
 - [2022-03-19-求职-南京-交大-帮师妹找一个南京靠谱互联网相关的实习岗位，本科江苏大学，已保研上海交通大学，实习到-7-月份，地址南京江宁区附近，需要的麻烦帮捞一下...](https://www.v2ex.com/t/841482) 
 - [2022-03-19-关于社保缴纳问题](https://www.v2ex.com/t/841481) 
 - [2022-03-19-艾尔登法环-128:06:52-通关](https://www.v2ex.com/t/841478) 
@@ -1963,8 +1964,8 @@
 - [2022-03-19-干货-|-Apache-Doris在小米集团的运维实践](https://toutiao.io/k/gncf129) 
 - [2022-03-19-日常开发部署时要避免的两个打爆磁盘的问题](https://toutiao.io/k/n16z1t6) 
 - [2022-03-19-最佳项目管理法则10条](https://toutiao.io/k/ghp6onb) 
-- [2022-03-19-推荐-最常用的架构模式](https://toutiao.io/k/qnfl3t6) 
 - [2022-03-19-推荐-阿里巴巴开源的低代码引擎](https://toutiao.io/k/gsosp6w) 
 - [2022-03-19-推荐-微服务如何划分](https://toutiao.io/k/f4vabj7) 
 - [2022-03-19-推荐-我的命令行开发环境-❤️](https://toutiao.io/k/hjda293) 
+- [2022-03-19-推荐-最常用的架构模式](https://toutiao.io/k/qnfl3t6) 
 - [2022-03-19-推荐-架构师如何选型分布式业务网关](https://toutiao.io/k/enmg99d) 

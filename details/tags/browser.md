@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-03-19 08:15:37。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-03-19 08:40:52。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -14,4 +14,3 @@
 - [2021-01-08-解药|新冠mRNA疫苗安全性有哪些挑战？](https://m.caixin.com/m/2021-01-08/101648043.html) 
 - [2021-01-01-大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html) 
 - [2022-03-19-Chrome-升级-V99-版本后-1Password-6-无法工作](https://www.v2ex.com/t/841467) 
-- [2022-03-19-mac-的-chromedriver-安装遇到路径问题](https://www.v2ex.com/t/841429) 

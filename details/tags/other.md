@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-03-19 21:11:43。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-03-19 21:36:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1966,8 +1966,8 @@
 - [2022-03-19-Go-1.18-终于来了！](https://toutiao.io/k/zmhxdzr) 
 - [2022-03-19-干货-|-Apache-Doris在小米集团的运维实践](https://toutiao.io/k/gncf129) 
 - [2022-03-19-最佳项目管理法则10条](https://toutiao.io/k/ghp6onb) 
-- [2022-03-19-推荐-我的命令行开发环境-❤️](https://toutiao.io/k/hjda293) 
+- [2022-03-19-推荐-最常用的架构模式](https://toutiao.io/k/qnfl3t6) 
 - [2022-03-19-推荐-微服务如何划分](https://toutiao.io/k/f4vabj7) 
 - [2022-03-19-推荐-阿里巴巴开源的低代码引擎](https://toutiao.io/k/gsosp6w) 
+- [2022-03-19-推荐-我的命令行开发环境-❤️](https://toutiao.io/k/hjda293) 
 - [2022-03-19-推荐-架构师如何选型分布式业务网关](https://toutiao.io/k/enmg99d) 
-- [2022-03-19-推荐-最常用的架构模式](https://toutiao.io/k/qnfl3t6) 

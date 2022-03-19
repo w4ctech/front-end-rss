@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-03-19 03:13:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-03-19 03:39:42。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1912,6 +1912,8 @@
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2022-02-04-HTML-inputmode与iOS-Android软键盘类型测试](https://www.zhangxinxu.com/wordpress/2022/02/html-inputmode-keyboard/) 
+- [2022-03-19-安迪-比尔定律-失效](https://www.v2ex.com/t/841428) 
+- [2022-03-19-懒人党的福音--顶级全自动化影音系统全方位深入剖析](https://www.v2ex.com/t/841427) 
 - [2022-03-19-百度智能云的网站备案速度是认真的吗？蚌埠住了](https://www.v2ex.com/t/841425) 
 - [2022-03-19-miui-安卓调出音量控制条的代码](https://www.v2ex.com/t/841422) 
 - [2022-03-19-移动固态硬盘组合指导](https://www.v2ex.com/t/841420) 
@@ -1940,8 +1942,6 @@
 - [2022-03-18-求久坐好用的人体工学椅](https://www.v2ex.com/t/841385) 
 - [2022-03-18-10400-黑苹果-Spotlight-搜索出结果的速度明显比-M1-慢一大截](https://www.v2ex.com/t/841383) 
 - [2022-03-18-系统常驻梯子，程序中设置代理-ip-后无法成功爬取墙外资源，不设置却可以爬取成功，这是为什么？](https://www.v2ex.com/t/841380) 
-- [2022-03-18-便宜的号卡套餐](https://www.v2ex.com/t/841379) 
-- [2022-03-18-GGM:-首个-Gloang-泛型-ORM-库发布-🚀](https://www.v2ex.com/t/841377) 
 - [2022-03-19-书单嵌入式、C语言编程书籍-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14982&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493708%26amp%3Bidx%3D2%26amp%3Bsn%3D8912c67f39a11e5c64a6f0cc7e0c0c7f%26amp%3Bchksm%3Dfa3f0917cd48800188d3b29be8afbb3d13e5d5837c0b52052115688b4f57b307a1dfa3f14b3e%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-03-19-12个“经典”网站！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14981&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493629%26amp%3Bidx%3D1%26amp%3Bsn%3D92373e79046af0c911cd3f150722950e%26amp%3Bchksm%3Dfa3f06a6cd488fb08bd084438b95cbc4bf8d938626c68a16d79b952565803cc8d5868beaa419%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-03-19-推荐一本免费的Go书籍！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14979&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493626%26amp%3Bidx%3D1%26amp%3Bsn%3D4681027d12e73760b7bb0a764a4ced5b%26amp%3Bchksm%3Dfa3f06a1cd488fb71d84baf9e5ccb2a84ceab9ff5c748312e3682dbab7afef5ac842705b5451%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1959,11 +1959,11 @@
 - [2022-03-19-前端异常埋点系统初探-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14965&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493489%26amp%3Bidx%3D2%26amp%3Bsn%3Dd542e229cdcb9a424cd0ac0e232cc668%26amp%3Bchksm%3Dfa3f062acd488f3c638bce222f765cc53dfe12ce66d84c76b7db365a3493c776bd5bade5f28b%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-03-19-优质网站同好者周刊（第-57-期）--倾城之链---悠然宜想亭](https://toutiao.io/k/8jgfrzw) 
 - [2022-03-19-Golang-常见设计模式之装饰模式](https://toutiao.io/k/jwkjr3i) 
-- [2022-03-19-Go-1.18-终于来了！](https://toutiao.io/k/zmhxdzr) 
 - [2022-03-19-复盘归因，提高交付质量的秘诀](https://toutiao.io/k/mvs5ovy) 
+- [2022-03-19-Go-1.18-终于来了！](https://toutiao.io/k/zmhxdzr) 
 - [2022-03-19-干货-|-Apache-Doris在小米集团的运维实践](https://toutiao.io/k/gncf129) 
 - [2022-03-19-推荐-架构师如何选型分布式业务网关](https://toutiao.io/k/enmg99d) 
 - [2022-03-19-推荐-微服务如何划分](https://toutiao.io/k/f4vabj7) 
-- [2022-03-19-推荐-最常用的架构模式](https://toutiao.io/k/qnfl3t6) 
-- [2022-03-19-推荐-我的命令行开发环境-❤️](https://toutiao.io/k/hjda293) 
 - [2022-03-19-推荐-阿里巴巴开源的低代码引擎](https://toutiao.io/k/gsosp6w) 
+- [2022-03-19-推荐-我的命令行开发环境-❤️](https://toutiao.io/k/hjda293) 
+- [2022-03-19-推荐-最常用的架构模式](https://toutiao.io/k/qnfl3t6) 

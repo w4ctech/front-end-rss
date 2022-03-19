@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-03-19 05:36:19，:rocket: 更新条数: +2017， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-03-19 06:15:55，:rocket: 更新条数: +2019， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,9 @@
 </summary>
 
 
+- [2022-03-19-大家如何处理台式机？？](https://www.v2ex.com/t/841456) ![](assets/new.png)  
+- [2022-03-19-才意识到-Apple-平台上的-PWA-体验这么差可能是有意而为之的](https://www.v2ex.com/t/841454) ![](assets/new.png)  
+- [2022-03-19-maxtech-拆解-mac-studio，看起来可以直接插-ssd-完成存储升级](https://www.v2ex.com/t/841453) ![](assets/new.png)  
 - [2022-03-19-每次-OnCall-过后都掉一层皮](https://www.v2ex.com/t/841452) ![](assets/new.png)  
 - [2022-03-19-推荐一个-Node.js-参数校验模块---minijoi](https://www.v2ex.com/t/841450) ![](assets/new.png)  
 - [2022-03-19-关于单线程串行操作-mysql-或-redis-改为多线程并行操作是否提升性能](https://www.v2ex.com/t/841449) ![](assets/new.png)  
@@ -508,9 +511,6 @@
 - [2022-03-19-求助，一个比多重背包还要复杂一点的问题。](https://www.v2ex.com/t/841431) ![](assets/new.png)  
 - [2022-03-19-Mac-捷径里的截图-take-screenshot-为什么启动会延迟？](https://www.v2ex.com/t/841430) ![](assets/new.png)  
 - [2022-03-19-mac-的-chromedriver-安装遇到路径问题](https://www.v2ex.com/t/841429) ![](assets/new.png)  
-- [2022-03-19-安迪-比尔定律-失效](https://www.v2ex.com/t/841428) ![](assets/new.png)  
-- [2022-03-19-懒人党的福音--顶级全自动化影音系统全方位深入剖析](https://www.v2ex.com/t/841427) ![](assets/new.png)  
-- [2022-03-19-百度智能云的网站备案速度是认真的吗？蚌埠住了](https://www.v2ex.com/t/841425) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -560,11 +560,13 @@
 - [2022-03-19-Go-1.18-终于来了！](https://toutiao.io/k/zmhxdzr) ![](assets/new.png)  
 - [2022-03-19-干货-|-Apache-Doris在小米集团的运维实践](https://toutiao.io/k/gncf129) ![](assets/new.png)  
 - [2022-03-19-源码游戏输入框架的设计基于Unity](https://toutiao.io/k/dlkiivq) ![](assets/new.png)  
-- [2022-03-19-推荐-最常用的架构模式](https://toutiao.io/k/qnfl3t6) ![](assets/new.png)  
-- [2022-03-19-推荐-微服务如何划分](https://toutiao.io/k/f4vabj7) ![](assets/new.png)  
+- [2022-03-19-日常开发部署时要避免的两个打爆磁盘的问题](https://toutiao.io/k/n16z1t6) ![](assets/new.png)  
+- [2022-03-19-最佳项目管理法则10条](https://toutiao.io/k/ghp6onb) ![](assets/new.png)  
 - [2022-03-19-推荐-我的命令行开发环境-❤️](https://toutiao.io/k/hjda293) ![](assets/new.png)  
-- [2022-03-19-推荐-阿里巴巴开源的低代码引擎](https://toutiao.io/k/gsosp6w) ![](assets/new.png)  
 - [2022-03-19-推荐-架构师如何选型分布式业务网关](https://toutiao.io/k/enmg99d) ![](assets/new.png)  
+- [2022-03-19-推荐-阿里巴巴开源的低代码引擎](https://toutiao.io/k/gsosp6w) ![](assets/new.png)  
+- [2022-03-19-推荐-微服务如何划分](https://toutiao.io/k/f4vabj7) ![](assets/new.png)  
+- [2022-03-19-推荐-最常用的架构模式](https://toutiao.io/k/qnfl3t6) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

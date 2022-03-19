@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-03-19 05:12:29，:rocket: 更新条数: +2015， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-03-19 05:36:19，:rocket: 更新条数: +2017， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,11 @@
 </summary>
 
 
+- [2022-03-19-每次-OnCall-过后都掉一层皮](https://www.v2ex.com/t/841452) ![](assets/new.png)  
+- [2022-03-19-推荐一个-Node.js-参数校验模块---minijoi](https://www.v2ex.com/t/841450) ![](assets/new.png)  
+- [2022-03-19-关于单线程串行操作-mysql-或-redis-改为多线程并行操作是否提升性能](https://www.v2ex.com/t/841449) ![](assets/new.png)  
+- [2022-03-19-写了个每日汇率简报-+-0.5%-以上的波动提醒](https://www.v2ex.com/t/841448) ![](assets/new.png)  
+- [2022-03-19-被怼的莫名奇妙的，这么写会出空指针？](https://www.v2ex.com/t/841447) ![](assets/new.png)  
 - [2022-03-19-我这个电脑可以升级-windows11-吗？](https://www.v2ex.com/t/841444) ![](assets/new.png)  
 - [2022-03-19-2022-大家-Android-开发都用的撒](https://www.v2ex.com/t/841443) ![](assets/new.png)  
 - [2022-03-19-为了管理我的-4-万个书签，我写了个插件](https://www.v2ex.com/t/841442) ![](assets/new.png)  
@@ -506,11 +511,6 @@
 - [2022-03-19-安迪-比尔定律-失效](https://www.v2ex.com/t/841428) ![](assets/new.png)  
 - [2022-03-19-懒人党的福音--顶级全自动化影音系统全方位深入剖析](https://www.v2ex.com/t/841427) ![](assets/new.png)  
 - [2022-03-19-百度智能云的网站备案速度是认真的吗？蚌埠住了](https://www.v2ex.com/t/841425) ![](assets/new.png)  
-- [2022-03-19-这个配置-nginx-还可以优化吗?根据域名分流中转](https://www.v2ex.com/t/841424) ![](assets/new.png)  
-- [2022-03-19-如何小而美的在路由上修改-UA](https://www.v2ex.com/t/841423) ![](assets/new.png)  
-- [2022-03-19-miui-安卓调出音量控制条的代码](https://www.v2ex.com/t/841422) ![](assets/new.png)  
-- [2022-03-19-上海/北京安全20-60k*15.5小红书安全团队求贤](https://www.v2ex.com/t/841421) ![](assets/new.png)  
-- [2022-03-19-移动固态硬盘组合指导](https://www.v2ex.com/t/841420) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -560,11 +560,11 @@
 - [2022-03-19-Go-1.18-终于来了！](https://toutiao.io/k/zmhxdzr) ![](assets/new.png)  
 - [2022-03-19-干货-|-Apache-Doris在小米集团的运维实践](https://toutiao.io/k/gncf129) ![](assets/new.png)  
 - [2022-03-19-源码游戏输入框架的设计基于Unity](https://toutiao.io/k/dlkiivq) ![](assets/new.png)  
-- [2022-03-19-推荐-我的命令行开发环境-❤️](https://toutiao.io/k/hjda293) ![](assets/new.png)  
-- [2022-03-19-推荐-架构师如何选型分布式业务网关](https://toutiao.io/k/enmg99d) ![](assets/new.png)  
-- [2022-03-19-推荐-阿里巴巴开源的低代码引擎](https://toutiao.io/k/gsosp6w) ![](assets/new.png)  
 - [2022-03-19-推荐-最常用的架构模式](https://toutiao.io/k/qnfl3t6) ![](assets/new.png)  
 - [2022-03-19-推荐-微服务如何划分](https://toutiao.io/k/f4vabj7) ![](assets/new.png)  
+- [2022-03-19-推荐-我的命令行开发环境-❤️](https://toutiao.io/k/hjda293) ![](assets/new.png)  
+- [2022-03-19-推荐-阿里巴巴开源的低代码引擎](https://toutiao.io/k/gsosp6w) ![](assets/new.png)  
+- [2022-03-19-推荐-架构师如何选型分布式业务网关](https://toutiao.io/k/enmg99d) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

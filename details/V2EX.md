@@ -1,10 +1,15 @@
-:alarm_clock: 更新时间: 2022-03-19 05:12:29。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-03-19 05:36:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-03-19-每次-OnCall-过后都掉一层皮](https://www.v2ex.com/t/841452) 
+- [2022-03-19-推荐一个-Node.js-参数校验模块---minijoi](https://www.v2ex.com/t/841450) 
+- [2022-03-19-关于单线程串行操作-mysql-或-redis-改为多线程并行操作是否提升性能](https://www.v2ex.com/t/841449) 
+- [2022-03-19-写了个每日汇率简报-+-0.5%-以上的波动提醒](https://www.v2ex.com/t/841448) 
+- [2022-03-19-被怼的莫名奇妙的，这么写会出空指针？](https://www.v2ex.com/t/841447) 
 - [2022-03-19-我这个电脑可以升级-windows11-吗？](https://www.v2ex.com/t/841444) 
 - [2022-03-19-2022-大家-Android-开发都用的撒](https://www.v2ex.com/t/841443) 
 - [2022-03-19-为了管理我的-4-万个书签，我写了个插件](https://www.v2ex.com/t/841442) 
@@ -39,6 +44,3 @@
 - [2022-03-19-有什么适合家里老人用的，但是可以刷-OpenWrt-的路由（2022-年上半年）](https://www.v2ex.com/t/841405) 
 - [2022-03-19-安卓-13-kvm，未来真的可以把手机当主机了](https://www.v2ex.com/t/841404) 
 - [2022-03-19-Nginx-模块开发中的变量](https://www.v2ex.com/t/841403) 
-- [2022-03-19-原生-arm64-程序不一定比-rosetta2-快](https://www.v2ex.com/t/841402) 
-- [2022-03-19-关于-Cookie-Consent-Popup](https://www.v2ex.com/t/841401) 
-- [2022-03-18-OneDrive-for-Mac-正式版已经开始推送原生-ARM-版本了](https://www.v2ex.com/t/841399) 

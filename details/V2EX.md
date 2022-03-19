@@ -1,10 +1,14 @@
-:alarm_clock: 更新时间: 2022-03-19 13:38:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-03-19 14:12:50。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-03-19-巴奴毛肚火锅招人啦，一起愉快的刷锅啊！](https://www.v2ex.com/t/841537) 
+- [2022-03-19-给-j1900-小主机装了-ubuntu-Linux](https://www.v2ex.com/t/841536) 
+- [2022-03-19-MacBook-pro-2017-款](https://www.v2ex.com/t/841535) 
+- [2022-03-19-把最近-6-年的-GitHub-活跃图打印成了摆件](https://www.v2ex.com/t/841534) 
 - [2022-03-19-现在-stripe-把俄罗斯-VISA-和-Master-用户的支付直接-Block-了，有其他方式可以收俄罗斯用户的钱的-Gateway-吗，和-Stripe-类似的？](https://www.v2ex.com/t/841532) 
 - [2022-03-19-请问联想拯救者-Y700-能装-Play-Store-么？](https://www.v2ex.com/t/841531) 
 - [2022-03-19-有朋友遇到-macOS-的-Safari-自动返回上一页面的情况吗](https://www.v2ex.com/t/841530) 
@@ -43,6 +47,3 @@
 - [2022-03-19-开发相似的-IOS-App-的疑问](https://www.v2ex.com/t/841490) 
 - [2022-03-19-现在香港网络是不是法外之地,可以随意攻击,无任何顾忌?](https://www.v2ex.com/t/841489) 
 - [2022-03-19-发现了境内搞发开挂代理的最佳方案，再也不用设置各种-PROXY-参数了](https://www.v2ex.com/t/841488) 
-- [2022-03-19-猎头看过来](https://www.v2ex.com/t/841487) 
-- [2022-03-19-for-循环为什么会带来不必现的溢出错误](https://www.v2ex.com/t/841486) 
-- [2022-03-19-买了-mac-studio](https://www.v2ex.com/t/841484) 

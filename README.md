@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-03-19 06:44:36，:rocket: 更新条数: +2020， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-03-19 07:12:23，:rocket: 更新条数: +2019， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,11 @@
 </summary>
 
 
+- [2022-03-19-微信这是逼人申请小号啊](https://www.v2ex.com/t/841468) ![](assets/new.png)  
+- [2022-03-19-Chrome-升级-V99-版本后-1Password-6-无法工作](https://www.v2ex.com/t/841467) ![](assets/new.png)  
+- [2022-03-19-醉了有道笔记，导致-git-提并失败](https://www.v2ex.com/t/841466) ![](assets/new.png)  
+- [2022-03-19-想搞台-32G-品牌台式电脑，发现全都是定制款，经销商会缩水配置吗？](https://www.v2ex.com/t/841464) ![](assets/new.png)  
+- [2022-03-19-远程全职-区块链-golang-服务器开发](https://www.v2ex.com/t/841463) ![](assets/new.png)  
 - [2022-03-19-国外程序员更关注政治吗？](https://www.v2ex.com/t/841462) ![](assets/new.png)  
 - [2022-03-19-请教下大家，如果一个项目的模块多，业务多而杂，如何去熟悉/精通业务和架构同时并输出文档？](https://www.v2ex.com/t/841461) ![](assets/new.png)  
 - [2022-03-19-3-月-19-号腾讯云香港新加坡云服务器约-3-年-33-元-166-元-8-台](https://www.v2ex.com/t/841460) ![](assets/new.png)  
@@ -506,11 +511,6 @@
 - [2022-03-19-被怼的莫名奇妙的，这么写会出空指针？](https://www.v2ex.com/t/841447) ![](assets/new.png)  
 - [2022-03-19-我这个电脑可以升级-windows11-吗？](https://www.v2ex.com/t/841444) ![](assets/new.png)  
 - [2022-03-19-2022-大家-Android-开发都用的撒](https://www.v2ex.com/t/841443) ![](assets/new.png)  
-- [2022-03-19-为了管理我的-4-万个书签，我写了个插件](https://www.v2ex.com/t/841442) ![](assets/new.png)  
-- [2022-03-19-升级-macOS12.3-之后-Dock-栏莫名多了个白色的点](https://www.v2ex.com/t/841439) ![](assets/new.png)  
-- [2022-03-19-macOS-上无法使用-iCloud-钥匙串](https://www.v2ex.com/t/841438) ![](assets/new.png)  
-- [2022-03-19-mac-里面最保值的应该是-Mac-mini-了吧？-12-年的-mini、12-年的-Mac-Pro，都差不多价格了](https://www.v2ex.com/t/841435) ![](assets/new.png)  
-- [2022-03-19-GitHub-clone-时总是非常慢，有梯子也不管用。有无优化方案？](https://www.v2ex.com/t/841434) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -562,11 +562,11 @@
 - [2022-03-19-源码游戏输入框架的设计基于Unity](https://toutiao.io/k/dlkiivq) ![](assets/new.png)  
 - [2022-03-19-日常开发部署时要避免的两个打爆磁盘的问题](https://toutiao.io/k/n16z1t6) ![](assets/new.png)  
 - [2022-03-19-最佳项目管理法则10条](https://toutiao.io/k/ghp6onb) ![](assets/new.png)  
-- [2022-03-19-推荐-架构师如何选型分布式业务网关](https://toutiao.io/k/enmg99d) ![](assets/new.png)  
 - [2022-03-19-推荐-最常用的架构模式](https://toutiao.io/k/qnfl3t6) ![](assets/new.png)  
-- [2022-03-19-推荐-我的命令行开发环境-❤️](https://toutiao.io/k/hjda293) ![](assets/new.png)  
 - [2022-03-19-推荐-阿里巴巴开源的低代码引擎](https://toutiao.io/k/gsosp6w) ![](assets/new.png)  
 - [2022-03-19-推荐-微服务如何划分](https://toutiao.io/k/f4vabj7) ![](assets/new.png)  
+- [2022-03-19-推荐-架构师如何选型分布式业务网关](https://toutiao.io/k/enmg99d) ![](assets/new.png)  
+- [2022-03-19-推荐-我的命令行开发环境-❤️](https://toutiao.io/k/hjda293) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

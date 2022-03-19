@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-03-19 07:12:23，:rocket: 更新条数: +2019， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-03-19 07:35:46，:rocket: 更新条数: +2018， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,10 @@
 </summary>
 
 
+- [2022-03-19-有没有可以这样的工具，可以让其他人处理一部分我的微信信息。](https://www.v2ex.com/t/841473) ![](assets/new.png)  
+- [2022-03-19-最后我买了-13mini...](https://www.v2ex.com/t/841471) ![](assets/new.png)  
+- [2022-03-19-来个项目合作，架构探讨](https://www.v2ex.com/t/841470) ![](assets/new.png)  
+- [2022-03-19-程序员们你们喜欢现在正在做的工作吗？喜欢做现在的业务吗？](https://www.v2ex.com/t/841469) ![](assets/new.png)  
 - [2022-03-19-微信这是逼人申请小号啊](https://www.v2ex.com/t/841468) ![](assets/new.png)  
 - [2022-03-19-Chrome-升级-V99-版本后-1Password-6-无法工作](https://www.v2ex.com/t/841467) ![](assets/new.png)  
 - [2022-03-19-醉了有道笔记，导致-git-提并失败](https://www.v2ex.com/t/841466) ![](assets/new.png)  
@@ -507,10 +511,6 @@
 - [2022-03-19-每次-OnCall-过后都掉一层皮](https://www.v2ex.com/t/841452) ![](assets/new.png)  
 - [2022-03-19-推荐一个-Node.js-参数校验模块---minijoi](https://www.v2ex.com/t/841450) ![](assets/new.png)  
 - [2022-03-19-关于单线程串行操作-mysql-或-redis-改为多线程并行操作是否提升性能](https://www.v2ex.com/t/841449) ![](assets/new.png)  
-- [2022-03-19-写了个每日汇率简报-+-0.5%-以上的波动提醒](https://www.v2ex.com/t/841448) ![](assets/new.png)  
-- [2022-03-19-被怼的莫名奇妙的，这么写会出空指针？](https://www.v2ex.com/t/841447) ![](assets/new.png)  
-- [2022-03-19-我这个电脑可以升级-windows11-吗？](https://www.v2ex.com/t/841444) ![](assets/new.png)  
-- [2022-03-19-2022-大家-Android-开发都用的撒](https://www.v2ex.com/t/841443) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -562,11 +562,11 @@
 - [2022-03-19-源码游戏输入框架的设计基于Unity](https://toutiao.io/k/dlkiivq) ![](assets/new.png)  
 - [2022-03-19-日常开发部署时要避免的两个打爆磁盘的问题](https://toutiao.io/k/n16z1t6) ![](assets/new.png)  
 - [2022-03-19-最佳项目管理法则10条](https://toutiao.io/k/ghp6onb) ![](assets/new.png)  
-- [2022-03-19-推荐-最常用的架构模式](https://toutiao.io/k/qnfl3t6) ![](assets/new.png)  
-- [2022-03-19-推荐-阿里巴巴开源的低代码引擎](https://toutiao.io/k/gsosp6w) ![](assets/new.png)  
-- [2022-03-19-推荐-微服务如何划分](https://toutiao.io/k/f4vabj7) ![](assets/new.png)  
 - [2022-03-19-推荐-架构师如何选型分布式业务网关](https://toutiao.io/k/enmg99d) ![](assets/new.png)  
 - [2022-03-19-推荐-我的命令行开发环境-❤️](https://toutiao.io/k/hjda293) ![](assets/new.png)  
+- [2022-03-19-推荐-微服务如何划分](https://toutiao.io/k/f4vabj7) ![](assets/new.png)  
+- [2022-03-19-推荐-阿里巴巴开源的低代码引擎](https://toutiao.io/k/gsosp6w) ![](assets/new.png)  
+- [2022-03-19-推荐-最常用的架构模式](https://toutiao.io/k/qnfl3t6) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

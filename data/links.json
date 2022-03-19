@@ -9953,6 +9953,16 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "现在 stripe 把俄罗斯 VISA 和 Master 用户的支付直接 Block 了，有其他方式可以收俄罗斯用户的钱的 Gateway 吗，和 Stripe 类似的？",
+        "link": "https://www.v2ex.com/t/841532",
+        "date": "2022-03-19"
+      },
+      {
+        "title": "请问联想拯救者 Y700 能装 Play Store 么？",
+        "link": "https://www.v2ex.com/t/841531",
+        "date": "2022-03-19"
+      },
+      {
         "title": "有朋友遇到 macOS 的 Safari 自动返回上一页面的情况吗",
         "link": "https://www.v2ex.com/t/841530",
         "date": "2022-03-19"
@@ -10146,21 +10156,6 @@
         "title": "买了 mac studio",
         "link": "https://www.v2ex.com/t/841484",
         "date": "2022-03-19"
-      },
-      {
-        "title": "win10 wsl 下运行 ubuntu 为何不能像 powershell git-bash 那样运行 win 上的 docker？",
-        "link": "https://www.v2ex.com/t/841483",
-        "date": "2022-03-19"
-      },
-      {
-        "title": "[求职] [南京] [交大] 帮师妹找一个南京靠谱互联网相关的实习岗位，本科江苏大学，已保研上海交通大学，实习到 7 月份，地址南京江宁区附近，需要的麻烦帮捞一下...",
-        "link": "https://www.v2ex.com/t/841482",
-        "date": "2022-03-19"
-      },
-      {
-        "title": "关于社保缴纳问题",
-        "link": "https://www.v2ex.com/t/841481",
-        "date": "2022-03-19"
       }
     ]
   },
@@ -10322,18 +10317,18 @@
         "date": "2022-03-19"
       },
       {
-        "title": "[推荐] 最常用的架构模式",
-        "link": "https://toutiao.io/k/qnfl3t6",
-        "date": "2022-03-19"
-      },
-      {
         "title": "[推荐] 架构师如何选型分布式业务网关",
         "link": "https://toutiao.io/k/enmg99d",
         "date": "2022-03-19"
       },
       {
-        "title": "[推荐] 阿里巴巴开源的低代码引擎",
-        "link": "https://toutiao.io/k/gsosp6w",
+        "title": "[推荐] 我的命令行开发环境 ❤️",
+        "link": "https://toutiao.io/k/hjda293",
+        "date": "2022-03-19"
+      },
+      {
+        "title": "[推荐] 最常用的架构模式",
+        "link": "https://toutiao.io/k/qnfl3t6",
         "date": "2022-03-19"
       },
       {
@@ -10342,8 +10337,8 @@
         "date": "2022-03-19"
       },
       {
-        "title": "[推荐] 我的命令行开发环境 ❤️",
-        "link": "https://toutiao.io/k/hjda293",
+        "title": "[推荐] 阿里巴巴开源的低代码引擎",
+        "link": "https://toutiao.io/k/gsosp6w",
         "date": "2022-03-19"
       }
     ]

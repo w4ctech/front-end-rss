@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-03-19 13:17:25。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-03-19 13:38:08。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -301,6 +301,7 @@
 
 
 
+- [【V2EX】现在-stripe-把俄罗斯-VISA-和-Master-用户的支付直接-Block-了，有其他方式可以收俄罗斯用户的钱的-Gateway-吗，和-Stripe-类似的？](https://www.v2ex.com/t/841532)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -317,7 +318,6 @@
 
 
 
-- [【V2EX】win10-wsl-下运行-ubuntu-为何不能像-powershell-git-bash-那样运行-win-上的-docker？](https://www.v2ex.com/t/841483)
 - [......【查看更多】......](./details/tags/server.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

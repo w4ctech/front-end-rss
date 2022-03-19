@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2022-03-19 13:17:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-03-19 13:38:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-03-19-现在-stripe-把俄罗斯-VISA-和-Master-用户的支付直接-Block-了，有其他方式可以收俄罗斯用户的钱的-Gateway-吗，和-Stripe-类似的？](https://www.v2ex.com/t/841532) 
+- [2022-03-19-请问联想拯救者-Y700-能装-Play-Store-么？](https://www.v2ex.com/t/841531) 
 - [2022-03-19-有朋友遇到-macOS-的-Safari-自动返回上一页面的情况吗](https://www.v2ex.com/t/841530) 
 - [2022-03-19-一个面向-Geek-的写作空间：-GeekNote.net](https://www.v2ex.com/t/841528) 
 - [2022-03-19-求一些脑洞大开的电影](https://www.v2ex.com/t/841527) 
@@ -44,6 +46,3 @@
 - [2022-03-19-猎头看过来](https://www.v2ex.com/t/841487) 
 - [2022-03-19-for-循环为什么会带来不必现的溢出错误](https://www.v2ex.com/t/841486) 
 - [2022-03-19-买了-mac-studio](https://www.v2ex.com/t/841484) 
-- [2022-03-19-win10-wsl-下运行-ubuntu-为何不能像-powershell-git-bash-那样运行-win-上的-docker？](https://www.v2ex.com/t/841483) 
-- [2022-03-19-求职-南京-交大-帮师妹找一个南京靠谱互联网相关的实习岗位，本科江苏大学，已保研上海交通大学，实习到-7-月份，地址南京江宁区附近，需要的麻烦帮捞一下...](https://www.v2ex.com/t/841482) 
-- [2022-03-19-关于社保缴纳问题](https://www.v2ex.com/t/841481) 

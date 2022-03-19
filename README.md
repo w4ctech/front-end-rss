@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-03-19 22:13:13，:rocket: 更新条数: +2020， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-03-19 22:38:29，:rocket: 更新条数: +2021， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-03-19-美国-洛杉矶-公司招聘前端啦！（远程工作）](https://www.v2ex.com/t/841569) ![](assets/new.png)  
 - [2022-03-19-作为-Minecraft-服主的一些深夜感悟](https://www.v2ex.com/t/841568) ![](assets/new.png)  
 - [2022-03-19-警告希望是误报:-Mozilla-在搞事儿,-部分地区-Android-上无法安装广告屏蔽扩展!](https://www.v2ex.com/t/841567) ![](assets/new.png)  
 - [2022-03-19-有关模板-+-if-constexpr-+-static_assert-的问题](https://www.v2ex.com/t/841566) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-03-19-有用上-12-代酷睿的程序员，能否分享一下](https://www.v2ex.com/t/841549) ![](assets/new.png)  
 - [2022-03-19-送福利](https://www.v2ex.com/t/841548) ![](assets/new.png)  
 - [2022-03-19-看博客需要关注微信~](https://www.v2ex.com/t/841547) ![](assets/new.png)  
-- [2022-03-19-仅按照时间线记录开发过程的工具有没有啊](https://www.v2ex.com/t/841546) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -562,10 +562,10 @@
 - [2022-03-19-干货-|-Apache-Doris在小米集团的运维实践](https://toutiao.io/k/gncf129) ![](assets/new.png)  
 - [2022-03-19-最佳项目管理法则10条](https://toutiao.io/k/ghp6onb) ![](assets/new.png)  
 - [2022-03-19-源码游戏输入框架的设计基于Unity](https://toutiao.io/k/dlkiivq) ![](assets/new.png)  
-- [2022-03-19-推荐-微服务如何划分](https://toutiao.io/k/f4vabj7) ![](assets/new.png)  
 - [2022-03-19-推荐-最常用的架构模式](https://toutiao.io/k/qnfl3t6) ![](assets/new.png)  
-- [2022-03-19-推荐-架构师如何选型分布式业务网关](https://toutiao.io/k/enmg99d) ![](assets/new.png)  
 - [2022-03-19-推荐-我的命令行开发环境-❤️](https://toutiao.io/k/hjda293) ![](assets/new.png)  
+- [2022-03-19-推荐-微服务如何划分](https://toutiao.io/k/f4vabj7) ![](assets/new.png)  
+- [2022-03-19-推荐-架构师如何选型分布式业务网关](https://toutiao.io/k/enmg99d) ![](assets/new.png)  
 - [2022-03-19-推荐-阿里巴巴开源的低代码引擎](https://toutiao.io/k/gsosp6w) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-03-19 07:35:46。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-03-19 08:15:37。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1912,6 +1912,10 @@
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2022-02-04-HTML-inputmode与iOS-Android软键盘类型测试](https://www.zhangxinxu.com/wordpress/2022/02/html-inputmode-keyboard/) 
+- [2022-03-19-艾尔登法环-128:06:52-通关](https://www.v2ex.com/t/841478) 
+- [2022-03-19-如果要查看-Core-Data-生成的-.sqlite-文件的内容，你通常会用什么工具？](https://www.v2ex.com/t/841477) 
+- [2022-03-19-The-Amazing-Race-是不是复播了？](https://www.v2ex.com/t/841476) 
+- [2022-03-19-Mysql-修改-my.cnf-binlog_format-配置为-ROW-后，重启不生效](https://www.v2ex.com/t/841475) 
 - [2022-03-19-有没有可以这样的工具，可以让其他人处理一部分我的微信信息。](https://www.v2ex.com/t/841473) 
 - [2022-03-19-最后我买了-13mini...](https://www.v2ex.com/t/841471) 
 - [2022-03-19-来个项目合作，架构探讨](https://www.v2ex.com/t/841470) 
@@ -1939,9 +1943,6 @@
 - [2022-03-19-北上广杭-网易各岗位热招中，有海量-HC，还不快来！](https://www.v2ex.com/t/841432) 
 - [2022-03-19-求助，一个比多重背包还要复杂一点的问题。](https://www.v2ex.com/t/841431) 
 - [2022-03-19-Mac-捷径里的截图-take-screenshot-为什么启动会延迟？](https://www.v2ex.com/t/841430) 
-- [2022-03-19-安迪-比尔定律-失效](https://www.v2ex.com/t/841428) 
-- [2022-03-19-懒人党的福音--顶级全自动化影音系统全方位深入剖析](https://www.v2ex.com/t/841427) 
-- [2022-03-19-百度智能云的网站备案速度是认真的吗？蚌埠住了](https://www.v2ex.com/t/841425) 
 - [2022-03-19-书单嵌入式、C语言编程书籍-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14982&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493708%26amp%3Bidx%3D2%26amp%3Bsn%3D8912c67f39a11e5c64a6f0cc7e0c0c7f%26amp%3Bchksm%3Dfa3f0917cd48800188d3b29be8afbb3d13e5d5837c0b52052115688b4f57b307a1dfa3f14b3e%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-03-19-12个“经典”网站！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14981&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493629%26amp%3Bidx%3D1%26amp%3Bsn%3D92373e79046af0c911cd3f150722950e%26amp%3Bchksm%3Dfa3f06a6cd488fb08bd084438b95cbc4bf8d938626c68a16d79b952565803cc8d5868beaa419%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-03-19-推荐一本免费的Go书籍！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14979&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493626%26amp%3Bidx%3D1%26amp%3Bsn%3D4681027d12e73760b7bb0a764a4ced5b%26amp%3Bchksm%3Dfa3f06a1cd488fb71d84baf9e5ccb2a84ceab9ff5c748312e3682dbab7afef5ac842705b5451%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1964,8 +1965,8 @@
 - [2022-03-19-干货-|-Apache-Doris在小米集团的运维实践](https://toutiao.io/k/gncf129) 
 - [2022-03-19-日常开发部署时要避免的两个打爆磁盘的问题](https://toutiao.io/k/n16z1t6) 
 - [2022-03-19-最佳项目管理法则10条](https://toutiao.io/k/ghp6onb) 
-- [2022-03-19-推荐-架构师如何选型分布式业务网关](https://toutiao.io/k/enmg99d) 
-- [2022-03-19-推荐-我的命令行开发环境-❤️](https://toutiao.io/k/hjda293) 
 - [2022-03-19-推荐-微服务如何划分](https://toutiao.io/k/f4vabj7) 
 - [2022-03-19-推荐-阿里巴巴开源的低代码引擎](https://toutiao.io/k/gsosp6w) 
 - [2022-03-19-推荐-最常用的架构模式](https://toutiao.io/k/qnfl3t6) 
+- [2022-03-19-推荐-我的命令行开发环境-❤️](https://toutiao.io/k/hjda293) 
+- [2022-03-19-推荐-架构师如何选型分布式业务网关](https://toutiao.io/k/enmg99d) 

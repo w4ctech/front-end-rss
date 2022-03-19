@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-03-19 17:12:56，:rocket: 更新条数: +2020， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-03-19 17:38:03，:rocket: 更新条数: +2019， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-03-19-测试-telegram-的-sgk-机器人](https://www.v2ex.com/t/841558) ![](assets/new.png)  
 - [2022-03-19-大氢亡了升级-ColorOS-12,-个人使用感受就是以后国行一加除非有充足理由,-不然再见](https://www.v2ex.com/t/841557) ![](assets/new.png)  
 - [2022-03-19-请问有没有-失语且肢体表达受限患者-的发声解决方案？](https://www.v2ex.com/t/841556) ![](assets/new.png)  
 - [2022-03-19-一个的算法问题](https://www.v2ex.com/t/841555) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-03-19-使用-Quicker-实现「随机打开一个文件」](https://www.v2ex.com/t/841539) ![](assets/new.png)  
 - [2022-03-19-app-store-登录不上去了？](https://www.v2ex.com/t/841538) ![](assets/new.png)  
 - [2022-03-19-巴奴毛肚火锅招人啦，一起愉快的刷锅啊！](https://www.v2ex.com/t/841537) ![](assets/new.png)  
-- [2022-03-19-给-j1900-小主机装了-ubuntu-Linux](https://www.v2ex.com/t/841536) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -562,11 +562,11 @@
 - [2022-03-19-干货-|-Apache-Doris在小米集团的运维实践](https://toutiao.io/k/gncf129) ![](assets/new.png)  
 - [2022-03-19-最佳项目管理法则10条](https://toutiao.io/k/ghp6onb) ![](assets/new.png)  
 - [2022-03-19-源码游戏输入框架的设计基于Unity](https://toutiao.io/k/dlkiivq) ![](assets/new.png)  
-- [2022-03-19-推荐-我的命令行开发环境-❤️](https://toutiao.io/k/hjda293) ![](assets/new.png)  
-- [2022-03-19-推荐-最常用的架构模式](https://toutiao.io/k/qnfl3t6) ![](assets/new.png)  
 - [2022-03-19-推荐-阿里巴巴开源的低代码引擎](https://toutiao.io/k/gsosp6w) ![](assets/new.png)  
 - [2022-03-19-推荐-架构师如何选型分布式业务网关](https://toutiao.io/k/enmg99d) ![](assets/new.png)  
 - [2022-03-19-推荐-微服务如何划分](https://toutiao.io/k/f4vabj7) ![](assets/new.png)  
+- [2022-03-19-推荐-最常用的架构模式](https://toutiao.io/k/qnfl3t6) ![](assets/new.png)  
+- [2022-03-19-推荐-我的命令行开发环境-❤️](https://toutiao.io/k/hjda293) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

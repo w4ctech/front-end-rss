@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-03-19 06:15:55，:rocket: 更新条数: +2019， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-03-19 06:44:36，:rocket: 更新条数: +2020， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,11 @@
 </summary>
 
 
+- [2022-03-19-国外程序员更关注政治吗？](https://www.v2ex.com/t/841462) ![](assets/new.png)  
+- [2022-03-19-请教下大家，如果一个项目的模块多，业务多而杂，如何去熟悉/精通业务和架构同时并输出文档？](https://www.v2ex.com/t/841461) ![](assets/new.png)  
+- [2022-03-19-3-月-19-号腾讯云香港新加坡云服务器约-3-年-33-元-166-元-8-台](https://www.v2ex.com/t/841460) ![](assets/new.png)  
+- [2022-03-19-jar-包版本管理有感，想了解下大家是怎么样做的，以及这些遇到这些情况怎么处理](https://www.v2ex.com/t/841458) ![](assets/new.png)  
+- [2022-03-19-macOS-转接-HDMI2.1-输出-4K120-问题](https://www.v2ex.com/t/841457) ![](assets/new.png)  
 - [2022-03-19-大家如何处理台式机？？](https://www.v2ex.com/t/841456) ![](assets/new.png)  
 - [2022-03-19-才意识到-Apple-平台上的-PWA-体验这么差可能是有意而为之的](https://www.v2ex.com/t/841454) ![](assets/new.png)  
 - [2022-03-19-maxtech-拆解-mac-studio，看起来可以直接插-ssd-完成存储升级](https://www.v2ex.com/t/841453) ![](assets/new.png)  
@@ -506,11 +511,6 @@
 - [2022-03-19-macOS-上无法使用-iCloud-钥匙串](https://www.v2ex.com/t/841438) ![](assets/new.png)  
 - [2022-03-19-mac-里面最保值的应该是-Mac-mini-了吧？-12-年的-mini、12-年的-Mac-Pro，都差不多价格了](https://www.v2ex.com/t/841435) ![](assets/new.png)  
 - [2022-03-19-GitHub-clone-时总是非常慢，有梯子也不管用。有无优化方案？](https://www.v2ex.com/t/841434) ![](assets/new.png)  
-- [2022-03-19-原样复制-GPL-协议开源项目部分文件时文件开头的版权信息可以拿掉/换成自己的，然后在-项目-Third-Party-Notice-中说明使用了这个项目的代码吗？](https://www.v2ex.com/t/841433) ![](assets/new.png)  
-- [2022-03-19-北上广杭-网易各岗位热招中，有海量-HC，还不快来！](https://www.v2ex.com/t/841432) ![](assets/new.png)  
-- [2022-03-19-求助，一个比多重背包还要复杂一点的问题。](https://www.v2ex.com/t/841431) ![](assets/new.png)  
-- [2022-03-19-Mac-捷径里的截图-take-screenshot-为什么启动会延迟？](https://www.v2ex.com/t/841430) ![](assets/new.png)  
-- [2022-03-19-mac-的-chromedriver-安装遇到路径问题](https://www.v2ex.com/t/841429) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -562,11 +562,11 @@
 - [2022-03-19-源码游戏输入框架的设计基于Unity](https://toutiao.io/k/dlkiivq) ![](assets/new.png)  
 - [2022-03-19-日常开发部署时要避免的两个打爆磁盘的问题](https://toutiao.io/k/n16z1t6) ![](assets/new.png)  
 - [2022-03-19-最佳项目管理法则10条](https://toutiao.io/k/ghp6onb) ![](assets/new.png)  
-- [2022-03-19-推荐-我的命令行开发环境-❤️](https://toutiao.io/k/hjda293) ![](assets/new.png)  
 - [2022-03-19-推荐-架构师如何选型分布式业务网关](https://toutiao.io/k/enmg99d) ![](assets/new.png)  
+- [2022-03-19-推荐-最常用的架构模式](https://toutiao.io/k/qnfl3t6) ![](assets/new.png)  
+- [2022-03-19-推荐-我的命令行开发环境-❤️](https://toutiao.io/k/hjda293) ![](assets/new.png)  
 - [2022-03-19-推荐-阿里巴巴开源的低代码引擎](https://toutiao.io/k/gsosp6w) ![](assets/new.png)  
 - [2022-03-19-推荐-微服务如何划分](https://toutiao.io/k/f4vabj7) ![](assets/new.png)  
-- [2022-03-19-推荐-最常用的架构模式](https://toutiao.io/k/qnfl3t6) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

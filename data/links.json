@@ -9953,6 +9953,31 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "国外程序员更关注政治吗？",
+        "link": "https://www.v2ex.com/t/841462",
+        "date": "2022-03-19"
+      },
+      {
+        "title": "请教下大家，如果一个项目的模块多，业务多而杂，如何去熟悉/精通业务和架构同时并输出文档？",
+        "link": "https://www.v2ex.com/t/841461",
+        "date": "2022-03-19"
+      },
+      {
+        "title": "3 月 19 号腾讯云香港新加坡云服务器约 3 年 33 元-166 元 8 台",
+        "link": "https://www.v2ex.com/t/841460",
+        "date": "2022-03-19"
+      },
+      {
+        "title": "jar 包版本管理有感，想了解下大家是怎么样做的，以及这些遇到这些情况怎么处理",
+        "link": "https://www.v2ex.com/t/841458",
+        "date": "2022-03-19"
+      },
+      {
+        "title": "macOS 转接 HDMI2.1 输出 4K120 问题",
+        "link": "https://www.v2ex.com/t/841457",
+        "date": "2022-03-19"
+      },
+      {
         "title": "大家如何处理台式机？？",
         "link": "https://www.v2ex.com/t/841456",
         "date": "2022-03-19"
@@ -10126,26 +10151,6 @@
         "title": "真的有农村做酸菜用脚踩的吗？",
         "link": "https://www.v2ex.com/t/841413",
         "date": "2022-03-19"
-      },
-      {
-        "title": "Mac Studio 能够自己升级加硬盘",
-        "link": "https://www.v2ex.com/t/841412",
-        "date": "2022-03-19"
-      },
-      {
-        "title": "2022 年了，哪个 kafka golang 客户端好用点？",
-        "link": "https://www.v2ex.com/t/841411",
-        "date": "2022-03-19"
-      },
-      {
-        "title": "2022 年最期待的生产力笔记本 thinkbook 14+/16+",
-        "link": "https://www.v2ex.com/t/841409",
-        "date": "2022-03-19"
-      },
-      {
-        "title": "有没有比较精致的讲国内外考古发现的网站？",
-        "link": "https://www.v2ex.com/t/841407",
-        "date": "2022-03-19"
       }
     ]
   },
@@ -10307,13 +10312,18 @@
         "date": "2022-03-19"
       },
       {
-        "title": "[推荐] 我的命令行开发环境 ❤️",
-        "link": "https://toutiao.io/k/hjda293",
+        "title": "[推荐] 架构师如何选型分布式业务网关",
+        "link": "https://toutiao.io/k/enmg99d",
         "date": "2022-03-19"
       },
       {
-        "title": "[推荐] 架构师如何选型分布式业务网关",
-        "link": "https://toutiao.io/k/enmg99d",
+        "title": "[推荐] 最常用的架构模式",
+        "link": "https://toutiao.io/k/qnfl3t6",
+        "date": "2022-03-19"
+      },
+      {
+        "title": "[推荐] 我的命令行开发环境 ❤️",
+        "link": "https://toutiao.io/k/hjda293",
         "date": "2022-03-19"
       },
       {
@@ -10324,11 +10334,6 @@
       {
         "title": "[推荐] 微服务如何划分",
         "link": "https://toutiao.io/k/f4vabj7",
-        "date": "2022-03-19"
-      },
-      {
-        "title": "[推荐] 最常用的架构模式",
-        "link": "https://toutiao.io/k/qnfl3t6",
         "date": "2022-03-19"
       }
     ]

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-03-20 12:19:40，:rocket: 更新条数: +2022， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-03-20 12:55:07，:rocket: 更新条数: +2022， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,12 @@
 </summary>
 
 
+- [2022-03-20-京东俄罗斯国家馆貌似不能用-Apple-Pay-支付](https://www.v2ex.com/t/841688) ![](assets/new.png)  
+- [2022-03-20-X-宝上的-P4510-这种盘做长期储存可靠/可信吗](https://www.v2ex.com/t/841686) ![](assets/new.png)  
+- [2022-03-20-iPad-能连接到-Windows10-当写字板吗？](https://www.v2ex.com/t/841685) ![](assets/new.png)  
+- [2022-03-20-MacBook-睡眠了一碰就醒了真头大，还不如-Windows-的休眠。](https://www.v2ex.com/t/841684) ![](assets/new.png)  
+- [2022-03-20-腾讯会议钉钉这类软件在-macOS-下环境隔离](https://www.v2ex.com/t/841683) ![](assets/new.png)  
+- [2022-03-20-感觉仙剑-7-还行](https://www.v2ex.com/t/841682) ![](assets/new.png)  
 - [2022-03-20-现在的生活剧生活吗？](https://www.v2ex.com/t/841681) ![](assets/new.png)  
 - [2022-03-20-Java-，大量对象内存中计算，-oom-怎么处理哇。](https://www.v2ex.com/t/841680) ![](assets/new.png)  
 - [2022-03-20-“邻里邦”app-蓝牙解锁门禁能否设置快捷指令？](https://www.v2ex.com/t/841679) ![](assets/new.png)  
@@ -505,12 +511,6 @@
 - [2022-03-20-求职时被询问到中间几个月的空窗期，该如何解释？](https://www.v2ex.com/t/841668) ![](assets/new.png)  
 - [2022-03-20-请教-Linux-（debian11）开机挂载-nfs-的问题](https://www.v2ex.com/t/841667) ![](assets/new.png)  
 - [2022-03-20-nextdns-在国内有节点了，现在-nextdns-能直连成功吗？](https://www.v2ex.com/t/841665) ![](assets/new.png)  
-- [2022-03-20-vue-中-axios-如何实现异步并发，并且并发不因为某个请求失败而导致整个并发失败？](https://www.v2ex.com/t/841664) ![](assets/new.png)  
-- [2022-03-20-2022-了，作为程序员你有哪些副业？](https://www.v2ex.com/t/841663) ![](assets/new.png)  
-- [2022-03-20-如何申请深户？](https://www.v2ex.com/t/841662) ![](assets/new.png)  
-- [2022-03-20-有便宜的方法将多个域名的*.*指向一个-url?需要稳定性高一点](https://www.v2ex.com/t/841661) ![](assets/new.png)  
-- [2022-03-20-关于同时学-Python-和-C-的那些事](https://www.v2ex.com/t/841660) ![](assets/new.png)  
-- [2022-03-20-突然想做一个面向独立开发者和国外小公司的软件分发平台](https://www.v2ex.com/t/841659) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -565,9 +565,9 @@
 - [2022-03-20-初识WebAssembly：灵活、可移植、高性能](https://toutiao.io/k/ct75iot) ![](assets/new.png)  
 - [2022-03-20-推荐-微服务如何划分](https://toutiao.io/k/f4vabj7) ![](assets/new.png)  
 - [2022-03-20-推荐-架构师如何选型分布式业务网关](https://toutiao.io/k/enmg99d) ![](assets/new.png)  
-- [2022-03-20-推荐-最常用的架构模式](https://toutiao.io/k/qnfl3t6) ![](assets/new.png)  
-- [2022-03-20-推荐-阿里巴巴开源的低代码引擎](https://toutiao.io/k/gsosp6w) ![](assets/new.png)  
 - [2022-03-20-推荐-我的命令行开发环境-❤️](https://toutiao.io/k/hjda293) ![](assets/new.png)  
+- [2022-03-20-推荐-阿里巴巴开源的低代码引擎](https://toutiao.io/k/gsosp6w) ![](assets/new.png)  
+- [2022-03-20-推荐-最常用的架构模式](https://toutiao.io/k/qnfl3t6) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-03-20 12:19:40。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-03-20 12:55:07。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -15,4 +15,3 @@
 - [2021-01-01-大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html) 
 - [2022-03-20-有便宜的方法将多个域名的*.*指向一个-url?需要稳定性高一点](https://www.v2ex.com/t/841661) 
 - [2022-03-20-时代的眼泪｜-iTunes-时代的一些辅助软件-CoverSutra,-Bowtie-等](https://www.v2ex.com/t/841641) 
-- [2022-03-20-Surge-for-Mac-如何修改-Profile-Install-from-URL-的超时时间](https://www.v2ex.com/t/841637) 

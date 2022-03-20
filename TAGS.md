@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-03-20 05:12:24。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-03-20 05:36:03。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -345,7 +345,7 @@
 
 
 
-- [【V2EX】美国-洛杉矶-公司招聘前端啦！（远程工作）](https://www.v2ex.com/t/841569)
+- [【V2EX】2022-招聘啦，坐标上海-9-号线漕河泾地铁站，-D+轮公司，-Pre-IPO-申报中，招聘-Java-、前端、测试，工业互联、智能制造方向](https://www.v2ex.com/t/841619)
 - [......【查看更多】......](./details/tags/job-interview.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

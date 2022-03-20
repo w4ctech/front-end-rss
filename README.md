@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-03-20 00:50:20，:rocket: 更新条数: +2018， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-03-20 02:12:36，:rocket: 更新条数: +2019， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,13 @@
 </summary>
 
 
+- [2022-03-20-请教下大伙，有没有把一类窗口平铺到某一个桌面的办法？](https://www.v2ex.com/t/841586) ![](assets/new.png)  
+- [2022-03-20-HomePod-mini-升级了降智固件-15.4](https://www.v2ex.com/t/841584) ![](assets/new.png)  
+- [2022-03-20-如何让抖音的推荐质量高一点？](https://www.v2ex.com/t/841583) ![](assets/new.png)  
+- [2022-03-20-m1-MacBook-Air-一个雷电口突然无法充电了](https://www.v2ex.com/t/841581) ![](assets/new.png)  
+- [2022-03-20-brew-可以切换软件安装路径吗](https://www.v2ex.com/t/841580) ![](assets/new.png)  
+- [2022-03-20-m1-air-外接键盘讨论](https://www.v2ex.com/t/841579) ![](assets/new.png)  
+- [2022-03-20-能在线播放白噪声的网站推荐](https://www.v2ex.com/t/841577) ![](assets/new.png)  
 - [2022-03-20-密码控件使用不规范的-APP-如何使用密码管理器？](https://www.v2ex.com/t/841574) ![](assets/new.png)  
 - [2022-03-20-用-trackpad-的各位，怎么在-lauchpad-拖拽图标](https://www.v2ex.com/t/841573) ![](assets/new.png)  
 - [2022-03-20-Macbook-Pro-14-寸-M1-Pro-CPU-的-16G-内存开发够用吗](https://www.v2ex.com/t/841572) ![](assets/new.png)  
@@ -504,13 +511,6 @@
 - [2022-03-19-golang-的-net-库为什么接不到其他-tcp-消息？](https://www.v2ex.com/t/841562) ![](assets/new.png)  
 - [2022-03-19-大家-CalDigit-TS3-Plus-Dock-操作外设有噪声吗？](https://www.v2ex.com/t/841561) ![](assets/new.png)  
 - [2022-03-19-测试-telegram-的-sgk-机器人](https://www.v2ex.com/t/841558) ![](assets/new.png)  
-- [2022-03-19-大氢亡了升级-ColorOS-12,-个人使用感受就是以后国行一加除非有充足理由,-不然再见](https://www.v2ex.com/t/841557) ![](assets/new.png)  
-- [2022-03-19-请问有没有-失语且肢体表达受限患者-的发声解决方案？](https://www.v2ex.com/t/841556) ![](assets/new.png)  
-- [2022-03-19-一个的算法问题](https://www.v2ex.com/t/841555) ![](assets/new.png)  
-- [2022-03-19-C++-和-C#-哪个容易开发出用户体验好（占用资源小&好看&稳定&反应快）的跨-macOS/Windows-平台的桌面程序？](https://www.v2ex.com/t/841554) ![](assets/new.png)  
-- [2022-03-19-浦东-6、12、14-号线单间出租](https://www.v2ex.com/t/841553) ![](assets/new.png)  
-- [2022-03-19-好家伙，移动端新版-Web-直接把评论区全砍了？](https://www.v2ex.com/t/841552) ![](assets/new.png)  
-- [2022-03-19-有没有好心人收养橘猫，坐标南京](https://www.v2ex.com/t/841551) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -556,14 +556,18 @@
 - [2022-03-20-从前，有一个简单的通道系统叫尤娜……](https://toutiao.io/k/6kbx2kv) ![](assets/new.png)  
 - [2022-03-20-详解阿里2022裁员；支持符合条件的地区开展数字人民币试点；微信、抖音、淘宝、微博等头部-App-上线算法关闭键｜开发者头条](https://toutiao.io/k/7d5jfrx) ![](assets/new.png)  
 - [2022-03-20-我又来啦，带大家用python每天白嫖天翼云盘呀~](https://toutiao.io/k/dld0ygh) ![](assets/new.png)  
-- [2022-03-20-成为更好的开发者！行动起来！](https://toutiao.io/k/0qqtsd1) ![](assets/new.png)  
 - [2022-03-20-Go-高性能编程技法](https://toutiao.io/k/405ts7m) ![](assets/new.png)  
+- [2022-03-20-成为更好的开发者！行动起来！](https://toutiao.io/k/0qqtsd1) ![](assets/new.png)  
 - [2022-03-20-CGO-项目实战](https://toutiao.io/k/a2304fr) ![](assets/new.png)  
+- [2022-03-20-20年软件工程师的经验](https://toutiao.io/k/1a80zmb) ![](assets/new.png)  
+- [2022-03-20-如何从容应对复杂性](https://toutiao.io/k/ay455oc) ![](assets/new.png)  
+- [2022-03-20-深入解读腾讯云微搭低代码的技术架构](https://toutiao.io/k/up95s1h) ![](assets/new.png)  
+- [2022-03-20-同事凭一己之力实现了一个秒杀系统，老板人傻了。。。](https://toutiao.io/k/01w4l2k) ![](assets/new.png)  
 - [2022-03-20-推荐-阿里巴巴开源的低代码引擎](https://toutiao.io/k/gsosp6w) ![](assets/new.png)  
 - [2022-03-20-推荐-我的命令行开发环境-❤️](https://toutiao.io/k/hjda293) ![](assets/new.png)  
-- [2022-03-20-推荐-架构师如何选型分布式业务网关](https://toutiao.io/k/enmg99d) ![](assets/new.png)  
 - [2022-03-20-推荐-微服务如何划分](https://toutiao.io/k/f4vabj7) ![](assets/new.png)  
 - [2022-03-20-推荐-最常用的架构模式](https://toutiao.io/k/qnfl3t6) ![](assets/new.png)  
+- [2022-03-20-推荐-架构师如何选型分布式业务网关](https://toutiao.io/k/enmg99d) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

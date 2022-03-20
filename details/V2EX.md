@@ -1,10 +1,17 @@
-:alarm_clock: 更新时间: 2022-03-20 00:50:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-03-20 02:12:36。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-03-20-请教下大伙，有没有把一类窗口平铺到某一个桌面的办法？](https://www.v2ex.com/t/841586) 
+- [2022-03-20-HomePod-mini-升级了降智固件-15.4](https://www.v2ex.com/t/841584) 
+- [2022-03-20-如何让抖音的推荐质量高一点？](https://www.v2ex.com/t/841583) 
+- [2022-03-20-m1-MacBook-Air-一个雷电口突然无法充电了](https://www.v2ex.com/t/841581) 
+- [2022-03-20-brew-可以切换软件安装路径吗](https://www.v2ex.com/t/841580) 
+- [2022-03-20-m1-air-外接键盘讨论](https://www.v2ex.com/t/841579) 
+- [2022-03-20-能在线播放白噪声的网站推荐](https://www.v2ex.com/t/841577) 
 - [2022-03-20-密码控件使用不规范的-APP-如何使用密码管理器？](https://www.v2ex.com/t/841574) 
 - [2022-03-20-用-trackpad-的各位，怎么在-lauchpad-拖拽图标](https://www.v2ex.com/t/841573) 
 - [2022-03-20-Macbook-Pro-14-寸-M1-Pro-CPU-的-16G-内存开发够用吗](https://www.v2ex.com/t/841572) 
@@ -36,13 +43,3 @@
 - [2022-03-19-主机经常无法进入开机启动画面，拔内存再插入的话偶尔能进，是什么原因？](https://www.v2ex.com/t/841540) 
 - [2022-03-19-使用-Quicker-实现「随机打开一个文件」](https://www.v2ex.com/t/841539) 
 - [2022-03-19-app-store-登录不上去了？](https://www.v2ex.com/t/841538) 
-- [2022-03-19-巴奴毛肚火锅招人啦，一起愉快的刷锅啊！](https://www.v2ex.com/t/841537) 
-- [2022-03-19-给-j1900-小主机装了-ubuntu-Linux](https://www.v2ex.com/t/841536) 
-- [2022-03-19-MacBook-pro-2017-款](https://www.v2ex.com/t/841535) 
-- [2022-03-19-把最近-6-年的-GitHub-活跃图打印成了摆件](https://www.v2ex.com/t/841534) 
-- [2022-03-19-现在-stripe-把俄罗斯-VISA-和-Master-用户的支付直接-Block-了，有其他方式可以收俄罗斯用户的钱的-Gateway-吗，和-Stripe-类似的？](https://www.v2ex.com/t/841532) 
-- [2022-03-19-请问联想拯救者-Y700-能装-Play-Store-么？](https://www.v2ex.com/t/841531) 
-- [2022-03-19-有朋友遇到-macOS-的-Safari-自动返回上一页面的情况吗](https://www.v2ex.com/t/841530) 
-- [2022-03-19-一个面向-Geek-的写作空间：-GeekNote.net](https://www.v2ex.com/t/841528) 
-- [2022-03-19-求一些脑洞大开的电影](https://www.v2ex.com/t/841527) 
-- [2022-03-19-求助-有谁能看出来这个网站是用什么开源源码写的吗？](https://www.v2ex.com/t/841525) 

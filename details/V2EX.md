@@ -1,10 +1,14 @@
-:alarm_clock: 更新时间: 2022-03-20 10:39:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-03-20 11:12:29。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-03-20-能不能用电脑打固定电话](https://www.v2ex.com/t/841675) 
+- [2022-03-20-iOS-有时候真的很难用，但你们光骂不反馈不行的。](https://www.v2ex.com/t/841674) 
+- [2022-03-20-美区-ID-的大家来交换一下-tips，-Mac-通用控制、接力完全不能用啊](https://www.v2ex.com/t/841673) 
+- [2022-03-20-“摇一摇反馈-Bug”这种设计是国内软件首创的吗？容易误触发，真想反馈-bug-的用户大都不知道这个功能](https://www.v2ex.com/t/841672) 
 - [2022-03-20-请问怎么禁用通知栏-“选择输入法”](https://www.v2ex.com/t/841671) 
 - [2022-03-20-我的个人技术博客，主要是-Linux-方面的](https://www.v2ex.com/t/841670) 
 - [2022-03-20-发现-iOS-与-macOS-根据日落日出自动打开-Dark-模式的时间不一致](https://www.v2ex.com/t/841669) 
@@ -43,6 +47,3 @@
 - [2022-03-20-兼容-tmux-类似-rz-/-sz-的-trzsz-trz-/-tsz-现在支持-tabby-终端了](https://www.v2ex.com/t/841629) 
 - [2022-03-20-iOS-打包发布脚本分享给大家](https://www.v2ex.com/t/841628) 
 - [2022-03-20-Monterey-下怎么修改系统文件](https://www.v2ex.com/t/841627) 
-- [2022-03-20-关于借钱那点儿事儿](https://www.v2ex.com/t/841625) 
-- [2022-03-20-2022-年是选择-truenas-scale-还是-truenas-core-？](https://www.v2ex.com/t/841623) 
-- [2022-03-20-13pm-的闪屏问题](https://www.v2ex.com/t/841622) 

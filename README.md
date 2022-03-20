@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-03-20 15:41:10，:rocket: 更新条数: +2020， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-03-20 16:16:40，:rocket: 更新条数: +2021， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,9 @@
 </summary>
 
 
+- [2022-03-20-2022-年关于美区-ID-和支付](https://www.v2ex.com/t/841726) ![](assets/new.png)  
+- [2022-03-20-请教下-V2-的前辈们，大佬们。2022-年了。自学-PHP-和-Python-晚吗？](https://www.v2ex.com/t/841725) ![](assets/new.png)  
+- [2022-03-20-你的推特儿上关注了那些祖师爷级的人物/-大牛](https://www.v2ex.com/t/841723) ![](assets/new.png)  
 - [2022-03-20-315-狂欢末班车-腾讯云香港新加坡云服务器约-3-年-66-元-166-元-33-台-免费领-3-台约-3-年云服务器](https://www.v2ex.com/t/841722) ![](assets/new.png)  
 - [2022-03-20-这个-15.4-口罩解锁-不支持带眼镜啊](https://www.v2ex.com/t/841719) ![](assets/new.png)  
 - [2022-03-20-眼睛激光手术可以用医保里的钱吗](https://www.v2ex.com/t/841718) ![](assets/new.png)  
@@ -508,9 +511,6 @@
 - [2022-03-20-jquery-有什么树形可编辑表格的插件吗？](https://www.v2ex.com/t/841701) ![](assets/new.png)  
 - [2022-03-20-杭州租房拱墅区-5-号地铁口-4.5k，自住装修](https://www.v2ex.com/t/841700) ![](assets/new.png)  
 - [2022-03-20-大家使用哪些-DNS（DOT-和-DOH](https://www.v2ex.com/t/841698) ![](assets/new.png)  
-- [2022-03-20-关于-logseq-在多平台设置的问题](https://www.v2ex.com/t/841697) ![](assets/new.png)  
-- [2022-03-20-为什么-InputStream-类里的-close方法是一个空实现方法？](https://www.v2ex.com/t/841696) ![](assets/new.png)  
-- [2022-03-20-在上海找工作，今年外包格外多啊](https://www.v2ex.com/t/841695) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -563,11 +563,12 @@
 - [2022-03-20-成为更好的开发者！行动起来！](https://toutiao.io/k/0qqtsd1) ![](assets/new.png)  
 - [2022-03-20-使用新的物理模拟引擎加速强化学习](https://toutiao.io/k/u3uxmhp) ![](assets/new.png)  
 - [2022-03-20-初识WebAssembly：灵活、可移植、高性能](https://toutiao.io/k/ct75iot) ![](assets/new.png)  
-- [2022-03-20-推荐-微服务如何划分](https://toutiao.io/k/f4vabj7) ![](assets/new.png)  
-- [2022-03-20-推荐-架构师如何选型分布式业务网关](https://toutiao.io/k/enmg99d) ![](assets/new.png)  
-- [2022-03-20-推荐-我的命令行开发环境-❤️](https://toutiao.io/k/hjda293) ![](assets/new.png)  
-- [2022-03-20-推荐-阿里巴巴开源的低代码引擎](https://toutiao.io/k/gsosp6w) ![](assets/new.png)  
 - [2022-03-20-推荐-最常用的架构模式](https://toutiao.io/k/qnfl3t6) ![](assets/new.png)  
+- [2022-03-20-推荐-我的命令行开发环境-❤️](https://toutiao.io/k/hjda293) ![](assets/new.png)  
+- [2022-03-20-推荐-架构师如何选型分布式业务网关](https://toutiao.io/k/enmg99d) ![](assets/new.png)  
+- [2022-03-20-推荐-2万字-+-50-张图，细说-JVM-内存分布、内存对齐、压缩指针！](https://toutiao.io/k/02whm5c) ![](assets/new.png)  
+- [2022-03-20-推荐-阿里巴巴开源的低代码引擎](https://toutiao.io/k/gsosp6w) ![](assets/new.png)  
+- [2022-03-20-推荐-微服务如何划分](https://toutiao.io/k/f4vabj7) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

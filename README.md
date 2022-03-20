@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-03-20 17:38:04，:rocket: 更新条数: +2021， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-03-20 18:15:52，:rocket: 更新条数: +2021， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-03-20-opensuse-软件源的-gradle-为何锁死-4.4](https://www.v2ex.com/t/841735) ![](assets/new.png)  
 - [2022-03-20-有什么能自动通过-HTTPS-连接从权威来源获取当前准确时间转为-NTP-协议的开源服务端吗？或者程序在没有-UAC-权限的情况有办法修改-Windows-时间吗？](https://www.v2ex.com/t/841734) ![](assets/new.png)  
 - [2022-03-20-夜深了，失眠睡不着](https://www.v2ex.com/t/841733) ![](assets/new.png)  
 - [2022-03-20-5-号线良睦路-EFC-西溪丽晶单间出租（月底可入住）](https://www.v2ex.com/t/841732) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-03-20-兄弟们如果-cpu-温度过高或者风扇声音大的话试试更换硅脂](https://www.v2ex.com/t/841711) ![](assets/new.png)  
 - [2022-03-20-联想拯救者-R7000-2020-款经常无缘无故黑屏重启](https://www.v2ex.com/t/841710) ![](assets/new.png)  
 - [2022-03-20-问-222](https://www.v2ex.com/t/841709) ![](assets/new.png)  
-- [2022-03-20-ActionView-v1.13.0-发布，欢迎试用。](https://www.v2ex.com/t/841707) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -563,11 +563,11 @@
 - [2022-03-20-成为更好的开发者！行动起来！](https://toutiao.io/k/0qqtsd1) ![](assets/new.png)  
 - [2022-03-20-使用新的物理模拟引擎加速强化学习](https://toutiao.io/k/u3uxmhp) ![](assets/new.png)  
 - [2022-03-20-初识WebAssembly：灵活、可移植、高性能](https://toutiao.io/k/ct75iot) ![](assets/new.png)  
-- [2022-03-20-推荐-最常用的架构模式](https://toutiao.io/k/qnfl3t6) ![](assets/new.png)  
-- [2022-03-20-推荐-2万字-+-50-张图，细说-JVM-内存分布、内存对齐、压缩指针！](https://toutiao.io/k/02whm5c) ![](assets/new.png)  
-- [2022-03-20-推荐-我的命令行开发环境-❤️](https://toutiao.io/k/hjda293) ![](assets/new.png)  
-- [2022-03-20-推荐-架构师如何选型分布式业务网关](https://toutiao.io/k/enmg99d) ![](assets/new.png)  
 - [2022-03-20-推荐-微服务如何划分](https://toutiao.io/k/f4vabj7) ![](assets/new.png)  
+- [2022-03-20-推荐-最常用的架构模式](https://toutiao.io/k/qnfl3t6) ![](assets/new.png)  
+- [2022-03-20-推荐-架构师如何选型分布式业务网关](https://toutiao.io/k/enmg99d) ![](assets/new.png)  
+- [2022-03-20-推荐-我的命令行开发环境-❤️](https://toutiao.io/k/hjda293) ![](assets/new.png)  
+- [2022-03-20-推荐-2万字-+-50-张图，细说-JVM-内存分布、内存对齐、压缩指针！](https://toutiao.io/k/02whm5c) ![](assets/new.png)  
 - [2022-03-20-推荐-阿里巴巴开源的低代码引擎](https://toutiao.io/k/gsosp6w) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

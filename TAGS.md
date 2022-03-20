@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-03-20 09:13:48。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-03-20 09:38:32。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -153,7 +153,6 @@
 
 
 
-- [【V2EX】广东电信游戏宽带停售了，还有什么办法能弄到吗？](https://www.v2ex.com/t/841611)
 - [【技术头条】上架Steam一周的付费游戏，在GitHub开源了！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14983&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493708%26amp%3Bidx%3D1%26amp%3Bsn%3D1082a7525d5449a8cc0e789adb84dfe3%26amp%3Bchksm%3Dfa3f0917cd488001a9e21cb4f8ed85d331c858e1fc3fb0e47a23798a8ada565bfc1e5fc8221b%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [......【查看更多】......](./details/tags/dev-game.md)
 
@@ -284,6 +283,7 @@
 - [【武汉肺炎防疫全纪录(财新网)】腺病毒新冠疫苗引安全忧虑-康希诺称未发现血栓病例](https://m.caixin.com/m/2021-04-14/101691086.html)
 - [【武汉肺炎防疫全纪录(财新网)】解药|新冠mRNA疫苗安全性有哪些挑战？](https://m.caixin.com/m/2021-01-08/101648043.html)
 - [【武汉肺炎防疫全纪录(财新网)】大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html)
+- [【V2EX】有便宜的方法将多个域名的*.*指向一个-url?需要稳定性高一点](https://www.v2ex.com/t/841661)
 - [【V2EX】时代的眼泪｜-iTunes-时代的一些辅助软件-CoverSutra,-Bowtie-等](https://www.v2ex.com/t/841641)
 - [【V2EX】Surge-for-Mac-如何修改-Profile-Install-from-URL-的超时时间](https://www.v2ex.com/t/841637)
 - [......【查看更多】......](./details/tags/browser.md)

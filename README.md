@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-03-21 04:16:38，:rocket: 更新条数: +2028， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-03-21 04:47:44，:rocket: 更新条数: +2027， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,12 @@
 </summary>
 
 
+- [2022-03-21-Macbookpro-14-待机耗电飞快](https://www.v2ex.com/t/841820) ![](assets/new.png)  
+- [2022-03-21-知乎安卓版点几次就无响应了，强关重启周而复始](https://www.v2ex.com/t/841819) ![](assets/new.png)  
+- [2022-03-21-买了-PS5，大佬们说说有啥游戏好玩啊？](https://www.v2ex.com/t/841817) ![](assets/new.png)  
+- [2022-03-21-大家有没看过纪录片《人生七年》，谈谈作为普通人的大多数，你有哪些想法？](https://www.v2ex.com/t/841816) ![](assets/new.png)  
+- [2022-03-21-Figma-源文件-.fig-备份的油猴脚本](https://www.v2ex.com/t/841815) ![](assets/new.png)  
+- [2022-03-21-自己写服务器的时候信心满满，结果游戏上线后](https://www.v2ex.com/t/841814) ![](assets/new.png)  
 - [2022-03-21-这种情况你们会辞职吗？](https://www.v2ex.com/t/841813) ![](assets/new.png)  
 - [2022-03-21-路由器问题，求助](https://www.v2ex.com/t/841812) ![](assets/new.png)  
 - [2022-03-21-求套类似问答的知识库系统](https://www.v2ex.com/t/841811) ![](assets/new.png)  
@@ -505,12 +511,6 @@
 - [2022-03-21-这种平均滤波算法是什么意思？](https://www.v2ex.com/t/841799) ![](assets/new.png)  
 - [2022-03-21-IOS-上-Outlook-客户端总是重复推送订阅邮件的消息](https://www.v2ex.com/t/841798) ![](assets/new.png)  
 - [2022-03-21-liberal-和-libertarian-区别？](https://www.v2ex.com/t/841797) ![](assets/new.png)  
-- [2022-03-21-大三了只会增删改查](https://www.v2ex.com/t/841796) ![](assets/new.png)  
-- [2022-03-21-深圳-阿里集团-LAZADA-广招前端工程师内推，极速响应，极速安排电话面试](https://www.v2ex.com/t/841795) ![](assets/new.png)  
-- [2022-03-21-大佬们，求一个-pycharm-专业版](https://www.v2ex.com/t/841794) ![](assets/new.png)  
-- [2022-03-21-有玩-PT-下载的吗？-PTtime-开放注册一天](https://www.v2ex.com/t/841793) ![](assets/new.png)  
-- [2022-03-21-（求前辈们一点建议）本科-UCL-数学/华威数学/McGill-CS](https://www.v2ex.com/t/841791) ![](assets/new.png)  
-- [2022-03-21-上海-Shopee-上海研发中心内推，团队氛围极其友好,-HC-不限](https://www.v2ex.com/t/841789) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -565,14 +565,14 @@
 - [2022-03-21-蓝昶：谷歌分布式机器学习优化实践](https://toutiao.io/k/s16zhqi) ![](assets/new.png)  
 - [2022-03-21-微服务的扫地僧--Dapr中文v1.5发布！](https://toutiao.io/k/c6iq8sr) ![](assets/new.png)  
 - [2022-03-21-Apache-Flink-在斗鱼的应用与实践](https://toutiao.io/k/nob612b) ![](assets/new.png)  
-- [2022-03-21-项目管理初学者指南](https://toutiao.io/k/f4kg3o6) ![](assets/new.png)  
 - [2022-03-21-React-router-v6-该怎么用？](https://toutiao.io/k/7kplkca) ![](assets/new.png)  
+- [2022-03-21-项目管理初学者指南](https://toutiao.io/k/f4kg3o6) ![](assets/new.png)  
 - [2022-03-21-什么样的模块是关键模块？](https://toutiao.io/k/ywrh1ye) ![](assets/new.png)  
 - [2022-03-21-如何评估神经网络的"鲁棒性"？一种通用方法：CLEVER](https://toutiao.io/k/mb27rpv) ![](assets/new.png)  
 - [2022-03-21-推荐-微服务如何划分](https://toutiao.io/k/f4vabj7) ![](assets/new.png)  
-- [2022-03-21-推荐-架构师如何选型分布式业务网关](https://toutiao.io/k/enmg99d) ![](assets/new.png)  
+- [2022-03-21-推荐-我的命令行开发环境-❤️](https://toutiao.io/k/hjda293) ![](assets/new.png)  
+- [2022-03-21-推荐-最常用的架构模式](https://toutiao.io/k/qnfl3t6) ![](assets/new.png)  
 - [2022-03-21-推荐-2万字-+-50-张图，细说-JVM-内存分布、内存对齐、压缩指针！](https://toutiao.io/k/02whm5c) ![](assets/new.png)  
-- [2022-03-21-推荐-阿里巴巴开源的低代码引擎](https://toutiao.io/k/gsosp6w) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

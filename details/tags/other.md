@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-03-21 19:36:07。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-03-21 20:14:41。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1942,7 +1942,6 @@
 - [2022-03-21-编写网站的技术文档模板选择？](https://www.v2ex.com/t/841942) 
 - [2022-03-21-如何防止选中命令行工具上的文字时导致-print阻塞？](https://www.v2ex.com/t/841941) 
 - [2022-03-21-有关-Oracle-数据库主键使用自增策略，存在什么坑吗？](https://www.v2ex.com/t/841940) 
-- [2022-03-21-请问如何用流程图表现出多叉树后序遍历](https://www.v2ex.com/t/841938) 
 - [2022-03-21-敏捷测试的指导性原则-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14986&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fagile-testing-guidelines%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-03-21-用归零的心态，做好团队回顾-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14985&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-make-effective-retrospective%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-03-21-书单嵌入式、C语言编程书籍-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14982&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493708%26amp%3Bidx%3D2%26amp%3Bsn%3D8912c67f39a11e5c64a6f0cc7e0c0c7f%26amp%3Bchksm%3Dfa3f0917cd48800188d3b29be8afbb3d13e5d5837c0b52052115688b4f57b307a1dfa3f14b3e%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1973,8 +1972,8 @@
 - [2022-03-21-万能的list列表，python中的堆栈、队列实现全靠它！](https://toutiao.io/k/tjaeqfb) 
 - [2022-03-21-K8S-生态周报|-Argo-Workflows-新版本发布，带来众多新特性](https://toutiao.io/k/uqwud06) 
 - [2022-03-21-动态卡片：富媒体内容井喷式增长下，新一代移动端动态研发的模式](https://toutiao.io/k/xs545s8) 
-- [2022-03-21-推荐-我的命令行开发环境-❤️](https://toutiao.io/k/hjda293) 
-- [2022-03-21-推荐-阿里巴巴开源的低代码引擎](https://toutiao.io/k/gsosp6w) 
-- [2022-03-21-推荐-最常用的架构模式](https://toutiao.io/k/qnfl3t6) 
 - [2022-03-21-推荐-2万字-+-50-张图，细说-JVM-内存分布、内存对齐、压缩指针！](https://toutiao.io/k/02whm5c) 
+- [2022-03-21-推荐-阿里巴巴开源的低代码引擎](https://toutiao.io/k/gsosp6w) 
+- [2022-03-21-推荐-我的命令行开发环境-❤️](https://toutiao.io/k/hjda293) 
 - [2022-03-21-推荐-架构师如何选型分布式业务网关](https://toutiao.io/k/enmg99d) 
+- [2022-03-21-推荐-最常用的架构模式](https://toutiao.io/k/qnfl3t6) 

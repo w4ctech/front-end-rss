@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-03-21 16:56:16。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-03-21 17:16:35。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -162,7 +162,6 @@
 - [【V2EX】2022-03-21-阿里巴巴达摩院---23-级校园招聘（前端、测试）](https://www.v2ex.com/t/841937) 
 - [【V2EX】2022-03-21-等重要电话，可以分发到多个手机上吗？](https://www.v2ex.com/t/841936) 
 - [【V2EX】2022-03-21-一个开源的镜像风险检测工具（镜像后门、恶意样本、敏感信息、弱口令、异常历史命令）](https://www.v2ex.com/t/841935) 
-- [【V2EX】2022-03-21-开发机推荐-主要-C++-C#-TS-OpenCV-ML](https://www.v2ex.com/t/841934) 
 - [【技术头条】2022-03-21-敏捷测试的指导性原则-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14986&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fagile-testing-guidelines%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-03-21-用归零的心态，做好团队回顾-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14985&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-make-effective-retrospective%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-03-21-基于-C++-的-Android-协程设计-kymjs.com](https://blogread.cn/news/go.php?idItem=14984&url=https%3A%2F%2Fkymjs.com%2Fcode%2F2022%2F02%2F26%2F01%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -204,11 +203,11 @@
 - [【开发者头条】2022-03-21-万能的list列表，python中的堆栈、队列实现全靠它！](https://toutiao.io/k/tjaeqfb) 
 - [【开发者头条】2022-03-21-K8S-生态周报|-Argo-Workflows-新版本发布，带来众多新特性](https://toutiao.io/k/uqwud06) 
 - [【开发者头条】2022-03-21-动态卡片：富媒体内容井喷式增长下，新一代移动端动态研发的模式](https://toutiao.io/k/xs545s8) 
-- [【开发者头条】2022-03-21-推荐-我的命令行开发环境-❤️](https://toutiao.io/k/hjda293) 
-- [【开发者头条】2022-03-21-推荐-架构师如何选型分布式业务网关](https://toutiao.io/k/enmg99d) 
-- [【开发者头条】2022-03-21-推荐-最常用的架构模式](https://toutiao.io/k/qnfl3t6) 
 - [【开发者头条】2022-03-21-推荐-2万字-+-50-张图，细说-JVM-内存分布、内存对齐、压缩指针！](https://toutiao.io/k/02whm5c) 
+- [【开发者头条】2022-03-21-推荐-架构师如何选型分布式业务网关](https://toutiao.io/k/enmg99d) 
 - [【开发者头条】2022-03-21-推荐-阿里巴巴开源的低代码引擎](https://toutiao.io/k/gsosp6w) 
+- [【开发者头条】2022-03-21-推荐-最常用的架构模式](https://toutiao.io/k/qnfl3t6) 
+- [【开发者头条】2022-03-21-推荐-我的命令行开发环境-❤️](https://toutiao.io/k/hjda293) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

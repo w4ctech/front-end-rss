@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-03-21 16:18:14，:rocket: 更新条数: +2030， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-03-21 16:56:16，:rocket: 更新条数: +2029， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,11 +491,12 @@
 </summary>
 
 
+- [2022-03-21-Parallels-Desktop-中的-windows-环境怎么设置固定-ip-呀？](https://www.v2ex.com/t/841983) ![](assets/new.png)  
+- [2022-03-21-go-泛型函数的单元测试实在是太"难"写了](https://www.v2ex.com/t/841982) ![](assets/new.png)  
 - [2022-03-21-上海校招-野村信息-2022-暑期实习生开始招募啦](https://www.v2ex.com/t/841981) ![](assets/new.png)  
 - [2022-03-21-求问支持-QMK-的-60%入门套件](https://www.v2ex.com/t/841980) ![](assets/new.png)  
 - [2022-03-21-请教大佬们-ViewBinding-和-findViewById-的差异](https://www.v2ex.com/t/841977) ![](assets/new.png)  
 - [2022-03-21-大龄的程序员如果卷才能活下去呢？](https://www.v2ex.com/t/841976) ![](assets/new.png)  
-- [2022-03-21-最近总是感觉开发工作者跟性服务工作者差不多，如何摆脱这种想法？](https://www.v2ex.com/t/841975) ![](assets/new.png)  
 - [2022-03-21-coding.net-502---2022-年-3-月-21-日](https://www.v2ex.com/t/841973) ![](assets/new.png)  
 - [2022-03-21-人生的意义有感而发](https://www.v2ex.com/t/841971) ![](assets/new.png)  
 - [2022-03-21-2022-年-3-月，有-100-元左右的蓝牙耳机推荐么？（-iPhone-用，木耳朵，质量过得去就行）](https://www.v2ex.com/t/841970) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-03-21-妈妈今天走了，我好难受，妈妈](https://www.v2ex.com/t/841959) ![](assets/new.png)  
 - [2022-03-21-Python-重载问题](https://www.v2ex.com/t/841957) ![](assets/new.png)  
 - [2022-03-21-永久远程月薪-30-35K-招聘-Node-后端开发工程师-陌生人社交项目](https://www.v2ex.com/t/841956) ![](assets/new.png)  
-- [2022-03-21-PDD-这种互联网企业的用户数据是如何收集的？](https://www.v2ex.com/t/841955) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

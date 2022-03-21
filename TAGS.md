@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-03-21 17:39:24。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-03-21 18:16:38。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -349,7 +349,6 @@
 
 
 
-- [【V2EX】阿里巴巴达摩院---23-级校园招聘（前端、测试）](https://www.v2ex.com/t/841937)
 - [【开发者头条】面试官问我：如何设计一个秒杀场景？](https://toutiao.io/k/500rxou)
 - [......【查看更多】......](./details/tags/job-interview.md)
 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-03-21 22:39:44，:rocket: 更新条数: +2027， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-03-21 23:02:52，:rocket: 更新条数: +2007， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -553,26 +553,12 @@
 </summary>
 
 
-- [2022-03-21-深入理解Java类加载机制，再也不用死记硬背了](https://toutiao.io/k/7fz66me) ![](assets/new.png)  
-- [2022-03-21-46张图带你了解网络传输、WIFI、以太网协议和网络寻址](https://toutiao.io/k/bd2ld9s) ![](assets/new.png)  
-- [2022-03-21-成为更好的开发者！行动起来！](https://toutiao.io/k/0qqtsd1) ![](assets/new.png)  
-- [2022-03-21-Golang-如何优雅的终止一个服务？](https://toutiao.io/k/o368ejn) ![](assets/new.png)  
-- [2022-03-21-华为天才少年稚晖君自制的，又萌又硬的桌面小机器人，开源了！](https://toutiao.io/k/9o0g54r) ![](assets/new.png)  
-- [2022-03-21-微服务的扫地僧--Dapr中文v1.5发布！](https://toutiao.io/k/c6iq8sr) ![](assets/new.png)  
-- [2022-03-21-面试官问我：如何设计一个秒杀场景？](https://toutiao.io/k/500rxou) ![](assets/new.png)  
-- [2022-03-21-Go1.18泛型编程体验](https://toutiao.io/k/fq5drnb) ![](assets/new.png)  
-- [2022-03-21-项目管理初学者指南](https://toutiao.io/k/f4kg3o6) ![](assets/new.png)  
-- [2022-03-21-Apache-Flink-在斗鱼的应用与实践](https://toutiao.io/k/nob612b) ![](assets/new.png)  
-- [2022-03-21-太顺手了！Java开发中那些非常好用的工具](https://toutiao.io/k/4clfoez) ![](assets/new.png)  
-- [2022-03-21-蓝昶：谷歌分布式机器学习优化实践](https://toutiao.io/k/s16zhqi) ![](assets/new.png)  
-- [2022-03-21-让你更懂-React-Fiber](https://toutiao.io/k/md9yxi3) ![](assets/new.png)  
-- [2022-03-21-张朝阳开课手推E=mc²，李永乐现场狂做笔记！CEO当太久都忘了他是MIT物理博士](https://toutiao.io/k/om9w0l5) ![](assets/new.png)  
-- [2022-03-21-React-router-v6-该怎么用？](https://toutiao.io/k/7kplkca) ![](assets/new.png)  
-- [2022-03-21-什么样的模块是关键模块？](https://toutiao.io/k/ywrh1ye) ![](assets/new.png)  
-- [2022-03-21-如何评估神经网络的"鲁棒性"？一种通用方法：CLEVER](https://toutiao.io/k/mb27rpv) ![](assets/new.png)  
-- [2022-03-21-电子检索实体书「GitHub-热点速览-v.22.12」](https://toutiao.io/k/xaanxtd) ![](assets/new.png)  
-- [2022-03-21-万能的list列表，python中的堆栈、队列实现全靠它！](https://toutiao.io/k/tjaeqfb) ![](assets/new.png)  
-- [2022-03-21-K8S-生态周报|-Argo-Workflows-新版本发布，带来众多新特性](https://toutiao.io/k/uqwud06) ![](assets/new.png)  
+- [2022-03-21-幸福生活的三大准则｜码农周刊VIP会员专属邮件周报-Vol.084](https://toutiao.io/k/6tbdnkv) ![](assets/new.png)  
+- [2022-03-21-推荐-2万字-+-50-张图，细说-JVM-内存分布、内存对齐、压缩指针！](https://toutiao.io/k/02whm5c) ![](assets/new.png)  
+- [2022-03-21-推荐-我的命令行开发环境-❤️](https://toutiao.io/k/hjda293) ![](assets/new.png)  
+- [2022-03-21-推荐-架构师如何选型分布式业务网关](https://toutiao.io/k/enmg99d) ![](assets/new.png)  
+- [2022-03-21-推荐-阿里巴巴开源的低代码引擎](https://toutiao.io/k/gsosp6w) ![](assets/new.png)  
+- [2022-03-21-推荐-最常用的架构模式](https://toutiao.io/k/qnfl3t6) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

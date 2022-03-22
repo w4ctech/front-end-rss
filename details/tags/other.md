@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-03-22 22:39:14。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-03-22 23:03:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1913,6 +1913,7 @@
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2022-03-21-ascent-override-descent-override-line-gap-override一锅端](https://www.zhangxinxu.com/wordpress/2022/03/css-ascent-override-descent/) 
 - [2022-02-04-HTML-inputmode与iOS-Android软键盘类型测试](https://www.zhangxinxu.com/wordpress/2022/02/html-inputmode-keyboard/) 
+- [2022-03-22-Linux-缩放只有-100-和-200-怎么破](https://www.v2ex.com/t/842234) 
 - [2022-03-22-提醒，-leomm-发的腾讯云服务器优惠活动指的是轻量应用服务器](https://www.v2ex.com/t/842233) 
 - [2022-03-22-请问可否解除一下账号上的降权？](https://www.v2ex.com/t/842231) 
 - [2022-03-22-升级了最新版的-mac-系统-显示器黑屏](https://www.v2ex.com/t/842230) 
@@ -1940,7 +1941,6 @@
 - [2022-03-22-「上海-&-杭州」抖音电商---供应链物流团队，期待各位-V2EXer-加入，加入我们搞事情。](https://www.v2ex.com/t/842192) 
 - [2022-03-22-屏幕使用时间无缘无故记录时间的-bug](https://www.v2ex.com/t/842190) 
 - [2022-03-22-刚学-go，发布一个用于管理零散脚本的工具：-opencmd，日常使用终端的同学肯定用的上](https://www.v2ex.com/t/842186) 
-- [2022-03-22-酷瓜云课堂（腾讯云版）v1.5.1-发布，-GPL-开源网课系统](https://www.v2ex.com/t/842184) 
 - [2022-03-22-敏捷测试的指导性原则-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14986&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fagile-testing-guidelines%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-03-22-用归零的心态，做好团队回顾-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=14985&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-make-effective-retrospective%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-03-22-书单嵌入式、C语言编程书籍-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14982&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493708%26amp%3Bidx%3D2%26amp%3Bsn%3D8912c67f39a11e5c64a6f0cc7e0c0c7f%26amp%3Bchksm%3Dfa3f0917cd48800188d3b29be8afbb3d13e5d5837c0b52052115688b4f57b307a1dfa3f14b3e%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1972,8 +1972,8 @@
 - [2022-03-22-Go-返回值命名还有存在的必要吗？](https://toutiao.io/k/rjgetrb) 
 - [2022-03-22-解锁一个新技能，如何在Python代码中使用表情包...](https://toutiao.io/k/vp2ovu4) 
 - [2022-03-22-完整性和一致性基石——GBase8s锁浅析](https://toutiao.io/k/xpu5ki4) 
-- [2022-03-22-推荐-最常用的架构模式](https://toutiao.io/k/qnfl3t6) 
-- [2022-03-22-推荐-我的命令行开发环境-❤️](https://toutiao.io/k/hjda293) 
-- [2022-03-22-推荐-阿里巴巴开源的低代码引擎](https://toutiao.io/k/gsosp6w) 
-- [2022-03-22-推荐-架构师如何选型分布式业务网关](https://toutiao.io/k/enmg99d) 
 - [2022-03-22-推荐-2万字-+-50-张图，细说-JVM-内存分布、内存对齐、压缩指针！](https://toutiao.io/k/02whm5c) 
+- [2022-03-22-推荐-阿里巴巴开源的低代码引擎](https://toutiao.io/k/gsosp6w) 
+- [2022-03-22-推荐-我的命令行开发环境-❤️](https://toutiao.io/k/hjda293) 
+- [2022-03-22-推荐-架构师如何选型分布式业务网关](https://toutiao.io/k/enmg99d) 
+- [2022-03-22-推荐-最常用的架构模式](https://toutiao.io/k/qnfl3t6) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-03-22 13:27:35，:rocket: 更新条数: +2033， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-03-22 13:42:05，:rocket: 更新条数: +2033， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-03-22-兄弟们，麻豆被抓了](https://www.v2ex.com/t/842197) ![](assets/new.png)  
+- [2022-03-22-2019-的-MBP，就这配置还能不能升级新系统？](https://www.v2ex.com/t/842196) ![](assets/new.png)  
 - [2022-03-22-Monterey-可用-QuickLook-插件讨论](https://www.v2ex.com/t/842195) ![](assets/new.png)  
 - [2022-03-22-Edge-看直播视频的问题](https://www.v2ex.com/t/842194) ![](assets/new.png)  
 - [2022-03-22-求职深圳-前端-2.5-年，-React-+-Typescript-技术栈](https://www.v2ex.com/t/842193) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-03-22-阿里公共-DNS-的-DoT-对-ECS-协议支持是不是有些问题？](https://www.v2ex.com/t/842177) ![](assets/new.png)  
 - [2022-03-22-如何用快捷键控制某单机游戏联网？](https://www.v2ex.com/t/842176) ![](assets/new.png)  
 - [2022-03-22-现在-GO-语言面试这么难吗？](https://www.v2ex.com/t/842175) ![](assets/new.png)  
-- [2022-03-22-更新-15.4-后，普通话-Siri-不能控制电视](https://www.v2ex.com/t/842174) ![](assets/new.png)  
-- [2022-03-22-求推荐主力号用的套餐](https://www.v2ex.com/t/842173) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

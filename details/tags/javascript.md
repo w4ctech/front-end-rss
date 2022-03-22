@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-03-22 05:36:46。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-03-22 06:16:12。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -15,6 +15,7 @@
 - [2021-03-03-港府回应一63岁患者死亡事件-暂无法确定与疫苗相关](https://m.caixin.com/m/2021-03-03/101670052.html) 
 - [2022-03-15-基于howler.js写了个音频播放器组件](https://www.zhangxinxu.com/wordpress/2022/03/howler-js-audio-player/) 
 - [2022-03-07-介绍8个和滚动相关的CSS属性](https://www.zhangxinxu.com/wordpress/2022/03/10-css-scroll-scrollbar/) 
+- [2022-03-22-北京-外企-MX-UX、数据挖掘、go、H5、产品经理、数据分析、音视频编解码、播放器客户端开发等](https://www.v2ex.com/t/842085) 
 - [2022-03-22-做一个基于-tailwind-的场景组件库咋样](https://www.v2ex.com/t/842074) 
 - [2022-03-22-求助正则表达式的正向否定预查，无法筛选某些字符串](https://www.v2ex.com/t/842059) 
 - [2022-03-22-基于-C++-的-Android-协程设计-kymjs.com](https://blogread.cn/news/go.php?idItem=14984&url=https%3A%2F%2Fkymjs.com%2Fcode%2F2022%2F02%2F26%2F01%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

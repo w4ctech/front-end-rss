@@ -9953,6 +9953,36 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "NVIDIA GTC 2022 Keynote",
+        "link": "https://www.v2ex.com/t/842216",
+        "date": "2022-03-22"
+      },
+      {
+        "title": "jdk18 ga",
+        "link": "https://www.v2ex.com/t/842214",
+        "date": "2022-03-22"
+      },
+      {
+        "title": "有在外置雷电接口硬盘装 mac 的人吗？怎么在这里面再装个 windows 呢？",
+        "link": "https://www.v2ex.com/t/842213",
+        "date": "2022-03-22"
+      },
+      {
+        "title": "iphone12pro ios15.3.1/15.4 50%电量放一晚上掉电至关机",
+        "link": "https://www.v2ex.com/t/842212",
+        "date": "2022-03-22"
+      },
+      {
+        "title": "有使用 cloud-hypervisor 的小伙伴一起交流下吗",
+        "link": "https://www.v2ex.com/t/842210",
+        "date": "2022-03-22"
+      },
+      {
+        "title": "妈妈生日快到了，求 2000-3000 价位的轻薄手机推荐",
+        "link": "https://www.v2ex.com/t/842209",
+        "date": "2022-03-22"
+      },
+      {
         "title": "[求职] [南京]",
         "link": "https://www.v2ex.com/t/842208",
         "date": "2022-03-22"
@@ -10115,41 +10145,6 @@
       {
         "title": "Web 3.0 是不平等的互联网",
         "link": "https://www.v2ex.com/t/842168",
-        "date": "2022-03-22"
-      },
-      {
-        "title": "目前有 IDL Check 的工具吗",
-        "link": "https://www.v2ex.com/t/842166",
-        "date": "2022-03-22"
-      },
-      {
-        "title": "Windows 有哪些好用聚合翻译 APP？",
-        "link": "https://www.v2ex.com/t/842165",
-        "date": "2022-03-22"
-      },
-      {
-        "title": "上海国企招聘前后端开发和架构",
-        "link": "https://www.v2ex.com/t/842164",
-        "date": "2022-03-22"
-      },
-      {
-        "title": "有深圳小伙伴想找 Go 方面的工作吗",
-        "link": "https://www.v2ex.com/t/842162",
-        "date": "2022-03-22"
-      },
-      {
-        "title": "安卓高级开发工程师（医疗行业）",
-        "link": "https://www.v2ex.com/t/842161",
-        "date": "2022-03-22"
-      },
-      {
-        "title": "在 cloudflare 买了一个.win 的域名，付款了后，一直不能使用，发邮件（提交工单）也没给我解决。",
-        "link": "https://www.v2ex.com/t/842160",
-        "date": "2022-03-22"
-      },
-      {
-        "title": "d2417h 出现两条竖纹（很细的）是不是报废的前兆",
-        "link": "https://www.v2ex.com/t/842159",
         "date": "2022-03-22"
       }
     ]
@@ -10372,8 +10367,8 @@
         "date": "2022-03-22"
       },
       {
-        "title": "[推荐] 我的命令行开发环境 ❤️",
-        "link": "https://toutiao.io/k/hjda293",
+        "title": "[推荐] 2万字 + 50 张图，细说 JVM 内存分布、内存对齐、压缩指针！",
+        "link": "https://toutiao.io/k/02whm5c",
         "date": "2022-03-22"
       },
       {
@@ -10382,8 +10377,8 @@
         "date": "2022-03-22"
       },
       {
-        "title": "[推荐] 2万字 + 50 张图，细说 JVM 内存分布、内存对齐、压缩指针！",
-        "link": "https://toutiao.io/k/02whm5c",
+        "title": "[推荐] 我的命令行开发环境 ❤️",
+        "link": "https://toutiao.io/k/hjda293",
         "date": "2022-03-22"
       },
       {

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-03-22 12:21:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-03-22 13:01:18。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -15,6 +15,7 @@
 - [2021-03-03-港府回应一63岁患者死亡事件-暂无法确定与疫苗相关](https://m.caixin.com/m/2021-03-03/101670052.html) 
 - [2022-03-15-基于howler.js写了个音频播放器组件](https://www.zhangxinxu.com/wordpress/2022/03/howler-js-audio-player/) 
 - [2022-03-07-介绍8个和滚动相关的CSS属性](https://www.zhangxinxu.com/wordpress/2022/03/10-css-scroll-scrollbar/) 
+- [2022-03-22-父组件直接属性传函数给子组件-VS-子组件-emit-方式的区别？](https://www.v2ex.com/t/842191) 
 - [2022-03-22-在线蹲一个方法，-JS-实现！](https://www.v2ex.com/t/842180) 
 - [2022-03-22-js-如何分辨-mac-用户的触控板事件与鼠标滚动事件](https://www.v2ex.com/t/842169) 
 - [2022-03-22-这里有个-js，浏览器能打开，-curl-却是-404，求解](https://www.v2ex.com/t/842150) 

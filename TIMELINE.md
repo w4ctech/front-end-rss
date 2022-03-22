@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-03-22 21:12:00。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-03-22 21:38:09。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -206,11 +206,11 @@
 - [【开发者头条】2022-03-22-Go-返回值命名还有存在的必要吗？](https://toutiao.io/k/rjgetrb) 
 - [【开发者头条】2022-03-22-解锁一个新技能，如何在Python代码中使用表情包...](https://toutiao.io/k/vp2ovu4) 
 - [【开发者头条】2022-03-22-完整性和一致性基石——GBase8s锁浅析](https://toutiao.io/k/xpu5ki4) 
-- [【开发者头条】2022-03-22-推荐-2万字-+-50-张图，细说-JVM-内存分布、内存对齐、压缩指针！](https://toutiao.io/k/02whm5c) 
-- [【开发者头条】2022-03-22-推荐-最常用的架构模式](https://toutiao.io/k/qnfl3t6) 
 - [【开发者头条】2022-03-22-推荐-我的命令行开发环境-❤️](https://toutiao.io/k/hjda293) 
-- [【开发者头条】2022-03-22-推荐-架构师如何选型分布式业务网关](https://toutiao.io/k/enmg99d) 
+- [【开发者头条】2022-03-22-推荐-最常用的架构模式](https://toutiao.io/k/qnfl3t6) 
 - [【开发者头条】2022-03-22-推荐-阿里巴巴开源的低代码引擎](https://toutiao.io/k/gsosp6w) 
+- [【开发者头条】2022-03-22-推荐-架构师如何选型分布式业务网关](https://toutiao.io/k/enmg99d) 
+- [【开发者头条】2022-03-22-推荐-2万字-+-50-张图，细说-JVM-内存分布、内存对齐、压缩指针！](https://toutiao.io/k/02whm5c) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

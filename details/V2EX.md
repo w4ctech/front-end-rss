@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2022-03-23 16:55:01。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-03-23 17:15:14。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-03-23-真正的苹果粉丝会带着自己的-iPhone-和-Apple-Watch-搬到亚利桑那州](https://www.v2ex.com/t/842493) 
+- [2022-03-23-为什么管理层会喜欢谈价值观，而不是说具体的解决方案](https://www.v2ex.com/t/842492) 
 - [2022-03-23-蹲一个-iCloud-的车-无需-apple-music](https://www.v2ex.com/t/842490) 
 - [2022-03-23-Android-10-Go-有浮窗的权限吗？](https://www.v2ex.com/t/842489) 
 - [2022-03-23-分享最近做的一个中文-wordle-的游戏《词影》](https://www.v2ex.com/t/842487) 
@@ -44,5 +46,3 @@
 - [2022-03-23-各位，请教一个蠢问题，-PostgreSQL-列转换成行的-SQL-写法，网上看了半天没看懂](https://www.v2ex.com/t/842447) 
 - [2022-03-23-北京联通-IPv6-问题](https://www.v2ex.com/t/842446) 
 - [2022-03-23-钉钉宜搭-2023-届春招实习](https://www.v2ex.com/t/842444) 
-- [2022-03-23-请各位帮忙看看这道题（Go），想了一天没想明白](https://www.v2ex.com/t/842443) 
-- [2022-03-23-22.04-起，-firefox-只提供-snap-包了](https://www.v2ex.com/t/842442) 

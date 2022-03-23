@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-03-23 00:56:45，:rocket: 更新条数: +2020， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-03-23 02:29:17，:rocket: 更新条数: +2024， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,26 +491,26 @@
 </summary>
 
 
+- [2022-03-23-iOS-不允许用户降级真的很辣鸡](https://www.v2ex.com/t/842264) ![](assets/new.png)  
+- [2022-03-23-宽带有-20m-的上行-也有公网-ip-能做些啥](https://www.v2ex.com/t/842262) ![](assets/new.png)  
+- [2022-03-23-游戏环境对新手不友好，是腾讯把重点由发展新用户转到留住老用户了吗？](https://www.v2ex.com/t/842261) ![](assets/new.png)  
+- [2022-03-23-Studio-Display-用的-ems-发货，卡在杭州萧山处理中心已经四天了。](https://www.v2ex.com/t/842260) ![](assets/new.png)  
+- [2022-03-23-今天打算裸辞了，完成没有心情再敲代码，出路在哪里？](https://www.v2ex.com/t/842259) ![](assets/new.png)  
+- [2022-03-23-go-make-与-new-关键词的区别](https://www.v2ex.com/t/842258) ![](assets/new.png)  
+- [2022-03-23-notify---一个已经支持-24-种渠道的便捷通知-SDK](https://www.v2ex.com/t/842257) ![](assets/new.png)  
+- [2022-03-23-求职武汉/深圳/杭州-Java-开发，三年工作经验](https://www.v2ex.com/t/842256) ![](assets/new.png)  
+- [2022-03-23-人力资源部长刚找我谈话，要我仍在岗位继续工作。](https://www.v2ex.com/t/842254) ![](assets/new.png)  
+- [2022-03-23-什么样的房屋隔音好](https://www.v2ex.com/t/842253) ![](assets/new.png)  
+- [2022-03-23-新入了-mac-mini，有稳定的显示器推荐吗？](https://www.v2ex.com/t/842252) ![](assets/new.png)  
+- [2022-03-23-北京联通，有公网-IP，但-80、443-端口被封情况下是否没有办法通过子域名反代访问家庭不同端口服务？](https://www.v2ex.com/t/842251) ![](assets/new.png)  
+- [2022-03-23-如何判断终端设备是否支持-802.11k-v-r？](https://www.v2ex.com/t/842248) ![](assets/new.png)  
+- [2022-03-23-上海-PHP-求职](https://www.v2ex.com/t/842247) ![](assets/new.png)  
+- [2022-03-23-windows-terminal-如何使用文件名作为-tab-名称？](https://www.v2ex.com/t/842245) ![](assets/new.png)  
+- [2022-03-23-微信聊天记录同步问题](https://www.v2ex.com/t/842244) ![](assets/new.png)  
+- [2022-03-23-OneFile-汇集了仅一个文件，好玩的开源项目](https://www.v2ex.com/t/842243) ![](assets/new.png)  
+- [2022-03-23-请教大家一个问题，-iphone12-的原装快充线](https://www.v2ex.com/t/842241) ![](assets/new.png)  
+- [2022-03-23-猫眼浏览器的-UI-真好看](https://www.v2ex.com/t/842240) ![](assets/new.png)  
 - [2022-03-23-如何让邮箱在系统邮件客户端提供“推送”？](https://www.v2ex.com/t/842239) ![](assets/new.png)  
-- [2022-03-23-ARM-主机的-Linux-和普通的-Linux-有什么区别吗（用途：跑-Jupyter-Notebook-做数据分析）](https://www.v2ex.com/t/842237) ![](assets/new.png)  
-- [2022-03-22-3000-以内有能放心给父母使用的-android-手机吗？](https://www.v2ex.com/t/842235) ![](assets/new.png)  
-- [2022-03-22-Linux-缩放只有-100-和-200-怎么破](https://www.v2ex.com/t/842234) ![](assets/new.png)  
-- [2022-03-22-提醒，-leomm-发的腾讯云服务器优惠活动指的是轻量应用服务器](https://www.v2ex.com/t/842233) ![](assets/new.png)  
-- [2022-03-22-这是我见过最好的游戏-Bundle](https://www.v2ex.com/t/842232) ![](assets/new.png)  
-- [2022-03-22-请问可否解除一下账号上的降权？](https://www.v2ex.com/t/842231) ![](assets/new.png)  
-- [2022-03-22-升级了最新版的-mac-系统-显示器黑屏](https://www.v2ex.com/t/842230) ![](assets/new.png)  
-- [2022-03-22-在量子计算机普及后，-RSA4096-和-Ed25519-哪个相对安全一点](https://www.v2ex.com/t/842229) ![](assets/new.png)  
-- [2022-03-22-看-brpc-文档，切换-bthread-和切换-pthread-耗时都是-3us，为什么-bthread-还有存在的必要呢](https://www.v2ex.com/t/842228) ![](assets/new.png)  
-- [2022-03-22-租房的老哥们,都买了啥?](https://www.v2ex.com/t/842227) ![](assets/new.png)  
-- [2022-03-22-为啥现在-Github-创建不了-MIT-了](https://www.v2ex.com/t/842225) ![](assets/new.png)  
-- [2022-03-22-WiFi-热点-AP-的其他实现方式？反向？直连？](https://www.v2ex.com/t/842224) ![](assets/new.png)  
-- [2022-03-22-14-寸-MacBook-更换屏幕后出现的系列问题！求助](https://www.v2ex.com/t/842223) ![](assets/new.png)  
-- [2022-03-22-flask-和-fastapi-及-bottle-如何多进程共享认证-token](https://www.v2ex.com/t/842222) ![](assets/new.png)  
-- [2022-03-22-想找能一起学习的人或者一起做些小项目](https://www.v2ex.com/t/842221) ![](assets/new.png)  
-- [2022-03-22-显示器支架真的是一个恨不能早买的东西](https://www.v2ex.com/t/842220) ![](assets/new.png)  
-- [2022-03-22-14-寸-MacBook-更换屏幕后出现的系列问题](https://www.v2ex.com/t/842219) ![](assets/new.png)  
-- [2022-03-22-远程工作，耳机有什么推荐](https://www.v2ex.com/t/842218) ![](assets/new.png)  
-- [2022-03-22-27-寸-5K-Studio-Display-看微信视频号-B-站画质掉渣马赛克一样,跟-YouTube-4K-8K-HDR-差别也太大了](https://www.v2ex.com/t/842217) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -561,11 +561,16 @@
 - [2022-03-23-7.-堪比JMeter的.Net压测工具---Crank-总结篇---crank带来了什么](https://toutiao.io/k/8agsg52) ![](assets/new.png)  
 - [2022-03-23-零基础理解-ESLint-核心原理](https://toutiao.io/k/x0xc2gs) ![](assets/new.png)  
 - [2022-03-23-Nydus-镜像加速插件迁入-Containerd-旗下](https://toutiao.io/k/b5fmfhf) ![](assets/new.png)  
-- [2022-03-23-推荐-2万字-+-50-张图，细说-JVM-内存分布、内存对齐、压缩指针！](https://toutiao.io/k/02whm5c) ![](assets/new.png)  
-- [2022-03-23-推荐-最常用的架构模式](https://toutiao.io/k/qnfl3t6) ![](assets/new.png)  
+- [2022-03-23-一年实现降本60%，货拉拉全链路监控演进史](https://toutiao.io/k/nrsy3uf) ![](assets/new.png)  
+- [2022-03-23-测试分类一共有多少种？](https://toutiao.io/k/w7udx6u) ![](assets/new.png)  
+- [2022-03-23-最佳实践｜Spring-Boot-应用如何快速接入-Prometheus-监控](https://toutiao.io/k/6kp7o6a) ![](assets/new.png)  
+- [2022-03-23-从建好到用好，阿里云原生微服务生态的演进](https://toutiao.io/k/emgjyy2) ![](assets/new.png)  
+- [2022-03-23-.NET-SourceGenerator-API接口生成实现类](https://toutiao.io/k/jnxdb2v) ![](assets/new.png)  
+- [2022-03-23-推荐-架构师如何选型分布式业务网关](https://toutiao.io/k/enmg99d) ![](assets/new.png)  
 - [2022-03-23-推荐-阿里巴巴开源的低代码引擎](https://toutiao.io/k/gsosp6w) ![](assets/new.png)  
 - [2022-03-23-推荐-我的命令行开发环境-❤️](https://toutiao.io/k/hjda293) ![](assets/new.png)  
-- [2022-03-23-推荐-架构师如何选型分布式业务网关](https://toutiao.io/k/enmg99d) ![](assets/new.png)  
+- [2022-03-23-推荐-2万字-+-50-张图，细说-JVM-内存分布、内存对齐、压缩指针！](https://toutiao.io/k/02whm5c) ![](assets/new.png)  
+- [2022-03-23-推荐-最常用的架构模式](https://toutiao.io/k/qnfl3t6) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

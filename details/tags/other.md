@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-03-23 21:37:27。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-03-23 22:13:48。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1974,7 +1974,7 @@
 - [2022-03-23-双轮驱动的技术架构设计](https://toutiao.io/k/la6ystr) 
 - [2022-03-23-一个文件的开源项目，开启你的开源之旅](https://toutiao.io/k/i7qnp7t) 
 - [2022-03-23-什么是-DevOps-可见度?](https://toutiao.io/k/exi9s26) 
-- [2022-03-23-推荐-2万字-+-50-张图，细说-JVM-内存分布、内存对齐、压缩指针！](https://toutiao.io/k/02whm5c) 
-- [2022-03-23-推荐-架构师如何选型分布式业务网关](https://toutiao.io/k/enmg99d) 
 - [2022-03-23-推荐-最常用的架构模式](https://toutiao.io/k/qnfl3t6) 
+- [2022-03-23-推荐-架构师如何选型分布式业务网关](https://toutiao.io/k/enmg99d) 
 - [2022-03-23-推荐-阿里巴巴开源的低代码引擎](https://toutiao.io/k/gsosp6w) 
+- [2022-03-23-推荐-2万字-+-50-张图，细说-JVM-内存分布、内存对齐、压缩指针！](https://toutiao.io/k/02whm5c) 

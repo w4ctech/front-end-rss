@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-03-23 04:16:05，:rocket: 更新条数: +2028， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-03-23 04:47:29，:rocket: 更新条数: +2026， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,11 +491,12 @@
 </summary>
 
 
+- [2022-03-23-求职-TypeScript-全栈-上家智慧工地相关-寻求各位指点和推荐新工作](https://www.v2ex.com/t/842313) ![](assets/new.png)  
+- [2022-03-23-怎么新增需求,让我有事干呢?](https://www.v2ex.com/t/842311) ![](assets/new.png)  
 - [2022-03-23-招算法的研究,-博士生,-助理等](https://www.v2ex.com/t/842309) ![](assets/new.png)  
 - [2022-03-23-九年了，-GitHub-终于能-follow-组织了](https://www.v2ex.com/t/842308) ![](assets/new.png)  
 - [2022-03-23-Mac-系统-Chrome-自动填充短信验证码](https://www.v2ex.com/t/842307) ![](assets/new.png)  
 - [2022-03-23-Apple-Watch-异常耗电或自动锁屏](https://www.v2ex.com/t/842306) ![](assets/new.png)  
-- [2022-03-23-来-shein-做同事，大公司，前景好](https://www.v2ex.com/t/842305) ![](assets/new.png)  
 - [2022-03-23-mysql-联合索引的-column-数量-会影响到-B+树的阶吗？](https://www.v2ex.com/t/842304) ![](assets/new.png)  
 - [2022-03-23-我想问问大家留的都是什么发型？](https://www.v2ex.com/t/842303) ![](assets/new.png)  
 - [2022-03-23-寻找这么一种数据线](https://www.v2ex.com/t/842302) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-03-23-github-经常连不上，国内哪家-git-托管厂商好些？](https://www.v2ex.com/t/842292) ![](assets/new.png)  
 - [2022-03-23-是什么让做技术的你下定决心放弃北漂回到家乡！](https://www.v2ex.com/t/842291) ![](assets/new.png)  
 - [2022-03-23-vscode-有哪些好用的插件？](https://www.v2ex.com/t/842290) ![](assets/new.png)  
-- [2022-03-23-希望有这么一款手机](https://www.v2ex.com/t/842288) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -557,8 +557,8 @@
 - [2022-03-23-Go-1.18-新特性多模块工作区教程-让多模块开发变得简单](https://toutiao.io/k/jl3frtf) ![](assets/new.png)  
 - [2022-03-23-选对圈子，一切都对了！](https://toutiao.io/k/y0e6fbd) ![](assets/new.png)  
 - [2022-03-23-Node.js-动态表格大文件下载实践](https://toutiao.io/k/i33za77) ![](assets/new.png)  
-- [2022-03-23-基于Seatunnel连通Hive数仓和ClickHouse的实战](https://toutiao.io/k/iv3p4fa) ![](assets/new.png)  
 - [2022-03-23-7.-堪比JMeter的.Net压测工具---Crank-总结篇---crank带来了什么](https://toutiao.io/k/8agsg52) ![](assets/new.png)  
+- [2022-03-23-基于Seatunnel连通Hive数仓和ClickHouse的实战](https://toutiao.io/k/iv3p4fa) ![](assets/new.png)  
 - [2022-03-23-零基础理解-ESLint-核心原理](https://toutiao.io/k/x0xc2gs) ![](assets/new.png)  
 - [2022-03-23-Nydus-镜像加速插件迁入-Containerd-旗下](https://toutiao.io/k/b5fmfhf) ![](assets/new.png)  
 - [2022-03-23-一年实现降本60%，货拉拉全链路监控演进史](https://toutiao.io/k/nrsy3uf) ![](assets/new.png)  
@@ -566,11 +566,11 @@
 - [2022-03-23-测试分类一共有多少种？](https://toutiao.io/k/w7udx6u) ![](assets/new.png)  
 - [2022-03-23-从建好到用好，阿里云原生微服务生态的演进](https://toutiao.io/k/emgjyy2) ![](assets/new.png)  
 - [2022-03-23-.NET-SourceGenerator-API接口生成实现类](https://toutiao.io/k/jnxdb2v) ![](assets/new.png)  
-- [2022-03-23-推荐-我的命令行开发环境-❤️](https://toutiao.io/k/hjda293) ![](assets/new.png)  
 - [2022-03-23-推荐-2万字-+-50-张图，细说-JVM-内存分布、内存对齐、压缩指针！](https://toutiao.io/k/02whm5c) ![](assets/new.png)  
+- [2022-03-23-推荐-架构师如何选型分布式业务网关](https://toutiao.io/k/enmg99d) ![](assets/new.png)  
 - [2022-03-23-推荐-阿里巴巴开源的低代码引擎](https://toutiao.io/k/gsosp6w) ![](assets/new.png)  
 - [2022-03-23-推荐-最常用的架构模式](https://toutiao.io/k/qnfl3t6) ![](assets/new.png)  
-- [2022-03-23-推荐-架构师如何选型分布式业务网关](https://toutiao.io/k/enmg99d) ![](assets/new.png)  
+- [2022-03-23-推荐-我的命令行开发环境-❤️](https://toutiao.io/k/hjda293) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

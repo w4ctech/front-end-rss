@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-03-23 04:16:06。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-03-23 04:47:29。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -72,6 +72,7 @@
 
 
 
+- [【V2EX】求职-TypeScript-全栈-上家智慧工地相关-寻求各位指点和推荐新工作](https://www.v2ex.com/t/842313)
 - [......【查看更多】......](./details/tags/typescript.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -156,7 +157,6 @@
 
 
 
-- [【V2EX】游戏环境对新手不友好，是腾讯把重点由发展新用户转到留住老用户了吗？](https://www.v2ex.com/t/842261)
 - [【技术头条】上架Steam一周的付费游戏，在GitHub开源了！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14983&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493708%26amp%3Bidx%3D1%26amp%3Bsn%3D1082a7525d5449a8cc0e789adb84dfe3%26amp%3Bchksm%3Dfa3f0917cd488001a9e21cb4f8ed85d331c858e1fc3fb0e47a23798a8ada565bfc1e5fc8221b%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [......【查看更多】......](./details/tags/dev-game.md)
 

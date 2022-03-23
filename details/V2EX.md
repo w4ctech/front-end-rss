@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-03-23 18:45:03。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-03-23 19:11:50。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
@@ -45,4 +45,3 @@
 - [2022-03-23-关于-Mac-OS-通用控制-输入法切换的-Bug](https://www.v2ex.com/t/842450) 
 - [2022-03-23-有-STEPN-交流的吗？](https://www.v2ex.com/t/842449) 
 - [2022-03-23-vue-是否可以根据-route-获取到与之对应的-vue-实例对象吗？](https://www.v2ex.com/t/842448) 
-- [2022-03-23-各位，请教一个蠢问题，-PostgreSQL-列转换成行的-SQL-写法，网上看了半天没看懂](https://www.v2ex.com/t/842447) 

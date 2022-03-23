@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-03-23 06:16:52。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-03-23 06:46:29。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -55,7 +55,6 @@
 
 
 
-- [【V2EX】electron-打包-vue-项目后，启动加载-js-报错](https://www.v2ex.com/t/842300)
 - [......【查看更多】......](./details/tags/vue.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -185,7 +184,6 @@
 - [【张鑫旭-鑫空间-鑫生活】基于howler.js写了个音频播放器组件](https://www.zhangxinxu.com/wordpress/2022/03/howler-js-audio-player/)
 - [【张鑫旭-鑫空间-鑫生活】介绍8个和滚动相关的CSS属性](https://www.zhangxinxu.com/wordpress/2022/03/10-css-scroll-scrollbar/)
 - [【V2EX】bind9（递归）配置-ECS-不生效](https://www.v2ex.com/t/842322)
-- [【V2EX】javascript-各种循环性能问题要考虑么？](https://www.v2ex.com/t/842301)
 - [【技术头条】基于-C++-的-Android-协程设计-kymjs.com](https://blogread.cn/news/go.php?idItem=14984&url=https%3A%2F%2Fkymjs.com%2Fcode%2F2022%2F02%2F26%2F01%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【技术头条】2021年最佳JavaScript框架排名-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14980&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493629%26amp%3Bidx%3D2%26amp%3Bsn%3Dd08e370f799b050dc7206273191f2840%26amp%3Bchksm%3Dfa3f06a6cd488fb065b71894f60b9ac64a4ec84efed20d00736892b9328a0f91383403bd92c7%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【技术头条】9个超实用的JavaScript原生插件工具-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14969&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493512%26amp%3Bidx%3D2%26amp%3Bsn%3Da468f26f038143ce2dc3febc6b045909%26amp%3Bchksm%3Dfa3f06d3cd488fc5de14e3266bddfc8103a5895393f6b258d895629e7906464585ccbf539021%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
@@ -245,6 +243,7 @@
 
 - [【武汉肺炎防疫全纪录(财新网)】广州17岁男生在定点医院参加高考-特殊考场视频监考](https://m.caixin.com/m/2021-06-05/101723418.html)
 - [【武汉肺炎防疫全纪录(财新网)】林郑月娥率13高官直播接种科兴疫苗-复星疫苗预计周中到港](https://m.caixin.com/m/2021-02-22/101665724.html)
+- [【V2EX】如何实现一个摄像头视频服务如果推流端挂掉，用户观看的摄像头画面不停止，而是循环播放最后-3-分钟的视频？](https://www.v2ex.com/t/842353)
 - [【V2EX】国内视频网站用户体验-B-站应该是第一了吧？](https://www.v2ex.com/t/842341)
 - [【V2EX】直播回顾｜论道原生：容器网络的发展与演进](https://www.v2ex.com/t/842339)
 - [......【查看更多】......](./details/tags/audio-video.md)
@@ -353,6 +352,7 @@
 
 
 
+- [【V2EX】上海-|-传音移动互联-|-招聘-容器开发-|-go&k8s｜-16-薪](https://www.v2ex.com/t/842343)
 - [【开发者头条】如果你是一个Golang面试官，你会问哪些问题？](https://toutiao.io/k/yvw61mc)
 - [......【查看更多】......](./details/tags/job-interview.md)
 

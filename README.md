@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-03-23 06:16:52，:rocket: 更新条数: +2027， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-03-23 06:46:29，:rocket: 更新条数: +2025， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,14 @@
 </summary>
 
 
+- [2022-03-23-如何实现一个摄像头视频服务如果推流端挂掉，用户观看的摄像头画面不停止，而是循环播放最后-3-分钟的视频？](https://www.v2ex.com/t/842353) ![](assets/new.png)  
+- [2022-03-23-macos-如何跳过开机启动的-app？（一到某个-app-系统就崩）](https://www.v2ex.com/t/842351) ![](assets/new.png)  
+- [2022-03-23-新加坡技术移民机会-知名互联网公司，招前端开发，后端开发（不限开发语言），移动端（iOS,安卓,-RN），测试及测试开发，基础架构，运维及运维开发和-DBA-及...](https://www.v2ex.com/t/842350) ![](assets/new.png)  
+- [2022-03-23-如何实现图片合成到杯子上？](https://www.v2ex.com/t/842349) ![](assets/new.png)  
+- [2022-03-23-黑帕云怎么凉了啊？有人知道原因吗？](https://www.v2ex.com/t/842347) ![](assets/new.png)  
+- [2022-03-23-31-岁的技术还有人要吗](https://www.v2ex.com/t/842346) ![](assets/new.png)  
+- [2022-03-23-即将开启在家办公模式，-macbook-pro-外接显示器推荐一下？](https://www.v2ex.com/t/842344) ![](assets/new.png)  
+- [2022-03-23-上海-|-传音移动互联-|-招聘-容器开发-|-go&k8s｜-16-薪](https://www.v2ex.com/t/842343) ![](assets/new.png)  
 - [2022-03-23-萌新看过来，你还学不懂-VScode-插件吗？](https://www.v2ex.com/t/842342) ![](assets/new.png)  
 - [2022-03-23-国内视频网站用户体验-B-站应该是第一了吧？](https://www.v2ex.com/t/842341) ![](assets/new.png)  
 - [2022-03-23-京东买的显示器多次出现问题,每次一修就是返厂一个月没得用,我们只能认栽吗?](https://www.v2ex.com/t/842340) ![](assets/new.png)  
@@ -503,14 +511,6 @@
 - [2022-03-23-低工资想搞副业，不去-996-卷这样对吗...](https://www.v2ex.com/t/842330) ![](assets/new.png)  
 - [2022-03-23-IOS-更新-15.4-后，第三方充电头无法正常充电](https://www.v2ex.com/t/842328) ![](assets/new.png)  
 - [2022-03-23-一个临时解决电视上-netflix-提示代理的解决办法](https://www.v2ex.com/t/842327) ![](assets/new.png)  
-- [2022-03-23-老哥们，国内还有邮件列表云服务吗？](https://www.v2ex.com/t/842326) ![](assets/new.png)  
-- [2022-03-23-各位大都佬，用-docusaurus-在-GITHUB-自动渲染出错，哪位帮解决一下](https://www.v2ex.com/t/842325) ![](assets/new.png)  
-- [2022-03-23-bind9（递归）配置-ECS-不生效](https://www.v2ex.com/t/842322) ![](assets/new.png)  
-- [2022-03-23-问一下现在手机-IOS-有什么好用的划句翻译？](https://www.v2ex.com/t/842321) ![](assets/new.png)  
-- [2022-03-23-关贴有感，从一线回二三线，大家最舍不得是什么呢](https://www.v2ex.com/t/842317) ![](assets/new.png)  
-- [2022-03-23-请教下女孩子买包包时会买那种颜色相同但是品牌不同的吗](https://www.v2ex.com/t/842314) ![](assets/new.png)  
-- [2022-03-23-求职-TypeScript-全栈-上家智慧工地相关-寻求各位指点和推荐新工作](https://www.v2ex.com/t/842313) ![](assets/new.png)  
-- [2022-03-23-怎么新增需求,让我有事干呢?](https://www.v2ex.com/t/842311) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

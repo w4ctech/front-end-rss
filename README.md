@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-03-24 06:46:04，:rocket: 更新条数: +2025， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-03-24 07:13:32，:rocket: 更新条数: +2026， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,9 @@
 </summary>
 
 
+- [2022-03-24-MacBook-Air-M1-好像也没有那么好](https://www.v2ex.com/t/842614) ![](assets/new.png)  
+- [2022-03-24-什么条件才能在上海养一只狗狗？](https://www.v2ex.com/t/842613) ![](assets/new.png)  
+- [2022-03-24-为什么-Java-开发没有普遍使用-kotlin](https://www.v2ex.com/t/842611) ![](assets/new.png)  
 - [2022-03-24-上海-禾赛科技招聘测试工程师-&-测试开发经理](https://www.v2ex.com/t/842610) ![](assets/new.png)  
 - [2022-03-24-各位纳税大户，个税难题求帮！](https://www.v2ex.com/t/842609) ![](assets/new.png)  
 - [2022-03-24-vue3-做自适应-pc-和-moble-有什么方案吗？](https://www.v2ex.com/t/842608) ![](assets/new.png)  
@@ -508,9 +511,6 @@
 - [2022-03-24-发现北京联通的-123.123.123.123-这个-DNS-对于-cloudflare-的域名会有一定几率不能返回-A-记录](https://www.v2ex.com/t/842593) ![](assets/new.png)  
 - [2022-03-24-有啥可以自动化修改-word-chart-对象数据的方式](https://www.v2ex.com/t/842592) ![](assets/new.png)  
 - [2022-03-24-分享一些-Java-学习资料](https://www.v2ex.com/t/842590) ![](assets/new.png)  
-- [2022-03-24-你们的安卓项目都用-Jetpack-来构建了吗？](https://www.v2ex.com/t/842587) ![](assets/new.png)  
-- [2022-03-24-求加个美区家庭组](https://www.v2ex.com/t/842586) ![](assets/new.png)  
-- [2022-03-24-有什么开源的刷题、题库小程序的轮子，自己造轮子造了一上午](https://www.v2ex.com/t/842585) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -570,9 +570,9 @@
 - [2022-03-24-Golang反射原理](https://toutiao.io/k/ogc5siv) ![](assets/new.png)  
 - [2022-03-24-golang网络框架netpollMulti-Reactor模型核心源码分析](https://toutiao.io/k/s1obguw) ![](assets/new.png)  
 - [2022-03-24-Karmada-有趣的玩法：多集群监控](https://toutiao.io/k/52atbbb) ![](assets/new.png)  
-- [2022-03-24-推荐-面试官问，Redis-是单线程还是多线程?我懵了](https://toutiao.io/k/kd3u5dk) ![](assets/new.png)  
+- [2022-03-24-推荐-2万字-+-50-张图，细说-JVM-内存分布、内存对齐、压缩指针！](https://toutiao.io/k/02whm5c) ![](assets/new.png)  
 - [2022-03-24-推荐-最常用的架构模式](https://toutiao.io/k/qnfl3t6) ![](assets/new.png)  
-- [2022-03-24-推荐-阿里巴巴开源的低代码引擎](https://toutiao.io/k/gsosp6w) ![](assets/new.png)  
+- [2022-03-24-推荐-架构师如何选型分布式业务网关](https://toutiao.io/k/enmg99d) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

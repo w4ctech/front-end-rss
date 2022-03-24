@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-03-24 10:41:31。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-03-24 11:12:37。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -154,6 +154,7 @@
 
 
 
+- [【V2EX】有没有比较好上手的可以做主机游戏平台的工具，类似橙光那样的？](https://www.v2ex.com/t/842689)
 - [【V2EX】在做游戏社区的过程中自我察觉很孩子气或者有点点中二，想知道有人用这种心态能做成事吗？](https://www.v2ex.com/t/842667)
 - [【技术头条】上架Steam一周的付费游戏，在GitHub开源了！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14983&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493708%26amp%3Bidx%3D1%26amp%3Bsn%3D1082a7525d5449a8cc0e789adb84dfe3%26amp%3Bchksm%3Dfa3f0917cd488001a9e21cb4f8ed85d331c858e1fc3fb0e47a23798a8ada565bfc1e5fc8221b%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [......【查看更多】......](./details/tags/dev-game.md)
@@ -354,7 +355,6 @@
 
 - [【V2EX】今天-SUSE-大蜥蜴的-Senior-OS-Developer-面试不尽如人意，难受住了](https://www.v2ex.com/t/842665)
 - [【V2EX】坐标苏州，普通后端程序员失业一个月高薪就业面试心得指南](https://www.v2ex.com/t/842652)
-- [【V2EX】投隔壁大城市的企业，-hr-不同意线上面试，叫我过去租一个月的房子面试](https://www.v2ex.com/t/842642)
 - [【开发者头条】推荐-面试官问，Redis-是单线程还是多线程?我懵了](https://toutiao.io/k/kd3u5dk)
 - [......【查看更多】......](./details/tags/job-interview.md)
 

@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-03-24 03:05:41。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-03-24 03:45:07。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -349,8 +349,8 @@
 
 
 
+- [【V2EX】在家办公-美资-硅谷-软件-上海-全国-招聘运维开发-测试开发-大数据开发](https://www.v2ex.com/t/842552)
 - [【V2EX】分布式办公/全国招聘-招聘-Go-开发工程师](https://www.v2ex.com/t/842536)
-- [【V2EX】上海蜗牛科技招聘区块链工程师、合约开发工程师-25-50K](https://www.v2ex.com/t/842494)
 - [【开发者头条】推荐-面试官问，Redis-是单线程还是多线程?我懵了](https://toutiao.io/k/kd3u5dk)
 - [......【查看更多】......](./details/tags/job-interview.md)
 

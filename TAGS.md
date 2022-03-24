@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-03-24 12:22:14。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-03-24 13:01:26。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -156,7 +156,6 @@
 
 - [【V2EX】远程Web3SolidityNFT-国际化元宇宙/数字收藏类初创项目，前端/后端/全栈/智能合约/运维/游戏开发/自荐职位（032422-更新岗位信息）](https://www.v2ex.com/t/842701)
 - [【V2EX】有没有比较好上手的可以做主机游戏平台的工具，类似橙光那样的？](https://www.v2ex.com/t/842689)
-- [【V2EX】在做游戏社区的过程中自我察觉很孩子气或者有点点中二，想知道有人用这种心态能做成事吗？](https://www.v2ex.com/t/842667)
 - [【技术头条】上架Steam一周的付费游戏，在GitHub开源了！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14983&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493708%26amp%3Bidx%3D1%26amp%3Bsn%3D1082a7525d5449a8cc0e789adb84dfe3%26amp%3Bchksm%3Dfa3f0917cd488001a9e21cb4f8ed85d331c858e1fc3fb0e47a23798a8ada565bfc1e5fc8221b%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [......【查看更多】......](./details/tags/dev-game.md)
 
@@ -284,6 +283,7 @@
 - [【武汉肺炎防疫全纪录(财新网)】腺病毒新冠疫苗引安全忧虑-康希诺称未发现血栓病例](https://m.caixin.com/m/2021-04-14/101691086.html)
 - [【武汉肺炎防疫全纪录(财新网)】解药|新冠mRNA疫苗安全性有哪些挑战？](https://m.caixin.com/m/2021-01-08/101648043.html)
 - [【武汉肺炎防疫全纪录(财新网)】大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html)
+- [【V2EX】Mac-Safari-最近怎么总是自动退出网页登陆](https://www.v2ex.com/t/842713)
 - [【V2EX】Hubstudio-设置浏览器指纹防止网站追踪](https://www.v2ex.com/t/842680)
 - [【V2EX】大家浏览器收藏页面的书签分类都有哪些？](https://www.v2ex.com/t/842669)
 - [【开发者头条】Quantum（量子）攻击系统-–-美国国家安全局“APT-C-40”黑客组织高端网络攻击武器技术分析报告（一）](https://toutiao.io/k/egik67j)
@@ -319,6 +319,7 @@
 
 
 
+- [【V2EX】Nginx-能否实现将-Cloudflare-代理的-IP-替换为用户-IP？](https://www.v2ex.com/t/842705)
 - [【V2EX】nginx-反代-bitwarden-admin-页面求助](https://www.v2ex.com/t/842699)
 - [【开发者头条】Go-微服务工具包-Go-kit-怎么集成-gRPC？](https://toutiao.io/k/zczfvlt)
 - [......【查看更多】......](./details/tags/server.md)
@@ -354,7 +355,6 @@
 
 
 
-- [【V2EX】今天-SUSE-大蜥蜴的-Senior-OS-Developer-面试不尽如人意，难受住了](https://www.v2ex.com/t/842665)
 - [【开发者头条】推荐-面试官问，Redis-是单线程还是多线程?我懵了](https://toutiao.io/k/kd3u5dk)
 - [......【查看更多】......](./details/tags/job-interview.md)
 

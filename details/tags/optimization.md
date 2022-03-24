@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-03-24 04:16:42。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-03-24 04:48:03。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 性能优化
 
@@ -7,5 +7,4 @@
 
 
 
-- [2022-03-24-FastAPI-Amis-Admin:-一个拥有高性能,高效率,易拓展的-fastapi-管理后台框架](https://www.v2ex.com/t/842516) 
 - [2022-03-24-开源｜腾讯出品的，基于云原生技术的成本优化项目](https://toutiao.io/k/eu428cf) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-03-24 20:39:35，:rocket: 更新条数: +2028， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-03-24 21:13:25，:rocket: 更新条数: +2028， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-03-24-能否开发个投票功能？](https://www.v2ex.com/t/842755) ![](assets/new.png)  
 - [2022-03-24-iPhone-最近掉电快](https://www.v2ex.com/t/842754) ![](assets/new.png)  
 - [2022-03-24-换软路由了出红米-AX6-已刷-openwrt](https://www.v2ex.com/t/842752) ![](assets/new.png)  
 - [2022-03-24-请教一个今天面试中出现的问题](https://www.v2ex.com/t/842751) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-03-24-果然解决问题还得靠重启](https://www.v2ex.com/t/842732) ![](assets/new.png)  
 - [2022-03-24-北京移动宽带光猫改桥接后米家-APP-无法访问](https://www.v2ex.com/t/842731) ![](assets/new.png)  
 - [2022-03-24-LOGI-OPTIONS+-测试版-解决滚轮在-Universal-Control-下的问题](https://www.v2ex.com/t/842730) ![](assets/new.png)  
-- [2022-03-24-我-out-了，原来-macOS12-的-Safari-也可以直接复制图片内的文字](https://www.v2ex.com/t/842729) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -570,9 +570,9 @@
 - [2022-03-24-Quantum（量子）攻击系统-–-美国国家安全局“APT-C-40”黑客组织高端网络攻击武器技术分析报告（一）](https://toutiao.io/k/egik67j) ![](assets/new.png)  
 - [2022-03-24-golang网络框架netpollMulti-Reactor模型核心源码分析](https://toutiao.io/k/s1obguw) ![](assets/new.png)  
 - [2022-03-24-Karmada-有趣的玩法：多集群监控](https://toutiao.io/k/52atbbb) ![](assets/new.png)  
+- [2022-03-24-推荐-最常用的架构模式](https://toutiao.io/k/qnfl3t6) ![](assets/new.png)  
 - [2022-03-24-推荐-消息队列经典十连问，你能扛到第几问？](https://toutiao.io/k/8jfl3pp) ![](assets/new.png)  
-- [2022-03-24-推荐-面试官问，Redis-是单线程还是多线程?我懵了](https://toutiao.io/k/kd3u5dk) ![](assets/new.png)  
-- [2022-03-24-推荐-阿里巴巴开源的低代码引擎](https://toutiao.io/k/gsosp6w) ![](assets/new.png)  
+- [2022-03-24-推荐-2万字-+-50-张图，细说-JVM-内存分布、内存对齐、压缩指针！](https://toutiao.io/k/02whm5c) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

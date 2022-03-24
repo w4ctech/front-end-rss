@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-03-24 07:37:15，:rocket: 更新条数: +2027， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-03-24 08:16:30，:rocket: 更新条数: +2026， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,7 +491,18 @@
 </summary>
 
 
-- [2022-03-24-dpdk-项目需要顾问或者兼职](https://www.v2ex.com/t/842624) ![](assets/new.png)  
+- [2022-03-24-请教-mysql-里的有序的整数自增主键，加一个信息字段，这种结构，如何在-redis-里实现？](https://www.v2ex.com/t/842640) ![](assets/new.png)  
+- [2022-03-24-前腾讯产品-找一位区块链/NFT-领域技术创作合伙人](https://www.v2ex.com/t/842639) ![](assets/new.png)  
+- [2022-03-24-话费充值低至-85-折到-92-折-上批延期补贴-1-折-充话费送香港新加坡日本约-3-年服务器](https://www.v2ex.com/t/842638) ![](assets/new.png)  
+- [2022-03-24-Netflix-上面有国产片吗？](https://www.v2ex.com/t/842637) ![](assets/new.png)  
+- [2022-03-24-家宽公网搭建了-webdav，为了避免运营商发现，怎么禁止浏览器打开呢？或者有没有其他什么好的方式](https://www.v2ex.com/t/842633) ![](assets/new.png)  
+- [2022-03-24-优秀的项目实战课程推荐](https://www.v2ex.com/t/842632) ![](assets/new.png)  
+- [2022-03-24-在-vscode-中有没有插件能实现-Typescript-给字段定义接口后自动生成接口中的属性?](https://www.v2ex.com/t/842631) ![](assets/new.png)  
+- [2022-03-24-求助，-2014-款-MBP15-突然巨卡，无法使用，重装降级无效](https://www.v2ex.com/t/842630) ![](assets/new.png)  
+- [2022-03-24-这种钓鱼网站为什么要侮辱我智商](https://www.v2ex.com/t/842629) ![](assets/new.png)  
+- [2022-03-24-Apple-的-podcast播客消耗带宽很猛](https://www.v2ex.com/t/842628) ![](assets/new.png)  
+- [2022-03-24-线上-hibernate-开始用的好好的，突然报错了，重启应用又恢复正常](https://www.v2ex.com/t/842627) ![](assets/new.png)  
+- [2022-03-24-狒狒完成單機游戲還有救嗎](https://www.v2ex.com/t/842625) ![](assets/new.png)  
 - [2022-03-24-请教-关于-WebSocket-以及-JSMpeg.js-以及视频监控的问题](https://www.v2ex.com/t/842623) ![](assets/new.png)  
 - [2022-03-24-求问-RabbitMQ-一个-queue-多个-consumer-只有少部分能收到信息是怎么回事](https://www.v2ex.com/t/842621) ![](assets/new.png)  
 - [2022-03-24-电视-s/pdif-音频输出到音箱该用哪种转接线](https://www.v2ex.com/t/842620) ![](assets/new.png)  
@@ -500,17 +511,6 @@
 - [2022-03-24-MBP-同时接适配器和带反向供电的显示器为什么会掉电？](https://www.v2ex.com/t/842615) ![](assets/new.png)  
 - [2022-03-24-MacBook-Air-M1-好像也没有那么好](https://www.v2ex.com/t/842614) ![](assets/new.png)  
 - [2022-03-24-什么条件才能在上海养一只狗狗？](https://www.v2ex.com/t/842613) ![](assets/new.png)  
-- [2022-03-24-为什么-Java-开发没有普遍使用-kotlin](https://www.v2ex.com/t/842611) ![](assets/new.png)  
-- [2022-03-24-上海-禾赛科技招聘测试工程师-&-测试开发经理](https://www.v2ex.com/t/842610) ![](assets/new.png)  
-- [2022-03-24-各位纳税大户，个税难题求帮！](https://www.v2ex.com/t/842609) ![](assets/new.png)  
-- [2022-03-24-vue3-做自适应-pc-和-moble-有什么方案吗？](https://www.v2ex.com/t/842608) ![](assets/new.png)  
-- [2022-03-24-阿里云-云网络-齐天团队-2023-届暑期实习内推（可转正](https://www.v2ex.com/t/842606) ![](assets/new.png)  
-- [2022-03-24-请教下不规则的-Python-正则匹配](https://www.v2ex.com/t/842604) ![](assets/new.png)  
-- [2022-03-24-如何降低笔记本散热噪音](https://www.v2ex.com/t/842603) ![](assets/new.png)  
-- [2022-03-24-腾讯云车-2c2g30m96/年](https://www.v2ex.com/t/842602) ![](assets/new.png)  
-- [2022-03-24-腾讯云新春活动折上折-最低只要-18-一年-3-年-129-其他的包含秒杀再打-7-折-不用担心关联不上](https://www.v2ex.com/t/842601) ![](assets/new.png)  
-- [2022-03-24-问一个-Linux-上-nohup-和后台任务的问题](https://www.v2ex.com/t/842600) ![](assets/new.png)  
-- [2022-03-24-平时工作比较闲，有什么时候学习的网站推荐](https://www.v2ex.com/t/842599) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -557,22 +557,22 @@
 - [2022-03-24-开源｜腾讯出品的，基于云原生技术的成本优化项目](https://toutiao.io/k/eu428cf) ![](assets/new.png)  
 - [2022-03-24-Go-微服务工具包-Go-kit-怎么集成-gRPC？](https://toutiao.io/k/zczfvlt) ![](assets/new.png)  
 - [2022-03-24-什么是跨级管理与跨级上报](https://toutiao.io/k/zzgnacw) ![](assets/new.png)  
-- [2022-03-24-Flink-在米哈游的落地实践](https://toutiao.io/k/4yemxzp) ![](assets/new.png)  
 - [2022-03-24-一次关于架构的“嘴炮”](https://toutiao.io/k/ajzeree) ![](assets/new.png)  
+- [2022-03-24-Flink-在米哈游的落地实践](https://toutiao.io/k/4yemxzp) ![](assets/new.png)  
 - [2022-03-24-《剑指Offer：专项突破版》---栈部分-JavaScript-题解](https://toutiao.io/k/o77vowf) ![](assets/new.png)  
 - [2022-03-24-在量子材料模拟中实现精度](https://toutiao.io/k/8dqu1jy) ![](assets/new.png)  
 - [2022-03-24-【Modern-C++】深入理解移动语义](https://toutiao.io/k/0cmt8vo) ![](assets/new.png)  
-- [2022-03-24-Nest.js-是如何实现-AOP-架构的？](https://toutiao.io/k/h140pxu) ![](assets/new.png)  
 - [2022-03-24-低代码是什么？有什么优势](https://toutiao.io/k/mh3ya24) ![](assets/new.png)  
+- [2022-03-24-Nest.js-是如何实现-AOP-架构的？](https://toutiao.io/k/h140pxu) ![](assets/new.png)  
 - [2022-03-24-不讲武德，大家都用动态规划，你用蒙特卡洛瞎蒙？](https://toutiao.io/k/sxicusx) ![](assets/new.png)  
 - [2022-03-24-Quantum（量子）攻击系统-–-美国国家安全局“APT-C-40”黑客组织高端网络攻击武器技术分析报告（一）](https://toutiao.io/k/egik67j) ![](assets/new.png)  
 - [2022-03-24-设计模式系列——外观模式](https://toutiao.io/k/yl34345) ![](assets/new.png)  
 - [2022-03-24-Golang反射原理](https://toutiao.io/k/ogc5siv) ![](assets/new.png)  
 - [2022-03-24-Karmada-有趣的玩法：多集群监控](https://toutiao.io/k/52atbbb) ![](assets/new.png)  
 - [2022-03-24-golang网络框架netpollMulti-Reactor模型核心源码分析](https://toutiao.io/k/s1obguw) ![](assets/new.png)  
-- [2022-03-24-推荐-阿里巴巴开源的低代码引擎](https://toutiao.io/k/gsosp6w) ![](assets/new.png)  
 - [2022-03-24-推荐-消息队列经典十连问，你能扛到第几问？](https://toutiao.io/k/8jfl3pp) ![](assets/new.png)  
-- [2022-03-24-推荐-2万字-+-50-张图，细说-JVM-内存分布、内存对齐、压缩指针！](https://toutiao.io/k/02whm5c) ![](assets/new.png)  
+- [2022-03-24-推荐-最常用的架构模式](https://toutiao.io/k/qnfl3t6) ![](assets/new.png)  
+- [2022-03-24-推荐-面试官问，Redis-是单线程还是多线程?我懵了](https://toutiao.io/k/kd3u5dk) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-03-24 09:39:36。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-03-24 10:15:30。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## CSS
 
@@ -13,3 +13,5 @@
 - [2022-02-12-CSS-:not伪类选择器已支持复杂参数](https://www.zhangxinxu.com/wordpress/2022/02/css-not-pseudo-class-list-argument/) 
 - [2022-01-31-CSS-background背景图标的变色技巧](https://www.zhangxinxu.com/wordpress/2022/01/css-background-image-color/) 
 - [2022-01-14-纯CSS实现未读消息超过100自动显示为99+](https://www.zhangxinxu.com/wordpress/2022/01/css-show-diff-content-according-var/) 
+- [2022-03-24-分享一个生成动态-nft-的网站，可以自行下载动画](https://www.v2ex.com/t/842678) 
+- [2022-03-24-studio-display-的声音和-2-个-HomePod-mini-比起来怎样？](https://www.v2ex.com/t/842674) 

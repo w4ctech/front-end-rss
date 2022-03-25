@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-03-25 06:17:30，:rocket: 更新条数: +2031， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-03-25 06:46:48，:rocket: 更新条数: +2029， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,9 @@
 </summary>
 
 
+- [2022-03-25-MacBook-Pro-2015-外界显示器随机黑屏求助](https://www.v2ex.com/t/842856) ![](assets/new.png)  
+- [2022-03-25-同样是-MySQL-8，这个我问题我硬是没搞明白会这样，希望大家帮我分析一下](https://www.v2ex.com/t/842853) ![](assets/new.png)  
+- [2022-03-25-上海/杨浦-速石科技-内推-Java-/Golang-junior/senior-engineer](https://www.v2ex.com/t/842852) ![](assets/new.png)  
 - [2022-03-25-图床，前端有什么对接各大云服务-OSS-的产品吗？](https://www.v2ex.com/t/842851) ![](assets/new.png)  
 - [2022-03-25-接了个外包小项目，做网站的，客户问我要报价单，咋写阿？](https://www.v2ex.com/t/842849) ![](assets/new.png)  
 - [2022-03-25-隔离在家做点什么呢](https://www.v2ex.com/t/842848) ![](assets/new.png)  
@@ -508,9 +511,6 @@
 - [2022-03-25-分享一些-Spring-Cloud-学习资料](https://www.v2ex.com/t/842831) ![](assets/new.png)  
 - [2022-03-25-21-款-MBP-屏幕的蓝色残影问题](https://www.v2ex.com/t/842830) ![](assets/new.png)  
 - [2022-03-25-Macbook-12-登不进去了](https://www.v2ex.com/t/842829) ![](assets/new.png)  
-- [2022-03-25-不带-touch-bar-的-macbook，怎么使用拼写校正呢？](https://www.v2ex.com/t/842828) ![](assets/new.png)  
-- [2022-03-25-求一款-2.4g-无线的入耳游戏耳机](https://www.v2ex.com/t/842827) ![](assets/new.png)  
-- [2022-03-25-发现-64GB-iPhone-/-iPad-足够用了](https://www.v2ex.com/t/842826) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -555,16 +555,16 @@
 
 - [2022-03-25-时间轮原理及其在框架中的应用](https://toutiao.io/k/1dwwpfd) ![](assets/new.png)  
 - [2022-03-25-「GoCN酷Go推荐」后现代时代远程办公网络问题的golang开源解决方案-——-PairMesh](https://toutiao.io/k/bnh6bt7) ![](assets/new.png)  
-- [2022-03-25-数位上市公司-CTO-都在订阅，你还等什么？](https://toutiao.io/k/y2pfkty) ![](assets/new.png)  
 - [2022-03-25-不会这个技巧，成不了高级开发](https://toutiao.io/k/pjxqnnq) ![](assets/new.png)  
+- [2022-03-25-数位上市公司-CTO-都在订阅，你还等什么？](https://toutiao.io/k/y2pfkty) ![](assets/new.png)  
 - [2022-03-25-琚致远：95-后-Apache-Member-的成长之路](https://toutiao.io/k/jwkvxd8) ![](assets/new.png)  
-- [2022-03-25-有了jmespath，处理python中的json数据就变成了一种享受...](https://toutiao.io/k/92ci7ci) ![](assets/new.png)  
-- [2022-03-25-流程开放平台表单引擎的设计与实现](https://toutiao.io/k/o2s925x) ![](assets/new.png)  
 - [2022-03-25-京东二面：MySQL-主从延迟，读写分离-7-种解决方案](https://toutiao.io/k/iqa9o4a) ![](assets/new.png)  
+- [2022-03-25-流程开放平台表单引擎的设计与实现](https://toutiao.io/k/o2s925x) ![](assets/new.png)  
+- [2022-03-25-有了jmespath，处理python中的json数据就变成了一种享受...](https://toutiao.io/k/92ci7ci) ![](assets/new.png)  
 - [2022-03-25-Flink-Next：Beyond-Stream-Processing](https://toutiao.io/k/gqd796v) ![](assets/new.png)  
 - [2022-03-25-vivo-商品中台的可视化微前端实践](https://toutiao.io/k/qnjwz7d) ![](assets/new.png)  
-- [2022-03-25-深入浅出前端监控](https://toutiao.io/k/id2vuof) ![](assets/new.png)  
 - [2022-03-25-常见游戏特效学习与实现！](https://toutiao.io/k/udk7zty) ![](assets/new.png)  
+- [2022-03-25-深入浅出前端监控](https://toutiao.io/k/id2vuof) ![](assets/new.png)  
 - [2022-03-25-清华刘知远：大模型「十问」，寻找新范式下的研究方向](https://toutiao.io/k/6sns7ln) ![](assets/new.png)  
 - [2022-03-25-数据治理工作的8种推进套路！](https://toutiao.io/k/imb80z4) ![](assets/new.png)  
 - [2022-03-25-TensorFlow在美团外卖推荐场景的GPU训练优化实践](https://toutiao.io/k/u0kb7et) ![](assets/new.png)  
@@ -572,7 +572,7 @@
 - [2022-03-25-设计模式系列——享元模式](https://toutiao.io/k/3onlwh2) ![](assets/new.png)  
 - [2022-03-25-两步实现让antd与IDE和睦相处的处理案例](https://toutiao.io/k/ro3km69) ![](assets/new.png)  
 - [2022-03-25-二叉树的遍历方式二](https://toutiao.io/k/qnn5wcv) ![](assets/new.png)  
-- [2022-03-25-推荐-架构师如何选型分布式业务网关](https://toutiao.io/k/enmg99d) ![](assets/new.png)  
+- [2022-03-25-推荐-面试官问，Redis-是单线程还是多线程?我懵了](https://toutiao.io/k/kd3u5dk) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

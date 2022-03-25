@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-03-25 22:14:04，:rocket: 更新条数: +2027， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-03-25 22:40:04，:rocket: 更新条数: +2027， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -572,7 +572,7 @@
 - [2022-03-25-设计模式系列——享元模式](https://toutiao.io/k/3onlwh2) ![](assets/new.png)  
 - [2022-03-25-二叉树的遍历方式二](https://toutiao.io/k/qnn5wcv) ![](assets/new.png)  
 - [2022-03-25-两步实现让antd与IDE和睦相处的处理案例](https://toutiao.io/k/ro3km69) ![](assets/new.png)  
-- [2022-03-25-推荐-你管这破玩意儿叫高可用](https://toutiao.io/k/qudsbeg) ![](assets/new.png)  
+- [2022-03-25-推荐-2万字-+-50-张图，细说-JVM-内存分布、内存对齐、压缩指针！](https://toutiao.io/k/02whm5c) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

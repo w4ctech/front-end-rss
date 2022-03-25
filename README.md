@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-03-25 13:46:17，:rocket: 更新条数: +2029， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-03-25 14:12:09，:rocket: 更新条数: +2028， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-03-25-ipv6-有-DDNS-这样的东西吗？](https://www.v2ex.com/t/842947) ![](assets/new.png)  
+- [2022-03-25-光猫上获取的-ipv6-是/64-的，二级路由openwrt要怎么设置才能让下边的设备获取到-ipv6](https://www.v2ex.com/t/842946) ![](assets/new.png)  
 - [2022-03-25-提一个不要脸的问题，-v-站看了好几个周刊，如果我专门爬别人的周刊，聚合到一起，然后分-topic-推送，每个用户可以订阅多个-topic，这样会很不道德吗](https://www.v2ex.com/t/842944) ![](assets/new.png)  
 - [2022-03-25-杭州开发交流群有没有-V-友上车啊，搜了一下站内的，都加不了了](https://www.v2ex.com/t/842943) ![](assets/new.png)  
 - [2022-03-25-年纪大了,-卷不动了,-能学点英语能润到外企去么](https://www.v2ex.com/t/842942) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-03-25-安卓应用开发，监听数据源，一般用什么框架？](https://www.v2ex.com/t/842924) ![](assets/new.png)  
 - [2022-03-25-C++如何写-Setup-程序？](https://www.v2ex.com/t/842922) ![](assets/new.png)  
 - [2022-03-25-Python-发现个奇怪知识,类属性不被实例化修改,即可被外部修改](https://www.v2ex.com/t/842921) ![](assets/new.png)  
-- [2022-03-25-有没有朋友碰到过-亿图图示-周期性无响应？](https://www.v2ex.com/t/842920) ![](assets/new.png)  
-- [2022-03-25-MatrixOne-首次函数挑战任务启动](https://www.v2ex.com/t/842919) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -564,15 +564,15 @@
 - [2022-03-25-vivo-商品中台的可视化微前端实践](https://toutiao.io/k/qnjwz7d) ![](assets/new.png)  
 - [2022-03-25-常见游戏特效学习与实现！](https://toutiao.io/k/udk7zty) ![](assets/new.png)  
 - [2022-03-25-深入浅出前端监控](https://toutiao.io/k/id2vuof) ![](assets/new.png)  
-- [2022-03-25-Flink-Next：Beyond-Stream-Processing](https://toutiao.io/k/gqd796v) ![](assets/new.png)  
 - [2022-03-25-清华刘知远：大模型「十问」，寻找新范式下的研究方向](https://toutiao.io/k/6sns7ln) ![](assets/new.png)  
+- [2022-03-25-Flink-Next：Beyond-Stream-Processing](https://toutiao.io/k/gqd796v) ![](assets/new.png)  
+- [2022-03-25-浅议C#客户端和服务端通信的几种方法：Rest和GRPC和其他](https://toutiao.io/k/yf44ahf) ![](assets/new.png)  
 - [2022-03-25-数据治理工作的8种推进套路！](https://toutiao.io/k/imb80z4) ![](assets/new.png)  
 - [2022-03-25-TensorFlow在美团外卖推荐场景的GPU训练优化实践](https://toutiao.io/k/u0kb7et) ![](assets/new.png)  
-- [2022-03-25-浅议C#客户端和服务端通信的几种方法：Rest和GRPC和其他](https://toutiao.io/k/yf44ahf) ![](assets/new.png)  
 - [2022-03-25-二叉树的遍历方式二](https://toutiao.io/k/qnn5wcv) ![](assets/new.png)  
 - [2022-03-25-设计模式系列——享元模式](https://toutiao.io/k/3onlwh2) ![](assets/new.png)  
 - [2022-03-25-两步实现让antd与IDE和睦相处的处理案例](https://toutiao.io/k/ro3km69) ![](assets/new.png)  
-- [2022-03-25-推荐-最常用的架构模式](https://toutiao.io/k/qnfl3t6) ![](assets/new.png)  
+- [2022-03-25-推荐-2万字-+-50-张图，细说-JVM-内存分布、内存对齐、压缩指针！](https://toutiao.io/k/02whm5c) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

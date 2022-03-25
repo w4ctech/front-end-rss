@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-03-25 20:14:44，:rocket: 更新条数: +2027， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-03-25 20:38:40，:rocket: 更新条数: +2027， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -572,7 +572,7 @@
 - [2022-03-25-设计模式系列——享元模式](https://toutiao.io/k/3onlwh2) ![](assets/new.png)  
 - [2022-03-25-二叉树的遍历方式二](https://toutiao.io/k/qnn5wcv) ![](assets/new.png)  
 - [2022-03-25-两步实现让antd与IDE和睦相处的处理案例](https://toutiao.io/k/ro3km69) ![](assets/new.png)  
-- [2022-03-25-推荐-消息队列经典十连问，你能扛到第几问？](https://toutiao.io/k/8jfl3pp) ![](assets/new.png)  
+- [2022-03-25-推荐-最常用的架构模式](https://toutiao.io/k/qnfl3t6) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

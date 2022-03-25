@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2022-03-25 22:40:04。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-03-25 23:03:14。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-03-25-pkg.go.dev-上版本如何自动更新?](https://www.v2ex.com/t/842980) 
 - [2022-03-25-Gmail-可以移除手机号？](https://www.v2ex.com/t/842978) 
 - [2022-03-25-求一个横竖关联的简约导航源码，最好-WordPress-能用那种](https://www.v2ex.com/t/842977) 
 - [2022-03-25-有没有软路由和-NAS-合并到一起的产品？](https://www.v2ex.com/t/842976) 
@@ -40,4 +41,3 @@
 - [2022-03-25-PC-端有无支持自动纠错的双拼输入法？](https://www.v2ex.com/t/842933) 
 - [2022-03-25-gitee-把图床-ban-掉了？](https://www.v2ex.com/t/842932) 
 - [2022-03-25-django-orm/-其他-orm-中-create-一条数据，返回的-model-id-为什么一定是正确的？](https://www.v2ex.com/t/842931) 
-- [2022-03-25-有没有-PHP-大佬接单改个脚本](https://www.v2ex.com/t/842930) 

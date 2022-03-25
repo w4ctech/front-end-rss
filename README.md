@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-03-25 22:40:04，:rocket: 更新条数: +2027， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-03-25 23:03:14，:rocket: 更新条数: +2027， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-03-25-pkg.go.dev-上版本如何自动更新?](https://www.v2ex.com/t/842980) ![](assets/new.png)  
 - [2022-03-25-Gmail-可以移除手机号？](https://www.v2ex.com/t/842978) ![](assets/new.png)  
 - [2022-03-25-求一个横竖关联的简约导航源码，最好-WordPress-能用那种](https://www.v2ex.com/t/842977) ![](assets/new.png)  
 - [2022-03-25-有没有软路由和-NAS-合并到一起的产品？](https://www.v2ex.com/t/842976) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-03-25-js-桌面应用开发新选择：-Avernakis](https://www.v2ex.com/t/842957) ![](assets/new.png)  
 - [2022-03-25-27-寸-4K-显示器，主要用于办公，看蓝光电影，偶尔照片光线调整](https://www.v2ex.com/t/842956) ![](assets/new.png)  
 - [2022-03-25-github-上查询-whois-信息的代码有推荐的吗?支持-RDAP-新协议的](https://www.v2ex.com/t/842954) ![](assets/new.png)  
-- [2022-03-25-使用-sqlx-如何打印出最终执行的-sql？](https://www.v2ex.com/t/842953) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

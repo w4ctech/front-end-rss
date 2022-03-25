@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-03-25 03:43:30，:rocket: 更新条数: +2030， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-03-25 04:17:39，:rocket: 更新条数: +2028， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,14 @@
 </summary>
 
 
+- [2022-03-25-ios-彩云天气放弃了免费用户？](https://www.v2ex.com/t/842823) ![](assets/new.png)  
+- [2022-03-25-最近工作有点无聊](https://www.v2ex.com/t/842822) ![](assets/new.png)  
+- [2022-03-25-无-Recovery-安装-magisk（root）](https://www.v2ex.com/t/842820) ![](assets/new.png)  
+- [2022-03-25-大量查询数据任务，通过-kafka-缓冲后入库，如何解决大任务阻塞小任务的情况。](https://www.v2ex.com/t/842819) ![](assets/new.png)  
+- [2022-03-25-ubuntu20.04-如何安装微信](https://www.v2ex.com/t/842818) ![](assets/new.png)  
+- [2022-03-25-服务端会进行版本号的管理么](https://www.v2ex.com/t/842817) ![](assets/new.png)  
+- [2022-03-25-客路旅行内推](https://www.v2ex.com/t/842815) ![](assets/new.png)  
+- [2022-03-25-想白嫖一个-serverless-的方案，用于自家的一个程序，能定期通过不同-ip-出口取一些三方-api-的数据的，求推荐？](https://www.v2ex.com/t/842814) ![](assets/new.png)  
 - [2022-03-25-有什么软件可以替代罗技-G-hub-么？](https://www.v2ex.com/t/842812) ![](assets/new.png)  
 - [2022-03-25-2022-年，键盘上的-ScrLk-以及-Pause-键还有用吗？](https://www.v2ex.com/t/842811) ![](assets/new.png)  
 - [2022-03-25-上地西二旗清河-美和园西区朝南主卧转租．-2800-包水电，无中介费](https://www.v2ex.com/t/842809) ![](assets/new.png)  
@@ -503,14 +511,6 @@
 - [2022-03-25-对于一个专业的程序员摸鱼社区-我们能期待什么](https://www.v2ex.com/t/842802) ![](assets/new.png)  
 - [2022-03-25-有没有好用的视频换脸工具?](https://www.v2ex.com/t/842801) ![](assets/new.png)  
 - [2022-03-25-Linux-用钉钉和网页版微信代替-QQ](https://www.v2ex.com/t/842800) ![](assets/new.png)  
-- [2022-03-25-tg-的国内独立版本技术上有可能实现吗？](https://www.v2ex.com/t/842799) ![](assets/new.png)  
-- [2022-03-25-nginx-如何做多语言站点的跳转](https://www.v2ex.com/t/842798) ![](assets/new.png)  
-- [2022-03-25-go-我就不用指针不行？](https://www.v2ex.com/t/842797) ![](assets/new.png)  
-- [2022-03-25-有没有鹅厂大佬-想问问你们安装程序用了什么奇怪的方法](https://www.v2ex.com/t/842796) ![](assets/new.png)  
-- [2022-03-25-字节跳动的公共-CDN-稳定性如何？](https://www.v2ex.com/t/842795) ![](assets/new.png)  
-- [2022-03-25-兄弟们推荐个五金工具箱吧](https://www.v2ex.com/t/842792) ![](assets/new.png)  
-- [2022-03-25-昆士兰大学的机械学习怎么样？](https://www.v2ex.com/t/842790) ![](assets/new.png)  
-- [2022-03-25-Mac-可以一键迁移新机吗](https://www.v2ex.com/t/842789) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -554,25 +554,25 @@
 
 
 - [2022-03-25-时间轮原理及其在框架中的应用](https://toutiao.io/k/1dwwpfd) ![](assets/new.png)  
-- [2022-03-25-数位上市公司-CTO-都在订阅，你还等什么？](https://toutiao.io/k/y2pfkty) ![](assets/new.png)  
 - [2022-03-25-「GoCN酷Go推荐」后现代时代远程办公网络问题的golang开源解决方案-——-PairMesh](https://toutiao.io/k/bnh6bt7) ![](assets/new.png)  
+- [2022-03-25-数位上市公司-CTO-都在订阅，你还等什么？](https://toutiao.io/k/y2pfkty) ![](assets/new.png)  
 - [2022-03-25-不会这个技巧，成不了高级开发](https://toutiao.io/k/pjxqnnq) ![](assets/new.png)  
 - [2022-03-25-有了jmespath，处理python中的json数据就变成了一种享受...](https://toutiao.io/k/92ci7ci) ![](assets/new.png)  
 - [2022-03-25-Flink-Next：Beyond-Stream-Processing](https://toutiao.io/k/gqd796v) ![](assets/new.png)  
 - [2022-03-25-琚致远：95-后-Apache-Member-的成长之路](https://toutiao.io/k/jwkvxd8) ![](assets/new.png)  
-- [2022-03-25-京东二面：MySQL-主从延迟，读写分离-7-种解决方案](https://toutiao.io/k/iqa9o4a) ![](assets/new.png)  
 - [2022-03-25-流程开放平台表单引擎的设计与实现](https://toutiao.io/k/o2s925x) ![](assets/new.png)  
+- [2022-03-25-京东二面：MySQL-主从延迟，读写分离-7-种解决方案](https://toutiao.io/k/iqa9o4a) ![](assets/new.png)  
 - [2022-03-25-深入浅出前端监控](https://toutiao.io/k/id2vuof) ![](assets/new.png)  
 - [2022-03-25-vivo-商品中台的可视化微前端实践](https://toutiao.io/k/qnjwz7d) ![](assets/new.png)  
-- [2022-03-25-常见游戏特效学习与实现！](https://toutiao.io/k/udk7zty) ![](assets/new.png)  
 - [2022-03-25-数据治理工作的8种推进套路！](https://toutiao.io/k/imb80z4) ![](assets/new.png)  
+- [2022-03-25-常见游戏特效学习与实现！](https://toutiao.io/k/udk7zty) ![](assets/new.png)  
 - [2022-03-25-浅议C#客户端和服务端通信的几种方法：Rest和GRPC和其他](https://toutiao.io/k/yf44ahf) ![](assets/new.png)  
 - [2022-03-25-TensorFlow在美团外卖推荐场景的GPU训练优化实践](https://toutiao.io/k/u0kb7et) ![](assets/new.png)  
 - [2022-03-25-清华刘知远：大模型「十问」，寻找新范式下的研究方向](https://toutiao.io/k/6sns7ln) ![](assets/new.png)  
+- [2022-03-25-推荐-架构师如何选型分布式业务网关](https://toutiao.io/k/enmg99d) ![](assets/new.png)  
+- [2022-03-25-推荐-消息队列经典十连问，你能扛到第几问？](https://toutiao.io/k/8jfl3pp) ![](assets/new.png)  
 - [2022-03-25-推荐-最常用的架构模式](https://toutiao.io/k/qnfl3t6) ![](assets/new.png)  
-- [2022-03-25-推荐-2万字-+-50-张图，细说-JVM-内存分布、内存对齐、压缩指针！](https://toutiao.io/k/02whm5c) ![](assets/new.png)  
 - [2022-03-25-推荐-面试官问，Redis-是单线程还是多线程?我懵了](https://toutiao.io/k/kd3u5dk) ![](assets/new.png)  
-- [2022-03-25-推荐-阿里巴巴开源的低代码引擎](https://toutiao.io/k/gsosp6w) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

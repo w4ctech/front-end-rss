@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-03-25 14:12:09，:rocket: 更新条数: +2028， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-03-25 14:37:04，:rocket: 更新条数: +2027， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-03-25-招人了招人了，远程工作，自研公司非外包，我直招！-Vue+Node！](https://www.v2ex.com/t/842949) ![](assets/new.png)  
+- [2022-03-25-今天解封了，开心](https://www.v2ex.com/t/842948) ![](assets/new.png)  
 - [2022-03-25-ipv6-有-DDNS-这样的东西吗？](https://www.v2ex.com/t/842947) ![](assets/new.png)  
 - [2022-03-25-光猫上获取的-ipv6-是/64-的，二级路由openwrt要怎么设置才能让下边的设备获取到-ipv6](https://www.v2ex.com/t/842946) ![](assets/new.png)  
 - [2022-03-25-提一个不要脸的问题，-v-站看了好几个周刊，如果我专门爬别人的周刊，聚合到一起，然后分-topic-推送，每个用户可以订阅多个-topic，这样会很不道德吗](https://www.v2ex.com/t/842944) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-03-25-如何使用-boto3-查看亚马逊-s3-存储上-zip-压缩文件里包含的文件（不下载到本地）？](https://www.v2ex.com/t/842926) ![](assets/new.png)  
 - [2022-03-25-怎么关闭-Parallels-Desktop-16-升级提示](https://www.v2ex.com/t/842925) ![](assets/new.png)  
 - [2022-03-25-安卓应用开发，监听数据源，一般用什么框架？](https://www.v2ex.com/t/842924) ![](assets/new.png)  
-- [2022-03-25-C++如何写-Setup-程序？](https://www.v2ex.com/t/842922) ![](assets/new.png)  
-- [2022-03-25-Python-发现个奇怪知识,类属性不被实例化修改,即可被外部修改](https://www.v2ex.com/t/842921) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

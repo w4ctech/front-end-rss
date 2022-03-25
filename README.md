@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-03-25 04:49:07，:rocket: 更新条数: +2029， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-03-25 05:13:46，:rocket: 更新条数: +2029， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-03-25-分享一些-Spring-Cloud-学习资料](https://www.v2ex.com/t/842831) ![](assets/new.png)  
+- [2022-03-25-21-款-MBP-屏幕的蓝色残影问题](https://www.v2ex.com/t/842830) ![](assets/new.png)  
 - [2022-03-25-Macbook-12-登不进去了](https://www.v2ex.com/t/842829) ![](assets/new.png)  
 - [2022-03-25-不带-touch-bar-的-macbook，怎么使用拼写校正呢？](https://www.v2ex.com/t/842828) ![](assets/new.png)  
 - [2022-03-25-求一款-2.4g-无线的入耳游戏耳机](https://www.v2ex.com/t/842827) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-03-25-2022-年，键盘上的-ScrLk-以及-Pause-键还有用吗？](https://www.v2ex.com/t/842811) ![](assets/new.png)  
 - [2022-03-25-上地西二旗清河-美和园西区朝南主卧转租．-2800-包水电，无中介费](https://www.v2ex.com/t/842809) ![](assets/new.png)  
 - [2022-03-25-常用-insert-键的请慎重选择-联想/小新-笔记本](https://www.v2ex.com/t/842808) ![](assets/new.png)  
-- [2022-03-25-服务器运维多少钱一年](https://www.v2ex.com/t/842807) ![](assets/new.png)  
-- [2022-03-25-chromium-开发相关，隐藏插件](https://www.v2ex.com/t/842806) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -569,10 +569,10 @@
 - [2022-03-25-常见游戏特效学习与实现！](https://toutiao.io/k/udk7zty) ![](assets/new.png)  
 - [2022-03-25-浅议C#客户端和服务端通信的几种方法：Rest和GRPC和其他](https://toutiao.io/k/yf44ahf) ![](assets/new.png)  
 - [2022-03-25-TensorFlow在美团外卖推荐场景的GPU训练优化实践](https://toutiao.io/k/u0kb7et) ![](assets/new.png)  
+- [2022-03-25-推荐-阿里巴巴开源的低代码引擎](https://toutiao.io/k/gsosp6w) ![](assets/new.png)  
 - [2022-03-25-推荐-架构师如何选型分布式业务网关](https://toutiao.io/k/enmg99d) ![](assets/new.png)  
-- [2022-03-25-推荐-最常用的架构模式](https://toutiao.io/k/qnfl3t6) ![](assets/new.png)  
 - [2022-03-25-推荐-消息队列经典十连问，你能扛到第几问？](https://toutiao.io/k/8jfl3pp) ![](assets/new.png)  
-- [2022-03-25-推荐-面试官问，Redis-是单线程还是多线程?我懵了](https://toutiao.io/k/kd3u5dk) ![](assets/new.png)  
+- [2022-03-25-推荐-最常用的架构模式](https://toutiao.io/k/qnfl3t6) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

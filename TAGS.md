@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-03-26 07:13:30。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-03-26 07:37:39。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -314,6 +314,7 @@
 
 
 
+- [【V2EX】写了一个自托管服务搭建的脚本,可以快速基于-Docker-和-ipv6-搭建自己的自托管服务](https://www.v2ex.com/t/843042)
 - [......【查看更多】......](./details/tags/server.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-03-26 03:03:53。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-03-26 03:43:05。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 性能优化
 
@@ -7,4 +7,5 @@
 
 
 
+- [2022-03-26-golang-template-模板性能怎样呢？有相关对比的文章吗？与静态-html-文件比起来相差多少呢？](https://www.v2ex.com/t/843000) 
 - [2022-03-26-搜索引擎优化（SEO）之整合重复网址-forum.lovejade.cn](https://blogread.cn/news/go.php?idItem=14994&url=https%3A%2F%2Fforum.lovejade.cn%2Fd%2F147-seo%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

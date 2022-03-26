@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-03-26 04:16:34。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-03-26 04:47:17。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -279,7 +279,6 @@
 - [【武汉肺炎防疫全纪录(财新网)】大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html)
 - [【V2EX】如何阻止-Edge-默认打开-PDF-文件？](https://www.v2ex.com/t/843010)
 - [【V2EX】100w-招个甲方产品安全技术管理](https://www.v2ex.com/t/843008)
-- [【V2EX】Python-有什么可以方便模拟浏览器发请求的模块吗？](https://www.v2ex.com/t/842962)
 - [【开发者头条】一文get转转RPC框架开发实战经验](https://toutiao.io/k/rgeflf5)
 - [......【查看更多】......](./details/tags/browser.md)
 

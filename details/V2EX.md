@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2022-03-26 04:16:34。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-03-26 04:47:17。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-03-26-官网定制新的-mbp-14-寸翻车了。](https://www.v2ex.com/t/843014) 
 - [2022-03-26-如何将-mbp-上的-mac-OS-系统换成-windows10，注意是换，不是安装双系统](https://www.v2ex.com/t/843011) 
 - [2022-03-26-如何阻止-Edge-默认打开-PDF-文件？](https://www.v2ex.com/t/843010) 
 - [2022-03-26-Thoughtworks-思特沃克岗位内推](https://www.v2ex.com/t/843009) 
@@ -42,5 +43,3 @@
 - [2022-03-25-关于「-Java-String-里的-substring-操作」的一些思考](https://www.v2ex.com/t/842968) 
 - [2022-03-25-要入职解决方案了，想向项目经理发展，需要学习哪些](https://www.v2ex.com/t/842967) 
 - [2022-03-25-迫于土区-Google-one-太便宜，请教一下转区问题](https://www.v2ex.com/t/842966) 
-- [2022-03-25-Dnspod-附带国内-edns-时，但有时候仍然会解析到国外的-cdn-节点](https://www.v2ex.com/t/842964) 
-- [2022-03-25-Python-有什么可以方便模拟浏览器发请求的模块吗？](https://www.v2ex.com/t/842962) 

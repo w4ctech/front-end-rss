@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-03-26 18:15:09，:rocket: 更新条数: +2029， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-03-26 18:43:04，:rocket: 更新条数: +2030， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-03-26-关于目前的-Chrome-0-day-漏洞](https://www.v2ex.com/t/843126) ![](assets/new.png)  
 - [2022-03-26-Laravel-下如何做两步认证](https://www.v2ex.com/t/843125) ![](assets/new.png)  
 - [2022-03-26-想实现一个从图片到影片的转换工具，是否可以用脚本实现自动化转换?](https://www.v2ex.com/t/843124) ![](assets/new.png)  
 - [2022-03-26-全职远程北京-15K-25k-/-Java-开发-/-国内首家虚拟办公-SaaS-平台-内推](https://www.v2ex.com/t/843123) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-03-26-14-的-M1-用-xattr-清不了扩展权限](https://www.v2ex.com/t/843108) ![](assets/new.png)  
 - [2022-03-26-请教有没有批量移动命名最底层文件夹的方便一点的方法](https://www.v2ex.com/t/843107) ![](assets/new.png)  
 - [2022-03-26-win11-出了这么久，音量管理这么明显的-bug-还不修复](https://www.v2ex.com/t/843106) ![](assets/new.png)  
-- [2022-03-26-求音响推荐](https://www.v2ex.com/t/843105) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -565,13 +565,13 @@
 - [2022-03-26-一文get转转RPC框架开发实战经验](https://toutiao.io/k/rgeflf5) ![](assets/new.png)  
 - [2022-03-26-Netflix是如何做决策的?-|-7.-学习的文化](https://toutiao.io/k/97ci07f) ![](assets/new.png)  
 - [2022-03-26-介绍一个小工具：Security-Profiles-Operator](https://toutiao.io/k/rwgyj0n) ![](assets/new.png)  
-- [2022-03-26-推荐-架构师如何选型分布式业务网关](https://toutiao.io/k/enmg99d) ![](assets/new.png)  
-- [2022-03-26-推荐-最常用的架构模式](https://toutiao.io/k/qnfl3t6) ![](assets/new.png)  
-- [2022-03-26-推荐-你管这破玩意儿叫高可用](https://toutiao.io/k/qudsbeg) ![](assets/new.png)  
-- [2022-03-26-推荐-消息队列经典十连问，你能扛到第几问？](https://toutiao.io/k/8jfl3pp) ![](assets/new.png)  
-- [2022-03-26-推荐-阿里巴巴开源的低代码引擎](https://toutiao.io/k/gsosp6w) ![](assets/new.png)  
 - [2022-03-26-推荐-如果你是一个Golang面试官，你会问哪些问题？](https://toutiao.io/k/yvw61mc) ![](assets/new.png)  
+- [2022-03-26-推荐-阿里巴巴开源的低代码引擎](https://toutiao.io/k/gsosp6w) ![](assets/new.png)  
+- [2022-03-26-推荐-你管这破玩意儿叫高可用](https://toutiao.io/k/qudsbeg) ![](assets/new.png)  
+- [2022-03-26-推荐-最常用的架构模式](https://toutiao.io/k/qnfl3t6) ![](assets/new.png)  
+- [2022-03-26-推荐-消息队列经典十连问，你能扛到第几问？](https://toutiao.io/k/8jfl3pp) ![](assets/new.png)  
 - [2022-03-26-推荐-2万字-+-50-张图，细说-JVM-内存分布、内存对齐、压缩指针！](https://toutiao.io/k/02whm5c) ![](assets/new.png)  
+- [2022-03-26-推荐-架构师如何选型分布式业务网关](https://toutiao.io/k/enmg99d) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

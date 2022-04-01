@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-04-01 16:59:21，:rocket: 更新条数: +2031， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-04-01 17:19:51，:rocket: 更新条数: +2031， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-04-01-Jetbrains-Fleet-写-Rust-+-Python-+-React-项目维护体验小记](https://www.v2ex.com/t/844433) ![](assets/new.png)  
 - [2022-04-01-推荐一下我的键位映射工具-MyKeymap](https://www.v2ex.com/t/844432) ![](assets/new.png)  
 - [2022-04-01-有什么办法屏蔽-miui-的更新吗](https://www.v2ex.com/t/844431) ![](assets/new.png)  
 - [2022-04-01-一则让人难以忘怀的郑渊洁童话](https://www.v2ex.com/t/844430) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-04-01-谁说苹果不搞愚人节玩笑](https://www.v2ex.com/t/844413) ![](assets/new.png)  
 - [2022-04-01-根据字段-from-分组，怎么把字段为“wxxcx”和“wx_xcx”的分到一组，并都显示成“wxxcx”。](https://www.v2ex.com/t/844410) ![](assets/new.png)  
 - [2022-04-01-学习项目实战的网站](https://www.v2ex.com/t/844409) ![](assets/new.png)  
-- [2022-04-01-升级-iOS15.4.1-后一直显示在定位的状态，发热耗电严重](https://www.v2ex.com/t/844408) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -572,7 +572,7 @@
 - [2022-04-01-LAPSUS$安全攻击的胡乱分析](https://toutiao.io/k/del73x3) ![](assets/new.png)  
 - [2022-04-01-生还是不生？-SpringBoot3-版本有起飞前兆，最小依赖Java17！](https://toutiao.io/k/rriiwx0) ![](assets/new.png)  
 - [2022-04-01-二叉树的遍历方式三](https://toutiao.io/k/slb7jzu) ![](assets/new.png)  
-- [2022-04-01-推荐-Kafka-面试连环炮,-看看你能撑到哪一步?](https://toutiao.io/k/z30ehzv) ![](assets/new.png)  
+- [2022-04-01-推荐-你管这破玩意儿叫高可用](https://toutiao.io/k/qudsbeg) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

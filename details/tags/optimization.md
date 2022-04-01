@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-04-01 01:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-04-01 02:58:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 性能优化
 
@@ -7,7 +7,6 @@
 
 
 
-- [2022-03-31-币安-mac-客户端能不能优化下，开几个窗口风扇就呼呼响](https://www.v2ex.com/t/844173) 
 - [2022-04-01-搜索引擎优化（SEO）之整合重复网址-forum.lovejade.cn](https://blogread.cn/news/go.php?idItem=14994&url=https%3A%2F%2Fforum.lovejade.cn%2Fd%2F147-seo%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-04-01-深入解读SQL优化中的执行计划](https://toutiao.io/k/es1q3xq) 
 - [2022-04-01-推荐-Go-高性能编程技法](https://toutiao.io/k/405ts7m) 

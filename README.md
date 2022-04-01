@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-04-01 15:15:19，:rocket: 更新条数: +2031， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-04-01 15:43:49，:rocket: 更新条数: +2031， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-04-01-内推金融行业-海外/国内](https://www.v2ex.com/t/844428) ![](assets/new.png)  
+- [2022-04-01-有些视频开头的那句“欧丽儿战够”究竟是什么？](https://www.v2ex.com/t/844427) ![](assets/new.png)  
 - [2022-04-01-docker-bridge-network-如何实现类似旁路由的效果？](https://www.v2ex.com/t/844426) ![](assets/new.png)  
 - [2022-04-01-NutsDB-v0.8.0-发布~](https://www.v2ex.com/t/844425) ![](assets/new.png)  
 - [2022-04-01-求推荐一些合家欢的电视剧](https://www.v2ex.com/t/844423) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-04-01-想快速开发一个-Android-APP，请教大家：](https://www.v2ex.com/t/844404) ![](assets/new.png)  
 - [2022-04-01-这个时间点好像没什么我喜欢的安卓手机值得买了](https://www.v2ex.com/t/844403) ![](assets/new.png)  
 - [2022-04-01-iPhone-想抹掉数据一直提示验证失败](https://www.v2ex.com/t/844402) ![](assets/new.png)  
-- [2022-04-01-Notion-怎么搞表之间的属性引用](https://www.v2ex.com/t/844401) ![](assets/new.png)  
-- [2022-04-01-Linux-下-chrome-总是崩溃](https://www.v2ex.com/t/844400) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -572,7 +572,7 @@
 - [2022-04-01-LAPSUS$安全攻击的胡乱分析](https://toutiao.io/k/del73x3) ![](assets/new.png)  
 - [2022-04-01-生还是不生？-SpringBoot3-版本有起飞前兆，最小依赖Java17！](https://toutiao.io/k/rriiwx0) ![](assets/new.png)  
 - [2022-04-01-二叉树的遍历方式三](https://toutiao.io/k/slb7jzu) ![](assets/new.png)  
-- [2022-04-01-推荐-消息队列经典十连问，你能扛到第几问？](https://toutiao.io/k/8jfl3pp) ![](assets/new.png)  
+- [2022-04-01-推荐-你管这破玩意儿叫高可用](https://toutiao.io/k/qudsbeg) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

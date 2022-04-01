@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-04-01 07:13:43，:rocket: 更新条数: +2033， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-04-01 07:38:16，:rocket: 更新条数: +2032， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,10 @@
 </summary>
 
 
+- [2022-04-01-有什么好看的电影推荐吗？和《肖申克的救赎》差不多级别的那种。](https://www.v2ex.com/t/844333) ![](assets/new.png)  
+- [2022-04-01-有没有-ux-一起来弄个社交-app](https://www.v2ex.com/t/844331) ![](assets/new.png)  
+- [2022-04-01-微信商户平台里登录后没找着退出登录的地方](https://www.v2ex.com/t/844330) ![](assets/new.png)  
+- [2022-04-01-sdkman-里-AdoptOpenJDK-已不存在](https://www.v2ex.com/t/844329) ![](assets/new.png)  
 - [2022-04-01-关于-cdn-的问题，询问下大家有没有好用且便宜的-cdn](https://www.v2ex.com/t/844328) ![](assets/new.png)  
 - [2022-04-01-为什么手环厂家不利用手环来做体感游戏](https://www.v2ex.com/t/844327) ![](assets/new.png)  
 - [2022-04-01-ios-safari-与-mac-safari-书签顺序-bug](https://www.v2ex.com/t/844325) ![](assets/new.png)  
@@ -507,10 +511,6 @@
 - [2022-04-01-手机想投屏-到-ubuntu-20.04-来个老哥指点一下？](https://www.v2ex.com/t/844311) ![](assets/new.png)  
 - [2022-04-01-这种情况该回去吗？今年金三银四真的有点差](https://www.v2ex.com/t/844310) ![](assets/new.png)  
 - [2022-04-01-我想问一下工资这么构成有没有坑？](https://www.v2ex.com/t/844309) ![](assets/new.png)  
-- [2022-04-01-杭州-安卓音视频开发工程师，-bsp-开发工程师](https://www.v2ex.com/t/844308) ![](assets/new.png)  
-- [2022-04-01-一款好用的开源-UI-自动化测试框架-----口语化做-Android、iOS-测试](https://www.v2ex.com/t/844307) ![](assets/new.png)  
-- [2022-04-01-Monterey-12.3.1-来了，更新后有什么新特性bug吗](https://www.v2ex.com/t/844306) ![](assets/new.png)  
-- [2022-04-01-Pixel-4-没有挂路由器梯子第一次开机能通过吗？](https://www.v2ex.com/t/844305) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -558,8 +558,8 @@
 - [2022-04-01-如何从容应对复杂性](https://toutiao.io/k/e5pmody) ![](assets/new.png)  
 - [2022-04-01-MySQL写缓冲change-buffer，终于懂了！！！（收藏）](https://toutiao.io/k/ojlk0e1) ![](assets/new.png)  
 - [2022-04-01-Linux-下还有比这个-Shell-更漂亮的？](https://toutiao.io/k/ib8ab9l) ![](assets/new.png)  
-- [2022-04-01-「码农周刊-VIP-会员专属邮件周报」每周五发送，赶紧上车吧！](https://toutiao.io/k/zskhwzb) ![](assets/new.png)  
 - [2022-04-01-彻底搞懂垃圾回收机制底层原理](https://toutiao.io/k/foaja7h) ![](assets/new.png)  
+- [2022-04-01-「码农周刊-VIP-会员专属邮件周报」每周五发送，赶紧上车吧！](https://toutiao.io/k/zskhwzb) ![](assets/new.png)  
 - [2022-04-01-goutil/dump-——-打印漂亮且易于阅读的-Go-数据](https://toutiao.io/k/ktx03du) ![](assets/new.png)  
 - [2022-04-01-交易中台之商品推广流程构建以及实现](https://toutiao.io/k/hwl7u0m) ![](assets/new.png)  
 - [2022-04-01-数仓建模—OneID](https://toutiao.io/k/1egsnig) ![](assets/new.png)  
@@ -569,10 +569,10 @@
 - [2022-04-01-软件设计——软件冰山下的秘密](https://toutiao.io/k/d43edzw) ![](assets/new.png)  
 - [2022-04-01-如何从一个-C#-的-dump-中挖到机器相关的信息？](https://toutiao.io/k/kr0q4gk) ![](assets/new.png)  
 - [2022-04-01-LAPSUS$安全攻击的胡乱分析](https://toutiao.io/k/del73x3) ![](assets/new.png)  
+- [2022-04-01-二叉树的遍历方式三](https://toutiao.io/k/slb7jzu) ![](assets/new.png)  
 - [2022-04-01-玩转-Spring-Boot-原理篇（内嵌Tomcat实现原理&优雅停机源码剖析）](https://toutiao.io/k/1ttnlq2) ![](assets/new.png)  
 - [2022-04-01-生还是不生？-SpringBoot3-版本有起飞前兆，最小依赖Java17！](https://toutiao.io/k/rriiwx0) ![](assets/new.png)  
-- [2022-04-01-二叉树的遍历方式三](https://toutiao.io/k/slb7jzu) ![](assets/new.png)  
-- [2022-04-01-推荐-时间轮原理及其在框架中的应用](https://toutiao.io/k/1dwwpfd) ![](assets/new.png)  
+- [2022-04-01-推荐-如果你是一个Golang面试官，你会问哪些问题？](https://toutiao.io/k/yvw61mc) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

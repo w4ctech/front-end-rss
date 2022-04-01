@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-04-01 10:15:54。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-04-01 10:42:36。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -14,5 +14,4 @@
 - [2021-01-08-解药|新冠mRNA疫苗安全性有哪些挑战？](https://m.caixin.com/m/2021-01-08/101648043.html) 
 - [2021-01-01-大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html) 
 - [2022-04-01-主题页的-twitter:image-标签-url-有误](https://www.v2ex.com/t/844359) 
-- [2022-04-01-ios-safari-与-mac-safari-书签顺序-bug](https://www.v2ex.com/t/844325) 
 - [2022-04-01-LAPSUS$安全攻击的胡乱分析](https://toutiao.io/k/del73x3) 

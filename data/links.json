@@ -9953,6 +9953,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "推荐一下我的键位映射工具 MyKeymap",
+        "link": "https://www.v2ex.com/t/844432",
+        "date": "2022-04-01"
+      },
+      {
         "title": "有什么办法屏蔽 miui 的更新吗",
         "link": "https://www.v2ex.com/t/844431",
         "date": "2022-04-01"
@@ -10151,11 +10156,6 @@
         "title": "iOS 15.4.1 更新后，打开相机会快速闪两下",
         "link": "https://www.v2ex.com/t/844383",
         "date": "2022-04-01"
-      },
-      {
-        "title": "\"甲骨文严查 Java 许可数，企业连夜删除 JDK \",各位 Java 用户怎么看?....",
-        "link": "https://www.v2ex.com/t/844382",
-        "date": "2022-04-01"
       }
     ]
   },
@@ -10307,13 +10307,13 @@
         "date": "2022-04-01"
       },
       {
-        "title": "「码农周刊 VIP 会员专属邮件周报」每周五发送，赶紧上车吧！",
-        "link": "https://toutiao.io/k/zskhwzb",
+        "title": "goutil/dump —— 打印漂亮且易于阅读的 Go 数据",
+        "link": "https://toutiao.io/k/ktx03du",
         "date": "2022-04-01"
       },
       {
-        "title": "goutil/dump —— 打印漂亮且易于阅读的 Go 数据",
-        "link": "https://toutiao.io/k/ktx03du",
+        "title": "「码农周刊 VIP 会员专属邮件周报」每周五发送，赶紧上车吧！",
+        "link": "https://toutiao.io/k/zskhwzb",
         "date": "2022-04-01"
       },
       {
@@ -10367,8 +10367,8 @@
         "date": "2022-04-01"
       },
       {
-        "title": "[推荐] 时间轮原理及其在框架中的应用",
-        "link": "https://toutiao.io/k/1dwwpfd",
+        "title": "[推荐] Kafka 面试连环炮, 看看你能撑到哪一步?",
+        "link": "https://toutiao.io/k/z30ehzv",
         "date": "2022-04-01"
       },
       {
@@ -10377,18 +10377,18 @@
         "date": "2022-04-01"
       },
       {
-        "title": "[推荐] 你管这破玩意儿叫高可用",
-        "link": "https://toutiao.io/k/qudsbeg",
-        "date": "2022-04-01"
-      },
-      {
         "title": "[推荐] Go 高性能编程技法",
         "link": "https://toutiao.io/k/405ts7m",
         "date": "2022-04-01"
       },
       {
-        "title": "[推荐] Kafka 面试连环炮, 看看你能撑到哪一步?",
-        "link": "https://toutiao.io/k/z30ehzv",
+        "title": "[推荐] 时间轮原理及其在框架中的应用",
+        "link": "https://toutiao.io/k/1dwwpfd",
+        "date": "2022-04-01"
+      },
+      {
+        "title": "[推荐] 你管这破玩意儿叫高可用",
+        "link": "https://toutiao.io/k/qudsbeg",
         "date": "2022-04-01"
       }
     ]

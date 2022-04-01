@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-04-01 05:37:54。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-04-01 06:17:33。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -15,5 +15,4 @@
 - [2021-01-01-大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html) 
 - [2022-04-01-p7zip-wasm，浏览器里可直接使用的-7zip-解压工具](https://www.v2ex.com/t/844279) 
 - [2022-04-01-写了个语雀搜索的-Chrome-插件](https://www.v2ex.com/t/844278) 
-- [2022-04-01-m1pro-用-VMware-fusion-tech-preview-老是掉-ip](https://www.v2ex.com/t/844266) 
 - [2022-04-01-LAPSUS$安全攻击的胡乱分析](https://toutiao.io/k/del73x3) 

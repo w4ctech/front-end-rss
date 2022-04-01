@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-04-01 12:25:12。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-04-01 13:07:36。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -349,7 +349,6 @@
 
 
 - [【V2EX】杭州招聘前端组长](https://www.v2ex.com/t/844349)
-- [【V2EX】2023-届实习生-蚂蚁集团消费金融技术部实习生招聘](https://www.v2ex.com/t/844348)
 - [【开发者头条】推荐-如果你是一个Golang面试官，你会问哪些问题？](https://toutiao.io/k/yvw61mc)
 - [......【查看更多】......](./details/tags/job-interview.md)
 

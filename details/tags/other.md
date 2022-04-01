@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-04-01 04:50:56。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-04-01 05:12:48。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1913,6 +1913,9 @@
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2022-03-21-ascent-override-descent-override-line-gap-override一锅端](https://www.zhangxinxu.com/wordpress/2022/03/css-ascent-override-descent/) 
 - [2022-02-04-HTML-inputmode与iOS-Android软键盘类型测试](https://www.zhangxinxu.com/wordpress/2022/02/html-inputmode-keyboard/) 
+- [2022-04-01-一款好用的开源-UI-自动化测试框架-----口语化做-Android、iOS-测试](https://www.v2ex.com/t/844307) 
+- [2022-04-01-Monterey-12.3.1-来了，更新后有什么新特性bug吗](https://www.v2ex.com/t/844306) 
+- [2022-04-01-电信不给-IPv4-公网-ip-了对比移动联通还有什么优势](https://www.v2ex.com/t/844304) 
 - [2022-04-01-P2P-下载工具是如何解决-NAT-问题的？](https://www.v2ex.com/t/844301) 
 - [2022-04-01-word-全书标题都是手打的编号能否换成自动编号?](https://www.v2ex.com/t/844300) 
 - [2022-04-01-「野生架构师」周刊-#12-📸-Old-But-Good-、UNIX-艺术、互联网历史博物馆](https://www.v2ex.com/t/844299) 
@@ -1947,10 +1950,6 @@
 - [2022-04-01-杭州|网易云音乐|前端开发-资深前端开发工程师](https://www.v2ex.com/t/844261) 
 - [2022-04-01-赶上愚人节、周五、月初、清明节前，没有心情工作的，看看-V2-上个月都有什么-🔥-的主题吧](https://www.v2ex.com/t/844260) 
 - [2022-04-01-我的-MacBook-pro-M1-的激活锁为什么会被自动关闭？](https://www.v2ex.com/t/844259) 
-- [2022-04-01-频繁出现谷歌人机身份验证怎么解决？](https://www.v2ex.com/t/844256) 
-- [2022-04-01-原来-HPV-疫苗是男女都可以打的，那么男生有没有必要打-HPV-疫苗呢？](https://www.v2ex.com/t/844254) 
-- [2022-04-01-有支持-LDAP-的论坛或者-cms-开源程序嘛？](https://www.v2ex.com/t/844253) 
-- [2022-04-01-酷玩周刊-第-5-期](https://www.v2ex.com/t/844252) 
 - [2022-04-01-一个Go语言实现的数据库-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15001&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493739%26amp%3Bidx%3D2%26amp%3Bsn%3D4a4b26ae5568e9b803c4acccf034e14a%26amp%3Bchksm%3Dfa3f0930cd4880269fa44443630db1c9b5b6d8da39d2d1f3e04537413a67ab95290d714b2ed6%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-04-01-iOS15内置原生壁纸下载-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15000&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493737%26amp%3Bidx%3D1%26amp%3Bsn%3D28fbb298fdbc003e6f95b7cb65ba1b1f%26amp%3Bchksm%3Dfa3f0932cd4880242c12870799f254aee7af16d7107571d6bcc8430af1950331d7d1bc51129a%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-04-01-鸿蒙操作系统入门到精通.pdf-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14998&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493725%26amp%3Bidx%3D1%26amp%3Bsn%3D283c8d140a5127b03b78fb8053caed47%26amp%3Bchksm%3Dfa3f0906cd48801052e04a3f41acddffa509de80ee27568601cdd8e9f25ce851c2dba414c6ae%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1978,6 +1977,6 @@
 - [2022-04-01-百度ToB垂类账号权限平台的设计与实践](https://toutiao.io/k/egxry3s) 
 - [2022-04-01-软件设计——软件冰山下的秘密](https://toutiao.io/k/d43edzw) 
 - [2022-04-01-如何从一个-C#-的-dump-中挖到机器相关的信息？](https://toutiao.io/k/kr0q4gk) 
-- [2022-04-01-推荐-你管这破玩意儿叫高可用](https://toutiao.io/k/qudsbeg) 
-- [2022-04-01-推荐-消息队列经典十连问，你能扛到第几问？](https://toutiao.io/k/8jfl3pp) 
 - [2022-04-01-推荐-时间轮原理及其在框架中的应用](https://toutiao.io/k/1dwwpfd) 
+- [2022-04-01-推荐-消息队列经典十连问，你能扛到第几问？](https://toutiao.io/k/8jfl3pp) 
+- [2022-04-01-推荐-你管这破玩意儿叫高可用](https://toutiao.io/k/qudsbeg) 

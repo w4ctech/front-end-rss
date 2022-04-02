@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-04-02 14:37:14。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-04-02 15:13:59。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1913,6 +1913,8 @@
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2022-03-21-ascent-override-descent-override-line-gap-override一锅端](https://www.zhangxinxu.com/wordpress/2022/03/css-ascent-override-descent/) 
 - [2022-02-04-HTML-inputmode与iOS-Android软键盘类型测试](https://www.zhangxinxu.com/wordpress/2022/02/html-inputmode-keyboard/) 
+- [2022-04-02-特斯拉校招大家给点意见](https://www.v2ex.com/t/844660) 
+- [2022-04-02-stackoverflow-咋成这样了呢](https://www.v2ex.com/t/844658) 
 - [2022-04-02-mac-studio-网速的问题](https://www.v2ex.com/t/844655) 
 - [2022-04-02-Apple-One-开车当车主必须要美区-PayPal-或者外国信用卡吗？](https://www.v2ex.com/t/844654) 
 - [2022-04-02-腾讯云国内-9-折-海外轻量全场-2-折以下-续费-6-折-限时秒杀活动多多](https://www.v2ex.com/t/844652) 
@@ -1943,8 +1945,6 @@
 - [2022-04-02-m1-mac-mini-支持-外接两个-4k-144-显示器吗](https://www.v2ex.com/t/844615) 
 - [2022-04-02-新购入一台-Mac，配置环境花了不少时间，总结下常用的软件和命令，欢迎大家补充](https://www.v2ex.com/t/844613) 
 - [2022-04-02-看最近有关父母的帖子有感](https://www.v2ex.com/t/844612) 
-- [2022-04-02-请问有什么小活动适合线上多人玩吗，最好没什么门槛只要网页就可以](https://www.v2ex.com/t/844610) 
-- [2022-04-02-这种私活是不是不应该接啊？](https://www.v2ex.com/t/844609) 
 - [2022-04-02-通过面向对象设计串口协议-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15005&url=https%3A%2F%2Finsights.thoughtworks.cn%2Foo-design-serial-protocol%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-04-02-如何提升代码质量-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15003&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-improve-code-quality%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-04-02-什么场景（不）适合使用Lambda-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15002&url=https%3A%2F%2Finsights.thoughtworks.cn%2Flambda%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

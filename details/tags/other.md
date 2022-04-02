@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-04-02 17:14:41。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-04-02 17:39:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1913,6 +1913,7 @@
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2022-03-21-ascent-override-descent-override-line-gap-override一锅端](https://www.zhangxinxu.com/wordpress/2022/03/css-ascent-override-descent/) 
 - [2022-02-04-HTML-inputmode与iOS-Android软键盘类型测试](https://www.zhangxinxu.com/wordpress/2022/02/html-inputmode-keyboard/) 
+- [2022-04-02-远程-实习生-Python-320-500-元一天8-小时一天，无加班）](https://www.v2ex.com/t/844669) 
 - [2022-04-02-处理比较大的数据集的时候，单机-spark-会比-pandas-更快吗](https://www.v2ex.com/t/844667) 
 - [2022-04-02-老婆怀孕了，来问问各位大哥们，有啥需要准备和注意的吗？](https://www.v2ex.com/t/844666) 
 - [2022-04-02-关于-Mac-OSX-12.x-关闭窗口的按钮有点错位的问题](https://www.v2ex.com/t/844664) 
@@ -1942,7 +1943,6 @@
 - [2022-04-02-深圳-DJI-大疆各研发岗位热招中](https://www.v2ex.com/t/844624) 
 - [2022-04-02-快捷指令如何设置-siri-无法执行的设置](https://www.v2ex.com/t/844622) 
 - [2022-04-02-Claft:-不到-3MB-的-Clash-dashboard-for-macOS-基于-SwiftUI](https://www.v2ex.com/t/844620) 
-- [2022-04-02-drf-中-ForeignKey-外键设置允许没有该字段](https://www.v2ex.com/t/844619) 
 - [2022-04-02-通过面向对象设计串口协议-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15005&url=https%3A%2F%2Finsights.thoughtworks.cn%2Foo-design-serial-protocol%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-04-02-如何提升代码质量-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15003&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-improve-code-quality%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-04-02-什么场景（不）适合使用Lambda-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15002&url=https%3A%2F%2Finsights.thoughtworks.cn%2Flambda%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

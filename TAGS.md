@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-04-02 04:48:00。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-04-02 05:12:23。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -152,7 +152,6 @@
 
 
 
-- [【V2EX】各位大佬，现在还有在玩-psp-的吗？有啥经典游戏推荐吗？](https://www.v2ex.com/t/844473)
 - [......【查看更多】......](./details/tags/dev-game.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -333,7 +332,6 @@
 
 
 
-- [【V2EX】gitee-图片无法外链到博客了，全部报-403](https://www.v2ex.com/t/844471)
 - [【技术头条】Git这样回退代码，才足够优雅-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14999&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493737%26amp%3Bidx%3D2%26amp%3Bsn%3D7c34527cb2db4d99314ced0278bd6f25%26amp%3Bchksm%3Dfa3f0932cd488024bc8143699bc413de354ff8c52e8a96b463048843ea33a922064acc49fc0a%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【技术头条】摸清Git的门路，这22张图足够了！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14996&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493724%26amp%3Bidx%3D1%26amp%3Bsn%3D928c38cdf03d711eaded4b5298346bdc%26amp%3Bchksm%3Dfa3f0907cd488011853f7bb16826a86e24c1bb4ad616e27fc535f3bb5fbe8709949518e2947c%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [......【查看更多】......](./details/tags/git-svn.md)

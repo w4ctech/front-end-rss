@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-04-02 03:11:47，:rocket: 更新条数: +2020， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-04-02 03:49:37，:rocket: 更新条数: +2019， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,16 @@
 </summary>
 
 
+- [2022-04-02-允许非盈利自部署的代码许可的选择](https://www.v2ex.com/t/844511) ![](assets/new.png)  
+- [2022-04-02-有没有针对互联网各种缩写的翻译软件或插件？](https://www.v2ex.com/t/844508) ![](assets/new.png)  
+- [2022-04-02-HyperledgerFabric2.0-以上版本的教学啊](https://www.v2ex.com/t/844507) ![](assets/new.png)  
+- [2022-04-02-2021-款-MacBook-m1-pro-版已上官翻](https://www.v2ex.com/t/844506) ![](assets/new.png)  
+- [2022-04-02-欲罢不能的性能优化](https://www.v2ex.com/t/844505) ![](assets/new.png)  
+- [2022-04-02-宽带-500M，如何优化-AC2100-和-R6300V2-的使用？请各位老哥支个招](https://www.v2ex.com/t/844504) ![](assets/new.png)  
+- [2022-04-02-reddit-的像素大战活动，为-V2EX-而战！](https://www.v2ex.com/t/844503) ![](assets/new.png)  
+- [2022-04-02-14-寸-MacBook-Pro-独占-bug-是放弃了还是硬件问题,在次吐槽!](https://www.v2ex.com/t/844501) ![](assets/new.png)  
+- [2022-04-02-ios-有什么好用的天气软件推荐吗？](https://www.v2ex.com/t/844500) ![](assets/new.png)  
+- [2022-04-02-求助：-scrapyd-不能修改-scrapy-的-settings.py-设置](https://www.v2ex.com/t/844499) ![](assets/new.png)  
 - [2022-04-02-求好用的-OCR-服务推荐，最好是付费的（感觉免费的不太靠谱），准确度越高越好，最好可以提供-api](https://www.v2ex.com/t/844498) ![](assets/new.png)  
 - [2022-04-02-兄弟萌，开源镜像站选择-xx-大学的好，还是选阿里云华为云腾讯云的这些好呢？](https://www.v2ex.com/t/844497) ![](assets/new.png)  
 - [2022-04-02-大家分得清-studio-display-和-iMac-吗？](https://www.v2ex.com/t/844496) ![](assets/new.png)  
@@ -501,16 +511,6 @@
 - [2022-04-02-请教一下，-jdk9-中-VarHandle-的-CompareAndSet-是如何实现的？](https://www.v2ex.com/t/844490) ![](assets/new.png)  
 - [2022-04-02-2022/4/2，-Edge-可以当作-Postman-使用](https://www.v2ex.com/t/844489) ![](assets/new.png)  
 - [2022-04-02-django-postgresql-过一段时间就无法链接](https://www.v2ex.com/t/844488) ![](assets/new.png)  
-- [2022-04-02-美区-Apple-ID，-iCloud-2TB，开车](https://www.v2ex.com/t/844487) ![](assets/new.png)  
-- [2022-04-02-这几天硬盘涨价了吗？原因是什么？](https://www.v2ex.com/t/844486) ![](assets/new.png)  
-- [2022-04-02-求助-现成的-CMS-或者前端样式](https://www.v2ex.com/t/844484) ![](assets/new.png)  
-- [2022-04-02-全职远程-招聘-测试工程师](https://www.v2ex.com/t/844483) ![](assets/new.png)  
-- [2022-04-02-Aria2+Rclone+Onedrive-实现全自动化下载](https://www.v2ex.com/t/844481) ![](assets/new.png)  
-- [2022-04-02-Sprint-Boot-一定要写-SQL-吗？](https://www.v2ex.com/t/844480) ![](assets/new.png)  
-- [2022-04-02-兄弟萌-docker-和-padman-哪个更好呢](https://www.v2ex.com/t/844479) ![](assets/new.png)  
-- [2022-04-02-Go-函数的值接收者和指针接收者疑惑](https://www.v2ex.com/t/844478) ![](assets/new.png)  
-- [2022-04-02-mac-mini-输入法快捷切换键](https://www.v2ex.com/t/844477) ![](assets/new.png)  
-- [2022-04-02-fastclip-快-1-年不更新了，-coppy-还不错，但是可设置项太少，-pastenow-没用过……](https://www.v2ex.com/t/844476) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -561,11 +561,11 @@
 - [2022-04-02-手把手教你如何创建及使用Go-module](https://toutiao.io/k/87tpmeh) ![](assets/new.png)  
 - [2022-04-02-Go-Web-服务框架实现详解](https://toutiao.io/k/rrhxkbg) ![](assets/new.png)  
 - [2022-04-02-无缝大世界手游的草的一种渲染方案](https://toutiao.io/k/dcgczjt) ![](assets/new.png)  
-- [2022-04-02-推荐-时间轮原理及其在框架中的应用](https://toutiao.io/k/1dwwpfd) ![](assets/new.png)  
 - [2022-04-02-推荐-如果你是一个Golang面试官，你会问哪些问题？](https://toutiao.io/k/yvw61mc) ![](assets/new.png)  
 - [2022-04-02-推荐-你管这破玩意儿叫高可用](https://toutiao.io/k/qudsbeg) ![](assets/new.png)  
-- [2022-04-02-推荐-Kafka-面试连环炮,-看看你能撑到哪一步?](https://toutiao.io/k/z30ehzv) ![](assets/new.png)  
 - [2022-04-02-推荐-Go-高性能编程技法](https://toutiao.io/k/405ts7m) ![](assets/new.png)  
+- [2022-04-02-推荐-时间轮原理及其在框架中的应用](https://toutiao.io/k/1dwwpfd) ![](assets/new.png)  
+- [2022-04-02-推荐-Kafka-面试连环炮,-看看你能撑到哪一步?](https://toutiao.io/k/z30ehzv) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

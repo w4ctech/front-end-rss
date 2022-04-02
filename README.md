@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-04-02 02:27:49，:rocket: 更新条数: +2020， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-04-02 03:11:47，:rocket: 更新条数: +2020， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,26 +491,26 @@
 </summary>
 
 
+- [2022-04-02-求好用的-OCR-服务推荐，最好是付费的（感觉免费的不太靠谱），准确度越高越好，最好可以提供-api](https://www.v2ex.com/t/844498) ![](assets/new.png)  
+- [2022-04-02-兄弟萌，开源镜像站选择-xx-大学的好，还是选阿里云华为云腾讯云的这些好呢？](https://www.v2ex.com/t/844497) ![](assets/new.png)  
+- [2022-04-02-大家分得清-studio-display-和-iMac-吗？](https://www.v2ex.com/t/844496) ![](assets/new.png)  
+- [2022-04-02-定期性的重置-Macbook-的系统会更流畅吗?](https://www.v2ex.com/t/844495) ![](assets/new.png)  
+- [2022-04-02-有多少人平时主力电脑用的-Linux-？](https://www.v2ex.com/t/844493) ![](assets/new.png)  
+- [2022-04-02-父母真的有一天会离开我们](https://www.v2ex.com/t/844492) ![](assets/new.png)  
+- [2022-04-02-伸手党，请问有没有好的中国石油油卡充值渠道推荐](https://www.v2ex.com/t/844491) ![](assets/new.png)  
+- [2022-04-02-请教一下，-jdk9-中-VarHandle-的-CompareAndSet-是如何实现的？](https://www.v2ex.com/t/844490) ![](assets/new.png)  
+- [2022-04-02-2022/4/2，-Edge-可以当作-Postman-使用](https://www.v2ex.com/t/844489) ![](assets/new.png)  
+- [2022-04-02-django-postgresql-过一段时间就无法链接](https://www.v2ex.com/t/844488) ![](assets/new.png)  
+- [2022-04-02-美区-Apple-ID，-iCloud-2TB，开车](https://www.v2ex.com/t/844487) ![](assets/new.png)  
+- [2022-04-02-这几天硬盘涨价了吗？原因是什么？](https://www.v2ex.com/t/844486) ![](assets/new.png)  
+- [2022-04-02-求助-现成的-CMS-或者前端样式](https://www.v2ex.com/t/844484) ![](assets/new.png)  
+- [2022-04-02-全职远程-招聘-测试工程师](https://www.v2ex.com/t/844483) ![](assets/new.png)  
 - [2022-04-02-Aria2+Rclone+Onedrive-实现全自动化下载](https://www.v2ex.com/t/844481) ![](assets/new.png)  
 - [2022-04-02-Sprint-Boot-一定要写-SQL-吗？](https://www.v2ex.com/t/844480) ![](assets/new.png)  
 - [2022-04-02-兄弟萌-docker-和-padman-哪个更好呢](https://www.v2ex.com/t/844479) ![](assets/new.png)  
 - [2022-04-02-Go-函数的值接收者和指针接收者疑惑](https://www.v2ex.com/t/844478) ![](assets/new.png)  
 - [2022-04-02-mac-mini-输入法快捷切换键](https://www.v2ex.com/t/844477) ![](assets/new.png)  
 - [2022-04-02-fastclip-快-1-年不更新了，-coppy-还不错，但是可设置项太少，-pastenow-没用过……](https://www.v2ex.com/t/844476) ![](assets/new.png)  
-- [2022-04-02-这个功能是不是只有自带输入法才有？](https://www.v2ex.com/t/844475) ![](assets/new.png)  
-- [2022-04-02-求购-surge-mac-和-iOS-的家庭车一位,绿色软件联系-dWNzZHVj-base64-解码](https://www.v2ex.com/t/844474) ![](assets/new.png)  
-- [2022-04-02-各位大佬，现在还有在玩-psp-的吗？有啥经典游戏推荐吗？](https://www.v2ex.com/t/844473) ![](assets/new.png)  
-- [2022-04-02-gitee-图片无法外链到博客了，全部报-403](https://www.v2ex.com/t/844471) ![](assets/new.png)  
-- [2022-04-02-有什么办法把-xpather.com-这种工具类网页保存在本地离线使用吗](https://www.v2ex.com/t/844469) ![](assets/new.png)  
-- [2022-04-02-五年一次的-reddit-的像素大战活动又开始了，我在里面发现了不得了的东西！](https://www.v2ex.com/t/844468) ![](assets/new.png)  
-- [2022-04-02-Paypal-封禁中国商家账号](https://www.v2ex.com/t/844467) ![](assets/new.png)  
-- [2022-04-02-闪电战召集。](https://www.v2ex.com/t/844466) ![](assets/new.png)  
-- [2022-04-02-Clarity-智能合约开发语言系列教程—如何创建一个新项目](https://www.v2ex.com/t/844465) ![](assets/new.png)  
-- [2022-04-02-玩了一把小区的门禁，-Linux-系统，有没有办法在它屏幕上显示自定义的-GUI](https://www.v2ex.com/t/844463) ![](assets/new.png)  
-- [2022-04-02-大华监控-RTSP-流,-64-个监控视频同屏播放卡顿问题疑似显卡瓶颈](https://www.v2ex.com/t/844462) ![](assets/new.png)  
-- [2022-04-02-赴日工作offer-驾到❗v-友接招❗-IT-技术者-AWS/AZURE/GCP/K8S/WEB-快砸简历吧!](https://www.v2ex.com/t/844461) ![](assets/new.png)  
-- [2022-04-02-Go-语言从入门到放弃](https://www.v2ex.com/t/844460) ![](assets/new.png)  
-- [2022-04-02-国内可以访问-bitbucket-吗？](https://www.v2ex.com/t/844459) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -559,15 +559,13 @@
 - [2022-04-02-「码农周刊-VIP-会员专属邮件周报」每周五发送，赶紧上车吧！](https://toutiao.io/k/lmijyew) ![](assets/new.png)  
 - [2022-04-02-Go-1.18-workspace-使用初体验](https://toutiao.io/k/sekxhpy) ![](assets/new.png)  
 - [2022-04-02-手把手教你如何创建及使用Go-module](https://toutiao.io/k/87tpmeh) ![](assets/new.png)  
-- [2022-04-02-面试官----跨域请求如何携带-cookie-?](https://toutiao.io/k/ihtpf3v) ![](assets/new.png)  
 - [2022-04-02-Go-Web-服务框架实现详解](https://toutiao.io/k/rrhxkbg) ![](assets/new.png)  
 - [2022-04-02-无缝大世界手游的草的一种渲染方案](https://toutiao.io/k/dcgczjt) ![](assets/new.png)  
-- [2022-04-02-如何设计一个支撑数亿用户的系统](https://toutiao.io/k/rbp4yc2) ![](assets/new.png)  
 - [2022-04-02-推荐-时间轮原理及其在框架中的应用](https://toutiao.io/k/1dwwpfd) ![](assets/new.png)  
-- [2022-04-02-推荐-Kafka-面试连环炮,-看看你能撑到哪一步?](https://toutiao.io/k/z30ehzv) ![](assets/new.png)  
-- [2022-04-02-推荐-Go-高性能编程技法](https://toutiao.io/k/405ts7m) ![](assets/new.png)  
 - [2022-04-02-推荐-如果你是一个Golang面试官，你会问哪些问题？](https://toutiao.io/k/yvw61mc) ![](assets/new.png)  
 - [2022-04-02-推荐-你管这破玩意儿叫高可用](https://toutiao.io/k/qudsbeg) ![](assets/new.png)  
+- [2022-04-02-推荐-Kafka-面试连环炮,-看看你能撑到哪一步?](https://toutiao.io/k/z30ehzv) ![](assets/new.png)  
+- [2022-04-02-推荐-Go-高性能编程技法](https://toutiao.io/k/405ts7m) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

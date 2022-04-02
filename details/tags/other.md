@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-04-02 10:40:29。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-04-02 11:12:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,8 +1911,10 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
-- [2022-03-21-ascent-override-descent-override-line-gap-override一锅端](https://www.zhangxinxu.com/wordpress/2022/03/css-ascent-override-descent/) 
-- [2022-02-04-HTML-inputmode与iOS-Android软键盘类型测试](https://www.zhangxinxu.com/wordpress/2022/02/html-inputmode-keyboard/) 
+- [2022-04-02-我的抗疫随想](https://www.v2ex.com/t/844626) 
+- [2022-04-02-吐槽一下桌面版腾讯会议投屏的奇葩设定](https://www.v2ex.com/t/844625) 
+- [2022-04-02-深圳-DJI-大疆各研发岗位热招中](https://www.v2ex.com/t/844624) 
+- [2022-04-02-快捷指令如何设置-siri-无法执行的设置](https://www.v2ex.com/t/844622) 
 - [2022-04-02-Claft:-不到-3MB-的-Clash-dashboard-for-macOS-基于-SwiftUI](https://www.v2ex.com/t/844620) 
 - [2022-04-02-drf-中-ForeignKey-外键设置允许没有该字段](https://www.v2ex.com/t/844619) 
 - [2022-04-02-人生的抉择...](https://www.v2ex.com/t/844618) 
@@ -1943,9 +1945,6 @@
 - [2022-04-02-一直挂着美区商店账号会影响国区备忘录等的同步吗？](https://www.v2ex.com/t/844580) 
 - [2022-04-02-微信这个功能让人很无语……](https://www.v2ex.com/t/844579) 
 - [2022-04-02-大伙通过什么方式体系化的做知识学习和管理呢？](https://www.v2ex.com/t/844577) 
-- [2022-04-02-计算机网络应该如何入门](https://www.v2ex.com/t/844576) 
-- [2022-04-02-成都/西安-字节跳动-火山引擎-日志服务产品开发工程师](https://www.v2ex.com/t/844573) 
-- [2022-04-02-macos-如何投屏到非-apple-tv-的电视上？](https://www.v2ex.com/t/844572) 
 - [2022-04-02-通过面向对象设计串口协议-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15005&url=https%3A%2F%2Finsights.thoughtworks.cn%2Foo-design-serial-protocol%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-04-02-如何提升代码质量-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15003&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-improve-code-quality%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-04-02-什么场景（不）适合使用Lambda-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15002&url=https%3A%2F%2Finsights.thoughtworks.cn%2Flambda%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

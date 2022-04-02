@@ -9953,6 +9953,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "Web 开发对于站点名称这类读非常多，几乎不写的内容存储的最佳实践是存在配置文件/数据库，程序启动/发生变更时缓存在 Redis 里吗",
+        "link": "https://www.v2ex.com/t/844671",
+        "date": "2022-04-02"
+      },
+      {
         "title": "20220402 午夜俱乐部",
         "link": "https://www.v2ex.com/t/844670",
         "date": "2022-04-02"
@@ -10322,16 +10327,6 @@
         "date": "2022-04-02"
       },
       {
-        "title": "[推荐] Kafka 面试连环炮, 看看你能撑到哪一步?",
-        "link": "https://toutiao.io/k/z30ehzv",
-        "date": "2022-04-02"
-      },
-      {
-        "title": "[推荐] 时间轮原理及其在框架中的应用",
-        "link": "https://toutiao.io/k/1dwwpfd",
-        "date": "2022-04-02"
-      },
-      {
         "title": "[推荐] 如果你是一个Golang面试官，你会问哪些问题？",
         "link": "https://toutiao.io/k/yvw61mc",
         "date": "2022-04-02"
@@ -10342,8 +10337,18 @@
         "date": "2022-04-02"
       },
       {
+        "title": "[推荐] Kafka 面试连环炮, 看看你能撑到哪一步?",
+        "link": "https://toutiao.io/k/z30ehzv",
+        "date": "2022-04-02"
+      },
+      {
         "title": "[推荐] Go 高性能编程技法",
         "link": "https://toutiao.io/k/405ts7m",
+        "date": "2022-04-02"
+      },
+      {
+        "title": "[推荐] 时间轮原理及其在框架中的应用",
+        "link": "https://toutiao.io/k/1dwwpfd",
         "date": "2022-04-02"
       }
     ]

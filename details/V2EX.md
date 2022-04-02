@@ -1,10 +1,13 @@
-:alarm_clock: 更新时间: 2022-04-02 05:12:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-04-02 05:36:45。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-04-02-生产环境选择-debian10-还是-debian11](https://www.v2ex.com/t/844527) 
+- [2022-04-02-使用-Ibm-的-jdk11semeru在-wsl2-中读取-jar-文件会报-libzip-的-CRC32-校验错误](https://www.v2ex.com/t/844526) 
+- [2022-04-02-有人遇到-edge-Mac-和-windows-不能正常同步的情况吗](https://www.v2ex.com/t/844525) 
 - [2022-04-02-罗技-MK120-怎么样](https://www.v2ex.com/t/844523) 
 - [2022-04-02-我也请教个-Linux-电脑的问题](https://www.v2ex.com/t/844522) 
 - [2022-04-02-求推荐背包，之前用的没有分层](https://www.v2ex.com/t/844521) 
@@ -41,6 +44,3 @@
 - [2022-04-02-Sprint-Boot-一定要写-SQL-吗？](https://www.v2ex.com/t/844480) 
 - [2022-04-02-兄弟萌-docker-和-padman-哪个更好呢](https://www.v2ex.com/t/844479) 
 - [2022-04-02-Go-函数的值接收者和指针接收者疑惑](https://www.v2ex.com/t/844478) 
-- [2022-04-02-mac-mini-输入法快捷切换键](https://www.v2ex.com/t/844477) 
-- [2022-04-02-fastclip-快-1-年不更新了，-coppy-还不错，但是可设置项太少，-pastenow-没用过……](https://www.v2ex.com/t/844476) 
-- [2022-04-02-这个功能是不是只有自带输入法才有？](https://www.v2ex.com/t/844475) 

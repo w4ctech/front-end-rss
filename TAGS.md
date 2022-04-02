@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-04-02 08:16:44。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-04-02 08:42:33。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -219,7 +219,6 @@
 
 
 
-- [【V2EX】webgl-开发，模型在-iPad-上操作一会后会卡死，如何调试问题？](https://www.v2ex.com/t/844536)
 - [......【查看更多】......](./details/tags/canvas-image.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -281,6 +280,7 @@
 - [【武汉肺炎防疫全纪录(财新网)】腺病毒新冠疫苗引安全忧虑-康希诺称未发现血栓病例](https://m.caixin.com/m/2021-04-14/101691086.html)
 - [【武汉肺炎防疫全纪录(财新网)】解药|新冠mRNA疫苗安全性有哪些挑战？](https://m.caixin.com/m/2021-01-08/101648043.html)
 - [【武汉肺炎防疫全纪录(财新网)】大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html)
+- [【V2EX】Hubstudio-设置反指纹浏览器实现跨境电商多账户防关联](https://www.v2ex.com/t/844587)
 - [【V2EX】用-Firefox-打开-Reddit-的像素大战界面，疑似存在内存泄漏](https://www.v2ex.com/t/844575)
 - [【V2EX】看到个神奇的工具-curl-to-go](https://www.v2ex.com/t/844556)
 - [【开发者头条】无缝大世界手游的草的一种渲染方案](https://toutiao.io/k/dcgczjt)
@@ -350,10 +350,11 @@
 
 
 
+- [【V2EX】北京海淀招聘-web-前端-中级-早九晚六不加班](https://www.v2ex.com/t/844586)
 - [【V2EX】上海/远程-区块链金融科技公司招聘前端、合约、Go-开发工程师](https://www.v2ex.com/t/844568)
 - [【V2EX】浙江中煤液压机械有限公司招聘机电或近似专业本科生一名（大概率出差，一年有几次下井干活的情况）](https://www.v2ex.com/t/844552)
-- [【开发者头条】推荐-如果你是一个Golang面试官，你会问哪些问题？](https://toutiao.io/k/yvw61mc)
 - [【开发者头条】推荐-Kafka-面试连环炮,-看看你能撑到哪一步?](https://toutiao.io/k/z30ehzv)
+- [【开发者头条】推荐-如果你是一个Golang面试官，你会问哪些问题？](https://toutiao.io/k/yvw61mc)
 - [......【查看更多】......](./details/tags/job-interview.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

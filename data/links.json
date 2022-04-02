@@ -9953,6 +9953,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "上海 2022 年招聘市场 Java 薪资统计",
+        "link": "https://www.v2ex.com/t/844647",
+        "date": "2022-04-02"
+      },
+      {
         "title": "youtube 怎样让缓冲时间增加?",
         "link": "https://www.v2ex.com/t/844645",
         "date": "2022-04-02"
@@ -10151,11 +10156,6 @@
         "title": "「Hanhan 小卖铺」拔草，购买请谨慎",
         "link": "https://www.v2ex.com/t/844598",
         "date": "2022-04-02"
-      },
-      {
-        "title": "继续卖波茶叶，明前茶倒计时了，黄山脚下 农家自产毛尖 ，纯手工烘炒需要的可以加\r\n张小龙： d3dmNzY3MjUyODgx",
-        "link": "https://www.v2ex.com/t/844597",
-        "date": "2022-04-02"
       }
     ]
   },
@@ -10332,18 +10332,8 @@
         "date": "2022-04-02"
       },
       {
-        "title": "[推荐] Go 高性能编程技法",
-        "link": "https://toutiao.io/k/405ts7m",
-        "date": "2022-04-02"
-      },
-      {
-        "title": "[推荐] 你管这破玩意儿叫高可用",
-        "link": "https://toutiao.io/k/qudsbeg",
-        "date": "2022-04-02"
-      },
-      {
-        "title": "[推荐] 时间轮原理及其在框架中的应用",
-        "link": "https://toutiao.io/k/1dwwpfd",
+        "title": "[推荐] Kafka 面试连环炮, 看看你能撑到哪一步?",
+        "link": "https://toutiao.io/k/z30ehzv",
         "date": "2022-04-02"
       },
       {
@@ -10352,8 +10342,18 @@
         "date": "2022-04-02"
       },
       {
-        "title": "[推荐] Kafka 面试连环炮, 看看你能撑到哪一步?",
-        "link": "https://toutiao.io/k/z30ehzv",
+        "title": "[推荐] 时间轮原理及其在框架中的应用",
+        "link": "https://toutiao.io/k/1dwwpfd",
+        "date": "2022-04-02"
+      },
+      {
+        "title": "[推荐] Go 高性能编程技法",
+        "link": "https://toutiao.io/k/405ts7m",
+        "date": "2022-04-02"
+      },
+      {
+        "title": "[推荐] 你管这破玩意儿叫高可用",
+        "link": "https://toutiao.io/k/qudsbeg",
         "date": "2022-04-02"
       }
     ]

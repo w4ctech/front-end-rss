@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-04-03 21:12:25，:rocket: 更新条数: +2022， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-04-03 21:37:54，:rocket: 更新条数: +2023， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-04-03-请问-Python-如何强制不使用科学计数法打印浮点数？](https://www.v2ex.com/t/844824) ![](assets/new.png)  
 - [2022-04-03-在-Xcode-的调试日志里关闭-CVDisplayLink-日志](https://www.v2ex.com/t/844823) ![](assets/new.png)  
 - [2022-04-03-有没有用-DoQ-的](https://www.v2ex.com/t/844822) ![](assets/new.png)  
 - [2022-04-03-和朋友争论曾国藩的平生，气得睡不着，想问问大家有没有什么解决办法](https://www.v2ex.com/t/844821) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-04-03-b-站-pc-web-端视频播放默认使用的解码格式-HEVC-不支持硬解，导致-CPU-负载高](https://www.v2ex.com/t/844803) ![](assets/new.png)  
 - [2022-04-03-除了工业软件，还有什么软件是一定要桌面应用/客户端呢](https://www.v2ex.com/t/844802) ![](assets/new.png)  
 - [2022-04-03-chrome-有办法导入-edge-的历史记录吗](https://www.v2ex.com/t/844801) ![](assets/new.png)  
-- [2022-04-03-现在-Mac-上的-adobe-破解为什么都没更新？](https://www.v2ex.com/t/844800) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -565,10 +565,10 @@
 - [2022-04-03-架构杂谈：Rust语言中不可变性、可变性、内部可变性](https://toutiao.io/k/01n5z5r) ![](assets/new.png)  
 - [2022-04-03-推荐-时间轮原理及其在框架中的应用](https://toutiao.io/k/1dwwpfd) ![](assets/new.png)  
 - [2022-04-03-推荐-你管这破玩意儿叫高可用](https://toutiao.io/k/qudsbeg) ![](assets/new.png)  
-- [2022-04-03-推荐-万字长文助你上手软件领域驱动设计-DDD](https://toutiao.io/k/72nuj7z) ![](assets/new.png)  
-- [2022-04-03-推荐-20多个好用的-Vue-组件库，请查收！](https://toutiao.io/k/sskayyw) ![](assets/new.png)  
 - [2022-04-03-推荐-Kafka-面试连环炮,-看看你能撑到哪一步?](https://toutiao.io/k/z30ehzv) ![](assets/new.png)  
+- [2022-04-03-推荐-万字长文助你上手软件领域驱动设计-DDD](https://toutiao.io/k/72nuj7z) ![](assets/new.png)  
 - [2022-04-03-推荐-如果你是一个Golang面试官，你会问哪些问题？](https://toutiao.io/k/yvw61mc) ![](assets/new.png)  
+- [2022-04-03-推荐-20多个好用的-Vue-组件库，请查收！](https://toutiao.io/k/sskayyw) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

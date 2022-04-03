@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-04-03 21:12:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-04-03 21:37:54。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1913,6 +1913,7 @@
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2022-03-21-ascent-override-descent-override-line-gap-override一锅端](https://www.zhangxinxu.com/wordpress/2022/03/css-ascent-override-descent/) 
 - [2022-02-04-HTML-inputmode与iOS-Android软键盘类型测试](https://www.zhangxinxu.com/wordpress/2022/02/html-inputmode-keyboard/) 
+- [2022-04-03-请问-Python-如何强制不使用科学计数法打印浮点数？](https://www.v2ex.com/t/844824) 
 - [2022-04-03-有没有用-DoQ-的](https://www.v2ex.com/t/844822) 
 - [2022-04-03-和朋友争论曾国藩的平生，气得睡不着，想问问大家有没有什么解决办法](https://www.v2ex.com/t/844821) 
 - [2022-04-03-美区-Paypal-被风控了，需要验证手机号怎么破](https://www.v2ex.com/t/844820) 

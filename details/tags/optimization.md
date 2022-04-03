@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-04-03 00:56:32。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-04-03 02:29:00。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 性能优化
 
@@ -8,4 +8,5 @@
 
 
 - [2022-04-03-搜索引擎优化（SEO）之整合重复网址-forum.lovejade.cn](https://blogread.cn/news/go.php?idItem=14994&url=https%3A%2F%2Fforum.lovejade.cn%2Fd%2F147-seo%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2022-04-03-Go-泛型基准测试：性能更差还是更好？](https://toutiao.io/k/zql4z5a) 
 - [2022-04-03-推荐-Go-高性能编程技法](https://toutiao.io/k/405ts7m) 

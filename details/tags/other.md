@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-04-03 02:29:00。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-04-03 03:10:42。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1913,6 +1913,9 @@
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2022-03-21-ascent-override-descent-override-line-gap-override一锅端](https://www.zhangxinxu.com/wordpress/2022/03/css-ascent-override-descent/) 
 - [2022-02-04-HTML-inputmode与iOS-Android软键盘类型测试](https://www.zhangxinxu.com/wordpress/2022/02/html-inputmode-keyboard/) 
+- [2022-04-03-为什么越来越多的软件推出订阅制了？即使是使用频率较低的软件](https://www.v2ex.com/t/844695) 
+- [2022-04-03-赠送五张网易](https://www.v2ex.com/t/844694) 
+- [2022-04-03-关于前端打包分析](https://www.v2ex.com/t/844692) 
 - [2022-04-03-出交通事故责任怎么划分有大佬知道吗？](https://www.v2ex.com/t/844689) 
 - [2022-04-03-Python-一行一行地添加数据，分析数据的时候需要按列分析，这种怎么实现呢](https://www.v2ex.com/t/844688) 
 - [2022-04-03-苹果开发者账号变更公司主体](https://www.v2ex.com/t/844687) 
@@ -1940,9 +1943,6 @@
 - [2022-04-02-苹果宣布-Macbook-air-2014-已成过时产品](https://www.v2ex.com/t/844650) 
 - [2022-04-02-52-年了，想要入-intel-军，多少钱合适？](https://www.v2ex.com/t/844649) 
 - [2022-04-02-找个-2.5-折的腾讯云代理买轻量，联系我](https://www.v2ex.com/t/844648) 
-- [2022-04-02-youtube-怎样让缓冲时间增加?](https://www.v2ex.com/t/844645) 
-- [2022-04-02-像素大战的用户行为分析](https://www.v2ex.com/t/844642) 
-- [2022-04-02-公司电脑能监控到-telegram-的信息吗？](https://www.v2ex.com/t/844640) 
 - [2022-04-03-通过面向对象设计串口协议-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15005&url=https%3A%2F%2Finsights.thoughtworks.cn%2Foo-design-serial-protocol%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-04-03-如何提升代码质量-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15003&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-improve-code-quality%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-04-03-什么场景（不）适合使用Lambda-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15002&url=https%3A%2F%2Finsights.thoughtworks.cn%2Flambda%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

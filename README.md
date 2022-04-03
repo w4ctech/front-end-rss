@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-04-03 14:36:55，:rocket: 更新条数: +2024， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-04-03 15:14:12，:rocket: 更新条数: +2022， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,13 @@
 </summary>
 
 
+- [2022-04-03-Chrome-扩展---实时语音转字幕](https://www.v2ex.com/t/844806) ![](assets/new.png)  
+- [2022-04-03-MAS-版本的-onedrive-变英文了？](https://www.v2ex.com/t/844805) ![](assets/new.png)  
+- [2022-04-03-发现-iOS-端抖音、微博现在以及时通知的形式推送私信、回复](https://www.v2ex.com/t/844804) ![](assets/new.png)  
+- [2022-04-03-b-站-pc-web-端视频播放默认使用的解码格式-HEVC-不支持硬解，导致-CPU-负载高](https://www.v2ex.com/t/844803) ![](assets/new.png)  
+- [2022-04-03-除了工业软件，还有什么软件是一定要桌面应用/客户端呢](https://www.v2ex.com/t/844802) ![](assets/new.png)  
+- [2022-04-03-chrome-有办法导入-edge-的历史记录吗](https://www.v2ex.com/t/844801) ![](assets/new.png)  
+- [2022-04-03-现在-Mac-上的-adobe-破解为什么都没更新？](https://www.v2ex.com/t/844800) ![](assets/new.png)  
 - [2022-04-03-求助，-windows11-的-icloud-和-iTunes-登陆时出现-”连接到-apple-ID-服务器时出错”](https://www.v2ex.com/t/844798) ![](assets/new.png)  
 - [2022-04-03-vscode-上的-background-插件安装不了](https://www.v2ex.com/t/844796) ![](assets/new.png)  
 - [2022-04-03-目前-Wayland-和-X.Org-在使用/性能上差别大吗，有没有人对比过](https://www.v2ex.com/t/844795) ![](assets/new.png)  
@@ -504,13 +511,6 @@
 - [2022-04-03-老款-mac-要一直升级最新-macos-系统吗？](https://www.v2ex.com/t/844786) ![](assets/new.png)  
 - [2022-04-03-有啥方便快捷的下载-ins-上图片视频的方法？](https://www.v2ex.com/t/844785) ![](assets/new.png)  
 - [2022-04-03-开了个淘宝陪聊店怎么推广](https://www.v2ex.com/t/844784) ![](assets/new.png)  
-- [2022-04-03-现在哪个-AI-放大番剧截图的工具效果最好？](https://www.v2ex.com/t/844783) ![](assets/new.png)  
-- [2022-04-03-DDD-中的聚合根应该怎么理解？](https://www.v2ex.com/t/844781) ![](assets/new.png)  
-- [2022-04-03-惠州-惠州-TCL-茂佳-招-软件项目管理工程师、TV-软件开发](https://www.v2ex.com/t/844780) ![](assets/new.png)  
-- [2022-04-03-望京西园四区房子转租](https://www.v2ex.com/t/844778) ![](assets/new.png)  
-- [2022-04-03-新买了一个-USB-音箱麦克风。。在-m1-pro-mbp-上遇到了一个奇怪的问题。。](https://www.v2ex.com/t/844777) ![](assets/new.png)  
-- [2022-04-03-你为什么选择-Arch-Linux-？](https://www.v2ex.com/t/844776) ![](assets/new.png)  
-- [2022-04-03-出个-360v6-wifi6-京东版-最近比较火的路由器-228-元出江浙皖](https://www.v2ex.com/t/844775) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -564,12 +564,12 @@
 - [2022-04-03-保护自己---深入链路探究网络安全](https://toutiao.io/k/y86xtrm) ![](assets/new.png)  
 - [2022-04-03-架构杂谈：Rust语言中不可变性、可变性、内部可变性](https://toutiao.io/k/01n5z5r) ![](assets/new.png)  
 - [2022-04-03-推荐-万字长文助你上手软件领域驱动设计-DDD](https://toutiao.io/k/72nuj7z) ![](assets/new.png)  
-- [2022-04-03-推荐-你管这破玩意儿叫高可用](https://toutiao.io/k/qudsbeg) ![](assets/new.png)  
-- [2022-04-03-推荐-20多个好用的-Vue-组件库，请查收！](https://toutiao.io/k/sskayyw) ![](assets/new.png)  
-- [2022-04-03-推荐-Kafka-面试连环炮,-看看你能撑到哪一步?](https://toutiao.io/k/z30ehzv) ![](assets/new.png)  
 - [2022-04-03-推荐-时间轮原理及其在框架中的应用](https://toutiao.io/k/1dwwpfd) ![](assets/new.png)  
-- [2022-04-03-推荐-如果你是一个Golang面试官，你会问哪些问题？](https://toutiao.io/k/yvw61mc) ![](assets/new.png)  
+- [2022-04-03-推荐-20多个好用的-Vue-组件库，请查收！](https://toutiao.io/k/sskayyw) ![](assets/new.png)  
 - [2022-04-03-推荐-Go-高性能编程技法](https://toutiao.io/k/405ts7m) ![](assets/new.png)  
+- [2022-04-03-推荐-Kafka-面试连环炮,-看看你能撑到哪一步?](https://toutiao.io/k/z30ehzv) ![](assets/new.png)  
+- [2022-04-03-推荐-你管这破玩意儿叫高可用](https://toutiao.io/k/qudsbeg) ![](assets/new.png)  
+- [2022-04-03-推荐-如果你是一个Golang面试官，你会问哪些问题？](https://toutiao.io/k/yvw61mc) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -9953,6 +9953,41 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "Chrome 扩展 - 实时语音转字幕",
+        "link": "https://www.v2ex.com/t/844806",
+        "date": "2022-04-03"
+      },
+      {
+        "title": "MAS 版本的 onedrive 变英文了？",
+        "link": "https://www.v2ex.com/t/844805",
+        "date": "2022-04-03"
+      },
+      {
+        "title": "发现 iOS 端抖音、微博现在以及时通知的形式推送私信、回复",
+        "link": "https://www.v2ex.com/t/844804",
+        "date": "2022-04-03"
+      },
+      {
+        "title": "b 站 pc web 端视频播放默认使用的解码格式 HEVC 不支持硬解，导致 CPU 负载高",
+        "link": "https://www.v2ex.com/t/844803",
+        "date": "2022-04-03"
+      },
+      {
+        "title": "除了工业软件，还有什么软件是一定要桌面应用/客户端呢",
+        "link": "https://www.v2ex.com/t/844802",
+        "date": "2022-04-03"
+      },
+      {
+        "title": "chrome 有办法导入 edge 的历史记录吗",
+        "link": "https://www.v2ex.com/t/844801",
+        "date": "2022-04-03"
+      },
+      {
+        "title": "现在 Mac 上的 adobe 破解为什么都没更新？",
+        "link": "https://www.v2ex.com/t/844800",
+        "date": "2022-04-03"
+      },
+      {
         "title": "求助， windows11 的 icloud 和 iTunes 登陆时出现 ”连接到 apple ID 服务器时出错”",
         "link": "https://www.v2ex.com/t/844798",
         "date": "2022-04-03"
@@ -10110,51 +10145,6 @@
       {
         "title": "ax 路由器和 ac 路由器可以一起以 kvr 协议无缝漫游或者组 MESH 网吗？求推荐",
         "link": "https://www.v2ex.com/t/844758",
-        "date": "2022-04-03"
-      },
-      {
-        "title": "用 keras 搭建出一个判断今天是周几的模型？",
-        "link": "https://www.v2ex.com/t/844757",
-        "date": "2022-04-03"
-      },
-      {
-        "title": "手机内存 64g，现在不够用了，可是扩展的 microsd 也没办法用到程序上，有啥不换手机的好办法吗",
-        "link": "https://www.v2ex.com/t/844756",
-        "date": "2022-04-03"
-      },
-      {
-        "title": "Nexmoe.css - 只用 HTML 就能写出具有流畅动画和漂亮界面的现代网站。",
-        "link": "https://www.v2ex.com/t/844755",
-        "date": "2022-04-03"
-      },
-      {
-        "title": "为什么地方的政务平台可以做得比省级的都好？",
-        "link": "https://www.v2ex.com/t/844754",
-        "date": "2022-04-03"
-      },
-      {
-        "title": "请教关于 pywebio 的 table 问题",
-        "link": "https://www.v2ex.com/t/844753",
-        "date": "2022-04-03"
-      },
-      {
-        "title": "[上海] Python 开发工程师，薪资待遇优越",
-        "link": "https://www.v2ex.com/t/844752",
-        "date": "2022-04-03"
-      },
-      {
-        "title": "各位公司又买补充/高端医疗保险的嘛？都买的那种的？",
-        "link": "https://www.v2ex.com/t/844751",
-        "date": "2022-04-03"
-      },
-      {
-        "title": "有没有在币圈交易所的老哥，最近拿了个 offer",
-        "link": "https://www.v2ex.com/t/844750",
-        "date": "2022-04-03"
-      },
-      {
-        "title": "ClassNotFoundException Didn't find class *",
-        "link": "https://www.v2ex.com/t/844749",
         "date": "2022-04-03"
       }
     ]
@@ -10327,8 +10317,8 @@
         "date": "2022-04-03"
       },
       {
-        "title": "[推荐] 你管这破玩意儿叫高可用",
-        "link": "https://toutiao.io/k/qudsbeg",
+        "title": "[推荐] 时间轮原理及其在框架中的应用",
+        "link": "https://toutiao.io/k/1dwwpfd",
         "date": "2022-04-03"
       },
       {
@@ -10337,23 +10327,23 @@
         "date": "2022-04-03"
       },
       {
+        "title": "[推荐] Go 高性能编程技法",
+        "link": "https://toutiao.io/k/405ts7m",
+        "date": "2022-04-03"
+      },
+      {
         "title": "[推荐] Kafka 面试连环炮, 看看你能撑到哪一步?",
         "link": "https://toutiao.io/k/z30ehzv",
         "date": "2022-04-03"
       },
       {
-        "title": "[推荐] 时间轮原理及其在框架中的应用",
-        "link": "https://toutiao.io/k/1dwwpfd",
+        "title": "[推荐] 你管这破玩意儿叫高可用",
+        "link": "https://toutiao.io/k/qudsbeg",
         "date": "2022-04-03"
       },
       {
         "title": "[推荐] 如果你是一个Golang面试官，你会问哪些问题？",
         "link": "https://toutiao.io/k/yvw61mc",
-        "date": "2022-04-03"
-      },
-      {
-        "title": "[推荐] Go 高性能编程技法",
-        "link": "https://toutiao.io/k/405ts7m",
         "date": "2022-04-03"
       }
     ]

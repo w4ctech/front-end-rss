@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-04-03 14:36:55。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-04-03 15:14:12。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,13 @@
 </summary>
 
 
+- [【V2EX】2022-04-03-Chrome-扩展---实时语音转字幕](https://www.v2ex.com/t/844806) 
+- [【V2EX】2022-04-03-MAS-版本的-onedrive-变英文了？](https://www.v2ex.com/t/844805) 
+- [【V2EX】2022-04-03-发现-iOS-端抖音、微博现在以及时通知的形式推送私信、回复](https://www.v2ex.com/t/844804) 
+- [【V2EX】2022-04-03-b-站-pc-web-端视频播放默认使用的解码格式-HEVC-不支持硬解，导致-CPU-负载高](https://www.v2ex.com/t/844803) 
+- [【V2EX】2022-04-03-除了工业软件，还有什么软件是一定要桌面应用/客户端呢](https://www.v2ex.com/t/844802) 
+- [【V2EX】2022-04-03-chrome-有办法导入-edge-的历史记录吗](https://www.v2ex.com/t/844801) 
+- [【V2EX】2022-04-03-现在-Mac-上的-adobe-破解为什么都没更新？](https://www.v2ex.com/t/844800) 
 - [【V2EX】2022-04-03-求助，-windows11-的-icloud-和-iTunes-登陆时出现-”连接到-apple-ID-服务器时出错”](https://www.v2ex.com/t/844798) 
 - [【V2EX】2022-04-03-vscode-上的-background-插件安装不了](https://www.v2ex.com/t/844796) 
 - [【V2EX】2022-04-03-目前-Wayland-和-X.Org-在使用/性能上差别大吗，有没有人对比过](https://www.v2ex.com/t/844795) 
@@ -100,15 +107,6 @@
 - [【V2EX】2022-04-03-淘宝-天猫-safari-支持不太友好吗？](https://www.v2ex.com/t/844760) 
 - [【V2EX】2022-04-03-国外的云服务器供应商哪家的云数据库便宜点？](https://www.v2ex.com/t/844759) 
 - [【V2EX】2022-04-03-ax-路由器和-ac-路由器可以一起以-kvr-协议无缝漫游或者组-MESH-网吗？求推荐](https://www.v2ex.com/t/844758) 
-- [【V2EX】2022-04-03-用-keras-搭建出一个判断今天是周几的模型？](https://www.v2ex.com/t/844757) 
-- [【V2EX】2022-04-03-手机内存-64g，现在不够用了，可是扩展的-microsd-也没办法用到程序上，有啥不换手机的好办法吗](https://www.v2ex.com/t/844756) 
-- [【V2EX】2022-04-03-Nexmoe.css---只用-HTML-就能写出具有流畅动画和漂亮界面的现代网站。](https://www.v2ex.com/t/844755) 
-- [【V2EX】2022-04-03-为什么地方的政务平台可以做得比省级的都好？](https://www.v2ex.com/t/844754) 
-- [【V2EX】2022-04-03-请教关于-pywebio-的-table-问题](https://www.v2ex.com/t/844753) 
-- [【V2EX】2022-04-03-上海-Python-开发工程师，薪资待遇优越](https://www.v2ex.com/t/844752) 
-- [【V2EX】2022-04-03-各位公司又买补充/高端医疗保险的嘛？都买的那种的？](https://www.v2ex.com/t/844751) 
-- [【V2EX】2022-04-03-有没有在币圈交易所的老哥，最近拿了个-offer](https://www.v2ex.com/t/844750) 
-- [【V2EX】2022-04-03-ClassNotFoundException-Didn't-find-class-*](https://www.v2ex.com/t/844749) 
 - [【技术头条】2022-04-03-通过面向对象设计串口协议-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15005&url=https%3A%2F%2Finsights.thoughtworks.cn%2Foo-design-serial-protocol%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-04-03-使用jscodeshift做自动化重构-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15004&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fjscodeshift%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-04-03-如何提升代码质量-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15003&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-improve-code-quality%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -140,12 +138,12 @@
 - [【开发者头条】2022-04-03-保护自己---深入链路探究网络安全](https://toutiao.io/k/y86xtrm) 
 - [【开发者头条】2022-04-03-架构杂谈：Rust语言中不可变性、可变性、内部可变性](https://toutiao.io/k/01n5z5r) 
 - [【开发者头条】2022-04-03-推荐-万字长文助你上手软件领域驱动设计-DDD](https://toutiao.io/k/72nuj7z) 
-- [【开发者头条】2022-04-03-推荐-你管这破玩意儿叫高可用](https://toutiao.io/k/qudsbeg) 
-- [【开发者头条】2022-04-03-推荐-20多个好用的-Vue-组件库，请查收！](https://toutiao.io/k/sskayyw) 
-- [【开发者头条】2022-04-03-推荐-Kafka-面试连环炮,-看看你能撑到哪一步?](https://toutiao.io/k/z30ehzv) 
 - [【开发者头条】2022-04-03-推荐-时间轮原理及其在框架中的应用](https://toutiao.io/k/1dwwpfd) 
-- [【开发者头条】2022-04-03-推荐-如果你是一个Golang面试官，你会问哪些问题？](https://toutiao.io/k/yvw61mc) 
+- [【开发者头条】2022-04-03-推荐-20多个好用的-Vue-组件库，请查收！](https://toutiao.io/k/sskayyw) 
 - [【开发者头条】2022-04-03-推荐-Go-高性能编程技法](https://toutiao.io/k/405ts7m) 
+- [【开发者头条】2022-04-03-推荐-Kafka-面试连环炮,-看看你能撑到哪一步?](https://toutiao.io/k/z30ehzv) 
+- [【开发者头条】2022-04-03-推荐-你管这破玩意儿叫高可用](https://toutiao.io/k/qudsbeg) 
+- [【开发者头条】2022-04-03-推荐-如果你是一个Golang面试官，你会问哪些问题？](https://toutiao.io/k/yvw61mc) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

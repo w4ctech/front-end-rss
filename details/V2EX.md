@@ -1,10 +1,17 @@
-:alarm_clock: 更新时间: 2022-04-03 14:36:55。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-04-03 15:14:12。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-04-03-Chrome-扩展---实时语音转字幕](https://www.v2ex.com/t/844806) 
+- [2022-04-03-MAS-版本的-onedrive-变英文了？](https://www.v2ex.com/t/844805) 
+- [2022-04-03-发现-iOS-端抖音、微博现在以及时通知的形式推送私信、回复](https://www.v2ex.com/t/844804) 
+- [2022-04-03-b-站-pc-web-端视频播放默认使用的解码格式-HEVC-不支持硬解，导致-CPU-负载高](https://www.v2ex.com/t/844803) 
+- [2022-04-03-除了工业软件，还有什么软件是一定要桌面应用/客户端呢](https://www.v2ex.com/t/844802) 
+- [2022-04-03-chrome-有办法导入-edge-的历史记录吗](https://www.v2ex.com/t/844801) 
+- [2022-04-03-现在-Mac-上的-adobe-破解为什么都没更新？](https://www.v2ex.com/t/844800) 
 - [2022-04-03-求助，-windows11-的-icloud-和-iTunes-登陆时出现-”连接到-apple-ID-服务器时出错”](https://www.v2ex.com/t/844798) 
 - [2022-04-03-vscode-上的-background-插件安装不了](https://www.v2ex.com/t/844796) 
 - [2022-04-03-目前-Wayland-和-X.Org-在使用/性能上差别大吗，有没有人对比过](https://www.v2ex.com/t/844795) 
@@ -37,12 +44,3 @@
 - [2022-04-03-淘宝-天猫-safari-支持不太友好吗？](https://www.v2ex.com/t/844760) 
 - [2022-04-03-国外的云服务器供应商哪家的云数据库便宜点？](https://www.v2ex.com/t/844759) 
 - [2022-04-03-ax-路由器和-ac-路由器可以一起以-kvr-协议无缝漫游或者组-MESH-网吗？求推荐](https://www.v2ex.com/t/844758) 
-- [2022-04-03-用-keras-搭建出一个判断今天是周几的模型？](https://www.v2ex.com/t/844757) 
-- [2022-04-03-手机内存-64g，现在不够用了，可是扩展的-microsd-也没办法用到程序上，有啥不换手机的好办法吗](https://www.v2ex.com/t/844756) 
-- [2022-04-03-Nexmoe.css---只用-HTML-就能写出具有流畅动画和漂亮界面的现代网站。](https://www.v2ex.com/t/844755) 
-- [2022-04-03-为什么地方的政务平台可以做得比省级的都好？](https://www.v2ex.com/t/844754) 
-- [2022-04-03-请教关于-pywebio-的-table-问题](https://www.v2ex.com/t/844753) 
-- [2022-04-03-上海-Python-开发工程师，薪资待遇优越](https://www.v2ex.com/t/844752) 
-- [2022-04-03-各位公司又买补充/高端医疗保险的嘛？都买的那种的？](https://www.v2ex.com/t/844751) 
-- [2022-04-03-有没有在币圈交易所的老哥，最近拿了个-offer](https://www.v2ex.com/t/844750) 
-- [2022-04-03-ClassNotFoundException-Didn't-find-class-*](https://www.v2ex.com/t/844749) 

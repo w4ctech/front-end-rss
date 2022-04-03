@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-04-03 03:48:29。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-04-03 04:16:50。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1913,7 +1913,6 @@
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2022-03-21-ascent-override-descent-override-line-gap-override一锅端](https://www.zhangxinxu.com/wordpress/2022/03/css-ascent-override-descent/) 
 - [2022-02-04-HTML-inputmode与iOS-Android软键盘类型测试](https://www.zhangxinxu.com/wordpress/2022/02/html-inputmode-keyboard/) 
-- [2022-04-03-求破解-telegram-广告群发软件](https://www.v2ex.com/t/844703) 
 - [2022-04-03-有抢菜程序吗](https://www.v2ex.com/t/844702) 
 - [2022-04-03-像素大战里面那些图片应该都是机器人值守的吧？](https://www.v2ex.com/t/844701) 
 - [2022-04-03-一个油猴脚本，还我干净清爽的百度百科页面](https://www.v2ex.com/t/844697) 
@@ -1941,7 +1940,6 @@
 - [2022-04-02-联通手机网信号差，想看下移动套餐](https://www.v2ex.com/t/844662) 
 - [2022-04-02-特斯拉校招大家给点意见](https://www.v2ex.com/t/844660) 
 - [2022-04-02-stackoverflow-咋成这样了呢](https://www.v2ex.com/t/844658) 
-- [2022-04-02-mac-studio-网速的问题](https://www.v2ex.com/t/844655) 
 - [2022-04-03-通过面向对象设计串口协议-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15005&url=https%3A%2F%2Finsights.thoughtworks.cn%2Foo-design-serial-protocol%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-04-03-如何提升代码质量-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15003&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-improve-code-quality%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-04-03-什么场景（不）适合使用Lambda-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15002&url=https%3A%2F%2Finsights.thoughtworks.cn%2Flambda%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

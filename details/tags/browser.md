@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-04-03 15:14:12。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-04-03 15:41:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -16,5 +16,4 @@
 - [2022-04-03-Chrome-扩展---实时语音转字幕](https://www.v2ex.com/t/844806) 
 - [2022-04-03-chrome-有办法导入-edge-的历史记录吗](https://www.v2ex.com/t/844801) 
 - [2022-04-03-微博网页版为什么老是让-Chrome/Edge-卡死呢？](https://www.v2ex.com/t/844772) 
-- [2022-04-03-淘宝-天猫-safari-支持不太友好吗？](https://www.v2ex.com/t/844760) 
 - [2022-04-03-保护自己---深入链路探究网络安全](https://toutiao.io/k/y86xtrm) 

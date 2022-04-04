@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-04-04 06:17:39，:rocket: 更新条数: +52， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-04-04 06:47:27，:rocket: 更新条数: +52， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -471,6 +471,8 @@
 </summary>
 
 
+- [2022-04-04-R6670BXV5-512-能够在-iMac17,1-上使用吗？](https://www.v2ex.com/t/844878) ![](assets/new.png)  
+- [2022-04-04-微信好像真的修复了消息提醒转圈圈](https://www.v2ex.com/t/844877) ![](assets/new.png)  
 - [2022-04-04-ubuntu-下有什么好看的终端吗？](https://www.v2ex.com/t/844876) ![](assets/new.png)  
 - [2022-04-04-markdown-文件如何实现精准翻译并计算翻译进度？](https://www.v2ex.com/t/844875) ![](assets/new.png)  
 - [2022-04-04-如果一个软件想-支持并且推荐-用户自己手动同步数据（使用大公司同步盘或者开源自建，不需要用户提供方去提供用户管理和数据存储），适合做成什么样的形式？](https://www.v2ex.com/t/844874) ![](assets/new.png)  
@@ -489,8 +491,6 @@
 - [2022-04-04-所以,,没人搞一个文本分类的自动收藏夹处理插件么?](https://www.v2ex.com/t/844859) ![](assets/new.png)  
 - [2022-04-04-关于百度网盘的“同步空间”和“文件夹自动备份”的逻辑](https://www.v2ex.com/t/844858) ![](assets/new.png)  
 - [2022-04-04-30-来岁了手指没有一个月牙，这个有科学依据吗？](https://www.v2ex.com/t/844856) ![](assets/new.png)  
-- [2022-04-04-iOS-上-Google-应用无法搜索](https://www.v2ex.com/t/844854) ![](assets/new.png)  
-- [2022-04-04-macOS-有什么工具可以将快捷键绑定到窗口（而不是程序）吗？](https://www.v2ex.com/t/844853) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

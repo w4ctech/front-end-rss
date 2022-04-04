@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-04-04 06:17:39。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-04-04 06:47:27。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -371,6 +371,8 @@
 
 - [【张鑫旭-鑫空间-鑫生活】ascent-override-descent-override-line-gap-override一锅端](https://www.zhangxinxu.com/wordpress/2022/03/css-ascent-override-descent/)
 - [【张鑫旭-鑫空间-鑫生活】HTML-inputmode与iOS-Android软键盘类型测试](https://www.zhangxinxu.com/wordpress/2022/02/html-inputmode-keyboard/)
+- [【V2EX】R6670BXV5-512-能够在-iMac17,1-上使用吗？](https://www.v2ex.com/t/844878)
+- [【V2EX】微信好像真的修复了消息提醒转圈圈](https://www.v2ex.com/t/844877)
 - [【V2EX】ubuntu-下有什么好看的终端吗？](https://www.v2ex.com/t/844876)
 - [【V2EX】markdown-文件如何实现精准翻译并计算翻译进度？](https://www.v2ex.com/t/844875)
 - [【V2EX】如果一个软件想-支持并且推荐-用户自己手动同步数据（使用大公司同步盘或者开源自建，不需要用户提供方去提供用户管理和数据存储），适合做成什么样的形式？](https://www.v2ex.com/t/844874)
@@ -387,8 +389,6 @@
 - [【V2EX】升级到-12.3.1-21E258-之后老是-panic-呢……](https://www.v2ex.com/t/844861)
 - [【V2EX】有长期做合约稳定盈利的大佬吗？](https://www.v2ex.com/t/844860)
 - [【V2EX】所以,,没人搞一个文本分类的自动收藏夹处理插件么?](https://www.v2ex.com/t/844859)
-- [【V2EX】关于百度网盘的“同步空间”和“文件夹自动备份”的逻辑](https://www.v2ex.com/t/844858)
-- [【V2EX】30-来岁了手指没有一个月牙，这个有科学依据吗？](https://www.v2ex.com/t/844856)
 - [......【查看更多】......](./details/tags/other.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

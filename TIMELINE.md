@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-04-04 11:13:17。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-04-04 11:36:45。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,9 @@
 </summary>
 
 
+- [【V2EX】2022-04-04-域名邮箱-有谁在用-MXRoute？](https://www.v2ex.com/t/844924) 
+- [【V2EX】2022-04-04-有没有这种软件，读取系统播放的英文人声，进行-speech2text-处理，输出文字](https://www.v2ex.com/t/844923) 
+- [【V2EX】2022-04-04-请问大厂前后端分离开发工作流是什么样的？](https://www.v2ex.com/t/844922) 
 - [【V2EX】2022-04-04-Windows-转-MacOS4-个月-分享觉得眼前一亮的软件](https://www.v2ex.com/t/844921) 
 - [【V2EX】2022-04-04-为什么-2022-年了-mbp-都做不到不用关机？苹果公司的程序员都是废物吧](https://www.v2ex.com/t/844919) 
 - [【V2EX】2022-04-04-上海-PDD-社招/校招内推，-Android/iOS/高性能计算/浏览器内核/深度学习框架-等方向](https://www.v2ex.com/t/844918) 
@@ -103,9 +106,6 @@
 - [【V2EX】2022-04-04-微信好像真的修复了消息提醒转圈圈](https://www.v2ex.com/t/844877) 
 - [【V2EX】2022-04-04-ubuntu-下有什么好看的终端吗？](https://www.v2ex.com/t/844876) 
 - [【V2EX】2022-04-04-markdown-文件如何实现精准翻译并计算翻译进度？](https://www.v2ex.com/t/844875) 
-- [【V2EX】2022-04-04-如果一个软件想-支持并且推荐-用户自己手动同步数据（使用大公司同步盘或者开源自建，不需要用户提供方去提供用户管理和数据存储），适合做成什么样的形式？](https://www.v2ex.com/t/844874) 
-- [【V2EX】2022-04-04-北京市购房资格核验平台](https://www.v2ex.com/t/844873) 
-- [【V2EX】2022-04-04-19-款-16-寸-升级内存一般多少钱？](https://www.v2ex.com/t/844872) 
 - [【技术头条】2022-04-04-通过面向对象设计串口协议-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15005&url=https%3A%2F%2Finsights.thoughtworks.cn%2Foo-design-serial-protocol%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-04-04-使用jscodeshift做自动化重构-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15004&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fjscodeshift%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-04-04-如何提升代码质量-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15003&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-improve-code-quality%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -138,14 +138,14 @@
 - [【开发者头条】2022-04-04-HTML5崛起之时，Java桌面时代就已经终结了](https://toutiao.io/k/x0rdhsx) 
 - [【开发者头条】2022-04-04-Flink-on-K8s-在京东的持续优化实践](https://toutiao.io/k/7h2qdh2) 
 - [【开发者头条】2022-04-04-React-18-新特性之-useId-详细解读](https://toutiao.io/k/s3y8l9h) 
-- [【开发者头条】2022-04-04-混合办公（Hybrid-Work）安全的“三年”技术落地趋势推演](https://toutiao.io/k/bxhcute) 
 - [【开发者头条】2022-04-04-微服务概述](https://toutiao.io/k/yoa0r3b) 
+- [【开发者头条】2022-04-04-混合办公（Hybrid-Work）安全的“三年”技术落地趋势推演](https://toutiao.io/k/bxhcute) 
 - [【开发者头条】2022-04-04-低代码/无代码十日谈二——关于通用低代码/无代码](https://toutiao.io/k/nj0iz50) 
 - [【开发者头条】2022-04-04-推荐-如果你是一个Golang面试官，你会问哪些问题？](https://toutiao.io/k/yvw61mc) 
-- [【开发者头条】2022-04-04-推荐-Kafka-面试连环炮,-看看你能撑到哪一步?](https://toutiao.io/k/z30ehzv) 
 - [【开发者头条】2022-04-04-推荐-20多个好用的-Vue-组件库，请查收！](https://toutiao.io/k/sskayyw) 
-- [【开发者头条】2022-04-04-推荐-你管这破玩意儿叫高可用](https://toutiao.io/k/qudsbeg) 
 - [【开发者头条】2022-04-04-推荐-时间轮原理及其在框架中的应用](https://toutiao.io/k/1dwwpfd) 
+- [【开发者头条】2022-04-04-推荐-你管这破玩意儿叫高可用](https://toutiao.io/k/qudsbeg) 
+- [【开发者头条】2022-04-04-推荐-Kafka-面试连环炮,-看看你能撑到哪一步?](https://toutiao.io/k/z30ehzv) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

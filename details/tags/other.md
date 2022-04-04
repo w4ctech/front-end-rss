@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-04-04 10:15:52。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-04-04 10:42:45。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1913,6 +1913,8 @@
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2022-03-21-ascent-override-descent-override-line-gap-override一锅端](https://www.zhangxinxu.com/wordpress/2022/03/css-ascent-override-descent/) 
 - [2022-02-04-HTML-inputmode与iOS-Android软键盘类型测试](https://www.zhangxinxu.com/wordpress/2022/02/html-inputmode-keyboard/) 
+- [2022-04-04-2022-后端笔记本推荐](https://www.v2ex.com/t/844916) 
+- [2022-04-04-迫于-typora-bug-太多，求-mac-下简单轻量的-markdown-编辑器推荐](https://www.v2ex.com/t/844914) 
 - [2022-04-04-PHP-读取硬盘图片并输出有没有什么无损输出的方法？](https://www.v2ex.com/t/844912) 
 - [2022-04-04-小伙在国内家里搭好了-ssserver-用来反向翻墙，测速震惊了！](https://www.v2ex.com/t/844910) 
 - [2022-04-04-请教一下真我手机一直开机关机](https://www.v2ex.com/t/844909) 
@@ -1945,9 +1947,6 @@
 - [2022-04-04-腾讯云云服务器特惠香港新加坡东京等-2-核-2G30M-约三年-230-288是人都可上车良心云海外特惠孟买-2-核-2G30M-约-5-年-199-即开即用](https://www.v2ex.com/t/844871) 
 - [2022-04-04-PS5-玩家-狗都不如](https://www.v2ex.com/t/844868) 
 - [2022-04-04-如何使用-Python-实现特定条件抽样？](https://www.v2ex.com/t/844867) 
-- [2022-04-04-每月几百的良心云代金券能做什么？](https://www.v2ex.com/t/844866) 
-- [2022-04-04-请问如何优雅的把-Joplin-上的笔记导到-Hexo-博客上](https://www.v2ex.com/t/844865) 
-- [2022-04-04-如何学习期权交易呢？](https://www.v2ex.com/t/844863) 
 - [2022-04-04-通过面向对象设计串口协议-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15005&url=https%3A%2F%2Finsights.thoughtworks.cn%2Foo-design-serial-protocol%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-04-04-如何提升代码质量-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15003&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-improve-code-quality%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-04-04-什么场景（不）适合使用Lambda-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15002&url=https%3A%2F%2Finsights.thoughtworks.cn%2Flambda%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

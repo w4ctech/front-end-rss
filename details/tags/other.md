@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-04-04 15:15:05。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-04-04 15:43:33。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1913,6 +1913,7 @@
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2022-03-21-ascent-override-descent-override-line-gap-override一锅端](https://www.zhangxinxu.com/wordpress/2022/03/css-ascent-override-descent/) 
 - [2022-02-04-HTML-inputmode与iOS-Android软键盘类型测试](https://www.zhangxinxu.com/wordpress/2022/02/html-inputmode-keyboard/) 
+- [2022-04-04-k8s-交互教程，交互页面打不开](https://www.v2ex.com/t/844952) 
 - [2022-04-04-就业方向求问（真心）](https://www.v2ex.com/t/844949) 
 - [2022-04-04-有没有植过发的大佬](https://www.v2ex.com/t/844946) 
 - [2022-04-04-四大音乐平台送你-52-天-VIP](https://www.v2ex.com/t/844945) 
@@ -1941,8 +1942,6 @@
 - [2022-04-04-感觉-iTerm2-arm-有很强大的内存泄漏啊。。。](https://www.v2ex.com/t/844907) 
 - [2022-04-04-Base-南京、广州、新加坡、深圳-简介-线上快时尚公司希音，-E-轮融资，海外用户已达-1-亿+，连续几年销售额翻一番，公司目前已有员工-40000+-关于公司-朝...](https://www.v2ex.com/t/844906) 
 - [2022-04-04-求问-arco-pro-对比-antdesign-pro-怎么样，哪个更易上手](https://www.v2ex.com/t/844905) 
-- [2022-04-04-有没有大佬理下-Rust-学习路线或者思路](https://www.v2ex.com/t/844903) 
-- [2022-04-04-gtouch:-日期格式-“2017-03-26-01:01:01”-无效](https://www.v2ex.com/t/844902) 
 - [2022-04-04-通过面向对象设计串口协议-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15005&url=https%3A%2F%2Finsights.thoughtworks.cn%2Foo-design-serial-protocol%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-04-04-如何提升代码质量-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15003&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-improve-code-quality%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-04-04-什么场景（不）适合使用Lambda-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15002&url=https%3A%2F%2Finsights.thoughtworks.cn%2Flambda%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1967,5 +1966,5 @@
 - [2022-04-04-微服务概述](https://toutiao.io/k/yoa0r3b) 
 - [2022-04-04-低代码/无代码十日谈二——关于通用低代码/无代码](https://toutiao.io/k/nj0iz50) 
 - [2022-04-04-推荐-万字长文助你上手软件领域驱动设计-DDD](https://toutiao.io/k/72nuj7z) 
-- [2022-04-04-推荐-你管这破玩意儿叫高可用](https://toutiao.io/k/qudsbeg) 
 - [2022-04-04-推荐-时间轮原理及其在框架中的应用](https://toutiao.io/k/1dwwpfd) 
+- [2022-04-04-推荐-你管这破玩意儿叫高可用](https://toutiao.io/k/qudsbeg) 

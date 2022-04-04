@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-04-04 15:15:05，:rocket: 更新条数: +2024， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-04-04 15:43:33，:rocket: 更新条数: +2023， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-04-04-k8s-交互教程，交互页面打不开](https://www.v2ex.com/t/844952) ![](assets/new.png)  
 - [2022-04-04-路由器拨号，电脑-ping-光猫延迟-5ms-正常吗](https://www.v2ex.com/t/844950) ![](assets/new.png)  
 - [2022-04-04-就业方向求问（真心）](https://www.v2ex.com/t/844949) ![](assets/new.png)  
 - [2022-04-04-关于前端收到后端返回的一组图片-url，无法预览问题。](https://www.v2ex.com/t/844947) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-04-04-考研难民的烦恼（复刻版）](https://www.v2ex.com/t/844929) ![](assets/new.png)  
 - [2022-04-04-macbook-拆下来的屏幕-能干啥用？](https://www.v2ex.com/t/844928) ![](assets/new.png)  
 - [2022-04-04-求一个-openwrt-的-iptables-规则](https://www.v2ex.com/t/844927) ![](assets/new.png)  
-- [2022-04-04-求问-screen-sharing-客户端被屏蔽端口了，服务器端正常，有没有解？](https://www.v2ex.com/t/844926) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -569,9 +569,9 @@
 - [2022-04-04-混合办公（Hybrid-Work）安全的“三年”技术落地趋势推演](https://toutiao.io/k/bxhcute) ![](assets/new.png)  
 - [2022-04-04-低代码/无代码十日谈二——关于通用低代码/无代码](https://toutiao.io/k/nj0iz50) ![](assets/new.png)  
 - [2022-04-04-推荐-万字长文助你上手软件领域驱动设计-DDD](https://toutiao.io/k/72nuj7z) ![](assets/new.png)  
-- [2022-04-04-推荐-Kafka-面试连环炮,-看看你能撑到哪一步?](https://toutiao.io/k/z30ehzv) ![](assets/new.png)  
-- [2022-04-04-推荐-20多个好用的-Vue-组件库，请查收！](https://toutiao.io/k/sskayyw) ![](assets/new.png)  
 - [2022-04-04-推荐-如果你是一个Golang面试官，你会问哪些问题？](https://toutiao.io/k/yvw61mc) ![](assets/new.png)  
+- [2022-04-04-推荐-20多个好用的-Vue-组件库，请查收！](https://toutiao.io/k/sskayyw) ![](assets/new.png)  
+- [2022-04-04-推荐-时间轮原理及其在框架中的应用](https://toutiao.io/k/1dwwpfd) ![](assets/new.png)  
 - [2022-04-04-推荐-你管这破玩意儿叫高可用](https://toutiao.io/k/qudsbeg) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

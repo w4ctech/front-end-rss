@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-04-04 07:14:10。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-04-04 07:38:23。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -370,6 +370,8 @@
 
 - [【张鑫旭-鑫空间-鑫生活】ascent-override-descent-override-line-gap-override一锅端](https://www.zhangxinxu.com/wordpress/2022/03/css-ascent-override-descent/)
 - [【张鑫旭-鑫空间-鑫生活】HTML-inputmode与iOS-Android软键盘类型测试](https://www.zhangxinxu.com/wordpress/2022/02/html-inputmode-keyboard/)
+- [【V2EX】显示器竖着用当主屏，-27-寸还是-32-寸，请长期使用过得的朋友推荐一下](https://www.v2ex.com/t/844885)
+- [【V2EX】mac-小白，请教下买-mbp-有必要一起买-AC-么？](https://www.v2ex.com/t/844884)
 - [【V2EX】目前上海电信没开国际精品网出国丢包率真恐怖](https://www.v2ex.com/t/844883)
 - [【V2EX】现在哪款好看好用的开源-WYSIWYG-编辑器支持上传图片功能？](https://www.v2ex.com/t/844882)
 - [【V2EX】怎么才能算是有效的“睡了一次午觉”？](https://www.v2ex.com/t/844881)
@@ -386,8 +388,6 @@
 - [【V2EX】PS5-玩家-狗都不如](https://www.v2ex.com/t/844868)
 - [【V2EX】如何使用-Python-实现特定条件抽样？](https://www.v2ex.com/t/844867)
 - [【V2EX】每月几百的良心云代金券能做什么？](https://www.v2ex.com/t/844866)
-- [【V2EX】请问如何优雅的把-Joplin-上的笔记导到-Hexo-博客上](https://www.v2ex.com/t/844865)
-- [【V2EX】如何学习期权交易呢？](https://www.v2ex.com/t/844863)
 - [......【查看更多】......](./details/tags/other.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

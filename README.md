@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-04-04 07:14:10，:rocket: 更新条数: +50， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-04-04 07:38:23，:rocket: 更新条数: +50， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -471,6 +471,8 @@
 </summary>
 
 
+- [2022-04-04-显示器竖着用当主屏，-27-寸还是-32-寸，请长期使用过得的朋友推荐一下](https://www.v2ex.com/t/844885) ![](assets/new.png)  
+- [2022-04-04-mac-小白，请教下买-mbp-有必要一起买-AC-么？](https://www.v2ex.com/t/844884) ![](assets/new.png)  
 - [2022-04-04-目前上海电信没开国际精品网出国丢包率真恐怖](https://www.v2ex.com/t/844883) ![](assets/new.png)  
 - [2022-04-04-现在哪款好看好用的开源-WYSIWYG-编辑器支持上传图片功能？](https://www.v2ex.com/t/844882) ![](assets/new.png)  
 - [2022-04-04-怎么才能算是有效的“睡了一次午觉”？](https://www.v2ex.com/t/844881) ![](assets/new.png)  
@@ -489,8 +491,6 @@
 - [2022-04-04-每月几百的良心云代金券能做什么？](https://www.v2ex.com/t/844866) ![](assets/new.png)  
 - [2022-04-04-请问如何优雅的把-Joplin-上的笔记导到-Hexo-博客上](https://www.v2ex.com/t/844865) ![](assets/new.png)  
 - [2022-04-04-如何学习期权交易呢？](https://www.v2ex.com/t/844863) ![](assets/new.png)  
-- [2022-04-04-WSL2-作为-FRP-客户端如何配置](https://www.v2ex.com/t/844862) ![](assets/new.png)  
-- [2022-04-04-升级到-12.3.1-21E258-之后老是-panic-呢……](https://www.v2ex.com/t/844861) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

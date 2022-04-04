@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2022-04-04 13:33:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-04-04 14:14:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-04-04-四大音乐平台送你-52-天-VIP](https://www.v2ex.com/t/844945) 
+- [2022-04-04-win10-终端-wsl-状态下字体过饱和](https://www.v2ex.com/t/844944) 
 - [2022-04-04-miui-欧洲版居然不支持双卡！](https://www.v2ex.com/t/844942) 
 - [2022-04-04-能获取到项目中，最后更新（增加/修改）过的文件吗？](https://www.v2ex.com/t/844941) 
 - [2022-04-04-为啥-alfred-不搞内置一个插件市场，感觉好可惜](https://www.v2ex.com/t/844940) 
@@ -23,7 +25,6 @@
 - [2022-04-04-有没有这种软件，读取系统播放的英文人声，进行-speech2text-处理，输出文字](https://www.v2ex.com/t/844923) 
 - [2022-04-04-请问大厂前后端分离开发工作流是什么样的？](https://www.v2ex.com/t/844922) 
 - [2022-04-04-Windows-转-MacOS4-个月-分享觉得眼前一亮的软件](https://www.v2ex.com/t/844921) 
-- [2022-04-04-为什么-2022-年了-mbp-都做不到不用关机？苹果公司的程序员都是废物吧](https://www.v2ex.com/t/844919) 
 - [2022-04-04-上海-PDD-社招/校招内推，-Android/iOS/高性能计算/浏览器内核/深度学习框架-等方向](https://www.v2ex.com/t/844918) 
 - [2022-04-04-在线文档和知识库](https://www.v2ex.com/t/844917) 
 - [2022-04-04-2022-后端笔记本推荐](https://www.v2ex.com/t/844916) 
@@ -40,4 +41,3 @@
 - [2022-04-04-有什么值得推荐的-apple-watch-表带？](https://www.v2ex.com/t/844901) 
 - [2022-04-04-有什么值得推荐的-apple-watch-表带？](https://www.v2ex.com/t/844900) 
 - [2022-04-04-g++-编译⚠️returning-reference-to-local-temporary-object-但是运行依然得到预期结果？](https://www.v2ex.com/t/844896) 
-- [2022-04-04-排序软件包名小工具---为构建而生](https://www.v2ex.com/t/844893) 

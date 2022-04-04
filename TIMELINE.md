@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-04-04 13:33:10。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-04-04 14:14:09。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,8 @@
 </summary>
 
 
+- [【V2EX】2022-04-04-四大音乐平台送你-52-天-VIP](https://www.v2ex.com/t/844945) 
+- [【V2EX】2022-04-04-win10-终端-wsl-状态下字体过饱和](https://www.v2ex.com/t/844944) 
 - [【V2EX】2022-04-04-miui-欧洲版居然不支持双卡！](https://www.v2ex.com/t/844942) 
 - [【V2EX】2022-04-04-能获取到项目中，最后更新（增加/修改）过的文件吗？](https://www.v2ex.com/t/844941) 
 - [【V2EX】2022-04-04-为啥-alfred-不搞内置一个插件市场，感觉好可惜](https://www.v2ex.com/t/844940) 
@@ -86,7 +88,6 @@
 - [【V2EX】2022-04-04-有没有这种软件，读取系统播放的英文人声，进行-speech2text-处理，输出文字](https://www.v2ex.com/t/844923) 
 - [【V2EX】2022-04-04-请问大厂前后端分离开发工作流是什么样的？](https://www.v2ex.com/t/844922) 
 - [【V2EX】2022-04-04-Windows-转-MacOS4-个月-分享觉得眼前一亮的软件](https://www.v2ex.com/t/844921) 
-- [【V2EX】2022-04-04-为什么-2022-年了-mbp-都做不到不用关机？苹果公司的程序员都是废物吧](https://www.v2ex.com/t/844919) 
 - [【V2EX】2022-04-04-上海-PDD-社招/校招内推，-Android/iOS/高性能计算/浏览器内核/深度学习框架-等方向](https://www.v2ex.com/t/844918) 
 - [【V2EX】2022-04-04-在线文档和知识库](https://www.v2ex.com/t/844917) 
 - [【V2EX】2022-04-04-2022-后端笔记本推荐](https://www.v2ex.com/t/844916) 
@@ -103,7 +104,6 @@
 - [【V2EX】2022-04-04-有什么值得推荐的-apple-watch-表带？](https://www.v2ex.com/t/844901) 
 - [【V2EX】2022-04-04-有什么值得推荐的-apple-watch-表带？](https://www.v2ex.com/t/844900) 
 - [【V2EX】2022-04-04-g++-编译⚠️returning-reference-to-local-temporary-object-但是运行依然得到预期结果？](https://www.v2ex.com/t/844896) 
-- [【V2EX】2022-04-04-排序软件包名小工具---为构建而生](https://www.v2ex.com/t/844893) 
 - [【技术头条】2022-04-04-通过面向对象设计串口协议-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15005&url=https%3A%2F%2Finsights.thoughtworks.cn%2Foo-design-serial-protocol%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-04-04-使用jscodeshift做自动化重构-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15004&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fjscodeshift%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-04-04-如何提升代码质量-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15003&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-improve-code-quality%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -129,8 +129,8 @@
 - [【开发者头条】2022-04-04-云原生时代如何用-Prometheus-实现性能压测可观测-Metrics-篇](https://toutiao.io/k/gs7pi2p) 
 - [【开发者头条】2022-04-04-Go服务错误堆栈收集降频策略](https://toutiao.io/k/5cnxf5w) 
 - [【开发者头条】2022-04-04-除了居家抗疫，你还可以做什么？](https://toutiao.io/k/ykkx4eo) 
-- [【开发者头条】2022-04-04-基于-TypeScript-理解程序设计的-SOLID-原则](https://toutiao.io/k/xcqjn8w) 
 - [【开发者头条】2022-04-04-gcc-编译时，链接器安排的【虚拟地址】是如何计算出来的？](https://toutiao.io/k/spozfvf) 
+- [【开发者头条】2022-04-04-基于-TypeScript-理解程序设计的-SOLID-原则](https://toutiao.io/k/xcqjn8w) 
 - [【开发者头条】2022-04-04-闲鱼搜索召回升级：向量召回&个性化召回](https://toutiao.io/k/9mo5ffg) 
 - [【开发者头条】2022-04-04-WebGL-的-Hello-World](https://toutiao.io/k/mzf5f65) 
 - [【开发者头条】2022-04-04-HTML5崛起之时，Java桌面时代就已经终结了](https://toutiao.io/k/x0rdhsx) 
@@ -139,12 +139,12 @@
 - [【开发者头条】2022-04-04-React-18-新特性之-useId-详细解读](https://toutiao.io/k/s3y8l9h) 
 - [【开发者头条】2022-04-04-混合办公（Hybrid-Work）安全的“三年”技术落地趋势推演](https://toutiao.io/k/bxhcute) 
 - [【开发者头条】2022-04-04-低代码/无代码十日谈二——关于通用低代码/无代码](https://toutiao.io/k/nj0iz50) 
-- [【开发者头条】2022-04-04-推荐-你管这破玩意儿叫高可用](https://toutiao.io/k/qudsbeg) 
+- [【开发者头条】2022-04-04-推荐-万字长文助你上手软件领域驱动设计-DDD](https://toutiao.io/k/72nuj7z) 
 - [【开发者头条】2022-04-04-推荐-Kafka-面试连环炮,-看看你能撑到哪一步?](https://toutiao.io/k/z30ehzv) 
+- [【开发者头条】2022-04-04-推荐-你管这破玩意儿叫高可用](https://toutiao.io/k/qudsbeg) 
+- [【开发者头条】2022-04-04-推荐-20多个好用的-Vue-组件库，请查收！](https://toutiao.io/k/sskayyw) 
 - [【开发者头条】2022-04-04-推荐-如果你是一个Golang面试官，你会问哪些问题？](https://toutiao.io/k/yvw61mc) 
 - [【开发者头条】2022-04-04-推荐-时间轮原理及其在框架中的应用](https://toutiao.io/k/1dwwpfd) 
-- [【开发者头条】2022-04-04-推荐-万字长文助你上手软件领域驱动设计-DDD](https://toutiao.io/k/72nuj7z) 
-- [【开发者头条】2022-04-04-推荐-20多个好用的-Vue-组件库，请查收！](https://toutiao.io/k/sskayyw) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

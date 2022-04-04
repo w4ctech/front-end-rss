@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-04-04 13:33:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-04-04 14:14:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1913,6 +1913,8 @@
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2022-03-21-ascent-override-descent-override-line-gap-override一锅端](https://www.zhangxinxu.com/wordpress/2022/03/css-ascent-override-descent/) 
 - [2022-02-04-HTML-inputmode与iOS-Android软键盘类型测试](https://www.zhangxinxu.com/wordpress/2022/02/html-inputmode-keyboard/) 
+- [2022-04-04-四大音乐平台送你-52-天-VIP](https://www.v2ex.com/t/844945) 
+- [2022-04-04-win10-终端-wsl-状态下字体过饱和](https://www.v2ex.com/t/844944) 
 - [2022-04-04-miui-欧洲版居然不支持双卡！](https://www.v2ex.com/t/844942) 
 - [2022-04-04-能获取到项目中，最后更新（增加/修改）过的文件吗？](https://www.v2ex.com/t/844941) 
 - [2022-04-04-为啥-alfred-不搞内置一个插件市场，感觉好可惜](https://www.v2ex.com/t/844940) 
@@ -1928,7 +1930,6 @@
 - [2022-04-04-有没有这种软件，读取系统播放的英文人声，进行-speech2text-处理，输出文字](https://www.v2ex.com/t/844923) 
 - [2022-04-04-请问大厂前后端分离开发工作流是什么样的？](https://www.v2ex.com/t/844922) 
 - [2022-04-04-Windows-转-MacOS4-个月-分享觉得眼前一亮的软件](https://www.v2ex.com/t/844921) 
-- [2022-04-04-为什么-2022-年了-mbp-都做不到不用关机？苹果公司的程序员都是废物吧](https://www.v2ex.com/t/844919) 
 - [2022-04-04-在线文档和知识库](https://www.v2ex.com/t/844917) 
 - [2022-04-04-2022-后端笔记本推荐](https://www.v2ex.com/t/844916) 
 - [2022-04-04-迫于-typora-bug-太多，求-mac-下简单轻量的-markdown-编辑器推荐](https://www.v2ex.com/t/844914) 
@@ -1966,6 +1967,6 @@
 - [2022-04-04-闲鱼搜索召回升级：向量召回&个性化召回](https://toutiao.io/k/9mo5ffg) 
 - [2022-04-04-微服务概述](https://toutiao.io/k/yoa0r3b) 
 - [2022-04-04-低代码/无代码十日谈二——关于通用低代码/无代码](https://toutiao.io/k/nj0iz50) 
+- [2022-04-04-推荐-万字长文助你上手软件领域驱动设计-DDD](https://toutiao.io/k/72nuj7z) 
 - [2022-04-04-推荐-你管这破玩意儿叫高可用](https://toutiao.io/k/qudsbeg) 
 - [2022-04-04-推荐-时间轮原理及其在框架中的应用](https://toutiao.io/k/1dwwpfd) 
-- [2022-04-04-推荐-万字长文助你上手软件领域驱动设计-DDD](https://toutiao.io/k/72nuj7z) 

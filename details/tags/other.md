@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-04-04 11:36:45。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-04-04 12:22:31。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1913,6 +1913,8 @@
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2022-03-21-ascent-override-descent-override-line-gap-override一锅端](https://www.zhangxinxu.com/wordpress/2022/03/css-ascent-override-descent/) 
 - [2022-02-04-HTML-inputmode与iOS-Android软键盘类型测试](https://www.zhangxinxu.com/wordpress/2022/02/html-inputmode-keyboard/) 
+- [2022-04-04-求一个-openwrt-的-iptables-规则](https://www.v2ex.com/t/844927) 
+- [2022-04-04-求问-screen-sharing-客户端被屏蔽端口了，服务器端正常，有没有解？](https://www.v2ex.com/t/844926) 
 - [2022-04-04-域名邮箱-有谁在用-MXRoute？](https://www.v2ex.com/t/844924) 
 - [2022-04-04-有没有这种软件，读取系统播放的英文人声，进行-speech2text-处理，输出文字](https://www.v2ex.com/t/844923) 
 - [2022-04-04-请问大厂前后端分离开发工作流是什么样的？](https://www.v2ex.com/t/844922) 
@@ -1944,9 +1946,6 @@
 - [2022-04-04-怎么才能算是有效的“睡了一次午觉”？](https://www.v2ex.com/t/844881) 
 - [2022-04-04-有个问题问问大家意见](https://www.v2ex.com/t/844880) 
 - [2022-04-04-R6670BXV5-512-能够在-iMac17,1-上使用吗？](https://www.v2ex.com/t/844878) 
-- [2022-04-04-微信好像真的修复了消息提醒转圈圈](https://www.v2ex.com/t/844877) 
-- [2022-04-04-ubuntu-下有什么好看的终端吗？](https://www.v2ex.com/t/844876) 
-- [2022-04-04-markdown-文件如何实现精准翻译并计算翻译进度？](https://www.v2ex.com/t/844875) 
 - [2022-04-04-通过面向对象设计串口协议-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15005&url=https%3A%2F%2Finsights.thoughtworks.cn%2Foo-design-serial-protocol%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-04-04-如何提升代码质量-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15003&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-improve-code-quality%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-04-04-什么场景（不）适合使用Lambda-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15002&url=https%3A%2F%2Finsights.thoughtworks.cn%2Flambda%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

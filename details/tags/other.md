@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-04-04 10:42:45。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-04-04 11:13:17。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1913,6 +1913,9 @@
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2022-03-21-ascent-override-descent-override-line-gap-override一锅端](https://www.zhangxinxu.com/wordpress/2022/03/css-ascent-override-descent/) 
 - [2022-02-04-HTML-inputmode与iOS-Android软键盘类型测试](https://www.zhangxinxu.com/wordpress/2022/02/html-inputmode-keyboard/) 
+- [2022-04-04-Windows-转-MacOS4-个月-分享觉得眼前一亮的软件](https://www.v2ex.com/t/844921) 
+- [2022-04-04-为什么-2022-年了-mbp-都做不到不用关机？苹果公司的程序员都是废物吧](https://www.v2ex.com/t/844919) 
+- [2022-04-04-在线文档和知识库](https://www.v2ex.com/t/844917) 
 - [2022-04-04-2022-后端笔记本推荐](https://www.v2ex.com/t/844916) 
 - [2022-04-04-迫于-typora-bug-太多，求-mac-下简单轻量的-markdown-编辑器推荐](https://www.v2ex.com/t/844914) 
 - [2022-04-04-PHP-读取硬盘图片并输出有没有什么无损输出的方法？](https://www.v2ex.com/t/844912) 
@@ -1944,9 +1947,6 @@
 - [2022-04-04-如果一个软件想-支持并且推荐-用户自己手动同步数据（使用大公司同步盘或者开源自建，不需要用户提供方去提供用户管理和数据存储），适合做成什么样的形式？](https://www.v2ex.com/t/844874) 
 - [2022-04-04-北京市购房资格核验平台](https://www.v2ex.com/t/844873) 
 - [2022-04-04-19-款-16-寸-升级内存一般多少钱？](https://www.v2ex.com/t/844872) 
-- [2022-04-04-腾讯云云服务器特惠香港新加坡东京等-2-核-2G30M-约三年-230-288是人都可上车良心云海外特惠孟买-2-核-2G30M-约-5-年-199-即开即用](https://www.v2ex.com/t/844871) 
-- [2022-04-04-PS5-玩家-狗都不如](https://www.v2ex.com/t/844868) 
-- [2022-04-04-如何使用-Python-实现特定条件抽样？](https://www.v2ex.com/t/844867) 
 - [2022-04-04-通过面向对象设计串口协议-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15005&url=https%3A%2F%2Finsights.thoughtworks.cn%2Foo-design-serial-protocol%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-04-04-如何提升代码质量-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15003&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-improve-code-quality%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-04-04-什么场景（不）适合使用Lambda-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15002&url=https%3A%2F%2Finsights.thoughtworks.cn%2Flambda%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-04-04 00:54:53，:rocket: 更新条数: +2020， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-04-04 02:43:52，:rocket: 更新条数: +2026， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,18 @@
 </summary>
 
 
+- [2022-04-04-这两天-Chrome-上浏览-bilibili-的视频，无法显示评论区了，不知道出了什么问题](https://www.v2ex.com/t/844844) ![](assets/new.png)  
+- [2022-04-04-鉴于-iPhone-没有好的-NFC-应用，自己写了免费无广告的强大-NFC-应用，读写-NFC-标签，复制门禁卡，还可以用于通信调试，欢迎使用！](https://www.v2ex.com/t/844843) ![](assets/new.png)  
+- [2022-04-04-使用-Hysteria-的感受](https://www.v2ex.com/t/844842) ![](assets/new.png)  
+- [2022-04-04-VPS-测速问题](https://www.v2ex.com/t/844841) ![](assets/new.png)  
+- [2022-04-04-QTJ2-的黑裙硬解问题。](https://www.v2ex.com/t/844840) ![](assets/new.png)  
+- [2022-04-04-Windows-自动同步时钟问题](https://www.v2ex.com/t/844839) ![](assets/new.png)  
+- [2022-04-04-开个车车。iCloud-共享空间-200g](https://www.v2ex.com/t/844838) ![](assets/new.png)  
+- [2022-04-04-记一次-Genius-Bar-旁观-PUA-经历](https://www.v2ex.com/t/844837) ![](assets/new.png)  
+- [2022-04-04-佳能打印机-MC-G02-维护墨盒重置工具，基于-Arduino](https://www.v2ex.com/t/844836) ![](assets/new.png)  
+- [2022-04-04-Plex-观看-h265-或者-4K-HEVC-出现-cpu-占用高的问题](https://www.v2ex.com/t/844835) ![](assets/new.png)  
+- [2022-04-04-请教一下，大家用什么软件设计-MOC？](https://www.v2ex.com/t/844834) ![](assets/new.png)  
+- [2022-04-04-Typora-的特点或者说开发难度在哪？看了好多个开源项目，感觉用起来体验都比-Typora-差，不知道是先入为主，习惯了的原因还是？](https://www.v2ex.com/t/844833) ![](assets/new.png)  
 - [2022-04-03-vue-是不是在理论上，任何情况下都不需要操作-dom？](https://www.v2ex.com/t/844832) ![](assets/new.png)  
 - [2022-04-03-暗黑模式下，编辑或创建记事本时，编辑框下方有一大片白色的背景。](https://www.v2ex.com/t/844831) ![](assets/new.png)  
 - [2022-04-03-fluent-Python-第二版已可购买](https://www.v2ex.com/t/844830) ![](assets/new.png)  
@@ -499,18 +511,6 @@
 - [2022-04-03-咸鱼卖的不到-2000-的真我-gt-顶配-敢买吗](https://www.v2ex.com/t/844827) ![](assets/new.png)  
 - [2022-04-03-请问怎么才能抢到菜](https://www.v2ex.com/t/844826) ![](assets/new.png)  
 - [2022-04-03-Linux-作为主力系统在换电脑后如何做数据迁移](https://www.v2ex.com/t/844825) ![](assets/new.png)  
-- [2022-04-03-请问-Python-如何强制不使用科学计数法打印浮点数？](https://www.v2ex.com/t/844824) ![](assets/new.png)  
-- [2022-04-03-在-Xcode-的调试日志里关闭-CVDisplayLink-日志](https://www.v2ex.com/t/844823) ![](assets/new.png)  
-- [2022-04-03-有没有用-DoQ-的](https://www.v2ex.com/t/844822) ![](assets/new.png)  
-- [2022-04-03-和朋友争论曾国藩的平生，气得睡不着，想问问大家有没有什么解决办法](https://www.v2ex.com/t/844821) ![](assets/new.png)  
-- [2022-04-03-美区-Paypal-被风控了，需要验证手机号怎么破](https://www.v2ex.com/t/844820) ![](assets/new.png)  
-- [2022-04-03-探索世界的好奇心万岁](https://www.v2ex.com/t/844819) ![](assets/new.png)  
-- [2022-04-03-禁止-USB-鼠标唤醒-mac-屏幕的优雅方法？](https://www.v2ex.com/t/844816) ![](assets/new.png)  
-- [2022-04-03-Shopee-内推，一直在大量招人，坐标北上深+新加坡](https://www.v2ex.com/t/844814) ![](assets/new.png)  
-- [2022-04-03-工作城市、岗位选择](https://www.v2ex.com/t/844813) ![](assets/new.png)  
-- [2022-04-03-分享一个自建-Ropsten-水龙头网站](https://www.v2ex.com/t/844812) ![](assets/new.png)  
-- [2022-04-03-求一个-jetbrains-全家桶折扣码](https://www.v2ex.com/t/844811) ![](assets/new.png)  
-- [2022-04-03-请教-StopIteration-为什么能捕获到结果](https://www.v2ex.com/t/844810) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -558,12 +558,18 @@
 - [2022-04-04-除了居家抗疫，你还可以做什么？](https://toutiao.io/k/ykkx4eo) ![](assets/new.png)  
 - [2022-04-04-Flink-on-K8s-在京东的持续优化实践](https://toutiao.io/k/7h2qdh2) ![](assets/new.png)  
 - [2022-04-04-HTML5崛起之时，Java桌面时代就已经终结了](https://toutiao.io/k/x0rdhsx) ![](assets/new.png)  
-- [2022-04-04-推荐-如果你是一个Golang面试官，你会问哪些问题？](https://toutiao.io/k/yvw61mc) ![](assets/new.png)  
-- [2022-04-04-推荐-万字长文助你上手软件领域驱动设计-DDD](https://toutiao.io/k/72nuj7z) ![](assets/new.png)  
-- [2022-04-04-推荐-20多个好用的-Vue-组件库，请查收！](https://toutiao.io/k/sskayyw) ![](assets/new.png)  
+- [2022-04-04-云原生时代如何用-Prometheus-实现性能压测可观测-Metrics-篇](https://toutiao.io/k/gs7pi2p) ![](assets/new.png)  
+- [2022-04-04-gcc-编译时，链接器安排的【虚拟地址】是如何计算出来的？](https://toutiao.io/k/spozfvf) ![](assets/new.png)  
+- [2022-04-04-WebGL-的-Hello-World](https://toutiao.io/k/mzf5f65) ![](assets/new.png)  
+- [2022-04-04-闲鱼搜索召回升级：向量召回&个性化召回](https://toutiao.io/k/9mo5ffg) ![](assets/new.png)  
+- [2022-04-04-React-18-新特性之-useId-详细解读](https://toutiao.io/k/s3y8l9h) ![](assets/new.png)  
+- [2022-04-04-基于-TypeScript-理解程序设计的-SOLID-原则](https://toutiao.io/k/xcqjn8w) ![](assets/new.png)  
+- [2022-04-04-混合办公（Hybrid-Work）安全的“三年”技术落地趋势推演](https://toutiao.io/k/bxhcute) ![](assets/new.png)  
 - [2022-04-04-推荐-你管这破玩意儿叫高可用](https://toutiao.io/k/qudsbeg) ![](assets/new.png)  
+- [2022-04-04-推荐-20多个好用的-Vue-组件库，请查收！](https://toutiao.io/k/sskayyw) ![](assets/new.png)  
 - [2022-04-04-推荐-Kafka-面试连环炮,-看看你能撑到哪一步?](https://toutiao.io/k/z30ehzv) ![](assets/new.png)  
 - [2022-04-04-推荐-时间轮原理及其在框架中的应用](https://toutiao.io/k/1dwwpfd) ![](assets/new.png)  
+- [2022-04-04-推荐-如果你是一个Golang面试官，你会问哪些问题？](https://toutiao.io/k/yvw61mc) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

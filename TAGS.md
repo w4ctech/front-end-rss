@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-04-04 12:22:31。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-04-04 13:02:09。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -221,6 +221,7 @@
 
 
 
+- [【V2EX】为什么少有-App-的个人资料头像支持-PNG-格式？](https://www.v2ex.com/t/844933)
 - [【开发者头条】WebGL-的-Hello-World](https://toutiao.io/k/mzf5f65)
 - [......【查看更多】......](./details/tags/canvas-image.md)
 
@@ -283,6 +284,7 @@
 - [【武汉肺炎防疫全纪录(财新网)】腺病毒新冠疫苗引安全忧虑-康希诺称未发现血栓病例](https://m.caixin.com/m/2021-04-14/101691086.html)
 - [【武汉肺炎防疫全纪录(财新网)】解药|新冠mRNA疫苗安全性有哪些挑战？](https://m.caixin.com/m/2021-01-08/101648043.html)
 - [【武汉肺炎防疫全纪录(财新网)】大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html)
+- [【V2EX】PostgreSQL-经常连接不上，需要重启后才可以](https://www.v2ex.com/t/844935)
 - [【开发者头条】混合办公（Hybrid-Work）安全的“三年”技术落地趋势推演](https://toutiao.io/k/bxhcute)
 - [......【查看更多】......](./details/tags/browser.md)
 
@@ -350,9 +352,10 @@
 
 
 
+- [【V2EX】新加坡公司招聘全职远程.net-开发工程师](https://www.v2ex.com/t/844931)
 - [【开发者头条】面试题总结](https://toutiao.io/k/3ig04un)
-- [【开发者头条】推荐-如果你是一个Golang面试官，你会问哪些问题？](https://toutiao.io/k/yvw61mc)
 - [【开发者头条】推荐-Kafka-面试连环炮,-看看你能撑到哪一步?](https://toutiao.io/k/z30ehzv)
+- [【开发者头条】推荐-如果你是一个Golang面试官，你会问哪些问题？](https://toutiao.io/k/yvw61mc)
 - [......【查看更多】......](./details/tags/job-interview.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

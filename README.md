@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-04-04 14:36:55，:rocket: 更新条数: +2024， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-04-04 15:15:05，:rocket: 更新条数: +2024， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-04-04-路由器拨号，电脑-ping-光猫延迟-5ms-正常吗](https://www.v2ex.com/t/844950) ![](assets/new.png)  
+- [2022-04-04-就业方向求问（真心）](https://www.v2ex.com/t/844949) ![](assets/new.png)  
 - [2022-04-04-关于前端收到后端返回的一组图片-url，无法预览问题。](https://www.v2ex.com/t/844947) ![](assets/new.png)  
 - [2022-04-04-有没有植过发的大佬](https://www.v2ex.com/t/844946) ![](assets/new.png)  
 - [2022-04-04-四大音乐平台送你-52-天-VIP](https://www.v2ex.com/t/844945) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-04-04-macbook-拆下来的屏幕-能干啥用？](https://www.v2ex.com/t/844928) ![](assets/new.png)  
 - [2022-04-04-求一个-openwrt-的-iptables-规则](https://www.v2ex.com/t/844927) ![](assets/new.png)  
 - [2022-04-04-求问-screen-sharing-客户端被屏蔽端口了，服务器端正常，有没有解？](https://www.v2ex.com/t/844926) ![](assets/new.png)  
-- [2022-04-04-域名邮箱-有谁在用-MXRoute？](https://www.v2ex.com/t/844924) ![](assets/new.png)  
-- [2022-04-04-有没有这种软件，读取系统播放的英文人声，进行-speech2text-处理，输出文字](https://www.v2ex.com/t/844923) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -568,11 +568,11 @@
 - [2022-04-04-React-18-新特性之-useId-详细解读](https://toutiao.io/k/s3y8l9h) ![](assets/new.png)  
 - [2022-04-04-混合办公（Hybrid-Work）安全的“三年”技术落地趋势推演](https://toutiao.io/k/bxhcute) ![](assets/new.png)  
 - [2022-04-04-低代码/无代码十日谈二——关于通用低代码/无代码](https://toutiao.io/k/nj0iz50) ![](assets/new.png)  
-- [2022-04-04-推荐-时间轮原理及其在框架中的应用](https://toutiao.io/k/1dwwpfd) ![](assets/new.png)  
-- [2022-04-04-推荐-20多个好用的-Vue-组件库，请查收！](https://toutiao.io/k/sskayyw) ![](assets/new.png)  
-- [2022-04-04-推荐-你管这破玩意儿叫高可用](https://toutiao.io/k/qudsbeg) ![](assets/new.png)  
 - [2022-04-04-推荐-万字长文助你上手软件领域驱动设计-DDD](https://toutiao.io/k/72nuj7z) ![](assets/new.png)  
+- [2022-04-04-推荐-Kafka-面试连环炮,-看看你能撑到哪一步?](https://toutiao.io/k/z30ehzv) ![](assets/new.png)  
+- [2022-04-04-推荐-20多个好用的-Vue-组件库，请查收！](https://toutiao.io/k/sskayyw) ![](assets/new.png)  
 - [2022-04-04-推荐-如果你是一个Golang面试官，你会问哪些问题？](https://toutiao.io/k/yvw61mc) ![](assets/new.png)  
+- [2022-04-04-推荐-你管这破玩意儿叫高可用](https://toutiao.io/k/qudsbeg) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

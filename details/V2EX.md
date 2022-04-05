@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-04-05 14:38:53。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-04-05 15:15:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
@@ -44,5 +44,3 @@
 - [2022-04-05-解决-OneDrive-photo（web）在关闭当前视图后，跳回顶部的问题。](https://www.v2ex.com/t/845052) 
 - [2022-04-05-iPhone-如何无线往-PC-上备份照片](https://www.v2ex.com/t/845051) 
 - [2022-04-05-求-macos-最好用的-pdf-编辑工具](https://www.v2ex.com/t/845050) 
-- [2022-04-05-AC-自动机-->归类，需要两步完成么](https://www.v2ex.com/t/845049) 
-- [2022-04-05-Raycast-pop-up-能有办法关掉他那个-walk-through-吗？](https://www.v2ex.com/t/845048) 

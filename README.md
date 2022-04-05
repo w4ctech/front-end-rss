@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-04-05 23:14:37，:rocket: 更新条数: +2020， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-04-05 23:40:02，:rocket: 更新条数: +2012， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-04-05-求职-北京10-年-dba-兼职有需要的吗-mysql,mongo,oracle,clickhouse,tidb-都可以](https://www.v2ex.com/t/845119) ![](assets/new.png)  
 - [2022-04-05-如何方便安全地保存网页为-pdf？](https://www.v2ex.com/t/845118) ![](assets/new.png)  
 - [2022-04-05-爬电报一些频道的最新消息，实效性要求高，-有什么参考的代码或者思路吗，-Java-技术栈](https://www.v2ex.com/t/845117) ![](assets/new.png)  
 - [2022-04-05-有没有蓝牙耳机支持-PC-上开启关闭降噪？](https://www.v2ex.com/t/845116) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-04-05-为什么-ASP.NET-Core-对开发环境默认开启-HTTPS？](https://www.v2ex.com/t/845101) ![](assets/new.png)  
 - [2022-04-05-各位-V2er-们习惯早餐前还是早餐后刷牙？](https://www.v2ex.com/t/845095) ![](assets/new.png)  
 - [2022-04-05-如果-Linus-没有开发出-Linux-，现在的-Linux-用户有几成会选择-Unix？自由软件会减少多少？](https://www.v2ex.com/t/845093) ![](assets/new.png)  
-- [2022-04-05-我的-K8S-教程-Bing-搜索排名第二了](https://www.v2ex.com/t/845092) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -553,24 +553,15 @@
 </summary>
 
 
-- [2022-04-05-Gin-优化那些事](https://toutiao.io/k/mb8ug6b) ![](assets/new.png)  
-- [2022-04-05-2022年MySQL最新面试题---MySQL数据库基础知识](https://toutiao.io/k/to1dvco) ![](assets/new.png)  
-- [2022-04-05-在网页上调试手机上的APP](https://toutiao.io/k/b6l2ml9) ![](assets/new.png)  
 - [2022-04-05-疫情下的失业程序员；参与开源项目很难吗？Go语言之父介绍泛型｜码农周刊VIP会员专属邮件周报-Vol.086](https://toutiao.io/k/07qzhk3) ![](assets/new.png)  
-- [2022-04-05-猎户座-爱奇艺在用户画像之上的策略引擎！](https://toutiao.io/k/i5ziw8j) ![](assets/new.png)  
-- [2022-04-05-猎户座-持续打造爱奇艺海外高扩展性的策略引擎项目](https://toutiao.io/k/6ve2wc6) ![](assets/new.png)  
-- [2022-04-05-改革者：高效的变压器](https://toutiao.io/k/719wx4h) ![](assets/new.png)  
-- [2022-04-05-点击页面元素,这个Vite插件帮我打开了Vue组件](https://toutiao.io/k/heoz7au) ![](assets/new.png)  
-- [2022-04-05-Kubernetes、集群联邦和资源分发](https://toutiao.io/k/1tefdkz) ![](assets/new.png)  
-- [2022-04-05-如何获取当前C#程序所有线程的调用栈信息-?](https://toutiao.io/k/okizg98) ![](assets/new.png)  
-- [2022-04-05-推荐-盘点-3-月份-yyds-的开源项目](https://toutiao.io/k/79431xa) ![](assets/new.png)  
-- [2022-04-05-推荐-20多个好用的-Vue-组件库，请查收！](https://toutiao.io/k/sskayyw) ![](assets/new.png)  
 - [2022-04-05-推荐-万字长文助你上手软件领域驱动设计-DDD](https://toutiao.io/k/72nuj7z) ![](assets/new.png)  
 - [2022-04-05-推荐-错误码设计思考](https://toutiao.io/k/qas5y3j) ![](assets/new.png)  
-- [2022-04-05-推荐-时间轮原理及其在框架中的应用](https://toutiao.io/k/1dwwpfd) ![](assets/new.png)  
+- [2022-04-05-推荐-盘点-3-月份-yyds-的开源项目](https://toutiao.io/k/79431xa) ![](assets/new.png)  
 - [2022-04-05-推荐-如果你是一个Golang面试官，你会问哪些问题？](https://toutiao.io/k/yvw61mc) ![](assets/new.png)  
-- [2022-04-05-推荐-一年实现降本60%，货拉拉全链路监控演进史](https://toutiao.io/k/nrsy3uf) ![](assets/new.png)  
 - [2022-04-05-推荐-Kafka-面试连环炮,-看看你能撑到哪一步?](https://toutiao.io/k/z30ehzv) ![](assets/new.png)  
+- [2022-04-05-推荐-20多个好用的-Vue-组件库，请查收！](https://toutiao.io/k/sskayyw) ![](assets/new.png)  
+- [2022-04-05-推荐-时间轮原理及其在框架中的应用](https://toutiao.io/k/1dwwpfd) ![](assets/new.png)  
+- [2022-04-05-推荐-一年实现降本60%，货拉拉全链路监控演进史](https://toutiao.io/k/nrsy3uf) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

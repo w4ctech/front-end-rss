@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2022-04-05 23:14:37。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-04-05 23:40:02。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-04-05-求职-北京10-年-dba-兼职有需要的吗-mysql,mongo,oracle,clickhouse,tidb-都可以](https://www.v2ex.com/t/845119) 
 - [2022-04-05-如何方便安全地保存网页为-pdf？](https://www.v2ex.com/t/845118) 
 - [2022-04-05-爬电报一些频道的最新消息，实效性要求高，-有什么参考的代码或者思路吗，-Java-技术栈](https://www.v2ex.com/t/845117) 
 - [2022-04-05-有没有蓝牙耳机支持-PC-上开启关闭降噪？](https://www.v2ex.com/t/845116) 

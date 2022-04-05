@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-04-04 23:40:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-04-05 00:53:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -18,5 +18,4 @@
 - [2022-04-04-git-的-submdoule，怎样改变父工程对-submodule-的指向？](https://www.v2ex.com/t/844965) 
 - [2022-04-04-市面上有没有能跑-Docker-的路由器呢](https://www.v2ex.com/t/844959) 
 - [2022-04-04-路由器拨号，电脑-ping-光猫延迟-5ms-正常吗](https://www.v2ex.com/t/844950) 
-- [2022-04-04-使用jscodeshift做自动化重构-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15004&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fjscodeshift%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
-- [2022-04-04-HTML5崛起之时，Java桌面时代就已经终结了](https://toutiao.io/k/x0rdhsx) 
+- [2022-04-05-使用jscodeshift做自动化重构-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15004&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fjscodeshift%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

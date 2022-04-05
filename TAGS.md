@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-04-05 02:27:31。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-04-05 03:12:11。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -221,7 +221,6 @@
 
 
 
-- [【V2EX】为什么少有-App-的个人资料头像支持-PNG-格式？](https://www.v2ex.com/t/844933)
 - [......【查看更多】......](./details/tags/canvas-image.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -280,11 +279,11 @@
 - [【武汉肺炎防疫全纪录(财新网)】腺病毒新冠疫苗引安全忧虑-康希诺称未发现血栓病例](https://m.caixin.com/m/2021-04-14/101691086.html)
 - [【武汉肺炎防疫全纪录(财新网)】解药|新冠mRNA疫苗安全性有哪些挑战？](https://m.caixin.com/m/2021-01-08/101648043.html)
 - [【武汉肺炎防疫全纪录(财新网)】大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html)
+- [【V2EX】Chrome-闪退有遇到的吗？](https://www.v2ex.com/t/844981)
 - [【V2EX】为什么安卓平台竟然找不到一个支持无图模式的浏览器？](https://www.v2ex.com/t/844974)
 - [【V2EX】使用了-Entity-Framework-这类-ORM-框架是不是就不用考虑-SQL-注入的安全问题了？](https://www.v2ex.com/t/844968)
 - [【V2EX】请求数百万个-URL，-C#还是-Python-快且容易实现？](https://www.v2ex.com/t/844961)
 - [【V2EX】关于前端收到后端返回的一组图片-url，无法预览问题。](https://www.v2ex.com/t/844947)
-- [【V2EX】PostgreSQL-经常连接不上，需要重启后才可以](https://www.v2ex.com/t/844935)
 - [【开发者头条】在网页上调试手机上的APP](https://toutiao.io/k/b6l2ml9)
 - [......【查看更多】......](./details/tags/browser.md)
 
@@ -352,10 +351,9 @@
 
 
 
-- [【V2EX】新加坡公司招聘全职远程.net-开发工程师](https://www.v2ex.com/t/844931)
 - [【开发者头条】2022年MySQL最新面试题---MySQL数据库基础知识](https://toutiao.io/k/to1dvco)
-- [【开发者头条】推荐-如果你是一个Golang面试官，你会问哪些问题？](https://toutiao.io/k/yvw61mc)
 - [【开发者头条】推荐-Kafka-面试连环炮,-看看你能撑到哪一步?](https://toutiao.io/k/z30ehzv)
+- [【开发者头条】推荐-如果你是一个Golang面试官，你会问哪些问题？](https://toutiao.io/k/yvw61mc)
 - [......【查看更多】......](./details/tags/job-interview.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

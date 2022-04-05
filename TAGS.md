@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-04-05 10:39:52。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-04-05 11:12:44。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -254,7 +254,6 @@
 
 
 
-- [【V2EX】有啥非常优秀的-Gif-压缩优化工具？](https://www.v2ex.com/t/845009)
 - [【技术头条】搜索引擎优化（SEO）之整合重复网址-forum.lovejade.cn](https://blogread.cn/news/go.php?idItem=14994&url=https%3A%2F%2Fforum.lovejade.cn%2Fd%2F147-seo%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【开发者头条】Gin-优化那些事](https://toutiao.io/k/mb8ug6b)
 - [......【查看更多】......](./details/tags/optimization.md)
@@ -350,8 +349,8 @@
 
 
 
+- [【V2EX】上海/杭州-思科中国-4-月招聘-Java-、C++，初中高等级都有需求](https://www.v2ex.com/t/845058)
 - [【V2EX】远程-DeBank/Rabby-招聘-SRE/前端/后端-40K-80K](https://www.v2ex.com/t/845016)
-- [【V2EX】新加坡/美国算力公司招聘-IDC-机房运维（驻点-现在可出国）-海外市场可分布式](https://www.v2ex.com/t/845011)
 - [【开发者头条】2022年MySQL最新面试题---MySQL数据库基础知识](https://toutiao.io/k/to1dvco)
 - [【开发者头条】推荐-如果你是一个Golang面试官，你会问哪些问题？](https://toutiao.io/k/yvw61mc)
 - [【开发者头条】推荐-Kafka-面试连环炮,-看看你能撑到哪一步?](https://toutiao.io/k/z30ehzv)

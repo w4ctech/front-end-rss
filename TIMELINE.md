@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-04-05 05:37:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-04-05 06:17:29。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,12 @@
 </summary>
 
 
+- [【V2EX】2022-04-05-有哪些高品质的配音软件？](https://www.v2ex.com/t/845020) 
+- [【V2EX】2022-04-05-拉胯的月球陨落](https://www.v2ex.com/t/845019) 
+- [【V2EX】2022-04-05-请教一下建站相关的问题](https://www.v2ex.com/t/845018) 
+- [【V2EX】2022-04-05-Google-One-2T-plan-送-PNV？](https://www.v2ex.com/t/845017) 
+- [【V2EX】2022-04-05-远程-DeBank/Rabby-招聘-SRE/前端/后端-40K-80K](https://www.v2ex.com/t/845016) 
+- [【V2EX】2022-04-05-小程序有没有比较好的-代码售卖方式？](https://www.v2ex.com/t/845015) 
 - [【V2EX】2022-04-05-iPad-Pro-2021-12.9-寸-美版-闲鱼-6600-靠谱吗](https://www.v2ex.com/t/845013) 
 - [【V2EX】2022-04-05-2022-偏硬件岗位开发笔记本推荐应该比较小众](https://www.v2ex.com/t/845012) 
 - [【V2EX】2022-04-05-新加坡/美国算力公司招聘-IDC-机房运维（驻点-现在可出国）-海外市场可分布式](https://www.v2ex.com/t/845011) 
@@ -96,17 +102,12 @@
 - [【V2EX】2022-04-05-假如以后-copilot-收费，大家感觉多少钱一个月可以接受？](https://www.v2ex.com/t/844980) 
 - [【V2EX】2022-04-05-12.3-触摸板会出现失灵-重启恢复](https://www.v2ex.com/t/844979) 
 - [【V2EX】2022-04-05-V-友能不能推荐一本讲设备管理、驱动开发相关的书？](https://www.v2ex.com/t/844978) 
-- [【V2EX】2022-04-05-没有安装反诈-app-也可以接到反诈电话说我接到了诈骗电话](https://www.v2ex.com/t/844977) 
 - [【V2EX】2022-04-05-大家用什么散热器啊](https://www.v2ex.com/t/844976) 
 - [【V2EX】2022-04-05-这图是否表示路由器的性能不够。](https://www.v2ex.com/t/844975) 
 - [【V2EX】2022-04-05-为什么安卓平台竟然找不到一个支持无图模式的浏览器？](https://www.v2ex.com/t/844974) 
 - [【V2EX】2022-04-05-国内有哪些类-product-hunt-的站点？](https://www.v2ex.com/t/844973) 
 - [【V2EX】2022-04-05-13p-最新版本待机耗电崩了](https://www.v2ex.com/t/844972) 
 - [【V2EX】2022-04-05-Android-有一个隐藏的鼠标在左上角？没有链接设备](https://www.v2ex.com/t/844971) 
-- [【V2EX】2022-04-04-使用了-Entity-Framework-这类-ORM-框架是不是就不用考虑-SQL-注入的安全问题了？](https://www.v2ex.com/t/844968) 
-- [【V2EX】2022-04-04-没想好是-Mac-Studio-还是-MacBook-Pro-16](https://www.v2ex.com/t/844967) 
-- [【V2EX】2022-04-04-决赛圈了！-MacOS-最好用的剪贴板-app！](https://www.v2ex.com/t/844966) 
-- [【V2EX】2022-04-04-git-的-submdoule，怎样改变父工程对-submodule-的指向？](https://www.v2ex.com/t/844965) 
 - [【技术头条】2022-04-05-通过面向对象设计串口协议-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15005&url=https%3A%2F%2Finsights.thoughtworks.cn%2Foo-design-serial-protocol%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-04-05-使用jscodeshift做自动化重构-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15004&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fjscodeshift%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-04-05-如何提升代码质量-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15003&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-improve-code-quality%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -130,17 +131,27 @@
 - [【开发者头条】2022-04-05-在网页上调试手机上的APP](https://toutiao.io/k/b6l2ml9) 
 - [【开发者头条】2022-04-05-疫情下的失业程序员；参与开源项目很难吗？Go语言之父介绍泛型｜码农周刊VIP会员专属邮件周报-Vol.086](https://toutiao.io/k/07qzhk3) 
 - [【开发者头条】2022-04-05-猎户座-爱奇艺在用户画像之上的策略引擎！](https://toutiao.io/k/i5ziw8j) 
-- [【开发者头条】2022-04-05-2022年MySQL最新面试题---MySQL数据库基础知识](https://toutiao.io/k/to1dvco) 
 - [【开发者头条】2022-04-05-Gin-优化那些事](https://toutiao.io/k/mb8ug6b) 
+- [【开发者头条】2022-04-05-2022年MySQL最新面试题---MySQL数据库基础知识](https://toutiao.io/k/to1dvco) 
 - [【开发者头条】2022-04-05-猎户座-持续打造爱奇艺海外高扩展性的策略引擎项目](https://toutiao.io/k/6ve2wc6) 
 - [【开发者头条】2022-04-05-点击页面元素,这个Vite插件帮我打开了Vue组件](https://toutiao.io/k/heoz7au) 
-- [【开发者头条】2022-04-05-推荐-你管这破玩意儿叫高可用](https://toutiao.io/k/qudsbeg) 
+- [【开发者头条】2022-04-05-系统架构的11条原则](https://toutiao.io/k/xbwjqgj) 
+- [【开发者头条】2022-04-05-改革者：高效的变压器](https://toutiao.io/k/719wx4h) 
+- [【开发者头条】2022-04-05-Lyft微服务研发效能提升实践-|-3.-利用覆盖机制在预发环境中扩展服务网格](https://toutiao.io/k/cuqzep3) 
+- [【开发者头条】2022-04-05-Kubernetes、集群联邦和资源分发](https://toutiao.io/k/1tefdkz) 
+- [【开发者头条】2022-04-05-GAN-|-4月5日更新](https://toutiao.io/k/68i43r1) 
+- [【开发者头条】2022-04-05-云原生网络利器--Cilium-之-eBPF-篇](https://toutiao.io/k/12919uh) 
+- [【开发者头条】2022-04-05-图解：订单系统从0到1设计思路](https://toutiao.io/k/m0kd7on) 
+- [【开发者头条】2022-04-05-如何获取当前C#程序所有线程的调用栈信息-?](https://toutiao.io/k/okizg98) 
+- [【开发者头条】2022-04-05-面试官：React-为什么需要-Fiber](https://toutiao.io/k/gewxht7) 
 - [【开发者头条】2022-04-05-推荐-20多个好用的-Vue-组件库，请查收！](https://toutiao.io/k/sskayyw) 
-- [【开发者头条】2022-04-05-推荐-时间轮原理及其在框架中的应用](https://toutiao.io/k/1dwwpfd) 
-- [【开发者头条】2022-04-05-推荐-盘点-3-月份-yyds-的开源项目](https://toutiao.io/k/79431xa) 
+- [【开发者头条】2022-04-05-推荐-你管这破玩意儿叫高可用](https://toutiao.io/k/qudsbeg) 
+- [【开发者头条】2022-04-05-推荐-错误码设计思考](https://toutiao.io/k/qas5y3j) 
 - [【开发者头条】2022-04-05-推荐-Kafka-面试连环炮,-看看你能撑到哪一步?](https://toutiao.io/k/z30ehzv) 
-- [【开发者头条】2022-04-05-推荐-如果你是一个Golang面试官，你会问哪些问题？](https://toutiao.io/k/yvw61mc) 
+- [【开发者头条】2022-04-05-推荐-盘点-3-月份-yyds-的开源项目](https://toutiao.io/k/79431xa) 
 - [【开发者头条】2022-04-05-推荐-万字长文助你上手软件领域驱动设计-DDD](https://toutiao.io/k/72nuj7z) 
+- [【开发者头条】2022-04-05-推荐-如果你是一个Golang面试官，你会问哪些问题？](https://toutiao.io/k/yvw61mc) 
+- [【开发者头条】2022-04-05-推荐-时间轮原理及其在框架中的应用](https://toutiao.io/k/1dwwpfd) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>
@@ -205,11 +216,6 @@
 - [【武汉肺炎防疫全纪录(财新网)】2022-03-01-【境内疫情观察】全国现有无症状感染者1097例（2月28日）](https://database.caixin.com/m/2022-03-01/101848773.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2022-03-01-Moderna面临专利侵权诉讼-香港单日新增病例突破两万大关｜大流行手记（2月28日）](https://m.caixin.com/m/2022-03-01/101848534.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2022-03-01-【图集】香港新增34466例确诊-即将开展全民强制核酸检测](https://photos.caixin.com/m/2022-03-01/101848603.html) 
-- [【张鑫旭-鑫空间-鑫生活】2022-03-27-使用CSS-size-adjust和unicode-range改变任意文字尺寸](https://www.zhangxinxu.com/wordpress/2022/03/css-size-adjust-font-unicode-range/) 
-- [【张鑫旭-鑫空间-鑫生活】2022-03-21-ascent-override-descent-override-line-gap-override一锅端](https://www.zhangxinxu.com/wordpress/2022/03/css-ascent-override-descent/) 
-- [【张鑫旭-鑫空间-鑫生活】2022-03-15-基于howler.js写了个音频播放器组件](https://www.zhangxinxu.com/wordpress/2022/03/howler-js-audio-player/) 
-- [【张鑫旭-鑫空间-鑫生活】2022-03-07-介绍8个和滚动相关的CSS属性](https://www.zhangxinxu.com/wordpress/2022/03/10-css-scroll-scrollbar/) 
-- [【张鑫旭-鑫空间-鑫生活】2022-03-06-CSS-accent-color属性简介](https://www.zhangxinxu.com/wordpress/2022/03/css-accent-color/) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>
@@ -357,10 +363,6 @@
 - [【武汉肺炎防疫全纪录(财新网)】2022-02-01-【境内疫情观察】全国累计接种新冠疫苗逾30亿剂次（1月31日）](https://database.caixin.com/m/2022-02-01/101837162.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2022-02-01-德国未实现接种目标-奥地利强制接种疫苗法律生效｜大流行手记（1月31日）](https://m.caixin.com/m/2022-02-01/101837106.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2022-02-01-聚焦｜张文宏：未来抗疫，是努力夺回正常生活的过程](https://opinion.caixin.com/m/2022-02-01/101837206.html) 
-- [【张鑫旭-鑫空间-鑫生活】2022-02-25-被低估的border-image属性](https://www.zhangxinxu.com/wordpress/2022/02/css-border-image-tap-highlight/) 
-- [【张鑫旭-鑫空间-鑫生活】2022-02-20-CSS-overflow-clip-margin属性简介](https://www.zhangxinxu.com/wordpress/2022/02/css-overflow-clip-margin/) 
-- [【张鑫旭-鑫空间-鑫生活】2022-02-12-CSS-:not伪类选择器已支持复杂参数](https://www.zhangxinxu.com/wordpress/2022/02/css-not-pseudo-class-list-argument/) 
-- [【张鑫旭-鑫空间-鑫生活】2022-02-04-HTML-inputmode与iOS-Android软键盘类型测试](https://www.zhangxinxu.com/wordpress/2022/02/html-inputmode-keyboard/) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>
@@ -553,7 +555,6 @@
 - [【武汉肺炎防疫全纪录(财新网)】2022-01-01-​宁波市新增1例确诊-北仑区全区封闭](https://m.caixin.com/m/2022-01-01/101825089.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2022-01-01-【境内疫情观察】陕西新增174例本土病例（12月31日）](https://database.caixin.com/m/2022-01-01/101825023.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2022-01-01-英国重启临时医院，多国医疗系统承压｜大流行手记（12月31日）](https://m.caixin.com/m/2022-01-01/101824902.html) 
-- [【张鑫旭-鑫空间-鑫生活】2022-01-31-CSS-background背景图标的变色技巧](https://www.zhangxinxu.com/wordpress/2022/01/css-background-image-color/) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

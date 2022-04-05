@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2022-04-05 03:50:40。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-04-05 04:16:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-04-05-为什么-macos12-apache-删除了对-PHP-的支持](https://www.v2ex.com/t/845000) 
 - [2022-04-05-求助下，上海浦东宝宝奶粉有啥办法买到吗](https://www.v2ex.com/t/844997) 
 - [2022-04-05-求助贴:-腱鞘炎?-腕管综合症?-手指痛的原因](https://www.v2ex.com/t/844996) 
 - [2022-04-05-OneDev-7---开源自建-git-服务](https://www.v2ex.com/t/844995) 
@@ -42,5 +43,3 @@
 - [2022-04-04-m1-处理器使用-vmware-fusion-安装-ubuntu-问题解决（新内核无法启动-kernel-image-not-aligned-on-64k-boundary）](https://www.v2ex.com/t/844955) 
 - [2022-04-04-这-5-个免费网站！非常值得收藏，质量高！可以让你少走弯路-|-零度解说](https://www.v2ex.com/t/844954) 
 - [2022-04-04-k8s-交互教程，交互页面打不开](https://www.v2ex.com/t/844952) 
-- [2022-04-04-路由器拨号，电脑-ping-光猫延迟-5ms-正常吗](https://www.v2ex.com/t/844950) 
-- [2022-04-04-就业方向求问（真心）](https://www.v2ex.com/t/844949) 

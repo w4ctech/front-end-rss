@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-04-05 15:15:09，:rocket: 更新条数: +2024， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-04-05 15:43:26，:rocket: 更新条数: +2024， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-04-05-为什么-ASP.NET-Core-对开发环境默认开启-HTTPS？](https://www.v2ex.com/t/845101) ![](assets/new.png)  
+- [2022-04-05-各位兄弟们，我居然当舔狗了，快来骂醒我](https://www.v2ex.com/t/845100) ![](assets/new.png)  
 - [2022-04-05-各位-V2er-们习惯早餐前还是早餐后刷牙？](https://www.v2ex.com/t/845095) ![](assets/new.png)  
 - [2022-04-05-如果-Linus-没有开发出-Linux-，现在的-Linux-用户有几成会选择-Unix？自由软件会减少多少？](https://www.v2ex.com/t/845093) ![](assets/new.png)  
 - [2022-04-05-我的-K8S-教程-Bing-搜索排名第二了](https://www.v2ex.com/t/845092) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-04-05-安卓原生的通知列表栏和快捷按钮是在-Launcher-源码还是在系统里？](https://www.v2ex.com/t/845077) ![](assets/new.png)  
 - [2022-04-05-鲜为人知！但是很有意思的网站！这-5-个你都知道吗？-|-零度解说](https://www.v2ex.com/t/845075) ![](assets/new.png)  
 - [2022-04-05-Windows-动态平铺窗口管理软件（dynamic-tiling-window-manager）](https://www.v2ex.com/t/845074) ![](assets/new.png)  
-- [2022-04-05-mac-两侧的音响孔怎么清洁](https://www.v2ex.com/t/845073) ![](assets/new.png)  
-- [2022-04-05-apple-music-车](https://www.v2ex.com/t/845072) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -563,15 +563,15 @@
 - [2022-04-05-点击页面元素,这个Vite插件帮我打开了Vue组件](https://toutiao.io/k/heoz7au) ![](assets/new.png)  
 - [2022-04-05-Kubernetes、集群联邦和资源分发](https://toutiao.io/k/1tefdkz) ![](assets/new.png)  
 - [2022-04-05-如何获取当前C#程序所有线程的调用栈信息-?](https://toutiao.io/k/okizg98) ![](assets/new.png)  
-- [2022-04-05-推荐-时间轮原理及其在框架中的应用](https://toutiao.io/k/1dwwpfd) ![](assets/new.png)  
+- [2022-04-05-推荐-你管这破玩意儿叫高可用](https://toutiao.io/k/qudsbeg) ![](assets/new.png)  
 - [2022-04-05-推荐-一年实现降本60%，货拉拉全链路监控演进史](https://toutiao.io/k/nrsy3uf) ![](assets/new.png)  
+- [2022-04-05-推荐-盘点-3-月份-yyds-的开源项目](https://toutiao.io/k/79431xa) ![](assets/new.png)  
+- [2022-04-05-推荐-时间轮原理及其在框架中的应用](https://toutiao.io/k/1dwwpfd) ![](assets/new.png)  
+- [2022-04-05-推荐-错误码设计思考](https://toutiao.io/k/qas5y3j) ![](assets/new.png)  
+- [2022-04-05-推荐-20多个好用的-Vue-组件库，请查收！](https://toutiao.io/k/sskayyw) ![](assets/new.png)  
 - [2022-04-05-推荐-Kafka-面试连环炮,-看看你能撑到哪一步?](https://toutiao.io/k/z30ehzv) ![](assets/new.png)  
 - [2022-04-05-推荐-万字长文助你上手软件领域驱动设计-DDD](https://toutiao.io/k/72nuj7z) ![](assets/new.png)  
-- [2022-04-05-推荐-20多个好用的-Vue-组件库，请查收！](https://toutiao.io/k/sskayyw) ![](assets/new.png)  
 - [2022-04-05-推荐-如果你是一个Golang面试官，你会问哪些问题？](https://toutiao.io/k/yvw61mc) ![](assets/new.png)  
-- [2022-04-05-推荐-错误码设计思考](https://toutiao.io/k/qas5y3j) ![](assets/new.png)  
-- [2022-04-05-推荐-盘点-3-月份-yyds-的开源项目](https://toutiao.io/k/79431xa) ![](assets/new.png)  
-- [2022-04-05-推荐-你管这破玩意儿叫高可用](https://toutiao.io/k/qudsbeg) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

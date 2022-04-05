@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2022-04-05 15:15:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-04-05 15:43:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-04-05-为什么-ASP.NET-Core-对开发环境默认开启-HTTPS？](https://www.v2ex.com/t/845101) 
+- [2022-04-05-各位兄弟们，我居然当舔狗了，快来骂醒我](https://www.v2ex.com/t/845100) 
 - [2022-04-05-各位-V2er-们习惯早餐前还是早餐后刷牙？](https://www.v2ex.com/t/845095) 
 - [2022-04-05-如果-Linus-没有开发出-Linux-，现在的-Linux-用户有几成会选择-Unix？自由软件会减少多少？](https://www.v2ex.com/t/845093) 
 - [2022-04-05-我的-K8S-教程-Bing-搜索排名第二了](https://www.v2ex.com/t/845092) 
@@ -42,5 +44,3 @@
 - [2022-04-05-想买个续航-100km-左右的新国标电动车，大家有什么推荐吗？](https://www.v2ex.com/t/845055) 
 - [2022-04-05-北京、上海、深圳-Shopee虾皮春招，社招内推。内推码-NTAK7XF](https://www.v2ex.com/t/845054) 
 - [2022-04-05-解决-OneDrive-photo（web）在关闭当前视图后，跳回顶部的问题。](https://www.v2ex.com/t/845052) 
-- [2022-04-05-iPhone-如何无线往-PC-上备份照片](https://www.v2ex.com/t/845051) 
-- [2022-04-05-求-macos-最好用的-pdf-编辑工具](https://www.v2ex.com/t/845050) 

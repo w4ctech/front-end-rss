@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-04-05 11:38:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-04-05 12:20:14。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1913,6 +1913,9 @@
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2022-03-21-ascent-override-descent-override-line-gap-override一锅端](https://www.zhangxinxu.com/wordpress/2022/03/css-ascent-override-descent/) 
 - [2022-02-04-HTML-inputmode与iOS-Android软键盘类型测试](https://www.zhangxinxu.com/wordpress/2022/02/html-inputmode-keyboard/) 
+- [2022-04-05-「qbittorrent-torrents-exporter」qBittorrent-种子文件导出小工具](https://www.v2ex.com/t/845070) 
+- [2022-04-05-Assistant-系列软件（Redis,-ZooKeeper,-Data,-Kafka）1-年兑换码大放送](https://www.v2ex.com/t/845068) 
+- [2022-04-05-求个在线压缩-mp3-工具.原文件-5m-想压到-1m,可以自己设置压缩率就行,不需要复杂设置.](https://www.v2ex.com/t/845067) 
 - [2022-04-05-办公室恋情传开了，唉](https://www.v2ex.com/t/845066) 
 - [2022-04-05-有偿-请教-关于考研计算机-408-的调剂](https://www.v2ex.com/t/845065) 
 - [2022-04-05-2022-年-4-月，现在还能办到什么套餐便宜的电话卡么？（开新号，-4G/5G-无所谓](https://www.v2ex.com/t/845064) 
@@ -1943,10 +1946,6 @@
 - [2022-04-05-腾讯云云服务器特惠香港新加坡东京等-2-核-2G30M-约三年-240-288是人都可上车良心云特惠孟买-2-核-2G30M-约-5-年-211（2-台共-63-个月-240）](https://www.v2ex.com/t/845025) 
 - [2022-04-05-ios-微信拍照延迟的声音抢占无缝播放的耳机权限](https://www.v2ex.com/t/845023) 
 - [2022-04-05-求淘宝卖国外网盘中转服务的-api](https://www.v2ex.com/t/845021) 
-- [2022-04-05-有哪些高品质的配音软件？](https://www.v2ex.com/t/845020) 
-- [2022-04-05-拉胯的月球陨落](https://www.v2ex.com/t/845019) 
-- [2022-04-05-请教一下建站相关的问题](https://www.v2ex.com/t/845018) 
-- [2022-04-05-Google-One-2T-plan-送-PNV？](https://www.v2ex.com/t/845017) 
 - [2022-04-05-通过面向对象设计串口协议-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15005&url=https%3A%2F%2Finsights.thoughtworks.cn%2Foo-design-serial-protocol%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-04-05-如何提升代码质量-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15003&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-improve-code-quality%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-04-05-什么场景（不）适合使用Lambda-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15002&url=https%3A%2F%2Finsights.thoughtworks.cn%2Flambda%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1970,7 +1969,7 @@
 - [2022-04-05-Kubernetes、集群联邦和资源分发](https://toutiao.io/k/1tefdkz) 
 - [2022-04-05-如何获取当前C#程序所有线程的调用栈信息-?](https://toutiao.io/k/okizg98) 
 - [2022-04-05-推荐-盘点-3-月份-yyds-的开源项目](https://toutiao.io/k/79431xa) 
-- [2022-04-05-推荐-万字长文助你上手软件领域驱动设计-DDD](https://toutiao.io/k/72nuj7z) 
-- [2022-04-05-推荐-错误码设计思考](https://toutiao.io/k/qas5y3j) 
 - [2022-04-05-推荐-你管这破玩意儿叫高可用](https://toutiao.io/k/qudsbeg) 
 - [2022-04-05-推荐-时间轮原理及其在框架中的应用](https://toutiao.io/k/1dwwpfd) 
+- [2022-04-05-推荐-万字长文助你上手软件领域驱动设计-DDD](https://toutiao.io/k/72nuj7z) 
+- [2022-04-05-推荐-错误码设计思考](https://toutiao.io/k/qas5y3j) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-04-05 21:11:44。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-04-05 21:36:34。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1943,7 +1943,6 @@
 - [2022-04-05-mac-两侧的音响孔怎么清洁](https://www.v2ex.com/t/845073) 
 - [2022-04-05-mac-隔空投送一个文件夹到-iPhone-找不到怎么破](https://www.v2ex.com/t/845071) 
 - [2022-04-05-「qbittorrent-torrents-exporter」qBittorrent-种子文件导出小工具](https://www.v2ex.com/t/845070) 
-- [2022-04-05-Assistant-系列软件（Redis,-ZooKeeper,-Data,-Kafka）1-年兑换码大放送](https://www.v2ex.com/t/845068) 
 - [2022-04-05-来，咱聊聊接口幂等性设计-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15008&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493770%26amp%3Bidx%3D2%26amp%3Bsn%3Dfec23a16208ef27f1d65e7f9ea3dab12%26amp%3Bchksm%3Dfa3f09d1cd4880c76034a14910af79d65a270e3db86bfd160cf2edb143344a1d628d1f500168%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-04-05-最受程序员欢迎的20本书！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15007&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493749%26amp%3Bidx%3D1%26amp%3Bsn%3D9cf2fa6cbe49a48dcaee073da7d04004%26amp%3Bchksm%3Dfa3f092ecd488038e0ccc5d21961b8968b46257ce41b47a750dd99558544ce102721b6cea078%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-04-05-IDEA中的热部署神器！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15006&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493749%26amp%3Bidx%3D2%26amp%3Bsn%3D784e73396088f749613a0539e530d701%26amp%3Bchksm%3Dfa3f092ecd4880382609a6531ff398e535939afc1e633e6703958e173067f909a31cd42cd002%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1964,8 +1963,8 @@
 - [2022-04-05-改革者：高效的变压器](https://toutiao.io/k/719wx4h) 
 - [2022-04-05-Kubernetes、集群联邦和资源分发](https://toutiao.io/k/1tefdkz) 
 - [2022-04-05-如何获取当前C#程序所有线程的调用栈信息-?](https://toutiao.io/k/okizg98) 
-- [2022-04-05-推荐-万字长文助你上手软件领域驱动设计-DDD](https://toutiao.io/k/72nuj7z) 
+- [2022-04-05-推荐-盘点-3-月份-yyds-的开源项目](https://toutiao.io/k/79431xa) 
 - [2022-04-05-推荐-时间轮原理及其在框架中的应用](https://toutiao.io/k/1dwwpfd) 
 - [2022-04-05-推荐-错误码设计思考](https://toutiao.io/k/qas5y3j) 
 - [2022-04-05-推荐-一年实现降本60%，货拉拉全链路监控演进史](https://toutiao.io/k/nrsy3uf) 
-- [2022-04-05-推荐-盘点-3-月份-yyds-的开源项目](https://toutiao.io/k/79431xa) 
+- [2022-04-05-推荐-万字长文助你上手软件领域驱动设计-DDD](https://toutiao.io/k/72nuj7z) 

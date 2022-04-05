@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-04-05 06:46:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-04-05 07:14:04。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -16,5 +16,4 @@
 - [2022-04-05-分享一个-zerotier-win-平台连不上的问题](https://www.v2ex.com/t/845006) 
 - [2022-04-05-edge-弹框要求每次启动都从其他浏览器导入浏览数据](https://www.v2ex.com/t/845001) 
 - [2022-04-05-Chrome-闪退有遇到的吗？](https://www.v2ex.com/t/844981) 
-- [2022-04-05-为什么安卓平台竟然找不到一个支持无图模式的浏览器？](https://www.v2ex.com/t/844974) 
 - [2022-04-05-在网页上调试手机上的APP](https://toutiao.io/k/b6l2ml9) 

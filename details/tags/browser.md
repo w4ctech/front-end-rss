@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-04-05 05:13:48。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-04-05 05:37:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -18,5 +18,4 @@
 - [2022-04-05-Chrome-闪退有遇到的吗？](https://www.v2ex.com/t/844981) 
 - [2022-04-05-为什么安卓平台竟然找不到一个支持无图模式的浏览器？](https://www.v2ex.com/t/844974) 
 - [2022-04-04-使用了-Entity-Framework-这类-ORM-框架是不是就不用考虑-SQL-注入的安全问题了？](https://www.v2ex.com/t/844968) 
-- [2022-04-04-请求数百万个-URL，-C#还是-Python-快且容易实现？](https://www.v2ex.com/t/844961) 
 - [2022-04-05-在网页上调试手机上的APP](https://toutiao.io/k/b6l2ml9) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-04-05 09:13:49，:rocket: 更新条数: +2025， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-04-05 09:39:58，:rocket: 更新条数: +2024， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,10 @@
 </summary>
 
 
+- [2022-04-05-北京、上海、深圳-Shopee虾皮春招，社招内推。内推码-NTAK7XF](https://www.v2ex.com/t/845054) ![](assets/new.png)  
+- [2022-04-05-解决-OneDrive-photo（web）在关闭当前视图后，跳回顶部的问题。](https://www.v2ex.com/t/845052) ![](assets/new.png)  
+- [2022-04-05-iPhone-如何无线往-PC-上备份照片](https://www.v2ex.com/t/845051) ![](assets/new.png)  
+- [2022-04-05-求-macos-最好用的-pdf-编辑工具](https://www.v2ex.com/t/845050) ![](assets/new.png)  
 - [2022-04-05-AC-自动机-->归类，需要两步完成么](https://www.v2ex.com/t/845049) ![](assets/new.png)  
 - [2022-04-05-Raycast-pop-up-能有办法关掉他那个-walk-through-吗？](https://www.v2ex.com/t/845048) ![](assets/new.png)  
 - [2022-04-05-求助-Django-图片路径的问题](https://www.v2ex.com/t/845045) ![](assets/new.png)  
@@ -507,10 +511,6 @@
 - [2022-04-05-45-收个-88-会员网易云-vip](https://www.v2ex.com/t/845032) ![](assets/new.png)  
 - [2022-04-05-杭州心血管内科医院和专家？](https://www.v2ex.com/t/845031) ![](assets/new.png)  
 - [2022-04-05-3.9-下单预定的-mbp16-m1max10c24g16n/64g/1t-还没发货，显示到货-4.9-4.16](https://www.v2ex.com/t/845030) ![](assets/new.png)  
-- [2022-04-05-在-Windows-下用“Spotlight”切换窗口](https://www.v2ex.com/t/845028) ![](assets/new.png)  
-- [2022-04-05-AI-技术在音视频与图像压缩技术领域有大规模应用吗？](https://www.v2ex.com/t/845026) ![](assets/new.png)  
-- [2022-04-05-腾讯云云服务器特惠香港新加坡东京等-2-核-2G30M-约三年-240-288是人都可上车良心云特惠孟买-2-核-2G30M-约-5-年-211（2-台共-63-个月-240）](https://www.v2ex.com/t/845025) ![](assets/new.png)  
-- [2022-04-05-ios-微信拍照延迟的声音抢占无缝播放的耳机权限](https://www.v2ex.com/t/845023) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -564,13 +564,13 @@
 - [2022-04-05-Kubernetes、集群联邦和资源分发](https://toutiao.io/k/1tefdkz) ![](assets/new.png)  
 - [2022-04-05-如何获取当前C#程序所有线程的调用栈信息-?](https://toutiao.io/k/okizg98) ![](assets/new.png)  
 - [2022-04-05-推荐-盘点-3-月份-yyds-的开源项目](https://toutiao.io/k/79431xa) ![](assets/new.png)  
-- [2022-04-05-推荐-Kafka-面试连环炮,-看看你能撑到哪一步?](https://toutiao.io/k/z30ehzv) ![](assets/new.png)  
-- [2022-04-05-推荐-万字长文助你上手软件领域驱动设计-DDD](https://toutiao.io/k/72nuj7z) ![](assets/new.png)  
-- [2022-04-05-推荐-错误码设计思考](https://toutiao.io/k/qas5y3j) ![](assets/new.png)  
-- [2022-04-05-推荐-如果你是一个Golang面试官，你会问哪些问题？](https://toutiao.io/k/yvw61mc) ![](assets/new.png)  
-- [2022-04-05-推荐-20多个好用的-Vue-组件库，请查收！](https://toutiao.io/k/sskayyw) ![](assets/new.png)  
 - [2022-04-05-推荐-你管这破玩意儿叫高可用](https://toutiao.io/k/qudsbeg) ![](assets/new.png)  
+- [2022-04-05-推荐-万字长文助你上手软件领域驱动设计-DDD](https://toutiao.io/k/72nuj7z) ![](assets/new.png)  
+- [2022-04-05-推荐-20多个好用的-Vue-组件库，请查收！](https://toutiao.io/k/sskayyw) ![](assets/new.png)  
+- [2022-04-05-推荐-错误码设计思考](https://toutiao.io/k/qas5y3j) ![](assets/new.png)  
 - [2022-04-05-推荐-时间轮原理及其在框架中的应用](https://toutiao.io/k/1dwwpfd) ![](assets/new.png)  
+- [2022-04-05-推荐-Kafka-面试连环炮,-看看你能撑到哪一步?](https://toutiao.io/k/z30ehzv) ![](assets/new.png)  
+- [2022-04-05-推荐-如果你是一个Golang面试官，你会问哪些问题？](https://toutiao.io/k/yvw61mc) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

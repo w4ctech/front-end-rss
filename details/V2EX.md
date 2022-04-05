@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2022-04-05 15:43:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-04-05 16:18:58。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-04-05-Angular.js-停止维护后，-Angular-是不是比较难嵌入服务器渲染的页面里了？](https://www.v2ex.com/t/845103) 
+- [2022-04-05-笔记应用-GoodNotes-5-变为免费+内购了？](https://www.v2ex.com/t/845102) 
 - [2022-04-05-为什么-ASP.NET-Core-对开发环境默认开启-HTTPS？](https://www.v2ex.com/t/845101) 
 - [2022-04-05-各位兄弟们，我居然当舔狗了，快来骂醒我](https://www.v2ex.com/t/845100) 
 - [2022-04-05-各位-V2er-们习惯早餐前还是早餐后刷牙？](https://www.v2ex.com/t/845095) 
@@ -43,4 +45,3 @@
 - [2022-04-05-前后端分离的应用，中间件检查-header-里的-Client-字段就能防止跨站攻击了吗？](https://www.v2ex.com/t/845056) 
 - [2022-04-05-想买个续航-100km-左右的新国标电动车，大家有什么推荐吗？](https://www.v2ex.com/t/845055) 
 - [2022-04-05-北京、上海、深圳-Shopee虾皮春招，社招内推。内推码-NTAK7XF](https://www.v2ex.com/t/845054) 
-- [2022-04-05-解决-OneDrive-photo（web）在关闭当前视图后，跳回顶部的问题。](https://www.v2ex.com/t/845052) 

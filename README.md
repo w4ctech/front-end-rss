@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-04-06 02:29:28，:rocket: 更新条数: +2029， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-04-06 03:13:29，:rocket: 更新条数: +2025， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,26 +491,26 @@
 </summary>
 
 
+- [2022-04-06-招行外币信用卡办哪个？](https://www.v2ex.com/t/845172) ![](assets/new.png)  
+- [2022-04-06-一直以为是脸盲，原来是心盲](https://www.v2ex.com/t/845171) ![](assets/new.png)  
+- [2022-04-06-youtube-vanced-闪退的问题解决办法](https://www.v2ex.com/t/845170) ![](assets/new.png)  
+- [2022-04-06-我用-godot-开发一个模拟游戏-Demo](https://www.v2ex.com/t/845169) ![](assets/new.png)  
+- [2022-04-06-上海的朋友们，大家菜还够吗，分享一个抢菜方法](https://www.v2ex.com/t/845168) ![](assets/new.png)  
+- [2022-04-06-身份证要过期了，过期之后银行卡啥的还能用吗？](https://www.v2ex.com/t/845166) ![](assets/new.png)  
+- [2022-04-06-v-站，-发布帖子到-成都/chengdu-节点-需要满-720-天，怎么曲线救国？](https://www.v2ex.com/t/845165) ![](assets/new.png)  
+- [2022-04-06-前端项目-如何进行目标管理-如何在计划的时间内完成任务](https://www.v2ex.com/t/845163) ![](assets/new.png)  
+- [2022-04-06-Netlify-或-Vercel-或-AWS-Amplify-托管的静态网站,-在中国访问会抽风吗?](https://www.v2ex.com/t/845162) ![](assets/new.png)  
+- [2022-04-06-发现一个给本次-/r/place-涂鸦注解的网站](https://www.v2ex.com/t/845160) ![](assets/new.png)  
+- [2022-04-06-这两天心情有点低落。](https://www.v2ex.com/t/845159) ![](assets/new.png)  
+- [2022-04-06-请教各位大佬，想搭一个工具库主页，有没有现成的模板](https://www.v2ex.com/t/845157) ![](assets/new.png)  
+- [2022-04-06-有没有可以用于美区-apple-store-和其他境外平台的虚拟-visa-卡推荐？](https://www.v2ex.com/t/845156) ![](assets/new.png)  
+- [2022-04-06-上海的-Swift-停掉了？](https://www.v2ex.com/t/845155) ![](assets/new.png)  
+- [2022-04-06-阿里云国际版的香港服务器搭梯子会被发现吗](https://www.v2ex.com/t/845153) ![](assets/new.png)  
 - [2022-04-06-请问大家北京居住证都是怎么办理的](https://www.v2ex.com/t/845152) ![](assets/new.png)  
 - [2022-04-06-说一个最近遇到的下载相册图片原图问题](https://www.v2ex.com/t/845151) ![](assets/new.png)  
 - [2022-04-06-终端-Warp-可以公开下载了](https://www.v2ex.com/t/845150) ![](assets/new.png)  
 - [2022-04-06-wwdc-2022](https://www.v2ex.com/t/845148) ![](assets/new.png)  
 - [2022-04-06-删库跑路后续，-8000-块压倒骆驼的最后一棵稻草](https://www.v2ex.com/t/845147) ![](assets/new.png)  
-- [2022-04-06-公司环境有-ip-白名单，居家办公时如何固定-ip，避免频繁麻烦运维人员添加-ip](https://www.v2ex.com/t/845145) ![](assets/new.png)  
-- [2022-04-06-全职-校招-newsbreak-北京或者上海](https://www.v2ex.com/t/845143) ![](assets/new.png)  
-- [2022-04-06-AirPods-成-Air-了](https://www.v2ex.com/t/845142) ![](assets/new.png)  
-- [2022-04-06-想业余时间写一个-Java-项目，用上-spring-cloud、es、rabbitmq、docker、k8s-等技术，写什么项目比较好？](https://www.v2ex.com/t/845141) ![](assets/new.png)  
-- [2022-04-06-看了菜鸟教程和-Stack-Overflow-后端技术结构图，想要了解一下-V2EX-的基础结构，及-CDN-的相关使用方案。有大佬了解的吗？](https://www.v2ex.com/t/845139) ![](assets/new.png)  
-- [2022-04-06-大家平时有记账的习惯吗](https://www.v2ex.com/t/845138) ![](assets/new.png)  
-- [2022-04-06-作为大龄程序员，有考虑未来往区块链转吗？](https://www.v2ex.com/t/845137) ![](assets/new.png)  
-- [2022-04-06-验证短信码被盗刷怎么办](https://www.v2ex.com/t/845136) ![](assets/new.png)  
-- [2022-04-06-玩了愚人节时-reddt-的像素大战，自己撸了个简易手机版的，参与的人多了才好玩](https://www.v2ex.com/t/845135) ![](assets/new.png)  
-- [2022-04-06-求公路片](https://www.v2ex.com/t/845133) ![](assets/new.png)  
-- [2022-04-06-消息最终一致性的架构革命](https://www.v2ex.com/t/845132) ![](assets/new.png)  
-- [2022-04-06-Offer-取舍，某知名大厂与某金融科技公司](https://www.v2ex.com/t/845131) ![](assets/new.png)  
-- [2022-04-06-远程求职-Python-和-QT-想找个零活兼职](https://www.v2ex.com/t/845130) ![](assets/new.png)  
-- [2022-04-06-Windows-11-去掉了切换网络类型（公共/私人）的入口](https://www.v2ex.com/t/845129) ![](assets/new.png)  
-- [2022-04-06-PowerShell-启动慢](https://www.v2ex.com/t/845128) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -562,17 +562,17 @@
 - [2022-04-06-libuv-避坑指南](https://toutiao.io/k/2sf7ym5) ![](assets/new.png)  
 - [2022-04-06-喜欢爬虫的小伙伴们有福啦，手把手带大家分析一波百度音乐接口呗~](https://toutiao.io/k/addmj2g) ![](assets/new.png)  
 - [2022-04-06-使用数据集蒸馏更有效地训练机器学习模型](https://toutiao.io/k/l0ggpi4) ![](assets/new.png)  
-- [2022-04-06-看完这个图表，我直接绿了](https://toutiao.io/k/5yrz5mm) ![](assets/new.png)  
 - [2022-04-06-聊聊API网关](https://toutiao.io/k/3fpi68y) ![](assets/new.png)  
+- [2022-04-06-看完这个图表，我直接绿了](https://toutiao.io/k/5yrz5mm) ![](assets/new.png)  
 - [2022-04-06-Go语言异常处理保姆级教程，继续肝！](https://toutiao.io/k/d25ubt6) ![](assets/new.png)  
 - [2022-04-06-Android应用安全解决方案](https://toutiao.io/k/bb8s902) ![](assets/new.png)  
-- [2022-04-06-推荐-万字长文助你上手软件领域驱动设计-DDD](https://toutiao.io/k/72nuj7z) ![](assets/new.png)  
-- [2022-04-06-推荐-一年实现降本60%，货拉拉全链路监控演进史](https://toutiao.io/k/nrsy3uf) ![](assets/new.png)  
+- [2022-04-06-推荐-Kafka-面试连环炮,-看看你能撑到哪一步?](https://toutiao.io/k/z30ehzv) ![](assets/new.png)  
 - [2022-04-06-推荐-20多个好用的-Vue-组件库，请查收！](https://toutiao.io/k/sskayyw) ![](assets/new.png)  
 - [2022-04-06-推荐-时间轮原理及其在框架中的应用](https://toutiao.io/k/1dwwpfd) ![](assets/new.png)  
-- [2022-04-06-推荐-如果你是一个Golang面试官，你会问哪些问题？](https://toutiao.io/k/yvw61mc) ![](assets/new.png)  
-- [2022-04-06-推荐-Kafka-面试连环炮,-看看你能撑到哪一步?](https://toutiao.io/k/z30ehzv) ![](assets/new.png)  
 - [2022-04-06-推荐-错误码设计思考](https://toutiao.io/k/qas5y3j) ![](assets/new.png)  
+- [2022-04-06-推荐-万字长文助你上手软件领域驱动设计-DDD](https://toutiao.io/k/72nuj7z) ![](assets/new.png)  
+- [2022-04-06-推荐-一年实现降本60%，货拉拉全链路监控演进史](https://toutiao.io/k/nrsy3uf) ![](assets/new.png)  
+- [2022-04-06-推荐-如果你是一个Golang面试官，你会问哪些问题？](https://toutiao.io/k/yvw61mc) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

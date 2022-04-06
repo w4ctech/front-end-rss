@@ -1,10 +1,14 @@
-:alarm_clock: 更新时间: 2022-04-06 13:47:15。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-04-06 14:13:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-04-06-windows-terminal-远程-Linux-使用-vim-后出现重复的提示符](https://www.v2ex.com/t/845348) 
+- [2022-04-06-大佬们都是用什么软件找工作的？（程序员）](https://www.v2ex.com/t/845346) 
+- [2022-04-06-请教-HtmlWebpackPlugin-通过-template-生成-html，导致-js-css-文件重复](https://www.v2ex.com/t/845345) 
+- [2022-04-06-现在买-R2S-还值得吗？](https://www.v2ex.com/t/845344) 
 - [2022-04-06-求助-macos-系统下，-u-盘格式化成-exfat-格式后，显示-u-盘只读](https://www.v2ex.com/t/845343) 
 - [2022-04-06-外企对英语的要求一般是什么水平，有没有什么突击之法](https://www.v2ex.com/t/845342) 
 - [2022-04-06-有对中医感兴趣的么，分享一个不错的站](https://www.v2ex.com/t/845341) 
@@ -39,8 +43,3 @@
 - [2022-04-06-光猫和软路由老抽时常断网，现在打算在服务器上装两-sfp+网卡替换软路由，想问下有没有一键式解决方案](https://www.v2ex.com/t/845302) 
 - [2022-04-06-ios15.4-13pro-打开相机会闪一下](https://www.v2ex.com/t/845301) 
 - [2022-04-06-纠结-flutter、uni-app，做小程序该选哪个？](https://www.v2ex.com/t/845299) 
-- [2022-04-06-现在你们听歌用什么软件啊？网易云是废了](https://www.v2ex.com/t/845298) 
-- [2022-04-06-钉钉-macOS-Apple-silicon-版本终于发布了，测试版](https://www.v2ex.com/t/845297) 
-- [2022-04-06-问如何保持热情](https://www.v2ex.com/t/845296) 
-- [2022-04-06-优秀程序员因该具备哪些数学知识](https://www.v2ex.com/t/845295) 
-- [2022-04-06-r2s-怎么搞-iptv-单线复用呢](https://www.v2ex.com/t/845294) 

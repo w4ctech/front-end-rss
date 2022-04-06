@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-04-06 07:14:04。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-04-06 07:37:47。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -280,8 +280,10 @@
 - [【武汉肺炎防疫全纪录(财新网)】腺病毒新冠疫苗引安全忧虑-康希诺称未发现血栓病例](https://m.caixin.com/m/2021-04-14/101691086.html)
 - [【武汉肺炎防疫全纪录(财新网)】解药|新冠mRNA疫苗安全性有哪些挑战？](https://m.caixin.com/m/2021-01-08/101648043.html)
 - [【武汉肺炎防疫全纪录(财新网)】大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html)
+- [【V2EX】nuxt-的静态项目每次部署都需要清缓存才能看到效果该怎么处理？](https://www.v2ex.com/t/845254)
+- [【V2EX】求问-chrome-能不能设置快捷键？](https://www.v2ex.com/t/845252)
+- [【V2EX】chrome-v100-工具栏头像左侧增加了-show-side-panel](https://www.v2ex.com/t/845248)
 - [【V2EX】哪家邮箱最安全？](https://www.v2ex.com/t/845235)
-- [【V2EX】让你的-Firefox-自动隐藏所有-UI！](https://www.v2ex.com/t/845197)
 - [【开发者头条】Android应用安全解决方案](https://toutiao.io/k/bb8s902)
 - [【开发者头条】基于Spring接口，集成Caffeine+Redis两级缓存](https://toutiao.io/k/m7utltv)
 - [......【查看更多】......](./details/tags/browser.md)
@@ -353,9 +355,8 @@
 
 
 - [【V2EX】外企/上海/基础架构/开源商业-明星开源公司-Kong-中国分公司继续招聘啦](https://www.v2ex.com/t/845218)
-- [【V2EX】远程内推20k-40k-招聘中高级前端开发](https://www.v2ex.com/t/845198)
-- [【开发者头条】推荐-Kafka-面试连环炮,-看看你能撑到哪一步?](https://toutiao.io/k/z30ehzv)
 - [【开发者头条】推荐-如果你是一个Golang面试官，你会问哪些问题？](https://toutiao.io/k/yvw61mc)
+- [【开发者头条】推荐-Kafka-面试连环炮,-看看你能撑到哪一步?](https://toutiao.io/k/z30ehzv)
 - [......【查看更多】......](./details/tags/job-interview.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

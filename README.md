@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-04-06 06:46:08，:rocket: 更新条数: +2037， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-04-06 07:14:04，:rocket: 更新条数: +2038， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,10 +491,19 @@
 </summary>
 
 
+- [2022-04-06-iOS-设置了自己搭建的-adGuard-Home-配置-app-store-无法访问求解](https://www.v2ex.com/t/845242) ![](assets/new.png)  
+- [2022-04-06-家里宽带是电信的，想把移动的手机号转成电信，绑在宽带账号下面。想问下移动和电信哪个手机信号好？](https://www.v2ex.com/t/845241) ![](assets/new.png)  
+- [2022-04-06-预算-8k（小于-1w）怎么组一台家用服务器](https://www.v2ex.com/t/845240) ![](assets/new.png)  
+- [2022-04-06-Java-如何监测静态变量值的变化？](https://www.v2ex.com/t/845239) ![](assets/new.png)  
+- [2022-04-06-应该怎么维权?](https://www.v2ex.com/t/845238) ![](assets/new.png)  
+- [2022-04-06-大家帮忙推荐一款无线路由器](https://www.v2ex.com/t/845237) ![](assets/new.png)  
+- [2022-04-06-粤康码是怎么定位的？](https://www.v2ex.com/t/845236) ![](assets/new.png)  
+- [2022-04-06-哪家邮箱最安全？](https://www.v2ex.com/t/845235) ![](assets/new.png)  
+- [2022-04-06-远程办公/大牛云集/小而美-思码逸-DevOps-研发工程师正在热招](https://www.v2ex.com/t/845234) ![](assets/new.png)  
 - [2022-04-06-wps-office-的-PPT-不显示-Office-做的批注](https://www.v2ex.com/t/845233) ![](assets/new.png)  
 - [2022-04-06-对于这类情况应该如何去处理](https://www.v2ex.com/t/845232) ![](assets/new.png)  
 - [2022-04-06-大家现在-TestFlight-的公共测试需要每个-Build-都审一下吗？](https://www.v2ex.com/t/845231) ![](assets/new.png)  
-- [2022-04-06-mac-word-插入-latex-公式，卡死，强制退出之后，之前的编辑全部消失](https://www.v2ex.com/t/845230) ![](assets/new.png)  
+- [2022-04-06-mac-word-插入-latex-公式，卡死，强制退出之后，之前（已保存过）的编辑全部消失](https://www.v2ex.com/t/845230) ![](assets/new.png)  
 - [2022-04-06-有没有程序员交流群](https://www.v2ex.com/t/845229) ![](assets/new.png)  
 - [2022-04-06-Macbook-不支持-type-C-耳机吗？](https://www.v2ex.com/t/845228) ![](assets/new.png)  
 - [2022-04-06-阿里-Midway-解决了什么问题？](https://www.v2ex.com/t/845227) ![](assets/new.png)  
@@ -502,15 +511,6 @@
 - [2022-04-06-X-音视频浏览量能刷吗](https://www.v2ex.com/t/845225) ![](assets/new.png)  
 - [2022-04-06-i7-8750H-和-R3-5400U-怎么选？](https://www.v2ex.com/t/845224) ![](assets/new.png)  
 - [2022-04-06-B-站上有人分享互联网拿高薪背后的本质。](https://www.v2ex.com/t/845223) ![](assets/new.png)  
-- [2022-04-06-一个邪恶的想法](https://www.v2ex.com/t/845222) ![](assets/new.png)  
-- [2022-04-06-M1-mac-外接显示器推荐](https://www.v2ex.com/t/845221) ![](assets/new.png)  
-- [2022-04-06-Remote-Laravel-Full-Stack-Developer](https://www.v2ex.com/t/845219) ![](assets/new.png)  
-- [2022-04-06-外企/上海/基础架构/开源商业-明星开源公司-Kong-中国分公司继续招聘啦](https://www.v2ex.com/t/845218) ![](assets/new.png)  
-- [2022-04-06-mac-studio-主机套](https://www.v2ex.com/t/845217) ![](assets/new.png)  
-- [2022-04-06-软件上传文件时都发生了什么？](https://www.v2ex.com/t/845215) ![](assets/new.png)  
-- [2022-04-06-Google-voice-被回收-求个有美国电话的老哥帮忙找回](https://www.v2ex.com/t/845214) ![](assets/new.png)  
-- [2022-04-06-选配的-mac-studio-发货了？](https://www.v2ex.com/t/845213) ![](assets/new.png)  
-- [2022-04-06-独立产品灵感周刊-DecoHack-#008](https://www.v2ex.com/t/845212) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -556,8 +556,8 @@
 - [2022-04-06-疫情下的失业程序员；参与开源项目很难吗？Go语言之父介绍泛型｜码农周刊VIP会员专属邮件周报-Vol.086](https://toutiao.io/k/07qzhk3) ![](assets/new.png)  
 - [2022-04-06-系统架构的11条原则](https://toutiao.io/k/xbwjqgj) ![](assets/new.png)  
 - [2022-04-06-谷歌工程最佳实践](https://toutiao.io/k/q19mmjh) ![](assets/new.png)  
-- [2022-04-06-Lyft微服务研发效能提升实践-|-3.-利用覆盖机制在预发环境中扩展服务网格](https://toutiao.io/k/cuqzep3) ![](assets/new.png)  
 - [2022-04-06-聊聊API网关](https://toutiao.io/k/3fpi68y) ![](assets/new.png)  
+- [2022-04-06-Lyft微服务研发效能提升实践-|-3.-利用覆盖机制在预发环境中扩展服务网格](https://toutiao.io/k/cuqzep3) ![](assets/new.png)  
 - [2022-04-06-云原生网络利器--Cilium-之-eBPF-篇](https://toutiao.io/k/12919uh) ![](assets/new.png)  
 - [2022-04-06-高小青：Impala在神策实时分析引擎中的落地与优化](https://toutiao.io/k/vg6n11x) ![](assets/new.png)  
 - [2022-04-06-喜欢爬虫的小伙伴们有福啦，手把手带大家分析一波百度音乐接口呗~](https://toutiao.io/k/addmj2g) ![](assets/new.png)  
@@ -571,8 +571,8 @@
 - [2022-04-06-基于Spring接口，集成Caffeine+Redis两级缓存](https://toutiao.io/k/m7utltv) ![](assets/new.png)  
 - [2022-04-06-GitHub-最受欢迎的Top-20-JavaScript-项目](https://toutiao.io/k/pc5k15b) ![](assets/new.png)  
 - [2022-04-06-Go-之父：聊聊我眼中的-Go-语言和环境](https://toutiao.io/k/bslk3rf) ![](assets/new.png)  
-- [2022-04-06-Go语言切片原生支持并发吗？](https://toutiao.io/k/5xmhfh3) ![](assets/new.png)  
 - [2022-04-06-一起来作画吧「GitHub-热点速览」](https://toutiao.io/k/d2olhh5) ![](assets/new.png)  
+- [2022-04-06-Go语言切片原生支持并发吗？](https://toutiao.io/k/5xmhfh3) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

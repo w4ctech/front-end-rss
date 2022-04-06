@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-04-06 06:46:08。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-04-06 07:14:04。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -179,6 +179,8 @@
 - [【武汉肺炎防疫全纪录(财新网)】港府回应一63岁患者死亡事件-暂无法确定与疫苗相关](https://m.caixin.com/m/2021-03-03/101670052.html)
 - [【张鑫旭-鑫空间-鑫生活】基于howler.js写了个音频播放器组件](https://www.zhangxinxu.com/wordpress/2022/03/howler-js-audio-player/)
 - [【张鑫旭-鑫空间-鑫生活】介绍8个和滚动相关的CSS属性](https://www.zhangxinxu.com/wordpress/2022/03/10-css-scroll-scrollbar/)
+- [【V2EX】Java-如何监测静态变量值的变化？](https://www.v2ex.com/t/845239)
+- [【V2EX】大家帮忙推荐一款无线路由器](https://www.v2ex.com/t/845237)
 - [【技术头条】使用jscodeshift做自动化重构-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15004&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fjscodeshift%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【开发者头条】GitHub-最受欢迎的Top-20-JavaScript-项目](https://toutiao.io/k/pc5k15b)
 - [......【查看更多】......](./details/tags/javascript.md)
@@ -278,8 +280,8 @@
 - [【武汉肺炎防疫全纪录(财新网)】腺病毒新冠疫苗引安全忧虑-康希诺称未发现血栓病例](https://m.caixin.com/m/2021-04-14/101691086.html)
 - [【武汉肺炎防疫全纪录(财新网)】解药|新冠mRNA疫苗安全性有哪些挑战？](https://m.caixin.com/m/2021-01-08/101648043.html)
 - [【武汉肺炎防疫全纪录(财新网)】大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html)
+- [【V2EX】哪家邮箱最安全？](https://www.v2ex.com/t/845235)
 - [【V2EX】让你的-Firefox-自动隐藏所有-UI！](https://www.v2ex.com/t/845197)
-- [【V2EX】什么情况？-chrome-浏览器访问不了-google？](https://www.v2ex.com/t/845191)
 - [【开发者头条】Android应用安全解决方案](https://toutiao.io/k/bb8s902)
 - [【开发者头条】基于Spring接口，集成Caffeine+Redis两级缓存](https://toutiao.io/k/m7utltv)
 - [......【查看更多】......](./details/tags/browser.md)
@@ -352,8 +354,8 @@
 
 - [【V2EX】外企/上海/基础架构/开源商业-明星开源公司-Kong-中国分公司继续招聘啦](https://www.v2ex.com/t/845218)
 - [【V2EX】远程内推20k-40k-招聘中高级前端开发](https://www.v2ex.com/t/845198)
-- [【开发者头条】推荐-如果你是一个Golang面试官，你会问哪些问题？](https://toutiao.io/k/yvw61mc)
 - [【开发者头条】推荐-Kafka-面试连环炮,-看看你能撑到哪一步?](https://toutiao.io/k/z30ehzv)
+- [【开发者头条】推荐-如果你是一个Golang面试官，你会问哪些问题？](https://toutiao.io/k/yvw61mc)
 - [......【查看更多】......](./details/tags/job-interview.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

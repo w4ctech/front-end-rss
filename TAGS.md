@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-04-06 09:14:29。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-04-06 09:39:50。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -172,7 +172,6 @@
 
 - [【张鑫旭-鑫空间-鑫生活】基于howler.js写了个音频播放器组件](https://www.zhangxinxu.com/wordpress/2022/03/howler-js-audio-player/)
 - [【张鑫旭-鑫空间-鑫生活】介绍8个和滚动相关的CSS属性](https://www.zhangxinxu.com/wordpress/2022/03/10-css-scroll-scrollbar/)
-- [【V2EX】Java-如何监测静态变量值的变化？](https://www.v2ex.com/t/845239)
 - [......【查看更多】......](./details/tags/javascript.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -379,11 +378,16 @@
 
 - [【张鑫旭-鑫空间-鑫生活】ascent-override-descent-override-line-gap-override一锅端](https://www.zhangxinxu.com/wordpress/2022/03/css-ascent-override-descent/)
 - [【张鑫旭-鑫空间-鑫生活】HTML-inputmode与iOS-Android软键盘类型测试](https://www.zhangxinxu.com/wordpress/2022/02/html-inputmode-keyboard/)
+- [【V2EX】问如何保持热情](https://www.v2ex.com/t/845296)
+- [【V2EX】优秀程序员因该具备哪些数学知识](https://www.v2ex.com/t/845295)
+- [【V2EX】r2s-怎么搞-iptv-单线复用呢](https://www.v2ex.com/t/845294)
+- [【V2EX】想重新活一次，虚心请教关于减肥的事情](https://www.v2ex.com/t/845293)
+- [【V2EX】有没有鼠标推荐](https://www.v2ex.com/t/845292)
+- [【V2EX】成人出于兴趣学编程，有什么推荐的课程吗](https://www.v2ex.com/t/845289)
 - [【V2EX】给个生存思路](https://www.v2ex.com/t/845288)
 - [【V2EX】看书看迷糊了-求解答](https://www.v2ex.com/t/845287)
 - [【V2EX】服务器被挖矿，找到相关文件及计划任务，-google-过关键词得知是-Log4j2-漏洞导致被入侵，想知道该病毒运行的逻辑，找不到相关-sh-文件，求大佬指点。](https://www.v2ex.com/t/845286)
 - [【V2EX】Office365-年费拼团发车，有需要上车的朋友嘛？](https://www.v2ex.com/t/845284)
-- [【V2EX】golang-是开源的吗?-假如某个公司大量使用-go,-特殊时期有可能会面临华为的处境吗?](https://www.v2ex.com/t/845283)
 - [【V2EX】关于各种软件项目的一点体会](https://www.v2ex.com/t/845281)
 - [【V2EX】Mac-里打开-Word-文档怎么在侧栏默认显示目录](https://www.v2ex.com/t/845279)
 - [【V2EX】有没有能够在线下载-b-站字幕的工具或者网址](https://www.v2ex.com/t/845278)
@@ -392,11 +396,6 @@
 - [【V2EX】一个适用于-iPhone-的中国节假日闹钟快捷指令自动化](https://www.v2ex.com/t/845274)
 - [【V2EX】大家都在使用哪些修改网页样式的油猴脚本/Stylish-脚本？](https://www.v2ex.com/t/845272)
 - [【V2EX】V-站脚本-置顶高赞回复](https://www.v2ex.com/t/845271)
-- [【V2EX】想问一下进大厂面经该怎么准备-着重准备简历上面的内容吗](https://www.v2ex.com/t/845270)
-- [【V2EX】突然体会到时间好快](https://www.v2ex.com/t/845268)
-- [【V2EX】一个简单的-KMS-实现](https://www.v2ex.com/t/845267)
-- [【V2EX】山东联通-10-元-300M-宽带+IPTV（IPTV-第二年每月-10-元可取消）](https://www.v2ex.com/t/845265)
-- [【V2EX】这个是自动生成的还是手动写上的](https://www.v2ex.com/t/845263)
 - [......【查看更多】......](./details/tags/other.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

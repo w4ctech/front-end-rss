@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-04-06 03:13:29。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-04-06 03:51:38。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -237,6 +237,7 @@
 
 - [【武汉肺炎防疫全纪录(财新网)】广州17岁男生在定点医院参加高考-特殊考场视频监考](https://m.caixin.com/m/2021-06-05/101723418.html)
 - [【武汉肺炎防疫全纪录(财新网)】林郑月娥率13高官直播接种科兴疫苗-复星疫苗预计周中到港](https://m.caixin.com/m/2021-02-22/101665724.html)
+- [【V2EX】关于-AI-自动剪辑视频的一些想法](https://www.v2ex.com/t/845176)
 - [......【查看更多】......](./details/tags/audio-video.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -277,6 +278,7 @@
 - [【武汉肺炎防疫全纪录(财新网)】腺病毒新冠疫苗引安全忧虑-康希诺称未发现血栓病例](https://m.caixin.com/m/2021-04-14/101691086.html)
 - [【武汉肺炎防疫全纪录(财新网)】解药|新冠mRNA疫苗安全性有哪些挑战？](https://m.caixin.com/m/2021-01-08/101648043.html)
 - [【武汉肺炎防疫全纪录(财新网)】大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html)
+- [【V2EX】-retire.run---退休，跑！-在浏览器标签页记录今日所赚之钱的（摸鱼）记录工具](https://www.v2ex.com/t/845181)
 - [【开发者头条】Android应用安全解决方案](https://toutiao.io/k/bb8s902)
 - [......【查看更多】......](./details/tags/browser.md)
 
@@ -294,7 +296,6 @@
 
 
 
-- [【V2EX】滴滴出行-北京、杭州、上海、深圳内推-Android-系统/Android-App/算法/硬件/前端/-Java-/iOS/Go/-Python-/产品/运营等各类职位招聘，月-20k-80k，优秀另有期权](https://www.v2ex.com/t/845123)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -346,9 +347,9 @@
 
 
 
-- [【V2EX】招聘赴日工程师](https://www.v2ex.com/t/845126)
-- [【开发者头条】推荐-Kafka-面试连环炮,-看看你能撑到哪一步?](https://toutiao.io/k/z30ehzv)
+- [【V2EX】面试问题求教：如何处理海量物联网设备数据（并发上报），如何处理与海量物联网设备通信？](https://www.v2ex.com/t/845174)
 - [【开发者头条】推荐-如果你是一个Golang面试官，你会问哪些问题？](https://toutiao.io/k/yvw61mc)
+- [【开发者头条】推荐-Kafka-面试连环炮,-看看你能撑到哪一步?](https://toutiao.io/k/z30ehzv)
 - [......【查看更多】......](./details/tags/job-interview.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-04-06 00:57:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-04-06 02:29:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -16,3 +16,4 @@
 - [2022-04-05-因自己需要，开发了一款浏览器插件，把-Tab-标签页按-workspace-组织起来，请大家多提意见](https://www.v2ex.com/t/845120) 
 - [2022-04-05-如何方便安全地保存网页为-pdf？](https://www.v2ex.com/t/845118) 
 - [2022-04-05-有什么办法可以用-cookie-在浏览器登陆账号](https://www.v2ex.com/t/845114) 
+- [2022-04-06-Android应用安全解决方案](https://toutiao.io/k/bb8s902) 

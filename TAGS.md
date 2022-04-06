@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-04-06 00:57:19。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-04-06 02:29:28。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -280,6 +280,7 @@
 - [【V2EX】因自己需要，开发了一款浏览器插件，把-Tab-标签页按-workspace-组织起来，请大家多提意见](https://www.v2ex.com/t/845120)
 - [【V2EX】如何方便安全地保存网页为-pdf？](https://www.v2ex.com/t/845118)
 - [【V2EX】有什么办法可以用-cookie-在浏览器登陆账号](https://www.v2ex.com/t/845114)
+- [【开发者头条】Android应用安全解决方案](https://toutiao.io/k/bb8s902)
 - [......【查看更多】......](./details/tags/browser.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -297,7 +298,6 @@
 
 
 - [【V2EX】滴滴出行-北京、杭州、上海、深圳内推-Android-系统/Android-App/算法/硬件/前端/-Java-/iOS/Go/-Python-/产品/运营等各类职位招聘，月-20k-80k，优秀另有期权](https://www.v2ex.com/t/845123)
-- [【V2EX】为什么-ASP.NET-Core-对开发环境默认开启-HTTPS？](https://www.v2ex.com/t/845101)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -314,6 +314,7 @@
 
 
 
+- [【V2EX】想业余时间写一个-Java-项目，用上-spring-cloud、es、rabbitmq、docker、k8s-等技术，写什么项目比较好？](https://www.v2ex.com/t/845141)
 - [......【查看更多】......](./details/tags/server.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -330,7 +331,6 @@
 
 
 
-- [【V2EX】git-问题咨询](https://www.v2ex.com/t/845078)
 - [【技术头条】Git这样回退代码，才足够优雅-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14999&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493737%26amp%3Bidx%3D2%26amp%3Bsn%3D7c34527cb2db4d99314ced0278bd6f25%26amp%3Bchksm%3Dfa3f0932cd488024bc8143699bc413de354ff8c52e8a96b463048843ea33a922064acc49fc0a%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【技术头条】摸清Git的门路，这22张图足够了！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14996&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493724%26amp%3Bidx%3D1%26amp%3Bsn%3D928c38cdf03d711eaded4b5298346bdc%26amp%3Bchksm%3Dfa3f0907cd488011853f7bb16826a86e24c1bb4ad616e27fc535f3bb5fbe8709949518e2947c%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [......【查看更多】......](./details/tags/git-svn.md)
@@ -351,8 +351,8 @@
 
 - [【V2EX】招聘赴日工程师](https://www.v2ex.com/t/845126)
 - [【V2EX】深圳奇志科技-2022-多个岗位招聘|建筑数字化赛道|前后端都有|30-40K](https://www.v2ex.com/t/845107)
-- [【开发者头条】推荐-Kafka-面试连环炮,-看看你能撑到哪一步?](https://toutiao.io/k/z30ehzv)
 - [【开发者头条】推荐-如果你是一个Golang面试官，你会问哪些问题？](https://toutiao.io/k/yvw61mc)
+- [【开发者头条】推荐-Kafka-面试连环炮,-看看你能撑到哪一步?](https://toutiao.io/k/z30ehzv)
 - [......【查看更多】......](./details/tags/job-interview.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

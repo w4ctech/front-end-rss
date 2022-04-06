@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2022-04-06 03:51:38。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-04-06 04:16:39。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-04-06-azure-国际版-国内使用效果怎么样？](https://www.v2ex.com/t/845188) 
 - [2022-04-06-我从来没有冲动过！](https://www.v2ex.com/t/845187) 
 - [2022-04-06-帮-V-友代发,求租（整租或者合租）：-5-号线科园-3-号线红牌楼-附近求租](https://www.v2ex.com/t/845185) 
 - [2022-04-06-有没有成熟的对赌平台？没有的话咱自建一个？](https://www.v2ex.com/t/845184) 
@@ -41,5 +42,3 @@
 - [2022-04-06-全职-校招-newsbreak-北京或者上海](https://www.v2ex.com/t/845143) 
 - [2022-04-06-AirPods-成-Air-了](https://www.v2ex.com/t/845142) 
 - [2022-04-06-想业余时间写一个-Java-项目，用上-spring-cloud、es、rabbitmq、docker、k8s-等技术，写什么项目比较好？](https://www.v2ex.com/t/845141) 
-- [2022-04-06-看了菜鸟教程和-Stack-Overflow-后端技术结构图，想要了解一下-V2EX-的基础结构，及-CDN-的相关使用方案。有大佬了解的吗？](https://www.v2ex.com/t/845139) 
-- [2022-04-06-大家平时有记账的习惯吗](https://www.v2ex.com/t/845138) 

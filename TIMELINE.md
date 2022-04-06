@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-04-06 03:51:38。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-04-06 04:16:39。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,7 @@
 </summary>
 
 
+- [【V2EX】2022-04-06-azure-国际版-国内使用效果怎么样？](https://www.v2ex.com/t/845188) 
 - [【V2EX】2022-04-06-我从来没有冲动过！](https://www.v2ex.com/t/845187) 
 - [【V2EX】2022-04-06-帮-V-友代发,求租（整租或者合租）：-5-号线科园-3-号线红牌楼-附近求租](https://www.v2ex.com/t/845185) 
 - [【V2EX】2022-04-06-有没有成熟的对赌平台？没有的话咱自建一个？](https://www.v2ex.com/t/845184) 
@@ -104,8 +105,6 @@
 - [【V2EX】2022-04-06-全职-校招-newsbreak-北京或者上海](https://www.v2ex.com/t/845143) 
 - [【V2EX】2022-04-06-AirPods-成-Air-了](https://www.v2ex.com/t/845142) 
 - [【V2EX】2022-04-06-想业余时间写一个-Java-项目，用上-spring-cloud、es、rabbitmq、docker、k8s-等技术，写什么项目比较好？](https://www.v2ex.com/t/845141) 
-- [【V2EX】2022-04-06-看了菜鸟教程和-Stack-Overflow-后端技术结构图，想要了解一下-V2EX-的基础结构，及-CDN-的相关使用方案。有大佬了解的吗？](https://www.v2ex.com/t/845139) 
-- [【V2EX】2022-04-06-大家平时有记账的习惯吗](https://www.v2ex.com/t/845138) 
 - [【技术头条】2022-04-06-一名Vue程序员总结的React基础-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15010&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493786%26amp%3Bidx%3D2%26amp%3Bsn%3Dcb1b397c4dcef56609f8264b0ed005be%26amp%3Bchksm%3Dfa3f09c1cd4880d7da50685a77a5b5df2be61af93e6f16517cd26d86ebdade7cc4703d8abf43%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-04-06-H5小程序直播教程，一看就会！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15009&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493770%26amp%3Bidx%3D1%26amp%3Bsn%3D99961a9d794b403ca1d23e2818773bd4%26amp%3Bchksm%3Dfa3f09d1cd4880c7959f39950198bb945ea34593761e3ea104e4318e4e0c57d509c1b813358b%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-04-06-来，咱聊聊接口幂等性设计-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15008&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493770%26amp%3Bidx%3D2%26amp%3Bsn%3Dfec23a16208ef27f1d65e7f9ea3dab12%26amp%3Bchksm%3Dfa3f09d1cd4880c76034a14910af79d65a270e3db86bfd160cf2edb143344a1d628d1f500168%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -139,14 +138,14 @@
 - [【开发者头条】2022-04-06-聊聊API网关](https://toutiao.io/k/3fpi68y) 
 - [【开发者头条】2022-04-06-Go语言异常处理保姆级教程，继续肝！](https://toutiao.io/k/d25ubt6) 
 - [【开发者头条】2022-04-06-Android应用安全解决方案](https://toutiao.io/k/bb8s902) 
-- [【开发者头条】2022-04-06-推荐-一年实现降本60%，货拉拉全链路监控演进史](https://toutiao.io/k/nrsy3uf) 
-- [【开发者头条】2022-04-06-推荐-万字长文助你上手软件领域驱动设计-DDD](https://toutiao.io/k/72nuj7z) 
-- [【开发者头条】2022-04-06-推荐-如果你是一个Golang面试官，你会问哪些问题？](https://toutiao.io/k/yvw61mc) 
-- [【开发者头条】2022-04-06-推荐-错误码设计思考](https://toutiao.io/k/qas5y3j) 
-- [【开发者头条】2022-04-06-推荐-盘点-3-月份-yyds-的开源项目](https://toutiao.io/k/79431xa) 
-- [【开发者头条】2022-04-06-推荐-Kafka-面试连环炮,-看看你能撑到哪一步?](https://toutiao.io/k/z30ehzv) 
 - [【开发者头条】2022-04-06-推荐-时间轮原理及其在框架中的应用](https://toutiao.io/k/1dwwpfd) 
+- [【开发者头条】2022-04-06-推荐-如果你是一个Golang面试官，你会问哪些问题？](https://toutiao.io/k/yvw61mc) 
+- [【开发者头条】2022-04-06-推荐-万字长文助你上手软件领域驱动设计-DDD](https://toutiao.io/k/72nuj7z) 
+- [【开发者头条】2022-04-06-推荐-错误码设计思考](https://toutiao.io/k/qas5y3j) 
+- [【开发者头条】2022-04-06-推荐-Kafka-面试连环炮,-看看你能撑到哪一步?](https://toutiao.io/k/z30ehzv) 
 - [【开发者头条】2022-04-06-推荐-20多个好用的-Vue-组件库，请查收！](https://toutiao.io/k/sskayyw) 
+- [【开发者头条】2022-04-06-推荐-盘点-3-月份-yyds-的开源项目](https://toutiao.io/k/79431xa) 
+- [【开发者头条】2022-04-06-推荐-一年实现降本60%，货拉拉全链路监控演进史](https://toutiao.io/k/nrsy3uf) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

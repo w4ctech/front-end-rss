@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-04-06 23:14:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-04-06 23:39:54。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -16,5 +16,3 @@
 - [2022-04-06-macOS-终于支持-A7R3a-的-RAW-preview-了](https://www.v2ex.com/t/845379) 
 - [2022-04-06-有什么所谓最“低调/安全/长期”的做法吗？-需要远程操控家里的微软系统电脑，目前在海外.](https://www.v2ex.com/t/845371) 
 - [2022-04-06-Java-如何通过反代发-Http-请求给-Steam?](https://www.v2ex.com/t/845369) 
-- [2022-04-06-Android应用安全解决方案](https://toutiao.io/k/bb8s902) 
-- [2022-04-06-基于Spring接口，集成Caffeine+Redis两级缓存](https://toutiao.io/k/m7utltv) 

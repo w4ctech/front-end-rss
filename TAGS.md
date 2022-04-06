@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-04-06 10:16:42。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-04-06 10:42:41。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -301,8 +301,6 @@
 
 
 - [【V2EX】Controller-和-Service-中注入-HttpServletResponse-有什么差异吗](https://www.v2ex.com/t/845285)
-- [【V2EX】问下有没有了解的老哥，银行面试注重算法吗，急急急！](https://www.v2ex.com/t/845264)
-- [【V2EX】远程办公，招聘全栈工程师、运维、go-开发工程师](https://www.v2ex.com/t/845261)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -356,8 +354,8 @@
 
 
 - [【V2EX】杭州招聘-Web-前端](https://www.v2ex.com/t/845307)
-- [【开发者头条】推荐-Kafka-面试连环炮,-看看你能撑到哪一步?](https://toutiao.io/k/z30ehzv)
 - [【开发者头条】推荐-如果你是一个Golang面试官，你会问哪些问题？](https://toutiao.io/k/yvw61mc)
+- [【开发者头条】推荐-Kafka-面试连环炮,-看看你能撑到哪一步?](https://toutiao.io/k/z30ehzv)
 - [......【查看更多】......](./details/tags/job-interview.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

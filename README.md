@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-04-06 05:37:20，:rocket: 更新条数: +2025， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-04-06 06:16:21，:rocket: 更新条数: +2035， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,15 @@
 </summary>
 
 
+- [2022-04-06-外企/上海/基础架构/开源商业-明星开源公司-Kong-中国分公司继续招聘啦](https://www.v2ex.com/t/845218) ![](assets/new.png)  
+- [2022-04-06-mac-studio-主机套](https://www.v2ex.com/t/845217) ![](assets/new.png)  
+- [2022-04-06-软件上传文件时都发生了什么？](https://www.v2ex.com/t/845215) ![](assets/new.png)  
+- [2022-04-06-Google-voice-被回收-求个有美国电话的老哥帮忙找回](https://www.v2ex.com/t/845214) ![](assets/new.png)  
+- [2022-04-06-选配的-mac-studio-发货了？](https://www.v2ex.com/t/845213) ![](assets/new.png)  
+- [2022-04-06-独立产品灵感周刊-DecoHack-#008](https://www.v2ex.com/t/845212) ![](assets/new.png)  
+- [2022-04-06-国内的公共交通及地图，有可能做进像这样的开源-App（多国多城大集合）里吗？](https://www.v2ex.com/t/845211) ![](assets/new.png)  
+- [2022-04-06-pandownload-软件下载导致家里断网](https://www.v2ex.com/t/845210) ![](assets/new.png)  
+- [2022-04-06-为什么-Ultrafine-4k/5k-是广色域的显示器，在-windows-下依然不会出现过饱和的情况？](https://www.v2ex.com/t/845209) ![](assets/new.png)  
 - [2022-04-06-信用贷咨询，竟然被公司条件卡住了](https://www.v2ex.com/t/845208) ![](assets/new.png)  
 - [2022-04-06-成都电信科学技术第五研究所有了解的吗（电信五所），值得去不？](https://www.v2ex.com/t/845207) ![](assets/new.png)  
 - [2022-04-06-开源-一个没有什么技术难度的代码收藏软件](https://www.v2ex.com/t/845206) ![](assets/new.png)  
@@ -502,15 +511,6 @@
 - [2022-04-06-远程内推20k-40k-招聘中高级前端开发](https://www.v2ex.com/t/845198) ![](assets/new.png)  
 - [2022-04-06-让你的-Firefox-自动隐藏所有-UI！](https://www.v2ex.com/t/845197) ![](assets/new.png)  
 - [2022-04-06-轻办公，-iPad-还是安卓平板。](https://www.v2ex.com/t/845195) ![](assets/new.png)  
-- [2022-04-06-2022-年-4-月-M2-512GB/1T-固态硬盘求推荐](https://www.v2ex.com/t/845193) ![](assets/new.png)  
-- [2022-04-06-WIN10-的-CMD-或-Powershell-怎么快速调用-Shell-脚本？](https://www.v2ex.com/t/845192) ![](assets/new.png)  
-- [2022-04-06-什么情况？-chrome-浏览器访问不了-google？](https://www.v2ex.com/t/845191) ![](assets/new.png)  
-- [2022-04-06-如何判断自己的宽带光猫的-NAT-是否是瓶颈？](https://www.v2ex.com/t/845190) ![](assets/new.png)  
-- [2022-04-06-azure-国际版-国内使用效果怎么样？](https://www.v2ex.com/t/845188) ![](assets/new.png)  
-- [2022-04-06-我从来没有冲动过！](https://www.v2ex.com/t/845187) ![](assets/new.png)  
-- [2022-04-06-帮-V-友代发,求租（整租或者合租）：-5-号线科园-3-号线红牌楼-附近求租](https://www.v2ex.com/t/845185) ![](assets/new.png)  
-- [2022-04-06-有没有成熟的对赌平台？没有的话咱自建一个？](https://www.v2ex.com/t/845184) ![](assets/new.png)  
-- [2022-04-06-做外贸，取一个英文名。想叫-Steve-Jordan-可以吗？](https://www.v2ex.com/t/845183) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -558,21 +558,21 @@
 - [2022-04-06-谷歌工程最佳实践](https://toutiao.io/k/q19mmjh) ![](assets/new.png)  
 - [2022-04-06-Lyft微服务研发效能提升实践-|-3.-利用覆盖机制在预发环境中扩展服务网格](https://toutiao.io/k/cuqzep3) ![](assets/new.png)  
 - [2022-04-06-云原生网络利器--Cilium-之-eBPF-篇](https://toutiao.io/k/12919uh) ![](assets/new.png)  
-- [2022-04-06-高小青：Impala在神策实时分析引擎中的落地与优化](https://toutiao.io/k/vg6n11x) ![](assets/new.png)  
 - [2022-04-06-聊聊API网关](https://toutiao.io/k/3fpi68y) ![](assets/new.png)  
+- [2022-04-06-高小青：Impala在神策实时分析引擎中的落地与优化](https://toutiao.io/k/vg6n11x) ![](assets/new.png)  
 - [2022-04-06-喜欢爬虫的小伙伴们有福啦，手把手带大家分析一波百度音乐接口呗~](https://toutiao.io/k/addmj2g) ![](assets/new.png)  
 - [2022-04-06-使用数据集蒸馏更有效地训练机器学习模型](https://toutiao.io/k/l0ggpi4) ![](assets/new.png)  
 - [2022-04-06-看完这个图表，我直接绿了](https://toutiao.io/k/5yrz5mm) ![](assets/new.png)  
 - [2022-04-06-libuv-避坑指南](https://toutiao.io/k/2sf7ym5) ![](assets/new.png)  
 - [2022-04-06-Go语言异常处理保姆级教程，继续肝！](https://toutiao.io/k/d25ubt6) ![](assets/new.png)  
 - [2022-04-06-Android应用安全解决方案](https://toutiao.io/k/bb8s902) ![](assets/new.png)  
-- [2022-04-06-推荐-20多个好用的-Vue-组件库，请查收！](https://toutiao.io/k/sskayyw) ![](assets/new.png)  
-- [2022-04-06-推荐-错误码设计思考](https://toutiao.io/k/qas5y3j) ![](assets/new.png)  
-- [2022-04-06-推荐-一年实现降本60%，货拉拉全链路监控演进史](https://toutiao.io/k/nrsy3uf) ![](assets/new.png)  
-- [2022-04-06-推荐-Kafka-面试连环炮,-看看你能撑到哪一步?](https://toutiao.io/k/z30ehzv) ![](assets/new.png)  
-- [2022-04-06-推荐-万字长文助你上手软件领域驱动设计-DDD](https://toutiao.io/k/72nuj7z) ![](assets/new.png)  
-- [2022-04-06-推荐-盘点-3-月份-yyds-的开源项目](https://toutiao.io/k/79431xa) ![](assets/new.png)  
-- [2022-04-06-推荐-时间轮原理及其在框架中的应用](https://toutiao.io/k/1dwwpfd) ![](assets/new.png)  
+- [2022-04-06-kratos分布式事务最佳实践](https://toutiao.io/k/8z1w9b2) ![](assets/new.png)  
+- [2022-04-06-设计模式系列——访问者模式](https://toutiao.io/k/bpgfv7b) ![](assets/new.png)  
+- [2022-04-06-基于Spring接口，集成Caffeine+Redis两级缓存](https://toutiao.io/k/m7utltv) ![](assets/new.png)  
+- [2022-04-06-Go-之父：聊聊我眼中的-Go-语言和环境](https://toutiao.io/k/bslk3rf) ![](assets/new.png)  
+- [2022-04-06-Go语言切片原生支持并发吗？](https://toutiao.io/k/5xmhfh3) ![](assets/new.png)  
+- [2022-04-06-一起来作画吧「GitHub-热点速览」](https://toutiao.io/k/d2olhh5) ![](assets/new.png)  
+- [2022-04-06-多维度分片需求，如何解决查询问题？](https://toutiao.io/k/nkkr586) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

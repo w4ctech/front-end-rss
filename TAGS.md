@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-04-06 06:16:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-04-06 06:46:08。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -155,7 +155,6 @@
 
 
 
-- [【V2EX】我用-godot-开发一个模拟游戏-Demo](https://www.v2ex.com/t/845169)
 - [......【查看更多】......](./details/tags/dev-game.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -238,7 +237,7 @@
 
 - [【武汉肺炎防疫全纪录(财新网)】广州17岁男生在定点医院参加高考-特殊考场视频监考](https://m.caixin.com/m/2021-06-05/101723418.html)
 - [【武汉肺炎防疫全纪录(财新网)】林郑月娥率13高官直播接种科兴疫苗-复星疫苗预计周中到港](https://m.caixin.com/m/2021-02-22/101665724.html)
-- [【V2EX】关于-AI-自动剪辑视频的一些想法](https://www.v2ex.com/t/845176)
+- [【V2EX】X-音视频浏览量能刷吗](https://www.v2ex.com/t/845225)
 - [......【查看更多】......](./details/tags/audio-video.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -281,7 +280,6 @@
 - [【武汉肺炎防疫全纪录(财新网)】大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html)
 - [【V2EX】让你的-Firefox-自动隐藏所有-UI！](https://www.v2ex.com/t/845197)
 - [【V2EX】什么情况？-chrome-浏览器访问不了-google？](https://www.v2ex.com/t/845191)
-- [【V2EX】-retire.run---退休，跑！-在浏览器标签页记录今日所赚之钱的（摸鱼）记录工具](https://www.v2ex.com/t/845181)
 - [【开发者头条】Android应用安全解决方案](https://toutiao.io/k/bb8s902)
 - [【开发者头条】基于Spring接口，集成Caffeine+Redis两级缓存](https://toutiao.io/k/m7utltv)
 - [......【查看更多】......](./details/tags/browser.md)
@@ -300,6 +298,7 @@
 
 
 
+- [【V2EX】NGINX-求助-禁止访问-https://ip-后，前端机器-proxy-502](https://www.v2ex.com/t/845226)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -353,7 +352,6 @@
 
 - [【V2EX】外企/上海/基础架构/开源商业-明星开源公司-Kong-中国分公司继续招聘啦](https://www.v2ex.com/t/845218)
 - [【V2EX】远程内推20k-40k-招聘中高级前端开发](https://www.v2ex.com/t/845198)
-- [【V2EX】面试问题求教：如何处理海量物联网设备数据（并发上报），如何处理与海量物联网设备通信？](https://www.v2ex.com/t/845174)
 - [【开发者头条】推荐-如果你是一个Golang面试官，你会问哪些问题？](https://toutiao.io/k/yvw61mc)
 - [【开发者头条】推荐-Kafka-面试连环炮,-看看你能撑到哪一步?](https://toutiao.io/k/z30ehzv)
 - [......【查看更多】......](./details/tags/job-interview.md)

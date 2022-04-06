@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-04-06 16:17:48。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-04-06 16:56:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -13,6 +13,8 @@
 - [2021-04-14-腺病毒新冠疫苗引安全忧虑-康希诺称未发现血栓病例](https://m.caixin.com/m/2021-04-14/101691086.html) 
 - [2021-01-08-解药|新冠mRNA疫苗安全性有哪些挑战？](https://m.caixin.com/m/2021-01-08/101648043.html) 
 - [2021-01-01-大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html) 
+- [2022-04-06-有什么所谓最“低调/安全/长期”的做法吗？-需要远程操控家里的微软系统电脑，目前在海外.](https://www.v2ex.com/t/845371) 
+- [2022-04-06-Java-如何通过反代发-Http-请求给-Steam?](https://www.v2ex.com/t/845369) 
 - [2022-04-06-为什么-ES-要废弃-rest-high-level-client-转推-elasticsearch--Java--client？](https://www.v2ex.com/t/845324) 
 - [2022-04-06-edge-服务器怎么就在广东被-ban-了？](https://www.v2ex.com/t/845323) 
 - [2022-04-06-Android应用安全解决方案](https://toutiao.io/k/bb8s902) 

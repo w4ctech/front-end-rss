@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-04-06 16:17:48。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-04-06 16:56:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1913,6 +1913,7 @@
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2022-03-21-ascent-override-descent-override-line-gap-override一锅端](https://www.zhangxinxu.com/wordpress/2022/03/css-ascent-override-descent/) 
 - [2022-02-04-HTML-inputmode与iOS-Android软键盘类型测试](https://www.zhangxinxu.com/wordpress/2022/02/html-inputmode-keyboard/) 
+- [2022-04-06-ACM-会员将不再提供-O'Reilly-在线图书馆服务](https://www.v2ex.com/t/845370) 
 - [2022-04-06-黑群晖能用独显么？](https://www.v2ex.com/t/845368) 
 - [2022-04-06-OneKey-把工作手册公布了，包含财务、薪酬、远程与协作等](https://www.v2ex.com/t/845367) 
 - [2022-04-06-Offer-比较：得物-and-米哈游](https://www.v2ex.com/t/845365) 
@@ -1934,8 +1935,6 @@
 - [2022-04-06-jest-单元测试问题有偿求助](https://www.v2ex.com/t/845327) 
 - [2022-04-06-微服务架构下大家都在实践-BFF，你的-BFF-都有哪些问题？](https://www.v2ex.com/t/845326) 
 - [2022-04-06-耳机一侧偶尔出现啪啪声](https://www.v2ex.com/t/845325) 
-- [2022-04-06-🐶-新建了一个自学-CS-的-Discord-群组](https://www.v2ex.com/t/845321) 
-- [2022-04-06-请问有什么高效的方法，在保持顺序的前提下，做差集计算？](https://www.v2ex.com/t/845319) 
 - [2022-04-06-来，咱聊聊接口幂等性设计-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15008&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493770%26amp%3Bidx%3D2%26amp%3Bsn%3Dfec23a16208ef27f1d65e7f9ea3dab12%26amp%3Bchksm%3Dfa3f09d1cd4880c76034a14910af79d65a270e3db86bfd160cf2edb143344a1d628d1f500168%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-04-06-最受程序员欢迎的20本书！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15007&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493749%26amp%3Bidx%3D1%26amp%3Bsn%3D9cf2fa6cbe49a48dcaee073da7d04004%26amp%3Bchksm%3Dfa3f092ecd488038e0ccc5d21961b8968b46257ce41b47a750dd99558544ce102721b6cea078%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-04-06-IDEA中的热部署神器！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15006&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493749%26amp%3Bidx%3D2%26amp%3Bsn%3D784e73396088f749613a0539e530d701%26amp%3Bchksm%3Dfa3f092ecd4880382609a6531ff398e535939afc1e633e6703958e173067f909a31cd42cd002%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1966,7 +1965,7 @@
 - [2022-04-06-Go语言切片原生支持并发吗？](https://toutiao.io/k/5xmhfh3) 
 - [2022-04-06-多维度分片需求，如何解决查询问题？](https://toutiao.io/k/nkkr586) 
 - [2022-04-06-Go-之父：聊聊我眼中的-Go-语言和环境](https://toutiao.io/k/bslk3rf) 
+- [2022-04-06-推荐-错误码设计思考](https://toutiao.io/k/qas5y3j) 
+- [2022-04-06-推荐-万字长文助你上手软件领域驱动设计-DDD](https://toutiao.io/k/72nuj7z) 
 - [2022-04-06-推荐-时间轮原理及其在框架中的应用](https://toutiao.io/k/1dwwpfd) 
 - [2022-04-06-推荐-盘点-3-月份-yyds-的开源项目](https://toutiao.io/k/79431xa) 
-- [2022-04-06-推荐-万字长文助你上手软件领域驱动设计-DDD](https://toutiao.io/k/72nuj7z) 
-- [2022-04-06-推荐-错误码设计思考](https://toutiao.io/k/qas5y3j) 

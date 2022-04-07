@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-04-07 07:38:12。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-04-07 08:17:14。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -239,6 +239,7 @@
 
 - [【武汉肺炎防疫全纪录(财新网)】广州17岁男生在定点医院参加高考-特殊考场视频监考](https://m.caixin.com/m/2021-06-05/101723418.html)
 - [【武汉肺炎防疫全纪录(财新网)】林郑月娥率13高官直播接种科兴疫苗-复星疫苗预计周中到港](https://m.caixin.com/m/2021-02-22/101665724.html)
+- [【V2EX】有弄个手机摄像头-AR-有关得文章吗？想知道怎么实现人做动作在屏幕触发这种](https://www.v2ex.com/t/845499)
 - [【V2EX】阿里云盘非会员不支持分享视频在线播放了吗？](https://www.v2ex.com/t/845494)
 - [......【查看更多】......](./details/tags/audio-video.md)
 
@@ -282,10 +283,10 @@
 - [【武汉肺炎防疫全纪录(财新网)】腺病毒新冠疫苗引安全忧虑-康希诺称未发现血栓病例](https://m.caixin.com/m/2021-04-14/101691086.html)
 - [【武汉肺炎防疫全纪录(财新网)】解药|新冠mRNA疫苗安全性有哪些挑战？](https://m.caixin.com/m/2021-01-08/101648043.html)
 - [【武汉肺炎防疫全纪录(财新网)】大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html)
+- [【V2EX】chrome-F12-里的-400-报错怎么能拦截到](https://www.v2ex.com/t/845503)
 - [【V2EX】19-年首发买的-Apple-Watch-Series5，现在电池基本不行了](https://www.v2ex.com/t/845485)
 - [【V2EX】求推薦-android-電池電量小部件-widget](https://www.v2ex.com/t/845477)
 - [【V2EX】我来推广我的免费图床了（imgurl.org），-T-楼送-3-个-ImgURL-Pro-免费授权](https://www.v2ex.com/t/845469)
-- [【V2EX】如何优雅地禁止-macOS-版-Chrome-自动更新](https://www.v2ex.com/t/845456)
 - [【开发者头条】腾讯一面：CORS为什么能保障安全？为什么只对复杂请求做预检？](https://toutiao.io/k/quomj0f)
 - [......【查看更多】......](./details/tags/browser.md)
 
@@ -303,7 +304,6 @@
 
 
 
-- [【V2EX】怎么样系统性地学习数据结构与算法（和-ACM-有关的）？](https://www.v2ex.com/t/845452)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -357,6 +357,7 @@
 
 
 
+- [【V2EX】招聘-base-新加坡-Shopee-工程师招聘-后端开发-前端开发-数据开发-QA-etc](https://www.v2ex.com/t/845498)
 - [【开发者头条】尤娜，我去面试了](https://toutiao.io/k/hvukye7)
 - [【开发者头条】【JVM】10道不得不会的JVM面试题](https://toutiao.io/k/t1vquz4)
 - [【开发者头条】推荐-Kafka-面试连环炮,-看看你能撑到哪一步?](https://toutiao.io/k/z30ehzv)

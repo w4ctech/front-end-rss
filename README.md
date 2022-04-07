@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-04-07 15:12:51，:rocket: 更新条数: +2029， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-04-07 15:42:56，:rocket: 更新条数: +2029， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,11 @@
 </summary>
 
 
+- [2022-04-07-如何在新的-Mac-系统下制作有声读物或者-Podcast?](https://www.v2ex.com/t/845591) ![](assets/new.png)  
+- [2022-04-07-Macbook-Pro-13'-early-2015-播放不了相册里的-4K-60FPS-视频](https://www.v2ex.com/t/845590) ![](assets/new.png)  
+- [2022-04-07-Apple-Care+-换屏幕，算一次意外保修吗？](https://www.v2ex.com/t/845589) ![](assets/new.png)  
+- [2022-04-07-v2ex-是怎么在使用-cloudflare-的同时可以不发送-sni-访问的](https://www.v2ex.com/t/845588) ![](assets/new.png)  
+- [2022-04-07-求大厂内推-算法工程师](https://www.v2ex.com/t/845586) ![](assets/new.png)  
 - [2022-04-07-如果谈了几年的对象突然觉得不合适，你们会怎么做？](https://www.v2ex.com/t/845585) ![](assets/new.png)  
 - [2022-04-07-Win-端的神器，你们都用哪些？我自用-AHK、PowerToys、ShareX-等](https://www.v2ex.com/t/845584) ![](assets/new.png)  
 - [2022-04-07-请教一个关于-APP-爬虫的思路](https://www.v2ex.com/t/845583) ![](assets/new.png)  
@@ -506,11 +511,6 @@
 - [2022-04-07-请问一下关于-macbook-安装-outline-的问题](https://www.v2ex.com/t/845572) ![](assets/new.png)  
 - [2022-04-07-如何优雅把视频或者图片从-iPhone-传送到-windows](https://www.v2ex.com/t/845570) ![](assets/new.png)  
 - [2022-04-07-有-m1-下搞过-podman-的吗](https://www.v2ex.com/t/845569) ![](assets/new.png)  
-- [2022-04-07-国家技术转移中心怎么样](https://www.v2ex.com/t/845568) ![](assets/new.png)  
-- [2022-04-07-下面几句话哪一个没有歧义，为什么？](https://www.v2ex.com/t/845566) ![](assets/new.png)  
-- [2022-04-07-v-友们，-iOS-下，有什么免费/低价的中文字典/词典-app-么？（官方新华字典什么太贵了。。。](https://www.v2ex.com/t/845565) ![](assets/new.png)  
-- [2022-04-07-TapTap-TDS/LeanCloud-多个职位招聘中：后端、SRE、Support-工程师、QA-工程师、游戏引擎工程师](https://www.v2ex.com/t/845562) ![](assets/new.png)  
-- [2022-04-07-大佬们，求解个问题，刚拿到手的-airpods-pro-连接-mac，声音大得吓人](https://www.v2ex.com/t/845561) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -558,8 +558,8 @@
 - [2022-04-07-尤娜，我去面试了](https://toutiao.io/k/hvukye7) ![](assets/new.png)  
 - [2022-04-07-测试用例的评审准则与常见问题](https://toutiao.io/k/4dpi6ts) ![](assets/new.png)  
 - [2022-04-07-选对圈子，一切都对了！](https://toutiao.io/k/nt2fuep) ![](assets/new.png)  
-- [2022-04-07-使用-Flink-做-OLAP-分析及实时数仓的实践和优化](https://toutiao.io/k/cgk9f4c) ![](assets/new.png)  
 - [2022-04-07-Git-全功能介绍](https://toutiao.io/k/k2gx16j) ![](assets/new.png)  
+- [2022-04-07-使用-Flink-做-OLAP-分析及实时数仓的实践和优化](https://toutiao.io/k/cgk9f4c) ![](assets/new.png)  
 - [2022-04-07-云原生爱好者周刊：Grafana-开源-Prometheus-长期存储项目-Mimir](https://toutiao.io/k/32blogp) ![](assets/new.png)  
 - [2022-04-07-22.5%的黑客使用-Go-语言](https://toutiao.io/k/0wma0wt) ![](assets/new.png)  
 - [2022-04-07-使用机器学习以高分辨率“临近预报”降水](https://toutiao.io/k/j4ow15k) ![](assets/new.png)  
@@ -571,8 +571,8 @@
 - [2022-04-07-社区文章｜MOSN-社区性能分析利器——Holmes-原理浅析](https://toutiao.io/k/fv06ein) ![](assets/new.png)  
 - [2022-04-07-子线程更新UI全解](https://toutiao.io/k/q52w1vk) ![](assets/new.png)  
 - [2022-04-07-探索-Rust-异步简化编程](https://toutiao.io/k/icaos1z) ![](assets/new.png)  
-- [2022-04-07-推荐-写出结构优雅代码的4个技巧](https://toutiao.io/k/6cddvzi) ![](assets/new.png)  
-- [2022-04-07-推荐-Kafka-面试连环炮,-看看你能撑到哪一步?](https://toutiao.io/k/z30ehzv) ![](assets/new.png)  
+- [2022-04-07-推荐-错误码设计思考](https://toutiao.io/k/qas5y3j) ![](assets/new.png)  
+- [2022-04-07-推荐-时间轮原理及其在框架中的应用](https://toutiao.io/k/1dwwpfd) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

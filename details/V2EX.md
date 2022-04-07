@@ -1,10 +1,13 @@
-:alarm_clock: 更新时间: 2022-04-07 15:42:56。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-04-07 16:18:50。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-04-07-笔记本-CPU-锁频到-0.78GHz-是什么原因？](https://www.v2ex.com/t/845594) 
+- [2022-04-07-招行-app-的绑卡到其他支付软件是如何实现的？](https://www.v2ex.com/t/845593) 
+- [2022-04-07-Macbook-软件通知关掉，但是声音关不掉，请问如何解决这个问题呢？声音很吵😓](https://www.v2ex.com/t/845592) 
 - [2022-04-07-如何在新的-Mac-系统下制作有声读物或者-Podcast?](https://www.v2ex.com/t/845591) 
 - [2022-04-07-Macbook-Pro-13'-early-2015-播放不了相册里的-4K-60FPS-视频](https://www.v2ex.com/t/845590) 
 - [2022-04-07-Apple-Care+-换屏幕，算一次意外保修吗？](https://www.v2ex.com/t/845589) 
@@ -40,6 +43,3 @@
 - [2022-04-07-长三角京东物流全部凉了吗？](https://www.v2ex.com/t/845547) 
 - [2022-04-07-如何单独更改-mac-的用户头像](https://www.v2ex.com/t/845546) 
 - [2022-04-07-预装正版-Win11-的笔记本降级-Win10-是否需要再次激活？](https://www.v2ex.com/t/845545) 
-- [2022-04-07-北京-小而美外企-senior-iOS/android-engineer](https://www.v2ex.com/t/845544) 
-- [2022-04-07-WordPress-有好用的-RSS-聚合插件么？](https://www.v2ex.com/t/845543) 
-- [2022-04-07-SQLite-In-Memory-作为数据缓存代替-Java-Object](https://www.v2ex.com/t/845542) 

@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2022-04-07 22:13:44。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-04-07 22:40:02。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-04-07-新手程序员如何不断提高自我？](https://www.v2ex.com/t/845604) 
 - [2022-04-07-Apple-Store-在统计顾客的服装颜色](https://www.v2ex.com/t/845603) 
 - [2022-04-07-虚拟币交易所-C2C-的币商们如何自动根据市价调整挂单出价和买价？](https://www.v2ex.com/t/845602) 
 - [2022-04-07-请教大佬，一个批量生成视频并上传方案的困扰](https://www.v2ex.com/t/845601) 
@@ -32,7 +33,6 @@
 - [2022-04-07-深圳字节-招-iOS-开发，-HC-多多，团队技术氛围好，基础技术非业务项目，强度正常不内卷](https://www.v2ex.com/t/845577) 
 - [2022-04-07-微信小程序码（菊花码）有什么识别方案？](https://www.v2ex.com/t/845576) 
 - [2022-04-07-在-OS-X-系统下，有和系统兼容度和-magic-keyboard-媲美的蓝牙机械键盘吗？](https://www.v2ex.com/t/845575) 
-- [2022-04-07-B-站的-Parallels-Desktop17-激活是盗版吗](https://www.v2ex.com/t/845574) 
 - [2022-04-07-vue-无法监听实例内部修改的变化](https://www.v2ex.com/t/845573) 
 - [2022-04-07-请问一下关于-macbook-安装-outline-的问题](https://www.v2ex.com/t/845572) 
 - [2022-04-07-如何优雅把视频或者图片从-iPhone-传送到-windows](https://www.v2ex.com/t/845570) 

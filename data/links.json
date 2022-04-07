@@ -9953,6 +9953,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "新手程序员如何不断提高自我？",
+        "link": "https://www.v2ex.com/t/845604",
+        "date": "2022-04-07"
+      },
+      {
         "title": "Apple Store 在统计顾客的服装颜色",
         "link": "https://www.v2ex.com/t/845603",
         "date": "2022-04-07"
@@ -10085,11 +10090,6 @@
       {
         "title": "在 OS X 系统下，有和系统兼容度和 magic keyboard 媲美的蓝牙机械键盘吗？",
         "link": "https://www.v2ex.com/t/845575",
-        "date": "2022-04-07"
-      },
-      {
-        "title": "B 站的 Parallels Desktop17 激活是盗版吗",
-        "link": "https://www.v2ex.com/t/845574",
         "date": "2022-04-07"
       },
       {
@@ -10362,23 +10362,18 @@
         "date": "2022-04-07"
       },
       {
-        "title": "[推荐] 时间轮原理及其在框架中的应用",
-        "link": "https://toutiao.io/k/1dwwpfd",
-        "date": "2022-04-07"
-      },
-      {
         "title": "[推荐] 20多个好用的 Vue 组件库，请查收！",
         "link": "https://toutiao.io/k/sskayyw",
         "date": "2022-04-07"
       },
       {
-        "title": "[推荐] 万字长文助你上手软件领域驱动设计 DDD",
-        "link": "https://toutiao.io/k/72nuj7z",
+        "title": "[推荐] 时间轮原理及其在框架中的应用",
+        "link": "https://toutiao.io/k/1dwwpfd",
         "date": "2022-04-07"
       },
       {
-        "title": "[推荐] 盘点 3 月份 yyds 的开源项目",
-        "link": "https://toutiao.io/k/79431xa",
+        "title": "[推荐] Kafka 面试连环炮, 看看你能撑到哪一步?",
+        "link": "https://toutiao.io/k/z30ehzv",
         "date": "2022-04-07"
       },
       {
@@ -10387,13 +10382,18 @@
         "date": "2022-04-07"
       },
       {
-        "title": "[推荐] 写出结构优雅代码的4个技巧",
-        "link": "https://toutiao.io/k/6cddvzi",
+        "title": "[推荐] 盘点 3 月份 yyds 的开源项目",
+        "link": "https://toutiao.io/k/79431xa",
         "date": "2022-04-07"
       },
       {
-        "title": "[推荐] Kafka 面试连环炮, 看看你能撑到哪一步?",
-        "link": "https://toutiao.io/k/z30ehzv",
+        "title": "[推荐] 万字长文助你上手软件领域驱动设计 DDD",
+        "link": "https://toutiao.io/k/72nuj7z",
+        "date": "2022-04-07"
+      },
+      {
+        "title": "[推荐] 写出结构优雅代码的4个技巧",
+        "link": "https://toutiao.io/k/6cddvzi",
         "date": "2022-04-07"
       }
     ]

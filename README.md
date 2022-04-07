@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-04-07 09:14:25，:rocket: 更新条数: +2030， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-04-07 09:40:06，:rocket: 更新条数: +2030， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,10 @@
 </summary>
 
 
+- [2022-04-07-AirPods-2-连接-mbp-只有左耳有声音？](https://www.v2ex.com/t/845531) ![](assets/new.png)  
+- [2022-04-07-成都咪咕音乐外包能去吗，软通的，安卓开发岗](https://www.v2ex.com/t/845530) ![](assets/new.png)  
+- [2022-04-07-个人经历如何存储比较好呢？怎么设计数据表才便于交叉比对？](https://www.v2ex.com/t/845529) ![](assets/new.png)  
+- [2022-04-07-Ruby-怎么就是网红了？](https://www.v2ex.com/t/845528) ![](assets/new.png)  
 - [2022-04-07-便携显示器推荐。](https://www.v2ex.com/t/845527) ![](assets/new.png)  
 - [2022-04-07-截至-.NET-6，-C#-在后端开发领域的生态与-Java-还有哪些差距？](https://www.v2ex.com/t/845526) ![](assets/new.png)  
 - [2022-04-07-北京-Java-开发工程师，-28-岁，五年工作经验，学历很低](https://www.v2ex.com/t/845525) ![](assets/new.png)  
@@ -507,10 +511,6 @@
 - [2022-04-07-虚心请教增重的方法](https://www.v2ex.com/t/845509) ![](assets/new.png)  
 - [2022-04-07-一个朋友准备做近视眼晶体植入手术，请问有做过的老哥吗](https://www.v2ex.com/t/845508) ![](assets/new.png)  
 - [2022-04-07-请问如何为网盘里的文件创建本地快捷方式？](https://www.v2ex.com/t/845507) ![](assets/new.png)  
-- [2022-04-07-后端开发转区块链开发，陷入了迷茫，求大佬指点迷津](https://www.v2ex.com/t/845505) ![](assets/new.png)  
-- [2022-04-07-EXIF-依照機型分類整理照片](https://www.v2ex.com/t/845504) ![](assets/new.png)  
-- [2022-04-07-chrome-F12-里的-400-报错怎么能拦截到](https://www.v2ex.com/t/845503) ![](assets/new.png)  
-- [2022-04-07-离职被公司恶心到了，但喜欢上了公司-hr-小姐姐怎么办](https://www.v2ex.com/t/845500) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -567,12 +567,12 @@
 - [2022-04-07-一次-Spring-无法启动的问题排查（字节码篇）](https://toutiao.io/k/knli9wp) ![](assets/new.png)  
 - [2022-04-07-社区文章｜MOSN-社区性能分析利器——Holmes-原理浅析](https://toutiao.io/k/fv06ein) ![](assets/new.png)  
 - [2022-04-07-IO-密集型服务-性能优化实战记录](https://toutiao.io/k/s1qj41a) ![](assets/new.png)  
-- [2022-04-07-【JVM】10道不得不会的JVM面试题](https://toutiao.io/k/t1vquz4) ![](assets/new.png)  
 - [2022-04-07-设计模式系列——观察者模式](https://toutiao.io/k/7jnvi1q) ![](assets/new.png)  
+- [2022-04-07-【JVM】10道不得不会的JVM面试题](https://toutiao.io/k/t1vquz4) ![](assets/new.png)  
 - [2022-04-07-探索-Rust-异步简化编程](https://toutiao.io/k/icaos1z) ![](assets/new.png)  
 - [2022-04-07-子线程更新UI全解](https://toutiao.io/k/q52w1vk) ![](assets/new.png)  
-- [2022-04-07-推荐-盘点-3-月份-yyds-的开源项目](https://toutiao.io/k/79431xa) ![](assets/new.png)  
 - [2022-04-07-推荐-Kafka-面试连环炮,-看看你能撑到哪一步?](https://toutiao.io/k/z30ehzv) ![](assets/new.png)  
+- [2022-04-07-推荐-20多个好用的-Vue-组件库，请查收！](https://toutiao.io/k/sskayyw) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

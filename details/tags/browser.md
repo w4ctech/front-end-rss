@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-04-07 12:23:37。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-04-07 13:07:07。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -16,5 +16,4 @@
 - [2022-04-07-SQLite-In-Memory-作为数据缓存代替-Java-Object](https://www.v2ex.com/t/845542) 
 - [2022-04-07-Hubstudio-设置浏览器指纹实现亚马逊多店铺防关联](https://www.v2ex.com/t/845537) 
 - [2022-04-07-我正在开发的一款浏览器信息记录工具，欢迎讨论](https://www.v2ex.com/t/845521) 
-- [2022-04-07-chrome-F12-里的-400-报错怎么能拦截到](https://www.v2ex.com/t/845503) 
 - [2022-04-07-腾讯一面：CORS为什么能保障安全？为什么只对复杂请求做预检？](https://toutiao.io/k/quomj0f) 

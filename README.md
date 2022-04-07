@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-04-07 09:40:06，:rocket: 更新条数: +2030， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-04-07 10:14:33，:rocket: 更新条数: +2029， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,11 @@
 </summary>
 
 
+- [2022-04-07-Hubstudio-设置浏览器指纹实现亚马逊多店铺防关联](https://www.v2ex.com/t/845537) ![](assets/new.png)  
+- [2022-04-07-分享个叮咚买菜抢菜助手](https://www.v2ex.com/t/845536) ![](assets/new.png)  
+- [2022-04-07-有没有讨论做生意/开公司的论坛](https://www.v2ex.com/t/845535) ![](assets/new.png)  
+- [2022-04-07-嫌新款-MBP-屏幕暗的可以试试这个-App，手动激发-1000+nits-亮度](https://www.v2ex.com/t/845533) ![](assets/new.png)  
+- [2022-04-07-怎么加入公司域网络中的其他分公司网段的-IP](https://www.v2ex.com/t/845532) ![](assets/new.png)  
 - [2022-04-07-AirPods-2-连接-mbp-只有左耳有声音？](https://www.v2ex.com/t/845531) ![](assets/new.png)  
 - [2022-04-07-成都咪咕音乐外包能去吗，软通的，安卓开发岗](https://www.v2ex.com/t/845530) ![](assets/new.png)  
 - [2022-04-07-个人经历如何存储比较好呢？怎么设计数据表才便于交叉比对？](https://www.v2ex.com/t/845529) ![](assets/new.png)  
@@ -506,11 +511,6 @@
 - [2022-04-07-asyncio-中-loop.run_forever-方法导致-100%-CPU-usage](https://www.v2ex.com/t/845517) ![](assets/new.png)  
 - [2022-04-07-杭州-可远程-秘猿科技-招聘资深软件开发（性能优化）/区块链开发/全栈开发/前端开发/RISC-V](https://www.v2ex.com/t/845515) ![](assets/new.png)  
 - [2022-04-07-Mac-升级-12.3.1-触控板在-vscode-中的问题](https://www.v2ex.com/t/845513) ![](assets/new.png)  
-- [2022-04-07-使用机器学习数鱼苗的可行性?](https://www.v2ex.com/t/845512) ![](assets/new.png)  
-- [2022-04-07-创业公司的失败体验](https://www.v2ex.com/t/845511) ![](assets/new.png)  
-- [2022-04-07-虚心请教增重的方法](https://www.v2ex.com/t/845509) ![](assets/new.png)  
-- [2022-04-07-一个朋友准备做近视眼晶体植入手术，请问有做过的老哥吗](https://www.v2ex.com/t/845508) ![](assets/new.png)  
-- [2022-04-07-请问如何为网盘里的文件创建本地快捷方式？](https://www.v2ex.com/t/845507) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -571,7 +571,7 @@
 - [2022-04-07-【JVM】10道不得不会的JVM面试题](https://toutiao.io/k/t1vquz4) ![](assets/new.png)  
 - [2022-04-07-探索-Rust-异步简化编程](https://toutiao.io/k/icaos1z) ![](assets/new.png)  
 - [2022-04-07-子线程更新UI全解](https://toutiao.io/k/q52w1vk) ![](assets/new.png)  
-- [2022-04-07-推荐-Kafka-面试连环炮,-看看你能撑到哪一步?](https://toutiao.io/k/z30ehzv) ![](assets/new.png)  
+- [2022-04-07-推荐-写出结构优雅代码的4个技巧](https://toutiao.io/k/6cddvzi) ![](assets/new.png)  
 - [2022-04-07-推荐-20多个好用的-Vue-组件库，请查收！](https://toutiao.io/k/sskayyw) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

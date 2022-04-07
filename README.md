@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-04-07 08:43:35，:rocket: 更新条数: +2027， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-04-07 09:14:25，:rocket: 更新条数: +2030， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,19 @@
 </summary>
 
 
+- [2022-04-07-便携显示器推荐。](https://www.v2ex.com/t/845527) ![](assets/new.png)  
+- [2022-04-07-截至-.NET-6，-C#-在后端开发领域的生态与-Java-还有哪些差距？](https://www.v2ex.com/t/845526) ![](assets/new.png)  
+- [2022-04-07-北京-Java-开发工程师，-28-岁，五年工作经验，学历很低](https://www.v2ex.com/t/845525) ![](assets/new.png)  
+- [2022-04-07-在上海被封闭的你，你公司是否有组织配送物资？](https://www.v2ex.com/t/845523) ![](assets/new.png)  
+- [2022-04-07-如果禁止-APP/软件嗅探局域网中的其他设备？](https://www.v2ex.com/t/845522) ![](assets/new.png)  
+- [2022-04-07-我正在开发的一款浏览器信息记录工具，欢迎讨论](https://www.v2ex.com/t/845521) ![](assets/new.png)  
+- [2022-04-07-请教下大佬定义错误信息结构，应该采用哪种方式](https://www.v2ex.com/t/845519) ![](assets/new.png)  
+- [2022-04-07-Archlinux-使用-systemd-networkd-有方案做到-DHCPv6-获取-GUA-和静态分配-ULA-共存吗](https://www.v2ex.com/t/845518) ![](assets/new.png)  
+- [2022-04-07-asyncio-中-loop.run_forever-方法导致-100%-CPU-usage](https://www.v2ex.com/t/845517) ![](assets/new.png)  
+- [2022-04-07-杭州-可远程-秘猿科技-招聘资深软件开发（性能优化）/区块链开发/全栈开发/前端开发/RISC-V](https://www.v2ex.com/t/845515) ![](assets/new.png)  
+- [2022-04-07-Mac-升级-12.3.1-触控板在-vscode-中的问题](https://www.v2ex.com/t/845513) ![](assets/new.png)  
+- [2022-04-07-使用机器学习数鱼苗的可行性?](https://www.v2ex.com/t/845512) ![](assets/new.png)  
+- [2022-04-07-创业公司的失败体验](https://www.v2ex.com/t/845511) ![](assets/new.png)  
 - [2022-04-07-虚心请教增重的方法](https://www.v2ex.com/t/845509) ![](assets/new.png)  
 - [2022-04-07-一个朋友准备做近视眼晶体植入手术，请问有做过的老哥吗](https://www.v2ex.com/t/845508) ![](assets/new.png)  
 - [2022-04-07-请问如何为网盘里的文件创建本地快捷方式？](https://www.v2ex.com/t/845507) ![](assets/new.png)  
@@ -498,19 +511,6 @@
 - [2022-04-07-EXIF-依照機型分類整理照片](https://www.v2ex.com/t/845504) ![](assets/new.png)  
 - [2022-04-07-chrome-F12-里的-400-报错怎么能拦截到](https://www.v2ex.com/t/845503) ![](assets/new.png)  
 - [2022-04-07-离职被公司恶心到了，但喜欢上了公司-hr-小姐姐怎么办](https://www.v2ex.com/t/845500) ![](assets/new.png)  
-- [2022-04-07-有弄个手机摄像头-AR-有关得文章吗？想知道怎么实现人做动作在屏幕触发这种](https://www.v2ex.com/t/845499) ![](assets/new.png)  
-- [2022-04-07-招聘-base-新加坡-Shopee-工程师招聘-后端开发-前端开发-数据开发-QA-etc](https://www.v2ex.com/t/845498) ![](assets/new.png)  
-- [2022-04-07-机械革命无界出-32G-版本了](https://www.v2ex.com/t/845497) ![](assets/new.png)  
-- [2022-04-07-输-PIN-太麻烦，帮忙推荐一款指纹登录器](https://www.v2ex.com/t/845496) ![](assets/new.png)  
-- [2022-04-07-阿里云盘非会员不支持分享视频在线播放了吗？](https://www.v2ex.com/t/845494) ![](assets/new.png)  
-- [2022-04-07-求推荐-C#-/-.NET-相关进阶书籍](https://www.v2ex.com/t/845493) ![](assets/new.png)  
-- [2022-04-07-无追搜索推出艾特搜索，想去哪搜索就-@他](https://www.v2ex.com/t/845491) ![](assets/new.png)  
-- [2022-04-07-GeekNote-想成为独立技术博客的聚合社区](https://www.v2ex.com/t/845490) ![](assets/new.png)  
-- [2022-04-07-PVE-可以直通硬盘并且引导硬盘里的原-windows-系统吗？就像-Parallels-Desktop-那样](https://www.v2ex.com/t/845488) ![](assets/new.png)  
-- [2022-04-07-我的-iPhone-8-电池不太行了，有电池推荐吗，打算换一换](https://www.v2ex.com/t/845487) ![](assets/new.png)  
-- [2022-04-07-JPEG-需要给所有可能的-Run/Size-进行-Huffman-编码吗](https://www.v2ex.com/t/845486) ![](assets/new.png)  
-- [2022-04-07-19-年首发买的-Apple-Watch-Series5，现在电池基本不行了](https://www.v2ex.com/t/845485) ![](assets/new.png)  
-- [2022-04-07-BI-系统打包-Docker-镜像及容器化部署的具体实现](https://www.v2ex.com/t/845484) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -569,10 +569,10 @@
 - [2022-04-07-IO-密集型服务-性能优化实战记录](https://toutiao.io/k/s1qj41a) ![](assets/new.png)  
 - [2022-04-07-【JVM】10道不得不会的JVM面试题](https://toutiao.io/k/t1vquz4) ![](assets/new.png)  
 - [2022-04-07-设计模式系列——观察者模式](https://toutiao.io/k/7jnvi1q) ![](assets/new.png)  
-- [2022-04-07-子线程更新UI全解](https://toutiao.io/k/q52w1vk) ![](assets/new.png)  
 - [2022-04-07-探索-Rust-异步简化编程](https://toutiao.io/k/icaos1z) ![](assets/new.png)  
-- [2022-04-07-推荐-Kafka-面试连环炮,-看看你能撑到哪一步?](https://toutiao.io/k/z30ehzv) ![](assets/new.png)  
+- [2022-04-07-子线程更新UI全解](https://toutiao.io/k/q52w1vk) ![](assets/new.png)  
 - [2022-04-07-推荐-盘点-3-月份-yyds-的开源项目](https://toutiao.io/k/79431xa) ![](assets/new.png)  
+- [2022-04-07-推荐-Kafka-面试连环炮,-看看你能撑到哪一步?](https://toutiao.io/k/z30ehzv) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

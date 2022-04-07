@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-04-07 06:47:07，:rocket: 更新条数: +2024， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-04-07 07:13:48，:rocket: 更新条数: +2025， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,14 @@
 </summary>
 
 
+- [2022-04-07-不懂就问，-V2-为什么不能直接访问，俺很懵（送个域名](https://www.v2ex.com/t/845489) ![](assets/new.png)  
+- [2022-04-07-PVE-可以直通硬盘并且引导硬盘里的原-windows-系统吗？就像-Parallels-Desktop-那样](https://www.v2ex.com/t/845488) ![](assets/new.png)  
+- [2022-04-07-我的-iPhone-8-电池不太行了，有电池推荐吗，打算换一换](https://www.v2ex.com/t/845487) ![](assets/new.png)  
+- [2022-04-07-JPEG-需要给所有可能的-Run/Size-进行-Huffman-编码吗](https://www.v2ex.com/t/845486) ![](assets/new.png)  
+- [2022-04-07-19-年首发买的-Apple-Watch-Series5，现在电池基本不行了](https://www.v2ex.com/t/845485) ![](assets/new.png)  
+- [2022-04-07-BI-系统打包-Docker-镜像及容器化部署的具体实现](https://www.v2ex.com/t/845484) ![](assets/new.png)  
+- [2022-04-07-如何学习冥想](https://www.v2ex.com/t/845483) ![](assets/new.png)  
+- [2022-04-07-一段-PHP-代码求助，谢谢大家！-IP-段转-CIDR-代码-,重点支持-ipv6](https://www.v2ex.com/t/845482) ![](assets/new.png)  
 - [2022-04-07-买的垃圾袋变内裤](https://www.v2ex.com/t/845481) ![](assets/new.png)  
 - [2022-04-07-男生，你们用面膜吗？用的多吗？](https://www.v2ex.com/t/845480) ![](assets/new.png)  
 - [2022-04-07-询问帖：北京电动自行车过渡期满上路行驶被扣留，不处理会有什么影响？](https://www.v2ex.com/t/845479) ![](assets/new.png)  
@@ -503,14 +511,6 @@
 - [2022-04-07-家里装修..全屋定制家具..](https://www.v2ex.com/t/845470) ![](assets/new.png)  
 - [2022-04-07-我来推广我的免费图床了（imgurl.org），-T-楼送-3-个-ImgURL-Pro-免费授权](https://www.v2ex.com/t/845469) ![](assets/new.png)  
 - [2022-04-07-求推荐一款双肩包](https://www.v2ex.com/t/845468) ![](assets/new.png)  
-- [2022-04-07-iPhone-手机激活后还能时间还能清零吗？](https://www.v2ex.com/t/845466) ![](assets/new.png)  
-- [2022-04-07-京东官方活动，-5-个助力送-1500-多京豆](https://www.v2ex.com/t/845465) ![](assets/new.png)  
-- [2022-04-07-团队叫我准备一个关于-CSS-的技术分享](https://www.v2ex.com/t/845458) ![](assets/new.png)  
-- [2022-04-07-如何优雅地禁止-macOS-版-Chrome-自动更新](https://www.v2ex.com/t/845456) ![](assets/new.png)  
-- [2022-04-07-怎么在阳台上抓小区里的野鸽子？](https://www.v2ex.com/t/845454) ![](assets/new.png)  
-- [2022-04-07-求能后台播放/画中画的第三方相册-APP](https://www.v2ex.com/t/845453) ![](assets/new.png)  
-- [2022-04-07-怎么样系统性地学习数据结构与算法（和-ACM-有关的）？](https://www.v2ex.com/t/845452) ![](assets/new.png)  
-- [2022-04-07-有人了解嘉联支付这家公司吗](https://www.v2ex.com/t/845450) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -562,8 +562,8 @@
 - [2022-04-07-使用-Flink-做-OLAP-分析及实时数仓的实践和优化](https://toutiao.io/k/cgk9f4c) ![](assets/new.png)  
 - [2022-04-07-22.5%的黑客使用-Go-语言](https://toutiao.io/k/0wma0wt) ![](assets/new.png)  
 - [2022-04-07-使用机器学习以高分辨率“临近预报”降水](https://toutiao.io/k/j4ow15k) ![](assets/new.png)  
-- [2022-04-07-Docker创始人的新产品Dagger好用吗？](https://toutiao.io/k/0cl3zma) ![](assets/new.png)  
 - [2022-04-07-Git-全功能介绍](https://toutiao.io/k/k2gx16j) ![](assets/new.png)  
+- [2022-04-07-Docker创始人的新产品Dagger好用吗？](https://toutiao.io/k/0cl3zma) ![](assets/new.png)  
 - [2022-04-07-一次-Spring-无法启动的问题排查（字节码篇）](https://toutiao.io/k/knli9wp) ![](assets/new.png)  
 - [2022-04-07-社区文章｜MOSN-社区性能分析利器——Holmes-原理浅析](https://toutiao.io/k/fv06ein) ![](assets/new.png)  
 - [2022-04-07-【JVM】10道不得不会的JVM面试题](https://toutiao.io/k/t1vquz4) ![](assets/new.png)  
@@ -571,8 +571,8 @@
 - [2022-04-07-设计模式系列——观察者模式](https://toutiao.io/k/7jnvi1q) ![](assets/new.png)  
 - [2022-04-07-子线程更新UI全解](https://toutiao.io/k/q52w1vk) ![](assets/new.png)  
 - [2022-04-07-探索-Rust-异步简化编程](https://toutiao.io/k/icaos1z) ![](assets/new.png)  
-- [2022-04-07-推荐-20多个好用的-Vue-组件库，请查收！](https://toutiao.io/k/sskayyw) ![](assets/new.png)  
 - [2022-04-07-推荐-Kafka-面试连环炮,-看看你能撑到哪一步?](https://toutiao.io/k/z30ehzv) ![](assets/new.png)  
+- [2022-04-07-推荐-万字长文助你上手软件领域驱动设计-DDD](https://toutiao.io/k/72nuj7z) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

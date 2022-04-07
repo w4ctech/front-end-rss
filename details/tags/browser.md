@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-04-07 13:33:17。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-04-07 14:14:04。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -15,5 +15,4 @@
 - [2021-01-01-大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html) 
 - [2022-04-07-SQLite-In-Memory-作为数据缓存代替-Java-Object](https://www.v2ex.com/t/845542) 
 - [2022-04-07-Hubstudio-设置浏览器指纹实现亚马逊多店铺防关联](https://www.v2ex.com/t/845537) 
-- [2022-04-07-我正在开发的一款浏览器信息记录工具，欢迎讨论](https://www.v2ex.com/t/845521) 
 - [2022-04-07-腾讯一面：CORS为什么能保障安全？为什么只对复杂请求做预检？](https://toutiao.io/k/quomj0f) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-04-08 08:43:26，:rocket: 更新条数: +2032， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-04-08 09:14:31，:rocket: 更新条数: +2030， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,13 @@
 </summary>
 
 
+- [2022-04-08-有尝试过-iPad-air-电池换新吗？](https://www.v2ex.com/t/845758) ![](assets/new.png)  
+- [2022-04-08-「天翼云」「Base:北京、成都、上海」社招---前后端](https://www.v2ex.com/t/845757) ![](assets/new.png)  
+- [2022-04-08-如何满足一个前端对-Mock-的全部幻想](https://www.v2ex.com/t/845756) ![](assets/new.png)  
+- [2022-04-08-做了一个干货-Top-文章榜，求星](https://www.v2ex.com/t/845755) ![](assets/new.png)  
+- [2022-04-08-CPU-指令重排是-cache-同步太慢的表征么？](https://www.v2ex.com/t/845754) ![](assets/new.png)  
+- [2022-04-08-vue3-中$attrs-怎么用-ts-定义类型?](https://www.v2ex.com/t/845752) ![](assets/new.png)  
+- [2022-04-08-公司打卡从-1-公里变成了-200-米到现在-wifi-打开，这说明了什么问题，新来的人事搞事情?](https://www.v2ex.com/t/845751) ![](assets/new.png)  
 - [2022-04-08-请教一个关于-mysql-优化的问题](https://www.v2ex.com/t/845749) ![](assets/new.png)  
 - [2022-04-08-进京问题](https://www.v2ex.com/t/845748) ![](assets/new.png)  
 - [2022-04-08-mbp-无法充电，求教](https://www.v2ex.com/t/845747) ![](assets/new.png)  
@@ -504,13 +511,6 @@
 - [2022-04-08-当下，作为技术人员，你是支持共存还是清零？](https://www.v2ex.com/t/845731) ![](assets/new.png)  
 - [2022-04-08-macOS-升级到-Monterey-后，四指和五指滑动触摸板都可以切换桌面，可以怎么禁用或修改吗？](https://www.v2ex.com/t/845730) ![](assets/new.png)  
 - [2022-04-08-一个编程语言的语法哪些是真语法哪些是语法糖？](https://www.v2ex.com/t/845729) ![](assets/new.png)  
-- [2022-04-08-纠结的问题-关于要不要换-M1-Pro-的问题-分享一下自己心路历程和详细理由](https://www.v2ex.com/t/845728) ![](assets/new.png)  
-- [2022-04-08-兄弟们-求一个火狐的插件-可以识别网站的后台语言](https://www.v2ex.com/t/845727) ![](assets/new.png)  
-- [2022-04-08-如何把一段简单的代码变复杂？](https://www.v2ex.com/t/845726) ![](assets/new.png)  
-- [2022-04-08-5-年没跳槽，人麻了](https://www.v2ex.com/t/845725) ![](assets/new.png)  
-- [2022-04-08-组一个杭州-tg-群](https://www.v2ex.com/t/845724) ![](assets/new.png)  
-- [2022-04-08-关于-hybrid-APP-的技术选型问题](https://www.v2ex.com/t/845722) ![](assets/new.png)  
-- [2022-04-08-大量的知乎宗教相关的问答都被删了、很多宗教站点都闭站了](https://www.v2ex.com/t/845721) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -564,8 +564,8 @@
 - [2022-04-08-Linux中基于eBPF的恶意利用与检测机制](https://toutiao.io/k/773uzac) ![](assets/new.png)  
 - [2022-04-08-Debezium-1.9.0.CR1-正式发布](https://toutiao.io/k/8g1rilt) ![](assets/new.png)  
 - [2022-04-08-个性化联邦学习PFedMe详细解读（NeurIPS-2020）](https://toutiao.io/k/k4jeksd) ![](assets/new.png)  
-- [2022-04-08-懒程序员和他的-dotfiles-2022](https://toutiao.io/k/8f4l4xk) ![](assets/new.png)  
 - [2022-04-08-被自己坑了...](https://toutiao.io/k/l6keqms) ![](assets/new.png)  
+- [2022-04-08-懒程序员和他的-dotfiles-2022](https://toutiao.io/k/8f4l4xk) ![](assets/new.png)  
 - [2022-04-08-设计模式系列——解释器模式](https://toutiao.io/k/sa4m6v4) ![](assets/new.png)  
 - [2022-04-08-独立开发变现周刊（第49期）：如何在18个月内做7个小产品？](https://toutiao.io/k/gw1wbj3) ![](assets/new.png)  
 - [2022-04-08-我的源码阅读经历](https://toutiao.io/k/4fer06x) ![](assets/new.png)  

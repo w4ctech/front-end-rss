@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-04-08 07:38:41。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-04-08 08:16:29。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -15,6 +15,5 @@
 - [2021-01-01-大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html) 
 - [2022-04-08-URLOS，基于-Docker，非常好用的主机管理平台](https://www.v2ex.com/t/845712) 
 - [2022-04-08-不知道大家有没有遇到这种渲染-bug](https://www.v2ex.com/t/845697) 
-- [2022-04-08-Mac-Safari-新开-tab-的时候焦点不在地址栏](https://www.v2ex.com/t/845681) 
 - [2022-04-08-解析分布式系统的缓存设计](https://toutiao.io/k/pucrtli) 
 - [2022-04-08-K8s-安全策略最佳实践](https://toutiao.io/k/oyzcd21) 

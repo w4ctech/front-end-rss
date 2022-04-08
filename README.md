@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-04-08 00:55:37，:rocket: 更新条数: +2020， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-04-08 02:41:17，:rocket: 更新条数: +2028， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,26 +491,26 @@
 </summary>
 
 
-- [2022-04-08-Niton-中如何建立可被多次复用的候选清单？](https://www.v2ex.com/t/845612) ![](assets/new.png)  
-- [2022-04-08-互联网行业是不是就不存在薪资不高但是稳定可以干到退休的工作岗位？](https://www.v2ex.com/t/845611) ![](assets/new.png)  
-- [2022-04-08-路由器奇怪现象，求分析原因](https://www.v2ex.com/t/845610) ![](assets/new.png)  
-- [2022-04-08-求北京考摩托车驾照推荐，最好离望京这边近一点](https://www.v2ex.com/t/845609) ![](assets/new.png)  
-- [2022-04-08-求推荐-500-以内的生日礼物](https://www.v2ex.com/t/845608) ![](assets/new.png)  
-- [2022-04-08-得物干一年有必要跳吗](https://www.v2ex.com/t/845607) ![](assets/new.png)  
-- [2022-04-07-surface-的固件有黑魔法](https://www.v2ex.com/t/845606) ![](assets/new.png)  
-- [2022-04-07-有美团买菜的产品在么，我斗胆请教个问题](https://www.v2ex.com/t/845605) ![](assets/new.png)  
-- [2022-04-07-新手程序员如何不断提高自我？](https://www.v2ex.com/t/845604) ![](assets/new.png)  
-- [2022-04-07-Apple-Store-在统计顾客的服装颜色](https://www.v2ex.com/t/845603) ![](assets/new.png)  
-- [2022-04-07-虚拟币交易所-C2C-的币商们如何自动根据市价调整挂单出价和买价？](https://www.v2ex.com/t/845602) ![](assets/new.png)  
-- [2022-04-07-请教大佬，一个批量生成视频并上传方案的困扰](https://www.v2ex.com/t/845601) ![](assets/new.png)  
-- [2022-04-07-推荐几份-rust-新手学习文档](https://www.v2ex.com/t/845600) ![](assets/new.png)  
-- [2022-04-07-腾讯云服务器香港等-2-核-2G-三年-255-5-年-233](https://www.v2ex.com/t/845599) ![](assets/new.png)  
-- [2022-04-07-ListView-拖动后，反向回弹问题](https://www.v2ex.com/t/845598) ![](assets/new.png)  
-- [2022-04-07-AirPods-pro-在通勤路上从口袋里掉出去，被别人捡到一直在用](https://www.v2ex.com/t/845597) ![](assets/new.png)  
-- [2022-04-07-Movist-Pro-可以-Airplay-投影到电视吗？](https://www.v2ex.com/t/845596) ![](assets/new.png)  
-- [2022-04-07-Macbook-Pro-13'-early-2015-换新](https://www.v2ex.com/t/845595) ![](assets/new.png)  
-- [2022-04-07-笔记本-CPU-锁频到-0.78GHz-是什么原因？](https://www.v2ex.com/t/845594) ![](assets/new.png)  
-- [2022-04-07-招行-app-的绑卡到其他支付软件是如何实现的？](https://www.v2ex.com/t/845593) ![](assets/new.png)  
+- [2022-04-08-阿迪达斯衣服的接缝是不是不能造假？](https://www.v2ex.com/t/845640) ![](assets/new.png)  
+- [2022-04-08-有没有简洁、美观的前端开发教程](https://www.v2ex.com/t/845639) ![](assets/new.png)  
+- [2022-04-08-iTunes-连接手机后不显示型号图标](https://www.v2ex.com/t/845638) ![](assets/new.png)  
+- [2022-04-08-夸一下上海联通宽带的服务。](https://www.v2ex.com/t/845636) ![](assets/new.png)  
+- [2022-04-08-请问一下，查询万条数据，内存不断增长的解决方法。](https://www.v2ex.com/t/845635) ![](assets/new.png)  
+- [2022-04-08-这次过后考公和移民以及逃离上海的人会变多吗？](https://www.v2ex.com/t/845634) ![](assets/new.png)  
+- [2022-04-08-新版的这个添加新回复感觉怪怪的](https://www.v2ex.com/t/845633) ![](assets/new.png)  
+- [2022-04-08-网约车手机推荐](https://www.v2ex.com/t/845632) ![](assets/new.png)  
+- [2022-04-08-树莓派是不是溢价的太过分了](https://www.v2ex.com/t/845631) ![](assets/new.png)  
+- [2022-04-08-有人知道碳足迹计算器的公式是怎么算的么？](https://www.v2ex.com/t/845630) ![](assets/new.png)  
+- [2022-04-08-杭州健康码有接口吗？](https://www.v2ex.com/t/845629) ![](assets/new.png)  
+- [2022-04-08-想了解一下有在小黄鱼代购澳门版-Apple-产品的大佬吗？](https://www.v2ex.com/t/845628) ![](assets/new.png)  
+- [2022-04-08-钉钉网课](https://www.v2ex.com/t/845625) ![](assets/new.png)  
+- [2022-04-08-OneDrive-在-Windows7-上停止上传了吗?-感觉还能用](https://www.v2ex.com/t/845624) ![](assets/new.png)  
+- [2022-04-08-安卓有没有什么体验好的自定义-rss-订阅器](https://www.v2ex.com/t/845623) ![](assets/new.png)  
+- [2022-04-08-二本-CS-应届生，没有去处求收留](https://www.v2ex.com/t/845622) ![](assets/new.png)  
+- [2022-04-08-求大伙推荐安全-颜值高的电压力锅，预算-300-400](https://www.v2ex.com/t/845620) ![](assets/new.png)  
+- [2022-04-08-有偿咨询下弹幕姬插件能调用微软-Azure-的微软晓晓-TTS-嘛](https://www.v2ex.com/t/845619) ![](assets/new.png)  
+- [2022-04-08-裁员潮有感-假如，以后你不能（或者不想）写代码了，你最想做什么](https://www.v2ex.com/t/845618) ![](assets/new.png)  
+- [2022-04-08-iPhone-或者-iPad-上的-Netflix-怎么投屏到投影仪呢？](https://www.v2ex.com/t/845616) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -553,17 +553,24 @@
 </summary>
 
 
-- [2022-04-08-「码农周刊-VIP-会员专属邮件周报」每周五发送，赶紧上车吧！](https://toutiao.io/k/5tfu473) ![](assets/new.png)  
 - [2022-04-08-解析分布式系统的缓存设计](https://toutiao.io/k/pucrtli) ![](assets/new.png)  
 - [2022-04-08-深度解密（三）：OpenYurt边缘容器架构与原理](https://toutiao.io/k/r0ac2aw) ![](assets/new.png)  
 - [2022-04-08-Go-内存泄漏排查实战](https://toutiao.io/k/6dmhylq) ![](assets/new.png)  
-- [2022-04-08-推荐-写出结构优雅代码的4个技巧](https://toutiao.io/k/6cddvzi) ![](assets/new.png)  
+- [2022-04-08-「码农周刊-VIP-会员专属邮件周报」每周五发送，赶紧上车吧！](https://toutiao.io/k/5tfu473) ![](assets/new.png)  
+- [2022-04-08-终端新玩法：“零代码”的剧本式引导](https://toutiao.io/k/jst3urb) ![](assets/new.png)  
+- [2022-04-08-Linux中基于eBPF的恶意利用与检测机制](https://toutiao.io/k/773uzac) ![](assets/new.png)  
+- [2022-04-08-基于反向代理的水坑攻击](https://toutiao.io/k/ggcal7w) ![](assets/new.png)  
+- [2022-04-08-K8s-安全策略最佳实践](https://toutiao.io/k/oyzcd21) ![](assets/new.png)  
+- [2022-04-08-Debezium-1.9.0.CR1-正式发布](https://toutiao.io/k/8g1rilt) ![](assets/new.png)  
+- [2022-04-08-Flutter在携程复杂业务的高性能之旅](https://toutiao.io/k/rqjb6q5) ![](assets/new.png)  
+- [2022-04-08-个性化联邦学习PFedMe详细解读（NeurIPS-2020）](https://toutiao.io/k/k4jeksd) ![](assets/new.png)  
 - [2022-04-08-推荐-错误码设计思考](https://toutiao.io/k/qas5y3j) ![](assets/new.png)  
-- [2022-04-08-推荐-20多个好用的-Vue-组件库，请查收！](https://toutiao.io/k/sskayyw) ![](assets/new.png)  
-- [2022-04-08-推荐-时间轮原理及其在框架中的应用](https://toutiao.io/k/1dwwpfd) ![](assets/new.png)  
-- [2022-04-08-推荐-万字长文助你上手软件领域驱动设计-DDD](https://toutiao.io/k/72nuj7z) ![](assets/new.png)  
 - [2022-04-08-推荐-盘点-3-月份-yyds-的开源项目](https://toutiao.io/k/79431xa) ![](assets/new.png)  
 - [2022-04-08-推荐-Kafka-面试连环炮,-看看你能撑到哪一步?](https://toutiao.io/k/z30ehzv) ![](assets/new.png)  
+- [2022-04-08-推荐-时间轮原理及其在框架中的应用](https://toutiao.io/k/1dwwpfd) ![](assets/new.png)  
+- [2022-04-08-推荐-万字长文助你上手软件领域驱动设计-DDD](https://toutiao.io/k/72nuj7z) ![](assets/new.png)  
+- [2022-04-08-推荐-20多个好用的-Vue-组件库，请查收！](https://toutiao.io/k/sskayyw) ![](assets/new.png)  
+- [2022-04-08-推荐-写出结构优雅代码的4个技巧](https://toutiao.io/k/6cddvzi) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

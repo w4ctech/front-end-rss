@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-04-08 06:17:32，:rocket: 更新条数: +2030， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-04-08 06:47:00，:rocket: 更新条数: +2028， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,16 @@
 </summary>
 
 
+- [2022-04-08-上海招商银行-app-上没有提前还贷入口？](https://www.v2ex.com/t/845711) ![](assets/new.png)  
+- [2022-04-08-Nationwide+remote-working,-full-time-Fintech-in-Top15-Globally：-Testing](https://www.v2ex.com/t/845710) ![](assets/new.png)  
+- [2022-04-08-山东联通五折宽带无法续约了](https://www.v2ex.com/t/845708) ![](assets/new.png)  
+- [2022-04-08-MBP-m1-自带的-type-c-电源线居然不支持输出视频到-u2723qe-?](https://www.v2ex.com/t/845707) ![](assets/new.png)  
+- [2022-04-08-pc-端有没有像安卓的-Type-Machine-这样的文字记录软件](https://www.v2ex.com/t/845706) ![](assets/new.png)  
+- [2022-04-08-二线城市长沙，应届本科薪资多少算中等水平？](https://www.v2ex.com/t/845705) ![](assets/new.png)  
+- [2022-04-08-io.fabric8.kubernetes-有挂二进制文件到-configMap-的办法吗？](https://www.v2ex.com/t/845704) ![](assets/new.png)  
+- [2022-04-08-知乎的空白名字是怎么一回事？](https://www.v2ex.com/t/845703) ![](assets/new.png)  
+- [2022-04-08-那种打开打开开关之后缓慢亮起，关闭开关之后缓慢灭掉，的灯泡功能叫什么呀？](https://www.v2ex.com/t/845702) ![](assets/new.png)  
+- [2022-04-08-关于博客图片存储方案问题，直接保存在博客所在服务器、用第三方对象存储还是单独买一个便宜的服务器自己部署-OSS-服务？](https://www.v2ex.com/t/845701) ![](assets/new.png)  
 - [2022-04-08-有自己制作牛皮电脑包的教程或者方案吗？](https://www.v2ex.com/t/845700) ![](assets/new.png)  
 - [2022-04-08-xunsearch-聚合搜索要怎么做-求思路。](https://www.v2ex.com/t/845699) ![](assets/new.png)  
 - [2022-04-08-IBM.com-上的中文内容去哪了？我看到有很多资料指向类似-https://www.ibm.com/developerworks/cn/-Linux-/-，但是点进去也找不到内容](https://www.v2ex.com/t/845698) ![](assets/new.png)  
@@ -501,16 +511,6 @@
 - [2022-04-08-怎么解决-macOS-Monterey-重启后启动台的-App-图标顺序会变](https://www.v2ex.com/t/845693) ![](assets/new.png)  
 - [2022-04-08-网线水晶头如果接错了会变成-10Mbps-吗](https://www.v2ex.com/t/845691) ![](assets/new.png)  
 - [2022-04-08-疫情之下，大家慎买无通话功能的流量卡，哪怕是正规的...](https://www.v2ex.com/t/845690) ![](assets/new.png)  
-- [2022-04-08-S7-睡眠闹钟不同步](https://www.v2ex.com/t/845688) ![](assets/new.png)  
-- [2022-04-08-深圳怎么学游泳性价比比较高呢？](https://www.v2ex.com/t/845684) ![](assets/new.png)  
-- [2022-04-08-如何放大内网-wifi-信号？](https://www.v2ex.com/t/845682) ![](assets/new.png)  
-- [2022-04-08-Mac-Safari-新开-tab-的时候焦点不在地址栏](https://www.v2ex.com/t/845681) ![](assets/new.png)  
-- [2022-04-08-天府健康通上的二维码里到底有些什么信息啊？](https://www.v2ex.com/t/845679) ![](assets/new.png)  
-- [2022-04-08-我就奇了怪，这都全封了为啥还能每天两万？](https://www.v2ex.com/t/845678) ![](assets/new.png)  
-- [2022-04-08-Apple-Watch-的-3~7-各代最大实际支持的充电瓦数是多少？](https://www.v2ex.com/t/845676) ![](assets/new.png)  
-- [2022-04-08-MBP-到货延期，有类似情况的吗？](https://www.v2ex.com/t/845675) ![](assets/new.png)  
-- [2022-04-08-有没有好用的开源镜像风险检测工具推荐？](https://www.v2ex.com/t/845672) ![](assets/new.png)  
-- [2022-04-08-切换至-zsh-后执行-npm-run-*-报错](https://www.v2ex.com/t/845669) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -569,9 +569,9 @@
 - [2022-04-08-设计模式系列——解释器模式](https://toutiao.io/k/sa4m6v4) ![](assets/new.png)  
 - [2022-04-08-独立开发变现周刊（第49期）：如何在18个月内做7个小产品？](https://toutiao.io/k/gw1wbj3) ![](assets/new.png)  
 - [2022-04-08-我的源码阅读经历](https://toutiao.io/k/4fer06x) ![](assets/new.png)  
-- [2022-04-08-小王，给这2000个客户发一下节日祝福的邮件...](https://toutiao.io/k/kfl0t2s) ![](assets/new.png)  
 - [2022-04-08-软件交付的问题](https://toutiao.io/k/svvy5fd) ![](assets/new.png)  
 - [2022-04-08-云原生批处理系统Volcano升级到CNCF孵化阶段](https://toutiao.io/k/dzyo8nc) ![](assets/new.png)  
+- [2022-04-08-Go应用单元测试实践](https://toutiao.io/k/i0toiyc) ![](assets/new.png)  
 - [2022-04-08-Golang分析内存溢出](https://toutiao.io/k/u5gnono) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

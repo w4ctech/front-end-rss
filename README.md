@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-04-08 06:47:00，:rocket: 更新条数: +2028， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-04-08 07:15:06，:rocket: 更新条数: +2027， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,9 @@
 </summary>
 
 
+- [2022-04-08-急招！-Lazada---Java-技术专家（广州）](https://www.v2ex.com/t/845715) ![](assets/new.png)  
+- [2022-04-08-reddit-r/place-有没办法转化成-SVG-格式呢？](https://www.v2ex.com/t/845713) ![](assets/new.png)  
+- [2022-04-08-URLOS，基于-Docker，非常好用的主机管理平台](https://www.v2ex.com/t/845712) ![](assets/new.png)  
 - [2022-04-08-上海招商银行-app-上没有提前还贷入口？](https://www.v2ex.com/t/845711) ![](assets/new.png)  
 - [2022-04-08-Nationwide+remote-working,-full-time-Fintech-in-Top15-Globally：-Testing](https://www.v2ex.com/t/845710) ![](assets/new.png)  
 - [2022-04-08-山东联通五折宽带无法续约了](https://www.v2ex.com/t/845708) ![](assets/new.png)  
@@ -508,9 +511,6 @@
 - [2022-04-08-准备整个升降台，有什么推荐的，避免什么坑吗？](https://www.v2ex.com/t/845696) ![](assets/new.png)  
 - [2022-04-08-Reshaper-里面-togglebreakpoint-怎么用](https://www.v2ex.com/t/845695) ![](assets/new.png)  
 - [2022-04-08-愁人，官网下单的加配-MBP-被疫情困在上海了](https://www.v2ex.com/t/845694) ![](assets/new.png)  
-- [2022-04-08-怎么解决-macOS-Monterey-重启后启动台的-App-图标顺序会变](https://www.v2ex.com/t/845693) ![](assets/new.png)  
-- [2022-04-08-网线水晶头如果接错了会变成-10Mbps-吗](https://www.v2ex.com/t/845691) ![](assets/new.png)  
-- [2022-04-08-疫情之下，大家慎买无通话功能的流量卡，哪怕是正规的...](https://www.v2ex.com/t/845690) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -569,8 +569,8 @@
 - [2022-04-08-设计模式系列——解释器模式](https://toutiao.io/k/sa4m6v4) ![](assets/new.png)  
 - [2022-04-08-独立开发变现周刊（第49期）：如何在18个月内做7个小产品？](https://toutiao.io/k/gw1wbj3) ![](assets/new.png)  
 - [2022-04-08-我的源码阅读经历](https://toutiao.io/k/4fer06x) ![](assets/new.png)  
-- [2022-04-08-软件交付的问题](https://toutiao.io/k/svvy5fd) ![](assets/new.png)  
 - [2022-04-08-云原生批处理系统Volcano升级到CNCF孵化阶段](https://toutiao.io/k/dzyo8nc) ![](assets/new.png)  
+- [2022-04-08-软件交付的问题](https://toutiao.io/k/svvy5fd) ![](assets/new.png)  
 - [2022-04-08-Go应用单元测试实践](https://toutiao.io/k/i0toiyc) ![](assets/new.png)  
 - [2022-04-08-Golang分析内存溢出](https://toutiao.io/k/u5gnono) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)

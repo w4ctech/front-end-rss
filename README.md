@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-04-08 12:22:42，:rocket: 更新条数: +2028， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-04-08 13:05:04，:rocket: 更新条数: +2029， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,11 @@
 </summary>
 
 
+- [2022-04-08-cs-架构的程序，数据库连接串都是如何加密的？](https://www.v2ex.com/t/845796) ![](assets/new.png)  
+- [2022-04-08-ptianxie.com（莆田鞋）V-友们帮我想个能对得起这个域名的项目](https://www.v2ex.com/t/845795) ![](assets/new.png)  
+- [2022-04-08-Vue-3-的服务端与异步数据获取](https://www.v2ex.com/t/845794) ![](assets/new.png)  
+- [2022-04-08-如何编写代码才能实现这种关联](https://www.v2ex.com/t/845793) ![](assets/new.png)  
+- [2022-04-08-各位是如何避免外区-Apple-Id-风控的？](https://www.v2ex.com/t/845792) ![](assets/new.png)  
 - [2022-04-08-国产安卓系统是不是都不内置-FCM？](https://www.v2ex.com/t/845791) ![](assets/new.png)  
 - [2022-04-08-在-chrome-的-devtools-的-console-里，有啥方法可以假装发出了一个-ajax-吗？](https://www.v2ex.com/t/845790) ![](assets/new.png)  
 - [2022-04-08-想做个站，前端美化能力不太行，想直接买几个页面，请问哪里可以买？](https://www.v2ex.com/t/845788) ![](assets/new.png)  
@@ -506,11 +511,6 @@
 - [2022-04-08-36-岁的年龄-1.6-该如何破局呢？](https://www.v2ex.com/t/845771) ![](assets/new.png)  
 - [2022-04-08-Twitter-上的空投加密货币是真的吗？](https://www.v2ex.com/t/845770) ![](assets/new.png)  
 - [2022-04-08-Apple-watch-为什么要单独的充电线](https://www.v2ex.com/t/845768) ![](assets/new.png)  
-- [2022-04-08-新品发布-|-Cloudpods-3.8.8-版本上线！](https://www.v2ex.com/t/845767) ![](assets/new.png)  
-- [2022-04-08-想去日本读研，掏空父母积蓄划得来吗](https://www.v2ex.com/t/845765) ![](assets/new.png)  
-- [2022-04-08-被-golang-坑了一下午，-win-平台无法正常调用外部程序看这里。](https://www.v2ex.com/t/845764) ![](assets/new.png)  
-- [2022-04-08-请教一下，-GoogleBot-抓取的方式跟控制台调试有关吗？](https://www.v2ex.com/t/845762) ![](assets/new.png)  
-- [2022-04-08-Web-前端程序员坐标天津](https://www.v2ex.com/t/845761) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -570,9 +570,9 @@
 - [2022-04-08-独立开发变现周刊（第49期）：如何在18个月内做7个小产品？](https://toutiao.io/k/gw1wbj3) ![](assets/new.png)  
 - [2022-04-08-设计模式系列——解释器模式](https://toutiao.io/k/sa4m6v4) ![](assets/new.png)  
 - [2022-04-08-云原生批处理系统Volcano升级到CNCF孵化阶段](https://toutiao.io/k/dzyo8nc) ![](assets/new.png)  
+- [2022-04-08-Golang分析内存溢出](https://toutiao.io/k/u5gnono) ![](assets/new.png)  
 - [2022-04-08-软件交付的问题](https://toutiao.io/k/svvy5fd) ![](assets/new.png)  
 - [2022-04-08-Go应用单元测试实践](https://toutiao.io/k/i0toiyc) ![](assets/new.png)  
-- [2022-04-08-Golang分析内存溢出](https://toutiao.io/k/u5gnono) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-04-09 10:14:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-04-09 10:41:14。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1913,6 +1913,9 @@
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2022-03-21-ascent-override-descent-override-line-gap-override一锅端](https://www.zhangxinxu.com/wordpress/2022/03/css-ascent-override-descent/) 
 - [2022-02-04-HTML-inputmode与iOS-Android软键盘类型测试](https://www.zhangxinxu.com/wordpress/2022/02/html-inputmode-keyboard/) 
+- [2022-04-09-最近几天有收到官网选配订购的-MacBook-Pro-的吗？](https://www.v2ex.com/t/845920) 
+- [2022-04-09-天才吧服务真好…](https://www.v2ex.com/t/845919) 
+- [2022-04-09-老婆所在公司不景气，已经开始说要降薪-50%。各位-V-友，-2022-年转行出路在哪？](https://www.v2ex.com/t/845918) 
 - [2022-04-09-建行-visa-全球支付信用卡的羊毛薅完了，还有留下来的价值吗？](https://www.v2ex.com/t/845914) 
 - [2022-04-09-各位倾向于使用哪种电子阅读装置，手机,mini-版-pad，常规尺寸-pad,超大-pad,kindle-类电纸书](https://www.v2ex.com/t/845913) 
 - [2022-04-09-主要写-C#-和-Rust，-19-款-13-寸-16GB-i5-MacBook-Pro-还能再撑-2~3-年吗？](https://www.v2ex.com/t/845911) 
@@ -1936,8 +1939,6 @@
 - [2022-04-09-分享一个别人的-blog](https://www.v2ex.com/t/845876) 
 - [2022-04-09-两台服务器，双向同步同一个文件夹，有一个修改，另一个服务器的就会对应修改，保证不会有同时修改，冲突等情况。有什么最简单的方法吗？](https://www.v2ex.com/t/845873) 
 - [2022-04-09-线性变换-Tv1,-v2-=-v1,-v1，的值域与核分别是什么？](https://www.v2ex.com/t/845871) 
-- [2022-04-09-大家应急储备的蔬菜怎么买？](https://www.v2ex.com/t/845870) 
-- [2022-04-09-重庆的-IT-组队啦](https://www.v2ex.com/t/845867) 
 - [2022-04-09-来，咱聊聊接口幂等性设计-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15008&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493770%26amp%3Bidx%3D2%26amp%3Bsn%3Dfec23a16208ef27f1d65e7f9ea3dab12%26amp%3Bchksm%3Dfa3f09d1cd4880c76034a14910af79d65a270e3db86bfd160cf2edb143344a1d628d1f500168%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-04-09-最受程序员欢迎的20本书！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15007&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493749%26amp%3Bidx%3D1%26amp%3Bsn%3D9cf2fa6cbe49a48dcaee073da7d04004%26amp%3Bchksm%3Dfa3f092ecd488038e0ccc5d21961b8968b46257ce41b47a750dd99558544ce102721b6cea078%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-04-09-IDEA中的热部署神器！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15006&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493749%26amp%3Bidx%3D2%26amp%3Bsn%3D784e73396088f749613a0539e530d701%26amp%3Bchksm%3Dfa3f092ecd4880382609a6531ff398e535939afc1e633e6703958e173067f909a31cd42cd002%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1959,7 +1960,7 @@
 - [2022-04-09-SQL-SELECT-查询语句-用法详解](https://toutiao.io/k/nhw3gsv) 
 - [2022-04-09-十分钟搭建实验分布式数据库环境](https://toutiao.io/k/ouiv7ej) 
 - [2022-04-09-轻量级-Kubernetes-多租户方案的探索与实践](https://toutiao.io/k/f2sn81a) 
-- [2022-04-09-推荐-错误码设计思考](https://toutiao.io/k/qas5y3j) 
 - [2022-04-09-推荐-盘点-3-月份-yyds-的开源项目](https://toutiao.io/k/79431xa) 
 - [2022-04-09-推荐-万字长文助你上手软件领域驱动设计-DDD](https://toutiao.io/k/72nuj7z) 
+- [2022-04-09-推荐-错误码设计思考](https://toutiao.io/k/qas5y3j) 
 - [2022-04-09-推荐-写出结构优雅代码的4个技巧](https://toutiao.io/k/6cddvzi) 

@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-04-09 08:16:05。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-04-09 08:42:12。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -350,6 +350,7 @@
 
 
 
+- [【V2EX】杭州/上海/新加坡-20-45K-顶级区块链基金-Paradigm-投资的第一家亚太-NFT-Infra-公司招聘智能合约/后端工程师](https://www.v2ex.com/t/845898)
 - [【开发者头条】面试必备：聊聊分布式锁的多种实现！](https://toutiao.io/k/kypk9q4)
 - [【开发者头条】2022-最新Java基础常见知识&面试题总结下](https://toutiao.io/k/yz9mbg6)
 - [【开发者头条】推荐-Kafka-面试连环炮,-看看你能撑到哪一步?](https://toutiao.io/k/z30ehzv)

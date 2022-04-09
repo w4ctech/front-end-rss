@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2022-04-09 08:16:06。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-04-09 08:42:12。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-04-09-杭州/上海/新加坡-20-45K-顶级区块链基金-Paradigm-投资的第一家亚太-NFT-Infra-公司招聘智能合约/后端工程师](https://www.v2ex.com/t/845898) 
+- [2022-04-09-DataGrip-里使用脚本生成数据库](https://www.v2ex.com/t/845897) 
 - [2022-04-09-MacOS-使用-Windows-为知笔记](https://www.v2ex.com/t/845894) 
 - [2022-04-09-开源-Rust-写的-Windows-文件管理器-3D-文件缩略图插件](https://www.v2ex.com/t/845893) 
 - [2022-04-09-如何快速向文件中写入-1-亿个-ip？](https://www.v2ex.com/t/845892) 
@@ -38,5 +40,3 @@
 - [2022-04-09-为什么我的-mbp，蓝牙鼠标始终连接不上去？](https://www.v2ex.com/t/845853) 
 - [2022-04-09-mbp-外接-4k-显示器，-kernel_task-就占用-cpu400-600](https://www.v2ex.com/t/845851) 
 - [2022-04-09-两台-Macbook-使用通用控制连接是否可以共享算力？](https://www.v2ex.com/t/845850) 
-- [2022-04-09-男装有什么品牌推荐](https://www.v2ex.com/t/845848) 
-- [2022-04-09-为什么今年招人感觉更加难了。。。](https://www.v2ex.com/t/845847) 

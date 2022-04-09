@@ -9953,6 +9953,16 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "[杭州/上海/新加坡] [20-45K] 顶级区块链基金 Paradigm 投资的第一家亚太 NFT Infra 公司招聘智能合约/后端工程师",
+        "link": "https://www.v2ex.com/t/845898",
+        "date": "2022-04-09"
+      },
+      {
+        "title": "DataGrip 里使用脚本生成数据库",
+        "link": "https://www.v2ex.com/t/845897",
+        "date": "2022-04-09"
+      },
+      {
         "title": "MacOS 使用 Windows 为知笔记",
         "link": "https://www.v2ex.com/t/845894",
         "date": "2022-04-09"
@@ -10115,16 +10125,6 @@
       {
         "title": "两台 Macbook 使用通用控制连接是否可以共享算力？",
         "link": "https://www.v2ex.com/t/845850",
-        "date": "2022-04-09"
-      },
-      {
-        "title": "男装有什么品牌推荐",
-        "link": "https://www.v2ex.com/t/845848",
-        "date": "2022-04-09"
-      },
-      {
-        "title": "为什么今年招人感觉更加难了。。。",
-        "link": "https://www.v2ex.com/t/845847",
         "date": "2022-04-09"
       }
     ]
@@ -10292,11 +10292,6 @@
         "date": "2022-04-09"
       },
       {
-        "title": "[推荐] 写出结构优雅代码的4个技巧",
-        "link": "https://toutiao.io/k/6cddvzi",
-        "date": "2022-04-09"
-      },
-      {
         "title": "[推荐] 错误码设计思考",
         "link": "https://toutiao.io/k/qas5y3j",
         "date": "2022-04-09"
@@ -10307,8 +10302,8 @@
         "date": "2022-04-09"
       },
       {
-        "title": "[推荐] 盘点 3 月份 yyds 的开源项目",
-        "link": "https://toutiao.io/k/79431xa",
+        "title": "[推荐] Kafka 面试连环炮, 看看你能撑到哪一步?",
+        "link": "https://toutiao.io/k/z30ehzv",
         "date": "2022-04-09"
       },
       {
@@ -10317,8 +10312,13 @@
         "date": "2022-04-09"
       },
       {
-        "title": "[推荐] Kafka 面试连环炮, 看看你能撑到哪一步?",
-        "link": "https://toutiao.io/k/z30ehzv",
+        "title": "[推荐] 写出结构优雅代码的4个技巧",
+        "link": "https://toutiao.io/k/6cddvzi",
+        "date": "2022-04-09"
+      },
+      {
+        "title": "[推荐] 盘点 3 月份 yyds 的开源项目",
+        "link": "https://toutiao.io/k/79431xa",
         "date": "2022-04-09"
       }
     ]

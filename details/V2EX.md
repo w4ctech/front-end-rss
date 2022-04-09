@@ -1,10 +1,15 @@
-:alarm_clock: 更新时间: 2022-04-09 13:20:15。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-04-09 13:40:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-04-09-开启-clash-for-windows-关机时微信不会退出-windows-登录](https://www.v2ex.com/t/845945) 
+- [2022-04-09-怎么在-VMWare-上下载-Workstation-Player?](https://www.v2ex.com/t/845944) 
+- [2022-04-09-在-Mac-上有没有-视频编辑软件，尤其是打码（马赛克）好用的，推荐一下，谢谢](https://www.v2ex.com/t/845943) 
+- [2022-04-09-enchilada-如何看电池健康度](https://www.v2ex.com/t/845942) 
+- [2022-04-09-马上毕业了，现在继续卷-Java-是不是有当年-BB-机专业那味了](https://www.v2ex.com/t/845941) 
 - [2022-04-09-谷歌不让-edge-登陆谷歌账号了？](https://www.v2ex.com/t/845940) 
 - [2022-04-09-iPhone-打开-imessage-后收到短信，不亮屏，铃声不响。](https://www.v2ex.com/t/845938) 
 - [2022-04-09-有什么能-屏蔽矿池-或者-监控连接-的项目吗](https://www.v2ex.com/t/845937) 
@@ -41,7 +46,3 @@
 - [2022-04-09-月薪-50-60k-区块链潮流平台技术总监招聘](https://www.v2ex.com/t/845899) 
 - [2022-04-09-杭州/上海/新加坡-20-45K-顶级区块链基金-Paradigm-投资的第一家亚太-NFT-Infra-公司招聘智能合约/后端工程师](https://www.v2ex.com/t/845898) 
 - [2022-04-09-DataGrip-里使用脚本生成数据库](https://www.v2ex.com/t/845897) 
-- [2022-04-09-MacOS-使用-Windows-为知笔记](https://www.v2ex.com/t/845894) 
-- [2022-04-09-开源-Rust-写的-Windows-文件管理器-3D-文件缩略图插件](https://www.v2ex.com/t/845893) 
-- [2022-04-09-如何快速向文件中写入-1-亿个-ip？](https://www.v2ex.com/t/845892) 
-- [2022-04-09-Python-绘图的时候像这个图里面的两个竖线之间的双箭头是怎么加的？](https://www.v2ex.com/t/845891) 

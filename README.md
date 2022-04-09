@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-04-09 13:20:15，:rocket: 更新条数: +2022， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-04-09 13:40:24，:rocket: 更新条数: +2023， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,11 @@
 </summary>
 
 
+- [2022-04-09-开启-clash-for-windows-关机时微信不会退出-windows-登录](https://www.v2ex.com/t/845945) ![](assets/new.png)  
+- [2022-04-09-怎么在-VMWare-上下载-Workstation-Player?](https://www.v2ex.com/t/845944) ![](assets/new.png)  
+- [2022-04-09-在-Mac-上有没有-视频编辑软件，尤其是打码（马赛克）好用的，推荐一下，谢谢](https://www.v2ex.com/t/845943) ![](assets/new.png)  
+- [2022-04-09-enchilada-如何看电池健康度](https://www.v2ex.com/t/845942) ![](assets/new.png)  
+- [2022-04-09-马上毕业了，现在继续卷-Java-是不是有当年-BB-机专业那味了](https://www.v2ex.com/t/845941) ![](assets/new.png)  
 - [2022-04-09-谷歌不让-edge-登陆谷歌账号了？](https://www.v2ex.com/t/845940) ![](assets/new.png)  
 - [2022-04-09-iPhone-打开-imessage-后收到短信，不亮屏，铃声不响。](https://www.v2ex.com/t/845938) ![](assets/new.png)  
 - [2022-04-09-有什么能-屏蔽矿池-或者-监控连接-的项目吗](https://www.v2ex.com/t/845937) ![](assets/new.png)  
@@ -506,11 +511,6 @@
 - [2022-04-09-深圳-外企---电讯盈科-pccw-招聘大量开发-初中高级-数百名](https://www.v2ex.com/t/845925) ![](assets/new.png)  
 - [2022-04-09-联通光猫-2_INTERNET_R_VID-是不是就是公网,会变化吗?](https://www.v2ex.com/t/845924) ![](assets/new.png)  
 - [2022-04-09-重置手机后，微信聊天记录无法完整恢复](https://www.v2ex.com/t/845923) ![](assets/new.png)  
-- [2022-04-09-最近几天有收到官网选配订购的-MacBook-Pro-的吗？](https://www.v2ex.com/t/845920) ![](assets/new.png)  
-- [2022-04-09-天才吧服务真好…](https://www.v2ex.com/t/845919) ![](assets/new.png)  
-- [2022-04-09-老婆所在公司不景气，已经开始说要降薪-50%。各位-V-友，-2022-年转行出路在哪？](https://www.v2ex.com/t/845918) ![](assets/new.png)  
-- [2022-04-09-广东电信-H5-网页测速是否准确](https://www.v2ex.com/t/845917) ![](assets/new.png)  
-- [2022-04-09-pleroma,mastodon-的前端-soapbox,完成度非常高，有興趣的可以看一下](https://www.v2ex.com/t/845916) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -559,16 +559,16 @@
 - [2022-04-09-优质网站同好者周刊（第-60-期）--倾城之链---悠然宜想亭](https://toutiao.io/k/lsj3633) ![](assets/new.png)  
 - [2022-04-09-十分钟搭建实验分布式数据库环境](https://toutiao.io/k/ouiv7ej) ![](assets/new.png)  
 - [2022-04-09-SQL-SELECT-查询语句-用法详解](https://toutiao.io/k/nhw3gsv) ![](assets/new.png)  
-- [2022-04-09-杨尚昂：FlinkSQL在京东实时维度建模中的应用](https://toutiao.io/k/81ouxgp) ![](assets/new.png)  
 - [2022-04-09-2022-最新Java基础常见知识&面试题总结下](https://toutiao.io/k/yz9mbg6) ![](assets/new.png)  
+- [2022-04-09-杨尚昂：FlinkSQL在京东实时维度建模中的应用](https://toutiao.io/k/81ouxgp) ![](assets/new.png)  
 - [2022-04-09-被通知一个月后离职，我改了重要项目里的代码注释](https://toutiao.io/k/tnvopep) ![](assets/new.png)  
 - [2022-04-09-轻量级-Kubernetes-多租户方案的探索与实践](https://toutiao.io/k/f2sn81a) ![](assets/new.png)  
-- [2022-04-09-推荐-盘点-3-月份-yyds-的开源项目](https://toutiao.io/k/79431xa) ![](assets/new.png)  
-- [2022-04-09-推荐-错误码设计思考](https://toutiao.io/k/qas5y3j) ![](assets/new.png)  
 - [2022-04-09-推荐-20多个好用的-Vue-组件库，请查收！](https://toutiao.io/k/sskayyw) ![](assets/new.png)  
 - [2022-04-09-推荐-Kafka-面试连环炮,-看看你能撑到哪一步?](https://toutiao.io/k/z30ehzv) ![](assets/new.png)  
-- [2022-04-09-推荐-写出结构优雅代码的4个技巧](https://toutiao.io/k/6cddvzi) ![](assets/new.png)  
 - [2022-04-09-推荐-万字长文助你上手软件领域驱动设计-DDD](https://toutiao.io/k/72nuj7z) ![](assets/new.png)  
+- [2022-04-09-推荐-盘点-3-月份-yyds-的开源项目](https://toutiao.io/k/79431xa) ![](assets/new.png)  
+- [2022-04-09-推荐-错误码设计思考](https://toutiao.io/k/qas5y3j) ![](assets/new.png)  
+- [2022-04-09-推荐-写出结构优雅代码的4个技巧](https://toutiao.io/k/6cddvzi) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

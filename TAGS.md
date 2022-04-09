@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-04-09 16:54:11。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-04-09 17:14:17。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -242,6 +242,7 @@
 
 - [【武汉肺炎防疫全纪录(财新网)】广州17岁男生在定点医院参加高考-特殊考场视频监考](https://m.caixin.com/m/2021-06-05/101723418.html)
 - [【武汉肺炎防疫全纪录(财新网)】林郑月娥率13高官直播接种科兴疫苗-复星疫苗预计周中到港](https://m.caixin.com/m/2021-02-22/101665724.html)
+- [【V2EX】Video-Roll，一款可旋转网页视频角度的浏览器插件（P-站、B-站用户福利）](https://www.v2ex.com/t/845979)
 - [【V2EX】Chrome-播放-4K-视频老缓冲（带宽够和网速无关）](https://www.v2ex.com/t/845955)
 - [【V2EX】在-Mac-上有没有-视频编辑软件，尤其是打码（马赛克）好用的，推荐一下，谢谢](https://www.v2ex.com/t/845943)
 - [......【查看更多】......](./details/tags/audio-video.md)
@@ -301,7 +302,7 @@
 
 
 
-- [【V2EX】怎么理解-Peterson-算法的特殊情况](https://www.v2ex.com/t/845977)
+- [【V2EX】怎么理解操作系统的-Peterson-算法的特殊情况](https://www.v2ex.com/t/845977)
 - [【V2EX】paddlehub-使用-pyzmq-作为-GPU-服务后台是有什么独特的作用吗?](https://www.v2ex.com/t/845958)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 

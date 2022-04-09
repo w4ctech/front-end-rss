@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-04-09 16:54:11，:rocket: 更新条数: +2019， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-04-09 17:14:17，:rocket: 更新条数: +2019， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,7 +491,9 @@
 </summary>
 
 
-- [2022-04-09-怎么理解-Peterson-算法的特殊情况](https://www.v2ex.com/t/845977) ![](assets/new.png)  
+- [2022-04-09-Video-Roll，一款可旋转网页视频角度的浏览器插件（P-站、B-站用户福利）](https://www.v2ex.com/t/845979) ![](assets/new.png)  
+- [2022-04-09-生产环境-Redis-连接，长时间无响应被服务器断开问题](https://www.v2ex.com/t/845978) ![](assets/new.png)  
+- [2022-04-09-怎么理解操作系统的-Peterson-算法的特殊情况](https://www.v2ex.com/t/845977) ![](assets/new.png)  
 - [2022-04-09-问一个气压传感器和大气压的问题](https://www.v2ex.com/t/845976) ![](assets/new.png)  
 - [2022-04-09-想在多个机器上使用同一个-shell-脚本有什么好建议吗？](https://www.v2ex.com/t/845974) ![](assets/new.png)  
 - [2022-04-09-在-serverless-computing-下，有哪些方向可以给程序员提供服务？这样范式下有什么痛点？](https://www.v2ex.com/t/845971) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-04-09-Chrome-播放-4K-视频老缓冲（带宽够和网速无关）](https://www.v2ex.com/t/845955) ![](assets/new.png)  
 - [2022-04-09-ASP.NET-Core-通过-antiForgery.GetAndStoreTokens-生成的-CSRF-Token-会被存储在服务器上吗？还是随机生成，仅校验是否和请求头相同？对所有-API-请求-verify-...](https://www.v2ex.com/t/845954) ![](assets/new.png)  
 - [2022-04-09-win10-开启启动-Numlock-灯默认是灭的](https://www.v2ex.com/t/845953) ![](assets/new.png)  
-- [2022-04-09-如何测试家里的实际宽带是多少-MB-呢？](https://www.v2ex.com/t/845952) ![](assets/new.png)  
-- [2022-04-09-想请大家帮忙跑一下这个-PHP-文件，看看我们设备差距有多少](https://www.v2ex.com/t/845947) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -563,13 +563,13 @@
 - [2022-04-09-杨尚昂：FlinkSQL在京东实时维度建模中的应用](https://toutiao.io/k/81ouxgp) ![](assets/new.png)  
 - [2022-04-09-被通知一个月后离职，我改了重要项目里的代码注释](https://toutiao.io/k/tnvopep) ![](assets/new.png)  
 - [2022-04-09-轻量级-Kubernetes-多租户方案的探索与实践](https://toutiao.io/k/f2sn81a) ![](assets/new.png)  
-- [2022-04-09-推荐-20多个好用的-Vue-组件库，请查收！](https://toutiao.io/k/sskayyw) ![](assets/new.png)  
-- [2022-04-09-推荐-Kafka-面试连环炮,-看看你能撑到哪一步?](https://toutiao.io/k/z30ehzv) ![](assets/new.png)  
-- [2022-04-09-推荐-谷歌工程最佳实践](https://toutiao.io/k/q19mmjh) ![](assets/new.png)  
-- [2022-04-09-推荐-系统架构的11条原则](https://toutiao.io/k/xbwjqgj) ![](assets/new.png)  
 - [2022-04-09-推荐-盘点-3-月份-yyds-的开源项目](https://toutiao.io/k/79431xa) ![](assets/new.png)  
-- [2022-04-09-推荐-写出结构优雅代码的4个技巧](https://toutiao.io/k/6cddvzi) ![](assets/new.png)  
+- [2022-04-09-推荐-Kafka-面试连环炮,-看看你能撑到哪一步?](https://toutiao.io/k/z30ehzv) ![](assets/new.png)  
 - [2022-04-09-推荐-万字长文助你上手软件领域驱动设计-DDD](https://toutiao.io/k/72nuj7z) ![](assets/new.png)  
+- [2022-04-09-推荐-写出结构优雅代码的4个技巧](https://toutiao.io/k/6cddvzi) ![](assets/new.png)  
+- [2022-04-09-推荐-系统架构的11条原则](https://toutiao.io/k/xbwjqgj) ![](assets/new.png)  
+- [2022-04-09-推荐-20多个好用的-Vue-组件库，请查收！](https://toutiao.io/k/sskayyw) ![](assets/new.png)  
+- [2022-04-09-推荐-谷歌工程最佳实践](https://toutiao.io/k/q19mmjh) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

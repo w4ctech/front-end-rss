@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-04-09 16:17:37。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-04-09 16:54:11。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -301,6 +301,7 @@
 
 
 
+- [【V2EX】怎么理解-Peterson-算法的特殊情况](https://www.v2ex.com/t/845977)
 - [【V2EX】paddlehub-使用-pyzmq-作为-GPU-服务后台是有什么独特的作用吗?](https://www.v2ex.com/t/845958)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 
@@ -352,7 +353,6 @@
 
 
 
-- [【V2EX】深圳-外企---电讯盈科-pccw-招聘大量开发-初中高级-数百名](https://www.v2ex.com/t/845925)
 - [【开发者头条】面试必备：聊聊分布式锁的多种实现！](https://toutiao.io/k/kypk9q4)
 - [【开发者头条】2022-最新Java基础常见知识&面试题总结下](https://toutiao.io/k/yz9mbg6)
 - [【开发者头条】推荐-Kafka-面试连环炮,-看看你能撑到哪一步?](https://toutiao.io/k/z30ehzv)

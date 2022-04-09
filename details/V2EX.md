@@ -1,10 +1,13 @@
-:alarm_clock: 更新时间: 2022-04-09 16:17:37。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-04-09 16:54:11。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-04-09-怎么理解-Peterson-算法的特殊情况](https://www.v2ex.com/t/845977) 
+- [2022-04-09-问一个气压传感器和大气压的问题](https://www.v2ex.com/t/845976) 
+- [2022-04-09-想在多个机器上使用同一个-shell-脚本有什么好建议吗？](https://www.v2ex.com/t/845974) 
 - [2022-04-09-在-serverless-computing-下，有哪些方向可以给程序员提供服务？这样范式下有什么痛点？](https://www.v2ex.com/t/845971) 
 - [2022-04-09-SQL-Style](https://www.v2ex.com/t/845968) 
 - [2022-04-09-为什么前端随便一个-GitHub-400+-star-的-npm-库每周下载量能达到-26-万？](https://www.v2ex.com/t/845967) 
@@ -38,7 +41,3 @@
 - [2022-04-09-知乎也有黑洞了](https://www.v2ex.com/t/845930) 
 - [2022-04-09-macOS-最高-120hz？-HDR-60hz？](https://www.v2ex.com/t/845929) 
 - [2022-04-09-做-验证码（reCaptcha-/-hCaptcha）这类打码平台真的完全没有法律风险吗？](https://www.v2ex.com/t/845928) 
-- [2022-04-09-聚餐吃饭优惠-app，求推荐！](https://www.v2ex.com/t/845927) 
-- [2022-04-09-14-寸-MBP-触控板断触问题](https://www.v2ex.com/t/845926) 
-- [2022-04-09-深圳-外企---电讯盈科-pccw-招聘大量开发-初中高级-数百名](https://www.v2ex.com/t/845925) 
-- [2022-04-09-联通光猫-2_INTERNET_R_VID-是不是就是公网,会变化吗?](https://www.v2ex.com/t/845924) 

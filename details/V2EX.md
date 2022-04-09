@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2022-04-09 15:41:56。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-04-09 16:17:37。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-04-09-在-serverless-computing-下，有哪些方向可以给程序员提供服务？这样范式下有什么痛点？](https://www.v2ex.com/t/845971) 
 - [2022-04-09-SQL-Style](https://www.v2ex.com/t/845968) 
 - [2022-04-09-为什么前端随便一个-GitHub-400+-star-的-npm-库每周下载量能达到-26-万？](https://www.v2ex.com/t/845967) 
 - [2022-04-09-大家的主语言都是什么啊，为什么选择他（她）](https://www.v2ex.com/t/845966) 
@@ -41,5 +42,3 @@
 - [2022-04-09-14-寸-MBP-触控板断触问题](https://www.v2ex.com/t/845926) 
 - [2022-04-09-深圳-外企---电讯盈科-pccw-招聘大量开发-初中高级-数百名](https://www.v2ex.com/t/845925) 
 - [2022-04-09-联通光猫-2_INTERNET_R_VID-是不是就是公网,会变化吗?](https://www.v2ex.com/t/845924) 
-- [2022-04-09-重置手机后，微信聊天记录无法完整恢复](https://www.v2ex.com/t/845923) 
-- [2022-04-09-最近几天有收到官网选配订购的-MacBook-Pro-的吗？](https://www.v2ex.com/t/845920) 

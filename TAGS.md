@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-04-09 09:13:32。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-04-09 09:38:44。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -352,6 +352,7 @@
 
 
 
+- [【V2EX】赴日工程师招聘](https://www.v2ex.com/t/845906)
 - [【V2EX】月薪-50-60k-区块链潮流平台技术总监招聘](https://www.v2ex.com/t/845899)
 - [【V2EX】杭州/上海/新加坡-20-45K-顶级区块链基金-Paradigm-投资的第一家亚太-NFT-Infra-公司招聘智能合约/后端工程师](https://www.v2ex.com/t/845898)
 - [【开发者头条】面试必备：聊聊分布式锁的多种实现！](https://toutiao.io/k/kypk9q4)

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-04-09 05:12:36。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-04-09 05:36:57。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1913,6 +1913,8 @@
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2022-03-21-ascent-override-descent-override-line-gap-override一锅端](https://www.zhangxinxu.com/wordpress/2022/03/css-ascent-override-descent/) 
 - [2022-02-04-HTML-inputmode与iOS-Android软键盘类型测试](https://www.zhangxinxu.com/wordpress/2022/02/html-inputmode-keyboard/) 
+- [2022-04-09-分享一个别人的-blog](https://www.v2ex.com/t/845876) 
+- [2022-04-09-两台服务器，双向同步同一个文件夹，有一个修改，另一个服务器的就会对应修改，保证不会有同时修改，冲突等情况。有什么最简单的方法吗？](https://www.v2ex.com/t/845873) 
 - [2022-04-09-线性变换-Tv1,-v2-=-v1,-v1，的值域与核分别是什么？](https://www.v2ex.com/t/845871) 
 - [2022-04-09-大家应急储备的蔬菜怎么买？](https://www.v2ex.com/t/845870) 
 - [2022-04-09-重庆的-IT-组队啦](https://www.v2ex.com/t/845867) 
@@ -1941,9 +1943,6 @@
 - [2022-04-08-关于-minio-大量小文件超时问题](https://www.v2ex.com/t/845832) 
 - [2022-04-08-Mac/-iPad-/Apple-Watch-似乎可以过滤-iPhone-上被过滤的垃圾短信了](https://www.v2ex.com/t/845828) 
 - [2022-04-08-腾讯公共-ntp-升级了](https://www.v2ex.com/t/845827) 
-- [2022-04-08-🚗-Forbes-2021-Best-Employers-Jerry.ai-继续扩招国内产研团队🌟-100%远程+期权+各种福利补贴](https://www.v2ex.com/t/845826) 
-- [2022-04-08-甲骨文-Arm4+24-没有“始终免费”的标签正常吗](https://www.v2ex.com/t/845825) 
-- [2022-04-08-Apple-Store-维修电脑是否可能涉及数据隐私问题？](https://www.v2ex.com/t/845823) 
 - [2022-04-09-来，咱聊聊接口幂等性设计-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15008&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493770%26amp%3Bidx%3D2%26amp%3Bsn%3Dfec23a16208ef27f1d65e7f9ea3dab12%26amp%3Bchksm%3Dfa3f09d1cd4880c76034a14910af79d65a270e3db86bfd160cf2edb143344a1d628d1f500168%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-04-09-最受程序员欢迎的20本书！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15007&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493749%26amp%3Bidx%3D1%26amp%3Bsn%3D9cf2fa6cbe49a48dcaee073da7d04004%26amp%3Bchksm%3Dfa3f092ecd488038e0ccc5d21961b8968b46257ce41b47a750dd99558544ce102721b6cea078%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-04-09-IDEA中的热部署神器！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15006&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493749%26amp%3Bidx%3D2%26amp%3Bsn%3D784e73396088f749613a0539e530d701%26amp%3Bchksm%3Dfa3f092ecd4880382609a6531ff398e535939afc1e633e6703958e173067f909a31cd42cd002%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1961,7 +1960,7 @@
 - [2022-04-09-用-vscode-写-C/C++-代码](https://toutiao.io/k/e3l7be3) 
 - [2022-04-09-杨尚昂：FlinkSQL在京东实时维度建模中的应用](https://toutiao.io/k/81ouxgp) 
 - [2022-04-09-被通知一个月后离职，我改了重要项目里的代码注释](https://toutiao.io/k/tnvopep) 
-- [2022-04-09-推荐-盘点-3-月份-yyds-的开源项目](https://toutiao.io/k/79431xa) 
-- [2022-04-09-推荐-万字长文助你上手软件领域驱动设计-DDD](https://toutiao.io/k/72nuj7z) 
 - [2022-04-09-推荐-写出结构优雅代码的4个技巧](https://toutiao.io/k/6cddvzi) 
+- [2022-04-09-推荐-万字长文助你上手软件领域驱动设计-DDD](https://toutiao.io/k/72nuj7z) 
 - [2022-04-09-推荐-错误码设计思考](https://toutiao.io/k/qas5y3j) 
+- [2022-04-09-推荐-盘点-3-月份-yyds-的开源项目](https://toutiao.io/k/79431xa) 

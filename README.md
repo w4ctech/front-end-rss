@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-04-09 14:12:41，:rocket: 更新条数: +2022， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-04-09 14:37:20，:rocket: 更新条数: +2021， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,10 @@
 </summary>
 
 
+- [2022-04-09-Chrome-播放-4K-视频老缓冲（带宽够和网速无关）](https://www.v2ex.com/t/845955) ![](assets/new.png)  
+- [2022-04-09-ASP.NET-Core-通过-antiForgery.GetAndStoreTokens-生成的-CSRF-Token-会被存储在服务器上吗？还是随机生成，仅校验是否和请求头相同？对所有-API-请求-verify-...](https://www.v2ex.com/t/845954) ![](assets/new.png)  
+- [2022-04-09-win10-开启启动-Numlock-灯默认是灭的](https://www.v2ex.com/t/845953) ![](assets/new.png)  
+- [2022-04-09-如何测试家里的实际宽带是多少-MB-呢？](https://www.v2ex.com/t/845952) ![](assets/new.png)  
 - [2022-04-09-想请大家帮忙跑一下这个-PHP-文件，看看我们设备差距有多少](https://www.v2ex.com/t/845947) ![](assets/new.png)  
 - [2022-04-09-自己做了一个-app-上架了-apple-store，有几点疑问想请教大佬们](https://www.v2ex.com/t/845946) ![](assets/new.png)  
 - [2022-04-09-开启-clash-for-windows-关机时微信不会退出-windows-登录](https://www.v2ex.com/t/845945) ![](assets/new.png)  
@@ -507,10 +511,6 @@
 - [2022-04-09-身边有同事技术很厉害，能力比较强，但是刺眼](https://www.v2ex.com/t/845931) ![](assets/new.png)  
 - [2022-04-09-知乎也有黑洞了](https://www.v2ex.com/t/845930) ![](assets/new.png)  
 - [2022-04-09-macOS-最高-120hz？-HDR-60hz？](https://www.v2ex.com/t/845929) ![](assets/new.png)  
-- [2022-04-09-做-验证码（reCaptcha-/-hCaptcha）这类打码平台真的完全没有法律风险吗？](https://www.v2ex.com/t/845928) ![](assets/new.png)  
-- [2022-04-09-聚餐吃饭优惠-app，求推荐！](https://www.v2ex.com/t/845927) ![](assets/new.png)  
-- [2022-04-09-14-寸-MBP-触控板断触问题](https://www.v2ex.com/t/845926) ![](assets/new.png)  
-- [2022-04-09-深圳-外企---电讯盈科-pccw-招聘大量开发-初中高级-数百名](https://www.v2ex.com/t/845925) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -563,11 +563,11 @@
 - [2022-04-09-杨尚昂：FlinkSQL在京东实时维度建模中的应用](https://toutiao.io/k/81ouxgp) ![](assets/new.png)  
 - [2022-04-09-被通知一个月后离职，我改了重要项目里的代码注释](https://toutiao.io/k/tnvopep) ![](assets/new.png)  
 - [2022-04-09-轻量级-Kubernetes-多租户方案的探索与实践](https://toutiao.io/k/f2sn81a) ![](assets/new.png)  
-- [2022-04-09-推荐-万字长文助你上手软件领域驱动设计-DDD](https://toutiao.io/k/72nuj7z) ![](assets/new.png)  
-- [2022-04-09-推荐-盘点-3-月份-yyds-的开源项目](https://toutiao.io/k/79431xa) ![](assets/new.png)  
-- [2022-04-09-推荐-错误码设计思考](https://toutiao.io/k/qas5y3j) ![](assets/new.png)  
 - [2022-04-09-推荐-Kafka-面试连环炮,-看看你能撑到哪一步?](https://toutiao.io/k/z30ehzv) ![](assets/new.png)  
+- [2022-04-09-推荐-万字长文助你上手软件领域驱动设计-DDD](https://toutiao.io/k/72nuj7z) ![](assets/new.png)  
 - [2022-04-09-推荐-20多个好用的-Vue-组件库，请查收！](https://toutiao.io/k/sskayyw) ![](assets/new.png)  
+- [2022-04-09-推荐-错误码设计思考](https://toutiao.io/k/qas5y3j) ![](assets/new.png)  
+- [2022-04-09-推荐-盘点-3-月份-yyds-的开源项目](https://toutiao.io/k/79431xa) ![](assets/new.png)  
 - [2022-04-09-推荐-写出结构优雅代码的4个技巧](https://toutiao.io/k/6cddvzi) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

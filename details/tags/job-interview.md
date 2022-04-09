@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-04-09 14:37:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-04-09 15:13:42。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -8,7 +8,6 @@
 
 
 - [2022-04-09-深圳-外企---电讯盈科-pccw-招聘大量开发-初中高级-数百名](https://www.v2ex.com/t/845925) 
-- [2022-04-09-赴日工程师招聘](https://www.v2ex.com/t/845906) 
 - [2022-04-09-面试必备：聊聊分布式锁的多种实现！](https://toutiao.io/k/kypk9q4) 
 - [2022-04-09-2022-最新Java基础常见知识&面试题总结下](https://toutiao.io/k/yz9mbg6) 
 - [2022-04-09-推荐-Kafka-面试连环炮,-看看你能撑到哪一步?](https://toutiao.io/k/z30ehzv) 

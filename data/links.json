@@ -9953,6 +9953,21 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "Java 有什么非业务性的工作吗？",
+        "link": "https://www.v2ex.com/t/845862",
+        "date": "2022-04-09"
+      },
+      {
+        "title": "求推荐 84 键键盘，红轴，有线/无线皆可",
+        "link": "https://www.v2ex.com/t/845859",
+        "date": "2022-04-09"
+      },
+      {
+        "title": "有没有类似 txt2re 的网站",
+        "link": "https://www.v2ex.com/t/845858",
+        "date": "2022-04-09"
+      },
+      {
         "title": "有没有什么 APP 能将骑行的所有轨迹汇集到一张地图上？",
         "link": "https://www.v2ex.com/t/845856",
         "date": "2022-04-09"
@@ -10136,31 +10151,6 @@
         "title": "[广州][汇丰银行] Python 开发工程师 14 薪",
         "link": "https://www.v2ex.com/t/845813",
         "date": "2022-04-08"
-      },
-      {
-        "title": "你们给 HomePod mini 买 AppleCare 了吗",
-        "link": "https://www.v2ex.com/t/845812",
-        "date": "2022-04-08"
-      },
-      {
-        "title": "这 VSCode 的麦克风权限提醒就很迷",
-        "link": "https://www.v2ex.com/t/845811",
-        "date": "2022-04-08"
-      },
-      {
-        "title": "限制 ip 地址追踪，这个功能能用快捷指令实现吗",
-        "link": "https://www.v2ex.com/t/845810",
-        "date": "2022-04-08"
-      },
-      {
-        "title": "osu! / Arcaea 音游有什么能用的全 / 半自动化制谱器吗？",
-        "link": "https://www.v2ex.com/t/845809",
-        "date": "2022-04-08"
-      },
-      {
-        "title": "Notion 有没有办法新增页面时默认全宽？",
-        "link": "https://www.v2ex.com/t/845808",
-        "date": "2022-04-08"
       }
     ]
   },
@@ -10292,23 +10282,33 @@
         "date": "2022-04-09"
       },
       {
-        "title": "被通知一个月后离职，我改了重要项目里的代码注释",
-        "link": "https://toutiao.io/k/tnvopep",
-        "date": "2022-04-09"
-      },
-      {
         "title": "面试必备：聊聊分布式锁的多种实现！",
         "link": "https://toutiao.io/k/kypk9q4",
         "date": "2022-04-09"
       },
       {
-        "title": "[推荐] 错误码设计思考",
-        "link": "https://toutiao.io/k/qas5y3j",
+        "title": "被通知一个月后离职，我改了重要项目里的代码注释",
+        "link": "https://toutiao.io/k/tnvopep",
+        "date": "2022-04-09"
+      },
+      {
+        "title": "[推荐] 万字长文助你上手软件领域驱动设计 DDD",
+        "link": "https://toutiao.io/k/72nuj7z",
+        "date": "2022-04-09"
+      },
+      {
+        "title": "[推荐] 盘点 3 月份 yyds 的开源项目",
+        "link": "https://toutiao.io/k/79431xa",
         "date": "2022-04-09"
       },
       {
         "title": "[推荐] Kafka 面试连环炮, 看看你能撑到哪一步?",
         "link": "https://toutiao.io/k/z30ehzv",
+        "date": "2022-04-09"
+      },
+      {
+        "title": "[推荐] 错误码设计思考",
+        "link": "https://toutiao.io/k/qas5y3j",
         "date": "2022-04-09"
       },
       {
@@ -10319,16 +10319,6 @@
       {
         "title": "[推荐] 写出结构优雅代码的4个技巧",
         "link": "https://toutiao.io/k/6cddvzi",
-        "date": "2022-04-09"
-      },
-      {
-        "title": "[推荐] 盘点 3 月份 yyds 的开源项目",
-        "link": "https://toutiao.io/k/79431xa",
-        "date": "2022-04-09"
-      },
-      {
-        "title": "[推荐] 万字长文助你上手软件领域驱动设计 DDD",
-        "link": "https://toutiao.io/k/72nuj7z",
         "date": "2022-04-09"
       }
     ]

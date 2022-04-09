@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-04-09 22:39:34。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-04-09 23:03:17。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1959,7 +1959,7 @@
 - [2022-04-09-被通知一个月后离职，我改了重要项目里的代码注释](https://toutiao.io/k/tnvopep) 
 - [2022-04-09-轻量级-Kubernetes-多租户方案的探索与实践](https://toutiao.io/k/f2sn81a) 
 - [2022-04-09-推荐-谷歌工程最佳实践](https://toutiao.io/k/q19mmjh) 
-- [2022-04-09-推荐-写出结构优雅代码的4个技巧](https://toutiao.io/k/6cddvzi) 
 - [2022-04-09-推荐-盘点-3-月份-yyds-的开源项目](https://toutiao.io/k/79431xa) 
-- [2022-04-09-推荐-系统架构的11条原则](https://toutiao.io/k/xbwjqgj) 
 - [2022-04-09-推荐-万字长文助你上手软件领域驱动设计-DDD](https://toutiao.io/k/72nuj7z) 
+- [2022-04-09-推荐-写出结构优雅代码的4个技巧](https://toutiao.io/k/6cddvzi) 
+- [2022-04-09-推荐-系统架构的11条原则](https://toutiao.io/k/xbwjqgj) 

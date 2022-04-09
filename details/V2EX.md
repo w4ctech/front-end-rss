@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-04-09 20:14:50。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-04-09 20:39:34。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
@@ -40,4 +40,3 @@
 - [2022-04-09-开启-clash-for-windows-关机时微信不会退出-windows-登录](https://www.v2ex.com/t/845945) 
 - [2022-04-09-怎么在-VMWare-上下载-Workstation-Player?](https://www.v2ex.com/t/845944) 
 - [2022-04-09-在-Mac-上有没有-视频编辑软件，尤其是打码（马赛克）好用的，推荐一下，谢谢](https://www.v2ex.com/t/845943) 
-- [2022-04-09-enchilada-如何看电池健康度](https://www.v2ex.com/t/845942) 

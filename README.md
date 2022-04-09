@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-04-09 00:52:48，:rocket: 更新条数: +2015， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-04-09 02:22:55，:rocket: 更新条数: +2019， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,17 @@
 </summary>
 
 
+- [2022-04-09-为什么-Java-的-Long.equals-的方法不能兼容-Integer-呢？](https://www.v2ex.com/t/845846) ![](assets/new.png)  
+- [2022-04-09-iPhone-通话后屏幕无法唤醒问题](https://www.v2ex.com/t/845845) ![](assets/new.png)  
+- [2022-04-09-rtmp-推流问题](https://www.v2ex.com/t/845844) ![](assets/new.png)  
+- [2022-04-09-北京-8-号线回龙观东大街地铁站附近转租](https://www.v2ex.com/t/845843) ![](assets/new.png)  
+- [2022-04-09-求推荐蛋糕品牌](https://www.v2ex.com/t/845842) ![](assets/new.png)  
+- [2022-04-09-现在有没有-21-款-14/16-MBP-第三方氮化镓充电器推荐的](https://www.v2ex.com/t/845841) ![](assets/new.png)  
+- [2022-04-09-udemy-上的课无法截图，是怎么做到的？](https://www.v2ex.com/t/845840) ![](assets/new.png)  
+- [2022-04-09-请教大佬：-mongo4.2-多个事务修改-document-报-WriteConflict](https://www.v2ex.com/t/845839) ![](assets/new.png)  
+- [2022-04-09-从换手机得出的结论，生态构建的重要性](https://www.v2ex.com/t/845838) ![](assets/new.png)  
+- [2022-04-09-Goodnotes-恢复购买不了！付了费没法用啊，什么情况](https://www.v2ex.com/t/845837) ![](assets/new.png)  
+- [2022-04-09-Apple-pencil-2-无法连接，还有没有办法救活](https://www.v2ex.com/t/845836) ![](assets/new.png)  
 - [2022-04-09-有炒币的或者是长期持有的吗](https://www.v2ex.com/t/845835) ![](assets/new.png)  
 - [2022-04-09-是不是只要得到-Gmail-绑定的-SIM-卡手机号就能盗取-Gmail](https://www.v2ex.com/t/845834) ![](assets/new.png)  
 - [2022-04-09-算法工程师的开发环境都是什么样的？](https://www.v2ex.com/t/845833) ![](assets/new.png)  
@@ -500,17 +511,6 @@
 - [2022-04-08-各位你们的游戏宽带还好吗？还有-CN2-吗？](https://www.v2ex.com/t/845829) ![](assets/new.png)  
 - [2022-04-08-Mac/-iPad-/Apple-Watch-似乎可以过滤-iPhone-上被过滤的垃圾短信了](https://www.v2ex.com/t/845828) ![](assets/new.png)  
 - [2022-04-08-腾讯公共-ntp-升级了](https://www.v2ex.com/t/845827) ![](assets/new.png)  
-- [2022-04-08-🚗-Forbes-2021-Best-Employers-Jerry.ai-继续扩招国内产研团队🌟-100%远程+期权+各种福利补贴](https://www.v2ex.com/t/845826) ![](assets/new.png)  
-- [2022-04-08-甲骨文-Arm4+24-没有“始终免费”的标签正常吗](https://www.v2ex.com/t/845825) ![](assets/new.png)  
-- [2022-04-08-Apple-Store-维修电脑是否可能涉及数据隐私问题？](https://www.v2ex.com/t/845823) ![](assets/new.png)  
-- [2022-04-08-该这样理解-联机、脱机、假脱机-吗？](https://www.v2ex.com/t/845820) ![](assets/new.png)  
-- [2022-04-08-請問中國一年四季的蜜柑有哪些，有沒有類似東大蜜柑會的那種圖？](https://www.v2ex.com/t/845819) ![](assets/new.png)  
-- [2022-04-08-Ponstick-无法拨号，求解](https://www.v2ex.com/t/845818) ![](assets/new.png)  
-- [2022-04-08-腾讯云服务器香港等-2-核-2G-200G-大硬盘-1-年-255-孟买-2-年-255-硬盘大小你说了算](https://www.v2ex.com/t/845817) ![](assets/new.png)  
-- [2022-04-08-pyqt5-输出绘图出错-Qt.WindowFlags:-argument-1-has-unexpected-type-'Figure_Canvas'](https://www.v2ex.com/t/845816) ![](assets/new.png)  
-- [2022-04-08-iOS-能实现模拟走路吗？](https://www.v2ex.com/t/845814) ![](assets/new.png)  
-- [2022-04-08-广州汇丰银行-Python-开发工程师-14-薪](https://www.v2ex.com/t/845813) ![](assets/new.png)  
-- [2022-04-08-你们给-HomePod-mini-买-AppleCare-了吗](https://www.v2ex.com/t/845812) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -556,11 +556,13 @@
 - [2022-04-09-开源｜基于-Vue-开发的可视化商城搭建平台](https://toutiao.io/k/48imbcu) ![](assets/new.png)  
 - [2022-04-09-用-vscode-写-C/C++-代码](https://toutiao.io/k/e3l7be3) ![](assets/new.png)  
 - [2022-04-09-杨尚昂：FlinkSQL在京东实时维度建模中的应用](https://toutiao.io/k/81ouxgp) ![](assets/new.png)  
-- [2022-04-09-推荐-盘点-3-月份-yyds-的开源项目](https://toutiao.io/k/79431xa) ![](assets/new.png)  
-- [2022-04-09-推荐-Kafka-面试连环炮,-看看你能撑到哪一步?](https://toutiao.io/k/z30ehzv) ![](assets/new.png)  
-- [2022-04-09-推荐-20多个好用的-Vue-组件库，请查收！](https://toutiao.io/k/sskayyw) ![](assets/new.png)  
+- [2022-04-09-被通知一个月后离职，我改了重要项目里的代码注释](https://toutiao.io/k/tnvopep) ![](assets/new.png)  
+- [2022-04-09-面试必备：聊聊分布式锁的多种实现！](https://toutiao.io/k/kypk9q4) ![](assets/new.png)  
 - [2022-04-09-推荐-万字长文助你上手软件领域驱动设计-DDD](https://toutiao.io/k/72nuj7z) ![](assets/new.png)  
+- [2022-04-09-推荐-盘点-3-月份-yyds-的开源项目](https://toutiao.io/k/79431xa) ![](assets/new.png)  
 - [2022-04-09-推荐-写出结构优雅代码的4个技巧](https://toutiao.io/k/6cddvzi) ![](assets/new.png)  
+- [2022-04-09-推荐-20多个好用的-Vue-组件库，请查收！](https://toutiao.io/k/sskayyw) ![](assets/new.png)  
+- [2022-04-09-推荐-Kafka-面试连环炮,-看看你能撑到哪一步?](https://toutiao.io/k/z30ehzv) ![](assets/new.png)  
 - [2022-04-09-推荐-错误码设计思考](https://toutiao.io/k/qas5y3j) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

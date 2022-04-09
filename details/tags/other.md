@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-04-09 22:13:54。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-04-09 22:39:34。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1913,6 +1913,7 @@
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2022-03-21-ascent-override-descent-override-line-gap-override一锅端](https://www.zhangxinxu.com/wordpress/2022/03/css-ascent-override-descent/) 
 - [2022-02-04-HTML-inputmode与iOS-Android软键盘类型测试](https://www.zhangxinxu.com/wordpress/2022/02/html-inputmode-keyboard/) 
+- [2022-04-09-吐槽拓展坞与显示器的-DDC-功能支持](https://www.v2ex.com/t/845994) 
 - [2022-04-09-Entity-Framework-ORM-框架，获取最近-30-天每日分别的订单数量最佳实践是什么？](https://www.v2ex.com/t/845993) 
 - [2022-04-09-想把博客从-hexo-迁移到-Jekyll-了](https://www.v2ex.com/t/845991) 
 - [2022-04-09-被裁员](https://www.v2ex.com/t/845990) 
@@ -1936,7 +1937,6 @@
 - [2022-04-09-想请大家帮忙跑一下这个-PHP-文件，看看我们设备差距有多少](https://www.v2ex.com/t/845947) 
 - [2022-04-09-自己做了一个-app-上架了-apple-store，有几点疑问想请教大佬们](https://www.v2ex.com/t/845946) 
 - [2022-04-09-开启-clash-for-windows-关机时微信不会退出-windows-登录](https://www.v2ex.com/t/845945) 
-- [2022-04-09-怎么在-VMWare-上下载-Workstation-Player?](https://www.v2ex.com/t/845944) 
 - [2022-04-09-来，咱聊聊接口幂等性设计-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15008&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493770%26amp%3Bidx%3D2%26amp%3Bsn%3Dfec23a16208ef27f1d65e7f9ea3dab12%26amp%3Bchksm%3Dfa3f09d1cd4880c76034a14910af79d65a270e3db86bfd160cf2edb143344a1d628d1f500168%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-04-09-最受程序员欢迎的20本书！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15007&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493749%26amp%3Bidx%3D1%26amp%3Bsn%3D9cf2fa6cbe49a48dcaee073da7d04004%26amp%3Bchksm%3Dfa3f092ecd488038e0ccc5d21961b8968b46257ce41b47a750dd99558544ce102721b6cea078%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-04-09-IDEA中的热部署神器！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15006&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493749%26amp%3Bidx%3D2%26amp%3Bsn%3D784e73396088f749613a0539e530d701%26amp%3Bchksm%3Dfa3f092ecd4880382609a6531ff398e535939afc1e633e6703958e173067f909a31cd42cd002%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1959,7 +1959,7 @@
 - [2022-04-09-被通知一个月后离职，我改了重要项目里的代码注释](https://toutiao.io/k/tnvopep) 
 - [2022-04-09-轻量级-Kubernetes-多租户方案的探索与实践](https://toutiao.io/k/f2sn81a) 
 - [2022-04-09-推荐-谷歌工程最佳实践](https://toutiao.io/k/q19mmjh) 
-- [2022-04-09-推荐-系统架构的11条原则](https://toutiao.io/k/xbwjqgj) 
-- [2022-04-09-推荐-盘点-3-月份-yyds-的开源项目](https://toutiao.io/k/79431xa) 
 - [2022-04-09-推荐-写出结构优雅代码的4个技巧](https://toutiao.io/k/6cddvzi) 
+- [2022-04-09-推荐-盘点-3-月份-yyds-的开源项目](https://toutiao.io/k/79431xa) 
+- [2022-04-09-推荐-系统架构的11条原则](https://toutiao.io/k/xbwjqgj) 
 - [2022-04-09-推荐-万字长文助你上手软件领域驱动设计-DDD](https://toutiao.io/k/72nuj7z) 

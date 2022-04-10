@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-04-10 02:31:10，:rocket: 更新条数: +2018， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-04-10 03:14:10，:rocket: 更新条数: +2019， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,17 @@
 </summary>
 
 
+- [2022-04-10-MySQL-近两三个月莫名其妙停止两次了](https://www.v2ex.com/t/846035) ![](assets/new.png)  
+- [2022-04-10-15.4-的多设备热点是不是有问题](https://www.v2ex.com/t/846034) ![](assets/new.png)  
+- [2022-04-10-face-ID-在非识别期间其部分组件仍在继续工作？](https://www.v2ex.com/t/846032) ![](assets/new.png)  
+- [2022-04-10-atlassian-的服务挂了-4-天了。这故障算什么级别](https://www.v2ex.com/t/846029) ![](assets/new.png)  
+- [2022-04-10-为什么-Netflix-可以用-edge-播放杜比视界但是-B-站不行](https://www.v2ex.com/t/846028) ![](assets/new.png)  
+- [2022-04-10-寻找一个浏览器插件](https://www.v2ex.com/t/846027) ![](assets/new.png)  
+- [2022-04-10-一直想发但是一直犹豫要不要发的可能改变你未来婚姻观的要点事件，《进化心理学》推荐](https://www.v2ex.com/t/846026) ![](assets/new.png)  
+- [2022-04-10-HomePod-总是自动连接到非-5g-频段-wifi，大佬们有办法解决吗？](https://www.v2ex.com/t/846025) ![](assets/new.png)  
+- [2022-04-10-广州/深圳-字节跳动飞书急招前端开发工程师](https://www.v2ex.com/t/846024) ![](assets/new.png)  
+- [2022-04-10-Arch-Linux-图形化简易安装器已被镜像站收录](https://www.v2ex.com/t/846023) ![](assets/new.png)  
+- [2022-04-10-昨晚刚刷到大师王阳明的“知行合一”](https://www.v2ex.com/t/846022) ![](assets/new.png)  
 - [2022-04-10-被福建電信給氣壞了](https://www.v2ex.com/t/846020) ![](assets/new.png)  
 - [2022-04-10-PHP--fpm-服务启动失败，但是手动启动可以？](https://www.v2ex.com/t/846019) ![](assets/new.png)  
 - [2022-04-10-macbook-下默认的终端体验很棒，一直不理解，为啥有人非要安装第三方-ssh-客户端-?](https://www.v2ex.com/t/846018) ![](assets/new.png)  
@@ -500,17 +511,6 @@
 - [2022-04-10-Github-Copilot-新出了一个侧边栏扩展：-Copilot-Labs](https://www.v2ex.com/t/846012) ![](assets/new.png)  
 - [2022-04-10-有没有新西兰读硕士前辈们,想咨询一下问题](https://www.v2ex.com/t/846011) ![](assets/new.png)  
 - [2022-04-10-MacBook-WIFI-的国家／地区代码如何修改？](https://www.v2ex.com/t/846010) ![](assets/new.png)  
-- [2022-04-10-作为程序员，留在美国还是回国？](https://www.v2ex.com/t/846009) ![](assets/new.png)  
-- [2022-04-10-关于-HTML-文件-diff](https://www.v2ex.com/t/846008) ![](assets/new.png)  
-- [2022-04-10-mcbbs-推荐服务器-Bilicraft-国际正版公益服](https://www.v2ex.com/t/846007) ![](assets/new.png)  
-- [2022-04-10-Python-sympy-里面解方程怎么会出现这种情况？要窒息了](https://www.v2ex.com/t/846005) ![](assets/new.png)  
-- [2022-04-10-有没有那种类似于公司里-task-tracker-的-todo-app](https://www.v2ex.com/t/846004) ![](assets/new.png)  
-- [2022-04-10-m1book-和黑苹果-可以兼用-4k144-显示器？](https://www.v2ex.com/t/846002) ![](assets/new.png)  
-- [2022-04-10-FitShare---不运动后开发的一个运动记录分享-App](https://www.v2ex.com/t/846001) ![](assets/new.png)  
-- [2022-04-10-有办法提前勾选盒马团购的菜品吗](https://www.v2ex.com/t/846000) ![](assets/new.png)  
-- [2022-04-10-上海的朋友你们最近的宽带和蜂窝网正常吗？](https://www.v2ex.com/t/845999) ![](assets/new.png)  
-- [2022-04-10-iPhone-和-iPad-的-Safari-阅读列表如果才能同步？](https://www.v2ex.com/t/845998) ![](assets/new.png)  
-- [2022-04-10-小区垃圾转运车-工作时间有法律法规规定吗](https://www.v2ex.com/t/845997) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -557,17 +557,17 @@
 - [2022-04-10-网络通信知识地图](https://toutiao.io/k/fslhlae) ![](assets/new.png)  
 - [2022-04-10-周末过得太快？别荒废啦！](https://toutiao.io/k/1cnkpb7) ![](assets/new.png)  
 - [2022-04-10-用-VSCode-写-Python，这-14-个插件不容错过！](https://toutiao.io/k/8pgeisj) ![](assets/new.png)  
-- [2022-04-10-舍-bpftrace-而取-systemtap-的代价和思考](https://toutiao.io/k/9euqf9u) ![](assets/new.png)  
 - [2022-04-10-用python做一个文本翻译器，自动将中文翻译成英文，超方便的！](https://toutiao.io/k/gcxxbfj) ![](assets/new.png)  
+- [2022-04-10-舍-bpftrace-而取-systemtap-的代价和思考](https://toutiao.io/k/9euqf9u) ![](assets/new.png)  
 - [2022-04-10-一个很简单理解的轻量级状态管理](https://toutiao.io/k/bfrxgt9) ![](assets/new.png)  
 - [2022-04-10-Presto在字节跳动的内部实践与优化（一）](https://toutiao.io/k/joy52li) ![](assets/new.png)  
 - [2022-04-10-推荐-Kafka-面试连环炮,-看看你能撑到哪一步?](https://toutiao.io/k/z30ehzv) ![](assets/new.png)  
-- [2022-04-10-推荐-盘点-3-月份-yyds-的开源项目](https://toutiao.io/k/79431xa) ![](assets/new.png)  
-- [2022-04-10-推荐-20多个好用的-Vue-组件库，请查收！](https://toutiao.io/k/sskayyw) ![](assets/new.png)  
-- [2022-04-10-推荐-万字长文助你上手软件领域驱动设计-DDD](https://toutiao.io/k/72nuj7z) ![](assets/new.png)  
 - [2022-04-10-推荐-写出结构优雅代码的4个技巧](https://toutiao.io/k/6cddvzi) ![](assets/new.png)  
+- [2022-04-10-推荐-万字长文助你上手软件领域驱动设计-DDD](https://toutiao.io/k/72nuj7z) ![](assets/new.png)  
+- [2022-04-10-推荐-盘点-3-月份-yyds-的开源项目](https://toutiao.io/k/79431xa) ![](assets/new.png)  
 - [2022-04-10-推荐-谷歌工程最佳实践](https://toutiao.io/k/q19mmjh) ![](assets/new.png)  
 - [2022-04-10-推荐-系统架构的11条原则](https://toutiao.io/k/xbwjqgj) ![](assets/new.png)  
+- [2022-04-10-推荐-20多个好用的-Vue-组件库，请查收！](https://toutiao.io/k/sskayyw) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2022-04-10 18:16:49。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-04-10 18:44:34。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-04-10-求推荐一款-mysql-自动化备份的软件](https://www.v2ex.com/t/846167) 
 - [2022-04-10-张大妈搜索-master3-349-下单了](https://www.v2ex.com/t/846166) 
 - [2022-04-10-位于国内的云主机是否能直接通过-ip-访问-web？](https://www.v2ex.com/t/846165) 
 - [2022-04-10-绷不住了，折腾了一晚上的-xrdp，竟然没有折腾成功](https://www.v2ex.com/t/846163) 
@@ -45,5 +46,3 @@
 - [2022-04-10-上海川沙这边近段时间疫情之下，叫到-120-的概率大不大？媳妇儿还有-14-天就预产期了，关键是我们没车](https://www.v2ex.com/t/846121) 
 - [2022-04-10-create-react-app-如何锁定-react-版本为-17-？](https://www.v2ex.com/t/846120) 
 - [2022-04-10-Typora-的代码格式选什么语言可以适配-http-client（如-kibana）请求格式高亮？](https://www.v2ex.com/t/846119) 
-- [2022-04-10-mo.fish-证书过期了](https://www.v2ex.com/t/846118) 
-- [2022-04-10-privacy-badger-和-ghostery-这个插件怎样？](https://www.v2ex.com/t/846117) 

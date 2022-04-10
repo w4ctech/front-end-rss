@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-04-10 20:13:46。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-04-10 20:39:18。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -16,6 +16,5 @@
 - [2022-03-15-基于howler.js写了个音频播放器组件](https://www.zhangxinxu.com/wordpress/2022/03/howler-js-audio-player/) 
 - [2022-03-07-介绍8个和滚动相关的CSS属性](https://www.zhangxinxu.com/wordpress/2022/03/10-css-scroll-scrollbar/) 
 - [2022-04-10-有没支持-openwrt-的小路由-放置弱电箱](https://www.v2ex.com/t/846129) 
-- [2022-04-10-Typora-的代码格式选什么语言可以适配-http-client（如-kibana）请求格式高亮？](https://www.v2ex.com/t/846119) 
 - [2022-04-10-使用jscodeshift做自动化重构-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15004&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fjscodeshift%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-04-10-【总结】--从-0-到-1-上手-Web-Components-业务组件库开发](https://toutiao.io/k/lst8kkc) 

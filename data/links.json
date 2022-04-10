@@ -9953,6 +9953,16 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "有没支持 openwrt 的小路由 放置弱电箱",
+        "link": "https://www.v2ex.com/t/846129",
+        "date": "2022-04-10"
+      },
+      {
+        "title": "使用了 sync 的 map 在做自增操作的时候还有必要上锁吗",
+        "link": "https://www.v2ex.com/t/846128",
+        "date": "2022-04-10"
+      },
+      {
         "title": "Mac 外接显示器，如何能让 Mac 盒盖时休眠？",
         "link": "https://www.v2ex.com/t/846127",
         "date": "2022-04-10"
@@ -10111,11 +10121,6 @@
         "title": "长沙现在开发怎么样？容易找吗？",
         "link": "https://www.v2ex.com/t/846080",
         "date": "2022-04-10"
-      },
-      {
-        "title": "把光猫搞成一个下载服务器",
-        "link": "https://www.v2ex.com/t/846078",
-        "date": "2022-04-10"
       }
     ]
   },
@@ -10124,6 +10129,41 @@
     "title": "技术头条",
     "link": "http://blogread.cn/news/newest.php",
     "items": [
+      {
+        "title": "人手必备的常用网络命令合集，吐血整理！ (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=15017&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493888%26amp%3Bidx%3D1%26amp%3Bsn%3D70d3506be895b9f146066d56dfae8b69%26amp%3Bchksm%3Dfa3f085bcd48814dbddbd6eddf6584cd9d9ebb768b37f25529371a625c4d09114bf9e2ea6fba%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2022-04-10"
+      },
+      {
+        "title": "Java必会的工具库，让你的代码量减少90% (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=15016&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493888%26amp%3Bidx%3D2%26amp%3Bsn%3D9f50338e5145bdd585e908e36aa7517d%26amp%3Bchksm%3Dfa3f085bcd48814d7386eb6707d907d58fa0313c300b3f73937f51525a7fc10671193f1557e2%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2022-04-10"
+      },
+      {
+        "title": "技术主管和项目经理一定要读的6本书！ (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=15015&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493887%26amp%3Bidx%3D1%26amp%3Bsn%3D1a13135d359785dd3c15d90dfaeb95e5%26amp%3Bchksm%3Dfa3f09a4cd4880b2c74c7b234fbfc6033b05283324ce3421d8c7ae3fdbb5039b9a2873874bc5%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2022-04-10"
+      },
+      {
+        "title": "你还在new对象吗？Java8通用Builder了解一下 (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=15014&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493887%26amp%3Bidx%3D2%26amp%3Bsn%3Db839d751774d9953d0ddc71bc2862211%26amp%3Bchksm%3Dfa3f09a4cd4880b2d6780cf763e119f07c8f4fce913ad66b97bf0b0f4b5b3d34a102fa9531c3%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2022-04-10"
+      },
+      {
+        "title": "这款网络排查工具，堪称神器！ (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=15013&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493797%26amp%3Bidx%3D1%26amp%3Bsn%3D7356bd84df9977ad3781b336c0b2e8b6%26amp%3Bchksm%3Dfa3f09fecd4880e83b060001a939ad5633e82987f70d23ddacc86b445f6e56c1626be7f359c0%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2022-04-10"
+      },
+      {
+        "title": "52条SQL语句性能优化策略，建议收藏！ (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=15012&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493797%26amp%3Bidx%3D2%26amp%3Bsn%3D1dbc093793d9085034fa0c1297ab3aae%26amp%3Bchksm%3Dfa3f09fecd4880e89d1057391f9081c6370469beba67bf10415a1873130220d3e669066eea75%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2022-04-10"
+      },
+      {
+        "title": "成为糟糕开发者的5个建议！ (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=15011&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493786%26amp%3Bidx%3D1%26amp%3Bsn%3De4fafcc3e37d4def755e48013e67a524%26amp%3Bchksm%3Dfa3f09c1cd4880d7101d28a7953abb6778745cedbb626446dfea739e302a3101f15c9f967e9d%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2022-04-10"
+      },
       {
         "title": "一名Vue程序员总结的React基础 (mp.weixin.qq.com)",
         "link": "https://blogread.cn/news/go.php?idItem=15010&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493786%26amp%3Bidx%3D2%26amp%3Bsn%3Dcb1b397c4dcef56609f8264b0ed005be%26amp%3Bchksm%3Dfa3f09c1cd4880d7da50685a77a5b5df2be61af93e6f16517cd26d86ebdade7cc4703d8abf43%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
@@ -10188,41 +10228,6 @@
         "title": "鸿蒙操作系统入门到精通.pdf (mp.weixin.qq.com)",
         "link": "https://blogread.cn/news/go.php?idItem=14998&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493725%26amp%3Bidx%3D1%26amp%3Bsn%3D283c8d140a5127b03b78fb8053caed47%26amp%3Bchksm%3Dfa3f0906cd48801052e04a3f41acddffa509de80ee27568601cdd8e9f25ce851c2dba414c6ae%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
         "date": "2022-04-10"
-      },
-      {
-        "title": "推荐一款基于SpringBoot的接口快速开发框架 (mp.weixin.qq.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=14997&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493725%26amp%3Bidx%3D2%26amp%3Bsn%3D36bbc4382922868ca50192504647e21a%26amp%3Bchksm%3Dfa3f0906cd48801013f7ab58a59beaeb85992be7951d0945adbc04475bcfc36c5edf40ec2134%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-04-10"
-      },
-      {
-        "title": "摸清Git的门路，这22张图足够了！ (mp.weixin.qq.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=14996&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493724%26amp%3Bidx%3D1%26amp%3Bsn%3D928c38cdf03d711eaded4b5298346bdc%26amp%3Bchksm%3Dfa3f0907cd488011853f7bb16826a86e24c1bb4ad616e27fc535f3bb5fbe8709949518e2947c%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-04-10"
-      },
-      {
-        "title": "MySQL中的反斜杠，真是太坑了！！ (mp.weixin.qq.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=14995&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493724%26amp%3Bidx%3D2%26amp%3Bsn%3D2f0b411443f1ad0b2fa94892f139c93d%26amp%3Bchksm%3Dfa3f0907cd488011e1c1647a946bb1f92ab20bc1797ce4447ae3fe32408a3158ba75bbdce2de%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-04-10"
-      },
-      {
-        "title": "搜索引擎优化（SEO）之整合重复网址 (forum.lovejade.cn)",
-        "link": "https://blogread.cn/news/go.php?idItem=14994&url=https%3A%2F%2Fforum.lovejade.cn%2Fd%2F147-seo%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-04-10"
-      },
-      {
-        "title": "优质网站同好者周刊（第 58 期）- 倾城之链 (forum.lovejade.cn)",
-        "link": "https://blogread.cn/news/go.php?idItem=14993&url=https%3A%2F%2Fforum.lovejade.cn%2Fd%2F160-58%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-04-10"
-      },
-      {
-        "title": "这5个程序员，改变了世界！ (mp.weixin.qq.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=14992&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493723%26amp%3Bidx%3D1%26amp%3Bsn%3D43d57de511d048767995c9025ef6d175%26amp%3Bchksm%3Dfa3f0900cd4880163e7ad7d0c55932ebacf9c6a310f9a557ca970b9a077e0545ae04d8badab5%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-04-10"
-      },
-      {
-        "title": "Java9到16新特性总结大全！ (mp.weixin.qq.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=14991&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493723%26amp%3Bidx%3D2%26amp%3Bsn%3D14661c6ba2597a1334317329f5453fe1%26amp%3Bchksm%3Dfa3f0900cd488016ab3b062237ad6aea30740d088182a3c54746d7334310349e035f0f69b17f%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-04-10"
       }
     ]
   },
@@ -10282,23 +10287,13 @@
         "date": "2022-04-10"
       },
       {
+        "title": "[推荐] 20多个好用的 Vue 组件库，请查收！",
+        "link": "https://toutiao.io/k/sskayyw",
+        "date": "2022-04-10"
+      },
+      {
         "title": "[推荐] 盘点 3 月份 yyds 的开源项目",
         "link": "https://toutiao.io/k/79431xa",
-        "date": "2022-04-10"
-      },
-      {
-        "title": "[推荐] 写出结构优雅代码的4个技巧",
-        "link": "https://toutiao.io/k/6cddvzi",
-        "date": "2022-04-10"
-      },
-      {
-        "title": "[推荐] 谷歌工程最佳实践",
-        "link": "https://toutiao.io/k/q19mmjh",
-        "date": "2022-04-10"
-      },
-      {
-        "title": "[推荐] Kafka 面试连环炮, 看看你能撑到哪一步?",
-        "link": "https://toutiao.io/k/z30ehzv",
         "date": "2022-04-10"
       },
       {
@@ -10307,13 +10302,23 @@
         "date": "2022-04-10"
       },
       {
-        "title": "[推荐] 系统架构的11条原则",
-        "link": "https://toutiao.io/k/xbwjqgj",
+        "title": "[推荐] 谷歌工程最佳实践",
+        "link": "https://toutiao.io/k/q19mmjh",
         "date": "2022-04-10"
       },
       {
-        "title": "[推荐] 20多个好用的 Vue 组件库，请查收！",
-        "link": "https://toutiao.io/k/sskayyw",
+        "title": "[推荐] 写出结构优雅代码的4个技巧",
+        "link": "https://toutiao.io/k/6cddvzi",
+        "date": "2022-04-10"
+      },
+      {
+        "title": "[推荐] Kafka 面试连环炮, 看看你能撑到哪一步?",
+        "link": "https://toutiao.io/k/z30ehzv",
+        "date": "2022-04-10"
+      },
+      {
+        "title": "[推荐] 系统架构的11条原则",
+        "link": "https://toutiao.io/k/xbwjqgj",
         "date": "2022-04-10"
       }
     ]

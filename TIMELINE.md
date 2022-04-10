@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-04-10 12:57:36。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-04-10 13:20:37。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,8 @@
 </summary>
 
 
+- [【V2EX】2022-04-10-有没支持-openwrt-的小路由-放置弱电箱](https://www.v2ex.com/t/846129) 
+- [【V2EX】2022-04-10-使用了-sync-的-map-在做自增操作的时候还有必要上锁吗](https://www.v2ex.com/t/846128) 
 - [【V2EX】2022-04-10-Mac-外接显示器，如何能让-Mac-盒盖时休眠？](https://www.v2ex.com/t/846127) 
 - [【V2EX】2022-04-10-前端新手想问下-React-最能打的组合是什么？](https://www.v2ex.com/t/846126) 
 - [【V2EX】2022-04-10-Testflight-发布测试版本，内部测试用户无法安装](https://www.v2ex.com/t/846125) 
@@ -100,7 +102,13 @@
 - [【V2EX】2022-04-10-macOS-历史版本壁纸，从-El-Capitan-10.11-到-Monterey-12](https://www.v2ex.com/t/846082) 
 - [【V2EX】2022-04-10-网件-r6300v2-刷梅林问题](https://www.v2ex.com/t/846081) 
 - [【V2EX】2022-04-10-长沙现在开发怎么样？容易找吗？](https://www.v2ex.com/t/846080) 
-- [【V2EX】2022-04-10-把光猫搞成一个下载服务器](https://www.v2ex.com/t/846078) 
+- [【技术头条】2022-04-10-人手必备的常用网络命令合集，吐血整理！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15017&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493888%26amp%3Bidx%3D1%26amp%3Bsn%3D70d3506be895b9f146066d56dfae8b69%26amp%3Bchksm%3Dfa3f085bcd48814dbddbd6eddf6584cd9d9ebb768b37f25529371a625c4d09114bf9e2ea6fba%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [【技术头条】2022-04-10-Java必会的工具库，让你的代码量减少90%-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15016&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493888%26amp%3Bidx%3D2%26amp%3Bsn%3D9f50338e5145bdd585e908e36aa7517d%26amp%3Bchksm%3Dfa3f085bcd48814d7386eb6707d907d58fa0313c300b3f73937f51525a7fc10671193f1557e2%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [【技术头条】2022-04-10-技术主管和项目经理一定要读的6本书！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15015&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493887%26amp%3Bidx%3D1%26amp%3Bsn%3D1a13135d359785dd3c15d90dfaeb95e5%26amp%3Bchksm%3Dfa3f09a4cd4880b2c74c7b234fbfc6033b05283324ce3421d8c7ae3fdbb5039b9a2873874bc5%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [【技术头条】2022-04-10-你还在new对象吗？Java8通用Builder了解一下-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15014&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493887%26amp%3Bidx%3D2%26amp%3Bsn%3Db839d751774d9953d0ddc71bc2862211%26amp%3Bchksm%3Dfa3f09a4cd4880b2d6780cf763e119f07c8f4fce913ad66b97bf0b0f4b5b3d34a102fa9531c3%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [【技术头条】2022-04-10-这款网络排查工具，堪称神器！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15013&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493797%26amp%3Bidx%3D1%26amp%3Bsn%3D7356bd84df9977ad3781b336c0b2e8b6%26amp%3Bchksm%3Dfa3f09fecd4880e83b060001a939ad5633e82987f70d23ddacc86b445f6e56c1626be7f359c0%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [【技术头条】2022-04-10-52条SQL语句性能优化策略，建议收藏！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15012&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493797%26amp%3Bidx%3D2%26amp%3Bsn%3D1dbc093793d9085034fa0c1297ab3aae%26amp%3Bchksm%3Dfa3f09fecd4880e89d1057391f9081c6370469beba67bf10415a1873130220d3e669066eea75%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [【技术头条】2022-04-10-成为糟糕开发者的5个建议！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15011&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493786%26amp%3Bidx%3D1%26amp%3Bsn%3De4fafcc3e37d4def755e48013e67a524%26amp%3Bchksm%3Dfa3f09c1cd4880d7101d28a7953abb6778745cedbb626446dfea739e302a3101f15c9f967e9d%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-04-10-一名Vue程序员总结的React基础-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15010&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493786%26amp%3Bidx%3D2%26amp%3Bsn%3Dcb1b397c4dcef56609f8264b0ed005be%26amp%3Bchksm%3Dfa3f09c1cd4880d7da50685a77a5b5df2be61af93e6f16517cd26d86ebdade7cc4703d8abf43%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-04-10-H5小程序直播教程，一看就会！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15009&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493770%26amp%3Bidx%3D1%26amp%3Bsn%3D99961a9d794b403ca1d23e2818773bd4%26amp%3Bchksm%3Dfa3f09d1cd4880c7959f39950198bb945ea34593761e3ea104e4318e4e0c57d509c1b813358b%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-04-10-来，咱聊聊接口幂等性设计-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15008&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493770%26amp%3Bidx%3D2%26amp%3Bsn%3Dfec23a16208ef27f1d65e7f9ea3dab12%26amp%3Bchksm%3Dfa3f09d1cd4880c76034a14910af79d65a270e3db86bfd160cf2edb143344a1d628d1f500168%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -114,13 +122,6 @@
 - [【技术头条】2022-04-10-iOS15内置原生壁纸下载-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15000&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493737%26amp%3Bidx%3D1%26amp%3Bsn%3D28fbb298fdbc003e6f95b7cb65ba1b1f%26amp%3Bchksm%3Dfa3f0932cd4880242c12870799f254aee7af16d7107571d6bcc8430af1950331d7d1bc51129a%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-04-10-Git这样回退代码，才足够优雅-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14999&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493737%26amp%3Bidx%3D2%26amp%3Bsn%3D7c34527cb2db4d99314ced0278bd6f25%26amp%3Bchksm%3Dfa3f0932cd488024bc8143699bc413de354ff8c52e8a96b463048843ea33a922064acc49fc0a%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-04-10-鸿蒙操作系统入门到精通.pdf-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14998&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493725%26amp%3Bidx%3D1%26amp%3Bsn%3D283c8d140a5127b03b78fb8053caed47%26amp%3Bchksm%3Dfa3f0906cd48801052e04a3f41acddffa509de80ee27568601cdd8e9f25ce851c2dba414c6ae%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
-- [【技术头条】2022-04-10-推荐一款基于SpringBoot的接口快速开发框架-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14997&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493725%26amp%3Bidx%3D2%26amp%3Bsn%3D36bbc4382922868ca50192504647e21a%26amp%3Bchksm%3Dfa3f0906cd48801013f7ab58a59beaeb85992be7951d0945adbc04475bcfc36c5edf40ec2134%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
-- [【技术头条】2022-04-10-摸清Git的门路，这22张图足够了！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14996&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493724%26amp%3Bidx%3D1%26amp%3Bsn%3D928c38cdf03d711eaded4b5298346bdc%26amp%3Bchksm%3Dfa3f0907cd488011853f7bb16826a86e24c1bb4ad616e27fc535f3bb5fbe8709949518e2947c%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
-- [【技术头条】2022-04-10-MySQL中的反斜杠，真是太坑了！！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14995&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493724%26amp%3Bidx%3D2%26amp%3Bsn%3D2f0b411443f1ad0b2fa94892f139c93d%26amp%3Bchksm%3Dfa3f0907cd488011e1c1647a946bb1f92ab20bc1797ce4447ae3fe32408a3158ba75bbdce2de%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
-- [【技术头条】2022-04-10-搜索引擎优化（SEO）之整合重复网址-forum.lovejade.cn](https://blogread.cn/news/go.php?idItem=14994&url=https%3A%2F%2Fforum.lovejade.cn%2Fd%2F147-seo%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
-- [【技术头条】2022-04-10-优质网站同好者周刊（第-58-期）--倾城之链-forum.lovejade.cn](https://blogread.cn/news/go.php?idItem=14993&url=https%3A%2F%2Fforum.lovejade.cn%2Fd%2F160-58%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
-- [【技术头条】2022-04-10-这5个程序员，改变了世界！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14992&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493723%26amp%3Bidx%3D1%26amp%3Bsn%3D43d57de511d048767995c9025ef6d175%26amp%3Bchksm%3Dfa3f0900cd4880163e7ad7d0c55932ebacf9c6a310f9a557ca970b9a077e0545ae04d8badab5%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
-- [【技术头条】2022-04-10-Java9到16新特性总结大全！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14991&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493723%26amp%3Bidx%3D2%26amp%3Bsn%3D14661c6ba2597a1334317329f5453fe1%26amp%3Bchksm%3Dfa3f0900cd488016ab3b062237ad6aea30740d088182a3c54746d7334310349e035f0f69b17f%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【开发者头条】2022-04-10-JMH-+-Arthas，性能监控的神器](https://toutiao.io/k/7xbvm5y) 
 - [【开发者头条】2022-04-10-网络通信知识地图](https://toutiao.io/k/fslhlae) 
 - [【开发者头条】2022-04-10-用-VSCode-写-Python，这-14-个插件不容错过！](https://toutiao.io/k/8pgeisj) 
@@ -131,13 +132,13 @@
 - [【开发者头条】2022-04-10-舍-bpftrace-而取-systemtap-的代价和思考](https://toutiao.io/k/9euqf9u) 
 - [【开发者头条】2022-04-10-造成内存泄漏的异常处理](https://toutiao.io/k/fkezrld) 
 - [【开发者头条】2022-04-10-【总结】--从-0-到-1-上手-Web-Components-业务组件库开发](https://toutiao.io/k/lst8kkc) 
-- [【开发者头条】2022-04-10-推荐-盘点-3-月份-yyds-的开源项目](https://toutiao.io/k/79431xa) 
-- [【开发者头条】2022-04-10-推荐-写出结构优雅代码的4个技巧](https://toutiao.io/k/6cddvzi) 
-- [【开发者头条】2022-04-10-推荐-谷歌工程最佳实践](https://toutiao.io/k/q19mmjh) 
-- [【开发者头条】2022-04-10-推荐-Kafka-面试连环炮,-看看你能撑到哪一步?](https://toutiao.io/k/z30ehzv) 
-- [【开发者头条】2022-04-10-推荐-万字长文助你上手软件领域驱动设计-DDD](https://toutiao.io/k/72nuj7z) 
-- [【开发者头条】2022-04-10-推荐-系统架构的11条原则](https://toutiao.io/k/xbwjqgj) 
 - [【开发者头条】2022-04-10-推荐-20多个好用的-Vue-组件库，请查收！](https://toutiao.io/k/sskayyw) 
+- [【开发者头条】2022-04-10-推荐-盘点-3-月份-yyds-的开源项目](https://toutiao.io/k/79431xa) 
+- [【开发者头条】2022-04-10-推荐-万字长文助你上手软件领域驱动设计-DDD](https://toutiao.io/k/72nuj7z) 
+- [【开发者头条】2022-04-10-推荐-谷歌工程最佳实践](https://toutiao.io/k/q19mmjh) 
+- [【开发者头条】2022-04-10-推荐-写出结构优雅代码的4个技巧](https://toutiao.io/k/6cddvzi) 
+- [【开发者头条】2022-04-10-推荐-Kafka-面试连环炮,-看看你能撑到哪一步?](https://toutiao.io/k/z30ehzv) 
+- [【开发者头条】2022-04-10-推荐-系统架构的11条原则](https://toutiao.io/k/xbwjqgj) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-04-10 05:37:14，:rocket: 更新条数: +2020， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-04-10 06:16:53，:rocket: 更新条数: +2024， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,11 @@
 </summary>
 
 
+- [2022-04-10-jar-文件怎么转换成-exe-文件](https://www.v2ex.com/t/846066) ![](assets/new.png)  
+- [2022-04-10-arch-Linux-或-manjaro-对笔记本触摸板支持的怎么样](https://www.v2ex.com/t/846065) ![](assets/new.png)  
+- [2022-04-10-C++后端开发想转音视频开发要学习准备多久呢？](https://www.v2ex.com/t/846064) ![](assets/new.png)  
+- [2022-04-10-有个奇葩的需求，服务器怎么整个声卡](https://www.v2ex.com/t/846063) ![](assets/new.png)  
+- [2022-04-10-QQ、酷我、酷狗-哪家的音乐会员更值得开呢？](https://www.v2ex.com/t/846062) ![](assets/new.png)  
 - [2022-04-10-关于装双系统中分区的一些疑问](https://www.v2ex.com/t/846061) ![](assets/new.png)  
 - [2022-04-10-美区家庭成员非组织者可以不绑定支付方式仅使用账户余额订阅并共享-Apple-One-吗？](https://www.v2ex.com/t/846060) ![](assets/new.png)  
 - [2022-04-10-使用-IDEA-Tomcat-打印信息如何设置为英文](https://www.v2ex.com/t/846058) ![](assets/new.png)  
@@ -506,11 +511,6 @@
 - [2022-04-10-有-wordpress-优化指南吗？-照着做的那种](https://www.v2ex.com/t/846047) ![](assets/new.png)  
 - [2022-04-10-大家觉得是居家办公工作效率更高，还是去公司更高呢？](https://www.v2ex.com/t/846046) ![](assets/new.png)  
 - [2022-04-10-京东收件人订单取消短信通知问题](https://www.v2ex.com/t/846044) ![](assets/new.png)  
-- [2022-04-10-Mac-book-pro-视网膜屏幕看久了眼花](https://www.v2ex.com/t/846043) ![](assets/new.png)  
-- [2022-04-10-京东上海保供专场](https://www.v2ex.com/t/846040) ![](assets/new.png)  
-- [2022-04-10-简体中文-iOS-15.4-「文件」APP-中的默认桌面、文稿文件名显示为英文的问题](https://www.v2ex.com/t/846039) ![](assets/new.png)  
-- [2022-04-10-iBox-NFT-上买卖虚拟产品在我国违法吗](https://www.v2ex.com/t/846038) ![](assets/new.png)  
-- [2022-04-10-安卓微信-8.0.18-8.0.21-等版本错误申请本不需要的存储权限](https://www.v2ex.com/t/846037) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -561,10 +561,13 @@
 - [2022-04-10-Presto在字节跳动的内部实践与优化（一）](https://toutiao.io/k/joy52li) ![](assets/new.png)  
 - [2022-04-10-用python做一个文本翻译器，自动将中文翻译成英文，超方便的！](https://toutiao.io/k/gcxxbfj) ![](assets/new.png)  
 - [2022-04-10-舍-bpftrace-而取-systemtap-的代价和思考](https://toutiao.io/k/9euqf9u) ![](assets/new.png)  
-- [2022-04-10-推荐-万字长文助你上手软件领域驱动设计-DDD](https://toutiao.io/k/72nuj7z) ![](assets/new.png)  
+- [2022-04-10-Notion，程序员最后一款笔记软件](https://toutiao.io/k/f45e745) ![](assets/new.png)  
+- [2022-04-10-造成内存泄漏的异常处理](https://toutiao.io/k/fkezrld) ![](assets/new.png)  
+- [2022-04-10-【总结】--从-0-到-1-上手-Web-Components-业务组件库开发](https://toutiao.io/k/lst8kkc) ![](assets/new.png)  
+- [2022-04-10-推荐-系统架构的11条原则](https://toutiao.io/k/xbwjqgj) ![](assets/new.png)  
 - [2022-04-10-推荐-Kafka-面试连环炮,-看看你能撑到哪一步?](https://toutiao.io/k/z30ehzv) ![](assets/new.png)  
 - [2022-04-10-推荐-盘点-3-月份-yyds-的开源项目](https://toutiao.io/k/79431xa) ![](assets/new.png)  
-- [2022-04-10-推荐-系统架构的11条原则](https://toutiao.io/k/xbwjqgj) ![](assets/new.png)  
+- [2022-04-10-推荐-万字长文助你上手软件领域驱动设计-DDD](https://toutiao.io/k/72nuj7z) ![](assets/new.png)  
 - [2022-04-10-推荐-写出结构优雅代码的4个技巧](https://toutiao.io/k/6cddvzi) ![](assets/new.png)  
 - [2022-04-10-推荐-20多个好用的-Vue-组件库，请查收！](https://toutiao.io/k/sskayyw) ![](assets/new.png)  
 - [2022-04-10-推荐-谷歌工程最佳实践](https://toutiao.io/k/q19mmjh) ![](assets/new.png)  

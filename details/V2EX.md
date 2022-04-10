@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2022-04-10 16:16:57。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-04-10 16:54:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-04-10-绷不住了，折腾了一晚上的-xrdp，竟然没有折腾成功](https://www.v2ex.com/t/846163) 
 - [2022-04-10-go-程序无故退出，-panic-也捕获不到，求解决方案](https://www.v2ex.com/t/846162) 
 - [2022-04-10-这可能是-2022-年最方便快捷的搭建个人博客的教程了--github-pages+Jekyll-三步搞定无需命令行无需配环境](https://www.v2ex.com/t/846161) 
 - [2022-04-10-麻烦问一下-println-和-print\n-底层有区别吗](https://www.v2ex.com/t/846160) 
@@ -45,4 +46,3 @@
 - [2022-04-10-mo.fish-证书过期了](https://www.v2ex.com/t/846118) 
 - [2022-04-10-privacy-badger-和-ghostery-这个插件怎样？](https://www.v2ex.com/t/846117) 
 - [2022-04-10-为什么现在标榜“快充”的数据线其数据传输速率跌回了-USB-2.0-时代的-480-Mbps？](https://www.v2ex.com/t/846115) 
-- [2022-04-10-请教一下，肌电的手势分类的应该用啥-CNN-模型？](https://www.v2ex.com/t/846113) 

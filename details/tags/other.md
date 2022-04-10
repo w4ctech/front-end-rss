@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-04-10 06:45:59。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-04-10 07:13:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1913,6 +1913,9 @@
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2022-03-21-ascent-override-descent-override-line-gap-override一锅端](https://www.zhangxinxu.com/wordpress/2022/03/css-ascent-override-descent/) 
 - [2022-02-04-HTML-inputmode与iOS-Android软键盘类型测试](https://www.zhangxinxu.com/wordpress/2022/02/html-inputmode-keyboard/) 
+- [2022-04-10-普通的-HDMI-信号线出故障会这样吗？显示器画面撕裂现象](https://www.v2ex.com/t/846075) 
+- [2022-04-10-请教一下，安卓的证书可以修改组织等信息吗？](https://www.v2ex.com/t/846074) 
+- [2022-04-10-居家囤货单-方舟子推荐](https://www.v2ex.com/t/846072) 
 - [2022-04-10-创建了个推送财联社-VIP-文章的-TG-频道](https://www.v2ex.com/t/846071) 
 - [2022-04-10-Elpass-疑似丢失了我的密码！](https://www.v2ex.com/t/846070) 
 - [2022-04-10-昨天使用核酸码做的核酸检测，结果在哪能查到？](https://www.v2ex.com/t/846067) 
@@ -1943,10 +1946,6 @@
 - [2022-04-10-MySQL-近两三个月莫名其妙停止两次了](https://www.v2ex.com/t/846035) 
 - [2022-04-10-15.4-的多设备热点是不是有问题](https://www.v2ex.com/t/846034) 
 - [2022-04-10-atlassian-的服务挂了-4-天了。这故障算什么级别](https://www.v2ex.com/t/846029) 
-- [2022-04-10-HomePod-总是自动连接到非-5g-频段-wifi，大佬们有办法解决吗？](https://www.v2ex.com/t/846025) 
-- [2022-04-10-广州/深圳-字节跳动飞书急招前端开发工程师](https://www.v2ex.com/t/846024) 
-- [2022-04-10-Arch-Linux-图形化简易安装器已被镜像站收录](https://www.v2ex.com/t/846023) 
-- [2022-04-10-昨晚刚刷到大师王阳明的“知行合一”](https://www.v2ex.com/t/846022) 
 - [2022-04-10-来，咱聊聊接口幂等性设计-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15008&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493770%26amp%3Bidx%3D2%26amp%3Bsn%3Dfec23a16208ef27f1d65e7f9ea3dab12%26amp%3Bchksm%3Dfa3f09d1cd4880c76034a14910af79d65a270e3db86bfd160cf2edb143344a1d628d1f500168%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-04-10-最受程序员欢迎的20本书！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15007&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493749%26amp%3Bidx%3D1%26amp%3Bsn%3D9cf2fa6cbe49a48dcaee073da7d04004%26amp%3Bchksm%3Dfa3f092ecd488038e0ccc5d21961b8968b46257ce41b47a750dd99558544ce102721b6cea078%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-04-10-IDEA中的热部署神器！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15006&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493749%26amp%3Bidx%3D2%26amp%3Bsn%3D784e73396088f749613a0539e530d701%26amp%3Bchksm%3Dfa3f092ecd4880382609a6531ff398e535939afc1e633e6703958e173067f909a31cd42cd002%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1968,8 +1967,8 @@
 - [2022-04-10-用python做一个文本翻译器，自动将中文翻译成英文，超方便的！](https://toutiao.io/k/gcxxbfj) 
 - [2022-04-10-舍-bpftrace-而取-systemtap-的代价和思考](https://toutiao.io/k/9euqf9u) 
 - [2022-04-10-造成内存泄漏的异常处理](https://toutiao.io/k/fkezrld) 
-- [2022-04-10-推荐-万字长文助你上手软件领域驱动设计-DDD](https://toutiao.io/k/72nuj7z) 
-- [2022-04-10-推荐-写出结构优雅代码的4个技巧](https://toutiao.io/k/6cddvzi) 
 - [2022-04-10-推荐-系统架构的11条原则](https://toutiao.io/k/xbwjqgj) 
-- [2022-04-10-推荐-盘点-3-月份-yyds-的开源项目](https://toutiao.io/k/79431xa) 
+- [2022-04-10-推荐-写出结构优雅代码的4个技巧](https://toutiao.io/k/6cddvzi) 
 - [2022-04-10-推荐-谷歌工程最佳实践](https://toutiao.io/k/q19mmjh) 
+- [2022-04-10-推荐-万字长文助你上手软件领域驱动设计-DDD](https://toutiao.io/k/72nuj7z) 
+- [2022-04-10-推荐-盘点-3-月份-yyds-的开源项目](https://toutiao.io/k/79431xa) 

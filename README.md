@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-04-10 00:56:04，:rocket: 更新条数: +2016， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-04-10 02:31:10，:rocket: 更新条数: +2018， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,26 +491,26 @@
 </summary>
 
 
+- [2022-04-10-被福建電信給氣壞了](https://www.v2ex.com/t/846020) ![](assets/new.png)  
+- [2022-04-10-PHP--fpm-服务启动失败，但是手动启动可以？](https://www.v2ex.com/t/846019) ![](assets/new.png)  
+- [2022-04-10-macbook-下默认的终端体验很棒，一直不理解，为啥有人非要安装第三方-ssh-客户端-?](https://www.v2ex.com/t/846018) ![](assets/new.png)  
+- [2022-04-10-关于网件-R6300-V2-从梅林刷回原厂固件失败（求助）](https://www.v2ex.com/t/846016) ![](assets/new.png)  
+- [2022-04-10-戴森-v7，没用几次电池报废了](https://www.v2ex.com/t/846015) ![](assets/new.png)  
+- [2022-04-10-同志们有-RobFoodDD-405-的解决方案吗？](https://www.v2ex.com/t/846014) ![](assets/new.png)  
+- [2022-04-10-Github-Copilot-新出了一个侧边栏扩展：-Copilot-Labs](https://www.v2ex.com/t/846012) ![](assets/new.png)  
+- [2022-04-10-有没有新西兰读硕士前辈们,想咨询一下问题](https://www.v2ex.com/t/846011) ![](assets/new.png)  
+- [2022-04-10-MacBook-WIFI-的国家／地区代码如何修改？](https://www.v2ex.com/t/846010) ![](assets/new.png)  
+- [2022-04-10-作为程序员，留在美国还是回国？](https://www.v2ex.com/t/846009) ![](assets/new.png)  
+- [2022-04-10-关于-HTML-文件-diff](https://www.v2ex.com/t/846008) ![](assets/new.png)  
+- [2022-04-10-mcbbs-推荐服务器-Bilicraft-国际正版公益服](https://www.v2ex.com/t/846007) ![](assets/new.png)  
+- [2022-04-10-Python-sympy-里面解方程怎么会出现这种情况？要窒息了](https://www.v2ex.com/t/846005) ![](assets/new.png)  
+- [2022-04-10-有没有那种类似于公司里-task-tracker-的-todo-app](https://www.v2ex.com/t/846004) ![](assets/new.png)  
+- [2022-04-10-m1book-和黑苹果-可以兼用-4k144-显示器？](https://www.v2ex.com/t/846002) ![](assets/new.png)  
+- [2022-04-10-FitShare---不运动后开发的一个运动记录分享-App](https://www.v2ex.com/t/846001) ![](assets/new.png)  
 - [2022-04-10-有办法提前勾选盒马团购的菜品吗](https://www.v2ex.com/t/846000) ![](assets/new.png)  
 - [2022-04-10-上海的朋友你们最近的宽带和蜂窝网正常吗？](https://www.v2ex.com/t/845999) ![](assets/new.png)  
 - [2022-04-10-iPhone-和-iPad-的-Safari-阅读列表如果才能同步？](https://www.v2ex.com/t/845998) ![](assets/new.png)  
 - [2022-04-10-小区垃圾转运车-工作时间有法律法规规定吗](https://www.v2ex.com/t/845997) ![](assets/new.png)  
-- [2022-04-09-Rust-两种典型使用场景求助](https://www.v2ex.com/t/845995) ![](assets/new.png)  
-- [2022-04-09-吐槽拓展坞与显示器的-DDC-功能支持](https://www.v2ex.com/t/845994) ![](assets/new.png)  
-- [2022-04-09-Entity-Framework-ORM-框架，获取最近-30-天每日分别的订单数量最佳实践是什么？](https://www.v2ex.com/t/845993) ![](assets/new.png)  
-- [2022-04-09-想把博客从-hexo-迁移到-Jekyll-了](https://www.v2ex.com/t/845991) ![](assets/new.png)  
-- [2022-04-09-被裁员](https://www.v2ex.com/t/845990) ![](assets/new.png)  
-- [2022-04-09-南方的兄弟帮忙看看这是不是蟑螂，怀疑往-PS4-钻进去了（有尸体图）](https://www.v2ex.com/t/845988) ![](assets/new.png)  
-- [2022-04-09-如何把-wifi-热点的覆盖能力降低](https://www.v2ex.com/t/845987) ![](assets/new.png)  
-- [2022-04-09-简单的大数据应用可以直接上手-flink-吗](https://www.v2ex.com/t/845986) ![](assets/new.png)  
-- [2022-04-09-失业后，海外远程职位是不是更合适](https://www.v2ex.com/t/845984) ![](assets/new.png)  
-- [2022-04-09-请教-MySQL8-建表使用-FEDERATED-引擎连接-MySQL5-的数据库表，提示-1492,Bad-handshake...](https://www.v2ex.com/t/845982) ![](assets/new.png)  
-- [2022-04-09-AirPods-3-空间音频效果怎么样？](https://www.v2ex.com/t/845981) ![](assets/new.png)  
-- [2022-04-09-2022-春招-offer-求比较](https://www.v2ex.com/t/845980) ![](assets/new.png)  
-- [2022-04-09-Video-Roll，一款可旋转网页视频角度的浏览器插件（P-站、B-站用户福利）](https://www.v2ex.com/t/845979) ![](assets/new.png)  
-- [2022-04-09-生产环境-Redis-连接，长时间无响应被服务器断开问题](https://www.v2ex.com/t/845978) ![](assets/new.png)  
-- [2022-04-09-怎么理解操作系统的-Peterson-算法的特殊情况](https://www.v2ex.com/t/845977) ![](assets/new.png)  
-- [2022-04-09-问一个气压传感器和大气压的问题](https://www.v2ex.com/t/845976) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -553,19 +553,21 @@
 </summary>
 
 
+- [2022-04-10-JMH-+-Arthas，性能监控的神器](https://toutiao.io/k/7xbvm5y) ![](assets/new.png)  
 - [2022-04-10-网络通信知识地图](https://toutiao.io/k/fslhlae) ![](assets/new.png)  
 - [2022-04-10-周末过得太快？别荒废啦！](https://toutiao.io/k/1cnkpb7) ![](assets/new.png)  
-- [2022-04-10-JMH-+-Arthas，性能监控的神器](https://toutiao.io/k/7xbvm5y) ![](assets/new.png)  
 - [2022-04-10-用-VSCode-写-Python，这-14-个插件不容错过！](https://toutiao.io/k/8pgeisj) ![](assets/new.png)  
 - [2022-04-10-舍-bpftrace-而取-systemtap-的代价和思考](https://toutiao.io/k/9euqf9u) ![](assets/new.png)  
 - [2022-04-10-用python做一个文本翻译器，自动将中文翻译成英文，超方便的！](https://toutiao.io/k/gcxxbfj) ![](assets/new.png)  
+- [2022-04-10-一个很简单理解的轻量级状态管理](https://toutiao.io/k/bfrxgt9) ![](assets/new.png)  
+- [2022-04-10-Presto在字节跳动的内部实践与优化（一）](https://toutiao.io/k/joy52li) ![](assets/new.png)  
 - [2022-04-10-推荐-Kafka-面试连环炮,-看看你能撑到哪一步?](https://toutiao.io/k/z30ehzv) ![](assets/new.png)  
-- [2022-04-10-推荐-谷歌工程最佳实践](https://toutiao.io/k/q19mmjh) ![](assets/new.png)  
+- [2022-04-10-推荐-盘点-3-月份-yyds-的开源项目](https://toutiao.io/k/79431xa) ![](assets/new.png)  
 - [2022-04-10-推荐-20多个好用的-Vue-组件库，请查收！](https://toutiao.io/k/sskayyw) ![](assets/new.png)  
 - [2022-04-10-推荐-万字长文助你上手软件领域驱动设计-DDD](https://toutiao.io/k/72nuj7z) ![](assets/new.png)  
 - [2022-04-10-推荐-写出结构优雅代码的4个技巧](https://toutiao.io/k/6cddvzi) ![](assets/new.png)  
+- [2022-04-10-推荐-谷歌工程最佳实践](https://toutiao.io/k/q19mmjh) ![](assets/new.png)  
 - [2022-04-10-推荐-系统架构的11条原则](https://toutiao.io/k/xbwjqgj) ![](assets/new.png)  
-- [2022-04-10-推荐-盘点-3-月份-yyds-的开源项目](https://toutiao.io/k/79431xa) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

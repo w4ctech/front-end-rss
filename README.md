@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-04-10 13:41:04，:rocket: 更新条数: +2016， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-04-10 14:12:18，:rocket: 更新条数: +2018， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,11 @@
 </summary>
 
 
+- [2022-04-10-充了-Apple-礼品卡但是付款前需要验证支付方式，怎么办？](https://www.v2ex.com/t/846140) ![](assets/new.png)  
+- [2022-04-10-求助笔记本掉盘问题](https://www.v2ex.com/t/846139) ![](assets/new.png)  
+- [2022-04-10-实例化-class-报错：-NotImplementedError](https://www.v2ex.com/t/846138) ![](assets/new.png)  
+- [2022-04-10-大家看看我这样的简历能在中国找到什么样的工作？](https://www.v2ex.com/t/846137) ![](assets/new.png)  
+- [2022-04-10-计算机的软考](https://www.v2ex.com/t/846136) ![](assets/new.png)  
 - [2022-04-10-电信-CN2-的确扩容了，现在北方地级市都有节点国内不在进-163-了](https://www.v2ex.com/t/846133) ![](assets/new.png)  
 - [2022-04-10-光猫自带-wifi-损耗？](https://www.v2ex.com/t/846132) ![](assets/new.png)  
 - [2022-04-10-22-应届求收留，或者求建议](https://www.v2ex.com/t/846130) ![](assets/new.png)  
@@ -506,11 +511,6 @@
 - [2022-04-10-Typora-的代码格式选什么语言可以适配-http-client（如-kibana）请求格式高亮？](https://www.v2ex.com/t/846119) ![](assets/new.png)  
 - [2022-04-10-mo.fish-证书过期了](https://www.v2ex.com/t/846118) ![](assets/new.png)  
 - [2022-04-10-privacy-badger-和-ghostery-这个插件怎样？](https://www.v2ex.com/t/846117) ![](assets/new.png)  
-- [2022-04-10-为什么现在标榜“快充”的数据线其数据传输速率跌回了-USB-2.0-时代的-480-Mbps？](https://www.v2ex.com/t/846115) ![](assets/new.png)  
-- [2022-04-10-请教一下，肌电的手势分类的应该用啥-CNN-模型？](https://www.v2ex.com/t/846113) ![](assets/new.png)  
-- [2022-04-10-帮家里出售点自家产的精品明前茶，质优价廉](https://www.v2ex.com/t/846112) ![](assets/new.png)  
-- [2022-04-10-macos-如何实现-windows-的双击触摸板进行拖动](https://www.v2ex.com/t/846111) ![](assets/new.png)  
-- [2022-04-10-遇到一个奇怪的问题，用-xpath-抓取这个网站-id-为'wc_channels'的-table-标签，会直接从-table-标签一直获取的-html-文件结尾](https://www.v2ex.com/t/846110) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -563,13 +563,13 @@
 - [2022-04-10-舍-bpftrace-而取-systemtap-的代价和思考](https://toutiao.io/k/9euqf9u) ![](assets/new.png)  
 - [2022-04-10-造成内存泄漏的异常处理](https://toutiao.io/k/fkezrld) ![](assets/new.png)  
 - [2022-04-10-【总结】--从-0-到-1-上手-Web-Components-业务组件库开发](https://toutiao.io/k/lst8kkc) ![](assets/new.png)  
-- [2022-04-10-推荐-系统架构的11条原则](https://toutiao.io/k/xbwjqgj) ![](assets/new.png)  
 - [2022-04-10-推荐-写出结构优雅代码的4个技巧](https://toutiao.io/k/6cddvzi) ![](assets/new.png)  
-- [2022-04-10-推荐-万字长文助你上手软件领域驱动设计-DDD](https://toutiao.io/k/72nuj7z) ![](assets/new.png)  
-- [2022-04-10-推荐-20多个好用的-Vue-组件库，请查收！](https://toutiao.io/k/sskayyw) ![](assets/new.png)  
-- [2022-04-10-推荐-Kafka-面试连环炮,-看看你能撑到哪一步?](https://toutiao.io/k/z30ehzv) ![](assets/new.png)  
 - [2022-04-10-推荐-谷歌工程最佳实践](https://toutiao.io/k/q19mmjh) ![](assets/new.png)  
 - [2022-04-10-推荐-盘点-3-月份-yyds-的开源项目](https://toutiao.io/k/79431xa) ![](assets/new.png)  
+- [2022-04-10-推荐-系统架构的11条原则](https://toutiao.io/k/xbwjqgj) ![](assets/new.png)  
+- [2022-04-10-推荐-Kafka-面试连环炮,-看看你能撑到哪一步?](https://toutiao.io/k/z30ehzv) ![](assets/new.png)  
+- [2022-04-10-推荐-20多个好用的-Vue-组件库，请查收！](https://toutiao.io/k/sskayyw) ![](assets/new.png)  
+- [2022-04-10-推荐-万字长文助你上手软件领域驱动设计-DDD](https://toutiao.io/k/72nuj7z) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

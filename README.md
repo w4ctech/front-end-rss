@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-04-11 08:17:24，:rocket: 更新条数: +2034， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-04-11 08:44:28，:rocket: 更新条数: +2031， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,13 +491,17 @@
 </summary>
 
 
+- [2022-04-11-自己公司发布的软件有时被误报，有没有懂哥知道一般应该怎么处理？](https://www.v2ex.com/t/846314) ![](assets/new.png)  
+- [2022-04-11-2022-年了。还有没有双内存插槽双硬盘位的笔记本？](https://www.v2ex.com/t/846313) ![](assets/new.png)  
+- [2022-04-11-有无解决各网站外链跳转提示的浏览器插件/油猴代码？](https://www.v2ex.com/t/846312) ![](assets/new.png)  
+- [2022-04-11-Python-想学数据分析，但是原始数据/数据资源哪里找呀？？](https://www.v2ex.com/t/846311) ![](assets/new.png)  
+- [2022-04-11-大伙所在的行业景气吗？](https://www.v2ex.com/t/846308) ![](assets/new.png)  
 - [2022-04-11-现在有个-IM-功能，一个好友下线了，如何让他的好友收到这个通知？如果服务器挂掉呢？](https://www.v2ex.com/t/846307) ![](assets/new.png)  
 - [2022-04-11-工作三年读计算机研，碰到个卡毕业的导师，这研究生读的也是受罪](https://www.v2ex.com/t/846304) ![](assets/new.png)  
 - [2022-04-11-继续问一个面试题：针对海量数据、巨量访问（千万级别），并且需要保证实时性、稳定性、安全性的情况下，你需要做这么一个系统，说说你的架构思路？](https://www.v2ex.com/t/846303) ![](assets/new.png)  
 - [2022-04-11-家宽下行超出最大值是否会影响上行？](https://www.v2ex.com/t/846302) ![](assets/new.png)  
 - [2022-04-11-2022-年-4-月排名，-Python-依然榜首，-PHP-要跌出前十了](https://www.v2ex.com/t/846301) ![](assets/new.png)  
 - [2022-04-11-回忆暗恋的青春](https://www.v2ex.com/t/846300) ![](assets/new.png)  
-- [2022-04-11-要不是亲身经历，不会知道小聋、夹总等有几方仓的妈也不够死的。中老年相关，防患于未然。](https://www.v2ex.com/t/846298) ![](assets/new.png)  
 - [2022-04-11-macbook-air-m1-有点温热了](https://www.v2ex.com/t/846297) ![](assets/new.png)  
 - [2022-04-11-推送财联社-VIP-文章的-TG-频道](https://www.v2ex.com/t/846296) ![](assets/new.png)  
 - [2022-04-11-Start11---win11-恢复-win10-磁贴](https://www.v2ex.com/t/846295) ![](assets/new.png)  
@@ -507,10 +511,6 @@
 - [2022-04-11-想做一个远程桌面内网穿透项目](https://www.v2ex.com/t/846290) ![](assets/new.png)  
 - [2022-04-11-offer-选择求教，大公司-vs-小公司](https://www.v2ex.com/t/846289) ![](assets/new.png)  
 - [2022-04-11-酷玩周刊-第-6-期](https://www.v2ex.com/t/846288) ![](assets/new.png)  
-- [2022-04-11-互联网上，诸如"程序员基地-xxx"之类的垃圾站点，为什么搜索引擎不管管？](https://www.v2ex.com/t/846287) ![](assets/new.png)  
-- [2022-04-11-有一个疑问，那些在线转换器的盈利点在哪里](https://www.v2ex.com/t/846286) ![](assets/new.png)  
-- [2022-04-11-刚来杭州就遇到人生中的第一次甲醛，维权路，不是为了自己-为了更多人打工人的健康！](https://www.v2ex.com/t/846285) ![](assets/new.png)  
-- [2022-04-11-Chrome-中同一上级域名的不同分页如何单独静音？](https://www.v2ex.com/t/846284) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

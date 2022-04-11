@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-04-11 12:23:06，:rocket: 更新条数: +2030， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-04-11 13:03:25，:rocket: 更新条数: +2030， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,12 @@
 </summary>
 
 
+- [2022-04-11-想整点新活，问问大家目前-k8s-比较火的方向有哪些？](https://www.v2ex.com/t/846366) ![](assets/new.png)  
+- [2022-04-11-Synology-Photos-備份機制導致-iPhone-無限重啟。](https://www.v2ex.com/t/846365) ![](assets/new.png)  
+- [2022-04-11-做了个平台，帮大家找到美国的远程全职工作，-beta-阶段，欢迎提意见](https://www.v2ex.com/t/846364) ![](assets/new.png)  
+- [2022-04-11-请教-Golang-关于交叉编译到-Android-的问题](https://www.v2ex.com/t/846363) ![](assets/new.png)  
+- [2022-04-11-良渚-融信澜天-找室友](https://www.v2ex.com/t/846362) ![](assets/new.png)  
+- [2022-04-11-iOS-应用，是选-Swift-还是-Flutter？](https://www.v2ex.com/t/846361) ![](assets/new.png)  
 - [2022-04-11-EF-Core-LINQ-使用反射获取属性值大幅降低查询速度](https://www.v2ex.com/t/846359) ![](assets/new.png)  
 - [2022-04-11-新手娱乐域名，推荐买哪家？](https://www.v2ex.com/t/846357) ![](assets/new.png)  
 - [2022-04-11-大量文件如何比较文件内容是否不同](https://www.v2ex.com/t/846355) ![](assets/new.png)  
@@ -505,12 +511,6 @@
 - [2022-04-11-北京/内推国企背景内推前端开发16-30K,2-5-月年终奖](https://www.v2ex.com/t/846341) ![](assets/new.png)  
 - [2022-04-11-闲置-vps-挂机每天-1-元-占用为百分之-1](https://www.v2ex.com/t/846340) ![](assets/new.png)  
 - [2022-04-11-DeepL-翻译好像被投毒了](https://www.v2ex.com/t/846339) ![](assets/new.png)  
-- [2022-04-11-英伟达-Nvidia-上海-高级计算机视觉工程师-自动驾驶地图方向](https://www.v2ex.com/t/846338) ![](assets/new.png)  
-- [2022-04-11-感觉最近-Go-相关的帖子变多了啊~](https://www.v2ex.com/t/846337) ![](assets/new.png)  
-- [2022-04-11-想租一个软件园附近的套一，-10km-内或者-1-号线附近](https://www.v2ex.com/t/846336) ![](assets/new.png)  
-- [2022-04-11-关于-OpenWRT-路由器，内网户-ping-的问题](https://www.v2ex.com/t/846335) ![](assets/new.png)  
-- [2022-04-11-C#-过滤除不带任何参数的<b>和只允许-width-height-参数的<img>以外任何-HTML-标签来防止-XSS-攻击的最佳实践是什么？有什么好用的模块吗？](https://www.v2ex.com/t/846334) ![](assets/new.png)  
-- [2022-04-11-有在加拿大里贾纳的朋友吗？](https://www.v2ex.com/t/846333) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

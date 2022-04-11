@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-04-11 07:39:06。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-04-11 08:17:25。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,16 @@
 </summary>
 
 
+- [【V2EX】2022-04-11-现在有个-IM-功能，一个好友下线了，如何让他的好友收到这个通知？如果服务器挂掉呢？](https://www.v2ex.com/t/846307) 
+- [【V2EX】2022-04-11-工作三年读计算机研，碰到个卡毕业的导师，这研究生读的也是受罪](https://www.v2ex.com/t/846304) 
+- [【V2EX】2022-04-11-继续问一个面试题：针对海量数据、巨量访问（千万级别），并且需要保证实时性、稳定性、安全性的情况下，你需要做这么一个系统，说说你的架构思路？](https://www.v2ex.com/t/846303) 
+- [【V2EX】2022-04-11-家宽下行超出最大值是否会影响上行？](https://www.v2ex.com/t/846302) 
+- [【V2EX】2022-04-11-2022-年-4-月排名，-Python-依然榜首，-PHP-要跌出前十了](https://www.v2ex.com/t/846301) 
+- [【V2EX】2022-04-11-回忆暗恋的青春](https://www.v2ex.com/t/846300) 
+- [【V2EX】2022-04-11-要不是亲身经历，不会知道小聋、夹总等有几方仓的妈也不够死的。中老年相关，防患于未然。](https://www.v2ex.com/t/846298) 
+- [【V2EX】2022-04-11-macbook-air-m1-有点温热了](https://www.v2ex.com/t/846297) 
+- [【V2EX】2022-04-11-推送财联社-VIP-文章的-TG-频道](https://www.v2ex.com/t/846296) 
+- [【V2EX】2022-04-11-Start11---win11-恢复-win10-磁贴](https://www.v2ex.com/t/846295) 
 - [【V2EX】2022-04-11-哈哈哈哈-邀请你们来我的露台烧烤！](https://www.v2ex.com/t/846294) 
 - [【V2EX】2022-04-11-請問這份-Sysctl-配置究竟存在什麼問題？](https://www.v2ex.com/t/846292) 
 - [【V2EX】2022-04-11-Gapi-Golang-写的动态扩展-API-框架现在只有-Pixiv/Coco.cn](https://www.v2ex.com/t/846291) 
@@ -99,17 +109,6 @@
 - [【V2EX】2022-04-11-求虚拟美元卡推荐](https://www.v2ex.com/t/846260) 
 - [【V2EX】2022-04-11-自荐-云中转](https://www.v2ex.com/t/846259) 
 - [【V2EX】2022-04-11-限免-自动生成电影台词拼接图的-iOS-App](https://www.v2ex.com/t/846258) 
-- [【V2EX】2022-04-11-装了-Windows11，进不去-BIOS-了](https://www.v2ex.com/t/846257) 
-- [【V2EX】2022-04-11-在-C1-导入的视频为什么元数据都没有，连最基本的日期都读取不了？](https://www.v2ex.com/t/846256) 
-- [【V2EX】2022-04-11-关于囤菜其实最重要的是增加个冰箱或者冰柜](https://www.v2ex.com/t/846255) 
-- [【V2EX】2022-04-11-远程-onekey.so-软硬件钱包-+-Global-Pay-+-工程师文化-+-多个岗位开放-25K-91K](https://www.v2ex.com/t/846254) 
-- [【V2EX】2022-04-11-关于前端如何用相对路径获取后端存储的文件的小问题菜鸟提问](https://www.v2ex.com/t/846253) 
-- [【V2EX】2022-04-11-腾讯会议总是置顶的讲话窗口是如何实现的](https://www.v2ex.com/t/846252) 
-- [【V2EX】2022-04-11-有老哥打呼噜使用家用呼吸机吗?想了解一下](https://www.v2ex.com/t/846251) 
-- [【V2EX】2022-04-11-读-统招全日制专升本受到歧视-有个疑惑？](https://www.v2ex.com/t/846249) 
-- [【V2EX】2022-04-11-有什么能大声朗读“劳动法”的-app-吗？](https://www.v2ex.com/t/846248) 
-- [【V2EX】2022-04-11-问一个关于前端程序员的问题,-各位大佬你们的-Chrome-安装-32-位还是-64-位?](https://www.v2ex.com/t/846246) 
-- [【V2EX】2022-04-11-你说你🐴呢?又一个文本加密解密工具](https://www.v2ex.com/t/846245) 
 - [【技术头条】2022-04-11-人手必备的常用网络命令合集，吐血整理！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15017&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493888%26amp%3Bidx%3D1%26amp%3Bsn%3D70d3506be895b9f146066d56dfae8b69%26amp%3Bchksm%3Dfa3f085bcd48814dbddbd6eddf6584cd9d9ebb768b37f25529371a625c4d09114bf9e2ea6fba%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-04-11-Java必会的工具库，让你的代码量减少90%-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15016&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493888%26amp%3Bidx%3D2%26amp%3Bsn%3D9f50338e5145bdd585e908e36aa7517d%26amp%3Bchksm%3Dfa3f085bcd48814d7386eb6707d907d58fa0313c300b3f73937f51525a7fc10671193f1557e2%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-04-11-技术主管和项目经理一定要读的6本书！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15015&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493887%26amp%3Bidx%3D1%26amp%3Bsn%3D1a13135d359785dd3c15d90dfaeb95e5%26amp%3Bchksm%3Dfa3f09a4cd4880b2c74c7b234fbfc6033b05283324ce3421d8c7ae3fdbb5039b9a2873874bc5%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -137,10 +136,10 @@
 - [【开发者头条】2022-04-11-Java实现一个打飞机的小游戏【附源码】](https://toutiao.io/k/5ss7kqc) 
 - [【开发者头条】2022-04-11-Flink-通过-State-Processor-API-实现状态的读取和写入](https://toutiao.io/k/o4nlqge) 
 - [【开发者头条】2022-04-11-如何优化Web服务器以实现高吞吐量和低延迟](https://toutiao.io/k/52ucmmv) 
+- [【开发者头条】2022-04-11-到家营销警卫即时降低资损实践](https://toutiao.io/k/350il89) 
+- [【开发者头条】2022-04-11-本地集群使用OpenELB实现Load-Balancer](https://toutiao.io/k/2cbz2wn) 
 - [【开发者头条】2022-04-11-如何调试-C#-Emit-生成的动态代码?](https://toutiao.io/k/uyn4eh2) 
 - [【开发者头条】2022-04-11-从源码理清-useEffect-第二个参数是怎么处理的](https://toutiao.io/k/1kk453i) 
-- [【开发者头条】2022-04-11-本地集群使用OpenELB实现Load-Balancer](https://toutiao.io/k/2cbz2wn) 
-- [【开发者头条】2022-04-11-到家营销警卫即时降低资损实践](https://toutiao.io/k/350il89) 
 - [【开发者头条】2022-04-11-腾讯余根茂：基于Iceberg的大规模数据分析优化加速实践](https://toutiao.io/k/kjrfko7) 
 - [【开发者头条】2022-04-11-从一个线上问题看-Elasticsearch-数据清洗方式](https://toutiao.io/k/eh0960y) 
 - [【开发者头条】2022-04-11-B站这个分布式KV存储设计，我一键三连了](https://toutiao.io/k/7hv4ycb) 
@@ -150,13 +149,13 @@
 - [【开发者头条】2022-04-11-浅析Go内存管理架构](https://toutiao.io/k/1kro9xf) 
 - [【开发者头条】2022-04-11-编译实战-|-手摸手教你在Windows环境下运行Redis6.x](https://toutiao.io/k/vqlwran) 
 - [【开发者头条】2022-04-11-React-性能优化总结](https://toutiao.io/k/fk49f04) 
-- [【开发者头条】2022-04-11-推荐-写出结构优雅代码的4个技巧](https://toutiao.io/k/6cddvzi) 
-- [【开发者头条】2022-04-11-推荐-20多个好用的-Vue-组件库，请查收！](https://toutiao.io/k/sskayyw) 
-- [【开发者头条】2022-04-11-推荐-Kafka-面试连环炮,-看看你能撑到哪一步?](https://toutiao.io/k/z30ehzv) 
 - [【开发者头条】2022-04-11-推荐-盘点-3-月份-yyds-的开源项目](https://toutiao.io/k/79431xa) 
-- [【开发者头条】2022-04-11-推荐-系统架构的11条原则](https://toutiao.io/k/xbwjqgj) 
+- [【开发者头条】2022-04-11-推荐-写出结构优雅代码的4个技巧](https://toutiao.io/k/6cddvzi) 
 - [【开发者头条】2022-04-11-推荐-万字长文助你上手软件领域驱动设计-DDD](https://toutiao.io/k/72nuj7z) 
+- [【开发者头条】2022-04-11-推荐-Kafka-面试连环炮,-看看你能撑到哪一步?](https://toutiao.io/k/z30ehzv) 
+- [【开发者头条】2022-04-11-推荐-20多个好用的-Vue-组件库，请查收！](https://toutiao.io/k/sskayyw) 
 - [【开发者头条】2022-04-11-推荐-谷歌工程最佳实践](https://toutiao.io/k/q19mmjh) 
+- [【开发者头条】2022-04-11-推荐-系统架构的11条原则](https://toutiao.io/k/xbwjqgj) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

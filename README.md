@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-04-11 07:39:06，:rocket: 更新条数: +2035， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-04-11 08:17:24，:rocket: 更新条数: +2034， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,16 @@
 </summary>
 
 
+- [2022-04-11-现在有个-IM-功能，一个好友下线了，如何让他的好友收到这个通知？如果服务器挂掉呢？](https://www.v2ex.com/t/846307) ![](assets/new.png)  
+- [2022-04-11-工作三年读计算机研，碰到个卡毕业的导师，这研究生读的也是受罪](https://www.v2ex.com/t/846304) ![](assets/new.png)  
+- [2022-04-11-继续问一个面试题：针对海量数据、巨量访问（千万级别），并且需要保证实时性、稳定性、安全性的情况下，你需要做这么一个系统，说说你的架构思路？](https://www.v2ex.com/t/846303) ![](assets/new.png)  
+- [2022-04-11-家宽下行超出最大值是否会影响上行？](https://www.v2ex.com/t/846302) ![](assets/new.png)  
+- [2022-04-11-2022-年-4-月排名，-Python-依然榜首，-PHP-要跌出前十了](https://www.v2ex.com/t/846301) ![](assets/new.png)  
+- [2022-04-11-回忆暗恋的青春](https://www.v2ex.com/t/846300) ![](assets/new.png)  
+- [2022-04-11-要不是亲身经历，不会知道小聋、夹总等有几方仓的妈也不够死的。中老年相关，防患于未然。](https://www.v2ex.com/t/846298) ![](assets/new.png)  
+- [2022-04-11-macbook-air-m1-有点温热了](https://www.v2ex.com/t/846297) ![](assets/new.png)  
+- [2022-04-11-推送财联社-VIP-文章的-TG-频道](https://www.v2ex.com/t/846296) ![](assets/new.png)  
+- [2022-04-11-Start11---win11-恢复-win10-磁贴](https://www.v2ex.com/t/846295) ![](assets/new.png)  
 - [2022-04-11-哈哈哈哈-邀请你们来我的露台烧烤！](https://www.v2ex.com/t/846294) ![](assets/new.png)  
 - [2022-04-11-請問這份-Sysctl-配置究竟存在什麼問題？](https://www.v2ex.com/t/846292) ![](assets/new.png)  
 - [2022-04-11-Gapi-Golang-写的动态扩展-API-框架现在只有-Pixiv/Coco.cn](https://www.v2ex.com/t/846291) ![](assets/new.png)  
@@ -501,16 +511,6 @@
 - [2022-04-11-有一个疑问，那些在线转换器的盈利点在哪里](https://www.v2ex.com/t/846286) ![](assets/new.png)  
 - [2022-04-11-刚来杭州就遇到人生中的第一次甲醛，维权路，不是为了自己-为了更多人打工人的健康！](https://www.v2ex.com/t/846285) ![](assets/new.png)  
 - [2022-04-11-Chrome-中同一上级域名的不同分页如何单独静音？](https://www.v2ex.com/t/846284) ![](assets/new.png)  
-- [2022-04-11-请教，苹果手机用微信视频的时候，怎么防止小孩乱按。](https://www.v2ex.com/t/846282) ![](assets/new.png)  
-- [2022-04-11-flutter-开发用-IDEA-提示线如何高亮指向-widget-代码](https://www.v2ex.com/t/846281) ![](assets/new.png)  
-- [2022-04-11-有没有这样功能的-Android-应用程序](https://www.v2ex.com/t/846280) ![](assets/new.png)  
-- [2022-04-11-回看大学做的项目，感觉还挺好玩的](https://www.v2ex.com/t/846279) ![](assets/new.png)  
-- [2022-04-11-SnowPearDNS-有办法让运行窗口隐藏吗](https://www.v2ex.com/t/846278) ![](assets/new.png)  
-- [2022-04-11-区块链公司招聘，前端开发/后端开发/运维/产品/测试-本人负责内推内推内推内推，不是猎头，分布式要求-985-或者-211-学历或者一二线大厂经验（区块链经验优先）](https://www.v2ex.com/t/846277) ![](assets/new.png)  
-- [2022-04-11-表单生成器，如金数据，是如何对字段数据进行存储的?-想知道如何用-MySQL-设计结构](https://www.v2ex.com/t/846276) ![](assets/new.png)  
-- [2022-04-11-eslint-的--fix-命令是否值得信任?一般来说会引起什么潜在的问题吗?老项目两万多个-error-让修复,我有点怕唉](https://www.v2ex.com/t/846274) ![](assets/new.png)  
-- [2022-04-11-东莞10K-15K前端高级开发工程师数名](https://www.v2ex.com/t/846273) ![](assets/new.png)  
-- [2022-04-11-使用-Helm-快速部署-Clusterpedia](https://www.v2ex.com/t/846270) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -560,10 +560,10 @@
 - [2022-04-11-Java实现一个打飞机的小游戏【附源码】](https://toutiao.io/k/5ss7kqc) ![](assets/new.png)  
 - [2022-04-11-Flink-通过-State-Processor-API-实现状态的读取和写入](https://toutiao.io/k/o4nlqge) ![](assets/new.png)  
 - [2022-04-11-如何优化Web服务器以实现高吞吐量和低延迟](https://toutiao.io/k/52ucmmv) ![](assets/new.png)  
+- [2022-04-11-到家营销警卫即时降低资损实践](https://toutiao.io/k/350il89) ![](assets/new.png)  
+- [2022-04-11-本地集群使用OpenELB实现Load-Balancer](https://toutiao.io/k/2cbz2wn) ![](assets/new.png)  
 - [2022-04-11-如何调试-C#-Emit-生成的动态代码?](https://toutiao.io/k/uyn4eh2) ![](assets/new.png)  
 - [2022-04-11-从源码理清-useEffect-第二个参数是怎么处理的](https://toutiao.io/k/1kk453i) ![](assets/new.png)  
-- [2022-04-11-本地集群使用OpenELB实现Load-Balancer](https://toutiao.io/k/2cbz2wn) ![](assets/new.png)  
-- [2022-04-11-到家营销警卫即时降低资损实践](https://toutiao.io/k/350il89) ![](assets/new.png)  
 - [2022-04-11-腾讯余根茂：基于Iceberg的大规模数据分析优化加速实践](https://toutiao.io/k/kjrfko7) ![](assets/new.png)  
 - [2022-04-11-从一个线上问题看-Elasticsearch-数据清洗方式](https://toutiao.io/k/eh0960y) ![](assets/new.png)  
 - [2022-04-11-B站这个分布式KV存储设计，我一键三连了](https://toutiao.io/k/7hv4ycb) ![](assets/new.png)  

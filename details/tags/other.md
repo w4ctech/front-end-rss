@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-04-11 16:58:53。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-04-11 17:20:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1913,6 +1913,7 @@
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2022-03-21-ascent-override-descent-override-line-gap-override一锅端](https://www.zhangxinxu.com/wordpress/2022/03/css-ascent-override-descent/) 
 - [2022-02-04-HTML-inputmode与iOS-Android软键盘类型测试](https://www.zhangxinxu.com/wordpress/2022/02/html-inputmode-keyboard/) 
+- [2022-04-11-咨询-量化私募求职相关](https://www.v2ex.com/t/846397) 
 - [2022-04-11-94-年生人，大龄考生，拟录取，现在疯狂焦虑](https://www.v2ex.com/t/846395) 
 - [2022-04-11-准备买个-n5105-的小主机,以前没有买过类似的,有什么玩法吗?](https://www.v2ex.com/t/846394) 
 - [2022-04-11-使用国内注册商托管域名的用户，尽快更改修改域名信息的英文名，-Whois-的-Registrant-Organization-字段会泄露英文名（默认为姓名拼音）](https://www.v2ex.com/t/846393) 
@@ -1970,8 +1971,8 @@
 - [2022-04-11-DataHub-4.0---体验功能全新升级](https://toutiao.io/k/1836dsj) 
 - [2022-04-11-踩了个DNS解析的坑，但我还是没想通](https://toutiao.io/k/ytovncd) 
 - [2022-04-11-编译实战-|-手摸手教你在Windows环境下运行Redis6.x](https://toutiao.io/k/vqlwran) 
-- [2022-04-11-推荐-万字长文助你上手软件领域驱动设计-DDD](https://toutiao.io/k/72nuj7z) 
 - [2022-04-11-推荐-盘点-3-月份-yyds-的开源项目](https://toutiao.io/k/79431xa) 
 - [2022-04-11-推荐-系统架构的11条原则](https://toutiao.io/k/xbwjqgj) 
 - [2022-04-11-推荐-写出结构优雅代码的4个技巧](https://toutiao.io/k/6cddvzi) 
 - [2022-04-11-推荐-谷歌工程最佳实践](https://toutiao.io/k/q19mmjh) 
+- [2022-04-11-推荐-万字长文助你上手软件领域驱动设计-DDD](https://toutiao.io/k/72nuj7z) 

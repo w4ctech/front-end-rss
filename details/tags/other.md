@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-04-11 04:17:58。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-04-11 04:49:52。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1913,6 +1913,8 @@
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2022-03-21-ascent-override-descent-override-line-gap-override一锅端](https://www.zhangxinxu.com/wordpress/2022/03/css-ascent-override-descent/) 
 - [2022-02-04-HTML-inputmode与iOS-Android软键盘类型测试](https://www.zhangxinxu.com/wordpress/2022/02/html-inputmode-keyboard/) 
+- [2022-04-11-有什么能大声朗读“劳动法”的-app-吗？](https://www.v2ex.com/t/846248) 
+- [2022-04-11-你说你🐴呢?又一个文本加密解密工具](https://www.v2ex.com/t/846245) 
 - [2022-04-11-杭州有踢足球的团队吗，大学期间提过一段时间足球，然后就喜欢上了这项运动；工作了之后就没有机会去接触足球了，有没有在杭州的足球团队愿意收一个替补手动狗...](https://www.v2ex.com/t/846244) 
 - [2022-04-11-长时间被二手烟熏的味道怎么去除？](https://www.v2ex.com/t/846243) 
 - [2022-04-11-Linux-根分区-home-分区占用疑问](https://www.v2ex.com/t/846242) 
@@ -1944,9 +1946,6 @@
 - [2022-04-11-感觉不到能力提升了-该怎么办](https://www.v2ex.com/t/846201) 
 - [2022-04-11-Excelize-发布-2.6.0-版本,-Go-语言-Excel-文档基础库](https://www.v2ex.com/t/846200) 
 - [2022-04-11-如何优雅地关闭“iCloud-存储空间将满”通知](https://www.v2ex.com/t/846199) 
-- [2022-04-11-win10-下有个文件死活删不掉](https://www.v2ex.com/t/846198) 
-- [2022-04-11-写代码时你喜欢听歌吗-最近开始单曲循环《自娱自乐》-试着一整天都不失落](https://www.v2ex.com/t/846196) 
-- [2022-04-11-微信聊天记录恢复紧急求教各位啊！](https://www.v2ex.com/t/846195) 
 - [2022-04-11-人手必备的常用网络命令合集，吐血整理！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15017&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493888%26amp%3Bidx%3D1%26amp%3Bsn%3D70d3506be895b9f146066d56dfae8b69%26amp%3Bchksm%3Dfa3f085bcd48814dbddbd6eddf6584cd9d9ebb768b37f25529371a625c4d09114bf9e2ea6fba%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-04-11-Java必会的工具库，让你的代码量减少90%-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15016&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493888%26amp%3Bidx%3D2%26amp%3Bsn%3D9f50338e5145bdd585e908e36aa7517d%26amp%3Bchksm%3Dfa3f085bcd48814d7386eb6707d907d58fa0313c300b3f73937f51525a7fc10671193f1557e2%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-04-11-技术主管和项目经理一定要读的6本书！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15015&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493887%26amp%3Bidx%3D1%26amp%3Bsn%3D1a13135d359785dd3c15d90dfaeb95e5%26amp%3Bchksm%3Dfa3f09a4cd4880b2c74c7b234fbfc6033b05283324ce3421d8c7ae3fdbb5039b9a2873874bc5%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1967,8 +1966,8 @@
 - [2022-04-11-Flink-通过-State-Processor-API-实现状态的读取和写入](https://toutiao.io/k/o4nlqge) 
 - [2022-04-11-本地集群使用OpenELB实现Load-Balancer](https://toutiao.io/k/2cbz2wn) 
 - [2022-04-11-到家营销警卫即时降低资损实践](https://toutiao.io/k/350il89) 
-- [2022-04-11-推荐-写出结构优雅代码的4个技巧](https://toutiao.io/k/6cddvzi) 
 - [2022-04-11-推荐-万字长文助你上手软件领域驱动设计-DDD](https://toutiao.io/k/72nuj7z) 
 - [2022-04-11-推荐-谷歌工程最佳实践](https://toutiao.io/k/q19mmjh) 
-- [2022-04-11-推荐-系统架构的11条原则](https://toutiao.io/k/xbwjqgj) 
 - [2022-04-11-推荐-盘点-3-月份-yyds-的开源项目](https://toutiao.io/k/79431xa) 
+- [2022-04-11-推荐-写出结构优雅代码的4个技巧](https://toutiao.io/k/6cddvzi) 
+- [2022-04-11-推荐-系统架构的11条原则](https://toutiao.io/k/xbwjqgj) 

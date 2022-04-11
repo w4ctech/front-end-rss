@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-04-11 14:39:12。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-04-11 15:15:45。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -16,6 +16,5 @@
 - [2022-03-15-基于howler.js写了个音频播放器组件](https://www.zhangxinxu.com/wordpress/2022/03/howler-js-audio-player/) 
 - [2022-03-07-介绍8个和滚动相关的CSS属性](https://www.zhangxinxu.com/wordpress/2022/03/10-css-scroll-scrollbar/) 
 - [2022-04-11-求推荐：-无线转有线，哪家的路由器支持？](https://www.v2ex.com/t/846351) 
-- [2022-04-11-关于-OpenWRT-路由器，内网户-ping-的问题](https://www.v2ex.com/t/846335) 
 - [2022-04-11-使用jscodeshift做自动化重构-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15004&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fjscodeshift%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-04-11-基于Apache组件，分析对象池原理](https://toutiao.io/k/1f98yoz) 

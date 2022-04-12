@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-04-12 18:45:50，:rocket: 更新条数: +2033， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-04-12 19:12:36，:rocket: 更新条数: +2033， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-04-12-Nymo：一个匿名分布式的消息网络](https://www.v2ex.com/t/846643) ![](assets/new.png)  
 - [2022-04-12-为什么-AMD-不出一款特挑版，类似-12900ks](https://www.v2ex.com/t/846642) ![](assets/new.png)  
 - [2022-04-12-写了一年-Newsletter-后的些许感想](https://www.v2ex.com/t/846641) ![](assets/new.png)  
 - [2022-04-12-自荐播客节目《枫言枫语》--听见科技与人文的声音](https://www.v2ex.com/t/846639) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-04-12-杭州-腾讯云消息团队实习生招聘](https://www.v2ex.com/t/846623) ![](assets/new.png)  
 - [2022-04-12-注册了一个域名-ip.fan-想找人合作，合作形式不限，如果您有-IP-相关内容的想法，也可以探讨](https://www.v2ex.com/t/846622) ![](assets/new.png)  
 - [2022-04-12-股票亏了-20-万心态确实不一样](https://www.v2ex.com/t/846621) ![](assets/new.png)  
-- [2022-04-12-新加坡/香港-招前端&后端&DevOps&测开](https://www.v2ex.com/t/846620) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -572,7 +572,7 @@
 - [2022-04-12-聊聊如何修复springboot使maven-resources-plugin占位符失效问题](https://toutiao.io/k/vk01f8z) ![](assets/new.png)  
 - [2022-04-12-多态实现-虚函数、函数指针以及变体](https://toutiao.io/k/o1wii1w) ![](assets/new.png)  
 - [2022-04-12-一个k维的二叉搜索树实现](https://toutiao.io/k/36rns95) ![](assets/new.png)  
-- [2022-04-12-推荐-盘点-3-月份-yyds-的开源项目](https://toutiao.io/k/79431xa) ![](assets/new.png)  
+- [2022-04-12-推荐-解析分布式系统的缓存设计](https://toutiao.io/k/pucrtli) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

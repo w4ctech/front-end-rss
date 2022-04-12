@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-04-12 15:15:10。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-04-12 15:44:53。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -353,7 +353,6 @@
 
 
 - [【V2EX】杭州-腾讯云消息团队实习生招聘](https://www.v2ex.com/t/846623)
-- [【V2EX】新加坡-Shopee/SeaMoney-海量职位招聘中！包签证！](https://www.v2ex.com/t/846582)
 - [【开发者头条】面试官：来说一说Go语言的函数调用惯例](https://toutiao.io/k/7nne2ee)
 - [【开发者头条】推荐-Kafka-面试连环炮,-看看你能撑到哪一步?](https://toutiao.io/k/z30ehzv)
 - [......【查看更多】......](./details/tags/job-interview.md)

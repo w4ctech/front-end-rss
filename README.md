@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-04-12 08:44:35，:rocket: 更新条数: +2029， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-04-12 09:14:14，:rocket: 更新条数: +2031， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,9 @@
 </summary>
 
 
+- [2022-04-12-请教下，炒菜炖汤剩下的的油、汤，怎么处理？](https://www.v2ex.com/t/846560) ![](assets/new.png)  
+- [2022-04-12-想找一台无线路由器做纯-AP-用，有推荐的吗？](https://www.v2ex.com/t/846559) ![](assets/new.png)  
+- [2022-04-12-rancher-添加-emptydir-卷类型](https://www.v2ex.com/t/846558) ![](assets/new.png)  
 - [2022-04-12-steam-每次打开都需要输入密码怎么破](https://www.v2ex.com/t/846555) ![](assets/new.png)  
 - [2022-04-12-win11-任务栏-底部图标溢出在哪看？](https://www.v2ex.com/t/846553) ![](assets/new.png)  
 - [2022-04-12-小程序账户突然封了，还不接受申诉](https://www.v2ex.com/t/846552) ![](assets/new.png)  
@@ -508,9 +511,6 @@
 - [2022-04-12-大佬们有没有类似宝塔的面板](https://www.v2ex.com/t/846535) ![](assets/new.png)  
 - [2022-04-12-微信状态现在有农场了-大家可以在朋友圈养小动物了](https://www.v2ex.com/t/846534) ![](assets/new.png)  
 - [2022-04-12-类似-airtable-这种产品的数据是怎么存储的？](https://www.v2ex.com/t/846532) ![](assets/new.png)  
-- [2022-04-12-mac-怎样实现真全局代理](https://www.v2ex.com/t/846531) ![](assets/new.png)  
-- [2022-04-12-意外黑屏/无法用外接键鼠唤醒合盖了的-mbp（绿巨能电池），请问各位有遇到过吗？](https://www.v2ex.com/t/846530) ![](assets/new.png)  
-- [2022-04-12-招人/上海-拼多多团队直招-Android&iOS-开发工程师，应届、社招的均可，欢迎有意向的同学投递，非诚勿扰](https://www.v2ex.com/t/846529) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -571,8 +571,8 @@
 - [2022-04-12-2022-年的-React-生态](https://toutiao.io/k/9lj9d6z) ![](assets/new.png)  
 - [2022-04-12-聊聊如何修复springboot使maven-resources-plugin占位符失效问题](https://toutiao.io/k/vk01f8z) ![](assets/new.png)  
 - [2022-04-12-一个k维的二叉搜索树实现](https://toutiao.io/k/36rns95) ![](assets/new.png)  
-- [2022-04-12-推荐-Kafka-面试连环炮,-看看你能撑到哪一步?](https://toutiao.io/k/z30ehzv) ![](assets/new.png)  
-- [2022-04-12-推荐-盘点-3-月份-yyds-的开源项目](https://toutiao.io/k/79431xa) ![](assets/new.png)  
+- [2022-04-12-推荐-万字长文助你上手软件领域驱动设计-DDD](https://toutiao.io/k/72nuj7z) ![](assets/new.png)  
+- [2022-04-12-推荐-写出结构优雅代码的4个技巧](https://toutiao.io/k/6cddvzi) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

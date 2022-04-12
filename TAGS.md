@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-04-12 05:13:29。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-04-12 05:39:00。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -156,7 +156,6 @@
 
 
 
-- [【V2EX】游戏版号如果是外国-ip-是不是比较难申请](https://www.v2ex.com/t/846447)
 - [......【查看更多】......](./details/tags/dev-game.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -305,6 +304,7 @@
 
 
 
+- [【V2EX】Android12-安装自定义的-HTTPS-证书到-root-ca](https://www.v2ex.com/t/846503)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -357,6 +357,7 @@
 
 
 
+- [【V2EX】请问面试官问你上一家公司薪资多少的时候,怎么回复?](https://www.v2ex.com/t/846504)
 - [【V2EX】广州-10k-20k-运维开发-DevOps-/-Java-/-iOS-/-嵌入式招聘（所有岗位均可实习）](https://www.v2ex.com/t/846455)
 - [【开发者头条】面试官：来说一说Go语言的函数调用惯例](https://toutiao.io/k/7nne2ee)
 - [【开发者头条】推荐-Kafka-面试连环炮,-看看你能撑到哪一步?](https://toutiao.io/k/z30ehzv)

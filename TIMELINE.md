@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-04-12 11:12:43。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-04-12 11:37:25。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,11 +68,12 @@
 </summary>
 
 
+- [【V2EX】2022-04-12-校招-offer-选择，求比较](https://www.v2ex.com/t/846588) 
+- [【V2EX】2022-04-12-斗胆问个问题，不要引战，在做技术选型-ClickHouse-和-StarRocks](https://www.v2ex.com/t/846587) 
 - [【V2EX】2022-04-12-个税申报是不是每年都要填一次？](https://www.v2ex.com/t/846585) 
 - [【V2EX】2022-04-12-有-win-笔记本触摸板像-Mac-一样好用的牌子吗?](https://www.v2ex.com/t/846583) 
 - [【V2EX】2022-04-12-新加坡-Shopee/SeaMoney-海量职位招聘中！包签证！](https://www.v2ex.com/t/846582) 
 - [【V2EX】2022-04-12-北京/上海商汤|小-P-家内推招人啦|多岗位招聘-20-60K/月](https://www.v2ex.com/t/846581) 
-- [【V2EX】2022-04-12-大家家里存粮还够吃几天？😃](https://www.v2ex.com/t/846580) 
 - [【V2EX】2022-04-12-Yet-another-Git-cherry-pick-教程](https://www.v2ex.com/t/846579) 
 - [【V2EX】2022-04-12-想换张流量卡](https://www.v2ex.com/t/846578) 
 - [【V2EX】2022-04-12-老哥们,windows-笔记本求推荐,主要是-spss-+-巨硬全家桶](https://www.v2ex.com/t/846577) 
@@ -106,7 +107,6 @@
 - [【V2EX】2022-04-12-现在还有什么类似-Sandisk-x110-这样性价比的-2.5-英寸-SSD?](https://www.v2ex.com/t/846542) 
 - [【V2EX】2022-04-12-推荐个推送财联社-VIP-文章的-TG-频道](https://www.v2ex.com/t/846540) 
 - [【V2EX】2022-04-12-求-iOS-通讯录同步-Android-软件](https://www.v2ex.com/t/846539) 
-- [【V2EX】2022-04-12-有人遇到过自签名证书问题吗](https://www.v2ex.com/t/846537) 
 - [【技术头条】2022-04-12-人手必备的常用网络命令合集，吐血整理！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15017&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493888%26amp%3Bidx%3D1%26amp%3Bsn%3D70d3506be895b9f146066d56dfae8b69%26amp%3Bchksm%3Dfa3f085bcd48814dbddbd6eddf6584cd9d9ebb768b37f25529371a625c4d09114bf9e2ea6fba%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-04-12-Java必会的工具库，让你的代码量减少90%-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15016&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493888%26amp%3Bidx%3D2%26amp%3Bsn%3D9f50338e5145bdd585e908e36aa7517d%26amp%3Bchksm%3Dfa3f085bcd48814d7386eb6707d907d58fa0313c300b3f73937f51525a7fc10671193f1557e2%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-04-12-技术主管和项目经理一定要读的6本书！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15015&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493887%26amp%3Bidx%3D1%26amp%3Bsn%3D1a13135d359785dd3c15d90dfaeb95e5%26amp%3Bchksm%3Dfa3f09a4cd4880b2c74c7b234fbfc6033b05283324ce3421d8c7ae3fdbb5039b9a2873874bc5%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -146,14 +146,14 @@
 - [【开发者头条】2022-04-12-聊聊如何修复springboot使maven-resources-plugin占位符失效问题](https://toutiao.io/k/vk01f8z) 
 - [【开发者头条】2022-04-12-2022-年的-React-生态](https://toutiao.io/k/9lj9d6z) 
 - [【开发者头条】2022-04-12-《非常时期囤货手册》](https://toutiao.io/k/vunyh1v) 
-- [【开发者头条】2022-04-12-推荐-盘点-3-月份-yyds-的开源项目](https://toutiao.io/k/79431xa) 
-- [【开发者头条】2022-04-12-推荐-20多个好用的-Vue-组件库，请查收！](https://toutiao.io/k/sskayyw) 
-- [【开发者头条】2022-04-12-推荐-解析分布式系统的缓存设计](https://toutiao.io/k/pucrtli) 
-- [【开发者头条】2022-04-12-推荐-Kafka-面试连环炮,-看看你能撑到哪一步?](https://toutiao.io/k/z30ehzv) 
 - [【开发者头条】2022-04-12-推荐-谷歌工程最佳实践](https://toutiao.io/k/q19mmjh) 
-- [【开发者头条】2022-04-12-推荐-系统架构的11条原则](https://toutiao.io/k/xbwjqgj) 
 - [【开发者头条】2022-04-12-推荐-写出结构优雅代码的4个技巧](https://toutiao.io/k/6cddvzi) 
+- [【开发者头条】2022-04-12-推荐-Kafka-面试连环炮,-看看你能撑到哪一步?](https://toutiao.io/k/z30ehzv) 
 - [【开发者头条】2022-04-12-推荐-万字长文助你上手软件领域驱动设计-DDD](https://toutiao.io/k/72nuj7z) 
+- [【开发者头条】2022-04-12-推荐-解析分布式系统的缓存设计](https://toutiao.io/k/pucrtli) 
+- [【开发者头条】2022-04-12-推荐-20多个好用的-Vue-组件库，请查收！](https://toutiao.io/k/sskayyw) 
+- [【开发者头条】2022-04-12-推荐-盘点-3-月份-yyds-的开源项目](https://toutiao.io/k/79431xa) 
+- [【开发者头条】2022-04-12-推荐-系统架构的11条原则](https://toutiao.io/k/xbwjqgj) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

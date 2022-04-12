@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-04-12 10:42:58。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-04-12 11:12:43。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -183,7 +183,6 @@
 - [【张鑫旭-鑫空间-鑫生活】基于howler.js写了个音频播放器组件](https://www.zhangxinxu.com/wordpress/2022/03/howler-js-audio-player/)
 - [【张鑫旭-鑫空间-鑫生活】介绍8个和滚动相关的CSS属性](https://www.zhangxinxu.com/wordpress/2022/03/10-css-scroll-scrollbar/)
 - [【V2EX】想找一台无线路由器做纯-AP-用，有推荐的吗？](https://www.v2ex.com/t/846559)
-- [【V2EX】最近在恶补-JavaScript，对运算符这个地方不太理解](https://www.v2ex.com/t/846528)
 - [【技术头条】使用jscodeshift做自动化重构-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15004&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fjscodeshift%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【开发者头条】基于HiKariCP组件，分析连接池原理](https://toutiao.io/k/n613vsx)
 - [......【查看更多】......](./details/tags/javascript.md)
@@ -337,6 +336,7 @@
 
 
 
+- [【V2EX】Yet-another-Git-cherry-pick-教程](https://www.v2ex.com/t/846579)
 - [【技术头条】Git这样回退代码，才足够优雅-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14999&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493737%26amp%3Bidx%3D2%26amp%3Bsn%3D7c34527cb2db4d99314ced0278bd6f25%26amp%3Bchksm%3Dfa3f0932cd488024bc8143699bc413de354ff8c52e8a96b463048843ea33a922064acc49fc0a%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [......【查看更多】......](./details/tags/git-svn.md)
 
@@ -354,6 +354,8 @@
 
 
 
+- [【V2EX】新加坡-Shopee/SeaMoney-海量职位招聘中！包签证！](https://www.v2ex.com/t/846582)
+- [【V2EX】北京/上海商汤|小-P-家内推招人啦|多岗位招聘-20-60K/月](https://www.v2ex.com/t/846581)
 - [【V2EX】柬埔寨地区在线招聘平台，招远程-ASO/ASM，时薪制-50-100/h](https://www.v2ex.com/t/846574)
 - [【V2EX】招聘-base-新加坡-Shopee-招聘-QA-QA-QA！](https://www.v2ex.com/t/846544)
 - [【开发者头条】面试官：来说一说Go语言的函数调用惯例](https://toutiao.io/k/7nne2ee)

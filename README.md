@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-04-12 07:39:04，:rocket: 更新条数: +2027， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-04-12 08:17:20，:rocket: 更新条数: +2029， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,18 @@
 </summary>
 
 
+- [2022-04-12-steam-每次打开都需要输入密码怎么破](https://www.v2ex.com/t/846555) ![](assets/new.png)  
+- [2022-04-12-win11-任务栏-底部图标溢出在哪看？](https://www.v2ex.com/t/846553) ![](assets/new.png)  
+- [2022-04-12-小程序账户突然封了，还不接受申诉](https://www.v2ex.com/t/846552) ![](assets/new.png)  
+- [2022-04-12-如果疫情期间主人不幸中招，家里的宠物有什么活命的机会吗](https://www.v2ex.com/t/846551) ![](assets/new.png)  
+- [2022-04-12-远程-DeBank/Rabby-邀请-SRE/前端/后端-加入-Web3-40K-80K](https://www.v2ex.com/t/846550) ![](assets/new.png)  
+- [2022-04-12-求租航星园附近-+-找室友](https://www.v2ex.com/t/846548) ![](assets/new.png)  
+- [2022-04-12-两份-offer-选择](https://www.v2ex.com/t/846546) ![](assets/new.png)  
+- [2022-04-12-jb-的-datagrip-好像可以支持复制粘贴数据表到另外一个库了](https://www.v2ex.com/t/846545) ![](assets/new.png)  
+- [2022-04-12-招聘-base-新加坡-Shopee-招聘-QA-QA-QA！](https://www.v2ex.com/t/846544) ![](assets/new.png)  
+- [2022-04-12-有-Deepl-api-free-的车队吗，在-bob-上使用](https://www.v2ex.com/t/846543) ![](assets/new.png)  
+- [2022-04-12-现在还有什么类似-Sandisk-x110-这样性价比的-2.5-英寸-SSD?](https://www.v2ex.com/t/846542) ![](assets/new.png)  
+- [2022-04-12-推荐个推送财联社-VIP-文章的-TG-频道](https://www.v2ex.com/t/846540) ![](assets/new.png)  
 - [2022-04-12-求-iOS-通讯录同步-Android-软件](https://www.v2ex.com/t/846539) ![](assets/new.png)  
 - [2022-04-12-有人遇到过自签名证书问题吗](https://www.v2ex.com/t/846537) ![](assets/new.png)  
 - [2022-04-12-大佬们有没有类似宝塔的面板](https://www.v2ex.com/t/846535) ![](assets/new.png)  
@@ -499,18 +511,6 @@
 - [2022-04-12-mac-怎样实现真全局代理](https://www.v2ex.com/t/846531) ![](assets/new.png)  
 - [2022-04-12-意外黑屏/无法用外接键鼠唤醒合盖了的-mbp（绿巨能电池），请问各位有遇到过吗？](https://www.v2ex.com/t/846530) ![](assets/new.png)  
 - [2022-04-12-招人/上海-拼多多团队直招-Android&iOS-开发工程师，应届、社招的均可，欢迎有意向的同学投递，非诚勿扰](https://www.v2ex.com/t/846529) ![](assets/new.png)  
-- [2022-04-12-最近在恶补-JavaScript，对运算符这个地方不太理解](https://www.v2ex.com/t/846528) ![](assets/new.png)  
-- [2022-04-12-关于-iPhone-imessage、日历广告、相册，这是通过什么方式发送的垃圾营销广告呢？](https://www.v2ex.com/t/846527) ![](assets/new.png)  
-- [2022-04-12-Parallels-虚拟机如何访问主机的-web-服务](https://www.v2ex.com/t/846525) ![](assets/new.png)  
-- [2022-04-12-Windows-非整数缩放的新思路？](https://www.v2ex.com/t/846524) ![](assets/new.png)  
-- [2022-04-12-又犯贱了，问下有没有可能用-vim-||-neovim-来写-swiftUI-项目，包括项目编译，运行。](https://www.v2ex.com/t/846523) ![](assets/new.png)  
-- [2022-04-12-请问：-Python-能否预加载一些模块](https://www.v2ex.com/t/846522) ![](assets/new.png)  
-- [2022-04-12-招聘：-Devops-工程师：-60-100-万](https://www.v2ex.com/t/846521) ![](assets/new.png)  
-- [2022-04-12-一个设想~~](https://www.v2ex.com/t/846520) ![](assets/new.png)  
-- [2022-04-12-Android-手机-wifi-正在获取-ip-地址-一般是什么因素导致的](https://www.v2ex.com/t/846519) ![](assets/new.png)  
-- [2022-04-12-brew-安装的-Java-如何隐藏-docker-中的图标？](https://www.v2ex.com/t/846518) ![](assets/new.png)  
-- [2022-04-12-文件损坏不可见也无法操作，咋办](https://www.v2ex.com/t/846517) ![](assets/new.png)  
-- [2022-04-12-看了V2EX-发布图文帖子的方法后写了一个复制粘贴上传图片的油猴脚本](https://www.v2ex.com/t/846516) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -571,8 +571,8 @@
 - [2022-04-12-2022-年的-React-生态](https://toutiao.io/k/9lj9d6z) ![](assets/new.png)  
 - [2022-04-12-一个k维的二叉搜索树实现](https://toutiao.io/k/36rns95) ![](assets/new.png)  
 - [2022-04-12-聊聊如何修复springboot使maven-resources-plugin占位符失效问题](https://toutiao.io/k/vk01f8z) ![](assets/new.png)  
-- [2022-04-12-推荐-谷歌工程最佳实践](https://toutiao.io/k/q19mmjh) ![](assets/new.png)  
-- [2022-04-12-推荐-写出结构优雅代码的4个技巧](https://toutiao.io/k/6cddvzi) ![](assets/new.png)  
+- [2022-04-12-推荐-万字长文助你上手软件领域驱动设计-DDD](https://toutiao.io/k/72nuj7z) ![](assets/new.png)  
+- [2022-04-12-推荐-盘点-3-月份-yyds-的开源项目](https://toutiao.io/k/79431xa) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

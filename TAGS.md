@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-04-12 13:47:13。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-04-12 14:13:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -258,7 +258,6 @@
 
 
 
-- [【V2EX】redis-百万级的-key-性能如何](https://www.v2ex.com/t/846567)
 - [【技术头条】52条SQL语句性能优化策略，建议收藏！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15012&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493797%26amp%3Bidx%3D2%26amp%3Bsn%3D1dbc093793d9085034fa0c1297ab3aae%26amp%3Bchksm%3Dfa3f09fecd4880e89d1057391f9081c6370469beba67bf10415a1873130220d3e669066eea75%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【开发者头条】9大高性能优化经验总结，强烈建议收藏！！！](https://toutiao.io/k/26za4ep)
 - [【开发者头条】大前端性能体系建设，记住这几条tips](https://toutiao.io/k/lxaqahw)
@@ -286,7 +285,6 @@
 - [【武汉肺炎防疫全纪录(财新网)】解药|新冠mRNA疫苗安全性有哪些挑战？](https://m.caixin.com/m/2021-01-08/101648043.html)
 - [【武汉肺炎防疫全纪录(财新网)】大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html)
 - [【V2EX】请教-vscode-的-prettier-格式化代码的一个问题](https://www.v2ex.com/t/846572)
-- [【V2EX】Hubstudio-多登浏览器设置指纹保障跨境电商账号安全](https://www.v2ex.com/t/846563)
 - [【开发者头条】推荐-解析分布式系统的缓存设计](https://toutiao.io/k/pucrtli)
 - [......【查看更多】......](./details/tags/browser.md)
 

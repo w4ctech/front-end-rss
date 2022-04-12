@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-04-12 16:16:59，:rocket: 更新条数: +2034， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-04-12 16:57:03，:rocket: 更新条数: +2034， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-04-12-自荐播客节目《枫言枫语》--听见科技与人文的声音](https://www.v2ex.com/t/846639) ![](assets/new.png)  
+- [2022-04-12-现在在-Mac-和-windows-间反复横跳，很难受怎么办](https://www.v2ex.com/t/846638) ![](assets/new.png)  
 - [2022-04-12-Ubuntu-的-Snap-和-macOS-的-Bundle-有什么区别？](https://www.v2ex.com/t/846637) ![](assets/new.png)  
 - [2022-04-12-你在京东金融存了多少钱？](https://www.v2ex.com/t/846636) ![](assets/new.png)  
 - [2022-04-12-火狐浏览器打开，某个.bat-运行的东西就会提示报错](https://www.v2ex.com/t/846635) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-04-12-新加坡/香港-招前端&后端&DevOps&测开](https://www.v2ex.com/t/846620) ![](assets/new.png)  
 - [2022-04-12-有兴趣的老哥可以加下在上海程序员的群啊](https://www.v2ex.com/t/846618) ![](assets/new.png)  
 - [2022-04-12-生产环境和测试环境的微信支付是同一商户号和-appdId，想区分一下环境](https://www.v2ex.com/t/846617) ![](assets/new.png)  
-- [2022-04-12-es-的攻击图数据怎么一次查询实现](https://www.v2ex.com/t/846615) ![](assets/new.png)  
-- [2022-04-12-有没有啥方法可以远程协助父母完成换机](https://www.v2ex.com/t/846614) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -568,11 +568,11 @@
 - [2022-04-12-对话阿里巴巴副总裁贾扬清：追求大模型，并不是一件坏事](https://toutiao.io/k/x0fy7fb) ![](assets/new.png)  
 - [2022-04-12-【Vuejs】1247--Vue3-如何实现-Feature-Flags？](https://toutiao.io/k/9l99sb1) ![](assets/new.png)  
 - [2022-04-12-《非常时期囤货手册》](https://toutiao.io/k/vunyh1v) ![](assets/new.png)  
-- [2022-04-12-聊聊如何修复springboot使maven-resources-plugin占位符失效问题](https://toutiao.io/k/vk01f8z) ![](assets/new.png)  
 - [2022-04-12-2022-年的-React-生态](https://toutiao.io/k/9lj9d6z) ![](assets/new.png)  
+- [2022-04-12-聊聊如何修复springboot使maven-resources-plugin占位符失效问题](https://toutiao.io/k/vk01f8z) ![](assets/new.png)  
 - [2022-04-12-多态实现-虚函数、函数指针以及变体](https://toutiao.io/k/o1wii1w) ![](assets/new.png)  
 - [2022-04-12-一个k维的二叉搜索树实现](https://toutiao.io/k/36rns95) ![](assets/new.png)  
-- [2022-04-12-推荐-解析分布式系统的缓存设计](https://toutiao.io/k/pucrtli) ![](assets/new.png)  
+- [2022-04-12-推荐-谷歌工程最佳实践](https://toutiao.io/k/q19mmjh) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

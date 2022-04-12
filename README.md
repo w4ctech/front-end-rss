@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-04-12 03:55:41，:rocket: 更新条数: +2022， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-04-12 04:16:41，:rocket: 更新条数: +2022， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,10 @@
 </summary>
 
 
+- [2022-04-12-国内三大运营商有没有哪家支持-PPPoE-Baby-Jumbo-Frame-RFC4638？](https://www.v2ex.com/t/846483) ![](assets/new.png)  
+- [2022-04-12-macbook-pro-14-除了-bartender-还有什么软件可以拯救刘海的旁边的图标吗](https://www.v2ex.com/t/846482) ![](assets/new.png)  
+- [2022-04-12-screenshot-网站截图服务（beta）](https://www.v2ex.com/t/846481) ![](assets/new.png)  
+- [2022-04-12-怎样去掉-Safari-的按-Esc-键退出全屏显示这个快捷键？](https://www.v2ex.com/t/846479) ![](assets/new.png)  
 - [2022-04-12-大佬们啊，-win10-默认的打开文件夹有问题了，求救啊，具体表现如下。](https://www.v2ex.com/t/846478) ![](assets/new.png)  
 - [2022-04-12-浙江杭州地区电信光猫能仅-IPv6-拨号吗？](https://www.v2ex.com/t/846477) ![](assets/new.png)  
 - [2022-04-12-今年的实习太难找了](https://www.v2ex.com/t/846476) ![](assets/new.png)  
@@ -507,10 +511,6 @@
 - [2022-04-12-VS-Code-源代码管理功能突然把-win10-user-目录下全部识别成-git-仓库了](https://www.v2ex.com/t/846462) ![](assets/new.png)  
 - [2022-04-12-能不能把前端的-jsdelivr-当成网盘使用?](https://www.v2ex.com/t/846461) ![](assets/new.png)  
 - [2022-04-12-请问你们有发生开盖时，-Touch-Bar-闪烁的问题吗](https://www.v2ex.com/t/846460) ![](assets/new.png)  
-- [2022-04-12-联想笔记本解锁-BIOS-高级设置的方法有几种?](https://www.v2ex.com/t/846458) ![](assets/new.png)  
-- [2022-04-12-有不需要后端的-flat-file-cms-么](https://www.v2ex.com/t/846457) ![](assets/new.png)  
-- [2022-04-12-请教大家项目很多的时候-Jenkins-怎么批量切换分支的](https://www.v2ex.com/t/846456) ![](assets/new.png)  
-- [2022-04-12-广州-10k-20k-运维开发-DevOps-/-Java-/-iOS-/-嵌入式招聘（所有岗位均可实习）](https://www.v2ex.com/t/846455) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -561,18 +561,18 @@
 - [2022-04-12-Web3建设者的去中心化指南；科学居家运动指南；谷歌工程最佳实践｜码农周刊VIP会员专属Newsletter-Vol.087](https://toutiao.io/k/gdesf1u) ![](assets/new.png)  
 - [2022-04-12-字节跳动云原生-Spark-History-服务的实现与优化](https://toutiao.io/k/8ph5004) ![](assets/new.png)  
 - [2022-04-12-面试官：来说一说Go语言的函数调用惯例](https://toutiao.io/k/7nne2ee) ![](assets/new.png)  
-- [2022-04-12-职场合作的博弈](https://toutiao.io/k/4eg7kh3) ![](assets/new.png)  
 - [2022-04-12-Lyft微服务研发效能提升实践-|-4.-基于自动验收测试的部署门禁](https://toutiao.io/k/unljc6v) ![](assets/new.png)  
+- [2022-04-12-职场合作的博弈](https://toutiao.io/k/4eg7kh3) ![](assets/new.png)  
 - [2022-04-12-新提案：增加标准库-Context-的取消-API](https://toutiao.io/k/z86d6me) ![](assets/new.png)  
 - [2022-04-12-对话阿里巴巴副总裁贾扬清：追求大模型，并不是一件坏事](https://toutiao.io/k/x0fy7fb) ![](assets/new.png)  
 - [2022-04-12-【Vuejs】1247--Vue3-如何实现-Feature-Flags？](https://toutiao.io/k/9l99sb1) ![](assets/new.png)  
-- [2022-04-12-推荐-20多个好用的-Vue-组件库，请查收！](https://toutiao.io/k/sskayyw) ![](assets/new.png)  
-- [2022-04-12-推荐-盘点-3-月份-yyds-的开源项目](https://toutiao.io/k/79431xa) ![](assets/new.png)  
-- [2022-04-12-推荐-谷歌工程最佳实践](https://toutiao.io/k/q19mmjh) ![](assets/new.png)  
 - [2022-04-12-推荐-Kafka-面试连环炮,-看看你能撑到哪一步?](https://toutiao.io/k/z30ehzv) ![](assets/new.png)  
+- [2022-04-12-推荐-系统架构的11条原则](https://toutiao.io/k/xbwjqgj) ![](assets/new.png)  
 - [2022-04-12-推荐-写出结构优雅代码的4个技巧](https://toutiao.io/k/6cddvzi) ![](assets/new.png)  
 - [2022-04-12-推荐-万字长文助你上手软件领域驱动设计-DDD](https://toutiao.io/k/72nuj7z) ![](assets/new.png)  
+- [2022-04-12-推荐-盘点-3-月份-yyds-的开源项目](https://toutiao.io/k/79431xa) ![](assets/new.png)  
 - [2022-04-12-推荐-解析分布式系统的缓存设计](https://toutiao.io/k/pucrtli) ![](assets/new.png)  
+- [2022-04-12-推荐-谷歌工程最佳实践](https://toutiao.io/k/q19mmjh) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

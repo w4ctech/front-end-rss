@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-04-12 09:14:14，:rocket: 更新条数: +2031， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-04-12 09:40:25，:rocket: 更新条数: +2032， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,15 @@
 </summary>
 
 
+- [2022-04-12-朋友因为退税在北京的摇号资格被取消了](https://www.v2ex.com/t/846570) ![](assets/new.png)  
+- [2022-04-12-idm-怎么设置关闭下载对话框仍然下载](https://www.v2ex.com/t/846569) ![](assets/new.png)  
+- [2022-04-12-本人前端，公司的项目很普通，提升有限，想问下大家空闲时间都是怎么提升自己的呢](https://www.v2ex.com/t/846568) ![](assets/new.png)  
+- [2022-04-12-redis-百万级的-key-性能如何](https://www.v2ex.com/t/846567) ![](assets/new.png)  
+- [2022-04-12-Kitty-昨天发布的新版包含的-Shell-integration-很实用](https://www.v2ex.com/t/846566) ![](assets/new.png)  
+- [2022-04-12-想监控美团-APP-某个没货的商品，一旦有货就通知我，需要什么技术栈？](https://www.v2ex.com/t/846565) ![](assets/new.png)  
+- [2022-04-12-MBP16-还是顶配-DELL-XPS？](https://www.v2ex.com/t/846564) ![](assets/new.png)  
+- [2022-04-12-Hubstudio-多登浏览器设置指纹保障跨境电商账号安全](https://www.v2ex.com/t/846563) ![](assets/new.png)  
+- [2022-04-12-写了个辅助读-README-的插件](https://www.v2ex.com/t/846561) ![](assets/new.png)  
 - [2022-04-12-请教下，炒菜炖汤剩下的的油、汤，怎么处理？](https://www.v2ex.com/t/846560) ![](assets/new.png)  
 - [2022-04-12-想找一台无线路由器做纯-AP-用，有推荐的吗？](https://www.v2ex.com/t/846559) ![](assets/new.png)  
 - [2022-04-12-rancher-添加-emptydir-卷类型](https://www.v2ex.com/t/846558) ![](assets/new.png)  
@@ -502,15 +511,6 @@
 - [2022-04-12-求租航星园附近-+-找室友](https://www.v2ex.com/t/846548) ![](assets/new.png)  
 - [2022-04-12-两份-offer-选择](https://www.v2ex.com/t/846546) ![](assets/new.png)  
 - [2022-04-12-jb-的-datagrip-好像可以支持复制粘贴数据表到另外一个库了](https://www.v2ex.com/t/846545) ![](assets/new.png)  
-- [2022-04-12-招聘-base-新加坡-Shopee-招聘-QA-QA-QA！](https://www.v2ex.com/t/846544) ![](assets/new.png)  
-- [2022-04-12-有-Deepl-api-free-的车队吗，在-bob-上使用](https://www.v2ex.com/t/846543) ![](assets/new.png)  
-- [2022-04-12-现在还有什么类似-Sandisk-x110-这样性价比的-2.5-英寸-SSD?](https://www.v2ex.com/t/846542) ![](assets/new.png)  
-- [2022-04-12-推荐个推送财联社-VIP-文章的-TG-频道](https://www.v2ex.com/t/846540) ![](assets/new.png)  
-- [2022-04-12-求-iOS-通讯录同步-Android-软件](https://www.v2ex.com/t/846539) ![](assets/new.png)  
-- [2022-04-12-有人遇到过自签名证书问题吗](https://www.v2ex.com/t/846537) ![](assets/new.png)  
-- [2022-04-12-大佬们有没有类似宝塔的面板](https://www.v2ex.com/t/846535) ![](assets/new.png)  
-- [2022-04-12-微信状态现在有农场了-大家可以在朋友圈养小动物了](https://www.v2ex.com/t/846534) ![](assets/new.png)  
-- [2022-04-12-类似-airtable-这种产品的数据是怎么存储的？](https://www.v2ex.com/t/846532) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -569,10 +569,10 @@
 - [2022-04-12-一文了解如何发现并解决Redis热key与大key问题](https://toutiao.io/k/xre7tun) ![](assets/new.png)  
 - [2022-04-12-多态实现-虚函数、函数指针以及变体](https://toutiao.io/k/o1wii1w) ![](assets/new.png)  
 - [2022-04-12-2022-年的-React-生态](https://toutiao.io/k/9lj9d6z) ![](assets/new.png)  
-- [2022-04-12-聊聊如何修复springboot使maven-resources-plugin占位符失效问题](https://toutiao.io/k/vk01f8z) ![](assets/new.png)  
 - [2022-04-12-一个k维的二叉搜索树实现](https://toutiao.io/k/36rns95) ![](assets/new.png)  
-- [2022-04-12-推荐-万字长文助你上手软件领域驱动设计-DDD](https://toutiao.io/k/72nuj7z) ![](assets/new.png)  
-- [2022-04-12-推荐-写出结构优雅代码的4个技巧](https://toutiao.io/k/6cddvzi) ![](assets/new.png)  
+- [2022-04-12-聊聊如何修复springboot使maven-resources-plugin占位符失效问题](https://toutiao.io/k/vk01f8z) ![](assets/new.png)  
+- [2022-04-12-《非常时期囤货手册》](https://toutiao.io/k/vunyh1v) ![](assets/new.png)  
+- [2022-04-12-推荐-系统架构的11条原则](https://toutiao.io/k/xbwjqgj) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

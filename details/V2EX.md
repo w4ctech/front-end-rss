@@ -1,12 +1,12 @@
-:alarm_clock: 更新时间: 2022-04-12 18:16:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-04-12 18:45:50。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-04-12-为什么-AMD-不出一款特挑版，类似-12900ks](https://www.v2ex.com/t/846642) 
 - [2022-04-12-写了一年-Newsletter-后的些许感想](https://www.v2ex.com/t/846641) 
-- [2022-04-12-请问：我们班的女同学会不会喜欢我](https://www.v2ex.com/t/846640) 
 - [2022-04-12-自荐播客节目《枫言枫语》--听见科技与人文的声音](https://www.v2ex.com/t/846639) 
 - [2022-04-12-现在在-Mac-和-windows-间反复横跳，很难受怎么办](https://www.v2ex.com/t/846638) 
 - [2022-04-12-Ubuntu-的-Snap-和-macOS-的-Bundle-有什么区别？](https://www.v2ex.com/t/846637) 
@@ -46,4 +46,3 @@
 - [2022-04-12-你问过自己，想写什么吗？](https://www.v2ex.com/t/846595) 
 - [2022-04-12-为什么-ASP.NET-Core-写的网站在启动后一段时间内不断访问内存会线性增长，没有下降趋势？为什么其它语言写的-Web-程序没有这种现象？](https://www.v2ex.com/t/846594) 
 - [2022-04-12-关于-serverless-服务的几个问题](https://www.v2ex.com/t/846593) 
-- [2022-04-12-直播预告-凡泰讲堂第一期：洞见云原生，-Kubernetes-技术详解与实践](https://www.v2ex.com/t/846592) 

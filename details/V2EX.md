@@ -1,10 +1,13 @@
-:alarm_clock: 更新时间: 2022-04-12 15:44:53。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-04-12 16:17:00。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-04-12-Ubuntu-的-Snap-和-macOS-的-Bundle-有什么区别？](https://www.v2ex.com/t/846637) 
+- [2022-04-12-你在京东金融存了多少钱？](https://www.v2ex.com/t/846636) 
+- [2022-04-12-火狐浏览器打开，某个.bat-运行的东西就会提示报错](https://www.v2ex.com/t/846635) 
 - [2022-04-12-有人知道这种图用什么画的嘛？](https://www.v2ex.com/t/846634) 
 - [2022-04-12-个税综合汇算收入里没包括年终奖](https://www.v2ex.com/t/846633) 
 - [2022-04-12-求助提问-subprocess-的并行的一个问题](https://www.v2ex.com/t/846632) 
@@ -44,5 +47,3 @@
 - [2022-04-12-编程语言会给它的发明者带来哪些利益？](https://www.v2ex.com/t/846590) 
 - [2022-04-12-一年制英硕，布里斯托数据科学&华威计算机科学选哪个？](https://www.v2ex.com/t/846589) 
 - [2022-04-12-校招-offer-选择，求比较](https://www.v2ex.com/t/846588) 
-- [2022-04-12-斗胆问个问题，不要引战，在做技术选型-ClickHouse-和-StarRocks](https://www.v2ex.com/t/846587) 
-- [2022-04-12-个税申报是不是每年都要填一次？](https://www.v2ex.com/t/846585) 

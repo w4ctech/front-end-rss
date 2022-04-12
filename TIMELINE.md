@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-04-12 14:13:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-04-12 14:38:47。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,8 +68,13 @@
 </summary>
 
 
+- [【V2EX】2022-04-12-win7-如何离线安装-Office2019-或更高版本](https://www.v2ex.com/t/846624) 
+- [【V2EX】2022-04-12-杭州-腾讯云消息团队实习生招聘](https://www.v2ex.com/t/846623) 
+- [【V2EX】2022-04-12-注册了一个域名-ip.fan-想找人合作，合作形式不限，如果您有-IP-相关内容的想法，也可以探讨](https://www.v2ex.com/t/846622) 
+- [【V2EX】2022-04-12-股票亏了-20-万心态确实不一样](https://www.v2ex.com/t/846621) 
+- [【V2EX】2022-04-12-新加坡/香港-招前端&后端&DevOps&测开](https://www.v2ex.com/t/846620) 
+- [【V2EX】2022-04-12-有兴趣的老哥可以加下在上海程序员的群啊](https://www.v2ex.com/t/846618) 
 - [【V2EX】2022-04-12-生产环境和测试环境的微信支付是同一商户号和-appdId，想区分一下环境](https://www.v2ex.com/t/846617) 
-- [【V2EX】2022-04-12-你每天都把生命浪费在了哪些事情上面？](https://www.v2ex.com/t/846616) 
 - [【V2EX】2022-04-12-es-的攻击图数据怎么一次查询实现](https://www.v2ex.com/t/846615) 
 - [【V2EX】2022-04-12-有没有啥方法可以远程协助父母完成换机](https://www.v2ex.com/t/846614) 
 - [【V2EX】2022-04-12-北京、上海-小红书招人啦](https://www.v2ex.com/t/846612) 
@@ -104,13 +109,6 @@
 - [【V2EX】2022-04-12-老哥们,windows-笔记本求推荐,主要是-spss-+-巨硬全家桶](https://www.v2ex.com/t/846577) 
 - [【V2EX】2022-04-12-TextExpander、Atext、TypeIt4Me，除了这三个以外，还有更适合国人的代码片段补充工具吗？](https://www.v2ex.com/t/846576) 
 - [【V2EX】2022-04-12-如何动态的去监听数值变化？](https://www.v2ex.com/t/846575) 
-- [【V2EX】2022-04-12-柬埔寨地区在线招聘平台，招远程-ASO/ASM，时薪制-50-100/h](https://www.v2ex.com/t/846574) 
-- [【V2EX】2022-04-12-发现一个下载-Xcode-的工具----xcodes](https://www.v2ex.com/t/846573) 
-- [【V2EX】2022-04-12-请教-vscode-的-prettier-格式化代码的一个问题](https://www.v2ex.com/t/846572) 
-- [【V2EX】2022-04-12-22-届大四应届生求职，受-yi-情狙击，急求坑位。前端偏全栈](https://www.v2ex.com/t/846571) 
-- [【V2EX】2022-04-12-朋友因为退税在北京的摇号资格被取消了](https://www.v2ex.com/t/846570) 
-- [【V2EX】2022-04-12-idm-怎么设置关闭下载对话框仍然下载](https://www.v2ex.com/t/846569) 
-- [【V2EX】2022-04-12-本人前端，公司的项目很普通，提升有限，想问下大家空闲时间都是怎么提升自己的呢](https://www.v2ex.com/t/846568) 
 - [【技术头条】2022-04-12-人手必备的常用网络命令合集，吐血整理！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15017&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493888%26amp%3Bidx%3D1%26amp%3Bsn%3D70d3506be895b9f146066d56dfae8b69%26amp%3Bchksm%3Dfa3f085bcd48814dbddbd6eddf6584cd9d9ebb768b37f25529371a625c4d09114bf9e2ea6fba%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-04-12-Java必会的工具库，让你的代码量减少90%-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15016&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493888%26amp%3Bidx%3D2%26amp%3Bsn%3D9f50338e5145bdd585e908e36aa7517d%26amp%3Bchksm%3Dfa3f085bcd48814d7386eb6707d907d58fa0313c300b3f73937f51525a7fc10671193f1557e2%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-04-12-技术主管和项目经理一定要读的6本书！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15015&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493887%26amp%3Bidx%3D1%26amp%3Bsn%3D1a13135d359785dd3c15d90dfaeb95e5%26amp%3Bchksm%3Dfa3f09a4cd4880b2c74c7b234fbfc6033b05283324ce3421d8c7ae3fdbb5039b9a2873874bc5%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -151,13 +149,13 @@
 - [【开发者头条】2022-04-12-一个k维的二叉搜索树实现](https://toutiao.io/k/36rns95) 
 - [【开发者头条】2022-04-12-2022-年的-React-生态](https://toutiao.io/k/9lj9d6z) 
 - [【开发者头条】2022-04-12-推荐-写出结构优雅代码的4个技巧](https://toutiao.io/k/6cddvzi) 
-- [【开发者头条】2022-04-12-推荐-系统架构的11条原则](https://toutiao.io/k/xbwjqgj) 
-- [【开发者头条】2022-04-12-推荐-万字长文助你上手软件领域驱动设计-DDD](https://toutiao.io/k/72nuj7z) 
-- [【开发者头条】2022-04-12-推荐-20多个好用的-Vue-组件库，请查收！](https://toutiao.io/k/sskayyw) 
-- [【开发者头条】2022-04-12-推荐-谷歌工程最佳实践](https://toutiao.io/k/q19mmjh) 
-- [【开发者头条】2022-04-12-推荐-Kafka-面试连环炮,-看看你能撑到哪一步?](https://toutiao.io/k/z30ehzv) 
 - [【开发者头条】2022-04-12-推荐-解析分布式系统的缓存设计](https://toutiao.io/k/pucrtli) 
+- [【开发者头条】2022-04-12-推荐-系统架构的11条原则](https://toutiao.io/k/xbwjqgj) 
+- [【开发者头条】2022-04-12-推荐-谷歌工程最佳实践](https://toutiao.io/k/q19mmjh) 
+- [【开发者头条】2022-04-12-推荐-20多个好用的-Vue-组件库，请查收！](https://toutiao.io/k/sskayyw) 
 - [【开发者头条】2022-04-12-推荐-盘点-3-月份-yyds-的开源项目](https://toutiao.io/k/79431xa) 
+- [【开发者头条】2022-04-12-推荐-万字长文助你上手软件领域驱动设计-DDD](https://toutiao.io/k/72nuj7z) 
+- [【开发者头条】2022-04-12-推荐-Kafka-面试连环炮,-看看你能撑到哪一步?](https://toutiao.io/k/z30ehzv) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

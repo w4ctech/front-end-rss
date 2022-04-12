@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-04-12 07:14:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-04-12 07:39:04。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1913,6 +1913,9 @@
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2022-03-21-ascent-override-descent-override-line-gap-override一锅端](https://www.zhangxinxu.com/wordpress/2022/03/css-ascent-override-descent/) 
 - [2022-02-04-HTML-inputmode与iOS-Android软键盘类型测试](https://www.zhangxinxu.com/wordpress/2022/02/html-inputmode-keyboard/) 
+- [2022-04-12-求-iOS-通讯录同步-Android-软件](https://www.v2ex.com/t/846539) 
+- [2022-04-12-有人遇到过自签名证书问题吗](https://www.v2ex.com/t/846537) 
+- [2022-04-12-大佬们有没有类似宝塔的面板](https://www.v2ex.com/t/846535) 
 - [2022-04-12-微信状态现在有农场了-大家可以在朋友圈养小动物了](https://www.v2ex.com/t/846534) 
 - [2022-04-12-类似-airtable-这种产品的数据是怎么存储的？](https://www.v2ex.com/t/846532) 
 - [2022-04-12-mac-怎样实现真全局代理](https://www.v2ex.com/t/846531) 
@@ -1936,10 +1939,6 @@
 - [2022-04-12-有没有离线版的-Notion-可用？](https://www.v2ex.com/t/846494) 
 - [2022-04-12-springfox-很久不更新了-有没有替代品](https://www.v2ex.com/t/846492) 
 - [2022-04-12-logback-在打印完一个很大的内容的时候，程序会卡在那里很久是为什么？](https://www.v2ex.com/t/846490) 
-- [2022-04-12-现在还能让第三方代缴社保不？](https://www.v2ex.com/t/846489) 
-- [2022-04-12-现在-XPS-和-MBA-选哪个？软测方向](https://www.v2ex.com/t/846487) 
-- [2022-04-12-求推荐靠谱的-MBP-第三方换屏商家](https://www.v2ex.com/t/846486) 
-- [2022-04-12-你问过自己，想做什么吗？](https://www.v2ex.com/t/846485) 
 - [2022-04-12-人手必备的常用网络命令合集，吐血整理！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15017&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493888%26amp%3Bidx%3D1%26amp%3Bsn%3D70d3506be895b9f146066d56dfae8b69%26amp%3Bchksm%3Dfa3f085bcd48814dbddbd6eddf6584cd9d9ebb768b37f25529371a625c4d09114bf9e2ea6fba%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-04-12-Java必会的工具库，让你的代码量减少90%-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15016&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493888%26amp%3Bidx%3D2%26amp%3Bsn%3D9f50338e5145bdd585e908e36aa7517d%26amp%3Bchksm%3Dfa3f085bcd48814d7386eb6707d907d58fa0313c300b3f73937f51525a7fc10671193f1557e2%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-04-12-技术主管和项目经理一定要读的6本书！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15015&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493887%26amp%3Bidx%3D1%26amp%3Bsn%3D1a13135d359785dd3c15d90dfaeb95e5%26amp%3Bchksm%3Dfa3f09a4cd4880b2c74c7b234fbfc6033b05283324ce3421d8c7ae3fdbb5039b9a2873874bc5%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1966,8 +1965,8 @@
 - [2022-04-12-多态实现-虚函数、函数指针以及变体](https://toutiao.io/k/o1wii1w) 
 - [2022-04-12-一个k维的二叉搜索树实现](https://toutiao.io/k/36rns95) 
 - [2022-04-12-聊聊如何修复springboot使maven-resources-plugin占位符失效问题](https://toutiao.io/k/vk01f8z) 
-- [2022-04-12-推荐-写出结构优雅代码的4个技巧](https://toutiao.io/k/6cddvzi) 
 - [2022-04-12-推荐-谷歌工程最佳实践](https://toutiao.io/k/q19mmjh) 
+- [2022-04-12-推荐-写出结构优雅代码的4个技巧](https://toutiao.io/k/6cddvzi) 
+- [2022-04-12-推荐-盘点-3-月份-yyds-的开源项目](https://toutiao.io/k/79431xa) 
 - [2022-04-12-推荐-系统架构的11条原则](https://toutiao.io/k/xbwjqgj) 
 - [2022-04-12-推荐-万字长文助你上手软件领域驱动设计-DDD](https://toutiao.io/k/72nuj7z) 
-- [2022-04-12-推荐-盘点-3-月份-yyds-的开源项目](https://toutiao.io/k/79431xa) 

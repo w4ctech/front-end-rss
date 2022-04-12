@@ -9953,6 +9953,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "写了一年 Newsletter 后的些许感想",
+        "link": "https://www.v2ex.com/t/846641",
+        "date": "2022-04-12"
+      },
+      {
         "title": "请问：我们班的女同学会不会喜欢我",
         "link": "https://www.v2ex.com/t/846640",
         "date": "2022-04-12"
@@ -10155,11 +10160,6 @@
       {
         "title": "[直播预告] 凡泰讲堂第一期：洞见云原生， Kubernetes 技术详解与实践",
         "link": "https://www.v2ex.com/t/846592",
-        "date": "2022-04-12"
-      },
-      {
-        "title": "Oreilly 阅读器 ACM 专业版被取消了访问权限",
-        "link": "https://www.v2ex.com/t/846591",
         "date": "2022-04-12"
       }
     ]
@@ -10372,8 +10372,8 @@
         "date": "2022-04-12"
       },
       {
-        "title": "[推荐] 盘点 3 月份 yyds 的开源项目",
-        "link": "https://toutiao.io/k/79431xa",
+        "title": "[推荐] 万字长文助你上手软件领域驱动设计 DDD",
+        "link": "https://toutiao.io/k/72nuj7z",
         "date": "2022-04-12"
       },
       {
@@ -10392,8 +10392,8 @@
         "date": "2022-04-12"
       },
       {
-        "title": "[推荐] 万字长文助你上手软件领域驱动设计 DDD",
-        "link": "https://toutiao.io/k/72nuj7z",
+        "title": "[推荐] 解析分布式系统的缓存设计",
+        "link": "https://toutiao.io/k/pucrtli",
         "date": "2022-04-12"
       },
       {
@@ -10402,8 +10402,8 @@
         "date": "2022-04-12"
       },
       {
-        "title": "[推荐] 解析分布式系统的缓存设计",
-        "link": "https://toutiao.io/k/pucrtli",
+        "title": "[推荐] 盘点 3 月份 yyds 的开源项目",
+        "link": "https://toutiao.io/k/79431xa",
         "date": "2022-04-12"
       }
     ]

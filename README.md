@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-04-13 18:15:50，:rocket: 更新条数: +2022， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-04-13 18:46:03，:rocket: 更新条数: +2022， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-04-13-macOS-上的-Books.app-能上下垂直滚动吗？](https://www.v2ex.com/t/846852) ![](assets/new.png)  
 - [2022-04-13-有什么易于保存，好喝&健康的果汁吗？](https://www.v2ex.com/t/846851) ![](assets/new.png)  
 - [2022-04-13-关于-Windows-10/11-的全系统色彩管理](https://www.v2ex.com/t/846850) ![](assets/new.png)  
 - [2022-04-13-国内宽带运营商里家宽质量最好的应该就是联通了](https://www.v2ex.com/t/846848) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-04-13-请教两个问题，关于-Event-Sourcing-和-CQRS](https://www.v2ex.com/t/846827) ![](assets/new.png)  
 - [2022-04-13-发现-photoshop-做九图好简单啊](https://www.v2ex.com/t/846826) ![](assets/new.png)  
 - [2022-04-13-不懂就问，当我们在软件领域说“金融级”这个概念的时候到底是在说啥？有什么明确的定义么？](https://www.v2ex.com/t/846824) ![](assets/new.png)  
-- [2022-04-13-找个能写-Windows-桌面端程序猿，小软件难度一般，价钱-2k-左右-详谈](https://www.v2ex.com/t/846823) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -571,7 +571,7 @@
 - [2022-04-13-转转测试环境标签域名实践](https://toutiao.io/k/h2sccdt) ![](assets/new.png)  
 - [2022-04-13-实录-|-MegEngine-大-Kernel-卷积工程优化实践](https://toutiao.io/k/3krv7su) ![](assets/new.png)  
 - [2022-04-13-推荐-写出结构优雅代码的4个技巧](https://toutiao.io/k/6cddvzi) ![](assets/new.png)  
-- [2022-04-13-推荐-系统架构的11条原则](https://toutiao.io/k/xbwjqgj) ![](assets/new.png)  
+- [2022-04-13-推荐-盘点-3-月份-yyds-的开源项目](https://toutiao.io/k/79431xa) ![](assets/new.png)  
 - [2022-04-13-推荐-解析分布式系统的缓存设计](https://toutiao.io/k/pucrtli) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

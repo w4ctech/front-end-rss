@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-04-13 10:15:40，:rocket: 更新条数: +2029， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-04-13 10:42:40，:rocket: 更新条数: +2031， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,11 @@
 </summary>
 
 
+- [2022-04-13-人是否必须劳动才能生存](https://www.v2ex.com/t/846789) ![](assets/new.png)  
+- [2022-04-13-大家所在的小区有成立业主委员会的吗？](https://www.v2ex.com/t/846788) ![](assets/new.png)  
+- [2022-04-13-各位的-M1-下-Chrome-是否频繁崩溃？](https://www.v2ex.com/t/846787) ![](assets/new.png)  
+- [2022-04-13-尝试用虚拟币在网上购物](https://www.v2ex.com/t/846786) ![](assets/new.png)  
+- [2022-04-13-各公司-API-接口设计观察](https://www.v2ex.com/t/846785) ![](assets/new.png)  
 - [2022-04-13-请问哪款-打印机-比较适合家用？](https://www.v2ex.com/t/846784) ![](assets/new.png)  
 - [2022-04-13-hubstudio-指纹浏览器可以同时拥有多个指纹信息](https://www.v2ex.com/t/846783) ![](assets/new.png)  
 - [2022-04-13-戴尔荷兰高管证实从本月开始试验四天工作制](https://www.v2ex.com/t/846782) ![](assets/new.png)  
@@ -506,11 +511,6 @@
 - [2022-04-13-使用-cf-workers-反向代理-nextdns-或者-adguardHome，配合国内-CDN-让你飞起](https://www.v2ex.com/t/846768) ![](assets/new.png)  
 - [2022-04-13-一个做眼科医疗的公司，让员工买股权，该不该买，一起聊聊](https://www.v2ex.com/t/846767) ![](assets/new.png)  
 - [2022-04-13-今天媳妇生日，送什么礼物比较好？](https://www.v2ex.com/t/846766) ![](assets/new.png)  
-- [2022-04-13-建议-V2EX-跟随系统深色模式](https://www.v2ex.com/t/846765) ![](assets/new.png)  
-- [2022-04-13-APK-反编译后-original-目录里面的文件是什么？](https://www.v2ex.com/t/846764) ![](assets/new.png)  
-- [2022-04-13-如何看待后端接口带出数据库全部字段](https://www.v2ex.com/t/846763) ![](assets/new.png)  
-- [2022-04-13-移植了微信开发者工具的-Linux-版本](https://www.v2ex.com/t/846762) ![](assets/new.png)  
-- [2022-04-13-腾讯会议登录-MacApp-Store-了。是通用应用](https://www.v2ex.com/t/846761) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -570,9 +570,9 @@
 - [2022-04-13-好物分享：快速找到-Goroutine-泄露的地方](https://toutiao.io/k/k4nk7nq) ![](assets/new.png)  
 - [2022-04-13-你还在因为数学对AI望而却步？看看这本秘籍吧！](https://toutiao.io/k/nvl24rz) ![](assets/new.png)  
 - [2022-04-13-实录-|-MegEngine-大-Kernel-卷积工程优化实践](https://toutiao.io/k/3krv7su) ![](assets/new.png)  
-- [2022-04-13-推荐-解析分布式系统的缓存设计](https://toutiao.io/k/pucrtli) ![](assets/new.png)  
+- [2022-04-13-推荐-谷歌工程最佳实践](https://toutiao.io/k/q19mmjh) ![](assets/new.png)  
 - [2022-04-13-推荐-盘点-3-月份-yyds-的开源项目](https://toutiao.io/k/79431xa) ![](assets/new.png)  
-- [2022-04-13-推荐-写出结构优雅代码的4个技巧](https://toutiao.io/k/6cddvzi) ![](assets/new.png)  
+- [2022-04-13-推荐-解析分布式系统的缓存设计](https://toutiao.io/k/pucrtli) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-04-13 10:15:41。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-04-13 10:42:41。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1913,6 +1913,10 @@
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2022-03-21-ascent-override-descent-override-line-gap-override一锅端](https://www.zhangxinxu.com/wordpress/2022/03/css-ascent-override-descent/) 
 - [2022-02-04-HTML-inputmode与iOS-Android软键盘类型测试](https://www.zhangxinxu.com/wordpress/2022/02/html-inputmode-keyboard/) 
+- [2022-04-13-人是否必须劳动才能生存](https://www.v2ex.com/t/846789) 
+- [2022-04-13-大家所在的小区有成立业主委员会的吗？](https://www.v2ex.com/t/846788) 
+- [2022-04-13-尝试用虚拟币在网上购物](https://www.v2ex.com/t/846786) 
+- [2022-04-13-各公司-API-接口设计观察](https://www.v2ex.com/t/846785) 
 - [2022-04-13-请问哪款-打印机-比较适合家用？](https://www.v2ex.com/t/846784) 
 - [2022-04-13-戴尔荷兰高管证实从本月开始试验四天工作制](https://www.v2ex.com/t/846782) 
 - [2022-04-13-不提供公网地址的宽带运营商，上网高峰时期的网络通断问题](https://www.v2ex.com/t/846780) 
@@ -1941,8 +1945,6 @@
 - [2022-04-13-BASE-南京,广州,深圳,新加坡,跨境电商独角兽-SHEIN-招人](https://www.v2ex.com/t/846744) 
 - [2022-04-13-新能源是买-BYD-汉-EV-还是-DM-i？还是无脑选-Tesla？](https://www.v2ex.com/t/846743) 
 - [2022-04-13-MacOS12.3.1-ScreenTimeAgent-硬盘写入量大](https://www.v2ex.com/t/846742) 
-- [2022-04-13-普罗米修斯-prometheus-如何让-record-的值在-alert-中调用](https://www.v2ex.com/t/846739) 
-- [2022-04-13-写了个辅助读-README-的-VSCode-插件](https://www.v2ex.com/t/846737) 
 - [2022-04-13-人手必备的常用网络命令合集，吐血整理！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15017&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493888%26amp%3Bidx%3D1%26amp%3Bsn%3D70d3506be895b9f146066d56dfae8b69%26amp%3Bchksm%3Dfa3f085bcd48814dbddbd6eddf6584cd9d9ebb768b37f25529371a625c4d09114bf9e2ea6fba%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-04-13-Java必会的工具库，让你的代码量减少90%-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15016&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493888%26amp%3Bidx%3D2%26amp%3Bsn%3D9f50338e5145bdd585e908e36aa7517d%26amp%3Bchksm%3Dfa3f085bcd48814d7386eb6707d907d58fa0313c300b3f73937f51525a7fc10671193f1557e2%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-04-13-技术主管和项目经理一定要读的6本书！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15015&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493887%26amp%3Bidx%3D1%26amp%3Bsn%3D1a13135d359785dd3c15d90dfaeb95e5%26amp%3Bchksm%3Dfa3f09a4cd4880b2c74c7b234fbfc6033b05283324ce3421d8c7ae3fdbb5039b9a2873874bc5%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1973,8 +1975,8 @@
 - [2022-04-13-转转测试环境标签域名实践](https://toutiao.io/k/h2sccdt) 
 - [2022-04-13-好物分享：快速找到-Goroutine-泄露的地方](https://toutiao.io/k/k4nk7nq) 
 - [2022-04-13-你还在因为数学对AI望而却步？看看这本秘籍吧！](https://toutiao.io/k/nvl24rz) 
+- [2022-04-13-推荐-谷歌工程最佳实践](https://toutiao.io/k/q19mmjh) 
 - [2022-04-13-推荐-盘点-3-月份-yyds-的开源项目](https://toutiao.io/k/79431xa) 
 - [2022-04-13-推荐-写出结构优雅代码的4个技巧](https://toutiao.io/k/6cddvzi) 
-- [2022-04-13-推荐-谷歌工程最佳实践](https://toutiao.io/k/q19mmjh) 
 - [2022-04-13-推荐-系统架构的11条原则](https://toutiao.io/k/xbwjqgj) 
 - [2022-04-13-推荐-万字长文助你上手软件领域驱动设计-DDD](https://toutiao.io/k/72nuj7z) 

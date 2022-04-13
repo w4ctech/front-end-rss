@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-04-13 08:44:56。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-04-13 09:13:57。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -284,8 +284,6 @@
 - [【武汉肺炎防疫全纪录(财新网)】大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html)
 - [【V2EX】thinkphp+phpstorm+xdebug-如何实现远程调试啊](https://www.v2ex.com/t/846769)
 - [【V2EX】请教各位大佬，如何多个域名同一个-url-访问？](https://www.v2ex.com/t/846740)
-- [【V2EX】问下目前有没有浏览器插件，可以用来搜索自己看过的内容？](https://www.v2ex.com/t/846724)
-- [【V2EX】读《苹果公司也成网络安全受害者-黑客伪装执法机构套取用户数据》有感（吐槽）而发](https://www.v2ex.com/t/846722)
 - [【开发者头条】推荐-解析分布式系统的缓存设计](https://toutiao.io/k/pucrtli)
 - [......【查看更多】......](./details/tags/browser.md)
 

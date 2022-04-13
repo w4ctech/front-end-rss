@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-04-13 13:47:40。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-04-13 14:13:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -16,5 +16,4 @@
 - [2022-04-13-怎么排查哪个服务一直在请求-myip.ipip.net-这个-IP？](https://www.v2ex.com/t/846797) 
 - [2022-04-13-各位的-M1-下-Chrome-是否频繁崩溃？](https://www.v2ex.com/t/846787) 
 - [2022-04-13-hubstudio-指纹浏览器可以同时拥有多个指纹信息](https://www.v2ex.com/t/846783) 
-- [2022-04-13-thinkphp+phpstorm+xdebug-如何实现远程调试啊](https://www.v2ex.com/t/846769) 
 - [2022-04-13-推荐-解析分布式系统的缓存设计](https://toutiao.io/k/pucrtli) 

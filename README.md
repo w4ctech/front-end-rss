@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-04-13 13:47:40，:rocket: 更新条数: +2028， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-04-13 14:13:24，:rocket: 更新条数: +2026， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,9 @@
 </summary>
 
 
+- [2022-04-13-内推-北京/深圳/广州/成都「字节跳动---智能创作」招前端/服务端/多媒体/客户端开发含实习,-新方向大量机会](https://www.v2ex.com/t/846819) ![](assets/new.png)  
+- [2022-04-13-怎么系统地去记录上海受新冠影响这段时间](https://www.v2ex.com/t/846818) ![](assets/new.png)  
+- [2022-04-13-没想到真是慢工出细活，-Logseq-今天正式上架-App-Store，分享体验](https://www.v2ex.com/t/846816) ![](assets/new.png)  
 - [2022-04-13-新浪博客是要关闭吗？如何抓取文章？](https://www.v2ex.com/t/846814) ![](assets/new.png)  
 - [2022-04-13-Android-熄屏一小会儿，应用没死，普通服务到死了](https://www.v2ex.com/t/846813) ![](assets/new.png)  
 - [2022-04-13-外企/远程/区块链-前后端-测试-量化等岗位-头部公司内推](https://www.v2ex.com/t/846811) ![](assets/new.png)  
@@ -508,9 +511,6 @@
 - [2022-04-13-怎么排查哪个服务一直在请求-myip.ipip.net-这个-IP？](https://www.v2ex.com/t/846797) ![](assets/new.png)  
 - [2022-04-13-咱们要推广自己-iOS-的-app，都有哪些有效果的渠道呢？](https://www.v2ex.com/t/846796) ![](assets/new.png)  
 - [2022-04-13-有美国的小伙伴么，能帮忙办理宽带么](https://www.v2ex.com/t/846795) ![](assets/new.png)  
-- [2022-04-13-给我的-R2S-装个简易水冷](https://www.v2ex.com/t/846792) ![](assets/new.png)  
-- [2022-04-13-承接海报制作-50-一张。](https://www.v2ex.com/t/846791) ![](assets/new.png)  
-- [2022-04-13-Vue-如何自定义指令以达到-v-if-和替换组件的效果?](https://www.v2ex.com/t/846790) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -555,8 +555,8 @@
 
 - [2022-04-13-《非常时期囤货手册》](https://toutiao.io/k/vunyh1v) ![](assets/new.png)  
 - [2022-04-13-手撕spring核心源码，彻底搞懂spring流程](https://toutiao.io/k/vzyeicl) ![](assets/new.png)  
-- [2022-04-13-从-VSCode-看大型-IDE-技术架构](https://toutiao.io/k/acuovgh) ![](assets/new.png)  
 - [2022-04-13-万字长文，教你用go开发区块链应用](https://toutiao.io/k/3f3i7ey) ![](assets/new.png)  
+- [2022-04-13-从-VSCode-看大型-IDE-技术架构](https://toutiao.io/k/acuovgh) ![](assets/new.png)  
 - [2022-04-13-这次终于彻底理解了傅里叶变换！](https://toutiao.io/k/pbe1k7l) ![](assets/new.png)  
 - [2022-04-13-知乎的用户画像与实时数据的架构与实践](https://toutiao.io/k/0up430p) ![](assets/new.png)  
 - [2022-04-13-成为一名优秀Java开发人员的7个步骤](https://toutiao.io/k/6kwaapq) ![](assets/new.png)  
@@ -571,8 +571,8 @@
 - [2022-04-13-转转测试环境标签域名实践](https://toutiao.io/k/h2sccdt) ![](assets/new.png)  
 - [2022-04-13-实录-|-MegEngine-大-Kernel-卷积工程优化实践](https://toutiao.io/k/3krv7su) ![](assets/new.png)  
 - [2022-04-13-推荐-写出结构优雅代码的4个技巧](https://toutiao.io/k/6cddvzi) ![](assets/new.png)  
-- [2022-04-13-推荐-盘点-3-月份-yyds-的开源项目](https://toutiao.io/k/79431xa) ![](assets/new.png)  
-- [2022-04-13-推荐-20多个好用的-Vue-组件库，请查收！](https://toutiao.io/k/sskayyw) ![](assets/new.png)  
+- [2022-04-13-推荐-谷歌工程最佳实践](https://toutiao.io/k/q19mmjh) ![](assets/new.png)  
+- [2022-04-13-推荐-系统架构的11条原则](https://toutiao.io/k/xbwjqgj) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

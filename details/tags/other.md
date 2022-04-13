@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-04-13 16:58:36。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-04-13 17:18:48。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1976,7 +1976,7 @@
 - [2022-04-13-为什么可靠性等质量需求描述必须是可测的？](https://toutiao.io/k/7835d7y) 
 - [2022-04-13-你还在因为数学对AI望而却步？看看这本秘籍吧！](https://toutiao.io/k/nvl24rz) 
 - [2022-04-13-转转测试环境标签域名实践](https://toutiao.io/k/h2sccdt) 
-- [2022-04-13-推荐-写出结构优雅代码的4个技巧](https://toutiao.io/k/6cddvzi) 
-- [2022-04-13-推荐-谷歌工程最佳实践](https://toutiao.io/k/q19mmjh) 
 - [2022-04-13-推荐-盘点-3-月份-yyds-的开源项目](https://toutiao.io/k/79431xa) 
+- [2022-04-13-推荐-写出结构优雅代码的4个技巧](https://toutiao.io/k/6cddvzi) 
 - [2022-04-13-推荐-系统架构的11条原则](https://toutiao.io/k/xbwjqgj) 
+- [2022-04-13-推荐-谷歌工程最佳实践](https://toutiao.io/k/q19mmjh) 

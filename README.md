@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-04-13 06:46:25，:rocket: 更新条数: +2026， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-04-13 07:14:21，:rocket: 更新条数: +2026， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,12 @@
 </summary>
 
 
+- [2022-04-13-BASE-南京,广州,深圳,新加坡,跨境电商独角兽-SHEIN-招人](https://www.v2ex.com/t/846744) ![](assets/new.png)  
+- [2022-04-13-新能源是买-BYD-汉-EV-还是-DM-i？还是无脑选-Tesla？](https://www.v2ex.com/t/846743) ![](assets/new.png)  
+- [2022-04-13-MacOS12.3.1-ScreenTimeAgent-硬盘写入量大](https://www.v2ex.com/t/846742) ![](assets/new.png)  
+- [2022-04-13-我的这个-API-设计有什么缺陷/有什么优化空间吗？](https://www.v2ex.com/t/846741) ![](assets/new.png)  
+- [2022-04-13-请教各位大佬，如何多个域名同一个-url-访问？](https://www.v2ex.com/t/846740) ![](assets/new.png)  
+- [2022-04-13-普罗米修斯-prometheus-如何让-record-的值在-alert-中调用](https://www.v2ex.com/t/846739) ![](assets/new.png)  
 - [2022-04-13-写了个辅助读-README-的-VSCode-插件](https://www.v2ex.com/t/846737) ![](assets/new.png)  
 - [2022-04-13-怎么把-JS-嵌入到-django-自带管理后台的页面中？](https://www.v2ex.com/t/846735) ![](assets/new.png)  
 - [2022-04-13-终端-ping-域名返回内网地址](https://www.v2ex.com/t/846733) ![](assets/new.png)  
@@ -505,12 +511,6 @@
 - [2022-04-13-关于面试时候的手撕代码shell](https://www.v2ex.com/t/846719) ![](assets/new.png)  
 - [2022-04-13-有稳定出-U-收-U-的么？](https://www.v2ex.com/t/846718) ![](assets/new.png)  
 - [2022-04-13-剪切板总是出现莫名奇妙的数据,并不想阴谋论,只是想来这问一问,是不是大家也有类似的情况](https://www.v2ex.com/t/846717) ![](assets/new.png)  
-- [2022-04-13-今天-2022.04.13-如何最低成本办一张香港银行卡](https://www.v2ex.com/t/846716) ![](assets/new.png)  
-- [2022-04-13-有没有-IOS-开发的大佬，发现一个-IOS-完美后台运行的-APP，怎么办到的。](https://www.v2ex.com/t/846715) ![](assets/new.png)  
-- [2022-04-13-密码加盐哈希中，盐好像可以不存到数据库吗？](https://www.v2ex.com/t/846714) ![](assets/new.png)  
-- [2022-04-13-天津河北区修电脑靠谱的推荐一下？](https://www.v2ex.com/t/846713) ![](assets/new.png)  
-- [2022-04-13-"计算子网掩码和-IP-划分"有没有推荐的学习方法?](https://www.v2ex.com/t/846709) ![](assets/new.png)  
-- [2022-04-13-个人开发者处境是否越来越困难了](https://www.v2ex.com/t/846708) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -565,14 +565,14 @@
 - [2022-04-13-一款倍受欢迎的-.NET-开源UI库](https://toutiao.io/k/2kz4am5) ![](assets/new.png)  
 - [2022-04-13-如何搭建Zeppelin本地开发环境](https://toutiao.io/k/xl3ah5h) ![](assets/new.png)  
 - [2022-04-13-为什么可靠性等质量需求描述必须是可测的？](https://toutiao.io/k/7835d7y) ![](assets/new.png)  
-- [2022-04-13-转转测试环境标签域名实践](https://toutiao.io/k/h2sccdt) ![](assets/new.png)  
 - [2022-04-13-一款开源的文件搜索神器，终于不用记-find-命令了](https://toutiao.io/k/p5lw302) ![](assets/new.png)  
+- [2022-04-13-转转测试环境标签域名实践](https://toutiao.io/k/h2sccdt) ![](assets/new.png)  
+- [2022-04-13-好物分享：快速找到-Goroutine-泄露的地方](https://toutiao.io/k/k4nk7nq) ![](assets/new.png)  
 - [2022-04-13-你还在因为数学对AI望而却步？看看这本秘籍吧！](https://toutiao.io/k/nvl24rz) ![](assets/new.png)  
 - [2022-04-13-实录-|-MegEngine-大-Kernel-卷积工程优化实践](https://toutiao.io/k/3krv7su) ![](assets/new.png)  
-- [2022-04-13-好物分享：快速找到-Goroutine-泄露的地方](https://toutiao.io/k/k4nk7nq) ![](assets/new.png)  
 - [2022-04-13-推荐-解析分布式系统的缓存设计](https://toutiao.io/k/pucrtli) ![](assets/new.png)  
+- [2022-04-13-推荐-20多个好用的-Vue-组件库，请查收！](https://toutiao.io/k/sskayyw) ![](assets/new.png)  
 - [2022-04-13-推荐-系统架构的11条原则](https://toutiao.io/k/xbwjqgj) ![](assets/new.png)  
-- [2022-04-13-推荐-万字长文助你上手软件领域驱动设计-DDD](https://toutiao.io/k/72nuj7z) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-04-13 19:36:34，:rocket: 更新条数: +2022， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-04-13 20:15:29，:rocket: 更新条数: +2022， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-04-13-加拿大网络安全公司招聘，坐标温哥华。Mac-OS-developer](https://www.v2ex.com/t/846854) ![](assets/new.png)  
+- [2022-04-13-微软官方-XP-壁纸重制版](https://www.v2ex.com/t/846853) ![](assets/new.png)  
 - [2022-04-13-macOS-上的-Books.app-能上下垂直滚动吗？](https://www.v2ex.com/t/846852) ![](assets/new.png)  
 - [2022-04-13-有什么易于保存，好喝&健康的果汁吗？](https://www.v2ex.com/t/846851) ![](assets/new.png)  
 - [2022-04-13-关于-Windows-10/11-的全系统色彩管理](https://www.v2ex.com/t/846850) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-04-13-周末拍的](https://www.v2ex.com/t/846829) ![](assets/new.png)  
 - [2022-04-13-idea2021.3.3-怎么把源码中的注释字体调大一点](https://www.v2ex.com/t/846828) ![](assets/new.png)  
 - [2022-04-13-请教两个问题，关于-Event-Sourcing-和-CQRS](https://www.v2ex.com/t/846827) ![](assets/new.png)  
-- [2022-04-13-发现-photoshop-做九图好简单啊](https://www.v2ex.com/t/846826) ![](assets/new.png)  
-- [2022-04-13-不懂就问，当我们在软件领域说“金融级”这个概念的时候到底是在说啥？有什么明确的定义么？](https://www.v2ex.com/t/846824) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -570,9 +570,9 @@
 - [2022-04-13-你还在因为数学对AI望而却步？看看这本秘籍吧！](https://toutiao.io/k/nvl24rz) ![](assets/new.png)  
 - [2022-04-13-转转测试环境标签域名实践](https://toutiao.io/k/h2sccdt) ![](assets/new.png)  
 - [2022-04-13-实录-|-MegEngine-大-Kernel-卷积工程优化实践](https://toutiao.io/k/3krv7su) ![](assets/new.png)  
-- [2022-04-13-推荐-解析分布式系统的缓存设计](https://toutiao.io/k/pucrtli) ![](assets/new.png)  
-- [2022-04-13-推荐-谷歌工程最佳实践](https://toutiao.io/k/q19mmjh) ![](assets/new.png)  
+- [2022-04-13-推荐-系统架构的11条原则](https://toutiao.io/k/xbwjqgj) ![](assets/new.png)  
 - [2022-04-13-推荐-盘点-3-月份-yyds-的开源项目](https://toutiao.io/k/79431xa) ![](assets/new.png)  
+- [2022-04-13-推荐-谷歌工程最佳实践](https://toutiao.io/k/q19mmjh) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

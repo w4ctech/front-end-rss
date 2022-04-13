@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-04-13 13:32:25，:rocket: 更新条数: +2030， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-04-13 13:47:40，:rocket: 更新条数: +2028， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,7 +491,9 @@
 </summary>
 
 
-- [2022-04-13-外企/远程/区块链-前后端-测试-量化-Devops-等岗位-头部公司内推](https://www.v2ex.com/t/846811) ![](assets/new.png)  
+- [2022-04-13-新浪博客是要关闭吗？如何抓取文章？](https://www.v2ex.com/t/846814) ![](assets/new.png)  
+- [2022-04-13-Android-熄屏一小会儿，应用没死，普通服务到死了](https://www.v2ex.com/t/846813) ![](assets/new.png)  
+- [2022-04-13-外企/远程/区块链-前后端-测试-量化等岗位-头部公司内推](https://www.v2ex.com/t/846811) ![](assets/new.png)  
 - [2022-04-13-请问-cf-能添加类似同一个-ip-每-5-分钟不能访问超过-10-次这种规则吗？](https://www.v2ex.com/t/846810) ![](assets/new.png)  
 - [2022-04-13-好用的随身-wifi-有哪些](https://www.v2ex.com/t/846809) ![](assets/new.png)  
 - [2022-04-13-笔记本电脑换无线网卡问题](https://www.v2ex.com/t/846806) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-04-13-给我的-R2S-装个简易水冷](https://www.v2ex.com/t/846792) ![](assets/new.png)  
 - [2022-04-13-承接海报制作-50-一张。](https://www.v2ex.com/t/846791) ![](assets/new.png)  
 - [2022-04-13-Vue-如何自定义指令以达到-v-if-和替换组件的效果?](https://www.v2ex.com/t/846790) ![](assets/new.png)  
-- [2022-04-13-人是否必须劳动才能生存](https://www.v2ex.com/t/846789) ![](assets/new.png)  
-- [2022-04-13-各位的-M1-下-Chrome-是否频繁崩溃？](https://www.v2ex.com/t/846787) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -570,9 +570,9 @@
 - [2022-04-13-你还在因为数学对AI望而却步？看看这本秘籍吧！](https://toutiao.io/k/nvl24rz) ![](assets/new.png)  
 - [2022-04-13-转转测试环境标签域名实践](https://toutiao.io/k/h2sccdt) ![](assets/new.png)  
 - [2022-04-13-实录-|-MegEngine-大-Kernel-卷积工程优化实践](https://toutiao.io/k/3krv7su) ![](assets/new.png)  
-- [2022-04-13-推荐-20多个好用的-Vue-组件库，请查收！](https://toutiao.io/k/sskayyw) ![](assets/new.png)  
+- [2022-04-13-推荐-写出结构优雅代码的4个技巧](https://toutiao.io/k/6cddvzi) ![](assets/new.png)  
 - [2022-04-13-推荐-盘点-3-月份-yyds-的开源项目](https://toutiao.io/k/79431xa) ![](assets/new.png)  
-- [2022-04-13-推荐-谷歌工程最佳实践](https://toutiao.io/k/q19mmjh) ![](assets/new.png)  
+- [2022-04-13-推荐-20多个好用的-Vue-组件库，请查收！](https://toutiao.io/k/sskayyw) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-04-13 14:13:24，:rocket: 更新条数: +2026， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-04-13 14:39:18，:rocket: 更新条数: +2027， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,11 @@
 </summary>
 
 
+- [2022-04-13-请教两个问题，关于-Event-Sourcing-和-CQRS](https://www.v2ex.com/t/846827) ![](assets/new.png)  
+- [2022-04-13-发现-photoshop-做九图好简单啊](https://www.v2ex.com/t/846826) ![](assets/new.png)  
+- [2022-04-13-不懂就问，当我们在软件领域说“金融级”这个概念的时候到底是在说啥？有什么明确的定义么？](https://www.v2ex.com/t/846824) ![](assets/new.png)  
+- [2022-04-13-找个能写-Windows-桌面端程序猿，小软件难度一般，价钱-2k-左右-详谈](https://www.v2ex.com/t/846823) ![](assets/new.png)  
+- [2022-04-13-有人发现现在很难创建新的-google-groups-了吗？](https://www.v2ex.com/t/846822) ![](assets/new.png)  
 - [2022-04-13-内推-北京/深圳/广州/成都「字节跳动---智能创作」招前端/服务端/多媒体/客户端开发含实习,-新方向大量机会](https://www.v2ex.com/t/846819) ![](assets/new.png)  
 - [2022-04-13-怎么系统地去记录上海受新冠影响这段时间](https://www.v2ex.com/t/846818) ![](assets/new.png)  
 - [2022-04-13-没想到真是慢工出细活，-Logseq-今天正式上架-App-Store，分享体验](https://www.v2ex.com/t/846816) ![](assets/new.png)  
@@ -506,11 +511,6 @@
 - [2022-04-13-嵌入式单片机-Arduino，在-loop-函数内多次使用过滤器会输出异常？](https://www.v2ex.com/t/846802) ![](assets/new.png)  
 - [2022-04-13-TCP-的-ACK-可以延时回复吗](https://www.v2ex.com/t/846801) ![](assets/new.png)  
 - [2022-04-13-Clusterpedia-0.2.0-发布](https://www.v2ex.com/t/846800) ![](assets/new.png)  
-- [2022-04-13-怎么屏蔽这种诈骗短信？](https://www.v2ex.com/t/846799) ![](assets/new.png)  
-- [2022-04-13-微软设计师蓝牙键盘](https://www.v2ex.com/t/846798) ![](assets/new.png)  
-- [2022-04-13-怎么排查哪个服务一直在请求-myip.ipip.net-这个-IP？](https://www.v2ex.com/t/846797) ![](assets/new.png)  
-- [2022-04-13-咱们要推广自己-iOS-的-app，都有哪些有效果的渠道呢？](https://www.v2ex.com/t/846796) ![](assets/new.png)  
-- [2022-04-13-有美国的小伙伴么，能帮忙办理宽带么](https://www.v2ex.com/t/846795) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -570,8 +570,8 @@
 - [2022-04-13-你还在因为数学对AI望而却步？看看这本秘籍吧！](https://toutiao.io/k/nvl24rz) ![](assets/new.png)  
 - [2022-04-13-转转测试环境标签域名实践](https://toutiao.io/k/h2sccdt) ![](assets/new.png)  
 - [2022-04-13-实录-|-MegEngine-大-Kernel-卷积工程优化实践](https://toutiao.io/k/3krv7su) ![](assets/new.png)  
-- [2022-04-13-推荐-写出结构优雅代码的4个技巧](https://toutiao.io/k/6cddvzi) ![](assets/new.png)  
 - [2022-04-13-推荐-谷歌工程最佳实践](https://toutiao.io/k/q19mmjh) ![](assets/new.png)  
+- [2022-04-13-推荐-写出结构优雅代码的4个技巧](https://toutiao.io/k/6cddvzi) ![](assets/new.png)  
 - [2022-04-13-推荐-系统架构的11条原则](https://toutiao.io/k/xbwjqgj) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

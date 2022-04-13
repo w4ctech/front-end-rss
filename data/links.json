@@ -9953,6 +9953,31 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "请教两个问题，关于 Event Sourcing 和 CQRS",
+        "link": "https://www.v2ex.com/t/846827",
+        "date": "2022-04-13"
+      },
+      {
+        "title": "发现 photoshop 做九图好简单啊",
+        "link": "https://www.v2ex.com/t/846826",
+        "date": "2022-04-13"
+      },
+      {
+        "title": "不懂就问，当我们在软件领域说“金融级”这个概念的时候到底是在说啥？有什么明确的定义么？",
+        "link": "https://www.v2ex.com/t/846824",
+        "date": "2022-04-13"
+      },
+      {
+        "title": "找个能写 Windows 桌面端程序猿，小软件难度一般，价钱 2k 左右 详谈",
+        "link": "https://www.v2ex.com/t/846823",
+        "date": "2022-04-13"
+      },
+      {
+        "title": "有人发现现在很难创建新的 google groups 了吗？",
+        "link": "https://www.v2ex.com/t/846822",
+        "date": "2022-04-13"
+      },
+      {
         "title": "[内推] [北京/深圳/广州/成都]「字节跳动 - 智能创作」招前端/服务端/多媒体/客户端开发(含实习), 新方向大量机会",
         "link": "https://www.v2ex.com/t/846819",
         "date": "2022-04-13"
@@ -10110,26 +10135,6 @@
       {
         "title": "捷豹 XFL 还是雷克萨斯 ES260？",
         "link": "https://www.v2ex.com/t/846779",
-        "date": "2022-04-13"
-      },
-      {
-        "title": "xcode 分发 ios 应用，上传时报 Invalid Provisioning Profile Signature（90165）",
-        "link": "https://www.v2ex.com/t/846777",
-        "date": "2022-04-13"
-      },
-      {
-        "title": "Mac 上复制文字好像没办法直接在 iPhone 上粘贴",
-        "link": "https://www.v2ex.com/t/846776",
-        "date": "2022-04-13"
-      },
-      {
-        "title": "macOS IDEA 2022.1 频繁意外退出",
-        "link": "https://www.v2ex.com/t/846775",
-        "date": "2022-04-13"
-      },
-      {
-        "title": "最近 M1 macOS 更新了 12.3.1 通用控制用不了，有同样问题的吗？",
-        "link": "https://www.v2ex.com/t/846773",
         "date": "2022-04-13"
       }
     ]
@@ -10332,13 +10337,13 @@
         "date": "2022-04-13"
       },
       {
-        "title": "[推荐] 写出结构优雅代码的4个技巧",
-        "link": "https://toutiao.io/k/6cddvzi",
+        "title": "[推荐] 谷歌工程最佳实践",
+        "link": "https://toutiao.io/k/q19mmjh",
         "date": "2022-04-13"
       },
       {
-        "title": "[推荐] 谷歌工程最佳实践",
-        "link": "https://toutiao.io/k/q19mmjh",
+        "title": "[推荐] 写出结构优雅代码的4个技巧",
+        "link": "https://toutiao.io/k/6cddvzi",
         "date": "2022-04-13"
       },
       {
@@ -10357,13 +10362,13 @@
         "date": "2022-04-13"
       },
       {
-        "title": "[推荐] 万字长文助你上手软件领域驱动设计 DDD",
-        "link": "https://toutiao.io/k/72nuj7z",
+        "title": "[推荐] 20多个好用的 Vue 组件库，请查收！",
+        "link": "https://toutiao.io/k/sskayyw",
         "date": "2022-04-13"
       },
       {
-        "title": "[推荐] 20多个好用的 Vue 组件库，请查收！",
-        "link": "https://toutiao.io/k/sskayyw",
+        "title": "[推荐] 万字长文助你上手软件领域驱动设计 DDD",
+        "link": "https://toutiao.io/k/72nuj7z",
         "date": "2022-04-13"
       }
     ]

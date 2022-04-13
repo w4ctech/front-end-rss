@@ -1,10 +1,15 @@
-:alarm_clock: 更新时间: 2022-04-13 14:13:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-04-13 14:39:18。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-04-13-请教两个问题，关于-Event-Sourcing-和-CQRS](https://www.v2ex.com/t/846827) 
+- [2022-04-13-发现-photoshop-做九图好简单啊](https://www.v2ex.com/t/846826) 
+- [2022-04-13-不懂就问，当我们在软件领域说“金融级”这个概念的时候到底是在说啥？有什么明确的定义么？](https://www.v2ex.com/t/846824) 
+- [2022-04-13-找个能写-Windows-桌面端程序猿，小软件难度一般，价钱-2k-左右-详谈](https://www.v2ex.com/t/846823) 
+- [2022-04-13-有人发现现在很难创建新的-google-groups-了吗？](https://www.v2ex.com/t/846822) 
 - [2022-04-13-内推-北京/深圳/广州/成都「字节跳动---智能创作」招前端/服务端/多媒体/客户端开发含实习,-新方向大量机会](https://www.v2ex.com/t/846819) 
 - [2022-04-13-怎么系统地去记录上海受新冠影响这段时间](https://www.v2ex.com/t/846818) 
 - [2022-04-13-没想到真是慢工出细活，-Logseq-今天正式上架-App-Store，分享体验](https://www.v2ex.com/t/846816) 
@@ -37,7 +42,3 @@
 - [2022-04-13-戴尔荷兰高管证实从本月开始试验四天工作制](https://www.v2ex.com/t/846782) 
 - [2022-04-13-不提供公网地址的宽带运营商，上网高峰时期的网络通断问题](https://www.v2ex.com/t/846780) 
 - [2022-04-13-捷豹-XFL-还是雷克萨斯-ES260？](https://www.v2ex.com/t/846779) 
-- [2022-04-13-xcode-分发-ios-应用，上传时报-Invalid-Provisioning-Profile-Signature（90165）](https://www.v2ex.com/t/846777) 
-- [2022-04-13-Mac-上复制文字好像没办法直接在-iPhone-上粘贴](https://www.v2ex.com/t/846776) 
-- [2022-04-13-macOS-IDEA-2022.1-频繁意外退出](https://www.v2ex.com/t/846775) 
-- [2022-04-13-最近-M1-macOS-更新了-12.3.1-通用控制用不了，有同样问题的吗？](https://www.v2ex.com/t/846773) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-04-13 06:18:00，:rocket: 更新条数: +2032， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-04-13 06:46:25，:rocket: 更新条数: +2026， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,10 @@
 </summary>
 
 
+- [2022-04-13-写了个辅助读-README-的-VSCode-插件](https://www.v2ex.com/t/846737) ![](assets/new.png)  
+- [2022-04-13-怎么把-JS-嵌入到-django-自带管理后台的页面中？](https://www.v2ex.com/t/846735) ![](assets/new.png)  
+- [2022-04-13-终端-ping-域名返回内网地址](https://www.v2ex.com/t/846733) ![](assets/new.png)  
+- [2022-04-13-Macaca-DataHub-4.0---体验功能全新升级](https://www.v2ex.com/t/846731) ![](assets/new.png)  
 - [2022-04-13-实在是抱歉,博客图片我也遇到问题了](https://www.v2ex.com/t/846728) ![](assets/new.png)  
 - [2022-04-13-轻量迅捷时代，-Vite-与-Webpack-谁赢谁输](https://www.v2ex.com/t/846727) ![](assets/new.png)  
 - [2022-04-13-新婚第一年，-4.17-媳妇生日，应该送什么惊喜给她？](https://www.v2ex.com/t/846726) ![](assets/new.png)  
@@ -507,10 +511,6 @@
 - [2022-04-13-天津河北区修电脑靠谱的推荐一下？](https://www.v2ex.com/t/846713) ![](assets/new.png)  
 - [2022-04-13-"计算子网掩码和-IP-划分"有没有推荐的学习方法?](https://www.v2ex.com/t/846709) ![](assets/new.png)  
 - [2022-04-13-个人开发者处境是否越来越困难了](https://www.v2ex.com/t/846708) ![](assets/new.png)  
-- [2022-04-13-太无聊了，折腾了一下-ed2k-和-Amule。](https://www.v2ex.com/t/846707) ![](assets/new.png)  
-- [2022-04-13-表弟考上研究生，想给他买个小礼物，有推荐的吗](https://www.v2ex.com/t/846706) ![](assets/new.png)  
-- [2022-04-13-分享三个联合会员活动～有-WPS、B-站、腾讯视频、QQ-音乐等](https://www.v2ex.com/t/846705) ![](assets/new.png)  
-- [2022-04-13-疑惑：为什么过了一个月自己写的代码都忘了](https://www.v2ex.com/t/846704) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -560,19 +560,19 @@
 - [2022-04-13-知乎的用户画像与实时数据的架构与实践](https://toutiao.io/k/0up430p) ![](assets/new.png)  
 - [2022-04-13-这次终于彻底理解了傅里叶变换！](https://toutiao.io/k/pbe1k7l) ![](assets/new.png)  
 - [2022-04-13-金融级应用开发｜SOFABoot-框架剖析](https://toutiao.io/k/7t2frf4) ![](assets/new.png)  
-- [2022-04-13-TypeScript-never-和-unknown-的优雅之道](https://toutiao.io/k/8c6p38r) ![](assets/new.png)  
 - [2022-04-13-成为一名优秀Java开发人员的7个步骤](https://toutiao.io/k/6kwaapq) ![](assets/new.png)  
+- [2022-04-13-TypeScript-never-和-unknown-的优雅之道](https://toutiao.io/k/8c6p38r) ![](assets/new.png)  
 - [2022-04-13-一款倍受欢迎的-.NET-开源UI库](https://toutiao.io/k/2kz4am5) ![](assets/new.png)  
 - [2022-04-13-如何搭建Zeppelin本地开发环境](https://toutiao.io/k/xl3ah5h) ![](assets/new.png)  
 - [2022-04-13-为什么可靠性等质量需求描述必须是可测的？](https://toutiao.io/k/7835d7y) ![](assets/new.png)  
-- [2022-04-13-一线Leader怎么做？经理的速成宝典](https://toutiao.io/k/lyoqqmb) ![](assets/new.png)  
-- [2022-04-13-使用-Thanos-集中管理多-Prometheus-实例数据](https://toutiao.io/k/65767jk) ![](assets/new.png)  
-- [2022-04-13-一款开源的文件搜索神器，终于不用记-find-命令了](https://toutiao.io/k/p5lw302) ![](assets/new.png)  
-- [2022-04-13-好物分享：快速找到-Goroutine-泄露的地方](https://toutiao.io/k/k4nk7nq) ![](assets/new.png)  
 - [2022-04-13-转转测试环境标签域名实践](https://toutiao.io/k/h2sccdt) ![](assets/new.png)  
+- [2022-04-13-一款开源的文件搜索神器，终于不用记-find-命令了](https://toutiao.io/k/p5lw302) ![](assets/new.png)  
+- [2022-04-13-你还在因为数学对AI望而却步？看看这本秘籍吧！](https://toutiao.io/k/nvl24rz) ![](assets/new.png)  
 - [2022-04-13-实录-|-MegEngine-大-Kernel-卷积工程优化实践](https://toutiao.io/k/3krv7su) ![](assets/new.png)  
-- [2022-04-13-YMP-2.1.1-发布，轻量级-Java-应用开发框架](https://toutiao.io/k/uyxxphu) ![](assets/new.png)  
-- [2022-04-13-数据治理工程师需要掌握什么？](https://toutiao.io/k/0daru19) ![](assets/new.png)  
+- [2022-04-13-好物分享：快速找到-Goroutine-泄露的地方](https://toutiao.io/k/k4nk7nq) ![](assets/new.png)  
+- [2022-04-13-推荐-解析分布式系统的缓存设计](https://toutiao.io/k/pucrtli) ![](assets/new.png)  
+- [2022-04-13-推荐-系统架构的11条原则](https://toutiao.io/k/xbwjqgj) ![](assets/new.png)  
+- [2022-04-13-推荐-万字长文助你上手软件领域驱动设计-DDD](https://toutiao.io/k/72nuj7z) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

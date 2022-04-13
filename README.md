@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-04-13 08:18:12，:rocket: 更新条数: +2027， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-04-13 08:44:56，:rocket: 更新条数: +2027， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,13 @@
 </summary>
 
 
+- [2022-04-13-现在宅男们还有啥玩具可玩的？](https://www.v2ex.com/t/846770) ![](assets/new.png)  
+- [2022-04-13-thinkphp+phpstorm+xdebug-如何实现远程调试啊](https://www.v2ex.com/t/846769) ![](assets/new.png)  
+- [2022-04-13-使用-cf-workers-反向代理-nextdns-或者-adguardHome，配合国内-CDN-让你飞起](https://www.v2ex.com/t/846768) ![](assets/new.png)  
+- [2022-04-13-一个做眼科医疗的公司，让员工买股权，该不该买，一起聊聊](https://www.v2ex.com/t/846767) ![](assets/new.png)  
+- [2022-04-13-今天媳妇生日，送什么礼物比较好？](https://www.v2ex.com/t/846766) ![](assets/new.png)  
+- [2022-04-13-建议-V2EX-跟随系统深色模式](https://www.v2ex.com/t/846765) ![](assets/new.png)  
+- [2022-04-13-APK-反编译后-original-目录里面的文件是什么？](https://www.v2ex.com/t/846764) ![](assets/new.png)  
 - [2022-04-13-如何看待后端接口带出数据库全部字段](https://www.v2ex.com/t/846763) ![](assets/new.png)  
 - [2022-04-13-移植了微信开发者工具的-Linux-版本](https://www.v2ex.com/t/846762) ![](assets/new.png)  
 - [2022-04-13-腾讯会议登录-MacApp-Store-了。是通用应用](https://www.v2ex.com/t/846761) ![](assets/new.png)  
@@ -504,13 +511,6 @@
 - [2022-04-13-日常切换到-Linux-之后感觉自己就是个废物，寸步难行了，求个好点的教程](https://www.v2ex.com/t/846748) ![](assets/new.png)  
 - [2022-04-13-看官方的-issue-列表笑到了，原来-kotlin-也有被-Java-嘲讽的时候](https://www.v2ex.com/t/846747) ![](assets/new.png)  
 - [2022-04-13-现在-mbp-是不是都交付不了？](https://www.v2ex.com/t/846746) ![](assets/new.png)  
-- [2022-04-13-百度网盘-1-年-120-起-直冲-喜马拉雅-60-一年-腾讯云服务器群站版-255/60-台-t-楼特惠](https://www.v2ex.com/t/846745) ![](assets/new.png)  
-- [2022-04-13-BASE-南京,广州,深圳,新加坡,跨境电商独角兽-SHEIN-招人](https://www.v2ex.com/t/846744) ![](assets/new.png)  
-- [2022-04-13-新能源是买-BYD-汉-EV-还是-DM-i？还是无脑选-Tesla？](https://www.v2ex.com/t/846743) ![](assets/new.png)  
-- [2022-04-13-MacOS12.3.1-ScreenTimeAgent-硬盘写入量大](https://www.v2ex.com/t/846742) ![](assets/new.png)  
-- [2022-04-13-我的这个-API-设计有什么缺陷/有什么优化空间吗？](https://www.v2ex.com/t/846741) ![](assets/new.png)  
-- [2022-04-13-请教各位大佬，如何多个域名同一个-url-访问？](https://www.v2ex.com/t/846740) ![](assets/new.png)  
-- [2022-04-13-普罗米修斯-prometheus-如何让-record-的值在-alert-中调用](https://www.v2ex.com/t/846739) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -561,18 +561,18 @@
 - [2022-04-13-这次终于彻底理解了傅里叶变换！](https://toutiao.io/k/pbe1k7l) ![](assets/new.png)  
 - [2022-04-13-金融级应用开发｜SOFABoot-框架剖析](https://toutiao.io/k/7t2frf4) ![](assets/new.png)  
 - [2022-04-13-成为一名优秀Java开发人员的7个步骤](https://toutiao.io/k/6kwaapq) ![](assets/new.png)  
-- [2022-04-13-TypeScript-never-和-unknown-的优雅之道](https://toutiao.io/k/8c6p38r) ![](assets/new.png)  
 - [2022-04-13-一款倍受欢迎的-.NET-开源UI库](https://toutiao.io/k/2kz4am5) ![](assets/new.png)  
+- [2022-04-13-TypeScript-never-和-unknown-的优雅之道](https://toutiao.io/k/8c6p38r) ![](assets/new.png)  
 - [2022-04-13-如何搭建Zeppelin本地开发环境](https://toutiao.io/k/xl3ah5h) ![](assets/new.png)  
 - [2022-04-13-为什么可靠性等质量需求描述必须是可测的？](https://toutiao.io/k/7835d7y) ![](assets/new.png)  
 - [2022-04-13-一款开源的文件搜索神器，终于不用记-find-命令了](https://toutiao.io/k/p5lw302) ![](assets/new.png)  
-- [2022-04-13-转转测试环境标签域名实践](https://toutiao.io/k/h2sccdt) ![](assets/new.png)  
 - [2022-04-13-好物分享：快速找到-Goroutine-泄露的地方](https://toutiao.io/k/k4nk7nq) ![](assets/new.png)  
+- [2022-04-13-转转测试环境标签域名实践](https://toutiao.io/k/h2sccdt) ![](assets/new.png)  
 - [2022-04-13-你还在因为数学对AI望而却步？看看这本秘籍吧！](https://toutiao.io/k/nvl24rz) ![](assets/new.png)  
 - [2022-04-13-实录-|-MegEngine-大-Kernel-卷积工程优化实践](https://toutiao.io/k/3krv7su) ![](assets/new.png)  
-- [2022-04-13-推荐-谷歌工程最佳实践](https://toutiao.io/k/q19mmjh) ![](assets/new.png)  
-- [2022-04-13-推荐-系统架构的11条原则](https://toutiao.io/k/xbwjqgj) ![](assets/new.png)  
-- [2022-04-13-推荐-解析分布式系统的缓存设计](https://toutiao.io/k/pucrtli) ![](assets/new.png)  
+- [2022-04-13-推荐-盘点-3-月份-yyds-的开源项目](https://toutiao.io/k/79431xa) ![](assets/new.png)  
+- [2022-04-13-推荐-万字长文助你上手软件领域驱动设计-DDD](https://toutiao.io/k/72nuj7z) ![](assets/new.png)  
+- [2022-04-13-推荐-写出结构优雅代码的4个技巧](https://toutiao.io/k/6cddvzi) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

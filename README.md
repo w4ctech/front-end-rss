@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-04-13 17:18:48，:rocket: 更新条数: +2024， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-04-13 17:42:13，:rocket: 更新条数: +2023， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-04-13-观-/t/846748-有感，为什么有些人用-Linux-都能用出优越感？](https://www.v2ex.com/t/846849) ![](assets/new.png)  
+- [2022-04-13-国内宽带运营商里家宽质量最好的应该就是联通了](https://www.v2ex.com/t/846848) ![](assets/new.png)  
 - [2022-04-13-QQ-的一个-bug或许是-feat?](https://www.v2ex.com/t/846846) ![](assets/new.png)  
 - [2022-04-13-win10-相关-自动重启](https://www.v2ex.com/t/846844) ![](assets/new.png)  
 - [2022-04-13-请问一个关于-Android-and-iOS-开发问题](https://www.v2ex.com/t/846843) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-04-13-不懂就问，当我们在软件领域说“金融级”这个概念的时候到底是在说啥？有什么明确的定义么？](https://www.v2ex.com/t/846824) ![](assets/new.png)  
 - [2022-04-13-找个能写-Windows-桌面端程序猿，小软件难度一般，价钱-2k-左右-详谈](https://www.v2ex.com/t/846823) ![](assets/new.png)  
 - [2022-04-13-有人发现现在很难创建新的-google-groups-了吗？](https://www.v2ex.com/t/846822) ![](assets/new.png)  
-- [2022-04-13-内推-北京/深圳/广州/成都「字节跳动---智能创作」招前端/服务端/多媒体/客户端开发含实习,-新方向大量机会](https://www.v2ex.com/t/846819) ![](assets/new.png)  
-- [2022-04-13-怎么系统地去记录上海受新冠影响这段时间](https://www.v2ex.com/t/846818) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -570,9 +570,9 @@
 - [2022-04-13-你还在因为数学对AI望而却步？看看这本秘籍吧！](https://toutiao.io/k/nvl24rz) ![](assets/new.png)  
 - [2022-04-13-转转测试环境标签域名实践](https://toutiao.io/k/h2sccdt) ![](assets/new.png)  
 - [2022-04-13-实录-|-MegEngine-大-Kernel-卷积工程优化实践](https://toutiao.io/k/3krv7su) ![](assets/new.png)  
-- [2022-04-13-推荐-盘点-3-月份-yyds-的开源项目](https://toutiao.io/k/79431xa) ![](assets/new.png)  
+- [2022-04-13-推荐-解析分布式系统的缓存设计](https://toutiao.io/k/pucrtli) ![](assets/new.png)  
 - [2022-04-13-推荐-写出结构优雅代码的4个技巧](https://toutiao.io/k/6cddvzi) ![](assets/new.png)  
-- [2022-04-13-推荐-系统架构的11条原则](https://toutiao.io/k/xbwjqgj) ![](assets/new.png)  
+- [2022-04-13-推荐-盘点-3-月份-yyds-的开源项目](https://toutiao.io/k/79431xa) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

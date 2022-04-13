@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-04-13 09:39:44，:rocket: 更新条数: +2028， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-04-13 10:15:40，:rocket: 更新条数: +2029， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,9 @@
 </summary>
 
 
+- [2022-04-13-请问哪款-打印机-比较适合家用？](https://www.v2ex.com/t/846784) ![](assets/new.png)  
+- [2022-04-13-hubstudio-指纹浏览器可以同时拥有多个指纹信息](https://www.v2ex.com/t/846783) ![](assets/new.png)  
+- [2022-04-13-戴尔荷兰高管证实从本月开始试验四天工作制](https://www.v2ex.com/t/846782) ![](assets/new.png)  
 - [2022-04-13-不提供公网地址的宽带运营商，上网高峰时期的网络通断问题](https://www.v2ex.com/t/846780) ![](assets/new.png)  
 - [2022-04-13-捷豹-XFL-还是雷克萨斯-ES260？](https://www.v2ex.com/t/846779) ![](assets/new.png)  
 - [2022-04-13-有车吗](https://www.v2ex.com/t/846778) ![](assets/new.png)  
@@ -508,9 +511,6 @@
 - [2022-04-13-如何看待后端接口带出数据库全部字段](https://www.v2ex.com/t/846763) ![](assets/new.png)  
 - [2022-04-13-移植了微信开发者工具的-Linux-版本](https://www.v2ex.com/t/846762) ![](assets/new.png)  
 - [2022-04-13-腾讯会议登录-MacApp-Store-了。是通用应用](https://www.v2ex.com/t/846761) ![](assets/new.png)  
-- [2022-04-13-成都-Razer雷蛇-Razer-Gold-团队招-Node.js-后端开发](https://www.v2ex.com/t/846760) ![](assets/new.png)  
-- [2022-04-13-求问：-PDD-的低价-M1，到底坑在哪里？](https://www.v2ex.com/t/846758) ![](assets/new.png)  
-- [2022-04-13-有知道-dedecms-之前-V6-版本风波的朋友吗？-为什么-web.archive-的存档里，一边发声明，一边下载还导向另一方的网站呢？好奇怪](https://www.v2ex.com/t/846756) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -566,13 +566,13 @@
 - [2022-04-13-如何搭建Zeppelin本地开发环境](https://toutiao.io/k/xl3ah5h) ![](assets/new.png)  
 - [2022-04-13-为什么可靠性等质量需求描述必须是可测的？](https://toutiao.io/k/7835d7y) ![](assets/new.png)  
 - [2022-04-13-一款开源的文件搜索神器，终于不用记-find-命令了](https://toutiao.io/k/p5lw302) ![](assets/new.png)  
-- [2022-04-13-好物分享：快速找到-Goroutine-泄露的地方](https://toutiao.io/k/k4nk7nq) ![](assets/new.png)  
 - [2022-04-13-转转测试环境标签域名实践](https://toutiao.io/k/h2sccdt) ![](assets/new.png)  
+- [2022-04-13-好物分享：快速找到-Goroutine-泄露的地方](https://toutiao.io/k/k4nk7nq) ![](assets/new.png)  
 - [2022-04-13-你还在因为数学对AI望而却步？看看这本秘籍吧！](https://toutiao.io/k/nvl24rz) ![](assets/new.png)  
 - [2022-04-13-实录-|-MegEngine-大-Kernel-卷积工程优化实践](https://toutiao.io/k/3krv7su) ![](assets/new.png)  
-- [2022-04-13-推荐-系统架构的11条原则](https://toutiao.io/k/xbwjqgj) ![](assets/new.png)  
-- [2022-04-13-推荐-谷歌工程最佳实践](https://toutiao.io/k/q19mmjh) ![](assets/new.png)  
-- [2022-04-13-推荐-20多个好用的-Vue-组件库，请查收！](https://toutiao.io/k/sskayyw) ![](assets/new.png)  
+- [2022-04-13-推荐-解析分布式系统的缓存设计](https://toutiao.io/k/pucrtli) ![](assets/new.png)  
+- [2022-04-13-推荐-盘点-3-月份-yyds-的开源项目](https://toutiao.io/k/79431xa) ![](assets/new.png)  
+- [2022-04-13-推荐-写出结构优雅代码的4个技巧](https://toutiao.io/k/6cddvzi) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

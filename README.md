@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-04-13 07:14:21，:rocket: 更新条数: +2026， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-04-13 07:38:26，:rocket: 更新条数: +2027， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,15 @@
 </summary>
 
 
+- [2022-04-13-南京-统计了一些南京的公司信息](https://www.v2ex.com/t/846754) ![](assets/new.png)  
+- [2022-04-13-杭州这一波还能全身而退么](https://www.v2ex.com/t/846753) ![](assets/new.png)  
+- [2022-04-13-上海/北京/深圳/杭州-字节跳动音乐团队（Resso、汽水音乐）iOS/Android-岗位招聘](https://www.v2ex.com/t/846752) ![](assets/new.png)  
+- [2022-04-13-大家是如何备份-Elasticsearch-大数据的？几千万上亿量级的数据](https://www.v2ex.com/t/846751) ![](assets/new.png)  
+- [2022-04-13-有人在玩流放之路吗？](https://www.v2ex.com/t/846750) ![](assets/new.png)  
+- [2022-04-13-日常切换到-Linux-之后感觉自己就是个废物，寸步难行了，求个好点的教程](https://www.v2ex.com/t/846748) ![](assets/new.png)  
+- [2022-04-13-看官方的-issue-列表笑到了，原来-kotlin-也有被-Java-嘲讽的时候](https://www.v2ex.com/t/846747) ![](assets/new.png)  
+- [2022-04-13-现在-mbp-是不是都交付不了？](https://www.v2ex.com/t/846746) ![](assets/new.png)  
+- [2022-04-13-百度网盘-1-年-120-起-直冲-喜马拉雅-60-一年-腾讯云服务器群站版-255/60-台-t-楼特惠](https://www.v2ex.com/t/846745) ![](assets/new.png)  
 - [2022-04-13-BASE-南京,广州,深圳,新加坡,跨境电商独角兽-SHEIN-招人](https://www.v2ex.com/t/846744) ![](assets/new.png)  
 - [2022-04-13-新能源是买-BYD-汉-EV-还是-DM-i？还是无脑选-Tesla？](https://www.v2ex.com/t/846743) ![](assets/new.png)  
 - [2022-04-13-MacOS12.3.1-ScreenTimeAgent-硬盘写入量大](https://www.v2ex.com/t/846742) ![](assets/new.png)  
@@ -502,15 +511,6 @@
 - [2022-04-13-终端-ping-域名返回内网地址](https://www.v2ex.com/t/846733) ![](assets/new.png)  
 - [2022-04-13-Macaca-DataHub-4.0---体验功能全新升级](https://www.v2ex.com/t/846731) ![](assets/new.png)  
 - [2022-04-13-实在是抱歉,博客图片我也遇到问题了](https://www.v2ex.com/t/846728) ![](assets/new.png)  
-- [2022-04-13-轻量迅捷时代，-Vite-与-Webpack-谁赢谁输](https://www.v2ex.com/t/846727) ![](assets/new.png)  
-- [2022-04-13-新婚第一年，-4.17-媳妇生日，应该送什么惊喜给她？](https://www.v2ex.com/t/846726) ![](assets/new.png)  
-- [2022-04-13-问下目前有没有浏览器插件，可以用来搜索自己看过的内容？](https://www.v2ex.com/t/846724) ![](assets/new.png)  
-- [2022-04-13-30-岁了](https://www.v2ex.com/t/846723) ![](assets/new.png)  
-- [2022-04-13-读《苹果公司也成网络安全受害者-黑客伪装执法机构套取用户数据》有感（吐槽）而发](https://www.v2ex.com/t/846722) ![](assets/new.png)  
-- [2022-04-13-2022-WWDC-会出-M2-的-Mac-Mini-吗？](https://www.v2ex.com/t/846721) ![](assets/new.png)  
-- [2022-04-13-关于面试时候的手撕代码shell](https://www.v2ex.com/t/846719) ![](assets/new.png)  
-- [2022-04-13-有稳定出-U-收-U-的么？](https://www.v2ex.com/t/846718) ![](assets/new.png)  
-- [2022-04-13-剪切板总是出现莫名奇妙的数据,并不想阴谋论,只是想来这问一问,是不是大家也有类似的情况](https://www.v2ex.com/t/846717) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -567,12 +567,12 @@
 - [2022-04-13-为什么可靠性等质量需求描述必须是可测的？](https://toutiao.io/k/7835d7y) ![](assets/new.png)  
 - [2022-04-13-一款开源的文件搜索神器，终于不用记-find-命令了](https://toutiao.io/k/p5lw302) ![](assets/new.png)  
 - [2022-04-13-转转测试环境标签域名实践](https://toutiao.io/k/h2sccdt) ![](assets/new.png)  
-- [2022-04-13-好物分享：快速找到-Goroutine-泄露的地方](https://toutiao.io/k/k4nk7nq) ![](assets/new.png)  
 - [2022-04-13-你还在因为数学对AI望而却步？看看这本秘籍吧！](https://toutiao.io/k/nvl24rz) ![](assets/new.png)  
+- [2022-04-13-好物分享：快速找到-Goroutine-泄露的地方](https://toutiao.io/k/k4nk7nq) ![](assets/new.png)  
 - [2022-04-13-实录-|-MegEngine-大-Kernel-卷积工程优化实践](https://toutiao.io/k/3krv7su) ![](assets/new.png)  
-- [2022-04-13-推荐-解析分布式系统的缓存设计](https://toutiao.io/k/pucrtli) ![](assets/new.png)  
-- [2022-04-13-推荐-20多个好用的-Vue-组件库，请查收！](https://toutiao.io/k/sskayyw) ![](assets/new.png)  
 - [2022-04-13-推荐-系统架构的11条原则](https://toutiao.io/k/xbwjqgj) ![](assets/new.png)  
+- [2022-04-13-推荐-解析分布式系统的缓存设计](https://toutiao.io/k/pucrtli) ![](assets/new.png)  
+- [2022-04-13-推荐-写出结构优雅代码的4个技巧](https://toutiao.io/k/6cddvzi) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

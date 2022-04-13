@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-04-13 07:14:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-04-13 07:38:26。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -157,7 +157,6 @@
 
 
 
-- [【V2EX】坐标成都高新区，-有没有游戏行业的朋友看机会的？](https://www.v2ex.com/t/846699)
 - [......【查看更多】......](./details/tags/dev-game.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -240,7 +239,6 @@
 
 - [【武汉肺炎防疫全纪录(财新网)】广州17岁男生在定点医院参加高考-特殊考场视频监考](https://m.caixin.com/m/2021-06-05/101723418.html)
 - [【武汉肺炎防疫全纪录(财新网)】林郑月娥率13高官直播接种科兴疫苗-复星疫苗预计周中到港](https://m.caixin.com/m/2021-02-22/101665724.html)
-- [【V2EX】分享三个联合会员活动～有-WPS、B-站、腾讯视频、QQ-音乐等](https://www.v2ex.com/t/846705)
 - [......【查看更多】......](./details/tags/audio-video.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -302,6 +300,7 @@
 
 
 
+- [【V2EX】大家是如何备份-Elasticsearch-大数据的？几千万上亿量级的数据](https://www.v2ex.com/t/846751)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -351,6 +350,7 @@
 
 
 
+- [【V2EX】上海/北京/深圳/杭州-字节跳动音乐团队（Resso、汽水音乐）iOS/Android-岗位招聘](https://www.v2ex.com/t/846752)
 - [【V2EX】关于面试时候的手撕代码shell](https://www.v2ex.com/t/846719)
 - [......【查看更多】......](./details/tags/job-interview.md)
 

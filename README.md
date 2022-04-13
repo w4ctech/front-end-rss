@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-04-13 11:12:23，:rocket: 更新条数: +2031， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-04-13 11:37:32，:rocket: 更新条数: +2029， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,9 @@
 </summary>
 
 
+- [2022-04-13-有美国的小伙伴么，能帮忙办理宽带么](https://www.v2ex.com/t/846795) ![](assets/new.png)  
+- [2022-04-13-给我的-R2S-装个简易水冷](https://www.v2ex.com/t/846792) ![](assets/new.png)  
+- [2022-04-13-承接海报制作-50-一张。](https://www.v2ex.com/t/846791) ![](assets/new.png)  
 - [2022-04-13-Vue-如何自定义指令以达到-v-if-和替换组件的效果?](https://www.v2ex.com/t/846790) ![](assets/new.png)  
 - [2022-04-13-人是否必须劳动才能生存](https://www.v2ex.com/t/846789) ![](assets/new.png)  
 - [2022-04-13-大家所在的小区有成立业主委员会的吗？](https://www.v2ex.com/t/846788) ![](assets/new.png)  
@@ -508,9 +511,6 @@
 - [2022-04-13-macOS-IDEA-2022.1-频繁意外退出](https://www.v2ex.com/t/846775) ![](assets/new.png)  
 - [2022-04-13-最近-M1-macOS-更新了-12.3.1-通用控制用不了，有同样问题的吗？](https://www.v2ex.com/t/846773) ![](assets/new.png)  
 - [2022-04-13-现在宅男们还有啥玩具可玩的？](https://www.v2ex.com/t/846770) ![](assets/new.png)  
-- [2022-04-13-thinkphp+phpstorm+xdebug-如何实现远程调试啊](https://www.v2ex.com/t/846769) ![](assets/new.png)  
-- [2022-04-13-使用-cf-workers-反向代理-nextdns-或者-adguardHome，配合国内-CDN-让你飞起](https://www.v2ex.com/t/846768) ![](assets/new.png)  
-- [2022-04-13-一个做眼科医疗的公司，让员工买股权，该不该买，一起聊聊](https://www.v2ex.com/t/846767) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -559,20 +559,20 @@
 - [2022-04-13-万字长文，教你用go开发区块链应用](https://toutiao.io/k/3f3i7ey) ![](assets/new.png)  
 - [2022-04-13-这次终于彻底理解了傅里叶变换！](https://toutiao.io/k/pbe1k7l) ![](assets/new.png)  
 - [2022-04-13-知乎的用户画像与实时数据的架构与实践](https://toutiao.io/k/0up430p) ![](assets/new.png)  
-- [2022-04-13-金融级应用开发｜SOFABoot-框架剖析](https://toutiao.io/k/7t2frf4) ![](assets/new.png)  
 - [2022-04-13-成为一名优秀Java开发人员的7个步骤](https://toutiao.io/k/6kwaapq) ![](assets/new.png)  
+- [2022-04-13-金融级应用开发｜SOFABoot-框架剖析](https://toutiao.io/k/7t2frf4) ![](assets/new.png)  
 - [2022-04-13-一款倍受欢迎的-.NET-开源UI库](https://toutiao.io/k/2kz4am5) ![](assets/new.png)  
 - [2022-04-13-TypeScript-never-和-unknown-的优雅之道](https://toutiao.io/k/8c6p38r) ![](assets/new.png)  
 - [2022-04-13-如何搭建Zeppelin本地开发环境](https://toutiao.io/k/xl3ah5h) ![](assets/new.png)  
 - [2022-04-13-为什么可靠性等质量需求描述必须是可测的？](https://toutiao.io/k/7835d7y) ![](assets/new.png)  
 - [2022-04-13-一款开源的文件搜索神器，终于不用记-find-命令了](https://toutiao.io/k/p5lw302) ![](assets/new.png)  
-- [2022-04-13-转转测试环境标签域名实践](https://toutiao.io/k/h2sccdt) ![](assets/new.png)  
-- [2022-04-13-好物分享：快速找到-Goroutine-泄露的地方](https://toutiao.io/k/k4nk7nq) ![](assets/new.png)  
 - [2022-04-13-你还在因为数学对AI望而却步？看看这本秘籍吧！](https://toutiao.io/k/nvl24rz) ![](assets/new.png)  
+- [2022-04-13-好物分享：快速找到-Goroutine-泄露的地方](https://toutiao.io/k/k4nk7nq) ![](assets/new.png)  
+- [2022-04-13-转转测试环境标签域名实践](https://toutiao.io/k/h2sccdt) ![](assets/new.png)  
 - [2022-04-13-实录-|-MegEngine-大-Kernel-卷积工程优化实践](https://toutiao.io/k/3krv7su) ![](assets/new.png)  
-- [2022-04-13-推荐-谷歌工程最佳实践](https://toutiao.io/k/q19mmjh) ![](assets/new.png)  
-- [2022-04-13-推荐-20多个好用的-Vue-组件库，请查收！](https://toutiao.io/k/sskayyw) ![](assets/new.png)  
+- [2022-04-13-推荐-盘点-3-月份-yyds-的开源项目](https://toutiao.io/k/79431xa) ![](assets/new.png)  
 - [2022-04-13-推荐-万字长文助你上手软件领域驱动设计-DDD](https://toutiao.io/k/72nuj7z) ![](assets/new.png)  
+- [2022-04-13-推荐-谷歌工程最佳实践](https://toutiao.io/k/q19mmjh) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

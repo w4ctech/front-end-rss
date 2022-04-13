@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-04-13 02:44:26。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-04-13 03:35:55。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -156,6 +156,7 @@
 
 
 
+- [【V2EX】坐标成都高新区，-有没有游戏行业的朋友看机会的？](https://www.v2ex.com/t/846699)
 - [......【查看更多】......](./details/tags/dev-game.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -255,7 +256,6 @@
 
 
 
-- [【V2EX】彩云天气无法加载…](https://www.v2ex.com/t/846646)
 - [【技术头条】52条SQL语句性能优化策略，建议收藏！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15012&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493797%26amp%3Bidx%3D2%26amp%3Bsn%3D1dbc093793d9085034fa0c1297ab3aae%26amp%3Bchksm%3Dfa3f09fecd4880e89d1057391f9081c6370469beba67bf10415a1873130220d3e669066eea75%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [......【查看更多】......](./details/tags/optimization.md)
 
@@ -282,8 +282,6 @@
 - [【V2EX】为什么要区分不同的-http-状态码？想说服同事](https://www.v2ex.com/t/846679)
 - [【V2EX】Chrome-的显示侧边栏按钮如何去掉？](https://www.v2ex.com/t/846672)
 - [【V2EX】北京/济南/成都/武汉-安全行业内推，前端、-PHP-、Go、-Python-、C-等开发大量招人（可远程面试，有限远程办公）。](https://www.v2ex.com/t/846656)
-- [【V2EX】chrome-有没有-pdf-划词/划句翻译的扩展，像-google-翻译这种的](https://www.v2ex.com/t/846648)
-- [【V2EX】加拿大网络安全公司招聘，坐标温哥华。](https://www.v2ex.com/t/846644)
 - [【开发者头条】推荐-解析分布式系统的缓存设计](https://toutiao.io/k/pucrtli)
 - [......【查看更多】......](./details/tags/browser.md)
 

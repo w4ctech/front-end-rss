@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-04-14 10:43:55，:rocket: 更新条数: +2024， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-04-14 11:12:47，:rocket: 更新条数: +2025， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,14 @@
 </summary>
 
 
+- [2022-04-14-Obsidian-是可以用一辈子不换的笔记软件吗](https://www.v2ex.com/t/847011) ![](assets/new.png)  
+- [2022-04-14-k8s-有开源的调度管理插件么，像虚拟机管理平台那样的](https://www.v2ex.com/t/847010) ![](assets/new.png)  
+- [2022-04-14-全职猎人是不是有点血腥？](https://www.v2ex.com/t/847008) ![](assets/new.png)  
+- [2022-04-14-不会产生负数的-ID-字段用-unsigned-int-还是-signed-int-更好？](https://www.v2ex.com/t/847007) ![](assets/new.png)  
+- [2022-04-14-深圳/远程梦猷科技招聘元宇宙-Unity3D-前端开发ReactNode全栈](https://www.v2ex.com/t/847006) ![](assets/new.png)  
+- [2022-04-14-有没有什么策略可以让-surge-连接公司-vpn-的时候停止工作](https://www.v2ex.com/t/847005) ![](assets/new.png)  
+- [2022-04-14-Agora-开发者创业讲堂丨第-2-期：创业初期如何进行技术选型与架构设计？](https://www.v2ex.com/t/847004) ![](assets/new.png)  
+- [2022-04-14-写了一个获取-Bing-高清大图的快捷指令](https://www.v2ex.com/t/847003) ![](assets/new.png)  
 - [2022-04-14-上海移动和上海联通哪个好？](https://www.v2ex.com/t/846999) ![](assets/new.png)  
 - [2022-04-14-域名-本地局域网-ipv6-下载速率为什么会不一样](https://www.v2ex.com/t/846998) ![](assets/new.png)  
 - [2022-04-14-远程/北京Web3SolidityNFT-国际化元宇宙/数字收藏类初创项目，前端/后端/全栈/智能合约/运维/游戏开发/自荐职位（041422-更新岗位信息）](https://www.v2ex.com/t/846997) ![](assets/new.png)  
@@ -503,14 +511,6 @@
 - [2022-04-14-知乎推荐系统是不是有问题？](https://www.v2ex.com/t/846987) ![](assets/new.png)  
 - [2022-04-14-求一款能差不多完美黑苹果的-mini-主机](https://www.v2ex.com/t/846986) ![](assets/new.png)  
 - [2022-04-14-如何使用-awk-打印-nginx-404-日志的目录](https://www.v2ex.com/t/846985) ![](assets/new.png)  
-- [2022-04-14-有推荐的千元人体工学椅和电脑桌吗](https://www.v2ex.com/t/846984) ![](assets/new.png)  
-- [2022-04-14-被确诊令人难受的疾病的时候，你是怎么面对的](https://www.v2ex.com/t/846981) ![](assets/new.png)  
-- [2022-04-14-xcode-mac-studio-能爽很多吗，原来是-m1-air-感觉有点卡](https://www.v2ex.com/t/846980) ![](assets/new.png)  
-- [2022-04-14-请问以太坊-solidity-语言如何面试？](https://www.v2ex.com/t/846979) ![](assets/new.png)  
-- [2022-04-14-macOS-12.3.1-网络-DNS-设置存在多种状态](https://www.v2ex.com/t/846977) ![](assets/new.png)  
-- [2022-04-14-求助一个特弱智的问题，爬微博热搜要闻榜怎样可以不需要-cookie-信息？](https://www.v2ex.com/t/846976) ![](assets/new.png)  
-- [2022-04-14-jitouch-偶尔断开修复](https://www.v2ex.com/t/846975) ![](assets/new.png)  
-- [2022-04-14-cargo-check-执行报错](https://www.v2ex.com/t/846974) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -560,19 +560,19 @@
 - [2022-04-14-时间序列预测方法汇总：从理论到实践（附Kaggle经典比赛方案）](https://toutiao.io/k/2qq2sxq) ![](assets/new.png)  
 - [2022-04-14-探究Presto-SQL引擎2-浅析Join](https://toutiao.io/k/jd45hi3) ![](assets/new.png)  
 - [2022-04-14-Flink-2w-字详述双流-Join-3-种解决方案-+-2-种优化方案](https://toutiao.io/k/ipg8x5r) ![](assets/new.png)  
-- [2022-04-14-云原生爱好者周刊：KubeKey-v2.1.0-alpha-版发布！](https://toutiao.io/k/lii3323) ![](assets/new.png)  
 - [2022-04-14-【Vuejs】1286--分享-15-个-Vue3-全家桶开发的避坑经验](https://toutiao.io/k/3ghx80y) ![](assets/new.png)  
+- [2022-04-14-云原生爱好者周刊：KubeKey-v2.1.0-alpha-版发布！](https://toutiao.io/k/lii3323) ![](assets/new.png)  
 - [2022-04-14-排错：exceeds-block-gas-limit](https://toutiao.io/k/ml2gmov) ![](assets/new.png)  
 - [2022-04-14-免杀基础-常见Webshell特征分析](https://toutiao.io/k/l9ruxtm) ![](assets/new.png)  
-- [2022-04-14-Flink-1.14-Table-API-&-SQL-第一个程序-WordCount](https://toutiao.io/k/0txhvg8) ![](assets/new.png)  
 - [2022-04-14-创建telegram-机器人-并发送消息](https://toutiao.io/k/3i26i44) ![](assets/new.png)  
+- [2022-04-14-Flink-1.14-Table-API-&-SQL-第一个程序-WordCount](https://toutiao.io/k/0txhvg8) ![](assets/new.png)  
 - [2022-04-14-直播技术干货分享：千万级直播系统后端架构设计的方方面面](https://toutiao.io/k/5p3lbu4) ![](assets/new.png)  
 - [2022-04-14-在M1芯片上跑原生Linux：编译速度比macOS还快40%，真香警告](https://toutiao.io/k/emvbcpj) ![](assets/new.png)  
 - [2022-04-14-go-btfs-一个可扩展的无中心的文件存储系统](https://toutiao.io/k/ut5hw62) ![](assets/new.png)  
-- [2022-04-14-推荐-解析分布式系统的缓存设计](https://toutiao.io/k/pucrtli) ![](assets/new.png)  
-- [2022-04-14-推荐-写出结构优雅代码的4个技巧](https://toutiao.io/k/6cddvzi) ![](assets/new.png)  
-- [2022-04-14-推荐-盘点-3-月份-yyds-的开源项目](https://toutiao.io/k/79431xa) ![](assets/new.png)  
 - [2022-04-14-推荐-谷歌工程最佳实践](https://toutiao.io/k/q19mmjh) ![](assets/new.png)  
+- [2022-04-14-推荐-盘点-3-月份-yyds-的开源项目](https://toutiao.io/k/79431xa) ![](assets/new.png)  
+- [2022-04-14-推荐-解析分布式系统的缓存设计](https://toutiao.io/k/pucrtli) ![](assets/new.png)  
+- [2022-04-14-推荐-系统架构的11条原则](https://toutiao.io/k/xbwjqgj) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-04-14 10:43:55。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-04-14 11:12:47。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,14 @@
 </summary>
 
 
+- [【V2EX】2022-04-14-Obsidian-是可以用一辈子不换的笔记软件吗](https://www.v2ex.com/t/847011) 
+- [【V2EX】2022-04-14-k8s-有开源的调度管理插件么，像虚拟机管理平台那样的](https://www.v2ex.com/t/847010) 
+- [【V2EX】2022-04-14-全职猎人是不是有点血腥？](https://www.v2ex.com/t/847008) 
+- [【V2EX】2022-04-14-不会产生负数的-ID-字段用-unsigned-int-还是-signed-int-更好？](https://www.v2ex.com/t/847007) 
+- [【V2EX】2022-04-14-深圳/远程梦猷科技招聘元宇宙-Unity3D-前端开发ReactNode全栈](https://www.v2ex.com/t/847006) 
+- [【V2EX】2022-04-14-有没有什么策略可以让-surge-连接公司-vpn-的时候停止工作](https://www.v2ex.com/t/847005) 
+- [【V2EX】2022-04-14-Agora-开发者创业讲堂丨第-2-期：创业初期如何进行技术选型与架构设计？](https://www.v2ex.com/t/847004) 
+- [【V2EX】2022-04-14-写了一个获取-Bing-高清大图的快捷指令](https://www.v2ex.com/t/847003) 
 - [【V2EX】2022-04-14-上海移动和上海联通哪个好？](https://www.v2ex.com/t/846999) 
 - [【V2EX】2022-04-14-域名-本地局域网-ipv6-下载速率为什么会不一样](https://www.v2ex.com/t/846998) 
 - [【V2EX】2022-04-14-远程/北京Web3SolidityNFT-国际化元宇宙/数字收藏类初创项目，前端/后端/全栈/智能合约/运维/游戏开发/自荐职位（041422-更新岗位信息）](https://www.v2ex.com/t/846997) 
@@ -98,13 +106,6 @@
 - [【V2EX】2022-04-14-分公司一夜之间被裁撤了](https://www.v2ex.com/t/846964) 
 - [【V2EX】2022-04-14-分区类型是什么？跟文件系统有没有什么关系？](https://www.v2ex.com/t/846963) 
 - [【V2EX】2022-04-14-胡思乱想：既然梦这么真实，何不把研究-VR，-MR,，元宇宙的精力投到控制梦境上去。](https://www.v2ex.com/t/846962) 
-- [【V2EX】2022-04-14-Gradle-一用就烫](https://www.v2ex.com/t/846961) 
-- [【V2EX】2022-04-14-ubuntu-系统如何正确安装-redis-以及-redis-sentinel？](https://www.v2ex.com/t/846960) 
-- [【V2EX】2022-04-14-自己写了一个-JSON-解析器，遇到一个问题](https://www.v2ex.com/t/846957) 
-- [【V2EX】2022-04-14-快捷指令不支持删除短信](https://www.v2ex.com/t/846956) 
-- [【V2EX】2022-04-14-安卓淘宝的-app-怎么三天两头更新？](https://www.v2ex.com/t/846955) 
-- [【V2EX】2022-04-14-钉钉的内网穿透服务好用吗？](https://www.v2ex.com/t/846954) 
-- [【V2EX】2022-04-14-深度学习软件工程师（苏州）-51job-链接：-https://jobs.51job.com/suzhou/126714766.html?s=sou_sou_soulb&t=0_0](https://www.v2ex.com/t/846953) 
 - [【技术头条】2022-04-14-人手必备的常用网络命令合集，吐血整理！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15017&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493888%26amp%3Bidx%3D1%26amp%3Bsn%3D70d3506be895b9f146066d56dfae8b69%26amp%3Bchksm%3Dfa3f085bcd48814dbddbd6eddf6584cd9d9ebb768b37f25529371a625c4d09114bf9e2ea6fba%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-04-14-Java必会的工具库，让你的代码量减少90%-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15016&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493888%26amp%3Bidx%3D2%26amp%3Bsn%3D9f50338e5145bdd585e908e36aa7517d%26amp%3Bchksm%3Dfa3f085bcd48814d7386eb6707d907d58fa0313c300b3f73937f51525a7fc10671193f1557e2%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-04-14-技术主管和项目经理一定要读的6本书！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15015&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493887%26amp%3Bidx%3D1%26amp%3Bsn%3D1a13135d359785dd3c15d90dfaeb95e5%26amp%3Bchksm%3Dfa3f09a4cd4880b2c74c7b234fbfc6033b05283324ce3421d8c7ae3fdbb5039b9a2873874bc5%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -132,20 +133,20 @@
 - [【开发者头条】2022-04-14-时间序列预测方法汇总：从理论到实践（附Kaggle经典比赛方案）](https://toutiao.io/k/2qq2sxq) 
 - [【开发者头条】2022-04-14-探究Presto-SQL引擎2-浅析Join](https://toutiao.io/k/jd45hi3) 
 - [【开发者头条】2022-04-14-Flink-2w-字详述双流-Join-3-种解决方案-+-2-种优化方案](https://toutiao.io/k/ipg8x5r) 
-- [【开发者头条】2022-04-14-云原生爱好者周刊：KubeKey-v2.1.0-alpha-版发布！](https://toutiao.io/k/lii3323) 
 - [【开发者头条】2022-04-14-【Vuejs】1286--分享-15-个-Vue3-全家桶开发的避坑经验](https://toutiao.io/k/3ghx80y) 
+- [【开发者头条】2022-04-14-云原生爱好者周刊：KubeKey-v2.1.0-alpha-版发布！](https://toutiao.io/k/lii3323) 
 - [【开发者头条】2022-04-14-排错：exceeds-block-gas-limit](https://toutiao.io/k/ml2gmov) 
 - [【开发者头条】2022-04-14-免杀基础-常见Webshell特征分析](https://toutiao.io/k/l9ruxtm) 
-- [【开发者头条】2022-04-14-Flink-1.14-Table-API-&-SQL-第一个程序-WordCount](https://toutiao.io/k/0txhvg8) 
 - [【开发者头条】2022-04-14-创建telegram-机器人-并发送消息](https://toutiao.io/k/3i26i44) 
+- [【开发者头条】2022-04-14-Flink-1.14-Table-API-&-SQL-第一个程序-WordCount](https://toutiao.io/k/0txhvg8) 
 - [【开发者头条】2022-04-14-直播技术干货分享：千万级直播系统后端架构设计的方方面面](https://toutiao.io/k/5p3lbu4) 
 - [【开发者头条】2022-04-14-在M1芯片上跑原生Linux：编译速度比macOS还快40%，真香警告](https://toutiao.io/k/emvbcpj) 
 - [【开发者头条】2022-04-14-go-btfs-一个可扩展的无中心的文件存储系统](https://toutiao.io/k/ut5hw62) 
-- [【开发者头条】2022-04-14-推荐-解析分布式系统的缓存设计](https://toutiao.io/k/pucrtli) 
-- [【开发者头条】2022-04-14-推荐-写出结构优雅代码的4个技巧](https://toutiao.io/k/6cddvzi) 
-- [【开发者头条】2022-04-14-推荐-盘点-3-月份-yyds-的开源项目](https://toutiao.io/k/79431xa) 
 - [【开发者头条】2022-04-14-推荐-谷歌工程最佳实践](https://toutiao.io/k/q19mmjh) 
+- [【开发者头条】2022-04-14-推荐-盘点-3-月份-yyds-的开源项目](https://toutiao.io/k/79431xa) 
+- [【开发者头条】2022-04-14-推荐-解析分布式系统的缓存设计](https://toutiao.io/k/pucrtli) 
 - [【开发者头条】2022-04-14-推荐-系统架构的11条原则](https://toutiao.io/k/xbwjqgj) 
+- [【开发者头条】2022-04-14-推荐-写出结构优雅代码的4个技巧](https://toutiao.io/k/6cddvzi) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

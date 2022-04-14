@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-04-14 09:13:56，:rocket: 更新条数: +2029， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-04-14 09:40:15，:rocket: 更新条数: +2029， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,13 @@
 </summary>
 
 
+- [2022-04-14-求一款能差不多完美黑苹果的-mini-主机](https://www.v2ex.com/t/846986) ![](assets/new.png)  
+- [2022-04-14-如何使用-awk-打印-nginx-404-日志的目录](https://www.v2ex.com/t/846985) ![](assets/new.png)  
+- [2022-04-14-有推荐的千元人体工学椅和电脑桌吗](https://www.v2ex.com/t/846984) ![](assets/new.png)  
+- [2022-04-14-airpods-老是粘耳屎怎么办？](https://www.v2ex.com/t/846983) ![](assets/new.png)  
+- [2022-04-14-被确诊令人难受的疾病的时候，你是怎么面对的](https://www.v2ex.com/t/846981) ![](assets/new.png)  
+- [2022-04-14-xcode-mac-studio-能爽很多吗，原来是-m1-air-感觉有点卡](https://www.v2ex.com/t/846980) ![](assets/new.png)  
+- [2022-04-14-请问以太坊-solidity-语言如何面试？](https://www.v2ex.com/t/846979) ![](assets/new.png)  
 - [2022-04-14-macOS-12.3.1-网络-DNS-设置存在多种状态](https://www.v2ex.com/t/846977) ![](assets/new.png)  
 - [2022-04-14-求助一个特弱智的问题，爬微博热搜要闻榜怎样可以不需要-cookie-信息？](https://www.v2ex.com/t/846976) ![](assets/new.png)  
 - [2022-04-14-jitouch-偶尔断开修复](https://www.v2ex.com/t/846975) ![](assets/new.png)  
@@ -504,13 +511,6 @@
 - [2022-04-14-有什么脚本能一键把-git-clone-仓库里所有文件重设为它最后被修改的时间吗？](https://www.v2ex.com/t/846965) ![](assets/new.png)  
 - [2022-04-14-分公司一夜之间被裁撤了](https://www.v2ex.com/t/846964) ![](assets/new.png)  
 - [2022-04-14-分区类型是什么？跟文件系统有没有什么关系？](https://www.v2ex.com/t/846963) ![](assets/new.png)  
-- [2022-04-14-胡思乱想：既然梦这么真实，何不把研究-VR，-MR,，元宇宙的精力投到控制梦境上去。](https://www.v2ex.com/t/846962) ![](assets/new.png)  
-- [2022-04-14-Gradle-一用就烫](https://www.v2ex.com/t/846961) ![](assets/new.png)  
-- [2022-04-14-ubuntu-系统如何正确安装-redis-以及-redis-sentinel？](https://www.v2ex.com/t/846960) ![](assets/new.png)  
-- [2022-04-14-自己写了一个-JSON-解析器，遇到一个问题](https://www.v2ex.com/t/846957) ![](assets/new.png)  
-- [2022-04-14-快捷指令不支持删除短信](https://www.v2ex.com/t/846956) ![](assets/new.png)  
-- [2022-04-14-安卓淘宝的-app-怎么三天两头更新？](https://www.v2ex.com/t/846955) ![](assets/new.png)  
-- [2022-04-14-钉钉的内网穿透服务好用吗？](https://www.v2ex.com/t/846954) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -569,10 +569,10 @@
 - [2022-04-14-直播技术干货分享：千万级直播系统后端架构设计的方方面面](https://toutiao.io/k/5p3lbu4) ![](assets/new.png)  
 - [2022-04-14-在M1芯片上跑原生Linux：编译速度比macOS还快40%，真香警告](https://toutiao.io/k/emvbcpj) ![](assets/new.png)  
 - [2022-04-14-go-btfs-一个可扩展的无中心的文件存储系统](https://toutiao.io/k/ut5hw62) ![](assets/new.png)  
-- [2022-04-14-推荐-系统架构的11条原则](https://toutiao.io/k/xbwjqgj) ![](assets/new.png)  
+- [2022-04-14-推荐-写出结构优雅代码的4个技巧](https://toutiao.io/k/6cddvzi) ![](assets/new.png)  
 - [2022-04-14-推荐-谷歌工程最佳实践](https://toutiao.io/k/q19mmjh) ![](assets/new.png)  
 - [2022-04-14-推荐-解析分布式系统的缓存设计](https://toutiao.io/k/pucrtli) ![](assets/new.png)  
-- [2022-04-14-推荐-盘点-3-月份-yyds-的开源项目](https://toutiao.io/k/79431xa) ![](assets/new.png)  
+- [2022-04-14-推荐-系统架构的11条原则](https://toutiao.io/k/xbwjqgj) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

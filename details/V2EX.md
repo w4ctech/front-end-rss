@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2022-04-14 19:13:11。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-04-14 19:37:03。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-04-14-Iterm2-是不是有什么显存泄露之类的-bug](https://www.v2ex.com/t/847057) 
+- [2022-04-14-想永久持一张境外的手机卡](https://www.v2ex.com/t/847056) 
 - [2022-04-14-AirPlay-投屏到-Mac-使用的通信方式和协议是什么？](https://www.v2ex.com/t/847055) 
 - [2022-04-14-第一次血染钟楼有感](https://www.v2ex.com/t/847054) 
 - [2022-04-14-腾讯轻量云虎年回馈各位买几个服务器了，我下单了-2-台-5-年的](https://www.v2ex.com/t/847053) 
@@ -39,5 +41,3 @@
 - [2022-04-14-Obsidian-是可以用一辈子不换的笔记软件吗](https://www.v2ex.com/t/847011) 
 - [2022-04-14-k8s-有开源的调度管理插件么，像虚拟机管理平台那样的](https://www.v2ex.com/t/847010) 
 - [2022-04-14-全职猎人是不是有点血腥？](https://www.v2ex.com/t/847008) 
-- [2022-04-14-不会产生负数的-ID-字段用-unsigned-int-还是-signed-int-更好？](https://www.v2ex.com/t/847007) 
-- [2022-04-14-深圳/远程梦猷科技招聘元宇宙-Unity3D-前端开发ReactNode全栈](https://www.v2ex.com/t/847006) 

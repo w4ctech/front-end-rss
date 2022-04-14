@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-04-14 19:13:10，:rocket: 更新条数: +2022， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-04-14 19:37:03，:rocket: 更新条数: +2022， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-04-14-Iterm2-是不是有什么显存泄露之类的-bug](https://www.v2ex.com/t/847057) ![](assets/new.png)  
+- [2022-04-14-想永久持一张境外的手机卡](https://www.v2ex.com/t/847056) ![](assets/new.png)  
 - [2022-04-14-AirPlay-投屏到-Mac-使用的通信方式和协议是什么？](https://www.v2ex.com/t/847055) ![](assets/new.png)  
 - [2022-04-14-第一次血染钟楼有感](https://www.v2ex.com/t/847054) ![](assets/new.png)  
 - [2022-04-14-腾讯轻量云虎年回馈各位买几个服务器了，我下单了-2-台-5-年的](https://www.v2ex.com/t/847053) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-04-14-为什么-sadhguru、杨定一、Eckhart-Tolle-都强调了同一件事？](https://www.v2ex.com/t/847037) ![](assets/new.png)  
 - [2022-04-14-英文中，生活是-life，工作是-work，有没有一个单词或者比较简短的短语来表示工作之外的，但又不是你的日常生活，比如程序员的一些私活啊等等](https://www.v2ex.com/t/847036) ![](assets/new.png)  
 - [2022-04-14-win10-系统，靠-vmware-虚拟机能搞个软路由，群晖，-emby-么](https://www.v2ex.com/t/847033) ![](assets/new.png)  
-- [2022-04-14-选型一款-VOC-气体传感器](https://www.v2ex.com/t/847032) ![](assets/new.png)  
-- [2022-04-14-八股文疑问，-redis-sds-buffer-最大长度在-512M-限制？](https://www.v2ex.com/t/847030) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -570,9 +570,9 @@
 - [2022-04-14-Flink-1.14-Table-API-&-SQL-第一个程序-WordCount](https://toutiao.io/k/0txhvg8) ![](assets/new.png)  
 - [2022-04-14-go-btfs-一个可扩展的无中心的文件存储系统](https://toutiao.io/k/ut5hw62) ![](assets/new.png)  
 - [2022-04-14-推荐-系统架构的11条原则](https://toutiao.io/k/xbwjqgj) ![](assets/new.png)  
+- [2022-04-14-推荐-谷歌工程最佳实践](https://toutiao.io/k/q19mmjh) ![](assets/new.png)  
 - [2022-04-14-推荐-写出结构优雅代码的4个技巧](https://toutiao.io/k/6cddvzi) ![](assets/new.png)  
 - [2022-04-14-推荐-解析分布式系统的缓存设计](https://toutiao.io/k/pucrtli) ![](assets/new.png)  
-- [2022-04-14-推荐-谷歌工程最佳实践](https://toutiao.io/k/q19mmjh) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

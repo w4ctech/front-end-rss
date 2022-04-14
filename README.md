@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-04-14 18:44:06，:rocket: 更新条数: +2022， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-04-14 19:13:10，:rocket: 更新条数: +2022， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-04-14-AirPlay-投屏到-Mac-使用的通信方式和协议是什么？](https://www.v2ex.com/t/847055) ![](assets/new.png)  
 - [2022-04-14-第一次血染钟楼有感](https://www.v2ex.com/t/847054) ![](assets/new.png)  
 - [2022-04-14-腾讯轻量云虎年回馈各位买几个服务器了，我下单了-2-台-5-年的](https://www.v2ex.com/t/847053) ![](assets/new.png)  
 - [2022-04-14-deployment-和-statefulset-的-pod-反亲和有办法按-node-的-label-分组吗](https://www.v2ex.com/t/847051) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-04-14-win10-系统，靠-vmware-虚拟机能搞个软路由，群晖，-emby-么](https://www.v2ex.com/t/847033) ![](assets/new.png)  
 - [2022-04-14-选型一款-VOC-气体传感器](https://www.v2ex.com/t/847032) ![](assets/new.png)  
 - [2022-04-14-八股文疑问，-redis-sds-buffer-最大长度在-512M-限制？](https://www.v2ex.com/t/847030) ![](assets/new.png)  
-- [2022-04-14-原来解除所有设备-Apple-ID-授权还有频率限制](https://www.v2ex.com/t/847029) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -570,9 +570,9 @@
 - [2022-04-14-Flink-1.14-Table-API-&-SQL-第一个程序-WordCount](https://toutiao.io/k/0txhvg8) ![](assets/new.png)  
 - [2022-04-14-go-btfs-一个可扩展的无中心的文件存储系统](https://toutiao.io/k/ut5hw62) ![](assets/new.png)  
 - [2022-04-14-推荐-系统架构的11条原则](https://toutiao.io/k/xbwjqgj) ![](assets/new.png)  
-- [2022-04-14-推荐-谷歌工程最佳实践](https://toutiao.io/k/q19mmjh) ![](assets/new.png)  
 - [2022-04-14-推荐-写出结构优雅代码的4个技巧](https://toutiao.io/k/6cddvzi) ![](assets/new.png)  
 - [2022-04-14-推荐-解析分布式系统的缓存设计](https://toutiao.io/k/pucrtli) ![](assets/new.png)  
+- [2022-04-14-推荐-谷歌工程最佳实践](https://toutiao.io/k/q19mmjh) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

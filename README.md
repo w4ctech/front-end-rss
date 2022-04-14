@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-04-14 15:15:11，:rocket: 更新条数: +2022， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-04-14 15:44:35，:rocket: 更新条数: +2023， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,9 @@
 </summary>
 
 
+- [2022-04-14-Agenda-笔记：买断仅需-9-美元（原价-35-美元）](https://www.v2ex.com/t/847044) ![](assets/new.png)  
+- [2022-04-14-从多层嵌套的-object-中搜索配对的值然后进行操作的最佳实践是什么？](https://www.v2ex.com/t/847043) ![](assets/new.png)  
+- [2022-04-14-13PM-升级-iOS15.4.1-后，隔断时间就会有一次系统声音比较大](https://www.v2ex.com/t/847042) ![](assets/new.png)  
 - [2022-04-14-Skilla--「技能管理」工具](https://www.v2ex.com/t/847040) ![](assets/new.png)  
 - [2022-04-14-望京附近短期转租利泽西园](https://www.v2ex.com/t/847039) ![](assets/new.png)  
 - [2022-04-14-请教大佬，把一段代码用函数式编程变得更加优雅](https://www.v2ex.com/t/847038) ![](assets/new.png)  
@@ -508,9 +511,6 @@
 - [2022-04-14-有没有能够强制-自动锁屏-的软件？](https://www.v2ex.com/t/847022) ![](assets/new.png)  
 - [2022-04-14-双系统的奇怪引导误删如何抢救？](https://www.v2ex.com/t/847021) ![](assets/new.png)  
 - [2022-04-14-求问-PC-用的-usb-解码音量问题](https://www.v2ex.com/t/847019) ![](assets/new.png)  
-- [2022-04-14-13-mini-相较于-12-mini-提升大吗？](https://www.v2ex.com/t/847018) ![](assets/new.png)  
-- [2022-04-14-给-NAS-一个漂亮的封面](https://www.v2ex.com/t/847016) ![](assets/new.png)  
-- [2022-04-14-求移动固态硬盘推荐](https://www.v2ex.com/t/847015) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -564,15 +564,15 @@
 - [2022-04-14-排错：exceeds-block-gas-limit](https://toutiao.io/k/ml2gmov) ![](assets/new.png)  
 - [2022-04-14-创建telegram-机器人-并发送消息](https://toutiao.io/k/3i26i44) ![](assets/new.png)  
 - [2022-04-14-直播技术干货分享：千万级直播系统后端架构设计的方方面面](https://toutiao.io/k/5p3lbu4) ![](assets/new.png)  
-- [2022-04-14-云原生爱好者周刊：KubeKey-v2.1.0-alpha-版发布！](https://toutiao.io/k/lii3323) ![](assets/new.png)  
 - [2022-04-14-在M1芯片上跑原生Linux：编译速度比macOS还快40%，真香警告](https://toutiao.io/k/emvbcpj) ![](assets/new.png)  
+- [2022-04-14-云原生爱好者周刊：KubeKey-v2.1.0-alpha-版发布！](https://toutiao.io/k/lii3323) ![](assets/new.png)  
 - [2022-04-14-免杀基础-常见Webshell特征分析](https://toutiao.io/k/l9ruxtm) ![](assets/new.png)  
 - [2022-04-14-Flink-1.14-Table-API-&-SQL-第一个程序-WordCount](https://toutiao.io/k/0txhvg8) ![](assets/new.png)  
 - [2022-04-14-go-btfs-一个可扩展的无中心的文件存储系统](https://toutiao.io/k/ut5hw62) ![](assets/new.png)  
-- [2022-04-14-推荐-盘点-3-月份-yyds-的开源项目](https://toutiao.io/k/79431xa) ![](assets/new.png)  
+- [2022-04-14-推荐-系统架构的11条原则](https://toutiao.io/k/xbwjqgj) ![](assets/new.png)  
+- [2022-04-14-推荐-解析分布式系统的缓存设计](https://toutiao.io/k/pucrtli) ![](assets/new.png)  
 - [2022-04-14-推荐-谷歌工程最佳实践](https://toutiao.io/k/q19mmjh) ![](assets/new.png)  
 - [2022-04-14-推荐-写出结构优雅代码的4个技巧](https://toutiao.io/k/6cddvzi) ![](assets/new.png)  
-- [2022-04-14-推荐-系统架构的11条原则](https://toutiao.io/k/xbwjqgj) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

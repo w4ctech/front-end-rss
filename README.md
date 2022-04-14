@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-04-14 10:14:42，:rocket: 更新条数: +2027， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-04-14 10:43:55，:rocket: 更新条数: +2024， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,9 @@
 </summary>
 
 
+- [2022-04-14-上海移动和上海联通哪个好？](https://www.v2ex.com/t/846999) ![](assets/new.png)  
+- [2022-04-14-域名-本地局域网-ipv6-下载速率为什么会不一样](https://www.v2ex.com/t/846998) ![](assets/new.png)  
+- [2022-04-14-远程/北京Web3SolidityNFT-国际化元宇宙/数字收藏类初创项目，前端/后端/全栈/智能合约/运维/游戏开发/自荐职位（041422-更新岗位信息）](https://www.v2ex.com/t/846997) ![](assets/new.png)  
 - [2022-04-14-有没有空间很小价格很低大厂维护的-mysql-服务](https://www.v2ex.com/t/846996) ![](assets/new.png)  
 - [2022-04-14-「GM_脚本」度盘分享文件时自动复制为-HTML-或-MarkDown](https://www.v2ex.com/t/846995) ![](assets/new.png)  
 - [2022-04-14-工作摸鱼想法：是否有办法通过神经网络训练找到自己喜欢的类型的小说](https://www.v2ex.com/t/846993) ![](assets/new.png)  
@@ -501,7 +504,6 @@
 - [2022-04-14-求一款能差不多完美黑苹果的-mini-主机](https://www.v2ex.com/t/846986) ![](assets/new.png)  
 - [2022-04-14-如何使用-awk-打印-nginx-404-日志的目录](https://www.v2ex.com/t/846985) ![](assets/new.png)  
 - [2022-04-14-有推荐的千元人体工学椅和电脑桌吗](https://www.v2ex.com/t/846984) ![](assets/new.png)  
-- [2022-04-14-airpods-老是粘耳屎怎么办？](https://www.v2ex.com/t/846983) ![](assets/new.png)  
 - [2022-04-14-被确诊令人难受的疾病的时候，你是怎么面对的](https://www.v2ex.com/t/846981) ![](assets/new.png)  
 - [2022-04-14-xcode-mac-studio-能爽很多吗，原来是-m1-air-感觉有点卡](https://www.v2ex.com/t/846980) ![](assets/new.png)  
 - [2022-04-14-请问以太坊-solidity-语言如何面试？](https://www.v2ex.com/t/846979) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-04-14-求助一个特弱智的问题，爬微博热搜要闻榜怎样可以不需要-cookie-信息？](https://www.v2ex.com/t/846976) ![](assets/new.png)  
 - [2022-04-14-jitouch-偶尔断开修复](https://www.v2ex.com/t/846975) ![](assets/new.png)  
 - [2022-04-14-cargo-check-执行报错](https://www.v2ex.com/t/846974) ![](assets/new.png)  
-- [2022-04-14-大家-Oracle-的机器有出现掉-ip-的情况吗？](https://www.v2ex.com/t/846973) ![](assets/new.png)  
-- [2022-04-14-如何对抗当下的无力感](https://www.v2ex.com/t/846972) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -569,10 +569,10 @@
 - [2022-04-14-直播技术干货分享：千万级直播系统后端架构设计的方方面面](https://toutiao.io/k/5p3lbu4) ![](assets/new.png)  
 - [2022-04-14-在M1芯片上跑原生Linux：编译速度比macOS还快40%，真香警告](https://toutiao.io/k/emvbcpj) ![](assets/new.png)  
 - [2022-04-14-go-btfs-一个可扩展的无中心的文件存储系统](https://toutiao.io/k/ut5hw62) ![](assets/new.png)  
-- [2022-04-14-推荐-谷歌工程最佳实践](https://toutiao.io/k/q19mmjh) ![](assets/new.png)  
-- [2022-04-14-推荐-盘点-3-月份-yyds-的开源项目](https://toutiao.io/k/79431xa) ![](assets/new.png)  
 - [2022-04-14-推荐-解析分布式系统的缓存设计](https://toutiao.io/k/pucrtli) ![](assets/new.png)  
-- [2022-04-14-推荐-系统架构的11条原则](https://toutiao.io/k/xbwjqgj) ![](assets/new.png)  
+- [2022-04-14-推荐-写出结构优雅代码的4个技巧](https://toutiao.io/k/6cddvzi) ![](assets/new.png)  
+- [2022-04-14-推荐-盘点-3-月份-yyds-的开源项目](https://toutiao.io/k/79431xa) ![](assets/new.png)  
+- [2022-04-14-推荐-谷歌工程最佳实践](https://toutiao.io/k/q19mmjh) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-04-14 10:14:42。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-04-14 10:43:55。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -16,5 +16,4 @@
 - [2022-03-15-基于howler.js写了个音频播放器组件](https://www.zhangxinxu.com/wordpress/2022/03/howler-js-audio-player/) 
 - [2022-03-07-介绍8个和滚动相关的CSS属性](https://www.zhangxinxu.com/wordpress/2022/03/10-css-scroll-scrollbar/) 
 - [2022-04-14-自己写了一个-JSON-解析器，遇到一个问题](https://www.v2ex.com/t/846957) 
-- [2022-04-14-Angular-的-API-请求全放在一个服务里还是分开不同服务比较好？全放一起感觉文件太长了。另外服务和-component-放一起会不会看起来更整齐一些？官方好像不是这么...](https://www.v2ex.com/t/846948) 
 - [2022-04-14-使用jscodeshift做自动化重构-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15004&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fjscodeshift%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

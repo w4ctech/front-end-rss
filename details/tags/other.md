@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-04-14 10:14:42。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-04-14 10:43:55。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1913,6 +1913,8 @@
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2022-03-21-ascent-override-descent-override-line-gap-override一锅端](https://www.zhangxinxu.com/wordpress/2022/03/css-ascent-override-descent/) 
 - [2022-02-04-HTML-inputmode与iOS-Android软键盘类型测试](https://www.zhangxinxu.com/wordpress/2022/02/html-inputmode-keyboard/) 
+- [2022-04-14-上海移动和上海联通哪个好？](https://www.v2ex.com/t/846999) 
+- [2022-04-14-域名-本地局域网-ipv6-下载速率为什么会不一样](https://www.v2ex.com/t/846998) 
 - [2022-04-14-有没有空间很小价格很低大厂维护的-mysql-服务](https://www.v2ex.com/t/846996) 
 - [2022-04-14-「GM_脚本」度盘分享文件时自动复制为-HTML-或-MarkDown](https://www.v2ex.com/t/846995) 
 - [2022-04-14-工作摸鱼想法：是否有办法通过神经网络训练找到自己喜欢的类型的小说](https://www.v2ex.com/t/846993) 
@@ -1922,7 +1924,6 @@
 - [2022-04-14-知乎推荐系统是不是有问题？](https://www.v2ex.com/t/846987) 
 - [2022-04-14-求一款能差不多完美黑苹果的-mini-主机](https://www.v2ex.com/t/846986) 
 - [2022-04-14-有推荐的千元人体工学椅和电脑桌吗](https://www.v2ex.com/t/846984) 
-- [2022-04-14-airpods-老是粘耳屎怎么办？](https://www.v2ex.com/t/846983) 
 - [2022-04-14-被确诊令人难受的疾病的时候，你是怎么面对的](https://www.v2ex.com/t/846981) 
 - [2022-04-14-xcode-mac-studio-能爽很多吗，原来是-m1-air-感觉有点卡](https://www.v2ex.com/t/846980) 
 - [2022-04-14-macOS-12.3.1-网络-DNS-设置存在多种状态](https://www.v2ex.com/t/846977) 
@@ -1941,8 +1942,6 @@
 - [2022-04-14-快捷指令不支持删除短信](https://www.v2ex.com/t/846956) 
 - [2022-04-14-安卓淘宝的-app-怎么三天两头更新？](https://www.v2ex.com/t/846955) 
 - [2022-04-14-钉钉的内网穿透服务好用吗？](https://www.v2ex.com/t/846954) 
-- [2022-04-14-4.14-凉了呀，关于高风险地区去深圳](https://www.v2ex.com/t/846951) 
-- [2022-04-14-neo4j-里-cypher-的导入语句求救](https://www.v2ex.com/t/846949) 
 - [2022-04-14-人手必备的常用网络命令合集，吐血整理！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15017&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493888%26amp%3Bidx%3D1%26amp%3Bsn%3D70d3506be895b9f146066d56dfae8b69%26amp%3Bchksm%3Dfa3f085bcd48814dbddbd6eddf6584cd9d9ebb768b37f25529371a625c4d09114bf9e2ea6fba%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-04-14-Java必会的工具库，让你的代码量减少90%-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15016&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493888%26amp%3Bidx%3D2%26amp%3Bsn%3D9f50338e5145bdd585e908e36aa7517d%26amp%3Bchksm%3Dfa3f085bcd48814d7386eb6707d907d58fa0313c300b3f73937f51525a7fc10671193f1557e2%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-04-14-技术主管和项目经理一定要读的6本书！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15015&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493887%26amp%3Bidx%3D1%26amp%3Bsn%3D1a13135d359785dd3c15d90dfaeb95e5%26amp%3Bchksm%3Dfa3f09a4cd4880b2c74c7b234fbfc6033b05283324ce3421d8c7ae3fdbb5039b9a2873874bc5%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1969,7 +1968,7 @@
 - [2022-04-14-创建telegram-机器人-并发送消息](https://toutiao.io/k/3i26i44) 
 - [2022-04-14-在M1芯片上跑原生Linux：编译速度比macOS还快40%，真香警告](https://toutiao.io/k/emvbcpj) 
 - [2022-04-14-go-btfs-一个可扩展的无中心的文件存储系统](https://toutiao.io/k/ut5hw62) 
-- [2022-04-14-推荐-谷歌工程最佳实践](https://toutiao.io/k/q19mmjh) 
-- [2022-04-14-推荐-盘点-3-月份-yyds-的开源项目](https://toutiao.io/k/79431xa) 
-- [2022-04-14-推荐-系统架构的11条原则](https://toutiao.io/k/xbwjqgj) 
 - [2022-04-14-推荐-写出结构优雅代码的4个技巧](https://toutiao.io/k/6cddvzi) 
+- [2022-04-14-推荐-盘点-3-月份-yyds-的开源项目](https://toutiao.io/k/79431xa) 
+- [2022-04-14-推荐-谷歌工程最佳实践](https://toutiao.io/k/q19mmjh) 
+- [2022-04-14-推荐-系统架构的11条原则](https://toutiao.io/k/xbwjqgj) 

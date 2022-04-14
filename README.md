@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-04-14 04:47:52，:rocket: 更新条数: +2023， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-04-14 05:13:35，:rocket: 更新条数: +2023， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-04-14-视频播放无法做到刘海不对称黑边吗](https://www.v2ex.com/t/846919) ![](assets/new.png)  
 - [2022-04-14-对于个人数据软件，如何解决隐私和便利的矛盾？](https://www.v2ex.com/t/846918) ![](assets/new.png)  
 - [2022-04-14-关于-sandboxie-中使用微信的疑问](https://www.v2ex.com/t/846916) ![](assets/new.png)  
 - [2022-04-14-北京-|-新加坡40K---100K-web3-公司诚邀-后端/前端/产品/设计-加入](https://www.v2ex.com/t/846915) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-04-14-2022-年-4-月-请求大家推荐适合老人用的安卓手机，预算-2000-3000](https://www.v2ex.com/t/846898) ![](assets/new.png)  
 - [2022-04-14-有哪些推荐的-mini-主机](https://www.v2ex.com/t/846897) ![](assets/new.png)  
 - [2022-04-14-求一个-vite+react-的-js-版本脚手架](https://www.v2ex.com/t/846896) ![](assets/new.png)  
-- [2022-04-14-昆明-EMQ-技术支持、后端/前端开发实习招聘](https://www.v2ex.com/t/846895) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -564,11 +564,11 @@
 - [2022-04-14-免杀基础-常见Webshell特征分析](https://toutiao.io/k/l9ruxtm) ![](assets/new.png)  
 - [2022-04-14-【Vuejs】1286--分享-15-个-Vue3-全家桶开发的避坑经验](https://toutiao.io/k/3ghx80y) ![](assets/new.png)  
 - [2022-04-14-Flink-1.14-Table-API-&-SQL-第一个程序-WordCount](https://toutiao.io/k/0txhvg8) ![](assets/new.png)  
-- [2022-04-14-推荐-盘点-3-月份-yyds-的开源项目](https://toutiao.io/k/79431xa) ![](assets/new.png)  
 - [2022-04-14-推荐-写出结构优雅代码的4个技巧](https://toutiao.io/k/6cddvzi) ![](assets/new.png)  
-- [2022-04-14-推荐-系统架构的11条原则](https://toutiao.io/k/xbwjqgj) ![](assets/new.png)  
-- [2022-04-14-推荐-谷歌工程最佳实践](https://toutiao.io/k/q19mmjh) ![](assets/new.png)  
+- [2022-04-14-推荐-盘点-3-月份-yyds-的开源项目](https://toutiao.io/k/79431xa) ![](assets/new.png)  
 - [2022-04-14-推荐-解析分布式系统的缓存设计](https://toutiao.io/k/pucrtli) ![](assets/new.png)  
+- [2022-04-14-推荐-谷歌工程最佳实践](https://toutiao.io/k/q19mmjh) ![](assets/new.png)  
+- [2022-04-14-推荐-系统架构的11条原则](https://toutiao.io/k/xbwjqgj) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

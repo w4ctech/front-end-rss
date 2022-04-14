@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-04-14 06:47:50，:rocket: 更新条数: +2026， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-04-14 07:14:44，:rocket: 更新条数: +2027， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,13 @@
 </summary>
 
 
+- [2022-04-14-安装打印机驱动提示参数无效。](https://www.v2ex.com/t/846942) ![](assets/new.png)  
+- [2022-04-14-v-友们，-MIUI13-值得升级吗？](https://www.v2ex.com/t/846941) ![](assets/new.png)  
+- [2022-04-14-评论和回复放一张表里好，还是分表好？求解](https://www.v2ex.com/t/846940) ![](assets/new.png)  
+- [2022-04-14-git如何查看远程分支的来源自哪个分支](https://www.v2ex.com/t/846939) ![](assets/new.png)  
+- [2022-04-14-上海什么情况了，有没有老哥来分享一下啊](https://www.v2ex.com/t/846938) ![](assets/new.png)  
+- [2022-04-14-有没有必要卖掉高新区的房子去老城区买老破小](https://www.v2ex.com/t/846937) ![](assets/new.png)  
+- [2022-04-14-coc.nvim-将为贡献者提供奖励](https://www.v2ex.com/t/846936) ![](assets/new.png)  
 - [2022-04-14-北京-SphereEx-欢迎测试实习生](https://www.v2ex.com/t/846934) ![](assets/new.png)  
 - [2022-04-14-go-有没有好的方式处理嵌套的切片](https://www.v2ex.com/t/846933) ![](assets/new.png)  
 - [2022-04-14-在代码注释中插入图片？](https://www.v2ex.com/t/846932) ![](assets/new.png)  
@@ -504,13 +511,6 @@
 - [2022-04-14-table-的-td-设置背景后，-box-shadow-会丢失底部阴影。](https://www.v2ex.com/t/846921) ![](assets/new.png)  
 - [2022-04-14-视频播放无法做到刘海不对称黑边吗](https://www.v2ex.com/t/846919) ![](assets/new.png)  
 - [2022-04-14-对于个人数据软件，如何解决隐私和便利的矛盾？](https://www.v2ex.com/t/846918) ![](assets/new.png)  
-- [2022-04-14-关于-sandboxie-中使用微信的疑问](https://www.v2ex.com/t/846916) ![](assets/new.png)  
-- [2022-04-14-北京-|-新加坡40K---100K-web3-公司诚邀-后端/前端/产品/设计-加入](https://www.v2ex.com/t/846915) ![](assets/new.png)  
-- [2022-04-14-CAS-乐观锁如果发生-ABA，可能导致什么问题？](https://www.v2ex.com/t/846914) ![](assets/new.png)  
-- [2022-04-14-PR-file-changes-如何获取-指定后缀文件的-增加行数？](https://www.v2ex.com/t/846913) ![](assets/new.png)  
-- [2022-04-14-免费领三月-Apple-Music-和更新四个会员活动～](https://www.v2ex.com/t/846912) ![](assets/new.png)  
-- [2022-04-14-收台办公笔记本](https://www.v2ex.com/t/846911) ![](assets/new.png)  
-- [2022-04-14-杭州有没有滑板组织，经常溜街的那种](https://www.v2ex.com/t/846910) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -569,10 +569,10 @@
 - [2022-04-14-创建telegram-机器人-并发送消息](https://toutiao.io/k/3i26i44) ![](assets/new.png)  
 - [2022-04-14-在M1芯片上跑原生Linux：编译速度比macOS还快40%，真香警告](https://toutiao.io/k/emvbcpj) ![](assets/new.png)  
 - [2022-04-14-go-btfs-一个可扩展的无中心的文件存储系统](https://toutiao.io/k/ut5hw62) ![](assets/new.png)  
-- [2022-04-14-推荐-盘点-3-月份-yyds-的开源项目](https://toutiao.io/k/79431xa) ![](assets/new.png)  
-- [2022-04-14-推荐-系统架构的11条原则](https://toutiao.io/k/xbwjqgj) ![](assets/new.png)  
 - [2022-04-14-推荐-谷歌工程最佳实践](https://toutiao.io/k/q19mmjh) ![](assets/new.png)  
-- [2022-04-14-推荐-解析分布式系统的缓存设计](https://toutiao.io/k/pucrtli) ![](assets/new.png)  
+- [2022-04-14-推荐-写出结构优雅代码的4个技巧](https://toutiao.io/k/6cddvzi) ![](assets/new.png)  
+- [2022-04-14-推荐-系统架构的11条原则](https://toutiao.io/k/xbwjqgj) ![](assets/new.png)  
+- [2022-04-14-推荐-盘点-3-月份-yyds-的开源项目](https://toutiao.io/k/79431xa) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

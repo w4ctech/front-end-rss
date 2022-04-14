@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-04-14 15:44:35。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-04-14 16:18:46。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,8 @@
 </summary>
 
 
+- [【V2EX】2022-04-14-有没有什么音乐-api-支持提供-widget（一个普通-icon-大小）可以在自己网站里播放音乐的](https://www.v2ex.com/t/847046) 
+- [【V2EX】2022-04-14-甲骨文撤了一堆-IP-后网速貌似变快了](https://www.v2ex.com/t/847045) 
 - [【V2EX】2022-04-14-Agenda-笔记：买断仅需-9-美元（原价-35-美元）](https://www.v2ex.com/t/847044) 
 - [【V2EX】2022-04-14-从多层嵌套的-object-中搜索配对的值然后进行操作的最佳实践是什么？](https://www.v2ex.com/t/847043) 
 - [【V2EX】2022-04-14-13PM-升级-iOS15.4.1-后，隔断时间就会有一次系统声音比较大](https://www.v2ex.com/t/847042) 
@@ -102,8 +104,6 @@
 - [【V2EX】2022-04-14-上海移动和上海联通哪个好？](https://www.v2ex.com/t/846999) 
 - [【V2EX】2022-04-14-域名-本地局域网-ipv6-下载速率为什么会不一样](https://www.v2ex.com/t/846998) 
 - [【V2EX】2022-04-14-远程/北京Web3SolidityNFT-国际化元宇宙/数字收藏类初创项目，前端/后端/全栈/智能合约/运维/游戏开发/自荐职位（041422-更新岗位信息）](https://www.v2ex.com/t/846997) 
-- [【V2EX】2022-04-14-有没有空间很小价格很低大厂维护的-mysql-服务](https://www.v2ex.com/t/846996) 
-- [【V2EX】2022-04-14-「GM_脚本」度盘分享文件时自动复制为-HTML-或-MarkDown](https://www.v2ex.com/t/846995) 
 - [【技术头条】2022-04-14-人手必备的常用网络命令合集，吐血整理！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15017&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493888%26amp%3Bidx%3D1%26amp%3Bsn%3D70d3506be895b9f146066d56dfae8b69%26amp%3Bchksm%3Dfa3f085bcd48814dbddbd6eddf6584cd9d9ebb768b37f25529371a625c4d09114bf9e2ea6fba%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-04-14-Java必会的工具库，让你的代码量减少90%-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15016&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493888%26amp%3Bidx%3D2%26amp%3Bsn%3D9f50338e5145bdd585e908e36aa7517d%26amp%3Bchksm%3Dfa3f085bcd48814d7386eb6707d907d58fa0313c300b3f73937f51525a7fc10671193f1557e2%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-04-14-技术主管和项目经理一定要读的6本书！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15015&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493887%26amp%3Bidx%3D1%26amp%3Bsn%3D1a13135d359785dd3c15d90dfaeb95e5%26amp%3Bchksm%3Dfa3f09a4cd4880b2c74c7b234fbfc6033b05283324ce3421d8c7ae3fdbb5039b9a2873874bc5%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -140,11 +140,10 @@
 - [【开发者头条】2022-04-14-免杀基础-常见Webshell特征分析](https://toutiao.io/k/l9ruxtm) 
 - [【开发者头条】2022-04-14-Flink-1.14-Table-API-&-SQL-第一个程序-WordCount](https://toutiao.io/k/0txhvg8) 
 - [【开发者头条】2022-04-14-go-btfs-一个可扩展的无中心的文件存储系统](https://toutiao.io/k/ut5hw62) 
-- [【开发者头条】2022-04-14-推荐-系统架构的11条原则](https://toutiao.io/k/xbwjqgj) 
-- [【开发者头条】2022-04-14-推荐-解析分布式系统的缓存设计](https://toutiao.io/k/pucrtli) 
 - [【开发者头条】2022-04-14-推荐-谷歌工程最佳实践](https://toutiao.io/k/q19mmjh) 
+- [【开发者头条】2022-04-14-推荐-系统架构的11条原则](https://toutiao.io/k/xbwjqgj) 
 - [【开发者头条】2022-04-14-推荐-写出结构优雅代码的4个技巧](https://toutiao.io/k/6cddvzi) 
-- [【开发者头条】2022-04-14-推荐-盘点-3-月份-yyds-的开源项目](https://toutiao.io/k/79431xa) 
+- [【开发者头条】2022-04-14-推荐-解析分布式系统的缓存设计](https://toutiao.io/k/pucrtli) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

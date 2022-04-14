@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-04-14 15:44:35，:rocket: 更新条数: +2023， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-04-14 16:18:46，:rocket: 更新条数: +2022， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-04-14-有没有什么音乐-api-支持提供-widget（一个普通-icon-大小）可以在自己网站里播放音乐的](https://www.v2ex.com/t/847046) ![](assets/new.png)  
+- [2022-04-14-甲骨文撤了一堆-IP-后网速貌似变快了](https://www.v2ex.com/t/847045) ![](assets/new.png)  
 - [2022-04-14-Agenda-笔记：买断仅需-9-美元（原价-35-美元）](https://www.v2ex.com/t/847044) ![](assets/new.png)  
 - [2022-04-14-从多层嵌套的-object-中搜索配对的值然后进行操作的最佳实践是什么？](https://www.v2ex.com/t/847043) ![](assets/new.png)  
 - [2022-04-14-13PM-升级-iOS15.4.1-后，隔断时间就会有一次系统声音比较大](https://www.v2ex.com/t/847042) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-04-14-长城宽带携手上海联通-资源互补开展宽带合作新模式](https://www.v2ex.com/t/847024) ![](assets/new.png)  
 - [2022-04-14-钉钉终于出了-m1-版本](https://www.v2ex.com/t/847023) ![](assets/new.png)  
 - [2022-04-14-有没有能够强制-自动锁屏-的软件？](https://www.v2ex.com/t/847022) ![](assets/new.png)  
-- [2022-04-14-双系统的奇怪引导误删如何抢救？](https://www.v2ex.com/t/847021) ![](assets/new.png)  
-- [2022-04-14-求问-PC-用的-usb-解码音量问题](https://www.v2ex.com/t/847019) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -569,10 +569,10 @@
 - [2022-04-14-免杀基础-常见Webshell特征分析](https://toutiao.io/k/l9ruxtm) ![](assets/new.png)  
 - [2022-04-14-Flink-1.14-Table-API-&-SQL-第一个程序-WordCount](https://toutiao.io/k/0txhvg8) ![](assets/new.png)  
 - [2022-04-14-go-btfs-一个可扩展的无中心的文件存储系统](https://toutiao.io/k/ut5hw62) ![](assets/new.png)  
-- [2022-04-14-推荐-系统架构的11条原则](https://toutiao.io/k/xbwjqgj) ![](assets/new.png)  
-- [2022-04-14-推荐-解析分布式系统的缓存设计](https://toutiao.io/k/pucrtli) ![](assets/new.png)  
 - [2022-04-14-推荐-谷歌工程最佳实践](https://toutiao.io/k/q19mmjh) ![](assets/new.png)  
+- [2022-04-14-推荐-系统架构的11条原则](https://toutiao.io/k/xbwjqgj) ![](assets/new.png)  
 - [2022-04-14-推荐-写出结构优雅代码的4个技巧](https://toutiao.io/k/6cddvzi) ![](assets/new.png)  
+- [2022-04-14-推荐-解析分布式系统的缓存设计](https://toutiao.io/k/pucrtli) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

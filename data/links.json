@@ -9953,6 +9953,26 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "请教大佬，把一段代码用函数式编程变得更加优雅",
+        "link": "https://www.v2ex.com/t/847038",
+        "date": "2022-04-14"
+      },
+      {
+        "title": "为什么 sadhguru、杨定一、Eckhart Tolle 都强调了同一件事？",
+        "link": "https://www.v2ex.com/t/847037",
+        "date": "2022-04-14"
+      },
+      {
+        "title": "英文中，生活是 life，工作是 work，有没有一个单词或者比较简短的短语来表示工作之外的，但又不是你的日常生活，比如程序员的一些私活啊等等",
+        "link": "https://www.v2ex.com/t/847036",
+        "date": "2022-04-14"
+      },
+      {
+        "title": "这才是重器轻用，用 Notion 珍藏喜闻乐见的涩涩资源",
+        "link": "https://www.v2ex.com/t/847034",
+        "date": "2022-04-14"
+      },
+      {
         "title": "win10 系统，靠 vmware 虚拟机能搞个软路由，群晖， emby 么",
         "link": "https://www.v2ex.com/t/847033",
         "date": "2022-04-14"
@@ -10115,26 +10135,6 @@
       {
         "title": "铁子们，三千元 安卓机求推荐。",
         "link": "https://www.v2ex.com/t/846989",
-        "date": "2022-04-14"
-      },
-      {
-        "title": "知乎推荐系统是不是有问题？",
-        "link": "https://www.v2ex.com/t/846987",
-        "date": "2022-04-14"
-      },
-      {
-        "title": "求一款能差不多完美黑苹果的 mini 主机",
-        "link": "https://www.v2ex.com/t/846986",
-        "date": "2022-04-14"
-      },
-      {
-        "title": "如何使用 awk 打印 nginx 404 日志的目录",
-        "link": "https://www.v2ex.com/t/846985",
-        "date": "2022-04-14"
-      },
-      {
-        "title": "有推荐的千元人体工学椅和电脑桌吗",
-        "link": "https://www.v2ex.com/t/846984",
         "date": "2022-04-14"
       }
     ]
@@ -10332,16 +10332,6 @@
         "date": "2022-04-14"
       },
       {
-        "title": "[推荐] 解析分布式系统的缓存设计",
-        "link": "https://toutiao.io/k/pucrtli",
-        "date": "2022-04-14"
-      },
-      {
-        "title": "[推荐] 系统架构的11条原则",
-        "link": "https://toutiao.io/k/xbwjqgj",
-        "date": "2022-04-14"
-      },
-      {
         "title": "[推荐] 写出结构优雅代码的4个技巧",
         "link": "https://toutiao.io/k/6cddvzi",
         "date": "2022-04-14"
@@ -10354,6 +10344,16 @@
       {
         "title": "[推荐] 盘点 3 月份 yyds 的开源项目",
         "link": "https://toutiao.io/k/79431xa",
+        "date": "2022-04-14"
+      },
+      {
+        "title": "[推荐] 系统架构的11条原则",
+        "link": "https://toutiao.io/k/xbwjqgj",
+        "date": "2022-04-14"
+      },
+      {
+        "title": "[推荐] 解析分布式系统的缓存设计",
+        "link": "https://toutiao.io/k/pucrtli",
         "date": "2022-04-14"
       }
     ]

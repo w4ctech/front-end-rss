@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-04-14 14:13:37，:rocket: 更新条数: +2024， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-04-14 14:38:52，:rocket: 更新条数: +2024， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,10 @@
 </summary>
 
 
+- [2022-04-14-请教大佬，把一段代码用函数式编程变得更加优雅](https://www.v2ex.com/t/847038) ![](assets/new.png)  
+- [2022-04-14-为什么-sadhguru、杨定一、Eckhart-Tolle-都强调了同一件事？](https://www.v2ex.com/t/847037) ![](assets/new.png)  
+- [2022-04-14-英文中，生活是-life，工作是-work，有没有一个单词或者比较简短的短语来表示工作之外的，但又不是你的日常生活，比如程序员的一些私活啊等等](https://www.v2ex.com/t/847036) ![](assets/new.png)  
+- [2022-04-14-这才是重器轻用，用-Notion-珍藏喜闻乐见的涩涩资源](https://www.v2ex.com/t/847034) ![](assets/new.png)  
 - [2022-04-14-win10-系统，靠-vmware-虚拟机能搞个软路由，群晖，-emby-么](https://www.v2ex.com/t/847033) ![](assets/new.png)  
 - [2022-04-14-选型一款-VOC-气体传感器](https://www.v2ex.com/t/847032) ![](assets/new.png)  
 - [2022-04-14-注册了一个域名:-v2.run-能干点啥？](https://www.v2ex.com/t/847031) ![](assets/new.png)  
@@ -507,10 +511,6 @@
 - [2022-04-14-13-mini-相较于-12-mini-提升大吗？](https://www.v2ex.com/t/847018) ![](assets/new.png)  
 - [2022-04-14-给-NAS-一个漂亮的封面](https://www.v2ex.com/t/847016) ![](assets/new.png)  
 - [2022-04-14-求移动固态硬盘推荐](https://www.v2ex.com/t/847015) ![](assets/new.png)  
-- [2022-04-14-Obsidian-是可以用一辈子不换的笔记软件吗](https://www.v2ex.com/t/847011) ![](assets/new.png)  
-- [2022-04-14-k8s-有开源的调度管理插件么，像虚拟机管理平台那样的](https://www.v2ex.com/t/847010) ![](assets/new.png)  
-- [2022-04-14-全职猎人是不是有点血腥？](https://www.v2ex.com/t/847008) ![](assets/new.png)  
-- [2022-04-14-不会产生负数的-ID-字段用-unsigned-int-还是-signed-int-更好？](https://www.v2ex.com/t/847007) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -569,10 +569,10 @@
 - [2022-04-14-免杀基础-常见Webshell特征分析](https://toutiao.io/k/l9ruxtm) ![](assets/new.png)  
 - [2022-04-14-Flink-1.14-Table-API-&-SQL-第一个程序-WordCount](https://toutiao.io/k/0txhvg8) ![](assets/new.png)  
 - [2022-04-14-go-btfs-一个可扩展的无中心的文件存储系统](https://toutiao.io/k/ut5hw62) ![](assets/new.png)  
-- [2022-04-14-推荐-解析分布式系统的缓存设计](https://toutiao.io/k/pucrtli) ![](assets/new.png)  
-- [2022-04-14-推荐-系统架构的11条原则](https://toutiao.io/k/xbwjqgj) ![](assets/new.png)  
 - [2022-04-14-推荐-写出结构优雅代码的4个技巧](https://toutiao.io/k/6cddvzi) ![](assets/new.png)  
 - [2022-04-14-推荐-谷歌工程最佳实践](https://toutiao.io/k/q19mmjh) ![](assets/new.png)  
+- [2022-04-14-推荐-盘点-3-月份-yyds-的开源项目](https://toutiao.io/k/79431xa) ![](assets/new.png)  
+- [2022-04-14-推荐-系统架构的11条原则](https://toutiao.io/k/xbwjqgj) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-04-14 13:48:04，:rocket: 更新条数: +2021， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-04-14 14:13:37，:rocket: 更新条数: +2024， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,12 @@
 </summary>
 
 
+- [2022-04-14-win10-系统，靠-vmware-虚拟机能搞个软路由，群晖，-emby-么](https://www.v2ex.com/t/847033) ![](assets/new.png)  
+- [2022-04-14-选型一款-VOC-气体传感器](https://www.v2ex.com/t/847032) ![](assets/new.png)  
+- [2022-04-14-注册了一个域名:-v2.run-能干点啥？](https://www.v2ex.com/t/847031) ![](assets/new.png)  
+- [2022-04-14-八股文疑问，-redis-sds-buffer-最大长度在-512M-限制？](https://www.v2ex.com/t/847030) ![](assets/new.png)  
+- [2022-04-14-原来解除所有设备-Apple-ID-授权还有频率限制](https://www.v2ex.com/t/847029) ![](assets/new.png)  
+- [2022-04-14-老哥们咨询下：去日本工作-每月月薪多少/年薪多少-才能过得舒坦-😁](https://www.v2ex.com/t/847028) ![](assets/new.png)  
 - [2022-04-14-Spring-Boot-中定义数据库结构的这个包叫啥？](https://www.v2ex.com/t/847027) ![](assets/new.png)  
 - [2022-04-14-上海快递什么时候能恢复？打游戏把显卡烧了](https://www.v2ex.com/t/847026) ![](assets/new.png)  
 - [2022-04-14-长城宽带携手上海联通-资源互补开展宽带合作新模式](https://www.v2ex.com/t/847024) ![](assets/new.png)  
@@ -505,12 +511,6 @@
 - [2022-04-14-k8s-有开源的调度管理插件么，像虚拟机管理平台那样的](https://www.v2ex.com/t/847010) ![](assets/new.png)  
 - [2022-04-14-全职猎人是不是有点血腥？](https://www.v2ex.com/t/847008) ![](assets/new.png)  
 - [2022-04-14-不会产生负数的-ID-字段用-unsigned-int-还是-signed-int-更好？](https://www.v2ex.com/t/847007) ![](assets/new.png)  
-- [2022-04-14-深圳/远程梦猷科技招聘元宇宙-Unity3D-前端开发ReactNode全栈](https://www.v2ex.com/t/847006) ![](assets/new.png)  
-- [2022-04-14-有没有什么策略可以让-surge-连接公司-vpn-的时候停止工作](https://www.v2ex.com/t/847005) ![](assets/new.png)  
-- [2022-04-14-Agora-开发者创业讲堂丨第-2-期：创业初期如何进行技术选型与架构设计？](https://www.v2ex.com/t/847004) ![](assets/new.png)  
-- [2022-04-14-写了一个获取-Bing-高清大图的快捷指令](https://www.v2ex.com/t/847003) ![](assets/new.png)  
-- [2022-04-14-上海移动和上海联通哪个好？](https://www.v2ex.com/t/846999) ![](assets/new.png)  
-- [2022-04-14-域名-本地局域网-ipv6-下载速率为什么会不一样](https://www.v2ex.com/t/846998) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -563,16 +563,16 @@
 - [2022-04-14-【Vuejs】1286--分享-15-个-Vue3-全家桶开发的避坑经验](https://toutiao.io/k/3ghx80y) ![](assets/new.png)  
 - [2022-04-14-排错：exceeds-block-gas-limit](https://toutiao.io/k/ml2gmov) ![](assets/new.png)  
 - [2022-04-14-创建telegram-机器人-并发送消息](https://toutiao.io/k/3i26i44) ![](assets/new.png)  
-- [2022-04-14-云原生爱好者周刊：KubeKey-v2.1.0-alpha-版发布！](https://toutiao.io/k/lii3323) ![](assets/new.png)  
 - [2022-04-14-直播技术干货分享：千万级直播系统后端架构设计的方方面面](https://toutiao.io/k/5p3lbu4) ![](assets/new.png)  
+- [2022-04-14-云原生爱好者周刊：KubeKey-v2.1.0-alpha-版发布！](https://toutiao.io/k/lii3323) ![](assets/new.png)  
 - [2022-04-14-在M1芯片上跑原生Linux：编译速度比macOS还快40%，真香警告](https://toutiao.io/k/emvbcpj) ![](assets/new.png)  
 - [2022-04-14-免杀基础-常见Webshell特征分析](https://toutiao.io/k/l9ruxtm) ![](assets/new.png)  
 - [2022-04-14-Flink-1.14-Table-API-&-SQL-第一个程序-WordCount](https://toutiao.io/k/0txhvg8) ![](assets/new.png)  
 - [2022-04-14-go-btfs-一个可扩展的无中心的文件存储系统](https://toutiao.io/k/ut5hw62) ![](assets/new.png)  
-- [2022-04-14-推荐-系统架构的11条原则](https://toutiao.io/k/xbwjqgj) ![](assets/new.png)  
-- [2022-04-14-推荐-谷歌工程最佳实践](https://toutiao.io/k/q19mmjh) ![](assets/new.png)  
 - [2022-04-14-推荐-解析分布式系统的缓存设计](https://toutiao.io/k/pucrtli) ![](assets/new.png)  
-- [2022-04-14-推荐-盘点-3-月份-yyds-的开源项目](https://toutiao.io/k/79431xa) ![](assets/new.png)  
+- [2022-04-14-推荐-系统架构的11条原则](https://toutiao.io/k/xbwjqgj) ![](assets/new.png)  
+- [2022-04-14-推荐-写出结构优雅代码的4个技巧](https://toutiao.io/k/6cddvzi) ![](assets/new.png)  
+- [2022-04-14-推荐-谷歌工程最佳实践](https://toutiao.io/k/q19mmjh) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

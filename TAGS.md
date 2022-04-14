@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-04-14 09:40:15。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-04-14 10:14:42。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -284,7 +284,6 @@
 - [【武汉肺炎防疫全纪录(财新网)】大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html)
 - [【V2EX】求助一个特弱智的问题，爬微博热搜要闻榜怎样可以不需要-cookie-信息？](https://www.v2ex.com/t/846976)
 - [【V2EX】CVE-2022-26809:-评分-9.8-的安全漏洞](https://www.v2ex.com/t/846947)
-- [【V2EX】如何在应用启动完成后的初期减少请求](https://www.v2ex.com/t/846946)
 - [【开发者头条】推荐-解析分布式系统的缓存设计](https://toutiao.io/k/pucrtli)
 - [......【查看更多】......](./details/tags/browser.md)
 
@@ -338,7 +337,6 @@
 
 
 - [【V2EX】有什么脚本能一键把-git-clone-仓库里所有文件重设为它最后被修改的时间吗？](https://www.v2ex.com/t/846965)
-- [【V2EX】git如何查看远程分支的来源自哪个分支](https://www.v2ex.com/t/846939)
 - [【技术头条】Git这样回退代码，才足够优雅-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=14999&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493737%26amp%3Bidx%3D2%26amp%3Bsn%3D7c34527cb2db4d99314ced0278bd6f25%26amp%3Bchksm%3Dfa3f0932cd488024bc8143699bc413de354ff8c52e8a96b463048843ea33a922064acc49fc0a%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [......【查看更多】......](./details/tags/git-svn.md)
 

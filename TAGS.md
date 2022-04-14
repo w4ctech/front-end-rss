@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-04-14 05:38:02。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-04-14 06:18:34。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -124,7 +124,6 @@
 
 
 
-- [【V2EX】独白-造了一个给自己念念碎的小程序](https://www.v2ex.com/t/846876)
 - [【技术头条】H5小程序直播教程，一看就会！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15009&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493770%26amp%3Bidx%3D1%26amp%3Bsn%3D99961a9d794b403ca1d23e2818773bd4%26amp%3Bchksm%3Dfa3f09d1cd4880c7959f39950198bb945ea34593761e3ea104e4318e4e0c57d509c1b813358b%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [......【查看更多】......](./details/tags/miniprogram.md)
 
@@ -241,6 +240,7 @@
 - [【武汉肺炎防疫全纪录(财新网)】广州17岁男生在定点医院参加高考-特殊考场视频监考](https://m.caixin.com/m/2021-06-05/101723418.html)
 - [【武汉肺炎防疫全纪录(财新网)】林郑月娥率13高官直播接种科兴疫苗-复星疫苗预计周中到港](https://m.caixin.com/m/2021-02-22/101665724.html)
 - [【V2EX】视频播放无法做到刘海不对称黑边吗](https://www.v2ex.com/t/846919)
+- [【开发者头条】直播技术干货分享：千万级直播系统后端架构设计的方方面面](https://toutiao.io/k/5p3lbu4)
 - [......【查看更多】......](./details/tags/audio-video.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -284,7 +284,6 @@
 - [【V2EX】求助-mac-下-Chrome-下载文件，有没有快捷方式直接进入文件所在目录的终端界面？](https://www.v2ex.com/t/846922)
 - [【V2EX】关于-sandboxie-中使用微信的疑问](https://www.v2ex.com/t/846916)
 - [【V2EX】2022-年-4-月-请求大家推荐适合老人用的安卓手机，预算-2000-3000](https://www.v2ex.com/t/846898)
-- [【V2EX】浏览器的开发者工具的网络选项无法查看-http-请求的原始代码了](https://www.v2ex.com/t/846874)
 - [【开发者头条】推荐-解析分布式系统的缓存设计](https://toutiao.io/k/pucrtli)
 - [......【查看更多】......](./details/tags/browser.md)
 

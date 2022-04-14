@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-04-14 11:37:27。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-04-14 12:25:12。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1913,6 +1913,10 @@
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2022-03-21-ascent-override-descent-override-line-gap-override一锅端](https://www.zhangxinxu.com/wordpress/2022/03/css-ascent-override-descent/) 
 - [2022-02-04-HTML-inputmode与iOS-Android软键盘类型测试](https://www.zhangxinxu.com/wordpress/2022/02/html-inputmode-keyboard/) 
+- [2022-04-14-求问-PC-用的-usb-解码音量问题](https://www.v2ex.com/t/847019) 
+- [2022-04-14-13-mini-相较于-12-mini-提升大吗？](https://www.v2ex.com/t/847018) 
+- [2022-04-14-给-NAS-一个漂亮的封面](https://www.v2ex.com/t/847016) 
+- [2022-04-14-求移动固态硬盘推荐](https://www.v2ex.com/t/847015) 
 - [2022-04-14-Obsidian-是可以用一辈子不换的笔记软件吗](https://www.v2ex.com/t/847011) 
 - [2022-04-14-k8s-有开源的调度管理插件么，像虚拟机管理平台那样的](https://www.v2ex.com/t/847010) 
 - [2022-04-14-全职猎人是不是有点血腥？](https://www.v2ex.com/t/847008) 
@@ -1939,10 +1943,6 @@
 - [2022-04-14-大家-Oracle-的机器有出现掉-ip-的情况吗？](https://www.v2ex.com/t/846973) 
 - [2022-04-14-如何对抗当下的无力感](https://www.v2ex.com/t/846972) 
 - [2022-04-14-微信好像不适合工作，大家平时除了邮电，都用什么-app-沟通呢？](https://www.v2ex.com/t/846970) 
-- [2022-04-14-更换域名如何确保权重完全转移到新域名？](https://www.v2ex.com/t/846969) 
-- [2022-04-14-该说某米的设备字幕支持差还是字幕组骚呢？](https://www.v2ex.com/t/846968) 
-- [2022-04-14-分公司一夜之间被裁撤了](https://www.v2ex.com/t/846964) 
-- [2022-04-14-分区类型是什么？跟文件系统有没有什么关系？](https://www.v2ex.com/t/846963) 
 - [2022-04-14-人手必备的常用网络命令合集，吐血整理！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15017&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493888%26amp%3Bidx%3D1%26amp%3Bsn%3D70d3506be895b9f146066d56dfae8b69%26amp%3Bchksm%3Dfa3f085bcd48814dbddbd6eddf6584cd9d9ebb768b37f25529371a625c4d09114bf9e2ea6fba%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-04-14-Java必会的工具库，让你的代码量减少90%-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15016&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493888%26amp%3Bidx%3D2%26amp%3Bsn%3D9f50338e5145bdd585e908e36aa7517d%26amp%3Bchksm%3Dfa3f085bcd48814d7386eb6707d907d58fa0313c300b3f73937f51525a7fc10671193f1557e2%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-04-14-技术主管和项目经理一定要读的6本书！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15015&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493887%26amp%3Bidx%3D1%26amp%3Bsn%3D1a13135d359785dd3c15d90dfaeb95e5%26amp%3Bchksm%3Dfa3f09a4cd4880b2c74c7b234fbfc6033b05283324ce3421d8c7ae3fdbb5039b9a2873874bc5%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1969,7 +1969,7 @@
 - [2022-04-14-Flink-1.14-Table-API-&-SQL-第一个程序-WordCount](https://toutiao.io/k/0txhvg8) 
 - [2022-04-14-在M1芯片上跑原生Linux：编译速度比macOS还快40%，真香警告](https://toutiao.io/k/emvbcpj) 
 - [2022-04-14-go-btfs-一个可扩展的无中心的文件存储系统](https://toutiao.io/k/ut5hw62) 
-- [2022-04-14-推荐-盘点-3-月份-yyds-的开源项目](https://toutiao.io/k/79431xa) 
-- [2022-04-14-推荐-写出结构优雅代码的4个技巧](https://toutiao.io/k/6cddvzi) 
 - [2022-04-14-推荐-系统架构的11条原则](https://toutiao.io/k/xbwjqgj) 
+- [2022-04-14-推荐-写出结构优雅代码的4个技巧](https://toutiao.io/k/6cddvzi) 
+- [2022-04-14-推荐-盘点-3-月份-yyds-的开源项目](https://toutiao.io/k/79431xa) 
 - [2022-04-14-推荐-谷歌工程最佳实践](https://toutiao.io/k/q19mmjh) 

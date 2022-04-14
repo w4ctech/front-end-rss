@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-04-14 08:17:04，:rocket: 更新条数: +2029， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-04-14 08:44:54，:rocket: 更新条数: +2030， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,7 +491,16 @@
 </summary>
 
 
-- [2022-04-14-ubuntu-系统如何正确安装-redis？](https://www.v2ex.com/t/846960) ![](assets/new.png)  
+- [2022-04-14-微信好像不适合工作，大家平时除了邮电，都用什么-app-沟通呢？](https://www.v2ex.com/t/846970) ![](assets/new.png)  
+- [2022-04-14-更换域名如何确保权重完全转移到新域名？](https://www.v2ex.com/t/846969) ![](assets/new.png)  
+- [2022-04-14-该说某米的设备字幕支持差还是字幕组骚呢？](https://www.v2ex.com/t/846968) ![](assets/new.png)  
+- [2022-04-14-浅谈-MatrixOne-如何用-Go-语言设计与实现高性能哈希表](https://www.v2ex.com/t/846966) ![](assets/new.png)  
+- [2022-04-14-有什么脚本能一键把-git-clone-仓库里所有文件重设为它最后被修改的时间吗？](https://www.v2ex.com/t/846965) ![](assets/new.png)  
+- [2022-04-14-分公司一夜之间被裁撤了](https://www.v2ex.com/t/846964) ![](assets/new.png)  
+- [2022-04-14-分区类型是什么？跟文件系统有没有什么关系？](https://www.v2ex.com/t/846963) ![](assets/new.png)  
+- [2022-04-14-胡思乱想：既然梦这么真实，何不把研究-VR，-MR,，元宇宙的精力投到控制梦境上去。](https://www.v2ex.com/t/846962) ![](assets/new.png)  
+- [2022-04-14-Gradle-一用就烫](https://www.v2ex.com/t/846961) ![](assets/new.png)  
+- [2022-04-14-ubuntu-系统如何正确安装-redis-以及-redis-sentinel？](https://www.v2ex.com/t/846960) ![](assets/new.png)  
 - [2022-04-14-setapp-教育优惠拼车，差-3-人，年-236](https://www.v2ex.com/t/846958) ![](assets/new.png)  
 - [2022-04-14-自己写了一个-JSON-解析器，遇到一个问题](https://www.v2ex.com/t/846957) ![](assets/new.png)  
 - [2022-04-14-快捷指令不支持删除短信](https://www.v2ex.com/t/846956) ![](assets/new.png)  
@@ -502,15 +511,6 @@
 - [2022-04-14-4.14-凉了呀，关于高风险地区去深圳](https://www.v2ex.com/t/846951) ![](assets/new.png)  
 - [2022-04-14-求助-TypeScript-中关于函数参数类型约束的问题](https://www.v2ex.com/t/846950) ![](assets/new.png)  
 - [2022-04-14-neo4j-里-cypher-的导入语句求救](https://www.v2ex.com/t/846949) ![](assets/new.png)  
-- [2022-04-14-Angular-的-API-请求全放在一个服务里还是分开不同服务比较好？全放一起感觉文件太长了。另外服务和-component-放一起会不会看起来更整齐一些？官方好像不是这么...](https://www.v2ex.com/t/846948) ![](assets/new.png)  
-- [2022-04-14-CVE-2022-26809:-评分-9.8-的安全漏洞](https://www.v2ex.com/t/846947) ![](assets/new.png)  
-- [2022-04-14-如何在应用启动完成后的初期减少请求](https://www.v2ex.com/t/846946) ![](assets/new.png)  
-- [2022-04-14-未雨绸缪：如何利用混沌工程应对未知故障](https://www.v2ex.com/t/846945) ![](assets/new.png)  
-- [2022-04-14-phabricator-今天突然报错](https://www.v2ex.com/t/846944) ![](assets/new.png)  
-- [2022-04-14-怎么引用原有的-NFS-持久化数据](https://www.v2ex.com/t/846943) ![](assets/new.png)  
-- [2022-04-14-安装打印机驱动提示参数无效。](https://www.v2ex.com/t/846942) ![](assets/new.png)  
-- [2022-04-14-v-友们，-MIUI13-值得升级吗？](https://www.v2ex.com/t/846941) ![](assets/new.png)  
-- [2022-04-14-评论和回复放一张表里好，还是分表好？求解](https://www.v2ex.com/t/846940) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -569,8 +569,8 @@
 - [2022-04-14-直播技术干货分享：千万级直播系统后端架构设计的方方面面](https://toutiao.io/k/5p3lbu4) ![](assets/new.png)  
 - [2022-04-14-在M1芯片上跑原生Linux：编译速度比macOS还快40%，真香警告](https://toutiao.io/k/emvbcpj) ![](assets/new.png)  
 - [2022-04-14-go-btfs-一个可扩展的无中心的文件存储系统](https://toutiao.io/k/ut5hw62) ![](assets/new.png)  
-- [2022-04-14-推荐-系统架构的11条原则](https://toutiao.io/k/xbwjqgj) ![](assets/new.png)  
 - [2022-04-14-推荐-盘点-3-月份-yyds-的开源项目](https://toutiao.io/k/79431xa) ![](assets/new.png)  
+- [2022-04-14-推荐-系统架构的11条原则](https://toutiao.io/k/xbwjqgj) ![](assets/new.png)  
 - [2022-04-14-推荐-谷歌工程最佳实践](https://toutiao.io/k/q19mmjh) ![](assets/new.png)  
 - [2022-04-14-推荐-解析分布式系统的缓存设计](https://toutiao.io/k/pucrtli) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)

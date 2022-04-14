@@ -9953,6 +9953,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "deployment 和 statefulset 的 pod 反亲和有办法按 node 的 label 分组吗",
+        "link": "https://www.v2ex.com/t/847051",
+        "date": "2022-04-14"
+      },
+      {
         "title": "读研毕业论文让人头大",
         "link": "https://www.v2ex.com/t/847050",
         "date": "2022-04-14"
@@ -10015,11 +10020,6 @@
       {
         "title": "英文中，生活是 life，工作是 work，有没有一个单词或者比较简短的短语来表示工作之外的，但又不是你的日常生活，比如程序员的一些私活啊等等",
         "link": "https://www.v2ex.com/t/847036",
-        "date": "2022-04-14"
-      },
-      {
-        "title": "这才是重器轻用，用 Notion 珍藏喜闻乐见的涩涩资源",
-        "link": "https://www.v2ex.com/t/847034",
         "date": "2022-04-14"
       },
       {
@@ -10327,6 +10327,11 @@
         "date": "2022-04-14"
       },
       {
+        "title": "[推荐] 谷歌工程最佳实践",
+        "link": "https://toutiao.io/k/q19mmjh",
+        "date": "2022-04-14"
+      },
+      {
         "title": "[推荐] 写出结构优雅代码的4个技巧",
         "link": "https://toutiao.io/k/6cddvzi",
         "date": "2022-04-14"
@@ -10334,11 +10339,6 @@
       {
         "title": "[推荐] 解析分布式系统的缓存设计",
         "link": "https://toutiao.io/k/pucrtli",
-        "date": "2022-04-14"
-      },
-      {
-        "title": "[推荐] 谷歌工程最佳实践",
-        "link": "https://toutiao.io/k/q19mmjh",
         "date": "2022-04-14"
       },
       {

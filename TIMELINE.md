@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-04-14 17:42:32。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-04-14 18:16:27。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,7 @@
 </summary>
 
 
+- [【V2EX】2022-04-14-deployment-和-statefulset-的-pod-反亲和有办法按-node-的-label-分组吗](https://www.v2ex.com/t/847051) 
 - [【V2EX】2022-04-14-读研毕业论文让人头大](https://www.v2ex.com/t/847050) 
 - [【V2EX】2022-04-14-nginx-的反代规则请教](https://www.v2ex.com/t/847049) 
 - [【V2EX】2022-04-14-关于-AWS-认证和-PSI-考试平台的问题](https://www.v2ex.com/t/847048) 
@@ -81,7 +82,6 @@
 - [【V2EX】2022-04-14-请教大佬，把一段代码用函数式编程变得更加优雅](https://www.v2ex.com/t/847038) 
 - [【V2EX】2022-04-14-为什么-sadhguru、杨定一、Eckhart-Tolle-都强调了同一件事？](https://www.v2ex.com/t/847037) 
 - [【V2EX】2022-04-14-英文中，生活是-life，工作是-work，有没有一个单词或者比较简短的短语来表示工作之外的，但又不是你的日常生活，比如程序员的一些私活啊等等](https://www.v2ex.com/t/847036) 
-- [【V2EX】2022-04-14-这才是重器轻用，用-Notion-珍藏喜闻乐见的涩涩资源](https://www.v2ex.com/t/847034) 
 - [【V2EX】2022-04-14-win10-系统，靠-vmware-虚拟机能搞个软路由，群晖，-emby-么](https://www.v2ex.com/t/847033) 
 - [【V2EX】2022-04-14-选型一款-VOC-气体传感器](https://www.v2ex.com/t/847032) 
 - [【V2EX】2022-04-14-八股文疑问，-redis-sds-buffer-最大长度在-512M-限制？](https://www.v2ex.com/t/847030) 
@@ -140,9 +140,9 @@
 - [【开发者头条】2022-04-14-免杀基础-常见Webshell特征分析](https://toutiao.io/k/l9ruxtm) 
 - [【开发者头条】2022-04-14-Flink-1.14-Table-API-&-SQL-第一个程序-WordCount](https://toutiao.io/k/0txhvg8) 
 - [【开发者头条】2022-04-14-go-btfs-一个可扩展的无中心的文件存储系统](https://toutiao.io/k/ut5hw62) 
+- [【开发者头条】2022-04-14-推荐-谷歌工程最佳实践](https://toutiao.io/k/q19mmjh) 
 - [【开发者头条】2022-04-14-推荐-写出结构优雅代码的4个技巧](https://toutiao.io/k/6cddvzi) 
 - [【开发者头条】2022-04-14-推荐-解析分布式系统的缓存设计](https://toutiao.io/k/pucrtli) 
-- [【开发者头条】2022-04-14-推荐-谷歌工程最佳实践](https://toutiao.io/k/q19mmjh) 
 - [【开发者头条】2022-04-14-推荐-系统架构的11条原则](https://toutiao.io/k/xbwjqgj) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>

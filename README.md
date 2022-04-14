@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-04-14 23:14:13，:rocket: 更新条数: +2007， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-04-14 23:39:43，:rocket: 更新条数: +2007， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-04-14-很好奇自己的信息在网上暴露成什么样了，所以想做个小实验](https://www.v2ex.com/t/847060) ![](assets/new.png)  
 - [2022-04-14-20220415-午夜俱乐部](https://www.v2ex.com/t/847058) ![](assets/new.png)  
 - [2022-04-14-Iterm2-是不是有什么显存泄露之类的-bug](https://www.v2ex.com/t/847057) ![](assets/new.png)  
 - [2022-04-14-想永久持一张境外的手机卡](https://www.v2ex.com/t/847056) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-04-14-望京附近短期转租利泽西园](https://www.v2ex.com/t/847039) ![](assets/new.png)  
 - [2022-04-14-请教大佬，把一段代码用函数式编程变得更加优雅](https://www.v2ex.com/t/847038) ![](assets/new.png)  
 - [2022-04-14-为什么-sadhguru、杨定一、Eckhart-Tolle-都强调了同一件事？](https://www.v2ex.com/t/847037) ![](assets/new.png)  
-- [2022-04-14-英文中，生活是-life，工作是-work，有没有一个单词或者比较简短的短语来表示工作之外的，但又不是你的日常生活，比如程序员的一些私活啊等等](https://www.v2ex.com/t/847036) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -554,10 +554,10 @@
 
 
 - [2022-04-14-愿天下无难买的菜](https://toutiao.io/k/49wpgo7) ![](assets/new.png)  
-- [2022-04-14-推荐-写出结构优雅代码的4个技巧](https://toutiao.io/k/6cddvzi) ![](assets/new.png)  
 - [2022-04-14-推荐-谷歌工程最佳实践](https://toutiao.io/k/q19mmjh) ![](assets/new.png)  
-- [2022-04-14-推荐-解析分布式系统的缓存设计](https://toutiao.io/k/pucrtli) ![](assets/new.png)  
 - [2022-04-14-推荐-系统架构的11条原则](https://toutiao.io/k/xbwjqgj) ![](assets/new.png)  
+- [2022-04-14-推荐-解析分布式系统的缓存设计](https://toutiao.io/k/pucrtli) ![](assets/new.png)  
+- [2022-04-14-推荐-写出结构优雅代码的4个技巧](https://toutiao.io/k/6cddvzi) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

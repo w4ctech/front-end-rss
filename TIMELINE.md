@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-04-15 06:17:03。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-04-15 06:47:24。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,12 @@
 </summary>
 
 
+- [【V2EX】2022-04-15-14-M1-有时候卡死，只能鼠标动，其他的都点不了，有相同的情况吗？](https://www.v2ex.com/t/847150) 
+- [【V2EX】2022-04-15-mac-有没有办法在菜单栏显示终端命令的运行结果](https://www.v2ex.com/t/847149) 
+- [【V2EX】2022-04-15-14-M1-音量忽大忽小](https://www.v2ex.com/t/847148) 
+- [【V2EX】2022-04-15-Redis-乐观锁的实际使用场景是什么？是不是没用？](https://www.v2ex.com/t/847147) 
+- [【V2EX】2022-04-15-关于-gRPC-的问题请教一下各位](https://www.v2ex.com/t/847144) 
+- [【V2EX】2022-04-15-求-V-友们推荐一款键盘打游戏用](https://www.v2ex.com/t/847143) 
 - [【V2EX】2022-04-15-elastic-认证对简历是否有提升？](https://www.v2ex.com/t/847142) 
 - [【V2EX】2022-04-15-git-cherry-pick-有没有可能实现我在-master-分支上，将-DEV-分支的一个-commit-cherry-pick-到分支-a,b,c,d……？](https://www.v2ex.com/t/847141) 
 - [【V2EX】2022-04-15-淘宝店铺的后补发票有没有问题？](https://www.v2ex.com/t/847140) 
@@ -96,15 +102,9 @@
 - [【V2EX】2022-04-15-为什么飞书引以为傲/重度宣传的文档功能，不能在-PC-客户端内使用？](https://www.v2ex.com/t/847108) 
 - [【V2EX】2022-04-15-PHP-下载远程图片到本地后只显示部分内容是什么情况?](https://www.v2ex.com/t/847106) 
 - [【V2EX】2022-04-15-大家来鉴定下这是什么神奇网站](https://www.v2ex.com/t/847105) 
+- [【V2EX】2022-04-15-装机小白第一次装机，大佬们给点建议](https://www.v2ex.com/t/847104) 
 - [【V2EX】2022-04-15-使用-API-2.0-Beta-怎么签到呢](https://www.v2ex.com/t/847103) 
 - [【V2EX】2022-04-15-Office-365-家庭版拼车-42RMB/年，长期车，现在有-3-个车位](https://www.v2ex.com/t/847102) 
-- [【V2EX】2022-04-15-Linux-轻薄本+pve-装毒瘤](https://www.v2ex.com/t/847100) 
-- [【V2EX】2022-04-15-研发工程师，工作站电脑配置清单请教](https://www.v2ex.com/t/847098) 
-- [【V2EX】2022-04-15-网页首页修改页脚链接地址求教，-wordpress-找了半天都没看到修改地址在哪，我太菜了，求大佬指点。](https://www.v2ex.com/t/847097) 
-- [【V2EX】2022-04-15-基金交流：医疗现在可以上车了吗](https://www.v2ex.com/t/847096) 
-- [【V2EX】2022-04-15-covid-19-下的良心公司](https://www.v2ex.com/t/847095) 
-- [【V2EX】2022-04-15-C-刷新缓冲区用-gets-获取键盘输入依然获得了空值](https://www.v2ex.com/t/847094) 
-- [【V2EX】2022-04-15-离职后,为什么碰到原来熟悉的同事却低着头装作没看见我?](https://www.v2ex.com/t/847093) 
 - [【技术头条】2022-04-15-人手必备的常用网络命令合集，吐血整理！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15017&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493888%26amp%3Bidx%3D1%26amp%3Bsn%3D70d3506be895b9f146066d56dfae8b69%26amp%3Bchksm%3Dfa3f085bcd48814dbddbd6eddf6584cd9d9ebb768b37f25529371a625c4d09114bf9e2ea6fba%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-04-15-Java必会的工具库，让你的代码量减少90%-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15016&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493888%26amp%3Bidx%3D2%26amp%3Bsn%3D9f50338e5145bdd585e908e36aa7517d%26amp%3Bchksm%3Dfa3f085bcd48814d7386eb6707d907d58fa0313c300b3f73937f51525a7fc10671193f1557e2%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-04-15-技术主管和项目经理一定要读的6本书！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15015&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493887%26amp%3Bidx%3D1%26amp%3Bsn%3D1a13135d359785dd3c15d90dfaeb95e5%26amp%3Bchksm%3Dfa3f09a4cd4880b2c74c7b234fbfc6033b05283324ce3421d8c7ae3fdbb5039b9a2873874bc5%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -145,11 +145,11 @@
 - [【开发者头条】2022-04-15-Web-框架的替代方案](https://toutiao.io/k/uvj30ph) 
 - [【开发者头条】2022-04-15-Kafka-玩出植物大战僵尸即视感：Topic-为什么要分区？](https://toutiao.io/k/j5y1d2z) 
 - [【开发者头条】2022-04-15-Apache-IoTDB-在核电站数据展示上的应用](https://toutiao.io/k/o80avm4) 
+- [【开发者头条】2022-04-15-推荐-写出结构优雅代码的4个技巧](https://toutiao.io/k/6cddvzi) 
+- [【开发者头条】2022-04-15-推荐-系统架构的11条原则](https://toutiao.io/k/xbwjqgj) 
 - [【开发者头条】2022-04-15-推荐-解析分布式系统的缓存设计](https://toutiao.io/k/pucrtli) 
 - [【开发者头条】2022-04-15-推荐-腾讯一面：CORS为什么能保障安全？为什么只对复杂请求做预检？](https://toutiao.io/k/quomj0f) 
 - [【开发者头条】2022-04-15-推荐-谷歌工程最佳实践](https://toutiao.io/k/q19mmjh) 
-- [【开发者头条】2022-04-15-推荐-写出结构优雅代码的4个技巧](https://toutiao.io/k/6cddvzi) 
-- [【开发者头条】2022-04-15-推荐-系统架构的11条原则](https://toutiao.io/k/xbwjqgj) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

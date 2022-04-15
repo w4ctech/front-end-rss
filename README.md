@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-04-15 22:40:16，:rocket: 更新条数: +2026， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-04-15 23:05:28，:rocket: 更新条数: +2026， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-04-15-迫于买到了新键盘，分享一下使用体验：-NuPhy-Air-75](https://www.v2ex.com/t/847270) ![](assets/new.png)  
 - [2022-04-15-阿里云盘和夸克网盘是什么关系？为啥淘宝-vip-会送夸克网盘而不是阿里云盘？](https://www.v2ex.com/t/847269) ![](assets/new.png)  
 - [2022-04-15-Github-如何查看所有与我相关的项目的-Issue？](https://www.v2ex.com/t/847268) ![](assets/new.png)  
 - [2022-04-15-收留朋友住宿，自己睡不着了…](https://www.v2ex.com/t/847267) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-04-15-Google-Summer-of-Code-Casbin-开源项目-暑期编程之夏远程实习生](https://www.v2ex.com/t/847250) ![](assets/new.png)  
 - [2022-04-15-又做了一个-Obsidian-的视频，这次介绍我喜欢的一些插件](https://www.v2ex.com/t/847249) ![](assets/new.png)  
 - [2022-04-15-这个文档用的什么生成器？](https://www.v2ex.com/t/847246) ![](assets/new.png)  
-- [2022-04-15-乡镇干活大工一天-400-小工-350](https://www.v2ex.com/t/847244) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

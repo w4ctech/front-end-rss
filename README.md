@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-04-15 17:19:58，:rocket: 更新条数: +2026， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-04-15 17:42:44，:rocket: 更新条数: +2027， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-04-15-才发现，-Magic-Keyboard-可以分开连两台设备](https://www.v2ex.com/t/847264) ![](assets/new.png)  
 - [2022-04-15-淘菜菜现在可以做到-12-点自提了？](https://www.v2ex.com/t/847263) ![](assets/new.png)  
 - [2022-04-15-群晖-Drive-APP-来了](https://www.v2ex.com/t/847262) ![](assets/new.png)  
 - [2022-04-15-是不是网页没办法准确判断是否支持硬解？](https://www.v2ex.com/t/847260) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-04-15-为什么-9-年前就可以做出-Google-Glass，现在却没有出现新一代的产品呢？](https://www.v2ex.com/t/847240) ![](assets/new.png)  
 - [2022-04-15-由安卓全家桶来替换苹果全家桶](https://www.v2ex.com/t/847239) ![](assets/new.png)  
 - [2022-04-15-base64-编码图片一般会使体积变大多少？](https://www.v2ex.com/t/847238) ![](assets/new.png)  
-- [2022-04-15-云服务器配置怎么获取。例如这样的配置](https://www.v2ex.com/t/847236) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-04-15 17:19:58。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-04-15 17:42:44。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1913,6 +1913,7 @@
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2022-03-21-ascent-override-descent-override-line-gap-override一锅端](https://www.zhangxinxu.com/wordpress/2022/03/css-ascent-override-descent/) 
 - [2022-02-04-HTML-inputmode与iOS-Android软键盘类型测试](https://www.zhangxinxu.com/wordpress/2022/02/html-inputmode-keyboard/) 
+- [2022-04-15-才发现，-Magic-Keyboard-可以分开连两台设备](https://www.v2ex.com/t/847264) 
 - [2022-04-15-淘菜菜现在可以做到-12-点自提了？](https://www.v2ex.com/t/847263) 
 - [2022-04-15-群晖-Drive-APP-来了](https://www.v2ex.com/t/847262) 
 - [2022-04-15-是不是网页没办法准确判断是否支持硬解？](https://www.v2ex.com/t/847260) 
@@ -1974,5 +1975,5 @@
 - [2022-04-15-Web-框架的替代方案](https://toutiao.io/k/uvj30ph) 
 - [2022-04-15-Kafka-玩出植物大战僵尸即视感：Topic-为什么要分区？](https://toutiao.io/k/j5y1d2z) 
 - [2022-04-15-Apache-IoTDB-在核电站数据展示上的应用](https://toutiao.io/k/o80avm4) 
-- [2022-04-15-推荐-谷歌工程最佳实践](https://toutiao.io/k/q19mmjh) 
 - [2022-04-15-推荐-系统架构的11条原则](https://toutiao.io/k/xbwjqgj) 
+- [2022-04-15-推荐-谷歌工程最佳实践](https://toutiao.io/k/q19mmjh) 

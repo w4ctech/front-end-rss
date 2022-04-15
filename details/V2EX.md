@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2022-04-15 17:19:58。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-04-15 17:42:44。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-04-15-才发现，-Magic-Keyboard-可以分开连两台设备](https://www.v2ex.com/t/847264) 
 - [2022-04-15-淘菜菜现在可以做到-12-点自提了？](https://www.v2ex.com/t/847263) 
 - [2022-04-15-群晖-Drive-APP-来了](https://www.v2ex.com/t/847262) 
 - [2022-04-15-是不是网页没办法准确判断是否支持硬解？](https://www.v2ex.com/t/847260) 

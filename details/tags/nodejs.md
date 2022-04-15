@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-04-15 05:41:45。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-04-15 06:17:03。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## NodeJS
 
@@ -7,4 +7,4 @@
 
 
 
-- [2022-04-15-electron-应用有什么好的调试工具吗？](https://www.v2ex.com/t/847090) 
+- [2022-04-15-最近更新-git-会把-node-的环变量搞坏](https://www.v2ex.com/t/847139) 

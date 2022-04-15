@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-04-15 05:41:45，:rocket: 更新条数: +2022， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-04-15 06:17:03，:rocket: 更新条数: +2028， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,12 @@
 </summary>
 
 
+- [2022-04-15-elastic-认证对简历是否有提升？](https://www.v2ex.com/t/847142) ![](assets/new.png)  
+- [2022-04-15-git-cherry-pick-有没有可能实现我在-master-分支上，将-DEV-分支的一个-commit-cherry-pick-到分支-a,b,c,d……？](https://www.v2ex.com/t/847141) ![](assets/new.png)  
+- [2022-04-15-淘宝店铺的后补发票有没有问题？](https://www.v2ex.com/t/847140) ![](assets/new.png)  
+- [2022-04-15-最近更新-git-会把-node-的环变量搞坏](https://www.v2ex.com/t/847139) ![](assets/new.png)  
+- [2022-04-15-数据大屏，仅仅是数据展示吗？](https://www.v2ex.com/t/847137) ![](assets/new.png)  
+- [2022-04-15-iOS15-存储空间对不上](https://www.v2ex.com/t/847135) ![](assets/new.png)  
 - [2022-04-15-GitHub-热门趋势页的中文项目类型归纳](https://www.v2ex.com/t/847133) ![](assets/new.png)  
 - [2022-04-15-请教一个样式问题，如图](https://www.v2ex.com/t/847132) ![](assets/new.png)  
 - [2022-04-15-AirPods-Max-怎么清洁？](https://www.v2ex.com/t/847130) ![](assets/new.png)  
@@ -505,12 +511,6 @@
 - [2022-04-15-kvm-里面-n-卡加速可以吗?](https://www.v2ex.com/t/847120) ![](assets/new.png)  
 - [2022-04-15-有没有阳台种菜的朋友](https://www.v2ex.com/t/847118) ![](assets/new.png)  
 - [2022-04-15-parsec-远程连接软件：被控制端必须要接显示器吗？](https://www.v2ex.com/t/847117) ![](assets/new.png)  
-- [2022-04-15-今年更新的-Mac-OS-希望能把左滑小组件里面的计算器加回来!](https://www.v2ex.com/t/847115) ![](assets/new.png)  
-- [2022-04-15-请问现在深圳有能坐一天的图书馆吗？](https://www.v2ex.com/t/847114) ![](assets/new.png)  
-- [2022-04-15-大家看了今天的-Github-Trending-了吗？](https://www.v2ex.com/t/847113) ![](assets/new.png)  
-- [2022-04-15-httpie-作者误将仓库设为私有导致丢失了-54k-stars](https://www.v2ex.com/t/847112) ![](assets/new.png)  
-- [2022-04-15-如何开发一个网文写作软件？](https://www.v2ex.com/t/847110) ![](assets/new.png)  
-- [2022-04-15-为什么飞书引以为傲/重度宣传的文档功能，不能在-PC-客户端内使用？](https://www.v2ex.com/t/847108) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -558,18 +558,21 @@
 - [2022-04-15-腾讯网关-TGW-基础原理入门](https://toutiao.io/k/xaremeg) ![](assets/new.png)  
 - [2022-04-15-知识图谱可视化技术在美团的实践与探索](https://toutiao.io/k/f8oloj0) ![](assets/new.png)  
 - [2022-04-15-面试官：手写实现一个-useState](https://toutiao.io/k/f4j8i8m) ![](assets/new.png)  
-- [2022-04-15-全局图优化：提升-MegEngine-模型推理性能的又一神器](https://toutiao.io/k/jusg9lo) ![](assets/new.png)  
 - [2022-04-15-技术开发人员如何制定自己的OKR](https://toutiao.io/k/zq8oiet) ![](assets/new.png)  
+- [2022-04-15-全局图优化：提升-MegEngine-模型推理性能的又一神器](https://toutiao.io/k/jusg9lo) ![](assets/new.png)  
 - [2022-04-15-美团实时数仓架构的演进史，千亿级数据根本没在怕的！](https://toutiao.io/k/uk7a2c5) ![](assets/new.png)  
 - [2022-04-15-Go：gRPC-Gateway-完全指南](https://toutiao.io/k/vcolg8n) ![](assets/new.png)  
 - [2022-04-15-支持多协议多用户的xray面板](https://toutiao.io/k/wze64ut) ![](assets/new.png)  
 - [2022-04-15-中国移动磐舟磐基平台基于KubeEdge的落地实践](https://toutiao.io/k/i1jwzt8) ![](assets/new.png)  
 - [2022-04-15-网易互娱基于-Flink-的支付环境全关联分析实践](https://toutiao.io/k/5s7qbs3) ![](assets/new.png)  
-- [2022-04-15-推荐-解析分布式系统的缓存设计](https://toutiao.io/k/pucrtli) ![](assets/new.png)  
-- [2022-04-15-推荐-系统架构的11条原则](https://toutiao.io/k/xbwjqgj) ![](assets/new.png)  
-- [2022-04-15-推荐-谷歌工程最佳实践](https://toutiao.io/k/q19mmjh) ![](assets/new.png)  
-- [2022-04-15-推荐-写出结构优雅代码的4个技巧](https://toutiao.io/k/6cddvzi) ![](assets/new.png)  
-- [2022-04-15-推荐-腾讯一面：CORS为什么能保障安全？为什么只对复杂请求做预检？](https://toutiao.io/k/quomj0f) ![](assets/new.png)  
+- [2022-04-15-大咖实战｜Kubernetes自动伸缩实现指南分享](https://toutiao.io/k/l02liv2) ![](assets/new.png)  
+- [2022-04-15-一个-shell-小技巧](https://toutiao.io/k/h9v05jy) ![](assets/new.png)  
+- [2022-04-15-玩转-Spring-Boot-应用篇（搭建菜菜的店铺）](https://toutiao.io/k/9on9eug) ![](assets/new.png)  
+- [2022-04-15-独立开发变现周刊（第50期）：写在周刊第50期，各自努力，顶峰相见](https://toutiao.io/k/4qczdvd) ![](assets/new.png)  
+- [2022-04-15-支持中文！秒建-wiki-知识库的开源项目，构建私人知识网络](https://toutiao.io/k/ro6k3sj) ![](assets/new.png)  
+- [2022-04-15-Web-框架的替代方案](https://toutiao.io/k/uvj30ph) ![](assets/new.png)  
+- [2022-04-15-Kafka-玩出植物大战僵尸即视感：Topic-为什么要分区？](https://toutiao.io/k/j5y1d2z) ![](assets/new.png)  
+- [2022-04-15-Apache-IoTDB-在核电站数据展示上的应用](https://toutiao.io/k/o80avm4) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

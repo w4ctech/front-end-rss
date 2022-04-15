@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-04-15 12:21:49。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-04-15 13:00:47。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1913,6 +1913,11 @@
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2022-03-21-ascent-override-descent-override-line-gap-override一锅端](https://www.zhangxinxu.com/wordpress/2022/03/css-ascent-override-descent/) 
 - [2022-02-04-HTML-inputmode与iOS-Android软键盘类型测试](https://www.zhangxinxu.com/wordpress/2022/02/html-inputmode-keyboard/) 
+- [2022-04-15-翻墙最多是违规，而不是违法。](https://www.v2ex.com/t/847231) 
+- [2022-04-15-一次失败出行的思考](https://www.v2ex.com/t/847230) 
+- [2022-04-15-抖音，微博显示-IP-属地的技术原理是什么？](https://www.v2ex.com/t/847228) 
+- [2022-04-15-Spring-boot-参数是怎样解析的呀](https://www.v2ex.com/t/847224) 
+- [2022-04-15-￥-2890-人民币，买了-5-台腾讯轻量云服务器](https://www.v2ex.com/t/847223) 
 - [2022-04-15-这个网站挺好玩,-把中文博客翻译成英文](https://www.v2ex.com/t/847222) 
 - [2022-04-15-有没有和我一样的，都已经很久不主动记-API-了](https://www.v2ex.com/t/847220) 
 - [2022-04-15-安卓手机摔了无法操作屏幕，如何备份数据](https://www.v2ex.com/t/847217) 
@@ -1942,13 +1947,6 @@
 - [2022-04-15-一点点整明白-Obsidian-也太好用了吧！](https://www.v2ex.com/t/847185) 
 - [2022-04-15-如何解决-LogOutputStream-中文乱码问题？](https://www.v2ex.com/t/847184) 
 - [2022-04-15-如何禁用或删除-mac-12.3-自带输入法，我快被烦死了](https://www.v2ex.com/t/847183) 
-- [2022-04-15-程序员如何优雅的过上乡村生活？](https://www.v2ex.com/t/847180) 
-- [2022-04-15-非实时聊天的网页私信](https://www.v2ex.com/t/847179) 
-- [2022-04-15-局域网，-MacBook-访问部署在其他机器上的一个-web-应用一直超时，然而用另外的设备访问一点问题也没有，有大佬给点思路吗？](https://www.v2ex.com/t/847178) 
-- [2022-04-15-还不懂-devops-是什么意思？想上手的千万别错过！](https://www.v2ex.com/t/847177) 
-- [2022-04-15-ES-数据压缩问题](https://www.v2ex.com/t/847176) 
-- [2022-04-15-原创-Loop2022-4-自制舞曲-我很菜勿喷](https://www.v2ex.com/t/847174) 
-- [2022-04-15-咨询-2.4G-Type-A-接收器改-Type-C](https://www.v2ex.com/t/847173) 
 - [2022-04-15-人手必备的常用网络命令合集，吐血整理！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15017&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493888%26amp%3Bidx%3D1%26amp%3Bsn%3D70d3506be895b9f146066d56dfae8b69%26amp%3Bchksm%3Dfa3f085bcd48814dbddbd6eddf6584cd9d9ebb768b37f25529371a625c4d09114bf9e2ea6fba%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-04-15-Java必会的工具库，让你的代码量减少90%-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15016&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493888%26amp%3Bidx%3D2%26amp%3Bsn%3D9f50338e5145bdd585e908e36aa7517d%26amp%3Bchksm%3Dfa3f085bcd48814d7386eb6707d907d58fa0313c300b3f73937f51525a7fc10671193f1557e2%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-04-15-技术主管和项目经理一定要读的6本书！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15015&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493887%26amp%3Bidx%3D1%26amp%3Bsn%3D1a13135d359785dd3c15d90dfaeb95e5%26amp%3Bchksm%3Dfa3f09a4cd4880b2c74c7b234fbfc6033b05283324ce3421d8c7ae3fdbb5039b9a2873874bc5%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1980,5 +1978,5 @@
 - [2022-04-15-Kafka-玩出植物大战僵尸即视感：Topic-为什么要分区？](https://toutiao.io/k/j5y1d2z) 
 - [2022-04-15-Apache-IoTDB-在核电站数据展示上的应用](https://toutiao.io/k/o80avm4) 
 - [2022-04-15-推荐-谷歌工程最佳实践](https://toutiao.io/k/q19mmjh) 
-- [2022-04-15-推荐-系统架构的11条原则](https://toutiao.io/k/xbwjqgj) 
 - [2022-04-15-推荐-写出结构优雅代码的4个技巧](https://toutiao.io/k/6cddvzi) 
+- [2022-04-15-推荐-系统架构的11条原则](https://toutiao.io/k/xbwjqgj) 

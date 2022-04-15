@@ -1,10 +1,18 @@
-:alarm_clock: 更新时间: 2022-04-15 04:04:43。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-04-15 05:02:04。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-04-15-换了个红魔-P7，一些高级折腾问题](https://www.v2ex.com/t/847126) 
+- [2022-04-15-Linux-的实时文件同步软件（类似-onedrive）](https://www.v2ex.com/t/847124) 
+- [2022-04-15-安卓-和-iOS-哪个平台通知推送更好？](https://www.v2ex.com/t/847123) 
+- [2022-04-15-工作原因要学-PHP-,请教下最好的-PHP-书籍是哪本?](https://www.v2ex.com/t/847122) 
+- [2022-04-15-现在-Apple-Genius-吧技术水平堪忧](https://www.v2ex.com/t/847121) 
+- [2022-04-15-kvm-里面-n-卡加速可以吗?](https://www.v2ex.com/t/847120) 
+- [2022-04-15-有没有阳台种菜的朋友](https://www.v2ex.com/t/847118) 
+- [2022-04-15-parsec-远程连接软件：被控制端必须要接显示器吗？](https://www.v2ex.com/t/847117) 
 - [2022-04-15-今年更新的-Mac-OS-希望能把左滑小组件里面的计算器加回来!](https://www.v2ex.com/t/847115) 
 - [2022-04-15-请问现在深圳有能坐一天的图书馆吗？](https://www.v2ex.com/t/847114) 
 - [2022-04-15-大家看了今天的-Github-Trending-了吗？](https://www.v2ex.com/t/847113) 
@@ -36,13 +44,3 @@
 - [2022-04-15-请问有啥能代理浏览器请求的插件吗](https://www.v2ex.com/t/847079) 
 - [2022-04-15-四川移动宽带-BT-下载无速度](https://www.v2ex.com/t/847078) 
 - [2022-04-15-esxi-把唯一的显卡直通给虚拟机导致无法启动](https://www.v2ex.com/t/847077) 
-- [2022-04-15-2022-年-Redis-最新面试题](https://www.v2ex.com/t/847076) 
-- [2022-04-15-阿里云国际登录问题](https://www.v2ex.com/t/847075) 
-- [2022-04-15-四岁小孩用的-APP-有哪些推荐的吗？画画、益智、互动动画等均可，免费、付费都可接受，最好是-iOS-系统，-Android-亦可，谢谢](https://www.v2ex.com/t/847074) 
-- [2022-04-15-typora-强制更新，求推荐替代品](https://www.v2ex.com/t/847072) 
-- [2022-04-15-灵感触发时刻](https://www.v2ex.com/t/847071) 
-- [2022-04-15-ubuntu-大佬们如何让微信置于右侧](https://www.v2ex.com/t/847070) 
-- [2022-04-15-请教下-有啥开源的使用-ant-desgin-ant-pro-组件-的前后端-Admin-开源框架](https://www.v2ex.com/t/847069) 
-- [2022-04-15-急，请问有没有办法用-Python-监视-leveldb-的文件访问频率或者数据的频率?](https://www.v2ex.com/t/847068) 
-- [2022-04-15-写在「独立开发变现周刊」第-50-期，各自努力，顶峰相见](https://www.v2ex.com/t/847067) 
-- [2022-04-15-求助ActiveMQ-Artemis，-shell-中可以正常启动，但使用-systemctl-start-无法启动](https://www.v2ex.com/t/847066) 

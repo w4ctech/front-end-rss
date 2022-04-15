@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-04-15 04:04:43，:rocket: 更新条数: +2024， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-04-15 05:02:04，:rocket: 更新条数: +2022， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,14 @@
 </summary>
 
 
+- [2022-04-15-换了个红魔-P7，一些高级折腾问题](https://www.v2ex.com/t/847126) ![](assets/new.png)  
+- [2022-04-15-Linux-的实时文件同步软件（类似-onedrive）](https://www.v2ex.com/t/847124) ![](assets/new.png)  
+- [2022-04-15-安卓-和-iOS-哪个平台通知推送更好？](https://www.v2ex.com/t/847123) ![](assets/new.png)  
+- [2022-04-15-工作原因要学-PHP-,请教下最好的-PHP-书籍是哪本?](https://www.v2ex.com/t/847122) ![](assets/new.png)  
+- [2022-04-15-现在-Apple-Genius-吧技术水平堪忧](https://www.v2ex.com/t/847121) ![](assets/new.png)  
+- [2022-04-15-kvm-里面-n-卡加速可以吗?](https://www.v2ex.com/t/847120) ![](assets/new.png)  
+- [2022-04-15-有没有阳台种菜的朋友](https://www.v2ex.com/t/847118) ![](assets/new.png)  
+- [2022-04-15-parsec-远程连接软件：被控制端必须要接显示器吗？](https://www.v2ex.com/t/847117) ![](assets/new.png)  
 - [2022-04-15-今年更新的-Mac-OS-希望能把左滑小组件里面的计算器加回来!](https://www.v2ex.com/t/847115) ![](assets/new.png)  
 - [2022-04-15-请问现在深圳有能坐一天的图书馆吗？](https://www.v2ex.com/t/847114) ![](assets/new.png)  
 - [2022-04-15-大家看了今天的-Github-Trending-了吗？](https://www.v2ex.com/t/847113) ![](assets/new.png)  
@@ -503,14 +511,6 @@
 - [2022-04-15-Office-365-家庭版拼车-42RMB/年，长期车，现在有-3-个车位](https://www.v2ex.com/t/847102) ![](assets/new.png)  
 - [2022-04-15-广电总局通知：不得直播未经主管部门批准的网络游戏](https://www.v2ex.com/t/847101) ![](assets/new.png)  
 - [2022-04-15-Linux-轻薄本+pve-装毒瘤](https://www.v2ex.com/t/847100) ![](assets/new.png)  
-- [2022-04-15-研发工程师，工作站电脑配置清单请教](https://www.v2ex.com/t/847098) ![](assets/new.png)  
-- [2022-04-15-网页首页修改页脚链接地址求教，-wordpress-找了半天都没看到修改地址在哪，我太菜了，求大佬指点。](https://www.v2ex.com/t/847097) ![](assets/new.png)  
-- [2022-04-15-基金交流：医疗现在可以上车了吗](https://www.v2ex.com/t/847096) ![](assets/new.png)  
-- [2022-04-15-covid-19-下的良心公司](https://www.v2ex.com/t/847095) ![](assets/new.png)  
-- [2022-04-15-C-刷新缓冲区用-gets-获取键盘输入依然获得了空值](https://www.v2ex.com/t/847094) ![](assets/new.png)  
-- [2022-04-15-离职后,为什么碰到原来熟悉的同事却低着头装作没看见我?](https://www.v2ex.com/t/847093) ![](assets/new.png)  
-- [2022-04-15-iPhone-14-是不是该提内存了？](https://www.v2ex.com/t/847092) ![](assets/new.png)  
-- [2022-04-15-求问有什么字幕输出语音方案（发音时间须对准字幕时间戳）？](https://www.v2ex.com/t/847091) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -559,17 +559,17 @@
 - [2022-04-15-知识图谱可视化技术在美团的实践与探索](https://toutiao.io/k/f8oloj0) ![](assets/new.png)  
 - [2022-04-15-面试官：手写实现一个-useState](https://toutiao.io/k/f4j8i8m) ![](assets/new.png)  
 - [2022-04-15-全局图优化：提升-MegEngine-模型推理性能的又一神器](https://toutiao.io/k/jusg9lo) ![](assets/new.png)  
-- [2022-04-15-Go：gRPC-Gateway-完全指南](https://toutiao.io/k/vcolg8n) ![](assets/new.png)  
 - [2022-04-15-技术开发人员如何制定自己的OKR](https://toutiao.io/k/zq8oiet) ![](assets/new.png)  
 - [2022-04-15-美团实时数仓架构的演进史，千亿级数据根本没在怕的！](https://toutiao.io/k/uk7a2c5) ![](assets/new.png)  
+- [2022-04-15-Go：gRPC-Gateway-完全指南](https://toutiao.io/k/vcolg8n) ![](assets/new.png)  
 - [2022-04-15-支持多协议多用户的xray面板](https://toutiao.io/k/wze64ut) ![](assets/new.png)  
 - [2022-04-15-网易互娱基于-Flink-的支付环境全关联分析实践](https://toutiao.io/k/5s7qbs3) ![](assets/new.png)  
 - [2022-04-15-中国移动磐舟磐基平台基于KubeEdge的落地实践](https://toutiao.io/k/i1jwzt8) ![](assets/new.png)  
-- [2022-04-15-推荐-腾讯一面：CORS为什么能保障安全？为什么只对复杂请求做预检？](https://toutiao.io/k/quomj0f) ![](assets/new.png)  
-- [2022-04-15-推荐-解析分布式系统的缓存设计](https://toutiao.io/k/pucrtli) ![](assets/new.png)  
 - [2022-04-15-推荐-谷歌工程最佳实践](https://toutiao.io/k/q19mmjh) ![](assets/new.png)  
 - [2022-04-15-推荐-系统架构的11条原则](https://toutiao.io/k/xbwjqgj) ![](assets/new.png)  
 - [2022-04-15-推荐-写出结构优雅代码的4个技巧](https://toutiao.io/k/6cddvzi) ![](assets/new.png)  
+- [2022-04-15-推荐-腾讯一面：CORS为什么能保障安全？为什么只对复杂请求做预检？](https://toutiao.io/k/quomj0f) ![](assets/new.png)  
+- [2022-04-15-推荐-解析分布式系统的缓存设计](https://toutiao.io/k/pucrtli) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

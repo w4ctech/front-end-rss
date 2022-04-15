@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-04-15 08:17:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-04-15 08:44:31。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1913,6 +1913,11 @@
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2022-03-21-ascent-override-descent-override-line-gap-override一锅端](https://www.zhangxinxu.com/wordpress/2022/03/css-ascent-override-descent/) 
 - [2022-02-04-HTML-inputmode与iOS-Android软键盘类型测试](https://www.zhangxinxu.com/wordpress/2022/02/html-inputmode-keyboard/) 
+- [2022-04-15-咨询-2.4G-Type-A-接收器改-Type-C](https://www.v2ex.com/t/847173) 
+- [2022-04-15-这两天看某乎心中五味杂陈](https://www.v2ex.com/t/847172) 
+- [2022-04-15-大家的-Windows-系统能正常更新吗？](https://www.v2ex.com/t/847171) 
+- [2022-04-15-不要放弃使用纸币的权力，你还会用现金嘛？](https://www.v2ex.com/t/847170) 
+- [2022-04-15-到了-2022-年，元宇宙家的-messenger-打都打不开](https://www.v2ex.com/t/847169) 
 - [2022-04-15-有啥好用的局域网聊天工具呢（电脑端的）](https://www.v2ex.com/t/847166) 
 - [2022-04-15-北京地铁附近-2-室-1-厅每月租金-1100-元](https://www.v2ex.com/t/847165) 
 - [2022-04-15-为什么在一些关于"AppStore-侧载"的新闻下，总能看到支持侧载的人？](https://www.v2ex.com/t/847162) 
@@ -1937,11 +1942,6 @@
 - [2022-04-15-更新两个联合会员活动～价格还不错！](https://www.v2ex.com/t/847127) 
 - [2022-04-15-换了个红魔-P7，一些高级折腾问题](https://www.v2ex.com/t/847126) 
 - [2022-04-15-Linux-的实时文件同步软件（类似-onedrive）](https://www.v2ex.com/t/847124) 
-- [2022-04-15-安卓-和-iOS-哪个平台通知推送更好？](https://www.v2ex.com/t/847123) 
-- [2022-04-15-工作原因要学-PHP-,请教下最好的-PHP-书籍是哪本?](https://www.v2ex.com/t/847122) 
-- [2022-04-15-现在-Apple-Genius-吧技术水平堪忧](https://www.v2ex.com/t/847121) 
-- [2022-04-15-kvm-里面-n-卡加速可以吗?](https://www.v2ex.com/t/847120) 
-- [2022-04-15-有没有阳台种菜的朋友](https://www.v2ex.com/t/847118) 
 - [2022-04-15-人手必备的常用网络命令合集，吐血整理！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15017&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493888%26amp%3Bidx%3D1%26amp%3Bsn%3D70d3506be895b9f146066d56dfae8b69%26amp%3Bchksm%3Dfa3f085bcd48814dbddbd6eddf6584cd9d9ebb768b37f25529371a625c4d09114bf9e2ea6fba%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-04-15-Java必会的工具库，让你的代码量减少90%-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15016&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493888%26amp%3Bidx%3D2%26amp%3Bsn%3D9f50338e5145bdd585e908e36aa7517d%26amp%3Bchksm%3Dfa3f085bcd48814d7386eb6707d907d58fa0313c300b3f73937f51525a7fc10671193f1557e2%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-04-15-技术主管和项目经理一定要读的6本书！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15015&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493887%26amp%3Bidx%3D1%26amp%3Bsn%3D1a13135d359785dd3c15d90dfaeb95e5%26amp%3Bchksm%3Dfa3f09a4cd4880b2c74c7b234fbfc6033b05283324ce3421d8c7ae3fdbb5039b9a2873874bc5%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1972,6 +1972,6 @@
 - [2022-04-15-Web-框架的替代方案](https://toutiao.io/k/uvj30ph) 
 - [2022-04-15-Kafka-玩出植物大战僵尸即视感：Topic-为什么要分区？](https://toutiao.io/k/j5y1d2z) 
 - [2022-04-15-Apache-IoTDB-在核电站数据展示上的应用](https://toutiao.io/k/o80avm4) 
+- [2022-04-15-推荐-系统架构的11条原则](https://toutiao.io/k/xbwjqgj) 
 - [2022-04-15-推荐-写出结构优雅代码的4个技巧](https://toutiao.io/k/6cddvzi) 
 - [2022-04-15-推荐-谷歌工程最佳实践](https://toutiao.io/k/q19mmjh) 
-- [2022-04-15-推荐-系统架构的11条原则](https://toutiao.io/k/xbwjqgj) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-04-15 06:47:24，:rocket: 更新条数: +2028， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-04-15 07:14:22，:rocket: 更新条数: +2029， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,9 @@
 </summary>
 
 
+- [2022-04-15-最近找工作好难啊](https://www.v2ex.com/t/847153) ![](assets/new.png)  
+- [2022-04-15-Obsidian-图片粘贴/导入重命名插件](https://www.v2ex.com/t/847152) ![](assets/new.png)  
+- [2022-04-15-CSR-真的比-SSR-省服务器算力吗，接口该查数据库该计算不还是要？感觉处理多个接口算力需求比模版渲染还大](https://www.v2ex.com/t/847151) ![](assets/new.png)  
 - [2022-04-15-14-M1-有时候卡死，只能鼠标动，其他的都点不了，有相同的情况吗？](https://www.v2ex.com/t/847150) ![](assets/new.png)  
 - [2022-04-15-mac-有没有办法在菜单栏显示终端命令的运行结果](https://www.v2ex.com/t/847149) ![](assets/new.png)  
 - [2022-04-15-14-M1-音量忽大忽小](https://www.v2ex.com/t/847148) ![](assets/new.png)  
@@ -508,9 +511,6 @@
 - [2022-04-15-AirPods-Max-怎么清洁？](https://www.v2ex.com/t/847130) ![](assets/new.png)  
 - [2022-04-15-Mac-上用什么播放软件看-iptv（m3u8）？](https://www.v2ex.com/t/847129) ![](assets/new.png)  
 - [2022-04-15-《恩库》——数字藏品交易平台招聘啦，团队氛围好、薪资福利好、发展迅速、工作时间自由，-base-上海，接受远程。](https://www.v2ex.com/t/847128) ![](assets/new.png)  
-- [2022-04-15-更新两个联合会员活动～价格还不错！](https://www.v2ex.com/t/847127) ![](assets/new.png)  
-- [2022-04-15-换了个红魔-P7，一些高级折腾问题](https://www.v2ex.com/t/847126) ![](assets/new.png)  
-- [2022-04-15-Linux-的实时文件同步软件（类似-onedrive）](https://www.v2ex.com/t/847124) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -559,17 +559,17 @@
 - [2022-04-15-知识图谱可视化技术在美团的实践与探索](https://toutiao.io/k/f8oloj0) ![](assets/new.png)  
 - [2022-04-15-面试官：手写实现一个-useState](https://toutiao.io/k/f4j8i8m) ![](assets/new.png)  
 - [2022-04-15-技术开发人员如何制定自己的OKR](https://toutiao.io/k/zq8oiet) ![](assets/new.png)  
-- [2022-04-15-全局图优化：提升-MegEngine-模型推理性能的又一神器](https://toutiao.io/k/jusg9lo) ![](assets/new.png)  
 - [2022-04-15-美团实时数仓架构的演进史，千亿级数据根本没在怕的！](https://toutiao.io/k/uk7a2c5) ![](assets/new.png)  
+- [2022-04-15-全局图优化：提升-MegEngine-模型推理性能的又一神器](https://toutiao.io/k/jusg9lo) ![](assets/new.png)  
 - [2022-04-15-Go：gRPC-Gateway-完全指南](https://toutiao.io/k/vcolg8n) ![](assets/new.png)  
 - [2022-04-15-支持多协议多用户的xray面板](https://toutiao.io/k/wze64ut) ![](assets/new.png)  
 - [2022-04-15-中国移动磐舟磐基平台基于KubeEdge的落地实践](https://toutiao.io/k/i1jwzt8) ![](assets/new.png)  
 - [2022-04-15-网易互娱基于-Flink-的支付环境全关联分析实践](https://toutiao.io/k/5s7qbs3) ![](assets/new.png)  
-- [2022-04-15-大咖实战｜Kubernetes自动伸缩实现指南分享](https://toutiao.io/k/l02liv2) ![](assets/new.png)  
 - [2022-04-15-一个-shell-小技巧](https://toutiao.io/k/h9v05jy) ![](assets/new.png)  
+- [2022-04-15-大咖实战｜Kubernetes自动伸缩实现指南分享](https://toutiao.io/k/l02liv2) ![](assets/new.png)  
 - [2022-04-15-玩转-Spring-Boot-应用篇（搭建菜菜的店铺）](https://toutiao.io/k/9on9eug) ![](assets/new.png)  
-- [2022-04-15-独立开发变现周刊（第50期）：写在周刊第50期，各自努力，顶峰相见](https://toutiao.io/k/4qczdvd) ![](assets/new.png)  
 - [2022-04-15-支持中文！秒建-wiki-知识库的开源项目，构建私人知识网络](https://toutiao.io/k/ro6k3sj) ![](assets/new.png)  
+- [2022-04-15-独立开发变现周刊（第50期）：写在周刊第50期，各自努力，顶峰相见](https://toutiao.io/k/4qczdvd) ![](assets/new.png)  
 - [2022-04-15-Web-框架的替代方案](https://toutiao.io/k/uvj30ph) ![](assets/new.png)  
 - [2022-04-15-Kafka-玩出植物大战僵尸即视感：Topic-为什么要分区？](https://toutiao.io/k/j5y1d2z) ![](assets/new.png)  
 - [2022-04-15-Apache-IoTDB-在核电站数据展示上的应用](https://toutiao.io/k/o80avm4) ![](assets/new.png)  

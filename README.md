@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-04-15 08:44:31，:rocket: 更新条数: +2031， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-04-15 09:13:48，:rocket: 更新条数: +2031， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,12 @@
 </summary>
 
 
+- [2022-04-15-程序员如何优雅的过上乡村生活？](https://www.v2ex.com/t/847180) ![](assets/new.png)  
+- [2022-04-15-非实时聊天的网页私信](https://www.v2ex.com/t/847179) ![](assets/new.png)  
+- [2022-04-15-局域网，-MacBook-访问部署在其他机器上的一个-web-应用一直超时，然而用另外的设备访问一点问题也没有，有大佬给点思路吗？](https://www.v2ex.com/t/847178) ![](assets/new.png)  
+- [2022-04-15-还不懂-devops-是什么意思？想上手的千万别错过！](https://www.v2ex.com/t/847177) ![](assets/new.png)  
+- [2022-04-15-ES-数据压缩问题](https://www.v2ex.com/t/847176) ![](assets/new.png)  
+- [2022-04-15-原创-Loop2022-4-自制舞曲-我很菜勿喷](https://www.v2ex.com/t/847174) ![](assets/new.png)  
 - [2022-04-15-咨询-2.4G-Type-A-接收器改-Type-C](https://www.v2ex.com/t/847173) ![](assets/new.png)  
 - [2022-04-15-这两天看某乎心中五味杂陈](https://www.v2ex.com/t/847172) ![](assets/new.png)  
 - [2022-04-15-大家的-Windows-系统能正常更新吗？](https://www.v2ex.com/t/847171) ![](assets/new.png)  
@@ -505,12 +511,6 @@
 - [2022-04-15-结束北漂---转租-8-号线西小口地铁站附近朝西-14.4-平次卧](https://www.v2ex.com/t/847160) ![](assets/new.png)  
 - [2022-04-15-eslint-自定义插件---有大佬帮忙看下吗](https://www.v2ex.com/t/847159) ![](assets/new.png)  
 - [2022-04-15-IstioCon-2022｜「DaoCloud-道客」与你有约](https://www.v2ex.com/t/847158) ![](assets/new.png)  
-- [2022-04-15-flybirds-v0.2-版本发布，一套脚本做-Android、iOS、Web-自动化-UI-测试](https://www.v2ex.com/t/847157) ![](assets/new.png)  
-- [2022-04-15-mysql-转-Oracle-坑坑不断](https://www.v2ex.com/t/847155) ![](assets/new.png)  
-- [2022-04-15-低代码搞了个自动识别健康码和行程码，大佬看看有没有用](https://www.v2ex.com/t/847154) ![](assets/new.png)  
-- [2022-04-15-最近找工作好难啊](https://www.v2ex.com/t/847153) ![](assets/new.png)  
-- [2022-04-15-Obsidian-图片粘贴/导入重命名插件](https://www.v2ex.com/t/847152) ![](assets/new.png)  
-- [2022-04-15-CSR-真的比-SSR-省服务器算力吗，接口该查数据库该计算不还是要？感觉处理多个接口算力需求比模版渲染还大](https://www.v2ex.com/t/847151) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -568,9 +568,9 @@
 - [2022-04-15-一个-shell-小技巧](https://toutiao.io/k/h9v05jy) ![](assets/new.png)  
 - [2022-04-15-独立开发变现周刊（第50期）：写在周刊第50期，各自努力，顶峰相见](https://toutiao.io/k/4qczdvd) ![](assets/new.png)  
 - [2022-04-15-大咖实战｜Kubernetes自动伸缩实现指南分享](https://toutiao.io/k/l02liv2) ![](assets/new.png)  
-- [2022-04-15-玩转-Spring-Boot-应用篇（搭建菜菜的店铺）](https://toutiao.io/k/9on9eug) ![](assets/new.png)  
 - [2022-04-15-支持中文！秒建-wiki-知识库的开源项目，构建私人知识网络](https://toutiao.io/k/ro6k3sj) ![](assets/new.png)  
 - [2022-04-15-Web-框架的替代方案](https://toutiao.io/k/uvj30ph) ![](assets/new.png)  
+- [2022-04-15-玩转-Spring-Boot-应用篇（搭建菜菜的店铺）](https://toutiao.io/k/9on9eug) ![](assets/new.png)  
 - [2022-04-15-Kafka-玩出植物大战僵尸即视感：Topic-为什么要分区？](https://toutiao.io/k/j5y1d2z) ![](assets/new.png)  
 - [2022-04-15-Apache-IoTDB-在核电站数据展示上的应用](https://toutiao.io/k/o80avm4) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)

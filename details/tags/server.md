@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-04-15 16:18:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-04-15 16:58:56。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 服务端相关
 
@@ -7,5 +7,4 @@
 
 
 
-- [2022-04-15-skywalking-支持-grpc-协议吗?](https://www.v2ex.com/t/847211) 
 - [2022-04-15-Go：gRPC-Gateway-完全指南](https://toutiao.io/k/vcolg8n) 

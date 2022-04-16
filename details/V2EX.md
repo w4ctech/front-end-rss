@@ -1,10 +1,14 @@
-:alarm_clock: 更新时间: 2022-04-16 15:13:45。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-04-16 15:41:59。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-04-16-有生之年系列了！用了好久的-Listary6.0beta-版刚刚更新了。](https://www.v2ex.com/t/847412) 
+- [2022-04-16-除了支付宝-微信还有哪些国际主流-app-有小程序这个概念呢？](https://www.v2ex.com/t/847410) 
+- [2022-04-16-Xcode-lldb-po-时候如果输入法中文直接卡死](https://www.v2ex.com/t/847409) 
+- [2022-04-16-macOS-下如何设置-Python-脚本为-magnet-link-的打开方式？](https://www.v2ex.com/t/847407) 
 - [2022-04-16-有可能禁用-iOS-每-3-天左右强制要求输入一次密码的功能吗？-（！请！先！看！完！帖！子！内！容！再！回！复！）](https://www.v2ex.com/t/847406) 
 - [2022-04-16-Airpods-Pro-的占用，-Mac-抢不过-iPhone](https://www.v2ex.com/t/847405) 
 - [2022-04-16-家用机柜如何选择](https://www.v2ex.com/t/847404) 
@@ -41,8 +45,3 @@
 - [2022-04-16-iOS-具时效性通知已经被滥用了](https://www.v2ex.com/t/847367) 
 - [2022-04-16-LotusDB-设计与实现—2-WAL-日志](https://www.v2ex.com/t/847366) 
 - [2022-04-16-M1-PD-虚拟机-安装-centos7-失败](https://www.v2ex.com/t/847364) 
-- [2022-04-16-Proxifier-便携版-Network-Engine-默认设置导致-QQ-群部分功能异常](https://www.v2ex.com/t/847363) 
-- [2022-04-16-严重拖延症患者了算是---距离说要做一个秒杀系统，已经过去-120-天了](https://www.v2ex.com/t/847360) 
-- [2022-04-16-iOS-Chrome-Canvas-诡异特性](https://www.v2ex.com/t/847359) 
-- [2022-04-16-你手中有多少-Made-In-Japan？](https://www.v2ex.com/t/847358) 
-- [2022-04-16-M1-Mac-mini-等等新款还是先买旧款](https://www.v2ex.com/t/847357) 

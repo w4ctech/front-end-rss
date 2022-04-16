@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-04-16 16:54:40。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-04-16 17:15:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1913,6 +1913,8 @@
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2022-03-21-ascent-override-descent-override-line-gap-override一锅端](https://www.zhangxinxu.com/wordpress/2022/03/css-ascent-override-descent/) 
 - [2022-02-04-HTML-inputmode与iOS-Android软键盘类型测试](https://www.zhangxinxu.com/wordpress/2022/02/html-inputmode-keyboard/) 
+- [2022-04-16-美区支付问题请教](https://www.v2ex.com/t/847420) 
+- [2022-04-16-送一个《每日英语听力》app-一个月-VIP-兑换券](https://www.v2ex.com/t/847418) 
 - [2022-04-16-8100-的-U-怎么样呢](https://www.v2ex.com/t/847416) 
 - [2022-04-16-为什么房顶上会掉鱼](https://www.v2ex.com/t/847415) 
 - [2022-04-16-深圳电信链路聚合突破千兆](https://www.v2ex.com/t/847414) 
@@ -1962,5 +1964,5 @@
 - [2022-04-16-优质网站同好者周刊（第-61-期）--倾城之链---悠然宜想亭](https://toutiao.io/k/y74arhr) 
 - [2022-04-16-ClickHouse-为啥在字节跳动能这么火？](https://toutiao.io/k/0rqr0r9) 
 - [2022-04-16-深入理解-HBase-架构](https://toutiao.io/k/fmyr2vc) 
-- [2022-04-16-推荐-系统架构的11条原则](https://toutiao.io/k/xbwjqgj) 
 - [2022-04-16-推荐-谷歌工程最佳实践](https://toutiao.io/k/q19mmjh) 
+- [2022-04-16-推荐-系统架构的11条原则](https://toutiao.io/k/xbwjqgj) 

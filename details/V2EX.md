@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2022-04-16 11:12:31。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-04-16 11:36:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-04-16-GV-号注册的今日头条，无法发短信验证](https://www.v2ex.com/t/847378) 
 - [2022-04-16-绷不住了，-airpods-pro-又搞丢了](https://www.v2ex.com/t/847376) 
 - [2022-04-16-翻出来一台压箱底的-nexus9，即使恢复出厂设置，也仍然卡成翔，为什么呢？](https://www.v2ex.com/t/847375) 
 - [2022-04-16-国内有公司用-iWork-办公吗？](https://www.v2ex.com/t/847374) 

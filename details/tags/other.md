@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-04-16 10:15:31。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-04-16 10:42:29。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1913,6 +1913,7 @@
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2022-03-21-ascent-override-descent-override-line-gap-override一锅端](https://www.zhangxinxu.com/wordpress/2022/03/css-ascent-override-descent/) 
 - [2022-02-04-HTML-inputmode与iOS-Android软键盘类型测试](https://www.zhangxinxu.com/wordpress/2022/02/html-inputmode-keyboard/) 
+- [2022-04-16-QQ-邮箱-关联账号跳转功能挂了](https://www.v2ex.com/t/847371) 
 - [2022-04-16-iOS-具时效性通知已经被滥用了](https://www.v2ex.com/t/847367) 
 - [2022-04-16-LotusDB-设计与实现—2-WAL-日志](https://www.v2ex.com/t/847366) 
 - [2022-04-16-M1-PD-虚拟机-安装-centos7-失败](https://www.v2ex.com/t/847364) 
@@ -1958,5 +1959,5 @@
 - [2022-04-16-ClickHouse-为啥在字节跳动能这么火？](https://toutiao.io/k/0rqr0r9) 
 - [2022-04-16-深入理解-HBase-架构](https://toutiao.io/k/fmyr2vc) 
 - [2022-04-16-大咖云集，星环科技春季新品发布周【数字化转型专题】精彩抢先看](https://toutiao.io/k/zf917u7) 
-- [2022-04-16-推荐-系统架构的11条原则](https://toutiao.io/k/xbwjqgj) 
 - [2022-04-16-推荐-谷歌工程最佳实践](https://toutiao.io/k/q19mmjh) 
+- [2022-04-16-推荐-系统架构的11条原则](https://toutiao.io/k/xbwjqgj) 

@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-04-16 03:10:18。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-04-16 03:48:52。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -242,7 +242,6 @@
 - [【武汉肺炎防疫全纪录(财新网)】广州17岁男生在定点医院参加高考-特殊考场视频监考](https://m.caixin.com/m/2021-06-05/101723418.html)
 - [【武汉肺炎防疫全纪录(财新网)】林郑月娥率13高官直播接种科兴疫苗-复星疫苗预计周中到港](https://m.caixin.com/m/2021-02-22/101665724.html)
 - [【V2EX】基于-ms-tts-实现的在线配音工具，轻松为视频加上逼真的合成音](https://www.v2ex.com/t/847298)
-- [【V2EX】又做了一个-Obsidian-的视频，这次介绍我喜欢的一些插件](https://www.v2ex.com/t/847249)
 - [【开发者头条】短视频内容理解与生成技术在美团的创新实践](https://toutiao.io/k/hu3rp7y)
 - [......【查看更多】......](./details/tags/audio-video.md)
 
@@ -357,6 +356,7 @@
 
 
 
+- [【V2EX】外企/北京-MXPlayer-招聘，多岗位内推](https://www.v2ex.com/t/847306)
 - [......【查看更多】......](./details/tags/job-interview.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

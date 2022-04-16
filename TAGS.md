@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-04-16 08:43:14。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-04-16 09:13:30。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -224,6 +224,7 @@
 
 
 
+- [【V2EX】iOS-Chrome-Canvas-诡异特性](https://www.v2ex.com/t/847359)
 - [......【查看更多】......](./details/tags/canvas-image.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -355,7 +356,6 @@
 
 
 
-- [【V2EX】外企/北京-MXPlayer-招聘，多岗位内推](https://www.v2ex.com/t/847306)
 - [【开发者头条】为什么面试官对“我不会我可以学”不买账？](https://toutiao.io/k/vcx4etb)
 - [......【查看更多】......](./details/tags/job-interview.md)
 

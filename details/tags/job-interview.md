@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-04-16 08:43:14。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-04-16 09:13:30。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -7,5 +7,4 @@
 
 
 
-- [2022-04-16-外企/北京-MXPlayer-招聘，多岗位内推](https://www.v2ex.com/t/847306) 
 - [2022-04-16-为什么面试官对“我不会我可以学”不买账？](https://toutiao.io/k/vcx4etb) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-04-16 05:12:44。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-04-16 05:37:27。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -17,6 +17,5 @@
 - [2022-03-07-介绍8个和滚动相关的CSS属性](https://www.zhangxinxu.com/wordpress/2022/03/10-css-scroll-scrollbar/) 
 - [2022-04-16-如何实现类似-Promise.all-的类型定义](https://www.v2ex.com/t/847296) 
 - [2022-04-16-关于-Python-「多进程」「异步」](https://www.v2ex.com/t/847290) 
-- [2022-04-16-使用jscodeshift做自动化重构-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15004&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fjscodeshift%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-04-16-基于-js-实现一个小型编译器](https://toutiao.io/k/h02g7il) 
 - [2022-04-16-得物AppH5秒开优化实战](https://toutiao.io/k/uphckzc) 

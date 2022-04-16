@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-04-16 07:13:44。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-04-16 07:37:25。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -183,7 +183,6 @@
 - [【张鑫旭-鑫空间-鑫生活】介绍8个和滚动相关的CSS属性](https://www.zhangxinxu.com/wordpress/2022/03/10-css-scroll-scrollbar/)
 - [【V2EX】路由上做透明代理能不能判断请求源？](https://www.v2ex.com/t/847341)
 - [【V2EX】bootstrap-table-回调函数中异步和同步的问题](https://www.v2ex.com/t/847332)
-- [【V2EX】如何实现类似-Promise.all-的类型定义](https://www.v2ex.com/t/847296)
 - [【技术头条】使用jscodeshift做自动化重构-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15004&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fjscodeshift%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【开发者头条】基于-js-实现一个小型编译器](https://toutiao.io/k/h02g7il)
 - [【开发者头条】得物AppH5秒开优化实战](https://toutiao.io/k/uphckzc)

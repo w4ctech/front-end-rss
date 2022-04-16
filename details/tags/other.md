@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-04-16 15:41:59。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-04-16 16:17:47。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1913,6 +1913,8 @@
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2022-03-21-ascent-override-descent-override-line-gap-override一锅端](https://www.zhangxinxu.com/wordpress/2022/03/css-ascent-override-descent/) 
 - [2022-02-04-HTML-inputmode与iOS-Android软键盘类型测试](https://www.zhangxinxu.com/wordpress/2022/02/html-inputmode-keyboard/) 
+- [2022-04-16-为什么房顶上会掉鱼](https://www.v2ex.com/t/847415) 
+- [2022-04-16-深圳电信链路聚合突破千兆](https://www.v2ex.com/t/847414) 
 - [2022-04-16-有生之年系列了！用了好久的-Listary6.0beta-版刚刚更新了。](https://www.v2ex.com/t/847412) 
 - [2022-04-16-Xcode-lldb-po-时候如果输入法中文直接卡死](https://www.v2ex.com/t/847409) 
 - [2022-04-16-macOS-下如何设置-Python-脚本为-magnet-link-的打开方式？](https://www.v2ex.com/t/847407) 
@@ -1920,7 +1922,6 @@
 - [2022-04-16-Airpods-Pro-的占用，-Mac-抢不过-iPhone](https://www.v2ex.com/t/847405) 
 - [2022-04-16-家用机柜如何选择](https://www.v2ex.com/t/847404) 
 - [2022-04-16-k8s-官网竟然有备案，他不是谷歌的东西吗](https://www.v2ex.com/t/847403) 
-- [2022-04-16-今年形势不太好，很多公司都锁-hc-了，裁员的裁员，寒冬真的来了吗？](https://www.v2ex.com/t/847402) 
 - [2022-04-16-Django-部署上线——踩坑-3-天](https://www.v2ex.com/t/847401) 
 - [2022-04-16-centos-rc.local-启动卡住求教](https://www.v2ex.com/t/847400) 
 - [2022-04-16-那些能坚持写-rust-的都是大神吧，能指教一下怎么坚持下来的吗？](https://www.v2ex.com/t/847398) 
@@ -1943,7 +1944,6 @@
 - [2022-04-16-QQ-邮箱-关联账号跳转功能挂了](https://www.v2ex.com/t/847371) 
 - [2022-04-16-iOS-具时效性通知已经被滥用了](https://www.v2ex.com/t/847367) 
 - [2022-04-16-LotusDB-设计与实现—2-WAL-日志](https://www.v2ex.com/t/847366) 
-- [2022-04-16-M1-PD-虚拟机-安装-centos7-失败](https://www.v2ex.com/t/847364) 
 - [2022-04-16-人手必备的常用网络命令合集，吐血整理！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15017&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493888%26amp%3Bidx%3D1%26amp%3Bsn%3D70d3506be895b9f146066d56dfae8b69%26amp%3Bchksm%3Dfa3f085bcd48814dbddbd6eddf6584cd9d9ebb768b37f25529371a625c4d09114bf9e2ea6fba%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-04-16-Java必会的工具库，让你的代码量减少90%-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15016&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493888%26amp%3Bidx%3D2%26amp%3Bsn%3D9f50338e5145bdd585e908e36aa7517d%26amp%3Bchksm%3Dfa3f085bcd48814d7386eb6707d907d58fa0313c300b3f73937f51525a7fc10671193f1557e2%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-04-16-技术主管和项目经理一定要读的6本书！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15015&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493887%26amp%3Bidx%3D1%26amp%3Bsn%3D1a13135d359785dd3c15d90dfaeb95e5%26amp%3Bchksm%3Dfa3f09a4cd4880b2c74c7b234fbfc6033b05283324ce3421d8c7ae3fdbb5039b9a2873874bc5%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

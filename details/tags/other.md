@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-04-17 16:17:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-04-17 16:54:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1913,6 +1913,9 @@
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2022-03-21-ascent-override-descent-override-line-gap-override一锅端](https://www.zhangxinxu.com/wordpress/2022/03/css-ascent-override-descent/) 
 - [2022-02-04-HTML-inputmode与iOS-Android软键盘类型测试](https://www.zhangxinxu.com/wordpress/2022/02/html-inputmode-keyboard/) 
+- [2022-04-17-你们吹的远程控制软件-parsec，给我用崩溃了](https://www.v2ex.com/t/847555) 
+- [2022-04-17-移动访问电信-DDNS-的办法？](https://www.v2ex.com/t/847554) 
+- [2022-04-17-奇怪的-bug：快充无法充电](https://www.v2ex.com/t/847553) 
 - [2022-04-17-CloudCone-复活节彩蛋有人找到了吗？](https://www.v2ex.com/t/847552) 
 - [2022-04-17-解压-windows-下压缩的文件名编码不对，有办法修正吗？](https://www.v2ex.com/t/847550) 
 - [2022-04-17-TF-IDF-提取大数量的文章关键字时如何解决算不动的问题？](https://www.v2ex.com/t/847549) 
@@ -1940,8 +1943,6 @@
 - [2022-04-17-请问，浦西这边哪家超市还正常营业的?](https://www.v2ex.com/t/847512) 
 - [2022-04-17-妙控板能进行拖拽吗？](https://www.v2ex.com/t/847509) 
 - [2022-04-17-在校生想进大厂做开发，简历这样想请教接下来该做什么](https://www.v2ex.com/t/847508) 
-- [2022-04-17-在-syncthing-启动后，为什么局域网内其他机器访问不了](https://www.v2ex.com/t/847505) 
-- [2022-04-17-tf-卡被写保护了，是不是这张卡就废了？](https://www.v2ex.com/t/847504) 
 - [2022-04-17-人手必备的常用网络命令合集，吐血整理！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15017&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493888%26amp%3Bidx%3D1%26amp%3Bsn%3D70d3506be895b9f146066d56dfae8b69%26amp%3Bchksm%3Dfa3f085bcd48814dbddbd6eddf6584cd9d9ebb768b37f25529371a625c4d09114bf9e2ea6fba%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-04-17-Java必会的工具库，让你的代码量减少90%-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15016&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493888%26amp%3Bidx%3D2%26amp%3Bsn%3D9f50338e5145bdd585e908e36aa7517d%26amp%3Bchksm%3Dfa3f085bcd48814d7386eb6707d907d58fa0313c300b3f73937f51525a7fc10671193f1557e2%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-04-17-技术主管和项目经理一定要读的6本书！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15015&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493887%26amp%3Bidx%3D1%26amp%3Bsn%3D1a13135d359785dd3c15d90dfaeb95e5%26amp%3Bchksm%3Dfa3f09a4cd4880b2c74c7b234fbfc6033b05283324ce3421d8c7ae3fdbb5039b9a2873874bc5%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1965,5 +1966,5 @@
 - [2022-04-17-拒绝焦虑，不妨从这份Newsletter开始！](https://toutiao.io/k/6qm1rn2) 
 - [2022-04-17-一文了解NLP领域国内外主要学术组织、会议和论文](https://toutiao.io/k/b3wqna4) 
 - [2022-04-17-一边在大厂一线搬砖、一边操着CTO的心搞开源：一位普通中年程序员的开源十年路](https://toutiao.io/k/98j796s) 
-- [2022-04-17-推荐-系统架构的11条原则](https://toutiao.io/k/xbwjqgj) 
 - [2022-04-17-推荐-谷歌工程最佳实践](https://toutiao.io/k/q19mmjh) 
+- [2022-04-17-推荐-系统架构的11条原则](https://toutiao.io/k/xbwjqgj) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-04-17 23:02:55。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-04-17 23:14:31。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1969,5 +1969,5 @@
 - [2022-04-17-拒绝焦虑，不妨从这份Newsletter开始！](https://toutiao.io/k/6qm1rn2) 
 - [2022-04-17-一文了解NLP领域国内外主要学术组织、会议和论文](https://toutiao.io/k/b3wqna4) 
 - [2022-04-17-一边在大厂一线搬砖、一边操着CTO的心搞开源：一位普通中年程序员的开源十年路](https://toutiao.io/k/98j796s) 
-- [2022-04-17-推荐-谷歌工程最佳实践](https://toutiao.io/k/q19mmjh) 
 - [2022-04-17-推荐-系统架构的11条原则](https://toutiao.io/k/xbwjqgj) 
+- [2022-04-17-推荐-谷歌工程最佳实践](https://toutiao.io/k/q19mmjh) 

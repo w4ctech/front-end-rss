@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-04-17 11:12:07。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-04-17 11:36:45。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,10 @@
 </summary>
 
 
+- [【V2EX】2022-04-17-突然发现-safari-内置网页搜索，可以-OCR-识别图片文字了](https://www.v2ex.com/t/847518) 
+- [【V2EX】2022-04-17-Angular-SSR-多语言的最佳实践（SEO-效果好）是什么？](https://www.v2ex.com/t/847517) 
+- [【V2EX】2022-04-17-网线插不好降速后续：写了个检测工具](https://www.v2ex.com/t/847516) 
+- [【V2EX】2022-04-17-请教关于-testlink-集成-Jira-的问题](https://www.v2ex.com/t/847514) 
 - [【V2EX】2022-04-17-一个服务-A-对接-PC，一个服务-B-对接-APP，部分业务逻辑都差不多，怎么处理这种情况？](https://www.v2ex.com/t/847513) 
 - [【V2EX】2022-04-17-请问，浦西这边哪家超市还正常营业的?](https://www.v2ex.com/t/847512) 
 - [【V2EX】2022-04-17-Windows-Java-/-Python-性能确实拉跨](https://www.v2ex.com/t/847511) 
@@ -100,10 +104,6 @@
 - [【V2EX】2022-04-17-关于网盘下载直链](https://www.v2ex.com/t/847472) 
 - [【V2EX】2022-04-17-Macbook-air-m1-玩文明-6-长时间高温，有没有啥影响？](https://www.v2ex.com/t/847471) 
 - [【V2EX】2022-04-17-金三银四的杭州就业求职怎么样？](https://www.v2ex.com/t/847470) 
-- [【V2EX】2022-04-17-请问-html-添加-icon-导致页面请求两次如果避免呢？](https://www.v2ex.com/t/847467) 
-- [【V2EX】2022-04-17-PHP8-在用户应用层面，提升明显吗？](https://www.v2ex.com/t/847466) 
-- [【V2EX】2022-04-17-Mac-CloudKit-文件夹下-cloudphotod-缓存占用-140G](https://www.v2ex.com/t/847465) 
-- [【V2EX】2022-04-17-做了个对弈小游戏--「阴阳五行转」，欢迎大家体验试玩吐槽](https://www.v2ex.com/t/847464) 
 - [【技术头条】2022-04-17-人手必备的常用网络命令合集，吐血整理！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15017&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493888%26amp%3Bidx%3D1%26amp%3Bsn%3D70d3506be895b9f146066d56dfae8b69%26amp%3Bchksm%3Dfa3f085bcd48814dbddbd6eddf6584cd9d9ebb768b37f25529371a625c4d09114bf9e2ea6fba%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-04-17-Java必会的工具库，让你的代码量减少90%-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15016&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493888%26amp%3Bidx%3D2%26amp%3Bsn%3D9f50338e5145bdd585e908e36aa7517d%26amp%3Bchksm%3Dfa3f085bcd48814d7386eb6707d907d58fa0313c300b3f73937f51525a7fc10671193f1557e2%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-04-17-技术主管和项目经理一定要读的6本书！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15015&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493887%26amp%3Bidx%3D1%26amp%3Bsn%3D1a13135d359785dd3c15d90dfaeb95e5%26amp%3Bchksm%3Dfa3f09a4cd4880b2c74c7b234fbfc6033b05283324ce3421d8c7ae3fdbb5039b9a2873874bc5%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -134,11 +134,11 @@
 - [【开发者头条】2022-04-17-Python脚本打包-exe，auto-py-to-exe来帮你！](https://toutiao.io/k/ov5f8cp) 
 - [【开发者头条】2022-04-17-一文了解NLP领域国内外主要学术组织、会议和论文](https://toutiao.io/k/b3wqna4) 
 - [【开发者头条】2022-04-17-基于-Serverless-架构的头像漫画风处理小程序](https://toutiao.io/k/74vxpdq) 
-- [【开发者头条】2022-04-17-推荐-腾讯一面：CORS为什么能保障安全？为什么只对复杂请求做预检？](https://toutiao.io/k/quomj0f) 
-- [【开发者头条】2022-04-17-推荐-谷歌工程最佳实践](https://toutiao.io/k/q19mmjh) 
-- [【开发者头条】2022-04-17-推荐-9大高性能优化经验总结，强烈建议收藏！！！](https://toutiao.io/k/26za4ep) 
-- [【开发者头条】2022-04-17-推荐-系统架构的11条原则](https://toutiao.io/k/xbwjqgj) 
 - [【开发者头条】2022-04-17-推荐-解析分布式系统的缓存设计](https://toutiao.io/k/pucrtli) 
+- [【开发者头条】2022-04-17-推荐-9大高性能优化经验总结，强烈建议收藏！！！](https://toutiao.io/k/26za4ep) 
+- [【开发者头条】2022-04-17-推荐-谷歌工程最佳实践](https://toutiao.io/k/q19mmjh) 
+- [【开发者头条】2022-04-17-推荐-腾讯一面：CORS为什么能保障安全？为什么只对复杂请求做预检？](https://toutiao.io/k/quomj0f) 
+- [【开发者头条】2022-04-17-推荐-系统架构的11条原则](https://toutiao.io/k/xbwjqgj) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

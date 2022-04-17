@@ -1,10 +1,14 @@
-:alarm_clock: 更新时间: 2022-04-17 11:12:07。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-04-17 11:36:45。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-04-17-突然发现-safari-内置网页搜索，可以-OCR-识别图片文字了](https://www.v2ex.com/t/847518) 
+- [2022-04-17-Angular-SSR-多语言的最佳实践（SEO-效果好）是什么？](https://www.v2ex.com/t/847517) 
+- [2022-04-17-网线插不好降速后续：写了个检测工具](https://www.v2ex.com/t/847516) 
+- [2022-04-17-请教关于-testlink-集成-Jira-的问题](https://www.v2ex.com/t/847514) 
 - [2022-04-17-一个服务-A-对接-PC，一个服务-B-对接-APP，部分业务逻辑都差不多，怎么处理这种情况？](https://www.v2ex.com/t/847513) 
 - [2022-04-17-请问，浦西这边哪家超市还正常营业的?](https://www.v2ex.com/t/847512) 
 - [2022-04-17-Windows-Java-/-Python-性能确实拉跨](https://www.v2ex.com/t/847511) 
@@ -37,7 +41,3 @@
 - [2022-04-17-关于网盘下载直链](https://www.v2ex.com/t/847472) 
 - [2022-04-17-Macbook-air-m1-玩文明-6-长时间高温，有没有啥影响？](https://www.v2ex.com/t/847471) 
 - [2022-04-17-金三银四的杭州就业求职怎么样？](https://www.v2ex.com/t/847470) 
-- [2022-04-17-请问-html-添加-icon-导致页面请求两次如果避免呢？](https://www.v2ex.com/t/847467) 
-- [2022-04-17-PHP8-在用户应用层面，提升明显吗？](https://www.v2ex.com/t/847466) 
-- [2022-04-17-Mac-CloudKit-文件夹下-cloudphotod-缓存占用-140G](https://www.v2ex.com/t/847465) 
-- [2022-04-17-做了个对弈小游戏--「阴阳五行转」，欢迎大家体验试玩吐槽](https://www.v2ex.com/t/847464) 

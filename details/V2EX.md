@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2022-04-17 08:16:45。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-04-17 08:43:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-04-17-多-k8s-环境集群、namespace、以及-deployment-规范命名格式用的什么呢？](https://www.v2ex.com/t/847492) 
+- [2022-04-17-程序员延寿指南（OKR-版）](https://www.v2ex.com/t/847490) 
 - [2022-04-17-如何做一款成功的开源项目](https://www.v2ex.com/t/847488) 
 - [2022-04-17-Bilibili-网页端使用音频模式（Chrome-扩展）](https://www.v2ex.com/t/847487) 
 - [2022-04-17-有无小店铺监控摄像头警报系统推荐？](https://www.v2ex.com/t/847486) 
@@ -36,6 +38,3 @@
 - [2022-04-17-外企-Skyscaner-招聘，多岗位内推---深圳](https://www.v2ex.com/t/847447) 
 - [2022-04-17-代理流量的最佳实践是什么---工具讨论](https://www.v2ex.com/t/847446) 
 - [2022-04-17-到底有没有在-mac-下不延迟掉帧的无线鼠标啊？](https://www.v2ex.com/t/847445) 
-- [2022-04-17-分享一个-165kb-的极简-blog](https://www.v2ex.com/t/847442) 
-- [2022-04-17-有去过华为-od-的么，里面怎么样](https://www.v2ex.com/t/847441) 
-- [2022-04-17-为何-iOS-拼多多异常流畅](https://www.v2ex.com/t/847440) 

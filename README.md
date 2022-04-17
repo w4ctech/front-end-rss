@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-04-17 12:20:56，:rocket: 更新条数: +2018， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-04-17 12:58:43，:rocket: 更新条数: +2018， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,11 @@
 </summary>
 
 
+- [2022-04-17-v-友们，在不得已必须使用公用电脑的前提下，如何有效防范“优盘小偷”这类软件对-U-盘内容的静默拷贝？](https://www.v2ex.com/t/847532) ![](assets/new.png)  
+- [2022-04-17-粤康码小程序链接无法访问，提示-“对不起，此链接已被其他用户访问，你无法访问”-怎么办](https://www.v2ex.com/t/847531) ![](assets/new.png)  
+- [2022-04-17-Heroku-和-GitHub-断交了吗？](https://www.v2ex.com/t/847530) ![](assets/new.png)  
+- [2022-04-17-红米-K40-刷最新-PE-系统后如何-Root？](https://www.v2ex.com/t/847528) ![](assets/new.png)  
+- [2022-04-17-寻求腾讯云部署-Github-仓库项目的正确姿势](https://www.v2ex.com/t/847526) ![](assets/new.png)  
 - [2022-04-17-求推荐好用的安卓（MatePad-paper）PDF-手写软件](https://www.v2ex.com/t/847524) ![](assets/new.png)  
 - [2022-04-17-一定的逆向能力是否对学习-Java-这类虚拟机语言没有什么大的帮助？-C#呢？](https://www.v2ex.com/t/847521) ![](assets/new.png)  
 - [2022-04-17-关于个人结售汇的一些相关问题](https://www.v2ex.com/t/847520) ![](assets/new.png)  
@@ -506,11 +511,6 @@
 - [2022-04-17-在校生想进大厂做开发，简历这样想请教接下来该做什么](https://www.v2ex.com/t/847508) ![](assets/new.png)  
 - [2022-04-17-有大佬招聘吗？深圳。安卓开发或安卓逆向](https://www.v2ex.com/t/847507) ![](assets/new.png)  
 - [2022-04-17-有玩-Web3-和音视频的老哥么？求推荐点-RSS-订阅源~~](https://www.v2ex.com/t/847506) ![](assets/new.png)  
-- [2022-04-17-在-syncthing-启动后，为什么局域网内其他机器访问不了](https://www.v2ex.com/t/847505) ![](assets/new.png)  
-- [2022-04-17-tf-卡被写保护了，是不是这张卡就废了？](https://www.v2ex.com/t/847504) ![](assets/new.png)  
-- [2022-04-17-个人邮件服务讨论-fastmail,-Zoho-etc](https://www.v2ex.com/t/847503) ![](assets/new.png)  
-- [2022-04-17-acf-和-pacf-确定-arima-的-p-q](https://www.v2ex.com/t/847502) ![](assets/new.png)  
-- [2022-04-17-有办法实现云函数在指定位置自动签到码](https://www.v2ex.com/t/847501) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -559,15 +559,15 @@
 - [2022-04-17-实效性与准确性的背后：多系统数据聚合展示](https://toutiao.io/k/24r8p3y) ![](assets/new.png)  
 - [2022-04-17-深入解析-Apache-BookKeeper-系列：第二篇-—-写操作原理](https://toutiao.io/k/orybl5m) ![](assets/new.png)  
 - [2022-04-17-拒绝焦虑，不妨从这份Newsletter开始！](https://toutiao.io/k/6qm1rn2) ![](assets/new.png)  
-- [2022-04-17-一边在大厂一线搬砖、一边操着CTO的心搞开源：一位普通中年程序员的开源十年路](https://toutiao.io/k/98j796s) ![](assets/new.png)  
 - [2022-04-17-Python脚本打包-exe，auto-py-to-exe来帮你！](https://toutiao.io/k/ov5f8cp) ![](assets/new.png)  
+- [2022-04-17-一边在大厂一线搬砖、一边操着CTO的心搞开源：一位普通中年程序员的开源十年路](https://toutiao.io/k/98j796s) ![](assets/new.png)  
 - [2022-04-17-一文了解NLP领域国内外主要学术组织、会议和论文](https://toutiao.io/k/b3wqna4) ![](assets/new.png)  
 - [2022-04-17-基于-Serverless-架构的头像漫画风处理小程序](https://toutiao.io/k/74vxpdq) ![](assets/new.png)  
-- [2022-04-17-推荐-9大高性能优化经验总结，强烈建议收藏！！！](https://toutiao.io/k/26za4ep) ![](assets/new.png)  
-- [2022-04-17-推荐-腾讯一面：CORS为什么能保障安全？为什么只对复杂请求做预检？](https://toutiao.io/k/quomj0f) ![](assets/new.png)  
-- [2022-04-17-推荐-解析分布式系统的缓存设计](https://toutiao.io/k/pucrtli) ![](assets/new.png)  
-- [2022-04-17-推荐-系统架构的11条原则](https://toutiao.io/k/xbwjqgj) ![](assets/new.png)  
 - [2022-04-17-推荐-谷歌工程最佳实践](https://toutiao.io/k/q19mmjh) ![](assets/new.png)  
+- [2022-04-17-推荐-解析分布式系统的缓存设计](https://toutiao.io/k/pucrtli) ![](assets/new.png)  
+- [2022-04-17-推荐-腾讯一面：CORS为什么能保障安全？为什么只对复杂请求做预检？](https://toutiao.io/k/quomj0f) ![](assets/new.png)  
+- [2022-04-17-推荐-9大高性能优化经验总结，强烈建议收藏！！！](https://toutiao.io/k/26za4ep) ![](assets/new.png)  
+- [2022-04-17-推荐-系统架构的11条原则](https://toutiao.io/k/xbwjqgj) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

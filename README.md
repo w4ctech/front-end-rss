@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-04-17 08:43:20，:rocket: 更新条数: +2014， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-04-17 09:13:45，:rocket: 更新条数: +2014， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-04-17-如何配合-multiprocessing-使用-hashlib-来计算多种摘要？](https://www.v2ex.com/t/847496) ![](assets/new.png)  
+- [2022-04-17-有没有代收美刀之类的服务](https://www.v2ex.com/t/847495) ![](assets/new.png)  
 - [2022-04-17-多-k8s-环境集群、namespace、以及-deployment-规范命名格式用的什么呢？](https://www.v2ex.com/t/847492) ![](assets/new.png)  
 - [2022-04-17-程序员延寿指南（OKR-版）](https://www.v2ex.com/t/847490) ![](assets/new.png)  
 - [2022-04-17-如何做一款成功的开源项目](https://www.v2ex.com/t/847488) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-04-17-金三银四的杭州就业求职怎么样？](https://www.v2ex.com/t/847470) ![](assets/new.png)  
 - [2022-04-17-请问-html-添加-icon-导致页面请求两次如果避免呢？](https://www.v2ex.com/t/847467) ![](assets/new.png)  
 - [2022-04-17-PHP8-在用户应用层面，提升明显吗？](https://www.v2ex.com/t/847466) ![](assets/new.png)  
-- [2022-04-17-Mac-CloudKit-文件夹下-cloudphotod-缓存占用-140G](https://www.v2ex.com/t/847465) ![](assets/new.png)  
-- [2022-04-17-做了个对弈小游戏--「阴阳五行转」，欢迎大家体验试玩吐槽](https://www.v2ex.com/t/847464) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -561,13 +561,13 @@
 - [2022-04-17-拒绝焦虑，不妨从这份Newsletter开始！](https://toutiao.io/k/6qm1rn2) ![](assets/new.png)  
 - [2022-04-17-一边在大厂一线搬砖、一边操着CTO的心搞开源：一位普通中年程序员的开源十年路](https://toutiao.io/k/98j796s) ![](assets/new.png)  
 - [2022-04-17-Python脚本打包-exe，auto-py-to-exe来帮你！](https://toutiao.io/k/ov5f8cp) ![](assets/new.png)  
-- [2022-04-17-基于-Serverless-架构的头像漫画风处理小程序](https://toutiao.io/k/74vxpdq) ![](assets/new.png)  
 - [2022-04-17-一文了解NLP领域国内外主要学术组织、会议和论文](https://toutiao.io/k/b3wqna4) ![](assets/new.png)  
+- [2022-04-17-基于-Serverless-架构的头像漫画风处理小程序](https://toutiao.io/k/74vxpdq) ![](assets/new.png)  
 - [2022-04-17-推荐-9大高性能优化经验总结，强烈建议收藏！！！](https://toutiao.io/k/26za4ep) ![](assets/new.png)  
-- [2022-04-17-推荐-腾讯一面：CORS为什么能保障安全？为什么只对复杂请求做预检？](https://toutiao.io/k/quomj0f) ![](assets/new.png)  
-- [2022-04-17-推荐-谷歌工程最佳实践](https://toutiao.io/k/q19mmjh) ![](assets/new.png)  
 - [2022-04-17-推荐-系统架构的11条原则](https://toutiao.io/k/xbwjqgj) ![](assets/new.png)  
+- [2022-04-17-推荐-腾讯一面：CORS为什么能保障安全？为什么只对复杂请求做预检？](https://toutiao.io/k/quomj0f) ![](assets/new.png)  
 - [2022-04-17-推荐-解析分布式系统的缓存设计](https://toutiao.io/k/pucrtli) ![](assets/new.png)  
+- [2022-04-17-推荐-谷歌工程最佳实践](https://toutiao.io/k/q19mmjh) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

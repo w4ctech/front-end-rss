@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-04-17 11:36:45，:rocket: 更新条数: +2017， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-04-17 12:20:56，:rocket: 更新条数: +2018， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,10 @@
 </summary>
 
 
+- [2022-04-17-求推荐好用的安卓（MatePad-paper）PDF-手写软件](https://www.v2ex.com/t/847524) ![](assets/new.png)  
+- [2022-04-17-一定的逆向能力是否对学习-Java-这类虚拟机语言没有什么大的帮助？-C#呢？](https://www.v2ex.com/t/847521) ![](assets/new.png)  
+- [2022-04-17-关于个人结售汇的一些相关问题](https://www.v2ex.com/t/847520) ![](assets/new.png)  
+- [2022-04-17-好奇华为的-watch-gt最早款手表充电器底座的磁力消磁后,还能用它来充电么?](https://www.v2ex.com/t/847519) ![](assets/new.png)  
 - [2022-04-17-突然发现-safari-内置网页搜索，可以-OCR-识别图片文字了](https://www.v2ex.com/t/847518) ![](assets/new.png)  
 - [2022-04-17-Angular-SSR-多语言的最佳实践（SEO-效果好）是什么？](https://www.v2ex.com/t/847517) ![](assets/new.png)  
 - [2022-04-17-网线插不好降速后续：写了个检测工具](https://www.v2ex.com/t/847516) ![](assets/new.png)  
@@ -507,10 +511,6 @@
 - [2022-04-17-个人邮件服务讨论-fastmail,-Zoho-etc](https://www.v2ex.com/t/847503) ![](assets/new.png)  
 - [2022-04-17-acf-和-pacf-确定-arima-的-p-q](https://www.v2ex.com/t/847502) ![](assets/new.png)  
 - [2022-04-17-有办法实现云函数在指定位置自动签到码](https://www.v2ex.com/t/847501) ![](assets/new.png)  
-- [2022-04-17-寻求-U-盘或系统盘文件夹加密-解决方案](https://www.v2ex.com/t/847500) ![](assets/new.png)  
-- [2022-04-17-海鲜市场-Airpods-pro-价格问题](https://www.v2ex.com/t/847497) ![](assets/new.png)  
-- [2022-04-17-如何配合-multiprocessing-使用-hashlib-来计算多种摘要？](https://www.v2ex.com/t/847496) ![](assets/new.png)  
-- [2022-04-17-有没有代收美刀之类的服务](https://www.v2ex.com/t/847495) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -563,11 +563,11 @@
 - [2022-04-17-Python脚本打包-exe，auto-py-to-exe来帮你！](https://toutiao.io/k/ov5f8cp) ![](assets/new.png)  
 - [2022-04-17-一文了解NLP领域国内外主要学术组织、会议和论文](https://toutiao.io/k/b3wqna4) ![](assets/new.png)  
 - [2022-04-17-基于-Serverless-架构的头像漫画风处理小程序](https://toutiao.io/k/74vxpdq) ![](assets/new.png)  
-- [2022-04-17-推荐-解析分布式系统的缓存设计](https://toutiao.io/k/pucrtli) ![](assets/new.png)  
 - [2022-04-17-推荐-9大高性能优化经验总结，强烈建议收藏！！！](https://toutiao.io/k/26za4ep) ![](assets/new.png)  
-- [2022-04-17-推荐-谷歌工程最佳实践](https://toutiao.io/k/q19mmjh) ![](assets/new.png)  
 - [2022-04-17-推荐-腾讯一面：CORS为什么能保障安全？为什么只对复杂请求做预检？](https://toutiao.io/k/quomj0f) ![](assets/new.png)  
+- [2022-04-17-推荐-解析分布式系统的缓存设计](https://toutiao.io/k/pucrtli) ![](assets/new.png)  
 - [2022-04-17-推荐-系统架构的11条原则](https://toutiao.io/k/xbwjqgj) ![](assets/new.png)  
+- [2022-04-17-推荐-谷歌工程最佳实践](https://toutiao.io/k/q19mmjh) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

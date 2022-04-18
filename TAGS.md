@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-04-18 20:15:34。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-04-18 20:40:07。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -282,8 +282,8 @@
 - [【V2EX】请问默认状态下-FastAPI-的-GET-请求超时时间是多少？](https://www.v2ex.com/t/847760)
 - [【V2EX】（二.1）记忆、安全感](https://www.v2ex.com/t/847755)
 - [【V2EX】chrome-油猴等插件，你中过招吗？它的便利性及安全性，你如何权衡？](https://www.v2ex.com/t/847751)
-- [【开发者头条】推荐-解析分布式系统的缓存设计](https://toutiao.io/k/pucrtli)
 - [【开发者头条】推荐-腾讯一面：CORS为什么能保障安全？为什么只对复杂请求做预检？](https://toutiao.io/k/quomj0f)
+- [【开发者头条】推荐-解析分布式系统的缓存设计](https://toutiao.io/k/pucrtli)
 - [......【查看更多】......](./details/tags/browser.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-04-18 19:11:40，:rocket: 更新条数: +2011， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-04-18 19:36:41，:rocket: 更新条数: +2010， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-04-18-尝试通过-Twitter-活跃程度推断欧美程序员一般作息时间失败](https://www.v2ex.com/t/847788) ![](assets/new.png)  
 - [2022-04-18-讨论下副屏显示器选择和-LG-新出的-16:18-的显示器](https://www.v2ex.com/t/847786) ![](assets/new.png)  
 - [2022-04-18-关于-golang-校验框架的问题](https://www.v2ex.com/t/847785) ![](assets/new.png)  
 - [2022-04-18-h2o.ai-这个平台有人使用吗？](https://www.v2ex.com/t/847784) ![](assets/new.png)  
@@ -501,7 +502,6 @@
 - [2022-04-18-FastAPI-使用-sleep-后无法处理并发请求](https://www.v2ex.com/t/847778) ![](assets/new.png)  
 - [2022-04-18-Mac-和-iPhone-放在一起的时候，怎么解决-嘿-Siri-冲突。。](https://www.v2ex.com/t/847777) ![](assets/new.png)  
 - [2022-04-18-G-Suite-如何开启-Stmp](https://www.v2ex.com/t/847774) ![](assets/new.png)  
-- [2022-04-18-谷歌地图公开所有俄罗斯军事设施高分辨率图像](https://www.v2ex.com/t/847773) ![](assets/new.png)  
 - [2022-04-18-写了个-VPS-转-arch-的脚本-麻烦大家有空帮忙测一下兼容性！](https://www.v2ex.com/t/847772) ![](assets/new.png)  
 - [2022-04-18-求助-安装-homebrew-失败](https://www.v2ex.com/t/847770) ![](assets/new.png)  
 - [2022-04-18-股票报价的消息中间件是如何设计的？](https://www.v2ex.com/t/847769) ![](assets/new.png)  
@@ -554,12 +554,12 @@
 
 
 - [2022-04-18-如何获取优质信息？推荐一种高手都在用的方式！](https://toutiao.io/k/5wlqiik) ![](assets/new.png)  
-- [2022-04-18-推荐-技术开发人员如何制定自己的OKR](https://toutiao.io/k/zq8oiet) ![](assets/new.png)  
-- [2022-04-18-推荐-9大高性能优化经验总结，强烈建议收藏！！！](https://toutiao.io/k/26za4ep) ![](assets/new.png)  
 - [2022-04-18-推荐-解析分布式系统的缓存设计](https://toutiao.io/k/pucrtli) ![](assets/new.png)  
 - [2022-04-18-推荐-谷歌工程最佳实践](https://toutiao.io/k/q19mmjh) ![](assets/new.png)  
-- [2022-04-18-推荐-系统架构的11条原则](https://toutiao.io/k/xbwjqgj) ![](assets/new.png)  
+- [2022-04-18-推荐-9大高性能优化经验总结，强烈建议收藏！！！](https://toutiao.io/k/26za4ep) ![](assets/new.png)  
+- [2022-04-18-推荐-技术开发人员如何制定自己的OKR](https://toutiao.io/k/zq8oiet) ![](assets/new.png)  
 - [2022-04-18-推荐-腾讯一面：CORS为什么能保障安全？为什么只对复杂请求做预检？](https://toutiao.io/k/quomj0f) ![](assets/new.png)  
+- [2022-04-18-推荐-系统架构的11条原则](https://toutiao.io/k/xbwjqgj) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

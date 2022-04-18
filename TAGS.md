@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-04-18 05:38:43。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-04-18 06:17:48。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -179,6 +179,7 @@
 - [【武汉肺炎防疫全纪录(财新网)】港府回应一63岁患者死亡事件-暂无法确定与疫苗相关](https://m.caixin.com/m/2021-03-03/101670052.html)
 - [【张鑫旭-鑫空间-鑫生活】基于howler.js写了个音频播放器组件](https://www.zhangxinxu.com/wordpress/2022/03/howler-js-audio-player/)
 - [【张鑫旭-鑫空间-鑫生活】介绍8个和滚动相关的CSS属性](https://www.zhangxinxu.com/wordpress/2022/03/10-css-scroll-scrollbar/)
+- [【V2EX】Rocky-Linux-相关：为什么会提示-This-system-is-not-registered-to-Red-Hat-Insights.](https://www.v2ex.com/t/847651)
 - [【V2EX】openwrt-旁路由获得-IPV6-PD-地址，无法访问除-80-端口外任何端口。](https://www.v2ex.com/t/847630)
 - [【V2EX】web-开发有-Python-的-sanic-的异步框架还有必要转-go-吗](https://www.v2ex.com/t/847614)
 - [【技术头条】使用jscodeshift做自动化重构-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15004&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fjscodeshift%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
@@ -279,6 +280,7 @@
 - [【武汉肺炎防疫全纪录(财新网)】腺病毒新冠疫苗引安全忧虑-康希诺称未发现血栓病例](https://m.caixin.com/m/2021-04-14/101691086.html)
 - [【武汉肺炎防疫全纪录(财新网)】解药|新冠mRNA疫苗安全性有哪些挑战？](https://m.caixin.com/m/2021-01-08/101648043.html)
 - [【武汉肺炎防疫全纪录(财新网)】大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html)
+- [【V2EX】如何用-Python-脚本自动化操作强制-IE+安全控件登录的-gov-网站？](https://www.v2ex.com/t/847655)
 - [【V2EX】为什么-csrf-攻击里，发起攻击的站点能拿到受害站点的-Cookies-呢？](https://www.v2ex.com/t/847635)
 - [【V2EX】Apple-One-Premier-超大杯-加拿大区-4-空位](https://www.v2ex.com/t/847631)
 - [【V2EX】windows-商店上架-APP，咨询一下大家，“隐私策略-URL”如何填写](https://www.v2ex.com/t/847621)
@@ -349,7 +351,6 @@
 
 
 
-- [【V2EX】求前端面试宝典](https://www.v2ex.com/t/847602)
 - [......【查看更多】......](./details/tags/job-interview.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

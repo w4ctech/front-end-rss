@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-04-18 19:36:41。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-04-18 20:15:34。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1913,6 +1913,7 @@
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2022-03-21-ascent-override-descent-override-line-gap-override一锅端](https://www.zhangxinxu.com/wordpress/2022/03/css-ascent-override-descent/) 
 - [2022-02-04-HTML-inputmode与iOS-Android软键盘类型测试](https://www.zhangxinxu.com/wordpress/2022/02/html-inputmode-keyboard/) 
+- [2022-04-18-最近-YouTubeiPhone-和-iPad-被限制在了-480p-是怎么回事](https://www.v2ex.com/t/847789) 
 - [2022-04-18-尝试通过-Twitter-活跃程度推断欧美程序员一般作息时间失败](https://www.v2ex.com/t/847788) 
 - [2022-04-18-讨论下副屏显示器选择和-LG-新出的-16:18-的显示器](https://www.v2ex.com/t/847786) 
 - [2022-04-18-关于-golang-校验框架的问题](https://www.v2ex.com/t/847785) 
@@ -1958,5 +1959,5 @@
 - [2022-04-18-iOS15内置原生壁纸下载-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15000&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493737%26amp%3Bidx%3D1%26amp%3Bsn%3D28fbb298fdbc003e6f95b7cb65ba1b1f%26amp%3Bchksm%3Dfa3f0932cd4880242c12870799f254aee7af16d7107571d6bcc8430af1950331d7d1bc51129a%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-04-18-如何获取优质信息？推荐一种高手都在用的方式！](https://toutiao.io/k/5wlqiik) 
 - [2022-04-18-推荐-谷歌工程最佳实践](https://toutiao.io/k/q19mmjh) 
-- [2022-04-18-推荐-技术开发人员如何制定自己的OKR](https://toutiao.io/k/zq8oiet) 
 - [2022-04-18-推荐-系统架构的11条原则](https://toutiao.io/k/xbwjqgj) 
+- [2022-04-18-推荐-技术开发人员如何制定自己的OKR](https://toutiao.io/k/zq8oiet) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-04-18 22:15:17。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-04-18 22:41:14。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -7,6 +7,7 @@
 
 - [2022-03-21-ascent-override-descent-override-line-gap-override一锅端](https://www.zhangxinxu.com/wordpress/2022/03/css-ascent-override-descent/) 
 - [2022-02-04-HTML-inputmode与iOS-Android软键盘类型测试](https://www.zhangxinxu.com/wordpress/2022/02/html-inputmode-keyboard/) 
+- [2022-04-18-有没有戴上就听不见外界声音的头戴式耳机？](https://www.v2ex.com/t/847792) 
 - [2022-04-18-VooV-Meeting（腾讯会议国际版）Mac-App-Store-版本的问题](https://www.v2ex.com/t/847791) 
 - [2022-04-18-最近-YouTubeiPhone-和-iPad-被限制在了-480p-是怎么回事](https://www.v2ex.com/t/847789) 
 - [2022-04-18-尝试通过-Twitter-活跃程度推断欧美程序员一般作息时间失败](https://www.v2ex.com/t/847788) 
@@ -34,4 +35,3 @@
 - [2022-04-18-今天做个违背祖宗决定-分享-Cloudflare-官方非公-IP-段默认不面向普通用户](https://www.v2ex.com/t/847746) 
 - [2022-04-18-mbp14-完全没货啊，哪里可以买。。](https://www.v2ex.com/t/847745) 
 - [2022-04-18-朋友们，请问有没有做海外市场的流量呢？或者有运营经验的呢？](https://www.v2ex.com/t/847744) 
-- [2022-04-18-wakatime-排行榜前-100-平均每天编码-7+小时，-10-个小时以上的是真的狠~-你平均每天编码多少小时？](https://www.v2ex.com/t/847742) 

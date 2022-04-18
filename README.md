@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-04-18 06:17:48，:rocket: 更新条数: +2038， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-04-18 06:48:43，:rocket: 更新条数: +2036， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,13 @@
 </summary>
 
 
+- [2022-04-18-大陆用户如何注册币安](https://www.v2ex.com/t/847670) ![](assets/new.png)  
+- [2022-04-18-请问下，官方支持-通过-man-访问上级光猫-IP-的路由器都有哪些？](https://www.v2ex.com/t/847669) ![](assets/new.png)  
+- [2022-04-18-chrome-移动端什么水平](https://www.v2ex.com/t/847667) ![](assets/new.png)  
+- [2022-04-18-小白求问，-Navicat-上用-mysql，为啥表里没有的数据，却可以查询出来？](https://www.v2ex.com/t/847666) ![](assets/new.png)  
+- [2022-04-18-图床求推荐](https://www.v2ex.com/t/847665) ![](assets/new.png)  
+- [2022-04-18-.net-core-服务部署在-k8s-集群中，还有必要自己做服务的发现和注册吗](https://www.v2ex.com/t/847663) ![](assets/new.png)  
+- [2022-04-18-杯具了，-21-款-MacbookPro14-电池烧了](https://www.v2ex.com/t/847662) ![](assets/new.png)  
 - [2022-04-18-转租整租-宝安中心-两房一厅带阳台-宝体站-6000-元](https://www.v2ex.com/t/847660) ![](assets/new.png)  
 - [2022-04-18-卡巴提示：无法确保正在建立加密连接的域认证](https://www.v2ex.com/t/847659) ![](assets/new.png)  
 - [2022-04-18-电脑软件更新](https://www.v2ex.com/t/847658) ![](assets/new.png)  
@@ -504,13 +511,6 @@
 - [2022-04-18-租房Base-杭州](https://www.v2ex.com/t/847650) ![](assets/new.png)  
 - [2022-04-18-推荐哪个库写-rust-web-后端代码](https://www.v2ex.com/t/847648) ![](assets/new.png)  
 - [2022-04-18-关于薪资问题](https://www.v2ex.com/t/847647) ![](assets/new.png)  
-- [2022-04-18-我做错了什么会-GitHub-涨关注…](https://www.v2ex.com/t/847645) ![](assets/new.png)  
-- [2022-04-18-学习技术的过程中的顺序安排](https://www.v2ex.com/t/847644) ![](assets/new.png)  
-- [2022-04-18-个人开发的一款隐藏图片、视频、文件的-App，完全去广告，界面简洁，功能强大。](https://www.v2ex.com/t/847643) ![](assets/new.png)  
-- [2022-04-18-继之前修改-leanote-之后，再次迎来更新](https://www.v2ex.com/t/847642) ![](assets/new.png)  
-- [2022-04-18-技术转产品应该注意什么](https://www.v2ex.com/t/847641) ![](assets/new.png)  
-- [2022-04-18-windows-和-Linux-上分别如何做到出站流量转发（重定向）？](https://www.v2ex.com/t/847640) ![](assets/new.png)  
-- [2022-04-18-求教微信登录问题](https://www.v2ex.com/t/847639) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -559,8 +559,8 @@
 - [2022-04-18-关于Go内存架构，一个有趣的问题](https://toutiao.io/k/z6tigh0) ![](assets/new.png)  
 - [2022-04-18-86张脑图，一口气看完-React](https://toutiao.io/k/ow7i83y) ![](assets/new.png)  
 - [2022-04-18-玩转-Spring-Boot-应用篇（解决菜菜店铺商品超卖问题）](https://toutiao.io/k/cikfgfs) ![](assets/new.png)  
-- [2022-04-18-IDEA-Tips：Debug时如何优雅地制造异常？](https://toutiao.io/k/kv32p4a) ![](assets/new.png)  
 - [2022-04-18-「技术人生」第7篇：从业务视角谈信息技术与业务的关系](https://toutiao.io/k/wzjdvuk) ![](assets/new.png)  
+- [2022-04-18-IDEA-Tips：Debug时如何优雅地制造异常？](https://toutiao.io/k/kv32p4a) ![](assets/new.png)  
 - [2022-04-18-软件工程师文档写作最佳实践](https://toutiao.io/k/aksg8he) ![](assets/new.png)  
 - [2022-04-18-PyTorch常用代码段合集](https://toutiao.io/k/evwgjfc) ![](assets/new.png)  
 - [2022-04-18-大型-SaaS-平台产品架构设计](https://toutiao.io/k/ekophem) ![](assets/new.png)  
@@ -568,11 +568,11 @@
 - [2022-04-18-从容器化到资源池化，数栈云原生技术实践探索之路](https://toutiao.io/k/874phr0) ![](assets/new.png)  
 - [2022-04-18-Flink-SQL-双表-JOIN-介绍与原理简析](https://toutiao.io/k/x2pp001) ![](assets/new.png)  
 - [2022-04-18-Spring源码的学习方法和知识地图](https://toutiao.io/k/fhe58uh) ![](assets/new.png)  
-- [2022-04-18-如何"科学地"拟合上海每日汇报的新增人数？](https://toutiao.io/k/k5tir21) ![](assets/new.png)  
 - [2022-04-18-Go能实现AOP吗？](https://toutiao.io/k/ycrgkc7) ![](assets/new.png)  
+- [2022-04-18-如何"科学地"拟合上海每日汇报的新增人数？](https://toutiao.io/k/k5tir21) ![](assets/new.png)  
 - [2022-04-18-设计模式系列——命令模式](https://toutiao.io/k/c82l5s3) ![](assets/new.png)  
 - [2022-04-18-Street-coder-1.2部分](https://toutiao.io/k/xx17c49) ![](assets/new.png)  
-- [2022-04-18-详解-Flink-容器化环境下的-OOM-Killed](https://toutiao.io/k/8554ti0) ![](assets/new.png)  
+- [2022-04-18-为什么-Go-语言能在中国这么火？](https://toutiao.io/k/1r8vzhp) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

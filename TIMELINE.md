@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-04-18 06:17:48。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-04-18 06:48:43。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,13 @@
 </summary>
 
 
+- [【V2EX】2022-04-18-大陆用户如何注册币安](https://www.v2ex.com/t/847670) 
+- [【V2EX】2022-04-18-请问下，官方支持-通过-man-访问上级光猫-IP-的路由器都有哪些？](https://www.v2ex.com/t/847669) 
+- [【V2EX】2022-04-18-chrome-移动端什么水平](https://www.v2ex.com/t/847667) 
+- [【V2EX】2022-04-18-小白求问，-Navicat-上用-mysql，为啥表里没有的数据，却可以查询出来？](https://www.v2ex.com/t/847666) 
+- [【V2EX】2022-04-18-图床求推荐](https://www.v2ex.com/t/847665) 
+- [【V2EX】2022-04-18-.net-core-服务部署在-k8s-集群中，还有必要自己做服务的发现和注册吗](https://www.v2ex.com/t/847663) 
+- [【V2EX】2022-04-18-杯具了，-21-款-MacbookPro14-电池烧了](https://www.v2ex.com/t/847662) 
 - [【V2EX】2022-04-18-转租整租-宝安中心-两房一厅带阳台-宝体站-6000-元](https://www.v2ex.com/t/847660) 
 - [【V2EX】2022-04-18-卡巴提示：无法确保正在建立加密连接的域认证](https://www.v2ex.com/t/847659) 
 - [【V2EX】2022-04-18-电脑软件更新](https://www.v2ex.com/t/847658) 
@@ -105,15 +112,6 @@
 - [【V2EX】2022-04-18-是否有比-shiftscreen-4x-更好用的外接显示器-App](https://www.v2ex.com/t/847623) 
 - [【V2EX】2022-04-18-国区-iCloud-2T➕-Music](https://www.v2ex.com/t/847622) 
 - [【V2EX】2022-04-18-windows-商店上架-APP，咨询一下大家，“隐私策略-URL”如何填写](https://www.v2ex.com/t/847621) 
-- [【V2EX】2022-04-18-为什么我没有回应任何对-luacluster-的质疑？](https://www.v2ex.com/t/847620) 
-- [【V2EX】2022-04-18-网易-UU-加速器折扣](https://www.v2ex.com/t/847619) 
-- [【V2EX】2022-04-18-ios-自动识别短信验证码有时匹配不到-有时点一下会输入两次](https://www.v2ex.com/t/847617) 
-- [【V2EX】2022-04-18-b-站美食频道](https://www.v2ex.com/t/847616) 
-- [【V2EX】2022-04-18-Redis5-集群-ip-问题](https://www.v2ex.com/t/847615) 
-- [【V2EX】2022-04-18-web-开发有-Python-的-sanic-的异步框架还有必要转-go-吗](https://www.v2ex.com/t/847614) 
-- [【V2EX】2022-04-18-奇怪的-IPTV-问题，求指导~](https://www.v2ex.com/t/847613) 
-- [【V2EX】2022-04-18-m1-解决了-macOS-卡顿问题](https://www.v2ex.com/t/847612) 
-- [【V2EX】2022-04-18-我开发的第二个-iOS-App-上架了：囤饭饭，家庭应急食品物资管理](https://www.v2ex.com/t/847611) 
 - [【技术头条】2022-04-18-Routerboard/DR4018L-R-Qualcomm-IPQ4018-2T2R-Dual-Band-2-4GHz-5GHz-support-OpenWRT-802.11ac-Wave-2-www.wallystech.com](https://blogread.cn/news/go.php?idItem=15019&url=https%3A%2F%2Fwww.wallystech.com%2FRouterboard%2FDR4018L-R-Qualcomm-IPQ4018-2T2R-Dual-Band-2-4GHz-5GHz-support-OpenWRT-802.11ac-Wave-2.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-04-18-Routerboard/DR40X9-Qualcomm-IPQ-4019-4029-DUAL-BAND-802.11AC-WAVE2-MU-MIMO-ONBOARD-WIFI-RADIO-EMBEDDED-BOARD-supporting-LTE-www.wallystech.com](https://blogread.cn/news/go.php?idItem=15018&url=https%3A%2F%2Fwww.wallystech.com%2FRouterboard%2FDR40X9-Qualcomm-IPQ-4019-4029-DUAL-BAND-802.11AC-WAVE2-MU-MIMO-ONBOARD-WIFI-RADIO-EMBEDDED-BOARD-supporting-LTE.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-04-18-人手必备的常用网络命令合集，吐血整理！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15017&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493888%26amp%3Bidx%3D1%26amp%3Bsn%3D70d3506be895b9f146066d56dfae8b69%26amp%3Bchksm%3Dfa3f085bcd48814dbddbd6eddf6584cd9d9ebb768b37f25529371a625c4d09114bf9e2ea6fba%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -140,8 +138,8 @@
 - [【开发者头条】2022-04-18-关于Go内存架构，一个有趣的问题](https://toutiao.io/k/z6tigh0) 
 - [【开发者头条】2022-04-18-86张脑图，一口气看完-React](https://toutiao.io/k/ow7i83y) 
 - [【开发者头条】2022-04-18-玩转-Spring-Boot-应用篇（解决菜菜店铺商品超卖问题）](https://toutiao.io/k/cikfgfs) 
-- [【开发者头条】2022-04-18-IDEA-Tips：Debug时如何优雅地制造异常？](https://toutiao.io/k/kv32p4a) 
 - [【开发者头条】2022-04-18-「技术人生」第7篇：从业务视角谈信息技术与业务的关系](https://toutiao.io/k/wzjdvuk) 
+- [【开发者头条】2022-04-18-IDEA-Tips：Debug时如何优雅地制造异常？](https://toutiao.io/k/kv32p4a) 
 - [【开发者头条】2022-04-18-软件工程师文档写作最佳实践](https://toutiao.io/k/aksg8he) 
 - [【开发者头条】2022-04-18-PyTorch常用代码段合集](https://toutiao.io/k/evwgjfc) 
 - [【开发者头条】2022-04-18-大型-SaaS-平台产品架构设计](https://toutiao.io/k/ekophem) 
@@ -149,16 +147,16 @@
 - [【开发者头条】2022-04-18-从容器化到资源池化，数栈云原生技术实践探索之路](https://toutiao.io/k/874phr0) 
 - [【开发者头条】2022-04-18-Flink-SQL-双表-JOIN-介绍与原理简析](https://toutiao.io/k/x2pp001) 
 - [【开发者头条】2022-04-18-Spring源码的学习方法和知识地图](https://toutiao.io/k/fhe58uh) 
-- [【开发者头条】2022-04-18-如何"科学地"拟合上海每日汇报的新增人数？](https://toutiao.io/k/k5tir21) 
 - [【开发者头条】2022-04-18-Go能实现AOP吗？](https://toutiao.io/k/ycrgkc7) 
+- [【开发者头条】2022-04-18-如何"科学地"拟合上海每日汇报的新增人数？](https://toutiao.io/k/k5tir21) 
 - [【开发者头条】2022-04-18-设计模式系列——命令模式](https://toutiao.io/k/c82l5s3) 
 - [【开发者头条】2022-04-18-Street-coder-1.2部分](https://toutiao.io/k/xx17c49) 
-- [【开发者头条】2022-04-18-详解-Flink-容器化环境下的-OOM-Killed](https://toutiao.io/k/8554ti0) 
 - [【开发者头条】2022-04-18-为什么-Go-语言能在中国这么火？](https://toutiao.io/k/1r8vzhp) 
-- [【开发者头条】2022-04-18-推荐-腾讯一面：CORS为什么能保障安全？为什么只对复杂请求做预检？](https://toutiao.io/k/quomj0f) 
-- [【开发者头条】2022-04-18-推荐-解析分布式系统的缓存设计](https://toutiao.io/k/pucrtli) 
+- [【开发者头条】2022-04-18-详解-Flink-容器化环境下的-OOM-Killed](https://toutiao.io/k/8554ti0) 
 - [【开发者头条】2022-04-18-推荐-9大高性能优化经验总结，强烈建议收藏！！！](https://toutiao.io/k/26za4ep) 
 - [【开发者头条】2022-04-18-推荐-系统架构的11条原则](https://toutiao.io/k/xbwjqgj) 
+- [【开发者头条】2022-04-18-推荐-腾讯一面：CORS为什么能保障安全？为什么只对复杂请求做预检？](https://toutiao.io/k/quomj0f) 
+- [【开发者头条】2022-04-18-推荐-解析分布式系统的缓存设计](https://toutiao.io/k/pucrtli) 
 - [【开发者头条】2022-04-18-推荐-谷歌工程最佳实践](https://toutiao.io/k/q19mmjh) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>

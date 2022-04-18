@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-04-18 15:45:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-04-18 16:19:03。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -17,5 +17,4 @@
 - [2022-03-07-介绍8个和滚动相关的CSS属性](https://www.zhangxinxu.com/wordpress/2022/03/10-css-scroll-scrollbar/) 
 - [2022-04-18-VPS-路由测试脚本](https://www.v2ex.com/t/847766) 
 - [2022-04-18-分享下罗技-M557-蓝牙鼠标适配-MacBook-Pro-M1](https://www.v2ex.com/t/847739) 
-- [2022-04-18-你们习惯给每个-component-都建一个独立的目录吗？为什么？](https://www.v2ex.com/t/847730) 
 - [2022-04-18-使用jscodeshift做自动化重构-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15004&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fjscodeshift%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

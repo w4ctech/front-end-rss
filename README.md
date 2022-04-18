@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-04-18 15:45:23，:rocket: 更新条数: +2028， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-04-18 16:19:03，:rocket: 更新条数: +2010， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,9 @@
 </summary>
 
 
+- [2022-04-18-Nginx-反代的百度统计，-IP-全是自己服务器的怎么解决](https://www.v2ex.com/t/847780) ![](assets/new.png)  
+- [2022-04-18-有用过-Fire-TV-Stick-4K-看-netflix-的吗](https://www.v2ex.com/t/847779) ![](assets/new.png)  
+- [2022-04-18-FastAPI-使用-sleep-后无法处理并发请求](https://www.v2ex.com/t/847778) ![](assets/new.png)  
 - [2022-04-18-Mac-和-iPhone-放在一起的时候，怎么解决-嘿-Siri-冲突。。](https://www.v2ex.com/t/847777) ![](assets/new.png)  
 - [2022-04-18-G-Suite-如何开启-Stmp](https://www.v2ex.com/t/847774) ![](assets/new.png)  
 - [2022-04-18-谷歌地图公开所有俄罗斯军事设施高分辨率图像](https://www.v2ex.com/t/847773) ![](assets/new.png)  
@@ -508,9 +511,6 @@
 - [2022-04-18-请问默认状态下-FastAPI-的-GET-请求超时时间是多少？](https://www.v2ex.com/t/847760) ![](assets/new.png)  
 - [2022-04-18-iPhone-上有专门拍月亮的-app-吗，-P-的也可以](https://www.v2ex.com/t/847759) ![](assets/new.png)  
 - [2022-04-18-（二.1）记忆、安全感](https://www.v2ex.com/t/847755) ![](assets/new.png)  
-- [2022-04-18-花钱也不能看-优酷会员观看最新剧集需好友助力](https://www.v2ex.com/t/847752) ![](assets/new.png)  
-- [2022-04-18-chrome-油猴等插件，你中过招吗？它的便利性及安全性，你如何权衡？](https://www.v2ex.com/t/847751) ![](assets/new.png)  
-- [2022-04-18-ikbc-w200mini-开关-6-异常](https://www.v2ex.com/t/847750) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -553,26 +553,13 @@
 </summary>
 
 
-- [2022-04-18-别再说你不懂规则引擎了！](https://toutiao.io/k/edts5o5) ![](assets/new.png)  
-- [2022-04-18-阿里巴巴开源的，帮助你快速搭建本地和云端-IDE-的框架](https://toutiao.io/k/d51049l) ![](assets/new.png)  
-- [2022-04-18-开源消息引擎系统-Kafka-3-新特性](https://toutiao.io/k/s838tzi) ![](assets/new.png)  
-- [2022-04-18-86张脑图，一口气看完-React](https://toutiao.io/k/ow7i83y) ![](assets/new.png)  
-- [2022-04-18-关于Go内存架构，一个有趣的问题](https://toutiao.io/k/z6tigh0) ![](assets/new.png)  
-- [2022-04-18-玩转-Spring-Boot-应用篇（解决菜菜店铺商品超卖问题）](https://toutiao.io/k/cikfgfs) ![](assets/new.png)  
-- [2022-04-18-「技术人生」第7篇：从业务视角谈信息技术与业务的关系](https://toutiao.io/k/wzjdvuk) ![](assets/new.png)  
-- [2022-04-18-软件工程师文档写作最佳实践](https://toutiao.io/k/aksg8he) ![](assets/new.png)  
-- [2022-04-18-大型-SaaS-平台产品架构设计](https://toutiao.io/k/ekophem) ![](assets/new.png)  
-- [2022-04-18-IDEA-Tips：Debug时如何优雅地制造异常？](https://toutiao.io/k/kv32p4a) ![](assets/new.png)  
-- [2022-04-18-Go能实现AOP吗？](https://toutiao.io/k/ycrgkc7) ![](assets/new.png)  
-- [2022-04-18-Spring源码的学习方法和知识地图](https://toutiao.io/k/fhe58uh) ![](assets/new.png)  
-- [2022-04-18-如何"科学地"拟合上海每日汇报的新增人数？](https://toutiao.io/k/k5tir21) ![](assets/new.png)  
-- [2022-04-18-PyTorch常用代码段合集](https://toutiao.io/k/evwgjfc) ![](assets/new.png)  
-- [2022-04-18-从容器化到资源池化，数栈云原生技术实践探索之路](https://toutiao.io/k/874phr0) ![](assets/new.png)  
-- [2022-04-18-Flink-SQL-双表-JOIN-介绍与原理简析](https://toutiao.io/k/x2pp001) ![](assets/new.png)  
-- [2022-04-18-无痕-PS、读得懂文字，OpenAI-的二代-DALL·E-惊艳亮相！](https://toutiao.io/k/fe1qbij) ![](assets/new.png)  
-- [2022-04-18-为什么-Go-语言能在中国这么火？](https://toutiao.io/k/1r8vzhp) ![](assets/new.png)  
-- [2022-04-18-设计模式系列——命令模式](https://toutiao.io/k/c82l5s3) ![](assets/new.png)  
-- [2022-04-18-详解-Flink-容器化环境下的-OOM-Killed](https://toutiao.io/k/8554ti0) ![](assets/new.png)  
+- [2022-04-18-如何获取优质信息？推荐一种高手都在用的方式！](https://toutiao.io/k/5wlqiik) ![](assets/new.png)  
+- [2022-04-18-推荐-系统架构的11条原则](https://toutiao.io/k/xbwjqgj) ![](assets/new.png)  
+- [2022-04-18-推荐-9大高性能优化经验总结，强烈建议收藏！！！](https://toutiao.io/k/26za4ep) ![](assets/new.png)  
+- [2022-04-18-推荐-谷歌工程最佳实践](https://toutiao.io/k/q19mmjh) ![](assets/new.png)  
+- [2022-04-18-推荐-技术开发人员如何制定自己的OKR](https://toutiao.io/k/zq8oiet) ![](assets/new.png)  
+- [2022-04-18-推荐-腾讯一面：CORS为什么能保障安全？为什么只对复杂请求做预检？](https://toutiao.io/k/quomj0f) ![](assets/new.png)  
+- [2022-04-18-推荐-解析分布式系统的缓存设计](https://toutiao.io/k/pucrtli) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

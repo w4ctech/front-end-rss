@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-04-18 07:14:24，:rocket: 更新条数: +2035， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-04-18 07:38:30，:rocket: 更新条数: +2034， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,11 @@
 </summary>
 
 
+- [2022-04-18-关于-MIUI13-NFC-读取公司工卡失败，但-vivo-手机可以的问题](https://www.v2ex.com/t/847687) ![](assets/new.png)  
+- [2022-04-18-对游戏设备的音频有点困惑](https://www.v2ex.com/t/847686) ![](assets/new.png)  
+- [2022-04-18-重制版战网-4-月-29-日开服了，有人开荒么](https://www.v2ex.com/t/847685) ![](assets/new.png)  
+- [2022-04-18-产品鸭周刊Vol.6-我有一个想法，只差个程序员了？](https://www.v2ex.com/t/847683) ![](assets/new.png)  
+- [2022-04-18-苹果开发者账号-邓白氏被占用该怎么重新注册](https://www.v2ex.com/t/847682) ![](assets/new.png)  
 - [2022-04-18-程序员怎么学英语？](https://www.v2ex.com/t/847681) ![](assets/new.png)  
 - [2022-04-18-上海-ebay-上海多岗位热招内推，-WLB](https://www.v2ex.com/t/847679) ![](assets/new.png)  
 - [2022-04-18-nas-持续写入数据后掉盘的问题，有人遇到过吗](https://www.v2ex.com/t/847678) ![](assets/new.png)  
@@ -506,11 +511,6 @@
 - [2022-04-18-小白求问，-Navicat-上用-mysql，为啥表里没有的数据，却可以查询出来？](https://www.v2ex.com/t/847666) ![](assets/new.png)  
 - [2022-04-18-图床求推荐](https://www.v2ex.com/t/847665) ![](assets/new.png)  
 - [2022-04-18-.net-core-服务部署在-k8s-集群中，还有必要自己做服务的发现和注册吗](https://www.v2ex.com/t/847663) ![](assets/new.png)  
-- [2022-04-18-杯具了，-21-款-MacbookPro14-电池烧了](https://www.v2ex.com/t/847662) ![](assets/new.png)  
-- [2022-04-18-转租整租-宝安中心-两房一厅带阳台-宝体站-6000-元](https://www.v2ex.com/t/847660) ![](assets/new.png)  
-- [2022-04-18-卡巴提示：无法确保正在建立加密连接的域认证](https://www.v2ex.com/t/847659) ![](assets/new.png)  
-- [2022-04-18-电脑软件更新](https://www.v2ex.com/t/847658) ![](assets/new.png)  
-- [2022-04-18-前端框架技术选型怎么选？](https://www.v2ex.com/t/847657) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -564,8 +564,8 @@
 - [2022-04-18-软件工程师文档写作最佳实践](https://toutiao.io/k/aksg8he) ![](assets/new.png)  
 - [2022-04-18-大型-SaaS-平台产品架构设计](https://toutiao.io/k/ekophem) ![](assets/new.png)  
 - [2022-04-18-PyTorch常用代码段合集](https://toutiao.io/k/evwgjfc) ![](assets/new.png)  
-- [2022-04-18-无痕-PS、读得懂文字，OpenAI-的二代-DALL·E-惊艳亮相！](https://toutiao.io/k/fe1qbij) ![](assets/new.png)  
 - [2022-04-18-从容器化到资源池化，数栈云原生技术实践探索之路](https://toutiao.io/k/874phr0) ![](assets/new.png)  
+- [2022-04-18-无痕-PS、读得懂文字，OpenAI-的二代-DALL·E-惊艳亮相！](https://toutiao.io/k/fe1qbij) ![](assets/new.png)  
 - [2022-04-18-Flink-SQL-双表-JOIN-介绍与原理简析](https://toutiao.io/k/x2pp001) ![](assets/new.png)  
 - [2022-04-18-Spring源码的学习方法和知识地图](https://toutiao.io/k/fhe58uh) ![](assets/new.png)  
 - [2022-04-18-Go能实现AOP吗？](https://toutiao.io/k/ycrgkc7) ![](assets/new.png)  

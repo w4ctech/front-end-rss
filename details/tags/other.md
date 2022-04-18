@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-04-18 07:14:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-04-18 07:38:30。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1913,6 +1913,10 @@
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2022-03-21-ascent-override-descent-override-line-gap-override一锅端](https://www.zhangxinxu.com/wordpress/2022/03/css-ascent-override-descent/) 
 - [2022-02-04-HTML-inputmode与iOS-Android软键盘类型测试](https://www.zhangxinxu.com/wordpress/2022/02/html-inputmode-keyboard/) 
+- [2022-04-18-关于-MIUI13-NFC-读取公司工卡失败，但-vivo-手机可以的问题](https://www.v2ex.com/t/847687) 
+- [2022-04-18-重制版战网-4-月-29-日开服了，有人开荒么](https://www.v2ex.com/t/847685) 
+- [2022-04-18-产品鸭周刊Vol.6-我有一个想法，只差个程序员了？](https://www.v2ex.com/t/847683) 
+- [2022-04-18-苹果开发者账号-邓白氏被占用该怎么重新注册](https://www.v2ex.com/t/847682) 
 - [2022-04-18-程序员怎么学英语？](https://www.v2ex.com/t/847681) 
 - [2022-04-18-上海-ebay-上海多岗位热招内推，-WLB](https://www.v2ex.com/t/847679) 
 - [2022-04-18-nas-持续写入数据后掉盘的问题，有人遇到过吗](https://www.v2ex.com/t/847678) 
@@ -1942,11 +1946,6 @@
 - [2022-04-18-windows-和-Linux-上分别如何做到出站流量转发（重定向）？](https://www.v2ex.com/t/847640) 
 - [2022-04-18-求教微信登录问题](https://www.v2ex.com/t/847639) 
 - [2022-04-18-macOS-QQ-更新完-UI-臃肿了很多，非常宽，原来极简模式还挺瘦的，现在宽了一大圈，太难受了。](https://www.v2ex.com/t/847638) 
-- [2022-04-18-毛子的-Webmoney-能用国内信用卡充值不？](https://www.v2ex.com/t/847637) 
-- [2022-04-18-逛美团买水果突然想到一个问题](https://www.v2ex.com/t/847636) 
-- [2022-04-18-有些-app-检测到安卓系统被-rooted](https://www.v2ex.com/t/847634) 
-- [2022-04-18-现在显卡便宜了，想买个卡玩玩机器学习，是不是应该买显存大的卡](https://www.v2ex.com/t/847633) 
-- [2022-04-18-BTC-充值-GASH-POINT-的渠道有没](https://www.v2ex.com/t/847632) 
 - [2022-04-18-Routerboard/DR4018L-R-Qualcomm-IPQ4018-2T2R-Dual-Band-2-4GHz-5GHz-support-OpenWRT-802.11ac-Wave-2-www.wallystech.com](https://blogread.cn/news/go.php?idItem=15019&url=https%3A%2F%2Fwww.wallystech.com%2FRouterboard%2FDR4018L-R-Qualcomm-IPQ4018-2T2R-Dual-Band-2-4GHz-5GHz-support-OpenWRT-802.11ac-Wave-2.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-04-18-Routerboard/DR40X9-Qualcomm-IPQ-4019-4029-DUAL-BAND-802.11AC-WAVE2-MU-MIMO-ONBOARD-WIFI-RADIO-EMBEDDED-BOARD-supporting-LTE-www.wallystech.com](https://blogread.cn/news/go.php?idItem=15018&url=https%3A%2F%2Fwww.wallystech.com%2FRouterboard%2FDR40X9-Qualcomm-IPQ-4019-4029-DUAL-BAND-802.11AC-WAVE2-MU-MIMO-ONBOARD-WIFI-RADIO-EMBEDDED-BOARD-supporting-LTE.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-04-18-人手必备的常用网络命令合集，吐血整理！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15017&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493888%26amp%3Bidx%3D1%26amp%3Bsn%3D70d3506be895b9f146066d56dfae8b69%26amp%3Bchksm%3Dfa3f085bcd48814dbddbd6eddf6584cd9d9ebb768b37f25529371a625c4d09114bf9e2ea6fba%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1973,8 +1972,8 @@
 - [2022-04-18-软件工程师文档写作最佳实践](https://toutiao.io/k/aksg8he) 
 - [2022-04-18-大型-SaaS-平台产品架构设计](https://toutiao.io/k/ekophem) 
 - [2022-04-18-PyTorch常用代码段合集](https://toutiao.io/k/evwgjfc) 
-- [2022-04-18-无痕-PS、读得懂文字，OpenAI-的二代-DALL·E-惊艳亮相！](https://toutiao.io/k/fe1qbij) 
 - [2022-04-18-从容器化到资源池化，数栈云原生技术实践探索之路](https://toutiao.io/k/874phr0) 
+- [2022-04-18-无痕-PS、读得懂文字，OpenAI-的二代-DALL·E-惊艳亮相！](https://toutiao.io/k/fe1qbij) 
 - [2022-04-18-Flink-SQL-双表-JOIN-介绍与原理简析](https://toutiao.io/k/x2pp001) 
 - [2022-04-18-Spring源码的学习方法和知识地图](https://toutiao.io/k/fhe58uh) 
 - [2022-04-18-Go能实现AOP吗？](https://toutiao.io/k/ycrgkc7) 

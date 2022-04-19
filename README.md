@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-04-19 12:26:21，:rocket: 更新条数: +2034， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-04-19 13:10:03，:rocket: 更新条数: +2037， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,16 @@
 </summary>
 
 
+- [2022-04-19-工作需要，求推荐个-android-备用机。](https://www.v2ex.com/t/847992) ![](assets/new.png)  
+- [2022-04-19-大家的-Youtube-Vanced-能用吗？](https://www.v2ex.com/t/847991) ![](assets/new.png)  
+- [2022-04-19-开发了一款节气相关的-App](https://www.v2ex.com/t/847989) ![](assets/new.png)  
+- [2022-04-19-请教各位，如何应对讨人厌的用户](https://www.v2ex.com/t/847988) ![](assets/new.png)  
+- [2022-04-19-Go-语言是否能实现-Python-中-importlib-的功能](https://www.v2ex.com/t/847987) ![](assets/new.png)  
+- [2022-04-19-你是什么时候觉得时间过的飞快？](https://www.v2ex.com/t/847986) ![](assets/new.png)  
+- [2022-04-19-Ubuntu-22.04-自带-mptcp-了,有什么好的应用方法吗?](https://www.v2ex.com/t/847985) ![](assets/new.png)  
+- [2022-04-19-电信宽带访问-hk-ip-的-ss，晚上限速了](https://www.v2ex.com/t/847984) ![](assets/new.png)  
+- [2022-04-19-四五线城市，邵阳市一个确诊->整个封城](https://www.v2ex.com/t/847983) ![](assets/new.png)  
+- [2022-04-19-深圳-/-武汉-/-全职字节跳动招聘-前端开发工程师-飞书文档-多维表格](https://www.v2ex.com/t/847982) ![](assets/new.png)  
 - [2022-04-19-酷玩周刊-第-7-期](https://www.v2ex.com/t/847981) ![](assets/new.png)  
 - [2022-04-19-房东直租-未来科技城附近-保亿丽景山-89-平](https://www.v2ex.com/t/847980) ![](assets/new.png)  
 - [2022-04-19-如何在-mac-系统里面安装闲鱼-app？](https://www.v2ex.com/t/847979) ![](assets/new.png)  
@@ -501,16 +511,6 @@
 - [2022-04-19-ubuntu-20.04.4-LTS-安装双系统可能会出现故障](https://www.v2ex.com/t/847972) ![](assets/new.png)  
 - [2022-04-19-开源软件应该怎么推广，让他的-star-数量变的更高，来满足自己的虚荣心和增加业余收入...](https://www.v2ex.com/t/847971) ![](assets/new.png)  
 - [2022-04-19-前天注册的-Apple-id，在-iPhone12-上登录没多久就停用了](https://www.v2ex.com/t/847970) ![](assets/new.png)  
-- [2022-04-19-为了辞退老员工，故意弄个述职会，全都弄不合格，为了规避法律责任说你工作能力不达标](https://www.v2ex.com/t/847969) ![](assets/new.png)  
-- [2022-04-19-GlideIM---Golang-实现的高性能的分布式-IM](https://www.v2ex.com/t/847968) ![](assets/new.png)  
-- [2022-04-19-新款-MBP-屏幕次亮时-A-面明显发热](https://www.v2ex.com/t/847967) ![](assets/new.png)  
-- [2022-04-19-请问有人了解-IDEA-编辑中文时如何根据中文分词进行光标移动控制吗？](https://www.v2ex.com/t/847966) ![](assets/new.png)  
-- [2022-04-19-咨询-m1-涂层脱落现在可以免费更换吗？](https://www.v2ex.com/t/847965) ![](assets/new.png)  
-- [2022-04-19-自己动手实现脚本语言](https://www.v2ex.com/t/847964) ![](assets/new.png)  
-- [2022-04-19-苏州---可远程-招-Android-开发](https://www.v2ex.com/t/847963) ![](assets/new.png)  
-- [2022-04-19-大家说说你们的宽带后缀是什么](https://www.v2ex.com/t/847962) ![](assets/new.png)  
-- [2022-04-19-深圳/西安10K-20K*16-细分行业领头羊平台寻找-Python-开发大咖/自驱者可远程](https://www.v2ex.com/t/847961) ![](assets/new.png)  
-- [2022-04-19-打开一个页面，怎么知道它是-react-写的还是-vue-写的？](https://www.v2ex.com/t/847960) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -560,13 +560,13 @@
 - [2022-04-19-干货-|-Elasticsearch-检索类型选型指南](https://toutiao.io/k/ha9vvux) ![](assets/new.png)  
 - [2022-04-19-哈工大硕士生用Python实现了11种数据降维算法，代码已开源！](https://toutiao.io/k/1mc4jqh) ![](assets/new.png)  
 - [2022-04-19-Code-Review-全面审查清单](https://toutiao.io/k/99eh9es) ![](assets/new.png)  
-- [2022-04-19-全面认识数据指标体系](https://toutiao.io/k/imbw1il) ![](assets/new.png)  
 - [2022-04-19-如何建立高效的质量保障机制](https://toutiao.io/k/vrs53hb) ![](assets/new.png)  
+- [2022-04-19-全面认识数据指标体系](https://toutiao.io/k/imbw1il) ![](assets/new.png)  
 - [2022-04-19-Spring源码里开天辟地的五个Bean，再介绍一个学习方法](https://toutiao.io/k/g5i4opv) ![](assets/new.png)  
 - [2022-04-19-如何从容的应对营销活动奖励发放](https://toutiao.io/k/5vbe9hn) ![](assets/new.png)  
 - [2022-04-19-云原生爱好者周刊：寻找-Netlify-开源替代品](https://toutiao.io/k/1cofy2c) ![](assets/new.png)  
-- [2022-04-19-马里奥制造，Ready~~GO！「GitHub-热点速览」](https://toutiao.io/k/70ltft5) ![](assets/new.png)  
 - [2022-04-19-比-eval-和-iframe-更强的新一代-JavaScript-沙箱！](https://toutiao.io/k/08n78n7) ![](assets/new.png)  
+- [2022-04-19-马里奥制造，Ready~~GO！「GitHub-热点速览」](https://toutiao.io/k/70ltft5) ![](assets/new.png)  
 - [2022-04-19-实在买不到菜，写了一个抢菜的自动化插件](https://toutiao.io/k/2q4uedx) ![](assets/new.png)  
 - [2022-04-19-跨国大公司的正反两面——高科技人才在跨国大公司的生存之道（一）](https://toutiao.io/k/6tmgqd0) ![](assets/new.png)  
 - [2022-04-19-【TS】1294--搞懂-TypeScript-中的映射类型（Mapped-Types）](https://toutiao.io/k/dywxty7) ![](assets/new.png)  

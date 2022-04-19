@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-04-19 05:44:06，:rocket: 更新条数: +2031， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-04-19 06:17:41，:rocket: 更新条数: +2033， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,11 +491,14 @@
 </summary>
 
 
+- [2022-04-19-求问内存条混插有多大影响](https://www.v2ex.com/t/847886) ![](assets/new.png)  
+- [2022-04-19-关于使用教程的录制方案](https://www.v2ex.com/t/847885) ![](assets/new.png)  
+- [2022-04-19-东莞10K-20K前端/-Java-/安卓高级开发工程师数名](https://www.v2ex.com/t/847884) ![](assets/new.png)  
+- [2022-04-19-安卓邮箱-app，有可以查看密码的吗](https://www.v2ex.com/t/847883) ![](assets/new.png)  
+- [2022-04-19-请问这种函数调用树状图是怎么画的？](https://www.v2ex.com/t/847880) ![](assets/new.png)  
 - [2022-04-19-lsd---一个现代的-ls-工具](https://www.v2ex.com/t/847879) ![](assets/new.png)  
 - [2022-04-19-新人学-Python-爬虫，用了-BS4，目前只会爬取具体的-url，求问如何爬取整个页面呢或者是某个日期呢](https://www.v2ex.com/t/847878) ![](assets/new.png)  
 - [2022-04-19-腾讯云有个五十块钱的券，有什么好买的吗](https://www.v2ex.com/t/847876) ![](assets/new.png)  
-- [2022-04-19-测试-MD](https://www.v2ex.com/t/847874) ![](assets/new.png)  
-- [2022-04-19-是不是应该回村儿了？](https://www.v2ex.com/t/847873) ![](assets/new.png)  
 - [2022-04-19-Chrome-设置-搜索引擎-网站搜索，是否有人整理过可用的格式？](https://www.v2ex.com/t/847872) ![](assets/new.png)  
 - [2022-04-19-付费-蒙特利尔找人带个-15.6-寸的笔记本电脑回国，大概-2kg](https://www.v2ex.com/t/847871) ![](assets/new.png)  
 - [2022-04-19-承认平庸，接受平庸，但我要变强](https://www.v2ex.com/t/847870) ![](assets/new.png)  
@@ -507,10 +510,7 @@
 - [2022-04-19-VSCode-Terminal-独立-APP](https://www.v2ex.com/t/847864) ![](assets/new.png)  
 - [2022-04-19-网关将请求转发到外部时，需要过滤敏感请求头，若不过滤，请求头泄露了，会造成什么影响吗？](https://www.v2ex.com/t/847863) ![](assets/new.png)  
 - [2022-04-19-问个生活上的问题，鞋子刷完比较湿，怎么办](https://www.v2ex.com/t/847861) ![](assets/new.png)  
-- [2022-04-19-求教运维大佬怎么维护公司服务器和项目的](https://www.v2ex.com/t/847860) ![](assets/new.png)  
 - [2022-04-19-能去三甲就去三甲医院。](https://www.v2ex.com/t/847859) ![](assets/new.png)  
-- [2022-04-19-（二.2）意象、认同与成为](https://www.v2ex.com/t/847856) ![](assets/new.png)  
-- [2022-04-19-外地工作身边没有家属如何就医](https://www.v2ex.com/t/847855) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -561,18 +561,18 @@
 - [2022-04-19-哈工大硕士生用Python实现了11种数据降维算法，代码已开源！](https://toutiao.io/k/1mc4jqh) ![](assets/new.png)  
 - [2022-04-19-全面认识数据指标体系](https://toutiao.io/k/imbw1il) ![](assets/new.png)  
 - [2022-04-19-Code-Review-全面审查清单](https://toutiao.io/k/99eh9es) ![](assets/new.png)  
-- [2022-04-19-云原生爱好者周刊：寻找-Netlify-开源替代品](https://toutiao.io/k/1cofy2c) ![](assets/new.png)  
 - [2022-04-19-如何建立高效的质量保障机制](https://toutiao.io/k/vrs53hb) ![](assets/new.png)  
+- [2022-04-19-云原生爱好者周刊：寻找-Netlify-开源替代品](https://toutiao.io/k/1cofy2c) ![](assets/new.png)  
 - [2022-04-19-如何从容的应对营销活动奖励发放](https://toutiao.io/k/5vbe9hn) ![](assets/new.png)  
-- [2022-04-19-实在买不到菜，写了一个抢菜的自动化插件](https://toutiao.io/k/2q4uedx) ![](assets/new.png)  
 - [2022-04-19-比-eval-和-iframe-更强的新一代-JavaScript-沙箱！](https://toutiao.io/k/08n78n7) ![](assets/new.png)  
+- [2022-04-19-实在买不到菜，写了一个抢菜的自动化插件](https://toutiao.io/k/2q4uedx) ![](assets/new.png)  
 - [2022-04-19-马里奥制造，Ready~~GO！「GitHub-热点速览」](https://toutiao.io/k/70ltft5) ![](assets/new.png)  
 - [2022-04-19-跨国大公司的正反两面——高科技人才在跨国大公司的生存之道（一）](https://toutiao.io/k/6tmgqd0) ![](assets/new.png)  
 - [2022-04-19-【TS】1294--搞懂-TypeScript-中的映射类型（Mapped-Types）](https://toutiao.io/k/dywxty7) ![](assets/new.png)  
-- [2022-04-19-推荐-系统架构的11条原则](https://toutiao.io/k/xbwjqgj) ![](assets/new.png)  
-- [2022-04-19-推荐-腾讯一面：CORS为什么能保障安全？为什么只对复杂请求做预检？](https://toutiao.io/k/quomj0f) ![](assets/new.png)  
-- [2022-04-19-推荐-谷歌工程最佳实践](https://toutiao.io/k/q19mmjh) ![](assets/new.png)  
-- [2022-04-19-推荐-技术开发人员如何制定自己的OKR](https://toutiao.io/k/zq8oiet) ![](assets/new.png)  
+- [2022-04-19-Spring源码里开天辟地的五个Bean，再介绍一个学习方法](https://toutiao.io/k/g5i4opv) ![](assets/new.png)  
+- [2022-04-19-设计模式系列——模板方法](https://toutiao.io/k/4w3iwhs) ![](assets/new.png)  
+- [2022-04-19-聊聊如何将数据同步到apollo配置中心](https://toutiao.io/k/4e0msfx) ![](assets/new.png)  
+- [2022-04-19-阿里云容器如何实现-1000Pod/min-一键启动](https://toutiao.io/k/pcvpx9u) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

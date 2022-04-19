@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-04-19 05:03:28。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-04-19 05:44:06。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,12 @@
 </summary>
 
 
+- [【V2EX】2022-04-19-lsd---一个现代的-ls-工具](https://www.v2ex.com/t/847879) 
+- [【V2EX】2022-04-19-新人学-Python-爬虫，用了-BS4，目前只会爬取具体的-url，求问如何爬取整个页面呢或者是某个日期呢](https://www.v2ex.com/t/847878) 
+- [【V2EX】2022-04-19-腾讯云有个五十块钱的券，有什么好买的吗](https://www.v2ex.com/t/847876) 
+- [【V2EX】2022-04-19-测试-MD](https://www.v2ex.com/t/847874) 
+- [【V2EX】2022-04-19-是不是应该回村儿了？](https://www.v2ex.com/t/847873) 
+- [【V2EX】2022-04-19-Chrome-设置-搜索引擎-网站搜索，是否有人整理过可用的格式？](https://www.v2ex.com/t/847872) 
 - [【V2EX】2022-04-19-付费-蒙特利尔找人带个-15.6-寸的笔记本电脑回国，大概-2kg](https://www.v2ex.com/t/847871) 
 - [【V2EX】2022-04-19-承认平庸，接受平庸，但我要变强](https://www.v2ex.com/t/847870) 
 - [【V2EX】2022-04-19-能实现泛域名到泛域名的反向代理吗](https://www.v2ex.com/t/847869) 
@@ -104,13 +110,6 @@
 - [【V2EX】2022-04-19-不懂就问，-AppleCare+降价后旧协议适用新价格吗？](https://www.v2ex.com/t/847833) 
 - [【V2EX】2022-04-19-论坛里有兄弟买过网易-3D-人体工学椅吗?体验感觉咋样?](https://www.v2ex.com/t/847832) 
 - [【V2EX】2022-04-19-现在的大环境，是买房的好时机吗？](https://www.v2ex.com/t/847830) 
-- [【V2EX】2022-04-19-人在国内，如何申请一张国外的信用卡，进行消费？](https://www.v2ex.com/t/847829) 
-- [【V2EX】2022-04-19-借钱给朋友做公司流水是否有什么法律风险](https://www.v2ex.com/t/847828) 
-- [【V2EX】2022-04-19-日元汇率-20-年最低了](https://www.v2ex.com/t/847826) 
-- [【V2EX】2022-04-19-新加坡-算法/大数据开发/安全/研发岗位开放中，-P6-P9，大中型互联网公司。详情请微信咨询-happierenee](https://www.v2ex.com/t/847825) 
-- [【V2EX】2022-04-19-求助，国内华为手机如何使用-Google-play-里的应用](https://www.v2ex.com/t/847824) 
-- [【V2EX】2022-04-19-smarttool-展示的-Power-On-Hours-很诡异](https://www.v2ex.com/t/847823) 
-- [【V2EX】2022-04-19-长期帖求分享歌单/歌手](https://www.v2ex.com/t/847822) 
 - [【技术头条】2022-04-19-IPQ6018-802.11ax-2x2-2.4GHz&5GHz-802.11ax-2x2-2.4G&5G-1xM.2-E-key-Sample-price:200USD/pcs-www.wallystech.com](https://blogread.cn/news/go.php?idItem=15020&url=https%3A%2F%2Fwww.wallystech.com%2FRouterboard%2FDR6018-CP01-wifi6-Qualcomm-IPQ6010-IPQ6018-FAMILY-2T2R-2.5G-ETH-port-CP01-802-11AX-MU-MIMO-OFDMA.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-04-19-Routerboard/DR4018L-R-Qualcomm-IPQ4018-2T2R-Dual-Band-2-4GHz-5GHz-support-OpenWRT-802.11ac-Wave-2-www.wallystech.com](https://blogread.cn/news/go.php?idItem=15019&url=https%3A%2F%2Fwww.wallystech.com%2FRouterboard%2FDR4018L-R-Qualcomm-IPQ4018-2T2R-Dual-Band-2-4GHz-5GHz-support-OpenWRT-802.11ac-Wave-2.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-04-19-Routerboard/DR40X9-Qualcomm-IPQ-4019-4029-DUAL-BAND-802.11AC-WAVE2-MU-MIMO-ONBOARD-WIFI-RADIO-EMBEDDED-BOARD-supporting-LTE-www.wallystech.com](https://blogread.cn/news/go.php?idItem=15018&url=https%3A%2F%2Fwww.wallystech.com%2FRouterboard%2FDR40X9-Qualcomm-IPQ-4019-4029-DUAL-BAND-802.11AC-WAVE2-MU-MIMO-ONBOARD-WIFI-RADIO-EMBEDDED-BOARD-supporting-LTE.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -138,22 +137,21 @@
 - [【开发者头条】2022-04-19-干货-|-Elasticsearch-检索类型选型指南](https://toutiao.io/k/ha9vvux) 
 - [【开发者头条】2022-04-19-哈工大硕士生用Python实现了11种数据降维算法，代码已开源！](https://toutiao.io/k/1mc4jqh) 
 - [【开发者头条】2022-04-19-全面认识数据指标体系](https://toutiao.io/k/imbw1il) 
-- [【开发者头条】2022-04-19-云原生爱好者周刊：寻找-Netlify-开源替代品](https://toutiao.io/k/1cofy2c) 
-- [【开发者头条】2022-04-19-如何从容的应对营销活动奖励发放](https://toutiao.io/k/5vbe9hn) 
 - [【开发者头条】2022-04-19-Code-Review-全面审查清单](https://toutiao.io/k/99eh9es) 
+- [【开发者头条】2022-04-19-云原生爱好者周刊：寻找-Netlify-开源替代品](https://toutiao.io/k/1cofy2c) 
 - [【开发者头条】2022-04-19-如何建立高效的质量保障机制](https://toutiao.io/k/vrs53hb) 
-- [【开发者头条】2022-04-19-竟然有一半的人不知道-for-与-foreach-的区别？？？](https://toutiao.io/k/iabg3c1) 
+- [【开发者头条】2022-04-19-如何从容的应对营销活动奖励发放](https://toutiao.io/k/5vbe9hn) 
 - [【开发者头条】2022-04-19-实在买不到菜，写了一个抢菜的自动化插件](https://toutiao.io/k/2q4uedx) 
 - [【开发者头条】2022-04-19-比-eval-和-iframe-更强的新一代-JavaScript-沙箱！](https://toutiao.io/k/08n78n7) 
 - [【开发者头条】2022-04-19-马里奥制造，Ready~~GO！「GitHub-热点速览」](https://toutiao.io/k/70ltft5) 
 - [【开发者头条】2022-04-19-跨国大公司的正反两面——高科技人才在跨国大公司的生存之道（一）](https://toutiao.io/k/6tmgqd0) 
 - [【开发者头条】2022-04-19-【TS】1294--搞懂-TypeScript-中的映射类型（Mapped-Types）](https://toutiao.io/k/dywxty7) 
+- [【开发者头条】2022-04-19-推荐-系统架构的11条原则](https://toutiao.io/k/xbwjqgj) 
 - [【开发者头条】2022-04-19-推荐-腾讯一面：CORS为什么能保障安全？为什么只对复杂请求做预检？](https://toutiao.io/k/quomj0f) 
-- [【开发者头条】2022-04-19-推荐-万字长文，教你用go开发区块链应用](https://toutiao.io/k/3f3i7ey) 
 - [【开发者头条】2022-04-19-推荐-谷歌工程最佳实践](https://toutiao.io/k/q19mmjh) 
 - [【开发者头条】2022-04-19-推荐-技术开发人员如何制定自己的OKR](https://toutiao.io/k/zq8oiet) 
 - [【开发者头条】2022-04-19-推荐-解析分布式系统的缓存设计](https://toutiao.io/k/pucrtli) 
-- [【开发者头条】2022-04-19-推荐-系统架构的11条原则](https://toutiao.io/k/xbwjqgj) 
+- [【开发者头条】2022-04-19-推荐-万字长文，教你用go开发区块链应用](https://toutiao.io/k/3f3i7ey) 
 - [【开发者头条】2022-04-19-推荐-9大高性能优化经验总结，强烈建议收藏！！！](https://toutiao.io/k/26za4ep) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>

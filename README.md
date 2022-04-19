@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-04-19 01:06:22，:rocket: 更新条数: +2018， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-04-19 03:13:06，:rocket: 更新条数: +2032， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,26 +491,26 @@
 </summary>
 
 
-- [2022-04-19-M1-Ultra-Mac-Studio-剪专业视频还是不行](https://www.v2ex.com/t/847800) ![](assets/new.png)  
-- [2022-04-19-关于使用油猴-V2EX-Pro-时图片过宽或过窄的适配问题优化。](https://www.v2ex.com/t/847799) ![](assets/new.png)  
-- [2022-04-19-分层架构，经典却很难做好](https://www.v2ex.com/t/847798) ![](assets/new.png)  
-- [2022-04-19-我写的-Kafka-GUI-客户端，不来试试吗](https://www.v2ex.com/t/847796) ![](assets/new.png)  
-- [2022-04-18-stdout-和-stderr-两个流的区别是啥？](https://www.v2ex.com/t/847794) ![](assets/new.png)  
-- [2022-04-18-消费级-3D-打印机-AnkerMake-M5-正在-Kickstart-上众筹](https://www.v2ex.com/t/847793) ![](assets/new.png)  
-- [2022-04-18-有没有戴上就听不见外界声音的头戴式耳机？](https://www.v2ex.com/t/847792) ![](assets/new.png)  
-- [2022-04-18-VooV-Meeting（腾讯会议国际版）Mac-App-Store-版本的问题](https://www.v2ex.com/t/847791) ![](assets/new.png)  
-- [2022-04-18-如何在-swiftui-中从-wkwebview-中获取-cookie-和-csrftoken?](https://www.v2ex.com/t/847790) ![](assets/new.png)  
-- [2022-04-18-最近-YouTubeiPhone-和-iPad-被限制在了-480p-是怎么回事](https://www.v2ex.com/t/847789) ![](assets/new.png)  
-- [2022-04-18-尝试通过-Twitter-活跃程度推断欧美程序员一般作息时间失败](https://www.v2ex.com/t/847788) ![](assets/new.png)  
-- [2022-04-18-讨论下副屏显示器选择和-LG-新出的-16:18-的显示器](https://www.v2ex.com/t/847786) ![](assets/new.png)  
-- [2022-04-18-关于-golang-校验框架的问题](https://www.v2ex.com/t/847785) ![](assets/new.png)  
-- [2022-04-18-h2o.ai-这个平台有人使用吗？](https://www.v2ex.com/t/847784) ![](assets/new.png)  
-- [2022-04-18-一道全序列排序的算法题求算法](https://www.v2ex.com/t/847783) ![](assets/new.png)  
-- [2022-04-18-30-天快速掌握井柏然式东北话](https://www.v2ex.com/t/847781) ![](assets/new.png)  
-- [2022-04-18-Nginx-反代的百度统计，-IP-全是自己服务器的怎么解决](https://www.v2ex.com/t/847780) ![](assets/new.png)  
-- [2022-04-18-有用过-Fire-TV-Stick-4K-看-netflix-的吗](https://www.v2ex.com/t/847779) ![](assets/new.png)  
-- [2022-04-18-FastAPI-使用-sleep-后无法处理并发请求](https://www.v2ex.com/t/847778) ![](assets/new.png)  
-- [2022-04-18-Mac-和-iPhone-放在一起的时候，怎么解决-嘿-Siri-冲突。。](https://www.v2ex.com/t/847777) ![](assets/new.png)  
+- [2022-04-19-体验了一下日本的软考](https://www.v2ex.com/t/847848) ![](assets/new.png)  
+- [2022-04-19-Windows-Terminal-+-Git-Bash-是我在-Windows-上用过的最舒服的命令行环境组合](https://www.v2ex.com/t/847847) ![](assets/new.png)  
+- [2022-04-19-坐标浙江嘉兴，新装宽带电信-or-联通？](https://www.v2ex.com/t/847846) ![](assets/new.png)  
+- [2022-04-19-有没有类似的-PythonPyMongoMongoDB-的教程文档](https://www.v2ex.com/t/847845) ![](assets/new.png)  
+- [2022-04-19-apple-tv-监控或猫眼画中画支持](https://www.v2ex.com/t/847844) ![](assets/new.png)  
+- [2022-04-19-是的-无追现在匿名搜索突破-600-万次了。](https://www.v2ex.com/t/847842) ![](assets/new.png)  
+- [2022-04-19-想把-ac86u-换掉-,-老铁们有何推荐?](https://www.v2ex.com/t/847841) ![](assets/new.png)  
+- [2022-04-19-有多少人接受了自己平庸的?](https://www.v2ex.com/t/847840) ![](assets/new.png)  
+- [2022-04-19-auto-sleep-感觉挺神奇](https://www.v2ex.com/t/847839) ![](assets/new.png)  
+- [2022-04-19-Ubuntu-22.04-,刚装没几天,桌面卡死-2-次....](https://www.v2ex.com/t/847838) ![](assets/new.png)  
+- [2022-04-19-租-30-年房子，存下的钱够回老家修个小房子养老吗](https://www.v2ex.com/t/847837) ![](assets/new.png)  
+- [2022-04-19-Ruby-工程师/全职/远程/30-60-万](https://www.v2ex.com/t/847836) ![](assets/new.png)  
+- [2022-04-19-内容触发了什么样的关键词-会被-ban](https://www.v2ex.com/t/847835) ![](assets/new.png)  
+- [2022-04-19-北京联通免费领取-2-个月千兆提速包](https://www.v2ex.com/t/847834) ![](assets/new.png)  
+- [2022-04-19-不懂就问，-AppleCare+降价后旧协议适用新价格吗？](https://www.v2ex.com/t/847833) ![](assets/new.png)  
+- [2022-04-19-论坛里有兄弟买过网易-3D-人体工学椅吗?体验感觉咋样?](https://www.v2ex.com/t/847832) ![](assets/new.png)  
+- [2022-04-19-现在的大环境，是买房的好时机吗？](https://www.v2ex.com/t/847830) ![](assets/new.png)  
+- [2022-04-19-人在国内，如何申请一张国外的信用卡，进行消费？](https://www.v2ex.com/t/847829) ![](assets/new.png)  
+- [2022-04-19-借钱给朋友做公司流水是否有什么法律风险](https://www.v2ex.com/t/847828) ![](assets/new.png)  
+- [2022-04-19-日元汇率-20-年最低了](https://www.v2ex.com/t/847826) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -522,6 +522,7 @@
 </summary>
 
 
+- [2022-04-19-IPQ6018-802.11ax-2x2-2.4GHz&5GHz-802.11ax-2x2-2.4G&5G-1xM.2-E-key-Sample-price:200USD/pcs-www.wallystech.com](https://blogread.cn/news/go.php?idItem=15020&url=https%3A%2F%2Fwww.wallystech.com%2FRouterboard%2FDR6018-CP01-wifi6-Qualcomm-IPQ6010-IPQ6018-FAMILY-2T2R-2.5G-ETH-port-CP01-802-11AX-MU-MIMO-OFDMA.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-04-19-Routerboard/DR4018L-R-Qualcomm-IPQ4018-2T2R-Dual-Band-2-4GHz-5GHz-support-OpenWRT-802.11ac-Wave-2-www.wallystech.com](https://blogread.cn/news/go.php?idItem=15019&url=https%3A%2F%2Fwww.wallystech.com%2FRouterboard%2FDR4018L-R-Qualcomm-IPQ4018-2T2R-Dual-Band-2-4GHz-5GHz-support-OpenWRT-802.11ac-Wave-2.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-04-19-Routerboard/DR40X9-Qualcomm-IPQ-4019-4029-DUAL-BAND-802.11AC-WAVE2-MU-MIMO-ONBOARD-WIFI-RADIO-EMBEDDED-BOARD-supporting-LTE-www.wallystech.com](https://blogread.cn/news/go.php?idItem=15018&url=https%3A%2F%2Fwww.wallystech.com%2FRouterboard%2FDR40X9-Qualcomm-IPQ-4019-4029-DUAL-BAND-802.11AC-WAVE2-MU-MIMO-ONBOARD-WIFI-RADIO-EMBEDDED-BOARD-supporting-LTE.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-04-19-人手必备的常用网络命令合集，吐血整理！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15017&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493888%26amp%3Bidx%3D1%26amp%3Bsn%3D70d3506be895b9f146066d56dfae8b69%26amp%3Bchksm%3Dfa3f085bcd48814dbddbd6eddf6584cd9d9ebb768b37f25529371a625c4d09114bf9e2ea6fba%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
@@ -541,7 +542,6 @@
 - [2022-04-19-如何提升代码质量-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15003&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-improve-code-quality%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-04-19-什么场景（不）适合使用Lambda-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15002&url=https%3A%2F%2Finsights.thoughtworks.cn%2Flambda%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-04-19-一个Go语言实现的数据库-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15001&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493739%26amp%3Bidx%3D2%26amp%3Bsn%3D4a4b26ae5568e9b803c4acccf034e14a%26amp%3Bchksm%3Dfa3f0930cd4880269fa44443630db1c9b5b6d8da39d2d1f3e04537413a67ab95290d714b2ed6%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-04-19-iOS15内置原生壁纸下载-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15000&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493737%26amp%3Bidx%3D1%26amp%3Bsn%3D28fbb298fdbc003e6f95b7cb65ba1b1f%26amp%3Bchksm%3Dfa3f0932cd4880242c12870799f254aee7af16d7107571d6bcc8430af1950331d7d1bc51129a%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -556,18 +556,23 @@
 - [2022-04-19-如何获取优质信息？推荐一种高手都在用的方式！](https://toutiao.io/k/5wlqiik) ![](assets/new.png)  
 - [2022-04-19-微服务网关选型：5种主流-API-网关，哪个最香！](https://toutiao.io/k/jtyo70d) ![](assets/new.png)  
 - [2022-04-19-2.2W字汇总数据仓库知识点](https://toutiao.io/k/dis2a56) ![](assets/new.png)  
-- [2022-04-19-干货-|-Elasticsearch-检索类型选型指南](https://toutiao.io/k/ha9vvux) ![](assets/new.png)  
 - [2022-04-19-Agora开发者创业讲堂丨第2期：创业初期如何进行技术选型与架构设计？](https://toutiao.io/k/56lbpi4) ![](assets/new.png)  
+- [2022-04-19-干货-|-Elasticsearch-检索类型选型指南](https://toutiao.io/k/ha9vvux) ![](assets/new.png)  
 - [2022-04-19-哈工大硕士生用Python实现了11种数据降维算法，代码已开源！](https://toutiao.io/k/1mc4jqh) ![](assets/new.png)  
-- [2022-04-19-全面认识数据指标体系](https://toutiao.io/k/imbw1il) ![](assets/new.png)  
 - [2022-04-19-云原生爱好者周刊：寻找-Netlify-开源替代品](https://toutiao.io/k/1cofy2c) ![](assets/new.png)  
+- [2022-04-19-全面认识数据指标体系](https://toutiao.io/k/imbw1il) ![](assets/new.png)  
 - [2022-04-19-如何从容的应对营销活动奖励发放](https://toutiao.io/k/5vbe9hn) ![](assets/new.png)  
-- [2022-04-19-推荐-谷歌工程最佳实践](https://toutiao.io/k/q19mmjh) ![](assets/new.png)  
-- [2022-04-19-推荐-腾讯一面：CORS为什么能保障安全？为什么只对复杂请求做预检？](https://toutiao.io/k/quomj0f) ![](assets/new.png)  
-- [2022-04-19-推荐-9大高性能优化经验总结，强烈建议收藏！！！](https://toutiao.io/k/26za4ep) ![](assets/new.png)  
-- [2022-04-19-推荐-技术开发人员如何制定自己的OKR](https://toutiao.io/k/zq8oiet) ![](assets/new.png)  
-- [2022-04-19-推荐-系统架构的11条原则](https://toutiao.io/k/xbwjqgj) ![](assets/new.png)  
+- [2022-04-19-如何建立高效的质量保障机制](https://toutiao.io/k/vrs53hb) ![](assets/new.png)  
+- [2022-04-19-Code-Review-全面审查清单](https://toutiao.io/k/99eh9es) ![](assets/new.png)  
+- [2022-04-19-实在买不到菜，写了一个抢菜的自动化插件](https://toutiao.io/k/2q4uedx) ![](assets/new.png)  
+- [2022-04-19-跨国大公司的正反两面——高科技人才在跨国大公司的生存之道（一）](https://toutiao.io/k/6tmgqd0) ![](assets/new.png)  
+- [2022-04-19-竟然有一半的人不知道-for-与-foreach-的区别？？？](https://toutiao.io/k/iabg3c1) ![](assets/new.png)  
+- [2022-04-19-马里奥制造，Ready~~GO！「GitHub-热点速览」](https://toutiao.io/k/70ltft5) ![](assets/new.png)  
+- [2022-04-19-比-eval-和-iframe-更强的新一代-JavaScript-沙箱！](https://toutiao.io/k/08n78n7) ![](assets/new.png)  
+- [2022-04-19-【TS】1294--搞懂-TypeScript-中的映射类型（Mapped-Types）](https://toutiao.io/k/dywxty7) ![](assets/new.png)  
 - [2022-04-19-推荐-解析分布式系统的缓存设计](https://toutiao.io/k/pucrtli) ![](assets/new.png)  
+- [2022-04-19-推荐-万字长文，教你用go开发区块链应用](https://toutiao.io/k/3f3i7ey) ![](assets/new.png)  
+- [2022-04-19-推荐-谷歌工程最佳实践](https://toutiao.io/k/q19mmjh) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

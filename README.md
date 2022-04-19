@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-04-19 06:17:41，:rocket: 更新条数: +2033， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-04-19 06:48:21，:rocket: 更新条数: +2031， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,12 @@
 </summary>
 
 
+- [2022-04-19-2022-年，有什么优雅的方式在-Linux-运行企业微信吗](https://www.v2ex.com/t/847893) ![](assets/new.png)  
+- [2022-04-19-到深圳实习，在深圳字节，求大佬们推荐下租房地点](https://www.v2ex.com/t/847892) ![](assets/new.png)  
+- [2022-04-19-请问有没有谷歌广告运营高手呢？](https://www.v2ex.com/t/847891) ![](assets/new.png)  
+- [2022-04-19-Go-汇编语法和-MatrixOne-使用介绍](https://www.v2ex.com/t/847890) ![](assets/new.png)  
+- [2022-04-19-求推荐笔记本，设计用](https://www.v2ex.com/t/847889) ![](assets/new.png)  
+- [2022-04-19-独立产品灵感周刊-DecoHack-#010](https://www.v2ex.com/t/847888) ![](assets/new.png)  
 - [2022-04-19-求问内存条混插有多大影响](https://www.v2ex.com/t/847886) ![](assets/new.png)  
 - [2022-04-19-关于使用教程的录制方案](https://www.v2ex.com/t/847885) ![](assets/new.png)  
 - [2022-04-19-东莞10K-20K前端/-Java-/安卓高级开发工程师数名](https://www.v2ex.com/t/847884) ![](assets/new.png)  
@@ -505,12 +511,6 @@
 - [2022-04-19-能实现泛域名到泛域名的反向代理吗](https://www.v2ex.com/t/847869) ![](assets/new.png)  
 - [2022-04-19-如何确保一个类是跨进程安全的？](https://www.v2ex.com/t/847868) ![](assets/new.png)  
 - [2022-04-19-杭州/可远程-诚聘区块链后端工程师](https://www.v2ex.com/t/847867) ![](assets/new.png)  
-- [2022-04-19-OneDrive-Mac-版在-Big-Sur-与-Monterey-多系统之间同步的坑](https://www.v2ex.com/t/847866) ![](assets/new.png)  
-- [2022-04-19-家传砖石牌台扇已阵亡，求推荐声噪小点的电风扇](https://www.v2ex.com/t/847865) ![](assets/new.png)  
-- [2022-04-19-VSCode-Terminal-独立-APP](https://www.v2ex.com/t/847864) ![](assets/new.png)  
-- [2022-04-19-网关将请求转发到外部时，需要过滤敏感请求头，若不过滤，请求头泄露了，会造成什么影响吗？](https://www.v2ex.com/t/847863) ![](assets/new.png)  
-- [2022-04-19-问个生活上的问题，鞋子刷完比较湿，怎么办](https://www.v2ex.com/t/847861) ![](assets/new.png)  
-- [2022-04-19-能去三甲就去三甲医院。](https://www.v2ex.com/t/847859) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -562,17 +562,17 @@
 - [2022-04-19-全面认识数据指标体系](https://toutiao.io/k/imbw1il) ![](assets/new.png)  
 - [2022-04-19-Code-Review-全面审查清单](https://toutiao.io/k/99eh9es) ![](assets/new.png)  
 - [2022-04-19-如何建立高效的质量保障机制](https://toutiao.io/k/vrs53hb) ![](assets/new.png)  
-- [2022-04-19-云原生爱好者周刊：寻找-Netlify-开源替代品](https://toutiao.io/k/1cofy2c) ![](assets/new.png)  
 - [2022-04-19-如何从容的应对营销活动奖励发放](https://toutiao.io/k/5vbe9hn) ![](assets/new.png)  
-- [2022-04-19-比-eval-和-iframe-更强的新一代-JavaScript-沙箱！](https://toutiao.io/k/08n78n7) ![](assets/new.png)  
-- [2022-04-19-实在买不到菜，写了一个抢菜的自动化插件](https://toutiao.io/k/2q4uedx) ![](assets/new.png)  
+- [2022-04-19-云原生爱好者周刊：寻找-Netlify-开源替代品](https://toutiao.io/k/1cofy2c) ![](assets/new.png)  
 - [2022-04-19-马里奥制造，Ready~~GO！「GitHub-热点速览」](https://toutiao.io/k/70ltft5) ![](assets/new.png)  
+- [2022-04-19-实在买不到菜，写了一个抢菜的自动化插件](https://toutiao.io/k/2q4uedx) ![](assets/new.png)  
+- [2022-04-19-比-eval-和-iframe-更强的新一代-JavaScript-沙箱！](https://toutiao.io/k/08n78n7) ![](assets/new.png)  
 - [2022-04-19-跨国大公司的正反两面——高科技人才在跨国大公司的生存之道（一）](https://toutiao.io/k/6tmgqd0) ![](assets/new.png)  
 - [2022-04-19-【TS】1294--搞懂-TypeScript-中的映射类型（Mapped-Types）](https://toutiao.io/k/dywxty7) ![](assets/new.png)  
 - [2022-04-19-Spring源码里开天辟地的五个Bean，再介绍一个学习方法](https://toutiao.io/k/g5i4opv) ![](assets/new.png)  
 - [2022-04-19-设计模式系列——模板方法](https://toutiao.io/k/4w3iwhs) ![](assets/new.png)  
 - [2022-04-19-聊聊如何将数据同步到apollo配置中心](https://toutiao.io/k/4e0msfx) ![](assets/new.png)  
-- [2022-04-19-阿里云容器如何实现-1000Pod/min-一键启动](https://toutiao.io/k/pcvpx9u) ![](assets/new.png)  
+- [2022-04-19-ZooKeeper在HBase集群中的作用](https://toutiao.io/k/i1fiuuz) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

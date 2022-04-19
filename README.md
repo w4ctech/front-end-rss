@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-04-19 11:13:16，:rocket: 更新条数: +2032， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-04-19 11:37:59，:rocket: 更新条数: +2033， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,14 @@
 </summary>
 
 
+- [2022-04-19-想转行学-Java-求过来人分享经验](https://www.v2ex.com/t/847974) ![](assets/new.png)  
+- [2022-04-19-ubuntu-20.04.4-LTS-安装双系统可能会出现故障](https://www.v2ex.com/t/847972) ![](assets/new.png)  
+- [2022-04-19-开源软件应该怎么推广，让他的-star-数量变的更高，来满足自己的虚荣心和增加业余收入...](https://www.v2ex.com/t/847971) ![](assets/new.png)  
+- [2022-04-19-前天注册的-Apple-id，在-iPhone12-上登录没多久就停用了](https://www.v2ex.com/t/847970) ![](assets/new.png)  
+- [2022-04-19-为了辞退老员工，故意弄个述职会，全都弄不合格，为了规避法律责任说你工作能力不达标](https://www.v2ex.com/t/847969) ![](assets/new.png)  
+- [2022-04-19-GlideIM---Golang-实现的高性能的分布式-IM](https://www.v2ex.com/t/847968) ![](assets/new.png)  
+- [2022-04-19-新款-MBP-屏幕次亮时-A-面明显发热](https://www.v2ex.com/t/847967) ![](assets/new.png)  
+- [2022-04-19-请问有人了解-IDEA-编辑中文时如何根据中文分词进行光标移动控制吗？](https://www.v2ex.com/t/847966) ![](assets/new.png)  
 - [2022-04-19-咨询-m1-涂层脱落现在可以免费更换吗？](https://www.v2ex.com/t/847965) ![](assets/new.png)  
 - [2022-04-19-自己动手实现脚本语言](https://www.v2ex.com/t/847964) ![](assets/new.png)  
 - [2022-04-19-苏州---可远程-招-Android-开发](https://www.v2ex.com/t/847963) ![](assets/new.png)  
@@ -503,14 +511,6 @@
 - [2022-04-19-谁知道这个字符是什么字符](https://www.v2ex.com/t/847956) ![](assets/new.png)  
 - [2022-04-19-github-这个-Assignees-是干嘛的？我一点然后把自己移除了，好尴尬！](https://www.v2ex.com/t/847955) ![](assets/new.png)  
 - [2022-04-19-Cloudflare-隧道内网穿透搭建记录](https://www.v2ex.com/t/847954) ![](assets/new.png)  
-- [2022-04-19-爱思助手下载的支付宝、微信安全么？](https://www.v2ex.com/t/847953) ![](assets/new.png)  
-- [2022-04-19-感觉目前的“关闭个性化广告”按钮就是个摆设](https://www.v2ex.com/t/847952) ![](assets/new.png)  
-- [2022-04-19-2022-年-react-最佳脚手架有啥推荐的呢？](https://www.v2ex.com/t/847951) ![](assets/new.png)  
-- [2022-04-19-阿里云现在无法登录？](https://www.v2ex.com/t/847950) ![](assets/new.png)  
-- [2022-04-19-大家有什么推荐的域名-Domain-管理商？](https://www.v2ex.com/t/847948) ![](assets/new.png)  
-- [2022-04-19-Vim-如何选中往后两个相同词然后批量编辑？](https://www.v2ex.com/t/847947) ![](assets/new.png)  
-- [2022-04-19-工作室用虚拟机服务器，磁盘阵列怎么配？](https://www.v2ex.com/t/847945) ![](assets/new.png)  
-- [2022-04-19-typescript-把字符串模板转成-concat-方法了](https://www.v2ex.com/t/847944) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -565,13 +565,13 @@
 - [2022-04-19-如何从容的应对营销活动奖励发放](https://toutiao.io/k/5vbe9hn) ![](assets/new.png)  
 - [2022-04-19-Spring源码里开天辟地的五个Bean，再介绍一个学习方法](https://toutiao.io/k/g5i4opv) ![](assets/new.png)  
 - [2022-04-19-云原生爱好者周刊：寻找-Netlify-开源替代品](https://toutiao.io/k/1cofy2c) ![](assets/new.png)  
-- [2022-04-19-马里奥制造，Ready~~GO！「GitHub-热点速览」](https://toutiao.io/k/70ltft5) ![](assets/new.png)  
 - [2022-04-19-实在买不到菜，写了一个抢菜的自动化插件](https://toutiao.io/k/2q4uedx) ![](assets/new.png)  
+- [2022-04-19-马里奥制造，Ready~~GO！「GitHub-热点速览」](https://toutiao.io/k/70ltft5) ![](assets/new.png)  
 - [2022-04-19-比-eval-和-iframe-更强的新一代-JavaScript-沙箱！](https://toutiao.io/k/08n78n7) ![](assets/new.png)  
 - [2022-04-19-跨国大公司的正反两面——高科技人才在跨国大公司的生存之道（一）](https://toutiao.io/k/6tmgqd0) ![](assets/new.png)  
 - [2022-04-19-【TS】1294--搞懂-TypeScript-中的映射类型（Mapped-Types）](https://toutiao.io/k/dywxty7) ![](assets/new.png)  
-- [2022-04-19-设计模式系列——模板方法](https://toutiao.io/k/4w3iwhs) ![](assets/new.png)  
 - [2022-04-19-聊聊如何将数据同步到apollo配置中心](https://toutiao.io/k/4e0msfx) ![](assets/new.png)  
+- [2022-04-19-设计模式系列——模板方法](https://toutiao.io/k/4w3iwhs) ![](assets/new.png)  
 - [2022-04-19-ZooKeeper在HBase集群中的作用](https://toutiao.io/k/i1fiuuz) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

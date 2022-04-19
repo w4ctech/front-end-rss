@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-04-19 18:17:00，:rocket: 更新条数: +2031， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-04-19 18:47:17，:rocket: 更新条数: +2030， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,9 @@
 </summary>
 
 
+- [2022-04-19-喝酒后的我和平时上班的我，到底哪个是真实的我？](https://www.v2ex.com/t/848030) ![](assets/new.png)  
+- [2022-04-19-k8s-私有-registry-方案](https://www.v2ex.com/t/848029) ![](assets/new.png)  
+- [2022-04-19-解决使用-passwall-加速-无法连接游戏语音的问题-例如守望先锋-valorant](https://www.v2ex.com/t/848027) ![](assets/new.png)  
 - [2022-04-19-SEO-高手，这里请。](https://www.v2ex.com/t/848026) ![](assets/new.png)  
 - [2022-04-19-有在佛山工作的大佬吗，那边有哪些比较好的公司](https://www.v2ex.com/t/848025) ![](assets/new.png)  
 - [2022-04-19-没睡的-gopher-卷王请进](https://www.v2ex.com/t/848024) ![](assets/new.png)  
@@ -499,7 +502,6 @@
 - [2022-04-19-随航居然不屏蔽通用控制的边缘启用…](https://www.v2ex.com/t/848019) ![](assets/new.png)  
 - [2022-04-19-面试有感，不吐不快](https://www.v2ex.com/t/848018) ![](assets/new.png)  
 - [2022-04-19-发现一个机翻的英文垃圾站，流量惊人](https://www.v2ex.com/t/848016) ![](assets/new.png)  
-- [2022-04-19-.th-后缀的域名是完全不想让（普通）个人注册吗，最便宜的注册商也要-4500-美元一年](https://www.v2ex.com/t/848015) ![](assets/new.png)  
 - [2022-04-19-为什么狗东买-Google-Pixel-再卖给狗东差价那么大](https://www.v2ex.com/t/848013) ![](assets/new.png)  
 - [2022-04-19-哪个笔记软件可以实现这样的功能](https://www.v2ex.com/t/848012) ![](assets/new.png)  
 - [2022-04-19-Why-Lexical?-WYSIWYG-Editor-的痛點?](https://www.v2ex.com/t/848011) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-04-19-AWS-中国致电给我，让我自删帐号](https://www.v2ex.com/t/848006) ![](assets/new.png)  
 - [2022-04-19-有没有卖社区论坛网站的](https://www.v2ex.com/t/848005) ![](assets/new.png)  
 - [2022-04-19-分享一个-tg-机器人](https://www.v2ex.com/t/848004) ![](assets/new.png)  
-- [2022-04-19-微信更新日志-vs-telegram-更新日志](https://www.v2ex.com/t/848003) ![](assets/new.png)  
-- [2022-04-19-问一下用-ip13，开自动-5G-的小伙伴们](https://www.v2ex.com/t/848002) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

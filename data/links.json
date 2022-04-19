@@ -9953,6 +9953,36 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "酷玩周刊 第 7 期",
+        "link": "https://www.v2ex.com/t/847981",
+        "date": "2022-04-19"
+      },
+      {
+        "title": "房东直租 未来科技城附近 保亿丽景山 89 平",
+        "link": "https://www.v2ex.com/t/847980",
+        "date": "2022-04-19"
+      },
+      {
+        "title": "如何在 mac 系统里面安装闲鱼 app？",
+        "link": "https://www.v2ex.com/t/847979",
+        "date": "2022-04-19"
+      },
+      {
+        "title": "各位大佬， Homebrew 有没有类似于 pipdeptree 这样的工具列出所有的安装的工具的依赖树，方便清理无用的应用",
+        "link": "https://www.v2ex.com/t/847977",
+        "date": "2022-04-19"
+      },
+      {
+        "title": "Shad0ws0cks 这样的代理协议高性能服务端适合用 C#写吗？为什么没见过一个用 C#写的高性能代理服务端？",
+        "link": "https://www.v2ex.com/t/847976",
+        "date": "2022-04-19"
+      },
+      {
+        "title": "国产呼吸机能买吗？",
+        "link": "https://www.v2ex.com/t/847975",
+        "date": "2022-04-19"
+      },
+      {
         "title": "想转行学 Java 求过来人分享经验",
         "link": "https://www.v2ex.com/t/847974",
         "date": "2022-04-19"
@@ -10126,31 +10156,6 @@
         "title": "无 root 权限时如何在/var/log 下写入日志",
         "link": "https://www.v2ex.com/t/847933",
         "date": "2022-04-19"
-      },
-      {
-        "title": "推荐一个 vimlike 的浏览器 vieb",
-        "link": "https://www.v2ex.com/t/847931",
-        "date": "2022-04-19"
-      },
-      {
-        "title": "想整个 homelab，新手，求指导",
-        "link": "https://www.v2ex.com/t/847930",
-        "date": "2022-04-19"
-      },
-      {
-        "title": "通勤山地车入门",
-        "link": "https://www.v2ex.com/t/847929",
-        "date": "2022-04-19"
-      },
-      {
-        "title": "各位，有啥好的按摩椅？",
-        "link": "https://www.v2ex.com/t/847928",
-        "date": "2022-04-19"
-      },
-      {
-        "title": "去哪里修自行车的地方?",
-        "link": "https://www.v2ex.com/t/847927",
-        "date": "2022-04-19"
       }
     ]
   },
@@ -10159,6 +10164,41 @@
     "title": "技术头条",
     "link": "http://blogread.cn/news/newest.php",
     "items": [
+      {
+        "title": "最佳Web编程语言都有哪些？ (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=15027&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493914%26amp%3Bidx%3D2%26amp%3Bsn%3D5903e1008661081b1e592a4854edf501%26amp%3Bchksm%3Dfa3f0841cd48815742cf760b2d181f03766f4d963c8a3aef96790b8ac5f386876f643f22e000%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2022-04-19"
+      },
+      {
+        "title": "CodeReview价值百万！！！ (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=15026&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493913%26amp%3Bidx%3D1%26amp%3Bsn%3D52ab2ee1a58002e7f706d28ab3946b5b%26amp%3Bchksm%3Dfa3f0842cd488154598f87855b8ecae16c1ec58d62b0f81a16b3523e9a8c08275c94b5762032%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2022-04-19"
+      },
+      {
+        "title": "大厂MySQL规范，从入门到精通！ (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=15025&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493913%26amp%3Bidx%3D2%26amp%3Bsn%3Da47e2c8b586c893c647d3d6da53550a6%26amp%3Bchksm%3Dfa3f0842cd488154aa87b2b18e554815542041944da605bb191891863dd09a42a73f7afe4664%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2022-04-19"
+      },
+      {
+        "title": "6个超酷的学习算法网站，Leetcode不是第一？ (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=15024&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493912%26amp%3Bidx%3D1%26amp%3Bsn%3D5b33e4b78566e4ca6cbe9a25e04e075c%26amp%3Bchksm%3Dfa3f0843cd488155433bb16b7ce036728ca513f016d11ceb79124be97ae232f7d475aaedcb8e%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2022-04-19"
+      },
+      {
+        "title": "这可能是史上功能最全的Java权限认证框架！ (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=15023&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493912%26amp%3Bidx%3D2%26amp%3Bsn%3D236e4980e88e8575bf7d03abd6951feb%26amp%3Bchksm%3Dfa3f0843cd488155339c25fa4e234faee145d56f7c3bb61a2bfaaf96b3f4f6e871dfe995f47a%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2022-04-19"
+      },
+      {
+        "title": "再见收费的XShell，我改用国产工具！ (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=15022&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493911%26amp%3Bidx%3D1%26amp%3Bsn%3Dd4a4316f963f6e5365dbc1e5a00c43f1%26amp%3Bchksm%3Dfa3f084ccd48815a60a0096cb86119057a0f98eb449a6b3089f5178ae3c968ee28cd5ff4baed%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2022-04-19"
+      },
+      {
+        "title": "微服务架构及其最重要的10个设计模式！ (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=15021&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493911%26amp%3Bidx%3D2%26amp%3Bsn%3Ddd025447dbf75ee9b4be4c7229c32d2d%26amp%3Bchksm%3Dfa3f084ccd48815a7bbad7042c6d011994b08426d23ec8dcbf1c34599b8d4dcfad10d4c87e60%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2022-04-19"
+      },
       {
         "title": "IPQ6018 802.11ax 2x2 2.4GHz&5GHz  802.11ax 2x2 2.4G&5G 1xM.2 E key Sample price:200USD/pcs (www.wallystech.com)",
         "link": "https://blogread.cn/news/go.php?idItem=15020&url=https%3A%2F%2Fwww.wallystech.com%2FRouterboard%2FDR6018-CP01-wifi6-Qualcomm-IPQ6010-IPQ6018-FAMILY-2T2R-2.5G-ETH-port-CP01-802-11AX-MU-MIMO-OFDMA.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
@@ -10223,41 +10263,6 @@
         "title": "来，咱聊聊接口幂等性设计 (mp.weixin.qq.com)",
         "link": "https://blogread.cn/news/go.php?idItem=15008&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493770%26amp%3Bidx%3D2%26amp%3Bsn%3Dfec23a16208ef27f1d65e7f9ea3dab12%26amp%3Bchksm%3Dfa3f09d1cd4880c76034a14910af79d65a270e3db86bfd160cf2edb143344a1d628d1f500168%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
         "date": "2022-04-19"
-      },
-      {
-        "title": "最受程序员欢迎的20本书！ (mp.weixin.qq.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=15007&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493749%26amp%3Bidx%3D1%26amp%3Bsn%3D9cf2fa6cbe49a48dcaee073da7d04004%26amp%3Bchksm%3Dfa3f092ecd488038e0ccc5d21961b8968b46257ce41b47a750dd99558544ce102721b6cea078%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-04-19"
-      },
-      {
-        "title": "IDEA中的热部署神器！ (mp.weixin.qq.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=15006&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493749%26amp%3Bidx%3D2%26amp%3Bsn%3D784e73396088f749613a0539e530d701%26amp%3Bchksm%3Dfa3f092ecd4880382609a6531ff398e535939afc1e633e6703958e173067f909a31cd42cd002%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-04-19"
-      },
-      {
-        "title": "通过面向对象设计串口协议 (insights.thoughtworks.cn)",
-        "link": "https://blogread.cn/news/go.php?idItem=15005&url=https%3A%2F%2Finsights.thoughtworks.cn%2Foo-design-serial-protocol%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-04-19"
-      },
-      {
-        "title": "使用jscodeshift做自动化重构 (insights.thoughtworks.cn)",
-        "link": "https://blogread.cn/news/go.php?idItem=15004&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fjscodeshift%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-04-19"
-      },
-      {
-        "title": "如何提升代码质量 (insights.thoughtworks.cn)",
-        "link": "https://blogread.cn/news/go.php?idItem=15003&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-improve-code-quality%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-04-19"
-      },
-      {
-        "title": "什么场景（不）适合使用Lambda (insights.thoughtworks.cn)",
-        "link": "https://blogread.cn/news/go.php?idItem=15002&url=https%3A%2F%2Finsights.thoughtworks.cn%2Flambda%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-04-19"
-      },
-      {
-        "title": "一个Go语言实现的数据库 (mp.weixin.qq.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=15001&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493739%26amp%3Bidx%3D2%26amp%3Bsn%3D4a4b26ae5568e9b803c4acccf034e14a%26amp%3Bchksm%3Dfa3f0930cd4880269fa44443630db1c9b5b6d8da39d2d1f3e04537413a67ab95290d714b2ed6%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-04-19"
       }
     ]
   },
@@ -10297,13 +10302,13 @@
         "date": "2022-04-19"
       },
       {
-        "title": "全面认识数据指标体系",
-        "link": "https://toutiao.io/k/imbw1il",
+        "title": "Code Review 全面审查清单",
+        "link": "https://toutiao.io/k/99eh9es",
         "date": "2022-04-19"
       },
       {
-        "title": "Code Review 全面审查清单",
-        "link": "https://toutiao.io/k/99eh9es",
+        "title": "全面认识数据指标体系",
+        "link": "https://toutiao.io/k/imbw1il",
         "date": "2022-04-19"
       },
       {
@@ -10312,23 +10317,18 @@
         "date": "2022-04-19"
       },
       {
-        "title": "如何从容的应对营销活动奖励发放",
-        "link": "https://toutiao.io/k/5vbe9hn",
-        "date": "2022-04-19"
-      },
-      {
         "title": "Spring源码里开天辟地的五个Bean，再介绍一个学习方法",
         "link": "https://toutiao.io/k/g5i4opv",
         "date": "2022-04-19"
       },
       {
-        "title": "云原生爱好者周刊：寻找 Netlify 开源替代品",
-        "link": "https://toutiao.io/k/1cofy2c",
+        "title": "如何从容的应对营销活动奖励发放",
+        "link": "https://toutiao.io/k/5vbe9hn",
         "date": "2022-04-19"
       },
       {
-        "title": "实在买不到菜，写了一个抢菜的自动化插件",
-        "link": "https://toutiao.io/k/2q4uedx",
+        "title": "云原生爱好者周刊：寻找 Netlify 开源替代品",
+        "link": "https://toutiao.io/k/1cofy2c",
         "date": "2022-04-19"
       },
       {
@@ -10342,6 +10342,11 @@
         "date": "2022-04-19"
       },
       {
+        "title": "实在买不到菜，写了一个抢菜的自动化插件",
+        "link": "https://toutiao.io/k/2q4uedx",
+        "date": "2022-04-19"
+      },
+      {
         "title": "跨国大公司的正反两面——高科技人才在跨国大公司的生存之道（一）",
         "link": "https://toutiao.io/k/6tmgqd0",
         "date": "2022-04-19"
@@ -10352,33 +10357,18 @@
         "date": "2022-04-19"
       },
       {
-        "title": "聊聊如何将数据同步到apollo配置中心",
-        "link": "https://toutiao.io/k/4e0msfx",
-        "date": "2022-04-19"
-      },
-      {
         "title": "设计模式系列——模板方法",
         "link": "https://toutiao.io/k/4w3iwhs",
         "date": "2022-04-19"
       },
       {
+        "title": "聊聊如何将数据同步到apollo配置中心",
+        "link": "https://toutiao.io/k/4e0msfx",
+        "date": "2022-04-19"
+      },
+      {
         "title": "ZooKeeper在HBase集群中的作用",
         "link": "https://toutiao.io/k/i1fiuuz",
-        "date": "2022-04-19"
-      },
-      {
-        "title": "[推荐] 9大高性能优化经验总结，强烈建议收藏！！！",
-        "link": "https://toutiao.io/k/26za4ep",
-        "date": "2022-04-19"
-      },
-      {
-        "title": "[推荐] 谷歌工程最佳实践",
-        "link": "https://toutiao.io/k/q19mmjh",
-        "date": "2022-04-19"
-      },
-      {
-        "title": "[推荐] 系统架构的11条原则",
-        "link": "https://toutiao.io/k/xbwjqgj",
         "date": "2022-04-19"
       },
       {
@@ -10392,13 +10382,28 @@
         "date": "2022-04-19"
       },
       {
+        "title": "[推荐] 系统架构的11条原则",
+        "link": "https://toutiao.io/k/xbwjqgj",
+        "date": "2022-04-19"
+      },
+      {
         "title": "[推荐] 万字长文，教你用go开发区块链应用",
         "link": "https://toutiao.io/k/3f3i7ey",
         "date": "2022-04-19"
       },
       {
+        "title": "[推荐] 谷歌工程最佳实践",
+        "link": "https://toutiao.io/k/q19mmjh",
+        "date": "2022-04-19"
+      },
+      {
         "title": "[推荐] 技术开发人员如何制定自己的OKR",
         "link": "https://toutiao.io/k/zq8oiet",
+        "date": "2022-04-19"
+      },
+      {
+        "title": "[推荐] 9大高性能优化经验总结，强烈建议收藏！！！",
+        "link": "https://toutiao.io/k/26za4ep",
         "date": "2022-04-19"
       }
     ]

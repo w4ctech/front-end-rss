@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-04-19 19:37:23，:rocket: 更新条数: +2030， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-04-19 20:15:58，:rocket: 更新条数: +2032， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-04-19-Linux-下发送-SIGKILL-不能关闭进程的情况应该怎么解决？](https://www.v2ex.com/t/848034) ![](assets/new.png)  
+- [2022-04-19-请问-cloudcone-适合建站吗？](https://www.v2ex.com/t/848033) ![](assets/new.png)  
 - [2022-04-19-请问；某干道的绿波优化目标函数应该考虑的有哪些参数](https://www.v2ex.com/t/848032) ![](assets/new.png)  
 - [2022-04-19-大家在生产环境有用并行流吗，](https://www.v2ex.com/t/848031) ![](assets/new.png)  
 - [2022-04-19-喝酒后的我和平时上班的我，到底哪个是真实的我？](https://www.v2ex.com/t/848030) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-04-19-Why-Lexical?-WYSIWYG-Editor-的痛點?](https://www.v2ex.com/t/848011) ![](assets/new.png)  
 - [2022-04-19-Angular-DevTools-在-Chrome-Web-Store-下载量为什么只有-React-的-3%-？](https://www.v2ex.com/t/848010) ![](assets/new.png)  
 - [2022-04-19-寻找显示器-PD2710QC-扩展坞线的替代品](https://www.v2ex.com/t/848009) ![](assets/new.png)  
-- [2022-04-19-特别喜欢-chrome-支持触控板捏放功能，页面结构不变，放大动画平滑精准。](https://www.v2ex.com/t/848008) ![](assets/new.png)  
-- [2022-04-19-AWS-中国致电给我，让我自删帐号](https://www.v2ex.com/t/848006) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

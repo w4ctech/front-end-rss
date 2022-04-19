@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-04-19 19:37:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-04-19 20:15:58。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1913,6 +1913,8 @@
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2022-03-21-ascent-override-descent-override-line-gap-override一锅端](https://www.zhangxinxu.com/wordpress/2022/03/css-ascent-override-descent/) 
 - [2022-02-04-HTML-inputmode与iOS-Android软键盘类型测试](https://www.zhangxinxu.com/wordpress/2022/02/html-inputmode-keyboard/) 
+- [2022-04-19-Linux-下发送-SIGKILL-不能关闭进程的情况应该怎么解决？](https://www.v2ex.com/t/848034) 
+- [2022-04-19-请问-cloudcone-适合建站吗？](https://www.v2ex.com/t/848033) 
 - [2022-04-19-大家在生产环境有用并行流吗，](https://www.v2ex.com/t/848031) 
 - [2022-04-19-喝酒后的我和平时上班的我，到底哪个是真实的我？](https://www.v2ex.com/t/848030) 
 - [2022-04-19-k8s-私有-registry-方案](https://www.v2ex.com/t/848029) 
@@ -1971,6 +1973,6 @@
 - [2022-04-19-ZooKeeper在HBase集群中的作用](https://toutiao.io/k/i1fiuuz) 
 - [2022-04-19-聊聊如何将数据同步到apollo配置中心](https://toutiao.io/k/4e0msfx) 
 - [2022-04-19-推荐-万字长文，教你用go开发区块链应用](https://toutiao.io/k/3f3i7ey) 
-- [2022-04-19-推荐-系统架构的11条原则](https://toutiao.io/k/xbwjqgj) 
 - [2022-04-19-推荐-谷歌工程最佳实践](https://toutiao.io/k/q19mmjh) 
+- [2022-04-19-推荐-系统架构的11条原则](https://toutiao.io/k/xbwjqgj) 
 - [2022-04-19-推荐-技术开发人员如何制定自己的OKR](https://toutiao.io/k/zq8oiet) 

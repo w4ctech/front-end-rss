@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-04-19 09:14:13，:rocket: 更新条数: +2030， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-04-19 09:41:08，:rocket: 更新条数: +2030， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,11 @@
 </summary>
 
 
+- [2022-04-19-Vim-如何选中往后两个相同词然后批量编辑？](https://www.v2ex.com/t/847947) ![](assets/new.png)  
+- [2022-04-19-工作室用虚拟机服务器，磁盘阵列怎么配？](https://www.v2ex.com/t/847945) ![](assets/new.png)  
+- [2022-04-19-typescript-把字符串模板转成-concat-方法了](https://www.v2ex.com/t/847944) ![](assets/new.png)  
+- [2022-04-19-胡思乱想-消灭私有制的一种方式](https://www.v2ex.com/t/847943) ![](assets/new.png)  
+- [2022-04-19-电信的这个-29-元自选“星卡随心版”套餐有什么坑么？想办一个](https://www.v2ex.com/t/847942) ![](assets/new.png)  
 - [2022-04-19-请问-Python-开启多线程快，还是多层-if-函数快？](https://www.v2ex.com/t/847941) ![](assets/new.png)  
 - [2022-04-19-如何在不同国家应用商店下载的-APP-使用不同的服务器？](https://www.v2ex.com/t/847939) ![](assets/new.png)  
 - [2022-04-19-使用-logstash-从-MySQL-拉数据到-es-时区问题求助](https://www.v2ex.com/t/847938) ![](assets/new.png)  
@@ -506,11 +511,6 @@
 - [2022-04-19-后端接口如何处理金额汇总的问题](https://www.v2ex.com/t/847924) ![](assets/new.png)  
 - [2022-04-19-抹盘重装系统遇到文件夹问号，求助……](https://www.v2ex.com/t/847923) ![](assets/new.png)  
 - [2022-04-19-有使用语雀作为笔记工具的吗？](https://www.v2ex.com/t/847921) ![](assets/new.png)  
-- [2022-04-19-既然大家现在都在谈论房地产，发一篇我年初写的对房地产的思考吧。](https://www.v2ex.com/t/847920) ![](assets/new.png)  
-- [2022-04-19-消费级别最强-CPU-核显咨询](https://www.v2ex.com/t/847918) ![](assets/new.png)  
-- [2022-04-19-iterm2-分屏后更换活动-pane-提醒样式](https://www.v2ex.com/t/847917) ![](assets/new.png)  
-- [2022-04-19-都说-30-而立，不知道各位立住了没](https://www.v2ex.com/t/847916) ![](assets/new.png)  
-- [2022-04-19-为啥-HomePod-Mini-不支持杜比全景声-Dolby-Atmos](https://www.v2ex.com/t/847915) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -564,12 +564,12 @@
 - [2022-04-19-如何建立高效的质量保障机制](https://toutiao.io/k/vrs53hb) ![](assets/new.png)  
 - [2022-04-19-如何从容的应对营销活动奖励发放](https://toutiao.io/k/5vbe9hn) ![](assets/new.png)  
 - [2022-04-19-云原生爱好者周刊：寻找-Netlify-开源替代品](https://toutiao.io/k/1cofy2c) ![](assets/new.png)  
-- [2022-04-19-比-eval-和-iframe-更强的新一代-JavaScript-沙箱！](https://toutiao.io/k/08n78n7) ![](assets/new.png)  
+- [2022-04-19-Spring源码里开天辟地的五个Bean，再介绍一个学习方法](https://toutiao.io/k/g5i4opv) ![](assets/new.png)  
 - [2022-04-19-马里奥制造，Ready~~GO！「GitHub-热点速览」](https://toutiao.io/k/70ltft5) ![](assets/new.png)  
+- [2022-04-19-比-eval-和-iframe-更强的新一代-JavaScript-沙箱！](https://toutiao.io/k/08n78n7) ![](assets/new.png)  
 - [2022-04-19-实在买不到菜，写了一个抢菜的自动化插件](https://toutiao.io/k/2q4uedx) ![](assets/new.png)  
 - [2022-04-19-跨国大公司的正反两面——高科技人才在跨国大公司的生存之道（一）](https://toutiao.io/k/6tmgqd0) ![](assets/new.png)  
 - [2022-04-19-【TS】1294--搞懂-TypeScript-中的映射类型（Mapped-Types）](https://toutiao.io/k/dywxty7) ![](assets/new.png)  
-- [2022-04-19-Spring源码里开天辟地的五个Bean，再介绍一个学习方法](https://toutiao.io/k/g5i4opv) ![](assets/new.png)  
 - [2022-04-19-设计模式系列——模板方法](https://toutiao.io/k/4w3iwhs) ![](assets/new.png)  
 - [2022-04-19-聊聊如何将数据同步到apollo配置中心](https://toutiao.io/k/4e0msfx) ![](assets/new.png)  
 - [2022-04-19-ZooKeeper在HBase集群中的作用](https://toutiao.io/k/i1fiuuz) ![](assets/new.png)  

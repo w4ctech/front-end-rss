@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-04-19 21:12:49，:rocket: 更新条数: +2032， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-04-19 21:39:16，:rocket: 更新条数: +2032， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-04-19-有使用-MacBook-Pro-16inch-m1-pro-的朋友吗？可以聊聊你们的使用场景和续航时间吗？](https://www.v2ex.com/t/848037) ![](assets/new.png)  
+- [2022-04-19-iPhone-有大量照片无法上传/同步到-iCloud](https://www.v2ex.com/t/848036) ![](assets/new.png)  
 - [2022-04-19-罗技发布了新的垂直鼠标-Lift-拯救小手星人](https://www.v2ex.com/t/848035) ![](assets/new.png)  
 - [2022-04-19-Linux-下发送-SIGKILL-不能关闭进程的情况应该怎么解决？](https://www.v2ex.com/t/848034) ![](assets/new.png)  
 - [2022-04-19-请问-cloudcone-适合建站吗？](https://www.v2ex.com/t/848033) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-04-19-发现一个机翻的英文垃圾站，流量惊人](https://www.v2ex.com/t/848016) ![](assets/new.png)  
 - [2022-04-19-为什么狗东买-Google-Pixel-再卖给狗东差价那么大](https://www.v2ex.com/t/848013) ![](assets/new.png)  
 - [2022-04-19-哪个笔记软件可以实现这样的功能](https://www.v2ex.com/t/848012) ![](assets/new.png)  
-- [2022-04-19-Why-Lexical?-WYSIWYG-Editor-的痛點?](https://www.v2ex.com/t/848011) ![](assets/new.png)  
-- [2022-04-19-Angular-DevTools-在-Chrome-Web-Store-下载量为什么只有-React-的-3%-？](https://www.v2ex.com/t/848010) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

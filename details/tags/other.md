@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-04-19 22:14:18。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-04-19 22:42:15。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1963,8 +1963,8 @@
 - [2022-04-19-如何获取优质信息？推荐一种高手都在用的方式！](https://toutiao.io/k/5wlqiik) 
 - [2022-04-19-2.2W字汇总数据仓库知识点](https://toutiao.io/k/dis2a56) 
 - [2022-04-19-Agora开发者创业讲堂丨第2期：创业初期如何进行技术选型与架构设计？](https://toutiao.io/k/56lbpi4) 
-- [2022-04-19-如何建立高效的质量保障机制](https://toutiao.io/k/vrs53hb) 
 - [2022-04-19-全面认识数据指标体系](https://toutiao.io/k/imbw1il) 
+- [2022-04-19-如何建立高效的质量保障机制](https://toutiao.io/k/vrs53hb) 
 - [2022-04-19-Spring源码里开天辟地的五个Bean，再介绍一个学习方法](https://toutiao.io/k/g5i4opv) 
 - [2022-04-19-如何从容的应对营销活动奖励发放](https://toutiao.io/k/5vbe9hn) 
 - [2022-04-19-云原生爱好者周刊：寻找-Netlify-开源替代品](https://toutiao.io/k/1cofy2c) 
@@ -1974,6 +1974,6 @@
 - [2022-04-19-ZooKeeper在HBase集群中的作用](https://toutiao.io/k/i1fiuuz) 
 - [2022-04-19-聊聊如何将数据同步到apollo配置中心](https://toutiao.io/k/4e0msfx) 
 - [2022-04-19-推荐-万字长文，教你用go开发区块链应用](https://toutiao.io/k/3f3i7ey) 
-- [2022-04-19-推荐-技术开发人员如何制定自己的OKR](https://toutiao.io/k/zq8oiet) 
 - [2022-04-19-推荐-系统架构的11条原则](https://toutiao.io/k/xbwjqgj) 
 - [2022-04-19-推荐-谷歌工程最佳实践](https://toutiao.io/k/q19mmjh) 
+- [2022-04-19-推荐-技术开发人员如何制定自己的OKR](https://toutiao.io/k/zq8oiet) 

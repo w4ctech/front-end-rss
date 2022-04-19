@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-04-19 22:14:18，:rocket: 更新条数: +2032， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-04-19 22:42:15，:rocket: 更新条数: +2032， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -560,8 +560,8 @@
 - [2022-04-19-干货-|-Elasticsearch-检索类型选型指南](https://toutiao.io/k/ha9vvux) ![](assets/new.png)  
 - [2022-04-19-哈工大硕士生用Python实现了11种数据降维算法，代码已开源！](https://toutiao.io/k/1mc4jqh) ![](assets/new.png)  
 - [2022-04-19-Code-Review-全面审查清单](https://toutiao.io/k/99eh9es) ![](assets/new.png)  
-- [2022-04-19-如何建立高效的质量保障机制](https://toutiao.io/k/vrs53hb) ![](assets/new.png)  
 - [2022-04-19-全面认识数据指标体系](https://toutiao.io/k/imbw1il) ![](assets/new.png)  
+- [2022-04-19-如何建立高效的质量保障机制](https://toutiao.io/k/vrs53hb) ![](assets/new.png)  
 - [2022-04-19-Spring源码里开天辟地的五个Bean，再介绍一个学习方法](https://toutiao.io/k/g5i4opv) ![](assets/new.png)  
 - [2022-04-19-如何从容的应对营销活动奖励发放](https://toutiao.io/k/5vbe9hn) ![](assets/new.png)  
 - [2022-04-19-云原生爱好者周刊：寻找-Netlify-开源替代品](https://toutiao.io/k/1cofy2c) ![](assets/new.png)  

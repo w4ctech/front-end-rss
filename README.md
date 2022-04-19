@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-04-19 21:39:16，:rocket: 更新条数: +2032， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-04-19 22:14:18，:rocket: 更新条数: +2032， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-04-19-「求」全职前端工程师，远程办公，-30-美元/小时，可周结。](https://www.v2ex.com/t/848039) ![](assets/new.png)  
+- [2022-04-19-命令行程序是怎么让自己输出的最后一行文字变化的。。](https://www.v2ex.com/t/848038) ![](assets/new.png)  
 - [2022-04-19-有使用-MacBook-Pro-16inch-m1-pro-的朋友吗？可以聊聊你们的使用场景和续航时间吗？](https://www.v2ex.com/t/848037) ![](assets/new.png)  
 - [2022-04-19-iPhone-有大量照片无法上传/同步到-iCloud](https://www.v2ex.com/t/848036) ![](assets/new.png)  
 - [2022-04-19-罗技发布了新的垂直鼠标-Lift-拯救小手星人](https://www.v2ex.com/t/848035) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-04-19-随航居然不屏蔽通用控制的边缘启用…](https://www.v2ex.com/t/848019) ![](assets/new.png)  
 - [2022-04-19-面试有感，不吐不快](https://www.v2ex.com/t/848018) ![](assets/new.png)  
 - [2022-04-19-发现一个机翻的英文垃圾站，流量惊人](https://www.v2ex.com/t/848016) ![](assets/new.png)  
-- [2022-04-19-为什么狗东买-Google-Pixel-再卖给狗东差价那么大](https://www.v2ex.com/t/848013) ![](assets/new.png)  
-- [2022-04-19-哪个笔记软件可以实现这样的功能](https://www.v2ex.com/t/848012) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

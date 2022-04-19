@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-04-19 21:39:16。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-04-19 22:14:18。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1913,6 +1913,8 @@
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2022-03-21-ascent-override-descent-override-line-gap-override一锅端](https://www.zhangxinxu.com/wordpress/2022/03/css-ascent-override-descent/) 
 - [2022-02-04-HTML-inputmode与iOS-Android软键盘类型测试](https://www.zhangxinxu.com/wordpress/2022/02/html-inputmode-keyboard/) 
+- [2022-04-19-「求」全职前端工程师，远程办公，-30-美元/小时，可周结。](https://www.v2ex.com/t/848039) 
+- [2022-04-19-命令行程序是怎么让自己输出的最后一行文字变化的。。](https://www.v2ex.com/t/848038) 
 - [2022-04-19-有使用-MacBook-Pro-16inch-m1-pro-的朋友吗？可以聊聊你们的使用场景和续航时间吗？](https://www.v2ex.com/t/848037) 
 - [2022-04-19-iPhone-有大量照片无法上传/同步到-iCloud](https://www.v2ex.com/t/848036) 
 - [2022-04-19-罗技发布了新的垂直鼠标-Lift-拯救小手星人](https://www.v2ex.com/t/848035) 
@@ -1942,8 +1944,6 @@
 - [2022-04-19-有人尝试过这种屏幕排列吗](https://www.v2ex.com/t/847993) 
 - [2022-04-19-工作需要，求推荐个-android-备用机。](https://www.v2ex.com/t/847992) 
 - [2022-04-19-大家的-Youtube-Vanced-能用吗？](https://www.v2ex.com/t/847991) 
-- [2022-04-19-开发了一款节气相关的-App](https://www.v2ex.com/t/847989) 
-- [2022-04-19-请教各位，如何应对讨人厌的用户](https://www.v2ex.com/t/847988) 
 - [2022-04-19-最佳Web编程语言都有哪些？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15027&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493914%26amp%3Bidx%3D2%26amp%3Bsn%3D5903e1008661081b1e592a4854edf501%26amp%3Bchksm%3Dfa3f0841cd48815742cf760b2d181f03766f4d963c8a3aef96790b8ac5f386876f643f22e000%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-04-19-大厂MySQL规范，从入门到精通！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15025&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493913%26amp%3Bidx%3D2%26amp%3Bsn%3Da47e2c8b586c893c647d3d6da53550a6%26amp%3Bchksm%3Dfa3f0842cd488154aa87b2b18e554815542041944da605bb191891863dd09a42a73f7afe4664%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-04-19-这可能是史上功能最全的Java权限认证框架！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15023&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493912%26amp%3Bidx%3D2%26amp%3Bsn%3D236e4980e88e8575bf7d03abd6951feb%26amp%3Bchksm%3Dfa3f0843cd488155339c25fa4e234faee145d56f7c3bb61a2bfaaf96b3f4f6e871dfe995f47a%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

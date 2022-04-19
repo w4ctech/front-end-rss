@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-04-19 17:30:35，:rocket: 更新条数: +2032， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-04-19 17:47:33，:rocket: 更新条数: +2030， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,9 +491,9 @@
 </summary>
 
 
+- [2022-04-19-有在佛山工作的大佬吗，那边有哪些比较好的公司](https://www.v2ex.com/t/848025) ![](assets/new.png)  
 - [2022-04-19-没睡的-gopher-卷王请进](https://www.v2ex.com/t/848024) ![](assets/new.png)  
 - [2022-04-19-戴尔-T30-内存原因频繁死机](https://www.v2ex.com/t/848023) ![](assets/new.png)  
-- [2022-04-19-今天是-Shadowsocks-在-V-站发布的-10-周年](https://www.v2ex.com/t/848021) ![](assets/new.png)  
 - [2022-04-19-ios-上支持-tinyproxy-的软件有什么](https://www.v2ex.com/t/848020) ![](assets/new.png)  
 - [2022-04-19-随航居然不屏蔽通用控制的边缘启用…](https://www.v2ex.com/t/848019) ![](assets/new.png)  
 - [2022-04-19-面试有感，不吐不快](https://www.v2ex.com/t/848018) ![](assets/new.png)  

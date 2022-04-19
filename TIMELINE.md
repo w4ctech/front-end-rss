@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-04-19 04:08:31。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-04-19 05:03:28。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,14 @@
 </summary>
 
 
+- [【V2EX】2022-04-19-付费-蒙特利尔找人带个-15.6-寸的笔记本电脑回国，大概-2kg](https://www.v2ex.com/t/847871) 
+- [【V2EX】2022-04-19-承认平庸，接受平庸，但我要变强](https://www.v2ex.com/t/847870) 
+- [【V2EX】2022-04-19-能实现泛域名到泛域名的反向代理吗](https://www.v2ex.com/t/847869) 
+- [【V2EX】2022-04-19-如何确保一个类是跨进程安全的？](https://www.v2ex.com/t/847868) 
+- [【V2EX】2022-04-19-杭州/可远程-诚聘区块链后端工程师](https://www.v2ex.com/t/847867) 
+- [【V2EX】2022-04-19-OneDrive-Mac-版在-Big-Sur-与-Monterey-多系统之间同步的坑](https://www.v2ex.com/t/847866) 
+- [【V2EX】2022-04-19-家传砖石牌台扇已阵亡，求推荐声噪小点的电风扇](https://www.v2ex.com/t/847865) 
+- [【V2EX】2022-04-19-VSCode-Terminal-独立-APP](https://www.v2ex.com/t/847864) 
 - [【V2EX】2022-04-19-网关将请求转发到外部时，需要过滤敏感请求头，若不过滤，请求头泄露了，会造成什么影响吗？](https://www.v2ex.com/t/847863) 
 - [【V2EX】2022-04-19-问个生活上的问题，鞋子刷完比较湿，怎么办](https://www.v2ex.com/t/847861) 
 - [【V2EX】2022-04-19-求教运维大佬怎么维护公司服务器和项目的](https://www.v2ex.com/t/847860) 
@@ -103,11 +111,6 @@
 - [【V2EX】2022-04-19-求助，国内华为手机如何使用-Google-play-里的应用](https://www.v2ex.com/t/847824) 
 - [【V2EX】2022-04-19-smarttool-展示的-Power-On-Hours-很诡异](https://www.v2ex.com/t/847823) 
 - [【V2EX】2022-04-19-长期帖求分享歌单/歌手](https://www.v2ex.com/t/847822) 
-- [【V2EX】2022-04-19-求助-有没有人试过把-Macbook-Pro-隔空投送到-iMac-M1-24-寸上？](https://www.v2ex.com/t/847820) 
-- [【V2EX】2022-04-19-开源自荐-基于-MDX-的微信排版编辑器，可自定义组件、样式、可导出-markdown-和-PDF](https://www.v2ex.com/t/847819) 
-- [【V2EX】2022-04-19-大陆用户注册币安](https://www.v2ex.com/t/847816) 
-- [【V2EX】2022-04-19-真心请教：-29-了还在公司-CRUD，怎么突破自己？](https://www.v2ex.com/t/847815) 
-- [【V2EX】2022-04-19-Kubernetes-中如何做到-AB-分流](https://www.v2ex.com/t/847814) 
 - [【技术头条】2022-04-19-IPQ6018-802.11ax-2x2-2.4GHz&5GHz-802.11ax-2x2-2.4G&5G-1xM.2-E-key-Sample-price:200USD/pcs-www.wallystech.com](https://blogread.cn/news/go.php?idItem=15020&url=https%3A%2F%2Fwww.wallystech.com%2FRouterboard%2FDR6018-CP01-wifi6-Qualcomm-IPQ6010-IPQ6018-FAMILY-2T2R-2.5G-ETH-port-CP01-802-11AX-MU-MIMO-OFDMA.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-04-19-Routerboard/DR4018L-R-Qualcomm-IPQ4018-2T2R-Dual-Band-2-4GHz-5GHz-support-OpenWRT-802.11ac-Wave-2-www.wallystech.com](https://blogread.cn/news/go.php?idItem=15019&url=https%3A%2F%2Fwww.wallystech.com%2FRouterboard%2FDR4018L-R-Qualcomm-IPQ4018-2T2R-Dual-Band-2-4GHz-5GHz-support-OpenWRT-802.11ac-Wave-2.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-04-19-Routerboard/DR40X9-Qualcomm-IPQ-4019-4029-DUAL-BAND-802.11AC-WAVE2-MU-MIMO-ONBOARD-WIFI-RADIO-EMBEDDED-BOARD-supporting-LTE-www.wallystech.com](https://blogread.cn/news/go.php?idItem=15018&url=https%3A%2F%2Fwww.wallystech.com%2FRouterboard%2FDR40X9-Qualcomm-IPQ-4019-4029-DUAL-BAND-802.11AC-WAVE2-MU-MIMO-ONBOARD-WIFI-RADIO-EMBEDDED-BOARD-supporting-LTE.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -128,8 +131,8 @@
 - [【技术头条】2022-04-19-如何提升代码质量-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15003&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-improve-code-quality%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-04-19-什么场景（不）适合使用Lambda-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15002&url=https%3A%2F%2Finsights.thoughtworks.cn%2Flambda%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-04-19-一个Go语言实现的数据库-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15001&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493739%26amp%3Bidx%3D2%26amp%3Bsn%3D4a4b26ae5568e9b803c4acccf034e14a%26amp%3Bchksm%3Dfa3f0930cd4880269fa44443630db1c9b5b6d8da39d2d1f3e04537413a67ab95290d714b2ed6%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
-- [【开发者头条】2022-04-19-如何获取优质信息？推荐一种高手都在用的方式！](https://toutiao.io/k/5wlqiik) 
 - [【开发者头条】2022-04-19-微服务网关选型：5种主流-API-网关，哪个最香！](https://toutiao.io/k/jtyo70d) 
+- [【开发者头条】2022-04-19-如何获取优质信息？推荐一种高手都在用的方式！](https://toutiao.io/k/5wlqiik) 
 - [【开发者头条】2022-04-19-2.2W字汇总数据仓库知识点](https://toutiao.io/k/dis2a56) 
 - [【开发者头条】2022-04-19-Agora开发者创业讲堂丨第2期：创业初期如何进行技术选型与架构设计？](https://toutiao.io/k/56lbpi4) 
 - [【开发者头条】2022-04-19-干货-|-Elasticsearch-检索类型选型指南](https://toutiao.io/k/ha9vvux) 
@@ -141,17 +144,17 @@
 - [【开发者头条】2022-04-19-如何建立高效的质量保障机制](https://toutiao.io/k/vrs53hb) 
 - [【开发者头条】2022-04-19-竟然有一半的人不知道-for-与-foreach-的区别？？？](https://toutiao.io/k/iabg3c1) 
 - [【开发者头条】2022-04-19-实在买不到菜，写了一个抢菜的自动化插件](https://toutiao.io/k/2q4uedx) 
-- [【开发者头条】2022-04-19-跨国大公司的正反两面——高科技人才在跨国大公司的生存之道（一）](https://toutiao.io/k/6tmgqd0) 
-- [【开发者头条】2022-04-19-马里奥制造，Ready~~GO！「GitHub-热点速览」](https://toutiao.io/k/70ltft5) 
 - [【开发者头条】2022-04-19-比-eval-和-iframe-更强的新一代-JavaScript-沙箱！](https://toutiao.io/k/08n78n7) 
+- [【开发者头条】2022-04-19-马里奥制造，Ready~~GO！「GitHub-热点速览」](https://toutiao.io/k/70ltft5) 
+- [【开发者头条】2022-04-19-跨国大公司的正反两面——高科技人才在跨国大公司的生存之道（一）](https://toutiao.io/k/6tmgqd0) 
 - [【开发者头条】2022-04-19-【TS】1294--搞懂-TypeScript-中的映射类型（Mapped-Types）](https://toutiao.io/k/dywxty7) 
-- [【开发者头条】2022-04-19-推荐-技术开发人员如何制定自己的OKR](https://toutiao.io/k/zq8oiet) 
-- [【开发者头条】2022-04-19-推荐-9大高性能优化经验总结，强烈建议收藏！！！](https://toutiao.io/k/26za4ep) 
-- [【开发者头条】2022-04-19-推荐-谷歌工程最佳实践](https://toutiao.io/k/q19mmjh) 
-- [【开发者头条】2022-04-19-推荐-系统架构的11条原则](https://toutiao.io/k/xbwjqgj) 
-- [【开发者头条】2022-04-19-推荐-解析分布式系统的缓存设计](https://toutiao.io/k/pucrtli) 
-- [【开发者头条】2022-04-19-推荐-万字长文，教你用go开发区块链应用](https://toutiao.io/k/3f3i7ey) 
 - [【开发者头条】2022-04-19-推荐-腾讯一面：CORS为什么能保障安全？为什么只对复杂请求做预检？](https://toutiao.io/k/quomj0f) 
+- [【开发者头条】2022-04-19-推荐-万字长文，教你用go开发区块链应用](https://toutiao.io/k/3f3i7ey) 
+- [【开发者头条】2022-04-19-推荐-谷歌工程最佳实践](https://toutiao.io/k/q19mmjh) 
+- [【开发者头条】2022-04-19-推荐-技术开发人员如何制定自己的OKR](https://toutiao.io/k/zq8oiet) 
+- [【开发者头条】2022-04-19-推荐-解析分布式系统的缓存设计](https://toutiao.io/k/pucrtli) 
+- [【开发者头条】2022-04-19-推荐-系统架构的11条原则](https://toutiao.io/k/xbwjqgj) 
+- [【开发者头条】2022-04-19-推荐-9大高性能优化经验总结，强烈建议收藏！！！](https://toutiao.io/k/26za4ep) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

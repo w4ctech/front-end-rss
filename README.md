@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-04-19 04:08:31，:rocket: 更新条数: +2030， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-04-19 05:03:28，:rocket: 更新条数: +2033， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,14 @@
 </summary>
 
 
+- [2022-04-19-付费-蒙特利尔找人带个-15.6-寸的笔记本电脑回国，大概-2kg](https://www.v2ex.com/t/847871) ![](assets/new.png)  
+- [2022-04-19-承认平庸，接受平庸，但我要变强](https://www.v2ex.com/t/847870) ![](assets/new.png)  
+- [2022-04-19-能实现泛域名到泛域名的反向代理吗](https://www.v2ex.com/t/847869) ![](assets/new.png)  
+- [2022-04-19-如何确保一个类是跨进程安全的？](https://www.v2ex.com/t/847868) ![](assets/new.png)  
+- [2022-04-19-杭州/可远程-诚聘区块链后端工程师](https://www.v2ex.com/t/847867) ![](assets/new.png)  
+- [2022-04-19-OneDrive-Mac-版在-Big-Sur-与-Monterey-多系统之间同步的坑](https://www.v2ex.com/t/847866) ![](assets/new.png)  
+- [2022-04-19-家传砖石牌台扇已阵亡，求推荐声噪小点的电风扇](https://www.v2ex.com/t/847865) ![](assets/new.png)  
+- [2022-04-19-VSCode-Terminal-独立-APP](https://www.v2ex.com/t/847864) ![](assets/new.png)  
 - [2022-04-19-网关将请求转发到外部时，需要过滤敏感请求头，若不过滤，请求头泄露了，会造成什么影响吗？](https://www.v2ex.com/t/847863) ![](assets/new.png)  
 - [2022-04-19-问个生活上的问题，鞋子刷完比较湿，怎么办](https://www.v2ex.com/t/847861) ![](assets/new.png)  
 - [2022-04-19-求教运维大佬怎么维护公司服务器和项目的](https://www.v2ex.com/t/847860) ![](assets/new.png)  
@@ -503,14 +511,6 @@
 - [2022-04-19-5G-信号是不是没了？](https://www.v2ex.com/t/847850) ![](assets/new.png)  
 - [2022-04-19-请教一个-openwrt-ipv6-的设置问题](https://www.v2ex.com/t/847849) ![](assets/new.png)  
 - [2022-04-19-体验了一下日本的软考](https://www.v2ex.com/t/847848) ![](assets/new.png)  
-- [2022-04-19-Windows-Terminal-+-Git-Bash-是我在-Windows-上用过的最舒服的命令行环境组合](https://www.v2ex.com/t/847847) ![](assets/new.png)  
-- [2022-04-19-坐标浙江嘉兴，新装宽带电信-or-联通？](https://www.v2ex.com/t/847846) ![](assets/new.png)  
-- [2022-04-19-有没有类似的-PythonPyMongoMongoDB-的教程文档](https://www.v2ex.com/t/847845) ![](assets/new.png)  
-- [2022-04-19-apple-tv-监控或猫眼画中画支持](https://www.v2ex.com/t/847844) ![](assets/new.png)  
-- [2022-04-19-是的-无追现在匿名搜索突破-600-万次了。](https://www.v2ex.com/t/847842) ![](assets/new.png)  
-- [2022-04-19-想把-ac86u-换掉-,-老铁们有何推荐?](https://www.v2ex.com/t/847841) ![](assets/new.png)  
-- [2022-04-19-有多少人接受了自己平庸的?](https://www.v2ex.com/t/847840) ![](assets/new.png)  
-- [2022-04-19-auto-sleep-感觉挺神奇](https://www.v2ex.com/t/847839) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -553,8 +553,8 @@
 </summary>
 
 
-- [2022-04-19-如何获取优质信息？推荐一种高手都在用的方式！](https://toutiao.io/k/5wlqiik) ![](assets/new.png)  
 - [2022-04-19-微服务网关选型：5种主流-API-网关，哪个最香！](https://toutiao.io/k/jtyo70d) ![](assets/new.png)  
+- [2022-04-19-如何获取优质信息？推荐一种高手都在用的方式！](https://toutiao.io/k/5wlqiik) ![](assets/new.png)  
 - [2022-04-19-2.2W字汇总数据仓库知识点](https://toutiao.io/k/dis2a56) ![](assets/new.png)  
 - [2022-04-19-Agora开发者创业讲堂丨第2期：创业初期如何进行技术选型与架构设计？](https://toutiao.io/k/56lbpi4) ![](assets/new.png)  
 - [2022-04-19-干货-|-Elasticsearch-检索类型选型指南](https://toutiao.io/k/ha9vvux) ![](assets/new.png)  
@@ -566,12 +566,12 @@
 - [2022-04-19-如何建立高效的质量保障机制](https://toutiao.io/k/vrs53hb) ![](assets/new.png)  
 - [2022-04-19-竟然有一半的人不知道-for-与-foreach-的区别？？？](https://toutiao.io/k/iabg3c1) ![](assets/new.png)  
 - [2022-04-19-实在买不到菜，写了一个抢菜的自动化插件](https://toutiao.io/k/2q4uedx) ![](assets/new.png)  
-- [2022-04-19-跨国大公司的正反两面——高科技人才在跨国大公司的生存之道（一）](https://toutiao.io/k/6tmgqd0) ![](assets/new.png)  
-- [2022-04-19-马里奥制造，Ready~~GO！「GitHub-热点速览」](https://toutiao.io/k/70ltft5) ![](assets/new.png)  
 - [2022-04-19-比-eval-和-iframe-更强的新一代-JavaScript-沙箱！](https://toutiao.io/k/08n78n7) ![](assets/new.png)  
+- [2022-04-19-马里奥制造，Ready~~GO！「GitHub-热点速览」](https://toutiao.io/k/70ltft5) ![](assets/new.png)  
+- [2022-04-19-跨国大公司的正反两面——高科技人才在跨国大公司的生存之道（一）](https://toutiao.io/k/6tmgqd0) ![](assets/new.png)  
 - [2022-04-19-【TS】1294--搞懂-TypeScript-中的映射类型（Mapped-Types）](https://toutiao.io/k/dywxty7) ![](assets/new.png)  
-- [2022-04-19-推荐-技术开发人员如何制定自己的OKR](https://toutiao.io/k/zq8oiet) ![](assets/new.png)  
-- [2022-04-19-推荐-9大高性能优化经验总结，强烈建议收藏！！！](https://toutiao.io/k/26za4ep) ![](assets/new.png)  
+- [2022-04-19-推荐-腾讯一面：CORS为什么能保障安全？为什么只对复杂请求做预检？](https://toutiao.io/k/quomj0f) ![](assets/new.png)  
+- [2022-04-19-推荐-万字长文，教你用go开发区块链应用](https://toutiao.io/k/3f3i7ey) ![](assets/new.png)  
 - [2022-04-19-推荐-谷歌工程最佳实践](https://toutiao.io/k/q19mmjh) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

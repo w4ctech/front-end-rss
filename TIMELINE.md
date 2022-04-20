@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-04-20 09:14:29。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-04-20 09:41:03。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,12 @@
 </summary>
 
 
+- [【V2EX】2022-04-20-还有比“电视家”好用的电视点播类-APP-吗](https://www.v2ex.com/t/848203) 
+- [【V2EX】2022-04-20-腾讯-2023-年毕业实习生内推](https://www.v2ex.com/t/848202) 
+- [【V2EX】2022-04-20-2022-年了，目前的-go-web-框架-Gin-Beego-Iris-如何选择？](https://www.v2ex.com/t/848201) 
+- [【V2EX】2022-04-20-真的有人在项目中进行-TS-类型体操吗?](https://www.v2ex.com/t/848199) 
+- [【V2EX】2022-04-20-为什么微信那么占空间，而电报（telegram）却没有这个问题？](https://www.v2ex.com/t/848198) 
+- [【V2EX】2022-04-20-考勤打卡后端业务是怎么实现的？](https://www.v2ex.com/t/848195) 
 - [【V2EX】2022-04-20-大文件上传-需要注意什么？](https://www.v2ex.com/t/848193) 
 - [【V2EX】2022-04-20-想找人帮画个-app-的-ui，各位知道哪有靠谱平台吗](https://www.v2ex.com/t/848192) 
 - [【V2EX】2022-04-20-v-友们，-youtube-有哪些推荐的频道？](https://www.v2ex.com/t/848191) 
@@ -101,15 +107,6 @@
 - [【V2EX】2022-04-20-homepod-只能通过-appletv-连接电视吗？](https://www.v2ex.com/t/848156) 
 - [【V2EX】2022-04-20-求助：-Hadoop-中使用-Hbase-异常](https://www.v2ex.com/t/848155) 
 - [【V2EX】2022-04-20-有没有什么开源的-IM](https://www.v2ex.com/t/848154) 
-- [【V2EX】2022-04-20-北京哪里可以吃口味蛇啊友友们](https://www.v2ex.com/t/848153) 
-- [【V2EX】2022-04-20-来到-2022，深度-Linux-是不是还挺好用的？](https://www.v2ex.com/t/848152) 
-- [【V2EX】2022-04-20-请问一下大佬们，想要做-cloudcone-上面，使用-docker-搭建-freshrss、cloudreve-等服务，至少需要买怎么样的配置啊](https://www.v2ex.com/t/848151) 
-- [【V2EX】2022-04-20-北京-Java-工作-4-年-薪资应该是什么样子?](https://www.v2ex.com/t/848150) 
-- [【V2EX】2022-04-20-控诉-lg-ultrafine5k-售后](https://www.v2ex.com/t/848149) 
-- [【V2EX】2022-04-20-片面感觉前端（有一部分）是在提高入行门槛](https://www.v2ex.com/t/848148) 
-- [【V2EX】2022-04-20-win-笔记本从休眠状态醒来卡在启动是不是比较常见？](https://www.v2ex.com/t/848147) 
-- [【V2EX】2022-04-20-求背包推荐，想要个背感不错的，装拯救者-y9000p](https://www.v2ex.com/t/848146) 
-- [【V2EX】2022-04-20-北京-急招：前端研发工程师-15k-25k](https://www.v2ex.com/t/848145) 
 - [【技术头条】2022-04-20-最佳Web编程语言都有哪些？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15027&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493914%26amp%3Bidx%3D2%26amp%3Bsn%3D5903e1008661081b1e592a4854edf501%26amp%3Bchksm%3Dfa3f0841cd48815742cf760b2d181f03766f4d963c8a3aef96790b8ac5f386876f643f22e000%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-04-20-CodeReview价值百万！！！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15026&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493913%26amp%3Bidx%3D1%26amp%3Bsn%3D52ab2ee1a58002e7f706d28ab3946b5b%26amp%3Bchksm%3Dfa3f0842cd488154598f87855b8ecae16c1ec58d62b0f81a16b3523e9a8c08275c94b5762032%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-04-20-大厂MySQL规范，从入门到精通！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15025&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493913%26amp%3Bidx%3D2%26amp%3Bsn%3Da47e2c8b586c893c647d3d6da53550a6%26amp%3Bchksm%3Dfa3f0842cd488154aa87b2b18e554815542041944da605bb191891863dd09a42a73f7afe4664%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -147,16 +144,16 @@
 - [【开发者头条】2022-04-20-测量分析谁做最合适？](https://toutiao.io/k/xypsymi) 
 - [【开发者头条】2022-04-20-使用-Elastic-GPU-管理-Kubernetes-GPU-资源](https://toutiao.io/k/wy8h5gv) 
 - [【开发者头条】2022-04-20-HBase-读写设计实践](https://toutiao.io/k/9rk0spl) 
+- [【开发者头条】2022-04-20-CUDA-编程方法论之性能优化思路](https://toutiao.io/k/opc4nh7) 
 - [【开发者头条】2022-04-20-你认可哪种声音？新提案：创建-Go-简单类型的指针表达式](https://toutiao.io/k/cu3fxba) 
 - [【开发者头条】2022-04-20-第三个Proxyless-Service-Mesh：dubbo-go-mesh](https://toutiao.io/k/zlwvfe2) 
-- [【开发者头条】2022-04-20-CUDA-编程方法论之性能优化思路](https://toutiao.io/k/opc4nh7) 
-- [【开发者头条】2022-04-20-推荐-腾讯一面：CORS为什么能保障安全？为什么只对复杂请求做预检？](https://toutiao.io/k/quomj0f) 
-- [【开发者头条】2022-04-20-推荐-系统架构的11条原则](https://toutiao.io/k/xbwjqgj) 
-- [【开发者头条】2022-04-20-推荐-解析分布式系统的缓存设计](https://toutiao.io/k/pucrtli) 
 - [【开发者头条】2022-04-20-推荐-万字长文，教你用go开发区块链应用](https://toutiao.io/k/3f3i7ey) 
+- [【开发者头条】2022-04-20-推荐-技术开发人员如何制定自己的OKR](https://toutiao.io/k/zq8oiet) 
 - [【开发者头条】2022-04-20-推荐-谷歌工程最佳实践](https://toutiao.io/k/q19mmjh) 
 - [【开发者头条】2022-04-20-推荐-9大高性能优化经验总结，强烈建议收藏！！！](https://toutiao.io/k/26za4ep) 
-- [【开发者头条】2022-04-20-推荐-技术开发人员如何制定自己的OKR](https://toutiao.io/k/zq8oiet) 
+- [【开发者头条】2022-04-20-推荐-系统架构的11条原则](https://toutiao.io/k/xbwjqgj) 
+- [【开发者头条】2022-04-20-推荐-腾讯一面：CORS为什么能保障安全？为什么只对复杂请求做预检？](https://toutiao.io/k/quomj0f) 
+- [【开发者头条】2022-04-20-推荐-解析分布式系统的缓存设计](https://toutiao.io/k/pucrtli) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

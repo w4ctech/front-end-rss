@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-04-20 15:46:41，:rocket: 更新条数: +2032， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-04-20 16:19:13，:rocket: 更新条数: +2030， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,10 @@
 </summary>
 
 
+- [2022-04-20-在深圳七年了](https://www.v2ex.com/t/848267) ![](assets/new.png)  
+- [2022-04-20-使用-playcover-和-pd-运行同一款游戏的-CPU-使用情况对比](https://www.v2ex.com/t/848266) ![](assets/new.png)  
+- [2022-04-20-如何查询出全部记录中该字段的值全为空的字段？](https://www.v2ex.com/t/848265) ![](assets/new.png)  
+- [2022-04-20-lnmp-和-lnmpa-选哪个好？](https://www.v2ex.com/t/848264) ![](assets/new.png)  
 - [2022-04-20-你們是去哪找數據-去訓練-deep-learning-tensorflow-的?](https://www.v2ex.com/t/848263) ![](assets/new.png)  
 - [2022-04-20-这款显示器怎么样，对于-4K-24-寸大小的来说？](https://www.v2ex.com/t/848262) ![](assets/new.png)  
 - [2022-04-20-三星国行怎么设置进程锁呢](https://www.v2ex.com/t/848261) ![](assets/new.png)  
@@ -507,10 +511,6 @@
 - [2022-04-20-想淘一张澳洲的电话卡](https://www.v2ex.com/t/848246) ![](assets/new.png)  
 - [2022-04-20-Linux-服务器需要每个月更新系统吗](https://www.v2ex.com/t/848245) ![](assets/new.png)  
 - [2022-04-20-Mac-版本-Beyond-Compare-太卡，有替代品么？](https://www.v2ex.com/t/848243) ![](assets/new.png)  
-- [2022-04-20-怎么查历史铁路数据](https://www.v2ex.com/t/848242) ![](assets/new.png)  
-- [2022-04-20-对象锁的锁标识在对象头的-markword-中，那么类锁标识存放在哪里？这两者是怎样保证实例方法和静态方法互不干扰的？](https://www.v2ex.com/t/848239) ![](assets/new.png)  
-- [2022-04-20-群晖被-GFW-了？](https://www.v2ex.com/t/848238) ![](assets/new.png)  
-- [2022-04-20-求解：关于服务器基础线程和-Tomcat-的线程数关系](https://www.v2ex.com/t/848237) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -561,8 +561,8 @@
 - [2022-04-20-重写Babel：分词器](https://toutiao.io/k/5gtmxcm) ![](assets/new.png)  
 - [2022-04-20-什么是算法？](https://toutiao.io/k/gripcb1) ![](assets/new.png)  
 - [2022-04-20-从高级程序员的角度来看，Rust-基础知识](https://toutiao.io/k/76ky4oe) ![](assets/new.png)  
-- [2022-04-20-聊聊我对敏捷项目交付的理解](https://toutiao.io/k/f5bwnz1) ![](assets/new.png)  
 - [2022-04-20-使用-Elastic-GPU-管理-Kubernetes-GPU-资源](https://toutiao.io/k/wy8h5gv) ![](assets/new.png)  
+- [2022-04-20-聊聊我对敏捷项目交付的理解](https://toutiao.io/k/f5bwnz1) ![](assets/new.png)  
 - [2022-04-20-深度好文｜探寻云原生时代应用研发新模式](https://toutiao.io/k/ph03564) ![](assets/new.png)  
 - [2022-04-20-强大的-Gensim-库用于-NLP-文本分析](https://toutiao.io/k/d55ikid) ![](assets/new.png)  
 - [2022-04-20-携程酒店搜索引擎AWS上云实践](https://toutiao.io/k/ry8gziw) ![](assets/new.png)  

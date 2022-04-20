@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-04-20 11:12:57。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-04-20 11:37:35。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -16,4 +16,3 @@
 - [2022-03-15-基于howler.js写了个音频播放器组件](https://www.zhangxinxu.com/wordpress/2022/03/howler-js-audio-player/) 
 - [2022-03-07-介绍8个和滚动相关的CSS属性](https://www.zhangxinxu.com/wordpress/2022/03/10-css-scroll-scrollbar/) 
 - [2022-04-20-Python3-列表能被闭包函数使用，整数变量却不行呢？](https://www.v2ex.com/t/848218) 
-- [2022-04-20-V-友求助，关于辅助路由魔法上网](https://www.v2ex.com/t/848176) 

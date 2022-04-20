@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-04-20 13:52:34。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-04-20 14:14:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -15,4 +15,6 @@
 - [2021-03-03-港府回应一63岁患者死亡事件-暂无法确定与疫苗相关](https://m.caixin.com/m/2021-03-03/101670052.html) 
 - [2022-03-15-基于howler.js写了个音频播放器组件](https://www.zhangxinxu.com/wordpress/2022/03/howler-js-audio-player/) 
 - [2022-03-07-介绍8个和滚动相关的CSS属性](https://www.zhangxinxu.com/wordpress/2022/03/10-css-scroll-scrollbar/) 
+- [2022-04-20-js-桌面应用：颜色选择器](https://www.v2ex.com/t/848252) 
+- [2022-04-20-求稳定的可装插件的无线路由器](https://www.v2ex.com/t/848250) 
 - [2022-04-20-Python3-列表能被闭包函数使用，整数变量却不行呢？](https://www.v2ex.com/t/848218) 

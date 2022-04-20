@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-04-20 13:10:39。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-04-20 13:52:34。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1913,6 +1913,10 @@
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2022-03-21-ascent-override-descent-override-line-gap-override一锅端](https://www.zhangxinxu.com/wordpress/2022/03/css-ascent-override-descent/) 
 - [2022-02-04-HTML-inputmode与iOS-Android软键盘类型测试](https://www.zhangxinxu.com/wordpress/2022/02/html-inputmode-keyboard/) 
+- [2022-04-20-专科毕业生留在大城市还是回老家](https://www.v2ex.com/t/848249) 
+- [2022-04-20-求推荐人工学座椅，预算-3k-左右，谢谢大家](https://www.v2ex.com/t/848248) 
+- [2022-04-20-想淘一张澳洲的电话卡](https://www.v2ex.com/t/848246) 
+- [2022-04-20-Linux-服务器需要每个月更新系统吗](https://www.v2ex.com/t/848245) 
 - [2022-04-20-Mac-版本-Beyond-Compare-太卡，有替代品么？](https://www.v2ex.com/t/848243) 
 - [2022-04-20-怎么查历史铁路数据](https://www.v2ex.com/t/848242) 
 - [2022-04-20-对象锁的锁标识在对象头的-markword-中，那么类锁标识存放在哪里？这两者是怎样保证实例方法和静态方法互不干扰的？](https://www.v2ex.com/t/848239) 
@@ -1944,9 +1948,6 @@
 - [2022-04-20-还有比“电视家”好用的电视点播类-APP-吗](https://www.v2ex.com/t/848203) 
 - [2022-04-20-腾讯-2023-年毕业实习生内推](https://www.v2ex.com/t/848202) 
 - [2022-04-20-2022-年了，目前的-go-web-框架-Gin-Beego-Iris-如何选择？](https://www.v2ex.com/t/848201) 
-- [2022-04-20-真的有人在项目中进行-TS-类型体操吗?](https://www.v2ex.com/t/848199) 
-- [2022-04-20-为什么微信那么占空间，而电报（telegram）却没有这个问题？](https://www.v2ex.com/t/848198) 
-- [2022-04-20-考勤打卡后端业务是怎么实现的？](https://www.v2ex.com/t/848195) 
 - [2022-04-20-最佳Web编程语言都有哪些？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15027&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493914%26amp%3Bidx%3D2%26amp%3Bsn%3D5903e1008661081b1e592a4854edf501%26amp%3Bchksm%3Dfa3f0841cd48815742cf760b2d181f03766f4d963c8a3aef96790b8ac5f386876f643f22e000%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-04-20-大厂MySQL规范，从入门到精通！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15025&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493913%26amp%3Bidx%3D2%26amp%3Bsn%3Da47e2c8b586c893c647d3d6da53550a6%26amp%3Bchksm%3Dfa3f0842cd488154aa87b2b18e554815542041944da605bb191891863dd09a42a73f7afe4664%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-04-20-这可能是史上功能最全的Java权限认证框架！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15023&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493912%26amp%3Bidx%3D2%26amp%3Bsn%3D236e4980e88e8575bf7d03abd6951feb%26amp%3Bchksm%3Dfa3f0843cd488155339c25fa4e234faee145d56f7c3bb61a2bfaaf96b3f4f6e871dfe995f47a%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1977,6 +1978,6 @@
 - [2022-04-20-HBase-读写设计实践](https://toutiao.io/k/9rk0spl) 
 - [2022-04-20-你认可哪种声音？新提案：创建-Go-简单类型的指针表达式](https://toutiao.io/k/cu3fxba) 
 - [2022-04-20-推荐-万字长文，教你用go开发区块链应用](https://toutiao.io/k/3f3i7ey) 
-- [2022-04-20-推荐-技术开发人员如何制定自己的OKR](https://toutiao.io/k/zq8oiet) 
 - [2022-04-20-推荐-谷歌工程最佳实践](https://toutiao.io/k/q19mmjh) 
 - [2022-04-20-推荐-系统架构的11条原则](https://toutiao.io/k/xbwjqgj) 
+- [2022-04-20-推荐-技术开发人员如何制定自己的OKR](https://toutiao.io/k/zq8oiet) 

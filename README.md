@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-04-20 18:16:10，:rocket: 更新条数: +2030， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-04-20 18:45:01，:rocket: 更新条数: +2030， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-04-20-现在带有-Google-Play-的最大电池容量的安卓手机是什么？](https://www.v2ex.com/t/848271) ![](assets/new.png)  
 - [2022-04-20-V-友们有没有大尺寸的轨迹球推荐](https://www.v2ex.com/t/848270) ![](assets/new.png)  
 - [2022-04-20-日元汇率暴跌，苹果产品价格跌至国内的-7~8-成，买爆！](https://www.v2ex.com/t/848269) ![](assets/new.png)  
 - [2022-04-20-如何应对浮躁](https://www.v2ex.com/t/848268) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-04-20-关于一个远程控制问题求解](https://www.v2ex.com/t/848251) ![](assets/new.png)  
 - [2022-04-20-求稳定的可装插件的无线路由器](https://www.v2ex.com/t/848250) ![](assets/new.png)  
 - [2022-04-20-专科毕业生留在大城市还是回老家](https://www.v2ex.com/t/848249) ![](assets/new.png)  
-- [2022-04-20-求推荐人工学座椅，预算-3k-左右，谢谢大家](https://www.v2ex.com/t/848248) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

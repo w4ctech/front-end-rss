@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-04-20 19:37:25。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-04-20 20:16:31。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -143,14 +143,14 @@
 - [【开发者头条】2022-04-20-数据指标体系建设实践（术）](https://toutiao.io/k/wuwwjw5) 
 - [【开发者头条】2022-04-20-无人值守的自动捡漏抢菜工具](https://toutiao.io/k/zgkiwh4) 
 - [【开发者头条】2022-04-20-测量分析谁做最合适？](https://toutiao.io/k/xypsymi) 
-- [【开发者头条】2022-04-20-你认可哪种声音？新提案：创建-Go-简单类型的指针表达式](https://toutiao.io/k/cu3fxba) 
 - [【开发者头条】2022-04-20-CUDA-编程方法论之性能优化思路](https://toutiao.io/k/opc4nh7) 
+- [【开发者头条】2022-04-20-你认可哪种声音？新提案：创建-Go-简单类型的指针表达式](https://toutiao.io/k/cu3fxba) 
 - [【开发者头条】2022-04-20-HBase-读写设计实践](https://toutiao.io/k/9rk0spl) 
 - [【开发者头条】2022-04-20-第三个Proxyless-Service-Mesh：dubbo-go-mesh](https://toutiao.io/k/zlwvfe2) 
-- [【开发者头条】2022-04-20-推荐-腾讯一面：CORS为什么能保障安全？为什么只对复杂请求做预检？](https://toutiao.io/k/quomj0f) 
+- [【开发者头条】2022-04-20-推荐-9大高性能优化经验总结，强烈建议收藏！！！](https://toutiao.io/k/26za4ep) 
 - [【开发者头条】2022-04-20-推荐-万字长文，教你用go开发区块链应用](https://toutiao.io/k/3f3i7ey) 
 - [【开发者头条】2022-04-20-推荐-解析分布式系统的缓存设计](https://toutiao.io/k/pucrtli) 
-- [【开发者头条】2022-04-20-推荐-9大高性能优化经验总结，强烈建议收藏！！！](https://toutiao.io/k/26za4ep) 
+- [【开发者头条】2022-04-20-推荐-腾讯一面：CORS为什么能保障安全？为什么只对复杂请求做预检？](https://toutiao.io/k/quomj0f) 
 - [【开发者头条】2022-04-20-推荐-技术开发人员如何制定自己的OKR](https://toutiao.io/k/zq8oiet) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-04-20 04:28:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-04-20 05:14:03。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -16,4 +16,3 @@
 - [2022-03-15-基于howler.js写了个音频播放器组件](https://www.zhangxinxu.com/wordpress/2022/03/howler-js-audio-player/) 
 - [2022-03-07-介绍8个和滚动相关的CSS属性](https://www.zhangxinxu.com/wordpress/2022/03/10-css-scroll-scrollbar/) 
 - [2022-04-20-超-5-类网线，路由测速只能跑到-100M-带宽](https://www.v2ex.com/t/848101) 
-- [2022-04-20-想-DIY-软路由，有什么学习渠道吗？](https://www.v2ex.com/t/848056) 

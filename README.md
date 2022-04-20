@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-04-20 12:24:48，:rocket: 更新条数: +2031， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-04-20 13:10:39，:rocket: 更新条数: +2032， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,12 @@
 </summary>
 
 
+- [2022-04-20-Mac-版本-Beyond-Compare-太卡，有替代品么？](https://www.v2ex.com/t/848243) ![](assets/new.png)  
+- [2022-04-20-怎么查历史铁路数据](https://www.v2ex.com/t/848242) ![](assets/new.png)  
+- [2022-04-20-对象锁的锁标识在对象头的-markword-中，那么类锁标识存放在哪里？这两者是怎样保证实例方法和静态方法互不干扰的？](https://www.v2ex.com/t/848239) ![](assets/new.png)  
+- [2022-04-20-群晖被-GFW-了？](https://www.v2ex.com/t/848238) ![](assets/new.png)  
+- [2022-04-20-求解：关于服务器基础线程和-Tomcat-的线程数关系](https://www.v2ex.com/t/848237) ![](assets/new.png)  
+- [2022-04-20-0xf5808e4-指令引用的-0xfffffffff-内存，该内存不能为-read。要终止程序，请确定。](https://www.v2ex.com/t/848236) ![](assets/new.png)  
 - [2022-04-20-想问一下大家开发-h5/css/js/vue-的话都会安装什么插件啊](https://www.v2ex.com/t/848235) ![](assets/new.png)  
 - [2022-04-20-育新地铁站附近出租房子](https://www.v2ex.com/t/848234) ![](assets/new.png)  
 - [2022-04-20-有人有龙芯电脑吗？](https://www.v2ex.com/t/848233) ![](assets/new.png)  
@@ -505,12 +511,6 @@
 - [2022-04-20-哔哩哔哩手机端是不是阻止手机自动锁屏啊？](https://www.v2ex.com/t/848220) ![](assets/new.png)  
 - [2022-04-20-求助-Win-平台-vpn-在-pycharm-运行不同不同包代理异常](https://www.v2ex.com/t/848219) ![](assets/new.png)  
 - [2022-04-20-Python3-列表能被闭包函数使用，整数变量却不行呢？](https://www.v2ex.com/t/848218) ![](assets/new.png)  
-- [2022-04-20-有用-arch-的-deepin-wine-装过京东图书的吗](https://www.v2ex.com/t/848217) ![](assets/new.png)  
-- [2022-04-20-北京麦迪克斯科技科技公司怎么样？有大佬待过吗？](https://www.v2ex.com/t/848216) ![](assets/new.png)  
-- [2022-04-20-阿里云盘是不是限制下载速度了？](https://www.v2ex.com/t/848215) ![](assets/new.png)  
-- [2022-04-20-抖店网页，-Win-的-Chrome-能打开，-M1-的-Chrome-打不开，请问是为什么？](https://www.v2ex.com/t/848214) ![](assets/new.png)  
-- [2022-04-20-最近想裸辞](https://www.v2ex.com/t/848213) ![](assets/new.png)  
-- [2022-04-20-回老家工作生活的出路在哪里？](https://www.v2ex.com/t/848212) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -562,17 +562,17 @@
 - [2022-04-20-什么是算法？](https://toutiao.io/k/gripcb1) ![](assets/new.png)  
 - [2022-04-20-从高级程序员的角度来看，Rust-基础知识](https://toutiao.io/k/76ky4oe) ![](assets/new.png)  
 - [2022-04-20-聊聊我对敏捷项目交付的理解](https://toutiao.io/k/f5bwnz1) ![](assets/new.png)  
-- [2022-04-20-强大的-Gensim-库用于-NLP-文本分析](https://toutiao.io/k/d55ikid) ![](assets/new.png)  
 - [2022-04-20-使用-Elastic-GPU-管理-Kubernetes-GPU-资源](https://toutiao.io/k/wy8h5gv) ![](assets/new.png)  
+- [2022-04-20-强大的-Gensim-库用于-NLP-文本分析](https://toutiao.io/k/d55ikid) ![](assets/new.png)  
+- [2022-04-20-深度好文｜探寻云原生时代应用研发新模式](https://toutiao.io/k/ph03564) ![](assets/new.png)  
 - [2022-04-20-数据指标体系建设实践（术）](https://toutiao.io/k/wuwwjw5) ![](assets/new.png)  
 - [2022-04-20-携程酒店搜索引擎AWS上云实践](https://toutiao.io/k/ry8gziw) ![](assets/new.png)  
 - [2022-04-20-无人值守的自动捡漏抢菜工具](https://toutiao.io/k/zgkiwh4) ![](assets/new.png)  
-- [2022-04-20-深度好文｜探寻云原生时代应用研发新模式](https://toutiao.io/k/ph03564) ![](assets/new.png)  
 - [2022-04-20-测量分析谁做最合适？](https://toutiao.io/k/xypsymi) ![](assets/new.png)  
 - [2022-04-20-CUDA-编程方法论之性能优化思路](https://toutiao.io/k/opc4nh7) ![](assets/new.png)  
 - [2022-04-20-HBase-读写设计实践](https://toutiao.io/k/9rk0spl) ![](assets/new.png)  
-- [2022-04-20-第三个Proxyless-Service-Mesh：dubbo-go-mesh](https://toutiao.io/k/zlwvfe2) ![](assets/new.png)  
 - [2022-04-20-你认可哪种声音？新提案：创建-Go-简单类型的指针表达式](https://toutiao.io/k/cu3fxba) ![](assets/new.png)  
+- [2022-04-20-第三个Proxyless-Service-Mesh：dubbo-go-mesh](https://toutiao.io/k/zlwvfe2) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

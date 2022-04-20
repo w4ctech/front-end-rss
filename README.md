@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-04-20 10:15:07，:rocket: 更新条数: +2031， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-04-20 10:42:41，:rocket: 更新条数: +2033， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,11 @@
 </summary>
 
 
+- [2022-04-20-有用-arch-的-deepin-wine-装过京东图书的吗](https://www.v2ex.com/t/848217) ![](assets/new.png)  
+- [2022-04-20-北京麦迪克斯科技科技公司怎么样？有大佬待过吗？](https://www.v2ex.com/t/848216) ![](assets/new.png)  
+- [2022-04-20-阿里云盘是不是限制下载速度了？](https://www.v2ex.com/t/848215) ![](assets/new.png)  
+- [2022-04-20-抖店网页，-Win-的-Chrome-能打开，-M1-的-Chrome-打不开，请问是为什么？](https://www.v2ex.com/t/848214) ![](assets/new.png)  
+- [2022-04-20-最近想裸辞](https://www.v2ex.com/t/848213) ![](assets/new.png)  
 - [2022-04-20-回老家工作生活的出路在哪里？](https://www.v2ex.com/t/848212) ![](assets/new.png)  
 - [2022-04-20-想问下-el-table-的-v-if-的问题](https://www.v2ex.com/t/848211) ![](assets/new.png)  
 - [2022-04-20-k8s-脚本检测工具选择](https://www.v2ex.com/t/848210) ![](assets/new.png)  
@@ -506,11 +511,6 @@
 - [2022-04-20-为什么微信那么占空间，而电报（telegram）却没有这个问题？](https://www.v2ex.com/t/848198) ![](assets/new.png)  
 - [2022-04-20-考勤打卡后端业务是怎么实现的？](https://www.v2ex.com/t/848195) ![](assets/new.png)  
 - [2022-04-20-大文件上传-需要注意什么？](https://www.v2ex.com/t/848193) ![](assets/new.png)  
-- [2022-04-20-想找人帮画个-app-的-ui，各位知道哪有靠谱平台吗](https://www.v2ex.com/t/848192) ![](assets/new.png)  
-- [2022-04-20-v-友们，-youtube-有哪些推荐的频道？](https://www.v2ex.com/t/848191) ![](assets/new.png)  
-- [2022-04-20-有没有好用的网页快照保存、检索的工具](https://www.v2ex.com/t/848189) ![](assets/new.png)  
-- [2022-04-20-清醒梦-APP](https://www.v2ex.com/t/848188) ![](assets/new.png)  
-- [2022-04-20-请问上海租房有什么要注意的](https://www.v2ex.com/t/848185) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -563,16 +563,16 @@
 - [2022-04-20-从高级程序员的角度来看，Rust-基础知识](https://toutiao.io/k/76ky4oe) ![](assets/new.png)  
 - [2022-04-20-强大的-Gensim-库用于-NLP-文本分析](https://toutiao.io/k/d55ikid) ![](assets/new.png)  
 - [2022-04-20-聊聊我对敏捷项目交付的理解](https://toutiao.io/k/f5bwnz1) ![](assets/new.png)  
+- [2022-04-20-使用-Elastic-GPU-管理-Kubernetes-GPU-资源](https://toutiao.io/k/wy8h5gv) ![](assets/new.png)  
 - [2022-04-20-数据指标体系建设实践（术）](https://toutiao.io/k/wuwwjw5) ![](assets/new.png)  
 - [2022-04-20-无人值守的自动捡漏抢菜工具](https://toutiao.io/k/zgkiwh4) ![](assets/new.png)  
 - [2022-04-20-深度好文｜探寻云原生时代应用研发新模式](https://toutiao.io/k/ph03564) ![](assets/new.png)  
 - [2022-04-20-携程酒店搜索引擎AWS上云实践](https://toutiao.io/k/ry8gziw) ![](assets/new.png)  
-- [2022-04-20-使用-Elastic-GPU-管理-Kubernetes-GPU-资源](https://toutiao.io/k/wy8h5gv) ![](assets/new.png)  
 - [2022-04-20-测量分析谁做最合适？](https://toutiao.io/k/xypsymi) ![](assets/new.png)  
 - [2022-04-20-HBase-读写设计实践](https://toutiao.io/k/9rk0spl) ![](assets/new.png)  
 - [2022-04-20-CUDA-编程方法论之性能优化思路](https://toutiao.io/k/opc4nh7) ![](assets/new.png)  
-- [2022-04-20-你认可哪种声音？新提案：创建-Go-简单类型的指针表达式](https://toutiao.io/k/cu3fxba) ![](assets/new.png)  
 - [2022-04-20-第三个Proxyless-Service-Mesh：dubbo-go-mesh](https://toutiao.io/k/zlwvfe2) ![](assets/new.png)  
+- [2022-04-20-你认可哪种声音？新提案：创建-Go-简单类型的指针表达式](https://toutiao.io/k/cu3fxba) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

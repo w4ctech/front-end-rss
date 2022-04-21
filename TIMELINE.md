@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-04-21 10:15:53。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-04-21 10:44:45。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,12 @@
 </summary>
 
 
+- [【V2EX】2022-04-21-Devops-工程师-30-60-万/全职/可远程](https://www.v2ex.com/t/848418) 
+- [【V2EX】2022-04-21-有没有基于-oss-的静态网页做的网盘](https://www.v2ex.com/t/848417) 
+- [【V2EX】2022-04-21-k8s-如何实时监控-deployment-的部署结果](https://www.v2ex.com/t/848416) 
+- [【V2EX】2022-04-21-疫情期间流量不够用，怎么样的方案性价比高？](https://www.v2ex.com/t/848415) 
+- [【V2EX】2022-04-21-看看有没有需要我的公司，-7-年产品，-AI-方向](https://www.v2ex.com/t/848414) 
+- [【V2EX】2022-04-21-一个-ms-sqlserver-每天不足-1000-次查询，-620rmb/月，正常吗？](https://www.v2ex.com/t/848413) 
 - [【V2EX】2022-04-21-bytes.Buffer-包的疑惑](https://www.v2ex.com/t/848412) 
 - [【V2EX】2022-04-21-奋斗比之都最大的问题在于连部分打工人都真心认为-996-理所应当](https://www.v2ex.com/t/848411) 
 - [【V2EX】2022-04-21-Logseq-使用-tips](https://www.v2ex.com/t/848410) 
@@ -106,9 +112,6 @@
 - [【V2EX】2022-04-21-招聘：-Python-/-Java-/go-开发：-30-40-万](https://www.v2ex.com/t/848371) 
 - [【V2EX】2022-04-21-装-Linux-必须占用整个-u-盘吗](https://www.v2ex.com/t/848370) 
 - [【V2EX】2022-04-21-有苹果企业证书如何给应用签名？](https://www.v2ex.com/t/848369) 
-- [【V2EX】2022-04-21-如何完全卸载-ie](https://www.v2ex.com/t/848368) 
-- [【V2EX】2022-04-21-快手实习补招-快捷通道！近-100-个前后端岗位空缺！内有沟通群！](https://www.v2ex.com/t/848367) 
-- [【V2EX】2022-04-21-同事租房遇到无赖房东，退房时各种刁难，准备自诉](https://www.v2ex.com/t/848365) 
 - [【技术头条】2022-04-21-DR-AP4029-outdoor-Qualcomm-IPQ-4019-IPQ-4029-Outdoor-WiFi-5-Access-point-802-11ac-2x2-Mu-MIMO-dual-band-2-4-omni-5GHz-directional-antennas-www.wallys...](https://blogread.cn/news/go.php?idItem=15028&url=https%3A%2F%2Fwww.wallystech.com%2FIndustrial_Wireless_AP%2FDR-AP4029-outdoor-Qualcomm-IPQ-4019-IPQ-4029-Outdoor-WiFi-5-Access-point-802-11ac-2x2-Mu-MIMO-dual-band-2-4-omni-5GHz-directional-antennas-IP67.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-04-21-最佳Web编程语言都有哪些？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15027&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493914%26amp%3Bidx%3D2%26amp%3Bsn%3D5903e1008661081b1e592a4854edf501%26amp%3Bchksm%3Dfa3f0841cd48815742cf760b2d181f03766f4d963c8a3aef96790b8ac5f386876f643f22e000%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-04-21-CodeReview价值百万！！！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15026&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493913%26amp%3Bidx%3D1%26amp%3Bsn%3D52ab2ee1a58002e7f706d28ab3946b5b%26amp%3Bchksm%3Dfa3f0842cd488154598f87855b8ecae16c1ec58d62b0f81a16b3523e9a8c08275c94b5762032%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -147,11 +150,11 @@
 - [【开发者头条】2022-04-21-什么是-Flink-State-Evolution?](https://toutiao.io/k/pny6akk) 
 - [【开发者头条】2022-04-21-配置管理](https://toutiao.io/k/inib5a9) 
 - [【开发者头条】2022-04-21-Skynet设计初衷与常见并发编程模型解决方案](https://toutiao.io/k/4mhplyz) 
-- [【开发者头条】2022-04-21-推荐-技术开发人员如何制定自己的OKR](https://toutiao.io/k/zq8oiet) 
-- [【开发者头条】2022-04-21-推荐-万字长文，教你用go开发区块链应用](https://toutiao.io/k/3f3i7ey) 
 - [【开发者头条】2022-04-21-推荐-9大高性能优化经验总结，强烈建议收藏！！！](https://toutiao.io/k/26za4ep) 
-- [【开发者头条】2022-04-21-推荐-解析分布式系统的缓存设计](https://toutiao.io/k/pucrtli) 
+- [【开发者头条】2022-04-21-推荐-万字长文，教你用go开发区块链应用](https://toutiao.io/k/3f3i7ey) 
+- [【开发者头条】2022-04-21-推荐-技术开发人员如何制定自己的OKR](https://toutiao.io/k/zq8oiet) 
 - [【开发者头条】2022-04-21-推荐-腾讯一面：CORS为什么能保障安全？为什么只对复杂请求做预检？](https://toutiao.io/k/quomj0f) 
+- [【开发者头条】2022-04-21-推荐-解析分布式系统的缓存设计](https://toutiao.io/k/pucrtli) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

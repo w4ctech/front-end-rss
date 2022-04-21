@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-04-21 23:03:30。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-04-21 23:14:06。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,7 @@
 </summary>
 
 
+- [【V2EX】2022-04-21-不知道现阶段该做些什么了](https://www.v2ex.com/t/848481) 
 - [【V2EX】2022-04-21-本来想分享个更适合-mac-的搜狗输入法皮肤。。。](https://www.v2ex.com/t/848480) 
 - [【V2EX】2022-04-21-有个问题想请教一下，关于零和游戏的](https://www.v2ex.com/t/848479) 
 - [【V2EX】2022-04-21-如何不花钱或者少提高孩子的画画技能？](https://www.v2ex.com/t/848478) 
@@ -109,7 +110,6 @@
 - [【V2EX】2022-04-21-为何可以这样传递参数](https://www.v2ex.com/t/848435) 
 - [【V2EX】2022-04-21-一到两台机器小成本部部署的-Redis-服务一般是如何提高可用性的？](https://www.v2ex.com/t/848434) 
 - [【V2EX】2022-04-21-面试中的很宽泛的系统设计类问题，应该以什么思路回答？](https://www.v2ex.com/t/848433) 
-- [【V2EX】2022-04-21-写代码不格式化的，都是垃圾，不接受反驳！](https://www.v2ex.com/t/848431) 
 - [【技术头条】2022-04-21-DR-AP4029-outdoor-Qualcomm-IPQ-4019-IPQ-4029-Outdoor-WiFi-5-Access-point-802-11ac-2x2-Mu-MIMO-dual-band-2-4-omni-5GHz-directional-antennas-www.wallys...](https://blogread.cn/news/go.php?idItem=15028&url=https%3A%2F%2Fwww.wallystech.com%2FIndustrial_Wireless_AP%2FDR-AP4029-outdoor-Qualcomm-IPQ-4019-IPQ-4029-Outdoor-WiFi-5-Access-point-802-11ac-2x2-Mu-MIMO-dual-band-2-4-omni-5GHz-directional-antennas-IP67.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-04-21-最佳Web编程语言都有哪些？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15027&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493914%26amp%3Bidx%3D2%26amp%3Bsn%3D5903e1008661081b1e592a4854edf501%26amp%3Bchksm%3Dfa3f0841cd48815742cf760b2d181f03766f4d963c8a3aef96790b8ac5f386876f643f22e000%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-04-21-CodeReview价值百万！！！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15026&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493913%26amp%3Bidx%3D1%26amp%3Bsn%3D52ab2ee1a58002e7f706d28ab3946b5b%26amp%3Bchksm%3Dfa3f0842cd488154598f87855b8ecae16c1ec58d62b0f81a16b3523e9a8c08275c94b5762032%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -130,29 +130,13 @@
 - [【技术头条】2022-04-21-成为糟糕开发者的5个建议！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15011&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493786%26amp%3Bidx%3D1%26amp%3Bsn%3De4fafcc3e37d4def755e48013e67a524%26amp%3Bchksm%3Dfa3f09c1cd4880d7101d28a7953abb6778745cedbb626446dfea739e302a3101f15c9f967e9d%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-04-21-一名Vue程序员总结的React基础-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15010&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493786%26amp%3Bidx%3D2%26amp%3Bsn%3Dcb1b397c4dcef56609f8264b0ed005be%26amp%3Bchksm%3Dfa3f09c1cd4880d7da50685a77a5b5df2be61af93e6f16517cd26d86ebdade7cc4703d8abf43%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-04-21-H5小程序直播教程，一看就会！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15009&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493770%26amp%3Bidx%3D1%26amp%3Bsn%3D99961a9d794b403ca1d23e2818773bd4%26amp%3Bchksm%3Dfa3f09d1cd4880c7959f39950198bb945ea34593761e3ea104e4318e4e0c57d509c1b813358b%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
-- [【开发者头条】2022-04-21-收钱吧多泳道环境的演进](https://toutiao.io/k/59oz4qo) 
-- [【开发者头条】2022-04-21-Go-语言整洁架构实践](https://toutiao.io/k/uco7j8y) 
-- [【开发者头条】2022-04-21-国内再添开源图形引擎：蚂蚁-Oasis-Engine-实践之路](https://toutiao.io/k/9h9igaa) 
-- [【开发者头条】2022-04-21-FastDFS-海量小文件存储解决之道](https://toutiao.io/k/d85mi3w) 
-- [【开发者头条】2022-04-21-性能分析优化的道与术](https://toutiao.io/k/2bi822s) 
-- [【开发者头条】2022-04-21-浅谈JS内存机制](https://toutiao.io/k/cnr3qqf) 
-- [【开发者头条】2022-04-21-为什么需要可编程代理](https://toutiao.io/k/paowtzr) 
-- [【开发者头条】2022-04-21-Python-读取PDF文件为文本字符并转换为音频...](https://toutiao.io/k/pf11zv3) 
-- [【开发者头条】2022-04-21-实战案例-：浅谈网易严选用户行为分析](https://toutiao.io/k/yti0558) 
-- [【开发者头条】2022-04-21-突然掉电，为啥MySQL也不会丢失数据？（收藏）](https://toutiao.io/k/i1akjlm) 
-- [【开发者头条】2022-04-21-Flutter-音视频开发新思路](https://toutiao.io/k/mds9ecv) 
-- [【开发者头条】2022-04-21-阿里超大规模-Flink-集群运维体系介绍](https://toutiao.io/k/gooqgyf) 
-- [【开发者头条】2022-04-21-玩转-Spring-Boot-应用篇（引入RabbitMQ解决店铺下单峰值问题）](https://toutiao.io/k/59zxmwi) 
-- [【开发者头条】2022-04-21-技术干货-|-内网渗透之SOCKS代理的5类基本场景](https://toutiao.io/k/1bxzvaz) 
-- [【开发者头条】2022-04-21-Dapr-远程调试之-Nocalhost](https://toutiao.io/k/vnmumlm) 
-- [【开发者头条】2022-04-21-配置管理](https://toutiao.io/k/inib5a9) 
-- [【开发者头条】2022-04-21-什么是-Flink-State-Evolution?](https://toutiao.io/k/pny6akk) 
-- [【开发者头条】2022-04-21-Skynet设计初衷与常见并发编程模型解决方案](https://toutiao.io/k/4mhplyz) 
+- [【开发者头条】2022-04-21-想活得更久？「程序员延寿指南」已开源，收好！](https://toutiao.io/k/xvjb20a) 
+- [【开发者头条】2022-04-21-今晚发车，别说我没提醒你哦～](https://toutiao.io/k/n6kc8vf) 
 - [【开发者头条】2022-04-21-推荐-万字长文，教你用go开发区块链应用](https://toutiao.io/k/3f3i7ey) 
-- [【开发者头条】2022-04-21-推荐-别再说你不懂规则引擎了！](https://toutiao.io/k/edts5o5) 
-- [【开发者头条】2022-04-21-推荐-解析分布式系统的缓存设计](https://toutiao.io/k/pucrtli) 
 - [【开发者头条】2022-04-21-推荐-9大高性能优化经验总结，强烈建议收藏！！！](https://toutiao.io/k/26za4ep) 
+- [【开发者头条】2022-04-21-推荐-别再说你不懂规则引擎了！](https://toutiao.io/k/edts5o5) 
 - [【开发者头条】2022-04-21-推荐-技术开发人员如何制定自己的OKR](https://toutiao.io/k/zq8oiet) 
+- [【开发者头条】2022-04-21-推荐-解析分布式系统的缓存设计](https://toutiao.io/k/pucrtli) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

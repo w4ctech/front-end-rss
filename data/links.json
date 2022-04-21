@@ -9953,6 +9953,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "不知道现阶段该做些什么了",
+        "link": "https://www.v2ex.com/t/848481",
+        "date": "2022-04-21"
+      },
+      {
         "title": "本来想分享个更适合 mac 的搜狗输入法皮肤。。。",
         "link": "https://www.v2ex.com/t/848480",
         "date": "2022-04-21"
@@ -10156,11 +10161,6 @@
         "title": "面试中的很宽泛的系统设计类问题，应该以什么思路回答？",
         "link": "https://www.v2ex.com/t/848433",
         "date": "2022-04-21"
-      },
-      {
-        "title": "写代码不格式化的，都是垃圾，不接受反驳！",
-        "link": "https://www.v2ex.com/t/848431",
-        "date": "2022-04-21"
       }
     ]
   },
@@ -10277,93 +10277,13 @@
     "link": "https://toutiao.io",
     "items": [
       {
-        "title": "收钱吧多泳道环境的演进",
-        "link": "https://toutiao.io/k/59oz4qo",
+        "title": "想活得更久？「程序员延寿指南」已开源，收好！",
+        "link": "https://toutiao.io/k/xvjb20a",
         "date": "2022-04-21"
       },
       {
-        "title": "Go 语言整洁架构实践",
-        "link": "https://toutiao.io/k/uco7j8y",
-        "date": "2022-04-21"
-      },
-      {
-        "title": "国内再添开源图形引擎：蚂蚁 Oasis Engine 实践之路",
-        "link": "https://toutiao.io/k/9h9igaa",
-        "date": "2022-04-21"
-      },
-      {
-        "title": "FastDFS 海量小文件存储解决之道",
-        "link": "https://toutiao.io/k/d85mi3w",
-        "date": "2022-04-21"
-      },
-      {
-        "title": "性能分析优化的道与术",
-        "link": "https://toutiao.io/k/2bi822s",
-        "date": "2022-04-21"
-      },
-      {
-        "title": "浅谈JS内存机制",
-        "link": "https://toutiao.io/k/cnr3qqf",
-        "date": "2022-04-21"
-      },
-      {
-        "title": "为什么需要可编程代理",
-        "link": "https://toutiao.io/k/paowtzr",
-        "date": "2022-04-21"
-      },
-      {
-        "title": "Python 读取PDF文件为文本字符并转换为音频...",
-        "link": "https://toutiao.io/k/pf11zv3",
-        "date": "2022-04-21"
-      },
-      {
-        "title": "实战案例 ：浅谈网易严选用户行为分析",
-        "link": "https://toutiao.io/k/yti0558",
-        "date": "2022-04-21"
-      },
-      {
-        "title": "突然掉电，为啥MySQL也不会丢失数据？（收藏）",
-        "link": "https://toutiao.io/k/i1akjlm",
-        "date": "2022-04-21"
-      },
-      {
-        "title": "Flutter 音视频开发新思路",
-        "link": "https://toutiao.io/k/mds9ecv",
-        "date": "2022-04-21"
-      },
-      {
-        "title": "阿里超大规模 Flink 集群运维体系介绍",
-        "link": "https://toutiao.io/k/gooqgyf",
-        "date": "2022-04-21"
-      },
-      {
-        "title": "玩转 Spring Boot 应用篇（引入RabbitMQ解决店铺下单峰值问题）",
-        "link": "https://toutiao.io/k/59zxmwi",
-        "date": "2022-04-21"
-      },
-      {
-        "title": "技术干货 | 内网渗透之SOCKS代理的5类基本场景",
-        "link": "https://toutiao.io/k/1bxzvaz",
-        "date": "2022-04-21"
-      },
-      {
-        "title": "Dapr 远程调试之 Nocalhost",
-        "link": "https://toutiao.io/k/vnmumlm",
-        "date": "2022-04-21"
-      },
-      {
-        "title": "配置管理",
-        "link": "https://toutiao.io/k/inib5a9",
-        "date": "2022-04-21"
-      },
-      {
-        "title": "什么是 Flink State Evolution?",
-        "link": "https://toutiao.io/k/pny6akk",
-        "date": "2022-04-21"
-      },
-      {
-        "title": "Skynet设计初衷与常见并发编程模型解决方案",
-        "link": "https://toutiao.io/k/4mhplyz",
+        "title": "今晚发车，别说我没提醒你哦～",
+        "link": "https://toutiao.io/k/n6kc8vf",
         "date": "2022-04-21"
       },
       {
@@ -10372,23 +10292,23 @@
         "date": "2022-04-21"
       },
       {
-        "title": "[推荐] 别再说你不懂规则引擎了！",
-        "link": "https://toutiao.io/k/edts5o5",
-        "date": "2022-04-21"
-      },
-      {
-        "title": "[推荐] 解析分布式系统的缓存设计",
-        "link": "https://toutiao.io/k/pucrtli",
-        "date": "2022-04-21"
-      },
-      {
         "title": "[推荐] 9大高性能优化经验总结，强烈建议收藏！！！",
         "link": "https://toutiao.io/k/26za4ep",
         "date": "2022-04-21"
       },
       {
+        "title": "[推荐] 别再说你不懂规则引擎了！",
+        "link": "https://toutiao.io/k/edts5o5",
+        "date": "2022-04-21"
+      },
+      {
         "title": "[推荐] 技术开发人员如何制定自己的OKR",
         "link": "https://toutiao.io/k/zq8oiet",
+        "date": "2022-04-21"
+      },
+      {
+        "title": "[推荐] 解析分布式系统的缓存设计",
+        "link": "https://toutiao.io/k/pucrtli",
         "date": "2022-04-21"
       }
     ]

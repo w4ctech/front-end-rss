@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-04-21 13:05:17。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-04-21 13:47:49。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1913,6 +1913,12 @@
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2022-03-21-ascent-override-descent-override-line-gap-override一锅端](https://www.zhangxinxu.com/wordpress/2022/03/css-ascent-override-descent/) 
 - [2022-02-04-HTML-inputmode与iOS-Android软键盘类型测试](https://www.zhangxinxu.com/wordpress/2022/02/html-inputmode-keyboard/) 
+- [2022-04-21-小白使用-ubuntu-记录](https://www.v2ex.com/t/848448) 
+- [2022-04-21-字节-To-B-业务-飞书寻找各方英才，本人是技术研发，绝对的靠谱内推](https://www.v2ex.com/t/848447) 
+- [2022-04-21-老哥们-有啥效果好的西药推荐：感冒药和消炎药](https://www.v2ex.com/t/848446) 
+- [2022-04-21-非小米手机没办法安装小米应用商店吗？](https://www.v2ex.com/t/848444) 
+- [2022-04-21-HULU-北京招人啦（内推，求简历）](https://www.v2ex.com/t/848443) 
+- [2022-04-21-纯白嫖-阿里云无影云桌面---云电脑免费体验-新老用户均可](https://www.v2ex.com/t/848442) 
 - [2022-04-21-用爱发电项目的-App-Store-流量密码](https://www.v2ex.com/t/848441) 
 - [2022-04-21-裁员的逻辑是什么](https://www.v2ex.com/t/848438) 
 - [2022-04-21-有适合小孩看的基于-pygame-的书吗](https://www.v2ex.com/t/848436) 
@@ -1944,9 +1950,6 @@
 - [2022-04-21-ios-有没有可以真正分类的相册-app-呀](https://www.v2ex.com/t/848401) 
 - [2022-04-21-联通千兆宽带跑不满](https://www.v2ex.com/t/848400) 
 - [2022-04-21-大厂-35W-的年收入-or-海外一年工作加一年水硕的机会-怎么选择呢？](https://www.v2ex.com/t/848399) 
-- [2022-04-21-你喜欢租在树林旁的房吗？](https://www.v2ex.com/t/848398) 
-- [2022-04-21-macos-微信卡顿](https://www.v2ex.com/t/848395) 
-- [2022-04-21-wechat---微信-WeChat-Out-余额问题](https://www.v2ex.com/t/848392) 
 - [2022-04-21-DR-AP4029-outdoor-Qualcomm-IPQ-4019-IPQ-4029-Outdoor-WiFi-5-Access-point-802-11ac-2x2-Mu-MIMO-dual-band-2-4-omni-5GHz-directional-antennas-www.wallys...](https://blogread.cn/news/go.php?idItem=15028&url=https%3A%2F%2Fwww.wallystech.com%2FIndustrial_Wireless_AP%2FDR-AP4029-outdoor-Qualcomm-IPQ-4019-IPQ-4029-Outdoor-WiFi-5-Access-point-802-11ac-2x2-Mu-MIMO-dual-band-2-4-omni-5GHz-directional-antennas-IP67.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-04-21-最佳Web编程语言都有哪些？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15027&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493914%26amp%3Bidx%3D2%26amp%3Bsn%3D5903e1008661081b1e592a4854edf501%26amp%3Bchksm%3Dfa3f0841cd48815742cf760b2d181f03766f4d963c8a3aef96790b8ac5f386876f643f22e000%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-04-21-大厂MySQL规范，从入门到精通！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15025&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493913%26amp%3Bidx%3D2%26amp%3Bsn%3Da47e2c8b586c893c647d3d6da53550a6%26amp%3Bchksm%3Dfa3f0842cd488154aa87b2b18e554815542041944da605bb191891863dd09a42a73f7afe4664%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1974,5 +1977,5 @@
 - [2022-04-21-配置管理](https://toutiao.io/k/inib5a9) 
 - [2022-04-21-什么是-Flink-State-Evolution?](https://toutiao.io/k/pny6akk) 
 - [2022-04-21-Skynet设计初衷与常见并发编程模型解决方案](https://toutiao.io/k/4mhplyz) 
-- [2022-04-21-推荐-万字长文，教你用go开发区块链应用](https://toutiao.io/k/3f3i7ey) 
 - [2022-04-21-推荐-技术开发人员如何制定自己的OKR](https://toutiao.io/k/zq8oiet) 
+- [2022-04-21-推荐-万字长文，教你用go开发区块链应用](https://toutiao.io/k/3f3i7ey) 

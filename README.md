@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-04-21 09:15:13，:rocket: 更新条数: +2028， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-04-21 09:41:37，:rocket: 更新条数: +2028， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,14 @@
 </summary>
 
 
+- [2022-04-21-两台电脑怎么同步文件夹？](https://www.v2ex.com/t/848406) ![](assets/new.png)  
+- [2022-04-21-如何排查-telnet-的-Connection-refused，求思路](https://www.v2ex.com/t/848405) ![](assets/new.png)  
+- [2022-04-21-烦死了，根本没有好用的截图和滚动截图工具](https://www.v2ex.com/t/848403) ![](assets/new.png)  
+- [2022-04-21-nginx-限制访问频率-WordPress](https://www.v2ex.com/t/848402) ![](assets/new.png)  
+- [2022-04-21-ios-有没有可以真正分类的相册-app-呀](https://www.v2ex.com/t/848401) ![](assets/new.png)  
+- [2022-04-21-联通千兆宽带跑不满](https://www.v2ex.com/t/848400) ![](assets/new.png)  
+- [2022-04-21-大厂-35W-的年收入-or-海外一年工作加一年水硕的机会-怎么选择呢？](https://www.v2ex.com/t/848399) ![](assets/new.png)  
+- [2022-04-21-你喜欢租在树林旁的房吗？](https://www.v2ex.com/t/848398) ![](assets/new.png)  
 - [2022-04-21-关于如何在-js-中根据<微博-ID>获取<用户-ID>的讨论~~](https://www.v2ex.com/t/848397) ![](assets/new.png)  
 - [2022-04-21-macos-微信卡顿](https://www.v2ex.com/t/848395) ![](assets/new.png)  
 - [2022-04-21-PHP-和-Serverless-的结合，-大家怎么看](https://www.v2ex.com/t/848394) ![](assets/new.png)  
@@ -503,14 +511,6 @@
 - [2022-04-21-后端开发现在值得入手-MacBook-Pro-14-吗](https://www.v2ex.com/t/848385) ![](assets/new.png)  
 - [2022-04-21-上海/杭州字节飞书视频会议业务研发各端岗位火热招聘中](https://www.v2ex.com/t/848384) ![](assets/new.png)  
 - [2022-04-21-需要-UI-的看过来](https://www.v2ex.com/t/848383) ![](assets/new.png)  
-- [2022-04-21-想要在一起，但是好像没那么容易....怎么办呢？](https://www.v2ex.com/t/848382) ![](assets/new.png)  
-- [2022-04-21-各位老哥有没有靠谱的更换-applewatch-电池的店铺，官方太贵了-==](https://www.v2ex.com/t/848381) ![](assets/new.png)  
-- [2022-04-21-一个橙子，左边烂了一小块，右边看起来没问题。那么切掉左半部分只吃右半部分可以吗？](https://www.v2ex.com/t/848379) ![](assets/new.png)  
-- [2022-04-21-有没有一个插件能够实现全局或者浏览器的"草稿"功能?](https://www.v2ex.com/t/848378) ![](assets/new.png)  
-- [2022-04-21-插件-crxMouse-导致-V2EX-无法登录](https://www.v2ex.com/t/848377) ![](assets/new.png)  
-- [2022-04-21-求推荐-iPhone-里把照片打上时间位置水印的快捷指令](https://www.v2ex.com/t/848375) ![](assets/new.png)  
-- [2022-04-21-有用裸奔用-12pro-的兄弟吗](https://www.v2ex.com/t/848374) ![](assets/new.png)  
-- [2022-04-21-1stformations-注册公司，地址证明要翻译吗？](https://www.v2ex.com/t/848373) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -568,11 +568,11 @@
 - [2022-04-21-玩转-Spring-Boot-应用篇（引入RabbitMQ解决店铺下单峰值问题）](https://toutiao.io/k/59zxmwi) ![](assets/new.png)  
 - [2022-04-21-技术干货-|-内网渗透之SOCKS代理的5类基本场景](https://toutiao.io/k/1bxzvaz) ![](assets/new.png)  
 - [2022-04-21-Dapr-远程调试之-Nocalhost](https://toutiao.io/k/vnmumlm) ![](assets/new.png)  
-- [2022-04-21-什么是-Flink-State-Evolution?](https://toutiao.io/k/pny6akk) ![](assets/new.png)  
 - [2022-04-21-配置管理](https://toutiao.io/k/inib5a9) ![](assets/new.png)  
+- [2022-04-21-什么是-Flink-State-Evolution?](https://toutiao.io/k/pny6akk) ![](assets/new.png)  
 - [2022-04-21-Skynet设计初衷与常见并发编程模型解决方案](https://toutiao.io/k/4mhplyz) ![](assets/new.png)  
+- [2022-04-21-推荐-技术开发人员如何制定自己的OKR](https://toutiao.io/k/zq8oiet) ![](assets/new.png)  
 - [2022-04-21-推荐-万字长文，教你用go开发区块链应用](https://toutiao.io/k/3f3i7ey) ![](assets/new.png)  
-- [2022-04-21-推荐-解析分布式系统的缓存设计](https://toutiao.io/k/pucrtli) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

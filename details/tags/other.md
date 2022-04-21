@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-04-21 10:44:45。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-04-21 11:13:01。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1913,6 +1913,8 @@
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2022-03-21-ascent-override-descent-override-line-gap-override一锅端](https://www.zhangxinxu.com/wordpress/2022/03/css-ascent-override-descent/) 
 - [2022-02-04-HTML-inputmode与iOS-Android软键盘类型测试](https://www.zhangxinxu.com/wordpress/2022/02/html-inputmode-keyboard/) 
+- [2022-04-21-建了一个吉他群，我是新手，想和大家一起学习](https://www.v2ex.com/t/848421) 
+- [2022-04-21-oracle-甲骨文永久免费的-IP-怎么突然没了？](https://www.v2ex.com/t/848419) 
 - [2022-04-21-Devops-工程师-30-60-万/全职/可远程](https://www.v2ex.com/t/848418) 
 - [2022-04-21-有没有基于-oss-的静态网页做的网盘](https://www.v2ex.com/t/848417) 
 - [2022-04-21-k8s-如何实时监控-deployment-的部署结果](https://www.v2ex.com/t/848416) 
@@ -1942,10 +1944,6 @@
 - [2022-04-21-一个橙子，左边烂了一小块，右边看起来没问题。那么切掉左半部分只吃右半部分可以吗？](https://www.v2ex.com/t/848379) 
 - [2022-04-21-插件-crxMouse-导致-V2EX-无法登录](https://www.v2ex.com/t/848377) 
 - [2022-04-21-求推荐-iPhone-里把照片打上时间位置水印的快捷指令](https://www.v2ex.com/t/848375) 
-- [2022-04-21-有用裸奔用-12pro-的兄弟吗](https://www.v2ex.com/t/848374) 
-- [2022-04-21-1stformations-注册公司，地址证明要翻译吗？](https://www.v2ex.com/t/848373) 
-- [2022-04-21-装-Linux-必须占用整个-u-盘吗](https://www.v2ex.com/t/848370) 
-- [2022-04-21-有苹果企业证书如何给应用签名？](https://www.v2ex.com/t/848369) 
 - [2022-04-21-DR-AP4029-outdoor-Qualcomm-IPQ-4019-IPQ-4029-Outdoor-WiFi-5-Access-point-802-11ac-2x2-Mu-MIMO-dual-band-2-4-omni-5GHz-directional-antennas-www.wallys...](https://blogread.cn/news/go.php?idItem=15028&url=https%3A%2F%2Fwww.wallystech.com%2FIndustrial_Wireless_AP%2FDR-AP4029-outdoor-Qualcomm-IPQ-4019-IPQ-4029-Outdoor-WiFi-5-Access-point-802-11ac-2x2-Mu-MIMO-dual-band-2-4-omni-5GHz-directional-antennas-IP67.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-04-21-最佳Web编程语言都有哪些？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15027&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493914%26amp%3Bidx%3D2%26amp%3Bsn%3D5903e1008661081b1e592a4854edf501%26amp%3Bchksm%3Dfa3f0841cd48815742cf760b2d181f03766f4d963c8a3aef96790b8ac5f386876f643f22e000%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-04-21-大厂MySQL规范，从入门到精通！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15025&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493913%26amp%3Bidx%3D2%26amp%3Bsn%3Da47e2c8b586c893c647d3d6da53550a6%26amp%3Bchksm%3Dfa3f0842cd488154aa87b2b18e554815542041944da605bb191891863dd09a42a73f7afe4664%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-04-21 10:44:45。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-04-21 11:13:01。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -240,6 +240,7 @@
 
 - [【武汉肺炎防疫全纪录(财新网)】广州17岁男生在定点医院参加高考-特殊考场视频监考](https://m.caixin.com/m/2021-06-05/101723418.html)
 - [【武汉肺炎防疫全纪录(财新网)】林郑月娥率13高官直播接种科兴疫苗-复星疫苗预计周中到港](https://m.caixin.com/m/2021-02-22/101665724.html)
+- [【V2EX】基于-WebRTC-做的音视频通话，但是在几款硬件设备上声音比较小，该从哪些方面优化呢？](https://www.v2ex.com/t/848422)
 - [【V2EX】上海/杭州字节飞书视频会议业务研发各端岗位火热招聘中](https://www.v2ex.com/t/848384)
 - [【开发者头条】Python-读取PDF文件为文本字符并转换为音频...](https://toutiao.io/k/pf11zv3)
 - [......【查看更多】......](./details/tags/audio-video.md)
@@ -283,12 +284,12 @@
 - [【武汉肺炎防疫全纪录(财新网)】腺病毒新冠疫苗引安全忧虑-康希诺称未发现血栓病例](https://m.caixin.com/m/2021-04-14/101691086.html)
 - [【武汉肺炎防疫全纪录(财新网)】解药|新冠mRNA疫苗安全性有哪些挑战？](https://m.caixin.com/m/2021-01-08/101648043.html)
 - [【武汉肺炎防疫全纪录(财新网)】大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html)
+- [【V2EX】求助大佬：多数据源下-postgres-重启引起-springboot-应用数据库连接断开](https://www.v2ex.com/t/848424)
 - [【V2EX】有没有一个插件能够实现全局或者浏览器的"草稿"功能?](https://www.v2ex.com/t/848378)
-- [【V2EX】edge-浏览器里插件被禁用-还被禁止启用-怎么弄](https://www.v2ex.com/t/848372)
 - [【技术头条】CodeReview价值百万！！！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15026&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493913%26amp%3Bidx%3D1%26amp%3Bsn%3D52ab2ee1a58002e7f706d28ab3946b5b%26amp%3Bchksm%3Dfa3f0842cd488154598f87855b8ecae16c1ec58d62b0f81a16b3523e9a8c08275c94b5762032%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【开发者头条】Dapr-远程调试之-Nocalhost](https://toutiao.io/k/vnmumlm)
-- [【开发者头条】推荐-腾讯一面：CORS为什么能保障安全？为什么只对复杂请求做预检？](https://toutiao.io/k/quomj0f)
 - [【开发者头条】推荐-解析分布式系统的缓存设计](https://toutiao.io/k/pucrtli)
+- [【开发者头条】推荐-腾讯一面：CORS为什么能保障安全？为什么只对复杂请求做预检？](https://toutiao.io/k/quomj0f)
 - [......【查看更多】......](./details/tags/browser.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -358,7 +359,6 @@
 
 
 
-- [【V2EX】招聘：-Python-/-Java-/go-开发：-30-40-万](https://www.v2ex.com/t/848371)
 - [......【查看更多】......](./details/tags/job-interview.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

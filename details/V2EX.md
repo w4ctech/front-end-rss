@@ -1,10 +1,14 @@
-:alarm_clock: 更新时间: 2022-04-21 10:44:45。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-04-21 11:13:01。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-04-21-求助大佬：多数据源下-postgres-重启引起-springboot-应用数据库连接断开](https://www.v2ex.com/t/848424) 
+- [2022-04-21-基于-WebRTC-做的音视频通话，但是在几款硬件设备上声音比较小，该从哪些方面优化呢？](https://www.v2ex.com/t/848422) 
+- [2022-04-21-建了一个吉他群，我是新手，想和大家一起学习](https://www.v2ex.com/t/848421) 
+- [2022-04-21-oracle-甲骨文永久免费的-IP-怎么突然没了？](https://www.v2ex.com/t/848419) 
 - [2022-04-21-Devops-工程师-30-60-万/全职/可远程](https://www.v2ex.com/t/848418) 
 - [2022-04-21-有没有基于-oss-的静态网页做的网盘](https://www.v2ex.com/t/848417) 
 - [2022-04-21-k8s-如何实时监控-deployment-的部署结果](https://www.v2ex.com/t/848416) 
@@ -43,9 +47,3 @@
 - [2022-04-21-有没有一个插件能够实现全局或者浏览器的"草稿"功能?](https://www.v2ex.com/t/848378) 
 - [2022-04-21-插件-crxMouse-导致-V2EX-无法登录](https://www.v2ex.com/t/848377) 
 - [2022-04-21-求推荐-iPhone-里把照片打上时间位置水印的快捷指令](https://www.v2ex.com/t/848375) 
-- [2022-04-21-有用裸奔用-12pro-的兄弟吗](https://www.v2ex.com/t/848374) 
-- [2022-04-21-1stformations-注册公司，地址证明要翻译吗？](https://www.v2ex.com/t/848373) 
-- [2022-04-21-edge-浏览器里插件被禁用-还被禁止启用-怎么弄](https://www.v2ex.com/t/848372) 
-- [2022-04-21-招聘：-Python-/-Java-/go-开发：-30-40-万](https://www.v2ex.com/t/848371) 
-- [2022-04-21-装-Linux-必须占用整个-u-盘吗](https://www.v2ex.com/t/848370) 
-- [2022-04-21-有苹果企业证书如何给应用签名？](https://www.v2ex.com/t/848369) 

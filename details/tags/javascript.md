@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-04-21 14:14:00。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-04-21 14:39:34。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -17,5 +17,4 @@
 - [2022-03-07-介绍8个和滚动相关的CSS属性](https://www.zhangxinxu.com/wordpress/2022/03/10-css-scroll-scrollbar/) 
 - [2022-04-21-求助-请问正则从后往前非贪婪匹配](https://www.v2ex.com/t/848439) 
 - [2022-04-21-现在-CPU-性能最强能刷-OpenWrt-的硬路由是哪个？](https://www.v2ex.com/t/848427) 
-- [2022-04-21-烦死了，根本没有好用的截图和滚动截图工具](https://www.v2ex.com/t/848403) 
 - [2022-04-21-浅谈JS内存机制](https://toutiao.io/k/cnr3qqf) 

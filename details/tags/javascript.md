@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-04-22 14:13:40。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-04-22 14:39:30。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -16,3 +16,5 @@
 - [2022-04-22-CSS实现滚动高度自动变小的粘滞效果](https://www.zhangxinxu.com/wordpress/2022/04/css-sticky-size-change/) 
 - [2022-03-15-基于howler.js写了个音频播放器组件](https://www.zhangxinxu.com/wordpress/2022/03/howler-js-audio-player/) 
 - [2022-03-07-介绍8个和滚动相关的CSS属性](https://www.zhangxinxu.com/wordpress/2022/03/10-css-scroll-scrollbar/) 
+- [2022-04-22-Git:未在-.gitmodules-中发现路径-'xxx'-的子模组映射](https://www.v2ex.com/t/848677) 
+- [2022-04-22-Handler（异步消息处理机制）所在的主线程里面既然是无限循环为什么不阻塞？](https://www.v2ex.com/t/848675) 

@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2022-04-22 23:13:59。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-04-22 23:40:33。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-04-22-WSLg-有没有办法只用-Intel-核显，禁用-NVIDIA-独显](https://www.v2ex.com/t/848703) 
 - [2022-04-22-拼车-商业图标-G-Collection](https://www.v2ex.com/t/848702) 
 - [2022-04-22-ZeroSSL-IP-证书工具](https://www.v2ex.com/t/848701) 
 - [2022-04-22-Win10-来调度-12-代酷睿大小核能比-Win11-性能上差多少？](https://www.v2ex.com/t/848700) 
@@ -45,4 +46,3 @@
 - [2022-04-22-求推荐一个-Mac-虚拟机软件](https://www.v2ex.com/t/848656) 
 - [2022-04-22-Thinkpad-L421-装-ubuntu10.10-应该能用了。](https://www.v2ex.com/t/848655) 
 - [2022-04-22-如何设置-neovim-不提示“The-file-has-been-changed-since-reading-it！”](https://www.v2ex.com/t/848654) 
-- [2022-04-22-朋友要拒米哈游高-30%的-offer-选字节](https://www.v2ex.com/t/848653) 

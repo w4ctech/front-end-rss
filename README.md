@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-04-22 23:13:59，:rocket: 更新条数: +2030， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-04-22 23:40:33，:rocket: 更新条数: +2030， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-04-22-WSLg-有没有办法只用-Intel-核显，禁用-NVIDIA-独显](https://www.v2ex.com/t/848703) ![](assets/new.png)  
 - [2022-04-22-拼车-商业图标-G-Collection](https://www.v2ex.com/t/848702) ![](assets/new.png)  
 - [2022-04-22-ZeroSSL-IP-证书工具](https://www.v2ex.com/t/848701) ![](assets/new.png)  
 - [2022-04-22-Win10-来调度-12-代酷睿大小核能比-Win11-性能上差多少？](https://www.v2ex.com/t/848700) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-04-22-请教下-Windows-10-如何设置成任务栏在最前面？](https://www.v2ex.com/t/848682) ![](assets/new.png)  
 - [2022-04-22-求助-有没有租房被平台坑过的-V-友](https://www.v2ex.com/t/848681) ![](assets/new.png)  
 - [2022-04-22-已移除](https://www.v2ex.com/t/848680) ![](assets/new.png)  
-- [2022-04-22-27-岁了，人工智能还有一大步路要走](https://www.v2ex.com/t/848679) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -571,8 +571,8 @@
 - [2022-04-22-独立开发变现周刊（第51期）：辞去普通程序员工作，独立开发产品年收入20万美金](https://toutiao.io/k/nzdr6cy) ![](assets/new.png)  
 - [2022-04-22-讲了两个故事，他获得了图灵奖](https://toutiao.io/k/xqrpfws) ![](assets/new.png)  
 - [2022-04-22-万字长文告诉你Go-1.18中都有哪些值得关注的变化](https://toutiao.io/k/eg9fdw4) ![](assets/new.png)  
-- [2022-04-22-推荐-技术开发人员如何制定自己的OKR](https://toutiao.io/k/zq8oiet) ![](assets/new.png)  
-- [2022-04-22-推荐-万字长文，教你用go开发区块链应用](https://toutiao.io/k/3f3i7ey) ![](assets/new.png)  
+- [2022-04-22-推荐-微服务网关选型：5种主流-API-网关，哪个最香！](https://toutiao.io/k/jtyo70d) ![](assets/new.png)  
+- [2022-04-22-推荐-别再说你不懂规则引擎了！](https://toutiao.io/k/edts5o5) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

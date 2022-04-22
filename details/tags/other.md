@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-04-22 05:55:00。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-04-22 06:17:48。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1913,6 +1913,9 @@
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2022-03-21-ascent-override-descent-override-line-gap-override一锅端](https://www.zhangxinxu.com/wordpress/2022/03/css-ascent-override-descent/) 
 - [2022-02-04-HTML-inputmode与iOS-Android软键盘类型测试](https://www.zhangxinxu.com/wordpress/2022/02/html-inputmode-keyboard/) 
+- [2022-04-22-有人用过铁威马-D4-300-四盘位硬盘盒吗？为啥我这边的读写速度这么慢？](https://www.v2ex.com/t/848573) 
+- [2022-04-22-投影仪+幕布-能取代客厅电视吗？](https://www.v2ex.com/t/848571) 
+- [2022-04-22-关于-B-站港澳台番剧无法投屏到投影仪上的问题](https://www.v2ex.com/t/848570) 
 - [2022-04-22-阿里云盘也限速?](https://www.v2ex.com/t/848569) 
 - [2022-04-22-网站嵌入的-PDF-如何下载](https://www.v2ex.com/t/848568) 
 - [2022-04-22-mac-真就那么香吗](https://www.v2ex.com/t/848567) 
@@ -1941,9 +1944,6 @@
 - [2022-04-22-求推荐日本-Sim-卡](https://www.v2ex.com/t/848527) 
 - [2022-04-22-找了中介，花-3500+500-律师见证费用办一张中信国际的卡，划算吗？](https://www.v2ex.com/t/848526) 
 - [2022-04-22-2011-年-Thinkpad-L421-是否装-ubuntu10.10-能解决待机以后的黑屏问题？](https://www.v2ex.com/t/848524) 
-- [2022-04-22-再开一贴，关于内网跑-2.5G](https://www.v2ex.com/t/848523) 
-- [2022-04-22-Ad-serving-on-your-account-is-currently-limited-because-of-invalid-traffic-concerns.](https://www.v2ex.com/t/848522) 
-- [2022-04-22-请问有无限流量-VPS-的推荐吗？](https://www.v2ex.com/t/848520) 
 - [2022-04-22-DR-AP4029-outdoor-Qualcomm-IPQ-4019-IPQ-4029-Outdoor-WiFi-5-Access-point-802-11ac-2x2-Mu-MIMO-dual-band-2-4-omni-5GHz-directional-antennas-www.wallys...](https://blogread.cn/news/go.php?idItem=15028&url=https%3A%2F%2Fwww.wallystech.com%2FIndustrial_Wireless_AP%2FDR-AP4029-outdoor-Qualcomm-IPQ-4019-IPQ-4029-Outdoor-WiFi-5-Access-point-802-11ac-2x2-Mu-MIMO-dual-band-2-4-omni-5GHz-directional-antennas-IP67.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-04-22-最佳Web编程语言都有哪些？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15027&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493914%26amp%3Bidx%3D2%26amp%3Bsn%3D5903e1008661081b1e592a4854edf501%26amp%3Bchksm%3Dfa3f0841cd48815742cf760b2d181f03766f4d963c8a3aef96790b8ac5f386876f643f22e000%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-04-22-大厂MySQL规范，从入门到精通！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15025&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493913%26amp%3Bidx%3D2%26amp%3Bsn%3Da47e2c8b586c893c647d3d6da53550a6%26amp%3Bchksm%3Dfa3f0842cd488154aa87b2b18e554815542041944da605bb191891863dd09a42a73f7afe4664%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1966,6 +1966,11 @@
 - [2022-04-22-Linux下跨语言调用C++实践](https://toutiao.io/k/umur1kx) 
 - [2022-04-22-当软件开发遇到“零缺陷”](https://toutiao.io/k/qmcrb50) 
 - [2022-04-22-Apache-Flink-在蔚来汽车的应用](https://toutiao.io/k/mlsa9j7) 
+- [2022-04-22-独立开发变现周刊（第51期）：辞去普通程序员工作，独立开发产品年收入20万美金](https://toutiao.io/k/nzdr6cy) 
+- [2022-04-22-讲了两个故事，他获得了图灵奖](https://toutiao.io/k/xqrpfws) 
+- [2022-04-22-玩转-Spring-Boot-应用篇（序列号生成器服务实现）](https://toutiao.io/k/iqvtjct) 
+- [2022-04-22-20-个短小精悍的-pandas-骚操作](https://toutiao.io/k/76sq5i3) 
+- [2022-04-22-万字长文告诉你Go-1.18中都有哪些值得关注的变化](https://toutiao.io/k/eg9fdw4) 
+- [2022-04-22-推荐-技术开发人员如何制定自己的OKR](https://toutiao.io/k/zq8oiet) 
 - [2022-04-22-推荐-万字长文，教你用go开发区块链应用](https://toutiao.io/k/3f3i7ey) 
 - [2022-04-22-推荐-别再说你不懂规则引擎了！](https://toutiao.io/k/edts5o5) 
-- [2022-04-22-推荐-技术开发人员如何制定自己的OKR](https://toutiao.io/k/zq8oiet) 

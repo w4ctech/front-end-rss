@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-04-22 08:17:16，:rocket: 更新条数: +2027， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-04-22 08:45:02，:rocket: 更新条数: +2026， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,14 @@
 </summary>
 
 
+- [2022-04-22-Safari-打不开-overleaf](https://www.v2ex.com/t/848616) ![](assets/new.png)  
+- [2022-04-22-Nginx-如何实现这样的通用反代？](https://www.v2ex.com/t/848615) ![](assets/new.png)  
+- [2022-04-22-成都106510K-20K-虚拟星空-产品/研发/运维-招聘](https://www.v2ex.com/t/848614) ![](assets/new.png)  
+- [2022-04-22-由于住的地方没有信号联通卡，求推荐一张月租最便宜的移动卡，需要可以接收电话跟短信，可以无流量](https://www.v2ex.com/t/848612) ![](assets/new.png)  
+- [2022-04-22-有没有这样的书法教程网站，我输入某个字，出来对应的书写动画教程，字体可选](https://www.v2ex.com/t/848611) ![](assets/new.png)  
+- [2022-04-22-新加坡的网络广告比较……，是普遍现象吗](https://www.v2ex.com/t/848610) ![](assets/new.png)  
+- [2022-04-22-视频直播以及回放的问题！](https://www.v2ex.com/t/848608) ![](assets/new.png)  
+- [2022-04-22-丁克的人现在多吗？](https://www.v2ex.com/t/848607) ![](assets/new.png)  
 - [2022-04-22-《呜呜，你们一般都通过啥来找工作》](https://www.v2ex.com/t/848604) ![](assets/new.png)  
 - [2022-04-22-请问面向用户的-产品文档-有什么呈现工具吗？](https://www.v2ex.com/t/848603) ![](assets/new.png)  
 - [2022-04-22-有什么办法可以让一个-HTTPS-回调请求直接放到一个高可用的环境里](https://www.v2ex.com/t/848602) ![](assets/new.png)  
@@ -503,14 +511,6 @@
 - [2022-04-22-音乐与视频版权问题真吐血](https://www.v2ex.com/t/848595) ![](assets/new.png)  
 - [2022-04-22-分享一个支持云端同步的图片素材管理软件，-Pixcall](https://www.v2ex.com/t/848594) ![](assets/new.png)  
 - [2022-04-22-学废了：-JDBC-的-prepareStatement-需要关闭吗？](https://www.v2ex.com/t/848593) ![](assets/new.png)  
-- [2022-04-22-请问,-在-Golang-里面如何实现以下的-SQL?](https://www.v2ex.com/t/848592) ![](assets/new.png)  
-- [2022-04-22-#分享一款自己写的数独数字推理小游戏（iOS）](https://www.v2ex.com/t/848590) ![](assets/new.png)  
-- [2022-04-22-没有人聊聊今天2022/04/22-google-的搜索主页的-Today's-Doodle-吗？](https://www.v2ex.com/t/848588) ![](assets/new.png)  
-- [2022-04-22-求教-：-Qt-控制界面中两个-fold_widget-优先显示问题](https://www.v2ex.com/t/848586) ![](assets/new.png)  
-- [2022-04-22-如何不重装系统的情况下安全地抹除-MacOS-上曾经存在过的文件](https://www.v2ex.com/t/848585) ![](assets/new.png)  
-- [2022-04-22-Ubuntu-22.04-LTS-简单体验报告](https://www.v2ex.com/t/848584) ![](assets/new.png)  
-- [2022-04-22-面了一家.-大小周,周二周四加班到-89-点.周末有加班费.平时没有](https://www.v2ex.com/t/848581) ![](assets/new.png)  
-- [2022-04-22-再过几个月就-33-了，到底要不要买房呢？](https://www.v2ex.com/t/848580) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -559,10 +559,10 @@
 - [2022-04-22-今晚发车，别说我没提醒你哦～](https://toutiao.io/k/n6kc8vf) ![](assets/new.png)  
 - [2022-04-22-Linux下跨语言调用C++实践](https://toutiao.io/k/umur1kx) ![](assets/new.png)  
 - [2022-04-22-来自TMDB的5000部电影数据集](https://toutiao.io/k/bylfdkg) ![](assets/new.png)  
+- [2022-04-22-我用Ehcache把查询性能提升了100倍，真香！](https://toutiao.io/k/34vbbez) ![](assets/new.png)  
 - [2022-04-22-自推荐-深入理解RUST标准库内核](https://toutiao.io/k/9v4ko6h) ![](assets/new.png)  
 - [2022-04-22-React-18-的七大更新点你知道几个？](https://toutiao.io/k/0w9qcji) ![](assets/new.png)  
 - [2022-04-22-如何在WebRTC中添加虚拟背景分割功能](https://toutiao.io/k/o32qycm) ![](assets/new.png)  
-- [2022-04-22-我用Ehcache把查询性能提升了100倍，真香！](https://toutiao.io/k/34vbbez) ![](assets/new.png)  
 - [2022-04-22-Apache-Flink-在蔚来汽车的应用](https://toutiao.io/k/mlsa9j7) ![](assets/new.png)  
 - [2022-04-22-当软件开发遇到“零缺陷”](https://toutiao.io/k/qmcrb50) ![](assets/new.png)  
 - [2022-04-22-Trip.com-APP-QUIC应用和优化实践](https://toutiao.io/k/nfersyf) ![](assets/new.png)  
@@ -572,7 +572,7 @@
 - [2022-04-22-20-个短小精悍的-pandas-骚操作](https://toutiao.io/k/76sq5i3) ![](assets/new.png)  
 - [2022-04-22-万字长文告诉你Go-1.18中都有哪些值得关注的变化](https://toutiao.io/k/eg9fdw4) ![](assets/new.png)  
 - [2022-04-22-推荐-别再说你不懂规则引擎了！](https://toutiao.io/k/edts5o5) ![](assets/new.png)  
-- [2022-04-22-推荐-解析分布式系统的缓存设计](https://toutiao.io/k/pucrtli) ![](assets/new.png)  
+- [2022-04-22-推荐-技术开发人员如何制定自己的OKR](https://toutiao.io/k/zq8oiet) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

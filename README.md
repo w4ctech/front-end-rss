@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-04-22 10:44:57，:rocket: 更新条数: +2028， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-04-22 11:12:34，:rocket: 更新条数: +2027， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-04-22-现在前端-UI-自动化测试有什么便于个人使用的框架/库/云服务之类的吗?主要是用于外包项目验收,减轻我自己工作用的](https://www.v2ex.com/t/848650) ![](assets/new.png)  
+- [2022-04-22-web3-公司招聘啦！#资深前端（熟练-react+后端任意一种语言）-#后端开发工程师-Go/-Java-/C++/-Python-](https://www.v2ex.com/t/848649) ![](assets/new.png)  
 - [2022-04-22-一个家长账号关联多个孩子，数据库要怎么设计呀？](https://www.v2ex.com/t/848647) ![](assets/new.png)  
 - [2022-04-22-请教下大佬们，在运行的业务服务器，要升级内核吗？](https://www.v2ex.com/t/848646) ![](assets/new.png)  
 - [2022-04-22-国内头部量化基金公司-寻找-中后台开发工程师-地点：北京-上海-深圳-人选画像：-Python-后端开发，一定要用过-Python-,做过做过-web-后端、saas-系统...](https://www.v2ex.com/t/848645) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-04-22-Chrome-的内置翻译用的是系统代理？](https://www.v2ex.com/t/848627) ![](assets/new.png)  
 - [2022-04-22-为何使用网页版访问-V2EX-时仅显示-SecondaryTabs？](https://www.v2ex.com/t/848626) ![](assets/new.png)  
 - [2022-04-22-深圳-宝安西乡汽车-4S-店招个新媒体专员](https://www.v2ex.com/t/848625) ![](assets/new.png)  
-- [2022-04-22-为什么苹果商店下载软件要按两下电源键来确认？](https://www.v2ex.com/t/848624) ![](assets/new.png)  
-- [2022-04-22-上海字节跳动-飞书视频会议部门招聘-Android-研发工程师](https://www.v2ex.com/t/848623) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -564,15 +564,15 @@
 - [2022-04-22-React-18-的七大更新点你知道几个？](https://toutiao.io/k/0w9qcji) ![](assets/new.png)  
 - [2022-04-22-如何在WebRTC中添加虚拟背景分割功能](https://toutiao.io/k/o32qycm) ![](assets/new.png)  
 - [2022-04-22-Apache-Flink-在蔚来汽车的应用](https://toutiao.io/k/mlsa9j7) ![](assets/new.png)  
-- [2022-04-22-当软件开发遇到“零缺陷”](https://toutiao.io/k/qmcrb50) ![](assets/new.png)  
 - [2022-04-22-Trip.com-APP-QUIC应用和优化实践](https://toutiao.io/k/nfersyf) ![](assets/new.png)  
+- [2022-04-22-当软件开发遇到“零缺陷”](https://toutiao.io/k/qmcrb50) ![](assets/new.png)  
 - [2022-04-22-玩转-Spring-Boot-应用篇（序列号生成器服务实现）](https://toutiao.io/k/iqvtjct) ![](assets/new.png)  
 - [2022-04-22-独立开发变现周刊（第51期）：辞去普通程序员工作，独立开发产品年收入20万美金](https://toutiao.io/k/nzdr6cy) ![](assets/new.png)  
 - [2022-04-22-讲了两个故事，他获得了图灵奖](https://toutiao.io/k/xqrpfws) ![](assets/new.png)  
 - [2022-04-22-万字长文告诉你Go-1.18中都有哪些值得关注的变化](https://toutiao.io/k/eg9fdw4) ![](assets/new.png)  
 - [2022-04-22-20-个短小精悍的-pandas-骚操作](https://toutiao.io/k/76sq5i3) ![](assets/new.png)  
-- [2022-04-22-推荐-万字长文，教你用go开发区块链应用](https://toutiao.io/k/3f3i7ey) ![](assets/new.png)  
-- [2022-04-22-推荐-别再说你不懂规则引擎了！](https://toutiao.io/k/edts5o5) ![](assets/new.png)  
+- [2022-04-22-推荐-技术开发人员如何制定自己的OKR](https://toutiao.io/k/zq8oiet) ![](assets/new.png)  
+- [2022-04-22-推荐-9大高性能优化经验总结，强烈建议收藏！！！](https://toutiao.io/k/26za4ep) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

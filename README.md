@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-04-22 07:13:55，:rocket: 更新条数: +2026， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-04-22 08:03:30，:rocket: 更新条数: +2025， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,16 @@
 </summary>
 
 
+- [2022-04-22-这种充电线接口叫什么？](https://www.v2ex.com/t/848596) ![](assets/new.png)  
+- [2022-04-22-音乐与视频版权问题真吐血](https://www.v2ex.com/t/848595) ![](assets/new.png)  
+- [2022-04-22-分享一个支持云端同步的图片素材管理软件，-Pixcall](https://www.v2ex.com/t/848594) ![](assets/new.png)  
+- [2022-04-22-学废了：-JDBC-的-prepareStatement-需要关闭吗？](https://www.v2ex.com/t/848593) ![](assets/new.png)  
+- [2022-04-22-请问,-在-Golang-里面如何实现以下的-SQL?](https://www.v2ex.com/t/848592) ![](assets/new.png)  
+- [2022-04-22-#分享一款自己写的数独数字推理小游戏（iOS）](https://www.v2ex.com/t/848590) ![](assets/new.png)  
+- [2022-04-22-没有人聊聊今天2022/04/22-google-的搜索主页的-Today's-Doodle-吗？](https://www.v2ex.com/t/848588) ![](assets/new.png)  
+- [2022-04-22-求教-：-Qt-控制界面中两个-fold_widget-优先显示问题](https://www.v2ex.com/t/848586) ![](assets/new.png)  
+- [2022-04-22-如何不重装系统的情况下安全地抹除-MacOS-上曾经存在过的文件](https://www.v2ex.com/t/848585) ![](assets/new.png)  
+- [2022-04-22-Ubuntu-22.04-LTS-简单体验报告](https://www.v2ex.com/t/848584) ![](assets/new.png)  
 - [2022-04-22-第三艘航母就要来了啊](https://www.v2ex.com/t/848582) ![](assets/new.png)  
 - [2022-04-22-面了一家.-大小周,周二周四加班到-89-点.周末有加班费.平时没有](https://www.v2ex.com/t/848581) ![](assets/new.png)  
 - [2022-04-22-再过几个月就-33-了，到底要不要买房呢？](https://www.v2ex.com/t/848580) ![](assets/new.png)  
@@ -501,16 +511,6 @@
 - [2022-04-22-投影仪+幕布-能取代客厅电视吗？](https://www.v2ex.com/t/848571) ![](assets/new.png)  
 - [2022-04-22-关于-B-站港澳台番剧无法投屏到投影仪上的问题](https://www.v2ex.com/t/848570) ![](assets/new.png)  
 - [2022-04-22-阿里云盘也限速?](https://www.v2ex.com/t/848569) ![](assets/new.png)  
-- [2022-04-22-网站嵌入的-PDF-如何下载](https://www.v2ex.com/t/848568) ![](assets/new.png)  
-- [2022-04-22-mac-真就那么香吗](https://www.v2ex.com/t/848567) ![](assets/new.png)  
-- [2022-04-22-在国内如何给少儿看健康内容？拒绝癌奇艺、电视-APP](https://www.v2ex.com/t/848565) ![](assets/new.png)  
-- [2022-04-22-Apple-store-礼品卡余额-0.10dollar](https://www.v2ex.com/t/848564) ![](assets/new.png)  
-- [2022-04-22-Windows-搜狗输入法，可以设置「中英文间加入空格」吗](https://www.v2ex.com/t/848563) ![](assets/new.png)  
-- [2022-04-22-有多少程序员真的在-996](https://www.v2ex.com/t/848561) ![](assets/new.png)  
-- [2022-04-22-有什么便宜的-ARM-买吗](https://www.v2ex.com/t/848560) ![](assets/new.png)  
-- [2022-04-22-尊重你隐私的浏览器们了解一下？-值得一试的电脑浏览器推荐](https://www.v2ex.com/t/848559) ![](assets/new.png)  
-- [2022-04-22-求推荐开源的阅读器项目](https://www.v2ex.com/t/848557) ![](assets/new.png)  
-- [2022-04-22-windows-有支持复制后自动校验的文件复制/同步软件吗?](https://www.v2ex.com/t/848556) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -557,8 +557,8 @@
 - [2022-04-22-Golang本地缓存选型对比及原理总结](https://toutiao.io/k/0jakz0b) ![](assets/new.png)  
 - [2022-04-22-想活得更久？「程序员延寿指南」已开源，收好！](https://toutiao.io/k/xvjb20a) ![](assets/new.png)  
 - [2022-04-22-今晚发车，别说我没提醒你哦～](https://toutiao.io/k/n6kc8vf) ![](assets/new.png)  
-- [2022-04-22-来自TMDB的5000部电影数据集](https://toutiao.io/k/bylfdkg) ![](assets/new.png)  
 - [2022-04-22-Linux下跨语言调用C++实践](https://toutiao.io/k/umur1kx) ![](assets/new.png)  
+- [2022-04-22-来自TMDB的5000部电影数据集](https://toutiao.io/k/bylfdkg) ![](assets/new.png)  
 - [2022-04-22-自推荐-深入理解RUST标准库内核](https://toutiao.io/k/9v4ko6h) ![](assets/new.png)  
 - [2022-04-22-React-18-的七大更新点你知道几个？](https://toutiao.io/k/0w9qcji) ![](assets/new.png)  
 - [2022-04-22-如何在WebRTC中添加虚拟背景分割功能](https://toutiao.io/k/o32qycm) ![](assets/new.png)  
@@ -568,11 +568,11 @@
 - [2022-04-22-Apache-Flink-在蔚来汽车的应用](https://toutiao.io/k/mlsa9j7) ![](assets/new.png)  
 - [2022-04-22-独立开发变现周刊（第51期）：辞去普通程序员工作，独立开发产品年收入20万美金](https://toutiao.io/k/nzdr6cy) ![](assets/new.png)  
 - [2022-04-22-讲了两个故事，他获得了图灵奖](https://toutiao.io/k/xqrpfws) ![](assets/new.png)  
-- [2022-04-22-玩转-Spring-Boot-应用篇（序列号生成器服务实现）](https://toutiao.io/k/iqvtjct) ![](assets/new.png)  
 - [2022-04-22-20-个短小精悍的-pandas-骚操作](https://toutiao.io/k/76sq5i3) ![](assets/new.png)  
+- [2022-04-22-玩转-Spring-Boot-应用篇（序列号生成器服务实现）](https://toutiao.io/k/iqvtjct) ![](assets/new.png)  
 - [2022-04-22-万字长文告诉你Go-1.18中都有哪些值得关注的变化](https://toutiao.io/k/eg9fdw4) ![](assets/new.png)  
-- [2022-04-22-推荐-别再说你不懂规则引擎了！](https://toutiao.io/k/edts5o5) ![](assets/new.png)  
 - [2022-04-22-推荐-技术开发人员如何制定自己的OKR](https://toutiao.io/k/zq8oiet) ![](assets/new.png)  
+- [2022-04-22-推荐-别再说你不懂规则引擎了！](https://toutiao.io/k/edts5o5) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

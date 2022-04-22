@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-04-22 11:12:34，:rocket: 更新条数: +2027， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-04-22 11:37:49，:rocket: 更新条数: +2026， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,9 @@
 </summary>
 
 
+- [2022-04-22-如何设置-neovim-不提示“The-file-has-been-changed-since-reading-it！”](https://www.v2ex.com/t/848654) ![](assets/new.png)  
+- [2022-04-22-朋友要拒米哈游高-30%的-offer-选字节](https://www.v2ex.com/t/848653) ![](assets/new.png)  
+- [2022-04-22-求一个合理冲塔。永久封号的办法（qq-号](https://www.v2ex.com/t/848652) ![](assets/new.png)  
 - [2022-04-22-现在前端-UI-自动化测试有什么便于个人使用的框架/库/云服务之类的吗?主要是用于外包项目验收,减轻我自己工作用的](https://www.v2ex.com/t/848650) ![](assets/new.png)  
 - [2022-04-22-web3-公司招聘啦！#资深前端（熟练-react+后端任意一种语言）-#后端开发工程师-Go/-Java-/C++/-Python-](https://www.v2ex.com/t/848649) ![](assets/new.png)  
 - [2022-04-22-一个家长账号关联多个孩子，数据库要怎么设计呀？](https://www.v2ex.com/t/848647) ![](assets/new.png)  
@@ -508,9 +511,6 @@
 - [2022-04-22-你可以写在简介中的终身成就吗？](https://www.v2ex.com/t/848632) ![](assets/new.png)  
 - [2022-04-22-有什么途径可以查询到断供人数？](https://www.v2ex.com/t/848630) ![](assets/new.png)  
 - [2022-04-22-macOS-重复更新-SF-Symbols-3.3](https://www.v2ex.com/t/848629) ![](assets/new.png)  
-- [2022-04-22-Chrome-的内置翻译用的是系统代理？](https://www.v2ex.com/t/848627) ![](assets/new.png)  
-- [2022-04-22-为何使用网页版访问-V2EX-时仅显示-SecondaryTabs？](https://www.v2ex.com/t/848626) ![](assets/new.png)  
-- [2022-04-22-深圳-宝安西乡汽车-4S-店招个新媒体专员](https://www.v2ex.com/t/848625) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -571,8 +571,8 @@
 - [2022-04-22-讲了两个故事，他获得了图灵奖](https://toutiao.io/k/xqrpfws) ![](assets/new.png)  
 - [2022-04-22-万字长文告诉你Go-1.18中都有哪些值得关注的变化](https://toutiao.io/k/eg9fdw4) ![](assets/new.png)  
 - [2022-04-22-20-个短小精悍的-pandas-骚操作](https://toutiao.io/k/76sq5i3) ![](assets/new.png)  
-- [2022-04-22-推荐-技术开发人员如何制定自己的OKR](https://toutiao.io/k/zq8oiet) ![](assets/new.png)  
 - [2022-04-22-推荐-9大高性能优化经验总结，强烈建议收藏！！！](https://toutiao.io/k/26za4ep) ![](assets/new.png)  
+- [2022-04-22-推荐-技术开发人员如何制定自己的OKR](https://toutiao.io/k/zq8oiet) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

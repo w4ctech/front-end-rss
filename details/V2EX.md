@@ -1,10 +1,13 @@
-:alarm_clock: 更新时间: 2022-04-22 11:37:49。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-04-22 12:24:48。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-04-22-看手相说的特备准，可信吗？](https://www.v2ex.com/t/848657) 
+- [2022-04-22-求推荐一个-Mac-虚拟机软件](https://www.v2ex.com/t/848656) 
+- [2022-04-22-Thinkpad-L421-装-ubuntu10.10-应该能用了。](https://www.v2ex.com/t/848655) 
 - [2022-04-22-如何设置-neovim-不提示“The-file-has-been-changed-since-reading-it！”](https://www.v2ex.com/t/848654) 
 - [2022-04-22-朋友要拒米哈游高-30%的-offer-选字节](https://www.v2ex.com/t/848653) 
 - [2022-04-22-求一个合理冲塔。永久封号的办法（qq-号](https://www.v2ex.com/t/848652) 
@@ -41,4 +44,3 @@
 - [2022-04-22-有没有这样的书法教程网站，我输入某个字，出来对应的书写动画教程，字体可选](https://www.v2ex.com/t/848611) 
 - [2022-04-22-新加坡的网络广告比较……，是普遍现象吗](https://www.v2ex.com/t/848610) 
 - [2022-04-22-视频直播以及回放的问题！](https://www.v2ex.com/t/848608) 
-- [2022-04-22-丁克的人现在多吗？](https://www.v2ex.com/t/848607) 

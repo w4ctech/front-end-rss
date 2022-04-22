@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-04-22 11:37:49，:rocket: 更新条数: +2026， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-04-22 12:24:47，:rocket: 更新条数: +2028， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,9 @@
 </summary>
 
 
+- [2022-04-22-看手相说的特备准，可信吗？](https://www.v2ex.com/t/848657) ![](assets/new.png)  
+- [2022-04-22-求推荐一个-Mac-虚拟机软件](https://www.v2ex.com/t/848656) ![](assets/new.png)  
+- [2022-04-22-Thinkpad-L421-装-ubuntu10.10-应该能用了。](https://www.v2ex.com/t/848655) ![](assets/new.png)  
 - [2022-04-22-如何设置-neovim-不提示“The-file-has-been-changed-since-reading-it！”](https://www.v2ex.com/t/848654) ![](assets/new.png)  
 - [2022-04-22-朋友要拒米哈游高-30%的-offer-选字节](https://www.v2ex.com/t/848653) ![](assets/new.png)  
 - [2022-04-22-求一个合理冲塔。永久封号的办法（qq-号](https://www.v2ex.com/t/848652) ![](assets/new.png)  
@@ -508,9 +511,6 @@
 - [2022-04-22-windows-文件夹被占用](https://www.v2ex.com/t/848635) ![](assets/new.png)  
 - [2022-04-22-LG-Ultrafine-4K-上下移动调整高度的时候有没有什么窍门](https://www.v2ex.com/t/848634) ![](assets/new.png)  
 - [2022-04-22-原创视频教程-深入-PHP-内核源码](https://www.v2ex.com/t/848633) ![](assets/new.png)  
-- [2022-04-22-你可以写在简介中的终身成就吗？](https://www.v2ex.com/t/848632) ![](assets/new.png)  
-- [2022-04-22-有什么途径可以查询到断供人数？](https://www.v2ex.com/t/848630) ![](assets/new.png)  
-- [2022-04-22-macOS-重复更新-SF-Symbols-3.3](https://www.v2ex.com/t/848629) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -571,7 +571,7 @@
 - [2022-04-22-讲了两个故事，他获得了图灵奖](https://toutiao.io/k/xqrpfws) ![](assets/new.png)  
 - [2022-04-22-万字长文告诉你Go-1.18中都有哪些值得关注的变化](https://toutiao.io/k/eg9fdw4) ![](assets/new.png)  
 - [2022-04-22-20-个短小精悍的-pandas-骚操作](https://toutiao.io/k/76sq5i3) ![](assets/new.png)  
-- [2022-04-22-推荐-9大高性能优化经验总结，强烈建议收藏！！！](https://toutiao.io/k/26za4ep) ![](assets/new.png)  
+- [2022-04-22-推荐-别再说你不懂规则引擎了！](https://toutiao.io/k/edts5o5) ![](assets/new.png)  
 - [2022-04-22-推荐-技术开发人员如何制定自己的OKR](https://toutiao.io/k/zq8oiet) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

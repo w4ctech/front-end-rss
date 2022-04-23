@@ -1,10 +1,15 @@
-:alarm_clock: 更新时间: 2022-04-23 13:24:35。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-04-23 13:42:42。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-04-23-求-snipaste-差不多的安卓版本的软件](https://www.v2ex.com/t/848823) 
+- [2022-04-23-分享一个-gnome-的扩展-窗口扭动特效](https://www.v2ex.com/t/848822) 
+- [2022-04-23-如何用-Go-实现-curl---interface-的效果？](https://www.v2ex.com/t/848821) 
+- [2022-04-23-windows-系统下，有没有一款“计算器”程序，在关闭计算器或电脑后，再次打开，仍然可以保留历史记录的？](https://www.v2ex.com/t/848819) 
+- [2022-04-23-求教，有这样的开源系统吗？有人员管理、餐饮管理、车辆管理、文档管理、数据简单可视化功能？](https://www.v2ex.com/t/848818) 
 - [2022-04-23-10-美元永久保留-GV](https://www.v2ex.com/t/848817) 
 - [2022-04-23-李三立去了](https://www.v2ex.com/t/848816) 
 - [2022-04-23-spotify-播放卡顿问题](https://www.v2ex.com/t/848815) 
@@ -34,8 +39,3 @@
 - [2022-04-23-git-reset---hard-求救哈](https://www.v2ex.com/t/848777) 
 - [2022-04-23-做了一款自部署的网页保存工具（类似于-cubox](https://www.v2ex.com/t/848776) 
 - [2022-04-23-请教各位，针对-Android-你们的-F&Q-方案是啥？](https://www.v2ex.com/t/848774) 
-- [2022-04-23-关于-go-交叉编译时候-生成图标](https://www.v2ex.com/t/848773) 
-- [2022-04-23-KDE-neon-vs.-Kubuntu-發行版怎麼選](https://www.v2ex.com/t/848772) 
-- [2022-04-23-现在线上哪里能买到索尼-PS5-国行？](https://www.v2ex.com/t/848771) 
-- [2022-04-23-Tonzhon-的歌曲已达-50-多万，搜索起来还是很快！](https://www.v2ex.com/t/848770) 
-- [2022-04-23-如何备份云服务器的镜像到本地？](https://www.v2ex.com/t/848769) 

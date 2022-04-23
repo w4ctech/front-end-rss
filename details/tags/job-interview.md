@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-04-23 15:14:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-04-23 15:42:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -7,4 +7,5 @@
 
 
 
+- [2022-04-23-深圳-内推-AI-跨境电商平台招聘-Golang-开发工程师](https://www.v2ex.com/t/848835) 
 - [2022-04-23-如果你是一个Golang面试官，你会问哪些问题？](https://toutiao.io/k/0acpnu3) 

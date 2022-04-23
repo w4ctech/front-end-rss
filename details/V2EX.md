@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2022-04-23 10:42:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-04-23 11:12:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-04-23-想找个女朋友，不知道怎么开始](https://www.v2ex.com/t/848795) 
 - [2022-04-23-各位大佬，小弟问一个问题？](https://www.v2ex.com/t/848793) 
 - [2022-04-23-Macbook-Pro-M1-中-iStat-Menus-无法获取耗电瓦数,有替代方案吗?](https://www.v2ex.com/t/848792) 
 - [2022-04-23-StarNFC---智能-nfc-标签读写器（玩-nfc-的可以搞下）](https://www.v2ex.com/t/848790) 
@@ -35,5 +36,3 @@
 - [2022-04-23-公司近期准备搭建一个内部社区，求大家推荐](https://www.v2ex.com/t/848752) 
 - [2022-04-23-新冠疫苗研发是不是有可能被-mRNA-疫苗误导了方向？](https://www.v2ex.com/t/848750) 
 - [2022-04-23-求一个开源-IM-系统](https://www.v2ex.com/t/848749) 
-- [2022-04-23-MAC-访问-samba-频繁出现打不开文件夹](https://www.v2ex.com/t/848746) 
-- [2022-04-23-低用量，哪家平台图片识别文字（STR/OCR）最便宜&最准？](https://www.v2ex.com/t/848744) 

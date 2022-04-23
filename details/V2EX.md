@@ -1,10 +1,13 @@
-:alarm_clock: 更新时间: 2022-04-23 09:39:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-04-23 10:15:36。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-04-23-Macbook-Pro-M1-中-iStat-Menus-无法获取耗电瓦数,有替代方案吗?](https://www.v2ex.com/t/848792) 
+- [2022-04-23-StarNFC---智能-nfc-标签读写器（玩-nfc-的可以搞下）](https://www.v2ex.com/t/848790) 
+- [2022-04-23-2022-年去新加坡干-IT,-待遇怎么样？](https://www.v2ex.com/t/848789) 
 - [2022-04-23-有没有能够给书签添加-tag-的插件？](https://www.v2ex.com/t/848786) 
 - [2022-04-23-有没有爱玩抖音的小哥哥小姐姐，本人因另有发展，帮公司招抖音运营一名](https://www.v2ex.com/t/848784) 
 - [2022-04-23-icloud-备份占用的空间计算有问题吧](https://www.v2ex.com/t/848782) 
@@ -34,4 +37,3 @@
 - [2022-04-23-MAC-访问-samba-频繁出现打不开文件夹](https://www.v2ex.com/t/848746) 
 - [2022-04-23-低用量，哪家平台图片识别文字（STR/OCR）最便宜&最准？](https://www.v2ex.com/t/848744) 
 - [2022-04-23-LotusDB-设计与实现—3-内存-memtable](https://www.v2ex.com/t/848743) 
-- [2022-04-23-opengnb-UDP-打洞组网有人体验过吗？](https://www.v2ex.com/t/848739) 

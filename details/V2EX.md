@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2022-04-23 14:13:02。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-04-23 14:38:11。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-04-23-记-2011-年-Thinkpad-L421-装-ubuntu22.04-也黑屏（是亮度太低，亮度不可调，最后还是解决了](https://www.v2ex.com/t/848828) 
+- [2022-04-23-云闪付-App-Store-充值优惠](https://www.v2ex.com/t/848827) 
 - [2022-04-23-移动硬盘推荐](https://www.v2ex.com/t/848826) 
 - [2022-04-23-求-snipaste-差不多的安卓版本的软件](https://www.v2ex.com/t/848823) 
 - [2022-04-23-分享一个-gnome-的扩展-窗口扭动特效](https://www.v2ex.com/t/848822) 
@@ -37,4 +39,3 @@
 - [2022-04-23-有没有爱玩抖音的小哥哥小姐姐，本人因另有发展，帮公司招抖音运营一名](https://www.v2ex.com/t/848784) 
 - [2022-04-23-icloud-备份占用的空间计算有问题吧](https://www.v2ex.com/t/848782) 
 - [2022-04-23-最近大跌，炒股基金技术群再来点兄弟抱团取暖吧](https://www.v2ex.com/t/848781) 
-- [2022-04-23-git-reset---hard-求救哈](https://www.v2ex.com/t/848777) 

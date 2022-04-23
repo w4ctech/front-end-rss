@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-04-23 14:13:02。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-04-23 14:38:11。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1913,6 +1913,8 @@
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2022-03-21-ascent-override-descent-override-line-gap-override一锅端](https://www.zhangxinxu.com/wordpress/2022/03/css-ascent-override-descent/) 
 - [2022-02-04-HTML-inputmode与iOS-Android软键盘类型测试](https://www.zhangxinxu.com/wordpress/2022/02/html-inputmode-keyboard/) 
+- [2022-04-23-记-2011-年-Thinkpad-L421-装-ubuntu22.04-也黑屏（是亮度太低，亮度不可调，最后还是解决了](https://www.v2ex.com/t/848828) 
+- [2022-04-23-云闪付-App-Store-充值优惠](https://www.v2ex.com/t/848827) 
 - [2022-04-23-移动硬盘推荐](https://www.v2ex.com/t/848826) 
 - [2022-04-23-分享一个-gnome-的扩展-窗口扭动特效](https://www.v2ex.com/t/848822) 
 - [2022-04-23-windows-系统下，有没有一款“计算器”程序，在关闭计算器或电脑后，再次打开，仍然可以保留历史记录的？](https://www.v2ex.com/t/848819) 
@@ -1962,7 +1964,7 @@
 - [2022-04-23-尝试用不同的方式显示一下404这个数字咯~](https://toutiao.io/k/ox4glwt) 
 - [2022-04-23-从使用到原理，吃透Tapable](https://toutiao.io/k/h2b9zqr) 
 - [2022-04-23-4.23世界读书日，推荐9本好书｜附读书笔记](https://toutiao.io/k/d8e0mjw) 
+- [2022-04-23-推荐-万字长文，教你用go开发区块链应用](https://toutiao.io/k/3f3i7ey) 
 - [2022-04-23-推荐-微服务网关选型：5种主流-API-网关，哪个最香！](https://toutiao.io/k/jtyo70d) 
 - [2022-04-23-推荐-别再说你不懂规则引擎了！](https://toutiao.io/k/edts5o5) 
-- [2022-04-23-推荐-万字长文，教你用go开发区块链应用](https://toutiao.io/k/3f3i7ey) 
 - [2022-04-23-推荐-技术开发人员如何制定自己的OKR](https://toutiao.io/k/zq8oiet) 

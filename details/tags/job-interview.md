@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-04-23 09:13:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-04-23 09:39:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -7,5 +7,4 @@
 
 
 
-- [2022-04-23-赴日-招聘正社员-高薪高成长](https://www.v2ex.com/t/848736) 
 - [2022-04-23-如果你是一个Golang面试官，你会问哪些问题？](https://toutiao.io/k/0acpnu3) 

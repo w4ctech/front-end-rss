@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-04-23 00:57:33，:rocket: 更新条数: +2018， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-04-23 02:33:45，:rocket: 更新条数: +2019， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,13 @@
 </summary>
 
 
+- [2022-04-23-k8s-证书过期了，已经更新了，但是还是收到邮件](https://www.v2ex.com/t/848718) ![](assets/new.png)  
+- [2022-04-23-M1-pro-触摸板滑动时卡顿严重](https://www.v2ex.com/t/848717) ![](assets/new.png)  
+- [2022-04-23-有时发现-B-站很难用](https://www.v2ex.com/t/848715) ![](assets/new.png)  
+- [2022-04-23-无厨房冰箱的租房人应对疫情可以囤点啥](https://www.v2ex.com/t/848712) ![](assets/new.png)  
+- [2022-04-23-JD-自营买的机箱电源按钮坏了。](https://www.v2ex.com/t/848711) ![](assets/new.png)  
+- [2022-04-23-百度网盘开始封禁第三方下载工具](https://www.v2ex.com/t/848710) ![](assets/new.png)  
+- [2022-04-23-挺魔幻的，微信大力推广的视频号之前一直都不愠不火的，借着上海这波东风感觉得到了飞速发展。](https://www.v2ex.com/t/848709) ![](assets/new.png)  
 - [2022-04-23-如果时光可以倒流](https://www.v2ex.com/t/848708) ![](assets/new.png)  
 - [2022-04-23-噩耗，早上被通知-51-加班-3-天](https://www.v2ex.com/t/848707) ![](assets/new.png)  
 - [2022-04-23-不问-996，到底有多少人过上了-955，偶尔加班还有加班费的日子](https://www.v2ex.com/t/848706) ![](assets/new.png)  
@@ -504,13 +511,6 @@
 - [2022-04-22-由最近比较火的-5800x3d-想到的](https://www.v2ex.com/t/848697) ![](assets/new.png)  
 - [2022-04-22-golang-有什么好用的命令行解析实现库么](https://www.v2ex.com/t/848696) ![](assets/new.png)  
 - [2022-04-22-生活不易-常常叹气](https://www.v2ex.com/t/848695) ![](assets/new.png)  
-- [2022-04-22-问道](https://www.v2ex.com/t/848694) ![](assets/new.png)  
-- [2022-04-22-iPad-的音量键功能居然是不固定的](https://www.v2ex.com/t/848693) ![](assets/new.png)  
-- [2022-04-22-有-go-的多功能工具库推荐吗](https://www.v2ex.com/t/848692) ![](assets/new.png)  
-- [2022-04-22-人生接下来要改变了吧](https://www.v2ex.com/t/848691) ![](assets/new.png)  
-- [2022-04-22-有老实人接盘吗](https://www.v2ex.com/t/848690) ![](assets/new.png)  
-- [2022-04-22-求问武汉的-V-友，武汉有比较靠谱的宠物医院吗？](https://www.v2ex.com/t/848687) ![](assets/new.png)  
-- [2022-04-22-C++-for-循环终止条件里面如果写一个数组的-size，会不会优化呢？](https://www.v2ex.com/t/848686) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -559,11 +559,14 @@
 - [2022-04-23-如果你是一个Golang面试官，你会问哪些问题？](https://toutiao.io/k/0acpnu3) ![](assets/new.png)  
 - [2022-04-23-IM开发干货分享：浅谈IM系统中离线消息、历史消息的最佳实践](https://toutiao.io/k/vskpw1w) ![](assets/new.png)  
 - [2022-04-23-从使用到原理，吃透Tapable](https://toutiao.io/k/h2b9zqr) ![](assets/new.png)  
-- [2022-04-23-推荐-别再说你不懂规则引擎了！](https://toutiao.io/k/edts5o5) ![](assets/new.png)  
-- [2022-04-23-推荐-9大高性能优化经验总结，强烈建议收藏！！！](https://toutiao.io/k/26za4ep) ![](assets/new.png)  
-- [2022-04-23-推荐-微服务网关选型：5种主流-API-网关，哪个最香！](https://toutiao.io/k/jtyo70d) ![](assets/new.png)  
-- [2022-04-23-推荐-技术开发人员如何制定自己的OKR](https://toutiao.io/k/zq8oiet) ![](assets/new.png)  
+- [2022-04-23-Java项目构建基础：统一结果，统一异常，统一日志](https://toutiao.io/k/lr32fa3) ![](assets/new.png)  
+- [2022-04-23-浅谈Web容器设计的边界和目标](https://toutiao.io/k/j5z3sjc) ![](assets/new.png)  
+- [2022-04-23-博文推荐｜Kafka-on-Pulsar-突破性进展：2.8.0-及更高版本的连续偏移量实现](https://toutiao.io/k/rnm99kl) ![](assets/new.png)  
 - [2022-04-23-推荐-万字长文，教你用go开发区块链应用](https://toutiao.io/k/3f3i7ey) ![](assets/new.png)  
+- [2022-04-23-推荐-9大高性能优化经验总结，强烈建议收藏！！！](https://toutiao.io/k/26za4ep) ![](assets/new.png)  
+- [2022-04-23-推荐-别再说你不懂规则引擎了！](https://toutiao.io/k/edts5o5) ![](assets/new.png)  
+- [2022-04-23-推荐-技术开发人员如何制定自己的OKR](https://toutiao.io/k/zq8oiet) ![](assets/new.png)  
+- [2022-04-23-推荐-微服务网关选型：5种主流-API-网关，哪个最香！](https://toutiao.io/k/jtyo70d) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

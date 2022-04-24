@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-04-24 07:37:57，:rocket: 更新条数: +2019， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-04-24 08:17:10，:rocket: 更新条数: +2017， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,12 @@
 </summary>
 
 
+- [2022-04-24-关于炒币，小白的疑问](https://www.v2ex.com/t/848951) ![](assets/new.png)  
+- [2022-04-24-北京-急招：前端-15k-25k](https://www.v2ex.com/t/848950) ![](assets/new.png)  
+- [2022-04-24-为啥-chrome-developer-不能访问](https://www.v2ex.com/t/848949) ![](assets/new.png)  
+- [2022-04-24-北京外企FreeWheel2022-暑期实习生内推](https://www.v2ex.com/t/848948) ![](assets/new.png)  
+- [2022-04-24-现在安卓端有没有一种技术，能“重定向”你拨出去的电话？](https://www.v2ex.com/t/848947) ![](assets/new.png)  
+- [2022-04-24-奇怪，-oraclecloud-突然把免费空间的公网-ip-给删了](https://www.v2ex.com/t/848945) ![](assets/new.png)  
 - [2022-04-24-IDEA-哪个版本好用?](https://www.v2ex.com/t/848943) ![](assets/new.png)  
 - [2022-04-24-帮朋友招个人](https://www.v2ex.com/t/848941) ![](assets/new.png)  
 - [2022-04-24-单位企业微信内置的-h5-健康申报应用，有没有办法写油猴脚本自动申报？](https://www.v2ex.com/t/848940) ![](assets/new.png)  
@@ -503,14 +509,8 @@
 - [2022-04-24-Github-Copilot-竟然自动给我出题](https://www.v2ex.com/t/848932) ![](assets/new.png)  
 - [2022-04-24-大家新入职时,-如何快速熟悉表关系?](https://www.v2ex.com/t/848931) ![](assets/new.png)  
 - [2022-04-24-你们买-88-会员是不是-88-块？](https://www.v2ex.com/t/848930) ![](assets/new.png)  
-- [2022-04-24-华润万家Run/移民/跑路](https://www.v2ex.com/t/848928) ![](assets/new.png)  
 - [2022-04-24-Parallels-Desktop17-标准永久版低价转让。](https://www.v2ex.com/t/848926) ![](assets/new.png)  
 - [2022-04-24-Apple-Studio-Display-使用体验](https://www.v2ex.com/t/848925) ![](assets/new.png)  
-- [2022-04-24-大四毕业生-offer-对比](https://www.v2ex.com/t/848924) ![](assets/new.png)  
-- [2022-04-24-关于-iOS/macOS-的屏幕使用时间](https://www.v2ex.com/t/848923) ![](assets/new.png)  
-- [2022-04-24-做了一个简单、克制而精美的网页端番茄钟：随风](https://www.v2ex.com/t/848922) ![](assets/new.png)  
-- [2022-04-24-准备做一个小应用，看地图猜省份名称，大家有什么建议？](https://www.v2ex.com/t/848921) ![](assets/new.png)  
-- [2022-04-24-hyperf-验证器问题](https://www.v2ex.com/t/848919) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -522,6 +522,8 @@
 </summary>
 
 
+- [2022-04-24-Antenna/DR24-RUBBER-ANTENNA-2.4G-SMA-SATA-COMINATION-3DBI-6DBI-www.wallystech.com](https://blogread.cn/news/go.php?idItem=15036&url=https%3A%2F%2Fwww.wallystech.com%2FAntenna%2FDR24-RUBBER-ANTENNA-2.4G-SMA-SATA-COMINATION-3DBI-6DBI.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2022-04-24-Antenna/DRA25-2-4GHz-and-5GHZ-dual-band-OMNI-antenna-6dBi-N-connector-outdoor-www.wallystech.com](https://blogread.cn/news/go.php?idItem=15035&url=https%3A%2F%2Fwww.wallystech.com%2FAntenna%2FDRA25-2-4GHz-and-5GHZ-dual-band-OMNI-antenna-6dBi-N-connector-outdoor.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-04-24-JUnit不好用？也许你可以试试这些测试工具-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15034&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fjunit-spock-kotest-tdd-testing-framework%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-04-24-敏捷驱动QA改变-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15033&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fagile-driven-qa%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-04-24-敏捷驱动QA改变-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15032&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fagile-driven-qa%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
@@ -540,8 +542,6 @@
 - [2022-04-24-Routerboard/DR4018L-R-Qualcomm-IPQ4018-2T2R-Dual-Band-2-4GHz-5GHz-support-OpenWRT-802.11ac-Wave-2-www.wallystech.com](https://blogread.cn/news/go.php?idItem=15019&url=https%3A%2F%2Fwww.wallystech.com%2FRouterboard%2FDR4018L-R-Qualcomm-IPQ4018-2T2R-Dual-Band-2-4GHz-5GHz-support-OpenWRT-802.11ac-Wave-2.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-04-24-Routerboard/DR40X9-Qualcomm-IPQ-4019-4029-DUAL-BAND-802.11AC-WAVE2-MU-MIMO-ONBOARD-WIFI-RADIO-EMBEDDED-BOARD-supporting-LTE-www.wallystech.com](https://blogread.cn/news/go.php?idItem=15018&url=https%3A%2F%2Fwww.wallystech.com%2FRouterboard%2FDR40X9-Qualcomm-IPQ-4019-4029-DUAL-BAND-802.11AC-WAVE2-MU-MIMO-ONBOARD-WIFI-RADIO-EMBEDDED-BOARD-supporting-LTE.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-04-24-人手必备的常用网络命令合集，吐血整理！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15017&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493888%26amp%3Bidx%3D1%26amp%3Bsn%3D70d3506be895b9f146066d56dfae8b69%26amp%3Bchksm%3Dfa3f085bcd48814dbddbd6eddf6584cd9d9ebb768b37f25529371a625c4d09114bf9e2ea6fba%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-04-24-Java必会的工具库，让你的代码量减少90%-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15016&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493888%26amp%3Bidx%3D2%26amp%3Bsn%3D9f50338e5145bdd585e908e36aa7517d%26amp%3Bchksm%3Dfa3f085bcd48814d7386eb6707d907d58fa0313c300b3f73937f51525a7fc10671193f1557e2%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-04-24-技术主管和项目经理一定要读的6本书！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15015&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493887%26amp%3Bidx%3D1%26amp%3Bsn%3D1a13135d359785dd3c15d90dfaeb95e5%26amp%3Bchksm%3Dfa3f09a4cd4880b2c74c7b234fbfc6033b05283324ce3421d8c7ae3fdbb5039b9a2873874bc5%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -559,16 +559,16 @@
 - [2022-04-24-非常哇塞的-SpringBoot性能优化长文！](https://toutiao.io/k/srppeol) ![](assets/new.png)  
 - [2022-04-24-Go+-SSA-引擎的开发进展](https://toutiao.io/k/xav0prh) ![](assets/new.png)  
 - [2022-04-24-想在研发群里装？先学会这几个排查K8s问题的办法](https://toutiao.io/k/nseurde) ![](assets/new.png)  
-- [2022-04-24-Flink-从实时计算到流式数仓，下一步去往哪里？](https://toutiao.io/k/on2s0o8) ![](assets/new.png)  
 - [2022-04-24-系统设计的11个考虑](https://toutiao.io/k/ucbl6vx) ![](assets/new.png)  
+- [2022-04-24-Flink-从实时计算到流式数仓，下一步去往哪里？](https://toutiao.io/k/on2s0o8) ![](assets/new.png)  
 - [2022-04-24-快来学习下webhook吧！超级简单易学](https://toutiao.io/k/evgq0j0) ![](assets/new.png)  
 - [2022-04-24-浅谈攻防演练](https://toutiao.io/k/9f5r966) ![](assets/new.png)  
 - [2022-04-24-Redis6通信协议升级至RESP3，一口气看完13种新数据类型](https://toutiao.io/k/arcc9i9) ![](assets/new.png)  
 - [2022-04-24-推荐-微服务网关选型：5种主流-API-网关，哪个最香！](https://toutiao.io/k/jtyo70d) ![](assets/new.png)  
 - [2022-04-24-推荐-别再说你不懂规则引擎了！](https://toutiao.io/k/edts5o5) ![](assets/new.png)  
-- [2022-04-24-推荐-9大高性能优化经验总结，强烈建议收藏！！！](https://toutiao.io/k/26za4ep) ![](assets/new.png)  
 - [2022-04-24-推荐-技术开发人员如何制定自己的OKR](https://toutiao.io/k/zq8oiet) ![](assets/new.png)  
 - [2022-04-24-推荐-万字长文，教你用go开发区块链应用](https://toutiao.io/k/3f3i7ey) ![](assets/new.png)  
+- [2022-04-24-推荐-9大高性能优化经验总结，强烈建议收藏！！！](https://toutiao.io/k/26za4ep) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

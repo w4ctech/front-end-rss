@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-04-24 08:43:30。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-04-24 09:13:47。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -105,7 +105,6 @@
 
 
 
-- [【V2EX】人人都会桌面软件开发，-electron-egg](https://www.v2ex.com/t/848917)
 - [......【查看更多】......](./details/tags/nodejs.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -179,6 +178,7 @@
 - [【张鑫旭-鑫空间-鑫生活】CSS实现滚动高度自动变小的粘滞效果](https://www.zhangxinxu.com/wordpress/2022/04/css-sticky-size-change/)
 - [【张鑫旭-鑫空间-鑫生活】基于howler.js写了个音频播放器组件](https://www.zhangxinxu.com/wordpress/2022/03/howler-js-audio-player/)
 - [【张鑫旭-鑫空间-鑫生活】介绍8个和滚动相关的CSS属性](https://www.zhangxinxu.com/wordpress/2022/03/10-css-scroll-scrollbar/)
+- [【V2EX】求一个-js-写法，弹出的选择器如何选中中间的-li（弹出有的滚动条，滚上滚下自动选中中间的-Li）](https://www.v2ex.com/t/848964)
 - [【V2EX】单位企业微信内置的-h5-健康申报应用，有没有办法写油猴脚本自动申报？](https://www.v2ex.com/t/848940)
 - [......【查看更多】......](./details/tags/javascript.md)
 
@@ -237,8 +237,8 @@
 
 - [【武汉肺炎防疫全纪录(财新网)】广州17岁男生在定点医院参加高考-特殊考场视频监考](https://m.caixin.com/m/2021-06-05/101723418.html)
 - [【武汉肺炎防疫全纪录(财新网)】林郑月娥率13高官直播接种科兴疫苗-复星疫苗预计周中到港](https://m.caixin.com/m/2021-02-22/101665724.html)
+- [【V2EX】求推荐一款适合看视频的平板，最好是-OLED，亮度高一点，支持杜比视界、杜比音效。](https://www.v2ex.com/t/848960)
 - [【V2EX】iPad-上有啥免费无广本地音乐播放器推荐吗，主要拿来睡前听一些本地音频，听个响就行，不需要音质好。需要有定时睡眠功能，最好可以按文件夹播放。](https://www.v2ex.com/t/848937)
-- [【V2EX】前端:-大佬们-推荐一下比较好的学习服务端视频吗？](https://www.v2ex.com/t/848915)
 - [......【查看更多】......](./details/tags/audio-video.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -282,7 +282,6 @@
 - [【武汉肺炎防疫全纪录(财新网)】大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html)
 - [【V2EX】为啥-chrome-developer-不能访问](https://www.v2ex.com/t/848949)
 - [【V2EX】nginx-反向代理-https-的时候能正常访问，但-chrome-提示证书不正确？](https://www.v2ex.com/t/848938)
-- [【V2EX】safari-ios-添加网页到主屏幕后，顶部黑框如何取消？](https://www.v2ex.com/t/848912)
 - [【技术头条】CodeReview价值百万！！！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15026&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493913%26amp%3Bidx%3D1%26amp%3Bsn%3D52ab2ee1a58002e7f706d28ab3946b5b%26amp%3Bchksm%3Dfa3f0842cd488154598f87855b8ecae16c1ec58d62b0f81a16b3523e9a8c08275c94b5762032%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [......【查看更多】......](./details/tags/browser.md)
 

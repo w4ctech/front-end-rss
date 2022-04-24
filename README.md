@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-04-24 09:13:47，:rocket: 更新条数: +2020， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-04-24 09:40:02，:rocket: 更新条数: +2019， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,11 @@
 </summary>
 
 
+- [2022-04-24-Win11,-Vmware16,-在开启第二个虚拟机的时候提示未能启动虚拟机，有大佬知道怎么回事么](https://www.v2ex.com/t/848973) ![](assets/new.png)  
+- [2022-04-24-成都前端-offer-求比较](https://www.v2ex.com/t/848972) ![](assets/new.png)  
+- [2022-04-24-如何把知乎点赞回答通过-IFTTT-传到-telegram？](https://www.v2ex.com/t/848971) ![](assets/new.png)  
+- [2022-04-24-便利蜂购买的券过期，怎么领取退款？](https://www.v2ex.com/t/848970) ![](assets/new.png)  
+- [2022-04-24-国密标准推行不太顺利的样子？](https://www.v2ex.com/t/848968) ![](assets/new.png)  
 - [2022-04-24-求教-m1-外置硬盘和充电头选择](https://www.v2ex.com/t/848967) ![](assets/new.png)  
 - [2022-04-24-请教一下如何实时备份公司工程至-NAS](https://www.v2ex.com/t/848966) ![](assets/new.png)  
 - [2022-04-24-云服务商还是远离小厂吧](https://www.v2ex.com/t/848965) ![](assets/new.png)  
@@ -506,11 +511,6 @@
 - [2022-04-24-关于炒币，小白的疑问](https://www.v2ex.com/t/848951) ![](assets/new.png)  
 - [2022-04-24-北京-急招：前端-15k-25k](https://www.v2ex.com/t/848950) ![](assets/new.png)  
 - [2022-04-24-为啥-chrome-developer-不能访问](https://www.v2ex.com/t/848949) ![](assets/new.png)  
-- [2022-04-24-北京外企FreeWheel2022-暑期实习生内推](https://www.v2ex.com/t/848948) ![](assets/new.png)  
-- [2022-04-24-现在安卓端有没有一种技术，能“重定向”你拨出去的电话？](https://www.v2ex.com/t/848947) ![](assets/new.png)  
-- [2022-04-24-奇怪，-oraclecloud-突然把免费空间的公网-ip-给删了](https://www.v2ex.com/t/848945) ![](assets/new.png)  
-- [2022-04-24-IDEA-哪个版本好用?](https://www.v2ex.com/t/848943) ![](assets/new.png)  
-- [2022-04-24-帮朋友招个人](https://www.v2ex.com/t/848941) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -565,11 +565,11 @@
 - [2022-04-24-浅谈攻防演练](https://toutiao.io/k/9f5r966) ![](assets/new.png)  
 - [2022-04-24-Redis6通信协议升级至RESP3，一口气看完13种新数据类型](https://toutiao.io/k/arcc9i9) ![](assets/new.png)  
 - [2022-04-24-如何记住所学的东西？｜码农周刊VIP会员专属邮件周报-Vol.088](https://toutiao.io/k/zyo6ijj) ![](assets/new.png)  
+- [2022-04-24-推荐-9大高性能优化经验总结，强烈建议收藏！！！](https://toutiao.io/k/26za4ep) ![](assets/new.png)  
+- [2022-04-24-推荐-微服务网关选型：5种主流-API-网关，哪个最香！](https://toutiao.io/k/jtyo70d) ![](assets/new.png)  
+- [2022-04-24-推荐-别再说你不懂规则引擎了！](https://toutiao.io/k/edts5o5) ![](assets/new.png)  
 - [2022-04-24-推荐-万字长文，教你用go开发区块链应用](https://toutiao.io/k/3f3i7ey) ![](assets/new.png)  
 - [2022-04-24-推荐-技术开发人员如何制定自己的OKR](https://toutiao.io/k/zq8oiet) ![](assets/new.png)  
-- [2022-04-24-推荐-微服务网关选型：5种主流-API-网关，哪个最香！](https://toutiao.io/k/jtyo70d) ![](assets/new.png)  
-- [2022-04-24-推荐-9大高性能优化经验总结，强烈建议收藏！！！](https://toutiao.io/k/26za4ep) ![](assets/new.png)  
-- [2022-04-24-推荐-别再说你不懂规则引擎了！](https://toutiao.io/k/edts5o5) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

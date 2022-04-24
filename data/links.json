@@ -9953,6 +9953,16 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "Github Copilot 竟然自动给我出题",
+        "link": "https://www.v2ex.com/t/848932",
+        "date": "2022-04-24"
+      },
+      {
+        "title": "大家新入职时, 如何快速熟悉表关系?",
+        "link": "https://www.v2ex.com/t/848931",
+        "date": "2022-04-24"
+      },
+      {
         "title": "你们买 88 会员是不是 88 块？",
         "link": "https://www.v2ex.com/t/848930",
         "date": "2022-04-24"
@@ -10121,11 +10131,6 @@
         "title": "#一点思考 读书与世界的真相",
         "link": "https://www.v2ex.com/t/848885",
         "date": "2022-04-24"
-      },
-      {
-        "title": "逃 离 成 都",
-        "link": "https://www.v2ex.com/t/848881",
-        "date": "2022-04-24"
       }
     ]
   },
@@ -10257,13 +10262,13 @@
         "date": "2022-04-24"
       },
       {
-        "title": "Go+ SSA 引擎的开发进展",
-        "link": "https://toutiao.io/k/xav0prh",
+        "title": "非常哇塞的 SpringBoot性能优化长文！",
+        "link": "https://toutiao.io/k/srppeol",
         "date": "2022-04-24"
       },
       {
-        "title": "非常哇塞的 SpringBoot性能优化长文！",
-        "link": "https://toutiao.io/k/srppeol",
+        "title": "Go+ SSA 引擎的开发进展",
+        "link": "https://toutiao.io/k/xav0prh",
         "date": "2022-04-24"
       },
       {
@@ -10272,13 +10277,13 @@
         "date": "2022-04-24"
       },
       {
-        "title": "快来学习下webhook吧！超级简单易学",
-        "link": "https://toutiao.io/k/evgq0j0",
+        "title": "Flink 从实时计算到流式数仓，下一步去往哪里？",
+        "link": "https://toutiao.io/k/on2s0o8",
         "date": "2022-04-24"
       },
       {
-        "title": "Flink 从实时计算到流式数仓，下一步去往哪里？",
-        "link": "https://toutiao.io/k/on2s0o8",
+        "title": "快来学习下webhook吧！超级简单易学",
+        "link": "https://toutiao.io/k/evgq0j0",
         "date": "2022-04-24"
       },
       {
@@ -10297,13 +10302,13 @@
         "date": "2022-04-24"
       },
       {
-        "title": "[推荐] 万字长文，教你用go开发区块链应用",
-        "link": "https://toutiao.io/k/3f3i7ey",
+        "title": "[推荐] 技术开发人员如何制定自己的OKR",
+        "link": "https://toutiao.io/k/zq8oiet",
         "date": "2022-04-24"
       },
       {
-        "title": "[推荐] 别再说你不懂规则引擎了！",
-        "link": "https://toutiao.io/k/edts5o5",
+        "title": "[推荐] 万字长文，教你用go开发区块链应用",
+        "link": "https://toutiao.io/k/3f3i7ey",
         "date": "2022-04-24"
       },
       {
@@ -10317,8 +10322,8 @@
         "date": "2022-04-24"
       },
       {
-        "title": "[推荐] 技术开发人员如何制定自己的OKR",
-        "link": "https://toutiao.io/k/zq8oiet",
+        "title": "[推荐] 别再说你不懂规则引擎了！",
+        "link": "https://toutiao.io/k/edts5o5",
         "date": "2022-04-24"
       }
     ]

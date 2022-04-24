@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-04-24 03:50:27，:rocket: 更新条数: +2017， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-04-24 04:16:29，:rocket: 更新条数: +2016， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,9 @@
 </summary>
 
 
+- [2022-04-24-人在加-拿-大蒙-特-利-尔，开始考虑学电工/水管工/暖通工。](https://www.v2ex.com/t/848916) ![](assets/new.png)  
+- [2022-04-24-前端:-大佬们-推荐一下比较好的学习服务端视频吗？](https://www.v2ex.com/t/848915) ![](assets/new.png)  
+- [2022-04-24-程序员怎么不骗人挣钱？](https://www.v2ex.com/t/848914) ![](assets/new.png)  
 - [2022-04-24-safari-ios-添加网页到主屏幕后，顶部黑框如何取消？](https://www.v2ex.com/t/848912) ![](assets/new.png)  
 - [2022-04-24-老家回去不去，五一假期去哪玩？](https://www.v2ex.com/t/848911) ![](assets/new.png)  
 - [2022-04-24-达观数据有知道的嘛](https://www.v2ex.com/t/848910) ![](assets/new.png)  
@@ -508,9 +511,6 @@
 - [2022-04-24-“确定摘牌名单”对持股员工的影响](https://www.v2ex.com/t/848892) ![](assets/new.png)  
 - [2022-04-24-如何知道交往潜在对象有没有乙肝艾滋啥的。](https://www.v2ex.com/t/848891) ![](assets/new.png)  
 - [2022-04-24-🏅-成为职场优秀程序员的-5-个建议](https://www.v2ex.com/t/848890) ![](assets/new.png)  
-- [2022-04-24-各位-v-友签到天数是多少了](https://www.v2ex.com/t/848889) ![](assets/new.png)  
-- [2022-04-24-深圳/杭州/广州-内推-字节跳动飞书文档-前端/后台（不限-HC）（25k-50k）](https://www.v2ex.com/t/848887) ![](assets/new.png)  
-- [2022-04-24-限免-拯救无效社交的-iOS-键盘-App](https://www.v2ex.com/t/848886) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -522,6 +522,9 @@
 </summary>
 
 
+- [2022-04-24-JUnit不好用？也许你可以试试这些测试工具-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15034&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fjunit-spock-kotest-tdd-testing-framework%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2022-04-24-敏捷驱动QA改变-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15033&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fagile-driven-qa%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2022-04-24-敏捷驱动QA改变-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15032&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fagile-driven-qa%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-04-24-用个十百千思考DDD-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15031&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fddd-thinking%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-04-24-关于编写故事卡的一些经验-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15030&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-story-card%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-04-24-性能优化那些事（3）-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15029&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fperformance-turning-practice-3%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
@@ -539,9 +542,6 @@
 - [2022-04-24-人手必备的常用网络命令合集，吐血整理！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15017&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493888%26amp%3Bidx%3D1%26amp%3Bsn%3D70d3506be895b9f146066d56dfae8b69%26amp%3Bchksm%3Dfa3f085bcd48814dbddbd6eddf6584cd9d9ebb768b37f25529371a625c4d09114bf9e2ea6fba%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-04-24-Java必会的工具库，让你的代码量减少90%-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15016&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493888%26amp%3Bidx%3D2%26amp%3Bsn%3D9f50338e5145bdd585e908e36aa7517d%26amp%3Bchksm%3Dfa3f085bcd48814d7386eb6707d907d58fa0313c300b3f73937f51525a7fc10671193f1557e2%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-04-24-技术主管和项目经理一定要读的6本书！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15015&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493887%26amp%3Bidx%3D1%26amp%3Bsn%3D1a13135d359785dd3c15d90dfaeb95e5%26amp%3Bchksm%3Dfa3f09a4cd4880b2c74c7b234fbfc6033b05283324ce3421d8c7ae3fdbb5039b9a2873874bc5%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-04-24-你还在new对象吗？Java8通用Builder了解一下-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15014&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493887%26amp%3Bidx%3D2%26amp%3Bsn%3Db839d751774d9953d0ddc71bc2862211%26amp%3Bchksm%3Dfa3f09a4cd4880b2d6780cf763e119f07c8f4fce913ad66b97bf0b0f4b5b3d34a102fa9531c3%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-04-24-这款网络排查工具，堪称神器！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15013&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493797%26amp%3Bidx%3D1%26amp%3Bsn%3D7356bd84df9977ad3781b336c0b2e8b6%26amp%3Bchksm%3Dfa3f09fecd4880e83b060001a939ad5633e82987f70d23ddacc86b445f6e56c1626be7f359c0%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-04-24-52条SQL语句性能优化策略，建议收藏！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15012&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493797%26amp%3Bidx%3D2%26amp%3Bsn%3D1dbc093793d9085034fa0c1297ab3aae%26amp%3Bchksm%3Dfa3f09fecd4880e89d1057391f9081c6370469beba67bf10415a1873130220d3e669066eea75%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -558,14 +558,14 @@
 - [2022-04-24-java日志那些事儿-日志野史](https://toutiao.io/k/xfjpack) ![](assets/new.png)  
 - [2022-04-24-Go+-SSA-引擎的开发进展](https://toutiao.io/k/xav0prh) ![](assets/new.png)  
 - [2022-04-24-非常哇塞的-SpringBoot性能优化长文！](https://toutiao.io/k/srppeol) ![](assets/new.png)  
-- [2022-04-24-Flink-从实时计算到流式数仓，下一步去往哪里？](https://toutiao.io/k/on2s0o8) ![](assets/new.png)  
 - [2022-04-24-想在研发群里装？先学会这几个排查K8s问题的办法](https://toutiao.io/k/nseurde) ![](assets/new.png)  
+- [2022-04-24-Flink-从实时计算到流式数仓，下一步去往哪里？](https://toutiao.io/k/on2s0o8) ![](assets/new.png)  
 - [2022-04-24-快来学习下webhook吧！超级简单易学](https://toutiao.io/k/evgq0j0) ![](assets/new.png)  
-- [2022-04-24-推荐-技术开发人员如何制定自己的OKR](https://toutiao.io/k/zq8oiet) ![](assets/new.png)  
+- [2022-04-24-推荐-万字长文，教你用go开发区块链应用](https://toutiao.io/k/3f3i7ey) ![](assets/new.png)  
 - [2022-04-24-推荐-9大高性能优化经验总结，强烈建议收藏！！！](https://toutiao.io/k/26za4ep) ![](assets/new.png)  
+- [2022-04-24-推荐-技术开发人员如何制定自己的OKR](https://toutiao.io/k/zq8oiet) ![](assets/new.png)  
 - [2022-04-24-推荐-微服务网关选型：5种主流-API-网关，哪个最香！](https://toutiao.io/k/jtyo70d) ![](assets/new.png)  
 - [2022-04-24-推荐-别再说你不懂规则引擎了！](https://toutiao.io/k/edts5o5) ![](assets/new.png)  
-- [2022-04-24-推荐-万字长文，教你用go开发区块链应用](https://toutiao.io/k/3f3i7ey) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

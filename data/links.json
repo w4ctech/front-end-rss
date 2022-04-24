@@ -9953,6 +9953,21 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "人在加-拿-大蒙-特-利-尔，开始考虑学电工/水管工/暖通工。",
+        "link": "https://www.v2ex.com/t/848916",
+        "date": "2022-04-24"
+      },
+      {
+        "title": "前端(: 大佬们 推荐一下比较好的学习服务端视频吗？",
+        "link": "https://www.v2ex.com/t/848915",
+        "date": "2022-04-24"
+      },
+      {
+        "title": "程序员怎么不骗人挣钱？",
+        "link": "https://www.v2ex.com/t/848914",
+        "date": "2022-04-24"
+      },
+      {
         "title": "safari ios 添加网页到主屏幕后，顶部黑框如何取消？",
         "link": "https://www.v2ex.com/t/848912",
         "date": "2022-04-24"
@@ -10121,26 +10136,6 @@
         "title": "C 语言 x 除以 0 在各个平台的行为不一致，为什么？",
         "link": "https://www.v2ex.com/t/848867",
         "date": "2022-04-24"
-      },
-      {
-        "title": "发现一款有情报收益的运维工具：猎报 运维监控和威胁检测功能于一体，能自动回溯分析报告，用着方便不要钱，不知道这个公司怎么赚取收益，会不会盗取信息什么的...",
-        "link": "https://www.v2ex.com/t/848866",
-        "date": "2022-04-24"
-      },
-      {
-        "title": "独立产品灵感周刊 DecoHack #011",
-        "link": "https://www.v2ex.com/t/848865",
-        "date": "2022-04-24"
-      },
-      {
-        "title": "M1 Max 16 寸的发现有轻微电池胀包",
-        "link": "https://www.v2ex.com/t/848864",
-        "date": "2022-04-24"
-      },
-      {
-        "title": "女生这种情况下究竟是想些啥。。。",
-        "link": "https://www.v2ex.com/t/848863",
-        "date": "2022-04-24"
       }
     ]
   },
@@ -10149,6 +10144,21 @@
     "title": "技术头条",
     "link": "http://blogread.cn/news/newest.php",
     "items": [
+      {
+        "title": "JUnit不好用？也许你可以试试这些测试工具 (insights.thoughtworks.cn)",
+        "link": "https://blogread.cn/news/go.php?idItem=15034&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fjunit-spock-kotest-tdd-testing-framework%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2022-04-24"
+      },
+      {
+        "title": "敏捷驱动QA改变 (insights.thoughtworks.cn)",
+        "link": "https://blogread.cn/news/go.php?idItem=15033&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fagile-driven-qa%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2022-04-24"
+      },
+      {
+        "title": "敏捷驱动QA改变 (insights.thoughtworks.cn)",
+        "link": "https://blogread.cn/news/go.php?idItem=15032&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fagile-driven-qa%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2022-04-24"
+      },
       {
         "title": "用个十百千思考DDD (insights.thoughtworks.cn)",
         "link": "https://blogread.cn/news/go.php?idItem=15031&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fddd-thinking%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
@@ -10233,21 +10243,6 @@
         "title": "技术主管和项目经理一定要读的6本书！ (mp.weixin.qq.com)",
         "link": "https://blogread.cn/news/go.php?idItem=15015&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493887%26amp%3Bidx%3D1%26amp%3Bsn%3D1a13135d359785dd3c15d90dfaeb95e5%26amp%3Bchksm%3Dfa3f09a4cd4880b2c74c7b234fbfc6033b05283324ce3421d8c7ae3fdbb5039b9a2873874bc5%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
         "date": "2022-04-24"
-      },
-      {
-        "title": "你还在new对象吗？Java8通用Builder了解一下 (mp.weixin.qq.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=15014&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493887%26amp%3Bidx%3D2%26amp%3Bsn%3Db839d751774d9953d0ddc71bc2862211%26amp%3Bchksm%3Dfa3f09a4cd4880b2d6780cf763e119f07c8f4fce913ad66b97bf0b0f4b5b3d34a102fa9531c3%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-04-24"
-      },
-      {
-        "title": "这款网络排查工具，堪称神器！ (mp.weixin.qq.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=15013&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493797%26amp%3Bidx%3D1%26amp%3Bsn%3D7356bd84df9977ad3781b336c0b2e8b6%26amp%3Bchksm%3Dfa3f09fecd4880e83b060001a939ad5633e82987f70d23ddacc86b445f6e56c1626be7f359c0%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-04-24"
-      },
-      {
-        "title": "52条SQL语句性能优化策略，建议收藏！ (mp.weixin.qq.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=15012&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493797%26amp%3Bidx%3D2%26amp%3Bsn%3D1dbc093793d9085034fa0c1297ab3aae%26amp%3Bchksm%3Dfa3f09fecd4880e89d1057391f9081c6370469beba67bf10415a1873130220d3e669066eea75%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-04-24"
       }
     ]
   },
@@ -10282,13 +10277,13 @@
         "date": "2022-04-24"
       },
       {
-        "title": "Flink 从实时计算到流式数仓，下一步去往哪里？",
-        "link": "https://toutiao.io/k/on2s0o8",
+        "title": "想在研发群里装？先学会这几个排查K8s问题的办法",
+        "link": "https://toutiao.io/k/nseurde",
         "date": "2022-04-24"
       },
       {
-        "title": "想在研发群里装？先学会这几个排查K8s问题的办法",
-        "link": "https://toutiao.io/k/nseurde",
+        "title": "Flink 从实时计算到流式数仓，下一步去往哪里？",
+        "link": "https://toutiao.io/k/on2s0o8",
         "date": "2022-04-24"
       },
       {
@@ -10297,13 +10292,18 @@
         "date": "2022-04-24"
       },
       {
-        "title": "[推荐] 技术开发人员如何制定自己的OKR",
-        "link": "https://toutiao.io/k/zq8oiet",
+        "title": "[推荐] 万字长文，教你用go开发区块链应用",
+        "link": "https://toutiao.io/k/3f3i7ey",
         "date": "2022-04-24"
       },
       {
         "title": "[推荐] 9大高性能优化经验总结，强烈建议收藏！！！",
         "link": "https://toutiao.io/k/26za4ep",
+        "date": "2022-04-24"
+      },
+      {
+        "title": "[推荐] 技术开发人员如何制定自己的OKR",
+        "link": "https://toutiao.io/k/zq8oiet",
         "date": "2022-04-24"
       },
       {
@@ -10314,11 +10314,6 @@
       {
         "title": "[推荐] 别再说你不懂规则引擎了！",
         "link": "https://toutiao.io/k/edts5o5",
-        "date": "2022-04-24"
-      },
-      {
-        "title": "[推荐] 万字长文，教你用go开发区块链应用",
-        "link": "https://toutiao.io/k/3f3i7ey",
         "date": "2022-04-24"
       }
     ]

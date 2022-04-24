@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-04-24 02:29:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-04-24 03:11:58。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -16,4 +16,4 @@
 - [2022-04-22-CSS实现滚动高度自动变小的粘滞效果](https://www.zhangxinxu.com/wordpress/2022/04/css-sticky-size-change/) 
 - [2022-03-15-基于howler.js写了个音频播放器组件](https://www.zhangxinxu.com/wordpress/2022/03/howler-js-audio-player/) 
 - [2022-03-07-介绍8个和滚动相关的CSS属性](https://www.zhangxinxu.com/wordpress/2022/03/10-css-scroll-scrollbar/) 
-- [2022-04-23-为什么-fetch-api-的-body-操作如-text-json-是异步的](https://www.v2ex.com/t/848848) 
+- [2022-04-24-jsbox-有趣/实用的脚本分享？](https://www.v2ex.com/t/848894) 

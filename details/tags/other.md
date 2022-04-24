@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-04-24 15:14:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-04-24 15:42:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1913,6 +1913,8 @@
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2022-03-21-ascent-override-descent-override-line-gap-override一锅端](https://www.zhangxinxu.com/wordpress/2022/03/css-ascent-override-descent/) 
 - [2022-02-04-HTML-inputmode与iOS-Android软键盘类型测试](https://www.zhangxinxu.com/wordpress/2022/02/html-inputmode-keyboard/) 
+- [2022-04-24-谨慎升级-15.5](https://www.v2ex.com/t/849029) 
+- [2022-04-24-share-微博为什么在-play-还是可以看到](https://www.v2ex.com/t/849028) 
 - [2022-04-24-《非常感谢学校给我的洗澡机会》](https://www.v2ex.com/t/849026) 
 - [2022-04-24-末流-211-电子信息均分-90+，一年制港硕值得去吗](https://www.v2ex.com/t/849025) 
 - [2022-04-24-编译的-AOSP-系统，来电无声音是什么原因导致的？](https://www.v2ex.com/t/849024) 
@@ -1948,8 +1950,6 @@
 - [2022-04-24-电视盒子求推荐](https://www.v2ex.com/t/848984) 
 - [2022-04-24-有无知道江苏彼邻客科技有限公司的朋友，准备签实习了，求帮忙看有没有坑](https://www.v2ex.com/t/848982) 
 - [2022-04-24-Micro-Focus-内推中高级-Front-Engineer、-Java-、Android、QA、C++-欢迎各位大佬联系（转正成功，有神秘大礼）](https://www.v2ex.com/t/848981) 
-- [2022-04-24-Cockpit-自动登录二级服务器问题](https://www.v2ex.com/t/848980) 
-- [2022-04-24-北京-急招：-Java](https://www.v2ex.com/t/848979) 
 - [2022-04-24-Antenna/DRA25-2-4GHz-and-5GHZ-dual-band-OMNI-antenna-6dBi-N-connector-outdoor-www.wallystech.com](https://blogread.cn/news/go.php?idItem=15035&url=https%3A%2F%2Fwww.wallystech.com%2FAntenna%2FDRA25-2-4GHz-and-5GHZ-dual-band-OMNI-antenna-6dBi-N-connector-outdoor.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-04-24-JUnit不好用？也许你可以试试这些测试工具-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15034&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fjunit-spock-kotest-tdd-testing-framework%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-04-24-敏捷驱动QA改变-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15033&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fagile-driven-qa%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1976,7 +1976,7 @@
 - [2022-04-24-浅谈攻防演练](https://toutiao.io/k/9f5r966) 
 - [2022-04-24-如何记住所学的东西？｜码农周刊VIP会员专属邮件周报-Vol.088](https://toutiao.io/k/zyo6ijj) 
 - [2022-04-24-Redis6通信协议升级至RESP3，一口气看完13种新数据类型](https://toutiao.io/k/arcc9i9) 
-- [2022-04-24-推荐-别再说你不懂规则引擎了！](https://toutiao.io/k/edts5o5) 
+- [2022-04-24-推荐-技术开发人员如何制定自己的OKR](https://toutiao.io/k/zq8oiet) 
 - [2022-04-24-推荐-万字长文，教你用go开发区块链应用](https://toutiao.io/k/3f3i7ey) 
 - [2022-04-24-推荐-微服务网关选型：5种主流-API-网关，哪个最香！](https://toutiao.io/k/jtyo70d) 
-- [2022-04-24-推荐-技术开发人员如何制定自己的OKR](https://toutiao.io/k/zq8oiet) 
+- [2022-04-24-推荐-别再说你不懂规则引擎了！](https://toutiao.io/k/edts5o5) 

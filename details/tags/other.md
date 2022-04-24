@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-04-24 05:13:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-04-24 05:38:11。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1913,6 +1913,8 @@
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2022-03-21-ascent-override-descent-override-line-gap-override一锅端](https://www.zhangxinxu.com/wordpress/2022/03/css-ascent-override-descent/) 
 - [2022-02-04-HTML-inputmode与iOS-Android软键盘类型测试](https://www.zhangxinxu.com/wordpress/2022/02/html-inputmode-keyboard/) 
+- [2022-04-24-做了一个简单、克制而精美的网页端番茄钟：随风](https://www.v2ex.com/t/848922) 
+- [2022-04-24-准备做一个小应用，看地图猜省份名称，大家有什么建议？](https://www.v2ex.com/t/848921) 
 - [2022-04-24-hyperf-验证器问题](https://www.v2ex.com/t/848919) 
 - [2022-04-24-人在加-拿-大蒙-特-利-尔，开始考虑学电工/水管工/暖通工。](https://www.v2ex.com/t/848916) 
 - [2022-04-24-程序员怎么不骗人挣钱？](https://www.v2ex.com/t/848914) 
@@ -1938,9 +1940,6 @@
 - [2022-04-24-人近三十](https://www.v2ex.com/t/848877) 
 - [2022-04-24-Quant-实习-offer-选择问题求助？](https://www.v2ex.com/t/848876) 
 - [2022-04-24-makefile-如何运行所有目录的文件呢？](https://www.v2ex.com/t/848873) 
-- [2022-04-24-腾讯轻量应用服务器的防火墙是什么程序控制的？可以通过-ssh-管理吗还是只能在-web-上操作](https://www.v2ex.com/t/848872) 
-- [2022-04-24-有什么好用的-Youtube-订阅管理工具，-Mac-或网页版？](https://www.v2ex.com/t/848871) 
-- [2022-04-24-要收房了，有什么特别要注意的事项吗？](https://www.v2ex.com/t/848870) 
 - [2022-04-24-JUnit不好用？也许你可以试试这些测试工具-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15034&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fjunit-spock-kotest-tdd-testing-framework%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-04-24-敏捷驱动QA改变-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15033&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fagile-driven-qa%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-04-24-敏捷驱动QA改变-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15032&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fagile-driven-qa%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1964,7 +1963,7 @@
 - [2022-04-24-Go+-SSA-引擎的开发进展](https://toutiao.io/k/xav0prh) 
 - [2022-04-24-想在研发群里装？先学会这几个排查K8s问题的办法](https://toutiao.io/k/nseurde) 
 - [2022-04-24-Flink-从实时计算到流式数仓，下一步去往哪里？](https://toutiao.io/k/on2s0o8) 
-- [2022-04-24-推荐-万字长文，教你用go开发区块链应用](https://toutiao.io/k/3f3i7ey) 
-- [2022-04-24-推荐-技术开发人员如何制定自己的OKR](https://toutiao.io/k/zq8oiet) 
 - [2022-04-24-推荐-微服务网关选型：5种主流-API-网关，哪个最香！](https://toutiao.io/k/jtyo70d) 
+- [2022-04-24-推荐-技术开发人员如何制定自己的OKR](https://toutiao.io/k/zq8oiet) 
 - [2022-04-24-推荐-别再说你不懂规则引擎了！](https://toutiao.io/k/edts5o5) 
+- [2022-04-24-推荐-万字长文，教你用go开发区块链应用](https://toutiao.io/k/3f3i7ey) 

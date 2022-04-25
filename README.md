@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-04-25 11:12:47，:rocket: 更新条数: +2034， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-04-25 11:38:07，:rocket: 更新条数: +2033， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-04-25-打字后左手小拇指特别不舒服，怎么破？](https://www.v2ex.com/t/849227) ![](assets/new.png)  
+- [2022-04-25-分享一个随机头像生成器，原来-V2EX-的随机头像也是用的这个-hh](https://www.v2ex.com/t/849225) ![](assets/new.png)  
 - [2022-04-25-自己负责了一年多的项目要交给同事了，我是该难过呢？还是该高兴？](https://www.v2ex.com/t/849224) ![](assets/new.png)  
 - [2022-04-25-上上周买的北方稀土，没想到今天几乎跌停了！](https://www.v2ex.com/t/849223) ![](assets/new.png)  
 - [2022-04-25-新一代的-golang-测试库](https://www.v2ex.com/t/849222) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-04-25-二房东不退押金怎么办？](https://www.v2ex.com/t/849208) ![](assets/new.png)  
 - [2022-04-25-老生常谈的-paypal-提现问题。](https://www.v2ex.com/t/849207) ![](assets/new.png)  
 - [2022-04-25-jetbrains-看代码问题咨询](https://www.v2ex.com/t/849206) ![](assets/new.png)  
-- [2022-04-25-从倒闭的竞品公司招的几个前端架构师，入职没两个月都离职了](https://www.v2ex.com/t/849205) ![](assets/new.png)  
-- [2022-04-25-一个方法里的并行多个-rpc-调用-怎么做隔离？](https://www.v2ex.com/t/849204) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -564,15 +564,15 @@
 - [2022-04-25-9张图轻松吃透Go内存管理单元](https://toutiao.io/k/x03gc99) ![](assets/new.png)  
 - [2022-04-25-Presto-原生多-Coordinator-功能简介，可以在生产环境使用](https://toutiao.io/k/hhf01w7) ![](assets/new.png)  
 - [2022-04-25-带大家写个的热血足球小游戏，从此赢麻世界杯！！！](https://toutiao.io/k/75w5cea) ![](assets/new.png)  
-- [2022-04-25-《2021-年-Go-官方开发者调查报告》](https://toutiao.io/k/4n7rqgg) ![](assets/new.png)  
 - [2022-04-25-Elasticsearch-基础入门详文](https://toutiao.io/k/wsccb9s) ![](assets/new.png)  
+- [2022-04-25-《2021-年-Go-官方开发者调查报告》](https://toutiao.io/k/4n7rqgg) ![](assets/new.png)  
 - [2022-04-25-有赞数据地图实践（PPT可下载）](https://toutiao.io/k/z8ij0pv) ![](assets/new.png)  
 - [2022-04-25-手绘-11-张图：详解-ZooKeeper-如何实现服务注册发现](https://toutiao.io/k/m0itvpx) ![](assets/new.png)  
 - [2022-04-25-GithubX:-一个-Github-体验增强插件](https://toutiao.io/k/9tyfzz1) ![](assets/new.png)  
 - [2022-04-25-作为中台建设者，如何与前台协同呢？](https://toutiao.io/k/2xxwnrv) ![](assets/new.png)  
 - [2022-04-25-HBase-读写优化大全](https://toutiao.io/k/c1bt515) ![](assets/new.png)  
+- [2022-04-25-推荐-2022-最新Java基础常见知识&面试题总结上!](https://toutiao.io/k/wm0jjmm) ![](assets/new.png)  
 - [2022-04-25-推荐-微服务网关选型：5种主流-API-网关，哪个最香！](https://toutiao.io/k/jtyo70d) ![](assets/new.png)  
-- [2022-04-25-推荐-9大高性能优化经验总结，强烈建议收藏！！！](https://toutiao.io/k/26za4ep) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

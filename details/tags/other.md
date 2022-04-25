@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-04-25 11:12:47。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-04-25 11:38:07。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1913,6 +1913,8 @@
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2022-03-21-ascent-override-descent-override-line-gap-override一锅端](https://www.zhangxinxu.com/wordpress/2022/03/css-ascent-override-descent/) 
 - [2022-02-04-HTML-inputmode与iOS-Android软键盘类型测试](https://www.zhangxinxu.com/wordpress/2022/02/html-inputmode-keyboard/) 
+- [2022-04-25-打字后左手小拇指特别不舒服，怎么破？](https://www.v2ex.com/t/849227) 
+- [2022-04-25-分享一个随机头像生成器，原来-V2EX-的随机头像也是用的这个-hh](https://www.v2ex.com/t/849225) 
 - [2022-04-25-自己负责了一年多的项目要交给同事了，我是该难过呢？还是该高兴？](https://www.v2ex.com/t/849224) 
 - [2022-04-25-上上周买的北方稀土，没想到今天几乎跌停了！](https://www.v2ex.com/t/849223) 
 - [2022-04-25-新一代的-golang-测试库](https://www.v2ex.com/t/849222) 
@@ -1944,8 +1946,6 @@
 - [2022-04-25-有什么好用的手机远程连电脑软件吗？](https://www.v2ex.com/t/849181) 
 - [2022-04-25-如何寻找三观相似的女性？](https://www.v2ex.com/t/849179) 
 - [2022-04-25-聊天软件端对端加密疑问](https://www.v2ex.com/t/849178) 
-- [2022-04-25-数字藏品怎么开发](https://www.v2ex.com/t/849176) 
-- [2022-04-25-老婆要给我买保险，求各位指教。](https://www.v2ex.com/t/849175) 
 - [2022-04-25-Antenna/DRA25-2-4GHz-and-5GHZ-dual-band-OMNI-antenna-6dBi-N-connector-outdoor-www.wallystech.com](https://blogread.cn/news/go.php?idItem=15035&url=https%3A%2F%2Fwww.wallystech.com%2FAntenna%2FDRA25-2-4GHz-and-5GHZ-dual-band-OMNI-antenna-6dBi-N-connector-outdoor.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-04-25-JUnit不好用？也许你可以试试这些测试工具-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15034&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fjunit-spock-kotest-tdd-testing-framework%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-04-25-敏捷驱动QA改变-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15033&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fagile-driven-qa%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1972,6 +1972,6 @@
 - [2022-04-25-手绘-11-张图：详解-ZooKeeper-如何实现服务注册发现](https://toutiao.io/k/m0itvpx) 
 - [2022-04-25-作为中台建设者，如何与前台协同呢？](https://toutiao.io/k/2xxwnrv) 
 - [2022-04-25-推荐-微服务网关选型：5种主流-API-网关，哪个最香！](https://toutiao.io/k/jtyo70d) 
-- [2022-04-25-推荐-别再说你不懂规则引擎了！](https://toutiao.io/k/edts5o5) 
 - [2022-04-25-推荐-万字长文，教你用go开发区块链应用](https://toutiao.io/k/3f3i7ey) 
+- [2022-04-25-推荐-别再说你不懂规则引擎了！](https://toutiao.io/k/edts5o5) 
 - [2022-04-25-推荐-技术开发人员如何制定自己的OKR](https://toutiao.io/k/zq8oiet) 

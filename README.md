@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-04-25 17:22:05，:rocket: 更新条数: +2034， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-04-25 17:44:57，:rocket: 更新条数: +2034， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-04-25-来长长见识-为什么要求送货上门的你会被快递员私下骂傻*](https://www.v2ex.com/t/849267) ![](assets/new.png)  
 - [2022-04-25-springboot-记录用户操作日志到数据库最佳实践？](https://www.v2ex.com/t/849266) ![](assets/new.png)  
 - [2022-04-25-迄今为止（2022-年-4-月），-intel-芯片的-Mac-可以被完全取代吗？](https://www.v2ex.com/t/849265) ![](assets/new.png)  
 - [2022-04-25-20220426-午夜俱乐部](https://www.v2ex.com/t/849264) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-04-25-使用通用控制两天遇到的一点问题](https://www.v2ex.com/t/849249) ![](assets/new.png)  
 - [2022-04-25-公司内部知识库如何创建/用什么软件好？](https://www.v2ex.com/t/849248) ![](assets/new.png)  
 - [2022-04-25-请问有-AWS-架构的介绍文档那个么？](https://www.v2ex.com/t/849247) ![](assets/new.png)  
-- [2022-04-25-一个-Chrome-新标签页插件，大家看心情试试](https://www.v2ex.com/t/849246) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -572,7 +572,7 @@
 - [2022-04-25-GithubX:-一个-Github-体验增强插件](https://toutiao.io/k/9tyfzz1) ![](assets/new.png)  
 - [2022-04-25-作为中台建设者，如何与前台协同呢？](https://toutiao.io/k/2xxwnrv) ![](assets/new.png)  
 - [2022-04-25-推荐-技术开发人员如何制定自己的OKR](https://toutiao.io/k/zq8oiet) ![](assets/new.png)  
-- [2022-04-25-推荐-万字长文，教你用go开发区块链应用](https://toutiao.io/k/3f3i7ey) ![](assets/new.png)  
+- [2022-04-25-推荐-9大高性能优化经验总结，强烈建议收藏！！！](https://toutiao.io/k/26za4ep) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

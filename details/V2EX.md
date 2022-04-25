@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2022-04-25 13:49:46。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-04-25 14:13:51。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-04-25-一个-Chrome-新标签页插件，大家看心情试试](https://www.v2ex.com/t/849246) 
 - [2022-04-25-GitHub-Actions-可以用于网页监测吗？](https://www.v2ex.com/t/849245) 
 - [2022-04-25-django-models-自定义方法报错，我这哪里写的有问题？](https://www.v2ex.com/t/849243) 
 - [2022-04-25-Open-Collective-1st-time-contribution](https://www.v2ex.com/t/849242) 

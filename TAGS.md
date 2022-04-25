@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-04-25 16:18:35。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-04-25 16:59:44。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -342,7 +342,6 @@
 
 - [【V2EX】GitHub-Copilot-如何补全一个单词，而不是补全一整段？](https://www.v2ex.com/t/849255)
 - [【V2EX】GitHub-Actions-可以用于网页监测吗？](https://www.v2ex.com/t/849245)
-- [【V2EX】各位亦菲，德华们，请问一下逛-GitHub-的科学方法](https://www.v2ex.com/t/849215)
 - [【开发者头条】GithubX:-一个-Github-体验增强插件](https://toutiao.io/k/9tyfzz1)
 - [......【查看更多】......](./details/tags/git-svn.md)
 

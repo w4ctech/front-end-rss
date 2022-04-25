@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-04-25 13:06:55。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-04-25 13:49:46。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1913,6 +1913,10 @@
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2022-03-21-ascent-override-descent-override-line-gap-override一锅端](https://www.zhangxinxu.com/wordpress/2022/03/css-ascent-override-descent/) 
 - [2022-02-04-HTML-inputmode与iOS-Android软键盘类型测试](https://www.zhangxinxu.com/wordpress/2022/02/html-inputmode-keyboard/) 
+- [2022-04-25-django-models-自定义方法报错，我这哪里写的有问题？](https://www.v2ex.com/t/849243) 
+- [2022-04-25-Open-Collective-1st-time-contribution](https://www.v2ex.com/t/849242) 
+- [2022-04-25-有没有老哥能讲一下前端测试都是测什么？](https://www.v2ex.com/t/849241) 
+- [2022-04-25-内推头部币圈公司-海外/国内](https://www.v2ex.com/t/849240) 
 - [2022-04-25-求助如何查看一个动态库被多少进程所使用](https://www.v2ex.com/t/849236) 
 - [2022-04-25-Google-Voice-新版强制启用后怎么多出个永久保号の骚操作？](https://www.v2ex.com/t/849235) 
 - [2022-04-25-Python-的-word-占位符批量插入图片，新手..不知道代码哪里出问题](https://www.v2ex.com/t/849234) 
@@ -1942,10 +1946,6 @@
 - [2022-04-25-王者荣耀/和平精英-寻队友](https://www.v2ex.com/t/849203) 
 - [2022-04-25-3000-人民币预算有偿求助解决一个求极大值问题](https://www.v2ex.com/t/849201) 
 - [2022-04-25-WLK-私服，如何做成现在-PTR-测试的效果](https://www.v2ex.com/t/849199) 
-- [2022-04-25-现在哪个盒子能刷-Linux-系统，并且容易更换硬盘？](https://www.v2ex.com/t/849195) 
-- [2022-04-25-请教大佬们，局域网硬件选择问题](https://www.v2ex.com/t/849194) 
-- [2022-04-25-做小舅子的贷款共同还款人有没问题](https://www.v2ex.com/t/849192) 
-- [2022-04-25-真心请教关于二手房的选择！](https://www.v2ex.com/t/849190) 
 - [2022-04-25-Antenna/DRA25-2-4GHz-and-5GHZ-dual-band-OMNI-antenna-6dBi-N-connector-outdoor-www.wallystech.com](https://blogread.cn/news/go.php?idItem=15035&url=https%3A%2F%2Fwww.wallystech.com%2FAntenna%2FDRA25-2-4GHz-and-5GHZ-dual-band-OMNI-antenna-6dBi-N-connector-outdoor.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-04-25-JUnit不好用？也许你可以试试这些测试工具-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15034&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fjunit-spock-kotest-tdd-testing-framework%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-04-25-敏捷驱动QA改变-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15033&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fagile-driven-qa%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1971,7 +1971,7 @@
 - [2022-04-25-有赞数据地图实践（PPT可下载）](https://toutiao.io/k/z8ij0pv) 
 - [2022-04-25-手绘-11-张图：详解-ZooKeeper-如何实现服务注册发现](https://toutiao.io/k/m0itvpx) 
 - [2022-04-25-作为中台建设者，如何与前台协同呢？](https://toutiao.io/k/2xxwnrv) 
-- [2022-04-25-推荐-万字长文，教你用go开发区块链应用](https://toutiao.io/k/3f3i7ey) 
-- [2022-04-25-推荐-别再说你不懂规则引擎了！](https://toutiao.io/k/edts5o5) 
-- [2022-04-25-推荐-技术开发人员如何制定自己的OKR](https://toutiao.io/k/zq8oiet) 
 - [2022-04-25-推荐-微服务网关选型：5种主流-API-网关，哪个最香！](https://toutiao.io/k/jtyo70d) 
+- [2022-04-25-推荐-万字长文，教你用go开发区块链应用](https://toutiao.io/k/3f3i7ey) 
+- [2022-04-25-推荐-技术开发人员如何制定自己的OKR](https://toutiao.io/k/zq8oiet) 
+- [2022-04-25-推荐-别再说你不懂规则引擎了！](https://toutiao.io/k/edts5o5) 

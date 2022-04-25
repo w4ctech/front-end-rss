@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-04-25 16:59:44，:rocket: 更新条数: +2034， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-04-25 17:22:05，:rocket: 更新条数: +2034， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -571,8 +571,8 @@
 - [2022-04-25-HBase-读写优化大全](https://toutiao.io/k/c1bt515) ![](assets/new.png)  
 - [2022-04-25-GithubX:-一个-Github-体验增强插件](https://toutiao.io/k/9tyfzz1) ![](assets/new.png)  
 - [2022-04-25-作为中台建设者，如何与前台协同呢？](https://toutiao.io/k/2xxwnrv) ![](assets/new.png)  
+- [2022-04-25-推荐-技术开发人员如何制定自己的OKR](https://toutiao.io/k/zq8oiet) ![](assets/new.png)  
 - [2022-04-25-推荐-万字长文，教你用go开发区块链应用](https://toutiao.io/k/3f3i7ey) ![](assets/new.png)  
-- [2022-04-25-推荐-微服务网关选型：5种主流-API-网关，哪个最香！](https://toutiao.io/k/jtyo70d) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-04-25 14:39:31。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-04-25 15:16:50。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1947,8 +1947,6 @@
 - [2022-04-25-老生常谈的-paypal-提现问题。](https://www.v2ex.com/t/849207) 
 - [2022-04-25-jetbrains-看代码问题咨询](https://www.v2ex.com/t/849206) 
 - [2022-04-25-从倒闭的竞品公司招的几个前端架构师，入职没两个月都离职了](https://www.v2ex.com/t/849205) 
-- [2022-04-25-一个方法里的并行多个-rpc-调用-怎么做隔离？](https://www.v2ex.com/t/849204) 
-- [2022-04-25-王者荣耀/和平精英-寻队友](https://www.v2ex.com/t/849203) 
 - [2022-04-25-Antenna/DRA25-2-4GHz-and-5GHZ-dual-band-OMNI-antenna-6dBi-N-connector-outdoor-www.wallystech.com](https://blogread.cn/news/go.php?idItem=15035&url=https%3A%2F%2Fwww.wallystech.com%2FAntenna%2FDRA25-2-4GHz-and-5GHZ-dual-band-OMNI-antenna-6dBi-N-connector-outdoor.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-04-25-JUnit不好用？也许你可以试试这些测试工具-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15034&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fjunit-spock-kotest-tdd-testing-framework%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-04-25-敏捷驱动QA改变-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15033&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fagile-driven-qa%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2022-04-25 14:39:31。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-04-25 15:16:50。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-04-25-广州硅谷大厂-Salesforce-高级软件开发/产品经理招聘](https://www.v2ex.com/t/849254) 
+- [2022-04-25-浏览器跨域请求，为什么简单请求直接就发送了，非简单请求还要先发一个-options-方法的预检请求？](https://www.v2ex.com/t/849252) 
 - [2022-04-25-Mac-下有什么使用-containerd-运行时的方案？](https://www.v2ex.com/t/849251) 
 - [2022-04-25-今天封楼被困公司，研究了一下-ProcessPoolExecutor，发现了一个-Python-的-Bug，分享给各位，网上似乎没解决方案](https://www.v2ex.com/t/849250) 
 - [2022-04-25-使用通用控制两天遇到的一点问题](https://www.v2ex.com/t/849249) 
@@ -48,5 +50,3 @@
 - [2022-04-25-老生常谈的-paypal-提现问题。](https://www.v2ex.com/t/849207) 
 - [2022-04-25-jetbrains-看代码问题咨询](https://www.v2ex.com/t/849206) 
 - [2022-04-25-从倒闭的竞品公司招的几个前端架构师，入职没两个月都离职了](https://www.v2ex.com/t/849205) 
-- [2022-04-25-一个方法里的并行多个-rpc-调用-怎么做隔离？](https://www.v2ex.com/t/849204) 
-- [2022-04-25-王者荣耀/和平精英-寻队友](https://www.v2ex.com/t/849203) 

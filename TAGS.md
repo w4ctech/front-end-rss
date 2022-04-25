@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-04-25 14:39:31。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-04-25 15:16:50。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -281,6 +281,7 @@
 - [【武汉肺炎防疫全纪录(财新网)】腺病毒新冠疫苗引安全忧虑-康希诺称未发现血栓病例](https://m.caixin.com/m/2021-04-14/101691086.html)
 - [【武汉肺炎防疫全纪录(财新网)】解药|新冠mRNA疫苗安全性有哪些挑战？](https://m.caixin.com/m/2021-01-08/101648043.html)
 - [【武汉肺炎防疫全纪录(财新网)】大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html)
+- [【V2EX】浏览器跨域请求，为什么简单请求直接就发送了，非简单请求还要先发一个-options-方法的预检请求？](https://www.v2ex.com/t/849252)
 - [【V2EX】一个-Chrome-新标签页插件，大家看心情试试](https://www.v2ex.com/t/849246)
 - [【V2EX】杭州-蚂蚁集团求安全大佬](https://www.v2ex.com/t/849237)
 - [【V2EX】新作:codegetting,代码块，小脚本储存搜索](https://www.v2ex.com/t/849212)
@@ -356,6 +357,7 @@
 
 
 
+- [【V2EX】广州硅谷大厂-Salesforce-高级软件开发/产品经理招聘](https://www.v2ex.com/t/849254)
 - [【开发者头条】几道高频的JVM面试题](https://toutiao.io/k/zgzh3st)
 - [【开发者头条】推荐-2022-最新Java基础常见知识&面试题总结上!](https://toutiao.io/k/wm0jjmm)
 - [......【查看更多】......](./details/tags/job-interview.md)

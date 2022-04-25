@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-04-25 14:39:31，:rocket: 更新条数: +2035， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-04-25 15:16:50，:rocket: 更新条数: +2035， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-04-25-广州硅谷大厂-Salesforce-高级软件开发/产品经理招聘](https://www.v2ex.com/t/849254) ![](assets/new.png)  
+- [2022-04-25-浏览器跨域请求，为什么简单请求直接就发送了，非简单请求还要先发一个-options-方法的预检请求？](https://www.v2ex.com/t/849252) ![](assets/new.png)  
 - [2022-04-25-Mac-下有什么使用-containerd-运行时的方案？](https://www.v2ex.com/t/849251) ![](assets/new.png)  
 - [2022-04-25-今天封楼被困公司，研究了一下-ProcessPoolExecutor，发现了一个-Python-的-Bug，分享给各位，网上似乎没解决方案](https://www.v2ex.com/t/849250) ![](assets/new.png)  
 - [2022-04-25-使用通用控制两天遇到的一点问题](https://www.v2ex.com/t/849249) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-04-25-Python-的-word-占位符批量插入图片，新手..不知道代码哪里出问题](https://www.v2ex.com/t/849234) ![](assets/new.png)  
 - [2022-04-25-用肥皂水洗-iPhone13ProMax-发现前摄像头进肥皂泡沫,充电的时候屏幕一直变暗,然后屏幕完全不亮但还是有闹钟声音和通知的闪光灯,之前一直水洗都没事,在美国买了带...](https://www.v2ex.com/t/849233) ![](assets/new.png)  
 - [2022-04-25-请问本地使用编辑器/IDE-Remote-云服务器开发可行吗？](https://www.v2ex.com/t/849232) ![](assets/new.png)  
-- [2022-04-25-Deskmini-B660-Intel-12-代可以买到了貌似](https://www.v2ex.com/t/849231) ![](assets/new.png)  
-- [2022-04-25-请教"云服务器作开发环境，本地通过编辑器/IDE-Remote-开发"的可行性](https://www.v2ex.com/t/849230) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -560,8 +560,8 @@
 - [2022-04-25-几道高频的JVM面试题](https://toutiao.io/k/zgzh3st) ![](assets/new.png)  
 - [2022-04-25-源码元宇宙-lambda表达式底层执行解析](https://toutiao.io/k/g0qmnj0) ![](assets/new.png)  
 - [2022-04-25-9张图轻松吃透Go内存管理单元](https://toutiao.io/k/x03gc99) ![](assets/new.png)  
-- [2022-04-25-如何深度理解排序算法（一）](https://toutiao.io/k/h1i4jot) ![](assets/new.png)  
 - [2022-04-25-Dapr-能否取代-Spring-Cloud？](https://toutiao.io/k/3vn7mpg) ![](assets/new.png)  
+- [2022-04-25-如何深度理解排序算法（一）](https://toutiao.io/k/h1i4jot) ![](assets/new.png)  
 - [2022-04-25-带大家写个的热血足球小游戏，从此赢麻世界杯！！！](https://toutiao.io/k/75w5cea) ![](assets/new.png)  
 - [2022-04-25-Presto-原生多-Coordinator-功能简介，可以在生产环境使用](https://toutiao.io/k/hhf01w7) ![](assets/new.png)  
 - [2022-04-25-Elasticsearch-基础入门详文](https://toutiao.io/k/wsccb9s) ![](assets/new.png)  
@@ -571,8 +571,8 @@
 - [2022-04-25-HBase-读写优化大全](https://toutiao.io/k/c1bt515) ![](assets/new.png)  
 - [2022-04-25-GithubX:-一个-Github-体验增强插件](https://toutiao.io/k/9tyfzz1) ![](assets/new.png)  
 - [2022-04-25-作为中台建设者，如何与前台协同呢？](https://toutiao.io/k/2xxwnrv) ![](assets/new.png)  
-- [2022-04-25-推荐-9大高性能优化经验总结，强烈建议收藏！！！](https://toutiao.io/k/26za4ep) ![](assets/new.png)  
 - [2022-04-25-推荐-别再说你不懂规则引擎了！](https://toutiao.io/k/edts5o5) ![](assets/new.png)  
+- [2022-04-25-推荐-万字长文，教你用go开发区块链应用](https://toutiao.io/k/3f3i7ey) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

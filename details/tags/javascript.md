@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-04-25 14:13:51。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-04-25 14:39:31。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -17,6 +17,5 @@
 - [2022-03-15-基于howler.js写了个音频播放器组件](https://www.zhangxinxu.com/wordpress/2022/03/howler-js-audio-player/) 
 - [2022-03-07-介绍8个和滚动相关的CSS属性](https://www.zhangxinxu.com/wordpress/2022/03/10-css-scroll-scrollbar/) 
 - [2022-04-25-原来在-Safari-下-JS-函数名不能为-submit-=-=!](https://www.v2ex.com/t/849214) 
-- [2022-04-25-jscript.net-是一门死亡语言吗？迫于任务必须要用，但基本函数都找不到](https://www.v2ex.com/t/849200) 
 - [2022-04-25-DR900VX-Qualcomm-Atheros-QCA9880-3T3R-MIMO-802.11ac-Mini-PCIe-Wi-Fi-Module-Dual-Band-2-4GHz-5GHz.-www.wallystech.com](https://blogread.cn/news/go.php?idItem=15038&url=https%3A%2F%2Fwww.wallystech.com%2FNetwork_Card%2FDR900VX-Qualcomm-Atheros-QCA9880-3T3R-MIMO-802.11ac-Mini-PCIe-Wi-Fi-Module-Dual-Band-2-4GHz-5GHz.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-04-25-Network_Card/DR-NAS26-Qualcomm-Atheros-AR9582-2T-2R-MIMO-802.11-N-5GHz-high-power-Mini-PCIe-Wi-Fi-Module-www.wallystech.com](https://blogread.cn/news/go.php?idItem=15037&url=https%3A%2F%2Fwww.wallystech.com%2FNetwork_Card%2FDR-NAS26-Qualcomm-Atheros-AR9582-2T-2R-MIMO-802.11-N-5GHz-high-power-Mini-PCIe-Wi-Fi-Module.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

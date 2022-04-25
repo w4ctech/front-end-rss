@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-04-25 10:44:30。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-04-25 11:12:47。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -359,6 +359,7 @@
 
 
 - [【开发者头条】几道高频的JVM面试题](https://toutiao.io/k/zgzh3st)
+- [【开发者头条】推荐-2022-最新Java基础常见知识&面试题总结上!](https://toutiao.io/k/wm0jjmm)
 - [......【查看更多】......](./details/tags/job-interview.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

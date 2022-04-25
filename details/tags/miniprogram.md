@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-04-25 08:18:37。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-04-25 08:46:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 小程序
 
@@ -7,5 +7,6 @@
 
 
 
+- [2022-04-25-搞了个小程序-去超市囤物资的不知道买啥可以看看](https://www.v2ex.com/t/849189) 
 - [2022-04-25-关于现在的微信小程序-URL-问题？](https://www.v2ex.com/t/849177) 
 - [2022-04-25-Windows-微信小程序-charles-无法抓包](https://www.v2ex.com/t/849170) 

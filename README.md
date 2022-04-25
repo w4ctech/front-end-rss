@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-04-25 06:49:23，:rocket: 更新条数: +2031， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-04-25 07:14:43，:rocket: 更新条数: +2031， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,13 @@
 </summary>
 
 
+- [2022-04-25-电视屏幕有缺陷是不是就没必要选大法了](https://www.v2ex.com/t/849166) ![](assets/new.png)  
+- [2022-04-25-Xmake:-现在可以支持远程编译了，有玩-C/C++-的同学可以试试](https://www.v2ex.com/t/849165) ![](assets/new.png)  
+- [2022-04-25-执行`rm--rf-/`后，立马`ctrl+C`终止，已连接的-SSH-未断开，断开后-SSH-无法连接](https://www.v2ex.com/t/849164) ![](assets/new.png)  
+- [2022-04-25-求个正则？-pathname/{id}/sub_pathname](https://www.v2ex.com/t/849163) ![](assets/new.png)  
+- [2022-04-25-「墨刀夏招」「郑州」高级前端及-Golang-岗，校招前端开放，「一线薪资，二线生活」「25-50k」](https://www.v2ex.com/t/849162) ![](assets/new.png)  
+- [2022-04-25-iPhone-11-切换手机地区后，-wifi-速度翻倍](https://www.v2ex.com/t/849161) ![](assets/new.png)  
+- [2022-04-25-windows-远程桌面里听歌，在网络不太好的时候，会出现噪音和声音品质变低](https://www.v2ex.com/t/849160) ![](assets/new.png)  
 - [2022-04-25-怀疑-Tim-会导致-Win11-的任务管理器一直重启](https://www.v2ex.com/t/849158) ![](assets/new.png)  
 - [2022-04-25-深圳周边有哪些值得自驾游的小岛](https://www.v2ex.com/t/849157) ![](assets/new.png)  
 - [2022-04-25-写了个多网卡聚合的小小工具](https://www.v2ex.com/t/849156) ![](assets/new.png)  
@@ -504,13 +511,6 @@
 - [2022-04-25-发现国外域名注册商喜欢取一些很土的名字](https://www.v2ex.com/t/849147) ![](assets/new.png)  
 - [2022-04-25-运行了-3-年的阿里云-ECS-突然宕机](https://www.v2ex.com/t/849146) ![](assets/new.png)  
 - [2022-04-25-无限弹重新登录-Apple-ID，-Touch-ID-解锁失效求助](https://www.v2ex.com/t/849143) ![](assets/new.png)  
-- [2022-04-25-希望大家用自己的生活体验作为判断标准，而不是网络上各种各样的意见——观丁克生活有感](https://www.v2ex.com/t/849142) ![](assets/new.png)  
-- [2022-04-25-极致的善良就是恶!](https://www.v2ex.com/t/849141) ![](assets/new.png)  
-- [2022-04-25-给工信部写信了，要求开放苹果的-facetime-audio-和-CallKit-功能。](https://www.v2ex.com/t/849140) ![](assets/new.png)  
-- [2022-04-25-有没有-Vivo-开发组的大佬-有问题求教](https://www.v2ex.com/t/849138) ![](assets/new.png)  
-- [2022-04-25-请问-27'-4K-vs-32'-4K，接-mac，显示内容能差多少呢？](https://www.v2ex.com/t/849137) ![](assets/new.png)  
-- [2022-04-25-Win-平台下有记录每个程序资源占用的历史折线图的软件吗](https://www.v2ex.com/t/849136) ![](assets/new.png)  
-- [2022-04-25-npmvs:用来比较-npm-包下载量,All-in-云函数开发,希望大家给点建议](https://www.v2ex.com/t/849135) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -564,14 +564,14 @@
 - [2022-04-25-《2021-年-Go-官方开发者调查报告》](https://toutiao.io/k/4n7rqgg) ![](assets/new.png)  
 - [2022-04-25-有赞数据地图实践（PPT可下载）](https://toutiao.io/k/z8ij0pv) ![](assets/new.png)  
 - [2022-04-25-手绘-11-张图：详解-ZooKeeper-如何实现服务注册发现](https://toutiao.io/k/m0itvpx) ![](assets/new.png)  
-- [2022-04-25-Presto-原生多-Coordinator-功能简介，可以在生产环境使用](https://toutiao.io/k/hhf01w7) ![](assets/new.png)  
 - [2022-04-25-源码元宇宙-lambda表达式底层执行解析](https://toutiao.io/k/g0qmnj0) ![](assets/new.png)  
+- [2022-04-25-Presto-原生多-Coordinator-功能简介，可以在生产环境使用](https://toutiao.io/k/hhf01w7) ![](assets/new.png)  
 - [2022-04-25-9张图轻松吃透Go内存管理单元](https://toutiao.io/k/x03gc99) ![](assets/new.png)  
 - [2022-04-25-带大家写个的热血足球小游戏，从此赢麻世界杯！！！](https://toutiao.io/k/75w5cea) ![](assets/new.png)  
 - [2022-04-25-HBase-读写优化大全](https://toutiao.io/k/c1bt515) ![](assets/new.png)  
 - [2022-04-25-作为中台建设者，如何与前台协同呢？](https://toutiao.io/k/2xxwnrv) ![](assets/new.png)  
 - [2022-04-25-GithubX:-一个-Github-体验增强插件](https://toutiao.io/k/9tyfzz1) ![](assets/new.png)  
-- [2022-04-25-推荐-万字长文，教你用go开发区块链应用](https://toutiao.io/k/3f3i7ey) ![](assets/new.png)  
+- [2022-04-25-推荐-技术开发人员如何制定自己的OKR](https://toutiao.io/k/zq8oiet) ![](assets/new.png)  
 - [2022-04-25-推荐-别再说你不懂规则引擎了！](https://toutiao.io/k/edts5o5) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-04-26 05:18:19，:rocket: 更新条数: +2026， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-04-26 05:41:04，:rocket: 更新条数: +1982， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)![](assets/dot.png)   
 - [开发者头条](#开发者头条)![](assets/dot.png)   
 - [安全热点](#安全热点)  
@@ -491,26 +491,6 @@
 </summary>
 
 
-- [2022-04-26-idea-日志打印有-Grep-console-配置或者其他插件推荐吗](https://www.v2ex.com/t/849341) ![](assets/new.png)  
-- [2022-04-26-中通快递是嗝屁了么？](https://www.v2ex.com/t/849340) ![](assets/new.png)  
-- [2022-04-26-Netmaker：自托管的-Tailscale，用于内网穿透和异地组网的优秀工具](https://www.v2ex.com/t/849338) ![](assets/new.png)  
-- [2022-04-26-内推-北深广成「字节跳动---智创」招前端/服务端/多媒体/客户端开发含实习,](https://www.v2ex.com/t/849337) ![](assets/new.png)  
-- [2022-04-26-Outlook-邮箱不推送](https://www.v2ex.com/t/849336) ![](assets/new.png)  
-- [2022-04-26-可以不关闭服务替换证书吗？-谢谢](https://www.v2ex.com/t/849335) ![](assets/new.png)  
-- [2022-04-26-国内互联网企业为什么这么反人类？](https://www.v2ex.com/t/849334) ![](assets/new.png)  
-- [2022-04-26-telegram-被封号了，有办法恢复么？](https://www.v2ex.com/t/849332) ![](assets/new.png)  
-- [2022-04-26-求助-Java-大量任务分布式处理的问题](https://www.v2ex.com/t/849331) ![](assets/new.png)  
-- [2022-04-26-绕过-X-Frame-Options-的-Chrome-扩展](https://www.v2ex.com/t/849330) ![](assets/new.png)  
-- [2022-04-26-区块链/交易所-出身的程序员好跳槽吗？](https://www.v2ex.com/t/849329) ![](assets/new.png)  
-- [2022-04-26-能通过-Surge-来组网吗？](https://www.v2ex.com/t/849328) ![](assets/new.png)  
-- [2022-04-26-上网行为管理软件能看到微信聊天记录吗？](https://www.v2ex.com/t/849327) ![](assets/new.png)  
-- [2022-04-26-如何断点调试被-.exe-程序调用的-C#-类库？](https://www.v2ex.com/t/849326) ![](assets/new.png)  
-- [2022-04-26-爱奇艺看-up-主用户中心-动态里有不少视频-但切换到视频标签却是空空如也？](https://www.v2ex.com/t/849325) ![](assets/new.png)  
-- [2022-04-26-zerossl-支持免费生成-IP-证书了。填写-IP，-http-验证就行。](https://www.v2ex.com/t/849324) ![](assets/new.png)  
-- [2022-04-26-转租-西丽龙井-一房一卫一厨-龙井站-2900-元-个人转租](https://www.v2ex.com/t/849323) ![](assets/new.png)  
-- [2022-04-26-请问「前端工程化」「前端性能优化」「封装通用组件」这三个用地道的英语怎么翻译？](https://www.v2ex.com/t/849322) ![](assets/new.png)  
-- [2022-04-26-antd-对-TypeScript-的支持怎么样？](https://www.v2ex.com/t/849320) ![](assets/new.png)  
-- [2022-04-26-搭建邮件群发的方案疑问](https://www.v2ex.com/t/849319) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -522,6 +502,7 @@
 </summary>
 
 
+- [2022-04-26-DR-M001-WiFi-5-indoor-Access-point-IPQ-4019-4029-DUAL-BAND-802.11AC-WAVE2-MU-MIMO-www.wallystech.com](https://blogread.cn/news/go.php?idItem=15039&url=https%3A%2F%2Fwww.wallystech.com%2FIndustrial_Wireless_AP%2FDR-M001-WiFi-5-indoor-Access-point-IPQ-4019-4029-DUAL-BAND-802.11AC-WAVE2-MU-MIMO.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-04-26-DR900VX-Qualcomm-Atheros-QCA9880-3T3R-MIMO-802.11ac-Mini-PCIe-Wi-Fi-Module-Dual-Band-2-4GHz-5GHz.-www.wallystech.com](https://blogread.cn/news/go.php?idItem=15038&url=https%3A%2F%2Fwww.wallystech.com%2FNetwork_Card%2FDR900VX-Qualcomm-Atheros-QCA9880-3T3R-MIMO-802.11ac-Mini-PCIe-Wi-Fi-Module-Dual-Band-2-4GHz-5GHz.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-04-26-Network_Card/DR-NAS26-Qualcomm-Atheros-AR9582-2T-2R-MIMO-802.11-N-5GHz-high-power-Mini-PCIe-Wi-Fi-Module-www.wallystech.com](https://blogread.cn/news/go.php?idItem=15037&url=https%3A%2F%2Fwww.wallystech.com%2FNetwork_Card%2FDR-NAS26-Qualcomm-Atheros-AR9582-2T-2R-MIMO-802.11-N-5GHz-high-power-Mini-PCIe-Wi-Fi-Module.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-04-26-Antenna/DR24-RUBBER-ANTENNA-2.4G-SMA-SATA-COMINATION-3DBI-6DBI-www.wallystech.com](https://blogread.cn/news/go.php?idItem=15036&url=https%3A%2F%2Fwww.wallystech.com%2FAntenna%2FDR24-RUBBER-ANTENNA-2.4G-SMA-SATA-COMINATION-3DBI-6DBI.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
@@ -541,7 +522,6 @@
 - [2022-04-26-再见收费的XShell，我改用国产工具！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15022&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493911%26amp%3Bidx%3D1%26amp%3Bsn%3Dd4a4316f963f6e5365dbc1e5a00c43f1%26amp%3Bchksm%3Dfa3f084ccd48815a60a0096cb86119057a0f98eb449a6b3089f5178ae3c968ee28cd5ff4baed%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-04-26-微服务架构及其最重要的10个设计模式！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15021&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493911%26amp%3Bidx%3D2%26amp%3Bsn%3Ddd025447dbf75ee9b4be4c7229c32d2d%26amp%3Bchksm%3Dfa3f084ccd48815a7bbad7042c6d011994b08426d23ec8dcbf1c34599b8d4dcfad10d4c87e60%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-04-26-IPQ6018-802.11ax-2x2-2.4GHz&5GHz-802.11ax-2x2-2.4G&5G-1xM.2-E-key-Sample-price:200USD/pcs-www.wallystech.com](https://blogread.cn/news/go.php?idItem=15020&url=https%3A%2F%2Fwww.wallystech.com%2FRouterboard%2FDR6018-CP01-wifi6-Qualcomm-IPQ6010-IPQ6018-FAMILY-2T2R-2.5G-ETH-port-CP01-802-11AX-MU-MIMO-OFDMA.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-04-26-Routerboard/DR4018L-R-Qualcomm-IPQ4018-2T2R-Dual-Band-2-4GHz-5GHz-support-OpenWRT-802.11ac-Wave-2-www.wallystech.com](https://blogread.cn/news/go.php?idItem=15019&url=https%3A%2F%2Fwww.wallystech.com%2FRouterboard%2FDR4018L-R-Qualcomm-IPQ4018-2T2R-Dual-Band-2-4GHz-5GHz-support-OpenWRT-802.11ac-Wave-2.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -565,9 +545,9 @@
 - [2022-04-26-如何实现根据照片获取地理位置及如何防御照片泄漏地理位置！](https://toutiao.io/k/d191x2g) ![](assets/new.png)  
 - [2022-04-26-当软件设计遇上角色扮演](https://toutiao.io/k/vyd0w1d) ![](assets/new.png)  
 - [2022-04-26-推荐-万字长文，教你用go开发区块链应用](https://toutiao.io/k/3f3i7ey) ![](assets/new.png)  
+- [2022-04-26-推荐-9大高性能优化经验总结，强烈建议收藏！！！](https://toutiao.io/k/26za4ep) ![](assets/new.png)  
 - [2022-04-26-推荐-别再说你不懂规则引擎了！](https://toutiao.io/k/edts5o5) ![](assets/new.png)  
 - [2022-04-26-推荐-技术开发人员如何制定自己的OKR](https://toutiao.io/k/zq8oiet) ![](assets/new.png)  
-- [2022-04-26-推荐-9大高性能优化经验总结，强烈建议收藏！！！](https://toutiao.io/k/26za4ep) ![](assets/new.png)  
 - [2022-04-26-推荐-微服务网关选型：5种主流-API-网关，哪个最香！](https://toutiao.io/k/jtyo70d) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-04-26 18:16:57。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-04-26 18:49:27。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
@@ -48,4 +48,3 @@
 - [2022-04-26-iPhone-可以给-magsafe-电池反向充电，却不能给-airpods-充电？？](https://www.v2ex.com/t/849418) 
 - [2022-04-26-Linux-字体为什么有时候看着这么别扭](https://www.v2ex.com/t/849417) 
 - [2022-04-26-提问：-Google-Play-哪个区好一点啊？](https://www.v2ex.com/t/849416) 
-- [2022-04-26-我是老了么……](https://www.v2ex.com/t/849415) 

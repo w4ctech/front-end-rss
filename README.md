@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-04-26 05:41:04，:rocket: 更新条数: +1982， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-04-26 06:17:30，:rocket: 更新条数: +2033， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)  
+- [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)![](assets/dot.png)   
 - [开发者头条](#开发者头条)![](assets/dot.png)   
 - [安全热点](#安全热点)  
@@ -491,6 +491,26 @@
 </summary>
 
 
+- [2022-04-26-字节今年能上市吗？](https://www.v2ex.com/t/849348) ![](assets/new.png)  
+- [2022-04-26-Heroku-是崩了吗？](https://www.v2ex.com/t/849347) ![](assets/new.png)  
+- [2022-04-26-能否通过-4G-路由器摸鱼？](https://www.v2ex.com/t/849346) ![](assets/new.png)  
+- [2022-04-26-Microsoft-Edge-for-Mac-的更新不再依赖于-MAU](https://www.v2ex.com/t/849345) ![](assets/new.png)  
+- [2022-04-26-远程实习前端](https://www.v2ex.com/t/849343) ![](assets/new.png)  
+- [2022-04-26-出租屋内怎么布置一个高性价比的办公环境？](https://www.v2ex.com/t/849342) ![](assets/new.png)  
+- [2022-04-26-idea-日志打印有-Grep-console-配置或者其他插件推荐吗](https://www.v2ex.com/t/849341) ![](assets/new.png)  
+- [2022-04-26-中通快递是嗝屁了么？](https://www.v2ex.com/t/849340) ![](assets/new.png)  
+- [2022-04-26-Netmaker：自托管的-Tailscale，用于内网穿透和异地组网的优秀工具](https://www.v2ex.com/t/849338) ![](assets/new.png)  
+- [2022-04-26-内推-北深广成「字节跳动---智创」招前端/服务端/多媒体/客户端开发含实习,](https://www.v2ex.com/t/849337) ![](assets/new.png)  
+- [2022-04-26-Outlook-邮箱不推送](https://www.v2ex.com/t/849336) ![](assets/new.png)  
+- [2022-04-26-可以不关闭服务替换证书吗？-谢谢](https://www.v2ex.com/t/849335) ![](assets/new.png)  
+- [2022-04-26-国内互联网企业为什么这么反人类？](https://www.v2ex.com/t/849334) ![](assets/new.png)  
+- [2022-04-26-telegram-被封号了，有办法恢复么？](https://www.v2ex.com/t/849332) ![](assets/new.png)  
+- [2022-04-26-求助-Java-大量任务分布式处理的问题](https://www.v2ex.com/t/849331) ![](assets/new.png)  
+- [2022-04-26-绕过-X-Frame-Options-的-Chrome-扩展](https://www.v2ex.com/t/849330) ![](assets/new.png)  
+- [2022-04-26-区块链/交易所-出身的程序员好跳槽吗？](https://www.v2ex.com/t/849329) ![](assets/new.png)  
+- [2022-04-26-能通过-Surge-来组网吗？](https://www.v2ex.com/t/849328) ![](assets/new.png)  
+- [2022-04-26-上网行为管理软件能看到微信聊天记录吗？](https://www.v2ex.com/t/849327) ![](assets/new.png)  
+- [2022-04-26-如何断点调试被-.exe-程序调用的-C#-类库？](https://www.v2ex.com/t/849326) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -502,6 +522,7 @@
 </summary>
 
 
+- [2022-04-26-DRAP531-Indoor-wireless-AP-Qualcomm-QCA9531-support-MU-MIMO-2T2R-2.4G-high-power-30dbm-2-GETH-port.-www.wallystech.com](https://blogread.cn/news/go.php?idItem=15040&url=https%3A%2F%2Fwww.wallystech.com%2FIndustrial_Wireless_AP%2FDRAP531-Indoor-wireless-AP-Qualcomm-QCA9531-support-MU-MIMO-2T2R-2.4G-high-power-30dbm-2-GETH-port.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-04-26-DR-M001-WiFi-5-indoor-Access-point-IPQ-4019-4029-DUAL-BAND-802.11AC-WAVE2-MU-MIMO-www.wallystech.com](https://blogread.cn/news/go.php?idItem=15039&url=https%3A%2F%2Fwww.wallystech.com%2FIndustrial_Wireless_AP%2FDR-M001-WiFi-5-indoor-Access-point-IPQ-4019-4029-DUAL-BAND-802.11AC-WAVE2-MU-MIMO.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-04-26-DR900VX-Qualcomm-Atheros-QCA9880-3T3R-MIMO-802.11ac-Mini-PCIe-Wi-Fi-Module-Dual-Band-2-4GHz-5GHz.-www.wallystech.com](https://blogread.cn/news/go.php?idItem=15038&url=https%3A%2F%2Fwww.wallystech.com%2FNetwork_Card%2FDR900VX-Qualcomm-Atheros-QCA9880-3T3R-MIMO-802.11ac-Mini-PCIe-Wi-Fi-Module-Dual-Band-2-4GHz-5GHz.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-04-26-Network_Card/DR-NAS26-Qualcomm-Atheros-AR9582-2T-2R-MIMO-802.11-N-5GHz-high-power-Mini-PCIe-Wi-Fi-Module-www.wallystech.com](https://blogread.cn/news/go.php?idItem=15037&url=https%3A%2F%2Fwww.wallystech.com%2FNetwork_Card%2FDR-NAS26-Qualcomm-Atheros-AR9582-2T-2R-MIMO-802.11-N-5GHz-high-power-Mini-PCIe-Wi-Fi-Module.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
@@ -521,7 +542,6 @@
 - [2022-04-26-这可能是史上功能最全的Java权限认证框架！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15023&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493912%26amp%3Bidx%3D2%26amp%3Bsn%3D236e4980e88e8575bf7d03abd6951feb%26amp%3Bchksm%3Dfa3f0843cd488155339c25fa4e234faee145d56f7c3bb61a2bfaaf96b3f4f6e871dfe995f47a%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-04-26-再见收费的XShell，我改用国产工具！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15022&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493911%26amp%3Bidx%3D1%26amp%3Bsn%3Dd4a4316f963f6e5365dbc1e5a00c43f1%26amp%3Bchksm%3Dfa3f084ccd48815a60a0096cb86119057a0f98eb449a6b3089f5178ae3c968ee28cd5ff4baed%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-04-26-微服务架构及其最重要的10个设计模式！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15021&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493911%26amp%3Bidx%3D2%26amp%3Bsn%3Ddd025447dbf75ee9b4be4c7229c32d2d%26amp%3Bchksm%3Dfa3f084ccd48815a7bbad7042c6d011994b08426d23ec8dcbf1c34599b8d4dcfad10d4c87e60%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-04-26-IPQ6018-802.11ax-2x2-2.4GHz&5GHz-802.11ax-2x2-2.4G&5G-1xM.2-E-key-Sample-price:200USD/pcs-www.wallystech.com](https://blogread.cn/news/go.php?idItem=15020&url=https%3A%2F%2Fwww.wallystech.com%2FRouterboard%2FDR6018-CP01-wifi6-Qualcomm-IPQ6010-IPQ6018-FAMILY-2T2R-2.5G-ETH-port-CP01-802-11AX-MU-MIMO-OFDMA.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -540,14 +560,18 @@
 - [2022-04-26-干货-|-Elasticsearch-数据建模指南](https://toutiao.io/k/n0gqyj1) ![](assets/new.png)  
 - [2022-04-26-Golang开发gRPC应用服务](https://toutiao.io/k/5emed8u) ![](assets/new.png)  
 - [2022-04-26-StarRocks-技术内幕：查询原理浅析](https://toutiao.io/k/4lqd3y6) ![](assets/new.png)  
-- [2022-04-26-RGB颜色模式-·-FFmpeg原理](https://toutiao.io/k/4pfc9cb) ![](assets/new.png)  
 - [2022-04-26-一文聊透-IP-地址的那些事](https://toutiao.io/k/5h6cyno) ![](assets/new.png)  
+- [2022-04-26-RGB颜色模式-·-FFmpeg原理](https://toutiao.io/k/4pfc9cb) ![](assets/new.png)  
 - [2022-04-26-如何实现根据照片获取地理位置及如何防御照片泄漏地理位置！](https://toutiao.io/k/d191x2g) ![](assets/new.png)  
 - [2022-04-26-当软件设计遇上角色扮演](https://toutiao.io/k/vyd0w1d) ![](assets/new.png)  
-- [2022-04-26-推荐-万字长文，教你用go开发区块链应用](https://toutiao.io/k/3f3i7ey) ![](assets/new.png)  
-- [2022-04-26-推荐-9大高性能优化经验总结，强烈建议收藏！！！](https://toutiao.io/k/26za4ep) ![](assets/new.png)  
-- [2022-04-26-推荐-别再说你不懂规则引擎了！](https://toutiao.io/k/edts5o5) ![](assets/new.png)  
-- [2022-04-26-推荐-技术开发人员如何制定自己的OKR](https://toutiao.io/k/zq8oiet) ![](assets/new.png)  
+- [2022-04-26-springboot扮酷小技巧](https://toutiao.io/k/zfsbchz) ![](assets/new.png)  
+- [2022-04-26-【万字长文】重排ReRank，广告推荐算法链路上的背叛者，生态系统格局的重塑者](https://toutiao.io/k/bq11dp6) ![](assets/new.png)  
+- [2022-04-26-spring事务失效的几种场景以及原因](https://toutiao.io/k/vni6de5) ![](assets/new.png)  
+- [2022-04-26-多线程-|-FutureTask-执行流程](https://toutiao.io/k/00gq0cd) ![](assets/new.png)  
+- [2022-04-26-ETDM：基于显式时间差分建模的视频超分辨率（CVPR-2022）](https://toutiao.io/k/qsn3f29) ![](assets/new.png)  
+- [2022-04-26-主流消息队列有哪些？](https://toutiao.io/k/e2t53fm) ![](assets/new.png)  
+- [2022-04-26-Go语言从0到1实现最简单的数据库！](https://toutiao.io/k/ou8zt5x) ![](assets/new.png)  
+- [2022-04-26-工业级精准测试在蚂蚁的落地实践](https://toutiao.io/k/en8wgzs) ![](assets/new.png)  
 - [2022-04-26-推荐-微服务网关选型：5种主流-API-网关，哪个最香！](https://toutiao.io/k/jtyo70d) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

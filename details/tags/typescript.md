@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-04-26 05:41:04。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-04-26 06:17:30。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## TypeScript
 
@@ -6,3 +6,5 @@
 > 关键字：`TypeScript`
 
 
+
+- [2022-04-26-antd-对-TypeScript-的支持怎么样？](https://www.v2ex.com/t/849320) 

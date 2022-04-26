@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-04-26 22:14:29，:rocket: 更新条数: +2034， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-04-26 22:41:18，:rocket: 更新条数: +2034， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -566,8 +566,8 @@
 - [2022-04-26-RGB颜色模式-·-FFmpeg原理](https://toutiao.io/k/4pfc9cb) ![](assets/new.png)  
 - [2022-04-26-【万字长文】重排ReRank，广告推荐算法链路上的背叛者，生态系统格局的重塑者](https://toutiao.io/k/bq11dp6) ![](assets/new.png)  
 - [2022-04-26-Go语言从0到1实现最简单的数据库！](https://toutiao.io/k/ou8zt5x) ![](assets/new.png)  
-- [2022-04-26-工业级精准测试在蚂蚁的落地实践](https://toutiao.io/k/en8wgzs) ![](assets/new.png)  
 - [2022-04-26-主流消息队列有哪些？](https://toutiao.io/k/e2t53fm) ![](assets/new.png)  
+- [2022-04-26-工业级精准测试在蚂蚁的落地实践](https://toutiao.io/k/en8wgzs) ![](assets/new.png)  
 - [2022-04-26-当软件设计遇上角色扮演](https://toutiao.io/k/vyd0w1d) ![](assets/new.png)  
 - [2022-04-26-spring事务失效的几种场景以及原因](https://toutiao.io/k/vni6de5) ![](assets/new.png)  
 - [2022-04-26-多线程-|-FutureTask-执行流程](https://toutiao.io/k/00gq0cd) ![](assets/new.png)  

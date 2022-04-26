@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-04-26 23:03:09，:rocket: 更新条数: +2034， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-04-26 23:14:29，:rocket: 更新条数: +2015， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -553,26 +553,11 @@
 </summary>
 
 
-- [2022-04-26-深入浅出分布式锁](https://toutiao.io/k/957qnad) ![](assets/new.png)  
-- [2022-04-26-Websocket-被玩出了多种花样！](https://toutiao.io/k/hrbfj5q) ![](assets/new.png)  
-- [2022-04-26-Istio-基础架构及应用](https://toutiao.io/k/2eztxv1) ![](assets/new.png)  
-- [2022-04-26-干货-|-Elasticsearch-数据建模指南](https://toutiao.io/k/n0gqyj1) ![](assets/new.png)  
-- [2022-04-26-单体服务开发最佳实践](https://toutiao.io/k/3hm17du) ![](assets/new.png)  
-- [2022-04-26-一文聊透-IP-地址的那些事](https://toutiao.io/k/5h6cyno) ![](assets/new.png)  
-- [2022-04-26-springboot扮酷小技巧](https://toutiao.io/k/zfsbchz) ![](assets/new.png)  
-- [2022-04-26-Golang开发gRPC应用服务](https://toutiao.io/k/5emed8u) ![](assets/new.png)  
-- [2022-04-26-StarRocks-技术内幕：查询原理浅析](https://toutiao.io/k/4lqd3y6) ![](assets/new.png)  
-- [2022-04-26-如何实现根据照片获取地理位置及如何防御照片泄漏地理位置！](https://toutiao.io/k/d191x2g) ![](assets/new.png)  
-- [2022-04-26-RGB颜色模式-·-FFmpeg原理](https://toutiao.io/k/4pfc9cb) ![](assets/new.png)  
-- [2022-04-26-【万字长文】重排ReRank，广告推荐算法链路上的背叛者，生态系统格局的重塑者](https://toutiao.io/k/bq11dp6) ![](assets/new.png)  
-- [2022-04-26-Go语言从0到1实现最简单的数据库！](https://toutiao.io/k/ou8zt5x) ![](assets/new.png)  
-- [2022-04-26-主流消息队列有哪些？](https://toutiao.io/k/e2t53fm) ![](assets/new.png)  
-- [2022-04-26-工业级精准测试在蚂蚁的落地实践](https://toutiao.io/k/en8wgzs) ![](assets/new.png)  
-- [2022-04-26-当软件设计遇上角色扮演](https://toutiao.io/k/vyd0w1d) ![](assets/new.png)  
-- [2022-04-26-spring事务失效的几种场景以及原因](https://toutiao.io/k/vni6de5) ![](assets/new.png)  
-- [2022-04-26-多线程-|-FutureTask-执行流程](https://toutiao.io/k/00gq0cd) ![](assets/new.png)  
-- [2022-04-26-ETDM：基于显式时间差分建模的视频超分辨率（CVPR-2022）](https://toutiao.io/k/qsn3f29) ![](assets/new.png)  
-- [2022-04-26-将Twitter算法开源，马斯克是认真的吗？](https://toutiao.io/k/m8ujs45) ![](assets/new.png)  
+- [2022-04-26-疫情之中，写给大家的34句话｜码农周刊VIP会员专属邮件周报-Vol.089](https://toutiao.io/k/4ov5ax8) ![](assets/new.png)  
+- [2022-04-26-推荐-技术开发人员如何制定自己的OKR](https://toutiao.io/k/zq8oiet) ![](assets/new.png)  
+- [2022-04-26-推荐-万字长文，教你用go开发区块链应用](https://toutiao.io/k/3f3i7ey) ![](assets/new.png)  
+- [2022-04-26-推荐-别再说你不懂规则引擎了！](https://toutiao.io/k/edts5o5) ![](assets/new.png)  
+- [2022-04-26-推荐-微服务网关选型：5种主流-API-网关，哪个最香！](https://toutiao.io/k/jtyo70d) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

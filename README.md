@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-04-26 10:17:24，:rocket: 更新条数: +2030， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-04-26 10:44:24，:rocket: 更新条数: +2031， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,10 @@
 </summary>
 
 
+- [2022-04-26-iPhone-可以给-magsafe-电池反向充电，却不能给-airpods-充电？？](https://www.v2ex.com/t/849418) ![](assets/new.png)  
+- [2022-04-26-Linux-字体为什么有时候看着这么别扭](https://www.v2ex.com/t/849417) ![](assets/new.png)  
+- [2022-04-26-提问：-Google-Play-哪个区好一点啊？](https://www.v2ex.com/t/849416) ![](assets/new.png)  
+- [2022-04-26-我是老了么……](https://www.v2ex.com/t/849415) ![](assets/new.png)  
 - [2022-04-26-有没有感觉现在的手机都挺耐摔的？](https://www.v2ex.com/t/849414) ![](assets/new.png)  
 - [2022-04-26-5G-卡，-iPhone-设置里-4G-和-5G-速度差距大吗](https://www.v2ex.com/t/849413) ![](assets/new.png)  
 - [2022-04-26-六年前端，苦于创业即将失败，求捞](https://www.v2ex.com/t/849412) ![](assets/new.png)  
@@ -507,10 +511,6 @@
 - [2022-04-26-疑似携号转网导致郑好办黄码](https://www.v2ex.com/t/849398) ![](assets/new.png)  
 - [2022-04-26-还有人记得今天是-4.26-吗](https://www.v2ex.com/t/849396) ![](assets/new.png)  
 - [2022-04-26-动态线程池（DynamicTp），动态调整-Tomcat、Jetty、Undertow-线程池参数篇](https://www.v2ex.com/t/849395) ![](assets/new.png)  
-- [2022-04-26-上海/张江Air-Products外企制造业世界-500-强-招聘一位商务行政，福利多多，疫情期间可以申请居家办公。](https://www.v2ex.com/t/849394) ![](assets/new.png)  
-- [2022-04-26-Mac-默认浏览器-Edge-多版本出现](https://www.v2ex.com/t/849392) ![](assets/new.png)  
-- [2022-04-26-Windws-上有没有类似这样的仪表盘工具啊？想远程看到-WIN-的运行情况](https://www.v2ex.com/t/849391) ![](assets/new.png)  
-- [2022-04-26-求问一个-vue3-setup-封装抽离-js-导致-ref.value-为-undefined-的问题。](https://www.v2ex.com/t/849390) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -559,20 +559,20 @@
 - [2022-04-26-单体服务开发最佳实践](https://toutiao.io/k/3hm17du) ![](assets/new.png)  
 - [2022-04-26-干货-|-Elasticsearch-数据建模指南](https://toutiao.io/k/n0gqyj1) ![](assets/new.png)  
 - [2022-04-26-一文聊透-IP-地址的那些事](https://toutiao.io/k/5h6cyno) ![](assets/new.png)  
+- [2022-04-26-springboot扮酷小技巧](https://toutiao.io/k/zfsbchz) ![](assets/new.png)  
 - [2022-04-26-Golang开发gRPC应用服务](https://toutiao.io/k/5emed8u) ![](assets/new.png)  
 - [2022-04-26-StarRocks-技术内幕：查询原理浅析](https://toutiao.io/k/4lqd3y6) ![](assets/new.png)  
-- [2022-04-26-springboot扮酷小技巧](https://toutiao.io/k/zfsbchz) ![](assets/new.png)  
 - [2022-04-26-如何实现根据照片获取地理位置及如何防御照片泄漏地理位置！](https://toutiao.io/k/d191x2g) ![](assets/new.png)  
 - [2022-04-26-RGB颜色模式-·-FFmpeg原理](https://toutiao.io/k/4pfc9cb) ![](assets/new.png)  
-- [2022-04-26-当软件设计遇上角色扮演](https://toutiao.io/k/vyd0w1d) ![](assets/new.png)  
 - [2022-04-26-【万字长文】重排ReRank，广告推荐算法链路上的背叛者，生态系统格局的重塑者](https://toutiao.io/k/bq11dp6) ![](assets/new.png)  
-- [2022-04-26-主流消息队列有哪些？](https://toutiao.io/k/e2t53fm) ![](assets/new.png)  
-- [2022-04-26-spring事务失效的几种场景以及原因](https://toutiao.io/k/vni6de5) ![](assets/new.png)  
+- [2022-04-26-当软件设计遇上角色扮演](https://toutiao.io/k/vyd0w1d) ![](assets/new.png)  
 - [2022-04-26-Go语言从0到1实现最简单的数据库！](https://toutiao.io/k/ou8zt5x) ![](assets/new.png)  
 - [2022-04-26-工业级精准测试在蚂蚁的落地实践](https://toutiao.io/k/en8wgzs) ![](assets/new.png)  
+- [2022-04-26-spring事务失效的几种场景以及原因](https://toutiao.io/k/vni6de5) ![](assets/new.png)  
+- [2022-04-26-主流消息队列有哪些？](https://toutiao.io/k/e2t53fm) ![](assets/new.png)  
 - [2022-04-26-多线程-|-FutureTask-执行流程](https://toutiao.io/k/00gq0cd) ![](assets/new.png)  
 - [2022-04-26-ETDM：基于显式时间差分建模的视频超分辨率（CVPR-2022）](https://toutiao.io/k/qsn3f29) ![](assets/new.png)  
-- [2022-04-26-推荐-万字长文，教你用go开发区块链应用](https://toutiao.io/k/3f3i7ey) ![](assets/new.png)  
+- [2022-04-26-推荐-微服务网关选型：5种主流-API-网关，哪个最香！](https://toutiao.io/k/jtyo70d) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

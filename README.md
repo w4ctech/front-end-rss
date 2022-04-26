@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-04-26 12:26:42，:rocket: 更新条数: +2032， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-04-26 13:12:55，:rocket: 更新条数: +2033， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,9 @@
 </summary>
 
 
+- [2022-04-26-探讨一下离职与年假（预支）的问题](https://www.v2ex.com/t/849434) ![](assets/new.png)  
+- [2022-04-26-CentOS7-无法启动-Starting-Dracut-Emergency-Shell...](https://www.v2ex.com/t/849433) ![](assets/new.png)  
+- [2022-04-26-求杭州前端实习](https://www.v2ex.com/t/849432) ![](assets/new.png)  
 - [2022-04-26-Nuitka-编译的-exe-如何配合子目录中的嵌入式-Python-环境使用](https://www.v2ex.com/t/849430) ![](assets/new.png)  
 - [2022-04-26-mbp-外置硬盘问题求助](https://www.v2ex.com/t/849429) ![](assets/new.png)  
 - [2022-04-26-请教下代理网关的知识](https://www.v2ex.com/t/849428) ![](assets/new.png)  
@@ -508,9 +511,6 @@
 - [2022-04-26-我是老了么……](https://www.v2ex.com/t/849415) ![](assets/new.png)  
 - [2022-04-26-有没有感觉现在的手机都挺耐摔的？](https://www.v2ex.com/t/849414) ![](assets/new.png)  
 - [2022-04-26-5G-卡，-iPhone-设置里-4G-和-5G-速度差距大吗](https://www.v2ex.com/t/849413) ![](assets/new.png)  
-- [2022-04-26-六年前端，苦于创业即将失败，求捞](https://www.v2ex.com/t/849412) ![](assets/new.png)  
-- [2022-04-26-技术债管理怎么做？](https://www.v2ex.com/t/849411) ![](assets/new.png)  
-- [2022-04-26-雷电-3-的外置显卡盒用过的人进来说说？](https://www.v2ex.com/t/849410) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

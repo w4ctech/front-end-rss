@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-04-26 21:39:42，:rocket: 更新条数: +2034， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-04-26 22:14:29，:rocket: 更新条数: +2034， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-04-26-掌握技术机密-威胁贪婪资本家要走人-要到了-8-万美元一年](https://www.v2ex.com/t/849471) ![](assets/new.png)  
 - [2022-04-26-如何设计一个优秀的炒股/炒币系统](https://www.v2ex.com/t/849470) ![](assets/new.png)  
 - [2022-04-26-决赛圈了，我开始纠结给-mac-配的-27-寸显示器](https://www.v2ex.com/t/849469) ![](assets/new.png)  
 - [2022-04-26-LeetFlash---LeetCode-刷题复习-App：基于-Spaced-repetition-思想而开发的高效复习算法题网站](https://www.v2ex.com/t/849468) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-04-26-有人用过-uPic-吗](https://www.v2ex.com/t/849451) ![](assets/new.png)  
 - [2022-04-26-大佬，求解惑-Google-voice-问题](https://www.v2ex.com/t/849449) ![](assets/new.png)  
 - [2022-04-26-Oracle-跨区域-VCN-连接好像只能走公网？](https://www.v2ex.com/t/849448) ![](assets/new.png)  
-- [2022-04-26-有哪些设计良好而且贴近业务的大中厂开源项目值得一看](https://www.v2ex.com/t/849447) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

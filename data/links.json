@@ -9953,6 +9953,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "显示器出现了非常严重的色差",
+        "link": "https://www.v2ex.com/t/849467",
+        "date": "2022-04-26"
+      },
+      {
         "title": "新爸五年计划 | 251 记一个周六早上的“早茶时间”",
         "link": "https://www.v2ex.com/t/849466",
         "date": "2022-04-26"
@@ -10160,11 +10165,6 @@
       {
         "title": "iPhone 可以给 magsafe 电池反向充电，却不能给 airpods 充电？？",
         "link": "https://www.v2ex.com/t/849418",
-        "date": "2022-04-26"
-      },
-      {
-        "title": "Linux 字体为什么有时候看着这么别扭",
-        "link": "https://www.v2ex.com/t/849417",
         "date": "2022-04-26"
       }
     ]
@@ -10382,13 +10382,13 @@
         "date": "2022-04-26"
       },
       {
-        "title": "[推荐] 技术开发人员如何制定自己的OKR",
-        "link": "https://toutiao.io/k/zq8oiet",
+        "title": "[推荐] 别再说你不懂规则引擎了！",
+        "link": "https://toutiao.io/k/edts5o5",
         "date": "2022-04-26"
       },
       {
-        "title": "[推荐] 万字长文，教你用go开发区块链应用",
-        "link": "https://toutiao.io/k/3f3i7ey",
+        "title": "[推荐] 技术开发人员如何制定自己的OKR",
+        "link": "https://toutiao.io/k/zq8oiet",
         "date": "2022-04-26"
       },
       {
@@ -10397,8 +10397,8 @@
         "date": "2022-04-26"
       },
       {
-        "title": "[推荐] 别再说你不懂规则引擎了！",
-        "link": "https://toutiao.io/k/edts5o5",
+        "title": "[推荐] 万字长文，教你用go开发区块链应用",
+        "link": "https://toutiao.io/k/3f3i7ey",
         "date": "2022-04-26"
       }
     ]

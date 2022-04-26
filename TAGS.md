@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-04-26 14:39:17。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-04-26 15:15:59。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -353,7 +353,6 @@
 
 
 
-- [【V2EX】上海/张江Air-Products外企制造业世界-500-强-招聘一位商务行政，福利多多，疫情期间可以申请居家办公。](https://www.v2ex.com/t/849394)
 - [......【查看更多】......](./details/tags/job-interview.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

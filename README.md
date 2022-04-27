@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-04-27 12:24:19，:rocket: 更新条数: +2029， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-04-27 13:08:26，:rocket: 更新条数: +2030， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,10 @@
 </summary>
 
 
+- [2022-04-27-VMware-的国产化替代哪家强?](https://www.v2ex.com/t/849643) ![](assets/new.png)  
+- [2022-04-27-win11-的-GPU-温度是不是只有显卡运行时才会实时监测？](https://www.v2ex.com/t/849642) ![](assets/new.png)  
+- [2022-04-27-请问精确到县级的限行尾号查询用哪个-API？](https://www.v2ex.com/t/849641) ![](assets/new.png)  
+- [2022-04-27-微信-iOS-客户端从后台切换到前台经常点击没反应](https://www.v2ex.com/t/849640) ![](assets/new.png)  
 - [2022-04-27-做了一个查询欧盟税号的工具](https://www.v2ex.com/t/849639) ![](assets/new.png)  
 - [2022-04-27-为什么大白的防护服里不加一套简单的水冷呢？](https://www.v2ex.com/t/849637) ![](assets/new.png)  
 - [2022-04-27-杭州今晚有多少人排队去做核酸？](https://www.v2ex.com/t/849636) ![](assets/new.png)  
@@ -507,10 +511,6 @@
 - [2022-04-27-安卓-Tasker-如何建立一个悬浮图片？](https://www.v2ex.com/t/849625) ![](assets/new.png)  
 - [2022-04-27-成都，北京-华为部门直招，组织氛围轻松，导师一对一辅导，交付压力小，感兴趣的同学可以加微信](https://www.v2ex.com/t/849624) ![](assets/new.png)  
 - [2022-04-27-有好用的开源的-cms-系统吗](https://www.v2ex.com/t/849623) ![](assets/new.png)  
-- [2022-04-27-小白问题-axios-循环请求,响应时间不同,导致数据的排序紊乱](https://www.v2ex.com/t/849622) ![](assets/new.png)  
-- [2022-04-27-花旗金融怎么样？-GFT-部门](https://www.v2ex.com/t/849620) ![](assets/new.png)  
-- [2022-04-27-Solidity-工程师（4-周远程兼职/日薪-800-1200）](https://www.v2ex.com/t/849619) ![](assets/new.png)  
-- [2022-04-27-关于升本，我弃考了](https://www.v2ex.com/t/849618) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -557,22 +557,22 @@
 - [2022-04-27-强烈反对使用Spring封装的多线程类！](https://toutiao.io/k/kdmd1wy) ![](assets/new.png)  
 - [2022-04-27-实操：如何做文化建设](https://toutiao.io/k/as7mdps) ![](assets/new.png)  
 - [2022-04-27-分布式链路追踪系统在中信银行的落地实践](https://toutiao.io/k/1z0lcsz) ![](assets/new.png)  
-- [2022-04-27-RTC-Dev-Meetup丨语音处理在实时互动领域的技术实践和应用（第一场）](https://toutiao.io/k/9r2wc54) ![](assets/new.png)  
 - [2022-04-27-【实践】快手推荐系统精排模型实践.pdf（附下载链接）](https://toutiao.io/k/46j5r3t) ![](assets/new.png)  
+- [2022-04-27-RTC-Dev-Meetup丨语音处理在实时互动领域的技术实践和应用（第一场）](https://toutiao.io/k/9r2wc54) ![](assets/new.png)  
 - [2022-04-27-Spark-SQL在雪球的实践](https://toutiao.io/k/vtgu8wa) ![](assets/new.png)  
 - [2022-04-27-分库分表系列：分库分表的前世今生](https://toutiao.io/k/kb1daow) ![](assets/new.png)  
 - [2022-04-27-一文掌握-Docker-技术体系](https://toutiao.io/k/fj3ag78) ![](assets/new.png)  
 - [2022-04-27-面试官经常问的观察者模式如何实现~](https://toutiao.io/k/gpjpjm8) ![](assets/new.png)  
+- [2022-04-27-转转商品系统高并发实战（数据篇）](https://toutiao.io/k/351f09q) ![](assets/new.png)  
 - [2022-04-27-深入理解-Promise-之手把手教你写一版](https://toutiao.io/k/sj5f3bk) ![](assets/new.png)  
 - [2022-04-27-通过-SingleFlight-模式学习-Go-并发编程](https://toutiao.io/k/gdau83t) ![](assets/new.png)  
 - [2022-04-27-不用GAN、VAE，谷歌发明视频生成的"扩散模型"，实现新SOTA](https://toutiao.io/k/kua2qm9) ![](assets/new.png)  
-- [2022-04-27-转转商品系统高并发实战（数据篇）](https://toutiao.io/k/351f09q) ![](assets/new.png)  
-- [2022-04-27-EasyNLP开源｜中文NLP+大模型落地，EasyNLP-is-all-you-need](https://toutiao.io/k/z8zfcbh) ![](assets/new.png)  
 - [2022-04-27-开源过程最佳实践](https://toutiao.io/k/9bj18fe) ![](assets/new.png)  
+- [2022-04-27-EasyNLP开源｜中文NLP+大模型落地，EasyNLP-is-all-you-need](https://toutiao.io/k/z8zfcbh) ![](assets/new.png)  
+- [2022-04-27-推荐-别再说你不懂规则引擎了！](https://toutiao.io/k/edts5o5) ![](assets/new.png)  
 - [2022-04-27-推荐-万字长文，教你用go开发区块链应用](https://toutiao.io/k/3f3i7ey) ![](assets/new.png)  
 - [2022-04-27-推荐-微服务网关选型：5种主流-API-网关，哪个最香！](https://toutiao.io/k/jtyo70d) ![](assets/new.png)  
 - [2022-04-27-推荐-技术开发人员如何制定自己的OKR](https://toutiao.io/k/zq8oiet) ![](assets/new.png)  
-- [2022-04-27-推荐-别再说你不懂规则引擎了！](https://toutiao.io/k/edts5o5) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

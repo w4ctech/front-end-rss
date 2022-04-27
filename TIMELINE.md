@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-04-27 12:24:19。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-04-27 13:08:26。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -70,6 +70,10 @@
 
 - [【张鑫旭-鑫空间-鑫生活】2022-04-27-小tips:-JS字体加载失败或完毕的检测](https://www.zhangxinxu.com/wordpress/2022/04/js-font-face-load/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-04-22-CSS实现滚动高度自动变小的粘滞效果](https://www.zhangxinxu.com/wordpress/2022/04/css-sticky-size-change/) 
+- [【V2EX】2022-04-27-VMware-的国产化替代哪家强?](https://www.v2ex.com/t/849643) 
+- [【V2EX】2022-04-27-win11-的-GPU-温度是不是只有显卡运行时才会实时监测？](https://www.v2ex.com/t/849642) 
+- [【V2EX】2022-04-27-请问精确到县级的限行尾号查询用哪个-API？](https://www.v2ex.com/t/849641) 
+- [【V2EX】2022-04-27-微信-iOS-客户端从后台切换到前台经常点击没反应](https://www.v2ex.com/t/849640) 
 - [【V2EX】2022-04-27-做了一个查询欧盟税号的工具](https://www.v2ex.com/t/849639) 
 - [【V2EX】2022-04-27-为什么大白的防护服里不加一套简单的水冷呢？](https://www.v2ex.com/t/849637) 
 - [【V2EX】2022-04-27-杭州今晚有多少人排队去做核酸？](https://www.v2ex.com/t/849636) 
@@ -110,9 +114,6 @@
 - [【V2EX】2022-04-27-直播预约｜论道原生：云原生时代的数据库（有互动抽奖环节）](https://www.v2ex.com/t/849598) 
 - [【V2EX】2022-04-27-Optimism-这波空投搞得挺干脆的](https://www.v2ex.com/t/849597) 
 - [【V2EX】2022-04-27-各位大佬，我想试着剪个音效出来，如何用一个时长有限的声音（不到一分钟）剪出一个无限循环，但是没有跳跃感的音效？](https://www.v2ex.com/t/849596) 
-- [【V2EX】2022-04-27-如何花光-app-store-剩余的-5-块钱？](https://www.v2ex.com/t/849593) 
-- [【V2EX】2022-04-27-找一份全职远程前端工作](https://www.v2ex.com/t/849592) 
-- [【V2EX】2022-04-27-电商项目在简历中已经烂大街了](https://www.v2ex.com/t/849590) 
 - [【技术头条】2022-04-27-DR6018CV01-wifi6-Qualcomm-IPQ6010-IPQ6018-FAMILY-2T2R-2.5G-ETH-port-supporting-5G-www.wallystech.com](https://blogread.cn/news/go.php?idItem=15044&url=https%3A%2F%2Fwww.wallystech.com%2FRouterboard%2FDR6018CV01-wifi6-Qualcomm-IPQ6010-IPQ6018-FAMILY-2T2R-2.5G-ETH-port-supporting-5G-celluar-Modem-802-11AX-MU-MIMO-OFDMA-SFP.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-04-27-DR8072V01-wifi6-Qualcomm-IPQ8072A-4T4R-support-OpenWRT-802.11AX-supporting-10GE-port-10G-SFP-www.wallystech.com](https://blogread.cn/news/go.php?idItem=15043&url=https%3A%2F%2Fwww.wallystech.com%2FRouterboard%2FDR8072V01-wifi6-Qualcomm-IPQ8072A-4T4R-support-OpenWRT-802.11AX-supporting-10GE-port-10G-SFP.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-04-27-DR4019S-Qualcomm-IPQ4019-2T2R-Dual-Band-2-4GHz-5GHz-support-OpenWRT-802.11ac-Wave-2-www.wallystech.com](https://blogread.cn/news/go.php?idItem=15042&url=https%3A%2F%2Fwww.wallystech.com%2FRouterboard%2FDR4019S-Qualcomm-IPQ4019-2T2R-Dual-Band-2-4GHz-5GHz-support-OpenWRT-802.11ac-Wave-2.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -137,22 +138,22 @@
 - [【开发者头条】2022-04-27-强烈反对使用Spring封装的多线程类！](https://toutiao.io/k/kdmd1wy) 
 - [【开发者头条】2022-04-27-实操：如何做文化建设](https://toutiao.io/k/as7mdps) 
 - [【开发者头条】2022-04-27-分布式链路追踪系统在中信银行的落地实践](https://toutiao.io/k/1z0lcsz) 
-- [【开发者头条】2022-04-27-RTC-Dev-Meetup丨语音处理在实时互动领域的技术实践和应用（第一场）](https://toutiao.io/k/9r2wc54) 
 - [【开发者头条】2022-04-27-【实践】快手推荐系统精排模型实践.pdf（附下载链接）](https://toutiao.io/k/46j5r3t) 
+- [【开发者头条】2022-04-27-RTC-Dev-Meetup丨语音处理在实时互动领域的技术实践和应用（第一场）](https://toutiao.io/k/9r2wc54) 
 - [【开发者头条】2022-04-27-Spark-SQL在雪球的实践](https://toutiao.io/k/vtgu8wa) 
 - [【开发者头条】2022-04-27-分库分表系列：分库分表的前世今生](https://toutiao.io/k/kb1daow) 
 - [【开发者头条】2022-04-27-一文掌握-Docker-技术体系](https://toutiao.io/k/fj3ag78) 
 - [【开发者头条】2022-04-27-面试官经常问的观察者模式如何实现~](https://toutiao.io/k/gpjpjm8) 
+- [【开发者头条】2022-04-27-转转商品系统高并发实战（数据篇）](https://toutiao.io/k/351f09q) 
 - [【开发者头条】2022-04-27-深入理解-Promise-之手把手教你写一版](https://toutiao.io/k/sj5f3bk) 
 - [【开发者头条】2022-04-27-通过-SingleFlight-模式学习-Go-并发编程](https://toutiao.io/k/gdau83t) 
 - [【开发者头条】2022-04-27-不用GAN、VAE，谷歌发明视频生成的"扩散模型"，实现新SOTA](https://toutiao.io/k/kua2qm9) 
-- [【开发者头条】2022-04-27-转转商品系统高并发实战（数据篇）](https://toutiao.io/k/351f09q) 
-- [【开发者头条】2022-04-27-EasyNLP开源｜中文NLP+大模型落地，EasyNLP-is-all-you-need](https://toutiao.io/k/z8zfcbh) 
 - [【开发者头条】2022-04-27-开源过程最佳实践](https://toutiao.io/k/9bj18fe) 
+- [【开发者头条】2022-04-27-EasyNLP开源｜中文NLP+大模型落地，EasyNLP-is-all-you-need](https://toutiao.io/k/z8zfcbh) 
+- [【开发者头条】2022-04-27-推荐-别再说你不懂规则引擎了！](https://toutiao.io/k/edts5o5) 
 - [【开发者头条】2022-04-27-推荐-万字长文，教你用go开发区块链应用](https://toutiao.io/k/3f3i7ey) 
 - [【开发者头条】2022-04-27-推荐-微服务网关选型：5种主流-API-网关，哪个最香！](https://toutiao.io/k/jtyo70d) 
 - [【开发者头条】2022-04-27-推荐-技术开发人员如何制定自己的OKR](https://toutiao.io/k/zq8oiet) 
-- [【开发者头条】2022-04-27-推荐-别再说你不懂规则引擎了！](https://toutiao.io/k/edts5o5) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

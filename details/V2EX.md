@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2022-04-27 16:19:55。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-04-27 17:03:05。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-04-27-JB-系（Pycharm）转-VS-写-C#，一些习惯改不过来求助](https://www.v2ex.com/t/849686) 
+- [2022-04-27-苹果自助维修服务正式在美国推出，用户可购买零件和工具自己维修-iPhone-12、13-系列和第三代-iPhone-SE](https://www.v2ex.com/t/849685) 
 - [2022-04-27-1Password-崩了？无法同步无法登录，好吓人](https://www.v2ex.com/t/849684) 
 - [2022-04-27-发现一个用-iPhone-当-webcam-的软件-CAMO](https://www.v2ex.com/t/849683) 
 - [2022-04-27-google-搜索结果如何直接点击进入目标站点而不是多跳转一次](https://www.v2ex.com/t/849682) 
@@ -45,6 +47,3 @@
 - [2022-04-27-请问精确到县级的限行尾号查询用哪个-API？](https://www.v2ex.com/t/849641) 
 - [2022-04-27-微信-iOS-客户端从后台切换到前台经常点击没反应](https://www.v2ex.com/t/849640) 
 - [2022-04-27-做了一个查询欧盟税号的工具](https://www.v2ex.com/t/849639) 
-- [2022-04-27-为什么大白的防护服里不加一套简单的水冷呢？](https://www.v2ex.com/t/849637) 
-- [2022-04-27-杭州今晚有多少人排队去做核酸？](https://www.v2ex.com/t/849636) 
-- [2022-04-27-对-Apple-order-delay-的一点疑问和思考](https://www.v2ex.com/t/849635) 

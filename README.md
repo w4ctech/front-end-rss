@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-04-27 07:41:01，:rocket: 更新条数: +2031， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-04-27 08:17:20，:rocket: 更新条数: +2030， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,16 @@
 </summary>
 
 
+- [2022-04-27-工作太难找了，难受](https://www.v2ex.com/t/849599) ![](assets/new.png)  
+- [2022-04-27-直播预约｜论道原生：云原生时代的数据库（有互动抽奖环节）](https://www.v2ex.com/t/849598) ![](assets/new.png)  
+- [2022-04-27-Optimism-这波空投搞得挺干脆的](https://www.v2ex.com/t/849597) ![](assets/new.png)  
+- [2022-04-27-各位大佬，我想试着剪个音效出来，如何用一个时长有限的声音（不到一分钟）剪出一个无限循环，但是没有跳跃感的音效？](https://www.v2ex.com/t/849596) ![](assets/new.png)  
+- [2022-04-27-程序员宝宝，编程猎人，这些辣鸡聚合站](https://www.v2ex.com/t/849594) ![](assets/new.png)  
+- [2022-04-27-如何花光-app-store-剩余的-5-块钱？](https://www.v2ex.com/t/849593) ![](assets/new.png)  
+- [2022-04-27-找一份全职远程前端工作](https://www.v2ex.com/t/849592) ![](assets/new.png)  
+- [2022-04-27-电商项目在简历中已经烂大街了](https://www.v2ex.com/t/849590) ![](assets/new.png)  
+- [2022-04-27-招聘：-c++开发工程师：-global-pay](https://www.v2ex.com/t/849589) ![](assets/new.png)  
+- [2022-04-27-上海字节跳动-飞书视频会议部门招聘-高级-C++研发工程师](https://www.v2ex.com/t/849588) ![](assets/new.png)  
 - [2022-04-27-你们对推出的个人养老金怎么看？](https://www.v2ex.com/t/849587) ![](assets/new.png)  
 - [2022-04-27-成都-熊猫博士-14-20K-中/高级-PHP-招聘](https://www.v2ex.com/t/849585) ![](assets/new.png)  
 - [2022-04-27-北京-Amazon-|-Mobile-Shopping-Foundation-Team-|-Android-/-iOS-SDE-|-WLB-|-WFH-|-一篇诚恳的招聘贴](https://www.v2ex.com/t/849584) ![](assets/new.png)  
@@ -501,16 +511,6 @@
 - [2022-04-27-用了多年-Mac，发现还是喜欢-Windows](https://www.v2ex.com/t/849578) ![](assets/new.png)  
 - [2022-04-27-终于回国啦，准备给国外买的-m1-mac-mini-配显示器了想看看大家的推荐](https://www.v2ex.com/t/849577) ![](assets/new.png)  
 - [2022-04-27-各位平时工作日有多少空闲时间啊](https://www.v2ex.com/t/849576) ![](assets/new.png)  
-- [2022-04-27-ups-最近老是自动断电](https://www.v2ex.com/t/849575) ![](assets/new.png)  
-- [2022-04-27-如何监听页面资源的-404-呢？](https://www.v2ex.com/t/849574) ![](assets/new.png)  
-- [2022-04-27-有没有-100-元以内的无线鼠标推荐的](https://www.v2ex.com/t/849573) ![](assets/new.png)  
-- [2022-04-27-判断朋友是否会恩将仇报的方法有哪些？](https://www.v2ex.com/t/849572) ![](assets/new.png)  
-- [2022-04-27-Vue2-有办法删除-props-里面一个-object-的-key-吗？](https://www.v2ex.com/t/849571) ![](assets/new.png)  
-- [2022-04-27-请大家推荐下科学用途的-VPS](https://www.v2ex.com/t/849570) ![](assets/new.png)  
-- [2022-04-27-求一个-PS-破解版下载链接](https://www.v2ex.com/t/849569) ![](assets/new.png)  
-- [2022-04-27-如果使用-Java-去实现将镜像放到容器中并启动这个操作](https://www.v2ex.com/t/849568) ![](assets/new.png)  
-- [2022-04-27-配置一个像炒股那样面前四块屏幕架起来的需要什么器材呀？](https://www.v2ex.com/t/849566) ![](assets/new.png)  
-- [2022-04-27-英伟达深圳/上海-全栈开发工程师-自动驾驶方向](https://www.v2ex.com/t/849565) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -557,22 +557,22 @@
 - [2022-04-27-强烈反对使用Spring封装的多线程类！](https://toutiao.io/k/kdmd1wy) ![](assets/new.png)  
 - [2022-04-27-RTC-Dev-Meetup丨语音处理在实时互动领域的技术实践和应用（第一场）](https://toutiao.io/k/9r2wc54) ![](assets/new.png)  
 - [2022-04-27-【实践】快手推荐系统精排模型实践.pdf（附下载链接）](https://toutiao.io/k/46j5r3t) ![](assets/new.png)  
-- [2022-04-27-Spark-SQL在雪球的实践](https://toutiao.io/k/vtgu8wa) ![](assets/new.png)  
 - [2022-04-27-实操：如何做文化建设](https://toutiao.io/k/as7mdps) ![](assets/new.png)  
+- [2022-04-27-Spark-SQL在雪球的实践](https://toutiao.io/k/vtgu8wa) ![](assets/new.png)  
 - [2022-04-27-分布式链路追踪系统在中信银行的落地实践](https://toutiao.io/k/1z0lcsz) ![](assets/new.png)  
 - [2022-04-27-面试官经常问的观察者模式如何实现~](https://toutiao.io/k/gpjpjm8) ![](assets/new.png)  
 - [2022-04-27-分库分表系列：分库分表的前世今生](https://toutiao.io/k/kb1daow) ![](assets/new.png)  
 - [2022-04-27-深入理解-Promise-之手把手教你写一版](https://toutiao.io/k/sj5f3bk) ![](assets/new.png)  
-- [2022-04-27-不用GAN、VAE，谷歌发明视频生成的"扩散模型"，实现新SOTA](https://toutiao.io/k/kua2qm9) ![](assets/new.png)  
 - [2022-04-27-通过-SingleFlight-模式学习-Go-并发编程](https://toutiao.io/k/gdau83t) ![](assets/new.png)  
+- [2022-04-27-不用GAN、VAE，谷歌发明视频生成的"扩散模型"，实现新SOTA](https://toutiao.io/k/kua2qm9) ![](assets/new.png)  
 - [2022-04-27-一文掌握-Docker-技术体系](https://toutiao.io/k/fj3ag78) ![](assets/new.png)  
 - [2022-04-27-转转商品系统高并发实战（数据篇）](https://toutiao.io/k/351f09q) ![](assets/new.png)  
-- [2022-04-27-开源过程最佳实践](https://toutiao.io/k/9bj18fe) ![](assets/new.png)  
 - [2022-04-27-EasyNLP开源｜中文NLP+大模型落地，EasyNLP-is-all-you-need](https://toutiao.io/k/z8zfcbh) ![](assets/new.png)  
-- [2022-04-27-推荐-万字长文，教你用go开发区块链应用](https://toutiao.io/k/3f3i7ey) ![](assets/new.png)  
-- [2022-04-27-推荐-别再说你不懂规则引擎了！](https://toutiao.io/k/edts5o5) ![](assets/new.png)  
+- [2022-04-27-开源过程最佳实践](https://toutiao.io/k/9bj18fe) ![](assets/new.png)  
 - [2022-04-27-推荐-微服务网关选型：5种主流-API-网关，哪个最香！](https://toutiao.io/k/jtyo70d) ![](assets/new.png)  
+- [2022-04-27-推荐-别再说你不懂规则引擎了！](https://toutiao.io/k/edts5o5) ![](assets/new.png)  
 - [2022-04-27-推荐-技术开发人员如何制定自己的OKR](https://toutiao.io/k/zq8oiet) ![](assets/new.png)  
+- [2022-04-27-推荐-万字长文，教你用go开发区块链应用](https://toutiao.io/k/3f3i7ey) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

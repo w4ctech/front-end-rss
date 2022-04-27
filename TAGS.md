@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-04-27 07:41:01。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-04-27 08:17:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -72,7 +72,6 @@
 
 
 
-- [【V2EX】typescript-类型求助](https://www.v2ex.com/t/849541)
 - [......【查看更多】......](./details/tags/typescript.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -122,7 +121,6 @@
 
 
 
-- [【V2EX】技术人的微信小程序，名字叫做《互联网小兵》](https://www.v2ex.com/t/849543)
 - [......【查看更多】......](./details/tags/miniprogram.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -240,8 +238,8 @@
 
 - [【武汉肺炎防疫全纪录(财新网)】广州17岁男生在定点医院参加高考-特殊考场视频监考](https://m.caixin.com/m/2021-06-05/101723418.html)
 - [【武汉肺炎防疫全纪录(财新网)】林郑月娥率13高官直播接种科兴疫苗-复星疫苗预计周中到港](https://m.caixin.com/m/2021-02-22/101665724.html)
-- [【V2EX】上海/杭州字节跳动飞书视频会议客户端-C++/Android-Native-研发工程师](https://www.v2ex.com/t/849540)
-- [【V2EX】剪视频就是伪需求。](https://www.v2ex.com/t/849539)
+- [【V2EX】直播预约｜论道原生：云原生时代的数据库（有互动抽奖环节）](https://www.v2ex.com/t/849598)
+- [【V2EX】上海字节跳动-飞书视频会议部门招聘-高级-C++研发工程师](https://www.v2ex.com/t/849588)
 - [【开发者头条】不用GAN、VAE，谷歌发明视频生成的"扩散模型"，实现新SOTA](https://toutiao.io/k/kua2qm9)
 - [......【查看更多】......](./details/tags/audio-video.md)
 
@@ -351,9 +349,9 @@
 
 
 
+- [【V2EX】招聘：-c++开发工程师：-global-pay](https://www.v2ex.com/t/849589)
 - [【V2EX】成都-熊猫博士-14-20K-中/高级-PHP-招聘](https://www.v2ex.com/t/849585)
 - [【V2EX】北京-Amazon-|-Mobile-Shopping-Foundation-Team-|-Android-/-iOS-SDE-|-WLB-|-WFH-|-一篇诚恳的招聘贴](https://www.v2ex.com/t/849584)
-- [【V2EX】为什么面试官喜欢问某一门语言（比如-go-或者-Python-）的内存回收机制？](https://www.v2ex.com/t/849548)
 - [【开发者头条】面试官经常问的观察者模式如何实现~](https://toutiao.io/k/gpjpjm8)
 - [......【查看更多】......](./details/tags/job-interview.md)
 

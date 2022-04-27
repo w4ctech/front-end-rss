@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-04-27 20:15:50。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-04-27 20:42:14。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -300,7 +300,6 @@
 
 
 
-- [【V2EX】win11-的-GPU-温度是不是只有显卡运行时才会实时监测？](https://www.v2ex.com/t/849642)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -335,6 +334,7 @@
 
 
 
+- [【V2EX】git.io-即将停止服务，我们提供免费的旧网址替换服务](https://www.v2ex.com/t/849692)
 - [......【查看更多】......](./details/tags/git-svn.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

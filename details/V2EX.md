@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2022-04-27 20:15:50。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-04-27 20:42:14。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-04-27-git.io-即将停止服务，我们提供免费的旧网址替换服务](https://www.v2ex.com/t/849692) 
 - [2022-04-27-请教下两台服务器间的流量转发](https://www.v2ex.com/t/849691) 
 - [2022-04-27-用-audacity-裁剪了一段-22-秒的音频，导出来两个格式文件-wav-和-mp3,两个文件-wav-为-4MB,-MP3-位-500kb,我反复听没有听出来区别，请问各位大佬有什么不一样吗...](https://www.v2ex.com/t/849690) 
 - [2022-04-27-红米电视大半夜的自己发出声音吓我一跳](https://www.v2ex.com/t/849689) 
@@ -47,4 +48,3 @@
 - [2022-04-27-GitHub-markdown-中的-image-有办法实现圆角吗？似乎无法应用-border-radius](https://www.v2ex.com/t/849647) 
 - [2022-04-27-QQ-邮箱的垃圾邮件判定错误](https://www.v2ex.com/t/849646) 
 - [2022-04-27-VMware-的国产化替代哪家强?](https://www.v2ex.com/t/849643) 
-- [2022-04-27-win11-的-GPU-温度是不是只有显卡运行时才会实时监测？](https://www.v2ex.com/t/849642) 

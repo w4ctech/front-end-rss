@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-04-27 20:15:50，:rocket: 更新条数: +2028， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-04-27 20:42:14，:rocket: 更新条数: +2028， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-04-27-git.io-即将停止服务，我们提供免费的旧网址替换服务](https://www.v2ex.com/t/849692) ![](assets/new.png)  
 - [2022-04-27-请教下两台服务器间的流量转发](https://www.v2ex.com/t/849691) ![](assets/new.png)  
 - [2022-04-27-用-audacity-裁剪了一段-22-秒的音频，导出来两个格式文件-wav-和-mp3,两个文件-wav-为-4MB,-MP3-位-500kb,我反复听没有听出来区别，请问各位大佬有什么不一样吗...](https://www.v2ex.com/t/849690) ![](assets/new.png)  
 - [2022-04-27-红米电视大半夜的自己发出声音吓我一跳](https://www.v2ex.com/t/849689) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-04-27-想简单聊一下笔记本的显卡切换](https://www.v2ex.com/t/849674) ![](assets/new.png)  
 - [2022-04-27-手动导入-iPhone-的本地音乐能否设置实时同步歌词？](https://www.v2ex.com/t/849673) ![](assets/new.png)  
 - [2022-04-27-请假休息，结果楼上今天装修，烦](https://www.v2ex.com/t/849672) ![](assets/new.png)  
-- [2022-04-27-Linux-服务器转发流量用什么？](https://www.v2ex.com/t/849671) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -569,9 +569,9 @@
 - [2022-04-27-不用GAN、VAE，谷歌发明视频生成的"扩散模型"，实现新SOTA](https://toutiao.io/k/kua2qm9) ![](assets/new.png)  
 - [2022-04-27-EasyNLP开源｜中文NLP+大模型落地，EasyNLP-is-all-you-need](https://toutiao.io/k/z8zfcbh) ![](assets/new.png)  
 - [2022-04-27-开源过程最佳实践](https://toutiao.io/k/9bj18fe) ![](assets/new.png)  
-- [2022-04-27-推荐-微服务网关选型：5种主流-API-网关，哪个最香！](https://toutiao.io/k/jtyo70d) ![](assets/new.png)  
 - [2022-04-27-推荐-别再说你不懂规则引擎了！](https://toutiao.io/k/edts5o5) ![](assets/new.png)  
 - [2022-04-27-推荐-技术开发人员如何制定自己的OKR](https://toutiao.io/k/zq8oiet) ![](assets/new.png)  
+- [2022-04-27-推荐-微服务网关选型：5种主流-API-网关，哪个最香！](https://toutiao.io/k/jtyo70d) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

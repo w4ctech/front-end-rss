@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-04-27 11:12:44。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-04-27 11:38:19。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -352,7 +352,6 @@
 - [【V2EX】如何优雅请假出去面试？](https://www.v2ex.com/t/849603)
 - [【V2EX】招聘：-c++开发工程师：-global-pay](https://www.v2ex.com/t/849589)
 - [【V2EX】成都-熊猫博士-14-20K-中/高级-PHP-招聘](https://www.v2ex.com/t/849585)
-- [【V2EX】北京-Amazon-|-Mobile-Shopping-Foundation-Team-|-Android-/-iOS-SDE-|-WLB-|-WFH-|-一篇诚恳的招聘贴](https://www.v2ex.com/t/849584)
 - [【开发者头条】面试官经常问的观察者模式如何实现~](https://toutiao.io/k/gpjpjm8)
 - [......【查看更多】......](./details/tags/job-interview.md)
 

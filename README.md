@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-04-27 09:15:05，:rocket: 更新条数: +2027， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-04-27 09:42:07，:rocket: 更新条数: +2026， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,11 @@
 </summary>
 
 
+- [2022-04-27-还记得有位兄弟的创意：提供了一个在线以第一角色看路游各城市的站点，有人还记得么？](https://www.v2ex.com/t/849615) ![](assets/new.png)  
+- [2022-04-27-小白问题-axios-循环请求,响应时间不同,导致数据的排序紊乱](https://www.v2ex.com/t/849614) ![](assets/new.png)  
+- [2022-04-27-上海现在还有什么渠道能线上拿药，乙肝抗病毒药替诺福韦](https://www.v2ex.com/t/849613) ![](assets/new.png)  
+- [2022-04-27-对于润去日本，这个工资什么水平？在那边能活成什么样？](https://www.v2ex.com/t/849611) ![](assets/new.png)  
+- [2022-04-27-Node.js-开发工程师（全职远程/北美团队）](https://www.v2ex.com/t/849610) ![](assets/new.png)  
 - [2022-04-27-发现心目中一直善良传统的母亲可能现在一心只有钱，怎么办？](https://www.v2ex.com/t/849609) ![](assets/new.png)  
 - [2022-04-27-坐标广东，求前辈们指导一下，专升本和专插本以及一些工作上的问题](https://www.v2ex.com/t/849608) ![](assets/new.png)  
 - [2022-04-27-utool-好用不-有没有类似更好的软件](https://www.v2ex.com/t/849607) ![](assets/new.png)  
@@ -506,11 +511,6 @@
 - [2022-04-27-Optimism-这波空投搞得挺干脆的](https://www.v2ex.com/t/849597) ![](assets/new.png)  
 - [2022-04-27-各位大佬，我想试着剪个音效出来，如何用一个时长有限的声音（不到一分钟）剪出一个无限循环，但是没有跳跃感的音效？](https://www.v2ex.com/t/849596) ![](assets/new.png)  
 - [2022-04-27-如何花光-app-store-剩余的-5-块钱？](https://www.v2ex.com/t/849593) ![](assets/new.png)  
-- [2022-04-27-找一份全职远程前端工作](https://www.v2ex.com/t/849592) ![](assets/new.png)  
-- [2022-04-27-电商项目在简历中已经烂大街了](https://www.v2ex.com/t/849590) ![](assets/new.png)  
-- [2022-04-27-招聘：-c++开发工程师：-global-pay](https://www.v2ex.com/t/849589) ![](assets/new.png)  
-- [2022-04-27-上海字节跳动-飞书视频会议部门招聘-高级-C++研发工程师](https://www.v2ex.com/t/849588) ![](assets/new.png)  
-- [2022-04-27-成都-熊猫博士-14-20K-中/高级-PHP-招聘](https://www.v2ex.com/t/849585) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -569,9 +569,9 @@
 - [2022-04-27-转转商品系统高并发实战（数据篇）](https://toutiao.io/k/351f09q) ![](assets/new.png)  
 - [2022-04-27-EasyNLP开源｜中文NLP+大模型落地，EasyNLP-is-all-you-need](https://toutiao.io/k/z8zfcbh) ![](assets/new.png)  
 - [2022-04-27-开源过程最佳实践](https://toutiao.io/k/9bj18fe) ![](assets/new.png)  
-- [2022-04-27-推荐-微服务网关选型：5种主流-API-网关，哪个最香！](https://toutiao.io/k/jtyo70d) ![](assets/new.png)  
-- [2022-04-27-推荐-技术开发人员如何制定自己的OKR](https://toutiao.io/k/zq8oiet) ![](assets/new.png)  
 - [2022-04-27-推荐-别再说你不懂规则引擎了！](https://toutiao.io/k/edts5o5) ![](assets/new.png)  
+- [2022-04-27-推荐-技术开发人员如何制定自己的OKR](https://toutiao.io/k/zq8oiet) ![](assets/new.png)  
+- [2022-04-27-推荐-微服务网关选型：5种主流-API-网关，哪个最香！](https://toutiao.io/k/jtyo70d) ![](assets/new.png)  
 - [2022-04-27-推荐-万字长文，教你用go开发区块链应用](https://toutiao.io/k/3f3i7ey) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-04-27 13:53:36。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-04-27 14:16:38。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -70,6 +70,11 @@
 
 - [【张鑫旭-鑫空间-鑫生活】2022-04-27-小tips:-JS字体加载失败或完毕的检测](https://www.zhangxinxu.com/wordpress/2022/04/js-font-face-load/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-04-22-CSS实现滚动高度自动变小的粘滞效果](https://www.zhangxinxu.com/wordpress/2022/04/css-sticky-size-change/) 
+- [【V2EX】2022-04-27-Parallels-Desktop-17-企业批量激活渠道是什么鬼？](https://www.v2ex.com/t/849670) 
+- [【V2EX】2022-04-27-找工作机试教训:不要用-Python-刷题](https://www.v2ex.com/t/849669) 
+- [【V2EX】2022-04-27-今年这行情-双非还有机会投日常实习吗？](https://www.v2ex.com/t/849668) 
+- [【V2EX】2022-04-27-北京，下雨天跟堵车更配](https://www.v2ex.com/t/849667) 
+- [【V2EX】2022-04-27-2022-职业发展方向求建议，是否推荐转-IC-和芯片验证](https://www.v2ex.com/t/849666) 
 - [【V2EX】2022-04-27-大佬们，哪里有-iOS-的小外包或者远程吗？在家太焦虑了](https://www.v2ex.com/t/849665) 
 - [【V2EX】2022-04-27-坐标西安，备机用联通什么套餐比较划算？](https://www.v2ex.com/t/849664) 
 - [【V2EX】2022-04-27-江苏联通疑似遇到白名单墙](https://www.v2ex.com/t/849663) 
@@ -77,12 +82,10 @@
 - [【V2EX】2022-04-27-求推荐一个-Python-restful-框架](https://www.v2ex.com/t/849660) 
 - [【V2EX】2022-04-27-搞了一下午终于把-KVM-的虚拟机，完全放到-NAS-里了](https://www.v2ex.com/t/849659) 
 - [【V2EX】2022-04-27-求推荐-Linux-下-免费的-git-GUI-客户端](https://www.v2ex.com/t/849658) 
-- [【V2EX】2022-04-27-你们一个月给父母多少钱](https://www.v2ex.com/t/849657) 
 - [【V2EX】2022-04-27-求助各位高手，如今网上那种装修动画视频怎么做的？](https://www.v2ex.com/t/849656) 
 - [【V2EX】2022-04-27-为什么国外有很多开源组织，国内就很少了](https://www.v2ex.com/t/849655) 
 - [【V2EX】2022-04-27-gv-在-android-上没有触发振铃](https://www.v2ex.com/t/849654) 
 - [【V2EX】2022-04-27-无意间我可能找到了解决-M1-Mac-硬盘过度写入这个世界性难题的解决办法……](https://www.v2ex.com/t/849653) 
-- [【V2EX】2022-04-27-新-浪-误删了王-校-长-的-微-博](https://www.v2ex.com/t/849652) 
 - [【V2EX】2022-04-27-怎么长时间保持精力和注意力啊？](https://www.v2ex.com/t/849651) 
 - [【V2EX】2022-04-27-在电脑不登录微信的条件下，在-Android-手机上至少需要几步才能把文件传输到电脑上？](https://www.v2ex.com/t/849649) 
 - [【V2EX】2022-04-27-今天下午收到人生第一次“毕业通知”，居然有一些欣喜](https://www.v2ex.com/t/849648) 
@@ -109,10 +112,6 @@
 - [【V2EX】2022-04-27-成都，北京-华为部门直招，组织氛围轻松，导师一对一辅导，交付压力小，感兴趣的同学可以加微信](https://www.v2ex.com/t/849624) 
 - [【V2EX】2022-04-27-有好用的开源的-cms-系统吗](https://www.v2ex.com/t/849623) 
 - [【V2EX】2022-04-27-小白问题-axios-循环请求,响应时间不同,导致数据的排序紊乱](https://www.v2ex.com/t/849622) 
-- [【V2EX】2022-04-27-花旗金融怎么样？-GFT-部门](https://www.v2ex.com/t/849620) 
-- [【V2EX】2022-04-27-Solidity-工程师（4-周远程兼职/日薪-800-1200）](https://www.v2ex.com/t/849619) 
-- [【V2EX】2022-04-27-关于升本，我弃考了](https://www.v2ex.com/t/849618) 
-- [【V2EX】2022-04-27-上海，北京，杭州-字节跳动-本地生活业务招聘前端开发-&-实习生，真海量-HC](https://www.v2ex.com/t/849617) 
 - [【技术头条】2022-04-27-DR6018CV01-wifi6-Qualcomm-IPQ6010-IPQ6018-FAMILY-2T2R-2.5G-ETH-port-supporting-5G-www.wallystech.com](https://blogread.cn/news/go.php?idItem=15044&url=https%3A%2F%2Fwww.wallystech.com%2FRouterboard%2FDR6018CV01-wifi6-Qualcomm-IPQ6010-IPQ6018-FAMILY-2T2R-2.5G-ETH-port-supporting-5G-celluar-Modem-802-11AX-MU-MIMO-OFDMA-SFP.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-04-27-DR8072V01-wifi6-Qualcomm-IPQ8072A-4T4R-support-OpenWRT-802.11AX-supporting-10GE-port-10G-SFP-www.wallystech.com](https://blogread.cn/news/go.php?idItem=15043&url=https%3A%2F%2Fwww.wallystech.com%2FRouterboard%2FDR8072V01-wifi6-Qualcomm-IPQ8072A-4T4R-support-OpenWRT-802.11AX-supporting-10GE-port-10G-SFP.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-04-27-DR4019S-Qualcomm-IPQ4019-2T2R-Dual-Band-2-4GHz-5GHz-support-OpenWRT-802.11ac-Wave-2-www.wallystech.com](https://blogread.cn/news/go.php?idItem=15042&url=https%3A%2F%2Fwww.wallystech.com%2FRouterboard%2FDR4019S-Qualcomm-IPQ4019-2T2R-Dual-Band-2-4GHz-5GHz-support-OpenWRT-802.11ac-Wave-2.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -149,10 +148,10 @@
 - [【开发者头条】2022-04-27-不用GAN、VAE，谷歌发明视频生成的"扩散模型"，实现新SOTA](https://toutiao.io/k/kua2qm9) 
 - [【开发者头条】2022-04-27-开源过程最佳实践](https://toutiao.io/k/9bj18fe) 
 - [【开发者头条】2022-04-27-EasyNLP开源｜中文NLP+大模型落地，EasyNLP-is-all-you-need](https://toutiao.io/k/z8zfcbh) 
-- [【开发者头条】2022-04-27-推荐-技术开发人员如何制定自己的OKR](https://toutiao.io/k/zq8oiet) 
 - [【开发者头条】2022-04-27-推荐-微服务网关选型：5种主流-API-网关，哪个最香！](https://toutiao.io/k/jtyo70d) 
-- [【开发者头条】2022-04-27-推荐-万字长文，教你用go开发区块链应用](https://toutiao.io/k/3f3i7ey) 
 - [【开发者头条】2022-04-27-推荐-别再说你不懂规则引擎了！](https://toutiao.io/k/edts5o5) 
+- [【开发者头条】2022-04-27-推荐-技术开发人员如何制定自己的OKR](https://toutiao.io/k/zq8oiet) 
+- [【开发者头条】2022-04-27-推荐-万字长文，教你用go开发区块链应用](https://toutiao.io/k/3f3i7ey) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

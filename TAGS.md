@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-04-27 13:53:36。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-04-27 14:16:38。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -350,7 +350,6 @@
 
 
 
-- [【V2EX】上海，北京，杭州-字节跳动-本地生活业务招聘前端开发-&-实习生，真海量-HC](https://www.v2ex.com/t/849617)
 - [【开发者头条】面试官经常问的观察者模式如何实现~](https://toutiao.io/k/gpjpjm8)
 - [......【查看更多】......](./details/tags/job-interview.md)
 

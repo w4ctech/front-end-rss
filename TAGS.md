@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-04-27 11:38:19。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-04-27 12:24:19。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -175,6 +175,7 @@
 - [【武汉肺炎防疫全纪录(财新网)】张文宏：怎么看待疫苗接种偶发不良反应事件](https://opinion.caixin.com/m/2021-03-14/101675088.html)
 - [【武汉肺炎防疫全纪录(财新网)】香港再现数例疫苗接种严重异常事件-专家初判与疫苗无关](https://china.caixin.com/m/2021-03-08/101672619.html)
 - [【武汉肺炎防疫全纪录(财新网)】港府回应一63岁患者死亡事件-暂无法确定与疫苗相关](https://m.caixin.com/m/2021-03-03/101670052.html)
+- [【张鑫旭-鑫空间-鑫生活】小tips:-JS字体加载失败或完毕的检测](https://www.zhangxinxu.com/wordpress/2022/04/js-font-face-load/)
 - [【张鑫旭-鑫空间-鑫生活】CSS实现滚动高度自动变小的粘滞效果](https://www.zhangxinxu.com/wordpress/2022/04/css-sticky-size-change/)
 - [【张鑫旭-鑫空间-鑫生活】基于howler.js写了个音频播放器组件](https://www.zhangxinxu.com/wordpress/2022/03/howler-js-audio-player/)
 - [【张鑫旭-鑫空间-鑫生活】介绍8个和滚动相关的CSS属性](https://www.zhangxinxu.com/wordpress/2022/03/10-css-scroll-scrollbar/)
@@ -239,7 +240,6 @@
 - [【武汉肺炎防疫全纪录(财新网)】广州17岁男生在定点医院参加高考-特殊考场视频监考](https://m.caixin.com/m/2021-06-05/101723418.html)
 - [【武汉肺炎防疫全纪录(财新网)】林郑月娥率13高官直播接种科兴疫苗-复星疫苗预计周中到港](https://m.caixin.com/m/2021-02-22/101665724.html)
 - [【V2EX】直播预约｜论道原生：云原生时代的数据库（有互动抽奖环节）](https://www.v2ex.com/t/849598)
-- [【V2EX】上海字节跳动-飞书视频会议部门招聘-高级-C++研发工程师](https://www.v2ex.com/t/849588)
 - [【开发者头条】不用GAN、VAE，谷歌发明视频生成的"扩散模型"，实现新SOTA](https://toutiao.io/k/kua2qm9)
 - [......【查看更多】......](./details/tags/audio-video.md)
 
@@ -350,8 +350,6 @@
 
 - [【V2EX】上海，北京，杭州-字节跳动-本地生活业务招聘前端开发-&-实习生，真海量-HC](https://www.v2ex.com/t/849617)
 - [【V2EX】如何优雅请假出去面试？](https://www.v2ex.com/t/849603)
-- [【V2EX】招聘：-c++开发工程师：-global-pay](https://www.v2ex.com/t/849589)
-- [【V2EX】成都-熊猫博士-14-20K-中/高级-PHP-招聘](https://www.v2ex.com/t/849585)
 - [【开发者头条】面试官经常问的观察者模式如何实现~](https://toutiao.io/k/gpjpjm8)
 - [......【查看更多】......](./details/tags/job-interview.md)
 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-04-27 11:38:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-04-27 12:24:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1912,7 +1912,10 @@
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2022-03-21-ascent-override-descent-override-line-gap-override一锅端](https://www.zhangxinxu.com/wordpress/2022/03/css-ascent-override-descent/) 
-- [2022-02-04-HTML-inputmode与iOS-Android软键盘类型测试](https://www.zhangxinxu.com/wordpress/2022/02/html-inputmode-keyboard/) 
+- [2022-04-27-做了一个查询欧盟税号的工具](https://www.v2ex.com/t/849639) 
+- [2022-04-27-为什么大白的防护服里不加一套简单的水冷呢？](https://www.v2ex.com/t/849637) 
+- [2022-04-27-杭州今晚有多少人排队去做核酸？](https://www.v2ex.com/t/849636) 
+- [2022-04-27-对-Apple-order-delay-的一点疑问和思考](https://www.v2ex.com/t/849635) 
 - [2022-04-27-web3-or-大厂](https://www.v2ex.com/t/849634) 
 - [2022-04-27-iCloud-上传问题](https://www.v2ex.com/t/849633) 
 - [2022-04-27-印象里有用过一个-Python-的库，可以发送日志和消息到/tmp-下面的文件里，但是不记得库名字了](https://www.v2ex.com/t/849632) 
@@ -1963,8 +1966,8 @@
 - [2022-04-27-疫情之中，写给大家的34句话｜码农周刊VIP会员专属邮件周报-Vol.089](https://toutiao.io/k/4ov5ax8) 
 - [2022-04-27-强烈反对使用Spring封装的多线程类！](https://toutiao.io/k/kdmd1wy) 
 - [2022-04-27-实操：如何做文化建设](https://toutiao.io/k/as7mdps) 
-- [2022-04-27-RTC-Dev-Meetup丨语音处理在实时互动领域的技术实践和应用（第一场）](https://toutiao.io/k/9r2wc54) 
 - [2022-04-27-分布式链路追踪系统在中信银行的落地实践](https://toutiao.io/k/1z0lcsz) 
+- [2022-04-27-RTC-Dev-Meetup丨语音处理在实时互动领域的技术实践和应用（第一场）](https://toutiao.io/k/9r2wc54) 
 - [2022-04-27-【实践】快手推荐系统精排模型实践.pdf（附下载链接）](https://toutiao.io/k/46j5r3t) 
 - [2022-04-27-Spark-SQL在雪球的实践](https://toutiao.io/k/vtgu8wa) 
 - [2022-04-27-分库分表系列：分库分表的前世今生](https://toutiao.io/k/kb1daow) 
@@ -1972,7 +1975,7 @@
 - [2022-04-27-转转商品系统高并发实战（数据篇）](https://toutiao.io/k/351f09q) 
 - [2022-04-27-EasyNLP开源｜中文NLP+大模型落地，EasyNLP-is-all-you-need](https://toutiao.io/k/z8zfcbh) 
 - [2022-04-27-开源过程最佳实践](https://toutiao.io/k/9bj18fe) 
-- [2022-04-27-推荐-微服务网关选型：5种主流-API-网关，哪个最香！](https://toutiao.io/k/jtyo70d) 
 - [2022-04-27-推荐-万字长文，教你用go开发区块链应用](https://toutiao.io/k/3f3i7ey) 
-- [2022-04-27-推荐-别再说你不懂规则引擎了！](https://toutiao.io/k/edts5o5) 
+- [2022-04-27-推荐-微服务网关选型：5种主流-API-网关，哪个最香！](https://toutiao.io/k/jtyo70d) 
 - [2022-04-27-推荐-技术开发人员如何制定自己的OKR](https://toutiao.io/k/zq8oiet) 
+- [2022-04-27-推荐-别再说你不懂规则引擎了！](https://toutiao.io/k/edts5o5) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-04-27 11:38:19，:rocket: 更新条数: +2028， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-04-27 12:24:19，:rocket: 更新条数: +2029， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -316,6 +316,7 @@
 </summary>
 
 
+- [2022-04-27-小tips:-JS字体加载失败或完毕的检测](https://www.zhangxinxu.com/wordpress/2022/04/js-font-face-load/) ![](assets/new.png)  
 - [2022-04-22-CSS实现滚动高度自动变小的粘滞效果](https://www.zhangxinxu.com/wordpress/2022/04/css-sticky-size-change/) ![](assets/new.png)  
 - [2022-03-27-使用CSS-size-adjust和unicode-range改变任意文字尺寸](https://www.zhangxinxu.com/wordpress/2022/03/css-size-adjust-font-unicode-range/) ![](assets/new.png)  
 - [2022-03-21-ascent-override-descent-override-line-gap-override一锅端](https://www.zhangxinxu.com/wordpress/2022/03/css-ascent-override-descent/) ![](assets/new.png)  
@@ -325,7 +326,6 @@
 - [2022-02-25-被低估的border-image属性](https://www.zhangxinxu.com/wordpress/2022/02/css-border-image-tap-highlight/) ![](assets/new.png)  
 - [2022-02-20-CSS-overflow-clip-margin属性简介](https://www.zhangxinxu.com/wordpress/2022/02/css-overflow-clip-margin/) ![](assets/new.png)  
 - [2022-02-12-CSS-:not伪类选择器已支持复杂参数](https://www.zhangxinxu.com/wordpress/2022/02/css-not-pseudo-class-list-argument/) ![](assets/new.png)  
-- [2022-02-04-HTML-inputmode与iOS-Android软键盘类型测试](https://www.zhangxinxu.com/wordpress/2022/02/html-inputmode-keyboard/) ![](assets/new.png)  
 - [......【查看更多】......](./details/张鑫旭-鑫空间-鑫生活.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -491,6 +491,10 @@
 </summary>
 
 
+- [2022-04-27-做了一个查询欧盟税号的工具](https://www.v2ex.com/t/849639) ![](assets/new.png)  
+- [2022-04-27-为什么大白的防护服里不加一套简单的水冷呢？](https://www.v2ex.com/t/849637) ![](assets/new.png)  
+- [2022-04-27-杭州今晚有多少人排队去做核酸？](https://www.v2ex.com/t/849636) ![](assets/new.png)  
+- [2022-04-27-对-Apple-order-delay-的一点疑问和思考](https://www.v2ex.com/t/849635) ![](assets/new.png)  
 - [2022-04-27-web3-or-大厂](https://www.v2ex.com/t/849634) ![](assets/new.png)  
 - [2022-04-27-iCloud-上传问题](https://www.v2ex.com/t/849633) ![](assets/new.png)  
 - [2022-04-27-印象里有用过一个-Python-的库，可以发送日志和消息到/tmp-下面的文件里，但是不记得库名字了](https://www.v2ex.com/t/849632) ![](assets/new.png)  
@@ -507,10 +511,6 @@
 - [2022-04-27-花旗金融怎么样？-GFT-部门](https://www.v2ex.com/t/849620) ![](assets/new.png)  
 - [2022-04-27-Solidity-工程师（4-周远程兼职/日薪-800-1200）](https://www.v2ex.com/t/849619) ![](assets/new.png)  
 - [2022-04-27-关于升本，我弃考了](https://www.v2ex.com/t/849618) ![](assets/new.png)  
-- [2022-04-27-上海，北京，杭州-字节跳动-本地生活业务招聘前端开发-&-实习生，真海量-HC](https://www.v2ex.com/t/849617) ![](assets/new.png)  
-- [2022-04-27-还记得有位兄弟的创意：提供了一个在线以第一角色看路游各城市的站点，有人还记得么？](https://www.v2ex.com/t/849615) ![](assets/new.png)  
-- [2022-04-27-小白问题-axios-循环请求,响应时间不同,导致数据的排序紊乱](https://www.v2ex.com/t/849614) ![](assets/new.png)  
-- [2022-04-27-上海现在还有什么渠道能线上拿药，乙肝抗病毒药替诺福韦](https://www.v2ex.com/t/849613) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -556,23 +556,23 @@
 - [2022-04-27-疫情之中，写给大家的34句话｜码农周刊VIP会员专属邮件周报-Vol.089](https://toutiao.io/k/4ov5ax8) ![](assets/new.png)  
 - [2022-04-27-强烈反对使用Spring封装的多线程类！](https://toutiao.io/k/kdmd1wy) ![](assets/new.png)  
 - [2022-04-27-实操：如何做文化建设](https://toutiao.io/k/as7mdps) ![](assets/new.png)  
-- [2022-04-27-RTC-Dev-Meetup丨语音处理在实时互动领域的技术实践和应用（第一场）](https://toutiao.io/k/9r2wc54) ![](assets/new.png)  
 - [2022-04-27-分布式链路追踪系统在中信银行的落地实践](https://toutiao.io/k/1z0lcsz) ![](assets/new.png)  
+- [2022-04-27-RTC-Dev-Meetup丨语音处理在实时互动领域的技术实践和应用（第一场）](https://toutiao.io/k/9r2wc54) ![](assets/new.png)  
 - [2022-04-27-【实践】快手推荐系统精排模型实践.pdf（附下载链接）](https://toutiao.io/k/46j5r3t) ![](assets/new.png)  
 - [2022-04-27-Spark-SQL在雪球的实践](https://toutiao.io/k/vtgu8wa) ![](assets/new.png)  
-- [2022-04-27-面试官经常问的观察者模式如何实现~](https://toutiao.io/k/gpjpjm8) ![](assets/new.png)  
 - [2022-04-27-分库分表系列：分库分表的前世今生](https://toutiao.io/k/kb1daow) ![](assets/new.png)  
 - [2022-04-27-一文掌握-Docker-技术体系](https://toutiao.io/k/fj3ag78) ![](assets/new.png)  
+- [2022-04-27-面试官经常问的观察者模式如何实现~](https://toutiao.io/k/gpjpjm8) ![](assets/new.png)  
 - [2022-04-27-深入理解-Promise-之手把手教你写一版](https://toutiao.io/k/sj5f3bk) ![](assets/new.png)  
-- [2022-04-27-不用GAN、VAE，谷歌发明视频生成的"扩散模型"，实现新SOTA](https://toutiao.io/k/kua2qm9) ![](assets/new.png)  
 - [2022-04-27-通过-SingleFlight-模式学习-Go-并发编程](https://toutiao.io/k/gdau83t) ![](assets/new.png)  
+- [2022-04-27-不用GAN、VAE，谷歌发明视频生成的"扩散模型"，实现新SOTA](https://toutiao.io/k/kua2qm9) ![](assets/new.png)  
 - [2022-04-27-转转商品系统高并发实战（数据篇）](https://toutiao.io/k/351f09q) ![](assets/new.png)  
 - [2022-04-27-EasyNLP开源｜中文NLP+大模型落地，EasyNLP-is-all-you-need](https://toutiao.io/k/z8zfcbh) ![](assets/new.png)  
 - [2022-04-27-开源过程最佳实践](https://toutiao.io/k/9bj18fe) ![](assets/new.png)  
-- [2022-04-27-推荐-微服务网关选型：5种主流-API-网关，哪个最香！](https://toutiao.io/k/jtyo70d) ![](assets/new.png)  
 - [2022-04-27-推荐-万字长文，教你用go开发区块链应用](https://toutiao.io/k/3f3i7ey) ![](assets/new.png)  
-- [2022-04-27-推荐-别再说你不懂规则引擎了！](https://toutiao.io/k/edts5o5) ![](assets/new.png)  
+- [2022-04-27-推荐-微服务网关选型：5种主流-API-网关，哪个最香！](https://toutiao.io/k/jtyo70d) ![](assets/new.png)  
 - [2022-04-27-推荐-技术开发人员如何制定自己的OKR](https://toutiao.io/k/zq8oiet) ![](assets/new.png)  
+- [2022-04-27-推荐-别再说你不懂规则引擎了！](https://toutiao.io/k/edts5o5) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

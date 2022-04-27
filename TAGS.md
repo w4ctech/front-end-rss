@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-04-27 05:09:02。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-04-27 05:47:45。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -349,6 +349,7 @@
 
 
 
+- [【V2EX】为什么面试官喜欢问某一门语言（比如-go-或者-Python-）的内存回收机制？](https://www.v2ex.com/t/849548)
 - [【开发者头条】面试官经常问的观察者模式如何实现~](https://toutiao.io/k/gpjpjm8)
 - [......【查看更多】......](./details/tags/job-interview.md)
 

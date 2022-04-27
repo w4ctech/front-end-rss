@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-04-27 17:03:05，:rocket: 更新条数: +2027， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-04-27 17:47:31，:rocket: 更新条数: +2028， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-04-27-红米电视大半夜的自己发出声音吓我一跳](https://www.v2ex.com/t/849689) ![](assets/new.png)  
+- [2022-04-27-Google-voice-不能转移了，有办法弄个属于自己的新号吗？](https://www.v2ex.com/t/849688) ![](assets/new.png)  
 - [2022-04-27-JB-系（Pycharm）转-VS-写-C#，一些习惯改不过来求助](https://www.v2ex.com/t/849686) ![](assets/new.png)  
 - [2022-04-27-苹果自助维修服务正式在美国推出，用户可购买零件和工具自己维修-iPhone-12、13-系列和第三代-iPhone-SE](https://www.v2ex.com/t/849685) ![](assets/new.png)  
 - [2022-04-27-1Password-崩了？无法同步无法登录，好吓人](https://www.v2ex.com/t/849684) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-04-27-Linux-服务器转发流量用什么？](https://www.v2ex.com/t/849671) ![](assets/new.png)  
 - [2022-04-27-Parallels-Desktop-17-企业批量激活渠道是什么鬼？](https://www.v2ex.com/t/849670) ![](assets/new.png)  
 - [2022-04-27-找工作机试教训:不要用-Python-刷题](https://www.v2ex.com/t/849669) ![](assets/new.png)  
-- [2022-04-27-今年这行情-双非还有机会投日常实习吗？](https://www.v2ex.com/t/849668) ![](assets/new.png)  
-- [2022-04-27-北京，下雨天跟堵车更配](https://www.v2ex.com/t/849667) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -569,9 +569,9 @@
 - [2022-04-27-不用GAN、VAE，谷歌发明视频生成的"扩散模型"，实现新SOTA](https://toutiao.io/k/kua2qm9) ![](assets/new.png)  
 - [2022-04-27-EasyNLP开源｜中文NLP+大模型落地，EasyNLP-is-all-you-need](https://toutiao.io/k/z8zfcbh) ![](assets/new.png)  
 - [2022-04-27-开源过程最佳实践](https://toutiao.io/k/9bj18fe) ![](assets/new.png)  
-- [2022-04-27-推荐-别再说你不懂规则引擎了！](https://toutiao.io/k/edts5o5) ![](assets/new.png)  
 - [2022-04-27-推荐-技术开发人员如何制定自己的OKR](https://toutiao.io/k/zq8oiet) ![](assets/new.png)  
 - [2022-04-27-推荐-微服务网关选型：5种主流-API-网关，哪个最香！](https://toutiao.io/k/jtyo70d) ![](assets/new.png)  
+- [2022-04-27-推荐-别再说你不懂规则引擎了！](https://toutiao.io/k/edts5o5) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

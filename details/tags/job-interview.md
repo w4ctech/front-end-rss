@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-04-27 07:13:59。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-04-27 07:41:01。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -7,5 +7,7 @@
 
 
 
+- [2022-04-27-成都-熊猫博士-14-20K-中/高级-PHP-招聘](https://www.v2ex.com/t/849585) 
+- [2022-04-27-北京-Amazon-|-Mobile-Shopping-Foundation-Team-|-Android-/-iOS-SDE-|-WLB-|-WFH-|-一篇诚恳的招聘贴](https://www.v2ex.com/t/849584) 
 - [2022-04-27-为什么面试官喜欢问某一门语言（比如-go-或者-Python-）的内存回收机制？](https://www.v2ex.com/t/849548) 
 - [2022-04-27-面试官经常问的观察者模式如何实现~](https://toutiao.io/k/gpjpjm8) 

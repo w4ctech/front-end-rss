@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-04-27 17:47:31，:rocket: 更新条数: +2028， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-04-27 18:17:43，:rocket: 更新条数: +2028， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-04-27-用-audacity-裁剪了一段-22-秒的音频，导出来两个格式文件-wav-和-mp3,两个文件-wav-为-4MB,-MP3-位-500kb,我反复听没有听出来区别，请问各位大佬有什么不一样吗...](https://www.v2ex.com/t/849690) ![](assets/new.png)  
 - [2022-04-27-红米电视大半夜的自己发出声音吓我一跳](https://www.v2ex.com/t/849689) ![](assets/new.png)  
 - [2022-04-27-Google-voice-不能转移了，有办法弄个属于自己的新号吗？](https://www.v2ex.com/t/849688) ![](assets/new.png)  
 - [2022-04-27-JB-系（Pycharm）转-VS-写-C#，一些习惯改不过来求助](https://www.v2ex.com/t/849686) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-04-27-请假休息，结果楼上今天装修，烦](https://www.v2ex.com/t/849672) ![](assets/new.png)  
 - [2022-04-27-Linux-服务器转发流量用什么？](https://www.v2ex.com/t/849671) ![](assets/new.png)  
 - [2022-04-27-Parallels-Desktop-17-企业批量激活渠道是什么鬼？](https://www.v2ex.com/t/849670) ![](assets/new.png)  
-- [2022-04-27-找工作机试教训:不要用-Python-刷题](https://www.v2ex.com/t/849669) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

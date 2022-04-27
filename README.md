@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-04-27 09:42:07，:rocket: 更新条数: +2026， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-04-27 10:16:34，:rocket: 更新条数: +2027， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,10 @@
 </summary>
 
 
+- [2022-04-27-花旗金融怎么样？-GFT-部门](https://www.v2ex.com/t/849620) ![](assets/new.png)  
+- [2022-04-27-Solidity-工程师（4-周远程兼职/日薪-800-1200）](https://www.v2ex.com/t/849619) ![](assets/new.png)  
+- [2022-04-27-关于升本，我弃考了](https://www.v2ex.com/t/849618) ![](assets/new.png)  
+- [2022-04-27-上海，北京，杭州-字节跳动-本地生活业务招聘前端开发-&-实习生，真海量-HC](https://www.v2ex.com/t/849617) ![](assets/new.png)  
 - [2022-04-27-还记得有位兄弟的创意：提供了一个在线以第一角色看路游各城市的站点，有人还记得么？](https://www.v2ex.com/t/849615) ![](assets/new.png)  
 - [2022-04-27-小白问题-axios-循环请求,响应时间不同,导致数据的排序紊乱](https://www.v2ex.com/t/849614) ![](assets/new.png)  
 - [2022-04-27-上海现在还有什么渠道能线上拿药，乙肝抗病毒药替诺福韦](https://www.v2ex.com/t/849613) ![](assets/new.png)  
@@ -507,10 +511,6 @@
 - [2022-04-27-小伙伴们一般都是用云服务器来做什么的？](https://www.v2ex.com/t/849601) ![](assets/new.png)  
 - [2022-04-27-最近写了一个基于服务端异常重试平台平台，-web-页面可以直接监控重试数据，管控重试风暴](https://www.v2ex.com/t/849600) ![](assets/new.png)  
 - [2022-04-27-工作太难找了，难受](https://www.v2ex.com/t/849599) ![](assets/new.png)  
-- [2022-04-27-直播预约｜论道原生：云原生时代的数据库（有互动抽奖环节）](https://www.v2ex.com/t/849598) ![](assets/new.png)  
-- [2022-04-27-Optimism-这波空投搞得挺干脆的](https://www.v2ex.com/t/849597) ![](assets/new.png)  
-- [2022-04-27-各位大佬，我想试着剪个音效出来，如何用一个时长有限的声音（不到一分钟）剪出一个无限循环，但是没有跳跃感的音效？](https://www.v2ex.com/t/849596) ![](assets/new.png)  
-- [2022-04-27-如何花光-app-store-剩余的-5-块钱？](https://www.v2ex.com/t/849593) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -558,21 +558,21 @@
 - [2022-04-27-RTC-Dev-Meetup丨语音处理在实时互动领域的技术实践和应用（第一场）](https://toutiao.io/k/9r2wc54) ![](assets/new.png)  
 - [2022-04-27-实操：如何做文化建设](https://toutiao.io/k/as7mdps) ![](assets/new.png)  
 - [2022-04-27-【实践】快手推荐系统精排模型实践.pdf（附下载链接）](https://toutiao.io/k/46j5r3t) ![](assets/new.png)  
-- [2022-04-27-Spark-SQL在雪球的实践](https://toutiao.io/k/vtgu8wa) ![](assets/new.png)  
 - [2022-04-27-分布式链路追踪系统在中信银行的落地实践](https://toutiao.io/k/1z0lcsz) ![](assets/new.png)  
+- [2022-04-27-Spark-SQL在雪球的实践](https://toutiao.io/k/vtgu8wa) ![](assets/new.png)  
 - [2022-04-27-面试官经常问的观察者模式如何实现~](https://toutiao.io/k/gpjpjm8) ![](assets/new.png)  
 - [2022-04-27-分库分表系列：分库分表的前世今生](https://toutiao.io/k/kb1daow) ![](assets/new.png)  
 - [2022-04-27-一文掌握-Docker-技术体系](https://toutiao.io/k/fj3ag78) ![](assets/new.png)  
 - [2022-04-27-深入理解-Promise-之手把手教你写一版](https://toutiao.io/k/sj5f3bk) ![](assets/new.png)  
-- [2022-04-27-通过-SingleFlight-模式学习-Go-并发编程](https://toutiao.io/k/gdau83t) ![](assets/new.png)  
 - [2022-04-27-不用GAN、VAE，谷歌发明视频生成的"扩散模型"，实现新SOTA](https://toutiao.io/k/kua2qm9) ![](assets/new.png)  
+- [2022-04-27-通过-SingleFlight-模式学习-Go-并发编程](https://toutiao.io/k/gdau83t) ![](assets/new.png)  
 - [2022-04-27-转转商品系统高并发实战（数据篇）](https://toutiao.io/k/351f09q) ![](assets/new.png)  
 - [2022-04-27-EasyNLP开源｜中文NLP+大模型落地，EasyNLP-is-all-you-need](https://toutiao.io/k/z8zfcbh) ![](assets/new.png)  
 - [2022-04-27-开源过程最佳实践](https://toutiao.io/k/9bj18fe) ![](assets/new.png)  
 - [2022-04-27-推荐-别再说你不懂规则引擎了！](https://toutiao.io/k/edts5o5) ![](assets/new.png)  
-- [2022-04-27-推荐-技术开发人员如何制定自己的OKR](https://toutiao.io/k/zq8oiet) ![](assets/new.png)  
 - [2022-04-27-推荐-微服务网关选型：5种主流-API-网关，哪个最香！](https://toutiao.io/k/jtyo70d) ![](assets/new.png)  
 - [2022-04-27-推荐-万字长文，教你用go开发区块链应用](https://toutiao.io/k/3f3i7ey) ![](assets/new.png)  
+- [2022-04-27-推荐-技术开发人员如何制定自己的OKR](https://toutiao.io/k/zq8oiet) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-04-27 09:42:07。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-04-27 10:16:34。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -348,6 +348,7 @@
 
 
 
+- [【V2EX】上海，北京，杭州-字节跳动-本地生活业务招聘前端开发-&-实习生，真海量-HC](https://www.v2ex.com/t/849617)
 - [【V2EX】如何优雅请假出去面试？](https://www.v2ex.com/t/849603)
 - [【V2EX】招聘：-c++开发工程师：-global-pay](https://www.v2ex.com/t/849589)
 - [【V2EX】成都-熊猫博士-14-20K-中/高级-PHP-招聘](https://www.v2ex.com/t/849585)

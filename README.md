@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-04-27 23:14:17，:rocket: 更新条数: +2013， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-04-27 23:43:39，:rocket: 更新条数: +2013， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-04-27-有没有-2000-内不压耳朵疼的音质差不多点的耳机推荐？](https://www.v2ex.com/t/849697) ![](assets/new.png)  
 - [2022-04-27-为什么中国还有那么多-iPad-App-不支持横屏模式？](https://www.v2ex.com/t/849695) ![](assets/new.png)  
 - [2022-04-27-大家的-Mx-Master-3-在-Mac-中的都是怎么设置的？](https://www.v2ex.com/t/849694) ![](assets/new.png)  
 - [2022-04-27-2022-年-realforce-还值得买吗？](https://www.v2ex.com/t/849693) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-04-27-最近-FaceTime-通话总是经常中断，各位-V-友有遇到这个情况吗？](https://www.v2ex.com/t/849677) ![](assets/new.png)  
 - [2022-04-27-有没有那种图文变视频的-Tool？](https://www.v2ex.com/t/849676) ![](assets/new.png)  
 - [2022-04-27-米哈游-2022-年-4-月-最新招聘信息来啦！](https://www.v2ex.com/t/849675) ![](assets/new.png)  
-- [2022-04-27-想简单聊一下笔记本的显卡切换](https://www.v2ex.com/t/849674) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -554,9 +554,9 @@
 
 
 - [2022-04-27-码农周刊---每周五发送，欢迎订阅！打破「信息茧房」，不妨从这份Newsletter开始！](https://toutiao.io/k/t49l6og) ![](assets/new.png)  
-- [2022-04-27-推荐-微服务网关选型：5种主流-API-网关，哪个最香！](https://toutiao.io/k/jtyo70d) ![](assets/new.png)  
-- [2022-04-27-推荐-别再说你不懂规则引擎了！](https://toutiao.io/k/edts5o5) ![](assets/new.png)  
 - [2022-04-27-推荐-技术开发人员如何制定自己的OKR](https://toutiao.io/k/zq8oiet) ![](assets/new.png)  
+- [2022-04-27-推荐-别再说你不懂规则引擎了！](https://toutiao.io/k/edts5o5) ![](assets/new.png)  
+- [2022-04-27-推荐-微服务网关选型：5种主流-API-网关，哪个最香！](https://toutiao.io/k/jtyo70d) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

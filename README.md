@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-04-27 14:16:38，:rocket: 更新条数: +2028， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-04-27 14:38:48，:rocket: 更新条数: +2029， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-04-27-请假休息，结果楼上今天装修，烦](https://www.v2ex.com/t/849672) ![](assets/new.png)  
+- [2022-04-27-Linux-服务器转发流量用什么？](https://www.v2ex.com/t/849671) ![](assets/new.png)  
 - [2022-04-27-Parallels-Desktop-17-企业批量激活渠道是什么鬼？](https://www.v2ex.com/t/849670) ![](assets/new.png)  
 - [2022-04-27-找工作机试教训:不要用-Python-刷题](https://www.v2ex.com/t/849669) ![](assets/new.png)  
 - [2022-04-27-今年这行情-双非还有机会投日常实习吗？](https://www.v2ex.com/t/849668) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-04-27-无意间我可能找到了解决-M1-Mac-硬盘过度写入这个世界性难题的解决办法……](https://www.v2ex.com/t/849653) ![](assets/new.png)  
 - [2022-04-27-怎么长时间保持精力和注意力啊？](https://www.v2ex.com/t/849651) ![](assets/new.png)  
 - [2022-04-27-在电脑不登录微信的条件下，在-Android-手机上至少需要几步才能把文件传输到电脑上？](https://www.v2ex.com/t/849649) ![](assets/new.png)  
-- [2022-04-27-今天下午收到人生第一次“毕业通知”，居然有一些欣喜](https://www.v2ex.com/t/849648) ![](assets/new.png)  
-- [2022-04-27-GitHub-markdown-中的-image-有办法实现圆角吗？似乎无法应用-border-radius](https://www.v2ex.com/t/849647) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -570,9 +570,9 @@
 - [2022-04-27-开源过程最佳实践](https://toutiao.io/k/9bj18fe) ![](assets/new.png)  
 - [2022-04-27-EasyNLP开源｜中文NLP+大模型落地，EasyNLP-is-all-you-need](https://toutiao.io/k/z8zfcbh) ![](assets/new.png)  
 - [2022-04-27-推荐-微服务网关选型：5种主流-API-网关，哪个最香！](https://toutiao.io/k/jtyo70d) ![](assets/new.png)  
-- [2022-04-27-推荐-别再说你不懂规则引擎了！](https://toutiao.io/k/edts5o5) ![](assets/new.png)  
-- [2022-04-27-推荐-技术开发人员如何制定自己的OKR](https://toutiao.io/k/zq8oiet) ![](assets/new.png)  
 - [2022-04-27-推荐-万字长文，教你用go开发区块链应用](https://toutiao.io/k/3f3i7ey) ![](assets/new.png)  
+- [2022-04-27-推荐-技术开发人员如何制定自己的OKR](https://toutiao.io/k/zq8oiet) ![](assets/new.png)  
+- [2022-04-27-推荐-别再说你不懂规则引擎了！](https://toutiao.io/k/edts5o5) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-04-27 22:14:47，:rocket: 更新条数: +2028， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-04-27 22:41:10，:rocket: 更新条数: +2013， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-04-27-为什么中国还有那么多-iPad-App-不支持横屏模式？](https://www.v2ex.com/t/849695) ![](assets/new.png)  
 - [2022-04-27-大家的-Mx-Master-3-在-Mac-中的都是怎么设置的？](https://www.v2ex.com/t/849694) ![](assets/new.png)  
 - [2022-04-27-2022-年-realforce-还值得买吗？](https://www.v2ex.com/t/849693) ![](assets/new.png)  
 - [2022-04-27-git.io-即将停止服务，我们提供免费的旧网址替换服务](https://www.v2ex.com/t/849692) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-04-27-有没有那种图文变视频的-Tool？](https://www.v2ex.com/t/849676) ![](assets/new.png)  
 - [2022-04-27-米哈游-2022-年-4-月-最新招聘信息来啦！](https://www.v2ex.com/t/849675) ![](assets/new.png)  
 - [2022-04-27-想简单聊一下笔记本的显卡切换](https://www.v2ex.com/t/849674) ![](assets/new.png)  
-- [2022-04-27-手动导入-iPhone-的本地音乐能否设置实时同步歌词？](https://www.v2ex.com/t/849673) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -553,25 +553,10 @@
 </summary>
 
 
-- [2022-04-27-疫情之中，写给大家的34句话｜码农周刊VIP会员专属邮件周报-Vol.089](https://toutiao.io/k/4ov5ax8) ![](assets/new.png)  
-- [2022-04-27-强烈反对使用Spring封装的多线程类！](https://toutiao.io/k/kdmd1wy) ![](assets/new.png)  
-- [2022-04-27-实操：如何做文化建设](https://toutiao.io/k/as7mdps) ![](assets/new.png)  
-- [2022-04-27-分布式链路追踪系统在中信银行的落地实践](https://toutiao.io/k/1z0lcsz) ![](assets/new.png)  
-- [2022-04-27-【实践】快手推荐系统精排模型实践.pdf（附下载链接）](https://toutiao.io/k/46j5r3t) ![](assets/new.png)  
-- [2022-04-27-RTC-Dev-Meetup丨语音处理在实时互动领域的技术实践和应用（第一场）](https://toutiao.io/k/9r2wc54) ![](assets/new.png)  
-- [2022-04-27-Spark-SQL在雪球的实践](https://toutiao.io/k/vtgu8wa) ![](assets/new.png)  
-- [2022-04-27-一文掌握-Docker-技术体系](https://toutiao.io/k/fj3ag78) ![](assets/new.png)  
-- [2022-04-27-分库分表系列：分库分表的前世今生](https://toutiao.io/k/kb1daow) ![](assets/new.png)  
-- [2022-04-27-面试官经常问的观察者模式如何实现~](https://toutiao.io/k/gpjpjm8) ![](assets/new.png)  
-- [2022-04-27-转转商品系统高并发实战（数据篇）](https://toutiao.io/k/351f09q) ![](assets/new.png)  
-- [2022-04-27-深入理解-Promise-之手把手教你写一版](https://toutiao.io/k/sj5f3bk) ![](assets/new.png)  
-- [2022-04-27-通过-SingleFlight-模式学习-Go-并发编程](https://toutiao.io/k/gdau83t) ![](assets/new.png)  
-- [2022-04-27-不用GAN、VAE，谷歌发明视频生成的"扩散模型"，实现新SOTA](https://toutiao.io/k/kua2qm9) ![](assets/new.png)  
-- [2022-04-27-EasyNLP开源｜中文NLP+大模型落地，EasyNLP-is-all-you-need](https://toutiao.io/k/z8zfcbh) ![](assets/new.png)  
-- [2022-04-27-开源过程最佳实践](https://toutiao.io/k/9bj18fe) ![](assets/new.png)  
+- [2022-04-27-码农周刊---每周五发送，欢迎订阅！打破「信息茧房」，不妨从这份Newsletter开始！](https://toutiao.io/k/t49l6og) ![](assets/new.png)  
 - [2022-04-27-推荐-微服务网关选型：5种主流-API-网关，哪个最香！](https://toutiao.io/k/jtyo70d) ![](assets/new.png)  
-- [2022-04-27-推荐-别再说你不懂规则引擎了！](https://toutiao.io/k/edts5o5) ![](assets/new.png)  
 - [2022-04-27-推荐-技术开发人员如何制定自己的OKR](https://toutiao.io/k/zq8oiet) ![](assets/new.png)  
+- [2022-04-27-推荐-别再说你不懂规则引擎了！](https://toutiao.io/k/edts5o5) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

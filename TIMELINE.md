@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-04-27 15:16:14。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-04-27 15:45:48。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -70,6 +70,11 @@
 
 - [【张鑫旭-鑫空间-鑫生活】2022-04-27-小tips:-JS字体加载失败或完毕的检测](https://www.zhangxinxu.com/wordpress/2022/04/js-font-face-load/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-04-22-CSS实现滚动高度自动变小的粘滞效果](https://www.zhangxinxu.com/wordpress/2022/04/css-sticky-size-change/) 
+- [【V2EX】2022-04-27-youtube-画中画功能怎么才能出来](https://www.v2ex.com/t/849679) 
+- [【V2EX】2022-04-27-请教团队合作的正确姿势](https://www.v2ex.com/t/849678) 
+- [【V2EX】2022-04-27-最近-FaceTime-通话总是经常中断，各位-V-友有遇到这个情况吗？](https://www.v2ex.com/t/849677) 
+- [【V2EX】2022-04-27-有没有那种图文变视频的-Tool？](https://www.v2ex.com/t/849676) 
+- [【V2EX】2022-04-27-米哈游-2022-年-4-月-最新招聘信息来啦！](https://www.v2ex.com/t/849675) 
 - [【V2EX】2022-04-27-想简单聊一下笔记本的显卡切换](https://www.v2ex.com/t/849674) 
 - [【V2EX】2022-04-27-手动导入-iPhone-的本地音乐能否设置实时同步歌词？](https://www.v2ex.com/t/849673) 
 - [【V2EX】2022-04-27-请假休息，结果楼上今天装修，烦](https://www.v2ex.com/t/849672) 
@@ -108,11 +113,6 @@
 - [【V2EX】2022-04-27-印象里有用过一个-Python-的库，可以发送日志和消息到/tmp-下面的文件里，但是不记得库名字了](https://www.v2ex.com/t/849632) 
 - [【V2EX】2022-04-27-一条推文显示有-7-条回复，其他人点进去看只有-6-条回复是咋回事](https://www.v2ex.com/t/849631) 
 - [【V2EX】2022-04-27-B-站的产品经理用的鼠标是不是没有滚轮的？](https://www.v2ex.com/t/849630) 
-- [【V2EX】2022-04-27-字节跳动北京上海-校招/社招/实习](https://www.v2ex.com/t/849629) 
-- [【V2EX】2022-04-27-求推荐-500~1000-元有线入耳式耳塞](https://www.v2ex.com/t/849628) 
-- [【V2EX】2022-04-27-学习-Vert.x-的一些疑惑](https://www.v2ex.com/t/849627) 
-- [【V2EX】2022-04-27-如何快速购得一个域名并绑定-ip](https://www.v2ex.com/t/849626) 
-- [【V2EX】2022-04-27-安卓-Tasker-如何建立一个悬浮图片？](https://www.v2ex.com/t/849625) 
 - [【技术头条】2022-04-27-DR6018CV01-wifi6-Qualcomm-IPQ6010-IPQ6018-FAMILY-2T2R-2.5G-ETH-port-supporting-5G-www.wallystech.com](https://blogread.cn/news/go.php?idItem=15044&url=https%3A%2F%2Fwww.wallystech.com%2FRouterboard%2FDR6018CV01-wifi6-Qualcomm-IPQ6010-IPQ6018-FAMILY-2T2R-2.5G-ETH-port-supporting-5G-celluar-Modem-802-11AX-MU-MIMO-OFDMA-SFP.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-04-27-DR8072V01-wifi6-Qualcomm-IPQ8072A-4T4R-support-OpenWRT-802.11AX-supporting-10GE-port-10G-SFP-www.wallystech.com](https://blogread.cn/news/go.php?idItem=15043&url=https%3A%2F%2Fwww.wallystech.com%2FRouterboard%2FDR8072V01-wifi6-Qualcomm-IPQ8072A-4T4R-support-OpenWRT-802.11AX-supporting-10GE-port-10G-SFP.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-04-27-DR4019S-Qualcomm-IPQ4019-2T2R-Dual-Band-2-4GHz-5GHz-support-OpenWRT-802.11ac-Wave-2-www.wallystech.com](https://blogread.cn/news/go.php?idItem=15042&url=https%3A%2F%2Fwww.wallystech.com%2FRouterboard%2FDR4019S-Qualcomm-IPQ4019-2T2R-Dual-Band-2-4GHz-5GHz-support-OpenWRT-802.11ac-Wave-2.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -140,8 +140,8 @@
 - [【开发者头条】2022-04-27-【实践】快手推荐系统精排模型实践.pdf（附下载链接）](https://toutiao.io/k/46j5r3t) 
 - [【开发者头条】2022-04-27-RTC-Dev-Meetup丨语音处理在实时互动领域的技术实践和应用（第一场）](https://toutiao.io/k/9r2wc54) 
 - [【开发者头条】2022-04-27-Spark-SQL在雪球的实践](https://toutiao.io/k/vtgu8wa) 
-- [【开发者头条】2022-04-27-分库分表系列：分库分表的前世今生](https://toutiao.io/k/kb1daow) 
 - [【开发者头条】2022-04-27-一文掌握-Docker-技术体系](https://toutiao.io/k/fj3ag78) 
+- [【开发者头条】2022-04-27-分库分表系列：分库分表的前世今生](https://toutiao.io/k/kb1daow) 
 - [【开发者头条】2022-04-27-面试官经常问的观察者模式如何实现~](https://toutiao.io/k/gpjpjm8) 
 - [【开发者头条】2022-04-27-转转商品系统高并发实战（数据篇）](https://toutiao.io/k/351f09q) 
 - [【开发者头条】2022-04-27-深入理解-Promise-之手把手教你写一版](https://toutiao.io/k/sj5f3bk) 
@@ -150,9 +150,9 @@
 - [【开发者头条】2022-04-27-开源过程最佳实践](https://toutiao.io/k/9bj18fe) 
 - [【开发者头条】2022-04-27-EasyNLP开源｜中文NLP+大模型落地，EasyNLP-is-all-you-need](https://toutiao.io/k/z8zfcbh) 
 - [【开发者头条】2022-04-27-推荐-别再说你不懂规则引擎了！](https://toutiao.io/k/edts5o5) 
-- [【开发者头条】2022-04-27-推荐-技术开发人员如何制定自己的OKR](https://toutiao.io/k/zq8oiet) 
 - [【开发者头条】2022-04-27-推荐-万字长文，教你用go开发区块链应用](https://toutiao.io/k/3f3i7ey) 
 - [【开发者头条】2022-04-27-推荐-微服务网关选型：5种主流-API-网关，哪个最香！](https://toutiao.io/k/jtyo70d) 
+- [【开发者头条】2022-04-27-推荐-技术开发人员如何制定自己的OKR](https://toutiao.io/k/zq8oiet) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

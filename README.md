@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-04-27 15:16:14，:rocket: 更新条数: +2029， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-04-27 15:45:48，:rocket: 更新条数: +2029， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,11 @@
 </summary>
 
 
+- [2022-04-27-youtube-画中画功能怎么才能出来](https://www.v2ex.com/t/849679) ![](assets/new.png)  
+- [2022-04-27-请教团队合作的正确姿势](https://www.v2ex.com/t/849678) ![](assets/new.png)  
+- [2022-04-27-最近-FaceTime-通话总是经常中断，各位-V-友有遇到这个情况吗？](https://www.v2ex.com/t/849677) ![](assets/new.png)  
+- [2022-04-27-有没有那种图文变视频的-Tool？](https://www.v2ex.com/t/849676) ![](assets/new.png)  
+- [2022-04-27-米哈游-2022-年-4-月-最新招聘信息来啦！](https://www.v2ex.com/t/849675) ![](assets/new.png)  
 - [2022-04-27-想简单聊一下笔记本的显卡切换](https://www.v2ex.com/t/849674) ![](assets/new.png)  
 - [2022-04-27-手动导入-iPhone-的本地音乐能否设置实时同步歌词？](https://www.v2ex.com/t/849673) ![](assets/new.png)  
 - [2022-04-27-请假休息，结果楼上今天装修，烦](https://www.v2ex.com/t/849672) ![](assets/new.png)  
@@ -506,11 +511,6 @@
 - [2022-04-27-iPad2018，-B-站和知乎闪退，是-iPad-的原因还是这两个-APP-的原因](https://www.v2ex.com/t/849661) ![](assets/new.png)  
 - [2022-04-27-求推荐一个-Python-restful-框架](https://www.v2ex.com/t/849660) ![](assets/new.png)  
 - [2022-04-27-搞了一下午终于把-KVM-的虚拟机，完全放到-NAS-里了](https://www.v2ex.com/t/849659) ![](assets/new.png)  
-- [2022-04-27-求推荐-Linux-下-免费的-git-GUI-客户端](https://www.v2ex.com/t/849658) ![](assets/new.png)  
-- [2022-04-27-求助各位高手，如今网上那种装修动画视频怎么做的？](https://www.v2ex.com/t/849656) ![](assets/new.png)  
-- [2022-04-27-为什么国外有很多开源组织，国内就很少了](https://www.v2ex.com/t/849655) ![](assets/new.png)  
-- [2022-04-27-gv-在-android-上没有触发振铃](https://www.v2ex.com/t/849654) ![](assets/new.png)  
-- [2022-04-27-无意间我可能找到了解决-M1-Mac-硬盘过度写入这个世界性难题的解决办法……](https://www.v2ex.com/t/849653) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -560,8 +560,8 @@
 - [2022-04-27-【实践】快手推荐系统精排模型实践.pdf（附下载链接）](https://toutiao.io/k/46j5r3t) ![](assets/new.png)  
 - [2022-04-27-RTC-Dev-Meetup丨语音处理在实时互动领域的技术实践和应用（第一场）](https://toutiao.io/k/9r2wc54) ![](assets/new.png)  
 - [2022-04-27-Spark-SQL在雪球的实践](https://toutiao.io/k/vtgu8wa) ![](assets/new.png)  
-- [2022-04-27-分库分表系列：分库分表的前世今生](https://toutiao.io/k/kb1daow) ![](assets/new.png)  
 - [2022-04-27-一文掌握-Docker-技术体系](https://toutiao.io/k/fj3ag78) ![](assets/new.png)  
+- [2022-04-27-分库分表系列：分库分表的前世今生](https://toutiao.io/k/kb1daow) ![](assets/new.png)  
 - [2022-04-27-面试官经常问的观察者模式如何实现~](https://toutiao.io/k/gpjpjm8) ![](assets/new.png)  
 - [2022-04-27-转转商品系统高并发实战（数据篇）](https://toutiao.io/k/351f09q) ![](assets/new.png)  
 - [2022-04-27-深入理解-Promise-之手把手教你写一版](https://toutiao.io/k/sj5f3bk) ![](assets/new.png)  
@@ -570,9 +570,9 @@
 - [2022-04-27-开源过程最佳实践](https://toutiao.io/k/9bj18fe) ![](assets/new.png)  
 - [2022-04-27-EasyNLP开源｜中文NLP+大模型落地，EasyNLP-is-all-you-need](https://toutiao.io/k/z8zfcbh) ![](assets/new.png)  
 - [2022-04-27-推荐-别再说你不懂规则引擎了！](https://toutiao.io/k/edts5o5) ![](assets/new.png)  
-- [2022-04-27-推荐-技术开发人员如何制定自己的OKR](https://toutiao.io/k/zq8oiet) ![](assets/new.png)  
 - [2022-04-27-推荐-万字长文，教你用go开发区块链应用](https://toutiao.io/k/3f3i7ey) ![](assets/new.png)  
 - [2022-04-27-推荐-微服务网关选型：5种主流-API-网关，哪个最香！](https://toutiao.io/k/jtyo70d) ![](assets/new.png)  
+- [2022-04-27-推荐-技术开发人员如何制定自己的OKR](https://toutiao.io/k/zq8oiet) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

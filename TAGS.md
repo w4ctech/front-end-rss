@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-04-27 23:43:39。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-04-28 01:20:36。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -88,6 +88,8 @@
 
 
 - [【武汉肺炎防疫全纪录(财新网)】韩国拟升级首尔疫情管控-法国专业机构建议强制接种疫苗｜大流行手记（7月10日）](https://m.caixin.com/m/2021-07-11/101738786.html)
+- [【V2EX】若尔当标准型构建相似矩阵的广义特征向量怎么求？](https://www.v2ex.com/t/849704)
+- [【开发者头条】干货-|-字节跳动构建Data-Catalog数据目录系统的实践（下）](https://toutiao.io/k/1wa5kiy)
 - [......【查看更多】......](./details/tags/pack-build.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -201,7 +203,6 @@
 - [【张鑫旭-鑫空间-鑫生活】被低估的border-image属性](https://www.zhangxinxu.com/wordpress/2022/02/css-border-image-tap-highlight/)
 - [【张鑫旭-鑫空间-鑫生活】CSS-overflow-clip-margin属性简介](https://www.zhangxinxu.com/wordpress/2022/02/css-overflow-clip-margin/)
 - [【张鑫旭-鑫空间-鑫生活】CSS-:not伪类选择器已支持复杂参数](https://www.zhangxinxu.com/wordpress/2022/02/css-not-pseudo-class-list-argument/)
-- [【V2EX】求助各位高手，如今网上那种装修动画视频怎么做的？](https://www.v2ex.com/t/849656)
 - [【技术头条】DRAP531-Indoor-wireless-AP-Qualcomm-QCA9531-support-MU-MIMO-2T2R-2.4G-high-power-30dbm-2-GETH-port.-www.wallystech.com](https://blogread.cn/news/go.php?idItem=15040&url=https%3A%2F%2Fwww.wallystech.com%2FIndustrial_Wireless_AP%2FDRAP531-Indoor-wireless-AP-Qualcomm-QCA9531-support-MU-MIMO-2T2R-2.4G-high-power-30dbm-2-GETH-port.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [......【查看更多】......](./details/tags/css.md)
 
@@ -219,7 +220,6 @@
 
 
 
-- [【V2EX】求推荐-Linux-下-免费的-git-GUI-客户端](https://www.v2ex.com/t/849658)
 - [【技术头条】Antenna/DR24-RUBBER-ANTENNA-2.4G-SMA-SATA-COMINATION-3DBI-6DBI-www.wallystech.com](https://blogread.cn/news/go.php?idItem=15036&url=https%3A%2F%2Fwww.wallystech.com%2FAntenna%2FDR24-RUBBER-ANTENNA-2.4G-SMA-SATA-COMINATION-3DBI-6DBI.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [......【查看更多】......](./details/tags/canvas-image.md)
 
@@ -241,6 +241,7 @@
 - [【武汉肺炎防疫全纪录(财新网)】林郑月娥率13高官直播接种科兴疫苗-复星疫苗预计周中到港](https://m.caixin.com/m/2021-02-22/101665724.html)
 - [【V2EX】用-audacity-裁剪了一段-22-秒的音频，导出来两个格式文件-wav-和-mp3,两个文件-wav-为-4MB,-MP3-位-500kb,我反复听没有听出来区别，请问各位大佬有什么不一样吗...](https://www.v2ex.com/t/849690)
 - [【V2EX】有没有那种图文变视频的-Tool？](https://www.v2ex.com/t/849676)
+- [【开发者头条】VLM：Meta-AI-&-CMU提出任务无关视频语言模型视频理解预训练VLM，代码已开源！ACL-2021](https://toutiao.io/k/dwtl4zz)
 - [......【查看更多】......](./details/tags/audio-video.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -280,6 +281,7 @@
 - [【武汉肺炎防疫全纪录(财新网)】腺病毒新冠疫苗引安全忧虑-康希诺称未发现血栓病例](https://m.caixin.com/m/2021-04-14/101691086.html)
 - [【武汉肺炎防疫全纪录(财新网)】解药|新冠mRNA疫苗安全性有哪些挑战？](https://m.caixin.com/m/2021-01-08/101648043.html)
 - [【武汉肺炎防疫全纪录(财新网)】大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html)
+- [【V2EX】微服务方案中-Socket-和-WebSocket-如果实现多实例负载呢?](https://www.v2ex.com/t/849702)
 - [【技术头条】CodeReview价值百万！！！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15026&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493913%26amp%3Bidx%3D1%26amp%3Bsn%3D52ab2ee1a58002e7f706d28ab3946b5b%26amp%3Bchksm%3Dfa3f0842cd488154598f87855b8ecae16c1ec58d62b0f81a16b3523e9a8c08275c94b5762032%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [......【查看更多】......](./details/tags/browser.md)
 
@@ -297,7 +299,9 @@
 
 
 
+- [【V2EX】学校的-GPU-分配问题](https://www.v2ex.com/t/849711)
 - [【V2EX】大家的-Mx-Master-3-在-Mac-中的都是怎么设置的？](https://www.v2ex.com/t/849694)
+- [【开发者头条】Go即将引入知名快速排序算法](https://toutiao.io/k/n38il51)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -314,7 +318,6 @@
 
 
 
-- [【V2EX】求推荐一个-Python-restful-框架](https://www.v2ex.com/t/849660)
 - [......【查看更多】......](./details/tags/server.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

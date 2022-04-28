@@ -11,11 +11,11 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-04-28 01:20:36，:rocket: 更新条数: +2019， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-04-28 03:59:22，:rocket: 更新条数: +10， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
@@ -51,9 +51,9 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
-- [技术头条](#技术头条)![](assets/dot.png)   
-- [开发者头条](#开发者头条)![](assets/dot.png)   
+- [V2EX](#v2ex)  
+- [技术头条](#技术头条)  
+- [开发者头条](#开发者头条)  
 - [安全热点](#安全热点)  
 - [物联网智库](#物联网智库)  
 
@@ -65,26 +65,6 @@
 </summary>
 
 
-- [2022-03-11-新冠肺炎防疫全纪录（实时更新中）](https://mappv5.caixin.com/m_topic_detail/1696.html) ![](assets/new.png)  
-- [2022-03-10-吉林一校园现聚集性疫情-党委书记被免](https://m.caixin.com/m/2022-03-10/101853899.html) ![](assets/new.png)  
-- [2022-03-10-广州新增1例新冠确诊病例-疾控中心专家称防控形势严峻](https://m.caixin.com/m/2022-03-10/101853835.html) ![](assets/new.png)  
-- [2022-03-10-【境内疫情观察】全国新增402例本土病例、435例本土无症状感染者（3月9日）](https://database.caixin.com/m/2022-03-10/101853636.html) ![](assets/new.png)  
-- [2022-03-10-香港调整抗疫策略-辉瑞口服药确定在华合作伙伴｜大流行手记（3月9日）](https://m.caixin.com/m/2022-03-10/101853553.html) ![](assets/new.png)  
-- [2022-03-10-新加坡官员：本地奥密克戎疫情已过峰值开始消退](https://m.caixin.com/m/2022-03-10/101853827.html) ![](assets/new.png)  
-- [2022-03-09-一小学被列为中风险地区-上海加强线上教学资源](https://m.caixin.com/m/2022-03-09/101853329.html) ![](assets/new.png)  
-- [2022-03-09-香港调整抗疫策略-全民检测或将推迟](https://m.caixin.com/m/2022-03-09/101853319.html) ![](assets/new.png)  
-- [2022-03-09-字节跳动办公区现确诊病例-公司深夜组织员工回家](https://companies.caixin.com/m/2022-03-09/101852947.html) ![](assets/new.png)  
-- [2022-03-09-【境内疫情观察】全国新增322例本土无症状感染者（3月8日）](https://database.caixin.com/m/2022-03-09/101853141.html) ![](assets/new.png)  
-- [2022-03-09-研究称COVID-19或能导致脑异常-马来西亚4月将重新开放边境｜大流行手记（3月8日）](https://m.caixin.com/m/2022-03-09/101853036.html) ![](assets/new.png)  
-- [2022-03-08-北京新增7例本土确诊-一人曾赴上海团建](https://m.caixin.com/m/2022-03-08/101852668.html) ![](assets/new.png)  
-- [2022-03-08-香港日增病例呈回落趋势-港大预测5月降至两位数](https://m.caixin.com/m/2022-03-08/101852848.html) ![](assets/new.png)  
-- [2022-03-08-北京新增新冠病例涉字节跳动办公区-员工就地隔离过夜](https://m.caixin.com/m/2022-03-08/101852591.html) ![](assets/new.png)  
-- [2022-03-08-深港边境临时搭桥-内地援建香港河套应急医院](https://m.caixin.com/m/2022-03-08/101852776.html) ![](assets/new.png)  
-- [2022-03-08-【境内疫情观察】全国现有确诊病例超4000例（3月7日）](https://database.caixin.com/m/2022-03-08/101852579.html) ![](assets/new.png)  
-- [2022-03-08-研究发现新冠重症患者特殊基因-全球死亡病例超600万｜大流行手记（3月7日）](https://m.caixin.com/m/2022-03-08/101852426.html) ![](assets/new.png)  
-- [2022-03-07-广东惠州基层防疫扑杀宠物狗-街道致歉涉事者停职](https://m.caixin.com/m/2022-03-07/101851565.html) ![](assets/new.png)  
-- [2022-03-07-【境内疫情观察】全国新增214例本土病例（3月6日）](https://database.caixin.com/m/2022-03-07/101851858.html) ![](assets/new.png)  
-- [2022-03-07-苏格兰为弱势群体打第四针-印度尼西亚再放宽旅行限制｜大流行手记（3月6日）](https://m.caixin.com/m/2022-03-07/101851699.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -491,26 +471,6 @@
 </summary>
 
 
-- [2022-04-28-软考系统架构设计师现在值得考吗？](https://www.v2ex.com/t/849712) ![](assets/new.png)  
-- [2022-04-28-学校的-GPU-分配问题](https://www.v2ex.com/t/849711) ![](assets/new.png)  
-- [2022-04-28-换城市社保转移,-有几个问题](https://www.v2ex.com/t/849708) ![](assets/new.png)  
-- [2022-04-28-MBP-14-寸有推荐的经济显示器吗](https://www.v2ex.com/t/849707) ![](assets/new.png)  
-- [2022-04-28-千万不要当舔狗，关于我当了十年舔狗一场空这件事](https://www.v2ex.com/t/849705) ![](assets/new.png)  
-- [2022-04-28-若尔当标准型构建相似矩阵的广义特征向量怎么求？](https://www.v2ex.com/t/849704) ![](assets/new.png)  
-- [2022-04-28-微服务方案中-Socket-和-WebSocket-如果实现多实例负载呢?](https://www.v2ex.com/t/849702) ![](assets/new.png)  
-- [2022-04-28-如何使用-Spotlight-搜索微信接收文件？](https://www.v2ex.com/t/849701) ![](assets/new.png)  
-- [2022-04-28-感觉需要一门中文编程语言用于青少年的编程教育](https://www.v2ex.com/t/849700) ![](assets/new.png)  
-- [2022-04-28-局域网网络转发问题](https://www.v2ex.com/t/849699) ![](assets/new.png)  
-- [2022-04-28-VirtualBox-导出的-ovf-文件，导入-ESXI-6.7-u3-出错](https://www.v2ex.com/t/849698) ![](assets/new.png)  
-- [2022-04-27-有没有-2000-内不压耳朵疼的音质差不多点的耳机推荐？](https://www.v2ex.com/t/849697) ![](assets/new.png)  
-- [2022-04-27-为什么中国还有那么多-iPad-App-不支持横屏模式？](https://www.v2ex.com/t/849695) ![](assets/new.png)  
-- [2022-04-27-大家的-Mx-Master-3-在-Mac-中的都是怎么设置的？](https://www.v2ex.com/t/849694) ![](assets/new.png)  
-- [2022-04-27-2022-年-realforce-还值得买吗？](https://www.v2ex.com/t/849693) ![](assets/new.png)  
-- [2022-04-27-git.io-即将停止服务，我们提供免费的旧网址替换服务](https://www.v2ex.com/t/849692) ![](assets/new.png)  
-- [2022-04-27-请教下两台服务器间的流量转发](https://www.v2ex.com/t/849691) ![](assets/new.png)  
-- [2022-04-27-用-audacity-裁剪了一段-22-秒的音频，导出来两个格式文件-wav-和-mp3,两个文件-wav-为-4MB,-MP3-位-500kb,我反复听没有听出来区别，请问各位大佬有什么不一样吗...](https://www.v2ex.com/t/849690) ![](assets/new.png)  
-- [2022-04-27-红米电视大半夜的自己发出声音吓我一跳](https://www.v2ex.com/t/849689) ![](assets/new.png)  
-- [2022-04-27-Google-voice-不能转移了，有办法弄个属于自己的新号吗？](https://www.v2ex.com/t/849688) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -522,26 +482,6 @@
 </summary>
 
 
-- [2022-04-28-DR6018CV01-wifi6-Qualcomm-IPQ6010-IPQ6018-FAMILY-2T2R-2.5G-ETH-port-supporting-5G-www.wallystech.com](https://blogread.cn/news/go.php?idItem=15044&url=https%3A%2F%2Fwww.wallystech.com%2FRouterboard%2FDR6018CV01-wifi6-Qualcomm-IPQ6010-IPQ6018-FAMILY-2T2R-2.5G-ETH-port-supporting-5G-celluar-Modem-802-11AX-MU-MIMO-OFDMA-SFP.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-04-28-DR8072V01-wifi6-Qualcomm-IPQ8072A-4T4R-support-OpenWRT-802.11AX-supporting-10GE-port-10G-SFP-www.wallystech.com](https://blogread.cn/news/go.php?idItem=15043&url=https%3A%2F%2Fwww.wallystech.com%2FRouterboard%2FDR8072V01-wifi6-Qualcomm-IPQ8072A-4T4R-support-OpenWRT-802.11AX-supporting-10GE-port-10G-SFP.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-04-28-DR4019S-Qualcomm-IPQ4019-2T2R-Dual-Band-2-4GHz-5GHz-support-OpenWRT-802.11ac-Wave-2-www.wallystech.com](https://blogread.cn/news/go.php?idItem=15042&url=https%3A%2F%2Fwww.wallystech.com%2FRouterboard%2FDR4019S-Qualcomm-IPQ4019-2T2R-Dual-Band-2-4GHz-5GHz-support-OpenWRT-802.11ac-Wave-2.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-04-28-DR8072A-HK09-wifi6-Qualcomm-IPQ8072A-4T4R-2-2.5GE-port-support-OpenWRT-802.11AX--www.wallystech.com](https://blogread.cn/news/go.php?idItem=15041&url=https%3A%2F%2Fwww.wallystech.com%2FRouterboard%2FDR8072A-HK09-wifi6-Qualcomm-IPQ8072A-4T4R-2-2.5GE-port-support-OpenWRT-802.11AX-MU-MIMO-OFDMA.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-04-28-DRAP531-Indoor-wireless-AP-Qualcomm-QCA9531-support-MU-MIMO-2T2R-2.4G-high-power-30dbm-2-GETH-port.-www.wallystech.com](https://blogread.cn/news/go.php?idItem=15040&url=https%3A%2F%2Fwww.wallystech.com%2FIndustrial_Wireless_AP%2FDRAP531-Indoor-wireless-AP-Qualcomm-QCA9531-support-MU-MIMO-2T2R-2.4G-high-power-30dbm-2-GETH-port.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-04-28-DR-M001-WiFi-5-indoor-Access-point-IPQ-4019-4029-DUAL-BAND-802.11AC-WAVE2-MU-MIMO-www.wallystech.com](https://blogread.cn/news/go.php?idItem=15039&url=https%3A%2F%2Fwww.wallystech.com%2FIndustrial_Wireless_AP%2FDR-M001-WiFi-5-indoor-Access-point-IPQ-4019-4029-DUAL-BAND-802.11AC-WAVE2-MU-MIMO.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-04-28-DR900VX-Qualcomm-Atheros-QCA9880-3T3R-MIMO-802.11ac-Mini-PCIe-Wi-Fi-Module-Dual-Band-2-4GHz-5GHz.-www.wallystech.com](https://blogread.cn/news/go.php?idItem=15038&url=https%3A%2F%2Fwww.wallystech.com%2FNetwork_Card%2FDR900VX-Qualcomm-Atheros-QCA9880-3T3R-MIMO-802.11ac-Mini-PCIe-Wi-Fi-Module-Dual-Band-2-4GHz-5GHz.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-04-28-Network_Card/DR-NAS26-Qualcomm-Atheros-AR9582-2T-2R-MIMO-802.11-N-5GHz-high-power-Mini-PCIe-Wi-Fi-Module-www.wallystech.com](https://blogread.cn/news/go.php?idItem=15037&url=https%3A%2F%2Fwww.wallystech.com%2FNetwork_Card%2FDR-NAS26-Qualcomm-Atheros-AR9582-2T-2R-MIMO-802.11-N-5GHz-high-power-Mini-PCIe-Wi-Fi-Module.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-04-28-Antenna/DR24-RUBBER-ANTENNA-2.4G-SMA-SATA-COMINATION-3DBI-6DBI-www.wallystech.com](https://blogread.cn/news/go.php?idItem=15036&url=https%3A%2F%2Fwww.wallystech.com%2FAntenna%2FDR24-RUBBER-ANTENNA-2.4G-SMA-SATA-COMINATION-3DBI-6DBI.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-04-28-Antenna/DRA25-2-4GHz-and-5GHZ-dual-band-OMNI-antenna-6dBi-N-connector-outdoor-www.wallystech.com](https://blogread.cn/news/go.php?idItem=15035&url=https%3A%2F%2Fwww.wallystech.com%2FAntenna%2FDRA25-2-4GHz-and-5GHZ-dual-band-OMNI-antenna-6dBi-N-connector-outdoor.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-04-28-JUnit不好用？也许你可以试试这些测试工具-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15034&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fjunit-spock-kotest-tdd-testing-framework%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-04-28-敏捷驱动QA改变-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15033&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fagile-driven-qa%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-04-28-敏捷驱动QA改变-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15032&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fagile-driven-qa%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-04-28-用个十百千思考DDD-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15031&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fddd-thinking%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-04-28-关于编写故事卡的一些经验-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15030&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-story-card%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-04-28-性能优化那些事（3）-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15029&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fperformance-turning-practice-3%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-04-28-DR-AP4029-outdoor-Qualcomm-IPQ-4019-IPQ-4029-Outdoor-WiFi-5-Access-point-802-11ac-2x2-Mu-MIMO-dual-band-2-4-omni-5GHz-directional-antennas-www.wallys...](https://blogread.cn/news/go.php?idItem=15028&url=https%3A%2F%2Fwww.wallystech.com%2FIndustrial_Wireless_AP%2FDR-AP4029-outdoor-Qualcomm-IPQ-4019-IPQ-4029-Outdoor-WiFi-5-Access-point-802-11ac-2x2-Mu-MIMO-dual-band-2-4-omni-5GHz-directional-antennas-IP67.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-04-28-最佳Web编程语言都有哪些？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15027&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493914%26amp%3Bidx%3D2%26amp%3Bsn%3D5903e1008661081b1e592a4854edf501%26amp%3Bchksm%3Dfa3f0841cd48815742cf760b2d181f03766f4d963c8a3aef96790b8ac5f386876f643f22e000%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-04-28-CodeReview价值百万！！！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15026&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493913%26amp%3Bidx%3D1%26amp%3Bsn%3D52ab2ee1a58002e7f706d28ab3946b5b%26amp%3Bchksm%3Dfa3f0842cd488154598f87855b8ecae16c1ec58d62b0f81a16b3523e9a8c08275c94b5762032%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-04-28-大厂MySQL规范，从入门到精通！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15025&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493913%26amp%3Bidx%3D2%26amp%3Bsn%3Da47e2c8b586c893c647d3d6da53550a6%26amp%3Bchksm%3Dfa3f0842cd488154aa87b2b18e554815542041944da605bb191891863dd09a42a73f7afe4664%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -553,16 +493,6 @@
 </summary>
 
 
-- [2022-04-28-码农周刊---每周五发送，欢迎订阅！打破「信息茧房」，不妨从这份Newsletter开始！](https://toutiao.io/k/t49l6og) ![](assets/new.png)  
-- [2022-04-28-领导看了我写的关闭超时订单，让我出门左转！](https://toutiao.io/k/mlmijzl) ![](assets/new.png)  
-- [2022-04-28-干货-|-字节跳动构建Data-Catalog数据目录系统的实践（下）](https://toutiao.io/k/1wa5kiy) ![](assets/new.png)  
-- [2022-04-28-如何设计一个牛逼的消息队列？](https://toutiao.io/k/tyty975) ![](assets/new.png)  
-- [2022-04-28-通用接口设计准则](https://toutiao.io/k/sk2qg0s) ![](assets/new.png)  
-- [2022-04-28-Go即将引入知名快速排序算法](https://toutiao.io/k/n38il51) ![](assets/new.png)  
-- [2022-04-28-VLM：Meta-AI-&-CMU提出任务无关视频语言模型视频理解预训练VLM，代码已开源！ACL-2021](https://toutiao.io/k/dwtl4zz) ![](assets/new.png)  
-- [2022-04-28-推荐-技术开发人员如何制定自己的OKR](https://toutiao.io/k/zq8oiet) ![](assets/new.png)  
-- [2022-04-28-推荐-别再说你不懂规则引擎了！](https://toutiao.io/k/edts5o5) ![](assets/new.png)  
-- [2022-04-28-推荐-微服务网关选型：5种主流-API-网关，哪个最香！](https://toutiao.io/k/jtyo70d) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

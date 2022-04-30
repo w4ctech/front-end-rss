@@ -131,6 +131,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "深入 JS new Function",
+        "link": "https://www.zhangxinxu.com/wordpress/2022/04/js-new-function/",
+        "date": "2022-04-30"
+      },
+      {
         "title": "小tips: JS字体加载失败或完毕的检测",
         "link": "https://www.zhangxinxu.com/wordpress/2022/04/js-font-face-load/",
         "date": "2022-04-27"
@@ -174,11 +179,6 @@
         "title": "CSS overflow-clip-margin属性简介",
         "link": "https://www.zhangxinxu.com/wordpress/2022/02/css-overflow-clip-margin/",
         "date": "2022-02-20"
-      },
-      {
-        "title": "CSS :not()伪类选择器已支持复杂参数",
-        "link": "https://www.zhangxinxu.com/wordpress/2022/02/css-not-pseudo-class-list-argument/",
-        "date": "2022-02-12"
       }
     ]
   },

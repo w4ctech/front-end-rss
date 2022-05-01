@@ -1,10 +1,13 @@
-:alarm_clock: 更新时间: 2022-05-01 13:46:30。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-05-01 14:13:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-05-01-PCA-之前为什么要先对数据进行标准化？](https://www.v2ex.com/t/850429) 
+- [2022-05-01-Pycon-新项目：-Pyscript](https://www.v2ex.com/t/850428) 
+- [2022-05-01-做了一个隧道软件，叫做-Termtunnel，邀请大家体验](https://www.v2ex.com/t/850426) 
 - [2022-05-01-求教：大麦盒子-dm1016-如何刷-Linux-系统？](https://www.v2ex.com/t/850425) 
 - [2022-05-01-关于在电视盒子上看-B-站港澳台番剧的一些实践](https://www.v2ex.com/t/850424) 
 - [2022-05-01-学习一门技术看文档怎么才能最快看懂](https://www.v2ex.com/t/850423) 
@@ -43,6 +46,3 @@
 - [2022-05-01-第一次尝试多架构镜像构建，做了一个适用于-Linux-arm64-和-amd64-的兰空图床镜像](https://www.v2ex.com/t/850383) 
 - [2022-05-01-matlab-和-mathmatica-这种专业软件能解这种题目吗](https://www.v2ex.com/t/850382) 
 - [2022-05-01-发现-iPhone-计算器的一个秘密](https://www.v2ex.com/t/850381) 
-- [2022-05-01-在农村准备建立个别墅，大家给点建议，尤其是已经建过的，快来说说感受，给我点启迪。](https://www.v2ex.com/t/850379) 
-- [2022-05-01-ProtonMail-可以不用代理直接登录了？](https://www.v2ex.com/t/850377) 
-- [2022-05-01-虚拟机里的-Linux-用什么桌面环境好？](https://www.v2ex.com/t/850376) 

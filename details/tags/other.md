@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-05-01 15:15:18。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-05-01 15:43:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1912,6 +1912,7 @@
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2022-03-21-ascent-override-descent-override-line-gap-override一锅端](https://www.zhangxinxu.com/wordpress/2022/03/css-ascent-override-descent/) 
+- [2022-05-01-远程全职，不限地点-区块链产品经理-25-35k/月-CDN-架构师/研发专家-50-80k/月-大牛另议](https://www.v2ex.com/t/850438) 
 - [2022-05-01-美西线路是不是炸了啊](https://www.v2ex.com/t/850436) 
 - [2022-05-01-不懂我就问-uuplugin-开启后为什么我下载文件时-uuplugin-负载很高](https://www.v2ex.com/t/850435) 
 - [2022-05-01-旧文重读，博主鱼炒饭的病床回忆日记](https://www.v2ex.com/t/850434) 
@@ -1944,7 +1945,6 @@
 - [2022-05-01-最近香港都是-3-网-CMI？](https://www.v2ex.com/t/850392) 
 - [2022-05-01-开源一款运行在腾讯云开发的-Todo-App](https://www.v2ex.com/t/850391) 
 - [2022-05-01-Apple-Watch-的绿色的“锻炼”圆环，具有一定强度的健身运动这个需要多强？](https://www.v2ex.com/t/850389) 
-- [2022-05-01-请教在-Obsidian-中删除文件的便捷方法](https://www.v2ex.com/t/850388) 
 - [2022-05-01-JUnit不好用？也许你可以试试这些测试工具-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15034&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fjunit-spock-kotest-tdd-testing-framework%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-05-01-敏捷驱动QA改变-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15033&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fagile-driven-qa%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-05-01-用个十百千思考DDD-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15031&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fddd-thinking%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1971,6 +1971,6 @@
 - [2022-05-01-如何衡量分布式系统的好坏？](https://toutiao.io/k/zcbm3yt) 
 - [2022-05-01-20万用户的图片服务](https://toutiao.io/k/xjgw844) 
 - [2022-05-01-推荐-别再说你不懂规则引擎了！](https://toutiao.io/k/edts5o5) 
+- [2022-05-01-推荐-面渣逆袭：Spring三十五问，四万字+五十图详解！建议收藏！](https://toutiao.io/k/8ab20e9) 
 - [2022-05-01-推荐-微服务网关选型：5种主流-API-网关，哪个最香！](https://toutiao.io/k/jtyo70d) 
 - [2022-05-01-推荐-深入浅出分布式锁](https://toutiao.io/k/957qnad) 
-- [2022-05-01-推荐-面渣逆袭：Spring三十五问，四万字+五十图详解！建议收藏！](https://toutiao.io/k/8ab20e9) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-05-01 23:40:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-05-02 01:01:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -19,3 +19,4 @@
 - [2022-03-15-基于howler.js写了个音频播放器组件](https://www.zhangxinxu.com/wordpress/2022/03/howler-js-audio-player/) 
 - [2022-03-07-介绍8个和滚动相关的CSS属性](https://www.zhangxinxu.com/wordpress/2022/03/10-css-scroll-scrollbar/) 
 - [2022-05-01-路由器上配置了-ssr,-电脑端/手机端和-Apple-tv-端的-YouTube-速度一个天上一个地底下](https://www.v2ex.com/t/850431) 
+- [2022-05-02-阿里巴巴开源高性能-JSON-库-FASTJSON-v2](https://toutiao.io/k/qy5z8im) 

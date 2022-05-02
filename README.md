@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-05-02 04:35:22，:rocket: 更新条数: +2025， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-05-02 05:28:56，:rocket: 更新条数: +2013， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,10 @@
 </summary>
 
 
+- [2022-05-02-远程工作团队如何保证项目的有序进行呢](https://www.v2ex.com/t/850494) ![](assets/new.png)  
+- [2022-05-02-有什么方法限制外人访问自己的-DoH-服务](https://www.v2ex.com/t/850493) ![](assets/new.png)  
+- [2022-05-02-求推荐一套-12-代-intel-装机](https://www.v2ex.com/t/850492) ![](assets/new.png)  
+- [2022-05-02-收了一个二手奥产-k240s，低音有点惨。](https://www.v2ex.com/t/850490) ![](assets/new.png)  
 - [2022-05-02-Vim/Neovim-下的聊天室插件，目前支持-gitter，-weixin，-qq-等](https://www.v2ex.com/t/850489) ![](assets/new.png)  
 - [2022-05-02-win10-有类似-macos-的迁移助理类的工具可以实现一键迁移所有文件吗？](https://www.v2ex.com/t/850488) ![](assets/new.png)  
 - [2022-05-02-听说-v-站改名了？](https://www.v2ex.com/t/850486) ![](assets/new.png)  
@@ -507,10 +511,6 @@
 - [2022-05-02-做了一个-8-bit-Assembler-Simulator](https://www.v2ex.com/t/850469) ![](assets/new.png)  
 - [2022-05-02-无人机蜂群设计构想](https://www.v2ex.com/t/850468) ![](assets/new.png)  
 - [2022-05-02-有自己搭建低功耗迷你主机+UPS-的方案么，求推荐](https://www.v2ex.com/t/850467) ![](assets/new.png)  
-- [2022-05-02-内推头部币圈公司-海外/国内2-季度末尾国内招聘通道关闭](https://www.v2ex.com/t/850466) ![](assets/new.png)  
-- [2022-05-02-多线程下载文件是不是就是文件分块下载，意思一样吗](https://www.v2ex.com/t/850465) ![](assets/new.png)  
-- [2022-05-02-Win11-上，想要完整的-Linux-环境该怎么做？](https://www.v2ex.com/t/850464) ![](assets/new.png)  
-- [2022-05-02-这种工程能做么？可以咋做呀？](https://www.v2ex.com/t/850462) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -556,23 +556,14 @@
 - [2022-05-02-阿里巴巴开源高性能-JSON-库-FASTJSON-v2](https://toutiao.io/k/qy5z8im) ![](assets/new.png)  
 - [2022-05-02-HiveQL-进阶之以柔克刚---将简单语法运用到极致](https://toutiao.io/k/nxy3pln) ![](assets/new.png)  
 - [2022-05-02-DataX-快速入门](https://toutiao.io/k/ltbtbsk) ![](assets/new.png)  
-- [2022-05-02-给大家整个小说下载器，一起"欢度"五一~](https://toutiao.io/k/eunyqty) ![](assets/new.png)  
-- [2022-05-02-一款跨时代的高性能-Java-框架！启动速度快到飞起](https://toutiao.io/k/wbc5icw) ![](assets/new.png)  
-- [2022-05-02-15K-Star！Github-上最火的低代码开发平台！](https://toutiao.io/k/3qv24va) ![](assets/new.png)  
-- [2022-05-02-Redis-6-通信协议升级至-RESP3，一口气看完-13-种新数据类型](https://toutiao.io/k/o3z8kca) ![](assets/new.png)  
-- [2022-05-02-IDEA官方数据库管理神器，比Navicat还香？](https://toutiao.io/k/2p2bdwd) ![](assets/new.png)  
-- [2022-05-02-ESBuild-&-SWC浅谈:-新一代构建工具](https://toutiao.io/k/34wc5bo) ![](assets/new.png)  
 - [2022-05-02-这5个字，能优化你80%的程序性能问题](https://toutiao.io/k/m9sc96j) ![](assets/new.png)  
-- [2022-05-02-斯坦福教授曼宁AAAS特刊发文：大模型已成突破，展望通用人工智能](https://toutiao.io/k/a5dqsp0) ![](assets/new.png)  
 - [2022-05-02-解Bug之路-NAT引发的性能瓶颈-完整版​](https://toutiao.io/k/6mj7kgf) ![](assets/new.png)  
-- [2022-05-02-SLICK:-Facebook-基于-SLO-的可靠性保障实践](https://toutiao.io/k/wlzt3ro) ![](assets/new.png)  
-- [2022-05-02-微服务是什么？](https://toutiao.io/k/hoyijln) ![](assets/new.png)  
-- [2022-05-02-【Rust日报】2022-04-30-通过-BSON-和零拷贝反序列化在-MongoDB-Rust-驱动程序中解锁更高的性能](https://toutiao.io/k/5vyixcd) ![](assets/new.png)  
-- [2022-05-02-Apache-Doris为分析而生：Rollup-与-物化视图](https://toutiao.io/k/hc3vr6g) ![](assets/new.png)  
-- [2022-05-02-推荐-性能分析优化的道与术](https://toutiao.io/k/2bi822s) ![](assets/new.png)  
-- [2022-05-02-推荐-深入浅出分布式锁](https://toutiao.io/k/957qnad) ![](assets/new.png)  
-- [2022-05-02-推荐-微服务网关选型：5种主流-API-网关，哪个最香！](https://toutiao.io/k/jtyo70d) ![](assets/new.png)  
 - [2022-05-02-推荐-别再说你不懂规则引擎了！](https://toutiao.io/k/edts5o5) ![](assets/new.png)  
+- [2022-05-02-推荐-深入浅出分布式锁](https://toutiao.io/k/957qnad) ![](assets/new.png)  
+- [2022-05-02-推荐-面渣逆袭：Spring三十五问，四万字+五十图详解！建议收藏！](https://toutiao.io/k/8ab20e9) ![](assets/new.png)  
+- [2022-05-02-推荐-非常哇塞的-SpringBoot性能优化长文！](https://toutiao.io/k/srppeol) ![](assets/new.png)  
+- [2022-05-02-推荐-微服务网关选型：5种主流-API-网关，哪个最香！](https://toutiao.io/k/jtyo70d) ![](assets/new.png)  
+- [2022-05-02-推荐-性能分析优化的道与术](https://toutiao.io/k/2bi822s) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-05-02 03:29:07。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-05-02 04:35:22。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,10 +68,14 @@
 </summary>
 
 
+- [【V2EX】2022-05-02-Vim/Neovim-下的聊天室插件，目前支持-gitter，-weixin，-qq-等](https://www.v2ex.com/t/850489) 
+- [【V2EX】2022-05-02-win10-有类似-macos-的迁移助理类的工具可以实现一键迁移所有文件吗？](https://www.v2ex.com/t/850488) 
+- [【V2EX】2022-05-02-听说-v-站改名了？](https://www.v2ex.com/t/850486) 
+- [【V2EX】2022-05-02-联通到部分-Cloudflare-网站从-GTT-改走-AT&T-/-ATT-线路](https://www.v2ex.com/t/850484) 
+- [【V2EX】2022-05-02-你玩过-hood-这个-app-吗](https://www.v2ex.com/t/850483) 
 - [【V2EX】2022-05-02-编译的时候-cannot-find-package，请大佬进来点拨一下](https://www.v2ex.com/t/850480) 
 - [【V2EX】2022-05-02-提了离职后,收到了朋友的邀请](https://www.v2ex.com/t/850479) 
 - [【V2EX】2022-05-02-记录一下自己成为密-j-到集-z-隔-l-的整个过程](https://www.v2ex.com/t/850478) 
-- [【V2EX】2022-05-02-资产到-1~2-千万的中产要不要润呢？](https://www.v2ex.com/t/850477) 
 - [【V2EX】2022-05-02-谷歌搜索最近怎么都是手机版页面优先展示了？](https://www.v2ex.com/t/850476) 
 - [【V2EX】2022-05-02-Linux-内网远程桌面-vnc-xrdp-teamviewer-anydesk-哪个最流畅？综合体验最好？](https://www.v2ex.com/t/850475) 
 - [【V2EX】2022-05-02-有什么便携点的乐器是可以自学的吗？](https://www.v2ex.com/t/850472) 
@@ -101,13 +105,6 @@
 - [【V2EX】2022-05-01-请教一个颜文字问题](https://www.v2ex.com/t/850442) 
 - [【V2EX】2022-05-01-大家是怎样用-nas-做下载机的](https://www.v2ex.com/t/850441) 
 - [【V2EX】2022-05-01-ios-分应用代理最好的方案是什么](https://www.v2ex.com/t/850440) 
-- [【V2EX】2022-05-01-出-devonthink-pro-3-激活码](https://www.v2ex.com/t/850439) 
-- [【V2EX】2022-05-01-远程全职，不限地点-区块链产品经理-25-35k/月-CDN-架构师/研发专家-50-80k/月-大牛另议](https://www.v2ex.com/t/850438) 
-- [【V2EX】2022-05-01-美西线路是不是炸了啊](https://www.v2ex.com/t/850436) 
-- [【V2EX】2022-05-01-不懂我就问-uuplugin-开启后为什么我下载文件时-uuplugin-负载很高](https://www.v2ex.com/t/850435) 
-- [【V2EX】2022-05-01-旧文重读，博主鱼炒饭的病床回忆日记](https://www.v2ex.com/t/850434) 
-- [【V2EX】2022-05-01-关于对编程的一点理解](https://www.v2ex.com/t/850433) 
-- [【V2EX】2022-05-01-路由器上配置了-ssr,-电脑端/手机端和-Apple-tv-端的-YouTube-速度一个天上一个地底下](https://www.v2ex.com/t/850431) 
 - [【技术头条】2022-05-02-JUnit不好用？也许你可以试试这些测试工具-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15034&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fjunit-spock-kotest-tdd-testing-framework%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-05-02-敏捷驱动QA改变-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15033&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fagile-driven-qa%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-05-02-用个十百千思考DDD-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15031&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fddd-thinking%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -135,21 +132,21 @@
 - [【开发者头条】2022-05-02-一款跨时代的高性能-Java-框架！启动速度快到飞起](https://toutiao.io/k/wbc5icw) 
 - [【开发者头条】2022-05-02-15K-Star！Github-上最火的低代码开发平台！](https://toutiao.io/k/3qv24va) 
 - [【开发者头条】2022-05-02-Redis-6-通信协议升级至-RESP3，一口气看完-13-种新数据类型](https://toutiao.io/k/o3z8kca) 
-- [【开发者头条】2022-05-02-ESBuild-&-SWC浅谈:-新一代构建工具](https://toutiao.io/k/34wc5bo) 
 - [【开发者头条】2022-05-02-IDEA官方数据库管理神器，比Navicat还香？](https://toutiao.io/k/2p2bdwd) 
-- [【开发者头条】2022-05-02-斯坦福教授曼宁AAAS特刊发文：大模型已成突破，展望通用人工智能](https://toutiao.io/k/a5dqsp0) 
+- [【开发者头条】2022-05-02-ESBuild-&-SWC浅谈:-新一代构建工具](https://toutiao.io/k/34wc5bo) 
 - [【开发者头条】2022-05-02-这5个字，能优化你80%的程序性能问题](https://toutiao.io/k/m9sc96j) 
+- [【开发者头条】2022-05-02-斯坦福教授曼宁AAAS特刊发文：大模型已成突破，展望通用人工智能](https://toutiao.io/k/a5dqsp0) 
 - [【开发者头条】2022-05-02-解Bug之路-NAT引发的性能瓶颈-完整版​](https://toutiao.io/k/6mj7kgf) 
 - [【开发者头条】2022-05-02-SLICK:-Facebook-基于-SLO-的可靠性保障实践](https://toutiao.io/k/wlzt3ro) 
 - [【开发者头条】2022-05-02-微服务是什么？](https://toutiao.io/k/hoyijln) 
 - [【开发者头条】2022-05-02-【Rust日报】2022-04-30-通过-BSON-和零拷贝反序列化在-MongoDB-Rust-驱动程序中解锁更高的性能](https://toutiao.io/k/5vyixcd) 
 - [【开发者头条】2022-05-02-Apache-Doris为分析而生：Rollup-与-物化视图](https://toutiao.io/k/hc3vr6g) 
-- [【开发者头条】2022-05-02-推荐-别再说你不懂规则引擎了！](https://toutiao.io/k/edts5o5) 
-- [【开发者头条】2022-05-02-推荐-深入浅出分布式锁](https://toutiao.io/k/957qnad) 
 - [【开发者头条】2022-05-02-推荐-性能分析优化的道与术](https://toutiao.io/k/2bi822s) 
+- [【开发者头条】2022-05-02-推荐-深入浅出分布式锁](https://toutiao.io/k/957qnad) 
 - [【开发者头条】2022-05-02-推荐-微服务网关选型：5种主流-API-网关，哪个最香！](https://toutiao.io/k/jtyo70d) 
-- [【开发者头条】2022-05-02-推荐-面渣逆袭：Spring三十五问，四万字+五十图详解！建议收藏！](https://toutiao.io/k/8ab20e9) 
+- [【开发者头条】2022-05-02-推荐-别再说你不懂规则引擎了！](https://toutiao.io/k/edts5o5) 
 - [【开发者头条】2022-05-02-推荐-非常哇塞的-SpringBoot性能优化长文！](https://toutiao.io/k/srppeol) 
+- [【开发者头条】2022-05-02-推荐-面渣逆袭：Spring三十五问，四万字+五十图详解！建议收藏！](https://toutiao.io/k/8ab20e9) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-05-02 03:29:07，:rocket: 更新条数: +2028， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-05-02 04:35:22，:rocket: 更新条数: +2025， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,10 +491,14 @@
 </summary>
 
 
+- [2022-05-02-Vim/Neovim-下的聊天室插件，目前支持-gitter，-weixin，-qq-等](https://www.v2ex.com/t/850489) ![](assets/new.png)  
+- [2022-05-02-win10-有类似-macos-的迁移助理类的工具可以实现一键迁移所有文件吗？](https://www.v2ex.com/t/850488) ![](assets/new.png)  
+- [2022-05-02-听说-v-站改名了？](https://www.v2ex.com/t/850486) ![](assets/new.png)  
+- [2022-05-02-联通到部分-Cloudflare-网站从-GTT-改走-AT&T-/-ATT-线路](https://www.v2ex.com/t/850484) ![](assets/new.png)  
+- [2022-05-02-你玩过-hood-这个-app-吗](https://www.v2ex.com/t/850483) ![](assets/new.png)  
 - [2022-05-02-编译的时候-cannot-find-package，请大佬进来点拨一下](https://www.v2ex.com/t/850480) ![](assets/new.png)  
 - [2022-05-02-提了离职后,收到了朋友的邀请](https://www.v2ex.com/t/850479) ![](assets/new.png)  
 - [2022-05-02-记录一下自己成为密-j-到集-z-隔-l-的整个过程](https://www.v2ex.com/t/850478) ![](assets/new.png)  
-- [2022-05-02-资产到-1~2-千万的中产要不要润呢？](https://www.v2ex.com/t/850477) ![](assets/new.png)  
 - [2022-05-02-谷歌搜索最近怎么都是手机版页面优先展示了？](https://www.v2ex.com/t/850476) ![](assets/new.png)  
 - [2022-05-02-Linux-内网远程桌面-vnc-xrdp-teamviewer-anydesk-哪个最流畅？综合体验最好？](https://www.v2ex.com/t/850475) ![](assets/new.png)  
 - [2022-05-02-有什么便携点的乐器是可以自学的吗？](https://www.v2ex.com/t/850472) ![](assets/new.png)  
@@ -507,10 +511,6 @@
 - [2022-05-02-多线程下载文件是不是就是文件分块下载，意思一样吗](https://www.v2ex.com/t/850465) ![](assets/new.png)  
 - [2022-05-02-Win11-上，想要完整的-Linux-环境该怎么做？](https://www.v2ex.com/t/850464) ![](assets/new.png)  
 - [2022-05-02-这种工程能做么？可以咋做呀？](https://www.v2ex.com/t/850462) ![](assets/new.png)  
-- [2022-05-02-小白请教大佬-namecheap-域名-DNS-配置问题](https://www.v2ex.com/t/850461) ![](assets/new.png)  
-- [2022-05-02-6-月出-macbook-air-的可能性大吗？](https://www.v2ex.com/t/850460) ![](assets/new.png)  
-- [2022-05-02-IOS-日区-App-Store-内不能单独购买-必须登录-iCloud-了？](https://www.v2ex.com/t/850455) ![](assets/new.png)  
-- [2022-05-01-Rust-生命周期的学习过程中，感觉总是道理讲得很多，但例子很少](https://www.v2ex.com/t/850454) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -560,19 +560,19 @@
 - [2022-05-02-一款跨时代的高性能-Java-框架！启动速度快到飞起](https://toutiao.io/k/wbc5icw) ![](assets/new.png)  
 - [2022-05-02-15K-Star！Github-上最火的低代码开发平台！](https://toutiao.io/k/3qv24va) ![](assets/new.png)  
 - [2022-05-02-Redis-6-通信协议升级至-RESP3，一口气看完-13-种新数据类型](https://toutiao.io/k/o3z8kca) ![](assets/new.png)  
-- [2022-05-02-ESBuild-&-SWC浅谈:-新一代构建工具](https://toutiao.io/k/34wc5bo) ![](assets/new.png)  
 - [2022-05-02-IDEA官方数据库管理神器，比Navicat还香？](https://toutiao.io/k/2p2bdwd) ![](assets/new.png)  
-- [2022-05-02-斯坦福教授曼宁AAAS特刊发文：大模型已成突破，展望通用人工智能](https://toutiao.io/k/a5dqsp0) ![](assets/new.png)  
+- [2022-05-02-ESBuild-&-SWC浅谈:-新一代构建工具](https://toutiao.io/k/34wc5bo) ![](assets/new.png)  
 - [2022-05-02-这5个字，能优化你80%的程序性能问题](https://toutiao.io/k/m9sc96j) ![](assets/new.png)  
+- [2022-05-02-斯坦福教授曼宁AAAS特刊发文：大模型已成突破，展望通用人工智能](https://toutiao.io/k/a5dqsp0) ![](assets/new.png)  
 - [2022-05-02-解Bug之路-NAT引发的性能瓶颈-完整版​](https://toutiao.io/k/6mj7kgf) ![](assets/new.png)  
 - [2022-05-02-SLICK:-Facebook-基于-SLO-的可靠性保障实践](https://toutiao.io/k/wlzt3ro) ![](assets/new.png)  
 - [2022-05-02-微服务是什么？](https://toutiao.io/k/hoyijln) ![](assets/new.png)  
 - [2022-05-02-【Rust日报】2022-04-30-通过-BSON-和零拷贝反序列化在-MongoDB-Rust-驱动程序中解锁更高的性能](https://toutiao.io/k/5vyixcd) ![](assets/new.png)  
 - [2022-05-02-Apache-Doris为分析而生：Rollup-与-物化视图](https://toutiao.io/k/hc3vr6g) ![](assets/new.png)  
-- [2022-05-02-推荐-别再说你不懂规则引擎了！](https://toutiao.io/k/edts5o5) ![](assets/new.png)  
-- [2022-05-02-推荐-深入浅出分布式锁](https://toutiao.io/k/957qnad) ![](assets/new.png)  
 - [2022-05-02-推荐-性能分析优化的道与术](https://toutiao.io/k/2bi822s) ![](assets/new.png)  
+- [2022-05-02-推荐-深入浅出分布式锁](https://toutiao.io/k/957qnad) ![](assets/new.png)  
 - [2022-05-02-推荐-微服务网关选型：5种主流-API-网关，哪个最香！](https://toutiao.io/k/jtyo70d) ![](assets/new.png)  
+- [2022-05-02-推荐-别再说你不懂规则引擎了！](https://toutiao.io/k/edts5o5) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

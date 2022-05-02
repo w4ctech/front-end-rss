@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-05-02 14:39:30。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-05-02 15:16:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -19,6 +19,5 @@
 - [2022-03-15-基于howler.js写了个音频播放器组件](https://www.zhangxinxu.com/wordpress/2022/03/howler-js-audio-player/) 
 - [2022-03-07-介绍8个和滚动相关的CSS属性](https://www.zhangxinxu.com/wordpress/2022/03/10-css-scroll-scrollbar/) 
 - [2022-05-02-有没有阿里的朋友，该事件已经触及阿里红线](https://www.v2ex.com/t/850567) 
-- [2022-05-02-2022-了，光猫桥接，路由器拨号算好习惯还是臭毛病](https://www.v2ex.com/t/850519) 
 - [2022-05-02-阿里巴巴开源高性能-JSON-库-FASTJSON-v2](https://toutiao.io/k/qy5z8im) 
 - [2022-05-02-RENO:-Netflix的快速事件通知系统](https://toutiao.io/k/49nrdpn) 

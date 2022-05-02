@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2022-05-02 15:46:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-05-02 16:20:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-05-02-海淘-JINS-输入度数界面有教程吗？](https://www.v2ex.com/t/850574) 
+- [2022-05-02-2022-关于迷你主机的一些观察和思考（带独显）](https://www.v2ex.com/t/850572) 
 - [2022-05-02-电视的网络性能太差应该怎么解决](https://www.v2ex.com/t/850571) 
 - [2022-05-02-有靠谱的开箱即用的用户认证授权云服务推荐吗?](https://www.v2ex.com/t/850569) 
 - [2022-05-02-mac-os-又出新-bug-了？](https://www.v2ex.com/t/850568) 
@@ -37,4 +39,3 @@
 - [2022-05-02-leetcode-果然要多刷刷，很健脑](https://www.v2ex.com/t/850527) 
 - [2022-05-02-LeagueClient-删除-minidump-文件](https://www.v2ex.com/t/850526) 
 - [2022-05-02-网易云黑胶-VIP（7-天），共-5-张（5-月份）](https://www.v2ex.com/t/850525) 
-- [2022-05-02-MD-格式显示帖子有缺陷？](https://www.v2ex.com/t/850524) 

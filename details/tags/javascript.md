@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-05-02 13:55:51。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-05-02 14:13:45。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -20,6 +20,5 @@
 - [2022-03-07-介绍8个和滚动相关的CSS属性](https://www.zhangxinxu.com/wordpress/2022/03/10-css-scroll-scrollbar/) 
 - [2022-05-02-2022-了，光猫桥接，路由器拨号算好习惯还是臭毛病](https://www.v2ex.com/t/850519) 
 - [2022-05-02-宽带越来越高，-AC86U-退役，求推荐-AP-路由](https://www.v2ex.com/t/850514) 
-- [2022-05-02-求救大佬-swiftUI-的-AVPlayerView-怎么样阻止用户的输入事件啊，比如空格播放/暂停，还有鼠标滚轮，第一次翻遍网上都找不到解决方法。](https://www.v2ex.com/t/850512) 
 - [2022-05-02-阿里巴巴开源高性能-JSON-库-FASTJSON-v2](https://toutiao.io/k/qy5z8im) 
 - [2022-05-02-RENO:-Netflix的快速事件通知系统](https://toutiao.io/k/49nrdpn) 

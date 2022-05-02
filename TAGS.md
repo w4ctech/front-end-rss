@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-05-02 13:55:51。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-05-02 14:13:45。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -186,7 +186,6 @@
 - [【张鑫旭-鑫空间-鑫生活】介绍8个和滚动相关的CSS属性](https://www.zhangxinxu.com/wordpress/2022/03/10-css-scroll-scrollbar/)
 - [【V2EX】2022-了，光猫桥接，路由器拨号算好习惯还是臭毛病](https://www.v2ex.com/t/850519)
 - [【V2EX】宽带越来越高，-AC86U-退役，求推荐-AP-路由](https://www.v2ex.com/t/850514)
-- [【V2EX】求救大佬-swiftUI-的-AVPlayerView-怎么样阻止用户的输入事件啊，比如空格播放/暂停，还有鼠标滚轮，第一次翻遍网上都找不到解决方法。](https://www.v2ex.com/t/850512)
 - [【开发者头条】阿里巴巴开源高性能-JSON-库-FASTJSON-v2](https://toutiao.io/k/qy5z8im)
 - [【开发者头条】RENO:-Netflix的快速事件通知系统](https://toutiao.io/k/49nrdpn)
 - [......【查看更多】......](./details/tags/javascript.md)
@@ -292,7 +291,6 @@
 - [【V2EX】Laravel-使用-memcached-缓存时，-Composer-报-Class-‘memcached’-Not-Found-错误](https://www.v2ex.com/t/850531)
 - [【V2EX】有没有浏览器收藏夹是生成本地-url-文件的？](https://www.v2ex.com/t/850529)
 - [【V2EX】LeagueClient-删除-minidump-文件](https://www.v2ex.com/t/850526)
-- [【V2EX】红米-k40-刷了-pixel-experience-android-12-，感觉真棒呀](https://www.v2ex.com/t/850511)
 - [【技术头条】CodeReview价值百万！！！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15026&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493913%26amp%3Bidx%3D1%26amp%3Bsn%3D52ab2ee1a58002e7f706d28ab3946b5b%26amp%3Bchksm%3Dfa3f0842cd488154598f87855b8ecae16c1ec58d62b0f81a16b3523e9a8c08275c94b5762032%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [......【查看更多】......](./details/tags/browser.md)
 

@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2022-05-02 06:17:56。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-05-02 06:49:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-05-02-上哪可以买到浪潮出的-TS4220LC-相变制冷机柜？](https://www.v2ex.com/t/850501) 
+- [2022-05-02-微信小程序内能接入其他方式支付么？](https://www.v2ex.com/t/850500) 
 - [2022-05-02-新版-sheild-tv-啥时候出？](https://www.v2ex.com/t/850498) 
 - [2022-05-02-现在换电池直接显示维修也充不进去？](https://www.v2ex.com/t/850497) 
 - [2022-05-02-一个电视机顶盒引发的-tcp-路径-mtu-问题](https://www.v2ex.com/t/850496) 
@@ -14,7 +16,6 @@
 - [2022-05-02-收了一个二手奥产-k240s，低音有点惨。](https://www.v2ex.com/t/850490) 
 - [2022-05-02-Vim/Neovim-下的聊天室插件，目前支持-gitter，-weixin，-qq-等](https://www.v2ex.com/t/850489) 
 - [2022-05-02-win10-有类似-macos-的迁移助理类的工具可以实现一键迁移所有文件吗？](https://www.v2ex.com/t/850488) 
-- [2022-05-02-听说-v-站改名了？](https://www.v2ex.com/t/850486) 
 - [2022-05-02-联通到部分-Cloudflare-网站从-GTT-改走-AT&T-/-ATT-线路](https://www.v2ex.com/t/850484) 
 - [2022-05-02-你玩过-hood-这个-app-吗](https://www.v2ex.com/t/850483) 
 - [2022-05-02-编译的时候-cannot-find-package，请大佬进来点拨一下](https://www.v2ex.com/t/850480) 
@@ -37,5 +38,3 @@
 - [2022-05-02-IOS-日区-App-Store-内不能单独购买-必须登录-iCloud-了？](https://www.v2ex.com/t/850455) 
 - [2022-05-01-Rust-生命周期的学习过程中，感觉总是道理讲得很多，但例子很少](https://www.v2ex.com/t/850454) 
 - [2022-05-01-macOS-Dock-無法預覽檔案](https://www.v2ex.com/t/850453) 
-- [2022-05-01-2022-了-windows-还需要装驱动吗](https://www.v2ex.com/t/850452) 
-- [2022-05-01-16:10-的显示器撸码体验如何？-看中了-U3023e，有在用的-V-友吗？](https://www.v2ex.com/t/850451) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-05-02 01:01:25，:rocket: 更新条数: +2014， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-05-02 03:29:07，:rocket: 更新条数: +2028， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,26 +491,26 @@
 </summary>
 
 
+- [2022-05-02-编译的时候-cannot-find-package，请大佬进来点拨一下](https://www.v2ex.com/t/850480) ![](assets/new.png)  
+- [2022-05-02-提了离职后,收到了朋友的邀请](https://www.v2ex.com/t/850479) ![](assets/new.png)  
+- [2022-05-02-记录一下自己成为密-j-到集-z-隔-l-的整个过程](https://www.v2ex.com/t/850478) ![](assets/new.png)  
+- [2022-05-02-资产到-1~2-千万的中产要不要润呢？](https://www.v2ex.com/t/850477) ![](assets/new.png)  
+- [2022-05-02-谷歌搜索最近怎么都是手机版页面优先展示了？](https://www.v2ex.com/t/850476) ![](assets/new.png)  
+- [2022-05-02-Linux-内网远程桌面-vnc-xrdp-teamviewer-anydesk-哪个最流畅？综合体验最好？](https://www.v2ex.com/t/850475) ![](assets/new.png)  
+- [2022-05-02-有什么便携点的乐器是可以自学的吗？](https://www.v2ex.com/t/850472) ![](assets/new.png)  
+- [2022-05-02-MPTCP-在日常中有什么应用吗？](https://www.v2ex.com/t/850471) ![](assets/new.png)  
+- [2022-05-02-Mac-上有好用的-twitter-app-么？](https://www.v2ex.com/t/850470) ![](assets/new.png)  
+- [2022-05-02-做了一个-8-bit-Assembler-Simulator](https://www.v2ex.com/t/850469) ![](assets/new.png)  
+- [2022-05-02-无人机蜂群设计构想](https://www.v2ex.com/t/850468) ![](assets/new.png)  
+- [2022-05-02-有自己搭建低功耗迷你主机+UPS-的方案么，求推荐](https://www.v2ex.com/t/850467) ![](assets/new.png)  
+- [2022-05-02-内推头部币圈公司-海外/国内2-季度末尾国内招聘通道关闭](https://www.v2ex.com/t/850466) ![](assets/new.png)  
+- [2022-05-02-多线程下载文件是不是就是文件分块下载，意思一样吗](https://www.v2ex.com/t/850465) ![](assets/new.png)  
+- [2022-05-02-Win11-上，想要完整的-Linux-环境该怎么做？](https://www.v2ex.com/t/850464) ![](assets/new.png)  
+- [2022-05-02-这种工程能做么？可以咋做呀？](https://www.v2ex.com/t/850462) ![](assets/new.png)  
+- [2022-05-02-小白请教大佬-namecheap-域名-DNS-配置问题](https://www.v2ex.com/t/850461) ![](assets/new.png)  
+- [2022-05-02-6-月出-macbook-air-的可能性大吗？](https://www.v2ex.com/t/850460) ![](assets/new.png)  
 - [2022-05-02-IOS-日区-App-Store-内不能单独购买-必须登录-iCloud-了？](https://www.v2ex.com/t/850455) ![](assets/new.png)  
 - [2022-05-01-Rust-生命周期的学习过程中，感觉总是道理讲得很多，但例子很少](https://www.v2ex.com/t/850454) ![](assets/new.png)  
-- [2022-05-01-macOS-Dock-無法預覽檔案](https://www.v2ex.com/t/850453) ![](assets/new.png)  
-- [2022-05-01-2022-了-windows-还需要装驱动吗](https://www.v2ex.com/t/850452) ![](assets/new.png)  
-- [2022-05-01-16:10-的显示器撸码体验如何？-看中了-U3023e，有在用的-V-友吗？](https://www.v2ex.com/t/850451) ![](assets/new.png)  
-- [2022-05-01-有对-GeoGebra-感兴趣的不，一起做做课件？](https://www.v2ex.com/t/850449) ![](assets/new.png)  
-- [2022-05-01-线上突然出-bug-怎么找？](https://www.v2ex.com/t/850448) ![](assets/new.png)  
-- [2022-05-01-程式师应该要放心大胆地用-Swift-重写-C++-的东西](https://www.v2ex.com/t/850447) ![](assets/new.png)  
-- [2022-05-01-上海联通教育宽带最后有几个人办了？](https://www.v2ex.com/t/850446) ![](assets/new.png)  
-- [2022-05-01-什么卡可以过-IBM-CLOUD？](https://www.v2ex.com/t/850445) ![](assets/new.png)  
-- [2022-05-01-家居装修中的照明设计，无主灯还是有主灯？](https://www.v2ex.com/t/850444) ![](assets/new.png)  
-- [2022-05-01-各位用-Wechat-的小伙伴最近有消息延迟的情况吗？](https://www.v2ex.com/t/850443) ![](assets/new.png)  
-- [2022-05-01-请教一个颜文字问题](https://www.v2ex.com/t/850442) ![](assets/new.png)  
-- [2022-05-01-大家是怎样用-nas-做下载机的](https://www.v2ex.com/t/850441) ![](assets/new.png)  
-- [2022-05-01-ios-分应用代理最好的方案是什么](https://www.v2ex.com/t/850440) ![](assets/new.png)  
-- [2022-05-01-出-devonthink-pro-3-激活码](https://www.v2ex.com/t/850439) ![](assets/new.png)  
-- [2022-05-01-远程全职，不限地点-区块链产品经理-25-35k/月-CDN-架构师/研发专家-50-80k/月-大牛另议](https://www.v2ex.com/t/850438) ![](assets/new.png)  
-- [2022-05-01-美西线路是不是炸了啊](https://www.v2ex.com/t/850436) ![](assets/new.png)  
-- [2022-05-01-不懂我就问-uuplugin-开启后为什么我下载文件时-uuplugin-负载很高](https://www.v2ex.com/t/850435) ![](assets/new.png)  
-- [2022-05-01-旧文重读，博主鱼炒饭的病床回忆日记](https://www.v2ex.com/t/850434) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -556,12 +556,23 @@
 - [2022-05-02-阿里巴巴开源高性能-JSON-库-FASTJSON-v2](https://toutiao.io/k/qy5z8im) ![](assets/new.png)  
 - [2022-05-02-HiveQL-进阶之以柔克刚---将简单语法运用到极致](https://toutiao.io/k/nxy3pln) ![](assets/new.png)  
 - [2022-05-02-DataX-快速入门](https://toutiao.io/k/ltbtbsk) ![](assets/new.png)  
-- [2022-05-02-推荐-深入浅出分布式锁](https://toutiao.io/k/957qnad) ![](assets/new.png)  
-- [2022-05-02-推荐-非常哇塞的-SpringBoot性能优化长文！](https://toutiao.io/k/srppeol) ![](assets/new.png)  
-- [2022-05-02-推荐-微服务网关选型：5种主流-API-网关，哪个最香！](https://toutiao.io/k/jtyo70d) ![](assets/new.png)  
-- [2022-05-02-推荐-面渣逆袭：Spring三十五问，四万字+五十图详解！建议收藏！](https://toutiao.io/k/8ab20e9) ![](assets/new.png)  
+- [2022-05-02-给大家整个小说下载器，一起"欢度"五一~](https://toutiao.io/k/eunyqty) ![](assets/new.png)  
+- [2022-05-02-一款跨时代的高性能-Java-框架！启动速度快到飞起](https://toutiao.io/k/wbc5icw) ![](assets/new.png)  
+- [2022-05-02-15K-Star！Github-上最火的低代码开发平台！](https://toutiao.io/k/3qv24va) ![](assets/new.png)  
+- [2022-05-02-Redis-6-通信协议升级至-RESP3，一口气看完-13-种新数据类型](https://toutiao.io/k/o3z8kca) ![](assets/new.png)  
+- [2022-05-02-ESBuild-&-SWC浅谈:-新一代构建工具](https://toutiao.io/k/34wc5bo) ![](assets/new.png)  
+- [2022-05-02-IDEA官方数据库管理神器，比Navicat还香？](https://toutiao.io/k/2p2bdwd) ![](assets/new.png)  
+- [2022-05-02-斯坦福教授曼宁AAAS特刊发文：大模型已成突破，展望通用人工智能](https://toutiao.io/k/a5dqsp0) ![](assets/new.png)  
+- [2022-05-02-这5个字，能优化你80%的程序性能问题](https://toutiao.io/k/m9sc96j) ![](assets/new.png)  
+- [2022-05-02-解Bug之路-NAT引发的性能瓶颈-完整版​](https://toutiao.io/k/6mj7kgf) ![](assets/new.png)  
+- [2022-05-02-SLICK:-Facebook-基于-SLO-的可靠性保障实践](https://toutiao.io/k/wlzt3ro) ![](assets/new.png)  
+- [2022-05-02-微服务是什么？](https://toutiao.io/k/hoyijln) ![](assets/new.png)  
+- [2022-05-02-【Rust日报】2022-04-30-通过-BSON-和零拷贝反序列化在-MongoDB-Rust-驱动程序中解锁更高的性能](https://toutiao.io/k/5vyixcd) ![](assets/new.png)  
+- [2022-05-02-Apache-Doris为分析而生：Rollup-与-物化视图](https://toutiao.io/k/hc3vr6g) ![](assets/new.png)  
 - [2022-05-02-推荐-别再说你不懂规则引擎了！](https://toutiao.io/k/edts5o5) ![](assets/new.png)  
+- [2022-05-02-推荐-深入浅出分布式锁](https://toutiao.io/k/957qnad) ![](assets/new.png)  
 - [2022-05-02-推荐-性能分析优化的道与术](https://toutiao.io/k/2bi822s) ![](assets/new.png)  
+- [2022-05-02-推荐-微服务网关选型：5种主流-API-网关，哪个最香！](https://toutiao.io/k/jtyo70d) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

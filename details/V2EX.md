@@ -1,10 +1,13 @@
-:alarm_clock: 更新时间: 2022-05-02 06:49:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-05-02 07:14:50。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-05-02-能否说说运维工作内容](https://www.v2ex.com/t/850507) 
+- [2022-05-02-kindle-為什麼不做安卓的墨水屏版？](https://www.v2ex.com/t/850505) 
+- [2022-05-02-越是社恐，焦虑越要反复的练习，直到脱敏为止。](https://www.v2ex.com/t/850504) 
 - [2022-05-02-上哪可以买到浪潮出的-TS4220LC-相变制冷机柜？](https://www.v2ex.com/t/850501) 
 - [2022-05-02-微信小程序内能接入其他方式支付么？](https://www.v2ex.com/t/850500) 
 - [2022-05-02-新版-sheild-tv-啥时候出？](https://www.v2ex.com/t/850498) 
@@ -35,6 +38,3 @@
 - [2022-05-02-这种工程能做么？可以咋做呀？](https://www.v2ex.com/t/850462) 
 - [2022-05-02-小白请教大佬-namecheap-域名-DNS-配置问题](https://www.v2ex.com/t/850461) 
 - [2022-05-02-6-月出-macbook-air-的可能性大吗？](https://www.v2ex.com/t/850460) 
-- [2022-05-02-IOS-日区-App-Store-内不能单独购买-必须登录-iCloud-了？](https://www.v2ex.com/t/850455) 
-- [2022-05-01-Rust-生命周期的学习过程中，感觉总是道理讲得很多，但例子很少](https://www.v2ex.com/t/850454) 
-- [2022-05-01-macOS-Dock-無法預覽檔案](https://www.v2ex.com/t/850453) 

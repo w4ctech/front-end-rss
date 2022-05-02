@@ -1,10 +1,13 @@
-:alarm_clock: 更新时间: 2022-05-02 10:16:30。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-05-02 10:45:40。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-05-02-微信这点确实烦](https://www.v2ex.com/t/850535) 
+- [2022-05-02-大家什么样的需求会考虑用-celery-这种？](https://www.v2ex.com/t/850533) 
+- [2022-05-02-Laravel-使用-memcached-缓存时，-Composer-报-Class-‘memcached’-Not-Found-错误](https://www.v2ex.com/t/850531) 
 - [2022-05-02-支付宝中小程序的问题](https://www.v2ex.com/t/850530) 
 - [2022-05-02-有没有浏览器收藏夹是生成本地-url-文件的？](https://www.v2ex.com/t/850529) 
 - [2022-05-02-广州塔附近，哪里有人少适合新手的滑板场地？](https://www.v2ex.com/t/850528) 
@@ -39,5 +42,3 @@
 - [2022-05-02-收了一个二手奥产-k240s，低音有点惨。](https://www.v2ex.com/t/850490) 
 - [2022-05-02-Vim/Neovim-下的聊天室插件，目前支持-gitter，-weixin，-qq-等](https://www.v2ex.com/t/850489) 
 - [2022-05-02-win10-有类似-macos-的迁移助理类的工具可以实现一键迁移所有文件吗？](https://www.v2ex.com/t/850488) 
-- [2022-05-02-联通到部分-Cloudflare-网站从-GTT-改走-AT&T-/-ATT-线路](https://www.v2ex.com/t/850484) 
-- [2022-05-02-你玩过-hood-这个-app-吗](https://www.v2ex.com/t/850483) 

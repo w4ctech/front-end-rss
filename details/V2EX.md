@@ -1,10 +1,16 @@
-:alarm_clock: 更新时间: 2022-05-02 07:14:50。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-05-02 07:39:34。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-05-02-有没有婚礼计算成本这种软件](https://www.v2ex.com/t/850513) 
+- [2022-05-02-求救大佬-swiftUI-的-AVPlayerView-怎么样阻止用户的输入事件啊，比如空格播放/暂停，还有鼠标滚轮，第一次翻遍网上都找不到解决方法。](https://www.v2ex.com/t/850512) 
+- [2022-05-02-红米-k40-刷了-pixel-experience-android-12-，感觉真棒呀](https://www.v2ex.com/t/850511) 
+- [2022-05-02-为什么官方-Pixel-3-的-Android12-镜像有-5-个链接？](https://www.v2ex.com/t/850510) 
+- [2022-05-02-如何在系统界面为英文状态下，让-iPhone-自带的地图-app-导航时路名使用中文播报](https://www.v2ex.com/t/850509) 
+- [2022-05-02-最近我的-Debian10-服务器无法启动了](https://www.v2ex.com/t/850508) 
 - [2022-05-02-能否说说运维工作内容](https://www.v2ex.com/t/850507) 
 - [2022-05-02-kindle-為什麼不做安卓的墨水屏版？](https://www.v2ex.com/t/850505) 
 - [2022-05-02-越是社恐，焦虑越要反复的练习，直到脱敏为止。](https://www.v2ex.com/t/850504) 
@@ -23,7 +29,6 @@
 - [2022-05-02-你玩过-hood-这个-app-吗](https://www.v2ex.com/t/850483) 
 - [2022-05-02-编译的时候-cannot-find-package，请大佬进来点拨一下](https://www.v2ex.com/t/850480) 
 - [2022-05-02-提了离职后,收到了朋友的邀请](https://www.v2ex.com/t/850479) 
-- [2022-05-02-记录一下自己成为密-j-到集-z-隔-l-的整个过程](https://www.v2ex.com/t/850478) 
 - [2022-05-02-谷歌搜索最近怎么都是手机版页面优先展示了？](https://www.v2ex.com/t/850476) 
 - [2022-05-02-Linux-内网远程桌面-vnc-xrdp-teamviewer-anydesk-哪个最流畅？综合体验最好？](https://www.v2ex.com/t/850475) 
 - [2022-05-02-有什么便携点的乐器是可以自学的吗？](https://www.v2ex.com/t/850472) 
@@ -35,6 +40,3 @@
 - [2022-05-02-内推头部币圈公司-海外/国内2-季度末尾国内招聘通道关闭](https://www.v2ex.com/t/850466) 
 - [2022-05-02-多线程下载文件是不是就是文件分块下载，意思一样吗](https://www.v2ex.com/t/850465) 
 - [2022-05-02-Win11-上，想要完整的-Linux-环境该怎么做？](https://www.v2ex.com/t/850464) 
-- [2022-05-02-这种工程能做么？可以咋做呀？](https://www.v2ex.com/t/850462) 
-- [2022-05-02-小白请教大佬-namecheap-域名-DNS-配置问题](https://www.v2ex.com/t/850461) 
-- [2022-05-02-6-月出-macbook-air-的可能性大吗？](https://www.v2ex.com/t/850460) 

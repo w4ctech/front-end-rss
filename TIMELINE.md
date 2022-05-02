@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-05-02 07:14:50。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-05-02 07:39:34。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,12 @@
 </summary>
 
 
+- [【V2EX】2022-05-02-有没有婚礼计算成本这种软件](https://www.v2ex.com/t/850513) 
+- [【V2EX】2022-05-02-求救大佬-swiftUI-的-AVPlayerView-怎么样阻止用户的输入事件啊，比如空格播放/暂停，还有鼠标滚轮，第一次翻遍网上都找不到解决方法。](https://www.v2ex.com/t/850512) 
+- [【V2EX】2022-05-02-红米-k40-刷了-pixel-experience-android-12-，感觉真棒呀](https://www.v2ex.com/t/850511) 
+- [【V2EX】2022-05-02-为什么官方-Pixel-3-的-Android12-镜像有-5-个链接？](https://www.v2ex.com/t/850510) 
+- [【V2EX】2022-05-02-如何在系统界面为英文状态下，让-iPhone-自带的地图-app-导航时路名使用中文播报](https://www.v2ex.com/t/850509) 
+- [【V2EX】2022-05-02-最近我的-Debian10-服务器无法启动了](https://www.v2ex.com/t/850508) 
 - [【V2EX】2022-05-02-能否说说运维工作内容](https://www.v2ex.com/t/850507) 
 - [【V2EX】2022-05-02-kindle-為什麼不做安卓的墨水屏版？](https://www.v2ex.com/t/850505) 
 - [【V2EX】2022-05-02-越是社恐，焦虑越要反复的练习，直到脱敏为止。](https://www.v2ex.com/t/850504) 
@@ -86,7 +92,6 @@
 - [【V2EX】2022-05-02-你玩过-hood-这个-app-吗](https://www.v2ex.com/t/850483) 
 - [【V2EX】2022-05-02-编译的时候-cannot-find-package，请大佬进来点拨一下](https://www.v2ex.com/t/850480) 
 - [【V2EX】2022-05-02-提了离职后,收到了朋友的邀请](https://www.v2ex.com/t/850479) 
-- [【V2EX】2022-05-02-记录一下自己成为密-j-到集-z-隔-l-的整个过程](https://www.v2ex.com/t/850478) 
 - [【V2EX】2022-05-02-谷歌搜索最近怎么都是手机版页面优先展示了？](https://www.v2ex.com/t/850476) 
 - [【V2EX】2022-05-02-Linux-内网远程桌面-vnc-xrdp-teamviewer-anydesk-哪个最流畅？综合体验最好？](https://www.v2ex.com/t/850475) 
 - [【V2EX】2022-05-02-有什么便携点的乐器是可以自学的吗？](https://www.v2ex.com/t/850472) 
@@ -98,9 +103,6 @@
 - [【V2EX】2022-05-02-内推头部币圈公司-海外/国内2-季度末尾国内招聘通道关闭](https://www.v2ex.com/t/850466) 
 - [【V2EX】2022-05-02-多线程下载文件是不是就是文件分块下载，意思一样吗](https://www.v2ex.com/t/850465) 
 - [【V2EX】2022-05-02-Win11-上，想要完整的-Linux-环境该怎么做？](https://www.v2ex.com/t/850464) 
-- [【V2EX】2022-05-02-这种工程能做么？可以咋做呀？](https://www.v2ex.com/t/850462) 
-- [【V2EX】2022-05-02-小白请教大佬-namecheap-域名-DNS-配置问题](https://www.v2ex.com/t/850461) 
-- [【V2EX】2022-05-02-6-月出-macbook-air-的可能性大吗？](https://www.v2ex.com/t/850460) 
 - [【技术头条】2022-05-02-JUnit不好用？也许你可以试试这些测试工具-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15034&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fjunit-spock-kotest-tdd-testing-framework%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-05-02-敏捷驱动QA改变-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15033&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fagile-driven-qa%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-05-02-用个十百千思考DDD-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15031&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fddd-thinking%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -130,12 +132,12 @@
 - [【开发者头条】2022-05-02-记账神器-Beancount-教程](https://toutiao.io/k/xs8c7b3) 
 - [【开发者头条】2022-05-02-前端老项目的-Vite-迁移实践总结](https://toutiao.io/k/wv31kvn) 
 - [【开发者头条】2022-05-02-RENO:-Netflix的快速事件通知系统](https://toutiao.io/k/49nrdpn) 
-- [【开发者头条】2022-05-02-推荐-别再说你不懂规则引擎了！](https://toutiao.io/k/edts5o5) 
-- [【开发者头条】2022-05-02-推荐-深入浅出分布式锁](https://toutiao.io/k/957qnad) 
-- [【开发者头条】2022-05-02-推荐-性能分析优化的道与术](https://toutiao.io/k/2bi822s) 
 - [【开发者头条】2022-05-02-推荐-非常哇塞的-SpringBoot性能优化长文！](https://toutiao.io/k/srppeol) 
-- [【开发者头条】2022-05-02-推荐-微服务网关选型：5种主流-API-网关，哪个最香！](https://toutiao.io/k/jtyo70d) 
+- [【开发者头条】2022-05-02-推荐-别再说你不懂规则引擎了！](https://toutiao.io/k/edts5o5) 
 - [【开发者头条】2022-05-02-推荐-面渣逆袭：Spring三十五问，四万字+五十图详解！建议收藏！](https://toutiao.io/k/8ab20e9) 
+- [【开发者头条】2022-05-02-推荐-深入浅出分布式锁](https://toutiao.io/k/957qnad) 
+- [【开发者头条】2022-05-02-推荐-微服务网关选型：5种主流-API-网关，哪个最香！](https://toutiao.io/k/jtyo70d) 
+- [【开发者头条】2022-05-02-推荐-性能分析优化的道与术](https://toutiao.io/k/2bi822s) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

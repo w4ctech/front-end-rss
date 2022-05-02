@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-05-02 07:14:50。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-05-02 07:39:34。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1912,6 +1912,10 @@
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2022-03-21-ascent-override-descent-override-line-gap-override一锅端](https://www.zhangxinxu.com/wordpress/2022/03/css-ascent-override-descent/) 
+- [2022-05-02-有没有婚礼计算成本这种软件](https://www.v2ex.com/t/850513) 
+- [2022-05-02-为什么官方-Pixel-3-的-Android12-镜像有-5-个链接？](https://www.v2ex.com/t/850510) 
+- [2022-05-02-如何在系统界面为英文状态下，让-iPhone-自带的地图-app-导航时路名使用中文播报](https://www.v2ex.com/t/850509) 
+- [2022-05-02-最近我的-Debian10-服务器无法启动了](https://www.v2ex.com/t/850508) 
 - [2022-05-02-能否说说运维工作内容](https://www.v2ex.com/t/850507) 
 - [2022-05-02-kindle-為什麼不做安卓的墨水屏版？](https://www.v2ex.com/t/850505) 
 - [2022-05-02-越是社恐，焦虑越要反复的练习，直到脱敏为止。](https://www.v2ex.com/t/850504) 
@@ -1928,7 +1932,6 @@
 - [2022-05-02-你玩过-hood-这个-app-吗](https://www.v2ex.com/t/850483) 
 - [2022-05-02-编译的时候-cannot-find-package，请大佬进来点拨一下](https://www.v2ex.com/t/850480) 
 - [2022-05-02-提了离职后,收到了朋友的邀请](https://www.v2ex.com/t/850479) 
-- [2022-05-02-记录一下自己成为密-j-到集-z-隔-l-的整个过程](https://www.v2ex.com/t/850478) 
 - [2022-05-02-谷歌搜索最近怎么都是手机版页面优先展示了？](https://www.v2ex.com/t/850476) 
 - [2022-05-02-有什么便携点的乐器是可以自学的吗？](https://www.v2ex.com/t/850472) 
 - [2022-05-02-MPTCP-在日常中有什么应用吗？](https://www.v2ex.com/t/850471) 
@@ -1938,9 +1941,6 @@
 - [2022-05-02-有自己搭建低功耗迷你主机+UPS-的方案么，求推荐](https://www.v2ex.com/t/850467) 
 - [2022-05-02-多线程下载文件是不是就是文件分块下载，意思一样吗](https://www.v2ex.com/t/850465) 
 - [2022-05-02-Win11-上，想要完整的-Linux-环境该怎么做？](https://www.v2ex.com/t/850464) 
-- [2022-05-02-这种工程能做么？可以咋做呀？](https://www.v2ex.com/t/850462) 
-- [2022-05-02-小白请教大佬-namecheap-域名-DNS-配置问题](https://www.v2ex.com/t/850461) 
-- [2022-05-02-6-月出-macbook-air-的可能性大吗？](https://www.v2ex.com/t/850460) 
 - [2022-05-02-JUnit不好用？也许你可以试试这些测试工具-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15034&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fjunit-spock-kotest-tdd-testing-framework%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-05-02-敏捷驱动QA改变-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15033&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fagile-driven-qa%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-05-02-用个十百千思考DDD-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15031&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fddd-thinking%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1962,6 +1962,6 @@
 - [2022-05-02-记账神器-Beancount-教程](https://toutiao.io/k/xs8c7b3) 
 - [2022-05-02-前端老项目的-Vite-迁移实践总结](https://toutiao.io/k/wv31kvn) 
 - [2022-05-02-推荐-别再说你不懂规则引擎了！](https://toutiao.io/k/edts5o5) 
+- [2022-05-02-推荐-面渣逆袭：Spring三十五问，四万字+五十图详解！建议收藏！](https://toutiao.io/k/8ab20e9) 
 - [2022-05-02-推荐-深入浅出分布式锁](https://toutiao.io/k/957qnad) 
 - [2022-05-02-推荐-微服务网关选型：5种主流-API-网关，哪个最香！](https://toutiao.io/k/jtyo70d) 
-- [2022-05-02-推荐-面渣逆袭：Spring三十五问，四万字+五十图详解！建议收藏！](https://toutiao.io/k/8ab20e9) 

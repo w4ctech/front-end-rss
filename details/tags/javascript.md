@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-05-02 07:14:50。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-05-02 07:39:34。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -18,5 +18,6 @@
 - [2022-04-22-CSS实现滚动高度自动变小的粘滞效果](https://www.zhangxinxu.com/wordpress/2022/04/css-sticky-size-change/) 
 - [2022-03-15-基于howler.js写了个音频播放器组件](https://www.zhangxinxu.com/wordpress/2022/03/howler-js-audio-player/) 
 - [2022-03-07-介绍8个和滚动相关的CSS属性](https://www.zhangxinxu.com/wordpress/2022/03/10-css-scroll-scrollbar/) 
+- [2022-05-02-求救大佬-swiftUI-的-AVPlayerView-怎么样阻止用户的输入事件啊，比如空格播放/暂停，还有鼠标滚轮，第一次翻遍网上都找不到解决方法。](https://www.v2ex.com/t/850512) 
 - [2022-05-02-阿里巴巴开源高性能-JSON-库-FASTJSON-v2](https://toutiao.io/k/qy5z8im) 
 - [2022-05-02-RENO:-Netflix的快速事件通知系统](https://toutiao.io/k/49nrdpn) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-05-02 05:49:40，:rocket: 更新条数: +2012， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-05-02 06:17:56，:rocket: 更新条数: +2020， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,9 @@
 </summary>
 
 
+- [2022-05-02-新版-sheild-tv-啥时候出？](https://www.v2ex.com/t/850498) ![](assets/new.png)  
+- [2022-05-02-现在换电池直接显示维修也充不进去？](https://www.v2ex.com/t/850497) ![](assets/new.png)  
+- [2022-05-02-一个电视机顶盒引发的-tcp-路径-mtu-问题](https://www.v2ex.com/t/850496) ![](assets/new.png)  
 - [2022-05-02-远程工作团队如何保证项目的有序进行呢](https://www.v2ex.com/t/850494) ![](assets/new.png)  
 - [2022-05-02-有什么方法限制外人访问自己的-DoH-服务](https://www.v2ex.com/t/850493) ![](assets/new.png)  
 - [2022-05-02-求推荐一套-12-代-intel-装机](https://www.v2ex.com/t/850492) ![](assets/new.png)  
@@ -508,9 +511,6 @@
 - [2022-05-02-有什么便携点的乐器是可以自学的吗？](https://www.v2ex.com/t/850472) ![](assets/new.png)  
 - [2022-05-02-MPTCP-在日常中有什么应用吗？](https://www.v2ex.com/t/850471) ![](assets/new.png)  
 - [2022-05-02-Mac-上有好用的-twitter-app-么？](https://www.v2ex.com/t/850470) ![](assets/new.png)  
-- [2022-05-02-做了一个-8-bit-Assembler-Simulator](https://www.v2ex.com/t/850469) ![](assets/new.png)  
-- [2022-05-02-无人机蜂群设计构想](https://www.v2ex.com/t/850468) ![](assets/new.png)  
-- [2022-05-02-有自己搭建低功耗迷你主机+UPS-的方案么，求推荐](https://www.v2ex.com/t/850467) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -558,12 +558,21 @@
 - [2022-05-02-DataX-快速入门](https://toutiao.io/k/ltbtbsk) ![](assets/new.png)  
 - [2022-05-02-这5个字，能优化你80%的程序性能问题](https://toutiao.io/k/m9sc96j) ![](assets/new.png)  
 - [2022-05-02-解Bug之路-NAT引发的性能瓶颈-完整版​](https://toutiao.io/k/6mj7kgf) ![](assets/new.png)  
+- [2022-05-02-DevOps从持续开发到持续部署](https://toutiao.io/k/mo3m80a) ![](assets/new.png)  
+- [2022-05-02-Spring-Boot性能太差，教你几招轻松搞定](https://toutiao.io/k/60c8rnz) ![](assets/new.png)  
+- [2022-05-02-RENO:-Netflix的快速事件通知系统](https://toutiao.io/k/49nrdpn) ![](assets/new.png)  
+- [2022-05-02-博文干货｜OpenMLDB-Pulsar-Connector：高效打通实时数据到特征工程](https://toutiao.io/k/wy073n4) ![](assets/new.png)  
+- [2022-05-02-记账神器-Beancount-教程](https://toutiao.io/k/xs8c7b3) ![](assets/new.png)  
+- [2022-05-02-软件开发宣言](https://toutiao.io/k/i1o04ki) ![](assets/new.png)  
+- [2022-05-02-如何优雅地记录操作日志？](https://toutiao.io/k/oospoio) ![](assets/new.png)  
+- [2022-05-02-前端老项目的-Vite-迁移实践总结](https://toutiao.io/k/wv31kvn) ![](assets/new.png)  
+- [2022-05-02-【Rust日报】2022-05-01-用-Rust-编写的-git-trophy](https://toutiao.io/k/t42exwu) ![](assets/new.png)  
+- [2022-05-02-推荐-别再说你不懂规则引擎了！](https://toutiao.io/k/edts5o5) ![](assets/new.png)  
 - [2022-05-02-推荐-非常哇塞的-SpringBoot性能优化长文！](https://toutiao.io/k/srppeol) ![](assets/new.png)  
 - [2022-05-02-推荐-微服务网关选型：5种主流-API-网关，哪个最香！](https://toutiao.io/k/jtyo70d) ![](assets/new.png)  
+- [2022-05-02-推荐-性能分析优化的道与术](https://toutiao.io/k/2bi822s) ![](assets/new.png)  
 - [2022-05-02-推荐-面渣逆袭：Spring三十五问，四万字+五十图详解！建议收藏！](https://toutiao.io/k/8ab20e9) ![](assets/new.png)  
 - [2022-05-02-推荐-深入浅出分布式锁](https://toutiao.io/k/957qnad) ![](assets/new.png)  
-- [2022-05-02-推荐-别再说你不懂规则引擎了！](https://toutiao.io/k/edts5o5) ![](assets/new.png)  
-- [2022-05-02-推荐-性能分析优化的道与术](https://toutiao.io/k/2bi822s) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

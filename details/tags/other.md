@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-05-02 14:13:45。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-05-02 14:39:30。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1912,6 +1912,8 @@
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2022-03-21-ascent-override-descent-override-line-gap-override一锅端](https://www.zhangxinxu.com/wordpress/2022/03/css-ascent-override-descent/) 
+- [2022-05-02-有没有数据分析/数据治理岗位的大佬分享一下经验？](https://www.v2ex.com/t/850565) 
+- [2022-05-02-看着-Ubuntu-22.04-新内核眼馋，目前-Debian-11-stable，-是-backports-安装新内核-还是直接升级到-testing？](https://www.v2ex.com/t/850563) 
 - [2022-05-02-南京户外露营⛺️交流群](https://www.v2ex.com/t/850562) 
 - [2022-05-02-跑步周记：不求猛，求恒，是我跑步的座右铭](https://www.v2ex.com/t/850560) 
 - [2022-05-02-Goland-的-Code-Completion-反应太慢，需要大概-2s，大家有遇到吗](https://www.v2ex.com/t/850559) 
@@ -1932,9 +1934,6 @@
 - [2022-05-02-网易云黑胶-VIP（7-天），共-5-张（5-月份）](https://www.v2ex.com/t/850525) 
 - [2022-05-02-MD-格式显示帖子有缺陷？](https://www.v2ex.com/t/850524) 
 - [2022-05-02-Python-大数计算问题请教](https://www.v2ex.com/t/850520) 
-- [2022-05-02-WireGuard-客户端无法获取伪装后的-GUA-地址](https://www.v2ex.com/t/850516) 
-- [2022-05-02-大厂完善的基建对于个人发展的利弊](https://www.v2ex.com/t/850515) 
-- [2022-05-02-有没有婚礼计算成本这种软件](https://www.v2ex.com/t/850513) 
 - [2022-05-02-JUnit不好用？也许你可以试试这些测试工具-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15034&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fjunit-spock-kotest-tdd-testing-framework%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-05-02-敏捷驱动QA改变-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15033&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fagile-driven-qa%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-05-02-用个十百千思考DDD-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15031&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fddd-thinking%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1955,7 +1954,7 @@
 - [2022-05-02-DataX-快速入门](https://toutiao.io/k/ltbtbsk) 
 - [2022-05-02-记账神器-Beancount-教程](https://toutiao.io/k/xs8c7b3) 
 - [2022-05-02-前端老项目的-Vite-迁移实践总结](https://toutiao.io/k/wv31kvn) 
-- [2022-05-02-推荐-深入浅出分布式锁](https://toutiao.io/k/957qnad) 
 - [2022-05-02-推荐-别再说你不懂规则引擎了！](https://toutiao.io/k/edts5o5) 
 - [2022-05-02-推荐-微服务网关选型：5种主流-API-网关，哪个最香！](https://toutiao.io/k/jtyo70d) 
 - [2022-05-02-推荐-面渣逆袭：Spring三十五问，四万字+五十图详解！建议收藏！](https://toutiao.io/k/8ab20e9) 
+- [2022-05-02-推荐-深入浅出分布式锁](https://toutiao.io/k/957qnad) 

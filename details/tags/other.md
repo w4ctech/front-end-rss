@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-05-03 17:04:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-05-03 17:50:01。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1940,7 +1940,6 @@
 - [2022-05-03-基础架构-APM-Platform-上海/北京/杭州-社招/实习/校招-长期有效](https://www.v2ex.com/t/850665) 
 - [2022-05-03-v-友们，想给父母更新一次手机（只限-iPhone-），相对护眼-LCD-屏的-iPhone-11-是不是最优解？](https://www.v2ex.com/t/850664) 
 - [2022-05-03-阿里云国际-HK-轻量新开服务上-SS-立马被阻断端口](https://www.v2ex.com/t/850663) 
-- [2022-05-03-请教各位-C++的老哥，发布程序的时候，需要打成-rpm、deb-包吗？](https://www.v2ex.com/t/850661) 
 - [2022-05-03-JUnit不好用？也许你可以试试这些测试工具-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15034&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fjunit-spock-kotest-tdd-testing-framework%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-05-03-敏捷驱动QA改变-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15033&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fagile-driven-qa%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-05-03-用个十百千思考DDD-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15031&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fddd-thinking%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

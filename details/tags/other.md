@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-05-03 04:58:32。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-05-03 05:18:57。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1912,6 +1912,7 @@
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2022-03-21-ascent-override-descent-override-line-gap-override一锅端](https://www.zhangxinxu.com/wordpress/2022/03/css-ascent-override-descent/) 
+- [2022-05-03-苦于这种-bug-没见过不知道怎么处理,-特上来求助..](https://www.v2ex.com/t/850619) 
 - [2022-05-03-用-Dart-开发大前端跨平台的业务和数据层是否可行？](https://www.v2ex.com/t/850617) 
 - [2022-05-03-这是雷电-3-扩展坞网卡的通病吗?](https://www.v2ex.com/t/850615) 
 - [2022-05-03-求教新旧-iPhone-如何迁移数据？无数据线](https://www.v2ex.com/t/850614) 
@@ -1940,8 +1941,6 @@
 - [2022-05-02-物色一台支持通话录音超长续航的小手机](https://www.v2ex.com/t/850575) 
 - [2022-05-02-海淘-JINS-输入度数界面有教程吗？](https://www.v2ex.com/t/850574) 
 - [2022-05-02-2022-关于迷你主机的一些观察和思考（带独显）](https://www.v2ex.com/t/850572) 
-- [2022-05-02-有靠谱的开箱即用的用户认证授权云服务推荐吗?](https://www.v2ex.com/t/850569) 
-- [2022-05-02-mac-os-又出新-bug-了？](https://www.v2ex.com/t/850568) 
 - [2022-05-03-JUnit不好用？也许你可以试试这些测试工具-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15034&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fjunit-spock-kotest-tdd-testing-framework%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-05-03-敏捷驱动QA改变-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15033&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fagile-driven-qa%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-05-03-用个十百千思考DDD-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15031&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fddd-thinking%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1958,10 +1957,10 @@
 - [2022-05-03-这款网络排查工具，堪称神器！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15013&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493797%26amp%3Bidx%3D1%26amp%3Bsn%3D7356bd84df9977ad3781b336c0b2e8b6%26amp%3Bchksm%3Dfa3f09fecd4880e83b060001a939ad5633e82987f70d23ddacc86b445f6e56c1626be7f359c0%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-05-03-成为糟糕开发者的5个建议！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15011&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493786%26amp%3Bidx%3D1%26amp%3Bsn%3De4fafcc3e37d4def755e48013e67a524%26amp%3Bchksm%3Dfa3f09c1cd4880d7101d28a7953abb6778745cedbb626446dfea739e302a3101f15c9f967e9d%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-05-03-架构设计资料合集](https://toutiao.io/k/iqlrz7b) 
+- [2022-05-03-聊聊并发编程的12种业务场景](https://toutiao.io/k/8ndch1f) 
 - [2022-05-03-软件开发宣言](https://toutiao.io/k/i1o04ki) 
 - [2022-05-03-腾讯开源的，一个所见即所得的页面可视化编辑器](https://toutiao.io/k/7t2u6k4) 
-- [2022-05-03-聊聊并发编程的12种业务场景](https://toutiao.io/k/8ndch1f) 
 - [2022-05-03-ByteDoc-3.0：MongoDB-云原生实践](https://toutiao.io/k/ws9k08g) 
-- [2022-05-03-推荐-微服务网关选型：5种主流-API-网关，哪个最香！](https://toutiao.io/k/jtyo70d) 
-- [2022-05-03-推荐-面渣逆袭：Spring三十五问，四万字+五十图详解！建议收藏！](https://toutiao.io/k/8ab20e9) 
 - [2022-05-03-推荐-深入浅出分布式锁](https://toutiao.io/k/957qnad) 
+- [2022-05-03-推荐-面渣逆袭：Spring三十五问，四万字+五十图详解！建议收藏！](https://toutiao.io/k/8ab20e9) 
+- [2022-05-03-推荐-微服务网关选型：5种主流-API-网关，哪个最香！](https://toutiao.io/k/jtyo70d) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-05-03 16:20:16。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-05-03 17:04:28。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,9 @@
 </summary>
 
 
+- [【V2EX】2022-05-03-宗教领域数字化演进](https://www.v2ex.com/t/850710) 
+- [【V2EX】2022-05-03-帮朋友问，怎么快速的把很多张图片里的内容，自动生成一个视频同时在视频里能自动朗读图片里的内容](https://www.v2ex.com/t/850709) 
+- [【V2EX】2022-05-03-其实大厂小厂都不是问题](https://www.v2ex.com/t/850707) 
 - [【V2EX】2022-05-03-有没有直接填写数据库地址后，可以傻瓜式的在线管理的东西，类似于-phpadmin](https://www.v2ex.com/t/850705) 
 - [【V2EX】2022-05-03-现在-Java-转-go-是不是个好时机？](https://www.v2ex.com/t/850704) 
 - [【V2EX】2022-05-03-现在-win11-的平板模式是不是和桌面模式显示差不多的？](https://www.v2ex.com/t/850703) 
@@ -101,10 +104,6 @@
 - [【V2EX】2022-05-03-v-友们，想给父母更新一次手机（只限-iPhone-），相对护眼-LCD-屏的-iPhone-11-是不是最优解？](https://www.v2ex.com/t/850664) 
 - [【V2EX】2022-05-03-阿里云国际-HK-轻量新开服务上-SS-立马被阻断端口](https://www.v2ex.com/t/850663) 
 - [【V2EX】2022-05-03-请教各位-C++的老哥，发布程序的时候，需要打成-rpm、deb-包吗？](https://www.v2ex.com/t/850661) 
-- [【V2EX】2022-05-03-帮哥们-长沙华为内推](https://www.v2ex.com/t/850660) 
-- [【V2EX】2022-05-03-重装系统和更换机器时，各种软件和设置的迁移成本太大了，装软件、更驱动、调设置、配环境总要折腾好几天，有解吗？](https://www.v2ex.com/t/850659) 
-- [【V2EX】2022-05-03-问一个关于出租屋门锁的问题。](https://www.v2ex.com/t/850658) 
-- [【V2EX】2022-05-03-Marin-Software-全国招聘-可以在家办公-应用运维-自动化测试-资深大数据开发，-IT-Infra-工程师（仅上海），欢迎发简历到-jnliu@marinsoftware.com-MarinSoft...](https://www.v2ex.com/t/850656) 
 - [【技术头条】2022-05-03-JUnit不好用？也许你可以试试这些测试工具-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15034&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fjunit-spock-kotest-tdd-testing-framework%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-05-03-敏捷驱动QA改变-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15033&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fagile-driven-qa%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-05-03-用个十百千思考DDD-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15031&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fddd-thinking%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -135,11 +134,11 @@
 - [【开发者头条】2022-05-03-硬核图解！30张图带你搞懂！路由器，集线器，交换机，网桥，光猫有啥区别？](https://toutiao.io/k/51b7ek5) 
 - [【开发者头条】2022-05-03-Pieter-Levels](https://toutiao.io/k/o7c438i) 
 - [【开发者头条】2022-05-03-如何将知识图谱引入推荐系统？](https://toutiao.io/k/3onsudy) 
-- [【开发者头条】2022-05-03-推荐-性能分析优化的道与术](https://toutiao.io/k/2bi822s) 
 - [【开发者头条】2022-05-03-推荐-如果你是一个Golang面试官，你会问哪些问题？](https://toutiao.io/k/0acpnu3) 
-- [【开发者头条】2022-05-03-推荐-深入浅出分布式锁](https://toutiao.io/k/957qnad) 
 - [【开发者头条】2022-05-03-推荐-面渣逆袭：Spring三十五问，四万字+五十图详解！建议收藏！](https://toutiao.io/k/8ab20e9) 
+- [【开发者头条】2022-05-03-推荐-性能分析优化的道与术](https://toutiao.io/k/2bi822s) 
 - [【开发者头条】2022-05-03-推荐-非常哇塞的-SpringBoot性能优化长文！](https://toutiao.io/k/srppeol) 
+- [【开发者头条】2022-05-03-推荐-深入浅出分布式锁](https://toutiao.io/k/957qnad) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

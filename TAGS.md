@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-05-03 16:20:16。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-05-03 17:04:28。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -239,6 +239,7 @@
 
 - [【武汉肺炎防疫全纪录(财新网)】广州17岁男生在定点医院参加高考-特殊考场视频监考](https://m.caixin.com/m/2021-06-05/101723418.html)
 - [【武汉肺炎防疫全纪录(财新网)】林郑月娥率13高官直播接种科兴疫苗-复星疫苗预计周中到港](https://m.caixin.com/m/2021-02-22/101665724.html)
+- [【V2EX】帮朋友问，怎么快速的把很多张图片里的内容，自动生成一个视频同时在视频里能自动朗读图片里的内容](https://www.v2ex.com/t/850709)
 - [【V2EX】腾讯云音视频招-2023-届大前端开发实习生（西安）](https://www.v2ex.com/t/850698)
 - [......【查看更多】......](./details/tags/audio-video.md)
 
@@ -352,7 +353,6 @@
 
 
 
-- [【V2EX】Marin-Software-全国招聘-可以在家办公-应用运维-自动化测试-资深大数据开发，-IT-Infra-工程师（仅上海），欢迎发简历到-jnliu@marinsoftware.com-MarinSoft...](https://www.v2ex.com/t/850656)
 - [【开发者头条】推荐-如果你是一个Golang面试官，你会问哪些问题？](https://toutiao.io/k/0acpnu3)
 - [......【查看更多】......](./details/tags/job-interview.md)
 

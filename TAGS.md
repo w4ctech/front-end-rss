@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-05-03 08:46:33。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-05-03 09:14:27。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -352,6 +352,7 @@
 
 
 
+- [【V2EX】Marin-Software-全国招聘-可以在家办公-应用运维-自动化测试-资深大数据开发，-IT-Infra-工程师（仅上海），欢迎发简历到-jnliu@marinsoftware.com-MarinSoft...](https://www.v2ex.com/t/850656)
 - [【V2EX】南京-Citrix---思杰-虚拟化/云平台高级软件开发工程师-招聘---美资外企---远程办公---五险一金-24%---30K-起](https://www.v2ex.com/t/850608)
 - [【开发者头条】推荐-如果你是一个Golang面试官，你会问哪些问题？](https://toutiao.io/k/0acpnu3)
 - [......【查看更多】......](./details/tags/job-interview.md)

@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2022-05-03 21:40:17。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-05-03 22:15:11。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-05-03-Apple-Watch-状态栏-bug](https://www.v2ex.com/t/850715) 
 - [2022-05-03-求助！-怎么彻底删除掉这个-tg-的-bot?](https://www.v2ex.com/t/850714) 
 - [2022-05-03-招聘-web3-开发远程,-有-solidity-开发经验，-yysatoshi](https://www.v2ex.com/t/850713) 
 - [2022-05-03-很久没关注新游戏了，有啥上古卷轴-5-的替代吗？](https://www.v2ex.com/t/850712) 
@@ -41,4 +42,3 @@
 - [2022-05-03-求助懂-ZeroTier-One-的大佬](https://www.v2ex.com/t/850669) 
 - [2022-05-03-apple-watch-6-睡眠时无法常亮显示时间](https://www.v2ex.com/t/850668) 
 - [2022-05-03-求个-Arch-Linux-的详细安装教程](https://www.v2ex.com/t/850666) 
-- [2022-05-03-基础架构-APM-Platform-上海/北京/杭州-社招/实习/校招-长期有效](https://www.v2ex.com/t/850665) 

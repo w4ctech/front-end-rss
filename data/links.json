@@ -9953,6 +9953,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "Apple Watch 状态栏 bug",
+        "link": "https://www.v2ex.com/t/850715",
+        "date": "2022-05-03"
+      },
+      {
         "title": "求助！ 怎么彻底删除掉这个 tg 的 bot?",
         "link": "https://www.v2ex.com/t/850714",
         "date": "2022-05-03"
@@ -10131,11 +10136,6 @@
         "title": "求个 Arch Linux 的详细安装教程",
         "link": "https://www.v2ex.com/t/850666",
         "date": "2022-05-03"
-      },
-      {
-        "title": "[基础架构-APM-Platform] [上海/北京/杭州] [社招/实习/校招 ]长期有效",
-        "link": "https://www.v2ex.com/t/850665",
-        "date": "2022-05-03"
       }
     ]
   },
@@ -10307,13 +10307,8 @@
         "date": "2022-05-03"
       },
       {
-        "title": "[推荐] 面渣逆袭：Spring三十五问，四万字+五十图详解！建议收藏！",
-        "link": "https://toutiao.io/k/8ab20e9",
-        "date": "2022-05-03"
-      },
-      {
-        "title": "[推荐] 如果你是一个Golang面试官，你会问哪些问题？",
-        "link": "https://toutiao.io/k/0acpnu3",
+        "title": "[推荐] 深入浅出分布式锁",
+        "link": "https://toutiao.io/k/957qnad",
         "date": "2022-05-03"
       },
       {
@@ -10322,8 +10317,13 @@
         "date": "2022-05-03"
       },
       {
-        "title": "[推荐] 深入浅出分布式锁",
-        "link": "https://toutiao.io/k/957qnad",
+        "title": "[推荐] 面渣逆袭：Spring三十五问，四万字+五十图详解！建议收藏！",
+        "link": "https://toutiao.io/k/8ab20e9",
+        "date": "2022-05-03"
+      },
+      {
+        "title": "[推荐] 如果你是一个Golang面试官，你会问哪些问题？",
+        "link": "https://toutiao.io/k/0acpnu3",
         "date": "2022-05-03"
       }
     ]

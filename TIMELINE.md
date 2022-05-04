@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-05-04 07:13:59。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-05-04 07:39:15。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,8 @@
 </summary>
 
 
+- [【V2EX】2022-05-04-Linux-系统除了-TLP-还有什么软件可以控制电池充放电阈值？](https://www.v2ex.com/t/850769) 
+- [【V2EX】2022-05-04-让默认不支持-Docker-的官方群晖-NAS-都支持-Docker-功能](https://www.v2ex.com/t/850768) 
 - [【V2EX】2022-05-04-支付宝首页活动推荐咋没了](https://www.v2ex.com/t/850767) 
 - [【V2EX】2022-05-04-Dropbox-paper-是个不折腾的笔记本好选择](https://www.v2ex.com/t/850766) 
 - [【V2EX】2022-05-04-移动硬盘组合推荐](https://www.v2ex.com/t/850765) 
@@ -107,8 +109,6 @@
 - [【V2EX】2022-05-04-iOS-系统自带应用如何降级？](https://www.v2ex.com/t/850723) 
 - [【V2EX】2022-05-04-业余玩家如果进行-iOS-开发](https://www.v2ex.com/t/850721) 
 - [【V2EX】2022-05-04-苹果-MacBook-换硬盘-恢复时报错-2102F-有没有遇见过的？](https://www.v2ex.com/t/850720) 
-- [【V2EX】2022-05-03-云原生的-CICD-平台，应该是什么样子](https://www.v2ex.com/t/850719) 
-- [【V2EX】2022-05-03-yarn-更新到最新版本会在用户目录下创建-package.json](https://www.v2ex.com/t/850718) 
 - [【技术头条】2022-05-04-JUnit不好用？也许你可以试试这些测试工具-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15034&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fjunit-spock-kotest-tdd-testing-framework%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-05-04-敏捷驱动QA改变-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15033&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fagile-driven-qa%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-05-04-用个十百千思考DDD-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15031&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fddd-thinking%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -137,10 +137,10 @@
 - [【开发者头条】2022-05-04-B站基于AIFlow+Flink在批流融合调度上的实践](https://toutiao.io/k/our58ue) 
 - [【开发者头条】2022-05-04-漫谈分布式系统（二十七）：从批处理到流计算](https://toutiao.io/k/4i9qqoj) 
 - [【开发者头条】2022-05-04-所以，你是知道怎么监听LocalStorage的变化的？](https://toutiao.io/k/nedy9sx) 
-- [【开发者头条】2022-05-04-推荐-面渣逆袭：Spring三十五问，四万字+五十图详解！建议收藏！](https://toutiao.io/k/8ab20e9) 
-- [【开发者头条】2022-05-04-推荐-如果你是一个Golang面试官，你会问哪些问题？](https://toutiao.io/k/0acpnu3) 
 - [【开发者头条】2022-05-04-推荐-深入浅出分布式锁](https://toutiao.io/k/957qnad) 
 - [【开发者头条】2022-05-04-推荐-性能分析优化的道与术](https://toutiao.io/k/2bi822s) 
+- [【开发者头条】2022-05-04-推荐-面渣逆袭：Spring三十五问，四万字+五十图详解！建议收藏！](https://toutiao.io/k/8ab20e9) 
+- [【开发者头条】2022-05-04-推荐-如果你是一个Golang面试官，你会问哪些问题？](https://toutiao.io/k/0acpnu3) 
 - [【开发者头条】2022-05-04-推荐-非常哇塞的-SpringBoot性能优化长文！](https://toutiao.io/k/srppeol) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>

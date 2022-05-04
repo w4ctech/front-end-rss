@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2022-05-04 07:13:59。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-05-04 07:39:16。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-05-04-Linux-系统除了-TLP-还有什么软件可以控制电池充放电阈值？](https://www.v2ex.com/t/850769) 
+- [2022-05-04-让默认不支持-Docker-的官方群晖-NAS-都支持-Docker-功能](https://www.v2ex.com/t/850768) 
 - [2022-05-04-支付宝首页活动推荐咋没了](https://www.v2ex.com/t/850767) 
 - [2022-05-04-Dropbox-paper-是个不折腾的笔记本好选择](https://www.v2ex.com/t/850766) 
 - [2022-05-04-移动硬盘组合推荐](https://www.v2ex.com/t/850765) 
@@ -44,5 +46,3 @@
 - [2022-05-04-iOS-系统自带应用如何降级？](https://www.v2ex.com/t/850723) 
 - [2022-05-04-业余玩家如果进行-iOS-开发](https://www.v2ex.com/t/850721) 
 - [2022-05-04-苹果-MacBook-换硬盘-恢复时报错-2102F-有没有遇见过的？](https://www.v2ex.com/t/850720) 
-- [2022-05-03-云原生的-CICD-平台，应该是什么样子](https://www.v2ex.com/t/850719) 
-- [2022-05-03-yarn-更新到最新版本会在用户目录下创建-package.json](https://www.v2ex.com/t/850718) 

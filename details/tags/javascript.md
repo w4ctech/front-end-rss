@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-05-04 08:45:36。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-05-04 09:15:53。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -19,5 +19,4 @@
 - [2022-03-15-基于howler.js写了个音频播放器组件](https://www.zhangxinxu.com/wordpress/2022/03/howler-js-audio-player/) 
 - [2022-03-07-介绍8个和滚动相关的CSS属性](https://www.zhangxinxu.com/wordpress/2022/03/10-css-scroll-scrollbar/) 
 - [2022-05-04-预算-500，购买支持-FQ-和-wifi6-的路由器](https://www.v2ex.com/t/850772) 
-- [2022-05-04-出于练习做了一个简单的组件库，欢迎拍砖](https://www.v2ex.com/t/850735) 
 - [2022-05-04-一个检测-json-合法性的脚本-droidyue.com](https://blogread.cn/news/go.php?idItem=15045&url=https%3A%2F%2Fdroidyue.com%2Fblog%2F2022%2F01%2F23%2Fhow-to-check-json-validity-in-ruby%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

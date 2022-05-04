@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-05-04 08:45:36。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-05-04 09:15:53。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## CSS
 
@@ -11,3 +11,4 @@
 - [2022-03-06-CSS-accent-color属性简介](https://www.zhangxinxu.com/wordpress/2022/03/css-accent-color/) 
 - [2022-02-25-被低估的border-image属性](https://www.zhangxinxu.com/wordpress/2022/02/css-border-image-tap-highlight/) 
 - [2022-02-20-CSS-overflow-clip-margin属性简介](https://www.zhangxinxu.com/wordpress/2022/02/css-overflow-clip-margin/) 
+- [2022-05-04-纯CSS实现未读消息超过100自动显示为99+-www.zhangxinxu.com](https://blogread.cn/news/go.php?idItem=15050&url=https%3A%2F%2Fwww.zhangxinxu.com%2Fwordpress%2F2022%2F01%2Fcss-show-diff-content-according-var%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

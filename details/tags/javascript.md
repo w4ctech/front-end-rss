@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-05-04 07:39:15。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-05-04 08:18:11。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -18,4 +18,5 @@
 - [2022-04-22-CSS实现滚动高度自动变小的粘滞效果](https://www.zhangxinxu.com/wordpress/2022/04/css-sticky-size-change/) 
 - [2022-03-15-基于howler.js写了个音频播放器组件](https://www.zhangxinxu.com/wordpress/2022/03/howler-js-audio-player/) 
 - [2022-03-07-介绍8个和滚动相关的CSS属性](https://www.zhangxinxu.com/wordpress/2022/03/10-css-scroll-scrollbar/) 
+- [2022-05-04-预算-500，购买支持-FQ-和-wifi6-的路由器](https://www.v2ex.com/t/850772) 
 - [2022-05-04-出于练习做了一个简单的组件库，欢迎拍砖](https://www.v2ex.com/t/850735) 

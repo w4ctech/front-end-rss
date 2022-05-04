@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-05-04 19:37:05。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-05-04 20:16:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1912,6 +1912,7 @@
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2022-03-21-ascent-override-descent-override-line-gap-override一锅端](https://www.zhangxinxu.com/wordpress/2022/03/css-ascent-override-descent/) 
+- [2022-05-04-SHEIN-新加坡热招中！绝对润的好去处！-WLB！](https://www.v2ex.com/t/850860) 
 - [2022-05-04-SHEIN-Base-南京、广州、新加坡、深圳-简介-线上快时尚公司希音，-E-轮融资，海外用户已达-1-亿+，连续几年销售额翻一番，公司目前已有员工-40000+-关...](https://www.v2ex.com/t/850858) 
 - [2022-05-04-不知道是哪位大兄弟干的事情](https://www.v2ex.com/t/850857) 
 - [2022-05-04-GoldenDict++OCR-macOS-12.13.1_universal-拍瓜](https://www.v2ex.com/t/850856) 
@@ -1943,7 +1944,6 @@
 - [2022-05-04-关于-WeChat-绑定-Google-Voice-存在的坑？](https://www.v2ex.com/t/850815) 
 - [2022-05-04-五一假期北京的各位是咋度过的？](https://www.v2ex.com/t/850813) 
 - [2022-05-04-日经贴，学生党看-PDF-买什么平板](https://www.v2ex.com/t/850811) 
-- [2022-05-04-开车横穿北美](https://www.v2ex.com/t/850810) 
 - [2022-05-04-容易混淆的CAP及ACID定义-it.deepinmind.com](https://blogread.cn/news/go.php?idItem=15049&url=https%3A%2F%2Fit.deepinmind.com%2Fconcurrent%2F2022%2F01%2F23%2Fthe-confusing-cap-and-acid-wording.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-05-04-Java-IO类型-it.deepinmind.com](https://blogread.cn/news/go.php?idItem=15048&url=https%3A%2F%2Fit.deepinmind.com%2Fio%2F2022%2F01%2F24%2Fjava-sockets-i-o-blocking-non-blocking-and-asynchronous.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-05-04-见多识广，介绍Web开发中current开头的一些API属性-www.zhangxinxu.com](https://blogread.cn/news/go.php?idItem=15047&url=https%3A%2F%2Fwww.zhangxinxu.com%2Fwordpress%2F2021%2F11%2Fcurrentscript-currenttarget-currentsrc%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

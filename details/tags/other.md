@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-05-04 17:48:12。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-05-04 18:17:02。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1912,6 +1912,7 @@
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2022-03-21-ascent-override-descent-override-line-gap-override一锅端](https://www.zhangxinxu.com/wordpress/2022/03/css-ascent-override-descent/) 
+- [2022-05-04-不知道是哪位大兄弟干的事情](https://www.v2ex.com/t/850857) 
 - [2022-05-04-GoldenDict++OCR-macOS-12.13.1_universal-拍瓜](https://www.v2ex.com/t/850856) 
 - [2022-05-04-买-poe-交换机还是买多个-poe-代言人？](https://www.v2ex.com/t/850854) 
 - [2022-05-04-m1-MacBook-突然连不上显示器了](https://www.v2ex.com/t/850851) 
@@ -1944,7 +1945,6 @@
 - [2022-05-04-开车横穿北美](https://www.v2ex.com/t/850810) 
 - [2022-05-04-Linux-格式化硬盘为-NTFS-后，-windows-下读不了这个盘？](https://www.v2ex.com/t/850809) 
 - [2022-05-04-windows-10-UWP-应用被不明输入干扰，无法正常使用是为什么？](https://www.v2ex.com/t/850808) 
-- [2022-05-04-上海某-C9-大三跑路-CS，去-HK/SG-读-CS-授课型硕士，国内找互联网工作，还是国内读-CS-学硕？](https://www.v2ex.com/t/850807) 
 - [2022-05-04-容易混淆的CAP及ACID定义-it.deepinmind.com](https://blogread.cn/news/go.php?idItem=15049&url=https%3A%2F%2Fit.deepinmind.com%2Fconcurrent%2F2022%2F01%2F23%2Fthe-confusing-cap-and-acid-wording.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-05-04-Java-IO类型-it.deepinmind.com](https://blogread.cn/news/go.php?idItem=15048&url=https%3A%2F%2Fit.deepinmind.com%2Fio%2F2022%2F01%2F24%2Fjava-sockets-i-o-blocking-non-blocking-and-asynchronous.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-05-04-见多识广，介绍Web开发中current开头的一些API属性-www.zhangxinxu.com](https://blogread.cn/news/go.php?idItem=15047&url=https%3A%2F%2Fwww.zhangxinxu.com%2Fwordpress%2F2021%2F11%2Fcurrentscript-currenttarget-currentsrc%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

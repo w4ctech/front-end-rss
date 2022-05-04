@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2022-05-04 17:48:12。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-05-04 18:17:02。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-05-04-不知道是哪位大兄弟干的事情](https://www.v2ex.com/t/850857) 
 - [2022-05-04-GoldenDict++OCR-macOS-12.13.1_universal-拍瓜](https://www.v2ex.com/t/850856) 
 - [2022-05-04-买-poe-交换机还是买多个-poe-代言人？](https://www.v2ex.com/t/850854) 
 - [2022-05-04-m1-MacBook-突然连不上显示器了](https://www.v2ex.com/t/850851) 
@@ -39,4 +40,3 @@
 - [2022-05-04-开车横穿北美](https://www.v2ex.com/t/850810) 
 - [2022-05-04-Linux-格式化硬盘为-NTFS-后，-windows-下读不了这个盘？](https://www.v2ex.com/t/850809) 
 - [2022-05-04-windows-10-UWP-应用被不明输入干扰，无法正常使用是为什么？](https://www.v2ex.com/t/850808) 
-- [2022-05-04-上海某-C9-大三跑路-CS，去-HK/SG-读-CS-授课型硕士，国内找互联网工作，还是国内读-CS-学硕？](https://www.v2ex.com/t/850807) 

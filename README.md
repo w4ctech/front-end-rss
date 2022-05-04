@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-05-04 17:04:06，:rocket: 更新条数: +2014， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-05-04 17:48:12，:rocket: 更新条数: +2013， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-05-04-GoldenDict++OCR-macOS-12.13.1_universal-拍瓜](https://www.v2ex.com/t/850856) ![](assets/new.png)  
 - [2022-05-04-买-poe-交换机还是买多个-poe-代言人？](https://www.v2ex.com/t/850854) ![](assets/new.png)  
 - [2022-05-04-m1-MacBook-突然连不上显示器了](https://www.v2ex.com/t/850851) ![](assets/new.png)  
 - [2022-05-04-希望支持管理收藏的-API](https://www.v2ex.com/t/850850) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-05-04-stack-exchange-上的日语社群真的不错](https://www.v2ex.com/t/850829) ![](assets/new.png)  
 - [2022-05-04-Kindle-官方支持-Epub-格式了](https://www.v2ex.com/t/850828) ![](assets/new.png)  
 - [2022-05-04-澳洲初创咨询服务公司招聘中高级-React-前端开发，全职远程，不加班，法定节假日，-4000-AUD-起](https://www.v2ex.com/t/850827) ![](assets/new.png)  
-- [2022-05-04-有啥省事的姿势，能在苹果手机上，接收个云主机上跑着的程序发出来的通知？（要接近实时，不卡壳）](https://www.v2ex.com/t/850826) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -561,9 +561,9 @@
 - [2022-05-04-漫谈分布式系统（二十七）：从批处理到流计算](https://toutiao.io/k/4i9qqoj) ![](assets/new.png)  
 - [2022-05-04-B站基于AIFlow+Flink在批流融合调度上的实践](https://toutiao.io/k/our58ue) ![](assets/new.png)  
 - [2022-05-04-所以，你是知道怎么监听LocalStorage的变化的？](https://toutiao.io/k/nedy9sx) ![](assets/new.png)  
+- [2022-05-04-推荐-非常哇塞的-SpringBoot性能优化长文！](https://toutiao.io/k/srppeol) ![](assets/new.png)  
 - [2022-05-04-推荐-性能分析优化的道与术](https://toutiao.io/k/2bi822s) ![](assets/new.png)  
 - [2022-05-04-推荐-如果你是一个Golang面试官，你会问哪些问题？](https://toutiao.io/k/0acpnu3) ![](assets/new.png)  
-- [2022-05-04-推荐-非常哇塞的-SpringBoot性能优化长文！](https://toutiao.io/k/srppeol) ![](assets/new.png)  
 - [2022-05-04-推荐-深入浅出分布式锁](https://toutiao.io/k/957qnad) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

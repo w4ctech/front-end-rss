@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-05-04 12:27:31。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-05-04 13:14:05。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1912,6 +1912,12 @@
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2022-03-21-ascent-override-descent-override-line-gap-override一锅端](https://www.zhangxinxu.com/wordpress/2022/03/css-ascent-override-descent/) 
+- [2022-05-04-YubiKeys-5/5C-NFCs-两个售价叠加返利$11.40-起](https://www.v2ex.com/t/850818) 
+- [2022-05-04-iPhone-13-Pro-Max，-ios-15.2-双卡，联通和电信，电信卡一天出现-1-到-2-次无服务](https://www.v2ex.com/t/850817) 
+- [2022-05-04-关于-WeChat-绑定-Google-Voice-存在的坑？](https://www.v2ex.com/t/850815) 
+- [2022-05-04-五一假期北京的各位是咋度过的？](https://www.v2ex.com/t/850813) 
+- [2022-05-04-日经贴，学生党看-PDF-买什么平板](https://www.v2ex.com/t/850811) 
+- [2022-05-04-开车横穿北美](https://www.v2ex.com/t/850810) 
 - [2022-05-04-Linux-格式化硬盘为-NTFS-后，-windows-下读不了这个盘？](https://www.v2ex.com/t/850809) 
 - [2022-05-04-windows-10-UWP-应用被不明输入干扰，无法正常使用是为什么？](https://www.v2ex.com/t/850808) 
 - [2022-05-04-上海某-C9-大三跑路-CS，去-HK/SG-读-CS-授课型硕士，国内找互联网工作，还是国内读-CS-学硕？](https://www.v2ex.com/t/850807) 
@@ -1935,12 +1941,6 @@
 - [2022-05-04-我音乐自由了。不送码，给大家开源](https://www.v2ex.com/t/850773) 
 - [2022-05-04-SPM（-Swift-Package-Manager）为啥连代理也没法用呢](https://www.v2ex.com/t/850771) 
 - [2022-05-04-家宽公网开-VPN-连接时间长了就会被阻断正常吗？](https://www.v2ex.com/t/850770) 
-- [2022-05-04-Linux-系统除了-TLP-还有什么软件可以控制电池充放电阈值？](https://www.v2ex.com/t/850769) 
-- [2022-05-04-支付宝首页活动推荐咋没了](https://www.v2ex.com/t/850767) 
-- [2022-05-04-Dropbox-paper-是个不折腾的笔记本好选择](https://www.v2ex.com/t/850766) 
-- [2022-05-04-移动硬盘组合推荐](https://www.v2ex.com/t/850765) 
-- [2022-05-04-讨论一下-NAS-能否使用-U-盘作为主要系统盘](https://www.v2ex.com/t/850761) 
-- [2022-05-04-大伙的家庭生活和谐吗？有没有好的办法能促进家庭关系？](https://www.v2ex.com/t/850760) 
 - [2022-05-04-容易混淆的CAP及ACID定义-it.deepinmind.com](https://blogread.cn/news/go.php?idItem=15049&url=https%3A%2F%2Fit.deepinmind.com%2Fconcurrent%2F2022%2F01%2F23%2Fthe-confusing-cap-and-acid-wording.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-05-04-Java-IO类型-it.deepinmind.com](https://blogread.cn/news/go.php?idItem=15048&url=https%3A%2F%2Fit.deepinmind.com%2Fio%2F2022%2F01%2F24%2Fjava-sockets-i-o-blocking-non-blocking-and-asynchronous.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-05-04-见多识广，介绍Web开发中current开头的一些API属性-www.zhangxinxu.com](https://blogread.cn/news/go.php?idItem=15047&url=https%3A%2F%2Fwww.zhangxinxu.com%2Fwordpress%2F2021%2F11%2Fcurrentscript-currenttarget-currentsrc%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1964,5 +1964,5 @@
 - [2022-05-04-漫谈分布式系统（二十七）：从批处理到流计算](https://toutiao.io/k/4i9qqoj) 
 - [2022-05-04-B站基于AIFlow+Flink在批流融合调度上的实践](https://toutiao.io/k/our58ue) 
 - [2022-05-04-所以，你是知道怎么监听LocalStorage的变化的？](https://toutiao.io/k/nedy9sx) 
-- [2022-05-04-推荐-深入浅出分布式锁](https://toutiao.io/k/957qnad) 
 - [2022-05-04-推荐-面渣逆袭：Spring三十五问，四万字+五十图详解！建议收藏！](https://toutiao.io/k/8ab20e9) 
+- [2022-05-04-推荐-深入浅出分布式锁](https://toutiao.io/k/957qnad) 

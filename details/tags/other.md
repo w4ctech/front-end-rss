@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-05-04 23:03:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-05-04 23:14:38。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1912,6 +1912,7 @@
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2022-03-21-ascent-override-descent-override-line-gap-override一锅端](https://www.zhangxinxu.com/wordpress/2022/03/css-ascent-override-descent/) 
+- [2022-05-04-绿色软件的群消息怎么监控？](https://www.v2ex.com/t/850863) 
 - [2022-05-04-请问下有人抢到过盒马云超的东西吗？](https://www.v2ex.com/t/850862) 
 - [2022-05-04-想从广州入境回国,-六月是个好时候吗?](https://www.v2ex.com/t/850861) 
 - [2022-05-04-SHEIN-新加坡热招中！绝对润的好去处！-WLB！](https://www.v2ex.com/t/850860) 
@@ -1944,7 +1945,6 @@
 - [2022-05-04-YubiKeys-5/5C-NFCs-两个售价叠加返利$11.40-起](https://www.v2ex.com/t/850818) 
 - [2022-05-04-iPhone-13-Pro-Max，-ios-15.2-双卡，联通和电信，电信卡一天出现-1-到-2-次无服务](https://www.v2ex.com/t/850817) 
 - [2022-05-04-关于-WeChat-绑定-Google-Voice-存在的坑？](https://www.v2ex.com/t/850815) 
-- [2022-05-04-五一假期北京的各位是咋度过的？](https://www.v2ex.com/t/850813) 
 - [2022-05-04-容易混淆的CAP及ACID定义-it.deepinmind.com](https://blogread.cn/news/go.php?idItem=15049&url=https%3A%2F%2Fit.deepinmind.com%2Fconcurrent%2F2022%2F01%2F23%2Fthe-confusing-cap-and-acid-wording.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-05-04-Java-IO类型-it.deepinmind.com](https://blogread.cn/news/go.php?idItem=15048&url=https%3A%2F%2Fit.deepinmind.com%2Fio%2F2022%2F01%2F24%2Fjava-sockets-i-o-blocking-non-blocking-and-asynchronous.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-05-04-见多识广，介绍Web开发中current开头的一些API属性-www.zhangxinxu.com](https://blogread.cn/news/go.php?idItem=15047&url=https%3A%2F%2Fwww.zhangxinxu.com%2Fwordpress%2F2021%2F11%2Fcurrentscript-currenttarget-currentsrc%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1961,11 +1961,5 @@
 - [2022-05-04-人手必备的常用网络命令合集，吐血整理！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15017&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493888%26amp%3Bidx%3D1%26amp%3Bsn%3D70d3506be895b9f146066d56dfae8b69%26amp%3Bchksm%3Dfa3f085bcd48814dbddbd6eddf6584cd9d9ebb768b37f25529371a625c4d09114bf9e2ea6fba%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-05-04-Java必会的工具库，让你的代码量减少90%-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15016&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493888%26amp%3Bidx%3D2%26amp%3Bsn%3D9f50338e5145bdd585e908e36aa7517d%26amp%3Bchksm%3Dfa3f085bcd48814d7386eb6707d907d58fa0313c300b3f73937f51525a7fc10671193f1557e2%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-05-04-技术主管和项目经理一定要读的6本书！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15015&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493887%26amp%3Bidx%3D1%26amp%3Bsn%3D1a13135d359785dd3c15d90dfaeb95e5%26amp%3Bchksm%3Dfa3f09a4cd4880b2c74c7b234fbfc6033b05283324ce3421d8c7ae3fdbb5039b9a2873874bc5%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
-- [2022-05-04-架构设计资料合集](https://toutiao.io/k/iqlrz7b) 
-- [2022-05-04-SLICK:-Facebook-基于-SLO-的可靠性保障实践](https://toutiao.io/k/wlzt3ro) 
-- [2022-05-04-聊聊如何让springboot拦截器的执行顺序按我们想要的顺序执行](https://toutiao.io/k/j78i4x6) 
-- [2022-05-04-斯坦福教授曼宁AAAS特刊发文：大模型已成突破，展望通用人工智能](https://toutiao.io/k/a5dqsp0) 
-- [2022-05-04-漫谈分布式系统（二十七）：从批处理到流计算](https://toutiao.io/k/4i9qqoj) 
-- [2022-05-04-B站基于AIFlow+Flink在批流融合调度上的实践](https://toutiao.io/k/our58ue) 
-- [2022-05-04-所以，你是知道怎么监听LocalStorage的变化的？](https://toutiao.io/k/nedy9sx) 
+- [2022-05-04-假期结束，该充充电啦！](https://toutiao.io/k/wqxfv6b) 
 - [2022-05-04-推荐-深入浅出分布式锁](https://toutiao.io/k/957qnad) 

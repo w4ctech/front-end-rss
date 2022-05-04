@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-05-04 23:03:26，:rocket: 更新条数: +2013， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-05-04 23:14:38，:rocket: 更新条数: +2006， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-05-04-绿色软件的群消息怎么监控？](https://www.v2ex.com/t/850863) ![](assets/new.png)  
 - [2022-05-04-请问下有人抢到过盒马云超的东西吗？](https://www.v2ex.com/t/850862) ![](assets/new.png)  
 - [2022-05-04-想从广州入境回国,-六月是个好时候吗?](https://www.v2ex.com/t/850861) ![](assets/new.png)  
 - [2022-05-04-SHEIN-新加坡热招中！绝对润的好去处！-WLB！](https://www.v2ex.com/t/850860) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-05-04-Windows11-Wake-on-Lan-每小时被-Hardware-Clock-time-sync-自动唤醒](https://www.v2ex.com/t/850839) ![](assets/new.png)  
 - [2022-05-04-有没有什么好的本地集群方案？](https://www.v2ex.com/t/850838) ![](assets/new.png)  
 - [2022-05-04-将-JetBrains-的图标磨去了棱角](https://www.v2ex.com/t/850837) ![](assets/new.png)  
-- [2022-05-04-关于-OneDrive-增量同步-bitlocker-加密后的-vhdx-虚拟磁盘的问题](https://www.v2ex.com/t/850836) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -553,18 +553,11 @@
 </summary>
 
 
-- [2022-05-04-架构设计资料合集](https://toutiao.io/k/iqlrz7b) ![](assets/new.png)  
-- [2022-05-04-SLICK:-Facebook-基于-SLO-的可靠性保障实践](https://toutiao.io/k/wlzt3ro) ![](assets/new.png)  
-- [2022-05-04-聊聊如何让springboot拦截器的执行顺序按我们想要的顺序执行](https://toutiao.io/k/j78i4x6) ![](assets/new.png)  
-- [2022-05-04-斯坦福教授曼宁AAAS特刊发文：大模型已成突破，展望通用人工智能](https://toutiao.io/k/a5dqsp0) ![](assets/new.png)  
-- [2022-05-04-浏览器可以运行-Python-代码了，Python-也许会变成前后端通吃的语言](https://toutiao.io/k/bjjxt84) ![](assets/new.png)  
-- [2022-05-04-漫谈分布式系统（二十七）：从批处理到流计算](https://toutiao.io/k/4i9qqoj) ![](assets/new.png)  
-- [2022-05-04-B站基于AIFlow+Flink在批流融合调度上的实践](https://toutiao.io/k/our58ue) ![](assets/new.png)  
-- [2022-05-04-所以，你是知道怎么监听LocalStorage的变化的？](https://toutiao.io/k/nedy9sx) ![](assets/new.png)  
+- [2022-05-04-假期结束，该充充电啦！](https://toutiao.io/k/wqxfv6b) ![](assets/new.png)  
 - [2022-05-04-推荐-非常哇塞的-SpringBoot性能优化长文！](https://toutiao.io/k/srppeol) ![](assets/new.png)  
 - [2022-05-04-推荐-如果你是一个Golang面试官，你会问哪些问题？](https://toutiao.io/k/0acpnu3) ![](assets/new.png)  
-- [2022-05-04-推荐-深入浅出分布式锁](https://toutiao.io/k/957qnad) ![](assets/new.png)  
 - [2022-05-04-推荐-性能分析优化的道与术](https://toutiao.io/k/2bi822s) ![](assets/new.png)  
+- [2022-05-04-推荐-深入浅出分布式锁](https://toutiao.io/k/957qnad) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

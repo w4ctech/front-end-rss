@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-05-04 15:15:53。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-05-04 15:45:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1912,6 +1912,9 @@
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2022-03-21-ascent-override-descent-override-line-gap-override一锅端](https://www.zhangxinxu.com/wordpress/2022/03/css-ascent-override-descent/) 
+- [2022-05-04-2022-年了，-Windows-10-到底有办法保留英文界面和地区的情况下用不反人类的办法切换中英文吗？](https://www.v2ex.com/t/850842) 
+- [2022-05-04-五一写了一个非常潦草的微信归档项目](https://www.v2ex.com/t/850840) 
+- [2022-05-04-Windows11-Wake-on-Lan-每小时被-Hardware-Clock-time-sync-自动唤醒](https://www.v2ex.com/t/850839) 
 - [2022-05-04-有没有什么好的本地集群方案？](https://www.v2ex.com/t/850838) 
 - [2022-05-04-将-JetBrains-的图标磨去了棱角](https://www.v2ex.com/t/850837) 
 - [2022-05-04-关于-OneDrive-增量同步-bitlocker-加密后的-vhdx-虚拟磁盘的问题](https://www.v2ex.com/t/850836) 
@@ -1943,7 +1946,6 @@
 - [2022-05-04-谈谈饮食-每天能自己做饭是一件很幸福的事情，发现一大乐趣](https://www.v2ex.com/t/850797) 
 - [2022-05-04-要去大城市讨生活了，有什么相见恨晚的建议吗？](https://www.v2ex.com/t/850794) 
 - [2022-05-04-关于机场的选择有无推荐](https://www.v2ex.com/t/850793) 
-- [2022-05-04-微信为啥不做「付款码皮肤」？](https://www.v2ex.com/t/850789) 
 - [2022-05-04-容易混淆的CAP及ACID定义-it.deepinmind.com](https://blogread.cn/news/go.php?idItem=15049&url=https%3A%2F%2Fit.deepinmind.com%2Fconcurrent%2F2022%2F01%2F23%2Fthe-confusing-cap-and-acid-wording.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-05-04-Java-IO类型-it.deepinmind.com](https://blogread.cn/news/go.php?idItem=15048&url=https%3A%2F%2Fit.deepinmind.com%2Fio%2F2022%2F01%2F24%2Fjava-sockets-i-o-blocking-non-blocking-and-asynchronous.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-05-04-见多识广，介绍Web开发中current开头的一些API属性-www.zhangxinxu.com](https://blogread.cn/news/go.php?idItem=15047&url=https%3A%2F%2Fwww.zhangxinxu.com%2Fwordpress%2F2021%2F11%2Fcurrentscript-currenttarget-currentsrc%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

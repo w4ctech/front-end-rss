@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-05-04 04:06:57。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-05-04 04:58:05。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1912,6 +1912,10 @@
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2022-03-21-ascent-override-descent-override-line-gap-override一锅端](https://www.zhangxinxu.com/wordpress/2022/03/css-ascent-override-descent/) 
+- [2022-05-04-meituan/Leaf-发号器的-Golang-版本](https://www.v2ex.com/t/850755) 
+- [2022-05-04-1Password-值得订阅吗？](https://www.v2ex.com/t/850754) 
+- [2022-05-04-求推荐一款停车熄火后还会自动录像的行车记录仪](https://www.v2ex.com/t/850753) 
+- [2022-05-04-学-Swift-有感](https://www.v2ex.com/t/850752) 
 - [2022-05-04-为何-Xbox-手柄如此稀缺？](https://www.v2ex.com/t/850751) 
 - [2022-05-04-Mac-Windows-一套键鼠控制多台设备解决方案](https://www.v2ex.com/t/850750) 
 - [2022-05-04-飞书会议的兄弟们，五一辛苦啦，但是为什么禁用了其它-Linux-发行版？](https://www.v2ex.com/t/850747) 
@@ -1941,10 +1945,6 @@
 - [2022-05-03-求助！-怎么彻底删除掉这个-tg-的-bot?](https://www.v2ex.com/t/850714) 
 - [2022-05-03-宗教领域数字化演进](https://www.v2ex.com/t/850710) 
 - [2022-05-03-其实大厂小厂都不是问题](https://www.v2ex.com/t/850707) 
-- [2022-05-03-有没有直接填写数据库地址后，可以傻瓜式的在线管理的东西，类似于-phpadmin](https://www.v2ex.com/t/850705) 
-- [2022-05-03-现在-Java-转-go-是不是个好时机？](https://www.v2ex.com/t/850704) 
-- [2022-05-03-现在-win11-的平板模式是不是和桌面模式显示差不多的？](https://www.v2ex.com/t/850703) 
-- [2022-05-03-请教-v-友们一个-SQL-语句](https://www.v2ex.com/t/850702) 
 - [2022-05-04-JUnit不好用？也许你可以试试这些测试工具-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15034&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fjunit-spock-kotest-tdd-testing-framework%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-05-04-敏捷驱动QA改变-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15033&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fagile-driven-qa%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-05-04-用个十百千思考DDD-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15031&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fddd-thinking%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1962,8 +1962,8 @@
 - [2022-05-04-成为糟糕开发者的5个建议！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15011&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493786%26amp%3Bidx%3D1%26amp%3Bsn%3De4fafcc3e37d4def755e48013e67a524%26amp%3Bchksm%3Dfa3f09c1cd4880d7101d28a7953abb6778745cedbb626446dfea739e302a3101f15c9f967e9d%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-05-04-架构设计资料合集](https://toutiao.io/k/iqlrz7b) 
 - [2022-05-04-SLICK:-Facebook-基于-SLO-的可靠性保障实践](https://toutiao.io/k/wlzt3ro) 
-- [2022-05-04-斯坦福教授曼宁AAAS特刊发文：大模型已成突破，展望通用人工智能](https://toutiao.io/k/a5dqsp0) 
 - [2022-05-04-聊聊如何让springboot拦截器的执行顺序按我们想要的顺序执行](https://toutiao.io/k/j78i4x6) 
+- [2022-05-04-斯坦福教授曼宁AAAS特刊发文：大模型已成突破，展望通用人工智能](https://toutiao.io/k/a5dqsp0) 
 - [2022-05-04-B站基于AIFlow+Flink在批流融合调度上的实践](https://toutiao.io/k/our58ue) 
 - [2022-05-04-漫谈分布式系统（二十七）：从批处理到流计算](https://toutiao.io/k/4i9qqoj) 
 - [2022-05-04-所以，你是知道怎么监听LocalStorage的变化的？](https://toutiao.io/k/nedy9sx) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-05-04 05:41:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-05-04 06:19:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -7,5 +7,4 @@
 
 
 
-- [2022-05-03-招聘-web3-开发远程,-有-solidity-开发经验，-yysatoshi](https://www.v2ex.com/t/850713) 
 - [2022-05-04-推荐-如果你是一个Golang面试官，你会问哪些问题？](https://toutiao.io/k/0acpnu3) 

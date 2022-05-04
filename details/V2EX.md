@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-05-04 05:41:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-05-04 06:19:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
@@ -46,5 +46,3 @@
 - [2022-05-03-让我看看还有谁的-Gboard-工具栏无法自定义🤣](https://www.v2ex.com/t/850716) 
 - [2022-05-03-Apple-Watch-状态栏-bug](https://www.v2ex.com/t/850715) 
 - [2022-05-03-求助！-怎么彻底删除掉这个-tg-的-bot?](https://www.v2ex.com/t/850714) 
-- [2022-05-03-招聘-web3-开发远程,-有-solidity-开发经验，-yysatoshi](https://www.v2ex.com/t/850713) 
-- [2022-05-03-很久没关注新游戏了，有啥上古卷轴-5-的替代吗？](https://www.v2ex.com/t/850712) 

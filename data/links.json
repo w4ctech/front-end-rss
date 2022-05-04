@@ -9953,6 +9953,31 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "IPv6 的被请求节点组播组，到了二层交换机，是不是还是泛洪到整个链路上？",
+        "link": "https://www.v2ex.com/t/850784",
+        "date": "2022-05-04"
+      },
+      {
+        "title": "如何让企业微信在内网中使用？",
+        "link": "https://www.v2ex.com/t/850783",
+        "date": "2022-05-04"
+      },
+      {
+        "title": "寻 Windows 平台上可用的服务器监测工具软件",
+        "link": "https://www.v2ex.com/t/850782",
+        "date": "2022-05-04"
+      },
+      {
+        "title": "分享一个“好看的钟”的动态壁纸",
+        "link": "https://www.v2ex.com/t/850781",
+        "date": "2022-05-04"
+      },
+      {
+        "title": "✅V 友专用 - 全网购物都能返 [税前 80％高佣] 企业微信返利机器人淘宝+京东+唯品会+PDD+苏宁+抖音",
+        "link": "https://www.v2ex.com/t/850780",
+        "date": "2022-05-04"
+      },
+      {
         "title": "现在捡洋垃圾还实惠吗？ E5 系列的芯片看起来好赚啊",
         "link": "https://www.v2ex.com/t/850779",
         "date": "2022-05-04"
@@ -10141,26 +10166,6 @@
         "title": "出于练习做了一个简单的组件库，欢迎拍砖",
         "link": "https://www.v2ex.com/t/850735",
         "date": "2022-05-04"
-      },
-      {
-        "title": "电动牙刷比普通牙刷好在那哪里？",
-        "link": "https://www.v2ex.com/t/850734",
-        "date": "2022-05-04"
-      },
-      {
-        "title": "想收点余额， 1000-2000 刀，美区账户，当前人也在美国",
-        "link": "https://www.v2ex.com/t/850733",
-        "date": "2022-05-04"
-      },
-      {
-        "title": "没注意手机欠费了，然而信号居然变满格了",
-        "link": "https://www.v2ex.com/t/850731",
-        "date": "2022-05-04"
-      },
-      {
-        "title": "请为我 upvote！如果你在使用 vscode 中也遇到这样的烦恼",
-        "link": "https://www.v2ex.com/t/850730",
-        "date": "2022-05-04"
       }
     ]
   },
@@ -10169,6 +10174,31 @@
     "title": "技术头条",
     "link": "http://blogread.cn/news/newest.php",
     "items": [
+      {
+        "title": "容易混淆的CAP及ACID定义 (it.deepinmind.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=15049&url=https%3A%2F%2Fit.deepinmind.com%2Fconcurrent%2F2022%2F01%2F23%2Fthe-confusing-cap-and-acid-wording.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2022-05-04"
+      },
+      {
+        "title": "Java IO类型 (it.deepinmind.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=15048&url=https%3A%2F%2Fit.deepinmind.com%2Fio%2F2022%2F01%2F24%2Fjava-sockets-i-o-blocking-non-blocking-and-asynchronous.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2022-05-04"
+      },
+      {
+        "title": "见多识广，介绍Web开发中current开头的一些API属性 (www.zhangxinxu.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=15047&url=https%3A%2F%2Fwww.zhangxinxu.com%2Fwordpress%2F2021%2F11%2Fcurrentscript-currenttarget-currentsrc%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2022-05-04"
+      },
+      {
+        "title": "iOS 开发者证书不受信任的解决方法 (zww.me)",
+        "link": "https://blogread.cn/news/go.php?idItem=15046&url=https%3A%2F%2Fzww.me%2Fios-developer-certificate-untrusted-solution.z-turn%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2022-05-04"
+      },
+      {
+        "title": "一个检测 json 合法性的脚本 (droidyue.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=15045&url=https%3A%2F%2Fdroidyue.com%2Fblog%2F2022%2F01%2F23%2Fhow-to-check-json-validity-in-ruby%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2022-05-04"
+      },
       {
         "title": "JUnit不好用？也许你可以试试这些测试工具 (insights.thoughtworks.cn)",
         "link": "https://blogread.cn/news/go.php?idItem=15034&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fjunit-spock-kotest-tdd-testing-framework%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
@@ -10243,31 +10273,6 @@
         "title": "你还在new对象吗？Java8通用Builder了解一下 (mp.weixin.qq.com)",
         "link": "https://blogread.cn/news/go.php?idItem=15014&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493887%26amp%3Bidx%3D2%26amp%3Bsn%3Db839d751774d9953d0ddc71bc2862211%26amp%3Bchksm%3Dfa3f09a4cd4880b2d6780cf763e119f07c8f4fce913ad66b97bf0b0f4b5b3d34a102fa9531c3%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
         "date": "2022-05-04"
-      },
-      {
-        "title": "这款网络排查工具，堪称神器！ (mp.weixin.qq.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=15013&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493797%26amp%3Bidx%3D1%26amp%3Bsn%3D7356bd84df9977ad3781b336c0b2e8b6%26amp%3Bchksm%3Dfa3f09fecd4880e83b060001a939ad5633e82987f70d23ddacc86b445f6e56c1626be7f359c0%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-05-04"
-      },
-      {
-        "title": "52条SQL语句性能优化策略，建议收藏！ (mp.weixin.qq.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=15012&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493797%26amp%3Bidx%3D2%26amp%3Bsn%3D1dbc093793d9085034fa0c1297ab3aae%26amp%3Bchksm%3Dfa3f09fecd4880e89d1057391f9081c6370469beba67bf10415a1873130220d3e669066eea75%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-05-04"
-      },
-      {
-        "title": "成为糟糕开发者的5个建议！ (mp.weixin.qq.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=15011&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493786%26amp%3Bidx%3D1%26amp%3Bsn%3De4fafcc3e37d4def755e48013e67a524%26amp%3Bchksm%3Dfa3f09c1cd4880d7101d28a7953abb6778745cedbb626446dfea739e302a3101f15c9f967e9d%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-05-04"
-      },
-      {
-        "title": "一名Vue程序员总结的React基础 (mp.weixin.qq.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=15010&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493786%26amp%3Bidx%3D2%26amp%3Bsn%3Dcb1b397c4dcef56609f8264b0ed005be%26amp%3Bchksm%3Dfa3f09c1cd4880d7da50685a77a5b5df2be61af93e6f16517cd26d86ebdade7cc4703d8abf43%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-05-04"
-      },
-      {
-        "title": "H5小程序直播教程，一看就会！ (mp.weixin.qq.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=15009&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493770%26amp%3Bidx%3D1%26amp%3Bsn%3D99961a9d794b403ca1d23e2818773bd4%26amp%3Bchksm%3Dfa3f09d1cd4880c7959f39950198bb945ea34593761e3ea104e4318e4e0c57d509c1b813358b%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-05-04"
       }
     ]
   },
@@ -10317,18 +10322,8 @@
         "date": "2022-05-04"
       },
       {
-        "title": "[推荐] 面渣逆袭：Spring三十五问，四万字+五十图详解！建议收藏！",
-        "link": "https://toutiao.io/k/8ab20e9",
-        "date": "2022-05-04"
-      },
-      {
-        "title": "[推荐] 性能分析优化的道与术",
-        "link": "https://toutiao.io/k/2bi822s",
-        "date": "2022-05-04"
-      },
-      {
-        "title": "[推荐] 非常哇塞的 SpringBoot性能优化长文！",
-        "link": "https://toutiao.io/k/srppeol",
+        "title": "[推荐] 深入浅出分布式锁",
+        "link": "https://toutiao.io/k/957qnad",
         "date": "2022-05-04"
       },
       {
@@ -10337,8 +10332,18 @@
         "date": "2022-05-04"
       },
       {
-        "title": "[推荐] 深入浅出分布式锁",
-        "link": "https://toutiao.io/k/957qnad",
+        "title": "[推荐] 面渣逆袭：Spring三十五问，四万字+五十图详解！建议收藏！",
+        "link": "https://toutiao.io/k/8ab20e9",
+        "date": "2022-05-04"
+      },
+      {
+        "title": "[推荐] 非常哇塞的 SpringBoot性能优化长文！",
+        "link": "https://toutiao.io/k/srppeol",
+        "date": "2022-05-04"
+      },
+      {
+        "title": "[推荐] 性能分析优化的道与术",
+        "link": "https://toutiao.io/k/2bi822s",
         "date": "2022-05-04"
       }
     ]

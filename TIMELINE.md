@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-05-04 08:18:11。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-05-04 08:45:36。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,11 @@
 </summary>
 
 
+- [【V2EX】2022-05-04-IPv6-的被请求节点组播组，到了二层交换机，是不是还是泛洪到整个链路上？](https://www.v2ex.com/t/850784) 
+- [【V2EX】2022-05-04-如何让企业微信在内网中使用？](https://www.v2ex.com/t/850783) 
+- [【V2EX】2022-05-04-寻-Windows-平台上可用的服务器监测工具软件](https://www.v2ex.com/t/850782) 
+- [【V2EX】2022-05-04-分享一个“好看的钟”的动态壁纸](https://www.v2ex.com/t/850781) 
+- [【V2EX】2022-05-04-✅V-友专用---全网购物都能返-税前-80％高佣-企业微信返利机器人淘宝+京东+唯品会+PDD+苏宁+抖音](https://www.v2ex.com/t/850780) 
 - [【V2EX】2022-05-04-现在捡洋垃圾还实惠吗？-E5-系列的芯片看起来好赚啊](https://www.v2ex.com/t/850779) 
 - [【V2EX】2022-05-04-用-Python-写了个接收临时邮件的服务](https://www.v2ex.com/t/850778) 
 - [【V2EX】2022-05-04-字节跳动音乐客户端团队直达](https://www.v2ex.com/t/850777) 
@@ -106,10 +111,11 @@
 - [【V2EX】2022-05-04-MIUI-可以关闭「新热」和清理内存的消息通知吗?](https://www.v2ex.com/t/850738) 
 - [【V2EX】2022-05-04-关于机场，我来给大家排个坑，-羊圈-超级难用，线路经常超时，网速慢](https://www.v2ex.com/t/850736) 
 - [【V2EX】2022-05-04-出于练习做了一个简单的组件库，欢迎拍砖](https://www.v2ex.com/t/850735) 
-- [【V2EX】2022-05-04-电动牙刷比普通牙刷好在那哪里？](https://www.v2ex.com/t/850734) 
-- [【V2EX】2022-05-04-想收点余额，-1000-2000-刀，美区账户，当前人也在美国](https://www.v2ex.com/t/850733) 
-- [【V2EX】2022-05-04-没注意手机欠费了，然而信号居然变满格了](https://www.v2ex.com/t/850731) 
-- [【V2EX】2022-05-04-请为我-upvote！如果你在使用-vscode-中也遇到这样的烦恼](https://www.v2ex.com/t/850730) 
+- [【技术头条】2022-05-04-容易混淆的CAP及ACID定义-it.deepinmind.com](https://blogread.cn/news/go.php?idItem=15049&url=https%3A%2F%2Fit.deepinmind.com%2Fconcurrent%2F2022%2F01%2F23%2Fthe-confusing-cap-and-acid-wording.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [【技术头条】2022-05-04-Java-IO类型-it.deepinmind.com](https://blogread.cn/news/go.php?idItem=15048&url=https%3A%2F%2Fit.deepinmind.com%2Fio%2F2022%2F01%2F24%2Fjava-sockets-i-o-blocking-non-blocking-and-asynchronous.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [【技术头条】2022-05-04-见多识广，介绍Web开发中current开头的一些API属性-www.zhangxinxu.com](https://blogread.cn/news/go.php?idItem=15047&url=https%3A%2F%2Fwww.zhangxinxu.com%2Fwordpress%2F2021%2F11%2Fcurrentscript-currenttarget-currentsrc%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [【技术头条】2022-05-04-iOS-开发者证书不受信任的解决方法-zww.me](https://blogread.cn/news/go.php?idItem=15046&url=https%3A%2F%2Fzww.me%2Fios-developer-certificate-untrusted-solution.z-turn%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [【技术头条】2022-05-04-一个检测-json-合法性的脚本-droidyue.com](https://blogread.cn/news/go.php?idItem=15045&url=https%3A%2F%2Fdroidyue.com%2Fblog%2F2022%2F01%2F23%2Fhow-to-check-json-validity-in-ruby%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-05-04-JUnit不好用？也许你可以试试这些测试工具-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15034&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fjunit-spock-kotest-tdd-testing-framework%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-05-04-敏捷驱动QA改变-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15033&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fagile-driven-qa%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-05-04-用个十百千思考DDD-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15031&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fddd-thinking%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -125,11 +131,6 @@
 - [【技术头条】2022-05-04-Java必会的工具库，让你的代码量减少90%-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15016&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493888%26amp%3Bidx%3D2%26amp%3Bsn%3D9f50338e5145bdd585e908e36aa7517d%26amp%3Bchksm%3Dfa3f085bcd48814d7386eb6707d907d58fa0313c300b3f73937f51525a7fc10671193f1557e2%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-05-04-技术主管和项目经理一定要读的6本书！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15015&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493887%26amp%3Bidx%3D1%26amp%3Bsn%3D1a13135d359785dd3c15d90dfaeb95e5%26amp%3Bchksm%3Dfa3f09a4cd4880b2c74c7b234fbfc6033b05283324ce3421d8c7ae3fdbb5039b9a2873874bc5%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-05-04-你还在new对象吗？Java8通用Builder了解一下-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15014&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493887%26amp%3Bidx%3D2%26amp%3Bsn%3Db839d751774d9953d0ddc71bc2862211%26amp%3Bchksm%3Dfa3f09a4cd4880b2d6780cf763e119f07c8f4fce913ad66b97bf0b0f4b5b3d34a102fa9531c3%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
-- [【技术头条】2022-05-04-这款网络排查工具，堪称神器！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15013&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493797%26amp%3Bidx%3D1%26amp%3Bsn%3D7356bd84df9977ad3781b336c0b2e8b6%26amp%3Bchksm%3Dfa3f09fecd4880e83b060001a939ad5633e82987f70d23ddacc86b445f6e56c1626be7f359c0%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
-- [【技术头条】2022-05-04-52条SQL语句性能优化策略，建议收藏！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15012&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493797%26amp%3Bidx%3D2%26amp%3Bsn%3D1dbc093793d9085034fa0c1297ab3aae%26amp%3Bchksm%3Dfa3f09fecd4880e89d1057391f9081c6370469beba67bf10415a1873130220d3e669066eea75%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
-- [【技术头条】2022-05-04-成为糟糕开发者的5个建议！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15011&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493786%26amp%3Bidx%3D1%26amp%3Bsn%3De4fafcc3e37d4def755e48013e67a524%26amp%3Bchksm%3Dfa3f09c1cd4880d7101d28a7953abb6778745cedbb626446dfea739e302a3101f15c9f967e9d%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
-- [【技术头条】2022-05-04-一名Vue程序员总结的React基础-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15010&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493786%26amp%3Bidx%3D2%26amp%3Bsn%3Dcb1b397c4dcef56609f8264b0ed005be%26amp%3Bchksm%3Dfa3f09c1cd4880d7da50685a77a5b5df2be61af93e6f16517cd26d86ebdade7cc4703d8abf43%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
-- [【技术头条】2022-05-04-H5小程序直播教程，一看就会！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15009&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493770%26amp%3Bidx%3D1%26amp%3Bsn%3D99961a9d794b403ca1d23e2818773bd4%26amp%3Bchksm%3Dfa3f09d1cd4880c7959f39950198bb945ea34593761e3ea104e4318e4e0c57d509c1b813358b%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【开发者头条】2022-05-04-架构设计资料合集](https://toutiao.io/k/iqlrz7b) 
 - [【开发者头条】2022-05-04-SLICK:-Facebook-基于-SLO-的可靠性保障实践](https://toutiao.io/k/wlzt3ro) 
 - [【开发者头条】2022-05-04-聊聊如何让springboot拦截器的执行顺序按我们想要的顺序执行](https://toutiao.io/k/j78i4x6) 
@@ -138,11 +139,11 @@
 - [【开发者头条】2022-05-04-B站基于AIFlow+Flink在批流融合调度上的实践](https://toutiao.io/k/our58ue) 
 - [【开发者头条】2022-05-04-漫谈分布式系统（二十七）：从批处理到流计算](https://toutiao.io/k/4i9qqoj) 
 - [【开发者头条】2022-05-04-所以，你是知道怎么监听LocalStorage的变化的？](https://toutiao.io/k/nedy9sx) 
-- [【开发者头条】2022-05-04-推荐-面渣逆袭：Spring三十五问，四万字+五十图详解！建议收藏！](https://toutiao.io/k/8ab20e9) 
-- [【开发者头条】2022-05-04-推荐-性能分析优化的道与术](https://toutiao.io/k/2bi822s) 
-- [【开发者头条】2022-05-04-推荐-非常哇塞的-SpringBoot性能优化长文！](https://toutiao.io/k/srppeol) 
-- [【开发者头条】2022-05-04-推荐-如果你是一个Golang面试官，你会问哪些问题？](https://toutiao.io/k/0acpnu3) 
 - [【开发者头条】2022-05-04-推荐-深入浅出分布式锁](https://toutiao.io/k/957qnad) 
+- [【开发者头条】2022-05-04-推荐-如果你是一个Golang面试官，你会问哪些问题？](https://toutiao.io/k/0acpnu3) 
+- [【开发者头条】2022-05-04-推荐-面渣逆袭：Spring三十五问，四万字+五十图详解！建议收藏！](https://toutiao.io/k/8ab20e9) 
+- [【开发者头条】2022-05-04-推荐-非常哇塞的-SpringBoot性能优化长文！](https://toutiao.io/k/srppeol) 
+- [【开发者头条】2022-05-04-推荐-性能分析优化的道与术](https://toutiao.io/k/2bi822s) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

@@ -1,10 +1,13 @@
-:alarm_clock: 更新时间: 2022-05-04 13:14:05。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-05-04 13:56:11。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-05-04-微软拼音输入法的中英文输入模式能只固定成一个吗？](https://www.v2ex.com/t/850824) 
+- [2022-05-04-五一居家隔离](https://www.v2ex.com/t/850823) 
+- [2022-05-04-google-不支持双币卡了吗？](https://www.v2ex.com/t/850822) 
 - [2022-05-04-YubiKeys-5/5C-NFCs-两个售价叠加返利$11.40-起](https://www.v2ex.com/t/850818) 
 - [2022-05-04-iPhone-13-Pro-Max，-ios-15.2-双卡，联通和电信，电信卡一天出现-1-到-2-次无服务](https://www.v2ex.com/t/850817) 
 - [2022-05-04-关于-WeChat-绑定-Google-Voice-存在的坑？](https://www.v2ex.com/t/850815) 
@@ -39,7 +42,3 @@
 - [2022-05-04-用-Python-写了个接收临时邮件的服务](https://www.v2ex.com/t/850778) 
 - [2022-05-04-字节跳动音乐客户端团队直达](https://www.v2ex.com/t/850777) 
 - [2022-05-04-简单外贸建站需求-有人接吗？](https://www.v2ex.com/t/850775) 
-- [2022-05-04-我音乐自由了。不送码，给大家开源](https://www.v2ex.com/t/850773) 
-- [2022-05-04-预算-500，购买支持-FQ-和-wifi6-的路由器](https://www.v2ex.com/t/850772) 
-- [2022-05-04-SPM（-Swift-Package-Manager）为啥连代理也没法用呢](https://www.v2ex.com/t/850771) 
-- [2022-05-04-家宽公网开-VPN-连接时间长了就会被阻断正常吗？](https://www.v2ex.com/t/850770) 

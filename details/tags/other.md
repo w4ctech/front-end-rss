@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-05-04 10:43:33。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-05-04 11:13:04。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1912,6 +1912,8 @@
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2022-03-21-ascent-override-descent-override-line-gap-override一锅端](https://www.zhangxinxu.com/wordpress/2022/03/css-ascent-override-descent/) 
+- [2022-05-04-是什么故障能导致一个光猫下的部分-PPPoE-拨号设备同时失效？](https://www.v2ex.com/t/850801) 
+- [2022-05-04-Parallels-Desktop-for-Mac-通过港币购买会便宜不少](https://www.v2ex.com/t/850800) 
 - [2022-05-04-xbin:-不需要安装就可以使用的-jq-等软件](https://www.v2ex.com/t/850798) 
 - [2022-05-04-谈谈饮食-每天能自己做饭是一件很幸福的事情，发现一大乐趣](https://www.v2ex.com/t/850797) 
 - [2022-05-04-要去大城市讨生活了，有什么相见恨晚的建议吗？](https://www.v2ex.com/t/850794) 
@@ -1940,8 +1942,6 @@
 - [2022-05-04-1Password-值得订阅吗？](https://www.v2ex.com/t/850754) 
 - [2022-05-04-求推荐一款停车熄火后还会自动录像的行车记录仪](https://www.v2ex.com/t/850753) 
 - [2022-05-04-学-Swift-有感](https://www.v2ex.com/t/850752) 
-- [2022-05-04-为何-Xbox-手柄如此稀缺？](https://www.v2ex.com/t/850751) 
-- [2022-05-04-Mac-Windows-一套键鼠控制多台设备解决方案](https://www.v2ex.com/t/850750) 
 - [2022-05-04-容易混淆的CAP及ACID定义-it.deepinmind.com](https://blogread.cn/news/go.php?idItem=15049&url=https%3A%2F%2Fit.deepinmind.com%2Fconcurrent%2F2022%2F01%2F23%2Fthe-confusing-cap-and-acid-wording.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-05-04-Java-IO类型-it.deepinmind.com](https://blogread.cn/news/go.php?idItem=15048&url=https%3A%2F%2Fit.deepinmind.com%2Fio%2F2022%2F01%2F24%2Fjava-sockets-i-o-blocking-non-blocking-and-asynchronous.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-05-04-见多识广，介绍Web开发中current开头的一些API属性-www.zhangxinxu.com](https://blogread.cn/news/go.php?idItem=15047&url=https%3A%2F%2Fwww.zhangxinxu.com%2Fwordpress%2F2021%2F11%2Fcurrentscript-currenttarget-currentsrc%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

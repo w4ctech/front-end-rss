@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2022-05-04 10:43:33。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-05-04 11:13:04。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-05-04-是什么故障能导致一个光猫下的部分-PPPoE-拨号设备同时失效？](https://www.v2ex.com/t/850801) 
+- [2022-05-04-Parallels-Desktop-for-Mac-通过港币购买会便宜不少](https://www.v2ex.com/t/850800) 
 - [2022-05-04-Linux-有介于-zsh-到-Gnome-之间的-GUI-吗](https://www.v2ex.com/t/850799) 
 - [2022-05-04-xbin:-不需要安装就可以使用的-jq-等软件](https://www.v2ex.com/t/850798) 
 - [2022-05-04-谈谈饮食-每天能自己做饭是一件很幸福的事情，发现一大乐趣](https://www.v2ex.com/t/850797) 
@@ -43,5 +45,3 @@
 - [2022-05-04-1Password-值得订阅吗？](https://www.v2ex.com/t/850754) 
 - [2022-05-04-求推荐一款停车熄火后还会自动录像的行车记录仪](https://www.v2ex.com/t/850753) 
 - [2022-05-04-学-Swift-有感](https://www.v2ex.com/t/850752) 
-- [2022-05-04-为何-Xbox-手柄如此稀缺？](https://www.v2ex.com/t/850751) 
-- [2022-05-04-Mac-Windows-一套键鼠控制多台设备解决方案](https://www.v2ex.com/t/850750) 

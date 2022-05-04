@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-05-04 11:38:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-05-04 12:27:31。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1912,6 +1912,12 @@
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2022-03-21-ascent-override-descent-override-line-gap-override一锅端](https://www.zhangxinxu.com/wordpress/2022/03/css-ascent-override-descent/) 
+- [2022-05-04-Linux-格式化硬盘为-NTFS-后，-windows-下读不了这个盘？](https://www.v2ex.com/t/850809) 
+- [2022-05-04-windows-10-UWP-应用被不明输入干扰，无法正常使用是为什么？](https://www.v2ex.com/t/850808) 
+- [2022-05-04-上海某-C9-大三跑路-CS，去-HK/SG-读-CS-授课型硕士，国内找互联网工作，还是国内读-CS-学硕？](https://www.v2ex.com/t/850807) 
+- [2022-05-04-离职正巧赶上北京疫情封控，无奈请教社保代缴问题](https://www.v2ex.com/t/850805) 
+- [2022-05-04-对于走-proxy-的服务，-CDN-如何单独配制？](https://www.v2ex.com/t/850804) 
+- [2022-05-04-黑苹果升级到-Montere-3rd-party-NVMe-controller.-Loss-of-MMIO-space.-Write.-fBuiltIn=1-MODEL=WDC-WDS100T2B0C-00PXH0-FW=211070WD](https://www.v2ex.com/t/850803) 
 - [2022-05-04-是什么故障能导致一个光猫下的部分-PPPoE-拨号设备同时失效？](https://www.v2ex.com/t/850801) 
 - [2022-05-04-Parallels-Desktop-for-Mac-通过港币购买会便宜不少](https://www.v2ex.com/t/850800) 
 - [2022-05-04-xbin:-不需要安装就可以使用的-jq-等软件](https://www.v2ex.com/t/850798) 
@@ -1935,12 +1941,6 @@
 - [2022-05-04-移动硬盘组合推荐](https://www.v2ex.com/t/850765) 
 - [2022-05-04-讨论一下-NAS-能否使用-U-盘作为主要系统盘](https://www.v2ex.com/t/850761) 
 - [2022-05-04-大伙的家庭生活和谐吗？有没有好的办法能促进家庭关系？](https://www.v2ex.com/t/850760) 
-- [2022-05-04-Mac-如何把-Java-开机自启关了](https://www.v2ex.com/t/850759) 
-- [2022-05-04-有办法将原本微信登陆的-QQ-音乐换成-QQ-登录么](https://www.v2ex.com/t/850758) 
-- [2022-05-04-不理解为啥要扒别人的网站，拉下来的代码那么冗余，仿一个站还有直接拉代码来改的吗？](https://www.v2ex.com/t/850756) 
-- [2022-05-04-meituan/Leaf-发号器的-Golang-版本](https://www.v2ex.com/t/850755) 
-- [2022-05-04-1Password-值得订阅吗？](https://www.v2ex.com/t/850754) 
-- [2022-05-04-求推荐一款停车熄火后还会自动录像的行车记录仪](https://www.v2ex.com/t/850753) 
 - [2022-05-04-容易混淆的CAP及ACID定义-it.deepinmind.com](https://blogread.cn/news/go.php?idItem=15049&url=https%3A%2F%2Fit.deepinmind.com%2Fconcurrent%2F2022%2F01%2F23%2Fthe-confusing-cap-and-acid-wording.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-05-04-Java-IO类型-it.deepinmind.com](https://blogread.cn/news/go.php?idItem=15048&url=https%3A%2F%2Fit.deepinmind.com%2Fio%2F2022%2F01%2F24%2Fjava-sockets-i-o-blocking-non-blocking-and-asynchronous.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-05-04-见多识广，介绍Web开发中current开头的一些API属性-www.zhangxinxu.com](https://blogread.cn/news/go.php?idItem=15047&url=https%3A%2F%2Fwww.zhangxinxu.com%2Fwordpress%2F2021%2F11%2Fcurrentscript-currenttarget-currentsrc%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-05-05 13:12:22，:rocket: 更新条数: +2028， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-05-05 13:53:35，:rocket: 更新条数: +2031， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,16 @@
 </summary>
 
 
+- [2022-05-05-独立显卡点不亮屏幕一般是什么问题?](https://www.v2ex.com/t/851048) ![](assets/new.png)  
+- [2022-05-05-有没有简单高效的-ios-和-Android-文件剪贴板互通办法？](https://www.v2ex.com/t/851047) ![](assets/new.png)  
+- [2022-05-05-如何排查电脑花屏死机问题？](https://www.v2ex.com/t/851046) ![](assets/new.png)  
+- [2022-05-05-我查看不了-wan-口-ip，还有什么办法判断自己是不是公网-ip-吗](https://www.v2ex.com/t/851045) ![](assets/new.png)  
+- [2022-05-05-给出一系列的X,Y坐标点，有一个定理叫函数关系趋向于低阶的，这个之前看到一本书讲过，现在忘记乐，有好心人知道吗？](https://www.v2ex.com/t/851044) ![](assets/new.png)  
+- [2022-05-05-过-6-个月-35-周岁了-还有必要去自考本科吗](https://www.v2ex.com/t/851042) ![](assets/new.png)  
+- [2022-05-05-有什么好的办法实现两个设备之间的文件传输吗](https://www.v2ex.com/t/851040) ![](assets/new.png)  
+- [2022-05-05-有什么办法合并或者导入不同的照片图库](https://www.v2ex.com/t/851039) ![](assets/new.png)  
+- [2022-05-05-有什么办法屏蔽-teamviewer/向日葵-之类软件对某个全局快捷键的拦截？](https://www.v2ex.com/t/851038) ![](assets/new.png)  
+- [2022-05-05-为什么-Mac-端-safari-不支持-pwa-呢](https://www.v2ex.com/t/851037) ![](assets/new.png)  
 - [2022-05-05-XDM-我这爬墙小鸡是不是可以宣告死亡了](https://www.v2ex.com/t/851036) ![](assets/new.png)  
 - [2022-05-05-推荐图文类打发时间的-app？](https://www.v2ex.com/t/851035) ![](assets/new.png)  
 - [2022-05-05-求登山拍风景用相机推荐](https://www.v2ex.com/t/851034) ![](assets/new.png)  
@@ -501,16 +511,6 @@
 - [2022-05-05-vue3-比-vue2-多了什么？](https://www.v2ex.com/t/851027) ![](assets/new.png)  
 - [2022-05-05-现在比较主流的认证方式是什么？-app-访问后端接口](https://www.v2ex.com/t/851026) ![](assets/new.png)  
 - [2022-05-05-大佬们，-MacOS-怎么关闭下载的音频试听，自动同步到-Apple-Music](https://www.v2ex.com/t/851025) ![](assets/new.png)  
-- [2022-05-05-Mac-上如何实现在使用-utun-时再绑定网络出口？](https://www.v2ex.com/t/851024) ![](assets/new.png)  
-- [2022-05-05-请教下各位大佬，企业停工停产变相裁员，打工人怎么更好地维护自己的权益](https://www.v2ex.com/t/851023) ![](assets/new.png)  
-- [2022-05-05-最新版本电脑微信打开小程序依旧提示版本过旧](https://www.v2ex.com/t/851022) ![](assets/new.png)  
-- [2022-05-05-offer-比较，想听听-V-友的建议](https://www.v2ex.com/t/851020) ![](assets/new.png)  
-- [2022-05-05-求教一个-Python-pyinstaller-的问题。。。](https://www.v2ex.com/t/851019) ![](assets/new.png)  
-- [2022-05-05-想做一个类似皇室战争的游戏，有没有西安的大佬来聊聊](https://www.v2ex.com/t/851018) ![](assets/new.png)  
-- [2022-05-05-12.3.1-的-mac-在点亮-iPad-屏幕后网络延迟变大](https://www.v2ex.com/t/851017) ![](assets/new.png)  
-- [2022-05-05-如何统计手机状态](https://www.v2ex.com/t/851016) ![](assets/new.png)  
-- [2022-05-05-intel-MBP-用-PD-虚拟机安装-win11-后运行安卓-APP？](https://www.v2ex.com/t/851015) ![](assets/new.png)  
-- [2022-05-05-如何用-苹果-Xcode-最新的在-Assts.xcassets-里，右键设置-iOS-LaunchImage-的时候为什么括号里提示-Deprecated？](https://www.v2ex.com/t/851014) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -572,7 +572,7 @@
 - [2022-05-05-企业治理实战-经验分享](https://toutiao.io/k/861gcf3) ![](assets/new.png)  
 - [2022-05-05-精读《深入了解现代浏览器四》](https://toutiao.io/k/5y93s2p) ![](assets/new.png)  
 - [2022-05-05-网易大数据平台HDFS性能优化实践](https://toutiao.io/k/uwobgy8) ![](assets/new.png)  
-- [2022-05-05-推荐-非常哇塞的-SpringBoot性能优化长文！](https://toutiao.io/k/srppeol) ![](assets/new.png)  
+- [2022-05-05-推荐-深入浅出分布式锁](https://toutiao.io/k/957qnad) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

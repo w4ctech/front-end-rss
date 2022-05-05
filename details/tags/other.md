@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-05-05 13:12:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-05-05 13:53:35。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1912,6 +1912,14 @@
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2022-03-21-ascent-override-descent-override-line-gap-override一锅端](https://www.zhangxinxu.com/wordpress/2022/03/css-ascent-override-descent/) 
+- [2022-05-05-独立显卡点不亮屏幕一般是什么问题?](https://www.v2ex.com/t/851048) 
+- [2022-05-05-有没有简单高效的-ios-和-Android-文件剪贴板互通办法？](https://www.v2ex.com/t/851047) 
+- [2022-05-05-如何排查电脑花屏死机问题？](https://www.v2ex.com/t/851046) 
+- [2022-05-05-我查看不了-wan-口-ip，还有什么办法判断自己是不是公网-ip-吗](https://www.v2ex.com/t/851045) 
+- [2022-05-05-给出一系列的X,Y坐标点，有一个定理叫函数关系趋向于低阶的，这个之前看到一本书讲过，现在忘记乐，有好心人知道吗？](https://www.v2ex.com/t/851044) 
+- [2022-05-05-过-6-个月-35-周岁了-还有必要去自考本科吗](https://www.v2ex.com/t/851042) 
+- [2022-05-05-有什么好的办法实现两个设备之间的文件传输吗](https://www.v2ex.com/t/851040) 
+- [2022-05-05-有什么办法合并或者导入不同的照片图库](https://www.v2ex.com/t/851039) 
 - [2022-05-05-XDM-我这爬墙小鸡是不是可以宣告死亡了](https://www.v2ex.com/t/851036) 
 - [2022-05-05-推荐图文类打发时间的-app？](https://www.v2ex.com/t/851035) 
 - [2022-05-05-求登山拍风景用相机推荐](https://www.v2ex.com/t/851034) 
@@ -1936,12 +1944,6 @@
 - [2022-05-05-墨水屏阅读器求推荐](https://www.v2ex.com/t/851003) 
 - [2022-05-05-苦于没有异常，怎么优雅的捕捉三方包里的-panic](https://www.v2ex.com/t/851002) 
 - [2022-05-05-母亲节选择困难症犯了](https://www.v2ex.com/t/851001) 
-- [2022-05-05-你们手机用的-20w-还是-30w-充电？](https://www.v2ex.com/t/850997) 
-- [2022-05-05-HomeKit-吸顶灯-99-元](https://www.v2ex.com/t/850996) 
-- [2022-05-05-Notion-的中文输入法-bug-就一直修复不了吗？](https://www.v2ex.com/t/850994) 
-- [2022-05-05-北京-字节跳动---前端开发工程师---Growth-方向](https://www.v2ex.com/t/850992) 
-- [2022-05-05-各位去百度农场搜一下看看有无自己的博客文章被百度文库未经授权收录](https://www.v2ex.com/t/850988) 
-- [2022-05-05-如何在内外网端口映射情况下使用域名直接访问由宝塔面板建立的网站？](https://www.v2ex.com/t/850987) 
 - [2022-05-05-容易混淆的CAP及ACID定义-it.deepinmind.com](https://blogread.cn/news/go.php?idItem=15049&url=https%3A%2F%2Fit.deepinmind.com%2Fconcurrent%2F2022%2F01%2F23%2Fthe-confusing-cap-and-acid-wording.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-05-05-Java-IO类型-it.deepinmind.com](https://blogread.cn/news/go.php?idItem=15048&url=https%3A%2F%2Fit.deepinmind.com%2Fio%2F2022%2F01%2F24%2Fjava-sockets-i-o-blocking-non-blocking-and-asynchronous.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-05-05-见多识广，介绍Web开发中current开头的一些API属性-www.zhangxinxu.com](https://blogread.cn/news/go.php?idItem=15047&url=https%3A%2F%2Fwww.zhangxinxu.com%2Fwordpress%2F2021%2F11%2Fcurrentscript-currenttarget-currentsrc%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

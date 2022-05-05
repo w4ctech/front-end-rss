@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-05-05 07:15:01，:rocket: 更新条数: +2022， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-05-05 07:39:42，:rocket: 更新条数: +2023， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,11 @@
 </summary>
 
 
+- [2022-05-05-大家有没有使用下来，质量靠谱，比较好用的蓝牙头戴式的大耳机](https://www.v2ex.com/t/850960) ![](assets/new.png)  
+- [2022-05-05-广州移动千兆家宽上传只给-40Mbps](https://www.v2ex.com/t/850959) ![](assets/new.png)  
+- [2022-05-05-黑果还是挺香的，顺便问下，苹果还可能重启-Intel-产品线吗？](https://www.v2ex.com/t/850958) ![](assets/new.png)  
+- [2022-05-05-Firefox-100-网页微信不大正常](https://www.v2ex.com/t/850957) ![](assets/new.png)  
+- [2022-05-05-都说-go-简单-小白学完-channel-马上就不会了](https://www.v2ex.com/t/850955) ![](assets/new.png)  
 - [2022-05-05-冥想的时候浑身不得劲](https://www.v2ex.com/t/850954) ![](assets/new.png)  
 - [2022-05-05-字节招聘网站真的有够好笑](https://www.v2ex.com/t/850953) ![](assets/new.png)  
 - [2022-05-05-接到一个外省电话说是要教我注销京东金条](https://www.v2ex.com/t/850951) ![](assets/new.png)  
@@ -506,11 +511,6 @@
 - [2022-05-05-前端官网的无障碍（适老化）应该怎么做，需求个解决方案](https://www.v2ex.com/t/850937) ![](assets/new.png)  
 - [2022-05-05-重度-Alfred-使用者，为了解决多元需求，我做了-alfred-workflow-集合](https://www.v2ex.com/t/850931) ![](assets/new.png)  
 - [2022-05-05-同时做两份远程工作的社保问题何解](https://www.v2ex.com/t/850930) ![](assets/new.png)  
-- [2022-05-05-你们的向日葵客户端今天还能登录吗](https://www.v2ex.com/t/850928) ![](assets/new.png)  
-- [2022-05-05-前端万级数据量的图表中，数据应该怎么获取？](https://www.v2ex.com/t/850927) ![](assets/new.png)  
-- [2022-05-05-为什么现在话费充值优惠力度都这么小？同时求问有没有便宜的充话费方式？](https://www.v2ex.com/t/850926) ![](assets/new.png)  
-- [2022-05-05-删掉-Logi-option-之后滚轮滑动变丝滑了](https://www.v2ex.com/t/850925) ![](assets/new.png)  
-- [2022-05-05-在大连做运维可以一直做下去吗？](https://www.v2ex.com/t/850924) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -560,19 +560,19 @@
 - [2022-05-05-我的机器学习之路！](https://toutiao.io/k/y59f508) ![](assets/new.png)  
 - [2022-05-05-假期结束，该充充电啦！](https://toutiao.io/k/wqxfv6b) ![](assets/new.png)  
 - [2022-05-05-你愿意花一美元做吗?](https://toutiao.io/k/93ste67) ![](assets/new.png)  
-- [2022-05-05-fastjson这么快老外为啥还是热衷-jackson?](https://toutiao.io/k/53srxw5) ![](assets/new.png)  
 - [2022-05-05-Apache-Kyuubi：一个有趣的大数据开源项目](https://toutiao.io/k/39qsnxx) ![](assets/new.png)  
+- [2022-05-05-fastjson这么快老外为啥还是热衷-jackson?](https://toutiao.io/k/53srxw5) ![](assets/new.png)  
 - [2022-05-05-我差一点就中了Magniber勒索病毒](https://toutiao.io/k/z5o5yw8) ![](assets/new.png)  
 - [2022-05-05-合理规模的MLOps](https://toutiao.io/k/bw41ilt) ![](assets/new.png)  
 - [2022-05-05-为什么Leader喜欢抢下面同学活干？](https://toutiao.io/k/9jecfh2) ![](assets/new.png)  
 - [2022-05-05-推荐一款数据mock框架，无需任何依赖，贼牛逼](https://toutiao.io/k/1n3b18r) ![](assets/new.png)  
 - [2022-05-05-企业治理实战-经验分享](https://toutiao.io/k/861gcf3) ![](assets/new.png)  
-- [2022-05-05-GitHub-桌面版-v3.0-新特性「GitHub-热点速览」](https://toutiao.io/k/9cjrybz) ![](assets/new.png)  
 - [2022-05-05-实力总结四类Bean注入Spring的方式](https://toutiao.io/k/lomhloh) ![](assets/new.png)  
+- [2022-05-05-GitHub-桌面版-v3.0-新特性「GitHub-热点速览」](https://toutiao.io/k/9cjrybz) ![](assets/new.png)  
 - [2022-05-05-etcd-watch：etcd-如何实现-watch-机制？](https://toutiao.io/k/2xrc8p0) ![](assets/new.png)  
 - [2022-05-05-精读《深入了解现代浏览器四》](https://toutiao.io/k/5y93s2p) ![](assets/new.png)  
 - [2022-05-05-网易大数据平台HDFS性能优化实践](https://toutiao.io/k/uwobgy8) ![](assets/new.png)  
-- [2022-05-05-推荐-非常哇塞的-SpringBoot性能优化长文！](https://toutiao.io/k/srppeol) ![](assets/new.png)  
+- [2022-05-05-推荐-深入浅出分布式锁](https://toutiao.io/k/957qnad) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

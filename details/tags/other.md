@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-05-05 07:15:01。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-05-05 07:39:42。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1912,6 +1912,10 @@
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2022-03-21-ascent-override-descent-override-line-gap-override一锅端](https://www.zhangxinxu.com/wordpress/2022/03/css-ascent-override-descent/) 
+- [2022-05-05-大家有没有使用下来，质量靠谱，比较好用的蓝牙头戴式的大耳机](https://www.v2ex.com/t/850960) 
+- [2022-05-05-广州移动千兆家宽上传只给-40Mbps](https://www.v2ex.com/t/850959) 
+- [2022-05-05-黑果还是挺香的，顺便问下，苹果还可能重启-Intel-产品线吗？](https://www.v2ex.com/t/850958) 
+- [2022-05-05-都说-go-简单-小白学完-channel-马上就不会了](https://www.v2ex.com/t/850955) 
 - [2022-05-05-冥想的时候浑身不得劲](https://www.v2ex.com/t/850954) 
 - [2022-05-05-接到一个外省电话说是要教我注销京东金条](https://www.v2ex.com/t/850951) 
 - [2022-05-05-发现了一个省钱大妙招](https://www.v2ex.com/t/850950) 
@@ -1935,9 +1939,6 @@
 - [2022-05-05-winpe-能不能取消电脑原系统中已经注册的-dll？](https://www.v2ex.com/t/850916) 
 - [2022-05-05-电脑桌上的无影护眼灯，有祖国版推荐吗？](https://www.v2ex.com/t/850915) 
 - [2022-05-05-一个-Pikpak-网盘-账号搬家工具](https://www.v2ex.com/t/850912) 
-- [2022-05-05-上海-字节跳动-TnS-团队招人](https://www.v2ex.com/t/850907) 
-- [2022-05-05-救！-pocket-的网页版打不开了…](https://www.v2ex.com/t/850906) 
-- [2022-05-05-virtualbox-的虚拟机怎么导入到-esxi？](https://www.v2ex.com/t/850905) 
 - [2022-05-05-容易混淆的CAP及ACID定义-it.deepinmind.com](https://blogread.cn/news/go.php?idItem=15049&url=https%3A%2F%2Fit.deepinmind.com%2Fconcurrent%2F2022%2F01%2F23%2Fthe-confusing-cap-and-acid-wording.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-05-05-Java-IO类型-it.deepinmind.com](https://blogread.cn/news/go.php?idItem=15048&url=https%3A%2F%2Fit.deepinmind.com%2Fio%2F2022%2F01%2F24%2Fjava-sockets-i-o-blocking-non-blocking-and-asynchronous.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-05-05-见多识广，介绍Web开发中current开头的一些API属性-www.zhangxinxu.com](https://blogread.cn/news/go.php?idItem=15047&url=https%3A%2F%2Fwww.zhangxinxu.com%2Fwordpress%2F2021%2F11%2Fcurrentscript-currenttarget-currentsrc%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

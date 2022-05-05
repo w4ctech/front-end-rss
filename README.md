@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-05-05 06:49:39，:rocket: 更新条数: +2024， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-05-05 07:15:01，:rocket: 更新条数: +2022， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,13 @@
 </summary>
 
 
+- [2022-05-05-冥想的时候浑身不得劲](https://www.v2ex.com/t/850954) ![](assets/new.png)  
+- [2022-05-05-字节招聘网站真的有够好笑](https://www.v2ex.com/t/850953) ![](assets/new.png)  
+- [2022-05-05-接到一个外省电话说是要教我注销京东金条](https://www.v2ex.com/t/850951) ![](assets/new.png)  
+- [2022-05-05-发现了一个省钱大妙招](https://www.v2ex.com/t/850950) ![](assets/new.png)  
+- [2022-05-05-2022-深圳驾校哪家强，求推荐](https://www.v2ex.com/t/850949) ![](assets/new.png)  
+- [2022-05-05-博客分享：使用-Sonarr-搭建自动化追番系统](https://www.v2ex.com/t/850948) ![](assets/new.png)  
+- [2022-05-05-使用-rollup.js-模块化编写-GM-脚本](https://www.v2ex.com/t/850945) ![](assets/new.png)  
 - [2022-05-05-下一个微信？-B-站可能大概涉及访问内网-Nas、软路由地址](https://www.v2ex.com/t/850944) ![](assets/new.png)  
 - [2022-05-05-clickhouse-分布式表问题请教](https://www.v2ex.com/t/850942) ![](assets/new.png)  
 - [2022-05-05-被-PayPal-封过账号-吃过钱的兄弟，我有办法治他们](https://www.v2ex.com/t/850940) ![](assets/new.png)  
@@ -504,13 +511,6 @@
 - [2022-05-05-为什么现在话费充值优惠力度都这么小？同时求问有没有便宜的充话费方式？](https://www.v2ex.com/t/850926) ![](assets/new.png)  
 - [2022-05-05-删掉-Logi-option-之后滚轮滑动变丝滑了](https://www.v2ex.com/t/850925) ![](assets/new.png)  
 - [2022-05-05-在大连做运维可以一直做下去吗？](https://www.v2ex.com/t/850924) ![](assets/new.png)  
-- [2022-05-05-Manjaro-ARM-禁用了几项服务，不知道是不是安全。](https://www.v2ex.com/t/850923) ![](assets/new.png)  
-- [2022-05-05-禁用后台后怎样快速启动微信支付宝小程序](https://www.v2ex.com/t/850922) ![](assets/new.png)  
-- [2022-05-05-2022-年-react-生态，大家都用啥](https://www.v2ex.com/t/850921) ![](assets/new.png)  
-- [2022-05-05-v2ex-的评论头像无法显示](https://www.v2ex.com/t/850920) ![](assets/new.png)  
-- [2022-05-05-怎么提醒在中国使用-Google-账号的人关闭谷歌账号的位置记录功能？](https://www.v2ex.com/t/850919) ![](assets/new.png)  
-- [2022-05-05-mbp-又双延期了](https://www.v2ex.com/t/850918) ![](assets/new.png)  
-- [2022-05-05-winpe-能不能取消电脑原系统中已经注册的-dll？](https://www.v2ex.com/t/850916) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -553,6 +553,7 @@
 </summary>
 
 
+- [2022-05-05-架构设计资料合集](https://toutiao.io/k/iqlrz7b) ![](assets/new.png)  
 - [2022-05-05-Salesforce服务可观测性设计模式](https://toutiao.io/k/ug27t5t) ![](assets/new.png)  
 - [2022-05-05-如何理解分治思想](https://toutiao.io/k/o4spslu) ![](assets/new.png)  
 - [2022-05-05-一日一技：抛掉JavaScript，用HTML和Python做网站](https://toutiao.io/k/yx82tqk) ![](assets/new.png)  
@@ -564,14 +565,13 @@
 - [2022-05-05-我差一点就中了Magniber勒索病毒](https://toutiao.io/k/z5o5yw8) ![](assets/new.png)  
 - [2022-05-05-合理规模的MLOps](https://toutiao.io/k/bw41ilt) ![](assets/new.png)  
 - [2022-05-05-为什么Leader喜欢抢下面同学活干？](https://toutiao.io/k/9jecfh2) ![](assets/new.png)  
-- [2022-05-05-etcd-watch：etcd-如何实现-watch-机制？](https://toutiao.io/k/2xrc8p0) ![](assets/new.png)  
 - [2022-05-05-推荐一款数据mock框架，无需任何依赖，贼牛逼](https://toutiao.io/k/1n3b18r) ![](assets/new.png)  
+- [2022-05-05-企业治理实战-经验分享](https://toutiao.io/k/861gcf3) ![](assets/new.png)  
 - [2022-05-05-GitHub-桌面版-v3.0-新特性「GitHub-热点速览」](https://toutiao.io/k/9cjrybz) ![](assets/new.png)  
 - [2022-05-05-实力总结四类Bean注入Spring的方式](https://toutiao.io/k/lomhloh) ![](assets/new.png)  
+- [2022-05-05-etcd-watch：etcd-如何实现-watch-机制？](https://toutiao.io/k/2xrc8p0) ![](assets/new.png)  
 - [2022-05-05-精读《深入了解现代浏览器四》](https://toutiao.io/k/5y93s2p) ![](assets/new.png)  
 - [2022-05-05-网易大数据平台HDFS性能优化实践](https://toutiao.io/k/uwobgy8) ![](assets/new.png)  
-- [2022-05-05-企业治理实战-经验分享](https://toutiao.io/k/861gcf3) ![](assets/new.png)  
-- [2022-05-05-推荐-性能分析优化的道与术](https://toutiao.io/k/2bi822s) ![](assets/new.png)  
 - [2022-05-05-推荐-非常哇塞的-SpringBoot性能优化长文！](https://toutiao.io/k/srppeol) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

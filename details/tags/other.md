@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-05-05 22:14:32。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-05-05 22:42:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1945,7 +1945,6 @@
 - [2022-05-05-感觉自己写的代码像屎山](https://www.v2ex.com/t/851031) 
 - [2022-05-05-配了一台-i9-12900K-es-的主机](https://www.v2ex.com/t/851028) 
 - [2022-05-05-现在比较主流的认证方式是什么？-app-访问后端接口](https://www.v2ex.com/t/851026) 
-- [2022-05-05-Mac-上如何实现在使用-utun-时再绑定网络出口？](https://www.v2ex.com/t/851024) 
 - [2022-05-05-技术人员如何做晋升答辩？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15056&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493950%26amp%3Bidx%3D1%26amp%3Bsn%3D5822d39d93eb06c5725967e19db945be%26amp%3Bchksm%3Dfa3f0865cd48817306328ce85e990d861d9aa3cf34e0a4d1fd818ae8fc807fb17b864eeb9930%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-05-05-30周年，Linux成功的真正原因是什么？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15053&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493941%26amp%3Bidx%3D1%26amp%3Bsn%3D3e6664f7984e9cc0a13ce1ee43ca1371%26amp%3Bchksm%3Dfa3f086ecd4881785408554e569faf28703345689690955a366f57e18d72e142a1a3a848ebb6%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-05-05-9本PDF，速来下载-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15052&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493941%26amp%3Bidx%3D2%26amp%3Bsn%3D355a5c3b447e86926bf8faf2d8dd1865%26amp%3Bchksm%3Dfa3f086ecd48817888ef3d141f24b754a9e75a26f1dc099093676cfe494cb53b675163b8fe9a%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1960,18 +1959,5 @@
 - [2022-05-05-关于编写故事卡的一些经验-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15030&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-story-card%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-05-05-最佳Web编程语言都有哪些？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15027&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493914%26amp%3Bidx%3D2%26amp%3Bsn%3D5903e1008661081b1e592a4854edf501%26amp%3Bchksm%3Dfa3f0841cd48815742cf760b2d181f03766f4d963c8a3aef96790b8ac5f386876f643f22e000%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-05-05-大厂MySQL规范，从入门到精通！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15025&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493913%26amp%3Bidx%3D2%26amp%3Bsn%3Da47e2c8b586c893c647d3d6da53550a6%26amp%3Bchksm%3Dfa3f0842cd488154aa87b2b18e554815542041944da605bb191891863dd09a42a73f7afe4664%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
-- [2022-05-05-架构设计资料合集](https://toutiao.io/k/iqlrz7b) 
-- [2022-05-05-Salesforce服务可观测性设计模式](https://toutiao.io/k/ug27t5t) 
-- [2022-05-05-如何理解分治思想](https://toutiao.io/k/o4spslu) 
-- [2022-05-05-我的机器学习之路！](https://toutiao.io/k/y59f508) 
-- [2022-05-05-Apache-Kyuubi：一个有趣的大数据开源项目](https://toutiao.io/k/39qsnxx) 
-- [2022-05-05-假期结束，该充充电啦！](https://toutiao.io/k/wqxfv6b) 
-- [2022-05-05-你愿意花一美元做吗?](https://toutiao.io/k/93ste67) 
-- [2022-05-05-我差一点就中了Magniber勒索病毒](https://toutiao.io/k/z5o5yw8) 
-- [2022-05-05-合理规模的MLOps](https://toutiao.io/k/bw41ilt) 
-- [2022-05-05-为什么Leader喜欢抢下面同学活干？](https://toutiao.io/k/9jecfh2) 
-- [2022-05-05-实力总结四类Bean注入Spring的方式](https://toutiao.io/k/lomhloh) 
-- [2022-05-05-推荐一款数据mock框架，无需任何依赖，贼牛逼](https://toutiao.io/k/1n3b18r) 
-- [2022-05-05-etcd-watch：etcd-如何实现-watch-机制？](https://toutiao.io/k/2xrc8p0) 
-- [2022-05-05-企业治理实战-经验分享](https://toutiao.io/k/861gcf3) 
+- [2022-05-05-欢迎加入「我爱程序员」读者圈子，一起交流！](https://toutiao.io/k/e1dod9e) 
 - [2022-05-05-推荐-深入浅出分布式锁](https://toutiao.io/k/957qnad) 

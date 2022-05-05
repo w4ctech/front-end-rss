@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-05-05 22:14:32，:rocket: 更新条数: +2028， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-05-05 22:42:24，:rocket: 更新条数: +2009， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -553,25 +553,9 @@
 </summary>
 
 
-- [2022-05-05-架构设计资料合集](https://toutiao.io/k/iqlrz7b) ![](assets/new.png)  
-- [2022-05-05-Salesforce服务可观测性设计模式](https://toutiao.io/k/ug27t5t) ![](assets/new.png)  
-- [2022-05-05-如何理解分治思想](https://toutiao.io/k/o4spslu) ![](assets/new.png)  
-- [2022-05-05-一日一技：抛掉JavaScript，用HTML和Python做网站](https://toutiao.io/k/yx82tqk) ![](assets/new.png)  
-- [2022-05-05-我的机器学习之路！](https://toutiao.io/k/y59f508) ![](assets/new.png)  
-- [2022-05-05-Apache-Kyuubi：一个有趣的大数据开源项目](https://toutiao.io/k/39qsnxx) ![](assets/new.png)  
-- [2022-05-05-假期结束，该充充电啦！](https://toutiao.io/k/wqxfv6b) ![](assets/new.png)  
-- [2022-05-05-fastjson这么快老外为啥还是热衷-jackson?](https://toutiao.io/k/53srxw5) ![](assets/new.png)  
-- [2022-05-05-你愿意花一美元做吗?](https://toutiao.io/k/93ste67) ![](assets/new.png)  
-- [2022-05-05-我差一点就中了Magniber勒索病毒](https://toutiao.io/k/z5o5yw8) ![](assets/new.png)  
-- [2022-05-05-合理规模的MLOps](https://toutiao.io/k/bw41ilt) ![](assets/new.png)  
-- [2022-05-05-为什么Leader喜欢抢下面同学活干？](https://toutiao.io/k/9jecfh2) ![](assets/new.png)  
-- [2022-05-05-实力总结四类Bean注入Spring的方式](https://toutiao.io/k/lomhloh) ![](assets/new.png)  
-- [2022-05-05-推荐一款数据mock框架，无需任何依赖，贼牛逼](https://toutiao.io/k/1n3b18r) ![](assets/new.png)  
-- [2022-05-05-etcd-watch：etcd-如何实现-watch-机制？](https://toutiao.io/k/2xrc8p0) ![](assets/new.png)  
-- [2022-05-05-GitHub-桌面版-v3.0-新特性「GitHub-热点速览」](https://toutiao.io/k/9cjrybz) ![](assets/new.png)  
-- [2022-05-05-企业治理实战-经验分享](https://toutiao.io/k/861gcf3) ![](assets/new.png)  
-- [2022-05-05-精读《深入了解现代浏览器四》](https://toutiao.io/k/5y93s2p) ![](assets/new.png)  
-- [2022-05-05-网易大数据平台HDFS性能优化实践](https://toutiao.io/k/uwobgy8) ![](assets/new.png)  
+- [2022-05-05-欢迎加入「我爱程序员」读者圈子，一起交流！](https://toutiao.io/k/e1dod9e) ![](assets/new.png)  
+- [2022-05-05-推荐-深入浅出分布式锁](https://toutiao.io/k/957qnad) ![](assets/new.png)  
+- [2022-05-05-推荐-如果你是一个Golang面试官，你会问哪些问题？](https://toutiao.io/k/0acpnu3) ![](assets/new.png)  
 - [2022-05-05-推荐-非常哇塞的-SpringBoot性能优化长文！](https://toutiao.io/k/srppeol) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

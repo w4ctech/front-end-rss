@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-05-05 22:14:32。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-05-05 22:42:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
@@ -44,4 +44,3 @@
 - [2022-05-05-vue3-比-vue2-多了什么？](https://www.v2ex.com/t/851027) 
 - [2022-05-05-现在比较主流的认证方式是什么？-app-访问后端接口](https://www.v2ex.com/t/851026) 
 - [2022-05-05-大佬们，-MacOS-怎么关闭下载的音频试听，自动同步到-Apple-Music](https://www.v2ex.com/t/851025) 
-- [2022-05-05-Mac-上如何实现在使用-utun-时再绑定网络出口？](https://www.v2ex.com/t/851024) 

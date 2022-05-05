@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-05-05 15:14:57。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-05-05 15:43:03。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1912,6 +1912,7 @@
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2022-03-21-ascent-override-descent-override-line-gap-override一锅端](https://www.zhangxinxu.com/wordpress/2022/03/css-ascent-override-descent/) 
+- [2022-05-05-突发奇想想搞个-macbook-无头骑士玩玩，求问其中会有哪些坑？](https://www.v2ex.com/t/851060) 
 - [2022-05-05-求解，爬虫遇到这种五秒盾要怎么过](https://www.v2ex.com/t/851059) 
 - [2022-05-05-固定-ip，应如何保护隐私呢？（e.g.,-应对个性化广告）](https://www.v2ex.com/t/851058) 
 - [2022-05-05-请问安卓手机相册如何保护隐私？](https://www.v2ex.com/t/851057) 
@@ -1945,7 +1946,6 @@
 - [2022-05-05-intel-MBP-用-PD-虚拟机安装-win11-后运行安卓-APP？](https://www.v2ex.com/t/851015) 
 - [2022-05-05-如何用-苹果-Xcode-最新的在-Assts.xcassets-里，右键设置-iOS-LaunchImage-的时候为什么括号里提示-Deprecated？](https://www.v2ex.com/t/851014) 
 - [2022-05-05-Mac-风扇打爆了，有大佬知道怎么解决吗](https://www.v2ex.com/t/851012) 
-- [2022-05-05-OPENWRT-可以强制设置接口速率吗？](https://www.v2ex.com/t/851010) 
 - [2022-05-05-技术人员如何做晋升答辩？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15056&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493950%26amp%3Bidx%3D1%26amp%3Bsn%3D5822d39d93eb06c5725967e19db945be%26amp%3Bchksm%3Dfa3f0865cd48817306328ce85e990d861d9aa3cf34e0a4d1fd818ae8fc807fb17b864eeb9930%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-05-05-30周年，Linux成功的真正原因是什么？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15053&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493941%26amp%3Bidx%3D1%26amp%3Bsn%3D3e6664f7984e9cc0a13ce1ee43ca1371%26amp%3Bchksm%3Dfa3f086ecd4881785408554e569faf28703345689690955a366f57e18d72e142a1a3a848ebb6%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-05-05-9本PDF，速来下载-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15052&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493941%26amp%3Bidx%3D2%26amp%3Bsn%3D355a5c3b447e86926bf8faf2d8dd1865%26amp%3Bchksm%3Dfa3f086ecd48817888ef3d141f24b754a9e75a26f1dc099093676cfe494cb53b675163b8fe9a%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

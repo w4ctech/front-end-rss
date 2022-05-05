@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-05-05 07:39:42。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-05-05 08:18:41。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 小程序
 
@@ -6,5 +6,3 @@
 > 关键字：`小程序`、`Taro`、`MPVue`、`Wepy`、`Chameleon`
 
 
-
-- [2022-05-05-禁用后台后怎样快速启动微信支付宝小程序](https://www.v2ex.com/t/850922) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-05-05 10:43:38。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-05-05 11:12:40。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1912,6 +1912,8 @@
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2022-03-21-ascent-override-descent-override-line-gap-override一锅端](https://www.zhangxinxu.com/wordpress/2022/03/css-ascent-override-descent/) 
+- [2022-05-05-Mac-风扇打爆了，有大佬知道怎么解决吗](https://www.v2ex.com/t/851012) 
+- [2022-05-05-OPENWRT-可以强制设置接口速率吗？](https://www.v2ex.com/t/851010) 
 - [2022-05-05-开源一个轻量、可拓展的-API-工具](https://www.v2ex.com/t/851008) 
 - [2022-05-05-美区亚马逊买手机会触发风控，信用卡验证一直不通过，有没有碰到过这个情况的](https://www.v2ex.com/t/851006) 
 - [2022-05-05-你是-Miro-的重度用户吗？](https://www.v2ex.com/t/851005) 
@@ -1943,10 +1945,6 @@
 - [2022-05-05-Livid-的采访上线了](https://www.v2ex.com/t/850966) 
 - [2022-05-05-今天有多少朝阳的小伙伴在家办公的](https://www.v2ex.com/t/850964) 
 - [2022-05-05-sqlldr-在-pg-数据库如何搞](https://www.v2ex.com/t/850963) 
-- [2022-05-05-关于婚姻矛盾，-原生家庭原罪，-以及家风](https://www.v2ex.com/t/850962) 
-- [2022-05-05-有链圈的朋友能推荐下，目前比较适合的学习路径和从事方向吗？](https://www.v2ex.com/t/850961) 
-- [2022-05-05-大家有没有使用下来，质量靠谱，比较好用的蓝牙头戴式的大耳机](https://www.v2ex.com/t/850960) 
-- [2022-05-05-广州移动千兆家宽上传只给-40Mbps](https://www.v2ex.com/t/850959) 
 - [2022-05-05-容易混淆的CAP及ACID定义-it.deepinmind.com](https://blogread.cn/news/go.php?idItem=15049&url=https%3A%2F%2Fit.deepinmind.com%2Fconcurrent%2F2022%2F01%2F23%2Fthe-confusing-cap-and-acid-wording.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-05-05-Java-IO类型-it.deepinmind.com](https://blogread.cn/news/go.php?idItem=15048&url=https%3A%2F%2Fit.deepinmind.com%2Fio%2F2022%2F01%2F24%2Fjava-sockets-i-o-blocking-non-blocking-and-asynchronous.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-05-05-见多识广，介绍Web开发中current开头的一些API属性-www.zhangxinxu.com](https://blogread.cn/news/go.php?idItem=15047&url=https%3A%2F%2Fwww.zhangxinxu.com%2Fwordpress%2F2021%2F11%2Fcurrentscript-currenttarget-currentsrc%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1971,10 +1969,10 @@
 - [2022-05-05-你愿意花一美元做吗?](https://toutiao.io/k/93ste67) 
 - [2022-05-05-Apache-Kyuubi：一个有趣的大数据开源项目](https://toutiao.io/k/39qsnxx) 
 - [2022-05-05-我差一点就中了Magniber勒索病毒](https://toutiao.io/k/z5o5yw8) 
-- [2022-05-05-合理规模的MLOps](https://toutiao.io/k/bw41ilt) 
 - [2022-05-05-为什么Leader喜欢抢下面同学活干？](https://toutiao.io/k/9jecfh2) 
+- [2022-05-05-合理规模的MLOps](https://toutiao.io/k/bw41ilt) 
 - [2022-05-05-实力总结四类Bean注入Spring的方式](https://toutiao.io/k/lomhloh) 
-- [2022-05-05-推荐一款数据mock框架，无需任何依赖，贼牛逼](https://toutiao.io/k/1n3b18r) 
 - [2022-05-05-etcd-watch：etcd-如何实现-watch-机制？](https://toutiao.io/k/2xrc8p0) 
+- [2022-05-05-推荐一款数据mock框架，无需任何依赖，贼牛逼](https://toutiao.io/k/1n3b18r) 
 - [2022-05-05-企业治理实战-经验分享](https://toutiao.io/k/861gcf3) 
 - [2022-05-05-推荐-深入浅出分布式锁](https://toutiao.io/k/957qnad) 

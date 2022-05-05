@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-05-05 03:00:45。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-05-05 04:00:07。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -180,7 +180,6 @@
 - [【张鑫旭-鑫空间-鑫生活】基于howler.js写了个音频播放器组件](https://www.zhangxinxu.com/wordpress/2022/03/howler-js-audio-player/)
 - [【张鑫旭-鑫空间-鑫生活】介绍8个和滚动相关的CSS属性](https://www.zhangxinxu.com/wordpress/2022/03/10-css-scroll-scrollbar/)
 - [【V2EX】求推荐一个可以-24-小时直播的软路由。最好带有-wifi-功能。颜值再高一点。](https://www.v2ex.com/t/850883)
-- [【V2EX】万兆-NAT-软路由系统求助](https://www.v2ex.com/t/850859)
 - [【技术头条】一个检测-json-合法性的脚本-droidyue.com](https://blogread.cn/news/go.php?idItem=15045&url=https%3A%2F%2Fdroidyue.com%2Fblog%2F2022%2F01%2F23%2Fhow-to-check-json-validity-in-ruby%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【开发者头条】一日一技：抛掉JavaScript，用HTML和Python做网站](https://toutiao.io/k/yx82tqk)
 - [【开发者头条】fastjson这么快老外为啥还是热衷-jackson?](https://toutiao.io/k/53srxw5)
@@ -204,7 +203,6 @@
 - [【张鑫旭-鑫空间-鑫生活】CSS-accent-color属性简介](https://www.zhangxinxu.com/wordpress/2022/03/css-accent-color/)
 - [【张鑫旭-鑫空间-鑫生活】被低估的border-image属性](https://www.zhangxinxu.com/wordpress/2022/02/css-border-image-tap-highlight/)
 - [【张鑫旭-鑫空间-鑫生活】CSS-overflow-clip-margin属性简介](https://www.zhangxinxu.com/wordpress/2022/02/css-overflow-clip-margin/)
-- [【V2EX】Studio-Display-到手半小时体验](https://www.v2ex.com/t/850865)
 - [【技术头条】纯CSS实现未读消息超过100自动显示为99+-www.zhangxinxu.com](https://blogread.cn/news/go.php?idItem=15050&url=https%3A%2F%2Fwww.zhangxinxu.com%2Fwordpress%2F2022%2F01%2Fcss-show-diff-content-according-var%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [......【查看更多】......](./details/tags/css.md)
 
@@ -240,9 +238,9 @@
 
 - [【武汉肺炎防疫全纪录(财新网)】广州17岁男生在定点医院参加高考-特殊考场视频监考](https://m.caixin.com/m/2021-06-05/101723418.html)
 - [【武汉肺炎防疫全纪录(财新网)】林郑月娥率13高官直播接种科兴疫苗-复星疫苗预计周中到港](https://m.caixin.com/m/2021-02-22/101665724.html)
+- [【V2EX】如何让-Android-Chrome-使用相同的视频播放器样式](https://www.v2ex.com/t/850898)
 - [【V2EX】上海字节跳动-飞书视频会议部门招聘-Golang-研发工程师](https://www.v2ex.com/t/850887)
 - [【V2EX】QQ-已经支持视频画中画了，微信也要跟进了吗](https://www.v2ex.com/t/850881)
-- [【V2EX】一千个播放器眼中有一千种-HDR---HDR-内容处理求教](https://www.v2ex.com/t/850866)
 - [......【查看更多】......](./details/tags/audio-video.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -259,8 +257,8 @@
 
 
 
-- [【开发者头条】推荐-性能分析优化的道与术](https://toutiao.io/k/2bi822s)
 - [【开发者头条】推荐-非常哇塞的-SpringBoot性能优化长文！](https://toutiao.io/k/srppeol)
+- [【开发者头条】推荐-性能分析优化的道与术](https://toutiao.io/k/2bi822s)
 - [......【查看更多】......](./details/tags/optimization.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -283,6 +281,8 @@
 - [【武汉肺炎防疫全纪录(财新网)】腺病毒新冠疫苗引安全忧虑-康希诺称未发现血栓病例](https://m.caixin.com/m/2021-04-14/101691086.html)
 - [【武汉肺炎防疫全纪录(财新网)】解药|新冠mRNA疫苗安全性有哪些挑战？](https://m.caixin.com/m/2021-01-08/101648043.html)
 - [【武汉肺炎防疫全纪录(财新网)】大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html)
+- [【V2EX】谷歌浏览器所有打开页面和分组怎么转到另外一个电脑？](https://www.v2ex.com/t/850910)
+- [【V2EX】Mac-Safari-浏览器阅读器视图模式问题](https://www.v2ex.com/t/850896)
 - [【技术头条】CodeReview价值百万！！！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15026&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493913%26amp%3Bidx%3D1%26amp%3Bsn%3D52ab2ee1a58002e7f706d28ab3946b5b%26amp%3Bchksm%3Dfa3f0842cd488154598f87855b8ecae16c1ec58d62b0f81a16b3523e9a8c08275c94b5762032%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [......【查看更多】......](./details/tags/browser.md)
 

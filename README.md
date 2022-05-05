@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-05-05 13:53:35，:rocket: 更新条数: +2031， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-05-05 14:13:53，:rocket: 更新条数: +2030， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-05-05-这些加密字符串是怎么产生的](https://www.v2ex.com/t/851051) ![](assets/new.png)  
+- [2022-05-05-Python-循环问题，求助](https://www.v2ex.com/t/851049) ![](assets/new.png)  
 - [2022-05-05-独立显卡点不亮屏幕一般是什么问题?](https://www.v2ex.com/t/851048) ![](assets/new.png)  
 - [2022-05-05-有没有简单高效的-ios-和-Android-文件剪贴板互通办法？](https://www.v2ex.com/t/851047) ![](assets/new.png)  
 - [2022-05-05-如何排查电脑花屏死机问题？](https://www.v2ex.com/t/851046) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-05-05-感觉自己写的代码像屎山](https://www.v2ex.com/t/851031) ![](assets/new.png)  
 - [2022-05-05-配了一台-i9-12900K-es-的主机](https://www.v2ex.com/t/851028) ![](assets/new.png)  
 - [2022-05-05-vue3-比-vue2-多了什么？](https://www.v2ex.com/t/851027) ![](assets/new.png)  
-- [2022-05-05-现在比较主流的认证方式是什么？-app-访问后端接口](https://www.v2ex.com/t/851026) ![](assets/new.png)  
-- [2022-05-05-大佬们，-MacOS-怎么关闭下载的音频试听，自动同步到-Apple-Music](https://www.v2ex.com/t/851025) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

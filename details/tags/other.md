@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-05-05 18:46:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-05-05 19:12:39。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1912,6 +1912,7 @@
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2022-03-21-ascent-override-descent-override-line-gap-override一锅端](https://www.zhangxinxu.com/wordpress/2022/03/css-ascent-override-descent/) 
+- [2022-05-05-golang-如何判断自身已被执行？](https://www.v2ex.com/t/851071) 
 - [2022-05-05-如何优雅的判断-server-的-ListenAndServe-方法是否调用成功？](https://www.v2ex.com/t/851070) 
 - [2022-05-05-百度百科历史版本里面的区块链信息有什么用？](https://www.v2ex.com/t/851069) 
 - [2022-05-05-2022-年了，我没学会-iPhone-的音量调节](https://www.v2ex.com/t/851066) 

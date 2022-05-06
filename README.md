@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-05-06 11:13:04，:rocket: 更新条数: +2028， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-05-06 11:37:58，:rocket: 更新条数: +2028， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-05-06-寻找可以远程的-sre-或者-go-方向的坑](https://www.v2ex.com/t/851222) ![](assets/new.png)  
 - [2022-05-06-分享下从国庆节做到劳动节的-3D-个人网站](https://www.v2ex.com/t/851221) ![](assets/new.png)  
 - [2022-05-06-请各位推荐适合-MacBook-Pro-用的鼠标和键盘](https://www.v2ex.com/t/851219) ![](assets/new.png)  
 - [2022-05-06-todesk-的客服,-专业水平好像没有,-沟通能力也让人无语.](https://www.v2ex.com/t/851218) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-05-06-关于投保问题，想咨询一下大家](https://www.v2ex.com/t/851202) ![](assets/new.png)  
 - [2022-05-06-服务疑似被尝试-fastjson-漏洞攻击](https://www.v2ex.com/t/851201) ![](assets/new.png)  
 - [2022-05-06-笔记本重装系统-10-几个小时未完成是什么原因？](https://www.v2ex.com/t/851200) ![](assets/new.png)  
-- [2022-05-06-油猴脚本：帖子预览](https://www.v2ex.com/t/851199) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -572,7 +572,7 @@
 - [2022-05-06-Grafana-系列文章（九）：开源云原生日志解决方案-Loki-简介](https://toutiao.io/k/s7xgf9w) ![](assets/new.png)  
 - [2022-05-06-听说你还在用开发者工具手动上传小程序，快来试试-miniprogram-ci-提效摸鱼](https://toutiao.io/k/3mducf0) ![](assets/new.png)  
 - [2022-05-06-Android卡顿掉帧问题分析之工具篇](https://toutiao.io/k/w3j907a) ![](assets/new.png)  
-- [2022-05-06-推荐-如果你是一个Golang面试官，你会问哪些问题？](https://toutiao.io/k/0acpnu3) ![](assets/new.png)  
+- [2022-05-06-推荐-非常哇塞的-SpringBoot性能优化长文！](https://toutiao.io/k/srppeol) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

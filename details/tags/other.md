@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-05-06 23:14:42。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-05-06 23:40:58。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1957,19 +1957,5 @@
 - [2022-05-06-Golang-多版本管理-soulteary.com](https://blogread.cn/news/go.php?idItem=15061&url=https%3A%2F%2Fsoulteary.com%2F2021%2F12%2F15%2Fgolang-multi-version-management.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-05-06-Systrace-线程-CPU-运行状态分析技巧---Runnable-篇-androidperformance.com](https://blogread.cn/news/go.php?idItem=15060&url=https%3A%2F%2Fandroidperformance.com%2F2022%2F01%2F21%2Fandroid-systrace-cpu-state-runnable%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-05-06-Jrnl：你的-Linux-终端数字日记-linux.cn](https://blogread.cn/news/go.php?idItem=15059&url=https%3A%2F%2Flinux.cn%2Farticle-14229-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
-- [2022-05-06-架构设计资料合集](https://toutiao.io/k/iqlrz7b) 
-- [2022-05-06-如何降低复杂度，用数据库做消息队列的存储？](https://toutiao.io/k/wzq9f22) 
-- [2022-05-06-使用-LSTM-对销售额预测（Python代码）](https://toutiao.io/k/ji1yelr) 
-- [2022-05-06-数据库异常智能分析与诊断](https://toutiao.io/k/tgdp77t) 
-- [2022-05-06-知识图谱之第一性原理](https://toutiao.io/k/2d7sk19) 
 - [2022-05-06-欢迎加入「我爱程序员」读者圈子，一起交流！](https://toutiao.io/k/e1dod9e) 
-- [2022-05-06-Go-单体服务开发最佳实践](https://toutiao.io/k/7137xju) 
-- [2022-05-06-数据仓库—开发规范](https://toutiao.io/k/yy6l840) 
-- [2022-05-06-又一个-shell-小技巧](https://toutiao.io/k/wpxmhd2) 
-- [2022-05-06-Kubernetes标志着大量采用Sigstore来保护开源生态系统](https://toutiao.io/k/3zg33tf) 
-- [2022-05-06-READS:-Salesforce-服务健康指标最佳实践](https://toutiao.io/k/w9oskgz) 
-- [2022-05-06-Grafana-系列文章（九）：开源云原生日志解决方案-Loki-简介](https://toutiao.io/k/s7xgf9w) 
-- [2022-05-06-独立开发变现周刊（第53期）：“失败的推文”促使我开发了一个年收入49万美元的增长工具](https://toutiao.io/k/9mjgzx7) 
-- [2022-05-06-这个bug，折磨级别五颗星！](https://toutiao.io/k/9jdi5nv) 
-- [2022-05-06-Android卡顿掉帧问题分析之工具篇](https://toutiao.io/k/w3j907a) 
 - [2022-05-06-推荐-深入浅出分布式锁](https://toutiao.io/k/957qnad) 

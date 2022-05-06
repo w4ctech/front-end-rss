@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-05-06 06:50:47。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-05-06 07:13:45。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1912,6 +1912,8 @@
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2022-03-21-ascent-override-descent-override-line-gap-override一锅端](https://www.zhangxinxu.com/wordpress/2022/03/css-ascent-override-descent/) 
+- [2022-05-06-假如能开发一个程序能把闲置的二手手机利用起来怎么样？](https://www.v2ex.com/t/851177) 
+- [2022-05-06-今天接到个自称是-jd-金融的手机号码，请问是什么套路？](https://www.v2ex.com/t/851174) 
 - [2022-05-06-安卓平台上目前有办法屏蔽原生-App-的弹窗吗？](https://www.v2ex.com/t/851172) 
 - [2022-05-06-手里有一台闲置的-Thinkpad-T14s，想拿来做黑苹果](https://www.v2ex.com/t/851171) 
 - [2022-05-06-怎么检测远程图片是否是渐进式呢](https://www.v2ex.com/t/851170) 
@@ -1937,8 +1939,6 @@
 - [2022-05-06-前后端传参问题](https://www.v2ex.com/t/851133) 
 - [2022-05-06-探讨の—开发者所必需的基本功和软技能](https://www.v2ex.com/t/851132) 
 - [2022-05-06-vscode-1.67.0-这个主题色改动让人防不胜防](https://www.v2ex.com/t/851129) 
-- [2022-05-06-iphone12-用不习惯，打算卖了换安卓，求推荐-2-3K-价位的手机](https://www.v2ex.com/t/851126) 
-- [2022-05-06-准备修改离职同事的一个项目，所有代码只有开头一行注释，看着头晕。](https://www.v2ex.com/t/851123) 
 - [2022-05-06-技术人员如何做晋升答辩？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15056&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493950%26amp%3Bidx%3D1%26amp%3Bsn%3D5822d39d93eb06c5725967e19db945be%26amp%3Bchksm%3Dfa3f0865cd48817306328ce85e990d861d9aa3cf34e0a4d1fd818ae8fc807fb17b864eeb9930%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-05-06-30周年，Linux成功的真正原因是什么？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15053&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493941%26amp%3Bidx%3D1%26amp%3Bsn%3D3e6664f7984e9cc0a13ce1ee43ca1371%26amp%3Bchksm%3Dfa3f086ecd4881785408554e569faf28703345689690955a366f57e18d72e142a1a3a848ebb6%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-05-06-9本PDF，速来下载-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15052&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493941%26amp%3Bidx%3D2%26amp%3Bsn%3D355a5c3b447e86926bf8faf2d8dd1865%26amp%3Bchksm%3Dfa3f086ecd48817888ef3d141f24b754a9e75a26f1dc099093676cfe494cb53b675163b8fe9a%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

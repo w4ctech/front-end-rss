@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-05-06 09:41:48。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-05-06 10:15:59。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1912,6 +1912,10 @@
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2022-03-21-ascent-override-descent-override-line-gap-override一锅端](https://www.zhangxinxu.com/wordpress/2022/03/css-ascent-override-descent/) 
+- [2022-05-06-拼多多怎么做到的?](https://www.v2ex.com/t/851215) 
+- [2022-05-06-1Password-无法取消订阅也无法删除扣款信用卡](https://www.v2ex.com/t/851214) 
+- [2022-05-06-typora-的-beta-版用不了了](https://www.v2ex.com/t/851213) 
+- [2022-05-06-周刊第-11-期：扩大你的运气表面积（Luck-Surface-Area）](https://www.v2ex.com/t/851212) 
 - [2022-05-06-OIS---月入-3k-~-4k-的微信支付副业实践](https://www.v2ex.com/t/851211) 
 - [2022-05-06-重庆-IDC-机房推荐](https://www.v2ex.com/t/851210) 
 - [2022-05-06-dns-server-有什么好用的软件可以带域名健康检查的。需要支持-ping-丢包检测的。现在解析出来的-ip-有丢包的比延迟高的影响还要大。需要-dns-服务能优先返回不丢...](https://www.v2ex.com/t/851209) 
@@ -1943,8 +1947,6 @@
 - [2022-05-06-手里有一台闲置的-Thinkpad-T14s，想拿来做黑苹果](https://www.v2ex.com/t/851171) 
 - [2022-05-06-怎么检测远程图片是否是渐进式呢](https://www.v2ex.com/t/851170) 
 - [2022-05-06-讲讲远程工作时网络环境的搭建](https://www.v2ex.com/t/851168) 
-- [2022-05-06-香港的场所码是离线处理的](https://www.v2ex.com/t/851165) 
-- [2022-05-06-想收台甲骨文东京，最好注册时间久一点的](https://www.v2ex.com/t/851163) 
 - [2022-05-06-技术人员如何做晋升答辩？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15056&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493950%26amp%3Bidx%3D1%26amp%3Bsn%3D5822d39d93eb06c5725967e19db945be%26amp%3Bchksm%3Dfa3f0865cd48817306328ce85e990d861d9aa3cf34e0a4d1fd818ae8fc807fb17b864eeb9930%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-05-06-30周年，Linux成功的真正原因是什么？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15053&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493941%26amp%3Bidx%3D1%26amp%3Bsn%3D3e6664f7984e9cc0a13ce1ee43ca1371%26amp%3Bchksm%3Dfa3f086ecd4881785408554e569faf28703345689690955a366f57e18d72e142a1a3a848ebb6%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-05-06-9本PDF，速来下载-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15052&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493941%26amp%3Bidx%3D2%26amp%3Bsn%3D355a5c3b447e86926bf8faf2d8dd1865%26amp%3Bchksm%3Dfa3f086ecd48817888ef3d141f24b754a9e75a26f1dc099093676cfe494cb53b675163b8fe9a%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

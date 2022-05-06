@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-05-06 05:39:45，:rocket: 更新条数: +2021， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-05-06 06:20:11，:rocket: 更新条数: +2027， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,14 @@
 </summary>
 
 
+- [2022-05-06-无聊且“迷信”，于是做了个小程序](https://www.v2ex.com/t/851169) ![](assets/new.png)  
+- [2022-05-06-讲讲远程工作时网络环境的搭建](https://www.v2ex.com/t/851168) ![](assets/new.png)  
+- [2022-05-06-请教大神，-1-个光猫+2-个路由器是否可实现无缝漫游](https://www.v2ex.com/t/851167) ![](assets/new.png)  
+- [2022-05-06-VSCode-中，-Vue-文件重命名或移动位置，有办法让引用该-Vue-文件的所有地方自动更新-import-路径吗？](https://www.v2ex.com/t/851166) ![](assets/new.png)  
+- [2022-05-06-香港的场所码是离线处理的](https://www.v2ex.com/t/851165) ![](assets/new.png)  
+- [2022-05-06-React-中,-为什么要用-useRef-而不直接用一个外部变量?](https://www.v2ex.com/t/851164) ![](assets/new.png)  
+- [2022-05-06-想收台甲骨文东京，最好注册时间久一点的](https://www.v2ex.com/t/851163) ![](assets/new.png)  
+- [2022-05-06-使用-app-端-gmail-的吐槽](https://www.v2ex.com/t/851161) ![](assets/new.png)  
 - [2022-05-06-React-中,-用-Context+Hooks-替代-Redux-的朋友们,-有个问题请教下](https://www.v2ex.com/t/851160) ![](assets/new.png)  
 - [2022-05-06-字节跳动---深圳---部门直推，快速面试，进度随时反馈，长期有效，求简历](https://www.v2ex.com/t/851156) ![](assets/new.png)  
 - [2022-05-06-请教一个前端的-css-问题](https://www.v2ex.com/t/851155) ![](assets/new.png)  
@@ -503,14 +511,6 @@
 - [2022-05-06-润之-加拿大/国内远程-全栈软件工程师-/-数据工程师](https://www.v2ex.com/t/851148) ![](assets/new.png)  
 - [2022-05-06-除了苹果官网以外，有什么可靠的地方，能快速的购买到-32g-内存的-14-寸-MacBook-Pro-M1-吗？](https://www.v2ex.com/t/851147) ![](assets/new.png)  
 - [2022-05-06-来来，大家有几人获得优秀毕业生资格呢？](https://www.v2ex.com/t/851146) ![](assets/new.png)  
-- [2022-05-06-家用-pfSense-路由器多网口配置请教](https://www.v2ex.com/t/851145) ![](assets/new.png)  
-- [2022-05-06-求教-HID-proxcardRFID-门禁卡读取写入-iPhone-NFC?](https://www.v2ex.com/t/851144) ![](assets/new.png)  
-- [2022-05-06-搬砖琐事](https://www.v2ex.com/t/851143) ![](assets/new.png)  
-- [2022-05-06-PHP-+mysql-在查询结果集中继续查询，在第二次结果集再查询一次，涉及到多字段模糊查询，请问这种有什么解决方案？](https://www.v2ex.com/t/851142) ![](assets/new.png)  
-- [2022-05-06-mac-idea-更新之后、一编译代码就开飞机一样。回退到老版本又没有那么严重](https://www.v2ex.com/t/851140) ![](assets/new.png)  
-- [2022-05-06-有老哥们用-macbook-air-m1-16G-来做主力的开发机吗？现在能入手吗？](https://www.v2ex.com/t/851139) ![](assets/new.png)  
-- [2022-05-06-鼠标奇葩现象-罗技-MX1-桌面特定区域失灵](https://www.v2ex.com/t/851138) ![](assets/new.png)  
-- [2022-05-06-Rust-的语法这么难看是不是创造它的人正是-JS-的创始人？](https://www.v2ex.com/t/851137) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -555,8 +555,8 @@
 
 - [2022-05-06-利用-FFmpeg-将视频转换为-GIF-操作指北](https://toutiao.io/k/qdfhpcm) ![](assets/new.png)  
 - [2022-05-06-欢迎加入「我爱程序员」读者圈子，一起交流！](https://toutiao.io/k/e1dod9e) ![](assets/new.png)  
-- [2022-05-06-使用-LSTM-对销售额预测（Python代码）](https://toutiao.io/k/ji1yelr) ![](assets/new.png)  
 - [2022-05-06-如何降低复杂度，用数据库做消息队列的存储？](https://toutiao.io/k/wzq9f22) ![](assets/new.png)  
+- [2022-05-06-使用-LSTM-对销售额预测（Python代码）](https://toutiao.io/k/ji1yelr) ![](assets/new.png)  
 - [2022-05-06-Elasticsearch-快照生命周期管理-SLM-实战指南](https://toutiao.io/k/iq2x2em) ![](assets/new.png)  
 - [2022-05-06-数据库异常智能分析与诊断](https://toutiao.io/k/tgdp77t) ![](assets/new.png)  
 - [2022-05-06-知识图谱之第一性原理](https://toutiao.io/k/2d7sk19) ![](assets/new.png)  
@@ -564,9 +564,15 @@
 - [2022-05-06-Go-单体服务开发最佳实践](https://toutiao.io/k/7137xju) ![](assets/new.png)  
 - [2022-05-06-58神奇管家——基于零信任终端安全管理系统的设计与实现](https://toutiao.io/k/y0swz1b) ![](assets/new.png)  
 - [2022-05-06-READS:-Salesforce-服务健康指标最佳实践](https://toutiao.io/k/w9oskgz) ![](assets/new.png)  
-- [2022-05-06-推荐-非常哇塞的-SpringBoot性能优化长文！](https://toutiao.io/k/srppeol) ![](assets/new.png)  
+- [2022-05-06-又一个-shell-小技巧](https://toutiao.io/k/wpxmhd2) ![](assets/new.png)  
+- [2022-05-06-独立开发变现周刊（第53期）：“失败的推文”促使我开发了一个年收入49万美元的增长工具](https://toutiao.io/k/9mjgzx7) ![](assets/new.png)  
+- [2022-05-06-这个bug，折磨级别五颗星！](https://toutiao.io/k/9jdi5nv) ![](assets/new.png)  
+- [2022-05-06-数据仓库—开发规范](https://toutiao.io/k/yy6l840) ![](assets/new.png)  
+- [2022-05-06-Android卡顿掉帧问题分析之工具篇](https://toutiao.io/k/w3j907a) ![](assets/new.png)  
+- [2022-05-06-Grafana-系列文章（九）：开源云原生日志解决方案-Loki-简介](https://toutiao.io/k/s7xgf9w) ![](assets/new.png)  
+- [2022-05-06-听说你还在用开发者工具手动上传小程序，快来试试-miniprogram-ci-提效摸鱼](https://toutiao.io/k/3mducf0) ![](assets/new.png)  
 - [2022-05-06-推荐-深入浅出分布式锁](https://toutiao.io/k/957qnad) ![](assets/new.png)  
-- [2022-05-06-推荐-如果你是一个Golang面试官，你会问哪些问题？](https://toutiao.io/k/0acpnu3) ![](assets/new.png)  
+- [2022-05-06-推荐-非常哇塞的-SpringBoot性能优化长文！](https://toutiao.io/k/srppeol) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-05-06 17:46:06，:rocket: 更新条数: +2027， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-05-06 18:17:03，:rocket: 更新条数: +2025， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-05-06-iMac-2021-指标越看越香](https://www.v2ex.com/t/851265) ![](assets/new.png)  
 - [2022-05-06-mysql-怎么迁移数据库到另一台机器](https://www.v2ex.com/t/851262) ![](assets/new.png)  
 - [2022-05-06-我做了一个下载妹子套图的-vbs-脚本。](https://www.v2ex.com/t/851261) ![](assets/new.png)  
 - [2022-05-06-golang-新手求教指针问题](https://www.v2ex.com/t/851260) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-05-06-“简译”，一款输入翻译浏览器插件](https://www.v2ex.com/t/851242) ![](assets/new.png)  
 - [2022-05-06-大佬们谷歌云线路最近是不是炸了](https://www.v2ex.com/t/851241) ![](assets/new.png)  
 - [2022-05-06-安卓手机有没有限制某个-APP-网速的软件？](https://www.v2ex.com/t/851238) ![](assets/new.png)  
-- [2022-05-06-请问-IRC-命令的区别？](https://www.v2ex.com/t/851236) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

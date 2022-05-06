@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2022-05-06 17:46:06。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-05-06 18:17:03。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-05-06-iMac-2021-指标越看越香](https://www.v2ex.com/t/851265) 
 - [2022-05-06-mysql-怎么迁移数据库到另一台机器](https://www.v2ex.com/t/851262) 
 - [2022-05-06-我做了一个下载妹子套图的-vbs-脚本。](https://www.v2ex.com/t/851261) 
 - [2022-05-06-golang-新手求教指针问题](https://www.v2ex.com/t/851260) 
@@ -41,6 +42,3 @@
 - [2022-05-06-todesk-的客服,-专业水平好像没有,-沟通能力也让人无语.](https://www.v2ex.com/t/851218) 
 - [2022-05-06-Vue-初学者-中后台应用，页面如何巧妙地构造-UrlSearchParams-？](https://www.v2ex.com/t/851217) 
 - [2022-05-06-有没有老哥在搞推特机器人的?交流下心得](https://www.v2ex.com/t/851216) 
-- [2022-05-06-拼多多怎么做到的?](https://www.v2ex.com/t/851215) 
-- [2022-05-06-1Password-无法取消订阅也无法删除扣款信用卡](https://www.v2ex.com/t/851214) 
-- [2022-05-06-typora-的-beta-版用不了了](https://www.v2ex.com/t/851213) 

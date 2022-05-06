@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-05-06 08:18:45，:rocket: 更新条数: +2026， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-05-06 08:45:51，:rocket: 更新条数: +2026， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,10 @@
 </summary>
 
 
+- [2022-05-06-因为疫情原因,绩效工资延期发放，等到复工后按月分批补齐。现在开公司的有这么穷吗](https://www.v2ex.com/t/851198) ![](assets/new.png)  
+- [2022-05-06-话说-ios-有哪些单机-的一些小游戏-等车时-消耗时间的。。。。。](https://www.v2ex.com/t/851196) ![](assets/new.png)  
+- [2022-05-06-13pro-掉电速度讨论](https://www.v2ex.com/t/851195) ![](assets/new.png)  
+- [2022-05-06-腾讯爱奇艺芒果优酷等-vip-会员月月随心选-138/年，联通官方产品，支持三网手机号](https://www.v2ex.com/t/851194) ![](assets/new.png)  
 - [2022-05-06-运维大佬们请进](https://www.v2ex.com/t/851192) ![](assets/new.png)  
 - [2022-05-06-延期至-5-月-15-阿里云新老用户新购/升级/续费最低-3.6-折起](https://www.v2ex.com/t/851191) ![](assets/new.png)  
 - [2022-05-06-疫情在家无聊，说说副业](https://www.v2ex.com/t/851188) ![](assets/new.png)  
@@ -507,10 +511,6 @@
 - [2022-05-06-想学-Swift-目的是开发诸如记事本-播放器这样的小工具-app-请问除了官方的-documentation-还有别的推荐的学习资源吗-谢谢](https://www.v2ex.com/t/851176) ![](assets/new.png)  
 - [2022-05-06-今天接到个自称是-jd-金融的手机号码，请问是什么套路？](https://www.v2ex.com/t/851174) ![](assets/new.png)  
 - [2022-05-06-安卓平台上目前有办法屏蔽原生-App-的弹窗吗？](https://www.v2ex.com/t/851172) ![](assets/new.png)  
-- [2022-05-06-手里有一台闲置的-Thinkpad-T14s，想拿来做黑苹果](https://www.v2ex.com/t/851171) ![](assets/new.png)  
-- [2022-05-06-怎么检测远程图片是否是渐进式呢](https://www.v2ex.com/t/851170) ![](assets/new.png)  
-- [2022-05-06-无聊且“迷信”，于是做了个小程序](https://www.v2ex.com/t/851169) ![](assets/new.png)  
-- [2022-05-06-讲讲远程工作时网络环境的搭建](https://www.v2ex.com/t/851168) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -553,6 +553,7 @@
 </summary>
 
 
+- [2022-05-06-架构设计资料合集](https://toutiao.io/k/iqlrz7b) ![](assets/new.png)  
 - [2022-05-06-利用-FFmpeg-将视频转换为-GIF-操作指北](https://toutiao.io/k/qdfhpcm) ![](assets/new.png)  
 - [2022-05-06-如何降低复杂度，用数据库做消息队列的存储？](https://toutiao.io/k/wzq9f22) ![](assets/new.png)  
 - [2022-05-06-使用-LSTM-对销售额预测（Python代码）](https://toutiao.io/k/ji1yelr) ![](assets/new.png)  
@@ -560,8 +561,8 @@
 - [2022-05-06-欢迎加入「我爱程序员」读者圈子，一起交流！](https://toutiao.io/k/e1dod9e) ![](assets/new.png)  
 - [2022-05-06-Elasticsearch-快照生命周期管理-SLM-实战指南](https://toutiao.io/k/iq2x2em) ![](assets/new.png)  
 - [2022-05-06-知识图谱之第一性原理](https://toutiao.io/k/2d7sk19) ![](assets/new.png)  
-- [2022-05-06-Kubernetes标志着大量采用Sigstore来保护开源生态系统](https://toutiao.io/k/3zg33tf) ![](assets/new.png)  
 - [2022-05-06-Go-单体服务开发最佳实践](https://toutiao.io/k/7137xju) ![](assets/new.png)  
+- [2022-05-06-Kubernetes标志着大量采用Sigstore来保护开源生态系统](https://toutiao.io/k/3zg33tf) ![](assets/new.png)  
 - [2022-05-06-58神奇管家——基于零信任终端安全管理系统的设计与实现](https://toutiao.io/k/y0swz1b) ![](assets/new.png)  
 - [2022-05-06-READS:-Salesforce-服务健康指标最佳实践](https://toutiao.io/k/w9oskgz) ![](assets/new.png)  
 - [2022-05-06-又一个-shell-小技巧](https://toutiao.io/k/wpxmhd2) ![](assets/new.png)  
@@ -571,7 +572,6 @@
 - [2022-05-06-Android卡顿掉帧问题分析之工具篇](https://toutiao.io/k/w3j907a) ![](assets/new.png)  
 - [2022-05-06-听说你还在用开发者工具手动上传小程序，快来试试-miniprogram-ci-提效摸鱼](https://toutiao.io/k/3mducf0) ![](assets/new.png)  
 - [2022-05-06-Grafana-系列文章（九）：开源云原生日志解决方案-Loki-简介](https://toutiao.io/k/s7xgf9w) ![](assets/new.png)  
-- [2022-05-06-推荐-如果你是一个Golang面试官，你会问哪些问题？](https://toutiao.io/k/0acpnu3) ![](assets/new.png)  
 - [2022-05-06-推荐-深入浅出分布式锁](https://toutiao.io/k/957qnad) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-05-06 07:38:56，:rocket: 更新条数: +2028， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-05-06 08:18:45，:rocket: 更新条数: +2026， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,16 @@
 </summary>
 
 
+- [2022-05-06-运维大佬们请进](https://www.v2ex.com/t/851192) ![](assets/new.png)  
+- [2022-05-06-延期至-5-月-15-阿里云新老用户新购/升级/续费最低-3.6-折起](https://www.v2ex.com/t/851191) ![](assets/new.png)  
+- [2022-05-06-疫情在家无聊，说说副业](https://www.v2ex.com/t/851188) ![](assets/new.png)  
+- [2022-05-06-计划用-8-10-代低功耗-i3-搭黑群晖，关于功耗，-all-in-boom-的问题想参考大家的意见](https://www.v2ex.com/t/851187) ![](assets/new.png)  
+- [2022-05-06-大二时期的开源作品被华北电力大学的硕士毕业生论文抄袭，怎么维权？](https://www.v2ex.com/t/851186) ![](assets/new.png)  
+- [2022-05-06-萌新请教一个业务乐观锁问题，烦请大佬指点迷津！](https://www.v2ex.com/t/851185) ![](assets/new.png)  
+- [2022-05-06-北京-TikTok-电商营销业务，急需服务端工程师，欢迎各位来看机会！](https://www.v2ex.com/t/851184) ![](assets/new.png)  
+- [2022-05-06-球个成都西信机房靠谱的托管服务商](https://www.v2ex.com/t/851183) ![](assets/new.png)  
+- [2022-05-06-能不能满足一下我-300-个-star-的心愿](https://www.v2ex.com/t/851182) ![](assets/new.png)  
+- [2022-05-06-saas-如何做针对功能的定制化](https://www.v2ex.com/t/851181) ![](assets/new.png)  
 - [2022-05-06-想问下重庆-Java-工作情况，懂得麻烦回答下](https://www.v2ex.com/t/851180) ![](assets/new.png)  
 - [2022-05-06-有没有人对-windows-库文件的权限管理有了解的](https://www.v2ex.com/t/851179) ![](assets/new.png)  
 - [2022-05-06-假如能开发一个程序能把闲置的二手手机利用起来怎么样？](https://www.v2ex.com/t/851177) ![](assets/new.png)  
@@ -501,16 +511,6 @@
 - [2022-05-06-怎么检测远程图片是否是渐进式呢](https://www.v2ex.com/t/851170) ![](assets/new.png)  
 - [2022-05-06-无聊且“迷信”，于是做了个小程序](https://www.v2ex.com/t/851169) ![](assets/new.png)  
 - [2022-05-06-讲讲远程工作时网络环境的搭建](https://www.v2ex.com/t/851168) ![](assets/new.png)  
-- [2022-05-06-请教大神，-1-个光猫+2-个路由器是否可实现无缝漫游](https://www.v2ex.com/t/851167) ![](assets/new.png)  
-- [2022-05-06-VSCode-中，-Vue-文件重命名或移动位置，有办法让引用该-Vue-文件的所有地方自动更新-import-路径吗？](https://www.v2ex.com/t/851166) ![](assets/new.png)  
-- [2022-05-06-香港的场所码是离线处理的](https://www.v2ex.com/t/851165) ![](assets/new.png)  
-- [2022-05-06-React-中,-为什么要用-useRef-而不直接用一个外部变量?](https://www.v2ex.com/t/851164) ![](assets/new.png)  
-- [2022-05-06-想收台甲骨文东京，最好注册时间久一点的](https://www.v2ex.com/t/851163) ![](assets/new.png)  
-- [2022-05-06-使用-app-端-gmail-的吐槽](https://www.v2ex.com/t/851161) ![](assets/new.png)  
-- [2022-05-06-React-中,-用-Context+Hooks-替代-Redux-的朋友们,-有个问题请教下](https://www.v2ex.com/t/851160) ![](assets/new.png)  
-- [2022-05-06-字节跳动---深圳---部门直推，快速面试，进度随时反馈，长期有效，求简历](https://www.v2ex.com/t/851156) ![](assets/new.png)  
-- [2022-05-06-请教一个前端的-css-问题](https://www.v2ex.com/t/851155) ![](assets/new.png)  
-- [2022-05-06-MIUI-的主题真好看，又在互联网世界发现一大亮点。](https://www.v2ex.com/t/851154) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -556,8 +556,8 @@
 - [2022-05-06-利用-FFmpeg-将视频转换为-GIF-操作指北](https://toutiao.io/k/qdfhpcm) ![](assets/new.png)  
 - [2022-05-06-如何降低复杂度，用数据库做消息队列的存储？](https://toutiao.io/k/wzq9f22) ![](assets/new.png)  
 - [2022-05-06-使用-LSTM-对销售额预测（Python代码）](https://toutiao.io/k/ji1yelr) ![](assets/new.png)  
-- [2022-05-06-欢迎加入「我爱程序员」读者圈子，一起交流！](https://toutiao.io/k/e1dod9e) ![](assets/new.png)  
 - [2022-05-06-数据库异常智能分析与诊断](https://toutiao.io/k/tgdp77t) ![](assets/new.png)  
+- [2022-05-06-欢迎加入「我爱程序员」读者圈子，一起交流！](https://toutiao.io/k/e1dod9e) ![](assets/new.png)  
 - [2022-05-06-Elasticsearch-快照生命周期管理-SLM-实战指南](https://toutiao.io/k/iq2x2em) ![](assets/new.png)  
 - [2022-05-06-知识图谱之第一性原理](https://toutiao.io/k/2d7sk19) ![](assets/new.png)  
 - [2022-05-06-Kubernetes标志着大量采用Sigstore来保护开源生态系统](https://toutiao.io/k/3zg33tf) ![](assets/new.png)  
@@ -572,7 +572,7 @@
 - [2022-05-06-听说你还在用开发者工具手动上传小程序，快来试试-miniprogram-ci-提效摸鱼](https://toutiao.io/k/3mducf0) ![](assets/new.png)  
 - [2022-05-06-Grafana-系列文章（九）：开源云原生日志解决方案-Loki-简介](https://toutiao.io/k/s7xgf9w) ![](assets/new.png)  
 - [2022-05-06-推荐-如果你是一个Golang面试官，你会问哪些问题？](https://toutiao.io/k/0acpnu3) ![](assets/new.png)  
-- [2022-05-06-推荐-非常哇塞的-SpringBoot性能优化长文！](https://toutiao.io/k/srppeol) ![](assets/new.png)  
+- [2022-05-06-推荐-深入浅出分布式锁](https://toutiao.io/k/957qnad) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

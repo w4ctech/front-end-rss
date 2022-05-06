@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-05-06 07:38:56。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-05-06 08:18:45。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -188,7 +188,6 @@
 - [【V2EX】想学-Swift-目的是开发诸如记事本-播放器这样的小工具-app-请问除了官方的-documentation-还有别的推荐的学习资源吗-谢谢](https://www.v2ex.com/t/851176)
 - [【V2EX】请教大神，-1-个光猫+2-个路由器是否可实现无缝漫游](https://www.v2ex.com/t/851167)
 - [【V2EX】家用-pfSense-路由器多网口配置请教](https://www.v2ex.com/t/851145)
-- [【V2EX】Rust-的语法这么难看是不是创造它的人正是-JS-的创始人？](https://www.v2ex.com/t/851137)
 - [【技术头条】一个检测-json-合法性的脚本-droidyue.com](https://blogread.cn/news/go.php?idItem=15045&url=https%3A%2F%2Fdroidyue.com%2Fblog%2F2022%2F01%2F23%2Fhow-to-check-json-validity-in-ruby%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [......【查看更多】......](./details/tags/javascript.md)
 
@@ -246,7 +245,6 @@
 
 - [【武汉肺炎防疫全纪录(财新网)】广州17岁男生在定点医院参加高考-特殊考场视频监考](https://m.caixin.com/m/2021-06-05/101723418.html)
 - [【武汉肺炎防疫全纪录(财新网)】林郑月娥率13高官直播接种科兴疫苗-复星疫苗预计周中到港](https://m.caixin.com/m/2021-02-22/101665724.html)
-- [【V2EX】发现-b-站的欧美美女视频流量还不错，可以做个号吗？](https://www.v2ex.com/t/851151)
 - [【开发者头条】利用-FFmpeg-将视频转换为-GIF-操作指北](https://toutiao.io/k/qdfhpcm)
 - [......【查看更多】......](./details/tags/audio-video.md)
 

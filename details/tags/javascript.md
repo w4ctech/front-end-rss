@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-05-06 13:08:44。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-05-06 13:51:33。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -18,6 +18,7 @@
 - [2022-04-22-CSS实现滚动高度自动变小的粘滞效果](https://www.zhangxinxu.com/wordpress/2022/04/css-sticky-size-change/) 
 - [2022-03-15-基于howler.js写了个音频播放器组件](https://www.zhangxinxu.com/wordpress/2022/03/howler-js-audio-player/) 
 - [2022-03-07-介绍8个和滚动相关的CSS属性](https://www.zhangxinxu.com/wordpress/2022/03/10-css-scroll-scrollbar/) 
+- [2022-05-06-Ubnt-USG-如何给旁路由派发-ipv6-前缀呢？](https://www.v2ex.com/t/851247) 
 - [2022-05-06-群晖-920+虚拟机装-OpenWrt-软路由宽带跑不满](https://www.v2ex.com/t/851232) 
 - [2022-05-06-服务疑似被尝试-fastjson-漏洞攻击](https://www.v2ex.com/t/851201) 
 - [2022-05-06-一个检测-json-合法性的脚本-droidyue.com](https://blogread.cn/news/go.php?idItem=15045&url=https%3A%2F%2Fdroidyue.com%2Fblog%2F2022%2F01%2F23%2Fhow-to-check-json-validity-in-ruby%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2022-05-06 17:01:12。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-05-06 17:27:46。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-05-06-mysql-怎么迁移数据库到另一台机器](https://www.v2ex.com/t/851262) 
 - [2022-05-06-我做了一个下载妹子套图的-vbs-脚本。](https://www.v2ex.com/t/851261) 
 - [2022-05-06-golang-新手求教指针问题](https://www.v2ex.com/t/851260) 
 - [2022-05-06-上海/北京/广州-内推-天翼云内推开始了，招聘-C++/-Java-/运维/大数据/存储，长期有效，欢迎大家来看机会~](https://www.v2ex.com/t/851259) 
@@ -43,4 +44,3 @@
 - [2022-05-06-拼多多怎么做到的?](https://www.v2ex.com/t/851215) 
 - [2022-05-06-1Password-无法取消订阅也无法删除扣款信用卡](https://www.v2ex.com/t/851214) 
 - [2022-05-06-typora-的-beta-版用不了了](https://www.v2ex.com/t/851213) 
-- [2022-05-06-周刊第-11-期：扩大你的运气表面积（Luck-Surface-Area）](https://www.v2ex.com/t/851212) 

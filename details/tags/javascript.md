@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-05-06 04:50:41。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-05-06 05:14:49。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -21,6 +21,4 @@
 - [2022-05-06-家用-pfSense-路由器多网口配置请教](https://www.v2ex.com/t/851145) 
 - [2022-05-06-Rust-的语法这么难看是不是创造它的人正是-JS-的创始人？](https://www.v2ex.com/t/851137) 
 - [2022-05-06-无线路由器放在电视柜上面，露在外面不觉得很难看吗？有啥好的方式不](https://www.v2ex.com/t/851112) 
-- [2022-05-06-N1-盒子做旁路由，科学看视频非常慢](https://www.v2ex.com/t/851102) 
-- [2022-05-06-git-命令怎么对比-upstream-获取到-GitHub-这样的提示“This-branch-is-44-commits-ahead,-4-commits-behind-user/repo”？](https://www.v2ex.com/t/851099) 
 - [2022-05-06-一个检测-json-合法性的脚本-droidyue.com](https://blogread.cn/news/go.php?idItem=15045&url=https%3A%2F%2Fdroidyue.com%2Fblog%2F2022%2F01%2F23%2Fhow-to-check-json-validity-in-ruby%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

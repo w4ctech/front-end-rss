@@ -9953,6 +9953,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "[FaceTime] 似乎會主動觸發降噪（非手動開啟降噪）",
+        "link": "https://www.v2ex.com/t/851485",
+        "date": "2022-05-07"
+      },
+      {
         "title": "爱奇艺这新 logo 真丑，又占地方，又上下反复横跳",
         "link": "https://www.v2ex.com/t/851484",
         "date": "2022-05-07"
@@ -10145,11 +10150,6 @@
       {
         "title": "m1 mac mini 接 4k 显示器如何调整分辨率",
         "link": "https://www.v2ex.com/t/851436",
-        "date": "2022-05-07"
-      },
-      {
-        "title": "关于 golang map 扩容的一点疑惑",
-        "link": "https://www.v2ex.com/t/851435",
         "date": "2022-05-07"
       }
     ]

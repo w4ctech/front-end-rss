@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-05-07 16:55:39，:rocket: 更新条数: +2020， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-05-07 17:16:43，:rocket: 更新条数: +2020， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-05-07-FaceTime-似乎會主動觸發降噪（非手動開啟降噪）](https://www.v2ex.com/t/851485) ![](assets/new.png)  
 - [2022-05-07-爱奇艺这新-logo-真丑，又占地方，又上下反复横跳](https://www.v2ex.com/t/851484) ![](assets/new.png)  
 - [2022-05-07-竞业协议请教](https://www.v2ex.com/t/851483) ![](assets/new.png)  
 - [2022-05-07-2022-年-5-月了-外接显卡还有必要么](https://www.v2ex.com/t/851482) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-05-07-咨询一下-airpods-充电仓的问题](https://www.v2ex.com/t/851464) ![](assets/new.png)  
 - [2022-05-07-推荐这个支持-HDR-的-IINA-分支](https://www.v2ex.com/t/851463) ![](assets/new.png)  
 - [2022-05-07-求一款-IOS-类-newpipe-的-APP](https://www.v2ex.com/t/851460) ![](assets/new.png)  
-- [2022-05-07-epub-阅读器电脑端有什么推荐的](https://www.v2ex.com/t/851459) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

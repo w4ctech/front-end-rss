@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-05-07 13:01:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-05-07 13:29:58。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -20,4 +20,3 @@
 - [2022-03-07-介绍8个和滚动相关的CSS属性](https://www.zhangxinxu.com/wordpress/2022/03/10-css-scroll-scrollbar/) 
 - [2022-05-07-大家都在推荐-mesh-组网，但是摆放路由器不需要一小块地方，一个裸露的电源，一根裸露网线吗？我觉得还是面板式-ap-香啊！](https://www.v2ex.com/t/851454) 
 - [2022-05-07-求推荐，主路由-linksys-mx8400，想加个-AP-能科学上网的，专门给-Google-盒子看奈飞用](https://www.v2ex.com/t/851429) 
-- [2022-05-07-已经启动的-PHP-的进程，访问不到启动之后，新设置的环境变量，请问除了杀死进程，重启之外，还有什么解决办法吗？](https://www.v2ex.com/t/851407) 

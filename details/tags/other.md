@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-05-07 13:01:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-05-07 13:29:58。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1912,6 +1912,9 @@
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2022-03-21-ascent-override-descent-override-line-gap-override一锅端](https://www.zhangxinxu.com/wordpress/2022/03/css-ascent-override-descent/) 
+- [2022-05-07-epub-阅读器电脑端有什么推荐的](https://www.v2ex.com/t/851459) 
+- [2022-05-07-iOS.-ocr-实时翻译-app-?](https://www.v2ex.com/t/851458) 
+- [2022-05-07-关于-win11-经典菜单请教一下，为什么我的脚本不管用](https://www.v2ex.com/t/851457) 
 - [2022-05-07-Windows-电源管理可以不用-xx-管家吗？](https://www.v2ex.com/t/851456) 
 - [2022-05-07-有没有-NS-的车，或者有没有组队的，一起组个队](https://www.v2ex.com/t/851455) 
 - [2022-05-07-求租，深圳南山，一房一厅或者大单间，两房价格合适也可](https://www.v2ex.com/t/851451) 

@@ -1,10 +1,13 @@
-:alarm_clock: 更新时间: 2022-05-07 13:01:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-05-07 13:29:58。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-05-07-epub-阅读器电脑端有什么推荐的](https://www.v2ex.com/t/851459) 
+- [2022-05-07-iOS.-ocr-实时翻译-app-?](https://www.v2ex.com/t/851458) 
+- [2022-05-07-关于-win11-经典菜单请教一下，为什么我的脚本不管用](https://www.v2ex.com/t/851457) 
 - [2022-05-07-Windows-电源管理可以不用-xx-管家吗？](https://www.v2ex.com/t/851456) 
 - [2022-05-07-有没有-NS-的车，或者有没有组队的，一起组个队](https://www.v2ex.com/t/851455) 
 - [2022-05-07-大家都在推荐-mesh-组网，但是摆放路由器不需要一小块地方，一个裸露的电源，一根裸露网线吗？我觉得还是面板式-ap-香啊！](https://www.v2ex.com/t/851454) 
@@ -43,5 +46,3 @@
 - [2022-05-07-JetBrains-操作手册日语全文翻译-https://pleiades.io/](https://www.v2ex.com/t/851412) 
 - [2022-05-07-推荐一个能方便快捷的安装-google-相关软件（例如-google-play）的-Android-手机](https://www.v2ex.com/t/851411) 
 - [2022-05-07-ASP.NET-core-切换代理无法联网需要处理吗](https://www.v2ex.com/t/851410) 
-- [2022-05-07-前端-tailwindcss-现在很火吗？](https://www.v2ex.com/t/851409) 
-- [2022-05-07-已经启动的-PHP-的进程，访问不到启动之后，新设置的环境变量，请问除了杀死进程，重启之外，还有什么解决办法吗？](https://www.v2ex.com/t/851407) 

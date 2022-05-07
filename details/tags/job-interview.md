@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-05-07 03:53:39。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-05-07 04:16:48。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -7,5 +7,6 @@
 
 
 
+- [2022-05-07-南京-Citrix----思杰-虚拟化/云平台高级软件开发工程师-招聘---美资外企---远程办公---五险一金-24%---30K-起](https://www.v2ex.com/t/851332) 
 - [2022-05-07-面试官提问三个Go接口的概念，-10年gopher竟无言以对-colobu.com](https://blogread.cn/news/go.php?idItem=15067&url=https%3A%2F%2Fcolobu.com%2F2022%2F01%2F16%2Fthree-new-concepts-of-go-interface-since-1-18%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-05-07-推荐-如果你是一个Golang面试官，你会问哪些问题？](https://toutiao.io/k/0acpnu3) 

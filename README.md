@@ -11,11 +11,11 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-05-07 04:49:17，:rocket: 更新条数: +80， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-05-07 05:12:58，:rocket: 更新条数: +2015， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
@@ -65,6 +65,26 @@
 </summary>
 
 
+- [2022-03-11-新冠肺炎防疫全纪录（实时更新中）](https://mappv5.caixin.com/m_topic_detail/1696.html) ![](assets/new.png)  
+- [2022-03-10-吉林一校园现聚集性疫情-党委书记被免](https://m.caixin.com/m/2022-03-10/101853899.html) ![](assets/new.png)  
+- [2022-03-10-广州新增1例新冠确诊病例-疾控中心专家称防控形势严峻](https://m.caixin.com/m/2022-03-10/101853835.html) ![](assets/new.png)  
+- [2022-03-10-【境内疫情观察】全国新增402例本土病例、435例本土无症状感染者（3月9日）](https://database.caixin.com/m/2022-03-10/101853636.html) ![](assets/new.png)  
+- [2022-03-10-香港调整抗疫策略-辉瑞口服药确定在华合作伙伴｜大流行手记（3月9日）](https://m.caixin.com/m/2022-03-10/101853553.html) ![](assets/new.png)  
+- [2022-03-10-新加坡官员：本地奥密克戎疫情已过峰值开始消退](https://m.caixin.com/m/2022-03-10/101853827.html) ![](assets/new.png)  
+- [2022-03-09-一小学被列为中风险地区-上海加强线上教学资源](https://m.caixin.com/m/2022-03-09/101853329.html) ![](assets/new.png)  
+- [2022-03-09-香港调整抗疫策略-全民检测或将推迟](https://m.caixin.com/m/2022-03-09/101853319.html) ![](assets/new.png)  
+- [2022-03-09-字节跳动办公区现确诊病例-公司深夜组织员工回家](https://companies.caixin.com/m/2022-03-09/101852947.html) ![](assets/new.png)  
+- [2022-03-09-【境内疫情观察】全国新增322例本土无症状感染者（3月8日）](https://database.caixin.com/m/2022-03-09/101853141.html) ![](assets/new.png)  
+- [2022-03-09-研究称COVID-19或能导致脑异常-马来西亚4月将重新开放边境｜大流行手记（3月8日）](https://m.caixin.com/m/2022-03-09/101853036.html) ![](assets/new.png)  
+- [2022-03-08-北京新增7例本土确诊-一人曾赴上海团建](https://m.caixin.com/m/2022-03-08/101852668.html) ![](assets/new.png)  
+- [2022-03-08-香港日增病例呈回落趋势-港大预测5月降至两位数](https://m.caixin.com/m/2022-03-08/101852848.html) ![](assets/new.png)  
+- [2022-03-08-北京新增新冠病例涉字节跳动办公区-员工就地隔离过夜](https://m.caixin.com/m/2022-03-08/101852591.html) ![](assets/new.png)  
+- [2022-03-08-深港边境临时搭桥-内地援建香港河套应急医院](https://m.caixin.com/m/2022-03-08/101852776.html) ![](assets/new.png)  
+- [2022-03-08-【境内疫情观察】全国现有确诊病例超4000例（3月7日）](https://database.caixin.com/m/2022-03-08/101852579.html) ![](assets/new.png)  
+- [2022-03-08-研究发现新冠重症患者特殊基因-全球死亡病例超600万｜大流行手记（3月7日）](https://m.caixin.com/m/2022-03-08/101852426.html) ![](assets/new.png)  
+- [2022-03-07-广东惠州基层防疫扑杀宠物狗-街道致歉涉事者停职](https://m.caixin.com/m/2022-03-07/101851565.html) ![](assets/new.png)  
+- [2022-03-07-【境内疫情观察】全国新增214例本土病例（3月6日）](https://database.caixin.com/m/2022-03-07/101851858.html) ![](assets/new.png)  
+- [2022-03-07-苏格兰为弱势群体打第四针-印度尼西亚再放宽旅行限制｜大流行手记（3月6日）](https://m.caixin.com/m/2022-03-07/101851699.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -471,6 +491,7 @@
 </summary>
 
 
+- [2022-05-07-有无朋友知道成都拱卒科技，准备签实习，兜兜底](https://www.v2ex.com/t/851342) ![](assets/new.png)  
 - [2022-05-07-如果被绑架了，有什么方法可以传递讯息给外面吗？](https://www.v2ex.com/t/851341) ![](assets/new.png)  
 - [2022-05-07-自学有可能达到研究生水平吗？](https://www.v2ex.com/t/851340) ![](assets/new.png)  
 - [2022-05-07-目前年纪三十一，毕业后一直在一个-乙方外企工作到现在，月薪才-14k，目前有个机会，有个新建的芯片厂，到制造业搞-IT，说是加季度奖-18-薪，但季度奖不会写到合...](https://www.v2ex.com/t/851338) ![](assets/new.png)  
@@ -480,7 +501,6 @@
 - [2022-05-07-南京-Citrix----思杰-虚拟化/云平台高级软件开发工程师-招聘---美资外企---远程办公---五险一金-24%---30K-起](https://www.v2ex.com/t/851332) ![](assets/new.png)  
 - [2022-05-07-升降桌站立工作是否是伪需求](https://www.v2ex.com/t/851331) ![](assets/new.png)  
 - [2022-05-07-吐槽！当我接到这个公钥错误问题的时候真的是绷不住了！](https://www.v2ex.com/t/851330) ![](assets/new.png)  
-- [2022-05-07-365-1-seat-left](https://www.v2ex.com/t/851329) ![](assets/new.png)  
 - [2022-05-07-用旧款-mac-mini-做简易-NAS-如何](https://www.v2ex.com/t/851328) ![](assets/new.png)  
 - [2022-05-07-有用-diigo-的老哥吗？能否帮忙看看-diigo-能否搜索？](https://www.v2ex.com/t/851327) ![](assets/new.png)  
 - [2022-05-07-有小伙伴玩牧羊人之心嘛，求一个辅助脚本](https://www.v2ex.com/t/851326) ![](assets/new.png)  
@@ -542,9 +562,9 @@
 - [2022-05-07-React官方团队出手，补齐原生Hook短板](https://toutiao.io/k/jvxjgvd) ![](assets/new.png)  
 - [2022-05-07-撸了一个-Feign-增强包-V2.0-升级版](https://toutiao.io/k/f5d6dif) ![](assets/new.png)  
 - [2022-05-07-官宣｜Apache-Flink-1.15-发布公告](https://toutiao.io/k/73b0uma) ![](assets/new.png)  
-- [2022-05-07-推荐-非常哇塞的-SpringBoot性能优化长文！](https://toutiao.io/k/srppeol) ![](assets/new.png)  
 - [2022-05-07-推荐-如果你是一个Golang面试官，你会问哪些问题？](https://toutiao.io/k/0acpnu3) ![](assets/new.png)  
 - [2022-05-07-推荐-深入浅出分布式锁](https://toutiao.io/k/957qnad) ![](assets/new.png)  
+- [2022-05-07-推荐-非常哇塞的-SpringBoot性能优化长文！](https://toutiao.io/k/srppeol) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

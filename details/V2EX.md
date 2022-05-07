@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2022-05-07 13:29:58。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-05-07 13:45:15。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-05-07-求一款-IOS-类-newpipe-的-APP](https://www.v2ex.com/t/851460) 
 - [2022-05-07-epub-阅读器电脑端有什么推荐的](https://www.v2ex.com/t/851459) 
 - [2022-05-07-iOS.-ocr-实时翻译-app-?](https://www.v2ex.com/t/851458) 
 - [2022-05-07-关于-win11-经典菜单请教一下，为什么我的脚本不管用](https://www.v2ex.com/t/851457) 
@@ -44,5 +45,3 @@
 - [2022-05-07-违停保险-APP-有得做不](https://www.v2ex.com/t/851417) 
 - [2022-05-07-网易云音乐云盘上传的歌曲会被修改歌曲音质吗](https://www.v2ex.com/t/851415) 
 - [2022-05-07-JetBrains-操作手册日语全文翻译-https://pleiades.io/](https://www.v2ex.com/t/851412) 
-- [2022-05-07-推荐一个能方便快捷的安装-google-相关软件（例如-google-play）的-Android-手机](https://www.v2ex.com/t/851411) 
-- [2022-05-07-ASP.NET-core-切换代理无法联网需要处理吗](https://www.v2ex.com/t/851410) 

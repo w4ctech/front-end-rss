@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-05-07 07:14:02。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-05-07 07:38:49。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 服务端相关
 
@@ -7,4 +7,4 @@
 
 
 
-- [2022-05-07-上海外企靠谱职位-Software-Engineering-Manager-Openresty-或者-Nginx-或者-Lua-开发](https://www.v2ex.com/t/851337) 
+- [2022-05-07-请教一个-Nginx-配置的问题](https://www.v2ex.com/t/851380) 

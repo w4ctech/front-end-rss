@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-05-06 23:40:58，:rocket: 更新条数: +2007， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-05-07 00:57:52，:rocket: 更新条数: +2011， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,10 @@
 </summary>
 
 
+- [2022-05-07-湖北联通宽带-访问无解析记录域名会随机跳转到非法站点](https://www.v2ex.com/t/851275) ![](assets/new.png)  
+- [2022-05-07-Unidata---提供人类友好的-Web3-数据的便捷访问](https://www.v2ex.com/t/851274) ![](assets/new.png)  
+- [2022-05-07-看大部头的书有什么好的辅助工具吗？](https://www.v2ex.com/t/851272) ![](assets/new.png)  
+- [2022-05-07-为什么三星-Galaxy-S22-Ultra-国行没有-16GB-内存的版本？](https://www.v2ex.com/t/851271) ![](assets/new.png)  
 - [2022-05-06-m1-macmini-有办法接-4-个显示器吗？](https://www.v2ex.com/t/851269) ![](assets/new.png)  
 - [2022-05-06-iCloud-免费升级到-4T-了？](https://www.v2ex.com/t/851268) ![](assets/new.png)  
 - [2022-05-06-好像很多写别的语言的都觉得-Java-又笨又重配置又难部署成本高，还有巨大的安全隐患](https://www.v2ex.com/t/851267) ![](assets/new.png)  
@@ -507,10 +511,6 @@
 - [2022-05-06-Vue-cli-载入-bootstrap-报错](https://www.v2ex.com/t/851251) ![](assets/new.png)  
 - [2022-05-06-为什么有的国内-ip-属地显示不会精确到省份？](https://www.v2ex.com/t/851250) ![](assets/new.png)  
 - [2022-05-06-Python-读取文件请教](https://www.v2ex.com/t/851249) ![](assets/new.png)  
-- [2022-05-06-一个巨大的老-Python-项目突然要求单侧覆盖率到-70%](https://www.v2ex.com/t/851248) ![](assets/new.png)  
-- [2022-05-06-Ubnt-USG-如何给旁路由派发-ipv6-前缀呢？](https://www.v2ex.com/t/851247) ![](assets/new.png)  
-- [2022-05-06-定制电脑桌板有没有需要特别处理的地方？](https://www.v2ex.com/t/851246) ![](assets/new.png)  
-- [2022-05-06-年经贴-截止-2022-年-5-月有比随手记能打的记账软件吗？](https://www.v2ex.com/t/851245) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -522,26 +522,26 @@
 </summary>
 
 
-- [2022-05-06-【死磕-Redis】—–-如何排查-Redis-中的慢查询-cmsblogs.com](https://blogread.cn/news/go.php?idItem=15078&url=http%3A%2F%2Fcmsblogs.com%2F%3Fp%3D18352%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-05-06-使用PHP-Socket开发Yar-TCP服务-www.laruence.com](https://blogread.cn/news/go.php?idItem=15077&url=https%3A%2F%2Fwww.laruence.com%2F2020%2F04%2F01%2F5726.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-05-06-TCP：学得越多越不懂-www.felix021.com](https://blogread.cn/news/go.php?idItem=15076&url=https%3A%2F%2Fwww.felix021.com%2Fblog%2Fread.php%3F2215%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-05-06-彻底搞懂-MySQL-的-explain-cmsblogs.com](https://blogread.cn/news/go.php?idItem=15075&url=http%3A%2F%2Fcmsblogs.com%2F%3Fp%3D18355%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-05-06-做决策的时候，你相信什么？-blog.devtang.com](https://blogread.cn/news/go.php?idItem=15074&url=https%3A%2F%2Fblog.devtang.com%2F2020%2F04%2F15%2Fhow-to-make-decision%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-05-06-千字浓缩精华：把RNN、RNN变体、Seq2Seq、Attention机制聊透一点-www.52nlp.cn](https://blogread.cn/news/go.php?idItem=15073&url=https%3A%2F%2Fwww.52nlp.cn%2F%25e5%258d%2583%25e5%25ad%2597%25e6%25b5%2593%25e7%25bc%25a9%25e7%25b2%25be%25e5%258d%258e%25ef%25bc%259a%25e6%258a%258arnn%25e3%2580%2581rnn%25e5%258f%2598%25e4%25bd%2593%25e3%2580%2581seq2seq%25e3%2580%2581attention%25e6%259c%25ba%25e5%2588%25b6%25e8%2581%258a%25e9%2580%258f%25e4%25b8%2580%25e7%2582%25b9%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-05-06-数据库内核的快照技术实现原理-www.ideawu.net](https://blogread.cn/news/go.php?idItem=15072&url=https%3A%2F%2Fwww.ideawu.net%2Fblog%2Farchives%2F1170.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-05-06-带猜测的二分查找算法-blog.codingnow.com](https://blogread.cn/news/go.php?idItem=15071&url=https%3A%2F%2Fblog.codingnow.com%2F2021%2F06%2Fbinary_search_by_guess.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-05-06-深入业务场景，解决业务安全风险-www.sec-un.org](https://blogread.cn/news/go.php?idItem=15070&url=https%3A%2F%2Fwww.sec-un.org%2F%25e6%25b7%25b1%25e5%2585%25a5%25e4%25b8%259a%25e5%258a%25a1%25e5%259c%25ba%25e6%2599%25af%25ef%25bc%258c%25e8%25a7%25a3%25e5%2586%25b3%25e4%25b8%259a%25e5%258a%25a1%25e5%25ae%2589%25e5%2585%25a8%25e9%25a3%258e%25e9%2599%25a9%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-05-06-喧嚣之外：为什么是“零信任”-www.sec-un.org](https://blogread.cn/news/go.php?idItem=15069&url=https%3A%2F%2Fwww.sec-un.org%2F%25e5%2596%25a7%25e5%259a%25a3%25e4%25b9%258b%25e5%25a4%2596%25ef%25bc%259a%25e4%25b8%25ba%25e4%25bb%2580%25e4%25b9%2588%25e6%2598%25af%25e9%259b%25b6%25e4%25bf%25a1%25e4%25bb%25bb%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-05-06-Better-Code:-更好的异常日志打印-wklken.me](https://blogread.cn/news/go.php?idItem=15068&url=https%3A%2F%2Fwklken.me%2Fposts%2F2022%2F01%2F16%2Fbetter-code-2-logging.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-05-06-面试官提问三个Go接口的概念，-10年gopher竟无言以对-colobu.com](https://blogread.cn/news/go.php?idItem=15067&url=https%3A%2F%2Fcolobu.com%2F2022%2F01%2F16%2Fthree-new-concepts-of-go-interface-since-1-18%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-05-06-美团外卖终端容器无关化研发框架-tech.meituan.com](https://blogread.cn/news/go.php?idItem=15066&url=https%3A%2F%2Ftech.meituan.com%2F2021%2F12%2F02%2Fmeituan-waimai-containerless-framework.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-05-06-细粒度情感分析在到餐场景中的应用-tech.meituan.com](https://blogread.cn/news/go.php?idItem=15065&url=https%3A%2F%2Ftech.meituan.com%2F2021%2F12%2F09%2Fmeituan-aspect-based-sentiment-analysis-daodian.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-05-06-基于机器学习的反欺诈研究-blog.nsfocus.net](https://blogread.cn/news/go.php?idItem=15064&url=http%3A%2F%2Fblog.nsfocus.net%2Fknn-svm%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-05-06-Go泛型系列：再简化，省略接口-colobu.com](https://blogread.cn/news/go.php?idItem=15063&url=https%3A%2F%2Fcolobu.com%2F2021%2F10%2F24%2Fgo-generic-eliding-interface%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-05-06-Go泛型不支持泛型方法，这是一个悲伤的故事-colobu.com](https://blogread.cn/news/go.php?idItem=15062&url=https%3A%2F%2Fcolobu.com%2F2021%2F12%2F22%2Fno-parameterized-methods%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-05-06-Golang-多版本管理-soulteary.com](https://blogread.cn/news/go.php?idItem=15061&url=https%3A%2F%2Fsoulteary.com%2F2021%2F12%2F15%2Fgolang-multi-version-management.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-05-06-Systrace-线程-CPU-运行状态分析技巧---Runnable-篇-androidperformance.com](https://blogread.cn/news/go.php?idItem=15060&url=https%3A%2F%2Fandroidperformance.com%2F2022%2F01%2F21%2Fandroid-systrace-cpu-state-runnable%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-05-06-Jrnl：你的-Linux-终端数字日记-linux.cn](https://blogread.cn/news/go.php?idItem=15059&url=https%3A%2F%2Flinux.cn%2Farticle-14229-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2022-05-07-【死磕-Redis】—–-如何排查-Redis-中的慢查询-cmsblogs.com](https://blogread.cn/news/go.php?idItem=15078&url=http%3A%2F%2Fcmsblogs.com%2F%3Fp%3D18352%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2022-05-07-使用PHP-Socket开发Yar-TCP服务-www.laruence.com](https://blogread.cn/news/go.php?idItem=15077&url=https%3A%2F%2Fwww.laruence.com%2F2020%2F04%2F01%2F5726.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2022-05-07-TCP：学得越多越不懂-www.felix021.com](https://blogread.cn/news/go.php?idItem=15076&url=https%3A%2F%2Fwww.felix021.com%2Fblog%2Fread.php%3F2215%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2022-05-07-彻底搞懂-MySQL-的-explain-cmsblogs.com](https://blogread.cn/news/go.php?idItem=15075&url=http%3A%2F%2Fcmsblogs.com%2F%3Fp%3D18355%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2022-05-07-做决策的时候，你相信什么？-blog.devtang.com](https://blogread.cn/news/go.php?idItem=15074&url=https%3A%2F%2Fblog.devtang.com%2F2020%2F04%2F15%2Fhow-to-make-decision%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2022-05-07-千字浓缩精华：把RNN、RNN变体、Seq2Seq、Attention机制聊透一点-www.52nlp.cn](https://blogread.cn/news/go.php?idItem=15073&url=https%3A%2F%2Fwww.52nlp.cn%2F%25e5%258d%2583%25e5%25ad%2597%25e6%25b5%2593%25e7%25bc%25a9%25e7%25b2%25be%25e5%258d%258e%25ef%25bc%259a%25e6%258a%258arnn%25e3%2580%2581rnn%25e5%258f%2598%25e4%25bd%2593%25e3%2580%2581seq2seq%25e3%2580%2581attention%25e6%259c%25ba%25e5%2588%25b6%25e8%2581%258a%25e9%2580%258f%25e4%25b8%2580%25e7%2582%25b9%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2022-05-07-数据库内核的快照技术实现原理-www.ideawu.net](https://blogread.cn/news/go.php?idItem=15072&url=https%3A%2F%2Fwww.ideawu.net%2Fblog%2Farchives%2F1170.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2022-05-07-带猜测的二分查找算法-blog.codingnow.com](https://blogread.cn/news/go.php?idItem=15071&url=https%3A%2F%2Fblog.codingnow.com%2F2021%2F06%2Fbinary_search_by_guess.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2022-05-07-深入业务场景，解决业务安全风险-www.sec-un.org](https://blogread.cn/news/go.php?idItem=15070&url=https%3A%2F%2Fwww.sec-un.org%2F%25e6%25b7%25b1%25e5%2585%25a5%25e4%25b8%259a%25e5%258a%25a1%25e5%259c%25ba%25e6%2599%25af%25ef%25bc%258c%25e8%25a7%25a3%25e5%2586%25b3%25e4%25b8%259a%25e5%258a%25a1%25e5%25ae%2589%25e5%2585%25a8%25e9%25a3%258e%25e9%2599%25a9%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2022-05-07-喧嚣之外：为什么是“零信任”-www.sec-un.org](https://blogread.cn/news/go.php?idItem=15069&url=https%3A%2F%2Fwww.sec-un.org%2F%25e5%2596%25a7%25e5%259a%25a3%25e4%25b9%258b%25e5%25a4%2596%25ef%25bc%259a%25e4%25b8%25ba%25e4%25bb%2580%25e4%25b9%2588%25e6%2598%25af%25e9%259b%25b6%25e4%25bf%25a1%25e4%25bb%25bb%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2022-05-07-Better-Code:-更好的异常日志打印-wklken.me](https://blogread.cn/news/go.php?idItem=15068&url=https%3A%2F%2Fwklken.me%2Fposts%2F2022%2F01%2F16%2Fbetter-code-2-logging.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2022-05-07-面试官提问三个Go接口的概念，-10年gopher竟无言以对-colobu.com](https://blogread.cn/news/go.php?idItem=15067&url=https%3A%2F%2Fcolobu.com%2F2022%2F01%2F16%2Fthree-new-concepts-of-go-interface-since-1-18%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2022-05-07-美团外卖终端容器无关化研发框架-tech.meituan.com](https://blogread.cn/news/go.php?idItem=15066&url=https%3A%2F%2Ftech.meituan.com%2F2021%2F12%2F02%2Fmeituan-waimai-containerless-framework.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2022-05-07-细粒度情感分析在到餐场景中的应用-tech.meituan.com](https://blogread.cn/news/go.php?idItem=15065&url=https%3A%2F%2Ftech.meituan.com%2F2021%2F12%2F09%2Fmeituan-aspect-based-sentiment-analysis-daodian.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2022-05-07-基于机器学习的反欺诈研究-blog.nsfocus.net](https://blogread.cn/news/go.php?idItem=15064&url=http%3A%2F%2Fblog.nsfocus.net%2Fknn-svm%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2022-05-07-Go泛型系列：再简化，省略接口-colobu.com](https://blogread.cn/news/go.php?idItem=15063&url=https%3A%2F%2Fcolobu.com%2F2021%2F10%2F24%2Fgo-generic-eliding-interface%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2022-05-07-Go泛型不支持泛型方法，这是一个悲伤的故事-colobu.com](https://blogread.cn/news/go.php?idItem=15062&url=https%3A%2F%2Fcolobu.com%2F2021%2F12%2F22%2Fno-parameterized-methods%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2022-05-07-Golang-多版本管理-soulteary.com](https://blogread.cn/news/go.php?idItem=15061&url=https%3A%2F%2Fsoulteary.com%2F2021%2F12%2F15%2Fgolang-multi-version-management.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2022-05-07-Systrace-线程-CPU-运行状态分析技巧---Runnable-篇-androidperformance.com](https://blogread.cn/news/go.php?idItem=15060&url=https%3A%2F%2Fandroidperformance.com%2F2022%2F01%2F21%2Fandroid-systrace-cpu-state-runnable%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2022-05-07-Jrnl：你的-Linux-终端数字日记-linux.cn](https://blogread.cn/news/go.php?idItem=15059&url=https%3A%2F%2Flinux.cn%2Farticle-14229-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -553,10 +553,15 @@
 </summary>
 
 
-- [2022-05-06-欢迎加入「我爱程序员」读者圈子，一起交流！](https://toutiao.io/k/e1dod9e) ![](assets/new.png)  
-- [2022-05-06-推荐-如果你是一个Golang面试官，你会问哪些问题？](https://toutiao.io/k/0acpnu3) ![](assets/new.png)  
-- [2022-05-06-推荐-非常哇塞的-SpringBoot性能优化长文！](https://toutiao.io/k/srppeol) ![](assets/new.png)  
-- [2022-05-06-推荐-深入浅出分布式锁](https://toutiao.io/k/957qnad) ![](assets/new.png)  
+- [2022-05-07-架构设计资料合集](https://toutiao.io/k/iqlrz7b) ![](assets/new.png)  
+- [2022-05-07-优质网站同好者周刊（第-064-期）-|-倾城博客](https://toutiao.io/k/fb9tfz2) ![](assets/new.png)  
+- [2022-05-07-如何验证指标结果准确](https://toutiao.io/k/98s9whw) ![](assets/new.png)  
+- [2022-05-07-编程语言命名与标志设计](https://toutiao.io/k/q4ki6z8) ![](assets/new.png)  
+- [2022-05-07-欢迎加入读者圈子，一起交流！](https://toutiao.io/k/p6oew1f) ![](assets/new.png)  
+- [2022-05-07-React官方团队出手，补齐原生Hook短板](https://toutiao.io/k/jvxjgvd) ![](assets/new.png)  
+- [2022-05-07-推荐-非常哇塞的-SpringBoot性能优化长文！](https://toutiao.io/k/srppeol) ![](assets/new.png)  
+- [2022-05-07-推荐-如果你是一个Golang面试官，你会问哪些问题？](https://toutiao.io/k/0acpnu3) ![](assets/new.png)  
+- [2022-05-07-推荐-深入浅出分布式锁](https://toutiao.io/k/957qnad) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

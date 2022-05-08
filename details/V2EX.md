@@ -1,10 +1,14 @@
-:alarm_clock: 更新时间: 2022-05-08 04:19:51。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-05-08 04:51:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-05-08-Openwrt-总是会时不时不稳定，除了-surge-还有什么方案可以像使用硬路由一样稳定分流和代理？](https://www.v2ex.com/t/851519) 
+- [2022-05-08-国行-iPhone-钱包里出现了-Apple-Cash-ID-是国区](https://www.v2ex.com/t/851518) 
+- [2022-05-08-iPhone-xbox-app-预览屏幕截图速度好慢](https://www.v2ex.com/t/851517) 
+- [2022-05-08-现在安卓系统对付国产流氓应用的办法是什么？](https://www.v2ex.com/t/851516) 
 - [2022-05-08-windows-预览照片为什么很慢，在-iPad-和安卓上很快](https://www.v2ex.com/t/851515) 
 - [2022-05-08-Github-上的项目-forks-列表如果能按-commit-情况排序，并鼓励活跃分支上就好了](https://www.v2ex.com/t/851514) 
 - [2022-05-08-中国男足看过来](https://www.v2ex.com/t/851512) 
@@ -45,5 +49,3 @@
 - [2022-05-07-Uptime-Kuma-超棒的自托管监控工具](https://www.v2ex.com/t/851472) 
 - [2022-05-07-内推-北京/深圳/广州/成都「字节跳动」招前端/服务端/多媒体/客户端开发含实习,-新方向大量机会](https://www.v2ex.com/t/851471) 
 - [2022-05-07-HTTP-请求头的-Cache-Control:-no-cache-可以强制让代理服务器回源吗？](https://www.v2ex.com/t/851470) 
-- [2022-05-07-写了个"评论区写生"生成工具](https://www.v2ex.com/t/851468) 
-- [2022-05-07-youtube-客户端把我封了？但是想办法登录后又可以正常用？](https://www.v2ex.com/t/851467) 

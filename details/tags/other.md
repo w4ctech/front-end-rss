@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-05-08 04:19:51。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-05-08 04:51:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1912,6 +1912,9 @@
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2022-03-21-ascent-override-descent-override-line-gap-override一锅端](https://www.zhangxinxu.com/wordpress/2022/03/css-ascent-override-descent/) 
+- [2022-05-08-国行-iPhone-钱包里出现了-Apple-Cash-ID-是国区](https://www.v2ex.com/t/851518) 
+- [2022-05-08-iPhone-xbox-app-预览屏幕截图速度好慢](https://www.v2ex.com/t/851517) 
+- [2022-05-08-现在安卓系统对付国产流氓应用的办法是什么？](https://www.v2ex.com/t/851516) 
 - [2022-05-08-windows-预览照片为什么很慢，在-iPad-和安卓上很快](https://www.v2ex.com/t/851515) 
 - [2022-05-08-中国男足看过来](https://www.v2ex.com/t/851512) 
 - [2022-05-08-支持网管的-2.5G-交换机](https://www.v2ex.com/t/851511) 
@@ -1943,8 +1946,6 @@
 - [2022-05-07-智能家居小白求教](https://www.v2ex.com/t/851474) 
 - [2022-05-07-Uptime-Kuma-超棒的自托管监控工具](https://www.v2ex.com/t/851472) 
 - [2022-05-07-内推-北京/深圳/广州/成都「字节跳动」招前端/服务端/多媒体/客户端开发含实习,-新方向大量机会](https://www.v2ex.com/t/851471) 
-- [2022-05-07-写了个"评论区写生"生成工具](https://www.v2ex.com/t/851468) 
-- [2022-05-07-youtube-客户端把我封了？但是想办法登录后又可以正常用？](https://www.v2ex.com/t/851467) 
 - [2022-05-08-【死磕-Redis】—–-如何排查-Redis-中的慢查询-cmsblogs.com](https://blogread.cn/news/go.php?idItem=15078&url=http%3A%2F%2Fcmsblogs.com%2F%3Fp%3D18352%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-05-08-使用PHP-Socket开发Yar-TCP服务-www.laruence.com](https://blogread.cn/news/go.php?idItem=15077&url=https%3A%2F%2Fwww.laruence.com%2F2020%2F04%2F01%2F5726.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-05-08-TCP：学得越多越不懂-www.felix021.com](https://blogread.cn/news/go.php?idItem=15076&url=https%3A%2F%2Fwww.felix021.com%2Fblog%2Fread.php%3F2215%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

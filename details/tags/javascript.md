@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-05-08 04:19:51。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-05-08 04:51:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -18,4 +18,5 @@
 - [2022-04-22-CSS实现滚动高度自动变小的粘滞效果](https://www.zhangxinxu.com/wordpress/2022/04/css-sticky-size-change/) 
 - [2022-03-15-基于howler.js写了个音频播放器组件](https://www.zhangxinxu.com/wordpress/2022/03/howler-js-audio-player/) 
 - [2022-03-07-介绍8个和滚动相关的CSS属性](https://www.zhangxinxu.com/wordpress/2022/03/10-css-scroll-scrollbar/) 
+- [2022-05-08-Openwrt-总是会时不时不稳定，除了-surge-还有什么方案可以像使用硬路由一样稳定分流和代理？](https://www.v2ex.com/t/851519) 
 - [2022-05-08-js-桌面应用：图像对比工具](https://www.v2ex.com/t/851492) 

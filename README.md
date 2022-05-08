@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-05-08 21:12:55，:rocket: 更新条数: +2018， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-05-08 21:39:00，:rocket: 更新条数: +2019， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-05-08-Apple-Podcast-好像存在软性分区](https://www.v2ex.com/t/851632) ![](assets/new.png)  
 - [2022-05-08-我好像患上了「Golang-斯德哥尔摩综合症」](https://www.v2ex.com/t/851630) ![](assets/new.png)  
 - [2022-05-08-OpenConnect-连接公司内网，但-DNS-异常](https://www.v2ex.com/t/851629) ![](assets/new.png)  
 - [2022-05-08-哪里可以下载到-UI-设计稿-拿来照着搭界面练练手](https://www.v2ex.com/t/851628) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-05-08-电信-30-块钱有个-200-兆宽带-怎么样-带公网](https://www.v2ex.com/t/851612) ![](assets/new.png)  
 - [2022-05-08-文件增量同步算法有哪些可以改进的地方？](https://www.v2ex.com/t/851611) ![](assets/new.png)  
 - [2022-05-08-非主流键盘布局：-Programmer-Dvorak-——-我的八年使用体会](https://www.v2ex.com/t/851609) ![](assets/new.png)  
-- [2022-05-08-有啥简单的方法判断是不是专线？](https://www.v2ex.com/t/851608) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

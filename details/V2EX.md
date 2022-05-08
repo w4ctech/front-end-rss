@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2022-05-08 17:41:33。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-05-08 18:15:52。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-05-08-我好像患上了「Golang-斯德哥尔摩综合症」](https://www.v2ex.com/t/851630) 
+- [2022-05-08-OpenConnect-连接公司内网，但-DNS-异常](https://www.v2ex.com/t/851629) 
 - [2022-05-08-哪里可以下载到-UI-设计稿-拿来照着搭界面练练手](https://www.v2ex.com/t/851628) 
 - [2022-05-08-自建网盘做-webdav-服务，-seafile-和-cloudreve，请问大佬们哪个更好额？](https://www.v2ex.com/t/851627) 
 - [2022-05-08-用-js-实现类似-rz-/-sz-的功能，并且兼容-tmux-，现已集成进-electerm-和-tabby-终端，还支持和-webshell-集成。](https://www.v2ex.com/t/851626) 
@@ -45,5 +47,3 @@
 - [2022-05-08-新发现--iPhone-支持设置数字遗产联系人](https://www.v2ex.com/t/851585) 
 - [2022-05-08-你做过最复杂的前端功能是什么](https://www.v2ex.com/t/851584) 
 - [2022-05-08-b-站看到的-西数-临时工标价-金盘-8T，-16T-贱卖](https://www.v2ex.com/t/851583) 
-- [2022-05-08-Windows-Sandbox-无法联网](https://www.v2ex.com/t/851581) 
-- [2022-05-08-YouTube-搞的这个-shorts-不错](https://www.v2ex.com/t/851579) 

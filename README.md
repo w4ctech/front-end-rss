@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-05-08 17:41:33，:rocket: 更新条数: +2018， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-05-08 18:15:52，:rocket: 更新条数: +2018， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-05-08-我好像患上了「Golang-斯德哥尔摩综合症」](https://www.v2ex.com/t/851630) ![](assets/new.png)  
+- [2022-05-08-OpenConnect-连接公司内网，但-DNS-异常](https://www.v2ex.com/t/851629) ![](assets/new.png)  
 - [2022-05-08-哪里可以下载到-UI-设计稿-拿来照着搭界面练练手](https://www.v2ex.com/t/851628) ![](assets/new.png)  
 - [2022-05-08-自建网盘做-webdav-服务，-seafile-和-cloudreve，请问大佬们哪个更好额？](https://www.v2ex.com/t/851627) ![](assets/new.png)  
 - [2022-05-08-用-js-实现类似-rz-/-sz-的功能，并且兼容-tmux-，现已集成进-electerm-和-tabby-终端，还支持和-webshell-集成。](https://www.v2ex.com/t/851626) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-05-08-文件增量同步算法有哪些可以改进的地方？](https://www.v2ex.com/t/851611) ![](assets/new.png)  
 - [2022-05-08-非主流键盘布局：-Programmer-Dvorak-——-我的八年使用体会](https://www.v2ex.com/t/851609) ![](assets/new.png)  
 - [2022-05-08-有啥简单的方法判断是不是专线？](https://www.v2ex.com/t/851608) ![](assets/new.png)  
-- [2022-05-08-同一节点下，手机电脑可看油管，-shield-tv-上面的油管打开却提示无网络](https://www.v2ex.com/t/851607) ![](assets/new.png)  
-- [2022-05-08-求项目管理甘特图软件](https://www.v2ex.com/t/851605) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

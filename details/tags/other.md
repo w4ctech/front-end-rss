@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-05-08 08:44:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-05-08 09:14:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1913,7 +1913,6 @@
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2022-03-21-ascent-override-descent-override-line-gap-override一锅端](https://www.zhangxinxu.com/wordpress/2022/03/css-ascent-override-descent/) 
 - [2022-05-08-程序员应该怎么写博客？](https://www.v2ex.com/t/851549) 
-- [2022-05-08-听说上面下了军令状，必须在-xx-日之前完成全面清零。](https://www.v2ex.com/t/851548) 
 - [2022-05-08-问一下大家工资的涨薪一年能涨多少。](https://www.v2ex.com/t/851547) 
 - [2022-05-08-AkkoCloud-英国伦敦-CN2-GIA-已补货](https://www.v2ex.com/t/851545) 
 - [2022-05-08-Bob-0.9.0-版本发布，独立-OCR-来啦-🎉](https://www.v2ex.com/t/851543) 

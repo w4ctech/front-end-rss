@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-05-08 13:30:05。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-05-08 13:45:39。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,8 @@
 </summary>
 
 
+- [【V2EX】2022-05-08-老哥们-常用药是如何存放的？有没有冰箱可以放药保存好](https://www.v2ex.com/t/851590) 
+- [【V2EX】2022-05-08-Airpods-2-是否是目前最实惠的蓝牙耳机？](https://www.v2ex.com/t/851589) 
 - [【V2EX】2022-05-08-Win11-的-WSA-安装成功但无法启动，大家有遇到这个问题的吗？](https://www.v2ex.com/t/851588) 
 - [【V2EX】2022-05-08-为什么-HR-没有通知面试者不通过的勇气？](https://www.v2ex.com/t/851586) 
 - [【V2EX】2022-05-08-新发现--iPhone-支持设置数字遗产联系人](https://www.v2ex.com/t/851585) 
@@ -103,8 +105,6 @@
 - [【V2EX】2022-05-08-Bob-0.9.0-版本发布，独立-OCR-来啦-🎉](https://www.v2ex.com/t/851543) 
 - [【V2EX】2022-05-08-TX-云虎年升级活动啥时候还能再来一次啊？](https://www.v2ex.com/t/851542) 
 - [【V2EX】2022-05-08-定时锁屏批处理命令,windows10-测试通过.](https://www.v2ex.com/t/851541) 
-- [【V2EX】2022-05-08-Windows10-自带输入法有方法添加两个拼音输入法吗？](https://www.v2ex.com/t/851540) 
-- [【V2EX】2022-05-08-请问各位-iPhone12-用户有没有遇到过手机低电量时无法连接上-CarPlay](https://www.v2ex.com/t/851539) 
 - [【技术头条】2022-05-08-【死磕-Redis】—–-如何排查-Redis-中的慢查询-cmsblogs.com](https://blogread.cn/news/go.php?idItem=15078&url=http%3A%2F%2Fcmsblogs.com%2F%3Fp%3D18352%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-05-08-使用PHP-Socket开发Yar-TCP服务-www.laruence.com](https://blogread.cn/news/go.php?idItem=15077&url=https%3A%2F%2Fwww.laruence.com%2F2020%2F04%2F01%2F5726.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-05-08-TCP：学得越多越不懂-www.felix021.com](https://blogread.cn/news/go.php?idItem=15076&url=https%3A%2F%2Fwww.felix021.com%2Fblog%2Fread.php%3F2215%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

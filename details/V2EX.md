@@ -1,11 +1,12 @@
-:alarm_clock: 更新时间: 2022-05-08 16:18:00。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-05-08 16:56:07。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
-- [2022-05-08-Jetson-nano-AI-学习小车](https://www.v2ex.com/t/851623) 
+- [2022-05-08-请问下国航的激活策略和插卡有关系吗？](https://www.v2ex.com/t/851625) 
+- [2022-05-08-在哪儿能找到全国各市的-GDP-数据？](https://www.v2ex.com/t/851624) 
 - [2022-05-08-macbook-链接外接显示器，休眠后唤醒无反应。](https://www.v2ex.com/t/851622) 
 - [2022-05-08-有些关于-HDR-映射的问题](https://www.v2ex.com/t/851621) 
 - [2022-05-08-有人用-pyscript-了吗-我这里测试例没用](https://www.v2ex.com/t/851620) 
@@ -44,5 +45,3 @@
 - [2022-05-08-Windows-Sandbox-无法联网](https://www.v2ex.com/t/851581) 
 - [2022-05-08-YouTube-搞的这个-shorts-不错](https://www.v2ex.com/t/851579) 
 - [2022-05-08-狗狗沐浴露求推荐](https://www.v2ex.com/t/851577) 
-- [2022-05-08-Asciinema：一条命令搞定终端录屏！互联网打工人居家办公神器](https://www.v2ex.com/t/851575) 
-- [2022-05-08-被封了快两个月了，心态炸裂，每天什么事情都不想做，怎么破？](https://www.v2ex.com/t/851574) 

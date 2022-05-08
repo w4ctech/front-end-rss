@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-05-08 16:18:00，:rocket: 更新条数: +2017， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-05-08 16:56:06，:rocket: 更新条数: +2016， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,7 +491,8 @@
 </summary>
 
 
-- [2022-05-08-Jetson-nano-AI-学习小车](https://www.v2ex.com/t/851623) ![](assets/new.png)  
+- [2022-05-08-请问下国航的激活策略和插卡有关系吗？](https://www.v2ex.com/t/851625) ![](assets/new.png)  
+- [2022-05-08-在哪儿能找到全国各市的-GDP-数据？](https://www.v2ex.com/t/851624) ![](assets/new.png)  
 - [2022-05-08-macbook-链接外接显示器，休眠后唤醒无反应。](https://www.v2ex.com/t/851622) ![](assets/new.png)  
 - [2022-05-08-有些关于-HDR-映射的问题](https://www.v2ex.com/t/851621) ![](assets/new.png)  
 - [2022-05-08-有人用-pyscript-了吗-我这里测试例没用](https://www.v2ex.com/t/851620) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-05-08-太多年没有写简历，诚恳各位审阅一下](https://www.v2ex.com/t/851604) ![](assets/new.png)  
 - [2022-05-08-关于-Cesium-着色器-问题](https://www.v2ex.com/t/851603) ![](assets/new.png)  
 - [2022-05-08-macbook-pro-16-寸，四个雷电-3-的速率](https://www.v2ex.com/t/851602) ![](assets/new.png)  
-- [2022-05-08-ios-解锁很麻烦，-face-不是每次准，不稳定](https://www.v2ex.com/t/851601) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

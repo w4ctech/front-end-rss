@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-05-08 23:14:02。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-05-08 23:40:14。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Canvas、SVG、图像
 
@@ -6,5 +6,3 @@
 > 关键字：`Canvas`、`SVG`、`WebGL`、`3D`、`PNG`、`WebP`、`RGB`、`GUI`
 
 
-
-- [2022-05-08-带大家写个简单的天眼查GUI版本吧~](https://toutiao.io/k/idsde7a) 

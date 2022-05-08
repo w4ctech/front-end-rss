@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-05-08 23:14:02。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-05-08 23:40:14。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -130,15 +130,7 @@
 - [【技术头条】2022-05-08-Better-Code:-更好的异常日志打印-wklken.me](https://blogread.cn/news/go.php?idItem=15068&url=https%3A%2F%2Fwklken.me%2Fposts%2F2022%2F01%2F16%2Fbetter-code-2-logging.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-05-08-面试官提问三个Go接口的概念，-10年gopher竟无言以对-colobu.com](https://blogread.cn/news/go.php?idItem=15067&url=https%3A%2F%2Fcolobu.com%2F2022%2F01%2F16%2Fthree-new-concepts-of-go-interface-since-1-18%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-05-08-美团外卖终端容器无关化研发框架-tech.meituan.com](https://blogread.cn/news/go.php?idItem=15066&url=https%3A%2F%2Ftech.meituan.com%2F2021%2F12%2F02%2Fmeituan-waimai-containerless-framework.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
-- [【开发者头条】2022-05-08-欢迎加入读者圈子，一起交流！](https://toutiao.io/k/p6oew1f) 
-- [【开发者头条】2022-05-08-像小说一样品读Linux0.11核心代码](https://toutiao.io/k/i4xyufr) 
-- [【开发者头条】2022-05-08-白话-Golang-单元测试](https://toutiao.io/k/wgu15cl) 
-- [【开发者头条】2022-05-08-如何打造一款简单易用的-React-状态管理工具](https://toutiao.io/k/kew0md8) 
-- [【开发者头条】2022-05-08-掌握这些Python的高级用法，让代码更可读、运行更高效！](https://toutiao.io/k/uw8so4a) 
-- [【开发者头条】2022-05-08-程序员要学会利用周末时间，自我提升](https://toutiao.io/k/4toqa3w) 
-- [【开发者头条】2022-05-08-带大家写个简单的天眼查GUI版本吧~](https://toutiao.io/k/idsde7a) 
-- [【开发者头条】2022-05-08-分布式数据库的高可用性简史](https://toutiao.io/k/k44qn9i) 
-- [【开发者头条】2022-05-08-保姆级教程，如何在浏览器里进行“目标检测”](https://toutiao.io/k/bopnizp) 
+- [【开发者头条】2022-05-08-每周一书：《超越智商：为什么聪明人也会做蠢事》](https://toutiao.io/k/1c669n3) 
 - [【开发者头条】2022-05-08-推荐-深入浅出分布式锁](https://toutiao.io/k/957qnad) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-05-08 07:38:50。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-05-08 08:17:39。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,9 @@
 </summary>
 
 
+- [【V2EX】2022-05-08-AkkoCloud-英国伦敦-CN2-GIA-已补货](https://www.v2ex.com/t/851545) 
+- [【V2EX】2022-05-08-Bob-0.9.0-版本发布，独立-OCR-来啦-🎉](https://www.v2ex.com/t/851543) 
+- [【V2EX】2022-05-08-TX-云虎年升级活动啥时候还能再来一次啊？](https://www.v2ex.com/t/851542) 
 - [【V2EX】2022-05-08-定时锁屏批处理命令,windows10-测试通过.](https://www.v2ex.com/t/851541) 
 - [【V2EX】2022-05-08-Windows10-自带输入法有方法添加两个拼音输入法吗？](https://www.v2ex.com/t/851540) 
 - [【V2EX】2022-05-08-请问各位-iPhone12-用户有没有遇到过手机低电量时无法连接上-CarPlay](https://www.v2ex.com/t/851539) 
@@ -106,11 +109,6 @@
 - [【V2EX】2022-05-08-想考，准备考和已考公务员的人多吗？](https://www.v2ex.com/t/851499) 
 - [【V2EX】2022-05-08-放个把苹果电池一层层扒开撕碎的视频](https://www.v2ex.com/t/851498) 
 - [【V2EX】2022-05-08-求一个主机方案](https://www.v2ex.com/t/851497) 
-- [【V2EX】2022-05-08-Ubuntu-18.04-升级-glibc-2.29-导致异常如何还原？](https://www.v2ex.com/t/851496) 
-- [【V2EX】2022-05-08-Linux-下是否有办法通过命令行下载腾讯会议的直播流？](https://www.v2ex.com/t/851495) 
-- [【V2EX】2022-05-08-请问一下大家遇到过-MacbookPro-15-款-更新闪存储存器固件更新失败吗](https://www.v2ex.com/t/851494) 
-- [【V2EX】2022-05-08-从需求角度，分享我对于笔记软件选择的看法](https://www.v2ex.com/t/851493) 
-- [【V2EX】2022-05-08-js-桌面应用：图像对比工具](https://www.v2ex.com/t/851492) 
 - [【技术头条】2022-05-08-【死磕-Redis】—–-如何排查-Redis-中的慢查询-cmsblogs.com](https://blogread.cn/news/go.php?idItem=15078&url=http%3A%2F%2Fcmsblogs.com%2F%3Fp%3D18352%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-05-08-使用PHP-Socket开发Yar-TCP服务-www.laruence.com](https://blogread.cn/news/go.php?idItem=15077&url=https%3A%2F%2Fwww.laruence.com%2F2020%2F04%2F01%2F5726.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-05-08-TCP：学得越多越不懂-www.felix021.com](https://blogread.cn/news/go.php?idItem=15076&url=https%3A%2F%2Fwww.felix021.com%2Fblog%2Fread.php%3F2215%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -139,9 +137,7 @@
 - [【开发者头条】2022-05-08-保姆级教程，如何在浏览器里进行“目标检测”](https://toutiao.io/k/bopnizp) 
 - [【开发者头条】2022-05-08-带大家写个简单的天眼查GUI版本吧~](https://toutiao.io/k/idsde7a) 
 - [【开发者头条】2022-05-08-程序员要学会利用周末时间，自我提升](https://toutiao.io/k/4toqa3w) 
-- [【开发者头条】2022-05-08-80%-的-Linux-都不懂的内存问题](https://toutiao.io/k/2j5j9nr) 
 - [【开发者头条】2022-05-08-分布式数据库的高可用性简史](https://toutiao.io/k/k44qn9i) 
-- [【开发者头条】2022-05-08-云原生×实战派：向业务聚焦，数字创新时代的最佳选择](https://toutiao.io/k/x8b36x7) 
 - [【开发者头条】2022-05-08-推荐-非常哇塞的-SpringBoot性能优化长文！](https://toutiao.io/k/srppeol) 
 - [【开发者头条】2022-05-08-推荐-深入浅出分布式锁](https://toutiao.io/k/957qnad) 
 

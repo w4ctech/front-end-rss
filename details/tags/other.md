@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-05-08 07:38:50。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-05-08 08:17:39。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1912,6 +1912,9 @@
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2022-03-21-ascent-override-descent-override-line-gap-override一锅端](https://www.zhangxinxu.com/wordpress/2022/03/css-ascent-override-descent/) 
+- [2022-05-08-AkkoCloud-英国伦敦-CN2-GIA-已补货](https://www.v2ex.com/t/851545) 
+- [2022-05-08-Bob-0.9.0-版本发布，独立-OCR-来啦-🎉](https://www.v2ex.com/t/851543) 
+- [2022-05-08-TX-云虎年升级活动啥时候还能再来一次啊？](https://www.v2ex.com/t/851542) 
 - [2022-05-08-定时锁屏批处理命令,windows10-测试通过.](https://www.v2ex.com/t/851541) 
 - [2022-05-08-Windows10-自带输入法有方法添加两个拼音输入法吗？](https://www.v2ex.com/t/851540) 
 - [2022-05-08-请问各位-iPhone12-用户有没有遇到过手机低电量时无法连接上-CarPlay](https://www.v2ex.com/t/851539) 
@@ -1941,9 +1944,6 @@
 - [2022-05-08-请问如何异地跨省办理摩托车保险和年检？](https://www.v2ex.com/t/851500) 
 - [2022-05-08-想考，准备考和已考公务员的人多吗？](https://www.v2ex.com/t/851499) 
 - [2022-05-08-求一个主机方案](https://www.v2ex.com/t/851497) 
-- [2022-05-08-Ubuntu-18.04-升级-glibc-2.29-导致异常如何还原？](https://www.v2ex.com/t/851496) 
-- [2022-05-08-请问一下大家遇到过-MacbookPro-15-款-更新闪存储存器固件更新失败吗](https://www.v2ex.com/t/851494) 
-- [2022-05-08-从需求角度，分享我对于笔记软件选择的看法](https://www.v2ex.com/t/851493) 
 - [2022-05-08-【死磕-Redis】—–-如何排查-Redis-中的慢查询-cmsblogs.com](https://blogread.cn/news/go.php?idItem=15078&url=http%3A%2F%2Fcmsblogs.com%2F%3Fp%3D18352%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-05-08-使用PHP-Socket开发Yar-TCP服务-www.laruence.com](https://blogread.cn/news/go.php?idItem=15077&url=https%3A%2F%2Fwww.laruence.com%2F2020%2F04%2F01%2F5726.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-05-08-TCP：学得越多越不懂-www.felix021.com](https://blogread.cn/news/go.php?idItem=15076&url=https%3A%2F%2Fwww.felix021.com%2Fblog%2Fread.php%3F2215%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1966,7 +1966,5 @@
 - [2022-05-08-白话-Golang-单元测试](https://toutiao.io/k/wgu15cl) 
 - [2022-05-08-掌握这些Python的高级用法，让代码更可读、运行更高效！](https://toutiao.io/k/uw8so4a) 
 - [2022-05-08-程序员要学会利用周末时间，自我提升](https://toutiao.io/k/4toqa3w) 
-- [2022-05-08-80%-的-Linux-都不懂的内存问题](https://toutiao.io/k/2j5j9nr) 
 - [2022-05-08-分布式数据库的高可用性简史](https://toutiao.io/k/k44qn9i) 
-- [2022-05-08-云原生×实战派：向业务聚焦，数字创新时代的最佳选择](https://toutiao.io/k/x8b36x7) 
 - [2022-05-08-推荐-深入浅出分布式锁](https://toutiao.io/k/957qnad) 

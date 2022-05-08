@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-05-08 17:16:23。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-05-08 17:41:33。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,7 @@
 </summary>
 
 
+- [【V2EX】2022-05-08-哪里可以下载到-UI-设计稿-拿来照着搭界面练练手](https://www.v2ex.com/t/851628) 
 - [【V2EX】2022-05-08-自建网盘做-webdav-服务，-seafile-和-cloudreve，请问大佬们哪个更好额？](https://www.v2ex.com/t/851627) 
 - [【V2EX】2022-05-08-用-js-实现类似-rz-/-sz-的功能，并且兼容-tmux-，现已集成进-electerm-和-tabby-终端，还支持和-webshell-集成。](https://www.v2ex.com/t/851626) 
 - [【V2EX】2022-05-08-请问下国航的激活策略和插卡有关系吗？](https://www.v2ex.com/t/851625) 

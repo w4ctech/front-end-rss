@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-05-09 03:02:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-05-09 03:52:38。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -7,4 +7,6 @@
 
 
 
+- [2022-05-09-微软各-BU-火热招聘中](https://www.v2ex.com/t/851697) 
+- [2022-05-09-招聘：-DevOps-Engineer](https://www.v2ex.com/t/851688) 
 - [2022-05-09-面试官提问三个Go接口的概念，-10年gopher竟无言以对-colobu.com](https://blogread.cn/news/go.php?idItem=15067&url=https%3A%2F%2Fcolobu.com%2F2022%2F01%2F16%2Fthree-new-concepts-of-go-interface-since-1-18%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

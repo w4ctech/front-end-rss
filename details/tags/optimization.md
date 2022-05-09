@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-05-09 14:13:29。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-05-09 14:39:37。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 性能优化
 
@@ -7,6 +7,7 @@
 
 
 
+- [2022-05-09-SELECT-COUNT*-查询如何优化？](https://www.v2ex.com/t/851848) 
 - [2022-05-09-杭州-可远程办公-秘猿科技-Cryptape--招聘全栈/前端/区块链开发/高性能工程师/RISC-V/资深研究员](https://www.v2ex.com/t/851805) 
 - [2022-05-09-如何通过缓存来提升系统性能-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15083&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493982%26amp%3Bidx%3D2%26amp%3Bsn%3Dba44fde5dac86ee58162df9e9630cc8d%26amp%3Bchksm%3Dfa3f0805cd488113453f87304c6a52955bf0d4127f4d0262d2112d9499a323a322a90eee3c9e%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-05-09-TiDB-查询优化及调优系列（三）慢查询诊断监控及排查](https://toutiao.io/k/a7ggsgw) 

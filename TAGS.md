@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-05-09 15:15:27。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-05-09 15:46:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -283,7 +283,6 @@
 - [【武汉肺炎防疫全纪录(财新网)】大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html)
 - [【V2EX】怎么写测试代码证明-double-checked-locking-with-singleton-的线程安全？](https://www.v2ex.com/t/851832)
 - [【V2EX】2FHey-原-ohtipi-限免，使用-Chrome-快速填充短信验证码](https://www.v2ex.com/t/851824)
-- [【V2EX】阿里云式安全：因为特殊符号可能会造成注入，所以数据库密码中不允许使用特殊符号](https://www.v2ex.com/t/851807)
 - [【技术头条】App开放接口api安全：Token签名sign的设计与实现-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15085&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493985%26amp%3Bidx%3D2%26amp%3Bsn%3Dd7b1313ef4a0226295c81127ee22c958%26amp%3Bchksm%3Dfa3f083acd48812c339da2d4de950a0fda74f93663bc630c95de45f1f211ed7ec8aab67904fd%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【技术头条】深入业务场景，解决业务安全风险-www.sec-un.org](https://blogread.cn/news/go.php?idItem=15070&url=https%3A%2F%2Fwww.sec-un.org%2F%25e6%25b7%25b1%25e5%2585%25a5%25e4%25b8%259a%25e5%258a%25a1%25e5%259c%25ba%25e6%2599%25af%25ef%25bc%258c%25e8%25a7%25a3%25e5%2586%25b3%25e4%25b8%259a%25e5%258a%25a1%25e5%25ae%2589%25e5%2585%25a8%25e9%25a3%258e%25e9%2599%25a9%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [......【查看更多】......](./details/tags/browser.md)
@@ -356,8 +355,6 @@
 
 
 
-- [【V2EX】招聘海外红人渠道运营](https://www.v2ex.com/t/851855)
-- [【V2EX】招聘测试工程师](https://www.v2ex.com/t/851849)
 - [【技术头条】面试官提问三个Go接口的概念，-10年gopher竟无言以对-colobu.com](https://blogread.cn/news/go.php?idItem=15067&url=https%3A%2F%2Fcolobu.com%2F2022%2F01%2F16%2Fthree-new-concepts-of-go-interface-since-1-18%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [......【查看更多】......](./details/tags/job-interview.md)
 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-05-09 21:39:54，:rocket: 更新条数: +2004， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-05-09 22:14:55，:rocket: 更新条数: +2004， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-05-09-求教，最新的-iOS-怎么可以在前段代码上长按图片呼出保存菜单，而不唤出-Safari-自带的文字识别功能](https://www.v2ex.com/t/851870) ![](assets/new.png)  
 - [2022-05-09-入职新公司，用-lark，感觉挺好用的](https://www.v2ex.com/t/851869) ![](assets/new.png)  
 - [2022-05-09-应用出海：国际化难题](https://www.v2ex.com/t/851868) ![](assets/new.png)  
 - [2022-05-09-20220510-午夜俱乐部](https://www.v2ex.com/t/851867) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-05-09-求助远程办公软件的帮助。主要是远程连接桌面操作](https://www.v2ex.com/t/851842) ![](assets/new.png)  
 - [2022-05-09-大家平时怎么处理一些相对临时的文件、文字](https://www.v2ex.com/t/851840) ![](assets/new.png)  
 - [2022-05-09-请教下：有什么国外远程客服工作？](https://www.v2ex.com/t/851839) ![](assets/new.png)  
-- [2022-05-09-豆瓣都要采集人脸了，大家还用嘛？有什么替代品嘛？](https://www.v2ex.com/t/851837) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -554,8 +554,8 @@
 
 
 - [2022-05-09-MetaFlow即将开源！5月11日“让观测更自动，让开发者更自由”](https://toutiao.io/k/djdvbzm) ![](assets/new.png)  
-- [2022-05-09-推荐-深入浅出分布式锁](https://toutiao.io/k/957qnad) ![](assets/new.png)  
 - [2022-05-09-推荐-15K-Star！Github-上最火的低代码开发平台！](https://toutiao.io/k/3qv24va) ![](assets/new.png)  
+- [2022-05-09-推荐-深入浅出分布式锁](https://toutiao.io/k/957qnad) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

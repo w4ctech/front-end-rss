@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-05-09 13:55:58。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-05-09 14:13:29。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -18,6 +18,7 @@
 - [2022-04-22-CSS实现滚动高度自动变小的粘滞效果](https://www.zhangxinxu.com/wordpress/2022/04/css-sticky-size-change/) 
 - [2022-03-15-基于howler.js写了个音频播放器组件](https://www.zhangxinxu.com/wordpress/2022/03/howler-js-audio-player/) 
 - [2022-03-07-介绍8个和滚动相关的CSS属性](https://www.zhangxinxu.com/wordpress/2022/03/10-css-scroll-scrollbar/) 
+- [2022-05-09-软路由-软路由](https://www.v2ex.com/t/851841) 
 - [2022-05-09-workers.dev-被啬](https://www.v2ex.com/t/851814) 
 - [2022-05-09-前端如何实现，用户看到某元素的时候，触发事件？](https://www.v2ex.com/t/851806) 
 - [2022-05-09-小白求解-今天的-worker-是不是炸了](https://www.v2ex.com/t/851794) 

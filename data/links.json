@@ -9953,6 +9953,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "划词识别： Add new OCR plugin using Apple's Vision framework",
+        "link": "https://www.v2ex.com/t/851866",
+        "date": "2022-05-09"
+      },
+      {
         "title": "一个 nodejs 问题有偿求助",
         "link": "https://www.v2ex.com/t/851864",
         "date": "2022-05-09"
@@ -10126,11 +10131,6 @@
         "title": "iPhone 收不到任何 app 的推送",
         "link": "https://www.v2ex.com/t/851817",
         "date": "2022-05-09"
-      },
-      {
-        "title": "T Chat 第二期「王振辉- 我在闲鱼做 Flutter」本周四晚 8 点正式开播！",
-        "link": "https://www.v2ex.com/t/851816",
-        "date": "2022-05-09"
       }
     ]
   },
@@ -10252,13 +10252,13 @@
         "date": "2022-05-09"
       },
       {
-        "title": "[推荐] 深入浅出分布式锁",
-        "link": "https://toutiao.io/k/957qnad",
+        "title": "[推荐] 15K Star！Github 上最火的低代码开发平台！",
+        "link": "https://toutiao.io/k/3qv24va",
         "date": "2022-05-09"
       },
       {
-        "title": "[推荐] 15K Star！Github 上最火的低代码开发平台！",
-        "link": "https://toutiao.io/k/3qv24va",
+        "title": "[推荐] 深入浅出分布式锁",
+        "link": "https://toutiao.io/k/957qnad",
         "date": "2022-05-09"
       }
     ]

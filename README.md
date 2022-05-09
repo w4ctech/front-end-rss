@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-05-09 18:47:34，:rocket: 更新条数: +2005， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-05-09 19:12:34，:rocket: 更新条数: +2005， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-05-09-划词识别：-Add-new-OCR-plugin-using-Apple's-Vision-framework](https://www.v2ex.com/t/851866) ![](assets/new.png)  
 - [2022-05-09-一个-nodejs-问题有偿求助](https://www.v2ex.com/t/851864) ![](assets/new.png)  
 - [2022-05-09-我的第二个-Rust-项目：一个使用类似-ngrok-的内网穿透工具](https://www.v2ex.com/t/851863) ![](assets/new.png)  
 - [2022-05-09-阿里小号都咋用的](https://www.v2ex.com/t/851861) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-05-09-豆瓣都要采集人脸了，大家还用嘛？有什么替代品嘛？](https://www.v2ex.com/t/851837) ![](assets/new.png)  
 - [2022-05-09-iOS-有没有哪个相机-app-自动压缩照片的](https://www.v2ex.com/t/851836) ![](assets/new.png)  
 - [2022-05-09-求问关于美版-iPhone-和-eSIM-的问题](https://www.v2ex.com/t/851835) ![](assets/new.png)  
-- [2022-05-09-上海-不加班-外企-招-Java-、测试、C++、-Python-、安卓](https://www.v2ex.com/t/851834) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -554,8 +554,8 @@
 
 
 - [2022-05-09-MetaFlow即将开源！5月11日“让观测更自动，让开发者更自由”](https://toutiao.io/k/djdvbzm) ![](assets/new.png)  
-- [2022-05-09-推荐-深入浅出分布式锁](https://toutiao.io/k/957qnad) ![](assets/new.png)  
 - [2022-05-09-推荐-15K-Star！Github-上最火的低代码开发平台！](https://toutiao.io/k/3qv24va) ![](assets/new.png)  
+- [2022-05-09-推荐-深入浅出分布式锁](https://toutiao.io/k/957qnad) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

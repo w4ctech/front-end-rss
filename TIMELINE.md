@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-05-09 23:14:11。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-05-09 23:41:09。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,7 @@
 </summary>
 
 
+- [【V2EX】2022-05-09-Apple-强推-Apple-Music](https://www.v2ex.com/t/851871) 
 - [【V2EX】2022-05-09-求教，最新的-iOS-怎么可以在前段代码上长按图片呼出保存菜单，而不唤出-Safari-自带的文字识别功能](https://www.v2ex.com/t/851870) 
 - [【V2EX】2022-05-09-入职新公司，用-lark，感觉挺好用的](https://www.v2ex.com/t/851869) 
 - [【V2EX】2022-05-09-应用出海：国际化难题](https://www.v2ex.com/t/851868) 
@@ -124,6 +125,7 @@
 - [【技术头条】2022-05-09-面试官提问三个Go接口的概念，-10年gopher竟无言以对-colobu.com](https://blogread.cn/news/go.php?idItem=15067&url=https%3A%2F%2Fcolobu.com%2F2022%2F01%2F16%2Fthree-new-concepts-of-go-interface-since-1-18%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-05-09-美团外卖终端容器无关化研发框架-tech.meituan.com](https://blogread.cn/news/go.php?idItem=15066&url=https%3A%2F%2Ftech.meituan.com%2F2021%2F12%2F02%2Fmeituan-waimai-containerless-framework.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【开发者头条】2022-05-09-MetaFlow即将开源！5月11日“让观测更自动，让开发者更自由”](https://toutiao.io/k/djdvbzm) 
+- [【开发者头条】2022-05-09-TikTok内幕：张一鸣的巨浪征途；Web3革命：逃离、信仰、大迁徙｜码农周刊VIP会员专属邮件周报-Vol.090](https://toutiao.io/k/8hmzq2o) 
 - [【开发者头条】2022-05-09-推荐-深入浅出分布式锁](https://toutiao.io/k/957qnad) 
 - [【开发者头条】2022-05-09-推荐-15K-Star！Github-上最火的低代码开发平台！](https://toutiao.io/k/3qv24va) 
 

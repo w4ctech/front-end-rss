@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-05-09 01:01:30，:rocket: 更新条数: +2015， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-05-09 03:02:23，:rocket: 更新条数: +2015， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,26 +491,26 @@
 </summary>
 
 
-- [2022-05-09-高并发下，-2-块-nvme-ssd-硬盘组-RAID1-和-RAID0-哪个读取速度快？](https://www.v2ex.com/t/851641) ![](assets/new.png)  
-- [2022-05-09-大龄程序员想去新西兰工作](https://www.v2ex.com/t/851640) ![](assets/new.png)  
-- [2022-05-09-简历特长部分，各位大神觉得以下两版（针对固定技术栈，广度和深度）哪个比较好](https://www.v2ex.com/t/851639) ![](assets/new.png)  
-- [2022-05-09-杭州金投数科怎么样？国企全资子公司？有在里面的大佬给个建议吗？](https://www.v2ex.com/t/851638) ![](assets/new.png)  
-- [2022-05-09-关于学习材料的疑问，这个问题困扰我很久了，求过来人解答](https://www.v2ex.com/t/851637) ![](assets/new.png)  
-- [2022-05-09-手机上有什么工具可以快速地对图片进行裁剪处理？](https://www.v2ex.com/t/851636) ![](assets/new.png)  
-- [2022-05-08-CVE-2022-29072:-7-zip-代码执行漏洞?-+-权限提升](https://www.v2ex.com/t/851635) ![](assets/new.png)  
-- [2022-05-08-从京东买风冷发到美国会坏吗？美国风冷好贵](https://www.v2ex.com/t/851634) ![](assets/new.png)  
-- [2022-05-08-Apple-Podcast-好像存在软性分区](https://www.v2ex.com/t/851632) ![](assets/new.png)  
-- [2022-05-08-我好像患上了「Golang-斯德哥尔摩综合症」](https://www.v2ex.com/t/851630) ![](assets/new.png)  
-- [2022-05-08-OpenConnect-连接公司内网，但-DNS-异常](https://www.v2ex.com/t/851629) ![](assets/new.png)  
-- [2022-05-08-哪里可以下载到-UI-设计稿-拿来照着搭界面练练手](https://www.v2ex.com/t/851628) ![](assets/new.png)  
-- [2022-05-08-自建网盘做-webdav-服务，-seafile-和-cloudreve，请问大佬们哪个更好额？](https://www.v2ex.com/t/851627) ![](assets/new.png)  
-- [2022-05-08-用-js-实现类似-rz-/-sz-的功能，并且兼容-tmux-，现已集成进-electerm-和-tabby-终端，还支持和-webshell-集成。](https://www.v2ex.com/t/851626) ![](assets/new.png)  
-- [2022-05-08-请问下国航的激活策略和插卡有关系吗？](https://www.v2ex.com/t/851625) ![](assets/new.png)  
-- [2022-05-08-在哪儿能找到全国各市的-GDP-数据？](https://www.v2ex.com/t/851624) ![](assets/new.png)  
-- [2022-05-08-macbook-链接外接显示器，休眠后唤醒无反应。](https://www.v2ex.com/t/851622) ![](assets/new.png)  
-- [2022-05-08-有些关于-HDR-映射的问题](https://www.v2ex.com/t/851621) ![](assets/new.png)  
-- [2022-05-08-有人用-pyscript-了吗-我这里测试例没用](https://www.v2ex.com/t/851620) ![](assets/new.png)  
-- [2022-05-08-reReaderbeta---重新定义-EPUB-阅读器](https://www.v2ex.com/t/851619) ![](assets/new.png)  
+- [2022-05-09-发现手机上只要是-APP-都有一个借钱的入口,各种诱导借钱!](https://www.v2ex.com/t/851686) ![](assets/new.png)  
+- [2022-05-09-山东电信裸连-Apple-TV+-画质极差](https://www.v2ex.com/t/851683) ![](assets/new.png)  
+- [2022-05-09-求推荐一个安卓手机上好用的天气-App](https://www.v2ex.com/t/851682) ![](assets/new.png)  
+- [2022-05-09-造人游戏：我的传奇人生-----程序员版（1-到-100-岁）](https://www.v2ex.com/t/851681) ![](assets/new.png)  
+- [2022-05-09-做个调查，软件盈利的个人创作者们，方面透露下你们的产品面向用户终端是什么？](https://www.v2ex.com/t/851680) ![](assets/new.png)  
+- [2022-05-09-广州-cn2-的游戏宽带没了吗](https://www.v2ex.com/t/851679) ![](assets/new.png)  
+- [2022-05-09-有一丝丝好奇，那么多人想-run，那爸妈怎么办？](https://www.v2ex.com/t/851678) ![](assets/new.png)  
+- [2022-05-09-分布式事务客户端-PHP--client-v0.1.1-发布，支持-Saga，-Tcc，二阶段消息](https://www.v2ex.com/t/851677) ![](assets/new.png)  
+- [2022-05-09-现在有比较好的-NAT-穿透（打洞）开源实现吗？](https://www.v2ex.com/t/851676) ![](assets/new.png)  
+- [2022-05-09-这首福音说唱专辑好上头](https://www.v2ex.com/t/851675) ![](assets/new.png)  
+- [2022-05-09-macos-文稿-icloud-上传图标一直存在](https://www.v2ex.com/t/851673) ![](assets/new.png)  
+- [2022-05-09-大佬们，-Linux-根目录太大了400G，想分出来一部分200G空间用作别的用途，可行吗，有什么方案？](https://www.v2ex.com/t/851671) ![](assets/new.png)  
+- [2022-05-09-有没有-Apple-one-稳定车队，有的拉我，我的个人版下个月到期](https://www.v2ex.com/t/851669) ![](assets/new.png)  
+- [2022-05-09-群晖一直大量写硬盘，大家也是这样么](https://www.v2ex.com/t/851668) ![](assets/new.png)  
+- [2022-05-09-aws-怎么开香港分区啊？](https://www.v2ex.com/t/851667) ![](assets/new.png)  
+- [2022-05-09-iPhone-存储空间接近满了还是会卡死](https://www.v2ex.com/t/851665) ![](assets/new.png)  
+- [2022-05-09-curl-命令有叫字面英文-kɜːl-命令吗](https://www.v2ex.com/t/851663) ![](assets/new.png)  
+- [2022-05-09-今天突发其想在小米日历上自动添加日程](https://www.v2ex.com/t/851662) ![](assets/new.png)  
+- [2022-05-09-滴滴出行-北京、杭州、深圳、上海内推-Android-App/iOS/Android-系统/-Linux-/算法/-Java-/前端/Go/-Python-/产品/运营/硬件等各类职位招聘，月-20k-80k，优秀...](https://www.v2ex.com/t/851661) ![](assets/new.png)  
+- [2022-05-09-黑苹果-docker-machine](https://www.v2ex.com/t/851660) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -559,6 +559,11 @@
 - [2022-05-09-Flink-Metrics&REST-API-介绍和原理解析](https://toutiao.io/k/ahkvcb5) ![](assets/new.png)  
 - [2022-05-09-【工程化】探索webpack5中的Module-Federation](https://toutiao.io/k/17ms496) ![](assets/new.png)  
 - [2022-05-09-Qt鼠标移动激活窗口问题](https://toutiao.io/k/zqtqi4x) ![](assets/new.png)  
+- [2022-05-09-GitHub的4个神技，同桌直呼666](https://toutiao.io/k/oaoov9m) ![](assets/new.png)  
+- [2022-05-09-一份Go微服务生产指南清单给你](https://toutiao.io/k/n6xubkw) ![](assets/new.png)  
+- [2022-05-09-砥砺前行-|-Kratos-框架-v2-版本架构演进之路](https://toutiao.io/k/2gyvb2v) ![](assets/new.png)  
+- [2022-05-09-PPQ-小课堂-|-神经网络加速基础知识](https://toutiao.io/k/zq2e3eh) ![](assets/new.png)  
+- [2022-05-09-TiDB-查询优化及调优系列（三）慢查询诊断监控及排查](https://toutiao.io/k/a7ggsgw) ![](assets/new.png)  
 - [2022-05-09-推荐-深入浅出分布式锁](https://toutiao.io/k/957qnad) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

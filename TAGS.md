@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-05-09 06:50:18。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-05-09 07:14:41。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -355,7 +355,7 @@
 
 
 
-- [【V2EX】微软各-BU-火热招聘中](https://www.v2ex.com/t/851697)
+- [【V2EX】德企在家办公北上深沈-SUSE-招聘-Linux-操作系统开发工程师-Kernel+C-or-Python-,-30k+](https://www.v2ex.com/t/851742)
 - [【技术头条】面试官提问三个Go接口的概念，-10年gopher竟无言以对-colobu.com](https://blogread.cn/news/go.php?idItem=15067&url=https%3A%2F%2Fcolobu.com%2F2022%2F01%2F16%2Fthree-new-concepts-of-go-interface-since-1-18%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [......【查看更多】......](./details/tags/job-interview.md)
 

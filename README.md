@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-05-10 20:40:46，:rocket: 更新条数: +2026， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-05-10 21:13:44，:rocket: 更新条数: +2025， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -506,11 +506,11 @@
 - [2022-05-10-有什么办法可以让-spotlight-针对-NAS-的-volume-进行索引吗？](https://www.v2ex.com/t/852087) ![](assets/new.png)  
 - [2022-05-10-Gin-如何让通过中间件设置的变量-在模板中能读取到](https://www.v2ex.com/t/852086) ![](assets/new.png)  
 - [2022-05-10-心塞...-平板的-Type-C-又被暴力了一回](https://www.v2ex.com/t/852085) ![](assets/new.png)  
-- [2022-05-10-看到很多人最新讨论移民，想起高晓松的节目，把很多国家（北美，欧洲，日本新加坡等）都介绍了一遍，他的节目我觉得还是比较客观的，但是被人断章取义地打成公知...](https://www.v2ex.com/t/852084) ![](assets/new.png)  
 - [2022-05-10-DNSPod-权威服务器的-DNSSEC-有问题](https://www.v2ex.com/t/852083) ![](assets/new.png)  
 - [2022-05-10-gov-网站安全证书问题](https://www.v2ex.com/t/852082) ![](assets/new.png)  
 - [2022-05-10-capture-one-22-pro15.2.0.77无法导入佳能-M50-二代拍摄的-CR3-文件](https://www.v2ex.com/t/852080) ![](assets/new.png)  
 - [2022-05-10-暑假要去杭州萧山信息港附近实习，了解一下房租情况](https://www.v2ex.com/t/852079) ![](assets/new.png)  
+- [2022-05-10-大家的打字速度都是多少？](https://www.v2ex.com/t/852078) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

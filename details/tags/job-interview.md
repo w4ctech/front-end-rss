@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-05-10 07:15:03。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-05-10 07:39:31。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -8,5 +8,4 @@
 
 
 - [2022-05-10-有大佬了解数字马力这家公司吗？面试难度如何？](https://www.v2ex.com/t/851959) 
-- [2022-05-10-上海字节跳动飞书部门招聘-C++研发实习生](https://www.v2ex.com/t/851936) 
 - [2022-05-10-面试官提问三个Go接口的概念，-10年gopher竟无言以对-colobu.com](https://blogread.cn/news/go.php?idItem=15067&url=https%3A%2F%2Fcolobu.com%2F2022%2F01%2F16%2Fthree-new-concepts-of-go-interface-since-1-18%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

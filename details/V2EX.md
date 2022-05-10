@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-05-10 22:14:55。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-05-10 22:41:36。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
@@ -24,7 +24,6 @@
 - [2022-05-10-gov-网站安全证书问题](https://www.v2ex.com/t/852082) 
 - [2022-05-10-capture-one-22-pro15.2.0.77无法导入佳能-M50-二代拍摄的-CR3-文件](https://www.v2ex.com/t/852080) 
 - [2022-05-10-暑假要去杭州萧山信息港附近实习，了解一下房租情况](https://www.v2ex.com/t/852079) 
-- [2022-05-10-大家的打字速度都是多少？](https://www.v2ex.com/t/852078) 
 - [2022-05-10-新手装机，老哥们帮忙看看怎么样!](https://www.v2ex.com/t/852076) 
 - [2022-05-10-有哪些适用于做外包项目的快速开发技术栈呢](https://www.v2ex.com/t/852075) 
 - [2022-05-10-Android-Studio-稳定版更新,能上-Copilot-了](https://www.v2ex.com/t/852072) 

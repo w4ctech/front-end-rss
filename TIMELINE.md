@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-05-11 15:15:49。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-05-11 15:45:41。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,8 @@
 </summary>
 
 
+- [【V2EX】2022-05-11-求公平发牌的德州扑克-app，朋友局玩](https://www.v2ex.com/t/852294) 
+- [【V2EX】2022-05-11-关于"调整-Windows-的外观和性能"的一点疑问](https://www.v2ex.com/t/852293) 
 - [【V2EX】2022-05-11-请教一个-Python-修改-jpg-文件属性的问题](https://www.v2ex.com/t/852292) 
 - [【V2EX】2022-05-11-Kindle-oasis-3-越狱后装-koreader，翻页飞快](https://www.v2ex.com/t/852291) 
 - [【V2EX】2022-05-11-Netflix-巴西区拼车](https://www.v2ex.com/t/852290) 
@@ -104,9 +106,6 @@
 - [【V2EX】2022-05-11-每周各种各样的周刊是我的精神食粮，收集了常读的周刊分享下](https://www.v2ex.com/t/852249) 
 - [【V2EX】2022-05-11-人在国内迫于语言能力请教大佬们出去的方法](https://www.v2ex.com/t/852248) 
 - [【V2EX】2022-05-11-V-友们，有谁知道前端外包每天都做什么的?](https://www.v2ex.com/t/852247) 
-- [【V2EX】2022-05-11-「API」名字里的这个-programming-或-programmable-是指什么？](https://www.v2ex.com/t/852245) 
-- [【V2EX】2022-05-11-为什么-IDC-无法拦截未备案域名](https://www.v2ex.com/t/852244) 
-- [【V2EX】2022-05-11-现在用什么搞网聊（正规的不正规的都行）比较好?](https://www.v2ex.com/t/852243) 
 - [【技术头条】2022-05-11-App开放接口api安全：Token签名sign的设计与实现-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15085&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493985%26amp%3Bidx%3D2%26amp%3Bsn%3Dd7b1313ef4a0226295c81127ee22c958%26amp%3Bchksm%3Dfa3f083acd48812c339da2d4de950a0fda74f93663bc630c95de45f1f211ed7ec8aab67904fd%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-05-11-伪造邮件钓鱼，要知道的秘密！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15084&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493982%26amp%3Bidx%3D1%26amp%3Bsn%3D3f0b70405d32ee9faa4b706b930f4c28%26amp%3Bchksm%3Dfa3f0805cd4881138955b45d1bcad7a23c209bffe81a7a5b830802df75abe10454790e2ae03c%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-05-11-如何通过缓存来提升系统性能-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15083&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493982%26amp%3Bidx%3D2%26amp%3Bsn%3Dba44fde5dac86ee58162df9e9630cc8d%26amp%3Bchksm%3Dfa3f0805cd488113453f87304c6a52955bf0d4127f4d0262d2112d9499a323a322a90eee3c9e%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -135,8 +134,8 @@
 - [【开发者头条】2022-05-11-一个脚本快速解决github在国内加载慢的问题~](https://toutiao.io/k/xqi041y) 
 - [【开发者头条】2022-05-11-JDK9为何要将String的底层实现由char改成了byte？](https://toutiao.io/k/cfogfaq) 
 - [【开发者头条】2022-05-11-Redis分布式锁，你用对了吗？](https://toutiao.io/k/g9cbjfe) 
-- [【开发者头条】2022-05-11-继Python之后，Go也顺利在浏览器上运行](https://toutiao.io/k/oqes14y) 
 - [【开发者头条】2022-05-11-详解用户画像与实时数仓的架构与实践](https://toutiao.io/k/yzboppn) 
+- [【开发者头条】2022-05-11-继Python之后，Go也顺利在浏览器上运行](https://toutiao.io/k/oqes14y) 
 - [【开发者头条】2022-05-11-凯文·凯利70岁生日的103条人生建议｜码农周刊VIP会员专属邮件周报-Vol.090](https://toutiao.io/k/d3q95iv) 
 - [【开发者头条】2022-05-11-Node.js-结合-MongoDB-实现字段级自动加密](https://toutiao.io/k/qn5abfm) 
 - [【开发者头条】2022-05-11-攻防对抗手册-红队（攻击方）实战攻防演习手册](https://toutiao.io/k/b14j4p0) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-05-11 21:40:49。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-05-11 22:14:18。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
@@ -42,4 +42,3 @@
 - [2022-05-11-mbp-14-2021-款-开盖保持一个角度一段时间再拨动盖子手感很涩甚至推不动](https://www.v2ex.com/t/852262) 
 - [2022-05-11-Android-和-Windows，请问如何-Handoff-？](https://www.v2ex.com/t/852261) 
 - [2022-05-11-有没有磨砂质感的-MacBook-键盘按键贴纸？](https://www.v2ex.com/t/852260) 
-- [2022-05-11-顺丰保价问题，这种情况该如何处理](https://www.v2ex.com/t/852258) 

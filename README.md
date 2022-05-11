@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-05-11 13:14:32，:rocket: 更新条数: +2021， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-05-11 13:55:43，:rocket: 更新条数: +2022， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,11 @@
 </summary>
 
 
+- [2022-05-11-iPhone-左上角的时间延迟](https://www.v2ex.com/t/852276) ![](assets/new.png)  
+- [2022-05-11-苹果什么时候修好这个-sb-bug？](https://www.v2ex.com/t/852275) ![](assets/new.png)  
+- [2022-05-11-如果你的-Xbox-精英手柄也不能配置](https://www.v2ex.com/t/852274) ![](assets/new.png)  
+- [2022-05-11-备考两年的专升本突然不能跨考计算机了，只能报考从来没有接触过的财经专业，-V-友们我该怎么准备呢？](https://www.v2ex.com/t/852273) ![](assets/new.png)  
+- [2022-05-11-世界第一网红-Pewdiepie-移居日本了](https://www.v2ex.com/t/852272) ![](assets/new.png)  
 - [2022-05-11-身体状态-不知道有没有一样最近睡眠差的老哥](https://www.v2ex.com/t/852271) ![](assets/new.png)  
 - [2022-05-11-做空-luna](https://www.v2ex.com/t/852270) ![](assets/new.png)  
 - [2022-05-11-以前别人说微信的架构烂我不信，现在我信了！](https://www.v2ex.com/t/852268) ![](assets/new.png)  
@@ -506,11 +511,6 @@
 - [2022-05-11-请教一下，-macOS-上的-Safari-如何安装非-App-Store-上的-tampermonkey-扩展？](https://www.v2ex.com/t/852252) ![](assets/new.png)  
 - [2022-05-11-求教各位都是如何找到对象的,以及如何扩充社交圈?对肥宅来说](https://www.v2ex.com/t/852251) ![](assets/new.png)  
 - [2022-05-11-docker-版-transmission，为什么连不上-ipv6-的用户？](https://www.v2ex.com/t/852250) ![](assets/new.png)  
-- [2022-05-11-每周各种各样的周刊是我的精神食粮，收集了常读的周刊分享下](https://www.v2ex.com/t/852249) ![](assets/new.png)  
-- [2022-05-11-人在国内迫于语言能力请教大佬们出去的方法](https://www.v2ex.com/t/852248) ![](assets/new.png)  
-- [2022-05-11-V-友们，有谁知道前端外包每天都做什么的?](https://www.v2ex.com/t/852247) ![](assets/new.png)  
-- [2022-05-11-「API」名字里的这个-programming-或-programmable-是指什么？](https://www.v2ex.com/t/852245) ![](assets/new.png)  
-- [2022-05-11-为什么-IDC-无法拦截未备案域名](https://www.v2ex.com/t/852244) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -561,10 +561,10 @@
 - [2022-05-11-JDK9为何要将String的底层实现由char改成了byte？](https://toutiao.io/k/cfogfaq) ![](assets/new.png)  
 - [2022-05-11-一个脚本快速解决github在国内加载慢的问题~](https://toutiao.io/k/xqi041y) ![](assets/new.png)  
 - [2022-05-11-继Python之后，Go也顺利在浏览器上运行](https://toutiao.io/k/oqes14y) ![](assets/new.png)  
-- [2022-05-11-Node.js-结合-MongoDB-实现字段级自动加密](https://toutiao.io/k/qn5abfm) ![](assets/new.png)  
 - [2022-05-11-Redis分布式锁，你用对了吗？](https://toutiao.io/k/g9cbjfe) ![](assets/new.png)  
-- [2022-05-11-凯文·凯利70岁生日的103条人生建议｜码农周刊VIP会员专属邮件周报-Vol.090](https://toutiao.io/k/d3q95iv) ![](assets/new.png)  
+- [2022-05-11-Node.js-结合-MongoDB-实现字段级自动加密](https://toutiao.io/k/qn5abfm) ![](assets/new.png)  
 - [2022-05-11-详解用户画像与实时数仓的架构与实践](https://toutiao.io/k/yzboppn) ![](assets/new.png)  
+- [2022-05-11-凯文·凯利70岁生日的103条人生建议｜码农周刊VIP会员专属邮件周报-Vol.090](https://toutiao.io/k/d3q95iv) ![](assets/new.png)  
 - [2022-05-11-攻防对抗手册-红队（攻击方）实战攻防演习手册](https://toutiao.io/k/b14j4p0) ![](assets/new.png)  
 - [2022-05-11-分布式架构之服务注册中心](https://toutiao.io/k/y29hml2) ![](assets/new.png)  
 - [2022-05-11-Vite极速单元测试框架](https://toutiao.io/k/zjsttv4) ![](assets/new.png)  

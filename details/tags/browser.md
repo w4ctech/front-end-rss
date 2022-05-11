@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-05-11 17:06:33。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-05-11 17:50:50。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -13,6 +13,7 @@
 - [2021-04-14-腺病毒新冠疫苗引安全忧虑-康希诺称未发现血栓病例](https://m.caixin.com/m/2021-04-14/101691086.html) 
 - [2021-01-08-解药|新冠mRNA疫苗安全性有哪些挑战？](https://m.caixin.com/m/2021-01-08/101648043.html) 
 - [2021-01-01-大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html) 
+- [2022-05-11-请问除了安全考虑，关闭-System-Integrity-Protection（SIP）会有什么坏处嘛？](https://www.v2ex.com/t/852298) 
 - [2022-05-11-使用-poste-搭建好自己的邮箱服务后，怎么群发](https://www.v2ex.com/t/852280) 
 - [2022-05-11-世界第一网红-Pewdiepie-移居日本了](https://www.v2ex.com/t/852272) 
 - [2022-05-11-请教一下，-macOS-上的-Safari-如何安装非-App-Store-上的-tampermonkey-扩展？](https://www.v2ex.com/t/852252) 

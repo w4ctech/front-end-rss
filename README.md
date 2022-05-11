@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-05-11 17:06:33，:rocket: 更新条数: +2023， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-05-11 17:50:50，:rocket: 更新条数: +2022， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,13 +491,15 @@
 </summary>
 
 
+- [2022-05-11-2022-年的-Google-开发者大会直播讨论汇总贴。直播已经开始](https://www.v2ex.com/t/852300) ![](assets/new.png)  
+- [2022-05-11-一个对于管理的迷思](https://www.v2ex.com/t/852299) ![](assets/new.png)  
+- [2022-05-11-请问除了安全考虑，关闭-System-Integrity-Protection（SIP）会有什么坏处嘛？](https://www.v2ex.com/t/852298) ![](assets/new.png)  
 - [2022-05-11-推荐一个在后端给视频生成带动画字幕的技术方案？](https://www.v2ex.com/t/852297) ![](assets/new.png)  
 - [2022-05-11-远程工作者访谈：非科班出身全职远程开发者：生活才是人生的主要内容](https://www.v2ex.com/t/852296) ![](assets/new.png)  
 - [2022-05-11-求公平发牌的德州扑克-app，朋友局玩](https://www.v2ex.com/t/852294) ![](assets/new.png)  
 - [2022-05-11-关于"调整-Windows-的外观和性能"的一点疑问](https://www.v2ex.com/t/852293) ![](assets/new.png)  
 - [2022-05-11-请教一个-Python-修改-jpg-文件属性的问题](https://www.v2ex.com/t/852292) ![](assets/new.png)  
 - [2022-05-11-Kindle-oasis-3-越狱后装-koreader，翻页飞快](https://www.v2ex.com/t/852291) ![](assets/new.png)  
-- [2022-05-11-Netflix-巴西区拼车](https://www.v2ex.com/t/852290) ![](assets/new.png)  
 - [2022-05-11-Telegram-下载内容的问题。](https://www.v2ex.com/t/852289) ![](assets/new.png)  
 - [2022-05-11-有没有泉州老哥能对那个疑似白名单做一些更完整的测试？](https://www.v2ex.com/t/852288) ![](assets/new.png)  
 - [2022-05-11-「享做笔记」app-是如何实现将导入的-pdf-文件手写笔记后再导出的功能的？有没有类似的开源工具推荐？](https://www.v2ex.com/t/852286) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-05-11-eval-执行-lua-报错-user_script:1:-@user_script:-1:-Lua-redis-command-arguments-must-be-strings-or-integers](https://www.v2ex.com/t/852279) ![](assets/new.png)  
 - [2022-05-11-有没有讲中国古代历史的-b-站-up-主](https://www.v2ex.com/t/852278) ![](assets/new.png)  
 - [2022-05-11-iPhone-左上角的时间延迟](https://www.v2ex.com/t/852276) ![](assets/new.png)  
-- [2022-05-11-苹果什么时候修好这个-sb-bug？](https://www.v2ex.com/t/852275) ![](assets/new.png)  
-- [2022-05-11-如果你的-Xbox-精英手柄也不能配置](https://www.v2ex.com/t/852274) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

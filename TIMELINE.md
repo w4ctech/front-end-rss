@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-05-11 17:06:33。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-05-11 17:50:50。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -69,13 +69,15 @@
 
 
 - [【张鑫旭-鑫空间-鑫生活】2022-05-11-JS与条形码的生成](https://www.zhangxinxu.com/wordpress/2022/05/js-barcode/) 
+- [【V2EX】2022-05-11-2022-年的-Google-开发者大会直播讨论汇总贴。直播已经开始](https://www.v2ex.com/t/852300) 
+- [【V2EX】2022-05-11-一个对于管理的迷思](https://www.v2ex.com/t/852299) 
+- [【V2EX】2022-05-11-请问除了安全考虑，关闭-System-Integrity-Protection（SIP）会有什么坏处嘛？](https://www.v2ex.com/t/852298) 
 - [【V2EX】2022-05-11-推荐一个在后端给视频生成带动画字幕的技术方案？](https://www.v2ex.com/t/852297) 
 - [【V2EX】2022-05-11-远程工作者访谈：非科班出身全职远程开发者：生活才是人生的主要内容](https://www.v2ex.com/t/852296) 
 - [【V2EX】2022-05-11-求公平发牌的德州扑克-app，朋友局玩](https://www.v2ex.com/t/852294) 
 - [【V2EX】2022-05-11-关于"调整-Windows-的外观和性能"的一点疑问](https://www.v2ex.com/t/852293) 
 - [【V2EX】2022-05-11-请教一个-Python-修改-jpg-文件属性的问题](https://www.v2ex.com/t/852292) 
 - [【V2EX】2022-05-11-Kindle-oasis-3-越狱后装-koreader，翻页飞快](https://www.v2ex.com/t/852291) 
-- [【V2EX】2022-05-11-Netflix-巴西区拼车](https://www.v2ex.com/t/852290) 
 - [【V2EX】2022-05-11-Telegram-下载内容的问题。](https://www.v2ex.com/t/852289) 
 - [【V2EX】2022-05-11-有没有泉州老哥能对那个疑似白名单做一些更完整的测试？](https://www.v2ex.com/t/852288) 
 - [【V2EX】2022-05-11-「享做笔记」app-是如何实现将导入的-pdf-文件手写笔记后再导出的功能的？有没有类似的开源工具推荐？](https://www.v2ex.com/t/852286) 
@@ -105,9 +107,6 @@
 - [【V2EX】2022-05-11-索尼发布旗舰智能手机-Xperia-1-IV-等](https://www.v2ex.com/t/852253) 
 - [【V2EX】2022-05-11-请教一下，-macOS-上的-Safari-如何安装非-App-Store-上的-tampermonkey-扩展？](https://www.v2ex.com/t/852252) 
 - [【V2EX】2022-05-11-求教各位都是如何找到对象的,以及如何扩充社交圈?对肥宅来说](https://www.v2ex.com/t/852251) 
-- [【V2EX】2022-05-11-docker-版-transmission，为什么连不上-ipv6-的用户？](https://www.v2ex.com/t/852250) 
-- [【V2EX】2022-05-11-每周各种各样的周刊是我的精神食粮，收集了常读的周刊分享下](https://www.v2ex.com/t/852249) 
-- [【V2EX】2022-05-11-人在国内迫于语言能力请教大佬们出去的方法](https://www.v2ex.com/t/852248) 
 - [【技术头条】2022-05-11-App开放接口api安全：Token签名sign的设计与实现-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15085&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493985%26amp%3Bidx%3D2%26amp%3Bsn%3Dd7b1313ef4a0226295c81127ee22c958%26amp%3Bchksm%3Dfa3f083acd48812c339da2d4de950a0fda74f93663bc630c95de45f1f211ed7ec8aab67904fd%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-05-11-伪造邮件钓鱼，要知道的秘密！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15084&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493982%26amp%3Bidx%3D1%26amp%3Bsn%3D3f0b70405d32ee9faa4b706b930f4c28%26amp%3Bchksm%3Dfa3f0805cd4881138955b45d1bcad7a23c209bffe81a7a5b830802df75abe10454790e2ae03c%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-05-11-如何通过缓存来提升系统性能-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15083&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493982%26amp%3Bidx%3D2%26amp%3Bsn%3Dba44fde5dac86ee58162df9e9630cc8d%26amp%3Bchksm%3Dfa3f0805cd488113453f87304c6a52955bf0d4127f4d0262d2112d9499a323a322a90eee3c9e%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

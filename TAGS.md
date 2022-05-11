@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-05-11 09:14:48。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-05-11 09:42:22。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -208,7 +208,6 @@
 - [【张鑫旭-鑫空间-鑫生活】被低估的border-image属性](https://www.zhangxinxu.com/wordpress/2022/02/css-border-image-tap-highlight/)
 - [【张鑫旭-鑫空间-鑫生活】CSS-overflow-clip-margin属性简介](https://www.zhangxinxu.com/wordpress/2022/02/css-overflow-clip-margin/)
 - [【V2EX】请问-datalist-元素什么时候改成居中对齐了？](https://www.v2ex.com/t/852207)
-- [【V2EX】前段时间-v2-上发的一个问题帖子，找不到了。关于终端进度动画怎么实现的问题。](https://www.v2ex.com/t/852187)
 - [......【查看更多】......](./details/tags/css.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -355,7 +354,6 @@
 
 
 
-- [【V2EX】杭州-趣加招聘技术美术卡渲类-30k-~-60k](https://www.v2ex.com/t/852188)
 - [【技术头条】面试官提问三个Go接口的概念，-10年gopher竟无言以对-colobu.com](https://blogread.cn/news/go.php?idItem=15067&url=https%3A%2F%2Fcolobu.com%2F2022%2F01%2F16%2Fthree-new-concepts-of-go-interface-since-1-18%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [......【查看更多】......](./details/tags/job-interview.md)
 

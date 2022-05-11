@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-05-11 22:14:18。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-05-11 22:41:39。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -69,6 +69,7 @@
 
 
 - [【张鑫旭-鑫空间-鑫生活】2022-05-11-JS与条形码的生成](https://www.zhangxinxu.com/wordpress/2022/05/js-barcode/) 
+- [【V2EX】2022-05-11-喜大普奔,-Nvidia-开源了-GPU-驱动](https://www.v2ex.com/t/852309) 
 - [【V2EX】2022-05-11-cmd-如何删除网络接口](https://www.v2ex.com/t/852307) 
 - [【V2EX】2022-05-11-NVIDIA-发布了开源的驱动内核模块](https://www.v2ex.com/t/852305) 
 - [【V2EX】2022-05-11-有没有人看-Google-I/O-'22](https://www.v2ex.com/t/852304) 
@@ -142,8 +143,8 @@
 - [【开发者头条】2022-05-11-分布式架构之服务注册中心](https://toutiao.io/k/y29hml2) 
 - [【开发者头条】2022-05-11-用户留存建模实践](https://toutiao.io/k/z15g9z7) 
 - [【开发者头条】2022-05-11-Vite极速单元测试框架](https://toutiao.io/k/zjsttv4) 
-- [【开发者头条】2022-05-11-推荐-架构设计资料合集](https://toutiao.io/k/iqlrz7b) 
 - [【开发者头条】2022-05-11-推荐-15K-Star！Github-上最火的低代码开发平台！](https://toutiao.io/k/3qv24va) 
+- [【开发者头条】2022-05-11-推荐-架构设计资料合集](https://toutiao.io/k/iqlrz7b) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

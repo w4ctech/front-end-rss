@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-05-11 14:37:32。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-05-11 15:15:49。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1912,6 +1912,11 @@
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2022-03-21-ascent-override-descent-override-line-gap-override一锅端](https://www.zhangxinxu.com/wordpress/2022/03/css-ascent-override-descent/) 
+- [2022-05-11-请教一个-Python-修改-jpg-文件属性的问题](https://www.v2ex.com/t/852292) 
+- [2022-05-11-Kindle-oasis-3-越狱后装-koreader，翻页飞快](https://www.v2ex.com/t/852291) 
+- [2022-05-11-Netflix-巴西区拼车](https://www.v2ex.com/t/852290) 
+- [2022-05-11-Telegram-下载内容的问题。](https://www.v2ex.com/t/852289) 
+- [2022-05-11-有没有泉州老哥能对那个疑似白名单做一些更完整的测试？](https://www.v2ex.com/t/852288) 
 - [2022-05-11-「享做笔记」app-是如何实现将导入的-pdf-文件手写笔记后再导出的功能的？有没有类似的开源工具推荐？](https://www.v2ex.com/t/852286) 
 - [2022-05-11-又折腾博客了](https://www.v2ex.com/t/852285) 
 - [2022-05-11-内网开发私有-VScode-插件，如何更好的实现版本更新？](https://www.v2ex.com/t/852284) 
@@ -1941,10 +1946,6 @@
 - [2022-05-11-「API」名字里的这个-programming-或-programmable-是指什么？](https://www.v2ex.com/t/852245) 
 - [2022-05-11-为什么-IDC-无法拦截未备案域名](https://www.v2ex.com/t/852244) 
 - [2022-05-11-现在用什么搞网聊（正规的不正规的都行）比较好?](https://www.v2ex.com/t/852243) 
-- [2022-05-11-关于-BitTorrent-下载的疑问](https://www.v2ex.com/t/852242) 
-- [2022-05-11-有没有做海外约会-APP-的朋友？寻求合作。](https://www.v2ex.com/t/852241) 
-- [2022-05-11-发个帖，关于去-Shopee-新加坡的问题](https://www.v2ex.com/t/852240) 
-- [2022-05-11-保险-it-外包有什么好的出路](https://www.v2ex.com/t/852239) 
 - [2022-05-11-伪造邮件钓鱼，要知道的秘密！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15084&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493982%26amp%3Bidx%3D1%26amp%3Bsn%3D3f0b70405d32ee9faa4b706b930f4c28%26amp%3Bchksm%3Dfa3f0805cd4881138955b45d1bcad7a23c209bffe81a7a5b830802df75abe10454790e2ae03c%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-05-11-Python中有3个不可思议的返回功能-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15081&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493975%26amp%3Bidx%3D2%26amp%3Bsn%3D2b4a78bc62d07cf3f7536a20bec614e5%26amp%3Bchksm%3Dfa3f080ccd48811a7e4168138c1461ea9210bf9d3568a5037ef3a3d8f94a58683624b9a5ac26%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-05-11-IntelliJidea高效使用教程，一劳永逸！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15080&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493965%26amp%3Bidx%3D1%26amp%3Bsn%3D8b87c135960c0de28bca89c046cc8ac3%26amp%3Bchksm%3Dfa3f0816cd488100ac071f52f4222aabe09260ed1d13ebdf787df89c9be81e1950f86cab1a09%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1967,6 +1968,6 @@
 - [2022-05-11-凯文·凯利70岁生日的103条人生建议｜码农周刊VIP会员专属邮件周报-Vol.090](https://toutiao.io/k/d3q95iv) 
 - [2022-05-11-攻防对抗手册-红队（攻击方）实战攻防演习手册](https://toutiao.io/k/b14j4p0) 
 - [2022-05-11-分布式架构之服务注册中心](https://toutiao.io/k/y29hml2) 
-- [2022-05-11-Vite极速单元测试框架](https://toutiao.io/k/zjsttv4) 
 - [2022-05-11-用户留存建模实践](https://toutiao.io/k/z15g9z7) 
+- [2022-05-11-Vite极速单元测试框架](https://toutiao.io/k/zjsttv4) 
 - [2022-05-11-推荐-架构设计资料合集](https://toutiao.io/k/iqlrz7b) 

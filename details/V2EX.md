@@ -1,10 +1,15 @@
-:alarm_clock: 更新时间: 2022-05-11 14:37:32。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-05-11 15:15:49。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-05-11-请教一个-Python-修改-jpg-文件属性的问题](https://www.v2ex.com/t/852292) 
+- [2022-05-11-Kindle-oasis-3-越狱后装-koreader，翻页飞快](https://www.v2ex.com/t/852291) 
+- [2022-05-11-Netflix-巴西区拼车](https://www.v2ex.com/t/852290) 
+- [2022-05-11-Telegram-下载内容的问题。](https://www.v2ex.com/t/852289) 
+- [2022-05-11-有没有泉州老哥能对那个疑似白名单做一些更完整的测试？](https://www.v2ex.com/t/852288) 
 - [2022-05-11-「享做笔记」app-是如何实现将导入的-pdf-文件手写笔记后再导出的功能的？有没有类似的开源工具推荐？](https://www.v2ex.com/t/852286) 
 - [2022-05-11-又折腾博客了](https://www.v2ex.com/t/852285) 
 - [2022-05-11-内网开发私有-VScode-插件，如何更好的实现版本更新？](https://www.v2ex.com/t/852284) 
@@ -39,7 +44,3 @@
 - [2022-05-11-「API」名字里的这个-programming-或-programmable-是指什么？](https://www.v2ex.com/t/852245) 
 - [2022-05-11-为什么-IDC-无法拦截未备案域名](https://www.v2ex.com/t/852244) 
 - [2022-05-11-现在用什么搞网聊（正规的不正规的都行）比较好?](https://www.v2ex.com/t/852243) 
-- [2022-05-11-关于-BitTorrent-下载的疑问](https://www.v2ex.com/t/852242) 
-- [2022-05-11-有没有做海外约会-APP-的朋友？寻求合作。](https://www.v2ex.com/t/852241) 
-- [2022-05-11-发个帖，关于去-Shopee-新加坡的问题](https://www.v2ex.com/t/852240) 
-- [2022-05-11-保险-it-外包有什么好的出路](https://www.v2ex.com/t/852239) 

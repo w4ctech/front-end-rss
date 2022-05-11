@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-05-11 20:16:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-05-11 20:41:32。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1912,6 +1912,7 @@
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2022-03-21-ascent-override-descent-override-line-gap-override一锅端](https://www.zhangxinxu.com/wordpress/2022/03/css-ascent-override-descent/) 
+- [2022-05-11-NVIDIA-发布了开源的驱动内核模块](https://www.v2ex.com/t/852305) 
 - [2022-05-11-有没有人看-Google-I/O-'22](https://www.v2ex.com/t/852304) 
 - [2022-05-11-跨境电商独角兽-SHEIN-希音国内国外持续招人！新加坡研发中心福利超级加倍！包签证润新加坡！](https://www.v2ex.com/t/852303) 
 - [2022-05-11-同学的前端作业，大家觉得这代码什么水平？](https://www.v2ex.com/t/852302) 

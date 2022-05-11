@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-05-11 16:20:40。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-05-11 17:06:33。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,7 @@
 </summary>
 
 
+- [【张鑫旭-鑫空间-鑫生活】2022-05-11-JS与条形码的生成](https://www.zhangxinxu.com/wordpress/2022/05/js-barcode/) 
 - [【V2EX】2022-05-11-推荐一个在后端给视频生成带动画字幕的技术方案？](https://www.v2ex.com/t/852297) 
 - [【V2EX】2022-05-11-远程工作者访谈：非科班出身全职远程开发者：生活才是人生的主要内容](https://www.v2ex.com/t/852296) 
 - [【V2EX】2022-05-11-求公平发牌的德州扑克-app，朋友局玩](https://www.v2ex.com/t/852294) 
@@ -143,8 +144,8 @@
 - [【开发者头条】2022-05-11-分布式架构之服务注册中心](https://toutiao.io/k/y29hml2) 
 - [【开发者头条】2022-05-11-用户留存建模实践](https://toutiao.io/k/z15g9z7) 
 - [【开发者头条】2022-05-11-Vite极速单元测试框架](https://toutiao.io/k/zjsttv4) 
-- [【开发者头条】2022-05-11-推荐-15K-Star！Github-上最火的低代码开发平台！](https://toutiao.io/k/3qv24va) 
 - [【开发者头条】2022-05-11-推荐-架构设计资料合集](https://toutiao.io/k/iqlrz7b) 
+- [【开发者头条】2022-05-11-推荐-15K-Star！Github-上最火的低代码开发平台！](https://toutiao.io/k/3qv24va) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>
@@ -375,7 +376,6 @@
 - [【武汉肺炎防疫全纪录(财新网)】2022-02-01-德国未实现接种目标-奥地利强制接种疫苗法律生效｜大流行手记（1月31日）](https://m.caixin.com/m/2022-02-01/101837106.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2022-02-01-聚焦｜张文宏：未来抗疫，是努力夺回正常生活的过程](https://opinion.caixin.com/m/2022-02-01/101837206.html) 
 - [【张鑫旭-鑫空间-鑫生活】2022-02-25-被低估的border-image属性](https://www.zhangxinxu.com/wordpress/2022/02/css-border-image-tap-highlight/) 
-- [【张鑫旭-鑫空间-鑫生活】2022-02-20-CSS-overflow-clip-margin属性简介](https://www.zhangxinxu.com/wordpress/2022/02/css-overflow-clip-margin/) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

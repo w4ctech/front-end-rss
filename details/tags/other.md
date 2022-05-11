@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-05-11 10:15:42。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-05-11 10:45:03。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1912,6 +1912,9 @@
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2022-03-21-ascent-override-descent-override-line-gap-override一锅端](https://www.zhangxinxu.com/wordpress/2022/03/css-ascent-override-descent/) 
+- [2022-05-11-人在国内迫于语言能力请教大佬们出去的方法](https://www.v2ex.com/t/852248) 
+- [2022-05-11-V-友们，有谁知道前端外包每天都做什么的?](https://www.v2ex.com/t/852247) 
+- [2022-05-11-做核酸遇到插队的，说了感觉还不如不说](https://www.v2ex.com/t/852246) 
 - [2022-05-11-「API」名字里的这个-programming-或-programmable-是指什么？](https://www.v2ex.com/t/852245) 
 - [2022-05-11-为什么-IDC-无法拦截未备案域名](https://www.v2ex.com/t/852244) 
 - [2022-05-11-现在用什么搞网聊（正规的不正规的都行）比较好?](https://www.v2ex.com/t/852243) 
@@ -1944,8 +1947,6 @@
 - [2022-05-11-崩溃了，-NAS-总有一块硬盘一直在被-SMB-协议读取什么](https://www.v2ex.com/t/852201) 
 - [2022-05-11-帮卖车的发小刷单有风险吗](https://www.v2ex.com/t/852200) 
 - [2022-05-11-微信区真的比-QQ-区好上分吗？](https://www.v2ex.com/t/852199) 
-- [2022-05-11-有没有什么清热解毒的良方啊，一吃油炸的就热气](https://www.v2ex.com/t/852197) 
-- [2022-05-11-LineageOS-关闭-VoLTE-之后，别人电话就打不进来](https://www.v2ex.com/t/852196) 
 - [2022-05-11-伪造邮件钓鱼，要知道的秘密！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15084&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493982%26amp%3Bidx%3D1%26amp%3Bsn%3D3f0b70405d32ee9faa4b706b930f4c28%26amp%3Bchksm%3Dfa3f0805cd4881138955b45d1bcad7a23c209bffe81a7a5b830802df75abe10454790e2ae03c%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-05-11-Python中有3个不可思议的返回功能-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15081&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493975%26amp%3Bidx%3D2%26amp%3Bsn%3D2b4a78bc62d07cf3f7536a20bec614e5%26amp%3Bchksm%3Dfa3f080ccd48811a7e4168138c1461ea9210bf9d3568a5037ef3a3d8f94a58683624b9a5ac26%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-05-11-IntelliJidea高效使用教程，一劳永逸！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15080&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493965%26amp%3Bidx%3D1%26amp%3Bsn%3D8b87c135960c0de28bca89c046cc8ac3%26amp%3Bchksm%3Dfa3f0816cd488100ac071f52f4222aabe09260ed1d13ebdf787df89c9be81e1950f86cab1a09%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

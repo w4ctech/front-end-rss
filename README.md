@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-05-11 15:45:41，:rocket: 更新条数: +2022， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-05-11 16:20:40，:rocket: 更新条数: +2023， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-05-11-推荐一个在后端给视频生成带动画字幕的技术方案？](https://www.v2ex.com/t/852297) ![](assets/new.png)  
+- [2022-05-11-远程工作者访谈：非科班出身全职远程开发者：生活才是人生的主要内容](https://www.v2ex.com/t/852296) ![](assets/new.png)  
 - [2022-05-11-求公平发牌的德州扑克-app，朋友局玩](https://www.v2ex.com/t/852294) ![](assets/new.png)  
 - [2022-05-11-关于"调整-Windows-的外观和性能"的一点疑问](https://www.v2ex.com/t/852293) ![](assets/new.png)  
 - [2022-05-11-请教一个-Python-修改-jpg-文件属性的问题](https://www.v2ex.com/t/852292) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-05-11-iPhone-左上角的时间延迟](https://www.v2ex.com/t/852276) ![](assets/new.png)  
 - [2022-05-11-苹果什么时候修好这个-sb-bug？](https://www.v2ex.com/t/852275) ![](assets/new.png)  
 - [2022-05-11-如果你的-Xbox-精英手柄也不能配置](https://www.v2ex.com/t/852274) ![](assets/new.png)  
-- [2022-05-11-备考两年的专升本突然不能跨考计算机了，只能报考从来没有接触过的财经专业，-V-友们我该怎么准备呢？](https://www.v2ex.com/t/852273) ![](assets/new.png)  
-- [2022-05-11-世界第一网红-Pewdiepie-移居日本了](https://www.v2ex.com/t/852272) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -569,8 +569,8 @@
 - [2022-05-11-分布式架构之服务注册中心](https://toutiao.io/k/y29hml2) ![](assets/new.png)  
 - [2022-05-11-用户留存建模实践](https://toutiao.io/k/z15g9z7) ![](assets/new.png)  
 - [2022-05-11-Vite极速单元测试框架](https://toutiao.io/k/zjsttv4) ![](assets/new.png)  
-- [2022-05-11-推荐-架构设计资料合集](https://toutiao.io/k/iqlrz7b) ![](assets/new.png)  
 - [2022-05-11-推荐-15K-Star！Github-上最火的低代码开发平台！](https://toutiao.io/k/3qv24va) ![](assets/new.png)  
+- [2022-05-11-推荐-架构设计资料合集](https://toutiao.io/k/iqlrz7b) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

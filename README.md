@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-05-11 09:42:22，:rocket: 更新条数: +2020， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-05-11 10:15:42，:rocket: 更新条数: +2024， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,12 @@
 </summary>
 
 
+- [2022-05-11-「API」名字里的这个-programming-或-programmable-是指什么？](https://www.v2ex.com/t/852245) ![](assets/new.png)  
+- [2022-05-11-为什么-IDC-无法拦截未备案域名](https://www.v2ex.com/t/852244) ![](assets/new.png)  
+- [2022-05-11-现在用什么搞网聊（正规的不正规的都行）比较好?](https://www.v2ex.com/t/852243) ![](assets/new.png)  
+- [2022-05-11-关于-BitTorrent-下载的疑问](https://www.v2ex.com/t/852242) ![](assets/new.png)  
+- [2022-05-11-有没有做海外约会-APP-的朋友？寻求合作。](https://www.v2ex.com/t/852241) ![](assets/new.png)  
+- [2022-05-11-发个帖，关于去-Shopee-新加坡的问题](https://www.v2ex.com/t/852240) ![](assets/new.png)  
 - [2022-05-11-保险-it-外包有什么好的出路](https://www.v2ex.com/t/852239) ![](assets/new.png)  
 - [2022-05-11-“阿里小号”和月租很低的实体卡比，有什么优势么？（除了价格低，不占卡槽）](https://www.v2ex.com/t/852235) ![](assets/new.png)  
 - [2022-05-11-前端大专计算机专业-4-年经验，自考明年毕业，目前在腾讯云，求广深前端岗位](https://www.v2ex.com/t/852234) ![](assets/new.png)  
@@ -505,12 +511,6 @@
 - [2022-05-11-有没有跟我一样不会自我调节情绪的](https://www.v2ex.com/t/852223) ![](assets/new.png)  
 - [2022-05-11-观刘慈欣的诗云有感，想问问为什么没有画作解读社区](https://www.v2ex.com/t/852222) ![](assets/new.png)  
 - [2022-05-11-初次上手-Vue.js-开发效率确实高！从此跟-Jquery-说拜拜！](https://www.v2ex.com/t/852221) ![](assets/new.png)  
-- [2022-05-11-请教-thinkphp-除了官网，有什么社区吗？-类似-learnku-那种的](https://www.v2ex.com/t/852219) ![](assets/new.png)  
-- [2022-05-11-iPadOS-的-Spotlight-搜索的功能是放开了吗？](https://www.v2ex.com/t/852218) ![](assets/new.png)  
-- [2022-05-11-Python-有没有像-Zdir、H5ai-这样成熟的云盘目录开源项目](https://www.v2ex.com/t/852217) ![](assets/new.png)  
-- [2022-05-11-iphone13-和-13-寸-m1-mbp-麦克风哪个效果更高](https://www.v2ex.com/t/852216) ![](assets/new.png)  
-- [2022-05-11-外卖行业的隐私保护，是做样子吗？我应该如何投诉？](https://www.v2ex.com/t/852215) ![](assets/new.png)  
-- [2022-05-11-Google-现在可以使用手机（而不是密码）登录吗？](https://www.v2ex.com/t/852213) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -561,16 +561,16 @@
 - [2022-05-11-JDK9为何要将String的底层实现由char改成了byte？](https://toutiao.io/k/cfogfaq) ![](assets/new.png)  
 - [2022-05-11-继Python之后，Go也顺利在浏览器上运行](https://toutiao.io/k/oqes14y) ![](assets/new.png)  
 - [2022-05-11-Node.js-结合-MongoDB-实现字段级自动加密](https://toutiao.io/k/qn5abfm) ![](assets/new.png)  
-- [2022-05-11-详解用户画像与实时数仓的架构与实践](https://toutiao.io/k/yzboppn) ![](assets/new.png)  
 - [2022-05-11-一个脚本快速解决github在国内加载慢的问题~](https://toutiao.io/k/xqi041y) ![](assets/new.png)  
+- [2022-05-11-详解用户画像与实时数仓的架构与实践](https://toutiao.io/k/yzboppn) ![](assets/new.png)  
 - [2022-05-11-攻防对抗手册-红队（攻击方）实战攻防演习手册](https://toutiao.io/k/b14j4p0) ![](assets/new.png)  
 - [2022-05-11-凯文·凯利70岁生日的103条人生建议｜码农周刊VIP会员专属邮件周报-Vol.090](https://toutiao.io/k/d3q95iv) ![](assets/new.png)  
 - [2022-05-11-Redis分布式锁，你用对了吗？](https://toutiao.io/k/g9cbjfe) ![](assets/new.png)  
 - [2022-05-11-分布式架构之服务注册中心](https://toutiao.io/k/y29hml2) ![](assets/new.png)  
 - [2022-05-11-Vite极速单元测试框架](https://toutiao.io/k/zjsttv4) ![](assets/new.png)  
 - [2022-05-11-用户留存建模实践](https://toutiao.io/k/z15g9z7) ![](assets/new.png)  
-- [2022-05-11-推荐-15K-Star！Github-上最火的低代码开发平台！](https://toutiao.io/k/3qv24va) ![](assets/new.png)  
 - [2022-05-11-推荐-架构设计资料合集](https://toutiao.io/k/iqlrz7b) ![](assets/new.png)  
+- [2022-05-11-推荐-15K-Star！Github-上最火的低代码开发平台！](https://toutiao.io/k/3qv24va) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-05-12 03:05:18。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-05-12 03:59:07。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -71,7 +71,6 @@
 
 
 
-- [【V2EX】学了-3-天-Typescript-写了一个微信读书的-Obsidian-插件](https://www.v2ex.com/t/852317)
 - [......【查看更多】......](./details/tags/typescript.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -123,6 +122,7 @@
 
 
 
+- [【V2EX】请问代驾类小程序里开通微信支付的话，对营业执照的经营范围有要求吗？](https://www.v2ex.com/t/852373)
 - [【技术头条】一款微信小程序商城项目（附源码）-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15082&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493975%26amp%3Bidx%3D1%26amp%3Bsn%3D7e89181ce07395346941c7bebac391df%26amp%3Bchksm%3Dfa3f080ccd48811a817275c10735d395dfd42386f2a29d30907303510cf4efa294f8248d2055%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [......【查看更多】......](./details/tags/miniprogram.md)
 
@@ -140,7 +140,6 @@
 
 
 
-- [【V2EX】Flutter-3-发布，支持-iOS,-Android,-web,-Windows,-macOS,-Linux](https://www.v2ex.com/t/852315)
 - [......【查看更多】......](./details/tags/dev-mobile.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -185,8 +184,8 @@
 - [【张鑫旭-鑫空间-鑫生活】CSS实现滚动高度自动变小的粘滞效果](https://www.zhangxinxu.com/wordpress/2022/04/css-sticky-size-change/)
 - [【张鑫旭-鑫空间-鑫生活】基于howler.js写了个音频播放器组件](https://www.zhangxinxu.com/wordpress/2022/03/howler-js-audio-player/)
 - [【张鑫旭-鑫空间-鑫生活】介绍8个和滚动相关的CSS属性](https://www.zhangxinxu.com/wordpress/2022/03/10-css-scroll-scrollbar/)
+- [【V2EX】区块链行业扩编全职招聘/海外远程-薪资-OPEN-Java-/PM/H5-前端/UIUX](https://www.v2ex.com/t/852371)
 - [【V2EX】js-有什么优雅的方法可以在处理-json-数组的时候只改变其中一个键值对的值并且自动保留其他的键值对不变吗](https://www.v2ex.com/t/852327)
-- [【V2EX】NVIDIA-Releases-Open-Source-GPU-Kernel-Modules](https://www.v2ex.com/t/852310)
 - [【技术头条】Promise必备知识汇总和面试情况-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15079&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493965%26amp%3Bidx%3D2%26amp%3Bsn%3Df9e6a81a83f12f514fd7816a6aa8db51%26amp%3Bchksm%3Dfa3f0816cd488100e7457a564b15183e835042d0e03b42e9c145b196355be1b141bd726cd89b%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【开发者头条】如何基于-WebComponents-封装-UI-组件库](https://toutiao.io/k/5r0fgti)
 - [......【查看更多】......](./details/tags/javascript.md)
@@ -286,7 +285,6 @@
 - [【武汉肺炎防疫全纪录(财新网)】大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html)
 - [【V2EX】VMware-虚拟机运行中，实体主机被关机了，这种情况下虚拟机会被挂起，请教一下这种操作安全吗？虚拟主机会不会有挂掉，丢文件，或则再也起不来的可能性？](https://www.v2ex.com/t/852334)
 - [【V2EX】没有-NAT，-IPV6-的是否会带来更多的安全问题？](https://www.v2ex.com/t/852332)
-- [【V2EX】Chrome-最新版怎么取消了这两个-flag？](https://www.v2ex.com/t/852311)
 - [【技术头条】App开放接口api安全：Token签名sign的设计与实现-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15085&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493985%26amp%3Bidx%3D2%26amp%3Bsn%3Dd7b1313ef4a0226295c81127ee22c958%26amp%3Bchksm%3Dfa3f083acd48812c339da2d4de950a0fda74f93663bc630c95de45f1f211ed7ec8aab67904fd%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【技术头条】深入业务场景，解决业务安全风险-www.sec-un.org](https://blogread.cn/news/go.php?idItem=15070&url=https%3A%2F%2Fwww.sec-un.org%2F%25e6%25b7%25b1%25e5%2585%25a5%25e4%25b8%259a%25e5%258a%25a1%25e5%259c%25ba%25e6%2599%25af%25ef%25bc%258c%25e8%25a7%25a3%25e5%2586%25b3%25e4%25b8%259a%25e5%258a%25a1%25e5%25ae%2589%25e5%2585%25a8%25e9%25a3%258e%25e9%2599%25a9%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [......【查看更多】......](./details/tags/browser.md)
@@ -305,9 +303,6 @@
 
 
 
-- [【V2EX】NVIM-LSP-跳转到依赖库，启动了多个-LSP-服务问题](https://www.v2ex.com/t/852325)
-- [【V2EX】Podcasts-for-macOS-浏览-被墙](https://www.v2ex.com/t/852313)
-- [【V2EX】喜大普奔,-Nvidia-开源了-GPU-驱动](https://www.v2ex.com/t/852309)
 - [【技术头条】带猜测的二分查找算法-blog.codingnow.com](https://blogread.cn/news/go.php?idItem=15071&url=https%3A%2F%2Fblog.codingnow.com%2F2021%2F06%2Fbinary_search_by_guess.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 
@@ -341,6 +336,7 @@
 
 
 
+- [【V2EX】有办法删除-GitHub-上已经被-closed（未被-merge）的-pull-request-吗？](https://www.v2ex.com/t/852361)
 - [【开发者头条】推荐-15K-Star！Github-上最火的低代码开发平台！](https://toutiao.io/k/3qv24va)
 - [......【查看更多】......](./details/tags/git-svn.md)
 
@@ -358,8 +354,9 @@
 
 
 
+- [【V2EX】招聘-小鱼易连西安研发中心---Android/iOS/Win/QT](https://www.v2ex.com/t/852372)
+- [【V2EX】西安-SAP-Labs-Xi'an-招聘](https://www.v2ex.com/t/852357)
 - [【V2EX】上海字节跳动招聘-高级-SRE-运维工程师](https://www.v2ex.com/t/852352)
-- [【V2EX】上海/北京/成都-天翼云存储管控招聘](https://www.v2ex.com/t/852318)
 - [【技术头条】面试官提问三个Go接口的概念，-10年gopher竟无言以对-colobu.com](https://blogread.cn/news/go.php?idItem=15067&url=https%3A%2F%2Fcolobu.com%2F2022%2F01%2F16%2Fthree-new-concepts-of-go-interface-since-1-18%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [......【查看更多】......](./details/tags/job-interview.md)
 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-05-12 09:15:22，:rocket: 更新条数: +2032， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-05-12 09:42:39，:rocket: 更新条数: +2031， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,11 @@
 </summary>
 
 
+- [2022-05-12-Amazon-Prime-Video-上租或者购买的电影可以下载吗](https://www.v2ex.com/t/852463) ![](assets/new.png)  
+- [2022-05-12-深圳三档社保如何转三甲医院门诊？](https://www.v2ex.com/t/852462) ![](assets/new.png)  
+- [2022-05-12-想问下你们在深圳回老家，拼车的渠道怎么获取？](https://www.v2ex.com/t/852461) ![](assets/new.png)  
+- [2022-05-12-Mac-升级-monterey-后-ai-文件-quicklook-预览的软件失效了，有什么替代方法？](https://www.v2ex.com/t/852460) ![](assets/new.png)  
+- [2022-05-12-请问-Qt5-使用-QWebEngineView-打开网址后，界面中内容无法点击操作的问题](https://www.v2ex.com/t/852459) ![](assets/new.png)  
 - [2022-05-12-百度也收录内容农场了…怎么屏蔽呢](https://www.v2ex.com/t/852457) ![](assets/new.png)  
 - [2022-05-12-请问注册多久才可以发图片啊？](https://www.v2ex.com/t/852456) ![](assets/new.png)  
 - [2022-05-12-看到-钓鱼网站-大家选择怎么做？](https://www.v2ex.com/t/852455) ![](assets/new.png)  
@@ -506,11 +511,6 @@
 - [2022-05-12-iPhone-使用联通数据流量时收不到任何推送的解决办法](https://www.v2ex.com/t/852443) ![](assets/new.png)  
 - [2022-05-12-sql-server-如何做主从数据库](https://www.v2ex.com/t/852442) ![](assets/new.png)  
 - [2022-05-12-如何通过-Java-调用扫描仪，获取扫描后的图片，然后上传到服务器？](https://www.v2ex.com/t/852441) ![](assets/new.png)  
-- [2022-05-12-如果微信适配到-API32](https://www.v2ex.com/t/852440) ![](assets/new.png)  
-- [2022-05-12-还有人在用-Sandboxie-Plus-运行-QQ-吗，我更新了下跑不起来了](https://www.v2ex.com/t/852439) ![](assets/new.png)  
-- [2022-05-12-软路由-zerotier-为啥会影响自己的外网延迟](https://www.v2ex.com/t/852438) ![](assets/new.png)  
-- [2022-05-12-咖啡相关的-app-推荐](https://www.v2ex.com/t/852437) ![](assets/new.png)  
-- [2022-05-12-求一个支持-openid-的权限控制开源服务](https://www.v2ex.com/t/852436) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -557,22 +557,22 @@
 - [2022-05-12-聊聊我们是如何做系统保障方案的](https://toutiao.io/k/i8q3ye4) ![](assets/new.png)  
 - [2022-05-12-3种方式！Go-Error处理最佳实践](https://toutiao.io/k/crmxg9t) ![](assets/new.png)  
 - [2022-05-12-博文推荐｜Pulsar-独立集群如何实现单一、共享-BookKeeper](https://toutiao.io/k/cgutegh) ![](assets/new.png)  
-- [2022-05-12-基于开源IM即时通讯框架MobileIMSDK：RainbowChat-v8.1版已发布](https://toutiao.io/k/22j49tg) ![](assets/new.png)  
 - [2022-05-12-技术分享-|-集成开放平台基于ABP框架的多租户模式实现多团队](https://toutiao.io/k/ucdhegf) ![](assets/new.png)  
+- [2022-05-12-基于开源IM即时通讯框架MobileIMSDK：RainbowChat-v8.1版已发布](https://toutiao.io/k/22j49tg) ![](assets/new.png)  
 - [2022-05-12-TensorFlow决策森林构建GBDT（Python）](https://toutiao.io/k/9xnh49u) ![](assets/new.png)  
-- [2022-05-12-CUPID---for-joyful-coding-快乐的编程](https://toutiao.io/k/3jzqtse) ![](assets/new.png)  
 - [2022-05-12-NAT-穿透是如何工作的：技术原理及企业级实践](https://toutiao.io/k/unwgfa0) ![](assets/new.png)  
+- [2022-05-12-CUPID---for-joyful-coding-快乐的编程](https://toutiao.io/k/3jzqtse) ![](assets/new.png)  
 - [2022-05-12-“炫技”还是“真硬核”，OpenPPL-实测阿里「倚天-710」芯片](https://toutiao.io/k/ie5wic6) ![](assets/new.png)  
 - [2022-05-12-如何基于-WebComponents-封装-UI-组件库](https://toutiao.io/k/5r0fgti) ![](assets/new.png)  
 - [2022-05-12-相爱相杀之DPM在数仓建设中的作用](https://toutiao.io/k/i9jai67) ![](assets/new.png)  
 - [2022-05-12-SOFA-Serverless-体系助力业务极速研发](https://toutiao.io/k/gzpbcbp) ![](assets/new.png)  
 - [2022-05-12-智能运维应用之道，告别企业数字化转型危机](https://toutiao.io/k/h5n1vxi) ![](assets/new.png)  
 - [2022-05-12-4-种主流的-API-架构风格对比:-SOAP-vs-REST-vs-GraphQL-vs-RPC](https://toutiao.io/k/hydzart) ![](assets/new.png)  
-- [2022-05-12-预期功能安全（SOTIF）的应用](https://toutiao.io/k/qdx4a0w) ![](assets/new.png)  
 - [2022-05-12-部署流水线解析](https://toutiao.io/k/am2ppf9) ![](assets/new.png)  
+- [2022-05-12-预期功能安全（SOTIF）的应用](https://toutiao.io/k/qdx4a0w) ![](assets/new.png)  
 - [2022-05-12-云原生数仓如何破解大规模集群的关联查询性能问题？](https://toutiao.io/k/u3tx0pg) ![](assets/new.png)  
-- [2022-05-12-推荐-架构设计资料合集](https://toutiao.io/k/iqlrz7b) ![](assets/new.png)  
 - [2022-05-12-推荐-15K-Star！Github-上最火的低代码开发平台！](https://toutiao.io/k/3qv24va) ![](assets/new.png)  
+- [2022-05-12-推荐-架构设计资料合集](https://toutiao.io/k/iqlrz7b) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

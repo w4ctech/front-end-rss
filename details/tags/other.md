@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-05-12 14:01:43。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-05-12 14:23:48。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1912,6 +1912,9 @@
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2022-03-21-ascent-override-descent-override-line-gap-override一锅端](https://www.zhangxinxu.com/wordpress/2022/03/css-ascent-override-descent/) 
+- [2022-05-12-问题请教，-airpods-一不小心在洗衣机洗了，-AC+还没过期，可以直接去加钱换新吗](https://www.v2ex.com/t/852515) 
+- [2022-05-12-mac-如何监控一个-plist-文件内容的更改-历史和-diff-对比](https://www.v2ex.com/t/852514) 
+- [2022-05-12-面向-Web3-开发者的-DAO-奠基人邀约](https://www.v2ex.com/t/852513) 
 - [2022-05-12-m1-Mac-mini-外接显示器黑屏](https://www.v2ex.com/t/852511) 
 - [2022-05-12-谷歌这邮件，故意的吧，差点吓死个人，](https://www.v2ex.com/t/852510) 
 - [2022-05-12-offer-选择，车企-vs-工业互联网-vs-华为-OD](https://www.v2ex.com/t/852508) 
@@ -1959,9 +1962,9 @@
 - [2022-05-12-博文推荐｜Pulsar-独立集群如何实现单一、共享-BookKeeper](https://toutiao.io/k/cgutegh) 
 - [2022-05-12-技术分享-|-集成开放平台基于ABP框架的多租户模式实现多团队](https://toutiao.io/k/ucdhegf) 
 - [2022-05-12-NAT-穿透是如何工作的：技术原理及企业级实践](https://toutiao.io/k/unwgfa0) 
+- [2022-05-12-相爱相杀之DPM在数仓建设中的作用](https://toutiao.io/k/i9jai67) 
 - [2022-05-12-CUPID---for-joyful-coding-快乐的编程](https://toutiao.io/k/3jzqtse) 
 - [2022-05-12-“炫技”还是“真硬核”，OpenPPL-实测阿里「倚天-710」芯片](https://toutiao.io/k/ie5wic6) 
-- [2022-05-12-相爱相杀之DPM在数仓建设中的作用](https://toutiao.io/k/i9jai67) 
 - [2022-05-12-智能运维应用之道，告别企业数字化转型危机](https://toutiao.io/k/h5n1vxi) 
 - [2022-05-12-部署流水线解析](https://toutiao.io/k/am2ppf9) 
 - [2022-05-12-推荐-架构设计资料合集](https://toutiao.io/k/iqlrz7b) 

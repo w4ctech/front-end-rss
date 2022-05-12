@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-05-12 06:51:36。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-05-12 07:15:30。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1912,6 +1912,12 @@
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2022-03-21-ascent-override-descent-override-line-gap-override一锅端](https://www.zhangxinxu.com/wordpress/2022/03/css-ascent-override-descent/) 
+- [2022-05-12-想搞个智能外呼系统，有推荐的](https://www.v2ex.com/t/852425) 
+- [2022-05-12-关于-YouTube-premium-验证地址问题，求经验解答！](https://www.v2ex.com/t/852424) 
+- [2022-05-12-B-站出-PC-客户端了，感觉还不错？](https://www.v2ex.com/t/852423) 
+- [2022-05-12-.netcore3.1-如何使用自己的-so-文件？](https://www.v2ex.com/t/852421) 
+- [2022-05-12-有什么办法可以获取某个地区的当地微信群？](https://www.v2ex.com/t/852420) 
+- [2022-05-12-你参与过的项目分支管理策略是怎样的](https://www.v2ex.com/t/852419) 
 - [2022-05-12-各位玩塞尔达传说：旷野之息都是用的什么手柄？](https://www.v2ex.com/t/852418) 
 - [2022-05-12-音乐垂直领域的一款练习-APP](https://www.v2ex.com/t/852417) 
 - [2022-05-12-Superlist-在-Google-I/O-2022-上的演示](https://www.v2ex.com/t/852416) 
@@ -1945,10 +1951,6 @@
 - [2022-05-12-突破千兆外网的低成本思路，帮看看是否可行](https://www.v2ex.com/t/852382) 
 - [2022-05-12-关于-Java-很啰嗦的问题](https://www.v2ex.com/t/852381) 
 - [2022-05-12-难难难，北京社保要断了](https://www.v2ex.com/t/852380) 
-- [2022-05-12-ubuntu-server-频繁更新会不会经常需要重启？](https://www.v2ex.com/t/852377) 
-- [2022-05-12-知乎邮箱登录突然区分了大小写](https://www.v2ex.com/t/852376) 
-- [2022-05-12-mac-下除了-navicat-还有其他支持-mysql-结构同步的软件吗？](https://www.v2ex.com/t/852370) 
-- [2022-05-12-不同商户（比如美团、京东等）陆续开通数字人民币交易补贴，这个钱是数字人民币补贴的吗？若是商户自己补贴的意义是啥呢？-如果是数字人民币补贴的，那要怎么申...](https://www.v2ex.com/t/852369) 
 - [2022-05-12-伪造邮件钓鱼，要知道的秘密！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15084&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493982%26amp%3Bidx%3D1%26amp%3Bsn%3D3f0b70405d32ee9faa4b706b930f4c28%26amp%3Bchksm%3Dfa3f0805cd4881138955b45d1bcad7a23c209bffe81a7a5b830802df75abe10454790e2ae03c%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-05-12-Python中有3个不可思议的返回功能-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15081&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493975%26amp%3Bidx%3D2%26amp%3Bsn%3D2b4a78bc62d07cf3f7536a20bec614e5%26amp%3Bchksm%3Dfa3f080ccd48811a7e4168138c1461ea9210bf9d3568a5037ef3a3d8f94a58683624b9a5ac26%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-05-12-IntelliJidea高效使用教程，一劳永逸！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15080&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493965%26amp%3Bidx%3D1%26amp%3Bsn%3D8b87c135960c0de28bca89c046cc8ac3%26amp%3Bchksm%3Dfa3f0816cd488100ac071f52f4222aabe09260ed1d13ebdf787df89c9be81e1950f86cab1a09%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

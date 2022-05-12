@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-05-12 14:23:48。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-05-12 14:41:52。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1912,6 +1912,9 @@
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2022-03-21-ascent-override-descent-override-line-gap-override一锅端](https://www.zhangxinxu.com/wordpress/2022/03/css-ascent-override-descent/) 
+- [2022-05-12-海南要有第二条国际海底光缆了](https://www.v2ex.com/t/852521) 
+- [2022-05-12-.net6-里有没有什么办法能自动调用静态构造函数吗?](https://www.v2ex.com/t/852520) 
+- [2022-05-12-时不时地，谷歌商店无法下载/更新是怎么回事](https://www.v2ex.com/t/852518) 
 - [2022-05-12-问题请教，-airpods-一不小心在洗衣机洗了，-AC+还没过期，可以直接去加钱换新吗](https://www.v2ex.com/t/852515) 
 - [2022-05-12-mac-如何监控一个-plist-文件内容的更改-历史和-diff-对比](https://www.v2ex.com/t/852514) 
 - [2022-05-12-面向-Web3-开发者的-DAO-奠基人邀约](https://www.v2ex.com/t/852513) 
@@ -1939,10 +1942,6 @@
 - [2022-05-12-接到推销电话，帮还房贷，房贷转移是什么操作](https://www.v2ex.com/t/852477) 
 - [2022-05-12-来参与腾讯年度开源软件贡献活动，获得丰富礼品和证书](https://www.v2ex.com/t/852476) 
 - [2022-05-12-内推头部币圈公司-海外/国内-抓紧上车](https://www.v2ex.com/t/852475) 
-- [2022-05-12-tornado-框架大佬求入](https://www.v2ex.com/t/852470) 
-- [2022-05-12-共同探讨：-Cloudflare-是怎么识别出来我是服务器环境的？](https://www.v2ex.com/t/852469) 
-- [2022-05-12-如何将云端服务器上的数据，同步到各自的终端服务器上？](https://www.v2ex.com/t/852468) 
-- [2022-05-12-如何从省市区县地名里面提取出最关键的名称进行地名匹配？](https://www.v2ex.com/t/852467) 
 - [2022-05-12-伪造邮件钓鱼，要知道的秘密！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15084&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493982%26amp%3Bidx%3D1%26amp%3Bsn%3D3f0b70405d32ee9faa4b706b930f4c28%26amp%3Bchksm%3Dfa3f0805cd4881138955b45d1bcad7a23c209bffe81a7a5b830802df75abe10454790e2ae03c%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-05-12-Python中有3个不可思议的返回功能-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15081&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493975%26amp%3Bidx%3D2%26amp%3Bsn%3D2b4a78bc62d07cf3f7536a20bec614e5%26amp%3Bchksm%3Dfa3f080ccd48811a7e4168138c1461ea9210bf9d3568a5037ef3a3d8f94a58683624b9a5ac26%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-05-12-IntelliJidea高效使用教程，一劳永逸！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15080&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493965%26amp%3Bidx%3D1%26amp%3Bsn%3D8b87c135960c0de28bca89c046cc8ac3%26amp%3Bchksm%3Dfa3f0816cd488100ac071f52f4222aabe09260ed1d13ebdf787df89c9be81e1950f86cab1a09%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

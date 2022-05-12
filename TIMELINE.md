@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-05-12 14:23:48。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-05-12 14:41:52。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -69,6 +69,11 @@
 
 
 - [【张鑫旭-鑫空间-鑫生活】2022-05-11-JS与条形码的生成](https://www.zhangxinxu.com/wordpress/2022/05/js-barcode/) 
+- [【V2EX】2022-05-12-海南要有第二条国际海底光缆了](https://www.v2ex.com/t/852521) 
+- [【V2EX】2022-05-12-.net6-里有没有什么办法能自动调用静态构造函数吗?](https://www.v2ex.com/t/852520) 
+- [【V2EX】2022-05-12-吐槽这个世界上为什么会有-Tailwind-Css-这种东西？](https://www.v2ex.com/t/852519) 
+- [【V2EX】2022-05-12-时不时地，谷歌商店无法下载/更新是怎么回事](https://www.v2ex.com/t/852518) 
+- [【V2EX】2022-05-12-事件驱动-IO-和信号驱动-IO-的区别是-前者内核在数据可读后通知-select-进程，-select-进程再通知用户进程-而后者直接通知用户进程吗？](https://www.v2ex.com/t/852516) 
 - [【V2EX】2022-05-12-问题请教，-airpods-一不小心在洗衣机洗了，-AC+还没过期，可以直接去加钱换新吗](https://www.v2ex.com/t/852515) 
 - [【V2EX】2022-05-12-mac-如何监控一个-plist-文件内容的更改-历史和-diff-对比](https://www.v2ex.com/t/852514) 
 - [【V2EX】2022-05-12-面向-Web3-开发者的-DAO-奠基人邀约](https://www.v2ex.com/t/852513) 
@@ -102,10 +107,6 @@
 - [【V2EX】2022-05-12-内推头部币圈公司-海外/国内-抓紧上车](https://www.v2ex.com/t/852475) 
 - [【V2EX】2022-05-12-蓝湖-+-MasterGo-工程师可以围观一下](https://www.v2ex.com/t/852473) 
 - [【V2EX】2022-05-12-想问问有没有讲述世界战争、pk-对战、赌局比赛、智斗等等生动一点点的博主视频](https://www.v2ex.com/t/852472) 
-- [【V2EX】2022-05-12-tornado-框架大佬求入](https://www.v2ex.com/t/852470) 
-- [【V2EX】2022-05-12-共同探讨：-Cloudflare-是怎么识别出来我是服务器环境的？](https://www.v2ex.com/t/852469) 
-- [【V2EX】2022-05-12-如何将云端服务器上的数据，同步到各自的终端服务器上？](https://www.v2ex.com/t/852468) 
-- [【V2EX】2022-05-12-如何从省市区县地名里面提取出最关键的名称进行地名匹配？](https://www.v2ex.com/t/852467) 
 - [【技术头条】2022-05-12-App开放接口api安全：Token签名sign的设计与实现-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15085&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493985%26amp%3Bidx%3D2%26amp%3Bsn%3Dd7b1313ef4a0226295c81127ee22c958%26amp%3Bchksm%3Dfa3f083acd48812c339da2d4de950a0fda74f93663bc630c95de45f1f211ed7ec8aab67904fd%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-05-12-伪造邮件钓鱼，要知道的秘密！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15084&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493982%26amp%3Bidx%3D1%26amp%3Bsn%3D3f0b70405d32ee9faa4b706b930f4c28%26amp%3Bchksm%3Dfa3f0805cd4881138955b45d1bcad7a23c209bffe81a7a5b830802df75abe10454790e2ae03c%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-05-12-如何通过缓存来提升系统性能-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15083&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493982%26amp%3Bidx%3D2%26amp%3Bsn%3Dba44fde5dac86ee58162df9e9630cc8d%26amp%3Bchksm%3Dfa3f0805cd488113453f87304c6a52955bf0d4127f4d0262d2112d9499a323a322a90eee3c9e%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -132,8 +133,8 @@
 - [【开发者头条】2022-05-12-博文推荐｜Pulsar-独立集群如何实现单一、共享-BookKeeper](https://toutiao.io/k/cgutegh) 
 - [【开发者头条】2022-05-12-技术分享-|-集成开放平台基于ABP框架的多租户模式实现多团队](https://toutiao.io/k/ucdhegf) 
 - [【开发者头条】2022-05-12-NAT-穿透是如何工作的：技术原理及企业级实践](https://toutiao.io/k/unwgfa0) 
-- [【开发者头条】2022-05-12-基于开源IM即时通讯框架MobileIMSDK：RainbowChat-v8.1版已发布](https://toutiao.io/k/22j49tg) 
 - [【开发者头条】2022-05-12-如何基于-WebComponents-封装-UI-组件库](https://toutiao.io/k/5r0fgti) 
+- [【开发者头条】2022-05-12-基于开源IM即时通讯框架MobileIMSDK：RainbowChat-v8.1版已发布](https://toutiao.io/k/22j49tg) 
 - [【开发者头条】2022-05-12-TensorFlow决策森林构建GBDT（Python）](https://toutiao.io/k/9xnh49u) 
 - [【开发者头条】2022-05-12-相爱相杀之DPM在数仓建设中的作用](https://toutiao.io/k/i9jai67) 
 - [【开发者头条】2022-05-12-CUPID---for-joyful-coding-快乐的编程](https://toutiao.io/k/3jzqtse) 
@@ -144,8 +145,8 @@
 - [【开发者头条】2022-05-12-部署流水线解析](https://toutiao.io/k/am2ppf9) 
 - [【开发者头条】2022-05-12-云原生数仓如何破解大规模集群的关联查询性能问题？](https://toutiao.io/k/u3tx0pg) 
 - [【开发者头条】2022-05-12-预期功能安全（SOTIF）的应用](https://toutiao.io/k/qdx4a0w) 
-- [【开发者头条】2022-05-12-推荐-15K-Star！Github-上最火的低代码开发平台！](https://toutiao.io/k/3qv24va) 
 - [【开发者头条】2022-05-12-推荐-架构设计资料合集](https://toutiao.io/k/iqlrz7b) 
+- [【开发者头条】2022-05-12-推荐-15K-Star！Github-上最火的低代码开发平台！](https://toutiao.io/k/3qv24va) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

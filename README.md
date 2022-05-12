@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-05-12 07:15:30，:rocket: 更新条数: +2030， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-05-12 07:40:03，:rocket: 更新条数: +2031， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,12 @@
 </summary>
 
 
+- [2022-05-12-C-语言关于-%d-的一个问题](https://www.v2ex.com/t/852434) ![](assets/new.png)  
+- [2022-05-12-自建全套开源-Devops-实践](https://www.v2ex.com/t/852433) ![](assets/new.png)  
+- [2022-05-12-寻找一个提供常见开发工具代理配置的开源项目](https://www.v2ex.com/t/852432) ![](assets/new.png)  
+- [2022-05-12-mysc.---花了七个月和-V2EX-站友一起做的记录工具上架了](https://www.v2ex.com/t/852431) ![](assets/new.png)  
+- [2022-05-12-微信的一个奇怪现象](https://www.v2ex.com/t/852430) ![](assets/new.png)  
+- [2022-05-12-现在-Mac-mini-的性能怎么样？可以当开发机用么？](https://www.v2ex.com/t/852429) ![](assets/new.png)  
 - [2022-05-12-lastpass-信用卡支付失败，求解](https://www.v2ex.com/t/852427) ![](assets/new.png)  
 - [2022-05-12-js-中-foreach,map,find,filter,reduce-的适用场景分别是哪些？](https://www.v2ex.com/t/852426) ![](assets/new.png)  
 - [2022-05-12-想搞个智能外呼系统，有推荐的](https://www.v2ex.com/t/852425) ![](assets/new.png)  
@@ -505,12 +511,6 @@
 - [2022-05-12-上海电信企业宽带（6K-多一年那种）有-ipv6-地址吗？](https://www.v2ex.com/t/852415) ![](assets/new.png)  
 - [2022-05-12-求助：关于-wps-中输入中文时的输入框问题](https://www.v2ex.com/t/852414) ![](assets/new.png)  
 - [2022-05-12-比特币-开始暴跌了](https://www.v2ex.com/t/852413) ![](assets/new.png)  
-- [2022-05-12-Win11-睡死/睡眠时-9F-蓝屏](https://www.v2ex.com/t/852412) ![](assets/new.png)  
-- [2022-05-12-老想着做什么挣钱，是不是错了，应该先考虑如何提高自己的认知，大家觉得是这样吗？](https://www.v2ex.com/t/852411) ![](assets/new.png)  
-- [2022-05-12-请问现在有无办法在-windows-下创建-ipv6-热点共享给其他设备](https://www.v2ex.com/t/852410) ![](assets/new.png)  
-- [2022-05-12-一些语言中-String-的坑](https://www.v2ex.com/t/852409) ![](assets/new.png)  
-- [2022-05-12-国内目前有哪些架站平台?非自定义域名](https://www.v2ex.com/t/852408) ![](assets/new.png)  
-- [2022-05-12-上海字节跳动招聘-Mac-开发工程师-—-飞书](https://www.v2ex.com/t/852407) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

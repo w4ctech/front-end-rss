@@ -1,10 +1,16 @@
-:alarm_clock: 更新时间: 2022-05-12 07:15:31。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-05-12 07:40:03。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-05-12-C-语言关于-%d-的一个问题](https://www.v2ex.com/t/852434) 
+- [2022-05-12-自建全套开源-Devops-实践](https://www.v2ex.com/t/852433) 
+- [2022-05-12-寻找一个提供常见开发工具代理配置的开源项目](https://www.v2ex.com/t/852432) 
+- [2022-05-12-mysc.---花了七个月和-V2EX-站友一起做的记录工具上架了](https://www.v2ex.com/t/852431) 
+- [2022-05-12-微信的一个奇怪现象](https://www.v2ex.com/t/852430) 
+- [2022-05-12-现在-Mac-mini-的性能怎么样？可以当开发机用么？](https://www.v2ex.com/t/852429) 
 - [2022-05-12-lastpass-信用卡支付失败，求解](https://www.v2ex.com/t/852427) 
 - [2022-05-12-js-中-foreach,map,find,filter,reduce-的适用场景分别是哪些？](https://www.v2ex.com/t/852426) 
 - [2022-05-12-想搞个智能外呼系统，有推荐的](https://www.v2ex.com/t/852425) 
@@ -44,8 +50,3 @@
 - [2022-05-12-AirPods-Pro-固件升级](https://www.v2ex.com/t/852387) 
 - [2022-05-12-大家有啥有趣的实例可以推荐](https://www.v2ex.com/t/852386) 
 - [2022-05-12-repo.maven.apache.org-域名被成都电信-DNS-Server-解析成-127.0.0.1](https://www.v2ex.com/t/852385) 
-- [2022-05-12-桌面文件夹设置在机械盘性能影响大吗？](https://www.v2ex.com/t/852384) 
-- [2022-05-12-有什么自动化上传小孩核酸报告的方案](https://www.v2ex.com/t/852383) 
-- [2022-05-12-突破千兆外网的低成本思路，帮看看是否可行](https://www.v2ex.com/t/852382) 
-- [2022-05-12-关于-Java-很啰嗦的问题](https://www.v2ex.com/t/852381) 
-- [2022-05-12-难难难，北京社保要断了](https://www.v2ex.com/t/852380) 

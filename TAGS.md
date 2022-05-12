@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-05-12 06:19:23。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-05-12 06:51:36。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -337,7 +337,6 @@
 
 
 
-- [【V2EX】有办法删除-GitHub-上已经被-closed（未被-merge）的-pull-request-吗？](https://www.v2ex.com/t/852361)
 - [【开发者头条】推荐-15K-Star！Github-上最火的低代码开发平台！](https://toutiao.io/k/3qv24va)
 - [......【查看更多】......](./details/tags/git-svn.md)
 

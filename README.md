@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-05-12 09:42:39，:rocket: 更新条数: +2031， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-05-12 10:17:46，:rocket: 更新条数: +2028， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,11 @@
 </summary>
 
 
+- [2022-05-12-想问问有没有讲述世界战争、pk-对战、赌局比赛、智斗等等生动一点点的博主视频](https://www.v2ex.com/t/852472) ![](assets/new.png)  
+- [2022-05-12-tornado-框架大佬求入](https://www.v2ex.com/t/852470) ![](assets/new.png)  
+- [2022-05-12-共同探讨：-Cloudflare-是怎么识别出来我是服务器环境的？](https://www.v2ex.com/t/852469) ![](assets/new.png)  
+- [2022-05-12-如何将云端服务器上的数据，同步到各自的终端服务器上？](https://www.v2ex.com/t/852468) ![](assets/new.png)  
+- [2022-05-12-如何从省市区县地名里面提取出最关键的名称进行地名匹配？](https://www.v2ex.com/t/852467) ![](assets/new.png)  
 - [2022-05-12-Amazon-Prime-Video-上租或者购买的电影可以下载吗](https://www.v2ex.com/t/852463) ![](assets/new.png)  
 - [2022-05-12-深圳三档社保如何转三甲医院门诊？](https://www.v2ex.com/t/852462) ![](assets/new.png)  
 - [2022-05-12-想问下你们在深圳回老家，拼车的渠道怎么获取？](https://www.v2ex.com/t/852461) ![](assets/new.png)  
@@ -506,11 +511,6 @@
 - [2022-05-12-大家旅行拍摄的照片视频素材都是怎么管理的？](https://www.v2ex.com/t/852448) ![](assets/new.png)  
 - [2022-05-12-想问问大家有没有一些针对区块链小白的黑话祛魅](https://www.v2ex.com/t/852447) ![](assets/new.png)  
 - [2022-05-12-mac-pro-2015-电池召回](https://www.v2ex.com/t/852446) ![](assets/new.png)  
-- [2022-05-12-大家如何管理-chrome-打开的那么多标签页？](https://www.v2ex.com/t/852445) ![](assets/new.png)  
-- [2022-05-12-请教下-chrome-插件的-downloads-api-问题](https://www.v2ex.com/t/852444) ![](assets/new.png)  
-- [2022-05-12-iPhone-使用联通数据流量时收不到任何推送的解决办法](https://www.v2ex.com/t/852443) ![](assets/new.png)  
-- [2022-05-12-sql-server-如何做主从数据库](https://www.v2ex.com/t/852442) ![](assets/new.png)  
-- [2022-05-12-如何通过-Java-调用扫描仪，获取扫描后的图片，然后上传到服务器？](https://www.v2ex.com/t/852441) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -558,9 +558,9 @@
 - [2022-05-12-3种方式！Go-Error处理最佳实践](https://toutiao.io/k/crmxg9t) ![](assets/new.png)  
 - [2022-05-12-博文推荐｜Pulsar-独立集群如何实现单一、共享-BookKeeper](https://toutiao.io/k/cgutegh) ![](assets/new.png)  
 - [2022-05-12-技术分享-|-集成开放平台基于ABP框架的多租户模式实现多团队](https://toutiao.io/k/ucdhegf) ![](assets/new.png)  
+- [2022-05-12-NAT-穿透是如何工作的：技术原理及企业级实践](https://toutiao.io/k/unwgfa0) ![](assets/new.png)  
 - [2022-05-12-基于开源IM即时通讯框架MobileIMSDK：RainbowChat-v8.1版已发布](https://toutiao.io/k/22j49tg) ![](assets/new.png)  
 - [2022-05-12-TensorFlow决策森林构建GBDT（Python）](https://toutiao.io/k/9xnh49u) ![](assets/new.png)  
-- [2022-05-12-NAT-穿透是如何工作的：技术原理及企业级实践](https://toutiao.io/k/unwgfa0) ![](assets/new.png)  
 - [2022-05-12-CUPID---for-joyful-coding-快乐的编程](https://toutiao.io/k/3jzqtse) ![](assets/new.png)  
 - [2022-05-12-“炫技”还是“真硬核”，OpenPPL-实测阿里「倚天-710」芯片](https://toutiao.io/k/ie5wic6) ![](assets/new.png)  
 - [2022-05-12-如何基于-WebComponents-封装-UI-组件库](https://toutiao.io/k/5r0fgti) ![](assets/new.png)  
@@ -571,8 +571,8 @@
 - [2022-05-12-部署流水线解析](https://toutiao.io/k/am2ppf9) ![](assets/new.png)  
 - [2022-05-12-预期功能安全（SOTIF）的应用](https://toutiao.io/k/qdx4a0w) ![](assets/new.png)  
 - [2022-05-12-云原生数仓如何破解大规模集群的关联查询性能问题？](https://toutiao.io/k/u3tx0pg) ![](assets/new.png)  
-- [2022-05-12-推荐-15K-Star！Github-上最火的低代码开发平台！](https://toutiao.io/k/3qv24va) ![](assets/new.png)  
 - [2022-05-12-推荐-架构设计资料合集](https://toutiao.io/k/iqlrz7b) ![](assets/new.png)  
+- [2022-05-12-推荐-15K-Star！Github-上最火的低代码开发平台！](https://toutiao.io/k/3qv24va) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

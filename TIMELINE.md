@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-05-12 09:42:39。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-05-12 10:17:46。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -69,6 +69,11 @@
 
 
 - [【张鑫旭-鑫空间-鑫生活】2022-05-11-JS与条形码的生成](https://www.zhangxinxu.com/wordpress/2022/05/js-barcode/) 
+- [【V2EX】2022-05-12-想问问有没有讲述世界战争、pk-对战、赌局比赛、智斗等等生动一点点的博主视频](https://www.v2ex.com/t/852472) 
+- [【V2EX】2022-05-12-tornado-框架大佬求入](https://www.v2ex.com/t/852470) 
+- [【V2EX】2022-05-12-共同探讨：-Cloudflare-是怎么识别出来我是服务器环境的？](https://www.v2ex.com/t/852469) 
+- [【V2EX】2022-05-12-如何将云端服务器上的数据，同步到各自的终端服务器上？](https://www.v2ex.com/t/852468) 
+- [【V2EX】2022-05-12-如何从省市区县地名里面提取出最关键的名称进行地名匹配？](https://www.v2ex.com/t/852467) 
 - [【V2EX】2022-05-12-Amazon-Prime-Video-上租或者购买的电影可以下载吗](https://www.v2ex.com/t/852463) 
 - [【V2EX】2022-05-12-深圳三档社保如何转三甲医院门诊？](https://www.v2ex.com/t/852462) 
 - [【V2EX】2022-05-12-想问下你们在深圳回老家，拼车的渠道怎么获取？](https://www.v2ex.com/t/852461) 
@@ -106,14 +111,6 @@
 - [【V2EX】2022-05-12-想搞个智能外呼系统，有推荐的](https://www.v2ex.com/t/852425) 
 - [【V2EX】2022-05-12-关于-YouTube-premium-验证地址问题，求经验解答！](https://www.v2ex.com/t/852424) 
 - [【V2EX】2022-05-12-B-站出-PC-客户端了，感觉还不错？](https://www.v2ex.com/t/852423) 
-- [【V2EX】2022-05-12-.netcore3.1-如何使用自己的-so-文件？](https://www.v2ex.com/t/852421) 
-- [【V2EX】2022-05-12-有什么办法可以获取某个地区的当地微信群？](https://www.v2ex.com/t/852420) 
-- [【V2EX】2022-05-12-你参与过的项目分支管理策略是怎样的](https://www.v2ex.com/t/852419) 
-- [【V2EX】2022-05-12-各位玩塞尔达传说：旷野之息都是用的什么手柄？](https://www.v2ex.com/t/852418) 
-- [【V2EX】2022-05-12-音乐垂直领域的一款练习-APP](https://www.v2ex.com/t/852417) 
-- [【V2EX】2022-05-12-Superlist-在-Google-I/O-2022-上的演示](https://www.v2ex.com/t/852416) 
-- [【V2EX】2022-05-12-上海电信企业宽带（6K-多一年那种）有-ipv6-地址吗？](https://www.v2ex.com/t/852415) 
-- [【V2EX】2022-05-12-求助：关于-wps-中输入中文时的输入框问题](https://www.v2ex.com/t/852414) 
 - [【技术头条】2022-05-12-App开放接口api安全：Token签名sign的设计与实现-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15085&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493985%26amp%3Bidx%3D2%26amp%3Bsn%3Dd7b1313ef4a0226295c81127ee22c958%26amp%3Bchksm%3Dfa3f083acd48812c339da2d4de950a0fda74f93663bc630c95de45f1f211ed7ec8aab67904fd%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-05-12-伪造邮件钓鱼，要知道的秘密！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15084&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493982%26amp%3Bidx%3D1%26amp%3Bsn%3D3f0b70405d32ee9faa4b706b930f4c28%26amp%3Bchksm%3Dfa3f0805cd4881138955b45d1bcad7a23c209bffe81a7a5b830802df75abe10454790e2ae03c%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-05-12-如何通过缓存来提升系统性能-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15083&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493982%26amp%3Bidx%3D2%26amp%3Bsn%3Dba44fde5dac86ee58162df9e9630cc8d%26amp%3Bchksm%3Dfa3f0805cd488113453f87304c6a52955bf0d4127f4d0262d2112d9499a323a322a90eee3c9e%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -139,9 +136,9 @@
 - [【开发者头条】2022-05-12-3种方式！Go-Error处理最佳实践](https://toutiao.io/k/crmxg9t) 
 - [【开发者头条】2022-05-12-博文推荐｜Pulsar-独立集群如何实现单一、共享-BookKeeper](https://toutiao.io/k/cgutegh) 
 - [【开发者头条】2022-05-12-技术分享-|-集成开放平台基于ABP框架的多租户模式实现多团队](https://toutiao.io/k/ucdhegf) 
+- [【开发者头条】2022-05-12-NAT-穿透是如何工作的：技术原理及企业级实践](https://toutiao.io/k/unwgfa0) 
 - [【开发者头条】2022-05-12-基于开源IM即时通讯框架MobileIMSDK：RainbowChat-v8.1版已发布](https://toutiao.io/k/22j49tg) 
 - [【开发者头条】2022-05-12-TensorFlow决策森林构建GBDT（Python）](https://toutiao.io/k/9xnh49u) 
-- [【开发者头条】2022-05-12-NAT-穿透是如何工作的：技术原理及企业级实践](https://toutiao.io/k/unwgfa0) 
 - [【开发者头条】2022-05-12-CUPID---for-joyful-coding-快乐的编程](https://toutiao.io/k/3jzqtse) 
 - [【开发者头条】2022-05-12-“炫技”还是“真硬核”，OpenPPL-实测阿里「倚天-710」芯片](https://toutiao.io/k/ie5wic6) 
 - [【开发者头条】2022-05-12-如何基于-WebComponents-封装-UI-组件库](https://toutiao.io/k/5r0fgti) 
@@ -152,8 +149,8 @@
 - [【开发者头条】2022-05-12-部署流水线解析](https://toutiao.io/k/am2ppf9) 
 - [【开发者头条】2022-05-12-预期功能安全（SOTIF）的应用](https://toutiao.io/k/qdx4a0w) 
 - [【开发者头条】2022-05-12-云原生数仓如何破解大规模集群的关联查询性能问题？](https://toutiao.io/k/u3tx0pg) 
-- [【开发者头条】2022-05-12-推荐-15K-Star！Github-上最火的低代码开发平台！](https://toutiao.io/k/3qv24va) 
 - [【开发者头条】2022-05-12-推荐-架构设计资料合集](https://toutiao.io/k/iqlrz7b) 
+- [【开发者头条】2022-05-12-推荐-15K-Star！Github-上最火的低代码开发平台！](https://toutiao.io/k/3qv24va) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-05-12 13:15:04，:rocket: 更新条数: +2023， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-05-12 14:01:43，:rocket: 更新条数: +2021， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,10 @@
 </summary>
 
 
+- [2022-05-12-m1-Mac-mini-外接显示器黑屏](https://www.v2ex.com/t/852511) ![](assets/new.png)  
+- [2022-05-12-谷歌这邮件，故意的吧，差点吓死个人，](https://www.v2ex.com/t/852510) ![](assets/new.png)  
+- [2022-05-12-offer-选择，车企-vs-工业互联网-vs-华为-OD](https://www.v2ex.com/t/852508) ![](assets/new.png)  
+- [2022-05-12-广发证券的外包如何](https://www.v2ex.com/t/852507) ![](assets/new.png)  
 - [2022-05-12-EmberJS-为啥是-JavaScript-跟-TypeScript-混写的？](https://www.v2ex.com/t/852505) ![](assets/new.png)  
 - [2022-05-12-各种语言，软件，系统的国内镜像，收藏这一个仓库就够了：-Thanks-Mirror](https://www.v2ex.com/t/852504) ![](assets/new.png)  
 - [2022-05-12-不开心但是钱多的工作-vs-有成就感但是钱少的工作，大家怎么选？](https://www.v2ex.com/t/852503) ![](assets/new.png)  
@@ -507,10 +511,6 @@
 - [2022-05-12-文章是自己的好-技术博客也是写作，一样要把文章写好](https://www.v2ex.com/t/852487) ![](assets/new.png)  
 - [2022-05-12-微信访问问题](https://www.v2ex.com/t/852486) ![](assets/new.png)  
 - [2022-05-12-想买个-iPhone13pro-只用来旅拍，什么渠道最划算?](https://www.v2ex.com/t/852484) ![](assets/new.png)  
-- [2022-05-12-最近晚上睡觉老是胳膊痛，好像就是颈椎的问题](https://www.v2ex.com/t/852482) ![](assets/new.png)  
-- [2022-05-12-请教个问题。docker-swarm-+-loki，-driver-好像没效果](https://www.v2ex.com/t/852481) ![](assets/new.png)  
-- [2022-05-12-武汉郑州创业合伙人想招一个前端合伙人，做-it-培训这块。](https://www.v2ex.com/t/852480) ![](assets/new.png)  
-- [2022-05-12-吐槽：自己的领导很喜欢杠，什么都要杠一下](https://www.v2ex.com/t/852479) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -561,13 +561,13 @@
 - [2022-05-12-NAT-穿透是如何工作的：技术原理及企业级实践](https://toutiao.io/k/unwgfa0) ![](assets/new.png)  
 - [2022-05-12-基于开源IM即时通讯框架MobileIMSDK：RainbowChat-v8.1版已发布](https://toutiao.io/k/22j49tg) ![](assets/new.png)  
 - [2022-05-12-TensorFlow决策森林构建GBDT（Python）](https://toutiao.io/k/9xnh49u) ![](assets/new.png)  
+- [2022-05-12-如何基于-WebComponents-封装-UI-组件库](https://toutiao.io/k/5r0fgti) ![](assets/new.png)  
 - [2022-05-12-CUPID---for-joyful-coding-快乐的编程](https://toutiao.io/k/3jzqtse) ![](assets/new.png)  
 - [2022-05-12-“炫技”还是“真硬核”，OpenPPL-实测阿里「倚天-710」芯片](https://toutiao.io/k/ie5wic6) ![](assets/new.png)  
-- [2022-05-12-如何基于-WebComponents-封装-UI-组件库](https://toutiao.io/k/5r0fgti) ![](assets/new.png)  
 - [2022-05-12-相爱相杀之DPM在数仓建设中的作用](https://toutiao.io/k/i9jai67) ![](assets/new.png)  
 - [2022-05-12-SOFA-Serverless-体系助力业务极速研发](https://toutiao.io/k/gzpbcbp) ![](assets/new.png)  
-- [2022-05-12-智能运维应用之道，告别企业数字化转型危机](https://toutiao.io/k/h5n1vxi) ![](assets/new.png)  
 - [2022-05-12-4-种主流的-API-架构风格对比:-SOAP-vs-REST-vs-GraphQL-vs-RPC](https://toutiao.io/k/hydzart) ![](assets/new.png)  
+- [2022-05-12-智能运维应用之道，告别企业数字化转型危机](https://toutiao.io/k/h5n1vxi) ![](assets/new.png)  
 - [2022-05-12-部署流水线解析](https://toutiao.io/k/am2ppf9) ![](assets/new.png)  
 - [2022-05-12-预期功能安全（SOTIF）的应用](https://toutiao.io/k/qdx4a0w) ![](assets/new.png)  
 - [2022-05-12-云原生数仓如何破解大规模集群的关联查询性能问题？](https://toutiao.io/k/u3tx0pg) ![](assets/new.png)  

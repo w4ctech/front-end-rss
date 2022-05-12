@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-05-12 08:17:51。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-05-12 08:47:24。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -69,6 +69,9 @@
 
 
 - [【张鑫旭-鑫空间-鑫生活】2022-05-11-JS与条形码的生成](https://www.zhangxinxu.com/wordpress/2022/05/js-barcode/) 
+- [【V2EX】2022-05-12-大家旅行拍摄的照片视频素材都是怎么管理的？](https://www.v2ex.com/t/852448) 
+- [【V2EX】2022-05-12-想问问大家有没有一些针对区块链小白的黑话祛魅](https://www.v2ex.com/t/852447) 
+- [【V2EX】2022-05-12-mac-pro-2015-电池召回](https://www.v2ex.com/t/852446) 
 - [【V2EX】2022-05-12-大家如何管理-chrome-打开的那么多标签页？](https://www.v2ex.com/t/852445) 
 - [【V2EX】2022-05-12-请教下-chrome-插件的-downloads-api-问题](https://www.v2ex.com/t/852444) 
 - [【V2EX】2022-05-12-iPhone-使用联通数据流量时收不到任何推送的解决办法](https://www.v2ex.com/t/852443) 
@@ -113,9 +116,6 @@
 - [【V2EX】2022-05-12-减小截屏面积是为了公司省流量吗](https://www.v2ex.com/t/852401) 
 - [【V2EX】2022-05-12-paypal-账户受限解封问题，上传需要的地址和身份证明快一个月了都没有处理，有人遇到过么？还能解封吗？](https://www.v2ex.com/t/852400) 
 - [【V2EX】2022-05-12-wordpress-有类似这种纯文字主题推荐的吗？](https://www.v2ex.com/t/852399) 
-- [【V2EX】2022-05-12-来杭州一年，喜提两次大礼包，每份工作都不超过半年，杭州克我啊](https://www.v2ex.com/t/852398) 
-- [【V2EX】2022-05-12-语雀的网页怎么这么卡](https://www.v2ex.com/t/852397) 
-- [【V2EX】2022-05-12-上海-不加班-外企-招-Java-、测试、C++、-Python-、安卓-](https://www.v2ex.com/t/852396) 
 - [【技术头条】2022-05-12-App开放接口api安全：Token签名sign的设计与实现-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15085&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493985%26amp%3Bidx%3D2%26amp%3Bsn%3Dd7b1313ef4a0226295c81127ee22c958%26amp%3Bchksm%3Dfa3f083acd48812c339da2d4de950a0fda74f93663bc630c95de45f1f211ed7ec8aab67904fd%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-05-12-伪造邮件钓鱼，要知道的秘密！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15084&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493982%26amp%3Bidx%3D1%26amp%3Bsn%3D3f0b70405d32ee9faa4b706b930f4c28%26amp%3Bchksm%3Dfa3f0805cd4881138955b45d1bcad7a23c209bffe81a7a5b830802df75abe10454790e2ae03c%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-05-12-如何通过缓存来提升系统性能-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15083&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493982%26amp%3Bidx%3D2%26amp%3Bsn%3Dba44fde5dac86ee58162df9e9630cc8d%26amp%3Bchksm%3Dfa3f0805cd488113453f87304c6a52955bf0d4127f4d0262d2112d9499a323a322a90eee3c9e%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -142,8 +142,8 @@
 - [【开发者头条】2022-05-12-博文推荐｜Pulsar-独立集群如何实现单一、共享-BookKeeper](https://toutiao.io/k/cgutegh) 
 - [【开发者头条】2022-05-12-基于开源IM即时通讯框架MobileIMSDK：RainbowChat-v8.1版已发布](https://toutiao.io/k/22j49tg) 
 - [【开发者头条】2022-05-12-TensorFlow决策森林构建GBDT（Python）](https://toutiao.io/k/9xnh49u) 
-- [【开发者头条】2022-05-12-CUPID---for-joyful-coding-快乐的编程](https://toutiao.io/k/3jzqtse) 
 - [【开发者头条】2022-05-12-技术分享-|-集成开放平台基于ABP框架的多租户模式实现多团队](https://toutiao.io/k/ucdhegf) 
+- [【开发者头条】2022-05-12-CUPID---for-joyful-coding-快乐的编程](https://toutiao.io/k/3jzqtse) 
 - [【开发者头条】2022-05-12-“炫技”还是“真硬核”，OpenPPL-实测阿里「倚天-710」芯片](https://toutiao.io/k/ie5wic6) 
 - [【开发者头条】2022-05-12-NAT-穿透是如何工作的：技术原理及企业级实践](https://toutiao.io/k/unwgfa0) 
 - [【开发者头条】2022-05-12-如何基于-WebComponents-封装-UI-组件库](https://toutiao.io/k/5r0fgti) 

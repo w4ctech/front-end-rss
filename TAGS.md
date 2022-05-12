@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-05-12 05:47:32。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-05-12 06:19:23。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -184,6 +184,7 @@
 - [【张鑫旭-鑫空间-鑫生活】CSS实现滚动高度自动变小的粘滞效果](https://www.zhangxinxu.com/wordpress/2022/04/css-sticky-size-change/)
 - [【张鑫旭-鑫空间-鑫生活】基于howler.js写了个音频播放器组件](https://www.zhangxinxu.com/wordpress/2022/03/howler-js-audio-player/)
 - [【张鑫旭-鑫空间-鑫生活】介绍8个和滚动相关的CSS属性](https://www.zhangxinxu.com/wordpress/2022/03/10-css-scroll-scrollbar/)
+- [【V2EX】谁来给我讲讲不同语言（主要是-js-和两大框架）最新的缩进规范](https://www.v2ex.com/t/852405)
 - [【V2EX】区块链行业扩编全职招聘/海外远程-薪资-OPEN-Java-/PM/H5-前端/UIUX](https://www.v2ex.com/t/852371)
 - [【技术头条】Promise必备知识汇总和面试情况-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15079&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493965%26amp%3Bidx%3D2%26amp%3Bsn%3Df9e6a81a83f12f514fd7816a6aa8db51%26amp%3Bchksm%3Dfa3f0816cd488100e7457a564b15183e835042d0e03b42e9c145b196355be1b141bd726cd89b%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【开发者头条】如何基于-WebComponents-封装-UI-组件库](https://toutiao.io/k/5r0fgti)
@@ -259,6 +260,7 @@
 
 - [【V2EX】桌面文件夹设置在机械盘性能影响大吗？](https://www.v2ex.com/t/852384)
 - [【技术头条】如何通过缓存来提升系统性能-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15083&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493982%26amp%3Bidx%3D2%26amp%3Bsn%3Dba44fde5dac86ee58162df9e9630cc8d%26amp%3Bchksm%3Dfa3f0805cd488113453f87304c6a52955bf0d4127f4d0262d2112d9499a323a322a90eee3c9e%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
+- [【开发者头条】云原生数仓如何破解大规模集群的关联查询性能问题？](https://toutiao.io/k/u3tx0pg)
 - [......【查看更多】......](./details/tags/optimization.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -283,6 +285,7 @@
 - [【武汉肺炎防疫全纪录(财新网)】大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html)
 - [【技术头条】App开放接口api安全：Token签名sign的设计与实现-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15085&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493985%26amp%3Bidx%3D2%26amp%3Bsn%3Dd7b1313ef4a0226295c81127ee22c958%26amp%3Bchksm%3Dfa3f083acd48812c339da2d4de950a0fda74f93663bc630c95de45f1f211ed7ec8aab67904fd%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【技术头条】深入业务场景，解决业务安全风险-www.sec-un.org](https://blogread.cn/news/go.php?idItem=15070&url=https%3A%2F%2Fwww.sec-un.org%2F%25e6%25b7%25b1%25e5%2585%25a5%25e4%25b8%259a%25e5%258a%25a1%25e5%259c%25ba%25e6%2599%25af%25ef%25bc%258c%25e8%25a7%25a3%25e5%2586%25b3%25e4%25b8%259a%25e5%258a%25a1%25e5%25ae%2589%25e5%2585%25a8%25e9%25a3%258e%25e9%2599%25a9%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
+- [【开发者头条】预期功能安全（SOTIF）的应用](https://toutiao.io/k/qdx4a0w)
 - [......【查看更多】......](./details/tags/browser.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -317,6 +320,7 @@
 
 
 
+- [【开发者头条】4-种主流的-API-架构风格对比:-SOAP-vs-REST-vs-GraphQL-vs-RPC](https://toutiao.io/k/hydzart)
 - [......【查看更多】......](./details/tags/server.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -351,9 +355,8 @@
 
 
 
+- [【V2EX】上海字节跳动招聘-Mac-开发工程师-—-飞书](https://www.v2ex.com/t/852407)
 - [【V2EX】招聘-小鱼易连西安研发中心---Android/iOS/Win/QT](https://www.v2ex.com/t/852372)
-- [【V2EX】西安-SAP-Labs-Xi'an-招聘](https://www.v2ex.com/t/852357)
-- [【V2EX】上海字节跳动招聘-高级-SRE-运维工程师](https://www.v2ex.com/t/852352)
 - [【技术头条】面试官提问三个Go接口的概念，-10年gopher竟无言以对-colobu.com](https://blogread.cn/news/go.php?idItem=15067&url=https%3A%2F%2Fcolobu.com%2F2022%2F01%2F16%2Fthree-new-concepts-of-go-interface-since-1-18%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [......【查看更多】......](./details/tags/job-interview.md)
 

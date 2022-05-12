@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-05-12 18:50:09。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-05-12 19:12:13。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -146,8 +146,8 @@
 - [【开发者头条】2022-05-12-部署流水线解析](https://toutiao.io/k/am2ppf9) 
 - [【开发者头条】2022-05-12-云原生数仓如何破解大规模集群的关联查询性能问题？](https://toutiao.io/k/u3tx0pg) 
 - [【开发者头条】2022-05-12-预期功能安全（SOTIF）的应用](https://toutiao.io/k/qdx4a0w) 
-- [【开发者头条】2022-05-12-推荐-左耳朵耗子：我做系统架构的一些原则](https://toutiao.io/k/9oljc6o) 
 - [【开发者头条】2022-05-12-推荐-架构设计资料合集](https://toutiao.io/k/iqlrz7b) 
+- [【开发者头条】2022-05-12-推荐-左耳朵耗子：我做系统架构的一些原则](https://toutiao.io/k/9oljc6o) 
 - [【开发者头条】2022-05-12-推荐-15K-Star！Github-上最火的低代码开发平台！](https://toutiao.io/k/3qv24va) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>

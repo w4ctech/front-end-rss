@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-05-12 07:40:03，:rocket: 更新条数: +2031， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-05-12 08:17:51，:rocket: 更新条数: +2033， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,8 +491,19 @@
 </summary>
 
 
+- [2022-05-12-大家如何管理-chrome-打开的那么多标签页？](https://www.v2ex.com/t/852445) ![](assets/new.png)  
+- [2022-05-12-请教下-chrome-插件的-downloads-api-问题](https://www.v2ex.com/t/852444) ![](assets/new.png)  
+- [2022-05-12-iPhone-使用联通数据流量时收不到任何推送的解决办法](https://www.v2ex.com/t/852443) ![](assets/new.png)  
+- [2022-05-12-sql-server-如何做主从数据库](https://www.v2ex.com/t/852442) ![](assets/new.png)  
+- [2022-05-12-如何通过-Java-调用扫描仪，获取扫描后的图片，然后上传到服务器？](https://www.v2ex.com/t/852441) ![](assets/new.png)  
+- [2022-05-12-如果微信适配到-API32](https://www.v2ex.com/t/852440) ![](assets/new.png)  
+- [2022-05-12-还有人在用-Sandboxie-Plus-运行-QQ-吗，我更新了下跑不起来了](https://www.v2ex.com/t/852439) ![](assets/new.png)  
+- [2022-05-12-软路由-zerotier-为啥会影响自己的外网延迟](https://www.v2ex.com/t/852438) ![](assets/new.png)  
+- [2022-05-12-咖啡相关的-app-推荐](https://www.v2ex.com/t/852437) ![](assets/new.png)  
+- [2022-05-12-求一个支持-openid-的权限控制开源服务](https://www.v2ex.com/t/852436) ![](assets/new.png)  
+- [2022-05-12-关于遇到的-redis-的-string-和-hash-问题](https://www.v2ex.com/t/852435) ![](assets/new.png)  
 - [2022-05-12-C-语言关于-%d-的一个问题](https://www.v2ex.com/t/852434) ![](assets/new.png)  
-- [2022-05-12-自建全套开源-Devops-实践](https://www.v2ex.com/t/852433) ![](assets/new.png)  
+- [2022-05-12-自建全套开源-DevOps-实践](https://www.v2ex.com/t/852433) ![](assets/new.png)  
 - [2022-05-12-寻找一个提供常见开发工具代理配置的开源项目](https://www.v2ex.com/t/852432) ![](assets/new.png)  
 - [2022-05-12-mysc.---花了七个月和-V2EX-站友一起做的记录工具上架了](https://www.v2ex.com/t/852431) ![](assets/new.png)  
 - [2022-05-12-微信的一个奇怪现象](https://www.v2ex.com/t/852430) ![](assets/new.png)  
@@ -500,17 +511,6 @@
 - [2022-05-12-lastpass-信用卡支付失败，求解](https://www.v2ex.com/t/852427) ![](assets/new.png)  
 - [2022-05-12-js-中-foreach,map,find,filter,reduce-的适用场景分别是哪些？](https://www.v2ex.com/t/852426) ![](assets/new.png)  
 - [2022-05-12-想搞个智能外呼系统，有推荐的](https://www.v2ex.com/t/852425) ![](assets/new.png)  
-- [2022-05-12-关于-YouTube-premium-验证地址问题，求经验解答！](https://www.v2ex.com/t/852424) ![](assets/new.png)  
-- [2022-05-12-B-站出-PC-客户端了，感觉还不错？](https://www.v2ex.com/t/852423) ![](assets/new.png)  
-- [2022-05-12-.netcore3.1-如何使用自己的-so-文件？](https://www.v2ex.com/t/852421) ![](assets/new.png)  
-- [2022-05-12-有什么办法可以获取某个地区的当地微信群？](https://www.v2ex.com/t/852420) ![](assets/new.png)  
-- [2022-05-12-你参与过的项目分支管理策略是怎样的](https://www.v2ex.com/t/852419) ![](assets/new.png)  
-- [2022-05-12-各位玩塞尔达传说：旷野之息都是用的什么手柄？](https://www.v2ex.com/t/852418) ![](assets/new.png)  
-- [2022-05-12-音乐垂直领域的一款练习-APP](https://www.v2ex.com/t/852417) ![](assets/new.png)  
-- [2022-05-12-Superlist-在-Google-I/O-2022-上的演示](https://www.v2ex.com/t/852416) ![](assets/new.png)  
-- [2022-05-12-上海电信企业宽带（6K-多一年那种）有-ipv6-地址吗？](https://www.v2ex.com/t/852415) ![](assets/new.png)  
-- [2022-05-12-求助：关于-wps-中输入中文时的输入框问题](https://www.v2ex.com/t/852414) ![](assets/new.png)  
-- [2022-05-12-比特币-开始暴跌了](https://www.v2ex.com/t/852413) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -560,8 +560,8 @@
 - [2022-05-12-基于开源IM即时通讯框架MobileIMSDK：RainbowChat-v8.1版已发布](https://toutiao.io/k/22j49tg) ![](assets/new.png)  
 - [2022-05-12-TensorFlow决策森林构建GBDT（Python）](https://toutiao.io/k/9xnh49u) ![](assets/new.png)  
 - [2022-05-12-CUPID---for-joyful-coding-快乐的编程](https://toutiao.io/k/3jzqtse) ![](assets/new.png)  
-- [2022-05-12-“炫技”还是“真硬核”，OpenPPL-实测阿里「倚天-710」芯片](https://toutiao.io/k/ie5wic6) ![](assets/new.png)  
 - [2022-05-12-技术分享-|-集成开放平台基于ABP框架的多租户模式实现多团队](https://toutiao.io/k/ucdhegf) ![](assets/new.png)  
+- [2022-05-12-“炫技”还是“真硬核”，OpenPPL-实测阿里「倚天-710」芯片](https://toutiao.io/k/ie5wic6) ![](assets/new.png)  
 - [2022-05-12-NAT-穿透是如何工作的：技术原理及企业级实践](https://toutiao.io/k/unwgfa0) ![](assets/new.png)  
 - [2022-05-12-如何基于-WebComponents-封装-UI-组件库](https://toutiao.io/k/5r0fgti) ![](assets/new.png)  
 - [2022-05-12-相爱相杀之DPM在数仓建设中的作用](https://toutiao.io/k/i9jai67) ![](assets/new.png)  
@@ -571,8 +571,8 @@
 - [2022-05-12-预期功能安全（SOTIF）的应用](https://toutiao.io/k/qdx4a0w) ![](assets/new.png)  
 - [2022-05-12-部署流水线解析](https://toutiao.io/k/am2ppf9) ![](assets/new.png)  
 - [2022-05-12-云原生数仓如何破解大规模集群的关联查询性能问题？](https://toutiao.io/k/u3tx0pg) ![](assets/new.png)  
-- [2022-05-12-推荐-15K-Star！Github-上最火的低代码开发平台！](https://toutiao.io/k/3qv24va) ![](assets/new.png)  
 - [2022-05-12-推荐-架构设计资料合集](https://toutiao.io/k/iqlrz7b) ![](assets/new.png)  
+- [2022-05-12-推荐-15K-Star！Github-上最火的低代码开发平台！](https://toutiao.io/k/3qv24va) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

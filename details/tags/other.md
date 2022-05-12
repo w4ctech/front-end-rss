@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-05-12 23:04:00。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-05-12 23:15:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1968,5 +1968,5 @@
 - [2022-05-12-“炫技”还是“真硬核”，OpenPPL-实测阿里「倚天-710」芯片](https://toutiao.io/k/ie5wic6) 
 - [2022-05-12-智能运维应用之道，告别企业数字化转型危机](https://toutiao.io/k/h5n1vxi) 
 - [2022-05-12-部署流水线解析](https://toutiao.io/k/am2ppf9) 
-- [2022-05-12-推荐-架构设计资料合集](https://toutiao.io/k/iqlrz7b) 
 - [2022-05-12-推荐-左耳朵耗子：我做系统架构的一些原则](https://toutiao.io/k/9oljc6o) 
+- [2022-05-12-推荐-架构设计资料合集](https://toutiao.io/k/iqlrz7b) 

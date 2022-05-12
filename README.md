@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-05-12 01:05:14，:rocket: 更新条数: +2016， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-05-12 03:05:18，:rocket: 更新条数: +2024， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,26 +491,26 @@
 </summary>
 
 
-- [2022-05-12-Flutter-3-发布，支持-iOS,-Android,-web,-Windows,-macOS,-Linux](https://www.v2ex.com/t/852315) ![](assets/new.png)  
-- [2022-05-12-大家有没有比较好的经验，管理两个版本的-Python-,-2-&-3?](https://www.v2ex.com/t/852314) ![](assets/new.png)  
-- [2022-05-12-Podcasts-for-macOS-浏览-被墙](https://www.v2ex.com/t/852313) ![](assets/new.png)  
-- [2022-05-12-有没有一种可以朗读内容的笔记-App](https://www.v2ex.com/t/852312) ![](assets/new.png)  
-- [2022-05-12-Chrome-最新版怎么取消了这两个-flag？](https://www.v2ex.com/t/852311) ![](assets/new.png)  
-- [2022-05-11-NVIDIA-Releases-Open-Source-GPU-Kernel-Modules](https://www.v2ex.com/t/852310) ![](assets/new.png)  
-- [2022-05-11-喜大普奔,-Nvidia-开源了-GPU-驱动](https://www.v2ex.com/t/852309) ![](assets/new.png)  
-- [2022-05-11-cmd-如何删除网络接口](https://www.v2ex.com/t/852307) ![](assets/new.png)  
-- [2022-05-11-NVIDIA-发布了开源的驱动内核模块](https://www.v2ex.com/t/852305) ![](assets/new.png)  
-- [2022-05-11-有没有人看-Google-I/O-'22](https://www.v2ex.com/t/852304) ![](assets/new.png)  
-- [2022-05-11-跨境电商独角兽-SHEIN-希音国内国外持续招人！新加坡研发中心福利超级加倍！包签证润新加坡！](https://www.v2ex.com/t/852303) ![](assets/new.png)  
-- [2022-05-11-同学的前端作业，大家觉得这代码什么水平？](https://www.v2ex.com/t/852302) ![](assets/new.png)  
-- [2022-05-11-2022-年的-Google-开发者大会直播讨论汇总贴。直播已经开始](https://www.v2ex.com/t/852300) ![](assets/new.png)  
-- [2022-05-11-一个对于管理的迷思](https://www.v2ex.com/t/852299) ![](assets/new.png)  
-- [2022-05-11-请问除了安全考虑，关闭-System-Integrity-Protection（SIP）会有什么坏处嘛？](https://www.v2ex.com/t/852298) ![](assets/new.png)  
-- [2022-05-11-推荐一个在后端给视频生成带动画字幕的技术方案？](https://www.v2ex.com/t/852297) ![](assets/new.png)  
-- [2022-05-11-远程工作者访谈：非科班出身全职远程开发者：生活才是人生的主要内容](https://www.v2ex.com/t/852296) ![](assets/new.png)  
-- [2022-05-11-求公平发牌的德州扑克-app，朋友局玩](https://www.v2ex.com/t/852294) ![](assets/new.png)  
-- [2022-05-11-关于"调整-Windows-的外观和性能"的一点疑问](https://www.v2ex.com/t/852293) ![](assets/new.png)  
-- [2022-05-11-请教一个-Python-修改-jpg-文件属性的问题](https://www.v2ex.com/t/852292) ![](assets/new.png)  
+- [2022-05-12-关于-e-招贷，请教一下大家](https://www.v2ex.com/t/852356) ![](assets/new.png)  
+- [2022-05-12-今年-618-iPhone13pro-是不是不会降价了](https://www.v2ex.com/t/852355) ![](assets/new.png)  
+- [2022-05-12-暑期实习求比较-字节-vsHulu](https://www.v2ex.com/t/852353) ![](assets/new.png)  
+- [2022-05-12-上海字节跳动招聘-高级-SRE-运维工程师](https://www.v2ex.com/t/852352) ![](assets/new.png)  
+- [2022-05-12-关于显存问题](https://www.v2ex.com/t/852351) ![](assets/new.png)  
+- [2022-05-12-如何安装多系统](https://www.v2ex.com/t/852350) ![](assets/new.png)  
+- [2022-05-12-网页-CSS-可以指定中文粗体/斜体使用不同字体吗？](https://www.v2ex.com/t/852349) ![](assets/new.png)  
+- [2022-05-12-当访问一个网页时，网站最多能在普通用户那里拿到哪些信息？](https://www.v2ex.com/t/852348) ![](assets/new.png)  
+- [2022-05-12-局域网-Samba-速度很慢，只有-2M](https://www.v2ex.com/t/852345) ![](assets/new.png)  
+- [2022-05-12-关于-RUST-生命周期的疑问](https://www.v2ex.com/t/852344) ![](assets/new.png)  
+- [2022-05-12-不知道我还能不能顶的住。](https://www.v2ex.com/t/852343) ![](assets/new.png)  
+- [2022-05-12-企业邮箱对接微信服务通知是不是有-BUG？](https://www.v2ex.com/t/852342) ![](assets/new.png)  
+- [2022-05-12-如何让电脑识别不同的键盘？](https://www.v2ex.com/t/852340) ![](assets/new.png)  
+- [2022-05-12-羊毛薅起来，午饭有了](https://www.v2ex.com/t/852339) ![](assets/new.png)  
+- [2022-05-12-上海张江高科技园附近租房](https://www.v2ex.com/t/852338) ![](assets/new.png)  
+- [2022-05-12-CharaChorder“和弦键盘”，靠同时输入来智能纠错，从而提升输入效率](https://www.v2ex.com/t/852337) ![](assets/new.png)  
+- [2022-05-12-老哥们-都用啥大流量卡~~~](https://www.v2ex.com/t/852336) ![](assets/new.png)  
+- [2022-05-12-使用-surge-的奇葩问题。](https://www.v2ex.com/t/852335) ![](assets/new.png)  
+- [2022-05-12-VMware-虚拟机运行中，实体主机被关机了，这种情况下虚拟机会被挂起，请教一下这种操作安全吗？虚拟主机会不会有挂掉，丢文件，或则再也起不来的可能性？](https://www.v2ex.com/t/852334) ![](assets/new.png)  
+- [2022-05-12-手机自带桌面为什么连更换主题、字体这些沙雕功能都能提供支持，却给桌面上的-App-图标改个名字、加个备注都不舍的给？？](https://www.v2ex.com/t/852333) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -555,11 +555,17 @@
 
 - [2022-05-12-凯文·凯利70岁生日的103条人生建议｜码农周刊VIP会员专属邮件周报-Vol.090](https://toutiao.io/k/d3q95iv) ![](assets/new.png)  
 - [2022-05-12-聊聊我们是如何做系统保障方案的](https://toutiao.io/k/i8q3ye4) ![](assets/new.png)  
-- [2022-05-12-TensorFlow决策森林构建GBDT（Python）](https://toutiao.io/k/9xnh49u) ![](assets/new.png)  
-- [2022-05-12-基于开源IM即时通讯框架MobileIMSDK：RainbowChat-v8.1版已发布](https://toutiao.io/k/22j49tg) ![](assets/new.png)  
 - [2022-05-12-3种方式！Go-Error处理最佳实践](https://toutiao.io/k/crmxg9t) ![](assets/new.png)  
+- [2022-05-12-基于开源IM即时通讯框架MobileIMSDK：RainbowChat-v8.1版已发布](https://toutiao.io/k/22j49tg) ![](assets/new.png)  
+- [2022-05-12-TensorFlow决策森林构建GBDT（Python）](https://toutiao.io/k/9xnh49u) ![](assets/new.png)  
 - [2022-05-12-CUPID---for-joyful-coding-快乐的编程](https://toutiao.io/k/3jzqtse) ![](assets/new.png)  
 - [2022-05-12-“炫技”还是“真硬核”，OpenPPL-实测阿里「倚天-710」芯片](https://toutiao.io/k/ie5wic6) ![](assets/new.png)  
+- [2022-05-12-相爱相杀之DPM在数仓建设中的作用](https://toutiao.io/k/i9jai67) ![](assets/new.png)  
+- [2022-05-12-博文推荐｜Pulsar-独立集群如何实现单一、共享-BookKeeper](https://toutiao.io/k/cgutegh) ![](assets/new.png)  
+- [2022-05-12-如何基于-WebComponents-封装-UI-组件库](https://toutiao.io/k/5r0fgti) ![](assets/new.png)  
+- [2022-05-12-技术分享-|-集成开放平台基于ABP框架的多租户模式实现多团队](https://toutiao.io/k/ucdhegf) ![](assets/new.png)  
+- [2022-05-12-SOFA-Serverless-体系助力业务极速研发](https://toutiao.io/k/gzpbcbp) ![](assets/new.png)  
+- [2022-05-12-NAT-穿透是如何工作的：技术原理及企业级实践](https://toutiao.io/k/unwgfa0) ![](assets/new.png)  
 - [2022-05-12-推荐-架构设计资料合集](https://toutiao.io/k/iqlrz7b) ![](assets/new.png)  
 - [2022-05-12-推荐-15K-Star！Github-上最火的低代码开发平台！](https://toutiao.io/k/3qv24va) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)

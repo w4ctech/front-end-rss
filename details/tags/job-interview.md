@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-05-12 23:42:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-05-13 01:11:31。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -7,5 +7,6 @@
 
 
 
+- [2022-05-13-如果你是面试官，应试者是其公司唯一的前端，你会有什么顾虑？](https://www.v2ex.com/t/852544) 
 - [2022-05-12-远程-年薪-100K-USD-以上，美国上市区块链公司招聘高级系统工程师](https://www.v2ex.com/t/852523) 
-- [2022-05-12-面试官提问三个Go接口的概念，-10年gopher竟无言以对-colobu.com](https://blogread.cn/news/go.php?idItem=15067&url=https%3A%2F%2Fcolobu.com%2F2022%2F01%2F16%2Fthree-new-concepts-of-go-interface-since-1-18%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2022-05-13-面试官提问三个Go接口的概念，-10年gopher竟无言以对-colobu.com](https://blogread.cn/news/go.php?idItem=15067&url=https%3A%2F%2Fcolobu.com%2F2022%2F01%2F16%2Fthree-new-concepts-of-go-interface-since-1-18%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

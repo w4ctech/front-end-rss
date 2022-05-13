@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-05-13 05:38:59。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-05-13 06:21:45。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -20,7 +20,7 @@
 - [2022-03-15-基于howler.js写了个音频播放器组件](https://www.zhangxinxu.com/wordpress/2022/03/howler-js-audio-player/) 
 - [2022-03-07-介绍8个和滚动相关的CSS属性](https://www.zhangxinxu.com/wordpress/2022/03/10-css-scroll-scrollbar/) 
 - [2022-05-13-在-then-中末尾返回-Promise.resolve，为什么改变了进入微任务队列的顺序呢？](https://www.v2ex.com/t/852602) 
-- [2022-05-13-据我所知公司没有专门的监控软件，但老板爱看路由器的访问记录，请问我全程挂-VPN-的话能隐身吗？](https://www.v2ex.com/t/852580) 
 - [2022-05-13-Promise必备知识汇总和面试情况-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15079&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493965%26amp%3Bidx%3D2%26amp%3Bsn%3Df9e6a81a83f12f514fd7816a6aa8db51%26amp%3Bchksm%3Dfa3f0816cd488100e7457a564b15183e835042d0e03b42e9c145b196355be1b141bd726cd89b%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-05-13-CompletableFuture原理与实践-外卖商家端API的异步化](https://toutiao.io/k/08s2zrd) 
 - [2022-05-13-科普-Service-Worker-入门指南](https://toutiao.io/k/ugcs3o1) 
+- [2022-05-13-Kotlin-VS-C#---协程与异步](https://toutiao.io/k/mj28wx1) 

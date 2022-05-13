@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-05-13 05:38:59。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-05-13 06:21:45。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -69,6 +69,15 @@
 
 
 - [【张鑫旭-鑫空间-鑫生活】2022-05-11-JS与条形码的生成](https://www.zhangxinxu.com/wordpress/2022/05/js-barcode/) 
+- [【V2EX】2022-05-13-记录一个网络管控表现](https://www.v2ex.com/t/852633) 
+- [【V2EX】2022-05-13-持续收藏很多年的特殊视频资源的存储方案有推荐吗？要兼顾私密安全和成本。](https://www.v2ex.com/t/852632) 
+- [【V2EX】2022-05-13-大龄，不想卷了，寻一份后端远程开发工作，熟练-Python-/熟悉-golang/略懂区块链。](https://www.v2ex.com/t/852631) 
+- [【V2EX】2022-05-13-关于老板给我-2500-喊我加班这件事情。](https://www.v2ex.com/t/852630) 
+- [【V2EX】2022-05-13-有没有办法先判断-vue-组件存不存在，再执行-import-语句？](https://www.v2ex.com/t/852629) 
+- [【V2EX】2022-05-13-贝尔金的-iPhone-MagSafe-保护壳如何？有人买过吗？](https://www.v2ex.com/t/852628) 
+- [【V2EX】2022-05-13-这种虚假的热搜都没有人监管么](https://www.v2ex.com/t/852627) 
+- [【V2EX】2022-05-13-腾讯云史低今天-18-点结束新加坡等海外地区-2-核-2G30M-一年-96老账号也可上车海外特惠新加坡等-2-核-2G30M-三年-288-三年还有-2H4G-2H8G-等活动快结束...](https://www.v2ex.com/t/852626) 
+- [【V2EX】2022-05-13-深圳-英伟达-网络安全软件研发工程师-自动驾驶方向](https://www.v2ex.com/t/852625) 
 - [【V2EX】2022-05-13-想回老家，但感觉回不去了，怎么办？](https://www.v2ex.com/t/852624) 
 - [【V2EX】2022-05-13-喇嘛新专辑来了](https://www.v2ex.com/t/852622) 
 - [【V2EX】2022-05-13-12mini-耗电突然变快，怎么办](https://www.v2ex.com/t/852621) 
@@ -102,13 +111,6 @@
 - [【V2EX】2022-05-13-经常要-google-文档，所以开发了一个文档聚合网站，大家看看觉得有用吗？](https://www.v2ex.com/t/852586) 
 - [【V2EX】2022-05-13-windows11-更新清理-问题](https://www.v2ex.com/t/852585) 
 - [【V2EX】2022-05-13-mac-M1-Finder-每晚都会错误提-“-文件找不到”](https://www.v2ex.com/t/852584) 
-- [【V2EX】2022-05-13-上海字节跳动招聘-资深-Android-ROM-研发-—-飞书](https://www.v2ex.com/t/852583) 
-- [【V2EX】2022-05-13-求一款-chrome-插件,能扫出某个站点所有用到域名](https://www.v2ex.com/t/852582) 
-- [【V2EX】2022-05-13-没人谈谈如何制作-Linux-发行版嘛](https://www.v2ex.com/t/852581) 
-- [【V2EX】2022-05-13-据我所知公司没有专门的监控软件，但老板爱看路由器的访问记录，请问我全程挂-VPN-的话能隐身吗？](https://www.v2ex.com/t/852580) 
-- [【V2EX】2022-05-13-这些约疫苗的平台不公平秒杀怎么破](https://www.v2ex.com/t/852579) 
-- [【V2EX】2022-05-13-买-M1-还是-Intel？](https://www.v2ex.com/t/852578) 
-- [【V2EX】2022-05-13-SpringBoot-创建的-jar-包热部署](https://www.v2ex.com/t/852576) 
 - [【技术头条】2022-05-13-Wallys-5G/LTE-cat-16/USB-3.1-/GNSS-optional-VoLTEoptional-www.wallystech.com](https://blogread.cn/news/go.php?idItem=15086&url=https%3A%2F%2Fwww.wallystech.com%2FQuectel_modules%2F5G-RM500Q-GL-5G-LTE-cat-16-USB-3.1-GNSS-optional-VoLTE-optional.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-05-13-App开放接口api安全：Token签名sign的设计与实现-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15085&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493985%26amp%3Bidx%3D2%26amp%3Bsn%3Dd7b1313ef4a0226295c81127ee22c958%26amp%3Bchksm%3Dfa3f083acd48812c339da2d4de950a0fda74f93663bc630c95de45f1f211ed7ec8aab67904fd%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-05-13-伪造邮件钓鱼，要知道的秘密！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15084&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493982%26amp%3Bidx%3D1%26amp%3Bsn%3D3f0b70405d32ee9faa4b706b930f4c28%26amp%3Bchksm%3Dfa3f0805cd4881138955b45d1bcad7a23c209bffe81a7a5b830802df75abe10454790e2ae03c%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -142,9 +144,13 @@
 - [【开发者头条】2022-05-13-测试策略的实现](https://toutiao.io/k/cnyplmw) 
 - [【开发者头条】2022-05-13-云原生钻石课程|第11课：Kubernetes应用管理深度剖析](https://toutiao.io/k/s4152lv) 
 - [【开发者头条】2022-05-13-科普-Service-Worker-入门指南](https://toutiao.io/k/ugcs3o1) 
-- [【开发者头条】2022-05-13-推荐-架构设计资料合集](https://toutiao.io/k/iqlrz7b) 
-- [【开发者头条】2022-05-13-推荐-左耳朵耗子：我做系统架构的一些原则](https://toutiao.io/k/9oljc6o) 
+- [【开发者头条】2022-05-13-独立开发变现周刊（第54期）：从开始的失败中发现新想法，SaaS产品月收入5.5万美金](https://toutiao.io/k/6e6a1dx) 
+- [【开发者头条】2022-05-13-【Java-18】使用方法句柄重新实现核心反射功能](https://toutiao.io/k/hbxs9ma) 
+- [【开发者头条】2022-05-13-你知道数据发散和数据倾斜么？](https://toutiao.io/k/qpq75s5) 
+- [【开发者头条】2022-05-13-Kotlin-VS-C#---协程与异步](https://toutiao.io/k/mj28wx1) 
 - [【开发者头条】2022-05-13-推荐-15K-Star！Github-上最火的低代码开发平台！](https://toutiao.io/k/3qv24va) 
+- [【开发者头条】2022-05-13-推荐-左耳朵耗子：我做系统架构的一些原则](https://toutiao.io/k/9oljc6o) 
+- [【开发者头条】2022-05-13-推荐-架构设计资料合集](https://toutiao.io/k/iqlrz7b) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

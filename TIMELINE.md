@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-05-13 08:46:15。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-05-13 09:15:01。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -69,6 +69,12 @@
 
 
 - [【张鑫旭-鑫空间-鑫生活】2022-05-11-JS与条形码的生成](https://www.zhangxinxu.com/wordpress/2022/05/js-barcode/) 
+- [【V2EX】2022-05-13-深圳/远程-找前端工作-快三年经验-开源爱好者](https://www.v2ex.com/t/852672) 
+- [【V2EX】2022-05-13-上海-HC-#元宇宙#智能虚拟人#UGC+GPT-3#硅谷创业团队#寻找前端-Flutter](https://www.v2ex.com/t/852670) 
+- [【V2EX】2022-05-13-怎么设置微信支付的扣款顺序？](https://www.v2ex.com/t/852669) 
+- [【V2EX】2022-05-13-Lapce-发布-v0.1.0-用-Rust-编写-GPU-渲染的开源代码编辑器](https://www.v2ex.com/t/852668) 
+- [【V2EX】2022-05-13-想捡一套电脑，放家里给父母看电视用，显示器已经准备好了](https://www.v2ex.com/t/852666) 
+- [【V2EX】2022-05-13-接口参数绑定,-公共处理代码生成工具](https://www.v2ex.com/t/852665) 
 - [【V2EX】2022-05-13-写作是一个典型的“工夫在诗外”的事情](https://www.v2ex.com/t/852664) 
 - [【V2EX】2022-05-13-kive.ai](https://www.v2ex.com/t/852663) 
 - [【V2EX】2022-05-13-Dark-Mode](https://www.v2ex.com/t/852662) 
@@ -88,7 +94,6 @@
 - [【V2EX】2022-05-13-武汉游戏公司招聘](https://www.v2ex.com/t/852643) 
 - [【V2EX】2022-05-13-有人关注-2022.05-的阿里裁员传闻么](https://www.v2ex.com/t/852641) 
 - [【V2EX】2022-05-13-各位大佬关于办公场景的需求是什么样的？](https://www.v2ex.com/t/852640) 
-- [【V2EX】2022-05-13-我们这代人的未来在哪里？](https://www.v2ex.com/t/852639) 
 - [【V2EX】2022-05-13-润-||-留](https://www.v2ex.com/t/852638) 
 - [【V2EX】2022-05-13-杭州个人缴纳社保流程](https://www.v2ex.com/t/852636) 
 - [【V2EX】2022-05-13-2022-年-5-月-13-日：如何安全的入金比特币或者-BUSD](https://www.v2ex.com/t/852635) 
@@ -102,11 +107,6 @@
 - [【V2EX】2022-05-13-腾讯云史低今天-18-点结束新加坡等海外地区-2-核-2G30M-一年-96老账号也可上车海外特惠新加坡等-2-核-2G30M-三年-288-三年还有-2H4G-2H8G-等活动快结束...](https://www.v2ex.com/t/852626) 
 - [【V2EX】2022-05-13-深圳-英伟达-网络安全软件研发工程师-自动驾驶方向](https://www.v2ex.com/t/852625) 
 - [【V2EX】2022-05-13-想回老家，但感觉回不去了，怎么办？](https://www.v2ex.com/t/852624) 
-- [【V2EX】2022-05-13-喇嘛新专辑来了](https://www.v2ex.com/t/852622) 
-- [【V2EX】2022-05-13-12mini-耗电突然变快，怎么办](https://www.v2ex.com/t/852621) 
-- [【V2EX】2022-05-13-RubyTear-翻译成中文，仅限两个字，除了-红泪-，还能如何翻译？](https://www.v2ex.com/t/852620) 
-- [【V2EX】2022-05-13-请问-macOS-上有什么视频播放器在-AirPlay-到-HomePod-mini-时音频无延时呢](https://www.v2ex.com/t/852619) 
-- [【V2EX】2022-05-13-分享一下-MacBook-Air-16+256-香港官翻购买经历](https://www.v2ex.com/t/852615) 
 - [【技术头条】2022-05-13-Wallys-5G/LTE-cat-16/USB-3.1-/GNSS-optional-VoLTEoptional-www.wallystech.com](https://blogread.cn/news/go.php?idItem=15086&url=https%3A%2F%2Fwww.wallystech.com%2FQuectel_modules%2F5G-RM500Q-GL-5G-LTE-cat-16-USB-3.1-GNSS-optional-VoLTE-optional.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-05-13-App开放接口api安全：Token签名sign的设计与实现-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15085&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493985%26amp%3Bidx%3D2%26amp%3Bsn%3Dd7b1313ef4a0226295c81127ee22c958%26amp%3Bchksm%3Dfa3f083acd48812c339da2d4de950a0fda74f93663bc630c95de45f1f211ed7ec8aab67904fd%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-05-13-伪造邮件钓鱼，要知道的秘密！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15084&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493982%26amp%3Bidx%3D1%26amp%3Bsn%3D3f0b70405d32ee9faa4b706b930f4c28%26amp%3Bchksm%3Dfa3f0805cd4881138955b45d1bcad7a23c209bffe81a7a5b830802df75abe10454790e2ae03c%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -144,9 +144,9 @@
 - [【开发者头条】2022-05-13-Kotlin-VS-C#---协程与异步](https://toutiao.io/k/mj28wx1) 
 - [【开发者头条】2022-05-13-【Java-18】使用方法句柄重新实现核心反射功能](https://toutiao.io/k/hbxs9ma) 
 - [【开发者头条】2022-05-13-你知道数据发散和数据倾斜么？](https://toutiao.io/k/qpq75s5) 
+- [【开发者头条】2022-05-13-推荐-架构设计资料合集](https://toutiao.io/k/iqlrz7b) 
 - [【开发者头条】2022-05-13-推荐-左耳朵耗子：我做系统架构的一些原则](https://toutiao.io/k/9oljc6o) 
 - [【开发者头条】2022-05-13-推荐-15K-Star！Github-上最火的低代码开发平台！](https://toutiao.io/k/3qv24va) 
-- [【开发者头条】2022-05-13-推荐-架构设计资料合集](https://toutiao.io/k/iqlrz7b) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

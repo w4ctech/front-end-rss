@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-05-13 09:44:49。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-05-13 10:16:06。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -69,6 +69,11 @@
 
 
 - [【张鑫旭-鑫空间-鑫生活】2022-05-11-JS与条形码的生成](https://www.zhangxinxu.com/wordpress/2022/05/js-barcode/) 
+- [【V2EX】2022-05-13-MacBook-Pro-16-寸雷电-3-加-Core-X-显卡坞疑问，望指教，谢谢](https://www.v2ex.com/t/852687) 
+- [【V2EX】2022-05-13-上海-HC-#元宇宙#智能虚拟人#UGC+GPT-3#硅谷创业团队#寻找数据开发工程师](https://www.v2ex.com/t/852686) 
+- [【V2EX】2022-05-13-对-coroutine.__await__-调用-next-为什么会导致重复进入-Future.__await__](https://www.v2ex.com/t/852684) 
+- [【V2EX】2022-05-13-有没有电动剃须刀推荐啊](https://www.v2ex.com/t/852683) 
+- [【V2EX】2022-05-13-新的-mbp-外观有缺陷，退不退好](https://www.v2ex.com/t/852682) 
 - [【V2EX】2022-05-13-想了解下-UST-和-Luna，站内搜到一些内容，真行啊](https://www.v2ex.com/t/852680) 
 - [【V2EX】2022-05-13-一串没有空格的中文，如何用-Java-给分隔开呢](https://www.v2ex.com/t/852679) 
 - [【V2EX】2022-05-13-上海-HC-#元宇宙#千人千面智能虚拟人#出海社交#硅谷创业团队#寻找前端/后端开发小伙伴（-Python-](https://www.v2ex.com/t/852678) 
@@ -87,7 +92,6 @@
 - [【V2EX】2022-05-13-Dark-Mode](https://www.v2ex.com/t/852662) 
 - [【V2EX】2022-05-13-居家一周时间撸了一个基于地理位置定位，可以查看附近社区通知的的小程序，目前腾讯的“社交”类目审核已经通过，且已发布-1.0-正式版。各位老哥来看看](https://www.v2ex.com/t/852661) 
 - [【V2EX】2022-05-13-UrlParamsRemover-自动删除-url-中的参数并写入系统剪贴板](https://www.v2ex.com/t/852658) 
-- [【V2EX】2022-05-13-知网涉嫌垄断被调查。](https://www.v2ex.com/t/852657) 
 - [【V2EX】2022-05-13-微信小程序中上滑式弹窗是如何做的呢？](https://www.v2ex.com/t/852656) 
 - [【V2EX】2022-05-13-请教-Casdoor-的几个问题](https://www.v2ex.com/t/852655) 
 - [【V2EX】2022-05-13-请教一个问题，关于上下游服务的理解](https://www.v2ex.com/t/852653) 
@@ -102,12 +106,6 @@
 - [【V2EX】2022-05-13-有人关注-2022.05-的阿里裁员传闻么](https://www.v2ex.com/t/852641) 
 - [【V2EX】2022-05-13-各位大佬关于办公场景的需求是什么样的？](https://www.v2ex.com/t/852640) 
 - [【V2EX】2022-05-13-润-||-留](https://www.v2ex.com/t/852638) 
-- [【V2EX】2022-05-13-杭州个人缴纳社保流程](https://www.v2ex.com/t/852636) 
-- [【V2EX】2022-05-13-2022-年-5-月-13-日：如何安全的入金比特币或者-BUSD](https://www.v2ex.com/t/852635) 
-- [【V2EX】2022-05-13-上海|杭州字节跳动招聘-iOS-开发工程师](https://www.v2ex.com/t/852634) 
-- [【V2EX】2022-05-13-记录一个网络管控表现](https://www.v2ex.com/t/852633) 
-- [【V2EX】2022-05-13-持续收藏很多年的特殊视频资源的存储方案有推荐吗？要兼顾私密安全和成本。](https://www.v2ex.com/t/852632) 
-- [【V2EX】2022-05-13-大龄，不想卷了，寻一份后端远程开发工作，熟练-Python-/熟悉-golang/略懂区块链。](https://www.v2ex.com/t/852631) 
 - [【技术头条】2022-05-13-Wallys-5G/LTE-cat-16/USB-3.1-/GNSS-optional-VoLTEoptional-www.wallystech.com](https://blogread.cn/news/go.php?idItem=15086&url=https%3A%2F%2Fwww.wallystech.com%2FQuectel_modules%2F5G-RM500Q-GL-5G-LTE-cat-16-USB-3.1-GNSS-optional-VoLTE-optional.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-05-13-App开放接口api安全：Token签名sign的设计与实现-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15085&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493985%26amp%3Bidx%3D2%26amp%3Bsn%3Dd7b1313ef4a0226295c81127ee22c958%26amp%3Bchksm%3Dfa3f083acd48812c339da2d4de950a0fda74f93663bc630c95de45f1f211ed7ec8aab67904fd%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-05-13-伪造邮件钓鱼，要知道的秘密！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15084&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493982%26amp%3Bidx%3D1%26amp%3Bsn%3D3f0b70405d32ee9faa4b706b930f4c28%26amp%3Bchksm%3Dfa3f0805cd4881138955b45d1bcad7a23c209bffe81a7a5b830802df75abe10454790e2ae03c%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -136,18 +134,18 @@
 - [【开发者头条】2022-05-13-RTC-Dev-Meetup丨语音处理在实时互动领域的技术实践和应用（第二场）](https://toutiao.io/k/foahvk0) 
 - [【开发者头条】2022-05-13-携程-SOA-的-Service-Mesh-架构落地](https://toutiao.io/k/mcwotye) 
 - [【开发者头条】2022-05-13-CompletableFuture原理与实践-外卖商家端API的异步化](https://toutiao.io/k/08s2zrd) 
-- [【开发者头条】2022-05-13-.NET性能优化-使用ValueStringBuilder拼接字符串](https://toutiao.io/k/h0t0te9) 
 - [【开发者头条】2022-05-13-测试策略的实现](https://toutiao.io/k/cnyplmw) 
+- [【开发者头条】2022-05-13-.NET性能优化-使用ValueStringBuilder拼接字符串](https://toutiao.io/k/h0t0te9) 
 - [【开发者头条】2022-05-13-效率提升10倍，网易游戏面向终态的应用交付实践](https://toutiao.io/k/yc0lyk1) 
 - [【开发者头条】2022-05-13-云原生钻石课程|第11课：Kubernetes应用管理深度剖析](https://toutiao.io/k/s4152lv) 
 - [【开发者头条】2022-05-13-科普-Service-Worker-入门指南](https://toutiao.io/k/ugcs3o1) 
-- [【开发者头条】2022-05-13-Kotlin-VS-C#---协程与异步](https://toutiao.io/k/mj28wx1) 
 - [【开发者头条】2022-05-13-独立开发变现周刊（第54期）：从开始的失败中发现新想法，SaaS产品月收入5.5万美金](https://toutiao.io/k/6e6a1dx) 
+- [【开发者头条】2022-05-13-Kotlin-VS-C#---协程与异步](https://toutiao.io/k/mj28wx1) 
 - [【开发者头条】2022-05-13-【Java-18】使用方法句柄重新实现核心反射功能](https://toutiao.io/k/hbxs9ma) 
 - [【开发者头条】2022-05-13-你知道数据发散和数据倾斜么？](https://toutiao.io/k/qpq75s5) 
-- [【开发者头条】2022-05-13-推荐-架构设计资料合集](https://toutiao.io/k/iqlrz7b) 
-- [【开发者头条】2022-05-13-推荐-15K-Star！Github-上最火的低代码开发平台！](https://toutiao.io/k/3qv24va) 
 - [【开发者头条】2022-05-13-推荐-左耳朵耗子：我做系统架构的一些原则](https://toutiao.io/k/9oljc6o) 
+- [【开发者头条】2022-05-13-推荐-15K-Star！Github-上最火的低代码开发平台！](https://toutiao.io/k/3qv24va) 
+- [【开发者头条】2022-05-13-推荐-架构设计资料合集](https://toutiao.io/k/iqlrz7b) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

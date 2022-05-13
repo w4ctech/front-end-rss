@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-05-13 09:44:49，:rocket: 更新条数: +2025， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-05-13 10:16:06，:rocket: 更新条数: +2023， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,11 @@
 </summary>
 
 
+- [2022-05-13-MacBook-Pro-16-寸雷电-3-加-Core-X-显卡坞疑问，望指教，谢谢](https://www.v2ex.com/t/852687) ![](assets/new.png)  
+- [2022-05-13-上海-HC-#元宇宙#智能虚拟人#UGC+GPT-3#硅谷创业团队#寻找数据开发工程师](https://www.v2ex.com/t/852686) ![](assets/new.png)  
+- [2022-05-13-对-coroutine.__await__-调用-next-为什么会导致重复进入-Future.__await__](https://www.v2ex.com/t/852684) ![](assets/new.png)  
+- [2022-05-13-有没有电动剃须刀推荐啊](https://www.v2ex.com/t/852683) ![](assets/new.png)  
+- [2022-05-13-新的-mbp-外观有缺陷，退不退好](https://www.v2ex.com/t/852682) ![](assets/new.png)  
 - [2022-05-13-想了解下-UST-和-Luna，站内搜到一些内容，真行啊](https://www.v2ex.com/t/852680) ![](assets/new.png)  
 - [2022-05-13-一串没有空格的中文，如何用-Java-给分隔开呢](https://www.v2ex.com/t/852679) ![](assets/new.png)  
 - [2022-05-13-上海-HC-#元宇宙#千人千面智能虚拟人#出海社交#硅谷创业团队#寻找前端/后端开发小伙伴（-Python-](https://www.v2ex.com/t/852678) ![](assets/new.png)  
@@ -506,11 +511,6 @@
 - [2022-05-13-接口参数绑定,-公共处理代码生成工具](https://www.v2ex.com/t/852665) ![](assets/new.png)  
 - [2022-05-13-写作是一个典型的“工夫在诗外”的事情](https://www.v2ex.com/t/852664) ![](assets/new.png)  
 - [2022-05-13-kive.ai](https://www.v2ex.com/t/852663) ![](assets/new.png)  
-- [2022-05-13-Dark-Mode](https://www.v2ex.com/t/852662) ![](assets/new.png)  
-- [2022-05-13-居家一周时间撸了一个基于地理位置定位，可以查看附近社区通知的的小程序，目前腾讯的“社交”类目审核已经通过，且已发布-1.0-正式版。各位老哥来看看](https://www.v2ex.com/t/852661) ![](assets/new.png)  
-- [2022-05-13-UrlParamsRemover-自动删除-url-中的参数并写入系统剪贴板](https://www.v2ex.com/t/852658) ![](assets/new.png)  
-- [2022-05-13-知网涉嫌垄断被调查。](https://www.v2ex.com/t/852657) ![](assets/new.png)  
-- [2022-05-13-微信小程序中上滑式弹窗是如何做的呢？](https://www.v2ex.com/t/852656) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -561,18 +561,18 @@
 - [2022-05-13-RTC-Dev-Meetup丨语音处理在实时互动领域的技术实践和应用（第二场）](https://toutiao.io/k/foahvk0) ![](assets/new.png)  
 - [2022-05-13-携程-SOA-的-Service-Mesh-架构落地](https://toutiao.io/k/mcwotye) ![](assets/new.png)  
 - [2022-05-13-CompletableFuture原理与实践-外卖商家端API的异步化](https://toutiao.io/k/08s2zrd) ![](assets/new.png)  
-- [2022-05-13-.NET性能优化-使用ValueStringBuilder拼接字符串](https://toutiao.io/k/h0t0te9) ![](assets/new.png)  
 - [2022-05-13-测试策略的实现](https://toutiao.io/k/cnyplmw) ![](assets/new.png)  
+- [2022-05-13-.NET性能优化-使用ValueStringBuilder拼接字符串](https://toutiao.io/k/h0t0te9) ![](assets/new.png)  
 - [2022-05-13-效率提升10倍，网易游戏面向终态的应用交付实践](https://toutiao.io/k/yc0lyk1) ![](assets/new.png)  
 - [2022-05-13-云原生钻石课程|第11课：Kubernetes应用管理深度剖析](https://toutiao.io/k/s4152lv) ![](assets/new.png)  
 - [2022-05-13-科普-Service-Worker-入门指南](https://toutiao.io/k/ugcs3o1) ![](assets/new.png)  
-- [2022-05-13-Kotlin-VS-C#---协程与异步](https://toutiao.io/k/mj28wx1) ![](assets/new.png)  
 - [2022-05-13-独立开发变现周刊（第54期）：从开始的失败中发现新想法，SaaS产品月收入5.5万美金](https://toutiao.io/k/6e6a1dx) ![](assets/new.png)  
+- [2022-05-13-Kotlin-VS-C#---协程与异步](https://toutiao.io/k/mj28wx1) ![](assets/new.png)  
 - [2022-05-13-【Java-18】使用方法句柄重新实现核心反射功能](https://toutiao.io/k/hbxs9ma) ![](assets/new.png)  
 - [2022-05-13-你知道数据发散和数据倾斜么？](https://toutiao.io/k/qpq75s5) ![](assets/new.png)  
-- [2022-05-13-推荐-架构设计资料合集](https://toutiao.io/k/iqlrz7b) ![](assets/new.png)  
-- [2022-05-13-推荐-15K-Star！Github-上最火的低代码开发平台！](https://toutiao.io/k/3qv24va) ![](assets/new.png)  
 - [2022-05-13-推荐-左耳朵耗子：我做系统架构的一些原则](https://toutiao.io/k/9oljc6o) ![](assets/new.png)  
+- [2022-05-13-推荐-15K-Star！Github-上最火的低代码开发平台！](https://toutiao.io/k/3qv24va) ![](assets/new.png)  
+- [2022-05-13-推荐-架构设计资料合集](https://toutiao.io/k/iqlrz7b) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

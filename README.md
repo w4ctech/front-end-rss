@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-05-13 08:16:46，:rocket: 更新条数: +2028， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-05-13 08:46:15，:rocket: 更新条数: +2024， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,10 @@
 </summary>
 
 
+- [2022-05-13-写作是一个典型的“工夫在诗外”的事情](https://www.v2ex.com/t/852664) ![](assets/new.png)  
+- [2022-05-13-kive.ai](https://www.v2ex.com/t/852663) ![](assets/new.png)  
+- [2022-05-13-Dark-Mode](https://www.v2ex.com/t/852662) ![](assets/new.png)  
+- [2022-05-13-居家一周时间撸了一个基于地理位置定位，可以查看附近社区通知的的小程序，目前腾讯的“社交”类目审核已经通过，且已发布-1.0-正式版。各位老哥来看看](https://www.v2ex.com/t/852661) ![](assets/new.png)  
 - [2022-05-13-UrlParamsRemover-自动删除-url-中的参数并写入系统剪贴板](https://www.v2ex.com/t/852658) ![](assets/new.png)  
 - [2022-05-13-知网涉嫌垄断被调查。](https://www.v2ex.com/t/852657) ![](assets/new.png)  
 - [2022-05-13-微信小程序中上滑式弹窗是如何做的呢？](https://www.v2ex.com/t/852656) ![](assets/new.png)  
@@ -507,10 +511,6 @@
 - [2022-05-13-有人关注-2022.05-的阿里裁员传闻么](https://www.v2ex.com/t/852641) ![](assets/new.png)  
 - [2022-05-13-各位大佬关于办公场景的需求是什么样的？](https://www.v2ex.com/t/852640) ![](assets/new.png)  
 - [2022-05-13-我们这代人的未来在哪里？](https://www.v2ex.com/t/852639) ![](assets/new.png)  
-- [2022-05-13-润-||-留](https://www.v2ex.com/t/852638) ![](assets/new.png)  
-- [2022-05-13-杭州个人缴纳社保流程](https://www.v2ex.com/t/852636) ![](assets/new.png)  
-- [2022-05-13-2022-年-5-月-13-日：如何安全的入金比特币或者-BUSD](https://www.v2ex.com/t/852635) ![](assets/new.png)  
-- [2022-05-13-上海|杭州字节跳动招聘-iOS-开发工程师](https://www.v2ex.com/t/852634) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -564,15 +564,15 @@
 - [2022-05-13-.NET性能优化-使用ValueStringBuilder拼接字符串](https://toutiao.io/k/h0t0te9) ![](assets/new.png)  
 - [2022-05-13-测试策略的实现](https://toutiao.io/k/cnyplmw) ![](assets/new.png)  
 - [2022-05-13-效率提升10倍，网易游戏面向终态的应用交付实践](https://toutiao.io/k/yc0lyk1) ![](assets/new.png)  
-- [2022-05-13-云原生钻石课程|第11课：Kubernetes应用管理深度剖析](https://toutiao.io/k/s4152lv) ![](assets/new.png)  
 - [2022-05-13-科普-Service-Worker-入门指南](https://toutiao.io/k/ugcs3o1) ![](assets/new.png)  
+- [2022-05-13-云原生钻石课程|第11课：Kubernetes应用管理深度剖析](https://toutiao.io/k/s4152lv) ![](assets/new.png)  
 - [2022-05-13-独立开发变现周刊（第54期）：从开始的失败中发现新想法，SaaS产品月收入5.5万美金](https://toutiao.io/k/6e6a1dx) ![](assets/new.png)  
 - [2022-05-13-Kotlin-VS-C#---协程与异步](https://toutiao.io/k/mj28wx1) ![](assets/new.png)  
 - [2022-05-13-【Java-18】使用方法句柄重新实现核心反射功能](https://toutiao.io/k/hbxs9ma) ![](assets/new.png)  
 - [2022-05-13-你知道数据发散和数据倾斜么？](https://toutiao.io/k/qpq75s5) ![](assets/new.png)  
-- [2022-05-13-推荐-架构设计资料合集](https://toutiao.io/k/iqlrz7b) ![](assets/new.png)  
-- [2022-05-13-推荐-15K-Star！Github-上最火的低代码开发平台！](https://toutiao.io/k/3qv24va) ![](assets/new.png)  
 - [2022-05-13-推荐-左耳朵耗子：我做系统架构的一些原则](https://toutiao.io/k/9oljc6o) ![](assets/new.png)  
+- [2022-05-13-推荐-15K-Star！Github-上最火的低代码开发平台！](https://toutiao.io/k/3qv24va) ![](assets/new.png)  
+- [2022-05-13-推荐-架构设计资料合集](https://toutiao.io/k/iqlrz7b) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-05-13 01:11:31。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-05-13 03:32:58。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -71,7 +71,6 @@
 
 
 
-- [【V2EX】EmberJS-为啥是-JavaScript-跟-TypeScript-混写的？](https://www.v2ex.com/t/852505)
 - [......【查看更多】......](./details/tags/typescript.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -89,6 +88,7 @@
 
 
 - [【武汉肺炎防疫全纪录(财新网)】韩国拟升级首尔疫情管控-法国专业机构建议强制接种疫苗｜大流行手记（7月10日）](https://m.caixin.com/m/2021-07-11/101738786.html)
+- [【V2EX】构建测试的体系化思维](https://www.v2ex.com/t/852553)
 - [......【查看更多】......](./details/tags/pack-build.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -155,6 +155,7 @@
 
 
 - [【V2EX】隔离在家无聊，大家来分享一下感觉游戏性高的独立游戏吧](https://www.v2ex.com/t/852549)
+- [【开发者头条】效率提升10倍，网易游戏面向终态的应用交付实践](https://toutiao.io/k/yc0lyk1)
 - [......【查看更多】......](./details/tags/dev-game.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -183,8 +184,11 @@
 - [【张鑫旭-鑫空间-鑫生活】CSS实现滚动高度自动变小的粘滞效果](https://www.zhangxinxu.com/wordpress/2022/04/css-sticky-size-change/)
 - [【张鑫旭-鑫空间-鑫生活】基于howler.js写了个音频播放器组件](https://www.zhangxinxu.com/wordpress/2022/03/howler-js-audio-player/)
 - [【张鑫旭-鑫空间-鑫生活】介绍8个和滚动相关的CSS属性](https://www.zhangxinxu.com/wordpress/2022/03/10-css-scroll-scrollbar/)
-- [【V2EX】事件驱动-IO-和信号驱动-IO-的区别是-前者内核在数据可读后通知-select-进程，-select-进程再通知用户进程-而后者直接通知用户进程吗？](https://www.v2ex.com/t/852516)
+- [【V2EX】据我所知公司没有专门的监控软件，但老板爱看路由器的访问记录，请问我全程挂-VPN-的话能隐身吗？](https://www.v2ex.com/t/852580)
+- [【V2EX】macOS-桌面也用到了-JavaScript-+-HTML-+-CSS-来实现](https://www.v2ex.com/t/852564)
 - [【技术头条】Promise必备知识汇总和面试情况-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15079&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493965%26amp%3Bidx%3D2%26amp%3Bsn%3Df9e6a81a83f12f514fd7816a6aa8db51%26amp%3Bchksm%3Dfa3f0816cd488100e7457a564b15183e835042d0e03b42e9c145b196355be1b141bd726cd89b%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
+- [【开发者头条】CompletableFuture原理与实践-外卖商家端API的异步化](https://toutiao.io/k/08s2zrd)
+- [【开发者头条】科普-Service-Worker-入门指南](https://toutiao.io/k/ugcs3o1)
 - [......【查看更多】......](./details/tags/javascript.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -204,7 +208,6 @@
 - [【张鑫旭-鑫空间-鑫生活】使用CSS-size-adjust和unicode-range改变任意文字尺寸](https://www.zhangxinxu.com/wordpress/2022/03/css-size-adjust-font-unicode-range/)
 - [【张鑫旭-鑫空间-鑫生活】CSS-accent-color属性简介](https://www.zhangxinxu.com/wordpress/2022/03/css-accent-color/)
 - [【张鑫旭-鑫空间-鑫生活】被低估的border-image属性](https://www.zhangxinxu.com/wordpress/2022/02/css-border-image-tap-highlight/)
-- [【V2EX】吐槽这个世界上为什么会有-Tailwind-Css-这种东西？](https://www.v2ex.com/t/852519)
 - [......【查看更多】......](./details/tags/css.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -255,6 +258,7 @@
 
 
 
+- [【V2EX】有什么类似-AES-但性能更高的加密算法吗？](https://www.v2ex.com/t/852574)
 - [【技术头条】如何通过缓存来提升系统性能-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15083&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493982%26amp%3Bidx%3D2%26amp%3Bsn%3Dba44fde5dac86ee58162df9e9630cc8d%26amp%3Bchksm%3Dfa3f0805cd488113453f87304c6a52955bf0d4127f4d0262d2112d9499a323a322a90eee3c9e%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【开发者头条】.NET性能优化-使用ValueStringBuilder拼接字符串](https://toutiao.io/k/h0t0te9)
 - [......【查看更多】......](./details/tags/optimization.md)
@@ -279,8 +283,8 @@
 - [【武汉肺炎防疫全纪录(财新网)】腺病毒新冠疫苗引安全忧虑-康希诺称未发现血栓病例](https://m.caixin.com/m/2021-04-14/101691086.html)
 - [【武汉肺炎防疫全纪录(财新网)】解药|新冠mRNA疫苗安全性有哪些挑战？](https://m.caixin.com/m/2021-01-08/101648043.html)
 - [【武汉肺炎防疫全纪录(财新网)】大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html)
-- [【V2EX】程序员必备浏览器插件集成库](https://www.v2ex.com/t/852535)
-- [【V2EX】某市安全保卫支队扫描到服务器有漏洞，要求补上，要不然就要罚款，这合理吗？](https://www.v2ex.com/t/852528)
+- [【V2EX】求一款-chrome-插件,能扫出某个站点所有用到域名](https://www.v2ex.com/t/852582)
+- [【V2EX】分享如何使用-curl-和-openssl-命令简单测试-SNI-阻断](https://www.v2ex.com/t/852567)
 - [【技术头条】App开放接口api安全：Token签名sign的设计与实现-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15085&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493985%26amp%3Bidx%3D2%26amp%3Bsn%3Dd7b1313ef4a0226295c81127ee22c958%26amp%3Bchksm%3Dfa3f083acd48812c339da2d4de950a0fda74f93663bc630c95de45f1f211ed7ec8aab67904fd%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【技术头条】深入业务场景，解决业务安全风险-www.sec-un.org](https://blogread.cn/news/go.php?idItem=15070&url=https%3A%2F%2Fwww.sec-un.org%2F%25e6%25b7%25b1%25e5%2585%25a5%25e4%25b8%259a%25e5%258a%25a1%25e5%259c%25ba%25e6%2599%25af%25ef%25bc%258c%25e8%25a7%25a3%25e5%2586%25b3%25e4%25b8%259a%25e5%258a%25a1%25e5%25ae%2589%25e5%2585%25a8%25e9%25a3%258e%25e9%2599%25a9%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [......【查看更多】......](./details/tags/browser.md)
@@ -349,8 +353,7 @@
 
 
 
-- [【V2EX】如果你是面试官，应试者是其公司唯一的前端，你会有什么顾虑？](https://www.v2ex.com/t/852544)
-- [【V2EX】远程-年薪-100K-USD-以上，美国上市区块链公司招聘高级系统工程师](https://www.v2ex.com/t/852523)
+- [【V2EX】上海字节跳动招聘-资深-Android-ROM-研发-—-飞书](https://www.v2ex.com/t/852583)
 - [【技术头条】面试官提问三个Go接口的概念，-10年gopher竟无言以对-colobu.com](https://blogread.cn/news/go.php?idItem=15067&url=https%3A%2F%2Fcolobu.com%2F2022%2F01%2F16%2Fthree-new-concepts-of-go-interface-since-1-18%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [......【查看更多】......](./details/tags/job-interview.md)
 

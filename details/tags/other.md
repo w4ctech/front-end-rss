@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-05-13 13:30:14。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-05-13 14:04:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1912,6 +1912,8 @@
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2022-03-21-ascent-override-descent-override-line-gap-override一锅端](https://www.zhangxinxu.com/wordpress/2022/03/css-ascent-override-descent/) 
+- [2022-05-13-TF-卡手机无法读取，电脑能读取，这是什么情况？](https://www.v2ex.com/t/852711) 
+- [2022-05-13-花了-2-天时间，撸了个青岛核酸点查询小地图](https://www.v2ex.com/t/852710) 
 - [2022-05-13-求个小火箭规则](https://www.v2ex.com/t/852708) 
 - [2022-05-13-QQ-号差一点点就被盗了，吓人](https://www.v2ex.com/t/852707) 
 - [2022-05-13-每周回顾（第-11-周）：程序员辞职回家养猪是否可行？](https://www.v2ex.com/t/852706) 
@@ -1967,5 +1969,5 @@
 - [2022-05-13-独立开发变现周刊（第54期）：从开始的失败中发现新想法，SaaS产品月收入5.5万美金](https://toutiao.io/k/6e6a1dx) 
 - [2022-05-13-【Java-18】使用方法句柄重新实现核心反射功能](https://toutiao.io/k/hbxs9ma) 
 - [2022-05-13-你知道数据发散和数据倾斜么？](https://toutiao.io/k/qpq75s5) 
-- [2022-05-13-推荐-左耳朵耗子：我做系统架构的一些原则](https://toutiao.io/k/9oljc6o) 
 - [2022-05-13-推荐-架构设计资料合集](https://toutiao.io/k/iqlrz7b) 
+- [2022-05-13-推荐-左耳朵耗子：我做系统架构的一些原则](https://toutiao.io/k/9oljc6o) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-05-13 13:30:14，:rocket: 更新条数: +2021， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-05-13 14:04:08，:rocket: 更新条数: +2022， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-05-13-TF-卡手机无法读取，电脑能读取，这是什么情况？](https://www.v2ex.com/t/852711) ![](assets/new.png)  
+- [2022-05-13-花了-2-天时间，撸了个青岛核酸点查询小地图](https://www.v2ex.com/t/852710) ![](assets/new.png)  
 - [2022-05-13-求个小火箭规则](https://www.v2ex.com/t/852708) ![](assets/new.png)  
 - [2022-05-13-QQ-号差一点点就被盗了，吓人](https://www.v2ex.com/t/852707) ![](assets/new.png)  
 - [2022-05-13-每周回顾（第-11-周）：程序员辞职回家养猪是否可行？](https://www.v2ex.com/t/852706) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-05-13-上海-HC-#元宇宙#智能虚拟人#UGC+GPT-3#硅谷创业团队#寻找数据开发工程师](https://www.v2ex.com/t/852686) ![](assets/new.png)  
 - [2022-05-13-对-coroutine.__await__-调用-next-为什么会导致重复进入-Future.__await__](https://www.v2ex.com/t/852684) ![](assets/new.png)  
 - [2022-05-13-有没有电动剃须刀推荐啊](https://www.v2ex.com/t/852683) ![](assets/new.png)  
-- [2022-05-13-新的-mbp-外观有缺陷，退不退好](https://www.v2ex.com/t/852682) ![](assets/new.png)  
-- [2022-05-13-想了解下-UST-和-Luna，站内搜到一些内容，真行啊](https://www.v2ex.com/t/852680) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -564,15 +564,15 @@
 - [2022-05-13-测试策略的实现](https://toutiao.io/k/cnyplmw) ![](assets/new.png)  
 - [2022-05-13-.NET性能优化-使用ValueStringBuilder拼接字符串](https://toutiao.io/k/h0t0te9) ![](assets/new.png)  
 - [2022-05-13-效率提升10倍，网易游戏面向终态的应用交付实践](https://toutiao.io/k/yc0lyk1) ![](assets/new.png)  
-- [2022-05-13-科普-Service-Worker-入门指南](https://toutiao.io/k/ugcs3o1) ![](assets/new.png)  
 - [2022-05-13-云原生钻石课程|第11课：Kubernetes应用管理深度剖析](https://toutiao.io/k/s4152lv) ![](assets/new.png)  
+- [2022-05-13-科普-Service-Worker-入门指南](https://toutiao.io/k/ugcs3o1) ![](assets/new.png)  
 - [2022-05-13-独立开发变现周刊（第54期）：从开始的失败中发现新想法，SaaS产品月收入5.5万美金](https://toutiao.io/k/6e6a1dx) ![](assets/new.png)  
 - [2022-05-13-Kotlin-VS-C#---协程与异步](https://toutiao.io/k/mj28wx1) ![](assets/new.png)  
 - [2022-05-13-【Java-18】使用方法句柄重新实现核心反射功能](https://toutiao.io/k/hbxs9ma) ![](assets/new.png)  
 - [2022-05-13-你知道数据发散和数据倾斜么？](https://toutiao.io/k/qpq75s5) ![](assets/new.png)  
-- [2022-05-13-推荐-15K-Star！Github-上最火的低代码开发平台！](https://toutiao.io/k/3qv24va) ![](assets/new.png)  
-- [2022-05-13-推荐-左耳朵耗子：我做系统架构的一些原则](https://toutiao.io/k/9oljc6o) ![](assets/new.png)  
 - [2022-05-13-推荐-架构设计资料合集](https://toutiao.io/k/iqlrz7b) ![](assets/new.png)  
+- [2022-05-13-推荐-左耳朵耗子：我做系统架构的一些原则](https://toutiao.io/k/9oljc6o) ![](assets/new.png)  
+- [2022-05-13-推荐-15K-Star！Github-上最火的低代码开发平台！](https://toutiao.io/k/3qv24va) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

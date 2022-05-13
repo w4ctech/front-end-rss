@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-05-13 04:37:24，:rocket: 更新条数: +2023， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-05-13 05:38:59，:rocket: 更新条数: +2022， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,12 @@
 </summary>
 
 
+- [2022-05-13-想回老家，但感觉回不去了，怎么办？](https://www.v2ex.com/t/852624) ![](assets/new.png)  
+- [2022-05-13-喇嘛新专辑来了](https://www.v2ex.com/t/852622) ![](assets/new.png)  
+- [2022-05-13-12mini-耗电突然变快，怎么办](https://www.v2ex.com/t/852621) ![](assets/new.png)  
+- [2022-05-13-RubyTear-翻译成中文，仅限两个字，除了-红泪-，还能如何翻译？](https://www.v2ex.com/t/852620) ![](assets/new.png)  
+- [2022-05-13-请问-macOS-上有什么视频播放器在-AirPlay-到-HomePod-mini-时音频无延时呢](https://www.v2ex.com/t/852619) ![](assets/new.png)  
+- [2022-05-13-当前疫*情*形*势下，有多少人仔细考虑过解封之后回老家建设家乡](https://www.v2ex.com/t/852617) ![](assets/new.png)  
 - [2022-05-13-分享一下-MacBook-Air-16+256-香港官翻购买经历](https://www.v2ex.com/t/852615) ![](assets/new.png)  
 - [2022-05-13-tiktok-刷视频很流畅的看。但是到了直播就看不到了。怎么回事呀](https://www.v2ex.com/t/852614) ![](assets/new.png)  
 - [2022-05-13-大哥们，你们用网页看爱奇艺电脑会蓝屏吗](https://www.v2ex.com/t/852613) ![](assets/new.png)  
@@ -505,12 +511,6 @@
 - [2022-05-13-Authing-的组织文化-：乐观派组织](https://www.v2ex.com/t/852603) ![](assets/new.png)  
 - [2022-05-13-在-then-中末尾返回-Promise.resolve，为什么改变了进入微任务队列的顺序呢？](https://www.v2ex.com/t/852602) ![](assets/new.png)  
 - [2022-05-13-惠普战-X-AMD-锐龙版-Windows-10-使用一年半遇到的问题总结](https://www.v2ex.com/t/852601) ![](assets/new.png)  
-- [2022-05-13-恰逢暴跌，加密货币如何买呢？有推荐的平台吗？想用闲钱抄个底](https://www.v2ex.com/t/852600) ![](assets/new.png)  
-- [2022-05-13-vue-项目实战](https://www.v2ex.com/t/852599) ![](assets/new.png)  
-- [2022-05-13-苹果音乐占用-80-个-G-内存](https://www.v2ex.com/t/852598) ![](assets/new.png)  
-- [2022-05-13-昨天看-luna-币暴跌，如果做空选手碰到反弹爆仓的话，该怎么追偿呢？](https://www.v2ex.com/t/852594) ![](assets/new.png)  
-- [2022-05-13-Apple-旧设备如何回收给苹果](https://www.v2ex.com/t/852593) ![](assets/new.png)  
-- [2022-05-13-有人修过-LG-UltraFine-4K-屏幕吗？-大概什么费用？](https://www.v2ex.com/t/852592) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -564,10 +564,10 @@
 - [2022-05-13-CompletableFuture原理与实践-外卖商家端API的异步化](https://toutiao.io/k/08s2zrd) ![](assets/new.png)  
 - [2022-05-13-效率提升10倍，网易游戏面向终态的应用交付实践](https://toutiao.io/k/yc0lyk1) ![](assets/new.png)  
 - [2022-05-13-测试策略的实现](https://toutiao.io/k/cnyplmw) ![](assets/new.png)  
-- [2022-05-13-科普-Service-Worker-入门指南](https://toutiao.io/k/ugcs3o1) ![](assets/new.png)  
 - [2022-05-13-云原生钻石课程|第11课：Kubernetes应用管理深度剖析](https://toutiao.io/k/s4152lv) ![](assets/new.png)  
-- [2022-05-13-推荐-左耳朵耗子：我做系统架构的一些原则](https://toutiao.io/k/9oljc6o) ![](assets/new.png)  
+- [2022-05-13-科普-Service-Worker-入门指南](https://toutiao.io/k/ugcs3o1) ![](assets/new.png)  
 - [2022-05-13-推荐-架构设计资料合集](https://toutiao.io/k/iqlrz7b) ![](assets/new.png)  
+- [2022-05-13-推荐-左耳朵耗子：我做系统架构的一些原则](https://toutiao.io/k/9oljc6o) ![](assets/new.png)  
 - [2022-05-13-推荐-15K-Star！Github-上最火的低代码开发平台！](https://toutiao.io/k/3qv24va) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

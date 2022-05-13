@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-05-13 04:37:24。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-05-13 05:38:59。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -69,6 +69,12 @@
 
 
 - [【张鑫旭-鑫空间-鑫生活】2022-05-11-JS与条形码的生成](https://www.zhangxinxu.com/wordpress/2022/05/js-barcode/) 
+- [【V2EX】2022-05-13-想回老家，但感觉回不去了，怎么办？](https://www.v2ex.com/t/852624) 
+- [【V2EX】2022-05-13-喇嘛新专辑来了](https://www.v2ex.com/t/852622) 
+- [【V2EX】2022-05-13-12mini-耗电突然变快，怎么办](https://www.v2ex.com/t/852621) 
+- [【V2EX】2022-05-13-RubyTear-翻译成中文，仅限两个字，除了-红泪-，还能如何翻译？](https://www.v2ex.com/t/852620) 
+- [【V2EX】2022-05-13-请问-macOS-上有什么视频播放器在-AirPlay-到-HomePod-mini-时音频无延时呢](https://www.v2ex.com/t/852619) 
+- [【V2EX】2022-05-13-当前疫*情*形*势下，有多少人仔细考虑过解封之后回老家建设家乡](https://www.v2ex.com/t/852617) 
 - [【V2EX】2022-05-13-分享一下-MacBook-Air-16+256-香港官翻购买经历](https://www.v2ex.com/t/852615) 
 - [【V2EX】2022-05-13-tiktok-刷视频很流畅的看。但是到了直播就看不到了。怎么回事呀](https://www.v2ex.com/t/852614) 
 - [【V2EX】2022-05-13-大哥们，你们用网页看爱奇艺电脑会蓝屏吗](https://www.v2ex.com/t/852613) 
@@ -102,14 +108,7 @@
 - [【V2EX】2022-05-13-据我所知公司没有专门的监控软件，但老板爱看路由器的访问记录，请问我全程挂-VPN-的话能隐身吗？](https://www.v2ex.com/t/852580) 
 - [【V2EX】2022-05-13-这些约疫苗的平台不公平秒杀怎么破](https://www.v2ex.com/t/852579) 
 - [【V2EX】2022-05-13-买-M1-还是-Intel？](https://www.v2ex.com/t/852578) 
-- [【V2EX】2022-05-13-上海封闭快挺不住了！](https://www.v2ex.com/t/852577) 
 - [【V2EX】2022-05-13-SpringBoot-创建的-jar-包热部署](https://www.v2ex.com/t/852576) 
-- [【V2EX】2022-05-13-有什么类似-AES-但性能更高的加密算法吗？](https://www.v2ex.com/t/852574) 
-- [【V2EX】2022-05-13-开源个自用服务监控，然后使用云函数下发模板消息通知的小脚本](https://www.v2ex.com/t/852573) 
-- [【V2EX】2022-05-13-有大佬知道-idea-怎么对同一个项目同时打开不同分支的窗口](https://www.v2ex.com/t/852571) 
-- [【V2EX】2022-05-13-哎,-怎么变得不会用呢](https://www.v2ex.com/t/852570) 
-- [【V2EX】2022-05-13-如果你的-iPhone-在夜间-“音乐”-App-存在异常耗电……](https://www.v2ex.com/t/852568) 
-- [【V2EX】2022-05-13-分享如何使用-curl-和-openssl-命令简单测试-SNI-阻断](https://www.v2ex.com/t/852567) 
 - [【技术头条】2022-05-13-Wallys-5G/LTE-cat-16/USB-3.1-/GNSS-optional-VoLTEoptional-www.wallystech.com](https://blogread.cn/news/go.php?idItem=15086&url=https%3A%2F%2Fwww.wallystech.com%2FQuectel_modules%2F5G-RM500Q-GL-5G-LTE-cat-16-USB-3.1-GNSS-optional-VoLTE-optional.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-05-13-App开放接口api安全：Token签名sign的设计与实现-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15085&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493985%26amp%3Bidx%3D2%26amp%3Bsn%3Dd7b1313ef4a0226295c81127ee22c958%26amp%3Bchksm%3Dfa3f083acd48812c339da2d4de950a0fda74f93663bc630c95de45f1f211ed7ec8aab67904fd%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-05-13-伪造邮件钓鱼，要知道的秘密！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15084&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493982%26amp%3Bidx%3D1%26amp%3Bsn%3D3f0b70405d32ee9faa4b706b930f4c28%26amp%3Bchksm%3Dfa3f0805cd4881138955b45d1bcad7a23c209bffe81a7a5b830802df75abe10454790e2ae03c%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -141,10 +140,10 @@
 - [【开发者头条】2022-05-13-CompletableFuture原理与实践-外卖商家端API的异步化](https://toutiao.io/k/08s2zrd) 
 - [【开发者头条】2022-05-13-效率提升10倍，网易游戏面向终态的应用交付实践](https://toutiao.io/k/yc0lyk1) 
 - [【开发者头条】2022-05-13-测试策略的实现](https://toutiao.io/k/cnyplmw) 
-- [【开发者头条】2022-05-13-科普-Service-Worker-入门指南](https://toutiao.io/k/ugcs3o1) 
 - [【开发者头条】2022-05-13-云原生钻石课程|第11课：Kubernetes应用管理深度剖析](https://toutiao.io/k/s4152lv) 
-- [【开发者头条】2022-05-13-推荐-左耳朵耗子：我做系统架构的一些原则](https://toutiao.io/k/9oljc6o) 
+- [【开发者头条】2022-05-13-科普-Service-Worker-入门指南](https://toutiao.io/k/ugcs3o1) 
 - [【开发者头条】2022-05-13-推荐-架构设计资料合集](https://toutiao.io/k/iqlrz7b) 
+- [【开发者头条】2022-05-13-推荐-左耳朵耗子：我做系统架构的一些原则](https://toutiao.io/k/9oljc6o) 
 - [【开发者头条】2022-05-13-推荐-15K-Star！Github-上最火的低代码开发平台！](https://toutiao.io/k/3qv24va) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>

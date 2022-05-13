@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-05-13 11:13:15。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-05-13 11:39:26。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -156,7 +156,6 @@
 
 
 
-- [【V2EX】武汉游戏公司招聘](https://www.v2ex.com/t/852643)
 - [【开发者头条】效率提升10倍，网易游戏面向终态的应用交付实践](https://toutiao.io/k/yc0lyk1)
 - [......【查看更多】......](./details/tags/dev-game.md)
 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-05-13 22:43:21，:rocket: 更新条数: +2027， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-05-13 23:05:25，:rocket: 更新条数: +2027， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-05-13-IOS-有没有类似像-Zone-Launcher-这样的应用](https://www.v2ex.com/t/852737) ![](assets/new.png)  
 - [2022-05-13-有没有类似滴滴那样的可以显示所有使用滴滴-app-的司机实时位置的开源应用？](https://www.v2ex.com/t/852736) ![](assets/new.png)  
 - [2022-05-13-Python-已经修复了在-windows-上的系统代理注册表错误-BUG](https://www.v2ex.com/t/852735) ![](assets/new.png)  
 - [2022-05-13-GitHub-上面的源码如何包装成-apk](https://www.v2ex.com/t/852734) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-05-13-apple.com-挂了吗？](https://www.v2ex.com/t/852719) ![](assets/new.png)  
 - [2022-05-13-Spotify-部分被墙](https://www.v2ex.com/t/852718) ![](assets/new.png)  
 - [2022-05-13-来自著名传奇程序员-guoyu-的-Web3-DApp-最佳编程实践指南](https://www.v2ex.com/t/852717) ![](assets/new.png)  
-- [2022-05-13-有偿求购电动汽车-计费管理平台](https://www.v2ex.com/t/852716) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -570,9 +570,9 @@
 - [2022-05-13-Kotlin-VS-C#---协程与异步](https://toutiao.io/k/mj28wx1) ![](assets/new.png)  
 - [2022-05-13-【Java-18】使用方法句柄重新实现核心反射功能](https://toutiao.io/k/hbxs9ma) ![](assets/new.png)  
 - [2022-05-13-你知道数据发散和数据倾斜么？](https://toutiao.io/k/qpq75s5) ![](assets/new.png)  
-- [2022-05-13-推荐-15K-Star！Github-上最火的低代码开发平台！](https://toutiao.io/k/3qv24va) ![](assets/new.png)  
-- [2022-05-13-推荐-跨Mysql、Redis、Mongo的分布式事务](https://toutiao.io/k/246clz1) ![](assets/new.png)  
 - [2022-05-13-推荐-左耳朵耗子：我做系统架构的一些原则](https://toutiao.io/k/9oljc6o) ![](assets/new.png)  
+- [2022-05-13-推荐-架构设计资料合集](https://toutiao.io/k/iqlrz7b) ![](assets/new.png)  
+- [2022-05-13-推荐-15K-Star！Github-上最火的低代码开发平台！](https://toutiao.io/k/3qv24va) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

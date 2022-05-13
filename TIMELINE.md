@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-05-13 06:54:55。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-05-13 07:15:55。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -69,6 +69,10 @@
 
 
 - [【张鑫旭-鑫空间-鑫生活】2022-05-11-JS与条形码的生成](https://www.zhangxinxu.com/wordpress/2022/05/js-barcode/) 
+- [【V2EX】2022-05-13-有人关注-2022.05-的阿里裁员传闻么](https://www.v2ex.com/t/852641) 
+- [【V2EX】2022-05-13-各位大佬关于办公场景的需求是什么样的？](https://www.v2ex.com/t/852640) 
+- [【V2EX】2022-05-13-我们这代人的未来在哪里？](https://www.v2ex.com/t/852639) 
+- [【V2EX】2022-05-13-润-||-留](https://www.v2ex.com/t/852638) 
 - [【V2EX】2022-05-13-杭州个人缴纳社保流程](https://www.v2ex.com/t/852636) 
 - [【V2EX】2022-05-13-2022-年-5-月-13-日：如何安全的入金比特币或者-BUSD](https://www.v2ex.com/t/852635) 
 - [【V2EX】2022-05-13-上海|杭州字节跳动招聘-iOS-开发工程师](https://www.v2ex.com/t/852634) 
@@ -106,11 +110,6 @@
 - [【V2EX】2022-05-13-苹果音乐占用-80-个-G-内存](https://www.v2ex.com/t/852598) 
 - [【V2EX】2022-05-13-昨天看-luna-币暴跌，如果做空选手碰到反弹爆仓的话，该怎么追偿呢？](https://www.v2ex.com/t/852594) 
 - [【V2EX】2022-05-13-Apple-旧设备如何回收给苹果](https://www.v2ex.com/t/852593) 
-- [【V2EX】2022-05-13-有人修过-LG-UltraFine-4K-屏幕吗？-大概什么费用？](https://www.v2ex.com/t/852592) 
-- [【V2EX】2022-05-13-有老哥对无线耳机比较熟的吗？求无线耳机推荐。](https://www.v2ex.com/t/852591) 
-- [【V2EX】2022-05-13-台式-win-和-mbp-如何共用一个桌面音响](https://www.v2ex.com/t/852590) 
-- [【V2EX】2022-05-13-上海-不加班-外企-招-Java-、测试、C++、-Python-、安卓](https://www.v2ex.com/t/852589) 
-- [【V2EX】2022-05-13-腰突复发，哎](https://www.v2ex.com/t/852588) 
 - [【技术头条】2022-05-13-Wallys-5G/LTE-cat-16/USB-3.1-/GNSS-optional-VoLTEoptional-www.wallystech.com](https://blogread.cn/news/go.php?idItem=15086&url=https%3A%2F%2Fwww.wallystech.com%2FQuectel_modules%2F5G-RM500Q-GL-5G-LTE-cat-16-USB-3.1-GNSS-optional-VoLTE-optional.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-05-13-App开放接口api安全：Token签名sign的设计与实现-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15085&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493985%26amp%3Bidx%3D2%26amp%3Bsn%3Dd7b1313ef4a0226295c81127ee22c958%26amp%3Bchksm%3Dfa3f083acd48812c339da2d4de950a0fda74f93663bc630c95de45f1f211ed7ec8aab67904fd%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-05-13-伪造邮件钓鱼，要知道的秘密！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15084&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493982%26amp%3Bidx%3D1%26amp%3Bsn%3D3f0b70405d32ee9faa4b706b930f4c28%26amp%3Bchksm%3Dfa3f0805cd4881138955b45d1bcad7a23c209bffe81a7a5b830802df75abe10454790e2ae03c%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -142,15 +141,15 @@
 - [【开发者头条】2022-05-13-.NET性能优化-使用ValueStringBuilder拼接字符串](https://toutiao.io/k/h0t0te9) 
 - [【开发者头条】2022-05-13-效率提升10倍，网易游戏面向终态的应用交付实践](https://toutiao.io/k/yc0lyk1) 
 - [【开发者头条】2022-05-13-测试策略的实现](https://toutiao.io/k/cnyplmw) 
-- [【开发者头条】2022-05-13-云原生钻石课程|第11课：Kubernetes应用管理深度剖析](https://toutiao.io/k/s4152lv) 
 - [【开发者头条】2022-05-13-科普-Service-Worker-入门指南](https://toutiao.io/k/ugcs3o1) 
+- [【开发者头条】2022-05-13-云原生钻石课程|第11课：Kubernetes应用管理深度剖析](https://toutiao.io/k/s4152lv) 
 - [【开发者头条】2022-05-13-独立开发变现周刊（第54期）：从开始的失败中发现新想法，SaaS产品月收入5.5万美金](https://toutiao.io/k/6e6a1dx) 
 - [【开发者头条】2022-05-13-【Java-18】使用方法句柄重新实现核心反射功能](https://toutiao.io/k/hbxs9ma) 
 - [【开发者头条】2022-05-13-Kotlin-VS-C#---协程与异步](https://toutiao.io/k/mj28wx1) 
 - [【开发者头条】2022-05-13-你知道数据发散和数据倾斜么？](https://toutiao.io/k/qpq75s5) 
+- [【开发者头条】2022-05-13-推荐-15K-Star！Github-上最火的低代码开发平台！](https://toutiao.io/k/3qv24va) 
 - [【开发者头条】2022-05-13-推荐-左耳朵耗子：我做系统架构的一些原则](https://toutiao.io/k/9oljc6o) 
 - [【开发者头条】2022-05-13-推荐-架构设计资料合集](https://toutiao.io/k/iqlrz7b) 
-- [【开发者头条】2022-05-13-推荐-15K-Star！Github-上最火的低代码开发平台！](https://toutiao.io/k/3qv24va) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

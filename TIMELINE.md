@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-05-14 09:14:00。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-05-14 09:40:50。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -69,6 +69,8 @@
 
 
 - [【张鑫旭-鑫空间-鑫生活】2022-05-11-JS与条形码的生成](https://www.zhangxinxu.com/wordpress/2022/05/js-barcode/) 
+- [【V2EX】2022-05-14-建了一个-V2EX-润学-TG-群，有兴趣的-V-友可加](https://www.v2ex.com/t/852827) 
+- [【V2EX】2022-05-14-群晖升级系统的技术细节](https://www.v2ex.com/t/852825) 
 - [【V2EX】2022-05-14-杭州字节跳动招聘-Android-开发工程师](https://www.v2ex.com/t/852824) 
 - [【V2EX】2022-05-14-海鲜市场的宽带报装可靠吗？](https://www.v2ex.com/t/852823) 
 - [【V2EX】2022-05-14-大佬们请教一下，爱发电这种经营方式是逃税行为吗？](https://www.v2ex.com/t/852822) 
@@ -106,8 +108,6 @@
 - [【V2EX】2022-05-14-发现-115-网盘一个奇怪的问题](https://www.v2ex.com/t/852783) 
 - [【V2EX】2022-05-14-1password8-的-ssh-agent-体验](https://www.v2ex.com/t/852780) 
 - [【V2EX】2022-05-14-恩杰-H1-机箱替换水冷](https://www.v2ex.com/t/852779) 
-- [【V2EX】2022-05-14-iPadOS“屏幕使用时间”功能里同一个设备出现两次](https://www.v2ex.com/t/852778) 
-- [【V2EX】2022-05-14-买的-Qspace-pro-可以直接打开解压文件，但里面的文件不能复制黏贴](https://www.v2ex.com/t/852777) 
 - [【技术头条】2022-05-14-Wallys-5G/LTE-cat-16/USB-3.1-/GNSS-optional-VoLTEoptional-www.wallystech.com](https://blogread.cn/news/go.php?idItem=15086&url=https%3A%2F%2Fwww.wallystech.com%2FQuectel_modules%2F5G-RM500Q-GL-5G-LTE-cat-16-USB-3.1-GNSS-optional-VoLTE-optional.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-05-14-App开放接口api安全：Token签名sign的设计与实现-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15085&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493985%26amp%3Bidx%3D2%26amp%3Bsn%3Dd7b1313ef4a0226295c81127ee22c958%26amp%3Bchksm%3Dfa3f083acd48812c339da2d4de950a0fda74f93663bc630c95de45f1f211ed7ec8aab67904fd%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-05-14-伪造邮件钓鱼，要知道的秘密！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15084&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493982%26amp%3Bidx%3D1%26amp%3Bsn%3D3f0b70405d32ee9faa4b706b930f4c28%26amp%3Bchksm%3Dfa3f0805cd4881138955b45d1bcad7a23c209bffe81a7a5b830802df75abe10454790e2ae03c%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -138,11 +138,11 @@
 - [【开发者头条】2022-05-14-DeepMind「通才」AI智能体Gato来了，多模态、多任务，受大语言模型启发](https://toutiao.io/k/1yvyljf) 
 - [【开发者头条】2022-05-14-Dockertest-极速搭建集成测试环境神器](https://toutiao.io/k/c7jfd1g) 
 - [【开发者头条】2022-05-14-集成啦淘宝，京东，B站，微博，网易云音乐等等二十多个爬虫小项目的开源包~](https://toutiao.io/k/4bqr55a) 
+- [【开发者头条】2022-05-14-推荐-TCP-重传、滑动窗口、流量控制、拥塞控好难？看完图解就不愁了（重制）](https://toutiao.io/k/14tz08l) 
 - [【开发者头条】2022-05-14-推荐-左耳朵耗子：我做系统架构的一些原则](https://toutiao.io/k/9oljc6o) 
-- [【开发者头条】2022-05-14-推荐-15K-Star！Github-上最火的低代码开发平台！](https://toutiao.io/k/3qv24va) 
 - [【开发者头条】2022-05-14-推荐-跨Mysql、Redis、Mongo的分布式事务](https://toutiao.io/k/246clz1) 
 - [【开发者头条】2022-05-14-推荐-架构设计资料合集](https://toutiao.io/k/iqlrz7b) 
-- [【开发者头条】2022-05-14-推荐-TCP-重传、滑动窗口、流量控制、拥塞控好难？看完图解就不愁了（重制）](https://toutiao.io/k/14tz08l) 
+- [【开发者头条】2022-05-14-推荐-15K-Star！Github-上最火的低代码开发平台！](https://toutiao.io/k/3qv24va) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

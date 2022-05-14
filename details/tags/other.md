@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-05-14 19:36:43。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-05-14 20:15:02。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1959,7 +1959,7 @@
 - [2022-05-14-集成啦淘宝，京东，B站，微博，网易云音乐等等二十多个爬虫小项目的开源包~](https://toutiao.io/k/4bqr55a) 
 - [2022-05-14-PowerShell主架构师：我用业余时间开发项目，表现优秀反而被微软降级了](https://toutiao.io/k/z4g6o1z) 
 - [2022-05-14-DeepMind「通才」AI智能体Gato来了，多模态、多任务，受大语言模型启发](https://toutiao.io/k/1yvyljf) 
-- [2022-05-14-推荐-TCP-重传、滑动窗口、流量控制、拥塞控好难？看完图解就不愁了（重制）](https://toutiao.io/k/14tz08l) 
+- [2022-05-14-推荐-架构设计资料合集](https://toutiao.io/k/iqlrz7b) 
 - [2022-05-14-推荐-左耳朵耗子：我做系统架构的一些原则](https://toutiao.io/k/9oljc6o) 
 - [2022-05-14-推荐-跨Mysql、Redis、Mongo的分布式事务](https://toutiao.io/k/246clz1) 
-- [2022-05-14-推荐-架构设计资料合集](https://toutiao.io/k/iqlrz7b) 
+- [2022-05-14-推荐-TCP-重传、滑动窗口、流量控制、拥塞控好难？看完图解就不愁了（重制）](https://toutiao.io/k/14tz08l) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-05-14 20:40:48，:rocket: 更新条数: +2022， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-05-14 21:13:00，:rocket: 更新条数: +2022， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-05-14-迪拜生活小技巧](https://www.v2ex.com/t/852893) ![](assets/new.png)  
+- [2022-05-14-有没有办法通过第三方-APP-支持互传联盟？](https://www.v2ex.com/t/852892) ![](assets/new.png)  
 - [2022-05-14-有没有一种语言像-PHP-那样可以「所见即所得」的开发？](https://www.v2ex.com/t/852891) ![](assets/new.png)  
 - [2022-05-14-各位大佬-谁有-leetcode-会员呀，求看-blackrock-tag-下面都有哪些算法题](https://www.v2ex.com/t/852889) ![](assets/new.png)  
 - [2022-05-14-上海/深圳/广州-985-本-前端自学练习生求收留](https://www.v2ex.com/t/852888) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-05-14-广东电信宽带经常掉速，是得要投诉-10000-号吗](https://www.v2ex.com/t/852873) ![](assets/new.png)  
 - [2022-05-14-每隔-10~20-分钟爬一次网站会被封吗？做热点聚合页面用](https://www.v2ex.com/t/852872) ![](assets/new.png)  
 - [2022-05-14-想要做出“熊猫吃短信”这样的-App，需要很深厚的机器学习的知识吗？](https://www.v2ex.com/t/852871) ![](assets/new.png)  
-- [2022-05-14-大家对于配老花镜有什么经验分享吗](https://www.v2ex.com/t/852869) ![](assets/new.png)  
-- [2022-05-14-目前坐高铁去北京，如果高铁途径中高风险地区，健康宝会弹窗吗？](https://www.v2ex.com/t/852868) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -563,11 +563,11 @@
 - [2022-05-14-集成啦淘宝，京东，B站，微博，网易云音乐等等二十多个爬虫小项目的开源包~](https://toutiao.io/k/4bqr55a) ![](assets/new.png)  
 - [2022-05-14-PowerShell主架构师：我用业余时间开发项目，表现优秀反而被微软降级了](https://toutiao.io/k/z4g6o1z) ![](assets/new.png)  
 - [2022-05-14-DeepMind「通才」AI智能体Gato来了，多模态、多任务，受大语言模型启发](https://toutiao.io/k/1yvyljf) ![](assets/new.png)  
-- [2022-05-14-推荐-跨Mysql、Redis、Mongo的分布式事务](https://toutiao.io/k/246clz1) ![](assets/new.png)  
+- [2022-05-14-推荐-TCP-重传、滑动窗口、流量控制、拥塞控好难？看完图解就不愁了（重制）](https://toutiao.io/k/14tz08l) ![](assets/new.png)  
 - [2022-05-14-推荐-架构设计资料合集](https://toutiao.io/k/iqlrz7b) ![](assets/new.png)  
 - [2022-05-14-推荐-左耳朵耗子：我做系统架构的一些原则](https://toutiao.io/k/9oljc6o) ![](assets/new.png)  
 - [2022-05-14-推荐-15K-Star！Github-上最火的低代码开发平台！](https://toutiao.io/k/3qv24va) ![](assets/new.png)  
-- [2022-05-14-推荐-TCP-重传、滑动窗口、流量控制、拥塞控好难？看完图解就不愁了（重制）](https://toutiao.io/k/14tz08l) ![](assets/new.png)  
+- [2022-05-14-推荐-跨Mysql、Redis、Mongo的分布式事务](https://toutiao.io/k/246clz1) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

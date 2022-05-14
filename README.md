@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-05-14 10:44:32，:rocket: 更新条数: +2018， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-05-14 11:12:56，:rocket: 更新条数: +2017， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-05-14-iOS-和-macOS-相册-app-无法自动更新人物](https://www.v2ex.com/t/852840) ![](assets/new.png)  
+- [2022-05-14-账号转美区后网页-icloud-无法登陆](https://www.v2ex.com/t/852839) ![](assets/new.png)  
 - [2022-05-14-上海-不加班-外企-招-Java-、测试、C++----内推朋友成功奖励-5000-块](https://www.v2ex.com/t/852836) ![](assets/new.png)  
 - [2022-05-14-2-天时间开发了一个文档聚合网站，有人交换友链吗？](https://www.v2ex.com/t/852833) ![](assets/new.png)  
 - [2022-05-14-padavan-路由器系统里-中文文件名显示有问题-怎么处理？](https://www.v2ex.com/t/852832) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-05-14-我可以外接比我笔记本分辨率大的显示器吗？](https://www.v2ex.com/t/852815) ![](assets/new.png)  
 - [2022-05-14-请问如何在-Android-上屏蔽-Google-内容农场（uBlacklist-替代品？）](https://www.v2ex.com/t/852814) ![](assets/new.png)  
 - [2022-05-14-有什么高亮度的显示器，可以背景是朝外的玻璃？](https://www.v2ex.com/t/852813) ![](assets/new.png)  
-- [2022-05-14-windows-rdp-在切换过客户端-DPI-后变的迟缓的问题有人遇到过吗？](https://www.v2ex.com/t/852811) ![](assets/new.png)  
-- [2022-05-14-iPhone-13-pro-max](https://www.v2ex.com/t/852810) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -563,11 +563,11 @@
 - [2022-05-14-Dockertest-极速搭建集成测试环境神器](https://toutiao.io/k/c7jfd1g) ![](assets/new.png)  
 - [2022-05-14-DeepMind「通才」AI智能体Gato来了，多模态、多任务，受大语言模型启发](https://toutiao.io/k/1yvyljf) ![](assets/new.png)  
 - [2022-05-14-集成啦淘宝，京东，B站，微博，网易云音乐等等二十多个爬虫小项目的开源包~](https://toutiao.io/k/4bqr55a) ![](assets/new.png)  
-- [2022-05-14-推荐-左耳朵耗子：我做系统架构的一些原则](https://toutiao.io/k/9oljc6o) ![](assets/new.png)  
-- [2022-05-14-推荐-15K-Star！Github-上最火的低代码开发平台！](https://toutiao.io/k/3qv24va) ![](assets/new.png)  
 - [2022-05-14-推荐-跨Mysql、Redis、Mongo的分布式事务](https://toutiao.io/k/246clz1) ![](assets/new.png)  
-- [2022-05-14-推荐-架构设计资料合集](https://toutiao.io/k/iqlrz7b) ![](assets/new.png)  
+- [2022-05-14-推荐-15K-Star！Github-上最火的低代码开发平台！](https://toutiao.io/k/3qv24va) ![](assets/new.png)  
+- [2022-05-14-推荐-左耳朵耗子：我做系统架构的一些原则](https://toutiao.io/k/9oljc6o) ![](assets/new.png)  
 - [2022-05-14-推荐-TCP-重传、滑动窗口、流量控制、拥塞控好难？看完图解就不愁了（重制）](https://toutiao.io/k/14tz08l) ![](assets/new.png)  
+- [2022-05-14-推荐-架构设计资料合集](https://toutiao.io/k/iqlrz7b) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

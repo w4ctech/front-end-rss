@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2022-05-14 10:44:32。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-05-14 11:12:56。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-05-14-iOS-和-macOS-相册-app-无法自动更新人物](https://www.v2ex.com/t/852840) 
+- [2022-05-14-账号转美区后网页-icloud-无法登陆](https://www.v2ex.com/t/852839) 
 - [2022-05-14-上海-不加班-外企-招-Java-、测试、C++----内推朋友成功奖励-5000-块](https://www.v2ex.com/t/852836) 
 - [2022-05-14-2-天时间开发了一个文档聚合网站，有人交换友链吗？](https://www.v2ex.com/t/852833) 
 - [2022-05-14-padavan-路由器系统里-中文文件名显示有问题-怎么处理？](https://www.v2ex.com/t/852832) 
@@ -39,6 +41,3 @@
 - [2022-05-14-vagrant-启动-virtualbox-报错:HostInterfaceNetworking-VirtualBox-Host-Only-Ethernet-Adapter](https://www.v2ex.com/t/852794) 
 - [2022-05-14-Klang-量化金融社区](https://www.v2ex.com/t/852793) 
 - [2022-05-14-按键精灵-2014-大漠插件-FindStr-功能完美识别字符串，但是无法识别-Chrome-里的字符串如何解决？](https://www.v2ex.com/t/852792) 
-- [2022-05-14-开发了一个照片分享工具：美宝秀云相册，各位帮忙提提建议](https://www.v2ex.com/t/852791) 
-- [2022-05-14-业内是如何实现-App-启动页热更新的?](https://www.v2ex.com/t/852790) 
-- [2022-05-14-腾讯云-国际版-可以不实名-买服务器-却不能用-也不能发工单-也没法退款](https://www.v2ex.com/t/852788) 

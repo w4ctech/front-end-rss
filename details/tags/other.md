@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-05-14 18:17:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-05-14 18:46:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1912,6 +1912,8 @@
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2022-03-21-ascent-override-descent-override-line-gap-override一锅端](https://www.zhangxinxu.com/wordpress/2022/03/css-ascent-override-descent/) 
+- [2022-05-14-上海/深圳/广州-985-本-前端自学练习生求收留](https://www.v2ex.com/t/852888) 
+- [2022-05-14-namesilo-新买的域名-ping-不通](https://www.v2ex.com/t/852887) 
 - [2022-05-14-求一个命令可以切换修饰键，就是-cmd-/-option-修改](https://www.v2ex.com/t/852885) 
 - [2022-05-14-wechat-和对方正常聊天，对方顶部弹出提示“对方账号不是中国大陆账号”](https://www.v2ex.com/t/852884) 
 - [2022-05-14-Apple-One-家庭组成员下载-Arcade-提示-cannot-invite-more-people](https://www.v2ex.com/t/852880) 
@@ -1940,7 +1942,6 @@
 - [2022-05-14-请教-mootdx](https://www.v2ex.com/t/852846) 
 - [2022-05-14-markdown-文件中的图片是本地存储，怎样批量把本-markdown-文件里的图片上传云存储](https://www.v2ex.com/t/852843) 
 - [2022-05-14-iOS-和-macOS-相册-app-无法自动更新人物](https://www.v2ex.com/t/852840) 
-- [2022-05-14-账号转美区后网页-icloud-无法登陆](https://www.v2ex.com/t/852839) 
 - [2022-05-14-Wallys-5G/LTE-cat-16/USB-3.1-/GNSS-optional-VoLTEoptional-www.wallystech.com](https://blogread.cn/news/go.php?idItem=15086&url=https%3A%2F%2Fwww.wallystech.com%2FQuectel_modules%2F5G-RM500Q-GL-5G-LTE-cat-16-USB-3.1-GNSS-optional-VoLTE-optional.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-05-14-伪造邮件钓鱼，要知道的秘密！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15084&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493982%26amp%3Bidx%3D1%26amp%3Bsn%3D3f0b70405d32ee9faa4b706b930f4c28%26amp%3Bchksm%3Dfa3f0805cd4881138955b45d1bcad7a23c209bffe81a7a5b830802df75abe10454790e2ae03c%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-05-14-Python中有3个不可思议的返回功能-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15081&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493975%26amp%3Bidx%3D2%26amp%3Bsn%3D2b4a78bc62d07cf3f7536a20bec614e5%26amp%3Bchksm%3Dfa3f080ccd48811a7e4168138c1461ea9210bf9d3568a5037ef3a3d8f94a58683624b9a5ac26%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1959,7 +1960,7 @@
 - [2022-05-14-集成啦淘宝，京东，B站，微博，网易云音乐等等二十多个爬虫小项目的开源包~](https://toutiao.io/k/4bqr55a) 
 - [2022-05-14-PowerShell主架构师：我用业余时间开发项目，表现优秀反而被微软降级了](https://toutiao.io/k/z4g6o1z) 
 - [2022-05-14-DeepMind「通才」AI智能体Gato来了，多模态、多任务，受大语言模型启发](https://toutiao.io/k/1yvyljf) 
-- [2022-05-14-推荐-跨Mysql、Redis、Mongo的分布式事务](https://toutiao.io/k/246clz1) 
-- [2022-05-14-推荐-架构设计资料合集](https://toutiao.io/k/iqlrz7b) 
 - [2022-05-14-推荐-左耳朵耗子：我做系统架构的一些原则](https://toutiao.io/k/9oljc6o) 
 - [2022-05-14-推荐-TCP-重传、滑动窗口、流量控制、拥塞控好难？看完图解就不愁了（重制）](https://toutiao.io/k/14tz08l) 
+- [2022-05-14-推荐-架构设计资料合集](https://toutiao.io/k/iqlrz7b) 
+- [2022-05-14-推荐-跨Mysql、Redis、Mongo的分布式事务](https://toutiao.io/k/246clz1) 

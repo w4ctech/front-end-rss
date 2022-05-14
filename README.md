@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-05-14 07:02:43，:rocket: 更新条数: +2019， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-05-14 07:29:19，:rocket: 更新条数: +2002， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -53,7 +53,7 @@
 - [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)![](assets/dot.png)   
-- [开发者头条](#开发者头条)![](assets/dot.png)   
+- [开发者头条](#开发者头条)  
 - [安全热点](#安全热点)  
 - [物联网智库](#物联网智库)  
 
@@ -491,9 +491,11 @@
 </summary>
 
 
+- [2022-05-14-libui-ng-轻量的跨平台-UI-库](https://www.v2ex.com/t/852802) ![](assets/new.png)  
+- [2022-05-14-去外企有什么要求？](https://www.v2ex.com/t/852801) ![](assets/new.png)  
+- [2022-05-14-发现微信扫码的速度比-iOS-系统自带的相机扫码速度还要快,但不知道为什么美国有些餐厅-shoplify-搭建的扫码点餐域名被微信说是有色情内容给屏蔽了?无奈美国华人...](https://www.v2ex.com/t/852800) ![](assets/new.png)  
 - [2022-05-14-现在主力使用-photoshop-做-UI-设计的多不多](https://www.v2ex.com/t/852798) ![](assets/new.png)  
 - [2022-05-14-国区-iCloud2T+Apple-music-开车](https://www.v2ex.com/t/852796) ![](assets/new.png)  
-- [2022-05-14-熟人群讨论知乎审核问题激怒某些人了](https://www.v2ex.com/t/852795) ![](assets/new.png)  
 - [2022-05-14-vagrant-启动-virtualbox-报错:HostInterfaceNetworking-VirtualBox-Host-Only-Ethernet-Adapter](https://www.v2ex.com/t/852794) ![](assets/new.png)  
 - [2022-05-14-Klang-量化金融社区](https://www.v2ex.com/t/852793) ![](assets/new.png)  
 - [2022-05-14-按键精灵-2014-大漠插件-FindStr-功能完美识别字符串，但是无法识别-Chrome-里的字符串如何解决？](https://www.v2ex.com/t/852792) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-05-14-恩杰-H1-机箱替换水冷](https://www.v2ex.com/t/852779) ![](assets/new.png)  
 - [2022-05-14-iPadOS“屏幕使用时间”功能里同一个设备出现两次](https://www.v2ex.com/t/852778) ![](assets/new.png)  
 - [2022-05-14-买的-Qspace-pro-可以直接打开解压文件，但里面的文件不能复制黏贴](https://www.v2ex.com/t/852777) ![](assets/new.png)  
-- [2022-05-14-缺地线电脑电源和音箱经常发出怪叫，缺地线导致的干扰问题如何解决？](https://www.v2ex.com/t/852774) ![](assets/new.png)  
-- [2022-05-14-请教大佬！-swiftui-如何使用-ViewModel-中的-bool-值控制-View-层的-sheet-展示？](https://www.v2ex.com/t/852773) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -553,21 +553,6 @@
 </summary>
 
 
-- [2022-05-14-面试写：如何优雅地给对象的所有方法添加异常处理](https://toutiao.io/k/r81a6pj) ![](assets/new.png)  
-- [2022-05-14-百度某部门面试原题](https://toutiao.io/k/l0zugzm) ![](assets/new.png)  
-- [2022-05-14-用-Vue3-开发高复用、低耦合的管理后台的列表页](https://toutiao.io/k/9tyb2f1) ![](assets/new.png)  
-- [2022-05-14-MySQL-Seconds_behind_master的精度误差](https://toutiao.io/k/qgmx99e) ![](assets/new.png)  
-- [2022-05-14-PowerShell主架构师：我用业余时间开发项目，表现优秀反而被微软降级了](https://toutiao.io/k/z4g6o1z) ![](assets/new.png)  
-- [2022-05-14-DeepMind「通才」AI智能体Gato来了，多模态、多任务，受大语言模型启发](https://toutiao.io/k/1yvyljf) ![](assets/new.png)  
-- [2022-05-14-携程-SOA-的-Service-Mesh-架构落地](https://toutiao.io/k/dmtcxk5) ![](assets/new.png)  
-- [2022-05-14-Dockertest-极速搭建集成测试环境神器](https://toutiao.io/k/c7jfd1g) ![](assets/new.png)  
-- [2022-05-14-30岁转行入IT晚吗](https://toutiao.io/k/o6nwkbk) ![](assets/new.png)  
-- [2022-05-14-集成啦淘宝，京东，B站，微博，网易云音乐等等二十多个爬虫小项目的开源包~](https://toutiao.io/k/4bqr55a) ![](assets/new.png)  
-- [2022-05-14-推荐-TCP-重传、滑动窗口、流量控制、拥塞控好难？看完图解就不愁了（重制）](https://toutiao.io/k/14tz08l) ![](assets/new.png)  
-- [2022-05-14-推荐-跨Mysql、Redis、Mongo的分布式事务](https://toutiao.io/k/246clz1) ![](assets/new.png)  
-- [2022-05-14-推荐-左耳朵耗子：我做系统架构的一些原则](https://toutiao.io/k/9oljc6o) ![](assets/new.png)  
-- [2022-05-14-推荐-15K-Star！Github-上最火的低代码开发平台！](https://toutiao.io/k/3qv24va) ![](assets/new.png)  
-- [2022-05-14-推荐-架构设计资料合集](https://toutiao.io/k/iqlrz7b) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

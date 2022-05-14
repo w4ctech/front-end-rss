@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-05-14 08:45:17，:rocket: 更新条数: +2020， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-05-14 09:14:00，:rocket: 更新条数: +2020， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,12 @@
 </summary>
 
 
+- [2022-05-14-杭州字节跳动招聘-Android-开发工程师](https://www.v2ex.com/t/852824) ![](assets/new.png)  
+- [2022-05-14-海鲜市场的宽带报装可靠吗？](https://www.v2ex.com/t/852823) ![](assets/new.png)  
+- [2022-05-14-大佬们请教一下，爱发电这种经营方式是逃税行为吗？](https://www.v2ex.com/t/852822) ![](assets/new.png)  
+- [2022-05-14-写了个-js-玩具来模拟操作符重载，大佬们觉得这个主意怎么样](https://www.v2ex.com/t/852821) ![](assets/new.png)  
+- [2022-05-14-有上亿的词算词频怎么算比较快](https://www.v2ex.com/t/852820) ![](assets/new.png)  
+- [2022-05-14-请教下大家：-Frp-将内网-Nginx-80-端口代理到外网-18080-后，浏览器登录后错误，-F12-发现返回了错误端口-80](https://www.v2ex.com/t/852818) ![](assets/new.png)  
 - [2022-05-14-TapTap-TDS/LeanCloud-多个职位招聘中，部分技术职位支持远程](https://www.v2ex.com/t/852817) ![](assets/new.png)  
 - [2022-05-14-iOS求一个可以设置固定时段才可以后台通知的软件](https://www.v2ex.com/t/852816) ![](assets/new.png)  
 - [2022-05-14-我可以外接比我笔记本分辨率大的显示器吗？](https://www.v2ex.com/t/852815) ![](assets/new.png)  
@@ -505,12 +511,6 @@
 - [2022-05-14-免费领-365-天爱企查会员-&-同程联合会员开售，买-1-得-9](https://www.v2ex.com/t/852804) ![](assets/new.png)  
 - [2022-05-14-想开通-Apple-one-但是无法使用-gv-开通美区-PayPal](https://www.v2ex.com/t/852803) ![](assets/new.png)  
 - [2022-05-14-libui-ng-轻量的跨平台-UI-库](https://www.v2ex.com/t/852802) ![](assets/new.png)  
-- [2022-05-14-去外企有什么要求？](https://www.v2ex.com/t/852801) ![](assets/new.png)  
-- [2022-05-14-发现微信扫码的速度比-iOS-系统自带的相机扫码速度还要快,但不知道为什么美国有些餐厅-shoplify-搭建的扫码点餐域名被微信说是有色情内容给屏蔽了?无奈美国华人...](https://www.v2ex.com/t/852800) ![](assets/new.png)  
-- [2022-05-14-现在主力使用-photoshop-做-UI-设计的多不多](https://www.v2ex.com/t/852798) ![](assets/new.png)  
-- [2022-05-14-国区-iCloud2T+Apple-music-开车](https://www.v2ex.com/t/852796) ![](assets/new.png)  
-- [2022-05-14-vagrant-启动-virtualbox-报错:HostInterfaceNetworking-VirtualBox-Host-Only-Ethernet-Adapter](https://www.v2ex.com/t/852794) ![](assets/new.png)  
-- [2022-05-14-Klang-量化金融社区](https://www.v2ex.com/t/852793) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -563,11 +563,11 @@
 - [2022-05-14-DeepMind「通才」AI智能体Gato来了，多模态、多任务，受大语言模型启发](https://toutiao.io/k/1yvyljf) ![](assets/new.png)  
 - [2022-05-14-Dockertest-极速搭建集成测试环境神器](https://toutiao.io/k/c7jfd1g) ![](assets/new.png)  
 - [2022-05-14-集成啦淘宝，京东，B站，微博，网易云音乐等等二十多个爬虫小项目的开源包~](https://toutiao.io/k/4bqr55a) ![](assets/new.png)  
-- [2022-05-14-推荐-跨Mysql、Redis、Mongo的分布式事务](https://toutiao.io/k/246clz1) ![](assets/new.png)  
-- [2022-05-14-推荐-15K-Star！Github-上最火的低代码开发平台！](https://toutiao.io/k/3qv24va) ![](assets/new.png)  
 - [2022-05-14-推荐-左耳朵耗子：我做系统架构的一些原则](https://toutiao.io/k/9oljc6o) ![](assets/new.png)  
-- [2022-05-14-推荐-TCP-重传、滑动窗口、流量控制、拥塞控好难？看完图解就不愁了（重制）](https://toutiao.io/k/14tz08l) ![](assets/new.png)  
+- [2022-05-14-推荐-15K-Star！Github-上最火的低代码开发平台！](https://toutiao.io/k/3qv24va) ![](assets/new.png)  
+- [2022-05-14-推荐-跨Mysql、Redis、Mongo的分布式事务](https://toutiao.io/k/246clz1) ![](assets/new.png)  
 - [2022-05-14-推荐-架构设计资料合集](https://toutiao.io/k/iqlrz7b) ![](assets/new.png)  
+- [2022-05-14-推荐-TCP-重传、滑动窗口、流量控制、拥塞控好难？看完图解就不愁了（重制）](https://toutiao.io/k/14tz08l) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

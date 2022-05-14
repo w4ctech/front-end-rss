@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-05-14 14:13:44。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-05-14 14:39:01。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -240,6 +240,7 @@
 
 - [【武汉肺炎防疫全纪录(财新网)】广州17岁男生在定点医院参加高考-特殊考场视频监考](https://m.caixin.com/m/2021-06-05/101723418.html)
 - [【武汉肺炎防疫全纪录(财新网)】林郑月娥率13高官直播接种科兴疫苗-复星疫苗预计周中到港](https://m.caixin.com/m/2021-02-22/101665724.html)
+- [【V2EX】为何短视频，总喜欢不明所以的用字母代替文字？](https://www.v2ex.com/t/852866)
 - [【V2EX】短视频平台上一大堆相同的视频](https://www.v2ex.com/t/852861)
 - [......【查看更多】......](./details/tags/audio-video.md)
 
@@ -354,7 +355,6 @@
 
 
 - [【V2EX】杭州字节跳动招聘-Android-开发工程师](https://www.v2ex.com/t/852824)
-- [【V2EX】TapTap-TDS/LeanCloud-多个职位招聘中，部分技术职位支持远程](https://www.v2ex.com/t/852817)
 - [【技术头条】面试官提问三个Go接口的概念，-10年gopher竟无言以对-colobu.com](https://blogread.cn/news/go.php?idItem=15067&url=https%3A%2F%2Fcolobu.com%2F2022%2F01%2F16%2Fthree-new-concepts-of-go-interface-since-1-18%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【开发者头条】面试写：如何优雅地给对象的所有方法添加异常处理](https://toutiao.io/k/r81a6pj)
 - [【开发者头条】百度某部门面试原题](https://toutiao.io/k/l0zugzm)

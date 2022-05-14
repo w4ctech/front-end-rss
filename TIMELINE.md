@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-05-14 22:14:52。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-05-14 22:41:11。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -69,6 +69,7 @@
 
 
 - [【张鑫旭-鑫空间-鑫生活】2022-05-11-JS与条形码的生成](https://www.zhangxinxu.com/wordpress/2022/05/js-barcode/) 
+- [【V2EX】2022-05-14-Post-pandemic-时代的电影院在管理技术上可以有什么创新/解决痛点的机会？](https://www.v2ex.com/t/852894) 
 - [【V2EX】2022-05-14-迪拜生活小技巧](https://www.v2ex.com/t/852893) 
 - [【V2EX】2022-05-14-有没有办法通过第三方-APP-支持互传联盟？](https://www.v2ex.com/t/852892) 
 - [【V2EX】2022-05-14-有没有一种语言像-PHP-那样可以「所见即所得」的开发？](https://www.v2ex.com/t/852891) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-05-14 22:14:52，:rocket: 更新条数: +2022， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-05-14 22:41:11，:rocket: 更新条数: +2023， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-05-14-Post-pandemic-时代的电影院在管理技术上可以有什么创新/解决痛点的机会？](https://www.v2ex.com/t/852894) ![](assets/new.png)  
 - [2022-05-14-迪拜生活小技巧](https://www.v2ex.com/t/852893) ![](assets/new.png)  
 - [2022-05-14-有没有办法通过第三方-APP-支持互传联盟？](https://www.v2ex.com/t/852892) ![](assets/new.png)  
 - [2022-05-14-有没有一种语言像-PHP-那样可以「所见即所得」的开发？](https://www.v2ex.com/t/852891) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-05-14-今天才知道-windows-上安装软件的一个神奇操作](https://www.v2ex.com/t/852875) ![](assets/new.png)  
 - [2022-05-14-广东电信宽带经常掉速，是得要投诉-10000-号吗](https://www.v2ex.com/t/852873) ![](assets/new.png)  
 - [2022-05-14-每隔-10~20-分钟爬一次网站会被封吗？做热点聚合页面用](https://www.v2ex.com/t/852872) ![](assets/new.png)  
-- [2022-05-14-想要做出“熊猫吃短信”这样的-App，需要很深厚的机器学习的知识吗？](https://www.v2ex.com/t/852871) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

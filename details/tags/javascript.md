@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-05-14 17:42:53。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-05-14 18:17:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -19,6 +19,7 @@
 - [2022-04-22-CSS实现滚动高度自动变小的粘滞效果](https://www.zhangxinxu.com/wordpress/2022/04/css-sticky-size-change/) 
 - [2022-03-15-基于howler.js写了个音频播放器组件](https://www.zhangxinxu.com/wordpress/2022/03/howler-js-audio-player/) 
 - [2022-03-07-介绍8个和滚动相关的CSS属性](https://www.zhangxinxu.com/wordpress/2022/03/10-css-scroll-scrollbar/) 
+- [2022-05-14-Windows-小组件底下的那些新闻能不能屏蔽掉](https://www.v2ex.com/t/852886) 
 - [2022-05-14-向大家咨询一个流程引擎表单存储的问题](https://www.v2ex.com/t/852879) 
 - [2022-05-14-请教，公司的双网卡台式机，双路由，如何更好设置。](https://www.v2ex.com/t/852877) 
 - [2022-05-14-Promise必备知识汇总和面试情况-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15079&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493965%26amp%3Bidx%3D2%26amp%3Bsn%3Df9e6a81a83f12f514fd7816a6aa8db51%26amp%3Bchksm%3Dfa3f0816cd488100e7457a564b15183e835042d0e03b42e9c145b196355be1b141bd726cd89b%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

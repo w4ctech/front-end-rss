@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-05-15 08:44:51。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-05-15 09:15:09。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -355,7 +355,6 @@
 
 
 
-- [【V2EX】深圳的程序员同胞们一起加个群，内推，面试，私活分享，投资理财，业余爱好等。一起交流，互相学习!](https://www.v2ex.com/t/852926)
 - [......【查看更多】......](./details/tags/job-interview.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

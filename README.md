@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-05-15 08:44:51，:rocket: 更新条数: +2021， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-05-15 09:15:09，:rocket: 更新条数: +2021， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,10 @@
 </summary>
 
 
+- [2022-05-15-KDE-Connect-上线-iOS-了](https://www.v2ex.com/t/852978) ![](assets/new.png)  
+- [2022-05-15-领取一个月豪华绿钻会员](https://www.v2ex.com/t/852977) ![](assets/new.png)  
+- [2022-05-15-cpu，内存，硬盘等各系统及应用状态监测，端口及应用程序监测问题](https://www.v2ex.com/t/852976) ![](assets/new.png)  
+- [2022-05-15-有没有用-Win-笔记本带有机械硬盘并且经常直接合盖放包里带来带去的-v2er?](https://www.v2ex.com/t/852974) ![](assets/new.png)  
 - [2022-05-15-苹果直营店售后体验太差了](https://www.v2ex.com/t/852973) ![](assets/new.png)  
 - [2022-05-15-有没有光猫可以同时支持各种波长的-PON-协议](https://www.v2ex.com/t/852972) ![](assets/new.png)  
 - [2022-05-15-兄弟们，失望了，炒股-10-年亏掉了所有收入-1200-万，未来还有人生吗](https://www.v2ex.com/t/852971) ![](assets/new.png)  
@@ -507,10 +511,6 @@
 - [2022-05-15-运行在浏览器里面的-js-怎么打开-tcp-端口](https://www.v2ex.com/t/852960) ![](assets/new.png)  
 - [2022-05-15-macbook-pro-想入一个-4K-typec-显示器，-KTC-mini-LED（M27P20）怎么样啊](https://www.v2ex.com/t/852959) ![](assets/new.png)  
 - [2022-05-15-在-Java-业内,-难道多表联合查询都是复杂问题吗?](https://www.v2ex.com/t/852958) ![](assets/new.png)  
-- [2022-05-15-Linux-系统如何将-firefox-选择标签页的快捷键改为-Ctrl+n](https://www.v2ex.com/t/852957) ![](assets/new.png)  
-- [2022-05-15-国企开发岗进去天天高强度加班，被吓到了](https://www.v2ex.com/t/852956) ![](assets/new.png)  
-- [2022-05-15-中国移动副卡的缺陷](https://www.v2ex.com/t/852955) ![](assets/new.png)  
-- [2022-05-15-51-单片机里，直接操作内存为什么不能点亮灯？](https://www.v2ex.com/t/852954) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -563,8 +563,8 @@
 - [2022-05-15-深入理解-Promise-之手把手教你写一版](https://toutiao.io/k/0e1tbj7) ![](assets/new.png)  
 - [2022-05-15-为什么骗子总能清楚地知道我们的隐私？？？](https://toutiao.io/k/zv7cxv7) ![](assets/new.png)  
 - [2022-05-15-疫情当下，技术人奋斗不止](https://toutiao.io/k/22prof7) ![](assets/new.png)  
-- [2022-05-15-推荐-跨Mysql、Redis、Mongo的分布式事务](https://toutiao.io/k/246clz1) ![](assets/new.png)  
 - [2022-05-15-推荐-架构设计资料合集](https://toutiao.io/k/iqlrz7b) ![](assets/new.png)  
+- [2022-05-15-推荐-跨Mysql、Redis、Mongo的分布式事务](https://toutiao.io/k/246clz1) ![](assets/new.png)  
 - [2022-05-15-推荐-TCP-重传、滑动窗口、流量控制、拥塞控好难？看完图解就不愁了（重制）](https://toutiao.io/k/14tz08l) ![](assets/new.png)  
 - [2022-05-15-推荐-15K-Star！Github-上最火的低代码开发平台！](https://toutiao.io/k/3qv24va) ![](assets/new.png)  
 - [2022-05-15-推荐-左耳朵耗子：我做系统架构的一些原则](https://toutiao.io/k/9oljc6o) ![](assets/new.png)  

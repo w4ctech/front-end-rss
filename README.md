@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-05-15 15:14:42，:rocket: 更新条数: +2025， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-05-15 15:43:38，:rocket: 更新条数: +2026， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,10 @@
 </summary>
 
 
+- [2022-05-15-Android-有没有办法用一段代码生成-content-uri](https://www.v2ex.com/t/853044) ![](assets/new.png)  
+- [2022-05-15-妹子的第一篇-youtube-实验](https://www.v2ex.com/t/853043) ![](assets/new.png)  
+- [2022-05-15-基于-Rust-实现了-NAPI-nanoid](https://www.v2ex.com/t/853042) ![](assets/new.png)  
+- [2022-05-15-虚拟机图形性能真的没救了吗？](https://www.v2ex.com/t/853041) ![](assets/new.png)  
 - [2022-05-15-请教大佬们为什么-netch-没开时会发一些莫名奇妙的包](https://www.v2ex.com/t/853040) ![](assets/new.png)  
 - [2022-05-15-缺一颗牙，怎么补？](https://www.v2ex.com/t/853039) ![](assets/new.png)  
 - [2022-05-15-MacBook-Pro-的金属外壳这样了能有解决办法嘛](https://www.v2ex.com/t/853038) ![](assets/new.png)  
@@ -507,10 +511,6 @@
 - [2022-05-15-kotlin-真的可以安卓、ios-一把梭吗？会有很大的坑吗？目前-web-开发，-go-vue-都可，想搞下客户端，求大佬指点](https://www.v2ex.com/t/853027) ![](assets/new.png)  
 - [2022-05-15-最近两三年，手机是不是进步不大。](https://www.v2ex.com/t/853026) ![](assets/new.png)  
 - [2022-05-15-PyYAML-使用技巧分享](https://www.v2ex.com/t/853024) ![](assets/new.png)  
-- [2022-05-15-自己做了个美国虚拟-Visa-发卡服务，可直接绑定-Apple-Pay/美区-Apple-ID](https://www.v2ex.com/t/853022) ![](assets/new.png)  
-- [2022-05-15-有没有普通人切实可行的-run-出国的方法？](https://www.v2ex.com/t/853021) ![](assets/new.png)  
-- [2022-05-15-第一次外出租房，坐标郑州，有什么防坑建议吗](https://www.v2ex.com/t/853020) ![](assets/new.png)  
-- [2022-05-15-求推荐电脑主机配置，中老年人想回忆一下青春](https://www.v2ex.com/t/853019) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -555,19 +555,19 @@
 
 - [2022-05-15-地表最强-Markdown-文本编辑工具——Obsidian](https://toutiao.io/k/d7zchat) ![](assets/new.png)  
 - [2022-05-15-支持300+常用功能的开源GO语言工具函数库](https://toutiao.io/k/an98swu) ![](assets/new.png)  
-- [2022-05-15-REDIS-CLUSTER集群模式下REDIS客户端如何获得SLOT的路由信息](https://toutiao.io/k/9lb1kj9) ![](assets/new.png)  
 - [2022-05-15-超越-Nginx！号称下一代-Web-服务器，用起来够优雅！](https://toutiao.io/k/y2bdqlt) ![](assets/new.png)  
+- [2022-05-15-REDIS-CLUSTER集群模式下REDIS客户端如何获得SLOT的路由信息](https://toutiao.io/k/9lb1kj9) ![](assets/new.png)  
 - [2022-05-15-业务数据治理体系化思考与实践](https://toutiao.io/k/ia27pof) ![](assets/new.png)  
 - [2022-05-15-边缘计算架构、分层及典型组网拓扑](https://toutiao.io/k/1t5wnfq) ![](assets/new.png)  
 - [2022-05-15-为什么骗子总能清楚地知道我们的隐私？？？](https://toutiao.io/k/zv7cxv7) ![](assets/new.png)  
 - [2022-05-15-掌握WiredTiger存储引擎，帮你解决分布式事务难题！](https://toutiao.io/k/irtgx5a) ![](assets/new.png)  
 - [2022-05-15-深入理解-Promise-之手把手教你写一版](https://toutiao.io/k/0e1tbj7) ![](assets/new.png)  
 - [2022-05-15-疫情当下，技术人奋斗不止](https://toutiao.io/k/22prof7) ![](assets/new.png)  
-- [2022-05-15-推荐-左耳朵耗子：我做系统架构的一些原则](https://toutiao.io/k/9oljc6o) ![](assets/new.png)  
 - [2022-05-15-推荐-TCP-重传、滑动窗口、流量控制、拥塞控好难？看完图解就不愁了（重制）](https://toutiao.io/k/14tz08l) ![](assets/new.png)  
-- [2022-05-15-推荐-15K-Star！Github-上最火的低代码开发平台！](https://toutiao.io/k/3qv24va) ![](assets/new.png)  
-- [2022-05-15-推荐-架构设计资料合集](https://toutiao.io/k/iqlrz7b) ![](assets/new.png)  
 - [2022-05-15-推荐-跨Mysql、Redis、Mongo的分布式事务](https://toutiao.io/k/246clz1) ![](assets/new.png)  
+- [2022-05-15-推荐-架构设计资料合集](https://toutiao.io/k/iqlrz7b) ![](assets/new.png)  
+- [2022-05-15-推荐-左耳朵耗子：我做系统架构的一些原则](https://toutiao.io/k/9oljc6o) ![](assets/new.png)  
+- [2022-05-15-推荐-15K-Star！Github-上最火的低代码开发平台！](https://toutiao.io/k/3qv24va) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

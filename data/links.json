@@ -9953,6 +9953,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "有没有一种开源协议，禁止违反劳动法实行 996 的公司使用？",
+        "link": "https://www.v2ex.com/t/853054",
+        "date": "2022-05-15"
+      },
+      {
         "title": "重金急求手游麻将的脚本！",
         "link": "https://www.v2ex.com/t/853053",
         "date": "2022-05-15"
@@ -10337,18 +10342,13 @@
         "date": "2022-05-15"
       },
       {
-        "title": "[推荐] 15K Star！Github 上最火的低代码开发平台！",
-        "link": "https://toutiao.io/k/3qv24va",
-        "date": "2022-05-15"
-      },
-      {
-        "title": "[推荐] 聊聊我们是如何做系统保障方案的",
-        "link": "https://toutiao.io/k/i8q3ye4",
-        "date": "2022-05-15"
-      },
-      {
         "title": "[推荐] 架构设计资料合集",
         "link": "https://toutiao.io/k/iqlrz7b",
+        "date": "2022-05-15"
+      },
+      {
+        "title": "[推荐] 跨Mysql、Redis、Mongo的分布式事务",
+        "link": "https://toutiao.io/k/246clz1",
         "date": "2022-05-15"
       },
       {
@@ -10362,8 +10362,13 @@
         "date": "2022-05-15"
       },
       {
-        "title": "[推荐] 跨Mysql、Redis、Mongo的分布式事务",
-        "link": "https://toutiao.io/k/246clz1",
+        "title": "[推荐] 15K Star！Github 上最火的低代码开发平台！",
+        "link": "https://toutiao.io/k/3qv24va",
+        "date": "2022-05-15"
+      },
+      {
+        "title": "[推荐] 聊聊我们是如何做系统保障方案的",
+        "link": "https://toutiao.io/k/i8q3ye4",
         "date": "2022-05-15"
       }
     ]

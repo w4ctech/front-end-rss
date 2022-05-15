@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-05-15 14:39:01。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-05-15 15:14:42。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -184,8 +184,6 @@
 - [【张鑫旭-鑫空间-鑫生活】介绍8个和滚动相关的CSS属性](https://www.zhangxinxu.com/wordpress/2022/03/10-css-scroll-scrollbar/)
 - [【V2EX】两个路由打包-80-华为-5200-360p2-老-3ds-破解好-32g-卡-350](https://www.v2ex.com/t/852997)
 - [【V2EX】求助大佬，-SwiftUI-在-MacOS-上怎么覆盖鼠标点击关闭窗口事件，为隐藏窗口](https://www.v2ex.com/t/852995)
-- [【V2EX】想把-skypack-上的-d3.js-mirror-到自己机器上，如何操作](https://www.v2ex.com/t/852989)
-- [【V2EX】ws+tls-模式在泉州白名单事件之后需要做哪些配置改进](https://www.v2ex.com/t/852985)
 - [【技术头条】Promise必备知识汇总和面试情况-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15079&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493965%26amp%3Bidx%3D2%26amp%3Bsn%3Df9e6a81a83f12f514fd7816a6aa8db51%26amp%3Bchksm%3Dfa3f0816cd488100e7457a564b15183e835042d0e03b42e9c145b196355be1b141bd726cd89b%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【开发者头条】REDIS-CLUSTER集群模式下REDIS客户端如何获得SLOT的路由信息](https://toutiao.io/k/9lb1kj9)
 - [【开发者头条】深入理解-Promise-之手把手教你写一版](https://toutiao.io/k/0e1tbj7)

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-05-15 12:24:40。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-05-15 13:07:51。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -16,5 +16,4 @@
 - [2022-05-15-WSL-18.04-突然出现问题使用了与请求的协议不兼容的地址。](https://www.v2ex.com/t/853012) 
 - [2022-05-15-浏览器为什么没有清洁版？把开发者工具去掉，体验会提升不少吧。大多数用户不用开发者工具啊！](https://www.v2ex.com/t/853007) 
 - [2022-05-15-应用的-URL-Schema-如何得知其行为关键字？](https://www.v2ex.com/t/852998) 
-- [2022-05-15-Chrome-新标签页插件-QuickDashboard-V0.8.0.0-更新](https://www.v2ex.com/t/852963) 
 - [2022-05-15-App开放接口api安全：Token签名sign的设计与实现-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15085&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493985%26amp%3Bidx%3D2%26amp%3Bsn%3Dd7b1313ef4a0226295c81127ee22c958%26amp%3Bchksm%3Dfa3f083acd48812c339da2d4de950a0fda74f93663bc630c95de45f1f211ed7ec8aab67904fd%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

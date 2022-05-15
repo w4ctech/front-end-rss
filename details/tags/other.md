@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-05-15 22:13:35。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-05-15 22:40:51。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1912,6 +1912,7 @@
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2022-03-21-ascent-override-descent-override-line-gap-override一锅端](https://www.zhangxinxu.com/wordpress/2022/03/css-ascent-override-descent/) 
+- [2022-05-15-自用日常英语词汇小助手测试版本发布](https://www.v2ex.com/t/853062) 
 - [2022-05-15-大家是否注意到，苹果的朗读文字功能，-macOS-相比-iOS-更弱：-macOS-只能硬生生地按照字、词来读，无法合成语气；-macOS-朗读两种语言混合的句子时，切换到另一...](https://www.v2ex.com/t/853060) 
 - [2022-05-15-帮看看管理体系文件控制用-wiki-行吗？](https://www.v2ex.com/t/853059) 
 - [2022-05-15-白名单-sni-自签证书的讨论](https://www.v2ex.com/t/853056) 
@@ -1970,8 +1971,8 @@
 - [2022-05-15-为什么骗子总能清楚地知道我们的隐私？？？](https://toutiao.io/k/zv7cxv7) 
 - [2022-05-15-掌握WiredTiger存储引擎，帮你解决分布式事务难题！](https://toutiao.io/k/irtgx5a) 
 - [2022-05-15-疫情当下，技术人奋斗不止](https://toutiao.io/k/22prof7) 
-- [2022-05-15-推荐-跨Mysql、Redis、Mongo的分布式事务](https://toutiao.io/k/246clz1) 
-- [2022-05-15-推荐-聊聊我们是如何做系统保障方案的](https://toutiao.io/k/i8q3ye4) 
 - [2022-05-15-推荐-架构设计资料合集](https://toutiao.io/k/iqlrz7b) 
 - [2022-05-15-推荐-左耳朵耗子：我做系统架构的一些原则](https://toutiao.io/k/9oljc6o) 
 - [2022-05-15-推荐-TCP-重传、滑动窗口、流量控制、拥塞控好难？看完图解就不愁了（重制）](https://toutiao.io/k/14tz08l) 
+- [2022-05-15-推荐-聊聊我们是如何做系统保障方案的](https://toutiao.io/k/i8q3ye4) 
+- [2022-05-15-推荐-跨Mysql、Redis、Mongo的分布式事务](https://toutiao.io/k/246clz1) 

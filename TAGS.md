@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-05-15 01:14:05。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-05-15 03:05:46。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -39,6 +39,7 @@
 
 
 
+- [【V2EX】使用-gatsby-去预渲染-react-相对于直接写模版-html-有什么优势？](https://www.v2ex.com/t/852907)
 - [......【查看更多】......](./details/tags/react.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -186,6 +187,7 @@
 - [【V2EX】请教，公司的双网卡台式机，双路由，如何更好设置。](https://www.v2ex.com/t/852877)
 - [【技术头条】Promise必备知识汇总和面试情况-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15079&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493965%26amp%3Bidx%3D2%26amp%3Bsn%3Df9e6a81a83f12f514fd7816a6aa8db51%26amp%3Bchksm%3Dfa3f0816cd488100e7457a564b15183e835042d0e03b42e9c145b196355be1b141bd726cd89b%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【开发者头条】REDIS-CLUSTER集群模式下REDIS客户端如何获得SLOT的路由信息](https://toutiao.io/k/9lb1kj9)
+- [【开发者头条】深入理解-Promise-之手把手教你写一版](https://toutiao.io/k/0e1tbj7)
 - [......【查看更多】......](./details/tags/javascript.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -221,6 +223,7 @@
 
 
 
+- [【V2EX】撸了一个-Clash-的-GUI,-自带规则开箱即用](https://www.v2ex.com/t/852908)
 - [......【查看更多】......](./details/tags/canvas-image.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -240,8 +243,6 @@
 - [【武汉肺炎防疫全纪录(财新网)】广州17岁男生在定点医院参加高考-特殊考场视频监考](https://m.caixin.com/m/2021-06-05/101723418.html)
 - [【武汉肺炎防疫全纪录(财新网)】林郑月娥率13高官直播接种科兴疫苗-复星疫苗预计周中到港](https://m.caixin.com/m/2021-02-22/101665724.html)
 - [【V2EX】上海｜远程办公-PPIO-面向海外开发者产品线招聘-WebRTC-中级｜高级｜架构师](https://www.v2ex.com/t/852882)
-- [【V2EX】为何短视频，总喜欢不明所以的用字母代替文字？](https://www.v2ex.com/t/852866)
-- [【V2EX】短视频平台上一大堆相同的视频](https://www.v2ex.com/t/852861)
 - [......【查看更多】......](./details/tags/audio-video.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -258,6 +259,7 @@
 
 
 
+- [【技术头条】MySQL5.7-vs-8.0，哪个性能更牛？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15092&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494024%26amp%3Bidx%3D2%26amp%3Bsn%3Da60d74981373759bb63f480296e5564d%26amp%3Bchksm%3Dfa3f08d3cd4881c50f6364e287ee82d2bd56d9e4b01b037f44ae0c247d30c49ea536581e061e%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【技术头条】如何通过缓存来提升系统性能-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15083&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493982%26amp%3Bidx%3D2%26amp%3Bsn%3Dba44fde5dac86ee58162df9e9630cc8d%26amp%3Bchksm%3Dfa3f0805cd488113453f87304c6a52955bf0d4127f4d0262d2112d9499a323a322a90eee3c9e%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [......【查看更多】......](./details/tags/optimization.md)
 
@@ -284,7 +286,6 @@
 - [【V2EX】Chrome-扩展：这是什么车-？车辆车牌识别](https://www.v2ex.com/t/852902)
 - [【V2EX】Post-pandemic-时代的电影院在管理技术上可以有什么创新/解决痛点的机会？](https://www.v2ex.com/t/852894)
 - [【技术头条】App开放接口api安全：Token签名sign的设计与实现-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15085&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493985%26amp%3Bidx%3D2%26amp%3Bsn%3Dd7b1313ef4a0226295c81127ee22c958%26amp%3Bchksm%3Dfa3f083acd48812c339da2d4de950a0fda74f93663bc630c95de45f1f211ed7ec8aab67904fd%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
-- [【技术头条】深入业务场景，解决业务安全风险-www.sec-un.org](https://blogread.cn/news/go.php?idItem=15070&url=https%3A%2F%2Fwww.sec-un.org%2F%25e6%25b7%25b1%25e5%2585%25a5%25e4%25b8%259a%25e5%258a%25a1%25e5%259c%25ba%25e6%2599%25af%25ef%25bc%258c%25e8%25a7%25a3%25e5%2586%25b3%25e4%25b8%259a%25e5%258a%25a1%25e5%25ae%2589%25e5%2585%25a8%25e9%25a3%258e%25e9%2599%25a9%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [......【查看更多】......](./details/tags/browser.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -302,7 +303,6 @@
 
 
 - [【V2EX】各位大佬-谁有-leetcode-会员呀，求看-blackrock-tag-下面都有哪些算法题](https://www.v2ex.com/t/852889)
-- [【技术头条】带猜测的二分查找算法-blog.codingnow.com](https://blogread.cn/news/go.php?idItem=15071&url=https%3A%2F%2Fblog.codingnow.com%2F2021%2F06%2Fbinary_search_by_guess.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -354,7 +354,6 @@
 
 
 
-- [【技术头条】面试官提问三个Go接口的概念，-10年gopher竟无言以对-colobu.com](https://blogread.cn/news/go.php?idItem=15067&url=https%3A%2F%2Fcolobu.com%2F2022%2F01%2F16%2Fthree-new-concepts-of-go-interface-since-1-18%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [......【查看更多】......](./details/tags/job-interview.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

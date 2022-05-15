@@ -9953,6 +9953,51 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "求推荐好用的高匿名高可用代理 ip",
+        "link": "https://www.v2ex.com/t/852916",
+        "date": "2022-05-15"
+      },
+      {
+        "title": "用 go 写了个包装 shell 的客户端程序，支持跨平台 ( win / Linux / mac 等 )，分享并邀请大家体验。",
+        "link": "https://www.v2ex.com/t/852915",
+        "date": "2022-05-15"
+      },
+      {
+        "title": "给收藏夹加上状态，这个功能如何？",
+        "link": "https://www.v2ex.com/t/852914",
+        "date": "2022-05-15"
+      },
+      {
+        "title": "32 岁的客户端开发，想转 Linux ，大佬们给点意见",
+        "link": "https://www.v2ex.com/t/852913",
+        "date": "2022-05-15"
+      },
+      {
+        "title": "后端职位好像比前端职位更高薪",
+        "link": "https://www.v2ex.com/t/852912",
+        "date": "2022-05-15"
+      },
+      {
+        "title": "不太能理解 UOS/新支点系统的激活模式",
+        "link": "https://www.v2ex.com/t/852910",
+        "date": "2022-05-15"
+      },
+      {
+        "title": "撸了一个 Clash 的 GUI, 自带规则开箱即用",
+        "link": "https://www.v2ex.com/t/852908",
+        "date": "2022-05-15"
+      },
+      {
+        "title": "使用 gatsby 去预渲染 react 相对于直接写模版 html 有什么优势？",
+        "link": "https://www.v2ex.com/t/852907",
+        "date": "2022-05-15"
+      },
+      {
+        "title": "无忧卡注册的 Wechat 账号被封禁了",
+        "link": "https://www.v2ex.com/t/852906",
+        "date": "2022-05-15"
+      },
+      {
         "title": "Linux 类系统有哪些局域网连接 app？",
         "link": "https://www.v2ex.com/t/852904",
         "date": "2022-05-15"
@@ -10106,56 +10151,6 @@
         "title": "才看到 PHP 协程扩展 Swoole 去年的时候发生的分支事故",
         "link": "https://www.v2ex.com/t/852867",
         "date": "2022-05-14"
-      },
-      {
-        "title": "为何短视频，总喜欢不明所以的用字母代替文字？",
-        "link": "https://www.v2ex.com/t/852866",
-        "date": "2022-05-14"
-      },
-      {
-        "title": "canon s200spx 喷墨打印机 XP 系统 驱动安装成功但打印无反应怎么回事？",
-        "link": "https://www.v2ex.com/t/852865",
-        "date": "2022-05-14"
-      },
-      {
-        "title": "哪地方能较为系统的学习区块链的知识？",
-        "link": "https://www.v2ex.com/t/852864",
-        "date": "2022-05-14"
-      },
-      {
-        "title": "还有谁的微信没绑定手机嘛？ 总是弹窗",
-        "link": "https://www.v2ex.com/t/852863",
-        "date": "2022-05-14"
-      },
-      {
-        "title": "0-1 机器学习和深度学习交流群",
-        "link": "https://www.v2ex.com/t/852862",
-        "date": "2022-05-14"
-      },
-      {
-        "title": "短视频平台上一大堆相同的视频",
-        "link": "https://www.v2ex.com/t/852861",
-        "date": "2022-05-14"
-      },
-      {
-        "title": "北京 b 开头某大厂边缘部门你们能好好写文档吗",
-        "link": "https://www.v2ex.com/t/852860",
-        "date": "2022-05-14"
-      },
-      {
-        "title": "Klang 量化金融社区 -- 知识分享会活动预报",
-        "link": "https://www.v2ex.com/t/852858",
-        "date": "2022-05-14"
-      },
-      {
-        "title": "如何彻底关掉系统的电池健康管理",
-        "link": "https://www.v2ex.com/t/852856",
-        "date": "2022-05-14"
-      },
-      {
-        "title": "朋友有个项目私活，有意向的可以联系。",
-        "link": "https://www.v2ex.com/t/852855",
-        "date": "2022-05-14"
       }
     ]
   },
@@ -10164,6 +10159,41 @@
     "title": "技术头条",
     "link": "http://blogread.cn/news/newest.php",
     "items": [
+      {
+        "title": "谨慎！糟糕程序员的编程风格查看 (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=15093&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494024%26amp%3Bidx%3D1%26amp%3Bsn%3Dd142644804a8e87dcb91ffaf3ecc07e2%26amp%3Bchksm%3Dfa3f08d3cd4881c5cb3a3a32aa85ab93627ba49c8bcf1a6ada6e7835c0eb606dfc861820b4b2%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2022-05-15"
+      },
+      {
+        "title": "MySQL5.7 vs 8.0，哪个性能更牛？ (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=15092&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494024%26amp%3Bidx%3D2%26amp%3Bsn%3Da60d74981373759bb63f480296e5564d%26amp%3Bchksm%3Dfa3f08d3cd4881c50f6364e287ee82d2bd56d9e4b01b037f44ae0c247d30c49ea536581e061e%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2022-05-15"
+      },
+      {
+        "title": "炸了！！又一VSCode神器面世！ (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=15091&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494016%26amp%3Bidx%3D1%26amp%3Bsn%3Dacee1ce2b97823797def1c56cc6108cc%26amp%3Bchksm%3Dfa3f08dbcd4881cd7040cb09a82cb33ba9870b886ba7d3785d1fba173ca9ba8e022868f6a34b%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2022-05-15"
+      },
+      {
+        "title": "一款SQL检查审核神器！再也不担心写SQL出问题了 (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=15090&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494016%26amp%3Bidx%3D2%26amp%3Bsn%3Df6e694a03f52f9d3e0db934e3081092c%26amp%3Bchksm%3Dfa3f08dbcd4881cdb200a53de18e11209a5b5316d089862a3379a60834b8142e0027d8aa62b4%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2022-05-15"
+      },
+      {
+        "title": "Vite开发快速入门 (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=15089&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494009%26amp%3Bidx%3D2%26amp%3Bsn%3D34cf594ef5ee47fcff5a0a405f0772ae%26amp%3Bchksm%3Dfa3f0822cd4881344c7d21573766fed8c99d7cfb1587ca7591a32005a6e6c1de718cfedb21b9%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2022-05-15"
+      },
+      {
+        "title": "多线程场景下使用ArrayList，这几点一定要注意！ (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=15088&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493995%26amp%3Bidx%3D2%26amp%3Bsn%3D31d04421a0e1a77eb7e0d3bb9463f893%26amp%3Bchksm%3Dfa3f0830cd4881267ca1a5ec2c4e1d1f6ab94e017a7b744d178728f3c52370e0ac48ec75a05e%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2022-05-15"
+      },
+      {
+        "title": "在Google中输入这4个单词，竟然得到了这个 (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=15087&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493985%26amp%3Bidx%3D1%26amp%3Bsn%3D07203c7b20c2e5cc5c74cc1aac73bca8%26amp%3Bchksm%3Dfa3f083acd48812cda96f67ad35e2c9dff8c430cb1b6df1362fc022d3592d4f2fd7c2b341487%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2022-05-15"
+      },
       {
         "title": "Wallys-5G/LTE cat 16/USB 3.1  /GNSS (optional) VoLTE(optional) (www.wallystech.com)",
         "link": "https://blogread.cn/news/go.php?idItem=15086&url=https%3A%2F%2Fwww.wallystech.com%2FQuectel_modules%2F5G-RM500Q-GL-5G-LTE-cat-16-USB-3.1-GNSS-optional-VoLTE-optional.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
@@ -10228,41 +10258,6 @@
         "title": "做决策的时候，你相信什么？ (blog.devtang.com)",
         "link": "https://blogread.cn/news/go.php?idItem=15074&url=https%3A%2F%2Fblog.devtang.com%2F2020%2F04%2F15%2Fhow-to-make-decision%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
         "date": "2022-05-15"
-      },
-      {
-        "title": "千字浓缩精华：把RNN、RNN变体、Seq2Seq、Attention机制聊透一点 (www.52nlp.cn)",
-        "link": "https://blogread.cn/news/go.php?idItem=15073&url=https%3A%2F%2Fwww.52nlp.cn%2F%25e5%258d%2583%25e5%25ad%2597%25e6%25b5%2593%25e7%25bc%25a9%25e7%25b2%25be%25e5%258d%258e%25ef%25bc%259a%25e6%258a%258arnn%25e3%2580%2581rnn%25e5%258f%2598%25e4%25bd%2593%25e3%2580%2581seq2seq%25e3%2580%2581attention%25e6%259c%25ba%25e5%2588%25b6%25e8%2581%258a%25e9%2580%258f%25e4%25b8%2580%25e7%2582%25b9%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-05-15"
-      },
-      {
-        "title": "数据库内核的快照技术实现原理 (www.ideawu.net)",
-        "link": "https://blogread.cn/news/go.php?idItem=15072&url=https%3A%2F%2Fwww.ideawu.net%2Fblog%2Farchives%2F1170.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-05-15"
-      },
-      {
-        "title": "带猜测的二分查找算法 (blog.codingnow.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=15071&url=https%3A%2F%2Fblog.codingnow.com%2F2021%2F06%2Fbinary_search_by_guess.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-05-15"
-      },
-      {
-        "title": "深入业务场景，解决业务安全风险 (www.sec-un.org)",
-        "link": "https://blogread.cn/news/go.php?idItem=15070&url=https%3A%2F%2Fwww.sec-un.org%2F%25e6%25b7%25b1%25e5%2585%25a5%25e4%25b8%259a%25e5%258a%25a1%25e5%259c%25ba%25e6%2599%25af%25ef%25bc%258c%25e8%25a7%25a3%25e5%2586%25b3%25e4%25b8%259a%25e5%258a%25a1%25e5%25ae%2589%25e5%2585%25a8%25e9%25a3%258e%25e9%2599%25a9%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-05-15"
-      },
-      {
-        "title": "喧嚣之外：为什么是“零信任” (www.sec-un.org)",
-        "link": "https://blogread.cn/news/go.php?idItem=15069&url=https%3A%2F%2Fwww.sec-un.org%2F%25e5%2596%25a7%25e5%259a%25a3%25e4%25b9%258b%25e5%25a4%2596%25ef%25bc%259a%25e4%25b8%25ba%25e4%25bb%2580%25e4%25b9%2588%25e6%2598%25af%25e9%259b%25b6%25e4%25bf%25a1%25e4%25bb%25bb%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-05-15"
-      },
-      {
-        "title": "Better Code: 更好的异常日志打印 (wklken.me)",
-        "link": "https://blogread.cn/news/go.php?idItem=15068&url=https%3A%2F%2Fwklken.me%2Fposts%2F2022%2F01%2F16%2Fbetter-code-2-logging.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-05-15"
-      },
-      {
-        "title": "面试官提问三个Go接口的概念， 10年gopher竟无言以对 (colobu.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=15067&url=https%3A%2F%2Fcolobu.com%2F2022%2F01%2F16%2Fthree-new-concepts-of-go-interface-since-1-18%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-05-15"
       }
     ]
   },
@@ -10297,8 +10292,18 @@
         "date": "2022-05-15"
       },
       {
-        "title": "[推荐] 跨Mysql、Redis、Mongo的分布式事务",
-        "link": "https://toutiao.io/k/246clz1",
+        "title": "业务数据治理体系化思考与实践",
+        "link": "https://toutiao.io/k/ia27pof",
+        "date": "2022-05-15"
+      },
+      {
+        "title": "深入理解 Promise 之手把手教你写一版",
+        "link": "https://toutiao.io/k/0e1tbj7",
+        "date": "2022-05-15"
+      },
+      {
+        "title": "掌握WiredTiger存储引擎，帮你解决分布式事务难题！",
+        "link": "https://toutiao.io/k/irtgx5a",
         "date": "2022-05-15"
       },
       {
@@ -10307,8 +10312,8 @@
         "date": "2022-05-15"
       },
       {
-        "title": "[推荐] 15K Star！Github 上最火的低代码开发平台！",
-        "link": "https://toutiao.io/k/3qv24va",
+        "title": "[推荐] 左耳朵耗子：我做系统架构的一些原则",
+        "link": "https://toutiao.io/k/9oljc6o",
         "date": "2022-05-15"
       },
       {
@@ -10317,8 +10322,13 @@
         "date": "2022-05-15"
       },
       {
-        "title": "[推荐] 左耳朵耗子：我做系统架构的一些原则",
-        "link": "https://toutiao.io/k/9oljc6o",
+        "title": "[推荐] 跨Mysql、Redis、Mongo的分布式事务",
+        "link": "https://toutiao.io/k/246clz1",
+        "date": "2022-05-15"
+      },
+      {
+        "title": "[推荐] 15K Star！Github 上最火的低代码开发平台！",
+        "link": "https://toutiao.io/k/3qv24va",
         "date": "2022-05-15"
       }
     ]

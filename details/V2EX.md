@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-05-15 20:42:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-05-15 21:13:06。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
@@ -49,4 +49,3 @@
 - [2022-05-15-iPad-pro-通用控制的问题](https://www.v2ex.com/t/853014) 
 - [2022-05-15-Switch-破解后，怎么做到联网还不被-ban-的？](https://www.v2ex.com/t/853013) 
 - [2022-05-15-WSL-18.04-突然出现问题使用了与请求的协议不兼容的地址。](https://www.v2ex.com/t/853012) 
-- [2022-05-15-想入个-macbook，礼问一下大伙都是从哪些渠道买的](https://www.v2ex.com/t/853011) 

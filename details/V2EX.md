@@ -1,12 +1,16 @@
-:alarm_clock: 更新时间: 2022-05-15 07:13:43。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-05-15 07:38:58。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-05-15-youtube-上传用户已禁止在您的国家/地区播放此视频，有解决办法么？](https://www.v2ex.com/t/852962) 
+- [2022-05-15-ubuntu-下有-web-开发-ide-吗?](https://www.v2ex.com/t/852961) 
+- [2022-05-15-运行在浏览器里面的-js-怎么打开-tcp-端口](https://www.v2ex.com/t/852960) 
+- [2022-05-15-macbook-pro-想入一个-4K-typec-显示器，-KTC-mini-LED（M27P20）怎么样啊](https://www.v2ex.com/t/852959) 
 - [2022-05-15-在-Java-业内,-难道多表联合查询都是复杂问题吗?](https://www.v2ex.com/t/852958) 
-- [2022-05-15-Linux-/Windows-系统如何将-firefox-选择标签页的快捷键改为-Ctrl+n](https://www.v2ex.com/t/852957) 
+- [2022-05-15-Linux-系统如何将-firefox-选择标签页的快捷键改为-Ctrl+n](https://www.v2ex.com/t/852957) 
 - [2022-05-15-国企开发岗进去天天高强度加班，被吓到了](https://www.v2ex.com/t/852956) 
 - [2022-05-15-中国移动副卡的缺陷](https://www.v2ex.com/t/852955) 
 - [2022-05-15-51-单片机里，直接操作内存为什么不能点亮灯？](https://www.v2ex.com/t/852954) 
@@ -40,5 +44,3 @@
 - [2022-05-15-用-go-写了个包装-shell-的客户端程序，支持跨平台-win-/-Linux-/-mac-等-，分享并邀请大家体验。](https://www.v2ex.com/t/852915) 
 - [2022-05-15-给收藏夹加上状态，这个功能如何？](https://www.v2ex.com/t/852914) 
 - [2022-05-15-32-岁的客户端开发，想转-Linux-，大佬们给点意见](https://www.v2ex.com/t/852913) 
-- [2022-05-15-后端职位好像比前端职位更高薪](https://www.v2ex.com/t/852912) 
-- [2022-05-15-不太能理解-UOS/新支点系统的激活模式](https://www.v2ex.com/t/852910) 

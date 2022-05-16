@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-05-16 08:19:00。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-05-16 08:48:05。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -352,6 +352,7 @@
 
 
 
+- [【V2EX】Marin-Software-招聘-应用运维-美资软件-可以在家办公-英语口语熟练](https://www.v2ex.com/t/853216)
 - [【V2EX】德企在家办公北上深沈-SUSE-招聘-Linux-操作系统开发工程师-Kernel+C-相关-,-30k+](https://www.v2ex.com/t/853210)
 - [【开发者头条】面试杀手锏：Redis源码之BitMap](https://toutiao.io/k/h50ng9m)
 - [......【查看更多】......](./details/tags/job-interview.md)

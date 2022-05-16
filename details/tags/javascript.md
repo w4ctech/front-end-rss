@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-05-16 07:41:46。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-05-16 08:19:00。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -21,6 +21,5 @@
 - [2022-03-07-介绍8个和滚动相关的CSS属性](https://www.zhangxinxu.com/wordpress/2022/03/10-css-scroll-scrollbar/) 
 - [2022-05-16-京东云路由器，路由器拨号，-NAT-类型为啥还是-NAT3？](https://www.v2ex.com/t/853185) 
 - [2022-05-16-腾讯视频/爱奇艺已适配-arm。优酷/芒果谁会是最后一名呢？](https://www.v2ex.com/t/853184) 
-- [2022-05-16-大佬们推荐一台路由器吧](https://www.v2ex.com/t/853163) 
 - [2022-05-16-Promise必备知识汇总和面试情况-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15079&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493965%26amp%3Bidx%3D2%26amp%3Bsn%3Df9e6a81a83f12f514fd7816a6aa8db51%26amp%3Bchksm%3Dfa3f0816cd488100e7457a564b15183e835042d0e03b42e9c145b196355be1b141bd726cd89b%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-05-16-一文搞懂JavaScript中的预编译，带你领略GO和AO的美妙之处！](https://toutiao.io/k/686f8we) 

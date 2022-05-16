@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-05-16 19:12:12，:rocket: 更新条数: +2030， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-05-16 19:36:51，:rocket: 更新条数: +2030， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-05-16-iOS15-最近的几个版本自带的《翻译》无法繁简转化文本了](https://www.v2ex.com/t/853330) ![](assets/new.png)  
 - [2022-05-16-iOS-Bug-分享：手电筒没开，却是耗电排行第一名](https://www.v2ex.com/t/853328) ![](assets/new.png)  
 - [2022-05-16-没有能稳定聊天的异性，和同性聊天又感觉很没意思。没有什么特殊的想法，就是想找一个年龄差不多有共同语言的异性聊聊天，双方又不会觉得不方便。这种情况是不是...](https://www.v2ex.com/t/853327) ![](assets/new.png)  
 - [2022-05-16-传感器数据存入数据库是单表存一亿条还是拆分成小表？](https://www.v2ex.com/t/853326) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-05-16-独立开发者们，我可以帮你看看设计提提建议](https://www.v2ex.com/t/853311) ![](assets/new.png)  
 - [2022-05-16-请问华硕-GT-AX6000-和华硕-AX86U-选哪个](https://www.v2ex.com/t/853310) ![](assets/new.png)  
 - [2022-05-16-社招-|-校招-|-实习-来加入我们搞-Web3！](https://www.v2ex.com/t/853308) ![](assets/new.png)  
-- [2022-05-16-想了解一下有多少移动端工程师同时开发-iOS-和-Android-应用呢？](https://www.v2ex.com/t/853306) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-05-16 08:48:05。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-05-16 09:14:48。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -69,6 +69,13 @@
 
 
 - [【张鑫旭-鑫空间-鑫生活】2022-05-11-JS与条形码的生成](https://www.zhangxinxu.com/wordpress/2022/05/js-barcode/) 
+- [【V2EX】2022-05-16-MacbookPro-14-关机，合上屏幕后充不进电](https://www.v2ex.com/t/853228) 
+- [【V2EX】2022-05-16-有个帖子必定-502，啥情况](https://www.v2ex.com/t/853227) 
+- [【V2EX】2022-05-16-继上次开发了静态编译-PHP-cli-脚本后，又加入了可以把-PHP-代码也一起打包成单个二进制的功能](https://www.v2ex.com/t/853226) 
+- [【V2EX】2022-05-16-万表归一靠谱吗？](https://www.v2ex.com/t/853225) 
+- [【V2EX】2022-05-16-各位大佬有推荐的好用的带数学编辑器的编辑软件或者在线网站吗，-word-里-Mathtype-被搞坏了](https://www.v2ex.com/t/853223) 
+- [【V2EX】2022-05-16-搭建这样的一个-db-网站是否犯法](https://www.v2ex.com/t/853221) 
+- [【V2EX】2022-05-16-网线转换器会影响网页下载网速？](https://www.v2ex.com/t/853220) 
 - [【V2EX】2022-05-16-武汉联通宽带的-IPv6-无了？](https://www.v2ex.com/t/853219) 
 - [【V2EX】2022-05-16-求推荐办公笔记本](https://www.v2ex.com/t/853218) 
 - [【V2EX】2022-05-16-Marin-Software-招聘-应用运维-美资软件-可以在家办公-英语口语熟练](https://www.v2ex.com/t/853216) 
@@ -101,14 +108,6 @@
 - [【V2EX】2022-05-16-求推荐支持千兆网络、2.4G/-5G-WiFi-的-86-型-AP-面板](https://www.v2ex.com/t/853181) 
 - [【V2EX】2022-05-16-618-求推荐-2k-显示器](https://www.v2ex.com/t/853180) 
 - [【V2EX】2022-05-16-求职深圳三年半后端](https://www.v2ex.com/t/853179) 
-- [【V2EX】2022-05-16-TOB-大额海外线上采购，推荐虚拟-VISA-卡](https://www.v2ex.com/t/853178) 
-- [【V2EX】2022-05-16-上海-不加班-外企-招-Java-、测试、C++、-Python-、安卓](https://www.v2ex.com/t/853177) 
-- [【V2EX】2022-05-16-滨江伟业路这边，有没有小伙伴来打乒乓球哇](https://www.v2ex.com/t/853176) 
-- [【V2EX】2022-05-16-交大-acm-班招人中～（web3-前景产业）](https://www.v2ex.com/t/853175) 
-- [【V2EX】2022-05-16-Rust-桌面程序选-Flutter-还是-Tauri？](https://www.v2ex.com/t/853174) 
-- [【V2EX】2022-05-16-送码-自学-swiftUI-完成的第一个小项目，用来阅读查询英文医学指南](https://www.v2ex.com/t/853173) 
-- [【V2EX】2022-05-16-跨墙异地组网/内网穿透的最佳方案是什么？](https://www.v2ex.com/t/853172) 
-- [【V2EX】2022-05-16-即将毕业，-macbook-如何选择](https://www.v2ex.com/t/853171) 
 - [【技术头条】2022-05-16-谨慎！糟糕程序员的编程风格查看-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15093&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494024%26amp%3Bidx%3D1%26amp%3Bsn%3Dd142644804a8e87dcb91ffaf3ecc07e2%26amp%3Bchksm%3Dfa3f08d3cd4881c5cb3a3a32aa85ab93627ba49c8bcf1a6ada6e7835c0eb606dfc861820b4b2%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-05-16-MySQL5.7-vs-8.0，哪个性能更牛？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15092&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494024%26amp%3Bidx%3D2%26amp%3Bsn%3Da60d74981373759bb63f480296e5564d%26amp%3Bchksm%3Dfa3f08d3cd4881c50f6364e287ee82d2bd56d9e4b01b037f44ae0c247d30c49ea536581e061e%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-05-16-炸了！！又一VSCode神器面世！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15091&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494016%26amp%3Bidx%3D1%26amp%3Bsn%3Dacee1ce2b97823797def1c56cc6108cc%26amp%3Bchksm%3Dfa3f08dbcd4881cd7040cb09a82cb33ba9870b886ba7d3785d1fba173ca9ba8e022868f6a34b%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -131,8 +130,8 @@
 - [【技术头条】2022-05-16-做决策的时候，你相信什么？-blog.devtang.com](https://blogread.cn/news/go.php?idItem=15074&url=https%3A%2F%2Fblog.devtang.com%2F2020%2F04%2F15%2Fhow-to-make-decision%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【开发者头条】2022-05-16-ThreadLocal夺命11连问](https://toutiao.io/k/p8lpi5z) 
 - [【开发者头条】2022-05-16-面试杀手锏：Redis源码之BitMap](https://toutiao.io/k/h50ng9m) 
-- [【开发者头条】2022-05-16-容器江湖的爱恨情仇](https://toutiao.io/k/ku02utp) 
 - [【开发者头条】2022-05-16-大厂的优惠券系统是如何设计的？](https://toutiao.io/k/8v764sx) 
+- [【开发者头条】2022-05-16-容器江湖的爱恨情仇](https://toutiao.io/k/ku02utp) 
 - [【开发者头条】2022-05-16-一文搞懂JavaScript中的预编译，带你领略GO和AO的美妙之处！](https://toutiao.io/k/686f8we) 
 - [【开发者头条】2022-05-16-前端工程化之FaaS-SSR方案​](https://toutiao.io/k/515r2mx) 
 - [【开发者头条】2022-05-16-详解最大似然估计、最大后验概率估计及贝叶斯公式](https://toutiao.io/k/oko249d) 
@@ -149,12 +148,12 @@
 - [【开发者头条】2022-05-16-架构进化，这篇总算是讲清楚了-~](https://toutiao.io/k/04rl4yf) 
 - [【开发者头条】2022-05-16-Android-上屏流水账](https://toutiao.io/k/lkkiugx) 
 - [【开发者头条】2022-05-16-Hyperledger-Fabric-核心概念](https://toutiao.io/k/lnzcjy5) 
-- [【开发者头条】2022-05-16-推荐-聊聊我们是如何做系统保障方案的](https://toutiao.io/k/i8q3ye4) 
 - [【开发者头条】2022-05-16-推荐-左耳朵耗子：我做系统架构的一些原则](https://toutiao.io/k/9oljc6o) 
 - [【开发者头条】2022-05-16-推荐-TCP-重传、滑动窗口、流量控制、拥塞控好难？看完图解就不愁了（重制）](https://toutiao.io/k/14tz08l) 
-- [【开发者头条】2022-05-16-推荐-跨Mysql、Redis、Mongo的分布式事务](https://toutiao.io/k/246clz1) 
 - [【开发者头条】2022-05-16-推荐-15K-Star！Github-上最火的低代码开发平台！](https://toutiao.io/k/3qv24va) 
 - [【开发者头条】2022-05-16-推荐-架构设计资料合集](https://toutiao.io/k/iqlrz7b) 
+- [【开发者头条】2022-05-16-推荐-跨Mysql、Redis、Mongo的分布式事务](https://toutiao.io/k/246clz1) 
+- [【开发者头条】2022-05-16-推荐-聊聊我们是如何做系统保障方案的](https://toutiao.io/k/i8q3ye4) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

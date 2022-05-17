@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-05-16 23:41:48。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-05-17 01:01:18。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -6,5 +6,3 @@
 > 关键字：`招聘`、`面试`
 
 
-
-- [2022-05-16-面试杀手锏：Redis源码之BitMap](https://toutiao.io/k/h50ng9m) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-05-17 19:10:55。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-05-17 19:36:17。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -69,6 +69,7 @@
 
 
 - [【张鑫旭-鑫空间-鑫生活】2022-05-11-JS与条形码的生成](https://www.zhangxinxu.com/wordpress/2022/05/js-barcode/) 
+- [【V2EX】2022-05-17-我的耳洞特别小，戴入耳式耳机很容易划掉下来（特别容易），尝试去掉耳套之后（不戴任何耳套）直接带裸机稍微好一些，是否会影响使用呢。或者觅个解决方案](https://www.v2ex.com/t/853591) 
 - [【V2EX】2022-05-17-查看名字里的诗词和诗词结合八字运势取名](https://www.v2ex.com/t/853590) 
 - [【V2EX】2022-05-17-现在越来越觉得应该好好学习计算机底层知识](https://www.v2ex.com/t/853589) 
 - [【V2EX】2022-05-17-为啥-J4125-软路由下载的时候拉满宽带-cpu-占用率-50-70%左右？](https://www.v2ex.com/t/853588) 
@@ -148,11 +149,11 @@
 - [【开发者头条】2022-05-17-一文搞懂前端技术发展](https://toutiao.io/k/edh0x0q) 
 - [【开发者头条】2022-05-17-前端周刊：2022-7-期](https://toutiao.io/k/cy0gdep) 
 - [【开发者头条】2022-05-17-LiteFlow-v2.6.14发版注记，小而美的规则编排引擎](https://toutiao.io/k/pfkq6ew) 
+- [【开发者头条】2022-05-17-推荐-左耳朵耗子：我做系统架构的一些原则](https://toutiao.io/k/9oljc6o) 
+- [【开发者头条】2022-05-17-推荐-跨Mysql、Redis、Mongo的分布式事务](https://toutiao.io/k/246clz1) 
 - [【开发者头条】2022-05-17-推荐-架构设计资料合集](https://toutiao.io/k/iqlrz7b) 
 - [【开发者头条】2022-05-17-推荐-TCP-重传、滑动窗口、流量控制、拥塞控好难？看完图解就不愁了（重制）](https://toutiao.io/k/14tz08l) 
 - [【开发者头条】2022-05-17-推荐-聊聊我们是如何做系统保障方案的](https://toutiao.io/k/i8q3ye4) 
-- [【开发者头条】2022-05-17-推荐-跨Mysql、Redis、Mongo的分布式事务](https://toutiao.io/k/246clz1) 
-- [【开发者头条】2022-05-17-推荐-左耳朵耗子：我做系统架构的一些原则](https://toutiao.io/k/9oljc6o) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

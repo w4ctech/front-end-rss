@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-05-17 18:45:30，:rocket: 更新条数: +2029， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-05-17 19:10:55，:rocket: 更新条数: +2030， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-05-17-查看名字里的诗词和诗词结合八字运势取名](https://www.v2ex.com/t/853590) ![](assets/new.png)  
+- [2022-05-17-现在越来越觉得应该好好学习计算机底层知识](https://www.v2ex.com/t/853589) ![](assets/new.png)  
 - [2022-05-17-为啥-J4125-软路由下载的时候拉满宽带-cpu-占用率-50-70%左右？](https://www.v2ex.com/t/853588) ![](assets/new.png)  
 - [2022-05-17-20220517-午夜俱乐部](https://www.v2ex.com/t/853587) ![](assets/new.png)  
 - [2022-05-17-心塞,-本月-Windows-10-更新被整上-bug-了,-微软这啥玩意儿啊](https://www.v2ex.com/t/853586) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-05-17-中山出-39-元-300m-电信宽带](https://www.v2ex.com/t/853571) ![](assets/new.png)  
 - [2022-05-17-想学习前端技术有什么好推荐吗？](https://www.v2ex.com/t/853570) ![](assets/new.png)  
 - [2022-05-17-感觉目前云服务商提供的-docker-产品还不够经济](https://www.v2ex.com/t/853569) ![](assets/new.png)  
-- [2022-05-17-Windows-是-Android-开发最佳平台吗？](https://www.v2ex.com/t/853568) ![](assets/new.png)  
-- [2022-05-17-华为-5G-外壳是-eSIM，今年的-iPhone-eSIM-有希望吗？](https://www.v2ex.com/t/853567) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -570,9 +570,9 @@
 - [2022-05-17-一文搞懂前端技术发展](https://toutiao.io/k/edh0x0q) ![](assets/new.png)  
 - [2022-05-17-前端周刊：2022-7-期](https://toutiao.io/k/cy0gdep) ![](assets/new.png)  
 - [2022-05-17-LiteFlow-v2.6.14发版注记，小而美的规则编排引擎](https://toutiao.io/k/pfkq6ew) ![](assets/new.png)  
-- [2022-05-17-推荐-聊聊我们是如何做系统保障方案的](https://toutiao.io/k/i8q3ye4) ![](assets/new.png)  
 - [2022-05-17-推荐-架构设计资料合集](https://toutiao.io/k/iqlrz7b) ![](assets/new.png)  
-- [2022-05-17-推荐-左耳朵耗子：我做系统架构的一些原则](https://toutiao.io/k/9oljc6o) ![](assets/new.png)  
+- [2022-05-17-推荐-TCP-重传、滑动窗口、流量控制、拥塞控好难？看完图解就不愁了（重制）](https://toutiao.io/k/14tz08l) ![](assets/new.png)  
+- [2022-05-17-推荐-聊聊我们是如何做系统保障方案的](https://toutiao.io/k/i8q3ye4) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

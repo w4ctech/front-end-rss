@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-05-17 16:20:41，:rocket: 更新条数: +2028， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-05-17 17:02:46，:rocket: 更新条数: +2029， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-05-17-心塞,-本月-Windows-10-更新被整上-bug-了,-微软这啥玩意儿啊](https://www.v2ex.com/t/853586) ![](assets/new.png)  
 - [2022-05-17-如何更好地兼容-Python-2-和-Python-3](https://www.v2ex.com/t/853585) ![](assets/new.png)  
 - [2022-05-17-在宽带上打-DSCP-标记](https://www.v2ex.com/t/853583) ![](assets/new.png)  
 - [2022-05-17-现在还建议提前学习-Qt-框架吗？](https://www.v2ex.com/t/853582) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-05-17-华为-5G-外壳是-eSIM，今年的-iPhone-eSIM-有希望吗？](https://www.v2ex.com/t/853567) ![](assets/new.png)  
 - [2022-05-17-今年会有新的-Mac-mini-吗？](https://www.v2ex.com/t/853566) ![](assets/new.png)  
 - [2022-05-17-红米-AX6-无线-mesh-每秒钟多次请求-ntp-服务器](https://www.v2ex.com/t/853565) ![](assets/new.png)  
-- [2022-05-17-最近更新-win11-出现了个毛病](https://www.v2ex.com/t/853563) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

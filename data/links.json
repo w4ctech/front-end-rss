@@ -9953,6 +9953,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "如何查看 mac 里某个 app 是用哪个 apple id 下载的？",
+        "link": "https://www.v2ex.com/t/853596",
+        "date": "2022-05-17"
+      },
+      {
         "title": "熟悉 C++ 的编程人员想高速上手 Rust，有推荐的资料吗",
         "link": "https://www.v2ex.com/t/853595",
         "date": "2022-05-17"
@@ -10156,11 +10161,6 @@
         "title": "请教下，导出 conda 环境时，需要导出 pip 依赖吗？",
         "link": "https://www.v2ex.com/t/853547",
         "date": "2022-05-17"
-      },
-      {
-        "title": "驾驶证 过期超过一年，车子停路边 被人撞了，这种情况怎么处理",
-        "link": "https://www.v2ex.com/t/853546",
-        "date": "2022-05-17"
       }
     ]
   },
@@ -10362,8 +10362,8 @@
         "date": "2022-05-17"
       },
       {
-        "title": "[推荐] 架构设计资料合集",
-        "link": "https://toutiao.io/k/iqlrz7b",
+        "title": "[推荐] 左耳朵耗子：我做系统架构的一些原则",
+        "link": "https://toutiao.io/k/9oljc6o",
         "date": "2022-05-17"
       },
       {
@@ -10372,8 +10372,8 @@
         "date": "2022-05-17"
       },
       {
-        "title": "[推荐] 左耳朵耗子：我做系统架构的一些原则",
-        "link": "https://toutiao.io/k/9oljc6o",
+        "title": "[推荐] 架构设计资料合集",
+        "link": "https://toutiao.io/k/iqlrz7b",
         "date": "2022-05-17"
       },
       {

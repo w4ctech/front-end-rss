@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-05-17 15:45:23，:rocket: 更新条数: +2030， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-05-17 16:20:41，:rocket: 更新条数: +2028， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,9 @@
 </summary>
 
 
+- [2022-05-17-如何更好地兼容-Python-2-和-Python-3](https://www.v2ex.com/t/853585) ![](assets/new.png)  
+- [2022-05-17-在宽带上打-DSCP-标记](https://www.v2ex.com/t/853583) ![](assets/new.png)  
+- [2022-05-17-现在还建议提前学习-Qt-框架吗？](https://www.v2ex.com/t/853582) ![](assets/new.png)  
 - [2022-05-17-有没有人用过-monday.com?](https://www.v2ex.com/t/853580) ![](assets/new.png)  
 - [2022-05-17-MacOS-新版本解决了爆音问题](https://www.v2ex.com/t/853579) ![](assets/new.png)  
 - [2022-05-17-充电到-98%了，完全充满还需要-41-分钟？](https://www.v2ex.com/t/853578) ![](assets/new.png)  
@@ -508,9 +511,6 @@
 - [2022-05-17-今年会有新的-Mac-mini-吗？](https://www.v2ex.com/t/853566) ![](assets/new.png)  
 - [2022-05-17-红米-AX6-无线-mesh-每秒钟多次请求-ntp-服务器](https://www.v2ex.com/t/853565) ![](assets/new.png)  
 - [2022-05-17-最近更新-win11-出现了个毛病](https://www.v2ex.com/t/853563) ![](assets/new.png)  
-- [2022-05-17-切换到-Debian-sid-使用一个月的体验](https://www.v2ex.com/t/853562) ![](assets/new.png)  
-- [2022-05-17-成都-想不到流量暴增那么快！微信指数-Top1、增长最快的-Web3-NFT-公司-|-全栈/前端/后端-12k-30k](https://www.v2ex.com/t/853561) ![](assets/new.png)  
-- [2022-05-17-为什么感觉-utf8-的编码没有对上？](https://www.v2ex.com/t/853559) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -570,8 +570,8 @@
 - [2022-05-17-一文搞懂前端技术发展](https://toutiao.io/k/edh0x0q) ![](assets/new.png)  
 - [2022-05-17-前端周刊：2022-7-期](https://toutiao.io/k/cy0gdep) ![](assets/new.png)  
 - [2022-05-17-LiteFlow-v2.6.14发版注记，小而美的规则编排引擎](https://toutiao.io/k/pfkq6ew) ![](assets/new.png)  
-- [2022-05-17-推荐-跨Mysql、Redis、Mongo的分布式事务](https://toutiao.io/k/246clz1) ![](assets/new.png)  
 - [2022-05-17-推荐-左耳朵耗子：我做系统架构的一些原则](https://toutiao.io/k/9oljc6o) ![](assets/new.png)  
+- [2022-05-17-推荐-跨Mysql、Redis、Mongo的分布式事务](https://toutiao.io/k/246clz1) ![](assets/new.png)  
 - [2022-05-17-推荐-架构设计资料合集](https://toutiao.io/k/iqlrz7b) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

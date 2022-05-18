@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-05-18 02:54:16，:rocket: 更新条数: +2029， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-05-18 03:52:29，:rocket: 更新条数: +2028， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,26 +491,26 @@
 </summary>
 
 
-- [2022-05-18-2022-年了，还有人当舔狗吗-/滑稽](https://www.v2ex.com/t/853633) ![](assets/new.png)  
-- [2022-05-18-上海字节跳动招聘服务端技术专家](https://www.v2ex.com/t/853632) ![](assets/new.png)  
-- [2022-05-18-能否停用-Sim-卡时仍接收-iMessage-或-FaceTime](https://www.v2ex.com/t/853631) ![](assets/new.png)  
-- [2022-05-18-请问-android-的测试开机工具-bootchart-是从哪个阶段到哪个阶段为止？](https://www.v2ex.com/t/853630) ![](assets/new.png)  
-- [2022-05-18-请问-购买-macbook-哪里购买比较靠谱呢?](https://www.v2ex.com/t/853629) ![](assets/new.png)  
-- [2022-05-18-IDEA-2022.1.1-了，还需要用-JRebel-吗？](https://www.v2ex.com/t/853628) ![](assets/new.png)  
-- [2022-05-18-家庭无线覆盖问题，求助~](https://www.v2ex.com/t/853627) ![](assets/new.png)  
-- [2022-05-18-建站程序哪家强?](https://www.v2ex.com/t/853626) ![](assets/new.png)  
-- [2022-05-18-看完房贴文有感](https://www.v2ex.com/t/853624) ![](assets/new.png)  
-- [2022-05-18-京东金融-App-为什么这么卡](https://www.v2ex.com/t/853623) ![](assets/new.png)  
-- [2022-05-18-改变安卓-10-源码里的-density，为什么有些-App-会识别为手机？](https://www.v2ex.com/t/853622) ![](assets/new.png)  
-- [2022-05-18-境外迁移回国内云，-discuz-搭建论坛问题](https://www.v2ex.com/t/853621) ![](assets/new.png)  
-- [2022-05-18-为什么备份-etcd-时用的证书和-key-是-server.crt-和-server.key，而不是-client.crt](https://www.v2ex.com/t/853620) ![](assets/new.png)  
-- [2022-05-18-各位江苏上班的筒子们，你司实施育儿假了嘛？](https://www.v2ex.com/t/853618) ![](assets/new.png)  
-- [2022-05-18-搞到公网-ip-了，弄点啥？](https://www.v2ex.com/t/853617) ![](assets/new.png)  
-- [2022-05-18-有男生无法拒绝的工具箱推荐吗？](https://www.v2ex.com/t/853616) ![](assets/new.png)  
-- [2022-05-18-IDEA-能不能在-DEBUG-模式下手动触发某个方法](https://www.v2ex.com/t/853615) ![](assets/new.png)  
-- [2022-05-18-GFW-可以只屏蔽-bad.exp.com-而不屏蔽-good.exp.com-吗？](https://www.v2ex.com/t/853614) ![](assets/new.png)  
-- [2022-05-18-求问有无在语言层面的,-可以同步数据库的表到另外一个库的工具呢?](https://www.v2ex.com/t/853613) ![](assets/new.png)  
-- [2022-05-18-Klang-量化知识分享会-第-2-期----数据科学](https://www.v2ex.com/t/853611) ![](assets/new.png)  
+- [2022-05-18-基于-protobuf-的数据验证算按套路出牌吗？](https://www.v2ex.com/t/853661) ![](assets/new.png)  
+- [2022-05-18-op-作为旁路由开启-ipv6-之后-passwall-就失效了](https://www.v2ex.com/t/853659) ![](assets/new.png)  
+- [2022-05-18-若有-5k-左右零花钱，那得需要多少的月薪？](https://www.v2ex.com/t/853657) ![](assets/new.png)  
+- [2022-05-18-深圳哪里可以租露营设备呢？](https://www.v2ex.com/t/853656) ![](assets/new.png)  
+- [2022-05-18-请教一个路径转发问题](https://www.v2ex.com/t/853655) ![](assets/new.png)  
+- [2022-05-18-多表联查-Group-by-优化](https://www.v2ex.com/t/853653) ![](assets/new.png)  
+- [2022-05-18-OPENWRT-重拨更换-IPv6-后，电脑不会自动请求新地址怎么破](https://www.v2ex.com/t/853652) ![](assets/new.png)  
+- [2022-05-18-推荐个-Mac-下好用的机械键盘，-YYDS-级别。](https://www.v2ex.com/t/853651) ![](assets/new.png)  
+- [2022-05-18-多端控制怎么完成？智能硬件的](https://www.v2ex.com/t/853650) ![](assets/new.png)  
+- [2022-05-18-请问-go-怎么在主程简单对函数进行超时控制](https://www.v2ex.com/t/853649) ![](assets/new.png)  
+- [2022-05-18-大家会定期清除照片吗](https://www.v2ex.com/t/853648) ![](assets/new.png)  
+- [2022-05-18-替代软路由。-Linux-，-macOS，-Windows-都可以成为透明代理网关](https://www.v2ex.com/t/853647) ![](assets/new.png)  
+- [2022-05-18-分享你正在使用的笔记软件](https://www.v2ex.com/t/853646) ![](assets/new.png)  
+- [2022-05-18-等到最牛逼的那七位都是-90-后，国内大环境会不会变好一点](https://www.v2ex.com/t/853645) ![](assets/new.png)  
+- [2022-05-18-前端可以拿到一个请求的-ip-地址吗？](https://www.v2ex.com/t/853644) ![](assets/new.png)  
+- [2022-05-18-结肠镜需要麻醉吗？](https://www.v2ex.com/t/853643) ![](assets/new.png)  
+- [2022-05-18-gitee-公开仓库需要授权才能访问](https://www.v2ex.com/t/853642) ![](assets/new.png)  
+- [2022-05-18-最近把博客重构了一下，来晒晒](https://www.v2ex.com/t/853641) ![](assets/new.png)  
+- [2022-05-18-请问有类似-glideapps-的产品吗？最好可以导出-html-代码的](https://www.v2ex.com/t/853640) ![](assets/new.png)  
+- [2022-05-18-如何加速-Cloudflare-的网站？另外各位有没有遇到-Chrmo-主页被篡改成-bing-的情况？](https://www.v2ex.com/t/853639) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -522,6 +522,7 @@
 </summary>
 
 
+- [2022-05-18-Wallys-QCN9074/-11ax-/4x4-MU-MIMO-/2.4G-M.2-www.wallystech.com](https://blogread.cn/news/go.php?idItem=15094&url=https%3A%2F%2Fwww.wallystech.com%2FNetwork_Card%2FDR9074-2.4G-PN01.1-Wifi-6-Qualcomm-QCN9074-Single-Band-2.4-GHz-4T4R-M.2-E-Key-Interface-802.11ax.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-05-18-谨慎！糟糕程序员的编程风格查看-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15093&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494024%26amp%3Bidx%3D1%26amp%3Bsn%3Dd142644804a8e87dcb91ffaf3ecc07e2%26amp%3Bchksm%3Dfa3f08d3cd4881c5cb3a3a32aa85ab93627ba49c8bcf1a6ada6e7835c0eb606dfc861820b4b2%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-05-18-MySQL5.7-vs-8.0，哪个性能更牛？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15092&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494024%26amp%3Bidx%3D2%26amp%3Bsn%3Da60d74981373759bb63f480296e5564d%26amp%3Bchksm%3Dfa3f08d3cd4881c50f6364e287ee82d2bd56d9e4b01b037f44ae0c247d30c49ea536581e061e%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-05-18-炸了！！又一VSCode神器面世！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15091&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494016%26amp%3Bidx%3D1%26amp%3Bsn%3Dacee1ce2b97823797def1c56cc6108cc%26amp%3Bchksm%3Dfa3f08dbcd4881cd7040cb09a82cb33ba9870b886ba7d3785d1fba173ca9ba8e022868f6a34b%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
@@ -541,7 +542,6 @@
 - [2022-05-18-使用PHP-Socket开发Yar-TCP服务-www.laruence.com](https://blogread.cn/news/go.php?idItem=15077&url=https%3A%2F%2Fwww.laruence.com%2F2020%2F04%2F01%2F5726.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-05-18-TCP：学得越多越不懂-www.felix021.com](https://blogread.cn/news/go.php?idItem=15076&url=https%3A%2F%2Fwww.felix021.com%2Fblog%2Fread.php%3F2215%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-05-18-彻底搞懂-MySQL-的-explain-cmsblogs.com](https://blogread.cn/news/go.php?idItem=15075&url=http%3A%2F%2Fcmsblogs.com%2F%3Fp%3D18355%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-05-18-做决策的时候，你相信什么？-blog.devtang.com](https://blogread.cn/news/go.php?idItem=15074&url=https%3A%2F%2Fblog.devtang.com%2F2020%2F04%2F15%2Fhow-to-make-decision%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -559,19 +559,19 @@
 - [2022-05-18-eBPF编程指北](https://toutiao.io/k/fn0j0ty) ![](assets/new.png)  
 - [2022-05-18-为什么人们都讨厌HR？](https://toutiao.io/k/vlnwz8s) ![](assets/new.png)  
 - [2022-05-18-Scroll，玩明白了嘛？](https://toutiao.io/k/fct1j7m) ![](assets/new.png)  
-- [2022-05-18-.Net-在容器中操作宿主机](https://toutiao.io/k/yx9jw00) ![](assets/new.png)  
 - [2022-05-18-程序设计的2个技巧](https://toutiao.io/k/iwooo69) ![](assets/new.png)  
+- [2022-05-18-.Net-在容器中操作宿主机](https://toutiao.io/k/yx9jw00) ![](assets/new.png)  
 - [2022-05-18-万字多图，搞懂-Nginx-高性能网络工作原理！](https://toutiao.io/k/1uwy12d) ![](assets/new.png)  
-- [2022-05-18-硬核，图解bufio包系列之读取原理](https://toutiao.io/k/fdln4xu) ![](assets/new.png)  
-- [2022-05-18-Redis-如何使用-Bitmap](https://toutiao.io/k/5kyk3r4) ![](assets/new.png)  
 - [2022-05-18-两万字Flink笔记](https://toutiao.io/k/y1shfw2) ![](assets/new.png)  
+- [2022-05-18-硬核，图解bufio包系列之读取原理](https://toutiao.io/k/fdln4xu) ![](assets/new.png)  
 - [2022-05-18-终于有人把元数据讲明白了](https://toutiao.io/k/nxtuyki) ![](assets/new.png)  
+- [2022-05-18-Redis-如何使用-Bitmap](https://toutiao.io/k/5kyk3r4) ![](assets/new.png)  
 - [2022-05-18-部分实施GJB5000组织软件外包的乱象](https://toutiao.io/k/y8g26gg) ![](assets/new.png)  
-- [2022-05-18-推荐-跨Mysql、Redis、Mongo的分布式事务](https://toutiao.io/k/246clz1) ![](assets/new.png)  
 - [2022-05-18-推荐-架构设计资料合集](https://toutiao.io/k/iqlrz7b) ![](assets/new.png)  
+- [2022-05-18-推荐-跨Mysql、Redis、Mongo的分布式事务](https://toutiao.io/k/246clz1) ![](assets/new.png)  
+- [2022-05-18-推荐-左耳朵耗子：我做系统架构的一些原则](https://toutiao.io/k/9oljc6o) ![](assets/new.png)  
 - [2022-05-18-推荐-聊聊我们是如何做系统保障方案的](https://toutiao.io/k/i8q3ye4) ![](assets/new.png)  
 - [2022-05-18-推荐-TCP-重传、滑动窗口、流量控制、拥塞控好难？看完图解就不愁了（重制）](https://toutiao.io/k/14tz08l) ![](assets/new.png)  
-- [2022-05-18-推荐-左耳朵耗子：我做系统架构的一些原则](https://toutiao.io/k/9oljc6o) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,10 +1,13 @@
-:alarm_clock: 更新时间: 2022-05-18 04:26:45。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-05-18 04:58:00。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-05-18-视频查重，怎么在海量的视频里找到重复的那个视频](https://www.v2ex.com/t/853678) 
+- [2022-05-18-M1-Mac-挂载蓝光-ISO-后，读取蓝光原盘会死机重启](https://www.v2ex.com/t/853677) 
+- [2022-05-18-使用-Arch-Linux-一年的感受](https://www.v2ex.com/t/853676) 
 - [2022-05-18-Mac-端-Chrome-默认新标签页-favicon-模糊问题](https://www.v2ex.com/t/853674) 
 - [2022-05-18-哪些场景下会需要手动进行内存管理](https://www.v2ex.com/t/853673) 
 - [2022-05-18-Teams-为啥要手机验证码？-Zoom-有链接就可以登陆。](https://www.v2ex.com/t/853672) 
@@ -45,6 +48,3 @@
 - [2022-05-18-能否停用-Sim-卡时仍接收-iMessage-或-FaceTime](https://www.v2ex.com/t/853631) 
 - [2022-05-18-请问-android-的测试开机工具-bootchart-是从哪个阶段到哪个阶段为止？](https://www.v2ex.com/t/853630) 
 - [2022-05-18-请问-购买-macbook-哪里购买比较靠谱呢?](https://www.v2ex.com/t/853629) 
-- [2022-05-18-IDEA-2022.1.1-了，还需要用-JRebel-吗？](https://www.v2ex.com/t/853628) 
-- [2022-05-18-家庭无线覆盖问题，求助~](https://www.v2ex.com/t/853627) 
-- [2022-05-18-建站程序哪家强?](https://www.v2ex.com/t/853626) 

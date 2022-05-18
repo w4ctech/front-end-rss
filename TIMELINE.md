@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-05-18 04:26:45。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-05-18 04:58:00。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -69,6 +69,9 @@
 
 
 - [【张鑫旭-鑫空间-鑫生活】2022-05-11-JS与条形码的生成](https://www.zhangxinxu.com/wordpress/2022/05/js-barcode/) 
+- [【V2EX】2022-05-18-视频查重，怎么在海量的视频里找到重复的那个视频](https://www.v2ex.com/t/853678) 
+- [【V2EX】2022-05-18-M1-Mac-挂载蓝光-ISO-后，读取蓝光原盘会死机重启](https://www.v2ex.com/t/853677) 
+- [【V2EX】2022-05-18-使用-Arch-Linux-一年的感受](https://www.v2ex.com/t/853676) 
 - [【V2EX】2022-05-18-Mac-端-Chrome-默认新标签页-favicon-模糊问题](https://www.v2ex.com/t/853674) 
 - [【V2EX】2022-05-18-哪些场景下会需要手动进行内存管理](https://www.v2ex.com/t/853673) 
 - [【V2EX】2022-05-18-Teams-为啥要手机验证码？-Zoom-有链接就可以登陆。](https://www.v2ex.com/t/853672) 
@@ -109,9 +112,6 @@
 - [【V2EX】2022-05-18-能否停用-Sim-卡时仍接收-iMessage-或-FaceTime](https://www.v2ex.com/t/853631) 
 - [【V2EX】2022-05-18-请问-android-的测试开机工具-bootchart-是从哪个阶段到哪个阶段为止？](https://www.v2ex.com/t/853630) 
 - [【V2EX】2022-05-18-请问-购买-macbook-哪里购买比较靠谱呢?](https://www.v2ex.com/t/853629) 
-- [【V2EX】2022-05-18-IDEA-2022.1.1-了，还需要用-JRebel-吗？](https://www.v2ex.com/t/853628) 
-- [【V2EX】2022-05-18-家庭无线覆盖问题，求助~](https://www.v2ex.com/t/853627) 
-- [【V2EX】2022-05-18-建站程序哪家强?](https://www.v2ex.com/t/853626) 
 - [【技术头条】2022-05-18-Wallys-QCN9074/-11ax-/4x4-MU-MIMO-/2.4G-M.2-www.wallystech.com](https://blogread.cn/news/go.php?idItem=15094&url=https%3A%2F%2Fwww.wallystech.com%2FNetwork_Card%2FDR9074-2.4G-PN01.1-Wifi-6-Qualcomm-QCN9074-Single-Band-2.4-GHz-4T4R-M.2-E-Key-Interface-802.11ax.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-05-18-谨慎！糟糕程序员的编程风格查看-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15093&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494024%26amp%3Bidx%3D1%26amp%3Bsn%3Dd142644804a8e87dcb91ffaf3ecc07e2%26amp%3Bchksm%3Dfa3f08d3cd4881c5cb3a3a32aa85ab93627ba49c8bcf1a6ada6e7835c0eb606dfc861820b4b2%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-05-18-MySQL5.7-vs-8.0，哪个性能更牛？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15092&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494024%26amp%3Bidx%3D2%26amp%3Bsn%3Da60d74981373759bb63f480296e5564d%26amp%3Bchksm%3Dfa3f08d3cd4881c50f6364e287ee82d2bd56d9e4b01b037f44ae0c247d30c49ea536581e061e%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -136,8 +136,8 @@
 - [【开发者头条】2022-05-18-你见过哪些目瞪口呆的-Java-代码技巧？](https://toutiao.io/k/avsba7r) 
 - [【开发者头条】2022-05-18-解决微服务架构下流量有损问题的实践和探索](https://toutiao.io/k/f8xxqp3) 
 - [【开发者头条】2022-05-18-eBPF编程指北](https://toutiao.io/k/fn0j0ty) 
-- [【开发者头条】2022-05-18-为什么人们都讨厌HR？](https://toutiao.io/k/vlnwz8s) 
 - [【开发者头条】2022-05-18-程序设计的2个技巧](https://toutiao.io/k/iwooo69) 
+- [【开发者头条】2022-05-18-为什么人们都讨厌HR？](https://toutiao.io/k/vlnwz8s) 
 - [【开发者头条】2022-05-18-Scroll，玩明白了嘛？](https://toutiao.io/k/fct1j7m) 
 - [【开发者头条】2022-05-18-.Net-在容器中操作宿主机](https://toutiao.io/k/yx9jw00) 
 - [【开发者头条】2022-05-18-万字多图，搞懂-Nginx-高性能网络工作原理！](https://toutiao.io/k/1uwy12d) 
@@ -146,11 +146,11 @@
 - [【开发者头条】2022-05-18-终于有人把元数据讲明白了](https://toutiao.io/k/nxtuyki) 
 - [【开发者头条】2022-05-18-Redis-如何使用-Bitmap](https://toutiao.io/k/5kyk3r4) 
 - [【开发者头条】2022-05-18-部分实施GJB5000组织软件外包的乱象](https://toutiao.io/k/y8g26gg) 
-- [【开发者头条】2022-05-18-推荐-架构设计资料合集](https://toutiao.io/k/iqlrz7b) 
 - [【开发者头条】2022-05-18-推荐-TCP-重传、滑动窗口、流量控制、拥塞控好难？看完图解就不愁了（重制）](https://toutiao.io/k/14tz08l) 
+- [【开发者头条】2022-05-18-推荐-架构设计资料合集](https://toutiao.io/k/iqlrz7b) 
 - [【开发者头条】2022-05-18-推荐-左耳朵耗子：我做系统架构的一些原则](https://toutiao.io/k/9oljc6o) 
-- [【开发者头条】2022-05-18-推荐-聊聊我们是如何做系统保障方案的](https://toutiao.io/k/i8q3ye4) 
 - [【开发者头条】2022-05-18-推荐-跨Mysql、Redis、Mongo的分布式事务](https://toutiao.io/k/246clz1) 
+- [【开发者头条】2022-05-18-推荐-聊聊我们是如何做系统保障方案的](https://toutiao.io/k/i8q3ye4) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

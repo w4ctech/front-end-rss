@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-05-18 17:02:57。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-05-18 17:32:07。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -19,6 +19,7 @@
 - [2022-04-22-CSS实现滚动高度自动变小的粘滞效果](https://www.zhangxinxu.com/wordpress/2022/04/css-sticky-size-change/) 
 - [2022-03-15-基于howler.js写了个音频播放器组件](https://www.zhangxinxu.com/wordpress/2022/03/howler-js-audio-player/) 
 - [2022-03-07-介绍8个和滚动相关的CSS属性](https://www.zhangxinxu.com/wordpress/2022/03/10-css-scroll-scrollbar/) 
+- [2022-05-18-为什么全角方括号-会先改变-textarea-的内容才触发-keydown-事件？](https://www.v2ex.com/t/853823) 
 - [2022-05-18-关于-zerotier-和软路由的问题](https://www.v2ex.com/t/853813) 
 - [2022-05-18-求支持-kvr/mesh-的-OpenWrt-路由器](https://www.v2ex.com/t/853809) 
 - [2022-05-18-openwrt-路由求推荐](https://www.v2ex.com/t/853791) 

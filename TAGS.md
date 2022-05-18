@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-05-18 11:12:57。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-05-18 11:38:24。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -104,7 +104,6 @@
 
 
 
-- [【V2EX】高级后端开发专家-Go/node.js/Rust-全职远程办公-40-60K（总包-60-100W）](https://www.v2ex.com/t/853728)
 - [......【查看更多】......](./details/tags/nodejs.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -354,6 +353,7 @@
 
 
 
+- [【V2EX】Marin-Software-招聘-应用运维-英语口语熟练](https://www.v2ex.com/t/853777)
 - [【V2EX】赴日工作移民-2-周下签证🇯🇵欢迎掌握任何一门开发语言的小伙伴加入我们-!-就等你来!-招聘第-6-弹！](https://www.v2ex.com/t/853739)
 - [......【查看更多】......](./details/tags/job-interview.md)
 

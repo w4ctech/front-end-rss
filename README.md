@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-05-18 11:12:57，:rocket: 更新条数: +2036， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-05-18 11:38:24，:rocket: 更新条数: +2035， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,9 @@
 </summary>
 
 
+- [2022-05-18-macOS-能像-Windows-一样在全屏应用下显示其他应用的窗口吗？](https://www.v2ex.com/t/853778) ![](assets/new.png)  
+- [2022-05-18-Marin-Software-招聘-应用运维-英语口语熟练](https://www.v2ex.com/t/853777) ![](assets/new.png)  
+- [2022-05-18-Ubuntu-Server-安装更新到重启前干了哪些事情？](https://www.v2ex.com/t/853776) ![](assets/new.png)  
 - [2022-05-18-提供一个-ddns-更新的思路](https://www.v2ex.com/t/853774) ![](assets/new.png)  
 - [2022-05-18-萌新写开源项目,可批判可建议（技术栈所限-SpringBoot）。](https://www.v2ex.com/t/853773) ![](assets/new.png)  
 - [2022-05-18-是否有有效的投诉垃圾短信或电话的渠道？](https://www.v2ex.com/t/853772) ![](assets/new.png)  
@@ -508,9 +511,6 @@
 - [2022-05-18-各位的-MBP-动了吗？](https://www.v2ex.com/t/853758) ![](assets/new.png)  
 - [2022-05-18-本周露营计划](https://www.v2ex.com/t/853757) ![](assets/new.png)  
 - [2022-05-18-反向分享，-留下你的开源项目，看得懂会尽量提意见和建议。](https://www.v2ex.com/t/853756) ![](assets/new.png)  
-- [2022-05-18-有大佬了用-Golang-开发过-LonWorks-协议吗？](https://www.v2ex.com/t/853755) ![](assets/new.png)  
-- [2022-05-18-PassWall-和-DDns-的问题](https://www.v2ex.com/t/853754) ![](assets/new.png)  
-- [2022-05-18-上海/杭州/新加坡/美国-内推字节跳动国际化短视频隐私安全业务介绍及内推](https://www.v2ex.com/t/853753) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -560,8 +560,8 @@
 - [2022-05-18-eBPF编程指北](https://toutiao.io/k/fn0j0ty) ![](assets/new.png)  
 - [2022-05-18-万字多图，搞懂-Nginx-高性能网络工作原理！](https://toutiao.io/k/1uwy12d) ![](assets/new.png)  
 - [2022-05-18-Scroll，玩明白了嘛？](https://toutiao.io/k/fct1j7m) ![](assets/new.png)  
-- [2022-05-18-为什么人们都讨厌HR？](https://toutiao.io/k/vlnwz8s) ![](assets/new.png)  
 - [2022-05-18-两万字Flink笔记](https://toutiao.io/k/y1shfw2) ![](assets/new.png)  
+- [2022-05-18-为什么人们都讨厌HR？](https://toutiao.io/k/vlnwz8s) ![](assets/new.png)  
 - [2022-05-18-终于有人把元数据讲明白了](https://toutiao.io/k/nxtuyki) ![](assets/new.png)  
 - [2022-05-18-Redis-如何使用-Bitmap](https://toutiao.io/k/5kyk3r4) ![](assets/new.png)  
 - [2022-05-18-.Net-在容器中操作宿主机](https://toutiao.io/k/yx9jw00) ![](assets/new.png)  
@@ -572,7 +572,7 @@
 - [2022-05-18-写给小白的开源编译器](https://toutiao.io/k/di3hm2q) ![](assets/new.png)  
 - [2022-05-18-蚂蚁集团-Service-Mesh-进展回顾与展望](https://toutiao.io/k/j05luiw) ![](assets/new.png)  
 - [2022-05-18-你犯过这些难顶的-Go-编码错误吗（二）？](https://toutiao.io/k/lxkok3i) ![](assets/new.png)  
-- [2022-05-18-推荐-TCP-重传、滑动窗口、流量控制、拥塞控好难？看完图解就不愁了（重制）](https://toutiao.io/k/14tz08l) ![](assets/new.png)  
+- [2022-05-18-推荐-跨Mysql、Redis、Mongo的分布式事务](https://toutiao.io/k/246clz1) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

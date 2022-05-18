@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-05-18 06:18:02，:rocket: 更新条数: +2027， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-05-18 06:49:53，:rocket: 更新条数: +2029， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,14 @@
 </summary>
 
 
+- [2022-05-18-送一个-menubarX-pro-码](https://www.v2ex.com/t/853710) ![](assets/new.png)  
+- [2022-05-18-LFX-mentorship（与-GSoC-非常相似）开源远程实习，欢迎大家申请](https://www.v2ex.com/t/853709) ![](assets/new.png)  
+- [2022-05-18-Go-读写一个-nil-通道会使协程永久挂起，为什么这样设计呢？](https://www.v2ex.com/t/853708) ![](assets/new.png)  
+- [2022-05-18-招初级自动化测试工程师](https://www.v2ex.com/t/853707) ![](assets/new.png)  
+- [2022-05-18-关于配眼镜](https://www.v2ex.com/t/853706) ![](assets/new.png)  
+- [2022-05-18-有那种跨多个实例来虚拟成一个单机环境的操作系统吗？](https://www.v2ex.com/t/853705) ![](assets/new.png)  
+- [2022-05-18-想举报某公司偷税漏税，需要收集什么证据？](https://www.v2ex.com/t/853704) ![](assets/new.png)  
+- [2022-05-18-请教一个简单的-Java-问题](https://www.v2ex.com/t/853703) ![](assets/new.png)  
 - [2022-05-18-寻找前端程序员老哥合作写网站](https://www.v2ex.com/t/853700) ![](assets/new.png)  
 - [2022-05-18-用-swoole-加速-laravel-似乎并不像宣传的那么有效](https://www.v2ex.com/t/853699) ![](assets/new.png)  
 - [2022-05-18-由于从小到大没有养成良好的喝奶习惯，现在摄入含乳糖的食物总是出现乳糖不耐的症状，有什么办法减轻该症状吗？谢谢](https://www.v2ex.com/t/853698) ![](assets/new.png)  
@@ -503,14 +511,6 @@
 - [2022-05-18-openclash-无法访问-GitHub？你们有遇到这个情况吗?-油管正常-复制链接](https://www.v2ex.com/t/853689) ![](assets/new.png)  
 - [2022-05-18-SideProject.guide](https://www.v2ex.com/t/853687) ![](assets/new.png)  
 - [2022-05-18-M1-Mac-应用运行一段时间后自动退出，有遇到这个问题的吗？](https://www.v2ex.com/t/853685) ![](assets/new.png)  
-- [2022-05-18-Ubuntu-22.04-的-WiFi-热点无法连接](https://www.v2ex.com/t/853684) ![](assets/new.png)  
-- [2022-05-18-RustDesk-招聘远程实习（开源，有偿）Sciter-向-Flutter/Tauri-迁移项目](https://www.v2ex.com/t/853682) ![](assets/new.png)  
-- [2022-05-18-油管发现一位-PS-大神：-PiXimperfect](https://www.v2ex.com/t/853680) ![](assets/new.png)  
-- [2022-05-18-MacOS-上-chrome-或者-safari-浏览器默认的视频播放器怎么修改?](https://www.v2ex.com/t/853679) ![](assets/new.png)  
-- [2022-05-18-视频查重，怎么在海量的视频里找到重复的那个视频](https://www.v2ex.com/t/853678) ![](assets/new.png)  
-- [2022-05-18-M1-Mac-挂载蓝光-ISO-后，读取蓝光原盘会死机重启](https://www.v2ex.com/t/853677) ![](assets/new.png)  
-- [2022-05-18-使用-Arch-Linux-一年的感受](https://www.v2ex.com/t/853676) ![](assets/new.png)  
-- [2022-05-18-Mac-端-Chrome-默认新标签页-favicon-模糊问题](https://www.v2ex.com/t/853674) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -559,8 +559,8 @@
 - [2022-05-18-eBPF编程指北](https://toutiao.io/k/fn0j0ty) ![](assets/new.png)  
 - [2022-05-18-程序设计的2个技巧](https://toutiao.io/k/iwooo69) ![](assets/new.png)  
 - [2022-05-18-为什么人们都讨厌HR？](https://toutiao.io/k/vlnwz8s) ![](assets/new.png)  
-- [2022-05-18-Scroll，玩明白了嘛？](https://toutiao.io/k/fct1j7m) ![](assets/new.png)  
 - [2022-05-18-万字多图，搞懂-Nginx-高性能网络工作原理！](https://toutiao.io/k/1uwy12d) ![](assets/new.png)  
+- [2022-05-18-Scroll，玩明白了嘛？](https://toutiao.io/k/fct1j7m) ![](assets/new.png)  
 - [2022-05-18-.Net-在容器中操作宿主机](https://toutiao.io/k/yx9jw00) ![](assets/new.png)  
 - [2022-05-18-硬核，图解bufio包系列之读取原理](https://toutiao.io/k/fdln4xu) ![](assets/new.png)  
 - [2022-05-18-两万字Flink笔记](https://toutiao.io/k/y1shfw2) ![](assets/new.png)  
@@ -568,11 +568,11 @@
 - [2022-05-18-Redis-如何使用-Bitmap](https://toutiao.io/k/5kyk3r4) ![](assets/new.png)  
 - [2022-05-18-部分实施GJB5000组织软件外包的乱象](https://toutiao.io/k/y8g26gg) ![](assets/new.png)  
 - [2022-05-18-应用缓存预热方案设计](https://toutiao.io/k/5mazjik) ![](assets/new.png)  
-- [2022-05-18-架构解析-|-从ABTest是啥开始说](https://toutiao.io/k/t1hxo7h) ![](assets/new.png)  
-- [2022-05-18-蚂蚁集团-Service-Mesh-进展回顾与展望](https://toutiao.io/k/j05luiw) ![](assets/new.png)  
-- [2022-05-18-你犯过这些难顶的-Go-编码错误吗（二）？](https://toutiao.io/k/lxkok3i) ![](assets/new.png)  
 - [2022-05-18-写给小白的开源编译器](https://toutiao.io/k/di3hm2q) ![](assets/new.png)  
-- [2022-05-18-推荐-左耳朵耗子：我做系统架构的一些原则](https://toutiao.io/k/9oljc6o) ![](assets/new.png)  
+- [2022-05-18-架构解析-|-从ABTest是啥开始说](https://toutiao.io/k/t1hxo7h) ![](assets/new.png)  
+- [2022-05-18-你犯过这些难顶的-Go-编码错误吗（二）？](https://toutiao.io/k/lxkok3i) ![](assets/new.png)  
+- [2022-05-18-蚂蚁集团-Service-Mesh-进展回顾与展望](https://toutiao.io/k/j05luiw) ![](assets/new.png)  
+- [2022-05-18-推荐-聊聊我们是如何做系统保障方案的](https://toutiao.io/k/i8q3ye4) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

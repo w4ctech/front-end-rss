@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-05-18 13:14:48。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-05-18 13:59:07。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -184,7 +184,6 @@
 - [【张鑫旭-鑫空间-鑫生活】基于howler.js写了个音频播放器组件](https://www.zhangxinxu.com/wordpress/2022/03/howler-js-audio-player/)
 - [【张鑫旭-鑫空间-鑫生活】介绍8个和滚动相关的CSS属性](https://www.zhangxinxu.com/wordpress/2022/03/10-css-scroll-scrollbar/)
 - [【V2EX】openwrt-路由求推荐](https://www.v2ex.com/t/853791)
-- [【V2EX】hugegraph-的边文件，可以不使用-json-吗](https://www.v2ex.com/t/853749)
 - [【技术头条】Promise必备知识汇总和面试情况-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15079&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493965%26amp%3Bidx%3D2%26amp%3Bsn%3Df9e6a81a83f12f514fd7816a6aa8db51%26amp%3Bchksm%3Dfa3f0816cd488100e7457a564b15183e835042d0e03b42e9c145b196355be1b141bd726cd89b%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【开发者头条】Scroll，玩明白了嘛？](https://toutiao.io/k/fct1j7m)
 - [......【查看更多】......](./details/tags/javascript.md)
@@ -240,9 +239,9 @@
 
 - [【武汉肺炎防疫全纪录(财新网)】广州17岁男生在定点医院参加高考-特殊考场视频监考](https://m.caixin.com/m/2021-06-05/101723418.html)
 - [【武汉肺炎防疫全纪录(财新网)】林郑月娥率13高官直播接种科兴疫苗-复星疫苗预计周中到港](https://m.caixin.com/m/2021-02-22/101665724.html)
+- [【V2EX】iPad-mini-6-看-YouTube-视频全屏的情况下，顶部三个点和底部的横条不消失](https://www.v2ex.com/t/853803)
 - [【V2EX】请问-Python-如何直接获取视频直播-m3u8-文件的请求-URL-信息？](https://www.v2ex.com/t/853782)
 - [【V2EX】大佬们，手机百度、夸克浏览器播放网页视频，播放器会被浏览器的内置浏览器拦截，这个问题有人知道吗](https://www.v2ex.com/t/853767)
-- [【V2EX】上海/杭州/新加坡/美国-内推字节跳动国际化短视频隐私安全业务介绍及内推](https://www.v2ex.com/t/853753)
 - [......【查看更多】......](./details/tags/audio-video.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -336,7 +335,6 @@
 
 
 - [【V2EX】Github-终于支持设置-Tab-缩进宽度了，默认-8-格，但-IDE-通常用-4-格，对于网页版显示一般设置多少格才会适合？](https://www.v2ex.com/t/853789)
-- [【V2EX】Gitee-关闭了我的开源项目公开访问权限](https://www.v2ex.com/t/853770)
 - [......【查看更多】......](./details/tags/git-svn.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

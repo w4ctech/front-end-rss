@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-05-18 20:41:28。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-05-18 21:14:03。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -69,6 +69,7 @@
 
 
 - [【张鑫旭-鑫空间-鑫生活】2022-05-11-JS与条形码的生成](https://www.zhangxinxu.com/wordpress/2022/05/js-barcode/) 
+- [【V2EX】2022-05-18-小白提问，怎样搭建一个用于下载的服务器？](https://www.v2ex.com/t/853827) 
 - [【V2EX】2022-05-18-一个普通市民想说说自己的生活圈子财富现状（在上海），也给想在上海买房的-v-友安利一个自己的梦中小区](https://www.v2ex.com/t/853826) 
 - [【V2EX】2022-05-18-Python-有现成的包可以把以下内容文本解析为-dict-吗？如果没有，最佳解析方法是什么？](https://www.v2ex.com/t/853825) 
 - [【V2EX】2022-05-18-为什么全角方括号-会先改变-textarea-的内容才触发-keydown-事件？](https://www.v2ex.com/t/853823) 
@@ -104,7 +105,6 @@
 - [【V2EX】2022-05-18-请问-Python-如何直接获取视频直播-m3u8-文件的请求-URL-信息？](https://www.v2ex.com/t/853782) 
 - [【V2EX】2022-05-18-泛型为什么不能用这样用呢](https://www.v2ex.com/t/853780) 
 - [【V2EX】2022-05-18-macOS-能像-Windows-一样在全屏应用下显示其他应用的窗口吗？](https://www.v2ex.com/t/853778) 
-- [【V2EX】2022-05-18-Marin-Software-招聘-应用运维-英语口语熟练](https://www.v2ex.com/t/853777) 
 - [【技术头条】2022-05-18-Wallys-QCN9074/-11ax-/4x4-MU-MIMO-/2.4G-M.2-www.wallystech.com](https://blogread.cn/news/go.php?idItem=15094&url=https%3A%2F%2Fwww.wallystech.com%2FNetwork_Card%2FDR9074-2.4G-PN01.1-Wifi-6-Qualcomm-QCN9074-Single-Band-2.4-GHz-4T4R-M.2-E-Key-Interface-802.11ax.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-05-18-谨慎！糟糕程序员的编程风格查看-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15093&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494024%26amp%3Bidx%3D1%26amp%3Bsn%3Dd142644804a8e87dcb91ffaf3ecc07e2%26amp%3Bchksm%3Dfa3f08d3cd4881c5cb3a3a32aa85ab93627ba49c8bcf1a6ada6e7835c0eb606dfc861820b4b2%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-05-18-MySQL5.7-vs-8.0，哪个性能更牛？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15092&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494024%26amp%3Bidx%3D2%26amp%3Bsn%3Da60d74981373759bb63f480296e5564d%26amp%3Bchksm%3Dfa3f08d3cd4881c50f6364e287ee82d2bd56d9e4b01b037f44ae0c247d30c49ea536581e061e%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -144,11 +144,11 @@
 - [【开发者头条】2022-05-18-写给小白的开源编译器](https://toutiao.io/k/di3hm2q) 
 - [【开发者头条】2022-05-18-蚂蚁集团-Service-Mesh-进展回顾与展望](https://toutiao.io/k/j05luiw) 
 - [【开发者头条】2022-05-18-你犯过这些难顶的-Go-编码错误吗（二）？](https://toutiao.io/k/lxkok3i) 
-- [【开发者头条】2022-05-18-推荐-架构设计资料合集](https://toutiao.io/k/iqlrz7b) 
-- [【开发者头条】2022-05-18-推荐-TCP-重传、滑动窗口、流量控制、拥塞控好难？看完图解就不愁了（重制）](https://toutiao.io/k/14tz08l) 
-- [【开发者头条】2022-05-18-推荐-跨Mysql、Redis、Mongo的分布式事务](https://toutiao.io/k/246clz1) 
 - [【开发者头条】2022-05-18-推荐-左耳朵耗子：我做系统架构的一些原则](https://toutiao.io/k/9oljc6o) 
+- [【开发者头条】2022-05-18-推荐-架构设计资料合集](https://toutiao.io/k/iqlrz7b) 
 - [【开发者头条】2022-05-18-推荐-聊聊我们是如何做系统保障方案的](https://toutiao.io/k/i8q3ye4) 
+- [【开发者头条】2022-05-18-推荐-跨Mysql、Redis、Mongo的分布式事务](https://toutiao.io/k/246clz1) 
+- [【开发者头条】2022-05-18-推荐-TCP-重传、滑动窗口、流量控制、拥塞控好难？看完图解就不愁了（重制）](https://toutiao.io/k/14tz08l) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

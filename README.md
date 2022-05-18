@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-05-18 20:41:28，:rocket: 更新条数: +2026， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-05-18 21:14:03，:rocket: 更新条数: +2026， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-05-18-小白提问，怎样搭建一个用于下载的服务器？](https://www.v2ex.com/t/853827) ![](assets/new.png)  
 - [2022-05-18-一个普通市民想说说自己的生活圈子财富现状（在上海），也给想在上海买房的-v-友安利一个自己的梦中小区](https://www.v2ex.com/t/853826) ![](assets/new.png)  
 - [2022-05-18-Python-有现成的包可以把以下内容文本解析为-dict-吗？如果没有，最佳解析方法是什么？](https://www.v2ex.com/t/853825) ![](assets/new.png)  
 - [2022-05-18-为什么全角方括号-会先改变-textarea-的内容才触发-keydown-事件？](https://www.v2ex.com/t/853823) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-05-18-小白求指点非同源图像匹配的好方法～](https://www.v2ex.com/t/853806) ![](assets/new.png)  
 - [2022-05-18-为什么-macOS-打开-Launchpad-后居然还能双指从右往左滑呼出通知中心。。。](https://www.v2ex.com/t/853805) ![](assets/new.png)  
 - [2022-05-18-webdav-怎么用于-TimeMachine-？](https://www.v2ex.com/t/853804) ![](assets/new.png)  
-- [2022-05-18-iPad-mini-6-看-YouTube-视频全屏的情况下，顶部三个点和底部的横条不消失](https://www.v2ex.com/t/853803) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -572,7 +572,7 @@
 - [2022-05-18-写给小白的开源编译器](https://toutiao.io/k/di3hm2q) ![](assets/new.png)  
 - [2022-05-18-蚂蚁集团-Service-Mesh-进展回顾与展望](https://toutiao.io/k/j05luiw) ![](assets/new.png)  
 - [2022-05-18-你犯过这些难顶的-Go-编码错误吗（二）？](https://toutiao.io/k/lxkok3i) ![](assets/new.png)  
-- [2022-05-18-推荐-架构设计资料合集](https://toutiao.io/k/iqlrz7b) ![](assets/new.png)  
+- [2022-05-18-推荐-左耳朵耗子：我做系统架构的一些原则](https://toutiao.io/k/9oljc6o) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

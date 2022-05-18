@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-05-18 05:43:49。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-05-18 06:18:02。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -21,6 +21,5 @@
 - [2022-03-07-介绍8个和滚动相关的CSS属性](https://www.zhangxinxu.com/wordpress/2022/03/10-css-scroll-scrollbar/) 
 - [2022-05-18-驼峰命名变量和函数可行吗,-会不会导致程序出错?](https://www.v2ex.com/t/853667) 
 - [2022-05-18-op-作为旁路由开启-ipv6-之后-passwall-就失效了](https://www.v2ex.com/t/853659) 
-- [2022-05-18-替代软路由。-Linux-，-macOS，-Windows-都可以成为透明代理网关](https://www.v2ex.com/t/853647) 
 - [2022-05-18-Promise必备知识汇总和面试情况-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15079&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493965%26amp%3Bidx%3D2%26amp%3Bsn%3Df9e6a81a83f12f514fd7816a6aa8db51%26amp%3Bchksm%3Dfa3f0816cd488100e7457a564b15183e835042d0e03b42e9c145b196355be1b141bd726cd89b%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-05-18-Scroll，玩明白了嘛？](https://toutiao.io/k/fct1j7m) 

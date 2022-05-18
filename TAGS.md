@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-05-18 05:43:49。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-05-18 06:18:02。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -184,7 +184,6 @@
 - [【张鑫旭-鑫空间-鑫生活】介绍8个和滚动相关的CSS属性](https://www.zhangxinxu.com/wordpress/2022/03/10-css-scroll-scrollbar/)
 - [【V2EX】驼峰命名变量和函数可行吗,-会不会导致程序出错?](https://www.v2ex.com/t/853667)
 - [【V2EX】op-作为旁路由开启-ipv6-之后-passwall-就失效了](https://www.v2ex.com/t/853659)
-- [【V2EX】替代软路由。-Linux-，-macOS，-Windows-都可以成为透明代理网关](https://www.v2ex.com/t/853647)
 - [【技术头条】Promise必备知识汇总和面试情况-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15079&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493965%26amp%3Bidx%3D2%26amp%3Bsn%3Df9e6a81a83f12f514fd7816a6aa8db51%26amp%3Bchksm%3Dfa3f0816cd488100e7457a564b15183e835042d0e03b42e9c145b196355be1b141bd726cd89b%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【开发者头条】Scroll，玩明白了嘛？](https://toutiao.io/k/fct1j7m)
 - [......【查看更多】......](./details/tags/javascript.md)
@@ -289,9 +288,9 @@
 - [【V2EX】Mac-端-Chrome-默认新标签页-favicon-模糊问题](https://www.v2ex.com/t/853674)
 - [【V2EX】君可知？使用搜索引擎除了-GET-和-POST-之外，还有一种叫-Ajax-render-的“请求方式”](https://www.v2ex.com/t/853664)
 - [【V2EX】OPENWRT-重拨更换-IPv6-后，电脑不会自动请求新地址怎么破](https://www.v2ex.com/t/853652)
-- [【V2EX】前端可以拿到一个请求的-ip-地址吗？](https://www.v2ex.com/t/853644)
 - [【技术头条】App开放接口api安全：Token签名sign的设计与实现-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15085&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493985%26amp%3Bidx%3D2%26amp%3Bsn%3Dd7b1313ef4a0226295c81127ee22c958%26amp%3Bchksm%3Dfa3f083acd48812c339da2d4de950a0fda74f93663bc630c95de45f1f211ed7ec8aab67904fd%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【开发者头条】首个确保缓存与数据库一致性的方案](https://toutiao.io/k/imjqbp3)
+- [【开发者头条】应用缓存预热方案设计](https://toutiao.io/k/5mazjik)
 - [......【查看更多】......](./details/tags/browser.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -342,7 +341,6 @@
 
 - [【V2EX】openclash-无法访问-GitHub？你们有遇到这个情况吗?-油管正常-复制链接](https://www.v2ex.com/t/853689)
 - [【V2EX】GitHub,dev-出现这个是啥意思???](https://www.v2ex.com/t/853665)
-- [【V2EX】gitee-公开仓库需要授权才能访问](https://www.v2ex.com/t/853642)
 - [......【查看更多】......](./details/tags/git-svn.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

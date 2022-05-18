@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-05-18 05:43:49。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-05-18 06:18:02。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -16,6 +16,6 @@
 - [2022-05-18-Mac-端-Chrome-默认新标签页-favicon-模糊问题](https://www.v2ex.com/t/853674) 
 - [2022-05-18-君可知？使用搜索引擎除了-GET-和-POST-之外，还有一种叫-Ajax-render-的“请求方式”](https://www.v2ex.com/t/853664) 
 - [2022-05-18-OPENWRT-重拨更换-IPv6-后，电脑不会自动请求新地址怎么破](https://www.v2ex.com/t/853652) 
-- [2022-05-18-前端可以拿到一个请求的-ip-地址吗？](https://www.v2ex.com/t/853644) 
 - [2022-05-18-App开放接口api安全：Token签名sign的设计与实现-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15085&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493985%26amp%3Bidx%3D2%26amp%3Bsn%3Dd7b1313ef4a0226295c81127ee22c958%26amp%3Bchksm%3Dfa3f083acd48812c339da2d4de950a0fda74f93663bc630c95de45f1f211ed7ec8aab67904fd%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-05-18-首个确保缓存与数据库一致性的方案](https://toutiao.io/k/imjqbp3) 
+- [2022-05-18-应用缓存预热方案设计](https://toutiao.io/k/5mazjik) 

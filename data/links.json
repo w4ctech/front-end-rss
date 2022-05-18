@@ -10126,11 +10126,6 @@
         "title": "泛型为什么不能用这样用呢",
         "link": "https://www.v2ex.com/t/853780",
         "date": "2022-05-18"
-      },
-      {
-        "title": "macOS 能像 Windows 一样在全屏应用下显示其他应用的窗口吗？",
-        "link": "https://www.v2ex.com/t/853778",
-        "date": "2022-05-18"
       }
     ]
   },
@@ -10247,103 +10242,8 @@
     "link": "https://toutiao.io",
     "items": [
       {
-        "title": "首个确保缓存与数据库一致性的方案",
-        "link": "https://toutiao.io/k/imjqbp3",
-        "date": "2022-05-18"
-      },
-      {
-        "title": "你见过哪些目瞪口呆的 Java 代码技巧？",
-        "link": "https://toutiao.io/k/avsba7r",
-        "date": "2022-05-18"
-      },
-      {
-        "title": "解决微服务架构下流量有损问题的实践和探索",
-        "link": "https://toutiao.io/k/f8xxqp3",
-        "date": "2022-05-18"
-      },
-      {
-        "title": "程序设计的2个技巧",
-        "link": "https://toutiao.io/k/iwooo69",
-        "date": "2022-05-18"
-      },
-      {
-        "title": "万字多图，搞懂 Nginx 高性能网络工作原理！",
-        "link": "https://toutiao.io/k/1uwy12d",
-        "date": "2022-05-18"
-      },
-      {
-        "title": "eBPF编程指北",
-        "link": "https://toutiao.io/k/fn0j0ty",
-        "date": "2022-05-18"
-      },
-      {
-        "title": "终于有人把元数据讲明白了",
-        "link": "https://toutiao.io/k/nxtuyki",
-        "date": "2022-05-18"
-      },
-      {
-        "title": "Redis 如何使用 Bitmap",
-        "link": "https://toutiao.io/k/5kyk3r4",
-        "date": "2022-05-18"
-      },
-      {
-        "title": "两万字Flink笔记",
-        "link": "https://toutiao.io/k/y1shfw2",
-        "date": "2022-05-18"
-      },
-      {
-        "title": "应用缓存预热方案设计",
-        "link": "https://toutiao.io/k/5mazjik",
-        "date": "2022-05-18"
-      },
-      {
-        "title": "Scroll，玩明白了嘛？",
-        "link": "https://toutiao.io/k/fct1j7m",
-        "date": "2022-05-18"
-      },
-      {
-        "title": "为什么人们都讨厌HR？",
-        "link": "https://toutiao.io/k/vlnwz8s",
-        "date": "2022-05-18"
-      },
-      {
-        "title": ".Net 在容器中操作宿主机",
-        "link": "https://toutiao.io/k/yx9jw00",
-        "date": "2022-05-18"
-      },
-      {
-        "title": "硬核，图解bufio包系列之读取原理",
-        "link": "https://toutiao.io/k/fdln4xu",
-        "date": "2022-05-18"
-      },
-      {
-        "title": "部分实施GJB5000组织软件外包的乱象",
-        "link": "https://toutiao.io/k/y8g26gg",
-        "date": "2022-05-18"
-      },
-      {
-        "title": "架构解析 | 从ABTest是啥开始说",
-        "link": "https://toutiao.io/k/t1hxo7h",
-        "date": "2022-05-18"
-      },
-      {
-        "title": "写给小白的开源编译器",
-        "link": "https://toutiao.io/k/di3hm2q",
-        "date": "2022-05-18"
-      },
-      {
-        "title": "蚂蚁集团 Service Mesh 进展回顾与展望",
-        "link": "https://toutiao.io/k/j05luiw",
-        "date": "2022-05-18"
-      },
-      {
-        "title": "你犯过这些难顶的 Go 编码错误吗（二）？",
-        "link": "https://toutiao.io/k/lxkok3i",
-        "date": "2022-05-18"
-      },
-      {
-        "title": "[推荐] 架构设计资料合集",
-        "link": "https://toutiao.io/k/iqlrz7b",
+        "title": "字节“FII事件”发生的那一夜；别再说谷歌取消OKR了；Go微服务生产指南清单｜码农周刊VIP会员专属邮件周报 Vol.091",
+        "link": "https://toutiao.io/k/d9oheay",
         "date": "2022-05-18"
       },
       {
@@ -10352,18 +10252,23 @@
         "date": "2022-05-18"
       },
       {
-        "title": "[推荐] TCP 重传、滑动窗口、流量控制、拥塞控好难？看完图解就不愁了（重制）",
-        "link": "https://toutiao.io/k/14tz08l",
-        "date": "2022-05-18"
-      },
-      {
         "title": "[推荐] 跨Mysql、Redis、Mongo的分布式事务",
         "link": "https://toutiao.io/k/246clz1",
         "date": "2022-05-18"
       },
       {
+        "title": "[推荐] TCP 重传、滑动窗口、流量控制、拥塞控好难？看完图解就不愁了（重制）",
+        "link": "https://toutiao.io/k/14tz08l",
+        "date": "2022-05-18"
+      },
+      {
         "title": "[推荐] 聊聊我们是如何做系统保障方案的",
         "link": "https://toutiao.io/k/i8q3ye4",
+        "date": "2022-05-18"
+      },
+      {
+        "title": "[推荐] 架构设计资料合集",
+        "link": "https://toutiao.io/k/iqlrz7b",
         "date": "2022-05-18"
       }
     ]

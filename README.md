@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-05-18 22:14:21，:rocket: 更新条数: +2026， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-05-18 22:41:54，:rocket: 更新条数: +2007， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -553,25 +553,11 @@
 </summary>
 
 
-- [2022-05-18-首个确保缓存与数据库一致性的方案](https://toutiao.io/k/imjqbp3) ![](assets/new.png)  
-- [2022-05-18-你见过哪些目瞪口呆的-Java-代码技巧？](https://toutiao.io/k/avsba7r) ![](assets/new.png)  
-- [2022-05-18-解决微服务架构下流量有损问题的实践和探索](https://toutiao.io/k/f8xxqp3) ![](assets/new.png)  
-- [2022-05-18-程序设计的2个技巧](https://toutiao.io/k/iwooo69) ![](assets/new.png)  
-- [2022-05-18-万字多图，搞懂-Nginx-高性能网络工作原理！](https://toutiao.io/k/1uwy12d) ![](assets/new.png)  
-- [2022-05-18-eBPF编程指北](https://toutiao.io/k/fn0j0ty) ![](assets/new.png)  
-- [2022-05-18-终于有人把元数据讲明白了](https://toutiao.io/k/nxtuyki) ![](assets/new.png)  
-- [2022-05-18-Redis-如何使用-Bitmap](https://toutiao.io/k/5kyk3r4) ![](assets/new.png)  
-- [2022-05-18-两万字Flink笔记](https://toutiao.io/k/y1shfw2) ![](assets/new.png)  
-- [2022-05-18-应用缓存预热方案设计](https://toutiao.io/k/5mazjik) ![](assets/new.png)  
-- [2022-05-18-Scroll，玩明白了嘛？](https://toutiao.io/k/fct1j7m) ![](assets/new.png)  
-- [2022-05-18-为什么人们都讨厌HR？](https://toutiao.io/k/vlnwz8s) ![](assets/new.png)  
-- [2022-05-18-.Net-在容器中操作宿主机](https://toutiao.io/k/yx9jw00) ![](assets/new.png)  
-- [2022-05-18-硬核，图解bufio包系列之读取原理](https://toutiao.io/k/fdln4xu) ![](assets/new.png)  
-- [2022-05-18-部分实施GJB5000组织软件外包的乱象](https://toutiao.io/k/y8g26gg) ![](assets/new.png)  
-- [2022-05-18-架构解析-|-从ABTest是啥开始说](https://toutiao.io/k/t1hxo7h) ![](assets/new.png)  
-- [2022-05-18-写给小白的开源编译器](https://toutiao.io/k/di3hm2q) ![](assets/new.png)  
-- [2022-05-18-蚂蚁集团-Service-Mesh-进展回顾与展望](https://toutiao.io/k/j05luiw) ![](assets/new.png)  
-- [2022-05-18-你犯过这些难顶的-Go-编码错误吗（二）？](https://toutiao.io/k/lxkok3i) ![](assets/new.png)  
+- [2022-05-18-字节“FII事件”发生的那一夜；别再说谷歌取消OKR了；Go微服务生产指南清单｜码农周刊VIP会员专属邮件周报-Vol.091](https://toutiao.io/k/d9oheay) ![](assets/new.png)  
+- [2022-05-18-推荐-左耳朵耗子：我做系统架构的一些原则](https://toutiao.io/k/9oljc6o) ![](assets/new.png)  
+- [2022-05-18-推荐-跨Mysql、Redis、Mongo的分布式事务](https://toutiao.io/k/246clz1) ![](assets/new.png)  
+- [2022-05-18-推荐-TCP-重传、滑动窗口、流量控制、拥塞控好难？看完图解就不愁了（重制）](https://toutiao.io/k/14tz08l) ![](assets/new.png)  
+- [2022-05-18-推荐-聊聊我们是如何做系统保障方案的](https://toutiao.io/k/i8q3ye4) ![](assets/new.png)  
 - [2022-05-18-推荐-架构设计资料合集](https://toutiao.io/k/iqlrz7b) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

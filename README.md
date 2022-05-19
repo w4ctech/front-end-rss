@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-05-19 13:14:26，:rocket: 更新条数: +2032， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-05-19 13:57:22，:rocket: 更新条数: +2033， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,11 @@
 </summary>
 
 
+- [2022-05-19-Applepay-部分卡的交易信息已与-Apple-共享](https://www.v2ex.com/t/854014) ![](assets/new.png)  
+- [2022-05-19-如何避免买到矿渣-PM9A1？](https://www.v2ex.com/t/854013) ![](assets/new.png)  
+- [2022-05-19-提供蘇州微軟内推](https://www.v2ex.com/t/854012) ![](assets/new.png)  
+- [2022-05-19-求职区块链实习----欧洲/Remote](https://www.v2ex.com/t/854011) ![](assets/new.png)  
+- [2022-05-19-每次点击-Google-搜索之后就会弹出进行人机身份验证怎么办呢](https://www.v2ex.com/t/854010) ![](assets/new.png)  
 - [2022-05-19-武汉第一家直营店要开业了，有没有必要凑热闹？](https://www.v2ex.com/t/854008) ![](assets/new.png)  
 - [2022-05-19-2022-年了，多少在用-safari？](https://www.v2ex.com/t/854007) ![](assets/new.png)  
 - [2022-05-19-pdfexpert6-之前在-iPad-上买过，后面就改成订阅了，是否能回到低版本](https://www.v2ex.com/t/854006) ![](assets/new.png)  
@@ -506,11 +511,6 @@
 - [2022-05-19-请教新-LUNA-空投](https://www.v2ex.com/t/853996) ![](assets/new.png)  
 - [2022-05-19-问下-Java-大佬，用了-@async-为什么还要使用线程池](https://www.v2ex.com/t/853995) ![](assets/new.png)  
 - [2022-05-19-你们听过银临的歌吗？](https://www.v2ex.com/t/853994) ![](assets/new.png)  
-- [2022-05-19-个人接项目大概是个什么流程？](https://www.v2ex.com/t/853993) ![](assets/new.png)  
-- [2022-05-19-家庭宽带并发连接数限制！](https://www.v2ex.com/t/853990) ![](assets/new.png)  
-- [2022-05-19-求宽带套餐，新换住所，坐标广州](https://www.v2ex.com/t/853989) ![](assets/new.png)  
-- [2022-05-19-一年了，还没签合同？](https://www.v2ex.com/t/853988) ![](assets/new.png)  
-- [2022-05-19-人在国企。如何上网。](https://www.v2ex.com/t/853987) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -571,8 +571,8 @@
 - [2022-05-19-阿里巴巴的Envoy-Gateway实践](https://toutiao.io/k/0fvzkp4) ![](assets/new.png)  
 - [2022-05-19-被折磨了-13-年，Go-怎么解决再赋值的坑？](https://toutiao.io/k/p9wjcvz) ![](assets/new.png)  
 - [2022-05-19-前端规范与思考五——-git规范-|-桃源小盼聊技术](https://toutiao.io/k/6q4sy97) ![](assets/new.png)  
-- [2022-05-19-一起看-I/O-|-灵活的全新工具助力您的-Google-Play-订阅业务](https://toutiao.io/k/d8741oq) ![](assets/new.png)  
 - [2022-05-19-薛定谔的BUG](https://toutiao.io/k/ezirrkl) ![](assets/new.png)  
+- [2022-05-19-一起看-I/O-|-灵活的全新工具助力您的-Google-Play-订阅业务](https://toutiao.io/k/d8741oq) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

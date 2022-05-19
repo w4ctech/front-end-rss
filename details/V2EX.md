@@ -1,10 +1,15 @@
-:alarm_clock: 更新时间: 2022-05-19 13:14:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-05-19 13:57:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-05-19-Applepay-部分卡的交易信息已与-Apple-共享](https://www.v2ex.com/t/854014) 
+- [2022-05-19-如何避免买到矿渣-PM9A1？](https://www.v2ex.com/t/854013) 
+- [2022-05-19-提供蘇州微軟内推](https://www.v2ex.com/t/854012) 
+- [2022-05-19-求职区块链实习----欧洲/Remote](https://www.v2ex.com/t/854011) 
+- [2022-05-19-每次点击-Google-搜索之后就会弹出进行人机身份验证怎么办呢](https://www.v2ex.com/t/854010) 
 - [2022-05-19-武汉第一家直营店要开业了，有没有必要凑热闹？](https://www.v2ex.com/t/854008) 
 - [2022-05-19-2022-年了，多少在用-safari？](https://www.v2ex.com/t/854007) 
 - [2022-05-19-pdfexpert6-之前在-iPad-上买过，后面就改成订阅了，是否能回到低版本](https://www.v2ex.com/t/854006) 
@@ -42,7 +47,3 @@
 - [2022-05-19-挤不出动力来写代码的时候，打扫房间，洗洗堆积的袜子，剪剪音频。抽根烟调剂一下。待会出去散上一个小时的步](https://www.v2ex.com/t/853969) 
 - [2022-05-19-idea-中-system.out.printf-的快捷键是什么](https://www.v2ex.com/t/853967) 
 - [2022-05-19-入了-switch-了，谁有家庭会员让我上个车，顺便带我玩下](https://www.v2ex.com/t/853966) 
-- [2022-05-19-🎁-发福利！产品新版本发布，送码！](https://www.v2ex.com/t/853963) 
-- [2022-05-19-google-pixel-3XL-用-chrome-做真机调试识别不到手机？](https://www.v2ex.com/t/853962) 
-- [2022-05-19-Apollo-GraphQL-的缓存机制是否可以替代-redux，-vuex-做状态管理？](https://www.v2ex.com/t/853961) 
-- [2022-05-19-2205-麻烦-v-友推荐一款显示器](https://www.v2ex.com/t/853960) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-05-19 13:14:26。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-05-19 13:57:22。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -69,6 +69,11 @@
 
 
 - [【张鑫旭-鑫空间-鑫生活】2022-05-11-JS与条形码的生成](https://www.zhangxinxu.com/wordpress/2022/05/js-barcode/) 
+- [【V2EX】2022-05-19-Applepay-部分卡的交易信息已与-Apple-共享](https://www.v2ex.com/t/854014) 
+- [【V2EX】2022-05-19-如何避免买到矿渣-PM9A1？](https://www.v2ex.com/t/854013) 
+- [【V2EX】2022-05-19-提供蘇州微軟内推](https://www.v2ex.com/t/854012) 
+- [【V2EX】2022-05-19-求职区块链实习----欧洲/Remote](https://www.v2ex.com/t/854011) 
+- [【V2EX】2022-05-19-每次点击-Google-搜索之后就会弹出进行人机身份验证怎么办呢](https://www.v2ex.com/t/854010) 
 - [【V2EX】2022-05-19-武汉第一家直营店要开业了，有没有必要凑热闹？](https://www.v2ex.com/t/854008) 
 - [【V2EX】2022-05-19-2022-年了，多少在用-safari？](https://www.v2ex.com/t/854007) 
 - [【V2EX】2022-05-19-pdfexpert6-之前在-iPad-上买过，后面就改成订阅了，是否能回到低版本](https://www.v2ex.com/t/854006) 
@@ -106,10 +111,6 @@
 - [【V2EX】2022-05-19-挤不出动力来写代码的时候，打扫房间，洗洗堆积的袜子，剪剪音频。抽根烟调剂一下。待会出去散上一个小时的步](https://www.v2ex.com/t/853969) 
 - [【V2EX】2022-05-19-idea-中-system.out.printf-的快捷键是什么](https://www.v2ex.com/t/853967) 
 - [【V2EX】2022-05-19-入了-switch-了，谁有家庭会员让我上个车，顺便带我玩下](https://www.v2ex.com/t/853966) 
-- [【V2EX】2022-05-19-🎁-发福利！产品新版本发布，送码！](https://www.v2ex.com/t/853963) 
-- [【V2EX】2022-05-19-google-pixel-3XL-用-chrome-做真机调试识别不到手机？](https://www.v2ex.com/t/853962) 
-- [【V2EX】2022-05-19-Apollo-GraphQL-的缓存机制是否可以替代-redux，-vuex-做状态管理？](https://www.v2ex.com/t/853961) 
-- [【V2EX】2022-05-19-2205-麻烦-v-友推荐一款显示器](https://www.v2ex.com/t/853960) 
 - [【技术头条】2022-05-19-Wallys-QCN9074/-11ax-/4x4-MU-MIMO-/2.4G-M.2-www.wallystech.com](https://blogread.cn/news/go.php?idItem=15094&url=https%3A%2F%2Fwww.wallystech.com%2FNetwork_Card%2FDR9074-2.4G-PN01.1-Wifi-6-Qualcomm-QCN9074-Single-Band-2.4-GHz-4T4R-M.2-E-Key-Interface-802.11ax.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-05-19-谨慎！糟糕程序员的编程风格查看-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15093&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494024%26amp%3Bidx%3D1%26amp%3Bsn%3Dd142644804a8e87dcb91ffaf3ecc07e2%26amp%3Bchksm%3Dfa3f08d3cd4881c5cb3a3a32aa85ab93627ba49c8bcf1a6ada6e7835c0eb606dfc861820b4b2%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-05-19-MySQL5.7-vs-8.0，哪个性能更牛？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15092&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494024%26amp%3Bidx%3D2%26amp%3Bsn%3Da60d74981373759bb63f480296e5564d%26amp%3Bchksm%3Dfa3f08d3cd4881c50f6364e287ee82d2bd56d9e4b01b037f44ae0c247d30c49ea536581e061e%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -148,13 +149,13 @@
 - [【开发者头条】2022-05-19-阿里巴巴的Envoy-Gateway实践](https://toutiao.io/k/0fvzkp4) 
 - [【开发者头条】2022-05-19-被折磨了-13-年，Go-怎么解决再赋值的坑？](https://toutiao.io/k/p9wjcvz) 
 - [【开发者头条】2022-05-19-前端规范与思考五——-git规范-|-桃源小盼聊技术](https://toutiao.io/k/6q4sy97) 
-- [【开发者头条】2022-05-19-一起看-I/O-|-灵活的全新工具助力您的-Google-Play-订阅业务](https://toutiao.io/k/d8741oq) 
 - [【开发者头条】2022-05-19-薛定谔的BUG](https://toutiao.io/k/ezirrkl) 
-- [【开发者头条】2022-05-19-推荐-TCP-重传、滑动窗口、流量控制、拥塞控好难？看完图解就不愁了（重制）](https://toutiao.io/k/14tz08l) 
+- [【开发者头条】2022-05-19-一起看-I/O-|-灵活的全新工具助力您的-Google-Play-订阅业务](https://toutiao.io/k/d8741oq) 
 - [【开发者头条】2022-05-19-推荐-跨Mysql、Redis、Mongo的分布式事务](https://toutiao.io/k/246clz1) 
-- [【开发者头条】2022-05-19-推荐-架构设计资料合集](https://toutiao.io/k/iqlrz7b) 
 - [【开发者头条】2022-05-19-推荐-左耳朵耗子：我做系统架构的一些原则](https://toutiao.io/k/9oljc6o) 
 - [【开发者头条】2022-05-19-推荐-聊聊我们是如何做系统保障方案的](https://toutiao.io/k/i8q3ye4) 
+- [【开发者头条】2022-05-19-推荐-TCP-重传、滑动窗口、流量控制、拥塞控好难？看完图解就不愁了（重制）](https://toutiao.io/k/14tz08l) 
+- [【开发者头条】2022-05-19-推荐-架构设计资料合集](https://toutiao.io/k/iqlrz7b) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-05-19 13:14:26。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-05-19 13:57:22。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -39,7 +39,6 @@
 
 
 
-- [【V2EX】Apollo-GraphQL-的缓存机制是否可以替代-redux，-vuex-做状态管理？](https://www.v2ex.com/t/853961)
 - [【开发者头条】Sentry-开发者贡献指南---前端-React-Hooks-与虫洞状态管理模式](https://toutiao.io/k/8mf5yql)
 - [......【查看更多】......](./details/tags/react.md)
 
@@ -286,7 +285,6 @@
 - [【武汉肺炎防疫全纪录(财新网)】大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html)
 - [【V2EX】2022-年了，多少在用-safari？](https://www.v2ex.com/t/854007)
 - [【V2EX】在浏览器内执行-ffmpeg-cli](https://www.v2ex.com/t/853976)
-- [【V2EX】google-pixel-3XL-用-chrome-做真机调试识别不到手机？](https://www.v2ex.com/t/853962)
 - [【技术头条】App开放接口api安全：Token签名sign的设计与实现-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15085&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493985%26amp%3Bidx%3D2%26amp%3Bsn%3Dd7b1313ef4a0226295c81127ee22c958%26amp%3Bchksm%3Dfa3f083acd48812c339da2d4de950a0fda74f93663bc630c95de45f1f211ed7ec8aab67904fd%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【开发者头条】搞定这8个Kafka生产级容量评估，每日10亿+请求轻松拿捏！](https://toutiao.io/k/9gqhrpj)
 - [......【查看更多】......](./details/tags/browser.md)

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-05-19 23:14:42，:rocket: 更新条数: +2035， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-05-19 23:41:30，:rocket: 更新条数: +2035， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -568,9 +568,9 @@
 - [2022-05-19-从-Turborepo-看-Monorepo-工具的任务编排能力](https://toutiao.io/k/8q7gnoa) ![](assets/new.png)  
 - [2022-05-19-从霍桑效应看中高层验证的作用](https://toutiao.io/k/cy6ci1w) ![](assets/new.png)  
 - [2022-05-19-重磅！Apache-Kafka-3.2.0-发布！](https://toutiao.io/k/5gmn0w0) ![](assets/new.png)  
+- [2022-05-19-前端规范与思考五——-git规范-|-桃源小盼聊技术](https://toutiao.io/k/6q4sy97) ![](assets/new.png)  
 - [2022-05-19-阿里巴巴的Envoy-Gateway实践](https://toutiao.io/k/0fvzkp4) ![](assets/new.png)  
 - [2022-05-19-被折磨了-13-年，Go-怎么解决再赋值的坑？](https://toutiao.io/k/p9wjcvz) ![](assets/new.png)  
-- [2022-05-19-前端规范与思考五——-git规范-|-桃源小盼聊技术](https://toutiao.io/k/6q4sy97) ![](assets/new.png)  
 - [2022-05-19-薛定谔的BUG](https://toutiao.io/k/ezirrkl) ![](assets/new.png)  
 - [2022-05-19-一起看-I/O-|-灵活的全新工具助力您的-Google-Play-订阅业务](https://toutiao.io/k/d8741oq) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)

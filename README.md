@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-05-19 18:54:06，:rocket: 更新条数: +2035， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-05-19 19:14:01，:rocket: 更新条数: +2035， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-05-19-Linux-和-Mac（偶尔包括-Windows）直接有什么比较合适的同步办法？](https://www.v2ex.com/t/854052) ![](assets/new.png)  
 - [2022-05-19-ios-网页上看外文学英语，有没有能快速收藏单词的工具？](https://www.v2ex.com/t/854051) ![](assets/new.png)  
 - [2022-05-19-Node-异步队列和-MQ-异步队列](https://www.v2ex.com/t/854049) ![](assets/new.png)  
 - [2022-05-19-VS-Code-如何使用-option+方向键-中文跳词](https://www.v2ex.com/t/854048) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-05-19-PyTorch-开始支持-M1-的-GPU-加速，-各位的-M1-可以炼丹了么？](https://www.v2ex.com/t/854033) ![](assets/new.png)  
 - [2022-05-19-干互联网-16-年了，总结一下](https://www.v2ex.com/t/854032) ![](assets/new.png)  
 - [2022-05-19-冥想的最佳环境](https://www.v2ex.com/t/854031) ![](assets/new.png)  
-- [2022-05-19-求大佬帮小弟搭一个-steam-自动发货网站咧？-有偿](https://www.v2ex.com/t/854030) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

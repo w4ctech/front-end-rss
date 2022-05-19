@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-05-19 12:25:42，:rocket: 更新条数: +2033， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-05-19 13:14:26，:rocket: 更新条数: +2032， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,15 @@
 </summary>
 
 
+- [2022-05-19-武汉第一家直营店要开业了，有没有必要凑热闹？](https://www.v2ex.com/t/854008) ![](assets/new.png)  
+- [2022-05-19-2022-年了，多少在用-safari？](https://www.v2ex.com/t/854007) ![](assets/new.png)  
+- [2022-05-19-pdfexpert6-之前在-iPad-上买过，后面就改成订阅了，是否能回到低版本](https://www.v2ex.com/t/854006) ![](assets/new.png)  
+- [2022-05-19-iphone13pro-max](https://www.v2ex.com/t/854005) ![](assets/new.png)  
+- [2022-05-19-新入手-ThinkBook-14+-12th-Intel，然后安装了-Ubuntu-22.04-LTS](https://www.v2ex.com/t/854004) ![](assets/new.png)  
+- [2022-05-19-可以推荐一个笔记本电脑直观的价格对比的网站吗](https://www.v2ex.com/t/854003) ![](assets/new.png)  
+- [2022-05-19-墨干编辑器：用-Gnuplot-绘制浙江省高考数学试题里面的函数曲线](https://www.v2ex.com/t/854002) ![](assets/new.png)  
+- [2022-05-19-请问-sentry-sourcemap-怎样匹配绝对路径？](https://www.v2ex.com/t/854001) ![](assets/new.png)  
+- [2022-05-19-依赖-GPL-协议组件的程序一定会被-GPL-传染吗？](https://www.v2ex.com/t/854000) ![](assets/new.png)  
 - [2022-05-19-受不了-mac-风扇的声音了~笔记本都这样吗？](https://www.v2ex.com/t/853999) ![](assets/new.png)  
 - [2022-05-19-icloud.com-打不开啦？](https://www.v2ex.com/t/853998) ![](assets/new.png)  
 - [2022-05-19-win10-搜索已被牛皮癣攻陷，有没有换系统外的屏蔽方法](https://www.v2ex.com/t/853997) ![](assets/new.png)  
@@ -502,15 +511,6 @@
 - [2022-05-19-求宽带套餐，新换住所，坐标广州](https://www.v2ex.com/t/853989) ![](assets/new.png)  
 - [2022-05-19-一年了，还没签合同？](https://www.v2ex.com/t/853988) ![](assets/new.png)  
 - [2022-05-19-人在国企。如何上网。](https://www.v2ex.com/t/853987) ![](assets/new.png)  
-- [2022-05-19-分享一款-iOS-捉灵魂的-app，还真有人买](https://www.v2ex.com/t/853985) ![](assets/new.png)  
-- [2022-05-19-学习-K8S-的第三天，有个关于离线部署的疑问](https://www.v2ex.com/t/853983) ![](assets/new.png)  
-- [2022-05-19-Mac-M1-钉钉如何显示未读消息数](https://www.v2ex.com/t/853982) ![](assets/new.png)  
-- [2022-05-19-前端由-ServiceWorker-返回的图片为什么还需要几秒钟加载时间?](https://www.v2ex.com/t/853981) ![](assets/new.png)  
-- [2022-05-19-随想-对于择偶的一些理解](https://www.v2ex.com/t/853980) ![](assets/new.png)  
-- [2022-05-19-关于微信开通-callkit-的问题，希望各位大佬能回复一下](https://www.v2ex.com/t/853979) ![](assets/new.png)  
-- [2022-05-19-iOS-快捷搜索应用-OneSearch-发布啦🎉](https://www.v2ex.com/t/853978) ![](assets/new.png)  
-- [2022-05-19-免费-CDN-上传大文件](https://www.v2ex.com/t/853977) ![](assets/new.png)  
-- [2022-05-19-在浏览器内执行-ffmpeg-cli](https://www.v2ex.com/t/853976) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -568,11 +568,11 @@
 - [2022-05-19-从-Turborepo-看-Monorepo-工具的任务编排能力](https://toutiao.io/k/8q7gnoa) ![](assets/new.png)  
 - [2022-05-19-从霍桑效应看中高层验证的作用](https://toutiao.io/k/cy6ci1w) ![](assets/new.png)  
 - [2022-05-19-重磅！Apache-Kafka-3.2.0-发布！](https://toutiao.io/k/5gmn0w0) ![](assets/new.png)  
-- [2022-05-19-被折磨了-13-年，Go-怎么解决再赋值的坑？](https://toutiao.io/k/p9wjcvz) ![](assets/new.png)  
 - [2022-05-19-阿里巴巴的Envoy-Gateway实践](https://toutiao.io/k/0fvzkp4) ![](assets/new.png)  
+- [2022-05-19-被折磨了-13-年，Go-怎么解决再赋值的坑？](https://toutiao.io/k/p9wjcvz) ![](assets/new.png)  
 - [2022-05-19-前端规范与思考五——-git规范-|-桃源小盼聊技术](https://toutiao.io/k/6q4sy97) ![](assets/new.png)  
-- [2022-05-19-薛定谔的BUG](https://toutiao.io/k/ezirrkl) ![](assets/new.png)  
 - [2022-05-19-一起看-I/O-|-灵活的全新工具助力您的-Google-Play-订阅业务](https://toutiao.io/k/d8741oq) ![](assets/new.png)  
+- [2022-05-19-薛定谔的BUG](https://toutiao.io/k/ezirrkl) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

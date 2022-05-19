@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-05-19 01:10:22，:rocket: 更新条数: +2013， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-05-19 03:15:56，:rocket: 更新条数: +2021， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,26 +491,26 @@
 </summary>
 
 
-- [2022-05-19-想买降噪耳机，但试戴同事的，发现头晕，只能求推荐普通头戴耳机](https://www.v2ex.com/t/853840) ![](assets/new.png)  
-- [2022-05-19-请教一下大佬们，京东无线宝云路由器鲁班怎么样？](https://www.v2ex.com/t/853838) ![](assets/new.png)  
-- [2022-05-19-初学者求教：关于调用-camera2-的问题](https://www.v2ex.com/t/853837) ![](assets/new.png)  
-- [2022-05-19-请教一个-str_replace-替换-花括号的问题](https://www.v2ex.com/t/853835) ![](assets/new.png)  
-- [2022-05-19-关于华硕路由器选择的问题](https://www.v2ex.com/t/853834) ![](assets/new.png)  
-- [2022-05-19-QQ-以传播诈骗信息之名封禁账号是怎么回事？](https://www.v2ex.com/t/853833) ![](assets/new.png)  
-- [2022-05-19-Numpy-计算协方差的结果应该如何理解？](https://www.v2ex.com/t/853831) ![](assets/new.png)  
-- [2022-05-18-未安装-SIM，导致-imessage-无法激活](https://www.v2ex.com/t/853830) ![](assets/new.png)  
-- [2022-05-18-不懂就问，开启-siri-会增加待机公告吗？](https://www.v2ex.com/t/853829) ![](assets/new.png)  
-- [2022-05-18-小白提问，怎样搭建一个用于下载的服务器？](https://www.v2ex.com/t/853827) ![](assets/new.png)  
-- [2022-05-18-一个普通市民想说说自己的生活圈子财富现状（在上海），也给想在上海买房的-v-友安利一个自己的梦中小区](https://www.v2ex.com/t/853826) ![](assets/new.png)  
-- [2022-05-18-Python-有现成的包可以把以下内容文本解析为-dict-吗？如果没有，最佳解析方法是什么？](https://www.v2ex.com/t/853825) ![](assets/new.png)  
-- [2022-05-18-为什么全角方括号-会先改变-textarea-的内容才触发-keydown-事件？](https://www.v2ex.com/t/853823) ![](assets/new.png)  
-- [2022-05-18-如何快速顺序生成一亿个数字](https://www.v2ex.com/t/853822) ![](assets/new.png)  
-- [2022-05-18-在北京的老哥谁有富余的佐藤鼻炎药我快挂了](https://www.v2ex.com/t/853821) ![](assets/new.png)  
-- [2022-05-18-分享一点人生感悟](https://www.v2ex.com/t/853820) ![](assets/new.png)  
-- [2022-05-18-为什么做了那么多，测了那么多，软件还是不好用？](https://www.v2ex.com/t/853818) ![](assets/new.png)  
-- [2022-05-18-问一个-BT-做种比较少人问的问题](https://www.v2ex.com/t/853817) ![](assets/new.png)  
-- [2022-05-18-请问-10G-EPON-和-EPON，互相兼容吗？](https://www.v2ex.com/t/853816) ![](assets/new.png)  
-- [2022-05-18-国内-steam-登录不上，-csgo-国服匹配也经常连接任意服务器失败](https://www.v2ex.com/t/853815) ![](assets/new.png)  
+- [2022-05-19-明天就是-520-了，你们会送/收礼物吗](https://www.v2ex.com/t/853886) ![](assets/new.png)  
+- [2022-05-19-中国电信深圳-开始又一轮套路了](https://www.v2ex.com/t/853884) ![](assets/new.png)  
+- [2022-05-19-小乌龟如何-push/pull-git-的子模块-submodule?-有人用过吗?-帮我看下是我少配置东西了?](https://www.v2ex.com/t/853883) ![](assets/new.png)  
+- [2022-05-19-Intellij-Idea-全局搜索时，如何清理上一次搜索记录？](https://www.v2ex.com/t/853882) ![](assets/new.png)  
+- [2022-05-19-居家办公如何调节生活工作的节奏](https://www.v2ex.com/t/853881) ![](assets/new.png)  
+- [2022-05-19-各位的鼻炎是怎么治疗的，我后鼻甲肥大，-N-年了，感觉啥药都不管用](https://www.v2ex.com/t/853880) ![](assets/new.png)  
+- [2022-05-19-关于前后端谁解析和生成表格的疑问](https://www.v2ex.com/t/853879) ![](assets/new.png)  
+- [2022-05-19-程序员买-windows-显示器必须要注意的坑：广色域---原生不支持-srgb-模式的显示器会过饱和，刺眼](https://www.v2ex.com/t/853878) ![](assets/new.png)  
+- [2022-05-19-Frontend-Guide-01:-Webpack-babel-loader-使用指南](https://www.v2ex.com/t/853877) ![](assets/new.png)  
+- [2022-05-19-Google-Drive-迁移问题](https://www.v2ex.com/t/853876) ![](assets/new.png)  
+- [2022-05-19-一年前给-iPhone-换了一块三方电池，最近随便用用就很烫，是不是得小心了？](https://www.v2ex.com/t/853875) ![](assets/new.png)  
+- [2022-05-19-IOS-熊猫吃短信如何将被过滤的垃圾信息变成正常短信](https://www.v2ex.com/t/853874) ![](assets/new.png)  
+- [2022-05-19-监听-Binlog-有哪些风险点](https://www.v2ex.com/t/853873) ![](assets/new.png)  
+- [2022-05-19-想把猫放院子里住，有办法搞个房子给它吗？](https://www.v2ex.com/t/853872) ![](assets/new.png)  
+- [2022-05-19-网曝国内-git-托管仓库-gitee-从-5.18-起对开源项目实行先审核后上线公开的措施](https://www.v2ex.com/t/853871) ![](assets/new.png)  
+- [2022-05-19-比亚迪海豹明天就发布了，有感兴趣的朋友吗？](https://www.v2ex.com/t/853870) ![](assets/new.png)  
+- [2022-05-19-上海字节跳动招聘前端架构师](https://www.v2ex.com/t/853867) ![](assets/new.png)  
+- [2022-05-19-抽奖-分享日记软件-App：正经日记-P.Diary](https://www.v2ex.com/t/853865) ![](assets/new.png)  
+- [2022-05-19-macOS-12.4-控制中心-小喇叭静音图标上的斜线错位不居中](https://www.v2ex.com/t/853864) ![](assets/new.png)  
+- [2022-05-19-求职-广州-4-年-MySQL-DBA](https://www.v2ex.com/t/853863) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -553,18 +553,24 @@
 </summary>
 
 
+- [2022-05-19-搞定这8个Kafka生产级容量评估，每日10亿+请求轻松拿捏！](https://toutiao.io/k/9gqhrpj) ![](assets/new.png)  
 - [2022-05-19-字节“FII事件”发生的那一夜；别再说谷歌取消OKR了；Go微服务生产指南清单｜码农周刊VIP会员专属邮件周报-Vol.091](https://toutiao.io/k/d9oheay) ![](assets/new.png)  
 - [2022-05-19-Go-项目使用-Makefile](https://toutiao.io/k/dagx8gt) ![](assets/new.png)  
-- [2022-05-19-搞定这8个Kafka生产级容量评估，每日10亿+请求轻松拿捏！](https://toutiao.io/k/9gqhrpj) ![](assets/new.png)  
 - [2022-05-19-使用-Go-和-Linux-Kernel-技术探究容器化原理](https://toutiao.io/k/6c5itbq) ![](assets/new.png)  
 - [2022-05-19-性能调优｜生产环境kafka集群400W/tps为啥就扛不住了？](https://toutiao.io/k/k59acft) ![](assets/new.png)  
 - [2022-05-19-Kafka-万亿级消息实践之资源组流量掉零故障排查分析](https://toutiao.io/k/ueclxtl) ![](assets/new.png)  
 - [2022-05-19-空降Leader，如何开展工作](https://toutiao.io/k/z6v2fgv) ![](assets/new.png)  
+- [2022-05-19-一个Go语言并行实践指导手册](https://toutiao.io/k/nbrkdeg) ![](assets/new.png)  
+- [2022-05-19-GitHub-毕业年鉴「GitHub-热点速览」](https://toutiao.io/k/0fbru3u) ![](assets/new.png)  
+- [2022-05-19-Sentry-开发者贡献指南---前端-React-Hooks-与虫洞状态管理模式](https://toutiao.io/k/8mf5yql) ![](assets/new.png)  
+- [2022-05-19-使用-vmalert-代替-Prometheus-监控报警](https://toutiao.io/k/5xtzp2h) ![](assets/new.png)  
+- [2022-05-19-从-Turborepo-看-Monorepo-工具的任务编排能力](https://toutiao.io/k/8q7gnoa) ![](assets/new.png)  
+- [2022-05-19-从霍桑效应看中高层验证的作用](https://toutiao.io/k/cy6ci1w) ![](assets/new.png)  
 - [2022-05-19-推荐-左耳朵耗子：我做系统架构的一些原则](https://toutiao.io/k/9oljc6o) ![](assets/new.png)  
-- [2022-05-19-推荐-聊聊我们是如何做系统保障方案的](https://toutiao.io/k/i8q3ye4) ![](assets/new.png)  
 - [2022-05-19-推荐-架构设计资料合集](https://toutiao.io/k/iqlrz7b) ![](assets/new.png)  
-- [2022-05-19-推荐-TCP-重传、滑动窗口、流量控制、拥塞控好难？看完图解就不愁了（重制）](https://toutiao.io/k/14tz08l) ![](assets/new.png)  
 - [2022-05-19-推荐-跨Mysql、Redis、Mongo的分布式事务](https://toutiao.io/k/246clz1) ![](assets/new.png)  
+- [2022-05-19-推荐-TCP-重传、滑动窗口、流量控制、拥塞控好难？看完图解就不愁了（重制）](https://toutiao.io/k/14tz08l) ![](assets/new.png)  
+- [2022-05-19-推荐-聊聊我们是如何做系统保障方案的](https://toutiao.io/k/i8q3ye4) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-05-19 13:57:22，:rocket: 更新条数: +2033， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-05-19 14:13:48，:rocket: 更新条数: +2035， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,10 @@
 </summary>
 
 
+- [2022-05-19-给非计算机专业的人推荐计算机专业类的可操作性强、能上手的入门书籍或者技能实现软件？](https://www.v2ex.com/t/854018) ![](assets/new.png)  
+- [2022-05-19-macOS-12.4-系统弹窗无法点确认](https://www.v2ex.com/t/854017) ![](assets/new.png)  
+- [2022-05-19-Linus-Torvalds-在-TED-演讲上所说的有品味的代码](https://www.v2ex.com/t/854016) ![](assets/new.png)  
+- [2022-05-19-通过阿里云盘官网下载客户端，网页是如何识别我的操作系统并自动下载相应的安装包格式的](https://www.v2ex.com/t/854015) ![](assets/new.png)  
 - [2022-05-19-Applepay-部分卡的交易信息已与-Apple-共享](https://www.v2ex.com/t/854014) ![](assets/new.png)  
 - [2022-05-19-如何避免买到矿渣-PM9A1？](https://www.v2ex.com/t/854013) ![](assets/new.png)  
 - [2022-05-19-提供蘇州微軟内推](https://www.v2ex.com/t/854012) ![](assets/new.png)  
@@ -507,10 +511,6 @@
 - [2022-05-19-依赖-GPL-协议组件的程序一定会被-GPL-传染吗？](https://www.v2ex.com/t/854000) ![](assets/new.png)  
 - [2022-05-19-受不了-mac-风扇的声音了~笔记本都这样吗？](https://www.v2ex.com/t/853999) ![](assets/new.png)  
 - [2022-05-19-icloud.com-打不开啦？](https://www.v2ex.com/t/853998) ![](assets/new.png)  
-- [2022-05-19-win10-搜索已被牛皮癣攻陷，有没有换系统外的屏蔽方法](https://www.v2ex.com/t/853997) ![](assets/new.png)  
-- [2022-05-19-请教新-LUNA-空投](https://www.v2ex.com/t/853996) ![](assets/new.png)  
-- [2022-05-19-问下-Java-大佬，用了-@async-为什么还要使用线程池](https://www.v2ex.com/t/853995) ![](assets/new.png)  
-- [2022-05-19-你们听过银临的歌吗？](https://www.v2ex.com/t/853994) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

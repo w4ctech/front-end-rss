@@ -9953,6 +9953,26 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "给非计算机专业的人推荐计算机专业类的可操作性强、能上手的入门书籍或者技能实现软件？",
+        "link": "https://www.v2ex.com/t/854018",
+        "date": "2022-05-19"
+      },
+      {
+        "title": "macOS 12.4 系统弹窗无法点确认",
+        "link": "https://www.v2ex.com/t/854017",
+        "date": "2022-05-19"
+      },
+      {
+        "title": "Linus Torvalds 在 TED 演讲上所说的有品味的代码",
+        "link": "https://www.v2ex.com/t/854016",
+        "date": "2022-05-19"
+      },
+      {
+        "title": "通过阿里云盘官网下载客户端，网页是如何识别我的操作系统并自动下载相应的安装包格式的",
+        "link": "https://www.v2ex.com/t/854015",
+        "date": "2022-05-19"
+      },
+      {
         "title": "Applepay 部分卡的交易信息已与 Apple 共享",
         "link": "https://www.v2ex.com/t/854014",
         "date": "2022-05-19"
@@ -10150,16 +10170,6 @@
       {
         "title": "挤不出动力来写代码的时候，打扫房间，洗洗堆积的袜子，剪剪音频。抽根烟调剂一下。待会出去散上一个小时的步",
         "link": "https://www.v2ex.com/t/853969",
-        "date": "2022-05-19"
-      },
-      {
-        "title": "idea 中 system.out.printf 的快捷键是什么",
-        "link": "https://www.v2ex.com/t/853967",
-        "date": "2022-05-19"
-      },
-      {
-        "title": "入了 switch 了，谁有家庭会员让我上个车，顺便带我玩下",
-        "link": "https://www.v2ex.com/t/853966",
         "date": "2022-05-19"
       }
     ]
@@ -10377,13 +10387,8 @@
         "date": "2022-05-19"
       },
       {
-        "title": "[推荐] 跨Mysql、Redis、Mongo的分布式事务",
-        "link": "https://toutiao.io/k/246clz1",
-        "date": "2022-05-19"
-      },
-      {
-        "title": "[推荐] 左耳朵耗子：我做系统架构的一些原则",
-        "link": "https://toutiao.io/k/9oljc6o",
+        "title": "[推荐] TCP 重传、滑动窗口、流量控制、拥塞控好难？看完图解就不愁了（重制）",
+        "link": "https://toutiao.io/k/14tz08l",
         "date": "2022-05-19"
       },
       {
@@ -10392,8 +10397,13 @@
         "date": "2022-05-19"
       },
       {
-        "title": "[推荐] TCP 重传、滑动窗口、流量控制、拥塞控好难？看完图解就不愁了（重制）",
-        "link": "https://toutiao.io/k/14tz08l",
+        "title": "[推荐] 跨Mysql、Redis、Mongo的分布式事务",
+        "link": "https://toutiao.io/k/246clz1",
+        "date": "2022-05-19"
+      },
+      {
+        "title": "[推荐] 左耳朵耗子：我做系统架构的一些原则",
+        "link": "https://toutiao.io/k/9oljc6o",
         "date": "2022-05-19"
       },
       {

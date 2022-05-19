@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-05-19 13:57:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-05-19 14:13:48。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1912,6 +1912,10 @@
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2022-03-21-ascent-override-descent-override-line-gap-override一锅端](https://www.zhangxinxu.com/wordpress/2022/03/css-ascent-override-descent/) 
+- [2022-05-19-给非计算机专业的人推荐计算机专业类的可操作性强、能上手的入门书籍或者技能实现软件？](https://www.v2ex.com/t/854018) 
+- [2022-05-19-macOS-12.4-系统弹窗无法点确认](https://www.v2ex.com/t/854017) 
+- [2022-05-19-Linus-Torvalds-在-TED-演讲上所说的有品味的代码](https://www.v2ex.com/t/854016) 
+- [2022-05-19-通过阿里云盘官网下载客户端，网页是如何识别我的操作系统并自动下载相应的安装包格式的](https://www.v2ex.com/t/854015) 
 - [2022-05-19-Applepay-部分卡的交易信息已与-Apple-共享](https://www.v2ex.com/t/854014) 
 - [2022-05-19-如何避免买到矿渣-PM9A1？](https://www.v2ex.com/t/854013) 
 - [2022-05-19-提供蘇州微軟内推](https://www.v2ex.com/t/854012) 
@@ -1946,8 +1950,6 @@
 - [2022-05-19-居家办公两周了，已经忘记上班什么感觉了](https://www.v2ex.com/t/853972) 
 - [2022-05-19-石墨文档为什么允许文件夹重名呢？背后的逻辑是什么？](https://www.v2ex.com/t/853971) 
 - [2022-05-19-想在-k8s-集群用上-Ingress，有几个问题现在想请教下大家](https://www.v2ex.com/t/853970) 
-- [2022-05-19-idea-中-system.out.printf-的快捷键是什么](https://www.v2ex.com/t/853967) 
-- [2022-05-19-入了-switch-了，谁有家庭会员让我上个车，顺便带我玩下](https://www.v2ex.com/t/853966) 
 - [2022-05-19-Wallys-QCN9074/-11ax-/4x4-MU-MIMO-/2.4G-M.2-www.wallystech.com](https://blogread.cn/news/go.php?idItem=15094&url=https%3A%2F%2Fwww.wallystech.com%2FNetwork_Card%2FDR9074-2.4G-PN01.1-Wifi-6-Qualcomm-QCN9074-Single-Band-2.4-GHz-4T4R-M.2-E-Key-Interface-802.11ax.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-05-19-谨慎！糟糕程序员的编程风格查看-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15093&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494024%26amp%3Bidx%3D1%26amp%3Bsn%3Dd142644804a8e87dcb91ffaf3ecc07e2%26amp%3Bchksm%3Dfa3f08d3cd4881c5cb3a3a32aa85ab93627ba49c8bcf1a6ada6e7835c0eb606dfc861820b4b2%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-05-19-炸了！！又一VSCode神器面世！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15091&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494016%26amp%3Bidx%3D1%26amp%3Bsn%3Dacee1ce2b97823797def1c56cc6108cc%26amp%3Bchksm%3Dfa3f08dbcd4881cd7040cb09a82cb33ba9870b886ba7d3785d1fba173ca9ba8e022868f6a34b%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1976,8 +1978,8 @@
 - [2022-05-19-被折磨了-13-年，Go-怎么解决再赋值的坑？](https://toutiao.io/k/p9wjcvz) 
 - [2022-05-19-薛定谔的BUG](https://toutiao.io/k/ezirrkl) 
 - [2022-05-19-一起看-I/O-|-灵活的全新工具助力您的-Google-Play-订阅业务](https://toutiao.io/k/d8741oq) 
+- [2022-05-19-推荐-TCP-重传、滑动窗口、流量控制、拥塞控好难？看完图解就不愁了（重制）](https://toutiao.io/k/14tz08l) 
+- [2022-05-19-推荐-聊聊我们是如何做系统保障方案的](https://toutiao.io/k/i8q3ye4) 
 - [2022-05-19-推荐-跨Mysql、Redis、Mongo的分布式事务](https://toutiao.io/k/246clz1) 
 - [2022-05-19-推荐-左耳朵耗子：我做系统架构的一些原则](https://toutiao.io/k/9oljc6o) 
-- [2022-05-19-推荐-聊聊我们是如何做系统保障方案的](https://toutiao.io/k/i8q3ye4) 
-- [2022-05-19-推荐-TCP-重传、滑动窗口、流量控制、拥塞控好难？看完图解就不愁了（重制）](https://toutiao.io/k/14tz08l) 
 - [2022-05-19-推荐-架构设计资料合集](https://toutiao.io/k/iqlrz7b) 

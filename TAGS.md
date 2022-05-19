@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-05-19 07:20:37。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-05-19 07:39:41。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -156,7 +156,6 @@
 
 
 
-- [【V2EX】武汉高薪招聘--H5-游戏开发工程师](https://www.v2ex.com/t/853897)
 - [【开发者头条】最佳案例-|-游戏知几-AI-助手的云原生容器化之路](https://toutiao.io/k/q1cvkhp)
 - [......【查看更多】......](./details/tags/dev-game.md)
 
@@ -282,7 +281,7 @@
 - [【武汉肺炎防疫全纪录(财新网)】腺病毒新冠疫苗引安全忧虑-康希诺称未发现血栓病例](https://m.caixin.com/m/2021-04-14/101691086.html)
 - [【武汉肺炎防疫全纪录(财新网)】解药|新冠mRNA疫苗安全性有哪些挑战？](https://m.caixin.com/m/2021-01-08/101648043.html)
 - [【武汉肺炎防疫全纪录(财新网)】大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html)
-- [【V2EX】如何关闭-Mac-Chrome-地址栏的搜索记录?](https://www.v2ex.com/t/853896)
+- [【V2EX】zerotier-在-WAN-口-IP-变化后，不能自动更新-IP-到服务器](https://www.v2ex.com/t/853945)
 - [【技术头条】App开放接口api安全：Token签名sign的设计与实现-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15085&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493985%26amp%3Bidx%3D2%26amp%3Bsn%3Dd7b1313ef4a0226295c81127ee22c958%26amp%3Bchksm%3Dfa3f083acd48812c339da2d4de950a0fda74f93663bc630c95de45f1f211ed7ec8aab67904fd%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【开发者头条】搞定这8个Kafka生产级容量评估，每日10亿+请求轻松拿捏！](https://toutiao.io/k/9gqhrpj)
 - [......【查看更多】......](./details/tags/browser.md)

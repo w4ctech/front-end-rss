@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-05-19 05:24:55，:rocket: 更新条数: +2025， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-05-19 05:43:13，:rocket: 更新条数: +2026， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-05-19-没工作的时候你会做什么](https://www.v2ex.com/t/853918) ![](assets/new.png)  
+- [2022-05-19-请问这种像-uml-一样的-ASCII-图解是怎么画出来的，有什么好用的本地工具吗](https://www.v2ex.com/t/853917) ![](assets/new.png)  
 - [2022-05-19-如何高效地取连续三个月同一时间有交易的商户](https://www.v2ex.com/t/853916) ![](assets/new.png)  
 - [2022-05-19-远程全国全职-前端-Vue-开发工程师](https://www.v2ex.com/t/853915) ![](assets/new.png)  
 - [2022-05-19-测试与开发的攻防](https://www.v2ex.com/t/853914) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-05-19-如何实现大脑与电子设备的互通？](https://www.v2ex.com/t/853898) ![](assets/new.png)  
 - [2022-05-19-武汉高薪招聘--H5-游戏开发工程师](https://www.v2ex.com/t/853897) ![](assets/new.png)  
 - [2022-05-19-如何关闭-Mac-Chrome-地址栏的搜索记录?](https://www.v2ex.com/t/853896) ![](assets/new.png)  
-- [2022-05-19-Android-逆向](https://www.v2ex.com/t/853895) ![](assets/new.png)  
-- [2022-05-19-请教有什么渠道购买-pycharm-或者-webstorm-比较优惠](https://www.v2ex.com/t/853894) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -555,22 +555,22 @@
 
 - [2022-05-19-搞定这8个Kafka生产级容量评估，每日10亿+请求轻松拿捏！](https://toutiao.io/k/9gqhrpj) ![](assets/new.png)  
 - [2022-05-19-Go-项目使用-Makefile](https://toutiao.io/k/dagx8gt) ![](assets/new.png)  
-- [2022-05-19-字节“FII事件”发生的那一夜；别再说谷歌取消OKR了；Go微服务生产指南清单｜码农周刊VIP会员专属邮件周报-Vol.091](https://toutiao.io/k/d9oheay) ![](assets/new.png)  
 - [2022-05-19-Kafka-万亿级消息实践之资源组流量掉零故障排查分析](https://toutiao.io/k/ueclxtl) ![](assets/new.png)  
+- [2022-05-19-字节“FII事件”发生的那一夜；别再说谷歌取消OKR了；Go微服务生产指南清单｜码农周刊VIP会员专属邮件周报-Vol.091](https://toutiao.io/k/d9oheay) ![](assets/new.png)  
 - [2022-05-19-性能调优｜生产环境kafka集群400W/tps为啥就扛不住了？](https://toutiao.io/k/k59acft) ![](assets/new.png)  
 - [2022-05-19-使用-Go-和-Linux-Kernel-技术探究容器化原理](https://toutiao.io/k/6c5itbq) ![](assets/new.png)  
 - [2022-05-19-空降Leader，如何开展工作](https://toutiao.io/k/z6v2fgv) ![](assets/new.png)  
 - [2022-05-19-一个Go语言并行实践指导手册](https://toutiao.io/k/nbrkdeg) ![](assets/new.png)  
-- [2022-05-19-GitHub-毕业年鉴「GitHub-热点速览」](https://toutiao.io/k/0fbru3u) ![](assets/new.png)  
 - [2022-05-19-使用-vmalert-代替-Prometheus-监控报警](https://toutiao.io/k/5xtzp2h) ![](assets/new.png)  
+- [2022-05-19-GitHub-毕业年鉴「GitHub-热点速览」](https://toutiao.io/k/0fbru3u) ![](assets/new.png)  
 - [2022-05-19-Sentry-开发者贡献指南---前端-React-Hooks-与虫洞状态管理模式](https://toutiao.io/k/8mf5yql) ![](assets/new.png)  
 - [2022-05-19-从-Turborepo-看-Monorepo-工具的任务编排能力](https://toutiao.io/k/8q7gnoa) ![](assets/new.png)  
 - [2022-05-19-从霍桑效应看中高层验证的作用](https://toutiao.io/k/cy6ci1w) ![](assets/new.png)  
-- [2022-05-19-推荐-跨Mysql、Redis、Mongo的分布式事务](https://toutiao.io/k/246clz1) ![](assets/new.png)  
-- [2022-05-19-推荐-TCP-重传、滑动窗口、流量控制、拥塞控好难？看完图解就不愁了（重制）](https://toutiao.io/k/14tz08l) ![](assets/new.png)  
-- [2022-05-19-推荐-聊聊我们是如何做系统保障方案的](https://toutiao.io/k/i8q3ye4) ![](assets/new.png)  
 - [2022-05-19-推荐-架构设计资料合集](https://toutiao.io/k/iqlrz7b) ![](assets/new.png)  
+- [2022-05-19-推荐-TCP-重传、滑动窗口、流量控制、拥塞控好难？看完图解就不愁了（重制）](https://toutiao.io/k/14tz08l) ![](assets/new.png)  
 - [2022-05-19-推荐-左耳朵耗子：我做系统架构的一些原则](https://toutiao.io/k/9oljc6o) ![](assets/new.png)  
+- [2022-05-19-推荐-跨Mysql、Redis、Mongo的分布式事务](https://toutiao.io/k/246clz1) ![](assets/new.png)  
+- [2022-05-19-推荐-聊聊我们是如何做系统保障方案的](https://toutiao.io/k/i8q3ye4) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

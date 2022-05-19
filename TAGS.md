@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-05-19 05:24:55。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-05-19 05:43:13。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -355,7 +355,6 @@
 
 
 - [【V2EX】苏州工业园区招聘-iOS，安卓，-PHP-,-UI-设计。](https://www.v2ex.com/t/853905)
-- [【V2EX】上海字节跳动招聘前端架构师](https://www.v2ex.com/t/853867)
 - [......【查看更多】......](./details/tags/job-interview.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

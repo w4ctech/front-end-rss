@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-05-19 10:17:00，:rocket: 更新条数: +2030， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-05-19 10:45:39，:rocket: 更新条数: +2031， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,11 @@
 </summary>
 
 
+- [2022-05-19-学习-K8S-的第三天，有个关于离线部署的疑问](https://www.v2ex.com/t/853983) ![](assets/new.png)  
+- [2022-05-19-Mac-M1-钉钉如何显示未读消息数](https://www.v2ex.com/t/853982) ![](assets/new.png)  
+- [2022-05-19-前端由-ServiceWorker-返回的图片为什么还需要几秒钟加载时间?](https://www.v2ex.com/t/853981) ![](assets/new.png)  
+- [2022-05-19-随想-对于择偶的一些理解](https://www.v2ex.com/t/853980) ![](assets/new.png)  
+- [2022-05-19-关于微信开通-callkit-的问题，希望各位大佬能回复一下](https://www.v2ex.com/t/853979) ![](assets/new.png)  
 - [2022-05-19-iOS-快捷搜索应用-OneSearch-发布啦🎉](https://www.v2ex.com/t/853978) ![](assets/new.png)  
 - [2022-05-19-免费-CDN-上传大文件](https://www.v2ex.com/t/853977) ![](assets/new.png)  
 - [2022-05-19-在浏览器内执行-ffmpeg-cli](https://www.v2ex.com/t/853976) ![](assets/new.png)  
@@ -506,11 +511,6 @@
 - [2022-05-19-google-pixel-3XL-用-chrome-做真机调试识别不到手机？](https://www.v2ex.com/t/853962) ![](assets/new.png)  
 - [2022-05-19-Apollo-GraphQL-的缓存机制是否可以替代-redux，-vuex-做状态管理？](https://www.v2ex.com/t/853961) ![](assets/new.png)  
 - [2022-05-19-2205-麻烦-v-友推荐一款显示器](https://www.v2ex.com/t/853960) ![](assets/new.png)  
-- [2022-05-19-大家独立开发的应用是在哪里找设计师的呢？](https://www.v2ex.com/t/853959) ![](assets/new.png)  
-- [2022-05-19-杭州线下求购-iPhone-X](https://www.v2ex.com/t/853958) ![](assets/new.png)  
-- [2022-05-19-如何找到自己内心所真正喜欢的事物](https://www.v2ex.com/t/853957) ![](assets/new.png)  
-- [2022-05-19-求推荐一款能够在机房使用的降噪耳机](https://www.v2ex.com/t/853956) ![](assets/new.png)  
-- [2022-05-19-北京-产品运营（Web3-方向）](https://www.v2ex.com/t/853955) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -561,10 +561,10 @@
 - [2022-05-19-字节“FII事件”发生的那一夜；别再说谷歌取消OKR了；Go微服务生产指南清单｜码农周刊VIP会员专属邮件周报-Vol.091](https://toutiao.io/k/d9oheay) ![](assets/new.png)  
 - [2022-05-19-使用-Go-和-Linux-Kernel-技术探究容器化原理](https://toutiao.io/k/6c5itbq) ![](assets/new.png)  
 - [2022-05-19-一个Go语言并行实践指导手册](https://toutiao.io/k/nbrkdeg) ![](assets/new.png)  
+- [2022-05-19-最佳案例-|-游戏知几-AI-助手的云原生容器化之路](https://toutiao.io/k/q1cvkhp) ![](assets/new.png)  
 - [2022-05-19-GitHub-毕业年鉴「GitHub-热点速览」](https://toutiao.io/k/0fbru3u) ![](assets/new.png)  
 - [2022-05-19-使用-vmalert-代替-Prometheus-监控报警](https://toutiao.io/k/5xtzp2h) ![](assets/new.png)  
 - [2022-05-19-Sentry-开发者贡献指南---前端-React-Hooks-与虫洞状态管理模式](https://toutiao.io/k/8mf5yql) ![](assets/new.png)  
-- [2022-05-19-最佳案例-|-游戏知几-AI-助手的云原生容器化之路](https://toutiao.io/k/q1cvkhp) ![](assets/new.png)  
 - [2022-05-19-从-Turborepo-看-Monorepo-工具的任务编排能力](https://toutiao.io/k/8q7gnoa) ![](assets/new.png)  
 - [2022-05-19-从霍桑效应看中高层验证的作用](https://toutiao.io/k/cy6ci1w) ![](assets/new.png)  
 - [2022-05-19-重磅！Apache-Kafka-3.2.0-发布！](https://toutiao.io/k/5gmn0w0) ![](assets/new.png)  

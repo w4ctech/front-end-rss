@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-05-19 15:20:55，:rocket: 更新条数: +2033， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-05-19 16:01:28，:rocket: 更新条数: +2034， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,15 @@
 </summary>
 
 
+- [2022-05-19-有这样的开源日志监控系统，可以安心睡觉了](https://www.v2ex.com/t/854038) ![](assets/new.png)  
+- [2022-05-19-裁员裁麻了](https://www.v2ex.com/t/854037) ![](assets/new.png)  
+- [2022-05-19-awk-如何输出到文件](https://www.v2ex.com/t/854036) ![](assets/new.png)  
+- [2022-05-19-菲区-Spotify-一个车位，年付-80，长期车](https://www.v2ex.com/t/854034) ![](assets/new.png)  
+- [2022-05-19-PyTorch-开始支持-M1-的-GPU-加速，-各位的-M1-可以炼丹了么？](https://www.v2ex.com/t/854033) ![](assets/new.png)  
+- [2022-05-19-干互联网-16-年了，总结一下](https://www.v2ex.com/t/854032) ![](assets/new.png)  
+- [2022-05-19-冥想的最佳环境](https://www.v2ex.com/t/854031) ![](assets/new.png)  
+- [2022-05-19-求大佬帮小弟搭一个-steam-自动发货网站咧？-有偿](https://www.v2ex.com/t/854030) ![](assets/new.png)  
+- [2022-05-19-Mac-如何完全装-Linux-,求一篇靠谱的教程](https://www.v2ex.com/t/854028) ![](assets/new.png)  
 - [2022-05-19-ios-最新版原神-2.6-如何屏蔽越狱检测？](https://www.v2ex.com/t/854024) ![](assets/new.png)  
 - [2022-05-19-好奇求问:-数据分析的日常工作是怎样的](https://www.v2ex.com/t/854023) ![](assets/new.png)  
 - [2022-05-19-有没有简单的命令行同步工具？](https://www.v2ex.com/t/854022) ![](assets/new.png)  
@@ -502,15 +511,6 @@
 - [2022-05-19-Linus-Torvalds-在-TED-演讲上所说的有品味的代码](https://www.v2ex.com/t/854016) ![](assets/new.png)  
 - [2022-05-19-通过阿里云盘官网下载客户端，网页是如何识别我的操作系统并自动下载相应的安装包格式的](https://www.v2ex.com/t/854015) ![](assets/new.png)  
 - [2022-05-19-Applepay-部分卡的交易信息已与-Apple-共享](https://www.v2ex.com/t/854014) ![](assets/new.png)  
-- [2022-05-19-如何避免买到矿渣-PM9A1？](https://www.v2ex.com/t/854013) ![](assets/new.png)  
-- [2022-05-19-提供蘇州微軟内推](https://www.v2ex.com/t/854012) ![](assets/new.png)  
-- [2022-05-19-求职区块链实习----欧洲/Remote](https://www.v2ex.com/t/854011) ![](assets/new.png)  
-- [2022-05-19-每次点击-Google-搜索之后就会弹出进行人机身份验证怎么办呢](https://www.v2ex.com/t/854010) ![](assets/new.png)  
-- [2022-05-19-武汉第一家直营店要开业了，有没有必要凑热闹？](https://www.v2ex.com/t/854008) ![](assets/new.png)  
-- [2022-05-19-2022-年了，多少在用-safari？](https://www.v2ex.com/t/854007) ![](assets/new.png)  
-- [2022-05-19-pdfexpert6-之前在-iPad-上买过，后面就改成订阅了，是否能回到低版本](https://www.v2ex.com/t/854006) ![](assets/new.png)  
-- [2022-05-19-iphone13pro-max](https://www.v2ex.com/t/854005) ![](assets/new.png)  
-- [2022-05-19-新入手-ThinkBook-14+-12th-Intel，然后安装了-Ubuntu-22.04-LTS](https://www.v2ex.com/t/854004) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

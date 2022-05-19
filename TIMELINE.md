@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-05-19 15:20:55。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-05-19 16:01:28。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -69,6 +69,15 @@
 
 
 - [【张鑫旭-鑫空间-鑫生活】2022-05-11-JS与条形码的生成](https://www.zhangxinxu.com/wordpress/2022/05/js-barcode/) 
+- [【V2EX】2022-05-19-有这样的开源日志监控系统，可以安心睡觉了](https://www.v2ex.com/t/854038) 
+- [【V2EX】2022-05-19-裁员裁麻了](https://www.v2ex.com/t/854037) 
+- [【V2EX】2022-05-19-awk-如何输出到文件](https://www.v2ex.com/t/854036) 
+- [【V2EX】2022-05-19-菲区-Spotify-一个车位，年付-80，长期车](https://www.v2ex.com/t/854034) 
+- [【V2EX】2022-05-19-PyTorch-开始支持-M1-的-GPU-加速，-各位的-M1-可以炼丹了么？](https://www.v2ex.com/t/854033) 
+- [【V2EX】2022-05-19-干互联网-16-年了，总结一下](https://www.v2ex.com/t/854032) 
+- [【V2EX】2022-05-19-冥想的最佳环境](https://www.v2ex.com/t/854031) 
+- [【V2EX】2022-05-19-求大佬帮小弟搭一个-steam-自动发货网站咧？-有偿](https://www.v2ex.com/t/854030) 
+- [【V2EX】2022-05-19-Mac-如何完全装-Linux-,求一篇靠谱的教程](https://www.v2ex.com/t/854028) 
 - [【V2EX】2022-05-19-ios-最新版原神-2.6-如何屏蔽越狱检测？](https://www.v2ex.com/t/854024) 
 - [【V2EX】2022-05-19-好奇求问:-数据分析的日常工作是怎样的](https://www.v2ex.com/t/854023) 
 - [【V2EX】2022-05-19-有没有简单的命令行同步工具？](https://www.v2ex.com/t/854022) 
@@ -102,15 +111,6 @@
 - [【V2EX】2022-05-19-个人接项目大概是个什么流程？](https://www.v2ex.com/t/853993) 
 - [【V2EX】2022-05-19-家庭宽带并发连接数限制！](https://www.v2ex.com/t/853990) 
 - [【V2EX】2022-05-19-求宽带套餐，新换住所，坐标广州](https://www.v2ex.com/t/853989) 
-- [【V2EX】2022-05-19-一年了，还没签合同？](https://www.v2ex.com/t/853988) 
-- [【V2EX】2022-05-19-人在国企。如何上网。](https://www.v2ex.com/t/853987) 
-- [【V2EX】2022-05-19-分享一款-iOS-捉灵魂的-app，还真有人买](https://www.v2ex.com/t/853985) 
-- [【V2EX】2022-05-19-学习-K8S-的第三天，有个关于离线部署的疑问](https://www.v2ex.com/t/853983) 
-- [【V2EX】2022-05-19-Mac-M1-钉钉如何显示未读消息数](https://www.v2ex.com/t/853982) 
-- [【V2EX】2022-05-19-前端由-ServiceWorker-返回的图片为什么还需要几秒钟加载时间?](https://www.v2ex.com/t/853981) 
-- [【V2EX】2022-05-19-随想-对于择偶的一些理解](https://www.v2ex.com/t/853980) 
-- [【V2EX】2022-05-19-关于微信开通-callkit-的问题，希望各位大佬能回复一下](https://www.v2ex.com/t/853979) 
-- [【V2EX】2022-05-19-iOS-快捷搜索应用-OneSearch-发布啦🎉](https://www.v2ex.com/t/853978) 
 - [【技术头条】2022-05-19-Wallys-QCN9074/-11ax-/4x4-MU-MIMO-/2.4G-M.2-www.wallystech.com](https://blogread.cn/news/go.php?idItem=15094&url=https%3A%2F%2Fwww.wallystech.com%2FNetwork_Card%2FDR9074-2.4G-PN01.1-Wifi-6-Qualcomm-QCN9074-Single-Band-2.4-GHz-4T4R-M.2-E-Key-Interface-802.11ax.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-05-19-谨慎！糟糕程序员的编程风格查看-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15093&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494024%26amp%3Bidx%3D1%26amp%3Bsn%3Dd142644804a8e87dcb91ffaf3ecc07e2%26amp%3Bchksm%3Dfa3f08d3cd4881c5cb3a3a32aa85ab93627ba49c8bcf1a6ada6e7835c0eb606dfc861820b4b2%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-05-19-MySQL5.7-vs-8.0，哪个性能更牛？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15092&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494024%26amp%3Bidx%3D2%26amp%3Bsn%3Da60d74981373759bb63f480296e5564d%26amp%3Bchksm%3Dfa3f08d3cd4881c50f6364e287ee82d2bd56d9e4b01b037f44ae0c247d30c49ea536581e061e%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -151,11 +151,12 @@
 - [【开发者头条】2022-05-19-前端规范与思考五——-git规范-|-桃源小盼聊技术](https://toutiao.io/k/6q4sy97) 
 - [【开发者头条】2022-05-19-薛定谔的BUG](https://toutiao.io/k/ezirrkl) 
 - [【开发者头条】2022-05-19-一起看-I/O-|-灵活的全新工具助力您的-Google-Play-订阅业务](https://toutiao.io/k/d8741oq) 
+- [【开发者头条】2022-05-19-推荐-左耳朵耗子：我做系统架构的一些原则](https://toutiao.io/k/9oljc6o) 
+- [【开发者头条】2022-05-19-推荐-ThreadLocal夺命11连问](https://toutiao.io/k/p8lpi5z) 
+- [【开发者头条】2022-05-19-推荐-聊聊我们是如何做系统保障方案的](https://toutiao.io/k/i8q3ye4) 
 - [【开发者头条】2022-05-19-推荐-架构设计资料合集](https://toutiao.io/k/iqlrz7b) 
 - [【开发者头条】2022-05-19-推荐-跨Mysql、Redis、Mongo的分布式事务](https://toutiao.io/k/246clz1) 
-- [【开发者头条】2022-05-19-推荐-左耳朵耗子：我做系统架构的一些原则](https://toutiao.io/k/9oljc6o) 
 - [【开发者头条】2022-05-19-推荐-TCP-重传、滑动窗口、流量控制、拥塞控好难？看完图解就不愁了（重制）](https://toutiao.io/k/14tz08l) 
-- [【开发者头条】2022-05-19-推荐-聊聊我们是如何做系统保障方案的](https://toutiao.io/k/i8q3ye4) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-05-19 14:13:48，:rocket: 更新条数: +2035， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-05-19 14:40:23，:rocket: 更新条数: +2035， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,11 @@
 </summary>
 
 
+- [2022-05-19-好奇求问:-数据分析的日常工作是怎样的](https://www.v2ex.com/t/854023) ![](assets/new.png)  
+- [2022-05-19-有没有简单的命令行同步工具？](https://www.v2ex.com/t/854022) ![](assets/new.png)  
+- [2022-05-19-问问大家，你们的-M1-MacBook-Air-的键盘会发出刺耳的异响吗？](https://www.v2ex.com/t/854021) ![](assets/new.png)  
+- [2022-05-19-请教一个导航菜单实现问题](https://www.v2ex.com/t/854020) ![](assets/new.png)  
+- [2022-05-19-在-VSCode-中，如何将指定的命令包含进-Command-Palette-中？](https://www.v2ex.com/t/854019) ![](assets/new.png)  
 - [2022-05-19-给非计算机专业的人推荐计算机专业类的可操作性强、能上手的入门书籍或者技能实现软件？](https://www.v2ex.com/t/854018) ![](assets/new.png)  
 - [2022-05-19-macOS-12.4-系统弹窗无法点确认](https://www.v2ex.com/t/854017) ![](assets/new.png)  
 - [2022-05-19-Linus-Torvalds-在-TED-演讲上所说的有品味的代码](https://www.v2ex.com/t/854016) ![](assets/new.png)  
@@ -506,11 +511,6 @@
 - [2022-05-19-iphone13pro-max](https://www.v2ex.com/t/854005) ![](assets/new.png)  
 - [2022-05-19-新入手-ThinkBook-14+-12th-Intel，然后安装了-Ubuntu-22.04-LTS](https://www.v2ex.com/t/854004) ![](assets/new.png)  
 - [2022-05-19-可以推荐一个笔记本电脑直观的价格对比的网站吗](https://www.v2ex.com/t/854003) ![](assets/new.png)  
-- [2022-05-19-墨干编辑器：用-Gnuplot-绘制浙江省高考数学试题里面的函数曲线](https://www.v2ex.com/t/854002) ![](assets/new.png)  
-- [2022-05-19-请问-sentry-sourcemap-怎样匹配绝对路径？](https://www.v2ex.com/t/854001) ![](assets/new.png)  
-- [2022-05-19-依赖-GPL-协议组件的程序一定会被-GPL-传染吗？](https://www.v2ex.com/t/854000) ![](assets/new.png)  
-- [2022-05-19-受不了-mac-风扇的声音了~笔记本都这样吗？](https://www.v2ex.com/t/853999) ![](assets/new.png)  
-- [2022-05-19-icloud.com-打不开啦？](https://www.v2ex.com/t/853998) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

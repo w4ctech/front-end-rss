@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2022-05-19 20:15:37。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-05-19 20:40:58。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-05-19-奇怪的需求：全屏时，如何实现不隐藏刘海？](https://www.v2ex.com/t/854054) 
 - [2022-05-19-收到一些随机地址发来的域名询价邮件，是骗子吗？](https://www.v2ex.com/t/854053) 
 - [2022-05-19-Linux-和-Mac（偶尔包括-Windows）直接有什么比较合适的同步办法？](https://www.v2ex.com/t/854052) 
 - [2022-05-19-ios-网页上看外文学英语，有没有能快速收藏单词的工具？](https://www.v2ex.com/t/854051) 
@@ -47,4 +48,3 @@
 - [2022-05-19-2022-年了，多少在用-safari？](https://www.v2ex.com/t/854007) 
 - [2022-05-19-pdfexpert6-之前在-iPad-上买过，后面就改成订阅了，是否能回到低版本](https://www.v2ex.com/t/854006) 
 - [2022-05-19-iphone13pro-max](https://www.v2ex.com/t/854005) 
-- [2022-05-19-新入手-ThinkBook-14+-12th-Intel，然后安装了-Ubuntu-22.04-LTS](https://www.v2ex.com/t/854004) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-05-19 16:01:28，:rocket: 更新条数: +2034， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-05-19 16:52:27，:rocket: 更新条数: +2036， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,11 @@
 </summary>
 
 
+- [2022-05-19-最近在写一个服务，需要调用国外的-api，所以想求一台好用的-VPS](https://www.v2ex.com/t/854043) ![](assets/new.png)  
+- [2022-05-19-Docker-Desktop-for-Linux-Released](https://www.v2ex.com/t/854042) ![](assets/new.png)  
+- [2022-05-19-有没有哪个国家或者地区可以低成本合法经营-NFT-和加密货币的售卖。](https://www.v2ex.com/t/854041) ![](assets/new.png)  
+- [2022-05-19-B-站发布了-Mac-的客户端](https://www.v2ex.com/t/854040) ![](assets/new.png)  
+- [2022-05-19-❤️SetApp-家人们集合啦：-MenubarX-入驻啦，求-V-友支持送福利](https://www.v2ex.com/t/854039) ![](assets/new.png)  
 - [2022-05-19-有这样的开源日志监控系统，可以安心睡觉了](https://www.v2ex.com/t/854038) ![](assets/new.png)  
 - [2022-05-19-裁员裁麻了](https://www.v2ex.com/t/854037) ![](assets/new.png)  
 - [2022-05-19-awk-如何输出到文件](https://www.v2ex.com/t/854036) ![](assets/new.png)  
@@ -506,11 +511,6 @@
 - [2022-05-19-问问大家，你们的-M1-MacBook-Air-的键盘会发出刺耳的异响吗？](https://www.v2ex.com/t/854021) ![](assets/new.png)  
 - [2022-05-19-请教一个导航菜单实现问题](https://www.v2ex.com/t/854020) ![](assets/new.png)  
 - [2022-05-19-在-VSCode-中，如何将指定的命令包含进-Command-Palette-中？](https://www.v2ex.com/t/854019) ![](assets/new.png)  
-- [2022-05-19-给非计算机专业的人推荐计算机专业类的可操作性强、能上手的入门书籍或者技能实现软件？](https://www.v2ex.com/t/854018) ![](assets/new.png)  
-- [2022-05-19-macOS-12.4-系统弹窗无法点确认](https://www.v2ex.com/t/854017) ![](assets/new.png)  
-- [2022-05-19-Linus-Torvalds-在-TED-演讲上所说的有品味的代码](https://www.v2ex.com/t/854016) ![](assets/new.png)  
-- [2022-05-19-通过阿里云盘官网下载客户端，网页是如何识别我的操作系统并自动下载相应的安装包格式的](https://www.v2ex.com/t/854015) ![](assets/new.png)  
-- [2022-05-19-Applepay-部分卡的交易信息已与-Apple-共享](https://www.v2ex.com/t/854014) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

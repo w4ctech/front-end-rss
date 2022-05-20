@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-05-20 14:40:00。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-05-20 15:16:10。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -89,8 +89,8 @@
 
 
 - [【武汉肺炎防疫全纪录(财新网)】韩国拟升级首尔疫情管控-法国专业机构建议强制接种疫苗｜大流行手记（7月10日）](https://m.caixin.com/m/2021-07-11/101738786.html)
-- [【开发者头条】争夺存量用户关键战，助力企业构建完美标签体系丨01期直播回顾](https://toutiao.io/k/gaepi3a)
 - [【开发者头条】构建与部署的脚本化](https://toutiao.io/k/vqt08ms)
+- [【开发者头条】争夺存量用户关键战，助力企业构建完美标签体系丨01期直播回顾](https://toutiao.io/k/gaepi3a)
 - [......【查看更多】......](./details/tags/pack-build.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -359,6 +359,7 @@
 
 
 
+- [【V2EX】杭州券商-招聘-前端、-Java-开发等岗位，欢迎咨询~](https://www.v2ex.com/t/854272)
 - [......【查看更多】......](./details/tags/job-interview.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

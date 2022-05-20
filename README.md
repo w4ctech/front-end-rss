@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-05-20 08:18:22，:rocket: 更新条数: +2029， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-05-20 08:46:35，:rocket: 更新条数: +2029， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,12 @@
 </summary>
 
 
+- [2022-05-20-M1Pro-14-寸-macbook-Pro-键盘/触控板失灵](https://www.v2ex.com/t/854226) ![](assets/new.png)  
+- [2022-05-20-Mac-pro-2018-U-盘安装-Ubuntu-22.04-LTS-每次到引导页面就黑屏，请问这个有大佬知道如何处理吗？](https://www.v2ex.com/t/854223) ![](assets/new.png)  
+- [2022-05-20-有小伙伴对光纤有研究么，从公司捡了一卷光纤回来，不知道怎么用](https://www.v2ex.com/t/854221) ![](assets/new.png)  
+- [2022-05-20-请教一个-ConcurrentHashMap-问题](https://www.v2ex.com/t/854219) ![](assets/new.png)  
+- [2022-05-20-征集-iOS-App-创意和灵感](https://www.v2ex.com/t/854218) ![](assets/new.png)  
+- [2022-05-20-有没有两个在银泰城附近的单间的,能够压一付一,单价在-1300-以下,有大佬推荐吗?](https://www.v2ex.com/t/854217) ![](assets/new.png)  
 - [2022-05-20-聊聊音乐不是艺术上的音乐](https://www.v2ex.com/t/854216) ![](assets/new.png)  
 - [2022-05-20-如何在-Nginx-中限制特定-UA-访问特定路径（或文件）？](https://www.v2ex.com/t/854215) ![](assets/new.png)  
 - [2022-05-20-Serverless-应用引擎](https://www.v2ex.com/t/854212) ![](assets/new.png)  
@@ -505,12 +511,6 @@
 - [2022-05-20-想买几本书补充基础知识，有推荐的吗？](https://www.v2ex.com/t/854202) ![](assets/new.png)  
 - [2022-05-20-我写一个小玩具，喜欢用-vue-的可以玩玩](https://www.v2ex.com/t/854201) ![](assets/new.png)  
 - [2022-05-20-有人懂国内期货期权吗](https://www.v2ex.com/t/854200) ![](assets/new.png)  
-- [2022-05-20-租房遇到的糟心事，和大家讨论讨论](https://www.v2ex.com/t/854199) ![](assets/new.png)  
-- [2022-05-20-MacBook-Air-键盘上架设机械键盘使用，但键盘底座常常误触-MBA-的键盘，有什么解决手段吗？](https://www.v2ex.com/t/854197) ![](assets/new.png)  
-- [2022-05-20-定义了一个泛型类,-有什么办法能将一个泛型类实例赋值给未指定泛型的泛型类吗?-类似-Java-里的-List-=-new-ArrayList<String>](https://www.v2ex.com/t/854196) ![](assets/new.png)  
-- [2022-05-20-有知道-peertube-这个开源的-p2p-视频点播吗，国内有人用吗？](https://www.v2ex.com/t/854195) ![](assets/new.png)  
-- [2022-05-20-彭博社：苹果向董事会展示-AR/VR-头显，可能即将发布](https://www.v2ex.com/t/854194) ![](assets/new.png)  
-- [2022-05-20-各位《爱，死亡和机器人》，第三季刚刚更新了](https://www.v2ex.com/t/854193) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -569,10 +569,10 @@
 - [2022-05-20-构建与部署的脚本化](https://toutiao.io/k/vqt08ms) ![](assets/new.png)  
 - [2022-05-20-温故知新——领域驱动设计](https://toutiao.io/k/vdnbnlz) ![](assets/new.png)  
 - [2022-05-20-性能优化之全面图片改造方案](https://toutiao.io/k/ijir5m4) ![](assets/new.png)  
+- [2022-05-20-推荐-ThreadLocal夺命11连问](https://toutiao.io/k/p8lpi5z) ![](assets/new.png)  
+- [2022-05-20-推荐-架构设计资料合集](https://toutiao.io/k/iqlrz7b) ![](assets/new.png)  
 - [2022-05-20-推荐-聊聊我们是如何做系统保障方案的](https://toutiao.io/k/i8q3ye4) ![](assets/new.png)  
 - [2022-05-20-推荐-左耳朵耗子：我做系统架构的一些原则](https://toutiao.io/k/9oljc6o) ![](assets/new.png)  
-- [2022-05-20-推荐-ThreadLocal夺命11连问](https://toutiao.io/k/p8lpi5z) ![](assets/new.png)  
-- [2022-05-20-推荐-跨Mysql、Redis、Mongo的分布式事务](https://toutiao.io/k/246clz1) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

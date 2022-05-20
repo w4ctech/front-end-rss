@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-05-20 08:18:23。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-05-20 08:46:35。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -69,6 +69,12 @@
 
 
 - [【张鑫旭-鑫空间-鑫生活】2022-05-11-JS与条形码的生成](https://www.zhangxinxu.com/wordpress/2022/05/js-barcode/) 
+- [【V2EX】2022-05-20-M1Pro-14-寸-macbook-Pro-键盘/触控板失灵](https://www.v2ex.com/t/854226) 
+- [【V2EX】2022-05-20-Mac-pro-2018-U-盘安装-Ubuntu-22.04-LTS-每次到引导页面就黑屏，请问这个有大佬知道如何处理吗？](https://www.v2ex.com/t/854223) 
+- [【V2EX】2022-05-20-有小伙伴对光纤有研究么，从公司捡了一卷光纤回来，不知道怎么用](https://www.v2ex.com/t/854221) 
+- [【V2EX】2022-05-20-请教一个-ConcurrentHashMap-问题](https://www.v2ex.com/t/854219) 
+- [【V2EX】2022-05-20-征集-iOS-App-创意和灵感](https://www.v2ex.com/t/854218) 
+- [【V2EX】2022-05-20-有没有两个在银泰城附近的单间的,能够压一付一,单价在-1300-以下,有大佬推荐吗?](https://www.v2ex.com/t/854217) 
 - [【V2EX】2022-05-20-聊聊音乐不是艺术上的音乐](https://www.v2ex.com/t/854216) 
 - [【V2EX】2022-05-20-如何在-Nginx-中限制特定-UA-访问特定路径（或文件）？](https://www.v2ex.com/t/854215) 
 - [【V2EX】2022-05-20-Serverless-应用引擎](https://www.v2ex.com/t/854212) 
@@ -104,12 +110,6 @@
 - [【V2EX】2022-05-20-为什么手机端的播客没法加载浏览页面，-Mac-端和-iPad-端都没问题](https://www.v2ex.com/t/854180) 
 - [【V2EX】2022-05-20-刚发车的-Switch-Online-+-扩展包-高级会员-快上车](https://www.v2ex.com/t/854179) 
 - [【V2EX】2022-05-20-离开了程序员的工作，你还会怎么利用编程的技能？](https://www.v2ex.com/t/854178) 
-- [【V2EX】2022-05-20-大家小程序、app-生成分享图片用的什么方法？](https://www.v2ex.com/t/854176) 
-- [【V2EX】2022-05-20-有学习五笔的-v2er-吗？我开发了一款五笔编码查询软件（iOS）](https://www.v2ex.com/t/854173) 
-- [【V2EX】2022-05-20-求职杭州/成都Android/Flutter-开发](https://www.v2ex.com/t/854171) 
-- [【V2EX】2022-05-20-自己组装的台式放在公司-7*24h-开机-装了机械硬盘-要不要配一个-UPS](https://www.v2ex.com/t/854169) 
-- [【V2EX】2022-05-20-Microsoft-Edge-默认开启自动从-Google-Chrome-导入数据的功能](https://www.v2ex.com/t/854168) 
-- [【V2EX】2022-05-20-大家是否有买过大宇的小方糖](https://www.v2ex.com/t/854167) 
 - [【技术头条】2022-05-20-Wallys-QCN9074/-11ax-/4x4-MU-MIMO-/2.4G-M.2-www.wallystech.com](https://blogread.cn/news/go.php?idItem=15094&url=https%3A%2F%2Fwww.wallystech.com%2FNetwork_Card%2FDR9074-2.4G-PN01.1-Wifi-6-Qualcomm-QCN9074-Single-Band-2.4-GHz-4T4R-M.2-E-Key-Interface-802.11ax.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-05-20-谨慎！糟糕程序员的编程风格查看-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15093&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494024%26amp%3Bidx%3D1%26amp%3Bsn%3Dd142644804a8e87dcb91ffaf3ecc07e2%26amp%3Bchksm%3Dfa3f08d3cd4881c5cb3a3a32aa85ab93627ba49c8bcf1a6ada6e7835c0eb606dfc861820b4b2%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-05-20-MySQL5.7-vs-8.0，哪个性能更牛？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15092&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494024%26amp%3Bidx%3D2%26amp%3Bsn%3Da60d74981373759bb63f480296e5564d%26amp%3Bchksm%3Dfa3f08d3cd4881c50f6364e287ee82d2bd56d9e4b01b037f44ae0c247d30c49ea536581e061e%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -146,12 +146,12 @@
 - [【开发者头条】2022-05-20-构建与部署的脚本化](https://toutiao.io/k/vqt08ms) 
 - [【开发者头条】2022-05-20-温故知新——领域驱动设计](https://toutiao.io/k/vdnbnlz) 
 - [【开发者头条】2022-05-20-性能优化之全面图片改造方案](https://toutiao.io/k/ijir5m4) 
+- [【开发者头条】2022-05-20-推荐-ThreadLocal夺命11连问](https://toutiao.io/k/p8lpi5z) 
+- [【开发者头条】2022-05-20-推荐-架构设计资料合集](https://toutiao.io/k/iqlrz7b) 
 - [【开发者头条】2022-05-20-推荐-聊聊我们是如何做系统保障方案的](https://toutiao.io/k/i8q3ye4) 
 - [【开发者头条】2022-05-20-推荐-左耳朵耗子：我做系统架构的一些原则](https://toutiao.io/k/9oljc6o) 
-- [【开发者头条】2022-05-20-推荐-ThreadLocal夺命11连问](https://toutiao.io/k/p8lpi5z) 
 - [【开发者头条】2022-05-20-推荐-跨Mysql、Redis、Mongo的分布式事务](https://toutiao.io/k/246clz1) 
 - [【开发者头条】2022-05-20-推荐-TCP-重传、滑动窗口、流量控制、拥塞控好难？看完图解就不愁了（重制）](https://toutiao.io/k/14tz08l) 
-- [【开发者头条】2022-05-20-推荐-架构设计资料合集](https://toutiao.io/k/iqlrz7b) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

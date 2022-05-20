@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2022-05-20 17:45:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-05-20 18:17:43。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-05-20-如何为-Linux-下的命令设置色彩输出？](https://www.v2ex.com/t/854290) 
+- [2022-05-20-macOS-上有办法在-Chrome-打开-bilibili-时自动用-safari-打开吗](https://www.v2ex.com/t/854289) 
 - [2022-05-20-也许那时还年轻（一）](https://www.v2ex.com/t/854287) 
 - [2022-05-20-现在哪里还可以下载-Entropy-的-RAR-Codec？](https://www.v2ex.com/t/854286) 
 - [2022-05-20-SSHWrapper---通过-SSH-协议给-Linux-命令提供交互接口](https://www.v2ex.com/t/854285) 
@@ -42,6 +44,3 @@
 - [2022-05-20-有必要自费换办公设备吗？](https://www.v2ex.com/t/854244) 
 - [2022-05-20-上海/杭州字节跳动飞书视频会议团队各端研发岗位内推](https://www.v2ex.com/t/854243) 
 - [2022-05-20-区块链理财平台-招-go/-Java-/android/ios/智能合约/测试/运维/产品](https://www.v2ex.com/t/854241) 
-- [2022-05-20-请问移动联通宽带双线叠加之后有啥缺点](https://www.v2ex.com/t/854240) 
-- [2022-05-20-今天在上海的情侣们，-520-怎么买礼物啊！](https://www.v2ex.com/t/854239) 
-- [2022-05-20-北京-全栈工程师-远程或全职](https://www.v2ex.com/t/854238) 

@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-05-20 17:45:08。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-05-20 18:17:43。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -286,6 +286,7 @@
 - [【武汉肺炎防疫全纪录(财新网)】腺病毒新冠疫苗引安全忧虑-康希诺称未发现血栓病例](https://m.caixin.com/m/2021-04-14/101691086.html)
 - [【武汉肺炎防疫全纪录(财新网)】解药|新冠mRNA疫苗安全性有哪些挑战？](https://m.caixin.com/m/2021-01-08/101648043.html)
 - [【武汉肺炎防疫全纪录(财新网)】大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html)
+- [【V2EX】macOS-上有办法在-Chrome-打开-bilibili-时自动用-safari-打开吗](https://www.v2ex.com/t/854289)
 - [【V2EX】哪个稳定币更安全？-USDT、USDC、DAI、USDP、TUSD、GUSD、mStable-等排序](https://www.v2ex.com/t/854253)
 - [【技术头条】App开放接口api安全：Token签名sign的设计与实现-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15085&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493985%26amp%3Bidx%3D2%26amp%3Bsn%3Dd7b1313ef4a0226295c81127ee22c958%26amp%3Bchksm%3Dfa3f083acd48812c339da2d4de950a0fda74f93663bc630c95de45f1f211ed7ec8aab67904fd%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【开发者头条】实战派-|-Java项目中玩转Redis6.0客户端缓存！](https://toutiao.io/k/k58zozk)
@@ -306,7 +307,6 @@
 
 
 - [【V2EX】成都-微信国内指数-Top1、增长最快的-Web3-NFT-公司-|-全栈/前端/后端-12k-30k](https://www.v2ex.com/t/854255)
-- [【V2EX】北京-全栈工程师-远程或全职](https://www.v2ex.com/t/854238)
 - [【开发者头条】从零开始实现一个深度学习框架-|-当神经网络遇上遗传算法](https://toutiao.io/k/rfh42b2)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 

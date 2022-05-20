@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-05-20 09:15:37，:rocket: 更新条数: +2028， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-05-20 09:42:43，:rocket: 更新条数: +2028， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,15 @@
 </summary>
 
 
+- [2022-05-20-有必要自费换办公设备吗？](https://www.v2ex.com/t/854244) ![](assets/new.png)  
+- [2022-05-20-上海/杭州字节跳动飞书视频会议团队各端研发岗位内推](https://www.v2ex.com/t/854243) ![](assets/new.png)  
+- [2022-05-20-区块链理财平台-招-go/-Java-/android/ios/智能合约/测试/运维/产品](https://www.v2ex.com/t/854241) ![](assets/new.png)  
+- [2022-05-20-请问移动联通宽带双线叠加之后有啥缺点](https://www.v2ex.com/t/854240) ![](assets/new.png)  
+- [2022-05-20-今天在上海的情侣们，-520-怎么买礼物啊！](https://www.v2ex.com/t/854239) ![](assets/new.png)  
+- [2022-05-20-北京-全栈工程师-远程或全职](https://www.v2ex.com/t/854238) ![](assets/new.png)  
+- [2022-05-20-在腾讯云注册的两个域名都被禁止解析了，不知道原因](https://www.v2ex.com/t/854237) ![](assets/new.png)  
+- [2022-05-20-有没有写代码越来越不优雅的时刻或者阶段？一直持续下期会怎样。](https://www.v2ex.com/t/854236) ![](assets/new.png)  
+- [2022-05-20-MQ-适合做异步分批处理嘛](https://www.v2ex.com/t/854235) ![](assets/new.png)  
 - [2022-05-20-理想对象的职业是啥？。。。](https://www.v2ex.com/t/854234) ![](assets/new.png)  
 - [2022-05-20-现在买-iPhone12-Pro，还是买-iPhone-13-好](https://www.v2ex.com/t/854233) ![](assets/new.png)  
 - [2022-05-20-长期冷备的情况下，机械硬盘买空气盘还是买氦气盘？](https://www.v2ex.com/t/854232) ![](assets/new.png)  
@@ -502,15 +511,6 @@
 - [2022-05-20-Mac-pro-2018-U-盘安装-Ubuntu-22.04-LTS-每次到引导页面就黑屏，请问这个有大佬知道如何处理吗？](https://www.v2ex.com/t/854223) ![](assets/new.png)  
 - [2022-05-20-有小伙伴对光纤有研究么，从公司捡了一卷光纤回来，不知道怎么用](https://www.v2ex.com/t/854221) ![](assets/new.png)  
 - [2022-05-20-请教一个-ConcurrentHashMap-问题](https://www.v2ex.com/t/854219) ![](assets/new.png)  
-- [2022-05-20-征集-iOS-App-创意和灵感](https://www.v2ex.com/t/854218) ![](assets/new.png)  
-- [2022-05-20-有没有两个在银泰城附近的单间的,能够压一付一,单价在-1300-以下,有大佬推荐吗?](https://www.v2ex.com/t/854217) ![](assets/new.png)  
-- [2022-05-20-聊聊音乐不是艺术上的音乐](https://www.v2ex.com/t/854216) ![](assets/new.png)  
-- [2022-05-20-如何在-Nginx-中限制特定-UA-访问特定路径（或文件）？](https://www.v2ex.com/t/854215) ![](assets/new.png)  
-- [2022-05-20-Serverless-应用引擎](https://www.v2ex.com/t/854212) ![](assets/new.png)  
-- [2022-05-20-广州/深圳-字节跳动-招聘-Unity-3D-、Web-前端工程师，初级、高阶都有需求！](https://www.v2ex.com/t/854211) ![](assets/new.png)  
-- [2022-05-20-想写一本关于元宇宙的小说](https://www.v2ex.com/t/854210) ![](assets/new.png)  
-- [2022-05-20-K2P-有线桥接后网速极慢](https://www.v2ex.com/t/854209) ![](assets/new.png)  
-- [2022-05-20-Notion-里插入的图片居然直接暴露在公网上](https://www.v2ex.com/t/854208) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -570,8 +570,8 @@
 - [2022-05-20-温故知新——领域驱动设计](https://toutiao.io/k/vdnbnlz) ![](assets/new.png)  
 - [2022-05-20-性能优化之全面图片改造方案](https://toutiao.io/k/ijir5m4) ![](assets/new.png)  
 - [2022-05-20-推荐-跨Mysql、Redis、Mongo的分布式事务](https://toutiao.io/k/246clz1) ![](assets/new.png)  
-- [2022-05-20-推荐-TCP-重传、滑动窗口、流量控制、拥塞控好难？看完图解就不愁了（重制）](https://toutiao.io/k/14tz08l) ![](assets/new.png)  
-- [2022-05-20-推荐-ThreadLocal夺命11连问](https://toutiao.io/k/p8lpi5z) ![](assets/new.png)  
+- [2022-05-20-推荐-架构设计资料合集](https://toutiao.io/k/iqlrz7b) ![](assets/new.png)  
+- [2022-05-20-推荐-左耳朵耗子：我做系统架构的一些原则](https://toutiao.io/k/9oljc6o) ![](assets/new.png)  
 - [2022-05-20-推荐-聊聊我们是如何做系统保障方案的](https://toutiao.io/k/i8q3ye4) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

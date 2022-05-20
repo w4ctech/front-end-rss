@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-05-20 06:18:01，:rocket: 更新条数: +2033， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-05-20 06:49:52，:rocket: 更新条数: +2029， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,10 @@
 </summary>
 
 
+- [2022-05-20-大家小程序、app-生成分享图片用的什么方法？](https://www.v2ex.com/t/854176) ![](assets/new.png)  
+- [2022-05-20-有学习五笔的-v2er-吗？我开发了一款五笔编码查询软件（iOS）](https://www.v2ex.com/t/854173) ![](assets/new.png)  
+- [2022-05-20-求职杭州/成都Android/Flutter-开发](https://www.v2ex.com/t/854171) ![](assets/new.png)  
+- [2022-05-20-自己组装的台式放在公司-7*24h-开机-装了机械硬盘-要不要配一个-UPS](https://www.v2ex.com/t/854169) ![](assets/new.png)  
 - [2022-05-20-Microsoft-Edge-默认开启自动从-Google-Chrome-导入数据的功能](https://www.v2ex.com/t/854168) ![](assets/new.png)  
 - [2022-05-20-大家是否有买过大宇的小方糖](https://www.v2ex.com/t/854167) ![](assets/new.png)  
 - [2022-05-20-想把困在家里的小女朋友送去赚钱（大雾），想把她引去学-UI-设计/产品经理，有没有大佬推荐一下学习路径呢？](https://www.v2ex.com/t/854166) ![](assets/new.png)  
@@ -507,10 +511,6 @@
 - [2022-05-20-读书破万卷，下笔如有神](https://www.v2ex.com/t/854155) ![](assets/new.png)  
 - [2022-05-20-求解惑，求安慰。是互联网行业的人都躺平了，还是我们的产品没有吸引力？](https://www.v2ex.com/t/854154) ![](assets/new.png)  
 - [2022-05-20-有没有像-Reeder-一样支持-iCloud-同步的播客客户端](https://www.v2ex.com/t/854152) ![](assets/new.png)  
-- [2022-05-20-Chrome-查找功能在微博网页版失效](https://www.v2ex.com/t/854151) ![](assets/new.png)  
-- [2022-05-20-求教，一个关于-Sec-Fetch-Mode-的问题](https://www.v2ex.com/t/854150) ![](assets/new.png)  
-- [2022-05-20-下半年装修，大家有推荐-618-屯的东西吗](https://www.v2ex.com/t/854149) ![](assets/new.png)  
-- [2022-05-20-配置-Apache-虚拟主机，被整晕了怎么办？](https://www.v2ex.com/t/854148) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -566,13 +566,13 @@
 - [2022-05-20-携程基于BookKeeper的延迟消息架构落地实践](https://toutiao.io/k/oz34ufd) ![](assets/new.png)  
 - [2022-05-20-开发者的福利---NutUI-vscode-智能提示来了](https://toutiao.io/k/gy69el8) ![](assets/new.png)  
 - [2022-05-20-关于技术能力的思考和总结](https://toutiao.io/k/o5uzf4g) ![](assets/new.png)  
+- [2022-05-20-温故知新——领域驱动设计](https://toutiao.io/k/vdnbnlz) ![](assets/new.png)  
 - [2022-05-20-构建与部署的脚本化](https://toutiao.io/k/vqt08ms) ![](assets/new.png)  
 - [2022-05-20-性能优化之全面图片改造方案](https://toutiao.io/k/ijir5m4) ![](assets/new.png)  
-- [2022-05-20-温故知新——领域驱动设计](https://toutiao.io/k/vdnbnlz) ![](assets/new.png)  
+- [2022-05-20-推荐-架构设计资料合集](https://toutiao.io/k/iqlrz7b) ![](assets/new.png)  
 - [2022-05-20-推荐-跨Mysql、Redis、Mongo的分布式事务](https://toutiao.io/k/246clz1) ![](assets/new.png)  
 - [2022-05-20-推荐-ThreadLocal夺命11连问](https://toutiao.io/k/p8lpi5z) ![](assets/new.png)  
-- [2022-05-20-推荐-架构设计资料合集](https://toutiao.io/k/iqlrz7b) ![](assets/new.png)  
-- [2022-05-20-推荐-TCP-重传、滑动窗口、流量控制、拥塞控好难？看完图解就不愁了（重制）](https://toutiao.io/k/14tz08l) ![](assets/new.png)  
+- [2022-05-20-推荐-左耳朵耗子：我做系统架构的一些原则](https://toutiao.io/k/9oljc6o) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-05-20 06:18:01。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-05-20 06:49:52。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -69,6 +69,10 @@
 
 
 - [【张鑫旭-鑫空间-鑫生活】2022-05-11-JS与条形码的生成](https://www.zhangxinxu.com/wordpress/2022/05/js-barcode/) 
+- [【V2EX】2022-05-20-大家小程序、app-生成分享图片用的什么方法？](https://www.v2ex.com/t/854176) 
+- [【V2EX】2022-05-20-有学习五笔的-v2er-吗？我开发了一款五笔编码查询软件（iOS）](https://www.v2ex.com/t/854173) 
+- [【V2EX】2022-05-20-求职杭州/成都Android/Flutter-开发](https://www.v2ex.com/t/854171) 
+- [【V2EX】2022-05-20-自己组装的台式放在公司-7*24h-开机-装了机械硬盘-要不要配一个-UPS](https://www.v2ex.com/t/854169) 
 - [【V2EX】2022-05-20-Microsoft-Edge-默认开启自动从-Google-Chrome-导入数据的功能](https://www.v2ex.com/t/854168) 
 - [【V2EX】2022-05-20-大家是否有买过大宇的小方糖](https://www.v2ex.com/t/854167) 
 - [【V2EX】2022-05-20-想把困在家里的小女朋友送去赚钱（大雾），想把她引去学-UI-设计/产品经理，有没有大佬推荐一下学习路径呢？](https://www.v2ex.com/t/854166) 
@@ -106,14 +110,6 @@
 - [【V2EX】2022-05-20-5-年期以上-LPR-下降-15BP-至-4.45](https://www.v2ex.com/t/854130) 
 - [【V2EX】2022-05-20-大佬们多多推荐杭州美食](https://www.v2ex.com/t/854129) 
 - [【V2EX】2022-05-20-520，解锁开发者的专属浪漫](https://www.v2ex.com/t/854128) 
-- [【V2EX】2022-05-20-给它电---一款数字电子设备充电提醒记录追踪的-iOS-App](https://www.v2ex.com/t/854126) 
-- [【V2EX】2022-05-20-送-520-微信红包封面，顺便聊聊-520-流量裂变、变现](https://www.v2ex.com/t/854125) 
-- [【V2EX】2022-05-20-有必要提前还贷吗？](https://www.v2ex.com/t/854124) 
-- [【V2EX】2022-05-20-上海字节跳动招聘资深客户端开发工程师](https://www.v2ex.com/t/854123) 
-- [【V2EX】2022-05-20-想找一个新西兰的女朋友！](https://www.v2ex.com/t/854122) 
-- [【V2EX】2022-05-20-有人用-m1-的-mac-mini-做-plex-服务器嘛？体验如何？](https://www.v2ex.com/t/854121) 
-- [【V2EX】2022-05-20-腾讯云云函数-3-个月免费到期即将收费-12-元/月](https://www.v2ex.com/t/854120) 
-- [【V2EX】2022-05-20-请教关于-Win-下使用-LSI3008-直通卡的问题](https://www.v2ex.com/t/854119) 
 - [【技术头条】2022-05-20-Wallys-QCN9074/-11ax-/4x4-MU-MIMO-/2.4G-M.2-www.wallystech.com](https://blogread.cn/news/go.php?idItem=15094&url=https%3A%2F%2Fwww.wallystech.com%2FNetwork_Card%2FDR9074-2.4G-PN01.1-Wifi-6-Qualcomm-QCN9074-Single-Band-2.4-GHz-4T4R-M.2-E-Key-Interface-802.11ax.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-05-20-谨慎！糟糕程序员的编程风格查看-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15093&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494024%26amp%3Bidx%3D1%26amp%3Bsn%3Dd142644804a8e87dcb91ffaf3ecc07e2%26amp%3Bchksm%3Dfa3f08d3cd4881c5cb3a3a32aa85ab93627ba49c8bcf1a6ada6e7835c0eb606dfc861820b4b2%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-05-20-MySQL5.7-vs-8.0，哪个性能更牛？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15092&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494024%26amp%3Bidx%3D2%26amp%3Bsn%3Da60d74981373759bb63f480296e5564d%26amp%3Bchksm%3Dfa3f08d3cd4881c50f6364e287ee82d2bd56d9e4b01b037f44ae0c247d30c49ea536581e061e%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -147,14 +143,14 @@
 - [【开发者头条】2022-05-20-携程基于BookKeeper的延迟消息架构落地实践](https://toutiao.io/k/oz34ufd) 
 - [【开发者头条】2022-05-20-开发者的福利---NutUI-vscode-智能提示来了](https://toutiao.io/k/gy69el8) 
 - [【开发者头条】2022-05-20-关于技术能力的思考和总结](https://toutiao.io/k/o5uzf4g) 
+- [【开发者头条】2022-05-20-温故知新——领域驱动设计](https://toutiao.io/k/vdnbnlz) 
 - [【开发者头条】2022-05-20-构建与部署的脚本化](https://toutiao.io/k/vqt08ms) 
 - [【开发者头条】2022-05-20-性能优化之全面图片改造方案](https://toutiao.io/k/ijir5m4) 
-- [【开发者头条】2022-05-20-温故知新——领域驱动设计](https://toutiao.io/k/vdnbnlz) 
+- [【开发者头条】2022-05-20-推荐-架构设计资料合集](https://toutiao.io/k/iqlrz7b) 
 - [【开发者头条】2022-05-20-推荐-跨Mysql、Redis、Mongo的分布式事务](https://toutiao.io/k/246clz1) 
 - [【开发者头条】2022-05-20-推荐-ThreadLocal夺命11连问](https://toutiao.io/k/p8lpi5z) 
-- [【开发者头条】2022-05-20-推荐-架构设计资料合集](https://toutiao.io/k/iqlrz7b) 
-- [【开发者头条】2022-05-20-推荐-TCP-重传、滑动窗口、流量控制、拥塞控好难？看完图解就不愁了（重制）](https://toutiao.io/k/14tz08l) 
 - [【开发者头条】2022-05-20-推荐-左耳朵耗子：我做系统架构的一些原则](https://toutiao.io/k/9oljc6o) 
+- [【开发者头条】2022-05-20-推荐-TCP-重传、滑动窗口、流量控制、拥塞控好难？看完图解就不愁了（重制）](https://toutiao.io/k/14tz08l) 
 - [【开发者头条】2022-05-20-推荐-聊聊我们是如何做系统保障方案的](https://toutiao.io/k/i8q3ye4) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-05-20 01:04:20，:rocket: 更新条数: +2024， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-05-20 03:05:41，:rocket: 更新条数: +2028， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,26 +491,26 @@
 </summary>
 
 
-- [2022-05-20-iPhone12-还可以再战几年](https://www.v2ex.com/t/854065) ![](assets/new.png)  
-- [2022-05-20-有没有那种提需求的网站？生活中或者网上遇到的问题。](https://www.v2ex.com/t/854064) ![](assets/new.png)  
-- [2022-05-20-关于-figma-的单位](https://www.v2ex.com/t/854062) ![](assets/new.png)  
-- [2022-05-20-共享单车的调度机制是？](https://www.v2ex.com/t/854061) ![](assets/new.png)  
-- [2022-05-20-Siri-对于逻辑关键词的处理](https://www.v2ex.com/t/854060) ![](assets/new.png)  
-- [2022-05-20-腾讯云又又又又挂啦？](https://www.v2ex.com/t/854059) ![](assets/new.png)  
-- [2022-05-20-领取失业金对找下一份工作有不好的影响吗？](https://www.v2ex.com/t/854057) ![](assets/new.png)  
-- [2022-05-20-sony-xm4-降噪效果调查](https://www.v2ex.com/t/854056) ![](assets/new.png)  
-- [2022-05-20-求推荐可以用微信读书的墨水屏阅读器](https://www.v2ex.com/t/854055) ![](assets/new.png)  
-- [2022-05-19-奇怪的需求：全屏时，如何实现不隐藏刘海？](https://www.v2ex.com/t/854054) ![](assets/new.png)  
-- [2022-05-19-收到一些随机地址发来的域名询价邮件，是骗子吗？](https://www.v2ex.com/t/854053) ![](assets/new.png)  
-- [2022-05-19-Linux-和-Mac（偶尔包括-Windows）直接有什么比较合适的同步办法？](https://www.v2ex.com/t/854052) ![](assets/new.png)  
-- [2022-05-19-ios-网页上看外文学英语，有没有能快速收藏单词的工具？](https://www.v2ex.com/t/854051) ![](assets/new.png)  
-- [2022-05-19-Node-异步队列和-MQ-异步队列](https://www.v2ex.com/t/854049) ![](assets/new.png)  
-- [2022-05-19-VS-Code-如何使用-option+方向键-中文跳词](https://www.v2ex.com/t/854048) ![](assets/new.png)  
-- [2022-05-19-为啥-Windows-Server-2022-要把-WSL2-给砍了?](https://www.v2ex.com/t/854047) ![](assets/new.png)  
-- [2022-05-19-中心化的区块链有什么意义？](https://www.v2ex.com/t/854046) ![](assets/new.png)  
-- [2022-05-19-web3-靠谱吗](https://www.v2ex.com/t/854045) ![](assets/new.png)  
-- [2022-05-19-一个-next.js+nest.js+MySQL-的-web-应用,跑在云主机上最低需要多大的配置?](https://www.v2ex.com/t/854044) ![](assets/new.png)  
-- [2022-05-19-最近在写一个服务，需要调用国外的-api，所以想求一台好用的-VPS](https://www.v2ex.com/t/854043) ![](assets/new.png)  
+- [2022-05-20-有人用-m1-的-mac-mini-做-plex-服务器嘛？体验如何？](https://www.v2ex.com/t/854121) ![](assets/new.png)  
+- [2022-05-20-腾讯云云函数-3-个月免费到期即将收费-12-元/月](https://www.v2ex.com/t/854120) ![](assets/new.png)  
+- [2022-05-20-请教关于-Win-下使用-LSI3008-直通卡的问题](https://www.v2ex.com/t/854119) ![](assets/new.png)  
+- [2022-05-20-专注模式里边的“睡眠”和“驾驶”](https://www.v2ex.com/t/854117) ![](assets/new.png)  
+- [2022-05-20-有点惨啊-这个开发者。](https://www.v2ex.com/t/854116) ![](assets/new.png)  
+- [2022-05-20-终端使用了-tmu-后滚动打印状态栏怎么办](https://www.v2ex.com/t/854115) ![](assets/new.png)  
+- [2022-05-20-北京客户端/前端-字节跳动飞书招聘客户端/前端/-Linux-开发工程师](https://www.v2ex.com/t/854114) ![](assets/new.png)  
+- [2022-05-20-iOS-会偷跑流量？](https://www.v2ex.com/t/854113) ![](assets/new.png)  
+- [2022-05-20-妙控板频繁断连](https://www.v2ex.com/t/854112) ![](assets/new.png)  
+- [2022-05-20-想问一下-如果不用考虑钱-你最想做什么工作？](https://www.v2ex.com/t/854111) ![](assets/new.png)  
+- [2022-05-20-todesk-怎么有好几个域名？](https://www.v2ex.com/t/854110) ![](assets/new.png)  
+- [2022-05-20-520-了，想给-96-年的小姨子找个男朋友](https://www.v2ex.com/t/854109) ![](assets/new.png)  
+- [2022-05-20-大家说的-final-cut-pro-和-final-cut-pro-X-是同一个软件吗？](https://www.v2ex.com/t/854108) ![](assets/new.png)  
+- [2022-05-20-跨境-FaceTime-通话接通数分钟后，显示信号不佳，随后挂断](https://www.v2ex.com/t/854107) ![](assets/new.png)  
+- [2022-05-20-mac-os-monterey-的-safari-插件，请大家来推荐一下吧？](https://www.v2ex.com/t/854106) ![](assets/new.png)  
+- [2022-05-20-像刚格式化的硬盘，-0-个对象](https://www.v2ex.com/t/854105) ![](assets/new.png)  
+- [2022-05-20-有没有好看点的-Linux-桌面](https://www.v2ex.com/t/854104) ![](assets/new.png)  
+- [2022-05-20-B-站岗位内推移动端，本人面试官。](https://www.v2ex.com/t/854103) ![](assets/new.png)  
+- [2022-05-20-公安部：清理整治动态-IP-代理服务乱象](https://www.v2ex.com/t/854102) ![](assets/new.png)  
+- [2022-05-20-求各位帮忙看看我的简历有什么问题，好多公司连面试机会也没有，-PHP-开发，-3-年多经验，](https://www.v2ex.com/t/854101) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -558,17 +558,19 @@
 - [2022-05-20-从零开始实现一个深度学习框架-|-当神经网络遇上遗传算法](https://toutiao.io/k/rfh42b2) ![](assets/new.png)  
 - [2022-05-20-实战派-|-Java项目中玩转Redis6.0客户端缓存！](https://toutiao.io/k/k58zozk) ![](assets/new.png)  
 - [2022-05-20-一起看-I/O-|-Jetpack-Compose-中的新特性](https://toutiao.io/k/ik1azh1) ![](assets/new.png)  
-- [2022-05-20-Go-GUI-开发者调查结果：GUI-开发不少](https://toutiao.io/k/9vcc5k5) ![](assets/new.png)  
 - [2022-05-20-做一个好的程序员难吗？只需要这10个习惯](https://toutiao.io/k/bryptgy) ![](assets/new.png)  
+- [2022-05-20-Go-GUI-开发者调查结果：GUI-开发不少](https://toutiao.io/k/9vcc5k5) ![](assets/new.png)  
 - [2022-05-20-2022万向区块链春季黑客马拉松赛题及奖励详解](https://toutiao.io/k/ynwunzo) ![](assets/new.png)  
-- [2022-05-20-争夺存量用户关键战，助力企业构建完美标签体系丨01期直播回顾](https://toutiao.io/k/gaepi3a) ![](assets/new.png)  
 - [2022-05-20-PingCAP-Clinic-服务：贯穿云上云下的-TiDB-集群诊断服务](https://toutiao.io/k/cvytuhp) ![](assets/new.png)  
-- [2022-05-20-推荐-左耳朵耗子：我做系统架构的一些原则](https://toutiao.io/k/9oljc6o) ![](assets/new.png)  
-- [2022-05-20-推荐-跨Mysql、Redis、Mongo的分布式事务](https://toutiao.io/k/246clz1) ![](assets/new.png)  
+- [2022-05-20-争夺存量用户关键战，助力企业构建完美标签体系丨01期直播回顾](https://toutiao.io/k/gaepi3a) ![](assets/new.png)  
+- [2022-05-20-携程基于BookKeeper的延迟消息架构落地实践](https://toutiao.io/k/oz34ufd) ![](assets/new.png)  
+- [2022-05-20-开发者的福利---NutUI-vscode-智能提示来了](https://toutiao.io/k/gy69el8) ![](assets/new.png)  
 - [2022-05-20-推荐-架构设计资料合集](https://toutiao.io/k/iqlrz7b) ![](assets/new.png)  
-- [2022-05-20-推荐-ThreadLocal夺命11连问](https://toutiao.io/k/p8lpi5z) ![](assets/new.png)  
-- [2022-05-20-推荐-TCP-重传、滑动窗口、流量控制、拥塞控好难？看完图解就不愁了（重制）](https://toutiao.io/k/14tz08l) ![](assets/new.png)  
 - [2022-05-20-推荐-聊聊我们是如何做系统保障方案的](https://toutiao.io/k/i8q3ye4) ![](assets/new.png)  
+- [2022-05-20-推荐-ThreadLocal夺命11连问](https://toutiao.io/k/p8lpi5z) ![](assets/new.png)  
+- [2022-05-20-推荐-跨Mysql、Redis、Mongo的分布式事务](https://toutiao.io/k/246clz1) ![](assets/new.png)  
+- [2022-05-20-推荐-左耳朵耗子：我做系统架构的一些原则](https://toutiao.io/k/9oljc6o) ![](assets/new.png)  
+- [2022-05-20-推荐-TCP-重传、滑动窗口、流量控制、拥塞控好难？看完图解就不愁了（重制）](https://toutiao.io/k/14tz08l) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

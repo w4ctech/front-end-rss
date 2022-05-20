@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2022-05-20 18:17:43。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-05-20 18:48:04。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-05-20-有-V-友在大石租房吗-啥感受](https://www.v2ex.com/t/854291) 
 - [2022-05-20-如何为-Linux-下的命令设置色彩输出？](https://www.v2ex.com/t/854290) 
 - [2022-05-20-macOS-上有办法在-Chrome-打开-bilibili-时自动用-safari-打开吗](https://www.v2ex.com/t/854289) 
 - [2022-05-20-也许那时还年轻（一）](https://www.v2ex.com/t/854287) 
@@ -43,4 +44,3 @@
 - [2022-05-20-买了个-8-位堂-SN30-Pro-手柄在-Mac-下玩怀旧游戏-RetroArch，但是-HOME-键默认不对劲](https://www.v2ex.com/t/854246) 
 - [2022-05-20-有必要自费换办公设备吗？](https://www.v2ex.com/t/854244) 
 - [2022-05-20-上海/杭州字节跳动飞书视频会议团队各端研发岗位内推](https://www.v2ex.com/t/854243) 
-- [2022-05-20-区块链理财平台-招-go/-Java-/android/ios/智能合约/测试/运维/产品](https://www.v2ex.com/t/854241) 

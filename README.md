@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-05-20 07:14:00，:rocket: 更新条数: +2030， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-05-20 07:39:47，:rocket: 更新条数: +2032， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,17 @@
 </summary>
 
 
+- [2022-05-20-MacBook-Air-键盘上架设机械键盘使用，但键盘底座常常误触-MBA-的键盘，有什么解决手段吗？](https://www.v2ex.com/t/854197) ![](assets/new.png)  
+- [2022-05-20-定义了一个泛型类,-有什么办法能将一个泛型类实例赋值给未指定泛型的泛型类吗?-类似-Java-里的-List-=-new-ArrayList<String>](https://www.v2ex.com/t/854196) ![](assets/new.png)  
+- [2022-05-20-有知道-peertube-这个开源的-p2p-视频点播吗，国内有人用吗？](https://www.v2ex.com/t/854195) ![](assets/new.png)  
+- [2022-05-20-彭博社：苹果向董事会展示-AR/VR-头显，可能即将发布](https://www.v2ex.com/t/854194) ![](assets/new.png)  
+- [2022-05-20-各位《爱，死亡和机器人》，第三季刚刚更新了](https://www.v2ex.com/t/854193) ![](assets/new.png)  
+- [2022-05-20-想找一个加拿大本土的女朋友！](https://www.v2ex.com/t/854192) ![](assets/new.png)  
+- [2022-05-20-HK-似乎要封-telegram-了](https://www.v2ex.com/t/854191) ![](assets/new.png)  
+- [2022-05-20-有没有办法导出百度网盘里的文件名?](https://www.v2ex.com/t/854190) ![](assets/new.png)  
+- [2022-05-20-知乎大佬-StackOverflow-大佬-来领钱了-空投](https://www.v2ex.com/t/854189) ![](assets/new.png)  
+- [2022-05-20-Bing-移动端的搜索字体突然变得很大](https://www.v2ex.com/t/854188) ![](assets/new.png)  
+- [2022-05-20-有用过-MasterGo-的朋友知道如何文字竖排吗？不是旋转（方向不对）或换行（行间距不对）](https://www.v2ex.com/t/854187) ![](assets/new.png)  
 - [2022-05-20-海外-全远程办公-Nervape-招聘区块链应用开发工程师/智能合约开发工程师](https://www.v2ex.com/t/854186) ![](assets/new.png)  
 - [2022-05-20-Beyond-Compare-4，算是我买的一个比较良心的软件](https://www.v2ex.com/t/854185) ![](assets/new.png)  
 - [2022-05-20-开源之夏-csoc-，大佬请进](https://www.v2ex.com/t/854184) ![](assets/new.png)  
@@ -500,17 +511,6 @@
 - [2022-05-20-为什么手机端的播客没法加载浏览页面，-Mac-端和-iPad-端都没问题](https://www.v2ex.com/t/854180) ![](assets/new.png)  
 - [2022-05-20-刚发车的-Switch-Online-+-扩展包-高级会员-快上车](https://www.v2ex.com/t/854179) ![](assets/new.png)  
 - [2022-05-20-离开了程序员的工作，你还会怎么利用编程的技能？](https://www.v2ex.com/t/854178) ![](assets/new.png)  
-- [2022-05-20-大家小程序、app-生成分享图片用的什么方法？](https://www.v2ex.com/t/854176) ![](assets/new.png)  
-- [2022-05-20-有学习五笔的-v2er-吗？我开发了一款五笔编码查询软件（iOS）](https://www.v2ex.com/t/854173) ![](assets/new.png)  
-- [2022-05-20-求职杭州/成都Android/Flutter-开发](https://www.v2ex.com/t/854171) ![](assets/new.png)  
-- [2022-05-20-自己组装的台式放在公司-7*24h-开机-装了机械硬盘-要不要配一个-UPS](https://www.v2ex.com/t/854169) ![](assets/new.png)  
-- [2022-05-20-Microsoft-Edge-默认开启自动从-Google-Chrome-导入数据的功能](https://www.v2ex.com/t/854168) ![](assets/new.png)  
-- [2022-05-20-大家是否有买过大宇的小方糖](https://www.v2ex.com/t/854167) ![](assets/new.png)  
-- [2022-05-20-想把困在家里的小女朋友送去赚钱（大雾），想把她引去学-UI-设计/产品经理，有没有大佬推荐一下学习路径呢？](https://www.v2ex.com/t/854166) ![](assets/new.png)  
-- [2022-05-20-求机场推荐](https://www.v2ex.com/t/854165) ![](assets/new.png)  
-- [2022-05-20-如何在-30-分钟完成表格增删改查的前后端框架搭建](https://www.v2ex.com/t/854164) ![](assets/new.png)  
-- [2022-05-20-微信让图片过期到底是什么目的？](https://www.v2ex.com/t/854163) ![](assets/new.png)  
-- [2022-05-20-有人用-F-Droid-吗？](https://www.v2ex.com/t/854162) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -569,10 +569,10 @@
 - [2022-05-20-温故知新——领域驱动设计](https://toutiao.io/k/vdnbnlz) ![](assets/new.png)  
 - [2022-05-20-构建与部署的脚本化](https://toutiao.io/k/vqt08ms) ![](assets/new.png)  
 - [2022-05-20-性能优化之全面图片改造方案](https://toutiao.io/k/ijir5m4) ![](assets/new.png)  
-- [2022-05-20-推荐-聊聊我们是如何做系统保障方案的](https://toutiao.io/k/i8q3ye4) ![](assets/new.png)  
 - [2022-05-20-推荐-跨Mysql、Redis、Mongo的分布式事务](https://toutiao.io/k/246clz1) ![](assets/new.png)  
+- [2022-05-20-推荐-ThreadLocal夺命11连问](https://toutiao.io/k/p8lpi5z) ![](assets/new.png)  
 - [2022-05-20-推荐-TCP-重传、滑动窗口、流量控制、拥塞控好难？看完图解就不愁了（重制）](https://toutiao.io/k/14tz08l) ![](assets/new.png)  
-- [2022-05-20-推荐-架构设计资料合集](https://toutiao.io/k/iqlrz7b) ![](assets/new.png)  
+- [2022-05-20-推荐-聊聊我们是如何做系统保障方案的](https://toutiao.io/k/i8q3ye4) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

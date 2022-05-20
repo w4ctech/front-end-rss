@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-05-20 06:49:52。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-05-20 07:14:00。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -69,6 +69,15 @@
 
 
 - [【张鑫旭-鑫空间-鑫生活】2022-05-11-JS与条形码的生成](https://www.zhangxinxu.com/wordpress/2022/05/js-barcode/) 
+- [【V2EX】2022-05-20-海外-全远程办公-Nervape-招聘区块链应用开发工程师/智能合约开发工程师](https://www.v2ex.com/t/854186) 
+- [【V2EX】2022-05-20-Beyond-Compare-4，算是我买的一个比较良心的软件](https://www.v2ex.com/t/854185) 
+- [【V2EX】2022-05-20-开源之夏-csoc-，大佬请进](https://www.v2ex.com/t/854184) 
+- [【V2EX】2022-05-20-chrome-最新版-101.0.4951.67-底部状态栏图标丢失？](https://www.v2ex.com/t/854183) 
+- [【V2EX】2022-05-20-深圳-微众银行首家互联网银行-Web-前端招人中-25k---50k](https://www.v2ex.com/t/854182) 
+- [【V2EX】2022-05-20-触摸板掉色有遇到的吗？](https://www.v2ex.com/t/854181) 
+- [【V2EX】2022-05-20-为什么手机端的播客没法加载浏览页面，-Mac-端和-iPad-端都没问题](https://www.v2ex.com/t/854180) 
+- [【V2EX】2022-05-20-刚发车的-Switch-Online-+-扩展包-高级会员-快上车](https://www.v2ex.com/t/854179) 
+- [【V2EX】2022-05-20-离开了程序员的工作，你还会怎么利用编程的技能？](https://www.v2ex.com/t/854178) 
 - [【V2EX】2022-05-20-大家小程序、app-生成分享图片用的什么方法？](https://www.v2ex.com/t/854176) 
 - [【V2EX】2022-05-20-有学习五笔的-v2er-吗？我开发了一款五笔编码查询软件（iOS）](https://www.v2ex.com/t/854173) 
 - [【V2EX】2022-05-20-求职杭州/成都Android/Flutter-开发](https://www.v2ex.com/t/854171) 
@@ -102,14 +111,6 @@
 - [【V2EX】2022-05-20-6-年前端找工作](https://www.v2ex.com/t/854139) 
 - [【V2EX】2022-05-20-想找一个常州的女朋友！](https://www.v2ex.com/t/854138) 
 - [【V2EX】2022-05-20-观大佬的信息传播理论文章，对区块链相关的感想。](https://www.v2ex.com/t/854137) 
-- [【V2EX】2022-05-20-想把硬盘录像机中的一段视频截取出来，然后公网访问有什么好的方案？](https://www.v2ex.com/t/854136) 
-- [【V2EX】2022-05-20-陷入焦虑时，你都是怎么走出来的](https://www.v2ex.com/t/854135) 
-- [【V2EX】2022-05-20-开源/远程-RSS3-提供最酷最理想最自由的工作-|-智能合约，全栈，后端-Golang，安卓，-UI/UX-设计](https://www.v2ex.com/t/854134) 
-- [【V2EX】2022-05-20-WebStorm-代码自动完成的时候如何设置-css-的属性值冒号之后，不加空格，可以设置实现吗？](https://www.v2ex.com/t/854132) 
-- [【V2EX】2022-05-20-Goland-debug-go-代码只能查看属性，调用方法就报错](https://www.v2ex.com/t/854131) 
-- [【V2EX】2022-05-20-5-年期以上-LPR-下降-15BP-至-4.45](https://www.v2ex.com/t/854130) 
-- [【V2EX】2022-05-20-大佬们多多推荐杭州美食](https://www.v2ex.com/t/854129) 
-- [【V2EX】2022-05-20-520，解锁开发者的专属浪漫](https://www.v2ex.com/t/854128) 
 - [【技术头条】2022-05-20-Wallys-QCN9074/-11ax-/4x4-MU-MIMO-/2.4G-M.2-www.wallystech.com](https://blogread.cn/news/go.php?idItem=15094&url=https%3A%2F%2Fwww.wallystech.com%2FNetwork_Card%2FDR9074-2.4G-PN01.1-Wifi-6-Qualcomm-QCN9074-Single-Band-2.4-GHz-4T4R-M.2-E-Key-Interface-802.11ax.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-05-20-谨慎！糟糕程序员的编程风格查看-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15093&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494024%26amp%3Bidx%3D1%26amp%3Bsn%3Dd142644804a8e87dcb91ffaf3ecc07e2%26amp%3Bchksm%3Dfa3f08d3cd4881c5cb3a3a32aa85ab93627ba49c8bcf1a6ada6e7835c0eb606dfc861820b4b2%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-05-20-MySQL5.7-vs-8.0，哪个性能更牛？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15092&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494024%26amp%3Bidx%3D2%26amp%3Bsn%3Da60d74981373759bb63f480296e5564d%26amp%3Bchksm%3Dfa3f08d3cd4881c50f6364e287ee82d2bd56d9e4b01b037f44ae0c247d30c49ea536581e061e%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -137,21 +138,21 @@
 - [【开发者头条】2022-05-20-从零开始实现一个深度学习框架-|-当神经网络遇上遗传算法](https://toutiao.io/k/rfh42b2) 
 - [【开发者头条】2022-05-20-一起看-I/O-|-Jetpack-Compose-中的新特性](https://toutiao.io/k/ik1azh1) 
 - [【开发者头条】2022-05-20-Go-GUI-开发者调查结果：GUI-开发不少](https://toutiao.io/k/9vcc5k5) 
+- [【开发者头条】2022-05-20-携程基于BookKeeper的延迟消息架构落地实践](https://toutiao.io/k/oz34ufd) 
 - [【开发者头条】2022-05-20-争夺存量用户关键战，助力企业构建完美标签体系丨01期直播回顾](https://toutiao.io/k/gaepi3a) 
 - [【开发者头条】2022-05-20-2022万向区块链春季黑客马拉松赛题及奖励详解](https://toutiao.io/k/ynwunzo) 
 - [【开发者头条】2022-05-20-PingCAP-Clinic-服务：贯穿云上云下的-TiDB-集群诊断服务](https://toutiao.io/k/cvytuhp) 
-- [【开发者头条】2022-05-20-携程基于BookKeeper的延迟消息架构落地实践](https://toutiao.io/k/oz34ufd) 
 - [【开发者头条】2022-05-20-开发者的福利---NutUI-vscode-智能提示来了](https://toutiao.io/k/gy69el8) 
 - [【开发者头条】2022-05-20-关于技术能力的思考和总结](https://toutiao.io/k/o5uzf4g) 
 - [【开发者头条】2022-05-20-温故知新——领域驱动设计](https://toutiao.io/k/vdnbnlz) 
 - [【开发者头条】2022-05-20-构建与部署的脚本化](https://toutiao.io/k/vqt08ms) 
 - [【开发者头条】2022-05-20-性能优化之全面图片改造方案](https://toutiao.io/k/ijir5m4) 
-- [【开发者头条】2022-05-20-推荐-架构设计资料合集](https://toutiao.io/k/iqlrz7b) 
+- [【开发者头条】2022-05-20-推荐-聊聊我们是如何做系统保障方案的](https://toutiao.io/k/i8q3ye4) 
 - [【开发者头条】2022-05-20-推荐-跨Mysql、Redis、Mongo的分布式事务](https://toutiao.io/k/246clz1) 
+- [【开发者头条】2022-05-20-推荐-TCP-重传、滑动窗口、流量控制、拥塞控好难？看完图解就不愁了（重制）](https://toutiao.io/k/14tz08l) 
+- [【开发者头条】2022-05-20-推荐-架构设计资料合集](https://toutiao.io/k/iqlrz7b) 
 - [【开发者头条】2022-05-20-推荐-ThreadLocal夺命11连问](https://toutiao.io/k/p8lpi5z) 
 - [【开发者头条】2022-05-20-推荐-左耳朵耗子：我做系统架构的一些原则](https://toutiao.io/k/9oljc6o) 
-- [【开发者头条】2022-05-20-推荐-TCP-重传、滑动窗口、流量控制、拥塞控好难？看完图解就不愁了（重制）](https://toutiao.io/k/14tz08l) 
-- [【开发者头条】2022-05-20-推荐-聊聊我们是如何做系统保障方案的](https://toutiao.io/k/i8q3ye4) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

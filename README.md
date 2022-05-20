@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-05-20 06:49:52，:rocket: 更新条数: +2029， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-05-20 07:14:00，:rocket: 更新条数: +2030， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,15 @@
 </summary>
 
 
+- [2022-05-20-海外-全远程办公-Nervape-招聘区块链应用开发工程师/智能合约开发工程师](https://www.v2ex.com/t/854186) ![](assets/new.png)  
+- [2022-05-20-Beyond-Compare-4，算是我买的一个比较良心的软件](https://www.v2ex.com/t/854185) ![](assets/new.png)  
+- [2022-05-20-开源之夏-csoc-，大佬请进](https://www.v2ex.com/t/854184) ![](assets/new.png)  
+- [2022-05-20-chrome-最新版-101.0.4951.67-底部状态栏图标丢失？](https://www.v2ex.com/t/854183) ![](assets/new.png)  
+- [2022-05-20-深圳-微众银行首家互联网银行-Web-前端招人中-25k---50k](https://www.v2ex.com/t/854182) ![](assets/new.png)  
+- [2022-05-20-触摸板掉色有遇到的吗？](https://www.v2ex.com/t/854181) ![](assets/new.png)  
+- [2022-05-20-为什么手机端的播客没法加载浏览页面，-Mac-端和-iPad-端都没问题](https://www.v2ex.com/t/854180) ![](assets/new.png)  
+- [2022-05-20-刚发车的-Switch-Online-+-扩展包-高级会员-快上车](https://www.v2ex.com/t/854179) ![](assets/new.png)  
+- [2022-05-20-离开了程序员的工作，你还会怎么利用编程的技能？](https://www.v2ex.com/t/854178) ![](assets/new.png)  
 - [2022-05-20-大家小程序、app-生成分享图片用的什么方法？](https://www.v2ex.com/t/854176) ![](assets/new.png)  
 - [2022-05-20-有学习五笔的-v2er-吗？我开发了一款五笔编码查询软件（iOS）](https://www.v2ex.com/t/854173) ![](assets/new.png)  
 - [2022-05-20-求职杭州/成都Android/Flutter-开发](https://www.v2ex.com/t/854171) ![](assets/new.png)  
@@ -502,15 +511,6 @@
 - [2022-05-20-如何在-30-分钟完成表格增删改查的前后端框架搭建](https://www.v2ex.com/t/854164) ![](assets/new.png)  
 - [2022-05-20-微信让图片过期到底是什么目的？](https://www.v2ex.com/t/854163) ![](assets/new.png)  
 - [2022-05-20-有人用-F-Droid-吗？](https://www.v2ex.com/t/854162) ![](assets/new.png)  
-- [2022-05-20-真的有外星人吗？有没有人遇到过什么灵异事件](https://www.v2ex.com/t/854161) ![](assets/new.png)  
-- [2022-05-20-大家从哪里获取日常信息？常见的渠道质量太杂](https://www.v2ex.com/t/854160) ![](assets/new.png)  
-- [2022-05-20-Klang-量化知识分享会---第-2-期-数据科学-视频回放](https://www.v2ex.com/t/854159) ![](assets/new.png)  
-- [2022-05-20-各位是先买房再结婚还是先结婚在买房](https://www.v2ex.com/t/854158) ![](assets/new.png)  
-- [2022-05-20-比尔盖茨在-r/IAmA-板块与网友交流，回应了与恋童癖富豪来往的传闻](https://www.v2ex.com/t/854157) ![](assets/new.png)  
-- [2022-05-20-gnome-有什么好用的任务管理器吗？](https://www.v2ex.com/t/854156) ![](assets/new.png)  
-- [2022-05-20-读书破万卷，下笔如有神](https://www.v2ex.com/t/854155) ![](assets/new.png)  
-- [2022-05-20-求解惑，求安慰。是互联网行业的人都躺平了，还是我们的产品没有吸引力？](https://www.v2ex.com/t/854154) ![](assets/new.png)  
-- [2022-05-20-有没有像-Reeder-一样支持-iCloud-同步的播客客户端](https://www.v2ex.com/t/854152) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -560,19 +560,19 @@
 - [2022-05-20-从零开始实现一个深度学习框架-|-当神经网络遇上遗传算法](https://toutiao.io/k/rfh42b2) ![](assets/new.png)  
 - [2022-05-20-一起看-I/O-|-Jetpack-Compose-中的新特性](https://toutiao.io/k/ik1azh1) ![](assets/new.png)  
 - [2022-05-20-Go-GUI-开发者调查结果：GUI-开发不少](https://toutiao.io/k/9vcc5k5) ![](assets/new.png)  
+- [2022-05-20-携程基于BookKeeper的延迟消息架构落地实践](https://toutiao.io/k/oz34ufd) ![](assets/new.png)  
 - [2022-05-20-争夺存量用户关键战，助力企业构建完美标签体系丨01期直播回顾](https://toutiao.io/k/gaepi3a) ![](assets/new.png)  
 - [2022-05-20-2022万向区块链春季黑客马拉松赛题及奖励详解](https://toutiao.io/k/ynwunzo) ![](assets/new.png)  
 - [2022-05-20-PingCAP-Clinic-服务：贯穿云上云下的-TiDB-集群诊断服务](https://toutiao.io/k/cvytuhp) ![](assets/new.png)  
-- [2022-05-20-携程基于BookKeeper的延迟消息架构落地实践](https://toutiao.io/k/oz34ufd) ![](assets/new.png)  
 - [2022-05-20-开发者的福利---NutUI-vscode-智能提示来了](https://toutiao.io/k/gy69el8) ![](assets/new.png)  
 - [2022-05-20-关于技术能力的思考和总结](https://toutiao.io/k/o5uzf4g) ![](assets/new.png)  
 - [2022-05-20-温故知新——领域驱动设计](https://toutiao.io/k/vdnbnlz) ![](assets/new.png)  
 - [2022-05-20-构建与部署的脚本化](https://toutiao.io/k/vqt08ms) ![](assets/new.png)  
 - [2022-05-20-性能优化之全面图片改造方案](https://toutiao.io/k/ijir5m4) ![](assets/new.png)  
-- [2022-05-20-推荐-架构设计资料合集](https://toutiao.io/k/iqlrz7b) ![](assets/new.png)  
+- [2022-05-20-推荐-聊聊我们是如何做系统保障方案的](https://toutiao.io/k/i8q3ye4) ![](assets/new.png)  
 - [2022-05-20-推荐-跨Mysql、Redis、Mongo的分布式事务](https://toutiao.io/k/246clz1) ![](assets/new.png)  
-- [2022-05-20-推荐-ThreadLocal夺命11连问](https://toutiao.io/k/p8lpi5z) ![](assets/new.png)  
-- [2022-05-20-推荐-左耳朵耗子：我做系统架构的一些原则](https://toutiao.io/k/9oljc6o) ![](assets/new.png)  
+- [2022-05-20-推荐-TCP-重传、滑动窗口、流量控制、拥塞控好难？看完图解就不愁了（重制）](https://toutiao.io/k/14tz08l) ![](assets/new.png)  
+- [2022-05-20-推荐-架构设计资料合集](https://toutiao.io/k/iqlrz7b) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

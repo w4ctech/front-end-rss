@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-05-20 14:13:16，:rocket: 更新条数: +2026， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-05-20 14:40:00，:rocket: 更新条数: +2027， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,10 @@
 </summary>
 
 
+- [2022-05-20-VSCode-中有没有类似-HBuilderX-一样的代码提示示例方法显示中文的设置方法或者插件推荐？](https://www.v2ex.com/t/854271) ![](assets/new.png)  
+- [2022-05-20-利用微软的语音-API-创作了一款文字语音-app，大家有什么反馈呢？](https://www.v2ex.com/t/854270) ![](assets/new.png)  
+- [2022-05-20-电视上看浏览器视频有啥好的解决方案吗？](https://www.v2ex.com/t/854269) ![](assets/new.png)  
+- [2022-05-20-intellij-IDE-怎么做到插件动态加载的（无需重启-IDE-生效）](https://www.v2ex.com/t/854268) ![](assets/new.png)  
 - [2022-05-20-pygame-Linux-如何设置中文?](https://www.v2ex.com/t/854267) ![](assets/new.png)  
 - [2022-05-20-自己搭的工具网站-里面有常用的一些工具-www.gongjudashi.com](https://www.v2ex.com/t/854265) ![](assets/new.png)  
 - [2022-05-20-不知道房租到期之前能不能解封出去租房](https://www.v2ex.com/t/854264) ![](assets/new.png)  
@@ -507,10 +511,6 @@
 - [2022-05-20-#-跨境电商独角兽-SHEIN-希音持续招人！国内-IOS、安卓、-Java-、产品经理急招！新加坡研发中心福利更是超级加倍！更多信息请点进来了解下啦！](https://www.v2ex.com/t/854251) ![](assets/new.png)  
 - [2022-05-20-有什么好用的跨平台同步文件软件吗？](https://www.v2ex.com/t/854249) ![](assets/new.png)  
 - [2022-05-20-go-里的预先写一堆-`_-type-=-struct{}`-的目的是什么](https://www.v2ex.com/t/854247) ![](assets/new.png)  
-- [2022-05-20-买了个-8-位堂-SN30-Pro-手柄在-Mac-下玩怀旧游戏-RetroArch，但是-HOME-键默认不对劲](https://www.v2ex.com/t/854246) ![](assets/new.png)  
-- [2022-05-20-有必要自费换办公设备吗？](https://www.v2ex.com/t/854244) ![](assets/new.png)  
-- [2022-05-20-上海/杭州字节跳动飞书视频会议团队各端研发岗位内推](https://www.v2ex.com/t/854243) ![](assets/new.png)  
-- [2022-05-20-区块链理财平台-招-go/-Java-/android/ios/智能合约/测试/运维/产品](https://www.v2ex.com/t/854241) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -564,13 +564,13 @@
 - [2022-05-20-Go-GUI-开发者调查结果：GUI-开发不少](https://toutiao.io/k/9vcc5k5) ![](assets/new.png)  
 - [2022-05-20-争夺存量用户关键战，助力企业构建完美标签体系丨01期直播回顾](https://toutiao.io/k/gaepi3a) ![](assets/new.png)  
 - [2022-05-20-2022万向区块链春季黑客马拉松赛题及奖励详解](https://toutiao.io/k/ynwunzo) ![](assets/new.png)  
-- [2022-05-20-PingCAP-Clinic-服务：贯穿云上云下的-TiDB-集群诊断服务](https://toutiao.io/k/cvytuhp) ![](assets/new.png)  
 - [2022-05-20-构建与部署的脚本化](https://toutiao.io/k/vqt08ms) ![](assets/new.png)  
+- [2022-05-20-PingCAP-Clinic-服务：贯穿云上云下的-TiDB-集群诊断服务](https://toutiao.io/k/cvytuhp) ![](assets/new.png)  
 - [2022-05-20-开发者的福利---NutUI-vscode-智能提示来了](https://toutiao.io/k/gy69el8) ![](assets/new.png)  
 - [2022-05-20-温故知新——领域驱动设计](https://toutiao.io/k/vdnbnlz) ![](assets/new.png)  
 - [2022-05-20-性能优化之全面图片改造方案](https://toutiao.io/k/ijir5m4) ![](assets/new.png)  
 - [2022-05-20-推荐-架构设计资料合集](https://toutiao.io/k/iqlrz7b) ![](assets/new.png)  
-- [2022-05-20-推荐-聊聊我们是如何做系统保障方案的](https://toutiao.io/k/i8q3ye4) ![](assets/new.png)  
+- [2022-05-20-推荐-ThreadLocal夺命11连问](https://toutiao.io/k/p8lpi5z) ![](assets/new.png)  
 - [2022-05-20-推荐-跨Mysql、Redis、Mongo的分布式事务](https://toutiao.io/k/246clz1) ![](assets/new.png)  
 - [2022-05-20-推荐-左耳朵耗子：我做系统架构的一些原则](https://toutiao.io/k/9oljc6o) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)

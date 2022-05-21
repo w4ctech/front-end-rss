@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-05-21 13:03:03。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-05-21 13:34:52。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -69,6 +69,8 @@
 
 
 - [【张鑫旭-鑫空间-鑫生活】2022-05-11-JS与条形码的生成](https://www.zhangxinxu.com/wordpress/2022/05/js-barcode/) 
+- [【V2EX】2022-05-21-最近联想-thinkbook-蓝屏掉-sn550-的-D-盘，以前好像蓝屏不掉盘，-dmp-文件帮忙看看](https://www.v2ex.com/t/854381) 
+- [【V2EX】2022-05-21-ESP32-C3-廉价好玩，但是搞不定图形界面](https://www.v2ex.com/t/854380) 
 - [【V2EX】2022-05-21-支持全文搜索的网页保存、批注、稍后阅工具（100%-离线、无服务器、非订阅）](https://www.v2ex.com/t/854379) 
 - [【V2EX】2022-05-21-cdn.bytedance.com-上的-cdnjs-镜像已经有一个多月没有更新了。](https://www.v2ex.com/t/854378) 
 - [【V2EX】2022-05-21-一直不理解-quantumult-x-为何不支持-widget](https://www.v2ex.com/t/854377) 
@@ -108,8 +110,6 @@
 - [【V2EX】2022-05-21-有没有比较好一点的记账软件推荐？](https://www.v2ex.com/t/854334) 
 - [【V2EX】2022-05-21-妙控键盘-21-款能禁止锁屏键吗？](https://www.v2ex.com/t/854333) 
 - [【V2EX】2022-05-21-suricata-读-pcap-包的问题](https://www.v2ex.com/t/854332) 
-- [【V2EX】2022-05-21-Nextcloud-怎么定期备份，已经未来万一机器故障换机器如何恢复？](https://www.v2ex.com/t/854331) 
-- [【V2EX】2022-05-21-两块显卡输出到同一个显示器](https://www.v2ex.com/t/854330) 
 - [【技术头条】2022-05-21-Wallys-QCN9074/-11ax-/4x4-MU-MIMO-/2.4G-M.2-www.wallystech.com](https://blogread.cn/news/go.php?idItem=15094&url=https%3A%2F%2Fwww.wallystech.com%2FNetwork_Card%2FDR9074-2.4G-PN01.1-Wifi-6-Qualcomm-QCN9074-Single-Band-2.4-GHz-4T4R-M.2-E-Key-Interface-802.11ax.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-05-21-谨慎！糟糕程序员的编程风格查看-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15093&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494024%26amp%3Bidx%3D1%26amp%3Bsn%3Dd142644804a8e87dcb91ffaf3ecc07e2%26amp%3Bchksm%3Dfa3f08d3cd4881c5cb3a3a32aa85ab93627ba49c8bcf1a6ada6e7835c0eb606dfc861820b4b2%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-05-21-MySQL5.7-vs-8.0，哪个性能更牛？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15092&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494024%26amp%3Bidx%3D2%26amp%3Bsn%3Da60d74981373759bb63f480296e5564d%26amp%3Bchksm%3Dfa3f08d3cd4881c50f6364e287ee82d2bd56d9e4b01b037f44ae0c247d30c49ea536581e061e%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -141,12 +141,12 @@
 - [【开发者头条】2022-05-21-一起看-I/O-|-全新-Google-Play-SDK-索引助您为应用选择合适的-SDK](https://toutiao.io/k/jl8ltod) 
 - [【开发者头条】2022-05-21-怎样提高报表呈现的性能](https://toutiao.io/k/12v6nqf) 
 - [【开发者头条】2022-05-21-etcd-raft-模块如何实现分布式一致性？](https://toutiao.io/k/0o6t1yg) 
-- [【开发者头条】2022-05-21-推荐-跨Mysql、Redis、Mongo的分布式事务](https://toutiao.io/k/246clz1) 
-- [【开发者头条】2022-05-21-推荐-聊聊我们是如何做系统保障方案的](https://toutiao.io/k/i8q3ye4) 
-- [【开发者头条】2022-05-21-推荐-左耳朵耗子：我做系统架构的一些原则](https://toutiao.io/k/9oljc6o) 
-- [【开发者头条】2022-05-21-推荐-TCP-重传、滑动窗口、流量控制、拥塞控好难？看完图解就不愁了（重制）](https://toutiao.io/k/14tz08l) 
 - [【开发者头条】2022-05-21-推荐-架构设计资料合集](https://toutiao.io/k/iqlrz7b) 
 - [【开发者头条】2022-05-21-推荐-ThreadLocal夺命11连问](https://toutiao.io/k/p8lpi5z) 
+- [【开发者头条】2022-05-21-推荐-跨Mysql、Redis、Mongo的分布式事务](https://toutiao.io/k/246clz1) 
+- [【开发者头条】2022-05-21-推荐-TCP-重传、滑动窗口、流量控制、拥塞控好难？看完图解就不愁了（重制）](https://toutiao.io/k/14tz08l) 
+- [【开发者头条】2022-05-21-推荐-左耳朵耗子：我做系统架构的一些原则](https://toutiao.io/k/9oljc6o) 
+- [【开发者头条】2022-05-21-推荐-聊聊我们是如何做系统保障方案的](https://toutiao.io/k/i8q3ye4) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

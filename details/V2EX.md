@@ -1,10 +1,15 @@
-:alarm_clock: 更新时间: 2022-05-21 14:39:04。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-05-21 15:15:12。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-05-21-如何使用-Excel-计算-2-个日期的差值，以**年**天为格式](https://www.v2ex.com/t/854397) 
+- [2022-05-21-几个纯静态网页的网站，希望国内外访问都尽可能快，采用什么解决方案？](https://www.v2ex.com/t/854396) 
+- [2022-05-21-目前-windows-平台有哪些好用的-ocr-识别软件？](https://www.v2ex.com/t/854395) 
+- [2022-05-21-前端项目快速部署工具---simple-sftp-uploader](https://www.v2ex.com/t/854392) 
+- [2022-05-21-人在上海，要么润要么-G](https://www.v2ex.com/t/854390) 
 - [2022-05-21-最新-12.4-21F79版本外接显示器能自动开启-HiDPI](https://www.v2ex.com/t/854388) 
 - [2022-05-21-自组-Linux-Server-奇怪问题，请大家帮忙诊断](https://www.v2ex.com/t/854387) 
 - [2022-05-21-小米手环是否有戴在手指上的配件？](https://www.v2ex.com/t/854386) 
@@ -38,11 +43,3 @@
 - [2022-05-21-office365-长期车，空出一个车位](https://www.v2ex.com/t/854351) 
 - [2022-05-21-YouTube-阿根廷家庭组拼车](https://www.v2ex.com/t/854350) 
 - [2022-05-21-最近在学习研究-Google-voice，如何拥有一个稳定优质的美国-IP？](https://www.v2ex.com/t/854349) 
-- [2022-05-21-动手写一个-Hugo-博客主题（性能篇）](https://www.v2ex.com/t/854347) 
-- [2022-05-21-macOS-平台有类似-NSSM.exe-的、可以轻松把长期运行的命令行程序封装为后台服务的-App-吗？](https://www.v2ex.com/t/854346) 
-- [2022-05-21-关于-jetbrains-Theme，前两天看大家讨论的很火热-关于-VSCode-Theme](https://www.v2ex.com/t/854345) 
-- [2022-05-21-新人刚入手-PS5，想问问大佬们如何能尽可能发挥它的娱乐性？](https://www.v2ex.com/t/854344) 
-- [2022-05-21-吐槽！瀏覽器的一些原生命令真的好多-bug](https://www.v2ex.com/t/854343) 
-- [2022-05-21-信息发布类小程序是否会被监管或者必须要有相关运营资质](https://www.v2ex.com/t/854342) 
-- [2022-05-21-有没有-WeChat-for-Mac-的历史版本？](https://www.v2ex.com/t/854341) 
-- [2022-05-21-多少内存够用？](https://www.v2ex.com/t/854340) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-05-21 14:39:04，:rocket: 更新条数: +2024， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-05-21 15:15:12，:rocket: 更新条数: +2021， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,11 @@
 </summary>
 
 
+- [2022-05-21-如何使用-Excel-计算-2-个日期的差值，以**年**天为格式](https://www.v2ex.com/t/854397) ![](assets/new.png)  
+- [2022-05-21-几个纯静态网页的网站，希望国内外访问都尽可能快，采用什么解决方案？](https://www.v2ex.com/t/854396) ![](assets/new.png)  
+- [2022-05-21-目前-windows-平台有哪些好用的-ocr-识别软件？](https://www.v2ex.com/t/854395) ![](assets/new.png)  
+- [2022-05-21-前端项目快速部署工具---simple-sftp-uploader](https://www.v2ex.com/t/854392) ![](assets/new.png)  
+- [2022-05-21-人在上海，要么润要么-G](https://www.v2ex.com/t/854390) ![](assets/new.png)  
 - [2022-05-21-最新-12.4-21F79版本外接显示器能自动开启-HiDPI](https://www.v2ex.com/t/854388) ![](assets/new.png)  
 - [2022-05-21-自组-Linux-Server-奇怪问题，请大家帮忙诊断](https://www.v2ex.com/t/854387) ![](assets/new.png)  
 - [2022-05-21-小米手环是否有戴在手指上的配件？](https://www.v2ex.com/t/854386) ![](assets/new.png)  
@@ -506,11 +511,6 @@
 - [2022-05-21-disney-年费会员](https://www.v2ex.com/t/854376) ![](assets/new.png)  
 - [2022-05-21-在北京的-V-友有打算回老家办公吗](https://www.v2ex.com/t/854374) ![](assets/new.png)  
 - [2022-05-21-索尼-mx5-发不了，准备入手大家咋看](https://www.v2ex.com/t/854373) ![](assets/new.png)  
-- [2022-05-21-今天你们被强制升级阿里旺旺了吗？](https://www.v2ex.com/t/854372) ![](assets/new.png)  
-- [2022-05-21-久坐便血后高烧](https://www.v2ex.com/t/854371) ![](assets/new.png)  
-- [2022-05-21-请问今天-GitHub-的-gif-图片怎么没办法右对齐了？](https://www.v2ex.com/t/854370) ![](assets/new.png)  
-- [2022-05-21-jni-当中对函数使用的-synchronized-native-修饰，锁是对象还是类本身？](https://www.v2ex.com/t/854369) ![](assets/new.png)  
-- [2022-05-21-Colorful-Monorepo-一把瑞士菜刀，-vscode-ext-普通提效。](https://www.v2ex.com/t/854367) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -554,9 +554,9 @@
 
 
 - [2022-05-21-看了同事写的代码，我竟然开始默默的模仿了。。。](https://toutiao.io/k/ggy2fwy) ![](assets/new.png)  
+- [2022-05-21-新手如何调试-MySQL](https://toutiao.io/k/x7de1uo) ![](assets/new.png)  
 - [2022-05-21-《OpenTelemetry可观测性的未来》O'Reilly报告](https://toutiao.io/k/sfot1ck) ![](assets/new.png)  
 - [2022-05-21-官宣｜Apache-Flink-1.15-发布公告！](https://toutiao.io/k/rsfixsg) ![](assets/new.png)  
-- [2022-05-21-新手如何调试-MySQL](https://toutiao.io/k/x7de1uo) ![](assets/new.png)  
 - [2022-05-21-欢迎加入读者圈子，一起交流！](https://toutiao.io/k/juhy4n7) ![](assets/new.png)  
 - [2022-05-21-记一次事故看-Redis-开发规范](https://toutiao.io/k/lm675qi) ![](assets/new.png)  
 - [2022-05-21-Twitter-架构决策](https://toutiao.io/k/zsflz9o) ![](assets/new.png)  
@@ -565,11 +565,11 @@
 - [2022-05-21-怎样提高报表呈现的性能](https://toutiao.io/k/12v6nqf) ![](assets/new.png)  
 - [2022-05-21-etcd-raft-模块如何实现分布式一致性？](https://toutiao.io/k/0o6t1yg) ![](assets/new.png)  
 - [2022-05-21-推荐-左耳朵耗子：我做系统架构的一些原则](https://toutiao.io/k/9oljc6o) ![](assets/new.png)  
-- [2022-05-21-推荐-ThreadLocal夺命11连问](https://toutiao.io/k/p8lpi5z) ![](assets/new.png)  
-- [2022-05-21-推荐-聊聊我们是如何做系统保障方案的](https://toutiao.io/k/i8q3ye4) ![](assets/new.png)  
-- [2022-05-21-推荐-TCP-重传、滑动窗口、流量控制、拥塞控好难？看完图解就不愁了（重制）](https://toutiao.io/k/14tz08l) ![](assets/new.png)  
 - [2022-05-21-推荐-跨Mysql、Redis、Mongo的分布式事务](https://toutiao.io/k/246clz1) ![](assets/new.png)  
+- [2022-05-21-推荐-TCP-重传、滑动窗口、流量控制、拥塞控好难？看完图解就不愁了（重制）](https://toutiao.io/k/14tz08l) ![](assets/new.png)  
+- [2022-05-21-推荐-ThreadLocal夺命11连问](https://toutiao.io/k/p8lpi5z) ![](assets/new.png)  
 - [2022-05-21-推荐-架构设计资料合集](https://toutiao.io/k/iqlrz7b) ![](assets/new.png)  
+- [2022-05-21-推荐-聊聊我们是如何做系统保障方案的](https://toutiao.io/k/i8q3ye4) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-05-21 05:14:15。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-05-21 05:39:45。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -181,6 +181,7 @@
 - [【张鑫旭-鑫空间-鑫生活】CSS实现滚动高度自动变小的粘滞效果](https://www.zhangxinxu.com/wordpress/2022/04/css-sticky-size-change/)
 - [【张鑫旭-鑫空间-鑫生活】基于howler.js写了个音频播放器组件](https://www.zhangxinxu.com/wordpress/2022/03/howler-js-audio-player/)
 - [【张鑫旭-鑫空间-鑫生活】介绍8个和滚动相关的CSS属性](https://www.zhangxinxu.com/wordpress/2022/03/10-css-scroll-scrollbar/)
+- [【V2EX】django-4.1-异步-ORM，异步视图类来了！](https://www.v2ex.com/t/854328)
 - [【V2EX】jsdelivr-挂了么？](https://www.v2ex.com/t/854324)
 - [【V2EX】路由器小包转发能力探讨](https://www.v2ex.com/t/854303)
 - [【V2EX】求个表格补-0-的正则表达式。](https://www.v2ex.com/t/854296)

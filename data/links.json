@@ -9953,6 +9953,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "为什么 live text 需要 A12 以上",
+        "link": "https://www.v2ex.com/t/854419",
+        "date": "2022-05-21"
+      },
+      {
         "title": "请问，国航摩托能刷机吗？看样子性价比很高",
         "link": "https://www.v2ex.com/t/854418",
         "date": "2022-05-21"
@@ -10161,11 +10166,6 @@
         "title": "请问今天 GitHub 的 gif 图片怎么没办法右对齐了？",
         "link": "https://www.v2ex.com/t/854370",
         "date": "2022-05-21"
-      },
-      {
-        "title": "jni 当中对函数使用的 synchronized native 修饰，锁是对象还是类本身？",
-        "link": "https://www.v2ex.com/t/854369",
-        "date": "2022-05-21"
       }
     ]
   },
@@ -10352,8 +10352,8 @@
         "date": "2022-05-21"
       },
       {
-        "title": "[推荐] 跨Mysql、Redis、Mongo的分布式事务",
-        "link": "https://toutiao.io/k/246clz1",
+        "title": "[推荐] ThreadLocal夺命11连问",
+        "link": "https://toutiao.io/k/p8lpi5z",
         "date": "2022-05-21"
       },
       {
@@ -10362,8 +10362,8 @@
         "date": "2022-05-21"
       },
       {
-        "title": "[推荐] ThreadLocal夺命11连问",
-        "link": "https://toutiao.io/k/p8lpi5z",
+        "title": "[推荐] 跨Mysql、Redis、Mongo的分布式事务",
+        "link": "https://toutiao.io/k/246clz1",
         "date": "2022-05-21"
       }
     ]

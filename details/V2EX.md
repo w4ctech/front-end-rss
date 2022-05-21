@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-05-21 20:41:27。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-05-21 21:13:07。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
@@ -27,7 +27,6 @@
 - [2022-05-21-几个纯静态网页的网站，希望国内外访问都尽可能快，采用什么解决方案？](https://www.v2ex.com/t/854396) 
 - [2022-05-21-目前-windows-平台有哪些好用的-ocr-识别软件？](https://www.v2ex.com/t/854395) 
 - [2022-05-21-前端项目快速部署工具---simple-sftp-uploader](https://www.v2ex.com/t/854392) 
-- [2022-05-21-人在上海，要么润要么-G](https://www.v2ex.com/t/854390) 
 - [2022-05-21-最新-12.4-21F79版本外接显示器能自动开启-HiDPI](https://www.v2ex.com/t/854388) 
 - [2022-05-21-自组-Linux-Server-奇怪问题，请大家帮忙诊断](https://www.v2ex.com/t/854387) 
 - [2022-05-21-小米手环是否有戴在手指上的配件？](https://www.v2ex.com/t/854386) 

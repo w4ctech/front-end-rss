@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-05-21 10:43:25。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-05-21 11:12:14。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -204,7 +204,6 @@
 - [【张鑫旭-鑫空间-鑫生活】使用CSS-size-adjust和unicode-range改变任意文字尺寸](https://www.zhangxinxu.com/wordpress/2022/03/css-size-adjust-font-unicode-range/)
 - [【张鑫旭-鑫空间-鑫生活】CSS-accent-color属性简介](https://www.zhangxinxu.com/wordpress/2022/03/css-accent-color/)
 - [【张鑫旭-鑫空间-鑫生活】被低估的border-image属性](https://www.zhangxinxu.com/wordpress/2022/02/css-border-image-tap-highlight/)
-- [【V2EX】Headless-BI-是-BI-未来的发展方向么](https://www.v2ex.com/t/854316)
 - [......【查看更多】......](./details/tags/css.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

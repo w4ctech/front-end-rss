@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-05-21 07:13:37，:rocket: 更新条数: +2027， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-05-21 07:38:59，:rocket: 更新条数: +2027， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,9 @@
 </summary>
 
 
+- [2022-05-21-macOS-平台有类似-NSSM.exe-的、可以轻松把长期运行的命令行程序封装为后台服务的-App-吗？](https://www.v2ex.com/t/854346) ![](assets/new.png)  
+- [2022-05-21-关于-jetbrains-Theme，前两天看大家讨论的很火热-关于-VSCode-Theme](https://www.v2ex.com/t/854345) ![](assets/new.png)  
+- [2022-05-21-新人刚入手-PS5，想问问大佬们如何能尽可能发挥它的娱乐性？](https://www.v2ex.com/t/854344) ![](assets/new.png)  
 - [2022-05-21-吐槽！瀏覽器的一些原生命令真的好多-bug](https://www.v2ex.com/t/854343) ![](assets/new.png)  
 - [2022-05-21-信息发布类小程序是否会被监管或者必须要有相关运营资质](https://www.v2ex.com/t/854342) ![](assets/new.png)  
 - [2022-05-21-有没有-WeChat-for-Mac-的历史版本？](https://www.v2ex.com/t/854341) ![](assets/new.png)  
@@ -508,9 +511,6 @@
 - [2022-05-21-都升级安卓-12-了吗，又收到推送了？到底升不升？](https://www.v2ex.com/t/854327) ![](assets/new.png)  
 - [2022-05-21-macOS-上有没有网络延迟监控工具](https://www.v2ex.com/t/854326) ![](assets/new.png)  
 - [2022-05-21-最近人品极差,-原地气炸,-联想更新-ME-FW-把硬件更新炸了](https://www.v2ex.com/t/854325) ![](assets/new.png)  
-- [2022-05-21-jsdelivr-挂了么？](https://www.v2ex.com/t/854324) ![](assets/new.png)  
-- [2022-05-21-有什么平台能向大型开源项目作者/大厂程序员付费提问技术问题吗？](https://www.v2ex.com/t/854323) ![](assets/new.png)  
-- [2022-05-21-centos8-hosts.allow-deny-无效](https://www.v2ex.com/t/854322) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -558,18 +558,18 @@
 - [2022-05-21-官宣｜Apache-Flink-1.15-发布公告！](https://toutiao.io/k/rsfixsg) ![](assets/new.png)  
 - [2022-05-21-欢迎加入读者圈子，一起交流！](https://toutiao.io/k/juhy4n7) ![](assets/new.png)  
 - [2022-05-21-记一次事故看-Redis-开发规范](https://toutiao.io/k/lm675qi) ![](assets/new.png)  
+- [2022-05-21-新手如何调试-MySQL](https://toutiao.io/k/x7de1uo) ![](assets/new.png)  
 - [2022-05-21-Go-怎么处理项目配置文件？](https://toutiao.io/k/u27dujw) ![](assets/new.png)  
 - [2022-05-21-一起看-I/O-|-全新-Google-Play-SDK-索引助您为应用选择合适的-SDK](https://toutiao.io/k/jl8ltod) ![](assets/new.png)  
-- [2022-05-21-新手如何调试-MySQL](https://toutiao.io/k/x7de1uo) ![](assets/new.png)  
 - [2022-05-21-Twitter-架构决策](https://toutiao.io/k/zsflz9o) ![](assets/new.png)  
-- [2022-05-21-etcd-raft-模块如何实现分布式一致性？](https://toutiao.io/k/0o6t1yg) ![](assets/new.png)  
 - [2022-05-21-怎样提高报表呈现的性能](https://toutiao.io/k/12v6nqf) ![](assets/new.png)  
-- [2022-05-21-推荐-左耳朵耗子：我做系统架构的一些原则](https://toutiao.io/k/9oljc6o) ![](assets/new.png)  
-- [2022-05-21-推荐-ThreadLocal夺命11连问](https://toutiao.io/k/p8lpi5z) ![](assets/new.png)  
-- [2022-05-21-推荐-TCP-重传、滑动窗口、流量控制、拥塞控好难？看完图解就不愁了（重制）](https://toutiao.io/k/14tz08l) ![](assets/new.png)  
-- [2022-05-21-推荐-架构设计资料合集](https://toutiao.io/k/iqlrz7b) ![](assets/new.png)  
+- [2022-05-21-etcd-raft-模块如何实现分布式一致性？](https://toutiao.io/k/0o6t1yg) ![](assets/new.png)  
 - [2022-05-21-推荐-跨Mysql、Redis、Mongo的分布式事务](https://toutiao.io/k/246clz1) ![](assets/new.png)  
+- [2022-05-21-推荐-TCP-重传、滑动窗口、流量控制、拥塞控好难？看完图解就不愁了（重制）](https://toutiao.io/k/14tz08l) ![](assets/new.png)  
+- [2022-05-21-推荐-ThreadLocal夺命11连问](https://toutiao.io/k/p8lpi5z) ![](assets/new.png)  
+- [2022-05-21-推荐-左耳朵耗子：我做系统架构的一些原则](https://toutiao.io/k/9oljc6o) ![](assets/new.png)  
 - [2022-05-21-推荐-聊聊我们是如何做系统保障方案的](https://toutiao.io/k/i8q3ye4) ![](assets/new.png)  
+- [2022-05-21-推荐-架构设计资料合集](https://toutiao.io/k/iqlrz7b) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-05-22 09:13:45。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-05-22 09:40:53。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -69,6 +69,9 @@
 
 
 - [【张鑫旭-鑫空间-鑫生活】2022-05-11-JS与条形码的生成](https://www.zhangxinxu.com/wordpress/2022/05/js-barcode/) 
+- [【V2EX】2022-05-22-微信小程序直播问题真的是一言难尽啊？](https://www.v2ex.com/t/854505) 
+- [【V2EX】2022-05-22-请教怎么解释-hosts-的这种行为](https://www.v2ex.com/t/854504) 
+- [【V2EX】2022-05-22-北京-互联网人的-vx-群](https://www.v2ex.com/t/854503) 
 - [【V2EX】2022-05-22-各位大佬，请问补习数学基础该怎么开始，有什么好书/资料推荐吗？想看懂算法导论和编译原理的证明](https://www.v2ex.com/t/854501) 
 - [【V2EX】2022-05-22-有没有可能写一个中文的-bionic-reading](https://www.v2ex.com/t/854500) 
 - [【V2EX】2022-05-22-请问在-Issue-被解决并被关闭后，还需要发送感谢信息吗？](https://www.v2ex.com/t/854499) 
@@ -104,8 +107,6 @@
 - [【V2EX】2022-05-22-关于-iPhone-App-降级/安装旧版本的一点发现](https://www.v2ex.com/t/854460) 
 - [【V2EX】2022-05-22-ios-版讯飞输入法用了这么多年，竟然出现了广告！](https://www.v2ex.com/t/854458) 
 - [【V2EX】2022-05-22-国内-DDNS-哪家好用？](https://www.v2ex.com/t/854456) 
-- [【V2EX】2022-05-22-即将离职进行为期一年的旅行，深圳的社保怎么处理比较好？](https://www.v2ex.com/t/854454) 
-- [【V2EX】2022-05-22-Chrome-如何一键隐藏某网站的全部图片，除了-text-mode-插件？](https://www.v2ex.com/t/854453) 
 - [【技术头条】2022-05-22-Wallys-QCN9074/-11ax-/4x4-MU-MIMO-/2.4G-M.2-www.wallystech.com](https://blogread.cn/news/go.php?idItem=15094&url=https%3A%2F%2Fwww.wallystech.com%2FNetwork_Card%2FDR9074-2.4G-PN01.1-Wifi-6-Qualcomm-QCN9074-Single-Band-2.4-GHz-4T4R-M.2-E-Key-Interface-802.11ax.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-05-22-谨慎！糟糕程序员的编程风格查看-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15093&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494024%26amp%3Bidx%3D1%26amp%3Bsn%3Dd142644804a8e87dcb91ffaf3ecc07e2%26amp%3Bchksm%3Dfa3f08d3cd4881c5cb3a3a32aa85ab93627ba49c8bcf1a6ada6e7835c0eb606dfc861820b4b2%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-05-22-MySQL5.7-vs-8.0，哪个性能更牛？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15092&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494024%26amp%3Bidx%3D2%26amp%3Bsn%3Da60d74981373759bb63f480296e5564d%26amp%3Bchksm%3Dfa3f08d3cd4881c50f6364e287ee82d2bd56d9e4b01b037f44ae0c247d30c49ea536581e061e%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -137,13 +138,13 @@
 - [【开发者头条】2022-05-22-Python-中的内存管理](https://toutiao.io/k/66ncixv) 
 - [【开发者头条】2022-05-22-简历造假，使不得啊！](https://toutiao.io/k/5xaodp5) 
 - [【开发者头条】2022-05-22-对-Prometheus-兼容的时序数据库进行压力测试](https://toutiao.io/k/988hxnn) 
-- [【开发者头条】2022-05-22-推荐-跨Mysql、Redis、Mongo的分布式事务](https://toutiao.io/k/246clz1) 
 - [【开发者头条】2022-05-22-推荐-你见过哪些目瞪口呆的-Java-代码技巧？](https://toutiao.io/k/avsba7r) 
-- [【开发者头条】2022-05-22-推荐-首个确保缓存与数据库一致性的方案](https://toutiao.io/k/imjqbp3) 
-- [【开发者头条】2022-05-22-推荐-ThreadLocal夺命11连问](https://toutiao.io/k/p8lpi5z) 
-- [【开发者头条】2022-05-22-推荐-左耳朵耗子：我做系统架构的一些原则](https://toutiao.io/k/9oljc6o) 
 - [【开发者头条】2022-05-22-推荐-TCP-重传、滑动窗口、流量控制、拥塞控好难？看完图解就不愁了（重制）](https://toutiao.io/k/14tz08l) 
 - [【开发者头条】2022-05-22-推荐-聊聊我们是如何做系统保障方案的](https://toutiao.io/k/i8q3ye4) 
+- [【开发者头条】2022-05-22-推荐-跨Mysql、Redis、Mongo的分布式事务](https://toutiao.io/k/246clz1) 
+- [【开发者头条】2022-05-22-推荐-ThreadLocal夺命11连问](https://toutiao.io/k/p8lpi5z) 
+- [【开发者头条】2022-05-22-推荐-首个确保缓存与数据库一致性的方案](https://toutiao.io/k/imjqbp3) 
+- [【开发者头条】2022-05-22-推荐-左耳朵耗子：我做系统架构的一些原则](https://toutiao.io/k/9oljc6o) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

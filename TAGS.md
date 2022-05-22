@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-05-22 13:03:04。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-05-22 13:35:12。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -238,6 +238,7 @@
 
 - [【武汉肺炎防疫全纪录(财新网)】广州17岁男生在定点医院参加高考-特殊考场视频监考](https://m.caixin.com/m/2021-06-05/101723418.html)
 - [【武汉肺炎防疫全纪录(财新网)】林郑月娥率13高官直播接种科兴疫苗-复星疫苗预计周中到港](https://m.caixin.com/m/2021-02-22/101665724.html)
+- [【V2EX】macos-打视频电话的时候播放音乐声音极小怎么解决？](https://www.v2ex.com/t/854551)
 - [【V2EX】安卓手机，如何禁用后置摄像头，只让前置摄像头可用？](https://www.v2ex.com/t/854544)
 - [......【查看更多】......](./details/tags/audio-video.md)
 
@@ -300,7 +301,6 @@
 
 
 - [【V2EX】内推-区块链大厂，大量职位，-https://neitui.gitbook.io/jobs/](https://www.v2ex.com/t/854532)
-- [【V2EX】各位大佬，请问补习数学基础该怎么开始，有什么好书/资料推荐吗？想看懂算法导论和编译原理的证明](https://www.v2ex.com/t/854501)
 - [【开发者头条】Redis-为何使用近似-LRU-算法淘汰数据，而不是真实-LRU？](https://toutiao.io/k/7vw00no)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 

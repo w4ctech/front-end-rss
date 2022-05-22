@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-05-22 11:37:33。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-05-22 12:22:42。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -279,6 +279,7 @@
 - [【武汉肺炎防疫全纪录(财新网)】腺病毒新冠疫苗引安全忧虑-康希诺称未发现血栓病例](https://m.caixin.com/m/2021-04-14/101691086.html)
 - [【武汉肺炎防疫全纪录(财新网)】解药|新冠mRNA疫苗安全性有哪些挑战？](https://m.caixin.com/m/2021-01-08/101648043.html)
 - [【武汉肺炎防疫全纪录(财新网)】大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html)
+- [【V2EX】常用-chrome-自动翻译，怎样可以快捷键一键翻译页面？](https://www.v2ex.com/t/854533)
 - [【V2EX】为什么从-Chromium-71.0.3563.0-#594369-开始，访问高强度密钥的双证书网站时其倾向于获取-RSA-证书而不是-ECC-证书？](https://www.v2ex.com/t/854495)
 - [【技术头条】App开放接口api安全：Token签名sign的设计与实现-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15085&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247493985%26amp%3Bidx%3D2%26amp%3Bsn%3Dd7b1313ef4a0226295c81127ee22c958%26amp%3Bchksm%3Dfa3f083acd48812c339da2d4de950a0fda74f93663bc630c95de45f1f211ed7ec8aab67904fd%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【开发者头条】推荐-首个确保缓存与数据库一致性的方案](https://toutiao.io/k/imjqbp3)
@@ -298,6 +299,7 @@
 
 
 
+- [【V2EX】内推-区块链大厂，大量职位，-https://neitui.gitbook.io/jobs/](https://www.v2ex.com/t/854532)
 - [【V2EX】各位大佬，请问补习数学基础该怎么开始，有什么好书/资料推荐吗？想看懂算法导论和编译原理的证明](https://www.v2ex.com/t/854501)
 - [【V2EX】idea-中的-vim-配置无法点选修改](https://www.v2ex.com/t/854490)
 - [【开发者头条】Redis-为何使用近似-LRU-算法淘汰数据，而不是真实-LRU？](https://toutiao.io/k/7vw00no)
@@ -333,7 +335,6 @@
 
 
 
-- [【V2EX】Gitee-好像也不是一刀切](https://www.v2ex.com/t/854497)
 - [......【查看更多】......](./details/tags/git-svn.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -351,7 +352,6 @@
 
 
 - [【V2EX】一面过程中，如何回答面试官询问当前薪资以及期望薪资，才能进入二面](https://www.v2ex.com/t/854513)
-- [【V2EX】最近区块链招聘很多？](https://www.v2ex.com/t/854482)
 - [......【查看更多】......](./details/tags/job-interview.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

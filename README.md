@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-05-22 11:37:33，:rocket: 更新条数: +2026， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-05-22 12:22:41，:rocket: 更新条数: +2024， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,12 +491,18 @@
 </summary>
 
 
+- [2022-05-22-Software-Engineer-Java-x-5-10-10k---25k](https://www.v2ex.com/t/854538) ![](assets/new.png)  
+- [2022-05-22-请问有没有能修改软件内的快捷键工具？](https://www.v2ex.com/t/854537) ![](assets/new.png)  
+- [2022-05-22-请教两个关于-SSTAP-的问题](https://www.v2ex.com/t/854536) ![](assets/new.png)  
+- [2022-05-22-windows-竖屏使用太长了，有什么办法让图标显示在中间吗?](https://www.v2ex.com/t/854535) ![](assets/new.png)  
+- [2022-05-22-有没有可以在水下工作的笔记本电脑](https://www.v2ex.com/t/854534) ![](assets/new.png)  
+- [2022-05-22-常用-chrome-自动翻译，怎样可以快捷键一键翻译页面？](https://www.v2ex.com/t/854533) ![](assets/new.png)  
+- [2022-05-22-内推-区块链大厂，大量职位，-https://neitui.gitbook.io/jobs/](https://www.v2ex.com/t/854532) ![](assets/new.png)  
 - [2022-05-22-win-文件夹突然出现小灰条](https://www.v2ex.com/t/854531) ![](assets/new.png)  
 - [2022-05-22-求推荐适合打字聊天用的备用机](https://www.v2ex.com/t/854530) ![](assets/new.png)  
 - [2022-05-22-Rust-导出和导入内存数据的方案？](https://www.v2ex.com/t/854529) ![](assets/new.png)  
 - [2022-05-22-发现-iCloud-会扫描云端相册和-Drive](https://www.v2ex.com/t/854527) ![](assets/new.png)  
 - [2022-05-22-数据库内核开发](https://www.v2ex.com/t/854526) ![](assets/new.png)  
-- [2022-05-22-我现在非常讨厌的一句话就是“不是大家都这样吗”，这是我听过最无聊的屁话了。身边无人理解，待我真正自由后，我要做一个数字游民，走遍中国，再走遍世界。](https://www.v2ex.com/t/854525) ![](assets/new.png)  
 - [2022-05-22-人在国内，使用境外服务器建站有哪些风险？](https://www.v2ex.com/t/854524) ![](assets/new.png)  
 - [2022-05-22-关于-html-后台管理模板](https://www.v2ex.com/t/854523) ![](assets/new.png)  
 - [2022-05-22-组织了一个新西兰留学移民群](https://www.v2ex.com/t/854522) ![](assets/new.png)  
@@ -505,12 +511,6 @@
 - [2022-05-22-2022-年了，求前端学习路径](https://www.v2ex.com/t/854518) ![](assets/new.png)  
 - [2022-05-22-openwrt-下的-wireguard-客户端如何实现内网-nat](https://www.v2ex.com/t/854517) ![](assets/new.png)  
 - [2022-05-22-enpass-在-mac-的-bug](https://www.v2ex.com/t/854515) ![](assets/new.png)  
-- [2022-05-22-今天刚刚发现，在阿里云开服务器的时候没有-redhat-的选项，很好奇。](https://www.v2ex.com/t/854514) ![](assets/new.png)  
-- [2022-05-22-一面过程中，如何回答面试官询问当前薪资以及期望薪资，才能进入二面](https://www.v2ex.com/t/854513) ![](assets/new.png)  
-- [2022-05-22-用-go-写了个类似-rz-/-sz-的功能，兼容-tmux，分享并邀请大家体验。](https://www.v2ex.com/t/854512) ![](assets/new.png)  
-- [2022-05-22-淘宝鼠标维修靠谱吗？](https://www.v2ex.com/t/854511) ![](assets/new.png)  
-- [2022-05-22-分享一个上海电信企业宽带附赠的家宽提速业务](https://www.v2ex.com/t/854510) ![](assets/new.png)  
-- [2022-05-22-有没有懂电机的同学，请教个-diy-的问题。。。](https://www.v2ex.com/t/854509) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -564,13 +564,13 @@
 - [2022-05-22-Python-中的内存管理](https://toutiao.io/k/66ncixv) ![](assets/new.png)  
 - [2022-05-22-简历造假，使不得啊！](https://toutiao.io/k/5xaodp5) ![](assets/new.png)  
 - [2022-05-22-对-Prometheus-兼容的时序数据库进行压力测试](https://toutiao.io/k/988hxnn) ![](assets/new.png)  
+- [2022-05-22-推荐-ThreadLocal夺命11连问](https://toutiao.io/k/p8lpi5z) ![](assets/new.png)  
 - [2022-05-22-推荐-TCP-重传、滑动窗口、流量控制、拥塞控好难？看完图解就不愁了（重制）](https://toutiao.io/k/14tz08l) ![](assets/new.png)  
 - [2022-05-22-推荐-你见过哪些目瞪口呆的-Java-代码技巧？](https://toutiao.io/k/avsba7r) ![](assets/new.png)  
-- [2022-05-22-推荐-ThreadLocal夺命11连问](https://toutiao.io/k/p8lpi5z) ![](assets/new.png)  
+- [2022-05-22-推荐-首个确保缓存与数据库一致性的方案](https://toutiao.io/k/imjqbp3) ![](assets/new.png)  
 - [2022-05-22-推荐-跨Mysql、Redis、Mongo的分布式事务](https://toutiao.io/k/246clz1) ![](assets/new.png)  
 - [2022-05-22-推荐-左耳朵耗子：我做系统架构的一些原则](https://toutiao.io/k/9oljc6o) ![](assets/new.png)  
 - [2022-05-22-推荐-聊聊我们是如何做系统保障方案的](https://toutiao.io/k/i8q3ye4) ![](assets/new.png)  
-- [2022-05-22-推荐-首个确保缓存与数据库一致性的方案](https://toutiao.io/k/imjqbp3) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

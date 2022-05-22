@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-05-22 11:37:33。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-05-22 12:22:42。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -69,12 +69,18 @@
 
 
 - [【张鑫旭-鑫空间-鑫生活】2022-05-11-JS与条形码的生成](https://www.zhangxinxu.com/wordpress/2022/05/js-barcode/) 
+- [【V2EX】2022-05-22-Software-Engineer-Java-x-5-10-10k---25k](https://www.v2ex.com/t/854538) 
+- [【V2EX】2022-05-22-请问有没有能修改软件内的快捷键工具？](https://www.v2ex.com/t/854537) 
+- [【V2EX】2022-05-22-请教两个关于-SSTAP-的问题](https://www.v2ex.com/t/854536) 
+- [【V2EX】2022-05-22-windows-竖屏使用太长了，有什么办法让图标显示在中间吗?](https://www.v2ex.com/t/854535) 
+- [【V2EX】2022-05-22-有没有可以在水下工作的笔记本电脑](https://www.v2ex.com/t/854534) 
+- [【V2EX】2022-05-22-常用-chrome-自动翻译，怎样可以快捷键一键翻译页面？](https://www.v2ex.com/t/854533) 
+- [【V2EX】2022-05-22-内推-区块链大厂，大量职位，-https://neitui.gitbook.io/jobs/](https://www.v2ex.com/t/854532) 
 - [【V2EX】2022-05-22-win-文件夹突然出现小灰条](https://www.v2ex.com/t/854531) 
 - [【V2EX】2022-05-22-求推荐适合打字聊天用的备用机](https://www.v2ex.com/t/854530) 
 - [【V2EX】2022-05-22-Rust-导出和导入内存数据的方案？](https://www.v2ex.com/t/854529) 
 - [【V2EX】2022-05-22-发现-iCloud-会扫描云端相册和-Drive](https://www.v2ex.com/t/854527) 
 - [【V2EX】2022-05-22-数据库内核开发](https://www.v2ex.com/t/854526) 
-- [【V2EX】2022-05-22-我现在非常讨厌的一句话就是“不是大家都这样吗”，这是我听过最无聊的屁话了。身边无人理解，待我真正自由后，我要做一个数字游民，走遍中国，再走遍世界。](https://www.v2ex.com/t/854525) 
 - [【V2EX】2022-05-22-人在国内，使用境外服务器建站有哪些风险？](https://www.v2ex.com/t/854524) 
 - [【V2EX】2022-05-22-关于-html-后台管理模板](https://www.v2ex.com/t/854523) 
 - [【V2EX】2022-05-22-组织了一个新西兰留学移民群](https://www.v2ex.com/t/854522) 
@@ -98,19 +104,11 @@
 - [【V2EX】2022-05-22-有没有可能写一个中文的-bionic-reading](https://www.v2ex.com/t/854500) 
 - [【V2EX】2022-05-22-请问在-Issue-被解决并被关闭后，还需要发送感谢信息吗？](https://www.v2ex.com/t/854499) 
 - [【V2EX】2022-05-22-MARS-A1-小主机预售---探索未知,-进无止境](https://www.v2ex.com/t/854498) 
-- [【V2EX】2022-05-22-Gitee-好像也不是一刀切](https://www.v2ex.com/t/854497) 
 - [【V2EX】2022-05-22-Mac-系统的终端运行-composer-dump-autoload-正常，-VS-code-集成终端报错，求解？](https://www.v2ex.com/t/854496) 
 - [【V2EX】2022-05-22-为什么从-Chromium-71.0.3563.0-#594369-开始，访问高强度密钥的双证书网站时其倾向于获取-RSA-证书而不是-ECC-证书？](https://www.v2ex.com/t/854495) 
 - [【V2EX】2022-05-22-除了按表冠返回表盘，还有别的方式吗](https://www.v2ex.com/t/854494) 
-- [【V2EX】2022-05-22-战争也阻碍不了开源](https://www.v2ex.com/t/854492) 
 - [【V2EX】2022-05-22-idea-中的-vim-配置无法点选修改](https://www.v2ex.com/t/854490) 
 - [【V2EX】2022-05-22-最近杭州还有啥-hc-吗-后端求捞](https://www.v2ex.com/t/854489) 
-- [【V2EX】2022-05-22-我们会不会等不到新冠疫情消失的那天了？](https://www.v2ex.com/t/854488) 
-- [【V2EX】2022-05-22-不懂就问，买了一块-16T-的-HC550，为什么实际可用只有-13.7T](https://www.v2ex.com/t/854487) 
-- [【V2EX】2022-05-22-如何让-WordPress-全站强制使用-Twemoji-？](https://www.v2ex.com/t/854486) 
-- [【V2EX】2022-05-22-dock-上的这个图标怎么恢复？](https://www.v2ex.com/t/854485) 
-- [【V2EX】2022-05-22-618-有什么东西推荐，或者大家打算买什么](https://www.v2ex.com/t/854484) 
-- [【V2EX】2022-05-22-最近区块链招聘很多？](https://www.v2ex.com/t/854482) 
 - [【技术头条】2022-05-22-Wallys-QCN9074/-11ax-/4x4-MU-MIMO-/2.4G-M.2-www.wallystech.com](https://blogread.cn/news/go.php?idItem=15094&url=https%3A%2F%2Fwww.wallystech.com%2FNetwork_Card%2FDR9074-2.4G-PN01.1-Wifi-6-Qualcomm-QCN9074-Single-Band-2.4-GHz-4T4R-M.2-E-Key-Interface-802.11ax.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-05-22-谨慎！糟糕程序员的编程风格查看-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15093&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494024%26amp%3Bidx%3D1%26amp%3Bsn%3Dd142644804a8e87dcb91ffaf3ecc07e2%26amp%3Bchksm%3Dfa3f08d3cd4881c5cb3a3a32aa85ab93627ba49c8bcf1a6ada6e7835c0eb606dfc861820b4b2%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-05-22-MySQL5.7-vs-8.0，哪个性能更牛？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15092&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494024%26amp%3Bidx%3D2%26amp%3Bsn%3Da60d74981373759bb63f480296e5564d%26amp%3Bchksm%3Dfa3f08d3cd4881c50f6364e287ee82d2bd56d9e4b01b037f44ae0c247d30c49ea536581e061e%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -142,13 +140,13 @@
 - [【开发者头条】2022-05-22-Python-中的内存管理](https://toutiao.io/k/66ncixv) 
 - [【开发者头条】2022-05-22-简历造假，使不得啊！](https://toutiao.io/k/5xaodp5) 
 - [【开发者头条】2022-05-22-对-Prometheus-兼容的时序数据库进行压力测试](https://toutiao.io/k/988hxnn) 
+- [【开发者头条】2022-05-22-推荐-ThreadLocal夺命11连问](https://toutiao.io/k/p8lpi5z) 
 - [【开发者头条】2022-05-22-推荐-TCP-重传、滑动窗口、流量控制、拥塞控好难？看完图解就不愁了（重制）](https://toutiao.io/k/14tz08l) 
 - [【开发者头条】2022-05-22-推荐-你见过哪些目瞪口呆的-Java-代码技巧？](https://toutiao.io/k/avsba7r) 
-- [【开发者头条】2022-05-22-推荐-ThreadLocal夺命11连问](https://toutiao.io/k/p8lpi5z) 
+- [【开发者头条】2022-05-22-推荐-首个确保缓存与数据库一致性的方案](https://toutiao.io/k/imjqbp3) 
 - [【开发者头条】2022-05-22-推荐-跨Mysql、Redis、Mongo的分布式事务](https://toutiao.io/k/246clz1) 
 - [【开发者头条】2022-05-22-推荐-左耳朵耗子：我做系统架构的一些原则](https://toutiao.io/k/9oljc6o) 
 - [【开发者头条】2022-05-22-推荐-聊聊我们是如何做系统保障方案的](https://toutiao.io/k/i8q3ye4) 
-- [【开发者头条】2022-05-22-推荐-首个确保缓存与数据库一致性的方案](https://toutiao.io/k/imjqbp3) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

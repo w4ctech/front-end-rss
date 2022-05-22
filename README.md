@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-05-22 16:17:48，:rocket: 更新条数: +2020， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-05-22 16:56:56，:rocket: 更新条数: +2021， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,9 @@
 </summary>
 
 
+- [2022-05-22-新买的-homepod-mini-不能唤醒-siri-只在首次配对时候可以-奇怪](https://www.v2ex.com/t/854589) ![](assets/new.png)  
+- [2022-05-22-macOS-为什么在网页中上传图片，无法在图标视图下，按添加日期排序？](https://www.v2ex.com/t/854588) ![](assets/new.png)  
+- [2022-05-22-Macbook-锁屏屏幕熄灭后，总是被蓝牙键盘自动唤醒](https://www.v2ex.com/t/854587) ![](assets/new.png)  
 - [2022-05-22-适合电脑的耳机有哪些？](https://www.v2ex.com/t/854585) ![](assets/new.png)  
 - [2022-05-22-转了-wechat-发现了一件细思极恐的事](https://www.v2ex.com/t/854583) ![](assets/new.png)  
 - [2022-05-22-分享下搭的元宇宙导航网站](https://www.v2ex.com/t/854581) ![](assets/new.png)  
@@ -508,9 +511,6 @@
 - [2022-05-22-在-windows-下指定-electron-应用打开文件，那这个-electron-应用怎么读取到那个文件的内容？](https://www.v2ex.com/t/854564) ![](assets/new.png)  
 - [2022-05-22-换啥手机好呢](https://www.v2ex.com/t/854563) ![](assets/new.png)  
 - [2022-05-22-分享下廉价保持网站备案状态的方法](https://www.v2ex.com/t/854562) ![](assets/new.png)  
-- [2022-05-22-一个有趣的-U-盘。](https://www.v2ex.com/t/854560) ![](assets/new.png)  
-- [2022-05-22-全职远程-招聘前端-React/后端-Java-/测试工程师](https://www.v2ex.com/t/854559) ![](assets/new.png)  
-- [2022-05-22-方可成:-以务实眼光看待抗疫策略](https://www.v2ex.com/t/854557) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -564,13 +564,13 @@
 - [2022-05-22-简历造假，使不得啊！](https://toutiao.io/k/5xaodp5) ![](assets/new.png)  
 - [2022-05-22-Python-中的内存管理](https://toutiao.io/k/66ncixv) ![](assets/new.png)  
 - [2022-05-22-对-Prometheus-兼容的时序数据库进行压力测试](https://toutiao.io/k/988hxnn) ![](assets/new.png)  
+- [2022-05-22-推荐-聊聊我们是如何做系统保障方案的](https://toutiao.io/k/i8q3ye4) ![](assets/new.png)  
+- [2022-05-22-推荐-你见过哪些目瞪口呆的-Java-代码技巧？](https://toutiao.io/k/avsba7r) ![](assets/new.png)  
+- [2022-05-22-推荐-ThreadLocal夺命11连问](https://toutiao.io/k/p8lpi5z) ![](assets/new.png)  
+- [2022-05-22-推荐-左耳朵耗子：我做系统架构的一些原则](https://toutiao.io/k/9oljc6o) ![](assets/new.png)  
 - [2022-05-22-推荐-TCP-重传、滑动窗口、流量控制、拥塞控好难？看完图解就不愁了（重制）](https://toutiao.io/k/14tz08l) ![](assets/new.png)  
 - [2022-05-22-推荐-首个确保缓存与数据库一致性的方案](https://toutiao.io/k/imjqbp3) ![](assets/new.png)  
-- [2022-05-22-推荐-聊聊我们是如何做系统保障方案的](https://toutiao.io/k/i8q3ye4) ![](assets/new.png)  
-- [2022-05-22-推荐-ThreadLocal夺命11连问](https://toutiao.io/k/p8lpi5z) ![](assets/new.png)  
 - [2022-05-22-推荐-跨Mysql、Redis、Mongo的分布式事务](https://toutiao.io/k/246clz1) ![](assets/new.png)  
-- [2022-05-22-推荐-左耳朵耗子：我做系统架构的一些原则](https://toutiao.io/k/9oljc6o) ![](assets/new.png)  
-- [2022-05-22-推荐-你见过哪些目瞪口呆的-Java-代码技巧？](https://toutiao.io/k/avsba7r) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-05-22 17:42:51，:rocket: 更新条数: +2021， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-05-22 18:16:09，:rocket: 更新条数: +2021， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-05-22-不想换新但目前状况实在是太难了](https://www.v2ex.com/t/854592) ![](assets/new.png)  
+- [2022-05-22-6-类线可以考虑升级万兆网络吗？](https://www.v2ex.com/t/854591) ![](assets/new.png)  
 - [2022-05-22-偶然发现-Hazel-这个自动化神器，就是售价太高了，且不是永久买断制的……](https://www.v2ex.com/t/854590) ![](assets/new.png)  
 - [2022-05-22-新买的-homepod-mini-不能唤醒-siri-只在首次配对时候可以-奇怪](https://www.v2ex.com/t/854589) ![](assets/new.png)  
 - [2022-05-22-macOS-为什么在网页中上传图片，无法在图标视图下，按添加日期排序？](https://www.v2ex.com/t/854588) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-05-22-Glide-所提供的单图缩略图的意义是什么](https://www.v2ex.com/t/854568) ![](assets/new.png)  
 - [2022-05-22-想做一本写作周刊，请教一下各位](https://www.v2ex.com/t/854566) ![](assets/new.png)  
 - [2022-05-22-在-iTerm2-中配置了-proxy-后,-使用-yarn-命令总是会提示-"There-appears-to-be-trouble-with-your-network-connection"](https://www.v2ex.com/t/854565) ![](assets/new.png)  
-- [2022-05-22-在-windows-下指定-electron-应用打开文件，那这个-electron-应用怎么读取到那个文件的内容？](https://www.v2ex.com/t/854564) ![](assets/new.png)  
-- [2022-05-22-换啥手机好呢](https://www.v2ex.com/t/854563) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -565,12 +565,12 @@
 - [2022-05-22-Python-中的内存管理](https://toutiao.io/k/66ncixv) ![](assets/new.png)  
 - [2022-05-22-对-Prometheus-兼容的时序数据库进行压力测试](https://toutiao.io/k/988hxnn) ![](assets/new.png)  
 - [2022-05-22-推荐-TCP-重传、滑动窗口、流量控制、拥塞控好难？看完图解就不愁了（重制）](https://toutiao.io/k/14tz08l) ![](assets/new.png)  
-- [2022-05-22-推荐-首个确保缓存与数据库一致性的方案](https://toutiao.io/k/imjqbp3) ![](assets/new.png)  
+- [2022-05-22-推荐-聊聊我们是如何做系统保障方案的](https://toutiao.io/k/i8q3ye4) ![](assets/new.png)  
 - [2022-05-22-推荐-ThreadLocal夺命11连问](https://toutiao.io/k/p8lpi5z) ![](assets/new.png)  
 - [2022-05-22-推荐-左耳朵耗子：我做系统架构的一些原则](https://toutiao.io/k/9oljc6o) ![](assets/new.png)  
-- [2022-05-22-推荐-聊聊我们是如何做系统保障方案的](https://toutiao.io/k/i8q3ye4) ![](assets/new.png)  
 - [2022-05-22-推荐-你见过哪些目瞪口呆的-Java-代码技巧？](https://toutiao.io/k/avsba7r) ![](assets/new.png)  
 - [2022-05-22-推荐-跨Mysql、Redis、Mongo的分布式事务](https://toutiao.io/k/246clz1) ![](assets/new.png)  
+- [2022-05-22-推荐-首个确保缓存与数据库一致性的方案](https://toutiao.io/k/imjqbp3) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

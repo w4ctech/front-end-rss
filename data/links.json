@@ -9812,6 +9812,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "CSS必学基础：理解CSS中的级联规则",
+        "link": "https://www.zhangxinxu.com/wordpress/2022/05/deep-in-css-cascade/",
+        "date": "2022-05-22"
+      },
+      {
         "title": "JS与条形码的生成",
         "link": "https://www.zhangxinxu.com/wordpress/2022/05/js-barcode/",
         "date": "2022-05-11"
@@ -9855,11 +9860,6 @@
         "title": "CSS accent-color属性简介",
         "link": "https://www.zhangxinxu.com/wordpress/2022/03/css-accent-color/",
         "date": "2022-03-06"
-      },
-      {
-        "title": "被低估的border-image属性",
-        "link": "https://www.zhangxinxu.com/wordpress/2022/02/css-border-image-tap-highlight/",
-        "date": "2022-02-25"
       }
     ]
   },
@@ -9952,6 +9952,31 @@
     "title": "V2EX",
     "link": "https://www.v2ex.com/",
     "items": [
+      {
+        "title": "想做一本写作周刊，请教一下各位",
+        "link": "https://www.v2ex.com/t/854566",
+        "date": "2022-05-22"
+      },
+      {
+        "title": "在 iTerm2 中配置了 proxy 后, 使用 yarn 命令总是会提示 \"There appears to be trouble with your network connection\"",
+        "link": "https://www.v2ex.com/t/854565",
+        "date": "2022-05-22"
+      },
+      {
+        "title": "在 windows 下指定 electron 应用打开文件，那这个 electron 应用怎么读取到那个文件的内容？",
+        "link": "https://www.v2ex.com/t/854564",
+        "date": "2022-05-22"
+      },
+      {
+        "title": "换啥手机好呢",
+        "link": "https://www.v2ex.com/t/854563",
+        "date": "2022-05-22"
+      },
+      {
+        "title": "分享下廉价保持网站备案状态的方法",
+        "link": "https://www.v2ex.com/t/854562",
+        "date": "2022-05-22"
+      },
       {
         "title": "一个有趣的 U 盘。",
         "link": "https://www.v2ex.com/t/854560",
@@ -10126,36 +10151,6 @@
         "title": "2022 年了，求前端学习路径",
         "link": "https://www.v2ex.com/t/854518",
         "date": "2022-05-22"
-      },
-      {
-        "title": "openwrt 下的 wireguard 客户端如何实现内网 nat",
-        "link": "https://www.v2ex.com/t/854517",
-        "date": "2022-05-22"
-      },
-      {
-        "title": "enpass 在 mac 的 bug",
-        "link": "https://www.v2ex.com/t/854515",
-        "date": "2022-05-22"
-      },
-      {
-        "title": "今天刚刚发现，在阿里云开服务器的时候没有 redhat 的选项，很好奇。",
-        "link": "https://www.v2ex.com/t/854514",
-        "date": "2022-05-22"
-      },
-      {
-        "title": "一面过程中，如何回答面试官询问当前薪资以及期望薪资，才能进入二面",
-        "link": "https://www.v2ex.com/t/854513",
-        "date": "2022-05-22"
-      },
-      {
-        "title": "用 go 写了个类似 rz / sz 的功能，兼容 tmux，分享并邀请大家体验。",
-        "link": "https://www.v2ex.com/t/854512",
-        "date": "2022-05-22"
-      },
-      {
-        "title": "淘宝鼠标维修靠谱吗？",
-        "link": "https://www.v2ex.com/t/854511",
-        "date": "2022-05-22"
       }
     ]
   },
@@ -10327,18 +10322,18 @@
         "date": "2022-05-22"
       },
       {
-        "title": "[推荐] 聊聊我们是如何做系统保障方案的",
-        "link": "https://toutiao.io/k/i8q3ye4",
-        "date": "2022-05-22"
-      },
-      {
         "title": "[推荐] 左耳朵耗子：我做系统架构的一些原则",
         "link": "https://toutiao.io/k/9oljc6o",
         "date": "2022-05-22"
       },
       {
-        "title": "[推荐] 跨Mysql、Redis、Mongo的分布式事务",
-        "link": "https://toutiao.io/k/246clz1",
+        "title": "[推荐] 你见过哪些目瞪口呆的 Java 代码技巧？",
+        "link": "https://toutiao.io/k/avsba7r",
+        "date": "2022-05-22"
+      },
+      {
+        "title": "[推荐] 聊聊我们是如何做系统保障方案的",
+        "link": "https://toutiao.io/k/i8q3ye4",
         "date": "2022-05-22"
       },
       {
@@ -10352,8 +10347,8 @@
         "date": "2022-05-22"
       },
       {
-        "title": "[推荐] 你见过哪些目瞪口呆的 Java 代码技巧？",
-        "link": "https://toutiao.io/k/avsba7r",
+        "title": "[推荐] 跨Mysql、Redis、Mongo的分布式事务",
+        "link": "https://toutiao.io/k/246clz1",
         "date": "2022-05-22"
       },
       {

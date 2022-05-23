@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-05-23 06:53:24。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-05-23 07:16:14。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -354,7 +354,6 @@
 
 - [【V2EX】搞了个-PHP-校招互助的群，差缺补漏，面试题互助啥的；不是培训倒流，就一起互助下。还想着再搞点结构化知识整理啥的](https://www.v2ex.com/t/854700)
 - [【V2EX】福州招聘-高级运维开发工程师，-go-开发工程师（12-20k）](https://www.v2ex.com/t/854665)
-- [【V2EX】远程全职-区块链公司招聘-开发/商务/UI](https://www.v2ex.com/t/854660)
 - [【开发者头条】2022年Redis最新面试题---Redis集群](https://toutiao.io/k/5gfebfx)
 - [......【查看更多】......](./details/tags/job-interview.md)
 

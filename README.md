@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-05-23 21:40:02，:rocket: 更新条数: +2033， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-05-23 22:16:08，:rocket: 更新条数: +2033， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-05-23-发现一个挺有意思的软件，-windows-power-automate,-win-上的自动化软件，和“捷径”差不多，但是提供的-api-是真的丰富](https://www.v2ex.com/t/854852) ![](assets/new.png)  
 - [2022-05-23-我看-anbang-最近亏得裤子都没了](https://www.v2ex.com/t/854851) ![](assets/new.png)  
 - [2022-05-23-为什么-macOS-没有针对旧设备的“负优化”？](https://www.v2ex.com/t/854850) ![](assets/new.png)  
 - [2022-05-23-怎么深度自定义-wordpress-的-url](https://www.v2ex.com/t/854849) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-05-23-有没有-xi'an-的朋友，打听下-golang-行情怎么样](https://www.v2ex.com/t/854831) ![](assets/new.png)  
 - [2022-05-23-大家对对象/朋友打游戏不回消息怎么看](https://www.v2ex.com/t/854830) ![](assets/new.png)  
 - [2022-05-23-现在还有-ruby-on-rails-玩家吗](https://www.v2ex.com/t/854829) ![](assets/new.png)  
-- [2022-05-23-吐槽一下-ubnt-家的-unifi-u6-mesh](https://www.v2ex.com/t/854828) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -571,8 +571,8 @@
 - [2022-05-23-携程机票跨端跨框架-UI-自动化测试方案-Flybirds](https://toutiao.io/k/0sn04kr) ![](assets/new.png)  
 - [2022-05-23-XDR注定会失败吗？](https://toutiao.io/k/h3yhfcd) ![](assets/new.png)  
 - [2022-05-23-联盟链-Hyperledger-Fabric-应用场景](https://toutiao.io/k/jp49wzg) ![](assets/new.png)  
-- [2022-05-23-推荐-首个确保缓存与数据库一致性的方案](https://toutiao.io/k/imjqbp3) ![](assets/new.png)  
-- [2022-05-23-推荐-跨Mysql、Redis、Mongo的分布式事务](https://toutiao.io/k/246clz1) ![](assets/new.png)  
+- [2022-05-23-推荐-如何画好一张架构图？](https://toutiao.io/k/bu1pi73) ![](assets/new.png)  
+- [2022-05-23-推荐-TCP-重传、滑动窗口、流量控制、拥塞控好难？看完图解就不愁了（重制）](https://toutiao.io/k/14tz08l) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

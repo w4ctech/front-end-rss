@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-05-23 13:10:29，:rocket: 更新条数: +2031， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-05-23 13:56:27，:rocket: 更新条数: +2032， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,16 @@
 </summary>
 
 
+- [2022-05-23-mac-吸取颜色的小-app](https://www.v2ex.com/t/854812) ![](assets/new.png)  
+- [2022-05-23-Python-新人求助，一模一样的代码在不同文件中运行结果却不同](https://www.v2ex.com/t/854811) ![](assets/new.png)  
+- [2022-05-23-机场购买-telegram-群组有吗](https://www.v2ex.com/t/854810) ![](assets/new.png)  
+- [2022-05-23-求职-anywhere（上海优先）solidity-开发，-golang-公链开发，应届本科生有一定经验](https://www.v2ex.com/t/854809) ![](assets/new.png)  
+- [2022-05-23-正确连接-Oracle-的姿势是什么？](https://www.v2ex.com/t/854807) ![](assets/new.png)  
+- [2022-05-23-村通网，才发现吉列手动剃须刀不仅斜面可以刮，顶部也可以](https://www.v2ex.com/t/854806) ![](assets/new.png)  
+- [2022-05-23-我做程序员这十年](https://www.v2ex.com/t/854805) ![](assets/new.png)  
+- [2022-05-23-moto-的手机可以刷原生安卓吗？想买一个备用](https://www.v2ex.com/t/854803) ![](assets/new.png)  
+- [2022-05-23-Gridea-最近更新了，我用它建了一个博客](https://www.v2ex.com/t/854802) ![](assets/new.png)  
+- [2022-05-23-为什么-Windows-显示效果比-Mac-OSX-差很多](https://www.v2ex.com/t/854801) ![](assets/new.png)  
 - [2022-05-23-Bark，这两个-URL-怎么用？](https://www.v2ex.com/t/854800) ![](assets/new.png)  
 - [2022-05-23-Functional-Component-如何像-Class-Component-一样通过-ref-获取-instance-呢?](https://www.v2ex.com/t/854799) ![](assets/new.png)  
 - [2022-05-23-Python-与人工智能](https://www.v2ex.com/t/854798) ![](assets/new.png)  
@@ -501,16 +511,6 @@
 - [2022-05-23-请教百度收录的问题](https://www.v2ex.com/t/854793) ![](assets/new.png)  
 - [2022-05-23-各位，前两天体检做检查报告”胆囊小，内充满结石”，我是不是要失去我的胆了。。。](https://www.v2ex.com/t/854792) ![](assets/new.png)  
 - [2022-05-23-v-友们，体检后发现有肾结石（3mm-*-2-mm），有什么注意的吗，还有建议吗](https://www.v2ex.com/t/854791) ![](assets/new.png)  
-- [2022-05-23-黑色的猫样式的鼠标指针，在哪里有？](https://www.v2ex.com/t/854790) ![](assets/new.png)  
-- [2022-05-23-有些音乐再次听就会催人泪下，这说明了什么？](https://www.v2ex.com/t/854788) ![](assets/new.png)  
-- [2022-05-23-RustDesk-Desktop-Flutter-迁移启动](https://www.v2ex.com/t/854787) ![](assets/new.png)  
-- [2022-05-23-有申请了上海电信云宽带的伙计吗？](https://www.v2ex.com/t/854786) ![](assets/new.png)  
-- [2022-05-23-V2EX-有可能添加私信功能吗](https://www.v2ex.com/t/854784) ![](assets/new.png)  
-- [2022-05-23-从理论上来讲，电信运营商自己来搞-PCDN-是不是个好主意？](https://www.v2ex.com/t/854782) ![](assets/new.png)  
-- [2022-05-23-浏览器一搜索就卡死和时不时跳-edge-打开-msn-主页，这俩-bug-有解决办法吗？](https://www.v2ex.com/t/854781) ![](assets/new.png)  
-- [2022-05-23-公司让我办张卡给公司用来收货款-？这个有啥弊端？](https://www.v2ex.com/t/854780) ![](assets/new.png)  
-- [2022-05-23-2202-年了，有办法不越狱就让-iPad-强制所有应用横屏吗？](https://www.v2ex.com/t/854779) ![](assets/new.png)  
-- [2022-05-23-全职远程成都15-20k-招聘-Java-后端-5-10-枚/测试工程师-1-枚](https://www.v2ex.com/t/854777) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -571,8 +571,8 @@
 - [2022-05-23-这个外挂一般人不敢下手](https://toutiao.io/k/kj4liwb) ![](assets/new.png)  
 - [2022-05-23-使用Groovy构建DSL](https://toutiao.io/k/p45r94h) ![](assets/new.png)  
 - [2022-05-23-联盟链-Hyperledger-Fabric-应用场景](https://toutiao.io/k/jp49wzg) ![](assets/new.png)  
-- [2022-05-23-推荐-首个确保缓存与数据库一致性的方案](https://toutiao.io/k/imjqbp3) ![](assets/new.png)  
-- [2022-05-23-推荐-TCP-重传、滑动窗口、流量控制、拥塞控好难？看完图解就不愁了（重制）](https://toutiao.io/k/14tz08l) ![](assets/new.png)  
+- [2022-05-23-推荐-你见过哪些目瞪口呆的-Java-代码技巧？](https://toutiao.io/k/avsba7r) ![](assets/new.png)  
+- [2022-05-23-推荐-ThreadLocal夺命11连问](https://toutiao.io/k/p8lpi5z) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-05-23 10:16:08，:rocket: 更新条数: +2032， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-05-23 10:45:05，:rocket: 更新条数: +2030， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,10 @@
 </summary>
 
 
+- [2022-05-23-国产化操作系统适配，求推荐测试机构](https://www.v2ex.com/t/854775) ![](assets/new.png)  
+- [2022-05-23-面试者应该了解公司的那些方面？](https://www.v2ex.com/t/854774) ![](assets/new.png)  
+- [2022-05-23-导师不放实习，用什么理由请假会比较好呢？](https://www.v2ex.com/t/854773) ![](assets/new.png)  
+- [2022-05-23-昨天入手了-13mini，把玩了一天，手感太棒了。](https://www.v2ex.com/t/854772) ![](assets/new.png)  
 - [2022-05-23-通过词典学单词](https://www.v2ex.com/t/854771) ![](assets/new.png)  
 - [2022-05-23-mba-m1-连不上小米耳机-air-2-pro](https://www.v2ex.com/t/854770) ![](assets/new.png)  
 - [2022-05-23-为什么我每天下午可以访问-v2ex？](https://www.v2ex.com/t/854768) ![](assets/new.png)  
@@ -507,10 +511,6 @@
 - [2022-05-23-群晖通过-docker-更新和部署-letsencrypt-证书](https://www.v2ex.com/t/854756) ![](assets/new.png)  
 - [2022-05-23-iOS-怎么实现流量耗尽自动断网？今天超了快-1GB-浪费了-600-多块钱。](https://www.v2ex.com/t/854755) ![](assets/new.png)  
 - [2022-05-23-广州小北-||-淘金有-v-友驻扎么?-租房求推荐](https://www.v2ex.com/t/854751) ![](assets/new.png)  
-- [2022-05-23-怎么区别"骄傲"和"傲慢"呢](https://www.v2ex.com/t/854750) ![](assets/new.png)  
-- [2022-05-23-找一个介绍苹果产品硬件信息的网站](https://www.v2ex.com/t/854749) ![](assets/new.png)  
-- [2022-05-23-浏览器-JS-都支持原生中文分词了](https://www.v2ex.com/t/854748) ![](assets/new.png)  
-- [2022-05-23-请教个-GoLand-控制台日志输出的问题](https://www.v2ex.com/t/854747) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -564,15 +564,15 @@
 - [2022-05-23-DriverManager探秘](https://toutiao.io/k/rleyx83) ![](assets/new.png)  
 - [2022-05-23-盘点最近-yyds-的开源项目](https://toutiao.io/k/twglrd1) ![](assets/new.png)  
 - [2022-05-23-干货，搞定-Istio-+-SkyWalking-+-Spring-Boot-实战环境](https://toutiao.io/k/s055nje) ![](assets/new.png)  
+- [2022-05-23-云原生多模型-NoSQL-概述](https://toutiao.io/k/550t7nu) ![](assets/new.png)  
 - [2022-05-23-XDR注定会失败吗？](https://toutiao.io/k/h3yhfcd) ![](assets/new.png)  
 - [2022-05-23-携程机票跨端跨框架-UI-自动化测试方案-Flybirds](https://toutiao.io/k/0sn04kr) ![](assets/new.png)  
-- [2022-05-23-云原生多模型-NoSQL-概述](https://toutiao.io/k/550t7nu) ![](assets/new.png)  
 - [2022-05-23-2022年Redis最新面试题---Redis集群](https://toutiao.io/k/5gfebfx) ![](assets/new.png)  
 - [2022-05-23-这个外挂一般人不敢下手](https://toutiao.io/k/kj4liwb) ![](assets/new.png)  
 - [2022-05-23-使用Groovy构建DSL](https://toutiao.io/k/p45r94h) ![](assets/new.png)  
 - [2022-05-23-联盟链-Hyperledger-Fabric-应用场景](https://toutiao.io/k/jp49wzg) ![](assets/new.png)  
 - [2022-05-23-推荐-跨Mysql、Redis、Mongo的分布式事务](https://toutiao.io/k/246clz1) ![](assets/new.png)  
-- [2022-05-23-推荐-你见过哪些目瞪口呆的-Java-代码技巧？](https://toutiao.io/k/avsba7r) ![](assets/new.png)  
+- [2022-05-23-推荐-聊聊我们是如何做系统保障方案的](https://toutiao.io/k/i8q3ye4) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

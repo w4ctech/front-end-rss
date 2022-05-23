@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-05-23 14:40:38。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-05-23 15:15:54。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -184,7 +184,6 @@
 - [【张鑫旭-鑫空间-鑫生活】基于howler.js写了个音频播放器组件](https://www.zhangxinxu.com/wordpress/2022/03/howler-js-audio-player/)
 - [【张鑫旭-鑫空间-鑫生活】介绍8个和滚动相关的CSS属性](https://www.zhangxinxu.com/wordpress/2022/03/10-css-scroll-scrollbar/)
 - [【V2EX】Functional-Component-如何像-Class-Component-一样通过-ref-获取-instance-呢?](https://www.v2ex.com/t/854799)
-- [【V2EX】国产化操作系统适配，求推荐测试机构](https://www.v2ex.com/t/854775)
 - [【技术头条】近期家用设备（NUC、猫盘、路由器）散热升级记录-soulteary.com](https://blogread.cn/news/go.php?idItem=15103&url=https%3A%2F%2Fsoulteary.com%2F2021%2F10%2F14%2Frecent-heat-dissipation-upgrade-record-of-homelab.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [......【查看更多】......](./details/tags/javascript.md)
 
@@ -355,8 +354,6 @@
 
 
 
-- [【V2EX】全职远程成都15-20k-招聘-Java-后端-5-10-枚/测试工程师-1-枚](https://www.v2ex.com/t/854777)
-- [【V2EX】面试者应该了解公司的那些方面？](https://www.v2ex.com/t/854774)
 - [【开发者头条】2022年Redis最新面试题---Redis集群](https://toutiao.io/k/5gfebfx)
 - [......【查看更多】......](./details/tags/job-interview.md)
 

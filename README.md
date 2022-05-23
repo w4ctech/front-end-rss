@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-05-22 23:40:36，:rocket: 更新条数: +2020， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-05-23 00:59:02，:rocket: 更新条数: +2017， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,12 @@
 </summary>
 
 
+- [2022-05-23-有用武汉移动-ipv6-的吗，求证一下](https://www.v2ex.com/t/854603) ![](assets/new.png)  
+- [2022-05-23-突然发现生命的多样化起源于润](https://www.v2ex.com/t/854601) ![](assets/new.png)  
+- [2022-05-23-你们有没有发现用-WPS-越来越多](https://www.v2ex.com/t/854600) ![](assets/new.png)  
+- [2022-05-23-有没有什么方便部署和使用的私人语音聊天室网站？](https://www.v2ex.com/t/854599) ![](assets/new.png)  
+- [2022-05-23-我写的一款-ZooKeeper-GUI-客户端，提高效率，你值得拥有](https://www.v2ex.com/t/854598) ![](assets/new.png)  
+- [2022-05-22-Apple-Watch-Raise-to-Speak-不灵敏](https://www.v2ex.com/t/854597) ![](assets/new.png)  
 - [2022-05-22-谷歌翻译也会有-Typo-么](https://www.v2ex.com/t/854596) ![](assets/new.png)  
 - [2022-05-22-刚刚升了千兆宽带，光猫路由模式反而比桥接的速度要快](https://www.v2ex.com/t/854595) ![](assets/new.png)  
 - [2022-05-22-魔都抗疫封锁在家，求诗词歌赋电子书](https://www.v2ex.com/t/854594) ![](assets/new.png)  
@@ -505,12 +511,6 @@
 - [2022-05-22-转了-wechat-发现了一件细思极恐的事](https://www.v2ex.com/t/854583) ![](assets/new.png)  
 - [2022-05-22-分享下搭的元宇宙导航网站](https://www.v2ex.com/t/854581) ![](assets/new.png)  
 - [2022-05-22-用电脑笔记本，时间稍微长一点，-2-个手就出汗，怎么搞？](https://www.v2ex.com/t/854580) ![](assets/new.png)  
-- [2022-05-22-求助：计算机专硕研究生方向选择](https://www.v2ex.com/t/854577) ![](assets/new.png)  
-- [2022-05-22-国产手机都换不了启动器了吗？](https://www.v2ex.com/t/854575) ![](assets/new.png)  
-- [2022-05-22-请问现在-Linux-发行版都是什么情况？](https://www.v2ex.com/t/854574) ![](assets/new.png)  
-- [2022-05-22-Clion-是不是不支持-C++20-的-module-呢？](https://www.v2ex.com/t/854573) ![](assets/new.png)  
-- [2022-05-22-想搞一台写代码的笔记本](https://www.v2ex.com/t/854572) ![](assets/new.png)  
-- [2022-05-22-本人长期收-BTC/ETH-以及前几位的-altcoins,欢迎联系.](https://www.v2ex.com/t/854571) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -522,26 +522,26 @@
 </summary>
 
 
-- [2022-05-22-什么是子网掩码?-www.awaimai.com](https://blogread.cn/news/go.php?idItem=15112&url=https%3A%2F%2Fwww.awaimai.com%2F2933.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-05-22-4-个用来擦除数据的-Linux-工具-linux.cn](https://blogread.cn/news/go.php?idItem=15111&url=https%3A%2F%2Flinux.cn%2Farticle-13913-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-05-22-使用-logrotate-命令轮转和归档日志-linux.cn](https://blogread.cn/news/go.php?idItem=15110&url=https%3A%2F%2Flinux.cn%2Farticle-13909-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-05-22-在-Apache-Cassandra-中定义和优化数据分区-linux.cn](https://blogread.cn/news/go.php?idItem=15109&url=https%3A%2F%2Flinux.cn%2Farticle-13908-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-05-22-服饰3D柔性渲染调研及实践-fed.taobao.org](https://blogread.cn/news/go.php?idItem=15108&url=https%3A%2F%2Ffed.taobao.org%2Fblog%2Ftaofed%2Fdo71ct%2Ffufsgh%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-05-22-业务系统的稳定性建设-fed.taobao.org](https://blogread.cn/news/go.php?idItem=15107&url=https%3A%2F%2Ffed.taobao.org%2Fblog%2Ftaofed%2Fdo71ct%2Ffc3cy0%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-05-22-改hosts不生效？教你清理Chrome的DNS缓存-hessian.cn](https://blogread.cn/news/go.php?idItem=15106&url=https%3A%2F%2Fhessian.cn%2Fp%2F1645.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-05-22-Nuxt不停机部署指南-hessian.cn](https://blogread.cn/news/go.php?idItem=15105&url=https%3A%2F%2Fhessian.cn%2Fp%2F1643.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-05-22-MySQL-云数据库物理备份本地恢复方案-soulteary.com](https://blogread.cn/news/go.php?idItem=15104&url=https%3A%2F%2Fsoulteary.com%2F2021%2F10%2F13%2Fmysql-cloud-database-physical-backup-local-recovery-solution.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-05-22-近期家用设备（NUC、猫盘、路由器）散热升级记录-soulteary.com](https://blogread.cn/news/go.php?idItem=15103&url=https%3A%2F%2Fsoulteary.com%2F2021%2F10%2F14%2Frecent-heat-dissipation-upgrade-record-of-homelab.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-05-22-curl-设置代理，看这篇就够了-droidyue.com](https://blogread.cn/news/go.php?idItem=15102&url=https%3A%2F%2Fdroidyue.com%2Fblog%2F2021%2F07%2F07%2Fset-proxy-for-curl%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-05-22-如何做好-PRR（Production-Rediness-Review）？-blog.alswl.com](https://blogread.cn/news/go.php?idItem=15101&url=https%3A%2F%2Fblog.alswl.com%2F2021%2F06%2Fprr%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-05-22-编写可维护的Go代码-colobu.com](https://blogread.cn/news/go.php?idItem=15100&url=https%3A%2F%2Fcolobu.com%2F2022%2F01%2F15%2FWriting-maintainable-Go-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-05-22-编写可维护的Go代码-colobu.com](https://blogread.cn/news/go.php?idItem=15099&url=https%3A%2F%2Fcolobu.com%2F2022%2F01%2F15%2FWriting-maintainable-Go-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-05-22-密码强度效果最佳实现一定是HTML-meter元素-www.zhangxinxu.com](https://blogread.cn/news/go.php?idItem=15098&url=https%3A%2F%2Fwww.zhangxinxu.com%2Fwordpress%2F2021%2F11%2Fhtml-meter-password%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-05-22-谁动了我的DevOps：DevOps风险测绘-blog.nsfocus.net](https://blogread.cn/news/go.php?idItem=15097&url=http%3A%2F%2Fblog.nsfocus.net%2Fdevopsdevops-nsfocus%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-05-22-从0到1：美团端侧CDN容灾解决方案-tech.meituan.com](https://blogread.cn/news/go.php?idItem=15096&url=https%3A%2F%2Ftech.meituan.com%2F2022%2F01%2F13%2Fphoenix-cdn.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-05-22-【自动化渗透】DeepExploit框架深度分析-blog.nsfocus.net](https://blogread.cn/news/go.php?idItem=15095&url=http%3A%2F%2Fblog.nsfocus.net%2Fdeepexploit-exploit%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-05-22-谨慎！糟糕程序员的编程风格查看-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15093&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494024%26amp%3Bidx%3D1%26amp%3Bsn%3Dd142644804a8e87dcb91ffaf3ecc07e2%26amp%3Bchksm%3Dfa3f08d3cd4881c5cb3a3a32aa85ab93627ba49c8bcf1a6ada6e7835c0eb606dfc861820b4b2%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-05-22-MySQL5.7-vs-8.0，哪个性能更牛？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15092&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494024%26amp%3Bidx%3D2%26amp%3Bsn%3Da60d74981373759bb63f480296e5564d%26amp%3Bchksm%3Dfa3f08d3cd4881c50f6364e287ee82d2bd56d9e4b01b037f44ae0c247d30c49ea536581e061e%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2022-05-23-什么是子网掩码?-www.awaimai.com](https://blogread.cn/news/go.php?idItem=15112&url=https%3A%2F%2Fwww.awaimai.com%2F2933.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2022-05-23-4-个用来擦除数据的-Linux-工具-linux.cn](https://blogread.cn/news/go.php?idItem=15111&url=https%3A%2F%2Flinux.cn%2Farticle-13913-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2022-05-23-使用-logrotate-命令轮转和归档日志-linux.cn](https://blogread.cn/news/go.php?idItem=15110&url=https%3A%2F%2Flinux.cn%2Farticle-13909-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2022-05-23-在-Apache-Cassandra-中定义和优化数据分区-linux.cn](https://blogread.cn/news/go.php?idItem=15109&url=https%3A%2F%2Flinux.cn%2Farticle-13908-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2022-05-23-服饰3D柔性渲染调研及实践-fed.taobao.org](https://blogread.cn/news/go.php?idItem=15108&url=https%3A%2F%2Ffed.taobao.org%2Fblog%2Ftaofed%2Fdo71ct%2Ffufsgh%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2022-05-23-业务系统的稳定性建设-fed.taobao.org](https://blogread.cn/news/go.php?idItem=15107&url=https%3A%2F%2Ffed.taobao.org%2Fblog%2Ftaofed%2Fdo71ct%2Ffc3cy0%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2022-05-23-改hosts不生效？教你清理Chrome的DNS缓存-hessian.cn](https://blogread.cn/news/go.php?idItem=15106&url=https%3A%2F%2Fhessian.cn%2Fp%2F1645.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2022-05-23-Nuxt不停机部署指南-hessian.cn](https://blogread.cn/news/go.php?idItem=15105&url=https%3A%2F%2Fhessian.cn%2Fp%2F1643.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2022-05-23-MySQL-云数据库物理备份本地恢复方案-soulteary.com](https://blogread.cn/news/go.php?idItem=15104&url=https%3A%2F%2Fsoulteary.com%2F2021%2F10%2F13%2Fmysql-cloud-database-physical-backup-local-recovery-solution.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2022-05-23-近期家用设备（NUC、猫盘、路由器）散热升级记录-soulteary.com](https://blogread.cn/news/go.php?idItem=15103&url=https%3A%2F%2Fsoulteary.com%2F2021%2F10%2F14%2Frecent-heat-dissipation-upgrade-record-of-homelab.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2022-05-23-curl-设置代理，看这篇就够了-droidyue.com](https://blogread.cn/news/go.php?idItem=15102&url=https%3A%2F%2Fdroidyue.com%2Fblog%2F2021%2F07%2F07%2Fset-proxy-for-curl%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2022-05-23-如何做好-PRR（Production-Rediness-Review）？-blog.alswl.com](https://blogread.cn/news/go.php?idItem=15101&url=https%3A%2F%2Fblog.alswl.com%2F2021%2F06%2Fprr%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2022-05-23-编写可维护的Go代码-colobu.com](https://blogread.cn/news/go.php?idItem=15100&url=https%3A%2F%2Fcolobu.com%2F2022%2F01%2F15%2FWriting-maintainable-Go-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2022-05-23-编写可维护的Go代码-colobu.com](https://blogread.cn/news/go.php?idItem=15099&url=https%3A%2F%2Fcolobu.com%2F2022%2F01%2F15%2FWriting-maintainable-Go-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2022-05-23-密码强度效果最佳实现一定是HTML-meter元素-www.zhangxinxu.com](https://blogread.cn/news/go.php?idItem=15098&url=https%3A%2F%2Fwww.zhangxinxu.com%2Fwordpress%2F2021%2F11%2Fhtml-meter-password%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2022-05-23-谁动了我的DevOps：DevOps风险测绘-blog.nsfocus.net](https://blogread.cn/news/go.php?idItem=15097&url=http%3A%2F%2Fblog.nsfocus.net%2Fdevopsdevops-nsfocus%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2022-05-23-从0到1：美团端侧CDN容灾解决方案-tech.meituan.com](https://blogread.cn/news/go.php?idItem=15096&url=https%3A%2F%2Ftech.meituan.com%2F2022%2F01%2F13%2Fphoenix-cdn.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2022-05-23-【自动化渗透】DeepExploit框架深度分析-blog.nsfocus.net](https://blogread.cn/news/go.php?idItem=15095&url=http%3A%2F%2Fblog.nsfocus.net%2Fdeepexploit-exploit%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2022-05-23-谨慎！糟糕程序员的编程风格查看-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15093&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494024%26amp%3Bidx%3D1%26amp%3Bsn%3Dd142644804a8e87dcb91ffaf3ecc07e2%26amp%3Bchksm%3Dfa3f08d3cd4881c5cb3a3a32aa85ab93627ba49c8bcf1a6ada6e7835c0eb606dfc861820b4b2%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2022-05-23-MySQL5.7-vs-8.0，哪个性能更牛？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15092&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494024%26amp%3Bidx%3D2%26amp%3Bsn%3Da60d74981373759bb63f480296e5564d%26amp%3Bchksm%3Dfa3f08d3cd4881c50f6364e287ee82d2bd56d9e4b01b037f44ae0c247d30c49ea536581e061e%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -553,24 +553,21 @@
 </summary>
 
 
-- [2022-05-22-技术人-|-“一直写代码会丧失竞争力吗？”](https://toutiao.io/k/dvu60jc) ![](assets/new.png)  
-- [2022-05-22-欢迎加入读者圈子，一起交流！](https://toutiao.io/k/juhy4n7) ![](assets/new.png)  
-- [2022-05-22-腾讯妹子图解Golang内存分配和垃圾回收](https://toutiao.io/k/1nrxnmu) ![](assets/new.png)  
-- [2022-05-22-万字长文详解HBase读写性能优化](https://toutiao.io/k/5c58a6t) ![](assets/new.png)  
-- [2022-05-22-呐，这不就是你要的C++后台开发学习路线吗？](https://toutiao.io/k/1uhztu5) ![](assets/new.png)  
-- [2022-05-22-程序员知识体系探索：点、线、面、体](https://toutiao.io/k/hz48ul7) ![](assets/new.png)  
-- [2022-05-22-Redis-为何使用近似-LRU-算法淘汰数据，而不是真实-LRU？](https://toutiao.io/k/7vw00no) ![](assets/new.png)  
-- [2022-05-22-Taro-3.5-beta-编译提速，支持-Webpack5、React-18...](https://toutiao.io/k/nxprqz4) ![](assets/new.png)  
-- [2022-05-22-简历造假，使不得啊！](https://toutiao.io/k/5xaodp5) ![](assets/new.png)  
-- [2022-05-22-Python-中的内存管理](https://toutiao.io/k/66ncixv) ![](assets/new.png)  
-- [2022-05-22-对-Prometheus-兼容的时序数据库进行压力测试](https://toutiao.io/k/988hxnn) ![](assets/new.png)  
-- [2022-05-22-推荐-TCP-重传、滑动窗口、流量控制、拥塞控好难？看完图解就不愁了（重制）](https://toutiao.io/k/14tz08l) ![](assets/new.png)  
-- [2022-05-22-推荐-首个确保缓存与数据库一致性的方案](https://toutiao.io/k/imjqbp3) ![](assets/new.png)  
-- [2022-05-22-推荐-你见过哪些目瞪口呆的-Java-代码技巧？](https://toutiao.io/k/avsba7r) ![](assets/new.png)  
-- [2022-05-22-推荐-跨Mysql、Redis、Mongo的分布式事务](https://toutiao.io/k/246clz1) ![](assets/new.png)  
-- [2022-05-22-推荐-聊聊我们是如何做系统保障方案的](https://toutiao.io/k/i8q3ye4) ![](assets/new.png)  
-- [2022-05-22-推荐-左耳朵耗子：我做系统架构的一些原则](https://toutiao.io/k/9oljc6o) ![](assets/new.png)  
-- [2022-05-22-推荐-ThreadLocal夺命11连问](https://toutiao.io/k/p8lpi5z) ![](assets/new.png)  
+- [2022-05-23-亚马逊首席科学家李沐博士：工作五年反思](https://toutiao.io/k/gc48vin) ![](assets/new.png)  
+- [2022-05-23-微软开源的支持多平台多协议的网络性能检测工具-Ethr](https://toutiao.io/k/locmfe6) ![](assets/new.png)  
+- [2022-05-23-关于技术能力的思考和总结](https://toutiao.io/k/jo2jtja) ![](assets/new.png)  
+- [2022-05-23-技术人员如何破除达克效应（认知偏差）？](https://toutiao.io/k/8fp86ie) ![](assets/new.png)  
+- [2022-05-23-Go-适合-IO-密集型？并不准确！](https://toutiao.io/k/gpk44sp) ![](assets/new.png)  
+- [2022-05-23-2022-年的-React-生态](https://toutiao.io/k/5c0u8d8) ![](assets/new.png)  
+- [2022-05-23-腾讯信息流内容理解算法工程全流程实践](https://toutiao.io/k/r59hedc) ![](assets/new.png)  
+- [2022-05-23-DriverManager探秘](https://toutiao.io/k/rleyx83) ![](assets/new.png)  
+- [2022-05-23-推荐-ThreadLocal夺命11连问](https://toutiao.io/k/p8lpi5z) ![](assets/new.png)  
+- [2022-05-23-推荐-跨Mysql、Redis、Mongo的分布式事务](https://toutiao.io/k/246clz1) ![](assets/new.png)  
+- [2022-05-23-推荐-首个确保缓存与数据库一致性的方案](https://toutiao.io/k/imjqbp3) ![](assets/new.png)  
+- [2022-05-23-推荐-左耳朵耗子：我做系统架构的一些原则](https://toutiao.io/k/9oljc6o) ![](assets/new.png)  
+- [2022-05-23-推荐-TCP-重传、滑动窗口、流量控制、拥塞控好难？看完图解就不愁了（重制）](https://toutiao.io/k/14tz08l) ![](assets/new.png)  
+- [2022-05-23-推荐-聊聊我们是如何做系统保障方案的](https://toutiao.io/k/i8q3ye4) ![](assets/new.png)  
+- [2022-05-23-推荐-你见过哪些目瞪口呆的-Java-代码技巧？](https://toutiao.io/k/avsba7r) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

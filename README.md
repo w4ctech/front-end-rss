@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-05-23 17:21:00，:rocket: 更新条数: +2035， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-05-23 17:44:15，:rocket: 更新条数: +2035， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -566,13 +566,13 @@
 - [2022-05-23-DriverManager探秘](https://toutiao.io/k/rleyx83) ![](assets/new.png)  
 - [2022-05-23-云原生多模型-NoSQL-概述](https://toutiao.io/k/550t7nu) ![](assets/new.png)  
 - [2022-05-23-干货，搞定-Istio-+-SkyWalking-+-Spring-Boot-实战环境](https://toutiao.io/k/s055nje) ![](assets/new.png)  
-- [2022-05-23-这个外挂一般人不敢下手](https://toutiao.io/k/kj4liwb) ![](assets/new.png)  
 - [2022-05-23-使用Groovy构建DSL](https://toutiao.io/k/p45r94h) ![](assets/new.png)  
+- [2022-05-23-这个外挂一般人不敢下手](https://toutiao.io/k/kj4liwb) ![](assets/new.png)  
 - [2022-05-23-XDR注定会失败吗？](https://toutiao.io/k/h3yhfcd) ![](assets/new.png)  
 - [2022-05-23-携程机票跨端跨框架-UI-自动化测试方案-Flybirds](https://toutiao.io/k/0sn04kr) ![](assets/new.png)  
 - [2022-05-23-联盟链-Hyperledger-Fabric-应用场景](https://toutiao.io/k/jp49wzg) ![](assets/new.png)  
-- [2022-05-23-推荐-TCP-重传、滑动窗口、流量控制、拥塞控好难？看完图解就不愁了（重制）](https://toutiao.io/k/14tz08l) ![](assets/new.png)  
-- [2022-05-23-推荐-ThreadLocal夺命11连问](https://toutiao.io/k/p8lpi5z) ![](assets/new.png)  
+- [2022-05-23-推荐-首个确保缓存与数据库一致性的方案](https://toutiao.io/k/imjqbp3) ![](assets/new.png)  
+- [2022-05-23-推荐-跨Mysql、Redis、Mongo的分布式事务](https://toutiao.io/k/246clz1) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

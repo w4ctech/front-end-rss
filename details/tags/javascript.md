@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-05-24 08:47:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-05-24 09:15:32。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -20,6 +20,5 @@
 - [2022-03-15-基于howler.js写了个音频播放器组件](https://www.zhangxinxu.com/wordpress/2022/03/howler-js-audio-player/) 
 - [2022-03-07-介绍8个和滚动相关的CSS属性](https://www.zhangxinxu.com/wordpress/2022/03/10-css-scroll-scrollbar/) 
 - [2022-05-24-请问有什么办法可以读取事件查看器的日志](https://www.v2ex.com/t/854993) 
-- [2022-05-24-高危！-Fastjson-反序列化远程代码执行漏洞风险通告，请尽快升级](https://www.v2ex.com/t/854961) 
 - [2022-05-24-近期家用设备（NUC、猫盘、路由器）散热升级记录-soulteary.com](https://blogread.cn/news/go.php?idItem=15103&url=https%3A%2F%2Fsoulteary.com%2F2021%2F10%2F14%2Frecent-heat-dissipation-upgrade-record-of-homelab.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-05-24-曝光！Fastjson-反序列化高危漏洞多种修复方案](https://toutiao.io/k/czruri7) 

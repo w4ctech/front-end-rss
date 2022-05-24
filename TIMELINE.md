@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-05-24 20:43:15。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-05-24 21:13:42。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -156,11 +156,11 @@
 - [【开发者头条】2022-05-24-骚爆了...Go-错误处理中再套个娃，能解决烦恼不？](https://toutiao.io/k/nnxnoev) 
 - [【开发者头条】2022-05-24-实时数据湖在字节跳动的实践](https://toutiao.io/k/m9kyisd) 
 - [【开发者头条】2022-05-24-玩转集群配置中心，一文带你了解Taier控制台丨DTMO-03期直播回顾（内含视频+课件）](https://toutiao.io/k/n7e54o0) 
-- [【开发者头条】2022-05-24-推荐-聊聊我们是如何做系统保障方案的](https://toutiao.io/k/i8q3ye4) 
-- [【开发者头条】2022-05-24-推荐-你见过哪些目瞪口呆的-Java-代码技巧？](https://toutiao.io/k/avsba7r) 
 - [【开发者头条】2022-05-24-推荐-首个确保缓存与数据库一致性的方案](https://toutiao.io/k/imjqbp3) 
-- [【开发者头条】2022-05-24-推荐-ThreadLocal夺命11连问](https://toutiao.io/k/p8lpi5z) 
 - [【开发者头条】2022-05-24-推荐-如何画好一张架构图？](https://toutiao.io/k/bu1pi73) 
+- [【开发者头条】2022-05-24-推荐-你见过哪些目瞪口呆的-Java-代码技巧？](https://toutiao.io/k/avsba7r) 
+- [【开发者头条】2022-05-24-推荐-聊聊我们是如何做系统保障方案的](https://toutiao.io/k/i8q3ye4) 
+- [【开发者头条】2022-05-24-推荐-ThreadLocal夺命11连问](https://toutiao.io/k/p8lpi5z) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

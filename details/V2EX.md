@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2022-05-24 11:13:15。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-05-24 11:38:18。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-05-24-Logitech-Options+-正式版发布，新增-MX-Mechanical-键盘，-MX-Master-3S-鼠标](https://www.v2ex.com/t/855049) 
+- [2022-05-24-生产环境-configmap-配置更新方式](https://www.v2ex.com/t/855047) 
 - [2022-05-24-现在买-Mac-mini-合适吗](https://www.v2ex.com/t/855046) 
 - [2022-05-24-上海被裁员](https://www.v2ex.com/t/855045) 
 - [2022-05-24-一个月了，百度始终不收录](https://www.v2ex.com/t/855044) 
@@ -45,6 +47,3 @@
 - [2022-05-24-发现一个新的开源操作系统，看-UI-差点以为是-2000](https://www.v2ex.com/t/855003) 
 - [2022-05-24-k8s-pod-可以作为固定的-jenkins-agent-吗](https://www.v2ex.com/t/855002) 
 - [2022-05-24-YQ-影响薪资打了八折](https://www.v2ex.com/t/855001) 
-- [2022-05-24-各位朋友-2021-年的到手收入大概有多少？](https://www.v2ex.com/t/854999) 
-- [2022-05-24-Windows-如何取消-a-按下-alt-键后的按键提示？](https://www.v2ex.com/t/854998) 
-- [2022-05-24-没有可乐写不了东西怎么办？](https://www.v2ex.com/t/854997) 

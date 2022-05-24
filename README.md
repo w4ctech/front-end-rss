@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-05-24 23:15:29，:rocket: 更新条数: +2036， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-05-24 23:40:34，:rocket: 更新条数: +2036， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -570,8 +570,8 @@
 - [2022-05-24-Automatic-batching-support-in-React-18](https://toutiao.io/k/hf6stjj) ![](assets/new.png)  
 - [2022-05-24-spring动态注册bean会使AOP失效？](https://toutiao.io/k/9yh4gu2) ![](assets/new.png)  
 - [2022-05-24-曝光！Fastjson-反序列化高危漏洞多种修复方案](https://toutiao.io/k/czruri7) ![](assets/new.png)  
-- [2022-05-24-实时数据湖在字节跳动的实践](https://toutiao.io/k/m9kyisd) ![](assets/new.png)  
 - [2022-05-24-骚爆了...Go-错误处理中再套个娃，能解决烦恼不？](https://toutiao.io/k/nnxnoev) ![](assets/new.png)  
+- [2022-05-24-实时数据湖在字节跳动的实践](https://toutiao.io/k/m9kyisd) ![](assets/new.png)  
 - [2022-05-24-玩转集群配置中心，一文带你了解Taier控制台丨DTMO-03期直播回顾（内含视频+课件）](https://toutiao.io/k/n7e54o0) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

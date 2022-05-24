@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-05-24 19:37:11，:rocket: 更新条数: +2037， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-05-24 20:16:44，:rocket: 更新条数: +2037， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-05-24-有没有办法禁止安卓应用使用陀螺仪之类的-api？](https://www.v2ex.com/t/855100) ![](assets/new.png)  
 - [2022-05-24-长期合盖外接显示器会不会烤坏自带的屏幕?](https://www.v2ex.com/t/855099) ![](assets/new.png)  
 - [2022-05-24-求推荐一款电视机顶盒](https://www.v2ex.com/t/855098) ![](assets/new.png)  
 - [2022-05-24-我发现-Kotlin-写的项目性能都挺好的](https://www.v2ex.com/t/855097) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-05-24-618-了大家给推荐一款电视？](https://www.v2ex.com/t/855080) ![](assets/new.png)  
 - [2022-05-24-macOS/播放控制-有一脑洞，不知有没有大神能指点](https://www.v2ex.com/t/855079) ![](assets/new.png)  
 - [2022-05-24-chrome-浏览器输入网址怎么在新标签中打开？](https://www.v2ex.com/t/855078) ![](assets/new.png)  
-- [2022-05-24-问一下-618-电子产品类会黄了吗](https://www.v2ex.com/t/855077) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

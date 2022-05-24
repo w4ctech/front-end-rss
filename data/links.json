@@ -9953,6 +9953,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "有没有办法禁止安卓应用使用陀螺仪之类的 api？",
+        "link": "https://www.v2ex.com/t/855100",
+        "date": "2022-05-24"
+      },
+      {
         "title": "长期合盖外接显示器会不会烤坏自带的屏幕?",
         "link": "https://www.v2ex.com/t/855099",
         "date": "2022-05-24"
@@ -10176,11 +10181,6 @@
         "title": "竟然找不到一个互联网公司的公开网站在使用 Angular ，应该要 run 去 React 了？",
         "link": "https://www.v2ex.com/t/855051",
         "date": "2022-05-24"
-      },
-      {
-        "title": "酷比魔方 GT Book13， 3K 3:2 屏幕 + 赛扬 N5100， Linux 轻度开发学习机？",
-        "link": "https://www.v2ex.com/t/855050",
-        "date": "2022-05-24"
       }
     ]
   },
@@ -10397,13 +10397,8 @@
         "date": "2022-05-24"
       },
       {
-        "title": "[推荐] 你见过哪些目瞪口呆的 Java 代码技巧？",
-        "link": "https://toutiao.io/k/avsba7r",
-        "date": "2022-05-24"
-      },
-      {
-        "title": "[推荐] 首个确保缓存与数据库一致性的方案",
-        "link": "https://toutiao.io/k/imjqbp3",
+        "title": "[推荐] ThreadLocal夺命11连问",
+        "link": "https://toutiao.io/k/p8lpi5z",
         "date": "2022-05-24"
       },
       {
@@ -10412,8 +10407,13 @@
         "date": "2022-05-24"
       },
       {
-        "title": "[推荐] ThreadLocal夺命11连问",
-        "link": "https://toutiao.io/k/p8lpi5z",
+        "title": "[推荐] 首个确保缓存与数据库一致性的方案",
+        "link": "https://toutiao.io/k/imjqbp3",
+        "date": "2022-05-24"
+      },
+      {
+        "title": "[推荐] 你见过哪些目瞪口呆的 Java 代码技巧？",
+        "link": "https://toutiao.io/k/avsba7r",
         "date": "2022-05-24"
       },
       {

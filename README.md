@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-05-24 04:07:49，:rocket: 更新条数: +2026， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-05-24 05:01:46，:rocket: 更新条数: +2028， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,15 @@
 </summary>
 
 
+- [2022-05-24-这次的裁员潮有点不一样](https://www.v2ex.com/t/854942) ![](assets/new.png)  
+- [2022-05-24-AppleTV-4th-的奇怪问题-无法获取-ip-地址](https://www.v2ex.com/t/854941) ![](assets/new.png)  
+- [2022-05-24-VMware-Workstation-安装后，如果不使用，对宿主机有性能影响吗？](https://www.v2ex.com/t/854940) ![](assets/new.png)  
+- [2022-05-24-关于-The-ThinkPad-Thunderbolt-3-Workstation-Dock-2020-款扩展坞-型号：-40ANY230CN](https://www.v2ex.com/t/854939) ![](assets/new.png)  
+- [2022-05-24-有没有租房居家休闲椅推荐？](https://www.v2ex.com/t/854938) ![](assets/new.png)  
+- [2022-05-24-webpack-dev-server-启动-dev-server-后，如何让其它的机器可以访问该-server?](https://www.v2ex.com/t/854937) ![](assets/new.png)  
+- [2022-05-24-波场币-TRON-是好的投资标的吗？](https://www.v2ex.com/t/854936) ![](assets/new.png)  
+- [2022-05-24-FaceTime-同播共享，能否播放阿里網盤的電影？](https://www.v2ex.com/t/854935) ![](assets/new.png)  
+- [2022-05-24-wechat-用户注意，被封号后解封概率无限=0](https://www.v2ex.com/t/854932) ![](assets/new.png)  
 - [2022-05-24-小米盒子的高码率视频怎么破](https://www.v2ex.com/t/854931) ![](assets/new.png)  
 - [2022-05-24-内推头部币圈公司-海外/国内](https://www.v2ex.com/t/854930) ![](assets/new.png)  
 - [2022-05-24-你们下班之后还会用工作使用的语言写代码吗](https://www.v2ex.com/t/854929) ![](assets/new.png)  
@@ -502,15 +511,6 @@
 - [2022-05-24-请教一下各位平时如何管理文件和邮件](https://www.v2ex.com/t/854922) ![](assets/new.png)  
 - [2022-05-24-Nginx-重写地址时获取不到以-0-结尾的数字](https://www.v2ex.com/t/854921) ![](assets/new.png)  
 - [2022-05-24-Centos-系统盘不足了，主要是-mysql-占用过大，求大佬们看看那种存储迁移方案可行](https://www.v2ex.com/t/854920) ![](assets/new.png)  
-- [2022-05-24-前辈写的-sql-语句如何优化](https://www.v2ex.com/t/854919) ![](assets/new.png)  
-- [2022-05-24-求助识别身份证号码的办法](https://www.v2ex.com/t/854918) ![](assets/new.png)  
-- [2022-05-24-MBP-购买的时机询问](https://www.v2ex.com/t/854917) ![](assets/new.png)  
-- [2022-05-24-如果失业了，你的存款可以坚持多久？](https://www.v2ex.com/t/854916) ![](assets/new.png)  
-- [2022-05-24-webstorm-无法调试-nodejs](https://www.v2ex.com/t/854914) ![](assets/new.png)  
-- [2022-05-24-发现经常有程序导致-M1-MBA-过热](https://www.v2ex.com/t/854913) ![](assets/new.png)  
-- [2022-05-24-声网开发者创业讲堂丨第-3-期：创业初期如何保障产品质量？](https://www.v2ex.com/t/854912) ![](assets/new.png)  
-- [2022-05-24-背单词看小说，做一款一边背单词一边看小说跟着剧情走的英语学习程序怎样？](https://www.v2ex.com/t/854911) ![](assets/new.png)  
-- [2022-05-24-选一样学习，-kotlin-还是-flutter](https://www.v2ex.com/t/854910) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -562,17 +562,17 @@
 - [2022-05-24-PyTorch-常用-Tricks-总结](https://toutiao.io/k/ar8uj9y) ![](assets/new.png)  
 - [2022-05-24-我们为什么选择使用分布式持续交付新星-Zadig](https://toutiao.io/k/z5u4lvd) ![](assets/new.png)  
 - [2022-05-24-写好技术原创文章的一点建议](https://toutiao.io/k/op0y5m9) ![](assets/new.png)  
+- [2022-05-24-浅入浅出代理模式与-Spring-事务管理](https://toutiao.io/k/u6qghq9) ![](assets/new.png)  
 - [2022-05-24-使用ebpf跟踪rpcx微服务](https://toutiao.io/k/vd03qds) ![](assets/new.png)  
 - [2022-05-24-使用-KubeSphere-与极狐GitLab-打造云原生持续交付系统](https://toutiao.io/k/dnatzuc) ![](assets/new.png)  
-- [2022-05-24-浅入浅出代理模式与-Spring-事务管理](https://toutiao.io/k/u6qghq9) ![](assets/new.png)  
 - [2022-05-24-攻防实战下的威胁狩猎｜附完整报告下载](https://toutiao.io/k/7m82bo0) ![](assets/new.png)  
 - [2022-05-24-Automatic-batching-support-in-React-18](https://toutiao.io/k/hf6stjj) ![](assets/new.png)  
-- [2022-05-24-推荐-如何画好一张架构图？](https://toutiao.io/k/bu1pi73) ![](assets/new.png)  
-- [2022-05-24-推荐-你见过哪些目瞪口呆的-Java-代码技巧？](https://toutiao.io/k/avsba7r) ![](assets/new.png)  
-- [2022-05-24-推荐-跨Mysql、Redis、Mongo的分布式事务](https://toutiao.io/k/246clz1) ![](assets/new.png)  
 - [2022-05-24-推荐-ThreadLocal夺命11连问](https://toutiao.io/k/p8lpi5z) ![](assets/new.png)  
-- [2022-05-24-推荐-首个确保缓存与数据库一致性的方案](https://toutiao.io/k/imjqbp3) ![](assets/new.png)  
 - [2022-05-24-推荐-TCP-重传、滑动窗口、流量控制、拥塞控好难？看完图解就不愁了（重制）](https://toutiao.io/k/14tz08l) ![](assets/new.png)  
+- [2022-05-24-推荐-聊聊我们是如何做系统保障方案的](https://toutiao.io/k/i8q3ye4) ![](assets/new.png)  
+- [2022-05-24-推荐-首个确保缓存与数据库一致性的方案](https://toutiao.io/k/imjqbp3) ![](assets/new.png)  
+- [2022-05-24-推荐-跨Mysql、Redis、Mongo的分布式事务](https://toutiao.io/k/246clz1) ![](assets/new.png)  
+- [2022-05-24-推荐-你见过哪些目瞪口呆的-Java-代码技巧？](https://toutiao.io/k/avsba7r) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

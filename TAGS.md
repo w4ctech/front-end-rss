@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-05-24 13:14:32。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-05-24 13:56:58。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -286,10 +286,11 @@
 - [【武汉肺炎防疫全纪录(财新网)】腺病毒新冠疫苗引安全忧虑-康希诺称未发现血栓病例](https://m.caixin.com/m/2021-04-14/101691086.html)
 - [【武汉肺炎防疫全纪录(财新网)】解药|新冠mRNA疫苗安全性有哪些挑战？](https://m.caixin.com/m/2021-01-08/101648043.html)
 - [【武汉肺炎防疫全纪录(财新网)】大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html)
+- [【V2EX】chrome-插件-Joyjd-营销活动辅助插件](https://www.v2ex.com/t/855071)
+- [【V2EX】今天-github-忽然无法-clone，-ping-域名，返回的-ip-始终都是-127.0.0.1，但是浏览器访问没有问题？](https://www.v2ex.com/t/855065)
 - [【V2EX】curl-测试-V2EX-首页耗时-1-秒多-是正常的吗](https://www.v2ex.com/t/855060)
 - [【V2EX】Vivo-手机可以直接通过浏览器和手机投屏交互](https://www.v2ex.com/t/855034)
 - [【V2EX】go-中，`rand.Intn`-是否是线程安全的](https://www.v2ex.com/t/855026)
-- [【V2EX】websocket-怎么实现轮询效果](https://www.v2ex.com/t/855017)
 - [【技术头条】改hosts不生效？教你清理Chrome的DNS缓存-hessian.cn](https://blogread.cn/news/go.php?idItem=15106&url=https%3A%2F%2Fhessian.cn%2Fp%2F1645.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【技术头条】curl-设置代理，看这篇就够了-droidyue.com](https://blogread.cn/news/go.php?idItem=15102&url=https%3A%2F%2Fdroidyue.com%2Fblog%2F2021%2F07%2F07%2Fset-proxy-for-curl%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【技术头条】如何做好-PRR（Production-Rediness-Review）？-blog.alswl.com](https://blogread.cn/news/go.php?idItem=15101&url=https%3A%2F%2Fblog.alswl.com%2F2021%2F06%2Fprr%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
@@ -310,6 +311,7 @@
 
 
 
+- [【V2EX】pycharm-里面写-jupyter-notebook-时在一个-block-里面最后一行-vim-模式按-p-无法粘贴](https://www.v2ex.com/t/855068)
 - [【V2EX】Logitech-Options+-正式版发布，新增-MX-Mechanical-键盘，-MX-Master-3S-鼠标](https://www.v2ex.com/t/855049)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 
@@ -343,6 +345,7 @@
 
 
 
+- [【V2EX】Git-使用-git-clone-命令用-ssh-克隆，具体报错如下，怎么办？已经在墙外了](https://www.v2ex.com/t/855063)
 - [【开发者头条】使用-KubeSphere-与极狐GitLab-打造云原生持续交付系统](https://toutiao.io/k/dnatzuc)
 - [......【查看更多】......](./details/tags/git-svn.md)
 

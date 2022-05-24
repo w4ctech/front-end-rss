@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-05-24 07:14:05。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-05-24 07:40:06。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -338,6 +338,7 @@
 
 
 
+- [【V2EX】用-Gitee-作为图床的哭死了](https://www.v2ex.com/t/854974)
 - [【开发者头条】使用-KubeSphere-与极狐GitLab-打造云原生持续交付系统](https://toutiao.io/k/dnatzuc)
 - [......【查看更多】......](./details/tags/git-svn.md)
 

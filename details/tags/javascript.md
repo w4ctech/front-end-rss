@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-05-24 16:28:52。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-05-24 17:01:38。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -22,3 +22,4 @@
 - [2022-05-24-Fastjson-反序列化漏洞-影响版本≤1.2.80](https://www.v2ex.com/t/855061) 
 - [2022-05-24-angularjs-如何获取编译前的-html-模板](https://www.v2ex.com/t/855052) 
 - [2022-05-24-近期家用设备（NUC、猫盘、路由器）散热升级记录-soulteary.com](https://blogread.cn/news/go.php?idItem=15103&url=https%3A%2F%2Fsoulteary.com%2F2021%2F10%2F14%2Frecent-heat-dissipation-upgrade-record-of-homelab.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2022-05-24-曝光！Fastjson-反序列化高危漏洞多种修复方案](https://toutiao.io/k/czruri7) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-05-25 19:37:49。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-05-25 20:16:14。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -74,7 +74,6 @@
 - [【V2EX】2022-05-25-遗憾没把握一个很好的工作机会](https://www.v2ex.com/t/855338) 
 - [【V2EX】2022-05-25-github-被本地网络定向到-127.0.0.1-是什么一回事？](https://www.v2ex.com/t/855337) 
 - [【V2EX】2022-05-25-各位使用-archlinux-是如何解决终端里-github-下载失败-abort-的？](https://www.v2ex.com/t/855335) 
-- [【V2EX】2022-05-25-欧美科技公司目前也在裁员...-全世界科技圈都发生什么事情了....-这形势下个人应该要怎么做呢？](https://www.v2ex.com/t/855333) 
 - [【V2EX】2022-05-25-请问怎么改善触摸板的使用体验？](https://www.v2ex.com/t/855332) 
 - [【V2EX】2022-05-25-国产安卓-fcm-自动重连问题](https://www.v2ex.com/t/855331) 
 - [【V2EX】2022-05-25-开源了自用的个人站点，安排了一个演示站，欢迎大家来体验。](https://www.v2ex.com/t/855330) 
@@ -147,11 +146,11 @@
 - [【开发者头条】2022-05-25-现代编程语言需要泛型](https://toutiao.io/k/mwqie6s) 
 - [【开发者头条】2022-05-25-try-with-resources-这样坑过我](https://toutiao.io/k/v3vf7mf) 
 - [【开发者头条】2022-05-25-如何优雅的在-H5-网页中实现扫码功能](https://toutiao.io/k/ua3prgq) 
-- [【开发者头条】2022-05-25-推荐-如何画好一张架构图？](https://toutiao.io/k/bu1pi73) 
-- [【开发者头条】2022-05-25-推荐-你见过哪些目瞪口呆的-Java-代码技巧？](https://toutiao.io/k/avsba7r) 
 - [【开发者头条】2022-05-25-推荐-聊聊我们是如何做系统保障方案的](https://toutiao.io/k/i8q3ye4) 
-- [【开发者头条】2022-05-25-推荐-首个确保缓存与数据库一致性的方案](https://toutiao.io/k/imjqbp3) 
+- [【开发者头条】2022-05-25-推荐-你见过哪些目瞪口呆的-Java-代码技巧？](https://toutiao.io/k/avsba7r) 
+- [【开发者头条】2022-05-25-推荐-如何画好一张架构图？](https://toutiao.io/k/bu1pi73) 
 - [【开发者头条】2022-05-25-推荐-ThreadLocal夺命11连问](https://toutiao.io/k/p8lpi5z) 
+- [【开发者头条】2022-05-25-推荐-首个确保缓存与数据库一致性的方案](https://toutiao.io/k/imjqbp3) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

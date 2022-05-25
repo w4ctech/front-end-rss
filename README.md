@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-05-25 18:17:27，:rocket: 更新条数: +2028， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-05-25 18:48:02，:rocket: 更新条数: +2028， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-05-25-遗憾没把握一个很好的工作机会](https://www.v2ex.com/t/855338) ![](assets/new.png)  
 - [2022-05-25-github-被本地网络定向到-127.0.0.1-是什么一回事？](https://www.v2ex.com/t/855337) ![](assets/new.png)  
 - [2022-05-25-各位使用-archlinux-是如何解决终端里-github-下载失败-abort-的？](https://www.v2ex.com/t/855335) ![](assets/new.png)  
 - [2022-05-25-欧美科技公司目前也在裁员...-全世界科技圈都发生什么事情了....-这形势下个人应该要怎么做呢？](https://www.v2ex.com/t/855333) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-05-25-Java-中调用-kettle-如何传递变量？](https://www.v2ex.com/t/855317) ![](assets/new.png)  
 - [2022-05-25-关于-scrum-master-的一些问题请教大家](https://www.v2ex.com/t/855316) ![](assets/new.png)  
 - [2022-05-25-搭建-wordpress-完成后的最后一步出问题](https://www.v2ex.com/t/855315) ![](assets/new.png)  
-- [2022-05-25-网友最爱随意填写的-QQ-号码排行榜](https://www.v2ex.com/t/855314) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -571,7 +571,7 @@
 - [2022-05-25-现代编程语言需要泛型](https://toutiao.io/k/mwqie6s) ![](assets/new.png)  
 - [2022-05-25-try-with-resources-这样坑过我](https://toutiao.io/k/v3vf7mf) ![](assets/new.png)  
 - [2022-05-25-如何优雅的在-H5-网页中实现扫码功能](https://toutiao.io/k/ua3prgq) ![](assets/new.png)  
-- [2022-05-25-推荐-你见过哪些目瞪口呆的-Java-代码技巧？](https://toutiao.io/k/avsba7r) ![](assets/new.png)  
+- [2022-05-25-推荐-如何画好一张架构图？](https://toutiao.io/k/bu1pi73) ![](assets/new.png)  
 - [2022-05-25-推荐-首个确保缓存与数据库一致性的方案](https://toutiao.io/k/imjqbp3) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

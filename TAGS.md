@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-05-25 05:20:03。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-05-25 05:43:18。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -237,6 +237,7 @@
 
 - [【武汉肺炎防疫全纪录(财新网)】广州17岁男生在定点医院参加高考-特殊考场视频监考](https://m.caixin.com/m/2021-06-05/101723418.html)
 - [【武汉肺炎防疫全纪录(财新网)】林郑月娥率13高官直播接种科兴疫苗-复星疫苗预计周中到港](https://m.caixin.com/m/2021-02-22/101665724.html)
+- [【V2EX】发了个四月之声的视频在小博客，网站就被办了这点自由都没有吗](https://www.v2ex.com/t/855197)
 - [【开发者头条】叫板DALL·E-2，预训练大模型做编码器，谷歌把文字转图像模型卷上天](https://toutiao.io/k/b7ivfge)
 - [......【查看更多】......](./details/tags/audio-video.md)
 
@@ -299,7 +300,6 @@
 
 
 - [【V2EX】要按两下快捷键才可以唤出-Alfred/Raycast,-应该从哪里下手排查？](https://www.v2ex.com/t/855167)
-- [【V2EX】腾讯云-GPU-云-5-折，-Mysql-数据库-5.5-折](https://www.v2ex.com/t/855144)
 - [【开发者头条】深入-HTTP/3（2）｜不那么-Boring-的-SSL](https://toutiao.io/k/rnojf2k)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 

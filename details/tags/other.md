@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-05-25 16:19:42。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-05-25 17:03:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1912,6 +1912,7 @@
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2022-03-21-ascent-override-descent-override-line-gap-override一锅端](https://www.zhangxinxu.com/wordpress/2022/03/css-ascent-override-descent/) 
+- [2022-05-25-国产安卓-fcm-自动重连问题](https://www.v2ex.com/t/855331) 
 - [2022-05-25-开源了自用的个人站点，安排了一个演示站，欢迎大家来体验。](https://www.v2ex.com/t/855330) 
 - [2022-05-25-今天是我爸的生日，有感而发](https://www.v2ex.com/t/855328) 
 - [2022-05-25-TX-能要点碧莲么？-PC-QQ-你这是逼着人家升级，不升级不给登录？](https://www.v2ex.com/t/855327) 
@@ -1967,6 +1968,6 @@
 - [2022-05-25-现代编程语言需要泛型](https://toutiao.io/k/mwqie6s) 
 - [2022-05-25-try-with-resources-这样坑过我](https://toutiao.io/k/v3vf7mf) 
 - [2022-05-25-推荐-ThreadLocal夺命11连问](https://toutiao.io/k/p8lpi5z) 
-- [2022-05-25-推荐-如何画好一张架构图？](https://toutiao.io/k/bu1pi73) 
 - [2022-05-25-推荐-聊聊我们是如何做系统保障方案的](https://toutiao.io/k/i8q3ye4) 
 - [2022-05-25-推荐-你见过哪些目瞪口呆的-Java-代码技巧？](https://toutiao.io/k/avsba7r) 
+- [2022-05-25-推荐-如何画好一张架构图？](https://toutiao.io/k/bu1pi73) 

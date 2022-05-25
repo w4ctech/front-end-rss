@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-05-25 17:33:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-05-25 18:17:27。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1936,7 +1936,6 @@
 - [2022-05-25-如何评价-SigmaOS？](https://www.v2ex.com/t/855294) 
 - [2022-05-25-救命！关于-openwrt-仅限给单独设备分配-v6-这件事](https://www.v2ex.com/t/855292) 
 - [2022-05-25-深惠两地转让荣威-RX5](https://www.v2ex.com/t/855290) 
-- [2022-05-25-求教,在同一个目录下有两个文件-a.html-和-b.-PHP-,a-里面有段代码需要调用-b-生成的内容,现在是用.htaccess-允许-a.html-运行-PHP-代码,如果不用.htaccess,只用...](https://www.v2ex.com/t/855287) 
 - [2022-05-25-什么是子网掩码?-www.awaimai.com](https://blogread.cn/news/go.php?idItem=15112&url=https%3A%2F%2Fwww.awaimai.com%2F2933.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-05-25-4-个用来擦除数据的-Linux-工具-linux.cn](https://blogread.cn/news/go.php?idItem=15111&url=https%3A%2F%2Flinux.cn%2Farticle-13913-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-05-25-使用-logrotate-命令轮转和归档日志-linux.cn](https://blogread.cn/news/go.php?idItem=15110&url=https%3A%2F%2Flinux.cn%2Farticle-13909-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1964,7 +1963,7 @@
 - [2022-05-25-我在荷兰做程序员的体验](https://toutiao.io/k/iqe7bjv) 
 - [2022-05-25-现代编程语言需要泛型](https://toutiao.io/k/mwqie6s) 
 - [2022-05-25-try-with-resources-这样坑过我](https://toutiao.io/k/v3vf7mf) 
+- [2022-05-25-推荐-你见过哪些目瞪口呆的-Java-代码技巧？](https://toutiao.io/k/avsba7r) 
+- [2022-05-25-推荐-聊聊我们是如何做系统保障方案的](https://toutiao.io/k/i8q3ye4) 
 - [2022-05-25-推荐-如何画好一张架构图？](https://toutiao.io/k/bu1pi73) 
 - [2022-05-25-推荐-ThreadLocal夺命11连问](https://toutiao.io/k/p8lpi5z) 
-- [2022-05-25-推荐-聊聊我们是如何做系统保障方案的](https://toutiao.io/k/i8q3ye4) 
-- [2022-05-25-推荐-你见过哪些目瞪口呆的-Java-代码技巧？](https://toutiao.io/k/avsba7r) 

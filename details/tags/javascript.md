@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-05-25 12:27:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-05-25 13:15:43。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -20,6 +20,5 @@
 - [2022-03-15-基于howler.js写了个音频播放器组件](https://www.zhangxinxu.com/wordpress/2022/03/howler-js-audio-player/) 
 - [2022-03-07-介绍8个和滚动相关的CSS属性](https://www.zhangxinxu.com/wordpress/2022/03/10-css-scroll-scrollbar/) 
 - [2022-05-25-shell-脚本的字符串中包含的变量要怎么才能被解析](https://www.v2ex.com/t/855269) 
-- [2022-05-25-刚学习编程就遇到-Cannot-find-module-'Buffer'-or-its-corresponding-type-declarations](https://www.v2ex.com/t/855252) 
 - [2022-05-25-近期家用设备（NUC、猫盘、路由器）散热升级记录-soulteary.com](https://blogread.cn/news/go.php?idItem=15103&url=https%3A%2F%2Fsoulteary.com%2F2021%2F10%2F14%2Frecent-heat-dissipation-upgrade-record-of-homelab.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-05-25-如何优雅的在-H5-网页中实现扫码功能](https://toutiao.io/k/ua3prgq) 

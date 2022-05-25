@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-05-25 12:27:25。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-05-25 13:15:43。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -70,6 +70,11 @@
 
 - [【张鑫旭-鑫空间-鑫生活】2022-05-22-CSS必学基础：理解CSS中的级联规则](https://www.zhangxinxu.com/wordpress/2022/05/deep-in-css-cascade/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-05-11-JS与条形码的生成](https://www.zhangxinxu.com/wordpress/2022/05/js-barcode/) 
+- [【V2EX】2022-05-25-mac-Safari-书签栏不能显示网站-logo](https://www.v2ex.com/t/855300) 
+- [【V2EX】2022-05-25-国行在保-iPhone-摄像头坏了怎么保修？](https://www.v2ex.com/t/855299) 
+- [【V2EX】2022-05-25-牙磕掉了-4-颗、玩滑板速降-冲到地上了。上牙掉了四颗-全景显示牙根还在](https://www.v2ex.com/t/855298) 
+- [【V2EX】2022-05-25-远程-#硅谷创业团队#区块链+游戏#招募-UI](https://www.v2ex.com/t/855296) 
+- [【V2EX】2022-05-25-如何反驳因为觉得维护文档太麻烦，消极看待写文档这种观点？](https://www.v2ex.com/t/855295) 
 - [【V2EX】2022-05-25-如何评价-SigmaOS？](https://www.v2ex.com/t/855294) 
 - [【V2EX】2022-05-25-救命！关于-openwrt-仅限给单独设备分配-v6-这件事](https://www.v2ex.com/t/855292) 
 - [【V2EX】2022-05-25-我发现-Edge-浏览器的密码管理有重大安全隐患！](https://www.v2ex.com/t/855291) 
@@ -103,13 +108,6 @@
 - [【V2EX】2022-05-25-内推-北京/深圳/成都「字节跳动---智能化创作」招前端含实习,-新方向大量机会](https://www.v2ex.com/t/855257) 
 - [【V2EX】2022-05-25-有没有汇聚-bbs-的-app](https://www.v2ex.com/t/855254) 
 - [【V2EX】2022-05-25-提前还部分房贷的收益计算](https://www.v2ex.com/t/855253) 
-- [【V2EX】2022-05-25-刚学习编程就遇到-Cannot-find-module-'Buffer'-or-its-corresponding-type-declarations](https://www.v2ex.com/t/855252) 
-- [【V2EX】2022-05-25-榴莲日记-总有留恋，留在心间！-By-Flutter](https://www.v2ex.com/t/855251) 
-- [【V2EX】2022-05-25-安卓开发用-vivo-的坑，-as-要怎么持续安装-apk？](https://www.v2ex.com/t/855249) 
-- [【V2EX】2022-05-25-OpenWrt-只桥接-ipv6-而-ipv4-使用-NAT-是否可行？](https://www.v2ex.com/t/855248) 
-- [【V2EX】2022-05-25-谷歌:Our-hearts-are-with-the-community-of-Lvalde-,-Texas.-我们的心与德克萨斯州利瓦尔德社区同在.](https://www.v2ex.com/t/855247) 
-- [【V2EX】2022-05-25-记一次-arch-从入门到跑路](https://www.v2ex.com/t/855246) 
-- [【V2EX】2022-05-25-在职找工作，可以跟对方约定一月后入职吗？](https://www.v2ex.com/t/855245) 
 - [【技术头条】2022-05-25-什么是子网掩码?-www.awaimai.com](https://blogread.cn/news/go.php?idItem=15112&url=https%3A%2F%2Fwww.awaimai.com%2F2933.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-05-25-4-个用来擦除数据的-Linux-工具-linux.cn](https://blogread.cn/news/go.php?idItem=15111&url=https%3A%2F%2Flinux.cn%2Farticle-13913-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-05-25-使用-logrotate-命令轮转和归档日志-linux.cn](https://blogread.cn/news/go.php?idItem=15110&url=https%3A%2F%2Flinux.cn%2Farticle-13909-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -138,9 +136,9 @@
 - [【开发者头条】2022-05-25-基于ES的开源分布式SQL数据库，CrateDB适用于哪些场景？](https://toutiao.io/k/rce7d08) 
 - [【开发者头条】2022-05-25-Containerd深度剖析-runtime篇](https://toutiao.io/k/obt197c) 
 - [【开发者头条】2022-05-25-Golang-常见设计模式之单例模式](https://toutiao.io/k/z2o8bzu) 
+- [【开发者头条】2022-05-25-六年团队Leader实战秘诀｜程序员最重要的八种软技能](https://toutiao.io/k/3xfb5ji) 
 - [【开发者头条】2022-05-25-B站大数据平台元数据业务分享](https://toutiao.io/k/9np51g9) 
 - [【开发者头条】2022-05-25-深入-HTTP/3（2）｜不那么-Boring-的-SSL](https://toutiao.io/k/rnojf2k) 
-- [【开发者头条】2022-05-25-六年团队Leader实战秘诀｜程序员最重要的八种软技能](https://toutiao.io/k/3xfb5ji) 
 - [【开发者头条】2022-05-25-前端周刊：2022-8-期](https://toutiao.io/k/clixoe4) 
 - [【开发者头条】2022-05-25-叫板DALL·E-2，预训练大模型做编码器，谷歌把文字转图像模型卷上天](https://toutiao.io/k/b7ivfge) 
 - [【开发者头条】2022-05-25-我在荷兰做程序员的体验](https://toutiao.io/k/iqe7bjv) 
@@ -148,11 +146,11 @@
 - [【开发者头条】2022-05-25-try-with-resources-这样坑过我](https://toutiao.io/k/v3vf7mf) 
 - [【开发者头条】2022-05-25-现代编程语言需要泛型](https://toutiao.io/k/mwqie6s) 
 - [【开发者头条】2022-05-25-如何优雅的在-H5-网页中实现扫码功能](https://toutiao.io/k/ua3prgq) 
-- [【开发者头条】2022-05-25-推荐-首个确保缓存与数据库一致性的方案](https://toutiao.io/k/imjqbp3) 
 - [【开发者头条】2022-05-25-推荐-你见过哪些目瞪口呆的-Java-代码技巧？](https://toutiao.io/k/avsba7r) 
 - [【开发者头条】2022-05-25-推荐-如何画好一张架构图？](https://toutiao.io/k/bu1pi73) 
-- [【开发者头条】2022-05-25-推荐-ThreadLocal夺命11连问](https://toutiao.io/k/p8lpi5z) 
 - [【开发者头条】2022-05-25-推荐-聊聊我们是如何做系统保障方案的](https://toutiao.io/k/i8q3ye4) 
+- [【开发者头条】2022-05-25-推荐-ThreadLocal夺命11连问](https://toutiao.io/k/p8lpi5z) 
+- [【开发者头条】2022-05-25-推荐-首个确保缓存与数据库一致性的方案](https://toutiao.io/k/imjqbp3) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

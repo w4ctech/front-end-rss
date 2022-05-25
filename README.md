@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-05-25 15:45:53，:rocket: 更新条数: +2027， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-05-25 16:19:42，:rocket: 更新条数: +2029， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,9 @@
 </summary>
 
 
+- [2022-05-25-开源了自用的个人站点，安排了一个演示站，欢迎大家来体验。](https://www.v2ex.com/t/855330) ![](assets/new.png)  
+- [2022-05-25-m1mac-电源事件](https://www.v2ex.com/t/855329) ![](assets/new.png)  
+- [2022-05-25-今天是我爸的生日，有感而发](https://www.v2ex.com/t/855328) ![](assets/new.png)  
 - [2022-05-25-TX-能要点碧莲么？-PC-QQ-你这是逼着人家升级，不升级不给登录？](https://www.v2ex.com/t/855327) ![](assets/new.png)  
 - [2022-05-25-关于-Apple-Music-部分歌曲歌词按钮突然变灰的问题](https://www.v2ex.com/t/855326) ![](assets/new.png)  
 - [2022-05-25-请教一下个人在-ios-实现一个蓝牙控制怎么样最简单](https://www.v2ex.com/t/855325) ![](assets/new.png)  
@@ -508,9 +511,6 @@
 - [2022-05-25-openclash-竟然会影响-ddns，求解决方案](https://www.v2ex.com/t/855308) ![](assets/new.png)  
 - [2022-05-25-AWS-EventBridge-求教](https://www.v2ex.com/t/855307) ![](assets/new.png)  
 - [2022-05-25-组团团购-N5105-CPU-软路由裸机，不含内存、硬盘](https://www.v2ex.com/t/855306) ![](assets/new.png)  
-- [2022-05-25-我写了一个青龙-iOS-客户端，欢迎大家试用](https://www.v2ex.com/t/855305) ![](assets/new.png)  
-- [2022-05-25-B-站怎么用时间线筛选视频](https://www.v2ex.com/t/855304) ![](assets/new.png)  
-- [2022-05-25-双系统](https://www.v2ex.com/t/855303) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -569,10 +569,10 @@
 - [2022-05-25-叫板DALL·E-2，预训练大模型做编码器，谷歌把文字转图像模型卷上天](https://toutiao.io/k/b7ivfge) ![](assets/new.png)  
 - [2022-05-25-发现一个开源项目优化点，点进来就是你的了](https://toutiao.io/k/17l31tm) ![](assets/new.png)  
 - [2022-05-25-现代编程语言需要泛型](https://toutiao.io/k/mwqie6s) ![](assets/new.png)  
-- [2022-05-25-如何优雅的在-H5-网页中实现扫码功能](https://toutiao.io/k/ua3prgq) ![](assets/new.png)  
 - [2022-05-25-try-with-resources-这样坑过我](https://toutiao.io/k/v3vf7mf) ![](assets/new.png)  
-- [2022-05-25-推荐-聊聊我们是如何做系统保障方案的](https://toutiao.io/k/i8q3ye4) ![](assets/new.png)  
+- [2022-05-25-如何优雅的在-H5-网页中实现扫码功能](https://toutiao.io/k/ua3prgq) ![](assets/new.png)  
 - [2022-05-25-推荐-ThreadLocal夺命11连问](https://toutiao.io/k/p8lpi5z) ![](assets/new.png)  
+- [2022-05-25-推荐-首个确保缓存与数据库一致性的方案](https://toutiao.io/k/imjqbp3) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

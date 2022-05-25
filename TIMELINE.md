@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-05-25 15:45:53。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-05-25 16:19:42。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -70,6 +70,9 @@
 
 - [【张鑫旭-鑫空间-鑫生活】2022-05-22-CSS必学基础：理解CSS中的级联规则](https://www.zhangxinxu.com/wordpress/2022/05/deep-in-css-cascade/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-05-11-JS与条形码的生成](https://www.zhangxinxu.com/wordpress/2022/05/js-barcode/) 
+- [【V2EX】2022-05-25-开源了自用的个人站点，安排了一个演示站，欢迎大家来体验。](https://www.v2ex.com/t/855330) 
+- [【V2EX】2022-05-25-m1mac-电源事件](https://www.v2ex.com/t/855329) 
+- [【V2EX】2022-05-25-今天是我爸的生日，有感而发](https://www.v2ex.com/t/855328) 
 - [【V2EX】2022-05-25-TX-能要点碧莲么？-PC-QQ-你这是逼着人家升级，不升级不给登录？](https://www.v2ex.com/t/855327) 
 - [【V2EX】2022-05-25-关于-Apple-Music-部分歌曲歌词按钮突然变灰的问题](https://www.v2ex.com/t/855326) 
 - [【V2EX】2022-05-25-请教一下个人在-ios-实现一个蓝牙控制怎么样最简单](https://www.v2ex.com/t/855325) 
@@ -107,7 +110,6 @@
 - [【V2EX】2022-05-25-如果你收外卖时被外卖小哥拍照，你是什么感想？](https://www.v2ex.com/t/855284) 
 - [【V2EX】2022-05-25-Google-怎么用了个这么怪的域名](https://www.v2ex.com/t/855283) 
 - [【V2EX】2022-05-25-#产品运营---创意内容策略运营（全职/实习）15-30k-#财务-bp-10-20k-其他岗位和介绍可参考首页以往动态）-hr@enlighten.finance](https://www.v2ex.com/t/855282) 
-- [【V2EX】2022-05-25-go-语言，如何实现这样的嵌套循环？](https://www.v2ex.com/t/855279) 
 - [【技术头条】2022-05-25-什么是子网掩码?-www.awaimai.com](https://blogread.cn/news/go.php?idItem=15112&url=https%3A%2F%2Fwww.awaimai.com%2F2933.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-05-25-4-个用来擦除数据的-Linux-工具-linux.cn](https://blogread.cn/news/go.php?idItem=15111&url=https%3A%2F%2Flinux.cn%2Farticle-13913-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-05-25-使用-logrotate-命令轮转和归档日志-linux.cn](https://blogread.cn/news/go.php?idItem=15110&url=https%3A%2F%2Flinux.cn%2Farticle-13909-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -144,12 +146,12 @@
 - [【开发者头条】2022-05-25-叫板DALL·E-2，预训练大模型做编码器，谷歌把文字转图像模型卷上天](https://toutiao.io/k/b7ivfge) 
 - [【开发者头条】2022-05-25-发现一个开源项目优化点，点进来就是你的了](https://toutiao.io/k/17l31tm) 
 - [【开发者头条】2022-05-25-现代编程语言需要泛型](https://toutiao.io/k/mwqie6s) 
-- [【开发者头条】2022-05-25-如何优雅的在-H5-网页中实现扫码功能](https://toutiao.io/k/ua3prgq) 
 - [【开发者头条】2022-05-25-try-with-resources-这样坑过我](https://toutiao.io/k/v3vf7mf) 
-- [【开发者头条】2022-05-25-推荐-聊聊我们是如何做系统保障方案的](https://toutiao.io/k/i8q3ye4) 
+- [【开发者头条】2022-05-25-如何优雅的在-H5-网页中实现扫码功能](https://toutiao.io/k/ua3prgq) 
 - [【开发者头条】2022-05-25-推荐-ThreadLocal夺命11连问](https://toutiao.io/k/p8lpi5z) 
-- [【开发者头条】2022-05-25-推荐-如何画好一张架构图？](https://toutiao.io/k/bu1pi73) 
 - [【开发者头条】2022-05-25-推荐-首个确保缓存与数据库一致性的方案](https://toutiao.io/k/imjqbp3) 
+- [【开发者头条】2022-05-25-推荐-如何画好一张架构图？](https://toutiao.io/k/bu1pi73) 
+- [【开发者头条】2022-05-25-推荐-聊聊我们是如何做系统保障方案的](https://toutiao.io/k/i8q3ye4) 
 - [【开发者头条】2022-05-25-推荐-你见过哪些目瞪口呆的-Java-代码技巧？](https://toutiao.io/k/avsba7r) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>

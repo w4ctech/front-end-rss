@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-05-25 09:14:24，:rocket: 更新条数: +2032， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-05-25 09:40:33，:rocket: 更新条数: +2030， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,13 @@
 </summary>
 
 
+- [2022-05-25-上海-高级硬件质量工程师](https://www.v2ex.com/t/855264) ![](assets/new.png)  
+- [2022-05-25-Mac-上的-Apple-Music，点了一下-Itunes-store-菜单，就无法切换到其他菜单了。。](https://www.v2ex.com/t/855262) ![](assets/new.png)  
+- [2022-05-25-百度开始病急乱投医了吗](https://www.v2ex.com/t/855261) ![](assets/new.png)  
+- [2022-05-25-IDEA-禁止使用-com.alibaba-包下轮子的插件](https://www.v2ex.com/t/855260) ![](assets/new.png)  
+- [2022-05-25-今天-chrome-在-play-市场更新后，除谷歌外所有网站的-cookies-均失效了，需重新登录](https://www.v2ex.com/t/855259) ![](assets/new.png)  
+- [2022-05-25-你们都用什么方法缓解眼睛疲劳？](https://www.v2ex.com/t/855258) ![](assets/new.png)  
+- [2022-05-25-内推-北京/深圳/成都「字节跳动---智能化创作」招前端含实习,-新方向大量机会](https://www.v2ex.com/t/855257) ![](assets/new.png)  
 - [2022-05-25-有没有汇聚-bbs-的-app](https://www.v2ex.com/t/855254) ![](assets/new.png)  
 - [2022-05-25-提前还部分房贷的收益计算](https://www.v2ex.com/t/855253) ![](assets/new.png)  
 - [2022-05-25-刚学习编程就遇到-Cannot-find-module-'Buffer'-or-its-corresponding-type-declarations](https://www.v2ex.com/t/855252) ![](assets/new.png)  
@@ -504,13 +511,6 @@
 - [2022-05-25-广州电信不给双公网了，以前一直都是-ipv4-和-ipv6-公网用得好好的，-5-月十几号开始-ipv6-就不能用了。报了故障，电信师傅说-ipv4-公网和-ipv6-公网只能要其中...](https://www.v2ex.com/t/855242) ![](assets/new.png)  
 - [2022-05-25-pdd-把底配-mbp-14-干到-86-折了](https://www.v2ex.com/t/855241) ![](assets/new.png)  
 - [2022-05-25-吐槽一下-Mac-端钉钉吧。](https://www.v2ex.com/t/855240) ![](assets/new.png)  
-- [2022-05-25-磁盘的最大寻道时间max-seek-time或者平均寻道时间从哪里获得?](https://www.v2ex.com/t/855239) ![](assets/new.png)  
-- [2022-05-25-Find-a-fun-project-about-OS,-hack-it-Ruster-!](https://www.v2ex.com/t/855238) ![](assets/new.png)  
-- [2022-05-25-小伙伴们，投递邮箱：-hr@enlighten.finance](https://www.v2ex.com/t/855237) ![](assets/new.png)  
-- [2022-05-25-做了个面对创作者的认知小网站，-nft101.lfgkids.com，希望大家来玩。](https://www.v2ex.com/t/855236) ![](assets/new.png)  
-- [2022-05-25-关于-dhparam](https://www.v2ex.com/t/855235) ![](assets/new.png)  
-- [2022-05-25-存储里有多个时间机器备份磁盘,-怎么删除呢.](https://www.v2ex.com/t/855234) ![](assets/new.png)  
-- [2022-05-25-分享一个简单的基于-Jackson-的工具类,-别再用-fastJson-了](https://www.v2ex.com/t/855233) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -571,7 +571,7 @@
 - [2022-05-25-try-with-resources-这样坑过我](https://toutiao.io/k/v3vf7mf) ![](assets/new.png)  
 - [2022-05-25-现代编程语言需要泛型](https://toutiao.io/k/mwqie6s) ![](assets/new.png)  
 - [2022-05-25-如何优雅的在-H5-网页中实现扫码功能](https://toutiao.io/k/ua3prgq) ![](assets/new.png)  
-- [2022-05-25-推荐-ThreadLocal夺命11连问](https://toutiao.io/k/p8lpi5z) ![](assets/new.png)  
+- [2022-05-25-推荐-聊聊我们是如何做系统保障方案的](https://toutiao.io/k/i8q3ye4) ![](assets/new.png)  
 - [2022-05-25-推荐-首个确保缓存与数据库一致性的方案](https://toutiao.io/k/imjqbp3) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

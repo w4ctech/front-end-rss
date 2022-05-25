@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-05-25 21:13:46，:rocket: 更新条数: +2027， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-05-25 21:40:14，:rocket: 更新条数: +2027， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -553,8 +553,8 @@
 </summary>
 
 
-- [2022-05-25-前端:从零到一,-轻松把自己的网站部署到服务器](https://toutiao.io/k/w4mlsvi) ![](assets/new.png)  
 - [2022-05-25-聊聊接口设计的36个小技巧](https://toutiao.io/k/yqm776v) ![](assets/new.png)  
+- [2022-05-25-前端:从零到一,-轻松把自己的网站部署到服务器](https://toutiao.io/k/w4mlsvi) ![](assets/new.png)  
 - [2022-05-25-用42张图全面认识Web3；字节/华为/美团面经记录；张朝阳：初代大佬的价值归宿｜码农周刊VIP会员专属邮件周报-Vol.092](https://toutiao.io/k/z2l7od5) ![](assets/new.png)  
 - [2022-05-25-聊聊我对质量度量的看法](https://toutiao.io/k/xup74q5) ![](assets/new.png)  
 - [2022-05-25-想找个稳定的工作](https://toutiao.io/k/sr74c49) ![](assets/new.png)  
@@ -571,8 +571,8 @@
 - [2022-05-25-现代编程语言需要泛型](https://toutiao.io/k/mwqie6s) ![](assets/new.png)  
 - [2022-05-25-try-with-resources-这样坑过我](https://toutiao.io/k/v3vf7mf) ![](assets/new.png)  
 - [2022-05-25-如何优雅的在-H5-网页中实现扫码功能](https://toutiao.io/k/ua3prgq) ![](assets/new.png)  
+- [2022-05-25-推荐-首个确保缓存与数据库一致性的方案](https://toutiao.io/k/imjqbp3) ![](assets/new.png)  
 - [2022-05-25-推荐-ThreadLocal夺命11连问](https://toutiao.io/k/p8lpi5z) ![](assets/new.png)  
-- [2022-05-25-推荐-你见过哪些目瞪口呆的-Java-代码技巧？](https://toutiao.io/k/avsba7r) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

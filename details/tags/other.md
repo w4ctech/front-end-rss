@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-05-25 20:16:14。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-05-25 20:42:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1912,6 +1912,7 @@
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2022-03-21-ascent-override-descent-override-line-gap-override一锅端](https://www.zhangxinxu.com/wordpress/2022/03/css-ascent-override-descent/) 
+- [2022-05-25-SQL-求助，如何同时搜索两列数据的多种情况？](https://www.v2ex.com/t/855340) 
 - [2022-05-25-想请教一下-Apple-Watch-S7-是如何判断入睡与醒来时间呢？](https://www.v2ex.com/t/855339) 
 - [2022-05-25-遗憾没把握一个很好的工作机会](https://www.v2ex.com/t/855338) 
 - [2022-05-25-请问怎么改善触摸板的使用体验？](https://www.v2ex.com/t/855332) 
@@ -1936,7 +1937,6 @@
 - [2022-05-25-如何反驳因为觉得维护文档太麻烦，消极看待写文档这种观点？](https://www.v2ex.com/t/855295) 
 - [2022-05-25-如何评价-SigmaOS？](https://www.v2ex.com/t/855294) 
 - [2022-05-25-救命！关于-openwrt-仅限给单独设备分配-v6-这件事](https://www.v2ex.com/t/855292) 
-- [2022-05-25-深惠两地转让荣威-RX5](https://www.v2ex.com/t/855290) 
 - [2022-05-25-什么是子网掩码?-www.awaimai.com](https://blogread.cn/news/go.php?idItem=15112&url=https%3A%2F%2Fwww.awaimai.com%2F2933.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-05-25-4-个用来擦除数据的-Linux-工具-linux.cn](https://blogread.cn/news/go.php?idItem=15111&url=https%3A%2F%2Flinux.cn%2Farticle-13913-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-05-25-使用-logrotate-命令轮转和归档日志-linux.cn](https://blogread.cn/news/go.php?idItem=15110&url=https%3A%2F%2Flinux.cn%2Farticle-13909-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1964,7 +1964,7 @@
 - [2022-05-25-我在荷兰做程序员的体验](https://toutiao.io/k/iqe7bjv) 
 - [2022-05-25-现代编程语言需要泛型](https://toutiao.io/k/mwqie6s) 
 - [2022-05-25-try-with-resources-这样坑过我](https://toutiao.io/k/v3vf7mf) 
-- [2022-05-25-推荐-聊聊我们是如何做系统保障方案的](https://toutiao.io/k/i8q3ye4) 
 - [2022-05-25-推荐-你见过哪些目瞪口呆的-Java-代码技巧？](https://toutiao.io/k/avsba7r) 
 - [2022-05-25-推荐-如何画好一张架构图？](https://toutiao.io/k/bu1pi73) 
+- [2022-05-25-推荐-聊聊我们是如何做系统保障方案的](https://toutiao.io/k/i8q3ye4) 
 - [2022-05-25-推荐-ThreadLocal夺命11连问](https://toutiao.io/k/p8lpi5z) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-05-25 09:40:33，:rocket: 更新条数: +2030， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-05-25 10:17:47，:rocket: 更新条数: +2030， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,12 @@
 </summary>
 
 
+- [2022-05-25-为什么国内网站喜欢用短信作二次验证,而不用-TOTP?](https://www.v2ex.com/t/855271) ![](assets/new.png)  
+- [2022-05-25-shell-脚本的字符串中包含的变量要怎么才能被解析](https://www.v2ex.com/t/855269) ![](assets/new.png)  
+- [2022-05-25-GitHub-仓库对比工具-——-github-compare](https://www.v2ex.com/t/855268) ![](assets/new.png)  
+- [2022-05-25-为什么这几天会出现提示:你没有查看此页面的用户权限,被封号了？也不像啊](https://www.v2ex.com/t/855267) ![](assets/new.png)  
+- [2022-05-25-求助,踩到知识盲区了.如何才能对-git-submodule-启用-husky-校验?-eslint-和-package-在主项目中,-子模块只是一堆-vue-文件.和一个.git-文件,没有-package.json](https://www.v2ex.com/t/855266) ![](assets/new.png)  
+- [2022-05-25-不同系统之间字段统一](https://www.v2ex.com/t/855265) ![](assets/new.png)  
 - [2022-05-25-上海-高级硬件质量工程师](https://www.v2ex.com/t/855264) ![](assets/new.png)  
 - [2022-05-25-Mac-上的-Apple-Music，点了一下-Itunes-store-菜单，就无法切换到其他菜单了。。](https://www.v2ex.com/t/855262) ![](assets/new.png)  
 - [2022-05-25-百度开始病急乱投医了吗](https://www.v2ex.com/t/855261) ![](assets/new.png)  
@@ -505,12 +511,6 @@
 - [2022-05-25-安卓开发用-vivo-的坑，-as-要怎么持续安装-apk？](https://www.v2ex.com/t/855249) ![](assets/new.png)  
 - [2022-05-25-OpenWrt-只桥接-ipv6-而-ipv4-使用-NAT-是否可行？](https://www.v2ex.com/t/855248) ![](assets/new.png)  
 - [2022-05-25-谷歌:Our-hearts-are-with-the-community-of-Lvalde-,-Texas.-我们的心与德克萨斯州利瓦尔德社区同在.](https://www.v2ex.com/t/855247) ![](assets/new.png)  
-- [2022-05-25-记一次-arch-从入门到跑路](https://www.v2ex.com/t/855246) ![](assets/new.png)  
-- [2022-05-25-在职找工作，可以跟对方约定一月后入职吗？](https://www.v2ex.com/t/855245) ![](assets/new.png)  
-- [2022-05-25-求助ArchLinux-上无法使用杜伽-G502-键盘的蓝牙链接输入](https://www.v2ex.com/t/855244) ![](assets/new.png)  
-- [2022-05-25-广州电信不给双公网了，以前一直都是-ipv4-和-ipv6-公网用得好好的，-5-月十几号开始-ipv6-就不能用了。报了故障，电信师傅说-ipv4-公网和-ipv6-公网只能要其中...](https://www.v2ex.com/t/855242) ![](assets/new.png)  
-- [2022-05-25-pdd-把底配-mbp-14-干到-86-折了](https://www.v2ex.com/t/855241) ![](assets/new.png)  
-- [2022-05-25-吐槽一下-Mac-端钉钉吧。](https://www.v2ex.com/t/855240) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -571,8 +571,8 @@
 - [2022-05-25-try-with-resources-这样坑过我](https://toutiao.io/k/v3vf7mf) ![](assets/new.png)  
 - [2022-05-25-现代编程语言需要泛型](https://toutiao.io/k/mwqie6s) ![](assets/new.png)  
 - [2022-05-25-如何优雅的在-H5-网页中实现扫码功能](https://toutiao.io/k/ua3prgq) ![](assets/new.png)  
+- [2022-05-25-推荐-你见过哪些目瞪口呆的-Java-代码技巧？](https://toutiao.io/k/avsba7r) ![](assets/new.png)  
 - [2022-05-25-推荐-聊聊我们是如何做系统保障方案的](https://toutiao.io/k/i8q3ye4) ![](assets/new.png)  
-- [2022-05-25-推荐-首个确保缓存与数据库一致性的方案](https://toutiao.io/k/imjqbp3) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

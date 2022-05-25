@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-05-25 09:40:33。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-05-25 10:17:47。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -19,6 +19,7 @@
 - [2022-04-22-CSS实现滚动高度自动变小的粘滞效果](https://www.zhangxinxu.com/wordpress/2022/04/css-sticky-size-change/) 
 - [2022-03-15-基于howler.js写了个音频播放器组件](https://www.zhangxinxu.com/wordpress/2022/03/howler-js-audio-player/) 
 - [2022-03-07-介绍8个和滚动相关的CSS属性](https://www.zhangxinxu.com/wordpress/2022/03/10-css-scroll-scrollbar/) 
+- [2022-05-25-shell-脚本的字符串中包含的变量要怎么才能被解析](https://www.v2ex.com/t/855269) 
 - [2022-05-25-刚学习编程就遇到-Cannot-find-module-'Buffer'-or-its-corresponding-type-declarations](https://www.v2ex.com/t/855252) 
 - [2022-05-25-分享一个简单的基于-Jackson-的工具类,-别再用-fastJson-了](https://www.v2ex.com/t/855233) 
 - [2022-05-25-求推荐远程软件，-4k-显示器，-win-下分辨率可以适配到-2k，类似-jump-desk](https://www.v2ex.com/t/855227) 

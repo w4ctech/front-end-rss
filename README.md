@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-05-25 04:04:24，:rocket: 更新条数: +2026， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-05-25 04:58:41，:rocket: 更新条数: +2025， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,14 @@
 </summary>
 
 
+- [2022-05-25-Jdbc-Connection-为什么无法执行？](https://www.v2ex.com/t/855185) ![](assets/new.png)  
+- [2022-05-25-大家上班平时是怎么收快递？](https://www.v2ex.com/t/855181) ![](assets/new.png)  
+- [2022-05-25-你们住院会找“关系”吗？](https://www.v2ex.com/t/855180) ![](assets/new.png)  
+- [2022-05-25-iPhone-最近突然无法自动连接已保存的-WiFi？已勾选“自动加入”](https://www.v2ex.com/t/855179) ![](assets/new.png)  
+- [2022-05-25-想买一个-mini-主机写代码和跑一些重度应用，现在这个时间有什么值得推荐的么？](https://www.v2ex.com/t/855178) ![](assets/new.png)  
+- [2022-05-25-两个路由器均同名-5G-SSID，其中一个无线桥接另外一个-5GSSID，会冲突吗？](https://www.v2ex.com/t/855177) ![](assets/new.png)  
+- [2022-05-25-字节不同部门年终奖有系数差异吗？](https://www.v2ex.com/t/855176) ![](assets/new.png)  
+- [2022-05-25-5-年媒体行业经验最近面试了客服岗位，妻子反对](https://www.v2ex.com/t/855175) ![](assets/new.png)  
 - [2022-05-25-Manjaro-笔记本下连接外置显示器不显示](https://www.v2ex.com/t/855173) ![](assets/new.png)  
 - [2022-05-25-我是之前发帖询问裸辞的，说下最近的新情况](https://www.v2ex.com/t/855171) ![](assets/new.png)  
 - [2022-05-25-你们-apipods-会不会经常充电量不均衡？](https://www.v2ex.com/t/855170) ![](assets/new.png)  
@@ -503,14 +511,6 @@
 - [2022-05-25-没有大矛盾，却最终提了离婚](https://www.v2ex.com/t/855163) ![](assets/new.png)  
 - [2022-05-25-vue-初始化加载-chunk-vendors6-要-10-几秒....](https://www.v2ex.com/t/855162) ![](assets/new.png)  
 - [2022-05-25-米环-7-发布了，跟华为手环-7-和华米-GTR-3-三选一。](https://www.v2ex.com/t/855161) ![](assets/new.png)  
-- [2022-05-25-咖老嗨进，有什么值得推荐的速溶咖啡](https://www.v2ex.com/t/855160) ![](assets/new.png)  
-- [2022-05-25-一个显示器，一个-pc，一个-MacBook，一套键鼠，如何连接？](https://www.v2ex.com/t/855159) ![](assets/new.png)  
-- [2022-05-25-Elixir-语言-10-周年啦！](https://www.v2ex.com/t/855158) ![](assets/new.png)  
-- [2022-05-25-Logitech-发布机械键盘-MX-Mechanical-系列](https://www.v2ex.com/t/855157) ![](assets/new.png)  
-- [2022-05-25-QQ-桌面版的安装开始跳出-UAC-窗口了](https://www.v2ex.com/t/855155) ![](assets/new.png)  
-- [2022-05-25-用公司的企业微信的消息机器人接收个人消息推送有啥风险吗](https://www.v2ex.com/t/855154) ![](assets/new.png)  
-- [2022-05-25-我做了个数字名片的原型](https://www.v2ex.com/t/855153) ![](assets/new.png)  
-- [2022-05-25-请教下哪种方式从备份恢复-iPhone-最稳妥呢？](https://www.v2ex.com/t/855152) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -554,24 +554,24 @@
 
 
 - [2022-05-25-前端:从零到一,-轻松把自己的网站部署到服务器](https://toutiao.io/k/w4mlsvi) ![](assets/new.png)  
-- [2022-05-25-基于ES的开源分布式SQL数据库，CrateDB适用于哪些场景？](https://toutiao.io/k/rce7d08) ![](assets/new.png)  
 - [2022-05-25-用42张图全面认识Web3；字节/华为/美团面经记录；张朝阳：初代大佬的价值归宿｜码农周刊VIP会员专属邮件周报-Vol.092](https://toutiao.io/k/z2l7od5) ![](assets/new.png)  
-- [2022-05-25-Golang-常见设计模式之单例模式](https://toutiao.io/k/z2o8bzu) ![](assets/new.png)  
+- [2022-05-25-基于ES的开源分布式SQL数据库，CrateDB适用于哪些场景？](https://toutiao.io/k/rce7d08) ![](assets/new.png)  
 - [2022-05-25-Containerd深度剖析-runtime篇](https://toutiao.io/k/obt197c) ![](assets/new.png)  
-- [2022-05-25-前端周刊：2022-8-期](https://toutiao.io/k/clixoe4) ![](assets/new.png)  
-- [2022-05-25-叫板DALL·E-2，预训练大模型做编码器，谷歌把文字转图像模型卷上天](https://toutiao.io/k/b7ivfge) ![](assets/new.png)  
+- [2022-05-25-Golang-常见设计模式之单例模式](https://toutiao.io/k/z2o8bzu) ![](assets/new.png)  
 - [2022-05-25-想找个稳定的工作](https://toutiao.io/k/sr74c49) ![](assets/new.png)  
 - [2022-05-25-聊聊我对质量度量的看法](https://toutiao.io/k/xup74q5) ![](assets/new.png)  
+- [2022-05-25-前端周刊：2022-8-期](https://toutiao.io/k/clixoe4) ![](assets/new.png)  
+- [2022-05-25-叫板DALL·E-2，预训练大模型做编码器，谷歌把文字转图像模型卷上天](https://toutiao.io/k/b7ivfge) ![](assets/new.png)  
+- [2022-05-25-聊聊接口设计的36个小技巧](https://toutiao.io/k/yqm776v) ![](assets/new.png)  
 - [2022-05-25-B站大数据平台元数据业务分享](https://toutiao.io/k/9np51g9) ![](assets/new.png)  
 - [2022-05-25-深入-HTTP/3（2）｜不那么-Boring-的-SSL](https://toutiao.io/k/rnojf2k) ![](assets/new.png)  
-- [2022-05-25-聊聊接口设计的36个小技巧](https://toutiao.io/k/yqm776v) ![](assets/new.png)  
 - [2022-05-25-我在荷兰做程序员的体验](https://toutiao.io/k/iqe7bjv) ![](assets/new.png)  
 - [2022-05-25-六年团队Leader实战秘诀｜程序员最重要的八种软技能](https://toutiao.io/k/3xfb5ji) ![](assets/new.png)  
+- [2022-05-25-推荐-如何画好一张架构图？](https://toutiao.io/k/bu1pi73) ![](assets/new.png)  
 - [2022-05-25-推荐-ThreadLocal夺命11连问](https://toutiao.io/k/p8lpi5z) ![](assets/new.png)  
 - [2022-05-25-推荐-首个确保缓存与数据库一致性的方案](https://toutiao.io/k/imjqbp3) ![](assets/new.png)  
-- [2022-05-25-推荐-如何画好一张架构图？](https://toutiao.io/k/bu1pi73) ![](assets/new.png)  
-- [2022-05-25-推荐-聊聊我们是如何做系统保障方案的](https://toutiao.io/k/i8q3ye4) ![](assets/new.png)  
 - [2022-05-25-推荐-你见过哪些目瞪口呆的-Java-代码技巧？](https://toutiao.io/k/avsba7r) ![](assets/new.png)  
+- [2022-05-25-推荐-聊聊我们是如何做系统保障方案的](https://toutiao.io/k/i8q3ye4) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

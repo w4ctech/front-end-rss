@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-05-25 07:14:10。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-05-25 07:40:19。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -70,6 +70,10 @@
 
 - [【张鑫旭-鑫空间-鑫生活】2022-05-22-CSS必学基础：理解CSS中的级联规则](https://www.zhangxinxu.com/wordpress/2022/05/deep-in-css-cascade/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-05-11-JS与条形码的生成](https://www.zhangxinxu.com/wordpress/2022/05/js-barcode/) 
+- [【V2EX】2022-05-25-求推荐远程软件，-4k-显示器，-win-下分辨率可以适配到-2k，类似-jump-desk](https://www.v2ex.com/t/855227) 
+- [【V2EX】2022-05-25-求助，从-intel-到-M1，用-jetbrains-toolbox-下载-idea-全家桶是怎么从-intel-版本到-m1-版本的？](https://www.v2ex.com/t/855226) 
+- [【V2EX】2022-05-25-chrome-插件-做了一个书签操作的插件-EStar-⭐，欢迎大家试用提提意见](https://www.v2ex.com/t/855225) 
+- [【V2EX】2022-05-25-该不该安排重疾险？](https://www.v2ex.com/t/855223) 
 - [【V2EX】2022-05-25-互联网小兵，热门优质文章（后端、前端、移动端、算法、人工智能等），招聘面经、科技资讯](https://www.v2ex.com/t/855222) 
 - [【V2EX】2022-05-25-迫于母上手机卡爆，询问-618-有啥好机可购](https://www.v2ex.com/t/855221) 
 - [【V2EX】2022-05-25-深圳哪里箍牙好？](https://www.v2ex.com/t/855220) 
@@ -104,11 +108,6 @@
 - [【V2EX】2022-05-25-大家上班平时是怎么收快递？](https://www.v2ex.com/t/855181) 
 - [【V2EX】2022-05-25-你们住院会找“关系”吗？](https://www.v2ex.com/t/855180) 
 - [【V2EX】2022-05-25-iPhone-最近突然无法自动连接已保存的-WiFi？已勾选“自动加入”](https://www.v2ex.com/t/855179) 
-- [【V2EX】2022-05-25-想买一个-mini-主机写代码和跑一些重度应用，现在这个时间有什么值得推荐的么？](https://www.v2ex.com/t/855178) 
-- [【V2EX】2022-05-25-两个路由器均同名-5G-SSID，其中一个无线桥接另外一个-5GSSID，会冲突吗？](https://www.v2ex.com/t/855177) 
-- [【V2EX】2022-05-25-字节不同部门年终奖有系数差异吗？](https://www.v2ex.com/t/855176) 
-- [【V2EX】2022-05-25-5-年媒体行业经验最近面试了客服岗位，妻子反对](https://www.v2ex.com/t/855175) 
-- [【V2EX】2022-05-25-Manjaro-笔记本下连接外置显示器不显示](https://www.v2ex.com/t/855173) 
 - [【技术头条】2022-05-25-什么是子网掩码?-www.awaimai.com](https://blogread.cn/news/go.php?idItem=15112&url=https%3A%2F%2Fwww.awaimai.com%2F2933.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-05-25-4-个用来擦除数据的-Linux-工具-linux.cn](https://blogread.cn/news/go.php?idItem=15111&url=https%3A%2F%2Flinux.cn%2Farticle-13913-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-05-25-使用-logrotate-命令轮转和归档日志-linux.cn](https://blogread.cn/news/go.php?idItem=15110&url=https%3A%2F%2Flinux.cn%2Farticle-13909-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -131,8 +130,8 @@
 - [【技术头条】2022-05-25-MySQL5.7-vs-8.0，哪个性能更牛？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15092&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494024%26amp%3Bidx%3D2%26amp%3Bsn%3Da60d74981373759bb63f480296e5564d%26amp%3Bchksm%3Dfa3f08d3cd4881c50f6364e287ee82d2bd56d9e4b01b037f44ae0c247d30c49ea536581e061e%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【开发者头条】2022-05-25-前端:从零到一,-轻松把自己的网站部署到服务器](https://toutiao.io/k/w4mlsvi) 
 - [【开发者头条】2022-05-25-用42张图全面认识Web3；字节/华为/美团面经记录；张朝阳：初代大佬的价值归宿｜码农周刊VIP会员专属邮件周报-Vol.092](https://toutiao.io/k/z2l7od5) 
-- [【开发者头条】2022-05-25-基于ES的开源分布式SQL数据库，CrateDB适用于哪些场景？](https://toutiao.io/k/rce7d08) 
 - [【开发者头条】2022-05-25-聊聊接口设计的36个小技巧](https://toutiao.io/k/yqm776v) 
+- [【开发者头条】2022-05-25-基于ES的开源分布式SQL数据库，CrateDB适用于哪些场景？](https://toutiao.io/k/rce7d08) 
 - [【开发者头条】2022-05-25-聊聊我对质量度量的看法](https://toutiao.io/k/xup74q5) 
 - [【开发者头条】2022-05-25-Containerd深度剖析-runtime篇](https://toutiao.io/k/obt197c) 
 - [【开发者头条】2022-05-25-Golang-常见设计模式之单例模式](https://toutiao.io/k/z2o8bzu) 
@@ -144,14 +143,14 @@
 - [【开发者头条】2022-05-25-叫板DALL·E-2，预训练大模型做编码器，谷歌把文字转图像模型卷上天](https://toutiao.io/k/b7ivfge) 
 - [【开发者头条】2022-05-25-我在荷兰做程序员的体验](https://toutiao.io/k/iqe7bjv) 
 - [【开发者头条】2022-05-25-try-with-resources-这样坑过我](https://toutiao.io/k/v3vf7mf) 
-- [【开发者头条】2022-05-25-发现一个开源项目优化点，点进来就是你的了](https://toutiao.io/k/17l31tm) 
 - [【开发者头条】2022-05-25-现代编程语言需要泛型](https://toutiao.io/k/mwqie6s) 
+- [【开发者头条】2022-05-25-发现一个开源项目优化点，点进来就是你的了](https://toutiao.io/k/17l31tm) 
 - [【开发者头条】2022-05-25-如何优雅的在-H5-网页中实现扫码功能](https://toutiao.io/k/ua3prgq) 
-- [【开发者头条】2022-05-25-推荐-ThreadLocal夺命11连问](https://toutiao.io/k/p8lpi5z) 
 - [【开发者头条】2022-05-25-推荐-你见过哪些目瞪口呆的-Java-代码技巧？](https://toutiao.io/k/avsba7r) 
-- [【开发者头条】2022-05-25-推荐-首个确保缓存与数据库一致性的方案](https://toutiao.io/k/imjqbp3) 
-- [【开发者头条】2022-05-25-推荐-如何画好一张架构图？](https://toutiao.io/k/bu1pi73) 
+- [【开发者头条】2022-05-25-推荐-ThreadLocal夺命11连问](https://toutiao.io/k/p8lpi5z) 
 - [【开发者头条】2022-05-25-推荐-聊聊我们是如何做系统保障方案的](https://toutiao.io/k/i8q3ye4) 
+- [【开发者头条】2022-05-25-推荐-如何画好一张架构图？](https://toutiao.io/k/bu1pi73) 
+- [【开发者头条】2022-05-25-推荐-首个确保缓存与数据库一致性的方案](https://toutiao.io/k/imjqbp3) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

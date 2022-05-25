@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-05-25 07:14:10，:rocket: 更新条数: +2028， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-05-25 07:40:19，:rocket: 更新条数: +2027， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,10 @@
 </summary>
 
 
+- [2022-05-25-求推荐远程软件，-4k-显示器，-win-下分辨率可以适配到-2k，类似-jump-desk](https://www.v2ex.com/t/855227) ![](assets/new.png)  
+- [2022-05-25-求助，从-intel-到-M1，用-jetbrains-toolbox-下载-idea-全家桶是怎么从-intel-版本到-m1-版本的？](https://www.v2ex.com/t/855226) ![](assets/new.png)  
+- [2022-05-25-chrome-插件-做了一个书签操作的插件-EStar-⭐，欢迎大家试用提提意见](https://www.v2ex.com/t/855225) ![](assets/new.png)  
+- [2022-05-25-该不该安排重疾险？](https://www.v2ex.com/t/855223) ![](assets/new.png)  
 - [2022-05-25-互联网小兵，热门优质文章（后端、前端、移动端、算法、人工智能等），招聘面经、科技资讯](https://www.v2ex.com/t/855222) ![](assets/new.png)  
 - [2022-05-25-迫于母上手机卡爆，询问-618-有啥好机可购](https://www.v2ex.com/t/855221) ![](assets/new.png)  
 - [2022-05-25-深圳哪里箍牙好？](https://www.v2ex.com/t/855220) ![](assets/new.png)  
@@ -507,10 +511,6 @@
 - [2022-05-25-京东-plus-会员专属客服真是越来越难找了](https://www.v2ex.com/t/855208) ![](assets/new.png)  
 - [2022-05-25-大家有成功减肥的经验吗？](https://www.v2ex.com/t/855207) ![](assets/new.png)  
 - [2022-05-25-技术人的微信小程序，《互联网小兵》](https://www.v2ex.com/t/855206) ![](assets/new.png)  
-- [2022-05-25-vscode-如何添加本地已有的-git-仓库并在其内置的源代码管理中显示出来这个项目？](https://www.v2ex.com/t/855204) ![](assets/new.png)  
-- [2022-05-25-主管发话：一周搞不定用友-U8-ERP-跨业务数据分析，明天就可以“毕业”了](https://www.v2ex.com/t/855202) ![](assets/new.png)  
-- [2022-05-25-微信小程序使用-mobx-管理数据，页面中-onUnload-的时候需要清除-createStoreBindings，-this.storeBindings.destroyStoreBingds，这句代码会报错，请大佬们回...](https://www.v2ex.com/t/855201) ![](assets/new.png)  
-- [2022-05-25-有没有自己-DIY-或者购买过蜗牛星际的兄弟姐妹们，你们的电源是怎么选择的？](https://www.v2ex.com/t/855200) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -555,8 +555,8 @@
 
 - [2022-05-25-前端:从零到一,-轻松把自己的网站部署到服务器](https://toutiao.io/k/w4mlsvi) ![](assets/new.png)  
 - [2022-05-25-用42张图全面认识Web3；字节/华为/美团面经记录；张朝阳：初代大佬的价值归宿｜码农周刊VIP会员专属邮件周报-Vol.092](https://toutiao.io/k/z2l7od5) ![](assets/new.png)  
-- [2022-05-25-基于ES的开源分布式SQL数据库，CrateDB适用于哪些场景？](https://toutiao.io/k/rce7d08) ![](assets/new.png)  
 - [2022-05-25-聊聊接口设计的36个小技巧](https://toutiao.io/k/yqm776v) ![](assets/new.png)  
+- [2022-05-25-基于ES的开源分布式SQL数据库，CrateDB适用于哪些场景？](https://toutiao.io/k/rce7d08) ![](assets/new.png)  
 - [2022-05-25-聊聊我对质量度量的看法](https://toutiao.io/k/xup74q5) ![](assets/new.png)  
 - [2022-05-25-Containerd深度剖析-runtime篇](https://toutiao.io/k/obt197c) ![](assets/new.png)  
 - [2022-05-25-Golang-常见设计模式之单例模式](https://toutiao.io/k/z2o8bzu) ![](assets/new.png)  
@@ -568,11 +568,11 @@
 - [2022-05-25-叫板DALL·E-2，预训练大模型做编码器，谷歌把文字转图像模型卷上天](https://toutiao.io/k/b7ivfge) ![](assets/new.png)  
 - [2022-05-25-我在荷兰做程序员的体验](https://toutiao.io/k/iqe7bjv) ![](assets/new.png)  
 - [2022-05-25-try-with-resources-这样坑过我](https://toutiao.io/k/v3vf7mf) ![](assets/new.png)  
-- [2022-05-25-发现一个开源项目优化点，点进来就是你的了](https://toutiao.io/k/17l31tm) ![](assets/new.png)  
 - [2022-05-25-现代编程语言需要泛型](https://toutiao.io/k/mwqie6s) ![](assets/new.png)  
+- [2022-05-25-发现一个开源项目优化点，点进来就是你的了](https://toutiao.io/k/17l31tm) ![](assets/new.png)  
 - [2022-05-25-如何优雅的在-H5-网页中实现扫码功能](https://toutiao.io/k/ua3prgq) ![](assets/new.png)  
-- [2022-05-25-推荐-ThreadLocal夺命11连问](https://toutiao.io/k/p8lpi5z) ![](assets/new.png)  
 - [2022-05-25-推荐-你见过哪些目瞪口呆的-Java-代码技巧？](https://toutiao.io/k/avsba7r) ![](assets/new.png)  
+- [2022-05-25-推荐-ThreadLocal夺命11连问](https://toutiao.io/k/p8lpi5z) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

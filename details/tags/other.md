@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-05-25 17:03:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-05-25 17:33:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1912,6 +1912,8 @@
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2022-03-21-ascent-override-descent-override-line-gap-override一锅端](https://www.zhangxinxu.com/wordpress/2022/03/css-ascent-override-descent/) 
+- [2022-05-25-欧美科技公司目前也在裁员...-全世界科技圈都发生什么事情了....-这形势下个人应该要怎么做呢？](https://www.v2ex.com/t/855333) 
+- [2022-05-25-请问怎么改善触摸板的使用体验？](https://www.v2ex.com/t/855332) 
 - [2022-05-25-国产安卓-fcm-自动重连问题](https://www.v2ex.com/t/855331) 
 - [2022-05-25-开源了自用的个人站点，安排了一个演示站，欢迎大家来体验。](https://www.v2ex.com/t/855330) 
 - [2022-05-25-今天是我爸的生日，有感而发](https://www.v2ex.com/t/855328) 
@@ -1935,11 +1937,6 @@
 - [2022-05-25-救命！关于-openwrt-仅限给单独设备分配-v6-这件事](https://www.v2ex.com/t/855292) 
 - [2022-05-25-深惠两地转让荣威-RX5](https://www.v2ex.com/t/855290) 
 - [2022-05-25-求教,在同一个目录下有两个文件-a.html-和-b.-PHP-,a-里面有段代码需要调用-b-生成的内容,现在是用.htaccess-允许-a.html-运行-PHP-代码,如果不用.htaccess,只用...](https://www.v2ex.com/t/855287) 
-- [2022-05-25-关于-YT-Music-for-macOS](https://www.v2ex.com/t/855286) 
-- [2022-05-25-写了一段时间-Golang，我很纳闷，为啥-Golang-这么火](https://www.v2ex.com/t/855285) 
-- [2022-05-25-如果你收外卖时被外卖小哥拍照，你是什么感想？](https://www.v2ex.com/t/855284) 
-- [2022-05-25-Google-怎么用了个这么怪的域名](https://www.v2ex.com/t/855283) 
-- [2022-05-25-#产品运营---创意内容策略运营（全职/实习）15-30k-#财务-bp-10-20k-其他岗位和介绍可参考首页以往动态）-hr@enlighten.finance](https://www.v2ex.com/t/855282) 
 - [2022-05-25-什么是子网掩码?-www.awaimai.com](https://blogread.cn/news/go.php?idItem=15112&url=https%3A%2F%2Fwww.awaimai.com%2F2933.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-05-25-4-个用来擦除数据的-Linux-工具-linux.cn](https://blogread.cn/news/go.php?idItem=15111&url=https%3A%2F%2Flinux.cn%2Farticle-13913-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-05-25-使用-logrotate-命令轮转和归档日志-linux.cn](https://blogread.cn/news/go.php?idItem=15110&url=https%3A%2F%2Flinux.cn%2Farticle-13909-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1967,7 +1964,7 @@
 - [2022-05-25-我在荷兰做程序员的体验](https://toutiao.io/k/iqe7bjv) 
 - [2022-05-25-现代编程语言需要泛型](https://toutiao.io/k/mwqie6s) 
 - [2022-05-25-try-with-resources-这样坑过我](https://toutiao.io/k/v3vf7mf) 
+- [2022-05-25-推荐-如何画好一张架构图？](https://toutiao.io/k/bu1pi73) 
 - [2022-05-25-推荐-ThreadLocal夺命11连问](https://toutiao.io/k/p8lpi5z) 
 - [2022-05-25-推荐-聊聊我们是如何做系统保障方案的](https://toutiao.io/k/i8q3ye4) 
 - [2022-05-25-推荐-你见过哪些目瞪口呆的-Java-代码技巧？](https://toutiao.io/k/avsba7r) 
-- [2022-05-25-推荐-如何画好一张架构图？](https://toutiao.io/k/bu1pi73) 

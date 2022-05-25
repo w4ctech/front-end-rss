@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-05-25 22:15:42。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-05-25 22:42:27。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -12,4 +12,3 @@
 - [2022-05-25-关于-tensorflow-引用-PixelLib-图像分割库的问题](https://www.v2ex.com/t/855320) 
 - [2022-05-25-B-站怎么用时间线筛选视频](https://www.v2ex.com/t/855304) 
 - [2022-05-25-国行在保-iPhone-摄像头坏了怎么保修？](https://www.v2ex.com/t/855299) 
-- [2022-05-25-叫板DALL·E-2，预训练大模型做编码器，谷歌把文字转图像模型卷上天](https://toutiao.io/k/b7ivfge) 

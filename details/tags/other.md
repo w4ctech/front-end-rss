@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-05-25 18:48:02。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-05-25 19:12:36。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1964,7 +1964,7 @@
 - [2022-05-25-我在荷兰做程序员的体验](https://toutiao.io/k/iqe7bjv) 
 - [2022-05-25-现代编程语言需要泛型](https://toutiao.io/k/mwqie6s) 
 - [2022-05-25-try-with-resources-这样坑过我](https://toutiao.io/k/v3vf7mf) 
-- [2022-05-25-推荐-如何画好一张架构图？](https://toutiao.io/k/bu1pi73) 
 - [2022-05-25-推荐-聊聊我们是如何做系统保障方案的](https://toutiao.io/k/i8q3ye4) 
-- [2022-05-25-推荐-ThreadLocal夺命11连问](https://toutiao.io/k/p8lpi5z) 
+- [2022-05-25-推荐-如何画好一张架构图？](https://toutiao.io/k/bu1pi73) 
 - [2022-05-25-推荐-你见过哪些目瞪口呆的-Java-代码技巧？](https://toutiao.io/k/avsba7r) 
+- [2022-05-25-推荐-ThreadLocal夺命11连问](https://toutiao.io/k/p8lpi5z) 

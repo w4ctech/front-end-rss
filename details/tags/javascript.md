@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-05-25 10:45:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-05-25 11:13:35。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -22,6 +22,5 @@
 - [2022-05-25-shell-脚本的字符串中包含的变量要怎么才能被解析](https://www.v2ex.com/t/855269) 
 - [2022-05-25-刚学习编程就遇到-Cannot-find-module-'Buffer'-or-its-corresponding-type-declarations](https://www.v2ex.com/t/855252) 
 - [2022-05-25-分享一个简单的基于-Jackson-的工具类,-别再用-fastJson-了](https://www.v2ex.com/t/855233) 
-- [2022-05-25-求推荐远程软件，-4k-显示器，-win-下分辨率可以适配到-2k，类似-jump-desk](https://www.v2ex.com/t/855227) 
 - [2022-05-25-近期家用设备（NUC、猫盘、路由器）散热升级记录-soulteary.com](https://blogread.cn/news/go.php?idItem=15103&url=https%3A%2F%2Fsoulteary.com%2F2021%2F10%2F14%2Frecent-heat-dissipation-upgrade-record-of-homelab.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-05-25-如何优雅的在-H5-网页中实现扫码功能](https://toutiao.io/k/ua3prgq) 

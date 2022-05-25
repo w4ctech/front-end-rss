@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-05-25 15:16:16，:rocket: 更新条数: +2026， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-05-25 15:45:53，:rocket: 更新条数: +2027， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,9 @@
 </summary>
 
 
+- [2022-05-25-TX-能要点碧莲么？-PC-QQ-你这是逼着人家升级，不升级不给登录？](https://www.v2ex.com/t/855327) ![](assets/new.png)  
+- [2022-05-25-关于-Apple-Music-部分歌曲歌词按钮突然变灰的问题](https://www.v2ex.com/t/855326) ![](assets/new.png)  
+- [2022-05-25-请教一下个人在-ios-实现一个蓝牙控制怎么样最简单](https://www.v2ex.com/t/855325) ![](assets/new.png)  
 - [2022-05-25-现在前端都用什么技术栈？](https://www.v2ex.com/t/855324) ![](assets/new.png)  
 - [2022-05-25-关于-Wi-Fi-低信道和高信道，有着不同的表现，最终放弃低信道](https://www.v2ex.com/t/855323) ![](assets/new.png)  
 - [2022-05-25-求好的开源项目学习](https://www.v2ex.com/t/855321) ![](assets/new.png)  
@@ -508,9 +511,6 @@
 - [2022-05-25-我写了一个青龙-iOS-客户端，欢迎大家试用](https://www.v2ex.com/t/855305) ![](assets/new.png)  
 - [2022-05-25-B-站怎么用时间线筛选视频](https://www.v2ex.com/t/855304) ![](assets/new.png)  
 - [2022-05-25-双系统](https://www.v2ex.com/t/855303) ![](assets/new.png)  
-- [2022-05-25-mac-Safari-书签栏不能显示网站-logo](https://www.v2ex.com/t/855300) ![](assets/new.png)  
-- [2022-05-25-国行在保-iPhone-摄像头坏了怎么保修？](https://www.v2ex.com/t/855299) ![](assets/new.png)  
-- [2022-05-25-牙磕掉了-4-颗、玩滑板速降-冲到地上了。上牙掉了四颗-全景显示牙根还在](https://www.v2ex.com/t/855298) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -560,19 +560,19 @@
 - [2022-05-25-想找个稳定的工作](https://toutiao.io/k/sr74c49) ![](assets/new.png)  
 - [2022-05-25-基于ES的开源分布式SQL数据库，CrateDB适用于哪些场景？](https://toutiao.io/k/rce7d08) ![](assets/new.png)  
 - [2022-05-25-六年团队Leader实战秘诀｜程序员最重要的八种软技能](https://toutiao.io/k/3xfb5ji) ![](assets/new.png)  
-- [2022-05-25-Containerd深度剖析-runtime篇](https://toutiao.io/k/obt197c) ![](assets/new.png)  
 - [2022-05-25-Golang-常见设计模式之单例模式](https://toutiao.io/k/z2o8bzu) ![](assets/new.png)  
+- [2022-05-25-Containerd深度剖析-runtime篇](https://toutiao.io/k/obt197c) ![](assets/new.png)  
 - [2022-05-25-B站大数据平台元数据业务分享](https://toutiao.io/k/9np51g9) ![](assets/new.png)  
 - [2022-05-25-深入-HTTP/3（2）｜不那么-Boring-的-SSL](https://toutiao.io/k/rnojf2k) ![](assets/new.png)  
 - [2022-05-25-前端周刊：2022-8-期](https://toutiao.io/k/clixoe4) ![](assets/new.png)  
-- [2022-05-25-叫板DALL·E-2，预训练大模型做编码器，谷歌把文字转图像模型卷上天](https://toutiao.io/k/b7ivfge) ![](assets/new.png)  
 - [2022-05-25-我在荷兰做程序员的体验](https://toutiao.io/k/iqe7bjv) ![](assets/new.png)  
+- [2022-05-25-叫板DALL·E-2，预训练大模型做编码器，谷歌把文字转图像模型卷上天](https://toutiao.io/k/b7ivfge) ![](assets/new.png)  
 - [2022-05-25-发现一个开源项目优化点，点进来就是你的了](https://toutiao.io/k/17l31tm) ![](assets/new.png)  
 - [2022-05-25-现代编程语言需要泛型](https://toutiao.io/k/mwqie6s) ![](assets/new.png)  
 - [2022-05-25-如何优雅的在-H5-网页中实现扫码功能](https://toutiao.io/k/ua3prgq) ![](assets/new.png)  
 - [2022-05-25-try-with-resources-这样坑过我](https://toutiao.io/k/v3vf7mf) ![](assets/new.png)  
-- [2022-05-25-推荐-如何画好一张架构图？](https://toutiao.io/k/bu1pi73) ![](assets/new.png)  
 - [2022-05-25-推荐-聊聊我们是如何做系统保障方案的](https://toutiao.io/k/i8q3ye4) ![](assets/new.png)  
+- [2022-05-25-推荐-ThreadLocal夺命11连问](https://toutiao.io/k/p8lpi5z) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

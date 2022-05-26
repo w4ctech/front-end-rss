@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-05-26 03:15:52，:rocket: 更新条数: +2026， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-05-26 04:06:44，:rocket: 更新条数: +2022， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,14 @@
 </summary>
 
 
+- [2022-05-26-大佬们，有没有什么软件让在同一-wifi-下的安卓电视大概同步放视频啊](https://www.v2ex.com/t/855407) ![](assets/new.png)  
+- [2022-05-26-Beyond-Compare-有国内网站了吗？](https://www.v2ex.com/t/855406) ![](assets/new.png)  
+- [2022-05-26-想做近视手术，纠结-LASIK-和-ICL-选哪个](https://www.v2ex.com/t/855404) ![](assets/new.png)  
+- [2022-05-26-关于-Linux-进程-id-有三个小问题](https://www.v2ex.com/t/855403) ![](assets/new.png)  
+- [2022-05-26-关于-APP-端请求服务器异常记录日志的问题](https://www.v2ex.com/t/855401) ![](assets/new.png)  
+- [2022-05-26-PHP-Composer-安装-monolog-的-2.0.*-版本，-Composer-提示-PHP-^7.2-->-PHP-version-8.0.10-does-not-satisfy-，-这种情况，除了换-PHP-7-还有什么解](https://www.v2ex.com/t/855399) ![](assets/new.png)  
+- [2022-05-26-上海-不加班-外企-招-Java-、C++、-Python-、安卓](https://www.v2ex.com/t/855396) ![](assets/new.png)  
+- [2022-05-26-买了一个腾讯云轻量级服务器，不知道拿来干啥用](https://www.v2ex.com/t/855395) ![](assets/new.png)  
 - [2022-05-26-动态加载的页面要怎么样用外部脚本修改内容？](https://www.v2ex.com/t/855394) ![](assets/new.png)  
 - [2022-05-26-出一个月腾讯月卡-京东一号店的](https://www.v2ex.com/t/855393) ![](assets/new.png)  
 - [2022-05-26-分享-程序员专用链接分享工具](https://www.v2ex.com/t/855392) ![](assets/new.png)  
@@ -503,14 +511,6 @@
 - [2022-05-26-昨天-10-万人大会稳经济没人关注吗](https://www.v2ex.com/t/855383) ![](assets/new.png)  
 - [2022-05-26-《不止测试》——我的自出版小书电子版免费下载](https://www.v2ex.com/t/855381) ![](assets/new.png)  
 - [2022-05-26-一个-iOS-应用审核说图标空白的问题](https://www.v2ex.com/t/855379) ![](assets/new.png)  
-- [2022-05-26-出租屋杭州移动-100M-宽带,-Wifi-速度时不时掉到-0,-有什么排查问题的方法吗?](https://www.v2ex.com/t/855378) ![](assets/new.png)  
-- [2022-05-26-把代码仓库当做数据库，-github-action-持久化存储新思路](https://www.v2ex.com/t/855377) ![](assets/new.png)  
-- [2022-05-26-新人-JavaScript-求助语法问题](https://www.v2ex.com/t/855376) ![](assets/new.png)  
-- [2022-05-26-笔记本的内存占用感觉有点奇怪](https://www.v2ex.com/t/855373) ![](assets/new.png)  
-- [2022-05-26-上海周六就要拍牌了，想建个群讨论一下价格，然后就是怎么挂牌](https://www.v2ex.com/t/855372) ![](assets/new.png)  
-- [2022-05-26-QQ-又被以所谓的“涉嫌诈骗”为由封了](https://www.v2ex.com/t/855371) ![](assets/new.png)  
-- [2022-05-26-用-golang-造个轮子-一款开箱即用的跨平台文件同步工具-gofs](https://www.v2ex.com/t/855370) ![](assets/new.png)  
-- [2022-05-26-Java-中通过-Runtime.exec-创建子进程时，父子进程管道通信问题](https://www.v2ex.com/t/855368) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -559,20 +559,20 @@
 - [2022-05-26-Go-引入箭头函数，你支持吗？](https://toutiao.io/k/dxg460b) ![](assets/new.png)  
 - [2022-05-26-学会Sequelize，让你操作数据更丝滑](https://toutiao.io/k/xs21vtq) ![](assets/new.png)  
 - [2022-05-26-从零开始构建云数据库:为什么我们要从C++切换到Rust](https://toutiao.io/k/8qlx2tb) ![](assets/new.png)  
-- [2022-05-26-理“-Druid-元数据”之乱](https://toutiao.io/k/joef3kd) ![](assets/new.png)  
 - [2022-05-26-Kubernetes容器网络及Flannel插件详解](https://toutiao.io/k/o3k9ugf) ![](assets/new.png)  
+- [2022-05-26-理“-Druid-元数据”之乱](https://toutiao.io/k/joef3kd) ![](assets/new.png)  
 - [2022-05-26-Kafka-万亿级消息实践之资源组流量掉零故障排查分析](https://toutiao.io/k/l7xadq5) ![](assets/new.png)  
-- [2022-05-26-Antlr一个领域语言利器——入门篇](https://toutiao.io/k/tj64vev) ![](assets/new.png)  
 - [2022-05-26-混沌工程和视觉隐喻的可观察性-|-云原生资料库](https://toutiao.io/k/fxetb8y) ![](assets/new.png)  
-- [2022-05-26-基于-KubeSphere-的异地多活方案探索](https://toutiao.io/k/7u5md9b) ![](assets/new.png)  
+- [2022-05-26-Antlr一个领域语言利器——入门篇](https://toutiao.io/k/tj64vev) ![](assets/new.png)  
 - [2022-05-26-【实战】手把手教你使用-Elasticsearch-实现海量级数据搜索（上）](https://toutiao.io/k/nwj1jj0) ![](assets/new.png)  
+- [2022-05-26-基于-KubeSphere-的异地多活方案探索](https://toutiao.io/k/7u5md9b) ![](assets/new.png)  
 - [2022-05-26-Kubernetes-1.24:-防止未经授权的卷模式转换](https://toutiao.io/k/bsnzrxq) ![](assets/new.png)  
 - [2022-05-26-关于闲鱼测试数据构造，我有几条心得](https://toutiao.io/k/vuv47hd) ![](assets/new.png)  
-- [2022-05-26-推荐-你见过哪些目瞪口呆的-Java-代码技巧？](https://toutiao.io/k/avsba7r) ![](assets/new.png)  
-- [2022-05-26-推荐-ThreadLocal夺命11连问](https://toutiao.io/k/p8lpi5z) ![](assets/new.png)  
-- [2022-05-26-推荐-首个确保缓存与数据库一致性的方案](https://toutiao.io/k/imjqbp3) ![](assets/new.png)  
-- [2022-05-26-推荐-聊聊我们是如何做系统保障方案的](https://toutiao.io/k/i8q3ye4) ![](assets/new.png)  
 - [2022-05-26-推荐-如何画好一张架构图？](https://toutiao.io/k/bu1pi73) ![](assets/new.png)  
+- [2022-05-26-推荐-首个确保缓存与数据库一致性的方案](https://toutiao.io/k/imjqbp3) ![](assets/new.png)  
+- [2022-05-26-推荐-ThreadLocal夺命11连问](https://toutiao.io/k/p8lpi5z) ![](assets/new.png)  
+- [2022-05-26-推荐-聊聊我们是如何做系统保障方案的](https://toutiao.io/k/i8q3ye4) ![](assets/new.png)  
+- [2022-05-26-推荐-你见过哪些目瞪口呆的-Java-代码技巧？](https://toutiao.io/k/avsba7r) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

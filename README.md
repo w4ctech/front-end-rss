@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-05-26 23:14:06，:rocket: 更新条数: +2034， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-05-26 23:39:39，:rocket: 更新条数: +2034， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-05-26-Chrome-102-带来的杀手级功能：双击文件打开-PWA-应用](https://www.v2ex.com/t/855569) ![](assets/new.png)  
 - [2022-05-26-请问-MacOS-上，看图-APP，有比较好的吗？](https://www.v2ex.com/t/855568) ![](assets/new.png)  
 - [2022-05-26-6-位纯数字-gmail-邮箱-888abb-式，没有发过邮件绑定网站，-120-想出掉了](https://www.v2ex.com/t/855567) ![](assets/new.png)  
 - [2022-05-26-zstack-&-ceph-私有云求助](https://www.v2ex.com/t/855566) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-05-26-疫情期间上海-offer-比较](https://www.v2ex.com/t/855548) ![](assets/new.png)  
 - [2022-05-26-Ununtu-Mate22.04,-VSCode-无法登录-MS-账号同步](https://www.v2ex.com/t/855547) ![](assets/new.png)  
 - [2022-05-26-请问-iOS-这种自动续订是怎么实现的](https://www.v2ex.com/t/855546) ![](assets/new.png)  
-- [2022-05-26-我不明白为什么微软-VS-预设让-C#-使用大写草泥马命名风格。](https://www.v2ex.com/t/855545) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -563,8 +563,8 @@
 - [2022-05-26-以前没得选，现在，我想做CTO！](https://toutiao.io/k/f9llhps) ![](assets/new.png)  
 - [2022-05-26-【实战】手把手教你使用-Elasticsearch-实现海量级数据搜索（上）](https://toutiao.io/k/nwj1jj0) ![](assets/new.png)  
 - [2022-05-26-学会Sequelize，让你操作数据更丝滑](https://toutiao.io/k/xs21vtq) ![](assets/new.png)  
-- [2022-05-26-Kafka-万亿级消息实践之资源组流量掉零故障排查分析](https://toutiao.io/k/l7xadq5) ![](assets/new.png)  
 - [2022-05-26-从零开始构建云数据库:为什么我们要从C++切换到Rust](https://toutiao.io/k/8qlx2tb) ![](assets/new.png)  
+- [2022-05-26-Kafka-万亿级消息实践之资源组流量掉零故障排查分析](https://toutiao.io/k/l7xadq5) ![](assets/new.png)  
 - [2022-05-26-理“-Druid-元数据”之乱](https://toutiao.io/k/joef3kd) ![](assets/new.png)  
 - [2022-05-26-关于闲鱼测试数据构造，我有几条心得](https://toutiao.io/k/vuv47hd) ![](assets/new.png)  
 - [2022-05-26-基于-KubeSphere-的异地多活方案探索](https://toutiao.io/k/7u5md9b) ![](assets/new.png)  

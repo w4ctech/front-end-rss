@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-05-26 08:19:09，:rocket: 更新条数: +2037， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-05-26 08:48:06，:rocket: 更新条数: +2035， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,15 @@
 </summary>
 
 
+- [2022-05-26-Java-Serialization-生成的二进制文件如何转换成-JSON？](https://www.v2ex.com/t/855488) ![](assets/new.png)  
+- [2022-05-26-Autodesk|外企-965|上海-欧特克职位内推，后端/算法工程师/研发经理/用户体验设计/QA/DevOps](https://www.v2ex.com/t/855487) ![](assets/new.png)  
+- [2022-05-26-能用-Google-play-的-android-智能手表](https://www.v2ex.com/t/855486) ![](assets/new.png)  
+- [2022-05-26-上海字节跳动飞书团队招聘-Rust-开发实习生](https://www.v2ex.com/t/855485) ![](assets/new.png)  
+- [2022-05-26-问一下成都有没有什么好的装修公司](https://www.v2ex.com/t/855484) ![](assets/new.png)  
+- [2022-05-26-公司工业互联网平台取名，请大家赐教](https://www.v2ex.com/t/855481) ![](assets/new.png)  
+- [2022-05-26-都-2022-年了，还在-CSDN-写博客或技术文章的是怎么想的？](https://www.v2ex.com/t/855480) ![](assets/new.png)  
+- [2022-05-26-PHP-的-composer.lock-有没有类似-Idea-的-Dependency-Tree-那样的依赖可视化工具，找了一圈-phpstorm-也没找到，有什么可视化的工具吗？](https://www.v2ex.com/t/855479) ![](assets/new.png)  
+- [2022-05-26-Terraform-如何优雅的-infra-->-code?](https://www.v2ex.com/t/855478) ![](assets/new.png)  
 - [2022-05-26-四川云宽通](https://www.v2ex.com/t/855476) ![](assets/new.png)  
 - [2022-05-26-如果你是面试官，你会想出什么题](https://www.v2ex.com/t/855475) ![](assets/new.png)  
 - [2022-05-26-上海字节跳动飞书团队招聘-Rust-开发工程师](https://www.v2ex.com/t/855474) ![](assets/new.png)  
@@ -502,15 +511,6 @@
 - [2022-05-26-tt-focus:-专门为了帮助集中注意力而设计的命令行时间记录器](https://www.v2ex.com/t/855468) ![](assets/new.png)  
 - [2022-05-26-Micro-Focus-内推中高级-C++/-Python-、Front-Engineer、-Java-、Android、QA-欢迎各位大佬联系。转正成功，有神秘大礼！](https://www.v2ex.com/t/855467) ![](assets/new.png)  
 - [2022-05-26-iPhone-7-能用上-airtag-吗？（ios-ver-15.3.1](https://www.v2ex.com/t/855466) ![](assets/new.png)  
-- [2022-05-26-shell-进入要等待一段时间，感觉很慢](https://www.v2ex.com/t/855465) ![](assets/new.png)  
-- [2022-05-26-如何监控家里的网络-组网-光伏太阳能-Docker-Esxi-虚拟机等](https://www.v2ex.com/t/855464) ![](assets/new.png)  
-- [2022-05-26-广州华立开发岗招聘（游戏开发、全栈开发）](https://www.v2ex.com/t/855463) ![](assets/new.png)  
-- [2022-05-26-深圳市关于促进消费持续恢复的若干措施发布，买电脑手机补贴-15%](https://www.v2ex.com/t/855462) ![](assets/new.png)  
-- [2022-05-26-说说这次的人教版插画](https://www.v2ex.com/t/855461) ![](assets/new.png)  
-- [2022-05-26-如果开发打个喷嚏，那就代表测试/产品想你](https://www.v2ex.com/t/855460) ![](assets/new.png)  
-- [2022-05-26-why-javaer-什么都要搞一个-interface?](https://www.v2ex.com/t/855458) ![](assets/new.png)  
-- [2022-05-26-小厂想跳中厂，该怎么介绍项目亮点呢](https://www.v2ex.com/t/855457) ![](assets/new.png)  
-- [2022-05-26-京造-K2-是否名不符实？](https://www.v2ex.com/t/855456) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -562,17 +562,17 @@
 - [2022-05-26-从零开始构建云数据库:为什么我们要从C++切换到Rust](https://toutiao.io/k/8qlx2tb) ![](assets/new.png)  
 - [2022-05-26-学会Sequelize，让你操作数据更丝滑](https://toutiao.io/k/xs21vtq) ![](assets/new.png)  
 - [2022-05-26-理“-Druid-元数据”之乱](https://toutiao.io/k/joef3kd) ![](assets/new.png)  
-- [2022-05-26-混沌工程和视觉隐喻的可观察性-|-云原生资料库](https://toutiao.io/k/fxetb8y) ![](assets/new.png)  
 - [2022-05-26-Kafka-万亿级消息实践之资源组流量掉零故障排查分析](https://toutiao.io/k/l7xadq5) ![](assets/new.png)  
 - [2022-05-26-【实战】手把手教你使用-Elasticsearch-实现海量级数据搜索（上）](https://toutiao.io/k/nwj1jj0) ![](assets/new.png)  
 - [2022-05-26-基于-KubeSphere-的异地多活方案探索](https://toutiao.io/k/7u5md9b) ![](assets/new.png)  
-- [2022-05-26-Kubernetes-1.24:-防止未经授权的卷模式转换](https://toutiao.io/k/bsnzrxq) ![](assets/new.png)  
 - [2022-05-26-关于闲鱼测试数据构造，我有几条心得](https://toutiao.io/k/vuv47hd) ![](assets/new.png)  
+- [2022-05-26-Kubernetes-1.24:-防止未经授权的卷模式转换](https://toutiao.io/k/bsnzrxq) ![](assets/new.png)  
 - [2022-05-26-新手技术管理之目标设定](https://toutiao.io/k/2mzejc6) ![](assets/new.png)  
 - [2022-05-26-以前没得选，现在，我想做CTO！](https://toutiao.io/k/f9llhps) ![](assets/new.png)  
 - [2022-05-26-Go-错误处理新思路？用左侧函数和表达式](https://toutiao.io/k/jplwoln) ![](assets/new.png)  
 - [2022-05-26-不同视角下的Android上屏](https://toutiao.io/k/287bup7) ![](assets/new.png)  
 - [2022-05-26-数据指标体系如何搭建才最有效，从0到1带你快速入门丨02期直播回顾](https://toutiao.io/k/8pognhd) ![](assets/new.png)  
+- [2022-05-26-比渗透测试更有用，红队演练该如何开展？](https://toutiao.io/k/9z3d4dl) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

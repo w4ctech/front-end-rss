@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-05-26 22:15:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-05-26 22:42:18。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1912,6 +1912,7 @@
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2022-03-21-ascent-override-descent-override-line-gap-override一锅端](https://www.zhangxinxu.com/wordpress/2022/03/css-ascent-override-descent/) 
+- [2022-05-26-6-位纯数字-gmail-邮箱-888abb-式，没有发过邮件绑定网站，-120-想出掉了](https://www.v2ex.com/t/855567) 
 - [2022-05-26-zstack-&-ceph-私有云求助](https://www.v2ex.com/t/855566) 
 - [2022-05-26-我做了一个在手机上看代码的小工具，征集内测伙伴！](https://www.v2ex.com/t/855565) 
 - [2022-05-26-开发-QR-码的公司-DENSO-WAVE-最近推出了新的-QR-码标准，不再是正方形的了](https://www.v2ex.com/t/855563) 
@@ -1948,7 +1949,6 @@
 - [2022-05-26-Django-ORM-如何才能在-save_model-插入数据库完成后,再次更新数据库?](https://www.v2ex.com/t/855520) 
 - [2022-05-26-有做过表皮囊肿切除的吗？问问费用](https://www.v2ex.com/t/855519) 
 - [2022-05-26-Starcoin-Web3-LearnToEarn-新一期](https://www.v2ex.com/t/855518) 
-- [2022-05-26-leetcode-俄罗斯套娃问题](https://www.v2ex.com/t/855517) 
 - [2022-05-26-什么是子网掩码?-www.awaimai.com](https://blogread.cn/news/go.php?idItem=15112&url=https%3A%2F%2Fwww.awaimai.com%2F2933.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-05-26-4-个用来擦除数据的-Linux-工具-linux.cn](https://blogread.cn/news/go.php?idItem=15111&url=https%3A%2F%2Flinux.cn%2Farticle-13913-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-05-26-使用-logrotate-命令轮转和归档日志-linux.cn](https://blogread.cn/news/go.php?idItem=15110&url=https%3A%2F%2Flinux.cn%2Farticle-13909-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1978,7 +1978,8 @@
 - [2022-05-26-Go-错误处理新思路？用左侧函数和表达式](https://toutiao.io/k/jplwoln) 
 - [2022-05-26-不同视角下的Android上屏](https://toutiao.io/k/287bup7) 
 - [2022-05-26-比渗透测试更有用，红队演练该如何开展？](https://toutiao.io/k/9z3d4dl) 
-- [2022-05-26-推荐-如何画好一张架构图？](https://toutiao.io/k/bu1pi73) 
 - [2022-05-26-推荐-大厂的优惠券系统是如何设计的？](https://toutiao.io/k/8v764sx) 
-- [2022-05-26-推荐-你见过哪些目瞪口呆的-Java-代码技巧？](https://toutiao.io/k/avsba7r) 
+- [2022-05-26-推荐-如何画好一张架构图？](https://toutiao.io/k/bu1pi73) 
 - [2022-05-26-推荐-ThreadLocal夺命11连问](https://toutiao.io/k/p8lpi5z) 
+- [2022-05-26-推荐-你见过哪些目瞪口呆的-Java-代码技巧？](https://toutiao.io/k/avsba7r) 
+- [2022-05-26-推荐-关于技术能力的思考和总结](https://toutiao.io/k/jo2jtja) 

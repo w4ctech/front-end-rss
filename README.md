@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-05-26 04:59:08，:rocket: 更新条数: +2021， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-05-26 05:20:54，:rocket: 更新条数: +2022， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,9 @@
 </summary>
 
 
+- [2022-05-26-求-ROM-包](https://www.v2ex.com/t/855421) ![](assets/new.png)  
+- [2022-05-26-问个小白问题，请问-NUC11PAHi5-可以不装固态硬盘，只安装机械硬盘吗？](https://www.v2ex.com/t/855420) ![](assets/new.png)  
+- [2022-05-26-屏蔽了-10016/02010016-后，联通用随机的号码推销了](https://www.v2ex.com/t/855419) ![](assets/new.png)  
 - [2022-05-26-✅V-友专用-税前-80％高佣-备战-618-强烈安利-企业微信返利机器人淘宝+京东+唯品会+PDD+苏宁+抖音+饿了么+美团](https://www.v2ex.com/t/855418) ![](assets/new.png)  
 - [2022-05-26-腾讯极光盒子-4Pro-播放-dolby-vision-杜比视界的问题](https://www.v2ex.com/t/855417) ![](assets/new.png)  
 - [2022-05-26-有没有杭州余杭爱钓鱼的老哥](https://www.v2ex.com/t/855416) ![](assets/new.png)  
@@ -508,9 +511,6 @@
 - [2022-05-26-PHP-Composer-安装-monolog-的-2.0.*-版本，-Composer-提示-PHP-^7.2-->-PHP-version-8.0.10-does-not-satisfy-，-这种情况，除了换-PHP-7-还有什么解](https://www.v2ex.com/t/855399) ![](assets/new.png)  
 - [2022-05-26-上海-不加班-外企-招-Java-、C++、-Python-、安卓](https://www.v2ex.com/t/855396) ![](assets/new.png)  
 - [2022-05-26-买了一个腾讯云轻量级服务器，不知道拿来干啥用](https://www.v2ex.com/t/855395) ![](assets/new.png)  
-- [2022-05-26-动态加载的页面要怎么样用外部脚本修改内容？](https://www.v2ex.com/t/855394) ![](assets/new.png)  
-- [2022-05-26-出一个月腾讯月卡-京东一号店的](https://www.v2ex.com/t/855393) ![](assets/new.png)  
-- [2022-05-26-分享-程序员专用链接分享工具](https://www.v2ex.com/t/855392) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -555,8 +555,8 @@
 
 - [2022-05-26-欢迎加入读者圈子，一起交流！](https://toutiao.io/k/mv211dm) ![](assets/new.png)  
 - [2022-05-26-面试官提问三个Go接口的概念，10年gopher竟无言以对](https://toutiao.io/k/xn3xy8i) ![](assets/new.png)  
-- [2022-05-26-InnoDB-对-Buffer-Pool-的奇思妙想](https://toutiao.io/k/5hfac2o) ![](assets/new.png)  
 - [2022-05-26-Kubernetes容器网络及Flannel插件详解](https://toutiao.io/k/o3k9ugf) ![](assets/new.png)  
+- [2022-05-26-InnoDB-对-Buffer-Pool-的奇思妙想](https://toutiao.io/k/5hfac2o) ![](assets/new.png)  
 - [2022-05-26-Go-引入箭头函数，你支持吗？](https://toutiao.io/k/dxg460b) ![](assets/new.png)  
 - [2022-05-26-学会Sequelize，让你操作数据更丝滑](https://toutiao.io/k/xs21vtq) ![](assets/new.png)  
 - [2022-05-26-从零开始构建云数据库:为什么我们要从C++切换到Rust](https://toutiao.io/k/8qlx2tb) ![](assets/new.png)  
@@ -564,15 +564,15 @@
 - [2022-05-26-Antlr一个领域语言利器——入门篇](https://toutiao.io/k/tj64vev) ![](assets/new.png)  
 - [2022-05-26-Kafka-万亿级消息实践之资源组流量掉零故障排查分析](https://toutiao.io/k/l7xadq5) ![](assets/new.png)  
 - [2022-05-26-混沌工程和视觉隐喻的可观察性-|-云原生资料库](https://toutiao.io/k/fxetb8y) ![](assets/new.png)  
-- [2022-05-26-【实战】手把手教你使用-Elasticsearch-实现海量级数据搜索（上）](https://toutiao.io/k/nwj1jj0) ![](assets/new.png)  
-- [2022-05-26-Kubernetes-1.24:-防止未经授权的卷模式转换](https://toutiao.io/k/bsnzrxq) ![](assets/new.png)  
 - [2022-05-26-基于-KubeSphere-的异地多活方案探索](https://toutiao.io/k/7u5md9b) ![](assets/new.png)  
+- [2022-05-26-【实战】手把手教你使用-Elasticsearch-实现海量级数据搜索（上）](https://toutiao.io/k/nwj1jj0) ![](assets/new.png)  
 - [2022-05-26-关于闲鱼测试数据构造，我有几条心得](https://toutiao.io/k/vuv47hd) ![](assets/new.png)  
+- [2022-05-26-Kubernetes-1.24:-防止未经授权的卷模式转换](https://toutiao.io/k/bsnzrxq) ![](assets/new.png)  
 - [2022-05-26-推荐-你见过哪些目瞪口呆的-Java-代码技巧？](https://toutiao.io/k/avsba7r) ![](assets/new.png)  
 - [2022-05-26-推荐-聊聊我们是如何做系统保障方案的](https://toutiao.io/k/i8q3ye4) ![](assets/new.png)  
-- [2022-05-26-推荐-ThreadLocal夺命11连问](https://toutiao.io/k/p8lpi5z) ![](assets/new.png)  
 - [2022-05-26-推荐-首个确保缓存与数据库一致性的方案](https://toutiao.io/k/imjqbp3) ![](assets/new.png)  
 - [2022-05-26-推荐-如何画好一张架构图？](https://toutiao.io/k/bu1pi73) ![](assets/new.png)  
+- [2022-05-26-推荐-ThreadLocal夺命11连问](https://toutiao.io/k/p8lpi5z) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

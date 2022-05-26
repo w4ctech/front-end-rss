@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-05-26 10:15:46，:rocket: 更新条数: +2035， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-05-26 10:43:34，:rocket: 更新条数: +2034， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,12 @@
 </summary>
 
 
+- [2022-05-26-leetcode-俄罗斯套娃问题](https://www.v2ex.com/t/855517) ![](assets/new.png)  
+- [2022-05-26-深圳内推-30k~80k-Android/C++/Golang/产品-DJI-大疆软件期待你的加入！](https://www.v2ex.com/t/855516) ![](assets/new.png)  
+- [2022-05-26-开源许可证里的免责条款有法律意义吗？](https://www.v2ex.com/t/855514) ![](assets/new.png)  
+- [2022-05-26-阿里云技术面试红宝书的一道面试题](https://www.v2ex.com/t/855513) ![](assets/new.png)  
+- [2022-05-26-疫情-Apple-Store-全关，-AppleCare-苹果给延期吗？](https://www.v2ex.com/t/855512) ![](assets/new.png)  
+- [2022-05-26-收个-Surge4-Mac-或者有没有一起拼车的-怎么划算怎么来](https://www.v2ex.com/t/855511) ![](assets/new.png)  
 - [2022-05-26-请问各位前辈，准备毕业的大学生在广州怎么找房子？](https://www.v2ex.com/t/855510) ![](assets/new.png)  
 - [2022-05-26-工作了才知道当初嘲笑产品经理都是我的错，他才是开发团队的灵魂人物（除了领导、甲方爸爸）](https://www.v2ex.com/t/855509) ![](assets/new.png)  
 - [2022-05-26-浓厚的愤懑与悲哀—《桶川跟踪狂杀人事件》简介及读后感](https://www.v2ex.com/t/855508) ![](assets/new.png)  
@@ -505,12 +511,6 @@
 - [2022-05-26-怎样让自己应用在自己手机上锁屏持续运行?](https://www.v2ex.com/t/855499) ![](assets/new.png)  
 - [2022-05-26-有没有“相对”比较中立的，就单纯发一些新闻的-微信公众号](https://www.v2ex.com/t/855497) ![](assets/new.png)  
 - [2022-05-26-请教一下，-mac-studio-这个-GPU-和-NE-有啥用处？和-x86-平台下的-GPU-不是一个概念吧？-M1-的-CPU-性能如何？](https://www.v2ex.com/t/855496) ![](assets/new.png)  
-- [2022-05-26-chrome-是怎么知道你网站的密码泄露的](https://www.v2ex.com/t/855495) ![](assets/new.png)  
-- [2022-05-26-Marin-Software-招-自动化测试-在家办公-英语熟练](https://www.v2ex.com/t/855494) ![](assets/new.png)  
-- [2022-05-26-阿罗汉的网站](https://www.v2ex.com/t/855492) ![](assets/new.png)  
-- [2022-05-26-重庆主城区有家里生了猫猫的-v-友不](https://www.v2ex.com/t/855491) ![](assets/new.png)  
-- [2022-05-26-iCloud-莫名收到发给别的账户的邮件](https://www.v2ex.com/t/855489) ![](assets/new.png)  
-- [2022-05-26-Java-Serialization-生成的二进制文件如何转换成-JSON？](https://www.v2ex.com/t/855488) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -562,9 +562,9 @@
 - [2022-05-26-从零开始构建云数据库:为什么我们要从C++切换到Rust](https://toutiao.io/k/8qlx2tb) ![](assets/new.png)  
 - [2022-05-26-学会Sequelize，让你操作数据更丝滑](https://toutiao.io/k/xs21vtq) ![](assets/new.png)  
 - [2022-05-26-理“-Druid-元数据”之乱](https://toutiao.io/k/joef3kd) ![](assets/new.png)  
+- [2022-05-26-新手技术管理之目标设定](https://toutiao.io/k/2mzejc6) ![](assets/new.png)  
 - [2022-05-26-【实战】手把手教你使用-Elasticsearch-实现海量级数据搜索（上）](https://toutiao.io/k/nwj1jj0) ![](assets/new.png)  
 - [2022-05-26-Kafka-万亿级消息实践之资源组流量掉零故障排查分析](https://toutiao.io/k/l7xadq5) ![](assets/new.png)  
-- [2022-05-26-新手技术管理之目标设定](https://toutiao.io/k/2mzejc6) ![](assets/new.png)  
 - [2022-05-26-基于-KubeSphere-的异地多活方案探索](https://toutiao.io/k/7u5md9b) ![](assets/new.png)  
 - [2022-05-26-Kubernetes-1.24:-防止未经授权的卷模式转换](https://toutiao.io/k/bsnzrxq) ![](assets/new.png)  
 - [2022-05-26-关于闲鱼测试数据构造，我有几条心得](https://toutiao.io/k/vuv47hd) ![](assets/new.png)  

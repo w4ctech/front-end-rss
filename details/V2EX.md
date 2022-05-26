@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2022-05-26 18:17:57。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-05-26 18:50:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-05-26-开发-QR-码的公司-DENSO-WAVE-最近推出了新的-QR-码标准，不再是正方形的了](https://www.v2ex.com/t/855563) 
 - [2022-05-26-發現了一個讓-HomePod-作爲-Mac-揚聲器的方法（低延遲）](https://www.v2ex.com/t/855562) 
 - [2022-05-26-PLEX-lifetime-终身优惠，-271-人民币=41-美金](https://www.v2ex.com/t/855561) 
 - [2022-05-26-向前辈请教校招建议，焦虑+迷茫](https://www.v2ex.com/t/855559) 
@@ -45,5 +46,3 @@
 - [2022-05-26-Starcoin-Web3-LearnToEarn-新一期](https://www.v2ex.com/t/855518) 
 - [2022-05-26-leetcode-俄罗斯套娃问题](https://www.v2ex.com/t/855517) 
 - [2022-05-26-深圳内推-30k~80k-Android/C++/Golang/产品-DJI-大疆软件期待你的加入！](https://www.v2ex.com/t/855516) 
-- [2022-05-26-开源许可证里的免责条款有法律意义吗？](https://www.v2ex.com/t/855514) 
-- [2022-05-26-阿里云技术面试红宝书的一道面试题](https://www.v2ex.com/t/855513) 

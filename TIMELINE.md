@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-05-26 18:17:57。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-05-26 18:50:08。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -70,6 +70,7 @@
 
 - [【张鑫旭-鑫空间-鑫生活】2022-05-22-CSS必学基础：理解CSS中的级联规则](https://www.zhangxinxu.com/wordpress/2022/05/deep-in-css-cascade/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-05-11-JS与条形码的生成](https://www.zhangxinxu.com/wordpress/2022/05/js-barcode/) 
+- [【V2EX】2022-05-26-开发-QR-码的公司-DENSO-WAVE-最近推出了新的-QR-码标准，不再是正方形的了](https://www.v2ex.com/t/855563) 
 - [【V2EX】2022-05-26-發現了一個讓-HomePod-作爲-Mac-揚聲器的方法（低延遲）](https://www.v2ex.com/t/855562) 
 - [【V2EX】2022-05-26-PLEX-lifetime-终身优惠，-271-人民币=41-美金](https://www.v2ex.com/t/855561) 
 - [【V2EX】2022-05-26-向前辈请教校招建议，焦虑+迷茫](https://www.v2ex.com/t/855559) 
@@ -110,8 +111,6 @@
 - [【V2EX】2022-05-26-Starcoin-Web3-LearnToEarn-新一期](https://www.v2ex.com/t/855518) 
 - [【V2EX】2022-05-26-leetcode-俄罗斯套娃问题](https://www.v2ex.com/t/855517) 
 - [【V2EX】2022-05-26-深圳内推-30k~80k-Android/C++/Golang/产品-DJI-大疆软件期待你的加入！](https://www.v2ex.com/t/855516) 
-- [【V2EX】2022-05-26-开源许可证里的免责条款有法律意义吗？](https://www.v2ex.com/t/855514) 
-- [【V2EX】2022-05-26-阿里云技术面试红宝书的一道面试题](https://www.v2ex.com/t/855513) 
 - [【技术头条】2022-05-26-什么是子网掩码?-www.awaimai.com](https://blogread.cn/news/go.php?idItem=15112&url=https%3A%2F%2Fwww.awaimai.com%2F2933.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-05-26-4-个用来擦除数据的-Linux-工具-linux.cn](https://blogread.cn/news/go.php?idItem=15111&url=https%3A%2F%2Flinux.cn%2Farticle-13913-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-05-26-使用-logrotate-命令轮转和归档日志-linux.cn](https://blogread.cn/news/go.php?idItem=15110&url=https%3A%2F%2Flinux.cn%2Farticle-13909-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -152,11 +151,11 @@
 - [【开发者头条】2022-05-26-不同视角下的Android上屏](https://toutiao.io/k/287bup7) 
 - [【开发者头条】2022-05-26-数据指标体系如何搭建才最有效，从0到1带你快速入门丨02期直播回顾](https://toutiao.io/k/8pognhd) 
 - [【开发者头条】2022-05-26-比渗透测试更有用，红队演练该如何开展？](https://toutiao.io/k/9z3d4dl) 
-- [【开发者头条】2022-05-26-推荐-大厂的优惠券系统是如何设计的？](https://toutiao.io/k/8v764sx) 
-- [【开发者头条】2022-05-26-推荐-你见过哪些目瞪口呆的-Java-代码技巧？](https://toutiao.io/k/avsba7r) 
 - [【开发者头条】2022-05-26-推荐-如何画好一张架构图？](https://toutiao.io/k/bu1pi73) 
 - [【开发者头条】2022-05-26-推荐-首个确保缓存与数据库一致性的方案](https://toutiao.io/k/imjqbp3) 
 - [【开发者头条】2022-05-26-推荐-ThreadLocal夺命11连问](https://toutiao.io/k/p8lpi5z) 
+- [【开发者头条】2022-05-26-推荐-你见过哪些目瞪口呆的-Java-代码技巧？](https://toutiao.io/k/avsba7r) 
+- [【开发者头条】2022-05-26-推荐-大厂的优惠券系统是如何设计的？](https://toutiao.io/k/8v764sx) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

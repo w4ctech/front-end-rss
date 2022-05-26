@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-05-26 05:43:16，:rocket: 更新条数: +2022， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-05-26 06:18:29，:rocket: 更新条数: +2028， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,8 +491,12 @@
 </summary>
 
 
+- [2022-05-26-Marin-Software-招聘-应用运维开发-可以在家办公-英语口语熟练-欢迎发简历-jnliu@marinsoftware.com](https://www.v2ex.com/t/855430) ![](assets/new.png)  
+- [2022-05-26-电子产品厂商崇拜教](https://www.v2ex.com/t/855429) ![](assets/new.png)  
+- [2022-05-26-tauri-app-有哪些坑？](https://www.v2ex.com/t/855427) ![](assets/new.png)  
+- [2022-05-26-杭/上/北/广-字节开发者服务前端团队-React-前端开发招聘](https://www.v2ex.com/t/855426) ![](assets/new.png)  
+- [2022-05-26-盒马开票报错](https://www.v2ex.com/t/855425) ![](assets/new.png)  
 - [2022-05-26-现在哪家云厂家续费域名实惠一点](https://www.v2ex.com/t/855424) ![](assets/new.png)  
-- [2022-05-26-无意间闯入了一位大佬的家](https://www.v2ex.com/t/855423) ![](assets/new.png)  
 - [2022-05-26-求-ROM-包](https://www.v2ex.com/t/855421) ![](assets/new.png)  
 - [2022-05-26-问个小白问题，请问-NUC11PAHi5-可以不装固态硬盘，只安装机械硬盘吗？](https://www.v2ex.com/t/855420) ![](assets/new.png)  
 - [2022-05-26-屏蔽了-10016/02010016-后，联通用随机的号码推销了](https://www.v2ex.com/t/855419) ![](assets/new.png)  
@@ -507,10 +511,6 @@
 - [2022-05-26-Apple-Watch-什么场景下会使用-WIFI-联网](https://www.v2ex.com/t/855408) ![](assets/new.png)  
 - [2022-05-26-大佬们，有没有什么软件让在同一-wifi-下的安卓电视大概同步放视频啊](https://www.v2ex.com/t/855407) ![](assets/new.png)  
 - [2022-05-26-Beyond-Compare-有国内网站了吗？](https://www.v2ex.com/t/855406) ![](assets/new.png)  
-- [2022-05-26-想做近视手术，纠结-LASIK-和-ICL-选哪个](https://www.v2ex.com/t/855404) ![](assets/new.png)  
-- [2022-05-26-关于-Linux-进程-id-有三个小问题](https://www.v2ex.com/t/855403) ![](assets/new.png)  
-- [2022-05-26-关于-APP-端请求服务器异常记录日志的问题](https://www.v2ex.com/t/855401) ![](assets/new.png)  
-- [2022-05-26-PHP-Composer-安装-monolog-的-2.0.*-版本，-Composer-提示-PHP-^7.2-->-PHP-version-8.0.10-does-not-satisfy-，-这种情况，除了换-PHP-7-还有什么解](https://www.v2ex.com/t/855399) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -553,8 +553,8 @@
 </summary>
 
 
-- [2022-05-26-欢迎加入读者圈子，一起交流！](https://toutiao.io/k/mv211dm) ![](assets/new.png)  
 - [2022-05-26-面试官提问三个Go接口的概念，10年gopher竟无言以对](https://toutiao.io/k/xn3xy8i) ![](assets/new.png)  
+- [2022-05-26-欢迎加入读者圈子，一起交流！](https://toutiao.io/k/mv211dm) ![](assets/new.png)  
 - [2022-05-26-Kubernetes容器网络及Flannel插件详解](https://toutiao.io/k/o3k9ugf) ![](assets/new.png)  
 - [2022-05-26-InnoDB-对-Buffer-Pool-的奇思妙想](https://toutiao.io/k/5hfac2o) ![](assets/new.png)  
 - [2022-05-26-Go-引入箭头函数，你支持吗？](https://toutiao.io/k/dxg460b) ![](assets/new.png)  
@@ -564,15 +564,15 @@
 - [2022-05-26-Antlr一个领域语言利器——入门篇](https://toutiao.io/k/tj64vev) ![](assets/new.png)  
 - [2022-05-26-Kafka-万亿级消息实践之资源组流量掉零故障排查分析](https://toutiao.io/k/l7xadq5) ![](assets/new.png)  
 - [2022-05-26-混沌工程和视觉隐喻的可观察性-|-云原生资料库](https://toutiao.io/k/fxetb8y) ![](assets/new.png)  
-- [2022-05-26-【实战】手把手教你使用-Elasticsearch-实现海量级数据搜索（上）](https://toutiao.io/k/nwj1jj0) ![](assets/new.png)  
 - [2022-05-26-基于-KubeSphere-的异地多活方案探索](https://toutiao.io/k/7u5md9b) ![](assets/new.png)  
+- [2022-05-26-【实战】手把手教你使用-Elasticsearch-实现海量级数据搜索（上）](https://toutiao.io/k/nwj1jj0) ![](assets/new.png)  
 - [2022-05-26-关于闲鱼测试数据构造，我有几条心得](https://toutiao.io/k/vuv47hd) ![](assets/new.png)  
 - [2022-05-26-Kubernetes-1.24:-防止未经授权的卷模式转换](https://toutiao.io/k/bsnzrxq) ![](assets/new.png)  
-- [2022-05-26-推荐-如何画好一张架构图？](https://toutiao.io/k/bu1pi73) ![](assets/new.png)  
-- [2022-05-26-推荐-你见过哪些目瞪口呆的-Java-代码技巧？](https://toutiao.io/k/avsba7r) ![](assets/new.png)  
-- [2022-05-26-推荐-聊聊我们是如何做系统保障方案的](https://toutiao.io/k/i8q3ye4) ![](assets/new.png)  
-- [2022-05-26-推荐-ThreadLocal夺命11连问](https://toutiao.io/k/p8lpi5z) ![](assets/new.png)  
-- [2022-05-26-推荐-首个确保缓存与数据库一致性的方案](https://toutiao.io/k/imjqbp3) ![](assets/new.png)  
+- [2022-05-26-新手技术管理之目标设定](https://toutiao.io/k/2mzejc6) ![](assets/new.png)  
+- [2022-05-26-Go-错误处理新思路？用左侧函数和表达式](https://toutiao.io/k/jplwoln) ![](assets/new.png)  
+- [2022-05-26-比渗透测试更有用，红队演练该如何开展？](https://toutiao.io/k/9z3d4dl) ![](assets/new.png)  
+- [2022-05-26-不同视角下的Android上屏](https://toutiao.io/k/287bup7) ![](assets/new.png)  
+- [2022-05-26-以前没得选，现在，我想做CTO！](https://toutiao.io/k/f9llhps) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

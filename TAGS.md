@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-05-26 11:38:45。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-05-26 12:24:50。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -356,8 +356,6 @@
 
 - [【V2EX】阿里云技术面试红宝书的一道面试题](https://www.v2ex.com/t/855513)
 - [【V2EX】上海字节跳动飞书团队招聘-Rust-开发实习生](https://www.v2ex.com/t/855485)
-- [【V2EX】如果你是面试官，你会想出什么题](https://www.v2ex.com/t/855475)
-- [【V2EX】上海字节跳动飞书团队招聘-Rust-开发工程师](https://www.v2ex.com/t/855474)
 - [【开发者头条】面试官提问三个Go接口的概念，10年gopher竟无言以对](https://toutiao.io/k/xn3xy8i)
 - [......【查看更多】......](./details/tags/job-interview.md)
 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-05-26 17:01:04，:rocket: 更新条数: +2034， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-05-26 17:28:09，:rocket: 更新条数: +2033， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-05-26-PLEX-lifetime-终身优惠，-271-人民币=41-美金](https://www.v2ex.com/t/855561) ![](assets/new.png)  
+- [2022-05-26-向前辈请教校招建议，焦虑+迷茫](https://www.v2ex.com/t/855559) ![](assets/new.png)  
 - [2022-05-26-这个截图是来自哪个日志系统？有见过的么](https://www.v2ex.com/t/855558) ![](assets/new.png)  
 - [2022-05-26-手头有大量微信群，有啥副业可以做做，指条路](https://www.v2ex.com/t/855557) ![](assets/new.png)  
 - [2022-05-26-美区-AppleID-绑定招商-MasterCard-信用卡失败](https://www.v2ex.com/t/855556) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-05-26-分享成都已经卷成这样了，还有人在向往它的躺平](https://www.v2ex.com/t/855541) ![](assets/new.png)  
 - [2022-05-26-Clash-for-Windows-有什么设置自动切换节点的方案](https://www.v2ex.com/t/855539) ![](assets/new.png)  
 - [2022-05-26-阿卡普斯（北京）怎么样？](https://www.v2ex.com/t/855538) ![](assets/new.png)  
-- [2022-05-26-上海电信到亚马逊新加坡不丢包了？](https://www.v2ex.com/t/855537) ![](assets/new.png)  
-- [2022-05-26-小蜜友-|-分享有价值的文字](https://www.v2ex.com/t/855535) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-05-27 08:46:45，:rocket: 更新条数: +2031， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-05-27 09:15:39，:rocket: 更新条数: +2033， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,10 @@
 </summary>
 
 
+- [2022-05-27-surface-pro-的内置显示器和扩展显示器刷新率不一样有解吗？](https://www.v2ex.com/t/855716) ![](assets/new.png)  
+- [2022-05-27-杭州外企招聘啦（前端主管、音视频-C++主管）](https://www.v2ex.com/t/855715) ![](assets/new.png)  
+- [2022-05-27-后台用-ftp-插件做上传功能，前端进度-100%处卡住是什么原因啊](https://www.v2ex.com/t/855714) ![](assets/new.png)  
+- [2022-05-27-6•18-大伙儿都给父母买了啥？](https://www.v2ex.com/t/855713) ![](assets/new.png)  
 - [2022-05-27-上海-华为数据库开发岗位招聘](https://www.v2ex.com/t/855710) ![](assets/new.png)  
 - [2022-05-27-Micro-Focus-内推中高级-C++/-Python-、Front-Engineer、-Java-、Android、QA、DevOps、Performance-Test-Engineer-欢迎各位大佬联系（转正成功，有神秘大礼！）](https://www.v2ex.com/t/855709) ![](assets/new.png)  
 - [2022-05-27-今年的彩虹表带来了，白色的真好看](https://www.v2ex.com/t/855708) ![](assets/new.png)  
@@ -507,10 +511,6 @@
 - [2022-05-27-能解决问题的网站/技术/软件，其实都是蛮不错的](https://www.v2ex.com/t/855696) ![](assets/new.png)  
 - [2022-05-27-70-年产权的公寓值不值得买？](https://www.v2ex.com/t/855694) ![](assets/new.png)  
 - [2022-05-27-我的养生法开贴](https://www.v2ex.com/t/855692) ![](assets/new.png)  
-- [2022-05-27-618-求推荐个-SSD-固态硬盘](https://www.v2ex.com/t/855690) ![](assets/new.png)  
-- [2022-05-27-通过-CSS-禁止显示屏幕小于-400PX-的屏幕显示广告](https://www.v2ex.com/t/855689) ![](assets/new.png)  
-- [2022-05-27-有什么程序员能考的证吗（国内国外的都行）？](https://www.v2ex.com/t/855688) ![](assets/new.png)  
-- [2022-05-27-这样在床头放一个显示器可行吗?](https://www.v2ex.com/t/855687) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -571,8 +571,8 @@
 - [2022-05-27-收钱吧高效自动化测试实践](https://toutiao.io/k/u8oixok) ![](assets/new.png)  
 - [2022-05-27-WTF！只需一行Python代码即可玩20几款小游戏](https://toutiao.io/k/2odr80w) ![](assets/new.png)  
 - [2022-05-27-提交阶段](https://toutiao.io/k/1dwghjp) ![](assets/new.png)  
-- [2022-05-27-推荐-如何画好一张架构图？](https://toutiao.io/k/bu1pi73) ![](assets/new.png)  
 - [2022-05-27-推荐-首个确保缓存与数据库一致性的方案](https://toutiao.io/k/imjqbp3) ![](assets/new.png)  
+- [2022-05-27-推荐-ThreadLocal夺命11连问](https://toutiao.io/k/p8lpi5z) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

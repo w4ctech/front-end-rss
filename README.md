@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-05-27 06:19:26，:rocket: 更新条数: +2034， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-05-27 06:50:43，:rocket: 更新条数: +2034， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,18 @@
 </summary>
 
 
+- [2022-05-27-大家的-iCloud-今天有问题吗](https://www.v2ex.com/t/855680) ![](assets/new.png)  
+- [2022-05-27-润美公益讲座-关于-CPT-和-H1B](https://www.v2ex.com/t/855679) ![](assets/new.png)  
+- [2022-05-27-想问一下房贷-LPR-的问题](https://www.v2ex.com/t/855678) ![](assets/new.png)  
+- [2022-05-27-几个独立的进程间如何共享锁](https://www.v2ex.com/t/855677) ![](assets/new.png)  
+- [2022-05-27-外接屏幕尺寸越大，辐射越大吗](https://www.v2ex.com/t/855676) ![](assets/new.png)  
+- [2022-05-27-长沙电信宽带公网问题。](https://www.v2ex.com/t/855675) ![](assets/new.png)  
+- [2022-05-27-4-组-6RM-的动作,组间隔-2-分钟,还是组间隔长一些,确保每组-6RM,你们选哪种间隔?](https://www.v2ex.com/t/855674) ![](assets/new.png)  
+- [2022-05-27-算"日经贴",问问-V-站的有车一族.全款-10w±2w左右的话买什么车好?](https://www.v2ex.com/t/855672) ![](assets/new.png)  
+- [2022-05-27-<ruby>实现-web-中的文字注释，只能单行吗？（例如还需要多行文字、小图之类）](https://www.v2ex.com/t/855671) ![](assets/new.png)  
+- [2022-05-27-求问这种头像风格是巧合还是通过什么统一生成的](https://www.v2ex.com/t/855670) ![](assets/new.png)  
+- [2022-05-27-吉他](https://www.v2ex.com/t/855669) ![](assets/new.png)  
+- [2022-05-27-分享一下我的-618-购物车](https://www.v2ex.com/t/855668) ![](assets/new.png)  
 - [2022-05-27-为什么-C#的中文文档这么差](https://www.v2ex.com/t/855667) ![](assets/new.png)  
 - [2022-05-27-TypeScript-+-Jest-实现基本数据结构和算法](https://www.v2ex.com/t/855666) ![](assets/new.png)  
 - [2022-05-27-typescript-大类拆分成多文件方案？](https://www.v2ex.com/t/855664) ![](assets/new.png)  
@@ -499,18 +511,6 @@
 - [2022-05-27-微信小程序怎么嵌入第三方网页呢？](https://www.v2ex.com/t/855659) ![](assets/new.png)  
 - [2022-05-27-币安的-luna-下架了？](https://www.v2ex.com/t/855657) ![](assets/new.png)  
 - [2022-05-27-有打排球吗？求推荐排球运动鞋。](https://www.v2ex.com/t/855656) ![](assets/new.png)  
-- [2022-05-27-成都天翼云社招三年以上15~30k-sre/运维研发](https://www.v2ex.com/t/855655) ![](assets/new.png)  
-- [2022-05-27-基于-TypeScript-+-Jest-实现基本数据结构和算法,-持续完善和更新中，希望大佬们捧场给个-Star](https://www.v2ex.com/t/855654) ![](assets/new.png)  
-- [2022-05-27-银行以及银行外包项目的缺点](https://www.v2ex.com/t/855653) ![](assets/new.png)  
-- [2022-05-27-Web3-入门，有平滑的路线推荐么？](https://www.v2ex.com/t/855652) ![](assets/new.png)  
-- [2022-05-27-AndroidStudio-这个-Logcat-如何过滤时顺便包含上下文信息？](https://www.v2ex.com/t/855651) ![](assets/new.png)  
-- [2022-05-27-TCL-新出的-Q10G-mini-led-电视机值得购买吗](https://www.v2ex.com/t/855650) ![](assets/new.png)  
-- [2022-05-27-请问-vitepress-有办法在打包后修改-md-文件吗](https://www.v2ex.com/t/855649) ![](assets/new.png)  
-- [2022-05-27-Up600-定金已付，请问大家-2500-以下有颜色吊打-up600-的吗](https://www.v2ex.com/t/855648) ![](assets/new.png)  
-- [2022-05-27-stepn-有人跑步吗](https://www.v2ex.com/t/855647) ![](assets/new.png)  
-- [2022-05-27-自己-nas-部署的-hexo-现在访问非常慢，如何解决](https://www.v2ex.com/t/855646) ![](assets/new.png)  
-- [2022-05-27-最近-TCL-出了新款的型号-Q10G-miniled-电视机-，值得买吗](https://www.v2ex.com/t/855645) ![](assets/new.png)  
-- [2022-05-27-规避备案方法，利用打折的国内腾讯云服务器搭建一个-ipfs-pin-一住自己的网页](https://www.v2ex.com/t/855644) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -560,19 +560,19 @@
 - [2022-05-27-携程百亿级缓存系统探索之路——本地缓存结构选型与内存压缩](https://toutiao.io/k/e3syuk3) ![](assets/new.png)  
 - [2022-05-27-硬刚Doris系列」Apache-Doris基本使用和数据模型](https://toutiao.io/k/tg1z5we) ![](assets/new.png)  
 - [2022-05-27-基于Flink-Hudi的增量ETL架构](https://toutiao.io/k/rqbg641) ![](assets/new.png)  
+- [2022-05-27-sula入门教程快手构建管理后台](https://toutiao.io/k/hpkquul) ![](assets/new.png)  
 - [2022-05-27-零基础理解-ESLint-核心原理](https://toutiao.io/k/lk58ys4) ![](assets/new.png)  
 - [2022-05-27-不堆参数、不靠时长，Meta加速ViT训练流程，吞吐量4倍提升](https://toutiao.io/k/j1j7wmi) ![](assets/new.png)  
-- [2022-05-27-sula入门教程快手构建管理后台](https://toutiao.io/k/hpkquul) ![](assets/new.png)  
 - [2022-05-27-博客推荐｜使用自定义指标在-Kubernetes-中自动扩展-Pulsar-Functions](https://toutiao.io/k/oh6ss96) ![](assets/new.png)  
 - [2022-05-27-对话摘要技术在美团的探索（SIGIR）](https://toutiao.io/k/rll34h1) ![](assets/new.png)  
 - [2022-05-27-万物皆可NFT，元宇宙中的NFT到底是什么？](https://toutiao.io/k/5ww6fpy) ![](assets/new.png)  
 - [2022-05-27-深入解析EndPoint-Security-Framework:Part-I](https://toutiao.io/k/hhvf2sm) ![](assets/new.png)  
-- [2022-05-27-吐血推荐17个提升开发效率的“轮子”](https://toutiao.io/k/stu43ax) ![](assets/new.png)  
 - [2022-05-27-收钱吧高效自动化测试实践](https://toutiao.io/k/u8oixok) ![](assets/new.png)  
+- [2022-05-27-吐血推荐17个提升开发效率的“轮子”](https://toutiao.io/k/stu43ax) ![](assets/new.png)  
 - [2022-05-27-WTF！只需一行Python代码即可玩20几款小游戏](https://toutiao.io/k/2odr80w) ![](assets/new.png)  
 - [2022-05-27-提交阶段](https://toutiao.io/k/1dwghjp) ![](assets/new.png)  
-- [2022-05-27-推荐-关于技术能力的思考和总结](https://toutiao.io/k/jo2jtja) ![](assets/new.png)  
-- [2022-05-27-推荐-大厂的优惠券系统是如何设计的？](https://toutiao.io/k/8v764sx) ![](assets/new.png)  
+- [2022-05-27-推荐-如何画好一张架构图？](https://toutiao.io/k/bu1pi73) ![](assets/new.png)  
+- [2022-05-27-推荐-首个确保缓存与数据库一致性的方案](https://toutiao.io/k/imjqbp3) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

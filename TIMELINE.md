@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-05-27 04:08:40。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-05-27 05:00:04。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -70,6 +70,15 @@
 
 - [【张鑫旭-鑫空间-鑫生活】2022-05-22-CSS必学基础：理解CSS中的级联规则](https://www.zhangxinxu.com/wordpress/2022/05/deep-in-css-cascade/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-05-11-JS与条形码的生成](https://www.zhangxinxu.com/wordpress/2022/05/js-barcode/) 
+- [【V2EX】2022-05-27-基于-TypeScript-+-Jest-实现基本数据结构和算法,-持续完善和更新中，希望大佬们捧场给个-Star](https://www.v2ex.com/t/855654) 
+- [【V2EX】2022-05-27-银行以及银行外包项目的缺点](https://www.v2ex.com/t/855653) 
+- [【V2EX】2022-05-27-Web3-入门，有平滑的路线推荐么？](https://www.v2ex.com/t/855652) 
+- [【V2EX】2022-05-27-AndroidStudio-这个-Logcat-如何过滤时顺便包含上下文信息？](https://www.v2ex.com/t/855651) 
+- [【V2EX】2022-05-27-TCL-新出的-Q10G-mini-led-电视机值得购买吗](https://www.v2ex.com/t/855650) 
+- [【V2EX】2022-05-27-请问-vitepress-有办法在打包后修改-md-文件吗](https://www.v2ex.com/t/855649) 
+- [【V2EX】2022-05-27-Up600-定金已付，请问大家-2500-以下有颜色吊打-up600-的吗](https://www.v2ex.com/t/855648) 
+- [【V2EX】2022-05-27-stepn-有人跑步吗](https://www.v2ex.com/t/855647) 
+- [【V2EX】2022-05-27-自己-nas-部署的-hexo-现在访问非常慢，如何解决](https://www.v2ex.com/t/855646) 
 - [【V2EX】2022-05-27-最近-TCL-出了新款的型号-Q10G-miniled-电视机-，值得买吗](https://www.v2ex.com/t/855645) 
 - [【V2EX】2022-05-27-规避备案方法，利用打折的国内腾讯云服务器搭建一个-ipfs-pin-一住自己的网页](https://www.v2ex.com/t/855644) 
 - [【V2EX】2022-05-27-从上海回老家，公积金社保应该怎么办？](https://www.v2ex.com/t/855643) 
@@ -108,12 +117,6 @@
 - [【V2EX】2022-05-27-应届小白求问各位-v-友](https://www.v2ex.com/t/855607) 
 - [【V2EX】2022-05-27-mac-下-iterm-最大化最小化窗口的快捷键是啥](https://www.v2ex.com/t/855606) 
 - [【V2EX】2022-05-27-微信-Mac-3.3.1-版（不调用独立显卡）备份](https://www.v2ex.com/t/855605) 
-- [【V2EX】2022-05-27-完蛋了，我是不是要秃顶了😭](https://www.v2ex.com/t/855604) 
-- [【V2EX】2022-05-27-win11-安装，蓝牙键盘无法使用，被卡在安装引导](https://www.v2ex.com/t/855603) 
-- [【V2EX】2022-05-27-ffmpeg-如何将大视频切割成多段?为什么切割后总体积变大了](https://www.v2ex.com/t/855600) 
-- [【V2EX】2022-05-27-有玩网心云的朋友么，故障两天了还没修复，是不是提桶跑路了？](https://www.v2ex.com/t/855599) 
-- [【V2EX】2022-05-27-有会钢琴的朋友吗？想请问一下如何制定自己的考级计划呢](https://www.v2ex.com/t/855598) 
-- [【V2EX】2022-05-27-618-有什么商品和会员优惠推荐吗?](https://www.v2ex.com/t/855596) 
 - [【技术头条】2022-05-27-什么是子网掩码?-www.awaimai.com](https://blogread.cn/news/go.php?idItem=15112&url=https%3A%2F%2Fwww.awaimai.com%2F2933.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-05-27-4-个用来擦除数据的-Linux-工具-linux.cn](https://blogread.cn/news/go.php?idItem=15111&url=https%3A%2F%2Flinux.cn%2Farticle-13913-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-05-27-使用-logrotate-命令轮转和归档日志-linux.cn](https://blogread.cn/news/go.php?idItem=15110&url=https%3A%2F%2Flinux.cn%2Farticle-13909-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -148,11 +151,11 @@
 - [【开发者头条】2022-05-27-对话摘要技术在美团的探索（SIGIR）](https://toutiao.io/k/rll34h1) 
 - [【开发者头条】2022-05-27-万物皆可NFT，元宇宙中的NFT到底是什么？](https://toutiao.io/k/5ww6fpy) 
 - [【开发者头条】2022-05-27-深入解析EndPoint-Security-Framework:Part-I](https://toutiao.io/k/hhvf2sm) 
-- [【开发者头条】2022-05-27-推荐-ThreadLocal夺命11连问](https://toutiao.io/k/p8lpi5z) 
-- [【开发者头条】2022-05-27-推荐-关于技术能力的思考和总结](https://toutiao.io/k/jo2jtja) 
 - [【开发者头条】2022-05-27-推荐-如何画好一张架构图？](https://toutiao.io/k/bu1pi73) 
-- [【开发者头条】2022-05-27-推荐-大厂的优惠券系统是如何设计的？](https://toutiao.io/k/8v764sx) 
 - [【开发者头条】2022-05-27-推荐-首个确保缓存与数据库一致性的方案](https://toutiao.io/k/imjqbp3) 
+- [【开发者头条】2022-05-27-推荐-ThreadLocal夺命11连问](https://toutiao.io/k/p8lpi5z) 
+- [【开发者头条】2022-05-27-推荐-大厂的优惠券系统是如何设计的？](https://toutiao.io/k/8v764sx) 
+- [【开发者头条】2022-05-27-推荐-关于技术能力的思考和总结](https://toutiao.io/k/jo2jtja) 
 - [【开发者头条】2022-05-27-推荐-你见过哪些目瞪口呆的-Java-代码技巧？](https://toutiao.io/k/avsba7r) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>

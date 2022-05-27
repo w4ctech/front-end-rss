@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-05-27 13:55:34。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-05-27 14:13:38。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -304,6 +304,7 @@
 
 
 
+- [【V2EX】raft-算法中，-返回-ConflictTerm-的作用是什么？](https://www.v2ex.com/t/855757)
 - [【V2EX】你们几个月在淘宝买的-Master3-罗技鼠标还好吗？？](https://www.v2ex.com/t/855754)
 - [【开发者头条】用-Elasticsearch-造个“知网”难不难？](https://toutiao.io/k/er1lafw)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)

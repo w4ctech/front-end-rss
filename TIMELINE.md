@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-05-27 17:47:48。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-05-27 18:17:30。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -70,6 +70,8 @@
 
 - [【张鑫旭-鑫空间-鑫生活】2022-05-22-CSS必学基础：理解CSS中的级联规则](https://www.zhangxinxu.com/wordpress/2022/05/deep-in-css-cascade/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-05-11-JS与条形码的生成](https://www.zhangxinxu.com/wordpress/2022/05/js-barcode/) 
+- [【V2EX】2022-05-27-没有-Mac，不想装黑苹果（包括在虚拟机内），有可能开发流畅（用户体验好）的-iOS-应用吗？](https://www.v2ex.com/t/855780) 
+- [【V2EX】2022-05-27-各位在-mac-上都用什么快捷键切换输入法](https://www.v2ex.com/t/855779) 
 - [【V2EX】2022-05-27-分享个开源软件-H264BSAnalyzer-的博客](https://www.v2ex.com/t/855778) 
 - [【V2EX】2022-05-27-LG-UltraFine-后期款和-Studio-Display-调亮度稳吗？](https://www.v2ex.com/t/855777) 
 - [【V2EX】2022-05-27-父亲病重，让我看透了这些表面亲戚](https://www.v2ex.com/t/855776) 
@@ -108,8 +110,6 @@
 - [【V2EX】2022-05-27-Dribbble-的搜索逻辑到底是什么样的？](https://www.v2ex.com/t/855735) 
 - [【V2EX】2022-05-27-趁着-618，打算扩容下-NAS-空间，请推荐下-2.5-寸-sata-机械盘](https://www.v2ex.com/t/855733) 
 - [【V2EX】2022-05-27-macbook-air-30w-的充电器能给-macbook-pro-14-寸充电么](https://www.v2ex.com/t/855731) 
-- [【V2EX】2022-05-27-字节所有岗位都可内推，简历帮忙修改](https://www.v2ex.com/t/855730) 
-- [【V2EX】2022-05-27-用-Python-实现-Vue.js](https://www.v2ex.com/t/855729) 
 - [【技术头条】2022-05-27-什么是子网掩码?-www.awaimai.com](https://blogread.cn/news/go.php?idItem=15112&url=https%3A%2F%2Fwww.awaimai.com%2F2933.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-05-27-4-个用来擦除数据的-Linux-工具-linux.cn](https://blogread.cn/news/go.php?idItem=15111&url=https%3A%2F%2Flinux.cn%2Farticle-13913-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-05-27-使用-logrotate-命令轮转和归档日志-linux.cn](https://blogread.cn/news/go.php?idItem=15110&url=https%3A%2F%2Flinux.cn%2Farticle-13909-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

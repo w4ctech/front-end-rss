@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-05-27 18:17:30。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-05-27 18:49:01。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1912,6 +1912,8 @@
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2022-03-21-ascent-override-descent-override-line-gap-override一锅端](https://www.zhangxinxu.com/wordpress/2022/03/css-ascent-override-descent/) 
+- [2022-05-27-请问各位如何规划自己的职业发展？](https://www.v2ex.com/t/855782) 
+- [2022-05-27-求推荐一款适合压在-MacBook-C-面使用的机械键盘](https://www.v2ex.com/t/855781) 
 - [2022-05-27-没有-Mac，不想装黑苹果（包括在虚拟机内），有可能开发流畅（用户体验好）的-iOS-应用吗？](https://www.v2ex.com/t/855780) 
 - [2022-05-27-各位在-mac-上都用什么快捷键切换输入法](https://www.v2ex.com/t/855779) 
 - [2022-05-27-分享个开源软件-H264BSAnalyzer-的博客](https://www.v2ex.com/t/855778) 
@@ -1943,7 +1945,6 @@
 - [2022-05-27-對運營商開放特例-Port-之思考](https://www.v2ex.com/t/855736) 
 - [2022-05-27-Dribbble-的搜索逻辑到底是什么样的？](https://www.v2ex.com/t/855735) 
 - [2022-05-27-趁着-618，打算扩容下-NAS-空间，请推荐下-2.5-寸-sata-机械盘](https://www.v2ex.com/t/855733) 
-- [2022-05-27-macbook-air-30w-的充电器能给-macbook-pro-14-寸充电么](https://www.v2ex.com/t/855731) 
 - [2022-05-27-什么是子网掩码?-www.awaimai.com](https://blogread.cn/news/go.php?idItem=15112&url=https%3A%2F%2Fwww.awaimai.com%2F2933.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-05-27-4-个用来擦除数据的-Linux-工具-linux.cn](https://blogread.cn/news/go.php?idItem=15111&url=https%3A%2F%2Flinux.cn%2Farticle-13913-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-05-27-使用-logrotate-命令轮转和归档日志-linux.cn](https://blogread.cn/news/go.php?idItem=15110&url=https%3A%2F%2Flinux.cn%2Farticle-13909-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1971,7 +1972,7 @@
 - [2022-05-27-深入解析EndPoint-Security-Framework:Part-I](https://toutiao.io/k/hhvf2sm) 
 - [2022-05-27-提交阶段](https://toutiao.io/k/1dwghjp) 
 - [2022-05-27-推荐-ThreadLocal夺命11连问](https://toutiao.io/k/p8lpi5z) 
-- [2022-05-27-推荐-如何画好一张架构图？](https://toutiao.io/k/bu1pi73) 
+- [2022-05-27-推荐-大厂的优惠券系统是如何设计的？](https://toutiao.io/k/8v764sx) 
 - [2022-05-27-推荐-你见过哪些目瞪口呆的-Java-代码技巧？](https://toutiao.io/k/avsba7r) 
 - [2022-05-27-推荐-关于技术能力的思考和总结](https://toutiao.io/k/jo2jtja) 
-- [2022-05-27-推荐-大厂的优惠券系统是如何设计的？](https://toutiao.io/k/8v764sx) 
+- [2022-05-27-推荐-如何画好一张架构图？](https://toutiao.io/k/bu1pi73) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-05-27 16:19:36，:rocket: 更新条数: +2030， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-05-27 17:01:12，:rocket: 更新条数: +2030， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-05-27-Chrome-浏览器有办法每次打开标签时自动分组吗？](https://www.v2ex.com/t/855775) ![](assets/new.png)  
 - [2022-05-27-这个论坛里有-蔚蓝档案-碧蓝档案-/-Blue-Archive）玩家吗？](https://www.v2ex.com/t/855774) ![](assets/new.png)  
 - [2022-05-27-大家的-iPhone-手机注册的-Apple-ID-是哪个区的？](https://www.v2ex.com/t/855773) ![](assets/new.png)  
 - [2022-05-27-咖啡爱好者交流群](https://www.v2ex.com/t/855771) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-05-27-官翻-14-寸丐版已出，有需要的可以买了](https://www.v2ex.com/t/855752) ![](assets/new.png)  
 - [2022-05-27-你们打大写字母的时候右-Shift-用的多吗？](https://www.v2ex.com/t/855751) ![](assets/new.png)  
 - [2022-05-27-远程求职-K8s/golang](https://www.v2ex.com/t/855750) ![](assets/new.png)  
-- [2022-05-27-关于人教版教科书的插画，大佬们有什么看法?](https://www.v2ex.com/t/855748) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -571,8 +571,8 @@
 - [2022-05-27-对话摘要技术在美团的探索（SIGIR）](https://toutiao.io/k/rll34h1) ![](assets/new.png)  
 - [2022-05-27-深入解析EndPoint-Security-Framework:Part-I](https://toutiao.io/k/hhvf2sm) ![](assets/new.png)  
 - [2022-05-27-提交阶段](https://toutiao.io/k/1dwghjp) ![](assets/new.png)  
+- [2022-05-27-推荐-你见过哪些目瞪口呆的-Java-代码技巧？](https://toutiao.io/k/avsba7r) ![](assets/new.png)  
 - [2022-05-27-推荐-首个确保缓存与数据库一致性的方案](https://toutiao.io/k/imjqbp3) ![](assets/new.png)  
-- [2022-05-27-推荐-关于技术能力的思考和总结](https://toutiao.io/k/jo2jtja) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

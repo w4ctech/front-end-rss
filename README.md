@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-05-27 14:40:11，:rocket: 更新条数: +2031， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-05-27 15:14:59，:rocket: 更新条数: +2031， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,13 @@
 </summary>
 
 
+- [2022-05-27-国内什么平台可以听达明一派的歌曲？](https://www.v2ex.com/t/855769) ![](assets/new.png)  
+- [2022-05-27-终于周末了，做了个记忆东西的-App，欢迎-V-友们体验体验](https://www.v2ex.com/t/855768) ![](assets/new.png)  
+- [2022-05-27-大家怎么看待今天晚上的视频号和抖音的直播？对于产品层面和短视频的发展格局，大家怎么看。](https://www.v2ex.com/t/855766) ![](assets/new.png)  
+- [2022-05-27-求个好用的字体识别服务或-app](https://www.v2ex.com/t/855765) ![](assets/new.png)  
+- [2022-05-27-请问这个-POST-请求里面的-sign-可能是如何构成的？](https://www.v2ex.com/t/855763) ![](assets/new.png)  
+- [2022-05-27-除了-eBoox，还有哪款-iOS-阅读器支持音量键翻页？](https://www.v2ex.com/t/855762) ![](assets/new.png)  
+- [2022-05-27-win10-版权问题](https://www.v2ex.com/t/855761) ![](assets/new.png)  
 - [2022-05-27-炒币亏完了](https://www.v2ex.com/t/855759) ![](assets/new.png)  
 - [2022-05-27-有-incase-sling-替代品吗？](https://www.v2ex.com/t/855758) ![](assets/new.png)  
 - [2022-05-27-raft-算法中，-返回-ConflictTerm-的作用是什么？](https://www.v2ex.com/t/855757) ![](assets/new.png)  
@@ -504,13 +511,6 @@
 - [2022-05-27-合同到期公司提前一周说解约要我主动申请离职这合法么？](https://www.v2ex.com/t/855747) ![](assets/new.png)  
 - [2022-05-27-感觉小米现在很多产品都不出外版固件了](https://www.v2ex.com/t/855746) ![](assets/new.png)  
 - [2022-05-27-2022-年-618-有推荐入手的鼠标吗？预算-300-以内](https://www.v2ex.com/t/855745) ![](assets/new.png)  
-- [2022-05-27-关于路由器有线桥接的问题？](https://www.v2ex.com/t/855744) ![](assets/new.png)  
-- [2022-05-27-时间管理软件有推荐的吗？](https://www.v2ex.com/t/855743) ![](assets/new.png)  
-- [2022-05-27-tabnineAI-的-tabnine-deep-local-是个什么东西？](https://www.v2ex.com/t/855742) ![](assets/new.png)  
-- [2022-05-27-有远程工作者的群吗?](https://www.v2ex.com/t/855741) ![](assets/new.png)  
-- [2022-05-27-求助：-visual-studio-2019-无法登录](https://www.v2ex.com/t/855740) ![](assets/new.png)  
-- [2022-05-27-CoreShell-官网的证书都过期了-3-个多月了，作者难道不知道？](https://www.v2ex.com/t/855739) ![](assets/new.png)  
-- [2022-05-27-支付宝更新到最新版后，上方和下方的图标消失了](https://www.v2ex.com/t/855737) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -557,8 +557,8 @@
 - [2022-05-27-聊聊并发编程的-12-种业务场景](https://toutiao.io/k/mahpee2) ![](assets/new.png)  
 - [2022-05-27-不可错过的程序员续命科技](https://toutiao.io/k/wooq1pu) ![](assets/new.png)  
 - [2022-05-27-用-Elasticsearch-造个“知网”难不难？](https://toutiao.io/k/er1lafw) ![](assets/new.png)  
-- [2022-05-27-携程百亿级缓存系统探索之路——本地缓存结构选型与内存压缩](https://toutiao.io/k/e3syuk3) ![](assets/new.png)  
 - [2022-05-27-吐血推荐17个提升开发效率的“轮子”](https://toutiao.io/k/stu43ax) ![](assets/new.png)  
+- [2022-05-27-携程百亿级缓存系统探索之路——本地缓存结构选型与内存压缩](https://toutiao.io/k/e3syuk3) ![](assets/new.png)  
 - [2022-05-27-sula入门教程快手构建管理后台](https://toutiao.io/k/hpkquul) ![](assets/new.png)  
 - [2022-05-27-收钱吧高效自动化测试实践](https://toutiao.io/k/u8oixok) ![](assets/new.png)  
 - [2022-05-27-硬刚Doris系列」Apache-Doris基本使用和数据模型](https://toutiao.io/k/tg1z5we) ![](assets/new.png)  
@@ -571,8 +571,8 @@
 - [2022-05-27-对话摘要技术在美团的探索（SIGIR）](https://toutiao.io/k/rll34h1) ![](assets/new.png)  
 - [2022-05-27-深入解析EndPoint-Security-Framework:Part-I](https://toutiao.io/k/hhvf2sm) ![](assets/new.png)  
 - [2022-05-27-提交阶段](https://toutiao.io/k/1dwghjp) ![](assets/new.png)  
-- [2022-05-27-推荐-关于技术能力的思考和总结](https://toutiao.io/k/jo2jtja) ![](assets/new.png)  
-- [2022-05-27-推荐-如何画好一张架构图？](https://toutiao.io/k/bu1pi73) ![](assets/new.png)  
+- [2022-05-27-推荐-首个确保缓存与数据库一致性的方案](https://toutiao.io/k/imjqbp3) ![](assets/new.png)  
+- [2022-05-27-推荐-你见过哪些目瞪口呆的-Java-代码技巧？](https://toutiao.io/k/avsba7r) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

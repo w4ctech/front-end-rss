@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-05-27 13:13:10，:rocket: 更新条数: +2033， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-05-27 13:55:34，:rocket: 更新条数: +2032， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,10 @@
 </summary>
 
 
+- [2022-05-27-preg_match_all-正则匹配问题求教](https://www.v2ex.com/t/855755) ![](assets/new.png)  
+- [2022-05-27-你们几个月在淘宝买的-Master3-罗技鼠标还好吗？？](https://www.v2ex.com/t/855754) ![](assets/new.png)  
+- [2022-05-27-官翻-14-寸丐版已出，有需要的可以买了](https://www.v2ex.com/t/855752) ![](assets/new.png)  
+- [2022-05-27-你们打大写字母的时候右-Shift-用的多吗？](https://www.v2ex.com/t/855751) ![](assets/new.png)  
 - [2022-05-27-远程求职-K8s/golang](https://www.v2ex.com/t/855750) ![](assets/new.png)  
 - [2022-05-27-关于人教版教科书的插画，大佬们有什么看法?](https://www.v2ex.com/t/855748) ![](assets/new.png)  
 - [2022-05-27-合同到期公司提前一周说解约要我主动申请离职这合法么？](https://www.v2ex.com/t/855747) ![](assets/new.png)  
@@ -507,10 +511,6 @@
 - [2022-05-27-Dribbble-的搜索逻辑到底是什么样的？](https://www.v2ex.com/t/855735) ![](assets/new.png)  
 - [2022-05-27-趁着-618，打算扩容下-NAS-空间，请推荐下-2.5-寸-sata-机械盘](https://www.v2ex.com/t/855733) ![](assets/new.png)  
 - [2022-05-27-macbook-air-30w-的充电器能给-macbook-pro-14-寸充电么](https://www.v2ex.com/t/855731) ![](assets/new.png)  
-- [2022-05-27-字节所有岗位都可内推，简历帮忙修改](https://www.v2ex.com/t/855730) ![](assets/new.png)  
-- [2022-05-27-用-Python-实现-Vue.js](https://www.v2ex.com/t/855729) ![](assets/new.png)  
-- [2022-05-27-入职新公司-20-天就被告知跟公司不合适，这种情况我能不能要求补偿？](https://www.v2ex.com/t/855728) ![](assets/new.png)  
-- [2022-05-27-民营银行是否安全？新网、振兴、富民等银行存款是否需要取出来](https://www.v2ex.com/t/855727) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -561,17 +561,17 @@
 - [2022-05-27-sula入门教程快手构建管理后台](https://toutiao.io/k/hpkquul) ![](assets/new.png)  
 - [2022-05-27-吐血推荐17个提升开发效率的“轮子”](https://toutiao.io/k/stu43ax) ![](assets/new.png)  
 - [2022-05-27-收钱吧高效自动化测试实践](https://toutiao.io/k/u8oixok) ![](assets/new.png)  
-- [2022-05-27-基于Flink-Hudi的增量ETL架构](https://toutiao.io/k/rqbg641) ![](assets/new.png)  
 - [2022-05-27-硬刚Doris系列」Apache-Doris基本使用和数据模型](https://toutiao.io/k/tg1z5we) ![](assets/new.png)  
+- [2022-05-27-基于Flink-Hudi的增量ETL架构](https://toutiao.io/k/rqbg641) ![](assets/new.png)  
 - [2022-05-27-零基础理解-ESLint-核心原理](https://toutiao.io/k/lk58ys4) ![](assets/new.png)  
 - [2022-05-27-不堆参数、不靠时长，Meta加速ViT训练流程，吞吐量4倍提升](https://toutiao.io/k/j1j7wmi) ![](assets/new.png)  
 - [2022-05-27-博客推荐｜使用自定义指标在-Kubernetes-中自动扩展-Pulsar-Functions](https://toutiao.io/k/oh6ss96) ![](assets/new.png)  
-- [2022-05-27-对话摘要技术在美团的探索（SIGIR）](https://toutiao.io/k/rll34h1) ![](assets/new.png)  
 - [2022-05-27-万物皆可NFT，元宇宙中的NFT到底是什么？](https://toutiao.io/k/5ww6fpy) ![](assets/new.png)  
-- [2022-05-27-深入解析EndPoint-Security-Framework:Part-I](https://toutiao.io/k/hhvf2sm) ![](assets/new.png)  
+- [2022-05-27-对话摘要技术在美团的探索（SIGIR）](https://toutiao.io/k/rll34h1) ![](assets/new.png)  
 - [2022-05-27-WTF！只需一行Python代码即可玩20几款小游戏](https://toutiao.io/k/2odr80w) ![](assets/new.png)  
+- [2022-05-27-深入解析EndPoint-Security-Framework:Part-I](https://toutiao.io/k/hhvf2sm) ![](assets/new.png)  
 - [2022-05-27-提交阶段](https://toutiao.io/k/1dwghjp) ![](assets/new.png)  
-- [2022-05-27-推荐-你见过哪些目瞪口呆的-Java-代码技巧？](https://toutiao.io/k/avsba7r) ![](assets/new.png)  
+- [2022-05-27-推荐-ThreadLocal夺命11连问](https://toutiao.io/k/p8lpi5z) ![](assets/new.png)  
 - [2022-05-27-推荐-首个确保缓存与数据库一致性的方案](https://toutiao.io/k/imjqbp3) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

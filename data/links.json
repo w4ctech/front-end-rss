@@ -9953,6 +9953,31 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "挖矿对机械硬盘的伤害有多大！？",
+        "link": "https://www.v2ex.com/t/855575",
+        "date": "2022-05-27"
+      },
+      {
+        "title": "运营商 DNS 将 GitHub 指向的本地",
+        "link": "https://www.v2ex.com/t/855574",
+        "date": "2022-05-27"
+      },
+      {
+        "title": "那种带 USB 的多输入显示器，切换输入源时，插在 USB 上的鼠标键盘是不是也能跟着换？",
+        "link": "https://www.v2ex.com/t/855573",
+        "date": "2022-05-27"
+      },
+      {
+        "title": "黑苹果显卡选择困难症： RX5500XT 还是 5600XT？",
+        "link": "https://www.v2ex.com/t/855572",
+        "date": "2022-05-27"
+      },
+      {
+        "title": "[杭州] [安卓开发] 前端工程师招募",
+        "link": "https://www.v2ex.com/t/855571",
+        "date": "2022-05-27"
+      },
+      {
         "title": "Chrome 102 带来的杀手级功能：双击文件打开 PWA 应用",
         "link": "https://www.v2ex.com/t/855569",
         "date": "2022-05-26"
@@ -10136,31 +10161,6 @@
         "title": "静态常量解析枚举类问题",
         "link": "https://www.v2ex.com/t/855526",
         "date": "2022-05-26"
-      },
-      {
-        "title": "被公司裁了，公司只愿赔两个月，求助各位 v 友",
-        "link": "https://www.v2ex.com/t/855525",
-        "date": "2022-05-26"
-      },
-      {
-        "title": "个人开发者太难了吧...",
-        "link": "https://www.v2ex.com/t/855524",
-        "date": "2022-05-26"
-      },
-      {
-        "title": "屏蔽或者替换 wind10 按 backspace 到无字符的提示声音",
-        "link": "https://www.v2ex.com/t/855522",
-        "date": "2022-05-26"
-      },
-      {
-        "title": "前端重新部署后如何让用户刷新页面？",
-        "link": "https://www.v2ex.com/t/855521",
-        "date": "2022-05-26"
-      },
-      {
-        "title": "Django ORM 如何才能在 save_model 插入数据库完成后,再次更新数据库?",
-        "link": "https://www.v2ex.com/t/855520",
-        "date": "2022-05-26"
       }
     ]
   },
@@ -10172,102 +10172,102 @@
       {
         "title": "什么是子网掩码? (www.awaimai.com)",
         "link": "https://blogread.cn/news/go.php?idItem=15112&url=https%3A%2F%2Fwww.awaimai.com%2F2933.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-05-26"
+        "date": "2022-05-27"
       },
       {
         "title": "4 个用来擦除数据的 Linux 工具 (linux.cn)",
         "link": "https://blogread.cn/news/go.php?idItem=15111&url=https%3A%2F%2Flinux.cn%2Farticle-13913-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-05-26"
+        "date": "2022-05-27"
       },
       {
         "title": "使用 logrotate 命令轮转和归档日志 (linux.cn)",
         "link": "https://blogread.cn/news/go.php?idItem=15110&url=https%3A%2F%2Flinux.cn%2Farticle-13909-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-05-26"
+        "date": "2022-05-27"
       },
       {
         "title": "在 Apache Cassandra 中定义和优化数据分区 (linux.cn)",
         "link": "https://blogread.cn/news/go.php?idItem=15109&url=https%3A%2F%2Flinux.cn%2Farticle-13908-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-05-26"
+        "date": "2022-05-27"
       },
       {
         "title": "服饰3D柔性渲染调研及实践 (fed.taobao.org)",
         "link": "https://blogread.cn/news/go.php?idItem=15108&url=https%3A%2F%2Ffed.taobao.org%2Fblog%2Ftaofed%2Fdo71ct%2Ffufsgh%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-05-26"
+        "date": "2022-05-27"
       },
       {
         "title": "业务系统的稳定性建设 (fed.taobao.org)",
         "link": "https://blogread.cn/news/go.php?idItem=15107&url=https%3A%2F%2Ffed.taobao.org%2Fblog%2Ftaofed%2Fdo71ct%2Ffc3cy0%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-05-26"
+        "date": "2022-05-27"
       },
       {
         "title": "改hosts不生效？教你清理Chrome的DNS缓存 (hessian.cn)",
         "link": "https://blogread.cn/news/go.php?idItem=15106&url=https%3A%2F%2Fhessian.cn%2Fp%2F1645.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-05-26"
+        "date": "2022-05-27"
       },
       {
         "title": "Nuxt不停机部署指南 (hessian.cn)",
         "link": "https://blogread.cn/news/go.php?idItem=15105&url=https%3A%2F%2Fhessian.cn%2Fp%2F1643.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-05-26"
+        "date": "2022-05-27"
       },
       {
         "title": "MySQL 云数据库物理备份本地恢复方案 (soulteary.com)",
         "link": "https://blogread.cn/news/go.php?idItem=15104&url=https%3A%2F%2Fsoulteary.com%2F2021%2F10%2F13%2Fmysql-cloud-database-physical-backup-local-recovery-solution.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-05-26"
+        "date": "2022-05-27"
       },
       {
         "title": "近期家用设备（NUC、猫盘、路由器）散热升级记录 (soulteary.com)",
         "link": "https://blogread.cn/news/go.php?idItem=15103&url=https%3A%2F%2Fsoulteary.com%2F2021%2F10%2F14%2Frecent-heat-dissipation-upgrade-record-of-homelab.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-05-26"
+        "date": "2022-05-27"
       },
       {
         "title": "curl 设置代理，看这篇就够了 (droidyue.com)",
         "link": "https://blogread.cn/news/go.php?idItem=15102&url=https%3A%2F%2Fdroidyue.com%2Fblog%2F2021%2F07%2F07%2Fset-proxy-for-curl%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-05-26"
+        "date": "2022-05-27"
       },
       {
         "title": "如何做好 PRR（Production Rediness Review）？ (blog.alswl.com)",
         "link": "https://blogread.cn/news/go.php?idItem=15101&url=https%3A%2F%2Fblog.alswl.com%2F2021%2F06%2Fprr%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-05-26"
+        "date": "2022-05-27"
       },
       {
         "title": "编写可维护的Go代码 (colobu.com)",
         "link": "https://blogread.cn/news/go.php?idItem=15100&url=https%3A%2F%2Fcolobu.com%2F2022%2F01%2F15%2FWriting-maintainable-Go-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-05-26"
+        "date": "2022-05-27"
       },
       {
         "title": "编写可维护的Go代码 (colobu.com)",
         "link": "https://blogread.cn/news/go.php?idItem=15099&url=https%3A%2F%2Fcolobu.com%2F2022%2F01%2F15%2FWriting-maintainable-Go-code%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-05-26"
+        "date": "2022-05-27"
       },
       {
         "title": "密码强度效果最佳实现一定是HTML meter元素 (www.zhangxinxu.com)",
         "link": "https://blogread.cn/news/go.php?idItem=15098&url=https%3A%2F%2Fwww.zhangxinxu.com%2Fwordpress%2F2021%2F11%2Fhtml-meter-password%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-05-26"
+        "date": "2022-05-27"
       },
       {
         "title": "谁动了我的DevOps：DevOps风险测绘 (blog.nsfocus.net)",
         "link": "https://blogread.cn/news/go.php?idItem=15097&url=http%3A%2F%2Fblog.nsfocus.net%2Fdevopsdevops-nsfocus%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-05-26"
+        "date": "2022-05-27"
       },
       {
         "title": "从0到1：美团端侧CDN容灾解决方案 (tech.meituan.com)",
         "link": "https://blogread.cn/news/go.php?idItem=15096&url=https%3A%2F%2Ftech.meituan.com%2F2022%2F01%2F13%2Fphoenix-cdn.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-05-26"
+        "date": "2022-05-27"
       },
       {
         "title": "【自动化渗透】DeepExploit框架深度分析 (blog.nsfocus.net)",
         "link": "https://blogread.cn/news/go.php?idItem=15095&url=http%3A%2F%2Fblog.nsfocus.net%2Fdeepexploit-exploit%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-05-26"
+        "date": "2022-05-27"
       },
       {
         "title": "谨慎！糟糕程序员的编程风格查看 (mp.weixin.qq.com)",
         "link": "https://blogread.cn/news/go.php?idItem=15093&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494024%26amp%3Bidx%3D1%26amp%3Bsn%3Dd142644804a8e87dcb91ffaf3ecc07e2%26amp%3Bchksm%3Dfa3f08d3cd4881c5cb3a3a32aa85ab93627ba49c8bcf1a6ada6e7835c0eb606dfc861820b4b2%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-05-26"
+        "date": "2022-05-27"
       },
       {
         "title": "MySQL5.7 vs 8.0，哪个性能更牛？ (mp.weixin.qq.com)",
         "link": "https://blogread.cn/news/go.php?idItem=15092&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494024%26amp%3Bidx%3D2%26amp%3Bsn%3Da60d74981373759bb63f480296e5564d%26amp%3Bchksm%3Dfa3f08d3cd4881c50f6364e287ee82d2bd56d9e4b01b037f44ae0c247d30c49ea536581e061e%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-05-26"
+        "date": "2022-05-27"
       }
     ]
   },
@@ -10277,134 +10277,79 @@
     "link": "https://toutiao.io",
     "items": [
       {
-        "title": "面试官提问三个Go接口的概念，10年gopher竟无言以对",
-        "link": "https://toutiao.io/k/xn3xy8i",
-        "date": "2022-05-26"
+        "title": "不可错过的程序员续命科技",
+        "link": "https://toutiao.io/k/wooq1pu",
+        "date": "2022-05-27"
       },
       {
-        "title": "Kubernetes容器网络及Flannel插件详解",
-        "link": "https://toutiao.io/k/o3k9ugf",
-        "date": "2022-05-26"
+        "title": "看完这篇异地多活的改造，我决定和架构师battle一下",
+        "link": "https://toutiao.io/k/yn1lrg9",
+        "date": "2022-05-27"
       },
       {
-        "title": "InnoDB 对 Buffer Pool 的奇思妙想",
-        "link": "https://toutiao.io/k/5hfac2o",
-        "date": "2022-05-26"
+        "title": "聊聊并发编程的 12 种业务场景",
+        "link": "https://toutiao.io/k/mahpee2",
+        "date": "2022-05-27"
       },
       {
-        "title": "Antlr一个领域语言利器——入门篇",
-        "link": "https://toutiao.io/k/tj64vev",
-        "date": "2022-05-26"
+        "title": "用 Elasticsearch 造个“知网”难不难？",
+        "link": "https://toutiao.io/k/er1lafw",
+        "date": "2022-05-27"
       },
       {
-        "title": "欢迎加入读者圈子，一起交流！",
-        "link": "https://toutiao.io/k/mv211dm",
-        "date": "2022-05-26"
+        "title": "硬刚Doris系列」Apache Doris基本使用和数据模型",
+        "link": "https://toutiao.io/k/tg1z5we",
+        "date": "2022-05-27"
       },
       {
-        "title": "Go 引入箭头函数，你支持吗？",
-        "link": "https://toutiao.io/k/dxg460b",
-        "date": "2022-05-26"
+        "title": "不堆参数、不靠时长，Meta加速ViT训练流程，吞吐量4倍提升",
+        "link": "https://toutiao.io/k/j1j7wmi",
+        "date": "2022-05-27"
       },
       {
-        "title": "新手技术管理之目标设定",
-        "link": "https://toutiao.io/k/2mzejc6",
-        "date": "2022-05-26"
+        "title": "零基础理解 ESLint 核心原理",
+        "link": "https://toutiao.io/k/lk58ys4",
+        "date": "2022-05-27"
       },
       {
-        "title": "以前没得选，现在，我想做CTO！",
-        "link": "https://toutiao.io/k/f9llhps",
-        "date": "2022-05-26"
+        "title": "基于Flink Hudi的增量ETL架构",
+        "link": "https://toutiao.io/k/rqbg641",
+        "date": "2022-05-27"
       },
       {
-        "title": "【实战】手把手教你使用 Elasticsearch 实现海量级数据搜索（上）",
-        "link": "https://toutiao.io/k/nwj1jj0",
-        "date": "2022-05-26"
-      },
-      {
-        "title": "学会Sequelize，让你操作数据更丝滑",
-        "link": "https://toutiao.io/k/xs21vtq",
-        "date": "2022-05-26"
-      },
-      {
-        "title": "从零开始构建云数据库:为什么我们要从C++切换到Rust",
-        "link": "https://toutiao.io/k/8qlx2tb",
-        "date": "2022-05-26"
-      },
-      {
-        "title": "Kafka 万亿级消息实践之资源组流量掉零故障排查分析",
-        "link": "https://toutiao.io/k/l7xadq5",
-        "date": "2022-05-26"
-      },
-      {
-        "title": "理“ Druid 元数据”之乱",
-        "link": "https://toutiao.io/k/joef3kd",
-        "date": "2022-05-26"
-      },
-      {
-        "title": "关于闲鱼测试数据构造，我有几条心得",
-        "link": "https://toutiao.io/k/vuv47hd",
-        "date": "2022-05-26"
-      },
-      {
-        "title": "基于 KubeSphere 的异地多活方案探索",
-        "link": "https://toutiao.io/k/7u5md9b",
-        "date": "2022-05-26"
-      },
-      {
-        "title": "Kubernetes 1.24: 防止未经授权的卷模式转换",
-        "link": "https://toutiao.io/k/bsnzrxq",
-        "date": "2022-05-26"
-      },
-      {
-        "title": "Go 错误处理新思路？用左侧函数和表达式",
-        "link": "https://toutiao.io/k/jplwoln",
-        "date": "2022-05-26"
-      },
-      {
-        "title": "数据指标体系如何搭建才最有效，从0到1带你快速入门丨02期直播回顾",
-        "link": "https://toutiao.io/k/8pognhd",
-        "date": "2022-05-26"
-      },
-      {
-        "title": "不同视角下的Android上屏",
-        "link": "https://toutiao.io/k/287bup7",
-        "date": "2022-05-26"
-      },
-      {
-        "title": "比渗透测试更有用，红队演练该如何开展？",
-        "link": "https://toutiao.io/k/9z3d4dl",
-        "date": "2022-05-26"
-      },
-      {
-        "title": "[推荐] 关于技术能力的思考和总结",
-        "link": "https://toutiao.io/k/jo2jtja",
-        "date": "2022-05-26"
-      },
-      {
-        "title": "[推荐] 你见过哪些目瞪口呆的 Java 代码技巧？",
-        "link": "https://toutiao.io/k/avsba7r",
-        "date": "2022-05-26"
+        "title": "博客推荐｜使用自定义指标在 Kubernetes 中自动扩展 Pulsar Functions",
+        "link": "https://toutiao.io/k/oh6ss96",
+        "date": "2022-05-27"
       },
       {
         "title": "[推荐] ThreadLocal夺命11连问",
         "link": "https://toutiao.io/k/p8lpi5z",
-        "date": "2022-05-26"
-      },
-      {
-        "title": "[推荐] 大厂的优惠券系统是如何设计的？",
-        "link": "https://toutiao.io/k/8v764sx",
-        "date": "2022-05-26"
-      },
-      {
-        "title": "[推荐] 如何画好一张架构图？",
-        "link": "https://toutiao.io/k/bu1pi73",
-        "date": "2022-05-26"
+        "date": "2022-05-27"
       },
       {
         "title": "[推荐] 首个确保缓存与数据库一致性的方案",
         "link": "https://toutiao.io/k/imjqbp3",
-        "date": "2022-05-26"
+        "date": "2022-05-27"
+      },
+      {
+        "title": "[推荐] 你见过哪些目瞪口呆的 Java 代码技巧？",
+        "link": "https://toutiao.io/k/avsba7r",
+        "date": "2022-05-27"
+      },
+      {
+        "title": "[推荐] 关于技术能力的思考和总结",
+        "link": "https://toutiao.io/k/jo2jtja",
+        "date": "2022-05-27"
+      },
+      {
+        "title": "[推荐] 大厂的优惠券系统是如何设计的？",
+        "link": "https://toutiao.io/k/8v764sx",
+        "date": "2022-05-27"
+      },
+      {
+        "title": "[推荐] 如何画好一张架构图？",
+        "link": "https://toutiao.io/k/bu1pi73",
+        "date": "2022-05-27"
       }
     ]
   },

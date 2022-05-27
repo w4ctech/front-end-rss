@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-05-27 10:45:20，:rocket: 更新条数: +2033， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-05-27 11:14:27，:rocket: 更新条数: +2033， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,12 @@
 </summary>
 
 
+- [2022-05-27-M1-Shadowrocket-和-Tunnelblick-冲突，导致-Tunnelblick-失效。](https://www.v2ex.com/t/855732) ![](assets/new.png)  
+- [2022-05-27-macbook-air-30w-的充电器能给-macbook-pro-14-寸充电么](https://www.v2ex.com/t/855731) ![](assets/new.png)  
+- [2022-05-27-字节所有岗位都可内推，简历帮忙修改](https://www.v2ex.com/t/855730) ![](assets/new.png)  
+- [2022-05-27-用-Python-实现-Vue.js](https://www.v2ex.com/t/855729) ![](assets/new.png)  
+- [2022-05-27-入职新公司-20-天就被告知跟公司不合适，这种情况我能不能要求补偿？](https://www.v2ex.com/t/855728) ![](assets/new.png)  
+- [2022-05-27-民营银行是否安全？新网、振兴、富民等银行存款是否需要取出来](https://www.v2ex.com/t/855727) ![](assets/new.png)  
 - [2022-05-27-本科-985-应届生求职-上海-币圈优先](https://www.v2ex.com/t/855726) ![](assets/new.png)  
 - [2022-05-27-win-10-锁屏之后，如何快速关闭显示器](https://www.v2ex.com/t/855725) ![](assets/new.png)  
 - [2022-05-27-医院软件一般是由谁来开发的?](https://www.v2ex.com/t/855724) ![](assets/new.png)  
@@ -505,12 +511,6 @@
 - [2022-05-27-后台用-ftp-插件做上传功能，前端进度-100%处卡住是什么原因啊](https://www.v2ex.com/t/855714) ![](assets/new.png)  
 - [2022-05-27-6•18-大伙儿都给父母买了啥？](https://www.v2ex.com/t/855713) ![](assets/new.png)  
 - [2022-05-27-上海-华为数据库开发岗位招聘](https://www.v2ex.com/t/855710) ![](assets/new.png)  
-- [2022-05-27-Micro-Focus-内推中高级-C++/-Python-、Front-Engineer、-Java-、Android、QA、DevOps、Performance-Test-Engineer-欢迎各位大佬联系（转正成功，有神秘大礼！）](https://www.v2ex.com/t/855709) ![](assets/new.png)  
-- [2022-05-27-今年的彩虹表带来了，白色的真好看](https://www.v2ex.com/t/855708) ![](assets/new.png)  
-- [2022-05-27-那个-hysteria，加速效果立竿见影](https://www.v2ex.com/t/855707) ![](assets/new.png)  
-- [2022-05-27-如何解决-M1-芯片-Mac-频繁出现的外接显示器闪烁问题？](https://www.v2ex.com/t/855706) ![](assets/new.png)  
-- [2022-05-27-请问北京联通有办法换成沃派青春卡-2.0-的套餐吗？](https://www.v2ex.com/t/855705) ![](assets/new.png)  
-- [2022-05-27-淘宝上的国区-appstore-应用兑换码有风险吗？](https://www.v2ex.com/t/855704) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -559,8 +559,8 @@
 - [2022-05-27-用-Elasticsearch-造个“知网”难不难？](https://toutiao.io/k/er1lafw) ![](assets/new.png)  
 - [2022-05-27-携程百亿级缓存系统探索之路——本地缓存结构选型与内存压缩](https://toutiao.io/k/e3syuk3) ![](assets/new.png)  
 - [2022-05-27-sula入门教程快手构建管理后台](https://toutiao.io/k/hpkquul) ![](assets/new.png)  
-- [2022-05-27-硬刚Doris系列」Apache-Doris基本使用和数据模型](https://toutiao.io/k/tg1z5we) ![](assets/new.png)  
 - [2022-05-27-基于Flink-Hudi的增量ETL架构](https://toutiao.io/k/rqbg641) ![](assets/new.png)  
+- [2022-05-27-硬刚Doris系列」Apache-Doris基本使用和数据模型](https://toutiao.io/k/tg1z5we) ![](assets/new.png)  
 - [2022-05-27-零基础理解-ESLint-核心原理](https://toutiao.io/k/lk58ys4) ![](assets/new.png)  
 - [2022-05-27-不堆参数、不靠时长，Meta加速ViT训练流程，吞吐量4倍提升](https://toutiao.io/k/j1j7wmi) ![](assets/new.png)  
 - [2022-05-27-博客推荐｜使用自定义指标在-Kubernetes-中自动扩展-Pulsar-Functions](https://toutiao.io/k/oh6ss96) ![](assets/new.png)  
@@ -571,8 +571,8 @@
 - [2022-05-27-深入解析EndPoint-Security-Framework:Part-I](https://toutiao.io/k/hhvf2sm) ![](assets/new.png)  
 - [2022-05-27-WTF！只需一行Python代码即可玩20几款小游戏](https://toutiao.io/k/2odr80w) ![](assets/new.png)  
 - [2022-05-27-提交阶段](https://toutiao.io/k/1dwghjp) ![](assets/new.png)  
-- [2022-05-27-推荐-首个确保缓存与数据库一致性的方案](https://toutiao.io/k/imjqbp3) ![](assets/new.png)  
-- [2022-05-27-推荐-如何画好一张架构图？](https://toutiao.io/k/bu1pi73) ![](assets/new.png)  
+- [2022-05-27-推荐-关于技术能力的思考和总结](https://toutiao.io/k/jo2jtja) ![](assets/new.png)  
+- [2022-05-27-推荐-ThreadLocal夺命11连问](https://toutiao.io/k/p8lpi5z) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-05-27 21:40:23，:rocket: 更新条数: +2030， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-05-27 22:14:35，:rocket: 更新条数: +2030， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -566,13 +566,13 @@
 - [2022-05-27-零基础理解-ESLint-核心原理](https://toutiao.io/k/lk58ys4) ![](assets/new.png)  
 - [2022-05-27-万物皆可NFT，元宇宙中的NFT到底是什么？](https://toutiao.io/k/5ww6fpy) ![](assets/new.png)  
 - [2022-05-27-不堆参数、不靠时长，Meta加速ViT训练流程，吞吐量4倍提升](https://toutiao.io/k/j1j7wmi) ![](assets/new.png)  
-- [2022-05-27-博客推荐｜使用自定义指标在-Kubernetes-中自动扩展-Pulsar-Functions](https://toutiao.io/k/oh6ss96) ![](assets/new.png)  
 - [2022-05-27-WTF！只需一行Python代码即可玩20几款小游戏](https://toutiao.io/k/2odr80w) ![](assets/new.png)  
+- [2022-05-27-博客推荐｜使用自定义指标在-Kubernetes-中自动扩展-Pulsar-Functions](https://toutiao.io/k/oh6ss96) ![](assets/new.png)  
 - [2022-05-27-对话摘要技术在美团的探索（SIGIR）](https://toutiao.io/k/rll34h1) ![](assets/new.png)  
 - [2022-05-27-深入解析EndPoint-Security-Framework:Part-I](https://toutiao.io/k/hhvf2sm) ![](assets/new.png)  
 - [2022-05-27-提交阶段](https://toutiao.io/k/1dwghjp) ![](assets/new.png)  
-- [2022-05-27-推荐-关于技术能力的思考和总结](https://toutiao.io/k/jo2jtja) ![](assets/new.png)  
 - [2022-05-27-推荐-你见过哪些目瞪口呆的-Java-代码技巧？](https://toutiao.io/k/avsba7r) ![](assets/new.png)  
+- [2022-05-27-推荐-大厂的优惠券系统是如何设计的？](https://toutiao.io/k/8v764sx) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

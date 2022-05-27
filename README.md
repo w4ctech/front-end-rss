@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-05-27 05:00:04，:rocket: 更新条数: +2033， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-05-27 05:23:48，:rocket: 更新条数: +2032， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,9 @@
 </summary>
 
 
+- [2022-05-27-币安的-luna-下架了？](https://www.v2ex.com/t/855657) ![](assets/new.png)  
+- [2022-05-27-有打排球吗？求推荐排球运动鞋。](https://www.v2ex.com/t/855656) ![](assets/new.png)  
+- [2022-05-27-成都天翼云社招三年以上15~30k-sre/运维研发](https://www.v2ex.com/t/855655) ![](assets/new.png)  
 - [2022-05-27-基于-TypeScript-+-Jest-实现基本数据结构和算法,-持续完善和更新中，希望大佬们捧场给个-Star](https://www.v2ex.com/t/855654) ![](assets/new.png)  
 - [2022-05-27-银行以及银行外包项目的缺点](https://www.v2ex.com/t/855653) ![](assets/new.png)  
 - [2022-05-27-Web3-入门，有平滑的路线推荐么？](https://www.v2ex.com/t/855652) ![](assets/new.png)  
@@ -508,9 +511,6 @@
 - [2022-05-27-MAC-上有类似-FinalShell-的软件么？求推荐](https://www.v2ex.com/t/855640) ![](assets/new.png)  
 - [2022-05-27-有什么-wps-文件自动备份的替换方案呢](https://www.v2ex.com/t/855639) ![](assets/new.png)  
 - [2022-05-27-对于-Mac-m1-大家是如何管理-PHP-本地多版本多站点开发的？](https://www.v2ex.com/t/855638) ![](assets/new.png)  
-- [2022-05-27-周末学习-Vue，顺手做了一个随机视频网站。](https://www.v2ex.com/t/855637) ![](assets/new.png)  
-- [2022-05-27-使用-google-calendar-api-，要用到-oauth，要通过-google-验证，要钱吗？](https://www.v2ex.com/t/855636) ![](assets/new.png)  
-- [2022-05-27-什么是无缝漫游-or-快速漫游？](https://www.v2ex.com/t/855635) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -561,18 +561,18 @@
 - [2022-05-27-基于Flink-Hudi的增量ETL架构](https://toutiao.io/k/rqbg641) ![](assets/new.png)  
 - [2022-05-27-零基础理解-ESLint-核心原理](https://toutiao.io/k/lk58ys4) ![](assets/new.png)  
 - [2022-05-27-不堆参数、不靠时长，Meta加速ViT训练流程，吞吐量4倍提升](https://toutiao.io/k/j1j7wmi) ![](assets/new.png)  
-- [2022-05-27-博客推荐｜使用自定义指标在-Kubernetes-中自动扩展-Pulsar-Functions](https://toutiao.io/k/oh6ss96) ![](assets/new.png)  
 - [2022-05-27-携程百亿级缓存系统探索之路——本地缓存结构选型与内存压缩](https://toutiao.io/k/e3syuk3) ![](assets/new.png)  
+- [2022-05-27-博客推荐｜使用自定义指标在-Kubernetes-中自动扩展-Pulsar-Functions](https://toutiao.io/k/oh6ss96) ![](assets/new.png)  
 - [2022-05-27-sula入门教程快手构建管理后台](https://toutiao.io/k/hpkquul) ![](assets/new.png)  
 - [2022-05-27-对话摘要技术在美团的探索（SIGIR）](https://toutiao.io/k/rll34h1) ![](assets/new.png)  
 - [2022-05-27-万物皆可NFT，元宇宙中的NFT到底是什么？](https://toutiao.io/k/5ww6fpy) ![](assets/new.png)  
 - [2022-05-27-深入解析EndPoint-Security-Framework:Part-I](https://toutiao.io/k/hhvf2sm) ![](assets/new.png)  
-- [2022-05-27-推荐-如何画好一张架构图？](https://toutiao.io/k/bu1pi73) ![](assets/new.png)  
 - [2022-05-27-推荐-首个确保缓存与数据库一致性的方案](https://toutiao.io/k/imjqbp3) ![](assets/new.png)  
-- [2022-05-27-推荐-ThreadLocal夺命11连问](https://toutiao.io/k/p8lpi5z) ![](assets/new.png)  
 - [2022-05-27-推荐-大厂的优惠券系统是如何设计的？](https://toutiao.io/k/8v764sx) ![](assets/new.png)  
 - [2022-05-27-推荐-关于技术能力的思考和总结](https://toutiao.io/k/jo2jtja) ![](assets/new.png)  
 - [2022-05-27-推荐-你见过哪些目瞪口呆的-Java-代码技巧？](https://toutiao.io/k/avsba7r) ![](assets/new.png)  
+- [2022-05-27-推荐-如何画好一张架构图？](https://toutiao.io/k/bu1pi73) ![](assets/new.png)  
+- [2022-05-27-推荐-ThreadLocal夺命11连问](https://toutiao.io/k/p8lpi5z) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

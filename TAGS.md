@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-05-27 11:39:29。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-05-27 12:27:26。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -204,7 +204,6 @@
 - [【张鑫旭-鑫空间-鑫生活】CSS必学基础：理解CSS中的级联规则](https://www.zhangxinxu.com/wordpress/2022/05/deep-in-css-cascade/)
 - [【张鑫旭-鑫空间-鑫生活】使用CSS-size-adjust和unicode-range改变任意文字尺寸](https://www.zhangxinxu.com/wordpress/2022/03/css-size-adjust-font-unicode-range/)
 - [【张鑫旭-鑫空间-鑫生活】CSS-accent-color属性简介](https://www.zhangxinxu.com/wordpress/2022/03/css-accent-color/)
-- [【V2EX】通过-CSS-禁止显示屏幕小于-400PX-的屏幕显示广告](https://www.v2ex.com/t/855689)
 - [......【查看更多】......](./details/tags/css.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

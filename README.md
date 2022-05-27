@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-05-27 11:39:29，:rocket: 更新条数: +2033， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-05-27 12:27:26，:rocket: 更新条数: +2030， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,8 +491,12 @@
 </summary>
 
 
+- [2022-05-27-求助：-visual-studio-2019-无法登录](https://www.v2ex.com/t/855740) ![](assets/new.png)  
+- [2022-05-27-CoreShell-官网的证书都过期了-3-个多月了，作者难道不知道？](https://www.v2ex.com/t/855739) ![](assets/new.png)  
+- [2022-05-27-支付宝更新到最新版后，上方和下方的图标消失了](https://www.v2ex.com/t/855737) ![](assets/new.png)  
+- [2022-05-27-對運營商開放特例-Port-之思考](https://www.v2ex.com/t/855736) ![](assets/new.png)  
+- [2022-05-27-Dribbble-的搜索逻辑到底是什么样的？](https://www.v2ex.com/t/855735) ![](assets/new.png)  
 - [2022-05-27-趁着-618，打算扩容下-NAS-空间，请推荐下-2.5-寸-sata-机械盘](https://www.v2ex.com/t/855733) ![](assets/new.png)  
-- [2022-05-27-M1-Shadowrocket-和-Tunnelblick-冲突，导致-Tunnelblick-失效。](https://www.v2ex.com/t/855732) ![](assets/new.png)  
 - [2022-05-27-macbook-air-30w-的充电器能给-macbook-pro-14-寸充电么](https://www.v2ex.com/t/855731) ![](assets/new.png)  
 - [2022-05-27-字节所有岗位都可内推，简历帮忙修改](https://www.v2ex.com/t/855730) ![](assets/new.png)  
 - [2022-05-27-用-Python-实现-Vue.js](https://www.v2ex.com/t/855729) ![](assets/new.png)  
@@ -507,10 +511,6 @@
 - [2022-05-27-618-装机现在是不是可以下手了](https://www.v2ex.com/t/855719) ![](assets/new.png)  
 - [2022-05-27-有无杭州装修公司推荐](https://www.v2ex.com/t/855718) ![](assets/new.png)  
 - [2022-05-27-企业微信（或者公众号）支持消息中转不？](https://www.v2ex.com/t/855717) ![](assets/new.png)  
-- [2022-05-27-surface-pro-的内置显示器和扩展显示器刷新率不一样有解吗？](https://www.v2ex.com/t/855716) ![](assets/new.png)  
-- [2022-05-27-杭州外企招聘啦（前端主管、音视频-C++主管）](https://www.v2ex.com/t/855715) ![](assets/new.png)  
-- [2022-05-27-后台用-ftp-插件做上传功能，前端进度-100%处卡住是什么原因啊](https://www.v2ex.com/t/855714) ![](assets/new.png)  
-- [2022-05-27-6•18-大伙儿都给父母买了啥？](https://www.v2ex.com/t/855713) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -559,19 +559,19 @@
 - [2022-05-27-用-Elasticsearch-造个“知网”难不难？](https://toutiao.io/k/er1lafw) ![](assets/new.png)  
 - [2022-05-27-携程百亿级缓存系统探索之路——本地缓存结构选型与内存压缩](https://toutiao.io/k/e3syuk3) ![](assets/new.png)  
 - [2022-05-27-sula入门教程快手构建管理后台](https://toutiao.io/k/hpkquul) ![](assets/new.png)  
-- [2022-05-27-硬刚Doris系列」Apache-Doris基本使用和数据模型](https://toutiao.io/k/tg1z5we) ![](assets/new.png)  
-- [2022-05-27-基于Flink-Hudi的增量ETL架构](https://toutiao.io/k/rqbg641) ![](assets/new.png)  
-- [2022-05-27-零基础理解-ESLint-核心原理](https://toutiao.io/k/lk58ys4) ![](assets/new.png)  
 - [2022-05-27-吐血推荐17个提升开发效率的“轮子”](https://toutiao.io/k/stu43ax) ![](assets/new.png)  
+- [2022-05-27-基于Flink-Hudi的增量ETL架构](https://toutiao.io/k/rqbg641) ![](assets/new.png)  
+- [2022-05-27-硬刚Doris系列」Apache-Doris基本使用和数据模型](https://toutiao.io/k/tg1z5we) ![](assets/new.png)  
+- [2022-05-27-零基础理解-ESLint-核心原理](https://toutiao.io/k/lk58ys4) ![](assets/new.png)  
 - [2022-05-27-不堆参数、不靠时长，Meta加速ViT训练流程，吞吐量4倍提升](https://toutiao.io/k/j1j7wmi) ![](assets/new.png)  
-- [2022-05-27-博客推荐｜使用自定义指标在-Kubernetes-中自动扩展-Pulsar-Functions](https://toutiao.io/k/oh6ss96) ![](assets/new.png)  
 - [2022-05-27-收钱吧高效自动化测试实践](https://toutiao.io/k/u8oixok) ![](assets/new.png)  
+- [2022-05-27-博客推荐｜使用自定义指标在-Kubernetes-中自动扩展-Pulsar-Functions](https://toutiao.io/k/oh6ss96) ![](assets/new.png)  
 - [2022-05-27-对话摘要技术在美团的探索（SIGIR）](https://toutiao.io/k/rll34h1) ![](assets/new.png)  
 - [2022-05-27-万物皆可NFT，元宇宙中的NFT到底是什么？](https://toutiao.io/k/5ww6fpy) ![](assets/new.png)  
 - [2022-05-27-深入解析EndPoint-Security-Framework:Part-I](https://toutiao.io/k/hhvf2sm) ![](assets/new.png)  
 - [2022-05-27-WTF！只需一行Python代码即可玩20几款小游戏](https://toutiao.io/k/2odr80w) ![](assets/new.png)  
 - [2022-05-27-提交阶段](https://toutiao.io/k/1dwghjp) ![](assets/new.png)  
-- [2022-05-27-推荐-大厂的优惠券系统是如何设计的？](https://toutiao.io/k/8v764sx) ![](assets/new.png)  
+- [2022-05-27-推荐-首个确保缓存与数据库一致性的方案](https://toutiao.io/k/imjqbp3) ![](assets/new.png)  
 - [2022-05-27-推荐-ThreadLocal夺命11连问](https://toutiao.io/k/p8lpi5z) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

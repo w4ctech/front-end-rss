@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-05-27 10:16:31。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-05-27 10:45:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -70,6 +70,10 @@
 
 - [【张鑫旭-鑫空间-鑫生活】2022-05-22-CSS必学基础：理解CSS中的级联规则](https://www.zhangxinxu.com/wordpress/2022/05/deep-in-css-cascade/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-05-11-JS与条形码的生成](https://www.zhangxinxu.com/wordpress/2022/05/js-barcode/) 
+- [【V2EX】2022-05-27-本科-985-应届生求职-上海-币圈优先](https://www.v2ex.com/t/855726) 
+- [【V2EX】2022-05-27-win-10-锁屏之后，如何快速关闭显示器](https://www.v2ex.com/t/855725) 
+- [【V2EX】2022-05-27-医院软件一般是由谁来开发的?](https://www.v2ex.com/t/855724) 
+- [【V2EX】2022-05-27-V-友们家里空气净化器的滤芯是买原厂的还是第三方？](https://www.v2ex.com/t/855723) 
 - [【V2EX】2022-05-27-27-日了，腾讯云说好的-SCF-云函数关停按钮，仍然没有](https://www.v2ex.com/t/855721) 
 - [【V2EX】2022-05-27-关于-go-无缓冲-channel-的-deadlock-问题！](https://www.v2ex.com/t/855720) 
 - [【V2EX】2022-05-27-618-装机现在是不是可以下手了](https://www.v2ex.com/t/855719) 
@@ -109,10 +113,6 @@
 - [【V2EX】2022-05-27-润美公益讲座-关于-CPT-和-H1B](https://www.v2ex.com/t/855679) 
 - [【V2EX】2022-05-27-想问一下房贷-LPR-的问题](https://www.v2ex.com/t/855678) 
 - [【V2EX】2022-05-27-几个独立的进程间如何共享锁](https://www.v2ex.com/t/855677) 
-- [【V2EX】2022-05-27-外接屏幕尺寸越大，辐射越大吗](https://www.v2ex.com/t/855676) 
-- [【V2EX】2022-05-27-长沙电信宽带公网问题。](https://www.v2ex.com/t/855675) 
-- [【V2EX】2022-05-27-4-组-6RM-的动作,组间隔-2-分钟,还是组间隔长一些,确保每组-6RM,你们选哪种间隔?](https://www.v2ex.com/t/855674) 
-- [【V2EX】2022-05-27-算"日经贴",问问-V-站的有车一族.全款-10w±2w左右的话买什么车好?](https://www.v2ex.com/t/855672) 
 - [【技术头条】2022-05-27-什么是子网掩码?-www.awaimai.com](https://blogread.cn/news/go.php?idItem=15112&url=https%3A%2F%2Fwww.awaimai.com%2F2933.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-05-27-4-个用来擦除数据的-Linux-工具-linux.cn](https://blogread.cn/news/go.php?idItem=15111&url=https%3A%2F%2Flinux.cn%2Farticle-13913-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-05-27-使用-logrotate-命令轮转和归档日志-linux.cn](https://blogread.cn/news/go.php?idItem=15110&url=https%3A%2F%2Flinux.cn%2Farticle-13909-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -151,12 +151,12 @@
 - [【开发者头条】2022-05-27-深入解析EndPoint-Security-Framework:Part-I](https://toutiao.io/k/hhvf2sm) 
 - [【开发者头条】2022-05-27-WTF！只需一行Python代码即可玩20几款小游戏](https://toutiao.io/k/2odr80w) 
 - [【开发者头条】2022-05-27-提交阶段](https://toutiao.io/k/1dwghjp) 
+- [【开发者头条】2022-05-27-推荐-首个确保缓存与数据库一致性的方案](https://toutiao.io/k/imjqbp3) 
 - [【开发者头条】2022-05-27-推荐-如何画好一张架构图？](https://toutiao.io/k/bu1pi73) 
 - [【开发者头条】2022-05-27-推荐-ThreadLocal夺命11连问](https://toutiao.io/k/p8lpi5z) 
-- [【开发者头条】2022-05-27-推荐-首个确保缓存与数据库一致性的方案](https://toutiao.io/k/imjqbp3) 
 - [【开发者头条】2022-05-27-推荐-大厂的优惠券系统是如何设计的？](https://toutiao.io/k/8v764sx) 
-- [【开发者头条】2022-05-27-推荐-你见过哪些目瞪口呆的-Java-代码技巧？](https://toutiao.io/k/avsba7r) 
 - [【开发者头条】2022-05-27-推荐-关于技术能力的思考和总结](https://toutiao.io/k/jo2jtja) 
+- [【开发者头条】2022-05-27-推荐-你见过哪些目瞪口呆的-Java-代码技巧？](https://toutiao.io/k/avsba7r) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

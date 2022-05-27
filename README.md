@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-05-27 09:15:39，:rocket: 更新条数: +2033， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-05-27 09:42:42，:rocket: 更新条数: +2033， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-05-27-企业微信（或者公众号）支持消息中转不？](https://www.v2ex.com/t/855717) ![](assets/new.png)  
 - [2022-05-27-surface-pro-的内置显示器和扩展显示器刷新率不一样有解吗？](https://www.v2ex.com/t/855716) ![](assets/new.png)  
 - [2022-05-27-杭州外企招聘啦（前端主管、音视频-C++主管）](https://www.v2ex.com/t/855715) ![](assets/new.png)  
 - [2022-05-27-后台用-ftp-插件做上传功能，前端进度-100%处卡住是什么原因啊](https://www.v2ex.com/t/855714) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-05-27-离职了，你有多余的加班时长会劳动仲裁嘛？](https://www.v2ex.com/t/855697) ![](assets/new.png)  
 - [2022-05-27-能解决问题的网站/技术/软件，其实都是蛮不错的](https://www.v2ex.com/t/855696) ![](assets/new.png)  
 - [2022-05-27-70-年产权的公寓值不值得买？](https://www.v2ex.com/t/855694) ![](assets/new.png)  
-- [2022-05-27-我的养生法开贴](https://www.v2ex.com/t/855692) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -566,12 +566,12 @@
 - [2022-05-27-博客推荐｜使用自定义指标在-Kubernetes-中自动扩展-Pulsar-Functions](https://toutiao.io/k/oh6ss96) ![](assets/new.png)  
 - [2022-05-27-对话摘要技术在美团的探索（SIGIR）](https://toutiao.io/k/rll34h1) ![](assets/new.png)  
 - [2022-05-27-万物皆可NFT，元宇宙中的NFT到底是什么？](https://toutiao.io/k/5ww6fpy) ![](assets/new.png)  
-- [2022-05-27-深入解析EndPoint-Security-Framework:Part-I](https://toutiao.io/k/hhvf2sm) ![](assets/new.png)  
 - [2022-05-27-吐血推荐17个提升开发效率的“轮子”](https://toutiao.io/k/stu43ax) ![](assets/new.png)  
+- [2022-05-27-深入解析EndPoint-Security-Framework:Part-I](https://toutiao.io/k/hhvf2sm) ![](assets/new.png)  
 - [2022-05-27-收钱吧高效自动化测试实践](https://toutiao.io/k/u8oixok) ![](assets/new.png)  
 - [2022-05-27-WTF！只需一行Python代码即可玩20几款小游戏](https://toutiao.io/k/2odr80w) ![](assets/new.png)  
 - [2022-05-27-提交阶段](https://toutiao.io/k/1dwghjp) ![](assets/new.png)  
-- [2022-05-27-推荐-首个确保缓存与数据库一致性的方案](https://toutiao.io/k/imjqbp3) ![](assets/new.png)  
+- [2022-05-27-推荐-如何画好一张架构图？](https://toutiao.io/k/bu1pi73) ![](assets/new.png)  
 - [2022-05-27-推荐-ThreadLocal夺命11连问](https://toutiao.io/k/p8lpi5z) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

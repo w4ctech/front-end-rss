@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-05-27 06:50:43，:rocket: 更新条数: +2034， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-05-27 07:14:07，:rocket: 更新条数: +2034， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,13 @@
 </summary>
 
 
+- [2022-05-27-这样在床头放一个显示器可行吗?](https://www.v2ex.com/t/855687) ![](assets/new.png)  
+- [2022-05-27-为什么-nats-这个消息队列用的这么少](https://www.v2ex.com/t/855686) ![](assets/new.png)  
+- [2022-05-27-福田租房](https://www.v2ex.com/t/855685) ![](assets/new.png)  
+- [2022-05-27-离职了公司拖着不让走](https://www.v2ex.com/t/855684) ![](assets/new.png)  
+- [2022-05-27-分享一个现在用的坐垫通风组合](https://www.v2ex.com/t/855683) ![](assets/new.png)  
+- [2022-05-27-有没有了解深信服-EDR-的](https://www.v2ex.com/t/855682) ![](assets/new.png)  
+- [2022-05-27-你们的-Google-遇到-bug-了吗](https://www.v2ex.com/t/855681) ![](assets/new.png)  
 - [2022-05-27-大家的-iCloud-今天有问题吗](https://www.v2ex.com/t/855680) ![](assets/new.png)  
 - [2022-05-27-润美公益讲座-关于-CPT-和-H1B](https://www.v2ex.com/t/855679) ![](assets/new.png)  
 - [2022-05-27-想问一下房贷-LPR-的问题](https://www.v2ex.com/t/855678) ![](assets/new.png)  
@@ -504,13 +511,6 @@
 - [2022-05-27-吉他](https://www.v2ex.com/t/855669) ![](assets/new.png)  
 - [2022-05-27-分享一下我的-618-购物车](https://www.v2ex.com/t/855668) ![](assets/new.png)  
 - [2022-05-27-为什么-C#的中文文档这么差](https://www.v2ex.com/t/855667) ![](assets/new.png)  
-- [2022-05-27-TypeScript-+-Jest-实现基本数据结构和算法](https://www.v2ex.com/t/855666) ![](assets/new.png)  
-- [2022-05-27-typescript-大类拆分成多文件方案？](https://www.v2ex.com/t/855664) ![](assets/new.png)  
-- [2022-05-27-有什么适合网页阅读的中文字体推荐的吗？](https://www.v2ex.com/t/855662) ![](assets/new.png)  
-- [2022-05-27-有没有开源免费的-RTF-文件合并方案（-Java-）？](https://www.v2ex.com/t/855661) ![](assets/new.png)  
-- [2022-05-27-微信小程序怎么嵌入第三方网页呢？](https://www.v2ex.com/t/855659) ![](assets/new.png)  
-- [2022-05-27-币安的-luna-下架了？](https://www.v2ex.com/t/855657) ![](assets/new.png)  
-- [2022-05-27-有打排球吗？求推荐排球运动鞋。](https://www.v2ex.com/t/855656) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -558,9 +558,9 @@
 - [2022-05-27-不可错过的程序员续命科技](https://toutiao.io/k/wooq1pu) ![](assets/new.png)  
 - [2022-05-27-用-Elasticsearch-造个“知网”难不难？](https://toutiao.io/k/er1lafw) ![](assets/new.png)  
 - [2022-05-27-携程百亿级缓存系统探索之路——本地缓存结构选型与内存压缩](https://toutiao.io/k/e3syuk3) ![](assets/new.png)  
+- [2022-05-27-sula入门教程快手构建管理后台](https://toutiao.io/k/hpkquul) ![](assets/new.png)  
 - [2022-05-27-硬刚Doris系列」Apache-Doris基本使用和数据模型](https://toutiao.io/k/tg1z5we) ![](assets/new.png)  
 - [2022-05-27-基于Flink-Hudi的增量ETL架构](https://toutiao.io/k/rqbg641) ![](assets/new.png)  
-- [2022-05-27-sula入门教程快手构建管理后台](https://toutiao.io/k/hpkquul) ![](assets/new.png)  
 - [2022-05-27-零基础理解-ESLint-核心原理](https://toutiao.io/k/lk58ys4) ![](assets/new.png)  
 - [2022-05-27-不堆参数、不靠时长，Meta加速ViT训练流程，吞吐量4倍提升](https://toutiao.io/k/j1j7wmi) ![](assets/new.png)  
 - [2022-05-27-博客推荐｜使用自定义指标在-Kubernetes-中自动扩展-Pulsar-Functions](https://toutiao.io/k/oh6ss96) ![](assets/new.png)  
@@ -571,8 +571,8 @@
 - [2022-05-27-吐血推荐17个提升开发效率的“轮子”](https://toutiao.io/k/stu43ax) ![](assets/new.png)  
 - [2022-05-27-WTF！只需一行Python代码即可玩20几款小游戏](https://toutiao.io/k/2odr80w) ![](assets/new.png)  
 - [2022-05-27-提交阶段](https://toutiao.io/k/1dwghjp) ![](assets/new.png)  
-- [2022-05-27-推荐-如何画好一张架构图？](https://toutiao.io/k/bu1pi73) ![](assets/new.png)  
-- [2022-05-27-推荐-首个确保缓存与数据库一致性的方案](https://toutiao.io/k/imjqbp3) ![](assets/new.png)  
+- [2022-05-27-推荐-大厂的优惠券系统是如何设计的？](https://toutiao.io/k/8v764sx) ![](assets/new.png)  
+- [2022-05-27-推荐-你见过哪些目瞪口呆的-Java-代码技巧？](https://toutiao.io/k/avsba7r) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

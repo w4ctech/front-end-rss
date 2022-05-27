@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-05-27 14:13:38。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-05-27 14:40:11。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -70,6 +70,8 @@
 
 - [【张鑫旭-鑫空间-鑫生活】2022-05-22-CSS必学基础：理解CSS中的级联规则](https://www.zhangxinxu.com/wordpress/2022/05/deep-in-css-cascade/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-05-11-JS与条形码的生成](https://www.zhangxinxu.com/wordpress/2022/05/js-barcode/) 
+- [【V2EX】2022-05-27-炒币亏完了](https://www.v2ex.com/t/855759) 
+- [【V2EX】2022-05-27-有-incase-sling-替代品吗？](https://www.v2ex.com/t/855758) 
 - [【V2EX】2022-05-27-raft-算法中，-返回-ConflictTerm-的作用是什么？](https://www.v2ex.com/t/855757) 
 - [【V2EX】2022-05-27-Web-Infra-is-waiting-for-you](https://www.v2ex.com/t/855756) 
 - [【V2EX】2022-05-27-preg_match_all-正则匹配问题求教](https://www.v2ex.com/t/855755) 
@@ -109,9 +111,6 @@
 - [【V2EX】2022-05-27-杭州外企招聘啦（前端主管、音视频-C++主管）](https://www.v2ex.com/t/855715) 
 - [【V2EX】2022-05-27-后台用-ftp-插件做上传功能，前端进度-100%处卡住是什么原因啊](https://www.v2ex.com/t/855714) 
 - [【V2EX】2022-05-27-6•18-大伙儿都给父母买了啥？](https://www.v2ex.com/t/855713) 
-- [【V2EX】2022-05-27-上海-华为数据库开发岗位招聘](https://www.v2ex.com/t/855710) 
-- [【V2EX】2022-05-27-Micro-Focus-内推中高级-C++/-Python-、Front-Engineer、-Java-、Android、QA、DevOps、Performance-Test-Engineer-欢迎各位大佬联系（转正成功，有神秘大礼！）](https://www.v2ex.com/t/855709) 
-- [【V2EX】2022-05-27-今年的彩虹表带来了，白色的真好看](https://www.v2ex.com/t/855708) 
 - [【技术头条】2022-05-27-什么是子网掩码?-www.awaimai.com](https://blogread.cn/news/go.php?idItem=15112&url=https%3A%2F%2Fwww.awaimai.com%2F2933.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-05-27-4-个用来擦除数据的-Linux-工具-linux.cn](https://blogread.cn/news/go.php?idItem=15111&url=https%3A%2F%2Flinux.cn%2Farticle-13913-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-05-27-使用-logrotate-命令轮转和归档日志-linux.cn](https://blogread.cn/news/go.php?idItem=15110&url=https%3A%2F%2Flinux.cn%2Farticle-13909-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -137,8 +136,8 @@
 - [【开发者头条】2022-05-27-不可错过的程序员续命科技](https://toutiao.io/k/wooq1pu) 
 - [【开发者头条】2022-05-27-用-Elasticsearch-造个“知网”难不难？](https://toutiao.io/k/er1lafw) 
 - [【开发者头条】2022-05-27-携程百亿级缓存系统探索之路——本地缓存结构选型与内存压缩](https://toutiao.io/k/e3syuk3) 
-- [【开发者头条】2022-05-27-sula入门教程快手构建管理后台](https://toutiao.io/k/hpkquul) 
 - [【开发者头条】2022-05-27-吐血推荐17个提升开发效率的“轮子”](https://toutiao.io/k/stu43ax) 
+- [【开发者头条】2022-05-27-sula入门教程快手构建管理后台](https://toutiao.io/k/hpkquul) 
 - [【开发者头条】2022-05-27-收钱吧高效自动化测试实践](https://toutiao.io/k/u8oixok) 
 - [【开发者头条】2022-05-27-硬刚Doris系列」Apache-Doris基本使用和数据模型](https://toutiao.io/k/tg1z5we) 
 - [【开发者头条】2022-05-27-基于Flink-Hudi的增量ETL架构](https://toutiao.io/k/rqbg641) 
@@ -150,12 +149,12 @@
 - [【开发者头条】2022-05-27-对话摘要技术在美团的探索（SIGIR）](https://toutiao.io/k/rll34h1) 
 - [【开发者头条】2022-05-27-深入解析EndPoint-Security-Framework:Part-I](https://toutiao.io/k/hhvf2sm) 
 - [【开发者头条】2022-05-27-提交阶段](https://toutiao.io/k/1dwghjp) 
-- [【开发者头条】2022-05-27-推荐-你见过哪些目瞪口呆的-Java-代码技巧？](https://toutiao.io/k/avsba7r) 
 - [【开发者头条】2022-05-27-推荐-关于技术能力的思考和总结](https://toutiao.io/k/jo2jtja) 
+- [【开发者头条】2022-05-27-推荐-如何画好一张架构图？](https://toutiao.io/k/bu1pi73) 
 - [【开发者头条】2022-05-27-推荐-ThreadLocal夺命11连问](https://toutiao.io/k/p8lpi5z) 
 - [【开发者头条】2022-05-27-推荐-大厂的优惠券系统是如何设计的？](https://toutiao.io/k/8v764sx) 
-- [【开发者头条】2022-05-27-推荐-如何画好一张架构图？](https://toutiao.io/k/bu1pi73) 
 - [【开发者头条】2022-05-27-推荐-首个确保缓存与数据库一致性的方案](https://toutiao.io/k/imjqbp3) 
+- [【开发者头条】2022-05-27-推荐-你见过哪些目瞪口呆的-Java-代码技巧？](https://toutiao.io/k/avsba7r) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

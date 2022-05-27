@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-05-27 14:13:38，:rocket: 更新条数: +2032， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-05-27 14:40:11，:rocket: 更新条数: +2031， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-05-27-炒币亏完了](https://www.v2ex.com/t/855759) ![](assets/new.png)  
+- [2022-05-27-有-incase-sling-替代品吗？](https://www.v2ex.com/t/855758) ![](assets/new.png)  
 - [2022-05-27-raft-算法中，-返回-ConflictTerm-的作用是什么？](https://www.v2ex.com/t/855757) ![](assets/new.png)  
 - [2022-05-27-Web-Infra-is-waiting-for-you](https://www.v2ex.com/t/855756) ![](assets/new.png)  
 - [2022-05-27-preg_match_all-正则匹配问题求教](https://www.v2ex.com/t/855755) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-05-27-求助：-visual-studio-2019-无法登录](https://www.v2ex.com/t/855740) ![](assets/new.png)  
 - [2022-05-27-CoreShell-官网的证书都过期了-3-个多月了，作者难道不知道？](https://www.v2ex.com/t/855739) ![](assets/new.png)  
 - [2022-05-27-支付宝更新到最新版后，上方和下方的图标消失了](https://www.v2ex.com/t/855737) ![](assets/new.png)  
-- [2022-05-27-對運營商開放特例-Port-之思考](https://www.v2ex.com/t/855736) ![](assets/new.png)  
-- [2022-05-27-Dribbble-的搜索逻辑到底是什么样的？](https://www.v2ex.com/t/855735) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -558,8 +558,8 @@
 - [2022-05-27-不可错过的程序员续命科技](https://toutiao.io/k/wooq1pu) ![](assets/new.png)  
 - [2022-05-27-用-Elasticsearch-造个“知网”难不难？](https://toutiao.io/k/er1lafw) ![](assets/new.png)  
 - [2022-05-27-携程百亿级缓存系统探索之路——本地缓存结构选型与内存压缩](https://toutiao.io/k/e3syuk3) ![](assets/new.png)  
-- [2022-05-27-sula入门教程快手构建管理后台](https://toutiao.io/k/hpkquul) ![](assets/new.png)  
 - [2022-05-27-吐血推荐17个提升开发效率的“轮子”](https://toutiao.io/k/stu43ax) ![](assets/new.png)  
+- [2022-05-27-sula入门教程快手构建管理后台](https://toutiao.io/k/hpkquul) ![](assets/new.png)  
 - [2022-05-27-收钱吧高效自动化测试实践](https://toutiao.io/k/u8oixok) ![](assets/new.png)  
 - [2022-05-27-硬刚Doris系列」Apache-Doris基本使用和数据模型](https://toutiao.io/k/tg1z5we) ![](assets/new.png)  
 - [2022-05-27-基于Flink-Hudi的增量ETL架构](https://toutiao.io/k/rqbg641) ![](assets/new.png)  
@@ -571,8 +571,8 @@
 - [2022-05-27-对话摘要技术在美团的探索（SIGIR）](https://toutiao.io/k/rll34h1) ![](assets/new.png)  
 - [2022-05-27-深入解析EndPoint-Security-Framework:Part-I](https://toutiao.io/k/hhvf2sm) ![](assets/new.png)  
 - [2022-05-27-提交阶段](https://toutiao.io/k/1dwghjp) ![](assets/new.png)  
-- [2022-05-27-推荐-你见过哪些目瞪口呆的-Java-代码技巧？](https://toutiao.io/k/avsba7r) ![](assets/new.png)  
 - [2022-05-27-推荐-关于技术能力的思考和总结](https://toutiao.io/k/jo2jtja) ![](assets/new.png)  
+- [2022-05-27-推荐-如何画好一张架构图？](https://toutiao.io/k/bu1pi73) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

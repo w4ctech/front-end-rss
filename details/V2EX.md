@@ -1,10 +1,15 @@
-:alarm_clock: 更新时间: 2022-05-28 14:14:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-05-28 14:39:29。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-05-28-A-formalization-of-Univalent-Axiom](https://www.v2ex.com/t/855928) 
+- [2022-05-28-icloud-邮箱别名可以删除了](https://www.v2ex.com/t/855926) 
+- [2022-05-28-刚了解到-signal-这个软件，通讯时说是端到端加密的，但是好奇-signal-服务端会有专门的数据库存储聊天记录，还是聊天记录只会存储在客户端。](https://www.v2ex.com/t/855925) 
+- [2022-05-28-iPhone-8-的-Smart-Battery-Case-是多少毫安的？为什么那么不耐用](https://www.v2ex.com/t/855924) 
+- [2022-05-28-真卷，-SE3-在某夕夕只要-2449](https://www.v2ex.com/t/855923) 
 - [2022-05-28-安卓下有什么好用的自动化任务插件吗，已-root](https://www.v2ex.com/t/855922) 
 - [2022-05-28-rustdesk-服务端-golang-实现](https://www.v2ex.com/t/855920) 
 - [2022-05-28-iPhone-13-拍照慢](https://www.v2ex.com/t/855919) 
@@ -36,8 +41,3 @@
 - [2022-05-28-GitHub-也能搜出来内容农场](https://www.v2ex.com/t/855883) 
 - [2022-05-28-cubox-值得购买吗](https://www.v2ex.com/t/855882) 
 - [2022-05-28-pxx-顺手抽了个免两单限额-40-会不会被反撸](https://www.v2ex.com/t/855881) 
-- [2022-05-28-为什么定位中低端的手机也在堆砌摄像头](https://www.v2ex.com/t/855880) 
-- [2022-05-28-Apple-Music-哪个白噪声专辑比较好听？](https://www.v2ex.com/t/855879) 
-- [2022-05-28-老生常谈的问题，请问大家如何管理-dotfiles](https://www.v2ex.com/t/855878) 
-- [2022-05-28-副屏如何选](https://www.v2ex.com/t/855877) 
-- [2022-05-28-Windows-Docker-Desktop-Proxy-Not-Working](https://www.v2ex.com/t/855875) 

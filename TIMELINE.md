@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-05-28 14:14:23。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-05-28 14:39:29。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -71,6 +71,11 @@
 - [【张鑫旭-鑫空间-鑫生活】2022-05-28-详解日后定会大规模使用的CSS-@layer-规则](https://www.zhangxinxu.com/wordpress/2022/05/css-layer-rule/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-05-22-CSS必学基础：理解CSS中的级联规则](https://www.zhangxinxu.com/wordpress/2022/05/deep-in-css-cascade/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-05-11-JS与条形码的生成](https://www.zhangxinxu.com/wordpress/2022/05/js-barcode/) 
+- [【V2EX】2022-05-28-A-formalization-of-Univalent-Axiom](https://www.v2ex.com/t/855928) 
+- [【V2EX】2022-05-28-icloud-邮箱别名可以删除了](https://www.v2ex.com/t/855926) 
+- [【V2EX】2022-05-28-刚了解到-signal-这个软件，通讯时说是端到端加密的，但是好奇-signal-服务端会有专门的数据库存储聊天记录，还是聊天记录只会存储在客户端。](https://www.v2ex.com/t/855925) 
+- [【V2EX】2022-05-28-iPhone-8-的-Smart-Battery-Case-是多少毫安的？为什么那么不耐用](https://www.v2ex.com/t/855924) 
+- [【V2EX】2022-05-28-真卷，-SE3-在某夕夕只要-2449](https://www.v2ex.com/t/855923) 
 - [【V2EX】2022-05-28-安卓下有什么好用的自动化任务插件吗，已-root](https://www.v2ex.com/t/855922) 
 - [【V2EX】2022-05-28-rustdesk-服务端-golang-实现](https://www.v2ex.com/t/855920) 
 - [【V2EX】2022-05-28-iPhone-13-拍照慢](https://www.v2ex.com/t/855919) 
@@ -102,11 +107,6 @@
 - [【V2EX】2022-05-28-GitHub-也能搜出来内容农场](https://www.v2ex.com/t/855883) 
 - [【V2EX】2022-05-28-cubox-值得购买吗](https://www.v2ex.com/t/855882) 
 - [【V2EX】2022-05-28-pxx-顺手抽了个免两单限额-40-会不会被反撸](https://www.v2ex.com/t/855881) 
-- [【V2EX】2022-05-28-为什么定位中低端的手机也在堆砌摄像头](https://www.v2ex.com/t/855880) 
-- [【V2EX】2022-05-28-Apple-Music-哪个白噪声专辑比较好听？](https://www.v2ex.com/t/855879) 
-- [【V2EX】2022-05-28-老生常谈的问题，请问大家如何管理-dotfiles](https://www.v2ex.com/t/855878) 
-- [【V2EX】2022-05-28-副屏如何选](https://www.v2ex.com/t/855877) 
-- [【V2EX】2022-05-28-Windows-Docker-Desktop-Proxy-Not-Working](https://www.v2ex.com/t/855875) 
 - [【技术头条】2022-05-28-什么是子网掩码?-www.awaimai.com](https://blogread.cn/news/go.php?idItem=15112&url=https%3A%2F%2Fwww.awaimai.com%2F2933.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-05-28-4-个用来擦除数据的-Linux-工具-linux.cn](https://blogread.cn/news/go.php?idItem=15111&url=https%3A%2F%2Flinux.cn%2Farticle-13913-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-05-28-使用-logrotate-命令轮转和归档日志-linux.cn](https://blogread.cn/news/go.php?idItem=15110&url=https%3A%2F%2Flinux.cn%2Farticle-13909-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -138,13 +138,13 @@
 - [【开发者头条】2022-05-28-技术人的转身思考：project-到-product-的转化](https://toutiao.io/k/p08tk3t) 
 - [【开发者头条】2022-05-28-如何应对开源组件⻛险？软件成分安全分析（SCA）能力的建设与演进](https://toutiao.io/k/qo7njea) 
 - [【开发者头条】2022-05-28-对-Python-中-GIL-的一点理解](https://toutiao.io/k/ibtc0by) 
-- [【开发者头条】2022-05-28-推荐-你见过哪些目瞪口呆的-Java-代码技巧？](https://toutiao.io/k/avsba7r) 
+- [【开发者头条】2022-05-28-推荐-首个确保缓存与数据库一致性的方案](https://toutiao.io/k/imjqbp3) 
+- [【开发者头条】2022-05-28-推荐-如何画好一张架构图？](https://toutiao.io/k/bu1pi73) 
+- [【开发者头条】2022-05-28-推荐-关于技术能力的思考和总结](https://toutiao.io/k/jo2jtja) 
 - [【开发者头条】2022-05-28-推荐-ThreadLocal夺命11连问](https://toutiao.io/k/p8lpi5z) 
 - [【开发者头条】2022-05-28-推荐-大厂的优惠券系统是如何设计的？](https://toutiao.io/k/8v764sx) 
 - [【开发者头条】2022-05-28-推荐-支持300+常用功能的开源GO语言工具函数库](https://toutiao.io/k/an98swu) 
-- [【开发者头条】2022-05-28-推荐-关于技术能力的思考和总结](https://toutiao.io/k/jo2jtja) 
-- [【开发者头条】2022-05-28-推荐-首个确保缓存与数据库一致性的方案](https://toutiao.io/k/imjqbp3) 
-- [【开发者头条】2022-05-28-推荐-如何画好一张架构图？](https://toutiao.io/k/bu1pi73) 
+- [【开发者头条】2022-05-28-推荐-你见过哪些目瞪口呆的-Java-代码技巧？](https://toutiao.io/k/avsba7r) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

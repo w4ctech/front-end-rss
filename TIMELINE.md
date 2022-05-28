@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-05-28 11:13:00。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-05-28 11:38:01。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -70,6 +70,9 @@
 
 - [【张鑫旭-鑫空间-鑫生活】2022-05-22-CSS必学基础：理解CSS中的级联规则](https://www.zhangxinxu.com/wordpress/2022/05/deep-in-css-cascade/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-05-11-JS与条形码的生成](https://www.zhangxinxu.com/wordpress/2022/05/js-barcode/) 
+- [【V2EX】2022-05-28-ubuntu-下-pdf-viewer-的-bug,有人知道是什么原因吗](https://www.v2ex.com/t/855899) 
+- [【V2EX】2022-05-28-MacBook-pro-16-寸使用-typec-千兆以太网-MTU-最大-1500？](https://www.v2ex.com/t/855898) 
+- [【V2EX】2022-05-28-请教下-OpenSSL-如何加密出原始版本的-AES（FIPS-197），或者是换种问法，-OpenSSL-如何加密出-Go-标准库-crypto/aes-一样的算法，需要互操作（互认）](https://www.v2ex.com/t/855897) 
 - [【V2EX】2022-05-28-活动小鸡上-SQL-应该耗时多少？](https://www.v2ex.com/t/855895) 
 - [【V2EX】2022-05-28-M1-Mac-onedrive-同步文件会丢失-finder-文件标签](https://www.v2ex.com/t/855894) 
 - [【V2EX】2022-05-28-iOS-熊猫吃短信如何过滤掉超过-来源为已发送-3-条信息的发件人-发来的短信](https://www.v2ex.com/t/855892) 
@@ -102,9 +105,6 @@
 - [【V2EX】2022-05-28-OneDrive-for-Mac-CPU-占用高的问题](https://www.v2ex.com/t/855854) 
 - [【V2EX】2022-05-28-墨干编辑器-V1.0.4，第一个里程碑](https://www.v2ex.com/t/855853) 
 - [【V2EX】2022-05-28-大家都在用哪里的企业邮箱呢](https://www.v2ex.com/t/855852) 
-- [【V2EX】2022-05-28-17MBP-乞丐版带不动-4K，求推荐-2K-外接屏](https://www.v2ex.com/t/855848) 
-- [【V2EX】2022-05-28-请教-go-标准库-aes-的默认的加密模式是什么？没有-openSSL-里的那种初始化变量-IV，是有个默认值？还是说-go-标准库里默认的初始化-iv=key-？](https://www.v2ex.com/t/855847) 
-- [【V2EX】2022-05-28-聊聊当下的-B-站](https://www.v2ex.com/t/855846) 
 - [【技术头条】2022-05-28-什么是子网掩码?-www.awaimai.com](https://blogread.cn/news/go.php?idItem=15112&url=https%3A%2F%2Fwww.awaimai.com%2F2933.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-05-28-4-个用来擦除数据的-Linux-工具-linux.cn](https://blogread.cn/news/go.php?idItem=15111&url=https%3A%2F%2Flinux.cn%2Farticle-13913-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-05-28-使用-logrotate-命令轮转和归档日志-linux.cn](https://blogread.cn/news/go.php?idItem=15110&url=https%3A%2F%2Flinux.cn%2Farticle-13909-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -134,14 +134,14 @@
 - [【开发者头条】2022-05-28-go全栈开发框架bud，go语言中的ruby-on-rails](https://toutiao.io/k/m456unv) 
 - [【开发者头条】2022-05-28-技术负责人如何搞垮一个团队](https://toutiao.io/k/g5rq9s9) 
 - [【开发者头条】2022-05-28-技术人的转身思考：project-到-product-的转化](https://toutiao.io/k/p08tk3t) 
-- [【开发者头条】2022-05-28-对-Python-中-GIL-的一点理解](https://toutiao.io/k/ibtc0by) 
 - [【开发者头条】2022-05-28-如何应对开源组件⻛险？软件成分安全分析（SCA）能力的建设与演进](https://toutiao.io/k/qo7njea) 
-- [【开发者头条】2022-05-28-推荐-你见过哪些目瞪口呆的-Java-代码技巧？](https://toutiao.io/k/avsba7r) 
-- [【开发者头条】2022-05-28-推荐-关于技术能力的思考和总结](https://toutiao.io/k/jo2jtja) 
+- [【开发者头条】2022-05-28-对-Python-中-GIL-的一点理解](https://toutiao.io/k/ibtc0by) 
 - [【开发者头条】2022-05-28-推荐-大厂的优惠券系统是如何设计的？](https://toutiao.io/k/8v764sx) 
 - [【开发者头条】2022-05-28-推荐-如何画好一张架构图？](https://toutiao.io/k/bu1pi73) 
+- [【开发者头条】2022-05-28-推荐-你见过哪些目瞪口呆的-Java-代码技巧？](https://toutiao.io/k/avsba7r) 
 - [【开发者头条】2022-05-28-推荐-首个确保缓存与数据库一致性的方案](https://toutiao.io/k/imjqbp3) 
 - [【开发者头条】2022-05-28-推荐-ThreadLocal夺命11连问](https://toutiao.io/k/p8lpi5z) 
+- [【开发者头条】2022-05-28-推荐-关于技术能力的思考和总结](https://toutiao.io/k/jo2jtja) 
 - [【开发者头条】2022-05-28-推荐-支持300+常用功能的开源GO语言工具函数库](https://toutiao.io/k/an98swu) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>

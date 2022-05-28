@@ -1,10 +1,13 @@
-:alarm_clock: 更新时间: 2022-05-28 11:13:00。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-05-28 11:38:01。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-05-28-ubuntu-下-pdf-viewer-的-bug,有人知道是什么原因吗](https://www.v2ex.com/t/855899) 
+- [2022-05-28-MacBook-pro-16-寸使用-typec-千兆以太网-MTU-最大-1500？](https://www.v2ex.com/t/855898) 
+- [2022-05-28-请教下-OpenSSL-如何加密出原始版本的-AES（FIPS-197），或者是换种问法，-OpenSSL-如何加密出-Go-标准库-crypto/aes-一样的算法，需要互操作（互认）](https://www.v2ex.com/t/855897) 
 - [2022-05-28-活动小鸡上-SQL-应该耗时多少？](https://www.v2ex.com/t/855895) 
 - [2022-05-28-M1-Mac-onedrive-同步文件会丢失-finder-文件标签](https://www.v2ex.com/t/855894) 
 - [2022-05-28-iOS-熊猫吃短信如何过滤掉超过-来源为已发送-3-条信息的发件人-发来的短信](https://www.v2ex.com/t/855892) 
@@ -37,6 +40,3 @@
 - [2022-05-28-OneDrive-for-Mac-CPU-占用高的问题](https://www.v2ex.com/t/855854) 
 - [2022-05-28-墨干编辑器-V1.0.4，第一个里程碑](https://www.v2ex.com/t/855853) 
 - [2022-05-28-大家都在用哪里的企业邮箱呢](https://www.v2ex.com/t/855852) 
-- [2022-05-28-17MBP-乞丐版带不动-4K，求推荐-2K-外接屏](https://www.v2ex.com/t/855848) 
-- [2022-05-28-请教-go-标准库-aes-的默认的加密模式是什么？没有-openSSL-里的那种初始化变量-IV，是有个默认值？还是说-go-标准库里默认的初始化-iv=key-？](https://www.v2ex.com/t/855847) 
-- [2022-05-28-聊聊当下的-B-站](https://www.v2ex.com/t/855846) 

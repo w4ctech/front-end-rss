@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-05-28 17:19:17。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-05-28 17:43:00。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1912,6 +1912,7 @@
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2022-03-21-ascent-override-descent-override-line-gap-override一锅端](https://www.zhangxinxu.com/wordpress/2022/03/css-ascent-override-descent/) 
+- [2022-05-28-最近-mbp-的系统偏好设置中存储空间详情出不来了，请问有什么办法恢复，或者有什么方法可以排查](https://www.v2ex.com/t/855947) 
 - [2022-05-28-手上有不少老硬盘，怎么发挥新用途](https://www.v2ex.com/t/855946) 
 - [2022-05-28-Macbook-外接显示器时合盖立式竖直放置会烧屏吗](https://www.v2ex.com/t/855945) 
 - [2022-05-28-有人用过万由-U-NAS-HS-401P-四盘位-J4125-4G-的-Nas-吗?有几个问题咨询下](https://www.v2ex.com/t/855944) 
@@ -1970,7 +1971,7 @@
 - [2022-05-28-推荐-关于技术能力的思考和总结](https://toutiao.io/k/jo2jtja) 
 - [2022-05-28-推荐-如何画好一张架构图？](https://toutiao.io/k/bu1pi73) 
 - [2022-05-28-推荐-ThreadLocal夺命11连问](https://toutiao.io/k/p8lpi5z) 
-- [2022-05-28-推荐-聊聊接口设计的36个小技巧](https://toutiao.io/k/yqm776v) 
 - [2022-05-28-推荐-支持300+常用功能的开源GO语言工具函数库](https://toutiao.io/k/an98swu) 
 - [2022-05-28-推荐-大厂的优惠券系统是如何设计的？](https://toutiao.io/k/8v764sx) 
+- [2022-05-28-推荐-聊聊接口设计的36个小技巧](https://toutiao.io/k/yqm776v) 
 - [2022-05-28-推荐-你见过哪些目瞪口呆的-Java-代码技巧？](https://toutiao.io/k/avsba7r) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-05-28 09:41:16，:rocket: 更新条数: +2020， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-05-28 10:15:31，:rocket: 更新条数: +2022， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,14 @@
 </summary>
 
 
+- [2022-05-28-一个人在北京漂着，想认识更多的人交些朋友，求-V-友们推荐靠谱的渠道](https://www.v2ex.com/t/855884) ![](assets/new.png)  
+- [2022-05-28-GitHub-也能搜出来内容农场](https://www.v2ex.com/t/855883) ![](assets/new.png)  
+- [2022-05-28-cubox-值得购买吗](https://www.v2ex.com/t/855882) ![](assets/new.png)  
+- [2022-05-28-pxx-顺手抽了个免两单限额-40-会不会被反撸](https://www.v2ex.com/t/855881) ![](assets/new.png)  
+- [2022-05-28-为什么定位中低端的手机也在堆砌摄像头](https://www.v2ex.com/t/855880) ![](assets/new.png)  
+- [2022-05-28-Apple-Music-哪个白噪声专辑比较好听？](https://www.v2ex.com/t/855879) ![](assets/new.png)  
+- [2022-05-28-老生常谈的问题，请问大家如何管理-dotfiles](https://www.v2ex.com/t/855878) ![](assets/new.png)  
+- [2022-05-28-副屏如何选](https://www.v2ex.com/t/855877) ![](assets/new.png)  
 - [2022-05-28-Windows-Docker-Desktop-Proxy-Not-Working](https://www.v2ex.com/t/855875) ![](assets/new.png)  
 - [2022-05-28-关于人教社教材插画事件的一点想法](https://www.v2ex.com/t/855873) ![](assets/new.png)  
 - [2022-05-28-话说会有事情让你几天不回朋友的消息？](https://www.v2ex.com/t/855872) ![](assets/new.png)  
@@ -503,14 +511,6 @@
 - [2022-05-28-程序员在创业过程中如何对待-UGC-版权问题](https://www.v2ex.com/t/855862) ![](assets/new.png)  
 - [2022-05-28-请问-m1-的-Mac-最轻量搭建-web-服务器的方式是什么？](https://www.v2ex.com/t/855861) ![](assets/new.png)  
 - [2022-05-28-有什么工具可以批量预览压缩包里面的图片吗](https://www.v2ex.com/t/855860) ![](assets/new.png)  
-- [2022-05-28-Lustre-并行文件系统运维](https://www.v2ex.com/t/855859) ![](assets/new.png)  
-- [2022-05-28-建了个-discord-群，欢迎来玩耍，特别是这边搞独立游戏开发的](https://www.v2ex.com/t/855856) ![](assets/new.png)  
-- [2022-05-28-我是真的讨厌异地恋-也是真的喜欢你](https://www.v2ex.com/t/855855) ![](assets/new.png)  
-- [2022-05-28-OneDrive-for-Mac-CPU-占用高的问题](https://www.v2ex.com/t/855854) ![](assets/new.png)  
-- [2022-05-28-墨干编辑器-V1.0.4，第一个里程碑](https://www.v2ex.com/t/855853) ![](assets/new.png)  
-- [2022-05-28-大家都在用哪里的企业邮箱呢](https://www.v2ex.com/t/855852) ![](assets/new.png)  
-- [2022-05-28-17MBP-乞丐版带不动-4K，求推荐-2K-外接屏](https://www.v2ex.com/t/855848) ![](assets/new.png)  
-- [2022-05-28-请教-go-标准库-aes-的默认的加密模式是什么？没有-openSSL-里的那种初始化变量-IV，是有个默认值？还是说-go-标准库里默认的初始化-iv=key-？](https://www.v2ex.com/t/855847) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -561,16 +561,16 @@
 - [2022-05-28-携程公共技术支持运营实践](https://toutiao.io/k/il3lxv7) ![](assets/new.png)  
 - [2022-05-28-go全栈开发框架bud，go语言中的ruby-on-rails](https://toutiao.io/k/m456unv) ![](assets/new.png)  
 - [2022-05-28-技术负责人如何搞垮一个团队](https://toutiao.io/k/g5rq9s9) ![](assets/new.png)  
-- [2022-05-28-对-Python-中-GIL-的一点理解](https://toutiao.io/k/ibtc0by) ![](assets/new.png)  
 - [2022-05-28-技术人的转身思考：project-到-product-的转化](https://toutiao.io/k/p08tk3t) ![](assets/new.png)  
+- [2022-05-28-对-Python-中-GIL-的一点理解](https://toutiao.io/k/ibtc0by) ![](assets/new.png)  
 - [2022-05-28-如何应对开源组件⻛险？软件成分安全分析（SCA）能力的建设与演进](https://toutiao.io/k/qo7njea) ![](assets/new.png)  
+- [2022-05-28-推荐-如何画好一张架构图？](https://toutiao.io/k/bu1pi73) ![](assets/new.png)  
+- [2022-05-28-推荐-关于技术能力的思考和总结](https://toutiao.io/k/jo2jtja) ![](assets/new.png)  
+- [2022-05-28-推荐-支持300+常用功能的开源GO语言工具函数库](https://toutiao.io/k/an98swu) ![](assets/new.png)  
+- [2022-05-28-推荐-首个确保缓存与数据库一致性的方案](https://toutiao.io/k/imjqbp3) ![](assets/new.png)  
+- [2022-05-28-推荐-大厂的优惠券系统是如何设计的？](https://toutiao.io/k/8v764sx) ![](assets/new.png)  
 - [2022-05-28-推荐-你见过哪些目瞪口呆的-Java-代码技巧？](https://toutiao.io/k/avsba7r) ![](assets/new.png)  
 - [2022-05-28-推荐-ThreadLocal夺命11连问](https://toutiao.io/k/p8lpi5z) ![](assets/new.png)  
-- [2022-05-28-推荐-大厂的优惠券系统是如何设计的？](https://toutiao.io/k/8v764sx) ![](assets/new.png)  
-- [2022-05-28-推荐-如何画好一张架构图？](https://toutiao.io/k/bu1pi73) ![](assets/new.png)  
-- [2022-05-28-推荐-支持300+常用功能的开源GO语言工具函数库](https://toutiao.io/k/an98swu) ![](assets/new.png)  
-- [2022-05-28-推荐-关于技术能力的思考和总结](https://toutiao.io/k/jo2jtja) ![](assets/new.png)  
-- [2022-05-28-推荐-首个确保缓存与数据库一致性的方案](https://toutiao.io/k/imjqbp3) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

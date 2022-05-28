@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-05-28 19:38:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-05-28 20:15:29。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1967,10 +1967,10 @@
 - [2022-05-28-技术负责人如何搞垮一个团队](https://toutiao.io/k/g5rq9s9) 
 - [2022-05-28-技术人的转身思考：project-到-product-的转化](https://toutiao.io/k/p08tk3t) 
 - [2022-05-28-对-Python-中-GIL-的一点理解](https://toutiao.io/k/ibtc0by) 
+- [2022-05-28-推荐-关于技术能力的思考和总结](https://toutiao.io/k/jo2jtja) 
+- [2022-05-28-推荐-ThreadLocal夺命11连问](https://toutiao.io/k/p8lpi5z) 
 - [2022-05-28-推荐-大厂的优惠券系统是如何设计的？](https://toutiao.io/k/8v764sx) 
+- [2022-05-28-推荐-你见过哪些目瞪口呆的-Java-代码技巧？](https://toutiao.io/k/avsba7r) 
 - [2022-05-28-推荐-支持300+常用功能的开源GO语言工具函数库](https://toutiao.io/k/an98swu) 
 - [2022-05-28-推荐-如何画好一张架构图？](https://toutiao.io/k/bu1pi73) 
 - [2022-05-28-推荐-聊聊接口设计的36个小技巧](https://toutiao.io/k/yqm776v) 
-- [2022-05-28-推荐-ThreadLocal夺命11连问](https://toutiao.io/k/p8lpi5z) 
-- [2022-05-28-推荐-你见过哪些目瞪口呆的-Java-代码技巧？](https://toutiao.io/k/avsba7r) 
-- [2022-05-28-推荐-关于技术能力的思考和总结](https://toutiao.io/k/jo2jtja) 

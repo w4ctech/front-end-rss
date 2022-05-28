@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2022-05-28 17:43:00。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-05-28 18:16:15。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-05-28-有今年要装修一起团购家具家电的吗](https://www.v2ex.com/t/855950) 
+- [2022-05-28-《八辈子》歌曲推荐及个人主观感受](https://www.v2ex.com/t/855948) 
 - [2022-05-28-最近-mbp-的系统偏好设置中存储空间详情出不来了，请问有什么办法恢复，或者有什么方法可以排查](https://www.v2ex.com/t/855947) 
 - [2022-05-28-手上有不少老硬盘，怎么发挥新用途](https://www.v2ex.com/t/855946) 
 - [2022-05-28-Macbook-外接显示器时合盖立式竖直放置会烧屏吗](https://www.v2ex.com/t/855945) 
@@ -41,6 +43,3 @@
 - [2022-05-28-求推荐个-Linux-台式机上能用的无线网卡](https://www.v2ex.com/t/855903) 
 - [2022-05-28-macOS-下-VR-视频哪个播放器支持转换为普通视频观看？](https://www.v2ex.com/t/855902) 
 - [2022-05-28-有多少人会把键盘上的-CapsLock-和-Backspace-对调？](https://www.v2ex.com/t/855901) 
-- [2022-05-28-Google-photo-拖照片？](https://www.v2ex.com/t/855900) 
-- [2022-05-28-ubuntu-下-pdf-viewer-的-bug,有人知道是什么原因吗](https://www.v2ex.com/t/855899) 
-- [2022-05-28-MacBook-pro-16-寸使用-typec-千兆以太网-MTU-最大-1500？](https://www.v2ex.com/t/855898) 

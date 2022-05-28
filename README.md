@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-05-28 12:21:54，:rocket: 更新条数: +2002， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-05-28 13:02:42，:rocket: 更新条数: +2020， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -53,7 +53,7 @@
 - [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)![](assets/dot.png)   
-- [开发者头条](#开发者头条)  
+- [开发者头条](#开发者头条)![](assets/dot.png)   
 - [安全热点](#安全热点)  
 - [物联网智库](#物联网智库)  
 
@@ -491,6 +491,11 @@
 </summary>
 
 
+- [2022-05-28-吐槽一下哔哩哔哩客户端逐渐加强的代码保护](https://www.v2ex.com/t/855913) ![](assets/new.png)  
+- [2022-05-28-《唐顿庄园-2》挺好看的，本以为是一部无聊的电影但是后面感觉很好看](https://www.v2ex.com/t/855912) ![](assets/new.png)  
+- [2022-05-28-博通-610-亿刀收购-VMware？](https://www.v2ex.com/t/855911) ![](assets/new.png)  
+- [2022-05-28-文爱-撩骚算出轨吗？](https://www.v2ex.com/t/855909) ![](assets/new.png)  
+- [2022-05-28-没人看最近任泽平的财富报告-2022-吗？](https://www.v2ex.com/t/855908) ![](assets/new.png)  
 - [2022-05-28-助听器必须去医院或者助听器专卖店里验配吗？](https://www.v2ex.com/t/855906) ![](assets/new.png)  
 - [2022-05-28-为什么-jdk15-准备废弃偏向锁](https://www.v2ex.com/t/855904) ![](assets/new.png)  
 - [2022-05-28-求推荐个-Linux-台式机上能用的无线网卡](https://www.v2ex.com/t/855903) ![](assets/new.png)  
@@ -506,11 +511,6 @@
 - [2022-05-28-对移动前端兼容性好的语言](https://www.v2ex.com/t/855891) ![](assets/new.png)  
 - [2022-05-28-imgur-打不开，已经挂了代理](https://www.v2ex.com/t/855890) ![](assets/new.png)  
 - [2022-05-28-command-按键坏了，-Mac-有什么方法能把全局的按键给替换掉吗？](https://www.v2ex.com/t/855887) ![](assets/new.png)  
-- [2022-05-28-大家用-netty-的时候，逻辑也写在-handler-里的吗](https://www.v2ex.com/t/855886) ![](assets/new.png)  
-- [2022-05-28-一个人在北京漂着，想认识更多的人交些朋友，求-V-友们推荐靠谱的渠道](https://www.v2ex.com/t/855884) ![](assets/new.png)  
-- [2022-05-28-GitHub-也能搜出来内容农场](https://www.v2ex.com/t/855883) ![](assets/new.png)  
-- [2022-05-28-cubox-值得购买吗](https://www.v2ex.com/t/855882) ![](assets/new.png)  
-- [2022-05-28-pxx-顺手抽了个免两单限额-40-会不会被反撸](https://www.v2ex.com/t/855881) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -553,6 +553,24 @@
 </summary>
 
 
+- [2022-05-28-欢迎加入读者圈子，一起交流！](https://toutiao.io/k/mv211dm) ![](assets/new.png)  
+- [2022-05-28-性能提升40倍——线上真实重构案例分享](https://toutiao.io/k/izbqpxo) ![](assets/new.png)  
+- [2022-05-28-上篇：技术架构的设计方法](https://toutiao.io/k/7ee750e) ![](assets/new.png)  
+- [2022-05-28-前方高能-|-HDFS-的架构，你吃透了吗？](https://toutiao.io/k/n4qw0ty) ![](assets/new.png)  
+- [2022-05-28-深度学习六十年简史](https://toutiao.io/k/aw52jrh) ![](assets/new.png)  
+- [2022-05-28-携程公共技术支持运营实践](https://toutiao.io/k/il3lxv7) ![](assets/new.png)  
+- [2022-05-28-go全栈开发框架bud，go语言中的ruby-on-rails](https://toutiao.io/k/m456unv) ![](assets/new.png)  
+- [2022-05-28-技术负责人如何搞垮一个团队](https://toutiao.io/k/g5rq9s9) ![](assets/new.png)  
+- [2022-05-28-技术人的转身思考：project-到-product-的转化](https://toutiao.io/k/p08tk3t) ![](assets/new.png)  
+- [2022-05-28-如何应对开源组件⻛险？软件成分安全分析（SCA）能力的建设与演进](https://toutiao.io/k/qo7njea) ![](assets/new.png)  
+- [2022-05-28-对-Python-中-GIL-的一点理解](https://toutiao.io/k/ibtc0by) ![](assets/new.png)  
+- [2022-05-28-推荐-支持300+常用功能的开源GO语言工具函数库](https://toutiao.io/k/an98swu) ![](assets/new.png)  
+- [2022-05-28-推荐-ThreadLocal夺命11连问](https://toutiao.io/k/p8lpi5z) ![](assets/new.png)  
+- [2022-05-28-推荐-首个确保缓存与数据库一致性的方案](https://toutiao.io/k/imjqbp3) ![](assets/new.png)  
+- [2022-05-28-推荐-如何画好一张架构图？](https://toutiao.io/k/bu1pi73) ![](assets/new.png)  
+- [2022-05-28-推荐-你见过哪些目瞪口呆的-Java-代码技巧？](https://toutiao.io/k/avsba7r) ![](assets/new.png)  
+- [2022-05-28-推荐-关于技术能力的思考和总结](https://toutiao.io/k/jo2jtja) ![](assets/new.png)  
+- [2022-05-28-推荐-大厂的优惠券系统是如何设计的？](https://toutiao.io/k/8v764sx) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

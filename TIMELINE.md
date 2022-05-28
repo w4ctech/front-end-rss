@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-05-28 15:15:19。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-05-28 15:44:05。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -71,6 +71,10 @@
 - [【张鑫旭-鑫空间-鑫生活】2022-05-28-详解日后定会大规模使用的CSS-@layer-规则](https://www.zhangxinxu.com/wordpress/2022/05/css-layer-rule/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-05-22-CSS必学基础：理解CSS中的级联规则](https://www.zhangxinxu.com/wordpress/2022/05/deep-in-css-cascade/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-05-11-JS与条形码的生成](https://www.zhangxinxu.com/wordpress/2022/05/js-barcode/) 
+- [【V2EX】2022-05-28-运气好及格线拿到新能源牌，自己无养车的刚需，有无稳定方法买车后出租出去-3-5-年后再回收，唯一要求就是保值](https://www.v2ex.com/t/855937) 
+- [【V2EX】2022-05-28-LLVM-Kaleidoscope-教程第五章如何运行？](https://www.v2ex.com/t/855936) 
+- [【V2EX】2022-05-28-从成都-vs-深圳，到我的内心转变，再聊聊我的程序员式生活](https://www.v2ex.com/t/855934) 
+- [【V2EX】2022-05-28-武汉长江证券-前端15~20k六险二金-5-点下班-法定节假日调休不补班](https://www.v2ex.com/t/855933) 
 - [【V2EX】2022-05-28-为什么国内电视厂家能做出开机广告这么恶心人的技能出来呢？](https://www.v2ex.com/t/855932) 
 - [【V2EX】2022-05-28-查询一下自己为什么被降权了](https://www.v2ex.com/t/855931) 
 - [【V2EX】2022-05-28-A-formalization-of-Univalent-Axiom](https://www.v2ex.com/t/855928) 
@@ -103,10 +107,6 @@
 - [【V2EX】2022-05-28-iOS-熊猫吃短信如何过滤掉超过-来源为已发送-3-条信息的发件人-发来的短信](https://www.v2ex.com/t/855892) 
 - [【V2EX】2022-05-28-对移动前端兼容性好的语言](https://www.v2ex.com/t/855891) 
 - [【V2EX】2022-05-28-imgur-打不开，已经挂了代理](https://www.v2ex.com/t/855890) 
-- [【V2EX】2022-05-28-command-按键坏了，-Mac-有什么方法能把全局的按键给替换掉吗？](https://www.v2ex.com/t/855887) 
-- [【V2EX】2022-05-28-大家用-netty-的时候，逻辑也写在-handler-里的吗](https://www.v2ex.com/t/855886) 
-- [【V2EX】2022-05-28-一个人在北京漂着，想认识更多的人交些朋友，求-V-友们推荐靠谱的渠道](https://www.v2ex.com/t/855884) 
-- [【V2EX】2022-05-28-GitHub-也能搜出来内容农场](https://www.v2ex.com/t/855883) 
 - [【技术头条】2022-05-28-什么是子网掩码?-www.awaimai.com](https://blogread.cn/news/go.php?idItem=15112&url=https%3A%2F%2Fwww.awaimai.com%2F2933.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-05-28-4-个用来擦除数据的-Linux-工具-linux.cn](https://blogread.cn/news/go.php?idItem=15111&url=https%3A%2F%2Flinux.cn%2Farticle-13913-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-05-28-使用-logrotate-命令轮转和归档日志-linux.cn](https://blogread.cn/news/go.php?idItem=15110&url=https%3A%2F%2Flinux.cn%2Farticle-13909-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -138,12 +138,12 @@
 - [【开发者头条】2022-05-28-技术人的转身思考：project-到-product-的转化](https://toutiao.io/k/p08tk3t) 
 - [【开发者头条】2022-05-28-如何应对开源组件⻛险？软件成分安全分析（SCA）能力的建设与演进](https://toutiao.io/k/qo7njea) 
 - [【开发者头条】2022-05-28-对-Python-中-GIL-的一点理解](https://toutiao.io/k/ibtc0by) 
-- [【开发者头条】2022-05-28-推荐-你见过哪些目瞪口呆的-Java-代码技巧？](https://toutiao.io/k/avsba7r) 
-- [【开发者头条】2022-05-28-推荐-ThreadLocal夺命11连问](https://toutiao.io/k/p8lpi5z) 
-- [【开发者头条】2022-05-28-推荐-关于技术能力的思考和总结](https://toutiao.io/k/jo2jtja) 
-- [【开发者头条】2022-05-28-推荐-如何画好一张架构图？](https://toutiao.io/k/bu1pi73) 
-- [【开发者头条】2022-05-28-推荐-大厂的优惠券系统是如何设计的？](https://toutiao.io/k/8v764sx) 
 - [【开发者头条】2022-05-28-推荐-支持300+常用功能的开源GO语言工具函数库](https://toutiao.io/k/an98swu) 
+- [【开发者头条】2022-05-28-推荐-关于技术能力的思考和总结](https://toutiao.io/k/jo2jtja) 
+- [【开发者头条】2022-05-28-推荐-你见过哪些目瞪口呆的-Java-代码技巧？](https://toutiao.io/k/avsba7r) 
+- [【开发者头条】2022-05-28-推荐-大厂的优惠券系统是如何设计的？](https://toutiao.io/k/8v764sx) 
+- [【开发者头条】2022-05-28-推荐-如何画好一张架构图？](https://toutiao.io/k/bu1pi73) 
+- [【开发者头条】2022-05-28-推荐-ThreadLocal夺命11连问](https://toutiao.io/k/p8lpi5z) 
 - [【开发者头条】2022-05-28-推荐-首个确保缓存与数据库一致性的方案](https://toutiao.io/k/imjqbp3) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>

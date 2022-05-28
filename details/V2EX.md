@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2022-05-28 22:14:56。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-05-28 22:41:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-05-28-熬了两个晚上，做了一个可以零成本运行的推送聚合通知网关](https://www.v2ex.com/t/855960) 
 - [2022-05-28-github-主页-Following-的-github-actionsbot可以隐藏吗?](https://www.v2ex.com/t/855959) 
 - [2022-05-28-各位-Windows-下用什么安全软件？或有什么好的使用习惯？](https://www.v2ex.com/t/855957) 
 - [2022-05-28-CDNJS.NET-将于-2022-年-7-月-1-号起停止服务！](https://www.v2ex.com/t/855954) 

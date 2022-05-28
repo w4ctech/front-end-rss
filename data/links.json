@@ -9953,6 +9953,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "CDNJS.NET 将于 2022 年 7 月 1 号起停止服务！",
+        "link": "https://www.v2ex.com/t/855954",
+        "date": "2022-05-28"
+      },
+      {
         "title": "每天一个练习英语听力小技巧，亲测有效",
         "link": "https://www.v2ex.com/t/855953",
         "date": "2022-05-28"
@@ -10131,11 +10136,6 @@
         "title": "助听器必须去医院或者助听器专卖店里验配吗？",
         "link": "https://www.v2ex.com/t/855906",
         "date": "2022-05-28"
-      },
-      {
-        "title": "为什么 jdk15 准备废弃偏向锁",
-        "link": "https://www.v2ex.com/t/855904",
-        "date": "2022-05-28"
       }
     ]
   },
@@ -10307,8 +10307,8 @@
         "date": "2022-05-28"
       },
       {
-        "title": "[推荐] 你见过哪些目瞪口呆的 Java 代码技巧？",
-        "link": "https://toutiao.io/k/avsba7r",
+        "title": "[推荐] 大厂的优惠券系统是如何设计的？",
+        "link": "https://toutiao.io/k/8v764sx",
         "date": "2022-05-28"
       },
       {
@@ -10317,18 +10317,13 @@
         "date": "2022-05-28"
       },
       {
+        "title": "[推荐] 首个确保缓存与数据库一致性的方案",
+        "link": "https://toutiao.io/k/imjqbp3",
+        "date": "2022-05-28"
+      },
+      {
         "title": "[推荐] 如何画好一张架构图？",
         "link": "https://toutiao.io/k/bu1pi73",
-        "date": "2022-05-28"
-      },
-      {
-        "title": "[推荐] 大厂的优惠券系统是如何设计的？",
-        "link": "https://toutiao.io/k/8v764sx",
-        "date": "2022-05-28"
-      },
-      {
-        "title": "[推荐] 关于技术能力的思考和总结",
-        "link": "https://toutiao.io/k/jo2jtja",
         "date": "2022-05-28"
       },
       {
@@ -10337,13 +10332,18 @@
         "date": "2022-05-28"
       },
       {
-        "title": "[推荐] 首个确保缓存与数据库一致性的方案",
-        "link": "https://toutiao.io/k/imjqbp3",
+        "title": "[推荐] ThreadLocal夺命11连问",
+        "link": "https://toutiao.io/k/p8lpi5z",
         "date": "2022-05-28"
       },
       {
-        "title": "[推荐] ThreadLocal夺命11连问",
-        "link": "https://toutiao.io/k/p8lpi5z",
+        "title": "[推荐] 你见过哪些目瞪口呆的 Java 代码技巧？",
+        "link": "https://toutiao.io/k/avsba7r",
+        "date": "2022-05-28"
+      },
+      {
+        "title": "[推荐] 关于技术能力的思考和总结",
+        "link": "https://toutiao.io/k/jo2jtja",
         "date": "2022-05-28"
       }
     ]

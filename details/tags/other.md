@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-05-28 14:39:29。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-05-28 15:15:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1912,6 +1912,8 @@
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2022-03-21-ascent-override-descent-override-line-gap-override一锅端](https://www.zhangxinxu.com/wordpress/2022/03/css-ascent-override-descent/) 
+- [2022-05-28-为什么国内电视厂家能做出开机广告这么恶心人的技能出来呢？](https://www.v2ex.com/t/855932) 
+- [2022-05-28-查询一下自己为什么被降权了](https://www.v2ex.com/t/855931) 
 - [2022-05-28-A-formalization-of-Univalent-Axiom](https://www.v2ex.com/t/855928) 
 - [2022-05-28-icloud-邮箱别名可以删除了](https://www.v2ex.com/t/855926) 
 - [2022-05-28-刚了解到-signal-这个软件，通讯时说是端到端加密的，但是好奇-signal-服务端会有专门的数据库存储聊天记录，还是聊天记录只会存储在客户端。](https://www.v2ex.com/t/855925) 
@@ -1940,8 +1942,6 @@
 - [2022-05-28-command-按键坏了，-Mac-有什么方法能把全局的按键给替换掉吗？](https://www.v2ex.com/t/855887) 
 - [2022-05-28-大家用-netty-的时候，逻辑也写在-handler-里的吗](https://www.v2ex.com/t/855886) 
 - [2022-05-28-一个人在北京漂着，想认识更多的人交些朋友，求-V-友们推荐靠谱的渠道](https://www.v2ex.com/t/855884) 
-- [2022-05-28-cubox-值得购买吗](https://www.v2ex.com/t/855882) 
-- [2022-05-28-pxx-顺手抽了个免两单限额-40-会不会被反撸](https://www.v2ex.com/t/855881) 
 - [2022-05-28-什么是子网掩码?-www.awaimai.com](https://blogread.cn/news/go.php?idItem=15112&url=https%3A%2F%2Fwww.awaimai.com%2F2933.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-05-28-4-个用来擦除数据的-Linux-工具-linux.cn](https://blogread.cn/news/go.php?idItem=15111&url=https%3A%2F%2Flinux.cn%2Farticle-13913-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-05-28-使用-logrotate-命令轮转和归档日志-linux.cn](https://blogread.cn/news/go.php?idItem=15110&url=https%3A%2F%2Flinux.cn%2Farticle-13909-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1963,9 +1963,9 @@
 - [2022-05-28-技术负责人如何搞垮一个团队](https://toutiao.io/k/g5rq9s9) 
 - [2022-05-28-技术人的转身思考：project-到-product-的转化](https://toutiao.io/k/p08tk3t) 
 - [2022-05-28-对-Python-中-GIL-的一点理解](https://toutiao.io/k/ibtc0by) 
-- [2022-05-28-推荐-如何画好一张架构图？](https://toutiao.io/k/bu1pi73) 
-- [2022-05-28-推荐-关于技术能力的思考和总结](https://toutiao.io/k/jo2jtja) 
+- [2022-05-28-推荐-你见过哪些目瞪口呆的-Java-代码技巧？](https://toutiao.io/k/avsba7r) 
 - [2022-05-28-推荐-ThreadLocal夺命11连问](https://toutiao.io/k/p8lpi5z) 
+- [2022-05-28-推荐-关于技术能力的思考和总结](https://toutiao.io/k/jo2jtja) 
+- [2022-05-28-推荐-如何画好一张架构图？](https://toutiao.io/k/bu1pi73) 
 - [2022-05-28-推荐-大厂的优惠券系统是如何设计的？](https://toutiao.io/k/8v764sx) 
 - [2022-05-28-推荐-支持300+常用功能的开源GO语言工具函数库](https://toutiao.io/k/an98swu) 
-- [2022-05-28-推荐-你见过哪些目瞪口呆的-Java-代码技巧？](https://toutiao.io/k/avsba7r) 

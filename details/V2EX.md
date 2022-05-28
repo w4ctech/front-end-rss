@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2022-05-28 14:39:29。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-05-28 15:15:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-05-28-为什么国内电视厂家能做出开机广告这么恶心人的技能出来呢？](https://www.v2ex.com/t/855932) 
+- [2022-05-28-查询一下自己为什么被降权了](https://www.v2ex.com/t/855931) 
 - [2022-05-28-A-formalization-of-Univalent-Axiom](https://www.v2ex.com/t/855928) 
 - [2022-05-28-icloud-邮箱别名可以删除了](https://www.v2ex.com/t/855926) 
 - [2022-05-28-刚了解到-signal-这个软件，通讯时说是端到端加密的，但是好奇-signal-服务端会有专门的数据库存储聊天记录，还是聊天记录只会存储在客户端。](https://www.v2ex.com/t/855925) 
@@ -39,5 +41,3 @@
 - [2022-05-28-大家用-netty-的时候，逻辑也写在-handler-里的吗](https://www.v2ex.com/t/855886) 
 - [2022-05-28-一个人在北京漂着，想认识更多的人交些朋友，求-V-友们推荐靠谱的渠道](https://www.v2ex.com/t/855884) 
 - [2022-05-28-GitHub-也能搜出来内容农场](https://www.v2ex.com/t/855883) 
-- [2022-05-28-cubox-值得购买吗](https://www.v2ex.com/t/855882) 
-- [2022-05-28-pxx-顺手抽了个免两单限额-40-会不会被反撸](https://www.v2ex.com/t/855881) 

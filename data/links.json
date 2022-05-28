@@ -9953,6 +9953,16 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "为什么国内电视厂家能做出开机广告这么恶心人的技能出来呢？",
+        "link": "https://www.v2ex.com/t/855932",
+        "date": "2022-05-28"
+      },
+      {
+        "title": "查询一下自己为什么被降权了",
+        "link": "https://www.v2ex.com/t/855931",
+        "date": "2022-05-28"
+      },
+      {
         "title": "A formalization of Univalent Axiom",
         "link": "https://www.v2ex.com/t/855928",
         "date": "2022-05-28"
@@ -10120,16 +10130,6 @@
       {
         "title": "GitHub 也能搜出来内容农场",
         "link": "https://www.v2ex.com/t/855883",
-        "date": "2022-05-28"
-      },
-      {
-        "title": "cubox 值得购买吗",
-        "link": "https://www.v2ex.com/t/855882",
-        "date": "2022-05-28"
-      },
-      {
-        "title": "pxx 顺手抽了个免两单限额 40 会不会被反撸",
-        "link": "https://www.v2ex.com/t/855881",
         "date": "2022-05-28"
       }
     ]
@@ -10302,13 +10302,13 @@
         "date": "2022-05-28"
       },
       {
-        "title": "[推荐] 首个确保缓存与数据库一致性的方案",
-        "link": "https://toutiao.io/k/imjqbp3",
+        "title": "[推荐] 你见过哪些目瞪口呆的 Java 代码技巧？",
+        "link": "https://toutiao.io/k/avsba7r",
         "date": "2022-05-28"
       },
       {
-        "title": "[推荐] 如何画好一张架构图？",
-        "link": "https://toutiao.io/k/bu1pi73",
+        "title": "[推荐] ThreadLocal夺命11连问",
+        "link": "https://toutiao.io/k/p8lpi5z",
         "date": "2022-05-28"
       },
       {
@@ -10317,8 +10317,8 @@
         "date": "2022-05-28"
       },
       {
-        "title": "[推荐] ThreadLocal夺命11连问",
-        "link": "https://toutiao.io/k/p8lpi5z",
+        "title": "[推荐] 如何画好一张架构图？",
+        "link": "https://toutiao.io/k/bu1pi73",
         "date": "2022-05-28"
       },
       {
@@ -10332,8 +10332,8 @@
         "date": "2022-05-28"
       },
       {
-        "title": "[推荐] 你见过哪些目瞪口呆的 Java 代码技巧？",
-        "link": "https://toutiao.io/k/avsba7r",
+        "title": "[推荐] 首个确保缓存与数据库一致性的方案",
+        "link": "https://toutiao.io/k/imjqbp3",
         "date": "2022-05-28"
       }
     ]

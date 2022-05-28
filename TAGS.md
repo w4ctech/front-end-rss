@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-05-28 06:48:31。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-05-28 07:13:51。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -152,6 +152,7 @@
 
 
 
+- [【V2EX】建了个-discord-群，欢迎来玩耍，特别是这边搞独立游戏开发的](https://www.v2ex.com/t/855856)
 - [......【查看更多】......](./details/tags/dev-game.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -336,7 +337,6 @@
 
 
 
-- [【V2EX】gitlab.cn-可以注册了](https://www.v2ex.com/t/855804)
 - [......【查看更多】......](./details/tags/git-svn.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

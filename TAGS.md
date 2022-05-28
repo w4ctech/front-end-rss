@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-05-28 05:39:38。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-05-28 06:18:04。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -184,6 +184,7 @@
 - [【V2EX】请教一个正则表达式](https://www.v2ex.com/t/855809)
 - [【V2EX】nextjs-中操作-audio-控制的-currentTime-在-safari-中无效，有遇到过没？](https://www.v2ex.com/t/855796)
 - [【技术头条】近期家用设备（NUC、猫盘、路由器）散热升级记录-soulteary.com](https://blogread.cn/news/go.php?idItem=15103&url=https%3A%2F%2Fsoulteary.com%2F2021%2F10%2F14%2Frecent-heat-dissipation-upgrade-record-of-homelab.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
+- [【开发者头条】如何应对开源组件⻛险？软件成分安全分析（SCA）能力的建设与演进](https://toutiao.io/k/qo7njea)
 - [......【查看更多】......](./details/tags/javascript.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -240,8 +241,6 @@
 - [【武汉肺炎防疫全纪录(财新网)】林郑月娥率13高官直播接种科兴疫苗-复星疫苗预计周中到港](https://m.caixin.com/m/2021-02-22/101665724.html)
 - [【V2EX】ios-上使用-podcast，如何设置能够让系统不要自动缓存下载音频节目？](https://www.v2ex.com/t/855837)
 - [【V2EX】请问一下有没有国内可以访问的，拥有免费额度可以存放私人视频的服务？](https://www.v2ex.com/t/855835)
-- [【V2EX】油管的视频用工具下载速度变慢了？](https://www.v2ex.com/t/855793)
-- [【V2EX】为什么大部分人能忍受-YouTube-贴在视频里面的文字广告？](https://www.v2ex.com/t/855789)
 - [......【查看更多】......](./details/tags/audio-video.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

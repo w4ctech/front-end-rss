@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-05-28 03:42:47，:rocket: 更新条数: +2022， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-05-28 04:19:04，:rocket: 更新条数: +2026， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,17 @@
 </summary>
 
 
+- [2022-05-28-求问-1400-收-MacBook-Air2015-款划算吗？](https://www.v2ex.com/t/855825) ![](assets/new.png)  
+- [2022-05-28-微软-UX-设计师的脑回路我不懂...](https://www.v2ex.com/t/855824) ![](assets/new.png)  
+- [2022-05-28-最近几天我的-iCloud-不能上传数据了](https://www.v2ex.com/t/855822) ![](assets/new.png)  
+- [2022-05-28-做数字藏品平台，应该选择哪个联盟链](https://www.v2ex.com/t/855821) ![](assets/new.png)  
+- [2022-05-28-使用-ZooKeeper-实现的分布式锁如何避免“错误地认为自己还是锁的持有者”？](https://www.v2ex.com/t/855820) ![](assets/new.png)  
+- [2022-05-28-新旧-iPhone-传输数据，新-iPhone-显示传输完毕，但旧的显示没有。](https://www.v2ex.com/t/855819) ![](assets/new.png)  
+- [2022-05-28-人都是双重标注](https://www.v2ex.com/t/855818) ![](assets/new.png)  
+- [2022-05-28-Apple-TV+一对-HomePod-mini-可以杜比全景声吗？](https://www.v2ex.com/t/855817) ![](assets/new.png)  
+- [2022-05-28-有没有批量下载-QQ-群相册-的方法？](https://www.v2ex.com/t/855816) ![](assets/new.png)  
+- [2022-05-28-pycharm-的代码提示不能区分-python2-和-python3-吗](https://www.v2ex.com/t/855815) ![](assets/new.png)  
+- [2022-05-28-js-如何模拟-audio-标签的下载功能?](https://www.v2ex.com/t/855814) ![](assets/new.png)  
 - [2022-05-28-1400-收-MacBook-Air2015-款划算吗？](https://www.v2ex.com/t/855813) ![](assets/new.png)  
 - [2022-05-28-绿巨能电池故障换新，缺货退款但新购涨价，如何处理是好？](https://www.v2ex.com/t/855811) ![](assets/new.png)  
 - [2022-05-28-建了个-discord-频道，欢迎来玩耍](https://www.v2ex.com/t/855810) ![](assets/new.png)  
@@ -500,17 +511,6 @@
 - [2022-05-28-论多人协同-P-图软件玩法可行性](https://www.v2ex.com/t/855806) ![](assets/new.png)  
 - [2022-05-28-关于-wifi-监控](https://www.v2ex.com/t/855805) ![](assets/new.png)  
 - [2022-05-28-gitlab.cn-可以注册了](https://www.v2ex.com/t/855804) ![](assets/new.png)  
-- [2022-05-28-mac-上.nib-文件怎么打开编辑？](https://www.v2ex.com/t/855803) ![](assets/new.png)  
-- [2022-05-28-我也走上讨债的路上了，问一下，有借条有对方身份证号码，怎么找律师起诉，追回的概率大不大？](https://www.v2ex.com/t/855802) ![](assets/new.png)  
-- [2022-05-28-有-iOS-和-Android-双持的小伙伴嘛？-iPhone-4gb-RAM-等于-Android-8GB-RAM?](https://www.v2ex.com/t/855801) ![](assets/new.png)  
-- [2022-05-28-xxl-job-是-GPL-3.0-协议，用了是不是就得开源](https://www.v2ex.com/t/855800) ![](assets/new.png)  
-- [2022-05-28-cisam](https://www.v2ex.com/t/855798) ![](assets/new.png)  
-- [2022-05-28-定制的-MacBook-Pro-14-到货了，对比一下-16-寸](https://www.v2ex.com/t/855797) ![](assets/new.png)  
-- [2022-05-28-nextjs-中操作-audio-控制的-currentTime-在-safari-中无效，有遇到过没？](https://www.v2ex.com/t/855796) ![](assets/new.png)  
-- [2022-05-28-使用-macbookpro-，带-touchbar，内装-Windows-系统的朋友帮忙测试一个功能。](https://www.v2ex.com/t/855795) ![](assets/new.png)  
-- [2022-05-28-使用矿渣-SSD-组-NAS-阵列是否可行？](https://www.v2ex.com/t/855794) ![](assets/new.png)  
-- [2022-05-28-油管的视频用工具下载速度变慢了？](https://www.v2ex.com/t/855793) ![](assets/new.png)  
-- [2022-05-28-遇到不操心的合作伙伴很累怎么办？](https://www.v2ex.com/t/855792) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -563,9 +563,10 @@
 - [2022-05-28-推荐-如何画好一张架构图？](https://toutiao.io/k/bu1pi73) ![](assets/new.png)  
 - [2022-05-28-推荐-大厂的优惠券系统是如何设计的？](https://toutiao.io/k/8v764sx) ![](assets/new.png)  
 - [2022-05-28-推荐-你见过哪些目瞪口呆的-Java-代码技巧？](https://toutiao.io/k/avsba7r) ![](assets/new.png)  
-- [2022-05-28-推荐-ThreadLocal夺命11连问](https://toutiao.io/k/p8lpi5z) ![](assets/new.png)  
 - [2022-05-28-推荐-关于技术能力的思考和总结](https://toutiao.io/k/jo2jtja) ![](assets/new.png)  
 - [2022-05-28-推荐-首个确保缓存与数据库一致性的方案](https://toutiao.io/k/imjqbp3) ![](assets/new.png)  
+- [2022-05-28-推荐-ThreadLocal夺命11连问](https://toutiao.io/k/p8lpi5z) ![](assets/new.png)  
+- [2022-05-28-推荐-支持300+常用功能的开源GO语言工具函数库](https://toutiao.io/k/an98swu) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

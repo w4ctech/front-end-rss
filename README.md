@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-05-28 07:13:51，:rocket: 更新条数: +2023， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-05-28 07:39:10，:rocket: 更新条数: +2024， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,10 @@
 </summary>
 
 
+- [2022-05-28-程序员在创业过程中如何对待-UGC-版权问题](https://www.v2ex.com/t/855862) ![](assets/new.png)  
+- [2022-05-28-请问-m1-的-Mac-最轻量搭建-web-服务器的方式是什么？](https://www.v2ex.com/t/855861) ![](assets/new.png)  
+- [2022-05-28-有什么工具可以批量预览压缩包里面的图片吗](https://www.v2ex.com/t/855860) ![](assets/new.png)  
+- [2022-05-28-Lustre-并行文件系统运维](https://www.v2ex.com/t/855859) ![](assets/new.png)  
 - [2022-05-28-建了个-discord-群，欢迎来玩耍，特别是这边搞独立游戏开发的](https://www.v2ex.com/t/855856) ![](assets/new.png)  
 - [2022-05-28-我是真的讨厌异地恋-也是真的喜欢你](https://www.v2ex.com/t/855855) ![](assets/new.png)  
 - [2022-05-28-OneDrive-for-Mac-CPU-占用高的问题](https://www.v2ex.com/t/855854) ![](assets/new.png)  
@@ -507,10 +511,6 @@
 - [2022-05-28-请教下各位大佬，-RouterOS-v7-版本的多拨分流咋配置（指定内网-IP-指定接口出入）](https://www.v2ex.com/t/855839) ![](assets/new.png)  
 - [2022-05-28-广深武杭数据库-字节跳动-Common-Data-Infra-Team](https://www.v2ex.com/t/855838) ![](assets/new.png)  
 - [2022-05-28-ios-上使用-podcast，如何设置能够让系统不要自动缓存下载音频节目？](https://www.v2ex.com/t/855837) ![](assets/new.png)  
-- [2022-05-28-请问一下有没有国内可以访问的，拥有免费额度可以存放私人视频的服务？](https://www.v2ex.com/t/855835) ![](assets/new.png)  
-- [2022-05-28-请问-webdav-aliyundriver-不能使用了吗？](https://www.v2ex.com/t/855832) ![](assets/new.png)  
-- [2022-05-28-云闪付在线支付还要开启系统-24-小时制-才能支付](https://www.v2ex.com/t/855831) ![](assets/new.png)  
-- [2022-05-28-远程-月薪-30-35K-RMB,-招聘-Rust-开发工程师，不要求英文能力。](https://www.v2ex.com/t/855830) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -555,22 +555,22 @@
 
 - [2022-05-28-欢迎加入读者圈子，一起交流！](https://toutiao.io/k/mv211dm) ![](assets/new.png)  
 - [2022-05-28-性能提升40倍——线上真实重构案例分享](https://toutiao.io/k/izbqpxo) ![](assets/new.png)  
-- [2022-05-28-前方高能-|-HDFS-的架构，你吃透了吗？](https://toutiao.io/k/n4qw0ty) ![](assets/new.png)  
 - [2022-05-28-上篇：技术架构的设计方法](https://toutiao.io/k/7ee750e) ![](assets/new.png)  
+- [2022-05-28-前方高能-|-HDFS-的架构，你吃透了吗？](https://toutiao.io/k/n4qw0ty) ![](assets/new.png)  
 - [2022-05-28-深度学习六十年简史](https://toutiao.io/k/aw52jrh) ![](assets/new.png)  
 - [2022-05-28-携程公共技术支持运营实践](https://toutiao.io/k/il3lxv7) ![](assets/new.png)  
 - [2022-05-28-go全栈开发框架bud，go语言中的ruby-on-rails](https://toutiao.io/k/m456unv) ![](assets/new.png)  
-- [2022-05-28-对-Python-中-GIL-的一点理解](https://toutiao.io/k/ibtc0by) ![](assets/new.png)  
 - [2022-05-28-技术负责人如何搞垮一个团队](https://toutiao.io/k/g5rq9s9) ![](assets/new.png)  
+- [2022-05-28-对-Python-中-GIL-的一点理解](https://toutiao.io/k/ibtc0by) ![](assets/new.png)  
 - [2022-05-28-技术人的转身思考：project-到-product-的转化](https://toutiao.io/k/p08tk3t) ![](assets/new.png)  
 - [2022-05-28-如何应对开源组件⻛险？软件成分安全分析（SCA）能力的建设与演进](https://toutiao.io/k/qo7njea) ![](assets/new.png)  
-- [2022-05-28-推荐-首个确保缓存与数据库一致性的方案](https://toutiao.io/k/imjqbp3) ![](assets/new.png)  
-- [2022-05-28-推荐-你见过哪些目瞪口呆的-Java-代码技巧？](https://toutiao.io/k/avsba7r) ![](assets/new.png)  
 - [2022-05-28-推荐-关于技术能力的思考和总结](https://toutiao.io/k/jo2jtja) ![](assets/new.png)  
-- [2022-05-28-推荐-ThreadLocal夺命11连问](https://toutiao.io/k/p8lpi5z) ![](assets/new.png)  
 - [2022-05-28-推荐-支持300+常用功能的开源GO语言工具函数库](https://toutiao.io/k/an98swu) ![](assets/new.png)  
-- [2022-05-28-推荐-如何画好一张架构图？](https://toutiao.io/k/bu1pi73) ![](assets/new.png)  
+- [2022-05-28-推荐-首个确保缓存与数据库一致性的方案](https://toutiao.io/k/imjqbp3) ![](assets/new.png)  
 - [2022-05-28-推荐-大厂的优惠券系统是如何设计的？](https://toutiao.io/k/8v764sx) ![](assets/new.png)  
+- [2022-05-28-推荐-ThreadLocal夺命11连问](https://toutiao.io/k/p8lpi5z) ![](assets/new.png)  
+- [2022-05-28-推荐-如何画好一张架构图？](https://toutiao.io/k/bu1pi73) ![](assets/new.png)  
+- [2022-05-28-推荐-你见过哪些目瞪口呆的-Java-代码技巧？](https://toutiao.io/k/avsba7r) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

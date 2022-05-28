@@ -1,10 +1,13 @@
-:alarm_clock: 更新时间: 2022-05-28 06:18:04。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-05-28 06:48:31。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-05-28-17MBP-乞丐版带不动-4K，求推荐-2K-外接屏](https://www.v2ex.com/t/855848) 
+- [2022-05-28-请教-go-标准库-aes-的默认的加密模式是什么？没有-openSSL-里的那种初始化变量-IV，是有个默认值？还是说-go-标准库里默认的初始化-iv=key-？](https://www.v2ex.com/t/855847) 
+- [2022-05-28-聊聊当下的-B-站](https://www.v2ex.com/t/855846) 
 - [2022-05-28-有高级低码工程师这样的职位吗？](https://www.v2ex.com/t/855844) 
 - [2022-05-28-从-Windows-转到-MacOS-的一些操作疑惑（请不要对比两种系统的好坏）](https://www.v2ex.com/t/855843) 
 - [2022-05-28-如何判断-4K-显示器仅用一条-USB-Type-C-连接时-USB-数据传输的速率](https://www.v2ex.com/t/855842) 
@@ -44,8 +47,3 @@
 - [2022-05-28-mac-上.nib-文件怎么打开编辑？](https://www.v2ex.com/t/855803) 
 - [2022-05-28-我也走上讨债的路上了，问一下，有借条有对方身份证号码，怎么找律师起诉，追回的概率大不大？](https://www.v2ex.com/t/855802) 
 - [2022-05-28-有-iOS-和-Android-双持的小伙伴嘛？-iPhone-4gb-RAM-等于-Android-8GB-RAM?](https://www.v2ex.com/t/855801) 
-- [2022-05-28-xxl-job-是-GPL-3.0-协议，用了是不是就得开源](https://www.v2ex.com/t/855800) 
-- [2022-05-28-cisam](https://www.v2ex.com/t/855798) 
-- [2022-05-28-定制的-MacBook-Pro-14-到货了，对比一下-16-寸](https://www.v2ex.com/t/855797) 
-- [2022-05-28-nextjs-中操作-audio-控制的-currentTime-在-safari-中无效，有遇到过没？](https://www.v2ex.com/t/855796) 
-- [2022-05-28-使用-macbookpro-，带-touchbar，内装-Windows-系统的朋友帮忙测试一个功能。](https://www.v2ex.com/t/855795) 

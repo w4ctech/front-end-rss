@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-05-28 06:18:04。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-05-28 06:48:31。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -70,6 +70,9 @@
 
 - [【张鑫旭-鑫空间-鑫生活】2022-05-22-CSS必学基础：理解CSS中的级联规则](https://www.zhangxinxu.com/wordpress/2022/05/deep-in-css-cascade/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-05-11-JS与条形码的生成](https://www.zhangxinxu.com/wordpress/2022/05/js-barcode/) 
+- [【V2EX】2022-05-28-17MBP-乞丐版带不动-4K，求推荐-2K-外接屏](https://www.v2ex.com/t/855848) 
+- [【V2EX】2022-05-28-请教-go-标准库-aes-的默认的加密模式是什么？没有-openSSL-里的那种初始化变量-IV，是有个默认值？还是说-go-标准库里默认的初始化-iv=key-？](https://www.v2ex.com/t/855847) 
+- [【V2EX】2022-05-28-聊聊当下的-B-站](https://www.v2ex.com/t/855846) 
 - [【V2EX】2022-05-28-有高级低码工程师这样的职位吗？](https://www.v2ex.com/t/855844) 
 - [【V2EX】2022-05-28-从-Windows-转到-MacOS-的一些操作疑惑（请不要对比两种系统的好坏）](https://www.v2ex.com/t/855843) 
 - [【V2EX】2022-05-28-如何判断-4K-显示器仅用一条-USB-Type-C-连接时-USB-数据传输的速率](https://www.v2ex.com/t/855842) 
@@ -109,11 +112,6 @@
 - [【V2EX】2022-05-28-mac-上.nib-文件怎么打开编辑？](https://www.v2ex.com/t/855803) 
 - [【V2EX】2022-05-28-我也走上讨债的路上了，问一下，有借条有对方身份证号码，怎么找律师起诉，追回的概率大不大？](https://www.v2ex.com/t/855802) 
 - [【V2EX】2022-05-28-有-iOS-和-Android-双持的小伙伴嘛？-iPhone-4gb-RAM-等于-Android-8GB-RAM?](https://www.v2ex.com/t/855801) 
-- [【V2EX】2022-05-28-xxl-job-是-GPL-3.0-协议，用了是不是就得开源](https://www.v2ex.com/t/855800) 
-- [【V2EX】2022-05-28-cisam](https://www.v2ex.com/t/855798) 
-- [【V2EX】2022-05-28-定制的-MacBook-Pro-14-到货了，对比一下-16-寸](https://www.v2ex.com/t/855797) 
-- [【V2EX】2022-05-28-nextjs-中操作-audio-控制的-currentTime-在-safari-中无效，有遇到过没？](https://www.v2ex.com/t/855796) 
-- [【V2EX】2022-05-28-使用-macbookpro-，带-touchbar，内装-Windows-系统的朋友帮忙测试一个功能。](https://www.v2ex.com/t/855795) 
 - [【技术头条】2022-05-28-什么是子网掩码?-www.awaimai.com](https://blogread.cn/news/go.php?idItem=15112&url=https%3A%2F%2Fwww.awaimai.com%2F2933.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-05-28-4-个用来擦除数据的-Linux-工具-linux.cn](https://blogread.cn/news/go.php?idItem=15111&url=https%3A%2F%2Flinux.cn%2Farticle-13913-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-05-28-使用-logrotate-命令轮转和归档日志-linux.cn](https://blogread.cn/news/go.php?idItem=15110&url=https%3A%2F%2Flinux.cn%2Farticle-13909-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -137,21 +135,21 @@
 - [【开发者头条】2022-05-28-欢迎加入读者圈子，一起交流！](https://toutiao.io/k/mv211dm) 
 - [【开发者头条】2022-05-28-性能提升40倍——线上真实重构案例分享](https://toutiao.io/k/izbqpxo) 
 - [【开发者头条】2022-05-28-前方高能-|-HDFS-的架构，你吃透了吗？](https://toutiao.io/k/n4qw0ty) 
-- [【开发者头条】2022-05-28-深度学习六十年简史](https://toutiao.io/k/aw52jrh) 
 - [【开发者头条】2022-05-28-上篇：技术架构的设计方法](https://toutiao.io/k/7ee750e) 
+- [【开发者头条】2022-05-28-深度学习六十年简史](https://toutiao.io/k/aw52jrh) 
 - [【开发者头条】2022-05-28-携程公共技术支持运营实践](https://toutiao.io/k/il3lxv7) 
 - [【开发者头条】2022-05-28-go全栈开发框架bud，go语言中的ruby-on-rails](https://toutiao.io/k/m456unv) 
 - [【开发者头条】2022-05-28-对-Python-中-GIL-的一点理解](https://toutiao.io/k/ibtc0by) 
-- [【开发者头条】2022-05-28-技术人的转身思考：project-到-product-的转化](https://toutiao.io/k/p08tk3t) 
 - [【开发者头条】2022-05-28-技术负责人如何搞垮一个团队](https://toutiao.io/k/g5rq9s9) 
+- [【开发者头条】2022-05-28-技术人的转身思考：project-到-product-的转化](https://toutiao.io/k/p08tk3t) 
 - [【开发者头条】2022-05-28-如何应对开源组件⻛险？软件成分安全分析（SCA）能力的建设与演进](https://toutiao.io/k/qo7njea) 
-- [【开发者头条】2022-05-28-推荐-大厂的优惠券系统是如何设计的？](https://toutiao.io/k/8v764sx) 
-- [【开发者头条】2022-05-28-推荐-你见过哪些目瞪口呆的-Java-代码技巧？](https://toutiao.io/k/avsba7r) 
-- [【开发者头条】2022-05-28-推荐-首个确保缓存与数据库一致性的方案](https://toutiao.io/k/imjqbp3) 
-- [【开发者头条】2022-05-28-推荐-ThreadLocal夺命11连问](https://toutiao.io/k/p8lpi5z) 
-- [【开发者头条】2022-05-28-推荐-支持300+常用功能的开源GO语言工具函数库](https://toutiao.io/k/an98swu) 
 - [【开发者头条】2022-05-28-推荐-关于技术能力的思考和总结](https://toutiao.io/k/jo2jtja) 
+- [【开发者头条】2022-05-28-推荐-大厂的优惠券系统是如何设计的？](https://toutiao.io/k/8v764sx) 
+- [【开发者头条】2022-05-28-推荐-支持300+常用功能的开源GO语言工具函数库](https://toutiao.io/k/an98swu) 
 - [【开发者头条】2022-05-28-推荐-如何画好一张架构图？](https://toutiao.io/k/bu1pi73) 
+- [【开发者头条】2022-05-28-推荐-首个确保缓存与数据库一致性的方案](https://toutiao.io/k/imjqbp3) 
+- [【开发者头条】2022-05-28-推荐-你见过哪些目瞪口呆的-Java-代码技巧？](https://toutiao.io/k/avsba7r) 
+- [【开发者头条】2022-05-28-推荐-ThreadLocal夺命11连问](https://toutiao.io/k/p8lpi5z) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

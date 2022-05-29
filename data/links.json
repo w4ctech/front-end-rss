@@ -131,6 +131,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "如何实现页面刷新后不定位到之前的滚动位置？",
+        "link": "https://www.zhangxinxu.com/wordpress/2022/05/history-scrollrestoration/",
+        "date": "2022-05-29"
+      },
+      {
         "title": "详解日后定会大规模使用的CSS @layer 规则",
         "link": "https://www.zhangxinxu.com/wordpress/2022/05/css-layer-rule/",
         "date": "2022-05-28"
@@ -174,11 +179,6 @@
         "title": "基于howler.js写了个音频播放器组件",
         "link": "https://www.zhangxinxu.com/wordpress/2022/03/howler-js-audio-player/",
         "date": "2022-03-15"
-      },
-      {
-        "title": "介绍8个和滚动相关的CSS属性",
-        "link": "https://www.zhangxinxu.com/wordpress/2022/03/10-css-scroll-scrollbar/",
-        "date": "2022-03-07"
       }
     ]
   },

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-06-01 01:11:32，:rocket: 更新条数: +2016， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-06-01 03:46:14，:rocket: 更新条数: +2027， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,26 +491,26 @@
 </summary>
 
 
-- [2022-06-01-昨晚成都房产政策大变天-该不该上车呢](https://www.v2ex.com/t/856614) ![](assets/new.png)  
-- [2022-06-01-识别聊天截屏用户头像位置，需要学习什么？](https://www.v2ex.com/t/856613) ![](assets/new.png)  
-- [2022-06-01-希望可以增加“删除自己发布的主题和编辑回复”功能](https://www.v2ex.com/t/856612) ![](assets/new.png)  
-- [2022-06-01-今年-618-电视好便宜啊](https://www.v2ex.com/t/856611) ![](assets/new.png)  
-- [2022-06-01-纯小白，圈-x-只下个懒人配置会徒增耗电吗](https://www.v2ex.com/t/856610) ![](assets/new.png)  
-- [2022-06-01-JBL-音箱在电脑上显示了一个盘符](https://www.v2ex.com/t/856609) ![](assets/new.png)  
-- [2022-06-01-如何在默认转发伪装策略之前加一个不伪装的策略？](https://www.v2ex.com/t/856608) ![](assets/new.png)  
-- [2022-06-01-为什么我的-windows-vscode-默认菜单栏界面都是鬼畜扑克牌图表？？](https://www.v2ex.com/t/856607) ![](assets/new.png)  
-- [2022-06-01-M1-Max-10-+-32-PD-运行-LOL-帧数过低「团战-50-左右」，软件上有没有什么好点的解决办法？](https://www.v2ex.com/t/856605) ![](assets/new.png)  
-- [2022-05-31-当我自己做了一个网页版的我的世界...](https://www.v2ex.com/t/856604) ![](assets/new.png)  
-- [2022-05-31-如何看待上海解封这件事](https://www.v2ex.com/t/856603) ![](assets/new.png)  
-- [2022-05-31-关于-surge-网关模式性能问题](https://www.v2ex.com/t/856602) ![](assets/new.png)  
-- [2022-05-31-求一个-mac-版位](https://www.v2ex.com/t/856600) ![](assets/new.png)  
-- [2022-05-31-微软最佳应用评选结果](https://www.v2ex.com/t/856598) ![](assets/new.png)  
-- [2022-05-31-还有类似-notion-这样可以多平台同步的文档编辑器吗？](https://www.v2ex.com/t/856597) ![](assets/new.png)  
-- [2022-05-31-才发现-vscode-写-vue-无法格式化选中的代码。。。](https://www.v2ex.com/t/856596) ![](assets/new.png)  
-- [2022-05-31-600-块,-寻求一个技术问题支持,-一个虚拟滚动的问题](https://www.v2ex.com/t/856595) ![](assets/new.png)  
-- [2022-05-31-偶然发现了一个-Hall-of-Shame](https://www.v2ex.com/t/856593) ![](assets/new.png)  
-- [2022-05-31-有不错的国创动漫推荐么？？](https://www.v2ex.com/t/856592) ![](assets/new.png)  
-- [2022-05-31-6.18-天猫买的-13－-4849-安卓用户疑虑中](https://www.v2ex.com/t/856591) ![](assets/new.png)  
+- [2022-06-01-披露一下新加坡机房-CN2-接入的费用](https://www.v2ex.com/t/856673) ![](assets/new.png)  
+- [2022-06-01-喜闻乐见-被淘宝商家骗了，客服介入还不退款怎么办？](https://www.v2ex.com/t/856672) ![](assets/new.png)  
+- [2022-06-01-个人-icloud-账号（云上贵州）完全瘫痪，有遇到相同情况的吗](https://www.v2ex.com/t/856671) ![](assets/new.png)  
+- [2022-06-01-想找个能看照片的钟，没找到，就自己做了一个](https://www.v2ex.com/t/856670) ![](assets/new.png)  
+- [2022-06-01-Apple-Music-的账户问题](https://www.v2ex.com/t/856669) ![](assets/new.png)  
+- [2022-06-01-之前做的一个支持拖拽的甘特图项目，现在开源一下：-vue-drag-gantt-chart](https://www.v2ex.com/t/856668) ![](assets/new.png)  
+- [2022-06-01-庐山烟雨具体代表什么含义](https://www.v2ex.com/t/856667) ![](assets/new.png)  
+- [2022-06-01-坛子里有微信的人吗？微信无法登录了](https://www.v2ex.com/t/856666) ![](assets/new.png)  
+- [2022-06-01-国内彻底用不了-whatsapp-了？](https://www.v2ex.com/t/856665) ![](assets/new.png)  
+- [2022-06-01-Java-+postgresql-无法映射父类实体](https://www.v2ex.com/t/856663) ![](assets/new.png)  
+- [2022-06-01-618-求推荐便靓正的-vps-主机！](https://www.v2ex.com/t/856661) ![](assets/new.png)  
+- [2022-06-01-人人都是艺术家-发起一个活动-Artists100x，免费-mint-100-张-NFT-送给大家](https://www.v2ex.com/t/856660) ![](assets/new.png)  
+- [2022-06-01-OneDev-与-GitLab-性能比较](https://www.v2ex.com/t/856659) ![](assets/new.png)  
+- [2022-06-01-iOS15.5-跑流量大家遇到了吗](https://www.v2ex.com/t/856657) ![](assets/new.png)  
+- [2022-06-01-这-intel-mbp-的散热我人都傻了](https://www.v2ex.com/t/856656) ![](assets/new.png)  
+- [2022-06-01-github-copilot-是被墙了吗？](https://www.v2ex.com/t/856654) ![](assets/new.png)  
+- [2022-06-01-新手求助-PHP-数组操作问题](https://www.v2ex.com/t/856653) ![](assets/new.png)  
+- [2022-06-01-为什么不把-mp3-集成进现有的手环中？](https://www.v2ex.com/t/856652) ![](assets/new.png)  
+- [2022-06-01-北京/远程Web3SolidityNFT-VIMworld-国际化元宇宙数字藏品，招聘：前后端开发/合约开发/DevOps/QA](https://www.v2ex.com/t/856649) ![](assets/new.png)  
+- [2022-06-01-讲一个小故事，儿童节快乐！](https://www.v2ex.com/t/856648) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -555,17 +555,24 @@
 
 - [2022-06-01-如何写出一篇好的技术方案？](https://toutiao.io/k/gl2cth8) ![](assets/new.png)  
 - [2022-06-01-如何设计可落地的重构技术方案——理论篇](https://toutiao.io/k/qnn406d) ![](assets/new.png)  
-- [2022-06-01-2022-年值得学习的-Golang-包](https://toutiao.io/k/aqswd9s) ![](assets/new.png)  
 - [2022-06-01-解决跨海高并发崩溃难题？so-easy](https://toutiao.io/k/souekwu) ![](assets/new.png)  
+- [2022-06-01-2022-年值得学习的-Golang-包](https://toutiao.io/k/aqswd9s) ![](assets/new.png)  
+- [2022-06-01-关于实施“需求承诺”的几个建议](https://toutiao.io/k/q9dlqbh) ![](assets/new.png)  
 - [2022-06-01-简述前端包管理工具机制和相关实践](https://toutiao.io/k/fhb99yh) ![](assets/new.png)  
 - [2022-06-01-如何写出一篇好的技术方案？](https://toutiao.io/k/9j4rv18) ![](assets/new.png)  
-- [2022-06-01-关于实施“需求承诺”的几个建议](https://toutiao.io/k/q9dlqbh) ![](assets/new.png)  
+- [2022-06-01-Java-18都来了，你不会还在用Java-8吧？](https://toutiao.io/k/97fio1f) ![](assets/new.png)  
+- [2022-06-01-架构设计学习资料汇总](https://toutiao.io/k/6c0iwli) ![](assets/new.png)  
+- [2022-06-01-高效学习的六大必备工具](https://toutiao.io/k/3w13cze) ![](assets/new.png)  
+- [2022-06-01-「开源人的福音」一键部署Java构件到Sonatype](https://toutiao.io/k/jwk8926) ![](assets/new.png)  
+- [2022-06-01-.NET-Core-分布式任务调度ScheduleMaster](https://toutiao.io/k/780a0l2) ![](assets/new.png)  
+- [2022-06-01-面试怎么去回答-Java-NIO？](https://toutiao.io/k/r2wxwju) ![](assets/new.png)  
+- [2022-06-01-GLCC-首届编程夏令营｜KusionStack-项目！](https://toutiao.io/k/oyl2cvq) ![](assets/new.png)  
+- [2022-06-01-从Redis7.0发布看Redis的过去与未来](https://toutiao.io/k/nfcvuw0) ![](assets/new.png)  
 - [2022-06-01-推荐-不可错过的程序员续命科技](https://toutiao.io/k/wooq1pu) ![](assets/new.png)  
 - [2022-06-01-推荐-聊聊接口设计的36个小技巧](https://toutiao.io/k/yqm776v) ![](assets/new.png)  
-- [2022-06-01-推荐-你见过哪些目瞪口呆的-Java-代码技巧？](https://toutiao.io/k/avsba7r) ![](assets/new.png)  
-- [2022-06-01-推荐-如何画好一张架构图？](https://toutiao.io/k/bu1pi73) ![](assets/new.png)  
-- [2022-06-01-推荐-首个确保缓存与数据库一致性的方案](https://toutiao.io/k/imjqbp3) ![](assets/new.png)  
 - [2022-06-01-推荐-关于技术能力的思考和总结](https://toutiao.io/k/jo2jtja) ![](assets/new.png)  
+- [2022-06-01-推荐-如何画好一张架构图？](https://toutiao.io/k/bu1pi73) ![](assets/new.png)  
+- [2022-06-01-推荐-你见过哪些目瞪口呆的-Java-代码技巧？](https://toutiao.io/k/avsba7r) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

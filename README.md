@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-06-01 23:03:52，:rocket: 更新条数: +2025， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-06-01 23:15:21，:rocket: 更新条数: +2026， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-06-01-有没有兄弟对机械硬盘的-SMART-参数有点研究的？帮忙看看这块硬盘的健康状况](https://www.v2ex.com/t/856841) ![](assets/new.png)  
 - [2022-06-01-深夜被感冒折磨的睡不着觉，求助-:](https://www.v2ex.com/t/856840) ![](assets/new.png)  
 - [2022-06-01-你是如何看待公司开启了-IM-的全局水印？](https://www.v2ex.com/t/856839) ![](assets/new.png)  
 - [2022-06-01-有没有那种专门讨论-web-漏洞修复相关的社区?](https://www.v2ex.com/t/856838) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-06-01-Chrome-扩展：云快照，一键归档你正在浏览的页面](https://www.v2ex.com/t/856819) ![](assets/new.png)  
 - [2022-06-01-谁上报了我的信息？](https://www.v2ex.com/t/856818) ![](assets/new.png)  
 - [2022-06-01-有没有一种音视频流解决方案，能够在全屋范围内共享源算力（包括游戏机等）](https://www.v2ex.com/t/856817) ![](assets/new.png)  
-- [2022-06-01-前台-Flutter-后台-PHP-2-年以上经验，远程全职/项目外包](https://www.v2ex.com/t/856816) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

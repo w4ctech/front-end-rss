@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-06-01 15:48:35，:rocket: 更新条数: +2026， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-06-01 16:20:21，:rocket: 更新条数: +2024， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,9 @@
 </summary>
 
 
+- [2022-06-01-泉州联通在-5.18-左右解除了白名单，端午节回去试试泉州电信和泉州移动](https://www.v2ex.com/t/856829) ![](assets/new.png)  
+- [2022-06-01-小程序莫名被指违背社会公序良俗](https://www.v2ex.com/t/856828) ![](assets/new.png)  
+- [2022-06-01-《西游记》的倒叙版](https://www.v2ex.com/t/856827) ![](assets/new.png)  
 - [2022-06-01-对于一个读写都不超过-60MB/s-的-U-盘来说，配备-USB3.0-接口有意义吗？](https://www.v2ex.com/t/856826) ![](assets/new.png)  
 - [2022-06-01-「开源项目」Artalk-一款使用-Golang-编写的自托管博客评论系统](https://www.v2ex.com/t/856825) ![](assets/new.png)  
 - [2022-06-01-平时不准用盗版-SI，我又搞了一个-vim-IDE，略显简陋，勿喷。](https://www.v2ex.com/t/856824) ![](assets/new.png)  
@@ -508,9 +511,6 @@
 - [2022-06-01-PD-运行-win，链接外置硬盘，点了一次允许（没点始终允许），导致硬盘无法正常工作](https://www.v2ex.com/t/856808) ![](assets/new.png)  
 - [2022-06-01-iPad-没有参加-618-活动么](https://www.v2ex.com/t/856805) ![](assets/new.png)  
 - [2022-06-01-求推荐简明的-C++教程，给我的师弟用。](https://www.v2ex.com/t/856804) ![](assets/new.png)  
-- [2022-06-01-OpenDNS-timeout？](https://www.v2ex.com/t/856803) ![](assets/new.png)  
-- [2022-06-01-如何解决雷蛇鼠标键盘关机后还亮的问题（mac）](https://www.v2ex.com/t/856800) ![](assets/new.png)  
-- [2022-06-01-2021-款-14-寸-m1pro-组合键+触摸板轻点失效](https://www.v2ex.com/t/856799) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -559,8 +559,8 @@
 - [2022-06-01-解决跨海高并发崩溃难题？so-easy](https://toutiao.io/k/souekwu) ![](assets/new.png)  
 - [2022-06-01-架构设计学习资料汇总](https://toutiao.io/k/6c0iwli) ![](assets/new.png)  
 - [2022-06-01-从Redis7.0发布看Redis的过去与未来](https://toutiao.io/k/nfcvuw0) ![](assets/new.png)  
-- [2022-06-01-关于实施“需求承诺”的几个建议](https://toutiao.io/k/q9dlqbh) ![](assets/new.png)  
 - [2022-06-01-高效学习的六大必备工具](https://toutiao.io/k/3w13cze) ![](assets/new.png)  
+- [2022-06-01-关于实施“需求承诺”的几个建议](https://toutiao.io/k/q9dlqbh) ![](assets/new.png)  
 - [2022-06-01-简述前端包管理工具机制和相关实践](https://toutiao.io/k/fhb99yh) ![](assets/new.png)  
 - [2022-06-01-如何写出一篇好的技术方案？](https://toutiao.io/k/9j4rv18) ![](assets/new.png)  
 - [2022-06-01-Java-18都来了，你不会还在用Java-8吧？](https://toutiao.io/k/97fio1f) ![](assets/new.png)  
@@ -572,7 +572,7 @@
 - [2022-06-01-【API-优先的设计】--理论篇](https://toutiao.io/k/qcov2ck) ![](assets/new.png)  
 - [2022-06-01-对不起，我错了，这题不简单！](https://toutiao.io/k/0jfszko) ![](assets/new.png)  
 - [2022-06-01-我，35岁程序员，千万资产3天归零；Twitter架构决策；在荷兰做程序员的体验｜码农周刊VIP会员专属邮件周报-Vol.093](https://toutiao.io/k/jr55rv0) ![](assets/new.png)  
-- [2022-06-01-推荐-你见过哪些目瞪口呆的-Java-代码技巧？](https://toutiao.io/k/avsba7r) ![](assets/new.png)  
+- [2022-06-01-推荐-聊聊接口设计的36个小技巧](https://toutiao.io/k/yqm776v) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

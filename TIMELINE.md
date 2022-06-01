@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-06-01 15:48:36。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-06-01 16:20:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,9 @@
 </summary>
 
 
+- [【V2EX】2022-06-01-泉州联通在-5.18-左右解除了白名单，端午节回去试试泉州电信和泉州移动](https://www.v2ex.com/t/856829) 
+- [【V2EX】2022-06-01-小程序莫名被指违背社会公序良俗](https://www.v2ex.com/t/856828) 
+- [【V2EX】2022-06-01-《西游记》的倒叙版](https://www.v2ex.com/t/856827) 
 - [【V2EX】2022-06-01-对于一个读写都不超过-60MB/s-的-U-盘来说，配备-USB3.0-接口有意义吗？](https://www.v2ex.com/t/856826) 
 - [【V2EX】2022-06-01-「开源项目」Artalk-一款使用-Golang-编写的自托管博客评论系统](https://www.v2ex.com/t/856825) 
 - [【V2EX】2022-06-01-平时不准用盗版-SI，我又搞了一个-vim-IDE，略显简陋，勿喷。](https://www.v2ex.com/t/856824) 
@@ -99,10 +102,6 @@
 - [【V2EX】2022-06-01-618-大促-|-跨平台-Markdown-编辑器-Typora-买断仅需-80.1-元](https://www.v2ex.com/t/856784) 
 - [【V2EX】2022-06-01-戴尔官网-U2723QX-翻新机-2975](https://www.v2ex.com/t/856783) 
 - [【V2EX】2022-06-01-上海解封了，而我写的小程序更像是-49-年入股国军](https://www.v2ex.com/t/856782) 
-- [【V2EX】2022-06-01-求推荐一款旗舰机](https://www.v2ex.com/t/856780) 
-- [【V2EX】2022-06-01-iOS15-如何信任自签名证书？](https://www.v2ex.com/t/856779) 
-- [【V2EX】2022-06-01-iPad-Air-5-到底怎么样](https://www.v2ex.com/t/856778) 
-- [【V2EX】2022-06-01-keychain-不能全部-iCloud-同步到-mac-吗](https://www.v2ex.com/t/856777) 
 - [【技术头条】2022-06-01-4个Python编程游戏网站，玩嗨了~-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15120&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494149%26amp%3Bidx%3D1%26amp%3Bsn%3D7525aafe254b1a8017fee638cc5f3340%26amp%3Bchksm%3Dfa3f0b5ecd4882481060c4ccceff14d66ac9348089028ca145d07a17dbd153e46155fb2e0138%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-06-01-iOS15如何让App启动更快？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15119&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494149%26amp%3Bidx%3D2%26amp%3Bsn%3Df78c229c1bf42fa5bc19b137bd01b4ca%26amp%3Bchksm%3Dfa3f0b5ecd488248750c26ccb7cb86220a416c2657619abefdc9475ddfecf496d91dbbf2dd3d%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-06-01-一款开源OA办公自动化系统-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15118&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494148%26amp%3Bidx%3D1%26amp%3Bsn%3Dc409296967c2c443ac34619a0df1024c%26amp%3Bchksm%3Dfa3f0b5fcd488249ccc9d3a2ae116d0f7e4bd8ff1a35651088cf2ba4eed0a128e473660fdeb3%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -129,8 +128,8 @@
 - [【开发者头条】2022-06-01-解决跨海高并发崩溃难题？so-easy](https://toutiao.io/k/souekwu) 
 - [【开发者头条】2022-06-01-架构设计学习资料汇总](https://toutiao.io/k/6c0iwli) 
 - [【开发者头条】2022-06-01-从Redis7.0发布看Redis的过去与未来](https://toutiao.io/k/nfcvuw0) 
-- [【开发者头条】2022-06-01-关于实施“需求承诺”的几个建议](https://toutiao.io/k/q9dlqbh) 
 - [【开发者头条】2022-06-01-高效学习的六大必备工具](https://toutiao.io/k/3w13cze) 
+- [【开发者头条】2022-06-01-关于实施“需求承诺”的几个建议](https://toutiao.io/k/q9dlqbh) 
 - [【开发者头条】2022-06-01-简述前端包管理工具机制和相关实践](https://toutiao.io/k/fhb99yh) 
 - [【开发者头条】2022-06-01-如何写出一篇好的技术方案？](https://toutiao.io/k/9j4rv18) 
 - [【开发者头条】2022-06-01-Java-18都来了，你不会还在用Java-8吧？](https://toutiao.io/k/97fio1f) 
@@ -142,12 +141,11 @@
 - [【开发者头条】2022-06-01-【API-优先的设计】--理论篇](https://toutiao.io/k/qcov2ck) 
 - [【开发者头条】2022-06-01-对不起，我错了，这题不简单！](https://toutiao.io/k/0jfszko) 
 - [【开发者头条】2022-06-01-我，35岁程序员，千万资产3天归零；Twitter架构决策；在荷兰做程序员的体验｜码农周刊VIP会员专属邮件周报-Vol.093](https://toutiao.io/k/jr55rv0) 
-- [【开发者头条】2022-06-01-推荐-你见过哪些目瞪口呆的-Java-代码技巧？](https://toutiao.io/k/avsba7r) 
-- [【开发者头条】2022-06-01-推荐-不可错过的程序员续命科技](https://toutiao.io/k/wooq1pu) 
-- [【开发者头条】2022-06-01-推荐-关于技术能力的思考和总结](https://toutiao.io/k/jo2jtja) 
-- [【开发者头条】2022-06-01-推荐-首个确保缓存与数据库一致性的方案](https://toutiao.io/k/imjqbp3) 
 - [【开发者头条】2022-06-01-推荐-聊聊接口设计的36个小技巧](https://toutiao.io/k/yqm776v) 
+- [【开发者头条】2022-06-01-推荐-阿里10年沉淀｜那些技术实战中的架构设计方法](https://toutiao.io/k/e9vlh55) 
 - [【开发者头条】2022-06-01-推荐-如何画好一张架构图？](https://toutiao.io/k/bu1pi73) 
+- [【开发者头条】2022-06-01-推荐-关于技术能力的思考和总结](https://toutiao.io/k/jo2jtja) 
+- [【开发者头条】2022-06-01-推荐-不可错过的程序员续命科技](https://toutiao.io/k/wooq1pu) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

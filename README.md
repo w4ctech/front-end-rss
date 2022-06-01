@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-06-01 13:29:23，:rocket: 更新条数: +2024， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-06-01 14:06:44，:rocket: 更新条数: +2024， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,9 @@
 </summary>
 
 
+- [2022-06-01-发现-mac-的-siri-可以控制风扇](https://www.v2ex.com/t/856812) ![](assets/new.png)  
+- [2022-06-01-请教一下大佬们，-关于-springboot-内部服务间的调用鉴权](https://www.v2ex.com/t/856810) ![](assets/new.png)  
+- [2022-06-01-PD-运行-win，链接外置硬盘，点了一次允许（没点始终允许），导致硬盘无法正常工作](https://www.v2ex.com/t/856808) ![](assets/new.png)  
 - [2022-06-01-iPad-没有参加-618-活动么](https://www.v2ex.com/t/856805) ![](assets/new.png)  
 - [2022-06-01-求推荐简明的-C++教程，给我的师弟用。](https://www.v2ex.com/t/856804) ![](assets/new.png)  
 - [2022-06-01-OpenDNS-timeout？](https://www.v2ex.com/t/856803) ![](assets/new.png)  
@@ -508,9 +511,6 @@
 - [2022-06-01-戴尔官网-U2723QX-翻新机-2975](https://www.v2ex.com/t/856783) ![](assets/new.png)  
 - [2022-06-01-上海解封了，而我写的小程序更像是-49-年入股国军](https://www.v2ex.com/t/856782) ![](assets/new.png)  
 - [2022-06-01-求推荐一款旗舰机](https://www.v2ex.com/t/856780) ![](assets/new.png)  
-- [2022-06-01-iOS15-如何信任自签名证书？](https://www.v2ex.com/t/856779) ![](assets/new.png)  
-- [2022-06-01-iPad-Air-5-到底怎么样](https://www.v2ex.com/t/856778) ![](assets/new.png)  
-- [2022-06-01-keychain-不能全部-iCloud-同步到-mac-吗](https://www.v2ex.com/t/856777) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -564,13 +564,13 @@
 - [2022-06-01-高效学习的六大必备工具](https://toutiao.io/k/3w13cze) ![](assets/new.png)  
 - [2022-06-01-如何写出一篇好的技术方案？](https://toutiao.io/k/9j4rv18) ![](assets/new.png)  
 - [2022-06-01-Java-18都来了，你不会还在用Java-8吧？](https://toutiao.io/k/97fio1f) ![](assets/new.png)  
+- [2022-06-01-面试怎么去回答-Java-NIO？](https://toutiao.io/k/r2wxwju) ![](assets/new.png)  
 - [2022-06-01-.NET-Core-分布式任务调度ScheduleMaster](https://toutiao.io/k/780a0l2) ![](assets/new.png)  
 - [2022-06-01-「开源人的福音」一键部署Java构件到Sonatype](https://toutiao.io/k/jwk8926) ![](assets/new.png)  
-- [2022-06-01-面试怎么去回答-Java-NIO？](https://toutiao.io/k/r2wxwju) ![](assets/new.png)  
 - [2022-06-01-GLCC-首届编程夏令营｜KusionStack-项目！](https://toutiao.io/k/oyl2cvq) ![](assets/new.png)  
 - [2022-06-01-【API-优先的设计】--理论篇](https://toutiao.io/k/qcov2ck) ![](assets/new.png)  
-- [2022-06-01-对不起，我错了，这题不简单！](https://toutiao.io/k/0jfszko) ![](assets/new.png)  
 - [2022-06-01-监控大型-Apache-Flink-应用程序，第-1-部分：概念和持续监控!](https://toutiao.io/k/jhholct) ![](assets/new.png)  
+- [2022-06-01-对不起，我错了，这题不简单！](https://toutiao.io/k/0jfszko) ![](assets/new.png)  
 - [2022-06-01-我，35岁程序员，千万资产3天归零；Twitter架构决策；在荷兰做程序员的体验｜码农周刊VIP会员专属邮件周报-Vol.093](https://toutiao.io/k/jr55rv0) ![](assets/new.png)  
 - [2022-06-01-推荐-你见过哪些目瞪口呆的-Java-代码技巧？](https://toutiao.io/k/avsba7r) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)

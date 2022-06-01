@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-06-01 20:44:02，:rocket: 更新条数: +2025， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-06-01 21:14:30，:rocket: 更新条数: +2025， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -560,8 +560,8 @@
 - [2022-06-01-架构设计学习资料汇总](https://toutiao.io/k/6c0iwli) ![](assets/new.png)  
 - [2022-06-01-从Redis7.0发布看Redis的过去与未来](https://toutiao.io/k/nfcvuw0) ![](assets/new.png)  
 - [2022-06-01-高效学习的六大必备工具](https://toutiao.io/k/3w13cze) ![](assets/new.png)  
-- [2022-06-01-关于实施“需求承诺”的几个建议](https://toutiao.io/k/q9dlqbh) ![](assets/new.png)  
 - [2022-06-01-简述前端包管理工具机制和相关实践](https://toutiao.io/k/fhb99yh) ![](assets/new.png)  
+- [2022-06-01-关于实施“需求承诺”的几个建议](https://toutiao.io/k/q9dlqbh) ![](assets/new.png)  
 - [2022-06-01-如何写出一篇好的技术方案？](https://toutiao.io/k/9j4rv18) ![](assets/new.png)  
 - [2022-06-01-Java-18都来了，你不会还在用Java-8吧？](https://toutiao.io/k/97fio1f) ![](assets/new.png)  
 - [2022-06-01-面试怎么去回答-Java-NIO？](https://toutiao.io/k/r2wxwju) ![](assets/new.png)  
@@ -572,7 +572,7 @@
 - [2022-06-01-【API-优先的设计】--理论篇](https://toutiao.io/k/qcov2ck) ![](assets/new.png)  
 - [2022-06-01-对不起，我错了，这题不简单！](https://toutiao.io/k/0jfszko) ![](assets/new.png)  
 - [2022-06-01-我，35岁程序员，千万资产3天归零；Twitter架构决策；在荷兰做程序员的体验｜码农周刊VIP会员专属邮件周报-Vol.093](https://toutiao.io/k/jr55rv0) ![](assets/new.png)  
-- [2022-06-01-推荐-聊聊接口设计的36个小技巧](https://toutiao.io/k/yqm776v) ![](assets/new.png)  
+- [2022-06-01-推荐-如何画好一张架构图？](https://toutiao.io/k/bu1pi73) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

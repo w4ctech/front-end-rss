@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-06-01 14:06:44，:rocket: 更新条数: +2024， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-06-01 14:47:48，:rocket: 更新条数: +2025， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,13 @@
 </summary>
 
 
+- [2022-06-01-自己家楼里面手机信号很差,某多上面-400-多一台的手机信号放大器管用吗](https://www.v2ex.com/t/856820) ![](assets/new.png)  
+- [2022-06-01-Chrome-扩展：云快照，一键归档你正在浏览的页面](https://www.v2ex.com/t/856819) ![](assets/new.png)  
+- [2022-06-01-谁上报了我的信息？](https://www.v2ex.com/t/856818) ![](assets/new.png)  
+- [2022-06-01-有没有一种音视频流解决方案，能够在全屋范围内共享源算力（包括游戏机等）](https://www.v2ex.com/t/856817) ![](assets/new.png)  
+- [2022-06-01-前台-Flutter-后台-PHP-2-年以上经验，远程全职/项目外包](https://www.v2ex.com/t/856816) ![](assets/new.png)  
+- [2022-06-01-作为-Javaer-的思考-es-与-mq-学习路径](https://www.v2ex.com/t/856815) ![](assets/new.png)  
+- [2022-06-01-有什么好办法可以在搜索引擎里拉黑某些网站](https://www.v2ex.com/t/856814) ![](assets/new.png)  
 - [2022-06-01-发现-mac-的-siri-可以控制风扇](https://www.v2ex.com/t/856812) ![](assets/new.png)  
 - [2022-06-01-请教一下大佬们，-关于-springboot-内部服务间的调用鉴权](https://www.v2ex.com/t/856810) ![](assets/new.png)  
 - [2022-06-01-PD-运行-win，链接外置硬盘，点了一次允许（没点始终允许），导致硬盘无法正常工作](https://www.v2ex.com/t/856808) ![](assets/new.png)  
@@ -504,13 +511,6 @@
 - [2022-06-01-？灵珑为什么还不出新，内部人来说一下](https://www.v2ex.com/t/856794) ![](assets/new.png)  
 - [2022-06-01-现在润到杭州，是好时机吗？](https://www.v2ex.com/t/856793) ![](assets/new.png)  
 - [2022-06-01-绿色守护在安卓-12-下无法使用了，有解决办法？或者有推荐的类似应用吗？](https://www.v2ex.com/t/856792) ![](assets/new.png)  
-- [2022-06-01-推荐一个好用的安卓-apk-破解网站](https://www.v2ex.com/t/856788) ![](assets/new.png)  
-- [2022-06-01-SSO-单点登录时一端被挤下去让客户端及时感知的方案](https://www.v2ex.com/t/856787) ![](assets/new.png)  
-- [2022-06-01-两个-offer-选武汉-or-深圳](https://www.v2ex.com/t/856786) ![](assets/new.png)  
-- [2022-06-01-618-大促-|-跨平台-Markdown-编辑器-Typora-买断仅需-80.1-元](https://www.v2ex.com/t/856784) ![](assets/new.png)  
-- [2022-06-01-戴尔官网-U2723QX-翻新机-2975](https://www.v2ex.com/t/856783) ![](assets/new.png)  
-- [2022-06-01-上海解封了，而我写的小程序更像是-49-年入股国军](https://www.v2ex.com/t/856782) ![](assets/new.png)  
-- [2022-06-01-求推荐一款旗舰机](https://www.v2ex.com/t/856780) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -572,7 +572,7 @@
 - [2022-06-01-监控大型-Apache-Flink-应用程序，第-1-部分：概念和持续监控!](https://toutiao.io/k/jhholct) ![](assets/new.png)  
 - [2022-06-01-对不起，我错了，这题不简单！](https://toutiao.io/k/0jfszko) ![](assets/new.png)  
 - [2022-06-01-我，35岁程序员，千万资产3天归零；Twitter架构决策；在荷兰做程序员的体验｜码农周刊VIP会员专属邮件周报-Vol.093](https://toutiao.io/k/jr55rv0) ![](assets/new.png)  
-- [2022-06-01-推荐-你见过哪些目瞪口呆的-Java-代码技巧？](https://toutiao.io/k/avsba7r) ![](assets/new.png)  
+- [2022-06-01-推荐-首个确保缓存与数据库一致性的方案](https://toutiao.io/k/imjqbp3) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

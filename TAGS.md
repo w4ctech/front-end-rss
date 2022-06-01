@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-06-01 14:06:44。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-06-01 14:47:48。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -138,6 +138,7 @@
 
 
 
+- [【V2EX】前台-Flutter-后台-PHP-2-年以上经验，远程全职/项目外包](https://www.v2ex.com/t/856816)
 - [......【查看更多】......](./details/tags/dev-mobile.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -154,6 +155,7 @@
 
 
 
+- [【V2EX】有没有一种音视频流解决方案，能够在全屋范围内共享源算力（包括游戏机等）](https://www.v2ex.com/t/856817)
 - [【技术头条】4个Python编程游戏网站，玩嗨了~-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15120&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494149%26amp%3Bidx%3D1%26amp%3Bsn%3D7525aafe254b1a8017fee638cc5f3340%26amp%3Bchksm%3Dfa3f0b5ecd4882481060c4ccceff14d66ac9348089028ca145d07a17dbd153e46155fb2e0138%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [......【查看更多】......](./details/tags/dev-game.md)
 
@@ -239,7 +241,6 @@
 - [【武汉肺炎防疫全纪录(财新网)】广州17岁男生在定点医院参加高考-特殊考场视频监考](https://m.caixin.com/m/2021-06-05/101723418.html)
 - [【武汉肺炎防疫全纪录(财新网)】林郑月娥率13高官直播接种科兴疫苗-复星疫苗预计周中到港](https://m.caixin.com/m/2021-02-22/101665724.html)
 - [【V2EX】电视上看英文视频，想挡住字幕你们都是怎么做的](https://www.v2ex.com/t/856775)
-- [【V2EX】刚刚用-m1air-安装了-kdenlive-剪视频，居然不闪退能用了。](https://www.v2ex.com/t/856765)
 - [......【查看更多】......](./details/tags/audio-video.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -279,7 +280,7 @@
 - [【武汉肺炎防疫全纪录(财新网)】腺病毒新冠疫苗引安全忧虑-康希诺称未发现血栓病例](https://m.caixin.com/m/2021-04-14/101691086.html)
 - [【武汉肺炎防疫全纪录(财新网)】解药|新冠mRNA疫苗安全性有哪些挑战？](https://m.caixin.com/m/2021-01-08/101648043.html)
 - [【武汉肺炎防疫全纪录(财新网)】大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html)
-- [【V2EX】macOS-一直在用-Edge，最近发现体积非常大已经有-7.1GB，这正常吗？](https://www.v2ex.com/t/856766)
+- [【V2EX】Chrome-扩展：云快照，一键归档你正在浏览的页面](https://www.v2ex.com/t/856819)
 - [【技术头条】改hosts不生效？教你清理Chrome的DNS缓存-hessian.cn](https://blogread.cn/news/go.php?idItem=15106&url=https%3A%2F%2Fhessian.cn%2Fp%2F1645.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【技术头条】curl-设置代理，看这篇就够了-droidyue.com](https://blogread.cn/news/go.php?idItem=15102&url=https%3A%2F%2Fdroidyue.com%2Fblog%2F2021%2F07%2F07%2Fset-proxy-for-curl%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【技术头条】如何做好-PRR（Production-Rediness-Review）？-blog.alswl.com](https://blogread.cn/news/go.php?idItem=15101&url=https%3A%2F%2Fblog.alswl.com%2F2021%2F06%2Fprr%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)

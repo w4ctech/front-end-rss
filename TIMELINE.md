@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-06-01 19:38:02。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-06-01 20:16:07。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,7 @@
 </summary>
 
 
+- [【V2EX】2022-06-01-你是如何看待公司开启了-IM-的全局水印？](https://www.v2ex.com/t/856839) 
 - [【V2EX】2022-06-01-有没有那种专门讨论-web-漏洞修复相关的社区?](https://www.v2ex.com/t/856838) 
 - [【V2EX】2022-06-01-M1-mac-怎么安装-iPad-版微信?](https://www.v2ex.com/t/856837) 
 - [【V2EX】2022-06-01-观-nas-贴有感](https://www.v2ex.com/t/856836) 
@@ -140,11 +141,11 @@
 - [【开发者头条】2022-06-01-【API-优先的设计】--理论篇](https://toutiao.io/k/qcov2ck) 
 - [【开发者头条】2022-06-01-对不起，我错了，这题不简单！](https://toutiao.io/k/0jfszko) 
 - [【开发者头条】2022-06-01-我，35岁程序员，千万资产3天归零；Twitter架构决策；在荷兰做程序员的体验｜码农周刊VIP会员专属邮件周报-Vol.093](https://toutiao.io/k/jr55rv0) 
+- [【开发者头条】2022-06-01-推荐-阿里10年沉淀｜那些技术实战中的架构设计方法](https://toutiao.io/k/e9vlh55) 
+- [【开发者头条】2022-06-01-推荐-不可错过的程序员续命科技](https://toutiao.io/k/wooq1pu) 
+- [【开发者头条】2022-06-01-推荐-如何画好一张架构图？](https://toutiao.io/k/bu1pi73) 
 - [【开发者头条】2022-06-01-推荐-聊聊接口设计的36个小技巧](https://toutiao.io/k/yqm776v) 
 - [【开发者头条】2022-06-01-推荐-关于技术能力的思考和总结](https://toutiao.io/k/jo2jtja) 
-- [【开发者头条】2022-06-01-推荐-如何画好一张架构图？](https://toutiao.io/k/bu1pi73) 
-- [【开发者头条】2022-06-01-推荐-不可错过的程序员续命科技](https://toutiao.io/k/wooq1pu) 
-- [【开发者头条】2022-06-01-推荐-阿里10年沉淀｜那些技术实战中的架构设计方法](https://toutiao.io/k/e9vlh55) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

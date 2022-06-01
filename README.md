@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-06-01 08:52:54，:rocket: 更新条数: +2024， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-06-01 09:26:01，:rocket: 更新条数: +2023， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,14 @@
 </summary>
 
 
+- [2022-06-01-iPhone-xs-Siri-不能识别语音是哪个麦克风坏了](https://www.v2ex.com/t/856771) ![](assets/new.png)  
+- [2022-06-01-北京-软件工程师组队啦](https://www.v2ex.com/t/856770) ![](assets/new.png)  
+- [2022-06-01-『全职远程，虚位以待』15K-20K-招产品运营，懂运营，懂产品，懂策略](https://www.v2ex.com/t/856769) ![](assets/new.png)  
+- [2022-06-01-macOS-一直在用-Edge，最近发现体积非常大已经有-7.1GB，这正常吗？](https://www.v2ex.com/t/856766) ![](assets/new.png)  
+- [2022-06-01-刚刚用-m1air-安装了-kdenlive-剪视频，居然不闪退能用了。](https://www.v2ex.com/t/856765) ![](assets/new.png)  
+- [2022-06-01-带话题（#话题#）功能的笔记或者编辑软件](https://www.v2ex.com/t/856764) ![](assets/new.png)  
+- [2022-06-01-成都地震了？](https://www.v2ex.com/t/856763) ![](assets/new.png)  
+- [2022-06-01-选个机械键盘](https://www.v2ex.com/t/856762) ![](assets/new.png)  
 - [2022-06-01-转租|-租金-1300/月](https://www.v2ex.com/t/856759) ![](assets/new.png)  
 - [2022-06-01-现在还有银行的收款码不收手续费的吗](https://www.v2ex.com/t/856758) ![](assets/new.png)  
 - [2022-06-01-Push-还是-Pull，揭秘-MatrixOne-数据库的-Pipeline-构建方式](https://www.v2ex.com/t/856757) ![](assets/new.png)  
@@ -503,14 +511,6 @@
 - [2022-06-01-大佬们帮出下馊主意,去哪看电视台的往期节目](https://www.v2ex.com/t/856747) ![](assets/new.png)  
 - [2022-06-01-Mac-微信客户端自动上线自动登录功能以后，就一直在崩溃，重装微信也无法解决，很头疼](https://www.v2ex.com/t/856746) ![](assets/new.png)  
 - [2022-06-01-请问有简单的前端项目可以参考吗](https://www.v2ex.com/t/856743) ![](assets/new.png)  
-- [2022-06-01-Mac-有什么可用的-HDR-视频播放器吗？](https://www.v2ex.com/t/856742) ![](assets/new.png)  
-- [2022-06-01-既然-Base62-的字符排列顺序没有标准化，那干脆梳理一下六种排列组合](https://www.v2ex.com/t/856741) ![](assets/new.png)  
-- [2022-06-01-有没有什么设备或者方法可以代替纸和笔用来打草稿的？](https://www.v2ex.com/t/856739) ![](assets/new.png)  
-- [2022-06-01-广州买房咨询---总预算-360w](https://www.v2ex.com/t/856738) ![](assets/new.png)  
-- [2022-06-01-Apple-One-Premier-美区拼车](https://www.v2ex.com/t/856737) ![](assets/new.png)  
-- [2022-06-01-请教监视文件夹自动复制新文件方案](https://www.v2ex.com/t/856736) ![](assets/new.png)  
-- [2022-06-01-请问有人在空心砖上挂电视吗](https://www.v2ex.com/t/856735) ![](assets/new.png)  
-- [2022-06-01-深圳/上海/远程-C++/EOS-联盟链底层/智能合约开发工程师](https://www.v2ex.com/t/856731) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -571,8 +571,8 @@
 - [2022-06-01-对不起，我错了，这题不简单！](https://toutiao.io/k/0jfszko) ![](assets/new.png)  
 - [2022-06-01-【API-优先的设计】--理论篇](https://toutiao.io/k/qcov2ck) ![](assets/new.png)  
 - [2022-06-01-监控大型-Apache-Flink-应用程序，第-1-部分：概念和持续监控!](https://toutiao.io/k/jhholct) ![](assets/new.png)  
-- [2022-06-01-推荐-你见过哪些目瞪口呆的-Java-代码技巧？](https://toutiao.io/k/avsba7r) ![](assets/new.png)  
-- [2022-06-01-推荐-首个确保缓存与数据库一致性的方案](https://toutiao.io/k/imjqbp3) ![](assets/new.png)  
+- [2022-06-01-推荐-不可错过的程序员续命科技](https://toutiao.io/k/wooq1pu) ![](assets/new.png)  
+- [2022-06-01-推荐-如何画好一张架构图？](https://toutiao.io/k/bu1pi73) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

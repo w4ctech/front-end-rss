@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-06-01 11:39:25，:rocket: 更新条数: +2026， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-06-01 12:32:01，:rocket: 更新条数: +2026， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-06-01-求推荐简明的-C++教程，给我的师弟用。](https://www.v2ex.com/t/856804) ![](assets/new.png)  
+- [2022-06-01-OpenDNS-timeout？](https://www.v2ex.com/t/856803) ![](assets/new.png)  
 - [2022-06-01-如何解决雷蛇鼠标键盘关机后还亮的问题（mac）](https://www.v2ex.com/t/856800) ![](assets/new.png)  
 - [2022-06-01-2021-款-14-寸-m1pro-组合键+触摸板轻点失效](https://www.v2ex.com/t/856799) ![](assets/new.png)  
 - [2022-06-01-远程连载-02-2022-年，-造了个找远程工作的网站](https://www.v2ex.com/t/856798) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-06-01-求推荐一款旗舰机](https://www.v2ex.com/t/856780) ![](assets/new.png)  
 - [2022-06-01-iOS15-如何信任自签名证书？](https://www.v2ex.com/t/856779) ![](assets/new.png)  
 - [2022-06-01-iPad-Air-5-到底怎么样](https://www.v2ex.com/t/856778) ![](assets/new.png)  
-- [2022-06-01-keychain-不能全部-iCloud-同步到-mac-吗](https://www.v2ex.com/t/856777) ![](assets/new.png)  
-- [2022-06-01-几年不看小说了，最近动漫剧荒，求近几年出的好看小说，文笔好点的武侠、玄幻类，最好完本的，拒绝小白文。](https://www.v2ex.com/t/856776) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -571,8 +571,8 @@
 - [2022-06-01-【API-优先的设计】--理论篇](https://toutiao.io/k/qcov2ck) ![](assets/new.png)  
 - [2022-06-01-对不起，我错了，这题不简单！](https://toutiao.io/k/0jfszko) ![](assets/new.png)  
 - [2022-06-01-监控大型-Apache-Flink-应用程序，第-1-部分：概念和持续监控!](https://toutiao.io/k/jhholct) ![](assets/new.png)  
-- [2022-06-01-推荐-你见过哪些目瞪口呆的-Java-代码技巧？](https://toutiao.io/k/avsba7r) ![](assets/new.png)  
-- [2022-06-01-推荐-不可错过的程序员续命科技](https://toutiao.io/k/wooq1pu) ![](assets/new.png)  
+- [2022-06-01-推荐-聊聊接口设计的36个小技巧](https://toutiao.io/k/yqm776v) ![](assets/new.png)  
+- [2022-06-01-推荐-关于技术能力的思考和总结](https://toutiao.io/k/jo2jtja) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

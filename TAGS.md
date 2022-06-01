@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-06-01 10:18:52。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-06-01 10:49:08。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -242,7 +242,6 @@
 - [【武汉肺炎防疫全纪录(财新网)】林郑月娥率13高官直播接种科兴疫苗-复星疫苗预计周中到港](https://m.caixin.com/m/2021-02-22/101665724.html)
 - [【V2EX】电视上看英文视频，想挡住字幕你们都是怎么做的](https://www.v2ex.com/t/856775)
 - [【V2EX】刚刚用-m1air-安装了-kdenlive-剪视频，居然不闪退能用了。](https://www.v2ex.com/t/856765)
-- [【V2EX】Mac-有什么可用的-HDR-视频播放器吗？](https://www.v2ex.com/t/856742)
 - [......【查看更多】......](./details/tags/audio-video.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

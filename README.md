@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-06-01 16:20:21，:rocket: 更新条数: +2024， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-06-01 17:02:44，:rocket: 更新条数: +2024， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-06-01-上海-不加班-外企-招-Java-、C++、-Python-、安卓、性能测试-](https://www.v2ex.com/t/856832) ![](assets/new.png)  
 - [2022-06-01-泉州联通在-5.18-左右解除了白名单，端午节回去试试泉州电信和泉州移动](https://www.v2ex.com/t/856829) ![](assets/new.png)  
 - [2022-06-01-小程序莫名被指违背社会公序良俗](https://www.v2ex.com/t/856828) ![](assets/new.png)  
 - [2022-06-01-《西游记》的倒叙版](https://www.v2ex.com/t/856827) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-06-01-请教一下大佬们，-关于-springboot-内部服务间的调用鉴权](https://www.v2ex.com/t/856810) ![](assets/new.png)  
 - [2022-06-01-PD-运行-win，链接外置硬盘，点了一次允许（没点始终允许），导致硬盘无法正常工作](https://www.v2ex.com/t/856808) ![](assets/new.png)  
 - [2022-06-01-iPad-没有参加-618-活动么](https://www.v2ex.com/t/856805) ![](assets/new.png)  
-- [2022-06-01-求推荐简明的-C++教程，给我的师弟用。](https://www.v2ex.com/t/856804) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

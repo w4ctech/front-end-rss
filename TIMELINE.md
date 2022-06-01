@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-06-01 15:16:39。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-06-01 15:48:36。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -130,8 +130,8 @@
 - [【开发者头条】2022-06-01-架构设计学习资料汇总](https://toutiao.io/k/6c0iwli) 
 - [【开发者头条】2022-06-01-从Redis7.0发布看Redis的过去与未来](https://toutiao.io/k/nfcvuw0) 
 - [【开发者头条】2022-06-01-关于实施“需求承诺”的几个建议](https://toutiao.io/k/q9dlqbh) 
-- [【开发者头条】2022-06-01-简述前端包管理工具机制和相关实践](https://toutiao.io/k/fhb99yh) 
 - [【开发者头条】2022-06-01-高效学习的六大必备工具](https://toutiao.io/k/3w13cze) 
+- [【开发者头条】2022-06-01-简述前端包管理工具机制和相关实践](https://toutiao.io/k/fhb99yh) 
 - [【开发者头条】2022-06-01-如何写出一篇好的技术方案？](https://toutiao.io/k/9j4rv18) 
 - [【开发者头条】2022-06-01-Java-18都来了，你不会还在用Java-8吧？](https://toutiao.io/k/97fio1f) 
 - [【开发者头条】2022-06-01-面试怎么去回答-Java-NIO？](https://toutiao.io/k/r2wxwju) 
@@ -142,12 +142,12 @@
 - [【开发者头条】2022-06-01-【API-优先的设计】--理论篇](https://toutiao.io/k/qcov2ck) 
 - [【开发者头条】2022-06-01-对不起，我错了，这题不简单！](https://toutiao.io/k/0jfszko) 
 - [【开发者头条】2022-06-01-我，35岁程序员，千万资产3天归零；Twitter架构决策；在荷兰做程序员的体验｜码农周刊VIP会员专属邮件周报-Vol.093](https://toutiao.io/k/jr55rv0) 
-- [【开发者头条】2022-06-01-推荐-首个确保缓存与数据库一致性的方案](https://toutiao.io/k/imjqbp3) 
+- [【开发者头条】2022-06-01-推荐-你见过哪些目瞪口呆的-Java-代码技巧？](https://toutiao.io/k/avsba7r) 
 - [【开发者头条】2022-06-01-推荐-不可错过的程序员续命科技](https://toutiao.io/k/wooq1pu) 
 - [【开发者头条】2022-06-01-推荐-关于技术能力的思考和总结](https://toutiao.io/k/jo2jtja) 
-- [【开发者头条】2022-06-01-推荐-如何画好一张架构图？](https://toutiao.io/k/bu1pi73) 
+- [【开发者头条】2022-06-01-推荐-首个确保缓存与数据库一致性的方案](https://toutiao.io/k/imjqbp3) 
 - [【开发者头条】2022-06-01-推荐-聊聊接口设计的36个小技巧](https://toutiao.io/k/yqm776v) 
-- [【开发者头条】2022-06-01-推荐-你见过哪些目瞪口呆的-Java-代码技巧？](https://toutiao.io/k/avsba7r) 
+- [【开发者头条】2022-06-01-推荐-如何画好一张架构图？](https://toutiao.io/k/bu1pi73) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

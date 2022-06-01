@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-06-01 07:17:37，:rocket: 更新条数: +2030， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-06-01 07:41:38，:rocket: 更新条数: +2026， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,9 @@
 </summary>
 
 
+- [2022-06-01-请教监视文件夹自动复制新文件方案](https://www.v2ex.com/t/856736) ![](assets/new.png)  
+- [2022-06-01-请问有人在空心砖上挂电视吗](https://www.v2ex.com/t/856735) ![](assets/new.png)  
+- [2022-06-01-深圳/上海/远程-C++/EOS-联盟链底层/智能合约开发工程师](https://www.v2ex.com/t/856731) ![](assets/new.png)  
 - [2022-06-01-logi-option-今天更新后支持-m1](https://www.v2ex.com/t/856728) ![](assets/new.png)  
 - [2022-06-01-小白请教，买-XSS-日版有什么需要注意的](https://www.v2ex.com/t/856726) ![](assets/new.png)  
 - [2022-06-01-使用-postcss-nesting-来支持-css-嵌套时使用全局作用域报错的问题](https://www.v2ex.com/t/856725) ![](assets/new.png)  
@@ -508,9 +511,6 @@
 - [2022-06-01-有哥们出几十块钱的-ETH-给我不](https://www.v2ex.com/t/856709) ![](assets/new.png)  
 - [2022-06-01-618-想入款椅子，有推荐的嘛](https://www.v2ex.com/t/856707) ![](assets/new.png)  
 - [2022-06-01-哪家公司有能识别二维码和车牌的摄像头？](https://www.v2ex.com/t/856706) ![](assets/new.png)  
-- [2022-06-01-接-Dapp-开发，合约开发](https://www.v2ex.com/t/856705) ![](assets/new.png)  
-- [2022-06-01-感觉自己并不需要真正的-NAS](https://www.v2ex.com/t/856704) ![](assets/new.png)  
-- [2022-06-01-英语差，下周要面试一家外企运维岗最终面，大佬们有什么秘诀传授吗](https://www.v2ex.com/t/856703) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -571,8 +571,8 @@
 - [2022-06-01-对不起，我错了，这题不简单！](https://toutiao.io/k/0jfszko) ![](assets/new.png)  
 - [2022-06-01-【API-优先的设计】--理论篇](https://toutiao.io/k/qcov2ck) ![](assets/new.png)  
 - [2022-06-01-监控大型-Apache-Flink-应用程序，第-1-部分：概念和持续监控!](https://toutiao.io/k/jhholct) ![](assets/new.png)  
-- [2022-06-01-推荐-首个确保缓存与数据库一致性的方案](https://toutiao.io/k/imjqbp3) ![](assets/new.png)  
-- [2022-06-01-推荐-不可错过的程序员续命科技](https://toutiao.io/k/wooq1pu) ![](assets/new.png)  
+- [2022-06-01-推荐-关于技术能力的思考和总结](https://toutiao.io/k/jo2jtja) ![](assets/new.png)  
+- [2022-06-01-推荐-你见过哪些目瞪口呆的-Java-代码技巧？](https://toutiao.io/k/avsba7r) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

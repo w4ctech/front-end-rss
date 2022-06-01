@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-06-01 19:12:24，:rocket: 更新条数: +2023， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-06-01 19:38:02，:rocket: 更新条数: +2023， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-06-01-有没有那种专门讨论-web-漏洞修复相关的社区?](https://www.v2ex.com/t/856838) ![](assets/new.png)  
 - [2022-06-01-M1-mac-怎么安装-iPad-版微信?](https://www.v2ex.com/t/856837) ![](assets/new.png)  
 - [2022-06-01-观-nas-贴有感](https://www.v2ex.com/t/856836) ![](assets/new.png)  
 - [2022-06-01-发现垃圾站（内容农场）多少是有点用的](https://www.v2ex.com/t/856835) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-06-01-前台-Flutter-后台-PHP-2-年以上经验，远程全职/项目外包](https://www.v2ex.com/t/856816) ![](assets/new.png)  
 - [2022-06-01-作为-Javaer-的思考-es-与-mq-学习路径](https://www.v2ex.com/t/856815) ![](assets/new.png)  
 - [2022-06-01-有什么好办法可以在搜索引擎里拉黑某些网站](https://www.v2ex.com/t/856814) ![](assets/new.png)  
-- [2022-06-01-发现-mac-的-siri-可以控制风扇](https://www.v2ex.com/t/856812) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -572,7 +572,7 @@
 - [2022-06-01-【API-优先的设计】--理论篇](https://toutiao.io/k/qcov2ck) ![](assets/new.png)  
 - [2022-06-01-对不起，我错了，这题不简单！](https://toutiao.io/k/0jfszko) ![](assets/new.png)  
 - [2022-06-01-我，35岁程序员，千万资产3天归零；Twitter架构决策；在荷兰做程序员的体验｜码农周刊VIP会员专属邮件周报-Vol.093](https://toutiao.io/k/jr55rv0) ![](assets/new.png)  
-- [2022-06-01-推荐-如何画好一张架构图？](https://toutiao.io/k/bu1pi73) ![](assets/new.png)  
+- [2022-06-01-推荐-聊聊接口设计的36个小技巧](https://toutiao.io/k/yqm776v) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

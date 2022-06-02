@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-06-02 14:44:29，:rocket: 更新条数: +2035， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-06-02 15:15:47，:rocket: 更新条数: +2035， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-06-02-机场节点全挂了](https://www.v2ex.com/t/857040) ![](assets/new.png)  
+- [2022-06-02-求助帖，-mvn-打包后，-Java--jar-命名报错](https://www.v2ex.com/t/857039) ![](assets/new.png)  
 - [2022-06-02-罗技这-master-3s-卖的也太贵了啊](https://www.v2ex.com/t/857038) ![](assets/new.png)  
 - [2022-06-02-iPad-与安卓/Windows-之间的互传](https://www.v2ex.com/t/857036) ![](assets/new.png)  
 - [2022-06-02-Kindle-要退出中国市场了，我最爱还是纸质书](https://www.v2ex.com/t/857035) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-06-02-求助：-v2-的大佬能帮忙看看这个家庭网络软路由不能-ping-通的问题嘛](https://www.v2ex.com/t/857021) ![](assets/new.png)  
 - [2022-06-02-中国区-Kindle-商店将关闭](https://www.v2ex.com/t/857020) ![](assets/new.png)  
 - [2022-06-02-趁着今天工作摸鱼时间，用-vue3-写了本二次元社区的后台管理系统~](https://www.v2ex.com/t/857018) ![](assets/new.png)  
-- [2022-06-02-突然发现不讲「嘿-Siri」，讲「哎-Siri」也行，这更符合中国人的表达习惯。](https://www.v2ex.com/t/857017) ![](assets/new.png)  
-- [2022-06-02-clickhouse-的一个报错求解](https://www.v2ex.com/t/857016) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

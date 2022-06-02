@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2022-06-02 14:44:29。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-06-02 15:15:47。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-06-02-机场节点全挂了](https://www.v2ex.com/t/857040) 
+- [2022-06-02-求助帖，-mvn-打包后，-Java--jar-命名报错](https://www.v2ex.com/t/857039) 
 - [2022-06-02-罗技这-master-3s-卖的也太贵了啊](https://www.v2ex.com/t/857038) 
 - [2022-06-02-iPad-与安卓/Windows-之间的互传](https://www.v2ex.com/t/857036) 
 - [2022-06-02-Kindle-要退出中国市场了，我最爱还是纸质书](https://www.v2ex.com/t/857035) 
@@ -47,5 +49,3 @@
 - [2022-06-02-端午节是不可能放假了](https://www.v2ex.com/t/856994) 
 - [2022-06-02-苹果原生地图如何不用流量卡进行路线导航？可以缓存城市地图包吗？](https://www.v2ex.com/t/856993) 
 - [2022-06-02-最近-ipfs-的-cloudflare-挂了](https://www.v2ex.com/t/856992) 
-- [2022-06-02-平时靠红警魔兽催眠手痒想玩玩了，入手什么系列的显卡合适？](https://www.v2ex.com/t/856990) 
-- [2022-06-02-kindle-退出中国之际提醒大家一下千万别用国内信用卡在美亚-kindle-买书](https://www.v2ex.com/t/856989) 

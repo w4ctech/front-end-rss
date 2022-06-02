@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-06-02 12:28:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-06-02 13:24:18。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1912,6 +1912,8 @@
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2022-03-21-ascent-override-descent-override-line-gap-override一锅端](https://www.zhangxinxu.com/wordpress/2022/03/css-ascent-override-descent/) 
+- [2022-06-02-大家评价一下这个-UP-的行为，我不知道该如何定义这种行为。](https://www.v2ex.com/t/857026) 
+- [2022-06-02-Gmail-垃圾邮件规律](https://www.v2ex.com/t/857025) 
 - [2022-06-02-亚马逊上买的电子书如何下载到本地？没有-kindle-设备只有-kindle-软件，求教程](https://www.v2ex.com/t/857024) 
 - [2022-06-02-Java-开发，惠普战-x-怎么样？](https://www.v2ex.com/t/857022) 
 - [2022-06-02-中国区-Kindle-商店将关闭](https://www.v2ex.com/t/857020) 
@@ -1941,8 +1943,6 @@
 - [2022-06-02-Kindle-宣布正式退出中国了](https://www.v2ex.com/t/856979) 
 - [2022-06-02-网易云黑胶，-7-天，-6-月份，已是会员领不了](https://www.v2ex.com/t/856978) 
 - [2022-06-02-一款极值便携的移动电源，-618-前标价-153，自带-15-元优惠券，到手-148；-618-开始后标价-188，自带八五折优惠，到手-159.8……（顺带发现一个网页-BUG）](https://www.v2ex.com/t/856977) 
-- [2022-06-02-为什么在提到各种风俗习惯时，有很多人总是简单的以自己本地的环境代表所有的南方北方地区](https://www.v2ex.com/t/856976) 
-- [2022-06-02-求助，关于-Java-时区的问题](https://www.v2ex.com/t/856975) 
 - [2022-06-02-iOS15如何让App启动更快？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15119&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494149%26amp%3Bidx%3D2%26amp%3Bsn%3Df78c229c1bf42fa5bc19b137bd01b4ca%26amp%3Bchksm%3Dfa3f0b5ecd488248750c26ccb7cb86220a416c2657619abefdc9475ddfecf496d91dbbf2dd3d%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-06-02-一款开源OA办公自动化系统-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15118&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494148%26amp%3Bidx%3D1%26amp%3Bsn%3Dc409296967c2c443ac34619a0df1024c%26amp%3Bchksm%3Dfa3f0b5fcd488249ccc9d3a2ae116d0f7e4bd8ff1a35651088cf2ba4eed0a128e473660fdeb3%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-06-02-别再用OFFSET和LIMIT分页了-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15117&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494148%26amp%3Bidx%3D2%26amp%3Bsn%3D457ac577577c945e7827566c4d076745%26amp%3Bchksm%3Dfa3f0b5fcd488249f46db6b8144c812cd84a609a309eb90a9d265226d76dce6eac73a799a723%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1971,8 +1971,8 @@
 - [2022-06-02-【图片+代码】：Linux-动态链接过程中的【重定位】底层原理](https://toutiao.io/k/fvt9vl0) 
 - [2022-06-02-自动化验收测试](https://toutiao.io/k/jjkqjr1) 
 - [2022-06-02-Go-为什么要设计-iota-常量？](https://toutiao.io/k/avablfe) 
-- [2022-06-02-推荐-如何画好一张架构图？](https://toutiao.io/k/bu1pi73) 
 - [2022-06-02-推荐-阿里10年沉淀｜那些技术实战中的架构设计方法](https://toutiao.io/k/e9vlh55) 
-- [2022-06-02-推荐-聊聊接口设计的36个小技巧](https://toutiao.io/k/yqm776v) 
 - [2022-06-02-推荐-关于技术能力的思考和总结](https://toutiao.io/k/jo2jtja) 
+- [2022-06-02-推荐-聊聊接口设计的36个小技巧](https://toutiao.io/k/yqm776v) 
 - [2022-06-02-推荐-不可错过的程序员续命科技](https://toutiao.io/k/wooq1pu) 
+- [2022-06-02-推荐-如何画好一张架构图？](https://toutiao.io/k/bu1pi73) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-06-02 10:46:57。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-06-02 11:13:43。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,9 @@
 </summary>
 
 
+- [【V2EX】2022-06-02-趁着今天工作摸鱼时间，用-vue3-写了本二次元社区的后台管理系统~](https://www.v2ex.com/t/857018) 
+- [【V2EX】2022-06-02-突然发现不讲「嘿-Siri」，讲「哎-Siri」也行，这更符合中国人的表达习惯。](https://www.v2ex.com/t/857017) 
+- [【V2EX】2022-06-02-clickhouse-的一个报错求解](https://www.v2ex.com/t/857016) 
 - [【V2EX】2022-06-02-摸了一个尼尔风格的-V2EX-样式](https://www.v2ex.com/t/857015) 
 - [【V2EX】2022-06-02-哈哈，我又要来找大佬们合作了，关于小程序邀请的。](https://www.v2ex.com/t/857013) 
 - [【V2EX】2022-06-02-EasyConnect-闪退原因](https://www.v2ex.com/t/857012) 
@@ -108,8 +111,6 @@
 - [【V2EX】2022-06-02-吐槽一下巨量引擎，巨量引擎开放平台的授权页面是淘宝买的么](https://www.v2ex.com/t/856973) 
 - [【V2EX】2022-06-02-如何让被-Nginx-代理的后端接收到真正的服务器-IP？](https://www.v2ex.com/t/856971) 
 - [【V2EX】2022-06-02-Android自己编的一个第三方-apk，求问怎么在-activity-中用-root-或-shell-用户的权限执行-Linux-命令](https://www.v2ex.com/t/856969) 
-- [【V2EX】2022-06-02-在阿里云-ECS-上发现一个-AWK-的脚本,-占用了很高的-load-average,-现在不知道怎么排查](https://www.v2ex.com/t/856968) 
-- [【V2EX】2022-06-02-Shopee-有没有-Java-职位啊，求-v2-里老哥推荐](https://www.v2ex.com/t/856967) 
 - [【技术头条】2022-06-02-4个Python编程游戏网站，玩嗨了~-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15120&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494149%26amp%3Bidx%3D1%26amp%3Bsn%3D7525aafe254b1a8017fee638cc5f3340%26amp%3Bchksm%3Dfa3f0b5ecd4882481060c4ccceff14d66ac9348089028ca145d07a17dbd153e46155fb2e0138%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-06-02-iOS15如何让App启动更快？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15119&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494149%26amp%3Bidx%3D2%26amp%3Bsn%3Df78c229c1bf42fa5bc19b137bd01b4ca%26amp%3Bchksm%3Dfa3f0b5ecd488248750c26ccb7cb86220a416c2657619abefdc9475ddfecf496d91dbbf2dd3d%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-06-02-一款开源OA办公自动化系统-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15118&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494148%26amp%3Bidx%3D1%26amp%3Bsn%3Dc409296967c2c443ac34619a0df1024c%26amp%3Bchksm%3Dfa3f0b5fcd488249ccc9d3a2ae116d0f7e4bd8ff1a35651088cf2ba4eed0a128e473660fdeb3%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -150,11 +151,11 @@
 - [【开发者头条】2022-06-02-【图片+代码】：Linux-动态链接过程中的【重定位】底层原理](https://toutiao.io/k/fvt9vl0) 
 - [【开发者头条】2022-06-02-自动化验收测试](https://toutiao.io/k/jjkqjr1) 
 - [【开发者头条】2022-06-02-Go-为什么要设计-iota-常量？](https://toutiao.io/k/avablfe) 
-- [【开发者头条】2022-06-02-推荐-聊聊接口设计的36个小技巧](https://toutiao.io/k/yqm776v) 
+- [【开发者头条】2022-06-02-推荐-如何画好一张架构图？](https://toutiao.io/k/bu1pi73) 
 - [【开发者头条】2022-06-02-推荐-阿里10年沉淀｜那些技术实战中的架构设计方法](https://toutiao.io/k/e9vlh55) 
 - [【开发者头条】2022-06-02-推荐-不可错过的程序员续命科技](https://toutiao.io/k/wooq1pu) 
+- [【开发者头条】2022-06-02-推荐-聊聊接口设计的36个小技巧](https://toutiao.io/k/yqm776v) 
 - [【开发者头条】2022-06-02-推荐-关于技术能力的思考和总结](https://toutiao.io/k/jo2jtja) 
-- [【开发者头条】2022-06-02-推荐-如何画好一张架构图？](https://toutiao.io/k/bu1pi73) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

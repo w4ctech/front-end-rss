@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-06-02 01:08:18。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-06-02 03:30:06。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -137,7 +137,6 @@
 
 
 
-- [【V2EX】前台-Flutter-后台-PHP-2-年以上经验，远程全职/项目外包](https://www.v2ex.com/t/856816)
 - [......【查看更多】......](./details/tags/dev-mobile.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -154,7 +153,7 @@
 
 
 
-- [【V2EX】有没有一种音视频流解决方案，能够在全屋范围内共享源算力（包括游戏机等）](https://www.v2ex.com/t/856817)
+- [【V2EX】游戏本怎么优雅的立起来当主机使用](https://www.v2ex.com/t/856882)
 - [【技术头条】4个Python编程游戏网站，玩嗨了~-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15120&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494149%26amp%3Bidx%3D1%26amp%3Bsn%3D7525aafe254b1a8017fee638cc5f3340%26amp%3Bchksm%3Dfa3f0b5ecd4882481060c4ccceff14d66ac9348089028ca145d07a17dbd153e46155fb2e0138%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [......【查看更多】......](./details/tags/dev-game.md)
 
@@ -184,7 +183,6 @@
 - [【张鑫旭-鑫空间-鑫生活】小tips:-JS字体加载失败或完毕的检测](https://www.zhangxinxu.com/wordpress/2022/04/js-font-face-load/)
 - [【张鑫旭-鑫空间-鑫生活】CSS实现滚动高度自动变小的粘滞效果](https://www.zhangxinxu.com/wordpress/2022/04/css-sticky-size-change/)
 - [【张鑫旭-鑫空间-鑫生活】基于howler.js写了个音频播放器组件](https://www.zhangxinxu.com/wordpress/2022/03/howler-js-audio-player/)
-- [【V2EX】一个管理-json-数据的软件更新到-0.2.0](https://www.v2ex.com/t/856823)
 - [【技术头条】近期家用设备（NUC、猫盘、路由器）散热升级记录-soulteary.com](https://blogread.cn/news/go.php?idItem=15103&url=https%3A%2F%2Fsoulteary.com%2F2021%2F10%2F14%2Frecent-heat-dissipation-upgrade-record-of-homelab.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【开发者头条】2022，值得学习系列之：函数式编程](https://toutiao.io/k/8bwye9l)
 - [......【查看更多】......](./details/tags/javascript.md)
@@ -257,8 +255,8 @@
 
 
 
-- [【V2EX】上海-不加班-外企-招-Java-、C++、-Python-、安卓、性能测试-](https://www.v2ex.com/t/856832)
 - [【技术头条】在-Apache-Cassandra-中定义和优化数据分区-linux.cn](https://blogread.cn/news/go.php?idItem=15109&url=https%3A%2F%2Flinux.cn%2Farticle-13908-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
+- [【开发者头条】并发渲染优化：让文件树的渲染又快又稳](https://toutiao.io/k/c2wbkal)
 - [【开发者头条】推荐-性能提升40倍——线上真实重构案例分享](https://toutiao.io/k/izbqpxo)
 - [......【查看更多】......](./details/tags/optimization.md)
 
@@ -283,7 +281,6 @@
 - [【武汉肺炎防疫全纪录(财新网)】解药|新冠mRNA疫苗安全性有哪些挑战？](https://m.caixin.com/m/2021-01-08/101648043.html)
 - [【武汉肺炎防疫全纪录(财新网)】大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html)
 - [【V2EX】请教下有没有-Chrome-历史记录保存导出，或者是能将历史记录持续同步到某个云服务的插件之类的](https://www.v2ex.com/t/856848)
-- [【V2EX】Chrome-扩展：云快照，一键归档你正在浏览的页面](https://www.v2ex.com/t/856819)
 - [【技术头条】改hosts不生效？教你清理Chrome的DNS缓存-hessian.cn](https://blogread.cn/news/go.php?idItem=15106&url=https%3A%2F%2Fhessian.cn%2Fp%2F1645.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【技术头条】curl-设置代理，看这篇就够了-droidyue.com](https://blogread.cn/news/go.php?idItem=15102&url=https%3A%2F%2Fdroidyue.com%2Fblog%2F2021%2F07%2F07%2Fset-proxy-for-curl%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【技术头条】如何做好-PRR（Production-Rediness-Review）？-blog.alswl.com](https://blogread.cn/news/go.php?idItem=15101&url=https%3A%2F%2Fblog.alswl.com%2F2021%2F06%2Fprr%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
@@ -303,7 +300,6 @@
 
 
 
-- [【V2EX】平时不准用盗版-SI，我又搞了一个-vim-IDE，略显简陋，勿喷。](https://www.v2ex.com/t/856824)
 - [【开发者头条】一文概览-NLP-算法（Python）](https://toutiao.io/k/jbwk2nr)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 
@@ -353,6 +349,8 @@
 
 
 
+- [【V2EX】现在上海怎么样了？省级出入境政策怎么样？能去找工作面试嘛？](https://www.v2ex.com/t/856880)
+- [【V2EX】Java-后端，面试被问到解决了什么困难，但好像-crud-没有什么困难，怎么回答好？](https://www.v2ex.com/t/856854)
 - [【技术头条】面试官：Java反射是什么？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15115&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494145%26amp%3Bidx%3D2%26amp%3Bsn%3D32bbd28f61522900d0fca0135d4c3a69%26amp%3Bchksm%3Dfa3f0b5acd48824c8b0b637aa499dfbb749e97a8cc28ec30887bb77d99628c931a87ede7cc7e%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [......【查看更多】......](./details/tags/job-interview.md)
 

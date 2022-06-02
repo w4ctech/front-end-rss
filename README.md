@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-06-02 15:47:13，:rocket: 更新条数: +2035， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-06-02 16:20:28，:rocket: 更新条数: +2035， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-06-02-背景用-var-时，如果另一个-var-更改了，背景会闪白](https://www.v2ex.com/t/857047) ![](assets/new.png)  
+- [2022-06-02-为什么我的-Apple-TV+过期了还能看？](https://www.v2ex.com/t/857046) ![](assets/new.png)  
 - [2022-06-02-如何防止自己变得堕落？和朋友们出去喝酒，小姐姐们很性感](https://www.v2ex.com/t/857045) ![](assets/new.png)  
 - [2022-06-02-请教一个-XML-序列化问题](https://www.v2ex.com/t/857044) ![](assets/new.png)  
 - [2022-06-02-分享一下自己写的-mac-端输入法](https://www.v2ex.com/t/857043) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-06-02-有性价比高一些的大容量硬盘推荐吗？-nas-用](https://www.v2ex.com/t/857028) ![](assets/new.png)  
 - [2022-06-02-文石-leaf-还是小米多看-pro2-代？](https://www.v2ex.com/t/857027) ![](assets/new.png)  
 - [2022-06-02-大家评价一下这个-UP-的行为，我不知道该如何定义这种行为。](https://www.v2ex.com/t/857026) ![](assets/new.png)  
-- [2022-06-02-Gmail-垃圾邮件规律](https://www.v2ex.com/t/857025) ![](assets/new.png)  
-- [2022-06-02-亚马逊上买的电子书如何下载到本地？没有-kindle-设备只有-kindle-软件，求教程](https://www.v2ex.com/t/857024) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

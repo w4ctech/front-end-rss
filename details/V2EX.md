@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2022-06-02 15:47:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-06-02 16:20:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-06-02-背景用-var-时，如果另一个-var-更改了，背景会闪白](https://www.v2ex.com/t/857047) 
+- [2022-06-02-为什么我的-Apple-TV+过期了还能看？](https://www.v2ex.com/t/857046) 
 - [2022-06-02-如何防止自己变得堕落？和朋友们出去喝酒，小姐姐们很性感](https://www.v2ex.com/t/857045) 
 - [2022-06-02-请教一个-XML-序列化问题](https://www.v2ex.com/t/857044) 
 - [2022-06-02-分享一下自己写的-mac-端输入法](https://www.v2ex.com/t/857043) 
@@ -47,5 +49,3 @@
 - [2022-06-02-Apple-在线商店买不了-Mac-了吗？](https://www.v2ex.com/t/857000) 
 - [2022-06-02-关于深圳电子消费补贴的疑虑](https://www.v2ex.com/t/856999) 
 - [2022-06-02-没搞懂-HTTP-请求的安全验证，求指导！](https://www.v2ex.com/t/856998) 
-- [2022-06-02-有没有入手-Vivo-watch2-手表的，体验如何？](https://www.v2ex.com/t/856997) 
-- [2022-06-02-请问现在-Android-开发流行-Jetpack-吗？](https://www.v2ex.com/t/856996) 

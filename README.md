@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-06-02 06:18:34，:rocket: 更新条数: +2029， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-06-02 06:52:05，:rocket: 更新条数: +2026， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,12 @@
 </summary>
 
 
+- [2022-06-02-观帖有感，现在的“网红”究竟是代表什么？](https://www.v2ex.com/t/856946) ![](assets/new.png)  
+- [2022-06-02-今年购买的-Kindle-电子书阅读器可以退货](https://www.v2ex.com/t/856945) ![](assets/new.png)  
+- [2022-06-02-您的-Google-Voice-号码将在-7-天后过期…](https://www.v2ex.com/t/856944) ![](assets/new.png)  
+- [2022-06-02-有没有软件工具可以实现批量导出实时微信聊天记录（主要是大段文字），生成的文件格式可以是-TXT，-word-等](https://www.v2ex.com/t/856942) ![](assets/new.png)  
+- [2022-06-02-kindle-退出中国了，为什么呢？想不通呀？](https://www.v2ex.com/t/856940) ![](assets/new.png)  
+- [2022-06-02-Kindle-将在中国停止电子书店的运营](https://www.v2ex.com/t/856939) ![](assets/new.png)  
 - [2022-06-02-vino-server-被扫描，日志撑爆硬盘](https://www.v2ex.com/t/856936) ![](assets/new.png)  
 - [2022-06-02-管理视频文件和少量个人文件的方案求助](https://www.v2ex.com/t/856935) ![](assets/new.png)  
 - [2022-06-02-有个项目想寻找前端外包，需要会-vue3（熟练）和-react（基础）](https://www.v2ex.com/t/856934) ![](assets/new.png)  
@@ -505,12 +511,6 @@
 - [2022-06-02-远程/新加坡/西雅图-前端-React-明星-Web3-创业公司招聘](https://www.v2ex.com/t/856920) ![](assets/new.png)  
 - [2022-06-02-今晚可能要骑车回家了](https://www.v2ex.com/t/856919) ![](assets/new.png)  
 - [2022-06-02-发现一个有趣的网站，很适合程序员逛逛。](https://www.v2ex.com/t/856918) ![](assets/new.png)  
-- [2022-06-02-某厂导致-LTE-做后备网络不一定可靠](https://www.v2ex.com/t/856917) ![](assets/new.png)  
-- [2022-06-02-在-Github-开一个-public-仓库存放、分享自己的搜集的电子书，会有版权问题和法律风险不？](https://www.v2ex.com/t/856915) ![](assets/new.png)  
-- [2022-06-02-iPhone-有没有办法在连接耳机AirPods-Pro的情况下使用自带麦克风收音](https://www.v2ex.com/t/856914) ![](assets/new.png)  
-- [2022-06-02-Mac-appstore-下载的-app-冷启动速度比官网下载的更慢](https://www.v2ex.com/t/856913) ![](assets/new.png)  
-- [2022-06-02-上海长宁区目前办理哪个宽带是最便宜的？](https://www.v2ex.com/t/856911) ![](assets/new.png)  
-- [2022-06-02-我们耳熟能详的关于互联网起源故事其实是错的丨-RTE-技术环境月报-202206](https://www.v2ex.com/t/856910) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

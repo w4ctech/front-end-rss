@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2022-06-02 22:12:51。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-06-02 22:39:54。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-06-02-音响系统哪家好？](https://www.v2ex.com/t/857063) 
+- [2022-06-02-State-of-Play-直播](https://www.v2ex.com/t/857061) 
 - [2022-06-02-Gt-neo3-vs-小米-12x](https://www.v2ex.com/t/857060) 
 - [2022-06-02-20220603-午夜俱乐部](https://www.v2ex.com/t/857059) 
 - [2022-06-02-路由器还是别开任何端口转发到-RDP-服务了，有事直接-openVPN-连回内网](https://www.v2ex.com/t/857058) 
@@ -44,5 +46,3 @@
 - [2022-06-02-突然发现不讲「嘿-Siri」，讲「哎-Siri」也行，这更符合中国人的表达习惯。](https://www.v2ex.com/t/857017) 
 - [2022-06-02-clickhouse-的一个报错求解](https://www.v2ex.com/t/857016) 
 - [2022-06-02-摸了一个尼尔风格的-V2EX-样式](https://www.v2ex.com/t/857015) 
-- [2022-06-02-哈哈，我又要来找大佬们合作了，关于小程序邀请的。](https://www.v2ex.com/t/857013) 
-- [2022-06-02-EasyConnect-闪退原因](https://www.v2ex.com/t/857012) 

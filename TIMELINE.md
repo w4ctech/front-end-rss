@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-06-02 06:52:05。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-06-02 07:15:13。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,12 @@
 </summary>
 
 
+- [【V2EX】2022-06-02-在一线城市收废品有前钱途么？](https://www.v2ex.com/t/856953) 
+- [【V2EX】2022-06-02-预算-50K-求推荐投影仪和功放](https://www.v2ex.com/t/856952) 
+- [【V2EX】2022-06-02-中亚-kindle-停止电子书运营后还有哪些替代方案](https://www.v2ex.com/t/856951) 
+- [【V2EX】2022-06-02-一个-JVM-场景](https://www.v2ex.com/t/856950) 
+- [【V2EX】2022-06-02-似乎和微软有类似协议的公司不止-duckduckgo-一家？](https://www.v2ex.com/t/856949) 
+- [【V2EX】2022-06-02-Kindle-电子书店即将停运](https://www.v2ex.com/t/856948) 
 - [【V2EX】2022-06-02-观帖有感，现在的“网红”究竟是代表什么？](https://www.v2ex.com/t/856946) 
 - [【V2EX】2022-06-02-今年购买的-Kindle-电子书阅读器可以退货](https://www.v2ex.com/t/856945) 
 - [【V2EX】2022-06-02-您的-Google-Voice-号码将在-7-天后过期…](https://www.v2ex.com/t/856944) 
@@ -98,11 +104,6 @@
 - [【V2EX】2022-06-02-macOS-通用控制可能影响设备网速](https://www.v2ex.com/t/856907) 
 - [【V2EX】2022-06-02-上限和下限](https://www.v2ex.com/t/856906) 
 - [【V2EX】2022-06-02-自带日历的中国节假日订阅有放假和上班的日程了](https://www.v2ex.com/t/856905) 
-- [【V2EX】2022-06-02-TeachYourselfCS-上推荐的书籍有没有相关的视频资料可以学习呢？](https://www.v2ex.com/t/856903) 
-- [【V2EX】2022-06-02-网易云黑胶-VIP（7-天），共-5-张（6-月份）](https://www.v2ex.com/t/856902) 
-- [【V2EX】2022-06-02-网红空调](https://www.v2ex.com/t/856900) 
-- [【V2EX】2022-06-02-腾讯真的是不需要跟用户交流了吗？几乎关闭了用户所有能与腾讯交流的通道。](https://www.v2ex.com/t/856899) 
-- [【V2EX】2022-06-02-京东有几个页面出错了](https://www.v2ex.com/t/856898) 
 - [【技术头条】2022-06-02-4个Python编程游戏网站，玩嗨了~-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15120&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494149%26amp%3Bidx%3D1%26amp%3Bsn%3D7525aafe254b1a8017fee638cc5f3340%26amp%3Bchksm%3Dfa3f0b5ecd4882481060c4ccceff14d66ac9348089028ca145d07a17dbd153e46155fb2e0138%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-06-02-iOS15如何让App启动更快？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15119&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494149%26amp%3Bidx%3D2%26amp%3Bsn%3Df78c229c1bf42fa5bc19b137bd01b4ca%26amp%3Bchksm%3Dfa3f0b5ecd488248750c26ccb7cb86220a416c2657619abefdc9475ddfecf496d91dbbf2dd3d%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-06-02-一款开源OA办公自动化系统-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15118&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494148%26amp%3Bidx%3D1%26amp%3Bsn%3Dc409296967c2c443ac34619a0df1024c%26amp%3Bchksm%3Dfa3f0b5fcd488249ccc9d3a2ae116d0f7e4bd8ff1a35651088cf2ba4eed0a128e473660fdeb3%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -143,10 +144,10 @@
 - [【开发者头条】2022-06-02-开源项目千千万，如何发现好项目](https://toutiao.io/k/inglosa) 
 - [【开发者头条】2022-06-02-Go-为什么要设计-iota-常量？](https://toutiao.io/k/avablfe) 
 - [【开发者头条】2022-06-02-自动化验收测试](https://toutiao.io/k/jjkqjr1) 
+- [【开发者头条】2022-06-02-推荐-聊聊接口设计的36个小技巧](https://toutiao.io/k/yqm776v) 
+- [【开发者头条】2022-06-02-推荐-如何画好一张架构图？](https://toutiao.io/k/bu1pi73) 
 - [【开发者头条】2022-06-02-推荐-不可错过的程序员续命科技](https://toutiao.io/k/wooq1pu) 
 - [【开发者头条】2022-06-02-推荐-阿里10年沉淀｜那些技术实战中的架构设计方法](https://toutiao.io/k/e9vlh55) 
-- [【开发者头条】2022-06-02-推荐-如何画好一张架构图？](https://toutiao.io/k/bu1pi73) 
-- [【开发者头条】2022-06-02-推荐-聊聊接口设计的36个小技巧](https://toutiao.io/k/yqm776v) 
 - [【开发者头条】2022-06-02-推荐-关于技术能力的思考和总结](https://toutiao.io/k/jo2jtja) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>

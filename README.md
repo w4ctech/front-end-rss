@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-06-02 06:52:05，:rocket: 更新条数: +2026， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-06-02 07:15:13，:rocket: 更新条数: +2027， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,12 @@
 </summary>
 
 
+- [2022-06-02-在一线城市收废品有前钱途么？](https://www.v2ex.com/t/856953) ![](assets/new.png)  
+- [2022-06-02-预算-50K-求推荐投影仪和功放](https://www.v2ex.com/t/856952) ![](assets/new.png)  
+- [2022-06-02-中亚-kindle-停止电子书运营后还有哪些替代方案](https://www.v2ex.com/t/856951) ![](assets/new.png)  
+- [2022-06-02-一个-JVM-场景](https://www.v2ex.com/t/856950) ![](assets/new.png)  
+- [2022-06-02-似乎和微软有类似协议的公司不止-duckduckgo-一家？](https://www.v2ex.com/t/856949) ![](assets/new.png)  
+- [2022-06-02-Kindle-电子书店即将停运](https://www.v2ex.com/t/856948) ![](assets/new.png)  
 - [2022-06-02-观帖有感，现在的“网红”究竟是代表什么？](https://www.v2ex.com/t/856946) ![](assets/new.png)  
 - [2022-06-02-今年购买的-Kindle-电子书阅读器可以退货](https://www.v2ex.com/t/856945) ![](assets/new.png)  
 - [2022-06-02-您的-Google-Voice-号码将在-7-天后过期…](https://www.v2ex.com/t/856944) ![](assets/new.png)  
@@ -505,12 +511,6 @@
 - [2022-06-02-如何避免双屏显示屏让窗口缩小，招不到的问题](https://www.v2ex.com/t/856929) ![](assets/new.png)  
 - [2022-06-02-ikbc-这品控不行啊](https://www.v2ex.com/t/856926) ![](assets/new.png)  
 - [2022-06-02-MDN-Search：一步打开要查的-MDN-文档](https://www.v2ex.com/t/856924) ![](assets/new.png)  
-- [2022-06-02-求助-从上一家公司离职之后感觉自己被卡死了](https://www.v2ex.com/t/856923) ![](assets/new.png)  
-- [2022-06-02-吐槽一下-腹灵-F11-的机械键盘的设计寿命只有一年](https://www.v2ex.com/t/856922) ![](assets/new.png)  
-- [2022-06-02-vim-easymotion-zh-让-EasyMotion-能够识别中文,-需要熟悉小鹤双拼](https://www.v2ex.com/t/856921) ![](assets/new.png)  
-- [2022-06-02-远程/新加坡/西雅图-前端-React-明星-Web3-创业公司招聘](https://www.v2ex.com/t/856920) ![](assets/new.png)  
-- [2022-06-02-今晚可能要骑车回家了](https://www.v2ex.com/t/856919) ![](assets/new.png)  
-- [2022-06-02-发现一个有趣的网站，很适合程序员逛逛。](https://www.v2ex.com/t/856918) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

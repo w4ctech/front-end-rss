@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-06-02 08:18:49，:rocket: 更新条数: +2029， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-06-02 08:48:16，:rocket: 更新条数: +2029， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,8 +491,13 @@
 </summary>
 
 
+- [2022-06-02-求推荐一款-2k~3k-左右的安卓手机](https://www.v2ex.com/t/856985) ![](assets/new.png)  
+- [2022-06-02-electron-问题：-mac-os-下面-dock-栏图标显示文字怎么改](https://www.v2ex.com/t/856983) ![](assets/new.png)  
+- [2022-06-02-赴日-坐标东京，对日外包开发招聘第六波](https://www.v2ex.com/t/856982) ![](assets/new.png)  
+- [2022-06-02-Micro-Focus张江外企-内推中高级-C++、-Java-、Android、QA、DevOps、Performance-Test-Engineer-欢迎各位大佬联系（转正成功，有神秘大礼！）](https://www.v2ex.com/t/856980) ![](assets/new.png)  
+- [2022-06-02-Kindle-宣布正式退出中国了](https://www.v2ex.com/t/856979) ![](assets/new.png)  
 - [2022-06-02-网易云黑胶，-7-天，-6-月份，已是会员领不了](https://www.v2ex.com/t/856978) ![](assets/new.png)  
-- [2022-06-02-一款极值便携的移动电源，-618-前标价-153，自带-15-元优惠券，到手-148；-618-开始后标价-188，自带八五折优惠，到手-159.8……](https://www.v2ex.com/t/856977) ![](assets/new.png)  
+- [2022-06-02-一款极值便携的移动电源，-618-前标价-153，自带-15-元优惠券，到手-148；-618-开始后标价-188，自带八五折优惠，到手-159.8……（顺带发现一个网页-BUG）](https://www.v2ex.com/t/856977) ![](assets/new.png)  
 - [2022-06-02-为什么在提到各种风俗习惯时，有很多人总是简单的以自己本地的环境代表所有的南方北方地区](https://www.v2ex.com/t/856976) ![](assets/new.png)  
 - [2022-06-02-求助，关于-Java-时区的问题](https://www.v2ex.com/t/856975) ![](assets/new.png)  
 - [2022-06-02-基于-Draw.io-画了个好看的单页双栏简历模板](https://www.v2ex.com/t/856974) ![](assets/new.png)  
@@ -506,11 +511,6 @@
 - [2022-06-02-上交大镜像挂了吗？](https://www.v2ex.com/t/856963) ![](assets/new.png)  
 - [2022-06-02-有可以自定义字段的事项记录软件吗？（不是日程管理）](https://www.v2ex.com/t/856962) ![](assets/new.png)  
 - [2022-06-02-TopNotch-已经失效了，不能隐藏刘海了](https://www.v2ex.com/t/856961) ![](assets/new.png)  
-- [2022-06-02-请问有没有海外市场推广经验的朋友呢？](https://www.v2ex.com/t/856958) ![](assets/new.png)  
-- [2022-06-02-m1-pro-的丐版-mbp-接双-4k-显示器问题](https://www.v2ex.com/t/856957) ![](assets/new.png)  
-- [2022-06-02-由于-cdn.jsdelivr.net-不能访问了。有什么替代的。](https://www.v2ex.com/t/856956) ![](assets/new.png)  
-- [2022-06-02-xbox-玩家联盟群](https://www.v2ex.com/t/856955) ![](assets/new.png)  
-- [2022-06-02-副业/自由职业创意分享：聚合区块链浏览器，下一个超越快递-100-的查询入口](https://www.v2ex.com/t/856954) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

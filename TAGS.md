@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-06-02 23:03:22。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-06-02 23:14:24。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -186,7 +186,6 @@
 - [【V2EX】路由器还是别开任何端口转发到-RDP-服务了，有事直接-openVPN-连回内网](https://www.v2ex.com/t/857058)
 - [【V2EX】求助：-v2-的大佬能帮忙看看这个家庭网络软路由不能-ping-通的问题嘛](https://www.v2ex.com/t/857021)
 - [【技术头条】近期家用设备（NUC、猫盘、路由器）散热升级记录-soulteary.com](https://blogread.cn/news/go.php?idItem=15103&url=https%3A%2F%2Fsoulteary.com%2F2021%2F10%2F14%2Frecent-heat-dissipation-upgrade-record-of-homelab.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
-- [【开发者头条】2022，值得学习系列之：函数式编程](https://toutiao.io/k/8bwye9l)
 - [......【查看更多】......](./details/tags/javascript.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -261,7 +260,6 @@
 
 
 - [【技术头条】在-Apache-Cassandra-中定义和优化数据分区-linux.cn](https://blogread.cn/news/go.php?idItem=15109&url=https%3A%2F%2Flinux.cn%2Farticle-13908-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
-- [【开发者头条】并发渲染优化：让文件树的渲染又快又稳](https://toutiao.io/k/c2wbkal)
 - [......【查看更多】......](./details/tags/optimization.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -305,7 +303,6 @@
 
 - [【V2EX】家宽搭建-http-代理](https://www.v2ex.com/t/857042)
 - [【V2EX】罗技这-master-3s-卖的也太贵了啊](https://www.v2ex.com/t/857038)
-- [【开发者头条】一文概览-NLP-算法（Python）](https://toutiao.io/k/jbwk2nr)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

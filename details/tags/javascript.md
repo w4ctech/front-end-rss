@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-06-02 23:03:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-06-02 23:14:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -22,4 +22,3 @@
 - [2022-06-02-路由器还是别开任何端口转发到-RDP-服务了，有事直接-openVPN-连回内网](https://www.v2ex.com/t/857058) 
 - [2022-06-02-求助：-v2-的大佬能帮忙看看这个家庭网络软路由不能-ping-通的问题嘛](https://www.v2ex.com/t/857021) 
 - [2022-06-02-近期家用设备（NUC、猫盘、路由器）散热升级记录-soulteary.com](https://blogread.cn/news/go.php?idItem=15103&url=https%3A%2F%2Fsoulteary.com%2F2021%2F10%2F14%2Frecent-heat-dissipation-upgrade-record-of-homelab.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
-- [2022-06-02-2022，值得学习系列之：函数式编程](https://toutiao.io/k/8bwye9l) 

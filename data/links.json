@@ -9953,6 +9953,26 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "亚马逊上买的电子书如何下载到本地？没有 kindle 设备只有 kindle 软件，求教程",
+        "link": "https://www.v2ex.com/t/857024",
+        "date": "2022-06-02"
+      },
+      {
+        "title": "Java 开发，惠普战 x 怎么样？",
+        "link": "https://www.v2ex.com/t/857022",
+        "date": "2022-06-02"
+      },
+      {
+        "title": "求助： v2 的大佬能帮忙看看这个家庭网络软路由不能 ping 通的问题嘛",
+        "link": "https://www.v2ex.com/t/857021",
+        "date": "2022-06-02"
+      },
+      {
+        "title": "中国区 Kindle 商店将关闭",
+        "link": "https://www.v2ex.com/t/857020",
+        "date": "2022-06-02"
+      },
+      {
         "title": "趁着今天工作摸鱼时间，用 vue3 写了本二次元社区的后台管理系统~",
         "link": "https://www.v2ex.com/t/857018",
         "date": "2022-06-02"
@@ -10146,26 +10166,6 @@
         "title": "求助，关于 Java 时区的问题",
         "link": "https://www.v2ex.com/t/856975",
         "date": "2022-06-02"
-      },
-      {
-        "title": "基于 Draw.io 画了个好看的单页双栏简历模板",
-        "link": "https://www.v2ex.com/t/856974",
-        "date": "2022-06-02"
-      },
-      {
-        "title": "吐槽一下巨量引擎，巨量引擎开放平台的授权页面是淘宝买的么",
-        "link": "https://www.v2ex.com/t/856973",
-        "date": "2022-06-02"
-      },
-      {
-        "title": "如何让被 Nginx 代理的后端接收到真正的服务器 IP？",
-        "link": "https://www.v2ex.com/t/856971",
-        "date": "2022-06-02"
-      },
-      {
-        "title": "(Android)自己编的一个第三方 apk，求问怎么在 activity 中用 root 或 shell 用户的权限执行 Linux 命令",
-        "link": "https://www.v2ex.com/t/856969",
-        "date": "2022-06-02"
       }
     ]
   },
@@ -10312,6 +10312,11 @@
         "date": "2022-06-02"
       },
       {
+        "title": "每个专业软件开发人员必须精通的5个事项",
+        "link": "https://toutiao.io/k/g7o19kb",
+        "date": "2022-06-02"
+      },
+      {
         "title": "Go Error 处理最佳实践",
         "link": "https://toutiao.io/k/pm6csan",
         "date": "2022-06-02"
@@ -10324,11 +10329,6 @@
       {
         "title": "【网易云音乐首发】一站式字高修复解决方案正式揭秘",
         "link": "https://toutiao.io/k/y1xzf7f",
-        "date": "2022-06-02"
-      },
-      {
-        "title": "每个专业软件开发人员必须精通的5个事项",
-        "link": "https://toutiao.io/k/g7o19kb",
         "date": "2022-06-02"
       },
       {
@@ -10347,6 +10347,11 @@
         "date": "2022-06-02"
       },
       {
+        "title": "一文快速入门分库分表中间件 Sharding-JDBC （必修课）",
+        "link": "https://toutiao.io/k/559s1d3",
+        "date": "2022-06-02"
+      },
+      {
         "title": "快端午了，用Python画一盘粽子送给你",
         "link": "https://toutiao.io/k/k71urkc",
         "date": "2022-06-02"
@@ -10359,11 +10364,6 @@
       {
         "title": "开源项目千千万，如何发现好项目",
         "link": "https://toutiao.io/k/inglosa",
-        "date": "2022-06-02"
-      },
-      {
-        "title": "一文快速入门分库分表中间件 Sharding-JDBC （必修课）",
-        "link": "https://toutiao.io/k/559s1d3",
         "date": "2022-06-02"
       },
       {
@@ -10382,18 +10382,8 @@
         "date": "2022-06-02"
       },
       {
-        "title": "[推荐] 不可错过的程序员续命科技",
-        "link": "https://toutiao.io/k/wooq1pu",
-        "date": "2022-06-02"
-      },
-      {
-        "title": "[推荐] 关于技术能力的思考和总结",
-        "link": "https://toutiao.io/k/jo2jtja",
-        "date": "2022-06-02"
-      },
-      {
-        "title": "[推荐] 聊聊接口设计的36个小技巧",
-        "link": "https://toutiao.io/k/yqm776v",
+        "title": "[推荐] 如何画好一张架构图？",
+        "link": "https://toutiao.io/k/bu1pi73",
         "date": "2022-06-02"
       },
       {
@@ -10402,8 +10392,18 @@
         "date": "2022-06-02"
       },
       {
-        "title": "[推荐] 如何画好一张架构图？",
-        "link": "https://toutiao.io/k/bu1pi73",
+        "title": "[推荐] 聊聊接口设计的36个小技巧",
+        "link": "https://toutiao.io/k/yqm776v",
+        "date": "2022-06-02"
+      },
+      {
+        "title": "[推荐] 关于技术能力的思考和总结",
+        "link": "https://toutiao.io/k/jo2jtja",
+        "date": "2022-06-02"
+      },
+      {
+        "title": "[推荐] 不可错过的程序员续命科技",
+        "link": "https://toutiao.io/k/wooq1pu",
         "date": "2022-06-02"
       }
     ]

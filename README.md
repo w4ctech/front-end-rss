@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-06-02 11:39:27，:rocket: 更新条数: +2034， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-06-02 12:28:23，:rocket: 更新条数: +2034， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,10 @@
 </summary>
 
 
+- [2022-06-02-亚马逊上买的电子书如何下载到本地？没有-kindle-设备只有-kindle-软件，求教程](https://www.v2ex.com/t/857024) ![](assets/new.png)  
+- [2022-06-02-Java-开发，惠普战-x-怎么样？](https://www.v2ex.com/t/857022) ![](assets/new.png)  
+- [2022-06-02-求助：-v2-的大佬能帮忙看看这个家庭网络软路由不能-ping-通的问题嘛](https://www.v2ex.com/t/857021) ![](assets/new.png)  
+- [2022-06-02-中国区-Kindle-商店将关闭](https://www.v2ex.com/t/857020) ![](assets/new.png)  
 - [2022-06-02-趁着今天工作摸鱼时间，用-vue3-写了本二次元社区的后台管理系统~](https://www.v2ex.com/t/857018) ![](assets/new.png)  
 - [2022-06-02-突然发现不讲「嘿-Siri」，讲「哎-Siri」也行，这更符合中国人的表达习惯。](https://www.v2ex.com/t/857017) ![](assets/new.png)  
 - [2022-06-02-clickhouse-的一个报错求解](https://www.v2ex.com/t/857016) ![](assets/new.png)  
@@ -507,10 +511,6 @@
 - [2022-06-02-.NET-MAUI-6-正式-GA，-maui-vs-flutter-选哪个？](https://www.v2ex.com/t/857003) ![](assets/new.png)  
 - [2022-06-02-安排一个新手机还是修一下现在这个](https://www.v2ex.com/t/857002) ![](assets/new.png)  
 - [2022-06-02-求助，罗技-Options-蓝牙连接-mx-master2s-鼠标，会自动唤醒-Mac-的屏幕！](https://www.v2ex.com/t/857001) ![](assets/new.png)  
-- [2022-06-02-Apple-在线商店买不了-Mac-了吗？](https://www.v2ex.com/t/857000) ![](assets/new.png)  
-- [2022-06-02-关于深圳电子消费补贴的疑虑](https://www.v2ex.com/t/856999) ![](assets/new.png)  
-- [2022-06-02-没搞懂-HTTP-请求的安全验证，求指导！](https://www.v2ex.com/t/856998) ![](assets/new.png)  
-- [2022-06-02-有没有入手-Vivo-watch2-手表的，体验如何？](https://www.v2ex.com/t/856997) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -559,17 +559,17 @@
 - [2022-06-02-深入理解-ELK-中-Logstash-的底层原理-+-填坑指南](https://toutiao.io/k/gjx29io) ![](assets/new.png)  
 - [2022-06-02-一文概览-NLP-算法（Python）](https://toutiao.io/k/jbwk2nr) ![](assets/new.png)  
 - [2022-06-02-Prometheus最香？大型银行用Zabbix做监控也杠杠的！](https://toutiao.io/k/a14i6uz) ![](assets/new.png)  
+- [2022-06-02-每个专业软件开发人员必须精通的5个事项](https://toutiao.io/k/g7o19kb) ![](assets/new.png)  
 - [2022-06-02-Go-Error-处理最佳实践](https://toutiao.io/k/pm6csan) ![](assets/new.png)  
 - [2022-06-02-博文推荐｜Apache-Pulsar-客户端应用程序最佳实践](https://toutiao.io/k/eym229v) ![](assets/new.png)  
 - [2022-06-02-【网易云音乐首发】一站式字高修复解决方案正式揭秘](https://toutiao.io/k/y1xzf7f) ![](assets/new.png)  
-- [2022-06-02-每个专业软件开发人员必须精通的5个事项](https://toutiao.io/k/g7o19kb) ![](assets/new.png)  
 - [2022-06-02-书单-|-5月，这10本上榜新书带你打开新世界的大门！](https://toutiao.io/k/dbiselh) ![](assets/new.png)  
 - [2022-06-02-并发渲染优化：让文件树的渲染又快又稳](https://toutiao.io/k/c2wbkal) ![](assets/new.png)  
 - [2022-06-02-Microsoft-Office-Word-Rce-复现](https://toutiao.io/k/wh7kl7p) ![](assets/new.png)  
+- [2022-06-02-一文快速入门分库分表中间件-Sharding-JDBC-（必修课）](https://toutiao.io/k/559s1d3) ![](assets/new.png)  
 - [2022-06-02-快端午了，用Python画一盘粽子送给你](https://toutiao.io/k/k71urkc) ![](assets/new.png)  
 - [2022-06-02-如何看待-Dapr、Layotto-这种多运行时架构？](https://toutiao.io/k/w1vrd1p) ![](assets/new.png)  
 - [2022-06-02-开源项目千千万，如何发现好项目](https://toutiao.io/k/inglosa) ![](assets/new.png)  
-- [2022-06-02-一文快速入门分库分表中间件-Sharding-JDBC-（必修课）](https://toutiao.io/k/559s1d3) ![](assets/new.png)  
 - [2022-06-02-【图片+代码】：Linux-动态链接过程中的【重定位】底层原理](https://toutiao.io/k/fvt9vl0) ![](assets/new.png)  
 - [2022-06-02-自动化验收测试](https://toutiao.io/k/jjkqjr1) ![](assets/new.png)  
 - [2022-06-02-Go-为什么要设计-iota-常量？](https://toutiao.io/k/avablfe) ![](assets/new.png)  

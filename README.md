@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-06-03 08:43:22，:rocket: 更新条数: +2025， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-06-03 09:15:06，:rocket: 更新条数: +2025， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,11 @@
 </summary>
 
 
+- [2022-06-03-马克丁的-CrossOver-21-降价了](https://www.v2ex.com/t/857143) ![](assets/new.png)  
+- [2022-06-03-报警太多又不想漏掉关键报警消息，有什么解决思路或者办法](https://www.v2ex.com/t/857142) ![](assets/new.png)  
+- [2022-06-03-你们真的觉得-kindle-好用吗](https://www.v2ex.com/t/857141) ![](assets/new.png)  
+- [2022-06-03-微信读书的想法是不能修改的吗？](https://www.v2ex.com/t/857139) ![](assets/new.png)  
+- [2022-06-03-可以用什么词语来代表台式机和笔记本电脑](https://www.v2ex.com/t/857138) ![](assets/new.png)  
 - [2022-06-03-楼道邻居太不讲卫生了](https://www.v2ex.com/t/857137) ![](assets/new.png)  
 - [2022-06-03-手贱删掉了-WSL2，原来的文件咋找回来](https://www.v2ex.com/t/857136) ![](assets/new.png)  
 - [2022-06-03-笔记本连显示器切换到-4K120HZ-色彩会变灰一点点](https://www.v2ex.com/t/857135) ![](assets/new.png)  
@@ -506,11 +511,6 @@
 - [2022-06-03-mac-下代理软件的选择](https://www.v2ex.com/t/857123) ![](assets/new.png)  
 - [2022-06-03-求助一个-shell-脚本和-alfred-表现不一样的问题](https://www.v2ex.com/t/857122) ![](assets/new.png)  
 - [2022-06-03-请问有海外市场运营与推广经验的小伙伴吗？](https://www.v2ex.com/t/857121) ![](assets/new.png)  
-- [2022-06-03-很纠结项目重构要不要上-vue3](https://www.v2ex.com/t/857117) ![](assets/new.png)  
-- [2022-06-03-吐槽下淘宝](https://www.v2ex.com/t/857116) ![](assets/new.png)  
-- [2022-06-03-脱离系统的应用设想-实现客户软件部署前安装这个软件，-后续可以将部署过的内容转移](https://www.v2ex.com/t/857114) ![](assets/new.png)  
-- [2022-06-03-Alfred-5-Early-Access:-Coming-Soon](https://www.v2ex.com/t/857113) ![](assets/new.png)  
-- [2022-06-03-Chrome-如何安全降级？](https://www.v2ex.com/t/857112) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -570,8 +570,8 @@
 - [2022-06-03-推荐-不可错过的程序员续命科技](https://toutiao.io/k/wooq1pu) ![](assets/new.png)  
 - [2022-06-03-推荐-聊聊接口设计的36个小技巧](https://toutiao.io/k/yqm776v) ![](assets/new.png)  
 - [2022-06-03-推荐-关于技术能力的思考和总结](https://toutiao.io/k/jo2jtja) ![](assets/new.png)  
-- [2022-06-03-推荐-如何画好一张架构图？](https://toutiao.io/k/bu1pi73) ![](assets/new.png)  
 - [2022-06-03-推荐-阿里10年沉淀｜那些技术实战中的架构设计方法](https://toutiao.io/k/e9vlh55) ![](assets/new.png)  
+- [2022-06-03-推荐-如何画好一张架构图？](https://toutiao.io/k/bu1pi73) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

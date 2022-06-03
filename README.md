@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-06-03 05:13:50，:rocket: 更新条数: +2027， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-06-03 05:38:05，:rocket: 更新条数: +2027， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,9 @@
 </summary>
 
 
+- [2022-06-03-Chrome-如何安全降级？](https://www.v2ex.com/t/857112) ![](assets/new.png)  
+- [2022-06-03-求助浙江移动-ipv6-获取的一些问题](https://www.v2ex.com/t/857111) ![](assets/new.png)  
+- [2022-06-03-Safari-最垃圾浏览器？我觉得是](https://www.v2ex.com/t/857110) ![](assets/new.png)  
 - [2022-06-03-本地-HTML-帮助文件用到-iframe-只能-IE-打开不能-Chrome-打开如何解决？](https://www.v2ex.com/t/857109) ![](assets/new.png)  
 - [2022-06-03-阿福第五版-要来了](https://www.v2ex.com/t/857108) ![](assets/new.png)  
 - [2022-06-03-社招-/-杭州-「20K--40K」老虎集团-TIGER-ESOP-Java-后端/前端/产品经理/测试开发-部门直招-&-流程极快](https://www.v2ex.com/t/857107) ![](assets/new.png)  
@@ -508,9 +511,6 @@
 - [2022-06-03-Obsidian-如何指定贴入图片的路径，文件格式等？](https://www.v2ex.com/t/857091) ![](assets/new.png)  
 - [2022-06-03-回应-大家评价一下这个-UP-的行为，我不知道该如何定义这种行为。](https://www.v2ex.com/t/857090) ![](assets/new.png)  
 - [2022-06-03-有付费共享高德-api-的吗](https://www.v2ex.com/t/857089) ![](assets/new.png)  
-- [2022-06-03-办了一张中行-visa-单标卡，但还是不能在-google-play-支付](https://www.v2ex.com/t/857088) ![](assets/new.png)  
-- [2022-06-03-分享两个比较好用的命令行快捷键](https://www.v2ex.com/t/857087) ![](assets/new.png)  
-- [2022-06-03-之前美区-PayPal-绑定的是美国朋友的手机号，现在想换成自己办的美国手机号，更换的时候提示不支持咋办？](https://www.v2ex.com/t/857086) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -567,11 +567,11 @@
 - [2022-06-03-火遍全网的AI给老照片上色，这里有一份详细教程！](https://toutiao.io/k/tzvpcau) ![](assets/new.png)  
 - [2022-06-03-彻底搞懂什么是XDR，看完这7个问题就够了](https://toutiao.io/k/rs1d7qa) ![](assets/new.png)  
 - [2022-06-03-Android对so体积优化的探索与实践](https://toutiao.io/k/uvg3f8m) ![](assets/new.png)  
-- [2022-06-03-推荐-关于技术能力的思考和总结](https://toutiao.io/k/jo2jtja) ![](assets/new.png)  
-- [2022-06-03-推荐-如何画好一张架构图？](https://toutiao.io/k/bu1pi73) ![](assets/new.png)  
 - [2022-06-03-推荐-阿里10年沉淀｜那些技术实战中的架构设计方法](https://toutiao.io/k/e9vlh55) ![](assets/new.png)  
+- [2022-06-03-推荐-关于技术能力的思考和总结](https://toutiao.io/k/jo2jtja) ![](assets/new.png)  
 - [2022-06-03-推荐-聊聊接口设计的36个小技巧](https://toutiao.io/k/yqm776v) ![](assets/new.png)  
 - [2022-06-03-推荐-不可错过的程序员续命科技](https://toutiao.io/k/wooq1pu) ![](assets/new.png)  
+- [2022-06-03-推荐-如何画好一张架构图？](https://toutiao.io/k/bu1pi73) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

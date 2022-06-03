@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-06-03 22:13:49。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-06-03 22:38:47。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -335,7 +335,6 @@
 
 
 - [【V2EX】如何评价某-YouTuber-利用-GitHub-Actions-进行挖矿并封号](https://www.v2ex.com/t/857167)
-- [【V2EX】疑问：为什么-Github-组织管理者可以删除组员在组织内创建的仓库？](https://www.v2ex.com/t/857151)
 - [......【查看更多】......](./details/tags/git-svn.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

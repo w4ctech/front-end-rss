@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-06-03 22:13:49，:rocket: 更新条数: +2023， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-06-03 22:38:47，:rocket: 更新条数: +2022， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -567,10 +567,10 @@
 - [2022-06-03-软件开发人员面对工期压力的正确打开方式](https://toutiao.io/k/s06707n) ![](assets/new.png)  
 - [2022-06-03-火遍全网的AI给老照片上色，这里有一份详细教程！](https://toutiao.io/k/tzvpcau) ![](assets/new.png)  
 - [2022-06-03-Android对so体积优化的探索与实践](https://toutiao.io/k/uvg3f8m) ![](assets/new.png)  
+- [2022-06-03-推荐-聊聊接口设计的36个小技巧](https://toutiao.io/k/yqm776v) ![](assets/new.png)  
 - [2022-06-03-推荐-阿里10年沉淀｜那些技术实战中的架构设计方法](https://toutiao.io/k/e9vlh55) ![](assets/new.png)  
 - [2022-06-03-推荐-关于技术能力的思考和总结](https://toutiao.io/k/jo2jtja) ![](assets/new.png)  
 - [2022-06-03-推荐-不可错过的程序员续命科技](https://toutiao.io/k/wooq1pu) ![](assets/new.png)  
-- [2022-06-03-推荐-聊聊接口设计的36个小技巧](https://toutiao.io/k/yqm776v) ![](assets/new.png)  
 - [2022-06-03-推荐-架构师成长路线图](https://toutiao.io/k/27b6p2e) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

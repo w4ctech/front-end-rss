@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-06-03 02:50:56，:rocket: 更新条数: +2027， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-06-03 03:43:04，:rocket: 更新条数: +2026， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,13 @@
 </summary>
 
 
+- [2022-06-03-mac-studio-的-24-核显，-32-核显会影响到外接显示器的数量吗？](https://www.v2ex.com/t/857096) ![](assets/new.png)  
+- [2022-06-03-socat-转发-TLS-流量如何附带上客户端-IP？](https://www.v2ex.com/t/857093) ![](assets/new.png)  
+- [2022-06-03-Obsidian-如何指定贴入图片的路径，文件格式等？](https://www.v2ex.com/t/857091) ![](assets/new.png)  
+- [2022-06-03-回应-大家评价一下这个-UP-的行为，我不知道该如何定义这种行为。](https://www.v2ex.com/t/857090) ![](assets/new.png)  
+- [2022-06-03-有付费共享高德-api-的吗](https://www.v2ex.com/t/857089) ![](assets/new.png)  
+- [2022-06-03-办了一张中行-visa-单标卡，但还是不能在-google-play-支付](https://www.v2ex.com/t/857088) ![](assets/new.png)  
+- [2022-06-03-分享两个比较好用的命令行快捷键](https://www.v2ex.com/t/857087) ![](assets/new.png)  
 - [2022-06-03-之前美区-PayPal-绑定的是美国朋友的手机号，现在想换成自己办的美国手机号，更换的时候提示不支持咋办？](https://www.v2ex.com/t/857086) ![](assets/new.png)  
 - [2022-06-03-iOS-节假日日历支持显示放假日和补工作日了](https://www.v2ex.com/t/857085) ![](assets/new.png)  
 - [2022-06-03-关于-SwiftUI-的-MVVM](https://www.v2ex.com/t/857084) ![](assets/new.png)  
@@ -504,13 +511,6 @@
 - [2022-06-03-通过-Bash-Shell-截取字符串进行字幕文件的批量重命名方便加载字幕](https://www.v2ex.com/t/857075) ![](assets/new.png)  
 - [2022-06-03-找合租室友，福田上沙地铁-A-口，电梯房-10-楼](https://www.v2ex.com/t/857074) ![](assets/new.png)  
 - [2022-06-03-骚操作接踵而至，腾讯真有你的！](https://www.v2ex.com/t/857072) ![](assets/new.png)  
-- [2022-06-03-mbp-待机功耗有多大？能真正的休眠么？](https://www.v2ex.com/t/857071) ![](assets/new.png)  
-- [2022-06-03-说实话这次-kindle-退出中国我觉得亚马逊做的不厚道](https://www.v2ex.com/t/857070) ![](assets/new.png)  
-- [2022-06-03-之前有人推荐了个提供免费订阅地址的-App，不知道有没有人用过，靠不靠谱](https://www.v2ex.com/t/857068) ![](assets/new.png)  
-- [2022-06-02-身边结婚的妹子，男方普遍是家境好但是长得普通，那上学时的帅哥都和谁结婚了？](https://www.v2ex.com/t/857067) ![](assets/new.png)  
-- [2022-06-02-请问蚊香液的电蚊香器，有没有那种支持插在平躺的插座上的？](https://www.v2ex.com/t/857066) ![](assets/new.png)  
-- [2022-06-02-实习生拿着公司电脑跑路了，咋解决呢？](https://www.v2ex.com/t/857065) ![](assets/new.png)  
-- [2022-06-02-使用苹果电脑而又不用鼠标的筒子们，你们惯性下双手是如何摆放的](https://www.v2ex.com/t/857064) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -556,22 +556,22 @@
 - [2022-06-03-欢迎加入读者圈子，一起交流！](https://toutiao.io/k/mtrqmru) ![](assets/new.png)  
 - [2022-06-03-我做Go项目的一些实战经验](https://toutiao.io/k/n4zn8vb) ![](assets/new.png)  
 - [2022-06-03-页面可视化搭建工具前生今世](https://toutiao.io/k/8arwx3r) ![](assets/new.png)  
-- [2022-06-03-十年编程，我意识到除了给客户带来价值外，没有什么是真正重要的](https://toutiao.io/k/57ytcg4) ![](assets/new.png)  
 - [2022-06-03-千万级数据查询：CK、ES、RediSearch怎么选?](https://toutiao.io/k/dgpcl68) ![](assets/new.png)  
+- [2022-06-03-十年编程，我意识到除了给客户带来价值外，没有什么是真正重要的](https://toutiao.io/k/57ytcg4) ![](assets/new.png)  
 - [2022-06-03-Kubernetes-网络插件-Calico-完全运维指南](https://toutiao.io/k/a12kiei) ![](assets/new.png)  
 - [2022-06-03-你确定在提交-Spark-任务时，不优化下-Spark-submit-参数吗？](https://toutiao.io/k/e0xesia) ![](assets/new.png)  
-- [2022-06-03-Android对so体积优化的探索与实践](https://toutiao.io/k/uvg3f8m) ![](assets/new.png)  
 - [2022-06-03-如何构建团队内的反馈氛围](https://toutiao.io/k/541k3jq) ![](assets/new.png)  
 - [2022-06-03-我开源的软件只能我拿来赚钱](https://toutiao.io/k/k1lt4jo) ![](assets/new.png)  
+- [2022-06-03-Android对so体积优化的探索与实践](https://toutiao.io/k/uvg3f8m) ![](assets/new.png)  
 - [2022-06-03-干货-|-字节跳动一站式数据治理解决方案及平台架构](https://toutiao.io/k/6w4qf2c) ![](assets/new.png)  
 - [2022-06-03-软件开发人员面对工期压力的正确打开方式](https://toutiao.io/k/s06707n) ![](assets/new.png)  
 - [2022-06-03-火遍全网的AI给老照片上色，这里有一份详细教程！](https://toutiao.io/k/tzvpcau) ![](assets/new.png)  
 - [2022-06-03-彻底搞懂什么是XDR，看完这7个问题就够了](https://toutiao.io/k/rs1d7qa) ![](assets/new.png)  
-- [2022-06-03-推荐-聊聊接口设计的36个小技巧](https://toutiao.io/k/yqm776v) ![](assets/new.png)  
-- [2022-06-03-推荐-关于技术能力的思考和总结](https://toutiao.io/k/jo2jtja) ![](assets/new.png)  
+- [2022-06-03-推荐-如何画好一张架构图？](https://toutiao.io/k/bu1pi73) ![](assets/new.png)  
 - [2022-06-03-推荐-阿里10年沉淀｜那些技术实战中的架构设计方法](https://toutiao.io/k/e9vlh55) ![](assets/new.png)  
 - [2022-06-03-推荐-不可错过的程序员续命科技](https://toutiao.io/k/wooq1pu) ![](assets/new.png)  
-- [2022-06-03-推荐-如何画好一张架构图？](https://toutiao.io/k/bu1pi73) ![](assets/new.png)  
+- [2022-06-03-推荐-聊聊接口设计的36个小技巧](https://toutiao.io/k/yqm776v) ![](assets/new.png)  
+- [2022-06-03-推荐-关于技术能力的思考和总结](https://toutiao.io/k/jo2jtja) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

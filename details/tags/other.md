@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-06-03 07:37:31。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-06-03 08:16:31。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1912,6 +1912,7 @@
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2022-03-21-ascent-override-descent-override-line-gap-override一锅端](https://www.zhangxinxu.com/wordpress/2022/03/css-ascent-override-descent/) 
+- [2022-06-03-请前辈们就我目前的情况提点建议](https://www.v2ex.com/t/857133) 
 - [2022-06-03-突然有些冒出头的新想法。](https://www.v2ex.com/t/857131) 
 - [2022-06-03-电丸科技在油管搜索不到了](https://www.v2ex.com/t/857130) 
 - [2022-06-03-内推-北京/深圳/成都「字节跳动---智能创作」招高级前端开发含实习,](https://www.v2ex.com/t/857126) 
@@ -1957,8 +1958,8 @@
 - [2022-06-03-MySQL-云数据库物理备份本地恢复方案-soulteary.com](https://blogread.cn/news/go.php?idItem=15104&url=https%3A%2F%2Fsoulteary.com%2F2021%2F10%2F13%2Fmysql-cloud-database-physical-backup-local-recovery-solution.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-06-03-我做Go项目的一些实战经验](https://toutiao.io/k/n4zn8vb) 
 - [2022-06-03-欢迎加入读者圈子，一起交流！](https://toutiao.io/k/mtrqmru) 
-- [2022-06-03-页面可视化搭建工具前生今世](https://toutiao.io/k/8arwx3r) 
 - [2022-06-03-十年编程，我意识到除了给客户带来价值外，没有什么是真正重要的](https://toutiao.io/k/57ytcg4) 
+- [2022-06-03-页面可视化搭建工具前生今世](https://toutiao.io/k/8arwx3r) 
 - [2022-06-03-千万级数据查询：CK、ES、RediSearch怎么选?](https://toutiao.io/k/dgpcl68) 
 - [2022-06-03-Kubernetes-网络插件-Calico-完全运维指南](https://toutiao.io/k/a12kiei) 
 - [2022-06-03-我开源的软件只能我拿来赚钱](https://toutiao.io/k/k1lt4jo) 
@@ -1966,8 +1967,8 @@
 - [2022-06-03-干货-|-字节跳动一站式数据治理解决方案及平台架构](https://toutiao.io/k/6w4qf2c) 
 - [2022-06-03-软件开发人员面对工期压力的正确打开方式](https://toutiao.io/k/s06707n) 
 - [2022-06-03-火遍全网的AI给老照片上色，这里有一份详细教程！](https://toutiao.io/k/tzvpcau) 
-- [2022-06-03-推荐-关于技术能力的思考和总结](https://toutiao.io/k/jo2jtja) 
 - [2022-06-03-推荐-如何画好一张架构图？](https://toutiao.io/k/bu1pi73) 
-- [2022-06-03-推荐-阿里10年沉淀｜那些技术实战中的架构设计方法](https://toutiao.io/k/e9vlh55) 
-- [2022-06-03-推荐-不可错过的程序员续命科技](https://toutiao.io/k/wooq1pu) 
 - [2022-06-03-推荐-聊聊接口设计的36个小技巧](https://toutiao.io/k/yqm776v) 
+- [2022-06-03-推荐-不可错过的程序员续命科技](https://toutiao.io/k/wooq1pu) 
+- [2022-06-03-推荐-关于技术能力的思考和总结](https://toutiao.io/k/jo2jtja) 
+- [2022-06-03-推荐-阿里10年沉淀｜那些技术实战中的架构设计方法](https://toutiao.io/k/e9vlh55) 

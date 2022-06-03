@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-06-03 07:13:29，:rocket: 更新条数: +2031， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-06-03 07:37:31，:rocket: 更新条数: +2024， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-06-03-2022-年-5-月选购家用路由器](https://www.v2ex.com/t/857132) ![](assets/new.png)  
+- [2022-06-03-突然有些冒出头的新想法。](https://www.v2ex.com/t/857131) ![](assets/new.png)  
 - [2022-06-03-电丸科技在油管搜索不到了](https://www.v2ex.com/t/857130) ![](assets/new.png)  
 - [2022-06-03-好奇剧情式游戏数据库是怎么设计的](https://www.v2ex.com/t/857127) ![](assets/new.png)  
 - [2022-06-03-内推-北京/深圳/成都「字节跳动---智能创作」招高级前端开发含实习,](https://www.v2ex.com/t/857126) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-06-03-本地-HTML-帮助文件用到-iframe-只能-IE-打开不能-Chrome-打开如何解决？](https://www.v2ex.com/t/857109) ![](assets/new.png)  
 - [2022-06-03-阿福第五版-要来了](https://www.v2ex.com/t/857108) ![](assets/new.png)  
 - [2022-06-03-社招-/-杭州-「20K--40K」老虎集团-TIGER-ESOP-Java-后端/前端/产品经理/测试开发-部门直招-&-流程极快](https://www.v2ex.com/t/857107) ![](assets/new.png)  
-- [2022-06-03-iOS-上的-steam-令牌不能推送了，都是这样吗？](https://www.v2ex.com/t/857106) ![](assets/new.png)  
-- [2022-06-03-提问：-macOS-自带邮件应用和查找功能耗电吗？](https://www.v2ex.com/t/857105) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -559,20 +559,19 @@
 - [2022-06-03-十年编程，我意识到除了给客户带来价值外，没有什么是真正重要的](https://toutiao.io/k/57ytcg4) ![](assets/new.png)  
 - [2022-06-03-千万级数据查询：CK、ES、RediSearch怎么选?](https://toutiao.io/k/dgpcl68) ![](assets/new.png)  
 - [2022-06-03-Kubernetes-网络插件-Calico-完全运维指南](https://toutiao.io/k/a12kiei) ![](assets/new.png)  
-- [2022-06-03-你确定在提交-Spark-任务时，不优化下-Spark-submit-参数吗？](https://toutiao.io/k/e0xesia) ![](assets/new.png)  
 - [2022-06-03-如何构建团队内的反馈氛围](https://toutiao.io/k/541k3jq) ![](assets/new.png)  
+- [2022-06-03-你确定在提交-Spark-任务时，不优化下-Spark-submit-参数吗？](https://toutiao.io/k/e0xesia) ![](assets/new.png)  
 - [2022-06-03-我开源的软件只能我拿来赚钱](https://toutiao.io/k/k1lt4jo) ![](assets/new.png)  
 - [2022-06-03-彻底搞懂什么是XDR，看完这7个问题就够了](https://toutiao.io/k/rs1d7qa) ![](assets/new.png)  
 - [2022-06-03-干货-|-字节跳动一站式数据治理解决方案及平台架构](https://toutiao.io/k/6w4qf2c) ![](assets/new.png)  
 - [2022-06-03-软件开发人员面对工期压力的正确打开方式](https://toutiao.io/k/s06707n) ![](assets/new.png)  
 - [2022-06-03-火遍全网的AI给老照片上色，这里有一份详细教程！](https://toutiao.io/k/tzvpcau) ![](assets/new.png)  
 - [2022-06-03-Android对so体积优化的探索与实践](https://toutiao.io/k/uvg3f8m) ![](assets/new.png)  
-- [2022-06-03-GitOps指南](https://toutiao.io/k/8a8c9ea) ![](assets/new.png)  
-- [2022-06-03-独立开发变现周刊（第57期）：开发一个免费照片编辑器，一个人每月收入10万美元](https://toutiao.io/k/w4qt8p6) ![](assets/new.png)  
-- [2022-06-03-破茧重生！重新定义Chrome开发者工具](https://toutiao.io/k/1tz1x7l) ![](assets/new.png)  
-- [2022-06-03-一个很酷的-API-快速生成系统](https://toutiao.io/k/fxb8sc9) ![](assets/new.png)  
-- [2022-06-03-6-种实现延时消息的方案](https://toutiao.io/k/pyj98gk) ![](assets/new.png)  
-- [2022-06-03-译-为何-React-18-中-useEffect-会运行两次?](https://toutiao.io/k/72m4uc2) ![](assets/new.png)  
+- [2022-06-03-推荐-关于技术能力的思考和总结](https://toutiao.io/k/jo2jtja) ![](assets/new.png)  
+- [2022-06-03-推荐-如何画好一张架构图？](https://toutiao.io/k/bu1pi73) ![](assets/new.png)  
+- [2022-06-03-推荐-阿里10年沉淀｜那些技术实战中的架构设计方法](https://toutiao.io/k/e9vlh55) ![](assets/new.png)  
+- [2022-06-03-推荐-不可错过的程序员续命科技](https://toutiao.io/k/wooq1pu) ![](assets/new.png)  
+- [2022-06-03-推荐-聊聊接口设计的36个小技巧](https://toutiao.io/k/yqm776v) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

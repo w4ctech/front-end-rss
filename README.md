@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-06-03 06:16:50，:rocket: 更新条数: +2033， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-06-03 06:46:12，:rocket: 更新条数: +2032， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -562,17 +562,17 @@
 - [2022-06-03-你确定在提交-Spark-任务时，不优化下-Spark-submit-参数吗？](https://toutiao.io/k/e0xesia) ![](assets/new.png)  
 - [2022-06-03-如何构建团队内的反馈氛围](https://toutiao.io/k/541k3jq) ![](assets/new.png)  
 - [2022-06-03-我开源的软件只能我拿来赚钱](https://toutiao.io/k/k1lt4jo) ![](assets/new.png)  
+- [2022-06-03-彻底搞懂什么是XDR，看完这7个问题就够了](https://toutiao.io/k/rs1d7qa) ![](assets/new.png)  
 - [2022-06-03-干货-|-字节跳动一站式数据治理解决方案及平台架构](https://toutiao.io/k/6w4qf2c) ![](assets/new.png)  
 - [2022-06-03-软件开发人员面对工期压力的正确打开方式](https://toutiao.io/k/s06707n) ![](assets/new.png)  
 - [2022-06-03-火遍全网的AI给老照片上色，这里有一份详细教程！](https://toutiao.io/k/tzvpcau) ![](assets/new.png)  
-- [2022-06-03-彻底搞懂什么是XDR，看完这7个问题就够了](https://toutiao.io/k/rs1d7qa) ![](assets/new.png)  
 - [2022-06-03-Android对so体积优化的探索与实践](https://toutiao.io/k/uvg3f8m) ![](assets/new.png)  
-- [2022-06-03-独立开发变现周刊（第57期）：开发一个免费照片编辑器，一个人每月收入10万美元](https://toutiao.io/k/w4qt8p6) ![](assets/new.png)  
-- [2022-06-03-破茧重生！重新定义Chrome开发者工具](https://toutiao.io/k/1tz1x7l) ![](assets/new.png)  
 - [2022-06-03-GitOps指南](https://toutiao.io/k/8a8c9ea) ![](assets/new.png)  
+- [2022-06-03-破茧重生！重新定义Chrome开发者工具](https://toutiao.io/k/1tz1x7l) ![](assets/new.png)  
+- [2022-06-03-独立开发变现周刊（第57期）：开发一个免费照片编辑器，一个人每月收入10万美元](https://toutiao.io/k/w4qt8p6) ![](assets/new.png)  
+- [2022-06-03-6-种实现延时消息的方案](https://toutiao.io/k/pyj98gk) ![](assets/new.png)  
 - [2022-06-03-译-为何-React-18-中-useEffect-会运行两次?](https://toutiao.io/k/72m4uc2) ![](assets/new.png)  
 - [2022-06-03-一个很酷的-API-快速生成系统](https://toutiao.io/k/fxb8sc9) ![](assets/new.png)  
-- [2022-06-03-Server-Components：我们即将和-API-告别？](https://toutiao.io/k/716byzk) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

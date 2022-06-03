@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-06-03 22:38:47。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-06-03 23:03:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1966,8 +1966,8 @@
 - [2022-06-03-干货-|-字节跳动一站式数据治理解决方案及平台架构](https://toutiao.io/k/6w4qf2c) 
 - [2022-06-03-软件开发人员面对工期压力的正确打开方式](https://toutiao.io/k/s06707n) 
 - [2022-06-03-火遍全网的AI给老照片上色，这里有一份详细教程！](https://toutiao.io/k/tzvpcau) 
-- [2022-06-03-推荐-聊聊接口设计的36个小技巧](https://toutiao.io/k/yqm776v) 
-- [2022-06-03-推荐-阿里10年沉淀｜那些技术实战中的架构设计方法](https://toutiao.io/k/e9vlh55) 
 - [2022-06-03-推荐-关于技术能力的思考和总结](https://toutiao.io/k/jo2jtja) 
 - [2022-06-03-推荐-不可错过的程序员续命科技](https://toutiao.io/k/wooq1pu) 
+- [2022-06-03-推荐-聊聊接口设计的36个小技巧](https://toutiao.io/k/yqm776v) 
 - [2022-06-03-推荐-架构师成长路线图](https://toutiao.io/k/27b6p2e) 
+- [2022-06-03-推荐-阿里10年沉淀｜那些技术实战中的架构设计方法](https://toutiao.io/k/e9vlh55) 

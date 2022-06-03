@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-06-03 10:42:36，:rocket: 更新条数: +2024， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-06-03 11:12:11，:rocket: 更新条数: +2024， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-06-03-如何判断一个外置硬盘无法弹出的时候是什么进程在对它进行读写？](https://www.v2ex.com/t/857156) ![](assets/new.png)  
+- [2022-06-03-目前来说哪本汉语词典比较权威，或者说好用？](https://www.v2ex.com/t/857155) ![](assets/new.png)  
 - [2022-06-03-上海-不加班-外企-招-初中级-Java-、高级-C++、-Python-、中高级安卓](https://www.v2ex.com/t/857154) ![](assets/new.png)  
 - [2022-06-03-Setapp-车位一个](https://www.v2ex.com/t/857153) ![](assets/new.png)  
 - [2022-06-03-疑问：为什么-Github-组织管理者可以删除组员在组织内创建的仓库？](https://www.v2ex.com/t/857151) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-06-03-小某书的无水印图片下载](https://www.v2ex.com/t/857134) ![](assets/new.png)  
 - [2022-06-03-请前辈们就我目前的情况提点建议](https://www.v2ex.com/t/857133) ![](assets/new.png)  
 - [2022-06-03-2022-年-5-月选购家用路由器](https://www.v2ex.com/t/857132) ![](assets/new.png)  
-- [2022-06-03-突然有些冒出头的新想法。](https://www.v2ex.com/t/857131) ![](assets/new.png)  
-- [2022-06-03-电丸科技在油管搜索不到了](https://www.v2ex.com/t/857130) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -560,18 +560,18 @@
 - [2022-06-03-千万级数据查询：CK、ES、RediSearch怎么选?](https://toutiao.io/k/dgpcl68) ![](assets/new.png)  
 - [2022-06-03-Kubernetes-网络插件-Calico-完全运维指南](https://toutiao.io/k/a12kiei) ![](assets/new.png)  
 - [2022-06-03-如何构建团队内的反馈氛围](https://toutiao.io/k/541k3jq) ![](assets/new.png)  
-- [2022-06-03-彻底搞懂什么是XDR，看完这7个问题就够了](https://toutiao.io/k/rs1d7qa) ![](assets/new.png)  
 - [2022-06-03-我开源的软件只能我拿来赚钱](https://toutiao.io/k/k1lt4jo) ![](assets/new.png)  
+- [2022-06-03-彻底搞懂什么是XDR，看完这7个问题就够了](https://toutiao.io/k/rs1d7qa) ![](assets/new.png)  
 - [2022-06-03-你确定在提交-Spark-任务时，不优化下-Spark-submit-参数吗？](https://toutiao.io/k/e0xesia) ![](assets/new.png)  
 - [2022-06-03-干货-|-字节跳动一站式数据治理解决方案及平台架构](https://toutiao.io/k/6w4qf2c) ![](assets/new.png)  
 - [2022-06-03-软件开发人员面对工期压力的正确打开方式](https://toutiao.io/k/s06707n) ![](assets/new.png)  
 - [2022-06-03-火遍全网的AI给老照片上色，这里有一份详细教程！](https://toutiao.io/k/tzvpcau) ![](assets/new.png)  
 - [2022-06-03-Android对so体积优化的探索与实践](https://toutiao.io/k/uvg3f8m) ![](assets/new.png)  
-- [2022-06-03-推荐-阿里10年沉淀｜那些技术实战中的架构设计方法](https://toutiao.io/k/e9vlh55) ![](assets/new.png)  
+- [2022-06-03-推荐-如何画好一张架构图？](https://toutiao.io/k/bu1pi73) ![](assets/new.png)  
 - [2022-06-03-推荐-聊聊接口设计的36个小技巧](https://toutiao.io/k/yqm776v) ![](assets/new.png)  
 - [2022-06-03-推荐-关于技术能力的思考和总结](https://toutiao.io/k/jo2jtja) ![](assets/new.png)  
-- [2022-06-03-推荐-如何画好一张架构图？](https://toutiao.io/k/bu1pi73) ![](assets/new.png)  
 - [2022-06-03-推荐-不可错过的程序员续命科技](https://toutiao.io/k/wooq1pu) ![](assets/new.png)  
+- [2022-06-03-推荐-阿里10年沉淀｜那些技术实战中的架构设计方法](https://toutiao.io/k/e9vlh55) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

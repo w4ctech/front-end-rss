@@ -9953,6 +9953,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "只有 kindle app 如何导出图书",
+        "link": "https://www.v2ex.com/t/857150",
+        "date": "2022-06-03"
+      },
+      {
         "title": "SAFARI 的 ICLOUD 同步异常耗电",
         "link": "https://www.v2ex.com/t/857146",
         "date": "2022-06-03"
@@ -10146,11 +10151,6 @@
         "title": "7 年经验慢找一份远程工作，后端开发",
         "link": "https://www.v2ex.com/t/857101",
         "date": "2022-06-03"
-      },
-      {
-        "title": "记录类 app 有用吗",
-        "link": "https://www.v2ex.com/t/857099",
-        "date": "2022-06-03"
       }
     ]
   },
@@ -10302,13 +10302,13 @@
         "date": "2022-06-03"
       },
       {
-        "title": "我开源的软件只能我拿来赚钱",
-        "link": "https://toutiao.io/k/k1lt4jo",
+        "title": "彻底搞懂什么是XDR，看完这7个问题就够了",
+        "link": "https://toutiao.io/k/rs1d7qa",
         "date": "2022-06-03"
       },
       {
-        "title": "彻底搞懂什么是XDR，看完这7个问题就够了",
-        "link": "https://toutiao.io/k/rs1d7qa",
+        "title": "我开源的软件只能我拿来赚钱",
+        "link": "https://toutiao.io/k/k1lt4jo",
         "date": "2022-06-03"
       },
       {
@@ -10337,16 +10337,6 @@
         "date": "2022-06-03"
       },
       {
-        "title": "[推荐] 聊聊接口设计的36个小技巧",
-        "link": "https://toutiao.io/k/yqm776v",
-        "date": "2022-06-03"
-      },
-      {
-        "title": "[推荐] 不可错过的程序员续命科技",
-        "link": "https://toutiao.io/k/wooq1pu",
-        "date": "2022-06-03"
-      },
-      {
         "title": "[推荐] 如何画好一张架构图？",
         "link": "https://toutiao.io/k/bu1pi73",
         "date": "2022-06-03"
@@ -10357,8 +10347,18 @@
         "date": "2022-06-03"
       },
       {
+        "title": "[推荐] 聊聊接口设计的36个小技巧",
+        "link": "https://toutiao.io/k/yqm776v",
+        "date": "2022-06-03"
+      },
+      {
         "title": "[推荐] 关于技术能力的思考和总结",
         "link": "https://toutiao.io/k/jo2jtja",
+        "date": "2022-06-03"
+      },
+      {
+        "title": "[推荐] 不可错过的程序员续命科技",
+        "link": "https://toutiao.io/k/wooq1pu",
         "date": "2022-06-03"
       }
     ]

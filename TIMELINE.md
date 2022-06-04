@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-06-04 03:38:25。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-06-04 04:16:03。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,10 @@
 </summary>
 
 
+- [【V2EX】2022-06-04-都说电信的宽带好，今天才发现被电信骗了](https://www.v2ex.com/t/857227) 
+- [【V2EX】2022-06-04-如何解答](https://www.v2ex.com/t/857225) 
+- [【V2EX】2022-06-04-深圳全职25K-45K-硅谷创业公司-Covariant-寻找运维/DevOps-工程师](https://www.v2ex.com/t/857224) 
+- [【V2EX】2022-06-04-京东下单了-apple-tv-2021-款-32G-的-想问一下大家-32G-够用吗？](https://www.v2ex.com/t/857223) 
 - [【V2EX】2022-06-04-只有-Git-Bash-无法登录-Coding-是什么情况](https://www.v2ex.com/t/857221) 
 - [【V2EX】2022-06-04-超过-30-岁戴小米手环会不会显得幼稚？](https://www.v2ex.com/t/857218) 
 - [【V2EX】2022-06-04-换新-mac-大家是重新装软件手动迁移，还是直接用时间机器迁移？-intel→m1，想省事直接迁移，但是担心有小问题，毕竟处理器完全不一样了](https://www.v2ex.com/t/857217) 
@@ -100,13 +104,6 @@
 - [【V2EX】2022-06-03-今天修改了-kamatera-绑定的支付信用卡被扣-1.59-美元](https://www.v2ex.com/t/857182) 
 - [【V2EX】2022-06-03-弱弱的问下，怎么样远程控制能不影响对方正常使用？](https://www.v2ex.com/t/857181) 
 - [【V2EX】2022-06-03-疏忽了-終於解決了長久以來的-WireGuard-伺服器速度問題](https://www.v2ex.com/t/857180) 
-- [【V2EX】2022-06-03-华为-rh2285-v2-服务器能入吗](https://www.v2ex.com/t/857178) 
-- [【V2EX】2022-06-03-扫描版-PDF-使用-OCR-软件转换成可复制版本的-PDF-之后，如何再转换成-epub-等移动设备可阅读的版本？](https://www.v2ex.com/t/857177) 
-- [【V2EX】2022-06-03-想整合分布在不同机器上的应用程序，该怎么办呢？是否只有-esxi-7.0-一个办法呢？](https://www.v2ex.com/t/857176) 
-- [【V2EX】2022-06-03-现在是不是中国移动的宽带网络开始屏蔽外网访问了？](https://www.v2ex.com/t/857175) 
-- [【V2EX】2022-06-03-618-的苹果-13p-这价格值得入手吗，纠结-13-和-13p](https://www.v2ex.com/t/857174) 
-- [【V2EX】2022-06-03-请问有靠谱的免费放-Python-pip-私有源的地方么](https://www.v2ex.com/t/857173) 
-- [【V2EX】2022-06-03-刚-v-站，是不是-挂了！](https://www.v2ex.com/t/857172) 
 - [【技术头条】2022-06-04-4个Python编程游戏网站，玩嗨了~-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15120&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494149%26amp%3Bidx%3D1%26amp%3Bsn%3D7525aafe254b1a8017fee638cc5f3340%26amp%3Bchksm%3Dfa3f0b5ecd4882481060c4ccceff14d66ac9348089028ca145d07a17dbd153e46155fb2e0138%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-06-04-iOS15如何让App启动更快？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15119&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494149%26amp%3Bidx%3D2%26amp%3Bsn%3Df78c229c1bf42fa5bc19b137bd01b4ca%26amp%3Bchksm%3Dfa3f0b5ecd488248750c26ccb7cb86220a416c2657619abefdc9475ddfecf496d91dbbf2dd3d%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-06-04-一款开源OA办公自动化系统-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15118&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494148%26amp%3Bidx%3D1%26amp%3Bsn%3Dc409296967c2c443ac34619a0df1024c%26amp%3Bchksm%3Dfa3f0b5fcd488249ccc9d3a2ae116d0f7e4bd8ff1a35651088cf2ba4eed0a128e473660fdeb3%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -134,10 +131,10 @@
 - [【开发者头条】2022-06-04-译-为何-React-18-中-useEffect-会运行两次?](https://toutiao.io/k/72m4uc2) 
 - [【开发者头条】2022-06-04-独立开发变现周刊（第57期）：开发一个免费照片编辑器，一个人每月收入10万美元](https://toutiao.io/k/w4qt8p6) 
 - [【开发者头条】2022-06-04-Server-Components：我们即将和-API-告别？](https://toutiao.io/k/716byzk) 
+- [【开发者头条】2022-06-04-推荐-阿里10年沉淀｜那些技术实战中的架构设计方法](https://toutiao.io/k/e9vlh55) 
+- [【开发者头条】2022-06-04-推荐-关于技术能力的思考和总结](https://toutiao.io/k/jo2jtja) 
 - [【开发者头条】2022-06-04-推荐-聊聊接口设计的36个小技巧](https://toutiao.io/k/yqm776v) 
 - [【开发者头条】2022-06-04-推荐-架构师成长路线图](https://toutiao.io/k/27b6p2e) 
-- [【开发者头条】2022-06-04-推荐-关于技术能力的思考和总结](https://toutiao.io/k/jo2jtja) 
-- [【开发者头条】2022-06-04-推荐-阿里10年沉淀｜那些技术实战中的架构设计方法](https://toutiao.io/k/e9vlh55) 
 - [【开发者头条】2022-06-04-推荐-不可错过的程序员续命科技](https://toutiao.io/k/wooq1pu) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>

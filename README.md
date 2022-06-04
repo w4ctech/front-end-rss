@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-06-04 03:38:25，:rocket: 更新条数: +2017， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-06-04 04:16:03，:rocket: 更新条数: +2014， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,10 @@
 </summary>
 
 
+- [2022-06-04-都说电信的宽带好，今天才发现被电信骗了](https://www.v2ex.com/t/857227) ![](assets/new.png)  
+- [2022-06-04-如何解答](https://www.v2ex.com/t/857225) ![](assets/new.png)  
+- [2022-06-04-深圳全职25K-45K-硅谷创业公司-Covariant-寻找运维/DevOps-工程师](https://www.v2ex.com/t/857224) ![](assets/new.png)  
+- [2022-06-04-京东下单了-apple-tv-2021-款-32G-的-想问一下大家-32G-够用吗？](https://www.v2ex.com/t/857223) ![](assets/new.png)  
 - [2022-06-04-只有-Git-Bash-无法登录-Coding-是什么情况](https://www.v2ex.com/t/857221) ![](assets/new.png)  
 - [2022-06-04-超过-30-岁戴小米手环会不会显得幼稚？](https://www.v2ex.com/t/857218) ![](assets/new.png)  
 - [2022-06-04-换新-mac-大家是重新装软件手动迁移，还是直接用时间机器迁移？-intel→m1，想省事直接迁移，但是担心有小问题，毕竟处理器完全不一样了](https://www.v2ex.com/t/857217) ![](assets/new.png)  
@@ -507,10 +511,6 @@
 - [2022-06-03-2022-年的当下-iCloud-作为工作存储和同步盘靠谱吗](https://www.v2ex.com/t/857203) ![](assets/new.png)  
 - [2022-06-03-为啥同一节点-ios-YouTube-客户端和网页端速度差了五六倍](https://www.v2ex.com/t/857200) ![](assets/new.png)  
 - [2022-06-03-好烫手、应该没多少人-mbp-比我老的把](https://www.v2ex.com/t/857199) ![](assets/new.png)  
-- [2022-06-03-联通宽带-IPV6-路由追踪不通应该是运营商问题吧？](https://www.v2ex.com/t/857198) ![](assets/new.png)  
-- [2022-06-03-go-语言有没有线程安全的数据类型？](https://www.v2ex.com/t/857197) ![](assets/new.png)  
-- [2022-06-03-itext5-将-HTML-生成-pdf，使用平方字体后中文不显示，应该怎么处理呢](https://www.v2ex.com/t/857196) ![](assets/new.png)  
-- [2022-06-03-群晖上的百度网盘还是不能用？](https://www.v2ex.com/t/857195) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -560,10 +560,10 @@
 - [2022-06-04-译-为何-React-18-中-useEffect-会运行两次?](https://toutiao.io/k/72m4uc2) ![](assets/new.png)  
 - [2022-06-04-独立开发变现周刊（第57期）：开发一个免费照片编辑器，一个人每月收入10万美元](https://toutiao.io/k/w4qt8p6) ![](assets/new.png)  
 - [2022-06-04-Server-Components：我们即将和-API-告别？](https://toutiao.io/k/716byzk) ![](assets/new.png)  
+- [2022-06-04-推荐-阿里10年沉淀｜那些技术实战中的架构设计方法](https://toutiao.io/k/e9vlh55) ![](assets/new.png)  
+- [2022-06-04-推荐-关于技术能力的思考和总结](https://toutiao.io/k/jo2jtja) ![](assets/new.png)  
 - [2022-06-04-推荐-聊聊接口设计的36个小技巧](https://toutiao.io/k/yqm776v) ![](assets/new.png)  
 - [2022-06-04-推荐-架构师成长路线图](https://toutiao.io/k/27b6p2e) ![](assets/new.png)  
-- [2022-06-04-推荐-关于技术能力的思考和总结](https://toutiao.io/k/jo2jtja) ![](assets/new.png)  
-- [2022-06-04-推荐-阿里10年沉淀｜那些技术实战中的架构设计方法](https://toutiao.io/k/e9vlh55) ![](assets/new.png)  
 - [2022-06-04-推荐-不可错过的程序员续命科技](https://toutiao.io/k/wooq1pu) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

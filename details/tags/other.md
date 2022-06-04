@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-06-04 07:36:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-06-04 08:16:16。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1912,6 +1912,9 @@
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2022-03-21-ascent-override-descent-override-line-gap-override一锅端](https://www.zhangxinxu.com/wordpress/2022/03/css-ascent-override-descent/) 
+- [2022-06-04-今天试了下妙控键盘](https://www.v2ex.com/t/857249) 
+- [2022-06-04-一堆人信誓旦旦的说-MacBook-Air-根本不可能在-WWDC-上发布](https://www.v2ex.com/t/857248) 
+- [2022-06-04-码云的图床突然就无法使用了，是否有自动化迁移的方案？](https://www.v2ex.com/t/857247) 
 - [2022-06-04-挂式风扇挂在笔记本屏幕上好用吗？](https://www.v2ex.com/t/857245) 
 - [2022-06-04-4pin-12V-风扇可以剪掉-PWM-线改-3pin-么](https://www.v2ex.com/t/857244) 
 - [2022-06-04-Win-平台微信双开](https://www.v2ex.com/t/857243) 
@@ -1938,8 +1941,6 @@
 - [2022-06-04-为什么淘宝有卖无锁-S10-它在全球范围都没解锁](https://www.v2ex.com/t/857205) 
 - [2022-06-03-2022-年的当下-iCloud-作为工作存储和同步盘靠谱吗](https://www.v2ex.com/t/857203) 
 - [2022-06-03-为啥同一节点-ios-YouTube-客户端和网页端速度差了五六倍](https://www.v2ex.com/t/857200) 
-- [2022-06-03-好烫手、应该没多少人-mbp-比我老的把](https://www.v2ex.com/t/857199) 
-- [2022-06-03-itext5-将-HTML-生成-pdf，使用平方字体后中文不显示，应该怎么处理呢](https://www.v2ex.com/t/857196) 
 - [2022-06-04-iOS15如何让App启动更快？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15119&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494149%26amp%3Bidx%3D2%26amp%3Bsn%3Df78c229c1bf42fa5bc19b137bd01b4ca%26amp%3Bchksm%3Dfa3f0b5ecd488248750c26ccb7cb86220a416c2657619abefdc9475ddfecf496d91dbbf2dd3d%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-06-04-一款开源OA办公自动化系统-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15118&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494148%26amp%3Bidx%3D1%26amp%3Bsn%3Dc409296967c2c443ac34619a0df1024c%26amp%3Bchksm%3Dfa3f0b5fcd488249ccc9d3a2ae116d0f7e4bd8ff1a35651088cf2ba4eed0a128e473660fdeb3%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-06-04-别再用OFFSET和LIMIT分页了-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15117&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494148%26amp%3Bidx%3D2%26amp%3Bsn%3D457ac577577c945e7827566c4d076745%26amp%3Bchksm%3Dfa3f0b5fcd488249f46db6b8144c812cd84a609a309eb90a9d265226d76dce6eac73a799a723%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1958,7 +1959,7 @@
 - [2022-06-04-聊聊Twitter的架构决策](https://toutiao.io/k/bpvbwoj) 
 - [2022-06-04-网易数帆-Envoy-Gateway-实践之旅：坚守-6-年，峥嵘渐显](https://toutiao.io/k/31djbem) 
 - [2022-06-04-推荐-聊聊接口设计的36个小技巧](https://toutiao.io/k/yqm776v) 
+- [2022-06-04-推荐-阿里10年沉淀｜那些技术实战中的架构设计方法](https://toutiao.io/k/e9vlh55) 
 - [2022-06-04-推荐-架构师成长路线图](https://toutiao.io/k/27b6p2e) 
 - [2022-06-04-推荐-不可错过的程序员续命科技](https://toutiao.io/k/wooq1pu) 
 - [2022-06-04-推荐-关于技术能力的思考和总结](https://toutiao.io/k/jo2jtja) 
-- [2022-06-04-推荐-阿里10年沉淀｜那些技术实战中的架构设计方法](https://toutiao.io/k/e9vlh55) 

@@ -1,10 +1,13 @@
-:alarm_clock: 更新时间: 2022-06-04 06:16:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-06-04 06:44:06。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-06-04-我与-API7.ai-的故事](https://www.v2ex.com/t/857242) 
+- [2022-06-04-WWDC.Playground-如约而至](https://www.v2ex.com/t/857240) 
+- [2022-06-04-读不懂官方文档怎么改变下](https://www.v2ex.com/t/857239) 
 - [2022-06-04-MenubarX-支持：语音、视频和定位啦！🎉](https://www.v2ex.com/t/857238) 
 - [2022-06-04-请问-2019-款-MacBookPro-还有办法像-15-款那样换电池吗？](https://www.v2ex.com/t/857237) 
 - [2022-06-04-macmini-M1-重启后，-chrome-内网站登录状态全部重置](https://www.v2ex.com/t/857236) 
@@ -40,5 +43,3 @@
 - [2022-06-03-群晖上的百度网盘还是不能用？](https://www.v2ex.com/t/857195) 
 - [2022-06-03-求助：-MacBook-Pro-升级-macOS-12.4-卡在进度条了](https://www.v2ex.com/t/857194) 
 - [2022-06-03-某宝上北京联通这个-124-一个月的-1000M-宽带融合套餐有啥坑不？](https://www.v2ex.com/t/857193) 
-- [2022-06-03-6800xt-在-win11-下鼠标卡顿，换-win10-就好了---!](https://www.v2ex.com/t/857191) 
-- [2022-06-03-Python-测试pytest-入门](https://www.v2ex.com/t/857189) 

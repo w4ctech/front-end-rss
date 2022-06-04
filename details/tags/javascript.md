@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-06-04 23:13:48。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-06-04 23:39:12。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -22,4 +22,3 @@
 - [2022-06-04-h5-求助](https://www.v2ex.com/t/857298) 
 - [2022-06-04-问个比较简单的路由器的问题](https://www.v2ex.com/t/857278) 
 - [2022-06-04-近期家用设备（NUC、猫盘、路由器）散热升级记录-soulteary.com](https://blogread.cn/news/go.php?idItem=15103&url=https%3A%2F%2Fsoulteary.com%2F2021%2F10%2F14%2Frecent-heat-dissipation-upgrade-record-of-homelab.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
-- [2022-06-04-Server-Components：我们即将和-API-告别？](https://toutiao.io/k/716byzk) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-06-04 04:16:03。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-06-04 04:46:16。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1912,6 +1912,9 @@
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2022-03-21-ascent-override-descent-override-line-gap-override一锅端](https://www.zhangxinxu.com/wordpress/2022/03/css-ascent-override-descent/) 
+- [2022-06-04-ios-双开微信](https://www.v2ex.com/t/857231) 
+- [2022-06-04-请问下腾讯的域名现在是不是不让使用-CF-的解析了啊？](https://www.v2ex.com/t/857230) 
+- [2022-06-04-请问没有苹果设备是不是意味着没有办法邀请朋友加入家庭共享？](https://www.v2ex.com/t/857229) 
 - [2022-06-04-都说电信的宽带好，今天才发现被电信骗了](https://www.v2ex.com/t/857227) 
 - [2022-06-04-如何解答](https://www.v2ex.com/t/857225) 
 - [2022-06-04-深圳全职25K-45K-硅谷创业公司-Covariant-寻找运维/DevOps-工程师](https://www.v2ex.com/t/857224) 
@@ -1940,8 +1943,6 @@
 - [2022-06-03-求助：苹果全家桶书签无法正常同步，-AirDrop-也常出问题](https://www.v2ex.com/t/857184) 
 - [2022-06-03-求教，老婆一看电视，王者就-460，我需要换掉-AX3600-吗？](https://www.v2ex.com/t/857183) 
 - [2022-06-03-今天修改了-kamatera-绑定的支付信用卡被扣-1.59-美元](https://www.v2ex.com/t/857182) 
-- [2022-06-03-弱弱的问下，怎么样远程控制能不影响对方正常使用？](https://www.v2ex.com/t/857181) 
-- [2022-06-03-疏忽了-終於解決了長久以來的-WireGuard-伺服器速度問題](https://www.v2ex.com/t/857180) 
 - [2022-06-04-iOS15如何让App启动更快？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15119&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494149%26amp%3Bidx%3D2%26amp%3Bsn%3Df78c229c1bf42fa5bc19b137bd01b4ca%26amp%3Bchksm%3Dfa3f0b5ecd488248750c26ccb7cb86220a416c2657619abefdc9475ddfecf496d91dbbf2dd3d%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-06-04-一款开源OA办公自动化系统-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15118&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494148%26amp%3Bidx%3D1%26amp%3Bsn%3Dc409296967c2c443ac34619a0df1024c%26amp%3Bchksm%3Dfa3f0b5fcd488249ccc9d3a2ae116d0f7e4bd8ff1a35651088cf2ba4eed0a128e473660fdeb3%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-06-04-别再用OFFSET和LIMIT分页了-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15117&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494148%26amp%3Bidx%3D2%26amp%3Bsn%3D457ac577577c945e7827566c4d076745%26amp%3Bchksm%3Dfa3f0b5fcd488249f46db6b8144c812cd84a609a309eb90a9d265226d76dce6eac73a799a723%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1956,8 +1957,8 @@
 - [2022-06-04-欢迎加入读者圈子，一起交流！](https://toutiao.io/k/mtrqmru) 
 - [2022-06-04-优质网站同好者周刊（第-068-期）-|-倾城博客](https://toutiao.io/k/uvfvhkt) 
 - [2022-06-04-独立开发变现周刊（第57期）：开发一个免费照片编辑器，一个人每月收入10万美元](https://toutiao.io/k/w4qt8p6) 
-- [2022-06-04-推荐-阿里10年沉淀｜那些技术实战中的架构设计方法](https://toutiao.io/k/e9vlh55) 
 - [2022-06-04-推荐-关于技术能力的思考和总结](https://toutiao.io/k/jo2jtja) 
+- [2022-06-04-推荐-阿里10年沉淀｜那些技术实战中的架构设计方法](https://toutiao.io/k/e9vlh55) 
+- [2022-06-04-推荐-不可错过的程序员续命科技](https://toutiao.io/k/wooq1pu) 
 - [2022-06-04-推荐-聊聊接口设计的36个小技巧](https://toutiao.io/k/yqm776v) 
 - [2022-06-04-推荐-架构师成长路线图](https://toutiao.io/k/27b6p2e) 
-- [2022-06-04-推荐-不可错过的程序员续命科技](https://toutiao.io/k/wooq1pu) 

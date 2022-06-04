@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-06-04 05:12:54。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-06-04 05:36:44。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1939,7 +1939,6 @@
 - [2022-06-03-6800xt-在-win11-下鼠标卡顿，换-win10-就好了---!](https://www.v2ex.com/t/857191) 
 - [2022-06-03-Python-测试pytest-入门](https://www.v2ex.com/t/857189) 
 - [2022-06-03-每天压力好大，又是带孩子，又是工作](https://www.v2ex.com/t/857188) 
-- [2022-06-03-要如何循序渐进完全无障碍地和英语团队开会讨论技术问题？](https://www.v2ex.com/t/857186) 
 - [2022-06-04-iOS15如何让App启动更快？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15119&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494149%26amp%3Bidx%3D2%26amp%3Bsn%3Df78c229c1bf42fa5bc19b137bd01b4ca%26amp%3Bchksm%3Dfa3f0b5ecd488248750c26ccb7cb86220a416c2657619abefdc9475ddfecf496d91dbbf2dd3d%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-06-04-一款开源OA办公自动化系统-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15118&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494148%26amp%3Bidx%3D1%26amp%3Bsn%3Dc409296967c2c443ac34619a0df1024c%26amp%3Bchksm%3Dfa3f0b5fcd488249ccc9d3a2ae116d0f7e4bd8ff1a35651088cf2ba4eed0a128e473660fdeb3%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-06-04-别再用OFFSET和LIMIT分页了-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15117&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494148%26amp%3Bidx%3D2%26amp%3Bsn%3D457ac577577c945e7827566c4d076745%26amp%3Bchksm%3Dfa3f0b5fcd488249f46db6b8144c812cd84a609a309eb90a9d265226d76dce6eac73a799a723%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1954,8 +1953,8 @@
 - [2022-06-04-欢迎加入读者圈子，一起交流！](https://toutiao.io/k/mtrqmru) 
 - [2022-06-04-优质网站同好者周刊（第-068-期）-|-倾城博客](https://toutiao.io/k/uvfvhkt) 
 - [2022-06-04-独立开发变现周刊（第57期）：开发一个免费照片编辑器，一个人每月收入10万美元](https://toutiao.io/k/w4qt8p6) 
-- [2022-06-04-推荐-关于技术能力的思考和总结](https://toutiao.io/k/jo2jtja) 
-- [2022-06-04-推荐-不可错过的程序员续命科技](https://toutiao.io/k/wooq1pu) 
 - [2022-06-04-推荐-聊聊接口设计的36个小技巧](https://toutiao.io/k/yqm776v) 
-- [2022-06-04-推荐-阿里10年沉淀｜那些技术实战中的架构设计方法](https://toutiao.io/k/e9vlh55) 
+- [2022-06-04-推荐-关于技术能力的思考和总结](https://toutiao.io/k/jo2jtja) 
 - [2022-06-04-推荐-架构师成长路线图](https://toutiao.io/k/27b6p2e) 
+- [2022-06-04-推荐-不可错过的程序员续命科技](https://toutiao.io/k/wooq1pu) 
+- [2022-06-04-推荐-阿里10年沉淀｜那些技术实战中的架构设计方法](https://toutiao.io/k/e9vlh55) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-06-04 00:58:11，:rocket: 更新条数: +2012， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-06-04 02:46:20，:rocket: 更新条数: +2017， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,15 @@
 </summary>
 
 
+- [2022-06-04-换新-mac-大家是重新装软件手动迁移，还是直接用时间机器迁移？-intel→m1，想省事直接迁移，但是担心有小问题，毕竟处理器完全不一样了](https://www.v2ex.com/t/857217) ![](assets/new.png)  
+- [2022-06-04-感觉思否人气好低](https://www.v2ex.com/t/857216) ![](assets/new.png)  
+- [2022-06-04-看完-https://tour.go-zh.org/教程，求推荐短小精悍-go-源码学习](https://www.v2ex.com/t/857215) ![](assets/new.png)  
+- [2022-06-04-分享-可以分享一些自己喜欢的-Youtuber-或-Up-主](https://www.v2ex.com/t/857214) ![](assets/new.png)  
+- [2022-06-04-明天就是发布会了，我的-mbp-今天送到了，为什么我有种不详的预感，怎么办啊？](https://www.v2ex.com/t/857213) ![](assets/new.png)  
+- [2022-06-04-远程-转发-KodaDot-·-Frontend/Rust/TPM/UI/UX](https://www.v2ex.com/t/857210) ![](assets/new.png)  
+- [2022-06-04-寻找-Web-全栈工程师-可远程](https://www.v2ex.com/t/857209) ![](assets/new.png)  
+- [2022-06-04-pipifier](https://www.v2ex.com/t/857208) ![](assets/new.png)  
+- [2022-06-04-求助，联想官方维修点把电脑修坏了，怎么办](https://www.v2ex.com/t/857207) ![](assets/new.png)  
 - [2022-06-04-求教如何合并两台-mac](https://www.v2ex.com/t/857206) ![](assets/new.png)  
 - [2022-06-04-为什么淘宝有卖无锁-S10-它在全球范围都没解锁](https://www.v2ex.com/t/857205) ![](assets/new.png)  
 - [2022-06-03-2022-年的当下-iCloud-作为工作存储和同步盘靠谱吗](https://www.v2ex.com/t/857203) ![](assets/new.png)  
@@ -502,15 +511,6 @@
 - [2022-06-03-群晖上的百度网盘还是不能用？](https://www.v2ex.com/t/857195) ![](assets/new.png)  
 - [2022-06-03-求助：-MacBook-Pro-升级-macOS-12.4-卡在进度条了](https://www.v2ex.com/t/857194) ![](assets/new.png)  
 - [2022-06-03-某宝上北京联通这个-124-一个月的-1000M-宽带融合套餐有啥坑不？](https://www.v2ex.com/t/857193) ![](assets/new.png)  
-- [2022-06-03-6800xt-在-win11-下鼠标卡顿，换-win10-就好了---!](https://www.v2ex.com/t/857191) ![](assets/new.png)  
-- [2022-06-03-Python-测试pytest-入门](https://www.v2ex.com/t/857189) ![](assets/new.png)  
-- [2022-06-03-每天压力好大，又是带孩子，又是工作](https://www.v2ex.com/t/857188) ![](assets/new.png)  
-- [2022-06-03-要如何循序渐进完全无障碍地和英语团队开会讨论技术问题？](https://www.v2ex.com/t/857186) ![](assets/new.png)  
-- [2022-06-03-请教一下大家都是怎么清洁-apple-watch-的？](https://www.v2ex.com/t/857185) ![](assets/new.png)  
-- [2022-06-03-求助：苹果全家桶书签无法正常同步，-AirDrop-也常出问题](https://www.v2ex.com/t/857184) ![](assets/new.png)  
-- [2022-06-03-求教，老婆一看电视，王者就-460，我需要换掉-AX3600-吗？](https://www.v2ex.com/t/857183) ![](assets/new.png)  
-- [2022-06-03-今天修改了-kamatera-绑定的支付信用卡被扣-1.59-美元](https://www.v2ex.com/t/857182) ![](assets/new.png)  
-- [2022-06-03-弱弱的问下，怎么样远程控制能不影响对方正常使用？](https://www.v2ex.com/t/857181) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -553,16 +553,18 @@
 </summary>
 
 
-- [2022-06-04-GitOps指南](https://toutiao.io/k/8a8c9ea) ![](assets/new.png)  
+- [2022-06-04-欢迎加入读者圈子，一起交流！](https://toutiao.io/k/mtrqmru) ![](assets/new.png)  
 - [2022-06-04-优质网站同好者周刊（第-068-期）-|-倾城博客](https://toutiao.io/k/uvfvhkt) ![](assets/new.png)  
 - [2022-06-04-破茧重生！重新定义Chrome开发者工具](https://toutiao.io/k/1tz1x7l) ![](assets/new.png)  
-- [2022-06-04-一个很酷的-API-快速生成系统](https://toutiao.io/k/fxb8sc9) ![](assets/new.png)  
+- [2022-06-04-GitOps指南](https://toutiao.io/k/8a8c9ea) ![](assets/new.png)  
 - [2022-06-04-译-为何-React-18-中-useEffect-会运行两次?](https://toutiao.io/k/72m4uc2) ![](assets/new.png)  
-- [2022-06-04-推荐-关于技术能力的思考和总结](https://toutiao.io/k/jo2jtja) ![](assets/new.png)  
+- [2022-06-04-独立开发变现周刊（第57期）：开发一个免费照片编辑器，一个人每月收入10万美元](https://toutiao.io/k/w4qt8p6) ![](assets/new.png)  
+- [2022-06-04-Server-Components：我们即将和-API-告别？](https://toutiao.io/k/716byzk) ![](assets/new.png)  
 - [2022-06-04-推荐-不可错过的程序员续命科技](https://toutiao.io/k/wooq1pu) ![](assets/new.png)  
-- [2022-06-04-推荐-架构师成长路线图](https://toutiao.io/k/27b6p2e) ![](assets/new.png)  
-- [2022-06-04-推荐-阿里10年沉淀｜那些技术实战中的架构设计方法](https://toutiao.io/k/e9vlh55) ![](assets/new.png)  
 - [2022-06-04-推荐-聊聊接口设计的36个小技巧](https://toutiao.io/k/yqm776v) ![](assets/new.png)  
+- [2022-06-04-推荐-阿里10年沉淀｜那些技术实战中的架构设计方法](https://toutiao.io/k/e9vlh55) ![](assets/new.png)  
+- [2022-06-04-推荐-关于技术能力的思考和总结](https://toutiao.io/k/jo2jtja) ![](assets/new.png)  
+- [2022-06-04-推荐-架构师成长路线图](https://toutiao.io/k/27b6p2e) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

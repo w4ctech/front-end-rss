@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-06-04 12:57:09，:rocket: 更新条数: +2021， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-06-04 13:20:30，:rocket: 更新条数: +2021， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,9 @@
 </summary>
 
 
+- [2022-06-04-新注册的账号，手机号验证没找到啊](https://www.v2ex.com/t/857287) ![](assets/new.png)  
+- [2022-06-04-大佬们-有啥西雅图的-gia-线路么](https://www.v2ex.com/t/857286) ![](assets/new.png)  
+- [2022-06-04-关于狗东-618-活动套路](https://www.v2ex.com/t/857285) ![](assets/new.png)  
 - [2022-06-04-最近一次系统更新完，外接显示器在-MBP-盒盖的情况下无法唤醒了](https://www.v2ex.com/t/857284) ![](assets/new.png)  
 - [2022-06-04-现在支持解-BL、完全-root-的手机品牌是不是只有小米/红米/一加了-？](https://www.v2ex.com/t/857283) ![](assets/new.png)  
 - [2022-06-04-也许外包类的公司生意会越来越好](https://www.v2ex.com/t/857281) ![](assets/new.png)  
@@ -508,9 +511,6 @@
 - [2022-06-04-gitlab.cn-不能创建公开的项目吗，创建公有项目自动变成私有的，设置也不让改](https://www.v2ex.com/t/857265) ![](assets/new.png)  
 - [2022-06-04-石英表可以带进公务员考场、事业单位考场吗？](https://www.v2ex.com/t/857264) ![](assets/new.png)  
 - [2022-06-04-Mac-下有没有什么-Http-抓包软件，支持类似-surge-那种虚拟网卡抓包模式的](https://www.v2ex.com/t/857263) ![](assets/new.png)  
-- [2022-06-04-blink-shell-可以-build-ipa-吗](https://www.v2ex.com/t/857262) ![](assets/new.png)  
-- [2022-06-04-百度网盘开放平台-API-这里给了个-go-的-sdk-的例子，但是里面引入了个-icode.baidu.com/baidu/xpan/go-sdk/xpan/utils-请教这个库怎么找到？](https://www.v2ex.com/t/857260) ![](assets/new.png)  
-- [2022-06-04-这次敏感时期很意思](https://www.v2ex.com/t/857259) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -563,11 +563,11 @@
 - [2022-06-04-译-为何-React-18-中-useEffect-会运行两次?](https://toutiao.io/k/72m4uc2) ![](assets/new.png)  
 - [2022-06-04-聊聊Twitter的架构决策](https://toutiao.io/k/bpvbwoj) ![](assets/new.png)  
 - [2022-06-04-网易数帆-Envoy-Gateway-实践之旅：坚守-6-年，峥嵘渐显](https://toutiao.io/k/31djbem) ![](assets/new.png)  
-- [2022-06-04-推荐-架构师成长路线图](https://toutiao.io/k/27b6p2e) ![](assets/new.png)  
-- [2022-06-04-推荐-关于技术能力的思考和总结](https://toutiao.io/k/jo2jtja) ![](assets/new.png)  
 - [2022-06-04-推荐-阿里10年沉淀｜那些技术实战中的架构设计方法](https://toutiao.io/k/e9vlh55) ![](assets/new.png)  
 - [2022-06-04-推荐-聊聊接口设计的36个小技巧](https://toutiao.io/k/yqm776v) ![](assets/new.png)  
+- [2022-06-04-推荐-架构师成长路线图](https://toutiao.io/k/27b6p2e) ![](assets/new.png)  
 - [2022-06-04-推荐-不可错过的程序员续命科技](https://toutiao.io/k/wooq1pu) ![](assets/new.png)  
+- [2022-06-04-推荐-关于技术能力的思考和总结](https://toutiao.io/k/jo2jtja) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-06-05 06:44:47。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-06-05 07:13:30。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,9 @@
 </summary>
 
 
+- [【V2EX】2022-06-05-微信又作妖，更改文件储存路径](https://www.v2ex.com/t/857383) 
+- [【V2EX】2022-06-05-现在主流的国际长途都用什么打啊？](https://www.v2ex.com/t/857381) 
+- [【V2EX】2022-06-05-关于-dns-污染的问题](https://www.v2ex.com/t/857380) 
 - [【V2EX】2022-06-05-paypal-请求代付](https://www.v2ex.com/t/857378) 
 - [【V2EX】2022-06-05-电信宽带协议到期，求推荐苏州宽带](https://www.v2ex.com/t/857376) 
 - [【V2EX】2022-06-05-说说看大家心目中的-iPad-/iPadOS](https://www.v2ex.com/t/857375) 
@@ -104,9 +107,6 @@
 - [【V2EX】2022-06-05-类似-rz-/-sz-上传和下载文件，-go-版的-trzsz-trz-/-tsz-支持各种平台的原生终端，包括-Windows-的-cmd-等。](https://www.v2ex.com/t/857337) 
 - [【V2EX】2022-06-05-铁子们，环福建游有啥推荐玩的？](https://www.v2ex.com/t/857336) 
 - [【V2EX】2022-06-05-内推新加坡-&-上海虾皮-Promotion-新加坡团队急需前端牛人加入，有出国诉求的看过来!](https://www.v2ex.com/t/857335) 
-- [【V2EX】2022-06-05-macOS-不知道为什么一直弹出-Apple-Music...有没有什么办法卸载或解决?](https://www.v2ex.com/t/857333) 
-- [【V2EX】2022-06-05-请教各位师傅，关于后端的学习路线](https://www.v2ex.com/t/857332) 
-- [【V2EX】2022-06-05-内推币圈岗位-海外/国内](https://www.v2ex.com/t/857330) 
 - [【技术头条】2022-06-05-4个Python编程游戏网站，玩嗨了~-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15120&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494149%26amp%3Bidx%3D1%26amp%3Bsn%3D7525aafe254b1a8017fee638cc5f3340%26amp%3Bchksm%3Dfa3f0b5ecd4882481060c4ccceff14d66ac9348089028ca145d07a17dbd153e46155fb2e0138%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-06-05-iOS15如何让App启动更快？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15119&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494149%26amp%3Bidx%3D2%26amp%3Bsn%3Df78c229c1bf42fa5bc19b137bd01b4ca%26amp%3Bchksm%3Dfa3f0b5ecd488248750c26ccb7cb86220a416c2657619abefdc9475ddfecf496d91dbbf2dd3d%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-06-05-一款开源OA办公自动化系统-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15118&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494148%26amp%3Bidx%3D1%26amp%3Bsn%3Dc409296967c2c443ac34619a0df1024c%26amp%3Bchksm%3Dfa3f0b5fcd488249ccc9d3a2ae116d0f7e4bd8ff1a35651088cf2ba4eed0a128e473660fdeb3%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -137,10 +137,10 @@
 - [【开发者头条】2022-06-05-构建在-ClickHouse-之上的-Loki---cLoki](https://toutiao.io/k/1x4dksm) 
 - [【开发者头条】2022-06-05-Python-文本终端-GUI-框架，太酷了！](https://toutiao.io/k/wb27fm1) 
 - [【开发者头条】2022-06-05-推荐-阿里10年沉淀｜那些技术实战中的架构设计方法](https://toutiao.io/k/e9vlh55) 
-- [【开发者头条】2022-06-05-推荐-关于技术能力的思考和总结](https://toutiao.io/k/jo2jtja) 
 - [【开发者头条】2022-06-05-推荐-聊聊接口设计的36个小技巧](https://toutiao.io/k/yqm776v) 
 - [【开发者头条】2022-06-05-推荐-架构师成长路线图](https://toutiao.io/k/27b6p2e) 
 - [【开发者头条】2022-06-05-推荐-不可错过的程序员续命科技](https://toutiao.io/k/wooq1pu) 
+- [【开发者头条】2022-06-05-推荐-关于技术能力的思考和总结](https://toutiao.io/k/jo2jtja) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

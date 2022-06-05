@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-06-05 09:13:05。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-06-05 09:38:53。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1946,8 +1946,6 @@
 - [2022-06-05-Windows-怎么单独增加图标离桌面顶部的距离](https://www.v2ex.com/t/857355) 
 - [2022-06-05-请问-obsidian-的-ios-客户端是不是删除了文件就找不回来了？](https://www.v2ex.com/t/857351) 
 - [2022-06-05-求问下杭州的宽带推荐](https://www.v2ex.com/t/857350) 
-- [2022-06-05-蜂窝版-iPad-能绑定移动sim-卡到无忧行吗？可以的话，这是不是相当于一张电话卡+一张流量卡，两张卡曲线救国解决-iPad-没法接短信和电话](https://www.v2ex.com/t/857347) 
-- [2022-06-05-vmware-虚拟机录屏，什么方式比较好?](https://www.v2ex.com/t/857346) 
 - [2022-06-05-iOS15如何让App启动更快？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15119&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494149%26amp%3Bidx%3D2%26amp%3Bsn%3Df78c229c1bf42fa5bc19b137bd01b4ca%26amp%3Bchksm%3Dfa3f0b5ecd488248750c26ccb7cb86220a416c2657619abefdc9475ddfecf496d91dbbf2dd3d%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-06-05-一款开源OA办公自动化系统-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15118&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494148%26amp%3Bidx%3D1%26amp%3Bsn%3Dc409296967c2c443ac34619a0df1024c%26amp%3Bchksm%3Dfa3f0b5fcd488249ccc9d3a2ae116d0f7e4bd8ff1a35651088cf2ba4eed0a128e473660fdeb3%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-06-05-别再用OFFSET和LIMIT分页了-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15117&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494148%26amp%3Bidx%3D2%26amp%3Bsn%3D457ac577577c945e7827566c4d076745%26amp%3Bchksm%3Dfa3f0b5fcd488249f46db6b8144c812cd84a609a309eb90a9d265226d76dce6eac73a799a723%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1964,8 +1962,8 @@
 - [2022-06-05-C#-中多态底层-虚方法调用-是怎么玩](https://toutiao.io/k/lwi1osh) 
 - [2022-06-05-字节序探析：大端与小端的比较](https://toutiao.io/k/zet8l08) 
 - [2022-06-05-基于深度学习的恶意软件分类器](https://toutiao.io/k/g13yb0x) 
-- [2022-06-05-推荐-不可错过的程序员续命科技](https://toutiao.io/k/wooq1pu) 
-- [2022-06-05-推荐-阿里10年沉淀｜那些技术实战中的架构设计方法](https://toutiao.io/k/e9vlh55) 
+- [2022-06-05-推荐-关于技术能力的思考和总结](https://toutiao.io/k/jo2jtja) 
 - [2022-06-05-推荐-架构师成长路线图](https://toutiao.io/k/27b6p2e) 
 - [2022-06-05-推荐-聊聊接口设计的36个小技巧](https://toutiao.io/k/yqm776v) 
-- [2022-06-05-推荐-关于技术能力的思考和总结](https://toutiao.io/k/jo2jtja) 
+- [2022-06-05-推荐-阿里10年沉淀｜那些技术实战中的架构设计方法](https://toutiao.io/k/e9vlh55) 
+- [2022-06-05-推荐-不可错过的程序员续命科技](https://toutiao.io/k/wooq1pu) 

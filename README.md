@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-06-05 03:01:30，:rocket: 更新条数: +2018， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-06-05 03:38:21，:rocket: 更新条数: +2018， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,9 @@
 </summary>
 
 
+- [2022-06-05-求助：电脑中病毒，主动规避任务管理器](https://www.v2ex.com/t/857343) ![](assets/new.png)  
+- [2022-06-05-目前有哪些云主机便宜值得入手吗？](https://www.v2ex.com/t/857342) ![](assets/new.png)  
+- [2022-06-05-以集体为导向的价值和以个人为导向的价值观，如何选择？](https://www.v2ex.com/t/857341) ![](assets/new.png)  
 - [2022-06-05-看汤哥新电影有种看老程序员职场危机感觉](https://www.v2ex.com/t/857339) ![](assets/new.png)  
 - [2022-06-05-有没有一个库具有各种写好的过滤器的，例如过滤敏感词，验证只有英文下划线和中文等条件的](https://www.v2ex.com/t/857338) ![](assets/new.png)  
 - [2022-06-05-类似-rz-/-sz-上传和下载文件，-go-版的-trzsz-trz-/-tsz-支持各种平台的原生终端，包括-Windows-的-cmd-等。](https://www.v2ex.com/t/857337) ![](assets/new.png)  
@@ -508,9 +511,6 @@
 - [2022-06-05-Yellowstone-National-Park---2022-May](https://www.v2ex.com/t/857323) ![](assets/new.png)  
 - [2022-06-04-小公司内部-wiki-用什么系统比较好？](https://www.v2ex.com/t/857322) ![](assets/new.png)  
 - [2022-06-04-一个构建在区块链上的聊天-app-应该是什么样子？这样的去中心化-app-可以杀死中心化的-whatsapp-吗？](https://www.v2ex.com/t/857321) ![](assets/new.png)  
-- [2022-06-04-吐槽一下中兴-AX5400-Pro](https://www.v2ex.com/t/857319) ![](assets/new.png)  
-- [2022-06-04-如何将-Android-上的音频转发到-macOS-上？](https://www.v2ex.com/t/857318) ![](assets/new.png)  
-- [2022-06-04-所以-Apple-把自己正式翻译成苹果了？](https://www.v2ex.com/t/857317) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -554,18 +554,18 @@
 
 
 - [2022-06-05-欢迎加入读者圈子，一起交流！](https://toutiao.io/k/mtrqmru) ![](assets/new.png)  
-- [2022-06-05-我们用了一个周末，将-370-万行代码迁移到了-TypeScript](https://toutiao.io/k/f0k1f3t) ![](assets/new.png)  
 - [2022-06-05-C#-中多态底层-虚方法调用-是怎么玩](https://toutiao.io/k/lwi1osh) ![](assets/new.png)  
+- [2022-06-05-我们用了一个周末，将-370-万行代码迁移到了-TypeScript](https://toutiao.io/k/f0k1f3t) ![](assets/new.png)  
 - [2022-06-05-实时预览组件效果，这个库让你方便到哭](https://toutiao.io/k/iwcb0r0) ![](assets/new.png)  
 - [2022-06-05-基于深度学习的恶意软件分类器](https://toutiao.io/k/g13yb0x) ![](assets/new.png)  
 - [2022-06-05-消息队列原理和选型：Kafka、RocketMQ-、RabbitMQ-和-ActiveMQ](https://toutiao.io/k/nuwnwro) ![](assets/new.png)  
 - [2022-06-05-构建在-ClickHouse-之上的-Loki---cLoki](https://toutiao.io/k/1x4dksm) ![](assets/new.png)  
 - [2022-06-05-字节序探析：大端与小端的比较](https://toutiao.io/k/zet8l08) ![](assets/new.png)  
-- [2022-06-05-推荐-阿里10年沉淀｜那些技术实战中的架构设计方法](https://toutiao.io/k/e9vlh55) ![](assets/new.png)  
-- [2022-06-05-推荐-聊聊接口设计的36个小技巧](https://toutiao.io/k/yqm776v) ![](assets/new.png)  
-- [2022-06-05-推荐-架构师成长路线图](https://toutiao.io/k/27b6p2e) ![](assets/new.png)  
 - [2022-06-05-推荐-关于技术能力的思考和总结](https://toutiao.io/k/jo2jtja) ![](assets/new.png)  
+- [2022-06-05-推荐-阿里10年沉淀｜那些技术实战中的架构设计方法](https://toutiao.io/k/e9vlh55) ![](assets/new.png)  
+- [2022-06-05-推荐-架构师成长路线图](https://toutiao.io/k/27b6p2e) ![](assets/new.png)  
 - [2022-06-05-推荐-不可错过的程序员续命科技](https://toutiao.io/k/wooq1pu) ![](assets/new.png)  
+- [2022-06-05-推荐-聊聊接口设计的36个小技巧](https://toutiao.io/k/yqm776v) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

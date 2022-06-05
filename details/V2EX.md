@@ -1,10 +1,13 @@
-:alarm_clock: 更新时间: 2022-06-05 03:01:30。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-06-05 03:38:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-06-05-求助：电脑中病毒，主动规避任务管理器](https://www.v2ex.com/t/857343) 
+- [2022-06-05-目前有哪些云主机便宜值得入手吗？](https://www.v2ex.com/t/857342) 
+- [2022-06-05-以集体为导向的价值和以个人为导向的价值观，如何选择？](https://www.v2ex.com/t/857341) 
 - [2022-06-05-看汤哥新电影有种看老程序员职场危机感觉](https://www.v2ex.com/t/857339) 
 - [2022-06-05-有没有一个库具有各种写好的过滤器的，例如过滤敏感词，验证只有英文下划线和中文等条件的](https://www.v2ex.com/t/857338) 
 - [2022-06-05-类似-rz-/-sz-上传和下载文件，-go-版的-trzsz-trz-/-tsz-支持各种平台的原生终端，包括-Windows-的-cmd-等。](https://www.v2ex.com/t/857337) 
@@ -41,6 +44,3 @@
 - [2022-06-04-sl4j-log4j12-这里的-log4j12-的-12-是什么鬼？](https://www.v2ex.com/t/857299) 
 - [2022-06-04-h5-求助](https://www.v2ex.com/t/857298) 
 - [2022-06-04-有没有一些高质量的-Python-内容推荐？](https://www.v2ex.com/t/857295) 
-- [2022-06-04-关于-docker-run-和-docker-exec-执行结果不一样的疑问🤔️](https://www.v2ex.com/t/857293) 
-- [2022-06-04-ApplicationListener<E-extends-ApplicationEvent>-有哪位知道这在-Java-是什么意思](https://www.v2ex.com/t/857292) 
-- [2022-06-04-safari-不能看起点小说了](https://www.v2ex.com/t/857291) 

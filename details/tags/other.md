@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-06-05 12:21:15。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-06-05 12:58:51。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1912,6 +1912,8 @@
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2022-03-21-ascent-override-descent-override-line-gap-override一锅端](https://www.zhangxinxu.com/wordpress/2022/03/css-ascent-override-descent/) 
+- [2022-06-05-各位老司机们，在越南啊，柬埔寨这些国家建一个老司机基地怎么样？最近查了下他们的法律这方面的都不健全](https://www.v2ex.com/t/857420) 
+- [2022-06-05-联想-Y9000X-2022-品控和售后真的好差，怎么维权](https://www.v2ex.com/t/857419) 
 - [2022-06-05-汉字不分性别的“他”](https://www.v2ex.com/t/857418) 
 - [2022-06-05-NHTSA-报告超过-750-宗-Tesla-自动驾驶不明原因刹车的投诉](https://www.v2ex.com/t/857417) 
 - [2022-06-05-跑在-CICD-上的-DevOps-中文播客](https://www.v2ex.com/t/857416) 
@@ -1941,8 +1943,6 @@
 - [2022-06-05-App-内购在不同区域价格不一致](https://www.v2ex.com/t/857374) 
 - [2022-06-05-各位用安卓的人们，平时是通过什么渠道更新-app-的？](https://www.v2ex.com/t/857373) 
 - [2022-06-05-iPhone-7-目前停留在-11.3-有必要升级吗？现在的版本发热好严重啊，想升级到-ios12-有什么办法吗？](https://www.v2ex.com/t/857372) 
-- [2022-06-05-m1-芯片如何安装-oracle-database-19c](https://www.v2ex.com/t/857371) 
-- [2022-06-05-B&H-疑似泄漏-WWDC22-即将发布的部分新品](https://www.v2ex.com/t/857369) 
 - [2022-06-05-iOS15如何让App启动更快？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15119&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494149%26amp%3Bidx%3D2%26amp%3Bsn%3Df78c229c1bf42fa5bc19b137bd01b4ca%26amp%3Bchksm%3Dfa3f0b5ecd488248750c26ccb7cb86220a416c2657619abefdc9475ddfecf496d91dbbf2dd3d%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-06-05-一款开源OA办公自动化系统-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15118&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494148%26amp%3Bidx%3D1%26amp%3Bsn%3Dc409296967c2c443ac34619a0df1024c%26amp%3Bchksm%3Dfa3f0b5fcd488249ccc9d3a2ae116d0f7e4bd8ff1a35651088cf2ba4eed0a128e473660fdeb3%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-06-05-别再用OFFSET和LIMIT分页了-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15117&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494148%26amp%3Bidx%3D2%26amp%3Bsn%3D457ac577577c945e7827566c4d076745%26amp%3Bchksm%3Dfa3f0b5fcd488249f46db6b8144c812cd84a609a309eb90a9d265226d76dce6eac73a799a723%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1956,11 +1956,11 @@
 - [2022-06-05-MySQL-云数据库物理备份本地恢复方案-soulteary.com](https://blogread.cn/news/go.php?idItem=15104&url=https%3A%2F%2Fsoulteary.com%2F2021%2F10%2F13%2Fmysql-cloud-database-physical-backup-local-recovery-solution.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-06-05-欢迎加入读者圈子，一起交流！](https://toutiao.io/k/mtrqmru) 
 - [2022-06-05-消息队列原理和选型：Kafka、RocketMQ-、RabbitMQ-和-ActiveMQ](https://toutiao.io/k/nuwnwro) 
-- [2022-06-05-C#-中多态底层-虚方法调用-是怎么玩](https://toutiao.io/k/lwi1osh) 
 - [2022-06-05-字节序探析：大端与小端的比较](https://toutiao.io/k/zet8l08) 
+- [2022-06-05-C#-中多态底层-虚方法调用-是怎么玩](https://toutiao.io/k/lwi1osh) 
 - [2022-06-05-基于深度学习的恶意软件分类器](https://toutiao.io/k/g13yb0x) 
-- [2022-06-05-推荐-阿里10年沉淀｜那些技术实战中的架构设计方法](https://toutiao.io/k/e9vlh55) 
 - [2022-06-05-推荐-架构师成长路线图](https://toutiao.io/k/27b6p2e) 
-- [2022-06-05-推荐-关于技术能力的思考和总结](https://toutiao.io/k/jo2jtja) 
 - [2022-06-05-推荐-不可错过的程序员续命科技](https://toutiao.io/k/wooq1pu) 
+- [2022-06-05-推荐-阿里10年沉淀｜那些技术实战中的架构设计方法](https://toutiao.io/k/e9vlh55) 
 - [2022-06-05-推荐-聊聊接口设计的36个小技巧](https://toutiao.io/k/yqm776v) 
+- [2022-06-05-推荐-关于技术能力的思考和总结](https://toutiao.io/k/jo2jtja) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-06-05 12:21:15，:rocket: 更新条数: +2022， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-06-05 12:58:51，:rocket: 更新条数: +2022， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-06-05-各位老司机们，在越南啊，柬埔寨这些国家建一个老司机基地怎么样？最近查了下他们的法律这方面的都不健全](https://www.v2ex.com/t/857420) ![](assets/new.png)  
+- [2022-06-05-联想-Y9000X-2022-品控和售后真的好差，怎么维权](https://www.v2ex.com/t/857419) ![](assets/new.png)  
 - [2022-06-05-汉字不分性别的“他”](https://www.v2ex.com/t/857418) ![](assets/new.png)  
 - [2022-06-05-NHTSA-报告超过-750-宗-Tesla-自动驾驶不明原因刹车的投诉](https://www.v2ex.com/t/857417) ![](assets/new.png)  
 - [2022-06-05-跑在-CICD-上的-DevOps-中文播客](https://www.v2ex.com/t/857416) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-06-05-安卓手机开屏摇一摇广告怎么去掉？](https://www.v2ex.com/t/857402) ![](assets/new.png)  
 - [2022-06-05-有不用登录不用-flash-的桌球网页游戏吗](https://www.v2ex.com/t/857401) ![](assets/new.png)  
 - [2022-06-05-追剧字幕时间轴不同步，造了个自动校正时间轴的轮子](https://www.v2ex.com/t/857400) ![](assets/new.png)  
-- [2022-06-05-北京-广告算法工程师方向求职](https://www.v2ex.com/t/857399) ![](assets/new.png)  
-- [2022-06-05-招聘-1-名靠谱-安卓移动端工程师-，远程办公，区块链岗位](https://www.v2ex.com/t/857398) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -555,18 +555,18 @@
 
 - [2022-06-05-欢迎加入读者圈子，一起交流！](https://toutiao.io/k/mtrqmru) ![](assets/new.png)  
 - [2022-06-05-消息队列原理和选型：Kafka、RocketMQ-、RabbitMQ-和-ActiveMQ](https://toutiao.io/k/nuwnwro) ![](assets/new.png)  
-- [2022-06-05-C#-中多态底层-虚方法调用-是怎么玩](https://toutiao.io/k/lwi1osh) ![](assets/new.png)  
 - [2022-06-05-字节序探析：大端与小端的比较](https://toutiao.io/k/zet8l08) ![](assets/new.png)  
+- [2022-06-05-C#-中多态底层-虚方法调用-是怎么玩](https://toutiao.io/k/lwi1osh) ![](assets/new.png)  
 - [2022-06-05-实时预览组件效果，这个库让你方便到哭](https://toutiao.io/k/iwcb0r0) ![](assets/new.png)  
 - [2022-06-05-构建在-ClickHouse-之上的-Loki---cLoki](https://toutiao.io/k/1x4dksm) ![](assets/new.png)  
 - [2022-06-05-我们用了一个周末，将-370-万行代码迁移到了-TypeScript](https://toutiao.io/k/f0k1f3t) ![](assets/new.png)  
 - [2022-06-05-基于深度学习的恶意软件分类器](https://toutiao.io/k/g13yb0x) ![](assets/new.png)  
 - [2022-06-05-Python-文本终端-GUI-框架，太酷了！](https://toutiao.io/k/wb27fm1) ![](assets/new.png)  
-- [2022-06-05-推荐-阿里10年沉淀｜那些技术实战中的架构设计方法](https://toutiao.io/k/e9vlh55) ![](assets/new.png)  
 - [2022-06-05-推荐-架构师成长路线图](https://toutiao.io/k/27b6p2e) ![](assets/new.png)  
-- [2022-06-05-推荐-关于技术能力的思考和总结](https://toutiao.io/k/jo2jtja) ![](assets/new.png)  
 - [2022-06-05-推荐-不可错过的程序员续命科技](https://toutiao.io/k/wooq1pu) ![](assets/new.png)  
+- [2022-06-05-推荐-阿里10年沉淀｜那些技术实战中的架构设计方法](https://toutiao.io/k/e9vlh55) ![](assets/new.png)  
 - [2022-06-05-推荐-聊聊接口设计的36个小技巧](https://toutiao.io/k/yqm776v) ![](assets/new.png)  
+- [2022-06-05-推荐-关于技术能力的思考和总结](https://toutiao.io/k/jo2jtja) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

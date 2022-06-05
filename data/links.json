@@ -9953,6 +9953,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "裸辞之后行动不起来直接尬住",
+        "link": "https://www.v2ex.com/t/857456",
+        "date": "2022-06-05"
+      },
+      {
         "title": "求教机场推荐（非水贴、广告）",
         "link": "https://www.v2ex.com/t/857455",
         "date": "2022-06-05"
@@ -10156,11 +10161,6 @@
         "title": "SSH 私钥设置 passphrase 后， VSCode 的版本控制如何推送代码",
         "link": "https://www.v2ex.com/t/857407",
         "date": "2022-06-05"
-      },
-      {
-        "title": "老哥们，你们在电脑打汉字用的是全角还是半角标点符号",
-        "link": "https://www.v2ex.com/t/857406",
-        "date": "2022-06-05"
       }
     ]
   },
@@ -10322,8 +10322,8 @@
         "date": "2022-06-05"
       },
       {
-        "title": "[推荐] 架构师成长路线图",
-        "link": "https://toutiao.io/k/27b6p2e",
+        "title": "[推荐] 关于技术能力的思考和总结",
+        "link": "https://toutiao.io/k/jo2jtja",
         "date": "2022-06-05"
       },
       {
@@ -10342,8 +10342,8 @@
         "date": "2022-06-05"
       },
       {
-        "title": "[推荐] 关于技术能力的思考和总结",
-        "link": "https://toutiao.io/k/jo2jtja",
+        "title": "[推荐] 架构师成长路线图",
+        "link": "https://toutiao.io/k/27b6p2e",
         "date": "2022-06-05"
       }
     ]

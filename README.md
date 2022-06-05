@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-06-05 17:12:20，:rocket: 更新条数: +2022， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-06-05 17:37:56，:rocket: 更新条数: +2022， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-06-05-裸辞之后行动不起来直接尬住](https://www.v2ex.com/t/857456) ![](assets/new.png)  
 - [2022-06-05-求教机场推荐（非水贴、广告）](https://www.v2ex.com/t/857455) ![](assets/new.png)  
 - [2022-06-05-两层代理使用什么软件比较合适？](https://www.v2ex.com/t/857454) ![](assets/new.png)  
 - [2022-06-05-office-365-家庭版-40/12-个月](https://www.v2ex.com/t/857453) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-06-05-两个等于-1-的位不重叠的二进制数，|按位或和相加+，结果相等](https://www.v2ex.com/t/857436) ![](assets/new.png)  
 - [2022-06-05-国际版（新加坡服务器）WeChat-一直显示连接中](https://www.v2ex.com/t/857435) ![](assets/new.png)  
 - [2022-06-05-PVE-主机推荐](https://www.v2ex.com/t/857434) ![](assets/new.png)  
-- [2022-06-05-自动操作automator里为什么没有-pages-的资源库？](https://www.v2ex.com/t/857433) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -562,11 +562,11 @@
 - [2022-06-05-我们用了一个周末，将-370-万行代码迁移到了-TypeScript](https://toutiao.io/k/f0k1f3t) ![](assets/new.png)  
 - [2022-06-05-基于深度学习的恶意软件分类器](https://toutiao.io/k/g13yb0x) ![](assets/new.png)  
 - [2022-06-05-Python-文本终端-GUI-框架，太酷了！](https://toutiao.io/k/wb27fm1) ![](assets/new.png)  
-- [2022-06-05-推荐-架构师成长路线图](https://toutiao.io/k/27b6p2e) ![](assets/new.png)  
+- [2022-06-05-推荐-关于技术能力的思考和总结](https://toutiao.io/k/jo2jtja) ![](assets/new.png)  
 - [2022-06-05-推荐-聊聊接口设计的36个小技巧](https://toutiao.io/k/yqm776v) ![](assets/new.png)  
 - [2022-06-05-推荐-阿里10年沉淀｜那些技术实战中的架构设计方法](https://toutiao.io/k/e9vlh55) ![](assets/new.png)  
 - [2022-06-05-推荐-不可错过的程序员续命科技](https://toutiao.io/k/wooq1pu) ![](assets/new.png)  
-- [2022-06-05-推荐-关于技术能力的思考和总结](https://toutiao.io/k/jo2jtja) ![](assets/new.png)  
+- [2022-06-05-推荐-架构师成长路线图](https://toutiao.io/k/27b6p2e) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

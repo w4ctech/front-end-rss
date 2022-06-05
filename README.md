@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-06-05 19:36:51，:rocket: 更新条数: +2021， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-06-05 20:13:40，:rocket: 更新条数: +2021， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -564,9 +564,9 @@
 - [2022-06-05-Python-文本终端-GUI-框架，太酷了！](https://toutiao.io/k/wb27fm1) ![](assets/new.png)  
 - [2022-06-05-推荐-不可错过的程序员续命科技](https://toutiao.io/k/wooq1pu) ![](assets/new.png)  
 - [2022-06-05-推荐-聊聊接口设计的36个小技巧](https://toutiao.io/k/yqm776v) ![](assets/new.png)  
-- [2022-06-05-推荐-阿里10年沉淀｜那些技术实战中的架构设计方法](https://toutiao.io/k/e9vlh55) ![](assets/new.png)  
-- [2022-06-05-推荐-关于技术能力的思考和总结](https://toutiao.io/k/jo2jtja) ![](assets/new.png)  
 - [2022-06-05-推荐-架构师成长路线图](https://toutiao.io/k/27b6p2e) ![](assets/new.png)  
+- [2022-06-05-推荐-关于技术能力的思考和总结](https://toutiao.io/k/jo2jtja) ![](assets/new.png)  
+- [2022-06-05-推荐-阿里10年沉淀｜那些技术实战中的架构设计方法](https://toutiao.io/k/e9vlh55) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

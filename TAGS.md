@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-06-05 15:40:10。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-06-05 16:17:19。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -157,7 +157,6 @@
 
 
 
-- [【V2EX】有不用登录不用-flash-的桌球网页游戏吗](https://www.v2ex.com/t/857401)
 - [【技术头条】4个Python编程游戏网站，玩嗨了~-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15120&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494149%26amp%3Bidx%3D1%26amp%3Bsn%3D7525aafe254b1a8017fee638cc5f3340%26amp%3Bchksm%3Dfa3f0b5ecd4882481060c4ccceff14d66ac9348089028ca145d07a17dbd153e46155fb2e0138%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [......【查看更多】......](./details/tags/dev-game.md)
 
@@ -244,6 +243,7 @@
 
 - [【武汉肺炎防疫全纪录(财新网)】广州17岁男生在定点医院参加高考-特殊考场视频监考](https://m.caixin.com/m/2021-06-05/101723418.html)
 - [【武汉肺炎防疫全纪录(财新网)】林郑月娥率13高官直播接种科兴疫苗-复星疫苗预计周中到港](https://m.caixin.com/m/2021-02-22/101665724.html)
+- [【V2EX】WWDC22-先导直播](https://www.v2ex.com/t/857452)
 - [【V2EX】有台除主板完好（TouchID-灵敏-台积电-U-无拆无修）其它都有问题（外屏碎-TouchID-底部玻璃都掉了能直接看到海绵圈和缝隙）摄像头黑点-后壳氧化非常严重（因为从...](https://www.v2ex.com/t/857410)
 - [......【查看更多】......](./details/tags/audio-video.md)
 
@@ -261,6 +261,7 @@
 
 
 
+- [【V2EX】PG-和-ES-的全文索引性能差不多吗？](https://www.v2ex.com/t/857444)
 - [【V2EX】macOS-Monterey-开机加载进度条时（进度条大概走了十分之一）会闪一下屏幕，然后继续加载进度条正常开机进入登陆界面，有没有胖友遇到同样的问题？](https://www.v2ex.com/t/857411)
 - [【技术头条】在-Apache-Cassandra-中定义和优化数据分区-linux.cn](https://blogread.cn/news/go.php?idItem=15109&url=https%3A%2F%2Flinux.cn%2Farticle-13908-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [......【查看更多】......](./details/tags/optimization.md)
@@ -307,7 +308,6 @@
 
 
 - [【V2EX】coc.nvim-下版本将使用自定义补全菜单](https://www.v2ex.com/t/857415)
-- [【V2EX】北京-广告算法工程师方向求职](https://www.v2ex.com/t/857399)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -356,7 +356,6 @@
 
 
 
-- [【V2EX】招聘-1-名靠谱-安卓移动端工程师-，远程办公，区块链岗位](https://www.v2ex.com/t/857398)
 - [【技术头条】面试官：Java反射是什么？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15115&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494145%26amp%3Bidx%3D2%26amp%3Bsn%3D32bbd28f61522900d0fca0135d4c3a69%26amp%3Bchksm%3Dfa3f0b5acd48824c8b0b637aa499dfbb749e97a8cc28ec30887bb77d99628c931a87ede7cc7e%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [......【查看更多】......](./details/tags/job-interview.md)
 

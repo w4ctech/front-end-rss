@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-06-05 14:37:22，:rocket: 更新条数: +2020， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-06-05 15:13:28，:rocket: 更新条数: +2022， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,15 @@
 </summary>
 
 
+- [2022-06-05-spring-三级缓存解决循环依赖问题，需要三级缓存，为什么不是二级？](https://www.v2ex.com/t/857440) ![](assets/new.png)  
+- [2022-06-05-免费领取-app-or-dev-域名一个](https://www.v2ex.com/t/857439) ![](assets/new.png)  
+- [2022-06-05-python3-运行程序出错的问题](https://www.v2ex.com/t/857438) ![](assets/new.png)  
+- [2022-06-05-求问-transfer-相关的问题](https://www.v2ex.com/t/857437) ![](assets/new.png)  
+- [2022-06-05-两个等于-1-的位不重叠的二进制数，|按位或和相加+，结果相等](https://www.v2ex.com/t/857436) ![](assets/new.png)  
+- [2022-06-05-国际版（新加坡服务器）WeChat-一直显示连接中](https://www.v2ex.com/t/857435) ![](assets/new.png)  
+- [2022-06-05-PVE-主机推荐](https://www.v2ex.com/t/857434) ![](assets/new.png)  
+- [2022-06-05-自动操作automator里为什么没有-pages-的资源库？](https://www.v2ex.com/t/857433) ![](assets/new.png)  
+- [2022-06-05-都说-4K-屏细腻，可是我今天连接上后感觉颗粒感很重呀](https://www.v2ex.com/t/857432) ![](assets/new.png)  
 - [2022-06-05-TCP/IP-包中的目标地址-MAC-是怎么来的？](https://www.v2ex.com/t/857428) ![](assets/new.png)  
 - [2022-06-05-Monterey-如何能让根目录可以写入文件](https://www.v2ex.com/t/857427) ![](assets/new.png)  
 - [2022-06-05-右键创建文件，感觉这个不错](https://www.v2ex.com/t/857426) ![](assets/new.png)  
@@ -502,15 +511,6 @@
 - [2022-06-05-汉字不分性别的“他”](https://www.v2ex.com/t/857418) ![](assets/new.png)  
 - [2022-06-05-NHTSA-报告超过-750-宗-Tesla-自动驾驶不明原因刹车的投诉](https://www.v2ex.com/t/857417) ![](assets/new.png)  
 - [2022-06-05-跑在-CICD-上的-DevOps-中文播客](https://www.v2ex.com/t/857416) ![](assets/new.png)  
-- [2022-06-05-coc.nvim-下版本将使用自定义补全菜单](https://www.v2ex.com/t/857415) ![](assets/new.png)  
-- [2022-06-05-chrome-浏览器搜索框内容关闭功能](https://www.v2ex.com/t/857414) ![](assets/new.png)  
-- [2022-06-05-NPM-包未来趋势是用-ES-Module-吗](https://www.v2ex.com/t/857413) ![](assets/new.png)  
-- [2022-06-05-Linux-Shell-小白入门手册](https://www.v2ex.com/t/857412) ![](assets/new.png)  
-- [2022-06-05-macOS-Monterey-开机加载进度条时（进度条大概走了十分之一）会闪一下屏幕，然后继续加载进度条正常开机进入登陆界面，有没有胖友遇到同样的问题？](https://www.v2ex.com/t/857411) ![](assets/new.png)  
-- [2022-06-05-有台除主板完好（TouchID-灵敏-台积电-U-无拆无修）其它都有问题（外屏碎-TouchID-底部玻璃都掉了能直接看到海绵圈和缝隙）摄像头黑点-后壳氧化非常严重（因为从...](https://www.v2ex.com/t/857410) ![](assets/new.png)  
-- [2022-06-05-Vue3-有什么前端组件库推荐吗？](https://www.v2ex.com/t/857409) ![](assets/new.png)  
-- [2022-06-05-M1-Mac-装了个小火箭-结果关闭小火箭以后就不能上网了](https://www.v2ex.com/t/857408) ![](assets/new.png)  
-- [2022-06-05-SSH-私钥设置-passphrase-后，-VSCode-的版本控制如何推送代码](https://www.v2ex.com/t/857407) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -562,11 +562,11 @@
 - [2022-06-05-我们用了一个周末，将-370-万行代码迁移到了-TypeScript](https://toutiao.io/k/f0k1f3t) ![](assets/new.png)  
 - [2022-06-05-基于深度学习的恶意软件分类器](https://toutiao.io/k/g13yb0x) ![](assets/new.png)  
 - [2022-06-05-Python-文本终端-GUI-框架，太酷了！](https://toutiao.io/k/wb27fm1) ![](assets/new.png)  
-- [2022-06-05-推荐-关于技术能力的思考和总结](https://toutiao.io/k/jo2jtja) ![](assets/new.png)  
-- [2022-06-05-推荐-不可错过的程序员续命科技](https://toutiao.io/k/wooq1pu) ![](assets/new.png)  
 - [2022-06-05-推荐-阿里10年沉淀｜那些技术实战中的架构设计方法](https://toutiao.io/k/e9vlh55) ![](assets/new.png)  
-- [2022-06-05-推荐-架构师成长路线图](https://toutiao.io/k/27b6p2e) ![](assets/new.png)  
+- [2022-06-05-推荐-不可错过的程序员续命科技](https://toutiao.io/k/wooq1pu) ![](assets/new.png)  
+- [2022-06-05-推荐-关于技术能力的思考和总结](https://toutiao.io/k/jo2jtja) ![](assets/new.png)  
 - [2022-06-05-推荐-聊聊接口设计的36个小技巧](https://toutiao.io/k/yqm776v) ![](assets/new.png)  
+- [2022-06-05-推荐-架构师成长路线图](https://toutiao.io/k/27b6p2e) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

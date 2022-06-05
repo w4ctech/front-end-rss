@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-06-05 14:37:22。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-06-05 15:13:28。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,15 @@
 </summary>
 
 
+- [【V2EX】2022-06-05-spring-三级缓存解决循环依赖问题，需要三级缓存，为什么不是二级？](https://www.v2ex.com/t/857440) 
+- [【V2EX】2022-06-05-免费领取-app-or-dev-域名一个](https://www.v2ex.com/t/857439) 
+- [【V2EX】2022-06-05-python3-运行程序出错的问题](https://www.v2ex.com/t/857438) 
+- [【V2EX】2022-06-05-求问-transfer-相关的问题](https://www.v2ex.com/t/857437) 
+- [【V2EX】2022-06-05-两个等于-1-的位不重叠的二进制数，|按位或和相加+，结果相等](https://www.v2ex.com/t/857436) 
+- [【V2EX】2022-06-05-国际版（新加坡服务器）WeChat-一直显示连接中](https://www.v2ex.com/t/857435) 
+- [【V2EX】2022-06-05-PVE-主机推荐](https://www.v2ex.com/t/857434) 
+- [【V2EX】2022-06-05-自动操作automator里为什么没有-pages-的资源库？](https://www.v2ex.com/t/857433) 
+- [【V2EX】2022-06-05-都说-4K-屏细腻，可是我今天连接上后感觉颗粒感很重呀](https://www.v2ex.com/t/857432) 
 - [【V2EX】2022-06-05-TCP/IP-包中的目标地址-MAC-是怎么来的？](https://www.v2ex.com/t/857428) 
 - [【V2EX】2022-06-05-Monterey-如何能让根目录可以写入文件](https://www.v2ex.com/t/857427) 
 - [【V2EX】2022-06-05-右键创建文件，感觉这个不错](https://www.v2ex.com/t/857426) 
@@ -101,13 +110,6 @@
 - [【V2EX】2022-06-05-无需拥有被测试-IP-测试-IP-是否被屏蔽的新方法](https://www.v2ex.com/t/857393) 
 - [【V2EX】2022-06-05-有没有推荐-win-平台轻量开源免费的剪辑软件](https://www.v2ex.com/t/857392) 
 - [【V2EX】2022-06-05-open-dns-已阵亡，导致-dnsip-无法正常工作，-dns-污染又来了](https://www.v2ex.com/t/857391) 
-- [【V2EX】2022-06-05-双移动硬盘会出现供电不足情况？](https://www.v2ex.com/t/857390) 
-- [【V2EX】2022-06-05-上海哪里验光／配镜的设备先进？](https://www.v2ex.com/t/857389) 
-- [【V2EX】2022-06-05-微信朋友圈发视频一按确认就闪退](https://www.v2ex.com/t/857388) 
-- [【V2EX】2022-06-05-又给它嵌入了一个-lua-静态支持-socket-的版本。这样照道理说，就可以使用网页再进一步操作可连接的网络了，可以更动态。](https://www.v2ex.com/t/857387) 
-- [【V2EX】2022-06-05-昨天入手了一只小猫咪,有点后悔了](https://www.v2ex.com/t/857385) 
-- [【V2EX】2022-06-05-有无好用的制品库，或者-gh-代理](https://www.v2ex.com/t/857384) 
-- [【V2EX】2022-06-05-微信又作妖，更改文件储存路径](https://www.v2ex.com/t/857383) 
 - [【技术头条】2022-06-05-4个Python编程游戏网站，玩嗨了~-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15120&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494149%26amp%3Bidx%3D1%26amp%3Bsn%3D7525aafe254b1a8017fee638cc5f3340%26amp%3Bchksm%3Dfa3f0b5ecd4882481060c4ccceff14d66ac9348089028ca145d07a17dbd153e46155fb2e0138%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-06-05-iOS15如何让App启动更快？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15119&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494149%26amp%3Bidx%3D2%26amp%3Bsn%3Df78c229c1bf42fa5bc19b137bd01b4ca%26amp%3Bchksm%3Dfa3f0b5ecd488248750c26ccb7cb86220a416c2657619abefdc9475ddfecf496d91dbbf2dd3d%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-06-05-一款开源OA办公自动化系统-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15118&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494148%26amp%3Bidx%3D1%26amp%3Bsn%3Dc409296967c2c443ac34619a0df1024c%26amp%3Bchksm%3Dfa3f0b5fcd488249ccc9d3a2ae116d0f7e4bd8ff1a35651088cf2ba4eed0a128e473660fdeb3%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -137,11 +139,11 @@
 - [【开发者头条】2022-06-05-我们用了一个周末，将-370-万行代码迁移到了-TypeScript](https://toutiao.io/k/f0k1f3t) 
 - [【开发者头条】2022-06-05-基于深度学习的恶意软件分类器](https://toutiao.io/k/g13yb0x) 
 - [【开发者头条】2022-06-05-Python-文本终端-GUI-框架，太酷了！](https://toutiao.io/k/wb27fm1) 
-- [【开发者头条】2022-06-05-推荐-关于技术能力的思考和总结](https://toutiao.io/k/jo2jtja) 
-- [【开发者头条】2022-06-05-推荐-不可错过的程序员续命科技](https://toutiao.io/k/wooq1pu) 
 - [【开发者头条】2022-06-05-推荐-阿里10年沉淀｜那些技术实战中的架构设计方法](https://toutiao.io/k/e9vlh55) 
-- [【开发者头条】2022-06-05-推荐-架构师成长路线图](https://toutiao.io/k/27b6p2e) 
+- [【开发者头条】2022-06-05-推荐-不可错过的程序员续命科技](https://toutiao.io/k/wooq1pu) 
+- [【开发者头条】2022-06-05-推荐-关于技术能力的思考和总结](https://toutiao.io/k/jo2jtja) 
 - [【开发者头条】2022-06-05-推荐-聊聊接口设计的36个小技巧](https://toutiao.io/k/yqm776v) 
+- [【开发者头条】2022-06-05-推荐-架构师成长路线图](https://toutiao.io/k/27b6p2e) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

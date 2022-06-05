@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-06-05 20:13:40。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-06-05 20:38:18。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1960,8 +1960,8 @@
 - [2022-06-05-字节序探析：大端与小端的比较](https://toutiao.io/k/zet8l08) 
 - [2022-06-05-C#-中多态底层-虚方法调用-是怎么玩](https://toutiao.io/k/lwi1osh) 
 - [2022-06-05-基于深度学习的恶意软件分类器](https://toutiao.io/k/g13yb0x) 
-- [2022-06-05-推荐-不可错过的程序员续命科技](https://toutiao.io/k/wooq1pu) 
-- [2022-06-05-推荐-聊聊接口设计的36个小技巧](https://toutiao.io/k/yqm776v) 
-- [2022-06-05-推荐-架构师成长路线图](https://toutiao.io/k/27b6p2e) 
 - [2022-06-05-推荐-关于技术能力的思考和总结](https://toutiao.io/k/jo2jtja) 
+- [2022-06-05-推荐-架构师成长路线图](https://toutiao.io/k/27b6p2e) 
 - [2022-06-05-推荐-阿里10年沉淀｜那些技术实战中的架构设计方法](https://toutiao.io/k/e9vlh55) 
+- [2022-06-05-推荐-聊聊接口设计的36个小技巧](https://toutiao.io/k/yqm776v) 
+- [2022-06-05-推荐-不可错过的程序员续命科技](https://toutiao.io/k/wooq1pu) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-06-05 18:43:06，:rocket: 更新条数: +2021， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-06-05 19:12:43，:rocket: 更新条数: +2021， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-06-05-可以统计网络流量的命令行终端-UI](https://www.v2ex.com/t/857458) ![](assets/new.png)  
 - [2022-06-05-安卓上有没有好的-iCloud-同步方案](https://www.v2ex.com/t/857457) ![](assets/new.png)  
 - [2022-06-05-裸辞之后行动不起来直接尬住](https://www.v2ex.com/t/857456) ![](assets/new.png)  
 - [2022-06-05-求教机场推荐（非水贴、广告）](https://www.v2ex.com/t/857455) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-06-05-求问-transfer-相关的问题](https://www.v2ex.com/t/857437) ![](assets/new.png)  
 - [2022-06-05-两个等于-1-的位不重叠的二进制数，|按位或和相加+，结果相等](https://www.v2ex.com/t/857436) ![](assets/new.png)  
 - [2022-06-05-国际版（新加坡服务器）WeChat-一直显示连接中](https://www.v2ex.com/t/857435) ![](assets/new.png)  
-- [2022-06-05-PVE-主机推荐](https://www.v2ex.com/t/857434) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-06-06 09:39:40。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-06-06 10:16:33。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Git、SVN
 
@@ -8,5 +8,3 @@
 
 
 - [2022-06-06-Hugo-GitHub-Action-部署没有-index.html](https://www.v2ex.com/t/857611) 
-- [2022-06-06-GitOps多环境部署问题及解决方案](https://toutiao.io/k/r5y34ux) 
-- [2022-06-06-中国程序员容易发错音的单词「GitHub-热点速览-v.22.23」](https://toutiao.io/k/qg0ntlf) 

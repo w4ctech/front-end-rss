@@ -1,10 +1,13 @@
-:alarm_clock: 更新时间: 2022-06-06 22:14:40。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-06-06 22:40:18。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-06-06-M2-选-MacBook-Air-还是-Pro？](https://www.v2ex.com/t/857752) 
+- [2022-06-06-要不要取消前几天下单的-M1-MacBook-Air？我仿佛有了答案](https://www.v2ex.com/t/857751) 
+- [2022-06-06-终于出了和-Macbook-Pro-颜色匹配的-MagSafe-电源线](https://www.v2ex.com/t/857750) 
 - [2022-06-06-冥想是有坏处的](https://www.v2ex.com/t/857749) 
 - [2022-06-06-厨子真的就只是个厨子](https://www.v2ex.com/t/857748) 
 - [2022-06-06-iPadOS-外接显示器效果（使用时不能关闭-iPad-显示屏](https://www.v2ex.com/t/857747) 
@@ -45,6 +48,3 @@
 - [2022-06-06-关于比亚迪条款](https://www.v2ex.com/t/857706) 
 - [2022-06-06-自学-Java-后端的疑惑](https://www.v2ex.com/t/857705) 
 - [2022-06-06-有一个加密的文档和一个貌似密钥的文档，能否进行解密](https://www.v2ex.com/t/857704) 
-- [2022-06-06-京东京造-Z9s-和西昊-M57-哪个更推荐》](https://www.v2ex.com/t/857702) 
-- [2022-06-06-DoH-能-Dig-到-IP，但是请求的时候访问的是-127.0.0.1](https://www.v2ex.com/t/857701) 
-- [2022-06-06-commit-信息和代码注释要求写中文](https://www.v2ex.com/t/857700) 

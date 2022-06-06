@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-06-06 22:14:40。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-06-06 22:40:18。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1912,6 +1912,9 @@
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2022-03-21-ascent-override-descent-override-line-gap-override一锅端](https://www.zhangxinxu.com/wordpress/2022/03/css-ascent-override-descent/) 
+- [2022-06-06-M2-选-MacBook-Air-还是-Pro？](https://www.v2ex.com/t/857752) 
+- [2022-06-06-要不要取消前几天下单的-M1-MacBook-Air？我仿佛有了答案](https://www.v2ex.com/t/857751) 
+- [2022-06-06-终于出了和-Macbook-Pro-颜色匹配的-MagSafe-电源线](https://www.v2ex.com/t/857750) 
 - [2022-06-06-冥想是有坏处的](https://www.v2ex.com/t/857749) 
 - [2022-06-06-厨子真的就只是个厨子](https://www.v2ex.com/t/857748) 
 - [2022-06-06-iPadOS-外接显示器效果（使用时不能关闭-iPad-显示屏](https://www.v2ex.com/t/857747) 
@@ -1951,8 +1954,6 @@
 - [2022-06-06-关于比亚迪条款](https://www.v2ex.com/t/857706) 
 - [2022-06-06-自学-Java-后端的疑惑](https://www.v2ex.com/t/857705) 
 - [2022-06-06-有一个加密的文档和一个貌似密钥的文档，能否进行解密](https://www.v2ex.com/t/857704) 
-- [2022-06-06-京东京造-Z9s-和西昊-M57-哪个更推荐》](https://www.v2ex.com/t/857702) 
-- [2022-06-06-commit-信息和代码注释要求写中文](https://www.v2ex.com/t/857700) 
 - [2022-06-06-iOS15如何让App启动更快？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15119&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494149%26amp%3Bidx%3D2%26amp%3Bsn%3Df78c229c1bf42fa5bc19b137bd01b4ca%26amp%3Bchksm%3Dfa3f0b5ecd488248750c26ccb7cb86220a416c2657619abefdc9475ddfecf496d91dbbf2dd3d%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-06-06-一款开源OA办公自动化系统-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15118&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494148%26amp%3Bidx%3D1%26amp%3Bsn%3Dc409296967c2c443ac34619a0df1024c%26amp%3Bchksm%3Dfa3f0b5fcd488249ccc9d3a2ae116d0f7e4bd8ff1a35651088cf2ba4eed0a128e473660fdeb3%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-06-06-别再用OFFSET和LIMIT分页了-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15117&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494148%26amp%3Bidx%3D2%26amp%3Bsn%3D457ac577577c945e7827566c4d076745%26amp%3Bchksm%3Dfa3f0b5fcd488249f46db6b8144c812cd84a609a309eb90a9d265226d76dce6eac73a799a723%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1964,7 +1965,8 @@
 - [2022-06-06-业务系统的稳定性建设-fed.taobao.org](https://blogread.cn/news/go.php?idItem=15107&url=https%3A%2F%2Ffed.taobao.org%2Fblog%2Ftaofed%2Fdo71ct%2Ffc3cy0%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-06-06-Nuxt不停机部署指南-hessian.cn](https://blogread.cn/news/go.php?idItem=15105&url=https%3A%2F%2Fhessian.cn%2Fp%2F1643.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-06-06-MySQL-云数据库物理备份本地恢复方案-soulteary.com](https://blogread.cn/news/go.php?idItem=15104&url=https%3A%2F%2Fsoulteary.com%2F2021%2F10%2F13%2Fmysql-cloud-database-physical-backup-local-recovery-solution.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2022-06-06-Really?-!-1-个人就能抵-1-个团队，真能秒杀IDEA？](https://toutiao.io/k/76alg5z) 
 - [2022-06-06-推荐-不可错过的程序员续命科技](https://toutiao.io/k/wooq1pu) 
 - [2022-06-06-推荐-阿里10年沉淀｜那些技术实战中的架构设计方法](https://toutiao.io/k/e9vlh55) 
-- [2022-06-06-推荐-架构师成长路线图](https://toutiao.io/k/27b6p2e) 
 - [2022-06-06-推荐-聊聊接口设计的36个小技巧](https://toutiao.io/k/yqm776v) 
+- [2022-06-06-推荐-架构师成长路线图](https://toutiao.io/k/27b6p2e) 

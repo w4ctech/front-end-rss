@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-06-06 22:14:40，:rocket: 更新条数: +2014， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-06-06 22:40:18，:rocket: 更新条数: +2015， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,9 @@
 </summary>
 
 
+- [2022-06-06-M2-选-MacBook-Air-还是-Pro？](https://www.v2ex.com/t/857752) ![](assets/new.png)  
+- [2022-06-06-要不要取消前几天下单的-M1-MacBook-Air？我仿佛有了答案](https://www.v2ex.com/t/857751) ![](assets/new.png)  
+- [2022-06-06-终于出了和-Macbook-Pro-颜色匹配的-MagSafe-电源线](https://www.v2ex.com/t/857750) ![](assets/new.png)  
 - [2022-06-06-冥想是有坏处的](https://www.v2ex.com/t/857749) ![](assets/new.png)  
 - [2022-06-06-厨子真的就只是个厨子](https://www.v2ex.com/t/857748) ![](assets/new.png)  
 - [2022-06-06-iPadOS-外接显示器效果（使用时不能关闭-iPad-显示屏](https://www.v2ex.com/t/857747) ![](assets/new.png)  
@@ -508,9 +511,6 @@
 - [2022-06-06-MacOS-的窗口管理终于能向-Win-vista-看齐了](https://www.v2ex.com/t/857735) ![](assets/new.png)  
 - [2022-06-06-每年发布会的-Gaming-on-Mac-环节都是给人上厕所的时间](https://www.v2ex.com/t/857734) ![](assets/new.png)  
 - [2022-06-06-又是想念强尼爵士的一天](https://www.v2ex.com/t/857733) ![](assets/new.png)  
-- [2022-06-06-M2-在-13.6-英寸新款-MacBook-Air-首发](https://www.v2ex.com/t/857731) ![](assets/new.png)  
-- [2022-06-06-12-寸-sub-1kg-的-mac-彻底无望](https://www.v2ex.com/t/857730) ![](assets/new.png)  
-- [2022-06-06-mba-这新模具跟-pro-有啥区别。。](https://www.v2ex.com/t/857729) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -553,11 +553,12 @@
 </summary>
 
 
+- [2022-06-06-Really?-!-1-个人就能抵-1-个团队，真能秒杀IDEA？](https://toutiao.io/k/76alg5z) ![](assets/new.png)  
 - [2022-06-06-推荐-不可错过的程序员续命科技](https://toutiao.io/k/wooq1pu) ![](assets/new.png)  
 - [2022-06-06-推荐-阿里10年沉淀｜那些技术实战中的架构设计方法](https://toutiao.io/k/e9vlh55) ![](assets/new.png)  
+- [2022-06-06-推荐-聊聊接口设计的36个小技巧](https://toutiao.io/k/yqm776v) ![](assets/new.png)  
 - [2022-06-06-推荐-架构师成长路线图](https://toutiao.io/k/27b6p2e) ![](assets/new.png)  
 - [2022-06-06-推荐-性能提升40倍——线上真实重构案例分享](https://toutiao.io/k/izbqpxo) ![](assets/new.png)  
-- [2022-06-06-推荐-聊聊接口设计的36个小技巧](https://toutiao.io/k/yqm776v) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

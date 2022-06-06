@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-06-06 19:37:12。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-06-06 20:14:29。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1912,6 +1912,9 @@
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2022-03-21-ascent-override-descent-override-line-gap-override一锅端](https://www.zhangxinxu.com/wordpress/2022/03/css-ascent-override-descent/) 
+- [2022-06-06-苹果挺鸡贼啊，刚开完发布会，怕我砍单，主动发邮件-pua-我](https://www.v2ex.com/t/857743) 
+- [2022-06-06-同配置下-macbook-air-比-macbook-pro-贵-400RMB](https://www.v2ex.com/t/857742) 
+- [2022-06-06-关于禁用-magic-keyboard-上的一些键位](https://www.v2ex.com/t/857741) 
 - [2022-06-06-macOS-的偏好设置更新设计了](https://www.v2ex.com/t/857740) 
 - [2022-06-06-wwdc-相关系统下载](https://www.v2ex.com/t/857739) 
 - [2022-06-06-WWDC-发布会大家最赞的是什么？](https://www.v2ex.com/t/857738) 
@@ -1968,7 +1971,7 @@
 - [2022-06-06-如何让混沌工程实验降本增效](https://toutiao.io/k/n8if8b8) 
 - [2022-06-06-月入45K美金的Starter-Story](https://toutiao.io/k/7k5soif) 
 - [2022-06-06-全流程指导，一堂高质量的API网关技术课！！！](https://toutiao.io/k/0qoyb2l) 
-- [2022-06-06-推荐-聊聊接口设计的36个小技巧](https://toutiao.io/k/yqm776v) 
 - [2022-06-06-推荐-阿里10年沉淀｜那些技术实战中的架构设计方法](https://toutiao.io/k/e9vlh55) 
 - [2022-06-06-推荐-架构师成长路线图](https://toutiao.io/k/27b6p2e) 
 - [2022-06-06-推荐-不可错过的程序员续命科技](https://toutiao.io/k/wooq1pu) 
+- [2022-06-06-推荐-聊聊接口设计的36个小技巧](https://toutiao.io/k/yqm776v) 

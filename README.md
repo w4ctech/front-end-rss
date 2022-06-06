@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-06-06 19:37:12，:rocket: 更新条数: +2031， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-06-06 20:14:29，:rocket: 更新条数: +2031， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,9 @@
 </summary>
 
 
+- [2022-06-06-苹果挺鸡贼啊，刚开完发布会，怕我砍单，主动发邮件-pua-我](https://www.v2ex.com/t/857743) ![](assets/new.png)  
+- [2022-06-06-同配置下-macbook-air-比-macbook-pro-贵-400RMB](https://www.v2ex.com/t/857742) ![](assets/new.png)  
+- [2022-06-06-关于禁用-magic-keyboard-上的一些键位](https://www.v2ex.com/t/857741) ![](assets/new.png)  
 - [2022-06-06-macOS-的偏好设置更新设计了](https://www.v2ex.com/t/857740) ![](assets/new.png)  
 - [2022-06-06-wwdc-相关系统下载](https://www.v2ex.com/t/857739) ![](assets/new.png)  
 - [2022-06-06-WWDC-发布会大家最赞的是什么？](https://www.v2ex.com/t/857738) ![](assets/new.png)  
@@ -508,9 +511,6 @@
 - [2022-06-06-看苹果20220607的发布会,-有种功能都做完的感觉](https://www.v2ex.com/t/857725) ![](assets/new.png)  
 - [2022-06-06-在老家睡觉快被蚊子吃了](https://www.v2ex.com/t/857724) ![](assets/new.png)  
 - [2022-06-06-健康咨询帖-不知道去哪里问，问问万能的-V-友](https://www.v2ex.com/t/857723) ![](assets/new.png)  
-- [2022-06-06-看笑了，这个地球锁屏封面，抄小米抄的真不错](https://www.v2ex.com/t/857722) ![](assets/new.png)  
-- [2022-06-06-求推荐几个网址，页面可以直接显示自己的公网-IP？](https://www.v2ex.com/t/857721) ![](assets/new.png)  
-- [2022-06-06-arm-mac-运行-ios-app-能否关闭窗口保持运行？](https://www.v2ex.com/t/857720) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -570,9 +570,9 @@
 - [2022-06-06-中国程序员容易发错音的单词「GitHub-热点速览-v.22.23」](https://toutiao.io/k/qg0ntlf) ![](assets/new.png)  
 - [2022-06-06-tabhub.app-每日看板---浏览器新标签页上线啦](https://toutiao.io/k/zi2zax4) ![](assets/new.png)  
 - [2022-06-06-全流程指导，一堂高质量的API网关技术课！！！](https://toutiao.io/k/0qoyb2l) ![](assets/new.png)  
-- [2022-06-06-推荐-聊聊接口设计的36个小技巧](https://toutiao.io/k/yqm776v) ![](assets/new.png)  
-- [2022-06-06-推荐-性能提升40倍——线上真实重构案例分享](https://toutiao.io/k/izbqpxo) ![](assets/new.png)  
 - [2022-06-06-推荐-阿里10年沉淀｜那些技术实战中的架构设计方法](https://toutiao.io/k/e9vlh55) ![](assets/new.png)  
+- [2022-06-06-推荐-架构师成长路线图](https://toutiao.io/k/27b6p2e) ![](assets/new.png)  
+- [2022-06-06-推荐-不可错过的程序员续命科技](https://toutiao.io/k/wooq1pu) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

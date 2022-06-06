@@ -9953,6 +9953,21 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "苹果挺鸡贼啊，刚开完发布会，怕我砍单，主动发邮件 pua 我",
+        "link": "https://www.v2ex.com/t/857743",
+        "date": "2022-06-06"
+      },
+      {
+        "title": "同配置下 macbook air 比 macbook pro 贵 400RMB",
+        "link": "https://www.v2ex.com/t/857742",
+        "date": "2022-06-06"
+      },
+      {
+        "title": "关于禁用 magic keyboard 上的一些键位",
+        "link": "https://www.v2ex.com/t/857741",
+        "date": "2022-06-06"
+      },
+      {
         "title": "macOS 的偏好设置更新设计了",
         "link": "https://www.v2ex.com/t/857740",
         "date": "2022-06-06"
@@ -10150,21 +10165,6 @@
       {
         "title": "给女生打钱，我做错了什么",
         "link": "https://www.v2ex.com/t/857694",
-        "date": "2022-06-06"
-      },
-      {
-        "title": "[上海] 米哈游 miHoYo 2022.6.6 最新招聘信息（可内推哦）",
-        "link": "https://www.v2ex.com/t/857693",
-        "date": "2022-06-06"
-      },
-      {
-        "title": "github 还能直连么",
-        "link": "https://www.v2ex.com/t/857692",
-        "date": "2022-06-06"
-      },
-      {
-        "title": "Apple Store 在线商店更新中。\r\n特别活动正于 apple.com 线上直播，活动结束后欢迎再来。",
-        "link": "https://www.v2ex.com/t/857691",
         "date": "2022-06-06"
       }
     ]
@@ -10367,16 +10367,6 @@
         "date": "2022-06-06"
       },
       {
-        "title": "[推荐] 聊聊接口设计的36个小技巧",
-        "link": "https://toutiao.io/k/yqm776v",
-        "date": "2022-06-06"
-      },
-      {
-        "title": "[推荐] 性能提升40倍——线上真实重构案例分享",
-        "link": "https://toutiao.io/k/izbqpxo",
-        "date": "2022-06-06"
-      },
-      {
         "title": "[推荐] 阿里10年沉淀｜那些技术实战中的架构设计方法",
         "link": "https://toutiao.io/k/e9vlh55",
         "date": "2022-06-06"
@@ -10389,6 +10379,16 @@
       {
         "title": "[推荐] 不可错过的程序员续命科技",
         "link": "https://toutiao.io/k/wooq1pu",
+        "date": "2022-06-06"
+      },
+      {
+        "title": "[推荐] 性能提升40倍——线上真实重构案例分享",
+        "link": "https://toutiao.io/k/izbqpxo",
+        "date": "2022-06-06"
+      },
+      {
+        "title": "[推荐] 聊聊接口设计的36个小技巧",
+        "link": "https://toutiao.io/k/yqm776v",
         "date": "2022-06-06"
       }
     ]

@@ -1,10 +1,13 @@
-:alarm_clock: 更新时间: 2022-06-06 19:37:12。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-06-06 20:14:29。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-06-06-苹果挺鸡贼啊，刚开完发布会，怕我砍单，主动发邮件-pua-我](https://www.v2ex.com/t/857743) 
+- [2022-06-06-同配置下-macbook-air-比-macbook-pro-贵-400RMB](https://www.v2ex.com/t/857742) 
+- [2022-06-06-关于禁用-magic-keyboard-上的一些键位](https://www.v2ex.com/t/857741) 
 - [2022-06-06-macOS-的偏好设置更新设计了](https://www.v2ex.com/t/857740) 
 - [2022-06-06-wwdc-相关系统下载](https://www.v2ex.com/t/857739) 
 - [2022-06-06-WWDC-发布会大家最赞的是什么？](https://www.v2ex.com/t/857738) 
@@ -45,6 +48,3 @@
 - [2022-06-06-请教一个树形结构扁平化算法](https://www.v2ex.com/t/857696) 
 - [2022-06-06-现在-IP-代理怎么都要实名身份认证了](https://www.v2ex.com/t/857695) 
 - [2022-06-06-给女生打钱，我做错了什么](https://www.v2ex.com/t/857694) 
-- [2022-06-06-上海-米哈游-miHoYo-2022.6.6-最新招聘信息（可内推哦）](https://www.v2ex.com/t/857693) 
-- [2022-06-06-github-还能直连么](https://www.v2ex.com/t/857692) 
-- [2022-06-06-Apple-Store-在线商店更新中。-特别活动正于-apple.com-线上直播，活动结束后欢迎再来。](https://www.v2ex.com/t/857691) 

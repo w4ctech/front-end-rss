@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-06-06 19:13:00。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-06-06 19:37:12。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1912,6 +1912,8 @@
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2022-03-21-ascent-override-descent-override-line-gap-override一锅端](https://www.zhangxinxu.com/wordpress/2022/03/css-ascent-override-descent/) 
+- [2022-06-06-macOS-的偏好设置更新设计了](https://www.v2ex.com/t/857740) 
+- [2022-06-06-wwdc-相关系统下载](https://www.v2ex.com/t/857739) 
 - [2022-06-06-WWDC-发布会大家最赞的是什么？](https://www.v2ex.com/t/857738) 
 - [2022-06-06-更小的-Mac-Mini-等到花儿都谢了](https://www.v2ex.com/t/857737) 
 - [2022-06-06-打不开某些国内网站-ERR_CONNECTION_RESET](https://www.v2ex.com/t/857736) 
@@ -1946,8 +1948,6 @@
 - [2022-06-06-浦东张江-2-号线地铁金科路-个人出租-非中介-古桐公寓小区-出租-1-主卧，-1-次卧](https://www.v2ex.com/t/857697) 
 - [2022-06-06-现在-IP-代理怎么都要实名身份认证了](https://www.v2ex.com/t/857695) 
 - [2022-06-06-给女生打钱，我做错了什么](https://www.v2ex.com/t/857694) 
-- [2022-06-06-马上要开发布会了，有多少小伙伴要熬夜看](https://www.v2ex.com/t/857690) 
-- [2022-06-06-感觉自己不适合在大城市上班和生活](https://www.v2ex.com/t/857689) 
 - [2022-06-06-iOS15如何让App启动更快？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15119&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494149%26amp%3Bidx%3D2%26amp%3Bsn%3Df78c229c1bf42fa5bc19b137bd01b4ca%26amp%3Bchksm%3Dfa3f0b5ecd488248750c26ccb7cb86220a416c2657619abefdc9475ddfecf496d91dbbf2dd3d%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-06-06-一款开源OA办公自动化系统-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15118&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494148%26amp%3Bidx%3D1%26amp%3Bsn%3Dc409296967c2c443ac34619a0df1024c%26amp%3Bchksm%3Dfa3f0b5fcd488249ccc9d3a2ae116d0f7e4bd8ff1a35651088cf2ba4eed0a128e473660fdeb3%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-06-06-别再用OFFSET和LIMIT分页了-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15117&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494148%26amp%3Bidx%3D2%26amp%3Bsn%3D457ac577577c945e7827566c4d076745%26amp%3Bchksm%3Dfa3f0b5fcd488249f46db6b8144c812cd84a609a309eb90a9d265226d76dce6eac73a799a723%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1968,7 +1968,7 @@
 - [2022-06-06-如何让混沌工程实验降本增效](https://toutiao.io/k/n8if8b8) 
 - [2022-06-06-月入45K美金的Starter-Story](https://toutiao.io/k/7k5soif) 
 - [2022-06-06-全流程指导，一堂高质量的API网关技术课！！！](https://toutiao.io/k/0qoyb2l) 
-- [2022-06-06-推荐-架构师成长路线图](https://toutiao.io/k/27b6p2e) 
 - [2022-06-06-推荐-聊聊接口设计的36个小技巧](https://toutiao.io/k/yqm776v) 
-- [2022-06-06-推荐-不可错过的程序员续命科技](https://toutiao.io/k/wooq1pu) 
 - [2022-06-06-推荐-阿里10年沉淀｜那些技术实战中的架构设计方法](https://toutiao.io/k/e9vlh55) 
+- [2022-06-06-推荐-架构师成长路线图](https://toutiao.io/k/27b6p2e) 
+- [2022-06-06-推荐-不可错过的程序员续命科技](https://toutiao.io/k/wooq1pu) 

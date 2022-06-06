@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-06-06 05:39:05，:rocket: 更新条数: +2019， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-06-06 06:17:48，:rocket: 更新条数: +2024， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,14 @@
 </summary>
 
 
+- [2022-06-06-内推微软北京](https://www.v2ex.com/t/857562) ![](assets/new.png)  
+- [2022-06-06-Go-初学者请教一个-channel-的-问题](https://www.v2ex.com/t/857560) ![](assets/new.png)  
+- [2022-06-06-大佬们，坐标杭州，推荐今年换工作吗?](https://www.v2ex.com/t/857559) ![](assets/new.png)  
+- [2022-06-06-老哥们我整不会了，能否教教我？-SSR-前端-+-API-后端应该怎样简易优雅的平滑部署](https://www.v2ex.com/t/857558) ![](assets/new.png)  
+- [2022-06-06-广东电信免费提速到-300M](https://www.v2ex.com/t/857557) ![](assets/new.png)  
+- [2022-06-06-最近折腾-4G-上网卡的人越来越多了](https://www.v2ex.com/t/857555) ![](assets/new.png)  
+- [2022-06-06-aliyun-oss-挂了?](https://www.v2ex.com/t/857554) ![](assets/new.png)  
+- [2022-06-06-oneplus7pro-刷机刷成砖了，有没有人指点下怎么救呀](https://www.v2ex.com/t/857553) ![](assets/new.png)  
 - [2022-06-06-有哪些推荐的-Chrome-插件？](https://www.v2ex.com/t/857552) ![](assets/new.png)  
 - [2022-06-06-离了个大普，没想到我也会遇到这种情况，企业微信占-95G-内存](https://www.v2ex.com/t/857551) ![](assets/new.png)  
 - [2022-06-06-远程10-30k-招聘全职全栈工程师-React-/-Laravel](https://www.v2ex.com/t/857550) ![](assets/new.png)  
@@ -503,14 +511,6 @@
 - [2022-06-06-是我带着偏见？还是图书馆在玩文字游戏？](https://www.v2ex.com/t/857539) ![](assets/new.png)  
 - [2022-06-06-李佳琪凉了？](https://www.v2ex.com/t/857538) ![](assets/new.png)  
 - [2022-06-06-求助：-m1-芯片的-macbook，该怎么配置-Linux-开发环境？](https://www.v2ex.com/t/857536) ![](assets/new.png)  
-- [2022-06-06-有一说一....五十辆宾利事件的车主好像本来就是他自己的车位，他自己停车有啥错，那么别人占他车位他不是受害者么...为什么舆论都倾向侵权人？（不知道是不是我...](https://www.v2ex.com/t/857535) ![](assets/new.png)  
-- [2022-06-06-电脑开不了机了，求救](https://www.v2ex.com/t/857534) ![](assets/new.png)  
-- [2022-06-06-请教-MacOS-开发问题，被沙盒模式下的文件读写问题搞蒙了~~~](https://www.v2ex.com/t/857533) ![](assets/new.png)  
-- [2022-06-06-为何国内视频网站会疯狂推荐桌面客户端？](https://www.v2ex.com/t/857532) ![](assets/new.png)  
-- [2022-06-06-北京健康宝小程序打开速度横评](https://www.v2ex.com/t/857531) ![](assets/new.png)  
-- [2022-06-06-有哪些开源的视频播放系统？视频是自己上传的，只需给个账号客户，客户登录后可看对应视频那种](https://www.v2ex.com/t/857530) ![](assets/new.png)  
-- [2022-06-06-测试工程师：年薪-18w-起步，在家办公、双休、远程工作](https://www.v2ex.com/t/857528) ![](assets/new.png)  
-- [2022-06-06-北京/深圳字节跳动财经业务，前端开发工程师，社招，-3-年以上经验](https://www.v2ex.com/t/857527) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -565,9 +565,11 @@
 - [2022-06-06-测试的核心竞争力是什么？](https://toutiao.io/k/lfzo6q5) ![](assets/new.png)  
 - [2022-06-06-记一次-JMeter-压测-HTTPS-性能问题](https://toutiao.io/k/41nmoz4) ![](assets/new.png)  
 - [2022-06-06-如何让混沌工程实验降本增效](https://toutiao.io/k/n8if8b8) ![](assets/new.png)  
-- [2022-06-06-推荐-聊聊接口设计的36个小技巧](https://toutiao.io/k/yqm776v) ![](assets/new.png)  
-- [2022-06-06-推荐-架构师成长路线图](https://toutiao.io/k/27b6p2e) ![](assets/new.png)  
-- [2022-06-06-推荐-不可错过的程序员续命科技](https://toutiao.io/k/wooq1pu) ![](assets/new.png)  
+- [2022-06-06-tabhub.app-每日看板---浏览器新标签页上线啦](https://toutiao.io/k/zi2zax4) ![](assets/new.png)  
+- [2022-06-06-月入45K美金的Starter-Story](https://toutiao.io/k/7k5soif) ![](assets/new.png)  
+- [2022-06-06-50-万行代码喂出来的一些编程经验](https://toutiao.io/k/0adxomc) ![](assets/new.png)  
+- [2022-06-06-中国程序员容易发错音的单词「GitHub-热点速览-v.22.23」](https://toutiao.io/k/qg0ntlf) ![](assets/new.png)  
+- [2022-06-06-全流程指导，一堂高质量的API网关技术课！！！](https://toutiao.io/k/0qoyb2l) ![](assets/new.png)  
 - [2022-06-06-推荐-关于技术能力的思考和总结](https://toutiao.io/k/jo2jtja) ![](assets/new.png)  
 - [2022-06-06-推荐-性能提升40倍——线上真实重构案例分享](https://toutiao.io/k/izbqpxo) ![](assets/new.png)  
 - [2022-06-06-推荐-阿里10年沉淀｜那些技术实战中的架构设计方法](https://toutiao.io/k/e9vlh55) ![](assets/new.png)  

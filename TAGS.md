@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-06-06 15:15:15。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-06-06 15:43:25。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -242,7 +242,6 @@
 - [【武汉肺炎防疫全纪录(财新网)】广州17岁男生在定点医院参加高考-特殊考场视频监考](https://m.caixin.com/m/2021-06-05/101723418.html)
 - [【武汉肺炎防疫全纪录(财新网)】林郑月娥率13高官直播接种科兴疫苗-复星疫苗预计周中到港](https://m.caixin.com/m/2021-02-22/101665724.html)
 - [【V2EX】Apple-Store-在线商店更新中。-特别活动正于-apple.com-线上直播，活动结束后欢迎再来。](https://www.v2ex.com/t/857691)
-- [【V2EX】国内有啥视频电话的软件可以替代微信？](https://www.v2ex.com/t/857657)
 - [【开发者头条】干货-|-从B站爬虫到-Elastic-可视化视频合集](https://toutiao.io/k/snawsjq)
 - [......【查看更多】......](./details/tags/audio-video.md)
 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-06-06 14:37:25，:rocket: 更新条数: +2037， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-06-06 15:15:15，:rocket: 更新条数: +2036， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,14 @@
 </summary>
 
 
+- [2022-06-06-自学-Java-后端的疑惑](https://www.v2ex.com/t/857705) ![](assets/new.png)  
+- [2022-06-06-有一个加密的文档和一个貌似密钥的文档，能否进行解密](https://www.v2ex.com/t/857704) ![](assets/new.png)  
+- [2022-06-06-京东京造-Z9s-和西昊-M57-哪个更推荐》](https://www.v2ex.com/t/857702) ![](assets/new.png)  
+- [2022-06-06-DoH-能-Dig-到-IP，但是请求的时候访问的是-127.0.0.1](https://www.v2ex.com/t/857701) ![](assets/new.png)  
+- [2022-06-06-commit-信息和代码注释要求写中文](https://www.v2ex.com/t/857700) ![](assets/new.png)  
+- [2022-06-06-预测贴，大家预测一下今晚苹果会发布-vr-相关的内容吗？](https://www.v2ex.com/t/857699) ![](assets/new.png)  
+- [2022-06-06-关注了个-Github-仓库，结果被国内的某开源"社区"发广告邮件](https://www.v2ex.com/t/857698) ![](assets/new.png)  
+- [2022-06-06-浦东张江-2-号线地铁金科路-个人出租-非中介-古桐公寓小区-出租-1-主卧，-1-次卧](https://www.v2ex.com/t/857697) ![](assets/new.png)  
 - [2022-06-06-请教一个树形结构扁平化算法](https://www.v2ex.com/t/857696) ![](assets/new.png)  
 - [2022-06-06-现在-IP-代理怎么都要实名身份认证了](https://www.v2ex.com/t/857695) ![](assets/new.png)  
 - [2022-06-06-给女生打钱，我做错了什么](https://www.v2ex.com/t/857694) ![](assets/new.png)  
@@ -503,14 +511,6 @@
 - [2022-06-06-Windows-下使用-Docker-的一个疑问，懂的老哥们帮忙解答一下。](https://www.v2ex.com/t/857686) ![](assets/new.png)  
 - [2022-06-06-同事结婚请我,-我却选择不去](https://www.v2ex.com/t/857685) ![](assets/new.png)  
 - [2022-06-06-A-helper-to-generate-the-READE-file-automatically-from-YAML-based-metadata-files.](https://www.v2ex.com/t/857684) ![](assets/new.png)  
-- [2022-06-06-公司被合并了，选择离职会有补偿吗](https://www.v2ex.com/t/857683) ![](assets/new.png)  
-- [2022-06-06-分享一个能在-KDE-标题栏显示-global-menu-的工具](https://www.v2ex.com/t/857682) ![](assets/new.png)  
-- [2022-06-06-Apple-store-商店开始在维护了](https://www.v2ex.com/t/857681) ![](assets/new.png)  
-- [2022-06-06-访达-文件简介里的“样版”是什么意思？](https://www.v2ex.com/t/857680) ![](assets/new.png)  
-- [2022-06-06-腾讯会议更新了](https://www.v2ex.com/t/857679) ![](assets/new.png)  
-- [2022-06-06-各个语言底层储存-String-字符串的方式？](https://www.v2ex.com/t/857678) ![](assets/new.png)  
-- [2022-06-06-请问哪里可以买到正版有效的无比滴？](https://www.v2ex.com/t/857677) ![](assets/new.png)  
-- [2022-06-06-Surge-和其他-macOS-代理软件相比有什么有优势吗](https://www.v2ex.com/t/857676) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -570,9 +570,9 @@
 - [2022-06-06-中国程序员容易发错音的单词「GitHub-热点速览-v.22.23」](https://toutiao.io/k/qg0ntlf) ![](assets/new.png)  
 - [2022-06-06-tabhub.app-每日看板---浏览器新标签页上线啦](https://toutiao.io/k/zi2zax4) ![](assets/new.png)  
 - [2022-06-06-全流程指导，一堂高质量的API网关技术课！！！](https://toutiao.io/k/0qoyb2l) ![](assets/new.png)  
-- [2022-06-06-推荐-架构师成长路线图](https://toutiao.io/k/27b6p2e) ![](assets/new.png)  
 - [2022-06-06-推荐-关于技术能力的思考和总结](https://toutiao.io/k/jo2jtja) ![](assets/new.png)  
 - [2022-06-06-推荐-不可错过的程序员续命科技](https://toutiao.io/k/wooq1pu) ![](assets/new.png)  
+- [2022-06-06-推荐-阿里10年沉淀｜那些技术实战中的架构设计方法](https://toutiao.io/k/e9vlh55) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

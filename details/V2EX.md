@@ -1,11 +1,11 @@
-:alarm_clock: 更新时间: 2022-06-06 22:40:18。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-06-06 23:03:01。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
-- [2022-06-06-M2-选-MacBook-Air-还是-Pro？](https://www.v2ex.com/t/857752) 
+- [2022-06-06-M2-选-MacBook-Air-还是-Pro-还是-M1-Pro？](https://www.v2ex.com/t/857752) 
 - [2022-06-06-要不要取消前几天下单的-M1-MacBook-Air？我仿佛有了答案](https://www.v2ex.com/t/857751) 
 - [2022-06-06-终于出了和-Macbook-Pro-颜色匹配的-MagSafe-电源线](https://www.v2ex.com/t/857750) 
 - [2022-06-06-冥想是有坏处的](https://www.v2ex.com/t/857749) 

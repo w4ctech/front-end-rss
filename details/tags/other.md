@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-06-06 22:40:18。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-06-06 23:03:01。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1912,7 +1912,7 @@
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2022-03-21-ascent-override-descent-override-line-gap-override一锅端](https://www.zhangxinxu.com/wordpress/2022/03/css-ascent-override-descent/) 
-- [2022-06-06-M2-选-MacBook-Air-还是-Pro？](https://www.v2ex.com/t/857752) 
+- [2022-06-06-M2-选-MacBook-Air-还是-Pro-还是-M1-Pro？](https://www.v2ex.com/t/857752) 
 - [2022-06-06-要不要取消前几天下单的-M1-MacBook-Air？我仿佛有了答案](https://www.v2ex.com/t/857751) 
 - [2022-06-06-终于出了和-Macbook-Pro-颜色匹配的-MagSafe-电源线](https://www.v2ex.com/t/857750) 
 - [2022-06-06-冥想是有坏处的](https://www.v2ex.com/t/857749) 
@@ -1966,7 +1966,8 @@
 - [2022-06-06-Nuxt不停机部署指南-hessian.cn](https://blogread.cn/news/go.php?idItem=15105&url=https%3A%2F%2Fhessian.cn%2Fp%2F1643.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-06-06-MySQL-云数据库物理备份本地恢复方案-soulteary.com](https://blogread.cn/news/go.php?idItem=15104&url=https%3A%2F%2Fsoulteary.com%2F2021%2F10%2F13%2Fmysql-cloud-database-physical-backup-local-recovery-solution.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-06-06-Really?-!-1-个人就能抵-1-个团队，真能秒杀IDEA？](https://toutiao.io/k/76alg5z) 
-- [2022-06-06-推荐-不可错过的程序员续命科技](https://toutiao.io/k/wooq1pu) 
-- [2022-06-06-推荐-阿里10年沉淀｜那些技术实战中的架构设计方法](https://toutiao.io/k/e9vlh55) 
 - [2022-06-06-推荐-聊聊接口设计的36个小技巧](https://toutiao.io/k/yqm776v) 
+- [2022-06-06-推荐-阿里10年沉淀｜那些技术实战中的架构设计方法](https://toutiao.io/k/e9vlh55) 
+- [2022-06-06-推荐-不可错过的程序员续命科技](https://toutiao.io/k/wooq1pu) 
+- [2022-06-06-推荐-如何写出一篇好的技术方案？](https://toutiao.io/k/gl2cth8) 
 - [2022-06-06-推荐-架构师成长路线图](https://toutiao.io/k/27b6p2e) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-06-06 21:38:01。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-06-06 22:14:40。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1964,16 +1964,7 @@
 - [2022-06-06-业务系统的稳定性建设-fed.taobao.org](https://blogread.cn/news/go.php?idItem=15107&url=https%3A%2F%2Ffed.taobao.org%2Fblog%2Ftaofed%2Fdo71ct%2Ffc3cy0%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-06-06-Nuxt不停机部署指南-hessian.cn](https://blogread.cn/news/go.php?idItem=15105&url=https%3A%2F%2Fhessian.cn%2Fp%2F1643.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-06-06-MySQL-云数据库物理备份本地恢复方案-soulteary.com](https://blogread.cn/news/go.php?idItem=15104&url=https%3A%2F%2Fsoulteary.com%2F2021%2F10%2F13%2Fmysql-cloud-database-physical-backup-local-recovery-solution.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
-- [2022-06-06-欢迎加入读者圈子，一起交流！](https://toutiao.io/k/mtrqmru) 
-- [2022-06-06-半夜数据库突发宕机，竟是Redis惹的锅？？？](https://toutiao.io/k/8ogtu83) 
-- [2022-06-06-当字节跳动在美国输出中国式-996](https://toutiao.io/k/7dvofem) 
-- [2022-06-06-某些情况下，合理使用指针将大大提升程序的运行效率](https://toutiao.io/k/zophsom) 
-- [2022-06-06-50-万行代码喂出来的一些编程经验](https://toutiao.io/k/0adxomc) 
-- [2022-06-06-测试的核心竞争力是什么？](https://toutiao.io/k/lfzo6q5) 
-- [2022-06-06-如何让混沌工程实验降本增效](https://toutiao.io/k/n8if8b8) 
-- [2022-06-06-月入45K美金的Starter-Story](https://toutiao.io/k/7k5soif) 
-- [2022-06-06-全流程指导，一堂高质量的API网关技术课！！！](https://toutiao.io/k/0qoyb2l) 
 - [2022-06-06-推荐-不可错过的程序员续命科技](https://toutiao.io/k/wooq1pu) 
-- [2022-06-06-推荐-聊聊接口设计的36个小技巧](https://toutiao.io/k/yqm776v) 
 - [2022-06-06-推荐-阿里10年沉淀｜那些技术实战中的架构设计方法](https://toutiao.io/k/e9vlh55) 
 - [2022-06-06-推荐-架构师成长路线图](https://toutiao.io/k/27b6p2e) 
+- [2022-06-06-推荐-聊聊接口设计的36个小技巧](https://toutiao.io/k/yqm776v) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-06-06 15:43:25，:rocket: 更新条数: +2036， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-06-06 16:18:09，:rocket: 更新条数: +2030， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,9 @@
 </summary>
 
 
+- [2022-06-06-如何在-Hyper-V-中安装-Debian-11-后启用增强会话模式，现采用-microsoft/-Linux--vm-tools-后仍是灰色？](https://www.v2ex.com/t/857715) ![](assets/new.png)  
+- [2022-06-06-分享自己做的书签站，请大家提建议](https://www.v2ex.com/t/857711) ![](assets/new.png)  
+- [2022-06-06-和家人去成都玩,-周末两天,-有哪儿是比较好的去处呀?](https://www.v2ex.com/t/857708) ![](assets/new.png)  
 - [2022-06-06-在网络-I/O-多路复用这里，采用-Linux-epoll-方式，当有一个客户端连接到的时候，接下会发生什么？有谁能用简洁明了的方式解释一下？](https://www.v2ex.com/t/857707) ![](assets/new.png)  
 - [2022-06-06-关于比亚迪条款](https://www.v2ex.com/t/857706) ![](assets/new.png)  
 - [2022-06-06-自学-Java-后端的疑惑](https://www.v2ex.com/t/857705) ![](assets/new.png)  
@@ -508,9 +511,6 @@
 - [2022-06-06-github-还能直连么](https://www.v2ex.com/t/857692) ![](assets/new.png)  
 - [2022-06-06-Apple-Store-在线商店更新中。-特别活动正于-apple.com-线上直播，活动结束后欢迎再来。](https://www.v2ex.com/t/857691) ![](assets/new.png)  
 - [2022-06-06-马上要开发布会了，有多少小伙伴要熬夜看](https://www.v2ex.com/t/857690) ![](assets/new.png)  
-- [2022-06-06-感觉自己不适合在大城市上班和生活](https://www.v2ex.com/t/857689) ![](assets/new.png)  
-- [2022-06-06-问下大家，如何不花钱下个安卓商店的收费软件？](https://www.v2ex.com/t/857687) ![](assets/new.png)  
-- [2022-06-06-Windows-下使用-Docker-的一个疑问，懂的老哥们帮忙解答一下。](https://www.v2ex.com/t/857686) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -570,9 +570,9 @@
 - [2022-06-06-中国程序员容易发错音的单词「GitHub-热点速览-v.22.23」](https://toutiao.io/k/qg0ntlf) ![](assets/new.png)  
 - [2022-06-06-tabhub.app-每日看板---浏览器新标签页上线啦](https://toutiao.io/k/zi2zax4) ![](assets/new.png)  
 - [2022-06-06-全流程指导，一堂高质量的API网关技术课！！！](https://toutiao.io/k/0qoyb2l) ![](assets/new.png)  
-- [2022-06-06-推荐-阿里10年沉淀｜那些技术实战中的架构设计方法](https://toutiao.io/k/e9vlh55) ![](assets/new.png)  
-- [2022-06-06-推荐-不可错过的程序员续命科技](https://toutiao.io/k/wooq1pu) ![](assets/new.png)  
+- [2022-06-06-推荐-架构师成长路线图](https://toutiao.io/k/27b6p2e) ![](assets/new.png)  
 - [2022-06-06-推荐-聊聊接口设计的36个小技巧](https://toutiao.io/k/yqm776v) ![](assets/new.png)  
+- [2022-06-06-推荐-阿里10年沉淀｜那些技术实战中的架构设计方法](https://toutiao.io/k/e9vlh55) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

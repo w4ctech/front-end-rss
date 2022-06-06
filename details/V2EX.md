@@ -1,10 +1,13 @@
-:alarm_clock: 更新时间: 2022-06-06 15:43:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-06-06 16:18:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-06-06-如何在-Hyper-V-中安装-Debian-11-后启用增强会话模式，现采用-microsoft/-Linux--vm-tools-后仍是灰色？](https://www.v2ex.com/t/857715) 
+- [2022-06-06-分享自己做的书签站，请大家提建议](https://www.v2ex.com/t/857711) 
+- [2022-06-06-和家人去成都玩,-周末两天,-有哪儿是比较好的去处呀?](https://www.v2ex.com/t/857708) 
 - [2022-06-06-在网络-I/O-多路复用这里，采用-Linux-epoll-方式，当有一个客户端连接到的时候，接下会发生什么？有谁能用简洁明了的方式解释一下？](https://www.v2ex.com/t/857707) 
 - [2022-06-06-关于比亚迪条款](https://www.v2ex.com/t/857706) 
 - [2022-06-06-自学-Java-后端的疑惑](https://www.v2ex.com/t/857705) 
@@ -44,11 +47,3 @@
 - [2022-06-06-在-Kindle-中国结束运营之前有什么书是购买后一直想看没看但现在想看完的吗？](https://www.v2ex.com/t/857668) 
 - [2022-06-06-毒瘤-App-多次擅自在剪贴板写入营销内容，呼吁苹果尽快完善系统级剪贴板权限](https://www.v2ex.com/t/857667) 
 - [2022-06-06-iPad-充电-3-天-3-夜，开不了机了](https://www.v2ex.com/t/857666) 
-- [2022-06-06-websocket-集群广播方案有哪些呢？](https://www.v2ex.com/t/857665) 
-- [2022-06-06-小爱同学也有广告了?用小爱音响问个天气,后面还推荐了一款药](https://www.v2ex.com/t/857664) 
-- [2022-06-06-两个人租房适合办理何种上网方式？](https://www.v2ex.com/t/857663) 
-- [2022-06-06-JetBrains-的新-UI-确实挺好看](https://www.v2ex.com/t/857662) 
-- [2022-06-06-小米如何使用-google](https://www.v2ex.com/t/857661) 
-- [2022-06-06-有没有用过最新的-surface-laptop-或者-surface-laptop-studio-的？](https://www.v2ex.com/t/857660) 
-- [2022-06-06-采用-SSH-KEY-登录](https://www.v2ex.com/t/857659) 
-- [2022-06-06-五年菜鸟前端求一份-react-相关的前端远程工作](https://www.v2ex.com/t/857658) 

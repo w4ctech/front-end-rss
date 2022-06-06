@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-06-06 13:56:12，:rocket: 更新条数: +2034， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-06-06 14:12:10，:rocket: 更新条数: +2035， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-06-06-感觉自己不适合在大城市上班和生活](https://www.v2ex.com/t/857689) ![](assets/new.png)  
 - [2022-06-06-问下大家，如何不花钱下个安卓商店的收费软件？](https://www.v2ex.com/t/857687) ![](assets/new.png)  
 - [2022-06-06-Windows-下使用-Docker-的一个疑问，懂的老哥们帮忙解答一下。](https://www.v2ex.com/t/857686) ![](assets/new.png)  
 - [2022-06-06-同事结婚请我,-我却选择不去](https://www.v2ex.com/t/857685) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-06-06-bilibili-全屏模式下如何关闭鼠标滑轮控制音量](https://www.v2ex.com/t/857670) ![](assets/new.png)  
 - [2022-06-06-iCloud-国区家庭订阅发车，有人来吗](https://www.v2ex.com/t/857669) ![](assets/new.png)  
 - [2022-06-06-在-Kindle-中国结束运营之前有什么书是购买后一直想看没看但现在想看完的吗？](https://www.v2ex.com/t/857668) ![](assets/new.png)  
-- [2022-06-06-毒瘤-App-多次擅自在剪贴板写入营销内容，呼吁苹果尽快完善系统级剪贴板权限](https://www.v2ex.com/t/857667) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -570,9 +570,9 @@
 - [2022-06-06-tabhub.app-每日看板---浏览器新标签页上线啦](https://toutiao.io/k/zi2zax4) ![](assets/new.png)  
 - [2022-06-06-中国程序员容易发错音的单词「GitHub-热点速览-v.22.23」](https://toutiao.io/k/qg0ntlf) ![](assets/new.png)  
 - [2022-06-06-全流程指导，一堂高质量的API网关技术课！！！](https://toutiao.io/k/0qoyb2l) ![](assets/new.png)  
-- [2022-06-06-推荐-性能提升40倍——线上真实重构案例分享](https://toutiao.io/k/izbqpxo) ![](assets/new.png)  
+- [2022-06-06-推荐-阿里10年沉淀｜那些技术实战中的架构设计方法](https://toutiao.io/k/e9vlh55) ![](assets/new.png)  
+- [2022-06-06-推荐-聊聊接口设计的36个小技巧](https://toutiao.io/k/yqm776v) ![](assets/new.png)  
 - [2022-06-06-推荐-架构师成长路线图](https://toutiao.io/k/27b6p2e) ![](assets/new.png)  
-- [2022-06-06-推荐-不可错过的程序员续命科技](https://toutiao.io/k/wooq1pu) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

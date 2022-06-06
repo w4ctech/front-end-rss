@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-06-06 09:15:19，:rocket: 更新条数: +2032， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-06-06 09:39:40，:rocket: 更新条数: +2032， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,12 @@
 </summary>
 
 
+- [2022-06-06-通过-DNS-提供的实用工具和服务](https://www.v2ex.com/t/857641) ![](assets/new.png)  
+- [2022-06-06-M1-后台占用,各位也是这样？](https://www.v2ex.com/t/857640) ![](assets/new.png)  
+- [2022-06-06-极度向往稳定的婚后生活这正常么](https://www.v2ex.com/t/857638) ![](assets/new.png)  
+- [2022-06-06-朋友们，-b-站寄了吗。](https://www.v2ex.com/t/857637) ![](assets/new.png)  
+- [2022-06-06-有没有一键唤醒小爱音箱的硬件按钮或开关](https://www.v2ex.com/t/857636) ![](assets/new.png)  
+- [2022-06-06-印象笔记剪藏-chrome-插件-是不能用了嘛？](https://www.v2ex.com/t/857635) ![](assets/new.png)  
 - [2022-06-06-js-下对后端返回格式的转换](https://www.v2ex.com/t/857634) ![](assets/new.png)  
 - [2022-06-06-上海/远程/-PPIO-面向海外开发者平台招聘-区块链「初级|中级|高级」-开发工程师](https://www.v2ex.com/t/857633) ![](assets/new.png)  
 - [2022-06-06-请教一个算法问题](https://www.v2ex.com/t/857632) ![](assets/new.png)  
@@ -505,12 +511,6 @@
 - [2022-06-06-理性讨论,上海目前还有哪些前途比较好的公司](https://www.v2ex.com/t/857620) ![](assets/new.png)  
 - [2022-06-06-新加坡直招-Airwallex-外企招多个工程岗，新加坡职位从国内直招](https://www.v2ex.com/t/857619) ![](assets/new.png)  
 - [2022-06-06-今日芒种-地球开始发風模式](https://www.v2ex.com/t/857618) ![](assets/new.png)  
-- [2022-06-06-安卓启动页怎么适配屏幕尺寸](https://www.v2ex.com/t/857617) ![](assets/new.png)  
-- [2022-06-06-准备接手一个学校的电改光工程，想请教一下大佬们主要成本都在那里](https://www.v2ex.com/t/857616) ![](assets/new.png)  
-- [2022-06-06-北京联通赠（施）送（舍）了两个月千兆提速包](https://www.v2ex.com/t/857615) ![](assets/new.png)  
-- [2022-06-06-v2ex-好像不用绑定和验证手机号了？](https://www.v2ex.com/t/857614) ![](assets/new.png)  
-- [2022-06-06-花呗不限制了吗,额度涨到了一万多](https://www.v2ex.com/t/857613) ![](assets/new.png)  
-- [2022-06-06-哎，腰椎间盘突出有什么好的康复疗程吗？](https://www.v2ex.com/t/857612) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -570,9 +570,9 @@
 - [2022-06-06-月入45K美金的Starter-Story](https://toutiao.io/k/7k5soif) ![](assets/new.png)  
 - [2022-06-06-中国程序员容易发错音的单词「GitHub-热点速览-v.22.23」](https://toutiao.io/k/qg0ntlf) ![](assets/new.png)  
 - [2022-06-06-全流程指导，一堂高质量的API网关技术课！！！](https://toutiao.io/k/0qoyb2l) ![](assets/new.png)  
-- [2022-06-06-推荐-性能提升40倍——线上真实重构案例分享](https://toutiao.io/k/izbqpxo) ![](assets/new.png)  
-- [2022-06-06-推荐-不可错过的程序员续命科技](https://toutiao.io/k/wooq1pu) ![](assets/new.png)  
+- [2022-06-06-推荐-阿里10年沉淀｜那些技术实战中的架构设计方法](https://toutiao.io/k/e9vlh55) ![](assets/new.png)  
 - [2022-06-06-推荐-架构师成长路线图](https://toutiao.io/k/27b6p2e) ![](assets/new.png)  
+- [2022-06-06-推荐-关于技术能力的思考和总结](https://toutiao.io/k/jo2jtja) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

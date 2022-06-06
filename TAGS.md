@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-06-06 21:13:10。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-06-06 21:38:01。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -336,7 +336,6 @@
 
 
 
-- [【V2EX】关注了个-Github-仓库，结果被国内的某开源"社区"发广告邮件](https://www.v2ex.com/t/857698)
 - [【开发者头条】GitOps多环境部署问题及解决方案](https://toutiao.io/k/r5y34ux)
 - [【开发者头条】中国程序员容易发错音的单词「GitHub-热点速览-v.22.23」](https://toutiao.io/k/qg0ntlf)
 - [......【查看更多】......](./details/tags/git-svn.md)

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-06-07 04:27:58。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-06-07 04:50:51。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,10 @@
 </summary>
 
 
+- [【V2EX】2022-06-07-iOS16-应用适配表，持续更新中](https://www.v2ex.com/t/857863) 
+- [【V2EX】2022-06-07-如何升级-PHP-项目类似-cms?](https://www.v2ex.com/t/857862) 
+- [【V2EX】2022-06-07-我有个疑问，可以吧-Command-+-Tab-修改为调度中心吗？](https://www.v2ex.com/t/857861) 
+- [【V2EX】2022-06-07-有没有能彻底禁止手机安装-APP-的办法](https://www.v2ex.com/t/857860) 
 - [【V2EX】2022-06-07-清库存只是调侃，产品强行差异化分级才是商业逻辑](https://www.v2ex.com/t/857859) 
 - [【V2EX】2022-06-07-typescript-类型的交并运算问题，官方文档好像也没给交并运算的详细信息，就给了一个基本的用法](https://www.v2ex.com/t/857858) 
 - [【V2EX】2022-06-07-海外资金能国内买东西吗？](https://www.v2ex.com/t/857857) 
@@ -107,10 +111,6 @@
 - [【V2EX】2022-06-07-问问-iPad-Pro-2020-这几年被连续背刺的感受如何-😂](https://www.v2ex.com/t/857817) 
 - [【V2EX】2022-06-07-如一套服务支持多个客户端（支付宝小程序-微信小程序-H5）可以在不同端口部署同一套服务-通过-nginx-转发吗](https://www.v2ex.com/t/857816) 
 - [【V2EX】2022-06-07-每天弹无数次这个窗口，但我印象中没用过这个-apple-id，怎么办？](https://www.v2ex.com/t/857815) 
-- [【V2EX】2022-06-07-想做一个-pc-端的编辑器，有兴趣的吗？付费](https://www.v2ex.com/t/857813) 
-- [【V2EX】2022-06-07-iPadOS-扩展外部显示器的功能只支持-m1-芯片？](https://www.v2ex.com/t/857812) 
-- [【V2EX】2022-06-07-把-air-拉到-16+512，-13399](https://www.v2ex.com/t/857811) 
-- [【V2EX】2022-06-07-小米这样的软+硬件公司的软件开发也会外包吗？](https://www.v2ex.com/t/857810) 
 - [【技术头条】2022-06-07-4个Python编程游戏网站，玩嗨了~-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15120&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494149%26amp%3Bidx%3D1%26amp%3Bsn%3D7525aafe254b1a8017fee638cc5f3340%26amp%3Bchksm%3Dfa3f0b5ecd4882481060c4ccceff14d66ac9348089028ca145d07a17dbd153e46155fb2e0138%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-06-07-iOS15如何让App启动更快？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15119&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494149%26amp%3Bidx%3D2%26amp%3Bsn%3Df78c229c1bf42fa5bc19b137bd01b4ca%26amp%3Bchksm%3Dfa3f0b5ecd488248750c26ccb7cb86220a416c2657619abefdc9475ddfecf496d91dbbf2dd3d%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-06-07-一款开源OA办公自动化系统-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15118&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494148%26amp%3Bidx%3D1%26amp%3Bsn%3Dc409296967c2c443ac34619a0df1024c%26amp%3Bchksm%3Dfa3f0b5fcd488249ccc9d3a2ae116d0f7e4bd8ff1a35651088cf2ba4eed0a128e473660fdeb3%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -137,21 +137,21 @@
 - [【开发者头条】2022-06-07-Streaming-Data-Warehouse-存储：需求与架构](https://toutiao.io/k/rtnpqse) 
 - [【开发者头条】2022-06-07-赚了超过200万美元的网站设计技巧](https://toutiao.io/k/nu070ki) 
 - [【开发者头条】2022-06-07-2022，我们该如何理解可观测技术](https://toutiao.io/k/8ymwxd6) 
+- [【开发者头条】2022-06-07-GitOps的12个痛点](https://toutiao.io/k/q3ce4kp) 
 - [【开发者头条】2022-06-07-注意避坑，Vue-Router-4:-路由参数在-created/setup-时不可用](https://toutiao.io/k/9nsa1vw) 
 - [【开发者头条】2022-06-07-一周技术学习笔记第67期-CPU的设计跟开闭原则有关系吗](https://toutiao.io/k/jrzq6gf) 
-- [【开发者头条】2022-06-07-GitOps的12个痛点](https://toutiao.io/k/q3ce4kp) 
 - [【开发者头条】2022-06-07-后端思维篇:统一参数校验、异常处理、结果返回](https://toutiao.io/k/1p1lj4l) 
 - [【开发者头条】2022-06-07-晋升遇瓶颈，奋战一线的技术人该停下来看看这些……](https://toutiao.io/k/ng45ywx) 
 - [【开发者头条】2022-06-07-求你了，不要再在对外接口中使用枚举类型了！](https://toutiao.io/k/pu45nt9) 
 - [【开发者头条】2022-06-07-Redis的过期和淘汰是两回事儿](https://toutiao.io/k/7d7jxso) 
-- [【开发者头条】2022-06-07-AI-作画初体验](https://toutiao.io/k/lf1zswm) 
 - [【开发者头条】2022-06-07-从一个新的角度理解游戏社交](https://toutiao.io/k/n3xcb40) 
+- [【开发者头条】2022-06-07-AI-作画初体验](https://toutiao.io/k/lf1zswm) 
 - [【开发者头条】2022-06-07-推荐-不可错过的程序员续命科技](https://toutiao.io/k/wooq1pu) 
 - [【开发者头条】2022-06-07-推荐-架构师成长路线图](https://toutiao.io/k/27b6p2e) 
 - [【开发者头条】2022-06-07-推荐-阿里10年沉淀｜那些技术实战中的架构设计方法](https://toutiao.io/k/e9vlh55) 
 - [【开发者头条】2022-06-07-推荐-如何写出一篇好的技术方案？](https://toutiao.io/k/gl2cth8) 
-- [【开发者头条】2022-06-07-推荐-性能提升40倍——线上真实重构案例分享](https://toutiao.io/k/izbqpxo) 
 - [【开发者头条】2022-06-07-推荐-聊聊接口设计的36个小技巧](https://toutiao.io/k/yqm776v) 
+- [【开发者头条】2022-06-07-推荐-性能提升40倍——线上真实重构案例分享](https://toutiao.io/k/izbqpxo) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

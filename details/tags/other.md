@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-06-07 04:27:58。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-06-07 04:50:50。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1912,6 +1912,9 @@
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2022-03-21-ascent-override-descent-override-line-gap-override一锅端](https://www.zhangxinxu.com/wordpress/2022/03/css-ascent-override-descent/) 
+- [2022-06-07-如何升级-PHP-项目类似-cms?](https://www.v2ex.com/t/857862) 
+- [2022-06-07-我有个疑问，可以吧-Command-+-Tab-修改为调度中心吗？](https://www.v2ex.com/t/857861) 
+- [2022-06-07-有没有能彻底禁止手机安装-APP-的办法](https://www.v2ex.com/t/857860) 
 - [2022-06-07-清库存只是调侃，产品强行差异化分级才是商业逻辑](https://www.v2ex.com/t/857859) 
 - [2022-06-07-海外资金能国内买东西吗？](https://www.v2ex.com/t/857857) 
 - [2022-06-07-怎么买到显示器原装支架](https://www.v2ex.com/t/857856) 
@@ -1942,10 +1945,6 @@
 - [2022-06-07-新系统外放扬声器还爆音嘛](https://www.v2ex.com/t/857818) 
 - [2022-06-07-问问-iPad-Pro-2020-这几年被连续背刺的感受如何-😂](https://www.v2ex.com/t/857817) 
 - [2022-06-07-每天弹无数次这个窗口，但我印象中没用过这个-apple-id，怎么办？](https://www.v2ex.com/t/857815) 
-- [2022-06-07-想做一个-pc-端的编辑器，有兴趣的吗？付费](https://www.v2ex.com/t/857813) 
-- [2022-06-07-iPadOS-扩展外部显示器的功能只支持-m1-芯片？](https://www.v2ex.com/t/857812) 
-- [2022-06-07-把-air-拉到-16+512，-13399](https://www.v2ex.com/t/857811) 
-- [2022-06-07-小米这样的软+硬件公司的软件开发也会外包吗？](https://www.v2ex.com/t/857810) 
 - [2022-06-07-iOS15如何让App启动更快？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15119&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494149%26amp%3Bidx%3D2%26amp%3Bsn%3Df78c229c1bf42fa5bc19b137bd01b4ca%26amp%3Bchksm%3Dfa3f0b5ecd488248750c26ccb7cb86220a416c2657619abefdc9475ddfecf496d91dbbf2dd3d%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-06-07-一款开源OA办公自动化系统-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15118&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494148%26amp%3Bidx%3D1%26amp%3Bsn%3Dc409296967c2c443ac34619a0df1024c%26amp%3Bchksm%3Dfa3f0b5fcd488249ccc9d3a2ae116d0f7e4bd8ff1a35651088cf2ba4eed0a128e473660fdeb3%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-06-07-别再用OFFSET和LIMIT分页了-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15117&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494148%26amp%3Bidx%3D2%26amp%3Bsn%3D457ac577577c945e7827566c4d076745%26amp%3Bchksm%3Dfa3f0b5fcd488249f46db6b8144c812cd84a609a309eb90a9d265226d76dce6eac73a799a723%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

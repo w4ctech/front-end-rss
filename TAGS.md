@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-06-07 10:15:33。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-06-07 10:42:47。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -227,8 +227,7 @@
 
 
 
-- [【V2EX】2022-求推荐个人家用-3D-打印机推荐](https://www.v2ex.com/t/857971)
-- [【V2EX】桌面原生的-gui-程序嵌入命令行程序或者实现一个命令行控件，该从哪方面入手？](https://www.v2ex.com/t/857927)
+- [【V2EX】2022-求个人家用-3D-打印机推荐](https://www.v2ex.com/t/857971)
 - [【技术头条】服饰3D柔性渲染调研及实践-fed.taobao.org](https://blogread.cn/news/go.php?idItem=15108&url=https%3A%2F%2Ffed.taobao.org%2Fblog%2Ftaofed%2Fdo71ct%2Ffufsgh%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [......【查看更多】......](./details/tags/canvas-image.md)
 
@@ -291,6 +290,7 @@
 - [【武汉肺炎防疫全纪录(财新网)】腺病毒新冠疫苗引安全忧虑-康希诺称未发现血栓病例](https://m.caixin.com/m/2021-04-14/101691086.html)
 - [【武汉肺炎防疫全纪录(财新网)】解药|新冠mRNA疫苗安全性有哪些挑战？](https://m.caixin.com/m/2021-01-08/101648043.html)
 - [【武汉肺炎防疫全纪录(财新网)】大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html)
+- [【V2EX】v2ex-or-safari-会缩短标题](https://www.v2ex.com/t/857972)
 - [【V2EX】阿里云安全问题求助](https://www.v2ex.com/t/857956)
 - [【技术头条】改hosts不生效？教你清理Chrome的DNS缓存-hessian.cn](https://blogread.cn/news/go.php?idItem=15106&url=https%3A%2F%2Fhessian.cn%2Fp%2F1645.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [......【查看更多】......](./details/tags/browser.md)
@@ -341,7 +341,6 @@
 
 
 
-- [【V2EX】飞书下架了-gitlab-助手，请问有其他方案实现-git-push-通知么？](https://www.v2ex.com/t/857922)
 - [【开发者头条】GitOps的12个痛点](https://toutiao.io/k/q3ce4kp)
 - [......【查看更多】......](./details/tags/git-svn.md)
 

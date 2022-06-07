@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-06-07 08:45:49。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-06-07 09:14:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 性能优化
 
@@ -7,6 +7,7 @@
 
 
 
+- [2022-06-07-M2-和-M1-Pro-性能差不多吗？](https://www.v2ex.com/t/857949) 
 - [2022-06-07-蹭热度，-IPFS-日用优化指南](https://www.v2ex.com/t/857931) 
 - [2022-06-07-多语言网站的网站地图sitemap.xml如何规划对-SEO-更好?](https://www.v2ex.com/t/857920) 
 - [2022-06-07-性能指标的信仰危机-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15122&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fperformance-indicator%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

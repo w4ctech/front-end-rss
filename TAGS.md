@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-06-07 07:14:07。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-06-07 07:38:12。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -226,6 +226,7 @@
 
 
 
+- [【V2EX】桌面原生的-gui-程序嵌入命令行程序或者实现一个命令行控件，该从哪方面入手？](https://www.v2ex.com/t/857927)
 - [【技术头条】服饰3D柔性渲染调研及实践-fed.taobao.org](https://blogread.cn/news/go.php?idItem=15108&url=https%3A%2F%2Ffed.taobao.org%2Fblog%2Ftaofed%2Fdo71ct%2Ffufsgh%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [......【查看更多】......](./details/tags/canvas-image.md)
 
@@ -261,6 +262,7 @@
 
 
 
+- [【V2EX】多语言网站的网站地图sitemap.xml如何规划对-SEO-更好?](https://www.v2ex.com/t/857920)
 - [【V2EX】也就是如果不在意电费，可以一半的价钱买更高性能的-i7-平台-？](https://www.v2ex.com/t/857890)
 - [【技术头条】在-Apache-Cassandra-中定义和优化数据分区-linux.cn](https://blogread.cn/news/go.php?idItem=15109&url=https%3A%2F%2Flinux.cn%2Farticle-13908-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【开发者头条】推荐-性能提升40倍——线上真实重构案例分享](https://toutiao.io/k/izbqpxo)
@@ -336,6 +338,7 @@
 
 
 
+- [【V2EX】飞书下架了-gitlab-助手，请问有其他方案实现-git-push-通知么？](https://www.v2ex.com/t/857922)
 - [【开发者头条】GitOps的12个痛点](https://toutiao.io/k/q3ce4kp)
 - [......【查看更多】......](./details/tags/git-svn.md)
 

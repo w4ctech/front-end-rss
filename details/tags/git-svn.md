@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-06-07 00:58:30。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-06-07 02:57:16。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Git、SVN
 
@@ -6,3 +6,7 @@
 > 关键字：`Git`、`SVN`
 
 
+
+- [2022-06-07-Copilot-在-IDEA-无法通过-GitHub-验证，如何解决？](https://www.v2ex.com/t/857822) 
+- [2022-06-07-spug-容器内-yum-，-git-clone-都用不了、是什么原因呢；我容器解决了-ping-不了的问题](https://www.v2ex.com/t/857779) 
+- [2022-06-07-GitOps的12个痛点](https://toutiao.io/k/q3ce4kp) 

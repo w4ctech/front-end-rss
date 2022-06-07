@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-06-07 13:11:00。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-06-07 13:58:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -124,6 +124,7 @@
 
 
 
+- [【V2EX】微信小程序做全局状态管理推荐用什么库呢？](https://www.v2ex.com/t/858005)
 - [......【查看更多】......](./details/tags/miniprogram.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -290,7 +291,6 @@
 - [【武汉肺炎防疫全纪录(财新网)】大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html)
 - [【V2EX】Chrome-无法解析前端-url-导致网站打不开,-但是-nslookup-可以返回正确的解析信息](https://www.v2ex.com/t/857985)
 - [【V2EX】v2ex-or-safari-会缩短标题](https://www.v2ex.com/t/857972)
-- [【V2EX】阿里云安全问题求助](https://www.v2ex.com/t/857956)
 - [【技术头条】改hosts不生效？教你清理Chrome的DNS缓存-hessian.cn](https://blogread.cn/news/go.php?idItem=15106&url=https%3A%2F%2Fhessian.cn%2Fp%2F1645.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [......【查看更多】......](./details/tags/browser.md)
 

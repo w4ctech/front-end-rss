@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-06-07 17:21:15，:rocket: 更新条数: +2037， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-06-07 17:44:07，:rocket: 更新条数: +2037， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-06-07-家庭千兆网络升级小白求教](https://www.v2ex.com/t/858040) ![](assets/new.png)  
 - [2022-06-07-什么项目能同时用上-mysql/redis/nginx/es/mq/docker/k8s/rpc/protobuf/session/cookie/jwt？](https://www.v2ex.com/t/858039) ![](assets/new.png)  
 - [2022-06-07-备用机-三星-Note20-地铁上被偷了，二手目测-2000-左右，没开查找手机功能，性价比最高的选择是不是忘掉它](https://www.v2ex.com/t/858038) ![](assets/new.png)  
 - [2022-06-07-去势](https://www.v2ex.com/t/858036) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-06-07-HK-的网-络-审-查首次影响到了服务器-考虑墙-Telegr-am](https://www.v2ex.com/t/858020) ![](assets/new.png)  
 - [2022-06-07-写了个脚本注销-Gitee-帐号](https://www.v2ex.com/t/858019) ![](assets/new.png)  
 - [2022-06-07-vue3-设置-@路径别名后,-编辑器没有提示](https://www.v2ex.com/t/858018) ![](assets/new.png)  
-- [2022-06-07-你们的-ventura-下-parallels17-可以正常使用么？](https://www.v2ex.com/t/858016) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

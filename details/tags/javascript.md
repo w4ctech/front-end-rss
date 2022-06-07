@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-06-07 05:37:38。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-06-07 06:17:27。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -22,3 +22,4 @@
 - [2022-06-07-iOS16-应用适配表，持续更新中](https://www.v2ex.com/t/857863) 
 - [2022-06-07-近期家用设备（NUC、猫盘、路由器）散热升级记录-soulteary.com](https://blogread.cn/news/go.php?idItem=15103&url=https%3A%2F%2Fsoulteary.com%2F2021%2F10%2F14%2Frecent-heat-dissipation-upgrade-record-of-homelab.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-06-07-简化-Go-中对-JSON-的处理](https://toutiao.io/k/4bd3xnn) 
+- [2022-06-07-解析Binder框架](https://toutiao.io/k/94i5zfn) 

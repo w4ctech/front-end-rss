@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-06-07 05:37:38，:rocket: 更新条数: +2028， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-06-07 06:17:27，:rocket: 更新条数: +2032， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,26 +491,26 @@
 </summary>
 
 
+- [2022-06-07-仅限阿里云老用户：新购服务器-3.5-折-不限机型不限区域](https://www.v2ex.com/t/857905) ![](assets/new.png)  
+- [2022-06-07-广州租房体会](https://www.v2ex.com/t/857904) ![](assets/new.png)  
+- [2022-06-07-爱奇艺免费-vip](https://www.v2ex.com/t/857903) ![](assets/new.png)  
+- [2022-06-07-现在开发一个类似有赞搭建的微信小程序商城应该报价多少钱](https://www.v2ex.com/t/857902) ![](assets/new.png)  
+- [2022-06-07-此主题作废](https://www.v2ex.com/t/857901) ![](assets/new.png)  
+- [2022-06-07-请教各位大佬一个问题，有靠谱可以对接支付宝、微信的境外第三方支付么？](https://www.v2ex.com/t/857899) ![](assets/new.png)  
+- [2022-06-07-不知-12-寸-MacBook-何时回归](https://www.v2ex.com/t/857898) ![](assets/new.png)  
+- [2022-06-07-Typora-可以自定义插件吗-类似于这样的：](https://www.v2ex.com/t/857896) ![](assets/new.png)  
+- [2022-06-07-iOS-16-的壁纸可真不错](https://www.v2ex.com/t/857894) ![](assets/new.png)  
+- [2022-06-07-IOS16,已知-BUG](https://www.v2ex.com/t/857893) ![](assets/new.png)  
+- [2022-06-07-疫情下关于隐私的胡思乱想](https://www.v2ex.com/t/857891) ![](assets/new.png)  
+- [2022-06-07-也就是如果不在意电费，可以一半的价钱买更高性能的-i7-平台-？](https://www.v2ex.com/t/857890) ![](assets/new.png)  
+- [2022-06-07-所以-iCloud-Shared-Photo-Library-这东西怎么用？](https://www.v2ex.com/t/857889) ![](assets/new.png)  
+- [2022-06-07-去年-1-月初买的-iPad-Pro-2020，看完-iPadOS-16-发布会有点破防](https://www.v2ex.com/t/857888) ![](assets/new.png)  
+- [2022-06-07-断开-VPN-后邮件和日历都无法连接服务器了](https://www.v2ex.com/t/857887) ![](assets/new.png)  
+- [2022-06-07-趁-618-入手-apple-watch-s7-还是等九月的-s8？](https://www.v2ex.com/t/857886) ![](assets/new.png)  
+- [2022-06-07-坐标上海，有蛮多旧衣服的，有什么好的处理途径？](https://www.v2ex.com/t/857885) ![](assets/new.png)  
 - [2022-06-07-刘海屏-vs-相机互通](https://www.v2ex.com/t/857884) ![](assets/new.png)  
 - [2022-06-07-现在安卓-8G-RAM-是否足够](https://www.v2ex.com/t/857881) ![](assets/new.png)  
 - [2022-06-07-网易云黑胶五张-7-天](https://www.v2ex.com/t/857879) ![](assets/new.png)  
-- [2022-06-07-市场上出现几种类型的老板，你碰到过几种](https://www.v2ex.com/t/857878) ![](assets/new.png)  
-- [2022-06-07-QQ-被反复封号，个人邮箱换成哪家的靠谱？](https://www.v2ex.com/t/857877) ![](assets/new.png)  
-- [2022-06-07-DecoHack-#016-独立产品灵感周刊---苹果-WWDC-这周来了](https://www.v2ex.com/t/857876) ![](assets/new.png)  
-- [2022-06-07-淘宝上的美区-App-Store-礼品卡能不能买？有没有坑？](https://www.v2ex.com/t/857875) ![](assets/new.png)  
-- [2022-06-07-WWDC.playground-第一日活动:-WWDC22-它来了](https://www.v2ex.com/t/857873) ![](assets/new.png)  
-- [2022-06-07-自己有个打印机真的是太方便了！](https://www.v2ex.com/t/857872) ![](assets/new.png)  
-- [2022-06-07-网页版微信读书多配色油猴脚本](https://www.v2ex.com/t/857871) ![](assets/new.png)  
-- [2022-06-07-北京海淀区西北旺软件园二期附近，两室一厅出租](https://www.v2ex.com/t/857870) ![](assets/new.png)  
-- [2022-06-07-前端/杭州-10+-年老前端，求一份工作](https://www.v2ex.com/t/857869) ![](assets/new.png)  
-- [2022-06-07-Kindle-如何修改-User-Agent-访问-JD-读书](https://www.v2ex.com/t/857868) ![](assets/new.png)  
-- [2022-06-07-这种私活有老哥想接吗](https://www.v2ex.com/t/857867) ![](assets/new.png)  
-- [2022-06-07-MOBI-比-AZW3-翻页时更慢](https://www.v2ex.com/t/857865) ![](assets/new.png)  
-- [2022-06-07-iOS16-应用适配表，持续更新中](https://www.v2ex.com/t/857863) ![](assets/new.png)  
-- [2022-06-07-如何升级-PHP-项目类似-cms?](https://www.v2ex.com/t/857862) ![](assets/new.png)  
-- [2022-06-07-我有个疑问，可以吧-Command-+-Tab-修改为调度中心吗？](https://www.v2ex.com/t/857861) ![](assets/new.png)  
-- [2022-06-07-有没有能彻底禁止手机安装-APP-的办法](https://www.v2ex.com/t/857860) ![](assets/new.png)  
-- [2022-06-07-清库存只是调侃，产品强行差异化分级才是商业逻辑](https://www.v2ex.com/t/857859) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -564,15 +564,15 @@
 - [2022-06-07-一周技术学习笔记第67期-CPU的设计跟开闭原则有关系吗](https://toutiao.io/k/jrzq6gf) ![](assets/new.png)  
 - [2022-06-07-从一个新的角度理解游戏社交](https://toutiao.io/k/n3xcb40) ![](assets/new.png)  
 - [2022-06-07-后端思维篇:统一参数校验、异常处理、结果返回](https://toutiao.io/k/1p1lj4l) ![](assets/new.png)  
-- [2022-06-07-晋升遇瓶颈，奋战一线的技术人该停下来看看这些……](https://toutiao.io/k/ng45ywx) ![](assets/new.png)  
 - [2022-06-07-求你了，不要再在对外接口中使用枚举类型了！](https://toutiao.io/k/pu45nt9) ![](assets/new.png)  
 - [2022-06-07-Redis的过期和淘汰是两回事儿](https://toutiao.io/k/7d7jxso) ![](assets/new.png)  
+- [2022-06-07-晋升遇瓶颈，奋战一线的技术人该停下来看看这些……](https://toutiao.io/k/ng45ywx) ![](assets/new.png)  
 - [2022-06-07-AI-作画初体验](https://toutiao.io/k/lf1zswm) ![](assets/new.png)  
-- [2022-06-07-推荐-性能提升40倍——线上真实重构案例分享](https://toutiao.io/k/izbqpxo) ![](assets/new.png)  
-- [2022-06-07-推荐-阿里10年沉淀｜那些技术实战中的架构设计方法](https://toutiao.io/k/e9vlh55) ![](assets/new.png)  
-- [2022-06-07-推荐-聊聊接口设计的36个小技巧](https://toutiao.io/k/yqm776v) ![](assets/new.png)  
-- [2022-06-07-推荐-如何写出一篇好的技术方案？](https://toutiao.io/k/gl2cth8) ![](assets/new.png)  
-- [2022-06-07-推荐-架构师成长路线图](https://toutiao.io/k/27b6p2e) ![](assets/new.png)  
+- [2022-06-07-基于任务调度的企业级分布式批处理方案](https://toutiao.io/k/k9ozo4e) ![](assets/new.png)  
+- [2022-06-07-带你一文吃透-logback.xml-基础和进阶配置](https://toutiao.io/k/ml7t994) ![](assets/new.png)  
+- [2022-06-07-深度剖析-Kafka-Producer-的内部结构！](https://toutiao.io/k/0y7v1sf) ![](assets/new.png)  
+- [2022-06-07-云开发中的战斗机，火了！](https://toutiao.io/k/1kj2z08) ![](assets/new.png)  
+- [2022-06-07-解析Binder框架](https://toutiao.io/k/94i5zfn) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

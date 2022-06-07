@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-06-07 21:14:15，:rocket: 更新条数: +2037， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-06-07 21:38:58，:rocket: 更新条数: +2037， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -572,7 +572,7 @@
 - [2022-06-07-云开发中的战斗机，火了！](https://toutiao.io/k/1kj2z08) ![](assets/new.png)  
 - [2022-06-07-最强肉坦：Rust-多线程](https://toutiao.io/k/klk5u4f) ![](assets/new.png)  
 - [2022-06-07-解析Binder框架](https://toutiao.io/k/94i5zfn) ![](assets/new.png)  
-- [2022-06-07-带你一文吃透-logback.xml-基础和进阶配置](https://toutiao.io/k/ml7t994) ![](assets/new.png)  
+- [2022-06-07-深度剖析-Kafka-Producer-的内部结构！](https://toutiao.io/k/0y7v1sf) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

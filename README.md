@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-06-07 10:42:47，:rocket: 更新条数: +2040， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-06-07 11:12:46，:rocket: 更新条数: +2041， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,12 @@
 </summary>
 
 
+- [2022-06-07-万能的-v-友，大街上拍摄不特定人群是否违法，以及如何息屏拍摄？](https://www.v2ex.com/t/857983) ![](assets/new.png)  
+- [2022-06-07-Sip-for-mac-不是大板本买断?-2.6-板本无法激活](https://www.v2ex.com/t/857982) ![](assets/new.png)  
+- [2022-06-07-杭州|上海-十年工作经验程序员,准备进入区块链-and-Web3-领域-,求勾搭](https://www.v2ex.com/t/857981) ![](assets/new.png)  
+- [2022-06-07-ssh-一天都登录不上-aws-了？](https://www.v2ex.com/t/857980) ![](assets/new.png)  
+- [2022-06-07-iOS16-键盘加了震动](https://www.v2ex.com/t/857979) ![](assets/new.png)  
+- [2022-06-07-今天突然发现我家的宽带是公网-ip](https://www.v2ex.com/t/857978) ![](assets/new.png)  
 - [2022-06-07-从-ios16-降级到-ios15.5](https://www.v2ex.com/t/857977) ![](assets/new.png)  
 - [2022-06-07-看到主机论坛上有网友说用-TX-云/bt-被审？](https://www.v2ex.com/t/857976) ![](assets/new.png)  
 - [2022-06-07-数据库开发方向北京、上海、深圳、成都、杭州、西安等](https://www.v2ex.com/t/857975) ![](assets/new.png)  
@@ -505,12 +511,6 @@
 - [2022-06-07-非广告，号称秒杀-celery-的分布式-框架，-funboost-有人用吗？怎么一股软文味](https://www.v2ex.com/t/857966) ![](assets/new.png)  
 - [2022-06-07-公司发邮件说考勤造假开除](https://www.v2ex.com/t/857965) ![](assets/new.png)  
 - [2022-06-07-css-设置-animation-时单位用-rem，在苹果手机浏览器看，动画内设置的长度和动画外的宽度不一致，请问怎么解决？](https://www.v2ex.com/t/857964) ![](assets/new.png)  
-- [2022-06-07-感觉苹果应该把-Swiftify-买下来](https://www.v2ex.com/t/857963) ![](assets/new.png)  
-- [2022-06-07-macOS-Ventura-Bug-记录贴](https://www.v2ex.com/t/857962) ![](assets/new.png)  
-- [2022-06-07-macOS-13-下打不开商店的-Xcode-13.4.1](https://www.v2ex.com/t/857961) ![](assets/new.png)  
-- [2022-06-07-Brave-设置里打开了-local-IPFS-node-之后访问-ipns://olivida.eth-的效果](https://www.v2ex.com/t/857960) ![](assets/new.png)  
-- [2022-06-07-Java-线程池使用-Future,任务没完成啥意思](https://www.v2ex.com/t/857959) ![](assets/new.png)  
-- [2022-06-07-关于设置-border-image-后-div-内布局空间变得很小的问题](https://www.v2ex.com/t/857958) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -564,9 +564,9 @@
 - [2022-06-07-从一个新的角度理解游戏社交](https://toutiao.io/k/n3xcb40) ![](assets/new.png)  
 - [2022-06-07-Redis的过期和淘汰是两回事儿](https://toutiao.io/k/7d7jxso) ![](assets/new.png)  
 - [2022-06-07-晋升遇瓶颈，奋战一线的技术人该停下来看看这些……](https://toutiao.io/k/ng45ywx) ![](assets/new.png)  
+- [2022-06-07-求你了，不要再在对外接口中使用枚举类型了！](https://toutiao.io/k/pu45nt9) ![](assets/new.png)  
 - [2022-06-07-注意避坑，Vue-Router-4:-路由参数在-created/setup-时不可用](https://toutiao.io/k/9nsa1vw) ![](assets/new.png)  
 - [2022-06-07-一周技术学习笔记第67期-CPU的设计跟开闭原则有关系吗](https://toutiao.io/k/jrzq6gf) ![](assets/new.png)  
-- [2022-06-07-求你了，不要再在对外接口中使用枚举类型了！](https://toutiao.io/k/pu45nt9) ![](assets/new.png)  
 - [2022-06-07-AI-作画初体验](https://toutiao.io/k/lf1zswm) ![](assets/new.png)  
 - [2022-06-07-云开发中的战斗机，火了！](https://toutiao.io/k/1kj2z08) ![](assets/new.png)  
 - [2022-06-07-基于任务调度的企业级分布式批处理方案](https://toutiao.io/k/k9ozo4e) ![](assets/new.png)  

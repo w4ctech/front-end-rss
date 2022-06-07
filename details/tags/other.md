@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-06-07 08:17:59。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-06-07 08:45:49。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1912,6 +1912,9 @@
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2022-03-21-ascent-override-descent-override-line-gap-override一锅端](https://www.zhangxinxu.com/wordpress/2022/03/css-ascent-override-descent/) 
+- [2022-06-07-macOS-Ventura-x86-已上](https://www.v2ex.com/t/857948) 
+- [2022-06-07-第二年车险](https://www.v2ex.com/t/857947) 
+- [2022-06-07-北京有没有什么靠谱的汽车修理店推荐?](https://www.v2ex.com/t/857946) 
 - [2022-06-07-单端加密-One-End-Encryption](https://www.v2ex.com/t/857944) 
 - [2022-06-07-什么软件会存活一百年？](https://www.v2ex.com/t/857943) 
 - [2022-06-07-macOS-Ventura-「信息」应用支持选中多条信息了](https://www.v2ex.com/t/857941) 
@@ -1944,8 +1947,6 @@
 - [2022-06-07-爱奇艺免费-vip](https://www.v2ex.com/t/857903) 
 - [2022-06-07-此主题作废](https://www.v2ex.com/t/857901) 
 - [2022-06-07-请教各位大佬一个问题，有靠谱可以对接支付宝、微信的境外第三方支付么？](https://www.v2ex.com/t/857899) 
-- [2022-06-07-不知-12-寸-MacBook-何时回归](https://www.v2ex.com/t/857898) 
-- [2022-06-07-Typora-可以自定义插件吗-类似于这样的：](https://www.v2ex.com/t/857896) 
 - [2022-06-07-在一个“去QA化”的项目中，QA能做什么？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15121&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fquality-assurance-in-project%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-06-07-iOS15如何让App启动更快？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15119&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494149%26amp%3Bidx%3D2%26amp%3Bsn%3Df78c229c1bf42fa5bc19b137bd01b4ca%26amp%3Bchksm%3Dfa3f0b5ecd488248750c26ccb7cb86220a416c2657619abefdc9475ddfecf496d91dbbf2dd3d%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-06-07-一款开源OA办公自动化系统-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15118&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494148%26amp%3Bidx%3D1%26amp%3Bsn%3Dc409296967c2c443ac34619a0df1024c%26amp%3Bchksm%3Dfa3f0b5fcd488249ccc9d3a2ae116d0f7e4bd8ff1a35651088cf2ba4eed0a128e473660fdeb3%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1974,8 +1975,8 @@
 - [2022-06-07-最强肉坦：Rust-多线程](https://toutiao.io/k/klk5u4f) 
 - [2022-06-07-带你一文吃透-logback.xml-基础和进阶配置](https://toutiao.io/k/ml7t994) 
 - [2022-06-07-深度剖析-Kafka-Producer-的内部结构！](https://toutiao.io/k/0y7v1sf) 
-- [2022-06-07-推荐-阿里10年沉淀｜那些技术实战中的架构设计方法](https://toutiao.io/k/e9vlh55) 
 - [2022-06-07-推荐-聊聊接口设计的36个小技巧](https://toutiao.io/k/yqm776v) 
-- [2022-06-07-推荐-架构师成长路线图](https://toutiao.io/k/27b6p2e) 
-- [2022-06-07-推荐-不可错过的程序员续命科技](https://toutiao.io/k/wooq1pu) 
+- [2022-06-07-推荐-阿里10年沉淀｜那些技术实战中的架构设计方法](https://toutiao.io/k/e9vlh55) 
 - [2022-06-07-推荐-如何写出一篇好的技术方案？](https://toutiao.io/k/gl2cth8) 
+- [2022-06-07-推荐-不可错过的程序员续命科技](https://toutiao.io/k/wooq1pu) 
+- [2022-06-07-推荐-架构师成长路线图](https://toutiao.io/k/27b6p2e) 

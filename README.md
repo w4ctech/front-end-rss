@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-06-07 08:17:59，:rocket: 更新条数: +2035， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-06-07 08:45:49，:rocket: 更新条数: +2036， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,9 @@
 </summary>
 
 
+- [2022-06-07-macOS-Ventura-x86-已上](https://www.v2ex.com/t/857948) ![](assets/new.png)  
+- [2022-06-07-第二年车险](https://www.v2ex.com/t/857947) ![](assets/new.png)  
+- [2022-06-07-北京有没有什么靠谱的汽车修理店推荐?](https://www.v2ex.com/t/857946) ![](assets/new.png)  
 - [2022-06-07-单端加密-One-End-Encryption](https://www.v2ex.com/t/857944) ![](assets/new.png)  
 - [2022-06-07-什么软件会存活一百年？](https://www.v2ex.com/t/857943) ![](assets/new.png)  
 - [2022-06-07-macOS-Ventura-「信息」应用支持选中多条信息了](https://www.v2ex.com/t/857941) ![](assets/new.png)  
@@ -508,9 +511,6 @@
 - [2022-06-07-北京奇安信---ATEAM-找-Python-后端开发](https://www.v2ex.com/t/857928) ![](assets/new.png)  
 - [2022-06-07-桌面原生的-gui-程序嵌入命令行程序或者实现一个命令行控件，该从哪方面入手？](https://www.v2ex.com/t/857927) ![](assets/new.png)  
 - [2022-06-07-SpringBoot-服务启动的时候，不存在引用这个实现类，但是提示内省失败](https://www.v2ex.com/t/857926) ![](assets/new.png)  
-- [2022-06-07-等一个-m2-pro-的-mac-mini](https://www.v2ex.com/t/857925) ![](assets/new.png)  
-- [2022-06-07-有喜欢摇滚乐和金属乐的朋友吗，我在-tg-创立了一个分享频道](https://www.v2ex.com/t/857924) ![](assets/new.png)  
-- [2022-06-07-飞书下架了-gitlab-助手，请问有其他方案实现-git-push-通知么？](https://www.v2ex.com/t/857922) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -562,8 +562,8 @@
 - [2022-06-07-GitOps的12个痛点](https://toutiao.io/k/q3ce4kp) ![](assets/new.png)  
 - [2022-06-07-从一个新的角度理解游戏社交](https://toutiao.io/k/n3xcb40) ![](assets/new.png)  
 - [2022-06-07-后端思维篇:统一参数校验、异常处理、结果返回](https://toutiao.io/k/1p1lj4l) ![](assets/new.png)  
-- [2022-06-07-注意避坑，Vue-Router-4:-路由参数在-created/setup-时不可用](https://toutiao.io/k/9nsa1vw) ![](assets/new.png)  
 - [2022-06-07-Redis的过期和淘汰是两回事儿](https://toutiao.io/k/7d7jxso) ![](assets/new.png)  
+- [2022-06-07-注意避坑，Vue-Router-4:-路由参数在-created/setup-时不可用](https://toutiao.io/k/9nsa1vw) ![](assets/new.png)  
 - [2022-06-07-一周技术学习笔记第67期-CPU的设计跟开闭原则有关系吗](https://toutiao.io/k/jrzq6gf) ![](assets/new.png)  
 - [2022-06-07-晋升遇瓶颈，奋战一线的技术人该停下来看看这些……](https://toutiao.io/k/ng45ywx) ![](assets/new.png)  
 - [2022-06-07-求你了，不要再在对外接口中使用枚举类型了！](https://toutiao.io/k/pu45nt9) ![](assets/new.png)  

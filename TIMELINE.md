@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-06-07 08:17:59。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-06-07 08:45:49。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,9 @@
 </summary>
 
 
+- [【V2EX】2022-06-07-macOS-Ventura-x86-已上](https://www.v2ex.com/t/857948) 
+- [【V2EX】2022-06-07-第二年车险](https://www.v2ex.com/t/857947) 
+- [【V2EX】2022-06-07-北京有没有什么靠谱的汽车修理店推荐?](https://www.v2ex.com/t/857946) 
 - [【V2EX】2022-06-07-单端加密-One-End-Encryption](https://www.v2ex.com/t/857944) 
 - [【V2EX】2022-06-07-什么软件会存活一百年？](https://www.v2ex.com/t/857943) 
 - [【V2EX】2022-06-07-macOS-Ventura-「信息」应用支持选中多条信息了](https://www.v2ex.com/t/857941) 
@@ -108,8 +111,6 @@
 - [【V2EX】2022-06-07-现在开发一个类似有赞搭建的微信小程序商城应该报价多少钱](https://www.v2ex.com/t/857902) 
 - [【V2EX】2022-06-07-此主题作废](https://www.v2ex.com/t/857901) 
 - [【V2EX】2022-06-07-请教各位大佬一个问题，有靠谱可以对接支付宝、微信的境外第三方支付么？](https://www.v2ex.com/t/857899) 
-- [【V2EX】2022-06-07-不知-12-寸-MacBook-何时回归](https://www.v2ex.com/t/857898) 
-- [【V2EX】2022-06-07-Typora-可以自定义插件吗-类似于这样的：](https://www.v2ex.com/t/857896) 
 - [【技术头条】2022-06-07-性能指标的信仰危机-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15122&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fperformance-indicator%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-06-07-在一个“去QA化”的项目中，QA能做什么？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15121&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fquality-assurance-in-project%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-06-07-4个Python编程游戏网站，玩嗨了~-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15120&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494149%26amp%3Bidx%3D1%26amp%3Bsn%3D7525aafe254b1a8017fee638cc5f3340%26amp%3Bchksm%3Dfa3f0b5ecd4882481060c4ccceff14d66ac9348089028ca145d07a17dbd153e46155fb2e0138%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -139,8 +140,8 @@
 - [【开发者头条】2022-06-07-GitOps的12个痛点](https://toutiao.io/k/q3ce4kp) 
 - [【开发者头条】2022-06-07-从一个新的角度理解游戏社交](https://toutiao.io/k/n3xcb40) 
 - [【开发者头条】2022-06-07-后端思维篇:统一参数校验、异常处理、结果返回](https://toutiao.io/k/1p1lj4l) 
-- [【开发者头条】2022-06-07-注意避坑，Vue-Router-4:-路由参数在-created/setup-时不可用](https://toutiao.io/k/9nsa1vw) 
 - [【开发者头条】2022-06-07-Redis的过期和淘汰是两回事儿](https://toutiao.io/k/7d7jxso) 
+- [【开发者头条】2022-06-07-注意避坑，Vue-Router-4:-路由参数在-created/setup-时不可用](https://toutiao.io/k/9nsa1vw) 
 - [【开发者头条】2022-06-07-一周技术学习笔记第67期-CPU的设计跟开闭原则有关系吗](https://toutiao.io/k/jrzq6gf) 
 - [【开发者头条】2022-06-07-晋升遇瓶颈，奋战一线的技术人该停下来看看这些……](https://toutiao.io/k/ng45ywx) 
 - [【开发者头条】2022-06-07-求你了，不要再在对外接口中使用枚举类型了！](https://toutiao.io/k/pu45nt9) 
@@ -151,12 +152,12 @@
 - [【开发者头条】2022-06-07-带你一文吃透-logback.xml-基础和进阶配置](https://toutiao.io/k/ml7t994) 
 - [【开发者头条】2022-06-07-深度剖析-Kafka-Producer-的内部结构！](https://toutiao.io/k/0y7v1sf) 
 - [【开发者头条】2022-06-07-解析Binder框架](https://toutiao.io/k/94i5zfn) 
-- [【开发者头条】2022-06-07-推荐-阿里10年沉淀｜那些技术实战中的架构设计方法](https://toutiao.io/k/e9vlh55) 
-- [【开发者头条】2022-06-07-推荐-性能提升40倍——线上真实重构案例分享](https://toutiao.io/k/izbqpxo) 
 - [【开发者头条】2022-06-07-推荐-聊聊接口设计的36个小技巧](https://toutiao.io/k/yqm776v) 
-- [【开发者头条】2022-06-07-推荐-架构师成长路线图](https://toutiao.io/k/27b6p2e) 
-- [【开发者头条】2022-06-07-推荐-不可错过的程序员续命科技](https://toutiao.io/k/wooq1pu) 
+- [【开发者头条】2022-06-07-推荐-阿里10年沉淀｜那些技术实战中的架构设计方法](https://toutiao.io/k/e9vlh55) 
 - [【开发者头条】2022-06-07-推荐-如何写出一篇好的技术方案？](https://toutiao.io/k/gl2cth8) 
+- [【开发者头条】2022-06-07-推荐-不可错过的程序员续命科技](https://toutiao.io/k/wooq1pu) 
+- [【开发者头条】2022-06-07-推荐-架构师成长路线图](https://toutiao.io/k/27b6p2e) 
+- [【开发者头条】2022-06-07-推荐-性能提升40倍——线上真实重构案例分享](https://toutiao.io/k/izbqpxo) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

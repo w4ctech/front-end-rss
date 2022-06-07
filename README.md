@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-06-07 07:38:12，:rocket: 更新条数: +2033， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-06-07 08:17:59，:rocket: 更新条数: +2035， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,19 @@
 </summary>
 
 
+- [2022-06-07-单端加密-One-End-Encryption](https://www.v2ex.com/t/857944) ![](assets/new.png)  
+- [2022-06-07-什么软件会存活一百年？](https://www.v2ex.com/t/857943) ![](assets/new.png)  
+- [2022-06-07-macOS-Ventura-「信息」应用支持选中多条信息了](https://www.v2ex.com/t/857941) ![](assets/new.png)  
+- [2022-06-07-一次有趣的尝试：用-emoji-当验证码](https://www.v2ex.com/t/857940) ![](assets/new.png)  
+- [2022-06-07-求职，-北京-证券交易结算相关系统的产品](https://www.v2ex.com/t/857939) ![](assets/new.png)  
+- [2022-06-07-WWDC-的一波新版本，大家更新后有什么问题](https://www.v2ex.com/t/857938) ![](assets/new.png)  
+- [2022-06-07-在-iterm2-里面使用-mvn-命令编辑代码的时候会闪一下,请问这种情况怎么解决?](https://www.v2ex.com/t/857937) ![](assets/new.png)  
+- [2022-06-07-iOS-16-无法换行](https://www.v2ex.com/t/857936) ![](assets/new.png)  
+- [2022-06-07-M2-Macbook-可以外接两个-4k-显示器吗](https://www.v2ex.com/t/857935) ![](assets/new.png)  
+- [2022-06-07-新一代-Carplay-能在现在的-carplay-车机用么。](https://www.v2ex.com/t/857934) ![](assets/new.png)  
+- [2022-06-07-为什么无法公开查询交易记录的-XMR-接受度远不如-BCH-甚至狗狗币？](https://www.v2ex.com/t/857933) ![](assets/new.png)  
+- [2022-06-07-Visual-Studio-Code-Python-–-2022-年-5-月更新-–-Black、isort-和-Jupyter-Powertoys](https://www.v2ex.com/t/857932) ![](assets/new.png)  
+- [2022-06-07-蹭热度，-IPFS-日用优化指南](https://www.v2ex.com/t/857931) ![](assets/new.png)  
 - [2022-06-07-微信莫名被限制群聊朋友圈-24-小时](https://www.v2ex.com/t/857929) ![](assets/new.png)  
 - [2022-06-07-北京奇安信---ATEAM-找-Python-后端开发](https://www.v2ex.com/t/857928) ![](assets/new.png)  
 - [2022-06-07-桌面原生的-gui-程序嵌入命令行程序或者实现一个命令行控件，该从哪方面入手？](https://www.v2ex.com/t/857927) ![](assets/new.png)  
@@ -498,19 +511,6 @@
 - [2022-06-07-等一个-m2-pro-的-mac-mini](https://www.v2ex.com/t/857925) ![](assets/new.png)  
 - [2022-06-07-有喜欢摇滚乐和金属乐的朋友吗，我在-tg-创立了一个分享频道](https://www.v2ex.com/t/857924) ![](assets/new.png)  
 - [2022-06-07-飞书下架了-gitlab-助手，请问有其他方案实现-git-push-通知么？](https://www.v2ex.com/t/857922) ![](assets/new.png)  
-- [2022-06-07-好多折腾猫棒的，好奇电信在一些-2000Mbps-的城市自己用的是哪款光猫？](https://www.v2ex.com/t/857921) ![](assets/new.png)  
-- [2022-06-07-多语言网站的网站地图sitemap.xml如何规划对-SEO-更好?](https://www.v2ex.com/t/857920) ![](assets/new.png)  
-- [2022-06-07-2022-应届华为-od-和亿联网络，两个-offer，那个值得去？](https://www.v2ex.com/t/857919) ![](assets/new.png)  
-- [2022-06-07-前端页面直接和连接到-PC-上的设备通信的方法](https://www.v2ex.com/t/857918) ![](assets/new.png)  
-- [2022-06-07-spring-webflux-在哪些环节是异步的？](https://www.v2ex.com/t/857917) ![](assets/new.png)  
-- [2022-06-07-iOS-16-体验收集&分享（Updating）](https://www.v2ex.com/t/857916) ![](assets/new.png)  
-- [2022-06-07-请问有生成产品序列号的软件吗？](https://www.v2ex.com/t/857915) ![](assets/new.png)  
-- [2022-06-07-关于提前还商贷的问题。](https://www.v2ex.com/t/857914) ![](assets/new.png)  
-- [2022-06-07-备案后的网站搬家至-vercel-有坑吗?](https://www.v2ex.com/t/857913) ![](assets/new.png)  
-- [2022-06-07-14+还是等-14p？](https://www.v2ex.com/t/857912) ![](assets/new.png)  
-- [2022-06-07-macOS-Ventura-各种软件适配情况](https://www.v2ex.com/t/857910) ![](assets/new.png)  
-- [2022-06-07-发布一下-Cloudreve-iOS-客户端](https://www.v2ex.com/t/857909) ![](assets/new.png)  
-- [2022-06-07-mac-播放-apple-music,一开始声音是大的,然后突然变小的了一点](https://www.v2ex.com/t/857908) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -522,6 +522,7 @@
 </summary>
 
 
+- [2022-06-07-性能指标的信仰危机-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15122&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fperformance-indicator%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-06-07-在一个“去QA化”的项目中，QA能做什么？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15121&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fquality-assurance-in-project%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-06-07-4个Python编程游戏网站，玩嗨了~-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15120&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494149%26amp%3Bidx%3D1%26amp%3Bsn%3D7525aafe254b1a8017fee638cc5f3340%26amp%3Bchksm%3Dfa3f0b5ecd4882481060c4ccceff14d66ac9348089028ca145d07a17dbd153e46155fb2e0138%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-06-07-iOS15如何让App启动更快？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15119&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494149%26amp%3Bidx%3D2%26amp%3Bsn%3Df78c229c1bf42fa5bc19b137bd01b4ca%26amp%3Bchksm%3Dfa3f0b5ecd488248750c26ccb7cb86220a416c2657619abefdc9475ddfecf496d91dbbf2dd3d%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
@@ -541,7 +542,6 @@
 - [2022-06-07-Nuxt不停机部署指南-hessian.cn](https://blogread.cn/news/go.php?idItem=15105&url=https%3A%2F%2Fhessian.cn%2Fp%2F1643.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-06-07-MySQL-云数据库物理备份本地恢复方案-soulteary.com](https://blogread.cn/news/go.php?idItem=15104&url=https%3A%2F%2Fsoulteary.com%2F2021%2F10%2F13%2Fmysql-cloud-database-physical-backup-local-recovery-solution.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-06-07-近期家用设备（NUC、猫盘、路由器）散热升级记录-soulteary.com](https://blogread.cn/news/go.php?idItem=15103&url=https%3A%2F%2Fsoulteary.com%2F2021%2F10%2F14%2Frecent-heat-dissipation-upgrade-record-of-homelab.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-06-07-curl-设置代理，看这篇就够了-droidyue.com](https://blogread.cn/news/go.php?idItem=15102&url=https%3A%2F%2Fdroidyue.com%2Fblog%2F2021%2F07%2F07%2Fset-proxy-for-curl%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -563,16 +563,16 @@
 - [2022-06-07-从一个新的角度理解游戏社交](https://toutiao.io/k/n3xcb40) ![](assets/new.png)  
 - [2022-06-07-后端思维篇:统一参数校验、异常处理、结果返回](https://toutiao.io/k/1p1lj4l) ![](assets/new.png)  
 - [2022-06-07-注意避坑，Vue-Router-4:-路由参数在-created/setup-时不可用](https://toutiao.io/k/9nsa1vw) ![](assets/new.png)  
-- [2022-06-07-一周技术学习笔记第67期-CPU的设计跟开闭原则有关系吗](https://toutiao.io/k/jrzq6gf) ![](assets/new.png)  
 - [2022-06-07-Redis的过期和淘汰是两回事儿](https://toutiao.io/k/7d7jxso) ![](assets/new.png)  
+- [2022-06-07-一周技术学习笔记第67期-CPU的设计跟开闭原则有关系吗](https://toutiao.io/k/jrzq6gf) ![](assets/new.png)  
 - [2022-06-07-晋升遇瓶颈，奋战一线的技术人该停下来看看这些……](https://toutiao.io/k/ng45ywx) ![](assets/new.png)  
 - [2022-06-07-求你了，不要再在对外接口中使用枚举类型了！](https://toutiao.io/k/pu45nt9) ![](assets/new.png)  
 - [2022-06-07-AI-作画初体验](https://toutiao.io/k/lf1zswm) ![](assets/new.png)  
 - [2022-06-07-基于任务调度的企业级分布式批处理方案](https://toutiao.io/k/k9ozo4e) ![](assets/new.png)  
-- [2022-06-07-带你一文吃透-logback.xml-基础和进阶配置](https://toutiao.io/k/ml7t994) ![](assets/new.png)  
 - [2022-06-07-云开发中的战斗机，火了！](https://toutiao.io/k/1kj2z08) ![](assets/new.png)  
+- [2022-06-07-最强肉坦：Rust-多线程](https://toutiao.io/k/klk5u4f) ![](assets/new.png)  
+- [2022-06-07-带你一文吃透-logback.xml-基础和进阶配置](https://toutiao.io/k/ml7t994) ![](assets/new.png)  
 - [2022-06-07-深度剖析-Kafka-Producer-的内部结构！](https://toutiao.io/k/0y7v1sf) ![](assets/new.png)  
-- [2022-06-07-解析Binder框架](https://toutiao.io/k/94i5zfn) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

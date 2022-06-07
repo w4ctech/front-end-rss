@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-06-07 21:38:58，:rocket: 更新条数: +2037， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-06-07 22:13:17，:rocket: 更新条数: +2037， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -567,8 +567,8 @@
 - [2022-06-07-求你了，不要再在对外接口中使用枚举类型了！](https://toutiao.io/k/pu45nt9) ![](assets/new.png)  
 - [2022-06-07-注意避坑，Vue-Router-4:-路由参数在-created/setup-时不可用](https://toutiao.io/k/9nsa1vw) ![](assets/new.png)  
 - [2022-06-07-一周技术学习笔记第67期-CPU的设计跟开闭原则有关系吗](https://toutiao.io/k/jrzq6gf) ![](assets/new.png)  
-- [2022-06-07-AI-作画初体验](https://toutiao.io/k/lf1zswm) ![](assets/new.png)  
 - [2022-06-07-基于任务调度的企业级分布式批处理方案](https://toutiao.io/k/k9ozo4e) ![](assets/new.png)  
+- [2022-06-07-AI-作画初体验](https://toutiao.io/k/lf1zswm) ![](assets/new.png)  
 - [2022-06-07-云开发中的战斗机，火了！](https://toutiao.io/k/1kj2z08) ![](assets/new.png)  
 - [2022-06-07-最强肉坦：Rust-多线程](https://toutiao.io/k/klk5u4f) ![](assets/new.png)  
 - [2022-06-07-解析Binder框架](https://toutiao.io/k/94i5zfn) ![](assets/new.png)  

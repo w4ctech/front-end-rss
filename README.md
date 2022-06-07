@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-06-07 11:37:12，:rocket: 更新条数: +2041， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-06-07 12:25:54，:rocket: 更新条数: +2042， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,12 @@
 </summary>
 
 
+- [2022-06-07-有没有可能把-mbp-的屏幕接到-mba-的屁股上](https://www.v2ex.com/t/857996) ![](assets/new.png)  
+- [2022-06-07-小米净水器-APP-里面用水量显示不正确！](https://www.v2ex.com/t/857995) ![](assets/new.png)  
+- [2022-06-07-iOS-16-现已支持通过扬声器播报信息](https://www.v2ex.com/t/857994) ![](assets/new.png)  
+- [2022-06-07-Jdbc-字符串拼接-sql-最佳实践是什么](https://www.v2ex.com/t/857993) ![](assets/new.png)  
+- [2022-06-07-好兄弟自己定下的学习计划来让大家监督](https://www.v2ex.com/t/857992) ![](assets/new.png)  
+- [2022-06-07-如何克服怯。。每次看到医生都紧张害怕晕针晕血。](https://www.v2ex.com/t/857990) ![](assets/new.png)  
 - [2022-06-07-刚买的-Mac-studio-丐版-要退货入-m2-吗？不是太懂-问问大家。](https://www.v2ex.com/t/857989) ![](assets/new.png)  
 - [2022-06-07-大家都是怎么看待工作与生活的关系的呢？](https://www.v2ex.com/t/857988) ![](assets/new.png)  
 - [2022-06-07-桌面反光镜求推荐](https://www.v2ex.com/t/857987) ![](assets/new.png)  
@@ -505,12 +511,6 @@
 - [2022-06-07-今天突然发现我家的宽带是公网-ip](https://www.v2ex.com/t/857978) ![](assets/new.png)  
 - [2022-06-07-从-ios16-降级到-ios15.5](https://www.v2ex.com/t/857977) ![](assets/new.png)  
 - [2022-06-07-看到主机论坛上有网友说用-TX-云/bt-被审？](https://www.v2ex.com/t/857976) ![](assets/new.png)  
-- [2022-06-07-数据库开发方向北京、上海、深圳、成都、杭州、西安等](https://www.v2ex.com/t/857975) ![](assets/new.png)  
-- [2022-06-07-有熟悉虚拟币的-v-友吗？](https://www.v2ex.com/t/857974) ![](assets/new.png)  
-- [2022-06-07-Java-有类似于-Redis-锁的，只在本应用的锁吗？](https://www.v2ex.com/t/857973) ![](assets/new.png)  
-- [2022-06-07-v2ex-or-safari-会缩短标题](https://www.v2ex.com/t/857972) ![](assets/new.png)  
-- [2022-06-07-2022-求个人家用-3D-打印机推荐](https://www.v2ex.com/t/857971) ![](assets/new.png)  
-- [2022-06-07-后端开发工程师-Node.js-base-上海，--投递邮箱：-hr@enlighten.finance](https://www.v2ex.com/t/857970) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -568,9 +568,9 @@
 - [2022-06-07-注意避坑，Vue-Router-4:-路由参数在-created/setup-时不可用](https://toutiao.io/k/9nsa1vw) ![](assets/new.png)  
 - [2022-06-07-一周技术学习笔记第67期-CPU的设计跟开闭原则有关系吗](https://toutiao.io/k/jrzq6gf) ![](assets/new.png)  
 - [2022-06-07-AI-作画初体验](https://toutiao.io/k/lf1zswm) ![](assets/new.png)  
+- [2022-06-07-基于任务调度的企业级分布式批处理方案](https://toutiao.io/k/k9ozo4e) ![](assets/new.png)  
 - [2022-06-07-云开发中的战斗机，火了！](https://toutiao.io/k/1kj2z08) ![](assets/new.png)  
 - [2022-06-07-最强肉坦：Rust-多线程](https://toutiao.io/k/klk5u4f) ![](assets/new.png)  
-- [2022-06-07-基于任务调度的企业级分布式批处理方案](https://toutiao.io/k/k9ozo4e) ![](assets/new.png)  
 - [2022-06-07-带你一文吃透-logback.xml-基础和进阶配置](https://toutiao.io/k/ml7t994) ![](assets/new.png)  
 - [2022-06-07-解析Binder框架](https://toutiao.io/k/94i5zfn) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)

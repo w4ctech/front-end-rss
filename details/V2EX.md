@@ -1,10 +1,16 @@
-:alarm_clock: 更新时间: 2022-06-07 11:37:12。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-06-07 12:25:54。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-06-07-有没有可能把-mbp-的屏幕接到-mba-的屁股上](https://www.v2ex.com/t/857996) 
+- [2022-06-07-小米净水器-APP-里面用水量显示不正确！](https://www.v2ex.com/t/857995) 
+- [2022-06-07-iOS-16-现已支持通过扬声器播报信息](https://www.v2ex.com/t/857994) 
+- [2022-06-07-Jdbc-字符串拼接-sql-最佳实践是什么](https://www.v2ex.com/t/857993) 
+- [2022-06-07-好兄弟自己定下的学习计划来让大家监督](https://www.v2ex.com/t/857992) 
+- [2022-06-07-如何克服怯。。每次看到医生都紧张害怕晕针晕血。](https://www.v2ex.com/t/857990) 
 - [2022-06-07-刚买的-Mac-studio-丐版-要退货入-m2-吗？不是太懂-问问大家。](https://www.v2ex.com/t/857989) 
 - [2022-06-07-大家都是怎么看待工作与生活的关系的呢？](https://www.v2ex.com/t/857988) 
 - [2022-06-07-桌面反光镜求推荐](https://www.v2ex.com/t/857987) 
@@ -48,8 +54,3 @@
 - [2022-06-07-M2-和-M1-Pro-性能差不多吗？](https://www.v2ex.com/t/857949) 
 - [2022-06-07-macOS-Ventura-x86-已上](https://www.v2ex.com/t/857948) 
 - [2022-06-07-第二年车险](https://www.v2ex.com/t/857947) 
-- [2022-06-07-北京有没有什么靠谱的汽车修理店推荐?](https://www.v2ex.com/t/857946) 
-- [2022-06-07-单端加密-One-End-Encryption](https://www.v2ex.com/t/857944) 
-- [2022-06-07-什么软件会存活一百年？](https://www.v2ex.com/t/857943) 
-- [2022-06-07-macOS-Ventura-「信息」应用支持选中多条信息了](https://www.v2ex.com/t/857941) 
-- [2022-06-07-一次有趣的尝试：用-emoji-当验证码](https://www.v2ex.com/t/857940) 

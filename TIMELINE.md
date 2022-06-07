@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-06-07 20:40:11。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-06-07 21:14:15。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -112,7 +112,6 @@
 - [【V2EX】2022-06-07-有没有可能把-mbp-的屏幕接到-mba-的屁股上](https://www.v2ex.com/t/857996) 
 - [【V2EX】2022-06-07-小米净水器-APP-里面用水量显示不正确！](https://www.v2ex.com/t/857995) 
 - [【V2EX】2022-06-07-iOS-16-现已支持通过扬声器播报信息](https://www.v2ex.com/t/857994) 
-- [【V2EX】2022-06-07-Jdbc-字符串拼接-sql-最佳实践是什么](https://www.v2ex.com/t/857993) 
 - [【技术头条】2022-06-07-性能指标的信仰危机-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15122&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fperformance-indicator%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-06-07-在一个“去QA化”的项目中，QA能做什么？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15121&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fquality-assurance-in-project%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-06-07-4个Python编程游戏网站，玩嗨了~-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15120&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494149%26amp%3Bidx%3D1%26amp%3Bsn%3D7525aafe254b1a8017fee638cc5f3340%26amp%3Bchksm%3Dfa3f0b5ecd4882481060c4ccceff14d66ac9348089028ca145d07a17dbd153e46155fb2e0138%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -154,12 +153,12 @@
 - [【开发者头条】2022-06-07-解析Binder框架](https://toutiao.io/k/94i5zfn) 
 - [【开发者头条】2022-06-07-带你一文吃透-logback.xml-基础和进阶配置](https://toutiao.io/k/ml7t994) 
 - [【开发者头条】2022-06-07-深度剖析-Kafka-Producer-的内部结构！](https://toutiao.io/k/0y7v1sf) 
-- [【开发者头条】2022-06-07-推荐-如何写出一篇好的技术方案？](https://toutiao.io/k/gl2cth8) 
-- [【开发者头条】2022-06-07-推荐-聊聊接口设计的36个小技巧](https://toutiao.io/k/yqm776v) 
-- [【开发者头条】2022-06-07-推荐-架构师成长路线图](https://toutiao.io/k/27b6p2e) 
 - [【开发者头条】2022-06-07-推荐-性能提升40倍——线上真实重构案例分享](https://toutiao.io/k/izbqpxo) 
-- [【开发者头条】2022-06-07-推荐-阿里10年沉淀｜那些技术实战中的架构设计方法](https://toutiao.io/k/e9vlh55) 
+- [【开发者头条】2022-06-07-推荐-架构师成长路线图](https://toutiao.io/k/27b6p2e) 
 - [【开发者头条】2022-06-07-推荐-不可错过的程序员续命科技](https://toutiao.io/k/wooq1pu) 
+- [【开发者头条】2022-06-07-推荐-聊聊接口设计的36个小技巧](https://toutiao.io/k/yqm776v) 
+- [【开发者头条】2022-06-07-推荐-阿里10年沉淀｜那些技术实战中的架构设计方法](https://toutiao.io/k/e9vlh55) 
+- [【开发者头条】2022-06-07-推荐-如何写出一篇好的技术方案？](https://toutiao.io/k/gl2cth8) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

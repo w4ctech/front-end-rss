@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-06-08 08:19:49。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-06-08 08:46:53。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,12 @@
 </summary>
 
 
+- [【V2EX】2022-06-08-求推荐用于面试的稳定梯子](https://www.v2ex.com/t/858213) 
+- [【V2EX】2022-06-08-在-2022-年的今天，不考虑当主力机的前提下，-iPhone-越狱是否还有什么意义？](https://www.v2ex.com/t/858212) 
+- [【V2EX】2022-06-08-有哪些好用的开源虚拟数字货币钱包？](https://www.v2ex.com/t/858211) 
+- [【V2EX】2022-06-08-有没有人用过-Xcode-扩展的](https://www.v2ex.com/t/858210) 
+- [【V2EX】2022-06-08-w3.org-万维网联盟直接跳反诈](https://www.v2ex.com/t/858209) 
+- [【V2EX】2022-06-08-不想卷了，请问一下大佬，外企开发岗英语要达到一个什么样的水平呢？](https://www.v2ex.com/t/858207) 
 - [【V2EX】2022-06-08-外网服务器连接家里数据库是不是可以用-frp-实现？](https://www.v2ex.com/t/858206) 
 - [【V2EX】2022-06-08-为什么在服务器-hosts-中加客户端-IP-能解决访问慢的问题](https://www.v2ex.com/t/858205) 
 - [【V2EX】2022-06-08-Realme-系统疑似在后台偷传应用列表？](https://www.v2ex.com/t/858204) 
@@ -98,9 +104,6 @@
 - [【V2EX】2022-06-08-如何优雅复制-div-里面包括子节点的所有-class-的-css-样式呢？](https://www.v2ex.com/t/858168) 
 - [【V2EX】2022-06-08-如何将-macos-应用程序安装到其他盘的同时，还能被索引到，就是用聚焦搜索的时候能搜索到](https://www.v2ex.com/t/858166) 
 - [【V2EX】2022-06-08-remix.run-VS-nuxt.js-讨论](https://www.v2ex.com/t/858164) 
-- [【V2EX】2022-06-08-信号增强器有用么？](https://www.v2ex.com/t/858161) 
-- [【V2EX】2022-06-08-AirPods-突然设备间不能自动切换](https://www.v2ex.com/t/858159) 
-- [【V2EX】2022-06-08-WWDC.playground-第二日活动：连线-WWDC22-现场](https://www.v2ex.com/t/858157) 
 - [【技术头条】2022-06-08-验收标准到底是不是测试用例？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15123&url=https%3A%2F%2Finsights.thoughtworks.cn%2Facceptance-criteria-testcases%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-06-08-性能指标的信仰危机-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15122&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fperformance-indicator%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-06-08-在一个“去QA化”的项目中，QA能做什么？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15121&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fquality-assurance-in-project%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -136,17 +139,17 @@
 - [【开发者头条】2022-06-08-技术文档应该怎样裁剪？从谷歌公司用ACC替代测试计划说起](https://toutiao.io/k/nhkz5q3) 
 - [【开发者头条】2022-06-08-让AI-作画更快一点](https://toutiao.io/k/gshupst) 
 - [【开发者头条】2022-06-08-Istio-中实现客户端源-IP-的保持](https://toutiao.io/k/u8ml3j6) 
-- [【开发者头条】2022-06-08-疫情之下，四点认知助你成长！](https://toutiao.io/k/znl16zn) 
 - [【开发者头条】2022-06-08-Go-想要加个箭头语法，这下更像-PHP-了！](https://toutiao.io/k/euwpi97) 
+- [【开发者头条】2022-06-08-疫情之下，四点认知助你成长！](https://toutiao.io/k/znl16zn) 
 - [【开发者头条】2022-06-08-Karmada-v1.2发布：开启全文本搜索新纪元](https://toutiao.io/k/skvvopp) 
 - [【开发者头条】2022-06-08-用了模板字面量类型，同事直呼太强了！](https://toutiao.io/k/rysmwmc) 
 - [【开发者头条】2022-06-08-我是一个Dubbo数据包...](https://toutiao.io/k/lkavwif) 
-- [【开发者头条】2022-06-08-推荐-阿里10年沉淀｜那些技术实战中的架构设计方法](https://toutiao.io/k/e9vlh55) 
-- [【开发者头条】2022-06-08-推荐-架构师成长路线图](https://toutiao.io/k/27b6p2e) 
-- [【开发者头条】2022-06-08-推荐-性能提升40倍——线上真实重构案例分享](https://toutiao.io/k/izbqpxo) 
-- [【开发者头条】2022-06-08-推荐-聊聊接口设计的36个小技巧](https://toutiao.io/k/yqm776v) 
 - [【开发者头条】2022-06-08-推荐-如何写出一篇好的技术方案？](https://toutiao.io/k/gl2cth8) 
+- [【开发者头条】2022-06-08-推荐-阿里10年沉淀｜那些技术实战中的架构设计方法](https://toutiao.io/k/e9vlh55) 
+- [【开发者头条】2022-06-08-推荐-性能提升40倍——线上真实重构案例分享](https://toutiao.io/k/izbqpxo) 
+- [【开发者头条】2022-06-08-推荐-架构师成长路线图](https://toutiao.io/k/27b6p2e) 
 - [【开发者头条】2022-06-08-推荐-不可错过的程序员续命科技](https://toutiao.io/k/wooq1pu) 
+- [【开发者头条】2022-06-08-推荐-聊聊接口设计的36个小技巧](https://toutiao.io/k/yqm776v) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2022-06-08 10:15:36。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-06-08 10:42:44。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-06-08-我感觉我好焦虑……求-v-友们让我清醒一点](https://www.v2ex.com/t/858234) 
 - [2022-06-08-Nginx-为-OMV6-webui-和其他应用配置-sub-path-反向代理的问题](https://www.v2ex.com/t/858232) 
 - [2022-06-08-整了个-Emby-服,速度堪比爱奇艺](https://www.v2ex.com/t/858231) 
 - [2022-06-08-上海/外企/开源-开源明星独角兽-Kong-在中国持续招聘中](https://www.v2ex.com/t/858229) 
@@ -39,4 +40,3 @@
 - [2022-06-08-Linux-Shell-进阶](https://www.v2ex.com/t/858191) 
 - [2022-06-08-求个-surge-for-mac-车位](https://www.v2ex.com/t/858188) 
 - [2022-06-08-ultrafine-4k-周围泛红是受潮的原因吗？](https://www.v2ex.com/t/858186) 
-- [2022-06-08-大家到“数码荔枝”购买产品的时候请擦亮眼睛](https://www.v2ex.com/t/858183) 

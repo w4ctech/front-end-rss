@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-06-08 10:15:36，:rocket: 更新条数: +2027， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-06-08 10:42:44，:rocket: 更新条数: +2027， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-06-08-我感觉我好焦虑……求-v-友们让我清醒一点](https://www.v2ex.com/t/858234) ![](assets/new.png)  
 - [2022-06-08-Nginx-为-OMV6-webui-和其他应用配置-sub-path-反向代理的问题](https://www.v2ex.com/t/858232) ![](assets/new.png)  
 - [2022-06-08-整了个-Emby-服,速度堪比爱奇艺](https://www.v2ex.com/t/858231) ![](assets/new.png)  
 - [2022-06-08-上海/外企/开源-开源明星独角兽-Kong-在中国持续招聘中](https://www.v2ex.com/t/858229) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-06-08-有哪些好用的开源虚拟数字货币钱包？](https://www.v2ex.com/t/858211) ![](assets/new.png)  
 - [2022-06-08-有没有人用过-Xcode-扩展的](https://www.v2ex.com/t/858210) ![](assets/new.png)  
 - [2022-06-08-w3.org-万维网联盟直接跳反诈](https://www.v2ex.com/t/858209) ![](assets/new.png)  
-- [2022-06-08-不想卷了，请问一下大佬，外企开发岗英语要达到一个什么样的水平呢？](https://www.v2ex.com/t/858207) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -566,8 +566,8 @@
 - [2022-06-08-搞定这个日志智能分析设计，大小故障都无处可逃](https://toutiao.io/k/te6v3l8) ![](assets/new.png)  
 - [2022-06-08-干货｜字节跳动数据湖技术选型的思考](https://toutiao.io/k/wcovtyg) ![](assets/new.png)  
 - [2022-06-08-技术文档应该怎样裁剪？从谷歌公司用ACC替代测试计划说起](https://toutiao.io/k/nhkz5q3) ![](assets/new.png)  
-- [2022-06-08-让AI-作画更快一点](https://toutiao.io/k/gshupst) ![](assets/new.png)  
 - [2022-06-08-Istio-中实现客户端源-IP-的保持](https://toutiao.io/k/u8ml3j6) ![](assets/new.png)  
+- [2022-06-08-让AI-作画更快一点](https://toutiao.io/k/gshupst) ![](assets/new.png)  
 - [2022-06-08-Go-想要加个箭头语法，这下更像-PHP-了！](https://toutiao.io/k/euwpi97) ![](assets/new.png)  
 - [2022-06-08-疫情之下，四点认知助你成长！](https://toutiao.io/k/znl16zn) ![](assets/new.png)  
 - [2022-06-08-Karmada-v1.2发布：开启全文本搜索新纪元](https://toutiao.io/k/skvvopp) ![](assets/new.png)  

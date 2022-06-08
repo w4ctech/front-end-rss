@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-06-08 01:00:25，:rocket: 更新条数: +2017， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-06-08 03:01:42，:rocket: 更新条数: +2030， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,26 +491,26 @@
 </summary>
 
 
-- [2022-06-08-macbook-使用无线鼠标-感觉粘粘的-不跟手](https://www.v2ex.com/t/858058) ![](assets/new.png)  
-- [2022-06-08-iPadOS-16-外接显示器还是不能全屏](https://www.v2ex.com/t/858057) ![](assets/new.png)  
-- [2022-06-08-有兄弟姐妹使用过-rustdesk-连接远程的机器么？碰到几个问题](https://www.v2ex.com/t/858056) ![](assets/new.png)  
-- [2022-06-08-求私有笔记方案。有道云笔记丢失昨晚记录，猜测发生数据回滚](https://www.v2ex.com/t/858053) ![](assets/new.png)  
-- [2022-06-08-想买个智障音箱给父母听歌，我是买“天猫精”还是“小爱”](https://www.v2ex.com/t/858050) ![](assets/new.png)  
-- [2022-06-07-半夜时常在脑海拍电影，怎么才能中止这种不正规拍摄](https://www.v2ex.com/t/858049) ![](assets/new.png)  
-- [2022-06-07-macos-monterey-相比-bigsur-到底有没有变的更流畅？](https://www.v2ex.com/t/858048) ![](assets/new.png)  
-- [2022-06-07-什么时候可以买-m2-mbp-啊？](https://www.v2ex.com/t/858047) ![](assets/new.png)  
-- [2022-06-07-MacBook-Air-M2-老铁们选择哪个电源：-35W-的-还是-65W-的？](https://www.v2ex.com/t/858045) ![](assets/new.png)  
-- [2022-06-07-纠结-M2-Air-买-512GB-还是-1TB-好](https://www.v2ex.com/t/858044) ![](assets/new.png)  
-- [2022-06-07-iOS-16-的横向-Face-ID-解锁功能支持哪些机型？](https://www.v2ex.com/t/858042) ![](assets/new.png)  
-- [2022-06-07-求个好的实现方式··](https://www.v2ex.com/t/858041) ![](assets/new.png)  
-- [2022-06-07-家庭千兆网络升级小白求教](https://www.v2ex.com/t/858040) ![](assets/new.png)  
-- [2022-06-07-什么项目能同时用上-mysql/redis/nginx/es/mq/docker/k8s/rpc/protobuf/session/cookie/jwt？](https://www.v2ex.com/t/858039) ![](assets/new.png)  
-- [2022-06-07-备用机-三星-Note20-地铁上被偷了，二手目测-2000-左右，没开查找手机功能，性价比最高的选择是不是忘掉它](https://www.v2ex.com/t/858038) ![](assets/new.png)  
-- [2022-06-07-去势](https://www.v2ex.com/t/858036) ![](assets/new.png)  
-- [2022-06-07-未来十年，更多的创业机会会出现在什么技术领域呢？](https://www.v2ex.com/t/858035) ![](assets/new.png)  
-- [2022-06-07-M1-MBA-升级-Ventura-后，拔下扩展坞再插上不能输出视频信号](https://www.v2ex.com/t/858034) ![](assets/new.png)  
-- [2022-06-07-还有一年落户，还有必要留上海吗](https://www.v2ex.com/t/858033) ![](assets/new.png)  
-- [2022-06-07-刚发现新-air-还升级了四扬声器，但是新-pro-却没有？](https://www.v2ex.com/t/858032) ![](assets/new.png)  
+- [2022-06-08-广深上班往返拼车](https://www.v2ex.com/t/858111) ![](assets/new.png)  
+- [2022-06-08-大家会给-Apple-watch-再配一个充电插头吗？](https://www.v2ex.com/t/858110) ![](assets/new.png)  
+- [2022-06-08-有没有可以听-podcast-翻译版本的方法](https://www.v2ex.com/t/858109) ![](assets/new.png)  
+- [2022-06-08-鼠标轻微抖动很难受，各位有遇到吗？](https://www.v2ex.com/t/858108) ![](assets/new.png)  
+- [2022-06-08-如何批量移动-Markdown-文档内引用的图片到指定路径同时更新引用地址？](https://www.v2ex.com/t/858107) ![](assets/new.png)  
+- [2022-06-08-有-V-友在广州博纳德做过开发吗？](https://www.v2ex.com/t/858106) ![](assets/new.png)  
+- [2022-06-08-怎么看英国部分企业实行一周四天工作制？](https://www.v2ex.com/t/858105) ![](assets/new.png)  
+- [2022-06-08-最适合做云上-NAS-的系统是什么？](https://www.v2ex.com/t/858104) ![](assets/new.png)  
+- [2022-06-08-aria2c-下载文件无法断点续传](https://www.v2ex.com/t/858103) ![](assets/new.png)  
+- [2022-06-08-当前-kindle-是否还值得入手](https://www.v2ex.com/t/858102) ![](assets/new.png)  
+- [2022-06-08-考研失败，恳请大家帮忙看看简历。](https://www.v2ex.com/t/858101) ![](assets/new.png)  
+- [2022-06-08-分享一篇远程工作入门科普指南（内附招聘网站信息）](https://www.v2ex.com/t/858100) ![](assets/new.png)  
+- [2022-06-08-杭州今年裁员的公司有点多](https://www.v2ex.com/t/858099) ![](assets/new.png)  
+- [2022-06-08-M1-Pro-8-核心其实是-10-核心屏蔽-2-个核心而得到的，那么是否可以开核？](https://www.v2ex.com/t/858097) ![](assets/new.png)  
+- [2022-06-08-iPadOS-16-终于要站起来了？](https://www.v2ex.com/t/858095) ![](assets/new.png)  
+- [2022-06-08-昨天-typora-还可以正常使用，今天就不让用了](https://www.v2ex.com/t/858094) ![](assets/new.png)  
+- [2022-06-08-请教一个电脑被爆破的问题](https://www.v2ex.com/t/858093) ![](assets/new.png)  
+- [2022-06-08-Nike+-Run-Club-也不玩了](https://www.v2ex.com/t/858092) ![](assets/new.png)  
+- [2022-06-08-今天早上收到-NRC-的推送，-Nike-Running-Club-要停止运营了](https://www.v2ex.com/t/858091) ![](assets/new.png)  
+- [2022-06-08-国内-iCloud-2T-+-AppleMusic-拼团，还剩三个座位](https://www.v2ex.com/t/858090) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -522,6 +522,7 @@
 </summary>
 
 
+- [2022-06-08-验收标准到底是不是测试用例？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15123&url=https%3A%2F%2Finsights.thoughtworks.cn%2Facceptance-criteria-testcases%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-06-08-性能指标的信仰危机-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15122&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fperformance-indicator%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-06-08-在一个“去QA化”的项目中，QA能做什么？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15121&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fquality-assurance-in-project%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-06-08-4个Python编程游戏网站，玩嗨了~-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15120&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494149%26amp%3Bidx%3D1%26amp%3Bsn%3D7525aafe254b1a8017fee638cc5f3340%26amp%3Bchksm%3Dfa3f0b5ecd4882481060c4ccceff14d66ac9348089028ca145d07a17dbd153e46155fb2e0138%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
@@ -541,7 +542,6 @@
 - [2022-06-08-改hosts不生效？教你清理Chrome的DNS缓存-hessian.cn](https://blogread.cn/news/go.php?idItem=15106&url=https%3A%2F%2Fhessian.cn%2Fp%2F1645.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-06-08-Nuxt不停机部署指南-hessian.cn](https://blogread.cn/news/go.php?idItem=15105&url=https%3A%2F%2Fhessian.cn%2Fp%2F1643.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-06-08-MySQL-云数据库物理备份本地恢复方案-soulteary.com](https://blogread.cn/news/go.php?idItem=15104&url=https%3A%2F%2Fsoulteary.com%2F2021%2F10%2F13%2Fmysql-cloud-database-physical-backup-local-recovery-solution.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-06-08-近期家用设备（NUC、猫盘、路由器）散热升级记录-soulteary.com](https://blogread.cn/news/go.php?idItem=15103&url=https%3A%2F%2Fsoulteary.com%2F2021%2F10%2F14%2Frecent-heat-dissipation-upgrade-record-of-homelab.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -554,18 +554,25 @@
 
 
 - [2022-06-08-推荐一个神器!-3天变全栈工程师?](https://toutiao.io/k/o7qu8wg) ![](assets/new.png)  
-- [2022-06-08-这一次ElasticSearch可能感受到了来自东方的压力-GoFound](https://toutiao.io/k/tduuwu4) ![](assets/new.png)  
 - [2022-06-08-Java核心技术大会2022-·-重磅发布](https://toutiao.io/k/ali5f5v) ![](assets/new.png)  
-- [2022-06-08-GPU-渲染管线和硬件架构浅谈](https://toutiao.io/k/gp8kv4x) ![](assets/new.png)  
+- [2022-06-08-这一次ElasticSearch可能感受到了来自东方的压力-GoFound](https://toutiao.io/k/tduuwu4) ![](assets/new.png)  
 - [2022-06-08-深入浅出区块链技术](https://toutiao.io/k/fsa5y9w) ![](assets/new.png)  
 - [2022-06-08-systrace-统计方法耗时](https://toutiao.io/k/rcnoc5o) ![](assets/new.png)  
+- [2022-06-08-GPU-渲染管线和硬件架构浅谈](https://toutiao.io/k/gp8kv4x) ![](assets/new.png)  
 - [2022-06-08-技术文档应该怎样裁剪？从谷歌公司用ACC替代测试计划说起](https://toutiao.io/k/nhkz5q3) ![](assets/new.png)  
-- [2022-06-08-推荐-性能提升40倍——线上真实重构案例分享](https://toutiao.io/k/izbqpxo) ![](assets/new.png)  
+- [2022-06-08-聊聊保证线程安全的10个小技巧](https://toutiao.io/k/hyy4siz) ![](assets/new.png)  
+- [2022-06-08-HTTP-协议常用返回状态码](https://toutiao.io/k/7w5q9m7) ![](assets/new.png)  
+- [2022-06-08-"企业的业务能力"-是什么-？](https://toutiao.io/k/fdev4al) ![](assets/new.png)  
+- [2022-06-08-如何保障数仓数据质量？](https://toutiao.io/k/re206zi) ![](assets/new.png)  
+- [2022-06-08-这些Shell分析服务器日志命令集锦](https://toutiao.io/k/a3rxith) ![](assets/new.png)  
+- [2022-06-08-干货｜字节跳动数据湖技术选型的思考](https://toutiao.io/k/wcovtyg) ![](assets/new.png)  
+- [2022-06-08-搞定这个日志智能分析设计，大小故障都无处可逃](https://toutiao.io/k/te6v3l8) ![](assets/new.png)  
+- [2022-06-08-千万级数据查询：CK、ES、RediSearch怎么选?](https://toutiao.io/k/238pbvz) ![](assets/new.png)  
+- [2022-06-08-让AI-作画更快一点](https://toutiao.io/k/gshupst) ![](assets/new.png)  
+- [2022-06-08-ASP.NET-Core-配置应用程序地址的N多种方法](https://toutiao.io/k/8kvnuoi) ![](assets/new.png)  
 - [2022-06-08-推荐-不可错过的程序员续命科技](https://toutiao.io/k/wooq1pu) ![](assets/new.png)  
-- [2022-06-08-推荐-阿里10年沉淀｜那些技术实战中的架构设计方法](https://toutiao.io/k/e9vlh55) ![](assets/new.png)  
-- [2022-06-08-推荐-架构师成长路线图](https://toutiao.io/k/27b6p2e) ![](assets/new.png)  
 - [2022-06-08-推荐-如何写出一篇好的技术方案？](https://toutiao.io/k/gl2cth8) ![](assets/new.png)  
-- [2022-06-08-推荐-聊聊接口设计的36个小技巧](https://toutiao.io/k/yqm776v) ![](assets/new.png)  
+- [2022-06-08-推荐-架构师成长路线图](https://toutiao.io/k/27b6p2e) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

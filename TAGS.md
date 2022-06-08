@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-06-08 01:00:25。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-06-08 03:01:42。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -55,7 +55,6 @@
 
 
 
-- [【V2EX】vue3-设置-@路径别名后,-编辑器没有提示](https://www.v2ex.com/t/858018)
 - [......【查看更多】......](./details/tags/vue.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -106,7 +105,6 @@
 
 
 
-- [【V2EX】求助,-tailscale-docker-版本怎么设置-exit-node-才有效?](https://www.v2ex.com/t/858015)
 - [......【查看更多】......](./details/tags/nodejs.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -155,6 +153,7 @@
 
 
 
+- [【V2EX】现在微信小游戏也要实名认证了啊。。。这个会阻碍大家玩微信小游戏吗（针对本来玩的人）](https://www.v2ex.com/t/858075)
 - [【技术头条】4个Python编程游戏网站，玩嗨了~-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15120&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494149%26amp%3Bidx%3D1%26amp%3Bsn%3D7525aafe254b1a8017fee638cc5f3340%26amp%3Bchksm%3Dfa3f0b5ecd4882481060c4ccceff14d66ac9348089028ca145d07a17dbd153e46155fb2e0138%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [......【查看更多】......](./details/tags/dev-game.md)
 
@@ -184,7 +183,6 @@
 - [【张鑫旭-鑫空间-鑫生活】小tips:-JS字体加载失败或完毕的检测](https://www.zhangxinxu.com/wordpress/2022/04/js-font-face-load/)
 - [【张鑫旭-鑫空间-鑫生活】CSS实现滚动高度自动变小的粘滞效果](https://www.zhangxinxu.com/wordpress/2022/04/css-sticky-size-change/)
 - [【张鑫旭-鑫空间-鑫生活】基于howler.js写了个音频播放器组件](https://www.zhangxinxu.com/wordpress/2022/03/howler-js-audio-player/)
-- [【技术头条】近期家用设备（NUC、猫盘、路由器）散热升级记录-soulteary.com](https://blogread.cn/news/go.php?idItem=15103&url=https%3A%2F%2Fsoulteary.com%2F2021%2F10%2F14%2Frecent-heat-dissipation-upgrade-record-of-homelab.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [......【查看更多】......](./details/tags/javascript.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -239,9 +237,7 @@
 
 - [【武汉肺炎防疫全纪录(财新网)】广州17岁男生在定点医院参加高考-特殊考场视频监考](https://m.caixin.com/m/2021-06-05/101723418.html)
 - [【武汉肺炎防疫全纪录(财新网)】林郑月娥率13高官直播接种科兴疫苗-复星疫苗预计周中到港](https://m.caixin.com/m/2021-02-22/101665724.html)
-- [【V2EX】M1-MBA-升级-Ventura-后，拔下扩展坞再插上不能输出视频信号](https://www.v2ex.com/t/858034)
-- [【V2EX】求教-管道环焊缝-X-射线数字图像-如何双丝测量](https://www.v2ex.com/t/858029)
-- [【V2EX】请教：怎么-DIY-一个随身摄像头，想自己做一个符合自己需求的](https://www.v2ex.com/t/858025)
+- [【V2EX】iOS16-的个性化空间音频早就该出了，听感提升巨大](https://www.v2ex.com/t/858086)
 - [......【查看更多】......](./details/tags/audio-video.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -283,9 +279,11 @@
 - [【武汉肺炎防疫全纪录(财新网)】腺病毒新冠疫苗引安全忧虑-康希诺称未发现血栓病例](https://m.caixin.com/m/2021-04-14/101691086.html)
 - [【武汉肺炎防疫全纪录(财新网)】解药|新冠mRNA疫苗安全性有哪些挑战？](https://m.caixin.com/m/2021-01-08/101648043.html)
 - [【武汉肺炎防疫全纪录(财新网)】大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html)
-- [【V2EX】什么项目能同时用上-mysql/redis/nginx/es/mq/docker/k8s/rpc/protobuf/session/cookie/jwt？](https://www.v2ex.com/t/858039)
+- [【V2EX】有什么浏览器扩展可以云同步，整合书签的？越傻瓜越好，不想因为这事儿用脑。](https://www.v2ex.com/t/858068)
 - [【技术头条】改hosts不生效？教你清理Chrome的DNS缓存-hessian.cn](https://blogread.cn/news/go.php?idItem=15106&url=https%3A%2F%2Fhessian.cn%2Fp%2F1645.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【开发者头条】GPU-渲染管线和硬件架构浅谈](https://toutiao.io/k/gp8kv4x)
+- [【开发者头条】聊聊保证线程安全的10个小技巧](https://toutiao.io/k/hyy4siz)
+- [【开发者头条】HTTP-协议常用返回状态码](https://toutiao.io/k/7w5q9m7)
 - [......【查看更多】......](./details/tags/browser.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -302,7 +300,8 @@
 
 
 
-- [【V2EX】HTTP/3-正式开始标准化流程了——RFC-9114。三大运营商是否仍然不待见-UDP？](https://www.v2ex.com/t/858012)
+- [【V2EX】有没有可以听-podcast-翻译版本的方法](https://www.v2ex.com/t/858109)
+- [【V2EX】求职很多都是前端偏全栈，我现在是纯前端，要怎么往全栈方面学习呢？](https://www.v2ex.com/t/858074)
 - [【开发者头条】推荐一个神器!-3天变全栈工程师?](https://toutiao.io/k/o7qu8wg)
 - [【开发者头条】这一次ElasticSearch可能感受到了来自东方的压力-GoFound](https://toutiao.io/k/tduuwu4)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
@@ -337,7 +336,6 @@
 
 
 
-- [【V2EX】写了个脚本注销-Gitee-帐号](https://www.v2ex.com/t/858019)
 - [......【查看更多】......](./details/tags/git-svn.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -354,6 +352,7 @@
 
 
 
+- [【V2EX】分享一篇远程工作入门科普指南（内附招聘网站信息）](https://www.v2ex.com/t/858100)
 - [【技术头条】面试官：Java反射是什么？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15115&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494145%26amp%3Bidx%3D2%26amp%3Bsn%3D32bbd28f61522900d0fca0135d4c3a69%26amp%3Bchksm%3Dfa3f0b5acd48824c8b0b637aa499dfbb749e97a8cc28ec30887bb77d99628c931a87ede7cc7e%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [......【查看更多】......](./details/tags/job-interview.md)
 

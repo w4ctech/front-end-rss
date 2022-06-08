@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-06-08 13:09:44，:rocket: 更新条数: +2030， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-06-08 13:56:37，:rocket: 更新条数: +2030， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,10 @@
 </summary>
 
 
+- [2022-06-08-iOS16-可以扫描出重复的照片和视频](https://www.v2ex.com/t/858267) ![](assets/new.png)  
+- [2022-06-08-请问有没有适合高校科研人员的代理规则？希望直连常见的科研数据库，比如-Elsevier](https://www.v2ex.com/t/858266) ![](assets/new.png)  
+- [2022-06-08-入坑苹果-mbp2021-顶配，这新技术到底什么来头？](https://www.v2ex.com/t/858265) ![](assets/new.png)  
+- [2022-06-08-hr-没有经过我的同意下背调](https://www.v2ex.com/t/858263) ![](assets/new.png)  
 - [2022-06-08-pdd-二手的-iPhone-SE2-900-块有没有买过的朋友](https://www.v2ex.com/t/858262) ![](assets/new.png)  
 - [2022-06-08-请教个京东退货问题](https://www.v2ex.com/t/858261) ![](assets/new.png)  
 - [2022-06-08-zilliz-这家公司有老哥了解吗？](https://www.v2ex.com/t/858260) ![](assets/new.png)  
@@ -507,10 +511,6 @@
 - [2022-06-08-基于-libretro-web-player-封装了一个模拟器-js-组件](https://www.v2ex.com/t/858246) ![](assets/new.png)  
 - [2022-06-08-Telegram-如何禁止陌生人给自己发信息？](https://www.v2ex.com/t/858245) ![](assets/new.png)  
 - [2022-06-08-没-TPM-的-PC-突然提示可以升级到-Windows-11-了](https://www.v2ex.com/t/858244) ![](assets/new.png)  
-- [2022-06-08-突然发现-2016-款的-MacBook-Pro-被新系统-Ventura-开除了！](https://www.v2ex.com/t/858243) ![](assets/new.png)  
-- [2022-06-08-有没有纯粹一点的小说阅读软件，-Web-版或者-Android-端均可](https://www.v2ex.com/t/858242) ![](assets/new.png)  
-- [2022-06-08-偶然发现-yii2-被它的一位核心开发者在三年前说是-`outdated-technology`](https://www.v2ex.com/t/858240) ![](assets/new.png)  
-- [2022-06-08-有什么办法区分是-chrome-还是用户自己编译的-chromium](https://www.v2ex.com/t/858238) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -561,16 +561,16 @@
 - [2022-06-08-"企业的业务能力"-是什么-？](https://toutiao.io/k/fdev4al) ![](assets/new.png)  
 - [2022-06-08-这些Shell分析服务器日志命令集锦](https://toutiao.io/k/a3rxith) ![](assets/new.png)  
 - [2022-06-08-如何保障数仓数据质量？](https://toutiao.io/k/re206zi) ![](assets/new.png)  
+- [2022-06-08-干货｜字节跳动数据湖技术选型的思考](https://toutiao.io/k/wcovtyg) ![](assets/new.png)  
 - [2022-06-08-systrace-统计方法耗时](https://toutiao.io/k/rcnoc5o) ![](assets/new.png)  
 - [2022-06-08-GPU-渲染管线和硬件架构浅谈](https://toutiao.io/k/gp8kv4x) ![](assets/new.png)  
 - [2022-06-08-搞定这个日志智能分析设计，大小故障都无处可逃](https://toutiao.io/k/te6v3l8) ![](assets/new.png)  
-- [2022-06-08-干货｜字节跳动数据湖技术选型的思考](https://toutiao.io/k/wcovtyg) ![](assets/new.png)  
 - [2022-06-08-Istio-中实现客户端源-IP-的保持](https://toutiao.io/k/u8ml3j6) ![](assets/new.png)  
 - [2022-06-08-技术文档应该怎样裁剪？从谷歌公司用ACC替代测试计划说起](https://toutiao.io/k/nhkz5q3) ![](assets/new.png)  
 - [2022-06-08-让AI-作画更快一点](https://toutiao.io/k/gshupst) ![](assets/new.png)  
 - [2022-06-08-Go-想要加个箭头语法，这下更像-PHP-了！](https://toutiao.io/k/euwpi97) ![](assets/new.png)  
-- [2022-06-08-疫情之下，四点认知助你成长！](https://toutiao.io/k/znl16zn) ![](assets/new.png)  
 - [2022-06-08-Karmada-v1.2发布：开启全文本搜索新纪元](https://toutiao.io/k/skvvopp) ![](assets/new.png)  
+- [2022-06-08-疫情之下，四点认知助你成长！](https://toutiao.io/k/znl16zn) ![](assets/new.png)  
 - [2022-06-08-用了模板字面量类型，同事直呼太强了！](https://toutiao.io/k/rysmwmc) ![](assets/new.png)  
 - [2022-06-08-我是一个Dubbo数据包...](https://toutiao.io/k/lkavwif) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-06-08 08:46:53。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-06-08 09:14:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1912,6 +1912,10 @@
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2022-03-21-ascent-override-descent-override-line-gap-override一锅端](https://www.zhangxinxu.com/wordpress/2022/03/css-ascent-override-descent/) 
+- [2022-06-08-最近想试试-Surge-，来开个车。。。](https://www.v2ex.com/t/858219) 
+- [2022-06-08-可以用上-starlink-吗？](https://www.v2ex.com/t/858218) 
+- [2022-06-08-请问下屏幕使用时间](https://www.v2ex.com/t/858217) 
+- [2022-06-08-上海，被封小区-77-天后，第一天上班又被封公司？](https://www.v2ex.com/t/858216) 
 - [2022-06-08-在-2022-年的今天，不考虑当主力机的前提下，-iPhone-越狱是否还有什么意义？](https://www.v2ex.com/t/858212) 
 - [2022-06-08-有哪些好用的开源虚拟数字货币钱包？](https://www.v2ex.com/t/858211) 
 - [2022-06-08-有没有人用过-Xcode-扩展的](https://www.v2ex.com/t/858210) 
@@ -1939,8 +1943,6 @@
 - [2022-06-08-两台手机登录同一个-id-无法收到另一台的短信](https://www.v2ex.com/t/858172) 
 - [2022-06-08-如何将加拿大服务器上总计-200T-的文件传输到国内？](https://www.v2ex.com/t/858171) 
 - [2022-06-08-最近突然意识到通话录音这个功能还是挺重要的，-iPhone-真的没有办法实现么？](https://www.v2ex.com/t/858170) 
-- [2022-06-08-如何在编译时检测是否引入开发的代码](https://www.v2ex.com/t/858169) 
-- [2022-06-08-如何将-macos-应用程序安装到其他盘的同时，还能被索引到，就是用聚焦搜索的时候能搜索到](https://www.v2ex.com/t/858166) 
 - [2022-06-08-验收标准到底是不是测试用例？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15123&url=https%3A%2F%2Finsights.thoughtworks.cn%2Facceptance-criteria-testcases%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-06-08-在一个“去QA化”的项目中，QA能做什么？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15121&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fquality-assurance-in-project%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-06-08-iOS15如何让App启动更快？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15119&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494149%26amp%3Bidx%3D2%26amp%3Bsn%3Df78c229c1bf42fa5bc19b137bd01b4ca%26amp%3Bchksm%3Dfa3f0b5ecd488248750c26ccb7cb86220a416c2657619abefdc9475ddfecf496d91dbbf2dd3d%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1970,8 +1972,8 @@
 - [2022-06-08-Karmada-v1.2发布：开启全文本搜索新纪元](https://toutiao.io/k/skvvopp) 
 - [2022-06-08-用了模板字面量类型，同事直呼太强了！](https://toutiao.io/k/rysmwmc) 
 - [2022-06-08-我是一个Dubbo数据包...](https://toutiao.io/k/lkavwif) 
-- [2022-06-08-推荐-如何写出一篇好的技术方案？](https://toutiao.io/k/gl2cth8) 
-- [2022-06-08-推荐-阿里10年沉淀｜那些技术实战中的架构设计方法](https://toutiao.io/k/e9vlh55) 
-- [2022-06-08-推荐-架构师成长路线图](https://toutiao.io/k/27b6p2e) 
-- [2022-06-08-推荐-不可错过的程序员续命科技](https://toutiao.io/k/wooq1pu) 
 - [2022-06-08-推荐-聊聊接口设计的36个小技巧](https://toutiao.io/k/yqm776v) 
+- [2022-06-08-推荐-如何写出一篇好的技术方案？](https://toutiao.io/k/gl2cth8) 
+- [2022-06-08-推荐-架构师成长路线图](https://toutiao.io/k/27b6p2e) 
+- [2022-06-08-推荐-阿里10年沉淀｜那些技术实战中的架构设计方法](https://toutiao.io/k/e9vlh55) 
+- [2022-06-08-推荐-不可错过的程序员续命科技](https://toutiao.io/k/wooq1pu) 

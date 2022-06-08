@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-06-08 08:46:53。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-06-08 09:14:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -20,4 +20,3 @@
 - [2022-04-22-CSS实现滚动高度自动变小的粘滞效果](https://www.zhangxinxu.com/wordpress/2022/04/css-sticky-size-change/) 
 - [2022-03-15-基于howler.js写了个音频播放器组件](https://www.zhangxinxu.com/wordpress/2022/03/howler-js-audio-player/) 
 - [2022-06-08-出租屋-40-平方,-三四台设备,-有什么稳定不断流性价比高的路由器推荐吗?](https://www.v2ex.com/t/858174) 
-- [2022-06-08-remix.run-VS-nuxt.js-讨论](https://www.v2ex.com/t/858164) 

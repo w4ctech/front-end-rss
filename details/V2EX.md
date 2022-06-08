@@ -1,10 +1,15 @@
-:alarm_clock: 更新时间: 2022-06-08 04:54:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-06-08 05:14:05。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-06-08-iPhone-XR（64G）用久了系统数据会占用超过-25G-导致剩余空间捉襟见肘，请问有没有简单的办法可以触发清理？](https://www.v2ex.com/t/858156) 
+- [2022-06-08-深圳入户有多少好处？买社保的角度](https://www.v2ex.com/t/858154) 
+- [2022-06-08-JS-使用-getYear-获取当前年份前面返回结果前面会多个-1](https://www.v2ex.com/t/858153) 
+- [2022-06-08-2020-款-MacBook-Pro-16+512-换成-2020-款-MacBook-Air-会有体验上很大的改变吗？](https://www.v2ex.com/t/858152) 
+- [2022-06-08-观-新-MacBook-Air-m2-有感](https://www.v2ex.com/t/858151) 
 - [2022-06-08-普通开发面试会问-k8s-吗](https://www.v2ex.com/t/858150) 
 - [2022-06-08-V2Ex-怎么删除回复和评论以及主题？](https://www.v2ex.com/t/858149) 
 - [2022-06-08-解决了一个从-macOS-Monterey-以来反复出现的-Time-Machine-备份至-Synology-NAS-问题](https://www.v2ex.com/t/858146) 
@@ -38,9 +43,3 @@
 - [2022-06-08-有没有可以听-podcast-翻译版本的方法](https://www.v2ex.com/t/858109) 
 - [2022-06-08-鼠标轻微抖动很难受，各位有遇到吗？](https://www.v2ex.com/t/858108) 
 - [2022-06-08-如何批量移动-Markdown-文档内引用的图片到指定路径同时更新引用地址？](https://www.v2ex.com/t/858107) 
-- [2022-06-08-有-V-友在广州博纳德做过开发吗？](https://www.v2ex.com/t/858106) 
-- [2022-06-08-怎么看英国部分企业实行一周四天工作制？](https://www.v2ex.com/t/858105) 
-- [2022-06-08-最适合做云上-NAS-的系统是什么？](https://www.v2ex.com/t/858104) 
-- [2022-06-08-aria2c-下载文件无法断点续传](https://www.v2ex.com/t/858103) 
-- [2022-06-08-当前-kindle-是否还值得入手](https://www.v2ex.com/t/858102) 
-- [2022-06-08-考研失败，恳请大家帮忙看看简历。](https://www.v2ex.com/t/858101) 

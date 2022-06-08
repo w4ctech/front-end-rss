@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-06-08 04:54:22。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-06-08 05:14:05。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,11 @@
 </summary>
 
 
+- [【V2EX】2022-06-08-iPhone-XR（64G）用久了系统数据会占用超过-25G-导致剩余空间捉襟见肘，请问有没有简单的办法可以触发清理？](https://www.v2ex.com/t/858156) 
+- [【V2EX】2022-06-08-深圳入户有多少好处？买社保的角度](https://www.v2ex.com/t/858154) 
+- [【V2EX】2022-06-08-JS-使用-getYear-获取当前年份前面返回结果前面会多个-1](https://www.v2ex.com/t/858153) 
+- [【V2EX】2022-06-08-2020-款-MacBook-Pro-16+512-换成-2020-款-MacBook-Air-会有体验上很大的改变吗？](https://www.v2ex.com/t/858152) 
+- [【V2EX】2022-06-08-观-新-MacBook-Air-m2-有感](https://www.v2ex.com/t/858151) 
 - [【V2EX】2022-06-08-普通开发面试会问-k8s-吗](https://www.v2ex.com/t/858150) 
 - [【V2EX】2022-06-08-V2Ex-怎么删除回复和评论以及主题？](https://www.v2ex.com/t/858149) 
 - [【V2EX】2022-06-08-解决了一个从-macOS-Monterey-以来反复出现的-Time-Machine-备份至-Synology-NAS-问题](https://www.v2ex.com/t/858146) 
@@ -101,12 +106,6 @@
 - [【V2EX】2022-06-08-有没有可以听-podcast-翻译版本的方法](https://www.v2ex.com/t/858109) 
 - [【V2EX】2022-06-08-鼠标轻微抖动很难受，各位有遇到吗？](https://www.v2ex.com/t/858108) 
 - [【V2EX】2022-06-08-如何批量移动-Markdown-文档内引用的图片到指定路径同时更新引用地址？](https://www.v2ex.com/t/858107) 
-- [【V2EX】2022-06-08-有-V-友在广州博纳德做过开发吗？](https://www.v2ex.com/t/858106) 
-- [【V2EX】2022-06-08-怎么看英国部分企业实行一周四天工作制？](https://www.v2ex.com/t/858105) 
-- [【V2EX】2022-06-08-最适合做云上-NAS-的系统是什么？](https://www.v2ex.com/t/858104) 
-- [【V2EX】2022-06-08-aria2c-下载文件无法断点续传](https://www.v2ex.com/t/858103) 
-- [【V2EX】2022-06-08-当前-kindle-是否还值得入手](https://www.v2ex.com/t/858102) 
-- [【V2EX】2022-06-08-考研失败，恳请大家帮忙看看简历。](https://www.v2ex.com/t/858101) 
 - [【技术头条】2022-06-08-验收标准到底是不是测试用例？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15123&url=https%3A%2F%2Finsights.thoughtworks.cn%2Facceptance-criteria-testcases%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-06-08-性能指标的信仰危机-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15122&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fperformance-indicator%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-06-08-在一个“去QA化”的项目中，QA能做什么？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15121&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fquality-assurance-in-project%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -133,20 +132,20 @@
 - [【开发者头条】2022-06-08-深入浅出区块链技术](https://toutiao.io/k/fsa5y9w) 
 - [【开发者头条】2022-06-08-聊聊保证线程安全的10个小技巧](https://toutiao.io/k/hyy4siz) 
 - [【开发者头条】2022-06-08-systrace-统计方法耗时](https://toutiao.io/k/rcnoc5o) 
-- [【开发者头条】2022-06-08-这些Shell分析服务器日志命令集锦](https://toutiao.io/k/a3rxith) 
 - [【开发者头条】2022-06-08-"企业的业务能力"-是什么-？](https://toutiao.io/k/fdev4al) 
+- [【开发者头条】2022-06-08-这些Shell分析服务器日志命令集锦](https://toutiao.io/k/a3rxith) 
 - [【开发者头条】2022-06-08-GPU-渲染管线和硬件架构浅谈](https://toutiao.io/k/gp8kv4x) 
+- [【开发者头条】2022-06-08-如何保障数仓数据质量？](https://toutiao.io/k/re206zi) 
 - [【开发者头条】2022-06-08-搞定这个日志智能分析设计，大小故障都无处可逃](https://toutiao.io/k/te6v3l8) 
 - [【开发者头条】2022-06-08-干货｜字节跳动数据湖技术选型的思考](https://toutiao.io/k/wcovtyg) 
 - [【开发者头条】2022-06-08-技术文档应该怎样裁剪？从谷歌公司用ACC替代测试计划说起](https://toutiao.io/k/nhkz5q3) 
-- [【开发者头条】2022-06-08-如何保障数仓数据质量？](https://toutiao.io/k/re206zi) 
 - [【开发者头条】2022-06-08-让AI-作画更快一点](https://toutiao.io/k/gshupst) 
-- [【开发者头条】2022-06-08-推荐-性能提升40倍——线上真实重构案例分享](https://toutiao.io/k/izbqpxo) 
-- [【开发者头条】2022-06-08-推荐-如何写出一篇好的技术方案？](https://toutiao.io/k/gl2cth8) 
 - [【开发者头条】2022-06-08-推荐-不可错过的程序员续命科技](https://toutiao.io/k/wooq1pu) 
+- [【开发者头条】2022-06-08-推荐-性能提升40倍——线上真实重构案例分享](https://toutiao.io/k/izbqpxo) 
 - [【开发者头条】2022-06-08-推荐-阿里10年沉淀｜那些技术实战中的架构设计方法](https://toutiao.io/k/e9vlh55) 
-- [【开发者头条】2022-06-08-推荐-聊聊接口设计的36个小技巧](https://toutiao.io/k/yqm776v) 
 - [【开发者头条】2022-06-08-推荐-架构师成长路线图](https://toutiao.io/k/27b6p2e) 
+- [【开发者头条】2022-06-08-推荐-如何写出一篇好的技术方案？](https://toutiao.io/k/gl2cth8) 
+- [【开发者头条】2022-06-08-推荐-聊聊接口设计的36个小技巧](https://toutiao.io/k/yqm776v) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

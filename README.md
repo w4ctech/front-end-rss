@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-06-08 04:54:22，:rocket: 更新条数: +2025， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-06-08 05:14:05，:rocket: 更新条数: +2024， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,11 @@
 </summary>
 
 
+- [2022-06-08-iPhone-XR（64G）用久了系统数据会占用超过-25G-导致剩余空间捉襟见肘，请问有没有简单的办法可以触发清理？](https://www.v2ex.com/t/858156) ![](assets/new.png)  
+- [2022-06-08-深圳入户有多少好处？买社保的角度](https://www.v2ex.com/t/858154) ![](assets/new.png)  
+- [2022-06-08-JS-使用-getYear-获取当前年份前面返回结果前面会多个-1](https://www.v2ex.com/t/858153) ![](assets/new.png)  
+- [2022-06-08-2020-款-MacBook-Pro-16+512-换成-2020-款-MacBook-Air-会有体验上很大的改变吗？](https://www.v2ex.com/t/858152) ![](assets/new.png)  
+- [2022-06-08-观-新-MacBook-Air-m2-有感](https://www.v2ex.com/t/858151) ![](assets/new.png)  
 - [2022-06-08-普通开发面试会问-k8s-吗](https://www.v2ex.com/t/858150) ![](assets/new.png)  
 - [2022-06-08-V2Ex-怎么删除回复和评论以及主题？](https://www.v2ex.com/t/858149) ![](assets/new.png)  
 - [2022-06-08-解决了一个从-macOS-Monterey-以来反复出现的-Time-Machine-备份至-Synology-NAS-问题](https://www.v2ex.com/t/858146) ![](assets/new.png)  
@@ -506,11 +511,6 @@
 - [2022-06-08-发现一个视频网站的终极形态](https://www.v2ex.com/t/858134) ![](assets/new.png)  
 - [2022-06-08-有什么可以简单部署的-http-api-后端服务吗?](https://www.v2ex.com/t/858133) ![](assets/new.png)  
 - [2022-06-08-618-采购的物品推荐有哪些？](https://www.v2ex.com/t/858131) ![](assets/new.png)  
-- [2022-06-08-加拿大使用百度云，非常频繁地验证账号（输入手机验证码），怎么破？](https://www.v2ex.com/t/858130) ![](assets/new.png)  
-- [2022-06-08-golang-如何使用-go-sql-driver-连接到-Aliyun-RDS](https://www.v2ex.com/t/858128) ![](assets/new.png)  
-- [2022-06-08-在自己微博发一个人-n-年前公开发布的微博截图，是否属于侵犯隐私](https://www.v2ex.com/t/858127) ![](assets/new.png)  
-- [2022-06-08-蓝湖-最近是不是挂了。怎么卡成这样。](https://www.v2ex.com/t/858125) ![](assets/new.png)  
-- [2022-06-08-现在入手什么型号的二手-iPhone-比较合适？](https://www.v2ex.com/t/858124) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -559,20 +559,20 @@
 - [2022-06-08-深入浅出区块链技术](https://toutiao.io/k/fsa5y9w) ![](assets/new.png)  
 - [2022-06-08-聊聊保证线程安全的10个小技巧](https://toutiao.io/k/hyy4siz) ![](assets/new.png)  
 - [2022-06-08-systrace-统计方法耗时](https://toutiao.io/k/rcnoc5o) ![](assets/new.png)  
-- [2022-06-08-这些Shell分析服务器日志命令集锦](https://toutiao.io/k/a3rxith) ![](assets/new.png)  
 - [2022-06-08-"企业的业务能力"-是什么-？](https://toutiao.io/k/fdev4al) ![](assets/new.png)  
+- [2022-06-08-这些Shell分析服务器日志命令集锦](https://toutiao.io/k/a3rxith) ![](assets/new.png)  
 - [2022-06-08-GPU-渲染管线和硬件架构浅谈](https://toutiao.io/k/gp8kv4x) ![](assets/new.png)  
+- [2022-06-08-如何保障数仓数据质量？](https://toutiao.io/k/re206zi) ![](assets/new.png)  
 - [2022-06-08-搞定这个日志智能分析设计，大小故障都无处可逃](https://toutiao.io/k/te6v3l8) ![](assets/new.png)  
 - [2022-06-08-干货｜字节跳动数据湖技术选型的思考](https://toutiao.io/k/wcovtyg) ![](assets/new.png)  
 - [2022-06-08-技术文档应该怎样裁剪？从谷歌公司用ACC替代测试计划说起](https://toutiao.io/k/nhkz5q3) ![](assets/new.png)  
-- [2022-06-08-如何保障数仓数据质量？](https://toutiao.io/k/re206zi) ![](assets/new.png)  
 - [2022-06-08-让AI-作画更快一点](https://toutiao.io/k/gshupst) ![](assets/new.png)  
-- [2022-06-08-推荐-性能提升40倍——线上真实重构案例分享](https://toutiao.io/k/izbqpxo) ![](assets/new.png)  
-- [2022-06-08-推荐-如何写出一篇好的技术方案？](https://toutiao.io/k/gl2cth8) ![](assets/new.png)  
 - [2022-06-08-推荐-不可错过的程序员续命科技](https://toutiao.io/k/wooq1pu) ![](assets/new.png)  
+- [2022-06-08-推荐-性能提升40倍——线上真实重构案例分享](https://toutiao.io/k/izbqpxo) ![](assets/new.png)  
 - [2022-06-08-推荐-阿里10年沉淀｜那些技术实战中的架构设计方法](https://toutiao.io/k/e9vlh55) ![](assets/new.png)  
-- [2022-06-08-推荐-聊聊接口设计的36个小技巧](https://toutiao.io/k/yqm776v) ![](assets/new.png)  
 - [2022-06-08-推荐-架构师成长路线图](https://toutiao.io/k/27b6p2e) ![](assets/new.png)  
+- [2022-06-08-推荐-如何写出一篇好的技术方案？](https://toutiao.io/k/gl2cth8) ![](assets/new.png)  
+- [2022-06-08-推荐-聊聊接口设计的36个小技巧](https://toutiao.io/k/yqm776v) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

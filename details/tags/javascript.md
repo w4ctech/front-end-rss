@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-06-08 07:38:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-06-08 08:19:49。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -21,4 +21,3 @@
 - [2022-03-15-基于howler.js写了个音频播放器组件](https://www.zhangxinxu.com/wordpress/2022/03/howler-js-audio-player/) 
 - [2022-06-08-出租屋-40-平方,-三四台设备,-有什么稳定不断流性价比高的路由器推荐吗?](https://www.v2ex.com/t/858174) 
 - [2022-06-08-remix.run-VS-nuxt.js-讨论](https://www.v2ex.com/t/858164) 
-- [2022-06-08-JS-使用-getYear-获取当前年份前面返回结果前面会多个-1](https://www.v2ex.com/t/858153) 

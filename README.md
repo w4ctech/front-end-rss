@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-06-08 06:45:58，:rocket: 更新条数: +2029， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-06-08 07:14:33，:rocket: 更新条数: +2027， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,9 @@
 </summary>
 
 
+- [2022-06-08-求个-surge-for-mac-车位](https://www.v2ex.com/t/858188) ![](assets/new.png)  
+- [2022-06-08-ultrafine-4k-周围泛红是受潮的原因吗？](https://www.v2ex.com/t/858186) ![](assets/new.png)  
+- [2022-06-08-大家到“数码荔枝”购买产品的时候请擦亮眼睛](https://www.v2ex.com/t/858183) ![](assets/new.png)  
 - [2022-06-08-有啥可以查询指定路段路况的方法么](https://www.v2ex.com/t/858182) ![](assets/new.png)  
 - [2022-06-08-国外赚钱如何汇到国内方便又便宜？](https://www.v2ex.com/t/858181) ![](assets/new.png)  
 - [2022-06-08-2016-MacBook-不支持新系统升级后会怎么样？](https://www.v2ex.com/t/858180) ![](assets/new.png)  
@@ -508,9 +511,6 @@
 - [2022-06-08-remix.run-VS-nuxt.js-讨论](https://www.v2ex.com/t/858164) ![](assets/new.png)  
 - [2022-06-08-信号增强器有用么？](https://www.v2ex.com/t/858161) ![](assets/new.png)  
 - [2022-06-08-AirPods-突然设备间不能自动切换](https://www.v2ex.com/t/858159) ![](assets/new.png)  
-- [2022-06-08-WWDC.playground-第二日活动：连线-WWDC22-现场](https://www.v2ex.com/t/858157) ![](assets/new.png)  
-- [2022-06-08-iPhone-XR（64G）用久了系统数据会占用超过-25G-导致剩余空间捉襟见肘，请问有没有简单的办法可以触发清理？](https://www.v2ex.com/t/858156) ![](assets/new.png)  
-- [2022-06-08-深圳入户有多少好处？买社保的角度](https://www.v2ex.com/t/858154) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -568,8 +568,8 @@
 - [2022-06-08-技术文档应该怎样裁剪？从谷歌公司用ACC替代测试计划说起](https://toutiao.io/k/nhkz5q3) ![](assets/new.png)  
 - [2022-06-08-让AI-作画更快一点](https://toutiao.io/k/gshupst) ![](assets/new.png)  
 - [2022-06-08-Istio-中实现客户端源-IP-的保持](https://toutiao.io/k/u8ml3j6) ![](assets/new.png)  
-- [2022-06-08-疫情之下，四点认知助你成长！](https://toutiao.io/k/znl16zn) ![](assets/new.png)  
 - [2022-06-08-Karmada-v1.2发布：开启全文本搜索新纪元](https://toutiao.io/k/skvvopp) ![](assets/new.png)  
+- [2022-06-08-疫情之下，四点认知助你成长！](https://toutiao.io/k/znl16zn) ![](assets/new.png)  
 - [2022-06-08-Go-想要加个箭头语法，这下更像-PHP-了！](https://toutiao.io/k/euwpi97) ![](assets/new.png)  
 - [2022-06-08-我是一个Dubbo数据包...](https://toutiao.io/k/lkavwif) ![](assets/new.png)  
 - [2022-06-08-用了模板字面量类型，同事直呼太强了！](https://toutiao.io/k/rysmwmc) ![](assets/new.png)  

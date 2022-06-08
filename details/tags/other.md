@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-06-08 15:14:11。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-06-08 15:41:44。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1912,6 +1912,8 @@
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2022-03-21-ascent-override-descent-override-line-gap-override一锅端](https://www.zhangxinxu.com/wordpress/2022/03/css-ascent-override-descent/) 
+- [2022-06-08-有哪些你觉得非常不错的文章](https://www.v2ex.com/t/858287) 
+- [2022-06-08-写了个接远程项目的网站](https://www.v2ex.com/t/858286) 
 - [2022-06-08-Java-新手请教：-SpringMVC-和-MyBatis-的-xml-配置记不住~~-咋搞~](https://www.v2ex.com/t/858284) 
 - [2022-06-08-大哥们，-DeskMini-x300-加-5600G-做-Nas-怎么样](https://www.v2ex.com/t/858283) 
 - [2022-06-08-B-站终于支持后台小窗播放了](https://www.v2ex.com/t/858282) 
@@ -1943,7 +1945,6 @@
 - [2022-06-08-突然发现-2016-款的-MacBook-Pro-被新系统-Ventura-开除了！](https://www.v2ex.com/t/858243) 
 - [2022-06-08-有没有纯粹一点的小说阅读软件，-Web-版或者-Android-端均可](https://www.v2ex.com/t/858242) 
 - [2022-06-08-偶然发现-yii2-被它的一位核心开发者在三年前说是-`outdated-technology`](https://www.v2ex.com/t/858240) 
-- [2022-06-08-watchOS-9-新增-CallKit-支持](https://www.v2ex.com/t/858236) 
 - [2022-06-08-看看你有没有陷入“标签化”客户和-用户-的陷阱？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15124&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fbusiness-analyst-growth%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-06-08-验收标准到底是不是测试用例？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15123&url=https%3A%2F%2Finsights.thoughtworks.cn%2Facceptance-criteria-testcases%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-06-08-在一个“去QA化”的项目中，QA能做什么？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15121&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fquality-assurance-in-project%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1973,8 +1974,8 @@
 - [2022-06-08-疫情之下，四点认知助你成长！](https://toutiao.io/k/znl16zn) 
 - [2022-06-08-我是一个Dubbo数据包...](https://toutiao.io/k/lkavwif) 
 - [2022-06-08-用了模板字面量类型，同事直呼太强了！](https://toutiao.io/k/rysmwmc) 
-- [2022-06-08-推荐-聊聊接口设计的36个小技巧](https://toutiao.io/k/yqm776v) 
-- [2022-06-08-推荐-如何写出一篇好的技术方案？](https://toutiao.io/k/gl2cth8) 
-- [2022-06-08-推荐-架构师成长路线图](https://toutiao.io/k/27b6p2e) 
-- [2022-06-08-推荐-阿里10年沉淀｜那些技术实战中的架构设计方法](https://toutiao.io/k/e9vlh55) 
 - [2022-06-08-推荐-不可错过的程序员续命科技](https://toutiao.io/k/wooq1pu) 
+- [2022-06-08-推荐-聊聊接口设计的36个小技巧](https://toutiao.io/k/yqm776v) 
+- [2022-06-08-推荐-阿里10年沉淀｜那些技术实战中的架构设计方法](https://toutiao.io/k/e9vlh55) 
+- [2022-06-08-推荐-架构师成长路线图](https://toutiao.io/k/27b6p2e) 
+- [2022-06-08-推荐-如何写出一篇好的技术方案？](https://toutiao.io/k/gl2cth8) 

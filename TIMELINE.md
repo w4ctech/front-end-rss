@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-06-08 11:11:38。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-06-08 11:36:59。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,11 @@
 </summary>
 
 
+- [【V2EX】2022-06-08-Telegram-如何禁止陌生人给自己发信息？](https://www.v2ex.com/t/858245) 
+- [【V2EX】2022-06-08-没-TPM-的-PC-突然提示可以升级到-Windows-11-了](https://www.v2ex.com/t/858244) 
+- [【V2EX】2022-06-08-突然发现-2016-款的-MacBook-Pro-被新系统-Ventura-开除了！](https://www.v2ex.com/t/858243) 
+- [【V2EX】2022-06-08-有没有纯粹一点的小说阅读软件，-Web-版或者-Android-端均可](https://www.v2ex.com/t/858242) 
+- [【V2EX】2022-06-08-偶然发现-yii2-被它的一位核心开发者在三年前说是-`outdated-technology`](https://www.v2ex.com/t/858240) 
 - [【V2EX】2022-06-08-有什么办法区分是-chrome-还是用户自己编译的-chromium](https://www.v2ex.com/t/858238) 
 - [【V2EX】2022-06-08-watchOS-9-新增-CallKit-支持](https://www.v2ex.com/t/858236) 
 - [【V2EX】2022-06-08-pycharm,-怎么快速将单文件中所有函数改为类](https://www.v2ex.com/t/858235) 
@@ -99,11 +104,6 @@
 - [【V2EX】2022-06-08-我要卖车2018-款-2.0L-豪华紫色（日常看是黑色）阿特兹](https://www.v2ex.com/t/858199) 
 - [【V2EX】2022-06-08-21-版-m1x-mbp-最烂！所有外接全部失效了。键盘电源鼠标全都没反应](https://www.v2ex.com/t/858197) 
 - [【V2EX】2022-06-08-2-年游戏服务器开发，想转方向到互联网](https://www.v2ex.com/t/858196) 
-- [【V2EX】2022-06-08-Google-Play-礼品卡免费赠送](https://www.v2ex.com/t/858195) 
-- [【V2EX】2022-06-08-招商银行-App-闪退已解决](https://www.v2ex.com/t/858194) 
-- [【V2EX】2022-06-08-关于-macbook-的购买选择](https://www.v2ex.com/t/858193) 
-- [【V2EX】2022-06-08-nginx-lua-redis-操作困惑](https://www.v2ex.com/t/858192) 
-- [【V2EX】2022-06-08-Linux-Shell-进阶](https://www.v2ex.com/t/858191) 
 - [【技术头条】2022-06-08-看看你有没有陷入“标签化”客户和-用户-的陷阱？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15124&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fbusiness-analyst-growth%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-06-08-验收标准到底是不是测试用例？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15123&url=https%3A%2F%2Finsights.thoughtworks.cn%2Facceptance-criteria-testcases%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-06-08-性能指标的信仰危机-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15122&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fperformance-indicator%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -144,12 +144,12 @@
 - [【开发者头条】2022-06-08-Karmada-v1.2发布：开启全文本搜索新纪元](https://toutiao.io/k/skvvopp) 
 - [【开发者头条】2022-06-08-用了模板字面量类型，同事直呼太强了！](https://toutiao.io/k/rysmwmc) 
 - [【开发者头条】2022-06-08-我是一个Dubbo数据包...](https://toutiao.io/k/lkavwif) 
-- [【开发者头条】2022-06-08-推荐-阿里10年沉淀｜那些技术实战中的架构设计方法](https://toutiao.io/k/e9vlh55) 
-- [【开发者头条】2022-06-08-推荐-架构师成长路线图](https://toutiao.io/k/27b6p2e) 
 - [【开发者头条】2022-06-08-推荐-性能提升40倍——线上真实重构案例分享](https://toutiao.io/k/izbqpxo) 
-- [【开发者头条】2022-06-08-推荐-聊聊接口设计的36个小技巧](https://toutiao.io/k/yqm776v) 
+- [【开发者头条】2022-06-08-推荐-架构师成长路线图](https://toutiao.io/k/27b6p2e) 
 - [【开发者头条】2022-06-08-推荐-不可错过的程序员续命科技](https://toutiao.io/k/wooq1pu) 
 - [【开发者头条】2022-06-08-推荐-如何写出一篇好的技术方案？](https://toutiao.io/k/gl2cth8) 
+- [【开发者头条】2022-06-08-推荐-阿里10年沉淀｜那些技术实战中的架构设计方法](https://toutiao.io/k/e9vlh55) 
+- [【开发者头条】2022-06-08-推荐-聊聊接口设计的36个小技巧](https://toutiao.io/k/yqm776v) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

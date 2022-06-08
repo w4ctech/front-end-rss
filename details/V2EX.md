@@ -1,10 +1,15 @@
-:alarm_clock: 更新时间: 2022-06-08 11:11:38。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-06-08 11:36:59。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-06-08-Telegram-如何禁止陌生人给自己发信息？](https://www.v2ex.com/t/858245) 
+- [2022-06-08-没-TPM-的-PC-突然提示可以升级到-Windows-11-了](https://www.v2ex.com/t/858244) 
+- [2022-06-08-突然发现-2016-款的-MacBook-Pro-被新系统-Ventura-开除了！](https://www.v2ex.com/t/858243) 
+- [2022-06-08-有没有纯粹一点的小说阅读软件，-Web-版或者-Android-端均可](https://www.v2ex.com/t/858242) 
+- [2022-06-08-偶然发现-yii2-被它的一位核心开发者在三年前说是-`outdated-technology`](https://www.v2ex.com/t/858240) 
 - [2022-06-08-有什么办法区分是-chrome-还是用户自己编译的-chromium](https://www.v2ex.com/t/858238) 
 - [2022-06-08-watchOS-9-新增-CallKit-支持](https://www.v2ex.com/t/858236) 
 - [2022-06-08-pycharm,-怎么快速将单文件中所有函数改为类](https://www.v2ex.com/t/858235) 
@@ -36,8 +41,3 @@
 - [2022-06-08-我要卖车2018-款-2.0L-豪华紫色（日常看是黑色）阿特兹](https://www.v2ex.com/t/858199) 
 - [2022-06-08-21-版-m1x-mbp-最烂！所有外接全部失效了。键盘电源鼠标全都没反应](https://www.v2ex.com/t/858197) 
 - [2022-06-08-2-年游戏服务器开发，想转方向到互联网](https://www.v2ex.com/t/858196) 
-- [2022-06-08-Google-Play-礼品卡免费赠送](https://www.v2ex.com/t/858195) 
-- [2022-06-08-招商银行-App-闪退已解决](https://www.v2ex.com/t/858194) 
-- [2022-06-08-关于-macbook-的购买选择](https://www.v2ex.com/t/858193) 
-- [2022-06-08-nginx-lua-redis-操作困惑](https://www.v2ex.com/t/858192) 
-- [2022-06-08-Linux-Shell-进阶](https://www.v2ex.com/t/858191) 

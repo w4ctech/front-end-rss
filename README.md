@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-06-08 11:11:38，:rocket: 更新条数: +2028， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-06-08 11:36:58，:rocket: 更新条数: +2028， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,11 @@
 </summary>
 
 
+- [2022-06-08-Telegram-如何禁止陌生人给自己发信息？](https://www.v2ex.com/t/858245) ![](assets/new.png)  
+- [2022-06-08-没-TPM-的-PC-突然提示可以升级到-Windows-11-了](https://www.v2ex.com/t/858244) ![](assets/new.png)  
+- [2022-06-08-突然发现-2016-款的-MacBook-Pro-被新系统-Ventura-开除了！](https://www.v2ex.com/t/858243) ![](assets/new.png)  
+- [2022-06-08-有没有纯粹一点的小说阅读软件，-Web-版或者-Android-端均可](https://www.v2ex.com/t/858242) ![](assets/new.png)  
+- [2022-06-08-偶然发现-yii2-被它的一位核心开发者在三年前说是-`outdated-technology`](https://www.v2ex.com/t/858240) ![](assets/new.png)  
 - [2022-06-08-有什么办法区分是-chrome-还是用户自己编译的-chromium](https://www.v2ex.com/t/858238) ![](assets/new.png)  
 - [2022-06-08-watchOS-9-新增-CallKit-支持](https://www.v2ex.com/t/858236) ![](assets/new.png)  
 - [2022-06-08-pycharm,-怎么快速将单文件中所有函数改为类](https://www.v2ex.com/t/858235) ![](assets/new.png)  
@@ -506,11 +511,6 @@
 - [2022-06-08-macOS-正在抛弃风景壁纸](https://www.v2ex.com/t/858220) ![](assets/new.png)  
 - [2022-06-08-最近想试试-Surge-，来开个车。。。](https://www.v2ex.com/t/858219) ![](assets/new.png)  
 - [2022-06-08-可以用上-starlink-吗？](https://www.v2ex.com/t/858218) ![](assets/new.png)  
-- [2022-06-08-请问下屏幕使用时间](https://www.v2ex.com/t/858217) ![](assets/new.png)  
-- [2022-06-08-上海，被封小区-77-天后，第一天上班又被封公司？](https://www.v2ex.com/t/858216) ![](assets/new.png)  
-- [2022-06-08-有没有好一点的-grpc-管理工具可以管理-proto-文件，给推荐一个](https://www.v2ex.com/t/858214) ![](assets/new.png)  
-- [2022-06-08-求推荐用于面试的稳定梯子](https://www.v2ex.com/t/858213) ![](assets/new.png)  
-- [2022-06-08-在-2022-年的今天，不考虑当主力机的前提下，-iPhone-越狱是否还有什么意义？](https://www.v2ex.com/t/858212) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

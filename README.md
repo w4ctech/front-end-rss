@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-06-08 07:14:33，:rocket: 更新条数: +2027， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-06-08 07:38:21，:rocket: 更新条数: +2026， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,10 @@
 </summary>
 
 
+- [2022-06-08-招商银行-App-闪退已解决](https://www.v2ex.com/t/858194) ![](assets/new.png)  
+- [2022-06-08-关于-macbook-的购买选择](https://www.v2ex.com/t/858193) ![](assets/new.png)  
+- [2022-06-08-nginx-lua-redis-操作困惑](https://www.v2ex.com/t/858192) ![](assets/new.png)  
+- [2022-06-08-Linux-Shell-进阶](https://www.v2ex.com/t/858191) ![](assets/new.png)  
 - [2022-06-08-求个-surge-for-mac-车位](https://www.v2ex.com/t/858188) ![](assets/new.png)  
 - [2022-06-08-ultrafine-4k-周围泛红是受潮的原因吗？](https://www.v2ex.com/t/858186) ![](assets/new.png)  
 - [2022-06-08-大家到“数码荔枝”购买产品的时候请擦亮眼睛](https://www.v2ex.com/t/858183) ![](assets/new.png)  
@@ -507,10 +511,6 @@
 - [2022-06-08-最近突然意识到通话录音这个功能还是挺重要的，-iPhone-真的没有办法实现么？](https://www.v2ex.com/t/858170) ![](assets/new.png)  
 - [2022-06-08-如何在编译时检测是否引入开发的代码](https://www.v2ex.com/t/858169) ![](assets/new.png)  
 - [2022-06-08-如何优雅复制-div-里面包括子节点的所有-class-的-css-样式呢？](https://www.v2ex.com/t/858168) ![](assets/new.png)  
-- [2022-06-08-如何将-macos-应用程序安装到其他盘的同时，还能被索引到，就是用聚焦搜索的时候能搜索到](https://www.v2ex.com/t/858166) ![](assets/new.png)  
-- [2022-06-08-remix.run-VS-nuxt.js-讨论](https://www.v2ex.com/t/858164) ![](assets/new.png)  
-- [2022-06-08-信号增强器有用么？](https://www.v2ex.com/t/858161) ![](assets/new.png)  
-- [2022-06-08-AirPods-突然设备间不能自动切换](https://www.v2ex.com/t/858159) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -568,8 +568,8 @@
 - [2022-06-08-技术文档应该怎样裁剪？从谷歌公司用ACC替代测试计划说起](https://toutiao.io/k/nhkz5q3) ![](assets/new.png)  
 - [2022-06-08-让AI-作画更快一点](https://toutiao.io/k/gshupst) ![](assets/new.png)  
 - [2022-06-08-Istio-中实现客户端源-IP-的保持](https://toutiao.io/k/u8ml3j6) ![](assets/new.png)  
-- [2022-06-08-Karmada-v1.2发布：开启全文本搜索新纪元](https://toutiao.io/k/skvvopp) ![](assets/new.png)  
 - [2022-06-08-疫情之下，四点认知助你成长！](https://toutiao.io/k/znl16zn) ![](assets/new.png)  
+- [2022-06-08-Karmada-v1.2发布：开启全文本搜索新纪元](https://toutiao.io/k/skvvopp) ![](assets/new.png)  
 - [2022-06-08-Go-想要加个箭头语法，这下更像-PHP-了！](https://toutiao.io/k/euwpi97) ![](assets/new.png)  
 - [2022-06-08-我是一个Dubbo数据包...](https://toutiao.io/k/lkavwif) ![](assets/new.png)  
 - [2022-06-08-用了模板字面量类型，同事直呼太强了！](https://toutiao.io/k/rysmwmc) ![](assets/new.png)  

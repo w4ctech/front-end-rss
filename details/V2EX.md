@@ -1,10 +1,14 @@
-:alarm_clock: 更新时间: 2022-06-08 07:14:33。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-06-08 07:38:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-06-08-招商银行-App-闪退已解决](https://www.v2ex.com/t/858194) 
+- [2022-06-08-关于-macbook-的购买选择](https://www.v2ex.com/t/858193) 
+- [2022-06-08-nginx-lua-redis-操作困惑](https://www.v2ex.com/t/858192) 
+- [2022-06-08-Linux-Shell-进阶](https://www.v2ex.com/t/858191) 
 - [2022-06-08-求个-surge-for-mac-车位](https://www.v2ex.com/t/858188) 
 - [2022-06-08-ultrafine-4k-周围泛红是受潮的原因吗？](https://www.v2ex.com/t/858186) 
 - [2022-06-08-大家到“数码荔枝”购买产品的时候请擦亮眼睛](https://www.v2ex.com/t/858183) 
@@ -35,8 +39,3 @@
 - [2022-06-08-V2Ex-怎么删除回复和评论以及主题？](https://www.v2ex.com/t/858149) 
 - [2022-06-08-解决了一个从-macOS-Monterey-以来反复出现的-Time-Machine-备份至-Synology-NAS-问题](https://www.v2ex.com/t/858146) 
 - [2022-06-08-英国每周-4-天工作制](https://www.v2ex.com/t/858145) 
-- [2022-06-08-30+，感觉前途迷茫，有相同想法的朋友，进来讨论一下](https://www.v2ex.com/t/858144) 
-- [2022-06-08-Telegram-高级订阅会员要来了](https://www.v2ex.com/t/858143) 
-- [2022-06-08-iOS-上安装-Gboard-后有没有办法去掉小地球和麦克风那一栏？好占地啊](https://www.v2ex.com/t/858142) 
-- [2022-06-08-mac-用磁铁模拟合盖熄屏](https://www.v2ex.com/t/858141) 
-- [2022-06-08-安卓微信如何设置锁屏界面不能直接接听语音视频](https://www.v2ex.com/t/858140) 

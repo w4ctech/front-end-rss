@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-06-08 07:14:33。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-06-08 07:38:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,10 @@
 </summary>
 
 
+- [【V2EX】2022-06-08-招商银行-App-闪退已解决](https://www.v2ex.com/t/858194) 
+- [【V2EX】2022-06-08-关于-macbook-的购买选择](https://www.v2ex.com/t/858193) 
+- [【V2EX】2022-06-08-nginx-lua-redis-操作困惑](https://www.v2ex.com/t/858192) 
+- [【V2EX】2022-06-08-Linux-Shell-进阶](https://www.v2ex.com/t/858191) 
 - [【V2EX】2022-06-08-求个-surge-for-mac-车位](https://www.v2ex.com/t/858188) 
 - [【V2EX】2022-06-08-ultrafine-4k-周围泛红是受潮的原因吗？](https://www.v2ex.com/t/858186) 
 - [【V2EX】2022-06-08-大家到“数码荔枝”购买产品的时候请擦亮眼睛](https://www.v2ex.com/t/858183) 
@@ -98,11 +102,6 @@
 - [【V2EX】2022-06-08-V2Ex-怎么删除回复和评论以及主题？](https://www.v2ex.com/t/858149) 
 - [【V2EX】2022-06-08-解决了一个从-macOS-Monterey-以来反复出现的-Time-Machine-备份至-Synology-NAS-问题](https://www.v2ex.com/t/858146) 
 - [【V2EX】2022-06-08-英国每周-4-天工作制](https://www.v2ex.com/t/858145) 
-- [【V2EX】2022-06-08-30+，感觉前途迷茫，有相同想法的朋友，进来讨论一下](https://www.v2ex.com/t/858144) 
-- [【V2EX】2022-06-08-Telegram-高级订阅会员要来了](https://www.v2ex.com/t/858143) 
-- [【V2EX】2022-06-08-iOS-上安装-Gboard-后有没有办法去掉小地球和麦克风那一栏？好占地啊](https://www.v2ex.com/t/858142) 
-- [【V2EX】2022-06-08-mac-用磁铁模拟合盖熄屏](https://www.v2ex.com/t/858141) 
-- [【V2EX】2022-06-08-安卓微信如何设置锁屏界面不能直接接听语音视频](https://www.v2ex.com/t/858140) 
 - [【技术头条】2022-06-08-验收标准到底是不是测试用例？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15123&url=https%3A%2F%2Finsights.thoughtworks.cn%2Facceptance-criteria-testcases%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-06-08-性能指标的信仰危机-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15122&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fperformance-indicator%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-06-08-在一个“去QA化”的项目中，QA能做什么？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15121&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fquality-assurance-in-project%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -138,17 +137,17 @@
 - [【开发者头条】2022-06-08-技术文档应该怎样裁剪？从谷歌公司用ACC替代测试计划说起](https://toutiao.io/k/nhkz5q3) 
 - [【开发者头条】2022-06-08-让AI-作画更快一点](https://toutiao.io/k/gshupst) 
 - [【开发者头条】2022-06-08-Istio-中实现客户端源-IP-的保持](https://toutiao.io/k/u8ml3j6) 
-- [【开发者头条】2022-06-08-Karmada-v1.2发布：开启全文本搜索新纪元](https://toutiao.io/k/skvvopp) 
 - [【开发者头条】2022-06-08-疫情之下，四点认知助你成长！](https://toutiao.io/k/znl16zn) 
+- [【开发者头条】2022-06-08-Karmada-v1.2发布：开启全文本搜索新纪元](https://toutiao.io/k/skvvopp) 
 - [【开发者头条】2022-06-08-Go-想要加个箭头语法，这下更像-PHP-了！](https://toutiao.io/k/euwpi97) 
 - [【开发者头条】2022-06-08-我是一个Dubbo数据包...](https://toutiao.io/k/lkavwif) 
 - [【开发者头条】2022-06-08-用了模板字面量类型，同事直呼太强了！](https://toutiao.io/k/rysmwmc) 
-- [【开发者头条】2022-06-08-推荐-如何写出一篇好的技术方案？](https://toutiao.io/k/gl2cth8) 
-- [【开发者头条】2022-06-08-推荐-阿里10年沉淀｜那些技术实战中的架构设计方法](https://toutiao.io/k/e9vlh55) 
+- [【开发者头条】2022-06-08-推荐-不可错过的程序员续命科技](https://toutiao.io/k/wooq1pu) 
 - [【开发者头条】2022-06-08-推荐-性能提升40倍——线上真实重构案例分享](https://toutiao.io/k/izbqpxo) 
 - [【开发者头条】2022-06-08-推荐-聊聊接口设计的36个小技巧](https://toutiao.io/k/yqm776v) 
+- [【开发者头条】2022-06-08-推荐-阿里10年沉淀｜那些技术实战中的架构设计方法](https://toutiao.io/k/e9vlh55) 
 - [【开发者头条】2022-06-08-推荐-架构师成长路线图](https://toutiao.io/k/27b6p2e) 
-- [【开发者头条】2022-06-08-推荐-不可错过的程序员续命科技](https://toutiao.io/k/wooq1pu) 
+- [【开发者头条】2022-06-08-推荐-如何写出一篇好的技术方案？](https://toutiao.io/k/gl2cth8) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

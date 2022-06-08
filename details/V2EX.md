@@ -1,10 +1,13 @@
-:alarm_clock: 更新时间: 2022-06-08 10:42:44。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-06-08 11:11:38。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-06-08-有什么办法区分是-chrome-还是用户自己编译的-chromium](https://www.v2ex.com/t/858238) 
+- [2022-06-08-watchOS-9-新增-CallKit-支持](https://www.v2ex.com/t/858236) 
+- [2022-06-08-pycharm,-怎么快速将单文件中所有函数改为类](https://www.v2ex.com/t/858235) 
 - [2022-06-08-我感觉我好焦虑……求-v-友们让我清醒一点](https://www.v2ex.com/t/858234) 
 - [2022-06-08-Nginx-为-OMV6-webui-和其他应用配置-sub-path-反向代理的问题](https://www.v2ex.com/t/858232) 
 - [2022-06-08-整了个-Emby-服,速度堪比爱奇艺](https://www.v2ex.com/t/858231) 
@@ -38,5 +41,3 @@
 - [2022-06-08-关于-macbook-的购买选择](https://www.v2ex.com/t/858193) 
 - [2022-06-08-nginx-lua-redis-操作困惑](https://www.v2ex.com/t/858192) 
 - [2022-06-08-Linux-Shell-进阶](https://www.v2ex.com/t/858191) 
-- [2022-06-08-求个-surge-for-mac-车位](https://www.v2ex.com/t/858188) 
-- [2022-06-08-ultrafine-4k-周围泛红是受潮的原因吗？](https://www.v2ex.com/t/858186) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-06-08 18:16:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-06-08 18:49:18。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1912,6 +1912,7 @@
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2022-03-21-ascent-override-descent-override-line-gap-override一锅端](https://www.zhangxinxu.com/wordpress/2022/03/css-ascent-override-descent/) 
+- [2022-06-08-V2EX-是否可以用-Private-Access-Token-取代-CAPTCHA-呢](https://www.v2ex.com/t/858298) 
 - [2022-06-08-16GB-台式电脑加装相同规格-16GB-内存到-32GB-之后-CPU-占用经常-100%，导致电脑](https://www.v2ex.com/t/858296) 
 - [2022-06-08-搭了个-DNS-服务，这是被用作-DNS-放大攻击了吗](https://www.v2ex.com/t/858295) 
 - [2022-06-08-另外一个有趣的思路，测试-IP-特定端口是否被屏蔽的方法](https://www.v2ex.com/t/858294) 
@@ -1943,8 +1944,6 @@
 - [2022-06-08-如何管理大规模的物联网设备中的应用？](https://www.v2ex.com/t/858252) 
 - [2022-06-08-使用他人开放平台的-appkey-有啥后果？](https://www.v2ex.com/t/858251) 
 - [2022-06-08-这个-app-可能是我换新-iPhone-的原因](https://www.v2ex.com/t/858250) 
-- [2022-06-08-招安卓-iOS-开发外包](https://www.v2ex.com/t/858249) 
-- [2022-06-08-不听劝退的前提下，华强北的组装-13-香，去到现场，如何姿势入手，坑会比较浅？-求体验建议](https://www.v2ex.com/t/858247) 
 - [2022-06-08-看看你有没有陷入“标签化”客户和-用户-的陷阱？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15124&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fbusiness-analyst-growth%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-06-08-验收标准到底是不是测试用例？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15123&url=https%3A%2F%2Finsights.thoughtworks.cn%2Facceptance-criteria-testcases%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-06-08-在一个“去QA化”的项目中，QA能做什么？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15121&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fquality-assurance-in-project%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1974,8 +1973,8 @@
 - [2022-06-08-Karmada-v1.2发布：开启全文本搜索新纪元](https://toutiao.io/k/skvvopp) 
 - [2022-06-08-我是一个Dubbo数据包...](https://toutiao.io/k/lkavwif) 
 - [2022-06-08-用了模板字面量类型，同事直呼太强了！](https://toutiao.io/k/rysmwmc) 
-- [2022-06-08-推荐-架构师成长路线图](https://toutiao.io/k/27b6p2e) 
 - [2022-06-08-推荐-消息队列原理和选型：Kafka、RocketMQ-、RabbitMQ-和-ActiveMQ](https://toutiao.io/k/nuwnwro) 
-- [2022-06-08-推荐-阿里10年沉淀｜那些技术实战中的架构设计方法](https://toutiao.io/k/e9vlh55) 
 - [2022-06-08-推荐-如何写出一篇好的技术方案？](https://toutiao.io/k/gl2cth8) 
 - [2022-06-08-推荐-不可错过的程序员续命科技](https://toutiao.io/k/wooq1pu) 
+- [2022-06-08-推荐-阿里10年沉淀｜那些技术实战中的架构设计方法](https://toutiao.io/k/e9vlh55) 
+- [2022-06-08-推荐-架构师成长路线图](https://toutiao.io/k/27b6p2e) 

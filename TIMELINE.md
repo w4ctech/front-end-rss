@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-06-08 14:37:57。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-06-08 15:14:11。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,16 @@
 </summary>
 
 
+- [【V2EX】2022-06-08-无法更新-Chrome-和-WebView](https://www.v2ex.com/t/858285) 
+- [【V2EX】2022-06-08-Java-新手请教：-SpringMVC-和-MyBatis-的-xml-配置记不住~~-咋搞~](https://www.v2ex.com/t/858284) 
+- [【V2EX】2022-06-08-大哥们，-DeskMini-x300-加-5600G-做-Nas-怎么样](https://www.v2ex.com/t/858283) 
+- [【V2EX】2022-06-08-B-站终于支持后台小窗播放了](https://www.v2ex.com/t/858282) 
+- [【V2EX】2022-06-08-dell-latitude-5420-触控板没有双指滚动的吗](https://www.v2ex.com/t/858281) 
+- [【V2EX】2022-06-08-Vue3-表单设计器，数据源，表单联动，暗黑模式，动态增减表单项，数据校验，想要的都有！](https://www.v2ex.com/t/858280) 
+- [【V2EX】2022-06-08-一个简单分析-diff-上下游调用的小工具/想法](https://www.v2ex.com/t/858279) 
+- [【V2EX】2022-06-08-做了个留学加拿大的网站，求大佬们提点意见。](https://www.v2ex.com/t/858278) 
+- [【V2EX】2022-06-08-写了个中国程序员最容易读错的那些单词，欢迎-V-友体验](https://www.v2ex.com/t/858277) 
+- [【V2EX】2022-06-08-新用户发布招聘求助](https://www.v2ex.com/t/858276) 
 - [【V2EX】2022-06-08-Vue3-表单设计器，数据源，表单联动，暗黑模式，动态增减表单项，数据校验，想要的都有](https://www.v2ex.com/t/858275) 
 - [【V2EX】2022-06-08-关于协议离职的一点疑问](https://www.v2ex.com/t/858273) 
 - [【V2EX】2022-06-08-有没有大陆访问速度还行，不需要“过多”的审核的公开静态网页部署服务](https://www.v2ex.com/t/858272) 
@@ -99,12 +109,6 @@
 - [【V2EX】2022-06-08-偶然发现-yii2-被它的一位核心开发者在三年前说是-`outdated-technology`](https://www.v2ex.com/t/858240) 
 - [【V2EX】2022-06-08-有什么办法区分是-chrome-还是用户自己编译的-chromium](https://www.v2ex.com/t/858238) 
 - [【V2EX】2022-06-08-watchOS-9-新增-CallKit-支持](https://www.v2ex.com/t/858236) 
-- [【V2EX】2022-06-08-pycharm,-怎么快速将单文件中所有函数改为类](https://www.v2ex.com/t/858235) 
-- [【V2EX】2022-06-08-我感觉我好焦虑……求-v-友们让我清醒一点](https://www.v2ex.com/t/858234) 
-- [【V2EX】2022-06-08-Nginx-为-OMV6-webui-和其他应用配置-sub-path-反向代理的问题](https://www.v2ex.com/t/858232) 
-- [【V2EX】2022-06-08-整了个-Emby-服,速度堪比爱奇艺](https://www.v2ex.com/t/858231) 
-- [【V2EX】2022-06-08-上海/外企/开源-开源明星独角兽-Kong-在中国持续招聘中](https://www.v2ex.com/t/858229) 
-- [【V2EX】2022-06-08-pandas-相关，-k-线数据加工，用-resample-寻找价格最值相应时间遇到问题。](https://www.v2ex.com/t/858228) 
 - [【技术头条】2022-06-08-看看你有没有陷入“标签化”客户和-用户-的陷阱？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15124&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fbusiness-analyst-growth%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-06-08-验收标准到底是不是测试用例？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15123&url=https%3A%2F%2Finsights.thoughtworks.cn%2Facceptance-criteria-testcases%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-06-08-性能指标的信仰危机-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15122&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fperformance-indicator%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -143,13 +147,13 @@
 - [【开发者头条】2022-06-08-Go-想要加个箭头语法，这下更像-PHP-了！](https://toutiao.io/k/euwpi97) 
 - [【开发者头条】2022-06-08-Karmada-v1.2发布：开启全文本搜索新纪元](https://toutiao.io/k/skvvopp) 
 - [【开发者头条】2022-06-08-疫情之下，四点认知助你成长！](https://toutiao.io/k/znl16zn) 
-- [【开发者头条】2022-06-08-用了模板字面量类型，同事直呼太强了！](https://toutiao.io/k/rysmwmc) 
 - [【开发者头条】2022-06-08-我是一个Dubbo数据包...](https://toutiao.io/k/lkavwif) 
-- [【开发者头条】2022-06-08-推荐-如何写出一篇好的技术方案？](https://toutiao.io/k/gl2cth8) 
+- [【开发者头条】2022-06-08-用了模板字面量类型，同事直呼太强了！](https://toutiao.io/k/rysmwmc) 
 - [【开发者头条】2022-06-08-推荐-聊聊接口设计的36个小技巧](https://toutiao.io/k/yqm776v) 
-- [【开发者头条】2022-06-08-推荐-阿里10年沉淀｜那些技术实战中的架构设计方法](https://toutiao.io/k/e9vlh55) 
-- [【开发者头条】2022-06-08-推荐-架构师成长路线图](https://toutiao.io/k/27b6p2e) 
+- [【开发者头条】2022-06-08-推荐-如何写出一篇好的技术方案？](https://toutiao.io/k/gl2cth8) 
 - [【开发者头条】2022-06-08-推荐-性能提升40倍——线上真实重构案例分享](https://toutiao.io/k/izbqpxo) 
+- [【开发者头条】2022-06-08-推荐-架构师成长路线图](https://toutiao.io/k/27b6p2e) 
+- [【开发者头条】2022-06-08-推荐-阿里10年沉淀｜那些技术实战中的架构设计方法](https://toutiao.io/k/e9vlh55) 
 - [【开发者头条】2022-06-08-推荐-不可错过的程序员续命科技](https://toutiao.io/k/wooq1pu) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-06-08 21:12:37，:rocket: 更新条数: +2033， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-06-08 21:38:16，:rocket: 更新条数: +2033， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-06-08-GitHub-宣布会放弃-Atom-项目](https://www.v2ex.com/t/858301) ![](assets/new.png)  
+- [2022-06-08-2022-年了，国内运营商为啥还不支持-Wi-Fi-通话？](https://www.v2ex.com/t/858300) ![](assets/new.png)  
 - [2022-06-08-推荐个-Rogue-游戏，黎明前-20-分钟](https://www.v2ex.com/t/858299) ![](assets/new.png)  
 - [2022-06-08-V2EX-是否可以用-Private-Access-Token-取代-CAPTCHA-呢](https://www.v2ex.com/t/858298) ![](assets/new.png)  
 - [2022-06-08-16GB-台式电脑加装相同规格-16GB-内存到-32GB-之后-CPU-占用经常-100%，导致电脑](https://www.v2ex.com/t/858296) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-06-08-dell-latitude-5420-触控板没有双指滚动的吗](https://www.v2ex.com/t/858281) ![](assets/new.png)  
 - [2022-06-08-一个简单分析-diff-上下游调用的小工具/想法](https://www.v2ex.com/t/858279) ![](assets/new.png)  
 - [2022-06-08-做了个留学加拿大的网站，求大佬们提点意见。](https://www.v2ex.com/t/858278) ![](assets/new.png)  
-- [2022-06-08-写了个中国程序员最容易读错的那些单词，欢迎-V-友体验](https://www.v2ex.com/t/858277) ![](assets/new.png)  
-- [2022-06-08-新用户发布招聘求助](https://www.v2ex.com/t/858276) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

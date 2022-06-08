@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2022-06-08 21:12:37。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-06-08 21:38:16。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-06-08-GitHub-宣布会放弃-Atom-项目](https://www.v2ex.com/t/858301) 
+- [2022-06-08-2022-年了，国内运营商为啥还不支持-Wi-Fi-通话？](https://www.v2ex.com/t/858300) 
 - [2022-06-08-推荐个-Rogue-游戏，黎明前-20-分钟](https://www.v2ex.com/t/858299) 
 - [2022-06-08-V2EX-是否可以用-Private-Access-Token-取代-CAPTCHA-呢](https://www.v2ex.com/t/858298) 
 - [2022-06-08-16GB-台式电脑加装相同规格-16GB-内存到-32GB-之后-CPU-占用经常-100%，导致电脑](https://www.v2ex.com/t/858296) 
@@ -44,5 +46,3 @@
 - [2022-06-08-北京健康宝有没有-一键扫码-的方法？目前只能一键进主页](https://www.v2ex.com/t/858254) 
 - [2022-06-08-阿里-iconfont-宕机这么久发生什么事了](https://www.v2ex.com/t/858253) 
 - [2022-06-08-如何管理大规模的物联网设备中的应用？](https://www.v2ex.com/t/858252) 
-- [2022-06-08-使用他人开放平台的-appkey-有啥后果？](https://www.v2ex.com/t/858251) 
-- [2022-06-08-这个-app-可能是我换新-iPhone-的原因](https://www.v2ex.com/t/858250) 

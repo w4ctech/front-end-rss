@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-06-08 09:14:08，:rocket: 更新条数: +2029， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-06-08 09:41:49，:rocket: 更新条数: +2027， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,12 @@
 </summary>
 
 
+- [2022-06-08-pandas-相关，-k-线数据加工，用-resample-寻找价格最值相应时间遇到问题。](https://www.v2ex.com/t/858228) ![](assets/new.png)  
+- [2022-06-08-iPhone-12-Pro-的外屏摔碎了，咋凑合用？](https://www.v2ex.com/t/858225) ![](assets/new.png)  
+- [2022-06-08-且看这个-Node-全栈框架，实现了个-Cli-终端引擎，可无限扩充命令集](https://www.v2ex.com/t/858223) ![](assets/new.png)  
+- [2022-06-08-关于-iphone13-使用京东-app-的问题](https://www.v2ex.com/t/858222) ![](assets/new.png)  
+- [2022-06-08-救：-Zoom-出奇的卡顿？解决方案？](https://www.v2ex.com/t/858221) ![](assets/new.png)  
+- [2022-06-08-macOS-正在抛弃风景壁纸](https://www.v2ex.com/t/858220) ![](assets/new.png)  
 - [2022-06-08-最近想试试-Surge-，来开个车。。。](https://www.v2ex.com/t/858219) ![](assets/new.png)  
 - [2022-06-08-可以用上-starlink-吗？](https://www.v2ex.com/t/858218) ![](assets/new.png)  
 - [2022-06-08-请问下屏幕使用时间](https://www.v2ex.com/t/858217) ![](assets/new.png)  
@@ -505,12 +511,6 @@
 - [2022-06-08-外网服务器连接家里数据库是不是可以用-frp-实现？](https://www.v2ex.com/t/858206) ![](assets/new.png)  
 - [2022-06-08-为什么在服务器-hosts-中加客户端-IP-能解决访问慢的问题](https://www.v2ex.com/t/858205) ![](assets/new.png)  
 - [2022-06-08-Realme-系统疑似在后台偷传应用列表？](https://www.v2ex.com/t/858204) ![](assets/new.png)  
-- [2022-06-08-去年国庆买的-iPhone-13-Pro，到现在不到-8-个月，电池健康度掉了-8%，这正常吗？](https://www.v2ex.com/t/858200) ![](assets/new.png)  
-- [2022-06-08-我要卖车2018-款-2.0L-豪华紫色（日常看是黑色）阿特兹](https://www.v2ex.com/t/858199) ![](assets/new.png)  
-- [2022-06-08-21-版-m1x-mbp-最烂！所有外接全部失效了。键盘电源鼠标全都没反应](https://www.v2ex.com/t/858197) ![](assets/new.png)  
-- [2022-06-08-2-年游戏服务器开发，想转方向到互联网](https://www.v2ex.com/t/858196) ![](assets/new.png)  
-- [2022-06-08-Google-Play-礼品卡免费赠送](https://www.v2ex.com/t/858195) ![](assets/new.png)  
-- [2022-06-08-招商银行-App-闪退已解决](https://www.v2ex.com/t/858194) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -522,6 +522,7 @@
 </summary>
 
 
+- [2022-06-08-看看你有没有陷入“标签化”客户和-用户-的陷阱？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15124&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fbusiness-analyst-growth%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-06-08-验收标准到底是不是测试用例？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15123&url=https%3A%2F%2Finsights.thoughtworks.cn%2Facceptance-criteria-testcases%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-06-08-性能指标的信仰危机-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15122&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fperformance-indicator%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-06-08-在一个“去QA化”的项目中，QA能做什么？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15121&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fquality-assurance-in-project%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
@@ -541,7 +542,6 @@
 - [2022-06-08-业务系统的稳定性建设-fed.taobao.org](https://blogread.cn/news/go.php?idItem=15107&url=https%3A%2F%2Ffed.taobao.org%2Fblog%2Ftaofed%2Fdo71ct%2Ffc3cy0%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-06-08-改hosts不生效？教你清理Chrome的DNS缓存-hessian.cn](https://blogread.cn/news/go.php?idItem=15106&url=https%3A%2F%2Fhessian.cn%2Fp%2F1645.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-06-08-Nuxt不停机部署指南-hessian.cn](https://blogread.cn/news/go.php?idItem=15105&url=https%3A%2F%2Fhessian.cn%2Fp%2F1643.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-06-08-MySQL-云数据库物理备份本地恢复方案-soulteary.com](https://blogread.cn/news/go.php?idItem=15104&url=https%3A%2F%2Fsoulteary.com%2F2021%2F10%2F13%2Fmysql-cloud-database-physical-backup-local-recovery-solution.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

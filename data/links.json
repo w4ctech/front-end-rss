@@ -9953,6 +9953,36 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "pandas 相关， k 线数据加工，用 resample 寻找价格最值相应时间遇到问题。",
+        "link": "https://www.v2ex.com/t/858228",
+        "date": "2022-06-08"
+      },
+      {
+        "title": "iPhone 12 Pro 的外屏摔碎了，咋凑合用？",
+        "link": "https://www.v2ex.com/t/858225",
+        "date": "2022-06-08"
+      },
+      {
+        "title": "且看这个 Node 全栈框架，实现了个 Cli 终端引擎，可无限扩充命令集",
+        "link": "https://www.v2ex.com/t/858223",
+        "date": "2022-06-08"
+      },
+      {
+        "title": "关于 iphone13 使用京东 app 的问题",
+        "link": "https://www.v2ex.com/t/858222",
+        "date": "2022-06-08"
+      },
+      {
+        "title": "救： Zoom 出奇的卡顿？解决方案？",
+        "link": "https://www.v2ex.com/t/858221",
+        "date": "2022-06-08"
+      },
+      {
+        "title": "macOS 正在抛弃风景壁纸",
+        "link": "https://www.v2ex.com/t/858220",
+        "date": "2022-06-08"
+      },
+      {
         "title": "最近想试试 Surge ，来开个车。。。",
         "link": "https://www.v2ex.com/t/858219",
         "date": "2022-06-08"
@@ -10096,46 +10126,6 @@
         "title": "2016 MacBook 不支持新系统升级后会怎么样？",
         "link": "https://www.v2ex.com/t/858180",
         "date": "2022-06-08"
-      },
-      {
-        "title": "有道云笔记能不能添加无标题的浏览模式",
-        "link": "https://www.v2ex.com/t/858178",
-        "date": "2022-06-08"
-      },
-      {
-        "title": "BI 如何让 SaaS 产品具有 “安全感”和“敏锐感”（上）",
-        "link": "https://www.v2ex.com/t/858176",
-        "date": "2022-06-08"
-      },
-      {
-        "title": "更适合程序员的 Markdown 笔记应用 - 妙言",
-        "link": "https://www.v2ex.com/t/858175",
-        "date": "2022-06-08"
-      },
-      {
-        "title": "出租屋 40 平方, 三四台设备, 有什么稳定不断流性价比高的路由器推荐吗?",
-        "link": "https://www.v2ex.com/t/858174",
-        "date": "2022-06-08"
-      },
-      {
-        "title": "500 元以下有没有适合久坐的椅子？",
-        "link": "https://www.v2ex.com/t/858173",
-        "date": "2022-06-08"
-      },
-      {
-        "title": "两台手机登录同一个 id 无法收到另一台的短信",
-        "link": "https://www.v2ex.com/t/858172",
-        "date": "2022-06-08"
-      },
-      {
-        "title": "如何将加拿大服务器上总计 200T 的文件传输到国内？",
-        "link": "https://www.v2ex.com/t/858171",
-        "date": "2022-06-08"
-      },
-      {
-        "title": "最近突然意识到通话录音这个功能还是挺重要的， iPhone 真的没有办法实现么？",
-        "link": "https://www.v2ex.com/t/858170",
-        "date": "2022-06-08"
       }
     ]
   },
@@ -10144,6 +10134,11 @@
     "title": "技术头条",
     "link": "http://blogread.cn/news/newest.php",
     "items": [
+      {
+        "title": "看看你有没有陷入“标签化”客户和 用户 的陷阱？ (insights.thoughtworks.cn)",
+        "link": "https://blogread.cn/news/go.php?idItem=15124&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fbusiness-analyst-growth%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2022-06-08"
+      },
       {
         "title": "验收标准到底是不是测试用例？ (insights.thoughtworks.cn)",
         "link": "https://blogread.cn/news/go.php?idItem=15123&url=https%3A%2F%2Finsights.thoughtworks.cn%2Facceptance-criteria-testcases%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
@@ -10237,11 +10232,6 @@
       {
         "title": "Nuxt不停机部署指南 (hessian.cn)",
         "link": "https://blogread.cn/news/go.php?idItem=15105&url=https%3A%2F%2Fhessian.cn%2Fp%2F1643.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-06-08"
-      },
-      {
-        "title": "MySQL 云数据库物理备份本地恢复方案 (soulteary.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=15104&url=https%3A%2F%2Fsoulteary.com%2F2021%2F10%2F13%2Fmysql-cloud-database-physical-backup-local-recovery-solution.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
         "date": "2022-06-08"
       }
     ]
@@ -10357,8 +10347,8 @@
         "date": "2022-06-08"
       },
       {
-        "title": "[推荐] 如何写出一篇好的技术方案？",
-        "link": "https://toutiao.io/k/gl2cth8",
+        "title": "[推荐] 架构师成长路线图",
+        "link": "https://toutiao.io/k/27b6p2e",
         "date": "2022-06-08"
       },
       {
@@ -10367,8 +10357,8 @@
         "date": "2022-06-08"
       },
       {
-        "title": "[推荐] 架构师成长路线图",
-        "link": "https://toutiao.io/k/27b6p2e",
+        "title": "[推荐] 如何写出一篇好的技术方案？",
+        "link": "https://toutiao.io/k/gl2cth8",
         "date": "2022-06-08"
       },
       {

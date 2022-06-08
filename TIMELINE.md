@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-06-08 09:14:08。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-06-08 09:41:49。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,12 @@
 </summary>
 
 
+- [【V2EX】2022-06-08-pandas-相关，-k-线数据加工，用-resample-寻找价格最值相应时间遇到问题。](https://www.v2ex.com/t/858228) 
+- [【V2EX】2022-06-08-iPhone-12-Pro-的外屏摔碎了，咋凑合用？](https://www.v2ex.com/t/858225) 
+- [【V2EX】2022-06-08-且看这个-Node-全栈框架，实现了个-Cli-终端引擎，可无限扩充命令集](https://www.v2ex.com/t/858223) 
+- [【V2EX】2022-06-08-关于-iphone13-使用京东-app-的问题](https://www.v2ex.com/t/858222) 
+- [【V2EX】2022-06-08-救：-Zoom-出奇的卡顿？解决方案？](https://www.v2ex.com/t/858221) 
+- [【V2EX】2022-06-08-macOS-正在抛弃风景壁纸](https://www.v2ex.com/t/858220) 
 - [【V2EX】2022-06-08-最近想试试-Surge-，来开个车。。。](https://www.v2ex.com/t/858219) 
 - [【V2EX】2022-06-08-可以用上-starlink-吗？](https://www.v2ex.com/t/858218) 
 - [【V2EX】2022-06-08-请问下屏幕使用时间](https://www.v2ex.com/t/858217) 
@@ -97,14 +103,7 @@
 - [【V2EX】2022-06-08-有啥可以查询指定路段路况的方法么](https://www.v2ex.com/t/858182) 
 - [【V2EX】2022-06-08-国外赚钱如何汇到国内方便又便宜？](https://www.v2ex.com/t/858181) 
 - [【V2EX】2022-06-08-2016-MacBook-不支持新系统升级后会怎么样？](https://www.v2ex.com/t/858180) 
-- [【V2EX】2022-06-08-有道云笔记能不能添加无标题的浏览模式](https://www.v2ex.com/t/858178) 
-- [【V2EX】2022-06-08-BI-如何让-SaaS-产品具有-“安全感”和“敏锐感”（上）](https://www.v2ex.com/t/858176) 
-- [【V2EX】2022-06-08-更适合程序员的-Markdown-笔记应用---妙言](https://www.v2ex.com/t/858175) 
-- [【V2EX】2022-06-08-出租屋-40-平方,-三四台设备,-有什么稳定不断流性价比高的路由器推荐吗?](https://www.v2ex.com/t/858174) 
-- [【V2EX】2022-06-08-500-元以下有没有适合久坐的椅子？](https://www.v2ex.com/t/858173) 
-- [【V2EX】2022-06-08-两台手机登录同一个-id-无法收到另一台的短信](https://www.v2ex.com/t/858172) 
-- [【V2EX】2022-06-08-如何将加拿大服务器上总计-200T-的文件传输到国内？](https://www.v2ex.com/t/858171) 
-- [【V2EX】2022-06-08-最近突然意识到通话录音这个功能还是挺重要的，-iPhone-真的没有办法实现么？](https://www.v2ex.com/t/858170) 
+- [【技术头条】2022-06-08-看看你有没有陷入“标签化”客户和-用户-的陷阱？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15124&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fbusiness-analyst-growth%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-06-08-验收标准到底是不是测试用例？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15123&url=https%3A%2F%2Finsights.thoughtworks.cn%2Facceptance-criteria-testcases%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-06-08-性能指标的信仰危机-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15122&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fperformance-indicator%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-06-08-在一个“去QA化”的项目中，QA能做什么？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15121&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fquality-assurance-in-project%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -124,7 +123,6 @@
 - [【技术头条】2022-06-08-业务系统的稳定性建设-fed.taobao.org](https://blogread.cn/news/go.php?idItem=15107&url=https%3A%2F%2Ffed.taobao.org%2Fblog%2Ftaofed%2Fdo71ct%2Ffc3cy0%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-06-08-改hosts不生效？教你清理Chrome的DNS缓存-hessian.cn](https://blogread.cn/news/go.php?idItem=15106&url=https%3A%2F%2Fhessian.cn%2Fp%2F1645.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-06-08-Nuxt不停机部署指南-hessian.cn](https://blogread.cn/news/go.php?idItem=15105&url=https%3A%2F%2Fhessian.cn%2Fp%2F1643.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
-- [【技术头条】2022-06-08-MySQL-云数据库物理备份本地恢复方案-soulteary.com](https://blogread.cn/news/go.php?idItem=15104&url=https%3A%2F%2Fsoulteary.com%2F2021%2F10%2F13%2Fmysql-cloud-database-physical-backup-local-recovery-solution.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【开发者头条】2022-06-08-推荐一个神器!-3天变全栈工程师?](https://toutiao.io/k/o7qu8wg) 
 - [【开发者头条】2022-06-08-Java核心技术大会2022-·-重磅发布](https://toutiao.io/k/ali5f5v) 
 - [【开发者头条】2022-06-08-这一次ElasticSearch可能感受到了来自东方的压力-GoFound](https://toutiao.io/k/tduuwu4) 
@@ -146,9 +144,9 @@
 - [【开发者头条】2022-06-08-用了模板字面量类型，同事直呼太强了！](https://toutiao.io/k/rysmwmc) 
 - [【开发者头条】2022-06-08-我是一个Dubbo数据包...](https://toutiao.io/k/lkavwif) 
 - [【开发者头条】2022-06-08-推荐-聊聊接口设计的36个小技巧](https://toutiao.io/k/yqm776v) 
-- [【开发者头条】2022-06-08-推荐-如何写出一篇好的技术方案？](https://toutiao.io/k/gl2cth8) 
-- [【开发者头条】2022-06-08-推荐-性能提升40倍——线上真实重构案例分享](https://toutiao.io/k/izbqpxo) 
 - [【开发者头条】2022-06-08-推荐-架构师成长路线图](https://toutiao.io/k/27b6p2e) 
+- [【开发者头条】2022-06-08-推荐-性能提升40倍——线上真实重构案例分享](https://toutiao.io/k/izbqpxo) 
+- [【开发者头条】2022-06-08-推荐-如何写出一篇好的技术方案？](https://toutiao.io/k/gl2cth8) 
 - [【开发者头条】2022-06-08-推荐-阿里10年沉淀｜那些技术实战中的架构设计方法](https://toutiao.io/k/e9vlh55) 
 - [【开发者头条】2022-06-08-推荐-不可错过的程序员续命科技](https://toutiao.io/k/wooq1pu) 
 

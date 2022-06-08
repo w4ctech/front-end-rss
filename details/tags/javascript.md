@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-06-08 17:41:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-06-08 18:16:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -21,4 +21,3 @@
 - [2022-03-15-基于howler.js写了个音频播放器组件](https://www.zhangxinxu.com/wordpress/2022/03/howler-js-audio-player/) 
 - [2022-06-08-国家卫健委官网路由环路了？](https://www.v2ex.com/t/858291) 
 - [2022-06-08-dell-latitude-5420-触控板没有双指滚动的吗](https://www.v2ex.com/t/858281) 
-- [2022-06-08-基于-libretro-web-player-封装了一个模拟器-js-组件](https://www.v2ex.com/t/858246) 

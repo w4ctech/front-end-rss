@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-06-08 04:27:19。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-06-08 04:54:22。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,9 @@
 </summary>
 
 
+- [【V2EX】2022-06-08-普通开发面试会问-k8s-吗](https://www.v2ex.com/t/858150) 
+- [【V2EX】2022-06-08-V2Ex-怎么删除回复和评论以及主题？](https://www.v2ex.com/t/858149) 
+- [【V2EX】2022-06-08-解决了一个从-macOS-Monterey-以来反复出现的-Time-Machine-备份至-Synology-NAS-问题](https://www.v2ex.com/t/858146) 
 - [【V2EX】2022-06-08-英国每周-4-天工作制](https://www.v2ex.com/t/858145) 
 - [【V2EX】2022-06-08-30+，感觉前途迷茫，有相同想法的朋友，进来讨论一下](https://www.v2ex.com/t/858144) 
 - [【V2EX】2022-06-08-Telegram-高级订阅会员要来了](https://www.v2ex.com/t/858143) 
@@ -104,9 +107,6 @@
 - [【V2EX】2022-06-08-aria2c-下载文件无法断点续传](https://www.v2ex.com/t/858103) 
 - [【V2EX】2022-06-08-当前-kindle-是否还值得入手](https://www.v2ex.com/t/858102) 
 - [【V2EX】2022-06-08-考研失败，恳请大家帮忙看看简历。](https://www.v2ex.com/t/858101) 
-- [【V2EX】2022-06-08-分享一篇远程工作入门科普指南（内附招聘网站信息）](https://www.v2ex.com/t/858100) 
-- [【V2EX】2022-06-08-杭州今年裁员的公司有点多](https://www.v2ex.com/t/858099) 
-- [【V2EX】2022-06-08-M1-Pro-8-核心其实是-10-核心屏蔽-2-个核心而得到的，那么是否可以开核？](https://www.v2ex.com/t/858097) 
 - [【技术头条】2022-06-08-验收标准到底是不是测试用例？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15123&url=https%3A%2F%2Finsights.thoughtworks.cn%2Facceptance-criteria-testcases%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-06-08-性能指标的信仰危机-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15122&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fperformance-indicator%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-06-08-在一个“去QA化”的项目中，QA能做什么？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15121&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fquality-assurance-in-project%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -130,23 +130,23 @@
 - [【开发者头条】2022-06-08-推荐一个神器!-3天变全栈工程师?](https://toutiao.io/k/o7qu8wg) 
 - [【开发者头条】2022-06-08-Java核心技术大会2022-·-重磅发布](https://toutiao.io/k/ali5f5v) 
 - [【开发者头条】2022-06-08-这一次ElasticSearch可能感受到了来自东方的压力-GoFound](https://toutiao.io/k/tduuwu4) 
-- [【开发者头条】2022-06-08-聊聊保证线程安全的10个小技巧](https://toutiao.io/k/hyy4siz) 
 - [【开发者头条】2022-06-08-深入浅出区块链技术](https://toutiao.io/k/fsa5y9w) 
+- [【开发者头条】2022-06-08-聊聊保证线程安全的10个小技巧](https://toutiao.io/k/hyy4siz) 
 - [【开发者头条】2022-06-08-systrace-统计方法耗时](https://toutiao.io/k/rcnoc5o) 
-- [【开发者头条】2022-06-08-GPU-渲染管线和硬件架构浅谈](https://toutiao.io/k/gp8kv4x) 
-- [【开发者头条】2022-06-08-"企业的业务能力"-是什么-？](https://toutiao.io/k/fdev4al) 
 - [【开发者头条】2022-06-08-这些Shell分析服务器日志命令集锦](https://toutiao.io/k/a3rxith) 
-- [【开发者头条】2022-06-08-技术文档应该怎样裁剪？从谷歌公司用ACC替代测试计划说起](https://toutiao.io/k/nhkz5q3) 
+- [【开发者头条】2022-06-08-"企业的业务能力"-是什么-？](https://toutiao.io/k/fdev4al) 
+- [【开发者头条】2022-06-08-GPU-渲染管线和硬件架构浅谈](https://toutiao.io/k/gp8kv4x) 
 - [【开发者头条】2022-06-08-搞定这个日志智能分析设计，大小故障都无处可逃](https://toutiao.io/k/te6v3l8) 
 - [【开发者头条】2022-06-08-干货｜字节跳动数据湖技术选型的思考](https://toutiao.io/k/wcovtyg) 
+- [【开发者头条】2022-06-08-技术文档应该怎样裁剪？从谷歌公司用ACC替代测试计划说起](https://toutiao.io/k/nhkz5q3) 
 - [【开发者头条】2022-06-08-如何保障数仓数据质量？](https://toutiao.io/k/re206zi) 
 - [【开发者头条】2022-06-08-让AI-作画更快一点](https://toutiao.io/k/gshupst) 
+- [【开发者头条】2022-06-08-推荐-性能提升40倍——线上真实重构案例分享](https://toutiao.io/k/izbqpxo) 
 - [【开发者头条】2022-06-08-推荐-如何写出一篇好的技术方案？](https://toutiao.io/k/gl2cth8) 
 - [【开发者头条】2022-06-08-推荐-不可错过的程序员续命科技](https://toutiao.io/k/wooq1pu) 
-- [【开发者头条】2022-06-08-推荐-架构师成长路线图](https://toutiao.io/k/27b6p2e) 
 - [【开发者头条】2022-06-08-推荐-阿里10年沉淀｜那些技术实战中的架构设计方法](https://toutiao.io/k/e9vlh55) 
-- [【开发者头条】2022-06-08-推荐-性能提升40倍——线上真实重构案例分享](https://toutiao.io/k/izbqpxo) 
 - [【开发者头条】2022-06-08-推荐-聊聊接口设计的36个小技巧](https://toutiao.io/k/yqm776v) 
+- [【开发者头条】2022-06-08-推荐-架构师成长路线图](https://toutiao.io/k/27b6p2e) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

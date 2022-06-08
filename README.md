@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-06-08 09:41:49，:rocket: 更新条数: +2027， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-06-08 10:15:36，:rocket: 更新条数: +2027， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,9 @@
 </summary>
 
 
+- [2022-06-08-Nginx-为-OMV6-webui-和其他应用配置-sub-path-反向代理的问题](https://www.v2ex.com/t/858232) ![](assets/new.png)  
+- [2022-06-08-整了个-Emby-服,速度堪比爱奇艺](https://www.v2ex.com/t/858231) ![](assets/new.png)  
+- [2022-06-08-上海/外企/开源-开源明星独角兽-Kong-在中国持续招聘中](https://www.v2ex.com/t/858229) ![](assets/new.png)  
 - [2022-06-08-pandas-相关，-k-线数据加工，用-resample-寻找价格最值相应时间遇到问题。](https://www.v2ex.com/t/858228) ![](assets/new.png)  
 - [2022-06-08-iPhone-12-Pro-的外屏摔碎了，咋凑合用？](https://www.v2ex.com/t/858225) ![](assets/new.png)  
 - [2022-06-08-且看这个-Node-全栈框架，实现了个-Cli-终端引擎，可无限扩充命令集](https://www.v2ex.com/t/858223) ![](assets/new.png)  
@@ -508,9 +511,6 @@
 - [2022-06-08-有没有人用过-Xcode-扩展的](https://www.v2ex.com/t/858210) ![](assets/new.png)  
 - [2022-06-08-w3.org-万维网联盟直接跳反诈](https://www.v2ex.com/t/858209) ![](assets/new.png)  
 - [2022-06-08-不想卷了，请问一下大佬，外企开发岗英语要达到一个什么样的水平呢？](https://www.v2ex.com/t/858207) ![](assets/new.png)  
-- [2022-06-08-外网服务器连接家里数据库是不是可以用-frp-实现？](https://www.v2ex.com/t/858206) ![](assets/new.png)  
-- [2022-06-08-为什么在服务器-hosts-中加客户端-IP-能解决访问慢的问题](https://www.v2ex.com/t/858205) ![](assets/new.png)  
-- [2022-06-08-Realme-系统疑似在后台偷传应用列表？](https://www.v2ex.com/t/858204) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

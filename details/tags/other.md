@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-06-08 09:41:49。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-06-08 10:15:36。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1912,6 +1912,7 @@
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2022-03-21-ascent-override-descent-override-line-gap-override一锅端](https://www.zhangxinxu.com/wordpress/2022/03/css-ascent-override-descent/) 
+- [2022-06-08-整了个-Emby-服,速度堪比爱奇艺](https://www.v2ex.com/t/858231) 
 - [2022-06-08-pandas-相关，-k-线数据加工，用-resample-寻找价格最值相应时间遇到问题。](https://www.v2ex.com/t/858228) 
 - [2022-06-08-iPhone-12-Pro-的外屏摔碎了，咋凑合用？](https://www.v2ex.com/t/858225) 
 - [2022-06-08-关于-iphone13-使用京东-app-的问题](https://www.v2ex.com/t/858222) 
@@ -1939,9 +1940,6 @@
 - [2022-06-08-求个-surge-for-mac-车位](https://www.v2ex.com/t/858188) 
 - [2022-06-08-ultrafine-4k-周围泛红是受潮的原因吗？](https://www.v2ex.com/t/858186) 
 - [2022-06-08-大家到“数码荔枝”购买产品的时候请擦亮眼睛](https://www.v2ex.com/t/858183) 
-- [2022-06-08-有啥可以查询指定路段路况的方法么](https://www.v2ex.com/t/858182) 
-- [2022-06-08-国外赚钱如何汇到国内方便又便宜？](https://www.v2ex.com/t/858181) 
-- [2022-06-08-2016-MacBook-不支持新系统升级后会怎么样？](https://www.v2ex.com/t/858180) 
 - [2022-06-08-看看你有没有陷入“标签化”客户和-用户-的陷阱？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15124&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fbusiness-analyst-growth%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-06-08-验收标准到底是不是测试用例？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15123&url=https%3A%2F%2Finsights.thoughtworks.cn%2Facceptance-criteria-testcases%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-06-08-在一个“去QA化”的项目中，QA能做什么？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15121&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fquality-assurance-in-project%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1972,7 +1970,7 @@
 - [2022-06-08-用了模板字面量类型，同事直呼太强了！](https://toutiao.io/k/rysmwmc) 
 - [2022-06-08-我是一个Dubbo数据包...](https://toutiao.io/k/lkavwif) 
 - [2022-06-08-推荐-聊聊接口设计的36个小技巧](https://toutiao.io/k/yqm776v) 
-- [2022-06-08-推荐-架构师成长路线图](https://toutiao.io/k/27b6p2e) 
-- [2022-06-08-推荐-如何写出一篇好的技术方案？](https://toutiao.io/k/gl2cth8) 
 - [2022-06-08-推荐-阿里10年沉淀｜那些技术实战中的架构设计方法](https://toutiao.io/k/e9vlh55) 
 - [2022-06-08-推荐-不可错过的程序员续命科技](https://toutiao.io/k/wooq1pu) 
+- [2022-06-08-推荐-如何写出一篇好的技术方案？](https://toutiao.io/k/gl2cth8) 
+- [2022-06-08-推荐-架构师成长路线图](https://toutiao.io/k/27b6p2e) 

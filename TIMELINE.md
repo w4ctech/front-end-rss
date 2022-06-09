@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-06-09 10:15:40。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-06-09 10:43:34。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,15 @@
 </summary>
 
 
+- [【V2EX】2022-06-09-双非大二，不准备考研，该如何提升自己，以便一年后能找到好的实习/工作-offer？](https://www.v2ex.com/t/858501) 
+- [【V2EX】2022-06-09-Apple-One-美区超大杯，长期自用](https://www.v2ex.com/t/858499) 
+- [【V2EX】2022-06-09-mastodon---去中心化社交媒体](https://www.v2ex.com/t/858498) 
+- [【V2EX】2022-06-09-尽快下载你的-Kindle-书籍，亚马逊似乎开始下架部分书籍了](https://www.v2ex.com/t/858497) 
+- [【V2EX】2022-06-09-传言-Thinking-in-Java-4th-Edition（《-Java-编程思想》第四版）-英文原版-可以免费下载了？-请教从哪儿可以下载到？-传言有误？](https://www.v2ex.com/t/858496) 
+- [【V2EX】2022-06-09-Parallels-Desktop-官网-618-活动！](https://www.v2ex.com/t/858494) 
+- [【V2EX】2022-06-09-请问小米的-mi.com-域名-每天都有几千个请求么？米家路由米家生态。。。](https://www.v2ex.com/t/858493) 
+- [【V2EX】2022-06-09-各位前辈-618-了-能推荐一个键盘吗](https://www.v2ex.com/t/858492) 
+- [【V2EX】2022-06-09-联想笔记闪屏，经过几个月才弄清原因，但是还是没彻底解决。](https://www.v2ex.com/t/858491) 
 - [【V2EX】2022-06-09-AirPods-系列也推-beta-版固件了](https://www.v2ex.com/t/858490) 
 - [【V2EX】2022-06-09--携号转网-验证码收取异常是真的么？](https://www.v2ex.com/t/858489) 
 - [【V2EX】2022-06-09-深圳芯片互联网公司诚聘：-2-名爬虫工程师](https://www.v2ex.com/t/858488) 
@@ -102,15 +111,6 @@
 - [【V2EX】2022-06-09-开源-v1.0：简易探针+webssh](https://www.v2ex.com/t/858455) 
 - [【V2EX】2022-06-09-centos7-防火墙（firewalld）是打开的，然后没有开放-8002-端口，但这个端口的程序可以访问，请问还可以从哪里排查，是哪里的规则是打开的？](https://www.v2ex.com/t/858454) 
 - [【V2EX】2022-06-09-关于-App-Store-要求-APP-必须提供用户彻底删除的功能的一个问题](https://www.v2ex.com/t/858453) 
-- [【V2EX】2022-06-09-这是-Github-的-Bug-，还是什么我不知道的-Feature？](https://www.v2ex.com/t/858451) 
-- [【V2EX】2022-06-09-M2-MacBook-Air-型号标识](https://www.v2ex.com/t/858449) 
-- [【V2EX】2022-06-09-主机推荐求助?](https://www.v2ex.com/t/858448) 
-- [【V2EX】2022-06-09-寻找一起做前端项目的伙伴](https://www.v2ex.com/t/858446) 
-- [【V2EX】2022-06-09-遇到一个问题不知道怎么排查，求点思路](https://www.v2ex.com/t/858445) 
-- [【V2EX】2022-06-09-如何给-Passwords/Keychain-再添加一个密码](https://www.v2ex.com/t/858444) 
-- [【V2EX】2022-06-09-老-MBP-的-SSD-为啥显示是-SATA-设备，但是性能却是-NVME-的性能呢?](https://www.v2ex.com/t/858443) 
-- [【V2EX】2022-06-09-西安外企965-招聘-Infrastructure-工程师](https://www.v2ex.com/t/858442) 
-- [【V2EX】2022-06-09-小公司领导过生微信邀请吃饭,不想去但是又不好拒绝,有什么策略处理?](https://www.v2ex.com/t/858441) 
 - [【技术头条】2022-06-09-容器江湖的爱恨情仇-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15125&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fdocker-colima-podman-container%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-06-09-看看你有没有陷入“标签化”客户和-用户-的陷阱？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15124&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fbusiness-analyst-growth%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-06-09-验收标准到底是不是测试用例？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15123&url=https%3A%2F%2Finsights.thoughtworks.cn%2Facceptance-criteria-testcases%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -147,16 +147,16 @@
 - [【开发者头条】2022-06-09-揭秘Mandiant被黑内幕](https://toutiao.io/k/rgag5y6) 
 - [【开发者头条】2022-06-09-量化参数选择与量化误差分析](https://toutiao.io/k/v9hntzj) 
 - [【开发者头条】2022-06-09-geojson和wkt互转java版本](https://toutiao.io/k/iq9tuts) 
-- [【开发者头条】2022-06-09-C++性能真的不如C吗？](https://toutiao.io/k/r6xxa2f) 
 - [【开发者头条】2022-06-09-推荐一款超棒的抓包分析工具---Burp-Suite](https://toutiao.io/k/3qdo5vx) 
+- [【开发者头条】2022-06-09-C++性能真的不如C吗？](https://toutiao.io/k/r6xxa2f) 
 - [【开发者头条】2022-06-09-核心线程数为3的线程池提交2个任务就被拒绝？](https://toutiao.io/k/7jq047c) 
 - [【开发者头条】2022-06-09-浅浅浅识k8s中的"api聚合"](https://toutiao.io/k/uvksrjz) 
-- [【开发者头条】2022-06-09-推荐-性能提升40倍——线上真实重构案例分享](https://toutiao.io/k/izbqpxo) 
 - [【开发者头条】2022-06-09-推荐-阿里10年沉淀｜那些技术实战中的架构设计方法](https://toutiao.io/k/e9vlh55) 
-- [【开发者头条】2022-06-09-推荐-如何写出一篇好的技术方案？](https://toutiao.io/k/gl2cth8) 
 - [【开发者头条】2022-06-09-推荐-架构师成长路线图](https://toutiao.io/k/27b6p2e) 
 - [【开发者头条】2022-06-09-推荐-不可错过的程序员续命科技](https://toutiao.io/k/wooq1pu) 
+- [【开发者头条】2022-06-09-推荐-性能提升40倍——线上真实重构案例分享](https://toutiao.io/k/izbqpxo) 
 - [【开发者头条】2022-06-09-推荐-消息队列原理和选型：Kafka、RocketMQ-、RabbitMQ-和-ActiveMQ](https://toutiao.io/k/nuwnwro) 
+- [【开发者头条】2022-06-09-推荐-如何写出一篇好的技术方案？](https://toutiao.io/k/gl2cth8) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

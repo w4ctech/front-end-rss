@@ -1,10 +1,19 @@
-:alarm_clock: 更新时间: 2022-06-09 10:15:40。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-06-09 10:43:34。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-06-09-双非大二，不准备考研，该如何提升自己，以便一年后能找到好的实习/工作-offer？](https://www.v2ex.com/t/858501) 
+- [2022-06-09-Apple-One-美区超大杯，长期自用](https://www.v2ex.com/t/858499) 
+- [2022-06-09-mastodon---去中心化社交媒体](https://www.v2ex.com/t/858498) 
+- [2022-06-09-尽快下载你的-Kindle-书籍，亚马逊似乎开始下架部分书籍了](https://www.v2ex.com/t/858497) 
+- [2022-06-09-传言-Thinking-in-Java-4th-Edition（《-Java-编程思想》第四版）-英文原版-可以免费下载了？-请教从哪儿可以下载到？-传言有误？](https://www.v2ex.com/t/858496) 
+- [2022-06-09-Parallels-Desktop-官网-618-活动！](https://www.v2ex.com/t/858494) 
+- [2022-06-09-请问小米的-mi.com-域名-每天都有几千个请求么？米家路由米家生态。。。](https://www.v2ex.com/t/858493) 
+- [2022-06-09-各位前辈-618-了-能推荐一个键盘吗](https://www.v2ex.com/t/858492) 
+- [2022-06-09-联想笔记闪屏，经过几个月才弄清原因，但是还是没彻底解决。](https://www.v2ex.com/t/858491) 
 - [2022-06-09-AirPods-系列也推-beta-版固件了](https://www.v2ex.com/t/858490) 
 - [2022-06-09--携号转网-验证码收取异常是真的么？](https://www.v2ex.com/t/858489) 
 - [2022-06-09-深圳芯片互联网公司诚聘：-2-名爬虫工程师](https://www.v2ex.com/t/858488) 
@@ -39,12 +48,3 @@
 - [2022-06-09-开源-v1.0：简易探针+webssh](https://www.v2ex.com/t/858455) 
 - [2022-06-09-centos7-防火墙（firewalld）是打开的，然后没有开放-8002-端口，但这个端口的程序可以访问，请问还可以从哪里排查，是哪里的规则是打开的？](https://www.v2ex.com/t/858454) 
 - [2022-06-09-关于-App-Store-要求-APP-必须提供用户彻底删除的功能的一个问题](https://www.v2ex.com/t/858453) 
-- [2022-06-09-这是-Github-的-Bug-，还是什么我不知道的-Feature？](https://www.v2ex.com/t/858451) 
-- [2022-06-09-M2-MacBook-Air-型号标识](https://www.v2ex.com/t/858449) 
-- [2022-06-09-主机推荐求助?](https://www.v2ex.com/t/858448) 
-- [2022-06-09-寻找一起做前端项目的伙伴](https://www.v2ex.com/t/858446) 
-- [2022-06-09-遇到一个问题不知道怎么排查，求点思路](https://www.v2ex.com/t/858445) 
-- [2022-06-09-如何给-Passwords/Keychain-再添加一个密码](https://www.v2ex.com/t/858444) 
-- [2022-06-09-老-MBP-的-SSD-为啥显示是-SATA-设备，但是性能却是-NVME-的性能呢?](https://www.v2ex.com/t/858443) 
-- [2022-06-09-西安外企965-招聘-Infrastructure-工程师](https://www.v2ex.com/t/858442) 
-- [2022-06-09-小公司领导过生微信邀请吃饭,不想去但是又不好拒绝,有什么策略处理?](https://www.v2ex.com/t/858441) 

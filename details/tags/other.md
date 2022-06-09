@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-06-09 18:17:11。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-06-09 18:44:53。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1940,7 +1940,6 @@
 - [2022-06-09-现在还有木有类似无忧登录的软件？](https://www.v2ex.com/t/858536) 
 - [2022-06-09-求-MBP14-2021-硬盘空间拓展方案](https://www.v2ex.com/t/858535) 
 - [2022-06-09-有没有什么在线背英语单词的网站](https://www.v2ex.com/t/858534) 
-- [2022-06-09-V-友们有没有轻量化邮件客户端推荐一下](https://www.v2ex.com/t/858533) 
 - [2022-06-09-容器江湖的爱恨情仇-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15125&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fdocker-colima-podman-container%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-06-09-看看你有没有陷入“标签化”客户和-用户-的陷阱？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15124&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fbusiness-analyst-growth%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-06-09-验收标准到底是不是测试用例？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15123&url=https%3A%2F%2Finsights.thoughtworks.cn%2Facceptance-criteria-testcases%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1972,8 +1971,8 @@
 - [2022-06-09-核心线程数为3的线程池提交2个任务就被拒绝？](https://toutiao.io/k/7jq047c) 
 - [2022-06-09-量化参数选择与量化误差分析](https://toutiao.io/k/v9hntzj) 
 - [2022-06-09-浅浅浅识k8s中的"api聚合"](https://toutiao.io/k/uvksrjz) 
+- [2022-06-09-推荐-消息队列原理和选型：Kafka、RocketMQ-、RabbitMQ-和-ActiveMQ](https://toutiao.io/k/nuwnwro) 
 - [2022-06-09-推荐-阿里10年沉淀｜那些技术实战中的架构设计方法](https://toutiao.io/k/e9vlh55) 
 - [2022-06-09-推荐-架构师成长路线图](https://toutiao.io/k/27b6p2e) 
-- [2022-06-09-推荐-不可错过的程序员续命科技](https://toutiao.io/k/wooq1pu) 
-- [2022-06-09-推荐-消息队列原理和选型：Kafka、RocketMQ-、RabbitMQ-和-ActiveMQ](https://toutiao.io/k/nuwnwro) 
 - [2022-06-09-推荐-如何写出一篇好的技术方案？](https://toutiao.io/k/gl2cth8) 
+- [2022-06-09-推荐-不可错过的程序员续命科技](https://toutiao.io/k/wooq1pu) 

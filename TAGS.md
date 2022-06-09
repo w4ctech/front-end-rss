@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-06-09 07:14:22。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-06-09 07:38:06。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -241,6 +241,7 @@
 
 - [【武汉肺炎防疫全纪录(财新网)】广州17岁男生在定点医院参加高考-特殊考场视频监考](https://m.caixin.com/m/2021-06-05/101723418.html)
 - [【武汉肺炎防疫全纪录(财新网)】林郑月娥率13高官直播接种科兴疫苗-复星疫苗预计周中到港](https://m.caixin.com/m/2021-02-22/101665724.html)
+- [【V2EX】升级到-iOS-15.5-后，视频播放上划开启画中画功能失效](https://www.v2ex.com/t/858438)
 - [【V2EX】请问一下大家-对于定点拍摄景区多张照片,然后删除照片中的不同部分来达到风景照片去掉人物的实现方法有没有什么相关的资料和关键词.-例如视频课程中的老师遮...](https://www.v2ex.com/t/858434)
 - [【V2EX】大家推荐下让人震撼的-Apple-Music-空间音频的曲子呗](https://www.v2ex.com/t/858415)
 - [......【查看更多】......](./details/tags/audio-video.md)
@@ -259,6 +260,7 @@
 
 
 
+- [【V2EX】老-MBP-的-SSD-为啥显示是-SATA-设备，但是性能却是-NVME-的性能呢?](https://www.v2ex.com/t/858443)
 - [【技术头条】性能指标的信仰危机-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15122&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fperformance-indicator%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【技术头条】在-Apache-Cassandra-中定义和优化数据分区-linux.cn](https://blogread.cn/news/go.php?idItem=15109&url=https%3A%2F%2Flinux.cn%2Farticle-13908-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【开发者头条】C++性能真的不如C吗？](https://toutiao.io/k/r6xxa2f)
@@ -302,6 +304,7 @@
 
 
 
+- [【V2EX】西安外企965-招聘-Infrastructure-工程师](https://www.v2ex.com/t/858442)
 - [【V2EX】反-V2EX-联盟-https://twitter.com/Fv2ex](https://www.v2ex.com/t/858431)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 

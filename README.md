@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-06-09 23:03:21，:rocket: 更新条数: +2032， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-06-09 23:13:35，:rocket: 更新条数: +2032， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-06-09-兄弟们-618-想给弟弟选一款电脑求推荐](https://www.v2ex.com/t/858587) ![](assets/new.png)  
 - [2022-06-09-欧版-Anker-Nano-II-不支持宽电压](https://www.v2ex.com/t/858586) ![](assets/new.png)  
 - [2022-06-09-Pulse-Secure-服务端可以个人搭建吗](https://www.v2ex.com/t/858585) ![](assets/new.png)  
 - [2022-06-09-Notion-iOS-版本不支持粘贴？](https://www.v2ex.com/t/858584) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-06-09-红帽系的-Alma-Linux-9-正式版发布了](https://www.v2ex.com/t/858568) ![](assets/new.png)  
 - [2022-06-09-小米-max2-刷入-android-12-后无法连接-wifi](https://www.v2ex.com/t/858567) ![](assets/new.png)  
 - [2022-06-09-不论岗位技术与非技术，你身边有没有职场里面升级特别快的人？](https://www.v2ex.com/t/858566) ![](assets/new.png)  
-- [2022-06-09-有人办过深圳欢乐谷的这个活动吗?-必须去园内办理吗](https://www.v2ex.com/t/858564) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2022-06-09 23:03:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-06-09 23:13:35。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-06-09-兄弟们-618-想给弟弟选一款电脑求推荐](https://www.v2ex.com/t/858587) 
 - [2022-06-09-欧版-Anker-Nano-II-不支持宽电压](https://www.v2ex.com/t/858586) 
 - [2022-06-09-Pulse-Secure-服务端可以个人搭建吗](https://www.v2ex.com/t/858585) 
 - [2022-06-09-Notion-iOS-版本不支持粘贴？](https://www.v2ex.com/t/858584) 
@@ -44,4 +45,3 @@
 - [2022-06-09-App-Store-发布成功，状态可供销售，但是-App-Store-中一直搜索不到，有大佬遇到过么](https://www.v2ex.com/t/858540) 
 - [2022-06-09-请各位大牛帮忙看看我做的-C++后端学习计划](https://www.v2ex.com/t/858539) 
 - [2022-06-09-前端有办法使用-gzip-外的协议解压二进制数据吗？](https://www.v2ex.com/t/858538) 
-- [2022-06-09-2024-年会推出-iPhone-with-USB-Type-C-Port](https://www.v2ex.com/t/858537) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-06-09 14:18:56，:rocket: 更新条数: +2034， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-06-09 14:38:28，:rocket: 更新条数: +2033， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -556,9 +556,9 @@
 - [2022-06-09-总监的烦恼：技术丢了怎么办？](https://toutiao.io/k/rzytby1) ![](assets/new.png)  
 - [2022-06-09-前端项目接入Sentry监控系统](https://toutiao.io/k/otma67z) ![](assets/new.png)  
 - [2022-06-09-比T型人才更牛叉的是，做一个深入理解业务的-π-型工程师](https://toutiao.io/k/3gu1fi9) ![](assets/new.png)  
-- [2022-06-09-vivo大规模-Kubernetes-集群自动化运维实践](https://toutiao.io/k/451a7e7) ![](assets/new.png)  
 - [2022-06-09-详细设计应该包含哪些内容？](https://toutiao.io/k/xkv5xrk) ![](assets/new.png)  
 - [2022-06-09-自动化测试的未来趋势](https://toutiao.io/k/2c0k35y) ![](assets/new.png)  
+- [2022-06-09-vivo大规模-Kubernetes-集群自动化运维实践](https://toutiao.io/k/451a7e7) ![](assets/new.png)  
 - [2022-06-09-声网开发者创业讲堂丨第3期：创业初期如何保障产品质量？](https://toutiao.io/k/q19jkce) ![](assets/new.png)  
 - [2022-06-09-全网独一份，图片下载还能玩出这种花活来？](https://toutiao.io/k/sp6wg7h) ![](assets/new.png)  
 - [2022-06-09-是Rust太难了，还是主流编程本来就这么折磨人？](https://toutiao.io/k/5qtbx2w) ![](assets/new.png)  

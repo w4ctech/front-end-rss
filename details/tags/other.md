@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-06-09 22:15:02。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-06-09 22:42:29。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1912,6 +1912,7 @@
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2022-03-21-ascent-override-descent-override-line-gap-override一锅端](https://www.zhangxinxu.com/wordpress/2022/03/css-ascent-override-descent/) 
+- [2022-06-09-欧版-Anker-Nano-II-不支持宽电压](https://www.v2ex.com/t/858586) 
 - [2022-06-09-Pulse-Secure-服务端可以个人搭建吗](https://www.v2ex.com/t/858585) 
 - [2022-06-09-Notion-iOS-版本不支持粘贴？](https://www.v2ex.com/t/858584) 
 - [2022-06-09-Android-随想：学技术要学本质](https://www.v2ex.com/t/858580) 
@@ -1939,7 +1940,6 @@
 - [2022-06-09-请各位大牛帮忙看看我做的-C++后端学习计划](https://www.v2ex.com/t/858539) 
 - [2022-06-09-前端有办法使用-gzip-外的协议解压二进制数据吗？](https://www.v2ex.com/t/858538) 
 - [2022-06-09-2024-年会推出-iPhone-with-USB-Type-C-Port](https://www.v2ex.com/t/858537) 
-- [2022-06-09-现在还有木有类似无忧登录的软件？](https://www.v2ex.com/t/858536) 
 - [2022-06-09-容器江湖的爱恨情仇-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15125&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fdocker-colima-podman-container%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-06-09-看看你有没有陷入“标签化”客户和-用户-的陷阱？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15124&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fbusiness-analyst-growth%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-06-09-验收标准到底是不是测试用例？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15123&url=https%3A%2F%2Finsights.thoughtworks.cn%2Facceptance-criteria-testcases%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1956,8 +1956,8 @@
 - [2022-06-09-总监的烦恼：技术丢了怎么办？](https://toutiao.io/k/rzytby1) 
 - [2022-06-09-前端项目接入Sentry监控系统](https://toutiao.io/k/otma67z) 
 - [2022-06-09-比T型人才更牛叉的是，做一个深入理解业务的-π-型工程师](https://toutiao.io/k/3gu1fi9) 
-- [2022-06-09-自动化测试的未来趋势](https://toutiao.io/k/2c0k35y) 
 - [2022-06-09-详细设计应该包含哪些内容？](https://toutiao.io/k/xkv5xrk) 
+- [2022-06-09-自动化测试的未来趋势](https://toutiao.io/k/2c0k35y) 
 - [2022-06-09-vivo大规模-Kubernetes-集群自动化运维实践](https://toutiao.io/k/451a7e7) 
 - [2022-06-09-声网开发者创业讲堂丨第3期：创业初期如何保障产品质量？](https://toutiao.io/k/q19jkce) 
 - [2022-06-09-全网独一份，图片下载还能玩出这种花活来？](https://toutiao.io/k/sp6wg7h) 
@@ -1971,8 +1971,8 @@
 - [2022-06-09-核心线程数为3的线程池提交2个任务就被拒绝？](https://toutiao.io/k/7jq047c) 
 - [2022-06-09-量化参数选择与量化误差分析](https://toutiao.io/k/v9hntzj) 
 - [2022-06-09-浅浅浅识k8s中的"api聚合"](https://toutiao.io/k/uvksrjz) 
-- [2022-06-09-推荐-阿里10年沉淀｜那些技术实战中的架构设计方法](https://toutiao.io/k/e9vlh55) 
+- [2022-06-09-推荐-不可错过的程序员续命科技](https://toutiao.io/k/wooq1pu) 
 - [2022-06-09-推荐-架构师成长路线图](https://toutiao.io/k/27b6p2e) 
+- [2022-06-09-推荐-阿里10年沉淀｜那些技术实战中的架构设计方法](https://toutiao.io/k/e9vlh55) 
 - [2022-06-09-推荐-消息队列原理和选型：Kafka、RocketMQ-、RabbitMQ-和-ActiveMQ](https://toutiao.io/k/nuwnwro) 
 - [2022-06-09-推荐-如何写出一篇好的技术方案？](https://toutiao.io/k/gl2cth8) 
-- [2022-06-09-推荐-不可错过的程序员续命科技](https://toutiao.io/k/wooq1pu) 

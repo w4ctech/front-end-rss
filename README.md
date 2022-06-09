@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-06-09 22:15:02，:rocket: 更新条数: +2032， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-06-09 22:42:29，:rocket: 更新条数: +2032， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-06-09-欧版-Anker-Nano-II-不支持宽电压](https://www.v2ex.com/t/858586) ![](assets/new.png)  
 - [2022-06-09-Pulse-Secure-服务端可以个人搭建吗](https://www.v2ex.com/t/858585) ![](assets/new.png)  
 - [2022-06-09-Notion-iOS-版本不支持粘贴？](https://www.v2ex.com/t/858584) ![](assets/new.png)  
 - [2022-06-09-FastAPI-请求提示-503，应该如何-debug？](https://www.v2ex.com/t/858583) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-06-09-小米-max2-刷入-android-12-后无法连接-wifi](https://www.v2ex.com/t/858567) ![](assets/new.png)  
 - [2022-06-09-不论岗位技术与非技术，你身边有没有职场里面升级特别快的人？](https://www.v2ex.com/t/858566) ![](assets/new.png)  
 - [2022-06-09-有人办过深圳欢乐谷的这个活动吗?-必须去园内办理吗](https://www.v2ex.com/t/858564) ![](assets/new.png)  
-- [2022-06-09-接到一个小程序的私活，该怎么提报价](https://www.v2ex.com/t/858563) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -556,8 +556,8 @@
 - [2022-06-09-总监的烦恼：技术丢了怎么办？](https://toutiao.io/k/rzytby1) ![](assets/new.png)  
 - [2022-06-09-前端项目接入Sentry监控系统](https://toutiao.io/k/otma67z) ![](assets/new.png)  
 - [2022-06-09-比T型人才更牛叉的是，做一个深入理解业务的-π-型工程师](https://toutiao.io/k/3gu1fi9) ![](assets/new.png)  
-- [2022-06-09-自动化测试的未来趋势](https://toutiao.io/k/2c0k35y) ![](assets/new.png)  
 - [2022-06-09-详细设计应该包含哪些内容？](https://toutiao.io/k/xkv5xrk) ![](assets/new.png)  
+- [2022-06-09-自动化测试的未来趋势](https://toutiao.io/k/2c0k35y) ![](assets/new.png)  
 - [2022-06-09-vivo大规模-Kubernetes-集群自动化运维实践](https://toutiao.io/k/451a7e7) ![](assets/new.png)  
 - [2022-06-09-声网开发者创业讲堂丨第3期：创业初期如何保障产品质量？](https://toutiao.io/k/q19jkce) ![](assets/new.png)  
 - [2022-06-09-全网独一份，图片下载还能玩出这种花活来？](https://toutiao.io/k/sp6wg7h) ![](assets/new.png)  
@@ -566,8 +566,8 @@
 - [2022-06-09-Grafana-9.0-新特性提前预览](https://toutiao.io/k/wtq40iy) ![](assets/new.png)  
 - [2022-06-09-程序员自我修炼：《匠艺整洁之道》读书总结](https://toutiao.io/k/dntlee8) ![](assets/new.png)  
 - [2022-06-09-推荐一款超棒的抓包分析工具---Burp-Suite](https://toutiao.io/k/3qdo5vx) ![](assets/new.png)  
-- [2022-06-09-C++性能真的不如C吗？](https://toutiao.io/k/r6xxa2f) ![](assets/new.png)  
 - [2022-06-09-异地多活架构设计与实践](https://toutiao.io/k/46dgjrn) ![](assets/new.png)  
+- [2022-06-09-C++性能真的不如C吗？](https://toutiao.io/k/r6xxa2f) ![](assets/new.png)  
 - [2022-06-09-揭秘Mandiant被黑内幕](https://toutiao.io/k/rgag5y6) ![](assets/new.png)  
 - [2022-06-09-核心线程数为3的线程池提交2个任务就被拒绝？](https://toutiao.io/k/7jq047c) ![](assets/new.png)  
 - [2022-06-09-量化参数选择与量化误差分析](https://toutiao.io/k/v9hntzj) ![](assets/new.png)  

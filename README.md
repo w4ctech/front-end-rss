@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-06-09 04:54:29，:rocket: 更新条数: +2032， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-06-09 05:14:12，:rocket: 更新条数: +2032， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-06-09-Win-平台上有什么适合语音识别记笔记的好用工具吗？](https://www.v2ex.com/t/858393) ![](assets/new.png)  
 - [2022-06-09-有人了解-EPAM-anywhere-这家公司么？](https://www.v2ex.com/t/858392) ![](assets/new.png)  
 - [2022-06-09-恢复-iCloud-备份极慢，有解决办法吗？](https://www.v2ex.com/t/858391) ![](assets/new.png)  
 - [2022-06-09-有什么办法是可以把微信表情包快速转换到-telegram-的么？](https://www.v2ex.com/t/858389) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-06-09-飞书无法在-IOS16-上正常使用-有打算最近修复吗](https://www.v2ex.com/t/858375) ![](assets/new.png)  
 - [2022-06-09-杭州前端求推](https://www.v2ex.com/t/858374) ![](assets/new.png)  
 - [2022-06-09-UU-加速器和-vm-建的虚拟网卡有什么区别](https://www.v2ex.com/t/858373) ![](assets/new.png)  
-- [2022-06-09-移动-WEB，搜索栏能在顶端固定嘛？](https://www.v2ex.com/t/858372) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -569,9 +569,9 @@
 - [2022-06-09-揭秘Mandiant被黑内幕](https://toutiao.io/k/rgag5y6) ![](assets/new.png)  
 - [2022-06-09-量化参数选择与量化误差分析](https://toutiao.io/k/v9hntzj) ![](assets/new.png)  
 - [2022-06-09-推荐-消息队列原理和选型：Kafka、RocketMQ-、RabbitMQ-和-ActiveMQ](https://toutiao.io/k/nuwnwro) ![](assets/new.png)  
-- [2022-06-09-推荐-不可错过的程序员续命科技](https://toutiao.io/k/wooq1pu) ![](assets/new.png)  
 - [2022-06-09-推荐-如何写出一篇好的技术方案？](https://toutiao.io/k/gl2cth8) ![](assets/new.png)  
 - [2022-06-09-推荐-性能提升40倍——线上真实重构案例分享](https://toutiao.io/k/izbqpxo) ![](assets/new.png)  
+- [2022-06-09-推荐-不可错过的程序员续命科技](https://toutiao.io/k/wooq1pu) ![](assets/new.png)  
 - [2022-06-09-推荐-阿里10年沉淀｜那些技术实战中的架构设计方法](https://toutiao.io/k/e9vlh55) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

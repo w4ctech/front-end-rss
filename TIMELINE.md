@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-06-09 04:54:29。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-06-09 05:14:12。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,7 @@
 </summary>
 
 
+- [【V2EX】2022-06-09-Win-平台上有什么适合语音识别记笔记的好用工具吗？](https://www.v2ex.com/t/858393) 
 - [【V2EX】2022-06-09-有人了解-EPAM-anywhere-这家公司么？](https://www.v2ex.com/t/858392) 
 - [【V2EX】2022-06-09-恢复-iCloud-备份极慢，有解决办法吗？](https://www.v2ex.com/t/858391) 
 - [【V2EX】2022-06-09-有什么办法是可以把微信表情包快速转换到-telegram-的么？](https://www.v2ex.com/t/858389) 
@@ -112,7 +113,6 @@
 - [【V2EX】2022-06-09-wordpress-有什么主题适合开发子主题？](https://www.v2ex.com/t/858346) 
 - [【V2EX】2022-06-09-摸鱼社区推荐哦，已经开发好了-Android-和-iOS](https://www.v2ex.com/t/858345) 
 - [【V2EX】2022-06-09-有没有-web3.0-交流-or-学习群，想找志同道合的群友一起进步](https://www.v2ex.com/t/858344) 
-- [【V2EX】2022-06-09-成都电信-每-7-天出现-LCP-terminated-by-peer](https://www.v2ex.com/t/858343) 
 - [【技术头条】2022-06-09-容器江湖的爱恨情仇-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15125&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fdocker-colima-podman-container%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-06-09-看看你有没有陷入“标签化”客户和-用户-的陷阱？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15124&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fbusiness-analyst-growth%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-06-09-验收标准到底是不是测试用例？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15123&url=https%3A%2F%2Finsights.thoughtworks.cn%2Facceptance-criteria-testcases%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -149,9 +149,9 @@
 - [【开发者头条】2022-06-09-揭秘Mandiant被黑内幕](https://toutiao.io/k/rgag5y6) 
 - [【开发者头条】2022-06-09-量化参数选择与量化误差分析](https://toutiao.io/k/v9hntzj) 
 - [【开发者头条】2022-06-09-推荐-消息队列原理和选型：Kafka、RocketMQ-、RabbitMQ-和-ActiveMQ](https://toutiao.io/k/nuwnwro) 
-- [【开发者头条】2022-06-09-推荐-不可错过的程序员续命科技](https://toutiao.io/k/wooq1pu) 
 - [【开发者头条】2022-06-09-推荐-如何写出一篇好的技术方案？](https://toutiao.io/k/gl2cth8) 
 - [【开发者头条】2022-06-09-推荐-性能提升40倍——线上真实重构案例分享](https://toutiao.io/k/izbqpxo) 
+- [【开发者头条】2022-06-09-推荐-不可错过的程序员续命科技](https://toutiao.io/k/wooq1pu) 
 - [【开发者头条】2022-06-09-推荐-阿里10年沉淀｜那些技术实战中的架构设计方法](https://toutiao.io/k/e9vlh55) 
 - [【开发者头条】2022-06-09-推荐-架构师成长路线图](https://toutiao.io/k/27b6p2e) 
 

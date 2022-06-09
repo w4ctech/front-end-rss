@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-06-09 14:38:28。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-06-09 15:13:49。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,7 +68,15 @@
 </summary>
 
 
-- [【V2EX】2022-06-09-@Livid-注销这个账号,谢谢](https://www.v2ex.com/t/858560) 
+- [【V2EX】2022-06-09-给用-k50-的-2-个建议，换膜和壳！](https://www.v2ex.com/t/858572) 
+- [【V2EX】2022-06-09-618-到了，想给父母选一款-3000-以内的电视](https://www.v2ex.com/t/858570) 
+- [【V2EX】2022-06-09-远程全职-月薪-30-35K-RMB,-招聘全栈网络软件工程师](https://www.v2ex.com/t/858569) 
+- [【V2EX】2022-06-09-红帽系的-Alma-Linux-9-正式版发布了](https://www.v2ex.com/t/858568) 
+- [【V2EX】2022-06-09-小米-max2-刷入-android-12-后无法连接-wifi](https://www.v2ex.com/t/858567) 
+- [【V2EX】2022-06-09-不论岗位技术与非技术，你身边有没有职场里面升级特别快的人？](https://www.v2ex.com/t/858566) 
+- [【V2EX】2022-06-09-有人办过深圳欢乐谷的这个活动吗?-必须去园内办理吗](https://www.v2ex.com/t/858564) 
+- [【V2EX】2022-06-09-接到一个小程序的私活，该怎么提报价](https://www.v2ex.com/t/858563) 
+- [【V2EX】2022-06-09-Chrome-访问-https://bitbucket.org/显示-NET::ERR_CERT_COMMON_NAME_INVALID](https://www.v2ex.com/t/858562) 
 - [【V2EX】2022-06-09-攀升-999-的-4K-显示器怎么这么便宜，能作为-MBP-的外接屏么](https://www.v2ex.com/t/858559) 
 - [【V2EX】2022-06-09-系统重启/关机，能看到具体什么原因吗？](https://www.v2ex.com/t/858557) 
 - [【V2EX】2022-06-09-同事抖腿，把桌子搞得一震一震的，显示器也跟着左右晃动怎么办，非常难受](https://www.v2ex.com/t/858556) 
@@ -100,15 +108,6 @@
 - [【V2EX】2022-06-09-macOS-Monterey-中“控制中心”持续占用-CPU，就我一个人是这样吗](https://www.v2ex.com/t/858525) 
 - [【V2EX】2022-06-09-有-Lua-大佬在么，问个低端问题。](https://www.v2ex.com/t/858524) 
 - [【V2EX】2022-06-09-请问怎么解密安卓/data/misc/keystore-目录中的-App-用户证书?](https://www.v2ex.com/t/858523) 
-- [【V2EX】2022-06-09-MacBook-pro-键盘很油，有没有清理的工具推荐的。](https://www.v2ex.com/t/858522) 
-- [【V2EX】2022-06-09-建了一个-github-仓库，快速判断一个城市是不是适合工作、生活](https://www.v2ex.com/t/858521) 
-- [【V2EX】2022-06-09-jb-的-Fleet-有什么亮点吗](https://www.v2ex.com/t/858520) 
-- [【V2EX】2022-06-09-pycharm-30%-活动](https://www.v2ex.com/t/858519) 
-- [【V2EX】2022-06-09-是否存在这样一种软件？](https://www.v2ex.com/t/858518) 
-- [【V2EX】2022-06-09-如何清洁-cpu-表面以及触点？](https://www.v2ex.com/t/858516) 
-- [【V2EX】2022-06-09-求一个深圳帮忙转运快递](https://www.v2ex.com/t/858515) 
-- [【V2EX】2022-06-09-现在去上海是一个好的选择吗](https://www.v2ex.com/t/858513) 
-- [【V2EX】2022-06-09-关于-Shapeshift-手机端](https://www.v2ex.com/t/858512) 
 - [【技术头条】2022-06-09-容器江湖的爱恨情仇-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15125&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fdocker-colima-podman-container%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-06-09-看看你有没有陷入“标签化”客户和-用户-的陷阱？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15124&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fbusiness-analyst-growth%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-06-09-验收标准到底是不是测试用例？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15123&url=https%3A%2F%2Finsights.thoughtworks.cn%2Facceptance-criteria-testcases%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -132,8 +131,8 @@
 - [【开发者头条】2022-06-09-总监的烦恼：技术丢了怎么办？](https://toutiao.io/k/rzytby1) 
 - [【开发者头条】2022-06-09-前端项目接入Sentry监控系统](https://toutiao.io/k/otma67z) 
 - [【开发者头条】2022-06-09-比T型人才更牛叉的是，做一个深入理解业务的-π-型工程师](https://toutiao.io/k/3gu1fi9) 
-- [【开发者头条】2022-06-09-详细设计应该包含哪些内容？](https://toutiao.io/k/xkv5xrk) 
 - [【开发者头条】2022-06-09-自动化测试的未来趋势](https://toutiao.io/k/2c0k35y) 
+- [【开发者头条】2022-06-09-详细设计应该包含哪些内容？](https://toutiao.io/k/xkv5xrk) 
 - [【开发者头条】2022-06-09-vivo大规模-Kubernetes-集群自动化运维实践](https://toutiao.io/k/451a7e7) 
 - [【开发者头条】2022-06-09-声网开发者创业讲堂丨第3期：创业初期如何保障产品质量？](https://toutiao.io/k/q19jkce) 
 - [【开发者头条】2022-06-09-全网独一份，图片下载还能玩出这种花活来？](https://toutiao.io/k/sp6wg7h) 
@@ -143,18 +142,18 @@
 - [【开发者头条】2022-06-09-程序员自我修炼：《匠艺整洁之道》读书总结](https://toutiao.io/k/dntlee8) 
 - [【开发者头条】2022-06-09-异地多活架构设计与实践](https://toutiao.io/k/46dgjrn) 
 - [【开发者头条】2022-06-09-揭秘Mandiant被黑内幕](https://toutiao.io/k/rgag5y6) 
-- [【开发者头条】2022-06-09-量化参数选择与量化误差分析](https://toutiao.io/k/v9hntzj) 
 - [【开发者头条】2022-06-09-C++性能真的不如C吗？](https://toutiao.io/k/r6xxa2f) 
-- [【开发者头条】2022-06-09-核心线程数为3的线程池提交2个任务就被拒绝？](https://toutiao.io/k/7jq047c) 
+- [【开发者头条】2022-06-09-量化参数选择与量化误差分析](https://toutiao.io/k/v9hntzj) 
 - [【开发者头条】2022-06-09-推荐一款超棒的抓包分析工具---Burp-Suite](https://toutiao.io/k/3qdo5vx) 
+- [【开发者头条】2022-06-09-核心线程数为3的线程池提交2个任务就被拒绝？](https://toutiao.io/k/7jq047c) 
 - [【开发者头条】2022-06-09-geojson和wkt互转java版本](https://toutiao.io/k/iq9tuts) 
 - [【开发者头条】2022-06-09-浅浅浅识k8s中的"api聚合"](https://toutiao.io/k/uvksrjz) 
-- [【开发者头条】2022-06-09-推荐-阿里10年沉淀｜那些技术实战中的架构设计方法](https://toutiao.io/k/e9vlh55) 
 - [【开发者头条】2022-06-09-推荐-架构师成长路线图](https://toutiao.io/k/27b6p2e) 
 - [【开发者头条】2022-06-09-推荐-如何写出一篇好的技术方案？](https://toutiao.io/k/gl2cth8) 
-- [【开发者头条】2022-06-09-推荐-消息队列原理和选型：Kafka、RocketMQ-、RabbitMQ-和-ActiveMQ](https://toutiao.io/k/nuwnwro) 
-- [【开发者头条】2022-06-09-推荐-不可错过的程序员续命科技](https://toutiao.io/k/wooq1pu) 
 - [【开发者头条】2022-06-09-推荐-性能提升40倍——线上真实重构案例分享](https://toutiao.io/k/izbqpxo) 
+- [【开发者头条】2022-06-09-推荐-阿里10年沉淀｜那些技术实战中的架构设计方法](https://toutiao.io/k/e9vlh55) 
+- [【开发者头条】2022-06-09-推荐-不可错过的程序员续命科技](https://toutiao.io/k/wooq1pu) 
+- [【开发者头条】2022-06-09-推荐-消息队列原理和选型：Kafka、RocketMQ-、RabbitMQ-和-ActiveMQ](https://toutiao.io/k/nuwnwro) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

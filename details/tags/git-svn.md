@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-06-08 23:39:34。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-06-09 01:01:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Git、SVN
 
@@ -7,4 +7,5 @@
 
 
 
+- [2022-06-09-Github-copilot-无法连接（pycharm-版本）](https://www.v2ex.com/t/858313) 
 - [2022-06-08-GitHub-宣布会放弃-Atom-项目](https://www.v2ex.com/t/858301) 

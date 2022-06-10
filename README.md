@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-06-10 23:03:37，:rocket: 更新条数: +2032， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-06-10 23:14:19，:rocket: 更新条数: +2032， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-06-10-外包-offer（华为-od）求建议](https://www.v2ex.com/t/858838) ![](assets/new.png)  
 - [2022-06-10-新项目再轮-asyncio-实现：-kLoop](https://www.v2ex.com/t/858837) ![](assets/new.png)  
 - [2022-06-10-有没有什么手势插件，能拖拽文本+直接调用-google-translate？](https://www.v2ex.com/t/858836) ![](assets/new.png)  
 - [2022-06-10-https://developpaper.com/-这个站是什么来头？](https://www.v2ex.com/t/858835) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-06-10-求推荐：云端可返回-SHA/MD5-地网盘/S3-服务](https://www.v2ex.com/t/858818) ![](assets/new.png)  
 - [2022-06-10-5000-以下笔记本电脑求推荐](https://www.v2ex.com/t/858817) ![](assets/new.png)  
 - [2022-06-10-现在流行的技术栈是啥呢？](https://www.v2ex.com/t/858816) ![](assets/new.png)  
-- [2022-06-10-强需求爆发性市场起步如何做产品](https://www.v2ex.com/t/858815) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

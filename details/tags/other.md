@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-06-10 23:03:37。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-06-10 23:14:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1912,6 +1912,7 @@
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2022-03-21-ascent-override-descent-override-line-gap-override一锅端](https://www.zhangxinxu.com/wordpress/2022/03/css-ascent-override-descent/) 
+- [2022-06-10-外包-offer（华为-od）求建议](https://www.v2ex.com/t/858838) 
 - [2022-06-10-有没有什么手势插件，能拖拽文本+直接调用-google-translate？](https://www.v2ex.com/t/858836) 
 - [2022-06-10-🚗-硅谷宝藏-FinTech-公司新职位开放-🌟-100%远程+期权+各种福利补贴](https://www.v2ex.com/t/858834) 
 - [2022-06-10-公众号开发，接收表情-消息提示-收到不支持的消息类型，暂无法显示](https://www.v2ex.com/t/858833) 
@@ -1974,7 +1975,7 @@
 - [2022-06-10-Go：从一个data-race问题学到的](https://toutiao.io/k/nu9kaxi) 
 - [2022-06-10-点阵打字机](https://toutiao.io/k/ghnfbmb) 
 - [2022-06-10-NVIDIA-DPU+-RH-OpenShift?](https://toutiao.io/k/cgat4if) 
+- [2022-06-10-推荐-架构师成长路线图](https://toutiao.io/k/27b6p2e) 
 - [2022-06-10-推荐-如何写出一篇好的技术方案？](https://toutiao.io/k/gl2cth8) 
 - [2022-06-10-推荐-阿里10年沉淀｜那些技术实战中的架构设计方法](https://toutiao.io/k/e9vlh55) 
-- [2022-06-10-推荐-架构师成长路线图](https://toutiao.io/k/27b6p2e) 
 - [2022-06-10-推荐-消息队列原理和选型：Kafka、RocketMQ-、RabbitMQ-和-ActiveMQ](https://toutiao.io/k/nuwnwro) 

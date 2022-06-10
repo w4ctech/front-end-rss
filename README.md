@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-06-10 01:04:02，:rocket: 更新条数: +2023， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-06-10 03:12:14，:rocket: 更新条数: +2018， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,26 +491,26 @@
 </summary>
 
 
-- [2022-06-10-求推荐当天预报较准的天气软件，-ios-自带的天气预报不好用](https://www.v2ex.com/t/858601) ![](assets/new.png)  
-- [2022-06-10-关于-MacBook-Pro-17-120g-硬盘扩容的问题。](https://www.v2ex.com/t/858599) ![](assets/new.png)  
-- [2022-06-10-618-有什么划算适合天天喝不心疼的茶包推荐吗,现在这些网红茶包一个比一个贵的离谱还不好喝](https://www.v2ex.com/t/858598) ![](assets/new.png)  
-- [2022-06-10-iOS-16-保资料降级-15.5，之前没备份也不用担心](https://www.v2ex.com/t/858597) ![](assets/new.png)  
-- [2022-06-10-M2-Air-的-8-核和-10-核-GPU-款性能差别会很大吗？](https://www.v2ex.com/t/858596) ![](assets/new.png)  
-- [2022-06-10-GitHub-开始测试成就系统（beta）](https://www.v2ex.com/t/858595) ![](assets/new.png)  
-- [2022-06-10-关联了腾讯云代理商，申请解绑，得代理商同意，代理商直接不同意-咋办？代理商卖的还没有官网活动卖的便宜](https://www.v2ex.com/t/858594) ![](assets/new.png)  
-- [2022-06-10-我与-Apache-软件基金会的故事](https://www.v2ex.com/t/858593) ![](assets/new.png)  
-- [2022-06-10-可以把商家的收款账号转化为二维码吗？](https://www.v2ex.com/t/858592) ![](assets/new.png)  
-- [2022-06-10-有升级-watchOS-9-的吗？手机需要同步更新到-16-吗？](https://www.v2ex.com/t/858591) ![](assets/new.png)  
-- [2022-06-09-网心云能玩吗](https://www.v2ex.com/t/858590) ![](assets/new.png)  
-- [2022-06-09-怎么解除联通卡限速呢](https://www.v2ex.com/t/858589) ![](assets/new.png)  
-- [2022-06-09-请推荐个人用的-IPLC](https://www.v2ex.com/t/858588) ![](assets/new.png)  
-- [2022-06-09-兄弟们-618-想给弟弟选一款电脑求推荐](https://www.v2ex.com/t/858587) ![](assets/new.png)  
-- [2022-06-09-欧版-Anker-Nano-II-不支持宽电压](https://www.v2ex.com/t/858586) ![](assets/new.png)  
-- [2022-06-09-Pulse-Secure-服务端可以个人搭建吗](https://www.v2ex.com/t/858585) ![](assets/new.png)  
-- [2022-06-09-Notion-iOS-版本不支持粘贴？](https://www.v2ex.com/t/858584) ![](assets/new.png)  
-- [2022-06-09-FastAPI-请求提示-503，应该如何-debug？](https://www.v2ex.com/t/858583) ![](assets/new.png)  
-- [2022-06-09-4-盘位硬件-Raid-阵列，如何性能最大化？](https://www.v2ex.com/t/858582) ![](assets/new.png)  
-- [2022-06-09-Android-随想：学技术要学本质](https://www.v2ex.com/t/858580) ![](assets/new.png)  
+- [2022-06-10-关于最近购新车联网系统拆除想法](https://www.v2ex.com/t/858649) ![](assets/new.png)  
+- [2022-06-10-决赛圈了，预算-16W-左右落地，该选哪款](https://www.v2ex.com/t/858647) ![](assets/new.png)  
+- [2022-06-10-MIUI-72-小时强制输入密码，而且不能关闭](https://www.v2ex.com/t/858643) ![](assets/new.png)  
+- [2022-06-10-有了之前的-Shell-入门和进阶，我们可以进入-HPC-大门了](https://www.v2ex.com/t/858642) ![](assets/new.png)  
+- [2022-06-10-还在为定时任务选型发愁吗，阿里云-serverless-job-免费公测啦-同时支持-0-改造迁移-欢迎使用](https://www.v2ex.com/t/858641) ![](assets/new.png)  
+- [2022-06-10-有办法直接从-mac-同步文件rsync-之类的到-wsl2-中么?](https://www.v2ex.com/t/858640) ![](assets/new.png)  
+- [2022-06-10-Free-Apple-Music-for-up-to-6-months-new-or-returning-subscribers-only](https://www.v2ex.com/t/858638) ![](assets/new.png)  
+- [2022-06-10-长沙互联网招聘内推群](https://www.v2ex.com/t/858637) ![](assets/new.png)  
+- [2022-06-10-Google-华氏度摄氏度转换的-Bug](https://www.v2ex.com/t/858636) ![](assets/new.png)  
+- [2022-06-10-在-Java-代码里怎么保留字符串的原格式。](https://www.v2ex.com/t/858635) ![](assets/new.png)  
+- [2022-06-10-像我这种低层开发,最后找不到工作都去哪了](https://www.v2ex.com/t/858634) ![](assets/new.png)  
+- [2022-06-10-深圳10k-14k-PHP-工程师工作轻松，按时下班不加班](https://www.v2ex.com/t/858633) ![](assets/new.png)  
+- [2022-06-10-请教下-vscode-remote-containers-在远程服务器上的使用](https://www.v2ex.com/t/858632) ![](assets/new.png)  
+- [2022-06-10-上海-不加班-外企-招-初中级-Java-、高级-C++、-Python-、中高级安卓、中高级性能测试](https://www.v2ex.com/t/858631) ![](assets/new.png)  
+- [2022-06-10-大家分享一下在用的壁纸吧，手机、电脑都可以，最近图荒](https://www.v2ex.com/t/858630) ![](assets/new.png)  
+- [2022-06-10-有没有遇到腾讯云账号无法领取优惠券的-tx?-能投诉到哪？](https://www.v2ex.com/t/858628) ![](assets/new.png)  
+- [2022-06-10-关于项目奖金的问题。](https://www.v2ex.com/t/858626) ![](assets/new.png)  
+- [2022-06-10-各位最近有遇到-QQ-音乐听歌，看微博打开视频再切出去音乐就断了的吗？](https://www.v2ex.com/t/858625) ![](assets/new.png)  
+- [2022-06-10-2022-年有哪些能替代-JIRA-的项目管理工具](https://www.v2ex.com/t/858624) ![](assets/new.png)  
+- [2022-06-10-直播预告：远程工作过程中都会遇到哪些实际的问题？](https://www.v2ex.com/t/858623) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -522,6 +522,7 @@
 </summary>
 
 
+- [2022-06-10-机器学习不是你想用，想用就能用-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15126&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fwhen-to-use-machine-learning%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-06-10-容器江湖的爱恨情仇-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15125&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fdocker-colima-podman-container%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-06-10-看看你有没有陷入“标签化”客户和-用户-的陷阱？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15124&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fbusiness-analyst-growth%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-06-10-验收标准到底是不是测试用例？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15123&url=https%3A%2F%2Finsights.thoughtworks.cn%2Facceptance-criteria-testcases%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
@@ -541,7 +542,6 @@
 - [2022-06-10-在-Apache-Cassandra-中定义和优化数据分区-linux.cn](https://blogread.cn/news/go.php?idItem=15109&url=https%3A%2F%2Flinux.cn%2Farticle-13908-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-06-10-服饰3D柔性渲染调研及实践-fed.taobao.org](https://blogread.cn/news/go.php?idItem=15108&url=https%3A%2F%2Ffed.taobao.org%2Fblog%2Ftaofed%2Fdo71ct%2Ffufsgh%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-06-10-业务系统的稳定性建设-fed.taobao.org](https://blogread.cn/news/go.php?idItem=15107&url=https%3A%2F%2Ffed.taobao.org%2Fblog%2Ftaofed%2Fdo71ct%2Ffc3cy0%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-06-10-改hosts不生效？教你清理Chrome的DNS缓存-hessian.cn](https://blogread.cn/news/go.php?idItem=15106&url=https%3A%2F%2Fhessian.cn%2Fp%2F1645.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -555,17 +555,20 @@
 
 - [2022-06-10-MongoDB全方位知识图谱！](https://toutiao.io/k/efxw4nr) ![](assets/new.png)  
 - [2022-06-10-吐血推荐17个提升开发效率的“轮子”](https://toutiao.io/k/10u7n9b) ![](assets/new.png)  
-- [2022-06-10-从C++转向Rust：两大主题值得关注！](https://toutiao.io/k/9au1pw0) ![](assets/new.png)  
 - [2022-06-10-去哪儿网基于-DDD-思想的技术架构战略调整](https://toutiao.io/k/sxd2kss) ![](assets/new.png)  
-- [2022-06-10-Flink-CDC-在大健云仓的实践](https://toutiao.io/k/3024aa2) ![](assets/new.png)  
+- [2022-06-10-从C++转向Rust：两大主题值得关注！](https://toutiao.io/k/9au1pw0) ![](assets/new.png)  
 - [2022-06-10-吴恩达：机器学习的六个核心算法](https://toutiao.io/k/7s61wih) ![](assets/new.png)  
+- [2022-06-10-Flink-CDC-在大健云仓的实践](https://toutiao.io/k/3024aa2) ![](assets/new.png)  
 - [2022-06-10-如何和业务方建立良好的合作关系](https://toutiao.io/k/c91llju) ![](assets/new.png)  
 - [2022-06-10-冷知识！使用-display:-contents-实现幽灵节点？](https://toutiao.io/k/cl11wbg) ![](assets/new.png)  
+- [2022-06-10-【面试造火箭，工作拧螺丝】自救指南！](https://toutiao.io/k/phfyi0u) ![](assets/new.png)  
+- [2022-06-10-美团获得小样本学习榜单FewCLUE第一！Prompt-Learning+自训练实战](https://toutiao.io/k/bqoc8pt) ![](assets/new.png)  
+- [2022-06-10-什么样的测试用例可以被称为好的测试用例？](https://toutiao.io/k/tqk29r1) ![](assets/new.png)  
+- [2022-06-10-推荐-阿里10年沉淀｜那些技术实战中的架构设计方法](https://toutiao.io/k/e9vlh55) ![](assets/new.png)  
+- [2022-06-10-推荐-如何写出一篇好的技术方案？](https://toutiao.io/k/gl2cth8) ![](assets/new.png)  
+- [2022-06-10-推荐-性能提升40倍——线上真实重构案例分享](https://toutiao.io/k/izbqpxo) ![](assets/new.png)  
 - [2022-06-10-推荐-不可错过的程序员续命科技](https://toutiao.io/k/wooq1pu) ![](assets/new.png)  
 - [2022-06-10-推荐-架构师成长路线图](https://toutiao.io/k/27b6p2e) ![](assets/new.png)  
-- [2022-06-10-推荐-阿里10年沉淀｜那些技术实战中的架构设计方法](https://toutiao.io/k/e9vlh55) ![](assets/new.png)  
-- [2022-06-10-推荐-性能提升40倍——线上真实重构案例分享](https://toutiao.io/k/izbqpxo) ![](assets/new.png)  
-- [2022-06-10-推荐-如何写出一篇好的技术方案？](https://toutiao.io/k/gl2cth8) ![](assets/new.png)  
 - [2022-06-10-推荐-消息队列原理和选型：Kafka、RocketMQ-、RabbitMQ-和-ActiveMQ](https://toutiao.io/k/nuwnwro) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

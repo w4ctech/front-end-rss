@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2022-06-10 17:42:32。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-06-10 18:17:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-06-10-ocr-时，怎么才能让终端不输出-libpng-warning:-iCCP:-profile-'ICC-Profile':-'RGB-':-RGB-color-space-not-permitted-on-grayscale-PNG](https://www.v2ex.com/t/858831) 
 - [2022-06-10-2022-年了，有什么-4K、便宜的显示器推荐吗？](https://www.v2ex.com/t/858830) 
 - [2022-06-10-有人在-Bing-Ads-工作过吗？感觉怎么样？](https://www.v2ex.com/t/858829) 
 - [2022-06-10-想问下用过-Nexus5x-的有多少人🤣🤣🤣🤣🤣](https://www.v2ex.com/t/858828) 
@@ -45,4 +46,3 @@
 - [2022-06-10-请问现在-Pd17-可以玩暗黑-2-重制版吗](https://www.v2ex.com/t/858784) 
 - [2022-06-10-滴滴打车-6-月大额限量券,速度~](https://www.v2ex.com/t/858783) 
 - [2022-06-10-值得升级吗？-5G-为个人消费者带来了什么变化。](https://www.v2ex.com/t/858782) 
-- [2022-06-10-这两年有-iPad-mini-大小的-Android-平板吗？](https://www.v2ex.com/t/858781) 

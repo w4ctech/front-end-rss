@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-06-10 17:42:32。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-06-10 18:17:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1948,7 +1948,6 @@
 - [2022-06-10-请问现在-Pd17-可以玩暗黑-2-重制版吗](https://www.v2ex.com/t/858784) 
 - [2022-06-10-滴滴打车-6-月大额限量券,速度~](https://www.v2ex.com/t/858783) 
 - [2022-06-10-值得升级吗？-5G-为个人消费者带来了什么变化。](https://www.v2ex.com/t/858782) 
-- [2022-06-10-这两年有-iPad-mini-大小的-Android-平板吗？](https://www.v2ex.com/t/858781) 
 - [2022-06-10-机器学习不是你想用，想用就能用-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15126&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fwhen-to-use-machine-learning%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-06-10-容器江湖的爱恨情仇-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15125&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fdocker-colima-podman-container%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-06-10-看看你有没有陷入“标签化”客户和-用户-的陷阱？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15124&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fbusiness-analyst-growth%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1970,14 +1969,14 @@
 - [2022-06-10-如何和业务方建立良好的合作关系](https://toutiao.io/k/c91llju) 
 - [2022-06-10-Flink-CDC-在大健云仓的实践](https://toutiao.io/k/3024aa2) 
 - [2022-06-10-想做钢铁侠？听说很多大佬都是用它入门的](https://toutiao.io/k/4ms2w4p) 
-- [2022-06-10-什么样的测试用例可以被称为好的测试用例？](https://toutiao.io/k/tqk29r1) 
 - [2022-06-10-美团获得小样本学习榜单FewCLUE第一！Prompt-Learning+自训练实战](https://toutiao.io/k/bqoc8pt) 
+- [2022-06-10-什么样的测试用例可以被称为好的测试用例？](https://toutiao.io/k/tqk29r1) 
 - [2022-06-10-如果有一天不做前端了，我会做什么？](https://toutiao.io/k/1354ixu) 
 - [2022-06-10-vivo大规模-Kubernetes-集群自动化运维实践](https://toutiao.io/k/r9f9bks) 
 - [2022-06-10-Go：从一个data-race问题学到的](https://toutiao.io/k/nu9kaxi) 
 - [2022-06-10-点阵打字机](https://toutiao.io/k/ghnfbmb) 
 - [2022-06-10-NVIDIA-DPU+-RH-OpenShift?](https://toutiao.io/k/cgat4if) 
-- [2022-06-10-推荐-消息队列原理和选型：Kafka、RocketMQ-、RabbitMQ-和-ActiveMQ](https://toutiao.io/k/nuwnwro) 
-- [2022-06-10-推荐-如何写出一篇好的技术方案？](https://toutiao.io/k/gl2cth8) 
 - [2022-06-10-推荐-架构师成长路线图](https://toutiao.io/k/27b6p2e) 
 - [2022-06-10-推荐-阿里10年沉淀｜那些技术实战中的架构设计方法](https://toutiao.io/k/e9vlh55) 
+- [2022-06-10-推荐-消息队列原理和选型：Kafka、RocketMQ-、RabbitMQ-和-ActiveMQ](https://toutiao.io/k/nuwnwro) 
+- [2022-06-10-推荐-如何写出一篇好的技术方案？](https://toutiao.io/k/gl2cth8) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-06-10 17:42:32，:rocket: 更新条数: +2032， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-06-10 18:17:19，:rocket: 更新条数: +2032， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-06-10-ocr-时，怎么才能让终端不输出-libpng-warning:-iCCP:-profile-'ICC-Profile':-'RGB-':-RGB-color-space-not-permitted-on-grayscale-PNG](https://www.v2ex.com/t/858831) ![](assets/new.png)  
 - [2022-06-10-2022-年了，有什么-4K、便宜的显示器推荐吗？](https://www.v2ex.com/t/858830) ![](assets/new.png)  
 - [2022-06-10-有人在-Bing-Ads-工作过吗？感觉怎么样？](https://www.v2ex.com/t/858829) ![](assets/new.png)  
 - [2022-06-10-想问下用过-Nexus5x-的有多少人🤣🤣🤣🤣🤣](https://www.v2ex.com/t/858828) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-06-10-请教一下-mysql-longtext-字段优化](https://www.v2ex.com/t/858811) ![](assets/new.png)  
 - [2022-06-10-周岁不到-29-也觉得活着太难了，各位一定注意身体](https://www.v2ex.com/t/858810) ![](assets/new.png)  
 - [2022-06-10-准备转行了，疫情待业几个月](https://www.v2ex.com/t/858808) ![](assets/new.png)  
-- [2022-06-10-Apple-one-马区超大杯](https://www.v2ex.com/t/858807) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -563,8 +563,8 @@
 - [2022-06-10-想做钢铁侠？听说很多大佬都是用它入门的](https://toutiao.io/k/4ms2w4p) ![](assets/new.png)  
 - [2022-06-10-冷知识！使用-display:-contents-实现幽灵节点？](https://toutiao.io/k/cl11wbg) ![](assets/new.png)  
 - [2022-06-10-【面试造火箭，工作拧螺丝】自救指南！](https://toutiao.io/k/phfyi0u) ![](assets/new.png)  
-- [2022-06-10-什么样的测试用例可以被称为好的测试用例？](https://toutiao.io/k/tqk29r1) ![](assets/new.png)  
 - [2022-06-10-美团获得小样本学习榜单FewCLUE第一！Prompt-Learning+自训练实战](https://toutiao.io/k/bqoc8pt) ![](assets/new.png)  
+- [2022-06-10-什么样的测试用例可以被称为好的测试用例？](https://toutiao.io/k/tqk29r1) ![](assets/new.png)  
 - [2022-06-10-如果有一天不做前端了，我会做什么？](https://toutiao.io/k/1354ixu) ![](assets/new.png)  
 - [2022-06-10-独立开发变现周刊（第58期）：预售CSS课程，卖出55万美元](https://toutiao.io/k/52ajc9l) ![](assets/new.png)  
 - [2022-06-10-vivo大规模-Kubernetes-集群自动化运维实践](https://toutiao.io/k/r9f9bks) ![](assets/new.png)  

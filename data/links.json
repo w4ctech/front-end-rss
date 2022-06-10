@@ -9953,6 +9953,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "ocr 时，怎么才能让终端不输出 libpng warning: iCCP: profile 'ICC Profile': 'RGB ': RGB color space not permitted on grayscale PNG",
+        "link": "https://www.v2ex.com/t/858831",
+        "date": "2022-06-10"
+      },
+      {
         "title": "2022 年了，有什么 4K、便宜的显示器推荐吗？",
         "link": "https://www.v2ex.com/t/858830",
         "date": "2022-06-10"
@@ -10151,11 +10156,6 @@
         "title": "值得升级吗？ 5G 为个人消费者带来了什么变化。",
         "link": "https://www.v2ex.com/t/858782",
         "date": "2022-06-10"
-      },
-      {
-        "title": "这两年有 iPad mini 大小的 Android 平板吗？",
-        "link": "https://www.v2ex.com/t/858781",
-        "date": "2022-06-10"
       }
     ]
   },
@@ -10322,13 +10322,13 @@
         "date": "2022-06-10"
       },
       {
-        "title": "什么样的测试用例可以被称为好的测试用例？",
-        "link": "https://toutiao.io/k/tqk29r1",
+        "title": "美团获得小样本学习榜单FewCLUE第一！Prompt Learning+自训练实战",
+        "link": "https://toutiao.io/k/bqoc8pt",
         "date": "2022-06-10"
       },
       {
-        "title": "美团获得小样本学习榜单FewCLUE第一！Prompt Learning+自训练实战",
-        "link": "https://toutiao.io/k/bqoc8pt",
+        "title": "什么样的测试用例可以被称为好的测试用例？",
+        "link": "https://toutiao.io/k/tqk29r1",
         "date": "2022-06-10"
       },
       {
@@ -10372,13 +10372,8 @@
         "date": "2022-06-10"
       },
       {
-        "title": "[推荐] 消息队列原理和选型：Kafka、RocketMQ 、RabbitMQ 和 ActiveMQ",
-        "link": "https://toutiao.io/k/nuwnwro",
-        "date": "2022-06-10"
-      },
-      {
-        "title": "[推荐] 如何写出一篇好的技术方案？",
-        "link": "https://toutiao.io/k/gl2cth8",
+        "title": "[推荐] 性能提升40倍——线上真实重构案例分享",
+        "link": "https://toutiao.io/k/izbqpxo",
         "date": "2022-06-10"
       },
       {
@@ -10387,13 +10382,18 @@
         "date": "2022-06-10"
       },
       {
-        "title": "[推荐] 性能提升40倍——线上真实重构案例分享",
-        "link": "https://toutiao.io/k/izbqpxo",
+        "title": "[推荐] 阿里10年沉淀｜那些技术实战中的架构设计方法",
+        "link": "https://toutiao.io/k/e9vlh55",
         "date": "2022-06-10"
       },
       {
-        "title": "[推荐] 阿里10年沉淀｜那些技术实战中的架构设计方法",
-        "link": "https://toutiao.io/k/e9vlh55",
+        "title": "[推荐] 消息队列原理和选型：Kafka、RocketMQ 、RabbitMQ 和 ActiveMQ",
+        "link": "https://toutiao.io/k/nuwnwro",
+        "date": "2022-06-10"
+      },
+      {
+        "title": "[推荐] 如何写出一篇好的技术方案？",
+        "link": "https://toutiao.io/k/gl2cth8",
         "date": "2022-06-10"
       }
     ]

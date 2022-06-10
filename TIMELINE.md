@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-06-10 05:12:26。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-06-10 05:38:18。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,11 @@
 </summary>
 
 
+- [【V2EX】2022-06-10-用了-2-年半华为，今年换回-K50-了，说说感受](https://www.v2ex.com/t/858691) 
+- [【V2EX】2022-06-10-请问大马的-apple-id-绑什么卡？](https://www.v2ex.com/t/858690) 
+- [【V2EX】2022-06-10-打算抽个奖，奖品适合程序员。价格-50-左右，程序员们进来说下你们想要什么](https://www.v2ex.com/t/858689) 
+- [【V2EX】2022-06-10-M1-Max-的-Macbook-pro-搞-chromium-编译怎么样](https://www.v2ex.com/t/858687) 
+- [【V2EX】2022-06-10-37-岁了感觉活着太难了](https://www.v2ex.com/t/858686) 
 - [【V2EX】2022-06-10-大家有碰到-Chromium-系浏览器播放-1080P60-规格视频卡顿的问题吗？](https://www.v2ex.com/t/858683) 
 - [【V2EX】2022-06-10-WWDC.playground-第四日活动：-WWDC22:-新意与展望](https://www.v2ex.com/t/858682) 
 - [【V2EX】2022-06-10-如何关闭-openwrt-路由器特定-lan-口的-ipv6](https://www.v2ex.com/t/858681) 
@@ -101,13 +106,6 @@
 - [【V2EX】2022-06-10-决赛圈了，预算-16W-左右落地，该选哪款](https://www.v2ex.com/t/858647) 
 - [【V2EX】2022-06-10-MIUI-72-小时强制输入密码，而且不能关闭](https://www.v2ex.com/t/858643) 
 - [【V2EX】2022-06-10-有了之前的-Shell-入门和进阶，我们可以进入-HPC-大门了](https://www.v2ex.com/t/858642) 
-- [【V2EX】2022-06-10-还在为定时任务选型发愁吗，阿里云-serverless-job-免费公测啦-同时支持-0-改造迁移-欢迎使用](https://www.v2ex.com/t/858641) 
-- [【V2EX】2022-06-10-有办法直接从-mac-同步文件rsync-之类的到-wsl2-中么?](https://www.v2ex.com/t/858640) 
-- [【V2EX】2022-06-10-Free-Apple-Music-for-up-to-6-months-new-or-returning-subscribers-only](https://www.v2ex.com/t/858638) 
-- [【V2EX】2022-06-10-长沙互联网招聘内推群](https://www.v2ex.com/t/858637) 
-- [【V2EX】2022-06-10-Google-华氏度摄氏度转换的-Bug](https://www.v2ex.com/t/858636) 
-- [【V2EX】2022-06-10-在-Java-代码里怎么保留字符串的原格式。](https://www.v2ex.com/t/858635) 
-- [【V2EX】2022-06-10-像我这种低层开发,最后找不到工作都去哪了](https://www.v2ex.com/t/858634) 
 - [【技术头条】2022-06-10-机器学习不是你想用，想用就能用-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15126&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fwhen-to-use-machine-learning%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-06-10-容器江湖的爱恨情仇-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15125&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fdocker-colima-podman-container%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-06-10-看看你有没有陷入“标签化”客户和-用户-的陷阱？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15124&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fbusiness-analyst-growth%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -139,10 +137,10 @@
 - [【开发者头条】2022-06-10-【面试造火箭，工作拧螺丝】自救指南！](https://toutiao.io/k/phfyi0u) 
 - [【开发者头条】2022-06-10-美团获得小样本学习榜单FewCLUE第一！Prompt-Learning+自训练实战](https://toutiao.io/k/bqoc8pt) 
 - [【开发者头条】2022-06-10-什么样的测试用例可以被称为好的测试用例？](https://toutiao.io/k/tqk29r1) 
-- [【开发者头条】2022-06-10-推荐-性能提升40倍——线上真实重构案例分享](https://toutiao.io/k/izbqpxo) 
 - [【开发者头条】2022-06-10-推荐-不可错过的程序员续命科技](https://toutiao.io/k/wooq1pu) 
 - [【开发者头条】2022-06-10-推荐-阿里10年沉淀｜那些技术实战中的架构设计方法](https://toutiao.io/k/e9vlh55) 
 - [【开发者头条】2022-06-10-推荐-架构师成长路线图](https://toutiao.io/k/27b6p2e) 
+- [【开发者头条】2022-06-10-推荐-性能提升40倍——线上真实重构案例分享](https://toutiao.io/k/izbqpxo) 
 - [【开发者头条】2022-06-10-推荐-消息队列原理和选型：Kafka、RocketMQ-、RabbitMQ-和-ActiveMQ](https://toutiao.io/k/nuwnwro) 
 - [【开发者头条】2022-06-10-推荐-如何写出一篇好的技术方案？](https://toutiao.io/k/gl2cth8) 
 

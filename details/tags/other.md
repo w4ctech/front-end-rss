@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-06-10 05:12:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-06-10 05:38:18。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1912,6 +1912,10 @@
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2022-03-21-ascent-override-descent-override-line-gap-override一锅端](https://www.zhangxinxu.com/wordpress/2022/03/css-ascent-override-descent/) 
+- [2022-06-10-用了-2-年半华为，今年换回-K50-了，说说感受](https://www.v2ex.com/t/858691) 
+- [2022-06-10-请问大马的-apple-id-绑什么卡？](https://www.v2ex.com/t/858690) 
+- [2022-06-10-打算抽个奖，奖品适合程序员。价格-50-左右，程序员们进来说下你们想要什么](https://www.v2ex.com/t/858689) 
+- [2022-06-10-37-岁了感觉活着太难了](https://www.v2ex.com/t/858686) 
 - [2022-06-10-WWDC.playground-第四日活动：-WWDC22:-新意与展望](https://www.v2ex.com/t/858682) 
 - [2022-06-10-things-中的待办事项如何自动同步到-Apple-原生日历或提醒事项中](https://www.v2ex.com/t/858680) 
 - [2022-06-10-怎么举报诈骗链接，医‌保账‌户已失效让绑卡](https://www.v2ex.com/t/858679) 
@@ -1939,11 +1943,6 @@
 - [2022-06-10-决赛圈了，预算-16W-左右落地，该选哪款](https://www.v2ex.com/t/858647) 
 - [2022-06-10-MIUI-72-小时强制输入密码，而且不能关闭](https://www.v2ex.com/t/858643) 
 - [2022-06-10-有了之前的-Shell-入门和进阶，我们可以进入-HPC-大门了](https://www.v2ex.com/t/858642) 
-- [2022-06-10-有办法直接从-mac-同步文件rsync-之类的到-wsl2-中么?](https://www.v2ex.com/t/858640) 
-- [2022-06-10-Free-Apple-Music-for-up-to-6-months-new-or-returning-subscribers-only](https://www.v2ex.com/t/858638) 
-- [2022-06-10-Google-华氏度摄氏度转换的-Bug](https://www.v2ex.com/t/858636) 
-- [2022-06-10-在-Java-代码里怎么保留字符串的原格式。](https://www.v2ex.com/t/858635) 
-- [2022-06-10-像我这种低层开发,最后找不到工作都去哪了](https://www.v2ex.com/t/858634) 
 - [2022-06-10-机器学习不是你想用，想用就能用-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15126&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fwhen-to-use-machine-learning%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-06-10-容器江湖的爱恨情仇-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15125&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fdocker-colima-podman-container%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-06-10-看看你有没有陷入“标签化”客户和-用户-的陷阱？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15124&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fbusiness-analyst-growth%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

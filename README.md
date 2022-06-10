@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-06-10 10:15:04，:rocket: 更新条数: +2031， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-06-10 10:42:52，:rocket: 更新条数: +2030， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,9 @@
 </summary>
 
 
+- [2022-06-10-这两年有-iPad-mini-大小的-Android-平板吗？](https://www.v2ex.com/t/858781) ![](assets/new.png)  
+- [2022-06-10-上午办完离职，下午公司通知集体降薪](https://www.v2ex.com/t/858779) ![](assets/new.png)  
+- [2022-06-10-MIUI-没有暂时断开-wifi-的功能吗](https://www.v2ex.com/t/858778) ![](assets/new.png)  
 - [2022-06-10-国内有啥不玻璃心的-DCS-World-社区？](https://www.v2ex.com/t/858777) ![](assets/new.png)  
 - [2022-06-10-求教：猫猫疫苗怎么打](https://www.v2ex.com/t/858776) ![](assets/new.png)  
 - [2022-06-10-浦东情况如何，下周准备过去找房子](https://www.v2ex.com/t/858775) ![](assets/new.png)  
@@ -508,9 +511,6 @@
 - [2022-06-10-提个无聊的问题：你们的鼠标指针都是什么颜色的？](https://www.v2ex.com/t/858760) ![](assets/new.png)  
 - [2022-06-10-回收纪念币的商家回收之后怎么处理](https://www.v2ex.com/t/858759) ![](assets/new.png)  
 - [2022-06-10-web-端打印小票，面单现在主流的技术是什么？](https://www.v2ex.com/t/858757) ![](assets/new.png)  
-- [2022-06-10-618-要来了，想装一台电脑使用-AE-做一些动效，大佬有推荐吗？](https://www.v2ex.com/t/858754) ![](assets/new.png)  
-- [2022-06-10-Copilot-登录不了？](https://www.v2ex.com/t/858753) ![](assets/new.png)  
-- [2022-06-10-i7-4790k-平台突然内存不能同时插-2-根了，是什么故障](https://www.v2ex.com/t/858752) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -569,8 +569,8 @@
 - [2022-06-10-独立开发变现周刊（第58期）：预售CSS课程，卖出55万美元](https://toutiao.io/k/52ajc9l) ![](assets/new.png)  
 - [2022-06-10-Go：从一个data-race问题学到的](https://toutiao.io/k/nu9kaxi) ![](assets/new.png)  
 - [2022-06-10-vivo大规模-Kubernetes-集群自动化运维实践](https://toutiao.io/k/r9f9bks) ![](assets/new.png)  
-- [2022-06-10-爱奇艺海外App的网络优化实践](https://toutiao.io/k/wscyti2) ![](assets/new.png)  
 - [2022-06-10-点阵打字机](https://toutiao.io/k/ghnfbmb) ![](assets/new.png)  
+- [2022-06-10-爱奇艺海外App的网络优化实践](https://toutiao.io/k/wscyti2) ![](assets/new.png)  
 - [2022-06-10-袋鼠云数栈基于CBO在Spark-SQL优化上的探索](https://toutiao.io/k/as7tjqr) ![](assets/new.png)  
 - [2022-06-10-NVIDIA-DPU+-RH-OpenShift?](https://toutiao.io/k/cgat4if) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)

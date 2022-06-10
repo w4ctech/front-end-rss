@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-06-10 08:44:02，:rocket: 更新条数: +2033， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-06-10 09:13:46，:rocket: 更新条数: +2033， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,11 @@
 </summary>
 
 
+- [2022-06-10-大癌A-现在好像触底了！？大家怎么看？](https://www.v2ex.com/t/858762) ![](assets/new.png)  
+- [2022-06-10-各位-javaer，由-JDK8-升级到-8+12,17，有啥好处吗？或者升级时有什么注意的点？](https://www.v2ex.com/t/858761) ![](assets/new.png)  
+- [2022-06-10-提个无聊的问题：你们的鼠标指针都是什么颜色的？](https://www.v2ex.com/t/858760) ![](assets/new.png)  
+- [2022-06-10-回收纪念币的商家回收之后怎么处理](https://www.v2ex.com/t/858759) ![](assets/new.png)  
+- [2022-06-10-web-端打印小票，面单现在主流的技术是什么？](https://www.v2ex.com/t/858757) ![](assets/new.png)  
 - [2022-06-10-618-要来了，想装一台电脑使用-AE-做一些动效，大佬有推荐吗？](https://www.v2ex.com/t/858754) ![](assets/new.png)  
 - [2022-06-10-Copilot-登录不了？](https://www.v2ex.com/t/858753) ![](assets/new.png)  
 - [2022-06-10-i7-4790k-平台突然内存不能同时插-2-根了，是什么故障](https://www.v2ex.com/t/858752) ![](assets/new.png)  
@@ -506,11 +511,6 @@
 - [2022-06-10-Angular-14-更新](https://www.v2ex.com/t/858739) ![](assets/new.png)  
 - [2022-06-10-microSD（tf-卡）对手机的存储空间有帮助不](https://www.v2ex.com/t/858738) ![](assets/new.png)  
 - [2022-06-10-招商经典白金体检卡-能检查啥啊。](https://www.v2ex.com/t/858737) ![](assets/new.png)  
-- [2022-06-10-为什么我提交的-pr-没有后续进展了？](https://www.v2ex.com/t/858735) ![](assets/new.png)  
-- [2022-06-10-上海/外企/开源-开源明星独角兽-Kong-Inc.-中国研发中心持续招聘中](https://www.v2ex.com/t/858734) ![](assets/new.png)  
-- [2022-06-10-Google-Home-mini-可以绑定国区-apple-music-吗？](https://www.v2ex.com/t/858733) ![](assets/new.png)  
-- [2022-06-10-有没有微信支付服务商？了解一下情况](https://www.v2ex.com/t/858731) ![](assets/new.png)  
-- [2022-06-10-Windows-下微信硬盘占用马上-130G-了咋办](https://www.v2ex.com/t/858730) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -565,14 +565,14 @@
 - [2022-06-10-美团获得小样本学习榜单FewCLUE第一！Prompt-Learning+自训练实战](https://toutiao.io/k/bqoc8pt) ![](assets/new.png)  
 - [2022-06-10-什么样的测试用例可以被称为好的测试用例？](https://toutiao.io/k/tqk29r1) ![](assets/new.png)  
 - [2022-06-10-如果有一天不做前端了，我会做什么？](https://toutiao.io/k/1354ixu) ![](assets/new.png)  
+- [2022-06-10-想做钢铁侠？听说很多大佬都是用它入门的](https://toutiao.io/k/4ms2w4p) ![](assets/new.png)  
 - [2022-06-10-独立开发变现周刊（第58期）：预售CSS课程，卖出55万美元](https://toutiao.io/k/52ajc9l) ![](assets/new.png)  
 - [2022-06-10-Go：从一个data-race问题学到的](https://toutiao.io/k/nu9kaxi) ![](assets/new.png)  
-- [2022-06-10-想做钢铁侠？听说很多大佬都是用它入门的](https://toutiao.io/k/4ms2w4p) ![](assets/new.png)  
 - [2022-06-10-vivo大规模-Kubernetes-集群自动化运维实践](https://toutiao.io/k/r9f9bks) ![](assets/new.png)  
 - [2022-06-10-点阵打字机](https://toutiao.io/k/ghnfbmb) ![](assets/new.png)  
 - [2022-06-10-爱奇艺海外App的网络优化实践](https://toutiao.io/k/wscyti2) ![](assets/new.png)  
-- [2022-06-10-袋鼠云数栈基于CBO在Spark-SQL优化上的探索](https://toutiao.io/k/as7tjqr) ![](assets/new.png)  
 - [2022-06-10-NVIDIA-DPU+-RH-OpenShift?](https://toutiao.io/k/cgat4if) ![](assets/new.png)  
+- [2022-06-10-袋鼠云数栈基于CBO在Spark-SQL优化上的探索](https://toutiao.io/k/as7tjqr) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

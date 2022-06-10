@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-06-10 06:17:06。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-06-10 06:45:58。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -20,4 +20,3 @@
 - [2022-04-22-CSS实现滚动高度自动变小的粘滞效果](https://www.zhangxinxu.com/wordpress/2022/04/css-sticky-size-change/) 
 - [2022-03-15-基于howler.js写了个音频播放器组件](https://www.zhangxinxu.com/wordpress/2022/03/howler-js-audio-player/) 
 - [2022-06-10-如何关闭-openwrt-路由器特定-lan-口的-ipv6](https://www.v2ex.com/t/858681) 
-- [2022-06-10-求推荐-iPhone-友好的路由器，价格没限制](https://www.v2ex.com/t/858661) 

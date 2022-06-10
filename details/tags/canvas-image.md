@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-06-10 06:17:06。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-06-10 06:45:58。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Canvas、SVG、图像
 
@@ -7,4 +7,5 @@
 
 
 
+- [2022-06-10-可居家-外企-招-U3D-开发主程序（技术合伙人）](https://www.v2ex.com/t/858719) 
 - [2022-06-10-服饰3D柔性渲染调研及实践-fed.taobao.org](https://blogread.cn/news/go.php?idItem=15108&url=https%3A%2F%2Ffed.taobao.org%2Fblog%2Ftaofed%2Fdo71ct%2Ffufsgh%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-06-10 09:13:46。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-06-10 09:44:18。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -222,7 +222,6 @@
 
 
 
-- [【V2EX】可居家-外企-招-U3D-开发主程序（技术合伙人）](https://www.v2ex.com/t/858719)
 - [【技术头条】服饰3D柔性渲染调研及实践-fed.taobao.org](https://blogread.cn/news/go.php?idItem=15108&url=https%3A%2F%2Ffed.taobao.org%2Fblog%2Ftaofed%2Fdo71ct%2Ffufsgh%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [......【查看更多】......](./details/tags/canvas-image.md)
 
@@ -242,6 +241,7 @@
 
 - [【武汉肺炎防疫全纪录(财新网)】广州17岁男生在定点医院参加高考-特殊考场视频监考](https://m.caixin.com/m/2021-06-05/101723418.html)
 - [【武汉肺炎防疫全纪录(财新网)】林郑月娥率13高官直播接种科兴疫苗-复星疫苗预计周中到港](https://m.caixin.com/m/2021-02-22/101665724.html)
+- [【V2EX】看到唐山打人的视频，血压飙升，久久不能平静，换成你们，你们会怎么办-。。。](https://www.v2ex.com/t/858771)
 - [......【查看更多】......](./details/tags/audio-video.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -301,6 +301,7 @@
 
 
 
+- [【V2EX】专科应届求职:-DevOps-/-全栈远程开发,-其他方向实习岗可驻场.](https://www.v2ex.com/t/858763)
 - [【开发者头条】吴恩达：机器学习的六个核心算法](https://toutiao.io/k/7s61wih)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 

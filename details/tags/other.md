@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-06-10 18:46:39。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-06-10 19:12:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1969,14 +1969,14 @@
 - [2022-06-10-如何和业务方建立良好的合作关系](https://toutiao.io/k/c91llju) 
 - [2022-06-10-Flink-CDC-在大健云仓的实践](https://toutiao.io/k/3024aa2) 
 - [2022-06-10-想做钢铁侠？听说很多大佬都是用它入门的](https://toutiao.io/k/4ms2w4p) 
-- [2022-06-10-美团获得小样本学习榜单FewCLUE第一！Prompt-Learning+自训练实战](https://toutiao.io/k/bqoc8pt) 
 - [2022-06-10-什么样的测试用例可以被称为好的测试用例？](https://toutiao.io/k/tqk29r1) 
+- [2022-06-10-美团获得小样本学习榜单FewCLUE第一！Prompt-Learning+自训练实战](https://toutiao.io/k/bqoc8pt) 
 - [2022-06-10-如果有一天不做前端了，我会做什么？](https://toutiao.io/k/1354ixu) 
 - [2022-06-10-vivo大规模-Kubernetes-集群自动化运维实践](https://toutiao.io/k/r9f9bks) 
 - [2022-06-10-Go：从一个data-race问题学到的](https://toutiao.io/k/nu9kaxi) 
 - [2022-06-10-点阵打字机](https://toutiao.io/k/ghnfbmb) 
 - [2022-06-10-NVIDIA-DPU+-RH-OpenShift?](https://toutiao.io/k/cgat4if) 
-- [2022-06-10-推荐-如何写出一篇好的技术方案？](https://toutiao.io/k/gl2cth8) 
-- [2022-06-10-推荐-架构师成长路线图](https://toutiao.io/k/27b6p2e) 
-- [2022-06-10-推荐-消息队列原理和选型：Kafka、RocketMQ-、RabbitMQ-和-ActiveMQ](https://toutiao.io/k/nuwnwro) 
 - [2022-06-10-推荐-阿里10年沉淀｜那些技术实战中的架构设计方法](https://toutiao.io/k/e9vlh55) 
+- [2022-06-10-推荐-消息队列原理和选型：Kafka、RocketMQ-、RabbitMQ-和-ActiveMQ](https://toutiao.io/k/nuwnwro) 
+- [2022-06-10-推荐-架构师成长路线图](https://toutiao.io/k/27b6p2e) 
+- [2022-06-10-推荐-如何写出一篇好的技术方案？](https://toutiao.io/k/gl2cth8) 

@@ -9953,6 +9953,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "程序员 爱情 技术 婚姻 NT 交流群",
+        "link": "https://www.v2ex.com/t/858839",
+        "date": "2022-06-10"
+      },
+      {
         "title": "外包 offer（华为 od）求建议",
         "link": "https://www.v2ex.com/t/858838",
         "date": "2022-06-10"
@@ -10272,103 +10277,8 @@
     "link": "https://toutiao.io",
     "items": [
       {
-        "title": "MongoDB全方位知识图谱！",
-        "link": "https://toutiao.io/k/efxw4nr",
-        "date": "2022-06-10"
-      },
-      {
-        "title": "吐血推荐17个提升开发效率的“轮子”",
-        "link": "https://toutiao.io/k/10u7n9b",
-        "date": "2022-06-10"
-      },
-      {
-        "title": "去哪儿网基于 DDD 思想的技术架构战略调整",
-        "link": "https://toutiao.io/k/sxd2kss",
-        "date": "2022-06-10"
-      },
-      {
-        "title": "从C++转向Rust：两大主题值得关注！",
-        "link": "https://toutiao.io/k/9au1pw0",
-        "date": "2022-06-10"
-      },
-      {
-        "title": "吴恩达：机器学习的六个核心算法",
-        "link": "https://toutiao.io/k/7s61wih",
-        "date": "2022-06-10"
-      },
-      {
-        "title": "如何和业务方建立良好的合作关系",
-        "link": "https://toutiao.io/k/c91llju",
-        "date": "2022-06-10"
-      },
-      {
-        "title": "Flink CDC 在大健云仓的实践",
-        "link": "https://toutiao.io/k/3024aa2",
-        "date": "2022-06-10"
-      },
-      {
-        "title": "想做钢铁侠？听说很多大佬都是用它入门的",
-        "link": "https://toutiao.io/k/4ms2w4p",
-        "date": "2022-06-10"
-      },
-      {
-        "title": "冷知识！使用 display: contents 实现幽灵节点？",
-        "link": "https://toutiao.io/k/cl11wbg",
-        "date": "2022-06-10"
-      },
-      {
-        "title": "【面试造火箭，工作拧螺丝】自救指南！",
-        "link": "https://toutiao.io/k/phfyi0u",
-        "date": "2022-06-10"
-      },
-      {
-        "title": "什么样的测试用例可以被称为好的测试用例？",
-        "link": "https://toutiao.io/k/tqk29r1",
-        "date": "2022-06-10"
-      },
-      {
-        "title": "美团获得小样本学习榜单FewCLUE第一！Prompt Learning+自训练实战",
-        "link": "https://toutiao.io/k/bqoc8pt",
-        "date": "2022-06-10"
-      },
-      {
-        "title": "如果有一天不做前端了，我会做什么？",
-        "link": "https://toutiao.io/k/1354ixu",
-        "date": "2022-06-10"
-      },
-      {
-        "title": "爱奇艺海外App的网络优化实践",
-        "link": "https://toutiao.io/k/wscyti2",
-        "date": "2022-06-10"
-      },
-      {
-        "title": "独立开发变现周刊（第58期）：预售CSS课程，卖出55万美元",
-        "link": "https://toutiao.io/k/52ajc9l",
-        "date": "2022-06-10"
-      },
-      {
-        "title": "vivo大规模 Kubernetes 集群自动化运维实践",
-        "link": "https://toutiao.io/k/r9f9bks",
-        "date": "2022-06-10"
-      },
-      {
-        "title": "Go：从一个data race问题学到的",
-        "link": "https://toutiao.io/k/nu9kaxi",
-        "date": "2022-06-10"
-      },
-      {
-        "title": "点阵打字机",
-        "link": "https://toutiao.io/k/ghnfbmb",
-        "date": "2022-06-10"
-      },
-      {
-        "title": "NVIDIA DPU+ RH OpenShift?",
-        "link": "https://toutiao.io/k/cgat4if",
-        "date": "2022-06-10"
-      },
-      {
-        "title": "袋鼠云数栈基于CBO在Spark SQL优化上的探索",
-        "link": "https://toutiao.io/k/as7tjqr",
+        "title": "欢迎加入读者圈子，一起交流！",
+        "link": "https://toutiao.io/k/h3qlj72",
         "date": "2022-06-10"
       },
       {
@@ -10377,13 +10287,8 @@
         "date": "2022-06-10"
       },
       {
-        "title": "[推荐] 如何写出一篇好的技术方案？",
-        "link": "https://toutiao.io/k/gl2cth8",
-        "date": "2022-06-10"
-      },
-      {
-        "title": "[推荐] 性能提升40倍——线上真实重构案例分享",
-        "link": "https://toutiao.io/k/izbqpxo",
+        "title": "[推荐] 消息队列原理和选型：Kafka、RocketMQ 、RabbitMQ 和 ActiveMQ",
+        "link": "https://toutiao.io/k/nuwnwro",
         "date": "2022-06-10"
       },
       {
@@ -10392,8 +10297,13 @@
         "date": "2022-06-10"
       },
       {
-        "title": "[推荐] 消息队列原理和选型：Kafka、RocketMQ 、RabbitMQ 和 ActiveMQ",
-        "link": "https://toutiao.io/k/nuwnwro",
+        "title": "[推荐] 性能提升40倍——线上真实重构案例分享",
+        "link": "https://toutiao.io/k/izbqpxo",
+        "date": "2022-06-10"
+      },
+      {
+        "title": "[推荐] 如何写出一篇好的技术方案？",
+        "link": "https://toutiao.io/k/gl2cth8",
         "date": "2022-06-10"
       }
     ]

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-06-10 23:14:19，:rocket: 更新条数: +2032， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-06-10 23:39:17，:rocket: 更新条数: +2014， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-06-10-程序员-爱情-技术-婚姻-NT-交流群](https://www.v2ex.com/t/858839) ![](assets/new.png)  
 - [2022-06-10-外包-offer（华为-od）求建议](https://www.v2ex.com/t/858838) ![](assets/new.png)  
 - [2022-06-10-新项目再轮-asyncio-实现：-kLoop](https://www.v2ex.com/t/858837) ![](assets/new.png)  
 - [2022-06-10-有没有什么手势插件，能拖拽文本+直接调用-google-translate？](https://www.v2ex.com/t/858836) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-06-10-antd-全局样式污染问题，慎用](https://www.v2ex.com/t/858820) ![](assets/new.png)  
 - [2022-06-10-求推荐：云端可返回-SHA/MD5-地网盘/S3-服务](https://www.v2ex.com/t/858818) ![](assets/new.png)  
 - [2022-06-10-5000-以下笔记本电脑求推荐](https://www.v2ex.com/t/858817) ![](assets/new.png)  
-- [2022-06-10-现在流行的技术栈是啥呢？](https://www.v2ex.com/t/858816) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -553,26 +553,12 @@
 </summary>
 
 
-- [2022-06-10-MongoDB全方位知识图谱！](https://toutiao.io/k/efxw4nr) ![](assets/new.png)  
-- [2022-06-10-吐血推荐17个提升开发效率的“轮子”](https://toutiao.io/k/10u7n9b) ![](assets/new.png)  
-- [2022-06-10-去哪儿网基于-DDD-思想的技术架构战略调整](https://toutiao.io/k/sxd2kss) ![](assets/new.png)  
-- [2022-06-10-从C++转向Rust：两大主题值得关注！](https://toutiao.io/k/9au1pw0) ![](assets/new.png)  
-- [2022-06-10-吴恩达：机器学习的六个核心算法](https://toutiao.io/k/7s61wih) ![](assets/new.png)  
-- [2022-06-10-如何和业务方建立良好的合作关系](https://toutiao.io/k/c91llju) ![](assets/new.png)  
-- [2022-06-10-Flink-CDC-在大健云仓的实践](https://toutiao.io/k/3024aa2) ![](assets/new.png)  
-- [2022-06-10-想做钢铁侠？听说很多大佬都是用它入门的](https://toutiao.io/k/4ms2w4p) ![](assets/new.png)  
-- [2022-06-10-冷知识！使用-display:-contents-实现幽灵节点？](https://toutiao.io/k/cl11wbg) ![](assets/new.png)  
-- [2022-06-10-【面试造火箭，工作拧螺丝】自救指南！](https://toutiao.io/k/phfyi0u) ![](assets/new.png)  
-- [2022-06-10-什么样的测试用例可以被称为好的测试用例？](https://toutiao.io/k/tqk29r1) ![](assets/new.png)  
-- [2022-06-10-美团获得小样本学习榜单FewCLUE第一！Prompt-Learning+自训练实战](https://toutiao.io/k/bqoc8pt) ![](assets/new.png)  
-- [2022-06-10-如果有一天不做前端了，我会做什么？](https://toutiao.io/k/1354ixu) ![](assets/new.png)  
-- [2022-06-10-爱奇艺海外App的网络优化实践](https://toutiao.io/k/wscyti2) ![](assets/new.png)  
-- [2022-06-10-独立开发变现周刊（第58期）：预售CSS课程，卖出55万美元](https://toutiao.io/k/52ajc9l) ![](assets/new.png)  
-- [2022-06-10-vivo大规模-Kubernetes-集群自动化运维实践](https://toutiao.io/k/r9f9bks) ![](assets/new.png)  
-- [2022-06-10-Go：从一个data-race问题学到的](https://toutiao.io/k/nu9kaxi) ![](assets/new.png)  
-- [2022-06-10-点阵打字机](https://toutiao.io/k/ghnfbmb) ![](assets/new.png)  
-- [2022-06-10-NVIDIA-DPU+-RH-OpenShift?](https://toutiao.io/k/cgat4if) ![](assets/new.png)  
-- [2022-06-10-袋鼠云数栈基于CBO在Spark-SQL优化上的探索](https://toutiao.io/k/as7tjqr) ![](assets/new.png)  
+- [2022-06-10-欢迎加入读者圈子，一起交流！](https://toutiao.io/k/h3qlj72) ![](assets/new.png)  
+- [2022-06-10-推荐-架构师成长路线图](https://toutiao.io/k/27b6p2e) ![](assets/new.png)  
+- [2022-06-10-推荐-消息队列原理和选型：Kafka、RocketMQ-、RabbitMQ-和-ActiveMQ](https://toutiao.io/k/nuwnwro) ![](assets/new.png)  
+- [2022-06-10-推荐-阿里10年沉淀｜那些技术实战中的架构设计方法](https://toutiao.io/k/e9vlh55) ![](assets/new.png)  
+- [2022-06-10-推荐-性能提升40倍——线上真实重构案例分享](https://toutiao.io/k/izbqpxo) ![](assets/new.png)  
+- [2022-06-10-推荐-如何写出一篇好的技术方案？](https://toutiao.io/k/gl2cth8) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

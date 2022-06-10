@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-06-10 09:44:18。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-06-10 10:15:04。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -19,5 +19,5 @@
 - [2022-04-27-小tips:-JS字体加载失败或完毕的检测](https://www.zhangxinxu.com/wordpress/2022/04/js-font-face-load/) 
 - [2022-04-22-CSS实现滚动高度自动变小的粘滞效果](https://www.zhangxinxu.com/wordpress/2022/04/css-sticky-size-change/) 
 - [2022-03-15-基于howler.js写了个音频播放器组件](https://www.zhangxinxu.com/wordpress/2022/03/howler-js-audio-player/) 
+- [2022-06-10-家庭网络组网，无线路由+四台有线设备，求优化方案](https://www.v2ex.com/t/858773) 
 - [2022-06-10-正则表达式-只能输入数字、小数和字母-应该怎么写](https://www.v2ex.com/t/858728) 
-- [2022-06-10-急！在线等-JS-怎么在处理多个大图数据的时候避免线程阻塞？](https://www.v2ex.com/t/858723) 

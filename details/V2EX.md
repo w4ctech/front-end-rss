@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2022-06-10 19:36:27。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-06-10 20:14:36。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-06-10-有没有什么手势插件，能拖拽文本+直接调用-google-translate？](https://www.v2ex.com/t/858836) 
 - [2022-06-10-https://developpaper.com/-这个站是什么来头？](https://www.v2ex.com/t/858835) 
 - [2022-06-10-🚗-硅谷宝藏-FinTech-公司新职位开放-🌟-100%远程+期权+各种福利补贴](https://www.v2ex.com/t/858834) 
 - [2022-06-10-公众号开发，接收表情-消息提示-收到不支持的消息类型，暂无法显示](https://www.v2ex.com/t/858833) 
@@ -45,4 +46,3 @@
 - [2022-06-10-22-届应届本科今天被通知毁约三方协议，请问该怎么办？](https://www.v2ex.com/t/858790) 
 - [2022-06-10-国家电网公司的营业厅网站证书挂了么-https://www.95598.cn/person/index.shtml](https://www.v2ex.com/t/858788) 
 - [2022-06-10-《死亡空间》精神续作《The-Callisto-Protocol》预告发布](https://www.v2ex.com/t/858787) 
-- [2022-06-10-Rust-写了个个人博客，欢迎-V-友们交换友链](https://www.v2ex.com/t/858786) 

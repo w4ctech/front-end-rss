@@ -9953,6 +9953,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "有没有什么手势插件，能拖拽文本+直接调用 google translate？",
+        "link": "https://www.v2ex.com/t/858836",
+        "date": "2022-06-10"
+      },
+      {
         "title": "https://developpaper.com/ 这个站是什么来头？",
         "link": "https://www.v2ex.com/t/858835",
         "date": "2022-06-10"
@@ -10150,11 +10155,6 @@
       {
         "title": "《死亡空间》精神续作《The Callisto Protocol》预告发布",
         "link": "https://www.v2ex.com/t/858787",
-        "date": "2022-06-10"
-      },
-      {
-        "title": "Rust 写了个个人博客，欢迎 V 友们交换友链",
-        "link": "https://www.v2ex.com/t/858786",
         "date": "2022-06-10"
       }
     ]
@@ -10372,13 +10372,8 @@
         "date": "2022-06-10"
       },
       {
-        "title": "[推荐] 阿里10年沉淀｜那些技术实战中的架构设计方法",
-        "link": "https://toutiao.io/k/e9vlh55",
-        "date": "2022-06-10"
-      },
-      {
-        "title": "[推荐] 架构师成长路线图",
-        "link": "https://toutiao.io/k/27b6p2e",
+        "title": "[推荐] 消息队列原理和选型：Kafka、RocketMQ 、RabbitMQ 和 ActiveMQ",
+        "link": "https://toutiao.io/k/nuwnwro",
         "date": "2022-06-10"
       },
       {
@@ -10387,8 +10382,13 @@
         "date": "2022-06-10"
       },
       {
-        "title": "[推荐] 消息队列原理和选型：Kafka、RocketMQ 、RabbitMQ 和 ActiveMQ",
-        "link": "https://toutiao.io/k/nuwnwro",
+        "title": "[推荐] 阿里10年沉淀｜那些技术实战中的架构设计方法",
+        "link": "https://toutiao.io/k/e9vlh55",
+        "date": "2022-06-10"
+      },
+      {
+        "title": "[推荐] 架构师成长路线图",
+        "link": "https://toutiao.io/k/27b6p2e",
         "date": "2022-06-10"
       },
       {

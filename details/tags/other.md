@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-06-10 19:36:27。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-06-10 20:14:36。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1912,6 +1912,7 @@
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2022-03-21-ascent-override-descent-override-line-gap-override一锅端](https://www.zhangxinxu.com/wordpress/2022/03/css-ascent-override-descent/) 
+- [2022-06-10-有没有什么手势插件，能拖拽文本+直接调用-google-translate？](https://www.v2ex.com/t/858836) 
 - [2022-06-10-🚗-硅谷宝藏-FinTech-公司新职位开放-🌟-100%远程+期权+各种福利补贴](https://www.v2ex.com/t/858834) 
 - [2022-06-10-公众号开发，接收表情-消息提示-收到不支持的消息类型，暂无法显示](https://www.v2ex.com/t/858833) 
 - [2022-06-10-刚看完了图灵关于-AI-的论文,非常震撼!](https://www.v2ex.com/t/858832) 
@@ -1946,7 +1947,6 @@
 - [2022-06-10-推荐一本中文-Python-新书《-Python-工匠：案例、技巧与工程实践》](https://www.v2ex.com/t/858792) 
 - [2022-06-10-22-届应届本科今天被通知毁约三方协议，请问该怎么办？](https://www.v2ex.com/t/858790) 
 - [2022-06-10-《死亡空间》精神续作《The-Callisto-Protocol》预告发布](https://www.v2ex.com/t/858787) 
-- [2022-06-10-Rust-写了个个人博客，欢迎-V-友们交换友链](https://www.v2ex.com/t/858786) 
 - [2022-06-10-机器学习不是你想用，想用就能用-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15126&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fwhen-to-use-machine-learning%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-06-10-容器江湖的爱恨情仇-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15125&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fdocker-colima-podman-container%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-06-10-看看你有没有陷入“标签化”客户和-用户-的陷阱？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15124&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fbusiness-analyst-growth%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1975,7 +1975,7 @@
 - [2022-06-10-Go：从一个data-race问题学到的](https://toutiao.io/k/nu9kaxi) 
 - [2022-06-10-点阵打字机](https://toutiao.io/k/ghnfbmb) 
 - [2022-06-10-NVIDIA-DPU+-RH-OpenShift?](https://toutiao.io/k/cgat4if) 
+- [2022-06-10-推荐-消息队列原理和选型：Kafka、RocketMQ-、RabbitMQ-和-ActiveMQ](https://toutiao.io/k/nuwnwro) 
+- [2022-06-10-推荐-如何写出一篇好的技术方案？](https://toutiao.io/k/gl2cth8) 
 - [2022-06-10-推荐-阿里10年沉淀｜那些技术实战中的架构设计方法](https://toutiao.io/k/e9vlh55) 
 - [2022-06-10-推荐-架构师成长路线图](https://toutiao.io/k/27b6p2e) 
-- [2022-06-10-推荐-如何写出一篇好的技术方案？](https://toutiao.io/k/gl2cth8) 
-- [2022-06-10-推荐-消息队列原理和选型：Kafka、RocketMQ-、RabbitMQ-和-ActiveMQ](https://toutiao.io/k/nuwnwro) 

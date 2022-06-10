@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-06-10 07:14:44，:rocket: 更新条数: +2034， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-06-10 07:38:48，:rocket: 更新条数: +2036， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,13 @@
 </summary>
 
 
+- [2022-06-10-为什么我提交的-pr-没有后续进展了？](https://www.v2ex.com/t/858735) ![](assets/new.png)  
+- [2022-06-10-上海/外企/开源-开源明星独角兽-Kong-Inc.-中国研发中心持续招聘中](https://www.v2ex.com/t/858734) ![](assets/new.png)  
+- [2022-06-10-Google-Home-mini-可以绑定国区-apple-music-吗？](https://www.v2ex.com/t/858733) ![](assets/new.png)  
+- [2022-06-10-有没有微信支付服务商？了解一下情况](https://www.v2ex.com/t/858731) ![](assets/new.png)  
+- [2022-06-10-Windows-下微信硬盘占用马上-130G-了咋办](https://www.v2ex.com/t/858730) ![](assets/new.png)  
+- [2022-06-10-我觉得这些大厂里面苹果是最清醒的](https://www.v2ex.com/t/858729) ![](assets/new.png)  
+- [2022-06-10-正则表达式-只能输入数字、小数和字母-应该怎么写](https://www.v2ex.com/t/858728) ![](assets/new.png)  
 - [2022-06-10-2022-年了，我用-Golang-写了一套虚拟桌面系统，还有人用吗？](https://www.v2ex.com/t/858727) ![](assets/new.png)  
 - [2022-06-10-公司为什么不肯给底层认真干活的员工涨工资？](https://www.v2ex.com/t/858726) ![](assets/new.png)  
 - [2022-06-10-关于远程实习的事情](https://www.v2ex.com/t/858725) ![](assets/new.png)  
@@ -504,13 +511,6 @@
 - [2022-06-10-问一下-V-友你们所在地的核酸有效期是卡-24-小时还是卡-0-点，是按采样时间还是按出结果时间，健康码会在白天变色吗](https://www.v2ex.com/t/858717) ![](assets/new.png)  
 - [2022-06-10-惠普-m132nw-是鼓粉分离的，用的是-18a-碳粉盒跟-19a-成像鼓，这样成本是不是很高？](https://www.v2ex.com/t/858716) ![](assets/new.png)  
 - [2022-06-10-前端项目长期合作-驻点-深圳-·-南山-·蛇口](https://www.v2ex.com/t/858715) ![](assets/new.png)  
-- [2022-06-10-618-了，准备给刚高考完的小姨子配台笔记本，预算-4-6k，大家有什么推荐么](https://www.v2ex.com/t/858713) ![](assets/new.png)  
-- [2022-06-10-请问做新闻聚合-APP-有什么法律风险吗?](https://www.v2ex.com/t/858711) ![](assets/new.png)  
-- [2022-06-10-有人试过给早期的-MacBook-air-换硬盘吗。pdd-的-700-多一块-512-的看上去不错](https://www.v2ex.com/t/858710) ![](assets/new.png)  
-- [2022-06-10-iconfont-显示维护中好久了](https://www.v2ex.com/t/858708) ![](assets/new.png)  
-- [2022-06-10-什么时候该换工作？](https://www.v2ex.com/t/858707) ![](assets/new.png)  
-- [2022-06-10-蔚来汽车招聘嵌入式软件工程师](https://www.v2ex.com/t/858706) ![](assets/new.png)  
-- [2022-06-10-救命！-boot-分区被破坏！](https://www.v2ex.com/t/858705) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -564,15 +564,15 @@
 - [2022-06-10-【面试造火箭，工作拧螺丝】自救指南！](https://toutiao.io/k/phfyi0u) ![](assets/new.png)  
 - [2022-06-10-美团获得小样本学习榜单FewCLUE第一！Prompt-Learning+自训练实战](https://toutiao.io/k/bqoc8pt) ![](assets/new.png)  
 - [2022-06-10-什么样的测试用例可以被称为好的测试用例？](https://toutiao.io/k/tqk29r1) ![](assets/new.png)  
+- [2022-06-10-如果有一天不做前端了，我会做什么？](https://toutiao.io/k/1354ixu) ![](assets/new.png)  
 - [2022-06-10-独立开发变现周刊（第58期）：预售CSS课程，卖出55万美元](https://toutiao.io/k/52ajc9l) ![](assets/new.png)  
 - [2022-06-10-Go：从一个data-race问题学到的](https://toutiao.io/k/nu9kaxi) ![](assets/new.png)  
-- [2022-06-10-如果有一天不做前端了，我会做什么？](https://toutiao.io/k/1354ixu) ![](assets/new.png)  
 - [2022-06-10-vivo大规模-Kubernetes-集群自动化运维实践](https://toutiao.io/k/r9f9bks) ![](assets/new.png)  
 - [2022-06-10-想做钢铁侠？听说很多大佬都是用它入门的](https://toutiao.io/k/4ms2w4p) ![](assets/new.png)  
 - [2022-06-10-爱奇艺海外App的网络优化实践](https://toutiao.io/k/wscyti2) ![](assets/new.png)  
-- [2022-06-10-NVIDIA-DPU+-RH-OpenShift?](https://toutiao.io/k/cgat4if) ![](assets/new.png)  
 - [2022-06-10-袋鼠云数栈基于CBO在Spark-SQL优化上的探索](https://toutiao.io/k/as7tjqr) ![](assets/new.png)  
 - [2022-06-10-点阵打字机](https://toutiao.io/k/ghnfbmb) ![](assets/new.png)  
+- [2022-06-10-NVIDIA-DPU+-RH-OpenShift?](https://toutiao.io/k/cgat4if) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-06-11 23:13:22，:rocket: 更新条数: +2022， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-06-11 23:38:06，:rocket: 更新条数: +2023， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-06-11-广东深圳电信-2022-年-4-月-资费](https://www.v2ex.com/t/859014) ![](assets/new.png)  
 - [2022-06-11-历时-4-个月，-CabloyJS-4.21-震撼发布，应对大型项目开发](https://www.v2ex.com/t/859013) ![](assets/new.png)  
 - [2022-06-11-有人要领养狸花猫吗?-坐标北京](https://www.v2ex.com/t/859012) ![](assets/new.png)  
 - [2022-06-11-求一个土耳其的机场，要求可以过-epic-的换区认证](https://www.v2ex.com/t/859011) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-06-11-阿里云的服务器数据库被黑了，被勒索要钱恢复数据，报案抓的到这些人吗？有操作经验的来讨论下](https://www.v2ex.com/t/858995) ![](assets/new.png)  
 - [2022-06-11-用-crd-控制公有运虚拟机怎么样？创建一个-vm-的-cr，就自动到阿里/腾讯云上买一个虚机](https://www.v2ex.com/t/858993) ![](assets/new.png)  
 - [2022-06-11-小米-11-解锁新功能，空气充电！](https://www.v2ex.com/t/858992) ![](assets/new.png)  
-- [2022-06-11-怎样把-macOS-系统中，两个不同文件夹里的内容，分别同步到两个不同的-Dropbox-账户？](https://www.v2ex.com/t/858991) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -565,9 +565,9 @@
 - [2022-06-11-大数据平台迁移实践-|-Apache-DolphinScheduler-在当贝大数据环境中的应用](https://toutiao.io/k/ect2cm7) ![](assets/new.png)  
 - [2022-06-11-为什么Hook没有ErrorBoundary？](https://toutiao.io/k/7oq50nk) ![](assets/new.png)  
 - [2022-06-11-推荐-架构师成长路线图](https://toutiao.io/k/27b6p2e) ![](assets/new.png)  
+- [2022-06-11-推荐-消息队列原理和选型：Kafka、RocketMQ-、RabbitMQ-和-ActiveMQ](https://toutiao.io/k/nuwnwro) ![](assets/new.png)  
 - [2022-06-11-推荐-如何写出一篇好的技术方案？](https://toutiao.io/k/gl2cth8) ![](assets/new.png)  
 - [2022-06-11-推荐-阿里10年沉淀｜那些技术实战中的架构设计方法](https://toutiao.io/k/e9vlh55) ![](assets/new.png)  
-- [2022-06-11-推荐-消息队列原理和选型：Kafka、RocketMQ-、RabbitMQ-和-ActiveMQ](https://toutiao.io/k/nuwnwro) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

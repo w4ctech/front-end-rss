@@ -9953,6 +9953,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "请问两台电脑之间该如何配置 git",
+        "link": "https://www.v2ex.com/t/858998",
+        "date": "2022-06-11"
+      },
+      {
         "title": "关于 iterm2 中的 marks 功能，没明白移动到上一个下一个 mark 的作用是什么",
         "link": "https://www.v2ex.com/t/858996",
         "date": "2022-06-11"
@@ -10131,16 +10136,6 @@
         "title": "南山水湾租房，求推荐",
         "link": "https://www.v2ex.com/t/858949",
         "date": "2022-06-11"
-      },
-      {
-        "title": "架构师主要工作是干啥的，和普通开发有啥区别？",
-        "link": "https://www.v2ex.com/t/858948",
-        "date": "2022-06-11"
-      },
-      {
-        "title": "Web 3.0 用户新体验",
-        "link": "https://www.v2ex.com/t/858947",
-        "date": "2022-06-11"
       }
     ]
   },
@@ -10317,11 +10312,6 @@
         "date": "2022-06-11"
       },
       {
-        "title": "[推荐] 如何写出一篇好的技术方案？",
-        "link": "https://toutiao.io/k/gl2cth8",
-        "date": "2022-06-11"
-      },
-      {
         "title": "[推荐] 消息队列原理和选型：Kafka、RocketMQ 、RabbitMQ 和 ActiveMQ",
         "link": "https://toutiao.io/k/nuwnwro",
         "date": "2022-06-11"
@@ -10329,6 +10319,11 @@
       {
         "title": "[推荐] 阿里10年沉淀｜那些技术实战中的架构设计方法",
         "link": "https://toutiao.io/k/e9vlh55",
+        "date": "2022-06-11"
+      },
+      {
+        "title": "[推荐] 如何写出一篇好的技术方案？",
+        "link": "https://toutiao.io/k/gl2cth8",
         "date": "2022-06-11"
       }
     ]

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-06-11 18:15:43。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-06-11 18:42:44。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1912,6 +1912,7 @@
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2022-03-21-ascent-override-descent-override-line-gap-override一锅端](https://www.zhangxinxu.com/wordpress/2022/03/css-ascent-override-descent/) 
+- [2022-06-11-在成都工作节奏和生活质量如何？](https://www.v2ex.com/t/859006) 
 - [2022-06-11-有兄弟有类似情况吗？冥想管用吗？](https://www.v2ex.com/t/859005) 
 - [2022-06-11-吐槽一下使用-Azure-Static-Web-App-的上头经历](https://www.v2ex.com/t/859004) 
 - [2022-06-11-自荐一个我开发的小工具-typora-upload，专为-markdown-图片上传而生，提升生产力](https://www.v2ex.com/t/859003) 
@@ -1962,7 +1963,7 @@
 - [2022-06-11-欢迎加入读者圈子，一起交流！](https://toutiao.io/k/h3qlj72) 
 - [2022-06-11-博文推荐｜BookKeeper---Apache-Pulsar-高可用-/-强一致-/-低延迟的存储实现](https://toutiao.io/k/ut1vrz4) 
 - [2022-06-11-大数据平台迁移实践-|-Apache-DolphinScheduler-在当贝大数据环境中的应用](https://toutiao.io/k/ect2cm7) 
-- [2022-06-11-推荐-消息队列原理和选型：Kafka、RocketMQ-、RabbitMQ-和-ActiveMQ](https://toutiao.io/k/nuwnwro) 
-- [2022-06-11-推荐-如何写出一篇好的技术方案？](https://toutiao.io/k/gl2cth8) 
 - [2022-06-11-推荐-阿里10年沉淀｜那些技术实战中的架构设计方法](https://toutiao.io/k/e9vlh55) 
 - [2022-06-11-推荐-架构师成长路线图](https://toutiao.io/k/27b6p2e) 
+- [2022-06-11-推荐-消息队列原理和选型：Kafka、RocketMQ-、RabbitMQ-和-ActiveMQ](https://toutiao.io/k/nuwnwro) 
+- [2022-06-11-推荐-如何写出一篇好的技术方案？](https://toutiao.io/k/gl2cth8) 

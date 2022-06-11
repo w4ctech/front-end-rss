@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-06-11 18:15:43，:rocket: 更新条数: +2020， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-06-11 18:42:44，:rocket: 更新条数: +2021， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-06-11-在成都工作节奏和生活质量如何？](https://www.v2ex.com/t/859006) ![](assets/new.png)  
 - [2022-06-11-有兄弟有类似情况吗？冥想管用吗？](https://www.v2ex.com/t/859005) ![](assets/new.png)  
 - [2022-06-11-吐槽一下使用-Azure-Static-Web-App-的上头经历](https://www.v2ex.com/t/859004) ![](assets/new.png)  
 - [2022-06-11-自荐一个我开发的小工具-typora-upload，专为-markdown-图片上传而生，提升生产力](https://www.v2ex.com/t/859003) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-06-11-软件只能运行在安全模式的问题](https://www.v2ex.com/t/858985) ![](assets/new.png)  
 - [2022-06-11-iMac-什么时候能更新成-M2-芯片？](https://www.v2ex.com/t/858984) ![](assets/new.png)  
 - [2022-06-11-我的-21-款-mbp-充电问题，外国人也遇到了。莫非真是-12.4-问题？](https://www.v2ex.com/t/858983) ![](assets/new.png)  
-- [2022-06-11-M1-新-bug，“无法修复的“bug](https://www.v2ex.com/t/858982) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -564,10 +564,10 @@
 - [2022-06-11-大数据平台迁移实践-|-Apache-DolphinScheduler-在当贝大数据环境中的应用](https://toutiao.io/k/ect2cm7) ![](assets/new.png)  
 - [2022-06-11-Word2Vec-算法推导-&-实现](https://toutiao.io/k/ua818jh) ![](assets/new.png)  
 - [2022-06-11-为什么Hook没有ErrorBoundary？](https://toutiao.io/k/7oq50nk) ![](assets/new.png)  
-- [2022-06-11-推荐-消息队列原理和选型：Kafka、RocketMQ-、RabbitMQ-和-ActiveMQ](https://toutiao.io/k/nuwnwro) ![](assets/new.png)  
-- [2022-06-11-推荐-如何写出一篇好的技术方案？](https://toutiao.io/k/gl2cth8) ![](assets/new.png)  
 - [2022-06-11-推荐-阿里10年沉淀｜那些技术实战中的架构设计方法](https://toutiao.io/k/e9vlh55) ![](assets/new.png)  
 - [2022-06-11-推荐-架构师成长路线图](https://toutiao.io/k/27b6p2e) ![](assets/new.png)  
+- [2022-06-11-推荐-消息队列原理和选型：Kafka、RocketMQ-、RabbitMQ-和-ActiveMQ](https://toutiao.io/k/nuwnwro) ![](assets/new.png)  
+- [2022-06-11-推荐-如何写出一篇好的技术方案？](https://toutiao.io/k/gl2cth8) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

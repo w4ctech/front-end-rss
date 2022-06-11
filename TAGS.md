@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-06-11 06:16:36。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-06-11 06:44:55。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -154,6 +154,7 @@
 
 
 
+- [【V2EX】CQ-CQ-CQ，我-QTH-魔都,中专学历,应聘了写游戏逻辑脚本的职位,说是能零基础,但是通勤单程-2-小时,996,法定假日-3-天给休-1-天，转正到手-5K。想做开发,但是自己...](https://www.v2ex.com/t/858906)
 - [【V2EX】求老哥推荐一个-5k-到-7k-的游戏本，不要板载内存，最好可加装硬盘和升级内存](https://www.v2ex.com/t/858878)
 - [【V2EX】新游戏本-vs-旧-mbp](https://www.v2ex.com/t/858873)
 - [【技术头条】4个Python编程游戏网站，玩嗨了~-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15120&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494149%26amp%3Bidx%3D1%26amp%3Bsn%3D7525aafe254b1a8017fee638cc5f3340%26amp%3Bchksm%3Dfa3f0b5ecd4882481060c4ccceff14d66ac9348089028ca145d07a17dbd153e46155fb2e0138%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
@@ -242,7 +243,6 @@
 
 - [【武汉肺炎防疫全纪录(财新网)】广州17岁男生在定点医院参加高考-特殊考场视频监考](https://m.caixin.com/m/2021-06-05/101723418.html)
 - [【武汉肺炎防疫全纪录(财新网)】林郑月娥率13高官直播接种科兴疫苗-复星疫苗预计周中到港](https://m.caixin.com/m/2021-02-22/101665724.html)
-- [【V2EX】chrome-能正确显示-16-位图像吗？](https://www.v2ex.com/t/858860)
 - [......【查看更多】......](./details/tags/audio-video.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

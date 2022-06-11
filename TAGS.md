@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-06-11 07:36:30。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-06-11 08:16:26。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -156,7 +156,6 @@
 
 - [【V2EX】CQ-CQ-CQ，我-QTH-魔都,中专学历,应聘了写游戏逻辑脚本的职位,说是能零基础,但是通勤单程-2-小时,996,法定假日-3-天给休-1-天，转正到手-5K。想做开发,但是自己...](https://www.v2ex.com/t/858906)
 - [【V2EX】求老哥推荐一个-5k-到-7k-的游戏本，不要板载内存，最好可加装硬盘和升级内存](https://www.v2ex.com/t/858878)
-- [【V2EX】新游戏本-vs-旧-mbp](https://www.v2ex.com/t/858873)
 - [【技术头条】4个Python编程游戏网站，玩嗨了~-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15120&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494149%26amp%3Bidx%3D1%26amp%3Bsn%3D7525aafe254b1a8017fee638cc5f3340%26amp%3Bchksm%3Dfa3f0b5ecd4882481060c4ccceff14d66ac9348089028ca145d07a17dbd153e46155fb2e0138%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [......【查看更多】......](./details/tags/dev-game.md)
 
@@ -186,6 +185,7 @@
 - [【张鑫旭-鑫空间-鑫生活】小tips:-JS字体加载失败或完毕的检测](https://www.zhangxinxu.com/wordpress/2022/04/js-font-face-load/)
 - [【张鑫旭-鑫空间-鑫生活】CSS实现滚动高度自动变小的粘滞效果](https://www.zhangxinxu.com/wordpress/2022/04/css-sticky-size-change/)
 - [【张鑫旭-鑫空间-鑫生活】基于howler.js写了个音频播放器组件](https://www.zhangxinxu.com/wordpress/2022/03/howler-js-audio-player/)
+- [【V2EX】求推荐一款稳如老狗的主路由](https://www.v2ex.com/t/858926)
 - [【开发者头条】C++异步从理论到实践总览篇](https://toutiao.io/k/3zwk82u)
 - [......【查看更多】......](./details/tags/javascript.md)
 

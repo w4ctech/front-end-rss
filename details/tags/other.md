@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-06-11 13:41:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-06-11 14:12:54。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1912,6 +1912,8 @@
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2022-03-21-ascent-override-descent-override-line-gap-override一锅端](https://www.zhangxinxu.com/wordpress/2022/03/css-ascent-override-descent/) 
+- [2022-06-11-如果你想失去一个朋友，那你就借钱给他~](https://www.v2ex.com/t/858978) 
+- [2022-06-11-小米-11-可以用空气充电了？](https://www.v2ex.com/t/858977) 
 - [2022-06-11-兄弟们有长沙这边的公司推荐嘛](https://www.v2ex.com/t/858974) 
 - [2022-06-11-资深-.NET-想转-Java-有啥基于-Spring-Boot-的项目推荐？](https://www.v2ex.com/t/858972) 
 - [2022-06-11-关于一个通过-wireguard-回家访问-NAS-的问题咨询大家。](https://www.v2ex.com/t/858970) 
@@ -1943,9 +1945,6 @@
 - [2022-06-11-pve-有办法设置单台虚拟机的最大带宽吗](https://www.v2ex.com/t/858934) 
 - [2022-06-11-我用-Rust-写了个-WASM-Blog](https://www.v2ex.com/t/858931) 
 - [2022-06-11-win10-台式插音响声音非常小](https://www.v2ex.com/t/858930) 
-- [2022-06-11-C＋-23-将引入标准库模块支持，编译速度提升-10-倍](https://www.v2ex.com/t/858929) 
-- [2022-06-11-出雷电-3-扩展坞，带万兆网络-RJ45](https://www.v2ex.com/t/858928) 
-- [2022-06-11-更改-DNS-后-ds.v6ns.jp2.test-ipv6.com-无法解析](https://www.v2ex.com/t/858927) 
 - [2022-06-11-机器学习不是你想用，想用就能用-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15126&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fwhen-to-use-machine-learning%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-06-11-容器江湖的爱恨情仇-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15125&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fdocker-colima-podman-container%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-06-11-看看你有没有陷入“标签化”客户和-用户-的陷阱？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15124&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fbusiness-analyst-growth%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1966,7 +1965,7 @@
 - [2022-06-11-是时候为Spring-Boot-3.0做准备了](https://toutiao.io/k/v3i8wzb) 
 - [2022-06-11-博文推荐｜BookKeeper---Apache-Pulsar-高可用-/-强一致-/-低延迟的存储实现](https://toutiao.io/k/ut1vrz4) 
 - [2022-06-11-大数据平台迁移实践-|-Apache-DolphinScheduler-在当贝大数据环境中的应用](https://toutiao.io/k/ect2cm7) 
-- [2022-06-11-推荐-消息队列原理和选型：Kafka、RocketMQ-、RabbitMQ-和-ActiveMQ](https://toutiao.io/k/nuwnwro) 
 - [2022-06-11-推荐-架构师成长路线图](https://toutiao.io/k/27b6p2e) 
-- [2022-06-11-推荐-如何写出一篇好的技术方案？](https://toutiao.io/k/gl2cth8) 
 - [2022-06-11-推荐-阿里10年沉淀｜那些技术实战中的架构设计方法](https://toutiao.io/k/e9vlh55) 
+- [2022-06-11-推荐-消息队列原理和选型：Kafka、RocketMQ-、RabbitMQ-和-ActiveMQ](https://toutiao.io/k/nuwnwro) 
+- [2022-06-11-推荐-如何写出一篇好的技术方案？](https://toutiao.io/k/gl2cth8) 

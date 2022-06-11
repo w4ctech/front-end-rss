@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-06-11 17:12:10，:rocket: 更新条数: +2019， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-06-11 17:38:08，:rocket: 更新条数: +2019， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,9 @@
 </summary>
 
 
+- [2022-06-11-吐槽一下使用-Azure-Static-Web-App-的上头经历](https://www.v2ex.com/t/859004) ![](assets/new.png)  
+- [2022-06-11-自荐一个我开发的小工具-typora-upload，专为-markdown-图片上传而生，提升生产力](https://www.v2ex.com/t/859003) ![](assets/new.png)  
+- [2022-06-11-求助-内网搭建软路由后，外网无法访问内网搭建的服务了](https://www.v2ex.com/t/859002) ![](assets/new.png)  
 - [2022-06-11-使用-Apple-TV-无法同时关闭电视](https://www.v2ex.com/t/859001) ![](assets/new.png)  
 - [2022-06-11-怎么优雅的获取-TOML-的动态-map](https://www.v2ex.com/t/859000) ![](assets/new.png)  
 - [2022-06-11-iOS-中，长按网页中的链接到底怎么做才能是打开右键菜单/上下文菜单，而不是拖拽？](https://www.v2ex.com/t/858999) ![](assets/new.png)  
@@ -508,9 +511,6 @@
 - [2022-06-11-我的-21-款-mbp-充电问题，外国人也遇到了。莫非真是-12.4-问题？](https://www.v2ex.com/t/858983) ![](assets/new.png)  
 - [2022-06-11-M1-新-bug，“无法修复的“bug](https://www.v2ex.com/t/858982) ![](assets/new.png)  
 - [2022-06-11-有没有可能直接将网络盘挂载为本地磁盘？](https://www.v2ex.com/t/858981) ![](assets/new.png)  
-- [2022-06-11-k8s-奇怪问题的解决过程](https://www.v2ex.com/t/858980) ![](assets/new.png)  
-- [2022-06-11-如果你想失去一个朋友，那你就借钱给他~](https://www.v2ex.com/t/858978) ![](assets/new.png)  
-- [2022-06-11-小米-11-可以用空气充电了？](https://www.v2ex.com/t/858977) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -564,9 +564,9 @@
 - [2022-06-11-大数据平台迁移实践-|-Apache-DolphinScheduler-在当贝大数据环境中的应用](https://toutiao.io/k/ect2cm7) ![](assets/new.png)  
 - [2022-06-11-Word2Vec-算法推导-&-实现](https://toutiao.io/k/ua818jh) ![](assets/new.png)  
 - [2022-06-11-为什么Hook没有ErrorBoundary？](https://toutiao.io/k/7oq50nk) ![](assets/new.png)  
-- [2022-06-11-推荐-阿里10年沉淀｜那些技术实战中的架构设计方法](https://toutiao.io/k/e9vlh55) ![](assets/new.png)  
-- [2022-06-11-推荐-如何写出一篇好的技术方案？](https://toutiao.io/k/gl2cth8) ![](assets/new.png)  
 - [2022-06-11-推荐-消息队列原理和选型：Kafka、RocketMQ-、RabbitMQ-和-ActiveMQ](https://toutiao.io/k/nuwnwro) ![](assets/new.png)  
+- [2022-06-11-推荐-如何写出一篇好的技术方案？](https://toutiao.io/k/gl2cth8) ![](assets/new.png)  
+- [2022-06-11-推荐-阿里10年沉淀｜那些技术实战中的架构设计方法](https://toutiao.io/k/e9vlh55) ![](assets/new.png)  
 - [2022-06-11-推荐-架构师成长路线图](https://toutiao.io/k/27b6p2e) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

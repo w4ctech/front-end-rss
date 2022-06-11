@@ -9812,6 +9812,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "介绍一种CSS变量未定义语法也OK的小妙招",
+        "link": "https://www.zhangxinxu.com/wordpress/2022/06/css-var-optional-empty-trick/",
+        "date": "2022-06-11"
+      },
+      {
         "title": "如何实现页面刷新后不定位到之前的滚动位置？",
         "link": "https://www.zhangxinxu.com/wordpress/2022/05/history-scrollrestoration/",
         "date": "2022-05-29"
@@ -9855,11 +9860,6 @@
         "title": "ascent-override descent-override line-gap-override一锅端",
         "link": "https://www.zhangxinxu.com/wordpress/2022/03/css-ascent-override-descent/",
         "date": "2022-03-21"
-      },
-      {
-        "title": "基于howler.js写了个音频播放器组件",
-        "link": "https://www.zhangxinxu.com/wordpress/2022/03/howler-js-audio-player/",
-        "date": "2022-03-15"
       }
     ]
   },
@@ -9952,6 +9952,21 @@
     "title": "V2EX",
     "link": "https://www.v2ex.com/",
     "items": [
+      {
+        "title": "使用 Apple TV 无法同时关闭电视",
+        "link": "https://www.v2ex.com/t/859001",
+        "date": "2022-06-11"
+      },
+      {
+        "title": "怎么优雅的获取 TOML 的动态 map",
+        "link": "https://www.v2ex.com/t/859000",
+        "date": "2022-06-11"
+      },
+      {
+        "title": "iOS 中，长按网页中的链接到底怎么做才能是打开右键菜单/上下文菜单，而不是拖拽？",
+        "link": "https://www.v2ex.com/t/858999",
+        "date": "2022-06-11"
+      },
       {
         "title": "请问两台电脑之间该如何配置 git",
         "link": "https://www.v2ex.com/t/858998",
@@ -10126,16 +10141,6 @@
         "title": "eth 怎么了",
         "link": "https://www.v2ex.com/t/858952",
         "date": "2022-06-11"
-      },
-      {
-        "title": "打打联通说要携号转网，联通马上说可以装优惠套餐",
-        "link": "https://www.v2ex.com/t/858951",
-        "date": "2022-06-11"
-      },
-      {
-        "title": "南山水湾租房，求推荐",
-        "link": "https://www.v2ex.com/t/858949",
-        "date": "2022-06-11"
       }
     ]
   },
@@ -10307,8 +10312,13 @@
         "date": "2022-06-11"
       },
       {
-        "title": "[推荐] 架构师成长路线图",
-        "link": "https://toutiao.io/k/27b6p2e",
+        "title": "[推荐] 阿里10年沉淀｜那些技术实战中的架构设计方法",
+        "link": "https://toutiao.io/k/e9vlh55",
+        "date": "2022-06-11"
+      },
+      {
+        "title": "[推荐] 如何写出一篇好的技术方案？",
+        "link": "https://toutiao.io/k/gl2cth8",
         "date": "2022-06-11"
       },
       {
@@ -10317,13 +10327,8 @@
         "date": "2022-06-11"
       },
       {
-        "title": "[推荐] 阿里10年沉淀｜那些技术实战中的架构设计方法",
-        "link": "https://toutiao.io/k/e9vlh55",
-        "date": "2022-06-11"
-      },
-      {
-        "title": "[推荐] 如何写出一篇好的技术方案？",
-        "link": "https://toutiao.io/k/gl2cth8",
+        "title": "[推荐] 架构师成长路线图",
+        "link": "https://toutiao.io/k/27b6p2e",
         "date": "2022-06-11"
       }
     ]

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-06-11 16:50:50。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-06-11 17:12:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1912,6 +1912,9 @@
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2022-03-21-ascent-override-descent-override-line-gap-override一锅端](https://www.zhangxinxu.com/wordpress/2022/03/css-ascent-override-descent/) 
+- [2022-06-11-使用-Apple-TV-无法同时关闭电视](https://www.v2ex.com/t/859001) 
+- [2022-06-11-怎么优雅的获取-TOML-的动态-map](https://www.v2ex.com/t/859000) 
+- [2022-06-11-iOS-中，长按网页中的链接到底怎么做才能是打开右键菜单/上下文菜单，而不是拖拽？](https://www.v2ex.com/t/858999) 
 - [2022-06-11-关于-iterm2-中的-marks-功能，没明白移动到上一个下一个-mark-的作用是什么](https://www.v2ex.com/t/858996) 
 - [2022-06-11-阿里云的服务器数据库被黑了，被勒索要钱恢复数据，报案抓的到这些人吗？有操作经验的来讨论下](https://www.v2ex.com/t/858995) 
 - [2022-06-11-用-crd-控制公有运虚拟机怎么样？创建一个-vm-的-cr，就自动到阿里/腾讯云上买一个虚机](https://www.v2ex.com/t/858993) 
@@ -1939,8 +1942,6 @@
 - [2022-06-11-我就很奇怪，为什么同一个资源迅雷-mac/win-下载的速度能差这么多？](https://www.v2ex.com/t/858954) 
 - [2022-06-11-还有没有用-tp-c7v2-us-版固件的，貌似-ipv6-有问题](https://www.v2ex.com/t/858953) 
 - [2022-06-11-eth-怎么了](https://www.v2ex.com/t/858952) 
-- [2022-06-11-打打联通说要携号转网，联通马上说可以装优惠套餐](https://www.v2ex.com/t/858951) 
-- [2022-06-11-南山水湾租房，求推荐](https://www.v2ex.com/t/858949) 
 - [2022-06-11-机器学习不是你想用，想用就能用-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15126&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fwhen-to-use-machine-learning%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-06-11-容器江湖的爱恨情仇-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15125&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fdocker-colima-podman-container%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-06-11-看看你有没有陷入“标签化”客户和-用户-的陷阱？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15124&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fbusiness-analyst-growth%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1961,7 +1962,7 @@
 - [2022-06-11-欢迎加入读者圈子，一起交流！](https://toutiao.io/k/h3qlj72) 
 - [2022-06-11-博文推荐｜BookKeeper---Apache-Pulsar-高可用-/-强一致-/-低延迟的存储实现](https://toutiao.io/k/ut1vrz4) 
 - [2022-06-11-大数据平台迁移实践-|-Apache-DolphinScheduler-在当贝大数据环境中的应用](https://toutiao.io/k/ect2cm7) 
-- [2022-06-11-推荐-架构师成长路线图](https://toutiao.io/k/27b6p2e) 
-- [2022-06-11-推荐-消息队列原理和选型：Kafka、RocketMQ-、RabbitMQ-和-ActiveMQ](https://toutiao.io/k/nuwnwro) 
 - [2022-06-11-推荐-阿里10年沉淀｜那些技术实战中的架构设计方法](https://toutiao.io/k/e9vlh55) 
 - [2022-06-11-推荐-如何写出一篇好的技术方案？](https://toutiao.io/k/gl2cth8) 
+- [2022-06-11-推荐-消息队列原理和选型：Kafka、RocketMQ-、RabbitMQ-和-ActiveMQ](https://toutiao.io/k/nuwnwro) 
+- [2022-06-11-推荐-架构师成长路线图](https://toutiao.io/k/27b6p2e) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-06-11 03:43:49。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-06-11 04:18:34。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -19,5 +19,6 @@
 - [2022-04-27-小tips:-JS字体加载失败或完毕的检测](https://www.zhangxinxu.com/wordpress/2022/04/js-font-face-load/) 
 - [2022-04-22-CSS实现滚动高度自动变小的粘滞效果](https://www.zhangxinxu.com/wordpress/2022/04/css-sticky-size-change/) 
 - [2022-03-15-基于howler.js写了个音频播放器组件](https://www.zhangxinxu.com/wordpress/2022/03/howler-js-audio-player/) 
+- [2022-06-11-红米路由器无法使用](https://www.v2ex.com/t/858869) 
 - [2022-06-10-新项目再轮-asyncio-实现：-kLoop](https://www.v2ex.com/t/858837) 
 - [2022-06-11-C++异步从理论到实践总览篇](https://toutiao.io/k/3zwk82u) 

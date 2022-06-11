@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-06-11 00:58:40，:rocket: 更新条数: +2020， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-06-11 02:56:21，:rocket: 更新条数: +2021， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,12 @@
 </summary>
 
 
+- [2022-06-11-如何根据-Google-邮件自动在-Google-Calendar-里创建-Events？](https://www.v2ex.com/t/858855) ![](assets/new.png)  
+- [2022-06-11-App-Store-中的-Onedrive-已更新为-Universal-版本](https://www.v2ex.com/t/858852) ![](assets/new.png)  
+- [2022-06-11-WWDC.playground-第五日活动：回顾-WWDC22](https://www.v2ex.com/t/858850) ![](assets/new.png)  
+- [2022-06-11-为什么软件-BUG-遇到程序员后自己就会消失](https://www.v2ex.com/t/858849) ![](assets/new.png)  
+- [2022-06-11-👩🏼「MAGI-System」-一键决议系统](https://www.v2ex.com/t/858847) ![](assets/new.png)  
+- [2022-06-11-新主板背面油光锃亮的，这河里么？](https://www.v2ex.com/t/858846) ![](assets/new.png)  
 - [2022-06-11-有没有-rsshub-镜像或者替代的，用来转网易云播客订阅到苹果播客里面，免挂-t-的](https://www.v2ex.com/t/858845) ![](assets/new.png)  
 - [2022-06-11-咋没一个聊暗黑不朽的](https://www.v2ex.com/t/858844) ![](assets/new.png)  
 - [2022-06-11-N1-性能捉襟见肘，如今还有哪款神器可以接续](https://www.v2ex.com/t/858843) ![](assets/new.png)  
@@ -505,12 +511,6 @@
 - [2022-06-10-🚗-硅谷宝藏-FinTech-公司新职位开放-🌟-100%远程+期权+各种福利补贴](https://www.v2ex.com/t/858834) ![](assets/new.png)  
 - [2022-06-10-公众号开发，接收表情-消息提示-收到不支持的消息类型，暂无法显示](https://www.v2ex.com/t/858833) ![](assets/new.png)  
 - [2022-06-10-刚看完了图灵关于-AI-的论文,非常震撼!](https://www.v2ex.com/t/858832) ![](assets/new.png)  
-- [2022-06-10-ocr-时，怎么才能让终端不输出-libpng-warning:-iCCP:-profile-'ICC-Profile':-'RGB-':-RGB-color-space-not-permitted-on-grayscale-PNG](https://www.v2ex.com/t/858831) ![](assets/new.png)  
-- [2022-06-10-2022-年了，有什么-4K、便宜的显示器推荐吗？](https://www.v2ex.com/t/858830) ![](assets/new.png)  
-- [2022-06-10-有人在-Bing-Ads-工作过吗？感觉怎么样？](https://www.v2ex.com/t/858829) ![](assets/new.png)  
-- [2022-06-10-想问下用过-Nexus5x-的有多少人🤣🤣🤣🤣🤣](https://www.v2ex.com/t/858828) ![](assets/new.png)  
-- [2022-06-10-对-Java-之泛型通配符-?extends-T-的认知-和-?-super-T-一些理解](https://www.v2ex.com/t/858827) ![](assets/new.png)  
-- [2022-06-10-各位长跑的步频是多少？-基普乔格的步频是多少呢？](https://www.v2ex.com/t/858826) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -555,14 +555,18 @@
 
 - [2022-06-11-欢迎加入读者圈子，一起交流！](https://toutiao.io/k/h3qlj72) ![](assets/new.png)  
 - [2022-06-11-为什么你需要关注软件架构？](https://toutiao.io/k/g9j0b7r) ![](assets/new.png)  
-- [2022-06-11-C++异步从理论到实践总览篇](https://toutiao.io/k/3zwk82u) ![](assets/new.png)  
 - [2022-06-11-是时候为Spring-Boot-3.0做准备了](https://toutiao.io/k/v3i8wzb) ![](assets/new.png)  
+- [2022-06-11-C++异步从理论到实践总览篇](https://toutiao.io/k/3zwk82u) ![](assets/new.png)  
 - [2022-06-11-前端必学的动画实现思路](https://toutiao.io/k/4l238n9) ![](assets/new.png)  
-- [2022-06-11-推荐-性能提升40倍——线上真实重构案例分享](https://toutiao.io/k/izbqpxo) ![](assets/new.png)  
-- [2022-06-11-推荐-阿里10年沉淀｜那些技术实战中的架构设计方法](https://toutiao.io/k/e9vlh55) ![](assets/new.png)  
+- [2022-06-11-两小时-Elasticsearch-性能优化，直接把慢查询干团灭了……](https://toutiao.io/k/n63tqet) ![](assets/new.png)  
+- [2022-06-11-Word2Vec-算法推导-&-实现](https://toutiao.io/k/ua818jh) ![](assets/new.png)  
+- [2022-06-11-大数据平台迁移实践-|-Apache-DolphinScheduler-在当贝大数据环境中的应用](https://toutiao.io/k/ect2cm7) ![](assets/new.png)  
+- [2022-06-11-博文推荐｜BookKeeper---Apache-Pulsar-高可用-/-强一致-/-低延迟的存储实现](https://toutiao.io/k/ut1vrz4) ![](assets/new.png)  
 - [2022-06-11-推荐-如何写出一篇好的技术方案？](https://toutiao.io/k/gl2cth8) ![](assets/new.png)  
-- [2022-06-11-推荐-消息队列原理和选型：Kafka、RocketMQ-、RabbitMQ-和-ActiveMQ](https://toutiao.io/k/nuwnwro) ![](assets/new.png)  
+- [2022-06-11-推荐-阿里10年沉淀｜那些技术实战中的架构设计方法](https://toutiao.io/k/e9vlh55) ![](assets/new.png)  
 - [2022-06-11-推荐-架构师成长路线图](https://toutiao.io/k/27b6p2e) ![](assets/new.png)  
+- [2022-06-11-推荐-性能提升40倍——线上真实重构案例分享](https://toutiao.io/k/izbqpxo) ![](assets/new.png)  
+- [2022-06-11-推荐-消息队列原理和选型：Kafka、RocketMQ-、RabbitMQ-和-ActiveMQ](https://toutiao.io/k/nuwnwro) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-06-11 00:58:41。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-06-11 02:56:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -260,6 +260,7 @@
 - [【V2EX】请教一下-mysql-longtext-字段优化](https://www.v2ex.com/t/858811)
 - [【技术头条】性能指标的信仰危机-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15122&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fperformance-indicator%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【技术头条】在-Apache-Cassandra-中定义和优化数据分区-linux.cn](https://blogread.cn/news/go.php?idItem=15109&url=https%3A%2F%2Flinux.cn%2Farticle-13908-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
+- [【开发者头条】两小时-Elasticsearch-性能优化，直接把慢查询干团灭了……](https://toutiao.io/k/n63tqet)
 - [【开发者头条】推荐-性能提升40倍——线上真实重构案例分享](https://toutiao.io/k/izbqpxo)
 - [......【查看更多】......](./details/tags/optimization.md)
 
@@ -301,6 +302,7 @@
 
 
 - [【V2EX】https://developpaper.com/-这个站是什么来头？](https://www.v2ex.com/t/858835)
+- [【开发者头条】Word2Vec-算法推导-&-实现](https://toutiao.io/k/ua818jh)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

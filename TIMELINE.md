@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-06-11 17:38:08。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-06-11 18:15:43。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -69,6 +69,7 @@
 
 
 - [【张鑫旭-鑫空间-鑫生活】2022-06-11-介绍一种CSS变量未定义语法也OK的小妙招](https://www.zhangxinxu.com/wordpress/2022/06/css-var-optional-empty-trick/) 
+- [【V2EX】2022-06-11-有兄弟有类似情况吗？冥想管用吗？](https://www.v2ex.com/t/859005) 
 - [【V2EX】2022-06-11-吐槽一下使用-Azure-Static-Web-App-的上头经历](https://www.v2ex.com/t/859004) 
 - [【V2EX】2022-06-11-自荐一个我开发的小工具-typora-upload，专为-markdown-图片上传而生，提升生产力](https://www.v2ex.com/t/859003) 
 - [【V2EX】2022-06-11-求助-内网搭建软路由后，外网无法访问内网搭建的服务了](https://www.v2ex.com/t/859002) 

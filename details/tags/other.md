@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-06-11 17:38:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-06-11 18:15:43。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1912,6 +1912,7 @@
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2022-03-21-ascent-override-descent-override-line-gap-override一锅端](https://www.zhangxinxu.com/wordpress/2022/03/css-ascent-override-descent/) 
+- [2022-06-11-有兄弟有类似情况吗？冥想管用吗？](https://www.v2ex.com/t/859005) 
 - [2022-06-11-吐槽一下使用-Azure-Static-Web-App-的上头经历](https://www.v2ex.com/t/859004) 
 - [2022-06-11-自荐一个我开发的小工具-typora-upload，专为-markdown-图片上传而生，提升生产力](https://www.v2ex.com/t/859003) 
 - [2022-06-11-使用-Apple-TV-无法同时关闭电视](https://www.v2ex.com/t/859001) 

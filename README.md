@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-06-11 17:38:08，:rocket: 更新条数: +2019， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-06-11 18:15:43，:rocket: 更新条数: +2020， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-06-11-有兄弟有类似情况吗？冥想管用吗？](https://www.v2ex.com/t/859005) ![](assets/new.png)  
 - [2022-06-11-吐槽一下使用-Azure-Static-Web-App-的上头经历](https://www.v2ex.com/t/859004) ![](assets/new.png)  
 - [2022-06-11-自荐一个我开发的小工具-typora-upload，专为-markdown-图片上传而生，提升生产力](https://www.v2ex.com/t/859003) ![](assets/new.png)  
 - [2022-06-11-求助-内网搭建软路由后，外网无法访问内网搭建的服务了](https://www.v2ex.com/t/859002) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-06-11-iMac-什么时候能更新成-M2-芯片？](https://www.v2ex.com/t/858984) ![](assets/new.png)  
 - [2022-06-11-我的-21-款-mbp-充电问题，外国人也遇到了。莫非真是-12.4-问题？](https://www.v2ex.com/t/858983) ![](assets/new.png)  
 - [2022-06-11-M1-新-bug，“无法修复的“bug](https://www.v2ex.com/t/858982) ![](assets/new.png)  
-- [2022-06-11-有没有可能直接将网络盘挂载为本地磁盘？](https://www.v2ex.com/t/858981) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

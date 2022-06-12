@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-06-12 10:39:55。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-06-12 11:11:39。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1912,6 +1912,8 @@
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2022-03-21-ascent-override-descent-override-line-gap-override一锅端](https://www.zhangxinxu.com/wordpress/2022/03/css-ascent-override-descent/) 
+- [2022-06-12-如何手动迁移国区-iCloud-到-com.cn-域名](https://www.v2ex.com/t/859105) 
+- [2022-06-12-苹果自带地图的兴趣点数据（不是道路数据）是跟高德地图实时同步更新的。我之前在高德地图新增了一个地点后，苹果自带地图也能搜到。](https://www.v2ex.com/t/859101) 
 - [2022-06-12-聊聊-618-什么笔记本香吧](https://www.v2ex.com/t/859099) 
 - [2022-06-12-Magisk-顶级开发者居然都是国人](https://www.v2ex.com/t/859097) 
 - [2022-06-12-求问宁波大专教师的待遇](https://www.v2ex.com/t/859096) 
@@ -1939,10 +1941,6 @@
 - [2022-06-12-xdm-问个问题上海户口有啥用](https://www.v2ex.com/t/859060) 
 - [2022-06-12-大家觉得-MBP-2021-的高刷屏用着区别大吗？](https://www.v2ex.com/t/859058) 
 - [2022-06-12-分享一下如何免-ROOT-隐藏状态栏-NFC/闹钟等图标](https://www.v2ex.com/t/859057) 
-- [2022-06-12-苹果的刀法越来越精准了，大家的选择焦虑症是增加了还是降低了？](https://www.v2ex.com/t/859055) 
-- [2022-06-12-Klang-量化知识分享会--《宽客》读书会-1-1](https://www.v2ex.com/t/859053) 
-- [2022-06-12-618-想买的东西，-V-友有没有推荐的](https://www.v2ex.com/t/859052) 
-- [2022-06-12-有图床图片增强插件吗？](https://www.v2ex.com/t/859050) 
 - [2022-06-12-机器学习不是你想用，想用就能用-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15126&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fwhen-to-use-machine-learning%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-06-12-容器江湖的爱恨情仇-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15125&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fdocker-colima-podman-container%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-06-12-看看你有没有陷入“标签化”客户和-用户-的陷阱？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15124&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fbusiness-analyst-growth%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1963,7 +1961,7 @@
 - [2022-06-12-go-zero-微服务实战系列（二、服务拆分）](https://toutiao.io/k/gipty7q) 
 - [2022-06-12-团队管理｜如何提高技术Leader的思考技巧？](https://toutiao.io/k/f3496vg) 
 - [2022-06-12-相忘于江湖，追逐于区块链](https://toutiao.io/k/j15dsas) 
-- [2022-06-12-推荐-架构师成长路线图](https://toutiao.io/k/27b6p2e) 
-- [2022-06-12-推荐-阿里10年沉淀｜那些技术实战中的架构设计方法](https://toutiao.io/k/e9vlh55) 
 - [2022-06-12-推荐-消息队列原理和选型：Kafka、RocketMQ-、RabbitMQ-和-ActiveMQ](https://toutiao.io/k/nuwnwro) 
+- [2022-06-12-推荐-阿里10年沉淀｜那些技术实战中的架构设计方法](https://toutiao.io/k/e9vlh55) 
 - [2022-06-12-推荐-如何写出一篇好的技术方案？](https://toutiao.io/k/gl2cth8) 
+- [2022-06-12-推荐-架构师成长路线图](https://toutiao.io/k/27b6p2e) 

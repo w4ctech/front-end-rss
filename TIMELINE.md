@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-06-12 23:13:24。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-06-12 23:38:46。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -146,10 +146,10 @@
 - [【开发者头条】2022-06-12-相忘于江湖，追逐于区块链](https://toutiao.io/k/j15dsas) 
 - [【开发者头条】2022-06-12-基于-eBPF-的开源项目-eCapture-介绍：无需-CA-证书抓-https-网络明文通讯](https://toutiao.io/k/5mgyt8c) 
 - [【开发者头条】2022-06-12-这个项目准备录制视频教程啦](https://toutiao.io/k/uhayjmd) 
+- [【开发者头条】2022-06-12-推荐-总监的烦恼：技术丢了怎么办？](https://toutiao.io/k/rzytby1) 
+- [【开发者头条】2022-06-12-推荐-架构师成长路线图](https://toutiao.io/k/27b6p2e) 
 - [【开发者头条】2022-06-12-推荐-如何写出一篇好的技术方案？](https://toutiao.io/k/gl2cth8) 
 - [【开发者头条】2022-06-12-推荐-消息队列原理和选型：Kafka、RocketMQ-、RabbitMQ-和-ActiveMQ](https://toutiao.io/k/nuwnwro) 
-- [【开发者头条】2022-06-12-推荐-架构师成长路线图](https://toutiao.io/k/27b6p2e) 
-- [【开发者头条】2022-06-12-推荐-总监的烦恼：技术丢了怎么办？](https://toutiao.io/k/rzytby1) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

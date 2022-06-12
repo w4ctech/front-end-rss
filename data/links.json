@@ -9812,6 +9812,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "基于文字的URL锚点定位与::target-text样式设置",
+        "link": "https://www.zhangxinxu.com/wordpress/2022/06/url-anchor-target-text/",
+        "date": "2022-06-12"
+      },
+      {
         "title": "介绍一种CSS变量未定义语法也OK的小妙招",
         "link": "https://www.zhangxinxu.com/wordpress/2022/06/css-var-optional-empty-trick/",
         "date": "2022-06-11"
@@ -9855,11 +9860,6 @@
         "title": "使用CSS size-adjust和unicode-range改变任意文字尺寸",
         "link": "https://www.zhangxinxu.com/wordpress/2022/03/css-size-adjust-font-unicode-range/",
         "date": "2022-03-27"
-      },
-      {
-        "title": "ascent-override descent-override line-gap-override一锅端",
-        "link": "https://www.zhangxinxu.com/wordpress/2022/03/css-ascent-override-descent/",
-        "date": "2022-03-21"
       }
     ]
   },
@@ -9952,6 +9952,51 @@
     "title": "V2EX",
     "link": "https://www.v2ex.com/",
     "items": [
+      {
+        "title": "深圳注册公司的坑，一些经验分享（视频和文档）",
+        "link": "https://www.v2ex.com/t/859166",
+        "date": "2022-06-12"
+      },
+      {
+        "title": "hhkb hybrid / classic / 客制化 选择",
+        "link": "https://www.v2ex.com/t/859165",
+        "date": "2022-06-12"
+      },
+      {
+        "title": "周末看新东方直播",
+        "link": "https://www.v2ex.com/t/859164",
+        "date": "2022-06-12"
+      },
+      {
+        "title": "即使不处于苹果自带地图的导航中，也能报告交通异常状况。那么大家看到交通异常状况就可以随手拿起 iPhone 跟 Siri 报告。",
+        "link": "https://www.v2ex.com/t/859163",
+        "date": "2022-06-12"
+      },
+      {
+        "title": "我还在和设计缠斗 后端已经和老板谈笑风生了",
+        "link": "https://www.v2ex.com/t/859162",
+        "date": "2022-06-12"
+      },
+      {
+        "title": "谷歌浏览器无法打开 v2 可能什么原因呢?",
+        "link": "https://www.v2ex.com/t/859161",
+        "date": "2022-06-12"
+      },
+      {
+        "title": "我怎么觉得 Java 的 JNI 比 Go 的 CGO 要好呢？",
+        "link": "https://www.v2ex.com/t/859160",
+        "date": "2022-06-12"
+      },
+      {
+        "title": "有 V 友知道这张图中的人物是什么吗？",
+        "link": "https://www.v2ex.com/t/859159",
+        "date": "2022-06-12"
+      },
+      {
+        "title": "15.6 寸 4k 便携显示器配 mbp 行不行？",
+        "link": "https://www.v2ex.com/t/859158",
+        "date": "2022-06-12"
+      },
       {
         "title": "有人愿意一起做网购联盟的吗？",
         "link": "https://www.v2ex.com/t/859157",
@@ -10126,46 +10171,6 @@
         "title": "你为了撸好自己的代码，为此做过哪些出大血，砸大钱的事情？",
         "link": "https://www.v2ex.com/t/859118",
         "date": "2022-06-12"
-      },
-      {
-        "title": "请问有什么站点工具或软件，可以获取视频或图片的地理位置呢？",
-        "link": "https://www.v2ex.com/t/859116",
-        "date": "2022-06-12"
-      },
-      {
-        "title": "请问小时候玩的小鸟游戏，是怎么实现的？",
-        "link": "https://www.v2ex.com/t/859115",
-        "date": "2022-06-12"
-      },
-      {
-        "title": "吐槽： Windows 竟然没有 rsync...",
-        "link": "https://www.v2ex.com/t/859114",
-        "date": "2022-06-12"
-      },
-      {
-        "title": "b 和 e 之间看些大佬看法很极端，有没有大佬理性讲讲",
-        "link": "https://www.v2ex.com/t/859113",
-        "date": "2022-06-12"
-      },
-      {
-        "title": "分享一个我写的 Java 开源项目，能快速搭建开放 api 的 sdk",
-        "link": "https://www.v2ex.com/t/859112",
-        "date": "2022-06-12"
-      },
-      {
-        "title": "老人不会用智能手机，有什么简单易用的可以视频通话的硬件设备吗？",
-        "link": "https://www.v2ex.com/t/859111",
-        "date": "2022-06-12"
-      },
-      {
-        "title": "前端开发 RN macbook air 还是 pro ？",
-        "link": "https://www.v2ex.com/t/859109",
-        "date": "2022-06-12"
-      },
-      {
-        "title": "M2 Macbook Air 没风扇对你来说是优点还是缺点？",
-        "link": "https://www.v2ex.com/t/859108",
-        "date": "2022-06-12"
       }
     ]
   },
@@ -10302,13 +10307,13 @@
         "date": "2022-06-12"
       },
       {
-        "title": "go-zero 微服务实战系列（二、服务拆分）",
-        "link": "https://toutiao.io/k/gipty7q",
+        "title": "团队管理｜如何提高技术Leader的思考技巧？",
+        "link": "https://toutiao.io/k/f3496vg",
         "date": "2022-06-12"
       },
       {
-        "title": "团队管理｜如何提高技术Leader的思考技巧？",
-        "link": "https://toutiao.io/k/f3496vg",
+        "title": "go-zero 微服务实战系列（二、服务拆分）",
+        "link": "https://toutiao.io/k/gipty7q",
         "date": "2022-06-12"
       },
       {
@@ -10332,13 +10337,13 @@
         "date": "2022-06-12"
       },
       {
-        "title": "[推荐] 阿里10年沉淀｜那些技术实战中的架构设计方法",
-        "link": "https://toutiao.io/k/e9vlh55",
+        "title": "[推荐] 架构师成长路线图",
+        "link": "https://toutiao.io/k/27b6p2e",
         "date": "2022-06-12"
       },
       {
-        "title": "[推荐] 架构师成长路线图",
-        "link": "https://toutiao.io/k/27b6p2e",
+        "title": "[推荐] 总监的烦恼：技术丢了怎么办？",
+        "link": "https://toutiao.io/k/rzytby1",
         "date": "2022-06-12"
       },
       {

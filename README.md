@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-06-12 15:40:35，:rocket: 更新条数: +2023， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-06-12 16:17:18，:rocket: 更新条数: +2024， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -316,6 +316,7 @@
 </summary>
 
 
+- [2022-06-12-基于文字的URL锚点定位与::target-text样式设置](https://www.zhangxinxu.com/wordpress/2022/06/url-anchor-target-text/) ![](assets/new.png)  
 - [2022-06-11-介绍一种CSS变量未定义语法也OK的小妙招](https://www.zhangxinxu.com/wordpress/2022/06/css-var-optional-empty-trick/) ![](assets/new.png)  
 - [2022-05-29-如何实现页面刷新后不定位到之前的滚动位置？](https://www.zhangxinxu.com/wordpress/2022/05/history-scrollrestoration/) ![](assets/new.png)  
 - [2022-05-28-详解日后定会大规模使用的CSS-@layer-规则](https://www.zhangxinxu.com/wordpress/2022/05/css-layer-rule/) ![](assets/new.png)  
@@ -325,7 +326,6 @@
 - [2022-04-27-小tips:-JS字体加载失败或完毕的检测](https://www.zhangxinxu.com/wordpress/2022/04/js-font-face-load/) ![](assets/new.png)  
 - [2022-04-22-CSS实现滚动高度自动变小的粘滞效果](https://www.zhangxinxu.com/wordpress/2022/04/css-sticky-size-change/) ![](assets/new.png)  
 - [2022-03-27-使用CSS-size-adjust和unicode-range改变任意文字尺寸](https://www.zhangxinxu.com/wordpress/2022/03/css-size-adjust-font-unicode-range/) ![](assets/new.png)  
-- [2022-03-21-ascent-override-descent-override-line-gap-override一锅端](https://www.zhangxinxu.com/wordpress/2022/03/css-ascent-override-descent/) ![](assets/new.png)  
 - [......【查看更多】......](./details/张鑫旭-鑫空间-鑫生活.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -491,6 +491,15 @@
 </summary>
 
 
+- [2022-06-12-深圳注册公司的坑，一些经验分享（视频和文档）](https://www.v2ex.com/t/859166) ![](assets/new.png)  
+- [2022-06-12-hhkb-hybrid-/-classic-/-客制化-选择](https://www.v2ex.com/t/859165) ![](assets/new.png)  
+- [2022-06-12-周末看新东方直播](https://www.v2ex.com/t/859164) ![](assets/new.png)  
+- [2022-06-12-即使不处于苹果自带地图的导航中，也能报告交通异常状况。那么大家看到交通异常状况就可以随手拿起-iPhone-跟-Siri-报告。](https://www.v2ex.com/t/859163) ![](assets/new.png)  
+- [2022-06-12-我还在和设计缠斗-后端已经和老板谈笑风生了](https://www.v2ex.com/t/859162) ![](assets/new.png)  
+- [2022-06-12-谷歌浏览器无法打开-v2-可能什么原因呢?](https://www.v2ex.com/t/859161) ![](assets/new.png)  
+- [2022-06-12-我怎么觉得-Java-的-JNI-比-Go-的-CGO-要好呢？](https://www.v2ex.com/t/859160) ![](assets/new.png)  
+- [2022-06-12-有-V-友知道这张图中的人物是什么吗？](https://www.v2ex.com/t/859159) ![](assets/new.png)  
+- [2022-06-12-15.6-寸-4k-便携显示器配-mbp-行不行？](https://www.v2ex.com/t/859158) ![](assets/new.png)  
 - [2022-06-12-有人愿意一起做网购联盟的吗？](https://www.v2ex.com/t/859157) ![](assets/new.png)  
 - [2022-06-12-求助-Unity-有什么比较好的入门教程吗](https://www.v2ex.com/t/859154) ![](assets/new.png)  
 - [2022-06-12-关于-openclash、adguard-服务配置问题，求助！](https://www.v2ex.com/t/859153) ![](assets/new.png)  
@@ -502,15 +511,6 @@
 - [2022-06-12-字节跳动大力智能还能去吗](https://www.v2ex.com/t/859147) ![](assets/new.png)  
 - [2022-06-12-现在有哪些主流的博客程序？](https://www.v2ex.com/t/859146) ![](assets/new.png)  
 - [2022-06-12-有没有机场稳定性评测？](https://www.v2ex.com/t/859145) ![](assets/new.png)  
-- [2022-06-12-关于父母帮忙带娃这事，你们有遇到什么两难吗](https://www.v2ex.com/t/859144) ![](assets/new.png)  
-- [2022-06-12-骑行的时候，带骨传导耳机靠谱吗？](https://www.v2ex.com/t/859143) ![](assets/new.png)  
-- [2022-06-12-花钱请人装黑苹果是真的爽](https://www.v2ex.com/t/859142) ![](assets/new.png)  
-- [2022-06-12-什么时候可以买到-1500-到-2000-的-3060ti-啊](https://www.v2ex.com/t/859141) ![](assets/new.png)  
-- [2022-06-12-macOS-腾讯会议为什么默认就有麦克风/摄像头权限？](https://www.v2ex.com/t/859140) ![](assets/new.png)  
-- [2022-06-12-WebGL/图形-2-年多图形经验，广州求职](https://www.v2ex.com/t/859139) ![](assets/new.png)  
-- [2022-06-12-2022-年了-shopee-还值得去吗](https://www.v2ex.com/t/859138) ![](assets/new.png)  
-- [2022-06-12-京东读书是真的🐶，-M1-mac-无法运行](https://www.v2ex.com/t/859137) ![](assets/new.png)  
-- [2022-06-12-做了个可以将任意文件夹设置为桌面文件夹的小小软件](https://www.v2ex.com/t/859136) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -557,14 +557,14 @@
 - [2022-06-12-支持10X增长，携程机票订单库Sharding实践](https://toutiao.io/k/cp43o8k) ![](assets/new.png)  
 - [2022-06-12-You-Only-Live-Once？](https://toutiao.io/k/rr0kakz) ![](assets/new.png)  
 - [2022-06-12-腾讯信息流亿级相似视频识别技术架构优化实践](https://toutiao.io/k/0esxgh4) ![](assets/new.png)  
-- [2022-06-12-go-zero-微服务实战系列（二、服务拆分）](https://toutiao.io/k/gipty7q) ![](assets/new.png)  
 - [2022-06-12-团队管理｜如何提高技术Leader的思考技巧？](https://toutiao.io/k/f3496vg) ![](assets/new.png)  
+- [2022-06-12-go-zero-微服务实战系列（二、服务拆分）](https://toutiao.io/k/gipty7q) ![](assets/new.png)  
 - [2022-06-12-VUE开发者必须知道的实用技术点！](https://toutiao.io/k/u28xok7) ![](assets/new.png)  
 - [2022-06-12-相忘于江湖，追逐于区块链](https://toutiao.io/k/j15dsas) ![](assets/new.png)  
 - [2022-06-12-基于-eBPF-的开源项目-eCapture-介绍：无需-CA-证书抓-https-网络明文通讯](https://toutiao.io/k/5mgyt8c) ![](assets/new.png)  
 - [2022-06-12-这个项目准备录制视频教程啦](https://toutiao.io/k/uhayjmd) ![](assets/new.png)  
-- [2022-06-12-推荐-阿里10年沉淀｜那些技术实战中的架构设计方法](https://toutiao.io/k/e9vlh55) ![](assets/new.png)  
 - [2022-06-12-推荐-架构师成长路线图](https://toutiao.io/k/27b6p2e) ![](assets/new.png)  
+- [2022-06-12-推荐-总监的烦恼：技术丢了怎么办？](https://toutiao.io/k/rzytby1) ![](assets/new.png)  
 - [2022-06-12-推荐-如何写出一篇好的技术方案？](https://toutiao.io/k/gl2cth8) ![](assets/new.png)  
 - [2022-06-12-推荐-消息队列原理和选型：Kafka、RocketMQ-、RabbitMQ-和-ActiveMQ](https://toutiao.io/k/nuwnwro) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)

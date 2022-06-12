@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-06-12 15:40:35。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-06-12 16:17:18。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -154,7 +154,6 @@
 
 
 
-- [【V2EX】请问小时候玩的小鸟游戏，是怎么实现的？](https://www.v2ex.com/t/859115)
 - [【技术头条】4个Python编程游戏网站，玩嗨了~-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15120&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494149%26amp%3Bidx%3D1%26amp%3Bsn%3D7525aafe254b1a8017fee638cc5f3340%26amp%3Bchksm%3Dfa3f0b5ecd4882481060c4ccceff14d66ac9348089028ca145d07a17dbd153e46155fb2e0138%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [......【查看更多】......](./details/tags/dev-game.md)
 
@@ -240,9 +239,9 @@
 
 - [【武汉肺炎防疫全纪录(财新网)】广州17岁男生在定点医院参加高考-特殊考场视频监考](https://m.caixin.com/m/2021-06-05/101723418.html)
 - [【武汉肺炎防疫全纪录(财新网)】林郑月娥率13高官直播接种科兴疫苗-复星疫苗预计周中到港](https://m.caixin.com/m/2021-02-22/101665724.html)
+- [【V2EX】深圳注册公司的坑，一些经验分享（视频和文档）](https://www.v2ex.com/t/859166)
+- [【V2EX】周末看新东方直播](https://www.v2ex.com/t/859164)
 - [【V2EX】macOS-腾讯会议为什么默认就有麦克风/摄像头权限？](https://www.v2ex.com/t/859140)
-- [【V2EX】请问有什么站点工具或软件，可以获取视频或图片的地理位置呢？](https://www.v2ex.com/t/859116)
-- [【V2EX】老人不会用智能手机，有什么简单易用的可以视频通话的硬件设备吗？](https://www.v2ex.com/t/859111)
 - [【开发者头条】腾讯信息流亿级相似视频识别技术架构优化实践](https://toutiao.io/k/0esxgh4)
 - [【开发者头条】这个项目准备录制视频教程啦](https://toutiao.io/k/uhayjmd)
 - [......【查看更多】......](./details/tags/audio-video.md)
@@ -285,6 +284,8 @@
 - [【武汉肺炎防疫全纪录(财新网)】腺病毒新冠疫苗引安全忧虑-康希诺称未发现血栓病例](https://m.caixin.com/m/2021-04-14/101691086.html)
 - [【武汉肺炎防疫全纪录(财新网)】解药|新冠mRNA疫苗安全性有哪些挑战？](https://m.caixin.com/m/2021-01-08/101648043.html)
 - [【武汉肺炎防疫全纪录(财新网)】大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html)
+- [【张鑫旭-鑫空间-鑫生活】基于文字的URL锚点定位与::target-text样式设置](https://www.zhangxinxu.com/wordpress/2022/06/url-anchor-target-text/)
+- [【V2EX】谷歌浏览器无法打开-v2-可能什么原因呢?](https://www.v2ex.com/t/859161)
 - [......【查看更多】......](./details/tags/browser.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

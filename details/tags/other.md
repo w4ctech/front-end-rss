@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-06-12 16:17:18。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-06-12 16:51:45。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,9 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-06-12-怎么不浪费通勤时间呢？](https://www.v2ex.com/t/859169) 
+- [2022-06-12-Urara：开源联邦式静态博客启动器](https://www.v2ex.com/t/859168) 
+- [2022-06-12-2022-年在哪注册和续费-org-域名最划算?](https://www.v2ex.com/t/859167) 
 - [2022-06-12-hhkb-hybrid-/-classic-/-客制化-选择](https://www.v2ex.com/t/859165) 
 - [2022-06-12-即使不处于苹果自带地图的导航中，也能报告交通异常状况。那么大家看到交通异常状况就可以随手拿起-iPhone-跟-Siri-报告。](https://www.v2ex.com/t/859163) 
 - [2022-06-12-我还在和设计缠斗-后端已经和老板谈笑风生了](https://www.v2ex.com/t/859162) 
@@ -1947,8 +1950,6 @@
 - [2022-06-12-Python-现代化打包应用到-exe-的方式？](https://www.v2ex.com/t/859122) 
 - [2022-06-12-求助-M1-安装-Homebrew，安装后-search-cask，但结果未陈列出目标](https://www.v2ex.com/t/859121) 
 - [2022-06-12-macbookair2015-上面取下来一块固态硬盘，可以加个硬盘盒子改装成大-U-盘吗](https://www.v2ex.com/t/859120) 
-- [2022-06-12-Apple-Watch-的续航提升思路](https://www.v2ex.com/t/859119) 
-- [2022-06-12-你为了撸好自己的代码，为此做过哪些出大血，砸大钱的事情？](https://www.v2ex.com/t/859118) 
 - [2022-06-12-机器学习不是你想用，想用就能用-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15126&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fwhen-to-use-machine-learning%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-06-12-容器江湖的爱恨情仇-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15125&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fdocker-colima-podman-container%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-06-12-看看你有没有陷入“标签化”客户和-用户-的陷阱？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15124&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fbusiness-analyst-growth%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

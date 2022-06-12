@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-06-12 01:04:14，:rocket: 更新条数: +2016， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-06-12 03:15:10，:rocket: 更新条数: +2019， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,26 +491,26 @@
 </summary>
 
 
+- [2022-06-12-ubuntu-20.04-utc-时间不正确](https://www.v2ex.com/t/859035) ![](assets/new.png)  
+- [2022-06-12-大家平时怎么了解国外新闻的](https://www.v2ex.com/t/859034) ![](assets/new.png)  
+- [2022-06-12-2022-的-618，充电电池除了爱老婆还有什么可选的？](https://www.v2ex.com/t/859033) ![](assets/new.png)  
+- [2022-06-12-M1-Macbook-air（16+256要不要换丐版-macbook-pro-14](https://www.v2ex.com/t/859030) ![](assets/new.png)  
+- [2022-06-12-油管会员车，-3-个位置，年付-40](https://www.v2ex.com/t/859029) ![](assets/new.png)  
+- [2022-06-12-如何完美调教-message-应用的通知方式？](https://www.v2ex.com/t/859028) ![](assets/new.png)  
+- [2022-06-12-访问-V2EX-经常出现失败，多刷几下就正常了。忘了开启了-ipv6](https://www.v2ex.com/t/859027) ![](assets/new.png)  
+- [2022-06-12-有多少人在用-Apple-Fitness+-锻炼？](https://www.v2ex.com/t/859026) ![](assets/new.png)  
+- [2022-06-12-Chrome-Dev-for-macOS-白屏-怎么解决？重装就好了，过一回又白了](https://www.v2ex.com/t/859025) ![](assets/new.png)  
+- [2022-06-12--git-rebase-操作---关于远端代码回退的问题](https://www.v2ex.com/t/859024) ![](assets/new.png)  
+- [2022-06-12-外接硬盘盒求推荐！](https://www.v2ex.com/t/859023) ![](assets/new.png)  
+- [2022-06-12-服务器被爆破了](https://www.v2ex.com/t/859022) ![](assets/new.png)  
+- [2022-06-12-Netflix-巴基斯坦区合租，招四个乘客](https://www.v2ex.com/t/859021) ![](assets/new.png)  
+- [2022-06-12-跑步-App-你们选择哪个，决赛圈](https://www.v2ex.com/t/859020) ![](assets/new.png)  
+- [2022-06-12-台式机的内存条能用在服务器上吗](https://www.v2ex.com/t/859019) ![](assets/new.png)  
+- [2022-06-12-椅子寻亲](https://www.v2ex.com/t/859018) ![](assets/new.png)  
 - [2022-06-12-大家游戏机用哪一版本的的-Win10?](https://www.v2ex.com/t/859017) ![](assets/new.png)  
 - [2022-06-12-如何在多个-iPhone-、-iPad-之间共享照片、视频](https://www.v2ex.com/t/859016) ![](assets/new.png)  
 - [2022-06-11-广东深圳电信-2022-年-4-月-资费](https://www.v2ex.com/t/859014) ![](assets/new.png)  
 - [2022-06-11-历时-4-个月，-CabloyJS-4.21-震撼发布，应对大型项目开发](https://www.v2ex.com/t/859013) ![](assets/new.png)  
-- [2022-06-11-有人要领养狸花猫吗?-坐标北京](https://www.v2ex.com/t/859012) ![](assets/new.png)  
-- [2022-06-11-求一个土耳其的机场，要求可以过-epic-的换区认证](https://www.v2ex.com/t/859011) ![](assets/new.png)  
-- [2022-06-11-躺平-or-内卷？](https://www.v2ex.com/t/859010) ![](assets/new.png)  
-- [2022-06-11-你还记得-WinAMP-么？这里有一个-WinAMP-的-Skin-Museum](https://www.v2ex.com/t/859009) ![](assets/new.png)  
-- [2022-06-11-随便吐槽下（不想再回复此帖）](https://www.v2ex.com/t/859007) ![](assets/new.png)  
-- [2022-06-11-在成都工作节奏和生活质量如何？](https://www.v2ex.com/t/859006) ![](assets/new.png)  
-- [2022-06-11-有兄弟有类似情况吗？冥想管用吗？](https://www.v2ex.com/t/859005) ![](assets/new.png)  
-- [2022-06-11-吐槽一下使用-Azure-Static-Web-App-的上头经历](https://www.v2ex.com/t/859004) ![](assets/new.png)  
-- [2022-06-11-自荐一个我开发的小工具-typora-upload，专为-markdown-图片上传而生，提升生产力](https://www.v2ex.com/t/859003) ![](assets/new.png)  
-- [2022-06-11-求助-内网搭建软路由后，外网无法访问内网搭建的服务了](https://www.v2ex.com/t/859002) ![](assets/new.png)  
-- [2022-06-11-使用-Apple-TV-无法同时关闭电视](https://www.v2ex.com/t/859001) ![](assets/new.png)  
-- [2022-06-11-怎么优雅的获取-TOML-的动态-map](https://www.v2ex.com/t/859000) ![](assets/new.png)  
-- [2022-06-11-iOS-中，长按网页中的链接到底怎么做才能是打开右键菜单/上下文菜单，而不是拖拽？](https://www.v2ex.com/t/858999) ![](assets/new.png)  
-- [2022-06-11-请问两台电脑之间该如何配置-git](https://www.v2ex.com/t/858998) ![](assets/new.png)  
-- [2022-06-11-关于-iterm2-中的-marks-功能，没明白移动到上一个下一个-mark-的作用是什么](https://www.v2ex.com/t/858996) ![](assets/new.png)  
-- [2022-06-11-阿里云的服务器数据库被黑了，被勒索要钱恢复数据，报案抓的到这些人吗？有操作经验的来讨论下](https://www.v2ex.com/t/858995) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -557,9 +557,12 @@
 - [2022-06-12-You-Only-Live-Once？](https://toutiao.io/k/rr0kakz) ![](assets/new.png)  
 - [2022-06-12-支持10X增长，携程机票订单库Sharding实践](https://toutiao.io/k/cp43o8k) ![](assets/new.png)  
 - [2022-06-12-go-zero-微服务实战系列（二、服务拆分）](https://toutiao.io/k/gipty7q) ![](assets/new.png)  
+- [2022-06-12-腾讯信息流亿级相似视频识别技术架构优化实践](https://toutiao.io/k/0esxgh4) ![](assets/new.png)  
+- [2022-06-12-VUE开发者必须知道的实用技术点！](https://toutiao.io/k/u28xok7) ![](assets/new.png)  
+- [2022-06-12-团队管理｜如何提高技术Leader的思考技巧？](https://toutiao.io/k/f3496vg) ![](assets/new.png)  
 - [2022-06-12-推荐-架构师成长路线图](https://toutiao.io/k/27b6p2e) ![](assets/new.png)  
-- [2022-06-12-推荐-消息队列原理和选型：Kafka、RocketMQ-、RabbitMQ-和-ActiveMQ](https://toutiao.io/k/nuwnwro) ![](assets/new.png)  
 - [2022-06-12-推荐-阿里10年沉淀｜那些技术实战中的架构设计方法](https://toutiao.io/k/e9vlh55) ![](assets/new.png)  
+- [2022-06-12-推荐-消息队列原理和选型：Kafka、RocketMQ-、RabbitMQ-和-ActiveMQ](https://toutiao.io/k/nuwnwro) ![](assets/new.png)  
 - [2022-06-12-推荐-如何写出一篇好的技术方案？](https://toutiao.io/k/gl2cth8) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

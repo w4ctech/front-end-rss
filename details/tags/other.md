@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-06-12 09:13:53。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-06-12 09:38:44。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1912,6 +1912,7 @@
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2022-03-21-ascent-override-descent-override-line-gap-override一锅端](https://www.zhangxinxu.com/wordpress/2022/03/css-ascent-override-descent/) 
+- [2022-06-12-腾讯云误封挖矿-称是监管部门通报-无任何证据-求-v-友支招](https://www.v2ex.com/t/859088) 
 - [2022-06-12-外卖骑手，困在系统里-对偶版：-Computers-are-an-inherently-oppressive-technology](https://www.v2ex.com/t/859087) 
 - [2022-06-12-想问问华为的企业文化真的如网上传的那样吗？](https://www.v2ex.com/t/859086) 
 - [2022-06-12-通过姓名手机注册公司查找该人名下车牌](https://www.v2ex.com/t/859083) 
@@ -1942,7 +1943,6 @@
 - [2022-06-12-疫情隔离期间重写博客，分享下，欢迎-V-友体验](https://www.v2ex.com/t/859042) 
 - [2022-06-12-关于房子潮湿的问题请教](https://www.v2ex.com/t/859041) 
 - [2022-06-12-r2s-安装-openwrt-后-sys-灯一直红色，不进系统，要怎么排查呢？](https://www.v2ex.com/t/859040) 
-- [2022-06-12-一年经验这种情况还能苟吗](https://www.v2ex.com/t/859038) 
 - [2022-06-12-机器学习不是你想用，想用就能用-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15126&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fwhen-to-use-machine-learning%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-06-12-容器江湖的爱恨情仇-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15125&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fdocker-colima-podman-container%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-06-12-看看你有没有陷入“标签化”客户和-用户-的陷阱？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15124&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fbusiness-analyst-growth%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1957,13 +1957,3 @@
 - [2022-06-12-4-个用来擦除数据的-Linux-工具-linux.cn](https://blogread.cn/news/go.php?idItem=15111&url=https%3A%2F%2Flinux.cn%2Farticle-13913-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-06-12-使用-logrotate-命令轮转和归档日志-linux.cn](https://blogread.cn/news/go.php?idItem=15110&url=https%3A%2F%2Flinux.cn%2Farticle-13909-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-06-12-业务系统的稳定性建设-fed.taobao.org](https://blogread.cn/news/go.php?idItem=15107&url=https%3A%2F%2Ffed.taobao.org%2Fblog%2Ftaofed%2Fdo71ct%2Ffc3cy0%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
-- [2022-06-12-欢迎加入读者圈子，一起交流！](https://toutiao.io/k/h3qlj72) 
-- [2022-06-12-You-Only-Live-Once？](https://toutiao.io/k/rr0kakz) 
-- [2022-06-12-支持10X增长，携程机票订单库Sharding实践](https://toutiao.io/k/cp43o8k) 
-- [2022-06-12-go-zero-微服务实战系列（二、服务拆分）](https://toutiao.io/k/gipty7q) 
-- [2022-06-12-团队管理｜如何提高技术Leader的思考技巧？](https://toutiao.io/k/f3496vg) 
-- [2022-06-12-相忘于江湖，追逐于区块链](https://toutiao.io/k/j15dsas) 
-- [2022-06-12-推荐-阿里10年沉淀｜那些技术实战中的架构设计方法](https://toutiao.io/k/e9vlh55) 
-- [2022-06-12-推荐-如何写出一篇好的技术方案？](https://toutiao.io/k/gl2cth8) 
-- [2022-06-12-推荐-架构师成长路线图](https://toutiao.io/k/27b6p2e) 
-- [2022-06-12-推荐-消息队列原理和选型：Kafka、RocketMQ-、RabbitMQ-和-ActiveMQ](https://toutiao.io/k/nuwnwro) 

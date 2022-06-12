@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2022-06-12 09:13:53。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-06-12 09:38:44。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-06-12-腾讯云误封挖矿-称是监管部门通报-无任何证据-求-v-友支招](https://www.v2ex.com/t/859088) 
 - [2022-06-12-外卖骑手，困在系统里-对偶版：-Computers-are-an-inherently-oppressive-technology](https://www.v2ex.com/t/859087) 
 - [2022-06-12-想问问华为的企业文化真的如网上传的那样吗？](https://www.v2ex.com/t/859086) 
 - [2022-06-12-备份恢复到-15-或者-16-系统，-Safari-标签页页恢复不完整](https://www.v2ex.com/t/859085) 
@@ -45,4 +46,3 @@
 - [2022-06-12-疫情隔离期间重写博客，分享下，欢迎-V-友体验](https://www.v2ex.com/t/859042) 
 - [2022-06-12-关于房子潮湿的问题请教](https://www.v2ex.com/t/859041) 
 - [2022-06-12-r2s-安装-openwrt-后-sys-灯一直红色，不进系统，要怎么排查呢？](https://www.v2ex.com/t/859040) 
-- [2022-06-12-一年经验这种情况还能苟吗](https://www.v2ex.com/t/859038) 

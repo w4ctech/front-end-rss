@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-06-12 04:50:37，:rocket: 更新条数: +2019， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-06-12 05:12:15，:rocket: 更新条数: +2018， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,9 @@
 </summary>
 
 
+- [2022-06-12-Klang-量化知识分享会--《宽客》读书会-1-1](https://www.v2ex.com/t/859053) ![](assets/new.png)  
+- [2022-06-12-618-想买的东西，-V-友有没有推荐的](https://www.v2ex.com/t/859052) ![](assets/new.png)  
+- [2022-06-12-Library/Mobile-Documents-下的文件为何无法删除](https://www.v2ex.com/t/859051) ![](assets/new.png)  
 - [2022-06-12-有图床图片增强插件吗？](https://www.v2ex.com/t/859050) ![](assets/new.png)  
 - [2022-06-12-用-m1-pro-玩-dota2-和-csgo-卡吗？](https://www.v2ex.com/t/859049) ![](assets/new.png)  
 - [2022-06-12-突然想起来以前电脑上的幻想游戏系列，现在还能玩吗](https://www.v2ex.com/t/859048) ![](assets/new.png)  
@@ -508,9 +511,6 @@
 - [2022-06-12-M1-Macbook-air（16+256要不要换丐版-macbook-pro-14](https://www.v2ex.com/t/859030) ![](assets/new.png)  
 - [2022-06-12-油管会员车，-3-个位置，年付-40](https://www.v2ex.com/t/859029) ![](assets/new.png)  
 - [2022-06-12-如何完美调教-message-应用的通知方式？](https://www.v2ex.com/t/859028) ![](assets/new.png)  
-- [2022-06-12-访问-V2EX-经常出现失败，多刷几下就正常了。忘了开启了-ipv6](https://www.v2ex.com/t/859027) ![](assets/new.png)  
-- [2022-06-12-有多少人在用-Apple-Fitness+-锻炼？](https://www.v2ex.com/t/859026) ![](assets/new.png)  
-- [2022-06-12-Chrome-Dev-for-macOS-白屏-怎么解决？重装就好了，过一回又白了](https://www.v2ex.com/t/859025) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -558,12 +558,12 @@
 - [2022-06-12-支持10X增长，携程机票订单库Sharding实践](https://toutiao.io/k/cp43o8k) ![](assets/new.png)  
 - [2022-06-12-go-zero-微服务实战系列（二、服务拆分）](https://toutiao.io/k/gipty7q) ![](assets/new.png)  
 - [2022-06-12-腾讯信息流亿级相似视频识别技术架构优化实践](https://toutiao.io/k/0esxgh4) ![](assets/new.png)  
-- [2022-06-12-团队管理｜如何提高技术Leader的思考技巧？](https://toutiao.io/k/f3496vg) ![](assets/new.png)  
 - [2022-06-12-VUE开发者必须知道的实用技术点！](https://toutiao.io/k/u28xok7) ![](assets/new.png)  
+- [2022-06-12-团队管理｜如何提高技术Leader的思考技巧？](https://toutiao.io/k/f3496vg) ![](assets/new.png)  
 - [2022-06-12-推荐-架构师成长路线图](https://toutiao.io/k/27b6p2e) ![](assets/new.png)  
+- [2022-06-12-推荐-消息队列原理和选型：Kafka、RocketMQ-、RabbitMQ-和-ActiveMQ](https://toutiao.io/k/nuwnwro) ![](assets/new.png)  
 - [2022-06-12-推荐-如何写出一篇好的技术方案？](https://toutiao.io/k/gl2cth8) ![](assets/new.png)  
 - [2022-06-12-推荐-阿里10年沉淀｜那些技术实战中的架构设计方法](https://toutiao.io/k/e9vlh55) ![](assets/new.png)  
-- [2022-06-12-推荐-消息队列原理和选型：Kafka、RocketMQ-、RabbitMQ-和-ActiveMQ](https://toutiao.io/k/nuwnwro) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

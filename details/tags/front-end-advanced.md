@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-06-11 23:38:06。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-06-12 01:04:14。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 前端进阶相关
 
@@ -6,5 +6,3 @@
 > 关键字：`AST`、`GPU`、`WebAssembly`、`Vim`、`HTTP`、`算法`、`全栈`
 
 
-
-- [2022-06-11-Word2Vec-算法推导-&-实现](https://toutiao.io/k/ua818jh) 

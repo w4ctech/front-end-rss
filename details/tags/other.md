@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-06-12 08:16:02。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-06-12 08:41:44。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1912,6 +1912,9 @@
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2022-03-21-ascent-override-descent-override-line-gap-override一锅端](https://www.zhangxinxu.com/wordpress/2022/03/css-ascent-override-descent/) 
+- [2022-06-12-本来以为-pt-流量太大被运营商限速了，折腾半天结果是...](https://www.v2ex.com/t/859079) 
+- [2022-06-12-二手书-app，除了多抓鱼，还有哪些靠谱的？](https://www.v2ex.com/t/859076) 
+- [2022-06-12-这个-api-为啥挂代理特别慢，我挂代理访问-youtube-都比较快](https://www.v2ex.com/t/859074) 
 - [2022-06-12-能够替代-Fitness+-的第三方-APP](https://www.v2ex.com/t/859073) 
 - [2022-06-12-小飞页升级变智能修复-Bug-更快速了](https://www.v2ex.com/t/859072) 
 - [2022-06-12-是否有手机通话时使用-TTS/进行发音的-app?](https://www.v2ex.com/t/859071) 
@@ -1941,10 +1944,6 @@
 - [2022-06-12-大家平时怎么了解国外新闻的](https://www.v2ex.com/t/859034) 
 - [2022-06-12-2022-的-618，充电电池除了爱老婆还有什么可选的？](https://www.v2ex.com/t/859033) 
 - [2022-06-12-M1-Macbook-air（16+256要不要换丐版-macbook-pro-14](https://www.v2ex.com/t/859030) 
-- [2022-06-12-油管会员车，-3-个位置，年付-40](https://www.v2ex.com/t/859029) 
-- [2022-06-12-如何完美调教-message-应用的通知方式？](https://www.v2ex.com/t/859028) 
-- [2022-06-12-访问-V2EX-经常出现失败，多刷几下就正常了。忘了开启了-ipv6](https://www.v2ex.com/t/859027) 
-- [2022-06-12-有多少人在用-Apple-Fitness+-锻炼？](https://www.v2ex.com/t/859026) 
 - [2022-06-12-机器学习不是你想用，想用就能用-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15126&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fwhen-to-use-machine-learning%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-06-12-容器江湖的爱恨情仇-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15125&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fdocker-colima-podman-container%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-06-12-看看你有没有陷入“标签化”客户和-用户-的陷阱？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15124&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fbusiness-analyst-growth%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1966,6 +1965,6 @@
 - [2022-06-12-团队管理｜如何提高技术Leader的思考技巧？](https://toutiao.io/k/f3496vg) 
 - [2022-06-12-相忘于江湖，追逐于区块链](https://toutiao.io/k/j15dsas) 
 - [2022-06-12-推荐-消息队列原理和选型：Kafka、RocketMQ-、RabbitMQ-和-ActiveMQ](https://toutiao.io/k/nuwnwro) 
-- [2022-06-12-推荐-架构师成长路线图](https://toutiao.io/k/27b6p2e) 
-- [2022-06-12-推荐-阿里10年沉淀｜那些技术实战中的架构设计方法](https://toutiao.io/k/e9vlh55) 
 - [2022-06-12-推荐-如何写出一篇好的技术方案？](https://toutiao.io/k/gl2cth8) 
+- [2022-06-12-推荐-阿里10年沉淀｜那些技术实战中的架构设计方法](https://toutiao.io/k/e9vlh55) 
+- [2022-06-12-推荐-架构师成长路线图](https://toutiao.io/k/27b6p2e) 

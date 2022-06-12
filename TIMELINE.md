@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-06-12 18:42:57。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-06-12 19:11:08。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -70,6 +70,7 @@
 
 - [【张鑫旭-鑫空间-鑫生活】2022-06-12-基于文字的URL锚点定位与::target-text样式设置](https://www.zhangxinxu.com/wordpress/2022/06/url-anchor-target-text/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-06-11-介绍一种CSS变量未定义语法也OK的小妙招](https://www.zhangxinxu.com/wordpress/2022/06/css-var-optional-empty-trick/) 
+- [【V2EX】2022-06-12-哔了狗的-gorm.-很久没用-golang-了，生态这么操蛋么？](https://www.v2ex.com/t/859178) 
 - [【V2EX】2022-06-12-有什么比较好的方法能够提高英语水平吗？（尤其是口语化表达）](https://www.v2ex.com/t/859177) 
 - [【V2EX】2022-06-12-自荐项目:-基于-go-task-+-Taskfile-写了很多日常开发的初始化脚本跨平台集合](https://www.v2ex.com/t/859176) 
 - [【V2EX】2022-06-12-电信千兆宽带有线跑不满无线能跑满是什么原因](https://www.v2ex.com/t/859174) 
@@ -114,7 +115,6 @@
 - [【V2EX】2022-06-12-什么值得买迪卡侬关键词都不到信息了](https://www.v2ex.com/t/859133) 
 - [【V2EX】2022-06-12-冒个泡，铜定加段落轴真香，多写了几行代码](https://www.v2ex.com/t/859132) 
 - [【V2EX】2022-06-12-腾讯云香港约-3-年-299-孟买约-5-年-288-美国-40-一年-东京-60-一年-长期有效](https://www.v2ex.com/t/859130) 
-- [【V2EX】2022-06-12-Alfred-官方公布了下一代-Alfred-5-的新特性](https://www.v2ex.com/t/859128) 
 - [【技术头条】2022-06-12-机器学习不是你想用，想用就能用-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15126&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fwhen-to-use-machine-learning%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-06-12-容器江湖的爱恨情仇-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15125&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fdocker-colima-podman-container%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-06-12-看看你有没有陷入“标签化”客户和-用户-的陷阱？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15124&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fbusiness-analyst-growth%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -146,9 +146,9 @@
 - [【开发者头条】2022-06-12-基于-eBPF-的开源项目-eCapture-介绍：无需-CA-证书抓-https-网络明文通讯](https://toutiao.io/k/5mgyt8c) 
 - [【开发者头条】2022-06-12-这个项目准备录制视频教程啦](https://toutiao.io/k/uhayjmd) 
 - [【开发者头条】2022-06-12-推荐-如何写出一篇好的技术方案？](https://toutiao.io/k/gl2cth8) 
-- [【开发者头条】2022-06-12-推荐-总监的烦恼：技术丢了怎么办？](https://toutiao.io/k/rzytby1) 
 - [【开发者头条】2022-06-12-推荐-架构师成长路线图](https://toutiao.io/k/27b6p2e) 
 - [【开发者头条】2022-06-12-推荐-消息队列原理和选型：Kafka、RocketMQ-、RabbitMQ-和-ActiveMQ](https://toutiao.io/k/nuwnwro) 
+- [【开发者头条】2022-06-12-推荐-总监的烦恼：技术丢了怎么办？](https://toutiao.io/k/rzytby1) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

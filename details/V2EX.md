@@ -1,10 +1,13 @@
-:alarm_clock: 更新时间: 2022-06-12 13:41:11。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-06-12 14:12:34。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-06-12-2022-年了-shopee-还值得去吗](https://www.v2ex.com/t/859138) 
+- [2022-06-12-京东读书是真的🐶，-M1-mac-无法运行](https://www.v2ex.com/t/859137) 
+- [2022-06-12-做了个可以将任意文件夹设置为桌面文件夹的小小软件](https://www.v2ex.com/t/859136) 
 - [2022-06-12-有什么-NAS-自建网盘的程序能做到端对端加密？](https://www.v2ex.com/t/859135) 
 - [2022-06-12-iPhone-降低白点值功能，在-oled-版本上是什么原理？](https://www.v2ex.com/t/859134) 
 - [2022-06-12-什么值得买迪卡侬关键词都不到信息了](https://www.v2ex.com/t/859133) 
@@ -40,5 +43,3 @@
 - [2022-06-12-求大佬推荐一个好用的小程序-ui-库](https://www.v2ex.com/t/859092) 
 - [2022-06-12-生日礼物求推荐](https://www.v2ex.com/t/859091) 
 - [2022-06-12-小米相册的逻辑太混乱了](https://www.v2ex.com/t/859089) 
-- [2022-06-12-腾讯云误封挖矿-称是监管部门通报-无任何证据-求-v-友支招](https://www.v2ex.com/t/859088) 
-- [2022-06-12-外卖骑手，困在系统里-对偶版：-Computers-are-an-inherently-oppressive-technology](https://www.v2ex.com/t/859087) 

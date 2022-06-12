@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-06-12 18:15:30。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-06-12 18:42:56。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,8 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-06-12-有什么比较好的方法能够提高英语水平吗？（尤其是口语化表达）](https://www.v2ex.com/t/859177) 
+- [2022-06-12-自荐项目:-基于-go-task-+-Taskfile-写了很多日常开发的初始化脚本跨平台集合](https://www.v2ex.com/t/859176) 
 - [2022-06-12-电信千兆宽带有线跑不满无线能跑满是什么原因](https://www.v2ex.com/t/859174) 
 - [2022-06-12-关于如何在-Golang-中实现抽象类](https://www.v2ex.com/t/859173) 
 - [2022-06-12-看到这夫妻俩的生活，好生羡慕](https://www.v2ex.com/t/859172) 
@@ -1969,7 +1971,7 @@
 - [2022-06-12-团队管理｜如何提高技术Leader的思考技巧？](https://toutiao.io/k/f3496vg) 
 - [2022-06-12-go-zero-微服务实战系列（二、服务拆分）](https://toutiao.io/k/gipty7q) 
 - [2022-06-12-相忘于江湖，追逐于区块链](https://toutiao.io/k/j15dsas) 
-- [2022-06-12-推荐-消息队列原理和选型：Kafka、RocketMQ-、RabbitMQ-和-ActiveMQ](https://toutiao.io/k/nuwnwro) 
+- [2022-06-12-推荐-如何写出一篇好的技术方案？](https://toutiao.io/k/gl2cth8) 
 - [2022-06-12-推荐-总监的烦恼：技术丢了怎么办？](https://toutiao.io/k/rzytby1) 
 - [2022-06-12-推荐-架构师成长路线图](https://toutiao.io/k/27b6p2e) 
-- [2022-06-12-推荐-如何写出一篇好的技术方案？](https://toutiao.io/k/gl2cth8) 
+- [2022-06-12-推荐-消息队列原理和选型：Kafka、RocketMQ-、RabbitMQ-和-ActiveMQ](https://toutiao.io/k/nuwnwro) 

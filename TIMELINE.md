@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-06-12 09:38:44。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-06-12 10:14:37。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -69,6 +69,12 @@
 
 
 - [【张鑫旭-鑫空间-鑫生活】2022-06-11-介绍一种CSS变量未定义语法也OK的小妙招](https://www.zhangxinxu.com/wordpress/2022/06/css-var-optional-empty-trick/) 
+- [【V2EX】2022-06-12-求问宁波大专教师的待遇](https://www.v2ex.com/t/859096) 
+- [【V2EX】2022-06-12-N2600-当软路由-1000M-带的动吗？](https://www.v2ex.com/t/859095) 
+- [【V2EX】2022-06-12-Realtek-的-1G-网卡芯片能比-Intel-的便宜多少？](https://www.v2ex.com/t/859094) 
+- [【V2EX】2022-06-12-求大佬推荐一个好用的小程序-ui-库](https://www.v2ex.com/t/859092) 
+- [【V2EX】2022-06-12-生日礼物求推荐](https://www.v2ex.com/t/859091) 
+- [【V2EX】2022-06-12-小米相册的逻辑太混乱了](https://www.v2ex.com/t/859089) 
 - [【V2EX】2022-06-12-腾讯云误封挖矿-称是监管部门通报-无任何证据-求-v-友支招](https://www.v2ex.com/t/859088) 
 - [【V2EX】2022-06-12-外卖骑手，困在系统里-对偶版：-Computers-are-an-inherently-oppressive-technology](https://www.v2ex.com/t/859087) 
 - [【V2EX】2022-06-12-想问问华为的企业文化真的如网上传的那样吗？](https://www.v2ex.com/t/859086) 
@@ -104,12 +110,6 @@
 - [【V2EX】2022-06-12-有图床图片增强插件吗？](https://www.v2ex.com/t/859050) 
 - [【V2EX】2022-06-12-用-m1-pro-玩-dota2-和-csgo-卡吗？](https://www.v2ex.com/t/859049) 
 - [【V2EX】2022-06-12-突然想起来以前电脑上的幻想游戏系列，现在还能玩吗](https://www.v2ex.com/t/859048) 
-- [【V2EX】2022-06-12-安卓有没有类似-icloud-的实时文件同步云盘](https://www.v2ex.com/t/859046) 
-- [【V2EX】2022-06-12-YouTube-账号的-history-和-liked-列表最近开始频繁出现大量未看过的视频](https://www.v2ex.com/t/859045) 
-- [【V2EX】2022-06-12-有-V-友买过-redmi-ax6000-和-小米-ax6000-嘛？](https://www.v2ex.com/t/859043) 
-- [【V2EX】2022-06-12-疫情隔离期间重写博客，分享下，欢迎-V-友体验](https://www.v2ex.com/t/859042) 
-- [【V2EX】2022-06-12-关于房子潮湿的问题请教](https://www.v2ex.com/t/859041) 
-- [【V2EX】2022-06-12-r2s-安装-openwrt-后-sys-灯一直红色，不进系统，要怎么排查呢？](https://www.v2ex.com/t/859040) 
 - [【技术头条】2022-06-12-机器学习不是你想用，想用就能用-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15126&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fwhen-to-use-machine-learning%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-06-12-容器江湖的爱恨情仇-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15125&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fdocker-colima-podman-container%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-06-12-看看你有没有陷入“标签化”客户和-用户-的陷阱？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15124&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fbusiness-analyst-growth%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -130,6 +130,20 @@
 - [【技术头条】2022-06-12-在-Apache-Cassandra-中定义和优化数据分区-linux.cn](https://blogread.cn/news/go.php?idItem=15109&url=https%3A%2F%2Flinux.cn%2Farticle-13908-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-06-12-服饰3D柔性渲染调研及实践-fed.taobao.org](https://blogread.cn/news/go.php?idItem=15108&url=https%3A%2F%2Ffed.taobao.org%2Fblog%2Ftaofed%2Fdo71ct%2Ffufsgh%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-06-12-业务系统的稳定性建设-fed.taobao.org](https://blogread.cn/news/go.php?idItem=15107&url=https%3A%2F%2Ffed.taobao.org%2Fblog%2Ftaofed%2Fdo71ct%2Ffc3cy0%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [【开发者头条】2022-06-12-欢迎加入读者圈子，一起交流！](https://toutiao.io/k/h3qlj72) 
+- [【开发者头条】2022-06-12-You-Only-Live-Once？](https://toutiao.io/k/rr0kakz) 
+- [【开发者头条】2022-06-12-支持10X增长，携程机票订单库Sharding实践](https://toutiao.io/k/cp43o8k) 
+- [【开发者头条】2022-06-12-腾讯信息流亿级相似视频识别技术架构优化实践](https://toutiao.io/k/0esxgh4) 
+- [【开发者头条】2022-06-12-go-zero-微服务实战系列（二、服务拆分）](https://toutiao.io/k/gipty7q) 
+- [【开发者头条】2022-06-12-VUE开发者必须知道的实用技术点！](https://toutiao.io/k/u28xok7) 
+- [【开发者头条】2022-06-12-团队管理｜如何提高技术Leader的思考技巧？](https://toutiao.io/k/f3496vg) 
+- [【开发者头条】2022-06-12-相忘于江湖，追逐于区块链](https://toutiao.io/k/j15dsas) 
+- [【开发者头条】2022-06-12-这个项目准备录制视频教程啦](https://toutiao.io/k/uhayjmd) 
+- [【开发者头条】2022-06-12-基于-eBPF-的开源项目-eCapture-介绍：无需-CA-证书抓-https-网络明文通讯](https://toutiao.io/k/5mgyt8c) 
+- [【开发者头条】2022-06-12-推荐-架构师成长路线图](https://toutiao.io/k/27b6p2e) 
+- [【开发者头条】2022-06-12-推荐-如何写出一篇好的技术方案？](https://toutiao.io/k/gl2cth8) 
+- [【开发者头条】2022-06-12-推荐-消息队列原理和选型：Kafka、RocketMQ-、RabbitMQ-和-ActiveMQ](https://toutiao.io/k/nuwnwro) 
+- [【开发者头条】2022-06-12-推荐-阿里10年沉淀｜那些技术实战中的架构设计方法](https://toutiao.io/k/e9vlh55) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

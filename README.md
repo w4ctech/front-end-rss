@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-06-12 09:38:44，:rocket: 更新条数: +2007， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-06-12 10:14:37，:rocket: 更新条数: +2021， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -53,7 +53,7 @@
 - [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)![](assets/dot.png)   
-- [开发者头条](#开发者头条)  
+- [开发者头条](#开发者头条)![](assets/dot.png)   
 - [安全热点](#安全热点)  
 - [物联网智库](#物联网智库)  
 
@@ -491,6 +491,12 @@
 </summary>
 
 
+- [2022-06-12-求问宁波大专教师的待遇](https://www.v2ex.com/t/859096) ![](assets/new.png)  
+- [2022-06-12-N2600-当软路由-1000M-带的动吗？](https://www.v2ex.com/t/859095) ![](assets/new.png)  
+- [2022-06-12-Realtek-的-1G-网卡芯片能比-Intel-的便宜多少？](https://www.v2ex.com/t/859094) ![](assets/new.png)  
+- [2022-06-12-求大佬推荐一个好用的小程序-ui-库](https://www.v2ex.com/t/859092) ![](assets/new.png)  
+- [2022-06-12-生日礼物求推荐](https://www.v2ex.com/t/859091) ![](assets/new.png)  
+- [2022-06-12-小米相册的逻辑太混乱了](https://www.v2ex.com/t/859089) ![](assets/new.png)  
 - [2022-06-12-腾讯云误封挖矿-称是监管部门通报-无任何证据-求-v-友支招](https://www.v2ex.com/t/859088) ![](assets/new.png)  
 - [2022-06-12-外卖骑手，困在系统里-对偶版：-Computers-are-an-inherently-oppressive-technology](https://www.v2ex.com/t/859087) ![](assets/new.png)  
 - [2022-06-12-想问问华为的企业文化真的如网上传的那样吗？](https://www.v2ex.com/t/859086) ![](assets/new.png)  
@@ -505,12 +511,6 @@
 - [2022-06-12-二手书-app，除了多抓鱼，还有哪些靠谱的？](https://www.v2ex.com/t/859076) ![](assets/new.png)  
 - [2022-06-12-这个-api-为啥挂代理特别慢，我挂代理访问-youtube-都比较快](https://www.v2ex.com/t/859074) ![](assets/new.png)  
 - [2022-06-12-能够替代-Fitness+-的第三方-APP](https://www.v2ex.com/t/859073) ![](assets/new.png)  
-- [2022-06-12-小飞页升级变智能修复-Bug-更快速了](https://www.v2ex.com/t/859072) ![](assets/new.png)  
-- [2022-06-12-是否有手机通话时使用-TTS/进行发音的-app?](https://www.v2ex.com/t/859071) ![](assets/new.png)  
-- [2022-06-12-请问大家的网页版-QQ-邮箱最近代收-gmail-正常吗？](https://www.v2ex.com/t/859070) ![](assets/new.png)  
-- [2022-06-12-为什么汽车销售摆放的说明牌只用-A4-纸大小?](https://www.v2ex.com/t/859069) ![](assets/new.png)  
-- [2022-06-12-没有-paypal-怎么买谷歌商店的东西](https://www.v2ex.com/t/859068) ![](assets/new.png)  
-- [2022-06-12-safari-现在有使用油猴脚本的方案么？](https://www.v2ex.com/t/859067) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -553,6 +553,20 @@
 </summary>
 
 
+- [2022-06-12-欢迎加入读者圈子，一起交流！](https://toutiao.io/k/h3qlj72) ![](assets/new.png)  
+- [2022-06-12-You-Only-Live-Once？](https://toutiao.io/k/rr0kakz) ![](assets/new.png)  
+- [2022-06-12-支持10X增长，携程机票订单库Sharding实践](https://toutiao.io/k/cp43o8k) ![](assets/new.png)  
+- [2022-06-12-腾讯信息流亿级相似视频识别技术架构优化实践](https://toutiao.io/k/0esxgh4) ![](assets/new.png)  
+- [2022-06-12-go-zero-微服务实战系列（二、服务拆分）](https://toutiao.io/k/gipty7q) ![](assets/new.png)  
+- [2022-06-12-VUE开发者必须知道的实用技术点！](https://toutiao.io/k/u28xok7) ![](assets/new.png)  
+- [2022-06-12-团队管理｜如何提高技术Leader的思考技巧？](https://toutiao.io/k/f3496vg) ![](assets/new.png)  
+- [2022-06-12-相忘于江湖，追逐于区块链](https://toutiao.io/k/j15dsas) ![](assets/new.png)  
+- [2022-06-12-这个项目准备录制视频教程啦](https://toutiao.io/k/uhayjmd) ![](assets/new.png)  
+- [2022-06-12-基于-eBPF-的开源项目-eCapture-介绍：无需-CA-证书抓-https-网络明文通讯](https://toutiao.io/k/5mgyt8c) ![](assets/new.png)  
+- [2022-06-12-推荐-架构师成长路线图](https://toutiao.io/k/27b6p2e) ![](assets/new.png)  
+- [2022-06-12-推荐-如何写出一篇好的技术方案？](https://toutiao.io/k/gl2cth8) ![](assets/new.png)  
+- [2022-06-12-推荐-消息队列原理和选型：Kafka、RocketMQ-、RabbitMQ-和-ActiveMQ](https://toutiao.io/k/nuwnwro) ![](assets/new.png)  
+- [2022-06-12-推荐-阿里10年沉淀｜那些技术实战中的架构设计方法](https://toutiao.io/k/e9vlh55) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

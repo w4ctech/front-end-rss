@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-06-12 05:37:12。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-06-12 06:17:45。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -12,3 +12,4 @@
 - [2022-06-12-YouTube-账号的-history-和-liked-列表最近开始频繁出现大量未看过的视频](https://www.v2ex.com/t/859045) 
 - [2022-06-12-如何在多个-iPhone-、-iPad-之间共享照片、视频](https://www.v2ex.com/t/859016) 
 - [2022-06-12-腾讯信息流亿级相似视频识别技术架构优化实践](https://toutiao.io/k/0esxgh4) 
+- [2022-06-12-这个项目准备录制视频教程啦](https://toutiao.io/k/uhayjmd) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-06-12 03:15:10，:rocket: 更新条数: +2019， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-06-12 04:01:47，:rocket: 更新条数: +2019， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,12 @@
 </summary>
 
 
+- [2022-06-12-有-V-友买过-redmi-ax6000-和-小米-ax6000-嘛？](https://www.v2ex.com/t/859043) ![](assets/new.png)  
+- [2022-06-12-疫情隔离期间重写博客，分享下，欢迎-V-友体验](https://www.v2ex.com/t/859042) ![](assets/new.png)  
+- [2022-06-12-关于房子潮湿的问题请教](https://www.v2ex.com/t/859041) ![](assets/new.png)  
+- [2022-06-12-r2s-安装-openwrt-后-sys-灯一直红色，不进系统，要怎么排查呢？](https://www.v2ex.com/t/859040) ![](assets/new.png)  
+- [2022-06-12-一年经验这种情况还能苟吗](https://www.v2ex.com/t/859038) ![](assets/new.png)  
+- [2022-06-12-7-年大厂-Android-开发求兼职](https://www.v2ex.com/t/859037) ![](assets/new.png)  
 - [2022-06-12-ubuntu-20.04-utc-时间不正确](https://www.v2ex.com/t/859035) ![](assets/new.png)  
 - [2022-06-12-大家平时怎么了解国外新闻的](https://www.v2ex.com/t/859034) ![](assets/new.png)  
 - [2022-06-12-2022-的-618，充电电池除了爱老婆还有什么可选的？](https://www.v2ex.com/t/859033) ![](assets/new.png)  
@@ -505,12 +511,6 @@
 - [2022-06-12-服务器被爆破了](https://www.v2ex.com/t/859022) ![](assets/new.png)  
 - [2022-06-12-Netflix-巴基斯坦区合租，招四个乘客](https://www.v2ex.com/t/859021) ![](assets/new.png)  
 - [2022-06-12-跑步-App-你们选择哪个，决赛圈](https://www.v2ex.com/t/859020) ![](assets/new.png)  
-- [2022-06-12-台式机的内存条能用在服务器上吗](https://www.v2ex.com/t/859019) ![](assets/new.png)  
-- [2022-06-12-椅子寻亲](https://www.v2ex.com/t/859018) ![](assets/new.png)  
-- [2022-06-12-大家游戏机用哪一版本的的-Win10?](https://www.v2ex.com/t/859017) ![](assets/new.png)  
-- [2022-06-12-如何在多个-iPhone-、-iPad-之间共享照片、视频](https://www.v2ex.com/t/859016) ![](assets/new.png)  
-- [2022-06-11-广东深圳电信-2022-年-4-月-资费](https://www.v2ex.com/t/859014) ![](assets/new.png)  
-- [2022-06-11-历时-4-个月，-CabloyJS-4.21-震撼发布，应对大型项目开发](https://www.v2ex.com/t/859013) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -558,12 +558,12 @@
 - [2022-06-12-支持10X增长，携程机票订单库Sharding实践](https://toutiao.io/k/cp43o8k) ![](assets/new.png)  
 - [2022-06-12-go-zero-微服务实战系列（二、服务拆分）](https://toutiao.io/k/gipty7q) ![](assets/new.png)  
 - [2022-06-12-腾讯信息流亿级相似视频识别技术架构优化实践](https://toutiao.io/k/0esxgh4) ![](assets/new.png)  
-- [2022-06-12-VUE开发者必须知道的实用技术点！](https://toutiao.io/k/u28xok7) ![](assets/new.png)  
 - [2022-06-12-团队管理｜如何提高技术Leader的思考技巧？](https://toutiao.io/k/f3496vg) ![](assets/new.png)  
-- [2022-06-12-推荐-架构师成长路线图](https://toutiao.io/k/27b6p2e) ![](assets/new.png)  
-- [2022-06-12-推荐-阿里10年沉淀｜那些技术实战中的架构设计方法](https://toutiao.io/k/e9vlh55) ![](assets/new.png)  
+- [2022-06-12-VUE开发者必须知道的实用技术点！](https://toutiao.io/k/u28xok7) ![](assets/new.png)  
 - [2022-06-12-推荐-消息队列原理和选型：Kafka、RocketMQ-、RabbitMQ-和-ActiveMQ](https://toutiao.io/k/nuwnwro) ![](assets/new.png)  
+- [2022-06-12-推荐-架构师成长路线图](https://toutiao.io/k/27b6p2e) ![](assets/new.png)  
 - [2022-06-12-推荐-如何写出一篇好的技术方案？](https://toutiao.io/k/gl2cth8) ![](assets/new.png)  
+- [2022-06-12-推荐-阿里10年沉淀｜那些技术实战中的架构设计方法](https://toutiao.io/k/e9vlh55) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

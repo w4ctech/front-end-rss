@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2022-06-12 05:12:15。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-06-12 05:37:12。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-06-12-苹果的刀法越来越精准了，大家的选择焦虑症是增加了还是降低了？](https://www.v2ex.com/t/859055) 
 - [2022-06-12-Klang-量化知识分享会--《宽客》读书会-1-1](https://www.v2ex.com/t/859053) 
 - [2022-06-12-618-想买的东西，-V-友有没有推荐的](https://www.v2ex.com/t/859052) 
 - [2022-06-12-Library/Mobile-Documents-下的文件为何无法删除](https://www.v2ex.com/t/859051) 
@@ -44,5 +45,3 @@
 - [2022-06-11-躺平-or-内卷？](https://www.v2ex.com/t/859010) 
 - [2022-06-11-你还记得-WinAMP-么？这里有一个-WinAMP-的-Skin-Museum](https://www.v2ex.com/t/859009) 
 - [2022-06-11-随便吐槽下（不想再回复此帖）](https://www.v2ex.com/t/859007) 
-- [2022-06-11-在成都工作节奏和生活质量如何？](https://www.v2ex.com/t/859006) 
-- [2022-06-11-有兄弟有类似情况吗？冥想管用吗？](https://www.v2ex.com/t/859005) 

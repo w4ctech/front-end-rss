@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-06-12 05:12:15，:rocket: 更新条数: +2018， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-06-12 05:37:12，:rocket: 更新条数: +2017， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-06-12-苹果的刀法越来越精准了，大家的选择焦虑症是增加了还是降低了？](https://www.v2ex.com/t/859055) ![](assets/new.png)  
 - [2022-06-12-Klang-量化知识分享会--《宽客》读书会-1-1](https://www.v2ex.com/t/859053) ![](assets/new.png)  
 - [2022-06-12-618-想买的东西，-V-友有没有推荐的](https://www.v2ex.com/t/859052) ![](assets/new.png)  
 - [2022-06-12-Library/Mobile-Documents-下的文件为何无法删除](https://www.v2ex.com/t/859051) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-06-12-2022-的-618，充电电池除了爱老婆还有什么可选的？](https://www.v2ex.com/t/859033) ![](assets/new.png)  
 - [2022-06-12-M1-Macbook-air（16+256要不要换丐版-macbook-pro-14](https://www.v2ex.com/t/859030) ![](assets/new.png)  
 - [2022-06-12-油管会员车，-3-个位置，年付-40](https://www.v2ex.com/t/859029) ![](assets/new.png)  
-- [2022-06-12-如何完美调教-message-应用的通知方式？](https://www.v2ex.com/t/859028) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -561,8 +561,8 @@
 - [2022-06-12-VUE开发者必须知道的实用技术点！](https://toutiao.io/k/u28xok7) ![](assets/new.png)  
 - [2022-06-12-团队管理｜如何提高技术Leader的思考技巧？](https://toutiao.io/k/f3496vg) ![](assets/new.png)  
 - [2022-06-12-推荐-架构师成长路线图](https://toutiao.io/k/27b6p2e) ![](assets/new.png)  
-- [2022-06-12-推荐-消息队列原理和选型：Kafka、RocketMQ-、RabbitMQ-和-ActiveMQ](https://toutiao.io/k/nuwnwro) ![](assets/new.png)  
 - [2022-06-12-推荐-如何写出一篇好的技术方案？](https://toutiao.io/k/gl2cth8) ![](assets/new.png)  
+- [2022-06-12-推荐-消息队列原理和选型：Kafka、RocketMQ-、RabbitMQ-和-ActiveMQ](https://toutiao.io/k/nuwnwro) ![](assets/new.png)  
 - [2022-06-12-推荐-阿里10年沉淀｜那些技术实战中的架构设计方法](https://toutiao.io/k/e9vlh55) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

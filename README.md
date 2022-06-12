@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-06-12 08:41:44，:rocket: 更新条数: +2018， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-06-12 09:13:53，:rocket: 更新条数: +2021， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,14 @@
 </summary>
 
 
+- [2022-06-12-外卖骑手，困在系统里-对偶版：-Computers-are-an-inherently-oppressive-technology](https://www.v2ex.com/t/859087) ![](assets/new.png)  
+- [2022-06-12-想问问华为的企业文化真的如网上传的那样吗？](https://www.v2ex.com/t/859086) ![](assets/new.png)  
+- [2022-06-12-备份恢复到-15-或者-16-系统，-Safari-标签页页恢复不完整](https://www.v2ex.com/t/859085) ![](assets/new.png)  
+- [2022-06-12-在国外都去哪些招聘网站啊？](https://www.v2ex.com/t/859084) ![](assets/new.png)  
+- [2022-06-12-通过姓名手机注册公司查找该人名下车牌](https://www.v2ex.com/t/859083) ![](assets/new.png)  
+- [2022-06-12-大家有什么好的-telegram-频道推荐订阅？](https://www.v2ex.com/t/859082) ![](assets/new.png)  
+- [2022-06-12-萌新拼网页组件感觉到了瓶颈，大佬们有什么好看的网页设计推荐吗](https://www.v2ex.com/t/859081) ![](assets/new.png)  
+- [2022-06-12-SecRSS-一个网络安全技术文章的聚合平台](https://www.v2ex.com/t/859080) ![](assets/new.png)  
 - [2022-06-12-本来以为-pt-流量太大被运营商限速了，折腾半天结果是...](https://www.v2ex.com/t/859079) ![](assets/new.png)  
 - [2022-06-12-求问研究方向比较:基于图像的三维重建/基于多传感器融合的三维重建,哪个更好?](https://www.v2ex.com/t/859077) ![](assets/new.png)  
 - [2022-06-12-二手书-app，除了多抓鱼，还有哪些靠谱的？](https://www.v2ex.com/t/859076) ![](assets/new.png)  
@@ -503,14 +511,6 @@
 - [2022-06-12-没有-paypal-怎么买谷歌商店的东西](https://www.v2ex.com/t/859068) ![](assets/new.png)  
 - [2022-06-12-safari-现在有使用油猴脚本的方案么？](https://www.v2ex.com/t/859067) ![](assets/new.png)  
 - [2022-06-12-关于-google-ad-manager-代码，请高手指教。](https://www.v2ex.com/t/859066) ![](assets/new.png)  
-- [2022-06-12-ZOOM-这家公司未来前景如何？推荐程度如何](https://www.v2ex.com/t/859065) ![](assets/new.png)  
-- [2022-06-12-萌新提问idea-vim](https://www.v2ex.com/t/859064) ![](assets/new.png)  
-- [2022-06-12-有没有知识管理的-Wiki-系统推荐？](https://www.v2ex.com/t/859062) ![](assets/new.png)  
-- [2022-06-12-v-友们，开始健身了，日常想配个智能表，有什么推荐的么？（-iPhone-用户](https://www.v2ex.com/t/859061) ![](assets/new.png)  
-- [2022-06-12-xdm-问个问题上海户口有啥用](https://www.v2ex.com/t/859060) ![](assets/new.png)  
-- [2022-06-12-大家觉得-MBP-2021-的高刷屏用着区别大吗？](https://www.v2ex.com/t/859058) ![](assets/new.png)  
-- [2022-06-12-分享一下如何免-ROOT-隐藏状态栏-NFC/闹钟等图标](https://www.v2ex.com/t/859057) ![](assets/new.png)  
-- [2022-06-12-苹果的刀法越来越精准了，大家的选择焦虑症是增加了还是降低了？](https://www.v2ex.com/t/859055) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -563,10 +563,10 @@
 - [2022-06-12-相忘于江湖，追逐于区块链](https://toutiao.io/k/j15dsas) ![](assets/new.png)  
 - [2022-06-12-这个项目准备录制视频教程啦](https://toutiao.io/k/uhayjmd) ![](assets/new.png)  
 - [2022-06-12-基于-eBPF-的开源项目-eCapture-介绍：无需-CA-证书抓-https-网络明文通讯](https://toutiao.io/k/5mgyt8c) ![](assets/new.png)  
-- [2022-06-12-推荐-消息队列原理和选型：Kafka、RocketMQ-、RabbitMQ-和-ActiveMQ](https://toutiao.io/k/nuwnwro) ![](assets/new.png)  
-- [2022-06-12-推荐-如何写出一篇好的技术方案？](https://toutiao.io/k/gl2cth8) ![](assets/new.png)  
 - [2022-06-12-推荐-阿里10年沉淀｜那些技术实战中的架构设计方法](https://toutiao.io/k/e9vlh55) ![](assets/new.png)  
+- [2022-06-12-推荐-如何写出一篇好的技术方案？](https://toutiao.io/k/gl2cth8) ![](assets/new.png)  
 - [2022-06-12-推荐-架构师成长路线图](https://toutiao.io/k/27b6p2e) ![](assets/new.png)  
+- [2022-06-12-推荐-消息队列原理和选型：Kafka、RocketMQ-、RabbitMQ-和-ActiveMQ](https://toutiao.io/k/nuwnwro) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

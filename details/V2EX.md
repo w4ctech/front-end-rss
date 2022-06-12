@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2022-06-12 16:51:45。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-06-12 17:12:39。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-06-12-眼睛看-OLED-屏幕十几分钟就会干涩是怎么回事？](https://www.v2ex.com/t/859171) 
+- [2022-06-12-RTL8852AE-真坑，虚标信号强度](https://www.v2ex.com/t/859170) 
 - [2022-06-12-怎么不浪费通勤时间呢？](https://www.v2ex.com/t/859169) 
 - [2022-06-12-Urara：开源联邦式静态博客启动器](https://www.v2ex.com/t/859168) 
 - [2022-06-12-2022-年在哪注册和续费-org-域名最划算?](https://www.v2ex.com/t/859167) 
@@ -48,5 +50,3 @@
 - [2022-06-12-大内存-便宜-安静-这三个要素的交集会是个什么方案？](https://www.v2ex.com/t/859124) 
 - [2022-06-12-Apple-Home-应用被推送垃圾广告](https://www.v2ex.com/t/859123) 
 - [2022-06-12-Python-现代化打包应用到-exe-的方式？](https://www.v2ex.com/t/859122) 
-- [2022-06-12-求助-M1-安装-Homebrew，安装后-search-cask，但结果未陈列出目标](https://www.v2ex.com/t/859121) 
-- [2022-06-12-macbookair2015-上面取下来一块固态硬盘，可以加个硬盘盒子改装成大-U-盘吗](https://www.v2ex.com/t/859120) 

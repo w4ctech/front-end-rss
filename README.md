@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-06-13 22:14:11，:rocket: 更新条数: +2030， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-06-13 22:40:24，:rocket: 更新条数: +2030， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,9 @@
 </summary>
 
 
+- [2022-06-13-回泉州啦，为期-3-个月](https://www.v2ex.com/t/859425) ![](assets/new.png)  
+- [2022-06-13-AWS-S3+Cloudfront-无限流量？](https://www.v2ex.com/t/859424) ![](assets/new.png)  
+- [2022-06-13-窦心动过速影响入职吗？](https://www.v2ex.com/t/859423) ![](assets/new.png)  
 - [2022-06-13-中国医生申请欧美技术移民的难度大吗](https://www.v2ex.com/t/859422) ![](assets/new.png)  
 - [2022-06-13-#-跨境电商独角兽-SHEIN-希音持续招人！国内-IOS、安卓、-Java-、产品经理、前端-TL、安全研发、运维等急招！新加坡研发中心福利更是超级加倍！更多信息请点进来...](https://www.v2ex.com/t/859420) ![](assets/new.png)  
 - [2022-06-13-再一个问题，主板第-1-条内存槽，过不了内存检测...](https://www.v2ex.com/t/859419) ![](assets/new.png)  
@@ -508,9 +511,6 @@
 - [2022-06-13-红米电视-X65-2022-款看着不错啊](https://www.v2ex.com/t/859407) ![](assets/new.png)  
 - [2022-06-13-为什么实现网页逐行对照翻译的插件这么少，有什么瓶颈吗](https://www.v2ex.com/t/859406) ![](assets/new.png)  
 - [2022-06-13-数字潮流平台招聘](https://www.v2ex.com/t/859403) ![](assets/new.png)  
-- [2022-06-13-刚升级千兆电信宽带，是否需要换路由器](https://www.v2ex.com/t/859402) ![](assets/new.png)  
-- [2022-06-13-阿里云-飞天-5k-数字藏品，简单任务，限量-10k](https://www.v2ex.com/t/859401) ![](assets/new.png)  
-- [2022-06-13-你们现在台式机用什么装驱动呢](https://www.v2ex.com/t/859400) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

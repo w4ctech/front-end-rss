@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-06-13 01:05:40，:rocket: 更新条数: +2020， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-06-13 03:20:35，:rocket: 更新条数: +2021， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,26 +491,26 @@
 </summary>
 
 
-- [2022-06-13-Dynimgen-是一款动态图片生成服务，适用于动态生成邀请海报，分享图片，用户名片等。](https://www.v2ex.com/t/859183) ![](assets/new.png)  
-- [2022-06-13-想学钢琴](https://www.v2ex.com/t/859182) ![](assets/new.png)  
-- [2022-06-13-想买个手机，选哪个？](https://www.v2ex.com/t/859181) ![](assets/new.png)  
-- [2022-06-12-求推荐用作代理链落地的便宜香港-vps](https://www.v2ex.com/t/859180) ![](assets/new.png)  
-- [2022-06-12-哔了狗的-gorm.-很久没用-golang-了，生态这么操蛋么？](https://www.v2ex.com/t/859178) ![](assets/new.png)  
-- [2022-06-12-有什么比较好的方法能够提高英语水平吗？（尤其是口语化表达）](https://www.v2ex.com/t/859177) ![](assets/new.png)  
-- [2022-06-12-自荐项目:-基于-go-task-+-Taskfile-写了很多日常开发的初始化脚本跨平台集合](https://www.v2ex.com/t/859176) ![](assets/new.png)  
-- [2022-06-12-电信千兆宽带有线跑不满无线能跑满是什么原因](https://www.v2ex.com/t/859174) ![](assets/new.png)  
-- [2022-06-12-关于如何在-Golang-中实现抽象类](https://www.v2ex.com/t/859173) ![](assets/new.png)  
-- [2022-06-12-看到这夫妻俩的生活，好生羡慕](https://www.v2ex.com/t/859172) ![](assets/new.png)  
-- [2022-06-12-眼睛看-OLED-屏幕十几分钟就会干涩是怎么回事？](https://www.v2ex.com/t/859171) ![](assets/new.png)  
-- [2022-06-12-RTL8852AE-真坑，虚标信号强度](https://www.v2ex.com/t/859170) ![](assets/new.png)  
-- [2022-06-12-怎么不浪费通勤时间呢？](https://www.v2ex.com/t/859169) ![](assets/new.png)  
-- [2022-06-12-Urara：开源联邦式静态博客启动器](https://www.v2ex.com/t/859168) ![](assets/new.png)  
-- [2022-06-12-深圳注册公司的坑，一些经验分享（视频和文档）](https://www.v2ex.com/t/859166) ![](assets/new.png)  
-- [2022-06-12-hhkb-hybrid-/-classic-/-客制化-选择](https://www.v2ex.com/t/859165) ![](assets/new.png)  
-- [2022-06-12-周末看新东方直播](https://www.v2ex.com/t/859164) ![](assets/new.png)  
-- [2022-06-12-即使不处于苹果自带地图的导航中，也能报告交通异常状况。那么大家看到交通异常状况就可以随手拿起-iPhone-跟-Siri-报告。](https://www.v2ex.com/t/859163) ![](assets/new.png)  
-- [2022-06-12-我还在和设计缠斗-后端已经和老板谈笑风生了](https://www.v2ex.com/t/859162) ![](assets/new.png)  
-- [2022-06-12-谷歌浏览器无法打开-v2-可能什么原因呢?](https://www.v2ex.com/t/859161) ![](assets/new.png)  
+- [2022-06-13-请问-MacBook-想玩-PUBG，有什么好方法吗](https://www.v2ex.com/t/859231) ![](assets/new.png)  
+- [2022-06-13-甩脂机有效果吗？](https://www.v2ex.com/t/859230) ![](assets/new.png)  
+- [2022-06-13-pdd-上带“品牌”标识的是什么意思，能冲吗](https://www.v2ex.com/t/859229) ![](assets/new.png)  
+- [2022-06-13-docker-打前端镜像时，执行-dockerfile-文件，前端-npm-run-build-失败时怎么进容器看-npm-日志](https://www.v2ex.com/t/859228) ![](assets/new.png)  
+- [2022-06-13-深圳天威可以申请公网-IP？](https://www.v2ex.com/t/859227) ![](assets/new.png)  
+- [2022-06-13-华为云广东出问题了？](https://www.v2ex.com/t/859226) ![](assets/new.png)  
+- [2022-06-13-rpm---import-xx.gpg-都干了什么](https://www.v2ex.com/t/859225) ![](assets/new.png)  
+- [2022-06-13-白苹果安装黑苹果-macOS-Monterey](https://www.v2ex.com/t/859224) ![](assets/new.png)  
+- [2022-06-13-请问你们都用什么剃须刀，-618-准备入个](https://www.v2ex.com/t/859222) ![](assets/new.png)  
+- [2022-06-13-关于-Java-泛型方法定义的疑惑](https://www.v2ex.com/t/859220) ![](assets/new.png)  
+- [2022-06-13-DynamicTp-新版本发布。还在为-Dubbo-线程池耗尽烦恼吗？还在为-Mq-消费积压烦恼吗？](https://www.v2ex.com/t/859219) ![](assets/new.png)  
+- [2022-06-13-迫-于比亚迪终生免费-OTA，想问一下安卓车机有什么优化能自己动手的吗？](https://www.v2ex.com/t/859218) ![](assets/new.png)  
+- [2022-06-13-有人用-wps-做云笔记使用吗？是否可以分享一下使用心得](https://www.v2ex.com/t/859216) ![](assets/new.png)  
+- [2022-06-13-有无查询国内物流的浏览器插件/接口推荐?](https://www.v2ex.com/t/859214) ![](assets/new.png)  
+- [2022-06-13-618-电视如何选购](https://www.v2ex.com/t/859212) ![](assets/new.png)  
+- [2022-06-13-珠海电信升到-1000-Mbps-之后，断拨重连周期也延长到了-7-天](https://www.v2ex.com/t/859210) ![](assets/new.png)  
+- [2022-06-13-搭建小型企业官网选什么方案求推荐？](https://www.v2ex.com/t/859209) ![](assets/new.png)  
+- [2022-06-13-有没有可以开源自建的收藏夹页面工具？](https://www.v2ex.com/t/859208) ![](assets/new.png)  
+- [2022-06-13-最近-iOS-打字偶尔会卡住](https://www.v2ex.com/t/859207) ![](assets/new.png)  
+- [2022-06-13-阿里云盘还是慢慢少用吧](https://www.v2ex.com/t/859206) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -522,6 +522,7 @@
 </summary>
 
 
+- [2022-06-13-性能测试之K6篇-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15127&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fperformance-testing-k6%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-06-13-机器学习不是你想用，想用就能用-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15126&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fwhen-to-use-machine-learning%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-06-13-容器江湖的爱恨情仇-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15125&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fdocker-colima-podman-container%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-06-13-看看你有没有陷入“标签化”客户和-用户-的陷阱？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15124&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fbusiness-analyst-growth%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
@@ -541,7 +542,6 @@
 - [2022-06-13-使用-logrotate-命令轮转和归档日志-linux.cn](https://blogread.cn/news/go.php?idItem=15110&url=https%3A%2F%2Flinux.cn%2Farticle-13909-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-06-13-在-Apache-Cassandra-中定义和优化数据分区-linux.cn](https://blogread.cn/news/go.php?idItem=15109&url=https%3A%2F%2Flinux.cn%2Farticle-13908-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-06-13-服饰3D柔性渲染调研及实践-fed.taobao.org](https://blogread.cn/news/go.php?idItem=15108&url=https%3A%2F%2Ffed.taobao.org%2Fblog%2Ftaofed%2Fdo71ct%2Ffufsgh%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-06-13-业务系统的稳定性建设-fed.taobao.org](https://blogread.cn/news/go.php?idItem=15107&url=https%3A%2F%2Ffed.taobao.org%2Fblog%2Ftaofed%2Fdo71ct%2Ffc3cy0%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -556,13 +556,22 @@
 - [2022-06-13-“拖文件自动上传到远程服务器”，支持多种平台的原生终端。](https://toutiao.io/k/ea4uy8e) ![](assets/new.png)  
 - [2022-06-13-线上真实排队系统重构案例分享——实战篇](https://toutiao.io/k/4vki4nq) ![](assets/new.png)  
 - [2022-06-13-Go练手：日志监控告警](https://toutiao.io/k/x8vfmww) ![](assets/new.png)  
-- [2022-06-13-PyScript：让-Python-在-Web-中跑起来](https://toutiao.io/k/9pcbq29) ![](assets/new.png)  
-- [2022-06-13-失去才懂珍惜？Apache-Ambari-项目即将重启，再次进入-Apache-孵化器](https://toutiao.io/k/1vqpjs3) ![](assets/new.png)  
 - [2022-06-13-收藏！14-种异常检测方法总结](https://toutiao.io/k/z3twv9y) ![](assets/new.png)  
+- [2022-06-13-PyScript：让-Python-在-Web-中跑起来](https://toutiao.io/k/9pcbq29) ![](assets/new.png)  
+- [2022-06-13-高并发下如何防重？](https://toutiao.io/k/ulsc0so) ![](assets/new.png)  
+- [2022-06-13-失去才懂珍惜？Apache-Ambari-项目即将重启，再次进入-Apache-孵化器](https://toutiao.io/k/1vqpjs3) ![](assets/new.png)  
+- [2022-06-13-肝了一个月的-DDD，一文带你掌握！](https://toutiao.io/k/bclz2n6) ![](assets/new.png)  
+- [2022-06-13-再有人问你什么是分库分表，直接把这篇文章发给他](https://toutiao.io/k/1n7mr7t) ![](assets/new.png)  
+- [2022-06-13-五分钟搞定Flink双流JOIN面试题](https://toutiao.io/k/zldyqi6) ![](assets/new.png)  
+- [2022-06-13-轻松玩转-iOS-16-锁屏界面](https://toutiao.io/k/vsqya51) ![](assets/new.png)  
+- [2022-06-13-Web组件构建库-Lit](https://toutiao.io/k/10msgvn) ![](assets/new.png)  
+- [2022-06-13-拥抱开放，Serverless-时代的下一征程](https://toutiao.io/k/zlz2m0h) ![](assets/new.png)  
+- [2022-06-13-「大模型」之所短，「知识图谱」之所长](https://toutiao.io/k/a6qnyu9) ![](assets/new.png)  
+- [2022-06-13-聊聊-C#-方法重载的底层玩法](https://toutiao.io/k/6fv99q9) ![](assets/new.png)  
+- [2022-06-13-推荐-总监的烦恼：技术丢了怎么办？](https://toutiao.io/k/rzytby1) ![](assets/new.png)  
 - [2022-06-13-推荐-如何写出一篇好的技术方案？](https://toutiao.io/k/gl2cth8) ![](assets/new.png)  
 - [2022-06-13-推荐-消息队列原理和选型：Kafka、RocketMQ-、RabbitMQ-和-ActiveMQ](https://toutiao.io/k/nuwnwro) ![](assets/new.png)  
 - [2022-06-13-推荐-架构师成长路线图](https://toutiao.io/k/27b6p2e) ![](assets/new.png)  
-- [2022-06-13-推荐-总监的烦恼：技术丢了怎么办？](https://toutiao.io/k/rzytby1) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2022-06-13 22:40:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-06-13 23:03:15。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-06-13-黄牛的脚本通过这种验证方式的成功率高吗](https://www.v2ex.com/t/859426) 
 - [2022-06-13-回泉州啦，为期-3-个月](https://www.v2ex.com/t/859425) 
 - [2022-06-13-AWS-S3+Cloudfront-无限流量？](https://www.v2ex.com/t/859424) 
 - [2022-06-13-窦心动过速影响入职吗？](https://www.v2ex.com/t/859423) 

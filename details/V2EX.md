@@ -1,10 +1,13 @@
-:alarm_clock: 更新时间: 2022-06-13 14:43:45。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-06-13 15:19:36。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-06-13-你们现在台式机用什么装驱动呢](https://www.v2ex.com/t/859400) 
+- [2022-06-13-后端-西安-专科去年毕业-求职](https://www.v2ex.com/t/859399) 
+- [2022-06-13-建了一个-Discord-群，范围五花八门，欢迎进来玩](https://www.v2ex.com/t/859398) 
 - [2022-06-13-windows-端-QQ-音乐后台偷跑上传带宽？](https://www.v2ex.com/t/859395) 
 - [2022-06-13-苹果-Apple-ID-的-2FA-只能使用电话号码？](https://www.v2ex.com/t/859394) 
 - [2022-06-13-上海电信-200m-上行可以付钱买了](https://www.v2ex.com/t/859393) 
@@ -42,7 +45,3 @@
 - [2022-06-13-明天早上乔姆斯基的讲座](https://www.v2ex.com/t/859354) 
 - [2022-06-13-爱奇艺是要国际化了吗？](https://www.v2ex.com/t/859353) 
 - [2022-06-13-想搞个-pixel-5a](https://www.v2ex.com/t/859351) 
-- [2022-06-13-Switch-硬件破解经验分享---自己动手破解焊接-switch-续航版](https://www.v2ex.com/t/859350) 
-- [2022-06-13-PPPoE-什么时候才能被淘汰？](https://www.v2ex.com/t/859349) 
-- [2022-06-13-前端技术专家（Authing-身份云/开放平台方向/北京）](https://www.v2ex.com/t/859348) 
-- [2022-06-13-有-NAS+google-photo-双持的老哥吗，如何解决-livephoto-的问题？](https://www.v2ex.com/t/859347) 

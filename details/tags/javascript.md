@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-06-13 09:41:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-06-13 10:15:46。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -21,6 +21,5 @@
 - [2022-04-22-CSS实现滚动高度自动变小的粘滞效果](https://www.zhangxinxu.com/wordpress/2022/04/css-sticky-size-change/) 
 - [2022-06-13-利用蹩脚的-js-知识写了一个统计真实访客数量的脚本](https://www.v2ex.com/t/859317) 
 - [2022-06-13-OpenWRT-是否有对新手友好的设置静态路由的方式？](https://www.v2ex.com/t/859312) 
-- [2022-06-13-互联网时代中年男性油腻的三大特征：路由器、充电头和-nas🙄](https://www.v2ex.com/t/859295) 
 - [2022-06-13-干货！前端-JS-模块化及其工具演变！](https://toutiao.io/k/jm9x72w) 
 - [2022-06-13-【第2639期】面向微前端，谈谈-JavaScript-隔离沙箱机制的古往今来](https://toutiao.io/k/e8xe879) 

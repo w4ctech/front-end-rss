@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-06-13 09:41:10，:rocket: 更新条数: +2029， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-06-13 10:15:46，:rocket: 更新条数: +2031， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,14 @@
 </summary>
 
 
+- [2022-06-13-PPPoE-什么时候才能被淘汰？](https://www.v2ex.com/t/859349) ![](assets/new.png)  
+- [2022-06-13-前端技术专家（Authing-身份云/开放平台方向/北京）](https://www.v2ex.com/t/859348) ![](assets/new.png)  
+- [2022-06-13-有-NAS+google-photo-双持的老哥吗，如何解决-livephoto-的问题？](https://www.v2ex.com/t/859347) ![](assets/new.png)  
+- [2022-06-13-M1-Pro-玩游戏还不错](https://www.v2ex.com/t/859346) ![](assets/new.png)  
+- [2022-06-13-直播预约｜今晚-19:00，携手-StreamNative-论道云原生中间件（有视频号福袋放送！）](https://www.v2ex.com/t/859345) ![](assets/new.png)  
+- [2022-06-13-能不能写一个通用过滤插件，过滤掉网页上不想看到的内容](https://www.v2ex.com/t/859344) ![](assets/new.png)  
+- [2022-06-13-字节成都的瓜,-请问是真的吗,-有字节的朋友辟谣一下吗](https://www.v2ex.com/t/859343) ![](assets/new.png)  
+- [2022-06-13-求一款饮料名字](https://www.v2ex.com/t/859342) ![](assets/new.png)  
 - [2022-06-13-Cloudflare-DNS-无法正常解析](https://www.v2ex.com/t/859341) ![](assets/new.png)  
 - [2022-06-13-Telegram-重新登录但-GV-手机号早就被回收了，同时发现号码好像已经被别人绑定了，无法收到验证短信怎么办？](https://www.v2ex.com/t/859339) ![](assets/new.png)  
 - [2022-06-13-通过-mutable-系框架，回推一次性消息](https://www.v2ex.com/t/859338) ![](assets/new.png)  
@@ -503,14 +511,6 @@
 - [2022-06-13-M1-Mac-开启-HiDPI-完美，最新-beta-版本-BetterDummy-无需镜像](https://www.v2ex.com/t/859330) ![](assets/new.png)  
 - [2022-06-13-删除/lib64/libstdc++.so-导致服务器无法启动](https://www.v2ex.com/t/859329) ![](assets/new.png)  
 - [2022-06-13-有哪些国产操作系统值得推荐用于生产环境](https://www.v2ex.com/t/859328) ![](assets/new.png)  
-- [2022-06-13-代替-Acrobat-转换-PDF-的-Mac-最佳软件有推荐的么？](https://www.v2ex.com/t/859327) ![](assets/new.png)  
-- [2022-06-13-9.9-离线语音+红外+小程序控制家电](https://www.v2ex.com/t/859326) ![](assets/new.png)  
-- [2022-06-13-IntelliJ-默认的-Terminal-在不同的系统下冲突了，怎么办？](https://www.v2ex.com/t/859325) ![](assets/new.png)  
-- [2022-06-13-上海字节跳动招聘-Rust-开发工程师](https://www.v2ex.com/t/859324) ![](assets/new.png)  
-- [2022-06-13-请问有-iOS-的远程全职兼职外包吗？](https://www.v2ex.com/t/859321) ![](assets/new.png)  
-- [2022-06-13-用-Golang-创作了一个图片处理服务,欢迎-Star](https://www.v2ex.com/t/859320) ![](assets/new.png)  
-- [2022-06-13-小米移动又开始耍流氓了，我的维权经历（已经被停机）](https://www.v2ex.com/t/859318) ![](assets/new.png)  
-- [2022-06-13-利用蹩脚的-js-知识写了一个统计真实访客数量的脚本](https://www.v2ex.com/t/859317) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -569,8 +569,8 @@
 - [2022-06-13-轻松玩转-iOS-16-锁屏界面](https://toutiao.io/k/vsqya51) ![](assets/new.png)  
 - [2022-06-13-聊聊-C#-方法重载的底层玩法](https://toutiao.io/k/6fv99q9) ![](assets/new.png)  
 - [2022-06-13-Go-1.19-Beta1-发布，这个改动挺有意思](https://toutiao.io/k/xtg731v) ![](assets/new.png)  
-- [2022-06-13-可视化-Kubernetes-历史记录](https://toutiao.io/k/jv0745e) ![](assets/new.png)  
 - [2022-06-13-干货！前端-JS-模块化及其工具演变！](https://toutiao.io/k/jm9x72w) ![](assets/new.png)  
+- [2022-06-13-可视化-Kubernetes-历史记录](https://toutiao.io/k/jv0745e) ![](assets/new.png)  
 - [2022-06-13-隐私计算FATE-核心概念与单机部署指南](https://toutiao.io/k/1ash116) ![](assets/new.png)  
 - [2022-06-13-【第2639期】面向微前端，谈谈-JavaScript-隔离沙箱机制的古往今来](https://toutiao.io/k/e8xe879) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)

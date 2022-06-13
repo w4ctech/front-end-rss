@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-06-13 13:11:01。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-06-13 14:04:02。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -70,6 +70,16 @@
 
 - [【张鑫旭-鑫空间-鑫生活】2022-06-12-基于文字的URL锚点定位与::target-text样式设置](https://www.zhangxinxu.com/wordpress/2022/06/url-anchor-target-text/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-06-11-介绍一种CSS变量未定义语法也OK的小妙招](https://www.zhangxinxu.com/wordpress/2022/06/css-var-optional-empty-trick/) 
+- [【V2EX】2022-06-13-苹果电脑上的语音输入，有什么好办法吗](https://www.v2ex.com/t/859389) 
+- [【V2EX】2022-06-13-有没有办法把联想笔记本的键盘连上-iPad2018？](https://www.v2ex.com/t/859388) 
+- [【V2EX】2022-06-13-分享好玩活动](https://www.v2ex.com/t/859387) 
+- [【V2EX】2022-06-13-新疆自驾游找队友](https://www.v2ex.com/t/859386) 
+- [【V2EX】2022-06-13-v2ex-alfred-workflow](https://www.v2ex.com/t/859385) 
+- [【V2EX】2022-06-13-前端现在能入行吗-也算是有项目名经验](https://www.v2ex.com/t/859384) 
+- [【V2EX】2022-06-13-关于世界杯比赛日期、比分、充值、投注、提现，可以通过-telegram-机器人实现吗？](https://www.v2ex.com/t/859382) 
+- [【V2EX】2022-06-13-MIUI-现在可以管理获取手机号码用于一键登录的权限了](https://www.v2ex.com/t/859381) 
+- [【V2EX】2022-06-13-WIN10-微信的字体大小咋改》？？](https://www.v2ex.com/t/859380) 
+- [【V2EX】2022-06-13-Magic-keyboard-和-Magic-trackpad-黑科技](https://www.v2ex.com/t/859379) 
 - [【V2EX】2022-06-13-从推特下载的视频，发到微信个人史可以的，发到微信群居然会被屏蔽，这是怎么回事呢。](https://www.v2ex.com/t/859375) 
 - [【V2EX】2022-06-13-摆烂那么多年，-intel-12-代的-Nuc-什么时候来？](https://www.v2ex.com/t/859374) 
 - [【V2EX】2022-06-13-高位站岗，定投微笑，回本了](https://www.v2ex.com/t/859373) 
@@ -102,17 +112,6 @@
 - [【V2EX】2022-06-13-字节成都的瓜,-请问是真的吗,-有字节的朋友辟谣一下吗](https://www.v2ex.com/t/859343) 
 - [【V2EX】2022-06-13-求一款饮料名字](https://www.v2ex.com/t/859342) 
 - [【V2EX】2022-06-13-Cloudflare-DNS-无法正常解析](https://www.v2ex.com/t/859341) 
-- [【V2EX】2022-06-13-Telegram-重新登录但-GV-手机号早就被回收了，同时发现号码好像已经被别人绑定了，无法收到验证短信怎么办？](https://www.v2ex.com/t/859339) 
-- [【V2EX】2022-06-13-通过-mutable-系框架，回推一次性消息](https://www.v2ex.com/t/859338) 
-- [【V2EX】2022-06-13-说说你身边经济寒冬的具体表现？](https://www.v2ex.com/t/859336) 
-- [【V2EX】2022-06-13-618-要不要屯根内存](https://www.v2ex.com/t/859335) 
-- [【V2EX】2022-06-13-前端，请问这里-TS-如何定义数据类型？](https://www.v2ex.com/t/859334) 
-- [【V2EX】2022-06-13-大佬们来围观一下小白第一次写的垃圾代码（真的第一次写，毫无基础，边写边百度），-Python-向。](https://www.v2ex.com/t/859333) 
-- [【V2EX】2022-06-13-你们不常用的卡有没有被反诈误伤](https://www.v2ex.com/t/859332) 
-- [【V2EX】2022-06-13-brew-为什么每次安装安装都自动更新其他已存在软件](https://www.v2ex.com/t/859331) 
-- [【V2EX】2022-06-13-M1-Mac-开启-HiDPI-完美，最新-beta-版本-BetterDummy-无需镜像](https://www.v2ex.com/t/859330) 
-- [【V2EX】2022-06-13-删除/lib64/libstdc++.so-导致服务器无法启动](https://www.v2ex.com/t/859329) 
-- [【V2EX】2022-06-13-有哪些国产操作系统值得推荐用于生产环境](https://www.v2ex.com/t/859328) 
 - [【技术头条】2022-06-13-性能测试之K6篇-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15127&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fperformance-testing-k6%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-06-13-机器学习不是你想用，想用就能用-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15126&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fwhen-to-use-machine-learning%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-06-13-容器江湖的爱恨情仇-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15125&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fdocker-colima-podman-container%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -153,10 +152,10 @@
 - [【开发者头条】2022-06-13-可视化-Kubernetes-历史记录](https://toutiao.io/k/jv0745e) 
 - [【开发者头条】2022-06-13-【第2639期】面向微前端，谈谈-JavaScript-隔离沙箱机制的古往今来](https://toutiao.io/k/e8xe879) 
 - [【开发者头条】2022-06-13-隐私计算FATE-核心概念与单机部署指南](https://toutiao.io/k/1ash116) 
-- [【开发者头条】2022-06-13-推荐-消息队列原理和选型：Kafka、RocketMQ-、RabbitMQ-和-ActiveMQ](https://toutiao.io/k/nuwnwro) 
-- [【开发者头条】2022-06-13-推荐-总监的烦恼：技术丢了怎么办？](https://toutiao.io/k/rzytby1) 
 - [【开发者头条】2022-06-13-推荐-如何写出一篇好的技术方案？](https://toutiao.io/k/gl2cth8) 
+- [【开发者头条】2022-06-13-推荐-消息队列原理和选型：Kafka、RocketMQ-、RabbitMQ-和-ActiveMQ](https://toutiao.io/k/nuwnwro) 
 - [【开发者头条】2022-06-13-推荐-架构师成长路线图](https://toutiao.io/k/27b6p2e) 
+- [【开发者头条】2022-06-13-推荐-总监的烦恼：技术丢了怎么办？](https://toutiao.io/k/rzytby1) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

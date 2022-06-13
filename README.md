@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-06-13 19:11:43，:rocket: 更新条数: +2031， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-06-13 19:36:22，:rocket: 更新条数: +2031， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-06-13-再一个问题，主板第-1-条内存槽，过不了内存检测...](https://www.v2ex.com/t/859419) ![](assets/new.png)  
 - [2022-06-13-20220614-午夜俱乐部](https://www.v2ex.com/t/859418) ![](assets/new.png)  
 - [2022-06-13-冥想可以不闭眼睛么？](https://www.v2ex.com/t/859417) ![](assets/new.png)  
 - [2022-06-13-有没有长期用-apple-fitness+健身的朋友？认识下](https://www.v2ex.com/t/859416) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-06-13-你们现在台式机用什么装驱动呢](https://www.v2ex.com/t/859400) ![](assets/new.png)  
 - [2022-06-13-后端-西安-专科去年毕业-求职](https://www.v2ex.com/t/859399) ![](assets/new.png)  
 - [2022-06-13-建了一个-Discord-群，范围五花八门，欢迎进来玩](https://www.v2ex.com/t/859398) ![](assets/new.png)  
-- [2022-06-13-windows-端-QQ-音乐后台偷跑上传带宽？](https://www.v2ex.com/t/859395) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-06-13 10:44:33，:rocket: 更新条数: +2031， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-06-13 11:12:59，:rocket: 更新条数: +2031， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-06-13-明天早上乔姆斯基的讲座](https://www.v2ex.com/t/859354) ![](assets/new.png)  
 - [2022-06-13-爱奇艺是要国际化了吗？](https://www.v2ex.com/t/859353) ![](assets/new.png)  
 - [2022-06-13-想搞个-pixel-5a](https://www.v2ex.com/t/859351) ![](assets/new.png)  
 - [2022-06-13-Switch-硬件破解经验分享---自己动手破解焊接-switch-续航版](https://www.v2ex.com/t/859350) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-06-13-前端，请问这里-TS-如何定义数据类型？](https://www.v2ex.com/t/859334) ![](assets/new.png)  
 - [2022-06-13-大佬们来围观一下小白第一次写的垃圾代码（真的第一次写，毫无基础，边写边百度），-Python-向。](https://www.v2ex.com/t/859333) ![](assets/new.png)  
 - [2022-06-13-你们不常用的卡有没有被反诈误伤](https://www.v2ex.com/t/859332) ![](assets/new.png)  
-- [2022-06-13-brew-为什么每次安装安装都自动更新其他已存在软件](https://www.v2ex.com/t/859331) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

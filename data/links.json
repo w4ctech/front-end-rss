@@ -9953,6 +9953,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "明天早上乔姆斯基的讲座",
+        "link": "https://www.v2ex.com/t/859354",
+        "date": "2022-06-13"
+      },
+      {
         "title": "爱奇艺是要国际化了吗？",
         "link": "https://www.v2ex.com/t/859353",
         "date": "2022-06-13"
@@ -10150,11 +10155,6 @@
       {
         "title": "ADGuard 有必要付费吗",
         "link": "https://www.v2ex.com/t/859307",
-        "date": "2022-06-13"
-      },
-      {
-        "title": "你们说阿里云黑吗？",
-        "link": "https://www.v2ex.com/t/859305",
         "date": "2022-06-13"
       }
     ]
@@ -10372,8 +10372,8 @@
         "date": "2022-06-13"
       },
       {
-        "title": "[推荐] 消息队列原理和选型：Kafka、RocketMQ 、RabbitMQ 和 ActiveMQ",
-        "link": "https://toutiao.io/k/nuwnwro",
+        "title": "[推荐] 总监的烦恼：技术丢了怎么办？",
+        "link": "https://toutiao.io/k/rzytby1",
         "date": "2022-06-13"
       },
       {
@@ -10387,8 +10387,8 @@
         "date": "2022-06-13"
       },
       {
-        "title": "[推荐] 总监的烦恼：技术丢了怎么办？",
-        "link": "https://toutiao.io/k/rzytby1",
+        "title": "[推荐] 消息队列原理和选型：Kafka、RocketMQ 、RabbitMQ 和 ActiveMQ",
+        "link": "https://toutiao.io/k/nuwnwro",
         "date": "2022-06-13"
       }
     ]

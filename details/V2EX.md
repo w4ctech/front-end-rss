@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2022-06-13 10:44:33。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-06-13 11:12:59。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-06-13-明天早上乔姆斯基的讲座](https://www.v2ex.com/t/859354) 
 - [2022-06-13-爱奇艺是要国际化了吗？](https://www.v2ex.com/t/859353) 
 - [2022-06-13-想搞个-pixel-5a](https://www.v2ex.com/t/859351) 
 - [2022-06-13-Switch-硬件破解经验分享---自己动手破解焊接-switch-续航版](https://www.v2ex.com/t/859350) 
@@ -45,4 +46,3 @@
 - [2022-06-13-兄弟们，-AirPods-Pro-的降噪快削没了](https://www.v2ex.com/t/859309) 
 - [2022-06-13-如何给-Chrome-的某个标签断网](https://www.v2ex.com/t/859308) 
 - [2022-06-13-ADGuard-有必要付费吗](https://www.v2ex.com/t/859307) 
-- [2022-06-13-你们说阿里云黑吗？](https://www.v2ex.com/t/859305) 

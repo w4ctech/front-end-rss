@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-06-13 19:36:22，:rocket: 更新条数: +2031， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-06-13 20:15:02，:rocket: 更新条数: +2031， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-06-13-#-跨境电商独角兽-SHEIN-希音持续招人！国内-IOS、安卓、-Java-、产品经理、前端-TL、安全研发、运维等急招！新加坡研发中心福利更是超级加倍！更多信息请点进来...](https://www.v2ex.com/t/859420) ![](assets/new.png)  
 - [2022-06-13-再一个问题，主板第-1-条内存槽，过不了内存检测...](https://www.v2ex.com/t/859419) ![](assets/new.png)  
 - [2022-06-13-20220614-午夜俱乐部](https://www.v2ex.com/t/859418) ![](assets/new.png)  
 - [2022-06-13-冥想可以不闭眼睛么？](https://www.v2ex.com/t/859417) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-06-13-阿里云-飞天-5k-数字藏品，简单任务，限量-10k](https://www.v2ex.com/t/859401) ![](assets/new.png)  
 - [2022-06-13-你们现在台式机用什么装驱动呢](https://www.v2ex.com/t/859400) ![](assets/new.png)  
 - [2022-06-13-后端-西安-专科去年毕业-求职](https://www.v2ex.com/t/859399) ![](assets/new.png)  
-- [2022-06-13-建了一个-Discord-群，范围五花八门，欢迎进来玩](https://www.v2ex.com/t/859398) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-06-13 10:15:46。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-06-13 10:44:33。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,9 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-06-13-爱奇艺是要国际化了吗？](https://www.v2ex.com/t/859353) 
+- [2022-06-13-想搞个-pixel-5a](https://www.v2ex.com/t/859351) 
+- [2022-06-13-Switch-硬件破解经验分享---自己动手破解焊接-switch-续航版](https://www.v2ex.com/t/859350) 
 - [2022-06-13-PPPoE-什么时候才能被淘汰？](https://www.v2ex.com/t/859349) 
 - [2022-06-13-前端技术专家（Authing-身份云/开放平台方向/北京）](https://www.v2ex.com/t/859348) 
 - [2022-06-13-有-NAS+google-photo-双持的老哥吗，如何解决-livephoto-的问题？](https://www.v2ex.com/t/859347) 
@@ -1941,9 +1944,6 @@
 - [2022-06-13-兄弟们，-AirPods-Pro-的降噪快削没了](https://www.v2ex.com/t/859309) 
 - [2022-06-13-ADGuard-有必要付费吗](https://www.v2ex.com/t/859307) 
 - [2022-06-13-你们说阿里云黑吗？](https://www.v2ex.com/t/859305) 
-- [2022-06-13-鼠标疑惑：已经有-viper-了还需要买-gpw-吗](https://www.v2ex.com/t/859302) 
-- [2022-06-13-老罗要-AR-创业了](https://www.v2ex.com/t/859301) 
-- [2022-06-13-年初住院手术，微医保却迟迟不给赔付，到底是疫情原因还是保险公司问题？](https://www.v2ex.com/t/859300) 
 - [2022-06-13-机器学习不是你想用，想用就能用-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15126&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fwhen-to-use-machine-learning%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-06-13-容器江湖的爱恨情仇-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15125&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fdocker-colima-podman-container%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-06-13-看看你有没有陷入“标签化”客户和-用户-的陷阱？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15124&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fbusiness-analyst-growth%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1973,6 +1973,6 @@
 - [2022-06-13-可视化-Kubernetes-历史记录](https://toutiao.io/k/jv0745e) 
 - [2022-06-13-隐私计算FATE-核心概念与单机部署指南](https://toutiao.io/k/1ash116) 
 - [2022-06-13-推荐-消息队列原理和选型：Kafka、RocketMQ-、RabbitMQ-和-ActiveMQ](https://toutiao.io/k/nuwnwro) 
-- [2022-06-13-推荐-总监的烦恼：技术丢了怎么办？](https://toutiao.io/k/rzytby1) 
 - [2022-06-13-推荐-架构师成长路线图](https://toutiao.io/k/27b6p2e) 
 - [2022-06-13-推荐-如何写出一篇好的技术方案？](https://toutiao.io/k/gl2cth8) 
+- [2022-06-13-推荐-总监的烦恼：技术丢了怎么办？](https://toutiao.io/k/rzytby1) 

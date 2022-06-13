@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-06-13 15:50:45。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-06-13 16:18:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,8 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-06-13-红米电视-X65-2022-款看着不错啊](https://www.v2ex.com/t/859407) 
+- [2022-06-13-为什么实现网页逐行对照翻译的插件这么少，有什么瓶颈吗](https://www.v2ex.com/t/859406) 
 - [2022-06-13-疫情初期听到的，当时以为不过是个没底线的女人而已……](https://www.v2ex.com/t/859404) 
 - [2022-06-13-阿里云-飞天-5k-数字藏品，简单任务，限量-10k](https://www.v2ex.com/t/859401) 
 - [2022-06-13-你们现在台式机用什么装驱动呢](https://www.v2ex.com/t/859400) 
@@ -1945,8 +1947,6 @@
 - [2022-06-13-win11-安卓怎么跟本机上文件互传，共享？](https://www.v2ex.com/t/859362) 
 - [2022-06-13-大厂后台管理系统登录会和前台接同一个-OpenID-鉴权系统吗？](https://www.v2ex.com/t/859360) 
 - [2022-06-13-替大家踩了个升降台的坑](https://www.v2ex.com/t/859359) 
-- [2022-06-13-小米的-1s-台灯，旋钮突然卡死](https://www.v2ex.com/t/859358) 
-- [2022-06-13-feat:-set-cmdheight=0-刚刚合并了！](https://www.v2ex.com/t/859357) 
 - [2022-06-13-机器学习不是你想用，想用就能用-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15126&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fwhen-to-use-machine-learning%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-06-13-容器江湖的爱恨情仇-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15125&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fdocker-colima-podman-container%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-06-13-看看你有没有陷入“标签化”客户和-用户-的陷阱？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15124&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fbusiness-analyst-growth%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1975,7 +1975,8 @@
 - [2022-06-13-Go-1.19-Beta1-发布，这个改动挺有意思](https://toutiao.io/k/xtg731v) 
 - [2022-06-13-可视化-Kubernetes-历史记录](https://toutiao.io/k/jv0745e) 
 - [2022-06-13-隐私计算FATE-核心概念与单机部署指南](https://toutiao.io/k/1ash116) 
+- [2022-06-13-推荐-MongoDB全方位知识图谱！](https://toutiao.io/k/efxw4nr) 
 - [2022-06-13-推荐-如何写出一篇好的技术方案？](https://toutiao.io/k/gl2cth8) 
 - [2022-06-13-推荐-消息队列原理和选型：Kafka、RocketMQ-、RabbitMQ-和-ActiveMQ](https://toutiao.io/k/nuwnwro) 
-- [2022-06-13-推荐-总监的烦恼：技术丢了怎么办？](https://toutiao.io/k/rzytby1) 
 - [2022-06-13-推荐-架构师成长路线图](https://toutiao.io/k/27b6p2e) 
+- [2022-06-13-推荐-总监的烦恼：技术丢了怎么办？](https://toutiao.io/k/rzytby1) 

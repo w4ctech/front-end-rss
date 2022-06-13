@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-06-12 23:38:46，:rocket: 更新条数: +2026， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-06-13 01:05:40，:rocket: 更新条数: +2020， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,8 +491,10 @@
 </summary>
 
 
+- [2022-06-13-Dynimgen-是一款动态图片生成服务，适用于动态生成邀请海报，分享图片，用户名片等。](https://www.v2ex.com/t/859183) ![](assets/new.png)  
+- [2022-06-13-想学钢琴](https://www.v2ex.com/t/859182) ![](assets/new.png)  
+- [2022-06-13-想买个手机，选哪个？](https://www.v2ex.com/t/859181) ![](assets/new.png)  
 - [2022-06-12-求推荐用作代理链落地的便宜香港-vps](https://www.v2ex.com/t/859180) ![](assets/new.png)  
-- [2022-06-12-上海抗，疫](https://www.v2ex.com/t/859179) ![](assets/new.png)  
 - [2022-06-12-哔了狗的-gorm.-很久没用-golang-了，生态这么操蛋么？](https://www.v2ex.com/t/859178) ![](assets/new.png)  
 - [2022-06-12-有什么比较好的方法能够提高英语水平吗？（尤其是口语化表达）](https://www.v2ex.com/t/859177) ![](assets/new.png)  
 - [2022-06-12-自荐项目:-基于-go-task-+-Taskfile-写了很多日常开发的初始化脚本跨平台集合](https://www.v2ex.com/t/859176) ![](assets/new.png)  
@@ -503,14 +505,12 @@
 - [2022-06-12-RTL8852AE-真坑，虚标信号强度](https://www.v2ex.com/t/859170) ![](assets/new.png)  
 - [2022-06-12-怎么不浪费通勤时间呢？](https://www.v2ex.com/t/859169) ![](assets/new.png)  
 - [2022-06-12-Urara：开源联邦式静态博客启动器](https://www.v2ex.com/t/859168) ![](assets/new.png)  
-- [2022-06-12-2022-年在哪注册和续费-org-域名最划算?](https://www.v2ex.com/t/859167) ![](assets/new.png)  
 - [2022-06-12-深圳注册公司的坑，一些经验分享（视频和文档）](https://www.v2ex.com/t/859166) ![](assets/new.png)  
 - [2022-06-12-hhkb-hybrid-/-classic-/-客制化-选择](https://www.v2ex.com/t/859165) ![](assets/new.png)  
 - [2022-06-12-周末看新东方直播](https://www.v2ex.com/t/859164) ![](assets/new.png)  
 - [2022-06-12-即使不处于苹果自带地图的导航中，也能报告交通异常状况。那么大家看到交通异常状况就可以随手拿起-iPhone-跟-Siri-报告。](https://www.v2ex.com/t/859163) ![](assets/new.png)  
 - [2022-06-12-我还在和设计缠斗-后端已经和老板谈笑风生了](https://www.v2ex.com/t/859162) ![](assets/new.png)  
 - [2022-06-12-谷歌浏览器无法打开-v2-可能什么原因呢?](https://www.v2ex.com/t/859161) ![](assets/new.png)  
-- [2022-06-12-我怎么觉得-Java-的-JNI-比-Go-的-CGO-要好呢？](https://www.v2ex.com/t/859160) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -522,26 +522,26 @@
 </summary>
 
 
-- [2022-06-12-机器学习不是你想用，想用就能用-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15126&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fwhen-to-use-machine-learning%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-06-12-容器江湖的爱恨情仇-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15125&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fdocker-colima-podman-container%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-06-12-看看你有没有陷入“标签化”客户和-用户-的陷阱？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15124&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fbusiness-analyst-growth%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-06-12-验收标准到底是不是测试用例？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15123&url=https%3A%2F%2Finsights.thoughtworks.cn%2Facceptance-criteria-testcases%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-06-12-性能指标的信仰危机-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15122&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fperformance-indicator%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-06-12-在一个“去QA化”的项目中，QA能做什么？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15121&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fquality-assurance-in-project%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-06-12-4个Python编程游戏网站，玩嗨了~-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15120&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494149%26amp%3Bidx%3D1%26amp%3Bsn%3D7525aafe254b1a8017fee638cc5f3340%26amp%3Bchksm%3Dfa3f0b5ecd4882481060c4ccceff14d66ac9348089028ca145d07a17dbd153e46155fb2e0138%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-06-12-iOS15如何让App启动更快？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15119&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494149%26amp%3Bidx%3D2%26amp%3Bsn%3Df78c229c1bf42fa5bc19b137bd01b4ca%26amp%3Bchksm%3Dfa3f0b5ecd488248750c26ccb7cb86220a416c2657619abefdc9475ddfecf496d91dbbf2dd3d%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-06-12-一款开源OA办公自动化系统-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15118&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494148%26amp%3Bidx%3D1%26amp%3Bsn%3Dc409296967c2c443ac34619a0df1024c%26amp%3Bchksm%3Dfa3f0b5fcd488249ccc9d3a2ae116d0f7e4bd8ff1a35651088cf2ba4eed0a128e473660fdeb3%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-06-12-别再用OFFSET和LIMIT分页了-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15117&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494148%26amp%3Bidx%3D2%26amp%3Bsn%3D457ac577577c945e7827566c4d076745%26amp%3Bchksm%3Dfa3f0b5fcd488249f46db6b8144c812cd84a609a309eb90a9d265226d76dce6eac73a799a723%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-06-12-VSCode花式摸鱼大法，悄悄用起来！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15116&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494145%26amp%3Bidx%3D1%26amp%3Bsn%3Dbe3f203c539822e9a38e50b902c612e3%26amp%3Bchksm%3Dfa3f0b5acd48824c2d94526b01235144c60ab13b3bab4d63e207115b1ba05b7d62817e34ec90%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-06-12-面试官：Java反射是什么？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15115&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494145%26amp%3Bidx%3D2%26amp%3Bsn%3D32bbd28f61522900d0fca0135d4c3a69%26amp%3Bchksm%3Dfa3f0b5acd48824c8b0b637aa499dfbb749e97a8cc28ec30887bb77d99628c931a87ede7cc7e%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-06-12-一定用得到的C++资源，限时开放收藏！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15114&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494135%26amp%3Bidx%3D1%26amp%3Bsn%3Db4e7fa404171dd55f0a3a100ac2b3156%26amp%3Bchksm%3Dfa3f08accd4881bad00269d8624fc435e39c28e7f3dcc35cbe306323fc64ba5daaf6affe751b%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-06-12-Airbnb是如何从JavaScript迁移到TypeScript的？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15113&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494135%26amp%3Bidx%3D2%26amp%3Bsn%3Dd5957f395d6f57e3faf6c6d8adea469f%26amp%3Bchksm%3Dfa3f08accd4881ba189025550b3f4af15ac7eda26d8274b4bedec5b13ebd27c39c1e8edd540a%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-06-12-什么是子网掩码?-www.awaimai.com](https://blogread.cn/news/go.php?idItem=15112&url=https%3A%2F%2Fwww.awaimai.com%2F2933.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-06-12-4-个用来擦除数据的-Linux-工具-linux.cn](https://blogread.cn/news/go.php?idItem=15111&url=https%3A%2F%2Flinux.cn%2Farticle-13913-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-06-12-使用-logrotate-命令轮转和归档日志-linux.cn](https://blogread.cn/news/go.php?idItem=15110&url=https%3A%2F%2Flinux.cn%2Farticle-13909-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-06-12-在-Apache-Cassandra-中定义和优化数据分区-linux.cn](https://blogread.cn/news/go.php?idItem=15109&url=https%3A%2F%2Flinux.cn%2Farticle-13908-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-06-12-服饰3D柔性渲染调研及实践-fed.taobao.org](https://blogread.cn/news/go.php?idItem=15108&url=https%3A%2F%2Ffed.taobao.org%2Fblog%2Ftaofed%2Fdo71ct%2Ffufsgh%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-06-12-业务系统的稳定性建设-fed.taobao.org](https://blogread.cn/news/go.php?idItem=15107&url=https%3A%2F%2Ffed.taobao.org%2Fblog%2Ftaofed%2Fdo71ct%2Ffc3cy0%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2022-06-13-机器学习不是你想用，想用就能用-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15126&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fwhen-to-use-machine-learning%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2022-06-13-容器江湖的爱恨情仇-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15125&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fdocker-colima-podman-container%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2022-06-13-看看你有没有陷入“标签化”客户和-用户-的陷阱？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15124&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fbusiness-analyst-growth%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2022-06-13-验收标准到底是不是测试用例？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15123&url=https%3A%2F%2Finsights.thoughtworks.cn%2Facceptance-criteria-testcases%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2022-06-13-性能指标的信仰危机-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15122&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fperformance-indicator%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2022-06-13-在一个“去QA化”的项目中，QA能做什么？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15121&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fquality-assurance-in-project%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2022-06-13-4个Python编程游戏网站，玩嗨了~-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15120&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494149%26amp%3Bidx%3D1%26amp%3Bsn%3D7525aafe254b1a8017fee638cc5f3340%26amp%3Bchksm%3Dfa3f0b5ecd4882481060c4ccceff14d66ac9348089028ca145d07a17dbd153e46155fb2e0138%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2022-06-13-iOS15如何让App启动更快？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15119&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494149%26amp%3Bidx%3D2%26amp%3Bsn%3Df78c229c1bf42fa5bc19b137bd01b4ca%26amp%3Bchksm%3Dfa3f0b5ecd488248750c26ccb7cb86220a416c2657619abefdc9475ddfecf496d91dbbf2dd3d%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2022-06-13-一款开源OA办公自动化系统-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15118&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494148%26amp%3Bidx%3D1%26amp%3Bsn%3Dc409296967c2c443ac34619a0df1024c%26amp%3Bchksm%3Dfa3f0b5fcd488249ccc9d3a2ae116d0f7e4bd8ff1a35651088cf2ba4eed0a128e473660fdeb3%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2022-06-13-别再用OFFSET和LIMIT分页了-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15117&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494148%26amp%3Bidx%3D2%26amp%3Bsn%3D457ac577577c945e7827566c4d076745%26amp%3Bchksm%3Dfa3f0b5fcd488249f46db6b8144c812cd84a609a309eb90a9d265226d76dce6eac73a799a723%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2022-06-13-VSCode花式摸鱼大法，悄悄用起来！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15116&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494145%26amp%3Bidx%3D1%26amp%3Bsn%3Dbe3f203c539822e9a38e50b902c612e3%26amp%3Bchksm%3Dfa3f0b5acd48824c2d94526b01235144c60ab13b3bab4d63e207115b1ba05b7d62817e34ec90%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2022-06-13-面试官：Java反射是什么？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15115&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494145%26amp%3Bidx%3D2%26amp%3Bsn%3D32bbd28f61522900d0fca0135d4c3a69%26amp%3Bchksm%3Dfa3f0b5acd48824c8b0b637aa499dfbb749e97a8cc28ec30887bb77d99628c931a87ede7cc7e%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2022-06-13-一定用得到的C++资源，限时开放收藏！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15114&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494135%26amp%3Bidx%3D1%26amp%3Bsn%3Db4e7fa404171dd55f0a3a100ac2b3156%26amp%3Bchksm%3Dfa3f08accd4881bad00269d8624fc435e39c28e7f3dcc35cbe306323fc64ba5daaf6affe751b%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2022-06-13-Airbnb是如何从JavaScript迁移到TypeScript的？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15113&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494135%26amp%3Bidx%3D2%26amp%3Bsn%3Dd5957f395d6f57e3faf6c6d8adea469f%26amp%3Bchksm%3Dfa3f08accd4881ba189025550b3f4af15ac7eda26d8274b4bedec5b13ebd27c39c1e8edd540a%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2022-06-13-什么是子网掩码?-www.awaimai.com](https://blogread.cn/news/go.php?idItem=15112&url=https%3A%2F%2Fwww.awaimai.com%2F2933.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2022-06-13-4-个用来擦除数据的-Linux-工具-linux.cn](https://blogread.cn/news/go.php?idItem=15111&url=https%3A%2F%2Flinux.cn%2Farticle-13913-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2022-06-13-使用-logrotate-命令轮转和归档日志-linux.cn](https://blogread.cn/news/go.php?idItem=15110&url=https%3A%2F%2Flinux.cn%2Farticle-13909-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2022-06-13-在-Apache-Cassandra-中定义和优化数据分区-linux.cn](https://blogread.cn/news/go.php?idItem=15109&url=https%3A%2F%2Flinux.cn%2Farticle-13908-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2022-06-13-服饰3D柔性渲染调研及实践-fed.taobao.org](https://blogread.cn/news/go.php?idItem=15108&url=https%3A%2F%2Ffed.taobao.org%2Fblog%2Ftaofed%2Fdo71ct%2Ffufsgh%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2022-06-13-业务系统的稳定性建设-fed.taobao.org](https://blogread.cn/news/go.php?idItem=15107&url=https%3A%2F%2Ffed.taobao.org%2Fblog%2Ftaofed%2Fdo71ct%2Ffc3cy0%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -553,20 +553,16 @@
 </summary>
 
 
-- [2022-06-12-欢迎加入读者圈子，一起交流！](https://toutiao.io/k/h3qlj72) ![](assets/new.png)  
-- [2022-06-12-支持10X增长，携程机票订单库Sharding实践](https://toutiao.io/k/cp43o8k) ![](assets/new.png)  
-- [2022-06-12-You-Only-Live-Once？](https://toutiao.io/k/rr0kakz) ![](assets/new.png)  
-- [2022-06-12-腾讯信息流亿级相似视频识别技术架构优化实践](https://toutiao.io/k/0esxgh4) ![](assets/new.png)  
-- [2022-06-12-团队管理｜如何提高技术Leader的思考技巧？](https://toutiao.io/k/f3496vg) ![](assets/new.png)  
-- [2022-06-12-go-zero-微服务实战系列（二、服务拆分）](https://toutiao.io/k/gipty7q) ![](assets/new.png)  
-- [2022-06-12-VUE开发者必须知道的实用技术点！](https://toutiao.io/k/u28xok7) ![](assets/new.png)  
-- [2022-06-12-相忘于江湖，追逐于区块链](https://toutiao.io/k/j15dsas) ![](assets/new.png)  
-- [2022-06-12-基于-eBPF-的开源项目-eCapture-介绍：无需-CA-证书抓-https-网络明文通讯](https://toutiao.io/k/5mgyt8c) ![](assets/new.png)  
-- [2022-06-12-这个项目准备录制视频教程啦](https://toutiao.io/k/uhayjmd) ![](assets/new.png)  
-- [2022-06-12-推荐-总监的烦恼：技术丢了怎么办？](https://toutiao.io/k/rzytby1) ![](assets/new.png)  
-- [2022-06-12-推荐-架构师成长路线图](https://toutiao.io/k/27b6p2e) ![](assets/new.png)  
-- [2022-06-12-推荐-如何写出一篇好的技术方案？](https://toutiao.io/k/gl2cth8) ![](assets/new.png)  
-- [2022-06-12-推荐-消息队列原理和选型：Kafka、RocketMQ-、RabbitMQ-和-ActiveMQ](https://toutiao.io/k/nuwnwro) ![](assets/new.png)  
+- [2022-06-13-“拖文件自动上传到远程服务器”，支持多种平台的原生终端。](https://toutiao.io/k/ea4uy8e) ![](assets/new.png)  
+- [2022-06-13-线上真实排队系统重构案例分享——实战篇](https://toutiao.io/k/4vki4nq) ![](assets/new.png)  
+- [2022-06-13-Go练手：日志监控告警](https://toutiao.io/k/x8vfmww) ![](assets/new.png)  
+- [2022-06-13-PyScript：让-Python-在-Web-中跑起来](https://toutiao.io/k/9pcbq29) ![](assets/new.png)  
+- [2022-06-13-失去才懂珍惜？Apache-Ambari-项目即将重启，再次进入-Apache-孵化器](https://toutiao.io/k/1vqpjs3) ![](assets/new.png)  
+- [2022-06-13-收藏！14-种异常检测方法总结](https://toutiao.io/k/z3twv9y) ![](assets/new.png)  
+- [2022-06-13-推荐-如何写出一篇好的技术方案？](https://toutiao.io/k/gl2cth8) ![](assets/new.png)  
+- [2022-06-13-推荐-消息队列原理和选型：Kafka、RocketMQ-、RabbitMQ-和-ActiveMQ](https://toutiao.io/k/nuwnwro) ![](assets/new.png)  
+- [2022-06-13-推荐-架构师成长路线图](https://toutiao.io/k/27b6p2e) ![](assets/new.png)  
+- [2022-06-13-推荐-总监的烦恼：技术丢了怎么办？](https://toutiao.io/k/rzytby1) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-06-13 09:15:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-06-13 09:41:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,10 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-06-13-Cloudflare-DNS-无法正常解析](https://www.v2ex.com/t/859341) 
+- [2022-06-13-Telegram-重新登录但-GV-手机号早就被回收了，同时发现号码好像已经被别人绑定了，无法收到验证短信怎么办？](https://www.v2ex.com/t/859339) 
+- [2022-06-13-通过-mutable-系框架，回推一次性消息](https://www.v2ex.com/t/859338) 
+- [2022-06-13-说说你身边经济寒冬的具体表现？](https://www.v2ex.com/t/859336) 
 - [2022-06-13-618-要不要屯根内存](https://www.v2ex.com/t/859335) 
 - [2022-06-13-前端，请问这里-TS-如何定义数据类型？](https://www.v2ex.com/t/859334) 
 - [2022-06-13-大佬们来围观一下小白第一次写的垃圾代码（真的第一次写，毫无基础，边写边百度），-Python-向。](https://www.v2ex.com/t/859333) 
@@ -1937,9 +1941,6 @@
 - [2022-06-13-深圳惠民保有必要买吗?](https://www.v2ex.com/t/859299) 
 - [2022-06-13-iOS16-测试版建议不要更换电池](https://www.v2ex.com/t/859297) 
 - [2022-06-13-有人出现-ipados16-无法使用通用控制的问题吗？](https://www.v2ex.com/t/859296) 
-- [2022-06-13-知道今年行情差，但真的差到这么离谱吗](https://www.v2ex.com/t/859290) 
-- [2022-06-13-T-技术沙龙-线上活动丨互联网“毕业”季，我们是怎么被“毕业”的？](https://www.v2ex.com/t/859287) 
-- [2022-06-13-关于群晖和威联通同步到百度网盘的问题](https://www.v2ex.com/t/859286) 
 - [2022-06-13-机器学习不是你想用，想用就能用-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15126&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fwhen-to-use-machine-learning%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-06-13-容器江湖的爱恨情仇-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15125&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fdocker-colima-podman-container%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-06-13-看看你有没有陷入“标签化”客户和-用户-的陷阱？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15124&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fbusiness-analyst-growth%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1968,7 +1969,7 @@
 - [2022-06-13-Go-1.19-Beta1-发布，这个改动挺有意思](https://toutiao.io/k/xtg731v) 
 - [2022-06-13-可视化-Kubernetes-历史记录](https://toutiao.io/k/jv0745e) 
 - [2022-06-13-隐私计算FATE-核心概念与单机部署指南](https://toutiao.io/k/1ash116) 
-- [2022-06-13-推荐-消息队列原理和选型：Kafka、RocketMQ-、RabbitMQ-和-ActiveMQ](https://toutiao.io/k/nuwnwro) 
-- [2022-06-13-推荐-如何写出一篇好的技术方案？](https://toutiao.io/k/gl2cth8) 
 - [2022-06-13-推荐-架构师成长路线图](https://toutiao.io/k/27b6p2e) 
 - [2022-06-13-推荐-总监的烦恼：技术丢了怎么办？](https://toutiao.io/k/rzytby1) 
+- [2022-06-13-推荐-如何写出一篇好的技术方案？](https://toutiao.io/k/gl2cth8) 
+- [2022-06-13-推荐-消息队列原理和选型：Kafka、RocketMQ-、RabbitMQ-和-ActiveMQ](https://toutiao.io/k/nuwnwro) 

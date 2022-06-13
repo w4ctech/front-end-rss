@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-06-13 23:14:32。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-06-13 23:39:09。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -70,6 +70,7 @@
 
 - [【张鑫旭-鑫空间-鑫生活】2022-06-12-基于文字的URL锚点定位与::target-text样式设置](https://www.zhangxinxu.com/wordpress/2022/06/url-anchor-target-text/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-06-11-介绍一种CSS变量未定义语法也OK的小妙招](https://www.zhangxinxu.com/wordpress/2022/06/css-var-optional-empty-trick/) 
+- [【V2EX】2022-06-13-我的-mbp-保修期内再一次坏了](https://www.v2ex.com/t/859427) 
 - [【V2EX】2022-06-13-黄牛的脚本通过这种验证方式的成功率高吗](https://www.v2ex.com/t/859426) 
 - [【V2EX】2022-06-13-回泉州啦，为期-3-个月](https://www.v2ex.com/t/859425) 
 - [【V2EX】2022-06-13-AWS-S3+Cloudfront-无限流量？](https://www.v2ex.com/t/859424) 
@@ -150,11 +151,11 @@
 - [【开发者头条】2022-06-13-可视化-Kubernetes-历史记录](https://toutiao.io/k/jv0745e) 
 - [【开发者头条】2022-06-13-【第2639期】面向微前端，谈谈-JavaScript-隔离沙箱机制的古往今来](https://toutiao.io/k/e8xe879) 
 - [【开发者头条】2022-06-13-隐私计算FATE-核心概念与单机部署指南](https://toutiao.io/k/1ash116) 
-- [【开发者头条】2022-06-13-推荐-架构师成长路线图](https://toutiao.io/k/27b6p2e) 
-- [【开发者头条】2022-06-13-推荐-消息队列原理和选型：Kafka、RocketMQ-、RabbitMQ-和-ActiveMQ](https://toutiao.io/k/nuwnwro) 
 - [【开发者头条】2022-06-13-推荐-MongoDB全方位知识图谱！](https://toutiao.io/k/efxw4nr) 
-- [【开发者头条】2022-06-13-推荐-总监的烦恼：技术丢了怎么办？](https://toutiao.io/k/rzytby1) 
 - [【开发者头条】2022-06-13-推荐-如何写出一篇好的技术方案？](https://toutiao.io/k/gl2cth8) 
+- [【开发者头条】2022-06-13-推荐-消息队列原理和选型：Kafka、RocketMQ-、RabbitMQ-和-ActiveMQ](https://toutiao.io/k/nuwnwro) 
+- [【开发者头条】2022-06-13-推荐-总监的烦恼：技术丢了怎么办？](https://toutiao.io/k/rzytby1) 
+- [【开发者头条】2022-06-13-推荐-架构师成长路线图](https://toutiao.io/k/27b6p2e) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

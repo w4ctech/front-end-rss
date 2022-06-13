@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-06-13 23:14:32，:rocket: 更新条数: +2031， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-06-13 23:39:08，:rocket: 更新条数: +2032， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-06-13-我的-mbp-保修期内再一次坏了](https://www.v2ex.com/t/859427) ![](assets/new.png)  
 - [2022-06-13-黄牛的脚本通过这种验证方式的成功率高吗](https://www.v2ex.com/t/859426) ![](assets/new.png)  
 - [2022-06-13-回泉州啦，为期-3-个月](https://www.v2ex.com/t/859425) ![](assets/new.png)  
 - [2022-06-13-AWS-S3+Cloudfront-无限流量？](https://www.v2ex.com/t/859424) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-06-13-求助：奇怪的快递单号，这是什么快递？](https://www.v2ex.com/t/859409) ![](assets/new.png)  
 - [2022-06-13-询问有没有浏览器插件直接隔绝各视频网站的评论区](https://www.v2ex.com/t/859408) ![](assets/new.png)  
 - [2022-06-13-红米电视-X65-2022-款看着不错啊](https://www.v2ex.com/t/859407) ![](assets/new.png)  
-- [2022-06-13-为什么实现网页逐行对照翻译的插件这么少，有什么瓶颈吗](https://www.v2ex.com/t/859406) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

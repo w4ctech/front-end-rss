@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2022-06-13 17:44:00。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-06-13 18:20:17。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-06-13-冥想可以不闭眼睛么？](https://www.v2ex.com/t/859417) 
 - [2022-06-13-有没有长期用-apple-fitness+健身的朋友？认识下](https://www.v2ex.com/t/859416) 
 - [2022-06-13-社区团购团长赚钱吗？](https://www.v2ex.com/t/859415) 
 - [2022-06-13-准备开个美区-iCloud-2T-的车，有没有朋友感兴趣一起](https://www.v2ex.com/t/859414) 
@@ -44,4 +45,3 @@
 - [2022-06-13-世界杯即将来临了，你会买足彩吗？](https://www.v2ex.com/t/859370) 
 - [2022-06-13-bitwarden_rs-可以运行在不可信的环境中吗？](https://www.v2ex.com/t/859369) 
 - [2022-06-13-求助-现在有一台-Macbook-Pro-2020（intel）和-27-寸-iMac-2015-late，请问如何将-iMac-作为-MBP-的扩展屏？](https://www.v2ex.com/t/859368) 
-- [2022-06-13-冥王峡谷-NUC8I7HVK-支持-macOS-12.4-了吗](https://www.v2ex.com/t/859367) 

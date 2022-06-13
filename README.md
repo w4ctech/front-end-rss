@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-06-13 17:44:00，:rocket: 更新条数: +2031， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-06-13 18:20:17，:rocket: 更新条数: +2031， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-06-13-冥想可以不闭眼睛么？](https://www.v2ex.com/t/859417) ![](assets/new.png)  
 - [2022-06-13-有没有长期用-apple-fitness+健身的朋友？认识下](https://www.v2ex.com/t/859416) ![](assets/new.png)  
 - [2022-06-13-社区团购团长赚钱吗？](https://www.v2ex.com/t/859415) ![](assets/new.png)  
 - [2022-06-13-准备开个美区-iCloud-2T-的车，有没有朋友感兴趣一起](https://www.v2ex.com/t/859414) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-06-13-建了一个-Discord-群，范围五花八门，欢迎进来玩](https://www.v2ex.com/t/859398) ![](assets/new.png)  
 - [2022-06-13-windows-端-QQ-音乐后台偷跑上传带宽？](https://www.v2ex.com/t/859395) ![](assets/new.png)  
 - [2022-06-13-苹果-Apple-ID-的-2FA-只能使用电话号码？](https://www.v2ex.com/t/859394) ![](assets/new.png)  
-- [2022-06-13-上海电信-200m-上行可以付钱买了](https://www.v2ex.com/t/859393) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

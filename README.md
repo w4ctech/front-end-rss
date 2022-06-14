@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-06-14 12:25:04，:rocket: 更新条数: +2034， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-06-14 13:08:02，:rocket: 更新条数: +2033， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,13 @@
 </summary>
 
 
+- [2022-06-14-7-Z-的加密压缩软件破解](https://www.v2ex.com/t/859622) ![](assets/new.png)  
+- [2022-06-14-M1-Parallel-Arm-版-Win11-搜狗输入法有问题，有老哥遇到过吗](https://www.v2ex.com/t/859620) ![](assets/new.png)  
+- [2022-06-14-键盘进蟑螂了](https://www.v2ex.com/t/859619) ![](assets/new.png)  
+- [2022-06-14-疫情带来的环境污染](https://www.v2ex.com/t/859618) ![](assets/new.png)  
+- [2022-06-14-快手卖货拼多多下单，直播间假粉相关问题求助](https://www.v2ex.com/t/859617) ![](assets/new.png)  
+- [2022-06-14-世纪龙天翼数字生活出来更新官网证书啦！](https://www.v2ex.com/t/859616) ![](assets/new.png)  
+- [2022-06-14-字节-Client-AI-22/23-届校招/实习](https://www.v2ex.com/t/859615) ![](assets/new.png)  
 - [2022-06-14-AirPods-2-代-右耳电量异常](https://www.v2ex.com/t/859614) ![](assets/new.png)  
 - [2022-06-14-Casbin-开源社区《明日之星-Talent-2022》开源远程实习，-10+岗位火热招募中！](https://www.v2ex.com/t/859613) ![](assets/new.png)  
 - [2022-06-14-想买个二手主机学习用，装-Linux-试下各种新型的-OLAP-数据库。有推荐的吗？](https://www.v2ex.com/t/859612) ![](assets/new.png)  
@@ -504,13 +511,6 @@
 - [2022-06-14-字节-cdn-jquery-1.11.3-某个节点挂了？？](https://www.v2ex.com/t/859602) ![](assets/new.png)  
 - [2022-06-14-群晖-220+-这几天新买了一个硬盘却遇到了一个问题](https://www.v2ex.com/t/859601) ![](assets/new.png)  
 - [2022-06-14-老哥们，在做-copy-paste-的时候，-mac-下有什么好的-notepad/stickies-类可以临时存一些文本用](https://www.v2ex.com/t/859600) ![](assets/new.png)  
-- [2022-06-14-国家开始硬推广-国家反诈了？](https://www.v2ex.com/t/859599) ![](assets/new.png)  
-- [2022-06-14-提问-将容器的所有流量转发到指定的物理网卡上](https://www.v2ex.com/t/859598) ![](assets/new.png)  
-- [2022-06-14-有没有比较懂指纹锁或者密码锁的兄弟](https://www.v2ex.com/t/859597) ![](assets/new.png)  
-- [2022-06-14-厨子的刀法属实精准，要让人纠结疯了](https://www.v2ex.com/t/859596) ![](assets/new.png)  
-- [2022-06-14-mac-程序坞-怎么隐藏-Finder（访达）](https://www.v2ex.com/t/859595) ![](assets/new.png)  
-- [2022-06-14-最近事情有感以及疑惑](https://www.v2ex.com/t/859593) ![](assets/new.png)  
-- [2022-06-14-v-站小剧场：搜索了一下油价这个词](https://www.v2ex.com/t/859592) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -562,8 +562,8 @@
 - [2022-06-14-比尔·盖茨推荐夏季书单；Web3.0行业全景及代表项目研究；实战中的架构设计方法｜码农周刊VIP会员专属邮件周报-Vol.094](https://toutiao.io/k/7z24yub) ![](assets/new.png)  
 - [2022-06-14-数据库全量SQL分析与审计系统性能优化之旅](https://toutiao.io/k/np9qvi3) ![](assets/new.png)  
 - [2022-06-14-【真相】大厂招人不怕花钱的原因竟然是。。。](https://toutiao.io/k/8mbz0mm) ![](assets/new.png)  
-- [2022-06-14-如何理解区块链的运行原理？](https://toutiao.io/k/2jvgi0p) ![](assets/new.png)  
 - [2022-06-14-掌握Git命令的本质，开发时才会得心应手](https://toutiao.io/k/0xhsmqi) ![](assets/new.png)  
+- [2022-06-14-如何理解区块链的运行原理？](https://toutiao.io/k/2jvgi0p) ![](assets/new.png)  
 - [2022-06-14-为什么-NodeJS-是构建微服务的最佳选择？](https://toutiao.io/k/wg2sunz) ![](assets/new.png)  
 - [2022-06-14-GitHub-官方大动作频频「GitHub-热点速览-v.22.24」](https://toutiao.io/k/hcjthnp) ![](assets/new.png)  
 - [2022-06-14-Xcode-14-新特性一览](https://toutiao.io/k/lxcus1k) ![](assets/new.png)  
@@ -572,7 +572,7 @@
 - [2022-06-14-吐血了，goto-语句让-Go-代码变成意大利面条？](https://toutiao.io/k/6y3kj17) ![](assets/new.png)  
 - [2022-06-14-重磅！Flink-CDC-黄金搭档-Debezium-2.0.0.Alpha2-发布！](https://toutiao.io/k/3nuebh2) ![](assets/new.png)  
 - [2022-06-14-SPIRE-架构、基本概念及原理介绍](https://toutiao.io/k/rtruyxe) ![](assets/new.png)  
-- [2022-06-14-推荐-MongoDB全方位知识图谱！](https://toutiao.io/k/efxw4nr) ![](assets/new.png)  
+- [2022-06-14-推荐-总监的烦恼：技术丢了怎么办？](https://toutiao.io/k/rzytby1) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

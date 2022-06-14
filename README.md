@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-06-14 06:17:40，:rocket: 更新条数: +2034， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-06-14 06:47:56，:rocket: 更新条数: +2033， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,9 @@
 </summary>
 
 
+- [2022-06-14-刚用-JBwebstorm，有-2-个问题（file-commit-history，-debug-configuration）](https://www.v2ex.com/t/859536) ![](assets/new.png)  
+- [2022-06-14-有大佬知道-EtherNet/IP-怎么调试吗？](https://www.v2ex.com/t/859535) ![](assets/new.png)  
+- [2022-06-14-mac-12.4-充不进电](https://www.v2ex.com/t/859534) ![](assets/new.png)  
 - [2022-06-14-ts-全面替换-js，是一个已经在进行中的趋势吗](https://www.v2ex.com/t/859533) ![](assets/new.png)  
 - [2022-06-14-React-useContext-值改变不引发重绘](https://www.v2ex.com/t/859532) ![](assets/new.png)  
 - [2022-06-14-苹果奇葩的-35W-双-C-充电器](https://www.v2ex.com/t/859531) ![](assets/new.png)  
@@ -508,9 +511,6 @@
 - [2022-06-14-成都-前端-专科-求职-/末尾有帮招岗位（45W/年）](https://www.v2ex.com/t/859517) ![](assets/new.png)  
 - [2022-06-14-千元键盘推荐](https://www.v2ex.com/t/859515) ![](assets/new.png)  
 - [2022-06-14-我们国内风景好漂亮，越来越喜欢这个国家了👍](https://www.v2ex.com/t/859513) ![](assets/new.png)  
-- [2022-06-14-旷世孙剑大佬突发疾病去世。。。](https://www.v2ex.com/t/859511) ![](assets/new.png)  
-- [2022-06-14-关于这次裁员潮和以后的职业规划的一些思考](https://www.v2ex.com/t/859510) ![](assets/new.png)  
-- [2022-06-14-Openwrt-因为内存不够软件安装失败了，然后现在进不去-luci，可以进-ssh，如何移除可能已经安装但是好像好没完全安装（opkg-remove-无法使用）的组件？不要重装...](https://www.v2ex.com/t/859509) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -565,14 +565,14 @@
 - [2022-06-14-如何理解区块链的运行原理？](https://toutiao.io/k/2jvgi0p) ![](assets/new.png)  
 - [2022-06-14-掌握Git命令的本质，开发时才会得心应手](https://toutiao.io/k/0xhsmqi) ![](assets/new.png)  
 - [2022-06-14-GitHub-官方大动作频频「GitHub-热点速览-v.22.24」](https://toutiao.io/k/hcjthnp) ![](assets/new.png)  
-- [2022-06-14-Xcode-14-新特性一览](https://toutiao.io/k/lxcus1k) ![](assets/new.png)  
 - [2022-06-14-为什么-NodeJS-是构建微服务的最佳选择？](https://toutiao.io/k/wg2sunz) ![](assets/new.png)  
+- [2022-06-14-Xcode-14-新特性一览](https://toutiao.io/k/lxcus1k) ![](assets/new.png)  
 - [2022-06-14-基于准时基线的虎牙离线作业调度系统设计及实践](https://toutiao.io/k/h5b679h) ![](assets/new.png)  
-- [2022-06-14-聊聊缓存布尔值踩到的坑](https://toutiao.io/k/scjiwlf) ![](assets/new.png)  
-- [2022-06-14-重磅！Flink-CDC-黄金搭档-Debezium-2.0.0.Alpha2-发布！](https://toutiao.io/k/3nuebh2) ![](assets/new.png)  
 - [2022-06-14-吐血了，goto-语句让-Go-代码变成意大利面条？](https://toutiao.io/k/6y3kj17) ![](assets/new.png)  
+- [2022-06-14-重磅！Flink-CDC-黄金搭档-Debezium-2.0.0.Alpha2-发布！](https://toutiao.io/k/3nuebh2) ![](assets/new.png)  
+- [2022-06-14-聊聊缓存布尔值踩到的坑](https://toutiao.io/k/scjiwlf) ![](assets/new.png)  
 - [2022-06-14-SPIRE-架构、基本概念及原理介绍](https://toutiao.io/k/rtruyxe) ![](assets/new.png)  
-- [2022-06-14-存储日报-20220613](https://toutiao.io/k/dthivgd) ![](assets/new.png)  
+- [2022-06-14-推荐-总监的烦恼：技术丢了怎么办？](https://toutiao.io/k/rzytby1) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

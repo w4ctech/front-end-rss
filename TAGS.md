@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-06-14 16:58:49。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-06-14 17:18:47。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -242,7 +242,6 @@
 - [【V2EX】求教下某视频网站怎么实现不显式请求-m3u8，拿到切片的捏](https://www.v2ex.com/t/859635)
 - [【V2EX】快手卖货拼多多下单，直播间假粉相关问题求助](https://www.v2ex.com/t/859617)
 - [【V2EX】腾讯视频-+-京东-PLUS-一年-138（看到了就分享一下，不知道优惠程度如何）](https://www.v2ex.com/t/859608)
-- [【V2EX】apple-tv+-看视频闪退](https://www.v2ex.com/t/859606)
 - [......【查看更多】......](./details/tags/audio-video.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

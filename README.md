@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-06-14 08:18:28，:rocket: 更新条数: +2034， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-06-14 08:45:14，:rocket: 更新条数: +2037， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,15 @@
 </summary>
 
 
+- [2022-06-14-重庆地区企业宽带（上下行对称）费用](https://www.v2ex.com/t/859573) ![](assets/new.png)  
+- [2022-06-14-安吉白茶求推荐](https://www.v2ex.com/t/859572) ![](assets/new.png)  
+- [2022-06-14-完美情节和不舍得丢东西在一块的时候就让人很难受](https://www.v2ex.com/t/859571) ![](assets/new.png)  
+- [2022-06-14-昨晚第一次摔车](https://www.v2ex.com/t/859570) ![](assets/new.png)  
+- [2022-06-14-小米手机的官方人员这么多-bug-不处理的吗?](https://www.v2ex.com/t/859569) ![](assets/new.png)  
+- [2022-06-14-ApiPost6-mac-版本，挂机状态为什么-cpu-和内存占用那么大？](https://www.v2ex.com/t/859568) ![](assets/new.png)  
+- [2022-06-14-Windows-下编译程序的速度多少有点“快”了](https://www.v2ex.com/t/859567) ![](assets/new.png)  
+- [2022-06-14-跨境电商巨头-SHEIN-招聘-资深-IT-网络工程师（20-35K）](https://www.v2ex.com/t/859566) ![](assets/new.png)  
+- [2022-06-14-记录一下不正常消费-macbook-pro，以我为戒](https://www.v2ex.com/t/859565) ![](assets/new.png)  
 - [2022-06-14-一个-Outlook-功能管窥微软对消费者的态度](https://www.v2ex.com/t/859564) ![](assets/new.png)  
 - [2022-06-14-现在应该没有安卓开发的培训班了吧](https://www.v2ex.com/t/859563) ![](assets/new.png)  
 - [2022-06-14-感觉自己看清了生活，怎么去热爱它](https://www.v2ex.com/t/859562) ![](assets/new.png)  
@@ -502,15 +511,6 @@
 - [2022-06-14-需要换个空调，有最近看过的吗。](https://www.v2ex.com/t/859556) ![](assets/new.png)  
 - [2022-06-14-PVE-7.2-3-安装-ceph-报错](https://www.v2ex.com/t/859555) ![](assets/new.png)  
 - [2022-06-14-iPhone-在勿扰模式时，微信视频或语音电话仍然会触发震动](https://www.v2ex.com/t/859554) ![](assets/new.png)  
-- [2022-06-14-深圳面交，全新京东自营-lg-4k-显示器](https://www.v2ex.com/t/859552) ![](assets/new.png)  
-- [2022-06-14-感觉-B-站越是学生越容易仇恨苹果](https://www.v2ex.com/t/859551) ![](assets/new.png)  
-- [2022-06-14-Grammarly-在手机上如何使用?](https://www.v2ex.com/t/859550) ![](assets/new.png)  
-- [2022-06-14-华凌冰箱，有没有老铁们买过？这个牌子的东西质量如何？](https://www.v2ex.com/t/859549) ![](assets/new.png)  
-- [2022-06-14-重发-自用-icloud-家庭会员车位出租](https://www.v2ex.com/t/859548) ![](assets/new.png)  
-- [2022-06-14-有-golang-结合容器实现的流式状态计算框架吗,-类似-flink-stateful](https://www.v2ex.com/t/859547) ![](assets/new.png)  
-- [2022-06-14-买车决赛圈-比亚迪汉-dmi-和-雅阁混动,-用过的-Big-old-来说说感受吧](https://www.v2ex.com/t/859546) ![](assets/new.png)  
-- [2022-06-14-现在油费这么贵，开滴滴-or-出租司机，在打车价格不涨或者微涨的情况下，司机是拿自己的钱在补贴消费者，这个看法对吗？](https://www.v2ex.com/t/859545) ![](assets/new.png)  
-- [2022-06-14-出租-上海-张江-房子](https://www.v2ex.com/t/859544) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -572,7 +572,7 @@
 - [2022-06-14-吐血了，goto-语句让-Go-代码变成意大利面条？](https://toutiao.io/k/6y3kj17) ![](assets/new.png)  
 - [2022-06-14-聊聊缓存布尔值踩到的坑](https://toutiao.io/k/scjiwlf) ![](assets/new.png)  
 - [2022-06-14-SPIRE-架构、基本概念及原理介绍](https://toutiao.io/k/rtruyxe) ![](assets/new.png)  
-- [2022-06-14-推荐-架构师成长路线图](https://toutiao.io/k/27b6p2e) ![](assets/new.png)  
+- [2022-06-14-推荐-总监的烦恼：技术丢了怎么办？](https://toutiao.io/k/rzytby1) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

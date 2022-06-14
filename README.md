@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-06-14 03:34:32，:rocket: 更新条数: +2029， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-06-14 04:46:45，:rocket: 更新条数: +2028， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,26 +491,26 @@
 </summary>
 
 
+- [2022-06-14-旷世孙剑大佬突发疾病去世。。。](https://www.v2ex.com/t/859511) ![](assets/new.png)  
+- [2022-06-14-关于这次裁员潮和以后的职业规划的一些思考](https://www.v2ex.com/t/859510) ![](assets/new.png)  
+- [2022-06-14-Openwrt-因为内存不够软件安装失败了，然后现在进不去-luci，可以进-ssh，如何移除可能已经安装但是好像好没完全安装（opkg-remove-无法使用）的组件？不要重装...](https://www.v2ex.com/t/859509) ![](assets/new.png)  
+- [2022-06-14-#-知名招聘猎头公司上海#-招聘真正懂技术的猎头顾问，欢迎转行选手](https://www.v2ex.com/t/859508) ![](assets/new.png)  
+- [2022-06-14-广州客村---租了个两人办公室，寻找室友](https://www.v2ex.com/t/859507) ![](assets/new.png)  
+- [2022-06-14-僧多粥少环境下，那些小厂-CRUD-30-岁的人未来该何去何从？](https://www.v2ex.com/t/859506) ![](assets/new.png)  
+- [2022-06-14-TB-上购物被骗钱怎么追回](https://www.v2ex.com/t/859505) ![](assets/new.png)  
+- [2022-06-14-关于-Stringbuilder-中-append-方法的实现有一个疑问](https://www.v2ex.com/t/859504) ![](assets/new.png)  
+- [2022-06-14-现在有完全离线的通话录音-APP-吗？](https://www.v2ex.com/t/859503) ![](assets/new.png)  
+- [2022-06-14-4/7-层负载均衡，反向代理高可用怎么配，求大佬指点](https://www.v2ex.com/t/859502) ![](assets/new.png)  
+- [2022-06-14-后端全职远程-Java-三年工作经验求职](https://www.v2ex.com/t/859501) ![](assets/new.png)  
+- [2022-06-14-哪家的-cloud-console-最好](https://www.v2ex.com/t/859500) ![](assets/new.png)  
+- [2022-06-14-到底什么是-web3](https://www.v2ex.com/t/859499) ![](assets/new.png)  
+- [2022-06-14-MacBook-Air-可能会开创一个新的产品系列](https://www.v2ex.com/t/859498) ![](assets/new.png)  
+- [2022-06-14-正经脱单教学帖丨关于唐山、上外事件有感。](https://www.v2ex.com/t/859497) ![](assets/new.png)  
+- [2022-06-14-OpenVPN-的两个奇怪问题](https://www.v2ex.com/t/859496) ![](assets/new.png)  
+- [2022-06-14-如何最快打开微信扫一扫](https://www.v2ex.com/t/859494) ![](assets/new.png)  
 - [2022-06-14-用-M1-Mac-mini+外接硬盘的方式，可以做-NAS-么，有什么好的方案？](https://www.v2ex.com/t/859493) ![](assets/new.png)  
 - [2022-06-14-Zerotier-的免费版节点数由-50-减少为-25-了](https://www.v2ex.com/t/859492) ![](assets/new.png)  
 - [2022-06-14-logseq-有-block-的别名alias这个操作吗-比如曼施坦因是埃里希·冯·曼施坦因的别名](https://www.v2ex.com/t/859491) ![](assets/new.png)  
-- [2022-06-14-江苏广电真是骚呀，分配-102-开头内网地址](https://www.v2ex.com/t/859490) ![](assets/new.png)  
-- [2022-06-14-理发要怎么学？开个理发店靠谱吗？](https://www.v2ex.com/t/859489) ![](assets/new.png)  
-- [2022-06-14-金属笔记本插电用的时候有轻微漏电](https://www.v2ex.com/t/859488) ![](assets/new.png)  
-- [2022-06-14-汉字使用-cString-转换的乱码问题](https://www.v2ex.com/t/859487) ![](assets/new.png)  
-- [2022-06-14-ES-如何动态搜索多层级-json](https://www.v2ex.com/t/859486) ![](assets/new.png)  
-- [2022-06-14-Kindle-退出中国之后，国区的传书服务是不是就停止了？有其他墨水屏设备推荐吗？](https://www.v2ex.com/t/859484) ![](assets/new.png)  
-- [2022-06-14-在京程序员分手了-最近情绪低沉](https://www.v2ex.com/t/859483) ![](assets/new.png)  
-- [2022-06-14-在什么地方可以找程序员做项目？](https://www.v2ex.com/t/859482) ![](assets/new.png)  
-- [2022-06-14-灵活就业自己交社保和找单位代缴，有什么区别吗](https://www.v2ex.com/t/859481) ![](assets/new.png)  
-- [2022-06-14-想入一台笔记本，请问华为-MateBook-16s-怎么样？](https://www.v2ex.com/t/859480) ![](assets/new.png)  
-- [2022-06-14-上海字节跳动招聘-Android-开发实习生](https://www.v2ex.com/t/859479) ![](assets/new.png)  
-- [2022-06-14-离职前你会考虑什么？](https://www.v2ex.com/t/859478) ![](assets/new.png)  
-- [2022-06-14-618-准备搞个机械键盘，目前可选杜卡洛-vn66-和御斧-Y68，求使用过的大佬分享一下体验？](https://www.v2ex.com/t/859477) ![](assets/new.png)  
-- [2022-06-14-现在-30-几岁，开始学这些技能中的一种，还能找到类似工作的可能嘛](https://www.v2ex.com/t/859474) ![](assets/new.png)  
-- [2022-06-14-北京/上海/杭州-字节跳动-STE-编译器团队研发实习生](https://www.v2ex.com/t/859471) ![](assets/new.png)  
-- [2022-06-14-几个月都没修复的的微信聊天列表-bug-大家有遇到吗](https://www.v2ex.com/t/859470) ![](assets/new.png)  
-- [2022-06-14-作为程序员，爱上摄影后自己干出一个拍照的-App-|-文末给大家送点码](https://www.v2ex.com/t/859469) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -558,21 +558,21 @@
 - [2022-06-14-garr-：高性能、线程安全、无锁的-go-数据结构集合](https://toutiao.io/k/8y2p13x) ![](assets/new.png)  
 - [2022-06-14-技术沟通的4个技巧](https://toutiao.io/k/wpojnbl) ![](assets/new.png)  
 - [2022-06-14-Go-netpoll大解析](https://toutiao.io/k/6ercbix) ![](assets/new.png)  
+- [2022-06-14-瞧瞧人家用SpringBoot写的后端API接口，那叫一个优雅！](https://toutiao.io/k/279qnem) ![](assets/new.png)  
 - [2022-06-14-比尔·盖茨推荐夏季书单；Web3.0行业全景及代表项目研究；实战中的架构设计方法｜码农周刊VIP会员专属邮件周报-Vol.094](https://toutiao.io/k/7z24yub) ![](assets/new.png)  
 - [2022-06-14-数据库全量SQL分析与审计系统性能优化之旅](https://toutiao.io/k/np9qvi3) ![](assets/new.png)  
-- [2022-06-14-瞧瞧人家用SpringBoot写的后端API接口，那叫一个优雅！](https://toutiao.io/k/279qnem) ![](assets/new.png)  
 - [2022-06-14-【真相】大厂招人不怕花钱的原因竟然是。。。](https://toutiao.io/k/8mbz0mm) ![](assets/new.png)  
 - [2022-06-14-如何理解区块链的运行原理？](https://toutiao.io/k/2jvgi0p) ![](assets/new.png)  
 - [2022-06-14-掌握Git命令的本质，开发时才会得心应手](https://toutiao.io/k/0xhsmqi) ![](assets/new.png)  
+- [2022-06-14-为什么-NodeJS-是构建微服务的最佳选择？](https://toutiao.io/k/wg2sunz) ![](assets/new.png)  
 - [2022-06-14-Xcode-14-新特性一览](https://toutiao.io/k/lxcus1k) ![](assets/new.png)  
 - [2022-06-14-GitHub-官方大动作频频「GitHub-热点速览-v.22.24」](https://toutiao.io/k/hcjthnp) ![](assets/new.png)  
-- [2022-06-14-为什么-NodeJS-是构建微服务的最佳选择？](https://toutiao.io/k/wg2sunz) ![](assets/new.png)  
 - [2022-06-14-基于准时基线的虎牙离线作业调度系统设计及实践](https://toutiao.io/k/h5b679h) ![](assets/new.png)  
-- [2022-06-14-推荐-总监的烦恼：技术丢了怎么办？](https://toutiao.io/k/rzytby1) ![](assets/new.png)  
 - [2022-06-14-推荐-架构师成长路线图](https://toutiao.io/k/27b6p2e) ![](assets/new.png)  
-- [2022-06-14-推荐-消息队列原理和选型：Kafka、RocketMQ-、RabbitMQ-和-ActiveMQ](https://toutiao.io/k/nuwnwro) ![](assets/new.png)  
 - [2022-06-14-推荐-如何写出一篇好的技术方案？](https://toutiao.io/k/gl2cth8) ![](assets/new.png)  
+- [2022-06-14-推荐-消息队列原理和选型：Kafka、RocketMQ-、RabbitMQ-和-ActiveMQ](https://toutiao.io/k/nuwnwro) ![](assets/new.png)  
 - [2022-06-14-推荐-MongoDB全方位知识图谱！](https://toutiao.io/k/efxw4nr) ![](assets/new.png)  
+- [2022-06-14-推荐-总监的烦恼：技术丢了怎么办？](https://toutiao.io/k/rzytby1) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

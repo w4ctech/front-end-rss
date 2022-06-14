@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-06-14 22:39:02。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-06-14 23:03:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,8 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-06-14-随科技发展，人力劳动会持续贬值，岗位会持续减少](https://www.v2ex.com/t/859667) 
+- [2022-06-14-Rust-is-Inevitable](https://www.v2ex.com/t/859666) 
 - [2022-06-14-群晖两块硬盘之间同步文件](https://www.v2ex.com/t/859665) 
 - [2022-06-14-中国联通的「沃小号」业务现在还能用吗？体验、价格如何？](https://www.v2ex.com/t/859662) 
 - [2022-06-14-原来"重复造轮子"是个外来词](https://www.v2ex.com/t/859661) 
@@ -1941,7 +1943,6 @@
 - [2022-06-14-大家什么时候知道新能源的？](https://www.v2ex.com/t/859625) 
 - [2022-06-14-7-Z-的加密压缩软件破解](https://www.v2ex.com/t/859622) 
 - [2022-06-14-M1-Parallel-Arm-版-Win11-搜狗输入法有问题，有老哥遇到过吗](https://www.v2ex.com/t/859620) 
-- [2022-06-14-世纪龙天翼数字生活出来更新官网证书啦！](https://www.v2ex.com/t/859616) 
 - [2022-06-14-恶意技术时代的负责任技术-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15128&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fresponsible-tech%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-06-14-机器学习不是你想用，想用就能用-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15126&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fwhen-to-use-machine-learning%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-06-14-容器江湖的爱恨情仇-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15125&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fdocker-colima-podman-container%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1969,6 +1970,6 @@
 - [2022-06-14-重磅！Flink-CDC-黄金搭档-Debezium-2.0.0.Alpha2-发布！](https://toutiao.io/k/3nuebh2) 
 - [2022-06-14-吐血了，goto-语句让-Go-代码变成意大利面条？](https://toutiao.io/k/6y3kj17) 
 - [2022-06-14-推荐-消息队列原理和选型：Kafka、RocketMQ-、RabbitMQ-和-ActiveMQ](https://toutiao.io/k/nuwnwro) 
-- [2022-06-14-推荐-MongoDB全方位知识图谱！](https://toutiao.io/k/efxw4nr) 
 - [2022-06-14-推荐-总监的烦恼：技术丢了怎么办？](https://toutiao.io/k/rzytby1) 
+- [2022-06-14-推荐-MongoDB全方位知识图谱！](https://toutiao.io/k/efxw4nr) 
 - [2022-06-14-推荐-如何写出一篇好的技术方案？](https://toutiao.io/k/gl2cth8) 

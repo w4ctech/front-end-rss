@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-06-14 22:39:02，:rocket: 更新条数: +2029， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-06-14 23:03:10，:rocket: 更新条数: +2029， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-06-14-随科技发展，人力劳动会持续贬值，岗位会持续减少](https://www.v2ex.com/t/859667) ![](assets/new.png)  
+- [2022-06-14-Rust-is-Inevitable](https://www.v2ex.com/t/859666) ![](assets/new.png)  
 - [2022-06-14-群晖两块硬盘之间同步文件](https://www.v2ex.com/t/859665) ![](assets/new.png)  
 - [2022-06-14-想要在网页里插入视频流，前后端都应该怎么处理？](https://www.v2ex.com/t/859664) ![](assets/new.png)  
 - [2022-06-14-为什么有的时候-chrome-浏览器不会提示保存密码呢。。也没有手动保存的接口](https://www.v2ex.com/t/859663) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-06-14-进程占用得端口有冲突？](https://www.v2ex.com/t/859647) ![](assets/new.png)  
 - [2022-06-14-出-mbp-2021-14-寸-32G-512G-m1-pro-顶配](https://www.v2ex.com/t/859646) ![](assets/new.png)  
 - [2022-06-14-北京-美资外企-senior-iOS/android-engineer/backend-/FE-engineer](https://www.v2ex.com/t/859644) ![](assets/new.png)  
-- [2022-06-14-话说新版-ubuntu-默认安装只利用一半硬盘是个什么说法？](https://www.v2ex.com/t/859643) ![](assets/new.png)  
-- [2022-06-14-react-如何实现先加载数据后跳转路由？](https://www.v2ex.com/t/859642) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

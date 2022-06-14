@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2022-06-14 22:39:02。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-06-14 23:03:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-06-14-随科技发展，人力劳动会持续贬值，岗位会持续减少](https://www.v2ex.com/t/859667) 
+- [2022-06-14-Rust-is-Inevitable](https://www.v2ex.com/t/859666) 
 - [2022-06-14-群晖两块硬盘之间同步文件](https://www.v2ex.com/t/859665) 
 - [2022-06-14-想要在网页里插入视频流，前后端都应该怎么处理？](https://www.v2ex.com/t/859664) 
 - [2022-06-14-为什么有的时候-chrome-浏览器不会提示保存密码呢。。也没有手动保存的接口](https://www.v2ex.com/t/859663) 
@@ -43,5 +45,3 @@
 - [2022-06-14-Elasticsearch-类-top_hits-复杂搜索问题](https://www.v2ex.com/t/859623) 
 - [2022-06-14-7-Z-的加密压缩软件破解](https://www.v2ex.com/t/859622) 
 - [2022-06-14-M1-Parallel-Arm-版-Win11-搜狗输入法有问题，有老哥遇到过吗](https://www.v2ex.com/t/859620) 
-- [2022-06-14-快手卖货拼多多下单，直播间假粉相关问题求助](https://www.v2ex.com/t/859617) 
-- [2022-06-14-世纪龙天翼数字生活出来更新官网证书啦！](https://www.v2ex.com/t/859616) 

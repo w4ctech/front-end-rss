@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-06-14 21:13:15。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-06-14 21:38:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -15,6 +15,5 @@
 - [2021-01-01-大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html) 
 - [2022-06-12-基于文字的URL锚点定位与::target-text样式设置](https://www.zhangxinxu.com/wordpress/2022/06/url-anchor-target-text/) 
 - [2022-06-14-为什么有的时候-chrome-浏览器不会提示保存密码呢。。也没有手动保存的接口](https://www.v2ex.com/t/859663) 
-- [2022-06-14-字节-Client-AI-22/23-届校招/实习](https://www.v2ex.com/t/859615) 
 - [2022-06-14-缓存穿透、缓存击穿、缓存雪崩](https://toutiao.io/k/laxldpe) 
 - [2022-06-14-聊聊缓存布尔值踩到的坑](https://toutiao.io/k/scjiwlf) 

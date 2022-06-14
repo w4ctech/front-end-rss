@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-06-14 21:13:15，:rocket: 更新条数: +2029， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-06-14 21:38:24，:rocket: 更新条数: +2029， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-06-14-群晖两块硬盘之间同步文件](https://www.v2ex.com/t/859665) ![](assets/new.png)  
+- [2022-06-14-想要在网页里插入视频流，前后端都应该怎么处理？](https://www.v2ex.com/t/859664) ![](assets/new.png)  
 - [2022-06-14-为什么有的时候-chrome-浏览器不会提示保存密码呢。。也没有手动保存的接口](https://www.v2ex.com/t/859663) ![](assets/new.png)  
 - [2022-06-14-中国联通的「沃小号」业务现在还能用吗？体验、价格如何？](https://www.v2ex.com/t/859662) ![](assets/new.png)  
 - [2022-06-14-原来"重复造轮子"是个外来词](https://www.v2ex.com/t/859661) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-06-14-北京-美资外企-senior-iOS/android-engineer/backend-/FE-engineer](https://www.v2ex.com/t/859644) ![](assets/new.png)  
 - [2022-06-14-话说新版-ubuntu-默认安装只利用一半硬盘是个什么说法？](https://www.v2ex.com/t/859643) ![](assets/new.png)  
 - [2022-06-14-react-如何实现先加载数据后跳转路由？](https://www.v2ex.com/t/859642) ![](assets/new.png)  
-- [2022-06-14-浅问充电电流-mA-是啥意思？](https://www.v2ex.com/t/859641) ![](assets/new.png)  
-- [2022-06-14-golang-WaitGroup-问题求指教](https://www.v2ex.com/t/859640) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -569,8 +569,8 @@
 - [2022-06-14-Xcode-14-新特性一览](https://toutiao.io/k/lxcus1k) ![](assets/new.png)  
 - [2022-06-14-基于准时基线的虎牙离线作业调度系统设计及实践](https://toutiao.io/k/h5b679h) ![](assets/new.png)  
 - [2022-06-14-聊聊缓存布尔值踩到的坑](https://toutiao.io/k/scjiwlf) ![](assets/new.png)  
-- [2022-06-14-重磅！Flink-CDC-黄金搭档-Debezium-2.0.0.Alpha2-发布！](https://toutiao.io/k/3nuebh2) ![](assets/new.png)  
 - [2022-06-14-SPIRE-架构、基本概念及原理介绍](https://toutiao.io/k/rtruyxe) ![](assets/new.png)  
+- [2022-06-14-重磅！Flink-CDC-黄金搭档-Debezium-2.0.0.Alpha2-发布！](https://toutiao.io/k/3nuebh2) ![](assets/new.png)  
 - [2022-06-14-吐血了，goto-语句让-Go-代码变成意大利面条？](https://toutiao.io/k/6y3kj17) ![](assets/new.png)  
 - [2022-06-14-推荐-消息队列原理和选型：Kafka、RocketMQ-、RabbitMQ-和-ActiveMQ](https://toutiao.io/k/nuwnwro) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)

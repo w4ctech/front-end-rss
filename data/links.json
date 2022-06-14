@@ -9953,6 +9953,16 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "原来\"重复造轮子\"是个外来词",
+        "link": "https://www.v2ex.com/t/859661",
+        "date": "2022-06-14"
+      },
+      {
+        "title": "zi 感觉是 zinit 作者写的新的",
+        "link": "https://www.v2ex.com/t/859660",
+        "date": "2022-06-14"
+      },
+      {
         "title": "加入 Apple 的 Find My 网络后设备不处于丢失模式下会每隔一段时间或达到一定条件就主动向 Apple 上报当前位置吗？",
         "link": "https://www.v2ex.com/t/859659",
         "date": "2022-06-14"
@@ -10140,11 +10150,6 @@
       {
         "title": "想买个二手主机学习用，装 Linux 试下各种新型的 OLAP 数据库。有推荐的吗？",
         "link": "https://www.v2ex.com/t/859612",
-        "date": "2022-06-14"
-      },
-      {
-        "title": "怎么能找到 5 个好兄弟跟我分一整套宜家刀叉（4 件 x6）？",
-        "link": "https://www.v2ex.com/t/859611",
         "date": "2022-06-14"
       }
     ]
@@ -10357,16 +10362,6 @@
         "date": "2022-06-14"
       },
       {
-        "title": "[推荐] 总监的烦恼：技术丢了怎么办？",
-        "link": "https://toutiao.io/k/rzytby1",
-        "date": "2022-06-14"
-      },
-      {
-        "title": "[推荐] 消息队列原理和选型：Kafka、RocketMQ 、RabbitMQ 和 ActiveMQ",
-        "link": "https://toutiao.io/k/nuwnwro",
-        "date": "2022-06-14"
-      },
-      {
         "title": "[推荐] 如何写出一篇好的技术方案？",
         "link": "https://toutiao.io/k/gl2cth8",
         "date": "2022-06-14"
@@ -10374,6 +10369,16 @@
       {
         "title": "[推荐] MongoDB全方位知识图谱！",
         "link": "https://toutiao.io/k/efxw4nr",
+        "date": "2022-06-14"
+      },
+      {
+        "title": "[推荐] 总监的烦恼：技术丢了怎么办？",
+        "link": "https://toutiao.io/k/rzytby1",
+        "date": "2022-06-14"
+      },
+      {
+        "title": "[推荐] 消息队列原理和选型：Kafka、RocketMQ 、RabbitMQ 和 ActiveMQ",
+        "link": "https://toutiao.io/k/nuwnwro",
         "date": "2022-06-14"
       }
     ]

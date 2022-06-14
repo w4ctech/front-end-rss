@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-06-14 05:49:59。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-06-14 06:17:40。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -19,6 +19,7 @@
 - [2022-04-30-深入-JS-new-Function-语法](https://www.zhangxinxu.com/wordpress/2022/04/js-new-function/) 
 - [2022-04-27-小tips:-JS字体加载失败或完毕的检测](https://www.zhangxinxu.com/wordpress/2022/04/js-font-face-load/) 
 - [2022-04-22-CSS实现滚动高度自动变小的粘滞效果](https://www.zhangxinxu.com/wordpress/2022/04/css-sticky-size-change/) 
+- [2022-06-14-ts-全面替换-js，是一个已经在进行中的趋势吗](https://www.v2ex.com/t/859533) 
 - [2022-06-14-Openwrt-因为内存不够软件安装失败了，然后现在进不去-luci，可以进-ssh，如何移除可能已经安装但是好像好没完全安装（opkg-remove-无法使用）的组件？不要重装...](https://www.v2ex.com/t/859509) 
 - [2022-06-14-哪家的-cloud-console-最好](https://www.v2ex.com/t/859500) 
 - [2022-06-14-正经脱单教学帖丨关于唐山、上外事件有感。](https://www.v2ex.com/t/859497) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-06-14 05:49:59。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-06-14 06:17:40。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -16,3 +16,4 @@
 - [2022-06-12-基于文字的URL锚点定位与::target-text样式设置](https://www.zhangxinxu.com/wordpress/2022/06/url-anchor-target-text/) 
 - [2022-06-14-Zerotier-的免费版节点数由-50-减少为-25-了](https://www.v2ex.com/t/859492) 
 - [2022-06-14-缓存穿透、缓存击穿、缓存雪崩](https://toutiao.io/k/laxldpe) 
+- [2022-06-14-聊聊缓存布尔值踩到的坑](https://toutiao.io/k/scjiwlf) 

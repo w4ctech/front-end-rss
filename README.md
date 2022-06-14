@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-06-14 13:08:02，:rocket: 更新条数: +2033， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-06-14 13:51:52，:rocket: 更新条数: +2028， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,10 +491,16 @@
 </summary>
 
 
+- [2022-06-14-nano-pi-k2-移植固件不成功，有会做这个题目的？](https://www.v2ex.com/t/859633) ![](assets/new.png)  
+- [2022-06-14-iTunes、iCloud-导入老照片时间线问题](https://www.v2ex.com/t/859632) ![](assets/new.png)  
+- [2022-06-14-如何动态显示-boot-logo-和-boot-animation?](https://www.v2ex.com/t/859631) ![](assets/new.png)  
+- [2022-06-14-程序预警问题](https://www.v2ex.com/t/859628) ![](assets/new.png)  
+- [2022-06-14-获取-ipv6-求助](https://www.v2ex.com/t/859627) ![](assets/new.png)  
+- [2022-06-14-招人已经写到-okr-里了，为了拿到内推奖金，自己撸了一个免费发布招聘信息的网站](https://www.v2ex.com/t/859626) ![](assets/new.png)  
+- [2022-06-14-大家什么时候知道新能源的？](https://www.v2ex.com/t/859625) ![](assets/new.png)  
+- [2022-06-14-Elasticsearch-类-top_hits-复杂搜索问题](https://www.v2ex.com/t/859623) ![](assets/new.png)  
 - [2022-06-14-7-Z-的加密压缩软件破解](https://www.v2ex.com/t/859622) ![](assets/new.png)  
 - [2022-06-14-M1-Parallel-Arm-版-Win11-搜狗输入法有问题，有老哥遇到过吗](https://www.v2ex.com/t/859620) ![](assets/new.png)  
-- [2022-06-14-键盘进蟑螂了](https://www.v2ex.com/t/859619) ![](assets/new.png)  
-- [2022-06-14-疫情带来的环境污染](https://www.v2ex.com/t/859618) ![](assets/new.png)  
 - [2022-06-14-快手卖货拼多多下单，直播间假粉相关问题求助](https://www.v2ex.com/t/859617) ![](assets/new.png)  
 - [2022-06-14-世纪龙天翼数字生活出来更新官网证书啦！](https://www.v2ex.com/t/859616) ![](assets/new.png)  
 - [2022-06-14-字节-Client-AI-22/23-届校招/实习](https://www.v2ex.com/t/859615) ![](assets/new.png)  
@@ -505,12 +511,6 @@
 - [2022-06-14-有手机厂家的云相册服务存在删除敏感照片的情况吗？](https://www.v2ex.com/t/859609) ![](assets/new.png)  
 - [2022-06-14-腾讯视频-+-京东-PLUS-一年-138（看到了就分享一下，不知道优惠程度如何）](https://www.v2ex.com/t/859608) ![](assets/new.png)  
 - [2022-06-14-自己的-macbook-是否真的需要外接屏幕？](https://www.v2ex.com/t/859607) ![](assets/new.png)  
-- [2022-06-14-apple-tv+-看视频闪退](https://www.v2ex.com/t/859606) ![](assets/new.png)  
-- [2022-06-14-如何备份还原新电脑的原厂硬盘镜像？](https://www.v2ex.com/t/859604) ![](assets/new.png)  
-- [2022-06-14-b-站哪个睿智改的移动端-LPL-直播间界面啊](https://www.v2ex.com/t/859603) ![](assets/new.png)  
-- [2022-06-14-字节-cdn-jquery-1.11.3-某个节点挂了？？](https://www.v2ex.com/t/859602) ![](assets/new.png)  
-- [2022-06-14-群晖-220+-这几天新买了一个硬盘却遇到了一个问题](https://www.v2ex.com/t/859601) ![](assets/new.png)  
-- [2022-06-14-老哥们，在做-copy-paste-的时候，-mac-下有什么好的-notepad/stickies-类可以临时存一些文本用](https://www.v2ex.com/t/859600) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -560,9 +560,9 @@
 - [2022-06-14-瞧瞧人家用SpringBoot写的后端API接口，那叫一个优雅！](https://toutiao.io/k/279qnem) ![](assets/new.png)  
 - [2022-06-14-Go-netpoll大解析](https://toutiao.io/k/6ercbix) ![](assets/new.png)  
 - [2022-06-14-比尔·盖茨推荐夏季书单；Web3.0行业全景及代表项目研究；实战中的架构设计方法｜码农周刊VIP会员专属邮件周报-Vol.094](https://toutiao.io/k/7z24yub) ![](assets/new.png)  
+- [2022-06-14-掌握Git命令的本质，开发时才会得心应手](https://toutiao.io/k/0xhsmqi) ![](assets/new.png)  
 - [2022-06-14-数据库全量SQL分析与审计系统性能优化之旅](https://toutiao.io/k/np9qvi3) ![](assets/new.png)  
 - [2022-06-14-【真相】大厂招人不怕花钱的原因竟然是。。。](https://toutiao.io/k/8mbz0mm) ![](assets/new.png)  
-- [2022-06-14-掌握Git命令的本质，开发时才会得心应手](https://toutiao.io/k/0xhsmqi) ![](assets/new.png)  
 - [2022-06-14-如何理解区块链的运行原理？](https://toutiao.io/k/2jvgi0p) ![](assets/new.png)  
 - [2022-06-14-为什么-NodeJS-是构建微服务的最佳选择？](https://toutiao.io/k/wg2sunz) ![](assets/new.png)  
 - [2022-06-14-GitHub-官方大动作频频「GitHub-热点速览-v.22.24」](https://toutiao.io/k/hcjthnp) ![](assets/new.png)  

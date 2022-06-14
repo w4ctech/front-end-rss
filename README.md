@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-06-14 19:37:00，:rocket: 更新条数: +2029， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-06-14 20:14:35，:rocket: 更新条数: +2029， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-06-14-中国联通的「沃小号」业务现在还能用吗？体验、价格如何？](https://www.v2ex.com/t/859662) ![](assets/new.png)  
 - [2022-06-14-原来"重复造轮子"是个外来词](https://www.v2ex.com/t/859661) ![](assets/new.png)  
 - [2022-06-14-zi-感觉是-zinit-作者写的新的](https://www.v2ex.com/t/859660) ![](assets/new.png)  
 - [2022-06-14-加入-Apple-的-Find-My-网络后设备不处于丢失模式下会每隔一段时间或达到一定条件就主动向-Apple-上报当前位置吗？](https://www.v2ex.com/t/859659) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-06-14-浅问充电电流-mA-是啥意思？](https://www.v2ex.com/t/859641) ![](assets/new.png)  
 - [2022-06-14-golang-WaitGroup-问题求指教](https://www.v2ex.com/t/859640) ![](assets/new.png)  
 - [2022-06-14-求职-远程-App-全职/兼职-时隔六年，我又来-V-站找工作啦](https://www.v2ex.com/t/859639) ![](assets/new.png)  
-- [2022-06-14-为什么博物馆的讲解要额外收钱,-而且并不便宜](https://www.v2ex.com/t/859638) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

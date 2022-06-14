@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-06-14 19:37:00。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-06-14 20:14:35。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,7 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-06-14-中国联通的「沃小号」业务现在还能用吗？体验、价格如何？](https://www.v2ex.com/t/859662) 
 - [2022-06-14-原来"重复造轮子"是个外来词](https://www.v2ex.com/t/859661) 
 - [2022-06-14-zi-感觉是-zinit-作者写的新的](https://www.v2ex.com/t/859660) 
 - [2022-06-14-加入-Apple-的-Find-My-网络后设备不处于丢失模式下会每隔一段时间或达到一定条件就主动向-Apple-上报当前位置吗？](https://www.v2ex.com/t/859659) 
@@ -1942,7 +1943,6 @@
 - [2022-06-14-世纪龙天翼数字生活出来更新官网证书啦！](https://www.v2ex.com/t/859616) 
 - [2022-06-14-AirPods-2-代-右耳电量异常](https://www.v2ex.com/t/859614) 
 - [2022-06-14-Casbin-开源社区《明日之星-Talent-2022》开源远程实习，-10+岗位火热招募中！](https://www.v2ex.com/t/859613) 
-- [2022-06-14-想买个二手主机学习用，装-Linux-试下各种新型的-OLAP-数据库。有推荐的吗？](https://www.v2ex.com/t/859612) 
 - [2022-06-14-恶意技术时代的负责任技术-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15128&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fresponsible-tech%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-06-14-机器学习不是你想用，想用就能用-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15126&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fwhen-to-use-machine-learning%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-06-14-容器江湖的爱恨情仇-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15125&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fdocker-colima-podman-container%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1970,6 +1970,6 @@
 - [2022-06-14-SPIRE-架构、基本概念及原理介绍](https://toutiao.io/k/rtruyxe) 
 - [2022-06-14-吐血了，goto-语句让-Go-代码变成意大利面条？](https://toutiao.io/k/6y3kj17) 
 - [2022-06-14-推荐-如何写出一篇好的技术方案？](https://toutiao.io/k/gl2cth8) 
-- [2022-06-14-推荐-MongoDB全方位知识图谱！](https://toutiao.io/k/efxw4nr) 
-- [2022-06-14-推荐-总监的烦恼：技术丢了怎么办？](https://toutiao.io/k/rzytby1) 
 - [2022-06-14-推荐-消息队列原理和选型：Kafka、RocketMQ-、RabbitMQ-和-ActiveMQ](https://toutiao.io/k/nuwnwro) 
+- [2022-06-14-推荐-总监的烦恼：技术丢了怎么办？](https://toutiao.io/k/rzytby1) 
+- [2022-06-14-推荐-MongoDB全方位知识图谱！](https://toutiao.io/k/efxw4nr) 

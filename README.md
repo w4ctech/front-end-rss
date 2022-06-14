@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-06-14 16:20:06，:rocket: 更新条数: +2028， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-06-14 16:58:49，:rocket: 更新条数: +2028， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -572,7 +572,7 @@
 - [2022-06-14-SPIRE-架构、基本概念及原理介绍](https://toutiao.io/k/rtruyxe) ![](assets/new.png)  
 - [2022-06-14-重磅！Flink-CDC-黄金搭档-Debezium-2.0.0.Alpha2-发布！](https://toutiao.io/k/3nuebh2) ![](assets/new.png)  
 - [2022-06-14-吐血了，goto-语句让-Go-代码变成意大利面条？](https://toutiao.io/k/6y3kj17) ![](assets/new.png)  
-- [2022-06-14-推荐-如何写出一篇好的技术方案？](https://toutiao.io/k/gl2cth8) ![](assets/new.png)  
+- [2022-06-14-推荐-总监的烦恼：技术丢了怎么办？](https://toutiao.io/k/rzytby1) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

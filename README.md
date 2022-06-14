@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-06-14 17:18:47，:rocket: 更新条数: +2028， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-06-14 17:41:58，:rocket: 更新条数: +2028， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-06-14-outlook-邮箱收不到-cargo-的验证邮件](https://www.v2ex.com/t/859657) ![](assets/new.png)  
 - [2022-06-14-现在冲-mini-led-不是个好时机？](https://www.v2ex.com/t/859656) ![](assets/new.png)  
 - [2022-06-14-今天6-月-15-日微软将会正式关闭-Internet-Explorer](https://www.v2ex.com/t/859655) ![](assets/new.png)  
 - [2022-06-14-macOS-Ventura-开启-Surge-iOS-后，文本翻译出现问题](https://www.v2ex.com/t/859652) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-06-14-gen10-plus-硬解问题求教](https://www.v2ex.com/t/859636) ![](assets/new.png)  
 - [2022-06-14-求教下某视频网站怎么实现不显式请求-m3u8，拿到切片的捏](https://www.v2ex.com/t/859635) ![](assets/new.png)  
 - [2022-06-14-西安联通家宽最近怎么回事？出海网络相当差。](https://www.v2ex.com/t/859634) ![](assets/new.png)  
-- [2022-06-14-nano-pi-k2-移植固件不成功，有会做这个题目的？](https://www.v2ex.com/t/859633) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

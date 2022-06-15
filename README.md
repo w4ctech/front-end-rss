@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-06-15 14:38:41，:rocket: 更新条数: +2027， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-06-15 15:14:57，:rocket: 更新条数: +2026， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,9 @@
 </summary>
 
 
+- [2022-06-15-出个-GitHub-账号会有人要么](https://www.v2ex.com/t/859888) ![](assets/new.png)  
+- [2022-06-15-win-本盒盖后，怎么样能让外接显示屏仍然显示扩展屏幕？](https://www.v2ex.com/t/859886) ![](assets/new.png)  
+- [2022-06-15-iPhone13-iOS15.5-微信-8.0.23-进入微信有时候屏幕触控失灵](https://www.v2ex.com/t/859885) ![](assets/new.png)  
 - [2022-06-15-给-MBP-加了散热垫，确实可以冲，最实际的效果是风扇安静了。。。](https://www.v2ex.com/t/859883) ![](assets/new.png)  
 - [2022-06-15-chrome-network-面板中的这个特殊的小符号表示什么意思链接图片](https://www.v2ex.com/t/859882) ![](assets/new.png)  
 - [2022-06-15-es-插入索引的正常性能应该是多少？](https://www.v2ex.com/t/859879) ![](assets/new.png)  
@@ -508,9 +511,6 @@
 - [2022-06-15-打开-zoom-出现-zoom.com.cn，而不是-zoom.us，怎么解决？](https://www.v2ex.com/t/859863) ![](assets/new.png)  
 - [2022-06-15-写了一个用于手动屏蔽敏感信息的轻量-js-库](https://www.v2ex.com/t/859862) ![](assets/new.png)  
 - [2022-06-15-脱离考试后，我不会写长文了。](https://www.v2ex.com/t/859861) ![](assets/new.png)  
-- [2022-06-15-有没有老哥能介绍在日本的-it-工作](https://www.v2ex.com/t/859860) ![](assets/new.png)  
-- [2022-06-15-假如本次-MacBook-Pro-13-更新的是-intel-12-去掉-touch-bar](https://www.v2ex.com/t/859859) ![](assets/new.png)  
-- [2022-06-15-在德国快十年了，应该回国吗？](https://www.v2ex.com/t/859858) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -571,8 +571,8 @@
 - [2022-06-15-5年磨一剑｜优酷Android包瘦身治理思路全解](https://toutiao.io/k/kwo9osk) ![](assets/new.png)  
 - [2022-06-15-最常用的-5-种流式-ETL-模式！](https://toutiao.io/k/gakpr55) ![](assets/new.png)  
 - [2022-06-15-CloudTTY：下一代云原生开源-Cloud-Shell](https://toutiao.io/k/mkxbn64) ![](assets/new.png)  
-- [2022-06-15-推荐-消息队列原理和选型：Kafka、RocketMQ-、RabbitMQ-和-ActiveMQ](https://toutiao.io/k/nuwnwro) ![](assets/new.png)  
-- [2022-06-15-推荐-如何写出一篇好的技术方案？](https://toutiao.io/k/gl2cth8) ![](assets/new.png)  
+- [2022-06-15-推荐-MongoDB全方位知识图谱！](https://toutiao.io/k/efxw4nr) ![](assets/new.png)  
+- [2022-06-15-推荐-总监的烦恼：技术丢了怎么办？](https://toutiao.io/k/rzytby1) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

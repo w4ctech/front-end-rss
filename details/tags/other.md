@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-06-15 13:55:14。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-06-15 14:16:51。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1914,7 +1914,6 @@
 - [2022-06-15-收集一下大家敲代码深度使用的笔记本](https://www.v2ex.com/t/859878) 
 - [2022-06-15-请问-GPW-一代-和-anywhere-3-哪一款鼠标在-MacBook-上体验好一点？](https://www.v2ex.com/t/859875) 
 - [2022-06-15-时隔两年,我总算又把-inline-amp-主题更新了一下](https://www.v2ex.com/t/859873) 
-- [2022-06-15-前贴情绪发泄完了，主贴的各种批评我虚心接受，但也有不爽的言论，烈士墙，关于依赖版本问题的讨论](https://www.v2ex.com/t/859869) 
 - [2022-06-15-playcover-在-12.4-上运行软件闪退](https://www.v2ex.com/t/859868) 
 - [2022-06-15-上海电信宽带拆机必须本人身份证到场合理吗](https://www.v2ex.com/t/859867) 
 - [2022-06-15-为啥我的-watch-SE-没电了后再次充电就要重新恢复初始配置一次](https://www.v2ex.com/t/859866) 
@@ -1944,8 +1943,6 @@
 - [2022-06-15-Surge4-for-Mac-4-求车位?-或者一起组队？](https://www.v2ex.com/t/859835) 
 - [2022-06-15-关于-KVM-主机网络问题请教](https://www.v2ex.com/t/859833) 
 - [2022-06-15-相亲对象生日，有啥子比较适合的礼物推荐吗？预算五百以内。](https://www.v2ex.com/t/859832) 
-- [2022-06-15-我搞了旅游组队群](https://www.v2ex.com/t/859830) 
-- [2022-06-15-显示器连接线-hdmi/dp/typec-选择经验](https://www.v2ex.com/t/859829) 
 - [2022-06-15-关于分享的意义-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15129&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fwriting-and-share%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-06-15-恶意技术时代的负责任技术-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15128&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fresponsible-tech%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-06-15-机器学习不是你想用，想用就能用-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15126&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fwhen-to-use-machine-learning%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1975,7 +1972,7 @@
 - [2022-06-15-5年磨一剑｜优酷Android包瘦身治理思路全解](https://toutiao.io/k/kwo9osk) 
 - [2022-06-15-最常用的-5-种流式-ETL-模式！](https://toutiao.io/k/gakpr55) 
 - [2022-06-15-CloudTTY：下一代云原生开源-Cloud-Shell](https://toutiao.io/k/mkxbn64) 
-- [2022-06-15-推荐-MongoDB全方位知识图谱！](https://toutiao.io/k/efxw4nr) 
 - [2022-06-15-推荐-如何写出一篇好的技术方案？](https://toutiao.io/k/gl2cth8) 
+- [2022-06-15-推荐-MongoDB全方位知识图谱！](https://toutiao.io/k/efxw4nr) 
 - [2022-06-15-推荐-消息队列原理和选型：Kafka、RocketMQ-、RabbitMQ-和-ActiveMQ](https://toutiao.io/k/nuwnwro) 
 - [2022-06-15-推荐-总监的烦恼：技术丢了怎么办？](https://toutiao.io/k/rzytby1) 

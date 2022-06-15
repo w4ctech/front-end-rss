@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-06-15 13:55:14，:rocket: 更新条数: +2029， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-06-15 14:16:51，:rocket: 更新条数: +2027， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,13 +491,13 @@
 </summary>
 
 
+- [2022-06-15-es-插入索引的正常性能应该是多少？](https://www.v2ex.com/t/859879) ![](assets/new.png)  
 - [2022-06-15-收集一下大家敲代码深度使用的笔记本](https://www.v2ex.com/t/859878) ![](assets/new.png)  
 - [2022-06-15-上海-不加班-外企-招-Java-，-高级-C++，中高级安卓，高级性能测试，中级支持工程师，帮忙内推成功送-5000](https://www.v2ex.com/t/859877) ![](assets/new.png)  
 - [2022-06-15-请问-GPW-一代-和-anywhere-3-哪一款鼠标在-MacBook-上体验好一点？](https://www.v2ex.com/t/859875) ![](assets/new.png)  
 - [2022-06-15-时隔两年,我总算又把-inline-amp-主题更新了一下](https://www.v2ex.com/t/859873) ![](assets/new.png)  
 - [2022-06-15-PVE-的管理页面是自签证书-https-的，如何借助-frp-外网访问？](https://www.v2ex.com/t/859872) ![](assets/new.png)  
 - [2022-06-15-怎么查看一款-steam-游戏是用什么工具/语言开发的？](https://www.v2ex.com/t/859871) ![](assets/new.png)  
-- [2022-06-15-前贴情绪发泄完了，主贴的各种批评我虚心接受，但也有不爽的言论，烈士墙，关于依赖版本问题的讨论](https://www.v2ex.com/t/859869) ![](assets/new.png)  
 - [2022-06-15-playcover-在-12.4-上运行软件闪退](https://www.v2ex.com/t/859868) ![](assets/new.png)  
 - [2022-06-15-上海电信宽带拆机必须本人身份证到场合理吗](https://www.v2ex.com/t/859867) ![](assets/new.png)  
 - [2022-06-15-为啥我的-watch-SE-没电了后再次充电就要重新恢复初始配置一次](https://www.v2ex.com/t/859866) ![](assets/new.png)  
@@ -571,8 +571,8 @@
 - [2022-06-15-5年磨一剑｜优酷Android包瘦身治理思路全解](https://toutiao.io/k/kwo9osk) ![](assets/new.png)  
 - [2022-06-15-最常用的-5-种流式-ETL-模式！](https://toutiao.io/k/gakpr55) ![](assets/new.png)  
 - [2022-06-15-CloudTTY：下一代云原生开源-Cloud-Shell](https://toutiao.io/k/mkxbn64) ![](assets/new.png)  
-- [2022-06-15-推荐-MongoDB全方位知识图谱！](https://toutiao.io/k/efxw4nr) ![](assets/new.png)  
 - [2022-06-15-推荐-如何写出一篇好的技术方案？](https://toutiao.io/k/gl2cth8) ![](assets/new.png)  
+- [2022-06-15-推荐-MongoDB全方位知识图谱！](https://toutiao.io/k/efxw4nr) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

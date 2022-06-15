@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-06-15 16:17:49，:rocket: 更新条数: +2024， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-06-15 16:55:48，:rocket: 更新条数: +2024， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,9 @@
 </summary>
 
 
+- [2022-06-15-20220616-午夜俱乐部](https://www.v2ex.com/t/859897) ![](assets/new.png)  
+- [2022-06-15-要不要换工作？求骂醒](https://www.v2ex.com/t/859896) ![](assets/new.png)  
+- [2022-06-15-Windows-应用如何自动下一步安装？](https://www.v2ex.com/t/859895) ![](assets/new.png)  
 - [2022-06-15-妹子-iOS-开发-2-年多了，趁着-618-没结束想帮她买点书，求推荐点-iOS-中高级开发者的书](https://www.v2ex.com/t/859894) ![](assets/new.png)  
 - [2022-06-15-kernel_task-流量异常](https://www.v2ex.com/t/859892) ![](assets/new.png)  
 - [2022-06-15-有在-wxg-的大佬吗？帮我给提这个功能的人喂坨****](https://www.v2ex.com/t/859891) ![](assets/new.png)  
@@ -508,9 +511,6 @@
 - [2022-06-15-时隔两年,我总算又把-inline-amp-主题更新了一下](https://www.v2ex.com/t/859873) ![](assets/new.png)  
 - [2022-06-15-PVE-的管理页面是自签证书-https-的，如何借助-frp-外网访问？](https://www.v2ex.com/t/859872) ![](assets/new.png)  
 - [2022-06-15-怎么查看一款-steam-游戏是用什么工具/语言开发的？](https://www.v2ex.com/t/859871) ![](assets/new.png)  
-- [2022-06-15-playcover-在-12.4-上运行软件闪退](https://www.v2ex.com/t/859868) ![](assets/new.png)  
-- [2022-06-15-上海电信宽带拆机必须本人身份证到场合理吗](https://www.v2ex.com/t/859867) ![](assets/new.png)  
-- [2022-06-15-为啥我的-watch-SE-没电了后再次充电就要重新恢复初始配置一次](https://www.v2ex.com/t/859866) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -571,8 +571,8 @@
 - [2022-06-15-5年磨一剑｜优酷Android包瘦身治理思路全解](https://toutiao.io/k/kwo9osk) ![](assets/new.png)  
 - [2022-06-15-最常用的-5-种流式-ETL-模式！](https://toutiao.io/k/gakpr55) ![](assets/new.png)  
 - [2022-06-15-CloudTTY：下一代云原生开源-Cloud-Shell](https://toutiao.io/k/mkxbn64) ![](assets/new.png)  
+- [2022-06-15-推荐-MongoDB全方位知识图谱！](https://toutiao.io/k/efxw4nr) ![](assets/new.png)  
 - [2022-06-15-推荐-消息队列原理和选型：Kafka、RocketMQ-、RabbitMQ-和-ActiveMQ](https://toutiao.io/k/nuwnwro) ![](assets/new.png)  
-- [2022-06-15-推荐-总监的烦恼：技术丢了怎么办？](https://toutiao.io/k/rzytby1) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

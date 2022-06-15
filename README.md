@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-06-15 11:13:04，:rocket: 更新条数: +2026， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-06-15 11:39:50，:rocket: 更新条数: +2027， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,9 @@
 </summary>
 
 
+- [2022-06-15-nginx-url-路径替换正则写法问题](https://www.v2ex.com/t/859851) ![](assets/new.png)  
+- [2022-06-15-安卓平台的应用兼容性测试怎么做？](https://www.v2ex.com/t/859850) ![](assets/new.png)  
+- [2022-06-15-求助：华为-cm510-音箱总是间隔-30s-滴两声](https://www.v2ex.com/t/859849) ![](assets/new.png)  
 - [2022-06-15-找个单间，期望林芝和翻身地铁附近，-7-月中旬入住](https://www.v2ex.com/t/859847) ![](assets/new.png)  
 - [2022-06-15-离开鹅厂第三年，个人开发的-VR-游戏安装破百万了！](https://www.v2ex.com/t/859846) ![](assets/new.png)  
 - [2022-06-15-求一良药](https://www.v2ex.com/t/859845) ![](assets/new.png)  
@@ -508,9 +511,6 @@
 - [2022-06-15-我搞了旅游组队群](https://www.v2ex.com/t/859830) ![](assets/new.png)  
 - [2022-06-15-显示器连接线-hdmi/dp/typec-选择经验](https://www.v2ex.com/t/859829) ![](assets/new.png)  
 - [2022-06-15-高考毕业求笔记本电脑推荐](https://www.v2ex.com/t/859828) ![](assets/new.png)  
-- [2022-06-15-神奇之事…可以在国内访问-V2-了](https://www.v2ex.com/t/859826) ![](assets/new.png)  
-- [2022-06-15-求推荐适合单人玩的-pc-端游戏大作](https://www.v2ex.com/t/859824) ![](assets/new.png)  
-- [2022-06-15-作为一名二本计算机专业的教师，如何点亮学生的技能树](https://www.v2ex.com/t/859822) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -558,8 +558,8 @@
 - [2022-06-15-Java-基础常见知识点&面试题总结中，2022-最新版！](https://toutiao.io/k/3wmokgz) ![](assets/new.png)  
 - [2022-06-15-数据库连接数设置多少合适？](https://toutiao.io/k/sxjkz9c) ![](assets/new.png)  
 - [2022-06-15-【第2638期】前端安全之-CSRF-攻击原理和防护方法](https://toutiao.io/k/g24rvnn) ![](assets/new.png)  
-- [2022-06-15-Istio服务网格：深入学习网络流量和架构](https://toutiao.io/k/z7lw442) ![](assets/new.png)  
 - [2022-06-15-如何写出一篇好的技术方案？](https://toutiao.io/k/hi0k1e7) ![](assets/new.png)  
+- [2022-06-15-Istio服务网格：深入学习网络流量和架构](https://toutiao.io/k/z7lw442) ![](assets/new.png)  
 - [2022-06-15-Git进阶系列-|-1.-创建完美的提交](https://toutiao.io/k/1k9s8we) ![](assets/new.png)  
 - [2022-06-15-C++反射：反射信息的自动生成！](https://toutiao.io/k/lsz6tsi) ![](assets/new.png)  
 - [2022-06-15-Go-网络库-Gnet-解析](https://toutiao.io/k/mir07f8) ![](assets/new.png)  
@@ -571,8 +571,8 @@
 - [2022-06-15-5年磨一剑｜优酷Android包瘦身治理思路全解](https://toutiao.io/k/kwo9osk) ![](assets/new.png)  
 - [2022-06-15-最常用的-5-种流式-ETL-模式！](https://toutiao.io/k/gakpr55) ![](assets/new.png)  
 - [2022-06-15-CloudTTY：下一代云原生开源-Cloud-Shell](https://toutiao.io/k/mkxbn64) ![](assets/new.png)  
-- [2022-06-15-推荐-MongoDB全方位知识图谱！](https://toutiao.io/k/efxw4nr) ![](assets/new.png)  
-- [2022-06-15-推荐-如何写出一篇好的技术方案？](https://toutiao.io/k/gl2cth8) ![](assets/new.png)  
+- [2022-06-15-推荐-总监的烦恼：技术丢了怎么办？](https://toutiao.io/k/rzytby1) ![](assets/new.png)  
+- [2022-06-15-推荐-消息队列原理和选型：Kafka、RocketMQ-、RabbitMQ-和-ActiveMQ](https://toutiao.io/k/nuwnwro) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

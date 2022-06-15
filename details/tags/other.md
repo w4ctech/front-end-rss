@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-06-15 11:13:04。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-06-15 11:39:50。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,8 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-06-15-安卓平台的应用兼容性测试怎么做？](https://www.v2ex.com/t/859850) 
+- [2022-06-15-求助：华为-cm510-音箱总是间隔-30s-滴两声](https://www.v2ex.com/t/859849) 
 - [2022-06-15-找个单间，期望林芝和翻身地铁附近，-7-月中旬入住](https://www.v2ex.com/t/859847) 
 - [2022-06-15-求一良药](https://www.v2ex.com/t/859845) 
 - [2022-06-15-一群人找不到工作，一群-HR-招不到人](https://www.v2ex.com/t/859844) 
@@ -1944,8 +1946,6 @@
 - [2022-06-15-请教一下这是磁盘嗝屁了吗？](https://www.v2ex.com/t/859805) 
 - [2022-06-15-自用信息管理和报表打印用什么工具比较好？](https://www.v2ex.com/t/859803) 
 - [2022-06-15-MDN+-$5/mon-起](https://www.v2ex.com/t/859802) 
-- [2022-06-15-请问大家有没有了解量化私募公司方面的工作？写交易系统的前后端之类的](https://www.v2ex.com/t/859801) 
-- [2022-06-15-Windows-自带的沙盒可以设置默认语言吗？](https://www.v2ex.com/t/859800) 
 - [2022-06-15-关于分享的意义-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15129&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fwriting-and-share%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-06-15-恶意技术时代的负责任技术-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15128&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fresponsible-tech%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-06-15-机器学习不是你想用，想用就能用-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15126&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fwhen-to-use-machine-learning%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1964,8 +1964,8 @@
 - [2022-06-15-比尔·盖茨推荐夏季书单；Web3.0行业全景及代表项目研究；实战中的架构设计方法｜码农周刊VIP会员专属邮件周报-Vol.094](https://toutiao.io/k/7z24yub) 
 - [2022-06-15-我们公司使用了-5-年的系统限流方案！从实现到部署实战详解，稳的一批!​](https://toutiao.io/k/4tls39t) 
 - [2022-06-15-数据库连接数设置多少合适？](https://toutiao.io/k/sxjkz9c) 
-- [2022-06-15-Istio服务网格：深入学习网络流量和架构](https://toutiao.io/k/z7lw442) 
 - [2022-06-15-如何写出一篇好的技术方案？](https://toutiao.io/k/hi0k1e7) 
+- [2022-06-15-Istio服务网格：深入学习网络流量和架构](https://toutiao.io/k/z7lw442) 
 - [2022-06-15-C++反射：反射信息的自动生成！](https://toutiao.io/k/lsz6tsi) 
 - [2022-06-15-Go-网络库-Gnet-解析](https://toutiao.io/k/mir07f8) 
 - [2022-06-15-基于-K8s-的交付难题退退退！|-独家交付秘籍（第三回）](https://toutiao.io/k/zzga1qz) 
@@ -1975,7 +1975,7 @@
 - [2022-06-15-5年磨一剑｜优酷Android包瘦身治理思路全解](https://toutiao.io/k/kwo9osk) 
 - [2022-06-15-最常用的-5-种流式-ETL-模式！](https://toutiao.io/k/gakpr55) 
 - [2022-06-15-CloudTTY：下一代云原生开源-Cloud-Shell](https://toutiao.io/k/mkxbn64) 
+- [2022-06-15-推荐-总监的烦恼：技术丢了怎么办？](https://toutiao.io/k/rzytby1) 
+- [2022-06-15-推荐-消息队列原理和选型：Kafka、RocketMQ-、RabbitMQ-和-ActiveMQ](https://toutiao.io/k/nuwnwro) 
 - [2022-06-15-推荐-MongoDB全方位知识图谱！](https://toutiao.io/k/efxw4nr) 
 - [2022-06-15-推荐-如何写出一篇好的技术方案？](https://toutiao.io/k/gl2cth8) 
-- [2022-06-15-推荐-消息队列原理和选型：Kafka、RocketMQ-、RabbitMQ-和-ActiveMQ](https://toutiao.io/k/nuwnwro) 
-- [2022-06-15-推荐-总监的烦恼：技术丢了怎么办？](https://toutiao.io/k/rzytby1) 

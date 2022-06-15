@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-06-15 10:44:14。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-06-15 11:13:04。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,9 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-06-15-找个单间，期望林芝和翻身地铁附近，-7-月中旬入住](https://www.v2ex.com/t/859847) 
+- [2022-06-15-求一良药](https://www.v2ex.com/t/859845) 
+- [2022-06-15-一群人找不到工作，一群-HR-招不到人](https://www.v2ex.com/t/859844) 
 - [2022-06-15-腾讯云-Cloudbase-云开发的默认域名在某些地区无法访问](https://www.v2ex.com/t/859842) 
 - [2022-06-15-有没有公司的产品是基于多家公有云的。一家云出了问题，可以平滑切换到其他云计算厂商？](https://www.v2ex.com/t/859841) 
 - [2022-06-15-请教一个-web-接口设计](https://www.v2ex.com/t/859840) 
@@ -1943,11 +1946,6 @@
 - [2022-06-15-MDN+-$5/mon-起](https://www.v2ex.com/t/859802) 
 - [2022-06-15-请问大家有没有了解量化私募公司方面的工作？写交易系统的前后端之类的](https://www.v2ex.com/t/859801) 
 - [2022-06-15-Windows-自带的沙盒可以设置默认语言吗？](https://www.v2ex.com/t/859800) 
-- [2022-06-15-时代互联卡域名转出](https://www.v2ex.com/t/859798) 
-- [2022-06-15-8-号线南段和义地铁站附近步行-800-米大主卧-2000-出租](https://www.v2ex.com/t/859796) 
-- [2022-06-15-华为云-OBS-难用死了](https://www.v2ex.com/t/859795) 
-- [2022-06-15-有什么方法可以防止泄漏某些-API-KEY?](https://www.v2ex.com/t/859794) 
-- [2022-06-15-有没有哪款软件或者开源项目能进行代码管理和监测的吗](https://www.v2ex.com/t/859793) 
 - [2022-06-15-关于分享的意义-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15129&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fwriting-and-share%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-06-15-恶意技术时代的负责任技术-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15128&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fresponsible-tech%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-06-15-机器学习不是你想用，想用就能用-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15126&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fwhen-to-use-machine-learning%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1978,6 +1976,6 @@
 - [2022-06-15-最常用的-5-种流式-ETL-模式！](https://toutiao.io/k/gakpr55) 
 - [2022-06-15-CloudTTY：下一代云原生开源-Cloud-Shell](https://toutiao.io/k/mkxbn64) 
 - [2022-06-15-推荐-MongoDB全方位知识图谱！](https://toutiao.io/k/efxw4nr) 
-- [2022-06-15-推荐-消息队列原理和选型：Kafka、RocketMQ-、RabbitMQ-和-ActiveMQ](https://toutiao.io/k/nuwnwro) 
 - [2022-06-15-推荐-如何写出一篇好的技术方案？](https://toutiao.io/k/gl2cth8) 
+- [2022-06-15-推荐-消息队列原理和选型：Kafka、RocketMQ-、RabbitMQ-和-ActiveMQ](https://toutiao.io/k/nuwnwro) 
 - [2022-06-15-推荐-总监的烦恼：技术丢了怎么办？](https://toutiao.io/k/rzytby1) 

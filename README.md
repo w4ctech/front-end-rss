@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-06-15 10:44:14，:rocket: 更新条数: +2027， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-06-15 11:13:04，:rocket: 更新条数: +2026， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,10 @@
 </summary>
 
 
+- [2022-06-15-找个单间，期望林芝和翻身地铁附近，-7-月中旬入住](https://www.v2ex.com/t/859847) ![](assets/new.png)  
+- [2022-06-15-离开鹅厂第三年，个人开发的-VR-游戏安装破百万了！](https://www.v2ex.com/t/859846) ![](assets/new.png)  
+- [2022-06-15-求一良药](https://www.v2ex.com/t/859845) ![](assets/new.png)  
+- [2022-06-15-一群人找不到工作，一群-HR-招不到人](https://www.v2ex.com/t/859844) ![](assets/new.png)  
 - [2022-06-15-腾讯云-Cloudbase-云开发的默认域名在某些地区无法访问](https://www.v2ex.com/t/859842) ![](assets/new.png)  
 - [2022-06-15-有没有公司的产品是基于多家公有云的。一家云出了问题，可以平滑切换到其他云计算厂商？](https://www.v2ex.com/t/859841) ![](assets/new.png)  
 - [2022-06-15-请教一个-web-接口设计](https://www.v2ex.com/t/859840) ![](assets/new.png)  
@@ -507,10 +511,6 @@
 - [2022-06-15-神奇之事…可以在国内访问-V2-了](https://www.v2ex.com/t/859826) ![](assets/new.png)  
 - [2022-06-15-求推荐适合单人玩的-pc-端游戏大作](https://www.v2ex.com/t/859824) ![](assets/new.png)  
 - [2022-06-15-作为一名二本计算机专业的教师，如何点亮学生的技能树](https://www.v2ex.com/t/859822) ![](assets/new.png)  
-- [2022-06-15-想请教一下，关于开发和维护一个跨平台嵌入式应用，应该如何组织项目结构？](https://www.v2ex.com/t/859821) ![](assets/new.png)  
-- [2022-06-15-请问一下-去哪可以找个设计师，设计网站里的图片-logo-等素材，除了某八戒某宝等](https://www.v2ex.com/t/859820) ![](assets/new.png)  
-- [2022-06-15-pycharm-每次与服务器同步文件都要重新输入密码，怎么办](https://www.v2ex.com/t/859819) ![](assets/new.png)  
-- [2022-06-15-两年前端求杭州内推，大专](https://www.v2ex.com/t/859818) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -565,14 +565,14 @@
 - [2022-06-15-Go-网络库-Gnet-解析](https://toutiao.io/k/mir07f8) ![](assets/new.png)  
 - [2022-06-15-基于-K8s-的交付难题退退退！|-独家交付秘籍（第三回）](https://toutiao.io/k/zzga1qz) ![](assets/new.png)  
 - [2022-06-15-书单-|-元宇宙时代，快来为未来的职业生涯布局！](https://toutiao.io/k/z0xuhhr) ![](assets/new.png)  
-- [2022-06-15-WebAssembly会取代Docker吗？](https://toutiao.io/k/ojpzxm8) ![](assets/new.png)  
 - [2022-06-15-夜天之书-#52-NoSQL-Revolution](https://toutiao.io/k/tv6ve5y) ![](assets/new.png)  
+- [2022-06-15-WebAssembly会取代Docker吗？](https://toutiao.io/k/ojpzxm8) ![](assets/new.png)  
 - [2022-06-15-不写一行代码，也能做技术规划吗？](https://toutiao.io/k/9rh1gyl) ![](assets/new.png)  
 - [2022-06-15-5年磨一剑｜优酷Android包瘦身治理思路全解](https://toutiao.io/k/kwo9osk) ![](assets/new.png)  
 - [2022-06-15-最常用的-5-种流式-ETL-模式！](https://toutiao.io/k/gakpr55) ![](assets/new.png)  
 - [2022-06-15-CloudTTY：下一代云原生开源-Cloud-Shell](https://toutiao.io/k/mkxbn64) ![](assets/new.png)  
 - [2022-06-15-推荐-MongoDB全方位知识图谱！](https://toutiao.io/k/efxw4nr) ![](assets/new.png)  
-- [2022-06-15-推荐-消息队列原理和选型：Kafka、RocketMQ-、RabbitMQ-和-ActiveMQ](https://toutiao.io/k/nuwnwro) ![](assets/new.png)  
+- [2022-06-15-推荐-如何写出一篇好的技术方案？](https://toutiao.io/k/gl2cth8) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

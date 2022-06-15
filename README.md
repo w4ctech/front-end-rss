@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-06-15 09:13:49，:rocket: 更新条数: +2029， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-06-15 09:40:47，:rocket: 更新条数: +2026， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,11 @@
 </summary>
 
 
+- [2022-06-15-我搞了旅游组队群](https://www.v2ex.com/t/859830) ![](assets/new.png)  
+- [2022-06-15-显示器连接线-hdmi/dp/typec-选择经验](https://www.v2ex.com/t/859829) ![](assets/new.png)  
+- [2022-06-15-高考毕业求笔记本电脑推荐](https://www.v2ex.com/t/859828) ![](assets/new.png)  
+- [2022-06-15-神奇之事…可以在国内访问-V2-了](https://www.v2ex.com/t/859826) ![](assets/new.png)  
+- [2022-06-15-求推荐适合单人玩的-pc-端游戏大作](https://www.v2ex.com/t/859824) ![](assets/new.png)  
 - [2022-06-15-作为一名二本计算机专业的教师，如何点亮学生的技能树](https://www.v2ex.com/t/859822) ![](assets/new.png)  
 - [2022-06-15-想请教一下，关于开发和维护一个跨平台嵌入式应用，应该如何组织项目结构？](https://www.v2ex.com/t/859821) ![](assets/new.png)  
 - [2022-06-15-请问一下-去哪可以找个设计师，设计网站里的图片-logo-等素材，除了某八戒某宝等](https://www.v2ex.com/t/859820) ![](assets/new.png)  
@@ -506,11 +511,6 @@
 - [2022-06-15-中信银行信用卡](https://www.v2ex.com/t/859807) ![](assets/new.png)  
 - [2022-06-15-无法通过反射将-interface{}转换成结构题的问题](https://www.v2ex.com/t/859806) ![](assets/new.png)  
 - [2022-06-15-请教一下这是磁盘嗝屁了吗？](https://www.v2ex.com/t/859805) ![](assets/new.png)  
-- [2022-06-15-自用信息管理和报表打印用什么工具比较好？](https://www.v2ex.com/t/859803) ![](assets/new.png)  
-- [2022-06-15-MDN+-$5/mon-起](https://www.v2ex.com/t/859802) ![](assets/new.png)  
-- [2022-06-15-请问大家有没有了解量化私募公司方面的工作？写交易系统的前后端之类的](https://www.v2ex.com/t/859801) ![](assets/new.png)  
-- [2022-06-15-Windows-自带的沙盒可以设置默认语言吗？](https://www.v2ex.com/t/859800) ![](assets/new.png)  
-- [2022-06-15-时代互联卡域名转出](https://www.v2ex.com/t/859798) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -571,8 +571,8 @@
 - [2022-06-15-夜天之书-#52-NoSQL-Revolution](https://toutiao.io/k/tv6ve5y) ![](assets/new.png)  
 - [2022-06-15-最常用的-5-种流式-ETL-模式！](https://toutiao.io/k/gakpr55) ![](assets/new.png)  
 - [2022-06-15-CloudTTY：下一代云原生开源-Cloud-Shell](https://toutiao.io/k/mkxbn64) ![](assets/new.png)  
-- [2022-06-15-推荐-如何写出一篇好的技术方案？](https://toutiao.io/k/gl2cth8) ![](assets/new.png)  
 - [2022-06-15-推荐-MongoDB全方位知识图谱！](https://toutiao.io/k/efxw4nr) ![](assets/new.png)  
+- [2022-06-15-推荐-消息队列原理和选型：Kafka、RocketMQ-、RabbitMQ-和-ActiveMQ](https://toutiao.io/k/nuwnwro) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

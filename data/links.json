@@ -9953,6 +9953,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "Apple Watch 的一个恶性 Bug,站立检测不到",
+        "link": "https://www.v2ex.com/t/859901",
+        "date": "2022-06-15"
+      },
+      {
         "title": "[Shenzhen] Quality Assurance Engineer ( Python )",
         "link": "https://www.v2ex.com/t/859900",
         "date": "2022-06-15"
@@ -10130,11 +10135,6 @@
       {
         "title": "今天突然调配出了一个非常不错味道的果汁饮料",
         "link": "https://www.v2ex.com/t/859852",
-        "date": "2022-06-15"
-      },
-      {
-        "title": "nginx url 路径替换正则写法问题",
-        "link": "https://www.v2ex.com/t/859851",
         "date": "2022-06-15"
       }
     ]
@@ -10342,8 +10342,8 @@
         "date": "2022-06-15"
       },
       {
-        "title": "[推荐] 总监的烦恼：技术丢了怎么办？",
-        "link": "https://toutiao.io/k/rzytby1",
+        "title": "[推荐] 消息队列原理和选型：Kafka、RocketMQ 、RabbitMQ 和 ActiveMQ",
+        "link": "https://toutiao.io/k/nuwnwro",
         "date": "2022-06-15"
       },
       {
@@ -10352,8 +10352,8 @@
         "date": "2022-06-15"
       },
       {
-        "title": "[推荐] 消息队列原理和选型：Kafka、RocketMQ 、RabbitMQ 和 ActiveMQ",
-        "link": "https://toutiao.io/k/nuwnwro",
+        "title": "[推荐] 总监的烦恼：技术丢了怎么办？",
+        "link": "https://toutiao.io/k/rzytby1",
         "date": "2022-06-15"
       }
     ]

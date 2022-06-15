@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-06-15 17:41:12，:rocket: 更新条数: +2024， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-06-15 18:15:43，:rocket: 更新条数: +2024， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-06-15-Apple-Watch-的一个恶性-Bug,站立检测不到](https://www.v2ex.com/t/859901) ![](assets/new.png)  
 - [2022-06-15-Shenzhen-Quality-Assurance-Engineer-Python-](https://www.v2ex.com/t/859900) ![](assets/new.png)  
 - [2022-06-15-MAC-电脑两个触控板分别控制两个屏幕的一些思考](https://www.v2ex.com/t/859899) ![](assets/new.png)  
 - [2022-06-15-20220616-午夜俱乐部](https://www.v2ex.com/t/859897) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-06-15-收集一下大家敲代码深度使用的笔记本](https://www.v2ex.com/t/859878) ![](assets/new.png)  
 - [2022-06-15-上海-不加班-外企-招-Java-，-高级-C++，中高级安卓，高级性能测试，中级支持工程师，帮忙内推成功送-5000](https://www.v2ex.com/t/859877) ![](assets/new.png)  
 - [2022-06-15-请问-GPW-一代-和-anywhere-3-哪一款鼠标在-MacBook-上体验好一点？](https://www.v2ex.com/t/859875) ![](assets/new.png)  
-- [2022-06-15-时隔两年,我总算又把-inline-amp-主题更新了一下](https://www.v2ex.com/t/859873) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -571,7 +571,7 @@
 - [2022-06-15-5年磨一剑｜优酷Android包瘦身治理思路全解](https://toutiao.io/k/kwo9osk) ![](assets/new.png)  
 - [2022-06-15-最常用的-5-种流式-ETL-模式！](https://toutiao.io/k/gakpr55) ![](assets/new.png)  
 - [2022-06-15-CloudTTY：下一代云原生开源-Cloud-Shell](https://toutiao.io/k/mkxbn64) ![](assets/new.png)  
-- [2022-06-15-推荐-总监的烦恼：技术丢了怎么办？](https://toutiao.io/k/rzytby1) ![](assets/new.png)  
+- [2022-06-15-推荐-消息队列原理和选型：Kafka、RocketMQ-、RabbitMQ-和-ActiveMQ](https://toutiao.io/k/nuwnwro) ![](assets/new.png)  
 - [2022-06-15-推荐-MongoDB全方位知识图谱！](https://toutiao.io/k/efxw4nr) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

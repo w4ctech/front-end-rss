@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-06-15 07:13:50，:rocket: 更新条数: +2029， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-06-15 07:39:27，:rocket: 更新条数: +2031， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,14 @@
 </summary>
 
 
+- [2022-06-15-如何找回在-obsidian-手机客户端上误删的笔记？](https://www.v2ex.com/t/859790) ![](assets/new.png)  
+- [2022-06-15-外国人打字需要切换输入法吗？](https://www.v2ex.com/t/859789) ![](assets/new.png)  
+- [2022-06-15-请问有擅长简道云和氚云低代码平台开发的吗？](https://www.v2ex.com/t/859788) ![](assets/new.png)  
+- [2022-06-15-请问昨天飞书更新后支持-iOS-16-了吗？](https://www.v2ex.com/t/859786) ![](assets/new.png)  
+- [2022-06-15-你会因为-IDE-无法分析和跳转函数的所有调用点而烦恼吗？](https://www.v2ex.com/t/859785) ![](assets/new.png)  
+- [2022-06-15-腾龙-28-75g2-怎么样？](https://www.v2ex.com/t/859784) ![](assets/new.png)  
+- [2022-06-15-如何用-pandas-实现最近一段时间成交量的百分位分类](https://www.v2ex.com/t/859783) ![](assets/new.png)  
+- [2022-06-15-Portable-Homelab](https://www.v2ex.com/t/859782) ![](assets/new.png)  
 - [2022-06-15-我要不要分享下第一次被裁员](https://www.v2ex.com/t/859781) ![](assets/new.png)  
 - [2022-06-15-mac-的桌面可以放一些小组件吗？](https://www.v2ex.com/t/859780) ![](assets/new.png)  
 - [2022-06-15-广州想要领养布偶猫](https://www.v2ex.com/t/859779) ![](assets/new.png)  
@@ -503,14 +511,6 @@
 - [2022-06-15-想问下大家都是通过什么来获取行业信息？招聘软件？公众号？还是一些网站（infoQ）?求推荐几个信息获取的办法](https://www.v2ex.com/t/859771) ![](assets/new.png)  
 - [2022-06-15-Windows-自带的截图保存默认名称可以更改吗...](https://www.v2ex.com/t/859770) ![](assets/new.png)  
 - [2022-06-15-关于字节小程序的-IOS-版](https://www.v2ex.com/t/859769) ![](assets/new.png)  
-- [2022-06-15-交友贴，认识几个读书人](https://www.v2ex.com/t/859768) ![](assets/new.png)  
-- [2022-06-15-有什么比-jms-便宜的机场可用吗？](https://www.v2ex.com/t/859767) ![](assets/new.png)  
-- [2022-06-15-atlantic：低门槛免费-VPS-期限一年-#免费-VPS](https://www.v2ex.com/t/859766) ![](assets/new.png)  
-- [2022-06-15-机箱风道散热是不是玄学？](https://www.v2ex.com/t/859765) ![](assets/new.png)  
-- [2022-06-15-浏览器右键翻译,有没有插件可以做到黑白名单](https://www.v2ex.com/t/859764) ![](assets/new.png)  
-- [2022-06-15-mac-的通用控制-HandOff（接力）太灵敏了，怎么解决？](https://www.v2ex.com/t/859763) ![](assets/new.png)  
-- [2022-06-15-请问公司买的补充商业保险、缴纳的医保、沪惠保、和百万医疗保险商业保险-他们的保障范围有什么不同嘛？沪惠保有必要买嘛？](https://www.v2ex.com/t/859762) ![](assets/new.png)  
-- [2022-06-15-字节试用期离职不能再回来？这是什么坑爹政策](https://www.v2ex.com/t/859761) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -571,8 +571,8 @@
 - [2022-06-15-夜天之书-#52-NoSQL-Revolution](https://toutiao.io/k/tv6ve5y) ![](assets/new.png)  
 - [2022-06-15-最常用的-5-种流式-ETL-模式！](https://toutiao.io/k/gakpr55) ![](assets/new.png)  
 - [2022-06-15-CloudTTY：下一代云原生开源-Cloud-Shell](https://toutiao.io/k/mkxbn64) ![](assets/new.png)  
-- [2022-06-15-推荐-消息队列原理和选型：Kafka、RocketMQ-、RabbitMQ-和-ActiveMQ](https://toutiao.io/k/nuwnwro) ![](assets/new.png)  
 - [2022-06-15-推荐-总监的烦恼：技术丢了怎么办？](https://toutiao.io/k/rzytby1) ![](assets/new.png)  
+- [2022-06-15-推荐-MongoDB全方位知识图谱！](https://toutiao.io/k/efxw4nr) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

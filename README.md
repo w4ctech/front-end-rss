@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-06-15 05:41:12，:rocket: 更新条数: +2019， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-06-15 06:16:51，:rocket: 更新条数: +2023， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,11 @@
 </summary>
 
 
+- [2022-06-15-字节试用期离职不能再回来？这是什么坑爹政策](https://www.v2ex.com/t/859761) ![](assets/new.png)  
+- [2022-06-15-推荐一个回国的机场](https://www.v2ex.com/t/859760) ![](assets/new.png)  
+- [2022-06-15-请问下各位现在市面上卖的-150W、120W-的手机充电头能用来带-Desk-Mini-或者外星人之类的游戏本吗？](https://www.v2ex.com/t/859759) ![](assets/new.png)  
+- [2022-06-15-PyCharm-30%-off,-Until-June-20,-2022](https://www.v2ex.com/t/859758) ![](assets/new.png)  
+- [2022-06-15-ios-16-的共享相册如何开启？](https://www.v2ex.com/t/859756) ![](assets/new.png)  
 - [2022-06-15-web3-感兴趣的进来](https://www.v2ex.com/t/859755) ![](assets/new.png)  
 - [2022-06-15-如果台海局势紧张了，甚至爆发战争，群晖等服务还能用吗？](https://www.v2ex.com/t/859754) ![](assets/new.png)  
 - [2022-06-15-看到网友对-OKR-的概括，会意的笑了](https://www.v2ex.com/t/859751) ![](assets/new.png)  
@@ -506,11 +511,6 @@
 - [2022-06-15-iPhone-突然无法用小窗口播放PiP-功能](https://www.v2ex.com/t/859738) ![](assets/new.png)  
 - [2022-06-15-育碧上海---招聘-全栈开发工程师-Python-](https://www.v2ex.com/t/859736) ![](assets/new.png)  
 - [2022-06-15-有办法可以在宿主机通过-container_name-与容器内进行通信吗？](https://www.v2ex.com/t/859735) ![](assets/new.png)  
-- [2022-06-15-大众-cc380-可以不](https://www.v2ex.com/t/859734) ![](assets/new.png)  
-- [2022-06-15-刚知道这个-hugo-还没细了解-想快速解惑两个问题](https://www.v2ex.com/t/859732) ![](assets/new.png)  
-- [2022-06-15-是否有这样的衣服尺码测量工具？](https://www.v2ex.com/t/859731) ![](assets/new.png)  
-- [2022-06-15-如果你想做自媒体视频号，你会做什么？](https://www.v2ex.com/t/859730) ![](assets/new.png)  
-- [2022-06-15-又喜提大礼包，麻了](https://www.v2ex.com/t/859729) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -559,19 +559,20 @@
 - [2022-06-15-数据库连接数设置多少合适？](https://toutiao.io/k/sxjkz9c) ![](assets/new.png)  
 - [2022-06-15-【第2638期】前端安全之-CSRF-攻击原理和防护方法](https://toutiao.io/k/g24rvnn) ![](assets/new.png)  
 - [2022-06-15-Istio服务网格：深入学习网络流量和架构](https://toutiao.io/k/z7lw442) ![](assets/new.png)  
-- [2022-06-15-Go-网络库-Gnet-解析](https://toutiao.io/k/mir07f8) ![](assets/new.png)  
 - [2022-06-15-Git进阶系列-|-1.-创建完美的提交](https://toutiao.io/k/1k9s8we) ![](assets/new.png)  
 - [2022-06-15-C++反射：反射信息的自动生成！](https://toutiao.io/k/lsz6tsi) ![](assets/new.png)  
+- [2022-06-15-Go-网络库-Gnet-解析](https://toutiao.io/k/mir07f8) ![](assets/new.png)  
 - [2022-06-15-基于-K8s-的交付难题退退退！|-独家交付秘籍（第三回）](https://toutiao.io/k/zzga1qz) ![](assets/new.png)  
 - [2022-06-15-如何写出一篇好的技术方案？](https://toutiao.io/k/hi0k1e7) ![](assets/new.png)  
 - [2022-06-15-WebAssembly会取代Docker吗？](https://toutiao.io/k/ojpzxm8) ![](assets/new.png)  
 - [2022-06-15-不写一行代码，也能做技术规划吗？](https://toutiao.io/k/9rh1gyl) ![](assets/new.png)  
 - [2022-06-15-书单-|-元宇宙时代，快来为未来的职业生涯布局！](https://toutiao.io/k/z0xuhhr) ![](assets/new.png)  
 - [2022-06-15-5年磨一剑｜优酷Android包瘦身治理思路全解](https://toutiao.io/k/kwo9osk) ![](assets/new.png)  
-- [2022-06-15-推荐-如何写出一篇好的技术方案？](https://toutiao.io/k/gl2cth8) ![](assets/new.png)  
-- [2022-06-15-推荐-MongoDB全方位知识图谱！](https://toutiao.io/k/efxw4nr) ![](assets/new.png)  
-- [2022-06-15-推荐-消息队列原理和选型：Kafka、RocketMQ-、RabbitMQ-和-ActiveMQ](https://toutiao.io/k/nuwnwro) ![](assets/new.png)  
+- [2022-06-15-夜天之书-#52-NoSQL-Revolution](https://toutiao.io/k/tv6ve5y) ![](assets/new.png)  
+- [2022-06-15-最常用的-5-种流式-ETL-模式！](https://toutiao.io/k/gakpr55) ![](assets/new.png)  
+- [2022-06-15-CloudTTY：下一代云原生开源-Cloud-Shell](https://toutiao.io/k/mkxbn64) ![](assets/new.png)  
 - [2022-06-15-推荐-总监的烦恼：技术丢了怎么办？](https://toutiao.io/k/rzytby1) ![](assets/new.png)  
+- [2022-06-15-推荐-MongoDB全方位知识图谱！](https://toutiao.io/k/efxw4nr) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -9953,6 +9953,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "[Shenzhen] Quality Assurance Engineer ( Python )",
+        "link": "https://www.v2ex.com/t/859900",
+        "date": "2022-06-15"
+      },
+      {
         "title": "MAC 电脑两个触控板分别控制两个屏幕的一些思考",
         "link": "https://www.v2ex.com/t/859899",
         "date": "2022-06-15"
@@ -10130,11 +10135,6 @@
       {
         "title": "nginx url 路径替换正则写法问题",
         "link": "https://www.v2ex.com/t/859851",
-        "date": "2022-06-15"
-      },
-      {
-        "title": "安卓平台的应用兼容性测试怎么做？",
-        "link": "https://www.v2ex.com/t/859850",
         "date": "2022-06-15"
       }
     ]
@@ -10342,8 +10342,8 @@
         "date": "2022-06-15"
       },
       {
-        "title": "[推荐] 消息队列原理和选型：Kafka、RocketMQ 、RabbitMQ 和 ActiveMQ",
-        "link": "https://toutiao.io/k/nuwnwro",
+        "title": "[推荐] 总监的烦恼：技术丢了怎么办？",
+        "link": "https://toutiao.io/k/rzytby1",
         "date": "2022-06-15"
       },
       {
@@ -10352,8 +10352,8 @@
         "date": "2022-06-15"
       },
       {
-        "title": "[推荐] 总监的烦恼：技术丢了怎么办？",
-        "link": "https://toutiao.io/k/rzytby1",
+        "title": "[推荐] 消息队列原理和选型：Kafka、RocketMQ 、RabbitMQ 和 ActiveMQ",
+        "link": "https://toutiao.io/k/nuwnwro",
         "date": "2022-06-15"
       }
     ]

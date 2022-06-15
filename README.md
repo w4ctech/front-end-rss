@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-06-15 06:47:05，:rocket: 更新条数: +2028， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-06-15 07:13:50，:rocket: 更新条数: +2029， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,13 @@
 </summary>
 
 
+- [2022-06-15-我要不要分享下第一次被裁员](https://www.v2ex.com/t/859781) ![](assets/new.png)  
+- [2022-06-15-mac-的桌面可以放一些小组件吗？](https://www.v2ex.com/t/859780) ![](assets/new.png)  
+- [2022-06-15-广州想要领养布偶猫](https://www.v2ex.com/t/859779) ![](assets/new.png)  
+- [2022-06-15-macbook-pro-2019-款-经常强制关机](https://www.v2ex.com/t/859778) ![](assets/new.png)  
+- [2022-06-15-京东买奶](https://www.v2ex.com/t/859777) ![](assets/new.png)  
+- [2022-06-15-xcframework-使用时报-undefined-symbol-的问题](https://www.v2ex.com/t/859776) ![](assets/new.png)  
+- [2022-06-15-涉诈停机？实名验证！](https://www.v2ex.com/t/859775) ![](assets/new.png)  
 - [2022-06-15-如何让自己在网络上儒雅随和些？](https://www.v2ex.com/t/859773) ![](assets/new.png)  
 - [2022-06-15-Legacy-node-avatars](https://www.v2ex.com/t/859772) ![](assets/new.png)  
 - [2022-06-15-想问下大家都是通过什么来获取行业信息？招聘软件？公众号？还是一些网站（infoQ）?求推荐几个信息获取的办法](https://www.v2ex.com/t/859771) ![](assets/new.png)  
@@ -504,13 +511,6 @@
 - [2022-06-15-mac-的通用控制-HandOff（接力）太灵敏了，怎么解决？](https://www.v2ex.com/t/859763) ![](assets/new.png)  
 - [2022-06-15-请问公司买的补充商业保险、缴纳的医保、沪惠保、和百万医疗保险商业保险-他们的保障范围有什么不同嘛？沪惠保有必要买嘛？](https://www.v2ex.com/t/859762) ![](assets/new.png)  
 - [2022-06-15-字节试用期离职不能再回来？这是什么坑爹政策](https://www.v2ex.com/t/859761) ![](assets/new.png)  
-- [2022-06-15-推荐一个回国的机场](https://www.v2ex.com/t/859760) ![](assets/new.png)  
-- [2022-06-15-请问下各位现在市面上卖的-150W、120W-的手机充电头能用来带-Desk-Mini-或者外星人之类的游戏本吗？](https://www.v2ex.com/t/859759) ![](assets/new.png)  
-- [2022-06-15-PyCharm-30%-off,-Until-June-20,-2022](https://www.v2ex.com/t/859758) ![](assets/new.png)  
-- [2022-06-15-ios-16-的共享相册如何开启？](https://www.v2ex.com/t/859756) ![](assets/new.png)  
-- [2022-06-15-web3-感兴趣的进来](https://www.v2ex.com/t/859755) ![](assets/new.png)  
-- [2022-06-15-如果台海局势紧张了，甚至爆发战争，群晖等服务还能用吗？](https://www.v2ex.com/t/859754) ![](assets/new.png)  
-- [2022-06-15-看到网友对-OKR-的概括，会意的笑了](https://www.v2ex.com/t/859751) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -561,8 +561,8 @@
 - [2022-06-15-Istio服务网格：深入学习网络流量和架构](https://toutiao.io/k/z7lw442) ![](assets/new.png)  
 - [2022-06-15-Git进阶系列-|-1.-创建完美的提交](https://toutiao.io/k/1k9s8we) ![](assets/new.png)  
 - [2022-06-15-C++反射：反射信息的自动生成！](https://toutiao.io/k/lsz6tsi) ![](assets/new.png)  
-- [2022-06-15-Go-网络库-Gnet-解析](https://toutiao.io/k/mir07f8) ![](assets/new.png)  
 - [2022-06-15-如何写出一篇好的技术方案？](https://toutiao.io/k/hi0k1e7) ![](assets/new.png)  
+- [2022-06-15-Go-网络库-Gnet-解析](https://toutiao.io/k/mir07f8) ![](assets/new.png)  
 - [2022-06-15-基于-K8s-的交付难题退退退！|-独家交付秘籍（第三回）](https://toutiao.io/k/zzga1qz) ![](assets/new.png)  
 - [2022-06-15-WebAssembly会取代Docker吗？](https://toutiao.io/k/ojpzxm8) ![](assets/new.png)  
 - [2022-06-15-不写一行代码，也能做技术规划吗？](https://toutiao.io/k/9rh1gyl) ![](assets/new.png)  
@@ -571,8 +571,8 @@
 - [2022-06-15-夜天之书-#52-NoSQL-Revolution](https://toutiao.io/k/tv6ve5y) ![](assets/new.png)  
 - [2022-06-15-最常用的-5-种流式-ETL-模式！](https://toutiao.io/k/gakpr55) ![](assets/new.png)  
 - [2022-06-15-CloudTTY：下一代云原生开源-Cloud-Shell](https://toutiao.io/k/mkxbn64) ![](assets/new.png)  
-- [2022-06-15-推荐-如何写出一篇好的技术方案？](https://toutiao.io/k/gl2cth8) ![](assets/new.png)  
 - [2022-06-15-推荐-消息队列原理和选型：Kafka、RocketMQ-、RabbitMQ-和-ActiveMQ](https://toutiao.io/k/nuwnwro) ![](assets/new.png)  
+- [2022-06-15-推荐-总监的烦恼：技术丢了怎么办？](https://toutiao.io/k/rzytby1) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

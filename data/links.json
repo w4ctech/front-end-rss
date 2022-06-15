@@ -9953,6 +9953,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "网站运维工程师（影视类、视频网站）：年薪 18w 起步，单休，远程工作：",
+        "link": "https://www.v2ex.com/t/859902",
+        "date": "2022-06-15"
+      },
+      {
         "title": "Apple Watch 的一个恶性 Bug,站立检测不到",
         "link": "https://www.v2ex.com/t/859901",
         "date": "2022-06-15"
@@ -10130,11 +10135,6 @@
       {
         "title": "有没有 V 友出闲置的苹果数据线",
         "link": "https://www.v2ex.com/t/859856",
-        "date": "2022-06-15"
-      },
-      {
-        "title": "今天突然调配出了一个非常不错味道的果汁饮料",
-        "link": "https://www.v2ex.com/t/859852",
         "date": "2022-06-15"
       }
     ]
@@ -10342,8 +10342,8 @@
         "date": "2022-06-15"
       },
       {
-        "title": "[推荐] 消息队列原理和选型：Kafka、RocketMQ 、RabbitMQ 和 ActiveMQ",
-        "link": "https://toutiao.io/k/nuwnwro",
+        "title": "[推荐] 总监的烦恼：技术丢了怎么办？",
+        "link": "https://toutiao.io/k/rzytby1",
         "date": "2022-06-15"
       },
       {
@@ -10352,8 +10352,8 @@
         "date": "2022-06-15"
       },
       {
-        "title": "[推荐] 总监的烦恼：技术丢了怎么办？",
-        "link": "https://toutiao.io/k/rzytby1",
+        "title": "[推荐] 消息队列原理和选型：Kafka、RocketMQ 、RabbitMQ 和 ActiveMQ",
+        "link": "https://toutiao.io/k/nuwnwro",
         "date": "2022-06-15"
       }
     ]

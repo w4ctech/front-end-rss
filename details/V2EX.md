@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2022-06-15 18:15:43。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-06-15 18:46:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-06-15-网站运维工程师（影视类、视频网站）：年薪-18w-起步，单休，远程工作：](https://www.v2ex.com/t/859902) 
 - [2022-06-15-Apple-Watch-的一个恶性-Bug,站立检测不到](https://www.v2ex.com/t/859901) 
 - [2022-06-15-Shenzhen-Quality-Assurance-Engineer-Python-](https://www.v2ex.com/t/859900) 
 - [2022-06-15-MAC-电脑两个触控板分别控制两个屏幕的一些思考](https://www.v2ex.com/t/859899) 
@@ -41,4 +42,3 @@
 - [2022-06-15-在德国快十年了，应该回国吗？](https://www.v2ex.com/t/859858) 
 - [2022-06-15-通胀是不是伪命题？](https://www.v2ex.com/t/859857) 
 - [2022-06-15-有没有-V-友出闲置的苹果数据线](https://www.v2ex.com/t/859856) 
-- [2022-06-15-今天突然调配出了一个非常不错味道的果汁饮料](https://www.v2ex.com/t/859852) 

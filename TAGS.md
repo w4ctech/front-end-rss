@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-06-15 03:24:53。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-06-15 04:12:28。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -121,6 +121,7 @@
 
 
 
+- [【V2EX】关于领导让在客户小程序上体现出我们公司的元素，真的是难为我了](https://www.v2ex.com/t/859727)
 - [......【查看更多】......](./details/tags/miniprogram.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -153,7 +154,6 @@
 
 
 
-- [【V2EX】请教一个比较小众的需求，玩游戏的](https://www.v2ex.com/t/859688)
 - [【技术头条】4个Python编程游戏网站，玩嗨了~-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15120&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494149%26amp%3Bidx%3D1%26amp%3Bsn%3D7525aafe254b1a8017fee638cc5f3340%26amp%3Bchksm%3Dfa3f0b5ecd4882481060c4ccceff14d66ac9348089028ca145d07a17dbd153e46155fb2e0138%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [......【查看更多】......](./details/tags/dev-game.md)
 
@@ -236,6 +236,7 @@
 
 - [【武汉肺炎防疫全纪录(财新网)】广州17岁男生在定点医院参加高考-特殊考场视频监考](https://m.caixin.com/m/2021-06-05/101723418.html)
 - [【武汉肺炎防疫全纪录(财新网)】林郑月娥率13高官直播接种科兴疫苗-复星疫苗预计周中到港](https://m.caixin.com/m/2021-02-22/101665724.html)
+- [【V2EX】如果你想做自媒体视频号，你会做什么？](https://www.v2ex.com/t/859730)
 - [【V2EX】有偿求助WebRTC-外网播放](https://www.v2ex.com/t/859716)
 - [......【查看更多】......](./details/tags/audio-video.md)
 
@@ -278,7 +279,6 @@
 - [【武汉肺炎防疫全纪录(财新网)】解药|新冠mRNA疫苗安全性有哪些挑战？](https://m.caixin.com/m/2021-01-08/101648043.html)
 - [【武汉肺炎防疫全纪录(财新网)】大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html)
 - [【张鑫旭-鑫空间-鑫生活】基于文字的URL锚点定位与::target-text样式设置](https://www.zhangxinxu.com/wordpress/2022/06/url-anchor-target-text/)
-- [【V2EX】同样的线上环境，调试时-chrome-打不了断点而-360-可以。](https://www.v2ex.com/t/859690)
 - [【开发者头条】【第2638期】前端安全之-CSRF-攻击原理和防护方法](https://toutiao.io/k/g24rvnn)
 - [......【查看更多】......](./details/tags/browser.md)
 
@@ -296,6 +296,7 @@
 
 
 
+- [【V2EX】育碧上海---招聘-全栈开发工程师-Python-](https://www.v2ex.com/t/859736)
 - [【开发者头条】WebAssembly会取代Docker吗？](https://toutiao.io/k/ojpzxm8)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 
@@ -329,7 +330,6 @@
 
 
 
-- [【V2EX】移动无忧行-jegotrip-的自动签到脚本或-GitHub-action-，有大佬能再写一个吗](https://www.v2ex.com/t/859683)
 - [【开发者头条】Git进阶系列-|-1.-创建完美的提交](https://toutiao.io/k/1k9s8we)
 - [......【查看更多】......](./details/tags/git-svn.md)
 
@@ -347,7 +347,6 @@
 
 
 
-- [【V2EX】深圳坪山比亚迪汽车招聘移动端、前端、-PHP-开发和测试](https://www.v2ex.com/t/859684)
 - [【技术头条】面试官：Java反射是什么？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15115&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494145%26amp%3Bidx%3D2%26amp%3Bsn%3D32bbd28f61522900d0fca0135d4c3a69%26amp%3Bchksm%3Dfa3f0b5acd48824c8b0b637aa499dfbb749e97a8cc28ec30887bb77d99628c931a87ede7cc7e%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【开发者头条】Java-基础常见知识点&面试题总结中，2022-最新版！](https://toutiao.io/k/3wmokgz)
 - [......【查看更多】......](./details/tags/job-interview.md)

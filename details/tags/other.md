@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-06-15 08:46:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-06-15 09:13:49。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,12 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-06-15-作为一名二本计算机专业的教师，如何点亮学生的技能树](https://www.v2ex.com/t/859822) 
+- [2022-06-15-想请教一下，关于开发和维护一个跨平台嵌入式应用，应该如何组织项目结构？](https://www.v2ex.com/t/859821) 
+- [2022-06-15-请问一下-去哪可以找个设计师，设计网站里的图片-logo-等素材，除了某八戒某宝等](https://www.v2ex.com/t/859820) 
+- [2022-06-15-pycharm-每次与服务器同步文件都要重新输入密码，怎么办](https://www.v2ex.com/t/859819) 
+- [2022-06-15-两年前端求杭州内推，大专](https://www.v2ex.com/t/859818) 
+- [2022-06-15-在证券行业有比追一科技更好的客服机器人吗？](https://www.v2ex.com/t/859816) 
 - [2022-06-15-用流量代理正常，用-Wi-Fi-代理失效](https://www.v2ex.com/t/859814) 
 - [2022-06-15-河南卫健委通报入豫健康码变红为使用了过期的规则](https://www.v2ex.com/t/859812) 
 - [2022-06-15-你知道有哪些可以提升运气的方法](https://www.v2ex.com/t/859811) 
@@ -1944,11 +1950,6 @@
 - [2022-06-15-xcframework-使用时报-undefined-symbol-的问题](https://www.v2ex.com/t/859776) 
 - [2022-06-15-涉诈停机？实名验证！](https://www.v2ex.com/t/859775) 
 - [2022-06-15-如何让自己在网络上儒雅随和些？](https://www.v2ex.com/t/859773) 
-- [2022-06-15-Windows-自带的截图保存默认名称可以更改吗...](https://www.v2ex.com/t/859770) 
-- [2022-06-15-交友贴，认识几个读书人](https://www.v2ex.com/t/859768) 
-- [2022-06-15-有什么比-jms-便宜的机场可用吗？](https://www.v2ex.com/t/859767) 
-- [2022-06-15-atlantic：低门槛免费-VPS-期限一年-#免费-VPS](https://www.v2ex.com/t/859766) 
-- [2022-06-15-机箱风道散热是不是玄学？](https://www.v2ex.com/t/859765) 
 - [2022-06-15-关于分享的意义-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15129&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fwriting-and-share%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-06-15-恶意技术时代的负责任技术-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15128&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fresponsible-tech%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-06-15-机器学习不是你想用，想用就能用-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15126&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fwhen-to-use-machine-learning%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1979,6 +1980,6 @@
 - [2022-06-15-最常用的-5-种流式-ETL-模式！](https://toutiao.io/k/gakpr55) 
 - [2022-06-15-CloudTTY：下一代云原生开源-Cloud-Shell](https://toutiao.io/k/mkxbn64) 
 - [2022-06-15-推荐-如何写出一篇好的技术方案？](https://toutiao.io/k/gl2cth8) 
+- [2022-06-15-推荐-MongoDB全方位知识图谱！](https://toutiao.io/k/efxw4nr) 
 - [2022-06-15-推荐-消息队列原理和选型：Kafka、RocketMQ-、RabbitMQ-和-ActiveMQ](https://toutiao.io/k/nuwnwro) 
 - [2022-06-15-推荐-总监的烦恼：技术丢了怎么办？](https://toutiao.io/k/rzytby1) 
-- [2022-06-15-推荐-MongoDB全方位知识图谱！](https://toutiao.io/k/efxw4nr) 

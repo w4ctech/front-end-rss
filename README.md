@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-06-15 08:46:28，:rocket: 更新条数: +2030， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-06-15 09:13:49，:rocket: 更新条数: +2029， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,13 @@
 </summary>
 
 
+- [2022-06-15-作为一名二本计算机专业的教师，如何点亮学生的技能树](https://www.v2ex.com/t/859822) ![](assets/new.png)  
+- [2022-06-15-想请教一下，关于开发和维护一个跨平台嵌入式应用，应该如何组织项目结构？](https://www.v2ex.com/t/859821) ![](assets/new.png)  
+- [2022-06-15-请问一下-去哪可以找个设计师，设计网站里的图片-logo-等素材，除了某八戒某宝等](https://www.v2ex.com/t/859820) ![](assets/new.png)  
+- [2022-06-15-pycharm-每次与服务器同步文件都要重新输入密码，怎么办](https://www.v2ex.com/t/859819) ![](assets/new.png)  
+- [2022-06-15-两年前端求杭州内推，大专](https://www.v2ex.com/t/859818) ![](assets/new.png)  
+- [2022-06-15-写了个表情包小程序](https://www.v2ex.com/t/859817) ![](assets/new.png)  
+- [2022-06-15-在证券行业有比追一科技更好的客服机器人吗？](https://www.v2ex.com/t/859816) ![](assets/new.png)  
 - [2022-06-15-用流量代理正常，用-Wi-Fi-代理失效](https://www.v2ex.com/t/859814) ![](assets/new.png)  
 - [2022-06-15-河南卫健委通报入豫健康码变红为使用了过期的规则](https://www.v2ex.com/t/859812) ![](assets/new.png)  
 - [2022-06-15-你知道有哪些可以提升运气的方法](https://www.v2ex.com/t/859811) ![](assets/new.png)  
@@ -504,13 +511,6 @@
 - [2022-06-15-请问大家有没有了解量化私募公司方面的工作？写交易系统的前后端之类的](https://www.v2ex.com/t/859801) ![](assets/new.png)  
 - [2022-06-15-Windows-自带的沙盒可以设置默认语言吗？](https://www.v2ex.com/t/859800) ![](assets/new.png)  
 - [2022-06-15-时代互联卡域名转出](https://www.v2ex.com/t/859798) ![](assets/new.png)  
-- [2022-06-15-8-号线南段和义地铁站附近步行-800-米大主卧-2000-出租](https://www.v2ex.com/t/859796) ![](assets/new.png)  
-- [2022-06-15-华为云-OBS-难用死了](https://www.v2ex.com/t/859795) ![](assets/new.png)  
-- [2022-06-15-有什么方法可以防止泄漏某些-API-KEY?](https://www.v2ex.com/t/859794) ![](assets/new.png)  
-- [2022-06-15-有没有哪款软件或者开源项目能进行代码管理和监测的吗](https://www.v2ex.com/t/859793) ![](assets/new.png)  
-- [2022-06-15-有没有工具/脚手架可以用来搭建开放接口平台？](https://www.v2ex.com/t/859792) ![](assets/new.png)  
-- [2022-06-15-如何找回在-obsidian-手机客户端上误删的笔记？](https://www.v2ex.com/t/859790) ![](assets/new.png)  
-- [2022-06-15-外国人打字需要切换输入法吗？](https://www.v2ex.com/t/859789) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -572,7 +572,7 @@
 - [2022-06-15-最常用的-5-种流式-ETL-模式！](https://toutiao.io/k/gakpr55) ![](assets/new.png)  
 - [2022-06-15-CloudTTY：下一代云原生开源-Cloud-Shell](https://toutiao.io/k/mkxbn64) ![](assets/new.png)  
 - [2022-06-15-推荐-如何写出一篇好的技术方案？](https://toutiao.io/k/gl2cth8) ![](assets/new.png)  
-- [2022-06-15-推荐-消息队列原理和选型：Kafka、RocketMQ-、RabbitMQ-和-ActiveMQ](https://toutiao.io/k/nuwnwro) ![](assets/new.png)  
+- [2022-06-15-推荐-MongoDB全方位知识图谱！](https://toutiao.io/k/efxw4nr) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

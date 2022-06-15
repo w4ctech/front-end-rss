@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-06-15 08:46:28。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-06-15 09:13:49。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -70,6 +70,13 @@
 
 - [【张鑫旭-鑫空间-鑫生活】2022-06-12-基于文字的URL锚点定位与::target-text样式设置](https://www.zhangxinxu.com/wordpress/2022/06/url-anchor-target-text/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-06-11-介绍一种CSS变量未定义语法也OK的小妙招](https://www.zhangxinxu.com/wordpress/2022/06/css-var-optional-empty-trick/) 
+- [【V2EX】2022-06-15-作为一名二本计算机专业的教师，如何点亮学生的技能树](https://www.v2ex.com/t/859822) 
+- [【V2EX】2022-06-15-想请教一下，关于开发和维护一个跨平台嵌入式应用，应该如何组织项目结构？](https://www.v2ex.com/t/859821) 
+- [【V2EX】2022-06-15-请问一下-去哪可以找个设计师，设计网站里的图片-logo-等素材，除了某八戒某宝等](https://www.v2ex.com/t/859820) 
+- [【V2EX】2022-06-15-pycharm-每次与服务器同步文件都要重新输入密码，怎么办](https://www.v2ex.com/t/859819) 
+- [【V2EX】2022-06-15-两年前端求杭州内推，大专](https://www.v2ex.com/t/859818) 
+- [【V2EX】2022-06-15-写了个表情包小程序](https://www.v2ex.com/t/859817) 
+- [【V2EX】2022-06-15-在证券行业有比追一科技更好的客服机器人吗？](https://www.v2ex.com/t/859816) 
 - [【V2EX】2022-06-15-用流量代理正常，用-Wi-Fi-代理失效](https://www.v2ex.com/t/859814) 
 - [【V2EX】2022-06-15-河南卫健委通报入豫健康码变红为使用了过期的规则](https://www.v2ex.com/t/859812) 
 - [【V2EX】2022-06-15-你知道有哪些可以提升运气的方法](https://www.v2ex.com/t/859811) 
@@ -104,14 +111,6 @@
 - [【V2EX】2022-06-15-xcframework-使用时报-undefined-symbol-的问题](https://www.v2ex.com/t/859776) 
 - [【V2EX】2022-06-15-涉诈停机？实名验证！](https://www.v2ex.com/t/859775) 
 - [【V2EX】2022-06-15-如何让自己在网络上儒雅随和些？](https://www.v2ex.com/t/859773) 
-- [【V2EX】2022-06-15-Legacy-node-avatars](https://www.v2ex.com/t/859772) 
-- [【V2EX】2022-06-15-想问下大家都是通过什么来获取行业信息？招聘软件？公众号？还是一些网站（infoQ）?求推荐几个信息获取的办法](https://www.v2ex.com/t/859771) 
-- [【V2EX】2022-06-15-Windows-自带的截图保存默认名称可以更改吗...](https://www.v2ex.com/t/859770) 
-- [【V2EX】2022-06-15-关于字节小程序的-IOS-版](https://www.v2ex.com/t/859769) 
-- [【V2EX】2022-06-15-交友贴，认识几个读书人](https://www.v2ex.com/t/859768) 
-- [【V2EX】2022-06-15-有什么比-jms-便宜的机场可用吗？](https://www.v2ex.com/t/859767) 
-- [【V2EX】2022-06-15-atlantic：低门槛免费-VPS-期限一年-#免费-VPS](https://www.v2ex.com/t/859766) 
-- [【V2EX】2022-06-15-机箱风道散热是不是玄学？](https://www.v2ex.com/t/859765) 
 - [【技术头条】2022-06-15-关于分享的意义-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15129&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fwriting-and-share%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-06-15-恶意技术时代的负责任技术-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15128&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fresponsible-tech%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-06-15-性能测试之K6篇-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15127&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fperformance-testing-k6%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -151,9 +150,9 @@
 - [【开发者头条】2022-06-15-最常用的-5-种流式-ETL-模式！](https://toutiao.io/k/gakpr55) 
 - [【开发者头条】2022-06-15-CloudTTY：下一代云原生开源-Cloud-Shell](https://toutiao.io/k/mkxbn64) 
 - [【开发者头条】2022-06-15-推荐-如何写出一篇好的技术方案？](https://toutiao.io/k/gl2cth8) 
+- [【开发者头条】2022-06-15-推荐-MongoDB全方位知识图谱！](https://toutiao.io/k/efxw4nr) 
 - [【开发者头条】2022-06-15-推荐-消息队列原理和选型：Kafka、RocketMQ-、RabbitMQ-和-ActiveMQ](https://toutiao.io/k/nuwnwro) 
 - [【开发者头条】2022-06-15-推荐-总监的烦恼：技术丢了怎么办？](https://toutiao.io/k/rzytby1) 
-- [【开发者头条】2022-06-15-推荐-MongoDB全方位知识图谱！](https://toutiao.io/k/efxw4nr) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

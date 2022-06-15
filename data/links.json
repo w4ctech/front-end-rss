@@ -9953,6 +9953,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "MAC 电脑两个触控板分别控制两个屏幕的一些思考",
+        "link": "https://www.v2ex.com/t/859899",
+        "date": "2022-06-15"
+      },
+      {
         "title": "20220616 午夜俱乐部",
         "link": "https://www.v2ex.com/t/859897",
         "date": "2022-06-15"
@@ -10130,11 +10135,6 @@
       {
         "title": "安卓平台的应用兼容性测试怎么做？",
         "link": "https://www.v2ex.com/t/859850",
-        "date": "2022-06-15"
-      },
-      {
-        "title": "求助：华为 cm510 音箱总是间隔 30s 滴两声",
-        "link": "https://www.v2ex.com/t/859849",
         "date": "2022-06-15"
       }
     ]
@@ -10342,13 +10342,13 @@
         "date": "2022-06-15"
       },
       {
-        "title": "[推荐] MongoDB全方位知识图谱！",
-        "link": "https://toutiao.io/k/efxw4nr",
+        "title": "[推荐] 消息队列原理和选型：Kafka、RocketMQ 、RabbitMQ 和 ActiveMQ",
+        "link": "https://toutiao.io/k/nuwnwro",
         "date": "2022-06-15"
       },
       {
-        "title": "[推荐] 消息队列原理和选型：Kafka、RocketMQ 、RabbitMQ 和 ActiveMQ",
-        "link": "https://toutiao.io/k/nuwnwro",
+        "title": "[推荐] MongoDB全方位知识图谱！",
+        "link": "https://toutiao.io/k/efxw4nr",
         "date": "2022-06-15"
       },
       {

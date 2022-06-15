@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-06-15 15:14:57，:rocket: 更新条数: +2026， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-06-15 15:43:54，:rocket: 更新条数: +2026， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-06-15-项目仓库大文件存储方式](https://www.v2ex.com/t/859890) ![](assets/new.png)  
+- [2022-06-15-想在-github-上发布某视频监控产品的漏洞/设计缺陷](https://www.v2ex.com/t/859889) ![](assets/new.png)  
 - [2022-06-15-出个-GitHub-账号会有人要么](https://www.v2ex.com/t/859888) ![](assets/new.png)  
 - [2022-06-15-win-本盒盖后，怎么样能让外接显示屏仍然显示扩展屏幕？](https://www.v2ex.com/t/859886) ![](assets/new.png)  
 - [2022-06-15-iPhone13-iOS15.5-微信-8.0.23-进入微信有时候屏幕触控失灵](https://www.v2ex.com/t/859885) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-06-15-iPhone-se-3-能通过耳机播放杜比全景声吗](https://www.v2ex.com/t/859865) ![](assets/new.png)  
 - [2022-06-15-Windows-11-22H2-排雷-不想说脏话,-但微软的-UX-设计师能不能给平板用户留一条活路?](https://www.v2ex.com/t/859864) ![](assets/new.png)  
 - [2022-06-15-打开-zoom-出现-zoom.com.cn，而不是-zoom.us，怎么解决？](https://www.v2ex.com/t/859863) ![](assets/new.png)  
-- [2022-06-15-写了一个用于手动屏蔽敏感信息的轻量-js-库](https://www.v2ex.com/t/859862) ![](assets/new.png)  
-- [2022-06-15-脱离考试后，我不会写长文了。](https://www.v2ex.com/t/859861) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -559,8 +559,8 @@
 - [2022-06-15-数据库连接数设置多少合适？](https://toutiao.io/k/sxjkz9c) ![](assets/new.png)  
 - [2022-06-15-【第2638期】前端安全之-CSRF-攻击原理和防护方法](https://toutiao.io/k/g24rvnn) ![](assets/new.png)  
 - [2022-06-15-如何写出一篇好的技术方案？](https://toutiao.io/k/hi0k1e7) ![](assets/new.png)  
-- [2022-06-15-Istio服务网格：深入学习网络流量和架构](https://toutiao.io/k/z7lw442) ![](assets/new.png)  
 - [2022-06-15-Git进阶系列-|-1.-创建完美的提交](https://toutiao.io/k/1k9s8we) ![](assets/new.png)  
+- [2022-06-15-Istio服务网格：深入学习网络流量和架构](https://toutiao.io/k/z7lw442) ![](assets/new.png)  
 - [2022-06-15-C++反射：反射信息的自动生成！](https://toutiao.io/k/lsz6tsi) ![](assets/new.png)  
 - [2022-06-15-书单-|-元宇宙时代，快来为未来的职业生涯布局！](https://toutiao.io/k/z0xuhhr) ![](assets/new.png)  
 - [2022-06-15-夜天之书-#52-NoSQL-Revolution](https://toutiao.io/k/tv6ve5y) ![](assets/new.png)  
@@ -571,8 +571,8 @@
 - [2022-06-15-5年磨一剑｜优酷Android包瘦身治理思路全解](https://toutiao.io/k/kwo9osk) ![](assets/new.png)  
 - [2022-06-15-最常用的-5-种流式-ETL-模式！](https://toutiao.io/k/gakpr55) ![](assets/new.png)  
 - [2022-06-15-CloudTTY：下一代云原生开源-Cloud-Shell](https://toutiao.io/k/mkxbn64) ![](assets/new.png)  
-- [2022-06-15-推荐-MongoDB全方位知识图谱！](https://toutiao.io/k/efxw4nr) ![](assets/new.png)  
 - [2022-06-15-推荐-总监的烦恼：技术丢了怎么办？](https://toutiao.io/k/rzytby1) ![](assets/new.png)  
+- [2022-06-15-推荐-如何写出一篇好的技术方案？](https://toutiao.io/k/gl2cth8) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

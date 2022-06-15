@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-06-15 15:14:58。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-06-15 15:43:54。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,7 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-06-15-项目仓库大文件存储方式](https://www.v2ex.com/t/859890) 
 - [2022-06-15-win-本盒盖后，怎么样能让外接显示屏仍然显示扩展屏幕？](https://www.v2ex.com/t/859886) 
 - [2022-06-15-iPhone13-iOS15.5-微信-8.0.23-进入微信有时候屏幕触控失灵](https://www.v2ex.com/t/859885) 
 - [2022-06-15-给-MBP-加了散热垫，确实可以冲，最实际的效果是风扇安静了。。。](https://www.v2ex.com/t/859883) 
@@ -1938,8 +1939,6 @@
 - [2022-06-15-一群人找不到工作，一群-HR-招不到人](https://www.v2ex.com/t/859844) 
 - [2022-06-15-腾讯云-Cloudbase-云开发的默认域名在某些地区无法访问](https://www.v2ex.com/t/859842) 
 - [2022-06-15-有没有公司的产品是基于多家公有云的。一家云出了问题，可以平滑切换到其他云计算厂商？](https://www.v2ex.com/t/859841) 
-- [2022-06-15-请教一个-web-接口设计](https://www.v2ex.com/t/859840) 
-- [2022-06-15-坐标深圳南山公寓转租，大新地铁站，出门就是地铁](https://www.v2ex.com/t/859839) 
 - [2022-06-15-关于分享的意义-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15129&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fwriting-and-share%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-06-15-恶意技术时代的负责任技术-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15128&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fresponsible-tech%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-06-15-机器学习不是你想用，想用就能用-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15126&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fwhen-to-use-machine-learning%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1969,7 +1968,7 @@
 - [2022-06-15-5年磨一剑｜优酷Android包瘦身治理思路全解](https://toutiao.io/k/kwo9osk) 
 - [2022-06-15-最常用的-5-种流式-ETL-模式！](https://toutiao.io/k/gakpr55) 
 - [2022-06-15-CloudTTY：下一代云原生开源-Cloud-Shell](https://toutiao.io/k/mkxbn64) 
-- [2022-06-15-推荐-MongoDB全方位知识图谱！](https://toutiao.io/k/efxw4nr) 
 - [2022-06-15-推荐-总监的烦恼：技术丢了怎么办？](https://toutiao.io/k/rzytby1) 
 - [2022-06-15-推荐-如何写出一篇好的技术方案？](https://toutiao.io/k/gl2cth8) 
 - [2022-06-15-推荐-消息队列原理和选型：Kafka、RocketMQ-、RabbitMQ-和-ActiveMQ](https://toutiao.io/k/nuwnwro) 
+- [2022-06-15-推荐-MongoDB全方位知识图谱！](https://toutiao.io/k/efxw4nr) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-06-15 05:00:29。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-06-15 05:22:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,9 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-06-15-看到网友对-OKR-的概括，会意的笑了](https://www.v2ex.com/t/859751) 
+- [2022-06-15-苹果查找功能里面-联系人列表出现：-d4260204@icloud.com](https://www.v2ex.com/t/859750) 
+- [2022-06-15-成都-海外产品运营-1-位](https://www.v2ex.com/t/859749) 
 - [2022-06-15-天津965寻找一名技术主管/负责人](https://www.v2ex.com/t/859748) 
 - [2022-06-15-m1-mba-外接显示器闪屏，有人遇到过同样的问题吗](https://www.v2ex.com/t/859747) 
 - [2022-06-15-ETH2.0-是利好-还是-利空？](https://www.v2ex.com/t/859744) 
@@ -1937,8 +1940,6 @@
 - [2022-06-15-教程序员做自媒体：玩转知乎，人在美国，刚下飞机！](https://www.v2ex.com/t/859708) 
 - [2022-06-15-谈谈我的群晖-321-备份，双盘镜像备份+网盘加密备份](https://www.v2ex.com/t/859705) 
 - [2022-06-15-云原生多云管理利器----cluster-api-之-ControlPlane](https://www.v2ex.com/t/859703) 
-- [2022-06-15-一幅眼镜的寿命是多久](https://www.v2ex.com/t/859701) 
-- [2022-06-15-obsidian-怎么-windows-跟-mac-同步呢，有什么方案吗。](https://www.v2ex.com/t/859700) 
 - [2022-06-15-关于分享的意义-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15129&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fwriting-and-share%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-06-15-恶意技术时代的负责任技术-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15128&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fresponsible-tech%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-06-15-机器学习不是你想用，想用就能用-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15126&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fwhen-to-use-machine-learning%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1967,5 +1968,5 @@
 - [2022-06-15-5年磨一剑｜优酷Android包瘦身治理思路全解](https://toutiao.io/k/kwo9osk) 
 - [2022-06-15-推荐-MongoDB全方位知识图谱！](https://toutiao.io/k/efxw4nr) 
 - [2022-06-15-推荐-消息队列原理和选型：Kafka、RocketMQ-、RabbitMQ-和-ActiveMQ](https://toutiao.io/k/nuwnwro) 
-- [2022-06-15-推荐-总监的烦恼：技术丢了怎么办？](https://toutiao.io/k/rzytby1) 
 - [2022-06-15-推荐-如何写出一篇好的技术方案？](https://toutiao.io/k/gl2cth8) 
+- [2022-06-15-推荐-总监的烦恼：技术丢了怎么办？](https://toutiao.io/k/rzytby1) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-06-15 14:16:51，:rocket: 更新条数: +2027， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-06-15 14:38:41，:rocket: 更新条数: +2027， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-06-15-给-MBP-加了散热垫，确实可以冲，最实际的效果是风扇安静了。。。](https://www.v2ex.com/t/859883) ![](assets/new.png)  
+- [2022-06-15-chrome-network-面板中的这个特殊的小符号表示什么意思链接图片](https://www.v2ex.com/t/859882) ![](assets/new.png)  
 - [2022-06-15-es-插入索引的正常性能应该是多少？](https://www.v2ex.com/t/859879) ![](assets/new.png)  
 - [2022-06-15-收集一下大家敲代码深度使用的笔记本](https://www.v2ex.com/t/859878) ![](assets/new.png)  
 - [2022-06-15-上海-不加班-外企-招-Java-，-高级-C++，中高级安卓，高级性能测试，中级支持工程师，帮忙内推成功送-5000](https://www.v2ex.com/t/859877) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-06-15-有没有老哥能介绍在日本的-it-工作](https://www.v2ex.com/t/859860) ![](assets/new.png)  
 - [2022-06-15-假如本次-MacBook-Pro-13-更新的是-intel-12-去掉-touch-bar](https://www.v2ex.com/t/859859) ![](assets/new.png)  
 - [2022-06-15-在德国快十年了，应该回国吗？](https://www.v2ex.com/t/859858) ![](assets/new.png)  
-- [2022-06-15-通胀是不是伪命题？](https://www.v2ex.com/t/859857) ![](assets/new.png)  
-- [2022-06-15-有没有-V-友出闲置的苹果数据线](https://www.v2ex.com/t/859856) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -571,8 +571,8 @@
 - [2022-06-15-5年磨一剑｜优酷Android包瘦身治理思路全解](https://toutiao.io/k/kwo9osk) ![](assets/new.png)  
 - [2022-06-15-最常用的-5-种流式-ETL-模式！](https://toutiao.io/k/gakpr55) ![](assets/new.png)  
 - [2022-06-15-CloudTTY：下一代云原生开源-Cloud-Shell](https://toutiao.io/k/mkxbn64) ![](assets/new.png)  
+- [2022-06-15-推荐-消息队列原理和选型：Kafka、RocketMQ-、RabbitMQ-和-ActiveMQ](https://toutiao.io/k/nuwnwro) ![](assets/new.png)  
 - [2022-06-15-推荐-如何写出一篇好的技术方案？](https://toutiao.io/k/gl2cth8) ![](assets/new.png)  
-- [2022-06-15-推荐-MongoDB全方位知识图谱！](https://toutiao.io/k/efxw4nr) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

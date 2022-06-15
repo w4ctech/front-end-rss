@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-06-15 04:12:28。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-06-15 05:00:29。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -296,6 +296,7 @@
 
 
 
+- [【V2EX】诚招-GO-区块链全栈工程师](https://www.v2ex.com/t/859745)
 - [【V2EX】育碧上海---招聘-全栈开发工程师-Python-](https://www.v2ex.com/t/859736)
 - [【开发者头条】WebAssembly会取代Docker吗？](https://toutiao.io/k/ojpzxm8)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)

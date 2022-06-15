@@ -1,10 +1,16 @@
-:alarm_clock: 更新时间: 2022-06-15 04:12:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-06-15 05:00:29。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-06-15-天津965寻找一名技术主管/负责人](https://www.v2ex.com/t/859748) 
+- [2022-06-15-m1-mba-外接显示器闪屏，有人遇到过同样的问题吗](https://www.v2ex.com/t/859747) 
+- [2022-06-15-诚招-GO-区块链全栈工程师](https://www.v2ex.com/t/859745) 
+- [2022-06-15-ETH2.0-是利好-还是-利空？](https://www.v2ex.com/t/859744) 
+- [2022-06-15-大-A-股要走牛了？](https://www.v2ex.com/t/859742) 
+- [2022-06-15-MacBook-Air-2022-屏幕-边框宽度-与-ppi](https://www.v2ex.com/t/859741) 
 - [2022-06-15-有没有可以开-电脑-发票的啊](https://www.v2ex.com/t/859740) 
 - [2022-06-15-iPhone-突然无法用小窗口播放PiP-功能](https://www.v2ex.com/t/859738) 
 - [2022-06-15-育碧上海---招聘-全栈开发工程师-Python-](https://www.v2ex.com/t/859736) 
@@ -32,8 +38,3 @@
 - [2022-06-15-云原生多云管理利器----cluster-api-之-ControlPlane](https://www.v2ex.com/t/859703) 
 - [2022-06-15-一幅眼镜的寿命是多久](https://www.v2ex.com/t/859701) 
 - [2022-06-15-obsidian-怎么-windows-跟-mac-同步呢，有什么方案吗。](https://www.v2ex.com/t/859700) 
-- [2022-06-15-才发现-cocoachina-都挂了几个月](https://www.v2ex.com/t/859698) 
-- [2022-06-15-在-Proxmox-VE-上安装-Widnows,-是选择-Windows10-还是选择-Windows-Server?](https://www.v2ex.com/t/859697) 
-- [2022-06-15-捷径-自动执行-指定地点不会执行？](https://www.v2ex.com/t/859696) 
-- [2022-06-15-预言下一年这个时候-95-油价到-15-元/1L](https://www.v2ex.com/t/859694) 
-- [2022-06-15-PC-端微信每次登录都要手机确认或扫码，之前不用的呀](https://www.v2ex.com/t/859692) 

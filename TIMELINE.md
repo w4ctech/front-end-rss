@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-06-15 04:12:28。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-06-15 05:00:29。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -70,6 +70,12 @@
 
 - [【张鑫旭-鑫空间-鑫生活】2022-06-12-基于文字的URL锚点定位与::target-text样式设置](https://www.zhangxinxu.com/wordpress/2022/06/url-anchor-target-text/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-06-11-介绍一种CSS变量未定义语法也OK的小妙招](https://www.zhangxinxu.com/wordpress/2022/06/css-var-optional-empty-trick/) 
+- [【V2EX】2022-06-15-天津965寻找一名技术主管/负责人](https://www.v2ex.com/t/859748) 
+- [【V2EX】2022-06-15-m1-mba-外接显示器闪屏，有人遇到过同样的问题吗](https://www.v2ex.com/t/859747) 
+- [【V2EX】2022-06-15-诚招-GO-区块链全栈工程师](https://www.v2ex.com/t/859745) 
+- [【V2EX】2022-06-15-ETH2.0-是利好-还是-利空？](https://www.v2ex.com/t/859744) 
+- [【V2EX】2022-06-15-大-A-股要走牛了？](https://www.v2ex.com/t/859742) 
+- [【V2EX】2022-06-15-MacBook-Air-2022-屏幕-边框宽度-与-ppi](https://www.v2ex.com/t/859741) 
 - [【V2EX】2022-06-15-有没有可以开-电脑-发票的啊](https://www.v2ex.com/t/859740) 
 - [【V2EX】2022-06-15-iPhone-突然无法用小窗口播放PiP-功能](https://www.v2ex.com/t/859738) 
 - [【V2EX】2022-06-15-育碧上海---招聘-全栈开发工程师-Python-](https://www.v2ex.com/t/859736) 
@@ -97,11 +103,6 @@
 - [【V2EX】2022-06-15-云原生多云管理利器----cluster-api-之-ControlPlane](https://www.v2ex.com/t/859703) 
 - [【V2EX】2022-06-15-一幅眼镜的寿命是多久](https://www.v2ex.com/t/859701) 
 - [【V2EX】2022-06-15-obsidian-怎么-windows-跟-mac-同步呢，有什么方案吗。](https://www.v2ex.com/t/859700) 
-- [【V2EX】2022-06-15-才发现-cocoachina-都挂了几个月](https://www.v2ex.com/t/859698) 
-- [【V2EX】2022-06-15-在-Proxmox-VE-上安装-Widnows,-是选择-Windows10-还是选择-Windows-Server?](https://www.v2ex.com/t/859697) 
-- [【V2EX】2022-06-15-捷径-自动执行-指定地点不会执行？](https://www.v2ex.com/t/859696) 
-- [【V2EX】2022-06-15-预言下一年这个时候-95-油价到-15-元/1L](https://www.v2ex.com/t/859694) 
-- [【V2EX】2022-06-15-PC-端微信每次登录都要手机确认或扫码，之前不用的呀](https://www.v2ex.com/t/859692) 
 - [【技术头条】2022-06-15-关于分享的意义-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15129&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fwriting-and-share%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-06-15-恶意技术时代的负责任技术-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15128&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fresponsible-tech%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-06-15-性能测试之K6篇-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15127&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fperformance-testing-k6%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -132,15 +133,15 @@
 - [【开发者头条】2022-06-15-C++反射：反射信息的自动生成！](https://toutiao.io/k/lsz6tsi) 
 - [【开发者头条】2022-06-15-基于-K8s-的交付难题退退退！|-独家交付秘籍（第三回）](https://toutiao.io/k/zzga1qz) 
 - [【开发者头条】2022-06-15-Git进阶系列-|-1.-创建完美的提交](https://toutiao.io/k/1k9s8we) 
-- [【开发者头条】2022-06-15-WebAssembly会取代Docker吗？](https://toutiao.io/k/ojpzxm8) 
 - [【开发者头条】2022-06-15-如何写出一篇好的技术方案？](https://toutiao.io/k/hi0k1e7) 
+- [【开发者头条】2022-06-15-WebAssembly会取代Docker吗？](https://toutiao.io/k/ojpzxm8) 
 - [【开发者头条】2022-06-15-不写一行代码，也能做技术规划吗？](https://toutiao.io/k/9rh1gyl) 
 - [【开发者头条】2022-06-15-书单-|-元宇宙时代，快来为未来的职业生涯布局！](https://toutiao.io/k/z0xuhhr) 
 - [【开发者头条】2022-06-15-5年磨一剑｜优酷Android包瘦身治理思路全解](https://toutiao.io/k/kwo9osk) 
-- [【开发者头条】2022-06-15-推荐-如何写出一篇好的技术方案？](https://toutiao.io/k/gl2cth8) 
-- [【开发者头条】2022-06-15-推荐-消息队列原理和选型：Kafka、RocketMQ-、RabbitMQ-和-ActiveMQ](https://toutiao.io/k/nuwnwro) 
 - [【开发者头条】2022-06-15-推荐-MongoDB全方位知识图谱！](https://toutiao.io/k/efxw4nr) 
+- [【开发者头条】2022-06-15-推荐-消息队列原理和选型：Kafka、RocketMQ-、RabbitMQ-和-ActiveMQ](https://toutiao.io/k/nuwnwro) 
 - [【开发者头条】2022-06-15-推荐-总监的烦恼：技术丢了怎么办？](https://toutiao.io/k/rzytby1) 
+- [【开发者头条】2022-06-15-推荐-如何写出一篇好的技术方案？](https://toutiao.io/k/gl2cth8) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

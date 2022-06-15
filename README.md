@@ -11,11 +11,11 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-06-15 11:39:50，:rocket: 更新条数: +2027， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-06-15 12:24:31，:rocket: 更新条数: +91， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
@@ -65,26 +65,6 @@
 </summary>
 
 
-- [2022-03-11-新冠肺炎防疫全纪录（实时更新中）](https://mappv5.caixin.com/m_topic_detail/1696.html) ![](assets/new.png)  
-- [2022-03-10-吉林一校园现聚集性疫情-党委书记被免](https://m.caixin.com/m/2022-03-10/101853899.html) ![](assets/new.png)  
-- [2022-03-10-广州新增1例新冠确诊病例-疾控中心专家称防控形势严峻](https://m.caixin.com/m/2022-03-10/101853835.html) ![](assets/new.png)  
-- [2022-03-10-【境内疫情观察】全国新增402例本土病例、435例本土无症状感染者（3月9日）](https://database.caixin.com/m/2022-03-10/101853636.html) ![](assets/new.png)  
-- [2022-03-10-香港调整抗疫策略-辉瑞口服药确定在华合作伙伴｜大流行手记（3月9日）](https://m.caixin.com/m/2022-03-10/101853553.html) ![](assets/new.png)  
-- [2022-03-10-新加坡官员：本地奥密克戎疫情已过峰值开始消退](https://m.caixin.com/m/2022-03-10/101853827.html) ![](assets/new.png)  
-- [2022-03-09-一小学被列为中风险地区-上海加强线上教学资源](https://m.caixin.com/m/2022-03-09/101853329.html) ![](assets/new.png)  
-- [2022-03-09-香港调整抗疫策略-全民检测或将推迟](https://m.caixin.com/m/2022-03-09/101853319.html) ![](assets/new.png)  
-- [2022-03-09-字节跳动办公区现确诊病例-公司深夜组织员工回家](https://companies.caixin.com/m/2022-03-09/101852947.html) ![](assets/new.png)  
-- [2022-03-09-【境内疫情观察】全国新增322例本土无症状感染者（3月8日）](https://database.caixin.com/m/2022-03-09/101853141.html) ![](assets/new.png)  
-- [2022-03-09-研究称COVID-19或能导致脑异常-马来西亚4月将重新开放边境｜大流行手记（3月8日）](https://m.caixin.com/m/2022-03-09/101853036.html) ![](assets/new.png)  
-- [2022-03-08-北京新增7例本土确诊-一人曾赴上海团建](https://m.caixin.com/m/2022-03-08/101852668.html) ![](assets/new.png)  
-- [2022-03-08-香港日增病例呈回落趋势-港大预测5月降至两位数](https://m.caixin.com/m/2022-03-08/101852848.html) ![](assets/new.png)  
-- [2022-03-08-北京新增新冠病例涉字节跳动办公区-员工就地隔离过夜](https://m.caixin.com/m/2022-03-08/101852591.html) ![](assets/new.png)  
-- [2022-03-08-深港边境临时搭桥-内地援建香港河套应急医院](https://m.caixin.com/m/2022-03-08/101852776.html) ![](assets/new.png)  
-- [2022-03-08-【境内疫情观察】全国现有确诊病例超4000例（3月7日）](https://database.caixin.com/m/2022-03-08/101852579.html) ![](assets/new.png)  
-- [2022-03-08-研究发现新冠重症患者特殊基因-全球死亡病例超600万｜大流行手记（3月7日）](https://m.caixin.com/m/2022-03-08/101852426.html) ![](assets/new.png)  
-- [2022-03-07-广东惠州基层防疫扑杀宠物狗-街道致歉涉事者停职](https://m.caixin.com/m/2022-03-07/101851565.html) ![](assets/new.png)  
-- [2022-03-07-【境内疫情观察】全国新增214例本土病例（3月6日）](https://database.caixin.com/m/2022-03-07/101851858.html) ![](assets/new.png)  
-- [2022-03-07-苏格兰为弱势群体打第四针-印度尼西亚再放宽旅行限制｜大流行手记（3月6日）](https://m.caixin.com/m/2022-03-07/101851699.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -491,6 +471,14 @@
 </summary>
 
 
+- [2022-06-15-脱离考试后，我不会写长文了。](https://www.v2ex.com/t/859861) ![](assets/new.png)  
+- [2022-06-15-有没有老哥能介绍在日本的-it-工作](https://www.v2ex.com/t/859860) ![](assets/new.png)  
+- [2022-06-15-假如本次-MacBook-Pro-13-更新的是-intel-12-去掉-touch-bar](https://www.v2ex.com/t/859859) ![](assets/new.png)  
+- [2022-06-15-在德国快十年了，应该回国吗？](https://www.v2ex.com/t/859858) ![](assets/new.png)  
+- [2022-06-15-通胀是不是伪命题？](https://www.v2ex.com/t/859857) ![](assets/new.png)  
+- [2022-06-15-有没有-V-友出闲置的苹果数据线](https://www.v2ex.com/t/859856) ![](assets/new.png)  
+- [2022-06-15-已经购买的-Surge-4-macOS-5-人车队，-100/人](https://www.v2ex.com/t/859854) ![](assets/new.png)  
+- [2022-06-15-今天突然调配出了一个非常不错味道的果汁饮料](https://www.v2ex.com/t/859852) ![](assets/new.png)  
 - [2022-06-15-nginx-url-路径替换正则写法问题](https://www.v2ex.com/t/859851) ![](assets/new.png)  
 - [2022-06-15-安卓平台的应用兼容性测试怎么做？](https://www.v2ex.com/t/859850) ![](assets/new.png)  
 - [2022-06-15-求助：华为-cm510-音箱总是间隔-30s-滴两声](https://www.v2ex.com/t/859849) ![](assets/new.png)  
@@ -503,14 +491,6 @@
 - [2022-06-15-请教一个-web-接口设计](https://www.v2ex.com/t/859840) ![](assets/new.png)  
 - [2022-06-15-坐标深圳南山公寓转租，大新地铁站，出门就是地铁](https://www.v2ex.com/t/859839) ![](assets/new.png)  
 - [2022-06-15-哪里可以下载-2013-年的手绘巨作](https://www.v2ex.com/t/859838) ![](assets/new.png)  
-- [2022-06-15-ios-记账软件推荐](https://www.v2ex.com/t/859837) ![](assets/new.png)  
-- [2022-06-15-实现-ApplicationContextAware-接口，-ApplicationContext-为-null-问题](https://www.v2ex.com/t/859836) ![](assets/new.png)  
-- [2022-06-15-Surge4-for-Mac-4-求车位?-或者一起组队？](https://www.v2ex.com/t/859835) ![](assets/new.png)  
-- [2022-06-15-关于-KVM-主机网络问题请教](https://www.v2ex.com/t/859833) ![](assets/new.png)  
-- [2022-06-15-相亲对象生日，有啥子比较适合的礼物推荐吗？预算五百以内。](https://www.v2ex.com/t/859832) ![](assets/new.png)  
-- [2022-06-15-我搞了旅游组队群](https://www.v2ex.com/t/859830) ![](assets/new.png)  
-- [2022-06-15-显示器连接线-hdmi/dp/typec-选择经验](https://www.v2ex.com/t/859829) ![](assets/new.png)  
-- [2022-06-15-高考毕业求笔记本电脑推荐](https://www.v2ex.com/t/859828) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -563,8 +543,8 @@
 - [2022-06-15-Git进阶系列-|-1.-创建完美的提交](https://toutiao.io/k/1k9s8we) ![](assets/new.png)  
 - [2022-06-15-C++反射：反射信息的自动生成！](https://toutiao.io/k/lsz6tsi) ![](assets/new.png)  
 - [2022-06-15-Go-网络库-Gnet-解析](https://toutiao.io/k/mir07f8) ![](assets/new.png)  
-- [2022-06-15-基于-K8s-的交付难题退退退！|-独家交付秘籍（第三回）](https://toutiao.io/k/zzga1qz) ![](assets/new.png)  
 - [2022-06-15-书单-|-元宇宙时代，快来为未来的职业生涯布局！](https://toutiao.io/k/z0xuhhr) ![](assets/new.png)  
+- [2022-06-15-基于-K8s-的交付难题退退退！|-独家交付秘籍（第三回）](https://toutiao.io/k/zzga1qz) ![](assets/new.png)  
 - [2022-06-15-夜天之书-#52-NoSQL-Revolution](https://toutiao.io/k/tv6ve5y) ![](assets/new.png)  
 - [2022-06-15-WebAssembly会取代Docker吗？](https://toutiao.io/k/ojpzxm8) ![](assets/new.png)  
 - [2022-06-15-不写一行代码，也能做技术规划吗？](https://toutiao.io/k/9rh1gyl) ![](assets/new.png)  

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-06-16 08:49:35，:rocket: 更新条数: +2021， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-06-16 09:14:16，:rocket: 更新条数: +2022， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,12 @@
 </summary>
 
 
+- [2022-06-16-疫情期间-Apple-Care-过期的问题](https://www.v2ex.com/t/860084) ![](assets/new.png)  
+- [2022-06-16-三年-Java-求职，做过游戏，政企内部项目，公寓租赁项目，学历本科。](https://www.v2ex.com/t/860083) ![](assets/new.png)  
+- [2022-06-16-请问这五级奖励应该怎么计算呢？](https://www.v2ex.com/t/860082) ![](assets/new.png)  
+- [2022-06-16-算法请教一下为什么需要这行代码,数据准备.](https://www.v2ex.com/t/860081) ![](assets/new.png)  
+- [2022-06-16-今年-618-奶茶东优惠力度不给力啊](https://www.v2ex.com/t/860080) ![](assets/new.png)  
+- [2022-06-16-cdn.jsdelivr.net-已经部分地区可用了](https://www.v2ex.com/t/860079) ![](assets/new.png)  
 - [2022-06-16-兄弟们-有没有-上海电信套餐推荐，之前-800-多一年的套餐-到期了](https://www.v2ex.com/t/860077) ![](assets/new.png)  
 - [2022-06-16-对工作厌倦了，想考个教师编躺平](https://www.v2ex.com/t/860076) ![](assets/new.png)  
 - [2022-06-16-微信发票助手的发票抬头二维码的原理是什么？国家有没有规范，自己生成一个二维码，开票软件也能读取](https://www.v2ex.com/t/860074) ![](assets/new.png)  
@@ -505,12 +511,6 @@
 - [2022-06-16-全栈开源项目-Report-Monitor](https://www.v2ex.com/t/860060) ![](assets/new.png)  
 - [2022-06-16-断，舍，离](https://www.v2ex.com/t/860059) ![](assets/new.png)  
 - [2022-06-16-推荐分享一下我的个人学习周刊：-eryajf/Learning-Weekly](https://www.v2ex.com/t/860058) ![](assets/new.png)  
-- [2022-06-16-写了自动化生产视频,-发抖音没有流量](https://www.v2ex.com/t/860057) ![](assets/new.png)  
-- [2022-06-16-现在哪代-iPad-值得入手？二手的就行](https://www.v2ex.com/t/860056) ![](assets/new.png)  
-- [2022-06-16-macos-下的-remoted-是什么进程，监听-v6-地址](https://www.v2ex.com/t/860055) ![](assets/new.png)  
-- [2022-06-16-有什么好用的电视盒子，求推荐](https://www.v2ex.com/t/860054) ![](assets/new.png)  
-- [2022-06-16-求问硬盘数据恢复](https://www.v2ex.com/t/860053) ![](assets/new.png)  
-- [2022-06-16-Ubuntu-安装的时候可以集合两块硬盘吗](https://www.v2ex.com/t/860052) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -568,9 +568,9 @@
 - [2022-06-16-是什么让-Golang-如此受欢迎？语言创造者的回顾](https://toutiao.io/k/ctvmooy) ![](assets/new.png)  
 - [2022-06-16-One-Data：看阿里如何进行数据指标体系的治理](https://toutiao.io/k/o73mhis) ![](assets/new.png)  
 - [2022-06-16-如何让混沌工程实验降本增效](https://toutiao.io/k/fm0k3qp) ![](assets/new.png)  
-- [2022-06-16-推荐-MongoDB全方位知识图谱！](https://toutiao.io/k/efxw4nr) ![](assets/new.png)  
-- [2022-06-16-推荐-消息队列原理和选型：Kafka、RocketMQ-、RabbitMQ-和-ActiveMQ](https://toutiao.io/k/nuwnwro) ![](assets/new.png)  
 - [2022-06-16-推荐-总监的烦恼：技术丢了怎么办？](https://toutiao.io/k/rzytby1) ![](assets/new.png)  
+- [2022-06-16-推荐-消息队列原理和选型：Kafka、RocketMQ-、RabbitMQ-和-ActiveMQ](https://toutiao.io/k/nuwnwro) ![](assets/new.png)  
+- [2022-06-16-推荐-MongoDB全方位知识图谱！](https://toutiao.io/k/efxw4nr) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

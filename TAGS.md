@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-06-16 01:03:26。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-06-16 03:14:17。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -122,6 +122,7 @@
 
 
 
+- [【V2EX】微信支付出-bug-了？刚刚小程序点外卖，微信支付一直在-loading](https://www.v2ex.com/t/859971)
 - [......【查看更多】......](./details/tags/miniprogram.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -154,7 +155,7 @@
 
 
 
-- [【V2EX】怎么查看一款-steam-游戏是用什么工具/语言开发的？](https://www.v2ex.com/t/859871)
+- [【V2EX】搞过敏捷开发之计划游戏的来说说](https://www.v2ex.com/t/859968)
 - [【技术头条】4个Python编程游戏网站，玩嗨了~-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15120&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494149%26amp%3Bidx%3D1%26amp%3Bsn%3D7525aafe254b1a8017fee638cc5f3340%26amp%3Bchksm%3Dfa3f0b5ecd4882481060c4ccceff14d66ac9348089028ca145d07a17dbd153e46155fb2e0138%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [......【查看更多】......](./details/tags/dev-game.md)
 
@@ -237,9 +238,8 @@
 
 - [【武汉肺炎防疫全纪录(财新网)】广州17岁男生在定点医院参加高考-特殊考场视频监考](https://m.caixin.com/m/2021-06-05/101723418.html)
 - [【武汉肺炎防疫全纪录(财新网)】林郑月娥率13高官直播接种科兴疫苗-复星疫苗预计周中到港](https://m.caixin.com/m/2021-02-22/101665724.html)
-- [【V2EX】腾讯视频＋京东会员包年活动来了](https://www.v2ex.com/t/859910)
-- [【V2EX】网站运维工程师（影视类、视频网站）：年薪-18w-起步，单休，远程工作：](https://www.v2ex.com/t/859902)
-- [【V2EX】想在-github-上发布某视频监控产品的漏洞/设计缺陷](https://www.v2ex.com/t/859889)
+- [【V2EX】Apple-官网首页的-Airpods-空间音频宣传视频，没有放光敏性癫痫警告](https://www.v2ex.com/t/859940)
+- [【V2EX】IPTV-直播地址以-FLV-格式时效问题？](https://www.v2ex.com/t/859928)
 - [......【查看更多】......](./details/tags/audio-video.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -256,8 +256,7 @@
 
 
 
-- [【V2EX】es-插入索引的正常性能应该是多少？](https://www.v2ex.com/t/859879)
-- [【V2EX】上海-不加班-外企-招-Java-，-高级-C++，中高级安卓，高级性能测试，中级支持工程师，帮忙内推成功送-5000](https://www.v2ex.com/t/859877)
+- [【V2EX】垃圾-SEO-迎来技术升级？](https://www.v2ex.com/t/859937)
 - [【技术头条】性能测试之K6篇-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15127&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fperformance-testing-k6%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【技术头条】性能指标的信仰危机-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15122&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fperformance-indicator%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [......【查看更多】......](./details/tags/optimization.md)
@@ -283,8 +282,6 @@
 - [【武汉肺炎防疫全纪录(财新网)】解药|新冠mRNA疫苗安全性有哪些挑战？](https://m.caixin.com/m/2021-01-08/101648043.html)
 - [【武汉肺炎防疫全纪录(财新网)】大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html)
 - [【张鑫旭-鑫空间-鑫生活】基于文字的URL锚点定位与::target-text样式设置](https://www.zhangxinxu.com/wordpress/2022/06/url-anchor-target-text/)
-- [【V2EX】购买他人机场扶墙安全性是否更差？比起其他手段](https://www.v2ex.com/t/859906)
-- [【V2EX】chrome-network-面板中的这个特殊的小符号表示什么意思链接图片](https://www.v2ex.com/t/859882)
 - [......【查看更多】......](./details/tags/browser.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -301,7 +298,6 @@
 
 
 
-- [【V2EX】PVE-的管理页面是自签证书-https-的，如何借助-frp-外网访问？](https://www.v2ex.com/t/859872)
 - [【开发者头条】HTTP3-RFC标准正式发布，QUIC会成为传输技术的新一代颠覆者吗？](https://toutiao.io/k/j1ffiw6)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 
@@ -335,7 +331,7 @@
 
 
 
-- [【V2EX】出个-GitHub-账号会有人要么](https://www.v2ex.com/t/859888)
+- [【开发者头条】Git存储原理及部分实现](https://toutiao.io/k/ztcw9lm)
 - [......【查看更多】......](./details/tags/git-svn.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -352,6 +348,7 @@
 
 
 
+- [【V2EX】济南-招聘-Java-开发-12k-20k-自营项目，无外包、无加班、无出差。](https://www.v2ex.com/t/859942)
 - [【技术头条】面试官：Java反射是什么？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15115&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494145%26amp%3Bidx%3D2%26amp%3Bsn%3D32bbd28f61522900d0fca0135d4c3a69%26amp%3Bchksm%3Dfa3f0b5acd48824c8b0b637aa499dfbb749e97a8cc28ec30887bb77d99628c931a87ede7cc7e%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [......【查看更多】......](./details/tags/job-interview.md)
 

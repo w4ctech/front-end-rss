@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-06-16 11:37:03。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-06-16 12:26:18。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,13 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-06-16-centos-定时任务执行脚本，输出到文件的内容会自动省略](https://www.v2ex.com/t/860125) 
+- [2022-06-16-米家这是又崩了么？](https://www.v2ex.com/t/860124) 
+- [2022-06-16-分享淘宝维修手机一则](https://www.v2ex.com/t/860123) 
+- [2022-06-16-有没有出闲置-iPad-Mini-的，-5、6-都行](https://www.v2ex.com/t/860122) 
+- [2022-06-16-白鹭挂了，想把他的文档本地化，有什么好方法么？](https://www.v2ex.com/t/860121) 
+- [2022-06-16-米家设备无法联网](https://www.v2ex.com/t/860120) 
+- [2022-06-16-笔记软件咨询](https://www.v2ex.com/t/860119) 
 - [2022-06-16-想问问关于-VS-Code-的问题](https://www.v2ex.com/t/860118) 
 - [2022-06-16-米家挂了？](https://www.v2ex.com/t/860117) 
 - [2022-06-16-如何与-VPS-服务商的-Fair-Share-友好相处？](https://www.v2ex.com/t/860116) 
@@ -1934,9 +1941,6 @@
 - [2022-06-16-今年-618-奶茶东优惠力度不给力啊](https://www.v2ex.com/t/860080) 
 - [2022-06-16-兄弟们-有没有-上海电信套餐推荐，之前-800-多一年的套餐-到期了](https://www.v2ex.com/t/860077) 
 - [2022-06-16-对工作厌倦了，想考个教师编躺平](https://www.v2ex.com/t/860076) 
-- [2022-06-16-微信发票助手的发票抬头二维码的原理是什么？国家有没有规范，自己生成一个二维码，开票软件也能读取](https://www.v2ex.com/t/860074) 
-- [2022-06-16-北京社招饿了么-阿里本地生活-零售推荐工程团队招-Java-开发](https://www.v2ex.com/t/860071) 
-- [2022-06-16-Hello-World!-我开源了！](https://www.v2ex.com/t/860069) 
 - [2022-06-16-如何让混沌工程实验降本增效-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15130&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fchaos-engineering-efficiency%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-06-16-关于分享的意义-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15129&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fwriting-and-share%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-06-16-恶意技术时代的负责任技术-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15128&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fresponsible-tech%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1964,6 +1968,6 @@
 - [2022-06-16-是什么让-Golang-如此受欢迎？语言创造者的回顾](https://toutiao.io/k/ctvmooy) 
 - [2022-06-16-One-Data：看阿里如何进行数据指标体系的治理](https://toutiao.io/k/o73mhis) 
 - [2022-06-16-如何让混沌工程实验降本增效](https://toutiao.io/k/fm0k3qp) 
-- [2022-06-16-推荐-消息队列原理和选型：Kafka、RocketMQ-、RabbitMQ-和-ActiveMQ](https://toutiao.io/k/nuwnwro) 
-- [2022-06-16-推荐-MongoDB全方位知识图谱！](https://toutiao.io/k/efxw4nr) 
 - [2022-06-16-推荐-总监的烦恼：技术丢了怎么办？](https://toutiao.io/k/rzytby1) 
+- [2022-06-16-推荐-MongoDB全方位知识图谱！](https://toutiao.io/k/efxw4nr) 
+- [2022-06-16-推荐-消息队列原理和选型：Kafka、RocketMQ-、RabbitMQ-和-ActiveMQ](https://toutiao.io/k/nuwnwro) 

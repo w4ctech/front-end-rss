@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-06-16 11:37:03，:rocket: 更新条数: +2021， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-06-16 12:26:18，:rocket: 更新条数: +2025， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,13 @@
 </summary>
 
 
+- [2022-06-16-centos-定时任务执行脚本，输出到文件的内容会自动省略](https://www.v2ex.com/t/860125) ![](assets/new.png)  
+- [2022-06-16-米家这是又崩了么？](https://www.v2ex.com/t/860124) ![](assets/new.png)  
+- [2022-06-16-分享淘宝维修手机一则](https://www.v2ex.com/t/860123) ![](assets/new.png)  
+- [2022-06-16-有没有出闲置-iPad-Mini-的，-5、6-都行](https://www.v2ex.com/t/860122) ![](assets/new.png)  
+- [2022-06-16-白鹭挂了，想把他的文档本地化，有什么好方法么？](https://www.v2ex.com/t/860121) ![](assets/new.png)  
+- [2022-06-16-米家设备无法联网](https://www.v2ex.com/t/860120) ![](assets/new.png)  
+- [2022-06-16-笔记软件咨询](https://www.v2ex.com/t/860119) ![](assets/new.png)  
 - [2022-06-16-想问问关于-VS-Code-的问题](https://www.v2ex.com/t/860118) ![](assets/new.png)  
 - [2022-06-16-米家挂了？](https://www.v2ex.com/t/860117) ![](assets/new.png)  
 - [2022-06-16-如何与-VPS-服务商的-Fair-Share-友好相处？](https://www.v2ex.com/t/860116) ![](assets/new.png)  
@@ -504,13 +511,6 @@
 - [2022-06-16-如何方便优雅的管理-1w+个-HTTPS-证书](https://www.v2ex.com/t/860104) ![](assets/new.png)  
 - [2022-06-16-MIUI-大版本不升，是不是就没办法享受安卓每月安全补丁更新，风险大吗？有其他解决方式吗？](https://www.v2ex.com/t/860103) ![](assets/new.png)  
 - [2022-06-16-Qualcomm-高通内推-任务变多，比起加班，多招人才是正解](https://www.v2ex.com/t/860102) ![](assets/new.png)  
-- [2022-06-16-有一台-4C16G-的国外机子闲置，可以拿来做什么有意义的事情？](https://www.v2ex.com/t/860101) ![](assets/new.png)  
-- [2022-06-16-现在上海有开放的游泳馆吗？](https://www.v2ex.com/t/860100) ![](assets/new.png)  
-- [2022-06-16-搜索算法，需要换方向吗](https://www.v2ex.com/t/860099) ![](assets/new.png)  
-- [2022-06-16-求推荐好用的谷歌镜像站~](https://www.v2ex.com/t/860098) ![](assets/new.png)  
-- [2022-06-16-请了解实时音视频传输或者-webrtc-实现的给点意见](https://www.v2ex.com/t/860097) ![](assets/new.png)  
-- [2022-06-16-昨天，老大跟我说，他准备辞职了](https://www.v2ex.com/t/860096) ![](assets/new.png)  
-- [2022-06-16-家人们，推荐一款燃油宝吧](https://www.v2ex.com/t/860095) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -568,9 +568,9 @@
 - [2022-06-16-是什么让-Golang-如此受欢迎？语言创造者的回顾](https://toutiao.io/k/ctvmooy) ![](assets/new.png)  
 - [2022-06-16-One-Data：看阿里如何进行数据指标体系的治理](https://toutiao.io/k/o73mhis) ![](assets/new.png)  
 - [2022-06-16-如何让混沌工程实验降本增效](https://toutiao.io/k/fm0k3qp) ![](assets/new.png)  
-- [2022-06-16-推荐-消息队列原理和选型：Kafka、RocketMQ-、RabbitMQ-和-ActiveMQ](https://toutiao.io/k/nuwnwro) ![](assets/new.png)  
-- [2022-06-16-推荐-MongoDB全方位知识图谱！](https://toutiao.io/k/efxw4nr) ![](assets/new.png)  
 - [2022-06-16-推荐-总监的烦恼：技术丢了怎么办？](https://toutiao.io/k/rzytby1) ![](assets/new.png)  
+- [2022-06-16-推荐-MongoDB全方位知识图谱！](https://toutiao.io/k/efxw4nr) ![](assets/new.png)  
+- [2022-06-16-推荐-消息队列原理和选型：Kafka、RocketMQ-、RabbitMQ-和-ActiveMQ](https://toutiao.io/k/nuwnwro) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-06-16 03:14:17。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-06-16 04:08:24。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -238,8 +238,8 @@
 
 - [【武汉肺炎防疫全纪录(财新网)】广州17岁男生在定点医院参加高考-特殊考场视频监考](https://m.caixin.com/m/2021-06-05/101723418.html)
 - [【武汉肺炎防疫全纪录(财新网)】林郑月娥率13高官直播接种科兴疫苗-复星疫苗预计周中到港](https://m.caixin.com/m/2021-02-22/101665724.html)
+- [【V2EX】lalserver-流媒体（直播音视频网络传输）服务器-v0.30.1-2022.6.15](https://www.v2ex.com/t/859987)
 - [【V2EX】Apple-官网首页的-Airpods-空间音频宣传视频，没有放光敏性癫痫警告](https://www.v2ex.com/t/859940)
-- [【V2EX】IPTV-直播地址以-FLV-格式时效问题？](https://www.v2ex.com/t/859928)
 - [......【查看更多】......](./details/tags/audio-video.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -256,7 +256,6 @@
 
 
 
-- [【V2EX】垃圾-SEO-迎来技术升级？](https://www.v2ex.com/t/859937)
 - [【技术头条】性能测试之K6篇-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15127&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fperformance-testing-k6%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【技术头条】性能指标的信仰危机-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15122&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fperformance-indicator%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [......【查看更多】......](./details/tags/optimization.md)

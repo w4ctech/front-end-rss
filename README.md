@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-06-16 23:14:29，:rocket: 更新条数: +2024， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-06-16 23:40:07，:rocket: 更新条数: +2024， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -568,9 +568,9 @@
 - [2022-06-16-如何让混沌工程实验降本增效](https://toutiao.io/k/fm0k3qp) ![](assets/new.png)  
 - [2022-06-16-是什么让-Golang-如此受欢迎？语言创造者的回顾](https://toutiao.io/k/ctvmooy) ![](assets/new.png)  
 - [2022-06-16-One-Data：看阿里如何进行数据指标体系的治理](https://toutiao.io/k/o73mhis) ![](assets/new.png)  
-- [2022-06-16-推荐-MongoDB全方位知识图谱！](https://toutiao.io/k/efxw4nr) ![](assets/new.png)  
-- [2022-06-16-推荐-消息队列原理和选型：Kafka、RocketMQ-、RabbitMQ-和-ActiveMQ](https://toutiao.io/k/nuwnwro) ![](assets/new.png)  
 - [2022-06-16-推荐-总监的烦恼：技术丢了怎么办？](https://toutiao.io/k/rzytby1) ![](assets/new.png)  
+- [2022-06-16-推荐-消息队列原理和选型：Kafka、RocketMQ-、RabbitMQ-和-ActiveMQ](https://toutiao.io/k/nuwnwro) ![](assets/new.png)  
+- [2022-06-16-推荐-MongoDB全方位知识图谱！](https://toutiao.io/k/efxw4nr) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

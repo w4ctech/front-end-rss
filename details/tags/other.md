@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-06-16 10:14:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-06-16 10:44:33。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,9 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-06-16-请教，-30+转互联网可行性及选择…](https://www.v2ex.com/t/860108) 
+- [2022-06-16-Qualcomm-高通内推-任务变多，比起加班，多招人才是正解](https://www.v2ex.com/t/860102) 
+- [2022-06-16-有一台-4C16G-的国外机子闲置，可以拿来做什么有意义的事情？](https://www.v2ex.com/t/860101) 
 - [2022-06-16-现在上海有开放的游泳馆吗？](https://www.v2ex.com/t/860100) 
 - [2022-06-16-求推荐好用的谷歌镜像站~](https://www.v2ex.com/t/860098) 
 - [2022-06-16-昨天，老大跟我说，他准备辞职了](https://www.v2ex.com/t/860096) 
@@ -1933,12 +1936,6 @@
 - [2022-06-16-专科生有机会进外企、大厂吗？](https://www.v2ex.com/t/860063) 
 - [2022-06-16-新版-win11-第一次开机要强行登录微软账户，怎么绕过；网上现有的老方法似乎失效了](https://www.v2ex.com/t/860061) 
 - [2022-06-16-断，舍，离](https://www.v2ex.com/t/860059) 
-- [2022-06-16-推荐分享一下我的个人学习周刊：-eryajf/Learning-Weekly](https://www.v2ex.com/t/860058) 
-- [2022-06-16-现在哪代-iPad-值得入手？二手的就行](https://www.v2ex.com/t/860056) 
-- [2022-06-16-macos-下的-remoted-是什么进程，监听-v6-地址](https://www.v2ex.com/t/860055) 
-- [2022-06-16-有什么好用的电视盒子，求推荐](https://www.v2ex.com/t/860054) 
-- [2022-06-16-求问硬盘数据恢复](https://www.v2ex.com/t/860053) 
-- [2022-06-16-Ubuntu-安装的时候可以集合两块硬盘吗](https://www.v2ex.com/t/860052) 
 - [2022-06-16-如何让混沌工程实验降本增效-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15130&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fchaos-engineering-efficiency%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-06-16-关于分享的意义-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15129&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fwriting-and-share%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-06-16-恶意技术时代的负责任技术-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15128&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fresponsible-tech%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

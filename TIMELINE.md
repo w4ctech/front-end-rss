@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-06-16 10:14:29。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-06-16 10:44:33。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -70,6 +70,12 @@
 
 - [【张鑫旭-鑫空间-鑫生活】2022-06-12-基于文字的URL锚点定位与::target-text样式设置](https://www.zhangxinxu.com/wordpress/2022/06/url-anchor-target-text/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-06-11-介绍一种CSS变量未定义语法也OK的小妙招](https://www.zhangxinxu.com/wordpress/2022/06/css-var-optional-empty-trick/) 
+- [【V2EX】2022-06-16-请教，-30+转互联网可行性及选择…](https://www.v2ex.com/t/860108) 
+- [【V2EX】2022-06-16-社招/济南-Java-/Vue-部门直招，欢迎技术大牛来撩！](https://www.v2ex.com/t/860107) 
+- [【V2EX】2022-06-16-如何方便优雅的管理-1w+个-HTTPS-证书](https://www.v2ex.com/t/860104) 
+- [【V2EX】2022-06-16-MIUI-大版本不升，是不是就没办法享受安卓每月安全补丁更新，风险大吗？有其他解决方式吗？](https://www.v2ex.com/t/860103) 
+- [【V2EX】2022-06-16-Qualcomm-高通内推-任务变多，比起加班，多招人才是正解](https://www.v2ex.com/t/860102) 
+- [【V2EX】2022-06-16-有一台-4C16G-的国外机子闲置，可以拿来做什么有意义的事情？](https://www.v2ex.com/t/860101) 
 - [【V2EX】2022-06-16-现在上海有开放的游泳馆吗？](https://www.v2ex.com/t/860100) 
 - [【V2EX】2022-06-16-搜索算法，需要换方向吗](https://www.v2ex.com/t/860099) 
 - [【V2EX】2022-06-16-求推荐好用的谷歌镜像站~](https://www.v2ex.com/t/860098) 
@@ -101,13 +107,6 @@
 - [【V2EX】2022-06-16-新版-win11-第一次开机要强行登录微软账户，怎么绕过；网上现有的老方法似乎失效了](https://www.v2ex.com/t/860061) 
 - [【V2EX】2022-06-16-全栈开源项目-Report-Monitor](https://www.v2ex.com/t/860060) 
 - [【V2EX】2022-06-16-断，舍，离](https://www.v2ex.com/t/860059) 
-- [【V2EX】2022-06-16-推荐分享一下我的个人学习周刊：-eryajf/Learning-Weekly](https://www.v2ex.com/t/860058) 
-- [【V2EX】2022-06-16-写了自动化生产视频,-发抖音没有流量](https://www.v2ex.com/t/860057) 
-- [【V2EX】2022-06-16-现在哪代-iPad-值得入手？二手的就行](https://www.v2ex.com/t/860056) 
-- [【V2EX】2022-06-16-macos-下的-remoted-是什么进程，监听-v6-地址](https://www.v2ex.com/t/860055) 
-- [【V2EX】2022-06-16-有什么好用的电视盒子，求推荐](https://www.v2ex.com/t/860054) 
-- [【V2EX】2022-06-16-求问硬盘数据恢复](https://www.v2ex.com/t/860053) 
-- [【V2EX】2022-06-16-Ubuntu-安装的时候可以集合两块硬盘吗](https://www.v2ex.com/t/860052) 
 - [【技术头条】2022-06-16-如何让混沌工程实验降本增效-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15130&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fchaos-engineering-efficiency%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-06-16-关于分享的意义-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15129&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fwriting-and-share%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-06-16-恶意技术时代的负责任技术-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15128&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fresponsible-tech%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-06-16 08:19:46。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-06-16 08:49:35。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -70,6 +70,11 @@
 
 - [【张鑫旭-鑫空间-鑫生活】2022-06-12-基于文字的URL锚点定位与::target-text样式设置](https://www.zhangxinxu.com/wordpress/2022/06/url-anchor-target-text/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-06-11-介绍一种CSS变量未定义语法也OK的小妙招](https://www.zhangxinxu.com/wordpress/2022/06/css-var-optional-empty-trick/) 
+- [【V2EX】2022-06-16-兄弟们-有没有-上海电信套餐推荐，之前-800-多一年的套餐-到期了](https://www.v2ex.com/t/860077) 
+- [【V2EX】2022-06-16-对工作厌倦了，想考个教师编躺平](https://www.v2ex.com/t/860076) 
+- [【V2EX】2022-06-16-微信发票助手的发票抬头二维码的原理是什么？国家有没有规范，自己生成一个二维码，开票软件也能读取](https://www.v2ex.com/t/860074) 
+- [【V2EX】2022-06-16-北京社招饿了么-阿里本地生活-零售推荐工程团队招-Java-开发](https://www.v2ex.com/t/860071) 
+- [【V2EX】2022-06-16-Hello-World!-我开源了！](https://www.v2ex.com/t/860069) 
 - [【V2EX】2022-06-16-苹果员工优惠哪里找](https://www.v2ex.com/t/860068) 
 - [【V2EX】2022-06-16-新车队-印度-YouTube-Premium-美区家庭组-13-个月](https://www.v2ex.com/t/860066) 
 - [【V2EX】2022-06-16-过了-6-年回到这个网站-发现大家还是那群最可爱的人](https://www.v2ex.com/t/860064) 
@@ -102,13 +107,6 @@
 - [【V2EX】2022-06-16-解决-Win11-的-OpenSSH-无法用密钥登录的问题](https://www.v2ex.com/t/860032) 
 - [【V2EX】2022-06-16-2K-以内求推荐一款桌面音箱](https://www.v2ex.com/t/860031) 
 - [【V2EX】2022-06-16-v-站读书的人多，请推荐名人传记！](https://www.v2ex.com/t/860028) 
-- [【V2EX】2022-06-16-深圳什么地方可以修-Switch-Lite-的摇杆？](https://www.v2ex.com/t/860027) 
-- [【V2EX】2022-06-16-2022-年如何修复双系统引导](https://www.v2ex.com/t/860026) 
-- [【V2EX】2022-06-16-MacBook-Pro-屏幕出现黑线闪动](https://www.v2ex.com/t/860025) 
-- [【V2EX】2022-06-16-618-求推荐-1500-元左右的显示器](https://www.v2ex.com/t/860024) 
-- [【V2EX】2022-06-16-Java-什么时候用-assert，什么时候用-if](https://www.v2ex.com/t/860022) 
-- [【V2EX】2022-06-16-各位大佬们，想学习一下-dns-的相关知识，有什么书推荐吗？](https://www.v2ex.com/t/860021) 
-- [【V2EX】2022-06-16-类-Google-Analytics-的私有网站访问统计，如何防止攻击者恶意请求污染数据库？](https://www.v2ex.com/t/860020) 
 - [【技术头条】2022-06-16-如何让混沌工程实验降本增效-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15130&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fchaos-engineering-efficiency%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-06-16-关于分享的意义-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15129&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fwriting-and-share%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-06-16-恶意技术时代的负责任技术-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15128&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fresponsible-tech%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -129,9 +127,9 @@
 - [【技术头条】2022-06-16-Airbnb是如何从JavaScript迁移到TypeScript的？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15113&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494135%26amp%3Bidx%3D2%26amp%3Bsn%3Dd5957f395d6f57e3faf6c6d8adea469f%26amp%3Bchksm%3Dfa3f08accd4881ba189025550b3f4af15ac7eda26d8274b4bedec5b13ebd27c39c1e8edd540a%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-06-16-什么是子网掩码?-www.awaimai.com](https://blogread.cn/news/go.php?idItem=15112&url=https%3A%2F%2Fwww.awaimai.com%2F2933.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-06-16-4-个用来擦除数据的-Linux-工具-linux.cn](https://blogread.cn/news/go.php?idItem=15111&url=https%3A%2F%2Flinux.cn%2Farticle-13913-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [【开发者头条】2022-06-16-Junit执行器Runner探索之旅](https://toutiao.io/k/mm2xsuu) 
 - [【开发者头条】2022-06-16-Apache-Kvrocks-在百度的应用实践](https://toutiao.io/k/vrgbf49) 
 - [【开发者头条】2022-06-16-Poetry诗歌--新一代python打包、发行、依赖管理工具-|-君莫笑的博客](https://toutiao.io/k/rm2195o) 
-- [【开发者头条】2022-06-16-Junit执行器Runner探索之旅](https://toutiao.io/k/mm2xsuu) 
 - [【开发者头条】2022-06-16-钱大妈基于-Flink-的实时风控实践](https://toutiao.io/k/bgehscf) 
 - [【开发者头条】2022-06-16-HTTP3-RFC标准正式发布，QUIC会成为传输技术的新一代颠覆者吗？](https://toutiao.io/k/j1ffiw6) 
 - [【开发者头条】2022-06-16-技术氛围奇差，要离职吗？](https://toutiao.io/k/k6q89ub) 

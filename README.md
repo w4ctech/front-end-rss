@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-06-16 08:19:46，:rocket: 更新条数: +2023， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-06-16 08:49:35，:rocket: 更新条数: +2021， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,11 @@
 </summary>
 
 
+- [2022-06-16-兄弟们-有没有-上海电信套餐推荐，之前-800-多一年的套餐-到期了](https://www.v2ex.com/t/860077) ![](assets/new.png)  
+- [2022-06-16-对工作厌倦了，想考个教师编躺平](https://www.v2ex.com/t/860076) ![](assets/new.png)  
+- [2022-06-16-微信发票助手的发票抬头二维码的原理是什么？国家有没有规范，自己生成一个二维码，开票软件也能读取](https://www.v2ex.com/t/860074) ![](assets/new.png)  
+- [2022-06-16-北京社招饿了么-阿里本地生活-零售推荐工程团队招-Java-开发](https://www.v2ex.com/t/860071) ![](assets/new.png)  
+- [2022-06-16-Hello-World!-我开源了！](https://www.v2ex.com/t/860069) ![](assets/new.png)  
 - [2022-06-16-苹果员工优惠哪里找](https://www.v2ex.com/t/860068) ![](assets/new.png)  
 - [2022-06-16-新车队-印度-YouTube-Premium-美区家庭组-13-个月](https://www.v2ex.com/t/860066) ![](assets/new.png)  
 - [2022-06-16-过了-6-年回到这个网站-发现大家还是那群最可爱的人](https://www.v2ex.com/t/860064) ![](assets/new.png)  
@@ -506,11 +511,6 @@
 - [2022-06-16-有什么好用的电视盒子，求推荐](https://www.v2ex.com/t/860054) ![](assets/new.png)  
 - [2022-06-16-求问硬盘数据恢复](https://www.v2ex.com/t/860053) ![](assets/new.png)  
 - [2022-06-16-Ubuntu-安装的时候可以集合两块硬盘吗](https://www.v2ex.com/t/860052) ![](assets/new.png)  
-- [2022-06-16-有用五笔输入法的同学吗？学会了五笔输入法思维上能否和拼音输入法自由切换。](https://www.v2ex.com/t/860048) ![](assets/new.png)  
-- [2022-06-16-力扣中国站-leetcode-cn.com-怎么打不开了](https://www.v2ex.com/t/860047) ![](assets/new.png)  
-- [2022-06-16-现在工作环境这么差，要怎么选？](https://www.v2ex.com/t/860046) ![](assets/new.png)  
-- [2022-06-16-Apple-是供应链出问题了吗？](https://www.v2ex.com/t/860045) ![](assets/new.png)  
-- [2022-06-16-有在研究设备指纹技术的嘛，这东西做好还挺麻烦的，最近项目中要用](https://www.v2ex.com/t/860044) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -553,9 +553,9 @@
 </summary>
 
 
+- [2022-06-16-Junit执行器Runner探索之旅](https://toutiao.io/k/mm2xsuu) ![](assets/new.png)  
 - [2022-06-16-Apache-Kvrocks-在百度的应用实践](https://toutiao.io/k/vrgbf49) ![](assets/new.png)  
 - [2022-06-16-Poetry诗歌--新一代python打包、发行、依赖管理工具-|-君莫笑的博客](https://toutiao.io/k/rm2195o) ![](assets/new.png)  
-- [2022-06-16-Junit执行器Runner探索之旅](https://toutiao.io/k/mm2xsuu) ![](assets/new.png)  
 - [2022-06-16-钱大妈基于-Flink-的实时风控实践](https://toutiao.io/k/bgehscf) ![](assets/new.png)  
 - [2022-06-16-HTTP3-RFC标准正式发布，QUIC会成为传输技术的新一代颠覆者吗？](https://toutiao.io/k/j1ffiw6) ![](assets/new.png)  
 - [2022-06-16-技术氛围奇差，要离职吗？](https://toutiao.io/k/k6q89ub) ![](assets/new.png)  

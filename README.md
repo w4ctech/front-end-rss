@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-06-16 07:38:52，:rocket: 更新条数: +2022， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-06-16 08:19:46，:rocket: 更新条数: +2023， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,26 +491,26 @@
 </summary>
 
 
+- [2022-06-16-苹果员工优惠哪里找](https://www.v2ex.com/t/860068) ![](assets/new.png)  
+- [2022-06-16-新车队-印度-YouTube-Premium-美区家庭组-13-个月](https://www.v2ex.com/t/860066) ![](assets/new.png)  
+- [2022-06-16-过了-6-年回到这个网站-发现大家还是那群最可爱的人](https://www.v2ex.com/t/860064) ![](assets/new.png)  
+- [2022-06-16-专科生有机会进外企、大厂吗？](https://www.v2ex.com/t/860063) ![](assets/new.png)  
+- [2022-06-16-遇到了一个关于-Vue-响应式的问题](https://www.v2ex.com/t/860062) ![](assets/new.png)  
+- [2022-06-16-新版-win11-第一次开机要强行登录微软账户，怎么绕过；网上现有的老方法似乎失效了](https://www.v2ex.com/t/860061) ![](assets/new.png)  
+- [2022-06-16-全栈开源项目-Report-Monitor](https://www.v2ex.com/t/860060) ![](assets/new.png)  
+- [2022-06-16-断，舍，离](https://www.v2ex.com/t/860059) ![](assets/new.png)  
+- [2022-06-16-推荐分享一下我的个人学习周刊：-eryajf/Learning-Weekly](https://www.v2ex.com/t/860058) ![](assets/new.png)  
+- [2022-06-16-写了自动化生产视频,-发抖音没有流量](https://www.v2ex.com/t/860057) ![](assets/new.png)  
+- [2022-06-16-现在哪代-iPad-值得入手？二手的就行](https://www.v2ex.com/t/860056) ![](assets/new.png)  
+- [2022-06-16-macos-下的-remoted-是什么进程，监听-v6-地址](https://www.v2ex.com/t/860055) ![](assets/new.png)  
+- [2022-06-16-有什么好用的电视盒子，求推荐](https://www.v2ex.com/t/860054) ![](assets/new.png)  
+- [2022-06-16-求问硬盘数据恢复](https://www.v2ex.com/t/860053) ![](assets/new.png)  
 - [2022-06-16-Ubuntu-安装的时候可以集合两块硬盘吗](https://www.v2ex.com/t/860052) ![](assets/new.png)  
-- [2022-06-16-畅想目前可能实现的共产主义模式（欢迎探讨）](https://www.v2ex.com/t/860051) ![](assets/new.png)  
 - [2022-06-16-有用五笔输入法的同学吗？学会了五笔输入法思维上能否和拼音输入法自由切换。](https://www.v2ex.com/t/860048) ![](assets/new.png)  
 - [2022-06-16-力扣中国站-leetcode-cn.com-怎么打不开了](https://www.v2ex.com/t/860047) ![](assets/new.png)  
 - [2022-06-16-现在工作环境这么差，要怎么选？](https://www.v2ex.com/t/860046) ![](assets/new.png)  
 - [2022-06-16-Apple-是供应链出问题了吗？](https://www.v2ex.com/t/860045) ![](assets/new.png)  
 - [2022-06-16-有在研究设备指纹技术的嘛，这东西做好还挺麻烦的，最近项目中要用](https://www.v2ex.com/t/860044) ![](assets/new.png)  
-- [2022-06-16-大家千兆宽带多少钱？](https://www.v2ex.com/t/860042) ![](assets/new.png)  
-- [2022-06-16-前端大厂专家岗主要做那些工作呢，工程化会比较多吗？](https://www.v2ex.com/t/860041) ![](assets/new.png)  
-- [2022-06-16-想问一下，苹果的「时间机器」如何将它的备份时间修改为一天一次？](https://www.v2ex.com/t/860040) ![](assets/new.png)  
-- [2022-06-16-如何跨网段访问群晖的-SMB](https://www.v2ex.com/t/860038) ![](assets/new.png)  
-- [2022-06-16-江苏移动推出的这是类似电信精品网业务吗，还有上行提速包](https://www.v2ex.com/t/860037) ![](assets/new.png)  
-- [2022-06-16-移动端如何屏蔽网页上的强制跳转](https://www.v2ex.com/t/860036) ![](assets/new.png)  
-- [2022-06-16-中国从事游戏行业的来聊一聊？](https://www.v2ex.com/t/860035) ![](assets/new.png)  
-- [2022-06-16-求推荐-4000-5000-女用轻薄本](https://www.v2ex.com/t/860034) ![](assets/new.png)  
-- [2022-06-16-指挥调度中心那种大屏幕有什么开源方案（Vue）推荐的吗？](https://www.v2ex.com/t/860033) ![](assets/new.png)  
-- [2022-06-16-解决-Win11-的-OpenSSH-无法用密钥登录的问题](https://www.v2ex.com/t/860032) ![](assets/new.png)  
-- [2022-06-16-2K-以内求推荐一款桌面音箱](https://www.v2ex.com/t/860031) ![](assets/new.png)  
-- [2022-06-16-v-站读书的人多，请推荐名人传记！](https://www.v2ex.com/t/860028) ![](assets/new.png)  
-- [2022-06-16-深圳什么地方可以修-Switch-Lite-的摇杆？](https://www.v2ex.com/t/860027) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -569,8 +569,8 @@
 - [2022-06-16-One-Data：看阿里如何进行数据指标体系的治理](https://toutiao.io/k/o73mhis) ![](assets/new.png)  
 - [2022-06-16-如何让混沌工程实验降本增效](https://toutiao.io/k/fm0k3qp) ![](assets/new.png)  
 - [2022-06-16-推荐-MongoDB全方位知识图谱！](https://toutiao.io/k/efxw4nr) ![](assets/new.png)  
-- [2022-06-16-推荐-总监的烦恼：技术丢了怎么办？](https://toutiao.io/k/rzytby1) ![](assets/new.png)  
 - [2022-06-16-推荐-消息队列原理和选型：Kafka、RocketMQ-、RabbitMQ-和-ActiveMQ](https://toutiao.io/k/nuwnwro) ![](assets/new.png)  
+- [2022-06-16-推荐-总监的烦恼：技术丢了怎么办？](https://toutiao.io/k/rzytby1) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

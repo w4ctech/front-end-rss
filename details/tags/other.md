@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-06-17 10:14:49。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-06-17 10:42:01。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,9 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-06-17-Android-上-smzdm-应用强制走流量](https://www.v2ex.com/t/860359) 
+- [2022-06-17-Ventura-支持了通过-HDMI-2.1-输出-4K120hz，但声音输出产生了问题](https://www.v2ex.com/t/860358) 
+- [2022-06-17-有支持-paypal-的机场推荐不？](https://www.v2ex.com/t/860357) 
 - [2022-06-17-优酷会员-30-一个年](https://www.v2ex.com/t/860353) 
 - [2022-06-17-腾讯云的-618-又加码了](https://www.v2ex.com/t/860352) 
 - [2022-06-17-求助，有对网游历史数据备份比较熟悉的吗（梦幻西游）](https://www.v2ex.com/t/860351) 
@@ -1937,9 +1940,6 @@
 - [2022-06-17-No-match-found-for-location-with-path-"/"](https://www.v2ex.com/t/860315) 
 - [2022-06-17-BI-与-SaaS-碰撞，让数据处理更加轻松（下）](https://www.v2ex.com/t/860313) 
 - [2022-06-17-现在国内有哪些新闻网站能过滤掉所有自媒体/营销号内容？](https://www.v2ex.com/t/860311) 
-- [2022-06-17-M2-MacBook-Air-和-14-寸-Pro，-PPI-有差距](https://www.v2ex.com/t/860310) 
-- [2022-06-17-求-iphone13-手机壳推荐](https://www.v2ex.com/t/860308) 
-- [2022-06-17-蔚来上海/北京/合肥大量缺人！不卡涨幅！正常双休！-XDM-冲-👏🏻-👏🏻-👏🏻](https://www.v2ex.com/t/860307) 
 - [2022-06-17-如何让混沌工程实验降本增效-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15130&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fchaos-engineering-efficiency%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-06-17-关于分享的意义-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15129&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fwriting-and-share%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-06-17-恶意技术时代的负责任技术-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15128&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fresponsible-tech%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1971,5 +1971,5 @@
 - [2022-06-17-独立开发变现周刊（第59期）：习惯追踪应用Habitify的故事，6个月从0到月收入2.1万美元](https://toutiao.io/k/7sxpwk8) 
 - [2022-06-17-官宣：Apache-Doris-顺利毕业，成为-ASF-顶级项目！](https://toutiao.io/k/28h01kt) 
 - [2022-06-17-推荐-MongoDB全方位知识图谱！](https://toutiao.io/k/efxw4nr) 
-- [2022-06-17-推荐-消息队列原理和选型：Kafka、RocketMQ-、RabbitMQ-和-ActiveMQ](https://toutiao.io/k/nuwnwro) 
 - [2022-06-17-推荐-总监的烦恼：技术丢了怎么办？](https://toutiao.io/k/rzytby1) 
+- [2022-06-17-推荐-消息队列原理和选型：Kafka、RocketMQ-、RabbitMQ-和-ActiveMQ](https://toutiao.io/k/nuwnwro) 

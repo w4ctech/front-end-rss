@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-06-16 23:40:07。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-06-17 01:02:56。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 前端进阶相关
 
@@ -6,5 +6,3 @@
 > 关键字：`AST`、`GPU`、`WebAssembly`、`Vim`、`HTTP`、`算法`、`全栈`
 
 
-
-- [2022-06-16-HTTP3-RFC标准正式发布，QUIC会成为传输技术的新一代颠覆者吗？](https://toutiao.io/k/j1ffiw6) 

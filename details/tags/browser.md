@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-06-16 23:40:07。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-06-17 01:02:56。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -16,4 +16,4 @@
 - [2022-06-12-基于文字的URL锚点定位与::target-text样式设置](https://www.zhangxinxu.com/wordpress/2022/06/url-anchor-target-text/) 
 - [2022-06-16-一个还年轻的-Git-客户端，-GitViewer-for-macOS-来啦，继续邀请内测伙伴！](https://www.v2ex.com/t/860174) 
 - [2022-06-16-有其他什么命令行下载工具-能跳过小于指定大小的文件吗？-curl-和-wget-似乎都不行](https://www.v2ex.com/t/860170) 
-- [2022-06-16-Mac-升级新系统后-Chrome-浏览器遇到的一点小问题](https://www.v2ex.com/t/860132) 
+- [2022-06-17-端智能在大众点评搜索重排序的应用实践](https://toutiao.io/k/7wlxj5b) 

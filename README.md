@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-06-17 22:13:39，:rocket: 更新条数: +2027， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-06-17 22:39:51，:rocket: 更新条数: +2027， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -572,7 +572,7 @@
 - [2022-06-17-全面理解云上网络](https://toutiao.io/k/qm41zk6) ![](assets/new.png)  
 - [2022-06-17-独立开发变现周刊（第59期）：习惯追踪应用Habitify的故事，6个月从0到月收入2.1万美元](https://toutiao.io/k/7sxpwk8) ![](assets/new.png)  
 - [2022-06-17-官宣：Apache-Doris-顺利毕业，成为-ASF-顶级项目！](https://toutiao.io/k/28h01kt) ![](assets/new.png)  
-- [2022-06-17-推荐-消息队列原理和选型：Kafka、RocketMQ-、RabbitMQ-和-ActiveMQ](https://toutiao.io/k/nuwnwro) ![](assets/new.png)  
+- [2022-06-17-推荐-总监的烦恼：技术丢了怎么办？](https://toutiao.io/k/rzytby1) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

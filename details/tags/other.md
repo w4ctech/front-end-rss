@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-06-17 09:20:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-06-17 09:40:57。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,10 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-06-17-AMD-的积热到底是什么意思？](https://www.v2ex.com/t/860343) 
+- [2022-06-17-周五了，晚上跑步吧](https://www.v2ex.com/t/860342) 
+- [2022-06-17-手机号被泄露，天天被推销短信轰炸，求解](https://www.v2ex.com/t/860341) 
+- [2022-06-17-Windows-更新失败：-0x80040154](https://www.v2ex.com/t/860339) 
 - [2022-06-17-MBP-miniLED-屏幕纯黑底色时频闪更严重？](https://www.v2ex.com/t/860337) 
 - [2022-06-17-为什么-VS2019-单文件发布（.net-core-3.1-WinForm）发布功能中的-IL-剪裁功能，在-VS2022-里就没有了？是因为勾选了-Ready2Run-之后，默认是剪裁-IL-的吗？](https://www.v2ex.com/t/860336) 
 - [2022-06-17-网络收音机选择](https://www.v2ex.com/t/860335) 
@@ -1933,12 +1937,6 @@
 - [2022-06-17-vscode-要怎么格式化注释呢](https://www.v2ex.com/t/860301) 
 - [2022-06-17-Cloudpods-新版本-v3.8.12-正式发布](https://www.v2ex.com/t/860299) 
 - [2022-06-17-求助，被骗钱了-知道一些信息-请问有反制的办法吗](https://www.v2ex.com/t/860296) 
-- [2022-06-17-哪位大兄弟给推荐一个简单，无版权风险的-C/C++-log-库？万分感谢](https://www.v2ex.com/t/860294) 
-- [2022-06-17-容器中如何能访问到宿主机的端口？](https://www.v2ex.com/t/860293) 
-- [2022-06-17-我这个崽又来诉苦关于恋爱结婚的那档子事了](https://www.v2ex.com/t/860292) 
-- [2022-06-17-Go-语言想看看某个接口的调用关系，主要是看数据库表依赖有什么好的方法吗](https://www.v2ex.com/t/860291) 
-- [2022-06-17-NAS-和硬盘团购](https://www.v2ex.com/t/860290) 
-- [2022-06-17-请教一下网络高手-ipv6-的问题](https://www.v2ex.com/t/860289) 
 - [2022-06-17-如何让混沌工程实验降本增效-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15130&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fchaos-engineering-efficiency%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-06-17-关于分享的意义-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15129&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fwriting-and-share%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-06-17-恶意技术时代的负责任技术-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15128&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fresponsible-tech%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

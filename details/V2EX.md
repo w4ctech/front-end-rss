@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2022-06-17 13:09:52。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-06-17 13:55:31。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-06-17-在-DDD-或-Clean-Architecture-里，请问数据验证代码该放在哪层？是用异常还是返回值？](https://www.v2ex.com/t/860381) 
+- [2022-06-17-所谓重新开始失败的一百种姿势](https://www.v2ex.com/t/860379) 
 - [2022-06-17-文本处理的问题](https://www.v2ex.com/t/860377) 
 - [2022-06-17-这把刀终究还是来了，继上一波裁员之后！](https://www.v2ex.com/t/860376) 
 - [2022-06-17-深圳鹰利科技高薪诚聘](https://www.v2ex.com/t/860375) 

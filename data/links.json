@@ -9810,7 +9810,58 @@
     "rss": "https://www.zhangxinxu.com/wordpress/feed/",
     "title": "张鑫旭-鑫空间-鑫生活",
     "link": "https://www.zhangxinxu.com/wordpress",
-    "items": []
+    "items": [
+      {
+        "title": "基于文字的URL锚点定位与::target-text样式设置",
+        "link": "https://www.zhangxinxu.com/wordpress/2022/06/url-anchor-target-text/",
+        "date": "2022-06-12"
+      },
+      {
+        "title": "介绍一种CSS变量未定义语法也OK的小妙招",
+        "link": "https://www.zhangxinxu.com/wordpress/2022/06/css-var-optional-empty-trick/",
+        "date": "2022-06-11"
+      },
+      {
+        "title": "如何实现页面刷新后不定位到之前的滚动位置？",
+        "link": "https://www.zhangxinxu.com/wordpress/2022/05/history-scrollrestoration/",
+        "date": "2022-05-29"
+      },
+      {
+        "title": "详解日后定会大规模使用的CSS @layer 规则",
+        "link": "https://www.zhangxinxu.com/wordpress/2022/05/css-layer-rule/",
+        "date": "2022-05-28"
+      },
+      {
+        "title": "CSS必学基础：理解CSS中的级联规则",
+        "link": "https://www.zhangxinxu.com/wordpress/2022/05/deep-in-css-cascade/",
+        "date": "2022-05-22"
+      },
+      {
+        "title": "JS与条形码的生成",
+        "link": "https://www.zhangxinxu.com/wordpress/2022/05/js-barcode/",
+        "date": "2022-05-11"
+      },
+      {
+        "title": "深入 JS new Function 语法",
+        "link": "https://www.zhangxinxu.com/wordpress/2022/04/js-new-function/",
+        "date": "2022-04-30"
+      },
+      {
+        "title": "小tips: JS字体加载失败或完毕的检测",
+        "link": "https://www.zhangxinxu.com/wordpress/2022/04/js-font-face-load/",
+        "date": "2022-04-27"
+      },
+      {
+        "title": "CSS实现滚动高度自动变小的粘滞效果",
+        "link": "https://www.zhangxinxu.com/wordpress/2022/04/css-sticky-size-change/",
+        "date": "2022-04-22"
+      },
+      {
+        "title": "使用CSS size-adjust和unicode-range改变任意文字尺寸",
+        "link": "https://www.zhangxinxu.com/wordpress/2022/03/css-size-adjust-font-unicode-range/",
+        "date": "2022-03-27"
+      }
+    ]
   },
   {
     "rss": "http://www.ruanyifeng.com/blog/atom.xml",
@@ -9901,6 +9952,16 @@
     "title": "V2EX",
     "link": "https://www.v2ex.com/",
     "items": [
+      {
+        "title": "在 DDD 或 Clean Architecture 里，请问数据验证代码该放在哪层？是用异常还是返回值？",
+        "link": "https://www.v2ex.com/t/860381",
+        "date": "2022-06-17"
+      },
+      {
+        "title": "所谓重新开始失败的一百种姿势",
+        "link": "https://www.v2ex.com/t/860379",
+        "date": "2022-06-17"
+      },
       {
         "title": "文本处理的问题",
         "link": "https://www.v2ex.com/t/860377",
@@ -10216,13 +10277,13 @@
     "link": "https://toutiao.io",
     "items": [
       {
-        "title": "Redis夺命52连问",
-        "link": "https://toutiao.io/k/he3fzao",
+        "title": "30款提升组织效能 SaaS 工具，我们的宝藏工具箱大公开",
+        "link": "https://toutiao.io/k/r64b4s8",
         "date": "2022-06-17"
       },
       {
-        "title": "30款提升组织效能 SaaS 工具，我们的宝藏工具箱大公开",
-        "link": "https://toutiao.io/k/r64b4s8",
+        "title": "Redis夺命52连问",
+        "link": "https://toutiao.io/k/he3fzao",
         "date": "2022-06-17"
       },
       {

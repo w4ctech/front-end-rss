@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-06-17 13:09:52。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-06-17 13:55:31。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,8 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-06-17-在-DDD-或-Clean-Architecture-里，请问数据验证代码该放在哪层？是用异常还是返回值？](https://www.v2ex.com/t/860381) 
+- [2022-06-17-所谓重新开始失败的一百种姿势](https://www.v2ex.com/t/860379) 
 - [2022-06-17-文本处理的问题](https://www.v2ex.com/t/860377) 
 - [2022-06-17-这把刀终究还是来了，继上一波裁员之后！](https://www.v2ex.com/t/860376) 
 - [2022-06-17-深圳鹰利科技高薪诚聘](https://www.v2ex.com/t/860375) 
@@ -1956,8 +1958,8 @@
 - [2022-06-17-VSCode花式摸鱼大法，悄悄用起来！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15116&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494145%26amp%3Bidx%3D1%26amp%3Bsn%3Dbe3f203c539822e9a38e50b902c612e3%26amp%3Bchksm%3Dfa3f0b5acd48824c2d94526b01235144c60ab13b3bab4d63e207115b1ba05b7d62817e34ec90%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-06-17-一定用得到的C++资源，限时开放收藏！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15114&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494135%26amp%3Bidx%3D1%26amp%3Bsn%3Db4e7fa404171dd55f0a3a100ac2b3156%26amp%3Bchksm%3Dfa3f08accd4881bad00269d8624fc435e39c28e7f3dcc35cbe306323fc64ba5daaf6affe751b%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-06-17-什么是子网掩码?-www.awaimai.com](https://blogread.cn/news/go.php?idItem=15112&url=https%3A%2F%2Fwww.awaimai.com%2F2933.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
-- [2022-06-17-Redis夺命52连问](https://toutiao.io/k/he3fzao) 
 - [2022-06-17-30款提升组织效能-SaaS-工具，我们的宝藏工具箱大公开](https://toutiao.io/k/r64b4s8) 
+- [2022-06-17-Redis夺命52连问](https://toutiao.io/k/he3fzao) 
 - [2022-06-17-前端日志管理模块的设计与实现](https://toutiao.io/k/3vvmeex) 
 - [2022-06-17-如何使用-ThingsBoard-接入-MQTT-数据](https://toutiao.io/k/kuubxbf) 
 - [2022-06-17-Alibaba/IOC-golang-正式开源-——打造服务于go开发者的IOC框架](https://toutiao.io/k/x3yy1c6) 

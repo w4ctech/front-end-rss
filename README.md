@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-06-17 13:09:52，:rocket: 更新条数: +2018， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-06-17 13:55:31，:rocket: 更新条数: +2030， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -36,7 +36,7 @@
 - [前端瓶子君](#前端瓶子君)  
 - [程序员成长指北](#程序员成长指北)  
 - [Nodejs技术栈](#nodejs技术栈)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [京东设计中心](#京东设计中心)  
 - [凹凸实验室](#凹凸实验室)  
@@ -316,6 +316,16 @@
 </summary>
 
 
+- [2022-06-12-基于文字的URL锚点定位与::target-text样式设置](https://www.zhangxinxu.com/wordpress/2022/06/url-anchor-target-text/) ![](assets/new.png)  
+- [2022-06-11-介绍一种CSS变量未定义语法也OK的小妙招](https://www.zhangxinxu.com/wordpress/2022/06/css-var-optional-empty-trick/) ![](assets/new.png)  
+- [2022-05-29-如何实现页面刷新后不定位到之前的滚动位置？](https://www.zhangxinxu.com/wordpress/2022/05/history-scrollrestoration/) ![](assets/new.png)  
+- [2022-05-28-详解日后定会大规模使用的CSS-@layer-规则](https://www.zhangxinxu.com/wordpress/2022/05/css-layer-rule/) ![](assets/new.png)  
+- [2022-05-22-CSS必学基础：理解CSS中的级联规则](https://www.zhangxinxu.com/wordpress/2022/05/deep-in-css-cascade/) ![](assets/new.png)  
+- [2022-05-11-JS与条形码的生成](https://www.zhangxinxu.com/wordpress/2022/05/js-barcode/) ![](assets/new.png)  
+- [2022-04-30-深入-JS-new-Function-语法](https://www.zhangxinxu.com/wordpress/2022/04/js-new-function/) ![](assets/new.png)  
+- [2022-04-27-小tips:-JS字体加载失败或完毕的检测](https://www.zhangxinxu.com/wordpress/2022/04/js-font-face-load/) ![](assets/new.png)  
+- [2022-04-22-CSS实现滚动高度自动变小的粘滞效果](https://www.zhangxinxu.com/wordpress/2022/04/css-sticky-size-change/) ![](assets/new.png)  
+- [2022-03-27-使用CSS-size-adjust和unicode-range改变任意文字尺寸](https://www.zhangxinxu.com/wordpress/2022/03/css-size-adjust-font-unicode-range/) ![](assets/new.png)  
 - [......【查看更多】......](./details/张鑫旭-鑫空间-鑫生活.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -481,6 +491,8 @@
 </summary>
 
 
+- [2022-06-17-在-DDD-或-Clean-Architecture-里，请问数据验证代码该放在哪层？是用异常还是返回值？](https://www.v2ex.com/t/860381) ![](assets/new.png)  
+- [2022-06-17-所谓重新开始失败的一百种姿势](https://www.v2ex.com/t/860379) ![](assets/new.png)  
 - [2022-06-17-文本处理的问题](https://www.v2ex.com/t/860377) ![](assets/new.png)  
 - [2022-06-17-这把刀终究还是来了，继上一波裁员之后！](https://www.v2ex.com/t/860376) ![](assets/new.png)  
 - [2022-06-17-深圳鹰利科技高薪诚聘](https://www.v2ex.com/t/860375) ![](assets/new.png)  
@@ -499,8 +511,6 @@
 - [2022-06-17-Android-上-smzdm-应用强制走流量](https://www.v2ex.com/t/860359) ![](assets/new.png)  
 - [2022-06-17-Ventura-支持了通过-HDMI-2.1-输出-4K120hz，但声音输出产生了问题](https://www.v2ex.com/t/860358) ![](assets/new.png)  
 - [2022-06-17-有支持-paypal-的机场推荐不？](https://www.v2ex.com/t/860357) ![](assets/new.png)  
-- [2022-06-17-RESTFul-API-接口规范，-GET-请求如何传递复杂对象？](https://www.v2ex.com/t/860356) ![](assets/new.png)  
-- [2022-06-17-优酷会员-30-一个年](https://www.v2ex.com/t/860353) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -543,8 +553,8 @@
 </summary>
 
 
-- [2022-06-17-Redis夺命52连问](https://toutiao.io/k/he3fzao) ![](assets/new.png)  
 - [2022-06-17-30款提升组织效能-SaaS-工具，我们的宝藏工具箱大公开](https://toutiao.io/k/r64b4s8) ![](assets/new.png)  
+- [2022-06-17-Redis夺命52连问](https://toutiao.io/k/he3fzao) ![](assets/new.png)  
 - [2022-06-17-前端日志管理模块的设计与实现](https://toutiao.io/k/3vvmeex) ![](assets/new.png)  
 - [2022-06-17-如何使用-ThingsBoard-接入-MQTT-数据](https://toutiao.io/k/kuubxbf) ![](assets/new.png)  
 - [2022-06-17-Alibaba/IOC-golang-正式开源-——打造服务于go开发者的IOC框架](https://toutiao.io/k/x3yy1c6) ![](assets/new.png)  

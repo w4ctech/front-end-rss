@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-06-17 21:38:49，:rocket: 更新条数: +2027， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-06-17 22:13:39，:rocket: 更新条数: +2027， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-06-17-我是真的绷不住了，成年人的破防只在一瞬间（MacBook-送货之一波三折）](https://www.v2ex.com/t/860431) ![](assets/new.png)  
+- [2022-06-17-唐山这件事，作为普通人能做些什么？](https://www.v2ex.com/t/860430) ![](assets/new.png)  
 - [2022-06-17-你真的需要一个-7x24-小时运行的-NAS-么？](https://www.v2ex.com/t/860428) ![](assets/new.png)  
 - [2022-06-17-大促-Z4-到手](https://www.v2ex.com/t/860426) ![](assets/new.png)  
 - [2022-06-17-求教有什么优雅的办法备份服务器数据](https://www.v2ex.com/t/860425) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-06-17-iOS15-能越狱了吗？](https://www.v2ex.com/t/860410) ![](assets/new.png)  
 - [2022-06-17-google-翻译也菠菜污染了](https://www.v2ex.com/t/860408) ![](assets/new.png)  
 - [2022-06-17-电信是不是刻意阻碍微软的网络服务？](https://www.v2ex.com/t/860407) ![](assets/new.png)  
-- [2022-06-17-湖南电信有什么办法提上传速度吗](https://www.v2ex.com/t/860406) ![](assets/new.png)  
-- [2022-06-17-wsl2-怎么使用-WebSocket-代理？](https://www.v2ex.com/t/860405) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -572,7 +572,7 @@
 - [2022-06-17-全面理解云上网络](https://toutiao.io/k/qm41zk6) ![](assets/new.png)  
 - [2022-06-17-独立开发变现周刊（第59期）：习惯追踪应用Habitify的故事，6个月从0到月收入2.1万美元](https://toutiao.io/k/7sxpwk8) ![](assets/new.png)  
 - [2022-06-17-官宣：Apache-Doris-顺利毕业，成为-ASF-顶级项目！](https://toutiao.io/k/28h01kt) ![](assets/new.png)  
-- [2022-06-17-推荐-总监的烦恼：技术丢了怎么办？](https://toutiao.io/k/rzytby1) ![](assets/new.png)  
+- [2022-06-17-推荐-消息队列原理和选型：Kafka、RocketMQ-、RabbitMQ-和-ActiveMQ](https://toutiao.io/k/nuwnwro) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

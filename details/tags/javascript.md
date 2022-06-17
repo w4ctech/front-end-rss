@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-06-17 07:39:34。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-06-17 08:17:53。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -20,4 +20,3 @@
 - [2022-04-27-小tips:-JS字体加载失败或完毕的检测](https://www.zhangxinxu.com/wordpress/2022/04/js-font-face-load/) 
 - [2022-04-22-CSS实现滚动高度自动变小的粘滞效果](https://www.zhangxinxu.com/wordpress/2022/04/css-sticky-size-change/) 
 - [2022-06-17-不懂就问：-go-里面如何自定义外部类型的-json-序列化方式？](https://www.v2ex.com/t/860295) 
-- [2022-06-17-为什么在描述如何处理-ios-适配问题时有好多文章写了-constant-跟-env-顺序不能更换](https://www.v2ex.com/t/860259) 

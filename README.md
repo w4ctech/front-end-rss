@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-06-17 13:55:31，:rocket: 更新条数: +2030， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-06-17 14:14:35，:rocket: 更新条数: +2028， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,9 @@
 </summary>
 
 
+- [2022-06-17-想玩钢琴,-痒的不行,-求推荐](https://www.v2ex.com/t/860387) ![](assets/new.png)  
+- [2022-06-17-树莓派上如何在监测到动作时录制视频](https://www.v2ex.com/t/860386) ![](assets/new.png)  
+- [2022-06-17-武汉---急需一名前端岗和美工一名](https://www.v2ex.com/t/860383) ![](assets/new.png)  
 - [2022-06-17-在-DDD-或-Clean-Architecture-里，请问数据验证代码该放在哪层？是用异常还是返回值？](https://www.v2ex.com/t/860381) ![](assets/new.png)  
 - [2022-06-17-所谓重新开始失败的一百种姿势](https://www.v2ex.com/t/860379) ![](assets/new.png)  
 - [2022-06-17-文本处理的问题](https://www.v2ex.com/t/860377) ![](assets/new.png)  
@@ -508,9 +511,6 @@
 - [2022-06-17-6-月-19-日-周日，华为-Serverless-等你来捧场](https://www.v2ex.com/t/860363) ![](assets/new.png)  
 - [2022-06-17-给黑苹果-/-黑群晖开源项目提交-PR-有法律（侵权）风险吗？](https://www.v2ex.com/t/860362) ![](assets/new.png)  
 - [2022-06-17-Intel-迁移到-M1-软件需要重装吗？](https://www.v2ex.com/t/860361) ![](assets/new.png)  
-- [2022-06-17-Android-上-smzdm-应用强制走流量](https://www.v2ex.com/t/860359) ![](assets/new.png)  
-- [2022-06-17-Ventura-支持了通过-HDMI-2.1-输出-4K120hz，但声音输出产生了问题](https://www.v2ex.com/t/860358) ![](assets/new.png)  
-- [2022-06-17-有支持-paypal-的机场推荐不？](https://www.v2ex.com/t/860357) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -572,7 +572,7 @@
 - [2022-06-17-全面理解云上网络](https://toutiao.io/k/qm41zk6) ![](assets/new.png)  
 - [2022-06-17-独立开发变现周刊（第59期）：习惯追踪应用Habitify的故事，6个月从0到月收入2.1万美元](https://toutiao.io/k/7sxpwk8) ![](assets/new.png)  
 - [2022-06-17-官宣：Apache-Doris-顺利毕业，成为-ASF-顶级项目！](https://toutiao.io/k/28h01kt) ![](assets/new.png)  
-- [2022-06-17-推荐-消息队列原理和选型：Kafka、RocketMQ-、RabbitMQ-和-ActiveMQ](https://toutiao.io/k/nuwnwro) ![](assets/new.png)  
+- [2022-06-17-推荐-总监的烦恼：技术丢了怎么办？](https://toutiao.io/k/rzytby1) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-06-17 18:46:42。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-06-17 19:11:42。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -108,7 +108,6 @@
 - [【V2EX】2022-06-17-武汉---急需一名前端岗和美工一名](https://www.v2ex.com/t/860383) 
 - [【V2EX】2022-06-17-在-DDD-或-Clean-Architecture-里，请问数据验证代码该放在哪层？是用异常还是返回值？](https://www.v2ex.com/t/860381) 
 - [【V2EX】2022-06-17-所谓重新开始失败的一百种姿势](https://www.v2ex.com/t/860379) 
-- [【V2EX】2022-06-17-文本处理的问题](https://www.v2ex.com/t/860377) 
 - [【技术头条】2022-06-17-如何构建团队内的反馈氛围-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15131&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffeedback-in-agile-practice%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-06-17-如何让混沌工程实验降本增效-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15130&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fchaos-engineering-efficiency%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-06-17-关于分享的意义-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15129&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fwriting-and-share%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -148,9 +147,9 @@
 - [【开发者头条】2022-06-17-全面理解云上网络](https://toutiao.io/k/qm41zk6) 
 - [【开发者头条】2022-06-17-独立开发变现周刊（第59期）：习惯追踪应用Habitify的故事，6个月从0到月收入2.1万美元](https://toutiao.io/k/7sxpwk8) 
 - [【开发者头条】2022-06-17-官宣：Apache-Doris-顺利毕业，成为-ASF-顶级项目！](https://toutiao.io/k/28h01kt) 
+- [【开发者头条】2022-06-17-推荐-消息队列原理和选型：Kafka、RocketMQ-、RabbitMQ-和-ActiveMQ](https://toutiao.io/k/nuwnwro) 
 - [【开发者头条】2022-06-17-推荐-MongoDB全方位知识图谱！](https://toutiao.io/k/efxw4nr) 
 - [【开发者头条】2022-06-17-推荐-总监的烦恼：技术丢了怎么办？](https://toutiao.io/k/rzytby1) 
-- [【开发者头条】2022-06-17-推荐-消息队列原理和选型：Kafka、RocketMQ-、RabbitMQ-和-ActiveMQ](https://toutiao.io/k/nuwnwro) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

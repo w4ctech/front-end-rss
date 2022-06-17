@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-06-17 05:41:25。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-06-17 06:17:42。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -70,6 +70,10 @@
 
 - [【张鑫旭-鑫空间-鑫生活】2022-06-12-基于文字的URL锚点定位与::target-text样式设置](https://www.zhangxinxu.com/wordpress/2022/06/url-anchor-target-text/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-06-11-介绍一种CSS变量未定义语法也OK的小妙招](https://www.zhangxinxu.com/wordpress/2022/06/css-var-optional-empty-trick/) 
+- [【V2EX】2022-06-17-日常使用-Teams、Zoom、Skype-等开会，有-macOS-平台语音软文字的工具推荐吗？](https://www.v2ex.com/t/860285) 
+- [【V2EX】2022-06-17-企微就这么强-X-用户的？](https://www.v2ex.com/t/860284) 
+- [【V2EX】2022-06-17-摄影爱好者交流群](https://www.v2ex.com/t/860283) 
+- [【V2EX】2022-06-17-一直心痒-NAS，最终想想还是用旧笔电平替](https://www.v2ex.com/t/860282) 
 - [【V2EX】2022-06-17-easyconnect-连接后会添加一个-127.0.0.1-的-dns-怎么破](https://www.v2ex.com/t/860281) 
 - [【V2EX】2022-06-17-iPhoneXS.safari-页面查找发贴人是数字开头就无匹配，比如-66450146-发了“去办公室上班”，查-66450146-却无匹配,发贴内容包含-66450146-可匹配](https://www.v2ex.com/t/860280) 
 - [【V2EX】2022-06-17-闲置-pc-可以做甚？](https://www.v2ex.com/t/860279) 
@@ -109,11 +113,6 @@
 - [【V2EX】2022-06-17-大家会在意互联网内容的首行缩进吗](https://www.v2ex.com/t/860239) 
 - [【V2EX】2022-06-17-求助-DELL-U2723QE-在-Mac-环境音量调整的疑问](https://www.v2ex.com/t/860238) 
 - [【V2EX】2022-06-17-第一次工作职场求助](https://www.v2ex.com/t/860237) 
-- [【V2EX】2022-06-17-疫情前购买商品，解封后涨价了，拼多多商家不愿发货如何解决？](https://www.v2ex.com/t/860236) 
-- [【V2EX】2022-06-17-做了一个简单轻便的-Notion-开源客户端：-NotionLight，欢迎体验](https://www.v2ex.com/t/860235) 
-- [【V2EX】2022-06-17-各位有没有特别推荐的笔?](https://www.v2ex.com/t/860234) 
-- [【V2EX】2022-06-17-有什么好用的开源-wiki-推荐一下？](https://www.v2ex.com/t/860233) 
-- [【V2EX】2022-06-17-北京大学健康医疗大数据研究院招科研助理与博士后](https://www.v2ex.com/t/860232) 
 - [【技术头条】2022-06-17-如何构建团队内的反馈氛围-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15131&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffeedback-in-agile-practice%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-06-17-如何让混沌工程实验降本增效-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15130&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fchaos-engineering-efficiency%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-06-17-关于分享的意义-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15129&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fwriting-and-share%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -148,6 +147,11 @@
 - [【开发者头条】2022-06-17-大厂也在用的-6种-数据脱敏方案，别做泄密内鬼](https://toutiao.io/k/071zwfj) 
 - [【开发者头条】2022-06-17-基于Apache-APISIX打造高性能API网关](https://toutiao.io/k/htul6gb) 
 - [【开发者头条】2022-06-17-不会乘法表怎么做乘法？这个远古的算法竟然可以！](https://toutiao.io/k/ltsi0x1) 
+- [【开发者头条】2022-06-17-独立开发变现周刊（第59期）：习惯追踪应用Habitify的故事，6个月从0到月收入2.1万美元](https://toutiao.io/k/7sxpwk8) 
+- [【开发者头条】2022-06-17-聊聊内存模型与内存序](https://toutiao.io/k/broj9m6) 
+- [【开发者头条】2022-06-17-官宣：Apache-Doris-顺利毕业，成为-ASF-顶级项目！](https://toutiao.io/k/28h01kt) 
+- [【开发者头条】2022-06-17-【API-优先的设计】工具篇](https://toutiao.io/k/gwwvql5) 
+- [【开发者头条】2022-06-17-全面理解云上网络](https://toutiao.io/k/qm41zk6) 
 - [【开发者头条】2022-06-17-推荐-总监的烦恼：技术丢了怎么办？](https://toutiao.io/k/rzytby1) 
 - [【开发者头条】2022-06-17-推荐-消息队列原理和选型：Kafka、RocketMQ-、RabbitMQ-和-ActiveMQ](https://toutiao.io/k/nuwnwro) 
 - [【开发者头条】2022-06-17-推荐-MongoDB全方位知识图谱！](https://toutiao.io/k/efxw4nr) 

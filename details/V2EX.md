@@ -1,10 +1,16 @@
-:alarm_clock: 更新时间: 2022-06-17 08:17:53。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-06-17 08:45:42。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-06-17-求-ps-cs6-v13-免安装绿色版-无毒-无推广的压缩包](https://www.v2ex.com/t/860326) 
+- [2022-06-17-微软实习能拿-xgp-的员工福利吗，怎么领取](https://www.v2ex.com/t/860325) 
+- [2022-06-17-这个-All-In-Two-方案怎么样？](https://www.v2ex.com/t/860324) 
+- [2022-06-17-GNOME-的-sidebar-功能已经在测试了？](https://www.v2ex.com/t/860323) 
+- [2022-06-17-小米商城米金兑换也崩了，是架构垃圾还是-618-服务器压力真的大](https://www.v2ex.com/t/860322) 
+- [2022-06-17-感觉-kotlin-需要像-js-一样出一个-good-part](https://www.v2ex.com/t/860320) 
 - [2022-06-17-iconfont-啥时候能好？好多天过去了。](https://www.v2ex.com/t/860316) 
 - [2022-06-17-No-match-found-for-location-with-path-"/"](https://www.v2ex.com/t/860315) 
 - [2022-06-17-BI-与-SaaS-碰撞，让数据处理更加轻松（下）](https://www.v2ex.com/t/860313) 
@@ -38,9 +44,3 @@
 - [2022-06-17-闲置-pc-可以做甚？](https://www.v2ex.com/t/860279) 
 - [2022-06-17-请问有用-38-寸显示器接-mac-的吗，体验如何？谢谢！](https://www.v2ex.com/t/860278) 
 - [2022-06-17-请问-Strapi-在国内自己-hosting-会有什么坑吗？](https://www.v2ex.com/t/860277) 
-- [2022-06-17-chrome-居然有自带的语音转录功能](https://www.v2ex.com/t/860276) 
-- [2022-06-17-diy-nas-配置求建议](https://www.v2ex.com/t/860275) 
-- [2022-06-17-用了-OpenCore-Legacy-Patcher-老-iMac-18,3-终于用上了-Universal-control](https://www.v2ex.com/t/860273) 
-- [2022-06-17-求一名全职技术写作者-Technical-Writer，做业界一流的开源产品文档](https://www.v2ex.com/t/860272) 
-- [2022-06-17-MIUI-蓝牙固件升级后的大-BUG](https://www.v2ex.com/t/860270) 
-- [2022-06-17-如何看待马斯克说要让-twitter-向-wechat-和-tiktok-学习？](https://www.v2ex.com/t/860267) 

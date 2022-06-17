@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-06-17 08:17:53。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-06-17 08:45:42。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -70,6 +70,12 @@
 
 - [【张鑫旭-鑫空间-鑫生活】2022-06-12-基于文字的URL锚点定位与::target-text样式设置](https://www.zhangxinxu.com/wordpress/2022/06/url-anchor-target-text/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-06-11-介绍一种CSS变量未定义语法也OK的小妙招](https://www.zhangxinxu.com/wordpress/2022/06/css-var-optional-empty-trick/) 
+- [【V2EX】2022-06-17-求-ps-cs6-v13-免安装绿色版-无毒-无推广的压缩包](https://www.v2ex.com/t/860326) 
+- [【V2EX】2022-06-17-微软实习能拿-xgp-的员工福利吗，怎么领取](https://www.v2ex.com/t/860325) 
+- [【V2EX】2022-06-17-这个-All-In-Two-方案怎么样？](https://www.v2ex.com/t/860324) 
+- [【V2EX】2022-06-17-GNOME-的-sidebar-功能已经在测试了？](https://www.v2ex.com/t/860323) 
+- [【V2EX】2022-06-17-小米商城米金兑换也崩了，是架构垃圾还是-618-服务器压力真的大](https://www.v2ex.com/t/860322) 
+- [【V2EX】2022-06-17-感觉-kotlin-需要像-js-一样出一个-good-part](https://www.v2ex.com/t/860320) 
 - [【V2EX】2022-06-17-iconfont-啥时候能好？好多天过去了。](https://www.v2ex.com/t/860316) 
 - [【V2EX】2022-06-17-No-match-found-for-location-with-path-"/"](https://www.v2ex.com/t/860315) 
 - [【V2EX】2022-06-17-BI-与-SaaS-碰撞，让数据处理更加轻松（下）](https://www.v2ex.com/t/860313) 
@@ -103,12 +109,6 @@
 - [【V2EX】2022-06-17-闲置-pc-可以做甚？](https://www.v2ex.com/t/860279) 
 - [【V2EX】2022-06-17-请问有用-38-寸显示器接-mac-的吗，体验如何？谢谢！](https://www.v2ex.com/t/860278) 
 - [【V2EX】2022-06-17-请问-Strapi-在国内自己-hosting-会有什么坑吗？](https://www.v2ex.com/t/860277) 
-- [【V2EX】2022-06-17-chrome-居然有自带的语音转录功能](https://www.v2ex.com/t/860276) 
-- [【V2EX】2022-06-17-diy-nas-配置求建议](https://www.v2ex.com/t/860275) 
-- [【V2EX】2022-06-17-用了-OpenCore-Legacy-Patcher-老-iMac-18,3-终于用上了-Universal-control](https://www.v2ex.com/t/860273) 
-- [【V2EX】2022-06-17-求一名全职技术写作者-Technical-Writer，做业界一流的开源产品文档](https://www.v2ex.com/t/860272) 
-- [【V2EX】2022-06-17-MIUI-蓝牙固件升级后的大-BUG](https://www.v2ex.com/t/860270) 
-- [【V2EX】2022-06-17-如何看待马斯克说要让-twitter-向-wechat-和-tiktok-学习？](https://www.v2ex.com/t/860267) 
 - [【技术头条】2022-06-17-如何构建团队内的反馈氛围-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15131&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffeedback-in-agile-practice%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-06-17-如何让混沌工程实验降本增效-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15130&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fchaos-engineering-efficiency%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-06-17-关于分享的意义-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15129&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fwriting-and-share%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -148,9 +148,9 @@
 - [【开发者头条】2022-06-17-全面理解云上网络](https://toutiao.io/k/qm41zk6) 
 - [【开发者头条】2022-06-17-独立开发变现周刊（第59期）：习惯追踪应用Habitify的故事，6个月从0到月收入2.1万美元](https://toutiao.io/k/7sxpwk8) 
 - [【开发者头条】2022-06-17-官宣：Apache-Doris-顺利毕业，成为-ASF-顶级项目！](https://toutiao.io/k/28h01kt) 
-- [【开发者头条】2022-06-17-推荐-MongoDB全方位知识图谱！](https://toutiao.io/k/efxw4nr) 
 - [【开发者头条】2022-06-17-推荐-消息队列原理和选型：Kafka、RocketMQ-、RabbitMQ-和-ActiveMQ](https://toutiao.io/k/nuwnwro) 
 - [【开发者头条】2022-06-17-推荐-总监的烦恼：技术丢了怎么办？](https://toutiao.io/k/rzytby1) 
+- [【开发者头条】2022-06-17-推荐-MongoDB全方位知识图谱！](https://toutiao.io/k/efxw4nr) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

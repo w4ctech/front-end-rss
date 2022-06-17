@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-06-17 17:15:41。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-06-17 17:40:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -16,5 +16,4 @@
 - [2022-06-12-基于文字的URL锚点定位与::target-text样式设置](https://www.zhangxinxu.com/wordpress/2022/06/url-anchor-target-text/) 
 - [2022-06-17-wsl2-怎么使用-WebSocket-代理？](https://www.v2ex.com/t/860405) 
 - [2022-06-17-关于腾讯网址安全拦截误判的问题](https://www.v2ex.com/t/860398) 
-- [2022-06-17-windowsJpegview-免安装图片浏览工具](https://www.v2ex.com/t/860374) 
 - [2022-06-17-端智能在大众点评搜索重排序的应用实践](https://toutiao.io/k/7wlxj5b) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-06-17 04:58:02。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-06-17 05:16:52。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -70,6 +70,8 @@
 
 - [【张鑫旭-鑫空间-鑫生活】2022-06-12-基于文字的URL锚点定位与::target-text样式设置](https://www.zhangxinxu.com/wordpress/2022/06/url-anchor-target-text/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-06-11-介绍一种CSS变量未定义语法也OK的小妙招](https://www.zhangxinxu.com/wordpress/2022/06/css-var-optional-empty-trick/) 
+- [【V2EX】2022-06-17-用了-OpenCore-Legacy-Patcher-老-iMac-18,3-终于用上了-Universal-control](https://www.v2ex.com/t/860273) 
+- [【V2EX】2022-06-17-求一名全职技术写作者-Technical-Writer，做业界一流的开源产品文档](https://www.v2ex.com/t/860272) 
 - [【V2EX】2022-06-17-MIUI-蓝牙固件升级后的大-BUG](https://www.v2ex.com/t/860270) 
 - [【V2EX】2022-06-17-如何看待马斯克说要让-twitter-向-wechat-和-tiktok-学习？](https://www.v2ex.com/t/860267) 
 - [【V2EX】2022-06-17-经过米家崩溃，想和大家讨论一下智能家居本地化的可能性。](https://www.v2ex.com/t/860266) 
@@ -112,9 +114,6 @@
 - [【V2EX】2022-06-17-v2ex-403-怎么解除](https://www.v2ex.com/t/860227) 
 - [【V2EX】2022-06-17-100-万如何做到稳定年化-5~8-个点？](https://www.v2ex.com/t/860226) 
 - [【V2EX】2022-06-17-安卓记账软件哪个好用呢？](https://www.v2ex.com/t/860225) 
-- [【V2EX】2022-06-17-迈入中年，想选购一个-NAS，请大伙儿给个建议](https://www.v2ex.com/t/860224) 
-- [【V2EX】2022-06-17-JVM-内存](https://www.v2ex.com/t/860223) 
-- [【V2EX】2022-06-17-成都-物联网-帮公司发个招聘，招各种高级产品、前端、后端、移动、嵌入式](https://www.v2ex.com/t/860222) 
 - [【技术头条】2022-06-17-如何构建团队内的反馈氛围-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15131&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffeedback-in-agile-practice%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-06-17-如何让混沌工程实验降本增效-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15130&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fchaos-engineering-efficiency%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-06-17-关于分享的意义-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15129&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fwriting-and-share%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -141,17 +140,17 @@
 - [【开发者头条】2022-06-17-前端日志管理模块的设计与实现](https://toutiao.io/k/3vvmeex) 
 - [【开发者头条】2022-06-17-端智能在大众点评搜索重排序的应用实践](https://toutiao.io/k/7wlxj5b) 
 - [【开发者头条】2022-06-17-Alibaba/IOC-golang-正式开源-——打造服务于go开发者的IOC框架](https://toutiao.io/k/x3yy1c6) 
-- [【开发者头条】2022-06-17-懒人python操作，代码中永远只需要导入一个库...](https://toutiao.io/k/tuj4wrt) 
 - [【开发者头条】2022-06-17-小小故障排查三天，早用上可观测性哪来这么多麻烦事！](https://toutiao.io/k/y56da2n) 
+- [【开发者头条】2022-06-17-懒人python操作，代码中永远只需要导入一个库...](https://toutiao.io/k/tuj4wrt) 
 - [【开发者头条】2022-06-17-给初创公司审核代码5年，我总结了这十几条经验](https://toutiao.io/k/chrvbnj) 
 - [【开发者头条】2022-06-17-字节跳动一站式数据治理解决方案及平台架构](https://toutiao.io/k/72eo0la) 
 - [【开发者头条】2022-06-17-大厂也在用的-6种-数据脱敏方案，别做泄密内鬼](https://toutiao.io/k/071zwfj) 
 - [【开发者头条】2022-06-17-基于Apache-APISIX打造高性能API网关](https://toutiao.io/k/htul6gb) 
 - [【开发者头条】2022-06-17-Snowflake：数据仓库的终极形态](https://toutiao.io/k/21e08gi) 
 - [【开发者头条】2022-06-17-不会乘法表怎么做乘法？这个远古的算法竟然可以！](https://toutiao.io/k/ltsi0x1) 
-- [【开发者头条】2022-06-17-推荐-消息队列原理和选型：Kafka、RocketMQ-、RabbitMQ-和-ActiveMQ](https://toutiao.io/k/nuwnwro) 
-- [【开发者头条】2022-06-17-推荐-总监的烦恼：技术丢了怎么办？](https://toutiao.io/k/rzytby1) 
 - [【开发者头条】2022-06-17-推荐-MongoDB全方位知识图谱！](https://toutiao.io/k/efxw4nr) 
+- [【开发者头条】2022-06-17-推荐-总监的烦恼：技术丢了怎么办？](https://toutiao.io/k/rzytby1) 
+- [【开发者头条】2022-06-17-推荐-消息队列原理和选型：Kafka、RocketMQ-、RabbitMQ-和-ActiveMQ](https://toutiao.io/k/nuwnwro) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

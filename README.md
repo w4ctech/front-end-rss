@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-06-17 04:58:02，:rocket: 更新条数: +2028， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-06-17 05:16:52，:rocket: 更新条数: +2027， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-06-17-用了-OpenCore-Legacy-Patcher-老-iMac-18,3-终于用上了-Universal-control](https://www.v2ex.com/t/860273) ![](assets/new.png)  
+- [2022-06-17-求一名全职技术写作者-Technical-Writer，做业界一流的开源产品文档](https://www.v2ex.com/t/860272) ![](assets/new.png)  
 - [2022-06-17-MIUI-蓝牙固件升级后的大-BUG](https://www.v2ex.com/t/860270) ![](assets/new.png)  
 - [2022-06-17-如何看待马斯克说要让-twitter-向-wechat-和-tiktok-学习？](https://www.v2ex.com/t/860267) ![](assets/new.png)  
 - [2022-06-17-经过米家崩溃，想和大家讨论一下智能家居本地化的可能性。](https://www.v2ex.com/t/860266) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-06-17-Java-求助个问题](https://www.v2ex.com/t/860251) ![](assets/new.png)  
 - [2022-06-17-昨天小米米家-app-的服务挂了，设备都用不了了](https://www.v2ex.com/t/860250) ![](assets/new.png)  
 - [2022-06-17-极客时间超级会员说要涨价,-那本来是连续包年的怎么算](https://www.v2ex.com/t/860249) ![](assets/new.png)  
-- [2022-06-17-旅游露营组队、找饭搭子，这里集合！](https://www.v2ex.com/t/860248) ![](assets/new.png)  
-- [2022-06-17-在-mac-下，-Pulse-Secure-能和什么代理软件一起运行](https://www.v2ex.com/t/860247) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -559,17 +559,17 @@
 - [2022-06-17-前端日志管理模块的设计与实现](https://toutiao.io/k/3vvmeex) ![](assets/new.png)  
 - [2022-06-17-端智能在大众点评搜索重排序的应用实践](https://toutiao.io/k/7wlxj5b) ![](assets/new.png)  
 - [2022-06-17-Alibaba/IOC-golang-正式开源-——打造服务于go开发者的IOC框架](https://toutiao.io/k/x3yy1c6) ![](assets/new.png)  
-- [2022-06-17-懒人python操作，代码中永远只需要导入一个库...](https://toutiao.io/k/tuj4wrt) ![](assets/new.png)  
 - [2022-06-17-小小故障排查三天，早用上可观测性哪来这么多麻烦事！](https://toutiao.io/k/y56da2n) ![](assets/new.png)  
+- [2022-06-17-懒人python操作，代码中永远只需要导入一个库...](https://toutiao.io/k/tuj4wrt) ![](assets/new.png)  
 - [2022-06-17-给初创公司审核代码5年，我总结了这十几条经验](https://toutiao.io/k/chrvbnj) ![](assets/new.png)  
 - [2022-06-17-字节跳动一站式数据治理解决方案及平台架构](https://toutiao.io/k/72eo0la) ![](assets/new.png)  
 - [2022-06-17-大厂也在用的-6种-数据脱敏方案，别做泄密内鬼](https://toutiao.io/k/071zwfj) ![](assets/new.png)  
 - [2022-06-17-基于Apache-APISIX打造高性能API网关](https://toutiao.io/k/htul6gb) ![](assets/new.png)  
 - [2022-06-17-Snowflake：数据仓库的终极形态](https://toutiao.io/k/21e08gi) ![](assets/new.png)  
 - [2022-06-17-不会乘法表怎么做乘法？这个远古的算法竟然可以！](https://toutiao.io/k/ltsi0x1) ![](assets/new.png)  
-- [2022-06-17-推荐-消息队列原理和选型：Kafka、RocketMQ-、RabbitMQ-和-ActiveMQ](https://toutiao.io/k/nuwnwro) ![](assets/new.png)  
-- [2022-06-17-推荐-总监的烦恼：技术丢了怎么办？](https://toutiao.io/k/rzytby1) ![](assets/new.png)  
 - [2022-06-17-推荐-MongoDB全方位知识图谱！](https://toutiao.io/k/efxw4nr) ![](assets/new.png)  
+- [2022-06-17-推荐-总监的烦恼：技术丢了怎么办？](https://toutiao.io/k/rzytby1) ![](assets/new.png)  
+- [2022-06-17-推荐-消息队列原理和选型：Kafka、RocketMQ-、RabbitMQ-和-ActiveMQ](https://toutiao.io/k/nuwnwro) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2022-06-17 04:58:02。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-06-17 05:16:52。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-06-17-用了-OpenCore-Legacy-Patcher-老-iMac-18,3-终于用上了-Universal-control](https://www.v2ex.com/t/860273) 
+- [2022-06-17-求一名全职技术写作者-Technical-Writer，做业界一流的开源产品文档](https://www.v2ex.com/t/860272) 
 - [2022-06-17-MIUI-蓝牙固件升级后的大-BUG](https://www.v2ex.com/t/860270) 
 - [2022-06-17-如何看待马斯克说要让-twitter-向-wechat-和-tiktok-学习？](https://www.v2ex.com/t/860267) 
 - [2022-06-17-经过米家崩溃，想和大家讨论一下智能家居本地化的可能性。](https://www.v2ex.com/t/860266) 
@@ -47,6 +49,3 @@
 - [2022-06-17-v2ex-403-怎么解除](https://www.v2ex.com/t/860227) 
 - [2022-06-17-100-万如何做到稳定年化-5~8-个点？](https://www.v2ex.com/t/860226) 
 - [2022-06-17-安卓记账软件哪个好用呢？](https://www.v2ex.com/t/860225) 
-- [2022-06-17-迈入中年，想选购一个-NAS，请大伙儿给个建议](https://www.v2ex.com/t/860224) 
-- [2022-06-17-JVM-内存](https://www.v2ex.com/t/860223) 
-- [2022-06-17-成都-物联网-帮公司发个招聘，招各种高级产品、前端、后端、移动、嵌入式](https://www.v2ex.com/t/860222) 

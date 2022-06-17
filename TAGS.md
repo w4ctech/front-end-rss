@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-06-17 15:43:47。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-06-17 16:24:10。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -183,7 +183,6 @@
 - [【张鑫旭-鑫空间-鑫生活】深入-JS-new-Function-语法](https://www.zhangxinxu.com/wordpress/2022/04/js-new-function/)
 - [【张鑫旭-鑫空间-鑫生活】小tips:-JS字体加载失败或完毕的检测](https://www.zhangxinxu.com/wordpress/2022/04/js-font-face-load/)
 - [【张鑫旭-鑫空间-鑫生活】CSS实现滚动高度自动变小的粘滞效果](https://www.zhangxinxu.com/wordpress/2022/04/css-sticky-size-change/)
-- [【V2EX】给-fetch-github-hosts-写了服务/客户端](https://www.v2ex.com/t/860364)
 - [......【查看更多】......](./details/tags/javascript.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -203,7 +202,6 @@
 - [【张鑫旭-鑫空间-鑫生活】详解日后定会大规模使用的CSS-@layer-规则](https://www.zhangxinxu.com/wordpress/2022/05/css-layer-rule/)
 - [【张鑫旭-鑫空间-鑫生活】CSS必学基础：理解CSS中的级联规则](https://www.zhangxinxu.com/wordpress/2022/05/deep-in-css-cascade/)
 - [【张鑫旭-鑫空间-鑫生活】使用CSS-size-adjust和unicode-range改变任意文字尺寸](https://www.zhangxinxu.com/wordpress/2022/03/css-size-adjust-font-unicode-range/)
-- [【V2EX】6-月-19-日-周日，华为-Serverless-等你来捧场](https://www.v2ex.com/t/860363)
 - [......【查看更多】......](./details/tags/css.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

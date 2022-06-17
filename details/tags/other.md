@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-06-17 15:43:47。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-06-17 16:24:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,12 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-06-17-求推荐-墨水屏电子词典](https://www.v2ex.com/t/860416) 
+- [2022-06-17-有哪些途径可以找发票？](https://www.v2ex.com/t/860415) 
+- [2022-06-17-既然都讲「指甲不会划伤屏幕」，那为什么我手机的中间偏右下处，集中出现大量细微划痕，且轨迹接近右手大拇指滑动的轨迹？而左上角及右下角（对应掌心）则几乎没...](https://www.v2ex.com/t/860414) 
+- [2022-06-17-该不该买车呢，新能源还是油车](https://www.v2ex.com/t/860413) 
+- [2022-06-17-想了解“概念”这个汉语词汇的词源，搜索引擎的搜索关键词应该用什么？](https://www.v2ex.com/t/860411) 
+- [2022-06-17-iOS15-能越狱了吗？](https://www.v2ex.com/t/860410) 
 - [2022-06-17-google-翻译也菠菜污染了](https://www.v2ex.com/t/860408) 
 - [2022-06-17-电信是不是刻意阻碍微软的网络服务？](https://www.v2ex.com/t/860407) 
 - [2022-06-17-湖南电信有什么办法提上传速度吗](https://www.v2ex.com/t/860406) 
@@ -1941,9 +1947,6 @@
 - [2022-06-17-2022-618-求推荐一款笔记本](https://www.v2ex.com/t/860369) 
 - [2022-06-17-WeChat（微信海外版）不绑定手机号无法添加好友、加群、修改信息了](https://www.v2ex.com/t/860368) 
 - [2022-06-17-中文互联网为什么没有-reddit,-stackoverflow？](https://www.v2ex.com/t/860367) 
-- [2022-06-17-越狱越狱会被封微信号](https://www.v2ex.com/t/860366) 
-- [2022-06-17-给黑苹果-/-黑群晖开源项目提交-PR-有法律（侵权）风险吗？](https://www.v2ex.com/t/860362) 
-- [2022-06-17-Intel-迁移到-M1-软件需要重装吗？](https://www.v2ex.com/t/860361) 
 - [2022-06-17-如何让混沌工程实验降本增效-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15130&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fchaos-engineering-efficiency%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-06-17-关于分享的意义-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15129&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fwriting-and-share%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-06-17-恶意技术时代的负责任技术-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15128&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fresponsible-tech%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1974,6 +1977,6 @@
 - [2022-06-17-全面理解云上网络](https://toutiao.io/k/qm41zk6) 
 - [2022-06-17-独立开发变现周刊（第59期）：习惯追踪应用Habitify的故事，6个月从0到月收入2.1万美元](https://toutiao.io/k/7sxpwk8) 
 - [2022-06-17-官宣：Apache-Doris-顺利毕业，成为-ASF-顶级项目！](https://toutiao.io/k/28h01kt) 
-- [2022-06-17-推荐-MongoDB全方位知识图谱！](https://toutiao.io/k/efxw4nr) 
 - [2022-06-17-推荐-消息队列原理和选型：Kafka、RocketMQ-、RabbitMQ-和-ActiveMQ](https://toutiao.io/k/nuwnwro) 
+- [2022-06-17-推荐-MongoDB全方位知识图谱！](https://toutiao.io/k/efxw4nr) 
 - [2022-06-17-推荐-总监的烦恼：技术丢了怎么办？](https://toutiao.io/k/rzytby1) 

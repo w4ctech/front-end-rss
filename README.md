@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-06-17 10:42:01，:rocket: 更新条数: +2024， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-06-17 11:12:31，:rocket: 更新条数: +2024， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,9 @@
 </summary>
 
 
+- [2022-06-17-6-月-19-日-周日，华为-Serverless-等你来捧场](https://www.v2ex.com/t/860363) ![](assets/new.png)  
+- [2022-06-17-给黑苹果-/-黑群晖开源项目提交-PR-有法律（侵权）风险吗？](https://www.v2ex.com/t/860362) ![](assets/new.png)  
+- [2022-06-17-Intel-迁移到-M1-软件需要重装吗？](https://www.v2ex.com/t/860361) ![](assets/new.png)  
 - [2022-06-17-Android-上-smzdm-应用强制走流量](https://www.v2ex.com/t/860359) ![](assets/new.png)  
 - [2022-06-17-Ventura-支持了通过-HDMI-2.1-输出-4K120hz，但声音输出产生了问题](https://www.v2ex.com/t/860358) ![](assets/new.png)  
 - [2022-06-17-有支持-paypal-的机场推荐不？](https://www.v2ex.com/t/860357) ![](assets/new.png)  
@@ -508,9 +511,6 @@
 - [2022-06-17-AMD-的积热到底是什么意思？](https://www.v2ex.com/t/860343) ![](assets/new.png)  
 - [2022-06-17-周五了，晚上跑步吧](https://www.v2ex.com/t/860342) ![](assets/new.png)  
 - [2022-06-17-手机号被泄露，天天被推销短信轰炸，求解](https://www.v2ex.com/t/860341) ![](assets/new.png)  
-- [2022-06-17-区块链企业内推---大量研发、技术、运营、产品等岗位均有招聘](https://www.v2ex.com/t/860340) ![](assets/new.png)  
-- [2022-06-17-Windows-更新失败：-0x80040154](https://www.v2ex.com/t/860339) ![](assets/new.png)  
-- [2022-06-17-快来看，免费的-serveless-定时任务！](https://www.v2ex.com/t/860338) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -572,7 +572,7 @@
 - [2022-06-17-全面理解云上网络](https://toutiao.io/k/qm41zk6) ![](assets/new.png)  
 - [2022-06-17-独立开发变现周刊（第59期）：习惯追踪应用Habitify的故事，6个月从0到月收入2.1万美元](https://toutiao.io/k/7sxpwk8) ![](assets/new.png)  
 - [2022-06-17-官宣：Apache-Doris-顺利毕业，成为-ASF-顶级项目！](https://toutiao.io/k/28h01kt) ![](assets/new.png)  
-- [2022-06-17-推荐-MongoDB全方位知识图谱！](https://toutiao.io/k/efxw4nr) ![](assets/new.png)  
+- [2022-06-17-推荐-总监的烦恼：技术丢了怎么办？](https://toutiao.io/k/rzytby1) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

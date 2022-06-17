@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-06-17 11:39:35。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-06-17 12:27:14。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -185,7 +185,6 @@
 - [【张鑫旭-鑫空间-鑫生活】CSS实现滚动高度自动变小的粘滞效果](https://www.zhangxinxu.com/wordpress/2022/04/css-sticky-size-change/)
 - [【V2EX】给-fetch-github-hosts-写了服务/客户端](https://www.v2ex.com/t/860364)
 - [【V2EX】大家在做编辑的时候，怎么提交表单？](https://www.v2ex.com/t/860334)
-- [【V2EX】感觉-kotlin-需要像-js-一样出一个-good-part](https://www.v2ex.com/t/860320)
 - [......【查看更多】......](./details/tags/javascript.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

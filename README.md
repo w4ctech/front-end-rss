@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-06-17 11:39:35，:rocket: 更新条数: +2025， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-06-17 12:27:14，:rocket: 更新条数: +2027， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,10 @@
 </summary>
 
 
+- [2022-06-17-2022-618-求推荐一款笔记本](https://www.v2ex.com/t/860369) ![](assets/new.png)  
+- [2022-06-17-WeChat（微信海外版）不绑定手机号无法添加好友、加群、修改信息了](https://www.v2ex.com/t/860368) ![](assets/new.png)  
+- [2022-06-17-中文互联网为什么没有-reddit,-stackoverflow？](https://www.v2ex.com/t/860367) ![](assets/new.png)  
+- [2022-06-17-越狱越狱会被封微信号](https://www.v2ex.com/t/860366) ![](assets/new.png)  
 - [2022-06-17-既然都在裁员，我就发点招聘的吧，大厂流量安全方向招人](https://www.v2ex.com/t/860365) ![](assets/new.png)  
 - [2022-06-17-给-fetch-github-hosts-写了服务/客户端](https://www.v2ex.com/t/860364) ![](assets/new.png)  
 - [2022-06-17-6-月-19-日-周日，华为-Serverless-等你来捧场](https://www.v2ex.com/t/860363) ![](assets/new.png)  
@@ -507,10 +511,6 @@
 - [2022-06-17-现在想买个二手-ps4-pro](https://www.v2ex.com/t/860349) ![](assets/new.png)  
 - [2022-06-17-Html-中-lang=zh-怎么在手机上不起作用？](https://www.v2ex.com/t/860348) ![](assets/new.png)  
 - [2022-06-17-图吧版-12-盘静音-nas-方案分享](https://www.v2ex.com/t/860347) ![](assets/new.png)  
-- [2022-06-17-ITX-配置建议](https://www.v2ex.com/t/860346) ![](assets/new.png)  
-- [2022-06-17-M1-芯片的国行-Mac-是否像-iPad-/-iPhone-一样有硬件限制？](https://www.v2ex.com/t/860345) ![](assets/new.png)  
-- [2022-06-17-windows-下面有没有非常轻量的-git-GUI-工具？](https://www.v2ex.com/t/860344) ![](assets/new.png)  
-- [2022-06-17-AMD-的积热到底是什么意思？](https://www.v2ex.com/t/860343) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -555,24 +555,24 @@
 
 - [2022-06-17-30款提升组织效能-SaaS-工具，我们的宝藏工具箱大公开](https://toutiao.io/k/r64b4s8) ![](assets/new.png)  
 - [2022-06-17-Redis夺命52连问](https://toutiao.io/k/he3fzao) ![](assets/new.png)  
-- [2022-06-17-如何使用-ThingsBoard-接入-MQTT-数据](https://toutiao.io/k/kuubxbf) ![](assets/new.png)  
 - [2022-06-17-前端日志管理模块的设计与实现](https://toutiao.io/k/3vvmeex) ![](assets/new.png)  
+- [2022-06-17-如何使用-ThingsBoard-接入-MQTT-数据](https://toutiao.io/k/kuubxbf) ![](assets/new.png)  
 - [2022-06-17-Alibaba/IOC-golang-正式开源-——打造服务于go开发者的IOC框架](https://toutiao.io/k/x3yy1c6) ![](assets/new.png)  
-- [2022-06-17-端智能在大众点评搜索重排序的应用实践](https://toutiao.io/k/7wlxj5b) ![](assets/new.png)  
 - [2022-06-17-小小故障排查三天，早用上可观测性哪来这么多麻烦事！](https://toutiao.io/k/y56da2n) ![](assets/new.png)  
+- [2022-06-17-端智能在大众点评搜索重排序的应用实践](https://toutiao.io/k/7wlxj5b) ![](assets/new.png)  
 - [2022-06-17-给初创公司审核代码5年，我总结了这十几条经验](https://toutiao.io/k/chrvbnj) ![](assets/new.png)  
 - [2022-06-17-字节跳动一站式数据治理解决方案及平台架构](https://toutiao.io/k/72eo0la) ![](assets/new.png)  
 - [2022-06-17-Snowflake：数据仓库的终极形态](https://toutiao.io/k/21e08gi) ![](assets/new.png)  
 - [2022-06-17-大厂也在用的-6种-数据脱敏方案，别做泄密内鬼](https://toutiao.io/k/071zwfj) ![](assets/new.png)  
 - [2022-06-17-基于Apache-APISIX打造高性能API网关](https://toutiao.io/k/htul6gb) ![](assets/new.png)  
 - [2022-06-17-懒人python操作，代码中永远只需要导入一个库...](https://toutiao.io/k/tuj4wrt) ![](assets/new.png)  
-- [2022-06-17-不会乘法表怎么做乘法？这个远古的算法竟然可以！](https://toutiao.io/k/ltsi0x1) ![](assets/new.png)  
 - [2022-06-17-聊聊内存模型与内存序](https://toutiao.io/k/broj9m6) ![](assets/new.png)  
+- [2022-06-17-不会乘法表怎么做乘法？这个远古的算法竟然可以！](https://toutiao.io/k/ltsi0x1) ![](assets/new.png)  
 - [2022-06-17-【API-优先的设计】工具篇](https://toutiao.io/k/gwwvql5) ![](assets/new.png)  
 - [2022-06-17-全面理解云上网络](https://toutiao.io/k/qm41zk6) ![](assets/new.png)  
 - [2022-06-17-独立开发变现周刊（第59期）：习惯追踪应用Habitify的故事，6个月从0到月收入2.1万美元](https://toutiao.io/k/7sxpwk8) ![](assets/new.png)  
 - [2022-06-17-官宣：Apache-Doris-顺利毕业，成为-ASF-顶级项目！](https://toutiao.io/k/28h01kt) ![](assets/new.png)  
-- [2022-06-17-推荐-总监的烦恼：技术丢了怎么办？](https://toutiao.io/k/rzytby1) ![](assets/new.png)  
+- [2022-06-17-推荐-消息队列原理和选型：Kafka、RocketMQ-、RabbitMQ-和-ActiveMQ](https://toutiao.io/k/nuwnwro) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

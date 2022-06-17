@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-06-17 17:40:23，:rocket: 更新条数: +2027， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-06-17 18:16:39，:rocket: 更新条数: +2027， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-06-17-大促-Z4-到手](https://www.v2ex.com/t/860426) ![](assets/new.png)  
+- [2022-06-17-求教有什么优雅的办法备份服务器数据](https://www.v2ex.com/t/860425) ![](assets/new.png)  
 - [2022-06-17-请教有没有可视化架构图或导图块节点方式进行档案或知识记录管理的应用](https://www.v2ex.com/t/860424) ![](assets/new.png)  
 - [2022-06-17-最近鼠标光标总是突然跳到屏幕左上角](https://www.v2ex.com/t/860423) ![](assets/new.png)  
 - [2022-06-17-你们认为你们的工作有意义吗？](https://www.v2ex.com/t/860422) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-06-17-湖南电信有什么办法提上传速度吗](https://www.v2ex.com/t/860406) ![](assets/new.png)  
 - [2022-06-17-wsl2-怎么使用-WebSocket-代理？](https://www.v2ex.com/t/860405) ![](assets/new.png)  
 - [2022-06-17-字节跳动-CDI-团队招人啦!](https://www.v2ex.com/t/860404) ![](assets/new.png)  
-- [2022-06-17-哪位有-disco-diffusion，-midjourney-或-DALL-E-2-的群或中文社区吗？](https://www.v2ex.com/t/860403) ![](assets/new.png)  
-- [2022-06-17-macOS-上有类似-“多窗口同步器”-的群控操作软件吗？](https://www.v2ex.com/t/860400) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -572,7 +572,7 @@
 - [2022-06-17-全面理解云上网络](https://toutiao.io/k/qm41zk6) ![](assets/new.png)  
 - [2022-06-17-独立开发变现周刊（第59期）：习惯追踪应用Habitify的故事，6个月从0到月收入2.1万美元](https://toutiao.io/k/7sxpwk8) ![](assets/new.png)  
 - [2022-06-17-官宣：Apache-Doris-顺利毕业，成为-ASF-顶级项目！](https://toutiao.io/k/28h01kt) ![](assets/new.png)  
-- [2022-06-17-推荐-MongoDB全方位知识图谱！](https://toutiao.io/k/efxw4nr) ![](assets/new.png)  
+- [2022-06-17-推荐-消息队列原理和选型：Kafka、RocketMQ-、RabbitMQ-和-ActiveMQ](https://toutiao.io/k/nuwnwro) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

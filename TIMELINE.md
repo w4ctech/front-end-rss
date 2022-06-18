@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-06-18 22:39:13。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-06-18 23:02:49。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -70,6 +70,7 @@
 
 - [【张鑫旭-鑫空间-鑫生活】2022-06-12-基于文字的URL锚点定位与::target-text样式设置](https://www.zhangxinxu.com/wordpress/2022/06/url-anchor-target-text/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-06-11-介绍一种CSS变量未定义语法也OK的小妙招](https://www.zhangxinxu.com/wordpress/2022/06/css-var-optional-empty-trick/) 
+- [【V2EX】2022-06-18-homepod-mini-没法支持杜比音效吗？求推荐-sound-bar](https://www.v2ex.com/t/860601) 
 - [【V2EX】2022-06-18-iPhone-备忘录的时间能够被修改吗](https://www.v2ex.com/t/860600) 
 - [【V2EX】2022-06-18-macbook-pro-发热堪比太阳](https://www.v2ex.com/t/860599) 
 - [【V2EX】2022-06-18-回不去的青春](https://www.v2ex.com/t/860598) 
@@ -99,8 +100,6 @@
 - [【V2EX】2022-06-18-单视频文件-42.5-GB-怎么实现在电视上观看？电视存储共-16GB。-TF-卡只有-32GB](https://www.v2ex.com/t/860557) 
 - [【V2EX】2022-06-18-有哪些耳机适合在嘈杂的环境中通话？](https://www.v2ex.com/t/860556) 
 - [【V2EX】2022-06-18-异地生活透心的孤独感](https://www.v2ex.com/t/860555) 
-- [【V2EX】2022-06-18-iPhone-13-Pro-Max-京东自营-全新未拆](https://www.v2ex.com/t/860552) 
-- [【V2EX】2022-06-18-开了个陪聊店，感兴趣可以看一下](https://www.v2ex.com/t/860551) 
 - [【技术头条】2022-06-18-如何构建团队内的反馈氛围-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15131&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffeedback-in-agile-practice%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-06-18-如何让混沌工程实验降本增效-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15130&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fchaos-engineering-efficiency%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-06-18-关于分享的意义-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15129&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fwriting-and-share%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -121,20 +120,12 @@
 - [【技术头条】2022-06-18-一定用得到的C++资源，限时开放收藏！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15114&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494135%26amp%3Bidx%3D1%26amp%3Bsn%3Db4e7fa404171dd55f0a3a100ac2b3156%26amp%3Bchksm%3Dfa3f08accd4881bad00269d8624fc435e39c28e7f3dcc35cbe306323fc64ba5daaf6affe751b%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-06-18-Airbnb是如何从JavaScript迁移到TypeScript的？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15113&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494135%26amp%3Bidx%3D2%26amp%3Bsn%3Dd5957f395d6f57e3faf6c6d8adea469f%26amp%3Bchksm%3Dfa3f08accd4881ba189025550b3f4af15ac7eda26d8274b4bedec5b13ebd27c39c1e8edd540a%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-06-18-什么是子网掩码?-www.awaimai.com](https://blogread.cn/news/go.php?idItem=15112&url=https%3A%2F%2Fwww.awaimai.com%2F2933.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
-- [【开发者头条】2022-06-18-优质网站同好者周刊（第-070-期）-|-倾城博客](https://toutiao.io/k/y6s6dfg) 
-- [【开发者头条】2022-06-18-6年时间，我做了一个纯净的-Java-学习&面试网站！](https://toutiao.io/k/q51bb2i) 
-- [【开发者头条】2022-06-18-python-本地音乐播放器制作过程（附完整源码）](https://toutiao.io/k/86zvrkc) 
-- [【开发者头条】2022-06-18-为什么BFE可以取代Nginx](https://toutiao.io/k/zaq2g7m) 
-- [【开发者头条】2022-06-18-Java、Go-和-Python-的多线程性能对比](https://toutiao.io/k/qac29q3) 
-- [【开发者头条】2022-06-18-美团综合业务推荐系统的质量模型及实践](https://toutiao.io/k/1hnkh1o) 
-- [【开发者头条】2022-06-18-李向林：OPPO自研大规模知识图谱及其在小布助手中的应用](https://toutiao.io/k/ahnl8qr) 
 - [【开发者头条】2022-06-18-欢迎加入读者圈子，一起交流！](https://toutiao.io/k/qbln5t9) 
-- [【开发者头条】2022-06-18-【第2641期】最长公共子序列LCS算法在重新排序项目中的应用](https://toutiao.io/k/cp239ls) 
-- [【开发者头条】2022-06-18-推荐-我们公司使用了-5-年的系统限流方案！从实现到部署实战详解，稳的一批!​](https://toutiao.io/k/4tls39t) 
-- [【开发者头条】2022-06-18-推荐-MongoDB全方位知识图谱！](https://toutiao.io/k/efxw4nr) 
-- [【开发者头条】2022-06-18-推荐-消息队列原理和选型：Kafka、RocketMQ-、RabbitMQ-和-ActiveMQ](https://toutiao.io/k/nuwnwro) 
-- [【开发者头条】2022-06-18-推荐-总监的烦恼：技术丢了怎么办？](https://toutiao.io/k/rzytby1) 
 - [【开发者头条】2022-06-18-推荐-高并发下如何防重？](https://toutiao.io/k/ulsc0so) 
+- [【开发者头条】2022-06-18-推荐-总监的烦恼：技术丢了怎么办？](https://toutiao.io/k/rzytby1) 
+- [【开发者头条】2022-06-18-推荐-我们公司使用了-5-年的系统限流方案！从实现到部署实战详解，稳的一批!​](https://toutiao.io/k/4tls39t) 
+- [【开发者头条】2022-06-18-推荐-消息队列原理和选型：Kafka、RocketMQ-、RabbitMQ-和-ActiveMQ](https://toutiao.io/k/nuwnwro) 
+- [【开发者头条】2022-06-18-推荐-MongoDB全方位知识图谱！](https://toutiao.io/k/efxw4nr) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

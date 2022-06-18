@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-06-18 08:17:05，:rocket: 更新条数: +2014， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-06-18 08:43:16，:rocket: 更新条数: +2013， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,10 @@
 </summary>
 
 
+- [2022-06-18-”App-全球化“终结了？以后一个地区一个版本的-App-时代要到来了？](https://www.v2ex.com/t/860518) ![](assets/new.png)  
+- [2022-06-18-上海-不加班-外企-招-Java-、C++、安卓、性能测试、支持工程师](https://www.v2ex.com/t/860517) ![](assets/new.png)  
+- [2022-06-18-现在还有完全不开孔的-iPad-钢化膜吗？](https://www.v2ex.com/t/860515) ![](assets/new.png)  
+- [2022-06-18-这两天有用-iOS16-的-v-友无法从-app-store-下载-app-的么？](https://www.v2ex.com/t/860514) ![](assets/new.png)  
 - [2022-06-18-目前有哪些使用-WinUI-3-的第三方软件？](https://www.v2ex.com/t/860510) ![](assets/new.png)  
 - [2022-06-18-断点续传与-bt-下载](https://www.v2ex.com/t/860508) ![](assets/new.png)  
 - [2022-06-18-求助-typescript-的嵌套类型检查问题](https://www.v2ex.com/t/860507) ![](assets/new.png)  
@@ -507,10 +511,6 @@
 - [2022-06-18-把/var/log-链接到-U-盘上会存在什么问题吗](https://www.v2ex.com/t/860495) ![](assets/new.png)  
 - [2022-06-18-1Gbps-的服务器建节点，没有损耗，我用无限大的家宽最多能有多大的下载速度？](https://www.v2ex.com/t/860493) ![](assets/new.png)  
 - [2022-06-18-网页上代码块的水平滚动栏没法滚动是被限制了吗？](https://www.v2ex.com/t/860492) ![](assets/new.png)  
-- [2022-06-18-用充电宝给-M1-Macbook-Air-供电（不是充电）很爽](https://www.v2ex.com/t/860491) ![](assets/new.png)  
-- [2022-06-18-618-各位都买了啥？](https://www.v2ex.com/t/860489) ![](assets/new.png)  
-- [2022-06-18-升级完-Monterey，竟然释放出-100-多-G](https://www.v2ex.com/t/860488) ![](assets/new.png)  
-- [2022-06-18-win10-开代理就不能有个提示吗](https://www.v2ex.com/t/860487) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

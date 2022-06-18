@@ -10272,8 +10272,13 @@
         "date": "2022-06-18"
       },
       {
-        "title": "[推荐] 消息队列原理和选型：Kafka、RocketMQ 、RabbitMQ 和 ActiveMQ",
-        "link": "https://toutiao.io/k/nuwnwro",
+        "title": "[推荐] 高并发下如何防重？",
+        "link": "https://toutiao.io/k/ulsc0so",
+        "date": "2022-06-18"
+      },
+      {
+        "title": "[推荐] 我们公司使用了 5 年的系统限流方案！从实现到部署实战详解，稳的一批!​",
+        "link": "https://toutiao.io/k/4tls39t",
         "date": "2022-06-18"
       },
       {
@@ -10282,13 +10287,8 @@
         "date": "2022-06-18"
       },
       {
-        "title": "[推荐] 高并发下如何防重？",
-        "link": "https://toutiao.io/k/ulsc0so",
-        "date": "2022-06-18"
-      },
-      {
-        "title": "[推荐] 我们公司使用了 5 年的系统限流方案！从实现到部署实战详解，稳的一批!​",
-        "link": "https://toutiao.io/k/4tls39t",
+        "title": "[推荐] 消息队列原理和选型：Kafka、RocketMQ 、RabbitMQ 和 ActiveMQ",
+        "link": "https://toutiao.io/k/nuwnwro",
         "date": "2022-06-18"
       }
     ]

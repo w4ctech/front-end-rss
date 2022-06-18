@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-06-18 04:27:55。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-06-18 04:51:02。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,7 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-06-18-有这种可以支持-app、web、桌面客户端上报埋点数据的开放平台吗？](https://www.v2ex.com/t/860486) 
 - [2022-06-18-头部-web3-公司在招，一次测评，高效匹配，全免费](https://www.v2ex.com/t/860483) 
 - [2022-06-18-你们的海淘订单已经延误了多久？](https://www.v2ex.com/t/860482) 
 - [2022-06-18-求推荐你觉得很有必要看的书](https://www.v2ex.com/t/860479) 
@@ -1939,8 +1940,6 @@
 - [2022-06-18-折叠雨伞推荐？](https://www.v2ex.com/t/860440) 
 - [2022-06-18-出一台服务器](https://www.v2ex.com/t/860438) 
 - [2022-06-18-怎么设置苹果笔记本的最大线程数](https://www.v2ex.com/t/860437) 
-- [2022-06-18-百度翻译结果错乱](https://www.v2ex.com/t/860436) 
-- [2022-06-18-关于-MenubarX-的疑问](https://www.v2ex.com/t/860435) 
 - [2022-06-18-如何让混沌工程实验降本增效-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15130&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fchaos-engineering-efficiency%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-06-18-关于分享的意义-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15129&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fwriting-and-share%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-06-18-恶意技术时代的负责任技术-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15128&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fresponsible-tech%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1960,6 +1959,6 @@
 - [2022-06-18-欢迎加入读者圈子，一起交流！](https://toutiao.io/k/qbln5t9) 
 - [2022-06-18-美团综合业务推荐系统的质量模型及实践](https://toutiao.io/k/1hnkh1o) 
 - [2022-06-18-推荐-MongoDB全方位知识图谱！](https://toutiao.io/k/efxw4nr) 
-- [2022-06-18-推荐-消息队列原理和选型：Kafka、RocketMQ-、RabbitMQ-和-ActiveMQ](https://toutiao.io/k/nuwnwro) 
 - [2022-06-18-推荐-总监的烦恼：技术丢了怎么办？](https://toutiao.io/k/rzytby1) 
 - [2022-06-18-推荐-高并发下如何防重？](https://toutiao.io/k/ulsc0so) 
+- [2022-06-18-推荐-消息队列原理和选型：Kafka、RocketMQ-、RabbitMQ-和-ActiveMQ](https://toutiao.io/k/nuwnwro) 

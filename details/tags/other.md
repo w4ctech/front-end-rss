@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-06-18 15:13:16。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-06-18 15:40:38。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,7 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-06-18-MBP-摸屏幕后盖有静电震动的感觉，拔了电源就没事了](https://www.v2ex.com/t/860589) 
 - [2022-06-18-2022-年可用的卫星窄带宽带服务有哪些？](https://www.v2ex.com/t/860587) 
 - [2022-06-18-618-整个电水壶-推荐一波-小熊-bear-咋样](https://www.v2ex.com/t/860585) 
 - [2022-06-18-45-元/年家庭-Office365-车位-每年-6-月-18-日续费~](https://www.v2ex.com/t/860582) 
@@ -1951,7 +1952,7 @@
 - [2022-06-18-美团综合业务推荐系统的质量模型及实践](https://toutiao.io/k/1hnkh1o) 
 - [2022-06-18-李向林：OPPO自研大规模知识图谱及其在小布助手中的应用](https://toutiao.io/k/ahnl8qr) 
 - [2022-06-18-欢迎加入读者圈子，一起交流！](https://toutiao.io/k/qbln5t9) 
-- [2022-06-18-推荐-消息队列原理和选型：Kafka、RocketMQ-、RabbitMQ-和-ActiveMQ](https://toutiao.io/k/nuwnwro) 
-- [2022-06-18-推荐-总监的烦恼：技术丢了怎么办？](https://toutiao.io/k/rzytby1) 
 - [2022-06-18-推荐-MongoDB全方位知识图谱！](https://toutiao.io/k/efxw4nr) 
+- [2022-06-18-推荐-总监的烦恼：技术丢了怎么办？](https://toutiao.io/k/rzytby1) 
 - [2022-06-18-推荐-高并发下如何防重？](https://toutiao.io/k/ulsc0so) 
+- [2022-06-18-推荐-消息队列原理和选型：Kafka、RocketMQ-、RabbitMQ-和-ActiveMQ](https://toutiao.io/k/nuwnwro) 

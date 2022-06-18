@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-06-18 07:12:22。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-06-18 07:37:12。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -71,6 +71,7 @@
 
 
 
+- [【V2EX】求助-typescript-的嵌套类型检查问题](https://www.v2ex.com/t/860507)
 - [【技术头条】Airbnb是如何从JavaScript迁移到TypeScript的？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15113&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494135%26amp%3Bidx%3D2%26amp%3Bsn%3Dd5957f395d6f57e3faf6c6d8adea469f%26amp%3Bchksm%3Dfa3f08accd4881ba189025550b3f4af15ac7eda26d8274b4bedec5b13ebd27c39c1e8edd540a%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [......【查看更多】......](./details/tags/typescript.md)
 
@@ -238,7 +239,6 @@
 - [【武汉肺炎防疫全纪录(财新网)】广州17岁男生在定点医院参加高考-特殊考场视频监考](https://m.caixin.com/m/2021-06-05/101723418.html)
 - [【武汉肺炎防疫全纪录(财新网)】林郑月娥率13高官直播接种科兴疫苗-复星疫苗预计周中到港](https://m.caixin.com/m/2021-02-22/101665724.html)
 - [【V2EX】MacBook-Pro-2020-13.3in-全屏幕播放-Netflix-视频的时候会出现红色竖线](https://www.v2ex.com/t/860485)
-- [【V2EX】请问有会视频剪辑的吗，请教一个效果](https://www.v2ex.com/t/860457)
 - [【开发者头条】python-本地音乐播放器制作过程（附完整源码）](https://toutiao.io/k/86zvrkc)
 - [......【查看更多】......](./details/tags/audio-video.md)
 
@@ -284,7 +284,6 @@
 - [【张鑫旭-鑫空间-鑫生活】基于文字的URL锚点定位与::target-text样式设置](https://www.zhangxinxu.com/wordpress/2022/06/url-anchor-target-text/)
 - [【V2EX】联想电脑-edge-浏览器主页被-baidu-劫持，如何修复？](https://www.v2ex.com/t/860470)
 - [【V2EX】🛹---My-Ollie-last-year](https://www.v2ex.com/t/860469)
-- [【V2EX】input-file-能够上传远程-url-文件吗？](https://www.v2ex.com/t/860456)
 - [......【查看更多】......](./details/tags/browser.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

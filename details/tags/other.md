@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-06-18 06:44:50。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-06-18 07:12:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,10 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-06-18-catalina-黑果的隔空播放搜不到其他苹果电脑](https://www.v2ex.com/t/860504) 
+- [2022-06-18-X86-的-iMac-还有必要留吗？](https://www.v2ex.com/t/860503) 
+- [2022-06-18-All-Programming-Endings](https://www.v2ex.com/t/860502) 
+- [2022-06-18-请问还有-appstore-较低折扣充值的地方吗](https://www.v2ex.com/t/860501) 
 - [2022-06-18-微信电脑版信息同步的问题](https://www.v2ex.com/t/860499) 
 - [2022-06-18-这样的火狐网页收藏插件应该怎样分享给他人使用？](https://www.v2ex.com/t/860497) 
 - [2022-06-18-请问下大佬，找合适的外包团队有哪些途径](https://www.v2ex.com/t/860496) 
@@ -1935,7 +1939,6 @@
 - [2022-06-18-只需-6-刀/月-最低价的台湾-VPS-IP-线路一般-但价格真实惠](https://www.v2ex.com/t/860460) 
 - [2022-06-18-mac-系统下有没有什么软件可以限制软件的上传行为？](https://www.v2ex.com/t/860458) 
 - [2022-06-18-关于安卓-PDA-项目开发，应该用哪种前端技术？](https://www.v2ex.com/t/860455) 
-- [2022-06-18-外卖骑手对于长距离》5km-全城送的态度？](https://www.v2ex.com/t/860452) 
 - [2022-06-18-如何让混沌工程实验降本增效-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15130&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fchaos-engineering-efficiency%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-06-18-关于分享的意义-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15129&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fwriting-and-share%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-06-18-恶意技术时代的负责任技术-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15128&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fresponsible-tech%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1954,7 +1957,7 @@
 - [2022-06-18-李向林：OPPO自研大规模知识图谱及其在小布助手中的应用](https://toutiao.io/k/ahnl8qr) 
 - [2022-06-18-欢迎加入读者圈子，一起交流！](https://toutiao.io/k/qbln5t9) 
 - [2022-06-18-美团综合业务推荐系统的质量模型及实践](https://toutiao.io/k/1hnkh1o) 
+- [2022-06-18-推荐-消息队列原理和选型：Kafka、RocketMQ-、RabbitMQ-和-ActiveMQ](https://toutiao.io/k/nuwnwro) 
 - [2022-06-18-推荐-MongoDB全方位知识图谱！](https://toutiao.io/k/efxw4nr) 
 - [2022-06-18-推荐-总监的烦恼：技术丢了怎么办？](https://toutiao.io/k/rzytby1) 
-- [2022-06-18-推荐-消息队列原理和选型：Kafka、RocketMQ-、RabbitMQ-和-ActiveMQ](https://toutiao.io/k/nuwnwro) 
 - [2022-06-18-推荐-高并发下如何防重？](https://toutiao.io/k/ulsc0so) 

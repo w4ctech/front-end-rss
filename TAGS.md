@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-06-19 14:12:02。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-06-19 14:37:19。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -88,7 +88,6 @@
 
 
 - [【武汉肺炎防疫全纪录(财新网)】韩国拟升级首尔疫情管控-法国专业机构建议强制接种疫苗｜大流行手记（7月10日）](https://m.caixin.com/m/2021-07-11/101738786.html)
-- [【技术头条】如何构建团队内的反馈氛围-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15131&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffeedback-in-agile-practice%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [......【查看更多】......](./details/tags/pack-build.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -181,9 +180,8 @@
 - [【张鑫旭-鑫空间-鑫生活】深入-JS-new-Function-语法](https://www.zhangxinxu.com/wordpress/2022/04/js-new-function/)
 - [【张鑫旭-鑫空间-鑫生活】小tips:-JS字体加载失败或完毕的检测](https://www.zhangxinxu.com/wordpress/2022/04/js-font-face-load/)
 - [【张鑫旭-鑫空间-鑫生活】CSS实现滚动高度自动变小的粘滞效果](https://www.zhangxinxu.com/wordpress/2022/04/css-sticky-size-change/)
-- [【V2EX】现在有什么低功耗的路由器可以买的？用来跑-openwrt。](https://www.v2ex.com/t/860680)
+- [【技术头条】JS与条形码的生成-www.zhangxinxu.com](https://blogread.cn/news/go.php?idItem=15152&url=https%3A%2F%2Fwww.zhangxinxu.com%2Fwordpress%2F2022%2F05%2Fjs-barcode%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【技术头条】层次组件的问题-blog.codingnow.com](https://blogread.cn/news/go.php?idItem=15143&url=https%3A%2F%2Fblog.codingnow.com%2F2022%2F03%2Fmultiple_components.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
-- [【技术头条】4个强大的JavaScript运算符-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15134&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494152%26amp%3Bidx%3D2%26amp%3Bsn%3Dc592132bf4d611d6aaaa9e0762aa3130%26amp%3Bchksm%3Dfa3f0b53cd488245ba6d441105126566bdfb8e1982f8679a57ede0c6e0198bdb94546e802ba7%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【开发者头条】C++异步从理论到实践总览篇](https://toutiao.io/k/1hpd84k)
 - [【开发者头条】牛客最新前端-JS-笔试百题](https://toutiao.io/k/f0kdnd9)
 - [......【查看更多】......](./details/tags/javascript.md)
@@ -205,6 +203,8 @@
 - [【张鑫旭-鑫空间-鑫生活】详解日后定会大规模使用的CSS-@layer-规则](https://www.zhangxinxu.com/wordpress/2022/05/css-layer-rule/)
 - [【张鑫旭-鑫空间-鑫生活】CSS必学基础：理解CSS中的级联规则](https://www.zhangxinxu.com/wordpress/2022/05/deep-in-css-cascade/)
 - [【张鑫旭-鑫空间-鑫生活】使用CSS-size-adjust和unicode-range改变任意文字尺寸](https://www.zhangxinxu.com/wordpress/2022/03/css-size-adjust-font-unicode-range/)
+- [【技术头条】Transformer中的缓存机制-www.52nlp.cn](https://blogread.cn/news/go.php?idItem=15156&url=https%3A%2F%2Fwww.52nlp.cn%2Ftransformer%25e4%25b8%25ad%25e7%259a%2584%25e7%25bc%2593%25e5%25ad%2598%25e6%259c%25ba%25e5%2588%25b6%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
+- [【技术头条】使用CSS-size-adjust和unicode-range改变任意文字尺寸-www.zhangxinxu.com](https://blogread.cn/news/go.php?idItem=15150&url=https%3A%2F%2Fwww.zhangxinxu.com%2Fwordpress%2F2022%2F03%2Fcss-size-adjust-font-unicode-range%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [......【查看更多】......](./details/tags/css.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -283,9 +283,6 @@
 - [【张鑫旭-鑫空间-鑫生活】基于文字的URL锚点定位与::target-text样式设置](https://www.zhangxinxu.com/wordpress/2022/06/url-anchor-target-text/)
 - [【V2EX】浏览器插件-The-Great-Filter：过滤你的信息流](https://www.v2ex.com/t/860704)
 - [【V2EX】Back-Pressed-SearchView-ActionView-CollaspeActionView-not-work](https://www.v2ex.com/t/860694)
-- [【技术头条】你的登录接口真的安全吗？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15136&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494155%26amp%3Bidx%3D2%26amp%3Bsn%3Dc44fa068fec8befcf08a914852997671%26amp%3Bchksm%3Dfa3f0b50cd4882460d0c16f21a2222127f965e029631a815bd3bc31e2adb29bc0bb92b33adbe%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
-- [【技术头条】用-poudriere-完成包管理-blog.delphij.net](https://blogread.cn/news/go.php?idItem=15133&url=https%3A%2F%2Fblog.delphij.net%2Fposts%2F2022%2F04%2Fpoudriere%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
-- [【技术头条】libcurl使用线程的方式做DNS解析-phpor.net](https://blogread.cn/news/go.php?idItem=15132&url=https%3A%2F%2Fphpor.net%2Fblog%2Fpost%2F17992%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [......【查看更多】......](./details/tags/browser.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -353,7 +350,6 @@
 
 
 
-- [【V2EX】上海字节跳动招聘资深服务端开发工程师](https://www.v2ex.com/t/860676)
 - [【开发者头条】PHP-面试经常被问到的知识点汇总，对你非常有用](https://toutiao.io/k/njpkhk5)
 - [......【查看更多】......](./details/tags/job-interview.md)
 

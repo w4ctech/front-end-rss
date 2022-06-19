@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-06-19 08:16:10，:rocket: 更新条数: +2013， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-06-19 08:42:11，:rocket: 更新条数: +2015， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,9 @@
 </summary>
 
 
+- [2022-06-19-上海推荐研发相关工作](https://www.v2ex.com/t/860671) ![](assets/new.png)  
+- [2022-06-19-老人视频设备和软件推荐](https://www.v2ex.com/t/860670) ![](assets/new.png)  
+- [2022-06-19-有没有可以一键给图片打水印的-app？](https://www.v2ex.com/t/860669) ![](assets/new.png)  
 - [2022-06-19-谷歌这个网页的效果真是惊艳到我了！有无-v-友知道是如何实现的呢？](https://www.v2ex.com/t/860668) ![](assets/new.png)  
 - [2022-06-19-浅谈-2022-飞鸟源码微投-H5-扫码公众号防封全新运营版机器人开发搭建加入波场-USDT-发展之路](https://www.v2ex.com/t/860667) ![](assets/new.png)  
 - [2022-06-19-求个西湖区收快递的地址](https://www.v2ex.com/t/860666) ![](assets/new.png)  
@@ -508,9 +511,6 @@
 - [2022-06-19-代理问题](https://www.v2ex.com/t/860647) ![](assets/new.png)  
 - [2022-06-19-主机-A-如何访问主机-B-中的-VMware-虚拟机-C?](https://www.v2ex.com/t/860646) ![](assets/new.png)  
 - [2022-06-19-Linux-有哪个桌面是可以多个显示器分别调整缩放的](https://www.v2ex.com/t/860645) ![](assets/new.png)  
-- [2022-06-19-uhd630-核显，-win10-下如何开启-10bit-色深](https://www.v2ex.com/t/860644) ![](assets/new.png)  
-- [2022-06-19-关于购买正版-jetbrains-全家桶，多久收到邮件正常啊](https://www.v2ex.com/t/860643) ![](assets/new.png)  
-- [2022-06-19-ROS+OP-不能正常访问外网咋回事呀?](https://www.v2ex.com/t/860642) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -564,11 +564,11 @@
 - [2022-06-19-关于-LowCode&ProCode-混合研发的思考](https://toutiao.io/k/ur6lnu2) ![](assets/new.png)  
 - [2022-06-19-【干货】超精妙！Twitter开源分布式自增ID算法snowflake，附演算验证过程](https://toutiao.io/k/bz22qgc) ![](assets/new.png)  
 - [2022-06-19-Kubernetes网络难懂？快来看这篇文章](https://toutiao.io/k/cgk9ym2) ![](assets/new.png)  
-- [2022-06-19-推荐-高并发下如何防重？](https://toutiao.io/k/ulsc0so) ![](assets/new.png)  
 - [2022-06-19-推荐-总监的烦恼：技术丢了怎么办？](https://toutiao.io/k/rzytby1) ![](assets/new.png)  
-- [2022-06-19-推荐-MongoDB全方位知识图谱！](https://toutiao.io/k/efxw4nr) ![](assets/new.png)  
+- [2022-06-19-推荐-高并发下如何防重？](https://toutiao.io/k/ulsc0so) ![](assets/new.png)  
 - [2022-06-19-推荐-我们公司使用了-5-年的系统限流方案！从实现到部署实战详解，稳的一批!​](https://toutiao.io/k/4tls39t) ![](assets/new.png)  
 - [2022-06-19-推荐-消息队列原理和选型：Kafka、RocketMQ-、RabbitMQ-和-ActiveMQ](https://toutiao.io/k/nuwnwro) ![](assets/new.png)  
+- [2022-06-19-推荐-MongoDB全方位知识图谱！](https://toutiao.io/k/efxw4nr) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

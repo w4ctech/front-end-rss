@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-06-19 08:16:11。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-06-19 08:42:11。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -70,6 +70,9 @@
 
 - [【张鑫旭-鑫空间-鑫生活】2022-06-12-基于文字的URL锚点定位与::target-text样式设置](https://www.zhangxinxu.com/wordpress/2022/06/url-anchor-target-text/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-06-11-介绍一种CSS变量未定义语法也OK的小妙招](https://www.zhangxinxu.com/wordpress/2022/06/css-var-optional-empty-trick/) 
+- [【V2EX】2022-06-19-上海推荐研发相关工作](https://www.v2ex.com/t/860671) 
+- [【V2EX】2022-06-19-老人视频设备和软件推荐](https://www.v2ex.com/t/860670) 
+- [【V2EX】2022-06-19-有没有可以一键给图片打水印的-app？](https://www.v2ex.com/t/860669) 
 - [【V2EX】2022-06-19-谷歌这个网页的效果真是惊艳到我了！有无-v-友知道是如何实现的呢？](https://www.v2ex.com/t/860668) 
 - [【V2EX】2022-06-19-浅谈-2022-飞鸟源码微投-H5-扫码公众号防封全新运营版机器人开发搭建加入波场-USDT-发展之路](https://www.v2ex.com/t/860667) 
 - [【V2EX】2022-06-19-求个西湖区收快递的地址](https://www.v2ex.com/t/860666) 
@@ -100,7 +103,6 @@
 - [【V2EX】2022-06-19-mac-有线网的-dns-总是被重置](https://www.v2ex.com/t/860627) 
 - [【V2EX】2022-06-19-面试失败可以换岗位再试一次吗？](https://www.v2ex.com/t/860623) 
 - [【V2EX】2022-06-19-那个银行的-VIP，对孩子的教育有帮助？](https://www.v2ex.com/t/860622) 
-- [【V2EX】2022-06-19-简单地问一下有哪些备份加还原的软件？](https://www.v2ex.com/t/860620) 
 - [【技术头条】2022-06-19-五大自动化测试Python框架-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15141&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494220%26amp%3Bidx%3D2%26amp%3Bsn%3D85ff8e8e724e2382877068c50bd57187%26amp%3Bchksm%3Dfa3f0b17cd488201b1973b4e7aa8ed7f19d254c125f8df9a4dcb8d83c4c4377ec523dd6d4579%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-06-19-微软发布的免费文件恢复工具-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15140&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494219%26amp%3Bidx%3D1%26amp%3Bsn%3D1767ba07b078ed794a2116d1c1b557d5%26amp%3Bchksm%3Dfa3f0b10cd488206bab07868dfa09afd6bbd048db5fdeee0a332f725476822dc8c39315c80d6%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-06-19-SpringBoot实现登录拦截器（实战版）-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15139&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494219%26amp%3Bidx%3D2%26amp%3Bsn%3Dd1ea2805bb8e694eab775ea934884928%26amp%3Bchksm%3Dfa3f0b10cd488206c655c9d1b446c0fb12cf23741abb9ecbebb20169ff76da1b0d9733875476%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -132,11 +134,11 @@
 - [【开发者头条】2022-06-19-关于-LowCode&ProCode-混合研发的思考](https://toutiao.io/k/ur6lnu2) 
 - [【开发者头条】2022-06-19-【干货】超精妙！Twitter开源分布式自增ID算法snowflake，附演算验证过程](https://toutiao.io/k/bz22qgc) 
 - [【开发者头条】2022-06-19-Kubernetes网络难懂？快来看这篇文章](https://toutiao.io/k/cgk9ym2) 
-- [【开发者头条】2022-06-19-推荐-高并发下如何防重？](https://toutiao.io/k/ulsc0so) 
 - [【开发者头条】2022-06-19-推荐-总监的烦恼：技术丢了怎么办？](https://toutiao.io/k/rzytby1) 
-- [【开发者头条】2022-06-19-推荐-MongoDB全方位知识图谱！](https://toutiao.io/k/efxw4nr) 
+- [【开发者头条】2022-06-19-推荐-高并发下如何防重？](https://toutiao.io/k/ulsc0so) 
 - [【开发者头条】2022-06-19-推荐-我们公司使用了-5-年的系统限流方案！从实现到部署实战详解，稳的一批!​](https://toutiao.io/k/4tls39t) 
 - [【开发者头条】2022-06-19-推荐-消息队列原理和选型：Kafka、RocketMQ-、RabbitMQ-和-ActiveMQ](https://toutiao.io/k/nuwnwro) 
+- [【开发者头条】2022-06-19-推荐-MongoDB全方位知识图谱！](https://toutiao.io/k/efxw4nr) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

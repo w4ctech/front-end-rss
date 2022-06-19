@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-06-19 05:15:45。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-06-19 05:38:32。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -70,6 +70,7 @@
 
 - [【张鑫旭-鑫空间-鑫生活】2022-06-12-基于文字的URL锚点定位与::target-text样式设置](https://www.zhangxinxu.com/wordpress/2022/06/url-anchor-target-text/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-06-11-介绍一种CSS变量未定义语法也OK的小妙招](https://www.zhangxinxu.com/wordpress/2022/06/css-var-optional-empty-trick/) 
+- [【V2EX】2022-06-19-关于购买正版-jetbrains-全家桶，多久收到邮件正常啊](https://www.v2ex.com/t/860643) 
 - [【V2EX】2022-06-19-ROS+OP-不能正常访问外网咋回事呀?](https://www.v2ex.com/t/860642) 
 - [【V2EX】2022-06-19-讨论个问题，罗技-mx-master3-大拇指的按键，应该怎么按是对的，舒适的？](https://www.v2ex.com/t/860640) 
 - [【V2EX】2022-06-19-最近打算购买-iMac-官翻版（官网购买），老哥们有没有什么建议-？](https://www.v2ex.com/t/860638) 
@@ -82,7 +83,6 @@
 - [【V2EX】2022-06-19-面试失败可以换岗位再试一次吗？](https://www.v2ex.com/t/860623) 
 - [【V2EX】2022-06-19-那个银行的-VIP，对孩子的教育有帮助？](https://www.v2ex.com/t/860622) 
 - [【V2EX】2022-06-19-简单地问一下有哪些备份加还原的软件？](https://www.v2ex.com/t/860620) 
-- [【V2EX】2022-06-19-Office365-拼团，-45-元/年，有需要上车的朋友嘛？](https://www.v2ex.com/t/860619) 
 - [【V2EX】2022-06-19-苹果商店的余额是不是不是实时更新的？](https://www.v2ex.com/t/860618) 
 - [【V2EX】2022-06-19-连续签到-1000-天纪念](https://www.v2ex.com/t/860617) 
 - [【V2EX】2022-06-19-请问-Karabiner-如何实现-Thor-的功能？](https://www.v2ex.com/t/860616) 
@@ -106,7 +106,14 @@
 - [【V2EX】2022-06-18-openwrt-多拨公网-ip-怎么分配](https://www.v2ex.com/t/860597) 
 - [【V2EX】2022-06-18-ps5-手柄续航好短呀，，，现在只能两个手柄插电混着用](https://www.v2ex.com/t/860596) 
 - [【V2EX】2022-06-18-请教一下，-iOS-操作系统是无法向-Android-操作系统一样查看运存-RAM-的占用情况吗？](https://www.v2ex.com/t/860595) 
-- [【V2EX】2022-06-18-我写了一个用来快速注册小程序的小程序](https://www.v2ex.com/t/860593) 
+- [【技术头条】2022-06-19-五大自动化测试Python框架-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15141&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494220%26amp%3Bidx%3D2%26amp%3Bsn%3D85ff8e8e724e2382877068c50bd57187%26amp%3Bchksm%3Dfa3f0b17cd488201b1973b4e7aa8ed7f19d254c125f8df9a4dcb8d83c4c4377ec523dd6d4579%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [【技术头条】2022-06-19-微软发布的免费文件恢复工具-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15140&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494219%26amp%3Bidx%3D1%26amp%3Bsn%3D1767ba07b078ed794a2116d1c1b557d5%26amp%3Bchksm%3Dfa3f0b10cd488206bab07868dfa09afd6bbd048db5fdeee0a332f725476822dc8c39315c80d6%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [【技术头条】2022-06-19-SpringBoot实现登录拦截器（实战版）-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15139&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494219%26amp%3Bidx%3D2%26amp%3Bsn%3Dd1ea2805bb8e694eab775ea934884928%26amp%3Bchksm%3Dfa3f0b10cd488206c655c9d1b446c0fb12cf23741abb9ecbebb20169ff76da1b0d9733875476%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [【技术头条】2022-06-19-40个SpringBoot常用注解-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15138&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494160%26amp%3Bidx%3D2%26amp%3Bsn%3Dd317d2bf50fe90b310919c898ce0ea9f%26amp%3Bchksm%3Dfa3f0b4bcd48825dd8c321b844aede5476e55deabbb9ddbda506d6ac145918c462e055bc9e76%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [【技术头条】2022-06-19-基于SpringBoot仿豆瓣完整源码分享！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15137&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494155%26amp%3Bidx%3D1%26amp%3Bsn%3D4a4d04799e4953ba2da243b6e8615ca7%26amp%3Bchksm%3Dfa3f0b50cd4882467453cc0261ce92960c7f50e9dd093c82c25d529f210d63ea8b7929274e44%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [【技术头条】2022-06-19-你的登录接口真的安全吗？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15136&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494155%26amp%3Bidx%3D2%26amp%3Bsn%3Dc44fa068fec8befcf08a914852997671%26amp%3Bchksm%3Dfa3f0b50cd4882460d0c16f21a2222127f965e029631a815bd3bc31e2adb29bc0bb92b33adbe%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [【技术头条】2022-06-19-百度网盘源码分享！基于Maven+SpringBoot+SpringDataJPA-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15135&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494152%26amp%3Bidx%3D1%26amp%3Bsn%3D79fed3b2e2340ec6938f24798feaa290%26amp%3Bchksm%3Dfa3f0b53cd488245d0a78d5dcf4f76400611343eb22dfefdf8233cfa28d8aba750b836a8e35c%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [【技术头条】2022-06-19-4个强大的JavaScript运算符-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15134&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494152%26amp%3Bidx%3D2%26amp%3Bsn%3Dc592132bf4d611d6aaaa9e0762aa3130%26amp%3Bchksm%3Dfa3f0b53cd488245ba6d441105126566bdfb8e1982f8679a57ede0c6e0198bdb94546e802ba7%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-06-19-用-poudriere-完成包管理-blog.delphij.net](https://blogread.cn/news/go.php?idItem=15133&url=https%3A%2F%2Fblog.delphij.net%2Fposts%2F2022%2F04%2Fpoudriere%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-06-19-libcurl使用线程的方式做DNS解析-phpor.net](https://blogread.cn/news/go.php?idItem=15132&url=https%3A%2F%2Fphpor.net%2Fblog%2Fpost%2F17992%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-06-19-如何构建团队内的反馈氛围-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15131&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffeedback-in-agile-practice%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -119,14 +126,6 @@
 - [【技术头条】2022-06-19-看看你有没有陷入“标签化”客户和-用户-的陷阱？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15124&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fbusiness-analyst-growth%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-06-19-验收标准到底是不是测试用例？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15123&url=https%3A%2F%2Finsights.thoughtworks.cn%2Facceptance-criteria-testcases%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-06-19-性能指标的信仰危机-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15122&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fperformance-indicator%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
-- [【技术头条】2022-06-19-在一个“去QA化”的项目中，QA能做什么？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15121&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fquality-assurance-in-project%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
-- [【技术头条】2022-06-19-4个Python编程游戏网站，玩嗨了~-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15120&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494149%26amp%3Bidx%3D1%26amp%3Bsn%3D7525aafe254b1a8017fee638cc5f3340%26amp%3Bchksm%3Dfa3f0b5ecd4882481060c4ccceff14d66ac9348089028ca145d07a17dbd153e46155fb2e0138%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
-- [【技术头条】2022-06-19-iOS15如何让App启动更快？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15119&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494149%26amp%3Bidx%3D2%26amp%3Bsn%3Df78c229c1bf42fa5bc19b137bd01b4ca%26amp%3Bchksm%3Dfa3f0b5ecd488248750c26ccb7cb86220a416c2657619abefdc9475ddfecf496d91dbbf2dd3d%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
-- [【技术头条】2022-06-19-一款开源OA办公自动化系统-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15118&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494148%26amp%3Bidx%3D1%26amp%3Bsn%3Dc409296967c2c443ac34619a0df1024c%26amp%3Bchksm%3Dfa3f0b5fcd488249ccc9d3a2ae116d0f7e4bd8ff1a35651088cf2ba4eed0a128e473660fdeb3%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
-- [【技术头条】2022-06-19-别再用OFFSET和LIMIT分页了-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15117&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494148%26amp%3Bidx%3D2%26amp%3Bsn%3D457ac577577c945e7827566c4d076745%26amp%3Bchksm%3Dfa3f0b5fcd488249f46db6b8144c812cd84a609a309eb90a9d265226d76dce6eac73a799a723%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
-- [【技术头条】2022-06-19-VSCode花式摸鱼大法，悄悄用起来！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15116&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494145%26amp%3Bidx%3D1%26amp%3Bsn%3Dbe3f203c539822e9a38e50b902c612e3%26amp%3Bchksm%3Dfa3f0b5acd48824c2d94526b01235144c60ab13b3bab4d63e207115b1ba05b7d62817e34ec90%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
-- [【技术头条】2022-06-19-面试官：Java反射是什么？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15115&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494145%26amp%3Bidx%3D2%26amp%3Bsn%3D32bbd28f61522900d0fca0135d4c3a69%26amp%3Bchksm%3Dfa3f0b5acd48824c8b0b637aa499dfbb749e97a8cc28ec30887bb77d99628c931a87ede7cc7e%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
-- [【技术头条】2022-06-19-一定用得到的C++资源，限时开放收藏！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15114&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494135%26amp%3Bidx%3D1%26amp%3Bsn%3Db4e7fa404171dd55f0a3a100ac2b3156%26amp%3Bchksm%3Dfa3f08accd4881bad00269d8624fc435e39c28e7f3dcc35cbe306323fc64ba5daaf6affe751b%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【开发者头条】2022-06-19-欢迎加入读者圈子，一起交流！](https://toutiao.io/k/qbln5t9) 
 - [【开发者头条】2022-06-19-Go中的HTTP-debug技能-了解一下](https://toutiao.io/k/44dmmcz) 
 - [【开发者头条】2022-06-19-C++异步从理论到实践总览篇](https://toutiao.io/k/1hpd84k) 
@@ -136,11 +135,11 @@
 - [【开发者头条】2022-06-19-架构师必须了解的-5-种最佳软件架构模式](https://toutiao.io/k/knun5wy) 
 - [【开发者头条】2022-06-19-基于Kubernetes-v1.24.0的集群搭建（三）](https://toutiao.io/k/6cq0j14) 
 - [【开发者头条】2022-06-19-关于-LowCode&ProCode-混合研发的思考](https://toutiao.io/k/ur6lnu2) 
+- [【开发者头条】2022-06-19-推荐-高并发下如何防重？](https://toutiao.io/k/ulsc0so) 
 - [【开发者头条】2022-06-19-推荐-我们公司使用了-5-年的系统限流方案！从实现到部署实战详解，稳的一批!​](https://toutiao.io/k/4tls39t) 
 - [【开发者头条】2022-06-19-推荐-总监的烦恼：技术丢了怎么办？](https://toutiao.io/k/rzytby1) 
-- [【开发者头条】2022-06-19-推荐-高并发下如何防重？](https://toutiao.io/k/ulsc0so) 
-- [【开发者头条】2022-06-19-推荐-消息队列原理和选型：Kafka、RocketMQ-、RabbitMQ-和-ActiveMQ](https://toutiao.io/k/nuwnwro) 
 - [【开发者头条】2022-06-19-推荐-MongoDB全方位知识图谱！](https://toutiao.io/k/efxw4nr) 
+- [【开发者头条】2022-06-19-推荐-消息队列原理和选型：Kafka、RocketMQ-、RabbitMQ-和-ActiveMQ](https://toutiao.io/k/nuwnwro) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

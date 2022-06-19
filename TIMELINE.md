@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-06-19 03:26:40。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-06-19 04:09:58。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -70,6 +70,12 @@
 
 - [【张鑫旭-鑫空间-鑫生活】2022-06-12-基于文字的URL锚点定位与::target-text样式设置](https://www.zhangxinxu.com/wordpress/2022/06/url-anchor-target-text/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-06-11-介绍一种CSS变量未定义语法也OK的小妙招](https://www.zhangxinxu.com/wordpress/2022/06/css-var-optional-empty-trick/) 
+- [【V2EX】2022-06-19-2022-年，从-macOS-远程桌面到家里-Windows-机器，最佳方案是什么呢？](https://www.v2ex.com/t/860633) 
+- [【V2EX】2022-06-19-Office365-家庭版-48/年，-12-个月](https://www.v2ex.com/t/860632) 
+- [【V2EX】2022-06-19-技巧贴-简单又好用的-Mac-提速方法-来自-Genius-Bar](https://www.v2ex.com/t/860631) 
+- [【V2EX】2022-06-19-是否能用二手-macm1-来确认自己是否需要一台-mac](https://www.v2ex.com/t/860629) 
+- [【V2EX】2022-06-19-mac-有线网的-dns-总是被重置](https://www.v2ex.com/t/860627) 
+- [【V2EX】2022-06-19-为什么这个国家的愚民这么多？](https://www.v2ex.com/t/860624) 
 - [【V2EX】2022-06-19-面试失败可以换岗位再试一次吗？](https://www.v2ex.com/t/860623) 
 - [【V2EX】2022-06-19-那个银行的-VIP，对孩子的教育有帮助？](https://www.v2ex.com/t/860622) 
 - [【V2EX】2022-06-19-简单地问一下有哪些备份加还原的软件？](https://www.v2ex.com/t/860620) 
@@ -103,11 +109,8 @@
 - [【V2EX】2022-06-18-MBP-摸屏幕后盖有静电震动的感觉，拔了电源就没事了](https://www.v2ex.com/t/860589) 
 - [【V2EX】2022-06-18-2022-年可用的卫星窄带宽带服务有哪些？](https://www.v2ex.com/t/860587) 
 - [【V2EX】2022-06-18-618-整个电水壶-推荐一波-小熊-bear-咋样](https://www.v2ex.com/t/860585) 
-- [【V2EX】2022-06-18-如何在室外构建-Homelab-？](https://www.v2ex.com/t/860583) 
-- [【V2EX】2022-06-18-vue-如何确保日志滚动条始终保持在最底下？](https://www.v2ex.com/t/860581) 
-- [【V2EX】2022-06-18-golang-基于-net.Conn-的连接多路复用库。可用于减少握手时间，聚合链路带宽](https://www.v2ex.com/t/860578) 
-- [【V2EX】2022-06-18-DNSPod-DoH-延迟大，偶尔解析出错，包括腾讯系域名](https://www.v2ex.com/t/860576) 
-- [【V2EX】2022-06-18-用红米-ax6-中继模式作-ap-的注意了，这货可能有-bug，无线网不稳定，严重抖动](https://www.v2ex.com/t/860575) 
+- [【技术头条】2022-06-19-用-poudriere-完成包管理-blog.delphij.net](https://blogread.cn/news/go.php?idItem=15133&url=https%3A%2F%2Fblog.delphij.net%2Fposts%2F2022%2F04%2Fpoudriere%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [【技术头条】2022-06-19-libcurl使用线程的方式做DNS解析-phpor.net](https://blogread.cn/news/go.php?idItem=15132&url=https%3A%2F%2Fphpor.net%2Fblog%2Fpost%2F17992%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-06-19-如何构建团队内的反馈氛围-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15131&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffeedback-in-agile-practice%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-06-19-如何让混沌工程实验降本增效-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15130&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fchaos-engineering-efficiency%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-06-19-关于分享的意义-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15129&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fwriting-and-share%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -126,8 +129,6 @@
 - [【技术头条】2022-06-19-VSCode花式摸鱼大法，悄悄用起来！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15116&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494145%26amp%3Bidx%3D1%26amp%3Bsn%3Dbe3f203c539822e9a38e50b902c612e3%26amp%3Bchksm%3Dfa3f0b5acd48824c2d94526b01235144c60ab13b3bab4d63e207115b1ba05b7d62817e34ec90%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-06-19-面试官：Java反射是什么？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15115&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494145%26amp%3Bidx%3D2%26amp%3Bsn%3D32bbd28f61522900d0fca0135d4c3a69%26amp%3Bchksm%3Dfa3f0b5acd48824c8b0b637aa499dfbb749e97a8cc28ec30887bb77d99628c931a87ede7cc7e%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-06-19-一定用得到的C++资源，限时开放收藏！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15114&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494135%26amp%3Bidx%3D1%26amp%3Bsn%3Db4e7fa404171dd55f0a3a100ac2b3156%26amp%3Bchksm%3Dfa3f08accd4881bad00269d8624fc435e39c28e7f3dcc35cbe306323fc64ba5daaf6affe751b%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
-- [【技术头条】2022-06-19-Airbnb是如何从JavaScript迁移到TypeScript的？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15113&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494135%26amp%3Bidx%3D2%26amp%3Bsn%3Dd5957f395d6f57e3faf6c6d8adea469f%26amp%3Bchksm%3Dfa3f08accd4881ba189025550b3f4af15ac7eda26d8274b4bedec5b13ebd27c39c1e8edd540a%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
-- [【技术头条】2022-06-19-什么是子网掩码?-www.awaimai.com](https://blogread.cn/news/go.php?idItem=15112&url=https%3A%2F%2Fwww.awaimai.com%2F2933.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【开发者头条】2022-06-19-欢迎加入读者圈子，一起交流！](https://toutiao.io/k/qbln5t9) 
 - [【开发者头条】2022-06-19-C++异步从理论到实践总览篇](https://toutiao.io/k/1hpd84k) 
 - [【开发者头条】2022-06-19-Go中的HTTP-debug技能-了解一下](https://toutiao.io/k/44dmmcz) 
@@ -137,11 +138,11 @@
 - [【开发者头条】2022-06-19-架构师必须了解的-5-种最佳软件架构模式](https://toutiao.io/k/knun5wy) 
 - [【开发者头条】2022-06-19-基于Kubernetes-v1.24.0的集群搭建（三）](https://toutiao.io/k/6cq0j14) 
 - [【开发者头条】2022-06-19-关于-LowCode&ProCode-混合研发的思考](https://toutiao.io/k/ur6lnu2) 
-- [【开发者头条】2022-06-19-推荐-消息队列原理和选型：Kafka、RocketMQ-、RabbitMQ-和-ActiveMQ](https://toutiao.io/k/nuwnwro) 
-- [【开发者头条】2022-06-19-推荐-MongoDB全方位知识图谱！](https://toutiao.io/k/efxw4nr) 
-- [【开发者头条】2022-06-19-推荐-高并发下如何防重？](https://toutiao.io/k/ulsc0so) 
-- [【开发者头条】2022-06-19-推荐-我们公司使用了-5-年的系统限流方案！从实现到部署实战详解，稳的一批!​](https://toutiao.io/k/4tls39t) 
 - [【开发者头条】2022-06-19-推荐-总监的烦恼：技术丢了怎么办？](https://toutiao.io/k/rzytby1) 
+- [【开发者头条】2022-06-19-推荐-高并发下如何防重？](https://toutiao.io/k/ulsc0so) 
+- [【开发者头条】2022-06-19-推荐-消息队列原理和选型：Kafka、RocketMQ-、RabbitMQ-和-ActiveMQ](https://toutiao.io/k/nuwnwro) 
+- [【开发者头条】2022-06-19-推荐-我们公司使用了-5-年的系统限流方案！从实现到部署实战详解，稳的一批!​](https://toutiao.io/k/4tls39t) 
+- [【开发者头条】2022-06-19-推荐-MongoDB全方位知识图谱！](https://toutiao.io/k/efxw4nr) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

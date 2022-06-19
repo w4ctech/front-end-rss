@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-06-19 03:26:39，:rocket: 更新条数: +2018， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-06-19 04:09:58，:rocket: 更新条数: +2019， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,12 @@
 </summary>
 
 
+- [2022-06-19-2022-年，从-macOS-远程桌面到家里-Windows-机器，最佳方案是什么呢？](https://www.v2ex.com/t/860633) ![](assets/new.png)  
+- [2022-06-19-Office365-家庭版-48/年，-12-个月](https://www.v2ex.com/t/860632) ![](assets/new.png)  
+- [2022-06-19-技巧贴-简单又好用的-Mac-提速方法-来自-Genius-Bar](https://www.v2ex.com/t/860631) ![](assets/new.png)  
+- [2022-06-19-是否能用二手-macm1-来确认自己是否需要一台-mac](https://www.v2ex.com/t/860629) ![](assets/new.png)  
+- [2022-06-19-mac-有线网的-dns-总是被重置](https://www.v2ex.com/t/860627) ![](assets/new.png)  
+- [2022-06-19-为什么这个国家的愚民这么多？](https://www.v2ex.com/t/860624) ![](assets/new.png)  
 - [2022-06-19-面试失败可以换岗位再试一次吗？](https://www.v2ex.com/t/860623) ![](assets/new.png)  
 - [2022-06-19-那个银行的-VIP，对孩子的教育有帮助？](https://www.v2ex.com/t/860622) ![](assets/new.png)  
 - [2022-06-19-简单地问一下有哪些备份加还原的软件？](https://www.v2ex.com/t/860620) ![](assets/new.png)  
@@ -505,12 +511,6 @@
 - [2022-06-19-现在（2022-年-6-月份），大家都把钱存放在哪里了？哪里相对比较安全？](https://www.v2ex.com/t/860611) ![](assets/new.png)  
 - [2022-06-19-有哪些支持-Linux-的-usb-电脑摄像头？最好内置麦克风和扬声器。](https://www.v2ex.com/t/860610) ![](assets/new.png)  
 - [2022-06-19-咨询任天堂会员的原理](https://www.v2ex.com/t/860609) ![](assets/new.png)  
-- [2022-06-19-Mac-的显示器搭配问题](https://www.v2ex.com/t/860608) ![](assets/new.png)  
-- [2022-06-19-Go-语言和-Java-接口的优缺点分别是什么呢？](https://www.v2ex.com/t/860607) ![](assets/new.png)  
-- [2022-06-19-求推荐支持-KVM（显示器输入源更换后，显示器-USB-接口接入的设备也随之连接到新源）的-27-寸显示器](https://www.v2ex.com/t/860606) ![](assets/new.png)  
-- [2022-06-19-基于上次的-C-语言-http-server，仿造做了一个文件上传下载功能。](https://www.v2ex.com/t/860605) ![](assets/new.png)  
-- [2022-06-19-支持-center-stage-的-iPad-，使用-facetime-时不能调用前置最大画幅？](https://www.v2ex.com/t/860604) ![](assets/new.png)  
-- [2022-06-19-VMware+-Ubantu20+-Cuttlefish-模拟运行最新的-Android12](https://www.v2ex.com/t/860603) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -522,6 +522,8 @@
 </summary>
 
 
+- [2022-06-19-用-poudriere-完成包管理-blog.delphij.net](https://blogread.cn/news/go.php?idItem=15133&url=https%3A%2F%2Fblog.delphij.net%2Fposts%2F2022%2F04%2Fpoudriere%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2022-06-19-libcurl使用线程的方式做DNS解析-phpor.net](https://blogread.cn/news/go.php?idItem=15132&url=https%3A%2F%2Fphpor.net%2Fblog%2Fpost%2F17992%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-06-19-如何构建团队内的反馈氛围-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15131&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffeedback-in-agile-practice%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-06-19-如何让混沌工程实验降本增效-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15130&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fchaos-engineering-efficiency%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-06-19-关于分享的意义-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15129&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fwriting-and-share%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
@@ -540,8 +542,6 @@
 - [2022-06-19-VSCode花式摸鱼大法，悄悄用起来！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15116&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494145%26amp%3Bidx%3D1%26amp%3Bsn%3Dbe3f203c539822e9a38e50b902c612e3%26amp%3Bchksm%3Dfa3f0b5acd48824c2d94526b01235144c60ab13b3bab4d63e207115b1ba05b7d62817e34ec90%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-06-19-面试官：Java反射是什么？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15115&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494145%26amp%3Bidx%3D2%26amp%3Bsn%3D32bbd28f61522900d0fca0135d4c3a69%26amp%3Bchksm%3Dfa3f0b5acd48824c8b0b637aa499dfbb749e97a8cc28ec30887bb77d99628c931a87ede7cc7e%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-06-19-一定用得到的C++资源，限时开放收藏！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15114&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494135%26amp%3Bidx%3D1%26amp%3Bsn%3Db4e7fa404171dd55f0a3a100ac2b3156%26amp%3Bchksm%3Dfa3f08accd4881bad00269d8624fc435e39c28e7f3dcc35cbe306323fc64ba5daaf6affe751b%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-06-19-Airbnb是如何从JavaScript迁移到TypeScript的？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15113&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494135%26amp%3Bidx%3D2%26amp%3Bsn%3Dd5957f395d6f57e3faf6c6d8adea469f%26amp%3Bchksm%3Dfa3f08accd4881ba189025550b3f4af15ac7eda26d8274b4bedec5b13ebd27c39c1e8edd540a%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-06-19-什么是子网掩码?-www.awaimai.com](https://blogread.cn/news/go.php?idItem=15112&url=https%3A%2F%2Fwww.awaimai.com%2F2933.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -562,11 +562,11 @@
 - [2022-06-19-架构师必须了解的-5-种最佳软件架构模式](https://toutiao.io/k/knun5wy) ![](assets/new.png)  
 - [2022-06-19-基于Kubernetes-v1.24.0的集群搭建（三）](https://toutiao.io/k/6cq0j14) ![](assets/new.png)  
 - [2022-06-19-关于-LowCode&ProCode-混合研发的思考](https://toutiao.io/k/ur6lnu2) ![](assets/new.png)  
-- [2022-06-19-推荐-消息队列原理和选型：Kafka、RocketMQ-、RabbitMQ-和-ActiveMQ](https://toutiao.io/k/nuwnwro) ![](assets/new.png)  
-- [2022-06-19-推荐-MongoDB全方位知识图谱！](https://toutiao.io/k/efxw4nr) ![](assets/new.png)  
-- [2022-06-19-推荐-高并发下如何防重？](https://toutiao.io/k/ulsc0so) ![](assets/new.png)  
-- [2022-06-19-推荐-我们公司使用了-5-年的系统限流方案！从实现到部署实战详解，稳的一批!​](https://toutiao.io/k/4tls39t) ![](assets/new.png)  
 - [2022-06-19-推荐-总监的烦恼：技术丢了怎么办？](https://toutiao.io/k/rzytby1) ![](assets/new.png)  
+- [2022-06-19-推荐-高并发下如何防重？](https://toutiao.io/k/ulsc0so) ![](assets/new.png)  
+- [2022-06-19-推荐-消息队列原理和选型：Kafka、RocketMQ-、RabbitMQ-和-ActiveMQ](https://toutiao.io/k/nuwnwro) ![](assets/new.png)  
+- [2022-06-19-推荐-我们公司使用了-5-年的系统限流方案！从实现到部署实战详解，稳的一批!​](https://toutiao.io/k/4tls39t) ![](assets/new.png)  
+- [2022-06-19-推荐-MongoDB全方位知识图谱！](https://toutiao.io/k/efxw4nr) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

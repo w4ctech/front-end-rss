@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-06-19 11:11:43，:rocket: 更新条数: +2016， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-06-19 11:36:47，:rocket: 更新条数: +2014， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,7 +491,7 @@
 </summary>
 
 
-- [2022-06-19-女朋友嫌弃我的口水怎么办？](https://www.v2ex.com/t/860698) ![](assets/new.png)  
+- [2022-06-19-分享一下周末写的电报中文频道搜索网站](https://www.v2ex.com/t/860699) ![](assets/new.png)  
 - [2022-06-19-M1-Mac-mini-时不时有爆音](https://www.v2ex.com/t/860697) ![](assets/new.png)  
 - [2022-06-19-有没有能实现-magsafe-外接电池相似功能的无线充电宝？](https://www.v2ex.com/t/860696) ![](assets/new.png)  
 - [2022-06-19-Windows-上面到底有没有管理多文件不卡死的资源管理工具](https://www.v2ex.com/t/860695) ![](assets/new.png)  
@@ -522,6 +522,13 @@
 </summary>
 
 
+- [2022-06-19-使用BPF,-将Go网络程序的吞吐提升8倍-colobu.com](https://blogread.cn/news/go.php?idItem=15148&url=https%3A%2F%2Fcolobu.com%2F2022%2F06%2F05%2Fuse-bpf-to-make-the-go-network-program-8x-faster%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2022-06-19-使用-Docker-搭建适用于-HomeLab-的轻量邮件网关-soulteary.com](https://blogread.cn/news/go.php?idItem=15147&url=https%3A%2F%2Fsoulteary.com%2F2022%2F03%2F15%2Fbuild-a-lightweight-mail-gateway-for-homelab-using-docker.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2022-06-19-M1-芯片-Mac-上更好的-Golang-使用方案-soulteary.com](https://blogread.cn/news/go.php?idItem=15146&url=https%3A%2F%2Fsoulteary.com%2F2022%2F05%2F12%2Fbetter-golang-usage-on-m1-mac.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2022-06-19-正确处理全球五大互联网注册机构的-IP-数据-soulteary.com](https://blogread.cn/news/go.php?idItem=15145&url=https%3A%2F%2Fsoulteary.com%2F2022%2F06%2F07%2Fcorrect-handling-of-ip-data-from-the-world-s-top-five-internet-registries.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2022-06-19-轻量小巧的零配置-APT-加速工具：APT-Proxy-soulteary.com](https://blogread.cn/news/go.php?idItem=15144&url=https%3A%2F%2Fsoulteary.com%2F2022%2F06%2F14%2Flightweight-and-small-zero-configuration-apt-acceleration-tool-apt-proxy.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2022-06-19-层次组件的问题-blog.codingnow.com](https://blogread.cn/news/go.php?idItem=15143&url=https%3A%2F%2Fblog.codingnow.com%2F2022%2F03%2Fmultiple_components.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2022-06-19-学会快速地估算-blog.devtang.com](https://blogread.cn/news/go.php?idItem=15142&url=https%3A%2F%2Fblog.devtang.com%2F2022%2F03%2F06%2Ffast-count-ability%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-06-19-五大自动化测试Python框架-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15141&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494220%26amp%3Bidx%3D2%26amp%3Bsn%3D85ff8e8e724e2382877068c50bd57187%26amp%3Bchksm%3Dfa3f0b17cd488201b1973b4e7aa8ed7f19d254c125f8df9a4dcb8d83c4c4377ec523dd6d4579%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-06-19-微软发布的免费文件恢复工具-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15140&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494219%26amp%3Bidx%3D1%26amp%3Bsn%3D1767ba07b078ed794a2116d1c1b557d5%26amp%3Bchksm%3Dfa3f0b10cd488206bab07868dfa09afd6bbd048db5fdeee0a332f725476822dc8c39315c80d6%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-06-19-SpringBoot实现登录拦截器（实战版）-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15139&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494219%26amp%3Bidx%3D2%26amp%3Bsn%3Dd1ea2805bb8e694eab775ea934884928%26amp%3Bchksm%3Dfa3f0b10cd488206c655c9d1b446c0fb12cf23741abb9ecbebb20169ff76da1b0d9733875476%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
@@ -535,13 +542,6 @@
 - [2022-06-19-如何构建团队内的反馈氛围-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15131&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffeedback-in-agile-practice%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-06-19-如何让混沌工程实验降本增效-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15130&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fchaos-engineering-efficiency%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-06-19-关于分享的意义-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15129&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fwriting-and-share%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-06-19-恶意技术时代的负责任技术-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15128&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fresponsible-tech%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-06-19-性能测试之K6篇-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15127&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fperformance-testing-k6%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-06-19-机器学习不是你想用，想用就能用-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15126&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fwhen-to-use-machine-learning%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-06-19-容器江湖的爱恨情仇-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15125&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fdocker-colima-podman-container%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-06-19-看看你有没有陷入“标签化”客户和-用户-的陷阱？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15124&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fbusiness-analyst-growth%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-06-19-验收标准到底是不是测试用例？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15123&url=https%3A%2F%2Finsights.thoughtworks.cn%2Facceptance-criteria-testcases%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-06-19-性能指标的信仰危机-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15122&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fperformance-indicator%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -564,11 +564,11 @@
 - [2022-06-19-关于-LowCode&ProCode-混合研发的思考](https://toutiao.io/k/ur6lnu2) ![](assets/new.png)  
 - [2022-06-19-【干货】超精妙！Twitter开源分布式自增ID算法snowflake，附演算验证过程](https://toutiao.io/k/bz22qgc) ![](assets/new.png)  
 - [2022-06-19-Kubernetes网络难懂？快来看这篇文章](https://toutiao.io/k/cgk9ym2) ![](assets/new.png)  
-- [2022-06-19-推荐-高并发下如何防重？](https://toutiao.io/k/ulsc0so) ![](assets/new.png)  
-- [2022-06-19-推荐-我们公司使用了-5-年的系统限流方案！从实现到部署实战详解，稳的一批!​](https://toutiao.io/k/4tls39t) ![](assets/new.png)  
-- [2022-06-19-推荐-MongoDB全方位知识图谱！](https://toutiao.io/k/efxw4nr) ![](assets/new.png)  
-- [2022-06-19-推荐-消息队列原理和选型：Kafka、RocketMQ-、RabbitMQ-和-ActiveMQ](https://toutiao.io/k/nuwnwro) ![](assets/new.png)  
 - [2022-06-19-推荐-总监的烦恼：技术丢了怎么办？](https://toutiao.io/k/rzytby1) ![](assets/new.png)  
+- [2022-06-19-推荐-MongoDB全方位知识图谱！](https://toutiao.io/k/efxw4nr) ![](assets/new.png)  
+- [2022-06-19-推荐-我们公司使用了-5-年的系统限流方案！从实现到部署实战详解，稳的一批!​](https://toutiao.io/k/4tls39t) ![](assets/new.png)  
+- [2022-06-19-推荐-高并发下如何防重？](https://toutiao.io/k/ulsc0so) ![](assets/new.png)  
+- [2022-06-19-推荐-消息队列原理和选型：Kafka、RocketMQ-、RabbitMQ-和-ActiveMQ](https://toutiao.io/k/nuwnwro) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

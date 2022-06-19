@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-06-19 14:37:19。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-06-19 15:13:42。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -120,6 +120,8 @@
 
 
 
+- [【技术头条】小程序同构方案-kbone-分析与适配-www.alloyteam.com](https://blogread.cn/news/go.php?idItem=15178&url=http%3A%2F%2Fwww.alloyteam.com%2F2019%2F12%2Fkbone-analyze%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
+- [【技术头条】在-kbone-中实现小程序-svg-渲染-www.alloyteam.com](https://blogread.cn/news/go.php?idItem=15177&url=http%3A%2F%2Fwww.alloyteam.com%2F2019%2F11%2F14073%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [......【查看更多】......](./details/tags/miniprogram.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -136,6 +138,7 @@
 
 
 
+- [【技术头条】FlutterWeb性能优化探索与实践-tech.meituan.com](https://blogread.cn/news/go.php?idItem=15172&url=https%3A%2F%2Ftech.meituan.com%2F2021%2F12%2F16%2Fflutterweb-practice-in-meituan-waimai.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [......【查看更多】......](./details/tags/dev-mobile.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -174,14 +177,15 @@
 - [【武汉肺炎防疫全纪录(财新网)】张文宏：怎么看待疫苗接种偶发不良反应事件](https://opinion.caixin.com/m/2021-03-14/101675088.html)
 - [【武汉肺炎防疫全纪录(财新网)】香港再现数例疫苗接种严重异常事件-专家初判与疫苗无关](https://china.caixin.com/m/2021-03-08/101672619.html)
 - [【武汉肺炎防疫全纪录(财新网)】港府回应一63岁患者死亡事件-暂无法确定与疫苗相关](https://m.caixin.com/m/2021-03-03/101670052.html)
+- [【张鑫旭-鑫空间-鑫生活】如何继承自定义元素及其他JS中扩展新方法](https://www.zhangxinxu.com/wordpress/2022/06/js-extend-class-custom-elements/)
 - [【张鑫旭-鑫空间-鑫生活】介绍一种CSS变量未定义语法也OK的小妙招](https://www.zhangxinxu.com/wordpress/2022/06/css-var-optional-empty-trick/)
 - [【张鑫旭-鑫空间-鑫生活】如何实现页面刷新后不定位到之前的滚动位置？](https://www.zhangxinxu.com/wordpress/2022/05/history-scrollrestoration/)
 - [【张鑫旭-鑫空间-鑫生活】JS与条形码的生成](https://www.zhangxinxu.com/wordpress/2022/05/js-barcode/)
 - [【张鑫旭-鑫空间-鑫生活】深入-JS-new-Function-语法](https://www.zhangxinxu.com/wordpress/2022/04/js-new-function/)
 - [【张鑫旭-鑫空间-鑫生活】小tips:-JS字体加载失败或完毕的检测](https://www.zhangxinxu.com/wordpress/2022/04/js-font-face-load/)
 - [【张鑫旭-鑫空间-鑫生活】CSS实现滚动高度自动变小的粘滞效果](https://www.zhangxinxu.com/wordpress/2022/04/css-sticky-size-change/)
-- [【技术头条】JS与条形码的生成-www.zhangxinxu.com](https://blogread.cn/news/go.php?idItem=15152&url=https%3A%2F%2Fwww.zhangxinxu.com%2Fwordpress%2F2022%2F05%2Fjs-barcode%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
-- [【技术头条】层次组件的问题-blog.codingnow.com](https://blogread.cn/news/go.php?idItem=15143&url=https%3A%2F%2Fblog.codingnow.com%2F2022%2F03%2Fmultiple_components.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
+- [【技术头条】基于-C++-的-Android-协程设计-www.kymjs.com](https://blogread.cn/news/go.php?idItem=15166&url=https%3A%2F%2Fwww.kymjs.com%2Fsession%2F2022%2F02%2F26%2F01%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
+- [【技术头条】CSS实现滚动高度自动变小的粘滞效果-www.zhangxinxu.com](https://blogread.cn/news/go.php?idItem=15164&url=https%3A%2F%2Fwww.zhangxinxu.com%2Fwordpress%2F2022%2F04%2Fcss-sticky-size-change%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【开发者头条】C++异步从理论到实践总览篇](https://toutiao.io/k/1hpd84k)
 - [【开发者头条】牛客最新前端-JS-笔试百题](https://toutiao.io/k/f0kdnd9)
 - [......【查看更多】......](./details/tags/javascript.md)
@@ -202,9 +206,7 @@
 
 - [【张鑫旭-鑫空间-鑫生活】详解日后定会大规模使用的CSS-@layer-规则](https://www.zhangxinxu.com/wordpress/2022/05/css-layer-rule/)
 - [【张鑫旭-鑫空间-鑫生活】CSS必学基础：理解CSS中的级联规则](https://www.zhangxinxu.com/wordpress/2022/05/deep-in-css-cascade/)
-- [【张鑫旭-鑫空间-鑫生活】使用CSS-size-adjust和unicode-range改变任意文字尺寸](https://www.zhangxinxu.com/wordpress/2022/03/css-size-adjust-font-unicode-range/)
-- [【技术头条】Transformer中的缓存机制-www.52nlp.cn](https://blogread.cn/news/go.php?idItem=15156&url=https%3A%2F%2Fwww.52nlp.cn%2Ftransformer%25e4%25b8%25ad%25e7%259a%2584%25e7%25bc%2593%25e5%25ad%2598%25e6%259c%25ba%25e5%2588%25b6%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
-- [【技术头条】使用CSS-size-adjust和unicode-range改变任意文字尺寸-www.zhangxinxu.com](https://blogread.cn/news/go.php?idItem=15150&url=https%3A%2F%2Fwww.zhangxinxu.com%2Fwordpress%2F2022%2F03%2Fcss-size-adjust-font-unicode-range%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
+- [【技术头条】CSS必学基础：理解CSS中的级联规则-www.zhangxinxu.com](https://blogread.cn/news/go.php?idItem=15174&url=https%3A%2F%2Fwww.zhangxinxu.com%2Fwordpress%2F2022%2F05%2Fdeep-in-css-cascade%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [......【查看更多】......](./details/tags/css.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -258,6 +260,8 @@
 
 - [【V2EX】求教一个-sql-优化问题](https://www.v2ex.com/t/860721)
 - [【V2EX】请求大佬帮忙优化一下网络以及推荐升级一下硬件。](https://www.v2ex.com/t/860692)
+- [【技术头条】如何进行-web-性能监控？-www.alloyteam.com](https://blogread.cn/news/go.php?idItem=15179&url=http%3A%2F%2Fwww.alloyteam.com%2F2020%2F01%2F14184%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
+- [【技术头条】TensorFlow在推荐系统中的分布式训练优化实践-tech.meituan.com](https://blogread.cn/news/go.php?idItem=15171&url=https%3A%2F%2Ftech.meituan.com%2F2021%2F12%2F09%2Fmeituan-tensorflow-in-recommender-systems.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [......【查看更多】......](./details/tags/optimization.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -283,6 +287,8 @@
 - [【张鑫旭-鑫空间-鑫生活】基于文字的URL锚点定位与::target-text样式设置](https://www.zhangxinxu.com/wordpress/2022/06/url-anchor-target-text/)
 - [【V2EX】浏览器插件-The-Great-Filter：过滤你的信息流](https://www.v2ex.com/t/860704)
 - [【V2EX】Back-Pressed-SearchView-ActionView-CollaspeActionView-not-work](https://www.v2ex.com/t/860694)
+- [【技术头条】洋葱式信息安全观察：黄赌情报技术基础-www.sec-un.org](https://blogread.cn/news/go.php?idItem=15173&url=https%3A%2F%2Fwww.sec-un.org%2F%25e6%25b4%258b%25e8%2591%25b1%25e5%25bc%258f%25e4%25bf%25a1%25e6%2581%25af%25e5%25ae%2589%25e5%2585%25a8%25e8%25a7%2582%25e5%25af%259f%25ef%25bc%259a%25e9%25bb%2584%25e8%25b5%258c%25e6%2583%2585%25e6%258a%25a5%25e6%258a%2580%25e6%259c%25af%25e5%259f%25ba%25e7%25a1%2580%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
+- [【技术头条】混合多云安全成熟度评估-www.sec-un.org](https://blogread.cn/news/go.php?idItem=15170&url=https%3A%2F%2Fwww.sec-un.org%2Fcloud-security-assessment%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [......【查看更多】......](./details/tags/browser.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -299,6 +305,7 @@
 
 
 
+- [【技术头条】VimScript：退出文件时自动关闭各种缓冲区Buffer-xnow.me](https://blogread.cn/news/go.php?idItem=15163&url=http%3A%2F%2Fxnow.me%2Fprograms%2Fvimscript-autoclose-buffers.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【开发者头条】Go中的HTTP-debug技能-了解一下](https://toutiao.io/k/44dmmcz)
 - [【开发者头条】【干货】超精妙！Twitter开源分布式自增ID算法snowflake，附演算验证过程](https://toutiao.io/k/bz22qgc)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
@@ -317,7 +324,6 @@
 
 
 
-- [【技术头条】使用-Docker-搭建适用于-HomeLab-的轻量邮件网关-soulteary.com](https://blogread.cn/news/go.php?idItem=15147&url=https%3A%2F%2Fsoulteary.com%2F2022%2F03%2F15%2Fbuild-a-lightweight-mail-gateway-for-homelab-using-docker.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [......【查看更多】......](./details/tags/server.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -334,6 +340,7 @@
 
 
 
+- [【技术头条】拥抱-GitHub-Actions-xuexb.com](https://blogread.cn/news/go.php?idItem=15165&url=https%3A%2F%2Fxuexb.com%2Fpost%2Fgithub-actions.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [......【查看更多】......](./details/tags/git-svn.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -350,6 +357,7 @@
 
 
 
+- [【技术头条】面试之前，简历之上：给前端校招同学的简历建议-www.alloyteam.com](https://blogread.cn/news/go.php?idItem=15176&url=http%3A%2F%2Fwww.alloyteam.com%2F2019%2F09%2F13948%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【开发者头条】PHP-面试经常被问到的知识点汇总，对你非常有用](https://toutiao.io/k/njpkhk5)
 - [......【查看更多】......](./details/tags/job-interview.md)
 

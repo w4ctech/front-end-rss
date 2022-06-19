@@ -1,10 +1,15 @@
-:alarm_clock: 更新时间: 2022-06-18 23:39:02。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-06-19 01:02:52。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-06-19-Go-语言和-Java-接口的优缺点分别是什么呢？](https://www.v2ex.com/t/860607) 
+- [2022-06-19-求推荐支持-KVM（显示器输入源更换后，显示器-USB-接口接入的设备也随之连接到新源）的-27-寸显示器](https://www.v2ex.com/t/860606) 
+- [2022-06-19-基于上次的-C-语言-http-server，仿造做了一个文件上传下载功能。](https://www.v2ex.com/t/860605) 
+- [2022-06-19-支持-center-stage-的-iPad-，使用-facetime-时不能调用前置最大画幅？](https://www.v2ex.com/t/860604) 
+- [2022-06-19-VMware+-Ubantu20+-Cuttlefish-模拟运行最新的-Android12](https://www.v2ex.com/t/860603) 
 - [2022-06-18-homepod-mini-没法支持杜比音效吗？求推荐-sound-bar](https://www.v2ex.com/t/860601) 
 - [2022-06-18-iPhone-备忘录的时间能够被修改吗](https://www.v2ex.com/t/860600) 
 - [2022-06-18-macbook-pro-发热堪比太阳](https://www.v2ex.com/t/860599) 
@@ -32,6 +37,3 @@
 - [2022-06-18-现在群晖系统里面，比较好的同步/下载-阿里云盘的-方法是什么？-docker？](https://www.v2ex.com/t/860560) 
 - [2022-06-18-需要后端-20-30K-远程-咨询微信：-academichelpus01](https://www.v2ex.com/t/860559) 
 - [2022-06-18-安卓手机运行本地网页很慢，怎么解决？](https://www.v2ex.com/t/860558) 
-- [2022-06-18-单视频文件-42.5-GB-怎么实现在电视上观看？电视存储共-16GB。-TF-卡只有-32GB](https://www.v2ex.com/t/860557) 
-- [2022-06-18-有哪些耳机适合在嘈杂的环境中通话？](https://www.v2ex.com/t/860556) 
-- [2022-06-18-异地生活透心的孤独感](https://www.v2ex.com/t/860555) 

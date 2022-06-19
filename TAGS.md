@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-06-19 05:38:32。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-06-19 06:16:49。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -302,6 +302,7 @@
 - [【V2EX】讨论个问题，罗技-mx-master3-大拇指的按键，应该怎么按是对的，舒适的？](https://www.v2ex.com/t/860640)
 - [【V2EX】基于上次的-C-语言-http-server，仿造做了一个文件上传下载功能。](https://www.v2ex.com/t/860605)
 - [【开发者头条】Go中的HTTP-debug技能-了解一下](https://toutiao.io/k/44dmmcz)
+- [【开发者头条】【干货】超精妙！Twitter开源分布式自增ID算法snowflake，附演算验证过程](https://toutiao.io/k/bz22qgc)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

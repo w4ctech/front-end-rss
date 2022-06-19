@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-06-19 10:14:05。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-06-19 10:40:43。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 性能优化
 
@@ -7,5 +7,6 @@
 
 
 
+- [2022-06-19-请求大佬帮忙优化一下网络以及推荐升级一下硬件。](https://www.v2ex.com/t/860692) 
 - [2022-06-19-性能测试之K6篇-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15127&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fperformance-testing-k6%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-06-19-性能指标的信仰危机-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15122&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fperformance-indicator%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-06-19 07:12:38，:rocket: 更新条数: +2017， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-06-19 07:36:53，:rocket: 更新条数: +2016， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,9 @@
 </summary>
 
 
+- [2022-06-19-给父母买保险有什么推荐的吗？](https://www.v2ex.com/t/860660) ![](assets/new.png)  
+- [2022-06-19-发现阿里犀牛制造要逐渐淘汰传统服装制造业了](https://www.v2ex.com/t/860659) ![](assets/new.png)  
+- [2022-06-19-Python-单列表等分为多列表小问题](https://www.v2ex.com/t/860658) ![](assets/new.png)  
 - [2022-06-19-农村的房子夏天如何降温？](https://www.v2ex.com/t/860657) ![](assets/new.png)  
 - [2022-06-19-第一次-NPM-造轮子，看看有什么注意点](https://www.v2ex.com/t/860654) ![](assets/new.png)  
 - [2022-06-19-Windows-和-Linux-/-Mac-处理-ping-ICMP-包的方式有什么不同吗？](https://www.v2ex.com/t/860653) ![](assets/new.png)  
@@ -508,9 +511,6 @@
 - [2022-06-19-最近打算购买-iMac-官翻版（官网购买），老哥们有没有什么建议-？](https://www.v2ex.com/t/860638) ![](assets/new.png)  
 - [2022-06-19-我惊呆了。。。CSDN-VIP-月卡-88-元](https://www.v2ex.com/t/860634) ![](assets/new.png)  
 - [2022-06-19-2022-年，从-macOS-远程桌面到家里-Windows-机器，最佳方案是什么呢？](https://www.v2ex.com/t/860633) ![](assets/new.png)  
-- [2022-06-19-Office365-家庭版-48/年，-12-个月](https://www.v2ex.com/t/860632) ![](assets/new.png)  
-- [2022-06-19-技巧贴-简单又好用的-Mac-提速方法-来自-Genius-Bar](https://www.v2ex.com/t/860631) ![](assets/new.png)  
-- [2022-06-19-是否能用二手-macm1-来确认自己是否需要一台-mac](https://www.v2ex.com/t/860629) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -562,13 +562,13 @@
 - [2022-06-19-架构师必须了解的-5-种最佳软件架构模式](https://toutiao.io/k/knun5wy) ![](assets/new.png)  
 - [2022-06-19-基于Kubernetes-v1.24.0的集群搭建（三）](https://toutiao.io/k/6cq0j14) ![](assets/new.png)  
 - [2022-06-19-关于-LowCode&ProCode-混合研发的思考](https://toutiao.io/k/ur6lnu2) ![](assets/new.png)  
-- [2022-06-19-Kubernetes网络难懂？快来看这篇文章](https://toutiao.io/k/cgk9ym2) ![](assets/new.png)  
 - [2022-06-19-【干货】超精妙！Twitter开源分布式自增ID算法snowflake，附演算验证过程](https://toutiao.io/k/bz22qgc) ![](assets/new.png)  
-- [2022-06-19-推荐-我们公司使用了-5-年的系统限流方案！从实现到部署实战详解，稳的一批!​](https://toutiao.io/k/4tls39t) ![](assets/new.png)  
-- [2022-06-19-推荐-消息队列原理和选型：Kafka、RocketMQ-、RabbitMQ-和-ActiveMQ](https://toutiao.io/k/nuwnwro) ![](assets/new.png)  
-- [2022-06-19-推荐-高并发下如何防重？](https://toutiao.io/k/ulsc0so) ![](assets/new.png)  
-- [2022-06-19-推荐-总监的烦恼：技术丢了怎么办？](https://toutiao.io/k/rzytby1) ![](assets/new.png)  
+- [2022-06-19-Kubernetes网络难懂？快来看这篇文章](https://toutiao.io/k/cgk9ym2) ![](assets/new.png)  
 - [2022-06-19-推荐-MongoDB全方位知识图谱！](https://toutiao.io/k/efxw4nr) ![](assets/new.png)  
+- [2022-06-19-推荐-消息队列原理和选型：Kafka、RocketMQ-、RabbitMQ-和-ActiveMQ](https://toutiao.io/k/nuwnwro) ![](assets/new.png)  
+- [2022-06-19-推荐-我们公司使用了-5-年的系统限流方案！从实现到部署实战详解，稳的一批!​](https://toutiao.io/k/4tls39t) ![](assets/new.png)  
+- [2022-06-19-推荐-总监的烦恼：技术丢了怎么办？](https://toutiao.io/k/rzytby1) ![](assets/new.png)  
+- [2022-06-19-推荐-高并发下如何防重？](https://toutiao.io/k/ulsc0so) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

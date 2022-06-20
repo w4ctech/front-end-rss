@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-06-20 21:13:02，:rocket: 更新条数: +2027， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-06-20 21:39:04，:rocket: 更新条数: +2027， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-06-20-入住第-4-年，想自己学习一下中央空调维护技术](https://www.v2ex.com/t/861018) ![](assets/new.png)  
 - [2022-06-20-移民瑞典机会](https://www.v2ex.com/t/861017) ![](assets/new.png)  
 - [2022-06-20-超星学习通数据库疑似遭入侵](https://www.v2ex.com/t/861016) ![](assets/new.png)  
 - [2022-06-20-百度的网站究竟在干什么？疯狂占据-CPU，难道是在挖矿？](https://www.v2ex.com/t/861015) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-06-20-如何优雅的记录朋友家人生日并提醒自己？](https://www.v2ex.com/t/860997) ![](assets/new.png)  
 - [2022-06-20-趁着休息偷偷用-smartmontool-看了下硬盘](https://www.v2ex.com/t/860996) ![](assets/new.png)  
 - [2022-06-20-Java-就业形势严峻，连猎头都快要失业了](https://www.v2ex.com/t/860995) ![](assets/new.png)  
-- [2022-06-20-为啥-jmeter-里面的-beanshell-脚本不能使用-split的方法来分割？](https://www.v2ex.com/t/860994) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -571,8 +571,8 @@
 - [2022-06-20-Android升级适配爬坑历程](https://toutiao.io/k/7qfojv9) ![](assets/new.png)  
 - [2022-06-20-如何通过关键词找需求1](https://toutiao.io/k/7cbokjg) ![](assets/new.png)  
 - [2022-06-20-隐私计算FATE-模型训练](https://toutiao.io/k/tfxj4la) ![](assets/new.png)  
+- [2022-06-20-推荐-总监的烦恼：技术丢了怎么办？](https://toutiao.io/k/rzytby1) ![](assets/new.png)  
 - [2022-06-20-推荐-MongoDB全方位知识图谱！](https://toutiao.io/k/efxw4nr) ![](assets/new.png)  
-- [2022-06-20-推荐-Redis夺命52连问](https://toutiao.io/k/he3fzao) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

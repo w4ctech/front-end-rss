@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-06-20 08:52:58。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-06-20 09:14:37。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -71,6 +71,11 @@
 - [【张鑫旭-鑫空间-鑫生活】2022-06-19-如何继承自定义元素及其他JS中扩展新方法](https://www.zhangxinxu.com/wordpress/2022/06/js-extend-class-custom-elements/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-06-12-基于文字的URL锚点定位与::target-text样式设置](https://www.zhangxinxu.com/wordpress/2022/06/url-anchor-target-text/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-06-11-介绍一种CSS变量未定义语法也OK的小妙招](https://www.zhangxinxu.com/wordpress/2022/06/css-var-optional-empty-trick/) 
+- [【V2EX】2022-06-20-ios-拼多多卸载重装之后，竟然能直接登陆](https://www.v2ex.com/t/860918) 
+- [【V2EX】2022-06-20-RustDesk-招聘远程实习（开源，有偿）IPv6-/-RTSP-项目，纯-Rust-实现](https://www.v2ex.com/t/860917) 
+- [【V2EX】2022-06-20-两块-NVMe-固态，-ECC-内存的独立服务器，上-ZFS-存数据可靠性会更高么？](https://www.v2ex.com/t/860916) 
+- [【V2EX】2022-06-20-有没有远程协助的好软件或者好方案？](https://www.v2ex.com/t/860915) 
+- [【V2EX】2022-06-20-怎么解决英语沟通问题？](https://www.v2ex.com/t/860914) 
 - [【V2EX】2022-06-20-记一次-Apple-JD-自营店换电池的垃圾体验](https://www.v2ex.com/t/860911) 
 - [【V2EX】2022-06-20-请教下各位-swiftUI-的学习路线](https://www.v2ex.com/t/860910) 
 - [【V2EX】2022-06-20-家用空调适合-7x24-的使用嘛？](https://www.v2ex.com/t/860907) 
@@ -105,11 +110,6 @@
 - [【V2EX】2022-06-20-请教-Nextcloud-Talk-在-iOS-设备上的通知推送问题](https://www.v2ex.com/t/860871) 
 - [【V2EX】2022-06-20-突然觉得，电自的发展也挺奇葩的，你们会选择小-1w-的电动自行车吗？](https://www.v2ex.com/t/860870) 
 - [【V2EX】2022-06-20-一淘与集分宝的运营逻辑是什么？](https://www.v2ex.com/t/860869) 
-- [【V2EX】2022-06-20-上海运维工程师，薪资待遇优厚](https://www.v2ex.com/t/860868) 
-- [【V2EX】2022-06-20-请教一个-DNS-和-CDN-的问题](https://www.v2ex.com/t/860867) 
-- [【V2EX】2022-06-20-请教-macOS、iwatch-新系统啥时候出啊](https://www.v2ex.com/t/860866) 
-- [【V2EX】2022-06-20-30-岁运维转做嵌入式开发怎么样？](https://www.v2ex.com/t/860865) 
-- [【V2EX】2022-06-20-新疆、青甘环线、云南、西藏旅游组队，有人吗？](https://www.v2ex.com/t/860864) 
 - [【技术头条】2022-06-20-自动化测试的未来趋势-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15196&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fautomated-testing-trends%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-06-20-如何实现页面刷新后不定位到之前的滚动位置？-www.zhangxinxu.com](https://blogread.cn/news/go.php?idItem=15195&url=https%3A%2F%2Fwww.zhangxinxu.com%2Fwordpress%2F2022%2F05%2Fhistory-scrollrestoration%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-06-20-业务数据治理体系化思考与实践-tech.meituan.com](https://blogread.cn/news/go.php?idItem=15194&url=https%3A%2F%2Ftech.meituan.com%2F2022%2F05%2F12%2Fbusiness-data-governance.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -148,10 +148,10 @@
 - [【开发者头条】2022-06-20-解决k8s调度不均衡问题](https://toutiao.io/k/wzjfyo1) 
 - [【开发者头条】2022-06-20-如何通过关键词找需求1](https://toutiao.io/k/7cbokjg) 
 - [【开发者头条】2022-06-20-隐私计算FATE-模型训练](https://toutiao.io/k/tfxj4la) 
-- [【开发者头条】2022-06-20-推荐-我们公司使用了-5-年的系统限流方案！从实现到部署实战详解，稳的一批!​](https://toutiao.io/k/4tls39t) 
 - [【开发者头条】2022-06-20-推荐-高并发下如何防重？](https://toutiao.io/k/ulsc0so) 
-- [【开发者头条】2022-06-20-推荐-MongoDB全方位知识图谱！](https://toutiao.io/k/efxw4nr) 
 - [【开发者头条】2022-06-20-推荐-总监的烦恼：技术丢了怎么办？](https://toutiao.io/k/rzytby1) 
+- [【开发者头条】2022-06-20-推荐-MongoDB全方位知识图谱！](https://toutiao.io/k/efxw4nr) 
+- [【开发者头条】2022-06-20-推荐-我们公司使用了-5-年的系统限流方案！从实现到部署实战详解，稳的一批!​](https://toutiao.io/k/4tls39t) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-06-20 08:52:58，:rocket: 更新条数: +2027， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-06-20 09:14:37，:rocket: 更新条数: +2027， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,11 @@
 </summary>
 
 
+- [2022-06-20-ios-拼多多卸载重装之后，竟然能直接登陆](https://www.v2ex.com/t/860918) ![](assets/new.png)  
+- [2022-06-20-RustDesk-招聘远程实习（开源，有偿）IPv6-/-RTSP-项目，纯-Rust-实现](https://www.v2ex.com/t/860917) ![](assets/new.png)  
+- [2022-06-20-两块-NVMe-固态，-ECC-内存的独立服务器，上-ZFS-存数据可靠性会更高么？](https://www.v2ex.com/t/860916) ![](assets/new.png)  
+- [2022-06-20-有没有远程协助的好软件或者好方案？](https://www.v2ex.com/t/860915) ![](assets/new.png)  
+- [2022-06-20-怎么解决英语沟通问题？](https://www.v2ex.com/t/860914) ![](assets/new.png)  
 - [2022-06-20-记一次-Apple-JD-自营店换电池的垃圾体验](https://www.v2ex.com/t/860911) ![](assets/new.png)  
 - [2022-06-20-请教下各位-swiftUI-的学习路线](https://www.v2ex.com/t/860910) ![](assets/new.png)  
 - [2022-06-20-家用空调适合-7x24-的使用嘛？](https://www.v2ex.com/t/860907) ![](assets/new.png)  
@@ -506,11 +511,6 @@
 - [2022-06-20-吐槽下我的老-mbp](https://www.v2ex.com/t/860895) ![](assets/new.png)  
 - [2022-06-20-关于职业](https://www.v2ex.com/t/860894) ![](assets/new.png)  
 - [2022-06-20-给-MBP-配了-4K-显示器后，-iPad-被打入冷宫](https://www.v2ex.com/t/860892) ![](assets/new.png)  
-- [2022-06-20-Gitlab.cn-在搞一个-Hackathon，奖品看上去挺丰富的](https://www.v2ex.com/t/860890) ![](assets/new.png)  
-- [2022-06-20-房地产销售系统，明源-crm](https://www.v2ex.com/t/860889) ![](assets/new.png)  
-- [2022-06-20-一个关于快递点的故事——如果快递点是我接盘的该如何维权](https://www.v2ex.com/t/860888) ![](assets/new.png)  
-- [2022-06-20-将-Mac-用-HDMI-线连接到电视机后，仅对于-Apple-TV-app（是软件，不是电视盒子），音频输出被限制在电视机上，无法切换到其他音频设备。其他播放器则无此限制。...](https://www.v2ex.com/t/860887) ![](assets/new.png)  
-- [2022-06-20-工作没有激情了，怎么办？](https://www.v2ex.com/t/860886) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -571,8 +571,8 @@
 - [2022-06-20-解决k8s调度不均衡问题](https://toutiao.io/k/wzjfyo1) ![](assets/new.png)  
 - [2022-06-20-如何通过关键词找需求1](https://toutiao.io/k/7cbokjg) ![](assets/new.png)  
 - [2022-06-20-隐私计算FATE-模型训练](https://toutiao.io/k/tfxj4la) ![](assets/new.png)  
-- [2022-06-20-推荐-我们公司使用了-5-年的系统限流方案！从实现到部署实战详解，稳的一批!​](https://toutiao.io/k/4tls39t) ![](assets/new.png)  
 - [2022-06-20-推荐-高并发下如何防重？](https://toutiao.io/k/ulsc0so) ![](assets/new.png)  
+- [2022-06-20-推荐-总监的烦恼：技术丢了怎么办？](https://toutiao.io/k/rzytby1) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

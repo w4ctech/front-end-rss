@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-06-20 08:52:58。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-06-20 09:14:37。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -354,6 +354,7 @@
 
 
 
+- [【V2EX】RustDesk-招聘远程实习（开源，有偿）IPv6-/-RTSP-项目，纯-Rust-实现](https://www.v2ex.com/t/860917)
 - [【V2EX】工作之余，会偶尔去面试吗？](https://www.v2ex.com/t/860878)
 - [......【查看更多】......](./details/tags/job-interview.md)
 

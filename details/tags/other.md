@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-06-20 11:12:03。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-06-20 11:37:03。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,7 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-06-20-有没有类似微软拼音的不会显示-2-行拼音的输入法？或者有没有办法让微软知道-Ctrl+句点这个快捷键在使用英文标点开关打开时无效的问题？](https://www.v2ex.com/t/860950) 
 - [2022-06-20-请问通用控制的使用场景是什么？](https://www.v2ex.com/t/860949) 
 - [2022-06-20-cloudflare-的-ssl-可以用于其他-cdn-吗](https://www.v2ex.com/t/860947) 
 - [2022-06-20-求助，试用期没过，简历该怎么写](https://www.v2ex.com/t/860946) 
@@ -1938,9 +1939,6 @@
 - [2022-06-20-家用空调适合-7x24-的使用嘛？](https://www.v2ex.com/t/860907) 
 - [2022-06-20-疫情管控的权责太不对等了](https://www.v2ex.com/t/860906) 
 - [2022-06-20-怎么才能文档分享给他人查看?建站觉得维护成本略高](https://www.v2ex.com/t/860904) 
-- [2022-06-20-广东电信刚才（15:28）是不是断网了？](https://www.v2ex.com/t/860903) 
-- [2022-06-20-记一次被裁员的经历](https://www.v2ex.com/t/860902) 
-- [2022-06-20-想问问各位大佬，平日开发异常是怎么处理的。](https://www.v2ex.com/t/860900) 
 - [2022-06-20-自动化测试的未来趋势-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15196&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fautomated-testing-trends%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-06-20-业务数据治理体系化思考与实践-tech.meituan.com](https://blogread.cn/news/go.php?idItem=15194&url=https%3A%2F%2Ftech.meituan.com%2F2022%2F05%2F12%2Fbusiness-data-governance.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-06-20-拆分和合并-tar.gz-文件-www.awaimai.com](https://blogread.cn/news/go.php?idItem=15192&url=https%3A%2F%2Fwww.awaimai.com%2F2989.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1966,7 +1964,7 @@
 - [2022-06-20-解决k8s调度不均衡问题](https://toutiao.io/k/wzjfyo1) 
 - [2022-06-20-如何通过关键词找需求1](https://toutiao.io/k/7cbokjg) 
 - [2022-06-20-隐私计算FATE-模型训练](https://toutiao.io/k/tfxj4la) 
-- [2022-06-20-推荐-我们公司使用了-5-年的系统限流方案！从实现到部署实战详解，稳的一批!​](https://toutiao.io/k/4tls39t) 
-- [2022-06-20-推荐-总监的烦恼：技术丢了怎么办？](https://toutiao.io/k/rzytby1) 
-- [2022-06-20-推荐-MongoDB全方位知识图谱！](https://toutiao.io/k/efxw4nr) 
 - [2022-06-20-推荐-高并发下如何防重？](https://toutiao.io/k/ulsc0so) 
+- [2022-06-20-推荐-我们公司使用了-5-年的系统限流方案！从实现到部署实战详解，稳的一批!​](https://toutiao.io/k/4tls39t) 
+- [2022-06-20-推荐-MongoDB全方位知识图谱！](https://toutiao.io/k/efxw4nr) 
+- [2022-06-20-推荐-总监的烦恼：技术丢了怎么办？](https://toutiao.io/k/rzytby1) 

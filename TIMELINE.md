@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-06-20 05:13:33。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-06-20 05:39:01。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -71,6 +71,12 @@
 - [【张鑫旭-鑫空间-鑫生活】2022-06-19-如何继承自定义元素及其他JS中扩展新方法](https://www.zhangxinxu.com/wordpress/2022/06/js-extend-class-custom-elements/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-06-12-基于文字的URL锚点定位与::target-text样式设置](https://www.zhangxinxu.com/wordpress/2022/06/url-anchor-target-text/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-06-11-介绍一种CSS变量未定义语法也OK的小妙招](https://www.zhangxinxu.com/wordpress/2022/06/css-var-optional-empty-trick/) 
+- [【V2EX】2022-06-20-上海/北京字节跳动中台招聘平台研发、稳定性治理-SRE、研发实习生-全程跟进进度-6.20-长期有效](https://www.v2ex.com/t/860855) 
+- [【V2EX】2022-06-20-请问-lg-gram-这款电脑做开发怎么样？](https://www.v2ex.com/t/860854) 
+- [【V2EX】2022-06-20-我的电脑现在有个很诡异的问题](https://www.v2ex.com/t/860853) 
+- [【V2EX】2022-06-20-AWS-的账号和账单问题](https://www.v2ex.com/t/860852) 
+- [【V2EX】2022-06-20-腾讯云控制台居然有时区-bug](https://www.v2ex.com/t/860851) 
+- [【V2EX】2022-06-20-N5105-软路由环境下，电脑使用-IDM-同时下载超过-100-个文件，会随机触发软路由重启](https://www.v2ex.com/t/860850) 
 - [【V2EX】2022-06-20-加了两块-500G-NVMe-SSD，不组-RAID-怎么和原来-4-块-8T-硬盘一起使用](https://www.v2ex.com/t/860849) 
 - [【V2EX】2022-06-20-虚拟机共享网络，是不是端口转发就可以了？](https://www.v2ex.com/t/860848) 
 - [【V2EX】2022-06-20-一起来聊聊这几年在“二手交易”节点都买了什么东西吧](https://www.v2ex.com/t/860847) 
@@ -105,9 +111,6 @@
 - [【V2EX】2022-06-20-有了解威海众合成都公司的朋友吗？](https://www.v2ex.com/t/860808) 
 - [【V2EX】2022-06-20-大家有没有发现，最近-google-搜维基百科出来的都是手机站点？](https://www.v2ex.com/t/860807) 
 - [【V2EX】2022-06-20-github-的个人账号相关的服务挂了](https://www.v2ex.com/t/860806) 
-- [【V2EX】2022-06-20-求推荐-Android-备用手机-2000-以下](https://www.v2ex.com/t/860803) 
-- [【V2EX】2022-06-20-v2ex-向国内发展了?](https://www.v2ex.com/t/860802) 
-- [【V2EX】2022-06-20-周末用旧电脑做了一台-nas，感觉相当的简单](https://www.v2ex.com/t/860801) 
 - [【技术头条】2022-06-20-自动化测试的未来趋势-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15196&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fautomated-testing-trends%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-06-20-如何实现页面刷新后不定位到之前的滚动位置？-www.zhangxinxu.com](https://blogread.cn/news/go.php?idItem=15195&url=https%3A%2F%2Fwww.zhangxinxu.com%2Fwordpress%2F2022%2F05%2Fhistory-scrollrestoration%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-06-20-业务数据治理体系化思考与实践-tech.meituan.com](https://blogread.cn/news/go.php?idItem=15194&url=https%3A%2F%2Ftech.meituan.com%2F2022%2F05%2F12%2Fbusiness-data-governance.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -129,8 +132,8 @@
 - [【技术头条】2022-06-20-小程序同构方案-kbone-分析与适配-www.alloyteam.com](https://blogread.cn/news/go.php?idItem=15178&url=http%3A%2F%2Fwww.alloyteam.com%2F2019%2F12%2Fkbone-analyze%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-06-20-在-kbone-中实现小程序-svg-渲染-www.alloyteam.com](https://blogread.cn/news/go.php?idItem=15177&url=http%3A%2F%2Fwww.alloyteam.com%2F2019%2F11%2F14073%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【开发者头条】2022-06-20-一文详解｜Go-分布式链路追踪实现原理](https://toutiao.io/k/876321c) 
-- [【开发者头条】2022-06-20-求你了，不要再在对外接口中使用枚举类型了！](https://toutiao.io/k/p4nf4fl) 
 - [【开发者头条】2022-06-20-商品系统架构设计与实践](https://toutiao.io/k/2r512r9) 
+- [【开发者头条】2022-06-20-求你了，不要再在对外接口中使用枚举类型了！](https://toutiao.io/k/p4nf4fl) 
 - [【开发者头条】2022-06-20-OceanBase-Meetup第五期：复杂业务场景下的数据库应用需求及挑战](https://toutiao.io/k/9x0g08k) 
 - [【开发者头条】2022-06-20-node_modules-是该好好治一治了](https://toutiao.io/k/5bq88fv) 
 - [【开发者头条】2022-06-20-使用读写分离模式扩展-Grafana-Loki](https://toutiao.io/k/zp552t1) 
@@ -141,12 +144,12 @@
 - [【开发者头条】2022-06-20-提升“架构思维”？这本书值得一读！](https://toutiao.io/k/0as54ye) 
 - [【开发者头条】2022-06-20-Android升级适配爬坑历程](https://toutiao.io/k/7qfojv9) 
 - [【开发者头条】2022-06-20-深入理解反射式dll注入技术](https://toutiao.io/k/836u75j) 
-- [【开发者头条】2022-06-20-微前端究竟是什么？微前端核心技术揭秘！](https://toutiao.io/k/orspgjw) 
 - [【开发者头条】2022-06-20-作业帮直播间前端架构优化实践](https://toutiao.io/k/u6t4evr) 
-- [【开发者头条】2022-06-20-推荐-高并发下如何防重？](https://toutiao.io/k/ulsc0so) 
-- [【开发者头条】2022-06-20-推荐-MongoDB全方位知识图谱！](https://toutiao.io/k/efxw4nr) 
+- [【开发者头条】2022-06-20-微前端究竟是什么？微前端核心技术揭秘！](https://toutiao.io/k/orspgjw) 
 - [【开发者头条】2022-06-20-推荐-我们公司使用了-5-年的系统限流方案！从实现到部署实战详解，稳的一批!​](https://toutiao.io/k/4tls39t) 
 - [【开发者头条】2022-06-20-推荐-总监的烦恼：技术丢了怎么办？](https://toutiao.io/k/rzytby1) 
+- [【开发者头条】2022-06-20-推荐-高并发下如何防重？](https://toutiao.io/k/ulsc0so) 
+- [【开发者头条】2022-06-20-推荐-MongoDB全方位知识图谱！](https://toutiao.io/k/efxw4nr) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

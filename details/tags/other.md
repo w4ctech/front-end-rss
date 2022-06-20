@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-06-20 04:54:42。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-06-20 05:13:33。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,9 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-06-20-加了两块-500G-NVMe-SSD，不组-RAID-怎么和原来-4-块-8T-硬盘一起使用](https://www.v2ex.com/t/860849) 
+- [2022-06-20-虚拟机共享网络，是不是端口转发就可以了？](https://www.v2ex.com/t/860848) 
+- [2022-06-20-一起来聊聊这几年在“二手交易”节点都买了什么东西吧](https://www.v2ex.com/t/860847) 
 - [2022-06-20-有用来刷剧的-VR-眼镜推荐么？](https://www.v2ex.com/t/860846) 
 - [2022-06-20-iOS-背单词好用的-App-推荐](https://www.v2ex.com/t/860844) 
 - [2022-06-20-无线键盘有啥推荐的吗](https://www.v2ex.com/t/860840) 
@@ -1941,7 +1944,6 @@
 - [2022-06-20-求推荐-Android-备用手机-2000-以下](https://www.v2ex.com/t/860803) 
 - [2022-06-20-v2ex-向国内发展了?](https://www.v2ex.com/t/860802) 
 - [2022-06-20-周末用旧电脑做了一台-nas，感觉相当的简单](https://www.v2ex.com/t/860801) 
-- [2022-06-20-阿里云-RDS-MySQL-8.0-日期处理有-BUG](https://www.v2ex.com/t/860798) 
 - [2022-06-20-自动化测试的未来趋势-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15196&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fautomated-testing-trends%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-06-20-业务数据治理体系化思考与实践-tech.meituan.com](https://blogread.cn/news/go.php?idItem=15194&url=https%3A%2F%2Ftech.meituan.com%2F2022%2F05%2F12%2Fbusiness-data-governance.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-06-20-拆分和合并-tar.gz-文件-www.awaimai.com](https://blogread.cn/news/go.php?idItem=15192&url=https%3A%2F%2Fwww.awaimai.com%2F2989.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1965,6 +1967,6 @@
 - [2022-06-20-深入理解反射式dll注入技术](https://toutiao.io/k/836u75j) 
 - [2022-06-20-微前端究竟是什么？微前端核心技术揭秘！](https://toutiao.io/k/orspgjw) 
 - [2022-06-20-推荐-高并发下如何防重？](https://toutiao.io/k/ulsc0so) 
-- [2022-06-20-推荐-总监的烦恼：技术丢了怎么办？](https://toutiao.io/k/rzytby1) 
 - [2022-06-20-推荐-MongoDB全方位知识图谱！](https://toutiao.io/k/efxw4nr) 
 - [2022-06-20-推荐-我们公司使用了-5-年的系统限流方案！从实现到部署实战详解，稳的一批!​](https://toutiao.io/k/4tls39t) 
+- [2022-06-20-推荐-总监的烦恼：技术丢了怎么办？](https://toutiao.io/k/rzytby1) 

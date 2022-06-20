@@ -1,10 +1,13 @@
-:alarm_clock: 更新时间: 2022-06-20 14:01:12。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-06-20 14:12:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-06-20-electron-vue-用-nedb-持久化存储，找不到持久化文件](https://www.v2ex.com/t/860989) 
+- [2022-06-20-关于电瓶车的电池问题](https://www.v2ex.com/t/860986) 
+- [2022-06-20-念念碎：工作与异地恋](https://www.v2ex.com/t/860984) 
 - [2022-06-20-有一个小程序的点子，大家看看值得吗](https://www.v2ex.com/t/860982) 
 - [2022-06-20-github-博客](https://www.v2ex.com/t/860981) 
 - [2022-06-20-JD-首页秒杀抢购-Python-脚本](https://www.v2ex.com/t/860980) 
@@ -38,8 +41,3 @@
 - [2022-06-20-watch6-44-蜂窝版京东帮卖卖了-1290](https://www.v2ex.com/t/860942) 
 - [2022-06-20-跑步能坚持久的人有什么身体特征？](https://www.v2ex.com/t/860941) 
 - [2022-06-20-CSDN-为什么一直被骂还一直变大](https://www.v2ex.com/t/860940) 
-- [2022-06-20-开了-premium-想再加点有意思的-telegram-群，不然感觉血亏。。。大家有推荐的吗？](https://www.v2ex.com/t/860938) 
-- [2022-06-20-全志-A133-Android-10-系统启动后，如何把-/dev/block/mmcblk0p2-自动挂载到某个目录里](https://www.v2ex.com/t/860937) 
-- [2022-06-20-前端大佬能当场写出这道题吗？](https://www.v2ex.com/t/860936) 
-- [2022-06-20-请问一下，有什么办法能让本地打开的-pdf-文件进入全屏（浏览器），试过监听按键事件和鼠标事件都无效](https://www.v2ex.com/t/860935) 
-- [2022-06-20-vcode-里面-output-输出完全像-txt-一样,-没有语法等高亮吗](https://www.v2ex.com/t/860934) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-06-20 06:51:34。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-06-20 07:13:23。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -71,6 +71,13 @@
 - [【张鑫旭-鑫空间-鑫生活】2022-06-19-如何继承自定义元素及其他JS中扩展新方法](https://www.zhangxinxu.com/wordpress/2022/06/js-extend-class-custom-elements/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-06-12-基于文字的URL锚点定位与::target-text样式设置](https://www.zhangxinxu.com/wordpress/2022/06/url-anchor-target-text/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-06-11-介绍一种CSS变量未定义语法也OK的小妙招](https://www.zhangxinxu.com/wordpress/2022/06/css-var-optional-empty-trick/) 
+- [【V2EX】2022-06-20-将-Mac-用-HDMI-线连接到电视机后，仅对于-Apple-TV-app（是软件，不是电视盒子），音频输出被限制在电视机上，无法切换到其他音频设备。其他播放器则无此限制。...](https://www.v2ex.com/t/860887) 
+- [【V2EX】2022-06-20-工作没有激情了，怎么办？](https://www.v2ex.com/t/860886) 
+- [【V2EX】2022-06-20-VSCode-如何快捷打印变量](https://www.v2ex.com/t/860885) 
+- [【V2EX】2022-06-20-office365-稳定-3-年拼车剩余-1-个车位，-43/y](https://www.v2ex.com/t/860883) 
+- [【V2EX】2022-06-20-Python-下载文件并处理最佳实践是什么](https://www.v2ex.com/t/860882) 
+- [【V2EX】2022-06-20-Python-使用-http-代理访问-https-网站报-407-错误](https://www.v2ex.com/t/860881) 
+- [【V2EX】2022-06-20-关于降薪问题求助](https://www.v2ex.com/t/860879) 
 - [【V2EX】2022-06-20-工作之余，会偶尔去面试吗？](https://www.v2ex.com/t/860878) 
 - [【V2EX】2022-06-20-吐槽一下现在-APP-的图标设计，太像了不容易区分](https://www.v2ex.com/t/860877) 
 - [【V2EX】2022-06-20-请教一个问题，-怎么获取-hive-on-mr-任务的-jobId-？](https://www.v2ex.com/t/860876) 
@@ -106,14 +113,6 @@
 - [【V2EX】2022-06-20-无线键盘有啥推荐的吗](https://www.v2ex.com/t/860840) 
 - [【V2EX】2022-06-20-PC-发展这么多年，为何不走模块化？](https://www.v2ex.com/t/860839) 
 - [【V2EX】2022-06-20-你们地区的二手房跌了多少？](https://www.v2ex.com/t/860838) 
-- [【V2EX】2022-06-20-求个密码管理软件](https://www.v2ex.com/t/860837) 
-- [【V2EX】2022-06-20-请教一下，在树莓派安装-emby-权限问题](https://www.v2ex.com/t/860836) 
-- [【V2EX】2022-06-20-米哈游·原神-全程跟进进度（6.20-更新长期有效）](https://www.v2ex.com/t/860835) 
-- [【V2EX】2022-06-20-淘宝上面的教育优惠机子可以购买吗？](https://www.v2ex.com/t/860834) 
-- [【V2EX】2022-06-20-如何解析获取到的-multipart/form-data-数据？](https://www.v2ex.com/t/860833) 
-- [【V2EX】2022-06-20-iPados16-粘贴时会卡死](https://www.v2ex.com/t/860832) 
-- [【V2EX】2022-06-20-腾讯云-618，境外地域-Linux-可以搭建-vpn-吗？](https://www.v2ex.com/t/860830) 
-- [【V2EX】2022-06-20-求助应用双开的手机，能一个微信，一个-wechat-吗？](https://www.v2ex.com/t/860829) 
 - [【技术头条】2022-06-20-自动化测试的未来趋势-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15196&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fautomated-testing-trends%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-06-20-如何实现页面刷新后不定位到之前的滚动位置？-www.zhangxinxu.com](https://blogread.cn/news/go.php?idItem=15195&url=https%3A%2F%2Fwww.zhangxinxu.com%2Fwordpress%2F2022%2F05%2Fhistory-scrollrestoration%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-06-20-业务数据治理体系化思考与实践-tech.meituan.com](https://blogread.cn/news/go.php?idItem=15194&url=https%3A%2F%2Ftech.meituan.com%2F2022%2F05%2F12%2Fbusiness-data-governance.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -143,8 +142,8 @@
 - [【开发者头条】2022-06-20-程序员究竟是搞技术的，还是做工程的？](https://toutiao.io/k/r5wtjt5) 
 - [【开发者头条】2022-06-20-C++-反射：全方位解读-Lura-库的前世今生！](https://toutiao.io/k/92zkmj3) 
 - [【开发者头条】2022-06-20-京东科技李浩然：基于知识图谱的商品营销文案自动生成实践](https://toutiao.io/k/7lyszb4) 
-- [【开发者头条】2022-06-20-学术休假一年，量子计算大牛、ACM计算奖得主Scott-Aaronson加盟OpenAI](https://toutiao.io/k/98oh2i9) 
 - [【开发者头条】2022-06-20-提升“架构思维”？这本书值得一读！](https://toutiao.io/k/0as54ye) 
+- [【开发者头条】2022-06-20-学术休假一年，量子计算大牛、ACM计算奖得主Scott-Aaronson加盟OpenAI](https://toutiao.io/k/98oh2i9) 
 - [【开发者头条】2022-06-20-深入理解反射式dll注入技术](https://toutiao.io/k/836u75j) 
 - [【开发者头条】2022-06-20-Android升级适配爬坑历程](https://toutiao.io/k/7qfojv9) 
 - [【开发者头条】2022-06-20-微前端究竟是什么？微前端核心技术揭秘！](https://toutiao.io/k/orspgjw) 
@@ -154,8 +153,8 @@
 - [【开发者头条】2022-06-20-隐私计算FATE-模型训练](https://toutiao.io/k/tfxj4la) 
 - [【开发者头条】2022-06-20-推荐-我们公司使用了-5-年的系统限流方案！从实现到部署实战详解，稳的一批!​](https://toutiao.io/k/4tls39t) 
 - [【开发者头条】2022-06-20-推荐-总监的烦恼：技术丢了怎么办？](https://toutiao.io/k/rzytby1) 
-- [【开发者头条】2022-06-20-推荐-高并发下如何防重？](https://toutiao.io/k/ulsc0so) 
 - [【开发者头条】2022-06-20-推荐-MongoDB全方位知识图谱！](https://toutiao.io/k/efxw4nr) 
+- [【开发者头条】2022-06-20-推荐-高并发下如何防重？](https://toutiao.io/k/ulsc0so) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

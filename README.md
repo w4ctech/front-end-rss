@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-06-20 06:51:34，:rocket: 更新条数: +2031， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-06-20 07:13:23，:rocket: 更新条数: +2030， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,13 @@
 </summary>
 
 
+- [2022-06-20-将-Mac-用-HDMI-线连接到电视机后，仅对于-Apple-TV-app（是软件，不是电视盒子），音频输出被限制在电视机上，无法切换到其他音频设备。其他播放器则无此限制。...](https://www.v2ex.com/t/860887) ![](assets/new.png)  
+- [2022-06-20-工作没有激情了，怎么办？](https://www.v2ex.com/t/860886) ![](assets/new.png)  
+- [2022-06-20-VSCode-如何快捷打印变量](https://www.v2ex.com/t/860885) ![](assets/new.png)  
+- [2022-06-20-office365-稳定-3-年拼车剩余-1-个车位，-43/y](https://www.v2ex.com/t/860883) ![](assets/new.png)  
+- [2022-06-20-Python-下载文件并处理最佳实践是什么](https://www.v2ex.com/t/860882) ![](assets/new.png)  
+- [2022-06-20-Python-使用-http-代理访问-https-网站报-407-错误](https://www.v2ex.com/t/860881) ![](assets/new.png)  
+- [2022-06-20-关于降薪问题求助](https://www.v2ex.com/t/860879) ![](assets/new.png)  
 - [2022-06-20-工作之余，会偶尔去面试吗？](https://www.v2ex.com/t/860878) ![](assets/new.png)  
 - [2022-06-20-吐槽一下现在-APP-的图标设计，太像了不容易区分](https://www.v2ex.com/t/860877) ![](assets/new.png)  
 - [2022-06-20-请教一个问题，-怎么获取-hive-on-mr-任务的-jobId-？](https://www.v2ex.com/t/860876) ![](assets/new.png)  
@@ -504,13 +511,6 @@
 - [2022-06-20-上海运维工程师，薪资待遇优厚](https://www.v2ex.com/t/860868) ![](assets/new.png)  
 - [2022-06-20-请教一个-DNS-和-CDN-的问题](https://www.v2ex.com/t/860867) ![](assets/new.png)  
 - [2022-06-20-请教-macOS、iwatch-新系统啥时候出啊](https://www.v2ex.com/t/860866) ![](assets/new.png)  
-- [2022-06-20-30-岁运维转做嵌入式开发怎么样？](https://www.v2ex.com/t/860865) ![](assets/new.png)  
-- [2022-06-20-新疆、青甘环线、云南、西藏旅游组队，有人吗？](https://www.v2ex.com/t/860864) ![](assets/new.png)  
-- [2022-06-20-也来求推荐一个开发用轻薄笔记本](https://www.v2ex.com/t/860863) ![](assets/new.png)  
-- [2022-06-20-游戏方向盘，推荐搭配什么支架](https://www.v2ex.com/t/860862) ![](assets/new.png)  
-- [2022-06-20-如何用非-root-用户通过-ip-这个命令创建-tap-设备？](https://www.v2ex.com/t/860861) ![](assets/new.png)  
-- [2022-06-20-求助：-AirTag-位置不更新](https://www.v2ex.com/t/860860) ![](assets/new.png)  
-- [2022-06-20-问一下有没有人知道如何预定（或抢购）周杰伦的即将发布的新专辑-CD？](https://www.v2ex.com/t/860858) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -562,8 +562,8 @@
 - [2022-06-20-程序员究竟是搞技术的，还是做工程的？](https://toutiao.io/k/r5wtjt5) ![](assets/new.png)  
 - [2022-06-20-C++-反射：全方位解读-Lura-库的前世今生！](https://toutiao.io/k/92zkmj3) ![](assets/new.png)  
 - [2022-06-20-京东科技李浩然：基于知识图谱的商品营销文案自动生成实践](https://toutiao.io/k/7lyszb4) ![](assets/new.png)  
-- [2022-06-20-学术休假一年，量子计算大牛、ACM计算奖得主Scott-Aaronson加盟OpenAI](https://toutiao.io/k/98oh2i9) ![](assets/new.png)  
 - [2022-06-20-提升“架构思维”？这本书值得一读！](https://toutiao.io/k/0as54ye) ![](assets/new.png)  
+- [2022-06-20-学术休假一年，量子计算大牛、ACM计算奖得主Scott-Aaronson加盟OpenAI](https://toutiao.io/k/98oh2i9) ![](assets/new.png)  
 - [2022-06-20-深入理解反射式dll注入技术](https://toutiao.io/k/836u75j) ![](assets/new.png)  
 - [2022-06-20-Android升级适配爬坑历程](https://toutiao.io/k/7qfojv9) ![](assets/new.png)  
 - [2022-06-20-微前端究竟是什么？微前端核心技术揭秘！](https://toutiao.io/k/orspgjw) ![](assets/new.png)  

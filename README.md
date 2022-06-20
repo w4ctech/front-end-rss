@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-06-20 11:37:03，:rocket: 更新条数: +2022， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-06-20 12:25:00，:rocket: 更新条数: +2023， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,11 @@
 </summary>
 
 
+- [2022-06-20-Apple-Watch-的-AC+即将到期了，能否在到期之前预约一次检测呢？](https://www.v2ex.com/t/860960) ![](assets/new.png)  
+- [2022-06-20-转小米-11-Ultra-烧-Wifi-后备份微信聊天记录](https://www.v2ex.com/t/860958) ![](assets/new.png)  
+- [2022-06-20-喊话百度搜索资源平台](https://www.v2ex.com/t/860956) ![](assets/new.png)  
+- [2022-06-20-T-Chat-第四期「亚东---我在字节做-APM-」6-月-23-日晚-8-点开播](https://www.v2ex.com/t/860955) ![](assets/new.png)  
+- [2022-06-20-给老人用手表有推荐的吗？](https://www.v2ex.com/t/860954) ![](assets/new.png)  
 - [2022-06-20-有没有类似微软拼音的不会显示-2-行拼音的输入法？或者有没有办法让微软知道-Ctrl+句点这个快捷键在使用英文标点开关打开时无效的问题？](https://www.v2ex.com/t/860950) ![](assets/new.png)  
 - [2022-06-20-请问通用控制的使用场景是什么？](https://www.v2ex.com/t/860949) ![](assets/new.png)  
 - [2022-06-20-cloudflare-的-ssl-可以用于其他-cdn-吗](https://www.v2ex.com/t/860947) ![](assets/new.png)  
@@ -506,11 +511,6 @@
 - [2022-06-20-请问一下，有什么办法能让本地打开的-pdf-文件进入全屏（浏览器），试过监听按键事件和鼠标事件都无效](https://www.v2ex.com/t/860935) ![](assets/new.png)  
 - [2022-06-20-vcode-里面-output-输出完全像-txt-一样,-没有语法等高亮吗](https://www.v2ex.com/t/860934) ![](assets/new.png)  
 - [2022-06-20-我猜是因为中国联通知道我最近一直在联通-App-里搜索「副卡」「小号」「亲情号码」，所以刚刚-10016-给我打电话推销亲情卡，第一年每月一毛钱。](https://www.v2ex.com/t/860933) ![](assets/new.png)  
-- [2022-06-20-前端+UI-公司补贴-3800-我是买-MBA-M2-还是-MBP-M1-Pro-16+512？](https://www.v2ex.com/t/860930) ![](assets/new.png)  
-- [2022-06-20-node-无法-curl-通-master](https://www.v2ex.com/t/860926) ![](assets/new.png)  
-- [2022-06-20-请教一下-kafka-group-数量比较大对-kafka-性能影响大吗](https://www.v2ex.com/t/860925) ![](assets/new.png)  
-- [2022-06-20-之前不支持光纤入户-FTTB-方式入户，现在又可以还让我交-100-移机？](https://www.v2ex.com/t/860924) ![](assets/new.png)  
-- [2022-06-20-安卓锁屏广告，有朋友知道是这是哪个流氓设置的吗](https://www.v2ex.com/t/860923) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -565,14 +565,14 @@
 - [2022-06-20-提升“架构思维”？这本书值得一读！](https://toutiao.io/k/0as54ye) ![](assets/new.png)  
 - [2022-06-20-深入理解反射式dll注入技术](https://toutiao.io/k/836u75j) ![](assets/new.png)  
 - [2022-06-20-学术休假一年，量子计算大牛、ACM计算奖得主Scott-Aaronson加盟OpenAI](https://toutiao.io/k/98oh2i9) ![](assets/new.png)  
+- [2022-06-20-解决k8s调度不均衡问题](https://toutiao.io/k/wzjfyo1) ![](assets/new.png)  
 - [2022-06-20-微前端究竟是什么？微前端核心技术揭秘！](https://toutiao.io/k/orspgjw) ![](assets/new.png)  
 - [2022-06-20-作业帮直播间前端架构优化实践](https://toutiao.io/k/u6t4evr) ![](assets/new.png)  
-- [2022-06-20-解决k8s调度不均衡问题](https://toutiao.io/k/wzjfyo1) ![](assets/new.png)  
 - [2022-06-20-Android升级适配爬坑历程](https://toutiao.io/k/7qfojv9) ![](assets/new.png)  
 - [2022-06-20-如何通过关键词找需求1](https://toutiao.io/k/7cbokjg) ![](assets/new.png)  
 - [2022-06-20-隐私计算FATE-模型训练](https://toutiao.io/k/tfxj4la) ![](assets/new.png)  
+- [2022-06-20-推荐-MongoDB全方位知识图谱！](https://toutiao.io/k/efxw4nr) ![](assets/new.png)  
 - [2022-06-20-推荐-高并发下如何防重？](https://toutiao.io/k/ulsc0so) ![](assets/new.png)  
-- [2022-06-20-推荐-我们公司使用了-5-年的系统限流方案！从实现到部署实战详解，稳的一批!​](https://toutiao.io/k/4tls39t) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

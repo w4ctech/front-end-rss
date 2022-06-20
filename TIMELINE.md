@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-06-20 08:18:37。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-06-20 08:52:58。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -71,9 +71,10 @@
 - [【张鑫旭-鑫空间-鑫生活】2022-06-19-如何继承自定义元素及其他JS中扩展新方法](https://www.zhangxinxu.com/wordpress/2022/06/js-extend-class-custom-elements/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-06-12-基于文字的URL锚点定位与::target-text样式设置](https://www.zhangxinxu.com/wordpress/2022/06/url-anchor-target-text/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-06-11-介绍一种CSS变量未定义语法也OK的小妙招](https://www.zhangxinxu.com/wordpress/2022/06/css-var-optional-empty-trick/) 
+- [【V2EX】2022-06-20-记一次-Apple-JD-自营店换电池的垃圾体验](https://www.v2ex.com/t/860911) 
+- [【V2EX】2022-06-20-请教下各位-swiftUI-的学习路线](https://www.v2ex.com/t/860910) 
 - [【V2EX】2022-06-20-家用空调适合-7x24-的使用嘛？](https://www.v2ex.com/t/860907) 
 - [【V2EX】2022-06-20-疫情管控的权责太不对等了](https://www.v2ex.com/t/860906) 
-- [【V2EX】2022-06-20-Office-365-拼车，-4-个车位，日期到-2023-06-22](https://www.v2ex.com/t/860905) 
 - [【V2EX】2022-06-20-怎么才能文档分享给他人查看?建站觉得维护成本略高](https://www.v2ex.com/t/860904) 
 - [【V2EX】2022-06-20-广东电信刚才（15:28）是不是断网了？](https://www.v2ex.com/t/860903) 
 - [【V2EX】2022-06-20-记一次被裁员的经历](https://www.v2ex.com/t/860902) 
@@ -91,7 +92,6 @@
 - [【V2EX】2022-06-20-将-Mac-用-HDMI-线连接到电视机后，仅对于-Apple-TV-app（是软件，不是电视盒子），音频输出被限制在电视机上，无法切换到其他音频设备。其他播放器则无此限制。...](https://www.v2ex.com/t/860887) 
 - [【V2EX】2022-06-20-工作没有激情了，怎么办？](https://www.v2ex.com/t/860886) 
 - [【V2EX】2022-06-20-VSCode-如何快捷打印变量](https://www.v2ex.com/t/860885) 
-- [【V2EX】2022-06-20-office365-稳定-3-年拼车剩余-1-个车位，-43/y](https://www.v2ex.com/t/860883) 
 - [【V2EX】2022-06-20-Python-下载文件并处理最佳实践是什么](https://www.v2ex.com/t/860882) 
 - [【V2EX】2022-06-20-Python-使用-http-代理访问-https-网站报-407-错误](https://www.v2ex.com/t/860881) 
 - [【V2EX】2022-06-20-关于降薪问题求助](https://www.v2ex.com/t/860879) 
@@ -110,11 +110,6 @@
 - [【V2EX】2022-06-20-请教-macOS、iwatch-新系统啥时候出啊](https://www.v2ex.com/t/860866) 
 - [【V2EX】2022-06-20-30-岁运维转做嵌入式开发怎么样？](https://www.v2ex.com/t/860865) 
 - [【V2EX】2022-06-20-新疆、青甘环线、云南、西藏旅游组队，有人吗？](https://www.v2ex.com/t/860864) 
-- [【V2EX】2022-06-20-也来求推荐一个开发用轻薄笔记本](https://www.v2ex.com/t/860863) 
-- [【V2EX】2022-06-20-游戏方向盘，推荐搭配什么支架](https://www.v2ex.com/t/860862) 
-- [【V2EX】2022-06-20-如何用非-root-用户通过-ip-这个命令创建-tap-设备？](https://www.v2ex.com/t/860861) 
-- [【V2EX】2022-06-20-求助：-AirTag-位置不更新](https://www.v2ex.com/t/860860) 
-- [【V2EX】2022-06-20-问一下有没有人知道如何预定（或抢购）周杰伦的即将发布的新专辑-CD？](https://www.v2ex.com/t/860858) 
 - [【技术头条】2022-06-20-自动化测试的未来趋势-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15196&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fautomated-testing-trends%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-06-20-如何实现页面刷新后不定位到之前的滚动位置？-www.zhangxinxu.com](https://blogread.cn/news/go.php?idItem=15195&url=https%3A%2F%2Fwww.zhangxinxu.com%2Fwordpress%2F2022%2F05%2Fhistory-scrollrestoration%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-06-20-业务数据治理体系化思考与实践-tech.meituan.com](https://blogread.cn/news/go.php?idItem=15194&url=https%3A%2F%2Ftech.meituan.com%2F2022%2F05%2F12%2Fbusiness-data-governance.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -154,9 +149,9 @@
 - [【开发者头条】2022-06-20-如何通过关键词找需求1](https://toutiao.io/k/7cbokjg) 
 - [【开发者头条】2022-06-20-隐私计算FATE-模型训练](https://toutiao.io/k/tfxj4la) 
 - [【开发者头条】2022-06-20-推荐-我们公司使用了-5-年的系统限流方案！从实现到部署实战详解，稳的一批!​](https://toutiao.io/k/4tls39t) 
-- [【开发者头条】2022-06-20-推荐-总监的烦恼：技术丢了怎么办？](https://toutiao.io/k/rzytby1) 
-- [【开发者头条】2022-06-20-推荐-MongoDB全方位知识图谱！](https://toutiao.io/k/efxw4nr) 
 - [【开发者头条】2022-06-20-推荐-高并发下如何防重？](https://toutiao.io/k/ulsc0so) 
+- [【开发者头条】2022-06-20-推荐-MongoDB全方位知识图谱！](https://toutiao.io/k/efxw4nr) 
+- [【开发者头条】2022-06-20-推荐-总监的烦恼：技术丢了怎么办？](https://toutiao.io/k/rzytby1) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

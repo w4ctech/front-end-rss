@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-06-20 18:47:39，:rocket: 更新条数: +2027， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-06-20 19:11:02，:rocket: 更新条数: +2027， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -571,8 +571,8 @@
 - [2022-06-20-Android升级适配爬坑历程](https://toutiao.io/k/7qfojv9) ![](assets/new.png)  
 - [2022-06-20-如何通过关键词找需求1](https://toutiao.io/k/7cbokjg) ![](assets/new.png)  
 - [2022-06-20-隐私计算FATE-模型训练](https://toutiao.io/k/tfxj4la) ![](assets/new.png)  
-- [2022-06-20-推荐-总监的烦恼：技术丢了怎么办？](https://toutiao.io/k/rzytby1) ![](assets/new.png)  
 - [2022-06-20-推荐-我们公司使用了-5-年的系统限流方案！从实现到部署实战详解，稳的一批!​](https://toutiao.io/k/4tls39t) ![](assets/new.png)  
+- [2022-06-20-推荐-Redis夺命52连问](https://toutiao.io/k/he3fzao) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

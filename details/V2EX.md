@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-06-20 22:13:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-06-20 22:39:53。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
@@ -30,7 +30,6 @@
 - [2022-06-20-关于润学，今天在-tg-某群组看到他们讨论推特上帕劳“自治身份证”](https://www.v2ex.com/t/860991) 
 - [2022-06-20-electron-vue-用-nedb-持久化存储，找不到持久化文件](https://www.v2ex.com/t/860989) 
 - [2022-06-20-关于电瓶车的电池问题](https://www.v2ex.com/t/860986) 
-- [2022-06-20-念念碎：工作与异地恋](https://www.v2ex.com/t/860984) 
 - [2022-06-20-有一个小程序的点子，大家看看值得吗](https://www.v2ex.com/t/860982) 
 - [2022-06-20-github-博客](https://www.v2ex.com/t/860981) 
 - [2022-06-20-JD-首页秒杀抢购-Python-脚本](https://www.v2ex.com/t/860980) 

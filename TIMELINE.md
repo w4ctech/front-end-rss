@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-06-20 22:13:24。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-06-20 22:39:53。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -96,7 +96,6 @@
 - [【V2EX】2022-06-20-关于润学，今天在-tg-某群组看到他们讨论推特上帕劳“自治身份证”](https://www.v2ex.com/t/860991) 
 - [【V2EX】2022-06-20-electron-vue-用-nedb-持久化存储，找不到持久化文件](https://www.v2ex.com/t/860989) 
 - [【V2EX】2022-06-20-关于电瓶车的电池问题](https://www.v2ex.com/t/860986) 
-- [【V2EX】2022-06-20-念念碎：工作与异地恋](https://www.v2ex.com/t/860984) 
 - [【V2EX】2022-06-20-有一个小程序的点子，大家看看值得吗](https://www.v2ex.com/t/860982) 
 - [【V2EX】2022-06-20-github-博客](https://www.v2ex.com/t/860981) 
 - [【V2EX】2022-06-20-JD-首页秒杀抢购-Python-脚本](https://www.v2ex.com/t/860980) 
@@ -129,29 +128,12 @@
 - [【技术头条】2022-06-20-如何进行-web-性能监控？-www.alloyteam.com](https://blogread.cn/news/go.php?idItem=15179&url=http%3A%2F%2Fwww.alloyteam.com%2F2020%2F01%2F14184%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-06-20-小程序同构方案-kbone-分析与适配-www.alloyteam.com](https://blogread.cn/news/go.php?idItem=15178&url=http%3A%2F%2Fwww.alloyteam.com%2F2019%2F12%2Fkbone-analyze%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-06-20-在-kbone-中实现小程序-svg-渲染-www.alloyteam.com](https://blogread.cn/news/go.php?idItem=15177&url=http%3A%2F%2Fwww.alloyteam.com%2F2019%2F11%2F14073%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
-- [【开发者头条】2022-06-20-一文详解｜Go-分布式链路追踪实现原理](https://toutiao.io/k/876321c) 
-- [【开发者头条】2022-06-20-商品系统架构设计与实践](https://toutiao.io/k/2r512r9) 
-- [【开发者头条】2022-06-20-求你了，不要再在对外接口中使用枚举类型了！](https://toutiao.io/k/p4nf4fl) 
-- [【开发者头条】2022-06-20-使用读写分离模式扩展-Grafana-Loki](https://toutiao.io/k/zp552t1) 
-- [【开发者头条】2022-06-20-node_modules-是该好好治一治了](https://toutiao.io/k/5bq88fv) 
-- [【开发者头条】2022-06-20-京东科技李浩然：基于知识图谱的商品营销文案自动生成实践](https://toutiao.io/k/7lyszb4) 
-- [【开发者头条】2022-06-20-OceanBase-Meetup第五期：复杂业务场景下的数据库应用需求及挑战](https://toutiao.io/k/9x0g08k) 
-- [【开发者头条】2022-06-20-程序员究竟是搞技术的，还是做工程的？](https://toutiao.io/k/r5wtjt5) 
-- [【开发者头条】2022-06-20-C++-反射：全方位解读-Lura-库的前世今生！](https://toutiao.io/k/92zkmj3) 
-- [【开发者头条】2022-06-20-提升“架构思维”？这本书值得一读！](https://toutiao.io/k/0as54ye) 
-- [【开发者头条】2022-06-20-深入理解反射式dll注入技术](https://toutiao.io/k/836u75j) 
-- [【开发者头条】2022-06-20-解决k8s调度不均衡问题](https://toutiao.io/k/wzjfyo1) 
-- [【开发者头条】2022-06-20-学术休假一年，量子计算大牛、ACM计算奖得主Scott-Aaronson加盟OpenAI](https://toutiao.io/k/98oh2i9) 
-- [【开发者头条】2022-06-20-微前端究竟是什么？微前端核心技术揭秘！](https://toutiao.io/k/orspgjw) 
-- [【开发者头条】2022-06-20-Android升级适配爬坑历程](https://toutiao.io/k/7qfojv9) 
-- [【开发者头条】2022-06-20-作业帮直播间前端架构优化实践](https://toutiao.io/k/u6t4evr) 
-- [【开发者头条】2022-06-20-如何通过关键词找需求1](https://toutiao.io/k/7cbokjg) 
-- [【开发者头条】2022-06-20-隐私计算FATE-模型训练](https://toutiao.io/k/tfxj4la) 
+- [【开发者头条】2022-06-20-从维护性工作到软件开发革命，运维-15-年间的大逆转](https://toutiao.io/k/xr13s7n) 
 - [【开发者头条】2022-06-20-推荐-高并发下如何防重？](https://toutiao.io/k/ulsc0so) 
 - [【开发者头条】2022-06-20-推荐-我们公司使用了-5-年的系统限流方案！从实现到部署实战详解，稳的一批!​](https://toutiao.io/k/4tls39t) 
+- [【开发者头条】2022-06-20-推荐-MongoDB全方位知识图谱！](https://toutiao.io/k/efxw4nr) 
 - [【开发者头条】2022-06-20-推荐-总监的烦恼：技术丢了怎么办？](https://toutiao.io/k/rzytby1) 
 - [【开发者头条】2022-06-20-推荐-Redis夺命52连问](https://toutiao.io/k/he3fzao) 
-- [【开发者头条】2022-06-20-推荐-MongoDB全方位知识图谱！](https://toutiao.io/k/efxw4nr) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

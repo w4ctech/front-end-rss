@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-06-20 22:13:24。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-06-20 22:39:53。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -107,7 +107,6 @@
 
 - [【V2EX】k8s-裸机配置时那么多的-node、pod、service、PVC、PV-配置文件，都是硬记下来然后手写？还是说一般都是用到了去查？或者说普遍使用-GUI？还是说普遍不用裸机配...](https://www.v2ex.com/t/860978)
 - [【V2EX】iconfont-一直不能上传，迫于项目压力，用-eggjs-快速搞了个本地部署版本](https://www.v2ex.com/t/860972)
-- [【开发者头条】node_modules-是该好好治一治了](https://toutiao.io/k/5bq88fv)
 - [......【查看更多】......](./details/tags/nodejs.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -191,7 +190,6 @@
 - [【张鑫旭-鑫空间-鑫生活】CSS实现滚动高度自动变小的粘滞效果](https://www.zhangxinxu.com/wordpress/2022/04/css-sticky-size-change/)
 - [【V2EX】如何在-Python-存在多个事件循环时正常使用-mayavi-绘图?](https://www.v2ex.com/t/861013)
 - [【技术头条】如何实现页面刷新后不定位到之前的滚动位置？-www.zhangxinxu.com](https://blogread.cn/news/go.php?idItem=15195&url=https%3A%2F%2Fwww.zhangxinxu.com%2Fwordpress%2F2022%2F05%2Fhistory-scrollrestoration%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
-- [【开发者头条】Android升级适配爬坑历程](https://toutiao.io/k/7qfojv9)
 - [......【查看更多】......](./details/tags/javascript.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -247,7 +245,6 @@
 - [【武汉肺炎防疫全纪录(财新网)】广州17岁男生在定点医院参加高考-特殊考场视频监考](https://m.caixin.com/m/2021-06-05/101723418.html)
 - [【武汉肺炎防疫全纪录(财新网)】林郑月娥率13高官直播接种科兴疫苗-复星疫苗预计周中到港](https://m.caixin.com/m/2021-02-22/101665724.html)
 - [【V2EX】收音机-App-被拒，-5.2.3-Legal:-Intellectual-Property---Audio/Video-Downloading](https://www.v2ex.com/t/860971)
-- [【开发者头条】作业帮直播间前端架构优化实践](https://toutiao.io/k/u6t4evr)
 - [......【查看更多】......](./details/tags/audio-video.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

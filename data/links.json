@@ -9953,6 +9953,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "如何在 Python 存在多个事件循环时正常使用 mayavi 绘图?",
+        "link": "https://www.v2ex.com/t/861013",
+        "date": "2022-06-20"
+      },
+      {
         "title": "word 支持文本上下排列吗?",
         "link": "https://www.v2ex.com/t/861012",
         "date": "2022-06-20"
@@ -10342,11 +10347,6 @@
         "date": "2022-06-20"
       },
       {
-        "title": "[推荐] MongoDB全方位知识图谱！",
-        "link": "https://toutiao.io/k/efxw4nr",
-        "date": "2022-06-20"
-      },
-      {
         "title": "[推荐] 我们公司使用了 5 年的系统限流方案！从实现到部署实战详解，稳的一批!​",
         "link": "https://toutiao.io/k/4tls39t",
         "date": "2022-06-20"
@@ -10359,6 +10359,11 @@
       {
         "title": "[推荐] Redis夺命52连问",
         "link": "https://toutiao.io/k/he3fzao",
+        "date": "2022-06-20"
+      },
+      {
+        "title": "[推荐] MongoDB全方位知识图谱！",
+        "link": "https://toutiao.io/k/efxw4nr",
         "date": "2022-06-20"
       },
       {

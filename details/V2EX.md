@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-06-20 22:39:53。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-06-20 23:03:39。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
@@ -41,4 +41,3 @@
 - [2022-06-20-关于-dash-docset-制作的一点疑问](https://www.v2ex.com/t/860973) 
 - [2022-06-20-iconfont-一直不能上传，迫于项目压力，用-eggjs-快速搞了个本地部署版本](https://www.v2ex.com/t/860972) 
 - [2022-06-20-收音机-App-被拒，-5.2.3-Legal:-Intellectual-Property---Audio/Video-Downloading](https://www.v2ex.com/t/860971) 
-- [2022-06-20-为什么我在原型中添加属性没有生效？](https://www.v2ex.com/t/860969) 

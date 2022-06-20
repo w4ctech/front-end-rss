@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-06-20 23:13:59。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-06-20 23:39:45。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -106,7 +106,6 @@
 
 
 - [【V2EX】k8s-裸机配置时那么多的-node、pod、service、PVC、PV-配置文件，都是硬记下来然后手写？还是说一般都是用到了去查？或者说普遍使用-GUI？还是说普遍不用裸机配...](https://www.v2ex.com/t/860978)
-- [【V2EX】iconfont-一直不能上传，迫于项目压力，用-eggjs-快速搞了个本地部署版本](https://www.v2ex.com/t/860972)
 - [......【查看更多】......](./details/tags/nodejs.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -244,7 +243,6 @@
 
 - [【武汉肺炎防疫全纪录(财新网)】广州17岁男生在定点医院参加高考-特殊考场视频监考](https://m.caixin.com/m/2021-06-05/101723418.html)
 - [【武汉肺炎防疫全纪录(财新网)】林郑月娥率13高官直播接种科兴疫苗-复星疫苗预计周中到港](https://m.caixin.com/m/2021-02-22/101665724.html)
-- [【V2EX】收音机-App-被拒，-5.2.3-Legal:-Intellectual-Property---Audio/Video-Downloading](https://www.v2ex.com/t/860971)
 - [......【查看更多】......](./details/tags/audio-video.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

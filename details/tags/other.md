@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-06-20 23:13:59。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-06-20 23:39:45。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,8 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-06-20-ToDesk-被控端如何主动断开连接？](https://www.v2ex.com/t/861022) 
+- [2022-06-20-三十多岁的老码农出路在何方？](https://www.v2ex.com/t/861021) 
 - [2022-06-20-入住第-4-年，想自己学习一下中央空调维护技术](https://www.v2ex.com/t/861018) 
 - [2022-06-20-移民瑞典机会](https://www.v2ex.com/t/861017) 
 - [2022-06-20-超星学习通数据库疑似遭入侵](https://www.v2ex.com/t/861016) 
@@ -1948,8 +1950,8 @@
 - [2022-06-20-利用FRP进行内网穿透-www.hitoy.org](https://blogread.cn/news/go.php?idItem=15181&url=https%3A%2F%2Fwww.hitoy.org%2Fintranet-penetration-using-frp.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-06-20-通过-MicroK8s-搭建你的-K8s-环境-soulteary.com](https://blogread.cn/news/go.php?idItem=15180&url=https%3A%2F%2Fsoulteary.com%2F2019%2F09%2F08%2Fbuild-your-k8s-environment-with-microk8s.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-06-20-从维护性工作到软件开发革命，运维-15-年间的大逆转](https://toutiao.io/k/xr13s7n) 
-- [2022-06-20-推荐-我们公司使用了-5-年的系统限流方案！从实现到部署实战详解，稳的一批!​](https://toutiao.io/k/4tls39t) 
-- [2022-06-20-推荐-MongoDB全方位知识图谱！](https://toutiao.io/k/efxw4nr) 
 - [2022-06-20-推荐-Redis夺命52连问](https://toutiao.io/k/he3fzao) 
 - [2022-06-20-推荐-高并发下如何防重？](https://toutiao.io/k/ulsc0so) 
+- [2022-06-20-推荐-MongoDB全方位知识图谱！](https://toutiao.io/k/efxw4nr) 
 - [2022-06-20-推荐-总监的烦恼：技术丢了怎么办？](https://toutiao.io/k/rzytby1) 
+- [2022-06-20-推荐-我们公司使用了-5-年的系统限流方案！从实现到部署实战详解，稳的一批!​](https://toutiao.io/k/4tls39t) 

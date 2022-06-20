@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2022-06-20 23:14:00。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-06-20 23:39:45。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-06-20-ToDesk-被控端如何主动断开连接？](https://www.v2ex.com/t/861022) 
+- [2022-06-20-三十多岁的老码农出路在何方？](https://www.v2ex.com/t/861021) 
 - [2022-06-20-M1-上有没有适合-vim-的中英文切换插件呢？](https://www.v2ex.com/t/861020) 
 - [2022-06-20-入住第-4-年，想自己学习一下中央空调维护技术](https://www.v2ex.com/t/861018) 
 - [2022-06-20-移民瑞典机会](https://www.v2ex.com/t/861017) 
@@ -40,5 +42,3 @@
 - [2022-06-20-有融合-Delta-Chat-与-thunderbird-邮件客户端的工具吗?](https://www.v2ex.com/t/860976) 
 - [2022-06-20-Macos-检测到无鼠标连接的情况就不给进入系统的机制真的傻逼到家了](https://www.v2ex.com/t/860975) 
 - [2022-06-20-关于-dash-docset-制作的一点疑问](https://www.v2ex.com/t/860973) 
-- [2022-06-20-iconfont-一直不能上传，迫于项目压力，用-eggjs-快速搞了个本地部署版本](https://www.v2ex.com/t/860972) 
-- [2022-06-20-收音机-App-被拒，-5.2.3-Legal:-Intellectual-Property---Audio/Video-Downloading](https://www.v2ex.com/t/860971) 

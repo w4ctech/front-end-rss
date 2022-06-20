@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-06-20 01:05:40，:rocket: 更新条数: +2020， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-06-20 03:06:49，:rocket: 更新条数: +2021， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,26 +491,26 @@
 </summary>
 
 
-- [2022-06-20-成都的老哥有嘛，迫成都出差回来缺餐饮发票](https://www.v2ex.com/t/860768) ![](assets/new.png)  
-- [2022-06-20-三伏天，夏日饮料推荐与被推荐~~~~~](https://www.v2ex.com/t/860766) ![](assets/new.png)  
-- [2022-06-20-自己实现-cloudbase-的-api](https://www.v2ex.com/t/860764) ![](assets/new.png)  
-- [2022-06-20-到目前（2022-年-6-月）是否已经能用-M1/M2-芯片的-Macbook-做前端开发了？](https://www.v2ex.com/t/860763) ![](assets/new.png)  
-- [2022-06-20-独立产品灵感周刊-DecoHack-#018---全球前-10-名最流行的网站变化](https://www.v2ex.com/t/860762) ![](assets/new.png)  
-- [2022-06-20-求推荐传输速度稳定的数据线](https://www.v2ex.com/t/860761) ![](assets/new.png)  
-- [2022-06-20-telegram-出会员了，大佬都准备买了么？](https://www.v2ex.com/t/860760) ![](assets/new.png)  
-- [2022-06-19-简单好用的推送助手](https://www.v2ex.com/t/860759) ![](assets/new.png)  
-- [2022-06-19-telegram-发布-Premium-订阅服务](https://www.v2ex.com/t/860758) ![](assets/new.png)  
-- [2022-06-19-WeChatPlayer.exe-进程-CPU-占用过高](https://www.v2ex.com/t/860756) ![](assets/new.png)  
-- [2022-06-19-原生-Android-系统，当连接-WiFi-网络无法连接互联网时，如何自动用-4G-上网](https://www.v2ex.com/t/860755) ![](assets/new.png)  
-- [2022-06-19-微信支付“吞”了我-6-万元](https://www.v2ex.com/t/860754) ![](assets/new.png)  
-- [2022-06-19-阿里云盘-200G-兑换码](https://www.v2ex.com/t/860753) ![](assets/new.png)  
-- [2022-06-19-腾讯云轻量服务器有没有办法跨账号内网互联？](https://www.v2ex.com/t/860752) ![](assets/new.png)  
-- [2022-06-19-及时的文档转换的库,-类似-pandoc](https://www.v2ex.com/t/860751) ![](assets/new.png)  
-- [2022-06-19-寻求-Java-远程工作](https://www.v2ex.com/t/860750) ![](assets/new.png)  
-- [2022-06-19-类似-115-种子离线下载的网盘，属不属于-p2p-呢？](https://www.v2ex.com/t/860749) ![](assets/new.png)  
-- [2022-06-19-大佬们请教一下，如何防止服务器被攻击，有没有低成本的办法？](https://www.v2ex.com/t/860748) ![](assets/new.png)  
-- [2022-06-19-音频分离-Spleeter-的-Rust-实现](https://www.v2ex.com/t/860747) ![](assets/new.png)  
-- [2022-06-19-买新-Macbook-Air-到底是选大内存还是大硬盘？又听到这种话题。](https://www.v2ex.com/t/860745) ![](assets/new.png)  
+- [2022-06-20-对于显示器而言，调节屏幕亮度对色准的影响有多大？](https://www.v2ex.com/t/860809) ![](assets/new.png)  
+- [2022-06-20-有了解威海众合成都公司的朋友吗？](https://www.v2ex.com/t/860808) ![](assets/new.png)  
+- [2022-06-20-大家有没有发现，最近-google-搜维基百科出来的都是手机站点？](https://www.v2ex.com/t/860807) ![](assets/new.png)  
+- [2022-06-20-github-的个人账号相关的服务挂了](https://www.v2ex.com/t/860806) ![](assets/new.png)  
+- [2022-06-20-求推荐-Android-备用手机-2000-以下](https://www.v2ex.com/t/860803) ![](assets/new.png)  
+- [2022-06-20-v2ex-向国内发展了?](https://www.v2ex.com/t/860802) ![](assets/new.png)  
+- [2022-06-20-周末用旧电脑做了一台-nas，感觉相当的简单](https://www.v2ex.com/t/860801) ![](assets/new.png)  
+- [2022-06-20-阿里云-RDS-MySQL-8.0-日期处理有-BUG](https://www.v2ex.com/t/860798) ![](assets/new.png)  
+- [2022-06-20-m1-max-用啥都快，就是辣鸡-office-还是那么卡顿](https://www.v2ex.com/t/860795) ![](assets/new.png)  
+- [2022-06-20-Python-去重问题](https://www.v2ex.com/t/860794) ![](assets/new.png)  
+- [2022-06-20-iPad-退出登录后，自动登录上一个账户](https://www.v2ex.com/t/860793) ![](assets/new.png)  
+- [2022-06-20-有关-cloudflare-国内部分地区无法访问的问题](https://www.v2ex.com/t/860792) ![](assets/new.png)  
+- [2022-06-20-好奇，大家在不同平台的头像昵称会设置为一样的吗](https://www.v2ex.com/t/860791) ![](assets/new.png)  
+- [2022-06-20-不懂就问,-iMac-2021-有屏闪吗](https://www.v2ex.com/t/860789) ![](assets/new.png)  
+- [2022-06-20-求职-6-年前端，求职一份远程工作](https://www.v2ex.com/t/860788) ![](assets/new.png)  
+- [2022-06-20-ONE-NOTE-笔记本,-一整个分区居-然-消-失-了!](https://www.v2ex.com/t/860787) ![](assets/new.png)  
+- [2022-06-20-如何代理一个代理服务器？连提问都不会了。](https://www.v2ex.com/t/860785) ![](assets/new.png)  
+- [2022-06-20-《C++服务器开发精髓》这本书怎么样，有更好的书推荐吗](https://www.v2ex.com/t/860784) ![](assets/new.png)  
+- [2022-06-20-小米-11Ultra-MIUI-13.0.12-系统多处-bug，稳定版更新周期又长！怎么办呢！？](https://www.v2ex.com/t/860783) ![](assets/new.png)  
+- [2022-06-20-咨询一个-ES-的问题](https://www.v2ex.com/t/860782) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -522,6 +522,7 @@
 </summary>
 
 
+- [2022-06-20-自动化测试的未来趋势-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15196&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fautomated-testing-trends%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-06-20-如何实现页面刷新后不定位到之前的滚动位置？-www.zhangxinxu.com](https://blogread.cn/news/go.php?idItem=15195&url=https%3A%2F%2Fwww.zhangxinxu.com%2Fwordpress%2F2022%2F05%2Fhistory-scrollrestoration%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-06-20-业务数据治理体系化思考与实践-tech.meituan.com](https://blogread.cn/news/go.php?idItem=15194&url=https%3A%2F%2Ftech.meituan.com%2F2022%2F05%2F12%2Fbusiness-data-governance.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-06-20-安全运营能力成熟度模型（SOMM）-www.sec-un.org](https://blogread.cn/news/go.php?idItem=15193&url=https%3A%2F%2Fwww.sec-un.org%2F%25e5%25ae%2589%25e5%2585%25a8%25e8%25bf%2590%25e8%2590%25a5%25e8%2583%25bd%25e5%258a%259b%25e6%2588%2590%25e7%2586%259f%25e5%25ba%25a6%25e6%25a8%25a1%25e5%259e%258b%25ef%25bc%2588somm%25ef%25bc%2589%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
@@ -541,7 +542,6 @@
 - [2022-06-20-如何进行-web-性能监控？-www.alloyteam.com](https://blogread.cn/news/go.php?idItem=15179&url=http%3A%2F%2Fwww.alloyteam.com%2F2020%2F01%2F14184%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-06-20-小程序同构方案-kbone-分析与适配-www.alloyteam.com](https://blogread.cn/news/go.php?idItem=15178&url=http%3A%2F%2Fwww.alloyteam.com%2F2019%2F12%2Fkbone-analyze%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-06-20-在-kbone-中实现小程序-svg-渲染-www.alloyteam.com](https://blogread.cn/news/go.php?idItem=15177&url=http%3A%2F%2Fwww.alloyteam.com%2F2019%2F11%2F14073%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-06-20-面试之前，简历之上：给前端校招同学的简历建议-www.alloyteam.com](https://blogread.cn/news/go.php?idItem=15176&url=http%3A%2F%2Fwww.alloyteam.com%2F2019%2F09%2F13948%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -555,18 +555,23 @@
 
 - [2022-06-20-一文详解｜Go-分布式链路追踪实现原理](https://toutiao.io/k/876321c) ![](assets/new.png)  
 - [2022-06-20-求你了，不要再在对外接口中使用枚举类型了！](https://toutiao.io/k/p4nf4fl) ![](assets/new.png)  
+- [2022-06-20-商品系统架构设计与实践](https://toutiao.io/k/2r512r9) ![](assets/new.png)  
 - [2022-06-20-OceanBase-Meetup第五期：复杂业务场景下的数据库应用需求及挑战](https://toutiao.io/k/9x0g08k) ![](assets/new.png)  
 - [2022-06-20-node_modules-是该好好治一治了](https://toutiao.io/k/5bq88fv) ![](assets/new.png)  
 - [2022-06-20-使用读写分离模式扩展-Grafana-Loki](https://toutiao.io/k/zp552t1) ![](assets/new.png)  
-- [2022-06-20-商品系统架构设计与实践](https://toutiao.io/k/2r512r9) ![](assets/new.png)  
 - [2022-06-20-程序员究竟是搞技术的，还是做工程的？](https://toutiao.io/k/r5wtjt5) ![](assets/new.png)  
 - [2022-06-20-C++-反射：全方位解读-Lura-库的前世今生！](https://toutiao.io/k/92zkmj3) ![](assets/new.png)  
 - [2022-06-20-京东科技李浩然：基于知识图谱的商品营销文案自动生成实践](https://toutiao.io/k/7lyszb4) ![](assets/new.png)  
 - [2022-06-20-学术休假一年，量子计算大牛、ACM计算奖得主Scott-Aaronson加盟OpenAI](https://toutiao.io/k/98oh2i9) ![](assets/new.png)  
+- [2022-06-20-Android升级适配爬坑历程](https://toutiao.io/k/7qfojv9) ![](assets/new.png)  
+- [2022-06-20-提升“架构思维”？这本书值得一读！](https://toutiao.io/k/0as54ye) ![](assets/new.png)  
+- [2022-06-20-深入理解反射式dll注入技术](https://toutiao.io/k/836u75j) ![](assets/new.png)  
+- [2022-06-20-作业帮直播间前端架构优化实践](https://toutiao.io/k/u6t4evr) ![](assets/new.png)  
+- [2022-06-20-微前端究竟是什么？微前端核心技术揭秘！](https://toutiao.io/k/orspgjw) ![](assets/new.png)  
 - [2022-06-20-推荐-高并发下如何防重？](https://toutiao.io/k/ulsc0so) ![](assets/new.png)  
 - [2022-06-20-推荐-我们公司使用了-5-年的系统限流方案！从实现到部署实战详解，稳的一批!​](https://toutiao.io/k/4tls39t) ![](assets/new.png)  
-- [2022-06-20-推荐-总监的烦恼：技术丢了怎么办？](https://toutiao.io/k/rzytby1) ![](assets/new.png)  
 - [2022-06-20-推荐-MongoDB全方位知识图谱！](https://toutiao.io/k/efxw4nr) ![](assets/new.png)  
+- [2022-06-20-推荐-总监的烦恼：技术丢了怎么办？](https://toutiao.io/k/rzytby1) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

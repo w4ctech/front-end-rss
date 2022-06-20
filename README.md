@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-06-20 06:18:48，:rocket: 更新条数: +2030， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-06-20 06:51:34，:rocket: 更新条数: +2031， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,13 @@
 </summary>
 
 
+- [2022-06-20-工作之余，会偶尔去面试吗？](https://www.v2ex.com/t/860878) ![](assets/new.png)  
+- [2022-06-20-吐槽一下现在-APP-的图标设计，太像了不容易区分](https://www.v2ex.com/t/860877) ![](assets/new.png)  
+- [2022-06-20-请教一个问题，-怎么获取-hive-on-mr-任务的-jobId-？](https://www.v2ex.com/t/860876) ![](assets/new.png)  
+- [2022-06-20-上海-HC-#元宇宙#智能-AI-虚拟人#UGC+GPT-3#硅谷创业团队#招募移动端开发+后端开发](https://www.v2ex.com/t/860875) ![](assets/new.png)  
+- [2022-06-20-m2-的-macbook-air-合盖的情况下可以外接两个屏幕吗?](https://www.v2ex.com/t/860874) ![](assets/new.png)  
+- [2022-06-20-保德路-450-弄出租一室-可短租到-10-月份](https://www.v2ex.com/t/860873) ![](assets/new.png)  
+- [2022-06-20-求推荐境外手机卡](https://www.v2ex.com/t/860872) ![](assets/new.png)  
 - [2022-06-20-请教-Nextcloud-Talk-在-iOS-设备上的通知推送问题](https://www.v2ex.com/t/860871) ![](assets/new.png)  
 - [2022-06-20-突然觉得，电自的发展也挺奇葩的，你们会选择小-1w-的电动自行车吗？](https://www.v2ex.com/t/860870) ![](assets/new.png)  
 - [2022-06-20-一淘与集分宝的运营逻辑是什么？](https://www.v2ex.com/t/860869) ![](assets/new.png)  
@@ -504,13 +511,6 @@
 - [2022-06-20-如何用非-root-用户通过-ip-这个命令创建-tap-设备？](https://www.v2ex.com/t/860861) ![](assets/new.png)  
 - [2022-06-20-求助：-AirTag-位置不更新](https://www.v2ex.com/t/860860) ![](assets/new.png)  
 - [2022-06-20-问一下有没有人知道如何预定（或抢购）周杰伦的即将发布的新专辑-CD？](https://www.v2ex.com/t/860858) ![](assets/new.png)  
-- [2022-06-20-上海/北京字节跳动中台招聘平台研发、稳定性治理-SRE、研发实习生-全程跟进进度-6.20-长期有效](https://www.v2ex.com/t/860855) ![](assets/new.png)  
-- [2022-06-20-请问-lg-gram-这款电脑做开发怎么样？](https://www.v2ex.com/t/860854) ![](assets/new.png)  
-- [2022-06-20-我的电脑现在有个很诡异的问题](https://www.v2ex.com/t/860853) ![](assets/new.png)  
-- [2022-06-20-AWS-的账号和账单问题](https://www.v2ex.com/t/860852) ![](assets/new.png)  
-- [2022-06-20-腾讯云控制台居然有时区-bug](https://www.v2ex.com/t/860851) ![](assets/new.png)  
-- [2022-06-20-N5105-软路由环境下，电脑使用-IDM-同时下载超过-100-个文件，会随机触发软路由重启](https://www.v2ex.com/t/860850) ![](assets/new.png)  
-- [2022-06-20-加了两块-500G-NVMe-SSD，不组-RAID-怎么和原来-4-块-8T-硬盘一起使用](https://www.v2ex.com/t/860849) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -571,8 +571,8 @@
 - [2022-06-20-解决k8s调度不均衡问题](https://toutiao.io/k/wzjfyo1) ![](assets/new.png)  
 - [2022-06-20-如何通过关键词找需求1](https://toutiao.io/k/7cbokjg) ![](assets/new.png)  
 - [2022-06-20-隐私计算FATE-模型训练](https://toutiao.io/k/tfxj4la) ![](assets/new.png)  
-- [2022-06-20-推荐-MongoDB全方位知识图谱！](https://toutiao.io/k/efxw4nr) ![](assets/new.png)  
 - [2022-06-20-推荐-我们公司使用了-5-年的系统限流方案！从实现到部署实战详解，稳的一批!​](https://toutiao.io/k/4tls39t) ![](assets/new.png)  
+- [2022-06-20-推荐-总监的烦恼：技术丢了怎么办？](https://toutiao.io/k/rzytby1) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

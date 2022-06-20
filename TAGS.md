@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-06-20 13:11:23。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-06-20 14:01:12。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -105,6 +105,7 @@
 
 
 
+- [【V2EX】k8s-裸机配置时那么多的-node、pod、service、PVC、PV-配置文件，都是硬记下来然后手写？还是说一般都是用到了去查？或者说普遍使用-GUI？还是说普遍不用裸机配...](https://www.v2ex.com/t/860978)
 - [【V2EX】iconfont-一直不能上传，迫于项目压力，用-eggjs-快速搞了个本地部署版本](https://www.v2ex.com/t/860972)
 - [【开发者头条】node_modules-是该好好治一治了](https://toutiao.io/k/5bq88fv)
 - [......【查看更多】......](./details/tags/nodejs.md)
@@ -123,6 +124,7 @@
 
 
 
+- [【V2EX】有一个小程序的点子，大家看看值得吗](https://www.v2ex.com/t/860982)
 - [【技术头条】小程序同构方案-kbone-分析与适配-www.alloyteam.com](https://blogread.cn/news/go.php?idItem=15178&url=http%3A%2F%2Fwww.alloyteam.com%2F2019%2F12%2Fkbone-analyze%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【技术头条】在-kbone-中实现小程序-svg-渲染-www.alloyteam.com](https://blogread.cn/news/go.php?idItem=15177&url=http%3A%2F%2Fwww.alloyteam.com%2F2019%2F11%2F14073%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [......【查看更多】......](./details/tags/miniprogram.md)
@@ -224,6 +226,7 @@
 
 
 
+- [【V2EX】有那种有-GUI-编辑器，并且适合在线多人协作的-JamStack-么？](https://www.v2ex.com/t/860979)
 - [【技术头条】SVG任意基本图形转path路径-www.zhangxinxu.com](https://blogread.cn/news/go.php?idItem=15186&url=https%3A%2F%2Fwww.zhangxinxu.com%2Fwordpress%2F2021%2F08%2Fsvg-shape-to-path%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [......【查看更多】......](./details/tags/canvas-image.md)
 
@@ -339,6 +342,7 @@
 
 
 
+- [【V2EX】github-博客](https://www.v2ex.com/t/860981)
 - [......【查看更多】......](./details/tags/git-svn.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -355,6 +359,7 @@
 
 
 
+- [【V2EX】上海-米哈游-miHoYo-2022.6.20-最新招聘信息（可内推哦）](https://www.v2ex.com/t/860977)
 - [......【查看更多】......](./details/tags/job-interview.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

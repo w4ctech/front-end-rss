@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-06-20 10:44:01。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-06-20 11:12:03。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -71,6 +71,7 @@
 
 
 
+- [【V2EX】JavaScript/TypeScript-程序员都是手写-swagger-文档的？](https://www.v2ex.com/t/860943)
 - [......【查看更多】......](./details/tags/typescript.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -187,7 +188,6 @@
 - [【张鑫旭-鑫空间-鑫生活】小tips:-JS字体加载失败或完毕的检测](https://www.zhangxinxu.com/wordpress/2022/04/js-font-face-load/)
 - [【张鑫旭-鑫空间-鑫生活】CSS实现滚动高度自动变小的粘滞效果](https://www.zhangxinxu.com/wordpress/2022/04/css-sticky-size-change/)
 - [【V2EX】请问一下，有什么办法能让本地打开的-pdf-文件进入全屏（浏览器），试过监听按键事件和鼠标事件都无效](https://www.v2ex.com/t/860935)
-- [【V2EX】求推荐！哪种路由器可以通过连接-WiFi-监控到上网记录（家用）](https://www.v2ex.com/t/860896)
 - [【技术头条】如何实现页面刷新后不定位到之前的滚动位置？-www.zhangxinxu.com](https://blogread.cn/news/go.php?idItem=15195&url=https%3A%2F%2Fwww.zhangxinxu.com%2Fwordpress%2F2022%2F05%2Fhistory-scrollrestoration%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【开发者头条】Android升级适配爬坑历程](https://toutiao.io/k/7qfojv9)
 - [......【查看更多】......](./details/tags/javascript.md)

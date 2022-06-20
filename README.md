@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-06-20 17:43:21，:rocket: 更新条数: +2027， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-06-20 18:15:49，:rocket: 更新条数: +2027， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-06-20-百度的网站究竟在干什么？疯狂占据-CPU，难道是在挖矿？](https://www.v2ex.com/t/861015) ![](assets/new.png)  
+- [2022-06-20-冥想与腹式呼吸](https://www.v2ex.com/t/861014) ![](assets/new.png)  
 - [2022-06-20-如何在-Python-存在多个事件循环时正常使用-mayavi-绘图?](https://www.v2ex.com/t/861013) ![](assets/new.png)  
 - [2022-06-20-word-支持文本上下排列吗?](https://www.v2ex.com/t/861012) ![](assets/new.png)  
 - [2022-06-20-我的-AIO-主机参考](https://www.v2ex.com/t/861011) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-06-20-为啥-jmeter-里面的-beanshell-脚本不能使用-split的方法来分割？](https://www.v2ex.com/t/860994) ![](assets/new.png)  
 - [2022-06-20-微信-PC-版拉黑某人后再解除黑名单，搜索不到聊天记录](https://www.v2ex.com/t/860992) ![](assets/new.png)  
 - [2022-06-20-关于润学，今天在-tg-某群组看到他们讨论推特上帕劳“自治身份证”](https://www.v2ex.com/t/860991) ![](assets/new.png)  
-- [2022-06-20-electron-vue-用-nedb-持久化存储，找不到持久化文件](https://www.v2ex.com/t/860989) ![](assets/new.png)  
-- [2022-06-20-关于电瓶车的电池问题](https://www.v2ex.com/t/860986) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -571,7 +571,7 @@
 - [2022-06-20-Android升级适配爬坑历程](https://toutiao.io/k/7qfojv9) ![](assets/new.png)  
 - [2022-06-20-如何通过关键词找需求1](https://toutiao.io/k/7cbokjg) ![](assets/new.png)  
 - [2022-06-20-隐私计算FATE-模型训练](https://toutiao.io/k/tfxj4la) ![](assets/new.png)  
-- [2022-06-20-推荐-高并发下如何防重？](https://toutiao.io/k/ulsc0so) ![](assets/new.png)  
+- [2022-06-20-推荐-总监的烦恼：技术丢了怎么办？](https://toutiao.io/k/rzytby1) ![](assets/new.png)  
 - [2022-06-20-推荐-MongoDB全方位知识图谱！](https://toutiao.io/k/efxw4nr) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

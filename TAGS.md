@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-06-20 09:40:40。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-06-20 10:16:22。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -186,8 +186,8 @@
 - [【张鑫旭-鑫空间-鑫生活】深入-JS-new-Function-语法](https://www.zhangxinxu.com/wordpress/2022/04/js-new-function/)
 - [【张鑫旭-鑫空间-鑫生活】小tips:-JS字体加载失败或完毕的检测](https://www.zhangxinxu.com/wordpress/2022/04/js-font-face-load/)
 - [【张鑫旭-鑫空间-鑫生活】CSS实现滚动高度自动变小的粘滞效果](https://www.zhangxinxu.com/wordpress/2022/04/css-sticky-size-change/)
+- [【V2EX】请问一下，有什么办法能让本地打开的-pdf-文件进入全屏（浏览器），试过监听按键事件和鼠标事件都无效](https://www.v2ex.com/t/860935)
 - [【V2EX】求推荐！哪种路由器可以通过连接-WiFi-监控到上网记录（家用）](https://www.v2ex.com/t/860896)
-- [【V2EX】VSCode-如何快捷打印变量](https://www.v2ex.com/t/860885)
 - [【技术头条】如何实现页面刷新后不定位到之前的滚动位置？-www.zhangxinxu.com](https://blogread.cn/news/go.php?idItem=15195&url=https%3A%2F%2Fwww.zhangxinxu.com%2Fwordpress%2F2022%2F05%2Fhistory-scrollrestoration%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【开发者头条】Android升级适配爬坑历程](https://toutiao.io/k/7qfojv9)
 - [......【查看更多】......](./details/tags/javascript.md)
@@ -243,7 +243,6 @@
 
 - [【武汉肺炎防疫全纪录(财新网)】广州17岁男生在定点医院参加高考-特殊考场视频监考](https://m.caixin.com/m/2021-06-05/101723418.html)
 - [【武汉肺炎防疫全纪录(财新网)】林郑月娥率13高官直播接种科兴疫苗-复星疫苗预计周中到港](https://m.caixin.com/m/2021-02-22/101665724.html)
-- [【V2EX】将-Mac-用-HDMI-线连接到电视机后，仅对于-Apple-TV-app（是软件，不是电视盒子），音频输出被限制在电视机上，无法切换到其他音频设备。其他播放器则无此限制。...](https://www.v2ex.com/t/860887)
 - [【开发者头条】作业帮直播间前端架构优化实践](https://toutiao.io/k/u6t4evr)
 - [......【查看更多】......](./details/tags/audio-video.md)
 
@@ -307,7 +306,6 @@
 
 
 
-- [【V2EX】Python-使用-http-代理访问-https-网站报-407-错误](https://www.v2ex.com/t/860881)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -358,7 +356,6 @@
 
 
 - [【V2EX】RustDesk-招聘远程实习（开源，有偿）IPv6-/-RTSP-项目，纯-Rust-实现](https://www.v2ex.com/t/860917)
-- [【V2EX】工作之余，会偶尔去面试吗？](https://www.v2ex.com/t/860878)
 - [......【查看更多】......](./details/tags/job-interview.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

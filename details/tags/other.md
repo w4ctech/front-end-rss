@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-06-20 09:40:40。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-06-20 10:16:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,12 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-06-20-开了-premium-想再加点有意思的-telegram-群，不然感觉血亏。。。大家有推荐的吗？](https://www.v2ex.com/t/860938) 
+- [2022-06-20-全志-A133-Android-10-系统启动后，如何把-/dev/block/mmcblk0p2-自动挂载到某个目录里](https://www.v2ex.com/t/860937) 
+- [2022-06-20-前端大佬能当场写出这道题吗？](https://www.v2ex.com/t/860936) 
+- [2022-06-20-vcode-里面-output-输出完全像-txt-一样,-没有语法等高亮吗](https://www.v2ex.com/t/860934) 
+- [2022-06-20-我猜是因为中国联通知道我最近一直在联通-App-里搜索「副卡」「小号」「亲情号码」，所以刚刚-10016-给我打电话推销亲情卡，第一年每月一毛钱。](https://www.v2ex.com/t/860933) 
+- [2022-06-20-前端+UI-公司补贴-3800-我是买-MBA-M2-还是-MBP-M1-Pro-16+512？](https://www.v2ex.com/t/860930) 
 - [2022-06-20-之前不支持光纤入户-FTTB-方式入户，现在又可以还让我交-100-移机？](https://www.v2ex.com/t/860924) 
 - [2022-06-20-安卓锁屏广告，有朋友知道是这是哪个流氓设置的吗](https://www.v2ex.com/t/860923) 
 - [2022-06-20-用主-PC-做-NAS-有哪些坏处？](https://www.v2ex.com/t/860922) 
@@ -1934,11 +1940,6 @@
 - [2022-06-20-吐槽下我的老-mbp](https://www.v2ex.com/t/860895) 
 - [2022-06-20-关于职业](https://www.v2ex.com/t/860894) 
 - [2022-06-20-给-MBP-配了-4K-显示器后，-iPad-被打入冷宫](https://www.v2ex.com/t/860892) 
-- [2022-06-20-房地产销售系统，明源-crm](https://www.v2ex.com/t/860889) 
-- [2022-06-20-一个关于快递点的故事——如果快递点是我接盘的该如何维权](https://www.v2ex.com/t/860888) 
-- [2022-06-20-工作没有激情了，怎么办？](https://www.v2ex.com/t/860886) 
-- [2022-06-20-Python-下载文件并处理最佳实践是什么](https://www.v2ex.com/t/860882) 
-- [2022-06-20-关于降薪问题求助](https://www.v2ex.com/t/860879) 
 - [2022-06-20-自动化测试的未来趋势-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15196&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fautomated-testing-trends%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-06-20-业务数据治理体系化思考与实践-tech.meituan.com](https://blogread.cn/news/go.php?idItem=15194&url=https%3A%2F%2Ftech.meituan.com%2F2022%2F05%2F12%2Fbusiness-data-governance.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-06-20-拆分和合并-tar.gz-文件-www.awaimai.com](https://blogread.cn/news/go.php?idItem=15192&url=https%3A%2F%2Fwww.awaimai.com%2F2989.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

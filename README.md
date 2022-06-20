@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-06-20 09:40:40，:rocket: 更新条数: +2026， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-06-20 10:16:22，:rocket: 更新条数: +2024， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,13 @@
 </summary>
 
 
+- [2022-06-20-开了-premium-想再加点有意思的-telegram-群，不然感觉血亏。。。大家有推荐的吗？](https://www.v2ex.com/t/860938) ![](assets/new.png)  
+- [2022-06-20-全志-A133-Android-10-系统启动后，如何把-/dev/block/mmcblk0p2-自动挂载到某个目录里](https://www.v2ex.com/t/860937) ![](assets/new.png)  
+- [2022-06-20-前端大佬能当场写出这道题吗？](https://www.v2ex.com/t/860936) ![](assets/new.png)  
+- [2022-06-20-请问一下，有什么办法能让本地打开的-pdf-文件进入全屏（浏览器），试过监听按键事件和鼠标事件都无效](https://www.v2ex.com/t/860935) ![](assets/new.png)  
+- [2022-06-20-vcode-里面-output-输出完全像-txt-一样,-没有语法等高亮吗](https://www.v2ex.com/t/860934) ![](assets/new.png)  
+- [2022-06-20-我猜是因为中国联通知道我最近一直在联通-App-里搜索「副卡」「小号」「亲情号码」，所以刚刚-10016-给我打电话推销亲情卡，第一年每月一毛钱。](https://www.v2ex.com/t/860933) ![](assets/new.png)  
+- [2022-06-20-前端+UI-公司补贴-3800-我是买-MBA-M2-还是-MBP-M1-Pro-16+512？](https://www.v2ex.com/t/860930) ![](assets/new.png)  
 - [2022-06-20-node-无法-curl-通-master](https://www.v2ex.com/t/860926) ![](assets/new.png)  
 - [2022-06-20-请教一下-kafka-group-数量比较大对-kafka-性能影响大吗](https://www.v2ex.com/t/860925) ![](assets/new.png)  
 - [2022-06-20-之前不支持光纤入户-FTTB-方式入户，现在又可以还让我交-100-移机？](https://www.v2ex.com/t/860924) ![](assets/new.png)  
@@ -504,13 +511,6 @@
 - [2022-06-20-两块-NVMe-固态，-ECC-内存的独立服务器，上-ZFS-存数据可靠性会更高么？](https://www.v2ex.com/t/860916) ![](assets/new.png)  
 - [2022-06-20-有没有远程协助的好软件或者好方案？](https://www.v2ex.com/t/860915) ![](assets/new.png)  
 - [2022-06-20-怎么解决英语沟通问题？](https://www.v2ex.com/t/860914) ![](assets/new.png)  
-- [2022-06-20-记一次-Apple-JD-自营店换电池的垃圾体验](https://www.v2ex.com/t/860911) ![](assets/new.png)  
-- [2022-06-20-请教下各位-swiftUI-的学习路线](https://www.v2ex.com/t/860910) ![](assets/new.png)  
-- [2022-06-20-家用空调适合-7x24-的使用嘛？](https://www.v2ex.com/t/860907) ![](assets/new.png)  
-- [2022-06-20-疫情管控的权责太不对等了](https://www.v2ex.com/t/860906) ![](assets/new.png)  
-- [2022-06-20-怎么才能文档分享给他人查看?建站觉得维护成本略高](https://www.v2ex.com/t/860904) ![](assets/new.png)  
-- [2022-06-20-广东电信刚才（15:28）是不是断网了？](https://www.v2ex.com/t/860903) ![](assets/new.png)  
-- [2022-06-20-记一次被裁员的经历](https://www.v2ex.com/t/860902) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

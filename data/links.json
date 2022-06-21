@@ -9953,6 +9953,71 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "官翻 Mac mini 丐版 4499 还香吗？",
+        "link": "https://www.v2ex.com/t/861246",
+        "date": "2022-06-21"
+      },
+      {
+        "title": "找一名兼职 | nodejs\\react\\mongoDB\\koa2",
+        "link": "https://www.v2ex.com/t/861245",
+        "date": "2022-06-21"
+      },
+      {
+        "title": "GitHub Copilot 正式开启付费了",
+        "link": "https://www.v2ex.com/t/861244",
+        "date": "2022-06-21"
+      },
+      {
+        "title": "Titan Pocket， 6G 内存+128G 存储。自用，有京东订单信息。箱说全，包顺丰",
+        "link": "https://www.v2ex.com/t/861243",
+        "date": "2022-06-21"
+      },
+      {
+        "title": "有没有可以像 PostgreSQL 那样用 SQL 命令操作但像 Redis 一样把数据保存在 RAM 中的数据库？",
+        "link": "https://www.v2ex.com/t/861242",
+        "date": "2022-06-21"
+      },
+      {
+        "title": "各位在生产环境用数据库是 双主双写 还是 主从多备 呢？双主双写高频写入时产生的数据一致性问题如何解决呢？这种技术是否不适合应用在金融/支付领域？",
+        "link": "https://www.v2ex.com/t/861241",
+        "date": "2022-06-21"
+      },
+      {
+        "title": "Github Copilot 要收费了，$10 每月，你们会订阅吗？",
+        "link": "https://www.v2ex.com/t/861240",
+        "date": "2022-06-21"
+      },
+      {
+        "title": "GitHub Copilot 开始收费了",
+        "link": "https://www.v2ex.com/t/861239",
+        "date": "2022-06-21"
+      },
+      {
+        "title": "Copilot 开始收费了大家怎么看",
+        "link": "https://www.v2ex.com/t/861238",
+        "date": "2022-06-21"
+      },
+      {
+        "title": "copilot 收费了？",
+        "link": "https://www.v2ex.com/t/861237",
+        "date": "2022-06-21"
+      },
+      {
+        "title": "Copilot 似乎要收费了",
+        "link": "https://www.v2ex.com/t/861236",
+        "date": "2022-06-21"
+      },
+      {
+        "title": "图灵社区手机浏览器无法登陆",
+        "link": "https://www.v2ex.com/t/861235",
+        "date": "2022-06-21"
+      },
+      {
+        "title": "显卡支持的分辨率+刷新率是怎么定的",
+        "link": "https://www.v2ex.com/t/861234",
+        "date": "2022-06-21"
+      },
+      {
         "title": "群晖 NAS 支持不同容量的硬盘组合吗？",
         "link": "https://www.v2ex.com/t/861233",
         "date": "2022-06-21"
@@ -10060,56 +10125,6 @@
       {
         "title": "一加 vivo 等手机新品都不支持谷歌框架了",
         "link": "https://www.v2ex.com/t/861197",
-        "date": "2022-06-21"
-      },
-      {
-        "title": "UDP 流量经常断掉，然后 3 分钟后恢复",
-        "link": "https://www.v2ex.com/t/861196",
-        "date": "2022-06-21"
-      },
-      {
-        "title": "如何追回房东欺诈的电费？",
-        "link": "https://www.v2ex.com/t/861195",
-        "date": "2022-06-21"
-      },
-      {
-        "title": "有哪些好用的文言文翻译 APP、网站或 API 推荐?",
-        "link": "https://www.v2ex.com/t/861194",
-        "date": "2022-06-21"
-      },
-      {
-        "title": "VIM 如何入门",
-        "link": "https://www.v2ex.com/t/861193",
-        "date": "2022-06-21"
-      },
-      {
-        "title": "[北京 | 上海][40K - 100K] web3 公司诚邀[后端/前端]加入",
-        "link": "https://www.v2ex.com/t/861192",
-        "date": "2022-06-21"
-      },
-      {
-        "title": "如何系统性学习英语？",
-        "link": "https://www.v2ex.com/t/861191",
-        "date": "2022-06-21"
-      },
-      {
-        "title": "Java , list 用 stream 转 map，如何简洁的转 key 的类型",
-        "link": "https://www.v2ex.com/t/861190",
-        "date": "2022-06-21"
-      },
-      {
-        "title": "PHP 拒绝服务安全漏洞(CVE-2018-19396) 如何解决？",
-        "link": "https://www.v2ex.com/t/861189",
-        "date": "2022-06-21"
-      },
-      {
-        "title": "有还在使用 Apple Watch S3 的用户吗",
-        "link": "https://www.v2ex.com/t/861188",
-        "date": "2022-06-21"
-      },
-      {
-        "title": "记录和查找记录常用的终端命令大家都用什么方案呢？比如 mysql -h -p 之类的",
-        "link": "https://www.v2ex.com/t/861184",
         "date": "2022-06-21"
       }
     ]
@@ -10307,18 +10322,8 @@
         "date": "2022-06-21"
       },
       {
-        "title": "[推荐] 总监的烦恼：技术丢了怎么办？",
-        "link": "https://toutiao.io/k/rzytby1",
-        "date": "2022-06-21"
-      },
-      {
         "title": "[推荐] 我们公司使用了 5 年的系统限流方案！从实现到部署实战详解，稳的一批!​",
         "link": "https://toutiao.io/k/4tls39t",
-        "date": "2022-06-21"
-      },
-      {
-        "title": "[推荐] Redis夺命52连问",
-        "link": "https://toutiao.io/k/he3fzao",
         "date": "2022-06-21"
       },
       {
@@ -10327,8 +10332,18 @@
         "date": "2022-06-21"
       },
       {
+        "title": "[推荐] 总监的烦恼：技术丢了怎么办？",
+        "link": "https://toutiao.io/k/rzytby1",
+        "date": "2022-06-21"
+      },
+      {
         "title": "[推荐] MongoDB全方位知识图谱！",
         "link": "https://toutiao.io/k/efxw4nr",
+        "date": "2022-06-21"
+      },
+      {
+        "title": "[推荐] Redis夺命52连问",
+        "link": "https://toutiao.io/k/he3fzao",
         "date": "2022-06-21"
       }
     ]

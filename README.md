@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-06-21 16:21:55，:rocket: 更新条数: +2019， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-06-21 17:05:51，:rocket: 更新条数: +2022， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,19 @@
 </summary>
 
 
+- [2022-06-21-官翻-Mac-mini-丐版-4499-还香吗？](https://www.v2ex.com/t/861246) ![](assets/new.png)  
+- [2022-06-21-找一名兼职-|-nodejs\react\mongoDB\koa2](https://www.v2ex.com/t/861245) ![](assets/new.png)  
+- [2022-06-21-GitHub-Copilot-正式开启付费了](https://www.v2ex.com/t/861244) ![](assets/new.png)  
+- [2022-06-21-Titan-Pocket，-6G-内存+128G-存储。自用，有京东订单信息。箱说全，包顺丰](https://www.v2ex.com/t/861243) ![](assets/new.png)  
+- [2022-06-21-有没有可以像-PostgreSQL-那样用-SQL-命令操作但像-Redis-一样把数据保存在-RAM-中的数据库？](https://www.v2ex.com/t/861242) ![](assets/new.png)  
+- [2022-06-21-各位在生产环境用数据库是-双主双写-还是-主从多备-呢？双主双写高频写入时产生的数据一致性问题如何解决呢？这种技术是否不适合应用在金融/支付领域？](https://www.v2ex.com/t/861241) ![](assets/new.png)  
+- [2022-06-21-Github-Copilot-要收费了，$10-每月，你们会订阅吗？](https://www.v2ex.com/t/861240) ![](assets/new.png)  
+- [2022-06-21-GitHub-Copilot-开始收费了](https://www.v2ex.com/t/861239) ![](assets/new.png)  
+- [2022-06-21-Copilot-开始收费了大家怎么看](https://www.v2ex.com/t/861238) ![](assets/new.png)  
+- [2022-06-21-copilot-收费了？](https://www.v2ex.com/t/861237) ![](assets/new.png)  
+- [2022-06-21-Copilot-似乎要收费了](https://www.v2ex.com/t/861236) ![](assets/new.png)  
+- [2022-06-21-图灵社区手机浏览器无法登陆](https://www.v2ex.com/t/861235) ![](assets/new.png)  
+- [2022-06-21-显卡支持的分辨率+刷新率是怎么定的](https://www.v2ex.com/t/861234) ![](assets/new.png)  
 - [2022-06-21-群晖-NAS-支持不同容量的硬盘组合吗？](https://www.v2ex.com/t/861233) ![](assets/new.png)  
 - [2022-06-21-天津有没有线下聚会/活动可以认识优质单身男性？](https://www.v2ex.com/t/861232) ![](assets/new.png)  
 - [2022-06-21-百度短信登录接口怎么判断是同一用户的（获取验证码次数过多，请-24-小时之后再试）](https://www.v2ex.com/t/861231) ![](assets/new.png)  
@@ -498,19 +511,6 @@
 - [2022-06-21-你们的-Ubuntu-上都装了什么应用？](https://www.v2ex.com/t/861227) ![](assets/new.png)  
 - [2022-06-21-路过泉州上来-v-站一下，试试-SNI-阻断](https://www.v2ex.com/t/861225) ![](assets/new.png)  
 - [2022-06-21-怪猎世界，第一次猫车居然是被香菇猪顶死的](https://www.v2ex.com/t/861222) ![](assets/new.png)  
-- [2022-06-21-SQL-分组查询后取每组的前-N-条记录](https://www.v2ex.com/t/861221) ![](assets/new.png)  
-- [2022-06-21-有人买过-KTC-M27P20-这个显示器吗](https://www.v2ex.com/t/861218) ![](assets/new.png)  
-- [2022-06-21-使用-cloudflare-为网站加上强制-https-保护-基础指引-大佬回避](https://www.v2ex.com/t/861217) ![](assets/new.png)  
-- [2022-06-21-从今天下午-CF-大规模-500-错误想到的问题，像-CF-这种巨型-CDN，运维一般怎么管理这么多的边缘节点？](https://www.v2ex.com/t/861215) ![](assets/new.png)  
-- [2022-06-21-最近一两个月（7～-8-月）买-Mac，教育优惠可以叠加其他优惠吗](https://www.v2ex.com/t/861214) ![](assets/new.png)  
-- [2022-06-21-Cloudflare-已公布今天故障的技术细节](https://www.v2ex.com/t/861213) ![](assets/new.png)  
-- [2022-06-21-公司中间件平台基础设施组和业务组如何选择？](https://www.v2ex.com/t/861212) ![](assets/new.png)  
-- [2022-06-21-求助，北京居住登记卡办理](https://www.v2ex.com/t/861210) ![](assets/new.png)  
-- [2022-06-21-新手在学习编程时怎样提高自己的代码质量呢?](https://www.v2ex.com/t/861207) ![](assets/new.png)  
-- [2022-06-21-社工库信息泄露有什么补救的办法吗](https://www.v2ex.com/t/861205) ![](assets/new.png)  
-- [2022-06-21-总结了一下一个人住，房子里需要有的东西](https://www.v2ex.com/t/861204) ![](assets/new.png)  
-- [2022-06-21-安利个安卓工具，按键映射-Key-Mapper](https://www.v2ex.com/t/861203) ![](assets/new.png)  
-- [2022-06-21-解析！盘口搭建源码时飞鸟系统-JavaScript-是如何在微投后台工作的](https://www.v2ex.com/t/861200) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -569,10 +569,10 @@
 - [2022-06-21-webpack5资源最佳加载方案](https://toutiao.io/k/qqlcr6f) ![](assets/new.png)  
 - [2022-06-21-关于-Go1.18-新函数-TryLock-的故事](https://toutiao.io/k/kn0n37n) ![](assets/new.png)  
 - [2022-06-21-数智洞察丨剖析数智化系统思维：顶层设计和数字治理](https://toutiao.io/k/4pewz1f) ![](assets/new.png)  
-- [2022-06-21-推荐-总监的烦恼：技术丢了怎么办？](https://toutiao.io/k/rzytby1) ![](assets/new.png)  
 - [2022-06-21-推荐-我们公司使用了-5-年的系统限流方案！从实现到部署实战详解，稳的一批!​](https://toutiao.io/k/4tls39t) ![](assets/new.png)  
-- [2022-06-21-推荐-Redis夺命52连问](https://toutiao.io/k/he3fzao) ![](assets/new.png)  
 - [2022-06-21-推荐-高并发下如何防重？](https://toutiao.io/k/ulsc0so) ![](assets/new.png)  
+- [2022-06-21-推荐-总监的烦恼：技术丢了怎么办？](https://toutiao.io/k/rzytby1) ![](assets/new.png)  
+- [2022-06-21-推荐-MongoDB全方位知识图谱！](https://toutiao.io/k/efxw4nr) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-06-21 17:05:51。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-06-21 17:51:57。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,8 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-06-21-VLOOK-15！与你在实践中共创自动化排版-2.0，实用好用的-Markdown-主题与增强插件](https://www.v2ex.com/t/861249) 
+- [2022-06-21-JIRA-是伪需求吗？](https://www.v2ex.com/t/861247) 
 - [2022-06-21-官翻-Mac-mini-丐版-4499-还香吗？](https://www.v2ex.com/t/861246) 
 - [2022-06-21-Titan-Pocket，-6G-内存+128G-存储。自用，有京东订单信息。箱说全，包顺丰](https://www.v2ex.com/t/861243) 
 - [2022-06-21-各位在生产环境用数据库是-双主双写-还是-主从多备-呢？双主双写高频写入时产生的数据一致性问题如何解决呢？这种技术是否不适合应用在金融/支付领域？](https://www.v2ex.com/t/861241) 
@@ -1936,8 +1938,6 @@
 - [2022-06-21-社工库信息泄露有什么补救的办法吗](https://www.v2ex.com/t/861205) 
 - [2022-06-21-总结了一下一个人住，房子里需要有的东西](https://www.v2ex.com/t/861204) 
 - [2022-06-21-安利个安卓工具，按键映射-Key-Mapper](https://www.v2ex.com/t/861203) 
-- [2022-06-21-求问一下大佬们新组的-NAS-内网丢包，是什么原因？](https://www.v2ex.com/t/861198) 
-- [2022-06-21-一加-vivo-等手机新品都不支持谷歌框架了](https://www.v2ex.com/t/861197) 
 - [2022-06-21-搜索与推荐那些事儿-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15197&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fsearch-and-recommend%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-06-21-自动化测试的未来趋势-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15196&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fautomated-testing-trends%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-06-21-业务数据治理体系化思考与实践-tech.meituan.com](https://blogread.cn/news/go.php?idItem=15194&url=https%3A%2F%2Ftech.meituan.com%2F2022%2F05%2F12%2Fbusiness-data-governance.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1963,6 +1963,6 @@
 - [2022-06-21-数智洞察丨剖析数智化系统思维：顶层设计和数字治理](https://toutiao.io/k/4pewz1f) 
 - [2022-06-21-推荐-我们公司使用了-5-年的系统限流方案！从实现到部署实战详解，稳的一批!​](https://toutiao.io/k/4tls39t) 
 - [2022-06-21-推荐-高并发下如何防重？](https://toutiao.io/k/ulsc0so) 
-- [2022-06-21-推荐-总监的烦恼：技术丢了怎么办？](https://toutiao.io/k/rzytby1) 
-- [2022-06-21-推荐-MongoDB全方位知识图谱！](https://toutiao.io/k/efxw4nr) 
 - [2022-06-21-推荐-Redis夺命52连问](https://toutiao.io/k/he3fzao) 
+- [2022-06-21-推荐-MongoDB全方位知识图谱！](https://toutiao.io/k/efxw4nr) 
+- [2022-06-21-推荐-总监的烦恼：技术丢了怎么办？](https://toutiao.io/k/rzytby1) 

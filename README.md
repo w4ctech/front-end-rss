@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-06-21 17:05:51，:rocket: 更新条数: +2022， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-06-21 17:51:57，:rocket: 更新条数: +2022， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,8 +491,10 @@
 </summary>
 
 
+- [2022-06-21-VLOOK-15！与你在实践中共创自动化排版-2.0，实用好用的-Markdown-主题与增强插件](https://www.v2ex.com/t/861249) ![](assets/new.png)  
+- [2022-06-21-惊闻噩耗，-GitHub-Copilot-要收费了。](https://www.v2ex.com/t/861248) ![](assets/new.png)  
+- [2022-06-21-JIRA-是伪需求吗？](https://www.v2ex.com/t/861247) ![](assets/new.png)  
 - [2022-06-21-官翻-Mac-mini-丐版-4499-还香吗？](https://www.v2ex.com/t/861246) ![](assets/new.png)  
-- [2022-06-21-找一名兼职-|-nodejs\react\mongoDB\koa2](https://www.v2ex.com/t/861245) ![](assets/new.png)  
 - [2022-06-21-GitHub-Copilot-正式开启付费了](https://www.v2ex.com/t/861244) ![](assets/new.png)  
 - [2022-06-21-Titan-Pocket，-6G-内存+128G-存储。自用，有京东订单信息。箱说全，包顺丰](https://www.v2ex.com/t/861243) ![](assets/new.png)  
 - [2022-06-21-有没有可以像-PostgreSQL-那样用-SQL-命令操作但像-Redis-一样把数据保存在-RAM-中的数据库？](https://www.v2ex.com/t/861242) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-06-21-百度短信登录接口怎么判断是同一用户的（获取验证码次数过多，请-24-小时之后再试）](https://www.v2ex.com/t/861231) ![](assets/new.png)  
 - [2022-06-21-现在入职-shopee-可以要-30%的涨幅吗？要高了会不会挂掉](https://www.v2ex.com/t/861230) ![](assets/new.png)  
 - [2022-06-21-你们的-Ubuntu-上都装了什么应用？](https://www.v2ex.com/t/861227) ![](assets/new.png)  
-- [2022-06-21-路过泉州上来-v-站一下，试试-SNI-阻断](https://www.v2ex.com/t/861225) ![](assets/new.png)  
-- [2022-06-21-怪猎世界，第一次猫车居然是被香菇猪顶死的](https://www.v2ex.com/t/861222) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -571,7 +571,7 @@
 - [2022-06-21-数智洞察丨剖析数智化系统思维：顶层设计和数字治理](https://toutiao.io/k/4pewz1f) ![](assets/new.png)  
 - [2022-06-21-推荐-我们公司使用了-5-年的系统限流方案！从实现到部署实战详解，稳的一批!​](https://toutiao.io/k/4tls39t) ![](assets/new.png)  
 - [2022-06-21-推荐-高并发下如何防重？](https://toutiao.io/k/ulsc0so) ![](assets/new.png)  
-- [2022-06-21-推荐-总监的烦恼：技术丢了怎么办？](https://toutiao.io/k/rzytby1) ![](assets/new.png)  
+- [2022-06-21-推荐-Redis夺命52连问](https://toutiao.io/k/he3fzao) ![](assets/new.png)  
 - [2022-06-21-推荐-MongoDB全方位知识图谱！](https://toutiao.io/k/efxw4nr) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

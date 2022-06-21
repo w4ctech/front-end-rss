@@ -1,12 +1,14 @@
-:alarm_clock: 更新时间: 2022-06-21 17:05:51。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-06-21 17:51:57。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-06-21-VLOOK-15！与你在实践中共创自动化排版-2.0，实用好用的-Markdown-主题与增强插件](https://www.v2ex.com/t/861249) 
+- [2022-06-21-惊闻噩耗，-GitHub-Copilot-要收费了。](https://www.v2ex.com/t/861248) 
+- [2022-06-21-JIRA-是伪需求吗？](https://www.v2ex.com/t/861247) 
 - [2022-06-21-官翻-Mac-mini-丐版-4499-还香吗？](https://www.v2ex.com/t/861246) 
-- [2022-06-21-找一名兼职-|-nodejs\react\mongoDB\koa2](https://www.v2ex.com/t/861245) 
 - [2022-06-21-GitHub-Copilot-正式开启付费了](https://www.v2ex.com/t/861244) 
 - [2022-06-21-Titan-Pocket，-6G-内存+128G-存储。自用，有京东订单信息。箱说全，包顺丰](https://www.v2ex.com/t/861243) 
 - [2022-06-21-有没有可以像-PostgreSQL-那样用-SQL-命令操作但像-Redis-一样把数据保存在-RAM-中的数据库？](https://www.v2ex.com/t/861242) 
@@ -38,5 +40,3 @@
 - [2022-06-21-总结了一下一个人住，房子里需要有的东西](https://www.v2ex.com/t/861204) 
 - [2022-06-21-安利个安卓工具，按键映射-Key-Mapper](https://www.v2ex.com/t/861203) 
 - [2022-06-21-解析！盘口搭建源码时飞鸟系统-JavaScript-是如何在微投后台工作的](https://www.v2ex.com/t/861200) 
-- [2022-06-21-求问一下大佬们新组的-NAS-内网丢包，是什么原因？](https://www.v2ex.com/t/861198) 
-- [2022-06-21-一加-vivo-等手机新品都不支持谷歌框架了](https://www.v2ex.com/t/861197) 

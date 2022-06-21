@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-06-21 14:40:08，:rocket: 更新条数: +2023， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-06-21 15:15:33，:rocket: 更新条数: +2022， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,11 @@
 </summary>
 
 
+- [2022-06-21-有人买过-KTC-M27P20-这个显示器吗](https://www.v2ex.com/t/861218) ![](assets/new.png)  
+- [2022-06-21-使用-cloudflare-为网站加上强制-https-保护-基础指引-大佬回避](https://www.v2ex.com/t/861217) ![](assets/new.png)  
+- [2022-06-21-从今天下午-CF-大规模-500-错误想到的问题，像-CF-这种巨型-CDN，运维一般怎么管理这么多的边缘节点？](https://www.v2ex.com/t/861215) ![](assets/new.png)  
+- [2022-06-21-最近一两个月（7～-8-月）买-Mac，教育优惠可以叠加其他优惠吗](https://www.v2ex.com/t/861214) ![](assets/new.png)  
+- [2022-06-21-Cloudflare-已公布今天故障的技术细节](https://www.v2ex.com/t/861213) ![](assets/new.png)  
 - [2022-06-21-公司中间件平台基础设施组和业务组如何选择？](https://www.v2ex.com/t/861212) ![](assets/new.png)  
 - [2022-06-21-求助，北京居住登记卡办理](https://www.v2ex.com/t/861210) ![](assets/new.png)  
 - [2022-06-21-新手在学习编程时怎样提高自己的代码质量呢?](https://www.v2ex.com/t/861207) ![](assets/new.png)  
@@ -506,11 +511,6 @@
 - [2022-06-21-VIM-如何入门](https://www.v2ex.com/t/861193) ![](assets/new.png)  
 - [2022-06-21-北京-|-上海40K---100K-web3-公司诚邀后端/前端加入](https://www.v2ex.com/t/861192) ![](assets/new.png)  
 - [2022-06-21-如何系统性学习英语？](https://www.v2ex.com/t/861191) ![](assets/new.png)  
-- [2022-06-21-Java-,-list-用-stream-转-map，如何简洁的转-key-的类型](https://www.v2ex.com/t/861190) ![](assets/new.png)  
-- [2022-06-21-PHP-拒绝服务安全漏洞CVE-2018-19396-如何解决？](https://www.v2ex.com/t/861189) ![](assets/new.png)  
-- [2022-06-21-有还在使用-Apple-Watch-S3-的用户吗](https://www.v2ex.com/t/861188) ![](assets/new.png)  
-- [2022-06-21-记录和查找记录常用的终端命令大家都用什么方案呢？比如-mysql--h--p-之类的](https://www.v2ex.com/t/861184) ![](assets/new.png)  
-- [2022-06-21-北京-几乎不加班-招-C-语言专家、初级产品经理](https://www.v2ex.com/t/861183) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -564,15 +564,15 @@
 - [2022-06-21-如何写出同事看不懂的Java代码？](https://toutiao.io/k/azxobhi) ![](assets/new.png)  
 - [2022-06-21-什么是区块链的共识机制？](https://toutiao.io/k/emjz8sp) ![](assets/new.png)  
 - [2022-06-21-浅谈为什么要写单元测试](https://toutiao.io/k/z4yo3da) ![](assets/new.png)  
-- [2022-06-21-webpack5资源最佳加载方案](https://toutiao.io/k/qqlcr6f) ![](assets/new.png)  
 - [2022-06-21-一次-MySQL-误操作导致的事故，「高可用」都顶不住了！](https://toutiao.io/k/2gei208) ![](assets/new.png)  
+- [2022-06-21-webpack5资源最佳加载方案](https://toutiao.io/k/qqlcr6f) ![](assets/new.png)  
 - [2022-06-21-跨系统数据一致性问题解决方案汇总](https://toutiao.io/k/jkpaw91) ![](assets/new.png)  
 - [2022-06-21-关于-Go1.18-新函数-TryLock-的故事](https://toutiao.io/k/kn0n37n) ![](assets/new.png)  
 - [2022-06-21-数智洞察丨剖析数智化系统思维：顶层设计和数字治理](https://toutiao.io/k/4pewz1f) ![](assets/new.png)  
 - [2022-06-21-推荐-我们公司使用了-5-年的系统限流方案！从实现到部署实战详解，稳的一批!​](https://toutiao.io/k/4tls39t) ![](assets/new.png)  
-- [2022-06-21-推荐-总监的烦恼：技术丢了怎么办？](https://toutiao.io/k/rzytby1) ![](assets/new.png)  
 - [2022-06-21-推荐-高并发下如何防重？](https://toutiao.io/k/ulsc0so) ![](assets/new.png)  
 - [2022-06-21-推荐-Redis夺命52连问](https://toutiao.io/k/he3fzao) ![](assets/new.png)  
+- [2022-06-21-推荐-MongoDB全方位知识图谱！](https://toutiao.io/k/efxw4nr) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

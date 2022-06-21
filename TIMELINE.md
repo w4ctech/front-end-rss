@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-06-21 14:40:08。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-06-21 15:15:33。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -71,6 +71,11 @@
 - [【张鑫旭-鑫空间-鑫生活】2022-06-19-如何继承自定义元素及其他JS中扩展新方法](https://www.zhangxinxu.com/wordpress/2022/06/js-extend-class-custom-elements/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-06-12-基于文字的URL锚点定位与::target-text样式设置](https://www.zhangxinxu.com/wordpress/2022/06/url-anchor-target-text/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-06-11-介绍一种CSS变量未定义语法也OK的小妙招](https://www.zhangxinxu.com/wordpress/2022/06/css-var-optional-empty-trick/) 
+- [【V2EX】2022-06-21-有人买过-KTC-M27P20-这个显示器吗](https://www.v2ex.com/t/861218) 
+- [【V2EX】2022-06-21-使用-cloudflare-为网站加上强制-https-保护-基础指引-大佬回避](https://www.v2ex.com/t/861217) 
+- [【V2EX】2022-06-21-从今天下午-CF-大规模-500-错误想到的问题，像-CF-这种巨型-CDN，运维一般怎么管理这么多的边缘节点？](https://www.v2ex.com/t/861215) 
+- [【V2EX】2022-06-21-最近一两个月（7～-8-月）买-Mac，教育优惠可以叠加其他优惠吗](https://www.v2ex.com/t/861214) 
+- [【V2EX】2022-06-21-Cloudflare-已公布今天故障的技术细节](https://www.v2ex.com/t/861213) 
 - [【V2EX】2022-06-21-公司中间件平台基础设施组和业务组如何选择？](https://www.v2ex.com/t/861212) 
 - [【V2EX】2022-06-21-求助，北京居住登记卡办理](https://www.v2ex.com/t/861210) 
 - [【V2EX】2022-06-21-新手在学习编程时怎样提高自己的代码质量呢?](https://www.v2ex.com/t/861207) 
@@ -101,12 +106,6 @@
 - [【V2EX】2022-06-21-大连应届生应该小心那些培训公司](https://www.v2ex.com/t/861172) 
 - [【V2EX】2022-06-21-2021-款-MacBook-Pro-16-寸充电问题](https://www.v2ex.com/t/861171) 
 - [【V2EX】2022-06-21-也许可能大概再也见不到-20k-以下的比特币了](https://www.v2ex.com/t/861170) 
-- [【V2EX】2022-06-21-有老哥知道这个是什么浏览器吗](https://www.v2ex.com/t/861169) 
-- [【V2EX】2022-06-21-各位老哥，准备撤离一线城市了，很多物品，请问选择什么物流快递回家比较优惠啊？](https://www.v2ex.com/t/861168) 
-- [【V2EX】2022-06-21-请问如何批量的备份语音备忘录的录音文件（带元数据）](https://www.v2ex.com/t/861167) 
-- [【V2EX】2022-06-21-Apple-Watch-自己更换电池](https://www.v2ex.com/t/861166) 
-- [【V2EX】2022-06-21-请教一下这句代码的作用](https://www.v2ex.com/t/861165) 
-- [【V2EX】2022-06-21-Teamviewer-弹出一个优惠信息，-Remote-Access-Base-一年-80.16-元](https://www.v2ex.com/t/861163) 
 - [【技术头条】2022-06-21-搜索与推荐那些事儿-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15197&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fsearch-and-recommend%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-06-21-自动化测试的未来趋势-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15196&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fautomated-testing-trends%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-06-21-如何实现页面刷新后不定位到之前的滚动位置？-www.zhangxinxu.com](https://blogread.cn/news/go.php?idItem=15195&url=https%3A%2F%2Fwww.zhangxinxu.com%2Fwordpress%2F2022%2F05%2Fhistory-scrollrestoration%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -138,16 +137,16 @@
 - [【开发者头条】2022-06-21-如何写出同事看不懂的Java代码？](https://toutiao.io/k/azxobhi) 
 - [【开发者头条】2022-06-21-什么是区块链的共识机制？](https://toutiao.io/k/emjz8sp) 
 - [【开发者头条】2022-06-21-浅谈为什么要写单元测试](https://toutiao.io/k/z4yo3da) 
-- [【开发者头条】2022-06-21-webpack5资源最佳加载方案](https://toutiao.io/k/qqlcr6f) 
 - [【开发者头条】2022-06-21-一次-MySQL-误操作导致的事故，「高可用」都顶不住了！](https://toutiao.io/k/2gei208) 
+- [【开发者头条】2022-06-21-webpack5资源最佳加载方案](https://toutiao.io/k/qqlcr6f) 
 - [【开发者头条】2022-06-21-跨系统数据一致性问题解决方案汇总](https://toutiao.io/k/jkpaw91) 
 - [【开发者头条】2022-06-21-关于-Go1.18-新函数-TryLock-的故事](https://toutiao.io/k/kn0n37n) 
 - [【开发者头条】2022-06-21-数智洞察丨剖析数智化系统思维：顶层设计和数字治理](https://toutiao.io/k/4pewz1f) 
 - [【开发者头条】2022-06-21-推荐-我们公司使用了-5-年的系统限流方案！从实现到部署实战详解，稳的一批!​](https://toutiao.io/k/4tls39t) 
-- [【开发者头条】2022-06-21-推荐-总监的烦恼：技术丢了怎么办？](https://toutiao.io/k/rzytby1) 
 - [【开发者头条】2022-06-21-推荐-高并发下如何防重？](https://toutiao.io/k/ulsc0so) 
 - [【开发者头条】2022-06-21-推荐-Redis夺命52连问](https://toutiao.io/k/he3fzao) 
 - [【开发者头条】2022-06-21-推荐-MongoDB全方位知识图谱！](https://toutiao.io/k/efxw4nr) 
+- [【开发者头条】2022-06-21-推荐-总监的烦恼：技术丢了怎么办？](https://toutiao.io/k/rzytby1) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

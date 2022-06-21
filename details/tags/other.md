@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-06-21 08:28:39。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-06-21 08:53:54。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,11 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-06-21-工信部域名备案，申请状态显示未提交，这是怎么回事？](https://www.v2ex.com/t/861158) 
+- [2022-06-21-有病史影响签证、留学吗](https://www.v2ex.com/t/861157) 
+- [2022-06-21-不是程序员，也不会编程，相反我是个设计师，没想到逛啊逛啊，逛到这里](https://www.v2ex.com/t/861156) 
+- [2022-06-21-兄弟们,-租房求助](https://www.v2ex.com/t/861155) 
+- [2022-06-21-Pycharm-自从某一个版本更新后，字体就发虚，有朋友遇到过吗](https://www.v2ex.com/t/861152) 
 - [2022-06-21-三只拖动-iPad-pro](https://www.v2ex.com/t/861146) 
 - [2022-06-21-转租-回龙观东亚上北开间-4500](https://www.v2ex.com/t/861145) 
 - [2022-06-21-转租，南山区祥云花园次卧转租，电梯房，月租-1850](https://www.v2ex.com/t/861144) 
@@ -1934,10 +1939,6 @@
 - [2022-06-21-闲置的京东运费券和饿了么红包怎么处理利益最大化，低消费欲了](https://www.v2ex.com/t/861117) 
 - [2022-06-21-想双盘位组个-RAID1,-有什么硬盘柜推荐?](https://www.v2ex.com/t/861116) 
 - [2022-06-21-寻找技术合作](https://www.v2ex.com/t/861114) 
-- [2022-06-21-显示器-144hz-和-60hz-区别大吗](https://www.v2ex.com/t/861107) 
-- [2022-06-21-城中村楼与楼离得很近，隔壁同层住户外放音响很吵咋办](https://www.v2ex.com/t/861106) 
-- [2022-06-21-谁有空闲时间，付费找人写个小偷程序](https://www.v2ex.com/t/861105) 
-- [2022-06-21-装机新人，一碗钱就要吃两碗粉，-all-in-one](https://www.v2ex.com/t/861102) 
 - [2022-06-21-搜索与推荐那些事儿-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15197&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fsearch-and-recommend%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-06-21-自动化测试的未来趋势-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15196&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fautomated-testing-trends%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-06-21-业务数据治理体系化思考与实践-tech.meituan.com](https://blogread.cn/news/go.php?idItem=15194&url=https%3A%2F%2Ftech.meituan.com%2F2022%2F05%2F12%2Fbusiness-data-governance.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1962,7 +1963,7 @@
 - [2022-06-21-一次-MySQL-误操作导致的事故，「高可用」都顶不住了！](https://toutiao.io/k/2gei208) 
 - [2022-06-21-跨系统数据一致性问题解决方案汇总](https://toutiao.io/k/jkpaw91) 
 - [2022-06-21-推荐-MongoDB全方位知识图谱！](https://toutiao.io/k/efxw4nr) 
-- [2022-06-21-推荐-高并发下如何防重？](https://toutiao.io/k/ulsc0so) 
 - [2022-06-21-推荐-总监的烦恼：技术丢了怎么办？](https://toutiao.io/k/rzytby1) 
+- [2022-06-21-推荐-高并发下如何防重？](https://toutiao.io/k/ulsc0so) 
 - [2022-06-21-推荐-我们公司使用了-5-年的系统限流方案！从实现到部署实战详解，稳的一批!​](https://toutiao.io/k/4tls39t) 
 - [2022-06-21-推荐-Redis夺命52连问](https://toutiao.io/k/he3fzao) 

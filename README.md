@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-06-21 15:44:39，:rocket: 更新条数: +1999， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-06-21 16:21:55，:rocket: 更新条数: +2019， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -52,7 +52,7 @@
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)![](assets/dot.png)   
-- [技术头条](#技术头条)  
+- [技术头条](#技术头条)![](assets/dot.png)   
 - [开发者头条](#开发者头条)![](assets/dot.png)   
 - [安全热点](#安全热点)  
 - [物联网智库](#物联网智库)  
@@ -491,6 +491,10 @@
 </summary>
 
 
+- [2022-06-21-群晖-NAS-支持不同容量的硬盘组合吗？](https://www.v2ex.com/t/861233) ![](assets/new.png)  
+- [2022-06-21-天津有没有线下聚会/活动可以认识优质单身男性？](https://www.v2ex.com/t/861232) ![](assets/new.png)  
+- [2022-06-21-百度短信登录接口怎么判断是同一用户的（获取验证码次数过多，请-24-小时之后再试）](https://www.v2ex.com/t/861231) ![](assets/new.png)  
+- [2022-06-21-现在入职-shopee-可以要-30%的涨幅吗？要高了会不会挂掉](https://www.v2ex.com/t/861230) ![](assets/new.png)  
 - [2022-06-21-你们的-Ubuntu-上都装了什么应用？](https://www.v2ex.com/t/861227) ![](assets/new.png)  
 - [2022-06-21-路过泉州上来-v-站一下，试试-SNI-阻断](https://www.v2ex.com/t/861225) ![](assets/new.png)  
 - [2022-06-21-怪猎世界，第一次猫车居然是被香菇猪顶死的](https://www.v2ex.com/t/861222) ![](assets/new.png)  
@@ -507,10 +511,6 @@
 - [2022-06-21-总结了一下一个人住，房子里需要有的东西](https://www.v2ex.com/t/861204) ![](assets/new.png)  
 - [2022-06-21-安利个安卓工具，按键映射-Key-Mapper](https://www.v2ex.com/t/861203) ![](assets/new.png)  
 - [2022-06-21-解析！盘口搭建源码时飞鸟系统-JavaScript-是如何在微投后台工作的](https://www.v2ex.com/t/861200) ![](assets/new.png)  
-- [2022-06-21-求问一下大佬们新组的-NAS-内网丢包，是什么原因？](https://www.v2ex.com/t/861198) ![](assets/new.png)  
-- [2022-06-21-一加-vivo-等手机新品都不支持谷歌框架了](https://www.v2ex.com/t/861197) ![](assets/new.png)  
-- [2022-06-21-UDP-流量经常断掉，然后-3-分钟后恢复](https://www.v2ex.com/t/861196) ![](assets/new.png)  
-- [2022-06-21-如何追回房东欺诈的电费？](https://www.v2ex.com/t/861195) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -522,6 +522,26 @@
 </summary>
 
 
+- [2022-06-21-搜索与推荐那些事儿-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15197&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fsearch-and-recommend%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2022-06-21-自动化测试的未来趋势-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15196&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fautomated-testing-trends%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2022-06-21-如何实现页面刷新后不定位到之前的滚动位置？-www.zhangxinxu.com](https://blogread.cn/news/go.php?idItem=15195&url=https%3A%2F%2Fwww.zhangxinxu.com%2Fwordpress%2F2022%2F05%2Fhistory-scrollrestoration%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2022-06-21-业务数据治理体系化思考与实践-tech.meituan.com](https://blogread.cn/news/go.php?idItem=15194&url=https%3A%2F%2Ftech.meituan.com%2F2022%2F05%2F12%2Fbusiness-data-governance.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2022-06-21-安全运营能力成熟度模型（SOMM）-www.sec-un.org](https://blogread.cn/news/go.php?idItem=15193&url=https%3A%2F%2Fwww.sec-un.org%2F%25e5%25ae%2589%25e5%2585%25a8%25e8%25bf%2590%25e8%2590%25a5%25e8%2583%25bd%25e5%258a%259b%25e6%2588%2590%25e7%2586%259f%25e5%25ba%25a6%25e6%25a8%25a1%25e5%259e%258b%25ef%25bc%2588somm%25ef%25bc%2589%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2022-06-21-拆分和合并-tar.gz-文件-www.awaimai.com](https://blogread.cn/news/go.php?idItem=15192&url=https%3A%2F%2Fwww.awaimai.com%2F2989.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2022-06-21-Java-正确获取对象内存地址的方式-www.awaimai.com](https://blogread.cn/news/go.php?idItem=15191&url=https%3A%2F%2Fwww.awaimai.com%2F2981.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2022-06-21-绿盟数据安全整体建设思路-blog.nsfocus.net](https://blogread.cn/news/go.php?idItem=15190&url=http%3A%2F%2Fblog.nsfocus.net%2Fdata-nsfocus%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2022-06-21-美团智能客服核心技术与实践-tech.meituan.com](https://blogread.cn/news/go.php?idItem=15189&url=https%3A%2F%2Ftech.meituan.com%2F2021%2F09%2F30%2Fartificial-intelligence-customer-service.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2022-06-21-如何优雅地记录操作日志？-tech.meituan.com](https://blogread.cn/news/go.php?idItem=15188&url=https%3A%2F%2Ftech.meituan.com%2F2021%2F09%2F16%2Foperational-logbook.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2022-06-21-新一代CTR预测服务的GPU优化实践-tech.meituan.com](https://blogread.cn/news/go.php?idItem=15187&url=https%3A%2F%2Ftech.meituan.com%2F2021%2F09%2F09%2Fctr-gpu-practice.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2022-06-21-SVG任意基本图形转path路径-www.zhangxinxu.com](https://blogread.cn/news/go.php?idItem=15186&url=https%3A%2F%2Fwww.zhangxinxu.com%2Fwordpress%2F2021%2F08%2Fsvg-shape-to-path%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2022-06-21-ECS-中的对象引用-blog.codingnow.com](https://blogread.cn/news/go.php?idItem=15185&url=https%3A%2F%2Fblog.codingnow.com%2F2022%2F02%2Fecs_entity_reference.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2022-06-21-洋葱式信息安全观察：浅议虚假信息识别-www.sec-un.org](https://blogread.cn/news/go.php?idItem=15184&url=https%3A%2F%2Fwww.sec-un.org%2F%25e6%25b4%258b%25e8%2591%25b1%25e5%25bc%258f%25e4%25bf%25a1%25e6%2581%25af%25e5%25ae%2589%25e5%2585%25a8%25e8%25a7%2582%25e5%25af%259f%25ef%25bc%259a%25e6%25b5%2585%25e8%25ae%25ae%25e8%2599%259a%25e5%2581%2587%25e4%25bf%25a1%25e6%2581%25af%25e8%25af%2586%25e5%2588%25ab%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2022-06-21-洋葱式信息安全观察：浅议威胁情报质量-www.sec-un.org](https://blogread.cn/news/go.php?idItem=15183&url=https%3A%2F%2Fwww.sec-un.org%2F%25e6%25b4%258b%25e8%2591%25b1%25e5%25bc%258f%25e4%25bf%25a1%25e6%2581%25af%25e5%25ae%2589%25e5%2585%25a8%25e8%25a7%2582%25e5%25af%259f%25ef%25bc%259a%25e6%25b5%2585%25e8%25ae%25ae%25e5%25a8%2581%25e8%2583%2581%25e6%2583%2585%25e6%258a%25a5%25e8%25b4%25a8%25e9%2587%258f%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2022-06-21-给-ECS-增加分组功能-blog.codingnow.com](https://blogread.cn/news/go.php?idItem=15182&url=https%3A%2F%2Fblog.codingnow.com%2F2022%2F06%2Fecs_group.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2022-06-21-利用FRP进行内网穿透-www.hitoy.org](https://blogread.cn/news/go.php?idItem=15181&url=https%3A%2F%2Fwww.hitoy.org%2Fintranet-penetration-using-frp.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2022-06-21-通过-MicroK8s-搭建你的-K8s-环境-soulteary.com](https://blogread.cn/news/go.php?idItem=15180&url=https%3A%2F%2Fsoulteary.com%2F2019%2F09%2F08%2Fbuild-your-k8s-environment-with-microk8s.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2022-06-21-如何进行-web-性能监控？-www.alloyteam.com](https://blogread.cn/news/go.php?idItem=15179&url=http%3A%2F%2Fwww.alloyteam.com%2F2020%2F01%2F14184%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2022-06-21-小程序同构方案-kbone-分析与适配-www.alloyteam.com](https://blogread.cn/news/go.php?idItem=15178&url=http%3A%2F%2Fwww.alloyteam.com%2F2019%2F12%2Fkbone-analyze%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -542,17 +562,17 @@
 - [2022-06-21-《性能之巅》第2版终于来了，火焰图发明人Gregg大师这次带来哪些内幕？](https://toutiao.io/k/cxj8mhm) ![](assets/new.png)  
 - [2022-06-21-如何写出同事看不懂的Java代码？](https://toutiao.io/k/azxobhi) ![](assets/new.png)  
 - [2022-06-21-Android-S原生系统内存泄露问题案例](https://toutiao.io/k/y07u9dx) ![](assets/new.png)  
-- [2022-06-21-什么是区块链的共识机制？](https://toutiao.io/k/emjz8sp) ![](assets/new.png)  
 - [2022-06-21-浅谈为什么要写单元测试](https://toutiao.io/k/z4yo3da) ![](assets/new.png)  
+- [2022-06-21-什么是区块链的共识机制？](https://toutiao.io/k/emjz8sp) ![](assets/new.png)  
 - [2022-06-21-一次-MySQL-误操作导致的事故，「高可用」都顶不住了！](https://toutiao.io/k/2gei208) ![](assets/new.png)  
-- [2022-06-21-webpack5资源最佳加载方案](https://toutiao.io/k/qqlcr6f) ![](assets/new.png)  
 - [2022-06-21-跨系统数据一致性问题解决方案汇总](https://toutiao.io/k/jkpaw91) ![](assets/new.png)  
+- [2022-06-21-webpack5资源最佳加载方案](https://toutiao.io/k/qqlcr6f) ![](assets/new.png)  
 - [2022-06-21-关于-Go1.18-新函数-TryLock-的故事](https://toutiao.io/k/kn0n37n) ![](assets/new.png)  
 - [2022-06-21-数智洞察丨剖析数智化系统思维：顶层设计和数字治理](https://toutiao.io/k/4pewz1f) ![](assets/new.png)  
-- [2022-06-21-推荐-MongoDB全方位知识图谱！](https://toutiao.io/k/efxw4nr) ![](assets/new.png)  
-- [2022-06-21-推荐-我们公司使用了-5-年的系统限流方案！从实现到部署实战详解，稳的一批!​](https://toutiao.io/k/4tls39t) ![](assets/new.png)  
-- [2022-06-21-推荐-高并发下如何防重？](https://toutiao.io/k/ulsc0so) ![](assets/new.png)  
 - [2022-06-21-推荐-总监的烦恼：技术丢了怎么办？](https://toutiao.io/k/rzytby1) ![](assets/new.png)  
+- [2022-06-21-推荐-我们公司使用了-5-年的系统限流方案！从实现到部署实战详解，稳的一批!​](https://toutiao.io/k/4tls39t) ![](assets/new.png)  
+- [2022-06-21-推荐-Redis夺命52连问](https://toutiao.io/k/he3fzao) ![](assets/new.png)  
+- [2022-06-21-推荐-高并发下如何防重？](https://toutiao.io/k/ulsc0so) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-06-21 05:01:57。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-06-21 05:27:13。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -262,7 +262,6 @@
 
 
 - [【V2EX】上海-不加班-外企-招-Java-、C++、安卓、性能测试、支持工程师](https://www.v2ex.com/t/861056)
-- [【V2EX】有被优化的兄弟进来取暖吗-求内推](https://www.v2ex.com/t/861040)
 - [【技术头条】新一代CTR预测服务的GPU优化实践-tech.meituan.com](https://blogread.cn/news/go.php?idItem=15187&url=https%3A%2F%2Ftech.meituan.com%2F2021%2F09%2F09%2Fctr-gpu-practice.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【技术头条】如何进行-web-性能监控？-www.alloyteam.com](https://blogread.cn/news/go.php?idItem=15179&url=http%3A%2F%2Fwww.alloyteam.com%2F2020%2F01%2F14184%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【开发者头条】《性能之巅》第2版终于来了，火焰图发明人Gregg大师这次带来哪些内幕？](https://toutiao.io/k/cxj8mhm)

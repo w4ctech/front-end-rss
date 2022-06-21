@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-06-21 11:18:26，:rocket: 更新条数: +2023， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-06-21 11:44:49，:rocket: 更新条数: +2023， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,9 @@
 </summary>
 
 
+- [2022-06-21-Java-,-list-用-stream-转-map，如何简洁的转-key-的类型](https://www.v2ex.com/t/861190) ![](assets/new.png)  
+- [2022-06-21-PHP-拒绝服务安全漏洞CVE-2018-19396-如何解决？](https://www.v2ex.com/t/861189) ![](assets/new.png)  
+- [2022-06-21-有还在使用-Apple-Watch-S3-的用户吗](https://www.v2ex.com/t/861188) ![](assets/new.png)  
 - [2022-06-21-记录和查找记录常用的终端命令大家都用什么方案呢？比如-mysql--h--p-之类的](https://www.v2ex.com/t/861184) ![](assets/new.png)  
 - [2022-06-21-北京-几乎不加班-招-C-语言专家、初级产品经理](https://www.v2ex.com/t/861183) ![](assets/new.png)  
 - [2022-06-21-使用夜莺监控替换-Prometheus-+-AlertManager-+-Grafana](https://www.v2ex.com/t/861180) ![](assets/new.png)  
@@ -508,9 +511,6 @@
 - [2022-06-21-请问如何批量的备份语音备忘录的录音文件（带元数据）](https://www.v2ex.com/t/861167) ![](assets/new.png)  
 - [2022-06-21-Apple-Watch-自己更换电池](https://www.v2ex.com/t/861166) ![](assets/new.png)  
 - [2022-06-21-请教一下这句代码的作用](https://www.v2ex.com/t/861165) ![](assets/new.png)  
-- [2022-06-21-Teamviewer-弹出一个优惠信息，-Remote-Access-Base-一年-80.16-元](https://www.v2ex.com/t/861163) ![](assets/new.png)  
-- [2022-06-21-fitness-没有收到最新的限定挑战](https://www.v2ex.com/t/861162) ![](assets/new.png)  
-- [2022-06-21-大家微信有被封或限制功能使用吗？说一下原因](https://www.v2ex.com/t/861161) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -569,9 +569,9 @@
 - [2022-06-21-数智洞察丨剖析数智化系统思维：顶层设计和数字治理](https://toutiao.io/k/4pewz1f) ![](assets/new.png)  
 - [2022-06-21-一次-MySQL-误操作导致的事故，「高可用」都顶不住了！](https://toutiao.io/k/2gei208) ![](assets/new.png)  
 - [2022-06-21-跨系统数据一致性问题解决方案汇总](https://toutiao.io/k/jkpaw91) ![](assets/new.png)  
+- [2022-06-21-推荐-MongoDB全方位知识图谱！](https://toutiao.io/k/efxw4nr) ![](assets/new.png)  
 - [2022-06-21-推荐-我们公司使用了-5-年的系统限流方案！从实现到部署实战详解，稳的一批!​](https://toutiao.io/k/4tls39t) ![](assets/new.png)  
 - [2022-06-21-推荐-高并发下如何防重？](https://toutiao.io/k/ulsc0so) ![](assets/new.png)  
-- [2022-06-21-推荐-总监的烦恼：技术丢了怎么办？](https://toutiao.io/k/rzytby1) ![](assets/new.png)  
 - [2022-06-21-推荐-Redis夺命52连问](https://toutiao.io/k/he3fzao) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

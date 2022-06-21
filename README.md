@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-06-21 01:04:09，:rocket: 更新条数: +2014， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-06-21 03:20:47，:rocket: 更新条数: +2021， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,26 +491,26 @@
 </summary>
 
 
-- [2022-06-21-Telegram-Premium-提供了防止-Spam-的功能](https://www.v2ex.com/t/861027) ![](assets/new.png)  
-- [2022-06-21-太热了但是租的房子没有冰箱，各位有什么迷你冰箱可以推荐吗？](https://www.v2ex.com/t/861026) ![](assets/new.png)  
-- [2022-06-21-Macos/pados-上有没有类似-Windows-下-autocad/solidworks-之类的-2D/3D-软件](https://www.v2ex.com/t/861025) ![](assets/new.png)  
-- [2022-06-21-我在百度百科的视频中听到了音频广告.](https://www.v2ex.com/t/861024) ![](assets/new.png)  
-- [2022-06-21-深圳出-1-个-Thinkpad-X1-carbon,-8G/512G,面提](https://www.v2ex.com/t/861023) ![](assets/new.png)  
-- [2022-06-20-ToDesk-被控端如何主动断开连接？](https://www.v2ex.com/t/861022) ![](assets/new.png)  
-- [2022-06-20-三十多岁的老码农出路在何方？](https://www.v2ex.com/t/861021) ![](assets/new.png)  
-- [2022-06-20-M1-上有没有适合-vim-的中英文切换插件呢？](https://www.v2ex.com/t/861020) ![](assets/new.png)  
-- [2022-06-20-入住第-4-年，想自己学习一下中央空调维护技术](https://www.v2ex.com/t/861018) ![](assets/new.png)  
-- [2022-06-20-移民瑞典机会](https://www.v2ex.com/t/861017) ![](assets/new.png)  
-- [2022-06-20-超星学习通数据库疑似遭入侵](https://www.v2ex.com/t/861016) ![](assets/new.png)  
-- [2022-06-20-百度的网站究竟在干什么？疯狂占据-CPU，难道是在挖矿？](https://www.v2ex.com/t/861015) ![](assets/new.png)  
-- [2022-06-20-冥想与腹式呼吸](https://www.v2ex.com/t/861014) ![](assets/new.png)  
-- [2022-06-20-如何在-Python-存在多个事件循环时正常使用-mayavi-绘图?](https://www.v2ex.com/t/861013) ![](assets/new.png)  
-- [2022-06-20-word-支持文本上下排列吗?](https://www.v2ex.com/t/861012) ![](assets/new.png)  
-- [2022-06-20-我的-AIO-主机参考](https://www.v2ex.com/t/861011) ![](assets/new.png)  
-- [2022-06-20-冲动离职了，现在慌的一批😭](https://www.v2ex.com/t/861008) ![](assets/new.png)  
-- [2022-06-20-PVE-自动往.ssh/authorized_keys-添加公钥意义是什么？](https://www.v2ex.com/t/861007) ![](assets/new.png)  
-- [2022-06-20-Pixel-4-黑屏求助](https://www.v2ex.com/t/861006) ![](assets/new.png)  
-- [2022-06-20-有没有大佬用过腾讯的压测大师呢？测试连-1000-并发都扛不住，心态崩了。。。](https://www.v2ex.com/t/861005) ![](assets/new.png)  
+- [2022-06-21-ios-15-某个版本开始-提醒事项无法通知的-bug](https://www.v2ex.com/t/861069) ![](assets/new.png)  
+- [2022-06-21-请教做个商城的话，-h5-或微信小程序他俩有什么优劣势？](https://www.v2ex.com/t/861068) ![](assets/new.png)  
+- [2022-06-21-iptables-智能路由问题，感谢大佬](https://www.v2ex.com/t/861067) ![](assets/new.png)  
+- [2022-06-21-unbuffered-channel-和只有一个元素的-buffered-channel-有啥区别](https://www.v2ex.com/t/861065) ![](assets/new.png)  
+- [2022-06-21-1-年前端，-base-深圳，期望薪资-20k-以上，求内推（React-+-TypeScript-+-GraphQL）](https://www.v2ex.com/t/861064) ![](assets/new.png)  
+- [2022-06-21-你能接受平薪甚至降薪跳槽吗？](https://www.v2ex.com/t/861063) ![](assets/new.png)  
+- [2022-06-21-有出-21-款-mbp-14-寸-32G-内存的兄弟吗？](https://www.v2ex.com/t/861060) ![](assets/new.png)  
+- [2022-06-21-Tplink-5430-连两台手机频繁断流.](https://www.v2ex.com/t/861058) ![](assets/new.png)  
+- [2022-06-21-上海-不加班-外企-招-Java-、C++、安卓、性能测试、支持工程师](https://www.v2ex.com/t/861056) ![](assets/new.png)  
+- [2022-06-21-ORICO-硬盘柜怎么看-RAID-是否组建成功?](https://www.v2ex.com/t/861055) ![](assets/new.png)  
+- [2022-06-21-今年-mac-版本-surge-会升级吗](https://www.v2ex.com/t/861054) ![](assets/new.png)  
+- [2022-06-21-YouTube-直播和-Cloudflare-直播延时严重](https://www.v2ex.com/t/861052) ![](assets/new.png)  
+- [2022-06-21-用-go-语言撸了一个简易版本的区块链](https://www.v2ex.com/t/861050) ![](assets/new.png)  
+- [2022-06-21-有-airpods-pro-的朋友可以测试一下：双手捂耳朵，耳机出现单边静音。](https://www.v2ex.com/t/861049) ![](assets/new.png)  
+- [2022-06-21-技术博客中的「优雅」是咋来的，有没有其他适合的形容词?](https://www.v2ex.com/t/861048) ![](assets/new.png)  
+- [2022-06-21-真诚请教原因，-RabbitMQ-增加多消费者导致生产者推送消息阻塞10s~30s](https://www.v2ex.com/t/861047) ![](assets/new.png)  
+- [2022-06-21-请问有没有什么靠谱的在线自助制作企业画册的网站?](https://www.v2ex.com/t/861046) ![](assets/new.png)  
+- [2022-06-21-苹果用环保为由，割各位韭菜这件事…](https://www.v2ex.com/t/861044) ![](assets/new.png)  
+- [2022-06-21-求一个-base64-工具，市面上的全部不满足要求](https://www.v2ex.com/t/861043) ![](assets/new.png)  
+- [2022-06-21-关于逃离一线城市-各位老哥有什么建议吗](https://www.v2ex.com/t/861042) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -522,6 +522,7 @@
 </summary>
 
 
+- [2022-06-21-搜索与推荐那些事儿-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15197&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fsearch-and-recommend%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-06-21-自动化测试的未来趋势-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15196&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fautomated-testing-trends%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-06-21-如何实现页面刷新后不定位到之前的滚动位置？-www.zhangxinxu.com](https://blogread.cn/news/go.php?idItem=15195&url=https%3A%2F%2Fwww.zhangxinxu.com%2Fwordpress%2F2022%2F05%2Fhistory-scrollrestoration%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-06-21-业务数据治理体系化思考与实践-tech.meituan.com](https://blogread.cn/news/go.php?idItem=15194&url=https%3A%2F%2Ftech.meituan.com%2F2022%2F05%2F12%2Fbusiness-data-governance.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
@@ -541,7 +542,6 @@
 - [2022-06-21-通过-MicroK8s-搭建你的-K8s-环境-soulteary.com](https://blogread.cn/news/go.php?idItem=15180&url=https%3A%2F%2Fsoulteary.com%2F2019%2F09%2F08%2Fbuild-your-k8s-environment-with-microk8s.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-06-21-如何进行-web-性能监控？-www.alloyteam.com](https://blogread.cn/news/go.php?idItem=15179&url=http%3A%2F%2Fwww.alloyteam.com%2F2020%2F01%2F14184%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-06-21-小程序同构方案-kbone-分析与适配-www.alloyteam.com](https://blogread.cn/news/go.php?idItem=15178&url=http%3A%2F%2Fwww.alloyteam.com%2F2019%2F12%2Fkbone-analyze%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-06-21-在-kbone-中实现小程序-svg-渲染-www.alloyteam.com](https://blogread.cn/news/go.php?idItem=15177&url=http%3A%2F%2Fwww.alloyteam.com%2F2019%2F11%2F14073%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -558,11 +558,17 @@
 - [2022-06-21-如何学习架构，一个系列帮助你构筑架构知识体系](https://toutiao.io/k/i9clyuy) ![](assets/new.png)  
 - [2022-06-21-字节跳动基于-Iceberg-的海量特征存储实践](https://toutiao.io/k/kekzyb3) ![](assets/new.png)  
 - [2022-06-21-webpack5资源最佳加载方案](https://toutiao.io/k/qqlcr6f) ![](assets/new.png)  
-- [2022-06-21-推荐-总监的烦恼：技术丢了怎么办？](https://toutiao.io/k/rzytby1) ![](assets/new.png)  
-- [2022-06-21-推荐-Redis夺命52连问](https://toutiao.io/k/he3fzao) ![](assets/new.png)  
-- [2022-06-21-推荐-我们公司使用了-5-年的系统限流方案！从实现到部署实战详解，稳的一批!​](https://toutiao.io/k/4tls39t) ![](assets/new.png)  
+- [2022-06-21-通过-Goyacc-构建-Elasticsearch-Querystring-解析器---领域特定语言语法分析实践](https://toutiao.io/k/ymqs51t) ![](assets/new.png)  
+- [2022-06-21-后端思维篇:如何抽一个观察者模板](https://toutiao.io/k/bl9mj5i) ![](assets/new.png)  
+- [2022-06-21-《性能之巅》第2版终于来了，火焰图发明人Gregg大师这次带来哪些内幕？](https://toutiao.io/k/cxj8mhm) ![](assets/new.png)  
+- [2022-06-21-关于-Go1.18-新函数-TryLock-的故事](https://toutiao.io/k/kn0n37n) ![](assets/new.png)  
+- [2022-06-21-Android-S原生系统内存泄露问题案例](https://toutiao.io/k/y07u9dx) ![](assets/new.png)  
+- [2022-06-21-数智洞察丨剖析数智化系统思维：顶层设计和数字治理](https://toutiao.io/k/4pewz1f) ![](assets/new.png)  
 - [2022-06-21-推荐-MongoDB全方位知识图谱！](https://toutiao.io/k/efxw4nr) ![](assets/new.png)  
 - [2022-06-21-推荐-高并发下如何防重？](https://toutiao.io/k/ulsc0so) ![](assets/new.png)  
+- [2022-06-21-推荐-我们公司使用了-5-年的系统限流方案！从实现到部署实战详解，稳的一批!​](https://toutiao.io/k/4tls39t) ![](assets/new.png)  
+- [2022-06-21-推荐-Redis夺命52连问](https://toutiao.io/k/he3fzao) ![](assets/new.png)  
+- [2022-06-21-推荐-总监的烦恼：技术丢了怎么办？](https://toutiao.io/k/rzytby1) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

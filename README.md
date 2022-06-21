@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-06-21 23:15:20，:rocket: 更新条数: +2023， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-06-21 23:40:46，:rocket: 更新条数: +2023， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-06-21-想问一下各位工作后的老哥们会有自己的电脑吗](https://www.v2ex.com/t/861255) ![](assets/new.png)  
 - [2022-06-21-Why-AlpineLinux](https://www.v2ex.com/t/861254) ![](assets/new.png)  
 - [2022-06-21-流媒体时代，还有必要用-NAS-搭建-infuse/Plex-建立自己的影音库吗？](https://www.v2ex.com/t/861253) ![](assets/new.png)  
 - [2022-06-21-超星事件随想](https://www.v2ex.com/t/861252) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-06-21-copilot-收费了？](https://www.v2ex.com/t/861237) ![](assets/new.png)  
 - [2022-06-21-Copilot-似乎要收费了](https://www.v2ex.com/t/861236) ![](assets/new.png)  
 - [2022-06-21-图灵社区手机浏览器无法登陆](https://www.v2ex.com/t/861235) ![](assets/new.png)  
-- [2022-06-21-显卡支持的分辨率+刷新率是怎么定的](https://www.v2ex.com/t/861234) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -569,10 +569,10 @@
 - [2022-06-21-webpack5资源最佳加载方案](https://toutiao.io/k/qqlcr6f) ![](assets/new.png)  
 - [2022-06-21-关于-Go1.18-新函数-TryLock-的故事](https://toutiao.io/k/kn0n37n) ![](assets/new.png)  
 - [2022-06-21-数智洞察丨剖析数智化系统思维：顶层设计和数字治理](https://toutiao.io/k/4pewz1f) ![](assets/new.png)  
-- [2022-06-21-推荐-MongoDB全方位知识图谱！](https://toutiao.io/k/efxw4nr) ![](assets/new.png)  
 - [2022-06-21-推荐-我们公司使用了-5-年的系统限流方案！从实现到部署实战详解，稳的一批!​](https://toutiao.io/k/4tls39t) ![](assets/new.png)  
-- [2022-06-21-推荐-总监的烦恼：技术丢了怎么办？](https://toutiao.io/k/rzytby1) ![](assets/new.png)  
 - [2022-06-21-推荐-Redis夺命52连问](https://toutiao.io/k/he3fzao) ![](assets/new.png)  
+- [2022-06-21-推荐-MongoDB全方位知识图谱！](https://toutiao.io/k/efxw4nr) ![](assets/new.png)  
+- [2022-06-21-推荐-高并发下如何防重？](https://toutiao.io/k/ulsc0so) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

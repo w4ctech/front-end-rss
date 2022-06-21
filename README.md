@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-06-21 11:44:49，:rocket: 更新条数: +2023， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-06-21 12:30:42，:rocket: 更新条数: +2024， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,11 @@
 </summary>
 
 
+- [2022-06-21-如何追回房东欺诈的电费？](https://www.v2ex.com/t/861195) ![](assets/new.png)  
+- [2022-06-21-有哪些好用的文言文翻译-APP、网站或-API-推荐?](https://www.v2ex.com/t/861194) ![](assets/new.png)  
+- [2022-06-21-VIM-如何入门](https://www.v2ex.com/t/861193) ![](assets/new.png)  
+- [2022-06-21-北京-|-上海40K---100K-web3-公司诚邀后端/前端加入](https://www.v2ex.com/t/861192) ![](assets/new.png)  
+- [2022-06-21-如何系统性学习英语？](https://www.v2ex.com/t/861191) ![](assets/new.png)  
 - [2022-06-21-Java-,-list-用-stream-转-map，如何简洁的转-key-的类型](https://www.v2ex.com/t/861190) ![](assets/new.png)  
 - [2022-06-21-PHP-拒绝服务安全漏洞CVE-2018-19396-如何解决？](https://www.v2ex.com/t/861189) ![](assets/new.png)  
 - [2022-06-21-有还在使用-Apple-Watch-S3-的用户吗](https://www.v2ex.com/t/861188) ![](assets/new.png)  
@@ -506,11 +511,6 @@
 - [2022-06-21-大连应届生应该小心那些培训公司](https://www.v2ex.com/t/861172) ![](assets/new.png)  
 - [2022-06-21-2021-款-MacBook-Pro-16-寸充电问题](https://www.v2ex.com/t/861171) ![](assets/new.png)  
 - [2022-06-21-也许可能大概再也见不到-20k-以下的比特币了](https://www.v2ex.com/t/861170) ![](assets/new.png)  
-- [2022-06-21-有老哥知道这个是什么浏览器吗](https://www.v2ex.com/t/861169) ![](assets/new.png)  
-- [2022-06-21-各位老哥，准备撤离一线城市了，很多物品，请问选择什么物流快递回家比较优惠啊？](https://www.v2ex.com/t/861168) ![](assets/new.png)  
-- [2022-06-21-请问如何批量的备份语音备忘录的录音文件（带元数据）](https://www.v2ex.com/t/861167) ![](assets/new.png)  
-- [2022-06-21-Apple-Watch-自己更换电池](https://www.v2ex.com/t/861166) ![](assets/new.png)  
-- [2022-06-21-请教一下这句代码的作用](https://www.v2ex.com/t/861165) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -557,22 +557,22 @@
 - [2022-06-21-如何学习架构，一个系列帮助你构筑架构知识体系](https://toutiao.io/k/i9clyuy) ![](assets/new.png)  
 - [2022-06-21-从HTTP.TRANSPORT看连接池的设计](https://toutiao.io/k/sl5a7p7) ![](assets/new.png)  
 - [2022-06-21-字节跳动基于-Iceberg-的海量特征存储实践](https://toutiao.io/k/kekzyb3) ![](assets/new.png)  
-- [2022-06-21-后端思维篇:如何抽一个观察者模板](https://toutiao.io/k/bl9mj5i) ![](assets/new.png)  
 - [2022-06-21-通过-Goyacc-构建-Elasticsearch-Querystring-解析器---领域特定语言语法分析实践](https://toutiao.io/k/ymqs51t) ![](assets/new.png)  
+- [2022-06-21-后端思维篇:如何抽一个观察者模板](https://toutiao.io/k/bl9mj5i) ![](assets/new.png)  
 - [2022-06-21-《性能之巅》第2版终于来了，火焰图发明人Gregg大师这次带来哪些内幕？](https://toutiao.io/k/cxj8mhm) ![](assets/new.png)  
 - [2022-06-21-Android-S原生系统内存泄露问题案例](https://toutiao.io/k/y07u9dx) ![](assets/new.png)  
 - [2022-06-21-webpack5资源最佳加载方案](https://toutiao.io/k/qqlcr6f) ![](assets/new.png)  
-- [2022-06-21-什么是区块链的共识机制？](https://toutiao.io/k/emjz8sp) ![](assets/new.png)  
 - [2022-06-21-如何写出同事看不懂的Java代码？](https://toutiao.io/k/azxobhi) ![](assets/new.png)  
+- [2022-06-21-什么是区块链的共识机制？](https://toutiao.io/k/emjz8sp) ![](assets/new.png)  
 - [2022-06-21-浅谈为什么要写单元测试](https://toutiao.io/k/z4yo3da) ![](assets/new.png)  
 - [2022-06-21-关于-Go1.18-新函数-TryLock-的故事](https://toutiao.io/k/kn0n37n) ![](assets/new.png)  
-- [2022-06-21-数智洞察丨剖析数智化系统思维：顶层设计和数字治理](https://toutiao.io/k/4pewz1f) ![](assets/new.png)  
 - [2022-06-21-一次-MySQL-误操作导致的事故，「高可用」都顶不住了！](https://toutiao.io/k/2gei208) ![](assets/new.png)  
+- [2022-06-21-数智洞察丨剖析数智化系统思维：顶层设计和数字治理](https://toutiao.io/k/4pewz1f) ![](assets/new.png)  
 - [2022-06-21-跨系统数据一致性问题解决方案汇总](https://toutiao.io/k/jkpaw91) ![](assets/new.png)  
-- [2022-06-21-推荐-MongoDB全方位知识图谱！](https://toutiao.io/k/efxw4nr) ![](assets/new.png)  
 - [2022-06-21-推荐-我们公司使用了-5-年的系统限流方案！从实现到部署实战详解，稳的一批!​](https://toutiao.io/k/4tls39t) ![](assets/new.png)  
-- [2022-06-21-推荐-高并发下如何防重？](https://toutiao.io/k/ulsc0so) ![](assets/new.png)  
+- [2022-06-21-推荐-总监的烦恼：技术丢了怎么办？](https://toutiao.io/k/rzytby1) ![](assets/new.png)  
 - [2022-06-21-推荐-Redis夺命52连问](https://toutiao.io/k/he3fzao) ![](assets/new.png)  
+- [2022-06-21-推荐-高并发下如何防重？](https://toutiao.io/k/ulsc0so) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

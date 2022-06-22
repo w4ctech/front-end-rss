@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-06-22 04:09:55。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-06-22 05:01:33。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -333,6 +333,7 @@
 
 
 
+- [【V2EX】Github-Copilot-开启收费，各位大佬要付费吗？](https://www.v2ex.com/t/861343)
 - [【V2EX】维护流行开源项目得-GitHub-Copilot-免费权限](https://www.v2ex.com/t/861324)
 - [【V2EX】关联-Github-Copilot-开始收费了,-有类似功能的平替插件么-主要写-Java](https://www.v2ex.com/t/861317)
 - [【V2EX】GitHub-Copilot-是准备开始收费了吗？](https://www.v2ex.com/t/861307)

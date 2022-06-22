@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-06-22 03:21:54。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-06-22 04:09:55。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -182,9 +182,6 @@
 - [【张鑫旭-鑫空间-鑫生活】小tips:-JS字体加载失败或完毕的检测](https://www.zhangxinxu.com/wordpress/2022/04/js-font-face-load/)
 - [【张鑫旭-鑫空间-鑫生活】CSS实现滚动高度自动变小的粘滞效果](https://www.zhangxinxu.com/wordpress/2022/04/css-sticky-size-change/)
 - [【V2EX】有通过路由器对-pc-进行休眠唤醒的方案吗？](https://www.v2ex.com/t/861305)
-- [【V2EX】路由和-socks？](https://www.v2ex.com/t/861277)
-- [【V2EX】dagger.js-使用示例2-Tic-tac-Toe](https://www.v2ex.com/t/861276)
-- [【V2EX】dagger.js-使用示例-1-Hello-dagger!](https://www.v2ex.com/t/861270)
 - [【技术头条】如何实现页面刷新后不定位到之前的滚动位置？-www.zhangxinxu.com](https://blogread.cn/news/go.php?idItem=15195&url=https%3A%2F%2Fwww.zhangxinxu.com%2Fwordpress%2F2022%2F05%2Fhistory-scrollrestoration%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [......【查看更多】......](./details/tags/javascript.md)
 
@@ -239,6 +236,7 @@
 
 - [【武汉肺炎防疫全纪录(财新网)】广州17岁男生在定点医院参加高考-特殊考场视频监考](https://m.caixin.com/m/2021-06-05/101723418.html)
 - [【武汉肺炎防疫全纪录(财新网)】林郑月娥率13高官直播接种科兴疫苗-复星疫苗预计周中到港](https://m.caixin.com/m/2021-02-22/101665724.html)
+- [【V2EX】有没有玩直播的-v-友?](https://www.v2ex.com/t/861325)
 - [......【查看更多】......](./details/tags/audio-video.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -335,9 +333,9 @@
 
 
 
+- [【V2EX】维护流行开源项目得-GitHub-Copilot-免费权限](https://www.v2ex.com/t/861324)
 - [【V2EX】关联-Github-Copilot-开始收费了,-有类似功能的平替插件么-主要写-Java](https://www.v2ex.com/t/861317)
 - [【V2EX】GitHub-Copilot-是准备开始收费了吗？](https://www.v2ex.com/t/861307)
-- [【V2EX】GitHub-Student-无法通过验证](https://www.v2ex.com/t/861281)
 - [【开发者头条】离开大厂，从降薪开始？推荐17个提升开发效率的“轮子”；Git存储原理及部分实现｜码农周刊VIP会员专属邮件周报-Vol.095](https://toutiao.io/k/5y8j5ih)
 - [......【查看更多】......](./details/tags/git-svn.md)
 

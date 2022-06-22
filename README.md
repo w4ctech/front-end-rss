@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-06-22 20:16:28，:rocket: 更新条数: +2028， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-06-22 20:40:16，:rocket: 更新条数: +2029， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-06-22-新买的电脑，首次开机能否从-U-盘启动？](https://www.v2ex.com/t/861522) ![](assets/new.png)  
+- [2022-06-22-不懂就问，修改内存信息](https://www.v2ex.com/t/861521) ![](assets/new.png)  
 - [2022-06-22-家人们，你们是怎么解决卫生间是中水的问题的？](https://www.v2ex.com/t/861520) ![](assets/new.png)  
 - [2022-06-22-测评都出了，-M2-芯片好像真香了](https://www.v2ex.com/t/861519) ![](assets/new.png)  
 - [2022-06-22-请问国内用户如何付费订阅-Copilot-服务？](https://www.v2ex.com/t/861518) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-06-22-我平时喜欢写网站，遇到了点问题，来吸取下大家的建议](https://www.v2ex.com/t/861500) ![](assets/new.png)  
 - [2022-06-22-Anydesk-中国大陆中继节点怎么更方便地使用？](https://www.v2ex.com/t/861498) ![](assets/new.png)  
 - [2022-06-22-五年前的今天买的-iPhone7，有必要今天换-iPhone-SE-3-吗](https://www.v2ex.com/t/861497) ![](assets/new.png)  
-- [2022-06-22-求教-starwind-V2V-怎么把实体物理机虚拟到本地？](https://www.v2ex.com/t/861496) ![](assets/new.png)  
-- [2022-06-22-网络很怪异](https://www.v2ex.com/t/861495) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -569,10 +569,10 @@
 - [2022-06-22-Go-为什么不支持前缀自增运算符？](https://toutiao.io/k/r6y1ff9) ![](assets/new.png)  
 - [2022-06-22-数仓中常见名词](https://toutiao.io/k/z1jsjr4) ![](assets/new.png)  
 - [2022-06-22-微博资源-Mesh-服务探索与实践](https://toutiao.io/k/jovkbfg) ![](assets/new.png)  
-- [2022-06-22-推荐-Redis夺命52连问](https://toutiao.io/k/he3fzao) ![](assets/new.png)  
-- [2022-06-22-推荐-高并发下如何防重？](https://toutiao.io/k/ulsc0so) ![](assets/new.png)  
-- [2022-06-22-推荐-肝了一个月的-DDD，一文带你掌握！](https://toutiao.io/k/bclz2n6) ![](assets/new.png)  
 - [2022-06-22-推荐-我们公司使用了-5-年的系统限流方案！从实现到部署实战详解，稳的一批!​](https://toutiao.io/k/4tls39t) ![](assets/new.png)  
+- [2022-06-22-推荐-Redis夺命52连问](https://toutiao.io/k/he3fzao) ![](assets/new.png)  
+- [2022-06-22-推荐-肝了一个月的-DDD，一文带你掌握！](https://toutiao.io/k/bclz2n6) ![](assets/new.png)  
+- [2022-06-22-推荐-总监的烦恼：技术丢了怎么办？](https://toutiao.io/k/rzytby1) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

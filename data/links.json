@@ -9953,6 +9953,56 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "请教一下各位 v 友，币圈 Java 工作岗位是不是很少，想了解 一下币圈目前大多数开发岗位用是什么语言。",
+        "link": "https://www.v2ex.com/t/861361",
+        "date": "2022-06-22"
+      },
+      {
+        "title": "能问下 V 友们，知道 Vuepress、VitePress 博客读取文件的原理吗？",
+        "link": "https://www.v2ex.com/t/861358",
+        "date": "2022-06-22"
+      },
+      {
+        "title": "请教关于 magickeyboard F13-19 和 touchbar 的两个问题",
+        "link": "https://www.v2ex.com/t/861357",
+        "date": "2022-06-22"
+      },
+      {
+        "title": "又双叒叕，找域名邮箱方案",
+        "link": "https://www.v2ex.com/t/861356",
+        "date": "2022-06-22"
+      },
+      {
+        "title": "Tm 给人套路了 损失¥100",
+        "link": "https://www.v2ex.com/t/861355",
+        "date": "2022-06-22"
+      },
+      {
+        "title": "目前还在使用 2014 版本的 mac mini，显示器是 LG 24MP55，感觉显示模糊。",
+        "link": "https://www.v2ex.com/t/861354",
+        "date": "2022-06-22"
+      },
+      {
+        "title": "4 年 PHP 想换门语言，之后想回济南发展，学习 go 好，还是 Java ，还是前端？",
+        "link": "https://www.v2ex.com/t/861353",
+        "date": "2022-06-22"
+      },
+      {
+        "title": "公司裁员，我犹豫要不要去申请优化",
+        "link": "https://www.v2ex.com/t/861352",
+        "date": "2022-06-22"
+      },
+      {
+        "title": "音乐会员打算从 qq 音乐转到网易云音乐",
+        "link": "https://www.v2ex.com/t/861350",
+        "date": "2022-06-22"
+      },
+      {
+        "title": "一个关于云盘的想法",
+        "link": "https://www.v2ex.com/t/861349",
+        "date": "2022-06-22"
+      },
+      {
         "title": "帮友找 [ Web3 ] [ 深圳-宝安] [20K - 40K] [前端开发工程师] 欢迎来撩！请备注来源 v2ex",
         "link": "https://www.v2ex.com/t/861347",
         "date": "2022-06-22"
@@ -10100,61 +10150,6 @@
       {
         "title": "开源项目如何做到不泄露配置文件中的密码信息？",
         "link": "https://www.v2ex.com/t/861312",
-        "date": "2022-06-22"
-      },
-      {
-        "title": "最近整了个无插件内网穿透工具",
-        "link": "https://www.v2ex.com/t/861311",
-        "date": "2022-06-22"
-      },
-      {
-        "title": "求推荐一个好用的自建开源协作笔记的平台",
-        "link": "https://www.v2ex.com/t/861309",
-        "date": "2022-06-22"
-      },
-      {
-        "title": "iOS 上淘宝、京东 app“文稿与数据”过大， app 内清除缓存无效，怎么办？",
-        "link": "https://www.v2ex.com/t/861308",
-        "date": "2022-06-22"
-      },
-      {
-        "title": "GitHub Copilot 是准备开始收费了吗？",
-        "link": "https://www.v2ex.com/t/861307",
-        "date": "2022-06-22"
-      },
-      {
-        "title": "windows 屏幕录制软件回忆",
-        "link": "https://www.v2ex.com/t/861306",
-        "date": "2022-06-22"
-      },
-      {
-        "title": "有通过路由器对 pc 进行休眠唤醒的方案吗？",
-        "link": "https://www.v2ex.com/t/861305",
-        "date": "2022-06-22"
-      },
-      {
-        "title": "在机构学测试，感觉没意思，想转 Java 班",
-        "link": "https://www.v2ex.com/t/861303",
-        "date": "2022-06-22"
-      },
-      {
-        "title": "IDEA 2022.2 EAP 让 idea 恢复顺滑",
-        "link": "https://www.v2ex.com/t/861302",
-        "date": "2022-06-22"
-      },
-      {
-        "title": "朝中社 6 月 22 日朝鲜疫情数据 73/4672450 推算下 14 亿",
-        "link": "https://www.v2ex.com/t/861301",
-        "date": "2022-06-22"
-      },
-      {
-        "title": "急求：请问大家有去哪儿网/携程/同程旅行等平台的酒店订单，可以开 fapiao 的吗？",
-        "link": "https://www.v2ex.com/t/861300",
-        "date": "2022-06-22"
-      },
-      {
-        "title": "一款 4T 容量数据盘， mbp2021 测速意外惊喜",
-        "link": "https://www.v2ex.com/t/861299",
         "date": "2022-06-22"
       }
     ]
@@ -10322,8 +10317,43 @@
         "date": "2022-06-22"
       },
       {
-        "title": "[推荐] 肝了一个月的 DDD，一文带你掌握！",
-        "link": "https://toutiao.io/k/bclz2n6",
+        "title": "Go 为什么不支持前缀自增运算符？",
+        "link": "https://toutiao.io/k/r6y1ff9",
+        "date": "2022-06-22"
+      },
+      {
+        "title": "搭载WebRTC的开源云游戏",
+        "link": "https://toutiao.io/k/hoo5yia",
+        "date": "2022-06-22"
+      },
+      {
+        "title": "字节跳动开源 Go HTTP 框架 Hertz 设计实践",
+        "link": "https://toutiao.io/k/rzfn3lx",
+        "date": "2022-06-22"
+      },
+      {
+        "title": "疫情下更合适的开发模式",
+        "link": "https://toutiao.io/k/998n18j",
+        "date": "2022-06-22"
+      },
+      {
+        "title": "存储日报-20220622",
+        "link": "https://toutiao.io/k/ptvl32e",
+        "date": "2022-06-22"
+      },
+      {
+        "title": "微博资源 Mesh 服务探索与实践",
+        "link": "https://toutiao.io/k/jovkbfg",
+        "date": "2022-06-22"
+      },
+      {
+        "title": "Redis+Guava，性能炸裂！",
+        "link": "https://toutiao.io/k/2kfmd4b",
+        "date": "2022-06-22"
+      },
+      {
+        "title": "数仓中常见名词",
+        "link": "https://toutiao.io/k/z1jsjr4",
         "date": "2022-06-22"
       },
       {
@@ -10332,8 +10362,18 @@
         "date": "2022-06-22"
       },
       {
+        "title": "[推荐] 肝了一个月的 DDD，一文带你掌握！",
+        "link": "https://toutiao.io/k/bclz2n6",
+        "date": "2022-06-22"
+      },
+      {
         "title": "[推荐] 总监的烦恼：技术丢了怎么办？",
         "link": "https://toutiao.io/k/rzytby1",
+        "date": "2022-06-22"
+      },
+      {
+        "title": "[推荐] 高并发下如何防重？",
+        "link": "https://toutiao.io/k/ulsc0so",
         "date": "2022-06-22"
       },
       {
@@ -10344,11 +10384,6 @@
       {
         "title": "[推荐] 我们公司使用了 5 年的系统限流方案！从实现到部署实战详解，稳的一批!​",
         "link": "https://toutiao.io/k/4tls39t",
-        "date": "2022-06-22"
-      },
-      {
-        "title": "[推荐] 高并发下如何防重？",
-        "link": "https://toutiao.io/k/ulsc0so",
         "date": "2022-06-22"
       }
     ]

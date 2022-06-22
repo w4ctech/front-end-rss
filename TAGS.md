@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-06-22 01:10:42。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-06-22 03:21:54。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -120,7 +120,6 @@
 
 
 
-- [【技术头条】小程序同构方案-kbone-分析与适配-www.alloyteam.com](https://blogread.cn/news/go.php?idItem=15178&url=http%3A%2F%2Fwww.alloyteam.com%2F2019%2F12%2Fkbone-analyze%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [......【查看更多】......](./details/tags/miniprogram.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -182,7 +181,10 @@
 - [【张鑫旭-鑫空间-鑫生活】深入-JS-new-Function-语法](https://www.zhangxinxu.com/wordpress/2022/04/js-new-function/)
 - [【张鑫旭-鑫空间-鑫生活】小tips:-JS字体加载失败或完毕的检测](https://www.zhangxinxu.com/wordpress/2022/04/js-font-face-load/)
 - [【张鑫旭-鑫空间-鑫生活】CSS实现滚动高度自动变小的粘滞效果](https://www.zhangxinxu.com/wordpress/2022/04/css-sticky-size-change/)
-- [【V2EX】TS/JS在多个组件复用（初始化，重置）的同类型对象，方便起见，提取复用对象到一个文件是否优雅？](https://www.v2ex.com/t/861259)
+- [【V2EX】有通过路由器对-pc-进行休眠唤醒的方案吗？](https://www.v2ex.com/t/861305)
+- [【V2EX】路由和-socks？](https://www.v2ex.com/t/861277)
+- [【V2EX】dagger.js-使用示例2-Tic-tac-Toe](https://www.v2ex.com/t/861276)
+- [【V2EX】dagger.js-使用示例-1-Hello-dagger!](https://www.v2ex.com/t/861270)
 - [【技术头条】如何实现页面刷新后不定位到之前的滚动位置？-www.zhangxinxu.com](https://blogread.cn/news/go.php?idItem=15195&url=https%3A%2F%2Fwww.zhangxinxu.com%2Fwordpress%2F2022%2F05%2Fhistory-scrollrestoration%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [......【查看更多】......](./details/tags/javascript.md)
 
@@ -255,6 +257,8 @@
 
 - [【技术头条】新一代CTR预测服务的GPU优化实践-tech.meituan.com](https://blogread.cn/news/go.php?idItem=15187&url=https%3A%2F%2Ftech.meituan.com%2F2021%2F09%2F09%2Fctr-gpu-practice.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【技术头条】如何进行-web-性能监控？-www.alloyteam.com](https://blogread.cn/news/go.php?idItem=15179&url=http%3A%2F%2Fwww.alloyteam.com%2F2020%2F01%2F14184%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
+- [【开发者头条】聊聊两个Go即将过时的GC优化策略](https://toutiao.io/k/qj2skzn)
+- [【开发者头条】K8S-LIST-请求源码分析、性能评估与大规模基础服务部署调优](https://toutiao.io/k/npm1osn)
 - [......【查看更多】......](./details/tags/optimization.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -278,9 +282,7 @@
 - [【武汉肺炎防疫全纪录(财新网)】解药|新冠mRNA疫苗安全性有哪些挑战？](https://m.caixin.com/m/2021-01-08/101648043.html)
 - [【武汉肺炎防疫全纪录(财新网)】大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html)
 - [【张鑫旭-鑫空间-鑫生活】基于文字的URL锚点定位与::target-text样式设置](https://www.zhangxinxu.com/wordpress/2022/06/url-anchor-target-text/)
-- [【V2EX】单纯使用浏览器用什么系统好？](https://www.v2ex.com/t/861251)
-- [【V2EX】有没有可以像-PostgreSQL-那样用-SQL-命令操作但像-Redis-一样把数据保存在-RAM-中的数据库？](https://www.v2ex.com/t/861242)
-- [【V2EX】图灵社区手机浏览器无法登陆](https://www.v2ex.com/t/861235)
+- [【V2EX】iOS-上淘宝、京东-app“文稿与数据”过大，-app-内清除缓存无效，怎么办？](https://www.v2ex.com/t/861308)
 - [【技术头条】安全运营能力成熟度模型（SOMM）-www.sec-un.org](https://blogread.cn/news/go.php?idItem=15193&url=https%3A%2F%2Fwww.sec-un.org%2F%25e5%25ae%2589%25e5%2585%25a8%25e8%25bf%2590%25e8%2590%25a5%25e8%2583%25bd%25e5%258a%259b%25e6%2588%2590%25e7%2586%259f%25e5%25ba%25a6%25e6%25a8%25a1%25e5%259e%258b%25ef%25bc%2588somm%25ef%25bc%2589%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【技术头条】绿盟数据安全整体建设思路-blog.nsfocus.net](https://blogread.cn/news/go.php?idItem=15190&url=http%3A%2F%2Fblog.nsfocus.net%2Fdata-nsfocus%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【技术头条】洋葱式信息安全观察：浅议虚假信息识别-www.sec-un.org](https://blogread.cn/news/go.php?idItem=15184&url=https%3A%2F%2Fwww.sec-un.org%2F%25e6%25b4%258b%25e8%2591%25b1%25e5%25bc%258f%25e4%25bf%25a1%25e6%2581%25af%25e5%25ae%2589%25e5%2585%25a8%25e8%25a7%2582%25e5%25af%259f%25ef%25bc%259a%25e6%25b5%2585%25e8%25ae%25ae%25e8%2599%259a%25e5%2581%2587%25e4%25bf%25a1%25e6%2581%25af%25e8%25af%2586%25e5%2588%25ab%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
@@ -301,7 +303,6 @@
 
 
 
-- [【V2EX】使用-cloudflare-为网站加上强制-https-保护-基础指引-大佬回避](https://www.v2ex.com/t/861217)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -334,12 +335,10 @@
 
 
 
-- [【V2EX】Github-Copilot-正式上线了](https://www.v2ex.com/t/861260)
-- [【V2EX】Github-Copilot-今日起，开放给所有人使用](https://www.v2ex.com/t/861250)
-- [【V2EX】惊闻噩耗，-GitHub-Copilot-要收费了。](https://www.v2ex.com/t/861248)
-- [【V2EX】GitHub-Copilot-正式开启付费了](https://www.v2ex.com/t/861244)
-- [【V2EX】Github-Copilot-要收费了，$10-每月，你们会订阅吗？](https://www.v2ex.com/t/861240)
-- [【V2EX】GitHub-Copilot-开始收费了](https://www.v2ex.com/t/861239)
+- [【V2EX】关联-Github-Copilot-开始收费了,-有类似功能的平替插件么-主要写-Java](https://www.v2ex.com/t/861317)
+- [【V2EX】GitHub-Copilot-是准备开始收费了吗？](https://www.v2ex.com/t/861307)
+- [【V2EX】GitHub-Student-无法通过验证](https://www.v2ex.com/t/861281)
+- [【开发者头条】离开大厂，从降薪开始？推荐17个提升开发效率的“轮子”；Git存储原理及部分实现｜码农周刊VIP会员专属邮件周报-Vol.095](https://toutiao.io/k/5y8j5ih)
 - [......【查看更多】......](./details/tags/git-svn.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

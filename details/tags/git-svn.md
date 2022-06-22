@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-06-22 01:10:42。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-06-22 03:21:54。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Git、SVN
 
@@ -7,9 +7,7 @@
 
 
 
-- [2022-06-22-Github-Copilot-正式上线了](https://www.v2ex.com/t/861260) 
-- [2022-06-21-Github-Copilot-今日起，开放给所有人使用](https://www.v2ex.com/t/861250) 
-- [2022-06-21-惊闻噩耗，-GitHub-Copilot-要收费了。](https://www.v2ex.com/t/861248) 
-- [2022-06-21-GitHub-Copilot-正式开启付费了](https://www.v2ex.com/t/861244) 
-- [2022-06-21-Github-Copilot-要收费了，$10-每月，你们会订阅吗？](https://www.v2ex.com/t/861240) 
-- [2022-06-21-GitHub-Copilot-开始收费了](https://www.v2ex.com/t/861239) 
+- [2022-06-22-关联-Github-Copilot-开始收费了,-有类似功能的平替插件么-主要写-Java](https://www.v2ex.com/t/861317) 
+- [2022-06-22-GitHub-Copilot-是准备开始收费了吗？](https://www.v2ex.com/t/861307) 
+- [2022-06-22-GitHub-Student-无法通过验证](https://www.v2ex.com/t/861281) 
+- [2022-06-22-离开大厂，从降薪开始？推荐17个提升开发效率的“轮子”；Git存储原理及部分实现｜码农周刊VIP会员专属邮件周报-Vol.095](https://toutiao.io/k/5y8j5ih) 

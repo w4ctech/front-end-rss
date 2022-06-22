@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-06-22 09:40:42。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-06-22 10:17:15。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -239,6 +239,7 @@
 
 - [【武汉肺炎防疫全纪录(财新网)】广州17岁男生在定点医院参加高考-特殊考场视频监考](https://m.caixin.com/m/2021-06-05/101723418.html)
 - [【武汉肺炎防疫全纪录(财新网)】林郑月娥率13高官直播接种科兴疫苗-复星疫苗预计周中到港](https://m.caixin.com/m/2021-02-22/101665724.html)
+- [【V2EX】可以在-mac-或者-windows-同时打开多个存在-NAS-里的视频文件吗](https://www.v2ex.com/t/861443)
 - [【V2EX】寻找支持-h265-和-http-flv-的-web-播放器。](https://www.v2ex.com/t/861438)
 - [【V2EX】M1-pro-雷电接口输出音频总是有刺音](https://www.v2ex.com/t/861401)
 - [......【查看更多】......](./details/tags/audio-video.md)
@@ -338,6 +339,7 @@
 
 
 
+- [【V2EX】Github-PR-带了隐私数据应该如何处理？](https://www.v2ex.com/t/861449)
 - [【开发者头条】离开大厂，从降薪开始？推荐17个提升开发效率的“轮子”；Git存储原理及部分实现｜码农周刊VIP会员专属邮件周报-Vol.095](https://toutiao.io/k/5y8j5ih)
 - [......【查看更多】......](./details/tags/git-svn.md)
 

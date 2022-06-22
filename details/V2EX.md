@@ -1,10 +1,17 @@
-:alarm_clock: 更新时间: 2022-06-22 09:40:42。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-06-22 10:17:15。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-06-22-Github-PR-带了隐私数据应该如何处理？](https://www.v2ex.com/t/861449) 
+- [2022-06-22-你们创业都是弄什么?怎么样了?](https://www.v2ex.com/t/861448) 
+- [2022-06-22-你是否支持微信支付允许通过商户信息（私钥等）直接下载证书](https://www.v2ex.com/t/861446) 
+- [2022-06-22-ios16-了，分离通知与铃声的音量是无望了吗](https://www.v2ex.com/t/861445) 
+- [2022-06-22-Java-boy-用-ubuntu18-？-20-?-装黑苹果？](https://www.v2ex.com/t/861444) 
+- [2022-06-22-可以在-mac-或者-windows-同时打开多个存在-NAS-里的视频文件吗](https://www.v2ex.com/t/861443) 
+- [2022-06-22-AICO-法案可能让苹果的系统降为半成品/Android-化（不知是否正确）](https://www.v2ex.com/t/861442) 
 - [2022-06-22-iOS-16-Developer-Beta-2-什么时候出啊](https://www.v2ex.com/t/861441) 
 - [2022-06-22-大家有没有遇到过用-iPhone-下载软件经常一直转圈的情况](https://www.v2ex.com/t/861440) 
 - [2022-06-22-问一个-Linux-批量修改文件名的方法](https://www.v2ex.com/t/861439) 
@@ -40,7 +47,3 @@
 - [2022-06-22-嘿嘿,我也撸了一个艺术二维码制作工具](https://www.v2ex.com/t/861403) 
 - [2022-06-22-产品的小细节：-edge-浏览器在-markdown-内粘贴链接的时候会自动使用页面-title-作为链接描述](https://www.v2ex.com/t/861402) 
 - [2022-06-22-M1-pro-雷电接口输出音频总是有刺音](https://www.v2ex.com/t/861401) 
-- [2022-06-22-14-寸-刘海-MBP-type-c-无法充电，还好重启可以了](https://www.v2ex.com/t/861399) 
-- [2022-06-22-dcompass-v0.2.0-发布：真正可编程的-DNS-服务](https://www.v2ex.com/t/861396) 
-- [2022-06-22-一个不错的短链接管理](https://www.v2ex.com/t/861395) 
-- [2022-06-22-iOS-微信切换账号之后为啥还能收到切换之前账号的消息？](https://www.v2ex.com/t/861392) 

@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-06-23 10:43:53。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-06-23 11:12:32。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -39,7 +39,6 @@
 
 
 
-- [【V2EX】1-年前端-base-深圳-有公司要不-，-React-技术栈😁](https://www.v2ex.com/t/861683)
 - [......【查看更多】......](./details/tags/react.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -344,6 +343,7 @@
 
 
 
+- [【V2EX】为什么-GitHub-Copilot-收费，却不给训练用的代码作者费用？](https://www.v2ex.com/t/861734)
 - [【开发者头条】GitHub的5个骚操作](https://toutiao.io/k/v25x5fy)
 - [......【查看更多】......](./details/tags/git-svn.md)
 
@@ -361,6 +361,7 @@
 
 
 
+- [【V2EX】当公司只有你一个前端的时候，如何不依靠面试。确认自己是否值得加薪](https://www.v2ex.com/t/861737)
 - [【V2EX】杭州|上海字节跳动招聘-服务端资深/实习开发工程师](https://www.v2ex.com/t/861703)
 - [......【查看更多】......](./details/tags/job-interview.md)
 

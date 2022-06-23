@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-06-23 06:48:48，:rocket: 更新条数: +2023， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-06-23 07:13:24，:rocket: 更新条数: +2024， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,16 @@
 </summary>
 
 
+- [2022-06-23-各位用哪款-Qi-无线充电器？](https://www.v2ex.com/t/861660) ![](assets/new.png)  
+- [2022-06-23-纠结-14-和-13-寸的-MBP-了，各位大佬会怎么选？](https://www.v2ex.com/t/861659) ![](assets/new.png)  
+- [2022-06-23-设计求助-用-Adobe-Acrobat-替换了一页-PDF，文件增加了-40M？为什么？](https://www.v2ex.com/t/861658) ![](assets/new.png)  
+- [2022-06-23-Coding-突然登录不上了,请问是什么情况](https://www.v2ex.com/t/861657) ![](assets/new.png)  
+- [2022-06-23-感叹，厨子的刀法愈发精细](https://www.v2ex.com/t/861656) ![](assets/new.png)  
+- [2022-06-23-搬瓦工是挂了吗，官网都上不去](https://www.v2ex.com/t/861655) ![](assets/new.png)  
+- [2022-06-23-咸鱼有人-100-收实名真快乐账号](https://www.v2ex.com/t/861654) ![](assets/new.png)  
+- [2022-06-23-自建-yyds](https://www.v2ex.com/t/861653) ![](assets/new.png)  
+- [2022-06-23-apple-music-家庭版发车](https://www.v2ex.com/t/861651) ![](assets/new.png)  
+- [2022-06-23-poker2-改造](https://www.v2ex.com/t/861650) ![](assets/new.png)  
 - [2022-06-23-求问依赖服务器时间日期的代码,测试人员应该怎么做呢?](https://www.v2ex.com/t/861649) ![](assets/new.png)  
 - [2022-06-23-北京时间-2022/06/23-13:42:29-开始-bwg-cn2-gia-整个一段-67.230.160.0/19-路由好像都挂了](https://www.v2ex.com/t/861648) ![](assets/new.png)  
 - [2022-06-23-RustDesk-上线-F-Droid:-开源远控](https://www.v2ex.com/t/861646) ![](assets/new.png)  
@@ -501,16 +511,6 @@
 - [2022-06-23-有播放器能让视频播放到预设的时间点然后暂停吗](https://www.v2ex.com/t/861637) ![](assets/new.png)  
 - [2022-06-23-安装-TikTok-国内打开之后黑屏，如何解决？](https://www.v2ex.com/t/861636) ![](assets/new.png)  
 - [2022-06-23-买笔记本时附带的-Office-授权是跟着人走还是跟着机器走的？](https://www.v2ex.com/t/861633) ![](assets/new.png)  
-- [2022-06-23-有懂哥锐评一下-OpenSumi-吗](https://www.v2ex.com/t/861632) ![](assets/new.png)  
-- [2022-06-23-Java-on-Visual-Studio-Code-的更新-–-2022-年-6-月-–-Spring-重大功能提升，基础开发和用户体验改进](https://www.v2ex.com/t/861631) ![](assets/new.png)  
-- [2022-06-23-一个宝藏博客，不敢独享：当你文采斐然又不得不做-AI](https://www.v2ex.com/t/861630) ![](assets/new.png)  
-- [2022-06-23-使用本地环回地址通信会出现丢包吗？](https://www.v2ex.com/t/861629) ![](assets/new.png)  
-- [2022-06-23-同时兼容-NS、PC、Apple-TV-的手柄存在吗？](https://www.v2ex.com/t/861627) ![](assets/new.png)  
-- [2022-06-23-三维猴-Chrome、Safari-无法登录](https://www.v2ex.com/t/861626) ![](assets/new.png)  
-- [2022-06-23-早上发现-KVM-虚拟机里-Windows-蓝屏了，报错-NTFS_FILE_SYSTEM，想排查一下是盘满了还是什么导致的，然后发现把这块-RAW-格式虚拟硬盘挂载到任何-Windows-虚拟...](https://www.v2ex.com/t/861625) ![](assets/new.png)  
-- [2022-06-23-KVM-是不是未来主流的虚拟化](https://www.v2ex.com/t/861624) ![](assets/new.png)  
-- [2022-06-23-准备阶段性退网-V2er-们进来集思广益了](https://www.v2ex.com/t/861621) ![](assets/new.png)  
-- [2022-06-23-坐标北京，被欠薪了，公司法人换了，强制执行没有可执行财产，还有其他方式能要回工资吗？求支招](https://www.v2ex.com/t/861620) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -565,13 +565,13 @@
 - [2022-06-23-我把-b-站拉黑了！](https://toutiao.io/k/u90p7i9) ![](assets/new.png)  
 - [2022-06-23-Kubernetes-资源拓扑感知调度优化](https://toutiao.io/k/7ljjs2v) ![](assets/new.png)  
 - [2022-06-23-JetPack系列Paging3.0学习](https://toutiao.io/k/h09zkhm) ![](assets/new.png)  
-- [2022-06-23-OpenPPL-for-RISC-V-最新进展介绍](https://toutiao.io/k/lgjd4dl) ![](assets/new.png)  
 - [2022-06-23-使用CSS自定义属性实现骨架屏](https://toutiao.io/k/5uwikmo) ![](assets/new.png)  
-- [2022-06-23-手写-Vue3-响应式系统：核心就一个数据结构](https://toutiao.io/k/yivgwsm) ![](assets/new.png)  
+- [2022-06-23-OpenPPL-for-RISC-V-最新进展介绍](https://toutiao.io/k/lgjd4dl) ![](assets/new.png)  
 - [2022-06-23-深入剖析全链路灰度技术内幕](https://toutiao.io/k/0x8vk1g) ![](assets/new.png)  
+- [2022-06-23-手写-Vue3-响应式系统：核心就一个数据结构](https://toutiao.io/k/yivgwsm) ![](assets/new.png)  
 - [2022-06-23-大话APT-假旗行动](https://toutiao.io/k/c3cn5hq) ![](assets/new.png)  
-- [2022-06-23-推荐-Redis夺命52连问](https://toutiao.io/k/he3fzao) ![](assets/new.png)  
-- [2022-06-23-推荐-我们公司使用了-5-年的系统限流方案！从实现到部署实战详解，稳的一批!​](https://toutiao.io/k/4tls39t) ![](assets/new.png)  
+- [2022-06-23-推荐-肝了一个月的-DDD，一文带你掌握！](https://toutiao.io/k/bclz2n6) ![](assets/new.png)  
+- [2022-06-23-推荐-高并发下如何防重？](https://toutiao.io/k/ulsc0so) ![](assets/new.png)  
 - [2022-06-23-推荐-MongoDB全方位知识图谱！](https://toutiao.io/k/efxw4nr) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

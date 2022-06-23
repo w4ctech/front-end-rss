@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-06-23 19:36:49，:rocket: 更新条数: +2021， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-06-23 20:15:53，:rocket: 更新条数: +2022， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-06-23-一个科研狗开发的文献管理软件-Paperlib](https://www.v2ex.com/t/861794) ![](assets/new.png)  
 - [2022-06-23-点进-tg-的一个压缩包，电脑被远控了，问题大吗？](https://www.v2ex.com/t/861793) ![](assets/new.png)  
 - [2022-06-23-日语学习网址导航](https://www.v2ex.com/t/861792) ![](assets/new.png)  
 - [2022-06-23-付费求大佬开发这个网站的查询脚本](https://www.v2ex.com/t/861791) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-06-23-上海疫情后的一些见闻](https://www.v2ex.com/t/861774) ![](assets/new.png)  
 - [2022-06-23-腾讯云的服务器是不是很容易死机？](https://www.v2ex.com/t/861770) ![](assets/new.png)  
 - [2022-06-23-golang-结构体里面有指针类型的字段，-怎么计算其偏移量？](https://www.v2ex.com/t/861769) ![](assets/new.png)  
-- [2022-06-23-我的-MacBook-长虫了，太恐怖了😱](https://www.v2ex.com/t/861768) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -566,13 +566,13 @@
 - [2022-06-23-唐太宗把微服务的“心跳机制”玩到了极致！](https://toutiao.io/k/rzi1y82) ![](assets/new.png)  
 - [2022-06-23-使用CSS自定义属性实现骨架屏](https://toutiao.io/k/5uwikmo) ![](assets/new.png)  
 - [2022-06-23-深入剖析全链路灰度技术内幕](https://toutiao.io/k/0x8vk1g) ![](assets/new.png)  
-- [2022-06-23-JetPack系列Paging3.0学习](https://toutiao.io/k/h09zkhm) ![](assets/new.png)  
 - [2022-06-23-OpenPPL-for-RISC-V-最新进展介绍](https://toutiao.io/k/lgjd4dl) ![](assets/new.png)  
+- [2022-06-23-JetPack系列Paging3.0学习](https://toutiao.io/k/h09zkhm) ![](assets/new.png)  
 - [2022-06-23-手写-Vue3-响应式系统：核心就一个数据结构](https://toutiao.io/k/yivgwsm) ![](assets/new.png)  
 - [2022-06-23-大话APT-假旗行动](https://toutiao.io/k/c3cn5hq) ![](assets/new.png)  
-- [2022-06-23-推荐-肝了一个月的-DDD，一文带你掌握！](https://toutiao.io/k/bclz2n6) ![](assets/new.png)  
+- [2022-06-23-推荐-Redis夺命52连问](https://toutiao.io/k/he3fzao) ![](assets/new.png)  
 - [2022-06-23-推荐-高并发下如何防重？](https://toutiao.io/k/ulsc0so) ![](assets/new.png)  
-- [2022-06-23-推荐-我们公司使用了-5-年的系统限流方案！从实现到部署实战详解，稳的一批!​](https://toutiao.io/k/4tls39t) ![](assets/new.png)  
+- [2022-06-23-推荐-MongoDB全方位知识图谱！](https://toutiao.io/k/efxw4nr) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

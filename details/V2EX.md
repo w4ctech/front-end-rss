@@ -1,10 +1,15 @@
-:alarm_clock: 更新时间: 2022-06-23 05:28:36。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-06-23 05:42:30。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-06-23-买笔记本时附带的-Office-授权是跟着人走还是跟着机器走的？](https://www.v2ex.com/t/861633) 
+- [2022-06-23-有懂哥锐评一下-OpenSumi-吗](https://www.v2ex.com/t/861632) 
+- [2022-06-23-Java-on-Visual-Studio-Code-的更新-–-2022-年-6-月-–-Spring-重大功能提升，基础开发和用户体验改进](https://www.v2ex.com/t/861631) 
+- [2022-06-23-一个宝藏博客，不敢独享：当你文采斐然又不得不做-AI](https://www.v2ex.com/t/861630) 
+- [2022-06-23-使用本地环回地址通信会出现丢包吗？](https://www.v2ex.com/t/861629) 
 - [2022-06-23-同时兼容-NS、PC、Apple-TV-的手柄存在吗？](https://www.v2ex.com/t/861627) 
 - [2022-06-23-三维猴-Chrome、Safari-无法登录](https://www.v2ex.com/t/861626) 
 - [2022-06-23-早上发现-KVM-虚拟机里-Windows-蓝屏了，报错-NTFS_FILE_SYSTEM，想排查一下是盘满了还是什么导致的，然后发现把这块-RAW-格式虚拟硬盘挂载到任何-Windows-虚拟...](https://www.v2ex.com/t/861625) 
@@ -32,7 +37,3 @@
 - [2022-06-23-这个-Cpp-示例代码什么意思，没看懂](https://www.v2ex.com/t/861587) 
 - [2022-06-23-.NET6-+-WPF-Windows-桌面程序打包到-Microsoft-Store-后体积巨大-10-MB-->-70-MB](https://www.v2ex.com/t/861586) 
 - [2022-06-23-elasticsearch-如何实现短语之间的距离搜索](https://www.v2ex.com/t/861585) 
-- [2022-06-23-最近加了几个买房群，里面那些人的智商，真的配得上他们的财产？](https://www.v2ex.com/t/861583) 
-- [2022-06-23-iCloud-云盘一直显示正在载入](https://www.v2ex.com/t/861582) 
-- [2022-06-23-请问这段话究竟啥意思呀，是我英文太差？还是我理解水平不行？还是写得有问题？](https://www.v2ex.com/t/861581) 
-- [2022-06-23-你们的-iPhone-保持-4G-还是-5G](https://www.v2ex.com/t/861580) 

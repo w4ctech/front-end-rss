@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-06-23 13:55:59。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-06-23 14:13:15。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -22,5 +22,4 @@
 - [2022-04-22-CSS实现滚动高度自动变小的粘滞效果](https://www.zhangxinxu.com/wordpress/2022/04/css-sticky-size-change/) 
 - [2022-06-23-软路由-openwrt-的-CPU-softirqs（软中断）总是异常高而且核心利用不均匀，怎么排查？](https://www.v2ex.com/t/861742) 
 - [2022-06-23-dagger.js-使用示例5-表单](https://www.v2ex.com/t/861732) 
-- [2022-06-23-homepod-mini-广播-icmpv6-路由信息，如何禁用它](https://www.v2ex.com/t/861712) 
 - [2022-06-23-如何实现页面刷新后不定位到之前的滚动位置？-www.zhangxinxu.com](https://blogread.cn/news/go.php?idItem=15195&url=https%3A%2F%2Fwww.zhangxinxu.com%2Fwordpress%2F2022%2F05%2Fhistory-scrollrestoration%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

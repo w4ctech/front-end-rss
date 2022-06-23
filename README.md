@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-06-23 22:39:49，:rocket: 更新条数: +2024， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-06-23 23:04:35，:rocket: 更新条数: +2008， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -553,26 +553,12 @@
 </summary>
 
 
-- [2022-06-23-3000帧动画图解MySQL为什么需要binlog、redo-log和undo-log](https://toutiao.io/k/b0g4460) ![](assets/new.png)  
-- [2022-06-23-软件架构如何“以不变应万变”](https://toutiao.io/k/d6wagu8) ![](assets/new.png)  
-- [2022-06-23-最牛逼的技术能力，是技术领导力](https://toutiao.io/k/kron0fq) ![](assets/new.png)  
-- [2022-06-23-如何做好CodeReview](https://toutiao.io/k/v5nrj6u) ![](assets/new.png)  
-- [2022-06-23-GitHub的5个骚操作](https://toutiao.io/k/v25x5fy) ![](assets/new.png)  
-- [2022-06-23-爱奇艺海外-App-网络优化实践](https://toutiao.io/k/cdmnciz) ![](assets/new.png)  
-- [2022-06-23-深入解析-Apache-BookKeeper-系列：第三篇——读取原理](https://toutiao.io/k/31x35nd) ![](assets/new.png)  
-- [2022-06-23-Kubernetes-资源拓扑感知调度优化](https://toutiao.io/k/7ljjs2v) ![](assets/new.png)  
-- [2022-06-23-对抗软件复杂度的战争](https://toutiao.io/k/utruow9) ![](assets/new.png)  
-- [2022-06-23-我把-b-站拉黑了！](https://toutiao.io/k/u90p7i9) ![](assets/new.png)  
-- [2022-06-23-唐太宗把微服务的“心跳机制”玩到了极致！](https://toutiao.io/k/rzi1y82) ![](assets/new.png)  
-- [2022-06-23-使用CSS自定义属性实现骨架屏](https://toutiao.io/k/5uwikmo) ![](assets/new.png)  
-- [2022-06-23-深入剖析全链路灰度技术内幕](https://toutiao.io/k/0x8vk1g) ![](assets/new.png)  
-- [2022-06-23-OpenPPL-for-RISC-V-最新进展介绍](https://toutiao.io/k/lgjd4dl) ![](assets/new.png)  
-- [2022-06-23-JetPack系列Paging3.0学习](https://toutiao.io/k/h09zkhm) ![](assets/new.png)  
-- [2022-06-23-手写-Vue3-响应式系统：核心就一个数据结构](https://toutiao.io/k/yivgwsm) ![](assets/new.png)  
-- [2022-06-23-大话APT-假旗行动](https://toutiao.io/k/c3cn5hq) ![](assets/new.png)  
-- [2022-06-23-推荐-高并发下如何防重？](https://toutiao.io/k/ulsc0so) ![](assets/new.png)  
-- [2022-06-23-推荐-Redis夺命52连问](https://toutiao.io/k/he3fzao) ![](assets/new.png)  
+- [2022-06-23-操作系统封闭、后台保守，为什么前端仍能一路狂奔？](https://toutiao.io/k/g3zj915) ![](assets/new.png)  
+- [2022-06-23-推荐-MongoDB全方位知识图谱！](https://toutiao.io/k/efxw4nr) ![](assets/new.png)  
 - [2022-06-23-推荐-我们公司使用了-5-年的系统限流方案！从实现到部署实战详解，稳的一批!​](https://toutiao.io/k/4tls39t) ![](assets/new.png)  
+- [2022-06-23-推荐-高并发下如何防重？](https://toutiao.io/k/ulsc0so) ![](assets/new.png)  
+- [2022-06-23-推荐-肝了一个月的-DDD，一文带你掌握！](https://toutiao.io/k/bclz2n6) ![](assets/new.png)  
+- [2022-06-23-推荐-Redis夺命52连问](https://toutiao.io/k/he3fzao) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-06-23 11:12:32。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-06-23 11:37:45。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Canvas、SVG、图像
 
@@ -7,5 +7,4 @@
 
 
 
-- [2022-06-23-现在-Python-开发-GUI-用什么框架？-因项目需要使用-GUI](https://www.v2ex.com/t/861692) 
 - [2022-06-23-SVG任意基本图形转path路径-www.zhangxinxu.com](https://blogread.cn/news/go.php?idItem=15186&url=https%3A%2F%2Fwww.zhangxinxu.com%2Fwordpress%2F2021%2F08%2Fsvg-shape-to-path%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

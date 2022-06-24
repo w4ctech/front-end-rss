@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-06-24 08:47:36。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-06-24 09:13:34。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -23,5 +23,4 @@
 - [2022-06-24-mac-版-iterm2-的滚动问题](https://www.v2ex.com/t/861956) 
 - [2022-06-24-Nginx-安裝-module-auth_request-失敗](https://www.v2ex.com/t/861941) 
 - [2022-06-24-不定结构的-json-如何高效转为对应的-Java-对象](https://www.v2ex.com/t/861932) 
-- [2022-06-24-Catalina-天气小组件定位权限动不动变成“关闭”怎么办？](https://www.v2ex.com/t/861925) 
 - [2022-06-24-如何实现页面刷新后不定位到之前的滚动位置？-www.zhangxinxu.com](https://blogread.cn/news/go.php?idItem=15195&url=https%3A%2F%2Fwww.zhangxinxu.com%2Fwordpress%2F2022%2F05%2Fhistory-scrollrestoration%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

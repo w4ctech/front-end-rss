@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-06-24 08:18:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-06-24 08:47:36。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 服务端相关
 
@@ -7,5 +7,4 @@
 
 
 
-- [2022-06-24-CentOS-中实现基于-Docker-部署-BI-数据分析](https://www.v2ex.com/t/861913) 
 - [2022-06-24-携程基于-GraphQL-的前端-BFF-服务开发实践](https://toutiao.io/k/gzcpjoi) 

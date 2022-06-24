@@ -9953,6 +9953,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "各位 v2 上的能人异士啊！",
+        "link": "https://www.v2ex.com/t/862050",
+        "date": "2022-06-24"
+      },
+      {
         "title": "mac 重装系统一直卡在地球 wifi 选择页面",
         "link": "https://www.v2ex.com/t/862049",
         "date": "2022-06-24"
@@ -10161,11 +10166,6 @@
         "title": "宝塔国内版已知收集的隐私信息",
         "link": "https://www.v2ex.com/t/862001",
         "date": "2022-06-24"
-      },
-      {
-        "title": "求申请 Twitter DEV account 的正确姿势，被拒了好多个号。",
-        "link": "https://www.v2ex.com/t/862000",
-        "date": "2022-06-24"
       }
     ]
   },
@@ -10367,11 +10367,6 @@
         "date": "2022-06-24"
       },
       {
-        "title": "[推荐] 高并发下如何防重？",
-        "link": "https://toutiao.io/k/ulsc0so",
-        "date": "2022-06-24"
-      },
-      {
         "title": "[推荐] Redis夺命52连问",
         "link": "https://toutiao.io/k/he3fzao",
         "date": "2022-06-24"
@@ -10379,6 +10374,11 @@
       {
         "title": "[推荐] 肝了一个月的 DDD，一文带你掌握！",
         "link": "https://toutiao.io/k/bclz2n6",
+        "date": "2022-06-24"
+      },
+      {
+        "title": "[推荐] 高并发下如何防重？",
+        "link": "https://toutiao.io/k/ulsc0so",
         "date": "2022-06-24"
       }
     ]

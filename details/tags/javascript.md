@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-06-24 07:13:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-06-24 07:38:29。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -20,6 +20,7 @@
 - [2022-04-30-深入-JS-new-Function-语法](https://www.zhangxinxu.com/wordpress/2022/04/js-new-function/) 
 - [2022-04-27-小tips:-JS字体加载失败或完毕的检测](https://www.zhangxinxu.com/wordpress/2022/04/js-font-face-load/) 
 - [2022-04-22-CSS实现滚动高度自动变小的粘滞效果](https://www.zhangxinxu.com/wordpress/2022/04/css-sticky-size-change/) 
+- [2022-06-24-Nginx-安裝-module-auth_request-失敗](https://www.v2ex.com/t/861941) 
 - [2022-06-24-不定结构的-json-如何高效转为对应的-Java-对象](https://www.v2ex.com/t/861932) 
 - [2022-06-24-Catalina-天气小组件定位权限动不动变成“关闭”怎么办？](https://www.v2ex.com/t/861925) 
 - [2022-06-24-做了一个类似-Codepen-的小作品：-RunJS，欢迎拍砖](https://www.v2ex.com/t/861910) 

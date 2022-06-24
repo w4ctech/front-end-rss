@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-06-24 15:45:43，:rocket: 更新条数: +2028， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-06-24 16:18:44，:rocket: 更新条数: +2029， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,10 @@
 </summary>
 
 
+- [2022-06-24-12500H/12700H-在中轻度负载下，关闭小核心能否提高续航？还是会增加总功耗？](https://www.v2ex.com/t/862047) ![](assets/new.png)  
+- [2022-06-24-请问大佬们-如何将数据库中的任务给微服务均匀执行？](https://www.v2ex.com/t/862046) ![](assets/new.png)  
+- [2022-06-24-有-V-友能推荐一个带转场识别，能纯-CPU-推理（不考虑速度）的番剧补帧工具吗？](https://www.v2ex.com/t/862045) ![](assets/new.png)  
+- [2022-06-24-想给-NUC-搭配一个硬盘柜，但是-slimSAS-8088-8643-阵列卡-傻傻分不清楚](https://www.v2ex.com/t/862044) ![](assets/new.png)  
 - [2022-06-24-红米-k40-异常发热，充电慢](https://www.v2ex.com/t/862043) ![](assets/new.png)  
 - [2022-06-24-现在怎么撸招行积分](https://www.v2ex.com/t/862042) ![](assets/new.png)  
 - [2022-06-24-今年专业还能选计算机吗？](https://www.v2ex.com/t/862040) ![](assets/new.png)  
@@ -507,10 +511,6 @@
 - [2022-06-24-2022-Apple-学生返校优惠今天开始了-最高可获得$150-Apple-礼品卡](https://www.v2ex.com/t/862028) ![](assets/new.png)  
 - [2022-06-24-思科-Meraki-的交换机能不能买？](https://www.v2ex.com/t/862027) ![](assets/new.png)  
 - [2022-06-24-排版布局-请求各位巨佬，获取到多张宽高不一的图片，如何按照以下布局？](https://www.v2ex.com/t/862026) ![](assets/new.png)  
-- [2022-06-24-基于-PHP-开发的外卖点餐网站](https://www.v2ex.com/t/862025) ![](assets/new.png)  
-- [2022-06-24-软路由-Docker-上装-HomeAssistant，添加设备成功但不能控制设备，如何解决？](https://www.v2ex.com/t/862024) ![](assets/new.png)  
-- [2022-06-24-版上有用-thinkpad-连接-ultrafine-5k-的同学吗？](https://www.v2ex.com/t/862023) ![](assets/new.png)  
-- [2022-06-24-软件工程读研有必要吗](https://www.v2ex.com/t/862022) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -569,10 +569,10 @@
 - [2022-06-24-携程基于-GraphQL-的前端-BFF-服务开发实践](https://toutiao.io/k/gzcpjoi) ![](assets/new.png)  
 - [2022-06-24-使用-Loki-微服务模式部署生产集群](https://toutiao.io/k/44jae05) ![](assets/new.png)  
 - [2022-06-24-结合实操带你吃透Redis持久化](https://toutiao.io/k/1u6o78n) ![](assets/new.png)  
-- [2022-06-24-推荐-肝了一个月的-DDD，一文带你掌握！](https://toutiao.io/k/bclz2n6) ![](assets/new.png)  
-- [2022-06-24-推荐-MongoDB全方位知识图谱！](https://toutiao.io/k/efxw4nr) ![](assets/new.png)  
+- [2022-06-24-推荐-Redis夺命52连问](https://toutiao.io/k/he3fzao) ![](assets/new.png)  
 - [2022-06-24-推荐-高并发下如何防重？](https://toutiao.io/k/ulsc0so) ![](assets/new.png)  
 - [2022-06-24-推荐-我们公司使用了-5-年的系统限流方案！从实现到部署实战详解，稳的一批!​](https://toutiao.io/k/4tls39t) ![](assets/new.png)  
+- [2022-06-24-推荐-肝了一个月的-DDD，一文带你掌握！](https://toutiao.io/k/bclz2n6) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

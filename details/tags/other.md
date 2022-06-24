@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-06-24 15:45:43。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-06-24 16:18:44。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,10 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-06-24-12500H/12700H-在中轻度负载下，关闭小核心能否提高续航？还是会增加总功耗？](https://www.v2ex.com/t/862047) 
+- [2022-06-24-请问大佬们-如何将数据库中的任务给微服务均匀执行？](https://www.v2ex.com/t/862046) 
+- [2022-06-24-有-V-友能推荐一个带转场识别，能纯-CPU-推理（不考虑速度）的番剧补帧工具吗？](https://www.v2ex.com/t/862045) 
+- [2022-06-24-想给-NUC-搭配一个硬盘柜，但是-slimSAS-8088-8643-阵列卡-傻傻分不清楚](https://www.v2ex.com/t/862044) 
 - [2022-06-24-红米-k40-异常发热，充电慢](https://www.v2ex.com/t/862043) 
 - [2022-06-24-现在怎么撸招行积分](https://www.v2ex.com/t/862042) 
 - [2022-06-24-今年专业还能选计算机吗？](https://www.v2ex.com/t/862040) 
@@ -1945,7 +1949,6 @@
 - [2022-06-24-宝塔国内版已知收集的隐私信息](https://www.v2ex.com/t/862001) 
 - [2022-06-24-求申请-Twitter-DEV-account-的正确姿势，被拒了好多个号。](https://www.v2ex.com/t/862000) 
 - [2022-06-24-未登录时访问个别主题被-302-到首页](https://www.v2ex.com/t/861998) 
-- [2022-06-24-自建-smtp-发送服务中难点踩坑解决](https://www.v2ex.com/t/861997) 
 - [2022-06-24-敏捷教练技术的融合方法-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15200&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fagile-coach-techniques%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-06-24-你还只知道测试金字塔？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15199&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftest-pyramid%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-06-24-疫情下更合适的开发模式-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15198&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fmainline-pull-request-difference%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1972,8 +1975,7 @@
 - [2022-06-24-Istio：Kubernetes-之后的云原生技术“扛把子”](https://toutiao.io/k/1vve2f7) 
 - [2022-06-24-使用-Loki-微服务模式部署生产集群](https://toutiao.io/k/44jae05) 
 - [2022-06-24-结合实操带你吃透Redis持久化](https://toutiao.io/k/1u6o78n) 
-- [2022-06-24-推荐-肝了一个月的-DDD，一文带你掌握！](https://toutiao.io/k/bclz2n6) 
-- [2022-06-24-推荐-MongoDB全方位知识图谱！](https://toutiao.io/k/efxw4nr) 
+- [2022-06-24-推荐-Redis夺命52连问](https://toutiao.io/k/he3fzao) 
 - [2022-06-24-推荐-高并发下如何防重？](https://toutiao.io/k/ulsc0so) 
 - [2022-06-24-推荐-我们公司使用了-5-年的系统限流方案！从实现到部署实战详解，稳的一批!​](https://toutiao.io/k/4tls39t) 
-- [2022-06-24-推荐-Redis夺命52连问](https://toutiao.io/k/he3fzao) 
+- [2022-06-24-推荐-肝了一个月的-DDD，一文带你掌握！](https://toutiao.io/k/bclz2n6) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-06-24 15:15:59，:rocket: 更新条数: +2026， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-06-24 15:45:43，:rocket: 更新条数: +2028， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,14 @@
 </summary>
 
 
+- [2022-06-24-红米-k40-异常发热，充电慢](https://www.v2ex.com/t/862043) ![](assets/new.png)  
+- [2022-06-24-现在怎么撸招行积分](https://www.v2ex.com/t/862042) ![](assets/new.png)  
+- [2022-06-24-今年专业还能选计算机吗？](https://www.v2ex.com/t/862040) ![](assets/new.png)  
+- [2022-06-24-electron-官网的中文文档怎么全没了](https://www.v2ex.com/t/862039) ![](assets/new.png)  
+- [2022-06-24-在机构学软件测试，老师现在让自己找一个项目](https://www.v2ex.com/t/862038) ![](assets/new.png)  
+- [2022-06-24-最近看新能源车有感](https://www.v2ex.com/t/862037) ![](assets/new.png)  
+- [2022-06-24-物理黑群晖迁移-ESXI-建议](https://www.v2ex.com/t/862036) ![](assets/new.png)  
+- [2022-06-24-悠米助手-|-英雄联盟游戏利器](https://www.v2ex.com/t/862035) ![](assets/new.png)  
 - [2022-06-24-WPF-如何将外部-xaml-文件通过-UserControl-显示](https://www.v2ex.com/t/862034) ![](assets/new.png)  
 - [2022-06-24-请问升级到-macOS-13-的-MacBook-Pro-14-寸用户，-command（修饰键）+触摸板轻点失灵的问题修复了么？](https://www.v2ex.com/t/862033) ![](assets/new.png)  
 - [2022-06-24-求一个-Windows10-下的命令行工具](https://www.v2ex.com/t/862032) ![](assets/new.png)  
@@ -503,14 +511,6 @@
 - [2022-06-24-软路由-Docker-上装-HomeAssistant，添加设备成功但不能控制设备，如何解决？](https://www.v2ex.com/t/862024) ![](assets/new.png)  
 - [2022-06-24-版上有用-thinkpad-连接-ultrafine-5k-的同学吗？](https://www.v2ex.com/t/862023) ![](assets/new.png)  
 - [2022-06-24-软件工程读研有必要吗](https://www.v2ex.com/t/862022) ![](assets/new.png)  
-- [2022-06-24-有哪些国外的图床可以整个文件夹上传，也不更改原文件名的](https://www.v2ex.com/t/862020) ![](assets/new.png)  
-- [2022-06-24-微信电脑端的内容全量同步了](https://www.v2ex.com/t/862018) ![](assets/new.png)  
-- [2022-06-24-问下大家-m1-book-air-的使用感受](https://www.v2ex.com/t/862017) ![](assets/new.png)  
-- [2022-06-24-你们的-12-代-I7I9-对-Win10-友好吗？](https://www.v2ex.com/t/862016) ![](assets/new.png)  
-- [2022-06-24-macos-13beta-是不是暂时还不支持手动配置-ip](https://www.v2ex.com/t/862015) ![](assets/new.png)  
-- [2022-06-24-超短线炒股可行吗？](https://www.v2ex.com/t/862013) ![](assets/new.png)  
-- [2022-06-24-老美那边已经开始返校活动了](https://www.v2ex.com/t/862012) ![](assets/new.png)  
-- [2022-06-24-原来-LED-显示器也会烧屏](https://www.v2ex.com/t/862011) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -569,10 +569,10 @@
 - [2022-06-24-携程基于-GraphQL-的前端-BFF-服务开发实践](https://toutiao.io/k/gzcpjoi) ![](assets/new.png)  
 - [2022-06-24-使用-Loki-微服务模式部署生产集群](https://toutiao.io/k/44jae05) ![](assets/new.png)  
 - [2022-06-24-结合实操带你吃透Redis持久化](https://toutiao.io/k/1u6o78n) ![](assets/new.png)  
-- [2022-06-24-推荐-Redis夺命52连问](https://toutiao.io/k/he3fzao) ![](assets/new.png)  
-- [2022-06-24-推荐-我们公司使用了-5-年的系统限流方案！从实现到部署实战详解，稳的一批!​](https://toutiao.io/k/4tls39t) ![](assets/new.png)  
 - [2022-06-24-推荐-肝了一个月的-DDD，一文带你掌握！](https://toutiao.io/k/bclz2n6) ![](assets/new.png)  
 - [2022-06-24-推荐-MongoDB全方位知识图谱！](https://toutiao.io/k/efxw4nr) ![](assets/new.png)  
+- [2022-06-24-推荐-高并发下如何防重？](https://toutiao.io/k/ulsc0so) ![](assets/new.png)  
+- [2022-06-24-推荐-我们公司使用了-5-年的系统限流方案！从实现到部署实战详解，稳的一批!​](https://toutiao.io/k/4tls39t) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

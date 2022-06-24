@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-06-24 05:02:37。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-06-24 05:28:31。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -71,6 +71,10 @@
 - [【张鑫旭-鑫空间-鑫生活】2022-06-19-如何继承自定义元素及其他JS中扩展新方法](https://www.zhangxinxu.com/wordpress/2022/06/js-extend-class-custom-elements/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-06-12-基于文字的URL锚点定位与::target-text样式设置](https://www.zhangxinxu.com/wordpress/2022/06/url-anchor-target-text/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-06-11-介绍一种CSS变量未定义语法也OK的小妙招](https://www.zhangxinxu.com/wordpress/2022/06/css-var-optional-empty-trick/) 
+- [【V2EX】2022-06-24-新增一条数据到数据库，如何可以避免重复（前后端）](https://www.v2ex.com/t/861903) 
+- [【V2EX】2022-06-24-密钥登录也会不安全吗](https://www.v2ex.com/t/861902) 
+- [【V2EX】2022-06-24-想问下-v-友们-Typora-好用吗？因为我以前没用过。Typora-的卖点我没理解出色在哪。](https://www.v2ex.com/t/861901) 
+- [【V2EX】2022-06-24-有没有这种在运行时基于-typescript-interface-信息序列化和反序列化-JSON-数据的库？](https://www.v2ex.com/t/861898) 
 - [【V2EX】2022-06-24-你认识的外包同事是怎样的?-有什么奇闻轶事可以简单描述和分享吗?](https://www.v2ex.com/t/861897) 
 - [【V2EX】2022-06-24-求一个-5000-以内相机推荐](https://www.v2ex.com/t/861896) 
 - [【V2EX】2022-06-24-从零实现一个-RISC-V-模拟器](https://www.v2ex.com/t/861895) 
@@ -106,10 +110,6 @@
 - [【V2EX】2022-06-24-iOS15.5-iPhone-13-Pro-，-NFC-读卡失败……（公交卡、身份证都是）](https://www.v2ex.com/t/861857) 
 - [【V2EX】2022-06-24-做游戏-sdk-开发如何转方向](https://www.v2ex.com/t/861856) 
 - [【V2EX】2022-06-24-各位大佬，用户画像你们一般收集哪些维度数据的？](https://www.v2ex.com/t/861854) 
-- [【V2EX】2022-06-24-升温或者降温到同一个温度，此时同一个温度的感受是否一样呢？](https://www.v2ex.com/t/861853) 
-- [【V2EX】2022-06-24-iOS16-电池健康度-bug？](https://www.v2ex.com/t/861852) 
-- [【V2EX】2022-06-24-试用期内被裁员，何去何从？](https://www.v2ex.com/t/861850) 
-- [【V2EX】2022-06-24-2022-年的现在，不交-699-的开发者费用能用真机测试吗？](https://www.v2ex.com/t/861849) 
 - [【技术头条】2022-06-24-敏捷教练技术的融合方法-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15200&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fagile-coach-techniques%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-06-24-你还只知道测试金字塔？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15199&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftest-pyramid%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-06-24-疫情下更合适的开发模式-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15198&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fmainline-pull-request-difference%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -144,8 +144,8 @@
 - [【开发者头条】2022-06-24-Istio：Kubernetes-之后的云原生技术“扛把子”](https://toutiao.io/k/1vve2f7) 
 - [【开发者头条】2022-06-24-看了就会的-Node.js-常用三方工具包](https://toutiao.io/k/prwmpay) 
 - [【开发者头条】2022-06-24-推荐-肝了一个月的-DDD，一文带你掌握！](https://toutiao.io/k/bclz2n6) 
-- [【开发者头条】2022-06-24-推荐-MongoDB全方位知识图谱！](https://toutiao.io/k/efxw4nr) 
 - [【开发者头条】2022-06-24-推荐-Redis夺命52连问](https://toutiao.io/k/he3fzao) 
+- [【开发者头条】2022-06-24-推荐-MongoDB全方位知识图谱！](https://toutiao.io/k/efxw4nr) 
 - [【开发者头条】2022-06-24-推荐-我们公司使用了-5-年的系统限流方案！从实现到部署实战详解，稳的一批!​](https://toutiao.io/k/4tls39t) 
 - [【开发者头条】2022-06-24-推荐-高并发下如何防重？](https://toutiao.io/k/ulsc0so) 
 

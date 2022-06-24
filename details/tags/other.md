@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-06-24 05:02:37。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-06-24 05:28:31。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,8 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-06-24-新增一条数据到数据库，如何可以避免重复（前后端）](https://www.v2ex.com/t/861903) 
+- [2022-06-24-想问下-v-友们-Typora-好用吗？因为我以前没用过。Typora-的卖点我没理解出色在哪。](https://www.v2ex.com/t/861901) 
 - [2022-06-24-你认识的外包同事是怎样的?-有什么奇闻轶事可以简单描述和分享吗?](https://www.v2ex.com/t/861897) 
 - [2022-06-24-求一个-5000-以内相机推荐](https://www.v2ex.com/t/861896) 
 - [2022-06-24-从零实现一个-RISC-V-模拟器](https://www.v2ex.com/t/861895) 
@@ -1940,10 +1942,6 @@
 - [2022-06-24-上海-Java---某知名互联网公司招人](https://www.v2ex.com/t/861858) 
 - [2022-06-24-iOS15.5-iPhone-13-Pro-，-NFC-读卡失败……（公交卡、身份证都是）](https://www.v2ex.com/t/861857) 
 - [2022-06-24-各位大佬，用户画像你们一般收集哪些维度数据的？](https://www.v2ex.com/t/861854) 
-- [2022-06-24-升温或者降温到同一个温度，此时同一个温度的感受是否一样呢？](https://www.v2ex.com/t/861853) 
-- [2022-06-24-iOS16-电池健康度-bug？](https://www.v2ex.com/t/861852) 
-- [2022-06-24-试用期内被裁员，何去何从？](https://www.v2ex.com/t/861850) 
-- [2022-06-24-2022-年的现在，不交-699-的开发者费用能用真机测试吗？](https://www.v2ex.com/t/861849) 
 - [2022-06-24-敏捷教练技术的融合方法-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15200&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fagile-coach-techniques%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-06-24-你还只知道测试金字塔？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15199&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftest-pyramid%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-06-24-疫情下更合适的开发模式-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15198&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fmainline-pull-request-difference%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1969,7 +1967,7 @@
 - [2022-06-24-CVPR-2022-|-美团技术团队精选论文解读](https://toutiao.io/k/t3w3nxu) 
 - [2022-06-24-Istio：Kubernetes-之后的云原生技术“扛把子”](https://toutiao.io/k/1vve2f7) 
 - [2022-06-24-推荐-肝了一个月的-DDD，一文带你掌握！](https://toutiao.io/k/bclz2n6) 
-- [2022-06-24-推荐-MongoDB全方位知识图谱！](https://toutiao.io/k/efxw4nr) 
 - [2022-06-24-推荐-Redis夺命52连问](https://toutiao.io/k/he3fzao) 
+- [2022-06-24-推荐-MongoDB全方位知识图谱！](https://toutiao.io/k/efxw4nr) 
 - [2022-06-24-推荐-我们公司使用了-5-年的系统限流方案！从实现到部署实战详解，稳的一批!​](https://toutiao.io/k/4tls39t) 
 - [2022-06-24-推荐-高并发下如何防重？](https://toutiao.io/k/ulsc0so) 

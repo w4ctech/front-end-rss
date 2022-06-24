@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-06-24 20:40:07。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-06-24 21:12:40。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -112,7 +112,6 @@
 - [【V2EX】2022-06-24-老美那边已经开始返校活动了](https://www.v2ex.com/t/862012) 
 - [【V2EX】2022-06-24-原来-LED-显示器也会烧屏](https://www.v2ex.com/t/862011) 
 - [【V2EX】2022-06-24-各位前辈，请问成都电子的软件工程和西北工业的-CS-该如何选择呢?](https://www.v2ex.com/t/862010) 
-- [【V2EX】2022-06-24-airdrop-给-Mac-后，拍照时间不对了怎么解决](https://www.v2ex.com/t/862007) 
 - [【技术头条】2022-06-24-敏捷教练技术的融合方法-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15200&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fagile-coach-techniques%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-06-24-你还只知道测试金字塔？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15199&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftest-pyramid%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-06-24-疫情下更合适的开发模式-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15198&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fmainline-pull-request-difference%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -149,10 +148,10 @@
 - [【开发者头条】2022-06-24-携程基于-GraphQL-的前端-BFF-服务开发实践](https://toutiao.io/k/gzcpjoi) 
 - [【开发者头条】2022-06-24-使用-Loki-微服务模式部署生产集群](https://toutiao.io/k/44jae05) 
 - [【开发者头条】2022-06-24-结合实操带你吃透Redis持久化](https://toutiao.io/k/1u6o78n) 
-- [【开发者头条】2022-06-24-推荐-Redis夺命52连问](https://toutiao.io/k/he3fzao) 
 - [【开发者头条】2022-06-24-推荐-肝了一个月的-DDD，一文带你掌握！](https://toutiao.io/k/bclz2n6) 
 - [【开发者头条】2022-06-24-推荐-高并发下如何防重？](https://toutiao.io/k/ulsc0so) 
 - [【开发者头条】2022-06-24-推荐-我们公司使用了-5-年的系统限流方案！从实现到部署实战详解，稳的一批!​](https://toutiao.io/k/4tls39t) 
+- [【开发者头条】2022-06-24-推荐-Redis夺命52连问](https://toutiao.io/k/he3fzao) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

@@ -9953,6 +9953,16 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "刚整了个家用 pve 服务器, 5950x+rx6400, 记录一下 a 卡显卡直通碰到的坑",
+        "link": "https://www.v2ex.com/t/862061",
+        "date": "2022-06-24"
+      },
+      {
+        "title": "收到了一份来自 GitHub 官方的赞助，开心！",
+        "link": "https://www.v2ex.com/t/862060",
+        "date": "2022-06-24"
+      },
+      {
         "title": "一些手机闪光灯及一些电子垃圾的照明质量测试记录",
         "link": "https://www.v2ex.com/t/862059",
         "date": "2022-06-24"
@@ -10156,16 +10166,6 @@
         "title": "老美那边已经开始返校活动了",
         "link": "https://www.v2ex.com/t/862012",
         "date": "2022-06-24"
-      },
-      {
-        "title": "原来 LED 显示器也会烧屏",
-        "link": "https://www.v2ex.com/t/862011",
-        "date": "2022-06-24"
-      },
-      {
-        "title": "各位前辈，请问成都电子的软件工程和西北工业的 CS 该如何选择呢?",
-        "link": "https://www.v2ex.com/t/862010",
-        "date": "2022-06-24"
       }
     ]
   },
@@ -10352,18 +10352,13 @@
         "date": "2022-06-24"
       },
       {
-        "title": "使用 Loki 微服务模式部署生产集群",
-        "link": "https://toutiao.io/k/44jae05",
-        "date": "2022-06-24"
-      },
-      {
         "title": "结合实操带你吃透Redis持久化",
         "link": "https://toutiao.io/k/1u6o78n",
         "date": "2022-06-24"
       },
       {
-        "title": "[推荐] 高并发下如何防重？",
-        "link": "https://toutiao.io/k/ulsc0so",
+        "title": "使用 Loki 微服务模式部署生产集群",
+        "link": "https://toutiao.io/k/44jae05",
         "date": "2022-06-24"
       },
       {
@@ -10379,6 +10374,11 @@
       {
         "title": "[推荐] 肝了一个月的 DDD，一文带你掌握！",
         "link": "https://toutiao.io/k/bclz2n6",
+        "date": "2022-06-24"
+      },
+      {
+        "title": "[推荐] 高并发下如何防重？",
+        "link": "https://toutiao.io/k/ulsc0so",
         "date": "2022-06-24"
       }
     ]

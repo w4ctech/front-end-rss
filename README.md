@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-06-24 23:13:28，:rocket: 更新条数: +2029， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-06-24 23:39:27，:rocket: 更新条数: +2029， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-06-24-刚整了个家用-pve-服务器,-5950x+rx6400,-记录一下-a-卡显卡直通碰到的坑](https://www.v2ex.com/t/862061) ![](assets/new.png)  
+- [2022-06-24-收到了一份来自-GitHub-官方的赞助，开心！](https://www.v2ex.com/t/862060) ![](assets/new.png)  
 - [2022-06-24-一些手机闪光灯及一些电子垃圾的照明质量测试记录](https://www.v2ex.com/t/862059) ![](assets/new.png)  
 - [2022-06-24-记一次腾-X-社交软件账号莫名被封与解封经历](https://www.v2ex.com/t/862058) ![](assets/new.png)  
 - [2022-06-24-交流下目前企业宽带/专线的行情](https://www.v2ex.com/t/862056) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-06-24-现在怎么撸招行积分](https://www.v2ex.com/t/862042) ![](assets/new.png)  
 - [2022-06-24-今年专业还能选计算机吗？](https://www.v2ex.com/t/862040) ![](assets/new.png)  
 - [2022-06-24-electron-官网的中文文档怎么全没了](https://www.v2ex.com/t/862039) ![](assets/new.png)  
-- [2022-06-24-在机构学软件测试，老师现在让自己找一个项目](https://www.v2ex.com/t/862038) ![](assets/new.png)  
-- [2022-06-24-最近看新能源车有感](https://www.v2ex.com/t/862037) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -567,12 +567,12 @@
 - [2022-06-24-Istio：Kubernetes-之后的云原生技术“扛把子”](https://toutiao.io/k/1vve2f7) ![](assets/new.png)  
 - [2022-06-24-看了就会的-Node.js-常用三方工具包](https://toutiao.io/k/prwmpay) ![](assets/new.png)  
 - [2022-06-24-携程基于-GraphQL-的前端-BFF-服务开发实践](https://toutiao.io/k/gzcpjoi) ![](assets/new.png)  
-- [2022-06-24-使用-Loki-微服务模式部署生产集群](https://toutiao.io/k/44jae05) ![](assets/new.png)  
 - [2022-06-24-结合实操带你吃透Redis持久化](https://toutiao.io/k/1u6o78n) ![](assets/new.png)  
-- [2022-06-24-推荐-高并发下如何防重？](https://toutiao.io/k/ulsc0so) ![](assets/new.png)  
+- [2022-06-24-使用-Loki-微服务模式部署生产集群](https://toutiao.io/k/44jae05) ![](assets/new.png)  
 - [2022-06-24-推荐-我们公司使用了-5-年的系统限流方案！从实现到部署实战详解，稳的一批!​](https://toutiao.io/k/4tls39t) ![](assets/new.png)  
 - [2022-06-24-推荐-Redis夺命52连问](https://toutiao.io/k/he3fzao) ![](assets/new.png)  
 - [2022-06-24-推荐-肝了一个月的-DDD，一文带你掌握！](https://toutiao.io/k/bclz2n6) ![](assets/new.png)  
+- [2022-06-24-推荐-高并发下如何防重？](https://toutiao.io/k/ulsc0so) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

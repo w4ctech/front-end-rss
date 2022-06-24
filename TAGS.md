@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-06-24 04:13:33。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-06-24 05:02:37。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -40,7 +40,6 @@
 
 
 - [【V2EX】招前端Typescript/React-时薪-$30+-全职兼职-|-美国初创，面向开发者的产品](https://www.v2ex.com/t/861877)
-- [【V2EX】全职远程长期稳定10k-35k-招募-高级-React-Native-开发工程师](https://www.v2ex.com/t/861837)
 - [......【查看更多】......](./details/tags/react.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -240,6 +239,7 @@
 
 - [【武汉肺炎防疫全纪录(财新网)】广州17岁男生在定点医院参加高考-特殊考场视频监考](https://m.caixin.com/m/2021-06-05/101723418.html)
 - [【武汉肺炎防疫全纪录(财新网)】林郑月娥率13高官直播接种科兴疫苗-复星疫苗预计周中到港](https://m.caixin.com/m/2021-02-22/101665724.html)
+- [【V2EX】大佬们有什么好用的播放器推荐（Windows-平台）？](https://www.v2ex.com/t/861889)
 - [【开发者头条】拼多多大数据开发-1-面知识点总结（配视频~超详细）](https://toutiao.io/k/d334v01)
 - [......【查看更多】......](./details/tags/audio-video.md)
 

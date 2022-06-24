@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-06-24 11:37:47。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-06-24 12:26:00。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -9,4 +9,3 @@
 
 - [2022-06-24-现在面试的-leetcode-都是什么水平?](https://www.v2ex.com/t/861999) 
 - [2022-06-24-作为-Java-面试官问什么问题比较有考察点](https://www.v2ex.com/t/861969) 
-- [2022-06-24-最近负责-Java-面试，吐槽下](https://www.v2ex.com/t/861954) 

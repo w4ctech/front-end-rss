@@ -9953,6 +9953,16 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "mac 重装系统一直卡在地球 wifi 选择页面",
+        "link": "https://www.v2ex.com/t/862049",
+        "date": "2022-06-24"
+      },
+      {
+        "title": "写了一个动态壁纸的命令行工具，可以使用视频或 GLSL 进行着色",
+        "link": "https://www.v2ex.com/t/862048",
+        "date": "2022-06-24"
+      },
+      {
         "title": "12500H/12700H 在中轻度负载下，关闭小核心能否提高续航？还是会增加总功耗？",
         "link": "https://www.v2ex.com/t/862047",
         "date": "2022-06-24"
@@ -10156,16 +10166,6 @@
         "title": "求申请 Twitter DEV account 的正确姿势，被拒了好多个号。",
         "link": "https://www.v2ex.com/t/862000",
         "date": "2022-06-24"
-      },
-      {
-        "title": "现在面试的 leetcode 都是什么水平?",
-        "link": "https://www.v2ex.com/t/861999",
-        "date": "2022-06-24"
-      },
-      {
-        "title": "未登录时访问个别主题被 302 到首页",
-        "link": "https://www.v2ex.com/t/861998",
-        "date": "2022-06-24"
       }
     ]
   },
@@ -10362,8 +10362,8 @@
         "date": "2022-06-24"
       },
       {
-        "title": "[推荐] Redis夺命52连问",
-        "link": "https://toutiao.io/k/he3fzao",
+        "title": "[推荐] 我们公司使用了 5 年的系统限流方案！从实现到部署实战详解，稳的一批!​",
+        "link": "https://toutiao.io/k/4tls39t",
         "date": "2022-06-24"
       },
       {
@@ -10372,8 +10372,8 @@
         "date": "2022-06-24"
       },
       {
-        "title": "[推荐] 我们公司使用了 5 年的系统限流方案！从实现到部署实战详解，稳的一批!​",
-        "link": "https://toutiao.io/k/4tls39t",
+        "title": "[推荐] Redis夺命52连问",
+        "link": "https://toutiao.io/k/he3fzao",
         "date": "2022-06-24"
       },
       {

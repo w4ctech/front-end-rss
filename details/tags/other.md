@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-06-24 17:20:54。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-06-24 17:42:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,7 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-06-24-有没有计算机领域的类似技能树的知识点梳理？很多概念新入行不太熟悉先后次序](https://www.v2ex.com/t/862051) 
 - [2022-06-24-各位-v2-上的能人异士啊！](https://www.v2ex.com/t/862050) 
 - [2022-06-24-mac-重装系统一直卡在地球-wifi-选择页面](https://www.v2ex.com/t/862049) 
 - [2022-06-24-12500H/12700H-在中轻度负载下，关闭小核心能否提高续航？还是会增加总功耗？](https://www.v2ex.com/t/862047) 
@@ -1948,7 +1949,6 @@
 - [2022-06-24-静电容不回弹了怎么救？](https://www.v2ex.com/t/862004) 
 - [2022-06-24-求个有设计感的笔记本推荐，顺便求教一下笔记本优雅使用-4G/5G-网络的姿势？](https://www.v2ex.com/t/862003) 
 - [2022-06-24-MBP14-MBP16-的存储扩展神奇-——-SD-卡](https://www.v2ex.com/t/862002) 
-- [2022-06-24-宝塔国内版已知收集的隐私信息](https://www.v2ex.com/t/862001) 
 - [2022-06-24-敏捷教练技术的融合方法-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15200&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fagile-coach-techniques%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-06-24-你还只知道测试金字塔？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15199&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftest-pyramid%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-06-24-疫情下更合适的开发模式-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15198&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fmainline-pull-request-difference%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1975,7 +1975,7 @@
 - [2022-06-24-Istio：Kubernetes-之后的云原生技术“扛把子”](https://toutiao.io/k/1vve2f7) 
 - [2022-06-24-使用-Loki-微服务模式部署生产集群](https://toutiao.io/k/44jae05) 
 - [2022-06-24-结合实操带你吃透Redis持久化](https://toutiao.io/k/1u6o78n) 
-- [2022-06-24-推荐-我们公司使用了-5-年的系统限流方案！从实现到部署实战详解，稳的一批!​](https://toutiao.io/k/4tls39t) 
-- [2022-06-24-推荐-Redis夺命52连问](https://toutiao.io/k/he3fzao) 
 - [2022-06-24-推荐-肝了一个月的-DDD，一文带你掌握！](https://toutiao.io/k/bclz2n6) 
+- [2022-06-24-推荐-我们公司使用了-5-年的系统限流方案！从实现到部署实战详解，稳的一批!​](https://toutiao.io/k/4tls39t) 
 - [2022-06-24-推荐-高并发下如何防重？](https://toutiao.io/k/ulsc0so) 
+- [2022-06-24-推荐-Redis夺命52连问](https://toutiao.io/k/he3fzao) 

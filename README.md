@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-06-25 03:21:36，:rocket: 更新条数: +2020， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-06-25 04:06:36，:rocket: 更新条数: +2018， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,13 @@
 </summary>
 
 
+- [2022-06-25-有什么好办法可以保证在不同电脑间的数据进行同步？](https://www.v2ex.com/t/862091) ![](assets/new.png)  
+- [2022-06-25-来自-stripe-的开源-API/文档-解决方案](https://www.v2ex.com/t/862090) ![](assets/new.png)  
+- [2022-06-25-绿厂/一加的田鸡-9000/8100-内核源码开源了](https://www.v2ex.com/t/862089) ![](assets/new.png)  
+- [2022-06-25-把函数做成画，做了一个简易的生成艺术-Tin](https://www.v2ex.com/t/862088) ![](assets/new.png)  
+- [2022-06-25-如何理解《Intel#IA-32》文档中的-assert？](https://www.v2ex.com/t/862086) ![](assets/new.png)  
+- [2022-06-25-有一个困惑：比如看-reversed-方法的源码里面的实现都是-pass，为什么会这样？如何才能看到源码呢？](https://www.v2ex.com/t/862085) ![](assets/new.png)  
+- [2022-06-25-如何学习装机？](https://www.v2ex.com/t/862084) ![](assets/new.png)  
 - [2022-06-25-出个小米-Pro-笔记本](https://www.v2ex.com/t/862083) ![](assets/new.png)  
 - [2022-06-25-屏幕坏了一部分，有没有可能设置成只用一部分屏幕当全屏...](https://www.v2ex.com/t/862082) ![](assets/new.png)  
 - [2022-06-25-求一个功耗小，便宜的-nas-方案。](https://www.v2ex.com/t/862079) ![](assets/new.png)  
@@ -504,13 +511,6 @@
 - [2022-06-25-一张-iPad-Pro-贴膜-70-刀，换一台新的-iPad-Pro-才-49-刀...](https://www.v2ex.com/t/862070) ![](assets/new.png)  
 - [2022-06-25-弹框思路](https://www.v2ex.com/t/862069) ![](assets/new.png)  
 - [2022-06-25-周末带上老婆和娃又去露营了](https://www.v2ex.com/t/862068) ![](assets/new.png)  
-- [2022-06-25-ssl-证书购买地-跟-host-需要在一个地方嘛？](https://www.v2ex.com/t/862067) ![](assets/new.png)  
-- [2022-06-25-飞利浦-279C9-有一个坏点，有必要换么](https://www.v2ex.com/t/862066) ![](assets/new.png)  
-- [2022-06-25-从技术难题中学习](https://www.v2ex.com/t/862065) ![](assets/new.png)  
-- [2022-06-25-使用什么-chrome-扩展可以自动屏蔽-csdn?](https://www.v2ex.com/t/862064) ![](assets/new.png)  
-- [2022-06-25-如何辞掉主管的职位任命?](https://www.v2ex.com/t/862063) ![](assets/new.png)  
-- [2022-06-24-刚整了个家用-pve-服务器,-5950x+rx6400,-记录一下-a-卡显卡直通碰到的坑](https://www.v2ex.com/t/862061) ![](assets/new.png)  
-- [2022-06-24-收到了一份来自-GitHub-官方的赞助，开心！](https://www.v2ex.com/t/862060) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -558,12 +558,12 @@
 - [2022-06-25-5000字解析：实战化场景下的容器安全攻防之道](https://toutiao.io/k/byhhxco) ![](assets/new.png)  
 - [2022-06-25-欢迎加入读者圈子，一起交流！](https://toutiao.io/k/92wl596) ![](assets/new.png)  
 - [2022-06-25-为什么线程崩溃不会导致-JVM-崩溃](https://toutiao.io/k/smus5nq) ![](assets/new.png)  
-- [2022-06-25-Kaggle知识点：XGBoost迭代读取数据集](https://toutiao.io/k/s6ozmt5) ![](assets/new.png)  
 - [2022-06-25-Geohash边界分形与拟合，让你的边界纵享丝滑](https://toutiao.io/k/8hkpf3s) ![](assets/new.png)  
+- [2022-06-25-Kaggle知识点：XGBoost迭代读取数据集](https://toutiao.io/k/s6ozmt5) ![](assets/new.png)  
 - [2022-06-25-推荐-肝了一个月的-DDD，一文带你掌握！](https://toutiao.io/k/bclz2n6) ![](assets/new.png)  
-- [2022-06-25-推荐-Redis夺命52连问](https://toutiao.io/k/he3fzao) ![](assets/new.png)  
 - [2022-06-25-推荐-高并发下如何防重？](https://toutiao.io/k/ulsc0so) ![](assets/new.png)  
 - [2022-06-25-推荐-我们公司使用了-5-年的系统限流方案！从实现到部署实战详解，稳的一批!​](https://toutiao.io/k/4tls39t) ![](assets/new.png)  
+- [2022-06-25-推荐-Redis夺命52连问](https://toutiao.io/k/he3fzao) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

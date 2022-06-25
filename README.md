@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-06-25 05:38:02，:rocket: 更新条数: +2017， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-06-25 06:16:28，:rocket: 更新条数: +2017， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,12 +491,14 @@
 </summary>
 
 
+- [2022-06-25-Apple-Watch-返厂降级了](https://www.v2ex.com/t/862114) ![](assets/new.png)  
+- [2022-06-25-U-盘插入便携电视机，可以播放-U-盘里的视频，但插电脑里无法播放，且看不到任何数据](https://www.v2ex.com/t/862110) ![](assets/new.png)  
+- [2022-06-25-杭州/北京/武汉等-各种岗位-飞书-内推～](https://www.v2ex.com/t/862109) ![](assets/new.png)  
 - [2022-06-25-win10-里-wget-不支持{1..999}.mp3-这些的通配符吗？](https://www.v2ex.com/t/862105) ![](assets/new.png)  
 - [2022-06-25-实习要不要跑路，专心准备秋招](https://www.v2ex.com/t/862103) ![](assets/new.png)  
 - [2022-06-25-MobaXterm-怎么导入-config-文件？](https://www.v2ex.com/t/862102) ![](assets/new.png)  
 - [2022-06-25-家里的旧油烟机怎么处理？](https://www.v2ex.com/t/862101) ![](assets/new.png)  
 - [2022-06-25-淘宝购物，快递单改为显示真实手机尾号和虚拟号了。那么商家还能看到客户的真实电话吗？](https://www.v2ex.com/t/862100) ![](assets/new.png)  
-- [2022-06-25-美国最高法院取消宪法规定的堕胎权](https://www.v2ex.com/t/862099) ![](assets/new.png)  
 - [2022-06-25-想问问有没有自定义生成短链接服务的轮子？](https://www.v2ex.com/t/862098) ![](assets/new.png)  
 - [2022-06-25-有什么游戏可以替代英雄联盟](https://www.v2ex.com/t/862097) ![](assets/new.png)  
 - [2022-06-25-HTTP-的-DELETE-请求，如何能联动-Linux-底层的回收站机制](https://www.v2ex.com/t/862096) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-06-25-如何理解《Intel#IA-32》文档中的-assert？](https://www.v2ex.com/t/862086) ![](assets/new.png)  
 - [2022-06-25-有一个困惑：比如看-reversed-方法的源码里面的实现都是-pass，为什么会这样？如何才能看到源码呢？](https://www.v2ex.com/t/862085) ![](assets/new.png)  
 - [2022-06-25-如何学习装机？](https://www.v2ex.com/t/862084) ![](assets/new.png)  
-- [2022-06-25-出个小米-Pro-笔记本](https://www.v2ex.com/t/862083) ![](assets/new.png)  
-- [2022-06-25-屏幕坏了一部分，有没有可能设置成只用一部分屏幕当全屏...](https://www.v2ex.com/t/862082) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -560,10 +560,14 @@
 - [2022-06-25-为什么线程崩溃不会导致-JVM-崩溃](https://toutiao.io/k/smus5nq) ![](assets/new.png)  
 - [2022-06-25-Geohash边界分形与拟合，让你的边界纵享丝滑](https://toutiao.io/k/8hkpf3s) ![](assets/new.png)  
 - [2022-06-25-Kaggle知识点：XGBoost迭代读取数据集](https://toutiao.io/k/s6ozmt5) ![](assets/new.png)  
-- [2022-06-25-推荐-高并发下如何防重？](https://toutiao.io/k/ulsc0so) ![](assets/new.png)  
+- [2022-06-25-深入区块链技术（一）](https://toutiao.io/k/khhqgkk) ![](assets/new.png)  
+- [2022-06-25-Google推荐在MVVM架构中使用KotlinFlow](https://toutiao.io/k/d9268tr) ![](assets/new.png)  
+- [2022-06-25-纯golang实现的图表库](https://toutiao.io/k/9kk61eo) ![](assets/new.png)  
+- [2022-06-25-什么是零信任？](https://toutiao.io/k/7m80ux1) ![](assets/new.png)  
 - [2022-06-25-推荐-我们公司使用了-5-年的系统限流方案！从实现到部署实战详解，稳的一批!​](https://toutiao.io/k/4tls39t) ![](assets/new.png)  
-- [2022-06-25-推荐-肝了一个月的-DDD，一文带你掌握！](https://toutiao.io/k/bclz2n6) ![](assets/new.png)  
+- [2022-06-25-推荐-高并发下如何防重？](https://toutiao.io/k/ulsc0so) ![](assets/new.png)  
 - [2022-06-25-推荐-Redis夺命52连问](https://toutiao.io/k/he3fzao) ![](assets/new.png)  
+- [2022-06-25-推荐-肝了一个月的-DDD，一文带你掌握！](https://toutiao.io/k/bclz2n6) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

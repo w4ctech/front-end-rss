@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-06-25 21:11:55。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-06-25 21:37:47。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -71,6 +71,7 @@
 - [【张鑫旭-鑫空间-鑫生活】2022-06-19-如何继承自定义元素及其他JS中扩展新方法](https://www.zhangxinxu.com/wordpress/2022/06/js-extend-class-custom-elements/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-06-12-基于文字的URL锚点定位与::target-text样式设置](https://www.zhangxinxu.com/wordpress/2022/06/url-anchor-target-text/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-06-11-介绍一种CSS变量未定义语法也OK的小妙招](https://www.zhangxinxu.com/wordpress/2022/06/css-var-optional-empty-trick/) 
+- [【V2EX】2022-06-25-我悟了，折腾什么桌面，最简洁的就是直接放一个-MacBook](https://www.v2ex.com/t/862230) 
 - [【V2EX】2022-06-25-130-出两个-surge-V4-mac-永久授权](https://www.v2ex.com/t/862229) 
 - [【V2EX】2022-06-25-你们的-Linux-系统会使用-apt-upgrade-或其它发行版同类命令批量更新软件包吗？](https://www.v2ex.com/t/862228) 
 - [【V2EX】2022-06-25-研究生选择-直博-or-申研？](https://www.v2ex.com/t/862226) 
@@ -106,7 +107,6 @@
 - [【V2EX】2022-06-25-一个高考生，他家长想了解他志愿选啥专业，他又不说。他家长想通过俺问他再转述他家长，感觉这样我里外不是人](https://www.v2ex.com/t/862186) 
 - [【V2EX】2022-06-25-Win11-系统和-Edge-出了个诡异的问题](https://www.v2ex.com/t/862183) 
 - [【V2EX】2022-06-25-话说现在内地的地上波信号是由哪个部门管理的](https://www.v2ex.com/t/862182) 
-- [【V2EX】2022-06-25-关于-MIPI-驱动移植，有一些问题想请教一下](https://www.v2ex.com/t/862180) 
 - [【技术头条】2022-06-25-敏捷教练技术的融合方法-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15200&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fagile-coach-techniques%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-06-25-你还只知道测试金字塔？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15199&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftest-pyramid%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-06-25-疫情下更合适的开发模式-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15198&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fmainline-pull-request-difference%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -138,11 +138,11 @@
 - [【开发者头条】2022-06-25-Geohash边界分形与拟合，让你的边界纵享丝滑](https://toutiao.io/k/8hkpf3s) 
 - [【开发者头条】2022-06-25-Kaggle知识点：XGBoost迭代读取数据集](https://toutiao.io/k/s6ozmt5) 
 - [【开发者头条】2022-06-25-什么是零信任？](https://toutiao.io/k/7m80ux1) 
-- [【开发者头条】2022-06-25-推荐-高并发下如何防重？](https://toutiao.io/k/ulsc0so) 
-- [【开发者头条】2022-06-25-推荐-肝了一个月的-DDD，一文带你掌握！](https://toutiao.io/k/bclz2n6) 
-- [【开发者头条】2022-06-25-推荐-Redis夺命52连问](https://toutiao.io/k/he3fzao) 
-- [【开发者头条】2022-06-25-推荐-团队管理｜如何提高技术Leader的思考技巧？](https://toutiao.io/k/f3496vg) 
 - [【开发者头条】2022-06-25-推荐-我们公司使用了-5-年的系统限流方案！从实现到部署实战详解，稳的一批!​](https://toutiao.io/k/4tls39t) 
+- [【开发者头条】2022-06-25-推荐-肝了一个月的-DDD，一文带你掌握！](https://toutiao.io/k/bclz2n6) 
+- [【开发者头条】2022-06-25-推荐-团队管理｜如何提高技术Leader的思考技巧？](https://toutiao.io/k/f3496vg) 
+- [【开发者头条】2022-06-25-推荐-高并发下如何防重？](https://toutiao.io/k/ulsc0so) 
+- [【开发者头条】2022-06-25-推荐-Redis夺命52连问](https://toutiao.io/k/he3fzao) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

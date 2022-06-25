@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-06-25 18:16:39。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-06-25 18:45:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,7 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-06-25-130-出两个-surge-V4-mac-永久授权](https://www.v2ex.com/t/862229) 
 - [2022-06-25-你们的-Linux-系统会使用-apt-upgrade-或其它发行版同类命令批量更新软件包吗？](https://www.v2ex.com/t/862228) 
 - [2022-06-25-研究生选择-直博-or-申研？](https://www.v2ex.com/t/862226) 
 - [2022-06-25-请教-m1-的-mbp16-安装虚拟机的正确姿势](https://www.v2ex.com/t/862225) 
@@ -1936,7 +1937,6 @@
 - [2022-06-25-一个高考生，他家长想了解他志愿选啥专业，他又不说。他家长想通过俺问他再转述他家长，感觉这样我里外不是人](https://www.v2ex.com/t/862186) 
 - [2022-06-25-话说现在内地的地上波信号是由哪个部门管理的](https://www.v2ex.com/t/862182) 
 - [2022-06-25-关于-MIPI-驱动移植，有一些问题想请教一下](https://www.v2ex.com/t/862180) 
-- [2022-06-25-万能的-V2，河南考生，理科-619-分，排名-7480，想去南方城市读大学，求指导](https://www.v2ex.com/t/862179) 
 - [2022-06-25-敏捷教练技术的融合方法-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15200&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fagile-coach-techniques%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-06-25-你还只知道测试金字塔？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15199&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftest-pyramid%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-06-25-疫情下更合适的开发模式-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15198&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fmainline-pull-request-difference%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1960,8 +1960,8 @@
 - [2022-06-25-Geohash边界分形与拟合，让你的边界纵享丝滑](https://toutiao.io/k/8hkpf3s) 
 - [2022-06-25-Kaggle知识点：XGBoost迭代读取数据集](https://toutiao.io/k/s6ozmt5) 
 - [2022-06-25-什么是零信任？](https://toutiao.io/k/7m80ux1) 
-- [2022-06-25-推荐-Redis夺命52连问](https://toutiao.io/k/he3fzao) 
-- [2022-06-25-推荐-团队管理｜如何提高技术Leader的思考技巧？](https://toutiao.io/k/f3496vg) 
 - [2022-06-25-推荐-高并发下如何防重？](https://toutiao.io/k/ulsc0so) 
-- [2022-06-25-推荐-我们公司使用了-5-年的系统限流方案！从实现到部署实战详解，稳的一批!​](https://toutiao.io/k/4tls39t) 
+- [2022-06-25-推荐-Redis夺命52连问](https://toutiao.io/k/he3fzao) 
 - [2022-06-25-推荐-肝了一个月的-DDD，一文带你掌握！](https://toutiao.io/k/bclz2n6) 
+- [2022-06-25-推荐-团队管理｜如何提高技术Leader的思考技巧？](https://toutiao.io/k/f3496vg) 
+- [2022-06-25-推荐-我们公司使用了-5-年的系统限流方案！从实现到部署实战详解，稳的一批!​](https://toutiao.io/k/4tls39t) 

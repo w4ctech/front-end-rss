@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-06-25 01:03:56，:rocket: 更新条数: +2017， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-06-25 03:21:36，:rocket: 更新条数: +2020， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,26 +491,26 @@
 </summary>
 
 
+- [2022-06-25-出个小米-Pro-笔记本](https://www.v2ex.com/t/862083) ![](assets/new.png)  
+- [2022-06-25-屏幕坏了一部分，有没有可能设置成只用一部分屏幕当全屏...](https://www.v2ex.com/t/862082) ![](assets/new.png)  
+- [2022-06-25-求一个功耗小，便宜的-nas-方案。](https://www.v2ex.com/t/862079) ![](assets/new.png)  
+- [2022-06-25-计算机毕业，关于职业选择的困惑](https://www.v2ex.com/t/862078) ![](assets/new.png)  
+- [2022-06-25-Eclipse-在-Ventura-上菜单点不了的-workaround](https://www.v2ex.com/t/862077) ![](assets/new.png)  
+- [2022-06-25-stripe-香港个人账户办理，卡在了-HKID](https://www.v2ex.com/t/862076) ![](assets/new.png)  
+- [2022-06-25-一个-iOS-的-bug，不确定是不是只有-iOS15-或者-13pro-有，大家有碰到过吗](https://www.v2ex.com/t/862075) ![](assets/new.png)  
+- [2022-06-25-万能的-V2，河南考生，理科-534-分-河南一本线-509-，想上一个一本的医学专业，不知道有没机会-不限城市](https://www.v2ex.com/t/862074) ![](assets/new.png)  
+- [2022-06-25-从-windows-换到-mac，以前开发的小工具怎么办？](https://www.v2ex.com/t/862073) ![](assets/new.png)  
+- [2022-06-25-如何使用一万块？](https://www.v2ex.com/t/862072) ![](assets/new.png)  
+- [2022-06-25-一张-iPad-Pro-贴膜-70-刀，换一台新的-iPad-Pro-才-49-刀...](https://www.v2ex.com/t/862070) ![](assets/new.png)  
+- [2022-06-25-弹框思路](https://www.v2ex.com/t/862069) ![](assets/new.png)  
+- [2022-06-25-周末带上老婆和娃又去露营了](https://www.v2ex.com/t/862068) ![](assets/new.png)  
+- [2022-06-25-ssl-证书购买地-跟-host-需要在一个地方嘛？](https://www.v2ex.com/t/862067) ![](assets/new.png)  
+- [2022-06-25-飞利浦-279C9-有一个坏点，有必要换么](https://www.v2ex.com/t/862066) ![](assets/new.png)  
+- [2022-06-25-从技术难题中学习](https://www.v2ex.com/t/862065) ![](assets/new.png)  
 - [2022-06-25-使用什么-chrome-扩展可以自动屏蔽-csdn?](https://www.v2ex.com/t/862064) ![](assets/new.png)  
 - [2022-06-25-如何辞掉主管的职位任命?](https://www.v2ex.com/t/862063) ![](assets/new.png)  
 - [2022-06-24-刚整了个家用-pve-服务器,-5950x+rx6400,-记录一下-a-卡显卡直通碰到的坑](https://www.v2ex.com/t/862061) ![](assets/new.png)  
 - [2022-06-24-收到了一份来自-GitHub-官方的赞助，开心！](https://www.v2ex.com/t/862060) ![](assets/new.png)  
-- [2022-06-24-一些手机闪光灯及一些电子垃圾的照明质量测试记录](https://www.v2ex.com/t/862059) ![](assets/new.png)  
-- [2022-06-24-记一次腾-X-社交软件账号莫名被封与解封经历](https://www.v2ex.com/t/862058) ![](assets/new.png)  
-- [2022-06-24-交流下目前企业宽带/专线的行情](https://www.v2ex.com/t/862056) ![](assets/new.png)  
-- [2022-06-24-应届求职-DevOps-/-web-全栈方向-远程](https://www.v2ex.com/t/862055) ![](assets/new.png)  
-- [2022-06-24-请问这样算侵权吗？](https://www.v2ex.com/t/862053) ![](assets/new.png)  
-- [2022-06-24-求给生成一个正则表达式，年龄大了，脑子不够用了](https://www.v2ex.com/t/862052) ![](assets/new.png)  
-- [2022-06-24-有没有计算机领域的类似技能树的知识点梳理？很多概念新入行不太熟悉先后次序](https://www.v2ex.com/t/862051) ![](assets/new.png)  
-- [2022-06-24-各位-v2-上的能人异士啊！](https://www.v2ex.com/t/862050) ![](assets/new.png)  
-- [2022-06-24-mac-重装系统一直卡在地球-wifi-选择页面](https://www.v2ex.com/t/862049) ![](assets/new.png)  
-- [2022-06-24-写了一个动态壁纸的命令行工具，可以使用视频或-GLSL-进行着色](https://www.v2ex.com/t/862048) ![](assets/new.png)  
-- [2022-06-24-12500H/12700H-在中轻度负载下，关闭小核心能否提高续航？还是会增加总功耗？](https://www.v2ex.com/t/862047) ![](assets/new.png)  
-- [2022-06-24-请问大佬们-如何将数据库中的任务给微服务均匀执行？](https://www.v2ex.com/t/862046) ![](assets/new.png)  
-- [2022-06-24-有-V-友能推荐一个带转场识别，能纯-CPU-推理（不考虑速度）的番剧补帧工具吗？](https://www.v2ex.com/t/862045) ![](assets/new.png)  
-- [2022-06-24-想给-NUC-搭配一个硬盘柜，但是-slimSAS-8088-8643-阵列卡-傻傻分不清楚](https://www.v2ex.com/t/862044) ![](assets/new.png)  
-- [2022-06-24-红米-k40-异常发热，充电慢](https://www.v2ex.com/t/862043) ![](assets/new.png)  
-- [2022-06-24-现在怎么撸招行积分](https://www.v2ex.com/t/862042) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -554,9 +554,12 @@
 
 
 - [2022-06-25-优质网站同好者周刊（第-071-期）-|-倾城博客](https://toutiao.io/k/txv870b) ![](assets/new.png)  
-- [2022-06-25-5000字解析：实战化场景下的容器安全攻防之道](https://toutiao.io/k/byhhxco) ![](assets/new.png)  
 - [2022-06-25-快手实时数仓保障体系研发实践](https://toutiao.io/k/juj49do) ![](assets/new.png)  
+- [2022-06-25-5000字解析：实战化场景下的容器安全攻防之道](https://toutiao.io/k/byhhxco) ![](assets/new.png)  
 - [2022-06-25-欢迎加入读者圈子，一起交流！](https://toutiao.io/k/92wl596) ![](assets/new.png)  
+- [2022-06-25-为什么线程崩溃不会导致-JVM-崩溃](https://toutiao.io/k/smus5nq) ![](assets/new.png)  
+- [2022-06-25-Kaggle知识点：XGBoost迭代读取数据集](https://toutiao.io/k/s6ozmt5) ![](assets/new.png)  
+- [2022-06-25-Geohash边界分形与拟合，让你的边界纵享丝滑](https://toutiao.io/k/8hkpf3s) ![](assets/new.png)  
 - [2022-06-25-推荐-肝了一个月的-DDD，一文带你掌握！](https://toutiao.io/k/bclz2n6) ![](assets/new.png)  
 - [2022-06-25-推荐-Redis夺命52连问](https://toutiao.io/k/he3fzao) ![](assets/new.png)  
 - [2022-06-25-推荐-高并发下如何防重？](https://toutiao.io/k/ulsc0so) ![](assets/new.png)  

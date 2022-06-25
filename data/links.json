@@ -9953,6 +9953,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "你们的 Linux 系统会使用 apt upgrade 或其它发行版同类命令批量更新软件包吗？",
+        "link": "https://www.v2ex.com/t/862228",
+        "date": "2022-06-25"
+      },
+      {
         "title": "研究生选择 直博 or 申研？",
         "link": "https://www.v2ex.com/t/862226",
         "date": "2022-06-25"
@@ -10126,11 +10131,6 @@
         "title": "万能的 V2，河南考生，理科 619 分，排名 7480，想去南方城市读大学，求指导",
         "link": "https://www.v2ex.com/t/862179",
         "date": "2022-06-25"
-      },
-      {
-        "title": "[上海/美资外企/不 996] GOAT 招聘 iOS/安卓/前端/后端/QA",
-        "link": "https://www.v2ex.com/t/862178",
-        "date": "2022-06-25"
       }
     ]
   },
@@ -10302,13 +10302,13 @@
         "date": "2022-06-25"
       },
       {
-        "title": "[推荐] 肝了一个月的 DDD，一文带你掌握！",
-        "link": "https://toutiao.io/k/bclz2n6",
+        "title": "[推荐] Redis夺命52连问",
+        "link": "https://toutiao.io/k/he3fzao",
         "date": "2022-06-25"
       },
       {
-        "title": "[推荐] Redis夺命52连问",
-        "link": "https://toutiao.io/k/he3fzao",
+        "title": "[推荐] 团队管理｜如何提高技术Leader的思考技巧？",
+        "link": "https://toutiao.io/k/f3496vg",
         "date": "2022-06-25"
       },
       {
@@ -10322,8 +10322,8 @@
         "date": "2022-06-25"
       },
       {
-        "title": "[推荐] 团队管理｜如何提高技术Leader的思考技巧？",
-        "link": "https://toutiao.io/k/f3496vg",
+        "title": "[推荐] 肝了一个月的 DDD，一文带你掌握！",
+        "link": "https://toutiao.io/k/bclz2n6",
         "date": "2022-06-25"
       }
     ]

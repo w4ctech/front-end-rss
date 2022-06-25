@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-06-25 06:45:11。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-06-25 07:12:36。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -71,6 +71,11 @@
 - [【张鑫旭-鑫空间-鑫生活】2022-06-19-如何继承自定义元素及其他JS中扩展新方法](https://www.zhangxinxu.com/wordpress/2022/06/js-extend-class-custom-elements/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-06-12-基于文字的URL锚点定位与::target-text样式设置](https://www.zhangxinxu.com/wordpress/2022/06/url-anchor-target-text/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-06-11-介绍一种CSS变量未定义语法也OK的小妙招](https://www.zhangxinxu.com/wordpress/2022/06/css-var-optional-empty-trick/) 
+- [【V2EX】2022-06-25-你开通了迅雷会员吗？下载-BT-资源速度起飞？](https://www.v2ex.com/t/862128) 
+- [【V2EX】2022-06-25-打壁球的地方](https://www.v2ex.com/t/862127) 
+- [【V2EX】2022-06-25-Windows-10-的-power-toys-中文乱码怎么解决？](https://www.v2ex.com/t/862125) 
+- [【V2EX】2022-06-25-社招/济南-Java-/Vue-部门直招，欢迎技术大牛来撩！](https://www.v2ex.com/t/862124) 
+- [【V2EX】2022-06-25-购买-XGP-求教](https://www.v2ex.com/t/862123) 
 - [【V2EX】2022-06-25-长铗的建议，在今天还有效吗？](https://www.v2ex.com/t/862122) 
 - [【V2EX】2022-06-25-上海电信中兴-F450G-丢失配置，-ITMS-无法注册下发，存不住配置有人遇到过么？](https://www.v2ex.com/t/862121) 
 - [【V2EX】2022-06-25-MacbookM1-pro-屏幕出现-掉漆？](https://www.v2ex.com/t/862120) 
@@ -101,12 +106,6 @@
 - [【V2EX】2022-06-25-出个小米-Pro-笔记本](https://www.v2ex.com/t/862083) 
 - [【V2EX】2022-06-25-屏幕坏了一部分，有没有可能设置成只用一部分屏幕当全屏...](https://www.v2ex.com/t/862082) 
 - [【V2EX】2022-06-25-求一个功耗小，便宜的-nas-方案。](https://www.v2ex.com/t/862079) 
-- [【V2EX】2022-06-25-计算机毕业，关于职业选择的困惑](https://www.v2ex.com/t/862078) 
-- [【V2EX】2022-06-25-Eclipse-在-Ventura-上菜单点不了的-workaround](https://www.v2ex.com/t/862077) 
-- [【V2EX】2022-06-25-stripe-香港个人账户办理，卡在了-HKID](https://www.v2ex.com/t/862076) 
-- [【V2EX】2022-06-25-一个-iOS-的-bug，不确定是不是只有-iOS15-或者-13pro-有，大家有碰到过吗](https://www.v2ex.com/t/862075) 
-- [【V2EX】2022-06-25-万能的-V2，河南考生，理科-534-分-河南一本线-509-，想上一个一本的医学专业，不知道有没机会-不限城市](https://www.v2ex.com/t/862074) 
-- [【V2EX】2022-06-25-从-windows-换到-mac，以前开发的小工具怎么办？](https://www.v2ex.com/t/862073) 
 - [【技术头条】2022-06-25-敏捷教练技术的融合方法-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15200&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fagile-coach-techniques%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-06-25-你还只知道测试金字塔？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15199&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftest-pyramid%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-06-25-疫情下更合适的开发模式-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15198&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fmainline-pull-request-difference%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -132,16 +131,16 @@
 - [【开发者头条】2022-06-25-5000字解析：实战化场景下的容器安全攻防之道](https://toutiao.io/k/byhhxco) 
 - [【开发者头条】2022-06-25-为什么线程崩溃不会导致-JVM-崩溃](https://toutiao.io/k/smus5nq) 
 - [【开发者头条】2022-06-25-欢迎加入读者圈子，一起交流！](https://toutiao.io/k/92wl596) 
-- [【开发者头条】2022-06-25-Geohash边界分形与拟合，让你的边界纵享丝滑](https://toutiao.io/k/8hkpf3s) 
 - [【开发者头条】2022-06-25-Kaggle知识点：XGBoost迭代读取数据集](https://toutiao.io/k/s6ozmt5) 
+- [【开发者头条】2022-06-25-Geohash边界分形与拟合，让你的边界纵享丝滑](https://toutiao.io/k/8hkpf3s) 
 - [【开发者头条】2022-06-25-深入区块链技术（一）](https://toutiao.io/k/khhqgkk) 
 - [【开发者头条】2022-06-25-Google推荐在MVVM架构中使用KotlinFlow](https://toutiao.io/k/d9268tr) 
 - [【开发者头条】2022-06-25-纯golang实现的图表库](https://toutiao.io/k/9kk61eo) 
 - [【开发者头条】2022-06-25-什么是零信任？](https://toutiao.io/k/7m80ux1) 
-- [【开发者头条】2022-06-25-推荐-肝了一个月的-DDD，一文带你掌握！](https://toutiao.io/k/bclz2n6) 
-- [【开发者头条】2022-06-25-推荐-我们公司使用了-5-年的系统限流方案！从实现到部署实战详解，稳的一批!​](https://toutiao.io/k/4tls39t) 
-- [【开发者头条】2022-06-25-推荐-高并发下如何防重？](https://toutiao.io/k/ulsc0so) 
 - [【开发者头条】2022-06-25-推荐-Redis夺命52连问](https://toutiao.io/k/he3fzao) 
+- [【开发者头条】2022-06-25-推荐-高并发下如何防重？](https://toutiao.io/k/ulsc0so) 
+- [【开发者头条】2022-06-25-推荐-我们公司使用了-5-年的系统限流方案！从实现到部署实战详解，稳的一批!​](https://toutiao.io/k/4tls39t) 
+- [【开发者头条】2022-06-25-推荐-肝了一个月的-DDD，一文带你掌握！](https://toutiao.io/k/bclz2n6) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-06-25 15:13:30。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-06-25 15:41:32。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
@@ -17,7 +17,6 @@
 - [2022-06-25-TrueNAS-core-FreeNas对比群晖使用起来怎么样](https://www.v2ex.com/t/862202) 
 - [2022-06-25-求推荐-nvim-配置主题](https://www.v2ex.com/t/862200) 
 - [2022-06-25-openwrt-启用-ipv6-以后，网络下行变慢是什么原理](https://www.v2ex.com/t/862199) 
-- [2022-06-25-谷歌团队十年稳定梯子推荐](https://www.v2ex.com/t/862198) 
 - [2022-06-25-lineageos-OS-下大家用什么方法实现微信双开呀？](https://www.v2ex.com/t/862197) 
 - [2022-06-25-Cloudflare-Workers-反向代理+跨域](https://www.v2ex.com/t/862194) 
 - [2022-06-25-在使用-git-时的一些尴尬场景里的修复方案](https://www.v2ex.com/t/862191) 
@@ -41,4 +40,3 @@
 - [2022-06-25-怎么爬-vk.com？-Python-出现-429-错误，普通浏览器不会](https://www.v2ex.com/t/862167) 
 - [2022-06-25-B-站的推广|广告去不掉](https://www.v2ex.com/t/862166) 
 - [2022-06-25-和朋友远程一起看视频的工具。全平台兼容，支持全流媒体，本地视频](https://www.v2ex.com/t/862165) 
-- [2022-06-25-全日制大专软件技术毕业，自考本科非计算机专业对未来跳槽有帮助吗](https://www.v2ex.com/t/862164) 

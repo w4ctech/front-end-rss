@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-06-25 06:16:28，:rocket: 更新条数: +2017， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-06-25 06:45:11，:rocket: 更新条数: +2017， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,13 @@
 </summary>
 
 
+- [2022-06-25-长铗的建议，在今天还有效吗？](https://www.v2ex.com/t/862122) ![](assets/new.png)  
+- [2022-06-25-上海电信中兴-F450G-丢失配置，-ITMS-无法注册下发，存不住配置有人遇到过么？](https://www.v2ex.com/t/862121) ![](assets/new.png)  
+- [2022-06-25-MacbookM1-pro-屏幕出现-掉漆？](https://www.v2ex.com/t/862120) ![](assets/new.png)  
+- [2022-06-25-一起看-F1-吗？](https://www.v2ex.com/t/862118) ![](assets/new.png)  
+- [2022-06-25-无线鼠标卡顿，更换-hub-的位置后明显改善](https://www.v2ex.com/t/862117) ![](assets/new.png)  
+- [2022-06-25-基于-Python-的种子磁力链接搜索网站](https://www.v2ex.com/t/862116) ![](assets/new.png)  
+- [2022-06-25-请教一个-leetcode-上-Go-的内存消耗的问题](https://www.v2ex.com/t/862115) ![](assets/new.png)  
 - [2022-06-25-Apple-Watch-返厂降级了](https://www.v2ex.com/t/862114) ![](assets/new.png)  
 - [2022-06-25-U-盘插入便携电视机，可以播放-U-盘里的视频，但插电脑里无法播放，且看不到任何数据](https://www.v2ex.com/t/862110) ![](assets/new.png)  
 - [2022-06-25-杭州/北京/武汉等-各种岗位-飞书-内推～](https://www.v2ex.com/t/862109) ![](assets/new.png)  
@@ -504,13 +511,6 @@
 - [2022-06-25-HTTP-的-DELETE-请求，如何能联动-Linux-底层的回收站机制](https://www.v2ex.com/t/862096) ![](assets/new.png)  
 - [2022-06-25-新手请教:-类属性attribute和类成员属性之间有什么关系呢?应该是与命名空间name-space有关.](https://www.v2ex.com/t/862095) ![](assets/new.png)  
 - [2022-06-25-外卖员可以给用户发短信吗？](https://www.v2ex.com/t/862094) ![](assets/new.png)  
-- [2022-06-25-有什么好办法可以保证在不同电脑间的数据进行同步？](https://www.v2ex.com/t/862091) ![](assets/new.png)  
-- [2022-06-25-来自-stripe-的开源-API/文档-解决方案](https://www.v2ex.com/t/862090) ![](assets/new.png)  
-- [2022-06-25-绿厂/一加的田鸡-9000/8100-内核源码开源了](https://www.v2ex.com/t/862089) ![](assets/new.png)  
-- [2022-06-25-把函数做成画，做了一个简易的生成艺术-Tin](https://www.v2ex.com/t/862088) ![](assets/new.png)  
-- [2022-06-25-如何理解《Intel#IA-32》文档中的-assert？](https://www.v2ex.com/t/862086) ![](assets/new.png)  
-- [2022-06-25-有一个困惑：比如看-reversed-方法的源码里面的实现都是-pass，为什么会这样？如何才能看到源码呢？](https://www.v2ex.com/t/862085) ![](assets/new.png)  
-- [2022-06-25-如何学习装机？](https://www.v2ex.com/t/862084) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -556,18 +556,18 @@
 - [2022-06-25-优质网站同好者周刊（第-071-期）-|-倾城博客](https://toutiao.io/k/txv870b) ![](assets/new.png)  
 - [2022-06-25-快手实时数仓保障体系研发实践](https://toutiao.io/k/juj49do) ![](assets/new.png)  
 - [2022-06-25-5000字解析：实战化场景下的容器安全攻防之道](https://toutiao.io/k/byhhxco) ![](assets/new.png)  
-- [2022-06-25-欢迎加入读者圈子，一起交流！](https://toutiao.io/k/92wl596) ![](assets/new.png)  
 - [2022-06-25-为什么线程崩溃不会导致-JVM-崩溃](https://toutiao.io/k/smus5nq) ![](assets/new.png)  
+- [2022-06-25-欢迎加入读者圈子，一起交流！](https://toutiao.io/k/92wl596) ![](assets/new.png)  
 - [2022-06-25-Geohash边界分形与拟合，让你的边界纵享丝滑](https://toutiao.io/k/8hkpf3s) ![](assets/new.png)  
 - [2022-06-25-Kaggle知识点：XGBoost迭代读取数据集](https://toutiao.io/k/s6ozmt5) ![](assets/new.png)  
 - [2022-06-25-深入区块链技术（一）](https://toutiao.io/k/khhqgkk) ![](assets/new.png)  
 - [2022-06-25-Google推荐在MVVM架构中使用KotlinFlow](https://toutiao.io/k/d9268tr) ![](assets/new.png)  
 - [2022-06-25-纯golang实现的图表库](https://toutiao.io/k/9kk61eo) ![](assets/new.png)  
 - [2022-06-25-什么是零信任？](https://toutiao.io/k/7m80ux1) ![](assets/new.png)  
+- [2022-06-25-推荐-肝了一个月的-DDD，一文带你掌握！](https://toutiao.io/k/bclz2n6) ![](assets/new.png)  
 - [2022-06-25-推荐-我们公司使用了-5-年的系统限流方案！从实现到部署实战详解，稳的一批!​](https://toutiao.io/k/4tls39t) ![](assets/new.png)  
 - [2022-06-25-推荐-高并发下如何防重？](https://toutiao.io/k/ulsc0so) ![](assets/new.png)  
 - [2022-06-25-推荐-Redis夺命52连问](https://toutiao.io/k/he3fzao) ![](assets/new.png)  
-- [2022-06-25-推荐-肝了一个月的-DDD，一文带你掌握！](https://toutiao.io/k/bclz2n6) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

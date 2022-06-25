@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-06-25 11:12:12。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-06-25 11:36:17。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -71,6 +71,7 @@
 - [【张鑫旭-鑫空间-鑫生活】2022-06-19-如何继承自定义元素及其他JS中扩展新方法](https://www.zhangxinxu.com/wordpress/2022/06/js-extend-class-custom-elements/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-06-12-基于文字的URL锚点定位与::target-text样式设置](https://www.zhangxinxu.com/wordpress/2022/06/url-anchor-target-text/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-06-11-介绍一种CSS变量未定义语法也OK的小妙招](https://www.zhangxinxu.com/wordpress/2022/06/css-var-optional-empty-trick/) 
+- [【V2EX】2022-06-25-有没有跑分的微信小程序?](https://www.v2ex.com/t/862171) 
 - [【V2EX】2022-06-25-想看看你们的密码软件里面的分类](https://www.v2ex.com/t/862169) 
 - [【V2EX】2022-06-25-深圳面交京东自营换新硬盘-SN570-SN770](https://www.v2ex.com/t/862168) 
 - [【V2EX】2022-06-25-怎么爬-vk.com？-Python-出现-429-错误，普通浏览器不会](https://www.v2ex.com/t/862167) 
@@ -113,8 +114,6 @@
 - [【V2EX】2022-06-25-社招/济南-Java-/Vue-部门直招，欢迎技术大牛来撩！](https://www.v2ex.com/t/862124) 
 - [【V2EX】2022-06-25-购买-XGP-求教](https://www.v2ex.com/t/862123) 
 - [【V2EX】2022-06-25-长铗的建议，在今天还有效吗？](https://www.v2ex.com/t/862122) 
-- [【V2EX】2022-06-25-上海电信中兴-F450G-丢失配置，-ITMS-无法注册下发，存不住配置有人遇到过么？](https://www.v2ex.com/t/862121) 
-- [【V2EX】2022-06-25-MacbookM1-pro-屏幕出现-掉漆？](https://www.v2ex.com/t/862120) 
 - [【技术头条】2022-06-25-敏捷教练技术的融合方法-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15200&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fagile-coach-techniques%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-06-25-你还只知道测试金字塔？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15199&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftest-pyramid%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-06-25-疫情下更合适的开发模式-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15198&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fmainline-pull-request-difference%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

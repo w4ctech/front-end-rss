@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-06-26 19:36:42。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-06-26 20:13:54。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -350,7 +350,6 @@
 
 
 
-- [【V2EX】远程/中文友好-代美国公司招聘高级-Ruby-后端工程师和架构师](https://www.v2ex.com/t/862320)
 - [【开发者头条】面试高频-|-你追我赶的Flink双流join](https://toutiao.io/k/tz2n70b)
 - [......【查看更多】......](./details/tags/job-interview.md)
 

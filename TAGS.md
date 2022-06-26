@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-06-26 09:12:44。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-06-26 09:39:12。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -281,6 +281,8 @@
 - [【武汉肺炎防疫全纪录(财新网)】解药|新冠mRNA疫苗安全性有哪些挑战？](https://m.caixin.com/m/2021-01-08/101648043.html)
 - [【武汉肺炎防疫全纪录(财新网)】大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html)
 - [【张鑫旭-鑫空间-鑫生活】基于文字的URL锚点定位与::target-text样式设置](https://www.zhangxinxu.com/wordpress/2022/06/url-anchor-target-text/)
+- [【V2EX】发现-Edge-开始比-Chrome-好用一些了](https://www.v2ex.com/t/862303)
+- [【V2EX】跨域测试小工具](https://www.v2ex.com/t/862301)
 - [【V2EX】MacOS-是否有类似-mobaXterm-下的跳转机jump-host和多窗口执行MultiExec功能的终端？](https://www.v2ex.com/t/862297)
 - [【技术头条】安全运营能力成熟度模型（SOMM）-www.sec-un.org](https://blogread.cn/news/go.php?idItem=15193&url=https%3A%2F%2Fwww.sec-un.org%2F%25e5%25ae%2589%25e5%2585%25a8%25e8%25bf%2590%25e8%2590%25a5%25e8%2583%25bd%25e5%258a%259b%25e6%2588%2590%25e7%2586%259f%25e5%25ba%25a6%25e6%25a8%25a1%25e5%259e%258b%25ef%25bc%2588somm%25ef%25bc%2589%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【开发者头条】Facebook-是怎么保证缓存一致性的](https://toutiao.io/k/6agqjku)
@@ -300,6 +302,7 @@
 
 
 
+- [【V2EX】关于-vim-和-goland-的使用技巧问题](https://www.v2ex.com/t/862302)
 - [【V2EX】一直很好奇-leetcode-是怎么判断随机算法的正误的](https://www.v2ex.com/t/862272)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 

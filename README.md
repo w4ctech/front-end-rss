@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-06-26 06:44:48，:rocket: 更新条数: +2020， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-06-26 07:13:02，:rocket: 更新条数: +2021， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,9 @@
 </summary>
 
 
+- [2022-06-26-如何像微信那样具有长效的后台消息通知](https://www.v2ex.com/t/862283) ![](assets/new.png)  
+- [2022-06-26-使用树莓派让电视轻松支持-AirPlay](https://www.v2ex.com/t/862282) ![](assets/new.png)  
+- [2022-06-26-北京40K---100K-web3-公司诚邀前/后端加入](https://www.v2ex.com/t/862280) ![](assets/new.png)  
 - [2022-06-26-找运营商拿了一个公网-IP，准备做-DDNS](https://www.v2ex.com/t/862279) ![](assets/new.png)  
 - [2022-06-26-你为什么做开源软件？](https://www.v2ex.com/t/862278) ![](assets/new.png)  
 - [2022-06-26-兼容-tmux-的-trzsz-trz-/-tsz-发布-1.1.0-版本，支持目录传输。](https://www.v2ex.com/t/862277) ![](assets/new.png)  
@@ -508,9 +511,6 @@
 - [2022-06-26-论文写作构图问题](https://www.v2ex.com/t/862260) ![](assets/new.png)  
 - [2022-06-26-新手请教一个-kubeam-init-初始化错误问题](https://www.v2ex.com/t/862259) ![](assets/new.png)  
 - [2022-06-26-TB-这种情况下，你们会给差评吗？](https://www.v2ex.com/t/862258) ![](assets/new.png)  
-- [2022-06-26-找一个熟练使用-Python-合作的兼职伙伴](https://www.v2ex.com/t/862257) ![](assets/new.png)  
-- [2022-06-26-看到手机坏掉的帖子，想到一个老问题](https://www.v2ex.com/t/862256) ![](assets/new.png)  
-- [2022-06-26-如何用指标度量架构，找到架构优化的方向](https://www.v2ex.com/t/862255) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -561,14 +561,14 @@
 - [2022-06-26-是什么能让-APP-快速精准定位到我们的位置？](https://toutiao.io/k/gta4w93) ![](assets/new.png)  
 - [2022-06-26-【API-优先的设计】OpenAPI-文档篇](https://toutiao.io/k/o8v7ock) ![](assets/new.png)  
 - [2022-06-26-AI模型看看视频，就学会了玩《我的世界》：砍树、造箱子、制作石镐样样不差](https://toutiao.io/k/647fnjk) ![](assets/new.png)  
-- [2022-06-26-Glide加载Gif的卡顿优化思路分析](https://toutiao.io/k/xsjkv0w) ![](assets/new.png)  
 - [2022-06-26-Git进阶系列-|-5.-Rebase-vs-Merge](https://toutiao.io/k/tc5wxmx) ![](assets/new.png)  
+- [2022-06-26-Glide加载Gif的卡顿优化思路分析](https://toutiao.io/k/xsjkv0w) ![](assets/new.png)  
 - [2022-06-26-实现基于-Grafana-Loki-的日志报警](https://toutiao.io/k/hgui17m) ![](assets/new.png)  
-- [2022-06-26-推荐-团队管理｜如何提高技术Leader的思考技巧？](https://toutiao.io/k/f3496vg) ![](assets/new.png)  
-- [2022-06-26-推荐-Redis夺命52连问](https://toutiao.io/k/he3fzao) ![](assets/new.png)  
 - [2022-06-26-推荐-高并发下如何防重？](https://toutiao.io/k/ulsc0so) ![](assets/new.png)  
+- [2022-06-26-推荐-团队管理｜如何提高技术Leader的思考技巧？](https://toutiao.io/k/f3496vg) ![](assets/new.png)  
 - [2022-06-26-推荐-肝了一个月的-DDD，一文带你掌握！](https://toutiao.io/k/bclz2n6) ![](assets/new.png)  
 - [2022-06-26-推荐-我们公司使用了-5-年的系统限流方案！从实现到部署实战详解，稳的一批!​](https://toutiao.io/k/4tls39t) ![](assets/new.png)  
+- [2022-06-26-推荐-Redis夺命52连问](https://toutiao.io/k/he3fzao) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

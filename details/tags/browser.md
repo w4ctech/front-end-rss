@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-06-26 10:13:51。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-06-26 10:40:39。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -14,6 +14,7 @@
 - [2021-01-08-解药|新冠mRNA疫苗安全性有哪些挑战？](https://m.caixin.com/m/2021-01-08/101648043.html) 
 - [2021-01-01-大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html) 
 - [2022-06-12-基于文字的URL锚点定位与::target-text样式设置](https://www.zhangxinxu.com/wordpress/2022/06/url-anchor-target-text/) 
+- [2022-06-26-怎么方便全局维护-token,-,-有效期二个小时,-快过期的时候主动发请求更新](https://www.v2ex.com/t/862312) 
 - [2022-06-26-发现-Edge-开始比-Chrome-好用一些了](https://www.v2ex.com/t/862303) 
 - [2022-06-26-跨域测试小工具](https://www.v2ex.com/t/862301) 
 - [2022-06-26-MacOS-是否有类似-mobaXterm-下的跳转机jump-host和多窗口执行MultiExec功能的终端？](https://www.v2ex.com/t/862297) 

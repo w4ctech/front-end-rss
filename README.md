@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-06-26 14:37:22，:rocket: 更新条数: +2022， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-06-26 15:13:30，:rocket: 更新条数: +2022， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-06-26-Linux-下载安装新的应用需要先更新系统，如何不更新系统也可以下载安装新的应用？](https://www.v2ex.com/t/862354) ![](assets/new.png)  
+- [2022-06-26-你们坐久了会不会肩痛？每次坐久了，两肩之间部分就刺痛，据说是肩胛骨问题。](https://www.v2ex.com/t/862353) ![](assets/new.png)  
 - [2022-06-26-郑州内推数字马力郑州海量-HC-等你来投](https://www.v2ex.com/t/862352) ![](assets/new.png)  
 - [2022-06-26-阿里云盘鉴黄是不是有问题？](https://www.v2ex.com/t/862351) ![](assets/new.png)  
 - [2022-06-26-小米电视-4X55-寸出现右半部分屏闪，这个是屏幕出了问题还是电路板有问题已过保修期](https://www.v2ex.com/t/862350) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-06-26-如何看待封闭开发？](https://www.v2ex.com/t/862330) ![](assets/new.png)  
 - [2022-06-26-魔都电信被强行升级云宽带，导致好多天没发上网](https://www.v2ex.com/t/862329) ![](assets/new.png)  
 - [2022-06-26-Bitwarden-有些页面无法填充，有什么解决办法？](https://www.v2ex.com/t/862328) ![](assets/new.png)  
-- [2022-06-26-为什么明明有外汇管制，电信诈骗还是一直都能瞬间把钱转到境外？](https://www.v2ex.com/t/862327) ![](assets/new.png)  
-- [2022-06-26-飞书低代码团队招人了](https://www.v2ex.com/t/862325) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -565,10 +565,10 @@
 - [2022-06-26-实现基于-Grafana-Loki-的日志报警](https://toutiao.io/k/hgui17m) ![](assets/new.png)  
 - [2022-06-26-Glide加载Gif的卡顿优化思路分析](https://toutiao.io/k/xsjkv0w) ![](assets/new.png)  
 - [2022-06-26-推荐-Redis夺命52连问](https://toutiao.io/k/he3fzao) ![](assets/new.png)  
-- [2022-06-26-推荐-团队管理｜如何提高技术Leader的思考技巧？](https://toutiao.io/k/f3496vg) ![](assets/new.png)  
-- [2022-06-26-推荐-肝了一个月的-DDD，一文带你掌握！](https://toutiao.io/k/bclz2n6) ![](assets/new.png)  
-- [2022-06-26-推荐-高并发下如何防重？](https://toutiao.io/k/ulsc0so) ![](assets/new.png)  
 - [2022-06-26-推荐-我们公司使用了-5-年的系统限流方案！从实现到部署实战详解，稳的一批!​](https://toutiao.io/k/4tls39t) ![](assets/new.png)  
+- [2022-06-26-推荐-肝了一个月的-DDD，一文带你掌握！](https://toutiao.io/k/bclz2n6) ![](assets/new.png)  
+- [2022-06-26-推荐-团队管理｜如何提高技术Leader的思考技巧？](https://toutiao.io/k/f3496vg) ![](assets/new.png)  
+- [2022-06-26-推荐-高并发下如何防重？](https://toutiao.io/k/ulsc0so) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

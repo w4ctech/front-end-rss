@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2022-06-26 17:38:50。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-06-26 18:14:51。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-06-26-openwrt-断电后不能上网，硬件时间被重置为-2016.01.21](https://www.v2ex.com/t/862369) 
 - [2022-06-26-分享一则近期关于电信宽带-IPv6-的郁闷事](https://www.v2ex.com/t/862366) 
 - [2022-06-26-Thoughtworks-招-Salesforce-Developer](https://www.v2ex.com/t/862365) 
 - [2022-06-26-VSCode-是否有任何插件可以让-Markdown-在右侧预览的时候可以支持---/---x-这样的-To-Do-语法？](https://www.v2ex.com/t/862362) 
@@ -39,4 +40,3 @@
 - [2022-06-26-请问国内外有没有类似豆瓣之类网站?](https://www.v2ex.com/t/862323) 
 - [2022-06-26-做了个自动中英双语搜索的用户脚本，喜欢这种学习方式的可以尝试一下-:D-google-multilang-search-view-en/zh](https://www.v2ex.com/t/862322) 
 - [2022-06-26-远程/中文友好-代美国公司招聘高级-Ruby-后端工程师和架构师](https://www.v2ex.com/t/862320) 
-- [2022-06-26-虚心请教，这两天火热的-高考报考志愿-App-的数据是怎么获取的？](https://www.v2ex.com/t/862319) 

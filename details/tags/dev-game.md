@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-06-26 03:24:34。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-06-26 04:09:47。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 游戏开发
 
@@ -6,5 +6,3 @@
 > 关键字：`游戏`、`Three.js`、`Create.js`、`Matter.js`
 
 
-
-- [2022-06-25-如何优雅的欺骗游戏加速器？](https://www.v2ex.com/t/862209) 

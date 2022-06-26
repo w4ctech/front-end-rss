@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-06-26 17:13:36。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-06-26 17:38:50。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
@@ -40,5 +40,3 @@
 - [2022-06-26-做了个自动中英双语搜索的用户脚本，喜欢这种学习方式的可以尝试一下-:D-google-multilang-search-view-en/zh](https://www.v2ex.com/t/862322) 
 - [2022-06-26-远程/中文友好-代美国公司招聘高级-Ruby-后端工程师和架构师](https://www.v2ex.com/t/862320) 
 - [2022-06-26-虚心请教，这两天火热的-高考报考志愿-App-的数据是怎么获取的？](https://www.v2ex.com/t/862319) 
-- [2022-06-26-淘宝上的无限量-goolge-drive-可以买吗？](https://www.v2ex.com/t/862318) 
-- [2022-06-26-怎么打造一个省心好用的家庭影院？](https://www.v2ex.com/t/862317) 

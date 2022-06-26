@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-06-26 13:00:19。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-06-26 13:26:25。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -303,6 +303,7 @@
 
 
 
+- [【V2EX】北京/远程Web3SolidityNFT-VIMworld-国际化元宇宙数字藏品，招聘：前后端开发/合约开发/DevOps/QA-062622-更新](https://www.v2ex.com/t/862339)
 - [【V2EX】关于-vim-和-goland-的使用技巧问题](https://www.v2ex.com/t/862302)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 

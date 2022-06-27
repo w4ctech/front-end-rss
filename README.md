@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-06-27 04:36:49，:rocket: 更新条数: +2022， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-06-27 05:26:36，:rocket: 更新条数: +2018， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,19 @@
 </summary>
 
 
+- [2022-06-27-在-jQuery-环境下，怎么开发-SPA-应用程序，怎么配置路由？](https://www.v2ex.com/t/862457) ![](assets/new.png)  
+- [2022-06-27-中国移动场景化宽带](https://www.v2ex.com/t/862456) ![](assets/new.png)  
+- [2022-06-27-转租-杨浦区大学路-创智坊-10-号线江湾体育场-1-室-转租](https://www.v2ex.com/t/862455) ![](assets/new.png)  
+- [2022-06-27-写了个不起眼的小玩意--数学题生成器](https://www.v2ex.com/t/862454) ![](assets/new.png)  
+- [2022-06-27-被文件名大小写的问题搞晕了](https://www.v2ex.com/t/862453) ![](assets/new.png)  
+- [2022-06-27-这个各大语言性能测试结果挺有意思](https://www.v2ex.com/t/862452) ![](assets/new.png)  
+- [2022-06-27-啊啊啊啊，价位-500-600-有没有软路由推荐。](https://www.v2ex.com/t/862450) ![](assets/new.png)  
+- [2022-06-27-offer-该怎么选，大家给点建议吧](https://www.v2ex.com/t/862449) ![](assets/new.png)  
+- [2022-06-27-在一线城市工作的大家，每天花多少钱在吃饭上](https://www.v2ex.com/t/862448) ![](assets/new.png)  
+- [2022-06-27-有什么能挂-4-块-U.2-盘的-mini-低功耗设备推荐么](https://www.v2ex.com/t/862447) ![](assets/new.png)  
+- [2022-06-27-Chrome-浏览器-DevTools，-network-请求记录中稍晚的-response-就失效，怎么解决？](https://www.v2ex.com/t/862445) ![](assets/new.png)  
+- [2022-06-27-使用-Manico-的大佬们，会用默认的快捷键不](https://www.v2ex.com/t/862443) ![](assets/new.png)  
+- [2022-06-27-大家现在都在什么平台看项目实战的课程呢？](https://www.v2ex.com/t/862442) ![](assets/new.png)  
 - [2022-06-27-M1-Max-MacBookPro-电池健康](https://www.v2ex.com/t/862441) ![](assets/new.png)  
 - [2022-06-27-nas-机器，大家会-24*7-一直开机么？硬盘会不会选择进入休眠？](https://www.v2ex.com/t/862439) ![](assets/new.png)  
 - [2022-06-27-Idea-上的-Copliot-AI-智能代码补全插件收费了,100-刀一年贵吗?](https://www.v2ex.com/t/862438) ![](assets/new.png)  
@@ -498,19 +511,6 @@
 - [2022-06-27-有哪些可以上架商业软件的好用的平台?](https://www.v2ex.com/t/862436) ![](assets/new.png)  
 - [2022-06-27-有没有支持任意网址留言评论的浏览器插件？](https://www.v2ex.com/t/862435) ![](assets/new.png)  
 - [2022-06-27-我知道-bing-确实没谷歌好用，但是没想到烂成这样](https://www.v2ex.com/t/862434) ![](assets/new.png)  
-- [2022-06-27-哥哥/姐姐生小孩，你们那边一般给多少红包](https://www.v2ex.com/t/862433) ![](assets/new.png)  
-- [2022-06-27-研磨-Macbook-磕碰痕迹的骚操作...](https://www.v2ex.com/t/862430) ![](assets/new.png)  
-- [2022-06-27-AppleWatch-有办法通过语音快速唤醒体能训练中的项目吗？](https://www.v2ex.com/t/862429) ![](assets/new.png)  
-- [2022-06-27-The-Unarchiver-夹带私货](https://www.v2ex.com/t/862428) ![](assets/new.png)  
-- [2022-06-27-小米-11-无故死机变砖，设计缺陷真的要用户来埋单吗？](https://www.v2ex.com/t/862427) ![](assets/new.png)  
-- [2022-06-27-PP9.2-发布，推翻重做可视化沟通](https://www.v2ex.com/t/862425) ![](assets/new.png)  
-- [2022-06-27-M1-Mac-mini-显示桌面后，桌面图标无法单击或双击](https://www.v2ex.com/t/862423) ![](assets/new.png)  
-- [2022-06-27-谷歌文件极客的文件分享功能不能用](https://www.v2ex.com/t/862422) ![](assets/new.png)  
-- [2022-06-27-m1-Mac-外接显示器-锁-30Hz-bug,-以及神奇的解决办法..](https://www.v2ex.com/t/862421) ![](assets/new.png)  
-- [2022-06-27-我喜欢上了好朋友的前妻](https://www.v2ex.com/t/862420) ![](assets/new.png)  
-- [2022-06-27-请问-windows-上如何让-vim非-gvim支持-true-color?或者推荐一款仅需要-256color-支持的-colorscheme?](https://www.v2ex.com/t/862419) ![](assets/new.png)  
-- [2022-06-27-2022-求一张低消保号手机卡](https://www.v2ex.com/t/862418) ![](assets/new.png)  
-- [2022-06-27-手机喝丢了](https://www.v2ex.com/t/862417) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -563,11 +563,11 @@
 - [2022-06-27-《梦华录》要大结局了，看超前点映不如先来学学它！](https://toutiao.io/k/vthq39j) ![](assets/new.png)  
 - [2022-06-27-内存马查杀思路](https://toutiao.io/k/zifkziv) ![](assets/new.png)  
 - [2022-06-27-Linux-系统调用的来龙去脉-上](https://toutiao.io/k/wbnn90b) ![](assets/new.png)  
-- [2022-06-27-推荐-3000帧动画图解MySQL为什么需要binlog、redo-log和undo-log](https://toutiao.io/k/b0g4460) ![](assets/new.png)  
-- [2022-06-27-推荐-Redis夺命52连问](https://toutiao.io/k/he3fzao) ![](assets/new.png)  
-- [2022-06-27-推荐-肝了一个月的-DDD，一文带你掌握！](https://toutiao.io/k/bclz2n6) ![](assets/new.png)  
 - [2022-06-27-推荐-高并发下如何防重？](https://toutiao.io/k/ulsc0so) ![](assets/new.png)  
+- [2022-06-27-推荐-Redis夺命52连问](https://toutiao.io/k/he3fzao) ![](assets/new.png)  
+- [2022-06-27-推荐-3000帧动画图解MySQL为什么需要binlog、redo-log和undo-log](https://toutiao.io/k/b0g4460) ![](assets/new.png)  
 - [2022-06-27-推荐-我们公司使用了-5-年的系统限流方案！从实现到部署实战详解，稳的一批!​](https://toutiao.io/k/4tls39t) ![](assets/new.png)  
+- [2022-06-27-推荐-肝了一个月的-DDD，一文带你掌握！](https://toutiao.io/k/bclz2n6) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-06-27 06:52:01，:rocket: 更新条数: +2029， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-06-27 07:13:06，:rocket: 更新条数: +2027， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,10 @@
 </summary>
 
 
+- [2022-06-27-请教一个-spark-dataframe-问题](https://www.v2ex.com/t/862487) ![](assets/new.png)  
+- [2022-06-27-brew-下载怎样加速啊](https://www.v2ex.com/t/862486) ![](assets/new.png)  
+- [2022-06-27-想知道-Java-转产品的可行性](https://www.v2ex.com/t/862485) ![](assets/new.png)  
+- [2022-06-27-小米电视-kodi-无法流畅播放-nas-里的-4k-电影！](https://www.v2ex.com/t/862484) ![](assets/new.png)  
 - [2022-06-27-塞尔达真好玩](https://www.v2ex.com/t/862482) ![](assets/new.png)  
 - [2022-06-27-国内支持-PayPal-买东西的信用卡有哪些](https://www.v2ex.com/t/862480) ![](assets/new.png)  
 - [2022-06-27-windows-下如何通过公网映射-NAS-分区的问题](https://www.v2ex.com/t/862478) ![](assets/new.png)  
@@ -507,10 +511,6 @@
 - [2022-06-27-哭笑不得的小故事](https://www.v2ex.com/t/862465) ![](assets/new.png)  
 - [2022-06-27-新买的-XPS-笔记本，格式化重装-Windows-还能激活吗？](https://www.v2ex.com/t/862464) ![](assets/new.png)  
 - [2022-06-27-求一个-swift6-开发新闻客户端-学习教程，最好新一点。](https://www.v2ex.com/t/862463) ![](assets/new.png)  
-- [2022-06-27-收到美国的支票，在国内如何兑换](https://www.v2ex.com/t/862462) ![](assets/new.png)  
-- [2022-06-27-分享一下我根据泛型语法造的-web-轮子](https://www.v2ex.com/t/862461) ![](assets/new.png)  
-- [2022-06-27-Plex-服务器耗电吗？如何关掉呢？](https://www.v2ex.com/t/862460) ![](assets/new.png)  
-- [2022-06-27-关于-m2-macbook-air-发售日期](https://www.v2ex.com/t/862459) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -557,8 +557,8 @@
 - [2022-06-27-介绍一个数据血缘的项目-OpenLineage](https://toutiao.io/k/pb9ns85) ![](assets/new.png)  
 - [2022-06-27-刨根问底:-Kafka-到底会不会丢数据？](https://toutiao.io/k/909ukbu) ![](assets/new.png)  
 - [2022-06-27-快用上PerformanceObserver，别再手动计算首屏时间了](https://toutiao.io/k/tbxln35) ![](assets/new.png)  
-- [2022-06-27-更准更快的YOLOv6来了，美团出品并开源](https://toutiao.io/k/jylzk4r) ![](assets/new.png)  
 - [2022-06-27-Airbnb复盘微服务](https://toutiao.io/k/eqbc7zj) ![](assets/new.png)  
+- [2022-06-27-更准更快的YOLOv6来了，美团出品并开源](https://toutiao.io/k/jylzk4r) ![](assets/new.png)  
 - [2022-06-27-【合集】万字长文带你重温Elasticsearch-，这下完全懂了！](https://toutiao.io/k/etl9ji2) ![](assets/new.png)  
 - [2022-06-27-《梦华录》要大结局了，看超前点映不如先来学学它！](https://toutiao.io/k/vthq39j) ![](assets/new.png)  
 - [2022-06-27-内存马查杀思路](https://toutiao.io/k/zifkziv) ![](assets/new.png)  
@@ -566,13 +566,13 @@
 - [2022-06-27-可落地的DDD6-工程结构](https://toutiao.io/k/zxr9jgw) ![](assets/new.png)  
 - [2022-06-27-golang笔记](https://toutiao.io/k/htrxuyb) ![](assets/new.png)  
 - [2022-06-27-百度评论中台的设计与探索](https://toutiao.io/k/4k02yo5) ![](assets/new.png)  
-- [2022-06-27-支付宝五福-AR-玩法及背后的互动引擎—Paladin](https://toutiao.io/k/0eld8gs) ![](assets/new.png)  
-- [2022-06-27-居家办公竟比去公司上班还累？](https://toutiao.io/k/emkdso8) ![](assets/new.png)  
 - [2022-06-27-叮，GitHub-到账-550-美元「GitHub-热点速览-v.22.26」](https://toutiao.io/k/rqam3kw) ![](assets/new.png)  
+- [2022-06-27-支付宝五福-AR-玩法及背后的互动引擎—Paladin](https://toutiao.io/k/0eld8gs) ![](assets/new.png)  
 - [2022-06-27-且看-Netty-如何应对-TCP-连接的正常关闭，异常关闭，半关闭场景](https://toutiao.io/k/tk5oazo) ![](assets/new.png)  
+- [2022-06-27-居家办公竟比去公司上班还累？](https://toutiao.io/k/emkdso8) ![](assets/new.png)  
 - [2022-06-27-隐私计算FATE-离线预测](https://toutiao.io/k/q4z1x3f) ![](assets/new.png)  
-- [2022-06-27-推荐-我们公司使用了-5-年的系统限流方案！从实现到部署实战详解，稳的一批!​](https://toutiao.io/k/4tls39t) ![](assets/new.png)  
-- [2022-06-27-推荐-3000帧动画图解MySQL为什么需要binlog、redo-log和undo-log](https://toutiao.io/k/b0g4460) ![](assets/new.png)  
+- [2022-06-27-推荐-Redis夺命52连问](https://toutiao.io/k/he3fzao) ![](assets/new.png)  
+- [2022-06-27-推荐-肝了一个月的-DDD，一文带你掌握！](https://toutiao.io/k/bclz2n6) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

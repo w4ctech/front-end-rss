@@ -1,10 +1,13 @@
-:alarm_clock: 更新时间: 2022-06-27 12:28:05。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-06-27 13:16:17。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-06-27-安徽文科-1200-名，志愿怎么填？](https://www.v2ex.com/t/862556) 
+- [2022-06-27-Copilot-这周好像特别慢，大家有这种情况吗？](https://www.v2ex.com/t/862555) 
+- [2022-06-27-2022-年我的-Mac-软件黑名单](https://www.v2ex.com/t/862554) 
 - [2022-06-27-DNSPOD-挂了吗？部分地区找不到主机](https://www.v2ex.com/t/862552) 
 - [2022-06-27-本-3-前端，-react-技术栈](https://www.v2ex.com/t/862551) 
 - [2022-06-27-既然电话卡在你运营商实名了，难道还不是实人，难道信息还存在不实？](https://www.v2ex.com/t/862549) 
@@ -34,7 +37,3 @@
 - [2022-06-27-有更好用的管理-Chrome-扩展程序的插件么](https://www.v2ex.com/t/862511) 
 - [2022-06-27-使用公共-socks5-代理池爬-HTTPS-网站有泄露/被篡改爬取-URL（HOST-没关系）/爬取到的内容的风险吗？](https://www.v2ex.com/t/862509) 
 - [2022-06-27-市面上有没有带-15mm-2.5-寸硬盘位的-mini-pc？](https://www.v2ex.com/t/862508) 
-- [2022-06-27-为什么发帖提示我要注册满-1002-天？](https://www.v2ex.com/t/862506) 
-- [2022-06-27-js-有鼠标操作绘制-svg-的框架吗？](https://www.v2ex.com/t/862505) 
-- [2022-06-27-Visual-Studio-Code-Python---2022-年-6-月更新---本地化支持，-Python-解释器查找，-Jupyter-扩展，-Pylance](https://www.v2ex.com/t/862504) 
-- [2022-06-27-哭了，微软的两步验证应用真的好蠢](https://www.v2ex.com/t/862503) 

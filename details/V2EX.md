@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2022-06-27 10:15:49。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-06-27 10:44:32。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-06-27-怎么把公司-32-核开发机-dd-成纯净系统](https://www.v2ex.com/t/862535) 
 - [2022-06-27-哪家-smtp-发邮件最好？](https://www.v2ex.com/t/862531) 
 - [2022-06-27-LSTM-神经网络设计，双向输出结果需要折叠吗？](https://www.v2ex.com/t/862530) 
 - [2022-06-27-windows10-任务管理器中-GPU-相关图表办法更改默认显示项目吗？](https://www.v2ex.com/t/862527) 
@@ -14,7 +15,6 @@
 - [2022-06-27-大家对苹果新推出的-PAT-替换验证码怎么看？](https://www.v2ex.com/t/862519) 
 - [2022-06-27-有-Kindle-书友吗？](https://www.v2ex.com/t/862517) 
 - [2022-06-27-问个-macbook-pro-合盖温度低的问题](https://www.v2ex.com/t/862516) 
-- [2022-06-27-故事一则](https://www.v2ex.com/t/862515) 
 - [2022-06-27-深圳-内推-前端开发工程师（React-+-TypeScript）](https://www.v2ex.com/t/862514) 
 - [2022-06-27-vue-项目中能否插入-node-red，做一些定制操作](https://www.v2ex.com/t/862513) 
 - [2022-06-27-Android-如何展示-3D-模型](https://www.v2ex.com/t/862512) 
@@ -37,6 +37,3 @@
 - [2022-06-27-你们今天手机有信号咩](https://www.v2ex.com/t/862492) 
 - [2022-06-27-关于安卓车机安装不了第三方-apk，有安卓大佬帮忙看看吗](https://www.v2ex.com/t/862491) 
 - [2022-06-27-请教一个-spark-dataframe-问题](https://www.v2ex.com/t/862487) 
-- [2022-06-27-brew-下载怎样加速啊](https://www.v2ex.com/t/862486) 
-- [2022-06-27-想知道-Java-转产品的可行性](https://www.v2ex.com/t/862485) 
-- [2022-06-27-小米电视-kodi-无法流畅播放-nas-里的-4k-电影！](https://www.v2ex.com/t/862484) 

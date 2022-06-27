@@ -9953,6 +9953,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "怎么把公司 32 核开发机 dd 成纯净系统",
+        "link": "https://www.v2ex.com/t/862535",
+        "date": "2022-06-27"
+      },
+      {
         "title": "哪家 smtp 发邮件最好？",
         "link": "https://www.v2ex.com/t/862531",
         "date": "2022-06-27"
@@ -9995,11 +10000,6 @@
       {
         "title": "问个 macbook pro 合盖温度低的问题",
         "link": "https://www.v2ex.com/t/862516",
-        "date": "2022-06-27"
-      },
-      {
-        "title": "故事一则",
-        "link": "https://www.v2ex.com/t/862515",
         "date": "2022-06-27"
       },
       {
@@ -10110,21 +10110,6 @@
       {
         "title": "请教一个 spark dataframe 问题",
         "link": "https://www.v2ex.com/t/862487",
-        "date": "2022-06-27"
-      },
-      {
-        "title": "brew 下载怎样加速啊",
-        "link": "https://www.v2ex.com/t/862486",
-        "date": "2022-06-27"
-      },
-      {
-        "title": "想知道 Java 转产品的可行性",
-        "link": "https://www.v2ex.com/t/862485",
-        "date": "2022-06-27"
-      },
-      {
-        "title": "小米电视 kodi 无法流畅播放 nas 里的 4k 电影！",
-        "link": "https://www.v2ex.com/t/862484",
         "date": "2022-06-27"
       }
     ]
@@ -10247,13 +10232,13 @@
         "date": "2022-06-27"
       },
       {
-        "title": "介绍一个数据血缘的项目 OpenLineage",
-        "link": "https://toutiao.io/k/pb9ns85",
+        "title": "刨根问底: Kafka 到底会不会丢数据？",
+        "link": "https://toutiao.io/k/909ukbu",
         "date": "2022-06-27"
       },
       {
-        "title": "刨根问底: Kafka 到底会不会丢数据？",
-        "link": "https://toutiao.io/k/909ukbu",
+        "title": "介绍一个数据血缘的项目 OpenLineage",
+        "link": "https://toutiao.io/k/pb9ns85",
         "date": "2022-06-27"
       },
       {
@@ -10302,13 +10287,13 @@
         "date": "2022-06-27"
       },
       {
-        "title": "且看 Netty 如何应对 TCP 连接的正常关闭，异常关闭，半关闭场景",
-        "link": "https://toutiao.io/k/tk5oazo",
+        "title": "叮，GitHub 到账 550 美元「GitHub 热点速览 v.22.26」",
+        "link": "https://toutiao.io/k/rqam3kw",
         "date": "2022-06-27"
       },
       {
-        "title": "百度评论中台的设计与探索",
-        "link": "https://toutiao.io/k/4k02yo5",
+        "title": "且看 Netty 如何应对 TCP 连接的正常关闭，异常关闭，半关闭场景",
+        "link": "https://toutiao.io/k/tk5oazo",
         "date": "2022-06-27"
       },
       {
@@ -10317,13 +10302,13 @@
         "date": "2022-06-27"
       },
       {
-        "title": "支付宝五福 AR 玩法及背后的互动引擎—Paladin",
-        "link": "https://toutiao.io/k/0eld8gs",
+        "title": "百度评论中台的设计与探索",
+        "link": "https://toutiao.io/k/4k02yo5",
         "date": "2022-06-27"
       },
       {
-        "title": "叮，GitHub 到账 550 美元「GitHub 热点速览 v.22.26」",
-        "link": "https://toutiao.io/k/rqam3kw",
+        "title": "支付宝五福 AR 玩法及背后的互动引擎—Paladin",
+        "link": "https://toutiao.io/k/0eld8gs",
         "date": "2022-06-27"
       },
       {
@@ -10337,13 +10322,13 @@
         "date": "2022-06-27"
       },
       {
-        "title": "[推荐] 3000帧动画图解MySQL为什么需要binlog、redo log和undo log",
-        "link": "https://toutiao.io/k/b0g4460",
+        "title": "[推荐] Redis夺命52连问",
+        "link": "https://toutiao.io/k/he3fzao",
         "date": "2022-06-27"
       },
       {
-        "title": "[推荐] 肝了一个月的 DDD，一文带你掌握！",
-        "link": "https://toutiao.io/k/bclz2n6",
+        "title": "[推荐] 3000帧动画图解MySQL为什么需要binlog、redo log和undo log",
+        "link": "https://toutiao.io/k/b0g4460",
         "date": "2022-06-27"
       },
       {
@@ -10352,8 +10337,8 @@
         "date": "2022-06-27"
       },
       {
-        "title": "[推荐] Redis夺命52连问",
-        "link": "https://toutiao.io/k/he3fzao",
+        "title": "[推荐] 肝了一个月的 DDD，一文带你掌握！",
+        "link": "https://toutiao.io/k/bclz2n6",
         "date": "2022-06-27"
       }
     ]

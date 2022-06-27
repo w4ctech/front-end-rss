@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-06-27 15:46:18。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-06-27 16:19:58。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -298,7 +298,6 @@
 
 
 - [【V2EX】算法红宝书第四版的-a-lot-配置问题...](https://www.v2ex.com/t/862537)
-- [【V2EX】windows10-任务管理器中-GPU-相关图表办法更改默认显示项目吗？](https://www.v2ex.com/t/862527)
 - [【开发者头条】【合集】万字长文带你重温Elasticsearch-，这下完全懂了！](https://toutiao.io/k/etl9ji2)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 

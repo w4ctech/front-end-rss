@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-06-27 15:46:18，:rocket: 更新条数: +2023， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-06-27 16:19:58，:rocket: 更新条数: +2024， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,26 +491,26 @@
 </summary>
 
 
+- [2022-06-27-musicforprogramming.net](https://www.v2ex.com/t/862585) ![](assets/new.png)  
+- [2022-06-27-macOS-Ventura-13.0-Beta-版22A5286j-间接性的卡死。。](https://www.v2ex.com/t/862584) ![](assets/new.png)  
+- [2022-06-27-近二个月和朋友玩-a-股，盈利-20-多个点，正常吗](https://www.v2ex.com/t/862583) ![](assets/new.png)  
+- [2022-06-27-现在还有人做在线医疗挂号这种系统吗](https://www.v2ex.com/t/862582) ![](assets/new.png)  
+- [2022-06-27-技术面和-hr-面的时候，你们一般分别会问什么](https://www.v2ex.com/t/862581) ![](assets/new.png)  
+- [2022-06-27-点外卖怎么找高评价但不买排位的商家？](https://www.v2ex.com/t/862580) ![](assets/new.png)  
+- [2022-06-27-又让我逮到了！-QQ-音乐后台偷跑上传带宽](https://www.v2ex.com/t/862579) ![](assets/new.png)  
+- [2022-06-27-已经去过两次兵检都没过还去医院检查过了，今年突然又被通知要去兵检](https://www.v2ex.com/t/862578) ![](assets/new.png)  
 - [2022-06-27-Kiwi-浏览器中文项目已上线，欢迎加入。](https://www.v2ex.com/t/862576) ![](assets/new.png)  
 - [2022-06-27-老哥们-成都买房好难啊-有没有建议](https://www.v2ex.com/t/862575) ![](assets/new.png)  
 - [2022-06-27-想做一个提醒大姨妈的-App，大家觉得叫什么名字比较好？](https://www.v2ex.com/t/862574) ![](assets/new.png)  
 - [2022-06-27-按-cmd+c-的时候屏幕会闪一下是什么情况？](https://www.v2ex.com/t/862573) ![](assets/new.png)  
 - [2022-06-27-分享微波炉烘培咖啡豆](https://www.v2ex.com/t/862572) ![](assets/new.png)  
 - [2022-06-27-`Authing`-招聘前端开发工程师](https://www.v2ex.com/t/862571) ![](assets/new.png)  
-- [2022-06-27-机场的竞争这么激烈吗，两个头部机场撕起来了](https://www.v2ex.com/t/862570) ![](assets/new.png)  
 - [2022-06-27-分享一下自己将容器作为开发环境的方案](https://www.v2ex.com/t/862569) ![](assets/new.png)  
 - [2022-06-27-咨询个电信宽带-IP-的问题:curl-ifconfig.me-获取的-ip-和路由器上显示的-wan-IP-不一样](https://www.v2ex.com/t/862567) ![](assets/new.png)  
 - [2022-06-27-仅使用商业-saas-产品的客户端-sdk，不使用其收费的服务，是否合法?](https://www.v2ex.com/t/862566) ![](assets/new.png)  
 - [2022-06-27-简单写了一个线上的月老办事处，单身的小伙伴可以来试试~](https://www.v2ex.com/t/862565) ![](assets/new.png)  
 - [2022-06-27-为什么我一直都想不到呢](https://www.v2ex.com/t/862562) ![](assets/new.png)  
 - [2022-06-27-win11-的更新为什么总是在-48%停留很长时间](https://www.v2ex.com/t/862560) ![](assets/new.png)  
-- [2022-06-27-请问哪家的-vps-可以解锁-Disney-的-star-频道？](https://www.v2ex.com/t/862558) ![](assets/new.png)  
-- [2022-06-27-ma5671-桥接模式，-N1-拨号下，光猫一定要绑定-LAN-口吗？](https://www.v2ex.com/t/862557) ![](assets/new.png)  
-- [2022-06-27-安徽文科-1200-名，志愿怎么填？](https://www.v2ex.com/t/862556) ![](assets/new.png)  
-- [2022-06-27-Copilot-这周好像特别慢，大家有这种情况吗？](https://www.v2ex.com/t/862555) ![](assets/new.png)  
-- [2022-06-27-2022-年我的-Mac-软件黑名单](https://www.v2ex.com/t/862554) ![](assets/new.png)  
-- [2022-06-27-DNSPOD-挂了吗？部分地区找不到主机](https://www.v2ex.com/t/862552) ![](assets/new.png)  
-- [2022-06-27-本-3-前端，-react-技术栈](https://www.v2ex.com/t/862551) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -572,7 +572,7 @@
 - [2022-06-27-支付宝五福-AR-玩法及背后的互动引擎—Paladin](https://toutiao.io/k/0eld8gs) ![](assets/new.png)  
 - [2022-06-27-隐私计算FATE-离线预测](https://toutiao.io/k/q4z1x3f) ![](assets/new.png)  
 - [2022-06-27-推荐-3000帧动画图解MySQL为什么需要binlog、redo-log和undo-log](https://toutiao.io/k/b0g4460) ![](assets/new.png)  
-- [2022-06-27-推荐-肝了一个月的-DDD，一文带你掌握！](https://toutiao.io/k/bclz2n6) ![](assets/new.png)  
+- [2022-06-27-推荐-Redis夺命52连问](https://toutiao.io/k/he3fzao) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

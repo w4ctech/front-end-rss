@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-06-27 15:46:18。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-06-27 16:19:58。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -71,13 +71,20 @@
 - [【张鑫旭-鑫空间-鑫生活】2022-06-19-如何继承自定义元素及其他JS中扩展新方法](https://www.zhangxinxu.com/wordpress/2022/06/js-extend-class-custom-elements/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-06-12-基于文字的URL锚点定位与::target-text样式设置](https://www.zhangxinxu.com/wordpress/2022/06/url-anchor-target-text/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-06-11-介绍一种CSS变量未定义语法也OK的小妙招](https://www.zhangxinxu.com/wordpress/2022/06/css-var-optional-empty-trick/) 
+- [【V2EX】2022-06-27-musicforprogramming.net](https://www.v2ex.com/t/862585) 
+- [【V2EX】2022-06-27-macOS-Ventura-13.0-Beta-版22A5286j-间接性的卡死。。](https://www.v2ex.com/t/862584) 
+- [【V2EX】2022-06-27-近二个月和朋友玩-a-股，盈利-20-多个点，正常吗](https://www.v2ex.com/t/862583) 
+- [【V2EX】2022-06-27-现在还有人做在线医疗挂号这种系统吗](https://www.v2ex.com/t/862582) 
+- [【V2EX】2022-06-27-技术面和-hr-面的时候，你们一般分别会问什么](https://www.v2ex.com/t/862581) 
+- [【V2EX】2022-06-27-点外卖怎么找高评价但不买排位的商家？](https://www.v2ex.com/t/862580) 
+- [【V2EX】2022-06-27-又让我逮到了！-QQ-音乐后台偷跑上传带宽](https://www.v2ex.com/t/862579) 
+- [【V2EX】2022-06-27-已经去过两次兵检都没过还去医院检查过了，今年突然又被通知要去兵检](https://www.v2ex.com/t/862578) 
 - [【V2EX】2022-06-27-Kiwi-浏览器中文项目已上线，欢迎加入。](https://www.v2ex.com/t/862576) 
 - [【V2EX】2022-06-27-老哥们-成都买房好难啊-有没有建议](https://www.v2ex.com/t/862575) 
 - [【V2EX】2022-06-27-想做一个提醒大姨妈的-App，大家觉得叫什么名字比较好？](https://www.v2ex.com/t/862574) 
 - [【V2EX】2022-06-27-按-cmd+c-的时候屏幕会闪一下是什么情况？](https://www.v2ex.com/t/862573) 
 - [【V2EX】2022-06-27-分享微波炉烘培咖啡豆](https://www.v2ex.com/t/862572) 
 - [【V2EX】2022-06-27-`Authing`-招聘前端开发工程师](https://www.v2ex.com/t/862571) 
-- [【V2EX】2022-06-27-机场的竞争这么激烈吗，两个头部机场撕起来了](https://www.v2ex.com/t/862570) 
 - [【V2EX】2022-06-27-分享一下自己将容器作为开发环境的方案](https://www.v2ex.com/t/862569) 
 - [【V2EX】2022-06-27-咨询个电信宽带-IP-的问题:curl-ifconfig.me-获取的-ip-和路由器上显示的-wan-IP-不一样](https://www.v2ex.com/t/862567) 
 - [【V2EX】2022-06-27-仅使用商业-saas-产品的客户端-sdk，不使用其收费的服务，是否合法?](https://www.v2ex.com/t/862566) 
@@ -101,10 +108,6 @@
 - [【V2EX】2022-06-27-如何建立-Tailscale-的中转节点](https://www.v2ex.com/t/862540) 
 - [【V2EX】2022-06-27-最近在看-Kotlin-别人一些代码，-看到如下的代码惊呆了](https://www.v2ex.com/t/862539) 
 - [【V2EX】2022-06-27-算法红宝书第四版的-a-lot-配置问题...](https://www.v2ex.com/t/862537) 
-- [【V2EX】2022-06-27-怎么把公司-32-核开发机-dd-成纯净系统](https://www.v2ex.com/t/862535) 
-- [【V2EX】2022-06-27-哪家-smtp-发邮件最好？](https://www.v2ex.com/t/862531) 
-- [【V2EX】2022-06-27-LSTM-神经网络设计，双向输出结果需要折叠吗？](https://www.v2ex.com/t/862530) 
-- [【V2EX】2022-06-27-windows10-任务管理器中-GPU-相关图表办法更改默认显示项目吗？](https://www.v2ex.com/t/862527) 
 - [【技术头条】2022-06-27-你的代码会说话吗？（上）-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15211&url=https%3A%2F%2Finsights.thoughtworks.cn%2F%3Fp%3D16179%26amp%3Bpreview%3Dtrue%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-06-27-SpringBoot这样优化，让你的项目飞起来！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15210&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494249%26amp%3Bidx%3D2%26amp%3Bsn%3D81ee5cbc880d1c4c9e263fb7c7bd918d%26amp%3Bchksm%3Dfa3f0b32cd4882249d2e5f06fb5227b0380f3dfb629bf243a1cf69b198049fc30f1b093cfa0a%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-06-27-处理Exception的几种实践，被很多团队采纳！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15209&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494248%26amp%3Bidx%3D2%26amp%3Bsn%3D146c1e31aa0e2248595083b1058cc8ad%26amp%3Bchksm%3Dfa3f0b33cd488225a9933e4e95a352ff1e0b2f81111cbf15f63366a5d190d03c9417fe0c5583%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -144,10 +147,8 @@
 - [【开发者头条】2022-06-27-支付宝五福-AR-玩法及背后的互动引擎—Paladin](https://toutiao.io/k/0eld8gs) 
 - [【开发者头条】2022-06-27-隐私计算FATE-离线预测](https://toutiao.io/k/q4z1x3f) 
 - [【开发者头条】2022-06-27-推荐-3000帧动画图解MySQL为什么需要binlog、redo-log和undo-log](https://toutiao.io/k/b0g4460) 
-- [【开发者头条】2022-06-27-推荐-肝了一个月的-DDD，一文带你掌握！](https://toutiao.io/k/bclz2n6) 
-- [【开发者头条】2022-06-27-推荐-我们公司使用了-5-年的系统限流方案！从实现到部署实战详解，稳的一批!​](https://toutiao.io/k/4tls39t) 
 - [【开发者头条】2022-06-27-推荐-Redis夺命52连问](https://toutiao.io/k/he3fzao) 
-- [【开发者头条】2022-06-27-推荐-高并发下如何防重？](https://toutiao.io/k/ulsc0so) 
+- [【开发者头条】2022-06-27-推荐-我们公司使用了-5-年的系统限流方案！从实现到部署实战详解，稳的一批!​](https://toutiao.io/k/4tls39t) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

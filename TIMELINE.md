@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-06-27 20:15:10。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-06-27 20:41:02。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -147,9 +147,9 @@
 - [【开发者头条】2022-06-27-golang笔记](https://toutiao.io/k/htrxuyb) 
 - [【开发者头条】2022-06-27-支付宝五福-AR-玩法及背后的互动引擎—Paladin](https://toutiao.io/k/0eld8gs) 
 - [【开发者头条】2022-06-27-隐私计算FATE-离线预测](https://toutiao.io/k/q4z1x3f) 
+- [【开发者头条】2022-06-27-推荐-3000帧动画图解MySQL为什么需要binlog、redo-log和undo-log](https://toutiao.io/k/b0g4460) 
 - [【开发者头条】2022-06-27-推荐-我们公司使用了-5-年的系统限流方案！从实现到部署实战详解，稳的一批!​](https://toutiao.io/k/4tls39t) 
 - [【开发者头条】2022-06-27-推荐-Redis夺命52连问](https://toutiao.io/k/he3fzao) 
-- [【开发者头条】2022-06-27-推荐-3000帧动画图解MySQL为什么需要binlog、redo-log和undo-log](https://toutiao.io/k/b0g4460) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-06-27 22:39:56。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-06-27 23:03:14。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,7 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-06-27-请问：-什么数据库字段能存图文并排的文本？](https://www.v2ex.com/t/862597) 
 - [2022-06-27-工作四年小记](https://www.v2ex.com/t/862596) 
 - [2022-06-27-Ubuntu-22.04-如何安装-TL-WDN6200-wifi-驱动？](https://www.v2ex.com/t/862595) 
 - [2022-06-27-Alfred-5-Early-Access](https://www.v2ex.com/t/862594) 
@@ -1974,5 +1975,5 @@
 - [2022-06-27-golang笔记](https://toutiao.io/k/htrxuyb) 
 - [2022-06-27-支付宝五福-AR-玩法及背后的互动引擎—Paladin](https://toutiao.io/k/0eld8gs) 
 - [2022-06-27-隐私计算FATE-离线预测](https://toutiao.io/k/q4z1x3f) 
-- [2022-06-27-推荐-我们公司使用了-5-年的系统限流方案！从实现到部署实战详解，稳的一批!​](https://toutiao.io/k/4tls39t) 
 - [2022-06-27-推荐-Redis夺命52连问](https://toutiao.io/k/he3fzao) 
+- [2022-06-27-推荐-我们公司使用了-5-年的系统限流方案！从实现到部署实战详解，稳的一批!​](https://toutiao.io/k/4tls39t) 

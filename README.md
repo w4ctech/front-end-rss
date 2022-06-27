@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-06-27 01:07:53，:rocket: 更新条数: +2013， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-06-27 03:32:29，:rocket: 更新条数: +2024， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,26 +491,26 @@
 </summary>
 
 
-- [2022-06-27-无法从-iCloud-中拷贝文件夹到其他位置](https://www.v2ex.com/t/862387) ![](assets/new.png)  
-- [2022-06-27-域名续费哪家比较便宜可靠](https://www.v2ex.com/t/862386) ![](assets/new.png)  
-- [2022-06-27-手机和相机都有的情况下，大家是怎么对照片进行归档的？](https://www.v2ex.com/t/862385) ![](assets/new.png)  
-- [2022-06-27-ProjClean:-从系统中清理并删除包含库、依赖项、构建等的不必要目录](https://www.v2ex.com/t/862383) ![](assets/new.png)  
-- [2022-06-27-身份证安全问题](https://www.v2ex.com/t/862382) ![](assets/new.png)  
-- [2022-06-27-别买-M2-MacBook-Pro-的低配版（8GB+256GB）](https://www.v2ex.com/t/862381) ![](assets/new.png)  
-- [2022-06-27-有没有这样一个网站，可以查询历史房价成交价的呢？](https://www.v2ex.com/t/862380) ![](assets/new.png)  
-- [2022-06-27-支付宝有没有-macOS-版本](https://www.v2ex.com/t/862379) ![](assets/new.png)  
-- [2022-06-27-v4-和-v6-测试差距真大，这是-bug？](https://www.v2ex.com/t/862378) ![](assets/new.png)  
-- [2022-06-27-GitHub-Actions-报错求解答](https://www.v2ex.com/t/862376) ![](assets/new.png)  
-- [2022-06-26-MBP-的维修时间](https://www.v2ex.com/t/862375) ![](assets/new.png)  
-- [2022-06-26-南京建邺区奥南紫金泊寓怎么样？](https://www.v2ex.com/t/862374) ![](assets/new.png)  
-- [2022-06-26-重新安装-macOS-后开启-iCloud-同步，只有桌面不同步](https://www.v2ex.com/t/862372) ![](assets/new.png)  
-- [2022-06-26-如何优雅地维护多个-release-的-git-分支](https://www.v2ex.com/t/862371) ![](assets/new.png)  
-- [2022-06-26-QQ-出现大规模盗号情况](https://www.v2ex.com/t/862370) ![](assets/new.png)  
-- [2022-06-26-openwrt-断电后不能上网，硬件时间被重置为-2016.01.21](https://www.v2ex.com/t/862369) ![](assets/new.png)  
-- [2022-06-26-分享一则近期关于电信宽带-IPv6-的郁闷事](https://www.v2ex.com/t/862366) ![](assets/new.png)  
-- [2022-06-26-Thoughtworks-招-Salesforce-Developer](https://www.v2ex.com/t/862365) ![](assets/new.png)  
-- [2022-06-26-VSCode-是否有任何插件可以让-Markdown-在右侧预览的时候可以支持---/---x-这样的-To-Do-语法？](https://www.v2ex.com/t/862362) ![](assets/new.png)  
-- [2022-06-26-服务端流式渲染-iOS-中踩坑记](https://www.v2ex.com/t/862361) ![](assets/new.png)  
+- [2022-06-27-PP9.2-发布，推翻重做可视化沟通](https://www.v2ex.com/t/862425) ![](assets/new.png)  
+- [2022-06-27-M1-Mac-mini-显示桌面后，桌面图标无法单击或双击](https://www.v2ex.com/t/862423) ![](assets/new.png)  
+- [2022-06-27-谷歌文件极客的文件分享功能不能用](https://www.v2ex.com/t/862422) ![](assets/new.png)  
+- [2022-06-27-m1-Mac-外接显示器-锁-30Hz-bug,-以及神奇的解决办法..](https://www.v2ex.com/t/862421) ![](assets/new.png)  
+- [2022-06-27-我喜欢上了好朋友的前妻](https://www.v2ex.com/t/862420) ![](assets/new.png)  
+- [2022-06-27-请问-windows-上如何让-vim非-gvim支持-true-color?或者推荐一款仅需要-256color-支持的-colorscheme?](https://www.v2ex.com/t/862419) ![](assets/new.png)  
+- [2022-06-27-2022-求一张低消保号手机卡](https://www.v2ex.com/t/862418) ![](assets/new.png)  
+- [2022-06-27-手机喝丢了](https://www.v2ex.com/t/862417) ![](assets/new.png)  
+- [2022-06-27-「Data-TNS」部门招聘，实习社招均可](https://www.v2ex.com/t/862416) ![](assets/new.png)  
+- [2022-06-27-再次自荐下我的-Chrome-扩展插件网站，极简插件](https://www.v2ex.com/t/862414) ![](assets/new.png)  
+- [2022-06-27-分享下自己试用骨传导耳机的体验](https://www.v2ex.com/t/862413) ![](assets/new.png)  
+- [2022-06-27-windows-窗口如何隐藏标题栏？](https://www.v2ex.com/t/862411) ![](assets/new.png)  
+- [2022-06-27-Microsoft-Edge-更新后打开直播平台闪退，大家有这种情况吗？](https://www.v2ex.com/t/862408) ![](assets/new.png)  
+- [2022-06-27-什么情况下-AM-会变成手机端传输到-homepod-而](https://www.v2ex.com/t/862407) ![](assets/new.png)  
+- [2022-06-27-公司如此多娇，我该怎么办](https://www.v2ex.com/t/862406) ![](assets/new.png)  
+- [2022-06-27-客户端拿不到支付订单状态，如何处理这种异常比较合理](https://www.v2ex.com/t/862405) ![](assets/new.png)  
+- [2022-06-27-深圳西丽，求租-2-室一厅，预算-5000-左右，](https://www.v2ex.com/t/862404) ![](assets/new.png)  
+- [2022-06-27-12306-的滑块验证码用到了啥技术？](https://www.v2ex.com/t/862403) ![](assets/new.png)  
+- [2022-06-27-我写了一个用-SQL-转换-Go-struct-的工具](https://www.v2ex.com/t/862402) ![](assets/new.png)  
+- [2022-06-27-有-Linux-开发-hbuilder-uniapp-的吗？体验怎么样？](https://www.v2ex.com/t/862401) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -522,6 +522,7 @@
 </summary>
 
 
+- [2022-06-27-你的代码会说话吗？（上）-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15211&url=https%3A%2F%2Finsights.thoughtworks.cn%2F%3Fp%3D16179%26amp%3Bpreview%3Dtrue%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-06-27-SpringBoot这样优化，让你的项目飞起来！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15210&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494249%26amp%3Bidx%3D2%26amp%3Bsn%3D81ee5cbc880d1c4c9e263fb7c7bd918d%26amp%3Bchksm%3Dfa3f0b32cd4882249d2e5f06fb5227b0380f3dfb629bf243a1cf69b198049fc30f1b093cfa0a%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-06-27-处理Exception的几种实践，被很多团队采纳！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15209&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494248%26amp%3Bidx%3D2%26amp%3Bsn%3D146c1e31aa0e2248595083b1058cc8ad%26amp%3Bchksm%3Dfa3f0b33cd488225a9933e4e95a352ff1e0b2f81111cbf15f63366a5d190d03c9417fe0c5583%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-06-27-操作系统的发展与兴衰史-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15208&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494241%26amp%3Bidx%3D1%26amp%3Bsn%3Da29c05495bb4e307082366d64a6a4543%26amp%3Bchksm%3Dfa3f0b3acd48822cc86e727ca47f81e583e344538cad997d279eaef7a3001ccb79c3c68470a9%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
@@ -541,7 +542,6 @@
 - [2022-06-27-业务数据治理体系化思考与实践-tech.meituan.com](https://blogread.cn/news/go.php?idItem=15194&url=https%3A%2F%2Ftech.meituan.com%2F2022%2F05%2F12%2Fbusiness-data-governance.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-06-27-安全运营能力成熟度模型（SOMM）-www.sec-un.org](https://blogread.cn/news/go.php?idItem=15193&url=https%3A%2F%2Fwww.sec-un.org%2F%25e5%25ae%2589%25e5%2585%25a8%25e8%25bf%2590%25e8%2590%25a5%25e8%2583%25bd%25e5%258a%259b%25e6%2588%2590%25e7%2586%259f%25e5%25ba%25a6%25e6%25a8%25a1%25e5%259e%258b%25ef%25bc%2588somm%25ef%25bc%2589%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-06-27-拆分和合并-tar.gz-文件-www.awaimai.com](https://blogread.cn/news/go.php?idItem=15192&url=https%3A%2F%2Fwww.awaimai.com%2F2989.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-06-27-Java-正确获取对象内存地址的方式-www.awaimai.com](https://blogread.cn/news/go.php?idItem=15191&url=https%3A%2F%2Fwww.awaimai.com%2F2981.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -555,13 +555,19 @@
 
 - [2022-06-27-云计算的全球变局与中国故事](https://toutiao.io/k/9z6dese) ![](assets/new.png)  
 - [2022-06-27-介绍一个数据血缘的项目-OpenLineage](https://toutiao.io/k/pb9ns85) ![](assets/new.png)  
-- [2022-06-27-快用上PerformanceObserver，别再手动计算首屏时间了](https://toutiao.io/k/tbxln35) ![](assets/new.png)  
 - [2022-06-27-更准更快的YOLOv6来了，美团出品并开源](https://toutiao.io/k/jylzk4r) ![](assets/new.png)  
+- [2022-06-27-快用上PerformanceObserver，别再手动计算首屏时间了](https://toutiao.io/k/tbxln35) ![](assets/new.png)  
+- [2022-06-27-刨根问底:-Kafka-到底会不会丢数据？](https://toutiao.io/k/909ukbu) ![](assets/new.png)  
+- [2022-06-27-【合集】万字长文带你重温Elasticsearch-，这下完全懂了！](https://toutiao.io/k/etl9ji2) ![](assets/new.png)  
+- [2022-06-27-《梦华录》要大结局了，看超前点映不如先来学学它！](https://toutiao.io/k/vthq39j) ![](assets/new.png)  
+- [2022-06-27-内存马查杀思路](https://toutiao.io/k/zifkziv) ![](assets/new.png)  
+- [2022-06-27-Airbnb复盘微服务](https://toutiao.io/k/eqbc7zj) ![](assets/new.png)  
+- [2022-06-27-Linux-系统调用的来龙去脉-上](https://toutiao.io/k/wbnn90b) ![](assets/new.png)  
+- [2022-06-27-推荐-3000帧动画图解MySQL为什么需要binlog、redo-log和undo-log](https://toutiao.io/k/b0g4460) ![](assets/new.png)  
+- [2022-06-27-推荐-高并发下如何防重？](https://toutiao.io/k/ulsc0so) ![](assets/new.png)  
 - [2022-06-27-推荐-我们公司使用了-5-年的系统限流方案！从实现到部署实战详解，稳的一批!​](https://toutiao.io/k/4tls39t) ![](assets/new.png)  
 - [2022-06-27-推荐-Redis夺命52连问](https://toutiao.io/k/he3fzao) ![](assets/new.png)  
-- [2022-06-27-推荐-3000帧动画图解MySQL为什么需要binlog、redo-log和undo-log](https://toutiao.io/k/b0g4460) ![](assets/new.png)  
 - [2022-06-27-推荐-肝了一个月的-DDD，一文带你掌握！](https://toutiao.io/k/bclz2n6) ![](assets/new.png)  
-- [2022-06-27-推荐-高并发下如何防重？](https://toutiao.io/k/ulsc0so) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-06-27 01:07:53。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-06-27 03:32:29。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 前端进阶相关
 
@@ -7,4 +7,5 @@
 
 
 
-- [2022-06-26-北京/远程Web3SolidityNFT-VIMworld-国际化元宇宙数字藏品，招聘：前后端开发/合约开发/DevOps/QA-062622-更新](https://www.v2ex.com/t/862339) 
+- [2022-06-27-请问-windows-上如何让-vim非-gvim支持-true-color?或者推荐一款仅需要-256color-支持的-colorscheme?](https://www.v2ex.com/t/862419) 
+- [2022-06-27-【合集】万字长文带你重温Elasticsearch-，这下完全懂了！](https://toutiao.io/k/etl9ji2) 

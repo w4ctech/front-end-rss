@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-06-27 14:19:53，:rocket: 更新条数: +2021， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-06-27 14:39:37，:rocket: 更新条数: +2019， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,9 @@
 </summary>
 
 
+- [2022-06-27-仅使用商业-saas-产品的客户端-sdk，不使用其收费的服务，是否合法?](https://www.v2ex.com/t/862566) ![](assets/new.png)  
+- [2022-06-27-简单写了一个线上的月老办事处，单身的小伙伴可以来试试~](https://www.v2ex.com/t/862565) ![](assets/new.png)  
+- [2022-06-27-为什么我一直都想不到呢](https://www.v2ex.com/t/862562) ![](assets/new.png)  
 - [2022-06-27-win11-的更新为什么总是在-48%停留很长时间](https://www.v2ex.com/t/862560) ![](assets/new.png)  
 - [2022-06-27-请问哪家的-vps-可以解锁-Disney-的-star-频道？](https://www.v2ex.com/t/862558) ![](assets/new.png)  
 - [2022-06-27-ma5671-桥接模式，-N1-拨号下，光猫一定要绑定-LAN-口吗？](https://www.v2ex.com/t/862557) ![](assets/new.png)  
@@ -508,9 +511,6 @@
 - [2022-06-27-iPhone-XR-13.5.1-建议升级到-15.5-吗？](https://www.v2ex.com/t/862541) ![](assets/new.png)  
 - [2022-06-27-如何建立-Tailscale-的中转节点](https://www.v2ex.com/t/862540) ![](assets/new.png)  
 - [2022-06-27-最近在看-Kotlin-别人一些代码，-看到如下的代码惊呆了](https://www.v2ex.com/t/862539) ![](assets/new.png)  
-- [2022-06-27-算法红宝书第四版的-a-lot-配置问题...](https://www.v2ex.com/t/862537) ![](assets/new.png)  
-- [2022-06-27-怎么把公司-32-核开发机-dd-成纯净系统](https://www.v2ex.com/t/862535) ![](assets/new.png)  
-- [2022-06-27-哪家-smtp-发邮件最好？](https://www.v2ex.com/t/862531) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -571,8 +571,8 @@
 - [2022-06-27-且看-Netty-如何应对-TCP-连接的正常关闭，异常关闭，半关闭场景](https://toutiao.io/k/tk5oazo) ![](assets/new.png)  
 - [2022-06-27-支付宝五福-AR-玩法及背后的互动引擎—Paladin](https://toutiao.io/k/0eld8gs) ![](assets/new.png)  
 - [2022-06-27-隐私计算FATE-离线预测](https://toutiao.io/k/q4z1x3f) ![](assets/new.png)  
-- [2022-06-27-推荐-高并发下如何防重？](https://toutiao.io/k/ulsc0so) ![](assets/new.png)  
-- [2022-06-27-推荐-3000帧动画图解MySQL为什么需要binlog、redo-log和undo-log](https://toutiao.io/k/b0g4460) ![](assets/new.png)  
+- [2022-06-27-推荐-肝了一个月的-DDD，一文带你掌握！](https://toutiao.io/k/bclz2n6) ![](assets/new.png)  
+- [2022-06-27-推荐-我们公司使用了-5-年的系统限流方案！从实现到部署实战详解，稳的一批!​](https://toutiao.io/k/4tls39t) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

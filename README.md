@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-06-27 22:13:45，:rocket: 更新条数: +2025， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-06-27 22:39:56，:rocket: 更新条数: +2026， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-06-27-工作四年小记](https://www.v2ex.com/t/862596) ![](assets/new.png)  
 - [2022-06-27-Ubuntu-22.04-如何安装-TL-WDN6200-wifi-驱动？](https://www.v2ex.com/t/862595) ![](assets/new.png)  
 - [2022-06-27-Alfred-5-Early-Access](https://www.v2ex.com/t/862594) ![](assets/new.png)  
 - [2022-06-27-iOS-的原彩显示到底是用来干什么的，经常导致屏幕发黄，看起来好难受](https://www.v2ex.com/t/862593) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-06-27-已经去过两次兵检都没过还去医院检查过了，今年突然又被通知要去兵检](https://www.v2ex.com/t/862578) ![](assets/new.png)  
 - [2022-06-27-Kiwi-浏览器中文项目已上线，欢迎加入。](https://www.v2ex.com/t/862576) ![](assets/new.png)  
 - [2022-06-27-老哥们-成都买房好难啊-有没有建议](https://www.v2ex.com/t/862575) ![](assets/new.png)  
-- [2022-06-27-想做一个提醒大姨妈的-App，大家觉得叫什么名字比较好？](https://www.v2ex.com/t/862574) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

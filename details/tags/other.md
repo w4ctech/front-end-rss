@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-06-27 22:13:45。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-06-27 22:39:56。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,7 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-06-27-工作四年小记](https://www.v2ex.com/t/862596) 
 - [2022-06-27-Ubuntu-22.04-如何安装-TL-WDN6200-wifi-驱动？](https://www.v2ex.com/t/862595) 
 - [2022-06-27-Alfred-5-Early-Access](https://www.v2ex.com/t/862594) 
 - [2022-06-27-iOS-的原彩显示到底是用来干什么的，经常导致屏幕发黄，看起来好难受](https://www.v2ex.com/t/862593) 

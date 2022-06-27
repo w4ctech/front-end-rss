@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-06-27 22:13:45。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-06-27 22:39:56。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -71,6 +71,7 @@
 - [【张鑫旭-鑫空间-鑫生活】2022-06-19-如何继承自定义元素及其他JS中扩展新方法](https://www.zhangxinxu.com/wordpress/2022/06/js-extend-class-custom-elements/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-06-12-基于文字的URL锚点定位与::target-text样式设置](https://www.zhangxinxu.com/wordpress/2022/06/url-anchor-target-text/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-06-11-介绍一种CSS变量未定义语法也OK的小妙招](https://www.zhangxinxu.com/wordpress/2022/06/css-var-optional-empty-trick/) 
+- [【V2EX】2022-06-27-工作四年小记](https://www.v2ex.com/t/862596) 
 - [【V2EX】2022-06-27-Ubuntu-22.04-如何安装-TL-WDN6200-wifi-驱动？](https://www.v2ex.com/t/862595) 
 - [【V2EX】2022-06-27-Alfred-5-Early-Access](https://www.v2ex.com/t/862594) 
 - [【V2EX】2022-06-27-iOS-的原彩显示到底是用来干什么的，经常导致屏幕发黄，看起来好难受](https://www.v2ex.com/t/862593) 

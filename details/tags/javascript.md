@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-06-27 07:37:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-06-27 08:18:52。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -22,5 +22,4 @@
 - [2022-04-22-CSS实现滚动高度自动变小的粘滞效果](https://www.zhangxinxu.com/wordpress/2022/04/css-sticky-size-change/) 
 - [2022-06-27-花活讨论不虑兼容性的话,-纯-css-实现切角+四角边框样式的最好方法吗?-我现在除了直接丢图片和用-dom-遮挡想不出比较好的实现方式了](https://www.v2ex.com/t/862470) 
 - [2022-06-27-在-jQuery-环境下，怎么开发-SPA-应用程序，怎么配置路由？](https://www.v2ex.com/t/862457) 
-- [2022-06-27-啊啊啊啊，价位-500-600-有没有软路由推荐。](https://www.v2ex.com/t/862450) 
 - [2022-06-27-如何实现页面刷新后不定位到之前的滚动位置？-www.zhangxinxu.com](https://blogread.cn/news/go.php?idItem=15195&url=https%3A%2F%2Fwww.zhangxinxu.com%2Fwordpress%2F2022%2F05%2Fhistory-scrollrestoration%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-06-27 07:37:22，:rocket: 更新条数: +2029， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-06-27 08:18:52，:rocket: 更新条数: +2029， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,11 @@
 </summary>
 
 
+- [2022-06-27-除了-dataFaker，还有什么好的测试数据生成工具？](https://www.v2ex.com/t/862502) ![](assets/new.png)  
+- [2022-06-27-大家帮忙给个人博客提点意见](https://www.v2ex.com/t/862501) ![](assets/new.png)  
+- [2022-06-27-前端开发-如何仿照下面这种布局和滑动效果？](https://www.v2ex.com/t/862500) ![](assets/new.png)  
+- [2022-06-27-在折腾-NAS（常规-x86-主机），系统用的是-Ubuntu-20.04-LTS，应该启用-ZFS-吗（或者说目前-ZFS-的优势是什么）](https://www.v2ex.com/t/862499) ![](assets/new.png)  
+- [2022-06-27-自媒体天天洗稿，我天天洗代码。](https://www.v2ex.com/t/862498) ![](assets/new.png)  
 - [2022-06-27-发现一个-LOL-端游的-bug，很烦～](https://www.v2ex.com/t/862496) ![](assets/new.png)  
 - [2022-06-27-深圳同拳科技内推-6-月底更新](https://www.v2ex.com/t/862495) ![](assets/new.png)  
 - [2022-06-27-户外皮线能不能让电信给换了](https://www.v2ex.com/t/862494) ![](assets/new.png)  
@@ -506,11 +511,6 @@
 - [2022-06-27-windows-下如何通过公网映射-NAS-分区的问题](https://www.v2ex.com/t/862478) ![](assets/new.png)  
 - [2022-06-27-有没有同学想一起组队刷算法题（互相分享提高效率）？](https://www.v2ex.com/t/862477) ![](assets/new.png)  
 - [2022-06-27-新疆、云南、贵州、西藏旅游组队的朋友，七八月的有吗？](https://www.v2ex.com/t/862476) ![](assets/new.png)  
-- [2022-06-27-同样是为国家贡献，不交养老保险只定投国债可行吗？](https://www.v2ex.com/t/862475) ![](assets/new.png)  
-- [2022-06-27-转行做游戏代练可行吗？](https://www.v2ex.com/t/862474) ![](assets/new.png)  
-- [2022-06-27-QQ-音乐-iOS-无法续费](https://www.v2ex.com/t/862473) ![](assets/new.png)  
-- [2022-06-27-直播预告｜论道原生：云原生大数据建设与实践](https://www.v2ex.com/t/862472) ![](assets/new.png)  
-- [2022-06-27-花活讨论不虑兼容性的话,-纯-css-实现切角+四角边框样式的最好方法吗?-我现在除了直接丢图片和用-dom-遮挡想不出比较好的实现方式了](https://www.v2ex.com/t/862470) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -566,13 +566,13 @@
 - [2022-06-27-可落地的DDD6-工程结构](https://toutiao.io/k/zxr9jgw) ![](assets/new.png)  
 - [2022-06-27-golang笔记](https://toutiao.io/k/htrxuyb) ![](assets/new.png)  
 - [2022-06-27-百度评论中台的设计与探索](https://toutiao.io/k/4k02yo5) ![](assets/new.png)  
-- [2022-06-27-叮，GitHub-到账-550-美元「GitHub-热点速览-v.22.26」](https://toutiao.io/k/rqam3kw) ![](assets/new.png)  
 - [2022-06-27-支付宝五福-AR-玩法及背后的互动引擎—Paladin](https://toutiao.io/k/0eld8gs) ![](assets/new.png)  
 - [2022-06-27-居家办公竟比去公司上班还累？](https://toutiao.io/k/emkdso8) ![](assets/new.png)  
+- [2022-06-27-叮，GitHub-到账-550-美元「GitHub-热点速览-v.22.26」](https://toutiao.io/k/rqam3kw) ![](assets/new.png)  
 - [2022-06-27-且看-Netty-如何应对-TCP-连接的正常关闭，异常关闭，半关闭场景](https://toutiao.io/k/tk5oazo) ![](assets/new.png)  
 - [2022-06-27-隐私计算FATE-离线预测](https://toutiao.io/k/q4z1x3f) ![](assets/new.png)  
-- [2022-06-27-推荐-肝了一个月的-DDD，一文带你掌握！](https://toutiao.io/k/bclz2n6) ![](assets/new.png)  
-- [2022-06-27-推荐-Redis夺命52连问](https://toutiao.io/k/he3fzao) ![](assets/new.png)  
+- [2022-06-27-推荐-3000帧动画图解MySQL为什么需要binlog、redo-log和undo-log](https://toutiao.io/k/b0g4460) ![](assets/new.png)  
+- [2022-06-27-推荐-我们公司使用了-5-年的系统限流方案！从实现到部署实战详解，稳的一批!​](https://toutiao.io/k/4tls39t) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-06-28 09:13:21，:rocket: 更新条数: +2029， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-06-28 09:40:54，:rocket: 更新条数: +2029， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,10 @@
 </summary>
 
 
+- [2022-06-28-关于-Acme.sh-申请泛域名证书时，-d-参数顺序的疑问。](https://www.v2ex.com/t/862752) ![](assets/new.png)  
+- [2022-06-28-iOS-的-OneDrive-无法同步编辑过的照片？](https://www.v2ex.com/t/862751) ![](assets/new.png)  
+- [2022-06-28-耗时-73-天，钱终于要回来了](https://www.v2ex.com/t/862750) ![](assets/new.png)  
+- [2022-06-28-天才们给我换了新的屏幕和键盘后，机器却没法正常开机了](https://www.v2ex.com/t/862749) ![](assets/new.png)  
 - [2022-06-28-adguardhome-分流查询](https://www.v2ex.com/t/862748) ![](assets/new.png)  
 - [2022-06-28-前端开发，现在写-end-to-end-测试的话，有没有比较好用的？](https://www.v2ex.com/t/862746) ![](assets/new.png)  
 - [2022-06-28-macOS-Ventura-登录项的问题](https://www.v2ex.com/t/862744) ![](assets/new.png)  
@@ -507,10 +511,6 @@
 - [2022-06-28-智能手环买了有用吗](https://www.v2ex.com/t/862732) ![](assets/new.png)  
 - [2022-06-28-有什么制饮用冰水/冷水的好方式？](https://www.v2ex.com/t/862730) ![](assets/new.png)  
 - [2022-06-28-兄弟萌，遇到个问题，某鱼上收了个-AirPods-3，每次配对都提示-您正在连接与其他人的-Apple-ID-配对的物品,-该怎么移除？](https://www.v2ex.com/t/862729) ![](assets/new.png)  
-- [2022-06-28-社招内推北京Hulu大数据工程师](https://www.v2ex.com/t/862728) ![](assets/new.png)  
-- [2022-06-28-上海的工行牡丹畅通卡是开车必备的吗](https://www.v2ex.com/t/862727) ![](assets/new.png)  
-- [2022-06-28-有没有什么办法不让自带的输入法读取通讯录](https://www.v2ex.com/t/862726) ![](assets/new.png)  
-- [2022-06-28-golang-和-Java-哪个更好](https://www.v2ex.com/t/862724) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -572,7 +572,7 @@
 - [2022-06-28-《运营之光3.0》全新上市——跨越时代，自我颠覆的诚意之作！](https://toutiao.io/k/gy82esq) ![](assets/new.png)  
 - [2022-06-28-浅析-Istio：如何从网格中访问外部服务](https://toutiao.io/k/lcwh6o2) ![](assets/new.png)  
 - [2022-06-28-推荐-我们公司使用了-5-年的系统限流方案！从实现到部署实战详解，稳的一批!​](https://toutiao.io/k/4tls39t) ![](assets/new.png)  
-- [2022-06-28-推荐-3000帧动画图解MySQL为什么需要binlog、redo-log和undo-log](https://toutiao.io/k/b0g4460) ![](assets/new.png)  
+- [2022-06-28-推荐-Redis夺命52连问](https://toutiao.io/k/he3fzao) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

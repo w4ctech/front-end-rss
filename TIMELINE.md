@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-06-28 07:39:09。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-06-28 08:21:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -71,6 +71,14 @@
 - [【张鑫旭-鑫空间-鑫生活】2022-06-19-如何继承自定义元素及其他JS中扩展新方法](https://www.zhangxinxu.com/wordpress/2022/06/js-extend-class-custom-elements/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-06-12-基于文字的URL锚点定位与::target-text样式设置](https://www.zhangxinxu.com/wordpress/2022/06/url-anchor-target-text/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-06-11-介绍一种CSS变量未定义语法也OK的小妙招](https://www.zhangxinxu.com/wordpress/2022/06/css-var-optional-empty-trick/) 
+- [【V2EX】2022-06-28-免费学超-200-个-AI/论文小课，仅限在读高校生暑假期间](https://www.v2ex.com/t/862736) 
+- [【V2EX】2022-06-28-求助各位，最近想买保险，求各位有经验老哥推荐](https://www.v2ex.com/t/862734) 
+- [【V2EX】2022-06-28-windows-上最好的压缩软件是哪个](https://www.v2ex.com/t/862733) 
+- [【V2EX】2022-06-28-智能手环买了有用吗](https://www.v2ex.com/t/862732) 
+- [【V2EX】2022-06-28-有什么制饮用冰水/冷水的好方式？](https://www.v2ex.com/t/862730) 
+- [【V2EX】2022-06-28-兄弟萌，遇到个问题，某鱼上收了个-AirPods-3，每次配对都提示-您正在连接与其他人的-Apple-ID-配对的物品,-该怎么移除？](https://www.v2ex.com/t/862729) 
+- [【V2EX】2022-06-28-社招内推北京Hulu大数据工程师](https://www.v2ex.com/t/862728) 
+- [【V2EX】2022-06-28-上海的工行牡丹畅通卡是开车必备的吗](https://www.v2ex.com/t/862727) 
 - [【V2EX】2022-06-28-有没有什么办法不让自带的输入法读取通讯录](https://www.v2ex.com/t/862726) 
 - [【V2EX】2022-06-28-golang-和-Java-哪个更好](https://www.v2ex.com/t/862724) 
 - [【V2EX】2022-06-28-集思广益，点外卖送了很多可乐，但我不爱喝](https://www.v2ex.com/t/862723) 
@@ -102,11 +110,6 @@
 - [【V2EX】2022-06-28-想了解一下重庆联通宽带是否支持-ipv6,然后说了半天客服根本不知道-ipv6-是什么,反而还得解释-ipv6-是什么,服气-:](https://www.v2ex.com/t/862694) 
 - [【V2EX】2022-06-28-Github-Copliot-AI-智能代码补全确实是有用的，建议没用过的朋友都去用用](https://www.v2ex.com/t/862693) 
 - [【V2EX】2022-06-28-叮！-Techo-Day-腾讯技术开放日如约而至！](https://www.v2ex.com/t/862690) 
-- [【V2EX】2022-06-28-深度学习训练跑庞大数据集（大于内存）载入的正确方式？](https://www.v2ex.com/t/862685) 
-- [【V2EX】2022-06-28-iPhone-怎么下载发票吗？](https://www.v2ex.com/t/862684) 
-- [【V2EX】2022-06-28-mi11-pro-突然-wifi-烧了,-有没有推荐非小米的手机...](https://www.v2ex.com/t/862683) 
-- [【V2EX】2022-06-28-上海招聘-初创技术研发型公司（低代码方向）招聘-flutter-开发和-golang-开发](https://www.v2ex.com/t/862679) 
-- [【V2EX】2022-06-28-k8s-pod-莫名奇妙异常](https://www.v2ex.com/t/862678) 
 - [【技术头条】2022-06-28-如何设计数据可视化平台-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15212&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-design-data-visualization-platform%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-06-28-你的代码会说话吗？（上）-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15211&url=https%3A%2F%2Finsights.thoughtworks.cn%2F%3Fp%3D16179%26amp%3Bpreview%3Dtrue%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-06-28-SpringBoot这样优化，让你的项目飞起来！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15210&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494249%26amp%3Bidx%3D2%26amp%3Bsn%3D81ee5cbc880d1c4c9e263fb7c7bd918d%26amp%3Bchksm%3Dfa3f0b32cd4882249d2e5f06fb5227b0380f3dfb629bf243a1cf69b198049fc30f1b093cfa0a%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

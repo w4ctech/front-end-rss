@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-06-28 07:39:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-06-28 08:21:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,14 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-06-28-免费学超-200-个-AI/论文小课，仅限在读高校生暑假期间](https://www.v2ex.com/t/862736) 
+- [2022-06-28-求助各位，最近想买保险，求各位有经验老哥推荐](https://www.v2ex.com/t/862734) 
+- [2022-06-28-windows-上最好的压缩软件是哪个](https://www.v2ex.com/t/862733) 
+- [2022-06-28-智能手环买了有用吗](https://www.v2ex.com/t/862732) 
+- [2022-06-28-有什么制饮用冰水/冷水的好方式？](https://www.v2ex.com/t/862730) 
+- [2022-06-28-兄弟萌，遇到个问题，某鱼上收了个-AirPods-3，每次配对都提示-您正在连接与其他人的-Apple-ID-配对的物品,-该怎么移除？](https://www.v2ex.com/t/862729) 
+- [2022-06-28-社招内推北京Hulu大数据工程师](https://www.v2ex.com/t/862728) 
+- [2022-06-28-上海的工行牡丹畅通卡是开车必备的吗](https://www.v2ex.com/t/862727) 
 - [2022-06-28-有没有什么办法不让自带的输入法读取通讯录](https://www.v2ex.com/t/862726) 
 - [2022-06-28-golang-和-Java-哪个更好](https://www.v2ex.com/t/862724) 
 - [2022-06-28-集思广益，点外卖送了很多可乐，但我不爱喝](https://www.v2ex.com/t/862723) 
@@ -1937,10 +1945,6 @@
 - [2022-06-28-苹果的“小聪明”可真烦呀](https://www.v2ex.com/t/862695) 
 - [2022-06-28-想了解一下重庆联通宽带是否支持-ipv6,然后说了半天客服根本不知道-ipv6-是什么,反而还得解释-ipv6-是什么,服气-:](https://www.v2ex.com/t/862694) 
 - [2022-06-28-叮！-Techo-Day-腾讯技术开放日如约而至！](https://www.v2ex.com/t/862690) 
-- [2022-06-28-深度学习训练跑庞大数据集（大于内存）载入的正确方式？](https://www.v2ex.com/t/862685) 
-- [2022-06-28-iPhone-怎么下载发票吗？](https://www.v2ex.com/t/862684) 
-- [2022-06-28-mi11-pro-突然-wifi-烧了,-有没有推荐非小米的手机...](https://www.v2ex.com/t/862683) 
-- [2022-06-28-k8s-pod-莫名奇妙异常](https://www.v2ex.com/t/862678) 
 - [2022-06-28-如何设计数据可视化平台-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15212&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-design-data-visualization-platform%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-06-28-你的代码会说话吗？（上）-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15211&url=https%3A%2F%2Finsights.thoughtworks.cn%2F%3Fp%3D16179%26amp%3Bpreview%3Dtrue%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-06-28-处理Exception的几种实践，被很多团队采纳！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15209&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494248%26amp%3Bidx%3D2%26amp%3Bsn%3D146c1e31aa0e2248595083b1058cc8ad%26amp%3Bchksm%3Dfa3f0b33cd488225a9933e4e95a352ff1e0b2f81111cbf15f63366a5d190d03c9417fe0c5583%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

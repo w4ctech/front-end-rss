@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-06-28 07:39:09，:rocket: 更新条数: +2023， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-06-28 08:21:21，:rocket: 更新条数: +2026， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,14 @@
 </summary>
 
 
+- [2022-06-28-免费学超-200-个-AI/论文小课，仅限在读高校生暑假期间](https://www.v2ex.com/t/862736) ![](assets/new.png)  
+- [2022-06-28-求助各位，最近想买保险，求各位有经验老哥推荐](https://www.v2ex.com/t/862734) ![](assets/new.png)  
+- [2022-06-28-windows-上最好的压缩软件是哪个](https://www.v2ex.com/t/862733) ![](assets/new.png)  
+- [2022-06-28-智能手环买了有用吗](https://www.v2ex.com/t/862732) ![](assets/new.png)  
+- [2022-06-28-有什么制饮用冰水/冷水的好方式？](https://www.v2ex.com/t/862730) ![](assets/new.png)  
+- [2022-06-28-兄弟萌，遇到个问题，某鱼上收了个-AirPods-3，每次配对都提示-您正在连接与其他人的-Apple-ID-配对的物品,-该怎么移除？](https://www.v2ex.com/t/862729) ![](assets/new.png)  
+- [2022-06-28-社招内推北京Hulu大数据工程师](https://www.v2ex.com/t/862728) ![](assets/new.png)  
+- [2022-06-28-上海的工行牡丹畅通卡是开车必备的吗](https://www.v2ex.com/t/862727) ![](assets/new.png)  
 - [2022-06-28-有没有什么办法不让自带的输入法读取通讯录](https://www.v2ex.com/t/862726) ![](assets/new.png)  
 - [2022-06-28-golang-和-Java-哪个更好](https://www.v2ex.com/t/862724) ![](assets/new.png)  
 - [2022-06-28-集思广益，点外卖送了很多可乐，但我不爱喝](https://www.v2ex.com/t/862723) ![](assets/new.png)  
@@ -503,14 +511,6 @@
 - [2022-06-28-CODING-DevOps-助力中化信息打造新一代研效平台，驱动“线上中化”新未来](https://www.v2ex.com/t/862714) ![](assets/new.png)  
 - [2022-06-28-兄弟萌，遇到个问题，某鱼上收了个-AirPods-3，每次配对都提示-您正在连接与其他人的-Apple-ID-配对的物品,-怎么移除才行？](https://www.v2ex.com/t/862713) ![](assets/new.png)  
 - [2022-06-28-上海可以去三亚旅游，有组队的小伙伴吗？](https://www.v2ex.com/t/862711) ![](assets/new.png)  
-- [2022-06-28-似乎从-notion-开始,-各种编辑器中的功能,-都变成了类似命令式的,-为什么?-真的方便么?](https://www.v2ex.com/t/862710) ![](assets/new.png)  
-- [2022-06-28-利用-GitHub-Actions-做了一个阅读列表，每小时自动更新，欢迎关注：-Read-List](https://www.v2ex.com/t/862709) ![](assets/new.png)  
-- [2022-06-28-广州-Angular-前端开发急招！](https://www.v2ex.com/t/862708) ![](assets/new.png)  
-- [2022-06-28-如何搞清楚服务器使用情况-？](https://www.v2ex.com/t/862707) ![](assets/new.png)  
-- [2022-06-28-Airpod-按键声是模拟出来的吗？](https://www.v2ex.com/t/862706) ![](assets/new.png)  
-- [2022-06-28-广州招聘-美资技术型企业-Angular-前端开发-越秀区弹性工作](https://www.v2ex.com/t/862705) ![](assets/new.png)  
-- [2022-06-28-mobaxterm-是世界上最好用的-ssh-工具](https://www.v2ex.com/t/862704) ![](assets/new.png)  
-- [2022-06-28-macOS-上-Apple-Music-睡眠唤醒后播放没有声音](https://www.v2ex.com/t/862703) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

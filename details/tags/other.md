@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-06-28 15:15:36。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-06-28 15:44:42。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,7 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-06-28-米哈游招人啦！内推通道正式打开，-500+岗位-HC-等你来拿](https://www.v2ex.com/t/862804) 
 - [2022-06-28-Android-有没有开发车载-APP-或者工业-APP-的小伙伴](https://www.v2ex.com/t/862802) 
 - [2022-06-28-请教一下-MySQL-的乐观锁改造问题](https://www.v2ex.com/t/862800) 
 - [2022-06-28-支付方向-研发工程师/架构师，地点：上海](https://www.v2ex.com/t/862799) 

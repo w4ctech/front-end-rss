@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-06-28 06:48:43。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-06-28 07:13:16。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -71,6 +71,13 @@
 - [【张鑫旭-鑫空间-鑫生活】2022-06-19-如何继承自定义元素及其他JS中扩展新方法](https://www.zhangxinxu.com/wordpress/2022/06/js-extend-class-custom-elements/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-06-12-基于文字的URL锚点定位与::target-text样式设置](https://www.zhangxinxu.com/wordpress/2022/06/url-anchor-target-text/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-06-11-介绍一种CSS变量未定义语法也OK的小妙招](https://www.zhangxinxu.com/wordpress/2022/06/css-var-optional-empty-trick/) 
+- [【V2EX】2022-06-28-请教关于-magickeyboard-F13-19-和-touchbar-问题](https://www.v2ex.com/t/862716) 
+- [【V2EX】2022-06-28-分享一个网盘+markdown-笔记](https://www.v2ex.com/t/862715) 
+- [【V2EX】2022-06-28-CODING-DevOps-助力中化信息打造新一代研效平台，驱动“线上中化”新未来](https://www.v2ex.com/t/862714) 
+- [【V2EX】2022-06-28-兄弟萌，遇到个问题，某鱼上收了个-AirPods-3，每次配对都提示-您正在连接与其他人的-Apple-ID-配对的物品,-怎么移除才行？](https://www.v2ex.com/t/862713) 
+- [【V2EX】2022-06-28-上海可以去三亚旅游，有组队的小伙伴吗？](https://www.v2ex.com/t/862711) 
+- [【V2EX】2022-06-28-似乎从-notion-开始,-各种编辑器中的功能,-都变成了类似命令式的,-为什么?-真的方便么?](https://www.v2ex.com/t/862710) 
+- [【V2EX】2022-06-28-利用-GitHub-Actions-做了一个阅读列表，每小时自动更新，欢迎关注：-Read-List](https://www.v2ex.com/t/862709) 
 - [【V2EX】2022-06-28-广州-Angular-前端开发急招！](https://www.v2ex.com/t/862708) 
 - [【V2EX】2022-06-28-如何搞清楚服务器使用情况-？](https://www.v2ex.com/t/862707) 
 - [【V2EX】2022-06-28-Airpod-按键声是模拟出来的吗？](https://www.v2ex.com/t/862706) 
@@ -100,12 +107,6 @@
 - [【V2EX】2022-06-28-Banana-Pi-R2-PRO-是五口千兆路由开发板的最佳选择吗？](https://www.v2ex.com/t/862670) 
 - [【V2EX】2022-06-28-某猫超市-鲁花浓香花生油-6.16L-129](https://www.v2ex.com/t/862669) 
 - [【V2EX】2022-06-28-请问大家知道的有哪些开源软件、或者框架，提供一些付费服务，同时还做的不错的？](https://www.v2ex.com/t/862668) 
-- [【V2EX】2022-06-28-vscode-git-output-emoji-部分不正常显示](https://www.v2ex.com/t/862666) 
-- [【V2EX】2022-06-28-领克-06-2020-款-1.5T-耀-Halo，这款三缸的车子能入手吗](https://www.v2ex.com/t/862665) 
-- [【V2EX】2022-06-28-是不是-icloud-服务又坏了？](https://www.v2ex.com/t/862664) 
-- [【V2EX】2022-06-28-Kafka-数据同步](https://www.v2ex.com/t/862662) 
-- [【V2EX】2022-06-28-深圳-南京-2023-应届毕业生生大量招聘中](https://www.v2ex.com/t/862661) 
-- [【V2EX】2022-06-28-有人知道在哪里可以买到-HDMI-或者-DP-转-Type-C-的线吗？](https://www.v2ex.com/t/862659) 
 - [【技术头条】2022-06-28-如何设计数据可视化平台-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15212&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-design-data-visualization-platform%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-06-28-你的代码会说话吗？（上）-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15211&url=https%3A%2F%2Finsights.thoughtworks.cn%2F%3Fp%3D16179%26amp%3Bpreview%3Dtrue%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-06-28-SpringBoot这样优化，让你的项目飞起来！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15210&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494249%26amp%3Bidx%3D2%26amp%3Bsn%3D81ee5cbc880d1c4c9e263fb7c7bd918d%26amp%3Bchksm%3Dfa3f0b32cd4882249d2e5f06fb5227b0380f3dfb629bf243a1cf69b198049fc30f1b093cfa0a%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -131,9 +132,9 @@
 - [【开发者头条】2022-06-28-5-分钟，教你用-Docker-部署一个-Python-应用！](https://toutiao.io/k/7kq3vgz) 
 - [【开发者头条】2022-06-28-深度剖析-VS-Code-JavaScript-Debugger-功能及实现原理](https://toutiao.io/k/2it2q99) 
 - [【开发者头条】2022-06-28-HTTP/3-发布！](https://toutiao.io/k/x84l82k) 
+- [【开发者头条】2022-06-28-收藏！14-种异常检测方法总结](https://toutiao.io/k/bh8gao4) 
 - [【开发者头条】2022-06-28-顶级独立游戏开发者谈独立游戏在当前环境下的生存机会](https://toutiao.io/k/oekntvw) 
 - [【开发者头条】2022-06-28-干货-|-字节跳动埋点数据流建设与治理实践（上）](https://toutiao.io/k/lcomcbv) 
-- [【开发者头条】2022-06-28-收藏！14-种异常检测方法总结](https://toutiao.io/k/bh8gao4) 
 - [【开发者头条】2022-06-28-拒绝千篇一律，这套Go错误处理的完整解决方案值得一看！](https://toutiao.io/k/lwnupt3) 
 - [【开发者头条】2022-06-28-架构自治服务：构建数据驱动的架构洞察](https://toutiao.io/k/td9o3l1) 
 - [【开发者头条】2022-06-28-图解-|-Elasticsearch-获取两个索引数据不同之处的四种方案](https://toutiao.io/k/2fr94xp) 
@@ -141,12 +142,12 @@
 - [【开发者头条】2022-06-28-如何理解P2P网络？](https://toutiao.io/k/g15pdox) 
 - [【开发者头条】2022-06-28-带大家玩个有意思的东西，根据歌词获取歌曲片段~](https://toutiao.io/k/4yc8kv1) 
 - [【开发者头条】2022-06-28-后端开发面试考哪些？把这篇扔给他！](https://toutiao.io/k/c5w6h7l) 
-- [【开发者头条】2022-06-28-浅析-Istio：如何从网格中访问外部服务](https://toutiao.io/k/lcwh6o2) 
 - [【开发者头条】2022-06-28-《HelloGitHub》第-75-期](https://toutiao.io/k/blaigj9) 
+- [【开发者头条】2022-06-28-浅析-Istio：如何从网格中访问外部服务](https://toutiao.io/k/lcwh6o2) 
 - [【开发者头条】2022-06-28-《运营之光3.0》全新上市——跨越时代，自我颠覆的诚意之作！](https://toutiao.io/k/gy82esq) 
+- [【开发者头条】2022-06-28-推荐-3000帧动画图解MySQL为什么需要binlog、redo-log和undo-log](https://toutiao.io/k/b0g4460) 
 - [【开发者头条】2022-06-28-推荐-我们公司使用了-5-年的系统限流方案！从实现到部署实战详解，稳的一批!​](https://toutiao.io/k/4tls39t) 
 - [【开发者头条】2022-06-28-推荐-Redis夺命52连问](https://toutiao.io/k/he3fzao) 
-- [【开发者头条】2022-06-28-推荐-3000帧动画图解MySQL为什么需要binlog、redo-log和undo-log](https://toutiao.io/k/b0g4460) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

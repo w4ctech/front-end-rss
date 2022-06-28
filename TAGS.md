@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-06-28 06:48:43。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-06-28 07:13:16。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -337,8 +337,8 @@
 
 
 
+- [【V2EX】利用-GitHub-Actions-做了一个阅读列表，每小时自动更新，欢迎关注：-Read-List](https://www.v2ex.com/t/862709)
 - [【V2EX】Github-Copliot-AI-智能代码补全确实是有用的，建议没用过的朋友都去用用](https://www.v2ex.com/t/862693)
-- [【V2EX】vscode-git-output-emoji-部分不正常显示](https://www.v2ex.com/t/862666)
 - [【开发者头条】《HelloGitHub》第-75-期](https://toutiao.io/k/blaigj9)
 - [......【查看更多】......](./details/tags/git-svn.md)
 
@@ -357,7 +357,6 @@
 
 
 - [【V2EX】广州招聘-美资技术型企业-Angular-前端开发-越秀区弹性工作](https://www.v2ex.com/t/862705)
-- [【V2EX】深圳-南京-2023-应届毕业生生大量招聘中](https://www.v2ex.com/t/862661)
 - [【开发者头条】后端开发面试考哪些？把这篇扔给他！](https://toutiao.io/k/c5w6h7l)
 - [......【查看更多】......](./details/tags/job-interview.md)
 

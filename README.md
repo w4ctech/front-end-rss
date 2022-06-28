@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-06-28 23:13:28，:rocket: 更新条数: +2024， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-06-28 23:40:00，:rocket: 更新条数: +2024， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -560,8 +560,8 @@
 - [2022-06-28-收藏！14-种异常检测方法总结](https://toutiao.io/k/bh8gao4) ![](assets/new.png)  
 - [2022-06-28-拒绝千篇一律，这套Go错误处理的完整解决方案值得一看！](https://toutiao.io/k/lwnupt3) ![](assets/new.png)  
 - [2022-06-28-干货-|-字节跳动埋点数据流建设与治理实践（上）](https://toutiao.io/k/lcomcbv) ![](assets/new.png)  
-- [2022-06-28-如何理解P2P网络？](https://toutiao.io/k/g15pdox) ![](assets/new.png)  
 - [2022-06-28-HTTP/3-发布！](https://toutiao.io/k/x84l82k) ![](assets/new.png)  
+- [2022-06-28-如何理解P2P网络？](https://toutiao.io/k/g15pdox) ![](assets/new.png)  
 - [2022-06-28-带大家玩个有意思的东西，根据歌词获取歌曲片段~](https://toutiao.io/k/4yc8kv1) ![](assets/new.png)  
 - [2022-06-28-顶级独立游戏开发者谈独立游戏在当前环境下的生存机会](https://toutiao.io/k/oekntvw) ![](assets/new.png)  
 - [2022-06-28-网易严选离线数仓质量建设实践](https://toutiao.io/k/0ni28qh) ![](assets/new.png)  
@@ -571,8 +571,8 @@
 - [2022-06-28-后端开发面试考哪些？把这篇扔给他！](https://toutiao.io/k/c5w6h7l) ![](assets/new.png)  
 - [2022-06-28-《运营之光3.0》全新上市——跨越时代，自我颠覆的诚意之作！](https://toutiao.io/k/gy82esq) ![](assets/new.png)  
 - [2022-06-28-浅析-Istio：如何从网格中访问外部服务](https://toutiao.io/k/lcwh6o2) ![](assets/new.png)  
-- [2022-06-28-推荐-我们公司使用了-5-年的系统限流方案！从实现到部署实战详解，稳的一批!​](https://toutiao.io/k/4tls39t) ![](assets/new.png)  
 - [2022-06-28-推荐-3000帧动画图解MySQL为什么需要binlog、redo-log和undo-log](https://toutiao.io/k/b0g4460) ![](assets/new.png)  
+- [2022-06-28-推荐-我们公司使用了-5-年的系统限流方案！从实现到部署实战详解，稳的一批!​](https://toutiao.io/k/4tls39t) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

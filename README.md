@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-06-28 22:15:14，:rocket: 更新条数: +2024， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-06-28 22:42:35，:rocket: 更新条数: +2024， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -565,14 +565,14 @@
 - [2022-06-28-带大家玩个有意思的东西，根据歌词获取歌曲片段~](https://toutiao.io/k/4yc8kv1) ![](assets/new.png)  
 - [2022-06-28-顶级独立游戏开发者谈独立游戏在当前环境下的生存机会](https://toutiao.io/k/oekntvw) ![](assets/new.png)  
 - [2022-06-28-网易严选离线数仓质量建设实践](https://toutiao.io/k/0ni28qh) ![](assets/new.png)  
-- [2022-06-28-架构自治服务：构建数据驱动的架构洞察](https://toutiao.io/k/td9o3l1) ![](assets/new.png)  
 - [2022-06-28-图解-|-Elasticsearch-获取两个索引数据不同之处的四种方案](https://toutiao.io/k/2fr94xp) ![](assets/new.png)  
+- [2022-06-28-架构自治服务：构建数据驱动的架构洞察](https://toutiao.io/k/td9o3l1) ![](assets/new.png)  
 - [2022-06-28-《HelloGitHub》第-75-期](https://toutiao.io/k/blaigj9) ![](assets/new.png)  
 - [2022-06-28-后端开发面试考哪些？把这篇扔给他！](https://toutiao.io/k/c5w6h7l) ![](assets/new.png)  
 - [2022-06-28-《运营之光3.0》全新上市——跨越时代，自我颠覆的诚意之作！](https://toutiao.io/k/gy82esq) ![](assets/new.png)  
 - [2022-06-28-浅析-Istio：如何从网格中访问外部服务](https://toutiao.io/k/lcwh6o2) ![](assets/new.png)  
-- [2022-06-28-推荐-3000帧动画图解MySQL为什么需要binlog、redo-log和undo-log](https://toutiao.io/k/b0g4460) ![](assets/new.png)  
 - [2022-06-28-推荐-Redis夺命52连问](https://toutiao.io/k/he3fzao) ![](assets/new.png)  
+- [2022-06-28-推荐-3000帧动画图解MySQL为什么需要binlog、redo-log和undo-log](https://toutiao.io/k/b0g4460) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

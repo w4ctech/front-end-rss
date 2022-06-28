@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-06-28 05:45:54，:rocket: 更新条数: +2017， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-06-28 06:17:53，:rocket: 更新条数: +2021， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,14 @@
 </summary>
 
 
+- [2022-06-28-想了解一下重庆联通宽带是否支持-ipv6,然后说了半天客服根本不知道-ipv6-是什么,反而还得解析-ipv6-是什么,服气-:](https://www.v2ex.com/t/862694) ![](assets/new.png)  
+- [2022-06-28-Github-Copliot-AI-智能代码补全确实是有用的，建议没用过的朋友都去用用](https://www.v2ex.com/t/862693) ![](assets/new.png)  
+- [2022-06-28-叮！-Techo-Day-腾讯技术开放日如约而至！](https://www.v2ex.com/t/862690) ![](assets/new.png)  
+- [2022-06-28-旅游组队，新疆、云南、西藏，川西，西北……](https://www.v2ex.com/t/862689) ![](assets/new.png)  
+- [2022-06-28-成都某小区无预警作废门禁卡,目前仅扫脸或保安开门才能回家](https://www.v2ex.com/t/862687) ![](assets/new.png)  
+- [2022-06-28-深度学习训练跑庞大数据集（大于内存）载入的正确方式？](https://www.v2ex.com/t/862685) ![](assets/new.png)  
+- [2022-06-28-iPhone-怎么下载发票吗？](https://www.v2ex.com/t/862684) ![](assets/new.png)  
+- [2022-06-28-mi11-pro-突然-wifi-烧了,-有没有推荐非小米的手机...](https://www.v2ex.com/t/862683) ![](assets/new.png)  
 - [2022-06-28-上海招聘-初创技术研发型公司（低代码方向）招聘-flutter-开发和-golang-开发](https://www.v2ex.com/t/862679) ![](assets/new.png)  
 - [2022-06-28-k8s-pod-莫名奇妙异常](https://www.v2ex.com/t/862678) ![](assets/new.png)  
 - [2022-06-28-Chrome-os-第三方输入法问题](https://www.v2ex.com/t/862676) ![](assets/new.png)  
@@ -503,14 +511,6 @@
 - [2022-06-28-vscode-git-output-emoji-部分不正常显示](https://www.v2ex.com/t/862666) ![](assets/new.png)  
 - [2022-06-28-领克-06-2020-款-1.5T-耀-Halo，这款三缸的车子能入手吗](https://www.v2ex.com/t/862665) ![](assets/new.png)  
 - [2022-06-28-是不是-icloud-服务又坏了？](https://www.v2ex.com/t/862664) ![](assets/new.png)  
-- [2022-06-28-Kafka-数据同步](https://www.v2ex.com/t/862662) ![](assets/new.png)  
-- [2022-06-28-深圳-南京-2023-应届毕业生生大量招聘中](https://www.v2ex.com/t/862661) ![](assets/new.png)  
-- [2022-06-28-有人知道在哪里可以买到-HDMI-或者-DP-转-Type-C-的线吗？](https://www.v2ex.com/t/862659) ![](assets/new.png)  
-- [2022-06-28-这是什么-NT-系统！](https://www.v2ex.com/t/862658) ![](assets/new.png)  
-- [2022-06-28-有人在学习前端的过程中，总是遇到这样的烦恼吗？](https://www.v2ex.com/t/862657) ![](assets/new.png)  
-- [2022-06-28-万能-v-友，河南考试-621-分，排名-6875-理科，帮忙参考一下这几个学校](https://www.v2ex.com/t/862656) ![](assets/new.png)  
-- [2022-06-28-除了-karabiner-elements-还有什么好用的改键工具?](https://www.v2ex.com/t/862655) ![](assets/new.png)  
-- [2022-06-28-群晖在路由监控列表发现很多-PPTV-连接-但是没有开启过相关软件-如何排查？](https://www.v2ex.com/t/862653) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -565,9 +565,14 @@
 - [2022-06-28-架构自治服务：构建数据驱动的架构洞察](https://toutiao.io/k/td9o3l1) ![](assets/new.png)  
 - [2022-06-28-图解-|-Elasticsearch-获取两个索引数据不同之处的四种方案](https://toutiao.io/k/2fr94xp) ![](assets/new.png)  
 - [2022-06-28-网易严选离线数仓质量建设实践](https://toutiao.io/k/0ni28qh) ![](assets/new.png)  
-- [2022-06-28-推荐-Redis夺命52连问](https://toutiao.io/k/he3fzao) ![](assets/new.png)  
-- [2022-06-28-推荐-3000帧动画图解MySQL为什么需要binlog、redo-log和undo-log](https://toutiao.io/k/b0g4460) ![](assets/new.png)  
+- [2022-06-28-如何理解P2P网络？](https://toutiao.io/k/g15pdox) ![](assets/new.png)  
+- [2022-06-28-带大家玩个有意思的东西，根据歌词获取歌曲片段~](https://toutiao.io/k/4yc8kv1) ![](assets/new.png)  
+- [2022-06-28-后端开发面试考哪些？把这篇扔给他！](https://toutiao.io/k/c5w6h7l) ![](assets/new.png)  
+- [2022-06-28-《运营之光3.0》全新上市——跨越时代，自我颠覆的诚意之作！](https://toutiao.io/k/gy82esq) ![](assets/new.png)  
+- [2022-06-28-《HelloGitHub》第-75-期](https://toutiao.io/k/blaigj9) ![](assets/new.png)  
+- [2022-06-28-浅析-Istio：如何从网格中访问外部服务](https://toutiao.io/k/lcwh6o2) ![](assets/new.png)  
 - [2022-06-28-推荐-我们公司使用了-5-年的系统限流方案！从实现到部署实战详解，稳的一批!​](https://toutiao.io/k/4tls39t) ![](assets/new.png)  
+- [2022-06-28-推荐-3000帧动画图解MySQL为什么需要binlog、redo-log和undo-log](https://toutiao.io/k/b0g4460) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

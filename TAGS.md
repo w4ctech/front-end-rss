@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-06-28 05:45:54。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-06-28 06:17:53。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -121,7 +121,6 @@
 
 
 
-- [【V2EX】时光邮局小程序成员招募](https://www.v2ex.com/t/862632)
 - [......【查看更多】......](./details/tags/miniprogram.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -156,7 +155,6 @@
 
 
 
-- [【V2EX】上海网易（游戏业务）诚招运维和-DBA，欢迎投递简历](https://www.v2ex.com/t/862634)
 - [【开发者头条】顶级独立游戏开发者谈独立游戏在当前环境下的生存机会](https://toutiao.io/k/oekntvw)
 - [......【查看更多】......](./details/tags/dev-game.md)
 
@@ -339,8 +337,10 @@
 
 
 
+- [【V2EX】Github-Copliot-AI-智能代码补全确实是有用的，建议没用过的朋友都去用用](https://www.v2ex.com/t/862693)
 - [【V2EX】vscode-git-output-emoji-部分不正常显示](https://www.v2ex.com/t/862666)
 - [【V2EX】好玩的开源月刊「HelloGitHub」第-75-期](https://www.v2ex.com/t/862652)
+- [【开发者头条】《HelloGitHub》第-75-期](https://toutiao.io/k/blaigj9)
 - [......【查看更多】......](./details/tags/git-svn.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -358,6 +358,7 @@
 
 
 - [【V2EX】深圳-南京-2023-应届毕业生生大量招聘中](https://www.v2ex.com/t/862661)
+- [【开发者头条】后端开发面试考哪些？把这篇扔给他！](https://toutiao.io/k/c5w6h7l)
 - [......【查看更多】......](./details/tags/job-interview.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

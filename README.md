@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-06-28 17:32:06，:rocket: 更新条数: +2023， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-06-28 17:47:41，:rocket: 更新条数: +2024， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-06-28-earth.fm-世界各地自然的声音](https://www.v2ex.com/t/862813) ![](assets/new.png)  
 - [2022-06-28-有什么方法可以测试-VPS-IP-的纯净度呢？](https://www.v2ex.com/t/862812) ![](assets/new.png)  
 - [2022-06-28-吐槽一下，-storyboard-为什么会这么卡](https://www.v2ex.com/t/862810) ![](assets/new.png)  
 - [2022-06-28-苹果设备ios上有无这种-notpad-工具？当前一个文档，可以-PC-over-Web-写，-ios-本屏上也可改?（或者其它方式实现？）](https://www.v2ex.com/t/862809) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-06-28-macbook-air-m2-24GB-256GB-可以满足普通-web-开发者吗？](https://www.v2ex.com/t/862790) ![](assets/new.png)  
 - [2022-06-28-ITX-装机分享（日用静音参考）](https://www.v2ex.com/t/862789) ![](assets/new.png)  
 - [2022-06-28-Mac-版日历无法和-iPhoneiPad-同步](https://www.v2ex.com/t/862788) ![](assets/new.png)  
-- [2022-06-28-GIT-求救](https://www.v2ex.com/t/862787) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -572,7 +572,7 @@
 - [2022-06-28-《运营之光3.0》全新上市——跨越时代，自我颠覆的诚意之作！](https://toutiao.io/k/gy82esq) ![](assets/new.png)  
 - [2022-06-28-浅析-Istio：如何从网格中访问外部服务](https://toutiao.io/k/lcwh6o2) ![](assets/new.png)  
 - [2022-06-28-推荐-我们公司使用了-5-年的系统限流方案！从实现到部署实战详解，稳的一批!​](https://toutiao.io/k/4tls39t) ![](assets/new.png)  
-- [2022-06-28-推荐-3000帧动画图解MySQL为什么需要binlog、redo-log和undo-log](https://toutiao.io/k/b0g4460) ![](assets/new.png)  
+- [2022-06-28-推荐-Redis夺命52连问](https://toutiao.io/k/he3fzao) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

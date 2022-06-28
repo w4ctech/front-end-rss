@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-06-28 17:32:06。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-06-28 17:47:41。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,7 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-06-28-earth.fm-世界各地自然的声音](https://www.v2ex.com/t/862813) 
 - [2022-06-28-有什么方法可以测试-VPS-IP-的纯净度呢？](https://www.v2ex.com/t/862812) 
 - [2022-06-28-吐槽一下，-storyboard-为什么会这么卡](https://www.v2ex.com/t/862810) 
 - [2022-06-28-苹果设备ios上有无这种-notpad-工具？当前一个文档，可以-PC-over-Web-写，-ios-本屏上也可改?（或者其它方式实现？）](https://www.v2ex.com/t/862809) 

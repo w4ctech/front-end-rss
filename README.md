@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-06-28 19:11:26，:rocket: 更新条数: +2024， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-06-28 19:37:09，:rocket: 更新条数: +2024， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-06-28-VIM-9-Released](https://www.v2ex.com/t/862816) ![](assets/new.png)  
 - [2022-06-28-分享一下你们觉得难以处理的验证码😏](https://www.v2ex.com/t/862815) ![](assets/new.png)  
 - [2022-06-28-求解，-Java-实现的-CMS-开源项目或者方案](https://www.v2ex.com/t/862814) ![](assets/new.png)  
 - [2022-06-28-earth.fm-世界各地自然的声音](https://www.v2ex.com/t/862813) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-06-28-求教大神一个硬盘满了的问题](https://www.v2ex.com/t/862796) ![](assets/new.png)  
 - [2022-06-28-钛盘-不限空间不限速，没跑路。](https://www.v2ex.com/t/862795) ![](assets/new.png)  
 - [2022-06-28-想通过-kafka--Python-检查所有-topic-producer-使用的压缩算法。](https://www.v2ex.com/t/862791) ![](assets/new.png)  
-- [2022-06-28-macbook-air-m2-24GB-256GB-可以满足普通-web-开发者吗？](https://www.v2ex.com/t/862790) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -571,8 +571,8 @@
 - [2022-06-28-后端开发面试考哪些？把这篇扔给他！](https://toutiao.io/k/c5w6h7l) ![](assets/new.png)  
 - [2022-06-28-《运营之光3.0》全新上市——跨越时代，自我颠覆的诚意之作！](https://toutiao.io/k/gy82esq) ![](assets/new.png)  
 - [2022-06-28-浅析-Istio：如何从网格中访问外部服务](https://toutiao.io/k/lcwh6o2) ![](assets/new.png)  
-- [2022-06-28-推荐-3000帧动画图解MySQL为什么需要binlog、redo-log和undo-log](https://toutiao.io/k/b0g4460) ![](assets/new.png)  
 - [2022-06-28-推荐-Redis夺命52连问](https://toutiao.io/k/he3fzao) ![](assets/new.png)  
+- [2022-06-28-推荐-3000帧动画图解MySQL为什么需要binlog、redo-log和undo-log](https://toutiao.io/k/b0g4460) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-06-28 13:56:44。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-06-28 14:13:18。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -71,6 +71,8 @@
 - [【张鑫旭-鑫空间-鑫生活】2022-06-19-如何继承自定义元素及其他JS中扩展新方法](https://www.zhangxinxu.com/wordpress/2022/06/js-extend-class-custom-elements/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-06-12-基于文字的URL锚点定位与::target-text样式设置](https://www.zhangxinxu.com/wordpress/2022/06/url-anchor-target-text/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-06-11-介绍一种CSS变量未定义语法也OK的小妙招](https://www.zhangxinxu.com/wordpress/2022/06/css-var-optional-empty-trick/) 
+- [【V2EX】2022-06-28-想通过-kafka--Python-检查所有-topic-producer-使用的压缩算法。](https://www.v2ex.com/t/862791) 
+- [【V2EX】2022-06-28-macbook-air-m2-24GB-256GB-可以满足普通-web-开发者吗？](https://www.v2ex.com/t/862790) 
 - [【V2EX】2022-06-28-ITX-装机分享（日用静音参考）](https://www.v2ex.com/t/862789) 
 - [【V2EX】2022-06-28-Mac-版日历无法和-iPhoneiPad-同步](https://www.v2ex.com/t/862788) 
 - [【V2EX】2022-06-28-GIT-求救](https://www.v2ex.com/t/862787) 
@@ -108,8 +110,6 @@
 - [【V2EX】2022-06-28-macOS-Ventura-登录项的问题](https://www.v2ex.com/t/862744) 
 - [【V2EX】2022-06-28-寻求-whmcs-开发支持](https://www.v2ex.com/t/862743) 
 - [【V2EX】2022-06-28-翻-rust-issues-发现一个可怕的优化-bug](https://www.v2ex.com/t/862742) 
-- [【V2EX】2022-06-28-vue-项目-缺少-package.json-如何才能运行-vue-项目？](https://www.v2ex.com/t/862741) 
-- [【V2EX】2022-06-28-上海创业团队职位：安卓前端工程师，薪水：-18~25-k，-13-月](https://www.v2ex.com/t/862740) 
 - [【技术头条】2022-06-28-如何设计数据可视化平台-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15212&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-design-data-visualization-platform%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-06-28-你的代码会说话吗？（上）-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15211&url=https%3A%2F%2Finsights.thoughtworks.cn%2F%3Fp%3D16179%26amp%3Bpreview%3Dtrue%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-06-28-SpringBoot这样优化，让你的项目飞起来！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15210&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494249%26amp%3Bidx%3D2%26amp%3Bsn%3D81ee5cbc880d1c4c9e263fb7c7bd918d%26amp%3Bchksm%3Dfa3f0b32cd4882249d2e5f06fb5227b0380f3dfb629bf243a1cf69b198049fc30f1b093cfa0a%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -148,9 +148,9 @@
 - [【开发者头条】2022-06-28-后端开发面试考哪些？把这篇扔给他！](https://toutiao.io/k/c5w6h7l) 
 - [【开发者头条】2022-06-28-《运营之光3.0》全新上市——跨越时代，自我颠覆的诚意之作！](https://toutiao.io/k/gy82esq) 
 - [【开发者头条】2022-06-28-浅析-Istio：如何从网格中访问外部服务](https://toutiao.io/k/lcwh6o2) 
-- [【开发者头条】2022-06-28-推荐-Redis夺命52连问](https://toutiao.io/k/he3fzao) 
 - [【开发者头条】2022-06-28-推荐-我们公司使用了-5-年的系统限流方案！从实现到部署实战详解，稳的一批!​](https://toutiao.io/k/4tls39t) 
 - [【开发者头条】2022-06-28-推荐-3000帧动画图解MySQL为什么需要binlog、redo-log和undo-log](https://toutiao.io/k/b0g4460) 
+- [【开发者头条】2022-06-28-推荐-Redis夺命52连问](https://toutiao.io/k/he3fzao) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

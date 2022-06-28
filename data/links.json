@@ -9953,6 +9953,16 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "想通过 kafka- Python 检查所有 topic producer 使用的压缩算法。",
+        "link": "https://www.v2ex.com/t/862791",
+        "date": "2022-06-28"
+      },
+      {
+        "title": "macbook air m2 24GB 256GB 可以满足普通 web 开发者吗？",
+        "link": "https://www.v2ex.com/t/862790",
+        "date": "2022-06-28"
+      },
+      {
         "title": "ITX 装机分享（日用静音参考）",
         "link": "https://www.v2ex.com/t/862789",
         "date": "2022-06-28"
@@ -10135,16 +10145,6 @@
       {
         "title": "翻 rust issues 发现一个可怕的优化 bug",
         "link": "https://www.v2ex.com/t/862742",
-        "date": "2022-06-28"
-      },
-      {
-        "title": "[vue 项目] 缺少 package.json 如何才能运行 vue 项目？",
-        "link": "https://www.v2ex.com/t/862741",
-        "date": "2022-06-28"
-      },
-      {
-        "title": "上海创业团队职位：安卓前端工程师，薪水： 18~25 k， 13 月",
-        "link": "https://www.v2ex.com/t/862740",
         "date": "2022-06-28"
       }
     ]
@@ -10352,11 +10352,6 @@
         "date": "2022-06-28"
       },
       {
-        "title": "[推荐] Redis夺命52连问",
-        "link": "https://toutiao.io/k/he3fzao",
-        "date": "2022-06-28"
-      },
-      {
         "title": "[推荐] 我们公司使用了 5 年的系统限流方案！从实现到部署实战详解，稳的一批!​",
         "link": "https://toutiao.io/k/4tls39t",
         "date": "2022-06-28"
@@ -10364,6 +10359,11 @@
       {
         "title": "[推荐] 3000帧动画图解MySQL为什么需要binlog、redo log和undo log",
         "link": "https://toutiao.io/k/b0g4460",
+        "date": "2022-06-28"
+      },
+      {
+        "title": "[推荐] Redis夺命52连问",
+        "link": "https://toutiao.io/k/he3fzao",
         "date": "2022-06-28"
       }
     ]

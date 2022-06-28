@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-06-28 13:56:44。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-06-28 14:13:18。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -55,7 +55,6 @@
 
 
 
-- [【V2EX】vue-项目-缺少-package.json-如何才能运行-vue-项目？](https://www.v2ex.com/t/862741)
 - [......【查看更多】......](./details/tags/vue.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -302,6 +301,7 @@
 
 
 
+- [【V2EX】想通过-kafka--Python-检查所有-topic-producer-使用的压缩算法。](https://www.v2ex.com/t/862791)
 - [【开发者头条】HTTP/3-发布！](https://toutiao.io/k/x84l82k)
 - [【开发者头条】图解-|-Elasticsearch-获取两个索引数据不同之处的四种方案](https://toutiao.io/k/2fr94xp)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)

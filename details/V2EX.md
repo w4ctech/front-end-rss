@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2022-06-28 13:56:44。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-06-28 14:13:18。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-06-28-想通过-kafka--Python-检查所有-topic-producer-使用的压缩算法。](https://www.v2ex.com/t/862791) 
+- [2022-06-28-macbook-air-m2-24GB-256GB-可以满足普通-web-开发者吗？](https://www.v2ex.com/t/862790) 
 - [2022-06-28-ITX-装机分享（日用静音参考）](https://www.v2ex.com/t/862789) 
 - [2022-06-28-Mac-版日历无法和-iPhoneiPad-同步](https://www.v2ex.com/t/862788) 
 - [2022-06-28-GIT-求救](https://www.v2ex.com/t/862787) 
@@ -42,5 +44,3 @@
 - [2022-06-28-macOS-Ventura-登录项的问题](https://www.v2ex.com/t/862744) 
 - [2022-06-28-寻求-whmcs-开发支持](https://www.v2ex.com/t/862743) 
 - [2022-06-28-翻-rust-issues-发现一个可怕的优化-bug](https://www.v2ex.com/t/862742) 
-- [2022-06-28-vue-项目-缺少-package.json-如何才能运行-vue-项目？](https://www.v2ex.com/t/862741) 
-- [2022-06-28-上海创业团队职位：安卓前端工程师，薪水：-18~25-k，-13-月](https://www.v2ex.com/t/862740) 

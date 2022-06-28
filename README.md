@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-06-28 13:56:44，:rocket: 更新条数: +2026， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-06-28 14:13:18，:rocket: 更新条数: +2026， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-06-28-想通过-kafka--Python-检查所有-topic-producer-使用的压缩算法。](https://www.v2ex.com/t/862791) ![](assets/new.png)  
+- [2022-06-28-macbook-air-m2-24GB-256GB-可以满足普通-web-开发者吗？](https://www.v2ex.com/t/862790) ![](assets/new.png)  
 - [2022-06-28-ITX-装机分享（日用静音参考）](https://www.v2ex.com/t/862789) ![](assets/new.png)  
 - [2022-06-28-Mac-版日历无法和-iPhoneiPad-同步](https://www.v2ex.com/t/862788) ![](assets/new.png)  
 - [2022-06-28-GIT-求救](https://www.v2ex.com/t/862787) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-06-28-手持-MI-12-，想换-MI-12-S，怎么操作？](https://www.v2ex.com/t/862769) ![](assets/new.png)  
 - [2022-06-28-我一个同学是做建筑设计的，想问下各位大佬，两年的工作经历，随缘问问这里有没有需要这方面的人才的老板，需要的联系我呀。](https://www.v2ex.com/t/862767) ![](assets/new.png)  
 - [2022-06-28-有使用过-protobufjs-的大佬吗，请教嵌套的类怎么-create-阿？](https://www.v2ex.com/t/862766) ![](assets/new.png)  
-- [2022-06-28-618-买的戴尔-U2723QX-准备退货了](https://www.v2ex.com/t/862765) ![](assets/new.png)  
-- [2022-06-28-上海-·-远程-创业团队（奇绩创坛投资）招聘前端实习生](https://www.v2ex.com/t/862764) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -571,8 +571,8 @@
 - [2022-06-28-后端开发面试考哪些？把这篇扔给他！](https://toutiao.io/k/c5w6h7l) ![](assets/new.png)  
 - [2022-06-28-《运营之光3.0》全新上市——跨越时代，自我颠覆的诚意之作！](https://toutiao.io/k/gy82esq) ![](assets/new.png)  
 - [2022-06-28-浅析-Istio：如何从网格中访问外部服务](https://toutiao.io/k/lcwh6o2) ![](assets/new.png)  
-- [2022-06-28-推荐-Redis夺命52连问](https://toutiao.io/k/he3fzao) ![](assets/new.png)  
 - [2022-06-28-推荐-我们公司使用了-5-年的系统限流方案！从实现到部署实战详解，稳的一批!​](https://toutiao.io/k/4tls39t) ![](assets/new.png)  
+- [2022-06-28-推荐-3000帧动画图解MySQL为什么需要binlog、redo-log和undo-log](https://toutiao.io/k/b0g4460) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

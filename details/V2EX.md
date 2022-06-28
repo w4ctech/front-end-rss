@@ -1,10 +1,17 @@
-:alarm_clock: 更新时间: 2022-06-28 13:14:50。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-06-28 13:56:44。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-06-28-ITX-装机分享（日用静音参考）](https://www.v2ex.com/t/862789) 
+- [2022-06-28-Mac-版日历无法和-iPhoneiPad-同步](https://www.v2ex.com/t/862788) 
+- [2022-06-28-GIT-求救](https://www.v2ex.com/t/862787) 
+- [2022-06-28-surge-for-Mac-三个车位！有兴趣的联系我吧！](https://www.v2ex.com/t/862786) 
+- [2022-06-28-大家有定期捐款的习惯吗，有哪些比较正规可信的公益捐款平台？](https://www.v2ex.com/t/862785) 
+- [2022-06-28-V-站仁兄们，纠结要不要接这个-offer](https://www.v2ex.com/t/862784) 
+- [2022-06-28-一个用-PyTorch-实现的最小化的-DALL·E](https://www.v2ex.com/t/862783) 
 - [2022-06-28-好纠结，咋办](https://www.v2ex.com/t/862781) 
 - [2022-06-28-有办法越狱-iOS15-的-iPad-mini5-吗？](https://www.v2ex.com/t/862779) 
 - [2022-06-28-求一款咖啡的平替饮料](https://www.v2ex.com/t/862777) 
@@ -37,9 +44,3 @@
 - [2022-06-28-翻-rust-issues-发现一个可怕的优化-bug](https://www.v2ex.com/t/862742) 
 - [2022-06-28-vue-项目-缺少-package.json-如何才能运行-vue-项目？](https://www.v2ex.com/t/862741) 
 - [2022-06-28-上海创业团队职位：安卓前端工程师，薪水：-18~25-k，-13-月](https://www.v2ex.com/t/862740) 
-- [2022-06-28-ubuntu-去掉桌面，直接启动应用](https://www.v2ex.com/t/862739) 
-- [2022-06-28-好奇-watch-的运动检测机制。进来交流一下。](https://www.v2ex.com/t/862738) 
-- [2022-06-28-上海徐汇区漕河泾附近求租房](https://www.v2ex.com/t/862737) 
-- [2022-06-28-免费学超-200-个-AI/论文小课，仅限在读高校生暑假期间](https://www.v2ex.com/t/862736) 
-- [2022-06-28-求助各位，最近想买保险，求各位有经验老哥推荐](https://www.v2ex.com/t/862734) 
-- [2022-06-28-windows-上最好的压缩软件是哪个](https://www.v2ex.com/t/862733) 

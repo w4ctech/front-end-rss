@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-01 09:14:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-01 09:41:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 前端进阶相关
 
@@ -7,4 +7,5 @@
 
 
 
+- [2022-07-01-vimEasymotion-移动跳转，触发语法检查了怎么办呐？](https://www.v2ex.com/t/863489) 
 - [2022-07-01-neovim-中文群](https://www.v2ex.com/t/863450) 

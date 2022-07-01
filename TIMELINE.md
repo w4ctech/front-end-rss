@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-01 09:14:24。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-07-01 09:41:19。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,12 @@
 </summary>
 
 
+- [【V2EX】2022-07-01-想把-macbook-pro-做成-NAS，建立影音库，有些问题需要请教](https://www.v2ex.com/t/863494) 
+- [【V2EX】2022-07-01-macos-访达中连接-smb-服务器如何切换-445-以外的端口？](https://www.v2ex.com/t/863493) 
+- [【V2EX】2022-07-01-请教一下大佬.我们这个情况应该如何设计](https://www.v2ex.com/t/863492) 
+- [【V2EX】2022-07-01-深圳面交，回馈-V-友，全新京东自营换货未拆-12400f](https://www.v2ex.com/t/863490) 
+- [【V2EX】2022-07-01-vimEasymotion-移动跳转，触发语法检查了怎么办呐？](https://www.v2ex.com/t/863489) 
+- [【V2EX】2022-07-01-surge-for-mac-玩法？](https://www.v2ex.com/t/863488) 
 - [【V2EX】2022-07-01-windows11-的-Terminal-命令行输入-git-会卡死，有遇到过的没？](https://www.v2ex.com/t/863487) 
 - [【V2EX】2022-07-01-通过-zerotier-连接-A-网络的-ftp-服务器,总是连到-B-网络的-ftp-服务器](https://www.v2ex.com/t/863486) 
 - [【V2EX】2022-07-01-nodejs-mongodb](https://www.v2ex.com/t/863484) 
@@ -105,12 +111,6 @@
 - [【V2EX】2022-07-01-关于-L2TP/ipsec-协议](https://www.v2ex.com/t/863447) 
 - [【V2EX】2022-07-01-Life's-a-struggle，做了个低/零代码平台](https://www.v2ex.com/t/863446) 
 - [【V2EX】2022-07-01-Afterpay（Square-后端大数据平台开发工程师火热招募中](https://www.v2ex.com/t/863445) 
-- [【V2EX】2022-07-01-上海-招前端（ts-+-react，简历可直推），另，-后端-vue-也可内推](https://www.v2ex.com/t/863444) 
-- [【V2EX】2022-07-01-自建开源笔记服务-Trilium-Notes-汉化版更新](https://www.v2ex.com/t/863442) 
-- [【V2EX】2022-07-01-Redis-里-List-是耗内存最小的数据类型吗？](https://www.v2ex.com/t/863441) 
-- [【V2EX】2022-07-01-上海-有-23、24-年毕业的同学找信息安全方向的实习哇](https://www.v2ex.com/t/863440) 
-- [【V2EX】2022-07-01-有没有开源-Linux-可视化监控页面（面板）？](https://www.v2ex.com/t/863439) 
-- [【V2EX】2022-07-01-黑苹果笔记本翻车，急需一款局域网远程或者无线投屏](https://www.v2ex.com/t/863438) 
 - [【技术头条】2022-07-01-故事点-vs.-人天-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15213&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fagile-estimation-story-points-man-day%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-01-如何设计数据可视化平台-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15212&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-design-data-visualization-platform%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-01-你的代码会说话吗？（上）-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15211&url=https%3A%2F%2Finsights.thoughtworks.cn%2F%3Fp%3D16179%26amp%3Bpreview%3Dtrue%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -148,8 +148,8 @@
 - [【开发者头条】2022-07-01-爆肝一个月的Clickhouse入门篇持续更新中](https://toutiao.io/k/i8hgrov) 
 - [【开发者头条】2022-07-01-一不小心，就踩了-tomcat-的这个坑](https://toutiao.io/k/44hrpkx) 
 - [【开发者头条】2022-07-01-探秘Weak实现原理](https://toutiao.io/k/lhjdquj) 
-- [【开发者头条】2022-07-01-推荐-3000帧动画图解MySQL为什么需要binlog、redo-log和undo-log](https://toutiao.io/k/b0g4460) 
 - [【开发者头条】2022-07-01-推荐-Redis夺命52连问](https://toutiao.io/k/he3fzao) 
+- [【开发者头条】2022-07-01-推荐-3000帧动画图解MySQL为什么需要binlog、redo-log和undo-log](https://toutiao.io/k/b0g4460) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

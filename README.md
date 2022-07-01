@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-07-01 09:14:24，:rocket: 更新条数: +2028， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-07-01 09:41:19，:rocket: 更新条数: +2028， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,12 @@
 </summary>
 
 
+- [2022-07-01-想把-macbook-pro-做成-NAS，建立影音库，有些问题需要请教](https://www.v2ex.com/t/863494) ![](assets/new.png)  
+- [2022-07-01-macos-访达中连接-smb-服务器如何切换-445-以外的端口？](https://www.v2ex.com/t/863493) ![](assets/new.png)  
+- [2022-07-01-请教一下大佬.我们这个情况应该如何设计](https://www.v2ex.com/t/863492) ![](assets/new.png)  
+- [2022-07-01-深圳面交，回馈-V-友，全新京东自营换货未拆-12400f](https://www.v2ex.com/t/863490) ![](assets/new.png)  
+- [2022-07-01-vimEasymotion-移动跳转，触发语法检查了怎么办呐？](https://www.v2ex.com/t/863489) ![](assets/new.png)  
+- [2022-07-01-surge-for-mac-玩法？](https://www.v2ex.com/t/863488) ![](assets/new.png)  
 - [2022-07-01-windows11-的-Terminal-命令行输入-git-会卡死，有遇到过的没？](https://www.v2ex.com/t/863487) ![](assets/new.png)  
 - [2022-07-01-通过-zerotier-连接-A-网络的-ftp-服务器,总是连到-B-网络的-ftp-服务器](https://www.v2ex.com/t/863486) ![](assets/new.png)  
 - [2022-07-01-nodejs-mongodb](https://www.v2ex.com/t/863484) ![](assets/new.png)  
@@ -505,12 +511,6 @@
 - [2022-07-01-留长发想剪短发，剪短发，又会后悔，然后留长发去烫头，然后长发又想剪短发](https://www.v2ex.com/t/863473) ![](assets/new.png)  
 - [2022-07-01-一个局域网下,-Windows有线接入可以通过-ipv6-测试,-macOS无线连接不行,-何解?](https://www.v2ex.com/t/863472) ![](assets/new.png)  
 - [2022-07-01-各位前辈有带实习生的经验么，传授一下](https://www.v2ex.com/t/863471) ![](assets/new.png)  
-- [2022-07-01-请教大家几个-Go-写业务的工程实践的上的问题](https://www.v2ex.com/t/863470) ![](assets/new.png)  
-- [2022-07-01-海鲜市场员工优惠咋都没了](https://www.v2ex.com/t/863469) ![](assets/new.png)  
-- [2022-07-01-《十年死磕，从一线工程师到-CEO》](https://www.v2ex.com/t/863468) ![](assets/new.png)  
-- [2022-07-01-直播-8-首页的竖线右侧没内容了，竖线不能去掉么](https://www.v2ex.com/t/863467) ![](assets/new.png)  
-- [2022-07-01-尝鲜激活广电-5G-192-号段的体验](https://www.v2ex.com/t/863466) ![](assets/new.png)  
-- [2022-07-01-三十岁学历低女生能找什么样的工作](https://www.v2ex.com/t/863465) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -570,8 +570,8 @@
 - [2022-07-01-爆肝一个月的Clickhouse入门篇持续更新中](https://toutiao.io/k/i8hgrov) ![](assets/new.png)  
 - [2022-07-01-一不小心，就踩了-tomcat-的这个坑](https://toutiao.io/k/44hrpkx) ![](assets/new.png)  
 - [2022-07-01-探秘Weak实现原理](https://toutiao.io/k/lhjdquj) ![](assets/new.png)  
-- [2022-07-01-推荐-3000帧动画图解MySQL为什么需要binlog、redo-log和undo-log](https://toutiao.io/k/b0g4460) ![](assets/new.png)  
 - [2022-07-01-推荐-Redis夺命52连问](https://toutiao.io/k/he3fzao) ![](assets/new.png)  
+- [2022-07-01-推荐-3000帧动画图解MySQL为什么需要binlog、redo-log和undo-log](https://toutiao.io/k/b0g4460) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

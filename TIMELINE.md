@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-01 20:42:18。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-07-01 21:14:00。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,7 @@
 </summary>
 
 
+- [【V2EX】2022-07-01-mac-怎么判断路由器-LAN-口是百兆还是千兆？](https://www.v2ex.com/t/863560) 
 - [【V2EX】2022-07-01-Steam-Deck-也学会了悄悄让幸运用户享受低速-SSD](https://www.v2ex.com/t/863559) 
 - [【V2EX】2022-07-01-同一个-20-核-128GB-RAM-无显卡虚拟机，在-Windows-10-2016-LTSB+Ubuntu-16.04-下用同版本同参数的-ffmpeg-压缩视频，为什么-Windows-总比-Ubuntu-快-25%？](https://www.v2ex.com/t/863558) 
 - [【V2EX】2022-07-01-因停电来咨询，小区大规模停电着国家电网还是物业](https://www.v2ex.com/t/863557) 
@@ -101,7 +102,6 @@
 - [【V2EX】2022-07-01-开源/远程-RSS3-母公司-Natural-Selection-Labs-寻找智能合约工程师和高级全栈工程师](https://www.v2ex.com/t/863513) 
 - [【V2EX】2022-07-01-阿里小号变“空号”](https://www.v2ex.com/t/863512) 
 - [【V2EX】2022-07-01-如何出版一本技术图书----写在《C++20-高级编程》出版之时](https://www.v2ex.com/t/863511) 
-- [【V2EX】2022-07-01-最近发现好像大多数程序员都不太会用-Figma-和-PowerDesigner-不知道是不是这种情况](https://www.v2ex.com/t/863510) 
 - [【技术头条】2022-07-01-故事点-vs.-人天-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15213&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fagile-estimation-story-points-man-day%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-01-如何设计数据可视化平台-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15212&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-design-data-visualization-platform%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-01-你的代码会说话吗？（上）-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15211&url=https%3A%2F%2Finsights.thoughtworks.cn%2F%3Fp%3D16179%26amp%3Bpreview%3Dtrue%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

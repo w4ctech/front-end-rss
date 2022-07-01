@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-01 20:42:18。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-01 21:14:00。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1937,7 +1937,6 @@
 - [2022-07-01-Seafile-同步至-COS-时只能同步目录。](https://www.v2ex.com/t/863514) 
 - [2022-07-01-阿里小号变“空号”](https://www.v2ex.com/t/863512) 
 - [2022-07-01-如何出版一本技术图书----写在《C++20-高级编程》出版之时](https://www.v2ex.com/t/863511) 
-- [2022-07-01-最近发现好像大多数程序员都不太会用-Figma-和-PowerDesigner-不知道是不是这种情况](https://www.v2ex.com/t/863510) 
 - [2022-07-01-故事点-vs.-人天-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15213&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fagile-estimation-story-points-man-day%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-01-如何设计数据可视化平台-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15212&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-design-data-visualization-platform%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-01-你的代码会说话吗？（上）-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15211&url=https%3A%2F%2Finsights.thoughtworks.cn%2F%3Fp%3D16179%26amp%3Bpreview%3Dtrue%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

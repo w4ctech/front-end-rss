@@ -9953,6 +9953,26 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "升级 16 后发现电脑备份不在身边无法正常降级 15.5",
+        "link": "https://www.v2ex.com/t/863520",
+        "date": "2022-07-01"
+      },
+      {
+        "title": "台式机 板 U 从 Intel 到 AMD， windows10 系统需要重新装吗？",
+        "link": "https://www.v2ex.com/t/863519",
+        "date": "2022-07-01"
+      },
+      {
+        "title": "在 GITHUB 搜了半天没有实现 V2EX API 的 Python SDK，全都是自己抓包实现的。刚学 Python ，按照 V2EX 的 API DOC 实现了一下 API 调用 SDK...已上架 pypi",
+        "link": "https://www.v2ex.com/t/863517",
+        "date": "2022-07-01"
+      },
+      {
+        "title": "[远程/全职] 运维/mysql/sre/",
+        "link": "https://www.v2ex.com/t/863516",
+        "date": "2022-07-01"
+      },
+      {
         "title": "Seafile 同步至 COS 时只能同步目录。",
         "link": "https://www.v2ex.com/t/863514",
         "date": "2022-07-01"
@@ -10015,11 +10035,6 @@
       {
         "title": "求一个 M1 Macbook 能用的扩展坞",
         "link": "https://www.v2ex.com/t/863502",
-        "date": "2022-07-01"
-      },
-      {
-        "title": "直营店取货遇到大雨。。",
-        "link": "https://www.v2ex.com/t/863499",
         "date": "2022-07-01"
       },
       {
@@ -10128,11 +10143,6 @@
         "date": "2022-07-01"
       },
       {
-        "title": "留长发想剪短发，剪短发，又会后悔，然后留长发去烫头，然后长发又想剪短发",
-        "link": "https://www.v2ex.com/t/863473",
-        "date": "2022-07-01"
-      },
-      {
         "title": "一个局域网下, Windows(有线接入)可以通过 ipv6 测试, macOS(无线连接)不行, 何解?",
         "link": "https://www.v2ex.com/t/863472",
         "date": "2022-07-01"
@@ -10140,31 +10150,6 @@
       {
         "title": "各位前辈有带实习生的经验么，传授一下",
         "link": "https://www.v2ex.com/t/863471",
-        "date": "2022-07-01"
-      },
-      {
-        "title": "请教大家几个 Go 写业务的工程实践的上的问题",
-        "link": "https://www.v2ex.com/t/863470",
-        "date": "2022-07-01"
-      },
-      {
-        "title": "海鲜市场员工优惠咋都没了",
-        "link": "https://www.v2ex.com/t/863469",
-        "date": "2022-07-01"
-      },
-      {
-        "title": "《十年死磕，从一线工程师到 CEO》",
-        "link": "https://www.v2ex.com/t/863468",
-        "date": "2022-07-01"
-      },
-      {
-        "title": "直播 8 首页的竖线右侧没内容了，竖线不能去掉么",
-        "link": "https://www.v2ex.com/t/863467",
-        "date": "2022-07-01"
-      },
-      {
-        "title": "尝鲜激活广电 5G 192 号段的体验",
-        "link": "https://www.v2ex.com/t/863466",
         "date": "2022-07-01"
       }
     ]
@@ -10317,6 +10302,11 @@
         "date": "2022-07-01"
       },
       {
+        "title": "Google 的软件工程",
+        "link": "https://toutiao.io/k/3snz69l",
+        "date": "2022-07-01"
+      },
+      {
         "title": "探索Glide原理",
         "link": "https://toutiao.io/k/tx553c1",
         "date": "2022-07-01"
@@ -10327,23 +10317,18 @@
         "date": "2022-07-01"
       },
       {
-        "title": "Google 的软件工程",
-        "link": "https://toutiao.io/k/3snz69l",
-        "date": "2022-07-01"
-      },
-      {
         "title": "可观测｜时序数据降采样在Prometheus实践复盘",
         "link": "https://toutiao.io/k/vbqwtm4",
         "date": "2022-07-01"
       },
       {
-        "title": "Go1.19 那些事：国产芯片、内存模型等新特性，你知道多少？",
-        "link": "https://toutiao.io/k/q3p8l9h",
+        "title": "爆肝一个月的Clickhouse入门篇(持续更新中)",
+        "link": "https://toutiao.io/k/i8hgrov",
         "date": "2022-07-01"
       },
       {
-        "title": "爆肝一个月的Clickhouse入门篇(持续更新中)",
-        "link": "https://toutiao.io/k/i8hgrov",
+        "title": "Go1.19 那些事：国产芯片、内存模型等新特性，你知道多少？",
+        "link": "https://toutiao.io/k/q3p8l9h",
         "date": "2022-07-01"
       },
       {
@@ -10367,13 +10352,13 @@
         "date": "2022-07-01"
       },
       {
-        "title": "[推荐] Redis夺命52连问",
-        "link": "https://toutiao.io/k/he3fzao",
+        "title": "[推荐] 3000帧动画图解MySQL为什么需要binlog、redo log和undo log",
+        "link": "https://toutiao.io/k/b0g4460",
         "date": "2022-07-01"
       },
       {
-        "title": "[推荐] 3000帧动画图解MySQL为什么需要binlog、redo log和undo log",
-        "link": "https://toutiao.io/k/b0g4460",
+        "title": "[推荐] Redis夺命52连问",
+        "link": "https://toutiao.io/k/he3fzao",
         "date": "2022-07-01"
       }
     ]

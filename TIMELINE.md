@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-01 12:26:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-07-01 13:12:03。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,10 @@
 </summary>
 
 
+- [【V2EX】2022-07-01-升级-16-后发现电脑备份不在身边无法正常降级-15.5](https://www.v2ex.com/t/863520) 
+- [【V2EX】2022-07-01-台式机-板-U-从-Intel-到-AMD，-windows10-系统需要重新装吗？](https://www.v2ex.com/t/863519) 
+- [【V2EX】2022-07-01-在-GITHUB-搜了半天没有实现-V2EX-API-的-Python-SDK，全都是自己抓包实现的。刚学-Python-，按照-V2EX-的-API-DOC-实现了一下-API-调用-SDK...已上架-pypi](https://www.v2ex.com/t/863517) 
+- [【V2EX】2022-07-01-远程/全职-运维/mysql/sre/](https://www.v2ex.com/t/863516) 
 - [【V2EX】2022-07-01-Seafile-同步至-COS-时只能同步目录。](https://www.v2ex.com/t/863514) 
 - [【V2EX】2022-07-01-开源/远程-RSS3-母公司-Natural-Selection-Labs-寻找智能合约工程师和高级全栈工程师](https://www.v2ex.com/t/863513) 
 - [【V2EX】2022-07-01-阿里小号变“空号”](https://www.v2ex.com/t/863512) 
@@ -81,7 +85,6 @@
 - [【V2EX】2022-07-01-yarn-和-npm-真的区别很大嘛](https://www.v2ex.com/t/863504) 
 - [【V2EX】2022-07-01-无糖快乐水确实不太快乐](https://www.v2ex.com/t/863503) 
 - [【V2EX】2022-07-01-求一个-M1-Macbook-能用的扩展坞](https://www.v2ex.com/t/863502) 
-- [【V2EX】2022-07-01-直营店取货遇到大雨。。](https://www.v2ex.com/t/863499) 
 - [【V2EX】2022-07-01-有什么比较大的-NAS-的论坛吗？想去潜一潜水](https://www.v2ex.com/t/863498) 
 - [【V2EX】2022-07-01-大家用-Notion-更看重它的哪些方面呢？](https://www.v2ex.com/t/863497) 
 - [【V2EX】2022-07-01-Go-上传一个-10M-的文件,-真的会用-10M-的内存吗?](https://www.v2ex.com/t/863496) 
@@ -103,14 +106,8 @@
 - [【V2EX】2022-07-01-谷歌浏览器控制台出现了奇怪的东西，有大佬知道怎么解决吗](https://www.v2ex.com/t/863476) 
 - [【V2EX】2022-07-01-django-里面的原生的-sql-查询，会一直占用数据库连接吗](https://www.v2ex.com/t/863475) 
 - [【V2EX】2022-07-01-从贫穷中白手起家的成功者，对穷人的同情真的少于天生富有者么？](https://www.v2ex.com/t/863474) 
-- [【V2EX】2022-07-01-留长发想剪短发，剪短发，又会后悔，然后留长发去烫头，然后长发又想剪短发](https://www.v2ex.com/t/863473) 
 - [【V2EX】2022-07-01-一个局域网下,-Windows有线接入可以通过-ipv6-测试,-macOS无线连接不行,-何解?](https://www.v2ex.com/t/863472) 
 - [【V2EX】2022-07-01-各位前辈有带实习生的经验么，传授一下](https://www.v2ex.com/t/863471) 
-- [【V2EX】2022-07-01-请教大家几个-Go-写业务的工程实践的上的问题](https://www.v2ex.com/t/863470) 
-- [【V2EX】2022-07-01-海鲜市场员工优惠咋都没了](https://www.v2ex.com/t/863469) 
-- [【V2EX】2022-07-01-《十年死磕，从一线工程师到-CEO》](https://www.v2ex.com/t/863468) 
-- [【V2EX】2022-07-01-直播-8-首页的竖线右侧没内容了，竖线不能去掉么](https://www.v2ex.com/t/863467) 
-- [【V2EX】2022-07-01-尝鲜激活广电-5G-192-号段的体验](https://www.v2ex.com/t/863466) 
 - [【技术头条】2022-07-01-故事点-vs.-人天-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15213&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fagile-estimation-story-points-man-day%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-01-如何设计数据可视化平台-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15212&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-design-data-visualization-platform%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-01-你的代码会说话吗？（上）-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15211&url=https%3A%2F%2Finsights.thoughtworks.cn%2F%3Fp%3D16179%26amp%3Bpreview%3Dtrue%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -138,18 +135,18 @@
 - [【开发者头条】2022-07-01-月活-12.8-亿的微信，海量请求下是如何防止崩溃的？](https://toutiao.io/k/fflgnsh) 
 - [【开发者头条】2022-07-01-应用实践-|-10-亿数据秒级关联，货拉拉基于-Apache-Doris-的-OLAP-体系演进](https://toutiao.io/k/8y9lpg1) 
 - [【开发者头条】2022-07-01-陈珙：微服务，它还那么纯粹吗？](https://toutiao.io/k/p7v4org) 
+- [【开发者头条】2022-07-01-Google-的软件工程](https://toutiao.io/k/3snz69l) 
 - [【开发者头条】2022-07-01-探索Glide原理](https://toutiao.io/k/tx553c1) 
 - [【开发者头条】2022-07-01-基于-qiankun-的微前端实践](https://toutiao.io/k/gg5peyr) 
-- [【开发者头条】2022-07-01-Google-的软件工程](https://toutiao.io/k/3snz69l) 
 - [【开发者头条】2022-07-01-可观测｜时序数据降采样在Prometheus实践复盘](https://toutiao.io/k/vbqwtm4) 
-- [【开发者头条】2022-07-01-Go1.19-那些事：国产芯片、内存模型等新特性，你知道多少？](https://toutiao.io/k/q3p8l9h) 
 - [【开发者头条】2022-07-01-爆肝一个月的Clickhouse入门篇持续更新中](https://toutiao.io/k/i8hgrov) 
+- [【开发者头条】2022-07-01-Go1.19-那些事：国产芯片、内存模型等新特性，你知道多少？](https://toutiao.io/k/q3p8l9h) 
 - [【开发者头条】2022-07-01-基于开源流批一体数据同步引擎ChunJun数据还原—DDL解析模块的实战分享](https://toutiao.io/k/23yvg2z) 
 - [【开发者头条】2022-07-01-通过模糊测试CNCF景观提高安全性](https://toutiao.io/k/3xsc8f0) 
 - [【开发者头条】2022-07-01-一不小心，就踩了-tomcat-的这个坑](https://toutiao.io/k/44hrpkx) 
 - [【开发者头条】2022-07-01-探秘Weak实现原理](https://toutiao.io/k/lhjdquj) 
-- [【开发者头条】2022-07-01-推荐-Redis夺命52连问](https://toutiao.io/k/he3fzao) 
 - [【开发者头条】2022-07-01-推荐-3000帧动画图解MySQL为什么需要binlog、redo-log和undo-log](https://toutiao.io/k/b0g4460) 
+- [【开发者头条】2022-07-01-推荐-Redis夺命52连问](https://toutiao.io/k/he3fzao) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-07-01 12:26:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-01 13:12:03。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -239,7 +239,6 @@
 
 - [【武汉肺炎防疫全纪录(财新网)】广州17岁男生在定点医院参加高考-特殊考场视频监考](https://m.caixin.com/m/2021-06-05/101723418.html)
 - [【武汉肺炎防疫全纪录(财新网)】林郑月娥率13高官直播接种科兴疫苗-复星疫苗预计周中到港](https://m.caixin.com/m/2021-02-22/101665724.html)
-- [【V2EX】直播-8-首页的竖线右侧没内容了，竖线不能去掉么](https://www.v2ex.com/t/863467)
 - [......【查看更多】......](./details/tags/audio-video.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -337,6 +336,7 @@
 
 
 
+- [【V2EX】在-GITHUB-搜了半天没有实现-V2EX-API-的-Python-SDK，全都是自己抓包实现的。刚学-Python-，按照-V2EX-的-API-DOC-实现了一下-API-调用-SDK...已上架-pypi](https://www.v2ex.com/t/863517)
 - [【V2EX】windows11-的-Terminal-命令行输入-git-会卡死，有遇到过的没？](https://www.v2ex.com/t/863487)
 - [......【查看更多】......](./details/tags/git-svn.md)
 

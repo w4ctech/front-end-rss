@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-07-01 12:26:20，:rocket: 更新条数: +2028， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-07-01 13:12:03，:rocket: 更新条数: +2025， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,10 @@
 </summary>
 
 
+- [2022-07-01-升级-16-后发现电脑备份不在身边无法正常降级-15.5](https://www.v2ex.com/t/863520) ![](assets/new.png)  
+- [2022-07-01-台式机-板-U-从-Intel-到-AMD，-windows10-系统需要重新装吗？](https://www.v2ex.com/t/863519) ![](assets/new.png)  
+- [2022-07-01-在-GITHUB-搜了半天没有实现-V2EX-API-的-Python-SDK，全都是自己抓包实现的。刚学-Python-，按照-V2EX-的-API-DOC-实现了一下-API-调用-SDK...已上架-pypi](https://www.v2ex.com/t/863517) ![](assets/new.png)  
+- [2022-07-01-远程/全职-运维/mysql/sre/](https://www.v2ex.com/t/863516) ![](assets/new.png)  
 - [2022-07-01-Seafile-同步至-COS-时只能同步目录。](https://www.v2ex.com/t/863514) ![](assets/new.png)  
 - [2022-07-01-开源/远程-RSS3-母公司-Natural-Selection-Labs-寻找智能合约工程师和高级全栈工程师](https://www.v2ex.com/t/863513) ![](assets/new.png)  
 - [2022-07-01-阿里小号变“空号”](https://www.v2ex.com/t/863512) ![](assets/new.png)  
@@ -504,13 +508,9 @@
 - [2022-07-01-yarn-和-npm-真的区别很大嘛](https://www.v2ex.com/t/863504) ![](assets/new.png)  
 - [2022-07-01-无糖快乐水确实不太快乐](https://www.v2ex.com/t/863503) ![](assets/new.png)  
 - [2022-07-01-求一个-M1-Macbook-能用的扩展坞](https://www.v2ex.com/t/863502) ![](assets/new.png)  
-- [2022-07-01-直营店取货遇到大雨。。](https://www.v2ex.com/t/863499) ![](assets/new.png)  
 - [2022-07-01-有什么比较大的-NAS-的论坛吗？想去潜一潜水](https://www.v2ex.com/t/863498) ![](assets/new.png)  
 - [2022-07-01-大家用-Notion-更看重它的哪些方面呢？](https://www.v2ex.com/t/863497) ![](assets/new.png)  
 - [2022-07-01-Go-上传一个-10M-的文件,-真的会用-10M-的内存吗?](https://www.v2ex.com/t/863496) ![](assets/new.png)  
-- [2022-07-01-BTC-还会涨回来吗](https://www.v2ex.com/t/863495) ![](assets/new.png)  
-- [2022-07-01-想把-macbook-pro-做成-NAS，建立影音库，有些问题需要请教](https://www.v2ex.com/t/863494) ![](assets/new.png)  
-- [2022-07-01-macos-访达中连接-smb-服务器如何切换-445-以外的端口？](https://www.v2ex.com/t/863493) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -560,18 +560,18 @@
 - [2022-07-01-月活-12.8-亿的微信，海量请求下是如何防止崩溃的？](https://toutiao.io/k/fflgnsh) ![](assets/new.png)  
 - [2022-07-01-应用实践-|-10-亿数据秒级关联，货拉拉基于-Apache-Doris-的-OLAP-体系演进](https://toutiao.io/k/8y9lpg1) ![](assets/new.png)  
 - [2022-07-01-陈珙：微服务，它还那么纯粹吗？](https://toutiao.io/k/p7v4org) ![](assets/new.png)  
+- [2022-07-01-Google-的软件工程](https://toutiao.io/k/3snz69l) ![](assets/new.png)  
 - [2022-07-01-探索Glide原理](https://toutiao.io/k/tx553c1) ![](assets/new.png)  
 - [2022-07-01-基于-qiankun-的微前端实践](https://toutiao.io/k/gg5peyr) ![](assets/new.png)  
-- [2022-07-01-Google-的软件工程](https://toutiao.io/k/3snz69l) ![](assets/new.png)  
 - [2022-07-01-可观测｜时序数据降采样在Prometheus实践复盘](https://toutiao.io/k/vbqwtm4) ![](assets/new.png)  
-- [2022-07-01-Go1.19-那些事：国产芯片、内存模型等新特性，你知道多少？](https://toutiao.io/k/q3p8l9h) ![](assets/new.png)  
 - [2022-07-01-爆肝一个月的Clickhouse入门篇持续更新中](https://toutiao.io/k/i8hgrov) ![](assets/new.png)  
+- [2022-07-01-Go1.19-那些事：国产芯片、内存模型等新特性，你知道多少？](https://toutiao.io/k/q3p8l9h) ![](assets/new.png)  
 - [2022-07-01-基于开源流批一体数据同步引擎ChunJun数据还原—DDL解析模块的实战分享](https://toutiao.io/k/23yvg2z) ![](assets/new.png)  
 - [2022-07-01-通过模糊测试CNCF景观提高安全性](https://toutiao.io/k/3xsc8f0) ![](assets/new.png)  
 - [2022-07-01-一不小心，就踩了-tomcat-的这个坑](https://toutiao.io/k/44hrpkx) ![](assets/new.png)  
 - [2022-07-01-探秘Weak实现原理](https://toutiao.io/k/lhjdquj) ![](assets/new.png)  
-- [2022-07-01-推荐-Redis夺命52连问](https://toutiao.io/k/he3fzao) ![](assets/new.png)  
 - [2022-07-01-推荐-3000帧动画图解MySQL为什么需要binlog、redo-log和undo-log](https://toutiao.io/k/b0g4460) ![](assets/new.png)  
+- [2022-07-01-推荐-Redis夺命52连问](https://toutiao.io/k/he3fzao) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

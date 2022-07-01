@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-07-01 05:51:58，:rocket: 更新条数: +2019， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-07-01 06:18:22，:rocket: 更新条数: +2021， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,11 +491,16 @@
 </summary>
 
 
+- [2022-07-01-为什么这个-js-函数是个异步的，但能够在不是异步的地方直接调用？](https://www.v2ex.com/t/863430) ![](assets/new.png)  
+- [2022-07-01-vscode-有没有像-sublime-text-一样能够自动缩进以及格式化文件内容的功能或插件啊?](https://www.v2ex.com/t/863429) ![](assets/new.png)  
+- [2022-07-01-问一下,这光猫是不是最大支持-500m-?-个人感觉电信提速想收升级光猫的钱](https://www.v2ex.com/t/863427) ![](assets/new.png)  
+- [2022-07-01-上海-不加班-外企-招-Java-、C++、安卓、中级测试、支持工程师、初级-devOps，-Java-和-测试有残疾人岗位](https://www.v2ex.com/t/863425) ![](assets/new.png)  
+- [2022-07-01-雷电-4-的扩展坞比雷电-3-强在哪里？](https://www.v2ex.com/t/863424) ![](assets/new.png)  
+- [2022-07-01-武汉路特斯科技-内推-测试/安卓/架构师/产品经理/项目经理等](https://www.v2ex.com/t/863423) ![](assets/new.png)  
 - [2022-07-01-m1-macbook-air-恢复模式重装系统，没有-wifi-图标有人遇到过吗?](https://www.v2ex.com/t/863422) ![](assets/new.png)  
 - [2022-07-01-路由器中发现了奇怪的-UPnP-端口映射](https://www.v2ex.com/t/863421) ![](assets/new.png)  
 - [2022-07-01-mac-如何打开-webdav-协议？](https://www.v2ex.com/t/863420) ![](assets/new.png)  
 - [2022-07-01-给我一点“正能量”](https://www.v2ex.com/t/863419) ![](assets/new.png)  
-- [2022-07-01-我有个-IPFS.cc-的域名，有人收吗？](https://www.v2ex.com/t/863416) ![](assets/new.png)  
 - [2022-07-01-kvm-虚拟机作为开发机，通过-spice-连接卡顿](https://www.v2ex.com/t/863415) ![](assets/new.png)  
 - [2022-07-01-通过电脑下的语音输入解决方案，科大讯飞鼠标](https://www.v2ex.com/t/863414) ![](assets/new.png)  
 - [2022-07-01-分享我的低成本润拿下绿卡经历](https://www.v2ex.com/t/863413) ![](assets/new.png)  
@@ -506,11 +511,6 @@
 - [2022-07-01-逃离塔科夫真好玩](https://www.v2ex.com/t/863407) ![](assets/new.png)  
 - [2022-07-01-Windows-系统，有没有右键将当前文件夹路径加入-path-环境变量的方法？](https://www.v2ex.com/t/863406) ![](assets/new.png)  
 - [2022-07-01-配置-code-server-后连接没有文件](https://www.v2ex.com/t/863404) ![](assets/new.png)  
-- [2022-07-01-求绩效评语通用模版](https://www.v2ex.com/t/863402) ![](assets/new.png)  
-- [2022-07-01-Rust-怎么自动猜测子进程-stdout-的字符编码，然后把它转成-String？](https://www.v2ex.com/t/863399) ![](assets/new.png)  
-- [2022-07-01-站长，这个“请不要在每一个回复中都包括外链，这看起来像是在-spamming”，这个是不是紧张过头了？](https://www.v2ex.com/t/863398) ![](assets/new.png)  
-- [2022-07-01-homekit-接入-matter-后，配件价格会不会降下来？](https://www.v2ex.com/t/863397) ![](assets/new.png)  
-- [2022-07-01-现在保存数据，买硬盘是选择机械的好，还是固态好？](https://www.v2ex.com/t/863395) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -557,16 +557,19 @@
 - [2022-07-01-2022年最受欢迎的5大开源自动化和编排技术](https://toutiao.io/k/fj7m6x8) ![](assets/new.png)  
 - [2022-07-01-正确复制、重写别人的代码，为什么是件很酷的事情](https://toutiao.io/k/li8d566) ![](assets/new.png)  
 - [2022-07-01-多线程使用不当导致的-OOM](https://toutiao.io/k/67rtbou) ![](assets/new.png)  
+- [2022-07-01-月活-12.8-亿的微信，海量请求下是如何防止崩溃的？](https://toutiao.io/k/fflgnsh) ![](assets/new.png)  
 - [2022-07-01-应用实践-|-10-亿数据秒级关联，货拉拉基于-Apache-Doris-的-OLAP-体系演进](https://toutiao.io/k/8y9lpg1) ![](assets/new.png)  
 - [2022-07-01-陈珙：微服务，它还那么纯粹吗？](https://toutiao.io/k/p7v4org) ![](assets/new.png)  
 - [2022-07-01-探索Glide原理](https://toutiao.io/k/tx553c1) ![](assets/new.png)  
 - [2022-07-01-基于-qiankun-的微前端实践](https://toutiao.io/k/gg5peyr) ![](assets/new.png)  
-- [2022-07-01-月活-12.8-亿的微信，海量请求下是如何防止崩溃的？](https://toutiao.io/k/fflgnsh) ![](assets/new.png)  
 - [2022-07-01-可观测｜时序数据降采样在Prometheus实践复盘](https://toutiao.io/k/vbqwtm4) ![](assets/new.png)  
 - [2022-07-01-Go1.19-那些事：国产芯片、内存模型等新特性，你知道多少？](https://toutiao.io/k/q3p8l9h) ![](assets/new.png)  
 - [2022-07-01-Google-的软件工程](https://toutiao.io/k/3snz69l) ![](assets/new.png)  
 - [2022-07-01-基于开源流批一体数据同步引擎ChunJun数据还原—DDL解析模块的实战分享](https://toutiao.io/k/23yvg2z) ![](assets/new.png)  
 - [2022-07-01-通过模糊测试CNCF景观提高安全性](https://toutiao.io/k/3xsc8f0) ![](assets/new.png)  
+- [2022-07-01-一不小心，就踩了-tomcat-的这个坑](https://toutiao.io/k/44hrpkx) ![](assets/new.png)  
+- [2022-07-01-爆肝一个月的Clickhouse入门篇持续更新中](https://toutiao.io/k/i8hgrov) ![](assets/new.png)  
+- [2022-07-01-探秘Weak实现原理](https://toutiao.io/k/lhjdquj) ![](assets/new.png)  
 - [2022-07-01-推荐-3000帧动画图解MySQL为什么需要binlog、redo-log和undo-log](https://toutiao.io/k/b0g4460) ![](assets/new.png)  
 - [2022-07-01-推荐-Redis夺命52连问](https://toutiao.io/k/he3fzao) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)

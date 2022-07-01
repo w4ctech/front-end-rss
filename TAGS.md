@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-07-01 05:51:58。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-01 06:18:22。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -181,6 +181,7 @@
 - [【张鑫旭-鑫空间-鑫生活】JS与条形码的生成](https://www.zhangxinxu.com/wordpress/2022/05/js-barcode/)
 - [【张鑫旭-鑫空间-鑫生活】深入-JS-new-Function-语法](https://www.zhangxinxu.com/wordpress/2022/04/js-new-function/)
 - [【张鑫旭-鑫空间-鑫生活】小tips:-JS字体加载失败或完毕的检测](https://www.zhangxinxu.com/wordpress/2022/04/js-font-face-load/)
+- [【V2EX】为什么这个-js-函数是个异步的，但能够在不是异步的地方直接调用？](https://www.v2ex.com/t/863430)
 - [【V2EX】路由器中发现了奇怪的-UPnP-端口映射](https://www.v2ex.com/t/863421)
 - [【V2EX】Windows-系统，有没有右键将当前文件夹路径加入-path-环境变量的方法？](https://www.v2ex.com/t/863406)
 - [【技术头条】如何实现页面刷新后不定位到之前的滚动位置？-www.zhangxinxu.com](https://blogread.cn/news/go.php?idItem=15195&url=https%3A%2F%2Fwww.zhangxinxu.com%2Fwordpress%2F2022%2F05%2Fhistory-scrollrestoration%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
@@ -280,7 +281,6 @@
 - [【武汉肺炎防疫全纪录(财新网)】大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html)
 - [【张鑫旭-鑫空间-鑫生活】基于文字的URL锚点定位与::target-text样式设置](https://www.zhangxinxu.com/wordpress/2022/06/url-anchor-target-text/)
 - [【V2EX】chrome-打开后有多个进程，如何在任务管理器中区分各个进程代表的是什么功能](https://www.v2ex.com/t/863390)
-- [【V2EX】edge-在-mac-上的小问题咨询](https://www.v2ex.com/t/863376)
 - [【开发者头条】月活-12.8-亿的微信，海量请求下是如何防止崩溃的？](https://toutiao.io/k/fflgnsh)
 - [【开发者头条】通过模糊测试CNCF景观提高安全性](https://toutiao.io/k/3xsc8f0)
 - [......【查看更多】......](./details/tags/browser.md)

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-01 21:14:00。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-01 21:40:14。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,7 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-07-01-上海买不起房，要不要落户](https://www.v2ex.com/t/863561) 
 - [2022-07-01-Steam-Deck-也学会了悄悄让幸运用户享受低速-SSD](https://www.v2ex.com/t/863559) 
 - [2022-07-01-因停电来咨询，小区大规模停电着国家电网还是物业](https://www.v2ex.com/t/863557) 
 - [2022-07-01-京东云的自动升级未免太离谱](https://www.v2ex.com/t/863556) 
@@ -1936,7 +1937,6 @@
 - [2022-07-01-远程/全职-运维/mysql/sre/](https://www.v2ex.com/t/863516) 
 - [2022-07-01-Seafile-同步至-COS-时只能同步目录。](https://www.v2ex.com/t/863514) 
 - [2022-07-01-阿里小号变“空号”](https://www.v2ex.com/t/863512) 
-- [2022-07-01-如何出版一本技术图书----写在《C++20-高级编程》出版之时](https://www.v2ex.com/t/863511) 
 - [2022-07-01-故事点-vs.-人天-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15213&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fagile-estimation-story-points-man-day%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-01-如何设计数据可视化平台-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15212&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-design-data-visualization-platform%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-01-你的代码会说话吗？（上）-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15211&url=https%3A%2F%2Finsights.thoughtworks.cn%2F%3Fp%3D16179%26amp%3Bpreview%3Dtrue%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

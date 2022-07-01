@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-01 13:12:03。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-01 13:56:18。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -15,7 +15,5 @@
 - [2021-01-01-大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html) 
 - [2022-06-12-基于文字的URL锚点定位与::target-text样式设置](https://www.zhangxinxu.com/wordpress/2022/06/url-anchor-target-text/) 
 - [2022-07-01-通过-zerotier-连接-A-网络的-ftp-服务器,总是连到-B-网络的-ftp-服务器](https://www.v2ex.com/t/863486) 
-- [2022-07-01-无需安装插件的内网穿透，远程调试工具，已经兼容多平台了](https://www.v2ex.com/t/863479) 
-- [2022-07-01-谷歌浏览器控制台出现了奇怪的东西，有大佬知道怎么解决吗](https://www.v2ex.com/t/863476) 
 - [2022-07-01-月活-12.8-亿的微信，海量请求下是如何防止崩溃的？](https://toutiao.io/k/fflgnsh) 
 - [2022-07-01-通过模糊测试CNCF景观提高安全性](https://toutiao.io/k/3xsc8f0) 

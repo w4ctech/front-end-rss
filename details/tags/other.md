@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-01 17:03:35。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-01 17:28:55。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,8 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-07-01-iPhone-7-plus-升级-ios15.5-后，打电话会哑，能打出去的时候偶然有电流声，接电话按屏幕图标接不了（内详）。。。](https://www.v2ex.com/t/863552) 
+- [2022-07-01-公民投票有可能网络化吗？从来没投过，也不知道怎么操作...](https://www.v2ex.com/t/863551) 
 - [2022-07-01-QuickCDN-前端开源项目-CDN-加速服务搜索工具](https://www.v2ex.com/t/863550) 
 - [2022-07-01-女硕-offer-毕业选择：北京华为-vs-北京研究所-vs-珠海香洲区教师?](https://www.v2ex.com/t/863549) 
 - [2022-07-01-研发岗日常实习-offer-第一次实习-求建议～](https://www.v2ex.com/t/863548) 
@@ -1935,8 +1937,6 @@
 - [2022-07-01-unraid-7-折了](https://www.v2ex.com/t/863509) 
 - [2022-07-01-北京光华路地区停电](https://www.v2ex.com/t/863508) 
 - [2022-07-01-01/07/2022-生命-随想](https://www.v2ex.com/t/863507) 
-- [2022-07-01-无糖快乐水确实不太快乐](https://www.v2ex.com/t/863503) 
-- [2022-07-01-求一个-M1-Macbook-能用的扩展坞](https://www.v2ex.com/t/863502) 
 - [2022-07-01-故事点-vs.-人天-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15213&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fagile-estimation-story-points-man-day%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-01-如何设计数据可视化平台-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15212&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-design-data-visualization-platform%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-01-你的代码会说话吗？（上）-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15211&url=https%3A%2F%2Finsights.thoughtworks.cn%2F%3Fp%3D16179%26amp%3Bpreview%3Dtrue%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

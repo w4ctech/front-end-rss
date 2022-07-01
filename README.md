@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-07-01 17:03:35，:rocket: 更新条数: +2019， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-07-01 17:28:55，:rocket: 更新条数: +2019， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-07-01-iPhone-7-plus-升级-ios15.5-后，打电话会哑，能打出去的时候偶然有电流声，接电话按屏幕图标接不了（内详）。。。](https://www.v2ex.com/t/863552) ![](assets/new.png)  
+- [2022-07-01-公民投票有可能网络化吗？从来没投过，也不知道怎么操作...](https://www.v2ex.com/t/863551) ![](assets/new.png)  
 - [2022-07-01-QuickCDN-前端开源项目-CDN-加速服务搜索工具](https://www.v2ex.com/t/863550) ![](assets/new.png)  
 - [2022-07-01-女硕-offer-毕业选择：北京华为-vs-北京研究所-vs-珠海香洲区教师?](https://www.v2ex.com/t/863549) ![](assets/new.png)  
 - [2022-07-01-研发岗日常实习-offer-第一次实习-求建议～](https://www.v2ex.com/t/863548) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-07-01-spring-的约定优于配置概念好吗？](https://www.v2ex.com/t/863524) ![](assets/new.png)  
 - [2022-07-01-2022-年-VSCode-有啥好用的所见所得-md-插件吗](https://www.v2ex.com/t/863523) ![](assets/new.png)  
 - [2022-07-01-苹果要求-App-必须内置删除账号功能,微信被封号后不能删除账号,苹果能下架微信吗?](https://www.v2ex.com/t/863521) ![](assets/new.png)  
-- [2022-07-01-升级-16-后发现电脑备份不在身边无法正常降级-15.5](https://www.v2ex.com/t/863520) ![](assets/new.png)  
-- [2022-07-01-台式机-板-U-从-Intel-到-AMD，-windows10-系统需要重新装吗？](https://www.v2ex.com/t/863519) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

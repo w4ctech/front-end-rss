@@ -9953,6 +9953,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "Steam Deck 也学会了悄悄让幸运用户享受低速 SSD",
+        "link": "https://www.v2ex.com/t/863559",
+        "date": "2022-07-01"
+      },
+      {
         "title": "同一个 20 核 128GB RAM 无显卡虚拟机，在 Windows 10 2016 LTSB+Ubuntu 16.04 下用同版本同参数的 ffmpeg 压缩视频，为什么 Windows 总比 Ubuntu 快 25%？",
         "link": "https://www.v2ex.com/t/863558",
         "date": "2022-07-01"
@@ -10115,11 +10120,6 @@
       {
         "title": "最近发现好像大多数程序员都不太会用 Figma 和 PowerDesigner 不知道是不是这种情况",
         "link": "https://www.v2ex.com/t/863510",
-        "date": "2022-07-01"
-      },
-      {
-        "title": "unraid 7 折了",
-        "link": "https://www.v2ex.com/t/863509",
         "date": "2022-07-01"
       }
     ]

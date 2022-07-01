@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-01 03:39:26。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-07-01 04:52:57。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,15 @@
 </summary>
 
 
+- [【V2EX】2022-07-01-通过电脑下的语音输入解决方案，科大讯飞鼠标](https://www.v2ex.com/t/863414) 
+- [【V2EX】2022-07-01-分享我的低成本润拿下绿卡经历](https://www.v2ex.com/t/863413) 
+- [【V2EX】2022-07-01-求推荐一款-3000-以内洗衣机](https://www.v2ex.com/t/863412) 
+- [【V2EX】2022-07-01-请教个职场问题](https://www.v2ex.com/t/863411) 
+- [【V2EX】2022-07-01--MacOS-强迫症难受啊1-像素之差](https://www.v2ex.com/t/863410) 
+- [【V2EX】2022-07-01-recession-is-coming-for-sure](https://www.v2ex.com/t/863408) 
+- [【V2EX】2022-07-01-逃离塔科夫真好玩](https://www.v2ex.com/t/863407) 
+- [【V2EX】2022-07-01-Windows-系统，有没有右键将当前文件夹路径加入-path-环境变量的方法？](https://www.v2ex.com/t/863406) 
+- [【V2EX】2022-07-01-配置-code-server-后连接没有文件](https://www.v2ex.com/t/863404) 
 - [【V2EX】2022-07-01-求绩效评语通用模版](https://www.v2ex.com/t/863402) 
 - [【V2EX】2022-07-01-Rust-怎么自动猜测子进程-stdout-的字符编码，然后把它转成-String？](https://www.v2ex.com/t/863399) 
 - [【V2EX】2022-07-01-站长，这个“请不要在每一个回复中都包括外链，这看起来像是在-spamming”，这个是不是紧张过头了？](https://www.v2ex.com/t/863398) 
@@ -95,16 +104,6 @@
 - [【V2EX】2022-07-01-有没有什么比较好的-mysql-to-oracle-的实时同步工具](https://www.v2ex.com/t/863368) 
 - [【V2EX】2022-07-01-你觉得国内哪个城市适合长期远程办公？](https://www.v2ex.com/t/863366) 
 - [【V2EX】2022-07-01-微信公众号的消息提醒可以启动手机的声音提醒吗？](https://www.v2ex.com/t/863365) 
-- [【V2EX】2022-07-01-M1-版的-MBP-装了-IOS-软件，会自动打开-HDR？](https://www.v2ex.com/t/863364) 
-- [【V2EX】2022-07-01-是不是-gc-过程都会导致应用暂停](https://www.v2ex.com/t/863363) 
-- [【V2EX】2022-07-01-请教有没有这样一款管控-iPad-的软件？](https://www.v2ex.com/t/863362) 
-- [【V2EX】2022-07-01-问一个终端-adb-root-问题](https://www.v2ex.com/t/863361) 
-- [【V2EX】2022-07-01-云计算（运维）的认证，选择哪家好](https://www.v2ex.com/t/863360) 
-- [【V2EX】2022-07-01-大家的七月-Apple-Fitness-挑战是啥？](https://www.v2ex.com/t/863358) 
-- [【V2EX】2022-07-01-蚊子在人深度睡眠时期太猖狂了怎么办？](https://www.v2ex.com/t/863357) 
-- [【V2EX】2022-07-01-涉及支付的-APP，都需要-IPC-经营许可吗？有没有办法不需要？](https://www.v2ex.com/t/863356) 
-- [【V2EX】2022-07-01-想配个小主机，-Desk-Mini-看起来很不错](https://www.v2ex.com/t/863354) 
-- [【V2EX】2022-07-01-东京-IT-会社直接招聘和社长谈](https://www.v2ex.com/t/863353) 
 - [【技术头条】2022-07-01-故事点-vs.-人天-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15213&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fagile-estimation-story-points-man-day%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-01-如何设计数据可视化平台-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15212&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-design-data-visualization-platform%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-01-你的代码会说话吗？（上）-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15211&url=https%3A%2F%2Finsights.thoughtworks.cn%2F%3Fp%3D16179%26amp%3Bpreview%3Dtrue%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -139,8 +138,8 @@
 - [【开发者头条】2022-07-01-Google-的软件工程](https://toutiao.io/k/3snz69l) 
 - [【开发者头条】2022-07-01-通过模糊测试CNCF景观提高安全性](https://toutiao.io/k/3xsc8f0) 
 - [【开发者头条】2022-07-01-基于开源流批一体数据同步引擎ChunJun数据还原—DDL解析模块的实战分享](https://toutiao.io/k/23yvg2z) 
-- [【开发者头条】2022-07-01-推荐-3000帧动画图解MySQL为什么需要binlog、redo-log和undo-log](https://toutiao.io/k/b0g4460) 
 - [【开发者头条】2022-07-01-推荐-Redis夺命52连问](https://toutiao.io/k/he3fzao) 
+- [【开发者头条】2022-07-01-推荐-3000帧动画图解MySQL为什么需要binlog、redo-log和undo-log](https://toutiao.io/k/b0g4460) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

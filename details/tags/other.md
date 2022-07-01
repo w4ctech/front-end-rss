@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-01 08:46:01。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-01 09:14:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,10 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-07-01-有支持防水的耳机吗?-主要是运动完想用水洗](https://www.v2ex.com/t/863483) 
+- [2022-07-01-想问大家工作上-如何处理“会来事儿”的同事提出的问题？怎样沟通交流的？](https://www.v2ex.com/t/863480) 
+- [2022-07-01-求推荐比较优秀的实木转角电脑桌](https://www.v2ex.com/t/863477) 
+- [2022-07-01-django-里面的原生的-sql-查询，会一直占用数据库连接吗](https://www.v2ex.com/t/863475) 
 - [2022-07-01-从贫穷中白手起家的成功者，对穷人的同情真的少于天生富有者么？](https://www.v2ex.com/t/863474) 
 - [2022-07-01-留长发想剪短发，剪短发，又会后悔，然后留长发去烫头，然后长发又想剪短发](https://www.v2ex.com/t/863473) 
 - [2022-07-01-一个局域网下,-Windows有线接入可以通过-ipv6-测试,-macOS无线连接不行,-何解?](https://www.v2ex.com/t/863472) 
@@ -1937,15 +1941,6 @@
 - [2022-07-01-Redis-里-List-是耗内存最小的数据类型吗？](https://www.v2ex.com/t/863441) 
 - [2022-07-01-有没有开源-Linux-可视化监控页面（面板）？](https://www.v2ex.com/t/863439) 
 - [2022-07-01-黑苹果笔记本翻车，急需一款局域网远程或者无线投屏](https://www.v2ex.com/t/863438) 
-- [2022-07-01-社招-抖音商业化-iOS-急招！核心造血业务快加入我们！](https://www.v2ex.com/t/863437) 
-- [2022-07-01-3.5MM-有线音响插到-iPad-Pro10.5-上面，屏幕右下角自动出现-siri-图标，而且没声音。耳机线连接到-Mac-则正常](https://www.v2ex.com/t/863436) 
-- [2022-07-01-整了台-16G-的-m1-版本-mac-mini，玩-dota2-并不理想](https://www.v2ex.com/t/863435) 
-- [2022-07-01-Google-Pay-风控会不会影响-Gmail-这边呢](https://www.v2ex.com/t/863434) 
-- [2022-07-01-有没有能本地控制的空调伴侣？](https://www.v2ex.com/t/863433) 
-- [2022-07-01-索尼-x91j-75-寸有办法刷原生系统吗](https://www.v2ex.com/t/863431) 
-- [2022-07-01-vscode-有没有像-sublime-text-一样能够自动缩进以及格式化文件内容的功能或插件啊?](https://www.v2ex.com/t/863429) 
-- [2022-07-01-问一下,这光猫是不是最大支持-500m-?-个人感觉电信提速想收升级光猫的钱](https://www.v2ex.com/t/863427) 
-- [2022-07-01-上海-不加班-外企-招-Java-、C++、安卓、中级测试、支持工程师、初级-devOps，-Java-和-测试有残疾人岗位](https://www.v2ex.com/t/863425) 
 - [2022-07-01-故事点-vs.-人天-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15213&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fagile-estimation-story-points-man-day%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-01-如何设计数据可视化平台-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15212&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-design-data-visualization-platform%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-01-你的代码会说话吗？（上）-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15211&url=https%3A%2F%2Finsights.thoughtworks.cn%2F%3Fp%3D16179%26amp%3Bpreview%3Dtrue%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

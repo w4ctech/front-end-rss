@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-07-01 10:43:40，:rocket: 更新条数: +2028， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-07-01 11:12:16，:rocket: 更新条数: +2028， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,9 @@
 </summary>
 
 
+- [2022-07-01-最近发现好像大多数程序员都不太会用-Figma-和-PowerDesigner-不知道是不是这种情况](https://www.v2ex.com/t/863510) ![](assets/new.png)  
+- [2022-07-01-unraid-7-折了](https://www.v2ex.com/t/863509) ![](assets/new.png)  
+- [2022-07-01-北京光华路地区停电](https://www.v2ex.com/t/863508) ![](assets/new.png)  
 - [2022-07-01-01/07/2022-生命-随想](https://www.v2ex.com/t/863507) ![](assets/new.png)  
 - [2022-07-01-VSCode/IDEA-下-JS-格式化请教](https://www.v2ex.com/t/863506) ![](assets/new.png)  
 - [2022-07-01-scipy-非线性优化中-bounds-参数定义问题](https://www.v2ex.com/t/863505) ![](assets/new.png)  
@@ -508,9 +511,6 @@
 - [2022-07-01-深圳面交，回馈-V-友，全新京东自营换货未拆-12400f](https://www.v2ex.com/t/863490) ![](assets/new.png)  
 - [2022-07-01-vimEasymotion-移动跳转，触发语法检查了怎么办呐？](https://www.v2ex.com/t/863489) ![](assets/new.png)  
 - [2022-07-01-surge-for-mac-玩法？](https://www.v2ex.com/t/863488) ![](assets/new.png)  
-- [2022-07-01-windows11-的-Terminal-命令行输入-git-会卡死，有遇到过的没？](https://www.v2ex.com/t/863487) ![](assets/new.png)  
-- [2022-07-01-通过-zerotier-连接-A-网络的-ftp-服务器,总是连到-B-网络的-ftp-服务器](https://www.v2ex.com/t/863486) ![](assets/new.png)  
-- [2022-07-01-nodejs-mongodb](https://www.v2ex.com/t/863484) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -554,8 +554,8 @@
 
 
 - [2022-07-01-2022年最受欢迎的5大开源自动化和编排技术](https://toutiao.io/k/fj7m6x8) ![](assets/new.png)  
-- [2022-07-01-如何使用Go调用Kubernetes-API？](https://toutiao.io/k/ctnjr3u) ![](assets/new.png)  
 - [2022-07-01-正确复制、重写别人的代码，为什么是件很酷的事情](https://toutiao.io/k/li8d566) ![](assets/new.png)  
+- [2022-07-01-如何使用Go调用Kubernetes-API？](https://toutiao.io/k/ctnjr3u) ![](assets/new.png)  
 - [2022-07-01-多线程使用不当导致的-OOM](https://toutiao.io/k/67rtbou) ![](assets/new.png)  
 - [2022-07-01-月活-12.8-亿的微信，海量请求下是如何防止崩溃的？](https://toutiao.io/k/fflgnsh) ![](assets/new.png)  
 - [2022-07-01-应用实践-|-10-亿数据秒级关联，货拉拉基于-Apache-Doris-的-OLAP-体系演进](https://toutiao.io/k/8y9lpg1) ![](assets/new.png)  
@@ -563,15 +563,15 @@
 - [2022-07-01-探索Glide原理](https://toutiao.io/k/tx553c1) ![](assets/new.png)  
 - [2022-07-01-基于-qiankun-的微前端实践](https://toutiao.io/k/gg5peyr) ![](assets/new.png)  
 - [2022-07-01-可观测｜时序数据降采样在Prometheus实践复盘](https://toutiao.io/k/vbqwtm4) ![](assets/new.png)  
-- [2022-07-01-Go1.19-那些事：国产芯片、内存模型等新特性，你知道多少？](https://toutiao.io/k/q3p8l9h) ![](assets/new.png)  
 - [2022-07-01-Google-的软件工程](https://toutiao.io/k/3snz69l) ![](assets/new.png)  
+- [2022-07-01-Go1.19-那些事：国产芯片、内存模型等新特性，你知道多少？](https://toutiao.io/k/q3p8l9h) ![](assets/new.png)  
 - [2022-07-01-基于开源流批一体数据同步引擎ChunJun数据还原—DDL解析模块的实战分享](https://toutiao.io/k/23yvg2z) ![](assets/new.png)  
 - [2022-07-01-通过模糊测试CNCF景观提高安全性](https://toutiao.io/k/3xsc8f0) ![](assets/new.png)  
 - [2022-07-01-爆肝一个月的Clickhouse入门篇持续更新中](https://toutiao.io/k/i8hgrov) ![](assets/new.png)  
 - [2022-07-01-一不小心，就踩了-tomcat-的这个坑](https://toutiao.io/k/44hrpkx) ![](assets/new.png)  
 - [2022-07-01-探秘Weak实现原理](https://toutiao.io/k/lhjdquj) ![](assets/new.png)  
-- [2022-07-01-推荐-Redis夺命52连问](https://toutiao.io/k/he3fzao) ![](assets/new.png)  
 - [2022-07-01-推荐-3000帧动画图解MySQL为什么需要binlog、redo-log和undo-log](https://toutiao.io/k/b0g4460) ![](assets/new.png)  
+- [2022-07-01-推荐-Redis夺命52连问](https://toutiao.io/k/he3fzao) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -9953,6 +9953,21 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "最近发现好像大多数程序员都不太会用 Figma 和 PowerDesigner 不知道是不是这种情况",
+        "link": "https://www.v2ex.com/t/863510",
+        "date": "2022-07-01"
+      },
+      {
+        "title": "unraid 7 折了",
+        "link": "https://www.v2ex.com/t/863509",
+        "date": "2022-07-01"
+      },
+      {
+        "title": "北京光华路地区停电",
+        "link": "https://www.v2ex.com/t/863508",
+        "date": "2022-07-01"
+      },
+      {
         "title": "01/07/2022 生命 随想",
         "link": "https://www.v2ex.com/t/863507",
         "date": "2022-07-01"
@@ -10151,21 +10166,6 @@
         "title": "一块 3w 小时的酷鱼 C5 C6 警告了 还有救吗",
         "link": "https://www.v2ex.com/t/863461",
         "date": "2022-07-01"
-      },
-      {
-        "title": "最近太热了，大家有啥冷笑话放出来清凉一下嘛",
-        "link": "https://www.v2ex.com/t/863460",
-        "date": "2022-07-01"
-      },
-      {
-        "title": "最近广州电信推千兆升级催得紧，想咨询是否适用于游戏宽带",
-        "link": "https://www.v2ex.com/t/863459",
-        "date": "2022-07-01"
-      },
-      {
-        "title": "有没有人分析房地产崩盘和银行破产的关联性?",
-        "link": "https://www.v2ex.com/t/863458",
-        "date": "2022-07-01"
       }
     ]
   },
@@ -10287,13 +10287,13 @@
         "date": "2022-07-01"
       },
       {
-        "title": "如何使用Go调用Kubernetes API？",
-        "link": "https://toutiao.io/k/ctnjr3u",
+        "title": "正确复制、重写别人的代码，为什么是件很酷的事情",
+        "link": "https://toutiao.io/k/li8d566",
         "date": "2022-07-01"
       },
       {
-        "title": "正确复制、重写别人的代码，为什么是件很酷的事情",
-        "link": "https://toutiao.io/k/li8d566",
+        "title": "如何使用Go调用Kubernetes API？",
+        "link": "https://toutiao.io/k/ctnjr3u",
         "date": "2022-07-01"
       },
       {
@@ -10332,13 +10332,13 @@
         "date": "2022-07-01"
       },
       {
-        "title": "Go1.19 那些事：国产芯片、内存模型等新特性，你知道多少？",
-        "link": "https://toutiao.io/k/q3p8l9h",
+        "title": "Google 的软件工程",
+        "link": "https://toutiao.io/k/3snz69l",
         "date": "2022-07-01"
       },
       {
-        "title": "Google 的软件工程",
-        "link": "https://toutiao.io/k/3snz69l",
+        "title": "Go1.19 那些事：国产芯片、内存模型等新特性，你知道多少？",
+        "link": "https://toutiao.io/k/q3p8l9h",
         "date": "2022-07-01"
       },
       {
@@ -10367,13 +10367,13 @@
         "date": "2022-07-01"
       },
       {
-        "title": "[推荐] Redis夺命52连问",
-        "link": "https://toutiao.io/k/he3fzao",
+        "title": "[推荐] 3000帧动画图解MySQL为什么需要binlog、redo log和undo log",
+        "link": "https://toutiao.io/k/b0g4460",
         "date": "2022-07-01"
       },
       {
-        "title": "[推荐] 3000帧动画图解MySQL为什么需要binlog、redo log和undo log",
-        "link": "https://toutiao.io/k/b0g4460",
+        "title": "[推荐] Redis夺命52连问",
+        "link": "https://toutiao.io/k/he3fzao",
         "date": "2022-07-01"
       }
     ]

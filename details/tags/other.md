@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-01 11:12:16。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-01 11:37:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,8 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-07-01-阿里小号变“空号”](https://www.v2ex.com/t/863512) 
+- [2022-07-01-如何出版一本技术图书----写在《C++20-高级编程》出版之时](https://www.v2ex.com/t/863511) 
 - [2022-07-01-最近发现好像大多数程序员都不太会用-Figma-和-PowerDesigner-不知道是不是这种情况](https://www.v2ex.com/t/863510) 
 - [2022-07-01-unraid-7-折了](https://www.v2ex.com/t/863509) 
 - [2022-07-01-北京光华路地区停电](https://www.v2ex.com/t/863508) 
@@ -1940,9 +1942,6 @@
 - [2022-07-01-《十年死磕，从一线工程师到-CEO》](https://www.v2ex.com/t/863468) 
 - [2022-07-01-尝鲜激活广电-5G-192-号段的体验](https://www.v2ex.com/t/863466) 
 - [2022-07-01-三十岁学历低女生能找什么样的工作](https://www.v2ex.com/t/863465) 
-- [2022-07-01-除了-FESCO-Adecco，还有哪些靠谱的外包公司？](https://www.v2ex.com/t/863463) 
-- [2022-07-01-请问下不同区的差别？](https://www.v2ex.com/t/863462) 
-- [2022-07-01-一块-3w-小时的酷鱼-C5-C6-警告了-还有救吗](https://www.v2ex.com/t/863461) 
 - [2022-07-01-故事点-vs.-人天-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15213&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fagile-estimation-story-points-man-day%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-01-如何设计数据可视化平台-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15212&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-design-data-visualization-platform%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-01-你的代码会说话吗？（上）-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15211&url=https%3A%2F%2Finsights.thoughtworks.cn%2F%3Fp%3D16179%26amp%3Bpreview%3Dtrue%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

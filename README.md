@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-07-01 11:37:22，:rocket: 更新条数: +2028， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-07-01 12:26:20，:rocket: 更新条数: +2028， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-07-01-Seafile-同步至-COS-时只能同步目录。](https://www.v2ex.com/t/863514) ![](assets/new.png)  
 - [2022-07-01-开源/远程-RSS3-母公司-Natural-Selection-Labs-寻找智能合约工程师和高级全栈工程师](https://www.v2ex.com/t/863513) ![](assets/new.png)  
 - [2022-07-01-阿里小号变“空号”](https://www.v2ex.com/t/863512) ![](assets/new.png)  
 - [2022-07-01-如何出版一本技术图书----写在《C++20-高级编程》出版之时](https://www.v2ex.com/t/863511) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-07-01-BTC-还会涨回来吗](https://www.v2ex.com/t/863495) ![](assets/new.png)  
 - [2022-07-01-想把-macbook-pro-做成-NAS，建立影音库，有些问题需要请教](https://www.v2ex.com/t/863494) ![](assets/new.png)  
 - [2022-07-01-macos-访达中连接-smb-服务器如何切换-445-以外的端口？](https://www.v2ex.com/t/863493) ![](assets/new.png)  
-- [2022-07-01-请教一下大佬.我们这个情况应该如何设计](https://www.v2ex.com/t/863492) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -562,12 +562,12 @@
 - [2022-07-01-陈珙：微服务，它还那么纯粹吗？](https://toutiao.io/k/p7v4org) ![](assets/new.png)  
 - [2022-07-01-探索Glide原理](https://toutiao.io/k/tx553c1) ![](assets/new.png)  
 - [2022-07-01-基于-qiankun-的微前端实践](https://toutiao.io/k/gg5peyr) ![](assets/new.png)  
-- [2022-07-01-可观测｜时序数据降采样在Prometheus实践复盘](https://toutiao.io/k/vbqwtm4) ![](assets/new.png)  
 - [2022-07-01-Google-的软件工程](https://toutiao.io/k/3snz69l) ![](assets/new.png)  
+- [2022-07-01-可观测｜时序数据降采样在Prometheus实践复盘](https://toutiao.io/k/vbqwtm4) ![](assets/new.png)  
 - [2022-07-01-Go1.19-那些事：国产芯片、内存模型等新特性，你知道多少？](https://toutiao.io/k/q3p8l9h) ![](assets/new.png)  
+- [2022-07-01-爆肝一个月的Clickhouse入门篇持续更新中](https://toutiao.io/k/i8hgrov) ![](assets/new.png)  
 - [2022-07-01-基于开源流批一体数据同步引擎ChunJun数据还原—DDL解析模块的实战分享](https://toutiao.io/k/23yvg2z) ![](assets/new.png)  
 - [2022-07-01-通过模糊测试CNCF景观提高安全性](https://toutiao.io/k/3xsc8f0) ![](assets/new.png)  
-- [2022-07-01-爆肝一个月的Clickhouse入门篇持续更新中](https://toutiao.io/k/i8hgrov) ![](assets/new.png)  
 - [2022-07-01-一不小心，就踩了-tomcat-的这个坑](https://toutiao.io/k/44hrpkx) ![](assets/new.png)  
 - [2022-07-01-探秘Weak实现原理](https://toutiao.io/k/lhjdquj) ![](assets/new.png)  
 - [2022-07-01-推荐-Redis夺命52连问](https://toutiao.io/k/he3fzao) ![](assets/new.png)  

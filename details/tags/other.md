@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-01 11:37:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-01 12:26:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,7 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-07-01-Seafile-同步至-COS-时只能同步目录。](https://www.v2ex.com/t/863514) 
 - [2022-07-01-阿里小号变“空号”](https://www.v2ex.com/t/863512) 
 - [2022-07-01-如何出版一本技术图书----写在《C++20-高级编程》出版之时](https://www.v2ex.com/t/863511) 
 - [2022-07-01-最近发现好像大多数程序员都不太会用-Figma-和-PowerDesigner-不知道是不是这种情况](https://www.v2ex.com/t/863510) 
@@ -1941,7 +1942,6 @@
 - [2022-07-01-海鲜市场员工优惠咋都没了](https://www.v2ex.com/t/863469) 
 - [2022-07-01-《十年死磕，从一线工程师到-CEO》](https://www.v2ex.com/t/863468) 
 - [2022-07-01-尝鲜激活广电-5G-192-号段的体验](https://www.v2ex.com/t/863466) 
-- [2022-07-01-三十岁学历低女生能找什么样的工作](https://www.v2ex.com/t/863465) 
 - [2022-07-01-故事点-vs.-人天-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15213&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fagile-estimation-story-points-man-day%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-01-如何设计数据可视化平台-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15212&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-design-data-visualization-platform%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-01-你的代码会说话吗？（上）-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15211&url=https%3A%2F%2Finsights.thoughtworks.cn%2F%3Fp%3D16179%26amp%3Bpreview%3Dtrue%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1967,11 +1967,11 @@
 - [2022-07-01-陈珙：微服务，它还那么纯粹吗？](https://toutiao.io/k/p7v4org) 
 - [2022-07-01-探索Glide原理](https://toutiao.io/k/tx553c1) 
 - [2022-07-01-基于-qiankun-的微前端实践](https://toutiao.io/k/gg5peyr) 
-- [2022-07-01-可观测｜时序数据降采样在Prometheus实践复盘](https://toutiao.io/k/vbqwtm4) 
 - [2022-07-01-Google-的软件工程](https://toutiao.io/k/3snz69l) 
+- [2022-07-01-可观测｜时序数据降采样在Prometheus实践复盘](https://toutiao.io/k/vbqwtm4) 
 - [2022-07-01-Go1.19-那些事：国产芯片、内存模型等新特性，你知道多少？](https://toutiao.io/k/q3p8l9h) 
-- [2022-07-01-基于开源流批一体数据同步引擎ChunJun数据还原—DDL解析模块的实战分享](https://toutiao.io/k/23yvg2z) 
 - [2022-07-01-爆肝一个月的Clickhouse入门篇持续更新中](https://toutiao.io/k/i8hgrov) 
+- [2022-07-01-基于开源流批一体数据同步引擎ChunJun数据还原—DDL解析模块的实战分享](https://toutiao.io/k/23yvg2z) 
 - [2022-07-01-一不小心，就踩了-tomcat-的这个坑](https://toutiao.io/k/44hrpkx) 
 - [2022-07-01-探秘Weak实现原理](https://toutiao.io/k/lhjdquj) 
 - [2022-07-01-推荐-Redis夺命52连问](https://toutiao.io/k/he3fzao) 

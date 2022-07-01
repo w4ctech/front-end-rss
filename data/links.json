@@ -9953,6 +9953,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "Alfred5-Changelog 整理 #1",
+        "link": "https://www.v2ex.com/t/863546",
+        "date": "2022-07-01"
+      },
+      {
         "title": "egde 浏览器的扩展变红了...",
         "link": "https://www.v2ex.com/t/863543",
         "date": "2022-07-01"
@@ -10110,21 +10115,6 @@
       {
         "title": "大家用 Notion 更看重它的哪些方面呢？",
         "link": "https://www.v2ex.com/t/863497",
-        "date": "2022-07-01"
-      },
-      {
-        "title": "Go 上传一个 10M 的文件, 真的会用 10M 的内存吗?",
-        "link": "https://www.v2ex.com/t/863496",
-        "date": "2022-07-01"
-      },
-      {
-        "title": "BTC 还会涨回来吗",
-        "link": "https://www.v2ex.com/t/863495",
-        "date": "2022-07-01"
-      },
-      {
-        "title": "想把 macbook pro 做成 NAS，建立影音库，有些问题需要请教",
-        "link": "https://www.v2ex.com/t/863494",
         "date": "2022-07-01"
       }
     ]
@@ -10329,11 +10319,6 @@
       {
         "title": "[推荐] 3000帧动画图解MySQL为什么需要binlog、redo log和undo log",
         "link": "https://toutiao.io/k/b0g4460",
-        "date": "2022-07-01"
-      },
-      {
-        "title": "[推荐] Redis夺命52连问",
-        "link": "https://toutiao.io/k/he3fzao",
         "date": "2022-07-01"
       }
     ]

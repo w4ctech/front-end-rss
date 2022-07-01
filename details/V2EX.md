@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2022-07-01 15:44:56。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-01 16:19:51。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-07-01-Alfred5-Changelog-整理-#1](https://www.v2ex.com/t/863546) 
 - [2022-07-01-egde-浏览器的扩展变红了...](https://www.v2ex.com/t/863543) 
 - [2022-07-01-为什么没有一个-IDE-或者语言支持用图形等多媒体方式进行注释，大家探讨一下。](https://www.v2ex.com/t/863541) 
 - [2022-07-01-远程服务器-RDP-断开之后，怎么保证-selenium-可以正常运行？](https://www.v2ex.com/t/863537) 
@@ -37,6 +38,3 @@
 - [2022-07-01-求一个-M1-Macbook-能用的扩展坞](https://www.v2ex.com/t/863502) 
 - [2022-07-01-有什么比较大的-NAS-的论坛吗？想去潜一潜水](https://www.v2ex.com/t/863498) 
 - [2022-07-01-大家用-Notion-更看重它的哪些方面呢？](https://www.v2ex.com/t/863497) 
-- [2022-07-01-Go-上传一个-10M-的文件,-真的会用-10M-的内存吗?](https://www.v2ex.com/t/863496) 
-- [2022-07-01-BTC-还会涨回来吗](https://www.v2ex.com/t/863495) 
-- [2022-07-01-想把-macbook-pro-做成-NAS，建立影音库，有些问题需要请教](https://www.v2ex.com/t/863494) 

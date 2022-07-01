@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-01 13:56:18。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-01 14:13:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
@@ -43,4 +43,3 @@
 - [2022-07-01-通过-zerotier-连接-A-网络的-ftp-服务器,总是连到-B-网络的-ftp-服务器](https://www.v2ex.com/t/863486) 
 - [2022-07-01-nodejs-mongodb](https://www.v2ex.com/t/863484) 
 - [2022-07-01-有支持防水的耳机吗?-主要是运动完想用水洗](https://www.v2ex.com/t/863483) 
-- [2022-07-01-想问大家工作上-如何处理“会来事儿”的同事提出的问题？怎样沟通交流的？](https://www.v2ex.com/t/863480) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-01 13:56:18。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-07-01 14:13:08。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -11,9 +11,9 @@
 <td><a href="#2022-01">01月</a></td>
 <td><a href="#2022-02">02月</a></td>
 <td><a href="#2022-03">03月</a></td>
-<td><a href="#2022-04">04月</a></td>
-<td><a href="#2022-05">05月</a></td>
-<td><a href="#2022-06">06月</a></td>
+<td>04月</td>
+<td>05月</td>
+<td>06月</td>
 <td><a href="#2022-07">07月</a></td>
 <td>08月</td>
 <td>09月</td>
@@ -106,7 +106,6 @@
 - [【V2EX】2022-07-01-通过-zerotier-连接-A-网络的-ftp-服务器,总是连到-B-网络的-ftp-服务器](https://www.v2ex.com/t/863486) 
 - [【V2EX】2022-07-01-nodejs-mongodb](https://www.v2ex.com/t/863484) 
 - [【V2EX】2022-07-01-有支持防水的耳机吗?-主要是运动完想用水洗](https://www.v2ex.com/t/863483) 
-- [【V2EX】2022-07-01-想问大家工作上-如何处理“会来事儿”的同事提出的问题？怎样沟通交流的？](https://www.v2ex.com/t/863480) 
 - [【技术头条】2022-07-01-故事点-vs.-人天-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15213&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fagile-estimation-story-points-man-day%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-01-如何设计数据可视化平台-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15212&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-design-data-visualization-platform%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-01-你的代码会说话吗？（上）-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15211&url=https%3A%2F%2Finsights.thoughtworks.cn%2F%3Fp%3D16179%26amp%3Bpreview%3Dtrue%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -144,48 +143,8 @@
 - [【开发者头条】2022-07-01-通过模糊测试CNCF景观提高安全性](https://toutiao.io/k/3xsc8f0) 
 - [【开发者头条】2022-07-01-一不小心，就踩了-tomcat-的这个坑](https://toutiao.io/k/44hrpkx) 
 - [【开发者头条】2022-07-01-探秘Weak实现原理](https://toutiao.io/k/lhjdquj) 
-- [【开发者头条】2022-07-01-推荐-Redis夺命52连问](https://toutiao.io/k/he3fzao) 
 - [【开发者头条】2022-07-01-推荐-3000帧动画图解MySQL为什么需要binlog、redo-log和undo-log](https://toutiao.io/k/b0g4460) 
-
-<div align="right"><a href="#时间分类">⬆返回顶部</a></div>
-</details>
-
-<details open>
-<summary id="2022-06">
- 2022-06
-</summary>
-
-
-- [【张鑫旭-鑫空间-鑫生活】2022-06-30-CSS排版为何强？瞧瞧多牛这换行](https://www.zhangxinxu.com/wordpress/2022/06/css-line-break-word-wrap-all/) 
-- [【张鑫旭-鑫空间-鑫生活】2022-06-19-如何继承自定义元素及其他JS中扩展新方法](https://www.zhangxinxu.com/wordpress/2022/06/js-extend-class-custom-elements/) 
-- [【张鑫旭-鑫空间-鑫生活】2022-06-12-基于文字的URL锚点定位与::target-text样式设置](https://www.zhangxinxu.com/wordpress/2022/06/url-anchor-target-text/) 
-- [【张鑫旭-鑫空间-鑫生活】2022-06-11-介绍一种CSS变量未定义语法也OK的小妙招](https://www.zhangxinxu.com/wordpress/2022/06/css-var-optional-empty-trick/) 
-
-<div align="right"><a href="#时间分类">⬆返回顶部</a></div>
-</details>
-
-<details open>
-<summary id="2022-05">
- 2022-05
-</summary>
-
-
-- [【张鑫旭-鑫空间-鑫生活】2022-05-29-如何实现页面刷新后不定位到之前的滚动位置？](https://www.zhangxinxu.com/wordpress/2022/05/history-scrollrestoration/) 
-- [【张鑫旭-鑫空间-鑫生活】2022-05-28-详解日后定会大规模使用的CSS-@layer-规则](https://www.zhangxinxu.com/wordpress/2022/05/css-layer-rule/) 
-- [【张鑫旭-鑫空间-鑫生活】2022-05-22-CSS必学基础：理解CSS中的级联规则](https://www.zhangxinxu.com/wordpress/2022/05/deep-in-css-cascade/) 
-- [【张鑫旭-鑫空间-鑫生活】2022-05-11-JS与条形码的生成](https://www.zhangxinxu.com/wordpress/2022/05/js-barcode/) 
-
-<div align="right"><a href="#时间分类">⬆返回顶部</a></div>
-</details>
-
-<details open>
-<summary id="2022-04">
- 2022-04
-</summary>
-
-
-- [【张鑫旭-鑫空间-鑫生活】2022-04-30-深入-JS-new-Function-语法](https://www.zhangxinxu.com/wordpress/2022/04/js-new-function/) 
-- [【张鑫旭-鑫空间-鑫生活】2022-04-27-小tips:-JS字体加载失败或完毕的检测](https://www.zhangxinxu.com/wordpress/2022/04/js-font-face-load/) 
+- [【开发者头条】2022-07-01-推荐-Redis夺命52连问](https://toutiao.io/k/he3fzao) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

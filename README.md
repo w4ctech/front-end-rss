@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-07-02 03:29:49，:rocket: 更新条数: +2015， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-07-02 04:16:55，:rocket: 更新条数: +2015， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-07-02-大家是日常使用电脑的-cpu-占用率是百分多少](https://www.v2ex.com/t/863592) ![](assets/new.png)  
+- [2022-07-02-iPad-2017-敢升-iOS-15-吗？现还在用-iOS-12](https://www.v2ex.com/t/863591) ![](assets/new.png)  
 - [2022-07-02-TweetDeck-Mac-客户端-20220702-登录提示断开连接，不能再用了](https://www.v2ex.com/t/863590) ![](assets/new.png)  
 - [2022-07-02-学习周刊-总第-60-期-2022-年第-25-周](https://www.v2ex.com/t/863589) ![](assets/new.png)  
 - [2022-07-02-DELL-成就台式机安装-Windows-Server-2012-R2-之后官方没有对应的驱动适配](https://www.v2ex.com/t/863588) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-07-02-Google-搜索了下-deno,-蚌埠住了](https://www.v2ex.com/t/863573) ![](assets/new.png)  
 - [2022-07-02-求推荐-5000-左右的-Windows-笔记本](https://www.v2ex.com/t/863572) ![](assets/new.png)  
 - [2022-07-02-推广一下我的免费图床](https://www.v2ex.com/t/863571) ![](assets/new.png)  
-- [2022-07-02-云主机是否适合-PT-站](https://www.v2ex.com/t/863570) ![](assets/new.png)  
-- [2022-07-02-求-Anki-卡片资源](https://www.v2ex.com/t/863569) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

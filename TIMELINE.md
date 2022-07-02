@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-02 03:29:49。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-07-02 04:16:55。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,8 @@
 </summary>
 
 
+- [【V2EX】2022-07-02-大家是日常使用电脑的-cpu-占用率是百分多少](https://www.v2ex.com/t/863592) 
+- [【V2EX】2022-07-02-iPad-2017-敢升-iOS-15-吗？现还在用-iOS-12](https://www.v2ex.com/t/863591) 
 - [【V2EX】2022-07-02-TweetDeck-Mac-客户端-20220702-登录提示断开连接，不能再用了](https://www.v2ex.com/t/863590) 
 - [【V2EX】2022-07-02-学习周刊-总第-60-期-2022-年第-25-周](https://www.v2ex.com/t/863589) 
 - [【V2EX】2022-07-02-DELL-成就台式机安装-Windows-Server-2012-R2-之后官方没有对应的驱动适配](https://www.v2ex.com/t/863588) 
@@ -108,8 +110,6 @@
 - [【V2EX】2022-07-01-研发岗日常实习-offer-第一次实习-求建议～](https://www.v2ex.com/t/863548) 
 - [【V2EX】2022-07-01-对-IM-聊天工具-不是特别了解，不过想知道-如-telegram-微信客户端是如何保证与服务器通讯的呢？-特别是当手机客户端进程都被杀死的情况下。](https://www.v2ex.com/t/863547) 
 - [【V2EX】2022-07-01-Alfred5-Changelog-整理-#1](https://www.v2ex.com/t/863546) 
-- [【V2EX】2022-07-01-egde-浏览器的扩展变红了...](https://www.v2ex.com/t/863543) 
-- [【V2EX】2022-07-01-为什么没有一个-IDE-或者语言支持用图形等多媒体方式进行注释，大家探讨一下。](https://www.v2ex.com/t/863541) 
 - [【技术头条】2022-07-02-故事点-vs.-人天-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15213&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fagile-estimation-story-points-man-day%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-02-如何设计数据可视化平台-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15212&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-design-data-visualization-platform%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-02-你的代码会说话吗？（上）-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15211&url=https%3A%2F%2Finsights.thoughtworks.cn%2F%3Fp%3D16179%26amp%3Bpreview%3Dtrue%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

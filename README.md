@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-07-02 17:39:23，:rocket: 更新条数: +2019， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-07-02 18:15:39，:rocket: 更新条数: +2019， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,10 @@
 </summary>
 
 
+- [2022-07-02-远程连载-03-开始全国旅居打工。V-友们，国内有哪些消费低，美食丰富，还比较好玩的地方呢？](https://www.v2ex.com/t/863709) ![](assets/new.png)  
+- [2022-07-02-求一个从腾讯云-cos-实时同步数据到服务器的方案](https://www.v2ex.com/t/863708) ![](assets/new.png)  
+- [2022-07-02-主动背组里的裁员指标被坑求复盘](https://www.v2ex.com/t/863707) ![](assets/new.png)  
+- [2022-07-02-7.1-过了，-google-workspace-教育版用户怎么样了？](https://www.v2ex.com/t/863705) ![](assets/new.png)  
 - [2022-07-02-接触前沿的学术讨论，可以通过哪些渠道呢？](https://www.v2ex.com/t/863704) ![](assets/new.png)  
 - [2022-07-02-有没有什么入门的机器学习项目推荐呢？（已购买-3090-显卡）](https://www.v2ex.com/t/863703) ![](assets/new.png)  
 - [2022-07-02-请教-mac-intel-bootcamp-安装的-windows-10-怎么升级到-windows-11](https://www.v2ex.com/t/863701) ![](assets/new.png)  
@@ -507,10 +511,6 @@
 - [2022-07-02-唉，-truenas-scale-系统好难用呀](https://www.v2ex.com/t/863687) ![](assets/new.png)  
 - [2022-07-02-百度香港-（hk.baidu.com）是已经被放弃了吗？刚刚尝试访问，似乎只剩一个空壳子，而且没有-https-的。](https://www.v2ex.com/t/863686) ![](assets/new.png)  
 - [2022-07-02-最近写了一个简单的-AI-头像生成器](https://www.v2ex.com/t/863685) ![](assets/new.png)  
-- [2022-07-02-想装台主机用来打游戏，第一次装，大家帮忙看看](https://www.v2ex.com/t/863684) ![](assets/new.png)  
-- [2022-07-02-北京联通下发的-dns-的-ttl-为什么这么飘忽...](https://www.v2ex.com/t/863683) ![](assets/new.png)  
-- [2022-07-02-一个-c-语言热更新的问题](https://www.v2ex.com/t/863682) ![](assets/new.png)  
-- [2022-07-02-给-17MBP-抹掉磁盘，重装系统的感觉不错](https://www.v2ex.com/t/863680) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -563,8 +563,8 @@
 - [2022-07-02-基于Impala的高性能数仓实践之执行引擎模块](https://toutiao.io/k/xs34jb6) ![](assets/new.png)  
 - [2022-07-02-Git进阶系列-|-6.-交互式Rebase](https://toutiao.io/k/5xx92iz) ![](assets/new.png)  
 - [2022-07-02-【第2658期】Vue-2.7-正式发布，代号为-Naruto](https://toutiao.io/k/3i7yfq0) ![](assets/new.png)  
-- [2022-07-02-推荐-吐血整理：一份不可多得的架构师图谱！](https://toutiao.io/k/ptp0ru2) ![](assets/new.png)  
 - [2022-07-02-推荐-3000帧动画图解MySQL为什么需要binlog、redo-log和undo-log](https://toutiao.io/k/b0g4460) ![](assets/new.png)  
+- [2022-07-02-推荐-吐血整理：一份不可多得的架构师图谱！](https://toutiao.io/k/ptp0ru2) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

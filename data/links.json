@@ -9953,6 +9953,26 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "[远程连载 03] 开始全国旅居打工。V 友们，国内有哪些消费低，美食丰富，还比较好玩的地方呢？",
+        "link": "https://www.v2ex.com/t/863709",
+        "date": "2022-07-02"
+      },
+      {
+        "title": "求一个从腾讯云 cos 实时同步数据到服务器的方案",
+        "link": "https://www.v2ex.com/t/863708",
+        "date": "2022-07-02"
+      },
+      {
+        "title": "主动背组里的裁员指标被坑求复盘",
+        "link": "https://www.v2ex.com/t/863707",
+        "date": "2022-07-02"
+      },
+      {
+        "title": "7.1 过了， google workspace 教育版用户怎么样了？",
+        "link": "https://www.v2ex.com/t/863705",
+        "date": "2022-07-02"
+      },
+      {
         "title": "接触前沿的学术讨论，可以通过哪些渠道呢？",
         "link": "https://www.v2ex.com/t/863704",
         "date": "2022-07-02"
@@ -10136,26 +10156,6 @@
         "title": "开公司给自己交社保，有必要嘛？",
         "link": "https://www.v2ex.com/t/863660",
         "date": "2022-07-02"
-      },
-      {
-        "title": "开源了一个 react+vite+ts 的后台管理系统",
-        "link": "https://www.v2ex.com/t/863659",
-        "date": "2022-07-02"
-      },
-      {
-        "title": "有没有什么可以放松的游戏推荐？",
-        "link": "https://www.v2ex.com/t/863658",
-        "date": "2022-07-02"
-      },
-      {
-        "title": "copilot 国内怎么付款？",
-        "link": "https://www.v2ex.com/t/863657",
-        "date": "2022-07-02"
-      },
-      {
-        "title": "公司送了每个月 160 美元使用额度的 Azure 服务器 不知道可以用来干啥呢",
-        "link": "https://www.v2ex.com/t/863656",
-        "date": "2022-07-02"
       }
     ]
   },
@@ -10322,13 +10322,13 @@
         "date": "2022-07-02"
       },
       {
-        "title": "[推荐] 吐血整理：一份不可多得的架构师图谱！",
-        "link": "https://toutiao.io/k/ptp0ru2",
+        "title": "[推荐] 3000帧动画图解MySQL为什么需要binlog、redo log和undo log",
+        "link": "https://toutiao.io/k/b0g4460",
         "date": "2022-07-02"
       },
       {
-        "title": "[推荐] 3000帧动画图解MySQL为什么需要binlog、redo log和undo log",
-        "link": "https://toutiao.io/k/b0g4460",
+        "title": "[推荐] 吐血整理：一份不可多得的架构师图谱！",
+        "link": "https://toutiao.io/k/ptp0ru2",
         "date": "2022-07-02"
       }
     ]

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-02 17:39:23。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-07-02 18:15:39。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,10 @@
 </summary>
 
 
+- [【V2EX】2022-07-02-远程连载-03-开始全国旅居打工。V-友们，国内有哪些消费低，美食丰富，还比较好玩的地方呢？](https://www.v2ex.com/t/863709) 
+- [【V2EX】2022-07-02-求一个从腾讯云-cos-实时同步数据到服务器的方案](https://www.v2ex.com/t/863708) 
+- [【V2EX】2022-07-02-主动背组里的裁员指标被坑求复盘](https://www.v2ex.com/t/863707) 
+- [【V2EX】2022-07-02-7.1-过了，-google-workspace-教育版用户怎么样了？](https://www.v2ex.com/t/863705) 
 - [【V2EX】2022-07-02-接触前沿的学术讨论，可以通过哪些渠道呢？](https://www.v2ex.com/t/863704) 
 - [【V2EX】2022-07-02-有没有什么入门的机器学习项目推荐呢？（已购买-3090-显卡）](https://www.v2ex.com/t/863703) 
 - [【V2EX】2022-07-02-请教-mac-intel-bootcamp-安装的-windows-10-怎么升级到-windows-11](https://www.v2ex.com/t/863701) 
@@ -105,10 +109,6 @@
 - [【V2EX】2022-07-02-MySQL-用-uuid-作为主键会导致“页分裂”，这种影响可以忽略吗？](https://www.v2ex.com/t/863662) 
 - [【V2EX】2022-07-02-怎么提取深圳场所码的真实链接？](https://www.v2ex.com/t/863661) 
 - [【V2EX】2022-07-02-开公司给自己交社保，有必要嘛？](https://www.v2ex.com/t/863660) 
-- [【V2EX】2022-07-02-开源了一个-react+vite+ts-的后台管理系统](https://www.v2ex.com/t/863659) 
-- [【V2EX】2022-07-02-有没有什么可以放松的游戏推荐？](https://www.v2ex.com/t/863658) 
-- [【V2EX】2022-07-02-copilot-国内怎么付款？](https://www.v2ex.com/t/863657) 
-- [【V2EX】2022-07-02-公司送了每个月-160-美元使用额度的-Azure-服务器-不知道可以用来干啥呢](https://www.v2ex.com/t/863656) 
 - [【技术头条】2022-07-02-故事点-vs.-人天-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15213&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fagile-estimation-story-points-man-day%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-02-如何设计数据可视化平台-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15212&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-design-data-visualization-platform%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-02-你的代码会说话吗？（上）-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15211&url=https%3A%2F%2Finsights.thoughtworks.cn%2F%3Fp%3D16179%26amp%3Bpreview%3Dtrue%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -139,8 +139,8 @@
 - [【开发者头条】2022-07-02-基于Impala的高性能数仓实践之执行引擎模块](https://toutiao.io/k/xs34jb6) 
 - [【开发者头条】2022-07-02-Git进阶系列-|-6.-交互式Rebase](https://toutiao.io/k/5xx92iz) 
 - [【开发者头条】2022-07-02-【第2658期】Vue-2.7-正式发布，代号为-Naruto](https://toutiao.io/k/3i7yfq0) 
-- [【开发者头条】2022-07-02-推荐-吐血整理：一份不可多得的架构师图谱！](https://toutiao.io/k/ptp0ru2) 
 - [【开发者头条】2022-07-02-推荐-3000帧动画图解MySQL为什么需要binlog、redo-log和undo-log](https://toutiao.io/k/b0g4460) 
+- [【开发者头条】2022-07-02-推荐-吐血整理：一份不可多得的架构师图谱！](https://toutiao.io/k/ptp0ru2) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

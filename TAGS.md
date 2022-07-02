@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-07-02 01:04:58。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-02 03:29:49。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -105,6 +105,7 @@
 
 
 
+- [【V2EX】我发现，直接用前端技术部署一个网站，然后再提供一个小软件用于本地启动一个服务端。这样开发，比起什么套壳客户端，-webview，-electron，会快很多。虽然不是...](https://www.v2ex.com/t/863576)
 - [......【查看更多】......](./details/tags/nodejs.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -137,7 +138,6 @@
 
 
 
-- [【V2EX】Flutter-健身房管理-project](https://www.v2ex.com/t/863527)
 - [......【查看更多】......](./details/tags/dev-mobile.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -182,6 +182,8 @@
 - [【张鑫旭-鑫空间-鑫生活】JS与条形码的生成](https://www.zhangxinxu.com/wordpress/2022/05/js-barcode/)
 - [【张鑫旭-鑫空间-鑫生活】深入-JS-new-Function-语法](https://www.zhangxinxu.com/wordpress/2022/04/js-new-function/)
 - [【张鑫旭-鑫空间-鑫生活】小tips:-JS字体加载失败或完毕的检测](https://www.zhangxinxu.com/wordpress/2022/04/js-font-face-load/)
+- [【V2EX】DELL-成就台式机安装-Windows-Server-2012-R2-之后官方没有对应的驱动适配](https://www.v2ex.com/t/863588)
+- [【V2EX】dagger.js-使用示例8-cards](https://www.v2ex.com/t/863582)
 - [【V2EX】mac-怎么判断路由器-LAN-口是百兆还是千兆？](https://www.v2ex.com/t/863560)
 - [【技术头条】如何实现页面刷新后不定位到之前的滚动位置？-www.zhangxinxu.com](https://blogread.cn/news/go.php?idItem=15195&url=https%3A%2F%2Fwww.zhangxinxu.com%2Fwordpress%2F2022%2F05%2Fhistory-scrollrestoration%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【开发者头条】推荐一款-JSON-可视化工具神器！](https://toutiao.io/k/rsgjy5z)
@@ -239,8 +241,8 @@
 
 - [【武汉肺炎防疫全纪录(财新网)】广州17岁男生在定点医院参加高考-特殊考场视频监考](https://m.caixin.com/m/2021-06-05/101723418.html)
 - [【武汉肺炎防疫全纪录(财新网)】林郑月娥率13高官直播接种科兴疫苗-复星疫苗预计周中到港](https://m.caixin.com/m/2021-02-22/101665724.html)
+- [【V2EX】西瓜视频网站无法切换帐号](https://www.v2ex.com/t/863585)
 - [【V2EX】同一个-20-核-128GB-RAM-无显卡虚拟机，在-Windows-10-2016-LTSB+Ubuntu-16.04-下用同版本同参数的-ffmpeg-压缩视频，为什么-Windows-总比-Ubuntu-快-25%？](https://www.v2ex.com/t/863558)
-- [【V2EX】Mac-的蓝牙音频为什么这么拉胯？](https://www.v2ex.com/t/863528)
 - [......【查看更多】......](./details/tags/audio-video.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -284,7 +286,6 @@
 - [【武汉肺炎防疫全纪录(财新网)】大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html)
 - [【张鑫旭-鑫空间-鑫生活】基于文字的URL锚点定位与::target-text样式设置](https://www.zhangxinxu.com/wordpress/2022/06/url-anchor-target-text/)
 - [【V2EX】egde-浏览器的扩展变红了...](https://www.v2ex.com/t/863543)
-- [【V2EX】国产操作系统的出路有没有可能是-chromeOS-这种类型](https://www.v2ex.com/t/863531)
 - [【开发者头条】go-zero微服务实战系列（八、如何处理每秒上万次的下单请求）](https://toutiao.io/k/qz3rxp6)
 - [......【查看更多】......](./details/tags/browser.md)
 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-07-02 06:15:48，:rocket: 更新条数: +2017， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-07-02 06:44:52，:rocket: 更新条数: +2017， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-07-02-Android-到目前为止有哪些不错的进阶书籍](https://www.v2ex.com/t/863613) ![](assets/new.png)  
 - [2022-07-02-SpaceVim-release-v2.0.0](https://www.v2ex.com/t/863612) ![](assets/new.png)  
 - [2022-07-02-有人遇到过双指缩放失灵么？](https://www.v2ex.com/t/863611) ![](assets/new.png)  
 - [2022-07-02-官方的透明壳其实还不错的](https://www.v2ex.com/t/863609) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-07-02-iPad-2017-敢升-iOS-15-吗？现还在用-iOS-12](https://www.v2ex.com/t/863591) ![](assets/new.png)  
 - [2022-07-02-TweetDeck-Mac-客户端-20220702-登录提示断开连接，不能再用了](https://www.v2ex.com/t/863590) ![](assets/new.png)  
 - [2022-07-02-学习周刊-总第-60-期-2022-年第-25-周](https://www.v2ex.com/t/863589) ![](assets/new.png)  
-- [2022-07-02-DELL-成就台式机安装-Windows-Server-2012-R2-之后官方没有对应的驱动适配](https://www.v2ex.com/t/863588) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

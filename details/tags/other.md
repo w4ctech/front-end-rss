@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-02 04:59:15。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-02 05:18:02。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,7 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-07-02-VirMach-的-AMD-新机房，是否值得迁移过去？](https://www.v2ex.com/t/863599) 
 - [2022-07-02-求大佬帮解决](https://www.v2ex.com/t/863598) 
 - [2022-07-02-我也推广下图床](https://www.v2ex.com/t/863597) 
 - [2022-07-02-除了宽带，还有其他家庭组网方式吗](https://www.v2ex.com/t/863596) 
@@ -1929,7 +1930,6 @@
 - [2022-07-02-推广我的网络书签&导航站](https://www.v2ex.com/t/863577) 
 - [2022-07-02-Go-语言语法精练-2022-最新-Go-语言教程，没有废话，纯干货！](https://www.v2ex.com/t/863575) 
 - [2022-07-02-国产的汽车品牌最后会剩下几家？](https://www.v2ex.com/t/863574) 
-- [2022-07-02-Google-搜索了下-deno,-蚌埠住了](https://www.v2ex.com/t/863573) 
 - [2022-07-02-求推荐-5000-左右的-Windows-笔记本](https://www.v2ex.com/t/863572) 
 - [2022-07-02-推广一下我的免费图床](https://www.v2ex.com/t/863571) 
 - [2022-07-02-云主机是否适合-PT-站](https://www.v2ex.com/t/863570) 
@@ -1948,7 +1948,6 @@
 - [2022-07-01-如何成立自己的私募基金？](https://www.v2ex.com/t/863554) 
 - [2022-07-01-iPhone-7-plus-升级-ios15.5-后，打电话会哑，能打出去的时候偶然有电流声，接电话按屏幕图标接不了（内详）。。。](https://www.v2ex.com/t/863552) 
 - [2022-07-01-QuickCDN-前端开源项目-CDN-加速服务搜索工具](https://www.v2ex.com/t/863550) 
-- [2022-07-01-女硕-offer-毕业选择：北京华为-vs-北京研究所-vs-珠海香洲区教师?](https://www.v2ex.com/t/863549) 
 - [2022-07-02-故事点-vs.-人天-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15213&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fagile-estimation-story-points-man-day%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-02-如何设计数据可视化平台-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15212&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-design-data-visualization-platform%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-02-你的代码会说话吗？（上）-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15211&url=https%3A%2F%2Finsights.thoughtworks.cn%2F%3Fp%3D16179%26amp%3Bpreview%3Dtrue%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

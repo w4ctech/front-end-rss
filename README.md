@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-07-02 04:59:15，:rocket: 更新条数: +2017， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-07-02 05:18:02，:rocket: 更新条数: +2016， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-07-02-VirMach-的-AMD-新机房，是否值得迁移过去？](https://www.v2ex.com/t/863599) ![](assets/new.png)  
 - [2022-07-02-求大佬帮解决](https://www.v2ex.com/t/863598) ![](assets/new.png)  
 - [2022-07-02-我也推广下图床](https://www.v2ex.com/t/863597) ![](assets/new.png)  
 - [2022-07-02-除了宽带，还有其他家庭组网方式吗](https://www.v2ex.com/t/863596) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-07-02-请教，长沙有哪几个驾校比较好，我是北京考的驾照扣了-12-分末处理，被吊销了](https://www.v2ex.com/t/863579) ![](assets/new.png)  
 - [2022-07-02-NAS-连接微屁恩后有什么坑吗？还能接入本地网络吗？](https://www.v2ex.com/t/863578) ![](assets/new.png)  
 - [2022-07-02-推广我的网络书签&导航站](https://www.v2ex.com/t/863577) ![](assets/new.png)  
-- [2022-07-02-我发现，直接用前端技术部署一个网站，然后再提供一个小软件用于本地启动一个服务端。这样开发，比起什么套壳客户端，-webview，-electron，会快很多。虽然不是...](https://www.v2ex.com/t/863576) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

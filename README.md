@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-07-02 20:39:25，:rocket: 更新条数: +2018， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-07-02 21:11:57，:rocket: 更新条数: +2017， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,7 +491,6 @@
 </summary>
 
 
-- [2022-07-02-据说国内发生了十亿级别的数据泄漏事件](https://www.v2ex.com/t/863713) ![](assets/new.png)  
 - [2022-07-02-Minecraft-现在可以在-Apple-Silicon-上原生运行](https://www.v2ex.com/t/863712) ![](assets/new.png)  
 - [2022-07-02-分享程序员发展路线图](https://www.v2ex.com/t/863711) ![](assets/new.png)  
 - [2022-07-02-远程连载-03-开始全国旅居打工。V-友们，国内有哪些消费低，美食丰富，还比较好玩的地方呢？](https://www.v2ex.com/t/863709) ![](assets/new.png)  
@@ -511,6 +510,7 @@
 - [2022-07-02-分享一个美国的豪宅观光-Youtube-频道](https://www.v2ex.com/t/863691) ![](assets/new.png)  
 - [2022-07-02-1-号线古城地铁站附近步行-600-米大主卧-2400-元转租](https://www.v2ex.com/t/863690) ![](assets/new.png)  
 - [2022-07-02-pve-硬盘直通做系统盘-Read-Error](https://www.v2ex.com/t/863688) ![](assets/new.png)  
+- [2022-07-02-唉，-truenas-scale-系统好难用呀](https://www.v2ex.com/t/863687) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

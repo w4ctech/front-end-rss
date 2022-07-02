@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-02 12:59:29。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-02 13:23:59。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,9 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-07-02-安卓相册问题](https://www.v2ex.com/t/863676) 
+- [2022-07-02-现召募技术合伙人,运营合伙人-初创小伙伴](https://www.v2ex.com/t/863673) 
+- [2022-07-02-请教，-win-下有什么截图软件可以有如下图效果](https://www.v2ex.com/t/863672) 
 - [2022-07-02-家里的宽带无法解析微软的域名是咋回事](https://www.v2ex.com/t/863670) 
 - [2022-07-02-压缩图片文件大小有什么好的方案？](https://www.v2ex.com/t/863667) 
 - [2022-07-02-Windows-7-和-Windows-10-哪一个适合作为虚拟机的系统？](https://www.v2ex.com/t/863666) 
@@ -1938,10 +1941,6 @@
 - [2022-07-02-寻求一些长期更新维护博客的技术大佬](https://www.v2ex.com/t/863629) 
 - [2022-07-02-macbook-2021-14-寸-m1-pro-感觉发热蛮严重啊](https://www.v2ex.com/t/863628) 
 - [2022-07-02-微服务-a-服务数据更新后，-b-服务怎么查询最新数据](https://www.v2ex.com/t/863627) 
-- [2022-07-02-刚遇到个《盗梦空间》问题……](https://www.v2ex.com/t/863626) 
-- [2022-07-02-MBP-14-HDMI-外接显示器，刚唤醒时候会卡顿几秒钟，正常吗](https://www.v2ex.com/t/863625) 
-- [2022-07-02-菜鸡问一个目录权限的问题。](https://www.v2ex.com/t/863624) 
-- [2022-07-02-DS1522+](https://www.v2ex.com/t/863622) 
 - [2022-07-02-故事点-vs.-人天-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15213&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fagile-estimation-story-points-man-day%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-02-如何设计数据可视化平台-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15212&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-design-data-visualization-platform%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-02-你的代码会说话吗？（上）-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15211&url=https%3A%2F%2Finsights.thoughtworks.cn%2F%3Fp%3D16179%26amp%3Bpreview%3Dtrue%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

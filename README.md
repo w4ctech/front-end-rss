@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-07-02 11:12:04，:rocket: 更新条数: +2016， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-07-02 11:36:24，:rocket: 更新条数: +2016， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-07-02-如果最近书荒，可以看看我的-2022-年上半年读书总结](https://www.v2ex.com/t/863664) ![](assets/new.png)  
 - [2022-07-02-用-obsidian-插入图片,-路劲为相对路径,-为啥在-typora-中还是无法加载图片呢](https://www.v2ex.com/t/863663) ![](assets/new.png)  
 - [2022-07-02-MySQL-用-uuid-作为主键会导致“页分裂”，这种影响可以忽略吗？](https://www.v2ex.com/t/863662) ![](assets/new.png)  
 - [2022-07-02-怎么提取深圳场所码的真实链接？](https://www.v2ex.com/t/863661) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-07-02-离开一线，回济南，公司推荐](https://www.v2ex.com/t/863643) ![](assets/new.png)  
 - [2022-07-02-突然有点感叹软件行业](https://www.v2ex.com/t/863642) ![](assets/new.png)  
 - [2022-07-02-MacOS-上-Google-Drive-可靠性问题](https://www.v2ex.com/t/863641) ![](assets/new.png)  
-- [2022-07-02-钉钉换绑手机号需要提供手持身份证正反面](https://www.v2ex.com/t/863640) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

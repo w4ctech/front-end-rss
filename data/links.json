@@ -9953,6 +9953,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "如果最近书荒，可以看看我的 2022 年上半年读书总结",
+        "link": "https://www.v2ex.com/t/863664",
+        "date": "2022-07-02"
+      },
+      {
         "title": "用 obsidian 插入图片, 路劲为相对路径, 为啥在 typora 中还是无法加载图片呢",
         "link": "https://www.v2ex.com/t/863663",
         "date": "2022-07-02"
@@ -10140,11 +10145,6 @@
       {
         "title": "Chrome 新图标变化不大，但就是更好看，真是神了",
         "link": "https://www.v2ex.com/t/863615",
-        "date": "2022-07-02"
-      },
-      {
-        "title": "WSL2 中 Docker 端口问题",
-        "link": "https://www.v2ex.com/t/863614",
         "date": "2022-07-02"
       }
     ]

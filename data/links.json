@@ -9953,6 +9953,16 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "唉， truenas scale 系统好难用呀",
+        "link": "https://www.v2ex.com/t/863687",
+        "date": "2022-07-02"
+      },
+      {
+        "title": "[百度香港] （hk.baidu.com）是已经被放弃了吗？刚刚尝试访问，似乎只剩一个空壳子，而且没有 https 的。",
+        "link": "https://www.v2ex.com/t/863686",
+        "date": "2022-07-02"
+      },
+      {
         "title": "最近写了一个简单的 AI 头像生成器",
         "link": "https://www.v2ex.com/t/863685",
         "date": "2022-07-02"
@@ -10145,16 +10155,6 @@
       {
         "title": "腾讯云轻量装了宝塔面板，无法通过 web 登录",
         "link": "https://www.v2ex.com/t/863639",
-        "date": "2022-07-02"
-      },
-      {
-        "title": "Mac 会出现剩余空间计算不同的情况，具体原因是什么？",
-        "link": "https://www.v2ex.com/t/863637",
-        "date": "2022-07-02"
-      },
-      {
-        "title": "fdisk 了硬盘， mkfs ext4 操作，数据还能恢复吗",
-        "link": "https://www.v2ex.com/t/863636",
         "date": "2022-07-02"
       }
     ]

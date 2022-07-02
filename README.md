@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-07-02 14:12:19，:rocket: 更新条数: +2018， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-07-02 14:37:30，:rocket: 更新条数: +2018， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-07-02-唉，-truenas-scale-系统好难用呀](https://www.v2ex.com/t/863687) ![](assets/new.png)  
+- [2022-07-02-百度香港-（hk.baidu.com）是已经被放弃了吗？刚刚尝试访问，似乎只剩一个空壳子，而且没有-https-的。](https://www.v2ex.com/t/863686) ![](assets/new.png)  
 - [2022-07-02-最近写了一个简单的-AI-头像生成器](https://www.v2ex.com/t/863685) ![](assets/new.png)  
 - [2022-07-02-想装台主机用来打游戏，第一次装，大家帮忙看看](https://www.v2ex.com/t/863684) ![](assets/new.png)  
 - [2022-07-02-北京联通下发的-dns-的-ttl-为什么这么飘忽...](https://www.v2ex.com/t/863683) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-07-02-Windows-7-和-Windows-10-哪一个适合作为虚拟机的系统？](https://www.v2ex.com/t/863666) ![](assets/new.png)  
 - [2022-07-02-目前买国行-PS5-之后的正确姿势是什么](https://www.v2ex.com/t/863665) ![](assets/new.png)  
 - [2022-07-02-如果最近书荒，可以看看我的-2022-年上半年读书总结](https://www.v2ex.com/t/863664) ![](assets/new.png)  
-- [2022-07-02-用-obsidian-插入图片,-路劲为相对路径,-为啥在-typora-中还是无法加载图片呢](https://www.v2ex.com/t/863663) ![](assets/new.png)  
-- [2022-07-02-MySQL-用-uuid-作为主键会导致“页分裂”，这种影响可以忽略吗？](https://www.v2ex.com/t/863662) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

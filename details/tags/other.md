@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-02 14:12:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-02 14:37:30。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1939,8 +1939,6 @@
 - [2022-07-02-MacOS-上-Google-Drive-可靠性问题](https://www.v2ex.com/t/863641) 
 - [2022-07-02-钉钉换绑手机号需要提供手持身份证正反面](https://www.v2ex.com/t/863640) 
 - [2022-07-02-腾讯云轻量装了宝塔面板，无法通过-web-登录](https://www.v2ex.com/t/863639) 
-- [2022-07-02-Mac-会出现剩余空间计算不同的情况，具体原因是什么？](https://www.v2ex.com/t/863637) 
-- [2022-07-02-fdisk-了硬盘，-mkfs-ext4-操作，数据还能恢复吗](https://www.v2ex.com/t/863636) 
 - [2022-07-02-故事点-vs.-人天-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15213&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fagile-estimation-story-points-man-day%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-02-如何设计数据可视化平台-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15212&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-design-data-visualization-platform%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-02-你的代码会说话吗？（上）-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15211&url=https%3A%2F%2Finsights.thoughtworks.cn%2F%3Fp%3D16179%26amp%3Bpreview%3Dtrue%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

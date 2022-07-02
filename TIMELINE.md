@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-02 07:13:10。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-07-02 07:37:10。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,11 @@
 </summary>
 
 
+- [【V2EX】2022-07-02-MBP-14-HDMI-外接显示器，刚唤醒时候会卡顿几秒钟，正常吗](https://www.v2ex.com/t/863625) 
+- [【V2EX】2022-07-02-菜鸡问一个目录权限的问题。](https://www.v2ex.com/t/863624) 
+- [【V2EX】2022-07-02-DS1522+](https://www.v2ex.com/t/863622) 
+- [【V2EX】2022-07-02-Oracle-的免费云服务可以做哪些有趣的事情？](https://www.v2ex.com/t/863621) 
+- [【V2EX】2022-07-02-App-Store-不能批量下载](https://www.v2ex.com/t/863620) 
 - [【V2EX】2022-07-02-开源了一款用于知识管理的-Docusaurus-博客主题](https://www.v2ex.com/t/863618) 
 - [【V2EX】2022-07-02-edge-打开本地-OPENWRT-的管理地址显示-Not-Found](https://www.v2ex.com/t/863616) 
 - [【V2EX】2022-07-02-Chrome-新图标变化不大，但就是更好看，真是神了](https://www.v2ex.com/t/863615) 
@@ -101,10 +106,6 @@
 - [【V2EX】2022-07-02-NAS-连接微屁恩后有什么坑吗？还能接入本地网络吗？](https://www.v2ex.com/t/863578) 
 - [【V2EX】2022-07-02-推广我的网络书签&导航站](https://www.v2ex.com/t/863577) 
 - [【V2EX】2022-07-02-我发现，直接用前端技术部署一个网站，然后再提供一个小软件用于本地启动一个服务端。这样开发，比起什么套壳客户端，-webview，-electron，会快很多。虽然不是...](https://www.v2ex.com/t/863576) 
-- [【V2EX】2022-07-02-Go-语言语法精练-2022-最新-Go-语言教程，没有废话，纯干货！](https://www.v2ex.com/t/863575) 
-- [【V2EX】2022-07-02-国产的汽车品牌最后会剩下几家？](https://www.v2ex.com/t/863574) 
-- [【V2EX】2022-07-02-求推荐-5000-左右的-Windows-笔记本](https://www.v2ex.com/t/863572) 
-- [【V2EX】2022-07-02-推广一下我的免费图床](https://www.v2ex.com/t/863571) 
 - [【技术头条】2022-07-02-故事点-vs.-人天-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15213&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fagile-estimation-story-points-man-day%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-02-如何设计数据可视化平台-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15212&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-design-data-visualization-platform%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-02-你的代码会说话吗？（上）-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15211&url=https%3A%2F%2Finsights.thoughtworks.cn%2F%3Fp%3D16179%26amp%3Bpreview%3Dtrue%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -131,10 +132,10 @@
 - [【开发者头条】2022-07-02-有关-Vue-源码的简单实现，做一个属于自己的-min-vue](https://toutiao.io/k/37d4dui) 
 - [【开发者头条】2022-07-02-基于Impala的高性能数仓实践之执行引擎模块](https://toutiao.io/k/xs34jb6) 
 - [【开发者头条】2022-07-02-跟HR在大群吵了一架...](https://toutiao.io/k/5bfyp33) 
-- [【开发者头条】2022-07-02-开发者工具-Top-100-名单](https://toutiao.io/k/t2refmu) 
 - [【开发者头条】2022-07-02-Git进阶系列-|-6.-交互式Rebase](https://toutiao.io/k/5xx92iz) 
-- [【开发者头条】2022-07-02-零配置python日志，安装即用！](https://toutiao.io/k/nz567nx) 
 - [【开发者头条】2022-07-02-【第2658期】Vue-2.7-正式发布，代号为-Naruto](https://toutiao.io/k/3i7yfq0) 
+- [【开发者头条】2022-07-02-零配置python日志，安装即用！](https://toutiao.io/k/nz567nx) 
+- [【开发者头条】2022-07-02-欢迎加入读者圈子，一起交流！](https://toutiao.io/k/c0mnyrh) 
 - [【开发者头条】2022-07-02-推荐-3000帧动画图解MySQL为什么需要binlog、redo-log和undo-log](https://toutiao.io/k/b0g4460) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>

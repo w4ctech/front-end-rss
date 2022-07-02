@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-02 07:13:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-02 07:37:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,11 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-07-02-MBP-14-HDMI-外接显示器，刚唤醒时候会卡顿几秒钟，正常吗](https://www.v2ex.com/t/863625) 
+- [2022-07-02-菜鸡问一个目录权限的问题。](https://www.v2ex.com/t/863624) 
+- [2022-07-02-DS1522+](https://www.v2ex.com/t/863622) 
+- [2022-07-02-Oracle-的免费云服务可以做哪些有趣的事情？](https://www.v2ex.com/t/863621) 
+- [2022-07-02-App-Store-不能批量下载](https://www.v2ex.com/t/863620) 
 - [2022-07-02-开源了一款用于知识管理的-Docusaurus-博客主题](https://www.v2ex.com/t/863618) 
 - [2022-07-02-Android-到目前为止有哪些不错的进阶书籍](https://www.v2ex.com/t/863613) 
 - [2022-07-02-有人遇到过双指缩放失灵么？](https://www.v2ex.com/t/863611) 
@@ -1935,10 +1940,6 @@
 - [2022-07-02-请教，长沙有哪几个驾校比较好，我是北京考的驾照扣了-12-分末处理，被吊销了](https://www.v2ex.com/t/863579) 
 - [2022-07-02-NAS-连接微屁恩后有什么坑吗？还能接入本地网络吗？](https://www.v2ex.com/t/863578) 
 - [2022-07-02-推广我的网络书签&导航站](https://www.v2ex.com/t/863577) 
-- [2022-07-02-Go-语言语法精练-2022-最新-Go-语言教程，没有废话，纯干货！](https://www.v2ex.com/t/863575) 
-- [2022-07-02-国产的汽车品牌最后会剩下几家？](https://www.v2ex.com/t/863574) 
-- [2022-07-02-求推荐-5000-左右的-Windows-笔记本](https://www.v2ex.com/t/863572) 
-- [2022-07-02-推广一下我的免费图床](https://www.v2ex.com/t/863571) 
 - [2022-07-02-故事点-vs.-人天-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15213&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fagile-estimation-story-points-man-day%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-02-如何设计数据可视化平台-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15212&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-design-data-visualization-platform%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-02-你的代码会说话吗？（上）-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15211&url=https%3A%2F%2Finsights.thoughtworks.cn%2F%3Fp%3D16179%26amp%3Bpreview%3Dtrue%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1958,5 +1959,5 @@
 - [2022-07-02-业务数据治理体系化思考与实践-tech.meituan.com](https://blogread.cn/news/go.php?idItem=15194&url=https%3A%2F%2Ftech.meituan.com%2F2022%2F05%2F12%2Fbusiness-data-governance.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-02-优质网站同好者周刊（第-072-期）-|-倾城博客](https://toutiao.io/k/i7tdmsy) 
 - [2022-07-02-跟HR在大群吵了一架...](https://toutiao.io/k/5bfyp33) 
-- [2022-07-02-开发者工具-Top-100-名单](https://toutiao.io/k/t2refmu) 
 - [2022-07-02-零配置python日志，安装即用！](https://toutiao.io/k/nz567nx) 
+- [2022-07-02-欢迎加入读者圈子，一起交流！](https://toutiao.io/k/c0mnyrh) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-02 05:18:02。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-07-02 05:39:24。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -93,7 +93,6 @@
 - [【V2EX】2022-07-02-国产的汽车品牌最后会剩下几家？](https://www.v2ex.com/t/863574) 
 - [【V2EX】2022-07-02-求推荐-5000-左右的-Windows-笔记本](https://www.v2ex.com/t/863572) 
 - [【V2EX】2022-07-02-推广一下我的免费图床](https://www.v2ex.com/t/863571) 
-- [【V2EX】2022-07-02-云主机是否适合-PT-站](https://www.v2ex.com/t/863570) 
 - [【V2EX】2022-07-02-求-Anki-卡片资源](https://www.v2ex.com/t/863569) 
 - [【V2EX】2022-07-02-哪个版本的-win10-适合在虚拟机里？](https://www.v2ex.com/t/863568) 
 - [【V2EX】2022-07-02-微信版本更新的内容](https://www.v2ex.com/t/863567) 
@@ -110,7 +109,6 @@
 - [【V2EX】2022-07-01-移动手机号刚刚解封几个小时晚上被冻结](https://www.v2ex.com/t/863555) 
 - [【V2EX】2022-07-01-如何成立自己的私募基金？](https://www.v2ex.com/t/863554) 
 - [【V2EX】2022-07-01-iPhone-7-plus-升级-ios15.5-后，打电话会哑，能打出去的时候偶然有电流声，接电话按屏幕图标接不了（内详）。。。](https://www.v2ex.com/t/863552) 
-- [【V2EX】2022-07-01-QuickCDN-前端开源项目-CDN-加速服务搜索工具](https://www.v2ex.com/t/863550) 
 - [【技术头条】2022-07-02-故事点-vs.-人天-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15213&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fagile-estimation-story-points-man-day%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-02-如何设计数据可视化平台-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15212&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-design-data-visualization-platform%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-02-你的代码会说话吗？（上）-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15211&url=https%3A%2F%2Finsights.thoughtworks.cn%2F%3Fp%3D16179%26amp%3Bpreview%3Dtrue%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

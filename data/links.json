@@ -9953,6 +9953,16 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "Minecraft 现在可以在 Apple Silicon 上原生运行",
+        "link": "https://www.v2ex.com/t/863712",
+        "date": "2022-07-02"
+      },
+      {
+        "title": "分享程序员发展路线图",
+        "link": "https://www.v2ex.com/t/863711",
+        "date": "2022-07-02"
+      },
+      {
         "title": "[远程连载 03] 开始全国旅居打工。V 友们，国内有哪些消费低，美食丰富，还比较好玩的地方呢？",
         "link": "https://www.v2ex.com/t/863709",
         "date": "2022-07-02"
@@ -10140,16 +10150,6 @@
       {
         "title": "用 obsidian 插入图片, 路劲为相对路径, 为啥在 typora 中还是无法加载图片呢",
         "link": "https://www.v2ex.com/t/863663",
-        "date": "2022-07-02"
-      },
-      {
-        "title": "MySQL 用 uuid 作为主键会导致“页分裂”，这种影响可以忽略吗？",
-        "link": "https://www.v2ex.com/t/863662",
-        "date": "2022-07-02"
-      },
-      {
-        "title": "怎么提取深圳场所码的真实链接？",
-        "link": "https://www.v2ex.com/t/863661",
         "date": "2022-07-02"
       }
     ]

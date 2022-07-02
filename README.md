@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-07-02 18:43:28，:rocket: 更新条数: +2018， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-07-02 19:11:05，:rocket: 更新条数: +2018， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-07-02-Minecraft-现在可以在-Apple-Silicon-上原生运行](https://www.v2ex.com/t/863712) ![](assets/new.png)  
+- [2022-07-02-分享程序员发展路线图](https://www.v2ex.com/t/863711) ![](assets/new.png)  
 - [2022-07-02-远程连载-03-开始全国旅居打工。V-友们，国内有哪些消费低，美食丰富，还比较好玩的地方呢？](https://www.v2ex.com/t/863709) ![](assets/new.png)  
 - [2022-07-02-求一个从腾讯云-cos-实时同步数据到服务器的方案](https://www.v2ex.com/t/863708) ![](assets/new.png)  
 - [2022-07-02-主动背组里的裁员指标被坑求复盘](https://www.v2ex.com/t/863707) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-07-02-1-号线古城地铁站附近步行-600-米大主卧-2400-元转租](https://www.v2ex.com/t/863690) ![](assets/new.png)  
 - [2022-07-02-pve-硬盘直通做系统盘-Read-Error](https://www.v2ex.com/t/863688) ![](assets/new.png)  
 - [2022-07-02-唉，-truenas-scale-系统好难用呀](https://www.v2ex.com/t/863687) ![](assets/new.png)  
-- [2022-07-02-百度香港-（hk.baidu.com）是已经被放弃了吗？刚刚尝试访问，似乎只剩一个空壳子，而且没有-https-的。](https://www.v2ex.com/t/863686) ![](assets/new.png)  
-- [2022-07-02-最近写了一个简单的-AI-头像生成器](https://www.v2ex.com/t/863685) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-07-02 13:23:59，:rocket: 更新条数: +2016， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-07-02 13:41:57，:rocket: 更新条数: +2017， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,10 @@
 </summary>
 
 
+- [2022-07-02-给-17MBP-抹掉磁盘，重装系统的感觉不错](https://www.v2ex.com/t/863680) ![](assets/new.png)  
+- [2022-07-02-通宵加班,-付费求助-500-1000-求助帮忙把,-一个-vue3+ts+vite-的脚手架适配至-chrome45,价格可谈,路过的大佬帮下忙吧,-只需要-build-后能在-chrome-里正常浏览...](https://www.v2ex.com/t/863679) ![](assets/new.png)  
+- [2022-07-02-Airpods-Pro-一边耳机连不上，过保后官方换耳机收-800-元一个，我该买新的吗？](https://www.v2ex.com/t/863678) ![](assets/new.png)  
+- [2022-07-02-做了个-alfred-捷径，用来不输密码登录虚拟机里的-SAP-GUI-for-Windows](https://www.v2ex.com/t/863677) ![](assets/new.png)  
 - [2022-07-02-安卓相册问题](https://www.v2ex.com/t/863676) ![](assets/new.png)  
 - [2022-07-02-intel-mbp13-外接-4k-显示器看-b-站视频很卡](https://www.v2ex.com/t/863675) ![](assets/new.png)  
 - [2022-07-02-为什么-3070-会带不动-b-站的-4k-视频？](https://www.v2ex.com/t/863674) ![](assets/new.png)  
@@ -507,10 +511,6 @@
 - [2022-07-02-开公司给自己交社保，有必要嘛？](https://www.v2ex.com/t/863660) ![](assets/new.png)  
 - [2022-07-02-开源了一个-react+vite+ts-的后台管理系统](https://www.v2ex.com/t/863659) ![](assets/new.png)  
 - [2022-07-02-有没有什么可以放松的游戏推荐？](https://www.v2ex.com/t/863658) ![](assets/new.png)  
-- [2022-07-02-copilot-国内怎么付款？](https://www.v2ex.com/t/863657) ![](assets/new.png)  
-- [2022-07-02-公司送了每个月-160-美元使用额度的-Azure-服务器-不知道可以用来干啥呢](https://www.v2ex.com/t/863656) ![](assets/new.png)  
-- [2022-07-02-给和老婆一起远程看视频的插件做了一个主页，一键点击即可试用。欢迎访问](https://www.v2ex.com/t/863654) ![](assets/new.png)  
-- [2022-07-02-软路由求推荐-|-2022-年-7-月](https://www.v2ex.com/t/863651) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

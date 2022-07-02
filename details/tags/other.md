@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-02 13:23:59。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-02 13:41:57。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,8 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-07-02-给-17MBP-抹掉磁盘，重装系统的感觉不错](https://www.v2ex.com/t/863680) 
+- [2022-07-02-Airpods-Pro-一边耳机连不上，过保后官方换耳机收-800-元一个，我该买新的吗？](https://www.v2ex.com/t/863678) 
 - [2022-07-02-安卓相册问题](https://www.v2ex.com/t/863676) 
 - [2022-07-02-现召募技术合伙人,运营合伙人-初创小伙伴](https://www.v2ex.com/t/863673) 
 - [2022-07-02-请教，-win-下有什么截图软件可以有如下图效果](https://www.v2ex.com/t/863672) 
@@ -1938,9 +1940,6 @@
 - [2022-07-02-fdisk-了硬盘，-mkfs-ext4-操作，数据还能恢复吗](https://www.v2ex.com/t/863636) 
 - [2022-07-02-apple-watch-充电器推荐](https://www.v2ex.com/t/863635) 
 - [2022-07-02-UniSwap-Router-和-UniSwap-Factory-的区别是什么？](https://www.v2ex.com/t/863633) 
-- [2022-07-02-寻求一些长期更新维护博客的技术大佬](https://www.v2ex.com/t/863629) 
-- [2022-07-02-macbook-2021-14-寸-m1-pro-感觉发热蛮严重啊](https://www.v2ex.com/t/863628) 
-- [2022-07-02-微服务-a-服务数据更新后，-b-服务怎么查询最新数据](https://www.v2ex.com/t/863627) 
 - [2022-07-02-故事点-vs.-人天-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15213&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fagile-estimation-story-points-man-day%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-02-如何设计数据可视化平台-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15212&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-design-data-visualization-platform%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-02-你的代码会说话吗？（上）-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15211&url=https%3A%2F%2Finsights.thoughtworks.cn%2F%3Fp%3D16179%26amp%3Bpreview%3Dtrue%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

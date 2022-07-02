@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-07-02 13:23:59。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-02 13:41:57。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -56,6 +56,7 @@
 
 
 
+- [【V2EX】通宵加班,-付费求助-500-1000-求助帮忙把,-一个-vue3+ts+vite-的脚手架适配至-chrome45,价格可谈,路过的大佬帮下忙吧,-只需要-build-后能在-chrome-里正常浏览...](https://www.v2ex.com/t/863679)
 - [【开发者头条】有关-Vue-源码的简单实现，做一个属于自己的-min-vue](https://toutiao.io/k/37d4dui)
 - [【开发者头条】【第2658期】Vue-2.7-正式发布，代号为-Naruto](https://toutiao.io/k/3i7yfq0)
 - [......【查看更多】......](./details/tags/vue.md)
@@ -224,6 +225,7 @@
 
 
 
+- [【V2EX】做了个-alfred-捷径，用来不输密码登录虚拟机里的-SAP-GUI-for-Windows](https://www.v2ex.com/t/863677)
 - [......【查看更多】......](./details/tags/canvas-image.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-02 06:44:52。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-07-02 07:13:10。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,16 +68,18 @@
 </summary>
 
 
+- [【V2EX】2022-07-02-开源了一款用于知识管理的-Docusaurus-博客主题](https://www.v2ex.com/t/863618) 
+- [【V2EX】2022-07-02-edge-打开本地-OPENWRT-的管理地址显示-Not-Found](https://www.v2ex.com/t/863616) 
+- [【V2EX】2022-07-02-Chrome-新图标变化不大，但就是更好看，真是神了](https://www.v2ex.com/t/863615) 
+- [【V2EX】2022-07-02-WSL2-中-Docker-端口问题](https://www.v2ex.com/t/863614) 
 - [【V2EX】2022-07-02-Android-到目前为止有哪些不错的进阶书籍](https://www.v2ex.com/t/863613) 
 - [【V2EX】2022-07-02-SpaceVim-release-v2.0.0](https://www.v2ex.com/t/863612) 
 - [【V2EX】2022-07-02-有人遇到过双指缩放失灵么？](https://www.v2ex.com/t/863611) 
 - [【V2EX】2022-07-02-官方的透明壳其实还不错的](https://www.v2ex.com/t/863609) 
 - [【V2EX】2022-07-02-光猫桥接模式下涉及两级路由的-IPv6-前缀下发（委派）问题求助](https://www.v2ex.com/t/863608) 
 - [【V2EX】2022-07-02-如何回应理发店频繁推销，让其秒放弃？](https://www.v2ex.com/t/863606) 
-- [【V2EX】2022-07-02-如何评价《成电官僚推诿拒绝发放博士文凭》？](https://www.v2ex.com/t/863604) 
 - [【V2EX】2022-07-02-被裁员后重新找工作会受影响吗？](https://www.v2ex.com/t/863603) 
 - [【V2EX】2022-07-02-go-版-trzsz-兼容-tmux-的-rz-/-sz-已发布到各大软件分发平台，可以通过-apt、yum-和-brew-等进行安装。](https://www.v2ex.com/t/863602) 
-- [【V2EX】2022-07-02-PTT-今天开放注册一天，要注册的抓紧了](https://www.v2ex.com/t/863601) 
 - [【V2EX】2022-07-02-VirMach-的-AMD-新机房，是否值得迁移过去？](https://www.v2ex.com/t/863599) 
 - [【V2EX】2022-07-02-求大佬帮解决](https://www.v2ex.com/t/863598) 
 - [【V2EX】2022-07-02-我也推广下图床](https://www.v2ex.com/t/863597) 
@@ -103,11 +105,6 @@
 - [【V2EX】2022-07-02-国产的汽车品牌最后会剩下几家？](https://www.v2ex.com/t/863574) 
 - [【V2EX】2022-07-02-求推荐-5000-左右的-Windows-笔记本](https://www.v2ex.com/t/863572) 
 - [【V2EX】2022-07-02-推广一下我的免费图床](https://www.v2ex.com/t/863571) 
-- [【V2EX】2022-07-02-求-Anki-卡片资源](https://www.v2ex.com/t/863569) 
-- [【V2EX】2022-07-02-哪个版本的-win10-适合在虚拟机里？](https://www.v2ex.com/t/863568) 
-- [【V2EX】2022-07-02-微信版本更新的内容](https://www.v2ex.com/t/863567) 
-- [【V2EX】2022-07-02-拯救者-Y9000X2022-的-BIOS-启动时间需要-20S](https://www.v2ex.com/t/863566) 
-- [【V2EX】2022-07-02-群晖如何关闭右上角气泡存储空间不足的提醒？](https://www.v2ex.com/t/863565) 
 - [【技术头条】2022-07-02-故事点-vs.-人天-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15213&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fagile-estimation-story-points-man-day%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-02-如何设计数据可视化平台-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15212&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-design-data-visualization-platform%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-02-你的代码会说话吗？（上）-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15211&url=https%3A%2F%2Finsights.thoughtworks.cn%2F%3Fp%3D16179%26amp%3Bpreview%3Dtrue%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

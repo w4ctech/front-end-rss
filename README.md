@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-07-02 06:44:52，:rocket: 更新条数: +2017， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-07-02 07:13:10，:rocket: 更新条数: +2014， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,16 +491,18 @@
 </summary>
 
 
+- [2022-07-02-开源了一款用于知识管理的-Docusaurus-博客主题](https://www.v2ex.com/t/863618) ![](assets/new.png)  
+- [2022-07-02-edge-打开本地-OPENWRT-的管理地址显示-Not-Found](https://www.v2ex.com/t/863616) ![](assets/new.png)  
+- [2022-07-02-Chrome-新图标变化不大，但就是更好看，真是神了](https://www.v2ex.com/t/863615) ![](assets/new.png)  
+- [2022-07-02-WSL2-中-Docker-端口问题](https://www.v2ex.com/t/863614) ![](assets/new.png)  
 - [2022-07-02-Android-到目前为止有哪些不错的进阶书籍](https://www.v2ex.com/t/863613) ![](assets/new.png)  
 - [2022-07-02-SpaceVim-release-v2.0.0](https://www.v2ex.com/t/863612) ![](assets/new.png)  
 - [2022-07-02-有人遇到过双指缩放失灵么？](https://www.v2ex.com/t/863611) ![](assets/new.png)  
 - [2022-07-02-官方的透明壳其实还不错的](https://www.v2ex.com/t/863609) ![](assets/new.png)  
 - [2022-07-02-光猫桥接模式下涉及两级路由的-IPv6-前缀下发（委派）问题求助](https://www.v2ex.com/t/863608) ![](assets/new.png)  
 - [2022-07-02-如何回应理发店频繁推销，让其秒放弃？](https://www.v2ex.com/t/863606) ![](assets/new.png)  
-- [2022-07-02-如何评价《成电官僚推诿拒绝发放博士文凭》？](https://www.v2ex.com/t/863604) ![](assets/new.png)  
 - [2022-07-02-被裁员后重新找工作会受影响吗？](https://www.v2ex.com/t/863603) ![](assets/new.png)  
 - [2022-07-02-go-版-trzsz-兼容-tmux-的-rz-/-sz-已发布到各大软件分发平台，可以通过-apt、yum-和-brew-等进行安装。](https://www.v2ex.com/t/863602) ![](assets/new.png)  
-- [2022-07-02-PTT-今天开放注册一天，要注册的抓紧了](https://www.v2ex.com/t/863601) ![](assets/new.png)  
 - [2022-07-02-VirMach-的-AMD-新机房，是否值得迁移过去？](https://www.v2ex.com/t/863599) ![](assets/new.png)  
 - [2022-07-02-求大佬帮解决](https://www.v2ex.com/t/863598) ![](assets/new.png)  
 - [2022-07-02-我也推广下图床](https://www.v2ex.com/t/863597) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-07-02-有没有-“magsafe-三合一收纳支架”-这样的产品](https://www.v2ex.com/t/863594) ![](assets/new.png)  
 - [2022-07-02-大家是日常使用电脑的-cpu-占用率是百分多少](https://www.v2ex.com/t/863592) ![](assets/new.png)  
 - [2022-07-02-iPad-2017-敢升-iOS-15-吗？现还在用-iOS-12](https://www.v2ex.com/t/863591) ![](assets/new.png)  
-- [2022-07-02-TweetDeck-Mac-客户端-20220702-登录提示断开连接，不能再用了](https://www.v2ex.com/t/863590) ![](assets/new.png)  
-- [2022-07-02-学习周刊-总第-60-期-2022-年第-25-周](https://www.v2ex.com/t/863589) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-02 23:13:10。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-07-02 23:38:56。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,7 @@
 </summary>
 
 
+- [【V2EX】2022-07-02-淘宝集运和空运有什么区别呢?](https://www.v2ex.com/t/863714) 
 - [【V2EX】2022-07-02-Minecraft-现在可以在-Apple-Silicon-上原生运行](https://www.v2ex.com/t/863712) 
 - [【V2EX】2022-07-02-分享程序员发展路线图](https://www.v2ex.com/t/863711) 
 - [【V2EX】2022-07-02-远程连载-03-开始全国旅居打工。V-友们，国内有哪些消费低，美食丰富，还比较好玩的地方呢？](https://www.v2ex.com/t/863709) 
@@ -106,7 +107,6 @@
 - [【V2EX】2022-07-02-压缩图片文件大小有什么好的方案？](https://www.v2ex.com/t/863667) 
 - [【V2EX】2022-07-02-Windows-7-和-Windows-10-哪一个适合作为虚拟机的系统？](https://www.v2ex.com/t/863666) 
 - [【V2EX】2022-07-02-目前买国行-PS5-之后的正确姿势是什么](https://www.v2ex.com/t/863665) 
-- [【V2EX】2022-07-02-如果最近书荒，可以看看我的-2022-年上半年读书总结](https://www.v2ex.com/t/863664) 
 - [【技术头条】2022-07-02-故事点-vs.-人天-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15213&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fagile-estimation-story-points-man-day%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-02-如何设计数据可视化平台-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15212&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-design-data-visualization-platform%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-02-你的代码会说话吗？（上）-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15211&url=https%3A%2F%2Finsights.thoughtworks.cn%2F%3Fp%3D16179%26amp%3Bpreview%3Dtrue%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -137,8 +137,8 @@
 - [【开发者头条】2022-07-02-基于Impala的高性能数仓实践之执行引擎模块](https://toutiao.io/k/xs34jb6) 
 - [【开发者头条】2022-07-02-Git进阶系列-|-6.-交互式Rebase](https://toutiao.io/k/5xx92iz) 
 - [【开发者头条】2022-07-02-【第2658期】Vue-2.7-正式发布，代号为-Naruto](https://toutiao.io/k/3i7yfq0) 
-- [【开发者头条】2022-07-02-推荐-3000帧动画图解MySQL为什么需要binlog、redo-log和undo-log](https://toutiao.io/k/b0g4460) 
 - [【开发者头条】2022-07-02-推荐-吐血整理：一份不可多得的架构师图谱！](https://toutiao.io/k/ptp0ru2) 
+- [【开发者头条】2022-07-02-推荐-3000帧动画图解MySQL为什么需要binlog、redo-log和undo-log](https://toutiao.io/k/b0g4460) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

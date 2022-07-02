@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-07-02 16:16:59，:rocket: 更新条数: +2019， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-07-02 16:52:32，:rocket: 更新条数: +2018， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-07-02-请教-mac-intel-bootcamp-安装的-windows-10-怎么升级到-windows-11](https://www.v2ex.com/t/863701) ![](assets/new.png)  
+- [2022-07-02-有人试过用亚克力做窗户吗？](https://www.v2ex.com/t/863699) ![](assets/new.png)  
 - [2022-07-02-求推荐一个比较小的-ITX-机箱不需要显卡](https://www.v2ex.com/t/863698) ![](assets/new.png)  
 - [2022-07-02-请教一个-Nginx-反代配置写法](https://www.v2ex.com/t/863697) ![](assets/new.png)  
 - [2022-07-02-mac-抹掉数据重装系统会升级版本吗](https://www.v2ex.com/t/863695) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-07-02-给-17MBP-抹掉磁盘，重装系统的感觉不错](https://www.v2ex.com/t/863680) ![](assets/new.png)  
 - [2022-07-02-通宵加班,-付费求助-500-1000-求助帮忙把,-一个-vue3+ts+vite-的脚手架适配至-chrome45,价格可谈,路过的大佬帮下忙吧,-只需要-build-后能在-chrome-里正常浏览...](https://www.v2ex.com/t/863679) ![](assets/new.png)  
 - [2022-07-02-Airpods-Pro-一边耳机连不上，过保后官方换耳机收-800-元一个，我该买新的吗？](https://www.v2ex.com/t/863678) ![](assets/new.png)  
-- [2022-07-02-做了个-alfred-捷径，用来不输密码登录虚拟机里的-SAP-GUI-for-Windows](https://www.v2ex.com/t/863677) ![](assets/new.png)  
-- [2022-07-02-安卓相册问题](https://www.v2ex.com/t/863676) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -563,8 +563,8 @@
 - [2022-07-02-基于Impala的高性能数仓实践之执行引擎模块](https://toutiao.io/k/xs34jb6) ![](assets/new.png)  
 - [2022-07-02-Git进阶系列-|-6.-交互式Rebase](https://toutiao.io/k/5xx92iz) ![](assets/new.png)  
 - [2022-07-02-【第2658期】Vue-2.7-正式发布，代号为-Naruto](https://toutiao.io/k/3i7yfq0) ![](assets/new.png)  
-- [2022-07-02-推荐-3000帧动画图解MySQL为什么需要binlog、redo-log和undo-log](https://toutiao.io/k/b0g4460) ![](assets/new.png)  
 - [2022-07-02-推荐-吐血整理：一份不可多得的架构师图谱！](https://toutiao.io/k/ptp0ru2) ![](assets/new.png)  
+- [2022-07-02-推荐-3000帧动画图解MySQL为什么需要binlog、redo-log和undo-log](https://toutiao.io/k/b0g4460) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

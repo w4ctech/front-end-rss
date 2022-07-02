@@ -9953,6 +9953,16 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "请教 mac intel bootcamp 安装的 windows 10 怎么升级到 windows 11",
+        "link": "https://www.v2ex.com/t/863701",
+        "date": "2022-07-02"
+      },
+      {
+        "title": "有人试过用亚克力做窗户吗？",
+        "link": "https://www.v2ex.com/t/863699",
+        "date": "2022-07-02"
+      },
+      {
         "title": "求推荐一个比较小的 ITX 机箱(不需要显卡)",
         "link": "https://www.v2ex.com/t/863698",
         "date": "2022-07-02"
@@ -10141,21 +10151,6 @@
         "title": "给和老婆一起远程看视频的插件做了一个主页，一键点击即可试用。欢迎访问",
         "link": "https://www.v2ex.com/t/863654",
         "date": "2022-07-02"
-      },
-      {
-        "title": "软路由求推荐 | 2022 年 7 月",
-        "link": "https://www.v2ex.com/t/863651",
-        "date": "2022-07-02"
-      },
-      {
-        "title": "上架了一款可以预防颈椎病的新标签页插件「歪脖子新标签页」",
-        "link": "https://www.v2ex.com/t/863650",
-        "date": "2022-07-02"
-      },
-      {
-        "title": "快捷指令中的“到达”、“离开”等功能无法触发，为什么还要留着？",
-        "link": "https://www.v2ex.com/t/863649",
-        "date": "2022-07-02"
       }
     ]
   },
@@ -10322,13 +10317,13 @@
         "date": "2022-07-02"
       },
       {
-        "title": "[推荐] 3000帧动画图解MySQL为什么需要binlog、redo log和undo log",
-        "link": "https://toutiao.io/k/b0g4460",
+        "title": "[推荐] 吐血整理：一份不可多得的架构师图谱！",
+        "link": "https://toutiao.io/k/ptp0ru2",
         "date": "2022-07-02"
       },
       {
-        "title": "[推荐] 吐血整理：一份不可多得的架构师图谱！",
-        "link": "https://toutiao.io/k/ptp0ru2",
+        "title": "[推荐] 3000帧动画图解MySQL为什么需要binlog、redo log和undo log",
+        "link": "https://toutiao.io/k/b0g4460",
         "date": "2022-07-02"
       }
     ]

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-07-02 16:52:32，:rocket: 更新条数: +2018， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-07-02 17:13:33，:rocket: 更新条数: +2019， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-07-02-接触前沿的学术讨论，可以通过哪些渠道呢？](https://www.v2ex.com/t/863704) ![](assets/new.png)  
+- [2022-07-02-有没有什么入门的机器学习项目推荐呢？（已购买-3090-显卡）](https://www.v2ex.com/t/863703) ![](assets/new.png)  
 - [2022-07-02-请教-mac-intel-bootcamp-安装的-windows-10-怎么升级到-windows-11](https://www.v2ex.com/t/863701) ![](assets/new.png)  
 - [2022-07-02-有人试过用亚克力做窗户吗？](https://www.v2ex.com/t/863699) ![](assets/new.png)  
 - [2022-07-02-求推荐一个比较小的-ITX-机箱不需要显卡](https://www.v2ex.com/t/863698) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-07-02-北京联通下发的-dns-的-ttl-为什么这么飘忽...](https://www.v2ex.com/t/863683) ![](assets/new.png)  
 - [2022-07-02-一个-c-语言热更新的问题](https://www.v2ex.com/t/863682) ![](assets/new.png)  
 - [2022-07-02-给-17MBP-抹掉磁盘，重装系统的感觉不错](https://www.v2ex.com/t/863680) ![](assets/new.png)  
-- [2022-07-02-通宵加班,-付费求助-500-1000-求助帮忙把,-一个-vue3+ts+vite-的脚手架适配至-chrome45,价格可谈,路过的大佬帮下忙吧,-只需要-build-后能在-chrome-里正常浏览...](https://www.v2ex.com/t/863679) ![](assets/new.png)  
-- [2022-07-02-Airpods-Pro-一边耳机连不上，过保后官方换耳机收-800-元一个，我该买新的吗？](https://www.v2ex.com/t/863678) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

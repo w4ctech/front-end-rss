@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-02 16:52:32。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-02 17:13:33。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,8 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-07-02-接触前沿的学术讨论，可以通过哪些渠道呢？](https://www.v2ex.com/t/863704) 
+- [2022-07-02-有没有什么入门的机器学习项目推荐呢？（已购买-3090-显卡）](https://www.v2ex.com/t/863703) 
 - [2022-07-02-请教-mac-intel-bootcamp-安装的-windows-10-怎么升级到-windows-11](https://www.v2ex.com/t/863701) 
 - [2022-07-02-有人试过用亚克力做窗户吗？](https://www.v2ex.com/t/863699) 
 - [2022-07-02-求推荐一个比较小的-ITX-机箱不需要显卡](https://www.v2ex.com/t/863698) 

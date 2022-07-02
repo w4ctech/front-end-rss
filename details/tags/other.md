@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-02 08:44:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-02 09:12:58。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,11 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-07-02-群晖-NAS-为什么有两个网线插口？](https://www.v2ex.com/t/863645) 
+- [2022-07-02-离开一线，回济南，公司推荐](https://www.v2ex.com/t/863643) 
+- [2022-07-02-突然有点感叹软件行业](https://www.v2ex.com/t/863642) 
+- [2022-07-02-MacOS-上-Google-Drive-可靠性问题](https://www.v2ex.com/t/863641) 
+- [2022-07-02-钉钉换绑手机号需要提供手持身份证正反面](https://www.v2ex.com/t/863640) 
 - [2022-07-02-腾讯云轻量装了宝塔面板，无法通过-web-登录](https://www.v2ex.com/t/863639) 
 - [2022-07-02-Mac-会出现剩余空间计算不同的情况，具体原因是什么？](https://www.v2ex.com/t/863637) 
 - [2022-07-02-fdisk-了硬盘，-mkfs-ext4-操作，数据还能恢复吗](https://www.v2ex.com/t/863636) 
@@ -1937,11 +1942,6 @@
 - [2022-07-02-求大佬帮解决](https://www.v2ex.com/t/863598) 
 - [2022-07-02-我也推广下图床](https://www.v2ex.com/t/863597) 
 - [2022-07-02-除了宽带，还有其他家庭组网方式吗](https://www.v2ex.com/t/863596) 
-- [2022-07-02-JetBrains-要涨价了](https://www.v2ex.com/t/863595) 
-- [2022-07-02-有没有-“magsafe-三合一收纳支架”-这样的产品](https://www.v2ex.com/t/863594) 
-- [2022-07-02-大家是日常使用电脑的-cpu-占用率是百分多少](https://www.v2ex.com/t/863592) 
-- [2022-07-02-iPad-2017-敢升-iOS-15-吗？现还在用-iOS-12](https://www.v2ex.com/t/863591) 
-- [2022-07-02-TweetDeck-Mac-客户端-20220702-登录提示断开连接，不能再用了](https://www.v2ex.com/t/863590) 
 - [2022-07-02-故事点-vs.-人天-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15213&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fagile-estimation-story-points-man-day%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-02-如何设计数据可视化平台-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15212&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-design-data-visualization-platform%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-02-你的代码会说话吗？（上）-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15211&url=https%3A%2F%2Finsights.thoughtworks.cn%2F%3Fp%3D16179%26amp%3Bpreview%3Dtrue%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

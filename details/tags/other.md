@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-02 08:16:42。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-02 08:44:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,8 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-07-02-腾讯云轻量装了宝塔面板，无法通过-web-登录](https://www.v2ex.com/t/863639) 
+- [2022-07-02-Mac-会出现剩余空间计算不同的情况，具体原因是什么？](https://www.v2ex.com/t/863637) 
 - [2022-07-02-fdisk-了硬盘，-mkfs-ext4-操作，数据还能恢复吗](https://www.v2ex.com/t/863636) 
 - [2022-07-02-apple-watch-充电器推荐](https://www.v2ex.com/t/863635) 
 - [2022-07-02-UniSwap-Router-和-UniSwap-Factory-的区别是什么？](https://www.v2ex.com/t/863633) 
@@ -1940,8 +1942,6 @@
 - [2022-07-02-大家是日常使用电脑的-cpu-占用率是百分多少](https://www.v2ex.com/t/863592) 
 - [2022-07-02-iPad-2017-敢升-iOS-15-吗？现还在用-iOS-12](https://www.v2ex.com/t/863591) 
 - [2022-07-02-TweetDeck-Mac-客户端-20220702-登录提示断开连接，不能再用了](https://www.v2ex.com/t/863590) 
-- [2022-07-02-学习周刊-总第-60-期-2022-年第-25-周](https://www.v2ex.com/t/863589) 
-- [2022-07-02-macbook-相关笔忘本屏幕怎么清洗](https://www.v2ex.com/t/863587) 
 - [2022-07-02-故事点-vs.-人天-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15213&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fagile-estimation-story-points-man-day%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-02-如何设计数据可视化平台-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15212&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-design-data-visualization-platform%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-02-你的代码会说话吗？（上）-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15211&url=https%3A%2F%2Finsights.thoughtworks.cn%2F%3Fp%3D16179%26amp%3Bpreview%3Dtrue%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

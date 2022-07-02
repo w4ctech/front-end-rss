@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-02 08:16:42。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-07-02 08:44:26。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,8 @@
 </summary>
 
 
+- [【V2EX】2022-07-02-腾讯云轻量装了宝塔面板，无法通过-web-登录](https://www.v2ex.com/t/863639) 
+- [【V2EX】2022-07-02-Mac-会出现剩余空间计算不同的情况，具体原因是什么？](https://www.v2ex.com/t/863637) 
 - [【V2EX】2022-07-02-fdisk-了硬盘，-mkfs-ext4-操作，数据还能恢复吗](https://www.v2ex.com/t/863636) 
 - [【V2EX】2022-07-02-apple-watch-充电器推荐](https://www.v2ex.com/t/863635) 
 - [【V2EX】2022-07-02-怎么把-SQL-Server-里的几张表和-view-拷到另一个-DB-里比较优雅？目的是测试-SP-是否正常](https://www.v2ex.com/t/863634) 
@@ -103,9 +105,6 @@
 - [【V2EX】2022-07-02-大家是日常使用电脑的-cpu-占用率是百分多少](https://www.v2ex.com/t/863592) 
 - [【V2EX】2022-07-02-iPad-2017-敢升-iOS-15-吗？现还在用-iOS-12](https://www.v2ex.com/t/863591) 
 - [【V2EX】2022-07-02-TweetDeck-Mac-客户端-20220702-登录提示断开连接，不能再用了](https://www.v2ex.com/t/863590) 
-- [【V2EX】2022-07-02-学习周刊-总第-60-期-2022-年第-25-周](https://www.v2ex.com/t/863589) 
-- [【V2EX】2022-07-02-DELL-成就台式机安装-Windows-Server-2012-R2-之后官方没有对应的驱动适配](https://www.v2ex.com/t/863588) 
-- [【V2EX】2022-07-02-macbook-相关笔忘本屏幕怎么清洗](https://www.v2ex.com/t/863587) 
 - [【技术头条】2022-07-02-故事点-vs.-人天-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15213&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fagile-estimation-story-points-man-day%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-02-如何设计数据可视化平台-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15212&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-design-data-visualization-platform%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-02-你的代码会说话吗？（上）-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15211&url=https%3A%2F%2Finsights.thoughtworks.cn%2F%3Fp%3D16179%26amp%3Bpreview%3Dtrue%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

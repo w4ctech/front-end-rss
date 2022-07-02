@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-02 09:38:43。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-02 10:14:46。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,10 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-07-02-我怎么应付理发店的推销？](https://www.v2ex.com/t/863655) 
+- [2022-07-02-上架了一款可以预防颈椎病的新标签页插件「歪脖子新标签页」](https://www.v2ex.com/t/863650) 
+- [2022-07-02-快捷指令中的“到达”、“离开”等功能无法触发，为什么还要留着？](https://www.v2ex.com/t/863649) 
+- [2022-07-02-将腾讯云上的网站从轻量服务器转移至-cos](https://www.v2ex.com/t/863648) 
 - [2022-07-02-RAID-下硬盘整体搬迁](https://www.v2ex.com/t/863646) 
 - [2022-07-02-群晖-NAS-为什么有两个网线插口？](https://www.v2ex.com/t/863645) 
 - [2022-07-02-离开一线，回济南，公司推荐](https://www.v2ex.com/t/863643) 
@@ -1922,7 +1926,6 @@
 - [2022-07-02-fdisk-了硬盘，-mkfs-ext4-操作，数据还能恢复吗](https://www.v2ex.com/t/863636) 
 - [2022-07-02-apple-watch-充电器推荐](https://www.v2ex.com/t/863635) 
 - [2022-07-02-UniSwap-Router-和-UniSwap-Factory-的区别是什么？](https://www.v2ex.com/t/863633) 
-- [2022-07-02-office365-家庭版开车-1-空位](https://www.v2ex.com/t/863632) 
 - [2022-07-02-寻求一些长期更新维护博客的技术大佬](https://www.v2ex.com/t/863629) 
 - [2022-07-02-macbook-2021-14-寸-m1-pro-感觉发热蛮严重啊](https://www.v2ex.com/t/863628) 
 - [2022-07-02-微服务-a-服务数据更新后，-b-服务怎么查询最新数据](https://www.v2ex.com/t/863627) 
@@ -1937,10 +1940,6 @@
 - [2022-07-02-有人遇到过双指缩放失灵么？](https://www.v2ex.com/t/863611) 
 - [2022-07-02-官方的透明壳其实还不错的](https://www.v2ex.com/t/863609) 
 - [2022-07-02-如何回应理发店频繁推销，让其秒放弃？](https://www.v2ex.com/t/863606) 
-- [2022-07-02-被裁员后重新找工作会受影响吗？](https://www.v2ex.com/t/863603) 
-- [2022-07-02-go-版-trzsz-兼容-tmux-的-rz-/-sz-已发布到各大软件分发平台，可以通过-apt、yum-和-brew-等进行安装。](https://www.v2ex.com/t/863602) 
-- [2022-07-02-VirMach-的-AMD-新机房，是否值得迁移过去？](https://www.v2ex.com/t/863599) 
-- [2022-07-02-求大佬帮解决](https://www.v2ex.com/t/863598) 
 - [2022-07-02-故事点-vs.-人天-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15213&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fagile-estimation-story-points-man-day%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-02-如何设计数据可视化平台-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15212&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-design-data-visualization-platform%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-02-你的代码会说话吗？（上）-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15211&url=https%3A%2F%2Finsights.thoughtworks.cn%2F%3Fp%3D16179%26amp%3Bpreview%3Dtrue%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

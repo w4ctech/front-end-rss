@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-07-02 07:37:10。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-02 08:16:42。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -106,7 +106,6 @@
 
 
 
-- [【V2EX】我发现，直接用前端技术部署一个网站，然后再提供一个小软件用于本地启动一个服务端。这样开发，比起什么套壳客户端，-webview，-electron，会快很多。虽然不是...](https://www.v2ex.com/t/863576)
 - [......【查看更多】......](./details/tags/nodejs.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -185,7 +184,6 @@
 - [【张鑫旭-鑫空间-鑫生活】小tips:-JS字体加载失败或完毕的检测](https://www.zhangxinxu.com/wordpress/2022/04/js-font-face-load/)
 - [【V2EX】光猫桥接模式下涉及两级路由的-IPv6-前缀下发（委派）问题求助](https://www.v2ex.com/t/863608)
 - [【V2EX】DELL-成就台式机安装-Windows-Server-2012-R2-之后官方没有对应的驱动适配](https://www.v2ex.com/t/863588)
-- [【V2EX】dagger.js-使用示例8-cards](https://www.v2ex.com/t/863582)
 - [【技术头条】如何实现页面刷新后不定位到之前的滚动位置？-www.zhangxinxu.com](https://blogread.cn/news/go.php?idItem=15195&url=https%3A%2F%2Fwww.zhangxinxu.com%2Fwordpress%2F2022%2F05%2Fhistory-scrollrestoration%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【开发者头条】推荐一款-JSON-可视化工具神器！](https://toutiao.io/k/rsgjy5z)
 - [......【查看更多】......](./details/tags/javascript.md)
@@ -242,7 +240,6 @@
 
 - [【武汉肺炎防疫全纪录(财新网)】广州17岁男生在定点医院参加高考-特殊考场视频监考](https://m.caixin.com/m/2021-06-05/101723418.html)
 - [【武汉肺炎防疫全纪录(财新网)】林郑月娥率13高官直播接种科兴疫苗-复星疫苗预计周中到港](https://m.caixin.com/m/2021-02-22/101665724.html)
-- [【V2EX】西瓜视频网站无法切换帐号](https://www.v2ex.com/t/863585)
 - [......【查看更多】......](./details/tags/audio-video.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -285,6 +282,7 @@
 - [【武汉肺炎防疫全纪录(财新网)】解药|新冠mRNA疫苗安全性有哪些挑战？](https://m.caixin.com/m/2021-01-08/101648043.html)
 - [【武汉肺炎防疫全纪录(财新网)】大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html)
 - [【张鑫旭-鑫空间-鑫生活】基于文字的URL锚点定位与::target-text样式设置](https://www.zhangxinxu.com/wordpress/2022/06/url-anchor-target-text/)
+- [【V2EX】怎么把-SQL-Server-里的几张表和-view-拷到另一个-DB-里比较优雅？目的是测试-SP-是否正常](https://www.v2ex.com/t/863634)
 - [【V2EX】edge-打开本地-OPENWRT-的管理地址显示-Not-Found](https://www.v2ex.com/t/863616)
 - [【V2EX】Chrome-新图标变化不大，但就是更好看，真是神了](https://www.v2ex.com/t/863615)
 - [【开发者头条】go-zero微服务实战系列（八、如何处理每秒上万次的下单请求）](https://toutiao.io/k/qz3rxp6)

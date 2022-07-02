@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-07-02 05:39:24，:rocket: 更新条数: +2014， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-07-02 06:15:48，:rocket: 更新条数: +2017， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,15 @@
 </summary>
 
 
+- [2022-07-02-SpaceVim-release-v2.0.0](https://www.v2ex.com/t/863612) ![](assets/new.png)  
+- [2022-07-02-有人遇到过双指缩放失灵么？](https://www.v2ex.com/t/863611) ![](assets/new.png)  
+- [2022-07-02-官方的透明壳其实还不错的](https://www.v2ex.com/t/863609) ![](assets/new.png)  
+- [2022-07-02-光猫桥接模式下涉及两级路由的-IPv6-前缀下发（委派）问题求助](https://www.v2ex.com/t/863608) ![](assets/new.png)  
+- [2022-07-02-如何回应理发店频繁推销，让其秒放弃？](https://www.v2ex.com/t/863606) ![](assets/new.png)  
+- [2022-07-02-如何评价《成电官僚推诿拒绝发放博士文凭》？](https://www.v2ex.com/t/863604) ![](assets/new.png)  
+- [2022-07-02-被裁员后重新找工作会受影响吗？](https://www.v2ex.com/t/863603) ![](assets/new.png)  
+- [2022-07-02-go-版-trzsz-兼容-tmux-的-rz-/-sz-已发布到各大软件分发平台，可以通过-apt、yum-和-brew-等进行安装。](https://www.v2ex.com/t/863602) ![](assets/new.png)  
+- [2022-07-02-PTT-今天开放注册一天，要注册的抓紧了](https://www.v2ex.com/t/863601) ![](assets/new.png)  
 - [2022-07-02-VirMach-的-AMD-新机房，是否值得迁移过去？](https://www.v2ex.com/t/863599) ![](assets/new.png)  
 - [2022-07-02-求大佬帮解决](https://www.v2ex.com/t/863598) ![](assets/new.png)  
 - [2022-07-02-我也推广下图床](https://www.v2ex.com/t/863597) ![](assets/new.png)  
@@ -502,15 +511,6 @@
 - [2022-07-02-TweetDeck-Mac-客户端-20220702-登录提示断开连接，不能再用了](https://www.v2ex.com/t/863590) ![](assets/new.png)  
 - [2022-07-02-学习周刊-总第-60-期-2022-年第-25-周](https://www.v2ex.com/t/863589) ![](assets/new.png)  
 - [2022-07-02-DELL-成就台式机安装-Windows-Server-2012-R2-之后官方没有对应的驱动适配](https://www.v2ex.com/t/863588) ![](assets/new.png)  
-- [2022-07-02-macbook-相关笔忘本屏幕怎么清洗](https://www.v2ex.com/t/863587) ![](assets/new.png)  
-- [2022-07-02-西瓜视频网站无法切换帐号](https://www.v2ex.com/t/863585) ![](assets/new.png)  
-- [2022-07-02-2022-最新最全-Rust-编程语言入门教程](https://www.v2ex.com/t/863583) ![](assets/new.png)  
-- [2022-07-02-dagger.js-使用示例8-cards](https://www.v2ex.com/t/863582) ![](assets/new.png)  
-- [2022-07-02-想问下台式机，-4-个内存槽，目前-2-个-8G，如何扩展内存？](https://www.v2ex.com/t/863581) ![](assets/new.png)  
-- [2022-07-02-Klang-量化知识分享会-第四期](https://www.v2ex.com/t/863580) ![](assets/new.png)  
-- [2022-07-02-请教，长沙有哪几个驾校比较好，我是北京考的驾照扣了-12-分末处理，被吊销了](https://www.v2ex.com/t/863579) ![](assets/new.png)  
-- [2022-07-02-NAS-连接微屁恩后有什么坑吗？还能接入本地网络吗？](https://www.v2ex.com/t/863578) ![](assets/new.png)  
-- [2022-07-02-推广我的网络书签&导航站](https://www.v2ex.com/t/863577) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -559,6 +559,10 @@
 - [2022-07-02-有关-Vue-源码的简单实现，做一个属于自己的-min-vue](https://toutiao.io/k/37d4dui) ![](assets/new.png)  
 - [2022-07-02-基于Impala的高性能数仓实践之执行引擎模块](https://toutiao.io/k/xs34jb6) ![](assets/new.png)  
 - [2022-07-02-跟HR在大群吵了一架...](https://toutiao.io/k/5bfyp33) ![](assets/new.png)  
+- [2022-07-02-开发者工具-Top-100-名单](https://toutiao.io/k/t2refmu) ![](assets/new.png)  
+- [2022-07-02-Git进阶系列-|-6.-交互式Rebase](https://toutiao.io/k/5xx92iz) ![](assets/new.png)  
+- [2022-07-02-零配置python日志，安装即用！](https://toutiao.io/k/nz567nx) ![](assets/new.png)  
+- [2022-07-02-【第2658期】Vue-2.7-正式发布，代号为-Naruto](https://toutiao.io/k/3i7yfq0) ![](assets/new.png)  
 - [2022-07-02-推荐-3000帧动画图解MySQL为什么需要binlog、redo-log和undo-log](https://toutiao.io/k/b0g4460) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

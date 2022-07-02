@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-02 05:39:24。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-07-02 06:15:48。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,15 @@
 </summary>
 
 
+- [【V2EX】2022-07-02-SpaceVim-release-v2.0.0](https://www.v2ex.com/t/863612) 
+- [【V2EX】2022-07-02-有人遇到过双指缩放失灵么？](https://www.v2ex.com/t/863611) 
+- [【V2EX】2022-07-02-官方的透明壳其实还不错的](https://www.v2ex.com/t/863609) 
+- [【V2EX】2022-07-02-光猫桥接模式下涉及两级路由的-IPv6-前缀下发（委派）问题求助](https://www.v2ex.com/t/863608) 
+- [【V2EX】2022-07-02-如何回应理发店频繁推销，让其秒放弃？](https://www.v2ex.com/t/863606) 
+- [【V2EX】2022-07-02-如何评价《成电官僚推诿拒绝发放博士文凭》？](https://www.v2ex.com/t/863604) 
+- [【V2EX】2022-07-02-被裁员后重新找工作会受影响吗？](https://www.v2ex.com/t/863603) 
+- [【V2EX】2022-07-02-go-版-trzsz-兼容-tmux-的-rz-/-sz-已发布到各大软件分发平台，可以通过-apt、yum-和-brew-等进行安装。](https://www.v2ex.com/t/863602) 
+- [【V2EX】2022-07-02-PTT-今天开放注册一天，要注册的抓紧了](https://www.v2ex.com/t/863601) 
 - [【V2EX】2022-07-02-VirMach-的-AMD-新机房，是否值得迁移过去？](https://www.v2ex.com/t/863599) 
 - [【V2EX】2022-07-02-求大佬帮解决](https://www.v2ex.com/t/863598) 
 - [【V2EX】2022-07-02-我也推广下图床](https://www.v2ex.com/t/863597) 
@@ -99,16 +108,6 @@
 - [【V2EX】2022-07-02-拯救者-Y9000X2022-的-BIOS-启动时间需要-20S](https://www.v2ex.com/t/863566) 
 - [【V2EX】2022-07-02-群晖如何关闭右上角气泡存储空间不足的提醒？](https://www.v2ex.com/t/863565) 
 - [【V2EX】2022-07-01-parameter-pack-仅作为部分参数的问题](https://www.v2ex.com/t/863563) 
-- [【V2EX】2022-07-01-关于-macmini-间歇性网络不好-甚至连看-1080p-都会卡](https://www.v2ex.com/t/863562) 
-- [【V2EX】2022-07-01-上海买不起房，要不要落户](https://www.v2ex.com/t/863561) 
-- [【V2EX】2022-07-01-mac-怎么判断路由器-LAN-口是百兆还是千兆？](https://www.v2ex.com/t/863560) 
-- [【V2EX】2022-07-01-Steam-Deck-也学会了悄悄让幸运用户享受低速-SSD](https://www.v2ex.com/t/863559) 
-- [【V2EX】2022-07-01-同一个-20-核-128GB-RAM-无显卡虚拟机，在-Windows-10-2016-LTSB+Ubuntu-16.04-下用同版本同参数的-ffmpeg-压缩视频，为什么-Windows-总比-Ubuntu-快-25%？](https://www.v2ex.com/t/863558) 
-- [【V2EX】2022-07-01-因停电来咨询，小区大规模停电着国家电网还是物业](https://www.v2ex.com/t/863557) 
-- [【V2EX】2022-07-01-京东云的自动升级未免太离谱](https://www.v2ex.com/t/863556) 
-- [【V2EX】2022-07-01-移动手机号刚刚解封几个小时晚上被冻结](https://www.v2ex.com/t/863555) 
-- [【V2EX】2022-07-01-如何成立自己的私募基金？](https://www.v2ex.com/t/863554) 
-- [【V2EX】2022-07-01-iPhone-7-plus-升级-ios15.5-后，打电话会哑，能打出去的时候偶然有电流声，接电话按屏幕图标接不了（内详）。。。](https://www.v2ex.com/t/863552) 
 - [【技术头条】2022-07-02-故事点-vs.-人天-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15213&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fagile-estimation-story-points-man-day%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-02-如何设计数据可视化平台-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15212&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-design-data-visualization-platform%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-02-你的代码会说话吗？（上）-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15211&url=https%3A%2F%2Finsights.thoughtworks.cn%2F%3Fp%3D16179%26amp%3Bpreview%3Dtrue%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -135,6 +134,10 @@
 - [【开发者头条】2022-07-02-有关-Vue-源码的简单实现，做一个属于自己的-min-vue](https://toutiao.io/k/37d4dui) 
 - [【开发者头条】2022-07-02-基于Impala的高性能数仓实践之执行引擎模块](https://toutiao.io/k/xs34jb6) 
 - [【开发者头条】2022-07-02-跟HR在大群吵了一架...](https://toutiao.io/k/5bfyp33) 
+- [【开发者头条】2022-07-02-开发者工具-Top-100-名单](https://toutiao.io/k/t2refmu) 
+- [【开发者头条】2022-07-02-Git进阶系列-|-6.-交互式Rebase](https://toutiao.io/k/5xx92iz) 
+- [【开发者头条】2022-07-02-零配置python日志，安装即用！](https://toutiao.io/k/nz567nx) 
+- [【开发者头条】2022-07-02-【第2658期】Vue-2.7-正式发布，代号为-Naruto](https://toutiao.io/k/3i7yfq0) 
 - [【开发者头条】2022-07-02-推荐-3000帧动画图解MySQL为什么需要binlog、redo-log和undo-log](https://toutiao.io/k/b0g4460) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>

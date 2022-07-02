@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-07-02 20:15:08，:rocket: 更新条数: +2018， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-07-02 20:39:25，:rocket: 更新条数: +2018， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -563,8 +563,8 @@
 - [2022-07-02-基于Impala的高性能数仓实践之执行引擎模块](https://toutiao.io/k/xs34jb6) ![](assets/new.png)  
 - [2022-07-02-Git进阶系列-|-6.-交互式Rebase](https://toutiao.io/k/5xx92iz) ![](assets/new.png)  
 - [2022-07-02-【第2658期】Vue-2.7-正式发布，代号为-Naruto](https://toutiao.io/k/3i7yfq0) ![](assets/new.png)  
-- [2022-07-02-推荐-吐血整理：一份不可多得的架构师图谱！](https://toutiao.io/k/ptp0ru2) ![](assets/new.png)  
 - [2022-07-02-推荐-3000帧动画图解MySQL为什么需要binlog、redo-log和undo-log](https://toutiao.io/k/b0g4460) ![](assets/new.png)  
+- [2022-07-02-推荐-吐血整理：一份不可多得的架构师图谱！](https://toutiao.io/k/ptp0ru2) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

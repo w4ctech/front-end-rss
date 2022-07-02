@@ -9953,6 +9953,26 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "最近写了一个简单的 AI 头像生成器",
+        "link": "https://www.v2ex.com/t/863685",
+        "date": "2022-07-02"
+      },
+      {
+        "title": "想装台主机用来打游戏，第一次装，大家帮忙看看",
+        "link": "https://www.v2ex.com/t/863684",
+        "date": "2022-07-02"
+      },
+      {
+        "title": "北京联通下发的 dns 的 ttl 为什么这么飘忽...",
+        "link": "https://www.v2ex.com/t/863683",
+        "date": "2022-07-02"
+      },
+      {
+        "title": "一个 c 语言热更新的问题",
+        "link": "https://www.v2ex.com/t/863682",
+        "date": "2022-07-02"
+      },
+      {
         "title": "给 17MBP 抹掉磁盘，重装系统的感觉不错",
         "link": "https://www.v2ex.com/t/863680",
         "date": "2022-07-02"
@@ -10136,21 +10156,6 @@
         "title": "fdisk 了硬盘， mkfs ext4 操作，数据还能恢复吗",
         "link": "https://www.v2ex.com/t/863636",
         "date": "2022-07-02"
-      },
-      {
-        "title": "apple watch 充电器推荐",
-        "link": "https://www.v2ex.com/t/863635",
-        "date": "2022-07-02"
-      },
-      {
-        "title": "怎么把 SQL Server 里的几张表和 view 拷到另一个 DB 里比较优雅？目的是测试 SP 是否正常",
-        "link": "https://www.v2ex.com/t/863634",
-        "date": "2022-07-02"
-      },
-      {
-        "title": "UniSwap Router 和 UniSwap Factory 的区别是什么？",
-        "link": "https://www.v2ex.com/t/863633",
-        "date": "2022-07-02"
       }
     ]
   },
@@ -10297,13 +10302,13 @@
         "date": "2022-07-02"
       },
       {
-        "title": "零配置python日志，安装即用！",
-        "link": "https://toutiao.io/k/nz567nx",
+        "title": "欢迎加入读者圈子，一起交流！",
+        "link": "https://toutiao.io/k/c0mnyrh",
         "date": "2022-07-02"
       },
       {
-        "title": "欢迎加入读者圈子，一起交流！",
-        "link": "https://toutiao.io/k/c0mnyrh",
+        "title": "零配置python日志，安装即用！",
+        "link": "https://toutiao.io/k/nz567nx",
         "date": "2022-07-02"
       },
       {

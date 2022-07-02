@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-07-02 13:41:57。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-02 14:12:19。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -156,6 +156,7 @@
 
 
 
+- [【V2EX】想装台主机用来打游戏，第一次装，大家帮忙看看](https://www.v2ex.com/t/863684)
 - [【V2EX】有没有什么可以放松的游戏推荐？](https://www.v2ex.com/t/863658)
 - [【V2EX】中文-DOS-游戏](https://www.v2ex.com/t/863647)
 - [......【查看更多】......](./details/tags/dev-game.md)
@@ -290,7 +291,6 @@
 - [【武汉肺炎防疫全纪录(财新网)】解药|新冠mRNA疫苗安全性有哪些挑战？](https://m.caixin.com/m/2021-01-08/101648043.html)
 - [【武汉肺炎防疫全纪录(财新网)】大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html)
 - [【张鑫旭-鑫空间-鑫生活】基于文字的URL锚点定位与::target-text样式设置](https://www.zhangxinxu.com/wordpress/2022/06/url-anchor-target-text/)
-- [【V2EX】怎么把-SQL-Server-里的几张表和-view-拷到另一个-DB-里比较优雅？目的是测试-SP-是否正常](https://www.v2ex.com/t/863634)
 - [【开发者头条】go-zero微服务实战系列（八、如何处理每秒上万次的下单请求）](https://toutiao.io/k/qz3rxp6)
 - [......【查看更多】......](./details/tags/browser.md)
 

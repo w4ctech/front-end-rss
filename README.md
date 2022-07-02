@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-07-02 13:41:57，:rocket: 更新条数: +2017， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-07-02 14:12:19，:rocket: 更新条数: +2018， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,10 @@
 </summary>
 
 
+- [2022-07-02-最近写了一个简单的-AI-头像生成器](https://www.v2ex.com/t/863685) ![](assets/new.png)  
+- [2022-07-02-想装台主机用来打游戏，第一次装，大家帮忙看看](https://www.v2ex.com/t/863684) ![](assets/new.png)  
+- [2022-07-02-北京联通下发的-dns-的-ttl-为什么这么飘忽...](https://www.v2ex.com/t/863683) ![](assets/new.png)  
+- [2022-07-02-一个-c-语言热更新的问题](https://www.v2ex.com/t/863682) ![](assets/new.png)  
 - [2022-07-02-给-17MBP-抹掉磁盘，重装系统的感觉不错](https://www.v2ex.com/t/863680) ![](assets/new.png)  
 - [2022-07-02-通宵加班,-付费求助-500-1000-求助帮忙把,-一个-vue3+ts+vite-的脚手架适配至-chrome45,价格可谈,路过的大佬帮下忙吧,-只需要-build-后能在-chrome-里正常浏览...](https://www.v2ex.com/t/863679) ![](assets/new.png)  
 - [2022-07-02-Airpods-Pro-一边耳机连不上，过保后官方换耳机收-800-元一个，我该买新的吗？](https://www.v2ex.com/t/863678) ![](assets/new.png)  
@@ -507,10 +511,6 @@
 - [2022-07-02-如果最近书荒，可以看看我的-2022-年上半年读书总结](https://www.v2ex.com/t/863664) ![](assets/new.png)  
 - [2022-07-02-用-obsidian-插入图片,-路劲为相对路径,-为啥在-typora-中还是无法加载图片呢](https://www.v2ex.com/t/863663) ![](assets/new.png)  
 - [2022-07-02-MySQL-用-uuid-作为主键会导致“页分裂”，这种影响可以忽略吗？](https://www.v2ex.com/t/863662) ![](assets/new.png)  
-- [2022-07-02-怎么提取深圳场所码的真实链接？](https://www.v2ex.com/t/863661) ![](assets/new.png)  
-- [2022-07-02-开公司给自己交社保，有必要嘛？](https://www.v2ex.com/t/863660) ![](assets/new.png)  
-- [2022-07-02-开源了一个-react+vite+ts-的后台管理系统](https://www.v2ex.com/t/863659) ![](assets/new.png)  
-- [2022-07-02-有没有什么可以放松的游戏推荐？](https://www.v2ex.com/t/863658) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -559,8 +559,8 @@
 - [2022-07-02-有关-Vue-源码的简单实现，做一个属于自己的-min-vue](https://toutiao.io/k/37d4dui) ![](assets/new.png)  
 - [2022-07-02-基于Impala的高性能数仓实践之执行引擎模块](https://toutiao.io/k/xs34jb6) ![](assets/new.png)  
 - [2022-07-02-跟HR在大群吵了一架...](https://toutiao.io/k/5bfyp33) ![](assets/new.png)  
-- [2022-07-02-零配置python日志，安装即用！](https://toutiao.io/k/nz567nx) ![](assets/new.png)  
 - [2022-07-02-欢迎加入读者圈子，一起交流！](https://toutiao.io/k/c0mnyrh) ![](assets/new.png)  
+- [2022-07-02-零配置python日志，安装即用！](https://toutiao.io/k/nz567nx) ![](assets/new.png)  
 - [2022-07-02-Git进阶系列-|-6.-交互式Rebase](https://toutiao.io/k/5xx92iz) ![](assets/new.png)  
 - [2022-07-02-【第2658期】Vue-2.7-正式发布，代号为-Naruto](https://toutiao.io/k/3i7yfq0) ![](assets/new.png)  
 - [2022-07-02-推荐-3000帧动画图解MySQL为什么需要binlog、redo-log和undo-log](https://toutiao.io/k/b0g4460) ![](assets/new.png)  

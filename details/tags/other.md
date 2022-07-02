@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-02 13:41:57。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-02 14:12:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,9 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-07-02-最近写了一个简单的-AI-头像生成器](https://www.v2ex.com/t/863685) 
+- [2022-07-02-北京联通下发的-dns-的-ttl-为什么这么飘忽...](https://www.v2ex.com/t/863683) 
+- [2022-07-02-一个-c-语言热更新的问题](https://www.v2ex.com/t/863682) 
 - [2022-07-02-给-17MBP-抹掉磁盘，重装系统的感觉不错](https://www.v2ex.com/t/863680) 
 - [2022-07-02-Airpods-Pro-一边耳机连不上，过保后官方换耳机收-800-元一个，我该买新的吗？](https://www.v2ex.com/t/863678) 
 - [2022-07-02-安卓相册问题](https://www.v2ex.com/t/863676) 
@@ -1938,8 +1941,6 @@
 - [2022-07-02-腾讯云轻量装了宝塔面板，无法通过-web-登录](https://www.v2ex.com/t/863639) 
 - [2022-07-02-Mac-会出现剩余空间计算不同的情况，具体原因是什么？](https://www.v2ex.com/t/863637) 
 - [2022-07-02-fdisk-了硬盘，-mkfs-ext4-操作，数据还能恢复吗](https://www.v2ex.com/t/863636) 
-- [2022-07-02-apple-watch-充电器推荐](https://www.v2ex.com/t/863635) 
-- [2022-07-02-UniSwap-Router-和-UniSwap-Factory-的区别是什么？](https://www.v2ex.com/t/863633) 
 - [2022-07-02-故事点-vs.-人天-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15213&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fagile-estimation-story-points-man-day%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-02-如何设计数据可视化平台-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15212&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-design-data-visualization-platform%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-02-你的代码会说话吗？（上）-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15211&url=https%3A%2F%2Finsights.thoughtworks.cn%2F%3Fp%3D16179%26amp%3Bpreview%3Dtrue%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1959,5 +1960,5 @@
 - [2022-07-02-业务数据治理体系化思考与实践-tech.meituan.com](https://blogread.cn/news/go.php?idItem=15194&url=https%3A%2F%2Ftech.meituan.com%2F2022%2F05%2F12%2Fbusiness-data-governance.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-02-优质网站同好者周刊（第-072-期）-|-倾城博客](https://toutiao.io/k/i7tdmsy) 
 - [2022-07-02-跟HR在大群吵了一架...](https://toutiao.io/k/5bfyp33) 
-- [2022-07-02-零配置python日志，安装即用！](https://toutiao.io/k/nz567nx) 
 - [2022-07-02-欢迎加入读者圈子，一起交流！](https://toutiao.io/k/c0mnyrh) 
+- [2022-07-02-零配置python日志，安装即用！](https://toutiao.io/k/nz567nx) 

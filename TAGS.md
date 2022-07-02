@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-07-02 15:40:49。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-02 16:16:59。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -158,7 +158,6 @@
 
 - [【V2EX】想装台主机用来打游戏，第一次装，大家帮忙看看](https://www.v2ex.com/t/863684)
 - [【V2EX】有没有什么可以放松的游戏推荐？](https://www.v2ex.com/t/863658)
-- [【V2EX】中文-DOS-游戏](https://www.v2ex.com/t/863647)
 - [......【查看更多】......](./details/tags/dev-game.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -327,6 +326,7 @@
 
 
 
+- [【V2EX】请教一个-Nginx-反代配置写法](https://www.v2ex.com/t/863697)
 - [......【查看更多】......](./details/tags/server.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

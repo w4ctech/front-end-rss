@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-02 15:40:49。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-02 16:16:59。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,7 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-07-02-求推荐一个比较小的-ITX-机箱不需要显卡](https://www.v2ex.com/t/863698) 
 - [2022-07-02-mac-抹掉数据重装系统会升级版本吗](https://www.v2ex.com/t/863695) 
 - [2022-07-02-2022-年网游最低要求配置为-2060-的标准，类比到前端领域相当于什么程度的大环境搭配什么类型的架构呢？](https://www.v2ex.com/t/863694) 
 - [2022-07-02-各位能帮我看看这个网站是干嘛的嘛，一直在入侵我的服务器](https://www.v2ex.com/t/863693) 
@@ -1937,7 +1938,6 @@
 - [2022-07-02-公司送了每个月-160-美元使用额度的-Azure-服务器-不知道可以用来干啥呢](https://www.v2ex.com/t/863656) 
 - [2022-07-02-上架了一款可以预防颈椎病的新标签页插件「歪脖子新标签页」](https://www.v2ex.com/t/863650) 
 - [2022-07-02-快捷指令中的“到达”、“离开”等功能无法触发，为什么还要留着？](https://www.v2ex.com/t/863649) 
-- [2022-07-02-将腾讯云上的网站从轻量服务器转移至-cos](https://www.v2ex.com/t/863648) 
 - [2022-07-02-故事点-vs.-人天-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15213&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fagile-estimation-story-points-man-day%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-02-如何设计数据可视化平台-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15212&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-design-data-visualization-platform%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-02-你的代码会说话吗？（上）-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15211&url=https%3A%2F%2Finsights.thoughtworks.cn%2F%3Fp%3D16179%26amp%3Bpreview%3Dtrue%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1959,3 +1959,4 @@
 - [2022-07-02-跟HR在大群吵了一架...](https://toutiao.io/k/5bfyp33) 
 - [2022-07-02-欢迎加入读者圈子，一起交流！](https://toutiao.io/k/c0mnyrh) 
 - [2022-07-02-零配置python日志，安装即用！](https://toutiao.io/k/nz567nx) 
+- [2022-07-02-推荐-吐血整理：一份不可多得的架构师图谱！](https://toutiao.io/k/ptp0ru2) 

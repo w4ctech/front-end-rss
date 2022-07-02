@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-07-02 15:40:49，:rocket: 更新条数: +2018， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-07-02 16:16:59，:rocket: 更新条数: +2019， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-07-02-求推荐一个比较小的-ITX-机箱不需要显卡](https://www.v2ex.com/t/863698) ![](assets/new.png)  
+- [2022-07-02-请教一个-Nginx-反代配置写法](https://www.v2ex.com/t/863697) ![](assets/new.png)  
 - [2022-07-02-mac-抹掉数据重装系统会升级版本吗](https://www.v2ex.com/t/863695) ![](assets/new.png)  
 - [2022-07-02-2022-年网游最低要求配置为-2060-的标准，类比到前端领域相当于什么程度的大环境搭配什么类型的架构呢？](https://www.v2ex.com/t/863694) ![](assets/new.png)  
 - [2022-07-02-各位能帮我看看这个网站是干嘛的嘛，一直在入侵我的服务器](https://www.v2ex.com/t/863693) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-07-02-Airpods-Pro-一边耳机连不上，过保后官方换耳机收-800-元一个，我该买新的吗？](https://www.v2ex.com/t/863678) ![](assets/new.png)  
 - [2022-07-02-做了个-alfred-捷径，用来不输密码登录虚拟机里的-SAP-GUI-for-Windows](https://www.v2ex.com/t/863677) ![](assets/new.png)  
 - [2022-07-02-安卓相册问题](https://www.v2ex.com/t/863676) ![](assets/new.png)  
-- [2022-07-02-intel-mbp13-外接-4k-显示器看-b-站视频很卡](https://www.v2ex.com/t/863675) ![](assets/new.png)  
-- [2022-07-02-为什么-3070-会带不动-b-站的-4k-视频？](https://www.v2ex.com/t/863674) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -558,12 +558,13 @@
 - [2022-07-02-go-zero微服务实战系列（八、如何处理每秒上万次的下单请求）](https://toutiao.io/k/qz3rxp6) ![](assets/new.png)  
 - [2022-07-02-有关-Vue-源码的简单实现，做一个属于自己的-min-vue](https://toutiao.io/k/37d4dui) ![](assets/new.png)  
 - [2022-07-02-跟HR在大群吵了一架...](https://toutiao.io/k/5bfyp33) ![](assets/new.png)  
-- [2022-07-02-基于Impala的高性能数仓实践之执行引擎模块](https://toutiao.io/k/xs34jb6) ![](assets/new.png)  
 - [2022-07-02-欢迎加入读者圈子，一起交流！](https://toutiao.io/k/c0mnyrh) ![](assets/new.png)  
 - [2022-07-02-零配置python日志，安装即用！](https://toutiao.io/k/nz567nx) ![](assets/new.png)  
+- [2022-07-02-基于Impala的高性能数仓实践之执行引擎模块](https://toutiao.io/k/xs34jb6) ![](assets/new.png)  
 - [2022-07-02-Git进阶系列-|-6.-交互式Rebase](https://toutiao.io/k/5xx92iz) ![](assets/new.png)  
 - [2022-07-02-【第2658期】Vue-2.7-正式发布，代号为-Naruto](https://toutiao.io/k/3i7yfq0) ![](assets/new.png)  
 - [2022-07-02-推荐-3000帧动画图解MySQL为什么需要binlog、redo-log和undo-log](https://toutiao.io/k/b0g4460) ![](assets/new.png)  
+- [2022-07-02-推荐-吐血整理：一份不可多得的架构师图谱！](https://toutiao.io/k/ptp0ru2) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

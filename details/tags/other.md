@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-03 19:36:44。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-03 20:14:14。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,7 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-07-03-基于猫脸识别的猫咪智能相册上架了，内附兑换码](https://www.v2ex.com/t/863847) 
 - [2022-07-03-全国远程/坐班/兼职招募低代码平台开发人员,有效期至-2022-年-8-月-30-日。](https://www.v2ex.com/t/863846) 
 - [2022-07-03-尤雨溪在代码-core-中提交了一份-readme-放弃维护是真的假的](https://www.v2ex.com/t/863844) 
 - [2022-07-03-老哥成都兴隆湖有啥盘没有发展没](https://www.v2ex.com/t/863843) 

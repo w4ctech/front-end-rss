@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-07-03 20:14:14，:rocket: 更新条数: +2014， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-07-03 20:39:01，:rocket: 更新条数: +2014， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-07-03-KK-的这句英文是什么意思?](https://www.v2ex.com/t/863848) ![](assets/new.png)  
 - [2022-07-03-基于猫脸识别的猫咪智能相册上架了，内附兑换码](https://www.v2ex.com/t/863847) ![](assets/new.png)  
 - [2022-07-03-全国远程/坐班/兼职招募低代码平台开发人员,有效期至-2022-年-8-月-30-日。](https://www.v2ex.com/t/863846) ![](assets/new.png)  
 - [2022-07-03-尤雨溪在代码-core-中提交了一份-readme-放弃维护是真的假的](https://www.v2ex.com/t/863844) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-07-03-影响新能源车普及，除了充电，还是充电…](https://www.v2ex.com/t/863826) ![](assets/new.png)  
 - [2022-07-03-Mac-使用-VirtualBox-安装-Home-Assistant-报错后无法进入-HA-首页](https://www.v2ex.com/t/863824) ![](assets/new.png)  
 - [2022-07-03-外包又外包是国内小公司的常态么？野路子好厉害](https://www.v2ex.com/t/863823) ![](assets/new.png)  
-- [2022-07-03-小白不懂就问，-Python-是不是语法糖最多的“常规”语言](https://www.v2ex.com/t/863822) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

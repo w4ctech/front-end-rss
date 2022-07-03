@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-03 13:00:12。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-03 13:25:33。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,7 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-07-03-用了-mac-几年了-才知道可以三指复制，三指拖动](https://www.v2ex.com/t/863813) 
 - [2022-07-03-Ubuntu-的-ppa-可靠性如何？](https://www.v2ex.com/t/863811) 
 - [2022-07-03-急急急，上海哪个医院神经内科是最好的？](https://www.v2ex.com/t/863810) 
 - [2022-07-03-好奇蓝奏云这样的服务，商业模式是什么呢？](https://www.v2ex.com/t/863809) 
@@ -1935,8 +1936,6 @@
 - [2022-07-03-请问大家如何看待-刷版本号-的行为？-13-天=13-个新版本](https://www.v2ex.com/t/863770) 
 - [2022-07-03-准备卸了网易云音乐了](https://www.v2ex.com/t/863769) 
 - [2022-07-03-听说-Dell-OptiPlex-390-系列中号商用台式机的-RAM-内存扩展到-16GB？](https://www.v2ex.com/t/863768) 
-- [2022-07-03-Java-写-gateway-与多个不通协议的单片机下位机进行通讯的思路](https://www.v2ex.com/t/863764) 
-- [2022-07-03-Filco-键盘好像非常怕潮](https://www.v2ex.com/t/863763) 
 - [2022-07-03-故事点-vs.-人天-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15213&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fagile-estimation-story-points-man-day%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-03-如何设计数据可视化平台-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15212&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-design-data-visualization-platform%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-03-你的代码会说话吗？（上）-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15211&url=https%3A%2F%2Finsights.thoughtworks.cn%2F%3Fp%3D16179%26amp%3Bpreview%3Dtrue%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-03 17:13:53。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-07-03 17:39:28。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -132,8 +132,8 @@
 - [【开发者头条】2022-07-03-一分钟快速上手-Curve](https://toutiao.io/k/b2lu4e7) 
 - [【开发者头条】2022-07-03-介绍与换行相关的CSS属性](https://toutiao.io/k/lf11lrn) 
 - [【开发者头条】2022-07-03-开源大数据-Studio-应用开发:-Apache-Dolphinscheduler-+-Notebook](https://toutiao.io/k/ystuewy) 
-- [【开发者头条】2022-07-03-推荐-3000帧动画图解MySQL为什么需要binlog、redo-log和undo-log](https://toutiao.io/k/b0g4460) 
 - [【开发者头条】2022-07-03-推荐-吐血整理：一份不可多得的架构师图谱！](https://toutiao.io/k/ptp0ru2) 
+- [【开发者头条】2022-07-03-推荐-3000帧动画图解MySQL为什么需要binlog、redo-log和undo-log](https://toutiao.io/k/b0g4460) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

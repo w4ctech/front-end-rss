@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-03 13:42:58。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-03 14:12:42。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,13 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-07-03-Mac-使用-VirtualBox-安装-Home-Assistant-报错后无法进入-HA-首页](https://www.v2ex.com/t/863824) 
+- [2022-07-03-外包又外包是国内小公司的常态么？野路子好厉害](https://www.v2ex.com/t/863823) 
+- [2022-07-03-小白不懂就问，-Python-是不是语法糖最多的“常规”语言](https://www.v2ex.com/t/863822) 
+- [2022-07-03-求推荐-1-万以内适合程序员的笔记本](https://www.v2ex.com/t/863820) 
+- [2022-07-03-Bob-收费了，已经上架-App-Store](https://www.v2ex.com/t/863819) 
+- [2022-07-03-前女友领证了](https://www.v2ex.com/t/863818) 
+- [2022-07-03-墙壁插座为什么不多搞几个孔？](https://www.v2ex.com/t/863817) 
 - [2022-07-03-请问一下-jdk-proxy，为同一个接口生成多个代理类时，会有多个类产生吗](https://www.v2ex.com/t/863815) 
 - [2022-07-03-用了-mac-几年了-才知道可以三指复制，三指拖动](https://www.v2ex.com/t/863813) 
 - [2022-07-03-Ubuntu-的-ppa-可靠性如何？](https://www.v2ex.com/t/863811) 
@@ -1932,11 +1939,6 @@
 - [2022-07-03-求推荐一个，可以开车，不审查群组内容的聊天-app](https://www.v2ex.com/t/863780) 
 - [2022-07-03-Spring-Boot-+-Datahub-阿里云流数据处理平台-基于-2.15-版本的数据读写-上](https://www.v2ex.com/t/863778) 
 - [2022-07-03-在哪里买得到-Android-6.0-手机？](https://www.v2ex.com/t/863775) 
-- [2022-07-03-termux+ksweb-内网穿透方案，求推荐](https://www.v2ex.com/t/863774) 
-- [2022-07-03-请问有哥们玩这个-discord-吗？有没有群组拉我一下，想体验一下](https://www.v2ex.com/t/863773) 
-- [2022-07-03-请问大家如何看待-刷版本号-的行为？-13-天=13-个新版本](https://www.v2ex.com/t/863770) 
-- [2022-07-03-准备卸了网易云音乐了](https://www.v2ex.com/t/863769) 
-- [2022-07-03-听说-Dell-OptiPlex-390-系列中号商用台式机的-RAM-内存扩展到-16GB？](https://www.v2ex.com/t/863768) 
 - [2022-07-03-故事点-vs.-人天-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15213&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fagile-estimation-story-points-man-day%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-03-如何设计数据可视化平台-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15212&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-design-data-visualization-platform%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-03-你的代码会说话吗？（上）-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15211&url=https%3A%2F%2Finsights.thoughtworks.cn%2F%3Fp%3D16179%26amp%3Bpreview%3Dtrue%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-07-03 13:42:57，:rocket: 更新条数: +2008， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-07-03 14:12:42，:rocket: 更新条数: +2009， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,13 @@
 </summary>
 
 
+- [2022-07-03-Mac-使用-VirtualBox-安装-Home-Assistant-报错后无法进入-HA-首页](https://www.v2ex.com/t/863824) ![](assets/new.png)  
+- [2022-07-03-外包又外包是国内小公司的常态么？野路子好厉害](https://www.v2ex.com/t/863823) ![](assets/new.png)  
+- [2022-07-03-小白不懂就问，-Python-是不是语法糖最多的“常规”语言](https://www.v2ex.com/t/863822) ![](assets/new.png)  
+- [2022-07-03-求推荐-1-万以内适合程序员的笔记本](https://www.v2ex.com/t/863820) ![](assets/new.png)  
+- [2022-07-03-Bob-收费了，已经上架-App-Store](https://www.v2ex.com/t/863819) ![](assets/new.png)  
+- [2022-07-03-前女友领证了](https://www.v2ex.com/t/863818) ![](assets/new.png)  
+- [2022-07-03-墙壁插座为什么不多搞几个孔？](https://www.v2ex.com/t/863817) ![](assets/new.png)  
 - [2022-07-03-请问一下-jdk-proxy，为同一个接口生成多个代理类时，会有多个类产生吗](https://www.v2ex.com/t/863815) ![](assets/new.png)  
 - [2022-07-03-用了-mac-几年了-才知道可以三指复制，三指拖动](https://www.v2ex.com/t/863813) ![](assets/new.png)  
 - [2022-07-03-Ubuntu-的-ppa-可靠性如何？](https://www.v2ex.com/t/863811) ![](assets/new.png)  
@@ -504,13 +511,6 @@
 - [2022-07-03-抽奖送码活动-&-macOS-Bob-1.0.0-正式版终于发布了！](https://www.v2ex.com/t/863800) ![](assets/new.png)  
 - [2022-07-03-各位大佬用的都是什么键盘啊？来交流一下呗～说说原因和体验](https://www.v2ex.com/t/863798) ![](assets/new.png)  
 - [2022-07-03-你们公司是怎么管理数据库账号密码的？](https://www.v2ex.com/t/863794) ![](assets/new.png)  
-- [2022-07-03-阿里线下前端活动暴露开发者真实隐私信息](https://www.v2ex.com/t/863793) ![](assets/new.png)  
-- [2022-07-03-一个统计上网时间的浏览器插件](https://www.v2ex.com/t/863790) ![](assets/new.png)  
-- [2022-07-03-10-年-Android-开发，-Java-、-Kotlin-、Flutter-都会,-可远程、可到岗办公，-求内推](https://www.v2ex.com/t/863789) ![](assets/new.png)  
-- [2022-07-03-小城市分类信息公众号有哪些能吸引用户的功能？](https://www.v2ex.com/t/863788) ![](assets/new.png)  
-- [2022-07-03-请教大佬-，-POI-5.x-如何读取-docx-文件中文本框的内容并修改？](https://www.v2ex.com/t/863786) ![](assets/new.png)  
-- [2022-07-03-上海公安疑似被脱裤，-23T-数据，-10-亿居民、报警、疫情相关信息](https://www.v2ex.com/t/863785) ![](assets/new.png)  
-- [2022-07-03-使用-Mac-笔记本-和-小米电视盒子，有没有办法可以快捷的从电视上播放电脑上下载的影视内容？](https://www.v2ex.com/t/863781) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -554,8 +554,8 @@
 
 
 - [2022-07-03-如何运营好技术相关的自媒体？](https://toutiao.io/k/qehceai) ![](assets/new.png)  
-- [2022-07-03-欢迎加入读者圈子，一起交流！](https://toutiao.io/k/c0mnyrh) ![](assets/new.png)  
 - [2022-07-03-req:-即将支持-HTTP3-!](https://toutiao.io/k/ojt7tnh) ![](assets/new.png)  
+- [2022-07-03-欢迎加入读者圈子，一起交流！](https://toutiao.io/k/c0mnyrh) ![](assets/new.png)  
 - [2022-07-03-大公司为什么禁止SpringBoot项目使用Tomcat？](https://toutiao.io/k/o6sxi3b) ![](assets/new.png)  
 - [2022-07-03-Android-中-利用-AccessibilityService-辅助服务-模拟点击事件](https://toutiao.io/k/w3u8bpa) ![](assets/new.png)  
 - [2022-07-03-Kratos微服务框架下实现CQRS架构模式](https://toutiao.io/k/ntrn4p9) ![](assets/new.png)  
@@ -563,8 +563,8 @@
 - [2022-07-03-一分钟快速上手-Curve](https://toutiao.io/k/b2lu4e7) ![](assets/new.png)  
 - [2022-07-03-介绍与换行相关的CSS属性](https://toutiao.io/k/lf11lrn) ![](assets/new.png)  
 - [2022-07-03-开源大数据-Studio-应用开发:-Apache-Dolphinscheduler-+-Notebook](https://toutiao.io/k/ystuewy) ![](assets/new.png)  
-- [2022-07-03-推荐-吐血整理：一份不可多得的架构师图谱！](https://toutiao.io/k/ptp0ru2) ![](assets/new.png)  
 - [2022-07-03-推荐-3000帧动画图解MySQL为什么需要binlog、redo-log和undo-log](https://toutiao.io/k/b0g4460) ![](assets/new.png)  
+- [2022-07-03-推荐-吐血整理：一份不可多得的架构师图谱！](https://toutiao.io/k/ptp0ru2) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-03 13:25:33。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-03 13:42:58。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,7 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-07-03-请问一下-jdk-proxy，为同一个接口生成多个代理类时，会有多个类产生吗](https://www.v2ex.com/t/863815) 
 - [2022-07-03-用了-mac-几年了-才知道可以三指复制，三指拖动](https://www.v2ex.com/t/863813) 
 - [2022-07-03-Ubuntu-的-ppa-可靠性如何？](https://www.v2ex.com/t/863811) 
 - [2022-07-03-急急急，上海哪个医院神经内科是最好的？](https://www.v2ex.com/t/863810) 

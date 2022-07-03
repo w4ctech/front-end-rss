@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-03 04:06:53。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-03 04:53:18。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,11 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-07-03-从-Anki-到-Obsidian，我的-Spaced-Repetition-经历](https://www.v2ex.com/t/863740) 
+- [2022-07-03-如何评价这些数据-上海国家警察数据库被脱库](https://www.v2ex.com/t/863739) 
+- [2022-07-03-国产电视机-TCL-真是辣鸡呀](https://www.v2ex.com/t/863737) 
+- [2022-07-03-如何让程序以为自己拥有管理员权限，实际却没有？](https://www.v2ex.com/t/863736) 
+- [2022-07-03-emergency-mode-用不了-fsck-怎么办](https://www.v2ex.com/t/863735) 
 - [2022-07-03-拉个锻炼-telegram-群组，一起挑战](https://www.v2ex.com/t/863734) 
 - [2022-07-03-救命！重装系统后，数据恢复后的照片，虽然找回来了，但是大部分都打不开了。](https://www.v2ex.com/t/863733) 
 - [2022-07-03-手机设置-dns-是不是就看不到我解析记录了？](https://www.v2ex.com/t/863731) 
@@ -1940,9 +1945,6 @@
 - [2022-07-02-2022-年网游最低要求配置为-2060-的标准，类比到前端领域相当于什么程度的大环境搭配什么类型的架构呢？](https://www.v2ex.com/t/863694) 
 - [2022-07-02-各位能帮我看看这个网站是干嘛的嘛，一直在入侵我的服务器](https://www.v2ex.com/t/863693) 
 - [2022-07-02-分享一个美国的豪宅观光-Youtube-频道](https://www.v2ex.com/t/863691) 
-- [2022-07-02-1-号线古城地铁站附近步行-600-米大主卧-2400-元转租](https://www.v2ex.com/t/863690) 
-- [2022-07-02-pve-硬盘直通做系统盘-Read-Error](https://www.v2ex.com/t/863688) 
-- [2022-07-02-最近写了一个简单的-AI-头像生成器](https://www.v2ex.com/t/863685) 
 - [2022-07-03-故事点-vs.-人天-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15213&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fagile-estimation-story-points-man-day%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-03-如何设计数据可视化平台-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15212&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-design-data-visualization-platform%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-03-你的代码会说话吗？（上）-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15211&url=https%3A%2F%2Finsights.thoughtworks.cn%2F%3Fp%3D16179%26amp%3Bpreview%3Dtrue%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

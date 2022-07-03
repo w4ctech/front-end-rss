@@ -9953,6 +9953,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "android http 持久化 cookie",
+        "link": "https://www.v2ex.com/t/863850",
+        "date": "2022-07-03"
+      },
+      {
         "title": "Manta Network 寻找游戏前端 (TypeScript, JavaScript), 完全远程工作",
         "link": "https://www.v2ex.com/t/863849",
         "date": "2022-07-03"
@@ -10130,11 +10135,6 @@
       {
         "title": "假如 可以通过 AI 预测一个人 接下来是否会犯罪，国家会启用吗？",
         "link": "https://www.v2ex.com/t/863801",
-        "date": "2022-07-03"
-      },
-      {
-        "title": "[抽奖送码活动 & macOS] Bob 1.0.0 正式版终于发布了！",
-        "link": "https://www.v2ex.com/t/863800",
         "date": "2022-07-03"
       }
     ]

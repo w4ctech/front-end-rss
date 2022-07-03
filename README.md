@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-07-03 22:39:01，:rocket: 更新条数: +2015， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-07-03 23:03:07，:rocket: 更新条数: +2015， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-07-03-android-http-持久化-cookie](https://www.v2ex.com/t/863850) ![](assets/new.png)  
 - [2022-07-03-Manta-Network-寻找游戏前端-TypeScript,-JavaScript,-完全远程工作](https://www.v2ex.com/t/863849) ![](assets/new.png)  
 - [2022-07-03-KK-的这句英文是什么意思?](https://www.v2ex.com/t/863848) ![](assets/new.png)  
 - [2022-07-03-基于猫脸识别的猫咪智能相册上架了，内附兑换码](https://www.v2ex.com/t/863847) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-07-03-项目资金从上往下一扣再扣](https://www.v2ex.com/t/863828) ![](assets/new.png)  
 - [2022-07-03-疯了.-M2-的-speedometer-超越-400-分了.](https://www.v2ex.com/t/863827) ![](assets/new.png)  
 - [2022-07-03-影响新能源车普及，除了充电，还是充电…](https://www.v2ex.com/t/863826) ![](assets/new.png)  
-- [2022-07-03-Mac-使用-VirtualBox-安装-Home-Assistant-报错后无法进入-HA-首页](https://www.v2ex.com/t/863824) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-07-04 14:39:16，:rocket: 更新条数: +2028， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-07-04 15:19:32，:rocket: 更新条数: +2027， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,10 @@
 </summary>
 
 
+- [2022-07-04-都签到-700-天了，为什么发个帖子，都不能出现在对应节点列表？](https://www.v2ex.com/t/864073) ![](assets/new.png)  
+- [2022-07-04-笔记本一个角轻微磕碰变形，但不影响使用，长期下来会有隐患吗？](https://www.v2ex.com/t/864071) ![](assets/new.png)  
+- [2022-07-04-有什么好用的鼻毛剪么？](https://www.v2ex.com/t/864070) ![](assets/new.png)  
+- [2022-07-04-开源一个基于-Gatsby.js-的静态博客模板](https://www.v2ex.com/t/864069) ![](assets/new.png)  
 - [2022-07-04-彦祖们，大三即将秋招，是否-All-in-Go？](https://www.v2ex.com/t/864068) ![](assets/new.png)  
 - [2022-07-04-抖音无法关注播主的情况反馈](https://www.v2ex.com/t/864067) ![](assets/new.png)  
 - [2022-07-04-metaspace-每次-gc-后，回收了大量的空间，为何没有缩容](https://www.v2ex.com/t/864066) ![](assets/new.png)  
@@ -507,10 +511,6 @@
 - [2022-07-04-iPhone-丢失后有什么能补救的？](https://www.v2ex.com/t/864052) ![](assets/new.png)  
 - [2022-07-04-dns国外-Linux-主机修改-dns,首选为-1.1.1.1-备选-8.8.8.8-这个搭配行不行,还是说首选-114.](https://www.v2ex.com/t/864049) ![](assets/new.png)  
 - [2022-07-04-广州|深圳|上海-求职3-年后端开发经验求职，可接受转语言（Go|-PHP-|-Java-）](https://www.v2ex.com/t/864047) ![](assets/new.png)  
-- [2022-07-04-精品网护身符消失了](https://www.v2ex.com/t/864046) ![](assets/new.png)  
-- [2022-07-04-MacStudio-和-MBP-的选择-求指点](https://www.v2ex.com/t/864045) ![](assets/new.png)  
-- [2022-07-04-成都国企-vs-家乡技术军官](https://www.v2ex.com/t/864044) ![](assets/new.png)  
-- [2022-07-04-隔壁位置的同事被辞了，心有戚戚](https://www.v2ex.com/t/864043) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -558,19 +558,19 @@
 - [2022-07-04-迷失在Mysql的锁世界](https://toutiao.io/k/0mgu5x0) ![](assets/new.png)  
 - [2022-07-04-分析了700万份工作需求，市场需求最高的8种编程语言是这些](https://toutiao.io/k/jp0jcrj) ![](assets/new.png)  
 - [2022-07-04-面试必答题“聊聊Java中线程的生命周期状态”如何破？](https://toutiao.io/k/5hfr1qo) ![](assets/new.png)  
-- [2022-07-04-共识算法与分布式一致性算法](https://toutiao.io/k/b5txitt) ![](assets/new.png)  
 - [2022-07-04-24-个-Docker-常见问题处理技巧](https://toutiao.io/k/qvb6v50) ![](assets/new.png)  
+- [2022-07-04-共识算法与分布式一致性算法](https://toutiao.io/k/b5txitt) ![](assets/new.png)  
 - [2022-07-04-同事又在代码里“下毒”，血压拉满...](https://toutiao.io/k/t677tm8) ![](assets/new.png)  
 - [2022-07-04-多线程使用不当导致的-OOM](https://toutiao.io/k/vhepj5c) ![](assets/new.png)  
 - [2022-07-04-官方答：在React18中请求数据的正确姿势（其他框架也适用）](https://toutiao.io/k/3xcubl2) ![](assets/new.png)  
 - [2022-07-04-聊聊支付流程的设计与实现逻辑](https://toutiao.io/k/tkjg3me) ![](assets/new.png)  
-- [2022-07-04-Android各版本迭代信息集合](https://toutiao.io/k/923wpwx) ![](assets/new.png)  
 - [2022-07-04-10-种CORS跨域解决方案](https://toutiao.io/k/1u7kgx9) ![](assets/new.png)  
+- [2022-07-04-Android各版本迭代信息集合](https://toutiao.io/k/923wpwx) ![](assets/new.png)  
 - [2022-07-04-前端-SSR-在之家主站的应用-缓存及其性能监测](https://toutiao.io/k/m5g236f) ![](assets/new.png)  
 - [2022-07-04-TLA+-入门教程（1）：形式化方法简介](https://toutiao.io/k/dgmsdad) ![](assets/new.png)  
 - [2022-07-04-花-40-块搞个游戏机「GitHub-热点速览-v.22.27」](https://toutiao.io/k/muni5ep) ![](assets/new.png)  
-- [2022-07-04-GUI-应用：socket-网络聊天室！](https://toutiao.io/k/lzrfiy5) ![](assets/new.png)  
 - [2022-07-04-重要！！Elasticsearch-安全加固指南](https://toutiao.io/k/yz97sv4) ![](assets/new.png)  
+- [2022-07-04-GUI-应用：socket-网络聊天室！](https://toutiao.io/k/lzrfiy5) ![](assets/new.png)  
 - [2022-07-04-一位-sealer-maintainer-的心路历程](https://toutiao.io/k/4in5ve3) ![](assets/new.png)  
 - [2022-07-04-推荐-吐血整理：一份不可多得的架构师图谱！](https://toutiao.io/k/ptp0ru2) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)

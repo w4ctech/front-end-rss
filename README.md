@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-07-04 10:46:23，:rocket: 更新条数: +2030， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-07-04 11:22:55，:rocket: 更新条数: +2029， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,10 @@
 </summary>
 
 
+- [2022-07-04-隔壁位置的同事被辞了，心有戚戚](https://www.v2ex.com/t/864043) ![](assets/new.png)  
+- [2022-07-04-VPS-自建网页-markdwon-编辑器有推荐的嘛？准备配合-obsidian-使用](https://www.v2ex.com/t/864042) ![](assets/new.png)  
+- [2022-07-04-天津买房贴](https://www.v2ex.com/t/864041) ![](assets/new.png)  
+- [2022-07-04-招聘：-ZK-研究员&全球远程&100w+年](https://www.v2ex.com/t/864040) ![](assets/new.png)  
 - [2022-07-04-成都前端-大专-求职（求内推）](https://www.v2ex.com/t/864038) ![](assets/new.png)  
 - [2022-07-04-macos-无法上传文件，这是什么-nt-系统？](https://www.v2ex.com/t/864037) ![](assets/new.png)  
 - [2022-07-04-为什么我的-onedrive-for-business-看不到我手机上备份的照片呢？](https://www.v2ex.com/t/864035) ![](assets/new.png)  
@@ -507,10 +511,6 @@
 - [2022-07-04-用-Go-开发公司内部的业务系统，后端该如何选型？](https://www.v2ex.com/t/864023) ![](assets/new.png)  
 - [2022-07-04-T-Chat-第五期「戴铭---我在快手做移动端」7-月-7-日晚-8-点开播](https://www.v2ex.com/t/864022) ![](assets/new.png)  
 - [2022-07-04-小白学完-go-的语法后，有什么适合练手的教程嘛](https://www.v2ex.com/t/864021) ![](assets/new.png)  
-- [2022-07-04-SM.MS-图床是如何判断图片访问来源的?](https://www.v2ex.com/t/864020) ![](assets/new.png)  
-- [2022-07-04-美团外卖崩了](https://www.v2ex.com/t/864019) ![](assets/new.png)  
-- [2022-07-04-如何让-Siri-支持多语言？](https://www.v2ex.com/t/864018) ![](assets/new.png)  
-- [2022-07-04-在-gitee，你的代码里不能包含-SAVE。。。](https://www.v2ex.com/t/864017) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -572,7 +572,7 @@
 - [2022-07-04-一位-sealer-maintainer-的心路历程](https://toutiao.io/k/4in5ve3) ![](assets/new.png)  
 - [2022-07-04-重要！！Elasticsearch-安全加固指南](https://toutiao.io/k/yz97sv4) ![](assets/new.png)  
 - [2022-07-04-TLA+-入门教程（1）：形式化方法简介](https://toutiao.io/k/dgmsdad) ![](assets/new.png)  
-- [2022-07-04-推荐-吐血整理：一份不可多得的架构师图谱！](https://toutiao.io/k/ptp0ru2) ![](assets/new.png)  
+- [2022-07-04-推荐-3000帧动画图解MySQL为什么需要binlog、redo-log和undo-log](https://toutiao.io/k/b0g4460) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

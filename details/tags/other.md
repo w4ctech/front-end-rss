@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-04 10:46:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-04 11:22:55。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,9 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-07-04-隔壁位置的同事被辞了，心有戚戚](https://www.v2ex.com/t/864043) 
+- [2022-07-04-VPS-自建网页-markdwon-编辑器有推荐的嘛？准备配合-obsidian-使用](https://www.v2ex.com/t/864042) 
+- [2022-07-04-天津买房贴](https://www.v2ex.com/t/864041) 
 - [2022-07-04-成都前端-大专-求职（求内推）](https://www.v2ex.com/t/864038) 
 - [2022-07-04-macos-无法上传文件，这是什么-nt-系统？](https://www.v2ex.com/t/864037) 
 - [2022-07-04-为什么我的-onedrive-for-business-看不到我手机上备份的照片呢？](https://www.v2ex.com/t/864035) 
@@ -1942,10 +1945,6 @@
 - [2022-07-04-阿里小号是不是挂了？-20220704](https://www.v2ex.com/t/863997) 
 - [2022-07-04-求教，内网云服务器访问第三方接口](https://www.v2ex.com/t/863996) 
 - [2022-07-04-这次是不是彻底裸奔了？](https://www.v2ex.com/t/863995) 
-- [2022-07-04-请大家推荐一本概率有关的书](https://www.v2ex.com/t/863993) 
-- [2022-07-04-请教如何提升职场撕逼能力](https://www.v2ex.com/t/863992) 
-- [2022-07-04-推荐一本-C++入门书籍？](https://www.v2ex.com/t/863990) 
-- [2022-07-04-开发支付宝和微信的对账](https://www.v2ex.com/t/863989) 
 - [2022-07-04-故事点-vs.-人天-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15213&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fagile-estimation-story-points-man-day%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-04-如何设计数据可视化平台-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15212&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-design-data-visualization-platform%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-04-你的代码会说话吗？（上）-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15211&url=https%3A%2F%2Finsights.thoughtworks.cn%2F%3Fp%3D16179%26amp%3Bpreview%3Dtrue%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

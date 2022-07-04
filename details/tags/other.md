@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-04 21:38:30。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-04 22:13:54。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1945,7 +1945,6 @@
 - [2022-07-04-VPS-自建网页-markdwon-编辑器有推荐的嘛？准备配合-obsidian-使用](https://www.v2ex.com/t/864042) 
 - [2022-07-04-天津买房贴](https://www.v2ex.com/t/864041) 
 - [2022-07-04-成都前端-大专-求职（求内推）](https://www.v2ex.com/t/864038) 
-- [2022-07-04-macos-无法上传文件，这是什么-nt-系统？](https://www.v2ex.com/t/864037) 
 - [2022-07-04-故事点-vs.-人天-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15213&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fagile-estimation-story-points-man-day%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-04-如何设计数据可视化平台-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15212&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-design-data-visualization-platform%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-04-你的代码会说话吗？（上）-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15211&url=https%3A%2F%2Finsights.thoughtworks.cn%2F%3Fp%3D16179%26amp%3Bpreview%3Dtrue%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

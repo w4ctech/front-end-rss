@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-04 06:20:53。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-04 06:51:35。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -15,6 +15,5 @@
 - [2021-01-01-大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html) 
 - [2022-06-12-基于文字的URL锚点定位与::target-text样式设置](https://www.zhangxinxu.com/wordpress/2022/06/url-anchor-target-text/) 
 - [2022-07-04-好玩儿的-Docker-项目-开箱即用！-TeamViewer、向日葵的替代品，-20-分钟自建一个开源远程桌面服务——RustDesk](https://www.v2ex.com/t/863939) 
-- [2022-07-04-Chrono-Download-Manager-被-Edge-标记为恶意软件](https://www.v2ex.com/t/863908) 
 - [2022-07-04-10-种CORS跨域解决方案](https://toutiao.io/k/1u7kgx9) 
 - [2022-07-04-重要！！Elasticsearch-安全加固指南](https://toutiao.io/k/yz97sv4) 

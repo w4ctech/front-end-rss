@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-07-04 11:22:55。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-04 11:47:16。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -355,7 +355,6 @@
 
 
 - [【V2EX】招聘：-ZK-研究员&全球远程&100w+年](https://www.v2ex.com/t/864040)
-- [【V2EX】北京-Authing-招聘-SRE-运维工程师](https://www.v2ex.com/t/863994)
 - [【开发者头条】面试必答题“聊聊Java中线程的生命周期状态”如何破？](https://toutiao.io/k/5hfr1qo)
 - [......【查看更多】......](./details/tags/job-interview.md)
 

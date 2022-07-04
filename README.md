@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-07-04 18:46:37，:rocket: 更新条数: +2027， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-07-04 19:12:55，:rocket: 更新条数: +2027， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -568,11 +568,11 @@
 - [2022-07-04-Android各版本迭代信息集合](https://toutiao.io/k/923wpwx) ![](assets/new.png)  
 - [2022-07-04-前端-SSR-在之家主站的应用-缓存及其性能监测](https://toutiao.io/k/m5g236f) ![](assets/new.png)  
 - [2022-07-04-TLA+-入门教程（1）：形式化方法简介](https://toutiao.io/k/dgmsdad) ![](assets/new.png)  
-- [2022-07-04-花-40-块搞个游戏机「GitHub-热点速览-v.22.27」](https://toutiao.io/k/muni5ep) ![](assets/new.png)  
 - [2022-07-04-重要！！Elasticsearch-安全加固指南](https://toutiao.io/k/yz97sv4) ![](assets/new.png)  
+- [2022-07-04-花-40-块搞个游戏机「GitHub-热点速览-v.22.27」](https://toutiao.io/k/muni5ep) ![](assets/new.png)  
 - [2022-07-04-GUI-应用：socket-网络聊天室！](https://toutiao.io/k/lzrfiy5) ![](assets/new.png)  
 - [2022-07-04-一位-sealer-maintainer-的心路历程](https://toutiao.io/k/4in5ve3) ![](assets/new.png)  
-- [2022-07-04-推荐-3000帧动画图解MySQL为什么需要binlog、redo-log和undo-log](https://toutiao.io/k/b0g4460) ![](assets/new.png)  
+- [2022-07-04-推荐-吐血整理：一份不可多得的架构师图谱！](https://toutiao.io/k/ptp0ru2) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

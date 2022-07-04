@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-07-04 06:51:35，:rocket: 更新条数: +2029， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-07-04 07:14:25，:rocket: 更新条数: +2029， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,12 @@
 </summary>
 
 
+- [2022-07-04-iPad-air-屏幕外层玻璃破了,-更换的话价格大概是多少?](https://www.v2ex.com/t/863973) ![](assets/new.png)  
+- [2022-07-04-i-茅台虎茅-500ml-多少出少合适啊-昨天中了一瓶](https://www.v2ex.com/t/863972) ![](assets/new.png)  
+- [2022-07-04-北京-Authing-招聘-Java-开发工程师](https://www.v2ex.com/t/863970) ![](assets/new.png)  
+- [2022-07-04-你们的阿里网盘-webdav-还行吗](https://www.v2ex.com/t/863969) ![](assets/new.png)  
+- [2022-07-04-北京联通电话推-157/月-千兆套餐，升么？](https://www.v2ex.com/t/863967) ![](assets/new.png)  
+- [2022-07-04-为啥没人讨论-10-个-BTC-数据库事情啊？](https://www.v2ex.com/t/863966) ![](assets/new.png)  
 - [2022-07-04-入门款显示器推荐](https://www.v2ex.com/t/863965) ![](assets/new.png)  
 - [2022-07-04-有没有什么免费或者比较便宜的云服务厂商认证（能提供电子/纸质证书）？](https://www.v2ex.com/t/863964) ![](assets/new.png)  
 - [2022-07-04-可能是今晚发布的小米-12-ULTRA-的“生日蛋糕”设计](https://www.v2ex.com/t/863963) ![](assets/new.png)  
@@ -505,12 +511,6 @@
 - [2022-07-04-如何在芯片公司自学-IC-设计？](https://www.v2ex.com/t/863952) ![](assets/new.png)  
 - [2022-07-04-真的喜欢户外的，都是热爱生活的](https://www.v2ex.com/t/863951) ![](assets/new.png)  
 - [2022-07-04-你们的工作时间是-8-小时吗?](https://www.v2ex.com/t/863950) ![](assets/new.png)  
-- [2022-07-04-主机管理工具-natpass-v0.9.0-版本发布，新增-macos-远程桌面支持](https://www.v2ex.com/t/863949) ![](assets/new.png)  
-- [2022-07-04-vite-难题黑白两套-css-通过<link>属性切换。打包时如何分别精简并同时-copy-到-dist？](https://www.v2ex.com/t/863948) ![](assets/new.png)  
-- [2022-07-04-手机锁屏后再打开能直接打开原来的-app-吗？](https://www.v2ex.com/t/863947) ![](assets/new.png)  
-- [2022-07-04-为了解决-Java-对象转换的痛点，我开发了一款-IDEA-插件](https://www.v2ex.com/t/863945) ![](assets/new.png)  
-- [2022-07-04-各家的-OpenJDK-都有什么区别](https://www.v2ex.com/t/863943) ![](assets/new.png)  
-- [2022-07-04-试了下-go-in-rust-style](https://www.v2ex.com/t/863942) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -568,11 +568,11 @@
 - [2022-07-04-前端-SSR-在之家主站的应用-缓存及其性能监测](https://toutiao.io/k/m5g236f) ![](assets/new.png)  
 - [2022-07-04-10-种CORS跨域解决方案](https://toutiao.io/k/1u7kgx9) ![](assets/new.png)  
 - [2022-07-04-花-40-块搞个游戏机「GitHub-热点速览-v.22.27」](https://toutiao.io/k/muni5ep) ![](assets/new.png)  
+- [2022-07-04-GUI-应用：socket-网络聊天室！](https://toutiao.io/k/lzrfiy5) ![](assets/new.png)  
 - [2022-07-04-一位-sealer-maintainer-的心路历程](https://toutiao.io/k/4in5ve3) ![](assets/new.png)  
 - [2022-07-04-TLA+-入门教程（1）：形式化方法简介](https://toutiao.io/k/dgmsdad) ![](assets/new.png)  
-- [2022-07-04-GUI-应用：socket-网络聊天室！](https://toutiao.io/k/lzrfiy5) ![](assets/new.png)  
 - [2022-07-04-重要！！Elasticsearch-安全加固指南](https://toutiao.io/k/yz97sv4) ![](assets/new.png)  
-- [2022-07-04-推荐-3000帧动画图解MySQL为什么需要binlog、redo-log和undo-log](https://toutiao.io/k/b0g4460) ![](assets/new.png)  
+- [2022-07-04-推荐-吐血整理：一份不可多得的架构师图谱！](https://toutiao.io/k/ptp0ru2) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

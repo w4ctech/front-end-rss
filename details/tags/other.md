@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-04 16:58:52。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-04 17:20:07。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,8 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-07-04-难道-zlib-是-V2EX-运营的？为啥-payment-是-v2ex？](https://www.v2ex.com/t/864084) 
+- [2022-07-04-求北京外企-PM-内推！](https://www.v2ex.com/t/864083) 
 - [2022-07-04-课题组同事被老板骂哭后终于离职了](https://www.v2ex.com/t/864081) 
 - [2022-07-04-大数据远程工作](https://www.v2ex.com/t/864080) 
 - [2022-07-04-大家好，我开始了一项公开创业计划，目标是九个月获得五千万元投资。](https://www.v2ex.com/t/864079) 
@@ -1944,8 +1946,6 @@
 - [2022-07-04-成都前端-大专-求职（求内推）](https://www.v2ex.com/t/864038) 
 - [2022-07-04-macos-无法上传文件，这是什么-nt-系统？](https://www.v2ex.com/t/864037) 
 - [2022-07-04-为什么我的-onedrive-for-business-看不到我手机上备份的照片呢？](https://www.v2ex.com/t/864035) 
-- [2022-07-04-外向的人有哪些优势？](https://www.v2ex.com/t/864034) 
-- [2022-07-04-日本-NFT-市场-X2Y2-诚聘资深前端，后端工程师](https://www.v2ex.com/t/864033) 
 - [2022-07-04-故事点-vs.-人天-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15213&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fagile-estimation-story-points-man-day%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-04-如何设计数据可视化平台-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15212&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-design-data-visualization-platform%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-04-你的代码会说话吗？（上）-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15211&url=https%3A%2F%2Finsights.thoughtworks.cn%2F%3Fp%3D16179%26amp%3Bpreview%3Dtrue%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

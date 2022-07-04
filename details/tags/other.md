@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-04 05:47:14。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-04 06:20:53。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,12 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-07-04-为什么飞书的门禁可以卖这么贵？而同样的钉钉则便宜很多？](https://www.v2ex.com/t/863956) 
+- [2022-07-04-大佬们,有没有截图可以生成设计稿的?](https://www.v2ex.com/t/863955) 
+- [2022-07-04-数据泄露那个事，问下大伙它卖数据的是哪个论坛，有没有人发下网址](https://www.v2ex.com/t/863953) 
+- [2022-07-04-如何在芯片公司自学-IC-设计？](https://www.v2ex.com/t/863952) 
+- [2022-07-04-真的喜欢户外的，都是热爱生活的](https://www.v2ex.com/t/863951) 
+- [2022-07-04-你们的工作时间是-8-小时吗?](https://www.v2ex.com/t/863950) 
 - [2022-07-04-主机管理工具-natpass-v0.9.0-版本发布，新增-macos-远程桌面支持](https://www.v2ex.com/t/863949) 
 - [2022-07-04-手机锁屏后再打开能直接打开原来的-app-吗？](https://www.v2ex.com/t/863947) 
 - [2022-07-04-为了解决-Java-对象转换的痛点，我开发了一款-IDEA-插件](https://www.v2ex.com/t/863945) 
@@ -1937,11 +1943,6 @@
 - [2022-07-04-内向的人有哪些优势?](https://www.v2ex.com/t/863912) 
 - [2022-07-04-独立产品周刊-DecoHack-#20---如何停止来自金钱的压力](https://www.v2ex.com/t/863910) 
 - [2022-07-04-台式主机电源供电不足会损害硬件吗？](https://www.v2ex.com/t/863909) 
-- [2022-07-04-书荒帖推荐的几本小说](https://www.v2ex.com/t/863906) 
-- [2022-07-04-ubuntu-删除文件删不了，删了之后又恢复了](https://www.v2ex.com/t/863905) 
-- [2022-07-04-请教关于-Mac-Studio-睡眠-机身烫手的问题](https://www.v2ex.com/t/863904) 
-- [2022-07-04-企业用正版系统怎么采划算？](https://www.v2ex.com/t/863903) 
-- [2022-07-04-从-0-开始写-newsletter](https://www.v2ex.com/t/863900) 
 - [2022-07-04-故事点-vs.-人天-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15213&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fagile-estimation-story-points-man-day%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-04-如何设计数据可视化平台-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15212&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-design-data-visualization-platform%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-04-你的代码会说话吗？（上）-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15211&url=https%3A%2F%2Finsights.thoughtworks.cn%2F%3Fp%3D16179%26amp%3Bpreview%3Dtrue%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1967,4 +1968,6 @@
 - [2022-07-04-Android各版本迭代信息集合](https://toutiao.io/k/923wpwx) 
 - [2022-07-04-同事又在代码里“下毒”，血压拉满...](https://toutiao.io/k/t677tm8) 
 - [2022-07-04-聊聊支付流程的设计与实现逻辑](https://toutiao.io/k/tkjg3me) 
+- [2022-07-04-TLA+-入门教程（1）：形式化方法简介](https://toutiao.io/k/dgmsdad) 
+- [2022-07-04-一位-sealer-maintainer-的心路历程](https://toutiao.io/k/4in5ve3) 
 - [2022-07-04-推荐-吐血整理：一份不可多得的架构师图谱！](https://toutiao.io/k/ptp0ru2) 

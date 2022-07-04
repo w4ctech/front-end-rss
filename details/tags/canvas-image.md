@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-04 05:47:14。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-04 06:20:53。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Canvas、SVG、图像
 
@@ -6,3 +6,5 @@
 > 关键字：`Canvas`、`SVG`、`WebGL`、`3D`、`PNG`、`WebP`、`RGB`、`GUI`
 
 
+
+- [2022-07-04-GUI-应用：socket-网络聊天室！](https://toutiao.io/k/lzrfiy5) 

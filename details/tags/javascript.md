@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-04 03:31:31。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-04 04:31:53。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -21,5 +21,4 @@
 - [2022-04-27-小tips:-JS字体加载失败或完毕的检测](https://www.zhangxinxu.com/wordpress/2022/04/js-font-face-load/) 
 - [2022-07-04-js-问题，为什么全局使用-json-bigint-处理大数据问题后，使用-hasOwnProperty-会报错](https://www.v2ex.com/t/863901) 
 - [2022-07-04-js-能在浏览器直接运行测试，那还需要-jest-吗](https://www.v2ex.com/t/863887) 
-- [2022-07-04-关于-compositionApi-异步初始化的问题求教](https://www.v2ex.com/t/863868) 
 - [2022-07-04-如何实现页面刷新后不定位到之前的滚动位置？-www.zhangxinxu.com](https://blogread.cn/news/go.php?idItem=15195&url=https%3A%2F%2Fwww.zhangxinxu.com%2Fwordpress%2F2022%2F05%2Fhistory-scrollrestoration%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

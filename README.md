@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-07-04 15:19:32，:rocket: 更新条数: +2027， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-07-04 15:43:51，:rocket: 更新条数: +2026， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,9 +491,9 @@
 </summary>
 
 
+- [2022-07-04-有没有打算做量子计算的公司或同学,-想找点茬.](https://www.v2ex.com/t/864074) ![](assets/new.png)  
 - [2022-07-04-都签到-700-天了，为什么发个帖子，都不能出现在对应节点列表？](https://www.v2ex.com/t/864073) ![](assets/new.png)  
 - [2022-07-04-笔记本一个角轻微磕碰变形，但不影响使用，长期下来会有隐患吗？](https://www.v2ex.com/t/864071) ![](assets/new.png)  
-- [2022-07-04-有什么好用的鼻毛剪么？](https://www.v2ex.com/t/864070) ![](assets/new.png)  
 - [2022-07-04-开源一个基于-Gatsby.js-的静态博客模板](https://www.v2ex.com/t/864069) ![](assets/new.png)  
 - [2022-07-04-彦祖们，大三即将秋招，是否-All-in-Go？](https://www.v2ex.com/t/864068) ![](assets/new.png)  
 - [2022-07-04-抖音无法关注播主的情况反馈](https://www.v2ex.com/t/864067) ![](assets/new.png)  
@@ -572,7 +572,7 @@
 - [2022-07-04-重要！！Elasticsearch-安全加固指南](https://toutiao.io/k/yz97sv4) ![](assets/new.png)  
 - [2022-07-04-GUI-应用：socket-网络聊天室！](https://toutiao.io/k/lzrfiy5) ![](assets/new.png)  
 - [2022-07-04-一位-sealer-maintainer-的心路历程](https://toutiao.io/k/4in5ve3) ![](assets/new.png)  
-- [2022-07-04-推荐-吐血整理：一份不可多得的架构师图谱！](https://toutiao.io/k/ptp0ru2) ![](assets/new.png)  
+- [2022-07-04-推荐-3000帧动画图解MySQL为什么需要binlog、redo-log和undo-log](https://toutiao.io/k/b0g4460) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

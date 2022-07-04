@@ -9953,6 +9953,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "有没有打算做量子计算的公司或同学, 想找点茬.",
+        "link": "https://www.v2ex.com/t/864074",
+        "date": "2022-07-04"
+      },
+      {
         "title": "都签到 700 天了，为什么发个帖子，都不能出现在对应节点列表？",
         "link": "https://www.v2ex.com/t/864073",
         "date": "2022-07-04"
@@ -9960,11 +9965,6 @@
       {
         "title": "笔记本一个角轻微磕碰变形，但不影响使用，长期下来会有隐患吗？",
         "link": "https://www.v2ex.com/t/864071",
-        "date": "2022-07-04"
-      },
-      {
-        "title": "有什么好用的鼻毛剪么？",
-        "link": "https://www.v2ex.com/t/864070",
         "date": "2022-07-04"
       },
       {
@@ -10145,11 +10145,6 @@
       {
         "title": "有办法在 vscode terminal 中的 vim 实现 map Command+c/v/s/a 映射吗？",
         "link": "https://www.v2ex.com/t/864025",
-        "date": "2022-07-04"
-      },
-      {
-        "title": "ghost 到底是谁啊，怎么在 Github 上到处都能碰到他！",
-        "link": "https://www.v2ex.com/t/864024",
         "date": "2022-07-04"
       }
     ]
@@ -10362,13 +10357,13 @@
         "date": "2022-07-04"
       },
       {
-        "title": "[推荐] 吐血整理：一份不可多得的架构师图谱！",
-        "link": "https://toutiao.io/k/ptp0ru2",
+        "title": "[推荐] 3000帧动画图解MySQL为什么需要binlog、redo log和undo log",
+        "link": "https://toutiao.io/k/b0g4460",
         "date": "2022-07-04"
       },
       {
-        "title": "[推荐] 3000帧动画图解MySQL为什么需要binlog、redo log和undo log",
-        "link": "https://toutiao.io/k/b0g4460",
+        "title": "[推荐] 吐血整理：一份不可多得的架构师图谱！",
+        "link": "https://toutiao.io/k/ptp0ru2",
         "date": "2022-07-04"
       }
     ]

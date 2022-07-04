@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-04 15:19:32。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-07-04 15:43:51。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,9 +68,9 @@
 </summary>
 
 
+- [【V2EX】2022-07-04-有没有打算做量子计算的公司或同学,-想找点茬.](https://www.v2ex.com/t/864074) 
 - [【V2EX】2022-07-04-都签到-700-天了，为什么发个帖子，都不能出现在对应节点列表？](https://www.v2ex.com/t/864073) 
 - [【V2EX】2022-07-04-笔记本一个角轻微磕碰变形，但不影响使用，长期下来会有隐患吗？](https://www.v2ex.com/t/864071) 
-- [【V2EX】2022-07-04-有什么好用的鼻毛剪么？](https://www.v2ex.com/t/864070) 
 - [【V2EX】2022-07-04-开源一个基于-Gatsby.js-的静态博客模板](https://www.v2ex.com/t/864069) 
 - [【V2EX】2022-07-04-彦祖们，大三即将秋招，是否-All-in-Go？](https://www.v2ex.com/t/864068) 
 - [【V2EX】2022-07-04-抖音无法关注播主的情况反馈](https://www.v2ex.com/t/864067) 
@@ -107,7 +107,6 @@
 - [【V2EX】2022-07-04-大家会因为什么功能为-Kubernetes-管理平台付费呢?](https://www.v2ex.com/t/864027) 
 - [【V2EX】2022-07-04-2022-年有什么好的学习-UIKit-的-Swift-教程？](https://www.v2ex.com/t/864026) 
 - [【V2EX】2022-07-04-有办法在-vscode-terminal-中的-vim-实现-map-Command+c/v/s/a-映射吗？](https://www.v2ex.com/t/864025) 
-- [【V2EX】2022-07-04-ghost-到底是谁啊，怎么在-Github-上到处都能碰到他！](https://www.v2ex.com/t/864024) 
 - [【技术头条】2022-07-04-故事点-vs.-人天-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15213&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fagile-estimation-story-points-man-day%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-04-如何设计数据可视化平台-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15212&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-design-data-visualization-platform%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-04-你的代码会说话吗？（上）-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15211&url=https%3A%2F%2Finsights.thoughtworks.cn%2F%3Fp%3D16179%26amp%3Bpreview%3Dtrue%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -147,8 +146,8 @@
 - [【开发者头条】2022-07-04-重要！！Elasticsearch-安全加固指南](https://toutiao.io/k/yz97sv4) 
 - [【开发者头条】2022-07-04-GUI-应用：socket-网络聊天室！](https://toutiao.io/k/lzrfiy5) 
 - [【开发者头条】2022-07-04-一位-sealer-maintainer-的心路历程](https://toutiao.io/k/4in5ve3) 
-- [【开发者头条】2022-07-04-推荐-吐血整理：一份不可多得的架构师图谱！](https://toutiao.io/k/ptp0ru2) 
 - [【开发者头条】2022-07-04-推荐-3000帧动画图解MySQL为什么需要binlog、redo-log和undo-log](https://toutiao.io/k/b0g4460) 
+- [【开发者头条】2022-07-04-推荐-吐血整理：一份不可多得的架构师图谱！](https://toutiao.io/k/ptp0ru2) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

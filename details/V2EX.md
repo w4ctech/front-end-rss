@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2022-07-04 08:47:56。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-04 09:14:00。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-07-04-dedipath-vps-美国独立日促销活动-50-折扣-低至-1.75-美-月](https://www.v2ex.com/t/864010) 
+- [2022-07-04-用-svelte-开发了个微信文件传输网页版的插件](https://www.v2ex.com/t/864008) 
 - [2022-07-04-Mac-OS-13-Ventura-系统设置-->-网络-无法打开](https://www.v2ex.com/t/864006) 
 - [2022-07-04-将自己的-IP-查询工具重写了下，欢迎使用](https://www.v2ex.com/t/864005) 
 - [2022-07-04-请求百度-api，报错：-Received-fatal-alert:-handshake_failure](https://www.v2ex.com/t/864004) 
@@ -44,6 +46,3 @@
 - [2022-07-04-有没有什么免费或者比较便宜的云服务厂商认证（能提供电子/纸质证书）？](https://www.v2ex.com/t/863964) 
 - [2022-07-04-可能是今晚发布的小米-12-ULTRA-的“生日蛋糕”设计](https://www.v2ex.com/t/863963) 
 - [2022-07-04-iCloud-修改头像功能崩溃了？](https://www.v2ex.com/t/863962) 
-- [2022-07-04-郑州北漂，沪漂-IT-交流群，在外漂泊的少年，该回家了！](https://www.v2ex.com/t/863961) 
-- [2022-07-04-在开发的过程中，遇到在引入多个-cdn-失效的情况如何快速解决](https://www.v2ex.com/t/863960) 
-- [2022-07-04-如何在-mac-上拆出完全独立的两个空间？](https://www.v2ex.com/t/863958) 

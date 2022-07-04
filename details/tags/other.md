@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-04 08:47:56。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-04 09:14:00。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,8 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-07-04-dedipath-vps-美国独立日促销活动-50-折扣-低至-1.75-美-月](https://www.v2ex.com/t/864010) 
+- [2022-07-04-用-svelte-开发了个微信文件传输网页版的插件](https://www.v2ex.com/t/864008) 
 - [2022-07-04-Mac-OS-13-Ventura-系统设置-->-网络-无法打开](https://www.v2ex.com/t/864006) 
 - [2022-07-04-将自己的-IP-查询工具重写了下，欢迎使用](https://www.v2ex.com/t/864005) 
 - [2022-07-04-折腾两个月做的记账-app-基本达到我的预期-免费下载至-7-月-9-日](https://www.v2ex.com/t/864003) 
@@ -1942,9 +1944,6 @@
 - [2022-07-04-有没有什么免费或者比较便宜的云服务厂商认证（能提供电子/纸质证书）？](https://www.v2ex.com/t/863964) 
 - [2022-07-04-可能是今晚发布的小米-12-ULTRA-的“生日蛋糕”设计](https://www.v2ex.com/t/863963) 
 - [2022-07-04-iCloud-修改头像功能崩溃了？](https://www.v2ex.com/t/863962) 
-- [2022-07-04-郑州北漂，沪漂-IT-交流群，在外漂泊的少年，该回家了！](https://www.v2ex.com/t/863961) 
-- [2022-07-04-在开发的过程中，遇到在引入多个-cdn-失效的情况如何快速解决](https://www.v2ex.com/t/863960) 
-- [2022-07-04-如何在-mac-上拆出完全独立的两个空间？](https://www.v2ex.com/t/863958) 
 - [2022-07-04-故事点-vs.-人天-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15213&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fagile-estimation-story-points-man-day%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-04-如何设计数据可视化平台-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15212&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-design-data-visualization-platform%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-04-你的代码会说话吗？（上）-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15211&url=https%3A%2F%2Finsights.thoughtworks.cn%2F%3Fp%3D16179%26amp%3Bpreview%3Dtrue%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

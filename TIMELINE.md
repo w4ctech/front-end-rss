@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-04 16:19:32。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-07-04 16:58:52。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,9 @@
 </summary>
 
 
+- [【V2EX】2022-07-04-课题组同事被老板骂哭后终于离职了](https://www.v2ex.com/t/864081) 
+- [【V2EX】2022-07-04-大数据远程工作](https://www.v2ex.com/t/864080) 
+- [【V2EX】2022-07-04-大家好，我开始了一项公开创业计划，目标是九个月获得五千万元投资。](https://www.v2ex.com/t/864079) 
 - [【V2EX】2022-07-04-原来-mac-上的容量都是假的。。](https://www.v2ex.com/t/864078) 
 - [【V2EX】2022-07-04-问一些对虚拟化的认知：-ESXi-的虚拟化把一个不支持多线程的程序的负载均匀分布在多个处理器上](https://www.v2ex.com/t/864077) 
 - [【V2EX】2022-07-04-vultr-一台服务器一天数据传输了-10t-多，扣了-100$，有人遇到过吗](https://www.v2ex.com/t/864076) 
@@ -104,10 +107,6 @@
 - [【V2EX】2022-07-04-为什么我的-onedrive-for-business-看不到我手机上备份的照片呢？](https://www.v2ex.com/t/864035) 
 - [【V2EX】2022-07-04-外向的人有哪些优势？](https://www.v2ex.com/t/864034) 
 - [【V2EX】2022-07-04-日本-NFT-市场-X2Y2-诚聘资深前端，后端工程师](https://www.v2ex.com/t/864033) 
-- [【V2EX】2022-07-04-孤独的人有哪些优势?](https://www.v2ex.com/t/864032) 
-- [【V2EX】2022-07-04-为啥我的-AX3600-300M-联通宽带只能跑-80M-左右呢](https://www.v2ex.com/t/864031) 
-- [【V2EX】2022-07-04-分体键盘踩坑记](https://www.v2ex.com/t/864030) 
-- [【V2EX】2022-07-04-在-upwork-上找了个兼职,-和老板起冲突了,-大家来吃瓜](https://www.v2ex.com/t/864029) 
 - [【技术头条】2022-07-04-故事点-vs.-人天-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15213&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fagile-estimation-story-points-man-day%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-04-如何设计数据可视化平台-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15212&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-design-data-visualization-platform%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-04-你的代码会说话吗？（上）-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15211&url=https%3A%2F%2Finsights.thoughtworks.cn%2F%3Fp%3D16179%26amp%3Bpreview%3Dtrue%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -147,8 +146,8 @@
 - [【开发者头条】2022-07-04-重要！！Elasticsearch-安全加固指南](https://toutiao.io/k/yz97sv4) 
 - [【开发者头条】2022-07-04-GUI-应用：socket-网络聊天室！](https://toutiao.io/k/lzrfiy5) 
 - [【开发者头条】2022-07-04-一位-sealer-maintainer-的心路历程](https://toutiao.io/k/4in5ve3) 
-- [【开发者头条】2022-07-04-推荐-3000帧动画图解MySQL为什么需要binlog、redo-log和undo-log](https://toutiao.io/k/b0g4460) 
 - [【开发者头条】2022-07-04-推荐-吐血整理：一份不可多得的架构师图谱！](https://toutiao.io/k/ptp0ru2) 
+- [【开发者头条】2022-07-04-推荐-3000帧动画图解MySQL为什么需要binlog、redo-log和undo-log](https://toutiao.io/k/b0g4460) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-07-04 16:19:32，:rocket: 更新条数: +2027， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-07-04 16:58:51，:rocket: 更新条数: +2026， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,9 @@
 </summary>
 
 
+- [2022-07-04-课题组同事被老板骂哭后终于离职了](https://www.v2ex.com/t/864081) ![](assets/new.png)  
+- [2022-07-04-大数据远程工作](https://www.v2ex.com/t/864080) ![](assets/new.png)  
+- [2022-07-04-大家好，我开始了一项公开创业计划，目标是九个月获得五千万元投资。](https://www.v2ex.com/t/864079) ![](assets/new.png)  
 - [2022-07-04-原来-mac-上的容量都是假的。。](https://www.v2ex.com/t/864078) ![](assets/new.png)  
 - [2022-07-04-问一些对虚拟化的认知：-ESXi-的虚拟化把一个不支持多线程的程序的负载均匀分布在多个处理器上](https://www.v2ex.com/t/864077) ![](assets/new.png)  
 - [2022-07-04-vultr-一台服务器一天数据传输了-10t-多，扣了-100$，有人遇到过吗](https://www.v2ex.com/t/864076) ![](assets/new.png)  
@@ -508,9 +511,6 @@
 - [2022-07-04-非全日制的本有用吗，或者还有其他途径能提升自己的吗？](https://www.v2ex.com/t/864060) ![](assets/new.png)  
 - [2022-07-04-iOS-上-Twitter-客户端](https://www.v2ex.com/t/864059) ![](assets/new.png)  
 - [2022-07-04-请教大家一个-springboot-中-mongodb-事务的问题](https://www.v2ex.com/t/864058) ![](assets/new.png)  
-- [2022-07-04-自研推荐：微软云语音合成、抖音火山语音合成、阿里云语音合成小工具](https://www.v2ex.com/t/864057) ![](assets/new.png)  
-- [2022-07-04-移动的商宽的确不错](https://www.v2ex.com/t/864055) ![](assets/new.png)  
-- [2022-07-04-兼容众多跨平台mastodon-app-的-RSS-应用，你不来看看吗？](https://www.v2ex.com/t/864054) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -572,7 +572,7 @@
 - [2022-07-04-重要！！Elasticsearch-安全加固指南](https://toutiao.io/k/yz97sv4) ![](assets/new.png)  
 - [2022-07-04-GUI-应用：socket-网络聊天室！](https://toutiao.io/k/lzrfiy5) ![](assets/new.png)  
 - [2022-07-04-一位-sealer-maintainer-的心路历程](https://toutiao.io/k/4in5ve3) ![](assets/new.png)  
-- [2022-07-04-推荐-3000帧动画图解MySQL为什么需要binlog、redo-log和undo-log](https://toutiao.io/k/b0g4460) ![](assets/new.png)  
+- [2022-07-04-推荐-吐血整理：一份不可多得的架构师图谱！](https://toutiao.io/k/ptp0ru2) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

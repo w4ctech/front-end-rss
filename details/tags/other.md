@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-04 15:43:51。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-04 16:19:32。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,10 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-07-04-原来-mac-上的容量都是假的。。](https://www.v2ex.com/t/864078) 
+- [2022-07-04-问一些对虚拟化的认知：-ESXi-的虚拟化把一个不支持多线程的程序的负载均匀分布在多个处理器上](https://www.v2ex.com/t/864077) 
+- [2022-07-04-vultr-一台服务器一天数据传输了-10t-多，扣了-100$，有人遇到过吗](https://www.v2ex.com/t/864076) 
+- [2022-07-04-ide-领域-有没有介于-jetbrains-和-文本编辑器之间的产品？](https://www.v2ex.com/t/864075) 
 - [2022-07-04-有没有打算做量子计算的公司或同学,-想找点茬.](https://www.v2ex.com/t/864074) 
 - [2022-07-04-都签到-700-天了，为什么发个帖子，都不能出现在对应节点列表？](https://www.v2ex.com/t/864073) 
 - [2022-07-04-笔记本一个角轻微磕碰变形，但不影响使用，长期下来会有隐患吗？](https://www.v2ex.com/t/864071) 
@@ -1943,8 +1947,6 @@
 - [2022-07-04-为啥我的-AX3600-300M-联通宽带只能跑-80M-左右呢](https://www.v2ex.com/t/864031) 
 - [2022-07-04-分体键盘踩坑记](https://www.v2ex.com/t/864030) 
 - [2022-07-04-在-upwork-上找了个兼职,-和老板起冲突了,-大家来吃瓜](https://www.v2ex.com/t/864029) 
-- [2022-07-04-大家会因为什么功能为-Kubernetes-管理平台付费呢?](https://www.v2ex.com/t/864027) 
-- [2022-07-04-2022-年有什么好的学习-UIKit-的-Swift-教程？](https://www.v2ex.com/t/864026) 
 - [2022-07-04-故事点-vs.-人天-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15213&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fagile-estimation-story-points-man-day%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-04-如何设计数据可视化平台-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15212&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-design-data-visualization-platform%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-04-你的代码会说话吗？（上）-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15211&url=https%3A%2F%2Finsights.thoughtworks.cn%2F%3Fp%3D16179%26amp%3Bpreview%3Dtrue%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

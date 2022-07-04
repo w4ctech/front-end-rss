@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-07-04 15:43:51。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-04 16:19:32。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -301,7 +301,6 @@
 
 
 - [【V2EX】兼容众多跨平台mastodon-app-的-RSS-应用，你不来看看吗？](https://www.v2ex.com/t/864054)
-- [【V2EX】有办法在-vscode-terminal-中的-vim-实现-map-Command+c/v/s/a-映射吗？](https://www.v2ex.com/t/864025)
 - [【开发者头条】共识算法与分布式一致性算法](https://toutiao.io/k/b5txitt)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-07-04 01:16:14，:rocket: 更新条数: +2012， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-07-04 03:31:31，:rocket: 更新条数: +2023， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,26 +491,26 @@
 </summary>
 
 
-- [2022-07-04-iMac-pro-附送的黑色键盘与官网独立售卖的-magic-keyboard-区别是什么？](https://www.v2ex.com/t/863862) ![](assets/new.png)  
-- [2022-07-04-The-Forest-森林--75%-17.5-元购入!](https://www.v2ex.com/t/863861) ![](assets/new.png)  
-- [2022-07-04-智能家电是怎样做（推送）到秒响应的？](https://www.v2ex.com/t/863860) ![](assets/new.png)  
-- [2022-07-04-最近看了-ozark,真是好剧，说说你心里的神剧吧。](https://www.v2ex.com/t/863859) ![](assets/new.png)  
-- [2022-07-04-发现-M1-Ultra-芯片-128GB-内存运行-iOS-微信比-13ProMax-快多了,速度直接起飞,计算存储空间不到-1-秒就计算好了,13ProMax-要一分钟才计算好](https://www.v2ex.com/t/863855) ![](assets/new.png)  
-- [2022-07-04-2022-年-陕西渭南-大荔冬枣-成熟了,开卖!-第-4-年在-V2-卖冬枣了](https://www.v2ex.com/t/863853) ![](assets/new.png)  
-- [2022-07-03-各位大佬，在紧张地工作或者学习之后，如何在短时间内高效率的休息，然后继续工作和学习？](https://www.v2ex.com/t/863852) ![](assets/new.png)  
-- [2022-07-03-被交警扣车后该怎么处理？](https://www.v2ex.com/t/863851) ![](assets/new.png)  
-- [2022-07-03-android-http-持久化-cookie](https://www.v2ex.com/t/863850) ![](assets/new.png)  
-- [2022-07-03-KK-的这句英文是什么意思?](https://www.v2ex.com/t/863848) ![](assets/new.png)  
-- [2022-07-03-基于猫脸识别的猫咪智能相册上架了，内附兑换码](https://www.v2ex.com/t/863847) ![](assets/new.png)  
-- [2022-07-03-全国远程/坐班/兼职招募低代码平台开发人员,有效期至-2022-年-8-月-30-日。](https://www.v2ex.com/t/863846) ![](assets/new.png)  
-- [2022-07-03-尤雨溪在代码-core-中提交了一份-readme-放弃维护是真的假的](https://www.v2ex.com/t/863844) ![](assets/new.png)  
-- [2022-07-03-老哥成都兴隆湖有啥盘没有发展没](https://www.v2ex.com/t/863843) ![](assets/new.png)  
-- [2022-07-03-你的信息可能已经被泄露了---上海某单位疑似泄露-10-亿用户数据](https://www.v2ex.com/t/863842) ![](assets/new.png)  
-- [2022-07-03-请教-c/c++-sizeof-struct-的一个-问题](https://www.v2ex.com/t/863840) ![](assets/new.png)  
-- [2022-07-03-使用二八法则省力地学习-awk](https://www.v2ex.com/t/863839) ![](assets/new.png)  
-- [2022-07-03-马自达-cx50-今年能国产上市吗](https://www.v2ex.com/t/863838) ![](assets/new.png)  
-- [2022-07-03-如何看待产品经常要你导数据](https://www.v2ex.com/t/863835) ![](assets/new.png)  
-- [2022-07-03-如何检测-MacOS-快捷键被哪个程序占用了？](https://www.v2ex.com/t/863833) ![](assets/new.png)  
+- [2022-07-04-台式主机电源供电不足会损害硬件吗？](https://www.v2ex.com/t/863909) ![](assets/new.png)  
+- [2022-07-04-Chrono-Download-Manager-被-Edge-标记为恶意软件](https://www.v2ex.com/t/863908) ![](assets/new.png)  
+- [2022-07-04-书荒帖推荐的几本小说](https://www.v2ex.com/t/863906) ![](assets/new.png)  
+- [2022-07-04-ubuntu-删除文件删不了，删了之后又恢复了](https://www.v2ex.com/t/863905) ![](assets/new.png)  
+- [2022-07-04-请教关于-Mac-Studio-睡眠-机身烫手的问题](https://www.v2ex.com/t/863904) ![](assets/new.png)  
+- [2022-07-04-企业用正版系统怎么采划算？](https://www.v2ex.com/t/863903) ![](assets/new.png)  
+- [2022-07-04-回复要的币怎么那么贵了](https://www.v2ex.com/t/863902) ![](assets/new.png)  
+- [2022-07-04-js-问题，为什么全局使用-json-bigint-处理大数据问题后，使用-hasOwnProperty-会报错](https://www.v2ex.com/t/863901) ![](assets/new.png)  
+- [2022-07-04-从-0-开始写-newsletter](https://www.v2ex.com/t/863900) ![](assets/new.png)  
+- [2022-07-04-以-Mfer-为主题酿造了一款浑浊-IPA](https://www.v2ex.com/t/863899) ![](assets/new.png)  
+- [2022-07-04-群辉-NAS-用一个盘，会不会不太好？](https://www.v2ex.com/t/863898) ![](assets/new.png)  
+- [2022-07-04-付费软件与设备绑定，换机的时候成本增加了，苦恼。](https://www.v2ex.com/t/863897) ![](assets/new.png)  
+- [2022-07-04-汽车自带无线充电通常比较鸡肋，有没有比较好的-DIY-方案？](https://www.v2ex.com/t/863895) ![](assets/new.png)  
+- [2022-07-04-上海创业公司不加班-SaaS-创业公司招后端/前端/AI-算法工程师，后端负责人](https://www.v2ex.com/t/863894) ![](assets/new.png)  
+- [2022-07-04-是否有将备忘录导出为-markdown-格式的插件，官网备份导出为-txt-格式太阴间了](https://www.v2ex.com/t/863893) ![](assets/new.png)  
+- [2022-07-04-语雀的移动端不能打开笔记是怎么回事儿？](https://www.v2ex.com/t/863892) ![](assets/new.png)  
+- [2022-07-04-Linux-下最佳-Office?](https://www.v2ex.com/t/863891) ![](assets/new.png)  
+- [2022-07-04-家里猫下了小猫有哪些途径去卖呢](https://www.v2ex.com/t/863890) ![](assets/new.png)  
+- [2022-07-04-问下哪里租-win11-笔记本靠谱](https://www.v2ex.com/t/863888) ![](assets/new.png)  
+- [2022-07-04-js-能在浏览器直接运行测试，那还需要-jest-吗](https://www.v2ex.com/t/863887) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -553,14 +553,19 @@
 </summary>
 
 
-- [2022-07-04-分析了700万份工作需求，市场需求最高的8种编程语言是这些](https://toutiao.io/k/jp0jcrj) ![](assets/new.png)  
 - [2022-07-04-产品指标体系如何搭建](https://toutiao.io/k/ipcteru) ![](assets/new.png)  
-- [2022-07-04-迷失在Mysql的锁世界](https://toutiao.io/k/0mgu5x0) ![](assets/new.png)  
 - [2022-07-04-好的软件研发管理怎么做](https://toutiao.io/k/ny23nh8) ![](assets/new.png)  
-- [2022-07-04-Android各版本迭代信息集合](https://toutiao.io/k/923wpwx) ![](assets/new.png)  
-- [2022-07-04-多线程使用不当导致的-OOM](https://toutiao.io/k/vhepj5c) ![](assets/new.png)  
+- [2022-07-04-迷失在Mysql的锁世界](https://toutiao.io/k/0mgu5x0) ![](assets/new.png)  
+- [2022-07-04-分析了700万份工作需求，市场需求最高的8种编程语言是这些](https://toutiao.io/k/jp0jcrj) ![](assets/new.png)  
 - [2022-07-04-面试必答题“聊聊Java中线程的生命周期状态”如何破？](https://toutiao.io/k/5hfr1qo) ![](assets/new.png)  
+- [2022-07-04-多线程使用不当导致的-OOM](https://toutiao.io/k/vhepj5c) ![](assets/new.png)  
+- [2022-07-04-Android各版本迭代信息集合](https://toutiao.io/k/923wpwx) ![](assets/new.png)  
 - [2022-07-04-官方答：在React18中请求数据的正确姿势（其他框架也适用）](https://toutiao.io/k/3xcubl2) ![](assets/new.png)  
+- [2022-07-04-共识算法与分布式一致性算法](https://toutiao.io/k/b5txitt) ![](assets/new.png)  
+- [2022-07-04-同事又在代码里“下毒”，血压拉满...](https://toutiao.io/k/t677tm8) ![](assets/new.png)  
+- [2022-07-04-聊聊支付流程的设计与实现逻辑](https://toutiao.io/k/tkjg3me) ![](assets/new.png)  
+- [2022-07-04-24-个-Docker-常见问题处理技巧](https://toutiao.io/k/qvb6v50) ![](assets/new.png)  
+- [2022-07-04-前端-SSR-在之家主站的应用-缓存及其性能监测](https://toutiao.io/k/m5g236f) ![](assets/new.png)  
 - [2022-07-04-推荐-吐血整理：一份不可多得的架构师图谱！](https://toutiao.io/k/ptp0ru2) ![](assets/new.png)  
 - [2022-07-04-推荐-3000帧动画图解MySQL为什么需要binlog、redo-log和undo-log](https://toutiao.io/k/b0g4460) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)

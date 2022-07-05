@@ -1,10 +1,13 @@
-:alarm_clock: 更新时间: 2022-07-05 11:47:55。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-05 12:25:48。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
 
 
 
+- [2022-07-05-win-都有什么应用会打断电脑休眠](https://www.v2ex.com/t/864287) 
+- [2022-07-05-如何监控家里用电情况](https://www.v2ex.com/t/864284) 
+- [2022-07-05-Windows-下有什么开源的工具能像爱思助手一样修改-iPhone-的定位？](https://www.v2ex.com/t/864283) 
 - [2022-07-05-北京-滴滴-|-内推后端工程师、三年经验以上、愿意转-Go](https://www.v2ex.com/t/864282) 
 - [2022-07-05-求预览图片+拖动排序+重命名的工具](https://www.v2ex.com/t/864280) 
 - [2022-07-05-Java-项目部署-Linux-上为啥读取不到中文目录](https://www.v2ex.com/t/864276) 
@@ -30,8 +33,6 @@
 - [2022-07-05-京东云无线宝已经抠门到每天低保了，不建议购买](https://www.v2ex.com/t/864244) 
 - [2022-07-05-求职base-成都golang-3-年-Java-6-年-高级工程师/架构师,求职~~](https://www.v2ex.com/t/864241) 
 - [2022-07-05-YouTube-iOS-画中画忽然消失了，有什么办法可以重新开启吗](https://www.v2ex.com/t/864240) 
-- [2022-07-05-macos-下有没有好用的可以分开控制每个应用音量的工具？](https://www.v2ex.com/t/864239) 
-- [2022-07-05-mac-左边-typec2-个接口外接显示器没反应，右边的可以](https://www.v2ex.com/t/864237) 
 - [2022-07-05-故事点-vs.-人天-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15213&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fagile-estimation-story-points-man-day%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-05-如何设计数据可视化平台-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15212&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-design-data-visualization-platform%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-05-你的代码会说话吗？（上）-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15211&url=https%3A%2F%2Finsights.thoughtworks.cn%2F%3Fp%3D16179%26amp%3Bpreview%3Dtrue%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

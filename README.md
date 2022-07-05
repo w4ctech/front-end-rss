@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-07-05 07:14:20，:rocket: 更新条数: +2026， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-07-05 07:38:24，:rocket: 更新条数: +2026， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,12 @@
 </summary>
 
 
+- [2022-07-05-git-在-clone-的时候能否先拉到最新代码显示，再慢慢-clone-历史？](https://www.v2ex.com/t/864214) ![](assets/new.png)  
+- [2022-07-05-老人机被远程控制订购业务](https://www.v2ex.com/t/864213) ![](assets/new.png)  
+- [2022-07-05-repo-提示要更新怎么解决？](https://www.v2ex.com/t/864212) ![](assets/new.png)  
+- [2022-07-05-最近-appstore-经常无法联网，无论是国区或美区，甚至国产-app-也连不了网](https://www.v2ex.com/t/864211) ![](assets/new.png)  
+- [2022-07-05-各位老铁有-Office-365-的车位吗，想上车。](https://www.v2ex.com/t/864210) ![](assets/new.png)  
+- [2022-07-05-有没有拍照不那么强的旗舰手机（安卓）](https://www.v2ex.com/t/864209) ![](assets/new.png)  
 - [2022-07-05-不裁员，只招人，美企-Web-3.0-赛道重岗来袭，欢迎来撩~~](https://www.v2ex.com/t/864207) ![](assets/new.png)  
 - [2022-07-05-坐标广州-6-年前端开发经验-16k-工作好找吗（非外包，非-996）](https://www.v2ex.com/t/864205) ![](assets/new.png)  
 - [2022-07-05-偶尔需要测试-mac-程序，便携上面怎么做比较好？](https://www.v2ex.com/t/864202) ![](assets/new.png)  
@@ -505,12 +511,6 @@
 - [2022-07-05-xcv](https://www.v2ex.com/t/864192) ![](assets/new.png)  
 - [2022-07-05-大佬们是如何在-GitHub-上看代码来提升自己的？](https://www.v2ex.com/t/864190) ![](assets/new.png)  
 - [2022-07-05-母亲确诊了宫颈癌-IIIC-期,才-50-多岁.我一下懵了,该怎么办不筹款,纯交流](https://www.v2ex.com/t/864189) ![](assets/new.png)  
-- [2022-07-05-Xiaomi-12S-有必要买吗？徕卡摄像头不比索尼差吧？](https://www.v2ex.com/t/864187) ![](assets/new.png)  
-- [2022-07-05-安卓有没有能阻止系统杀后台的方法](https://www.v2ex.com/t/864186) ![](assets/new.png)  
-- [2022-07-05-Mac-上-Charles-App-不能抓包](https://www.v2ex.com/t/864185) ![](assets/new.png)  
-- [2022-07-05-小白用户的-NAS-选购指南](https://www.v2ex.com/t/864184) ![](assets/new.png)  
-- [2022-07-05-职场上这样的现象正常吗](https://www.v2ex.com/t/864183) ![](assets/new.png)  
-- [2022-07-05-现代那些产物会在未来的几百年后变成珍藏品](https://www.v2ex.com/t/864182) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -565,13 +565,13 @@
 - [2022-07-05-如何基于新一代-Kaldi-框架快速搭建服务端-ASR-系统](https://toutiao.io/k/4byulkt) ![](assets/new.png)  
 - [2022-07-05-疫情冲击下，银行如何发力线上运营？](https://toutiao.io/k/4mnfwa5) ![](assets/new.png)  
 - [2022-07-05-使用-MyBatis-操作-Nebula-Graph-的实践](https://toutiao.io/k/rzvoow2) ![](assets/new.png)  
-- [2022-07-05-.NET-7-的-JWT-配置太方便了！](https://toutiao.io/k/1mc2fcp) ![](assets/new.png)  
 - [2022-07-05-深入汇编指令理解Java关键字volatile](https://toutiao.io/k/c3lbb3c) ![](assets/new.png)  
+- [2022-07-05-.NET-7-的-JWT-配置太方便了！](https://toutiao.io/k/1mc2fcp) ![](assets/new.png)  
 - [2022-07-05-从架构上详解技术（SLB，Redis，Mysql，Kafka，Clickhouse）的各类热点问题](https://toutiao.io/k/dih454b) ![](assets/new.png)  
 - [2022-07-05-珍爱网微服务底层框架演进——从开源组件封装到自研](https://toutiao.io/k/61u7m9n) ![](assets/new.png)  
 - [2022-07-05-用-Go-跑的更快：使用-Golang-为机器学习服务](https://toutiao.io/k/q0q7gec) ![](assets/new.png)  
-- [2022-07-05-图解八股，真的太顶了！](https://toutiao.io/k/aqpz0ic) ![](assets/new.png)  
 - [2022-07-05-Caffeine-Cache-高性能Java本地缓存组件](https://toutiao.io/k/eu31f8l) ![](assets/new.png)  
+- [2022-07-05-图解八股，真的太顶了！](https://toutiao.io/k/aqpz0ic) ![](assets/new.png)  
 - [2022-07-05-推荐-3000帧动画图解MySQL为什么需要binlog、redo-log和undo-log](https://toutiao.io/k/b0g4460) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-07-05 21:13:06。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-05 21:39:17。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -55,6 +55,7 @@
 
 
 
+- [【V2EX】又有一个坑了，远程工作，自研公司非外包，我直招！-Vue+Node！](https://www.v2ex.com/t/864325)
 - [【开发者头条】巨石瓦解！我把Vue3巨石项目拆成了十几个微应用~](https://toutiao.io/k/kl3ogvx)
 - [......【查看更多】......](./details/tags/vue.md)
 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-05 12:25:48。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-07-05 13:15:11。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -32,6 +32,12 @@
 </summary>
 
 
+- [【V2EX】2022-07-05-小米手机-安装-12S-的徕卡相机](https://www.v2ex.com/t/864298) 
+- [【V2EX】2022-07-05-Apple-tv-4k-的使用体验并没有想象的那么好](https://www.v2ex.com/t/864297) 
+- [【V2EX】2022-07-05-chrome-的扩展像鼠标手势有办法在新标签页使用吗](https://www.v2ex.com/t/864296) 
+- [【V2EX】2022-07-05-有哪位朋友用过-Poco-的手机吗？想了解一下-Poco-F3.](https://www.v2ex.com/t/864293) 
+- [【V2EX】2022-07-05-JetBrains-远程开发好用吗？体验怎么样](https://www.v2ex.com/t/864292) 
+- [【V2EX】2022-07-05-Macbook-Pro-外接两块屏幕，低分辨率的屏幕-HiDPI-显示经常故障](https://www.v2ex.com/t/864291) 
 - [【V2EX】2022-07-05-win-都有什么应用会打断电脑休眠](https://www.v2ex.com/t/864287) 
 - [【V2EX】2022-07-05-京东网页购物车-https-跳转-http，有安全风险](https://www.v2ex.com/t/864286) 
 - [【V2EX】2022-07-05-Mac-下调试-V8-的问题](https://www.v2ex.com/t/864285) 
@@ -63,14 +69,6 @@
 - [【V2EX】2022-07-05-显示器屏幕边角颜色不正常请求帮助](https://www.v2ex.com/t/864252) 
 - [【V2EX】2022-07-05-各位马斯克好，我把平时看电影、综艺、动漫，音乐，阅读，网盘等做了个移动导航版网站，同时防微信屏蔽](https://www.v2ex.com/t/864251) 
 - [【V2EX】2022-07-05-小米手机自带浏览器无法打开使用西瓜播放器插件的网页视频，是什么原因？](https://www.v2ex.com/t/864250) 
-- [【V2EX】2022-07-05-关于-ipv6-的防火墙设置问题](https://www.v2ex.com/t/864249) 
-- [【V2EX】2022-07-05-无限加载的网页，会无限占用电脑内存吗？](https://www.v2ex.com/t/864248) 
-- [【V2EX】2022-07-05-一个月不吃晚饭，可以瘦多少斤？](https://www.v2ex.com/t/864246) 
-- [【V2EX】2022-07-05-昨天华为发布了问界-M7！确实不错啊，大家觉得可以入手么](https://www.v2ex.com/t/864245) 
-- [【V2EX】2022-07-05-京东云无线宝已经抠门到每天低保了，不建议购买](https://www.v2ex.com/t/864244) 
-- [【V2EX】2022-07-05-远程-Flutter-开发-数字藏品-流转市场开发](https://www.v2ex.com/t/864242) 
-- [【V2EX】2022-07-05-求职base-成都golang-3-年-Java-6-年-高级工程师/架构师,求职~~](https://www.v2ex.com/t/864241) 
-- [【V2EX】2022-07-05-YouTube-iOS-画中画忽然消失了，有什么办法可以重新开启吗](https://www.v2ex.com/t/864240) 
 - [【技术头条】2022-07-05-Thoughtworks-全球CTO：按需求构建架构，过度工程只会“劳民伤财”-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15214&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftechnology-radar-rebecca-interview%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-05-故事点-vs.-人天-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15213&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fagile-estimation-story-points-man-day%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-05-如何设计数据可视化平台-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15212&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-design-data-visualization-platform%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

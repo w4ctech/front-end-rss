@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-07-05 15:15:00，:rocket: 更新条数: +87， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-07-05 15:50:24，:rocket: 更新条数: +85， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -471,6 +471,8 @@
 </summary>
 
 
+- [2022-07-05-升级到-22621-以后-noMeiryoUI-失效了，还有啥靠谱的方法能修改系统显示字体么？](https://www.v2ex.com/t/864317) ![](assets/new.png)  
+- [2022-07-05-Telegram-的两步验证不支持使用第三方-Authenticator，只能使用邮箱发送验证码。](https://www.v2ex.com/t/864314) ![](assets/new.png)  
 - [2022-07-05-计算机网络问题-机器-A-跑-docker，-docker-走桥接网络，跑-openwrt-容器-B，-B-运行-clash。接下来把机器-A-的-DNS-和网关设置成-B，-ping-B-显示-network-un...](https://www.v2ex.com/t/864313) ![](assets/new.png)  
 - [2022-07-05-覆写磁盘的软件推荐](https://www.v2ex.com/t/864312) ![](assets/new.png)  
 - [2022-07-05-深圳鹰利科技-30~50K-诚聘-Java-,-运维](https://www.v2ex.com/t/864311) ![](assets/new.png)  
@@ -489,8 +491,6 @@
 - [2022-07-05-Macbook-Pro-外接两块屏幕，低分辨率的屏幕-HiDPI-显示经常故障](https://www.v2ex.com/t/864291) ![](assets/new.png)  
 - [2022-07-05-win-都有什么应用会打断电脑休眠](https://www.v2ex.com/t/864287) ![](assets/new.png)  
 - [2022-07-05-京东网页购物车-https-跳转-http，有安全风险](https://www.v2ex.com/t/864286) ![](assets/new.png)  
-- [2022-07-05-Mac-下调试-V8-的问题](https://www.v2ex.com/t/864285) ![](assets/new.png)  
-- [2022-07-05-如何监控家里用电情况](https://www.v2ex.com/t/864284) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -539,8 +539,8 @@
 - [2022-07-05-中国的软件公司为什么做不出产品？00后抛弃互联网；B站开源的高性能API网关组件｜码农周刊VIP会员专属邮件周报-Vol.097](https://toutiao.io/k/hausykl) ![](assets/new.png)  
 - [2022-07-05-用户增长分析——用户分群分析](https://toutiao.io/k/6wulspi) ![](assets/new.png)  
 - [2022-07-05-一文彻底搞懂跨域问题](https://toutiao.io/k/xw3mo2f) ![](assets/new.png)  
-- [2022-07-05-巨石瓦解！我把Vue3巨石项目拆成了十几个微应用~](https://toutiao.io/k/kl3ogvx) ![](assets/new.png)  
 - [2022-07-05-轻量小巧的零配置-APT-加速工具：APT-Proxy](https://toutiao.io/k/2ibbtrr) ![](assets/new.png)  
+- [2022-07-05-巨石瓦解！我把Vue3巨石项目拆成了十几个微应用~](https://toutiao.io/k/kl3ogvx) ![](assets/new.png)  
 - [2022-07-05-Mandiant网络威胁情报分析师核心能力框架](https://toutiao.io/k/ivs79mw) ![](assets/new.png)  
 - [2022-07-05-如何基于新一代-Kaldi-框架快速搭建服务端-ASR-系统](https://toutiao.io/k/4byulkt) ![](assets/new.png)  
 - [2022-07-05-使用-MyBatis-操作-Nebula-Graph-的实践](https://toutiao.io/k/rzvoow2) ![](assets/new.png)  
@@ -552,7 +552,7 @@
 - [2022-07-05-图解八股，真的太顶了！](https://toutiao.io/k/aqpz0ic) ![](assets/new.png)  
 - [2022-07-05-珍爱网微服务底层框架演进——从开源组件封装到自研](https://toutiao.io/k/61u7m9n) ![](assets/new.png)  
 - [2022-07-05-用-Go-跑的更快：使用-Golang-为机器学习服务](https://toutiao.io/k/q0q7gec) ![](assets/new.png)  
-- [2022-07-05-推荐-吐血整理：一份不可多得的架构师图谱！](https://toutiao.io/k/ptp0ru2) ![](assets/new.png)  
+- [2022-07-05-推荐-3000帧动画图解MySQL为什么需要binlog、redo-log和undo-log](https://toutiao.io/k/b0g4460) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

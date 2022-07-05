@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2022-07-05 15:15:00。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-05 15:50:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
 
 
 
+- [2022-07-05-升级到-22621-以后-noMeiryoUI-失效了，还有啥靠谱的方法能修改系统显示字体么？](https://www.v2ex.com/t/864317) 
+- [2022-07-05-Telegram-的两步验证不支持使用第三方-Authenticator，只能使用邮箱发送验证码。](https://www.v2ex.com/t/864314) 
 - [2022-07-05-覆写磁盘的软件推荐](https://www.v2ex.com/t/864312) 
 - [2022-07-05-深圳鹰利科技-30~50K-诚聘-Java-,-运维](https://www.v2ex.com/t/864311) 
 - [2022-07-05-自用的阿里云主机和域名想换平台，求推荐](https://www.v2ex.com/t/864310) 
@@ -29,10 +31,6 @@
 - [2022-07-05-如何同时用两个网盘同步资料](https://www.v2ex.com/t/864272) 
 - [2022-07-05-各位好，写了一个可以私有化安装的低/零代码平台](https://www.v2ex.com/t/864271) 
 - [2022-07-05-提问-一体机求推荐](https://www.v2ex.com/t/864270) 
-- [2022-07-05-腾讯云现在备案个企业官网的域名都这么麻烦了吗？](https://www.v2ex.com/t/864267) 
-- [2022-07-05-iOS15-内地卡与港澳卡双卡使用，部分短信错误显示为境外短信。](https://www.v2ex.com/t/864266) 
-- [2022-07-05-马德里欧洲大学在线硕士，大佬们对这些在线研究生什么看法](https://www.v2ex.com/t/864265) 
-- [2022-07-05-有上传宽带高的吗，试试能跑满吗](https://www.v2ex.com/t/864264) 
 - [2022-07-05-故事点-vs.-人天-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15213&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fagile-estimation-story-points-man-day%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-05-如何设计数据可视化平台-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15212&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-design-data-visualization-platform%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-05-你的代码会说话吗？（上）-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15211&url=https%3A%2F%2Finsights.thoughtworks.cn%2F%3Fp%3D16179%26amp%3Bpreview%3Dtrue%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

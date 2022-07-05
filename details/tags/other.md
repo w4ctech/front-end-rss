@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-05 08:17:41。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-05 08:44:55。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,9 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-07-05-macos-下有没有好用的可以分开控制每个应用音量的工具？](https://www.v2ex.com/t/864239) 
+- [2022-07-05-mac-左边-typec2-个接口外接显示器没反应，右边的可以](https://www.v2ex.com/t/864237) 
+- [2022-07-05-Windows-系统和-iPhone-联动问题](https://www.v2ex.com/t/864231) 
 - [2022-07-05-宁波有啥靠谱点的-PHP-公司吗](https://www.v2ex.com/t/864230) 
 - [2022-07-05-分享一下自己新家智能家居从选型到落地的全过程（连载中）](https://www.v2ex.com/t/864226) 
 - [2022-07-05-搬瓦工-vps-主机挂了](https://www.v2ex.com/t/864224) 
@@ -1936,13 +1939,6 @@
 - [2022-07-05-7-年老运营在线交流贴：项目方向/市场动态/资源整合等，知无不言。](https://www.v2ex.com/t/864195) 
 - [2022-07-05-你愿意为爱好花费多少钱和时间？](https://www.v2ex.com/t/864194) 
 - [2022-07-05-xcv](https://www.v2ex.com/t/864192) 
-- [2022-07-05-母亲确诊了宫颈癌-IIIC-期,才-50-多岁.我一下懵了,该怎么办不筹款,纯交流](https://www.v2ex.com/t/864189) 
-- [2022-07-05-安卓有没有能阻止系统杀后台的方法](https://www.v2ex.com/t/864186) 
-- [2022-07-05-Mac-上-Charles-App-不能抓包](https://www.v2ex.com/t/864185) 
-- [2022-07-05-小白用户的-NAS-选购指南](https://www.v2ex.com/t/864184) 
-- [2022-07-05-职场上这样的现象正常吗](https://www.v2ex.com/t/864183) 
-- [2022-07-05-现代那些产物会在未来的几百年后变成珍藏品](https://www.v2ex.com/t/864182) 
-- [2022-07-05-PC-卖了只有一台-mac-mini-和-Swift-，问还有一个北通的无线手柄，怎样发挥余热](https://www.v2ex.com/t/864181) 
 - [2022-07-05-故事点-vs.-人天-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15213&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fagile-estimation-story-points-man-day%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-05-如何设计数据可视化平台-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15212&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-design-data-visualization-platform%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-05-你的代码会说话吗？（上）-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15211&url=https%3A%2F%2Finsights.thoughtworks.cn%2F%3Fp%3D16179%26amp%3Bpreview%3Dtrue%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

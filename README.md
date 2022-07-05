@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-07-05 08:17:41，:rocket: 更新条数: +2027， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-07-05 08:44:55，:rocket: 更新条数: +2027， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,14 @@
 </summary>
 
 
+- [2022-07-05-macos-下有没有好用的可以分开控制每个应用音量的工具？](https://www.v2ex.com/t/864239) ![](assets/new.png)  
+- [2022-07-05-Intel-U-的-MacbookAir-上-Microsoft-Edge-HelperRenderer这个进程经常卡死-CPU-的问题](https://www.v2ex.com/t/864238) ![](assets/new.png)  
+- [2022-07-05-mac-左边-typec2-个接口外接显示器没反应，右边的可以](https://www.v2ex.com/t/864237) ![](assets/new.png)  
+- [2022-07-05-chrome-崩溃后全部信息丢失？](https://www.v2ex.com/t/864236) ![](assets/new.png)  
+- [2022-07-05-如何让某个-Chrome-插件只在某个操作系统比如-Linux-上被激活](https://www.v2ex.com/t/864234) ![](assets/new.png)  
+- [2022-07-05-docker-如何阻止在容器内写文件？](https://www.v2ex.com/t/864233) ![](assets/new.png)  
+- [2022-07-05-mydomain.fun-的解析有问题还是就是很慢？](https://www.v2ex.com/t/864232) ![](assets/new.png)  
+- [2022-07-05-Windows-系统和-iPhone-联动问题](https://www.v2ex.com/t/864231) ![](assets/new.png)  
 - [2022-07-05-宁波有啥靠谱点的-PHP-公司吗](https://www.v2ex.com/t/864230) ![](assets/new.png)  
 - [2022-07-05-如何在-scrollBy-的时候保持滚动惯性？](https://www.v2ex.com/t/864229) ![](assets/new.png)  
 - [2022-07-05-C-语言-循环下-创建动态数组-非常慢-应该如何解决](https://www.v2ex.com/t/864227) ![](assets/new.png)  
@@ -503,14 +511,6 @@
 - [2022-07-05-WPF-开发还有前景吗？](https://www.v2ex.com/t/864219) ![](assets/new.png)  
 - [2022-07-05-AMD-笔记本处理器-设置](https://www.v2ex.com/t/864218) ![](assets/new.png)  
 - [2022-07-05-群晖-DS720，重安装系统后无法挂载移动到外置-USB-的磁盘分区](https://www.v2ex.com/t/864217) ![](assets/new.png)  
-- [2022-07-05-每次同事在旁边打喷嚏或者咳嗽我都心里一紧](https://www.v2ex.com/t/864215) ![](assets/new.png)  
-- [2022-07-05-git-在-clone-的时候能否先拉到最新代码显示，再慢慢-clone-历史？](https://www.v2ex.com/t/864214) ![](assets/new.png)  
-- [2022-07-05-老人机被远程控制订购业务](https://www.v2ex.com/t/864213) ![](assets/new.png)  
-- [2022-07-05-repo-提示要更新怎么解决？](https://www.v2ex.com/t/864212) ![](assets/new.png)  
-- [2022-07-05-最近-appstore-经常无法联网，无论是国区或美区，甚至国产-app-也连不了网](https://www.v2ex.com/t/864211) ![](assets/new.png)  
-- [2022-07-05-各位老铁有-Office-365-的车位吗，想上车。](https://www.v2ex.com/t/864210) ![](assets/new.png)  
-- [2022-07-05-有没有拍照不那么强的旗舰手机（安卓）](https://www.v2ex.com/t/864209) ![](assets/new.png)  
-- [2022-07-05-不裁员，只招人，美企-Web-3.0-赛道重岗来袭，欢迎来撩~~](https://www.v2ex.com/t/864207) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -572,7 +572,7 @@
 - [2022-07-05-用-Go-跑的更快：使用-Golang-为机器学习服务](https://toutiao.io/k/q0q7gec) ![](assets/new.png)  
 - [2022-07-05-图解八股，真的太顶了！](https://toutiao.io/k/aqpz0ic) ![](assets/new.png)  
 - [2022-07-05-Caffeine-Cache-高性能Java本地缓存组件](https://toutiao.io/k/eu31f8l) ![](assets/new.png)  
-- [2022-07-05-推荐-3000帧动画图解MySQL为什么需要binlog、redo-log和undo-log](https://toutiao.io/k/b0g4460) ![](assets/new.png)  
+- [2022-07-05-推荐-吐血整理：一份不可多得的架构师图谱！](https://toutiao.io/k/ptp0ru2) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

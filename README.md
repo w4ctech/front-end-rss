@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-07-05 04:15:44，:rocket: 更新条数: +2028， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-07-05 05:00:07，:rocket: 更新条数: +2027， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,12 @@
 </summary>
 
 
+- [2022-07-05-主题发图-test](https://www.v2ex.com/t/864170) ![](assets/new.png)  
+- [2022-07-05-mac-经常粘贴两次](https://www.v2ex.com/t/864169) ![](assets/new.png)  
+- [2022-07-05-还有公司要-22-届的吗？](https://www.v2ex.com/t/864168) ![](assets/new.png)  
+- [2022-07-05-上海-不加班-外企-招-Java-、C++、安卓、中级测试、支持工程师、初级-devOps，-Java-和-测试有残疾人岗位](https://www.v2ex.com/t/864166) ![](assets/new.png)  
+- [2022-07-05-我一直觉得速溶咖啡是不能用冷水冲的，直到今天试了一下，](https://www.v2ex.com/t/864165) ![](assets/new.png)  
+- [2022-07-05-坐标南京，华为云-aPaaS-的-OD-值得一去嘛](https://www.v2ex.com/t/864164) ![](assets/new.png)  
 - [2022-07-05-能否拿到-redis-的数据指针](https://www.v2ex.com/t/864163) ![](assets/new.png)  
 - [2022-07-05-硅谷独角兽-Flexport-研发创始团队深圳上海诚招有工匠精神的技术大牛](https://www.v2ex.com/t/864162) ![](assets/new.png)  
 - [2022-07-05-请教店铺订单-SQL-优化](https://www.v2ex.com/t/864161) ![](assets/new.png)  
@@ -505,12 +511,6 @@
 - [2022-07-05-AkkoCloud-英国伦敦-CN2-GIA-服务器已补货](https://www.v2ex.com/t/864152) ![](assets/new.png)  
 - [2022-07-05-下载导出的-iCloud-数据怎么一直网络错误？](https://www.v2ex.com/t/864151) ![](assets/new.png)  
 - [2022-07-05-为什么中国开源氛围和外国开源氛围相差很大？差哪儿了？](https://www.v2ex.com/t/864150) ![](assets/new.png)  
-- [2022-07-05-有时候真的不是不想支持国产路由器，啥自研芯片啊，稳定性这么差](https://www.v2ex.com/t/864149) ![](assets/new.png)  
-- [2022-07-05-表弟高中择校选择-问问大家哪种卷的方式更有效](https://www.v2ex.com/t/864147) ![](assets/new.png)  
-- [2022-07-05-买房中老房子真的不能买吗？](https://www.v2ex.com/t/864146) ![](assets/new.png)  
-- [2022-07-05-#-校招提前批-2023-SHEIN-内推，服务上千人咨询内推细节～](https://www.v2ex.com/t/864145) ![](assets/new.png)  
-- [2022-07-05-全职-校招-newsbreak-北京&上海](https://www.v2ex.com/t/864144) ![](assets/new.png)  
-- [2022-07-05-没什么用让你像古代人那样阅读网页。比-writing-mode:-vertical-rl-更快](https://www.v2ex.com/t/864143) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -560,12 +560,12 @@
 - [2022-07-05-中国的软件公司为什么做不出产品？00后抛弃互联网；B站开源的高性能API网关组件｜码农周刊VIP会员专属邮件周报-Vol.097](https://toutiao.io/k/hausykl) ![](assets/new.png)  
 - [2022-07-05-巨石瓦解！我把Vue3巨石项目拆成了十几个微应用~](https://toutiao.io/k/kl3ogvx) ![](assets/new.png)  
 - [2022-07-05-Mandiant网络威胁情报分析师核心能力框架](https://toutiao.io/k/ivs79mw) ![](assets/new.png)  
-- [2022-07-05-.NET-7-的-JWT-配置太方便了！](https://toutiao.io/k/1mc2fcp) ![](assets/new.png)  
-- [2022-07-05-轻量小巧的零配置-APT-加速工具：APT-Proxy](https://toutiao.io/k/2ibbtrr) ![](assets/new.png)  
 - [2022-07-05-一文彻底搞懂跨域问题](https://toutiao.io/k/xw3mo2f) ![](assets/new.png)  
+- [2022-07-05-轻量小巧的零配置-APT-加速工具：APT-Proxy](https://toutiao.io/k/2ibbtrr) ![](assets/new.png)  
 - [2022-07-05-如何基于新一代-Kaldi-框架快速搭建服务端-ASR-系统](https://toutiao.io/k/4byulkt) ![](assets/new.png)  
 - [2022-07-05-疫情冲击下，银行如何发力线上运营？](https://toutiao.io/k/4mnfwa5) ![](assets/new.png)  
 - [2022-07-05-使用-MyBatis-操作-Nebula-Graph-的实践](https://toutiao.io/k/rzvoow2) ![](assets/new.png)  
+- [2022-07-05-.NET-7-的-JWT-配置太方便了！](https://toutiao.io/k/1mc2fcp) ![](assets/new.png)  
 - [2022-07-05-深入汇编指令理解Java关键字volatile](https://toutiao.io/k/c3lbb3c) ![](assets/new.png)  
 - [2022-07-05-推荐-吐血整理：一份不可多得的架构师图谱！](https://toutiao.io/k/ptp0ru2) ![](assets/new.png)  
 - [2022-07-05-推荐-3000帧动画图解MySQL为什么需要binlog、redo-log和undo-log](https://toutiao.io/k/b0g4460) ![](assets/new.png)  

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-07-05 03:26:04，:rocket: 更新条数: +2023， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-07-05 04:15:44，:rocket: 更新条数: +2028， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,26 +491,26 @@
 </summary>
 
 
+- [2022-07-05-能否拿到-redis-的数据指针](https://www.v2ex.com/t/864163) ![](assets/new.png)  
+- [2022-07-05-硅谷独角兽-Flexport-研发创始团队深圳上海诚招有工匠精神的技术大牛](https://www.v2ex.com/t/864162) ![](assets/new.png)  
+- [2022-07-05-请教店铺订单-SQL-优化](https://www.v2ex.com/t/864161) ![](assets/new.png)  
+- [2022-07-05-硅谷在线共享空间项目招聘需求-7-月-5-日更新-Unity3D-开发经验，对互联网感兴趣，可提供赴美工作签证。](https://www.v2ex.com/t/864160) ![](assets/new.png)  
+- [2022-07-05-sql-server-如何对中文进行编码，在网上找了很多都不靠谱，希望用-js-的-decodeUrl-能够解码成功](https://www.v2ex.com/t/864159) ![](assets/new.png)  
+- [2022-07-05-sqlite-有什么好的替代品？](https://www.v2ex.com/t/864158) ![](assets/new.png)  
+- [2022-07-05-windows-打开软件提示端口被占用，-win10-版本-21H2](https://www.v2ex.com/t/864157) ![](assets/new.png)  
+- [2022-07-05-鼠须管输入法如何关闭-F4-快捷键？](https://www.v2ex.com/t/864156) ![](assets/new.png)  
+- [2022-07-05-现在回过头来看，非全面屏时代的手机用起来反倒是更舒服的](https://www.v2ex.com/t/864155) ![](assets/new.png)  
+- [2022-07-05-macbook-pro-16-寸-32g-还是-64g-呢](https://www.v2ex.com/t/864154) ![](assets/new.png)  
+- [2022-07-05-南京：-FPGA-工程师，薪水：-20-40k，不加班，双休](https://www.v2ex.com/t/864153) ![](assets/new.png)  
+- [2022-07-05-AkkoCloud-英国伦敦-CN2-GIA-服务器已补货](https://www.v2ex.com/t/864152) ![](assets/new.png)  
+- [2022-07-05-下载导出的-iCloud-数据怎么一直网络错误？](https://www.v2ex.com/t/864151) ![](assets/new.png)  
+- [2022-07-05-为什么中国开源氛围和外国开源氛围相差很大？差哪儿了？](https://www.v2ex.com/t/864150) ![](assets/new.png)  
+- [2022-07-05-有时候真的不是不想支持国产路由器，啥自研芯片啊，稳定性这么差](https://www.v2ex.com/t/864149) ![](assets/new.png)  
+- [2022-07-05-表弟高中择校选择-问问大家哪种卷的方式更有效](https://www.v2ex.com/t/864147) ![](assets/new.png)  
+- [2022-07-05-买房中老房子真的不能买吗？](https://www.v2ex.com/t/864146) ![](assets/new.png)  
+- [2022-07-05-#-校招提前批-2023-SHEIN-内推，服务上千人咨询内推细节～](https://www.v2ex.com/t/864145) ![](assets/new.png)  
 - [2022-07-05-全职-校招-newsbreak-北京&上海](https://www.v2ex.com/t/864144) ![](assets/new.png)  
 - [2022-07-05-没什么用让你像古代人那样阅读网页。比-writing-mode:-vertical-rl-更快](https://www.v2ex.com/t/864143) ![](assets/new.png)  
-- [2022-07-05-深圳开发公司找活](https://www.v2ex.com/t/864142) ![](assets/new.png)  
-- [2022-07-05-专科一年-golang-开发想请教一下城市选择问题，想去大城市了](https://www.v2ex.com/t/864141) ![](assets/new.png)  
-- [2022-07-05-如何限制家人网络访问，防止被骗？](https://www.v2ex.com/t/864140) ![](assets/new.png)  
-- [2022-07-05-StackOverflow-前段时间发布了-2022-年开发者调查](https://www.v2ex.com/t/864138) ![](assets/new.png)  
-- [2022-07-05-怎么锻炼职场英语口语和听力](https://www.v2ex.com/t/864137) ![](assets/new.png)  
-- [2022-07-05-中国软件“乱象”：产业级的“凑合”与系统化的“将就”丨-RTE-技术环境月报-202207](https://www.v2ex.com/t/864136) ![](assets/new.png)  
-- [2022-07-05-大家有没有遇到过莫名其妙被人添加企业微信的情况](https://www.v2ex.com/t/864135) ![](assets/new.png)  
-- [2022-07-05-知识盒子官网跪了？](https://www.v2ex.com/t/864134) ![](assets/new.png)  
-- [2022-07-05-迫击炮-max-b450m-主板，骇客神条内存被降频能破吗](https://www.v2ex.com/t/864133) ![](assets/new.png)  
-- [2022-07-05-因为域名备案跟腾讯云的客服吵了一架](https://www.v2ex.com/t/864132) ![](assets/new.png)  
-- [2022-07-05-低功耗，铁壳，-x86-软路由推荐](https://www.v2ex.com/t/864131) ![](assets/new.png)  
-- [2022-07-05-旦用难回-Jetpack-MVI-最佳实践](https://www.v2ex.com/t/864130) ![](assets/new.png)  
-- [2022-07-05-有没有在状态栏直观显示-icloud-同步状态的方式](https://www.v2ex.com/t/864129) ![](assets/new.png)  
-- [2022-07-05-片荒帖，希望铁铁们推荐几部电影周末好看](https://www.v2ex.com/t/864127) ![](assets/new.png)  
-- [2022-07-05-ps4-好久没有登陆了-今天登陆要改密码-用的新浪-sina-邮箱-现在死活收不到邮件怎么办?-是港服的-垃圾邮件-加白名单都没有用](https://www.v2ex.com/t/864125) ![](assets/new.png)  
-- [2022-07-05-如何保持持续的动力与激情](https://www.v2ex.com/t/864124) ![](assets/new.png)  
-- [2022-07-05-Docker-安装-Adminer-后，通过-Frp-内网穿透后无法打开](https://www.v2ex.com/t/864123) ![](assets/new.png)  
-- [2022-07-05-学历，对人生，对婚姻的重要性真的特别差距大吗？](https://www.v2ex.com/t/864122) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -561,9 +561,9 @@
 - [2022-07-05-巨石瓦解！我把Vue3巨石项目拆成了十几个微应用~](https://toutiao.io/k/kl3ogvx) ![](assets/new.png)  
 - [2022-07-05-Mandiant网络威胁情报分析师核心能力框架](https://toutiao.io/k/ivs79mw) ![](assets/new.png)  
 - [2022-07-05-.NET-7-的-JWT-配置太方便了！](https://toutiao.io/k/1mc2fcp) ![](assets/new.png)  
-- [2022-07-05-如何基于新一代-Kaldi-框架快速搭建服务端-ASR-系统](https://toutiao.io/k/4byulkt) ![](assets/new.png)  
 - [2022-07-05-轻量小巧的零配置-APT-加速工具：APT-Proxy](https://toutiao.io/k/2ibbtrr) ![](assets/new.png)  
 - [2022-07-05-一文彻底搞懂跨域问题](https://toutiao.io/k/xw3mo2f) ![](assets/new.png)  
+- [2022-07-05-如何基于新一代-Kaldi-框架快速搭建服务端-ASR-系统](https://toutiao.io/k/4byulkt) ![](assets/new.png)  
 - [2022-07-05-疫情冲击下，银行如何发力线上运营？](https://toutiao.io/k/4mnfwa5) ![](assets/new.png)  
 - [2022-07-05-使用-MyBatis-操作-Nebula-Graph-的实践](https://toutiao.io/k/rzvoow2) ![](assets/new.png)  
 - [2022-07-05-深入汇编指令理解Java关键字volatile](https://toutiao.io/k/c3lbb3c) ![](assets/new.png)  

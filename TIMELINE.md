@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-05 14:16:01。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-07-05 14:39:09。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -32,6 +32,8 @@
 </summary>
 
 
+- [【V2EX】2022-07-05-有个相恋几年的女朋友，现在却遇到了更喜欢的师妹，该如何选择？](https://www.v2ex.com/t/864309) 
+- [【V2EX】2022-07-05-请教个-Java-导出-PDF-的方法](https://www.v2ex.com/t/864308) 
 - [【V2EX】2022-07-05-我有个-idea，怎么同时开放和避免被人申请专利](https://www.v2ex.com/t/864305) 
 - [【V2EX】2022-07-05-minecraft-結束代碼-6](https://www.v2ex.com/t/864303) 
 - [【V2EX】2022-07-05-请大家帮忙，那里买飞机票便宜？](https://www.v2ex.com/t/864302) 
@@ -65,8 +67,6 @@
 - [【V2EX】2022-07-05-手机屏幕被摔坏了，纠结是修还是干脆换一个](https://www.v2ex.com/t/864263) 
 - [【V2EX】2022-07-05-置换房子，该如何选择呢](https://www.v2ex.com/t/864262) 
 - [【V2EX】2022-07-05-我的-MacBook-pro-16-m1-刚用一个月就出问题了](https://www.v2ex.com/t/864260) 
-- [【V2EX】2022-07-05-如何通过软件检测的方式，识别某一硬盘是-S.M.A.R.T.清零盘？](https://www.v2ex.com/t/864259) 
-- [【V2EX】2022-07-05-是-macOS-问题还是-APP-问题？心态炸了~](https://www.v2ex.com/t/864258) 
 - [【技术头条】2022-07-05-Thoughtworks-全球CTO：按需求构建架构，过度工程只会“劳民伤财”-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15214&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftechnology-radar-rebecca-interview%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-05-故事点-vs.-人天-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15213&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fagile-estimation-story-points-man-day%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-05-如何设计数据可视化平台-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15212&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-design-data-visualization-platform%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -104,8 +104,8 @@
 - [【开发者头条】2022-07-05-Caffeine-Cache-高性能Java本地缓存组件](https://toutiao.io/k/eu31f8l) 
 - [【开发者头条】2022-07-05-从架构上详解技术（SLB，Redis，Mysql，Kafka，Clickhouse）的各类热点问题](https://toutiao.io/k/dih454b) 
 - [【开发者头条】2022-07-05-图解八股，真的太顶了！](https://toutiao.io/k/aqpz0ic) 
-- [【开发者头条】2022-07-05-用-Go-跑的更快：使用-Golang-为机器学习服务](https://toutiao.io/k/q0q7gec) 
 - [【开发者头条】2022-07-05-珍爱网微服务底层框架演进——从开源组件封装到自研](https://toutiao.io/k/61u7m9n) 
+- [【开发者头条】2022-07-05-用-Go-跑的更快：使用-Golang-为机器学习服务](https://toutiao.io/k/q0q7gec) 
 - [【开发者头条】2022-07-05-推荐-3000帧动画图解MySQL为什么需要binlog、redo-log和undo-log](https://toutiao.io/k/b0g4460) 
 - [【开发者头条】2022-07-05-推荐-吐血整理：一份不可多得的架构师图谱！](https://toutiao.io/k/ptp0ru2) 
 

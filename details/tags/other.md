@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2022-07-05 14:16:01。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-05 14:39:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
 
 
 
+- [2022-07-05-有个相恋几年的女朋友，现在却遇到了更喜欢的师妹，该如何选择？](https://www.v2ex.com/t/864309) 
+- [2022-07-05-请教个-Java-导出-PDF-的方法](https://www.v2ex.com/t/864308) 
 - [2022-07-05-我有个-idea，怎么同时开放和避免被人申请专利](https://www.v2ex.com/t/864305) 
 - [2022-07-05-minecraft-結束代碼-6](https://www.v2ex.com/t/864303) 
 - [2022-07-05-请大家帮忙，那里买飞机票便宜？](https://www.v2ex.com/t/864302) 
@@ -31,8 +33,6 @@
 - [2022-07-05-手机屏幕被摔坏了，纠结是修还是干脆换一个](https://www.v2ex.com/t/864263) 
 - [2022-07-05-置换房子，该如何选择呢](https://www.v2ex.com/t/864262) 
 - [2022-07-05-我的-MacBook-pro-16-m1-刚用一个月就出问题了](https://www.v2ex.com/t/864260) 
-- [2022-07-05-如何通过软件检测的方式，识别某一硬盘是-S.M.A.R.T.清零盘？](https://www.v2ex.com/t/864259) 
-- [2022-07-05-是-macOS-问题还是-APP-问题？心态炸了~](https://www.v2ex.com/t/864258) 
 - [2022-07-05-故事点-vs.-人天-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15213&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fagile-estimation-story-points-man-day%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-05-如何设计数据可视化平台-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15212&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-design-data-visualization-platform%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-05-你的代码会说话吗？（上）-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15211&url=https%3A%2F%2Finsights.thoughtworks.cn%2F%3Fp%3D16179%26amp%3Bpreview%3Dtrue%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

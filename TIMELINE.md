@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-05 15:50:24。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-07-05 16:19:22。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -32,6 +32,9 @@
 </summary>
 
 
+- [【V2EX】2022-07-05-领讲台播客-APP-更新---支持倍速播放](https://www.v2ex.com/t/864320) 
+- [【V2EX】2022-07-05-拼多多买的显示器支架不稳固老是掉下来有没有质量好的推荐，不要太贵](https://www.v2ex.com/t/864319) 
+- [【V2EX】2022-07-05-Linux-下有没有简单的可视化工具？](https://www.v2ex.com/t/864318) 
 - [【V2EX】2022-07-05-升级到-22621-以后-noMeiryoUI-失效了，还有啥靠谱的方法能修改系统显示字体么？](https://www.v2ex.com/t/864317) 
 - [【V2EX】2022-07-05-Telegram-的两步验证不支持使用第三方-Authenticator，只能使用邮箱发送验证码。](https://www.v2ex.com/t/864314) 
 - [【V2EX】2022-07-05-计算机网络问题-机器-A-跑-docker，-docker-走桥接网络，跑-openwrt-容器-B，-B-运行-clash。接下来把机器-A-的-DNS-和网关设置成-B，-ping-B-显示-network-un...](https://www.v2ex.com/t/864313) 
@@ -63,9 +66,6 @@
 - [【V2EX】2022-07-05-MBP-2017-带-touchbar-求个成都的能升级硬盘的地方？](https://www.v2ex.com/t/864273) 
 - [【V2EX】2022-07-05-如何同时用两个网盘同步资料](https://www.v2ex.com/t/864272) 
 - [【V2EX】2022-07-05-各位好，写了一个可以私有化安装的低/零代码平台](https://www.v2ex.com/t/864271) 
-- [【V2EX】2022-07-05-提问-一体机求推荐](https://www.v2ex.com/t/864270) 
-- [【V2EX】2022-07-05-zerotier-tcp-连接性](https://www.v2ex.com/t/864269) 
-- [【V2EX】2022-07-05-长亭科技-杭州区-容器安全产品-研发类-招聘](https://www.v2ex.com/t/864268) 
 - [【技术头条】2022-07-05-Thoughtworks-全球CTO：按需求构建架构，过度工程只会“劳民伤财”-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15214&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftechnology-radar-rebecca-interview%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-05-故事点-vs.-人天-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15213&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fagile-estimation-story-points-man-day%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-05-如何设计数据可视化平台-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15212&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-design-data-visualization-platform%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -105,8 +105,8 @@
 - [【开发者头条】2022-07-05-图解八股，真的太顶了！](https://toutiao.io/k/aqpz0ic) 
 - [【开发者头条】2022-07-05-珍爱网微服务底层框架演进——从开源组件封装到自研](https://toutiao.io/k/61u7m9n) 
 - [【开发者头条】2022-07-05-用-Go-跑的更快：使用-Golang-为机器学习服务](https://toutiao.io/k/q0q7gec) 
-- [【开发者头条】2022-07-05-推荐-3000帧动画图解MySQL为什么需要binlog、redo-log和undo-log](https://toutiao.io/k/b0g4460) 
 - [【开发者头条】2022-07-05-推荐-吐血整理：一份不可多得的架构师图谱！](https://toutiao.io/k/ptp0ru2) 
+- [【开发者头条】2022-07-05-推荐-3000帧动画图解MySQL为什么需要binlog、redo-log和undo-log](https://toutiao.io/k/b0g4460) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

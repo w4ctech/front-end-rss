@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-07-05 15:50:24，:rocket: 更新条数: +85， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-07-05 16:19:22，:rocket: 更新条数: +85， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -471,6 +471,9 @@
 </summary>
 
 
+- [2022-07-05-领讲台播客-APP-更新---支持倍速播放](https://www.v2ex.com/t/864320) ![](assets/new.png)  
+- [2022-07-05-拼多多买的显示器支架不稳固老是掉下来有没有质量好的推荐，不要太贵](https://www.v2ex.com/t/864319) ![](assets/new.png)  
+- [2022-07-05-Linux-下有没有简单的可视化工具？](https://www.v2ex.com/t/864318) ![](assets/new.png)  
 - [2022-07-05-升级到-22621-以后-noMeiryoUI-失效了，还有啥靠谱的方法能修改系统显示字体么？](https://www.v2ex.com/t/864317) ![](assets/new.png)  
 - [2022-07-05-Telegram-的两步验证不支持使用第三方-Authenticator，只能使用邮箱发送验证码。](https://www.v2ex.com/t/864314) ![](assets/new.png)  
 - [2022-07-05-计算机网络问题-机器-A-跑-docker，-docker-走桥接网络，跑-openwrt-容器-B，-B-运行-clash。接下来把机器-A-的-DNS-和网关设置成-B，-ping-B-显示-network-un...](https://www.v2ex.com/t/864313) ![](assets/new.png)  
@@ -488,9 +491,6 @@
 - [2022-07-05-chrome-的扩展像鼠标手势有办法在新标签页使用吗](https://www.v2ex.com/t/864296) ![](assets/new.png)  
 - [2022-07-05-有哪位朋友用过-Poco-的手机吗？想了解一下-Poco-F3.](https://www.v2ex.com/t/864293) ![](assets/new.png)  
 - [2022-07-05-JetBrains-远程开发好用吗？体验怎么样](https://www.v2ex.com/t/864292) ![](assets/new.png)  
-- [2022-07-05-Macbook-Pro-外接两块屏幕，低分辨率的屏幕-HiDPI-显示经常故障](https://www.v2ex.com/t/864291) ![](assets/new.png)  
-- [2022-07-05-win-都有什么应用会打断电脑休眠](https://www.v2ex.com/t/864287) ![](assets/new.png)  
-- [2022-07-05-京东网页购物车-https-跳转-http，有安全风险](https://www.v2ex.com/t/864286) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -552,7 +552,7 @@
 - [2022-07-05-图解八股，真的太顶了！](https://toutiao.io/k/aqpz0ic) ![](assets/new.png)  
 - [2022-07-05-珍爱网微服务底层框架演进——从开源组件封装到自研](https://toutiao.io/k/61u7m9n) ![](assets/new.png)  
 - [2022-07-05-用-Go-跑的更快：使用-Golang-为机器学习服务](https://toutiao.io/k/q0q7gec) ![](assets/new.png)  
-- [2022-07-05-推荐-3000帧动画图解MySQL为什么需要binlog、redo-log和undo-log](https://toutiao.io/k/b0g4460) ![](assets/new.png)  
+- [2022-07-05-推荐-吐血整理：一份不可多得的架构师图谱！](https://toutiao.io/k/ptp0ru2) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

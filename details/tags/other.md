@@ -1,10 +1,13 @@
-:alarm_clock: 更新时间: 2022-07-05 15:50:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-05 16:19:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
 
 
 
+- [2022-07-05-领讲台播客-APP-更新---支持倍速播放](https://www.v2ex.com/t/864320) 
+- [2022-07-05-拼多多买的显示器支架不稳固老是掉下来有没有质量好的推荐，不要太贵](https://www.v2ex.com/t/864319) 
+- [2022-07-05-Linux-下有没有简单的可视化工具？](https://www.v2ex.com/t/864318) 
 - [2022-07-05-升级到-22621-以后-noMeiryoUI-失效了，还有啥靠谱的方法能修改系统显示字体么？](https://www.v2ex.com/t/864317) 
 - [2022-07-05-Telegram-的两步验证不支持使用第三方-Authenticator，只能使用邮箱发送验证码。](https://www.v2ex.com/t/864314) 
 - [2022-07-05-覆写磁盘的软件推荐](https://www.v2ex.com/t/864312) 
@@ -30,7 +33,6 @@
 - [2022-07-05-MBP-2017-带-touchbar-求个成都的能升级硬盘的地方？](https://www.v2ex.com/t/864273) 
 - [2022-07-05-如何同时用两个网盘同步资料](https://www.v2ex.com/t/864272) 
 - [2022-07-05-各位好，写了一个可以私有化安装的低/零代码平台](https://www.v2ex.com/t/864271) 
-- [2022-07-05-提问-一体机求推荐](https://www.v2ex.com/t/864270) 
 - [2022-07-05-故事点-vs.-人天-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15213&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fagile-estimation-story-points-man-day%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-05-如何设计数据可视化平台-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15212&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-design-data-visualization-platform%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-05-你的代码会说话吗？（上）-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15211&url=https%3A%2F%2Finsights.thoughtworks.cn%2F%3Fp%3D16179%26amp%3Bpreview%3Dtrue%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

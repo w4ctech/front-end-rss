@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-05 09:40:27。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-05 10:21:01。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Git、SVN
 
@@ -6,5 +6,3 @@
 > 关键字：`Git`、`SVN`
 
 
-
-- [2022-07-05-git-在-clone-的时候能否先拉到最新代码显示，再慢慢-clone-历史？](https://www.v2ex.com/t/864214) 

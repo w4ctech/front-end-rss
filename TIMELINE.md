@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-05 14:09:32。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-07-05 14:16:01。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -67,7 +67,6 @@
 - [【V2EX】2022-07-05-我的-MacBook-pro-16-m1-刚用一个月就出问题了](https://www.v2ex.com/t/864260) 
 - [【V2EX】2022-07-05-如何通过软件检测的方式，识别某一硬盘是-S.M.A.R.T.清零盘？](https://www.v2ex.com/t/864259) 
 - [【V2EX】2022-07-05-是-macOS-问题还是-APP-问题？心态炸了~](https://www.v2ex.com/t/864258) 
-- [【V2EX】2022-07-05-（云原生线下交流）7-月-9-日，论道原生-Meetup-成都站开启！](https://www.v2ex.com/t/864257) 
 - [【技术头条】2022-07-05-Thoughtworks-全球CTO：按需求构建架构，过度工程只会“劳民伤财”-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15214&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftechnology-radar-rebecca-interview%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-05-故事点-vs.-人天-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15213&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fagile-estimation-story-points-man-day%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-05-如何设计数据可视化平台-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15212&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-design-data-visualization-platform%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

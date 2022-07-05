@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-07-05 18:46:21，:rocket: 更新条数: +85， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-07-05 19:11:43，:rocket: 更新条数: +85， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -552,7 +552,7 @@
 - [2022-07-05-图解八股，真的太顶了！](https://toutiao.io/k/aqpz0ic) ![](assets/new.png)  
 - [2022-07-05-珍爱网微服务底层框架演进——从开源组件封装到自研](https://toutiao.io/k/61u7m9n) ![](assets/new.png)  
 - [2022-07-05-用-Go-跑的更快：使用-Golang-为机器学习服务](https://toutiao.io/k/q0q7gec) ![](assets/new.png)  
-- [2022-07-05-推荐-3000帧动画图解MySQL为什么需要binlog、redo-log和undo-log](https://toutiao.io/k/b0g4460) ![](assets/new.png)  
+- [2022-07-05-推荐-吐血整理：一份不可多得的架构师图谱！](https://toutiao.io/k/ptp0ru2) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

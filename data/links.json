@@ -272,6 +272,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "Go 语言---泛型实战",
+        "link": "https://www.v2ex.com/t/864326",
+        "date": "2022-07-05"
+      },
+      {
         "title": "又有一个坑了，远程工作，自研公司非外包，我直招！ Vue+Node！",
         "link": "https://www.v2ex.com/t/864325",
         "date": "2022-07-05"
@@ -439,11 +444,6 @@
       {
         "title": "求预览图片+拖动排序+重命名的工具",
         "link": "https://www.v2ex.com/t/864280",
-        "date": "2022-07-05"
-      },
-      {
-        "title": "Java 项目部署 Linux 上为啥读取不到中文目录",
-        "link": "https://www.v2ex.com/t/864276",
         "date": "2022-07-05"
       }
     ]

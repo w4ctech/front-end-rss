@@ -9953,6 +9953,41 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "不裁员，只招人，美企 Web 3.0 赛道重岗来袭，欢迎来撩~~",
+        "link": "https://www.v2ex.com/t/864207",
+        "date": "2022-07-05"
+      },
+      {
+        "title": "坐标广州 6 年前端开发经验 16k 工作好找吗（非外包，非 996）",
+        "link": "https://www.v2ex.com/t/864205",
+        "date": "2022-07-05"
+      },
+      {
+        "title": "偶尔需要测试 mac 程序，便携上面怎么做比较好？",
+        "link": "https://www.v2ex.com/t/864202",
+        "date": "2022-07-05"
+      },
+      {
+        "title": "请问有没有会写电报机器人的朋友，加个好友",
+        "link": "https://www.v2ex.com/t/864201",
+        "date": "2022-07-05"
+      },
+      {
+        "title": "问下玩射击类游戏时间长 ，网络好像出现 loss，这种应该怎么排查有没有",
+        "link": "https://www.v2ex.com/t/864200",
+        "date": "2022-07-05"
+      },
+      {
+        "title": "CODING DevSecOps 助力金融企业跑出数字加速度",
+        "link": "https://www.v2ex.com/t/864199",
+        "date": "2022-07-05"
+      },
+      {
+        "title": "在哪里可以找到比较靠谱的前端开发？一般薪酬如何计价？",
+        "link": "https://www.v2ex.com/t/864198",
+        "date": "2022-07-05"
+      },
+      {
         "title": "idea 开发社区版的意义是什么",
         "link": "https://www.v2ex.com/t/864196",
         "date": "2022-07-05"
@@ -10111,56 +10146,6 @@
         "title": "sql server 如何对中文进行编码，在网上找了很多都不靠谱，希望用 js 的 decodeUrl 能够解码成功",
         "link": "https://www.v2ex.com/t/864159",
         "date": "2022-07-05"
-      },
-      {
-        "title": "sqlite 有什么好的替代品？",
-        "link": "https://www.v2ex.com/t/864158",
-        "date": "2022-07-05"
-      },
-      {
-        "title": "windows 打开软件提示端口被占用， win10 版本 21H2",
-        "link": "https://www.v2ex.com/t/864157",
-        "date": "2022-07-05"
-      },
-      {
-        "title": "鼠须管输入法如何关闭 F4 快捷键？",
-        "link": "https://www.v2ex.com/t/864156",
-        "date": "2022-07-05"
-      },
-      {
-        "title": "现在回过头来看，非全面屏时代的手机用起来反倒是更舒服的",
-        "link": "https://www.v2ex.com/t/864155",
-        "date": "2022-07-05"
-      },
-      {
-        "title": "macbook pro 16 寸 32g 还是 64g 呢",
-        "link": "https://www.v2ex.com/t/864154",
-        "date": "2022-07-05"
-      },
-      {
-        "title": "南京： FPGA 工程师，薪水： 20-40k，不加班，双休",
-        "link": "https://www.v2ex.com/t/864153",
-        "date": "2022-07-05"
-      },
-      {
-        "title": "AkkoCloud 英国伦敦 CN2 GIA 服务器已补货",
-        "link": "https://www.v2ex.com/t/864152",
-        "date": "2022-07-05"
-      },
-      {
-        "title": "下载导出的 iCloud 数据怎么一直网络错误？",
-        "link": "https://www.v2ex.com/t/864151",
-        "date": "2022-07-05"
-      },
-      {
-        "title": "为什么中国开源氛围和外国开源氛围相差很大？差哪儿了？",
-        "link": "https://www.v2ex.com/t/864150",
-        "date": "2022-07-05"
-      },
-      {
-        "title": "有时候真的不是不想支持国产路由器，啥自研芯片啊，稳定性这么差",
-        "link": "https://www.v2ex.com/t/864149",
-        "date": "2022-07-05"
       }
     ]
   },
@@ -10169,6 +10154,11 @@
     "title": "技术头条",
     "link": "http://blogread.cn/news/newest.php",
     "items": [
+      {
+        "title": "Thoughtworks 全球CTO：按需求构建架构，过度工程只会“劳民伤财” (insights.thoughtworks.cn)",
+        "link": "https://blogread.cn/news/go.php?idItem=15214&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftechnology-radar-rebecca-interview%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2022-07-05"
+      },
       {
         "title": "故事点 vs. 人天 (insights.thoughtworks.cn)",
         "link": "https://blogread.cn/news/go.php?idItem=15213&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fagile-estimation-story-points-man-day%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
@@ -10263,11 +10253,6 @@
         "title": "如何实现页面刷新后不定位到之前的滚动位置？ (www.zhangxinxu.com)",
         "link": "https://blogread.cn/news/go.php?idItem=15195&url=https%3A%2F%2Fwww.zhangxinxu.com%2Fwordpress%2F2022%2F05%2Fhistory-scrollrestoration%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
         "date": "2022-07-05"
-      },
-      {
-        "title": "业务数据治理体系化思考与实践 (tech.meituan.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=15194&url=https%3A%2F%2Ftech.meituan.com%2F2022%2F05%2F12%2Fbusiness-data-governance.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-07-05"
       }
     ]
   },
@@ -10347,11 +10332,6 @@
         "date": "2022-07-05"
       },
       {
-        "title": "用 Go 跑的更快：使用 Golang 为机器学习服务",
-        "link": "https://toutiao.io/k/q0q7gec",
-        "date": "2022-07-05"
-      },
-      {
         "title": "从架构上详解技术（SLB，Redis，Mysql，Kafka，Clickhouse）的各类热点问题",
         "link": "https://toutiao.io/k/dih454b",
         "date": "2022-07-05"
@@ -10359,6 +10339,11 @@
       {
         "title": "珍爱网微服务底层框架演进——从开源组件封装到自研",
         "link": "https://toutiao.io/k/61u7m9n",
+        "date": "2022-07-05"
+      },
+      {
+        "title": "用 Go 跑的更快：使用 Golang 为机器学习服务",
+        "link": "https://toutiao.io/k/q0q7gec",
         "date": "2022-07-05"
       },
       {

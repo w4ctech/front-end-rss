@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-05 06:47:53。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-07-05 07:14:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,13 @@
 </summary>
 
 
+- [【V2EX】2022-07-05-不裁员，只招人，美企-Web-3.0-赛道重岗来袭，欢迎来撩~~](https://www.v2ex.com/t/864207) 
+- [【V2EX】2022-07-05-坐标广州-6-年前端开发经验-16k-工作好找吗（非外包，非-996）](https://www.v2ex.com/t/864205) 
+- [【V2EX】2022-07-05-偶尔需要测试-mac-程序，便携上面怎么做比较好？](https://www.v2ex.com/t/864202) 
+- [【V2EX】2022-07-05-请问有没有会写电报机器人的朋友，加个好友](https://www.v2ex.com/t/864201) 
+- [【V2EX】2022-07-05-问下玩射击类游戏时间长-，网络好像出现-loss，这种应该怎么排查有没有](https://www.v2ex.com/t/864200) 
+- [【V2EX】2022-07-05-CODING-DevSecOps-助力金融企业跑出数字加速度](https://www.v2ex.com/t/864199) 
+- [【V2EX】2022-07-05-在哪里可以找到比较靠谱的前端开发？一般薪酬如何计价？](https://www.v2ex.com/t/864198) 
 - [【V2EX】2022-07-05-idea-开发社区版的意义是什么](https://www.v2ex.com/t/864196) 
 - [【V2EX】2022-07-05-7-年老运营在线交流贴：项目方向/市场动态/资源整合等，知无不言。](https://www.v2ex.com/t/864195) 
 - [【V2EX】2022-07-05-你愿意为爱好花费多少钱和时间？](https://www.v2ex.com/t/864194) 
@@ -100,16 +107,7 @@
 - [【V2EX】2022-07-05-请教店铺订单-SQL-优化](https://www.v2ex.com/t/864161) 
 - [【V2EX】2022-07-05-硅谷在线共享空间项目招聘需求-7-月-5-日更新-Unity3D-开发经验，对互联网感兴趣，可提供赴美工作签证。](https://www.v2ex.com/t/864160) 
 - [【V2EX】2022-07-05-sql-server-如何对中文进行编码，在网上找了很多都不靠谱，希望用-js-的-decodeUrl-能够解码成功](https://www.v2ex.com/t/864159) 
-- [【V2EX】2022-07-05-sqlite-有什么好的替代品？](https://www.v2ex.com/t/864158) 
-- [【V2EX】2022-07-05-windows-打开软件提示端口被占用，-win10-版本-21H2](https://www.v2ex.com/t/864157) 
-- [【V2EX】2022-07-05-鼠须管输入法如何关闭-F4-快捷键？](https://www.v2ex.com/t/864156) 
-- [【V2EX】2022-07-05-现在回过头来看，非全面屏时代的手机用起来反倒是更舒服的](https://www.v2ex.com/t/864155) 
-- [【V2EX】2022-07-05-macbook-pro-16-寸-32g-还是-64g-呢](https://www.v2ex.com/t/864154) 
-- [【V2EX】2022-07-05-南京：-FPGA-工程师，薪水：-20-40k，不加班，双休](https://www.v2ex.com/t/864153) 
-- [【V2EX】2022-07-05-AkkoCloud-英国伦敦-CN2-GIA-服务器已补货](https://www.v2ex.com/t/864152) 
-- [【V2EX】2022-07-05-下载导出的-iCloud-数据怎么一直网络错误？](https://www.v2ex.com/t/864151) 
-- [【V2EX】2022-07-05-为什么中国开源氛围和外国开源氛围相差很大？差哪儿了？](https://www.v2ex.com/t/864150) 
-- [【V2EX】2022-07-05-有时候真的不是不想支持国产路由器，啥自研芯片啊，稳定性这么差](https://www.v2ex.com/t/864149) 
+- [【技术头条】2022-07-05-Thoughtworks-全球CTO：按需求构建架构，过度工程只会“劳民伤财”-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15214&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftechnology-radar-rebecca-interview%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-05-故事点-vs.-人天-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15213&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fagile-estimation-story-points-man-day%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-05-如何设计数据可视化平台-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15212&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-design-data-visualization-platform%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-05-你的代码会说话吗？（上）-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15211&url=https%3A%2F%2Finsights.thoughtworks.cn%2F%3Fp%3D16179%26amp%3Bpreview%3Dtrue%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -129,7 +127,6 @@
 - [【技术头条】2022-07-05-搜索与推荐那些事儿-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15197&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fsearch-and-recommend%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-05-自动化测试的未来趋势-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15196&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fautomated-testing-trends%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-05-如何实现页面刷新后不定位到之前的滚动位置？-www.zhangxinxu.com](https://blogread.cn/news/go.php?idItem=15195&url=https%3A%2F%2Fwww.zhangxinxu.com%2Fwordpress%2F2022%2F05%2Fhistory-scrollrestoration%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
-- [【技术头条】2022-07-05-业务数据治理体系化思考与实践-tech.meituan.com](https://blogread.cn/news/go.php?idItem=15194&url=https%3A%2F%2Ftech.meituan.com%2F2022%2F05%2F12%2Fbusiness-data-governance.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【开发者头条】2022-07-05-服务端监控架构设计与实践](https://toutiao.io/k/xhwa9mo) 
 - [【开发者头条】2022-07-05-场景化面试：关于分布式锁的十问十答](https://toutiao.io/k/1uhzu4h) 
 - [【开发者头条】2022-07-05-七种方案！探讨Redis分布式锁的正确使用姿势-【转】](https://toutiao.io/k/mkzst6n) 
@@ -144,9 +141,9 @@
 - [【开发者头条】2022-07-05-使用-MyBatis-操作-Nebula-Graph-的实践](https://toutiao.io/k/rzvoow2) 
 - [【开发者头条】2022-07-05-.NET-7-的-JWT-配置太方便了！](https://toutiao.io/k/1mc2fcp) 
 - [【开发者头条】2022-07-05-深入汇编指令理解Java关键字volatile](https://toutiao.io/k/c3lbb3c) 
-- [【开发者头条】2022-07-05-用-Go-跑的更快：使用-Golang-为机器学习服务](https://toutiao.io/k/q0q7gec) 
 - [【开发者头条】2022-07-05-从架构上详解技术（SLB，Redis，Mysql，Kafka，Clickhouse）的各类热点问题](https://toutiao.io/k/dih454b) 
 - [【开发者头条】2022-07-05-珍爱网微服务底层框架演进——从开源组件封装到自研](https://toutiao.io/k/61u7m9n) 
+- [【开发者头条】2022-07-05-用-Go-跑的更快：使用-Golang-为机器学习服务](https://toutiao.io/k/q0q7gec) 
 - [【开发者头条】2022-07-05-图解八股，真的太顶了！](https://toutiao.io/k/aqpz0ic) 
 - [【开发者头条】2022-07-05-Caffeine-Cache-高性能Java本地缓存组件](https://toutiao.io/k/eu31f8l) 
 - [【开发者头条】2022-07-05-推荐-3000帧动画图解MySQL为什么需要binlog、redo-log和undo-log](https://toutiao.io/k/b0g4460) 

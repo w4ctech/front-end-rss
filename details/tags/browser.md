@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-05 10:43:46。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-05 11:13:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -8,6 +8,7 @@
 
 
 - [2022-06-12-基于文字的URL锚点定位与::target-text样式设置](https://www.zhangxinxu.com/wordpress/2022/06/url-anchor-target-text/) 
+- [2022-07-05-除了-Edge，还有没有随着-Chrome-内核升级而升级的浏览器？](https://www.v2ex.com/t/864274) 
 - [2022-07-05-zerotier-tcp-连接性](https://www.v2ex.com/t/864269) 
 - [2022-07-05-长亭科技-杭州区-容器安全产品-研发类-招聘](https://www.v2ex.com/t/864268) 
 - [2022-07-05-显示器屏幕边角颜色不正常请求帮助](https://www.v2ex.com/t/864252) 

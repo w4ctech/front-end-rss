@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2022-07-06 05:26:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-06 05:46:47。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
 
 
 
+- [2022-07-06-Windows-上有没有办法自动安装.net-framework，双击后自动安装，不用点下一步?](https://www.v2ex.com/t/864415) 
 - [2022-07-06-从上海换工作到杭州的问题](https://www.v2ex.com/t/864414) 
 - [2022-07-06-大家往-NAS-里面下载了哪些东西？](https://www.v2ex.com/t/864413) 
 - [2022-07-06-网络通讯大师请进来](https://www.v2ex.com/t/864411) 

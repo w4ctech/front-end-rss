@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-07-06 05:26:09，:rocket: 更新条数: +80， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-07-06 05:46:47，:rocket: 更新条数: +81， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -471,6 +471,8 @@
 </summary>
 
 
+- [2022-07-06-ElasticSearch-源码中的-ClusterStateVersion-到底是什么东西](https://www.v2ex.com/t/864417) ![](assets/new.png)  
+- [2022-07-06-Windows-上有没有办法自动安装.net-framework，双击后自动安装，不用点下一步?](https://www.v2ex.com/t/864415) ![](assets/new.png)  
 - [2022-07-06-从上海换工作到杭州的问题](https://www.v2ex.com/t/864414) ![](assets/new.png)  
 - [2022-07-06-大家往-NAS-里面下载了哪些东西？](https://www.v2ex.com/t/864413) ![](assets/new.png)  
 - [2022-07-06-我是推广，有没愿意一起做棋牌类游戏的大神](https://www.v2ex.com/t/864412) ![](assets/new.png)  
@@ -489,8 +491,6 @@
 - [2022-07-06-电脑桌用的灯有推荐么](https://www.v2ex.com/t/864393) ![](assets/new.png)  
 - [2022-07-06-IDEA-有没有基于-Git-commit-的覆盖率检测标记插件？](https://www.v2ex.com/t/864392) ![](assets/new.png)  
 - [2022-07-06-请问想搭建一个私有云的-IM，有什么好的推荐吗](https://www.v2ex.com/t/864391) ![](assets/new.png)  
-- [2022-07-06-没明白-fscapture-的滚动截图的自定义滚动模式怎么用的？](https://www.v2ex.com/t/864390) ![](assets/new.png)  
-- [2022-07-06-轻断食-18+8-第五天了，正常吃瘦了-2-斤，帖子长期记录。](https://www.v2ex.com/t/864388) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -541,9 +541,9 @@
 - [2022-07-06-为什么有些人什么都不懂，老是喜欢教我做事？](https://toutiao.io/k/k6nfj0n) ![](assets/new.png)  
 - [2022-07-06-应用实践-|-蜀海供应链基于-Apache-Doris-的数据中台建设](https://toutiao.io/k/acnbqim) ![](assets/new.png)  
 - [2022-07-06-从0到1建设智能灰度数据体系：以vivo游戏中心为例](https://toutiao.io/k/q77o28w) ![](assets/new.png)  
+- [2022-07-06-go-zero微服务实战系列（九、极致优化秒杀性能）](https://toutiao.io/k/514moei) ![](assets/new.png)  
 - [2022-07-06-使用-Tomcat-+-Nginx-实现负载均衡](https://toutiao.io/k/uzah19e) ![](assets/new.png)  
 - [2022-07-06-并发编程的三大核心问题](https://toutiao.io/k/c2obbn2) ![](assets/new.png)  
-- [2022-07-06-go-zero微服务实战系列（九、极致优化秒杀性能）](https://toutiao.io/k/514moei) ![](assets/new.png)  
 - [2022-07-06-Observability之聊聊采样sampling场景和落地案例-下篇](https://toutiao.io/k/09gpxrf) ![](assets/new.png)  
 - [2022-07-06-使用-JavaScript-阻止屏幕进入睡眠状态](https://toutiao.io/k/wexal8k) ![](assets/new.png)  
 - [2022-07-06-推荐-3000帧动画图解MySQL为什么需要binlog、redo-log和undo-log](https://toutiao.io/k/b0g4460) ![](assets/new.png)  

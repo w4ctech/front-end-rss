@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2022-07-06 05:26:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-06 05:46:47。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-07-06-ElasticSearch-源码中的-ClusterStateVersion-到底是什么东西](https://www.v2ex.com/t/864417) 
+- [2022-07-06-Windows-上有没有办法自动安装.net-framework，双击后自动安装，不用点下一步?](https://www.v2ex.com/t/864415) 
 - [2022-07-06-从上海换工作到杭州的问题](https://www.v2ex.com/t/864414) 
 - [2022-07-06-大家往-NAS-里面下载了哪些东西？](https://www.v2ex.com/t/864413) 
 - [2022-07-06-我是推广，有没愿意一起做棋牌类游戏的大神](https://www.v2ex.com/t/864412) 
@@ -39,4 +41,3 @@
 - [2022-07-06-Jellyfin-独立显卡解码-Nvidia-显卡推荐](https://www.v2ex.com/t/864370) 
 - [2022-07-06-说起程序员这份工作我想起了旧金山淘金者](https://www.v2ex.com/t/864369) 
 - [2022-07-06-小白求助：招待朋友-200-元以内有什么干红葡萄酒推荐？罗斯柴尔？吉林通化？张裕？长城？内蒙古乌海葡萄酒？附具体酒名发感谢。](https://www.v2ex.com/t/864368) 
-- [2022-07-06-Studio-Display-在-Windows-下有没有什么解决方案？](https://www.v2ex.com/t/864366) 

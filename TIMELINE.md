@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-06 16:25:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-07-06 17:00:00。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,9 @@
 </summary>
 
 
+- [【V2EX】2022-07-06-Redis-字符串编码-embstr-有性能优势，为什么要有长度限制呢？](https://www.v2ex.com/t/864567) 
+- [【V2EX】2022-07-06-关于充电宝充-mbp14](https://www.v2ex.com/t/864565) 
+- [【V2EX】2022-07-06-这算软件工程上的瑕疵吗？-iOS「设置」App](https://www.v2ex.com/t/864564) 
 - [【V2EX】2022-07-06-想找-Rust-练手项目的可以看看](https://www.v2ex.com/t/864563) 
 - [【V2EX】2022-07-06-2022-年下半年有什么好的投资标的](https://www.v2ex.com/t/864562) 
 - [【V2EX】2022-07-06-amd-ftmp-bug-导致的卡顿问题你们怎么看](https://www.v2ex.com/t/864560) 
@@ -104,9 +107,6 @@
 - [【V2EX】2022-07-06-自己上班像吃-shi，还得硬塞同事怎么办](https://www.v2ex.com/t/864520) 
 - [【V2EX】2022-07-06-如何开发一款自己的-PDF-阅读器](https://www.v2ex.com/t/864519) 
 - [【V2EX】2022-07-06-还是乱码，怎么解决](https://www.v2ex.com/t/864518) 
-- [【V2EX】2022-07-06-魁拔团队是跑路了吗？](https://www.v2ex.com/t/864516) 
-- [【V2EX】2022-07-06-已经是-copilot-的形状了](https://www.v2ex.com/t/864515) 
-- [【V2EX】2022-07-06-IPv6-的-IPv4-映射地址是否真的有安全问题？](https://www.v2ex.com/t/864514) 
 - [【技术头条】2022-07-06-Thoughtworks-全球CTO：按需求构建架构，过度工程只会“劳民伤财”-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15214&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftechnology-radar-rebecca-interview%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-06-故事点-vs.-人天-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15213&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fagile-estimation-story-points-man-day%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-06-如何设计数据可视化平台-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15212&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-design-data-visualization-platform%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

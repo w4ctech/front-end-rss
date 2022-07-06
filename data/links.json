@@ -9953,6 +9953,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "求助：红米 note8 刷 lineageos 后无限重启",
+        "link": "https://www.v2ex.com/t/864571",
+        "date": "2022-07-06"
+      },
+      {
         "title": "软路由选择困难",
         "link": "https://www.v2ex.com/t/864570",
         "date": "2022-07-06"
@@ -10135,11 +10140,6 @@
       {
         "title": "怎么不去喜欢一个人？",
         "link": "https://www.v2ex.com/t/864522",
-        "date": "2022-07-06"
-      },
-      {
-        "title": "经常看代码中出现 drain 这个词，比如 buffer_drain，不知道这个是啥意思",
-        "link": "https://www.v2ex.com/t/864521",
         "date": "2022-07-06"
       }
     ]

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-06 18:47:32。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-07-06 19:11:51。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,8 @@
 </summary>
 
 
+- [【V2EX】2022-07-06-如果要做网站的话](https://www.v2ex.com/t/864574) 
+- [【V2EX】2022-07-06-外置-sd-卡-f2fs-分区里无法创建软链接？](https://www.v2ex.com/t/864573) 
 - [【V2EX】2022-07-06-紫鸟浏览器坑爹，造成亚马逊账号关联了](https://www.v2ex.com/t/864572) 
 - [【V2EX】2022-07-06-求助：红米-note8-刷-lineageos-后无限重启](https://www.v2ex.com/t/864571) 
 - [【V2EX】2022-07-06-软路由选择困难](https://www.v2ex.com/t/864570) 
@@ -105,7 +107,6 @@
 - [【V2EX】2022-07-06-配备-M2-芯片的-Macbook-Air-将于-7-月-8-日晚-8-点接受订购](https://www.v2ex.com/t/864527) 
 - [【V2EX】2022-07-06-走还是留还请老哥们给点意见](https://www.v2ex.com/t/864526) 
 - [【V2EX】2022-07-06-请问我的子域名-CNAME-到了阿里企业邮箱域名，但是使用-https-访问我的子域名会报连接不安全，要怎么配置？](https://www.v2ex.com/t/864525) 
-- [【V2EX】2022-07-06-Android10-定制-系统级-app-无法正确执行二进制文件](https://www.v2ex.com/t/864524) 
 - [【技术头条】2022-07-06-Thoughtworks-全球CTO：按需求构建架构，过度工程只会“劳民伤财”-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15214&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftechnology-radar-rebecca-interview%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-06-故事点-vs.-人天-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15213&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fagile-estimation-story-points-man-day%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-06-如何设计数据可视化平台-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15212&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-design-data-visualization-platform%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -145,8 +146,8 @@
 - [【开发者头条】2022-07-06-一大波开源小抄来袭](https://toutiao.io/k/00n2h3b) 
 - [【开发者头条】2022-07-06-TLA+-入门教程（2）：一个简单的例子](https://toutiao.io/k/rqwsblt) 
 - [【开发者头条】2022-07-06-为什么我们需要-Hive-Metastore！](https://toutiao.io/k/6nz8a93) 
-- [【开发者头条】2022-07-06-推荐-吐血整理：一份不可多得的架构师图谱！](https://toutiao.io/k/ptp0ru2) 
 - [【开发者头条】2022-07-06-推荐-3000帧动画图解MySQL为什么需要binlog、redo-log和undo-log](https://toutiao.io/k/b0g4460) 
+- [【开发者头条】2022-07-06-推荐-吐血整理：一份不可多得的架构师图谱！](https://toutiao.io/k/ptp0ru2) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

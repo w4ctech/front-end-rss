@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-07-06 18:47:32，:rocket: 更新条数: +2025， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-07-06 19:11:51，:rocket: 更新条数: +2026， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-07-06-如果要做网站的话](https://www.v2ex.com/t/864574) ![](assets/new.png)  
+- [2022-07-06-外置-sd-卡-f2fs-分区里无法创建软链接？](https://www.v2ex.com/t/864573) ![](assets/new.png)  
 - [2022-07-06-紫鸟浏览器坑爹，造成亚马逊账号关联了](https://www.v2ex.com/t/864572) ![](assets/new.png)  
 - [2022-07-06-求助：红米-note8-刷-lineageos-后无限重启](https://www.v2ex.com/t/864571) ![](assets/new.png)  
 - [2022-07-06-软路由选择困难](https://www.v2ex.com/t/864570) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-07-06-offer-选择····](https://www.v2ex.com/t/864554) ![](assets/new.png)  
 - [2022-07-06-发现初中级前端真的好不值钱啊。。。](https://www.v2ex.com/t/864552) ![](assets/new.png)  
 - [2022-07-06-上海（秋招、校招开启）招前端（ts-+-react，直推领导，另外（vue-，以及其它岗位皆可内推）](https://www.v2ex.com/t/864551) ![](assets/new.png)  
-- [2022-07-06-台式机-CPU-一直睿频运行需要超频吗？](https://www.v2ex.com/t/864549) ![](assets/new.png)  
-- [2022-07-06-悔恨自己买了-macbook-pro](https://www.v2ex.com/t/864548) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -572,7 +572,7 @@
 - [2022-07-06-一大波开源小抄来袭](https://toutiao.io/k/00n2h3b) ![](assets/new.png)  
 - [2022-07-06-TLA+-入门教程（2）：一个简单的例子](https://toutiao.io/k/rqwsblt) ![](assets/new.png)  
 - [2022-07-06-为什么我们需要-Hive-Metastore！](https://toutiao.io/k/6nz8a93) ![](assets/new.png)  
-- [2022-07-06-推荐-吐血整理：一份不可多得的架构师图谱！](https://toutiao.io/k/ptp0ru2) ![](assets/new.png)  
+- [2022-07-06-推荐-3000帧动画图解MySQL为什么需要binlog、redo-log和undo-log](https://toutiao.io/k/b0g4460) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

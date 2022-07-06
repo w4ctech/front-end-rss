@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-06 13:22:12。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-07-06 14:00:00。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,14 @@
 </summary>
 
 
+- [【V2EX】2022-07-06-关于-ipad9-用-infuse-播放杜比视界影片没有画面只有声音](https://www.v2ex.com/t/864538) 
+- [【V2EX】2022-07-06-Java-Sharding-JDBC-数据库分库分表问题](https://www.v2ex.com/t/864537) 
+- [【V2EX】2022-07-06-有重庆的老哥有猫猫可以领养吗，或则购买](https://www.v2ex.com/t/864536) 
+- [【V2EX】2022-07-06-求教-openwrt-内-adguardhome-的设置问题](https://www.v2ex.com/t/864535) 
+- [【V2EX】2022-07-06-战神：拉格纳罗克，今年-9-月-11-日发售](https://www.v2ex.com/t/864534) 
+- [【V2EX】2022-07-06-有国外的小伙伴成功抢跑返校活动补发礼物的吗](https://www.v2ex.com/t/864533) 
+- [【V2EX】2022-07-06-MacBook-Air-M2-将于-7-月-8-日晚-8-点接受订购，-7-月-15-日发售](https://www.v2ex.com/t/864532) 
+- [【V2EX】2022-07-06-请教各位，-mac-上有好用的双因素生成-app-吗](https://www.v2ex.com/t/864529) 
 - [【V2EX】2022-07-06-经济好像真的不景气，转岗的，拿-N+1-的，缩编！](https://www.v2ex.com/t/864528) 
 - [【V2EX】2022-07-06-配备-M2-芯片的-Macbook-Air-将于-7-月-8-日晚-8-点接受订购](https://www.v2ex.com/t/864527) 
 - [【V2EX】2022-07-06-走还是留还请老哥们给点意见](https://www.v2ex.com/t/864526) 
@@ -104,15 +112,6 @@
 - [【V2EX】2022-07-06-不同-app“监听”用户需求精准推送是怎么做到识别同一个用户的？](https://www.v2ex.com/t/864491) 
 - [【V2EX】2022-07-06-使用大功率充电头给小功率电器充电会有问题吗](https://www.v2ex.com/t/864490) 
 - [【V2EX】2022-07-06-遇见这种-Git-警告应该怎么解决？](https://www.v2ex.com/t/864489) 
-- [【V2EX】2022-07-06-华硕-GT-AX11000-路由器怎么样？](https://www.v2ex.com/t/864487) 
-- [【V2EX】2022-07-06-想学一门新语言，-go-和-Python-大家推荐哪个](https://www.v2ex.com/t/864486) 
-- [【V2EX】2022-07-06-白裙-想自建一个笔记](https://www.v2ex.com/t/864485) 
-- [【V2EX】2022-07-06-源码快速定位工具-source-ref](https://www.v2ex.com/t/864484) 
-- [【V2EX】2022-07-06-gitw---Git-命令包装器，生成-git-变更记录日志，获取-repo-信息和一些-git-命令工具](https://www.v2ex.com/t/864483) 
-- [【V2EX】2022-07-06-Python-加入类型注解后，父类到子类的强制转换怎么处理？](https://www.v2ex.com/t/864482) 
-- [【V2EX】2022-07-06-请推荐一个-Win7-里的截图识别-QR-码的小软件，绿色](https://www.v2ex.com/t/864481) 
-- [【V2EX】2022-07-06-iOS-bug-分享](https://www.v2ex.com/t/864480) 
-- [【V2EX】2022-07-06-软件测试规范？](https://www.v2ex.com/t/864479) 
 - [【技术头条】2022-07-06-Thoughtworks-全球CTO：按需求构建架构，过度工程只会“劳民伤财”-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15214&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftechnology-radar-rebecca-interview%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-06-故事点-vs.-人天-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15213&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fagile-estimation-story-points-man-day%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-06-如何设计数据可视化平台-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15212&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-design-data-visualization-platform%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -144,9 +143,9 @@
 - [【开发者头条】2022-07-06-应用实践-|-蜀海供应链基于-Apache-Doris-的数据中台建设](https://toutiao.io/k/acnbqim) 
 - [【开发者头条】2022-07-06-从0到1建设智能灰度数据体系：以vivo游戏中心为例](https://toutiao.io/k/q77o28w) 
 - [【开发者头条】2022-07-06-HTTP-3.0彻底放弃TCP，TCP到底做错了什么？](https://toutiao.io/k/jyxu22s) 
+- [【开发者头条】2022-07-06-企业实战｜复杂业务关系下的银行业运维指标体系建设](https://toutiao.io/k/lq8v3ey) 
 - [【开发者头条】2022-07-06-使用-Tomcat-+-Nginx-实现负载均衡](https://toutiao.io/k/uzah19e) 
 - [【开发者头条】2022-07-06-使用-JavaScript-阻止屏幕进入睡眠状态](https://toutiao.io/k/wexal8k) 
-- [【开发者头条】2022-07-06-企业实战｜复杂业务关系下的银行业运维指标体系建设](https://toutiao.io/k/lq8v3ey) 
 - [【开发者头条】2022-07-06-Observability之聊聊采样sampling场景和落地案例-下篇](https://toutiao.io/k/09gpxrf) 
 - [【开发者头条】2022-07-06-王垠：对-Go-语言的综合评价](https://toutiao.io/k/torm2bw) 
 - [【开发者头条】2022-07-06-一大波开源小抄来袭](https://toutiao.io/k/00n2h3b) 

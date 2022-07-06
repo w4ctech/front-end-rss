@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-06 21:12:56。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-06 21:40:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,7 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-07-06-感谢微软治好了我多年的强迫症-😣](https://www.v2ex.com/t/864576) 
 - [2022-07-06-支持传文件设密码的在线云笔记网站](https://www.v2ex.com/t/864575) 
 - [2022-07-06-如果要做网站的话](https://www.v2ex.com/t/864574) 
 - [2022-07-06-外置-sd-卡-f2fs-分区里无法创建软链接？](https://www.v2ex.com/t/864573) 
@@ -1944,7 +1945,6 @@
 - [2022-07-06-请教各位，-mac-上有好用的双因素生成-app-吗](https://www.v2ex.com/t/864529) 
 - [2022-07-06-经济好像真的不景气，转岗的，拿-N+1-的，缩编！](https://www.v2ex.com/t/864528) 
 - [2022-07-06-配备-M2-芯片的-Macbook-Air-将于-7-月-8-日晚-8-点接受订购](https://www.v2ex.com/t/864527) 
-- [2022-07-06-走还是留还请老哥们给点意见](https://www.v2ex.com/t/864526) 
 - [2022-07-06-故事点-vs.-人天-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15213&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fagile-estimation-story-points-man-day%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-06-如何设计数据可视化平台-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15212&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-design-data-visualization-platform%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-06-你的代码会说话吗？（上）-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15211&url=https%3A%2F%2Finsights.thoughtworks.cn%2F%3Fp%3D16179%26amp%3Bpreview%3Dtrue%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

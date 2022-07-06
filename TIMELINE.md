@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-06 06:48:39。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-07-06 07:13:02。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -32,7 +32,10 @@
 </summary>
 
 
-- [【V2EX】2022-07-06-说起程序员这份工作我想起了古代太监宫女](https://www.v2ex.com/t/864438) 
+- [【V2EX】2022-07-06-拳击二也太硬核了](https://www.v2ex.com/t/864443) 
+- [【V2EX】2022-07-06-求摄影摄像，婚礼用](https://www.v2ex.com/t/864442) 
+- [【V2EX】2022-07-06-想装个-Linux-主机放在家里当-nas,-有什么便宜主机推荐?](https://www.v2ex.com/t/864440) 
+- [【V2EX】2022-07-06-上海电信测速问题](https://www.v2ex.com/t/864439) 
 - [【V2EX】2022-07-06-抽奖赠-3-本《-Python-编程轻松进阶》](https://www.v2ex.com/t/864437) 
 - [【V2EX】2022-07-06-和老婆吵架后](https://www.v2ex.com/t/864435) 
 - [【V2EX】2022-07-06-淘宝-iPhone-第三方的-magsafe-充电套装可靠不?](https://www.v2ex.com/t/864434) 
@@ -41,7 +44,6 @@
 - [【V2EX】2022-07-06-macOS-13-登陆项添加通知提醒到崩溃](https://www.v2ex.com/t/864430) 
 - [【V2EX】2022-07-06-今年-35-岁，刚被-HR-叫去，你的部门领导不同意续签合同，赔偿你-3-个月工资总共-1-万多](https://www.v2ex.com/t/864429) 
 - [【V2EX】2022-07-06-锐龙所有-cpu-都发热严重么，这个笔记本-r75800h，有时候突然九十七八度，最高能到-102-度，有点吓人啊](https://www.v2ex.com/t/864426) 
-- [【V2EX】2022-07-06-话说那四个薛定谔的唐山女生有人知道后续吗?](https://www.v2ex.com/t/864425) 
 - [【V2EX】2022-07-06-全程工作在虚拟机环境下是否可行？](https://www.v2ex.com/t/864424) 
 - [【V2EX】2022-07-06-gitpress-这么好用为什么网上这么悄声呢?](https://www.v2ex.com/t/864423) 
 - [【V2EX】2022-07-06-SwiftUI-Image-View-内存占用的一个坑...顺便求下解决办法](https://www.v2ex.com/t/864422) 
@@ -59,16 +61,11 @@
 - [【V2EX】2022-07-06-有没有做-go-智能合约的大佬-求带](https://www.v2ex.com/t/864408) 
 - [【V2EX】2022-07-06-有没有正则需要转义，能自动完成转义的工具或者在线网站？](https://www.v2ex.com/t/864406) 
 - [【V2EX】2022-07-06-是-iOS-后台管理机制退步了还是现在的程序写得越来越烂了？](https://www.v2ex.com/t/864405) 
-- [【V2EX】2022-07-06-自如将全面更换实名门锁，与公安、房管实时连接，保障居住安全](https://www.v2ex.com/t/864402) 
 - [【V2EX】2022-07-06-网易云音乐没有安全的命得了安全的病](https://www.v2ex.com/t/864401) 
 - [【V2EX】2022-07-06-微信正在恶意涨价，影响数百万开发者。](https://www.v2ex.com/t/864400) 
 - [【V2EX】2022-07-06-apache-poi-这样的-excel-工具支持类似于-ws'A1'这样的填充方式吗？](https://www.v2ex.com/t/864399) 
 - [【V2EX】2022-07-06-全志开发板如何添加二进制到镜像中的/system/bin-下？](https://www.v2ex.com/t/864397) 
 - [【V2EX】2022-07-06-我的图标，渲染的过程中，会出现蓝色的背景底色，这个是什么原因造成的？](https://www.v2ex.com/t/864396) 
-- [【V2EX】2022-07-06-电脑桌用的灯有推荐么](https://www.v2ex.com/t/864393) 
-- [【V2EX】2022-07-06-IDEA-有没有基于-Git-commit-的覆盖率检测标记插件？](https://www.v2ex.com/t/864392) 
-- [【V2EX】2022-07-06-请问想搭建一个私有云的-IM，有什么好的推荐吗](https://www.v2ex.com/t/864391) 
-- [【V2EX】2022-07-06-没明白-fscapture-的滚动截图的自定义滚动模式怎么用的？](https://www.v2ex.com/t/864390) 
 - [【技术头条】2022-07-06-Thoughtworks-全球CTO：按需求构建架构，过度工程只会“劳民伤财”-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15214&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftechnology-radar-rebecca-interview%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-06-故事点-vs.-人天-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15213&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fagile-estimation-story-points-man-day%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-06-如何设计数据可视化平台-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15212&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-design-data-visualization-platform%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -104,8 +101,8 @@
 - [【开发者头条】2022-07-06-Observability之聊聊采样sampling场景和落地案例-下篇](https://toutiao.io/k/09gpxrf) 
 - [【开发者头条】2022-07-06-企业实战｜复杂业务关系下的银行业运维指标体系建设](https://toutiao.io/k/lq8v3ey) 
 - [【开发者头条】2022-07-06-王垠：对-Go-语言的综合评价](https://toutiao.io/k/torm2bw) 
-- [【开发者头条】2022-07-06-HTTP-3.0彻底放弃TCP，TCP到底做错了什么？](https://toutiao.io/k/jyxu22s) 
 - [【开发者头条】2022-07-06-一大波开源小抄来袭](https://toutiao.io/k/00n2h3b) 
+- [【开发者头条】2022-07-06-HTTP-3.0彻底放弃TCP，TCP到底做错了什么？](https://toutiao.io/k/jyxu22s) 
 - [【开发者头条】2022-07-06-TLA+-入门教程（2）：一个简单的例子](https://toutiao.io/k/rqwsblt) 
 - [【开发者头条】2022-07-06-为什么我们需要-Hive-Metastore！](https://toutiao.io/k/6nz8a93) 
 - [【开发者头条】2022-07-06-推荐-吐血整理：一份不可多得的架构师图谱！](https://toutiao.io/k/ptp0ru2) 

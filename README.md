@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-07-06 17:00:00，:rocket: 更新条数: +2026， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-07-06 17:25:17，:rocket: 更新条数: +2025， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-07-06-软路由选择困难](https://www.v2ex.com/t/864570) ![](assets/new.png)  
+- [2022-07-06-关于我为了写一个浏览器插件，最后开发了一个浏览器-APP-的故事](https://www.v2ex.com/t/864569) ![](assets/new.png)  
 - [2022-07-06-Redis-字符串编码-embstr-有性能优势，为什么要有长度限制呢？](https://www.v2ex.com/t/864567) ![](assets/new.png)  
 - [2022-07-06-关于充电宝充-mbp14](https://www.v2ex.com/t/864565) ![](assets/new.png)  
 - [2022-07-06-这算软件工程上的瑕疵吗？-iOS「设置」App](https://www.v2ex.com/t/864564) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-07-06-悔恨自己买了-macbook-pro](https://www.v2ex.com/t/864548) ![](assets/new.png)  
 - [2022-07-06-向大神求助-使用代理并关闭后，以太网-ip-等信息均分配正常，但-ipv4&6-都无网络访问权限，也无法访问网站。](https://www.v2ex.com/t/864546) ![](assets/new.png)  
 - [2022-07-06-广州拖欠薪资有啥解决办法?](https://www.v2ex.com/t/864545) ![](assets/new.png)  
-- [2022-07-06-社招-字节跳动-数据平台-急招大数据开发工程师！快来加入我们！](https://www.v2ex.com/t/864544) ![](assets/new.png)  
-- [2022-07-06-站内朋友们帮忙看下：域名转移时，注册邮箱地址填错（gmail.com-填成了-gmai.com）了该咋整，被自己蠢哭了。](https://www.v2ex.com/t/864543) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -572,7 +572,7 @@
 - [2022-07-06-一大波开源小抄来袭](https://toutiao.io/k/00n2h3b) ![](assets/new.png)  
 - [2022-07-06-TLA+-入门教程（2）：一个简单的例子](https://toutiao.io/k/rqwsblt) ![](assets/new.png)  
 - [2022-07-06-为什么我们需要-Hive-Metastore！](https://toutiao.io/k/6nz8a93) ![](assets/new.png)  
-- [2022-07-06-推荐-吐血整理：一份不可多得的架构师图谱！](https://toutiao.io/k/ptp0ru2) ![](assets/new.png)  
+- [2022-07-06-推荐-3000帧动画图解MySQL为什么需要binlog、redo-log和undo-log](https://toutiao.io/k/b0g4460) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

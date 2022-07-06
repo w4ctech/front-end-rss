@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-06 17:00:00。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-06 17:25:17。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -14,5 +14,6 @@
 - [2021-01-08-解药|新冠mRNA疫苗安全性有哪些挑战？](https://m.caixin.com/m/2021-01-08/101648043.html) 
 - [2021-01-01-大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html) 
 - [2022-06-12-基于文字的URL锚点定位与::target-text样式设置](https://www.zhangxinxu.com/wordpress/2022/06/url-anchor-target-text/) 
+- [2022-07-06-关于我为了写一个浏览器插件，最后开发了一个浏览器-APP-的故事](https://www.v2ex.com/t/864569) 
 - [2022-07-06-请问我的子域名-CNAME-到了阿里企业邮箱域名，但是使用-https-访问我的子域名会报连接不安全，要怎么配置？](https://www.v2ex.com/t/864525) 
 - [2022-07-06-Spring框架详解---SpringMVC处理请求的原理分析](https://toutiao.io/k/5rid6le) 

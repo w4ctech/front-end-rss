@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-06 17:00:00。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-06 17:25:17。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1944,9 +1944,6 @@
 - [2022-07-06-Android10-定制-系统级-app-无法正确执行二进制文件](https://www.v2ex.com/t/864524) 
 - [2022-07-06-怎么不去喜欢一个人？](https://www.v2ex.com/t/864522) 
 - [2022-07-06-经常看代码中出现-drain-这个词，比如-buffer_drain，不知道这个是啥意思](https://www.v2ex.com/t/864521) 
-- [2022-07-06-自己上班像吃-shi，还得硬塞同事怎么办](https://www.v2ex.com/t/864520) 
-- [2022-07-06-如何开发一款自己的-PDF-阅读器](https://www.v2ex.com/t/864519) 
-- [2022-07-06-还是乱码，怎么解决](https://www.v2ex.com/t/864518) 
 - [2022-07-06-故事点-vs.-人天-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15213&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fagile-estimation-story-points-man-day%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-06-如何设计数据可视化平台-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15212&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-design-data-visualization-platform%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-06-你的代码会说话吗？（上）-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15211&url=https%3A%2F%2Finsights.thoughtworks.cn%2F%3Fp%3D16179%26amp%3Bpreview%3Dtrue%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

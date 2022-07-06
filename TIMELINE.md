@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-06 17:00:00。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-07-06 17:25:17。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,8 @@
 </summary>
 
 
+- [【V2EX】2022-07-06-软路由选择困难](https://www.v2ex.com/t/864570) 
+- [【V2EX】2022-07-06-关于我为了写一个浏览器插件，最后开发了一个浏览器-APP-的故事](https://www.v2ex.com/t/864569) 
 - [【V2EX】2022-07-06-Redis-字符串编码-embstr-有性能优势，为什么要有长度限制呢？](https://www.v2ex.com/t/864567) 
 - [【V2EX】2022-07-06-关于充电宝充-mbp14](https://www.v2ex.com/t/864565) 
 - [【V2EX】2022-07-06-这算软件工程上的瑕疵吗？-iOS「设置」App](https://www.v2ex.com/t/864564) 
@@ -104,9 +106,6 @@
 - [【V2EX】2022-07-06-Android10-定制-系统级-app-无法正确执行二进制文件](https://www.v2ex.com/t/864524) 
 - [【V2EX】2022-07-06-怎么不去喜欢一个人？](https://www.v2ex.com/t/864522) 
 - [【V2EX】2022-07-06-经常看代码中出现-drain-这个词，比如-buffer_drain，不知道这个是啥意思](https://www.v2ex.com/t/864521) 
-- [【V2EX】2022-07-06-自己上班像吃-shi，还得硬塞同事怎么办](https://www.v2ex.com/t/864520) 
-- [【V2EX】2022-07-06-如何开发一款自己的-PDF-阅读器](https://www.v2ex.com/t/864519) 
-- [【V2EX】2022-07-06-还是乱码，怎么解决](https://www.v2ex.com/t/864518) 
 - [【技术头条】2022-07-06-Thoughtworks-全球CTO：按需求构建架构，过度工程只会“劳民伤财”-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15214&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftechnology-radar-rebecca-interview%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-06-故事点-vs.-人天-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15213&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fagile-estimation-story-points-man-day%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-06-如何设计数据可视化平台-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15212&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-design-data-visualization-platform%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -146,8 +145,8 @@
 - [【开发者头条】2022-07-06-一大波开源小抄来袭](https://toutiao.io/k/00n2h3b) 
 - [【开发者头条】2022-07-06-TLA+-入门教程（2）：一个简单的例子](https://toutiao.io/k/rqwsblt) 
 - [【开发者头条】2022-07-06-为什么我们需要-Hive-Metastore！](https://toutiao.io/k/6nz8a93) 
-- [【开发者头条】2022-07-06-推荐-吐血整理：一份不可多得的架构师图谱！](https://toutiao.io/k/ptp0ru2) 
 - [【开发者头条】2022-07-06-推荐-3000帧动画图解MySQL为什么需要binlog、redo-log和undo-log](https://toutiao.io/k/b0g4460) 
+- [【开发者头条】2022-07-06-推荐-吐血整理：一份不可多得的架构师图谱！](https://toutiao.io/k/ptp0ru2) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

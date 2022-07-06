@@ -1,10 +1,14 @@
-:alarm_clock: 更新时间: 2022-07-06 03:34:16。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-06 04:44:27。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
 
 
 
+- [2022-07-06-是-iOS-后台管理机制退步了还是现在的程序写得越来越烂了？](https://www.v2ex.com/t/864405) 
+- [2022-07-06-微信正在恶意涨价，影响数百万开发者。](https://www.v2ex.com/t/864400) 
+- [2022-07-06-apache-poi-这样的-excel-工具支持类似于-ws'A1'这样的填充方式吗？](https://www.v2ex.com/t/864399) 
+- [2022-07-06-全志开发板如何添加二进制到镜像中的/system/bin-下？](https://www.v2ex.com/t/864397) 
 - [2022-07-06-电脑桌用的灯有推荐么](https://www.v2ex.com/t/864393) 
 - [2022-07-06-请问想搭建一个私有云的-IM，有什么好的推荐吗](https://www.v2ex.com/t/864391) 
 - [2022-07-06-轻断食-18+8-第五天了，正常吃瘦了-2-斤，帖子长期记录。](https://www.v2ex.com/t/864388) 
@@ -28,15 +32,6 @@
 - [2022-07-06-关于-Mac-mini-外接音箱时不时出现爆音现象下](https://www.v2ex.com/t/864359) 
 - [2022-07-06-请问-macbook-air-扩展坞使用的正确姿势](https://www.v2ex.com/t/864358) 
 - [2022-07-06-关于美版机器-esim-问题](https://www.v2ex.com/t/864357) 
-- [2022-07-06-Anker-A8383-八合一扩展坞经常设备断连（电脑：-14-寸-M1-Pro）](https://www.v2ex.com/t/864356) 
-- [2022-07-06-坐标上海，空调风扇-是智商税-还是有作用？](https://www.v2ex.com/t/864355) 
-- [2022-07-06-带过项目的，进来说说你的项目有多少人，一个迭代中中，花在扯需求上的精力占用总项目精力的比例多少？](https://www.v2ex.com/t/864354) 
-- [2022-07-06-1.4T，探岳和途岳怎么选？](https://www.v2ex.com/t/864353) 
-- [2022-07-06-怎么让-baidu-收录网站](https://www.v2ex.com/t/864352) 
-- [2022-07-06-关于-itx-小主机希望了解的给出一点意见](https://www.v2ex.com/t/864351) 
-- [2022-07-06-请教关于难度与市场价](https://www.v2ex.com/t/864348) 
-- [2022-07-06-一个朋友发展问题请教](https://www.v2ex.com/t/864347) 
-- [2022-07-06-有什么能带来幸福和快乐的小事能做吗？](https://www.v2ex.com/t/864346) 
 - [2022-07-06-故事点-vs.-人天-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15213&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fagile-estimation-story-points-man-day%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-06-如何设计数据可视化平台-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15212&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-design-data-visualization-platform%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-06-你的代码会说话吗？（上）-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15211&url=https%3A%2F%2Finsights.thoughtworks.cn%2F%3Fp%3D16179%26amp%3Bpreview%3Dtrue%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -58,6 +53,6 @@
 - [2022-07-06-如何管理分布式团队？](https://toutiao.io/k/m8adr69) 
 - [2022-07-06-应用实践-|-蜀海供应链基于-Apache-Doris-的数据中台建设](https://toutiao.io/k/acnbqim) 
 - [2022-07-06-为什么有些人什么都不懂，老是喜欢教我做事？](https://toutiao.io/k/k6nfj0n) 
-- [2022-07-06-Observability之聊聊采样sampling场景和落地案例-下篇](https://toutiao.io/k/09gpxrf) 
 - [2022-07-06-并发编程的三大核心问题](https://toutiao.io/k/c2obbn2) 
+- [2022-07-06-Observability之聊聊采样sampling场景和落地案例-下篇](https://toutiao.io/k/09gpxrf) 
 - [2022-07-06-推荐-吐血整理：一份不可多得的架构师图谱！](https://toutiao.io/k/ptp0ru2) 

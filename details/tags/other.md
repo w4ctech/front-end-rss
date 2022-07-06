@@ -1,12 +1,12 @@
-:alarm_clock: 更新时间: 2022-07-06 09:42:51。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-06 10:15:53。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
 
 
 
+- [2022-07-06-不同-app“监听”用户需求精准推送是怎么做到识别同一个用户的？](https://www.v2ex.com/t/864491) 
 - [2022-07-06-使用大功率充电头给小功率电器充电会有问题吗](https://www.v2ex.com/t/864490) 
-- [2022-07-06-北京：进入聚集场所的人员须接种疫苗](https://www.v2ex.com/t/864488) 
 - [2022-07-06-想学一门新语言，-go-和-Python-大家推荐哪个](https://www.v2ex.com/t/864486) 
 - [2022-07-06-白裙-想自建一个笔记](https://www.v2ex.com/t/864485) 
 - [2022-07-06-源码快速定位工具-source-ref](https://www.v2ex.com/t/864484) 
@@ -30,10 +30,6 @@
 - [2022-07-06-有没有待机时间长不易发烫的手机](https://www.v2ex.com/t/864450) 
 - [2022-07-06-为什么拉黑人，还能打进来电话](https://www.v2ex.com/t/864448) 
 - [2022-07-06-这个论坛，用户留言的红心在时间信息右边是怎么点的？为啥我没找到](https://www.v2ex.com/t/864446) 
-- [2022-07-06-surge-ios-出一个授权位](https://www.v2ex.com/t/864445) 
-- [2022-07-06-又想跳槽了，会不会被说太频繁？](https://www.v2ex.com/t/864444) 
-- [2022-07-06-拳击二也太硬核了](https://www.v2ex.com/t/864443) 
-- [2022-07-06-求摄影摄像，婚礼用](https://www.v2ex.com/t/864442) 
 - [2022-07-06-故事点-vs.-人天-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15213&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fagile-estimation-story-points-man-day%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-06-如何设计数据可视化平台-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15212&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-design-data-visualization-platform%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-06-你的代码会说话吗？（上）-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15211&url=https%3A%2F%2Finsights.thoughtworks.cn%2F%3Fp%3D16179%26amp%3Bpreview%3Dtrue%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-06 12:29:17。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-07-06 13:22:12。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,16 @@
 </summary>
 
 
+- [【V2EX】2022-07-06-经济好像真的不景气，转岗的，拿-N+1-的，缩编！](https://www.v2ex.com/t/864528) 
+- [【V2EX】2022-07-06-配备-M2-芯片的-Macbook-Air-将于-7-月-8-日晚-8-点接受订购](https://www.v2ex.com/t/864527) 
+- [【V2EX】2022-07-06-走还是留还请老哥们给点意见](https://www.v2ex.com/t/864526) 
+- [【V2EX】2022-07-06-请问我的子域名-CNAME-到了阿里企业邮箱域名，但是使用-https-访问我的子域名会报连接不安全，要怎么配置？](https://www.v2ex.com/t/864525) 
+- [【V2EX】2022-07-06-Android10-定制-系统级-app-无法正确执行二进制文件](https://www.v2ex.com/t/864524) 
+- [【V2EX】2022-07-06-怎么不去喜欢一个人？](https://www.v2ex.com/t/864522) 
+- [【V2EX】2022-07-06-经常看代码中出现-drain-这个词，比如-buffer_drain，不知道这个是啥意思](https://www.v2ex.com/t/864521) 
+- [【V2EX】2022-07-06-自己上班像吃-shi，还得硬塞同事怎么办](https://www.v2ex.com/t/864520) 
+- [【V2EX】2022-07-06-如何开发一款自己的-PDF-阅读器](https://www.v2ex.com/t/864519) 
+- [【V2EX】2022-07-06-还是乱码，怎么解决](https://www.v2ex.com/t/864518) 
 - [【V2EX】2022-07-06-魁拔团队是跑路了吗？](https://www.v2ex.com/t/864516) 
 - [【V2EX】2022-07-06-已经是-copilot-的形状了](https://www.v2ex.com/t/864515) 
 - [【V2EX】2022-07-06-IPv6-的-IPv4-映射地址是否真的有安全问题？](https://www.v2ex.com/t/864514) 
@@ -103,16 +113,6 @@
 - [【V2EX】2022-07-06-请推荐一个-Win7-里的截图识别-QR-码的小软件，绿色](https://www.v2ex.com/t/864481) 
 - [【V2EX】2022-07-06-iOS-bug-分享](https://www.v2ex.com/t/864480) 
 - [【V2EX】2022-07-06-软件测试规范？](https://www.v2ex.com/t/864479) 
-- [【V2EX】2022-07-06-MAC-OS-MAIL-无法正常使用图片签名只能放弃？](https://www.v2ex.com/t/864478) 
-- [【V2EX】2022-07-06-vim-roadmap](https://www.v2ex.com/t/864476) 
-- [【V2EX】2022-07-06-壁挂空调房间如何自动换气？](https://www.v2ex.com/t/864475) 
-- [【V2EX】2022-07-06-感谢-Google-chrome-扩展商店的认可，无追不追踪用户，还会阻止别人追踪你](https://www.v2ex.com/t/864474) 
-- [【V2EX】2022-07-06-v2ex-qitta-绿色活泼主题样式，支持亮色与暗色🌙☀️。](https://www.v2ex.com/t/864473) 
-- [【V2EX】2022-07-06-有什么酒庄或酒商的波特酒推荐一下？](https://www.v2ex.com/t/864472) 
-- [【V2EX】2022-07-06-docker-无法把新-run-的容器端口写入-iptables](https://www.v2ex.com/t/864471) 
-- [【V2EX】2022-07-06-.NET-周刊](https://www.v2ex.com/t/864470) 
-- [【V2EX】2022-07-06-为什么浏览器上，知乎经常显示“出了一点问题”？](https://www.v2ex.com/t/864469) 
-- [【V2EX】2022-07-06-搞一个-Apple-Fitness+的-iMessage-群，大家交流交流吧](https://www.v2ex.com/t/864468) 
 - [【技术头条】2022-07-06-Thoughtworks-全球CTO：按需求构建架构，过度工程只会“劳民伤财”-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15214&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftechnology-radar-rebecca-interview%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-06-故事点-vs.-人天-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15213&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fagile-estimation-story-points-man-day%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-06-如何设计数据可视化平台-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15212&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-design-data-visualization-platform%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -143,11 +143,11 @@
 - [【开发者头条】2022-07-06-并发编程的三大核心问题](https://toutiao.io/k/c2obbn2) 
 - [【开发者头条】2022-07-06-应用实践-|-蜀海供应链基于-Apache-Doris-的数据中台建设](https://toutiao.io/k/acnbqim) 
 - [【开发者头条】2022-07-06-从0到1建设智能灰度数据体系：以vivo游戏中心为例](https://toutiao.io/k/q77o28w) 
+- [【开发者头条】2022-07-06-HTTP-3.0彻底放弃TCP，TCP到底做错了什么？](https://toutiao.io/k/jyxu22s) 
 - [【开发者头条】2022-07-06-使用-Tomcat-+-Nginx-实现负载均衡](https://toutiao.io/k/uzah19e) 
 - [【开发者头条】2022-07-06-使用-JavaScript-阻止屏幕进入睡眠状态](https://toutiao.io/k/wexal8k) 
-- [【开发者头条】2022-07-06-Observability之聊聊采样sampling场景和落地案例-下篇](https://toutiao.io/k/09gpxrf) 
-- [【开发者头条】2022-07-06-HTTP-3.0彻底放弃TCP，TCP到底做错了什么？](https://toutiao.io/k/jyxu22s) 
 - [【开发者头条】2022-07-06-企业实战｜复杂业务关系下的银行业运维指标体系建设](https://toutiao.io/k/lq8v3ey) 
+- [【开发者头条】2022-07-06-Observability之聊聊采样sampling场景和落地案例-下篇](https://toutiao.io/k/09gpxrf) 
 - [【开发者头条】2022-07-06-王垠：对-Go-语言的综合评价](https://toutiao.io/k/torm2bw) 
 - [【开发者头条】2022-07-06-一大波开源小抄来袭](https://toutiao.io/k/00n2h3b) 
 - [【开发者头条】2022-07-06-TLA+-入门教程（2）：一个简单的例子](https://toutiao.io/k/rqwsblt) 

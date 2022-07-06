@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-07-06 01:12:09，:rocket: 更新条数: +77， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-07-06 03:34:16，:rocket: 更新条数: +83， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -471,26 +471,26 @@
 </summary>
 
 
-- [2022-07-06-安卓端共享桌面，企业微信和钉钉哪个比较好用？](https://www.v2ex.com/t/864344) ![](assets/new.png)  
-- [2022-07-06-吐槽贴-怎么会有人不喜欢安静的办公环境呢?](https://www.v2ex.com/t/864343) ![](assets/new.png)  
-- [2022-07-06-求推荐一款千元内的入门级硬盘柜](https://www.v2ex.com/t/864342) ![](assets/new.png)  
-- [2022-07-06-海外工具类产品深度分析-#2](https://www.v2ex.com/t/864341) ![](assets/new.png)  
-- [2022-07-06-淘宝-咸鱼打着企业激活版的名义卖破解-pd虚拟机](https://www.v2ex.com/t/864340) ![](assets/new.png)  
-- [2022-07-06-招聘的时候是如何快速筛选简历的](https://www.v2ex.com/t/864338) ![](assets/new.png)  
-- [2022-07-06-有没有什么简单的能用-js-开发安卓应用并能收发原生广播的东西么](https://www.v2ex.com/t/864336) ![](assets/new.png)  
-- [2022-07-06-色弱换驾驶证好麻烦](https://www.v2ex.com/t/864335) ![](assets/new.png)  
-- [2022-07-06-如何找到打开小程序的快捷指令？](https://www.v2ex.com/t/864333) ![](assets/new.png)  
-- [2022-07-05-百度网盘的性能问题？](https://www.v2ex.com/t/864331) ![](assets/new.png)  
-- [2022-07-05-随身-wifi-断流严重怎么回事？](https://www.v2ex.com/t/864330) ![](assets/new.png)  
-- [2022-07-05-你享受单身的日子，还能坚持多久？](https://www.v2ex.com/t/864329) ![](assets/new.png)  
-- [2022-07-05-微信小程序-字体在安卓机，浏览器，开发者工具都能显示，唯独苹果](https://www.v2ex.com/t/864328) ![](assets/new.png)  
-- [2022-07-05-有没有双-USB-type-C-显示器输出-+-65W-充电的-hub](https://www.v2ex.com/t/864327) ![](assets/new.png)  
-- [2022-07-05-Go-语言---泛型实战](https://www.v2ex.com/t/864326) ![](assets/new.png)  
-- [2022-07-05-又有一个坑了，远程工作，自研公司非外包，我直招！-Vue+Node！](https://www.v2ex.com/t/864325) ![](assets/new.png)  
-- [2022-07-05-上海电信-v4-公网的网段变了](https://www.v2ex.com/t/864324) ![](assets/new.png)  
-- [2022-07-05-LeetCode-有史以来最简单的题目](https://www.v2ex.com/t/864323) ![](assets/new.png)  
-- [2022-07-05-EasyMosdns-让-mosdns-开箱即用-附-DoH](https://www.v2ex.com/t/864322) ![](assets/new.png)  
-- [2022-07-05-有没有人遇到过-Mission-Control-随机无效的问题?](https://www.v2ex.com/t/864321) ![](assets/new.png)  
+- [2022-07-06-电脑桌用的灯有推荐么](https://www.v2ex.com/t/864393) ![](assets/new.png)  
+- [2022-07-06-IDEA-有没有基于-Git-commit-的覆盖率检测标记插件？](https://www.v2ex.com/t/864392) ![](assets/new.png)  
+- [2022-07-06-请问想搭建一个私有云的-IM，有什么好的推荐吗](https://www.v2ex.com/t/864391) ![](assets/new.png)  
+- [2022-07-06-没明白-fscapture-的滚动截图的自定义滚动模式怎么用的？](https://www.v2ex.com/t/864390) ![](assets/new.png)  
+- [2022-07-06-轻断食-18+8-第五天了，正常吃瘦了-2-斤，帖子长期记录。](https://www.v2ex.com/t/864388) ![](assets/new.png)  
+- [2022-07-06-主用美区无故-appleID-App-Store-被锁](https://www.v2ex.com/t/864387) ![](assets/new.png)  
+- [2022-07-06-Mac-远程操控软件求推荐](https://www.v2ex.com/t/864381) ![](assets/new.png)  
+- [2022-07-06-搬瓦工-19.9-vps-转让](https://www.v2ex.com/t/864380) ![](assets/new.png)  
+- [2022-07-06-有什么输入中英文提示软件吗?](https://www.v2ex.com/t/864379) ![](assets/new.png)  
+- [2022-07-06-大家常用的学习网站有哪些？](https://www.v2ex.com/t/864378) ![](assets/new.png)  
+- [2022-07-06-写了一篇文章系统的梳理了下事务的隔离级别，希望能对初学者有所帮助](https://www.v2ex.com/t/864377) ![](assets/new.png)  
+- [2022-07-06-v-友们，知道在深圳有什么办法给摩托车上牌吗？](https://www.v2ex.com/t/864376) ![](assets/new.png)  
+- [2022-07-06-我终于找到了理想型-87-键薄膜剪刀脚键盘](https://www.v2ex.com/t/864375) ![](assets/new.png)  
+- [2022-07-06-网站开发后端工程师（影视类、视频网站）：年薪-30w-起步，单休，远程工作：](https://www.v2ex.com/t/864374) ![](assets/new.png)  
+- [2022-07-06-工作后最后悔的就是大学没考个研究生](https://www.v2ex.com/t/864373) ![](assets/new.png)  
+- [2022-07-06-程序员们，你们有走-PDCA-循环吗？帮忙给个建议](https://www.v2ex.com/t/864371) ![](assets/new.png)  
+- [2022-07-06-Jellyfin-独立显卡解码-Nvidia-显卡推荐](https://www.v2ex.com/t/864370) ![](assets/new.png)  
+- [2022-07-06-说起程序员这份工作我想起了旧金山淘金者](https://www.v2ex.com/t/864369) ![](assets/new.png)  
+- [2022-07-06-小白求助：招待朋友-200-元以内有什么干红葡萄酒推荐？罗斯柴尔？吉林通化？张裕？长城？内蒙古乌海葡萄酒？附具体酒名发感谢。](https://www.v2ex.com/t/864368) ![](assets/new.png)  
+- [2022-07-06-Studio-Display-在-Windows-下有没有什么解决方案？](https://www.v2ex.com/t/864366) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -533,16 +533,21 @@
 </summary>
 
 
-- [2022-07-06-Spring框架详解---SpringMVC处理请求的原理分析](https://toutiao.io/k/5rid6le) ![](assets/new.png)  
 - [2022-07-06-离线安装-Kubernetes-1.18.3-版本，万字教程，企业级部署！](https://toutiao.io/k/ey91eet) ![](assets/new.png)  
+- [2022-07-06-Spring框架详解---SpringMVC处理请求的原理分析](https://toutiao.io/k/5rid6le) ![](assets/new.png)  
 - [2022-07-06-阿里前端智能化技术探索和未来思考](https://toutiao.io/k/ivrddev) ![](assets/new.png)  
 - [2022-07-06-如何管理分布式团队？](https://toutiao.io/k/m8adr69) ![](assets/new.png)  
-- [2022-07-06-从0到1建设智能灰度数据体系：以vivo游戏中心为例](https://toutiao.io/k/q77o28w) ![](assets/new.png)  
 - [2022-07-06-应用实践-|-蜀海供应链基于-Apache-Doris-的数据中台建设](https://toutiao.io/k/acnbqim) ![](assets/new.png)  
 - [2022-07-06-为什么有些人什么都不懂，老是喜欢教我做事？](https://toutiao.io/k/k6nfj0n) ![](assets/new.png)  
+- [2022-07-06-从0到1建设智能灰度数据体系：以vivo游戏中心为例](https://toutiao.io/k/q77o28w) ![](assets/new.png)  
 - [2022-07-06-基于Packer+Ansible实现云平台黄金镜像统一构建和发布](https://toutiao.io/k/bqo29jv) ![](assets/new.png)  
-- [2022-07-06-推荐-3000帧动画图解MySQL为什么需要binlog、redo-log和undo-log](https://toutiao.io/k/b0g4460) ![](assets/new.png)  
+- [2022-07-06-go-zero微服务实战系列（九、极致优化秒杀性能）](https://toutiao.io/k/514moei) ![](assets/new.png)  
+- [2022-07-06-Observability之聊聊采样sampling场景和落地案例-下篇](https://toutiao.io/k/09gpxrf) ![](assets/new.png)  
+- [2022-07-06-使用-Tomcat-+-Nginx-实现负载均衡](https://toutiao.io/k/uzah19e) ![](assets/new.png)  
+- [2022-07-06-使用-JavaScript-阻止屏幕进入睡眠状态](https://toutiao.io/k/wexal8k) ![](assets/new.png)  
+- [2022-07-06-并发编程的三大核心问题](https://toutiao.io/k/c2obbn2) ![](assets/new.png)  
 - [2022-07-06-推荐-吐血整理：一份不可多得的架构师图谱！](https://toutiao.io/k/ptp0ru2) ![](assets/new.png)  
+- [2022-07-06-推荐-3000帧动画图解MySQL为什么需要binlog、redo-log和undo-log](https://toutiao.io/k/b0g4460) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

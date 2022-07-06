@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-06 09:24:22。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-07-06 09:42:51。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -32,6 +32,12 @@
 </summary>
 
 
+- [【V2EX】2022-07-06-使用大功率充电头给小功率电器充电会有问题吗](https://www.v2ex.com/t/864490) 
+- [【V2EX】2022-07-06-遇见这种-Git-警告应该怎么解决？](https://www.v2ex.com/t/864489) 
+- [【V2EX】2022-07-06-北京：进入聚集场所的人员须接种疫苗](https://www.v2ex.com/t/864488) 
+- [【V2EX】2022-07-06-华硕-GT-AX11000-路由器怎么样？](https://www.v2ex.com/t/864487) 
+- [【V2EX】2022-07-06-想学一门新语言，-go-和-Python-大家推荐哪个](https://www.v2ex.com/t/864486) 
+- [【V2EX】2022-07-06-白裙-想自建一个笔记](https://www.v2ex.com/t/864485) 
 - [【V2EX】2022-07-06-源码快速定位工具-source-ref](https://www.v2ex.com/t/864484) 
 - [【V2EX】2022-07-06-gitw---Git-命令包装器，生成-git-变更记录日志，获取-repo-信息和一些-git-命令工具](https://www.v2ex.com/t/864483) 
 - [【V2EX】2022-07-06-Python-加入类型注解后，父类到子类的强制转换怎么处理？](https://www.v2ex.com/t/864482) 
@@ -64,10 +70,6 @@
 - [【V2EX】2022-07-06-又想跳槽了，会不会被说太频繁？](https://www.v2ex.com/t/864444) 
 - [【V2EX】2022-07-06-拳击二也太硬核了](https://www.v2ex.com/t/864443) 
 - [【V2EX】2022-07-06-求摄影摄像，婚礼用](https://www.v2ex.com/t/864442) 
-- [【V2EX】2022-07-06-想装个-Linux-主机放在家里当-nas,-有什么便宜主机推荐?](https://www.v2ex.com/t/864440) 
-- [【V2EX】2022-07-06-上海电信测速问题](https://www.v2ex.com/t/864439) 
-- [【V2EX】2022-07-06-抽奖赠-3-本《-Python-编程轻松进阶》](https://www.v2ex.com/t/864437) 
-- [【V2EX】2022-07-06-和老婆吵架后](https://www.v2ex.com/t/864435) 
 - [【技术头条】2022-07-06-Thoughtworks-全球CTO：按需求构建架构，过度工程只会“劳民伤财”-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15214&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftechnology-radar-rebecca-interview%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-06-故事点-vs.-人天-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15213&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fagile-estimation-story-points-man-day%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-06-如何设计数据可视化平台-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15212&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-design-data-visualization-platform%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -102,8 +104,8 @@
 - [【开发者头条】2022-07-06-使用-Tomcat-+-Nginx-实现负载均衡](https://toutiao.io/k/uzah19e) 
 - [【开发者头条】2022-07-06-Observability之聊聊采样sampling场景和落地案例-下篇](https://toutiao.io/k/09gpxrf) 
 - [【开发者头条】2022-07-06-企业实战｜复杂业务关系下的银行业运维指标体系建设](https://toutiao.io/k/lq8v3ey) 
-- [【开发者头条】2022-07-06-王垠：对-Go-语言的综合评价](https://toutiao.io/k/torm2bw) 
 - [【开发者头条】2022-07-06-HTTP-3.0彻底放弃TCP，TCP到底做错了什么？](https://toutiao.io/k/jyxu22s) 
+- [【开发者头条】2022-07-06-王垠：对-Go-语言的综合评价](https://toutiao.io/k/torm2bw) 
 - [【开发者头条】2022-07-06-一大波开源小抄来袭](https://toutiao.io/k/00n2h3b) 
 - [【开发者头条】2022-07-06-TLA+-入门教程（2）：一个简单的例子](https://toutiao.io/k/rqwsblt) 
 - [【开发者头条】2022-07-06-为什么我们需要-Hive-Metastore！](https://toutiao.io/k/6nz8a93) 

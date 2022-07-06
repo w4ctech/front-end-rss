@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-06 06:17:24。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-07-06 06:48:39。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -32,6 +32,14 @@
 </summary>
 
 
+- [【V2EX】2022-07-06-说起程序员这份工作我想起了古代太监宫女](https://www.v2ex.com/t/864438) 
+- [【V2EX】2022-07-06-抽奖赠-3-本《-Python-编程轻松进阶》](https://www.v2ex.com/t/864437) 
+- [【V2EX】2022-07-06-和老婆吵架后](https://www.v2ex.com/t/864435) 
+- [【V2EX】2022-07-06-淘宝-iPhone-第三方的-magsafe-充电套装可靠不?](https://www.v2ex.com/t/864434) 
+- [【V2EX】2022-07-06-PR-渲染机器缝合怪，独显快还是纯-CPU-快？](https://www.v2ex.com/t/864432) 
+- [【V2EX】2022-07-06-Bun-发布了-beta-版本:-Bun-is-a-fast-all-in-one-JavaScript-runtime](https://www.v2ex.com/t/864431) 
+- [【V2EX】2022-07-06-macOS-13-登陆项添加通知提醒到崩溃](https://www.v2ex.com/t/864430) 
+- [【V2EX】2022-07-06-今年-35-岁，刚被-HR-叫去，你的部门领导不同意续签合同，赔偿你-3-个月工资总共-1-万多](https://www.v2ex.com/t/864429) 
 - [【V2EX】2022-07-06-锐龙所有-cpu-都发热严重么，这个笔记本-r75800h，有时候突然九十七八度，最高能到-102-度，有点吓人啊](https://www.v2ex.com/t/864426) 
 - [【V2EX】2022-07-06-话说那四个薛定谔的唐山女生有人知道后续吗?](https://www.v2ex.com/t/864425) 
 - [【V2EX】2022-07-06-全程工作在虚拟机环境下是否可行？](https://www.v2ex.com/t/864424) 
@@ -61,12 +69,6 @@
 - [【V2EX】2022-07-06-IDEA-有没有基于-Git-commit-的覆盖率检测标记插件？](https://www.v2ex.com/t/864392) 
 - [【V2EX】2022-07-06-请问想搭建一个私有云的-IM，有什么好的推荐吗](https://www.v2ex.com/t/864391) 
 - [【V2EX】2022-07-06-没明白-fscapture-的滚动截图的自定义滚动模式怎么用的？](https://www.v2ex.com/t/864390) 
-- [【V2EX】2022-07-06-轻断食-18+8-第五天了，正常吃瘦了-2-斤，帖子长期记录。](https://www.v2ex.com/t/864388) 
-- [【V2EX】2022-07-06-主用美区无故-appleID-App-Store-被锁](https://www.v2ex.com/t/864387) 
-- [【V2EX】2022-07-06-Mac-远程操控软件求推荐](https://www.v2ex.com/t/864381) 
-- [【V2EX】2022-07-06-搬瓦工-19.9-vps-转让](https://www.v2ex.com/t/864380) 
-- [【V2EX】2022-07-06-有什么输入中英文提示软件吗?](https://www.v2ex.com/t/864379) 
-- [【V2EX】2022-07-06-大家常用的学习网站有哪些？](https://www.v2ex.com/t/864378) 
 - [【技术头条】2022-07-06-Thoughtworks-全球CTO：按需求构建架构，过度工程只会“劳民伤财”-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15214&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftechnology-radar-rebecca-interview%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-06-故事点-vs.-人天-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15213&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fagile-estimation-story-points-man-day%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-06-如何设计数据可视化平台-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15212&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-design-data-visualization-platform%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -90,24 +92,24 @@
 - [【开发者头条】2022-07-06-离线安装-Kubernetes-1.18.3-版本，万字教程，企业级部署！](https://toutiao.io/k/ey91eet) 
 - [【开发者头条】2022-07-06-Spring框架详解---SpringMVC处理请求的原理分析](https://toutiao.io/k/5rid6le) 
 - [【开发者头条】2022-07-06-阿里前端智能化技术探索和未来思考](https://toutiao.io/k/ivrddev) 
-- [【开发者头条】2022-07-06-如何管理分布式团队？](https://toutiao.io/k/m8adr69) 
 - [【开发者头条】2022-07-06-基于Packer+Ansible实现云平台黄金镜像统一构建和发布](https://toutiao.io/k/bqo29jv) 
+- [【开发者头条】2022-07-06-如何管理分布式团队？](https://toutiao.io/k/m8adr69) 
 - [【开发者头条】2022-07-06-为什么有些人什么都不懂，老是喜欢教我做事？](https://toutiao.io/k/k6nfj0n) 
 - [【开发者头条】2022-07-06-应用实践-|-蜀海供应链基于-Apache-Doris-的数据中台建设](https://toutiao.io/k/acnbqim) 
 - [【开发者头条】2022-07-06-从0到1建设智能灰度数据体系：以vivo游戏中心为例](https://toutiao.io/k/q77o28w) 
 - [【开发者头条】2022-07-06-go-zero微服务实战系列（九、极致优化秒杀性能）](https://toutiao.io/k/514moei) 
 - [【开发者头条】2022-07-06-并发编程的三大核心问题](https://toutiao.io/k/c2obbn2) 
 - [【开发者头条】2022-07-06-使用-Tomcat-+-Nginx-实现负载均衡](https://toutiao.io/k/uzah19e) 
-- [【开发者头条】2022-07-06-Observability之聊聊采样sampling场景和落地案例-下篇](https://toutiao.io/k/09gpxrf) 
 - [【开发者头条】2022-07-06-使用-JavaScript-阻止屏幕进入睡眠状态](https://toutiao.io/k/wexal8k) 
+- [【开发者头条】2022-07-06-Observability之聊聊采样sampling场景和落地案例-下篇](https://toutiao.io/k/09gpxrf) 
 - [【开发者头条】2022-07-06-企业实战｜复杂业务关系下的银行业运维指标体系建设](https://toutiao.io/k/lq8v3ey) 
-- [【开发者头条】2022-07-06-HTTP-3.0彻底放弃TCP，TCP到底做错了什么？](https://toutiao.io/k/jyxu22s) 
 - [【开发者头条】2022-07-06-王垠：对-Go-语言的综合评价](https://toutiao.io/k/torm2bw) 
+- [【开发者头条】2022-07-06-HTTP-3.0彻底放弃TCP，TCP到底做错了什么？](https://toutiao.io/k/jyxu22s) 
 - [【开发者头条】2022-07-06-一大波开源小抄来袭](https://toutiao.io/k/00n2h3b) 
 - [【开发者头条】2022-07-06-TLA+-入门教程（2）：一个简单的例子](https://toutiao.io/k/rqwsblt) 
 - [【开发者头条】2022-07-06-为什么我们需要-Hive-Metastore！](https://toutiao.io/k/6nz8a93) 
-- [【开发者头条】2022-07-06-推荐-3000帧动画图解MySQL为什么需要binlog、redo-log和undo-log](https://toutiao.io/k/b0g4460) 
 - [【开发者头条】2022-07-06-推荐-吐血整理：一份不可多得的架构师图谱！](https://toutiao.io/k/ptp0ru2) 
+- [【开发者头条】2022-07-06-推荐-3000帧动画图解MySQL为什么需要binlog、redo-log和undo-log](https://toutiao.io/k/b0g4460) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

@@ -1,10 +1,16 @@
-:alarm_clock: 更新时间: 2022-07-06 06:17:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-06 06:48:39。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
 
 
 
+- [2022-07-06-说起程序员这份工作我想起了古代太监宫女](https://www.v2ex.com/t/864438) 
+- [2022-07-06-抽奖赠-3-本《-Python-编程轻松进阶》](https://www.v2ex.com/t/864437) 
+- [2022-07-06-和老婆吵架后](https://www.v2ex.com/t/864435) 
+- [2022-07-06-淘宝-iPhone-第三方的-magsafe-充电套装可靠不?](https://www.v2ex.com/t/864434) 
+- [2022-07-06-macOS-13-登陆项添加通知提醒到崩溃](https://www.v2ex.com/t/864430) 
+- [2022-07-06-今年-35-岁，刚被-HR-叫去，你的部门领导不同意续签合同，赔偿你-3-个月工资总共-1-万多](https://www.v2ex.com/t/864429) 
 - [2022-07-06-锐龙所有-cpu-都发热严重么，这个笔记本-r75800h，有时候突然九十七八度，最高能到-102-度，有点吓人啊](https://www.v2ex.com/t/864426) 
 - [2022-07-06-话说那四个薛定谔的唐山女生有人知道后续吗?](https://www.v2ex.com/t/864425) 
 - [2022-07-06-全程工作在虚拟机环境下是否可行？](https://www.v2ex.com/t/864424) 
@@ -23,12 +29,6 @@
 - [2022-07-06-全志开发板如何添加二进制到镜像中的/system/bin-下？](https://www.v2ex.com/t/864397) 
 - [2022-07-06-电脑桌用的灯有推荐么](https://www.v2ex.com/t/864393) 
 - [2022-07-06-请问想搭建一个私有云的-IM，有什么好的推荐吗](https://www.v2ex.com/t/864391) 
-- [2022-07-06-轻断食-18+8-第五天了，正常吃瘦了-2-斤，帖子长期记录。](https://www.v2ex.com/t/864388) 
-- [2022-07-06-主用美区无故-appleID-App-Store-被锁](https://www.v2ex.com/t/864387) 
-- [2022-07-06-Mac-远程操控软件求推荐](https://www.v2ex.com/t/864381) 
-- [2022-07-06-搬瓦工-19.9-vps-转让](https://www.v2ex.com/t/864380) 
-- [2022-07-06-有什么输入中英文提示软件吗?](https://www.v2ex.com/t/864379) 
-- [2022-07-06-大家常用的学习网站有哪些？](https://www.v2ex.com/t/864378) 
 - [2022-07-06-故事点-vs.-人天-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15213&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fagile-estimation-story-points-man-day%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-06-如何设计数据可视化平台-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15212&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-design-data-visualization-platform%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-06-你的代码会说话吗？（上）-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15211&url=https%3A%2F%2Finsights.thoughtworks.cn%2F%3Fp%3D16179%26amp%3Bpreview%3Dtrue%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

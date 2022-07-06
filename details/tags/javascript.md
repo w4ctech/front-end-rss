@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-06 06:17:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-06 06:48:39。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -13,6 +13,7 @@
 - [2022-05-11-JS与条形码的生成](https://www.zhangxinxu.com/wordpress/2022/05/js-barcode/) 
 - [2022-04-30-深入-JS-new-Function-语法](https://www.zhangxinxu.com/wordpress/2022/04/js-new-function/) 
 - [2022-04-27-小tips:-JS字体加载失败或完毕的检测](https://www.zhangxinxu.com/wordpress/2022/04/js-font-face-load/) 
+- [2022-07-06-Bun-发布了-beta-版本:-Bun-is-a-fast-all-in-one-JavaScript-runtime](https://www.v2ex.com/t/864431) 
 - [2022-07-06-有没有正则需要转义，能自动完成转义的工具或者在线网站？](https://www.v2ex.com/t/864406) 
 - [2022-07-06-没明白-fscapture-的滚动截图的自定义滚动模式怎么用的？](https://www.v2ex.com/t/864390) 
 - [2022-07-06-如何实现页面刷新后不定位到之前的滚动位置？-www.zhangxinxu.com](https://blogread.cn/news/go.php?idItem=15195&url=https%3A%2F%2Fwww.zhangxinxu.com%2Fwordpress%2F2022%2F05%2Fhistory-scrollrestoration%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

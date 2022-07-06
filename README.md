@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-07-06 06:17:24，:rocket: 更新条数: +86， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-07-06 06:48:39，:rocket: 更新条数: +88， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -471,6 +471,14 @@
 </summary>
 
 
+- [2022-07-06-说起程序员这份工作我想起了古代太监宫女](https://www.v2ex.com/t/864438) ![](assets/new.png)  
+- [2022-07-06-抽奖赠-3-本《-Python-编程轻松进阶》](https://www.v2ex.com/t/864437) ![](assets/new.png)  
+- [2022-07-06-和老婆吵架后](https://www.v2ex.com/t/864435) ![](assets/new.png)  
+- [2022-07-06-淘宝-iPhone-第三方的-magsafe-充电套装可靠不?](https://www.v2ex.com/t/864434) ![](assets/new.png)  
+- [2022-07-06-PR-渲染机器缝合怪，独显快还是纯-CPU-快？](https://www.v2ex.com/t/864432) ![](assets/new.png)  
+- [2022-07-06-Bun-发布了-beta-版本:-Bun-is-a-fast-all-in-one-JavaScript-runtime](https://www.v2ex.com/t/864431) ![](assets/new.png)  
+- [2022-07-06-macOS-13-登陆项添加通知提醒到崩溃](https://www.v2ex.com/t/864430) ![](assets/new.png)  
+- [2022-07-06-今年-35-岁，刚被-HR-叫去，你的部门领导不同意续签合同，赔偿你-3-个月工资总共-1-万多](https://www.v2ex.com/t/864429) ![](assets/new.png)  
 - [2022-07-06-锐龙所有-cpu-都发热严重么，这个笔记本-r75800h，有时候突然九十七八度，最高能到-102-度，有点吓人啊](https://www.v2ex.com/t/864426) ![](assets/new.png)  
 - [2022-07-06-话说那四个薛定谔的唐山女生有人知道后续吗?](https://www.v2ex.com/t/864425) ![](assets/new.png)  
 - [2022-07-06-全程工作在虚拟机环境下是否可行？](https://www.v2ex.com/t/864424) ![](assets/new.png)  
@@ -483,14 +491,6 @@
 - [2022-07-06-Windows-上有没有办法自动安装.net-framework，双击后自动安装，不用点下一步?](https://www.v2ex.com/t/864415) ![](assets/new.png)  
 - [2022-07-06-从上海换工作到杭州的问题](https://www.v2ex.com/t/864414) ![](assets/new.png)  
 - [2022-07-06-大家往-NAS-里面下载了哪些东西？](https://www.v2ex.com/t/864413) ![](assets/new.png)  
-- [2022-07-06-我是推广，有没愿意一起做棋牌类游戏的大神](https://www.v2ex.com/t/864412) ![](assets/new.png)  
-- [2022-07-06-网络通讯大师请进来](https://www.v2ex.com/t/864411) ![](assets/new.png)  
-- [2022-07-06-es数据分页方案](https://www.v2ex.com/t/864410) ![](assets/new.png)  
-- [2022-07-06-请教老哥们，有哪个工具软件可以模拟多节点网络收发？可以灵活编辑收发逻辑的那种。](https://www.v2ex.com/t/864409) ![](assets/new.png)  
-- [2022-07-06-有没有做-go-智能合约的大佬-求带](https://www.v2ex.com/t/864408) ![](assets/new.png)  
-- [2022-07-06-有没有正则需要转义，能自动完成转义的工具或者在线网站？](https://www.v2ex.com/t/864406) ![](assets/new.png)  
-- [2022-07-06-是-iOS-后台管理机制退步了还是现在的程序写得越来越烂了？](https://www.v2ex.com/t/864405) ![](assets/new.png)  
-- [2022-07-06-自如将全面更换实名门锁，与公安、房管实时连接，保障居住安全](https://www.v2ex.com/t/864402) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -536,23 +536,23 @@
 - [2022-07-06-离线安装-Kubernetes-1.18.3-版本，万字教程，企业级部署！](https://toutiao.io/k/ey91eet) ![](assets/new.png)  
 - [2022-07-06-Spring框架详解---SpringMVC处理请求的原理分析](https://toutiao.io/k/5rid6le) ![](assets/new.png)  
 - [2022-07-06-阿里前端智能化技术探索和未来思考](https://toutiao.io/k/ivrddev) ![](assets/new.png)  
-- [2022-07-06-如何管理分布式团队？](https://toutiao.io/k/m8adr69) ![](assets/new.png)  
 - [2022-07-06-基于Packer+Ansible实现云平台黄金镜像统一构建和发布](https://toutiao.io/k/bqo29jv) ![](assets/new.png)  
+- [2022-07-06-如何管理分布式团队？](https://toutiao.io/k/m8adr69) ![](assets/new.png)  
 - [2022-07-06-为什么有些人什么都不懂，老是喜欢教我做事？](https://toutiao.io/k/k6nfj0n) ![](assets/new.png)  
 - [2022-07-06-应用实践-|-蜀海供应链基于-Apache-Doris-的数据中台建设](https://toutiao.io/k/acnbqim) ![](assets/new.png)  
 - [2022-07-06-从0到1建设智能灰度数据体系：以vivo游戏中心为例](https://toutiao.io/k/q77o28w) ![](assets/new.png)  
 - [2022-07-06-go-zero微服务实战系列（九、极致优化秒杀性能）](https://toutiao.io/k/514moei) ![](assets/new.png)  
 - [2022-07-06-并发编程的三大核心问题](https://toutiao.io/k/c2obbn2) ![](assets/new.png)  
 - [2022-07-06-使用-Tomcat-+-Nginx-实现负载均衡](https://toutiao.io/k/uzah19e) ![](assets/new.png)  
-- [2022-07-06-Observability之聊聊采样sampling场景和落地案例-下篇](https://toutiao.io/k/09gpxrf) ![](assets/new.png)  
 - [2022-07-06-使用-JavaScript-阻止屏幕进入睡眠状态](https://toutiao.io/k/wexal8k) ![](assets/new.png)  
+- [2022-07-06-Observability之聊聊采样sampling场景和落地案例-下篇](https://toutiao.io/k/09gpxrf) ![](assets/new.png)  
 - [2022-07-06-企业实战｜复杂业务关系下的银行业运维指标体系建设](https://toutiao.io/k/lq8v3ey) ![](assets/new.png)  
-- [2022-07-06-HTTP-3.0彻底放弃TCP，TCP到底做错了什么？](https://toutiao.io/k/jyxu22s) ![](assets/new.png)  
 - [2022-07-06-王垠：对-Go-语言的综合评价](https://toutiao.io/k/torm2bw) ![](assets/new.png)  
+- [2022-07-06-HTTP-3.0彻底放弃TCP，TCP到底做错了什么？](https://toutiao.io/k/jyxu22s) ![](assets/new.png)  
 - [2022-07-06-一大波开源小抄来袭](https://toutiao.io/k/00n2h3b) ![](assets/new.png)  
 - [2022-07-06-TLA+-入门教程（2）：一个简单的例子](https://toutiao.io/k/rqwsblt) ![](assets/new.png)  
 - [2022-07-06-为什么我们需要-Hive-Metastore！](https://toutiao.io/k/6nz8a93) ![](assets/new.png)  
-- [2022-07-06-推荐-3000帧动画图解MySQL为什么需要binlog、redo-log和undo-log](https://toutiao.io/k/b0g4460) ![](assets/new.png)  
+- [2022-07-06-推荐-吐血整理：一份不可多得的架构师图谱！](https://toutiao.io/k/ptp0ru2) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

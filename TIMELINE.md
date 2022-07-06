@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-06 08:46:29。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-07-06 09:24:22。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -32,6 +32,17 @@
 </summary>
 
 
+- [【V2EX】2022-07-06-源码快速定位工具-source-ref](https://www.v2ex.com/t/864484) 
+- [【V2EX】2022-07-06-gitw---Git-命令包装器，生成-git-变更记录日志，获取-repo-信息和一些-git-命令工具](https://www.v2ex.com/t/864483) 
+- [【V2EX】2022-07-06-Python-加入类型注解后，父类到子类的强制转换怎么处理？](https://www.v2ex.com/t/864482) 
+- [【V2EX】2022-07-06-请推荐一个-Win7-里的截图识别-QR-码的小软件，绿色](https://www.v2ex.com/t/864481) 
+- [【V2EX】2022-07-06-iOS-bug-分享](https://www.v2ex.com/t/864480) 
+- [【V2EX】2022-07-06-软件测试规范？](https://www.v2ex.com/t/864479) 
+- [【V2EX】2022-07-06-MAC-OS-MAIL-无法正常使用图片签名只能放弃？](https://www.v2ex.com/t/864478) 
+- [【V2EX】2022-07-06-vim-roadmap](https://www.v2ex.com/t/864476) 
+- [【V2EX】2022-07-06-壁挂空调房间如何自动换气？](https://www.v2ex.com/t/864475) 
+- [【V2EX】2022-07-06-感谢-Google-chrome-扩展商店的认可，无追不追踪用户，还会阻止别人追踪你](https://www.v2ex.com/t/864474) 
+- [【V2EX】2022-07-06-v2ex-qitta-绿色活泼主题样式，支持亮色与暗色🌙☀️。](https://www.v2ex.com/t/864473) 
 - [【V2EX】2022-07-06-有什么酒庄或酒商的波特酒推荐一下？](https://www.v2ex.com/t/864472) 
 - [【V2EX】2022-07-06-docker-无法把新-run-的容器端口写入-iptables](https://www.v2ex.com/t/864471) 
 - [【V2EX】2022-07-06-.NET-周刊](https://www.v2ex.com/t/864470) 
@@ -57,14 +68,6 @@
 - [【V2EX】2022-07-06-上海电信测速问题](https://www.v2ex.com/t/864439) 
 - [【V2EX】2022-07-06-抽奖赠-3-本《-Python-编程轻松进阶》](https://www.v2ex.com/t/864437) 
 - [【V2EX】2022-07-06-和老婆吵架后](https://www.v2ex.com/t/864435) 
-- [【V2EX】2022-07-06-淘宝-iPhone-第三方的-magsafe-充电套装可靠不?](https://www.v2ex.com/t/864434) 
-- [【V2EX】2022-07-06-PR-渲染机器缝合怪，独显快还是纯-CPU-快？](https://www.v2ex.com/t/864432) 
-- [【V2EX】2022-07-06-Bun-发布了-beta-版本:-Bun-is-a-fast-all-in-one-JavaScript-runtime](https://www.v2ex.com/t/864431) 
-- [【V2EX】2022-07-06-macOS-13-登陆项添加通知提醒到崩溃](https://www.v2ex.com/t/864430) 
-- [【V2EX】2022-07-06-今年-35-岁，刚被-HR-叫去，你的部门领导不同意续签合同，赔偿你-3-个月工资总共-1-万多](https://www.v2ex.com/t/864429) 
-- [【V2EX】2022-07-06-锐龙所有-cpu-都发热严重么，这个笔记本-r75800h，有时候突然九十七八度，最高能到-102-度，有点吓人啊](https://www.v2ex.com/t/864426) 
-- [【V2EX】2022-07-06-全程工作在虚拟机环境下是否可行？](https://www.v2ex.com/t/864424) 
-- [【V2EX】2022-07-06-gitpress-这么好用为什么网上这么悄声呢?](https://www.v2ex.com/t/864423) 
 - [【技术头条】2022-07-06-Thoughtworks-全球CTO：按需求构建架构，过度工程只会“劳民伤财”-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15214&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftechnology-radar-rebecca-interview%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-06-故事点-vs.-人天-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15213&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fagile-estimation-story-points-man-day%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-06-如何设计数据可视化平台-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15212&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-design-data-visualization-platform%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -95,8 +98,8 @@
 - [【开发者头条】2022-07-06-应用实践-|-蜀海供应链基于-Apache-Doris-的数据中台建设](https://toutiao.io/k/acnbqim) 
 - [【开发者头条】2022-07-06-从0到1建设智能灰度数据体系：以vivo游戏中心为例](https://toutiao.io/k/q77o28w) 
 - [【开发者头条】2022-07-06-并发编程的三大核心问题](https://toutiao.io/k/c2obbn2) 
-- [【开发者头条】2022-07-06-使用-Tomcat-+-Nginx-实现负载均衡](https://toutiao.io/k/uzah19e) 
 - [【开发者头条】2022-07-06-使用-JavaScript-阻止屏幕进入睡眠状态](https://toutiao.io/k/wexal8k) 
+- [【开发者头条】2022-07-06-使用-Tomcat-+-Nginx-实现负载均衡](https://toutiao.io/k/uzah19e) 
 - [【开发者头条】2022-07-06-Observability之聊聊采样sampling场景和落地案例-下篇](https://toutiao.io/k/09gpxrf) 
 - [【开发者头条】2022-07-06-企业实战｜复杂业务关系下的银行业运维指标体系建设](https://toutiao.io/k/lq8v3ey) 
 - [【开发者头条】2022-07-06-王垠：对-Go-语言的综合评价](https://toutiao.io/k/torm2bw) 
@@ -104,8 +107,8 @@
 - [【开发者头条】2022-07-06-一大波开源小抄来袭](https://toutiao.io/k/00n2h3b) 
 - [【开发者头条】2022-07-06-TLA+-入门教程（2）：一个简单的例子](https://toutiao.io/k/rqwsblt) 
 - [【开发者头条】2022-07-06-为什么我们需要-Hive-Metastore！](https://toutiao.io/k/6nz8a93) 
-- [【开发者头条】2022-07-06-推荐-吐血整理：一份不可多得的架构师图谱！](https://toutiao.io/k/ptp0ru2) 
 - [【开发者头条】2022-07-06-推荐-3000帧动画图解MySQL为什么需要binlog、redo-log和undo-log](https://toutiao.io/k/b0g4460) 
+- [【开发者头条】2022-07-06-推荐-吐血整理：一份不可多得的架构师图谱！](https://toutiao.io/k/ptp0ru2) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

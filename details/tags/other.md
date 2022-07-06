@@ -1,10 +1,15 @@
-:alarm_clock: 更新时间: 2022-07-06 05:46:47。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-06 06:17:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
 
 
 
+- [2022-07-06-锐龙所有-cpu-都发热严重么，这个笔记本-r75800h，有时候突然九十七八度，最高能到-102-度，有点吓人啊](https://www.v2ex.com/t/864426) 
+- [2022-07-06-话说那四个薛定谔的唐山女生有人知道后续吗?](https://www.v2ex.com/t/864425) 
+- [2022-07-06-全程工作在虚拟机环境下是否可行？](https://www.v2ex.com/t/864424) 
+- [2022-07-06-对于-nacos-和-apollo-的配置中心，客户端监听配置文件的下发是增量下发还是全量下发呢？](https://www.v2ex.com/t/864421) 
+- [2022-07-06-最近实在是崩溃，关于工作，关于职业规划](https://www.v2ex.com/t/864418) 
 - [2022-07-06-Windows-上有没有办法自动安装.net-framework，双击后自动安装，不用点下一步?](https://www.v2ex.com/t/864415) 
 - [2022-07-06-从上海换工作到杭州的问题](https://www.v2ex.com/t/864414) 
 - [2022-07-06-大家往-NAS-里面下载了哪些东西？](https://www.v2ex.com/t/864413) 
@@ -24,14 +29,6 @@
 - [2022-07-06-搬瓦工-19.9-vps-转让](https://www.v2ex.com/t/864380) 
 - [2022-07-06-有什么输入中英文提示软件吗?](https://www.v2ex.com/t/864379) 
 - [2022-07-06-大家常用的学习网站有哪些？](https://www.v2ex.com/t/864378) 
-- [2022-07-06-写了一篇文章系统的梳理了下事务的隔离级别，希望能对初学者有所帮助](https://www.v2ex.com/t/864377) 
-- [2022-07-06-v-友们，知道在深圳有什么办法给摩托车上牌吗？](https://www.v2ex.com/t/864376) 
-- [2022-07-06-我终于找到了理想型-87-键薄膜剪刀脚键盘](https://www.v2ex.com/t/864375) 
-- [2022-07-06-工作后最后悔的就是大学没考个研究生](https://www.v2ex.com/t/864373) 
-- [2022-07-06-程序员们，你们有走-PDCA-循环吗？帮忙给个建议](https://www.v2ex.com/t/864371) 
-- [2022-07-06-Jellyfin-独立显卡解码-Nvidia-显卡推荐](https://www.v2ex.com/t/864370) 
-- [2022-07-06-说起程序员这份工作我想起了旧金山淘金者](https://www.v2ex.com/t/864369) 
-- [2022-07-06-小白求助：招待朋友-200-元以内有什么干红葡萄酒推荐？罗斯柴尔？吉林通化？张裕？长城？内蒙古乌海葡萄酒？附具体酒名发感谢。](https://www.v2ex.com/t/864368) 
 - [2022-07-06-故事点-vs.-人天-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15213&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fagile-estimation-story-points-man-day%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-06-如何设计数据可视化平台-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15212&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-design-data-visualization-platform%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-06-你的代码会说话吗？（上）-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15211&url=https%3A%2F%2Finsights.thoughtworks.cn%2F%3Fp%3D16179%26amp%3Bpreview%3Dtrue%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -55,4 +52,8 @@
 - [2022-07-06-应用实践-|-蜀海供应链基于-Apache-Doris-的数据中台建设](https://toutiao.io/k/acnbqim) 
 - [2022-07-06-并发编程的三大核心问题](https://toutiao.io/k/c2obbn2) 
 - [2022-07-06-Observability之聊聊采样sampling场景和落地案例-下篇](https://toutiao.io/k/09gpxrf) 
+- [2022-07-06-企业实战｜复杂业务关系下的银行业运维指标体系建设](https://toutiao.io/k/lq8v3ey) 
+- [2022-07-06-王垠：对-Go-语言的综合评价](https://toutiao.io/k/torm2bw) 
+- [2022-07-06-一大波开源小抄来袭](https://toutiao.io/k/00n2h3b) 
+- [2022-07-06-TLA+-入门教程（2）：一个简单的例子](https://toutiao.io/k/rqwsblt) 
 - [2022-07-06-推荐-吐血整理：一份不可多得的架构师图谱！](https://toutiao.io/k/ptp0ru2) 

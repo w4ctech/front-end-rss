@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-07-06 05:46:47，:rocket: 更新条数: +81， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-07-06 06:17:24，:rocket: 更新条数: +86， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -471,6 +471,14 @@
 </summary>
 
 
+- [2022-07-06-锐龙所有-cpu-都发热严重么，这个笔记本-r75800h，有时候突然九十七八度，最高能到-102-度，有点吓人啊](https://www.v2ex.com/t/864426) ![](assets/new.png)  
+- [2022-07-06-话说那四个薛定谔的唐山女生有人知道后续吗?](https://www.v2ex.com/t/864425) ![](assets/new.png)  
+- [2022-07-06-全程工作在虚拟机环境下是否可行？](https://www.v2ex.com/t/864424) ![](assets/new.png)  
+- [2022-07-06-gitpress-这么好用为什么网上这么悄声呢?](https://www.v2ex.com/t/864423) ![](assets/new.png)  
+- [2022-07-06-SwiftUI-Image-View-内存占用的一个坑...顺便求下解决办法](https://www.v2ex.com/t/864422) ![](assets/new.png)  
+- [2022-07-06-对于-nacos-和-apollo-的配置中心，客户端监听配置文件的下发是增量下发还是全量下发呢？](https://www.v2ex.com/t/864421) ![](assets/new.png)  
+- [2022-07-06-测试环境-Elasticsearch-集群被多次删，请教问题排查办法。](https://www.v2ex.com/t/864420) ![](assets/new.png)  
+- [2022-07-06-最近实在是崩溃，关于工作，关于职业规划](https://www.v2ex.com/t/864418) ![](assets/new.png)  
 - [2022-07-06-ElasticSearch-源码中的-ClusterStateVersion-到底是什么东西](https://www.v2ex.com/t/864417) ![](assets/new.png)  
 - [2022-07-06-Windows-上有没有办法自动安装.net-framework，双击后自动安装，不用点下一步?](https://www.v2ex.com/t/864415) ![](assets/new.png)  
 - [2022-07-06-从上海换工作到杭州的问题](https://www.v2ex.com/t/864414) ![](assets/new.png)  
@@ -483,14 +491,6 @@
 - [2022-07-06-有没有正则需要转义，能自动完成转义的工具或者在线网站？](https://www.v2ex.com/t/864406) ![](assets/new.png)  
 - [2022-07-06-是-iOS-后台管理机制退步了还是现在的程序写得越来越烂了？](https://www.v2ex.com/t/864405) ![](assets/new.png)  
 - [2022-07-06-自如将全面更换实名门锁，与公安、房管实时连接，保障居住安全](https://www.v2ex.com/t/864402) ![](assets/new.png)  
-- [2022-07-06-网易云音乐没有安全的命得了安全的病](https://www.v2ex.com/t/864401) ![](assets/new.png)  
-- [2022-07-06-微信正在恶意涨价，影响数百万开发者。](https://www.v2ex.com/t/864400) ![](assets/new.png)  
-- [2022-07-06-apache-poi-这样的-excel-工具支持类似于-ws'A1'这样的填充方式吗？](https://www.v2ex.com/t/864399) ![](assets/new.png)  
-- [2022-07-06-全志开发板如何添加二进制到镜像中的/system/bin-下？](https://www.v2ex.com/t/864397) ![](assets/new.png)  
-- [2022-07-06-我的图标，渲染的过程中，会出现蓝色的背景底色，这个是什么原因造成的？](https://www.v2ex.com/t/864396) ![](assets/new.png)  
-- [2022-07-06-电脑桌用的灯有推荐么](https://www.v2ex.com/t/864393) ![](assets/new.png)  
-- [2022-07-06-IDEA-有没有基于-Git-commit-的覆盖率检测标记插件？](https://www.v2ex.com/t/864392) ![](assets/new.png)  
-- [2022-07-06-请问想搭建一个私有云的-IM，有什么好的推荐吗](https://www.v2ex.com/t/864391) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -542,12 +542,17 @@
 - [2022-07-06-应用实践-|-蜀海供应链基于-Apache-Doris-的数据中台建设](https://toutiao.io/k/acnbqim) ![](assets/new.png)  
 - [2022-07-06-从0到1建设智能灰度数据体系：以vivo游戏中心为例](https://toutiao.io/k/q77o28w) ![](assets/new.png)  
 - [2022-07-06-go-zero微服务实战系列（九、极致优化秒杀性能）](https://toutiao.io/k/514moei) ![](assets/new.png)  
-- [2022-07-06-使用-Tomcat-+-Nginx-实现负载均衡](https://toutiao.io/k/uzah19e) ![](assets/new.png)  
 - [2022-07-06-并发编程的三大核心问题](https://toutiao.io/k/c2obbn2) ![](assets/new.png)  
+- [2022-07-06-使用-Tomcat-+-Nginx-实现负载均衡](https://toutiao.io/k/uzah19e) ![](assets/new.png)  
 - [2022-07-06-Observability之聊聊采样sampling场景和落地案例-下篇](https://toutiao.io/k/09gpxrf) ![](assets/new.png)  
 - [2022-07-06-使用-JavaScript-阻止屏幕进入睡眠状态](https://toutiao.io/k/wexal8k) ![](assets/new.png)  
+- [2022-07-06-企业实战｜复杂业务关系下的银行业运维指标体系建设](https://toutiao.io/k/lq8v3ey) ![](assets/new.png)  
+- [2022-07-06-HTTP-3.0彻底放弃TCP，TCP到底做错了什么？](https://toutiao.io/k/jyxu22s) ![](assets/new.png)  
+- [2022-07-06-王垠：对-Go-语言的综合评价](https://toutiao.io/k/torm2bw) ![](assets/new.png)  
+- [2022-07-06-一大波开源小抄来袭](https://toutiao.io/k/00n2h3b) ![](assets/new.png)  
+- [2022-07-06-TLA+-入门教程（2）：一个简单的例子](https://toutiao.io/k/rqwsblt) ![](assets/new.png)  
+- [2022-07-06-为什么我们需要-Hive-Metastore！](https://toutiao.io/k/6nz8a93) ![](assets/new.png)  
 - [2022-07-06-推荐-3000帧动画图解MySQL为什么需要binlog、redo-log和undo-log](https://toutiao.io/k/b0g4460) ![](assets/new.png)  
-- [2022-07-06-推荐-吐血整理：一份不可多得的架构师图谱！](https://toutiao.io/k/ptp0ru2) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

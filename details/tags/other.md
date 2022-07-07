@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-07 20:15:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-07 20:40:36。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,7 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-07-07-怎麽阻止-app-獲取設備信息手機型號什麽的](https://www.v2ex.com/t/864807) 
 - [2022-07-07-国内-top3-高校计算机硕士，不想写代码了，而立之年，还有哪些人生方向可以选择？](https://www.v2ex.com/t/864804) 
 - [2022-07-07-刚发现微信-CallKit-功能还能知道来电微信的原始-ID](https://www.v2ex.com/t/864803) 
 - [2022-07-07-我已经完全是-recurse-的形状了,-有老哥-Clojure-玩的比较六的么?](https://www.v2ex.com/t/864802) 
@@ -1940,7 +1941,6 @@
 - [2022-07-07-大家-Monterey-有遇到插耳机锁屏唤醒后播放默认外放么](https://www.v2ex.com/t/864763) 
 - [2022-07-07-有没有程序员考公微信群？求拉](https://www.v2ex.com/t/864760) 
 - [2022-07-07-可叹，落叶飘零。](https://www.v2ex.com/t/864759) 
-- [2022-07-07-求推荐二手机](https://www.v2ex.com/t/864757) 
 - [2022-07-07-遗留系统的服务拆分-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15215&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fservice-splitting-legacy-systems%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-07-故事点-vs.-人天-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15213&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fagile-estimation-story-points-man-day%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-07-如何设计数据可视化平台-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15212&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-design-data-visualization-platform%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

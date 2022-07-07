@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-07 20:15:22。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-07-07 20:40:36。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,7 @@
 </summary>
 
 
+- [【V2EX】2022-07-07-怎麽阻止-app-獲取設備信息手機型號什麽的](https://www.v2ex.com/t/864807) 
 - [【V2EX】2022-07-07-#-做一套-TS-全栈工程师的体系教程](https://www.v2ex.com/t/864806) 
 - [【V2EX】2022-07-07-笔记池已全面优化界面，修复-BUG](https://www.v2ex.com/t/864805) 
 - [【V2EX】2022-07-07-国内-top3-高校计算机硕士，不想写代码了，而立之年，还有哪些人生方向可以选择？](https://www.v2ex.com/t/864804) 
@@ -107,7 +108,6 @@
 - [【V2EX】2022-07-07-摩托罗拉-edge-s30-或者-x30-有没有好点的类原生系统？](https://www.v2ex.com/t/864761) 
 - [【V2EX】2022-07-07-有没有程序员考公微信群？求拉](https://www.v2ex.com/t/864760) 
 - [【V2EX】2022-07-07-可叹，落叶飘零。](https://www.v2ex.com/t/864759) 
-- [【V2EX】2022-07-07-求推荐二手机](https://www.v2ex.com/t/864757) 
 - [【技术头条】2022-07-07-遗留系统的服务拆分-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15215&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fservice-splitting-legacy-systems%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-07-Thoughtworks-全球CTO：按需求构建架构，过度工程只会“劳民伤财”-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15214&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftechnology-radar-rebecca-interview%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-07-故事点-vs.-人天-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15213&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fagile-estimation-story-points-man-day%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

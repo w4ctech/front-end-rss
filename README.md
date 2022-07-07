@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-07-07 15:45:44，:rocket: 更新条数: +2021， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-07-07 16:24:21，:rocket: 更新条数: +2021， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-07-07-深受蟑螂困扰！](https://www.v2ex.com/t/864798) ![](assets/new.png)  
 - [2022-07-07-请问-hugo-博客框架必须部署到-GitHub-吗？](https://www.v2ex.com/t/864796) ![](assets/new.png)  
 - [2022-07-07-第二次免费更换碟式键盘-顺带电池焕然一新-给天才吧好评](https://www.v2ex.com/t/864791) ![](assets/new.png)  
 - [2022-07-07-idea-的-配置同步功能-是不是有问题啊？](https://www.v2ex.com/t/864790) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-07-07-德国香肠有没有在国内能买到的比较接近德国本土口味的牌子？](https://www.v2ex.com/t/864775) ![](assets/new.png)  
 - [2022-07-07-2022-年-7-月,如今还有什么-PC-客户端可以实现电脑上用自己的手机号发短信的](https://www.v2ex.com/t/864773) ![](assets/new.png)  
 - [2022-07-07-2022-年开发微信小程序后端，选什么框架？](https://www.v2ex.com/t/864772) ![](assets/new.png)  
-- [2022-07-07-25-岁要不要回家种地](https://www.v2ex.com/t/864771) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -571,7 +571,6 @@
 - [2022-07-07-我们公司使用了6年的项目部署方案！打包-+-一键部署详解，稳的一批!](https://toutiao.io/k/nntz3l3) ![](assets/new.png)  
 - [2022-07-07-几个python命令使用的小妙招，无需编写代码！](https://toutiao.io/k/38luzph) ![](assets/new.png)  
 - [2022-07-07-隐私计算FATE-多分类神经网络算法测试](https://toutiao.io/k/gam11x2) ![](assets/new.png)  
-- [2022-07-07-推荐-3000帧动画图解MySQL为什么需要binlog、redo-log和undo-log](https://toutiao.io/k/b0g4460) ![](assets/new.png)  
 - [2022-07-07-推荐-吐血整理：一份不可多得的架构师图谱！](https://toutiao.io/k/ptp0ru2) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

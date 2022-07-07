@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-07-07 09:14:01。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-07 09:40:40。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -55,7 +55,6 @@
 
 
 
-- [【V2EX】如何查看-Vue-页面点击事件的处理源码？](https://www.v2ex.com/t/864686)
 - [......【查看更多】......](./details/tags/vue.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -107,6 +106,7 @@
 
 
 
+- [【V2EX】请问如何在-node-安装-sqlite-4.2.0-版本？](https://www.v2ex.com/t/864735)
 - [......【查看更多】......](./details/tags/nodejs.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -184,7 +184,6 @@
 - [【张鑫旭-鑫空间-鑫生活】深入-JS-new-Function-语法](https://www.zhangxinxu.com/wordpress/2022/04/js-new-function/)
 - [【张鑫旭-鑫空间-鑫生活】小tips:-JS字体加载失败或完毕的检测](https://www.zhangxinxu.com/wordpress/2022/04/js-font-face-load/)
 - [【V2EX】成都移动在广移近日的调整后出国路由变为北京](https://www.v2ex.com/t/864702)
-- [【V2EX】请教一个问题哈，服务端渲染-html，为什么有些页面只发送一次类型为-document-的请求，有些页面还会另外发起类型为-text/html-的请求？如何让浏览器不发送类型为...](https://www.v2ex.com/t/864678)
 - [......【查看更多】......](./details/tags/javascript.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-07-07 19:36:43。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-07 20:15:22。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -302,6 +302,7 @@
 
 
 
+- [【V2EX】#-做一套-TS-全栈工程师的体系教程](https://www.v2ex.com/t/864806)
 - [【开发者头条】Elasticsearch-实现分页的-3-种方式，还有谁不会？？](https://toutiao.io/k/o91ed5u)
 - [【开发者头条】隐私计算FATE-多分类神经网络算法测试](https://toutiao.io/k/gam11x2)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)

@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-07-07 14:16:10。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-07 14:39:22。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -107,7 +107,6 @@
 
 
 - [【V2EX】`bun`-nodejs-终结者](https://www.v2ex.com/t/864765)
-- [【V2EX】请问如何在-node-安装-sqlite-4.2.0-版本？](https://www.v2ex.com/t/864735)
 - [......【查看更多】......](./details/tags/nodejs.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -258,6 +257,7 @@
 
 
 
+- [【V2EX】air-m1-7-核-gpu-带-4k-性能足够吗？](https://www.v2ex.com/t/864789)
 - [【V2EX】SEO-优化（影视类、电商）：年薪-20w-起步，双休，远程工作：](https://www.v2ex.com/t/864764)
 - [【技术头条】SpringBoot这样优化，让你的项目飞起来！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15210&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494249%26amp%3Bidx%3D2%26amp%3Bsn%3D81ee5cbc880d1c4c9e263fb7c7bd918d%26amp%3Bchksm%3Dfa3f0b32cd4882249d2e5f06fb5227b0380f3dfb629bf243a1cf69b198049fc30f1b093cfa0a%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【技术头条】六则糟糕代码的优化方案分享-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15203&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494237%26amp%3Bidx%3D2%26amp%3Bsn%3D5f215e0545d46580d00fd10202ae369b%26amp%3Bchksm%3Dfa3f0b06cd488210c5f79909b76fac660d37bd59d283105090d62913f8c30df847e562459038%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
@@ -321,6 +321,7 @@
 
 
 
+- [【V2EX】问问大家一个关于-docker-exec-进到容器执行命令之前和执行完命令后退出都要卡-10s-以上的问题](https://www.v2ex.com/t/864787)
 - [【V2EX】M1-能支持-x86_64-的-docker-吗](https://www.v2ex.com/t/864747)
 - [【V2EX】Win-环境有什么好用的实时文件同步工具？用于同步本地文件与-docker-volume](https://www.v2ex.com/t/864746)
 - [......【查看更多】......](./details/tags/server.md)

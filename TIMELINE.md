@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-07 23:14:44。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-07-07 23:40:15。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -108,7 +108,6 @@
 - [【V2EX】2022-07-07-大家-Monterey-有遇到插耳机锁屏唤醒后播放默认外放么](https://www.v2ex.com/t/864763) 
 - [【V2EX】2022-07-07-摩托罗拉-edge-s30-或者-x30-有没有好点的类原生系统？](https://www.v2ex.com/t/864761) 
 - [【V2EX】2022-07-07-有没有程序员考公微信群？求拉](https://www.v2ex.com/t/864760) 
-- [【V2EX】2022-07-07-可叹，落叶飘零。](https://www.v2ex.com/t/864759) 
 - [【技术头条】2022-07-07-遗留系统的服务拆分-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15215&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fservice-splitting-legacy-systems%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-07-Thoughtworks-全球CTO：按需求构建架构，过度工程只会“劳民伤财”-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15214&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftechnology-radar-rebecca-interview%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-07-故事点-vs.-人天-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15213&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fagile-estimation-story-points-man-day%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

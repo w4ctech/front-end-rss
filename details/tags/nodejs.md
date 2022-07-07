@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-07 06:48:27。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-07 07:14:02。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## NodeJS
 
@@ -6,5 +6,3 @@
 > 关键字：`Node`、`Node.js`、`Express`、`Koa`、`egg.js`、`pandora.js`、`Electron`、`V8`
 
 
-
-- [2022-07-07-发现新的-js-运行时，-2～-3-倍快于-Node.js](https://www.v2ex.com/t/864640) 

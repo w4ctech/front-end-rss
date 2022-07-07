@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-07 07:39:06。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-07 08:17:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,13 +1911,14 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-07-07-自如-有办法办理工作居住证吗](https://www.v2ex.com/t/864708) 
+- [2022-07-07-上海的朋友有收到的吗](https://www.v2ex.com/t/864707) 
 - [2022-07-07-想买个踏板摩托车-uy125-玩，会不会吃灰呢？](https://www.v2ex.com/t/864705) 
 - [2022-07-07-联通-5G-网络今天突然无法加密-P2P-隧道了（TCP-打洞）？](https://www.v2ex.com/t/864704) 
 - [2022-07-07-上海-Web3-Startup-招-UI-设计-团队氛围好，工作愉悦，已拿到-Hashkey，-Mask，-Y2Z-等机构的投资](https://www.v2ex.com/t/864703) 
 - [2022-07-07-关于-Windows-缩略图和文件图标的问题](https://www.v2ex.com/t/864701) 
 - [2022-07-07-appstore-的已装-app-权限：能否持续获取到用户的实时-appleID-信息？](https://www.v2ex.com/t/864699) 
 - [2022-07-07-你们的电视都买的什么哈？在哪儿买的？](https://www.v2ex.com/t/864698) 
-- [2022-07-07-现在怎么找创业风险投资？借钱么？我这能融资么？](https://www.v2ex.com/t/864695) 
 - [2022-07-07-那些-iOS-的-App-在手表上体验比较好的？](https://www.v2ex.com/t/864694) 
 - [2022-07-07-百度贴吧的系统自动识别很烂，每次码了一堆字，发出去之后立马不见了](https://www.v2ex.com/t/864693) 
 - [2022-07-07-新手请教下红米-note-11-pro-5G-手机下载哪个国际版，列表一堆看着迷茫了](https://www.v2ex.com/t/864691) 
@@ -1972,6 +1973,6 @@
 - [2022-07-07-如何快速理解复杂业务，系统思考问题？](https://toutiao.io/k/952pk1u) 
 - [2022-07-07-刘石伟：字节跳动埋点数据流建设与治理实践](https://toutiao.io/k/8ecdj35) 
 - [2022-07-07-我们公司使用了6年的项目部署方案！打包-+-一键部署详解，稳的一批!](https://toutiao.io/k/nntz3l3) 
-- [2022-07-07-单机高并发模型设计](https://toutiao.io/k/2woifhp) 
 - [2022-07-07-几个python命令使用的小妙招，无需编写代码！](https://toutiao.io/k/38luzph) 
+- [2022-07-07-单机高并发模型设计](https://toutiao.io/k/2woifhp) 
 - [2022-07-07-推荐-吐血整理：一份不可多得的架构师图谱！](https://toutiao.io/k/ptp0ru2) 

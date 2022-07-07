@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2022-07-07 15:14:45。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-07 15:45:44。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-07-07-请问-hugo-博客框架必须部署到-GitHub-吗？](https://www.v2ex.com/t/864796) 
 - [2022-07-07-第二次免费更换碟式键盘-顺带电池焕然一新-给天才吧好评](https://www.v2ex.com/t/864791) 
 - [2022-07-07-idea-的-配置同步功能-是不是有问题啊？](https://www.v2ex.com/t/864790) 
 - [2022-07-07-air-m1-7-核-gpu-带-4k-性能足够吗？](https://www.v2ex.com/t/864789) 
@@ -39,6 +40,3 @@
 - [2022-07-07-web3-招聘：游戏前端开发工程师&全球远程&25-万-50-万](https://www.v2ex.com/t/864753) 
 - [2022-07-07-有什么播客转语音的便捷工具？](https://www.v2ex.com/t/864752) 
 - [2022-07-07-macOS-bug-分享：-Apple-Books-每页第一段不能-Force-Touch-取词](https://www.v2ex.com/t/864749) 
-- [2022-07-07-M1-能支持-x86_64-的-docker-吗](https://www.v2ex.com/t/864747) 
-- [2022-07-07-Win-环境有什么好用的实时文件同步工具？用于同步本地文件与-docker-volume](https://www.v2ex.com/t/864746) 
-- [2022-07-07-短租北京八通线土桥-20-天左右一个小两居，可以按日给钱](https://www.v2ex.com/t/864745) 

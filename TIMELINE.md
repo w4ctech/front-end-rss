@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-07 07:14:02。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-07-07 07:39:06。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,19 @@
 </summary>
 
 
+- [【V2EX】2022-07-07-想买个踏板摩托车-uy125-玩，会不会吃灰呢？](https://www.v2ex.com/t/864705) 
+- [【V2EX】2022-07-07-联通-5G-网络今天突然无法加密-P2P-隧道了（TCP-打洞）？](https://www.v2ex.com/t/864704) 
+- [【V2EX】2022-07-07-上海-Web3-Startup-招-UI-设计-团队氛围好，工作愉悦，已拿到-Hashkey，-Mask，-Y2Z-等机构的投资](https://www.v2ex.com/t/864703) 
+- [【V2EX】2022-07-07-成都移动在广移近日的调整后出国路由变为北京](https://www.v2ex.com/t/864702) 
+- [【V2EX】2022-07-07-关于-Windows-缩略图和文件图标的问题](https://www.v2ex.com/t/864701) 
+- [【V2EX】2022-07-07-appstore-的已装-app-权限：能否持续获取到用户的实时-appleID-信息？](https://www.v2ex.com/t/864699) 
+- [【V2EX】2022-07-07-你们的电视都买的什么哈？在哪儿买的？](https://www.v2ex.com/t/864698) 
+- [【V2EX】2022-07-07-是否有统计-B-站、YouTube-等平台观看视频所需时间的-app](https://www.v2ex.com/t/864697) 
+- [【V2EX】2022-07-07-typescript+nextjs-点击输入框-可输入状态-难到几个人](https://www.v2ex.com/t/864696) 
+- [【V2EX】2022-07-07-现在怎么找创业风险投资？借钱么？我这能融资么？](https://www.v2ex.com/t/864695) 
+- [【V2EX】2022-07-07-那些-iOS-的-App-在手表上体验比较好的？](https://www.v2ex.com/t/864694) 
+- [【V2EX】2022-07-07-百度贴吧的系统自动识别很烂，每次码了一堆字，发出去之后立马不见了](https://www.v2ex.com/t/864693) 
+- [【V2EX】2022-07-07-新手请教下红米-note-11-pro-5G-手机下载哪个国际版，列表一堆看着迷茫了](https://www.v2ex.com/t/864691) 
 - [【V2EX】2022-07-07-灵活就业参保，养老保险要交吗？](https://www.v2ex.com/t/864690) 
 - [【V2EX】2022-07-07-C++20coroutine-写了个-proxy-工具](https://www.v2ex.com/t/864689) 
 - [【V2EX】2022-07-07-机械硬盘坏了怎么处理](https://www.v2ex.com/t/864688) 
@@ -98,18 +111,6 @@
 - [【V2EX】2022-07-07-测试部门的职责是什么？该如何跟业务、开发高效协作？](https://www.v2ex.com/t/864661) 
 - [【V2EX】2022-07-07-腾讯云开发也要开启套餐计费模式了](https://www.v2ex.com/t/864660) 
 - [【V2EX】2022-07-07-上海招聘-初创技术研发型公司（低代码方向）招聘-flutter-开发（可远程工作）](https://www.v2ex.com/t/864659) 
-- [【V2EX】2022-07-07-如何对中英文设置不同的系统声音？](https://www.v2ex.com/t/864655) 
-- [【V2EX】2022-07-07-大佬帮推荐一下，买一个-nas-好，还是整一个多盘位主机好？](https://www.v2ex.com/t/864653) 
-- [【V2EX】2022-07-07-计算机转去做生物信息学怎么样，属不属于降维打击？](https://www.v2ex.com/t/864652) 
-- [【V2EX】2022-07-07-看新闻律师告拼多多胜诉，个人没有法学的背景下可操作空间？](https://www.v2ex.com/t/864651) 
-- [【V2EX】2022-07-07-有没有国产套壳-mysql-呀？](https://www.v2ex.com/t/864650) 
-- [【V2EX】2022-07-07-go-可以支持-tls-硬件加速吗](https://www.v2ex.com/t/864649) 
-- [【V2EX】2022-07-07-京东上全是二手商品啊，他妈的……](https://www.v2ex.com/t/864648) 
-- [【V2EX】2022-07-07-对于程序员来说，对代码有没有兴趣，到底有多重要？](https://www.v2ex.com/t/864647) 
-- [【V2EX】2022-07-07-BOSS-直聘不能回复消息了,-BUG-还是潜规则?](https://www.v2ex.com/t/864645) 
-- [【V2EX】2022-07-07-从南京润到南通工作,-说说二线三线城市一周面试经历和感受](https://www.v2ex.com/t/864644) 
-- [【V2EX】2022-07-07-腾讯文档可以给普通用户推送更新通知吗？](https://www.v2ex.com/t/864643) 
-- [【V2EX】2022-07-07-硬盘损坏，退还的硬盘，有私人数据怎么办？](https://www.v2ex.com/t/864642) 
 - [【技术头条】2022-07-07-遗留系统的服务拆分-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15215&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fservice-splitting-legacy-systems%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-07-Thoughtworks-全球CTO：按需求构建架构，过度工程只会“劳民伤财”-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15214&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftechnology-radar-rebecca-interview%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-07-故事点-vs.-人天-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15213&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fagile-estimation-story-points-man-day%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -148,8 +149,8 @@
 - [【开发者头条】2022-07-07-单机高并发模型设计](https://toutiao.io/k/2woifhp) 
 - [【开发者头条】2022-07-07-几个python命令使用的小妙招，无需编写代码！](https://toutiao.io/k/38luzph) 
 - [【开发者头条】2022-07-07-隐私计算FATE-多分类神经网络算法测试](https://toutiao.io/k/gam11x2) 
-- [【开发者头条】2022-07-07-推荐-吐血整理：一份不可多得的架构师图谱！](https://toutiao.io/k/ptp0ru2) 
 - [【开发者头条】2022-07-07-推荐-3000帧动画图解MySQL为什么需要binlog、redo-log和undo-log](https://toutiao.io/k/b0g4460) 
+- [【开发者头条】2022-07-07-推荐-吐血整理：一份不可多得的架构师图谱！](https://toutiao.io/k/ptp0ru2) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

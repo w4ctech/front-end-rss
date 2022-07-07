@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-07 07:14:02。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-07 07:39:06。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -19,4 +19,5 @@
 - [2022-05-11-JS与条形码的生成](https://www.zhangxinxu.com/wordpress/2022/05/js-barcode/) 
 - [2022-04-30-深入-JS-new-Function-语法](https://www.zhangxinxu.com/wordpress/2022/04/js-new-function/) 
 - [2022-04-27-小tips:-JS字体加载失败或完毕的检测](https://www.zhangxinxu.com/wordpress/2022/04/js-font-face-load/) 
+- [2022-07-07-成都移动在广移近日的调整后出国路由变为北京](https://www.v2ex.com/t/864702) 
 - [2022-07-07-请教一个问题哈，服务端渲染-html，为什么有些页面只发送一次类型为-document-的请求，有些页面还会另外发起类型为-text/html-的请求？如何让浏览器不发送类型为...](https://www.v2ex.com/t/864678) 

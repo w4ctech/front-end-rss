@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-07 18:48:39。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-07 19:11:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,7 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-07-07-国内-top3-高校计算机硕士，不想写代码了，而立之年，还有哪些人生方向可以选择？](https://www.v2ex.com/t/864804) 
 - [2022-07-07-刚发现微信-CallKit-功能还能知道来电微信的原始-ID](https://www.v2ex.com/t/864803) 
 - [2022-07-07-我已经完全是-recurse-的形状了,-有老哥-Clojure-玩的比较六的么?](https://www.v2ex.com/t/864802) 
 - [2022-07-07-word-写标书，复制粘贴时总是会卡死](https://www.v2ex.com/t/864801) 

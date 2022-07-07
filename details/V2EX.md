@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2022-07-07 18:48:39。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-07 19:11:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-07-07-国内-top3-高校计算机硕士，不想写代码了，而立之年，还有哪些人生方向可以选择？](https://www.v2ex.com/t/864804) 
 - [2022-07-07-刚发现微信-CallKit-功能还能知道来电微信的原始-ID](https://www.v2ex.com/t/864803) 
 - [2022-07-07-我已经完全是-recurse-的形状了,-有老哥-Clojure-玩的比较六的么?](https://www.v2ex.com/t/864802) 
 - [2022-07-07-word-写标书，复制粘贴时总是会卡死](https://www.v2ex.com/t/864801) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-07 01:09:35。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-07 03:31:44。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -14,6 +14,6 @@
 - [2021-01-08-解药|新冠mRNA疫苗安全性有哪些挑战？](https://m.caixin.com/m/2021-01-08/101648043.html) 
 - [2021-01-01-大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html) 
 - [2022-06-12-基于文字的URL锚点定位与::target-text样式设置](https://www.zhangxinxu.com/wordpress/2022/06/url-anchor-target-text/) 
+- [2022-07-07-chrome-总提示-csdn-想显示通知](https://www.v2ex.com/t/864605) 
+- [2022-07-07-时隔两年，经济学网站-macroview-全新升级](https://www.v2ex.com/t/864597) 
 - [2022-07-07-iOS16-beta-的“嘿-siri”功能以及-macOS-venture-的-Safari-网页翻译-bug](https://www.v2ex.com/t/864581) 
-- [2022-07-06-紫鸟浏览器坑爹，造成亚马逊账号关联了](https://www.v2ex.com/t/864572) 
-- [2022-07-06-关于我为了写一个浏览器插件，最后开发了一个浏览器-APP-的故事](https://www.v2ex.com/t/864569) 

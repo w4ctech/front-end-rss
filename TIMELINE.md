@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-07 03:31:44。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-07-07 04:32:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,17 @@
 </summary>
 
 
+- [【V2EX】2022-07-07-腾讯文档可以给普通用户推送更新通知吗？](https://www.v2ex.com/t/864643) 
+- [【V2EX】2022-07-07-硬盘损坏，退还的硬盘，有私人数据怎么办？](https://www.v2ex.com/t/864642) 
+- [【V2EX】2022-07-07-发现新的-js-运行时，-2～-3-倍快于-Node.js](https://www.v2ex.com/t/864640) 
+- [【V2EX】2022-07-07-请问大佬们知道怎么拿到-android-手机运行程序的内存访问信息吗](https://www.v2ex.com/t/864639) 
+- [【V2EX】2022-07-07-v2ex-貌似不用梯子也能访问了](https://www.v2ex.com/t/864637) 
+- [【V2EX】2022-07-07-一个-Vue2-项目，为啥本地-build-后上传能正常访问，使用-CI/CD-编译后上传就报错了？](https://www.v2ex.com/t/864636) 
+- [【V2EX】2022-07-07-zed-出-alpha-版了，有人试用了吗](https://www.v2ex.com/t/864635) 
+- [【V2EX】2022-07-07-有没有推荐的医疗保险方案？](https://www.v2ex.com/t/864634) 
+- [【V2EX】2022-07-07-Rust-练手项目，使用-Tauri+React-撸了个音乐下载器](https://www.v2ex.com/t/864633) 
+- [【V2EX】2022-07-07-这两种网页渲染字体效果-你选哪一个？](https://www.v2ex.com/t/864632) 
+- [【V2EX】2022-07-07-怎么设置分流同时可以浏览国内外网站?](https://www.v2ex.com/t/864631) 
 - [【V2EX】2022-07-07-上海再惠-招初级前端，还有两个坑](https://www.v2ex.com/t/864630) 
 - [【V2EX】2022-07-07-感觉-RUST-上手难度有点高开发速度有点慢，](https://www.v2ex.com/t/864629) 
 - [【V2EX】2022-07-07-如何合理渡过睡前时间](https://www.v2ex.com/t/864628) 
@@ -97,16 +108,6 @@
 - [【V2EX】2022-07-07-分享一篇-1991-年的旧文章：苏联巨变之后中国的现实应对与战略选择](https://www.v2ex.com/t/864601) 
 - [【V2EX】2022-07-07-月薪-2-万在-V2EX-里属于什么水平](https://www.v2ex.com/t/864598) 
 - [【V2EX】2022-07-07-时隔两年，经济学网站-macroview-全新升级](https://www.v2ex.com/t/864597) 
-- [【V2EX】2022-07-07-想问问你们的-mac-内存使用率](https://www.v2ex.com/t/864593) 
-- [【V2EX】2022-07-07-naive-ui-如何](https://www.v2ex.com/t/864592) 
-- [【V2EX】2022-07-07-刚被-HR-叫去要我签“劳动合同终止通知书”，能签字吗？有没有风险啊？](https://www.v2ex.com/t/864591) 
-- [【V2EX】2022-07-07-主机风扇，正方形那种，是不是风力都一般般](https://www.v2ex.com/t/864590) 
-- [【V2EX】2022-07-07-产品经理们来评价一下理想汽车创始人-李想的“产品经理绝招”](https://www.v2ex.com/t/864588) 
-- [【V2EX】2022-07-07-小白“将-ubuntu-安装到-U-盘上，实现即插即用”失败后的补救方法](https://www.v2ex.com/t/864587) 
-- [【V2EX】2022-07-07-Windows-两张网卡，网卡-1-以太网-IPv4-only，网卡-2-手机网络-IPv4v6，-test-ipv6-显示无法使用-IPv6](https://www.v2ex.com/t/864586) 
-- [【V2EX】2022-07-07-寻找爬虫开发人员，根据关键字爬取搜索引擎结果进行筛选入库](https://www.v2ex.com/t/864584) 
-- [【V2EX】2022-07-07-Mac-版微信不能“关闭文件自动下载”吗？](https://www.v2ex.com/t/864582) 
-- [【V2EX】2022-07-07-iOS16-beta-的“嘿-siri”功能以及-macOS-venture-的-Safari-网页翻译-bug](https://www.v2ex.com/t/864581) 
 - [【技术头条】2022-07-07-遗留系统的服务拆分-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15215&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fservice-splitting-legacy-systems%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-07-Thoughtworks-全球CTO：按需求构建架构，过度工程只会“劳民伤财”-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15214&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftechnology-radar-rebecca-interview%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-07-故事点-vs.-人天-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15213&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fagile-estimation-story-points-man-day%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -130,9 +131,9 @@
 - [【开发者头条】2022-07-07-AI场景存储优化：云知声超算平台基于-JuiceFS-的存储实践](https://toutiao.io/k/1ih3vod) 
 - [【开发者头条】2022-07-07-看完这篇还不会搞「策略模式」算我输.-.-.](https://toutiao.io/k/d9ai32f) 
 - [【开发者头条】2022-07-07-RocketMQ的原理和实战](https://toutiao.io/k/grrdmf6) 
+- [【开发者头条】2022-07-07-如何写出好代码-—-防御式编程指南](https://toutiao.io/k/mmvrn8n) 
 - [【开发者头条】2022-07-07-Android-开发中那些无中生有的事](https://toutiao.io/k/i3lbygm) 
 - [【开发者头条】2022-07-07-大众点评搜索相关性技术探索与实践](https://toutiao.io/k/dpawan7) 
-- [【开发者头条】2022-07-07-如何写出好代码-—-防御式编程指南](https://toutiao.io/k/mmvrn8n) 
 - [【开发者头条】2022-07-07-Elasticsearch-实现分页的-3-种方式，还有谁不会？？](https://toutiao.io/k/o91ed5u) 
 - [【开发者头条】2022-07-07-Python自动操作-GUI-神器：PyAutoGUI](https://toutiao.io/k/9esrfx0) 
 - [【开发者头条】2022-07-07-关于微前端架构的几种技术选型，看这篇就够了](https://toutiao.io/k/ujq4o9x) 
@@ -141,8 +142,8 @@
 - [【开发者头条】2022-07-07-如何快速理解复杂业务，系统思考问题？](https://toutiao.io/k/952pk1u) 
 - [【开发者头条】2022-07-07-从-1.5-开始搭建一个微服务框架——链路追踪-traceId](https://toutiao.io/k/jcmaa0n) 
 - [【开发者头条】2022-07-07-刘石伟：字节跳动埋点数据流建设与治理实践](https://toutiao.io/k/8ecdj35) 
-- [【开发者头条】2022-07-07-推荐-吐血整理：一份不可多得的架构师图谱！](https://toutiao.io/k/ptp0ru2) 
 - [【开发者头条】2022-07-07-推荐-3000帧动画图解MySQL为什么需要binlog、redo-log和undo-log](https://toutiao.io/k/b0g4460) 
+- [【开发者头条】2022-07-07-推荐-吐血整理：一份不可多得的架构师图谱！](https://toutiao.io/k/ptp0ru2) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

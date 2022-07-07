@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-07 16:24:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-07-07 17:03:55。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,9 @@
 </summary>
 
 
+- [【V2EX】2022-07-07-word-写标书，复制粘贴时总是会卡死](https://www.v2ex.com/t/864801) 
+- [【V2EX】2022-07-07-求教大佬们，怎么判断电脑卡死到底是哪里出了问题](https://www.v2ex.com/t/864800) 
+- [【V2EX】2022-07-07-tg-的红鼻子机器人-sgk-拉闸关门大吉了，腾讯数据安全线被毕业，最近是怎么了？](https://www.v2ex.com/t/864799) 
 - [【V2EX】2022-07-07-深受蟑螂困扰！](https://www.v2ex.com/t/864798) 
 - [【V2EX】2022-07-07-请问-hugo-博客框架必须部署到-GitHub-吗？](https://www.v2ex.com/t/864796) 
 - [【V2EX】2022-07-07-第二次免费更换碟式键盘-顺带电池焕然一新-给天才吧好评](https://www.v2ex.com/t/864791) 
@@ -103,7 +106,6 @@
 - [【V2EX】2022-07-07-统计学，赛局理论和政治学有什么关系？](https://www.v2ex.com/t/864755) 
 - [【V2EX】2022-07-07-web3-招聘：游戏前端开发工程师&全球远程&25-万-50-万](https://www.v2ex.com/t/864753) 
 - [【V2EX】2022-07-07-有什么播客转语音的便捷工具？](https://www.v2ex.com/t/864752) 
-- [【V2EX】2022-07-07-macOS-bug-分享：-Apple-Books-每页第一段不能-Force-Touch-取词](https://www.v2ex.com/t/864749) 
 - [【技术头条】2022-07-07-遗留系统的服务拆分-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15215&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fservice-splitting-legacy-systems%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-07-Thoughtworks-全球CTO：按需求构建架构，过度工程只会“劳民伤财”-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15214&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftechnology-radar-rebecca-interview%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-07-故事点-vs.-人天-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15213&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fagile-estimation-story-points-man-day%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

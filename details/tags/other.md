@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-07 10:15:15。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-07 10:45:47。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,8 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-07-07-有什么播客转语音的便捷工具？](https://www.v2ex.com/t/864752) 
+- [2022-07-07-macOS-bug-分享：-Apple-Books-每页第一段不能-Force-Touch-取词](https://www.v2ex.com/t/864749) 
 - [2022-07-07-短租北京八通线土桥-20-天左右一个小两居，可以按日给钱](https://www.v2ex.com/t/864745) 
 - [2022-07-07-推文被采集是不是一点办法都没有？](https://www.v2ex.com/t/864744) 
 - [2022-07-07-为什么觉得《最伟大的作品》还不如前几年的《前世情人》呢](https://www.v2ex.com/t/864742) 
@@ -1940,10 +1942,6 @@
 - [2022-07-07-上海的朋友有收到的吗](https://www.v2ex.com/t/864707) 
 - [2022-07-07-想买个踏板摩托车-uy125-玩，会不会吃灰呢？](https://www.v2ex.com/t/864705) 
 - [2022-07-07-联通-5G-网络今天突然无法加密-P2P-隧道了（TCP-打洞）？](https://www.v2ex.com/t/864704) 
-- [2022-07-07-上海-Web3-Startup-招-UI-设计-团队氛围好，工作愉悦，已拿到-Hashkey，-Mask，-Y2Z-等机构的投资](https://www.v2ex.com/t/864703) 
-- [2022-07-07-关于-Windows-缩略图和文件图标的问题](https://www.v2ex.com/t/864701) 
-- [2022-07-07-appstore-的已装-app-权限：能否持续获取到用户的实时-appleID-信息？](https://www.v2ex.com/t/864699) 
-- [2022-07-07-你们的电视都买的什么哈？在哪儿买的？](https://www.v2ex.com/t/864698) 
 - [2022-07-07-遗留系统的服务拆分-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15215&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fservice-splitting-legacy-systems%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-07-故事点-vs.-人天-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15213&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fagile-estimation-story-points-man-day%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-07-如何设计数据可视化平台-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15212&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-design-data-visualization-platform%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

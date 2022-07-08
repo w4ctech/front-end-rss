@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-08 15:14:04。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-07-08 15:44:28。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,7 @@
 </summary>
 
 
+- [【V2EX】2022-07-08-这是个什么沙雕公司？-广州爱奇旅信息科技有限公司，](https://www.v2ex.com/t/865024) 
 - [【V2EX】2022-07-08-QQ-被盗号发黄图，真给我“长脸”了](https://www.v2ex.com/t/865022) 
 - [【V2EX】2022-07-08-远程工作，自研公司非外包，我直招！-Vue+Node！](https://www.v2ex.com/t/865020) 
 - [【V2EX】2022-07-08-即将转正却在试用期打算辞退了，好气！](https://www.v2ex.com/t/865019) 
@@ -107,9 +108,6 @@
 - [【V2EX】2022-07-08-使用其他程序完全相同数据库字段、结构，只进行逻辑层开发，是否侵-权](https://www.v2ex.com/t/864979) 
 - [【V2EX】2022-07-08-Windows-下有没有类似-Mac-Thor-或者-Snap-等可以使用快捷键切换应用的开源软件？](https://www.v2ex.com/t/864978) 
 - [【V2EX】2022-07-08-请教-App-Store-如何在有余额的情况下优先使用支付宝扣款](https://www.v2ex.com/t/864977) 
-- [【V2EX】2022-07-08-Visual-Studio-Code-Python---2022-年-7-月更新---嵌入类型提示和-Jupyter-设置体验升级](https://www.v2ex.com/t/864976) 
-- [【V2EX】2022-07-08-服务端有什么难的？](https://www.v2ex.com/t/864975) 
-- [【V2EX】2022-07-08-北京-九州风神招聘-Electron-客户端工程师](https://www.v2ex.com/t/864974) 
 - [【技术头条】2022-07-08-遗留系统的服务拆分-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15215&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fservice-splitting-legacy-systems%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-08-Thoughtworks-全球CTO：按需求构建架构，过度工程只会“劳民伤财”-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15214&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftechnology-radar-rebecca-interview%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-08-故事点-vs.-人天-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15213&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fagile-estimation-story-points-man-day%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

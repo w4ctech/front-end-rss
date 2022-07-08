@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-07-08 15:14:04，:rocket: 更新条数: +2029， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-07-08 15:44:28，:rocket: 更新条数: +2027， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-07-08-这是个什么沙雕公司？-广州爱奇旅信息科技有限公司，](https://www.v2ex.com/t/865024) ![](assets/new.png)  
 - [2022-07-08-QQ-被盗号发黄图，真给我“长脸”了](https://www.v2ex.com/t/865022) ![](assets/new.png)  
 - [2022-07-08-远程工作，自研公司非外包，我直招！-Vue+Node！](https://www.v2ex.com/t/865020) ![](assets/new.png)  
 - [2022-07-08-即将转正却在试用期打算辞退了，好气！](https://www.v2ex.com/t/865019) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-07-08-准备入-1080p-360hz-显示器，是不是只要带宽不超-dp-spec-就行了，会不会显卡有隐藏限制](https://www.v2ex.com/t/865004) ![](assets/new.png)  
 - [2022-07-08-大家-M2-的-Air-发货时间多久啊?](https://www.v2ex.com/t/865001) ![](assets/new.png)  
 - [2022-07-08-你的-M2-Air-预计什么时间送达？](https://www.v2ex.com/t/865000) ![](assets/new.png)  
-- [2022-07-08-现在是不是没有居民社保了？只有灵活就业？](https://www.v2ex.com/t/864999) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

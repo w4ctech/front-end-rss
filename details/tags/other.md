@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-08 15:44:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-08 16:21:36。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,10 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-07-08-［讨论帖］为什么会出现“一边公司招人难，一边求职者找工作难”的问题](https://www.v2ex.com/t/865031) 
+- [2022-07-08-NS-的斯普拉遁-3（喷射战士-3）会有国行版吗？](https://www.v2ex.com/t/865030) 
+- [2022-07-08-没产品没-ui-需求不明确都是怎么开发的](https://www.v2ex.com/t/865028) 
+- [2022-07-08-V-友们，怎么样投诉才能取消长城宽带合约并退款呢？](https://www.v2ex.com/t/865027) 
 - [2022-07-08-这是个什么沙雕公司？-广州爱奇旅信息科技有限公司，](https://www.v2ex.com/t/865024) 
 - [2022-07-08-QQ-被盗号发黄图，真给我“长脸”了](https://www.v2ex.com/t/865022) 
 - [2022-07-08-即将转正却在试用期打算辞退了，好气！](https://www.v2ex.com/t/865019) 
@@ -1935,11 +1939,6 @@
 - [2022-07-08-JDK-的-String-类的-UID-数字值是什么定义出来的？随便敲出来的？还是有什么生成规则吗？-serialVersionUID-=--6849794470754667710L](https://www.v2ex.com/t/864992) 
 - [2022-07-08-摇了-12-期，今天终于摇中了粤-b](https://www.v2ex.com/t/864984) 
 - [2022-07-08-现在买-mac-mini-是个好时机吗？](https://www.v2ex.com/t/864983) 
-- [2022-07-08-hhkb-在-m1-pro-上的-f-键怎么按？](https://www.v2ex.com/t/864981) 
-- [2022-07-08-VSCode-里咋弄折行？](https://www.v2ex.com/t/864980) 
-- [2022-07-08-使用其他程序完全相同数据库字段、结构，只进行逻辑层开发，是否侵-权](https://www.v2ex.com/t/864979) 
-- [2022-07-08-Windows-下有没有类似-Mac-Thor-或者-Snap-等可以使用快捷键切换应用的开源软件？](https://www.v2ex.com/t/864978) 
-- [2022-07-08-请教-App-Store-如何在有余额的情况下优先使用支付宝扣款](https://www.v2ex.com/t/864977) 
 - [2022-07-08-遗留系统的服务拆分-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15215&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fservice-splitting-legacy-systems%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-08-故事点-vs.-人天-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15213&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fagile-estimation-story-points-man-day%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-08-如何设计数据可视化平台-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15212&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-design-data-visualization-platform%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1973,4 +1972,5 @@
 - [2022-07-08-如何管理leader对你的能力预期？](https://toutiao.io/k/63o1xaa) 
 - [2022-07-08-工程师世界的《原则》，Quora创始人豆瓣9.2分神作！](https://toutiao.io/k/mjd63rl) 
 - [2022-07-08-对开源框架跃跃欲试，却在写的时候犯了难？](https://toutiao.io/k/ehlo02c) 
+- [2022-07-08-推荐-服务端监控架构设计与实践](https://toutiao.io/k/xhwa9mo) 
 - [2022-07-08-推荐-吐血整理：一份不可多得的架构师图谱！](https://toutiao.io/k/ptp0ru2) 

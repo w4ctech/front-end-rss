@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-07-08 15:44:28，:rocket: 更新条数: +2027， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-07-08 16:21:36，:rocket: 更新条数: +2028， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,12 @@
 </summary>
 
 
+- [2022-07-08-最近写的一个基于-Raft-算法定义的分布式运维软件](https://www.v2ex.com/t/865032) ![](assets/new.png)  
+- [2022-07-08-［讨论帖］为什么会出现“一边公司招人难，一边求职者找工作难”的问题](https://www.v2ex.com/t/865031) ![](assets/new.png)  
+- [2022-07-08-NS-的斯普拉遁-3（喷射战士-3）会有国行版吗？](https://www.v2ex.com/t/865030) ![](assets/new.png)  
+- [2022-07-08-请教-docker-挂载目录文件不同步的问题](https://www.v2ex.com/t/865029) ![](assets/new.png)  
+- [2022-07-08-没产品没-ui-需求不明确都是怎么开发的](https://www.v2ex.com/t/865028) ![](assets/new.png)  
+- [2022-07-08-V-友们，怎么样投诉才能取消长城宽带合约并退款呢？](https://www.v2ex.com/t/865027) ![](assets/new.png)  
 - [2022-07-08-这是个什么沙雕公司？-广州爱奇旅信息科技有限公司，](https://www.v2ex.com/t/865024) ![](assets/new.png)  
 - [2022-07-08-QQ-被盗号发黄图，真给我“长脸”了](https://www.v2ex.com/t/865022) ![](assets/new.png)  
 - [2022-07-08-远程工作，自研公司非外包，我直招！-Vue+Node！](https://www.v2ex.com/t/865020) ![](assets/new.png)  
@@ -505,12 +511,6 @@
 - [2022-07-08-闲鱼/PDD-上的-Macbook-扩展坞-A2119，-150~200-就能买到是真的假的？](https://www.v2ex.com/t/865010) ![](assets/new.png)  
 - [2022-07-08-持-iPad-mini6-蜂窝版的进](https://www.v2ex.com/t/865009) ![](assets/new.png)  
 - [2022-07-08-怎么看待一款数据库用-春秋对比法-进行性能对比的？](https://www.v2ex.com/t/865008) ![](assets/new.png)  
-- [2022-07-08-mini-LED-可以让“高亮文本”真正“高亮”](https://www.v2ex.com/t/865007) ![](assets/new.png)  
-- [2022-07-08-M2-MacBook-Air，大家抢到了吗](https://www.v2ex.com/t/865006) ![](assets/new.png)  
-- [2022-07-08-WeChat-又被风控冻结登出了](https://www.v2ex.com/t/865005) ![](assets/new.png)  
-- [2022-07-08-准备入-1080p-360hz-显示器，是不是只要带宽不超-dp-spec-就行了，会不会显卡有隐藏限制](https://www.v2ex.com/t/865004) ![](assets/new.png)  
-- [2022-07-08-大家-M2-的-Air-发货时间多久啊?](https://www.v2ex.com/t/865001) ![](assets/new.png)  
-- [2022-07-08-你的-M2-Air-预计什么时间送达？](https://www.v2ex.com/t/865000) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

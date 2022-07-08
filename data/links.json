@@ -9953,6 +9953,36 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "最近写的一个基于 Raft 算法定义的分布式运维软件",
+        "link": "https://www.v2ex.com/t/865032",
+        "date": "2022-07-08"
+      },
+      {
+        "title": "［讨论帖］为什么会出现“一边公司招人难，一边求职者找工作难”的问题",
+        "link": "https://www.v2ex.com/t/865031",
+        "date": "2022-07-08"
+      },
+      {
+        "title": "NS 的斯普拉遁 3（喷射战士 3）会有国行版吗？",
+        "link": "https://www.v2ex.com/t/865030",
+        "date": "2022-07-08"
+      },
+      {
+        "title": "请教 docker 挂载目录文件不同步的问题",
+        "link": "https://www.v2ex.com/t/865029",
+        "date": "2022-07-08"
+      },
+      {
+        "title": "没产品没 ui 需求不明确都是怎么开发的",
+        "link": "https://www.v2ex.com/t/865028",
+        "date": "2022-07-08"
+      },
+      {
+        "title": "V 友们，怎么样投诉才能取消长城宽带合约并退款呢？",
+        "link": "https://www.v2ex.com/t/865027",
+        "date": "2022-07-08"
+      },
+      {
         "title": "这是个什么沙雕公司？ 广州爱奇旅信息科技有限公司，",
         "link": "https://www.v2ex.com/t/865024",
         "date": "2022-07-08"
@@ -10120,36 +10150,6 @@
       {
         "title": "现在买 mac mini 是个好时机吗？",
         "link": "https://www.v2ex.com/t/864983",
-        "date": "2022-07-08"
-      },
-      {
-        "title": "如果你感兴趣，可以来看看我对公司产品网络的优化",
-        "link": "https://www.v2ex.com/t/864982",
-        "date": "2022-07-08"
-      },
-      {
-        "title": "hhkb 在 m1 pro 上的 f 键怎么按？",
-        "link": "https://www.v2ex.com/t/864981",
-        "date": "2022-07-08"
-      },
-      {
-        "title": "VSCode 里咋弄折行？",
-        "link": "https://www.v2ex.com/t/864980",
-        "date": "2022-07-08"
-      },
-      {
-        "title": "使用其他程序完全相同数据库字段、结构，只进行逻辑层开发，是否侵 权",
-        "link": "https://www.v2ex.com/t/864979",
-        "date": "2022-07-08"
-      },
-      {
-        "title": "Windows 下有没有类似 Mac Thor 或者 Snap 等可以使用快捷键切换应用的开源软件？",
-        "link": "https://www.v2ex.com/t/864978",
-        "date": "2022-07-08"
-      },
-      {
-        "title": "请教 App Store 如何在有余额的情况下优先使用支付宝扣款",
-        "link": "https://www.v2ex.com/t/864977",
         "date": "2022-07-08"
       }
     ]
@@ -10364,6 +10364,11 @@
       {
         "title": "[推荐] 月活 12.8 亿的微信，海量请求下是如何防止崩溃的？",
         "link": "https://toutiao.io/k/fflgnsh",
+        "date": "2022-07-08"
+      },
+      {
+        "title": "[推荐] 服务端监控架构设计与实践",
+        "link": "https://toutiao.io/k/xhwa9mo",
         "date": "2022-07-08"
       },
       {

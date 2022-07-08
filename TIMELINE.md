@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-08 15:44:28。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-07-08 16:21:36。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,12 @@
 </summary>
 
 
+- [【V2EX】2022-07-08-最近写的一个基于-Raft-算法定义的分布式运维软件](https://www.v2ex.com/t/865032) 
+- [【V2EX】2022-07-08-［讨论帖］为什么会出现“一边公司招人难，一边求职者找工作难”的问题](https://www.v2ex.com/t/865031) 
+- [【V2EX】2022-07-08-NS-的斯普拉遁-3（喷射战士-3）会有国行版吗？](https://www.v2ex.com/t/865030) 
+- [【V2EX】2022-07-08-请教-docker-挂载目录文件不同步的问题](https://www.v2ex.com/t/865029) 
+- [【V2EX】2022-07-08-没产品没-ui-需求不明确都是怎么开发的](https://www.v2ex.com/t/865028) 
+- [【V2EX】2022-07-08-V-友们，怎么样投诉才能取消长城宽带合约并退款呢？](https://www.v2ex.com/t/865027) 
 - [【V2EX】2022-07-08-这是个什么沙雕公司？-广州爱奇旅信息科技有限公司，](https://www.v2ex.com/t/865024) 
 - [【V2EX】2022-07-08-QQ-被盗号发黄图，真给我“长脸”了](https://www.v2ex.com/t/865022) 
 - [【V2EX】2022-07-08-远程工作，自研公司非外包，我直招！-Vue+Node！](https://www.v2ex.com/t/865020) 
@@ -102,12 +108,6 @@
 - [【V2EX】2022-07-08-优质的儿童-动画片-环境如何创造？关键字：奈飞-迪士尼](https://www.v2ex.com/t/864985) 
 - [【V2EX】2022-07-08-摇了-12-期，今天终于摇中了粤-b](https://www.v2ex.com/t/864984) 
 - [【V2EX】2022-07-08-现在买-mac-mini-是个好时机吗？](https://www.v2ex.com/t/864983) 
-- [【V2EX】2022-07-08-如果你感兴趣，可以来看看我对公司产品网络的优化](https://www.v2ex.com/t/864982) 
-- [【V2EX】2022-07-08-hhkb-在-m1-pro-上的-f-键怎么按？](https://www.v2ex.com/t/864981) 
-- [【V2EX】2022-07-08-VSCode-里咋弄折行？](https://www.v2ex.com/t/864980) 
-- [【V2EX】2022-07-08-使用其他程序完全相同数据库字段、结构，只进行逻辑层开发，是否侵-权](https://www.v2ex.com/t/864979) 
-- [【V2EX】2022-07-08-Windows-下有没有类似-Mac-Thor-或者-Snap-等可以使用快捷键切换应用的开源软件？](https://www.v2ex.com/t/864978) 
-- [【V2EX】2022-07-08-请教-App-Store-如何在有余额的情况下优先使用支付宝扣款](https://www.v2ex.com/t/864977) 
 - [【技术头条】2022-07-08-遗留系统的服务拆分-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15215&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fservice-splitting-legacy-systems%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-08-Thoughtworks-全球CTO：按需求构建架构，过度工程只会“劳民伤财”-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15214&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftechnology-radar-rebecca-interview%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-08-故事点-vs.-人天-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15213&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fagile-estimation-story-points-man-day%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -148,6 +148,7 @@
 - [【开发者头条】2022-07-08-优化-Go-错误处理，魔改-Go-recover-靠谱吗？](https://toutiao.io/k/j8u9be5) 
 - [【开发者头条】2022-07-08-​Android动态加载so！这一篇就够了！](https://toutiao.io/k/njkxqts) 
 - [【开发者头条】2022-07-08-推荐-月活-12.8-亿的微信，海量请求下是如何防止崩溃的？](https://toutiao.io/k/fflgnsh) 
+- [【开发者头条】2022-07-08-推荐-服务端监控架构设计与实践](https://toutiao.io/k/xhwa9mo) 
 - [【开发者头条】2022-07-08-推荐-吐血整理：一份不可多得的架构师图谱！](https://toutiao.io/k/ptp0ru2) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>

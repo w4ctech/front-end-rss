@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-08 23:14:14。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-08 23:39:32。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,7 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-07-08-列表如何找出并修正“噪点”数据](https://www.v2ex.com/t/865048) 
 - [2022-07-08-iPhone-用-onedrive-客户端上传照片，如何不上传-heic-格式的？如何设置？](https://www.v2ex.com/t/865047) 
 - [2022-07-08-Pycharm-有什么好看的主题配色吗？](https://www.v2ex.com/t/865046) 
 - [2022-07-08-睡不着的在线求赐教～疑似发现某集团邮箱（部分员工账户）被不法分子利用](https://www.v2ex.com/t/865044) 
@@ -1941,7 +1942,6 @@
 - [2022-07-08-大家-M2-的-Air-发货时间多久啊?](https://www.v2ex.com/t/865001) 
 - [2022-07-08-你的-M2-Air-预计什么时间送达？](https://www.v2ex.com/t/865000) 
 - [2022-07-08-现在是不是没有居民社保了？只有灵活就业？](https://www.v2ex.com/t/864999) 
-- [2022-07-08-淘宝上的绕线画大家有了解过吗](https://www.v2ex.com/t/864998) 
 - [2022-07-08-遗留系统的服务拆分-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15215&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fservice-splitting-legacy-systems%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-08-故事点-vs.-人天-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15213&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fagile-estimation-story-points-man-day%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-08-如何设计数据可视化平台-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15212&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-design-data-visualization-platform%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

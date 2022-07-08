@@ -9953,6 +9953,51 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "摇了 12 期，今天终于摇中了粤 b",
+        "link": "https://www.v2ex.com/t/864984",
+        "date": "2022-07-08"
+      },
+      {
+        "title": "现在买 mac mini 是个好时机吗？",
+        "link": "https://www.v2ex.com/t/864983",
+        "date": "2022-07-08"
+      },
+      {
+        "title": "如果你感兴趣，可以来看看我对公司产品网络的优化",
+        "link": "https://www.v2ex.com/t/864982",
+        "date": "2022-07-08"
+      },
+      {
+        "title": "hhkb 在 m1 pro 上的 f 键怎么按？",
+        "link": "https://www.v2ex.com/t/864981",
+        "date": "2022-07-08"
+      },
+      {
+        "title": "VSCode 里咋弄折行？",
+        "link": "https://www.v2ex.com/t/864980",
+        "date": "2022-07-08"
+      },
+      {
+        "title": "使用其他程序完全相同数据库字段、结构，只进行逻辑层开发，是否侵 权",
+        "link": "https://www.v2ex.com/t/864979",
+        "date": "2022-07-08"
+      },
+      {
+        "title": "Windows 下有没有类似 Mac Thor 或者 Snap 等可以使用快捷键切换应用的开源软件？",
+        "link": "https://www.v2ex.com/t/864978",
+        "date": "2022-07-08"
+      },
+      {
+        "title": "请教 App Store 如何在有余额的情况下优先使用支付宝扣款",
+        "link": "https://www.v2ex.com/t/864977",
+        "date": "2022-07-08"
+      },
+      {
+        "title": "Visual Studio Code Python - 2022 年 7 月更新 - 嵌入类型提示和 Jupyter 设置体验升级",
+        "link": "https://www.v2ex.com/t/864976",
+        "date": "2022-07-08"
+      },
+      {
         "title": "服务端有什么难的？",
         "link": "https://www.v2ex.com/t/864975",
         "date": "2022-07-08"
@@ -10115,41 +10160,6 @@
       {
         "title": "招聘 Remote Flutter（远程 Flutter 开发）",
         "link": "https://www.v2ex.com/t/864936",
-        "date": "2022-07-08"
-      },
-      {
-        "title": "山姆亲友卡，可以咸鱼吗？有风险么，和主卡有什么不同呀？",
-        "link": "https://www.v2ex.com/t/864934",
-        "date": "2022-07-08"
-      },
-      {
-        "title": "宝子们，求助，关于局域网抖动的问题",
-        "link": "https://www.v2ex.com/t/864933",
-        "date": "2022-07-08"
-      },
-      {
-        "title": "杨浦区个人转租，朝南带阳台主卧， 3030",
-        "link": "https://www.v2ex.com/t/864932",
-        "date": "2022-07-08"
-      },
-      {
-        "title": "Alfred5 来了，我们来看看对比 Raycast 有啥亮点",
-        "link": "https://www.v2ex.com/t/864931",
-        "date": "2022-07-08"
-      },
-      {
-        "title": "根据 2022.07.08 今天发生的大事件，思考润出去的人的生活的可能性",
-        "link": "https://www.v2ex.com/t/864930",
-        "date": "2022-07-08"
-      },
-      {
-        "title": "Swift Combine 的类型看着真心累啊",
-        "link": "https://www.v2ex.com/t/864929",
-        "date": "2022-07-08"
-      },
-      {
-        "title": "有什么办法能够快速分享只读 terminal 给同事让他们观看么？",
-        "link": "https://www.v2ex.com/t/864928",
         "date": "2022-07-08"
       }
     ]
@@ -10322,13 +10332,13 @@
         "date": "2022-07-08"
       },
       {
-        "title": "关于程序员的职业操守，从《匠艺整洁之道》谈起",
-        "link": "https://toutiao.io/k/7n9o83n",
+        "title": "Redis-数据结构详解（上）",
+        "link": "https://toutiao.io/k/bymnst2",
         "date": "2022-07-08"
       },
       {
-        "title": "Redis-数据结构详解（上）",
-        "link": "https://toutiao.io/k/bymnst2",
+        "title": "关于程序员的职业操守，从《匠艺整洁之道》谈起",
+        "link": "https://toutiao.io/k/7n9o83n",
         "date": "2022-07-08"
       },
       {
@@ -10337,13 +10347,13 @@
         "date": "2022-07-08"
       },
       {
-        "title": "对开源框架跃跃欲试，却在写的时候犯了难？",
-        "link": "https://toutiao.io/k/ehlo02c",
+        "title": "如何管理leader对你的能力预期？",
+        "link": "https://toutiao.io/k/63o1xaa",
         "date": "2022-07-08"
       },
       {
-        "title": "如何管理leader对你的能力预期？",
-        "link": "https://toutiao.io/k/63o1xaa",
+        "title": "对开源框架跃跃欲试，却在写的时候犯了难？",
+        "link": "https://toutiao.io/k/ehlo02c",
         "date": "2022-07-08"
       },
       {
@@ -10352,13 +10362,13 @@
         "date": "2022-07-08"
       },
       {
-        "title": "优化 Go 错误处理，魔改 Go recover 靠谱吗？",
-        "link": "https://toutiao.io/k/j8u9be5",
+        "title": "​Android动态加载so！这一篇就够了！",
+        "link": "https://toutiao.io/k/njkxqts",
         "date": "2022-07-08"
       },
       {
-        "title": "​Android动态加载so！这一篇就够了！",
-        "link": "https://toutiao.io/k/njkxqts",
+        "title": "优化 Go 错误处理，魔改 Go recover 靠谱吗？",
+        "link": "https://toutiao.io/k/j8u9be5",
         "date": "2022-07-08"
       },
       {

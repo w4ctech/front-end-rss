@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-08 08:20:14。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-08 08:47:54。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,11 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-07-08-《咒》上线了-有喜欢华语恐怖片的不](https://www.v2ex.com/t/864958) 
+- [2022-07-08-m2-的-MacBook-Air-今晚预订，大家是冲首发，还是等一波评测？](https://www.v2ex.com/t/864957) 
+- [2022-07-08-远程办公/大牛云集/小而美-软件开发社区运营经理-正在热招](https://www.v2ex.com/t/864956) 
+- [2022-07-08-迟迟收不到-fleet-的邀请，来求一个-windows-版本安装包](https://www.v2ex.com/t/864954) 
+- [2022-07-08-杭州/北京-字节抖音极速版招前端工程师](https://www.v2ex.com/t/864953) 
 - [2022-07-08-做了一个-Awesome-项目搜索网站](https://www.v2ex.com/t/864952) 
 - [2022-07-08-科韵路地铁站那块-有啥性价比高的小区租房呀](https://www.v2ex.com/t/864951) 
 - [2022-07-08-你们会考虑给-MacBook-换硅脂么？](https://www.v2ex.com/t/864950) 
@@ -1940,11 +1945,6 @@
 - [2022-07-08-淘宝办上海移动单宽带-200m-530/年。问卖家是装在他们公司名下的](https://www.v2ex.com/t/864913) 
 - [2022-07-08-Golang-版本的咪咕音乐下载器](https://www.v2ex.com/t/864911) 
 - [2022-07-08-在写-go-的-parser-时，对于语法有定义有一些疑惑](https://www.v2ex.com/t/864910) 
-- [2022-07-08-M1-如何在-parallels-上安装-ARM-版本的-Win10-和-Win2016-虚拟机](https://www.v2ex.com/t/864909) 
-- [2022-07-08-12mini-有换-13mini-的必要吗？-提问于-2022-年-8-月](https://www.v2ex.com/t/864908) 
-- [2022-07-08-为什么电脑时间不走](https://www.v2ex.com/t/864905) 
-- [2022-07-08-生产服务器需要配置什么-jvm-参数](https://www.v2ex.com/t/864904) 
-- [2022-07-08-关于-autosleep](https://www.v2ex.com/t/864903) 
 - [2022-07-08-遗留系统的服务拆分-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15215&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fservice-splitting-legacy-systems%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-08-故事点-vs.-人天-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15213&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fagile-estimation-story-points-man-day%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-08-如何设计数据可视化平台-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15212&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-design-data-visualization-platform%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1976,6 +1976,6 @@
 - [2022-07-08-Redis-数据结构详解（上）](https://toutiao.io/k/bymnst2) 
 - [2022-07-08-40000-字！全网最强-Matplotlib-实操指南!](https://toutiao.io/k/n7go41c) 
 - [2022-07-08-对开源框架跃跃欲试，却在写的时候犯了难？](https://toutiao.io/k/ehlo02c) 
-- [2022-07-08-如何管理leader对你的能力预期？](https://toutiao.io/k/63o1xaa) 
 - [2022-07-08-工程师世界的《原则》，Quora创始人豆瓣9.2分神作！](https://toutiao.io/k/mjd63rl) 
+- [2022-07-08-如何管理leader对你的能力预期？](https://toutiao.io/k/63o1xaa) 
 - [2022-07-08-推荐-吐血整理：一份不可多得的架构师图谱！](https://toutiao.io/k/ptp0ru2) 

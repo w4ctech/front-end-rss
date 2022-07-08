@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-08 08:20:14。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-07-08 08:47:54。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,12 @@
 </summary>
 
 
+- [【V2EX】2022-07-08-《咒》上线了-有喜欢华语恐怖片的不](https://www.v2ex.com/t/864958) 
+- [【V2EX】2022-07-08-m2-的-MacBook-Air-今晚预订，大家是冲首发，还是等一波评测？](https://www.v2ex.com/t/864957) 
+- [【V2EX】2022-07-08-远程办公/大牛云集/小而美-软件开发社区运营经理-正在热招](https://www.v2ex.com/t/864956) 
+- [【V2EX】2022-07-08-大家的-pycharm-遇到过导入的包明明有使用，但是一直提示-Unused-import-statement-吗](https://www.v2ex.com/t/864955) 
+- [【V2EX】2022-07-08-迟迟收不到-fleet-的邀请，来求一个-windows-版本安装包](https://www.v2ex.com/t/864954) 
+- [【V2EX】2022-07-08-杭州/北京-字节抖音极速版招前端工程师](https://www.v2ex.com/t/864953) 
 - [【V2EX】2022-07-08-做了一个-Awesome-项目搜索网站](https://www.v2ex.com/t/864952) 
 - [【V2EX】2022-07-08-科韵路地铁站那块-有啥性价比高的小区租房呀](https://www.v2ex.com/t/864951) 
 - [【V2EX】2022-07-08-你们会考虑给-MacBook-换硅脂么？](https://www.v2ex.com/t/864950) 
@@ -102,11 +108,6 @@
 - [【V2EX】2022-07-08-淘宝办上海移动单宽带-200m-530/年。问卖家是装在他们公司名下的](https://www.v2ex.com/t/864913) 
 - [【V2EX】2022-07-08-Golang-版本的咪咕音乐下载器](https://www.v2ex.com/t/864911) 
 - [【V2EX】2022-07-08-在写-go-的-parser-时，对于语法有定义有一些疑惑](https://www.v2ex.com/t/864910) 
-- [【V2EX】2022-07-08-M1-如何在-parallels-上安装-ARM-版本的-Win10-和-Win2016-虚拟机](https://www.v2ex.com/t/864909) 
-- [【V2EX】2022-07-08-12mini-有换-13mini-的必要吗？-提问于-2022-年-8-月](https://www.v2ex.com/t/864908) 
-- [【V2EX】2022-07-08-为什么电脑时间不走](https://www.v2ex.com/t/864905) 
-- [【V2EX】2022-07-08-生产服务器需要配置什么-jvm-参数](https://www.v2ex.com/t/864904) 
-- [【V2EX】2022-07-08-关于-autosleep](https://www.v2ex.com/t/864903) 
 - [【技术头条】2022-07-08-遗留系统的服务拆分-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15215&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fservice-splitting-legacy-systems%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-08-Thoughtworks-全球CTO：按需求构建架构，过度工程只会“劳民伤财”-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15214&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftechnology-radar-rebecca-interview%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-08-故事点-vs.-人天-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15213&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fagile-estimation-story-points-man-day%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -142,8 +143,8 @@
 - [【开发者头条】2022-07-08-Redis-数据结构详解（上）](https://toutiao.io/k/bymnst2) 
 - [【开发者头条】2022-07-08-40000-字！全网最强-Matplotlib-实操指南!](https://toutiao.io/k/n7go41c) 
 - [【开发者头条】2022-07-08-对开源框架跃跃欲试，却在写的时候犯了难？](https://toutiao.io/k/ehlo02c) 
-- [【开发者头条】2022-07-08-如何管理leader对你的能力预期？](https://toutiao.io/k/63o1xaa) 
 - [【开发者头条】2022-07-08-工程师世界的《原则》，Quora创始人豆瓣9.2分神作！](https://toutiao.io/k/mjd63rl) 
+- [【开发者头条】2022-07-08-如何管理leader对你的能力预期？](https://toutiao.io/k/63o1xaa) 
 - [【开发者头条】2022-07-08-​Android动态加载so！这一篇就够了！](https://toutiao.io/k/njkxqts) 
 - [【开发者头条】2022-07-08-优化-Go-错误处理，魔改-Go-recover-靠谱吗？](https://toutiao.io/k/j8u9be5) 
 - [【开发者头条】2022-07-08-推荐-月活-12.8-亿的微信，海量请求下是如何防止崩溃的？](https://toutiao.io/k/fflgnsh) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-07-08 21:39:46，:rocket: 更新条数: +2028， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-07-08 22:12:57，:rocket: 更新条数: +2028， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-07-08-Pycharm-有什么好看的主题配色吗？](https://www.v2ex.com/t/865046) ![](assets/new.png)  
 - [2022-07-08-最近面试遇到的装逼面试官](https://www.v2ex.com/t/865045) ![](assets/new.png)  
 - [2022-07-08-睡不着的在线求赐教～疑似发现某集团邮箱（部分员工账户）被不法分子利用](https://www.v2ex.com/t/865044) ![](assets/new.png)  
 - [2022-07-08-115-的云下载是在电脑端不能用吗？](https://www.v2ex.com/t/865043) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-07-08-V-友们，怎么样投诉才能取消长城宽带合约并退款呢？](https://www.v2ex.com/t/865027) ![](assets/new.png)  
 - [2022-07-08-这是个什么沙雕公司？-广州爱奇旅信息科技有限公司，](https://www.v2ex.com/t/865024) ![](assets/new.png)  
 - [2022-07-08-QQ-被盗号发黄图，真给我“长脸”了](https://www.v2ex.com/t/865022) ![](assets/new.png)  
-- [2022-07-08-远程工作，自研公司非外包，我直招！-Vue+Node！](https://www.v2ex.com/t/865020) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

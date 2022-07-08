@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-08 07:38:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-08 08:20:14。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -15,6 +15,5 @@
 - [2021-01-01-大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html) 
 - [2022-06-12-基于文字的URL锚点定位与::target-text样式设置](https://www.zhangxinxu.com/wordpress/2022/06/url-anchor-target-text/) 
 - [2022-07-08-尝试用-Windows-包管理器（winget）的感觉](https://www.v2ex.com/t/864943) 
-- [2022-07-08-pve-直通独显之-PCIE-插槽问题](https://www.v2ex.com/t/864897) 
 - [2022-07-08-什么鬼：谷歌浏览器，一次get请求建立两次tcp连接](https://toutiao.io/k/d2k0ruf) 
 - [2022-07-08-推荐-月活-12.8-亿的微信，海量请求下是如何防止崩溃的？](https://toutiao.io/k/fflgnsh) 

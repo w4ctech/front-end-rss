@@ -9953,6 +9953,16 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "现在还有公司找 Java 后端吗？",
+        "link": "https://www.v2ex.com/t/865014",
+        "date": "2022-07-08"
+      },
+      {
+        "title": "最近很火的那个中文语音合成器被 Hugging Face 的 CTO + 联合创始人关注了",
+        "link": "https://www.v2ex.com/t/865013",
+        "date": "2022-07-08"
+      },
+      {
         "title": "OCR 竖排文字（尤其是竖排日语）有什么好的解决方案吗？",
         "link": "https://www.v2ex.com/t/865012",
         "date": "2022-07-08"
@@ -10145,11 +10155,6 @@
       {
         "title": "SRS 多媒体服务器 webrtc 的问题",
         "link": "https://www.v2ex.com/t/864965",
-        "date": "2022-07-08"
-      },
-      {
-        "title": "大手子们，有没有那种可以让一把键盘同时接到两台电脑上的 USB 线？",
-        "link": "https://www.v2ex.com/t/864964",
         "date": "2022-07-08"
       }
     ]

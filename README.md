@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-07-08 13:54:29，:rocket: 更新条数: +2027， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-07-08 14:14:45，:rocket: 更新条数: +2028， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-07-08-现在还有公司找-Java-后端吗？](https://www.v2ex.com/t/865014) ![](assets/new.png)  
+- [2022-07-08-最近很火的那个中文语音合成器被-Hugging-Face-的-CTO-+-联合创始人关注了](https://www.v2ex.com/t/865013) ![](assets/new.png)  
 - [2022-07-08-OCR-竖排文字（尤其是竖排日语）有什么好的解决方案吗？](https://www.v2ex.com/t/865012) ![](assets/new.png)  
 - [2022-07-08-闲鱼/PDD-上的-Macbook-扩展坞-A2119，-150~200-就能买到是真的假的？](https://www.v2ex.com/t/865010) ![](assets/new.png)  
 - [2022-07-08-持-iPad-mini6-蜂窝版的进](https://www.v2ex.com/t/865009) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-07-08-vercel-账号被封了，怎么办？](https://www.v2ex.com/t/864993) ![](assets/new.png)  
 - [2022-07-08-JDK-的-String-类的-UID-数字值是什么定义出来的？随便敲出来的？还是有什么生成规则吗？-serialVersionUID-=--6849794470754667710L](https://www.v2ex.com/t/864992) ![](assets/new.png)  
 - [2022-07-08-pyqt5-textedit-重写点击事件后无法选中文本](https://www.v2ex.com/t/864991) ![](assets/new.png)  
-- [2022-07-08-有-Mac-下图形化图像数据标注-App-推荐吗？](https://www.v2ex.com/t/864989) ![](assets/new.png)  
-- [2022-07-08-如何获取游戏盾的真实-IP，有没有什么方法或者思路？求大神指点。](https://www.v2ex.com/t/864987) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

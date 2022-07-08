@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-08 13:54:29。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-07-08 14:14:45。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,8 @@
 </summary>
 
 
+- [【V2EX】2022-07-08-现在还有公司找-Java-后端吗？](https://www.v2ex.com/t/865014) 
+- [【V2EX】2022-07-08-最近很火的那个中文语音合成器被-Hugging-Face-的-CTO-+-联合创始人关注了](https://www.v2ex.com/t/865013) 
 - [【V2EX】2022-07-08-OCR-竖排文字（尤其是竖排日语）有什么好的解决方案吗？](https://www.v2ex.com/t/865012) 
 - [【V2EX】2022-07-08-闲鱼/PDD-上的-Macbook-扩展坞-A2119，-150~200-就能买到是真的假的？](https://www.v2ex.com/t/865010) 
 - [【V2EX】2022-07-08-持-iPad-mini6-蜂窝版的进](https://www.v2ex.com/t/865009) 
@@ -107,7 +109,6 @@
 - [【V2EX】2022-07-08-即将升级为宝爸，有什么可以系统性学习的知识么](https://www.v2ex.com/t/864967) 
 - [【V2EX】2022-07-08-游戏中每隔-xx-分钟回复一格体力-数据库一般是怎么存储的？](https://www.v2ex.com/t/864966) 
 - [【V2EX】2022-07-08-SRS-多媒体服务器-webrtc-的问题](https://www.v2ex.com/t/864965) 
-- [【V2EX】2022-07-08-大手子们，有没有那种可以让一把键盘同时接到两台电脑上的-USB-线？](https://www.v2ex.com/t/864964) 
 - [【技术头条】2022-07-08-遗留系统的服务拆分-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15215&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fservice-splitting-legacy-systems%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-08-Thoughtworks-全球CTO：按需求构建架构，过度工程只会“劳民伤财”-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15214&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftechnology-radar-rebecca-interview%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-08-故事点-vs.-人天-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15213&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fagile-estimation-story-points-man-day%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

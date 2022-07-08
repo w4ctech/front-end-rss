@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-08 04:15:59。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-07-08 05:04:00。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,7 +68,13 @@
 </summary>
 
 
-- [【V2EX】2022-07-08-安倍晋三被枪击的,知道是怎么回事吗](https://www.v2ex.com/t/864901) 
+- [【V2EX】2022-07-08-在写-go-的-parser-时，对于语法有定义有一些疑惑](https://www.v2ex.com/t/864910) 
+- [【V2EX】2022-07-08-M1-如何在-parallels-上安装-ARM-版本的-Win10-和-Win2016-虚拟机](https://www.v2ex.com/t/864909) 
+- [【V2EX】2022-07-08-12mini-有换-13mini-的必要吗？-提问于-2022-年-8-月](https://www.v2ex.com/t/864908) 
+- [【V2EX】2022-07-08-为什么电脑时间不走](https://www.v2ex.com/t/864905) 
+- [【V2EX】2022-07-08-生产服务器需要配置什么-jvm-参数](https://www.v2ex.com/t/864904) 
+- [【V2EX】2022-07-08-关于-autosleep](https://www.v2ex.com/t/864903) 
+- [【V2EX】2022-07-08-去哪买-google-voice?](https://www.v2ex.com/t/864902) 
 - [【V2EX】2022-07-08-上海-HC-#元宇宙#智能虚拟人社交#招募推荐算法/后端开发](https://www.v2ex.com/t/864900) 
 - [【V2EX】2022-07-08-NRC-修该地区以后，依旧可以用](https://www.v2ex.com/t/864899) 
 - [【V2EX】2022-07-08-老板跑路,如何挽回部分损失限深圳,上海](https://www.v2ex.com/t/864898) 
@@ -101,15 +107,6 @@
 - [【V2EX】2022-07-08-小白批量下载-100-个-mp3-文件之后重命名的挣扎过程](https://www.v2ex.com/t/864865) 
 - [【V2EX】2022-07-08-xdm。-你们平时有啥副业吗？-程序员除了接私活-还能干啥？](https://www.v2ex.com/t/864863) 
 - [【V2EX】2022-07-08-英文中，所有“字母+数字+标点符号”的统称叫什么？](https://www.v2ex.com/t/864862) 
-- [【V2EX】2022-07-08-iOS-连接公司-WiFi，信任了公司的-WiFi-证书，能解密我访问的流量吗（https-or）](https://www.v2ex.com/t/864860) 
-- [【V2EX】2022-07-08-芒果熟啦！广西百色芒果，欢迎-V-友们尝鲜](https://www.v2ex.com/t/864859) 
-- [【V2EX】2022-07-08-网络上的盗版影视资源的传播链是怎样的？](https://www.v2ex.com/t/864858) 
-- [【V2EX】2022-07-08-有朋友在-mac-上玩原神吗](https://www.v2ex.com/t/864857) 
-- [【V2EX】2022-07-08-最新版本的-vscode-不会自动补全!框架了吗](https://www.v2ex.com/t/864856) 
-- [【V2EX】2022-07-08-M2-芯片-MacBook-安装-playcover](https://www.v2ex.com/t/864855) 
-- [【V2EX】2022-07-08-网易云黑胶-VIP（7-天），共-5-张（7-月份）这个月来的有点迟，抱歉](https://www.v2ex.com/t/864854) 
-- [【V2EX】2022-07-08-前端·通知请求-获取没有确认的通知数量的请求,应当放在什么周期?](https://www.v2ex.com/t/864853) 
-- [【V2EX】2022-07-08-字节跳动-2023-校招提前批开启啦，欢饮关注投递！](https://www.v2ex.com/t/864852) 
 - [【技术头条】2022-07-08-遗留系统的服务拆分-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15215&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fservice-splitting-legacy-systems%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-08-Thoughtworks-全球CTO：按需求构建架构，过度工程只会“劳民伤财”-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15214&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftechnology-radar-rebecca-interview%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-08-故事点-vs.-人天-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15213&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fagile-estimation-story-points-man-day%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

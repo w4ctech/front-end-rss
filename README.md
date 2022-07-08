@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-07-08 04:15:59，:rocket: 更新条数: +2024， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-07-08 05:04:00，:rocket: 更新条数: +2021， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,7 +491,13 @@
 </summary>
 
 
-- [2022-07-08-安倍晋三被枪击的,知道是怎么回事吗](https://www.v2ex.com/t/864901) ![](assets/new.png)  
+- [2022-07-08-在写-go-的-parser-时，对于语法有定义有一些疑惑](https://www.v2ex.com/t/864910) ![](assets/new.png)  
+- [2022-07-08-M1-如何在-parallels-上安装-ARM-版本的-Win10-和-Win2016-虚拟机](https://www.v2ex.com/t/864909) ![](assets/new.png)  
+- [2022-07-08-12mini-有换-13mini-的必要吗？-提问于-2022-年-8-月](https://www.v2ex.com/t/864908) ![](assets/new.png)  
+- [2022-07-08-为什么电脑时间不走](https://www.v2ex.com/t/864905) ![](assets/new.png)  
+- [2022-07-08-生产服务器需要配置什么-jvm-参数](https://www.v2ex.com/t/864904) ![](assets/new.png)  
+- [2022-07-08-关于-autosleep](https://www.v2ex.com/t/864903) ![](assets/new.png)  
+- [2022-07-08-去哪买-google-voice?](https://www.v2ex.com/t/864902) ![](assets/new.png)  
 - [2022-07-08-上海-HC-#元宇宙#智能虚拟人社交#招募推荐算法/后端开发](https://www.v2ex.com/t/864900) ![](assets/new.png)  
 - [2022-07-08-NRC-修该地区以后，依旧可以用](https://www.v2ex.com/t/864899) ![](assets/new.png)  
 - [2022-07-08-老板跑路,如何挽回部分损失限深圳,上海](https://www.v2ex.com/t/864898) ![](assets/new.png)  
@@ -505,12 +511,6 @@
 - [2022-07-08-刚面了一个-6-年的前端，页面有-10-张图片每个-1MB，-2000-个用户同时访问需要多大带宽](https://www.v2ex.com/t/864888) ![](assets/new.png)  
 - [2022-07-08-iPadOS16-外接显示器微信可以自由缩放窗口,但缩放窗口只能显示左边三分之二的部分,微信一适配-iPadOS16-是不是-M1-Mac-也能运行-iPad-微信然后自由缩放窗口了?到...](https://www.v2ex.com/t/864887) ![](assets/new.png)  
 - [2022-07-08-golang-http-server-如果出现功能不正常，或者报错，你们是怎么定位问题的呢](https://www.v2ex.com/t/864886) ![](assets/new.png)  
-- [2022-07-08-现在的小米-AI-通话是不是不管用了？](https://www.v2ex.com/t/864885) ![](assets/new.png)  
-- [2022-07-08-16-薪加绩效深圳/珠海/上海内推芯片设计公司招-C++/嵌入式/图像深度学习/3D-重建——周末双休，全额五险一金。](https://www.v2ex.com/t/864884) ![](assets/new.png)  
-- [2022-07-08-宽带移机后光猫无法获取-IPv6-地址](https://www.v2ex.com/t/864882) ![](assets/new.png)  
-- [2022-07-08-Python-pop-收信被限制](https://www.v2ex.com/t/864881) ![](assets/new.png)  
-- [2022-07-08-北京哪里能买到-200-300W-总价的房子，希望以后房子至少不贬值](https://www.v2ex.com/t/864879) ![](assets/new.png)  
-- [2022-07-08-朋友表白被拒，最近几天闷闷不乐，有啥好活动推荐？周末带他去散散心。](https://www.v2ex.com/t/864878) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

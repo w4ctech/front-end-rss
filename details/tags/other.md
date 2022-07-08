@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-08 16:21:36。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-08 17:03:40。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,8 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-07-08-M2-Air-最耐用的颜色是银色？](https://www.v2ex.com/t/865034) 
+- [2022-07-08-win10-系统,桌面右键的-排序方式-这个选项怎么给删除掉.](https://www.v2ex.com/t/865033) 
 - [2022-07-08-［讨论帖］为什么会出现“一边公司招人难，一边求职者找工作难”的问题](https://www.v2ex.com/t/865031) 
 - [2022-07-08-NS-的斯普拉遁-3（喷射战士-3）会有国行版吗？](https://www.v2ex.com/t/865030) 
 - [2022-07-08-没产品没-ui-需求不明确都是怎么开发的](https://www.v2ex.com/t/865028) 
@@ -1937,8 +1939,6 @@
 - [2022-07-08-Cloudflare-要干啥](https://www.v2ex.com/t/864994) 
 - [2022-07-08-vercel-账号被封了，怎么办？](https://www.v2ex.com/t/864993) 
 - [2022-07-08-JDK-的-String-类的-UID-数字值是什么定义出来的？随便敲出来的？还是有什么生成规则吗？-serialVersionUID-=--6849794470754667710L](https://www.v2ex.com/t/864992) 
-- [2022-07-08-摇了-12-期，今天终于摇中了粤-b](https://www.v2ex.com/t/864984) 
-- [2022-07-08-现在买-mac-mini-是个好时机吗？](https://www.v2ex.com/t/864983) 
 - [2022-07-08-遗留系统的服务拆分-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15215&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fservice-splitting-legacy-systems%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-08-故事点-vs.-人天-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15213&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fagile-estimation-story-points-man-day%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-08-如何设计数据可视化平台-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15212&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-design-data-visualization-platform%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

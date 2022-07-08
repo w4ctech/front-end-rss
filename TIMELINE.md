@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-08 17:49:02。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-07-08 18:16:46。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,9 @@
 </summary>
 
 
+- [【V2EX】2022-07-08-115-的云下载是在电脑端不能用吗？](https://www.v2ex.com/t/865043) 
+- [【V2EX】2022-07-08-论坛不允许新人发帖了吗](https://www.v2ex.com/t/865042) 
+- [【V2EX】2022-07-08-第三次吐槽-Win-11-的垃圾触摸键盘,-顺便分享我的缓解方案,-对-Win-10-也有另外的疗效](https://www.v2ex.com/t/865041) 
 - [【V2EX】2022-07-08-¥¥#pansz-下##](https://www.v2ex.com/t/865040) 
 - [【V2EX】2022-07-08-2022-年-7-月，-obsidian-依然必装的-10-个插件](https://www.v2ex.com/t/865039) 
 - [【V2EX】2022-07-08-Copylot-,-hmm-...-有点意思](https://www.v2ex.com/t/865038) 
@@ -106,9 +109,6 @@
 - [【V2EX】2022-07-08-openwrt-是要在-wolfssl-这棵树上吊死啊。。](https://www.v2ex.com/t/864996) 
 - [【V2EX】2022-07-08-从来没见过这种网页，差点上当了](https://www.v2ex.com/t/864995) 
 - [【V2EX】2022-07-08-Cloudflare-要干啥](https://www.v2ex.com/t/864994) 
-- [【V2EX】2022-07-08-vercel-账号被封了，怎么办？](https://www.v2ex.com/t/864993) 
-- [【V2EX】2022-07-08-JDK-的-String-类的-UID-数字值是什么定义出来的？随便敲出来的？还是有什么生成规则吗？-serialVersionUID-=--6849794470754667710L](https://www.v2ex.com/t/864992) 
-- [【V2EX】2022-07-08-pyqt5-textedit-重写点击事件后无法选中文本](https://www.v2ex.com/t/864991) 
 - [【技术头条】2022-07-08-遗留系统的服务拆分-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15215&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fservice-splitting-legacy-systems%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-08-Thoughtworks-全球CTO：按需求构建架构，过度工程只会“劳民伤财”-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15214&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftechnology-radar-rebecca-interview%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-08-故事点-vs.-人天-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15213&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fagile-estimation-story-points-man-day%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -148,9 +148,9 @@
 - [【开发者头条】2022-07-08-对开源框架跃跃欲试，却在写的时候犯了难？](https://toutiao.io/k/ehlo02c) 
 - [【开发者头条】2022-07-08-优化-Go-错误处理，魔改-Go-recover-靠谱吗？](https://toutiao.io/k/j8u9be5) 
 - [【开发者头条】2022-07-08-​Android动态加载so！这一篇就够了！](https://toutiao.io/k/njkxqts) 
-- [【开发者头条】2022-07-08-推荐-服务端监控架构设计与实践](https://toutiao.io/k/xhwa9mo) 
 - [【开发者头条】2022-07-08-推荐-月活-12.8-亿的微信，海量请求下是如何防止崩溃的？](https://toutiao.io/k/fflgnsh) 
 - [【开发者头条】2022-07-08-推荐-吐血整理：一份不可多得的架构师图谱！](https://toutiao.io/k/ptp0ru2) 
+- [【开发者头条】2022-07-08-推荐-服务端监控架构设计与实践](https://toutiao.io/k/xhwa9mo) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

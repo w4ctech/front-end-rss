@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-08 22:40:07。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-08 23:04:14。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1974,5 +1974,5 @@
 - [2022-07-08-如何管理leader对你的能力预期？](https://toutiao.io/k/63o1xaa) 
 - [2022-07-08-工程师世界的《原则》，Quora创始人豆瓣9.2分神作！](https://toutiao.io/k/mjd63rl) 
 - [2022-07-08-对开源框架跃跃欲试，却在写的时候犯了难？](https://toutiao.io/k/ehlo02c) 
-- [2022-07-08-推荐-服务端监控架构设计与实践](https://toutiao.io/k/xhwa9mo) 
 - [2022-07-08-推荐-吐血整理：一份不可多得的架构师图谱！](https://toutiao.io/k/ptp0ru2) 
+- [2022-07-08-推荐-服务端监控架构设计与实践](https://toutiao.io/k/xhwa9mo) 

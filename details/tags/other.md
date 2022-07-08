@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-08 10:43:39。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-08 11:12:31。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,10 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-07-08-vercel-账号被封了，怎么办？](https://www.v2ex.com/t/864993) 
+- [2022-07-08-JDK-的-String-类的-UID-数字值是什么定义出来的？随便敲出来的？还是有什么生成规则吗？-serialVersionUID-=--6849794470754667710L](https://www.v2ex.com/t/864992) 
+- [2022-07-08-有老哥知道移动的情商智商党性测评是什么嘛](https://www.v2ex.com/t/864990) 
+- [2022-07-08-在这普天同庆的日子，各位能不能含蓄点，偏要等到被国际友人骂了才收敛么？](https://www.v2ex.com/t/864988) 
 - [2022-07-08-摇了-12-期，今天终于摇中了粤-b](https://www.v2ex.com/t/864984) 
 - [2022-07-08-现在买-mac-mini-是个好时机吗？](https://www.v2ex.com/t/864983) 
 - [2022-07-08-hhkb-在-m1-pro-上的-f-键怎么按？](https://www.v2ex.com/t/864981) 
@@ -1937,11 +1941,6 @@
 - [2022-07-08-PayPal-收款是实时到账的吗?](https://www.v2ex.com/t/864948) 
 - [2022-07-08-Swift-开发技术请教](https://www.v2ex.com/t/864947) 
 - [2022-07-08-现在还有用存储过程的场景吗？](https://www.v2ex.com/t/864945) 
-- [2022-07-08-为什么驾校体验会这么差劲啊](https://www.v2ex.com/t/864942) 
-- [2022-07-08-可以用说悄悄话的音量和-Siri-说话](https://www.v2ex.com/t/864941) 
-- [2022-07-08-选购-mbp-14-纠结是加内存还是加硬盘](https://www.v2ex.com/t/864940) 
-- [2022-07-08-快捷指令居然不能在屏幕上输入文字吗？](https://www.v2ex.com/t/864939) 
-- [2022-07-08-有知道国内-JunDui-容器化运行得怎么样，国内都是专网](https://www.v2ex.com/t/864938) 
 - [2022-07-08-遗留系统的服务拆分-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15215&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fservice-splitting-legacy-systems%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-08-故事点-vs.-人天-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15213&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fagile-estimation-story-points-man-day%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-08-如何设计数据可视化平台-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15212&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-design-data-visualization-platform%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1963,8 +1962,8 @@
 - [2022-07-08-腾讯云实时数仓建设实践（PPT附下载）](https://toutiao.io/k/wkiyw89) 
 - [2022-07-08-你凭什么如此成功，自律？时间管理？](https://toutiao.io/k/er2ql1x) 
 - [2022-07-08-搭建可维护的-Golang-开发环境](https://toutiao.io/k/mj29vex) 
-- [2022-07-08-6.6K-Star！比-Pandas-快很多的数据处理库](https://toutiao.io/k/ek8pqaq) 
 - [2022-07-08-外卖广告大规模深度学习模型工程实践](https://toutiao.io/k/ba3jckk) 
+- [2022-07-08-6.6K-Star！比-Pandas-快很多的数据处理库](https://toutiao.io/k/ek8pqaq) 
 - [2022-07-08-异地双活：哈啰四轮出行的落地--redis](https://toutiao.io/k/gyayeya) 
 - [2022-07-08-Grafana-9-正式发布，更易用，更酷炫了！](https://toutiao.io/k/0qaeoa5) 
 - [2022-07-08-周边生态｜Google-Cloud-Pub/Sub-Connector-for-Apache-Pulsar-宣布开源](https://toutiao.io/k/yvhilm7) 

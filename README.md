@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-07-08 10:43:39，:rocket: 更新条数: +2030， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-07-08 11:12:31，:rocket: 更新条数: +2030， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,12 @@
 </summary>
 
 
+- [2022-07-08-vercel-账号被封了，怎么办？](https://www.v2ex.com/t/864993) ![](assets/new.png)  
+- [2022-07-08-JDK-的-String-类的-UID-数字值是什么定义出来的？随便敲出来的？还是有什么生成规则吗？-serialVersionUID-=--6849794470754667710L](https://www.v2ex.com/t/864992) ![](assets/new.png)  
+- [2022-07-08-pyqt5-textedit-重写点击事件后无法选中文本](https://www.v2ex.com/t/864991) ![](assets/new.png)  
+- [2022-07-08-有老哥知道移动的情商智商党性测评是什么嘛](https://www.v2ex.com/t/864990) ![](assets/new.png)  
+- [2022-07-08-有-Mac-下图形化图像数据标注-App-推荐吗？](https://www.v2ex.com/t/864989) ![](assets/new.png)  
+- [2022-07-08-在这普天同庆的日子，各位能不能含蓄点，偏要等到被国际友人骂了才收敛么？](https://www.v2ex.com/t/864988) ![](assets/new.png)  
 - [2022-07-08-如何获取游戏盾的真实-IP，有没有什么方法或者思路？求大神指点。](https://www.v2ex.com/t/864987) ![](assets/new.png)  
 - [2022-07-08-Play-版本微信修复打开小程序一直更新中？](https://www.v2ex.com/t/864986) ![](assets/new.png)  
 - [2022-07-08-优质的儿童-动画片-环境如何创造？关键字：奈飞-迪士尼](https://www.v2ex.com/t/864985) ![](assets/new.png)  
@@ -505,12 +511,6 @@
 - [2022-07-08-Visual-Studio-Code-Python---2022-年-7-月更新---嵌入类型提示和-Jupyter-设置体验升级](https://www.v2ex.com/t/864976) ![](assets/new.png)  
 - [2022-07-08-服务端有什么难的？](https://www.v2ex.com/t/864975) ![](assets/new.png)  
 - [2022-07-08-北京-九州风神招聘-Electron-客户端工程师](https://www.v2ex.com/t/864974) ![](assets/new.png)  
-- [2022-07-08-求大哥帮忙解析下-makefile-文件里的参数](https://www.v2ex.com/t/864973) ![](assets/new.png)  
-- [2022-07-08-「急急急」突然网站-http-访问报-502，-https-是正常的，这几天没动配置，这是为什么呢???](https://www.v2ex.com/t/864972) ![](assets/new.png)  
-- [2022-07-08-今天突然发现-V2EX-鼠标放在头像上会一直-loading-的动画-有人知道咋回事么](https://www.v2ex.com/t/864970) ![](assets/new.png)  
-- [2022-07-08-即将升级为宝爸，有什么可以系统性学习的知识么](https://www.v2ex.com/t/864967) ![](assets/new.png)  
-- [2022-07-08-游戏中每隔-xx-分钟回复一格体力-数据库一般是怎么存储的？](https://www.v2ex.com/t/864966) ![](assets/new.png)  
-- [2022-07-08-SRS-多媒体服务器-webrtc-的问题](https://www.v2ex.com/t/864965) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -558,8 +558,8 @@
 - [2022-07-08-腾讯云实时数仓建设实践（PPT附下载）](https://toutiao.io/k/wkiyw89) ![](assets/new.png)  
 - [2022-07-08-你凭什么如此成功，自律？时间管理？](https://toutiao.io/k/er2ql1x) ![](assets/new.png)  
 - [2022-07-08-搭建可维护的-Golang-开发环境](https://toutiao.io/k/mj29vex) ![](assets/new.png)  
-- [2022-07-08-6.6K-Star！比-Pandas-快很多的数据处理库](https://toutiao.io/k/ek8pqaq) ![](assets/new.png)  
 - [2022-07-08-外卖广告大规模深度学习模型工程实践](https://toutiao.io/k/ba3jckk) ![](assets/new.png)  
+- [2022-07-08-6.6K-Star！比-Pandas-快很多的数据处理库](https://toutiao.io/k/ek8pqaq) ![](assets/new.png)  
 - [2022-07-08-异地双活：哈啰四轮出行的落地--redis](https://toutiao.io/k/gyayeya) ![](assets/new.png)  
 - [2022-07-08-Grafana-9-正式发布，更易用，更酷炫了！](https://toutiao.io/k/0qaeoa5) ![](assets/new.png)  
 - [2022-07-08-周边生态｜Google-Cloud-Pub/Sub-Connector-for-Apache-Pulsar-宣布开源](https://toutiao.io/k/yvhilm7) ![](assets/new.png)  
@@ -572,7 +572,7 @@
 - [2022-07-08-工程师世界的《原则》，Quora创始人豆瓣9.2分神作！](https://toutiao.io/k/mjd63rl) ![](assets/new.png)  
 - [2022-07-08-​Android动态加载so！这一篇就够了！](https://toutiao.io/k/njkxqts) ![](assets/new.png)  
 - [2022-07-08-优化-Go-错误处理，魔改-Go-recover-靠谱吗？](https://toutiao.io/k/j8u9be5) ![](assets/new.png)  
-- [2022-07-08-推荐-吐血整理：一份不可多得的架构师图谱！](https://toutiao.io/k/ptp0ru2) ![](assets/new.png)  
+- [2022-07-08-推荐-月活-12.8-亿的微信，海量请求下是如何防止崩溃的？](https://toutiao.io/k/fflgnsh) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

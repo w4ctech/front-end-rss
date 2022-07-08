@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-08 10:43:39。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-07-08 11:12:31。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,12 @@
 </summary>
 
 
+- [【V2EX】2022-07-08-vercel-账号被封了，怎么办？](https://www.v2ex.com/t/864993) 
+- [【V2EX】2022-07-08-JDK-的-String-类的-UID-数字值是什么定义出来的？随便敲出来的？还是有什么生成规则吗？-serialVersionUID-=--6849794470754667710L](https://www.v2ex.com/t/864992) 
+- [【V2EX】2022-07-08-pyqt5-textedit-重写点击事件后无法选中文本](https://www.v2ex.com/t/864991) 
+- [【V2EX】2022-07-08-有老哥知道移动的情商智商党性测评是什么嘛](https://www.v2ex.com/t/864990) 
+- [【V2EX】2022-07-08-有-Mac-下图形化图像数据标注-App-推荐吗？](https://www.v2ex.com/t/864989) 
+- [【V2EX】2022-07-08-在这普天同庆的日子，各位能不能含蓄点，偏要等到被国际友人骂了才收敛么？](https://www.v2ex.com/t/864988) 
 - [【V2EX】2022-07-08-如何获取游戏盾的真实-IP，有没有什么方法或者思路？求大神指点。](https://www.v2ex.com/t/864987) 
 - [【V2EX】2022-07-08-Play-版本微信修复打开小程序一直更新中？](https://www.v2ex.com/t/864986) 
 - [【V2EX】2022-07-08-优质的儿童-动画片-环境如何创造？关键字：奈飞-迪士尼](https://www.v2ex.com/t/864985) 
@@ -105,12 +111,6 @@
 - [【V2EX】2022-07-08-PayPal-收款是实时到账的吗?](https://www.v2ex.com/t/864948) 
 - [【V2EX】2022-07-08-Swift-开发技术请教](https://www.v2ex.com/t/864947) 
 - [【V2EX】2022-07-08-现在还有用存储过程的场景吗？](https://www.v2ex.com/t/864945) 
-- [【V2EX】2022-07-08-尝试用-Windows-包管理器（winget）的感觉](https://www.v2ex.com/t/864943) 
-- [【V2EX】2022-07-08-为什么驾校体验会这么差劲啊](https://www.v2ex.com/t/864942) 
-- [【V2EX】2022-07-08-可以用说悄悄话的音量和-Siri-说话](https://www.v2ex.com/t/864941) 
-- [【V2EX】2022-07-08-选购-mbp-14-纠结是加内存还是加硬盘](https://www.v2ex.com/t/864940) 
-- [【V2EX】2022-07-08-快捷指令居然不能在屏幕上输入文字吗？](https://www.v2ex.com/t/864939) 
-- [【V2EX】2022-07-08-有知道国内-JunDui-容器化运行得怎么样，国内都是专网](https://www.v2ex.com/t/864938) 
 - [【技术头条】2022-07-08-遗留系统的服务拆分-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15215&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fservice-splitting-legacy-systems%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-08-Thoughtworks-全球CTO：按需求构建架构，过度工程只会“劳民伤财”-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15214&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftechnology-radar-rebecca-interview%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-08-故事点-vs.-人天-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15213&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fagile-estimation-story-points-man-day%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -136,8 +136,8 @@
 - [【开发者头条】2022-07-08-腾讯云实时数仓建设实践（PPT附下载）](https://toutiao.io/k/wkiyw89) 
 - [【开发者头条】2022-07-08-你凭什么如此成功，自律？时间管理？](https://toutiao.io/k/er2ql1x) 
 - [【开发者头条】2022-07-08-搭建可维护的-Golang-开发环境](https://toutiao.io/k/mj29vex) 
-- [【开发者头条】2022-07-08-6.6K-Star！比-Pandas-快很多的数据处理库](https://toutiao.io/k/ek8pqaq) 
 - [【开发者头条】2022-07-08-外卖广告大规模深度学习模型工程实践](https://toutiao.io/k/ba3jckk) 
+- [【开发者头条】2022-07-08-6.6K-Star！比-Pandas-快很多的数据处理库](https://toutiao.io/k/ek8pqaq) 
 - [【开发者头条】2022-07-08-异地双活：哈啰四轮出行的落地--redis](https://toutiao.io/k/gyayeya) 
 - [【开发者头条】2022-07-08-Grafana-9-正式发布，更易用，更酷炫了！](https://toutiao.io/k/0qaeoa5) 
 - [【开发者头条】2022-07-08-周边生态｜Google-Cloud-Pub/Sub-Connector-for-Apache-Pulsar-宣布开源](https://toutiao.io/k/yvhilm7) 
@@ -150,8 +150,8 @@
 - [【开发者头条】2022-07-08-工程师世界的《原则》，Quora创始人豆瓣9.2分神作！](https://toutiao.io/k/mjd63rl) 
 - [【开发者头条】2022-07-08-​Android动态加载so！这一篇就够了！](https://toutiao.io/k/njkxqts) 
 - [【开发者头条】2022-07-08-优化-Go-错误处理，魔改-Go-recover-靠谱吗？](https://toutiao.io/k/j8u9be5) 
-- [【开发者头条】2022-07-08-推荐-吐血整理：一份不可多得的架构师图谱！](https://toutiao.io/k/ptp0ru2) 
 - [【开发者头条】2022-07-08-推荐-月活-12.8-亿的微信，海量请求下是如何防止崩溃的？](https://toutiao.io/k/fflgnsh) 
+- [【开发者头条】2022-07-08-推荐-吐血整理：一份不可多得的架构师图谱！](https://toutiao.io/k/ptp0ru2) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

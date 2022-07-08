@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-07-08 17:03:40，:rocket: 更新条数: +2027， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-07-08 17:49:02，:rocket: 更新条数: +2029， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,10 @@
 </summary>
 
 
+- [2022-07-08-¥¥#pansz-下##](https://www.v2ex.com/t/865040) ![](assets/new.png)  
+- [2022-07-08-2022-年-7-月，-obsidian-依然必装的-10-个插件](https://www.v2ex.com/t/865039) ![](assets/new.png)  
+- [2022-07-08-Copylot-,-hmm-...-有点意思](https://www.v2ex.com/t/865038) ![](assets/new.png)  
+- [2022-07-08-Python-中的类和函数的区别是什么？](https://www.v2ex.com/t/865037) ![](assets/new.png)  
 - [2022-07-08-Cloudflare-Pages-自动适应-React-等-SPA-的-history-router](https://www.v2ex.com/t/865036) ![](assets/new.png)  
 - [2022-07-08-M2-Air-最耐用的颜色是银色？](https://www.v2ex.com/t/865034) ![](assets/new.png)  
 - [2022-07-08-win10-系统,桌面右键的-排序方式-这个选项怎么给删除掉.](https://www.v2ex.com/t/865033) ![](assets/new.png)  
@@ -507,10 +511,6 @@
 - [2022-07-08-旁软路由添加-IPV6](https://www.v2ex.com/t/865018) ![](assets/new.png)  
 - [2022-07-08-breakpad-怎么调试带有动态链接库的程序](https://www.v2ex.com/t/865017) ![](assets/new.png)  
 - [2022-07-08-Python-smtp-协议发送邮件贼鸡儿慢](https://www.v2ex.com/t/865016) ![](assets/new.png)  
-- [2022-07-08-大家愿意付费模拟-FB/Amazon/Google-家的面试吗？（Mock-Interview）](https://www.v2ex.com/t/865015) ![](assets/new.png)  
-- [2022-07-08-现在还有公司找-Java-后端吗？](https://www.v2ex.com/t/865014) ![](assets/new.png)  
-- [2022-07-08-最近很火的那个中文语音合成器被-Hugging-Face-的-CTO-+-联合创始人关注了](https://www.v2ex.com/t/865013) ![](assets/new.png)  
-- [2022-07-08-OCR-竖排文字（尤其是竖排日语）有什么好的解决方案吗？](https://www.v2ex.com/t/865012) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

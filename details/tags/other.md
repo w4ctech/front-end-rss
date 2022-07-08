@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-08 11:12:31。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-08 11:39:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,9 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-07-08-openwrt-是要在-wolfssl-这棵树上吊死啊。。](https://www.v2ex.com/t/864996) 
+- [2022-07-08-从来没见过这种网页，差点上当了](https://www.v2ex.com/t/864995) 
+- [2022-07-08-Cloudflare-要干啥](https://www.v2ex.com/t/864994) 
 - [2022-07-08-vercel-账号被封了，怎么办？](https://www.v2ex.com/t/864993) 
 - [2022-07-08-JDK-的-String-类的-UID-数字值是什么定义出来的？随便敲出来的？还是有什么生成规则吗？-serialVersionUID-=--6849794470754667710L](https://www.v2ex.com/t/864992) 
 - [2022-07-08-有老哥知道移动的情商智商党性测评是什么嘛](https://www.v2ex.com/t/864990) 
@@ -1940,7 +1943,6 @@
 - [2022-07-08-想在深圳-996-赚-2-年钱，凑上家里给的，整个-100w-去县城买个门面，再考个老师公务员，有没有搞头](https://www.v2ex.com/t/864949) 
 - [2022-07-08-PayPal-收款是实时到账的吗?](https://www.v2ex.com/t/864948) 
 - [2022-07-08-Swift-开发技术请教](https://www.v2ex.com/t/864947) 
-- [2022-07-08-现在还有用存储过程的场景吗？](https://www.v2ex.com/t/864945) 
 - [2022-07-08-遗留系统的服务拆分-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15215&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fservice-splitting-legacy-systems%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-08-故事点-vs.-人天-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15213&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fagile-estimation-story-points-man-day%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-08-如何设计数据可视化平台-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15212&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-design-data-visualization-platform%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

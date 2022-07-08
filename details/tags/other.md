@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-08 07:13:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-08 07:38:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,9 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-07-08-现在还有用存储过程的场景吗？](https://www.v2ex.com/t/864945) 
+- [2022-07-08-为什么驾校体验会这么差劲啊](https://www.v2ex.com/t/864942) 
+- [2022-07-08-可以用说悄悄话的音量和-Siri-说话](https://www.v2ex.com/t/864941) 
 - [2022-07-08-选购-mbp-14-纠结是加内存还是加硬盘](https://www.v2ex.com/t/864940) 
 - [2022-07-08-快捷指令居然不能在屏幕上输入文字吗？](https://www.v2ex.com/t/864939) 
 - [2022-07-08-有知道国内-JunDui-容器化运行得怎么样，国内都是专网](https://www.v2ex.com/t/864938) 
@@ -1941,9 +1944,6 @@
 - [2022-07-08-去哪买-google-voice?](https://www.v2ex.com/t/864902) 
 - [2022-07-08-NRC-修该地区以后，依旧可以用](https://www.v2ex.com/t/864899) 
 - [2022-07-08-老板跑路,如何挽回部分损失限深圳,上海](https://www.v2ex.com/t/864898) 
-- [2022-07-08-您的思绪自留地，来试试我的-App《三省吾身-记录、思考与分享》|-福利：送终身兑换码](https://www.v2ex.com/t/864895) 
-- [2022-07-08-北京昌平，出美短加白](https://www.v2ex.com/t/864894) 
-- [2022-07-08-怎么确认买的二手-MBA-是不是原装的？](https://www.v2ex.com/t/864892) 
 - [2022-07-08-遗留系统的服务拆分-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15215&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fservice-splitting-legacy-systems%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-08-故事点-vs.-人天-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15213&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fagile-estimation-story-points-man-day%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-08-如何设计数据可视化平台-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15212&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-design-data-visualization-platform%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1975,6 +1975,6 @@
 - [2022-07-08-Redis-数据结构详解（上）](https://toutiao.io/k/bymnst2) 
 - [2022-07-08-40000-字！全网最强-Matplotlib-实操指南!](https://toutiao.io/k/n7go41c) 
 - [2022-07-08-对开源框架跃跃欲试，却在写的时候犯了难？](https://toutiao.io/k/ehlo02c) 
-- [2022-07-08-工程师世界的《原则》，Quora创始人豆瓣9.2分神作！](https://toutiao.io/k/mjd63rl) 
 - [2022-07-08-如何管理leader对你的能力预期？](https://toutiao.io/k/63o1xaa) 
+- [2022-07-08-工程师世界的《原则》，Quora创始人豆瓣9.2分神作！](https://toutiao.io/k/mjd63rl) 
 - [2022-07-08-推荐-吐血整理：一份不可多得的架构师图谱！](https://toutiao.io/k/ptp0ru2) 

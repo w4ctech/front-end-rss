@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-07-08 07:13:19，:rocket: 更新条数: +2027， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-07-08 07:38:25，:rocket: 更新条数: +2027， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,10 @@
 </summary>
 
 
+- [2022-07-08-现在还有用存储过程的场景吗？](https://www.v2ex.com/t/864945) ![](assets/new.png)  
+- [2022-07-08-尝试用-Windows-包管理器（winget）的感觉](https://www.v2ex.com/t/864943) ![](assets/new.png)  
+- [2022-07-08-为什么驾校体验会这么差劲啊](https://www.v2ex.com/t/864942) ![](assets/new.png)  
+- [2022-07-08-可以用说悄悄话的音量和-Siri-说话](https://www.v2ex.com/t/864941) ![](assets/new.png)  
 - [2022-07-08-选购-mbp-14-纠结是加内存还是加硬盘](https://www.v2ex.com/t/864940) ![](assets/new.png)  
 - [2022-07-08-快捷指令居然不能在屏幕上输入文字吗？](https://www.v2ex.com/t/864939) ![](assets/new.png)  
 - [2022-07-08-有知道国内-JunDui-容器化运行得怎么样，国内都是专网](https://www.v2ex.com/t/864938) ![](assets/new.png)  
@@ -507,10 +511,6 @@
 - [2022-07-08-有什么适合二十几岁的好玩的玩具推荐吗](https://www.v2ex.com/t/864924) ![](assets/new.png)  
 - [2022-07-08-现在有什么非苹果系平板推荐](https://www.v2ex.com/t/864923) ![](assets/new.png)  
 - [2022-07-08-两台交换机需要两根线连接吗？](https://www.v2ex.com/t/864922) ![](assets/new.png)  
-- [2022-07-08-大佬们，来讨论下宝马-X1-2.0T-啊](https://www.v2ex.com/t/864921) ![](assets/new.png)  
-- [2022-07-08-今晚-8-点-M2mba-订购开启，记得冲啊](https://www.v2ex.com/t/864920) ![](assets/new.png)  
-- [2022-07-08-Elden-Ring-里最喜欢的两把大剑](https://www.v2ex.com/t/864919) ![](assets/new.png)  
-- [2022-07-08-说实话，这种东西开源出来感觉有点儿缺德了，各位大佬怎么看](https://www.v2ex.com/t/864918) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -568,10 +568,10 @@
 - [2022-07-08-Redis-数据结构详解（上）](https://toutiao.io/k/bymnst2) ![](assets/new.png)  
 - [2022-07-08-40000-字！全网最强-Matplotlib-实操指南!](https://toutiao.io/k/n7go41c) ![](assets/new.png)  
 - [2022-07-08-对开源框架跃跃欲试，却在写的时候犯了难？](https://toutiao.io/k/ehlo02c) ![](assets/new.png)  
-- [2022-07-08-工程师世界的《原则》，Quora创始人豆瓣9.2分神作！](https://toutiao.io/k/mjd63rl) ![](assets/new.png)  
 - [2022-07-08-如何管理leader对你的能力预期？](https://toutiao.io/k/63o1xaa) ![](assets/new.png)  
-- [2022-07-08-​Android动态加载so！这一篇就够了！](https://toutiao.io/k/njkxqts) ![](assets/new.png)  
+- [2022-07-08-工程师世界的《原则》，Quora创始人豆瓣9.2分神作！](https://toutiao.io/k/mjd63rl) ![](assets/new.png)  
 - [2022-07-08-优化-Go-错误处理，魔改-Go-recover-靠谱吗？](https://toutiao.io/k/j8u9be5) ![](assets/new.png)  
+- [2022-07-08-​Android动态加载so！这一篇就够了！](https://toutiao.io/k/njkxqts) ![](assets/new.png)  
 - [2022-07-08-推荐-月活-12.8-亿的微信，海量请求下是如何防止崩溃的？](https://toutiao.io/k/fflgnsh) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

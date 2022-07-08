@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-07-08 05:04:00，:rocket: 更新条数: +2021， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-07-08 05:43:40，:rocket: 更新条数: +2021， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,12 @@
 </summary>
 
 
+- [2022-07-08-说实话，这种东西开源出来感觉有点儿缺德了，各位大佬怎么看](https://www.v2ex.com/t/864918) ![](assets/new.png)  
+- [2022-07-08-请问下，-5-人车会有被踢掉的情况吗？](https://www.v2ex.com/t/864916) ![](assets/new.png)  
+- [2022-07-08-Obsidian：地表最强-Markdown-文本编辑工具](https://www.v2ex.com/t/864915) ![](assets/new.png)  
+- [2022-07-08-就业形势有感](https://www.v2ex.com/t/864914) ![](assets/new.png)  
+- [2022-07-08-淘宝办上海移动单宽带-200m-530/年。问卖家是装在他们公司名下的](https://www.v2ex.com/t/864913) ![](assets/new.png)  
+- [2022-07-08-Golang-版本的咪咕音乐下载器](https://www.v2ex.com/t/864911) ![](assets/new.png)  
 - [2022-07-08-在写-go-的-parser-时，对于语法有定义有一些疑惑](https://www.v2ex.com/t/864910) ![](assets/new.png)  
 - [2022-07-08-M1-如何在-parallels-上安装-ARM-版本的-Win10-和-Win2016-虚拟机](https://www.v2ex.com/t/864909) ![](assets/new.png)  
 - [2022-07-08-12mini-有换-13mini-的必要吗？-提问于-2022-年-8-月](https://www.v2ex.com/t/864908) ![](assets/new.png)  
@@ -505,12 +511,6 @@
 - [2022-07-08-Web3-招聘：前端开发工程师&上海|远程|杭州&35-70-万](https://www.v2ex.com/t/864896) ![](assets/new.png)  
 - [2022-07-08-您的思绪自留地，来试试我的-App《三省吾身-记录、思考与分享》|-福利：送终身兑换码](https://www.v2ex.com/t/864895) ![](assets/new.png)  
 - [2022-07-08-北京昌平，出美短加白](https://www.v2ex.com/t/864894) ![](assets/new.png)  
-- [2022-07-08-怎么确认买的二手-MBA-是不是原装的？](https://www.v2ex.com/t/864892) ![](assets/new.png)  
-- [2022-07-08-后端码农是不是最好不要局限于一名语言？](https://www.v2ex.com/t/864890) ![](assets/new.png)  
-- [2022-07-08-30-岁，有润美丽国的机会，润还是不润？](https://www.v2ex.com/t/864889) ![](assets/new.png)  
-- [2022-07-08-刚面了一个-6-年的前端，页面有-10-张图片每个-1MB，-2000-个用户同时访问需要多大带宽](https://www.v2ex.com/t/864888) ![](assets/new.png)  
-- [2022-07-08-iPadOS16-外接显示器微信可以自由缩放窗口,但缩放窗口只能显示左边三分之二的部分,微信一适配-iPadOS16-是不是-M1-Mac-也能运行-iPad-微信然后自由缩放窗口了?到...](https://www.v2ex.com/t/864887) ![](assets/new.png)  
-- [2022-07-08-golang-http-server-如果出现功能不正常，或者报错，你们是怎么定位问题的呢](https://www.v2ex.com/t/864886) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -560,9 +560,9 @@
 - [2022-07-08-搭建可维护的-Golang-开发环境](https://toutiao.io/k/mj29vex) ![](assets/new.png)  
 - [2022-07-08-6.6K-Star！比-Pandas-快很多的数据处理库](https://toutiao.io/k/ek8pqaq) ![](assets/new.png)  
 - [2022-07-08-Grafana-9-正式发布，更易用，更酷炫了！](https://toutiao.io/k/0qaeoa5) ![](assets/new.png)  
+- [2022-07-08-外卖广告大规模深度学习模型工程实践](https://toutiao.io/k/ba3jckk) ![](assets/new.png)  
 - [2022-07-08-周边生态｜Google-Cloud-Pub/Sub-Connector-for-Apache-Pulsar-宣布开源](https://toutiao.io/k/yvhilm7) ![](assets/new.png)  
 - [2022-07-08-【第2661期】如何设计移动端的文本输入框](https://toutiao.io/k/aq6ilrl) ![](assets/new.png)  
-- [2022-07-08-外卖广告大规模深度学习模型工程实践](https://toutiao.io/k/ba3jckk) ![](assets/new.png)  
 - [2022-07-08-异地双活：哈啰四轮出行的落地--redis](https://toutiao.io/k/gyayeya) ![](assets/new.png)  
 - [2022-07-08-关于程序员的职业操守，从《匠艺整洁之道》谈起](https://toutiao.io/k/7n9o83n) ![](assets/new.png)  
 - [2022-07-08-Redis-数据结构详解（上）](https://toutiao.io/k/bymnst2) ![](assets/new.png)  

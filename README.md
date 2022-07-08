@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-07-08 05:43:40，:rocket: 更新条数: +2021， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-07-08 06:17:55，:rocket: 更新条数: +2025， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,15 @@
 </summary>
 
 
+- [2022-07-08-根据-2022.07.08-今天发生的大事件，思考润出去的人的生活的可能性](https://www.v2ex.com/t/864930) ![](assets/new.png)  
+- [2022-07-08-Swift-Combine-的类型看着真心累啊](https://www.v2ex.com/t/864929) ![](assets/new.png)  
+- [2022-07-08-有什么办法能够快速分享只读-terminal-给同事让他们观看么？](https://www.v2ex.com/t/864928) ![](assets/new.png)  
+- [2022-07-08-有什么适合二十几岁的好玩的玩具推荐吗](https://www.v2ex.com/t/864924) ![](assets/new.png)  
+- [2022-07-08-现在有什么非苹果系平板推荐](https://www.v2ex.com/t/864923) ![](assets/new.png)  
+- [2022-07-08-两台交换机需要两根线连接吗？](https://www.v2ex.com/t/864922) ![](assets/new.png)  
+- [2022-07-08-大佬们，来讨论下宝马-X1-2.0T-啊](https://www.v2ex.com/t/864921) ![](assets/new.png)  
+- [2022-07-08-今晚-8-点-M2mba-订购开启，记得冲啊](https://www.v2ex.com/t/864920) ![](assets/new.png)  
+- [2022-07-08-Elden-Ring-里最喜欢的两把大剑](https://www.v2ex.com/t/864919) ![](assets/new.png)  
 - [2022-07-08-说实话，这种东西开源出来感觉有点儿缺德了，各位大佬怎么看](https://www.v2ex.com/t/864918) ![](assets/new.png)  
 - [2022-07-08-请问下，-5-人车会有被踢掉的情况吗？](https://www.v2ex.com/t/864916) ![](assets/new.png)  
 - [2022-07-08-Obsidian：地表最强-Markdown-文本编辑工具](https://www.v2ex.com/t/864915) ![](assets/new.png)  
@@ -502,15 +511,6 @@
 - [2022-07-08-12mini-有换-13mini-的必要吗？-提问于-2022-年-8-月](https://www.v2ex.com/t/864908) ![](assets/new.png)  
 - [2022-07-08-为什么电脑时间不走](https://www.v2ex.com/t/864905) ![](assets/new.png)  
 - [2022-07-08-生产服务器需要配置什么-jvm-参数](https://www.v2ex.com/t/864904) ![](assets/new.png)  
-- [2022-07-08-关于-autosleep](https://www.v2ex.com/t/864903) ![](assets/new.png)  
-- [2022-07-08-去哪买-google-voice?](https://www.v2ex.com/t/864902) ![](assets/new.png)  
-- [2022-07-08-上海-HC-#元宇宙#智能虚拟人社交#招募推荐算法/后端开发](https://www.v2ex.com/t/864900) ![](assets/new.png)  
-- [2022-07-08-NRC-修该地区以后，依旧可以用](https://www.v2ex.com/t/864899) ![](assets/new.png)  
-- [2022-07-08-老板跑路,如何挽回部分损失限深圳,上海](https://www.v2ex.com/t/864898) ![](assets/new.png)  
-- [2022-07-08-pve-直通独显之-PCIE-插槽问题](https://www.v2ex.com/t/864897) ![](assets/new.png)  
-- [2022-07-08-Web3-招聘：前端开发工程师&上海|远程|杭州&35-70-万](https://www.v2ex.com/t/864896) ![](assets/new.png)  
-- [2022-07-08-您的思绪自留地，来试试我的-App《三省吾身-记录、思考与分享》|-福利：送终身兑换码](https://www.v2ex.com/t/864895) ![](assets/new.png)  
-- [2022-07-08-北京昌平，出美短加白](https://www.v2ex.com/t/864894) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -561,13 +561,17 @@
 - [2022-07-08-6.6K-Star！比-Pandas-快很多的数据处理库](https://toutiao.io/k/ek8pqaq) ![](assets/new.png)  
 - [2022-07-08-Grafana-9-正式发布，更易用，更酷炫了！](https://toutiao.io/k/0qaeoa5) ![](assets/new.png)  
 - [2022-07-08-外卖广告大规模深度学习模型工程实践](https://toutiao.io/k/ba3jckk) ![](assets/new.png)  
+- [2022-07-08-异地双活：哈啰四轮出行的落地--redis](https://toutiao.io/k/gyayeya) ![](assets/new.png)  
 - [2022-07-08-周边生态｜Google-Cloud-Pub/Sub-Connector-for-Apache-Pulsar-宣布开源](https://toutiao.io/k/yvhilm7) ![](assets/new.png)  
 - [2022-07-08-【第2661期】如何设计移动端的文本输入框](https://toutiao.io/k/aq6ilrl) ![](assets/new.png)  
-- [2022-07-08-异地双活：哈啰四轮出行的落地--redis](https://toutiao.io/k/gyayeya) ![](assets/new.png)  
 - [2022-07-08-关于程序员的职业操守，从《匠艺整洁之道》谈起](https://toutiao.io/k/7n9o83n) ![](assets/new.png)  
 - [2022-07-08-Redis-数据结构详解（上）](https://toutiao.io/k/bymnst2) ![](assets/new.png)  
 - [2022-07-08-40000-字！全网最强-Matplotlib-实操指南!](https://toutiao.io/k/n7go41c) ![](assets/new.png)  
-- [2022-07-08-推荐-月活-12.8-亿的微信，海量请求下是如何防止崩溃的？](https://toutiao.io/k/fflgnsh) ![](assets/new.png)  
+- [2022-07-08-如何管理leader对你的能力预期？](https://toutiao.io/k/63o1xaa) ![](assets/new.png)  
+- [2022-07-08-对开源框架跃跃欲试，却在写的时候犯了难？](https://toutiao.io/k/ehlo02c) ![](assets/new.png)  
+- [2022-07-08-工程师世界的《原则》，Quora创始人豆瓣9.2分神作！](https://toutiao.io/k/mjd63rl) ![](assets/new.png)  
+- [2022-07-08-优化-Go-错误处理，魔改-Go-recover-靠谱吗？](https://toutiao.io/k/j8u9be5) ![](assets/new.png)  
+- [2022-07-08-​Android动态加载so！这一篇就够了！](https://toutiao.io/k/njkxqts) ![](assets/new.png)  
 - [2022-07-08-推荐-吐血整理：一份不可多得的架构师图谱！](https://toutiao.io/k/ptp0ru2) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

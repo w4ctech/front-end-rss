@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-07-08 14:14:45，:rocket: 更新条数: +2028， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-07-08 14:44:41，:rocket: 更新条数: +2030， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,11 @@
 </summary>
 
 
+- [2022-07-08-即将转正却在试用期打算辞退了，好气！](https://www.v2ex.com/t/865019) ![](assets/new.png)  
+- [2022-07-08-旁软路由添加-IPV6](https://www.v2ex.com/t/865018) ![](assets/new.png)  
+- [2022-07-08-breakpad-怎么调试带有动态链接库的程序](https://www.v2ex.com/t/865017) ![](assets/new.png)  
+- [2022-07-08-Python-smtp-协议发送邮件贼鸡儿慢](https://www.v2ex.com/t/865016) ![](assets/new.png)  
+- [2022-07-08-大家愿意付费模拟-FB/Amazon/Google-家的面试吗？（Mock-Interview）](https://www.v2ex.com/t/865015) ![](assets/new.png)  
 - [2022-07-08-现在还有公司找-Java-后端吗？](https://www.v2ex.com/t/865014) ![](assets/new.png)  
 - [2022-07-08-最近很火的那个中文语音合成器被-Hugging-Face-的-CTO-+-联合创始人关注了](https://www.v2ex.com/t/865013) ![](assets/new.png)  
 - [2022-07-08-OCR-竖排文字（尤其是竖排日语）有什么好的解决方案吗？](https://www.v2ex.com/t/865012) ![](assets/new.png)  
@@ -506,11 +511,6 @@
 - [2022-07-08-现在是不是没有居民社保了？只有灵活就业？](https://www.v2ex.com/t/864999) ![](assets/new.png)  
 - [2022-07-08-淘宝上的绕线画大家有了解过吗](https://www.v2ex.com/t/864998) ![](assets/new.png)  
 - [2022-07-08-openwrt-是要在-wolfssl-这棵树上吊死啊。。](https://www.v2ex.com/t/864996) ![](assets/new.png)  
-- [2022-07-08-从来没见过这种网页，差点上当了](https://www.v2ex.com/t/864995) ![](assets/new.png)  
-- [2022-07-08-Cloudflare-要干啥](https://www.v2ex.com/t/864994) ![](assets/new.png)  
-- [2022-07-08-vercel-账号被封了，怎么办？](https://www.v2ex.com/t/864993) ![](assets/new.png)  
-- [2022-07-08-JDK-的-String-类的-UID-数字值是什么定义出来的？随便敲出来的？还是有什么生成规则吗？-serialVersionUID-=--6849794470754667710L](https://www.v2ex.com/t/864992) ![](assets/new.png)  
-- [2022-07-08-pyqt5-textedit-重写点击事件后无法选中文本](https://www.v2ex.com/t/864991) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,10 +1,15 @@
-:alarm_clock: 更新时间: 2022-07-08 14:14:45。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-08 14:44:41。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-07-08-即将转正却在试用期打算辞退了，好气！](https://www.v2ex.com/t/865019) 
+- [2022-07-08-旁软路由添加-IPV6](https://www.v2ex.com/t/865018) 
+- [2022-07-08-breakpad-怎么调试带有动态链接库的程序](https://www.v2ex.com/t/865017) 
+- [2022-07-08-Python-smtp-协议发送邮件贼鸡儿慢](https://www.v2ex.com/t/865016) 
+- [2022-07-08-大家愿意付费模拟-FB/Amazon/Google-家的面试吗？（Mock-Interview）](https://www.v2ex.com/t/865015) 
 - [2022-07-08-现在还有公司找-Java-后端吗？](https://www.v2ex.com/t/865014) 
 - [2022-07-08-最近很火的那个中文语音合成器被-Hugging-Face-的-CTO-+-联合创始人关注了](https://www.v2ex.com/t/865013) 
 - [2022-07-08-OCR-竖排文字（尤其是竖排日语）有什么好的解决方案吗？](https://www.v2ex.com/t/865012) 
@@ -43,6 +48,3 @@
 - [2022-07-08-求大哥帮忙解析下-makefile-文件里的参数](https://www.v2ex.com/t/864973) 
 - [2022-07-08-「急急急」突然网站-http-访问报-502，-https-是正常的，这几天没动配置，这是为什么呢???](https://www.v2ex.com/t/864972) 
 - [2022-07-08-今天突然发现-V2EX-鼠标放在头像上会一直-loading-的动画-有人知道咋回事么](https://www.v2ex.com/t/864970) 
-- [2022-07-08-即将升级为宝爸，有什么可以系统性学习的知识么](https://www.v2ex.com/t/864967) 
-- [2022-07-08-游戏中每隔-xx-分钟回复一格体力-数据库一般是怎么存储的？](https://www.v2ex.com/t/864966) 
-- [2022-07-08-SRS-多媒体服务器-webrtc-的问题](https://www.v2ex.com/t/864965) 

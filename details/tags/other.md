@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-08 14:14:45。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-08 14:44:41。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,8 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-07-08-即将转正却在试用期打算辞退了，好气！](https://www.v2ex.com/t/865019) 
+- [2022-07-08-Python-smtp-协议发送邮件贼鸡儿慢](https://www.v2ex.com/t/865016) 
 - [2022-07-08-现在还有公司找-Java-后端吗？](https://www.v2ex.com/t/865014) 
 - [2022-07-08-最近很火的那个中文语音合成器被-Hugging-Face-的-CTO-+-联合创始人关注了](https://www.v2ex.com/t/865013) 
 - [2022-07-08-OCR-竖排文字（尤其是竖排日语）有什么好的解决方案吗？](https://www.v2ex.com/t/865012) 
@@ -1939,7 +1941,6 @@
 - [2022-07-08-Visual-Studio-Code-Python---2022-年-7-月更新---嵌入类型提示和-Jupyter-设置体验升级](https://www.v2ex.com/t/864976) 
 - [2022-07-08-服务端有什么难的？](https://www.v2ex.com/t/864975) 
 - [2022-07-08-求大哥帮忙解析下-makefile-文件里的参数](https://www.v2ex.com/t/864973) 
-- [2022-07-08-即将升级为宝爸，有什么可以系统性学习的知识么](https://www.v2ex.com/t/864967) 
 - [2022-07-08-遗留系统的服务拆分-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15215&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fservice-splitting-legacy-systems%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-08-故事点-vs.-人天-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15213&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fagile-estimation-story-points-man-day%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-08-如何设计数据可视化平台-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15212&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-design-data-visualization-platform%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

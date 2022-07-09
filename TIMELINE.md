@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-09 15:41:38。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-07-09 16:16:59。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,8 @@
 </summary>
 
 
+- [【V2EX】2022-07-09-Ventura-设置里有个登录项，怎么删除呢](https://www.v2ex.com/t/865186) 
+- [【V2EX】2022-07-09-请问如何让微信公众号文章在外部浏览器中打开后还能显示下方的精选留言？](https://www.v2ex.com/t/865184) 
 - [【V2EX】2022-07-09-有没有这种东西家用智能充电基座？](https://www.v2ex.com/t/865183) 
 - [【V2EX】2022-07-09-去外面散步一圈一身热汗后，冲个凉水澡，来罐冰啤酒🍺，爽翻了。。。各位务必试试](https://www.v2ex.com/t/865182) 
 - [【V2EX】2022-07-09-请教个问题，广告中的展现是以什么标准计算的？](https://www.v2ex.com/t/865180) 
@@ -102,9 +104,6 @@
 - [【V2EX】2022-07-09-杭州-鲸驰无限-招-C++游戏服务端开发](https://www.v2ex.com/t/865142) 
 - [【V2EX】2022-07-09-anaconda-安装第三方库总是失败](https://www.v2ex.com/t/865141) 
 - [【V2EX】2022-07-09-为什么超车道是左侧，这样会车速度更高更危险呀](https://www.v2ex.com/t/865140) 
-- [【V2EX】2022-07-09-给大家提个醒：如果开企业专票，戴尔售后就不能退货了](https://www.v2ex.com/t/865136) 
-- [【V2EX】2022-07-09-NextTrace-——-一款开源的路由跟踪工具](https://www.v2ex.com/t/865135) 
-- [【V2EX】2022-07-09-为知笔记还有-15-天到期了，值不值得再续费？](https://www.v2ex.com/t/865134) 
 - [【技术头条】2022-07-09-遗留系统的服务拆分-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15215&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fservice-splitting-legacy-systems%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-09-Thoughtworks-全球CTO：按需求构建架构，过度工程只会“劳民伤财”-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15214&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftechnology-radar-rebecca-interview%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-09-故事点-vs.-人天-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15213&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fagile-estimation-story-points-man-day%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -135,8 +134,8 @@
 - [【开发者头条】2022-07-09-golang-HTTP框架elton入门](https://toutiao.io/k/ip6ncox) 
 - [【开发者头条】2022-07-09-面试官：请使用JS完成一个LRU缓存？](https://toutiao.io/k/r4p13do) 
 - [【开发者头条】2022-07-09-pod-调度详解：亲和、污点和容忍](https://toutiao.io/k/td6wcot) 
-- [【开发者头条】2022-07-09-推荐-服务端监控架构设计与实践](https://toutiao.io/k/xhwa9mo) 
 - [【开发者头条】2022-07-09-推荐-吐血整理：一份不可多得的架构师图谱！](https://toutiao.io/k/ptp0ru2) 
+- [【开发者头条】2022-07-09-推荐-服务端监控架构设计与实践](https://toutiao.io/k/xhwa9mo) 
 - [【开发者头条】2022-07-09-推荐-月活-12.8-亿的微信，海量请求下是如何防止崩溃的？](https://toutiao.io/k/fflgnsh) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>

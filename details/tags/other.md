@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-09 03:44:51。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-09 04:20:04。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,13 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-07-09-evernote-win-版本无法同步怎么解决?](https://www.v2ex.com/t/865091) 
+- [2022-07-09-中国平安的“企业文化”](https://www.v2ex.com/t/865090) 
+- [2022-07-09-怎么判断空调是不是需要加氟](https://www.v2ex.com/t/865089) 
+- [2022-07-09-关于-icloudpd-的一些问题](https://www.v2ex.com/t/865088) 
+- [2022-07-09-暗黑三联网咨询](https://www.v2ex.com/t/865086) 
+- [2022-07-09-没合适幼儿园可上的话找教委有用吗](https://www.v2ex.com/t/865085) 
+- [2022-07-09-坛子里大神多，我想问个-Python-内存占用的问题](https://www.v2ex.com/t/865084) 
 - [2022-07-09-刚刚发现的节点,还有活人吗?](https://www.v2ex.com/t/865081) 
 - [2022-07-09-大小周周六摸鱼,有懂飞机的吗,现在传的第六代战斗机是个啥,还有第一二三四五战斗机有啥区别吗?](https://www.v2ex.com/t/865079) 
 - [2022-07-09-魔都有什么好玩的地方？](https://www.v2ex.com/t/865078) 
@@ -1935,12 +1942,6 @@
 - [2022-07-08-Pycharm-有什么好看的主题配色吗？](https://www.v2ex.com/t/865046) 
 - [2022-07-08-睡不着的在线求赐教～疑似发现某集团邮箱（部分员工账户）被不法分子利用](https://www.v2ex.com/t/865044) 
 - [2022-07-08-115-的云下载是在电脑端不能用吗？](https://www.v2ex.com/t/865043) 
-- [2022-07-08-第三次吐槽-Win-11-的垃圾触摸键盘,-顺便分享我的缓解方案,-对-Win-10-也有另外的疗效](https://www.v2ex.com/t/865041) 
-- [2022-07-08-2022-年-7-月，-obsidian-依然必装的-10-个插件](https://www.v2ex.com/t/865039) 
-- [2022-07-08-Copylot-,-hmm-...-有点意思](https://www.v2ex.com/t/865038) 
-- [2022-07-08-Python-中的类和函数的区别是什么？](https://www.v2ex.com/t/865037) 
-- [2022-07-08-M2-Air-最耐用的颜色是银色？](https://www.v2ex.com/t/865034) 
-- [2022-07-08-win10-系统,桌面右键的-排序方式-这个选项怎么给删除掉.](https://www.v2ex.com/t/865033) 
 - [2022-07-09-遗留系统的服务拆分-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15215&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fservice-splitting-legacy-systems%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-09-故事点-vs.-人天-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15213&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fagile-estimation-story-points-man-day%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-09-如何设计数据可视化平台-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15212&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-design-data-visualization-platform%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-09 12:21:26。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-07-09 13:02:00。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,10 @@
 </summary>
 
 
+- [【V2EX】2022-07-09-GPL-协议开源项目在被社区完善后发布收费闭源的商业版或转闭源需要为贡献者支付报酬吗？](https://www.v2ex.com/t/865164) 
+- [【V2EX】2022-07-09-集群搭建这么繁琐，有没有一种简单的方式？](https://www.v2ex.com/t/865162) 
+- [【V2EX】2022-07-09-有没有什么品牌的工控机,-想弄个放在家里当服务器?](https://www.v2ex.com/t/865161) 
+- [【V2EX】2022-07-09-多条件的组合查询在程序编写逻辑上是排列组合完成的么？](https://www.v2ex.com/t/865159) 
 - [【V2EX】2022-07-09-Spark-一个开源、跨平台、功能齐全的设备管理和远控工具](https://www.v2ex.com/t/865158) 
 - [【V2EX】2022-07-09-请问-3HK-DIY-的香港储值卡国内有购买渠道吗？](https://www.v2ex.com/t/865155) 
 - [【V2EX】2022-07-09-一个-DeepPrivacy-问题](https://www.v2ex.com/t/865154) 
@@ -99,10 +103,6 @@
 - [【V2EX】2022-07-09-《黑钱》第二季第四集剧情讨论](https://www.v2ex.com/t/865117) 
 - [【V2EX】2022-07-09-求能在-macOS-和-Windows-快速切换的键盘推荐](https://www.v2ex.com/t/865116) 
 - [【V2EX】2022-07-09-请教下-macOS-12.4-为什么会同时存在一款播放器的多个版本](https://www.v2ex.com/t/865115) 
-- [【V2EX】2022-07-09-小米笔记本-14-pro-2022-5899-标配-体验分享--最适合-win11-的轻薄本](https://www.v2ex.com/t/865114) 
-- [【V2EX】2022-07-09-想不通为什么-mbp-邮寄要比到店要慢一周](https://www.v2ex.com/t/865113) 
-- [【V2EX】2022-07-09-魔戒三部曲高清有无百度网盘链接](https://www.v2ex.com/t/865112) 
-- [【V2EX】2022-07-09-千呼万唤，-iKuai-终于有-iOS-客户端了](https://www.v2ex.com/t/865110) 
 - [【技术头条】2022-07-09-遗留系统的服务拆分-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15215&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fservice-splitting-legacy-systems%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-09-Thoughtworks-全球CTO：按需求构建架构，过度工程只会“劳民伤财”-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15214&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftechnology-radar-rebecca-interview%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-09-故事点-vs.-人天-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15213&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fagile-estimation-story-points-man-day%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -133,9 +133,9 @@
 - [【开发者头条】2022-07-09-C++-中-malloc/free与-new/delete区别](https://toutiao.io/k/f3koxhs) 
 - [【开发者头条】2022-07-09-golang-HTTP框架elton入门](https://toutiao.io/k/ip6ncox) 
 - [【开发者头条】2022-07-09-pod-调度详解：亲和、污点和容忍](https://toutiao.io/k/td6wcot) 
-- [【开发者头条】2022-07-09-推荐-服务端监控架构设计与实践](https://toutiao.io/k/xhwa9mo) 
 - [【开发者头条】2022-07-09-推荐-月活-12.8-亿的微信，海量请求下是如何防止崩溃的？](https://toutiao.io/k/fflgnsh) 
 - [【开发者头条】2022-07-09-推荐-吐血整理：一份不可多得的架构师图谱！](https://toutiao.io/k/ptp0ru2) 
+- [【开发者头条】2022-07-09-推荐-服务端监控架构设计与实践](https://toutiao.io/k/xhwa9mo) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

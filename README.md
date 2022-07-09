@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-07-09 12:21:26，:rocket: 更新条数: +2014， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-07-09 13:02:00，:rocket: 更新条数: +2014， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,10 @@
 </summary>
 
 
+- [2022-07-09-GPL-协议开源项目在被社区完善后发布收费闭源的商业版或转闭源需要为贡献者支付报酬吗？](https://www.v2ex.com/t/865164) ![](assets/new.png)  
+- [2022-07-09-集群搭建这么繁琐，有没有一种简单的方式？](https://www.v2ex.com/t/865162) ![](assets/new.png)  
+- [2022-07-09-有没有什么品牌的工控机,-想弄个放在家里当服务器?](https://www.v2ex.com/t/865161) ![](assets/new.png)  
+- [2022-07-09-多条件的组合查询在程序编写逻辑上是排列组合完成的么？](https://www.v2ex.com/t/865159) ![](assets/new.png)  
 - [2022-07-09-Spark-一个开源、跨平台、功能齐全的设备管理和远控工具](https://www.v2ex.com/t/865158) ![](assets/new.png)  
 - [2022-07-09-请问-3HK-DIY-的香港储值卡国内有购买渠道吗？](https://www.v2ex.com/t/865155) ![](assets/new.png)  
 - [2022-07-09-一个-DeepPrivacy-问题](https://www.v2ex.com/t/865154) ![](assets/new.png)  
@@ -507,10 +511,6 @@
 - [2022-07-09-anaconda-安装第三方库总是失败](https://www.v2ex.com/t/865141) ![](assets/new.png)  
 - [2022-07-09-为什么超车道是左侧，这样会车速度更高更危险呀](https://www.v2ex.com/t/865140) ![](assets/new.png)  
 - [2022-07-09-给大家提个醒：如果开企业专票，戴尔售后就不能退货了](https://www.v2ex.com/t/865136) ![](assets/new.png)  
-- [2022-07-09-NextTrace-——-一款开源的路由跟踪工具](https://www.v2ex.com/t/865135) ![](assets/new.png)  
-- [2022-07-09-为知笔记还有-15-天到期了，值不值得再续费？](https://www.v2ex.com/t/865134) ![](assets/new.png)  
-- [2022-07-09-从零开始开发-MC](https://www.v2ex.com/t/865132) ![](assets/new.png)  
-- [2022-07-09-现在上海互联网求职机会多吗？](https://www.v2ex.com/t/865131) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -563,9 +563,9 @@
 - [2022-07-09-C++-中-malloc/free与-new/delete区别](https://toutiao.io/k/f3koxhs) ![](assets/new.png)  
 - [2022-07-09-golang-HTTP框架elton入门](https://toutiao.io/k/ip6ncox) ![](assets/new.png)  
 - [2022-07-09-pod-调度详解：亲和、污点和容忍](https://toutiao.io/k/td6wcot) ![](assets/new.png)  
-- [2022-07-09-推荐-服务端监控架构设计与实践](https://toutiao.io/k/xhwa9mo) ![](assets/new.png)  
 - [2022-07-09-推荐-月活-12.8-亿的微信，海量请求下是如何防止崩溃的？](https://toutiao.io/k/fflgnsh) ![](assets/new.png)  
 - [2022-07-09-推荐-吐血整理：一份不可多得的架构师图谱！](https://toutiao.io/k/ptp0ru2) ![](assets/new.png)  
+- [2022-07-09-推荐-服务端监控架构设计与实践](https://toutiao.io/k/xhwa9mo) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

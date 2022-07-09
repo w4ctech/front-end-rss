@@ -9953,6 +9953,26 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "GPL 协议开源项目在被社区完善后发布收费闭源的商业版或转闭源需要为贡献者支付报酬吗？",
+        "link": "https://www.v2ex.com/t/865164",
+        "date": "2022-07-09"
+      },
+      {
+        "title": "集群搭建这么繁琐，有没有一种简单的方式？",
+        "link": "https://www.v2ex.com/t/865162",
+        "date": "2022-07-09"
+      },
+      {
+        "title": "有没有什么品牌的工控机, 想弄个放在家里当服务器?",
+        "link": "https://www.v2ex.com/t/865161",
+        "date": "2022-07-09"
+      },
+      {
+        "title": "多条件的组合查询在程序编写逻辑上是排列组合完成的么？",
+        "link": "https://www.v2ex.com/t/865159",
+        "date": "2022-07-09"
+      },
+      {
         "title": "[Spark] 一个开源、跨平台、功能齐全的设备管理和远控工具",
         "link": "https://www.v2ex.com/t/865158",
         "date": "2022-07-09"
@@ -10105,26 +10125,6 @@
       {
         "title": "请教下 macOS 12.4 为什么会同时存在一款播放器的多个版本",
         "link": "https://www.v2ex.com/t/865115",
-        "date": "2022-07-09"
-      },
-      {
-        "title": "小米笔记本 14 pro 2022 5899 标配 体验分享--最适合 win11 的轻薄本",
-        "link": "https://www.v2ex.com/t/865114",
-        "date": "2022-07-09"
-      },
-      {
-        "title": "想不通为什么 mbp 邮寄要比到店要慢一周",
-        "link": "https://www.v2ex.com/t/865113",
-        "date": "2022-07-09"
-      },
-      {
-        "title": "魔戒三部曲高清有无百度网盘链接",
-        "link": "https://www.v2ex.com/t/865112",
-        "date": "2022-07-09"
-      },
-      {
-        "title": "千呼万唤， iKuai 终于有 iOS 客户端了",
-        "link": "https://www.v2ex.com/t/865110",
         "date": "2022-07-09"
       }
     ]
@@ -10292,11 +10292,6 @@
         "date": "2022-07-09"
       },
       {
-        "title": "[推荐] 服务端监控架构设计与实践",
-        "link": "https://toutiao.io/k/xhwa9mo",
-        "date": "2022-07-09"
-      },
-      {
         "title": "[推荐] 月活 12.8 亿的微信，海量请求下是如何防止崩溃的？",
         "link": "https://toutiao.io/k/fflgnsh",
         "date": "2022-07-09"
@@ -10304,6 +10299,11 @@
       {
         "title": "[推荐] 吐血整理：一份不可多得的架构师图谱！",
         "link": "https://toutiao.io/k/ptp0ru2",
+        "date": "2022-07-09"
+      },
+      {
+        "title": "[推荐] 服务端监控架构设计与实践",
+        "link": "https://toutiao.io/k/xhwa9mo",
         "date": "2022-07-09"
       }
     ]

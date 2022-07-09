@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-07-09 07:38:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-09 08:17:12。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -182,7 +182,6 @@
 - [【张鑫旭-鑫空间-鑫生活】JS与条形码的生成](https://www.zhangxinxu.com/wordpress/2022/05/js-barcode/)
 - [【张鑫旭-鑫空间-鑫生活】深入-JS-new-Function-语法](https://www.zhangxinxu.com/wordpress/2022/04/js-new-function/)
 - [【张鑫旭-鑫空间-鑫生活】小tips:-JS字体加载失败或完毕的检测](https://www.zhangxinxu.com/wordpress/2022/04/js-font-face-load/)
-- [【V2EX】新成为-helmfile-项目核心维护者，声明式管理-helm-chart，欢迎一起参与](https://www.v2ex.com/t/865072)
 - [【开发者头条】面试官：请使用JS完成一个LRU缓存？](https://toutiao.io/k/r4p13do)
 - [【开发者头条】Flowable工作流引擎部署表单源码分析](https://toutiao.io/k/bqlrv8h)
 - [......【查看更多】......](./details/tags/javascript.md)
@@ -238,6 +237,7 @@
 
 - [【武汉肺炎防疫全纪录(财新网)】广州17岁男生在定点医院参加高考-特殊考场视频监考](https://m.caixin.com/m/2021-06-05/101723418.html)
 - [【武汉肺炎防疫全纪录(财新网)】林郑月娥率13高官直播接种科兴疫苗-复星疫苗预计周中到港](https://m.caixin.com/m/2021-02-22/101665724.html)
+- [【V2EX】请教下-macOS-12.4-为什么会同时存在一款播放器的多个版本](https://www.v2ex.com/t/865115)
 - [......【查看更多】......](./details/tags/audio-video.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -281,7 +281,6 @@
 - [【张鑫旭-鑫空间-鑫生活】基于文字的URL锚点定位与::target-text样式设置](https://www.zhangxinxu.com/wordpress/2022/06/url-anchor-target-text/)
 - [【V2EX】PVE-测试不信任软件的虚拟机，装哪些驱动不会影响安全性（不会导致降低虚拟机逃逸的难度）？](https://www.v2ex.com/t/865102)
 - [【V2EX】租的二房东的房子，住进去发现被坑了，请求大家帮忙看下我的做法的可行性](https://www.v2ex.com/t/865096)
-- [【V2EX】Chrome-清除浏览数据的交互简直就是不可理喻](https://www.v2ex.com/t/865068)
 - [【开发者头条】推荐-月活-12.8-亿的微信，海量请求下是如何防止崩溃的？](https://toutiao.io/k/fflgnsh)
 - [......【查看更多】......](./details/tags/browser.md)
 

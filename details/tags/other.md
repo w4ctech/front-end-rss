@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-09 17:40:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-09 18:15:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1940,8 +1940,6 @@
 - [2022-07-09-只玩-GTA-V-和-PUBG，买什么主机合适](https://www.v2ex.com/t/865147) 
 - [2022-07-09-通过-oss-自建-nas-的方案是否可行?](https://www.v2ex.com/t/865146) 
 - [2022-07-09-最近在学习量化交易，哪里可以下载历史十年的比特币-k-线数据](https://www.v2ex.com/t/865144) 
-- [2022-07-09-anaconda-安装第三方库总是失败](https://www.v2ex.com/t/865141) 
-- [2022-07-09-为什么超车道是左侧，这样会车速度更高更危险呀](https://www.v2ex.com/t/865140) 
 - [2022-07-09-遗留系统的服务拆分-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15215&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fservice-splitting-legacy-systems%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-09-故事点-vs.-人天-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15213&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fagile-estimation-story-points-man-day%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-09-如何设计数据可视化平台-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15212&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-design-data-visualization-platform%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

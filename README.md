@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-07-09 21:12:38，:rocket: 更新条数: +2016， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-07-09 21:38:25，:rocket: 更新条数: +2016， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-07-09-为什么-gitlab.new-重定向到-gitee](https://www.v2ex.com/t/865197) ![](assets/new.png)  
+- [2022-07-09-通过快捷指令直接安装-ipa-包，大家看看这个方法还有效吗？](https://www.v2ex.com/t/865196) ![](assets/new.png)  
 - [2022-07-09-Nestjs-最佳实践教程:2-基本数据操作](https://www.v2ex.com/t/865195) ![](assets/new.png)  
 - [2022-07-09-创业团队招募前端](https://www.v2ex.com/t/865194) ![](assets/new.png)  
 - [2022-07-09-使用-aws--Java--sdk-s3-怎么-aws-s3-上断点下载文件，那里有比较好的例子吗？](https://www.v2ex.com/t/865193) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-07-09-如何获取安全的国际手机号？](https://www.v2ex.com/t/865174) ![](assets/new.png)  
 - [2022-07-09-联通出口宽带是不是炸了](https://www.v2ex.com/t/865173) ![](assets/new.png)  
 - [2022-07-09-现在有没有什么便宜量大的-5g-卡？](https://www.v2ex.com/t/865172) ![](assets/new.png)  
-- [2022-07-09-SCF（Serverless）是不是不适合提供-Web-类服务啊](https://www.v2ex.com/t/865171) ![](assets/new.png)  
-- [2022-07-09-iTunes-Store，同一首歌，铃声竟然比完整歌曲还要贵](https://www.v2ex.com/t/865170) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

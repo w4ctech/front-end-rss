@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-09 21:12:38。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-09 21:38:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,7 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-07-09-通过快捷指令直接安装-ipa-包，大家看看这个方法还有效吗？](https://www.v2ex.com/t/865196) 
 - [2022-07-09-创业团队招募前端](https://www.v2ex.com/t/865194) 
 - [2022-07-09-使用-aws--Java--sdk-s3-怎么-aws-s3-上断点下载文件，那里有比较好的例子吗？](https://www.v2ex.com/t/865193) 
 - [2022-07-09-Gran-Turismo-Sophy-AI-Defeats-Lewis-Hamilton’s-Nurburgring-Lap-Time-by-17-Seconds](https://www.v2ex.com/t/865192) 
@@ -1940,8 +1941,6 @@
 - [2022-07-09-go-有没有比较合适的异常处理流程方案](https://www.v2ex.com/t/865150) 
 - [2022-07-09-甲骨文-ARM-免费-VPS-首尔区是补货了吗？](https://www.v2ex.com/t/865149) 
 - [2022-07-09-开发王者荣耀的团队，纯开发人员大概多少人？](https://www.v2ex.com/t/865148) 
-- [2022-07-09-只玩-GTA-V-和-PUBG，买什么主机合适](https://www.v2ex.com/t/865147) 
-- [2022-07-09-通过-oss-自建-nas-的方案是否可行?](https://www.v2ex.com/t/865146) 
 - [2022-07-09-遗留系统的服务拆分-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15215&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fservice-splitting-legacy-systems%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-09-故事点-vs.-人天-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15213&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fagile-estimation-story-points-man-day%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-09-如何设计数据可视化平台-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15212&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-design-data-visualization-platform%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

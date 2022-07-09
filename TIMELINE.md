@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-09 21:12:38。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-07-09 21:38:25。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,8 @@
 </summary>
 
 
+- [【V2EX】2022-07-09-为什么-gitlab.new-重定向到-gitee](https://www.v2ex.com/t/865197) 
+- [【V2EX】2022-07-09-通过快捷指令直接安装-ipa-包，大家看看这个方法还有效吗？](https://www.v2ex.com/t/865196) 
 - [【V2EX】2022-07-09-Nestjs-最佳实践教程:2-基本数据操作](https://www.v2ex.com/t/865195) 
 - [【V2EX】2022-07-09-创业团队招募前端](https://www.v2ex.com/t/865194) 
 - [【V2EX】2022-07-09-使用-aws--Java--sdk-s3-怎么-aws-s3-上断点下载文件，那里有比较好的例子吗？](https://www.v2ex.com/t/865193) 
@@ -103,8 +105,6 @@
 - [【V2EX】2022-07-09-go-有没有比较合适的异常处理流程方案](https://www.v2ex.com/t/865150) 
 - [【V2EX】2022-07-09-甲骨文-ARM-免费-VPS-首尔区是补货了吗？](https://www.v2ex.com/t/865149) 
 - [【V2EX】2022-07-09-开发王者荣耀的团队，纯开发人员大概多少人？](https://www.v2ex.com/t/865148) 
-- [【V2EX】2022-07-09-只玩-GTA-V-和-PUBG，买什么主机合适](https://www.v2ex.com/t/865147) 
-- [【V2EX】2022-07-09-通过-oss-自建-nas-的方案是否可行?](https://www.v2ex.com/t/865146) 
 - [【技术头条】2022-07-09-遗留系统的服务拆分-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15215&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fservice-splitting-legacy-systems%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-09-Thoughtworks-全球CTO：按需求构建架构，过度工程只会“劳民伤财”-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15214&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftechnology-radar-rebecca-interview%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-09-故事点-vs.-人天-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15213&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fagile-estimation-story-points-man-day%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-09 10:15:17。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-09 10:43:38。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,8 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-07-09-anaconda-安装第三方库总是失败](https://www.v2ex.com/t/865141) 
+- [2022-07-09-为什么超车道是左侧，这样会车速度更高更危险呀](https://www.v2ex.com/t/865140) 
 - [2022-07-09-我受不了，连续两天黄码，考虑出行截图完事](https://www.v2ex.com/t/865139) 
 - [2022-07-09-给大家提个醒：如果开企业专票，戴尔售后就不能退货了](https://www.v2ex.com/t/865136) 
 - [2022-07-09-为知笔记还有-15-天到期了，值不值得再续费？](https://www.v2ex.com/t/865134) 
@@ -1940,8 +1942,6 @@
 - [2022-07-09-有无从外包跳到中大厂的老哥分享分享经验](https://www.v2ex.com/t/865095) 
 - [2022-07-09-使用他人搭建的密码保管服务器隐患](https://www.v2ex.com/t/865094) 
 - [2022-07-09-JetBrains-续费-3-年的话-回退版本是哪个版本](https://www.v2ex.com/t/865093) 
-- [2022-07-09-evernote-win-版本无法同步怎么解决?](https://www.v2ex.com/t/865091) 
-- [2022-07-09-中国平安的“企业文化”](https://www.v2ex.com/t/865090) 
 - [2022-07-09-遗留系统的服务拆分-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15215&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fservice-splitting-legacy-systems%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-09-故事点-vs.-人天-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15213&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fagile-estimation-story-points-man-day%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-09-如何设计数据可视化平台-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15212&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-design-data-visualization-platform%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

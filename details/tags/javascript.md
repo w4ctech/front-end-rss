@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-09 14:12:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-09 14:38:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -21,6 +21,5 @@
 - [2022-04-27-小tips:-JS字体加载失败或完毕的检测](https://www.zhangxinxu.com/wordpress/2022/04/js-font-face-load/) 
 - [2022-07-09-state-of-js-2021-发了](https://www.v2ex.com/t/865145) 
 - [2022-07-09-NextTrace-——-一款开源的路由跟踪工具](https://www.v2ex.com/t/865135) 
-- [2022-07-09-如果让-AI-帮忙写正则表达式](https://www.v2ex.com/t/865127) 
 - [2022-07-09-Flowable工作流引擎部署表单源码分析](https://toutiao.io/k/bqlrv8h) 
 - [2022-07-09-面试官：请使用JS完成一个LRU缓存？](https://toutiao.io/k/r4p13do) 

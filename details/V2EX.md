@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2022-07-09 19:36:40。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-09 20:14:47。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-07-09-Nestjs-最佳实践教程:2-基本数据操作](https://www.v2ex.com/t/865195) 
 - [2022-07-09-创业团队招募前端](https://www.v2ex.com/t/865194) 
 - [2022-07-09-使用-aws--Java--sdk-s3-怎么-aws-s3-上断点下载文件，那里有比较好的例子吗？](https://www.v2ex.com/t/865193) 
 - [2022-07-09-Gran-Turismo-Sophy-AI-Defeats-Lewis-Hamilton’s-Nurburgring-Lap-Time-by-17-Seconds](https://www.v2ex.com/t/865192) 
@@ -41,4 +42,3 @@
 - [2022-07-09-开发王者荣耀的团队，纯开发人员大概多少人？](https://www.v2ex.com/t/865148) 
 - [2022-07-09-只玩-GTA-V-和-PUBG，买什么主机合适](https://www.v2ex.com/t/865147) 
 - [2022-07-09-通过-oss-自建-nas-的方案是否可行?](https://www.v2ex.com/t/865146) 
-- [2022-07-09-state-of-js-2021-发了](https://www.v2ex.com/t/865145) 

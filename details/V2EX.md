@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2022-07-09 13:46:06。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-09 14:12:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-07-09-同一套内存，用-MemTest64-测试，-intel-平台不报错，-amd-大量报错。是内存问题还是主板？](https://www.v2ex.com/t/865175) 
+- [2022-07-09-如何获取安全的国际手机号？](https://www.v2ex.com/t/865174) 
 - [2022-07-09-联通出口宽带是不是炸了](https://www.v2ex.com/t/865173) 
 - [2022-07-09-现在有没有什么便宜量大的-5g-卡？](https://www.v2ex.com/t/865172) 
 - [2022-07-09-SCF（Serverless）是不是不适合提供-Web-类服务啊](https://www.v2ex.com/t/865171) 
@@ -38,4 +40,3 @@
 - [2022-07-09-从零开始开发-MC](https://www.v2ex.com/t/865132) 
 - [2022-07-09-现在上海互联网求职机会多吗？](https://www.v2ex.com/t/865131) 
 - [2022-07-09-如果让-AI-帮忙写正则表达式](https://www.v2ex.com/t/865127) 
-- [2022-07-09-Swift-大概只配做做-PPT,-今天起-All-in-Rust.](https://www.v2ex.com/t/865124) 

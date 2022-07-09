@@ -9953,6 +9953,16 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "同一套内存，用 MemTest64 测试， intel 平台不报错， amd 大量报错。是内存问题还是主板？",
+        "link": "https://www.v2ex.com/t/865175",
+        "date": "2022-07-09"
+      },
+      {
+        "title": "如何获取安全的国际手机号？",
+        "link": "https://www.v2ex.com/t/865174",
+        "date": "2022-07-09"
+      },
+      {
         "title": "联通出口宽带是不是炸了",
         "link": "https://www.v2ex.com/t/865173",
         "date": "2022-07-09"
@@ -10116,11 +10126,6 @@
         "title": "如果让 AI 帮忙写正则表达式",
         "link": "https://www.v2ex.com/t/865127",
         "date": "2022-07-09"
-      },
-      {
-        "title": "Swift 大概只配做做 PPT, 今天起 All in Rust.",
-        "link": "https://www.v2ex.com/t/865124",
-        "date": "2022-07-09"
       }
     ]
   },
@@ -10267,13 +10272,13 @@
         "date": "2022-07-09"
       },
       {
-        "title": "面试官：请使用JS完成一个LRU缓存？",
-        "link": "https://toutiao.io/k/r4p13do",
+        "title": "C++ 中 malloc/free与 new/delete区别",
+        "link": "https://toutiao.io/k/f3koxhs",
         "date": "2022-07-09"
       },
       {
-        "title": "C++ 中 malloc/free与 new/delete区别",
-        "link": "https://toutiao.io/k/f3koxhs",
+        "title": "面试官：请使用JS完成一个LRU缓存？",
+        "link": "https://toutiao.io/k/r4p13do",
         "date": "2022-07-09"
       },
       {

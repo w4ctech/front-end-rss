@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-09 14:38:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-09 15:15:00。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,7 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-07-09-请教个问题，广告中的展现是以什么标准计算的？](https://www.v2ex.com/t/865180) 
 - [2022-07-09-请问如何大批量导出-Telegram-的表情包？](https://www.v2ex.com/t/865179) 
 - [2022-07-09-shell-脚本求指点](https://www.v2ex.com/t/865176) 
 - [2022-07-09-同一套内存，用-MemTest64-测试，-intel-平台不报错，-amd-大量报错。是内存问题还是主板？](https://www.v2ex.com/t/865175) 

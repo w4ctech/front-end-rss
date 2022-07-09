@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-07-09 16:16:59，:rocket: 更新条数: +2015， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-07-09 16:52:21，:rocket: 更新条数: +2016， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-07-09-数据库应该使用单独列存储计数吗？](https://www.v2ex.com/t/865187) ![](assets/new.png)  
 - [2022-07-09-Ventura-设置里有个登录项，怎么删除呢](https://www.v2ex.com/t/865186) ![](assets/new.png)  
 - [2022-07-09-请问如何让微信公众号文章在外部浏览器中打开后还能显示下方的精选留言？](https://www.v2ex.com/t/865184) ![](assets/new.png)  
 - [2022-07-09-有没有这种东西家用智能充电基座？](https://www.v2ex.com/t/865183) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-07-09-好烦闯红灯的非机动车/行人](https://www.v2ex.com/t/865165) ![](assets/new.png)  
 - [2022-07-09-GPL-协议开源项目在被社区完善后发布收费闭源的商业版或转闭源需要为贡献者支付报酬吗？](https://www.v2ex.com/t/865164) ![](assets/new.png)  
 - [2022-07-09-集群搭建这么繁琐，有没有一种简单的方式？](https://www.v2ex.com/t/865162) ![](assets/new.png)  
-- [2022-07-09-有没有什么品牌的工控机,-想弄个放在家里当服务器?](https://www.v2ex.com/t/865161) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -563,8 +563,8 @@
 - [2022-07-09-golang-HTTP框架elton入门](https://toutiao.io/k/ip6ncox) ![](assets/new.png)  
 - [2022-07-09-面试官：请使用JS完成一个LRU缓存？](https://toutiao.io/k/r4p13do) ![](assets/new.png)  
 - [2022-07-09-pod-调度详解：亲和、污点和容忍](https://toutiao.io/k/td6wcot) ![](assets/new.png)  
-- [2022-07-09-推荐-吐血整理：一份不可多得的架构师图谱！](https://toutiao.io/k/ptp0ru2) ![](assets/new.png)  
 - [2022-07-09-推荐-服务端监控架构设计与实践](https://toutiao.io/k/xhwa9mo) ![](assets/new.png)  
+- [2022-07-09-推荐-吐血整理：一份不可多得的架构师图谱！](https://toutiao.io/k/ptp0ru2) ![](assets/new.png)  
 - [2022-07-09-推荐-月活-12.8-亿的微信，海量请求下是如何防止崩溃的？](https://toutiao.io/k/fflgnsh) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

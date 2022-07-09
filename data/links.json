@@ -9953,6 +9953,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "Gran Turismo Sophy AI Defeats Lewis Hamilton’s Nurburgring Lap Time by 17 Seconds",
+        "link": "https://www.v2ex.com/t/865192",
+        "date": "2022-07-09"
+      },
+      {
         "title": "Nestjs 最佳实践教程-1 编码环境搭建",
         "link": "https://www.v2ex.com/t/865189",
         "date": "2022-07-09"
@@ -10131,11 +10136,6 @@
         "title": "关于 TypeScript any 的理解不知道对不对？",
         "link": "https://www.v2ex.com/t/865143",
         "date": "2022-07-09"
-      },
-      {
-        "title": "[杭州] 鲸驰无限 招 C++游戏服务端开发",
-        "link": "https://www.v2ex.com/t/865142",
-        "date": "2022-07-09"
       }
     ]
   },
@@ -10302,11 +10302,6 @@
         "date": "2022-07-09"
       },
       {
-        "title": "[推荐] 服务端监控架构设计与实践",
-        "link": "https://toutiao.io/k/xhwa9mo",
-        "date": "2022-07-09"
-      },
-      {
         "title": "[推荐] 月活 12.8 亿的微信，海量请求下是如何防止崩溃的？",
         "link": "https://toutiao.io/k/fflgnsh",
         "date": "2022-07-09"
@@ -10314,6 +10309,11 @@
       {
         "title": "[推荐] 吐血整理：一份不可多得的架构师图谱！",
         "link": "https://toutiao.io/k/ptp0ru2",
+        "date": "2022-07-09"
+      },
+      {
+        "title": "[推荐] 服务端监控架构设计与实践",
+        "link": "https://toutiao.io/k/xhwa9mo",
         "date": "2022-07-09"
       }
     ]

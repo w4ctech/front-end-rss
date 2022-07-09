@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-07-09 18:15:25，:rocket: 更新条数: +2016， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-07-09 18:44:42，:rocket: 更新条数: +2016， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-07-09-Gran-Turismo-Sophy-AI-Defeats-Lewis-Hamilton’s-Nurburgring-Lap-Time-by-17-Seconds](https://www.v2ex.com/t/865192) ![](assets/new.png)  
 - [2022-07-09-Nestjs-最佳实践教程-1-编码环境搭建](https://www.v2ex.com/t/865189) ![](assets/new.png)  
 - [2022-07-09-求助zerotierzerotier-很卡，基本处于不太可用状态。](https://www.v2ex.com/t/865188) ![](assets/new.png)  
 - [2022-07-09-数据库应该使用单独列存储计数吗？](https://www.v2ex.com/t/865187) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-07-09-block-quic-提速-访问](https://www.v2ex.com/t/865168) ![](assets/new.png)  
 - [2022-07-09-声纹图识曲？](https://www.v2ex.com/t/865167) ![](assets/new.png)  
 - [2022-07-09-怎么才能给抖音旗下的学浪-app-提个建议?](https://www.v2ex.com/t/865166) ![](assets/new.png)  
-- [2022-07-09-好烦闯红灯的非机动车/行人](https://www.v2ex.com/t/865165) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -563,9 +563,9 @@
 - [2022-07-09-C++-中-malloc/free与-new/delete区别](https://toutiao.io/k/f3koxhs) ![](assets/new.png)  
 - [2022-07-09-面试官：请使用JS完成一个LRU缓存？](https://toutiao.io/k/r4p13do) ![](assets/new.png)  
 - [2022-07-09-pod-调度详解：亲和、污点和容忍](https://toutiao.io/k/td6wcot) ![](assets/new.png)  
-- [2022-07-09-推荐-服务端监控架构设计与实践](https://toutiao.io/k/xhwa9mo) ![](assets/new.png)  
 - [2022-07-09-推荐-月活-12.8-亿的微信，海量请求下是如何防止崩溃的？](https://toutiao.io/k/fflgnsh) ![](assets/new.png)  
 - [2022-07-09-推荐-吐血整理：一份不可多得的架构师图谱！](https://toutiao.io/k/ptp0ru2) ![](assets/new.png)  
+- [2022-07-09-推荐-服务端监控架构设计与实践](https://toutiao.io/k/xhwa9mo) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

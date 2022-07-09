@@ -9953,6 +9953,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "MacOS 如何让一个指定窗口在失去焦点时, 自动隐藏(或最小化)?",
+        "link": "https://www.v2ex.com/t/865104",
+        "date": "2022-07-09"
+      },
+      {
         "title": "MacOS 版企业微信莫名 CPU 居高不下",
         "link": "https://www.v2ex.com/t/865103",
         "date": "2022-07-09"
@@ -10141,11 +10146,6 @@
         "title": "这个 EVA 初号机配色的 VS Code 主题什么水平",
         "link": "https://www.v2ex.com/t/865056",
         "date": "2022-07-09"
-      },
-      {
-        "title": "Edge 不保存上一次的窗口位置和大小",
-        "link": "https://www.v2ex.com/t/865054",
-        "date": "2022-07-09"
       }
     ]
   },
@@ -10312,6 +10312,11 @@
         "date": "2022-07-09"
       },
       {
+        "title": "[推荐] 服务端监控架构设计与实践",
+        "link": "https://toutiao.io/k/xhwa9mo",
+        "date": "2022-07-09"
+      },
+      {
         "title": "[推荐] 吐血整理：一份不可多得的架构师图谱！",
         "link": "https://toutiao.io/k/ptp0ru2",
         "date": "2022-07-09"
@@ -10319,11 +10324,6 @@
       {
         "title": "[推荐] 月活 12.8 亿的微信，海量请求下是如何防止崩溃的？",
         "link": "https://toutiao.io/k/fflgnsh",
-        "date": "2022-07-09"
-      },
-      {
-        "title": "[推荐] 服务端监控架构设计与实践",
-        "link": "https://toutiao.io/k/xhwa9mo",
         "date": "2022-07-09"
       }
     ]

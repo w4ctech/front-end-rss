@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-09 06:16:33。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-09 06:45:05。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,7 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-07-09-MacOS-如何让一个指定窗口在失去焦点时,-自动隐藏或最小化?](https://www.v2ex.com/t/865104) 
 - [2022-07-09-MacOS-版企业微信莫名-CPU-居高不下](https://www.v2ex.com/t/865103) 
 - [2022-07-09-刚接触-go，了解到切换协程仅需保存-3-个寄存器，那么剩余的怎么办呢，比如-ecx，-eax-等](https://www.v2ex.com/t/865099) 
 - [2022-07-09-Apple-的后台服务用了哪些编程语言？](https://www.v2ex.com/t/865098) 
@@ -1966,5 +1967,5 @@
 - [2022-07-09-C++-中-malloc/free与-new/delete区别](https://toutiao.io/k/f3koxhs) 
 - [2022-07-09-应用实践-|-知乎基于-Apache-Doris-的-DMP-系统的架构与实践](https://toutiao.io/k/qlv9iuj) 
 - [2022-07-09-pod-调度详解：亲和、污点和容忍](https://toutiao.io/k/td6wcot) 
-- [2022-07-09-推荐-吐血整理：一份不可多得的架构师图谱！](https://toutiao.io/k/ptp0ru2) 
 - [2022-07-09-推荐-服务端监控架构设计与实践](https://toutiao.io/k/xhwa9mo) 
+- [2022-07-09-推荐-吐血整理：一份不可多得的架构师图谱！](https://toutiao.io/k/ptp0ru2) 

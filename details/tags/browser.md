@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-09 00:58:50。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-09 02:57:41。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -14,6 +14,7 @@
 - [2021-01-08-解药|新冠mRNA疫苗安全性有哪些挑战？](https://m.caixin.com/m/2021-01-08/101648043.html) 
 - [2021-01-01-大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html) 
 - [2022-06-12-基于文字的URL锚点定位与::target-text样式设置](https://www.zhangxinxu.com/wordpress/2022/06/url-anchor-target-text/) 
-- [2022-07-08-breakpad-怎么调试带有动态链接库的程序](https://www.v2ex.com/t/865017) 
-- [2022-07-08-大家愿意付费模拟-FB/Amazon/Google-家的面试吗？（Mock-Interview）](https://www.v2ex.com/t/865015) 
+- [2022-07-09-Chrome-清除浏览数据的交互简直就是不可理喻](https://www.v2ex.com/t/865068) 
+- [2022-07-09-Edge-不保存上一次的窗口位置和大小](https://www.v2ex.com/t/865054) 
+- [2022-07-09-前端发布新版本后，如何自动清除用户浏览器页面缓存，有哪些方案？](https://www.v2ex.com/t/865053) 
 - [2022-07-09-推荐-月活-12.8-亿的微信，海量请求下是如何防止崩溃的？](https://toutiao.io/k/fflgnsh) 

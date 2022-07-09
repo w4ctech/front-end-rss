@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-09 00:58:50。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-07-09 02:57:41。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,19 @@
 </summary>
 
 
+- [【V2EX】2022-07-09-昨天-HR-没有动作，今天周六我刚接到邮政电话：你有一个终止劳动合同通知书的邮件，请查收，要拒收吗？](https://www.v2ex.com/t/865070) 
+- [【V2EX】2022-07-09-Chrome-清除浏览数据的交互简直就是不可理喻](https://www.v2ex.com/t/865068) 
+- [【V2EX】2022-07-09-电费有优惠渠道吗。国网的每个月大概-600-左右](https://www.v2ex.com/t/865067) 
+- [【V2EX】2022-07-09-MacOS-12.4-状态栏右上角图标间距突然变的特别窄](https://www.v2ex.com/t/865065) 
+- [【V2EX】2022-07-09-Android-版的-rime（trime）有没有更好优化配置？](https://www.v2ex.com/t/865064) 
+- [【V2EX】2022-07-09-求教电脑配置](https://www.v2ex.com/t/865063) 
+- [【V2EX】2022-07-09-iOS-16b3-感觉明显比-15.x-流畅呀](https://www.v2ex.com/t/865062) 
+- [【V2EX】2022-07-09-在云主机上折腾-k3s，不容易啊。我在服务器上是这么设置代理的](https://www.v2ex.com/t/865061) 
+- [【V2EX】2022-07-09-写了一篇-KCP-的协议分析,-求老哥们点-star](https://www.v2ex.com/t/865059) 
+- [【V2EX】2022-07-09-PD-为什么不像-VMware-一样实现一个文件夹的功能？](https://www.v2ex.com/t/865058) 
+- [【V2EX】2022-07-09-这个-EVA-初号机配色的-VS-Code-主题什么水平](https://www.v2ex.com/t/865056) 
+- [【V2EX】2022-07-09-Edge-不保存上一次的窗口位置和大小](https://www.v2ex.com/t/865054) 
+- [【V2EX】2022-07-09-前端发布新版本后，如何自动清除用户浏览器页面缓存，有哪些方案？](https://www.v2ex.com/t/865053) 
 - [【V2EX】2022-07-09-为什么会有人遛狗不牵绳](https://www.v2ex.com/t/865052) 
 - [【V2EX】2022-07-09-马斯克终止收购推特，这个搅屎棍……](https://www.v2ex.com/t/865051) 
 - [【V2EX】2022-07-09-iOS-观看局域网视频](https://www.v2ex.com/t/865050) 
@@ -92,21 +105,6 @@
 - [【V2EX】2022-07-08-V-友们，怎么样投诉才能取消长城宽带合约并退款呢？](https://www.v2ex.com/t/865027) 
 - [【V2EX】2022-07-08-这是个什么沙雕公司？-广州爱奇旅信息科技有限公司，](https://www.v2ex.com/t/865024) 
 - [【V2EX】2022-07-08-QQ-被盗号发黄图，真给我“长脸”了](https://www.v2ex.com/t/865022) 
-- [【V2EX】2022-07-08-即将转正却在试用期打算辞退了，好气！](https://www.v2ex.com/t/865019) 
-- [【V2EX】2022-07-08-旁软路由添加-IPV6](https://www.v2ex.com/t/865018) 
-- [【V2EX】2022-07-08-breakpad-怎么调试带有动态链接库的程序](https://www.v2ex.com/t/865017) 
-- [【V2EX】2022-07-08-Python-smtp-协议发送邮件贼鸡儿慢](https://www.v2ex.com/t/865016) 
-- [【V2EX】2022-07-08-大家愿意付费模拟-FB/Amazon/Google-家的面试吗？（Mock-Interview）](https://www.v2ex.com/t/865015) 
-- [【V2EX】2022-07-08-现在还有公司找-Java-后端吗？](https://www.v2ex.com/t/865014) 
-- [【V2EX】2022-07-08-最近很火的那个中文语音合成器被-Hugging-Face-的-CTO-+-联合创始人关注了](https://www.v2ex.com/t/865013) 
-- [【V2EX】2022-07-08-OCR-竖排文字（尤其是竖排日语）有什么好的解决方案吗？](https://www.v2ex.com/t/865012) 
-- [【V2EX】2022-07-08-闲鱼/PDD-上的-Macbook-扩展坞-A2119，-150~200-就能买到是真的假的？](https://www.v2ex.com/t/865010) 
-- [【V2EX】2022-07-08-持-iPad-mini6-蜂窝版的进](https://www.v2ex.com/t/865009) 
-- [【V2EX】2022-07-08-怎么看待一款数据库用-春秋对比法-进行性能对比的？](https://www.v2ex.com/t/865008) 
-- [【V2EX】2022-07-08-mini-LED-可以让“高亮文本”真正“高亮”](https://www.v2ex.com/t/865007) 
-- [【V2EX】2022-07-08-M2-MacBook-Air，大家抢到了吗](https://www.v2ex.com/t/865006) 
-- [【V2EX】2022-07-08-WeChat-又被风控冻结登出了](https://www.v2ex.com/t/865005) 
-- [【V2EX】2022-07-08-准备入-1080p-360hz-显示器，是不是只要带宽不超-dp-spec-就行了，会不会显卡有隐藏限制](https://www.v2ex.com/t/865004) 
 - [【技术头条】2022-07-09-遗留系统的服务拆分-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15215&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fservice-splitting-legacy-systems%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-09-Thoughtworks-全球CTO：按需求构建架构，过度工程只会“劳民伤财”-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15214&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftechnology-radar-rebecca-interview%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-09-故事点-vs.-人天-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15213&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fagile-estimation-story-points-man-day%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -127,14 +125,17 @@
 - [【技术头条】2022-07-09-疫情下更合适的开发模式-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15198&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fmainline-pull-request-difference%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-09-搜索与推荐那些事儿-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15197&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fsearch-and-recommend%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-09-自动化测试的未来趋势-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15196&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fautomated-testing-trends%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
-- [【开发者头条】2022-07-09-优质网站同好者周刊（第-073-期）-|-倾城博客](https://toutiao.io/k/xnhxbg9) 
+- [【开发者头条】2022-07-09-优质网站同好者周刊（第-073-期）](https://toutiao.io/k/xnhxbg9) 
 - [【开发者头条】2022-07-09-推荐收藏一文深入浅出学习Spring框架系列](https://toutiao.io/k/27gg7rt) 
+- [【开发者头条】2022-07-09-C++-中-malloc/free与-new/delete区别](https://toutiao.io/k/f3koxhs) 
 - [【开发者头条】2022-07-09-面试官：请使用JS完成一个LRU缓存？](https://toutiao.io/k/r4p13do) 
-- [【开发者头条】2022-07-09-C++-中-malloc/free与-new/delete区别---sunsky303---博客园](https://toutiao.io/k/f3koxhs) 
 - [【开发者头条】2022-07-09-Containerd-对接私有镜像仓库-Harbor](https://toutiao.io/k/vn91ax0) 
+- [【开发者头条】2022-07-09-欢迎加入读者圈子，一起交流！](https://toutiao.io/k/5fkxdkk) 
+- [【开发者头条】2022-07-09-Flowable工作流引擎部署表单源码分析](https://toutiao.io/k/bqlrv8h) 
+- [【开发者头条】2022-07-09-应用实践-|-知乎基于-Apache-Doris-的-DMP-系统的架构与实践](https://toutiao.io/k/qlv9iuj) 
 - [【开发者头条】2022-07-09-推荐-月活-12.8-亿的微信，海量请求下是如何防止崩溃的？](https://toutiao.io/k/fflgnsh) 
-- [【开发者头条】2022-07-09-推荐-吐血整理：一份不可多得的架构师图谱！](https://toutiao.io/k/ptp0ru2) 
 - [【开发者头条】2022-07-09-推荐-服务端监控架构设计与实践](https://toutiao.io/k/xhwa9mo) 
+- [【开发者头条】2022-07-09-推荐-吐血整理：一份不可多得的架构师图谱！](https://toutiao.io/k/ptp0ru2) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

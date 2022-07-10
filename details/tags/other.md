@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-10 10:41:35。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-10 11:11:39。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,10 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-07-10-如何获取设备的名字](https://www.v2ex.com/t/865285) 
+- [2022-07-10-请教个问题，将-excel-中的数据生成折线图并保存在-excel-中，要求手动打开-excel-时还可以操作该折线图](https://www.v2ex.com/t/865284) 
+- [2022-07-10-现在大家都用什么软件或者工具存储和使用-Code-Snippets?](https://www.v2ex.com/t/865283) 
+- [2022-07-10-安卓短信转发-app，方便多卡手机用户](https://www.v2ex.com/t/865281) 
 - [2022-07-10-请教大家一个-udp-问题](https://www.v2ex.com/t/865280) 
 - [2022-07-10-无锡泊客电商的一些疑问](https://www.v2ex.com/t/865279) 
 - [2022-07-10-求助移动光猫-dt720-cs-改桥接](https://www.v2ex.com/t/865278) 
@@ -1918,7 +1922,6 @@
 - [2022-07-10-ipv6-地址也有人扫描？](https://www.v2ex.com/t/865274) 
 - [2022-07-10-请教-vps-内外网卡均显示内网-ip-地址问题,-如何修改](https://www.v2ex.com/t/865272) 
 - [2022-07-10-上车-带我一个-滴滴](https://www.v2ex.com/t/865271) 
-- [2022-07-10-现在的大环境是否适合考公？](https://www.v2ex.com/t/865269) 
 - [2022-07-10-Spotify-的-Windows-客户端窗口为什么总自己变的很大？](https://www.v2ex.com/t/865267) 
 - [2022-07-10-迫于小区-2-台电梯装监控需要-1-万，请问有没有什么好的监控方案?](https://www.v2ex.com/t/865266) 
 - [2022-07-10-寻找类似数据库的文件管理软件，-window-平台下。](https://www.v2ex.com/t/865264) 
@@ -1935,10 +1938,6 @@
 - [2022-07-10-有买了小米-bookpro-的朋友们吗,听说这次触控板做的媲美-mbp-了?](https://www.v2ex.com/t/865240) 
 - [2022-07-10-大家有见过这个内容农场吗](https://www.v2ex.com/t/865238) 
 - [2022-07-10-求推荐一款手环](https://www.v2ex.com/t/865237) 
-- [2022-07-10-都在说最近行情不好，广州的初级前端怎么样？](https://www.v2ex.com/t/865236) 
-- [2022-07-10-pycharm-clion-如何设置数据断点?](https://www.v2ex.com/t/865235) 
-- [2022-07-10-成都前端，对于裸辞怎么看，先辞职再找工作是否明智？](https://www.v2ex.com/t/865234) 
-- [2022-07-10-安卓-USB-网络共享-IPV6](https://www.v2ex.com/t/865231) 
 - [2022-07-10-遗留系统的服务拆分-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15215&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fservice-splitting-legacy-systems%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-10-故事点-vs.-人天-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15213&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fagile-estimation-story-points-man-day%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-10-如何设计数据可视化平台-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15212&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-design-data-visualization-platform%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1962,5 +1961,5 @@
 - [2022-07-10-Python-中生成器的原理](https://toutiao.io/k/5zpfhtr) 
 - [2022-07-10-微服务分布式事务处理](https://toutiao.io/k/naby7f1) 
 - [2022-07-10-Alertmanager-集群乱发-resolve-消息的问题](https://toutiao.io/k/0nyfzxi) 
-- [2022-07-10-推荐-吐血整理：一份不可多得的架构师图谱！](https://toutiao.io/k/ptp0ru2) 
 - [2022-07-10-推荐-服务端监控架构设计与实践](https://toutiao.io/k/xhwa9mo) 
+- [2022-07-10-推荐-吐血整理：一份不可多得的架构师图谱！](https://toutiao.io/k/ptp0ru2) 

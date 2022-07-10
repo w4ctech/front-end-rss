@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-07-10 17:39:11，:rocket: 更新条数: +2015， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-07-10 18:16:09，:rocket: 更新条数: +2016， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-07-10-这种关于正/盗版定义的观点正确吗？](https://www.v2ex.com/t/865327) ![](assets/new.png)  
 - [2022-07-10-淘宝网页版为什么中文使用冬青黑体](https://www.v2ex.com/t/865326) ![](assets/new.png)  
 - [2022-07-10-play-版支付宝没有-NFC?](https://www.v2ex.com/t/865325) ![](assets/new.png)  
 - [2022-07-10-如何快速拍出高大上的照片/自拍？摄影和后期怎么做？](https://www.v2ex.com/t/865323) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-07-10-睡觉质量](https://www.v2ex.com/t/865303) ![](assets/new.png)  
 - [2022-07-10-北京发郊区旅游券啦，只能周日到周四使用](https://www.v2ex.com/t/865302) ![](assets/new.png)  
 - [2022-07-10-夏天室外用手机烫的吓人怎么办](https://www.v2ex.com/t/865300) ![](assets/new.png)  
-- [2022-07-10-不用注册表怎么添加-windows-右键菜单的选项?](https://www.v2ex.com/t/865298) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

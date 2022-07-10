@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-10 01:13:19。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-07-10 03:22:10。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,20 @@
 </summary>
 
 
+- [【V2EX】2022-07-10-成都第一次租房子有什么注意事项和推荐的房子吗](https://www.v2ex.com/t/865226) 
+- [【V2EX】2022-07-10-m1-air-外接显示器为啥感觉字体模糊](https://www.v2ex.com/t/865225) 
+- [【V2EX】2022-07-10-web-端-v2-发帖按钮不见了，然后回复别人帖子还显示需要注册满-240-天](https://www.v2ex.com/t/865224) 
+- [【V2EX】2022-07-10-请教下大佬们，-swiftUI-菜单栏应用-onHover-事件触发问题](https://www.v2ex.com/t/865223) 
+- [【V2EX】2022-07-10-戴眼镜导致左右眼睛大小不一样怎么办啊？](https://www.v2ex.com/t/865222) 
+- [【V2EX】2022-07-10-2021-mbp14-屏幕胶垫粘-c-面](https://www.v2ex.com/t/865221) 
+- [【V2EX】2022-07-10-自己制作了一套-React18+Nestjs-的全栈开发教程](https://www.v2ex.com/t/865220) 
+- [【V2EX】2022-07-10-京东京造-Z9S-人体工学椅，这个椅子怎么样？](https://www.v2ex.com/t/865219) 
+- [【V2EX】2022-07-10-程序员的最终归宿是什么](https://www.v2ex.com/t/865217) 
+- [【V2EX】2022-07-10-git-有没有必要专门拉一个分支来放标签？](https://www.v2ex.com/t/865215) 
+- [【V2EX】2022-07-10-为什么我的-mac-连接电源，在合上盖子情况下无法正常充电，在打开盖子就可以正常充电？](https://www.v2ex.com/t/865213) 
+- [【V2EX】2022-07-10-Nestjs-最佳实践教程:4-排序,分页与过滤](https://www.v2ex.com/t/865211) 
+- [【V2EX】2022-07-10-两家人的烦恼](https://www.v2ex.com/t/865210) 
+- [【V2EX】2022-07-10-千万别买小米平板的官方磁吸双面保护壳](https://www.v2ex.com/t/865209) 
 - [【V2EX】2022-07-10-分享一款全平台笔记-app——Upnote](https://www.v2ex.com/t/865208) 
 - [【V2EX】2022-07-10-v2-提示我回复这个内容需要注册满-240-天，然后我的发帖按钮也消失了，请问这是啥回事](https://www.v2ex.com/t/865207) 
 - [【V2EX】2022-07-10-apple-watch-无限重启，怎么办？](https://www.v2ex.com/t/865206) 
@@ -93,21 +107,6 @@
 - [【V2EX】2022-07-09-去外面散步一圈一身热汗后，冲个凉水澡，来罐冰啤酒🍺，爽翻了。。。各位务必试试](https://www.v2ex.com/t/865182) 
 - [【V2EX】2022-07-09-请教个问题，广告中的展现是以什么标准计算的？](https://www.v2ex.com/t/865180) 
 - [【V2EX】2022-07-09-请问如何大批量导出-Telegram-的表情包？](https://www.v2ex.com/t/865179) 
-- [【V2EX】2022-07-09-shell-脚本求指点](https://www.v2ex.com/t/865176) 
-- [【V2EX】2022-07-09-同一套内存，用-MemTest64-测试，-intel-平台不报错，-amd-大量报错。是内存问题还是主板？](https://www.v2ex.com/t/865175) 
-- [【V2EX】2022-07-09-如何获取安全的国际手机号？](https://www.v2ex.com/t/865174) 
-- [【V2EX】2022-07-09-联通出口宽带是不是炸了](https://www.v2ex.com/t/865173) 
-- [【V2EX】2022-07-09-现在有没有什么便宜量大的-5g-卡？](https://www.v2ex.com/t/865172) 
-- [【V2EX】2022-07-09-SCF（Serverless）是不是不适合提供-Web-类服务啊](https://www.v2ex.com/t/865171) 
-- [【V2EX】2022-07-09-iTunes-Store，同一首歌，铃声竟然比完整歌曲还要贵](https://www.v2ex.com/t/865170) 
-- [【V2EX】2022-07-09-block-quic-提速-访问](https://www.v2ex.com/t/865168) 
-- [【V2EX】2022-07-09-声纹图识曲？](https://www.v2ex.com/t/865167) 
-- [【V2EX】2022-07-09-怎么才能给抖音旗下的学浪-app-提个建议?](https://www.v2ex.com/t/865166) 
-- [【V2EX】2022-07-09-好烦闯红灯的非机动车/行人](https://www.v2ex.com/t/865165) 
-- [【V2EX】2022-07-09-GPL-协议开源项目在被社区完善后发布收费闭源的商业版或转闭源需要为贡献者支付报酬吗？](https://www.v2ex.com/t/865164) 
-- [【V2EX】2022-07-09-集群搭建这么繁琐，有没有一种简单的方式？](https://www.v2ex.com/t/865162) 
-- [【V2EX】2022-07-09-有没有什么品牌的工控机,-想弄个放在家里当服务器?](https://www.v2ex.com/t/865161) 
-- [【V2EX】2022-07-09-多条件的组合查询在程序编写逻辑上是排列组合完成的么？](https://www.v2ex.com/t/865159) 
 - [【技术头条】2022-07-10-遗留系统的服务拆分-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15215&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fservice-splitting-legacy-systems%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-10-Thoughtworks-全球CTO：按需求构建架构，过度工程只会“劳民伤财”-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15214&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftechnology-radar-rebecca-interview%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-10-故事点-vs.-人天-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15213&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fagile-estimation-story-points-man-day%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -132,8 +131,11 @@
 - [【开发者头条】2022-07-10-Go语言如何应对供应链攻击](https://toutiao.io/k/o0h7bt0) 
 - [【开发者头条】2022-07-10-用最简的方式学Vuex](https://toutiao.io/k/xfa0qtk) 
 - [【开发者头条】2022-07-10-Apache-Doris-在有赞的初步尝试](https://toutiao.io/k/mgymcz6) 
-- [【开发者头条】2022-07-10-推荐-月活-12.8-亿的微信，海量请求下是如何防止崩溃的？](https://toutiao.io/k/fflgnsh) 
+- [【开发者头条】2022-07-10-场景化面试：据说只有不到-5%-的开发者能正确读出这些英文单词](https://toutiao.io/k/vcnudk2) 
+- [【开发者头条】2022-07-10-不知道这4种缓存模式，敢说懂缓存吗？](https://toutiao.io/k/nn8m95b) 
+- [【开发者头条】2022-07-10-电商商品同款识别图像算法研究](https://toutiao.io/k/0vd815k) 
 - [【开发者头条】2022-07-10-推荐-吐血整理：一份不可多得的架构师图谱！](https://toutiao.io/k/ptp0ru2) 
+- [【开发者头条】2022-07-10-推荐-月活-12.8-亿的微信，海量请求下是如何防止崩溃的？](https://toutiao.io/k/fflgnsh) 
 - [【开发者头条】2022-07-10-推荐-服务端监控架构设计与实践](https://toutiao.io/k/xhwa9mo) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>

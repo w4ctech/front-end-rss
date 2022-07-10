@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-10 13:00:29。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-10 13:27:17。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,8 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-07-10-夏天室外用手机烫的吓人怎么办](https://www.v2ex.com/t/865300) 
+- [2022-07-10-不用注册表怎么添加-windows-右键菜单的选项?](https://www.v2ex.com/t/865298) 
 - [2022-07-10-B-站-本弹幕用于增加热度](https://www.v2ex.com/t/865297) 
 - [2022-07-10-网易云音乐账号突然被封禁。。](https://www.v2ex.com/t/865295) 
 - [2022-07-10-安徽电信-199-老套餐-500M，可以免费升级-1000M-了](https://www.v2ex.com/t/865294) 
@@ -1938,7 +1940,6 @@
 - [2022-07-10-劳动仲裁成功！获赔-2N。](https://www.v2ex.com/t/865255) 
 - [2022-07-10-头条搜索（m.toutiao.com）最近攻占了-Google-中文结果页？](https://www.v2ex.com/t/865254) 
 - [2022-07-10-Apple-One-美区-空出-1-座位-99/季，长期稳定的来！](https://www.v2ex.com/t/865253) 
-- [2022-07-10-为什么-Anker-的无线充电器这么贵](https://www.v2ex.com/t/865248) 
 - [2022-07-10-遗留系统的服务拆分-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15215&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fservice-splitting-legacy-systems%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-10-故事点-vs.-人天-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15213&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fagile-estimation-story-points-man-day%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-10-如何设计数据可视化平台-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15212&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-design-data-visualization-platform%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

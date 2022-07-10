@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-10 08:16:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-10 08:43:00。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,8 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-07-10-寻找类似数据库的文件管理软件，-window-平台下。](https://www.v2ex.com/t/865264) 
+- [2022-07-10-突然发现国行的-ps5-已经不缺货了](https://www.v2ex.com/t/865263) 
 - [2022-07-10-哎,有狗咬人](https://www.v2ex.com/t/865262) 
 - [2022-07-10-WI-FI6-多客户端速率疑问](https://www.v2ex.com/t/865261) 
 - [2022-07-10-薅-uber-eats-新用户-45-美元羊毛发现-uber-识别到-iOS-设备之前用过新用户羊毛,请问一下-uber-是怎么检测到的?买二手机岂不是很多羊毛都没办法薅?-iPhone-重新...](https://www.v2ex.com/t/865260) 
@@ -1940,7 +1942,6 @@
 - [2022-07-10-2021-mbp14-屏幕胶垫粘-c-面](https://www.v2ex.com/t/865221) 
 - [2022-07-10-京东京造-Z9S-人体工学椅，这个椅子怎么样？](https://www.v2ex.com/t/865219) 
 - [2022-07-10-程序员的最终归宿是什么](https://www.v2ex.com/t/865217) 
-- [2022-07-10-为什么我的-mac-连接电源，在合上盖子情况下无法正常充电，在打开盖子就可以正常充电？](https://www.v2ex.com/t/865213) 
 - [2022-07-10-遗留系统的服务拆分-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15215&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fservice-splitting-legacy-systems%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-10-故事点-vs.-人天-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15213&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fagile-estimation-story-points-man-day%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-10-如何设计数据可视化平台-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15212&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-design-data-visualization-platform%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1964,5 +1965,5 @@
 - [2022-07-10-Python-中生成器的原理](https://toutiao.io/k/5zpfhtr) 
 - [2022-07-10-微服务分布式事务处理](https://toutiao.io/k/naby7f1) 
 - [2022-07-10-Alertmanager-集群乱发-resolve-消息的问题](https://toutiao.io/k/0nyfzxi) 
-- [2022-07-10-推荐-吐血整理：一份不可多得的架构师图谱！](https://toutiao.io/k/ptp0ru2) 
 - [2022-07-10-推荐-服务端监控架构设计与实践](https://toutiao.io/k/xhwa9mo) 
+- [2022-07-10-推荐-吐血整理：一份不可多得的架构师图谱！](https://toutiao.io/k/ptp0ru2) 

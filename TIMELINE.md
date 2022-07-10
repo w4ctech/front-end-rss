@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-10 15:14:32。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-07-10 15:42:35。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,7 @@
 </summary>
 
 
+- [【V2EX】2022-07-10-关于-veracrypt-和-ntfs-的疑问,预分配空间问题?](https://www.v2ex.com/t/865319) 
 - [【V2EX】2022-07-10-想问下前端业务做多了，怎么提升自己技术](https://www.v2ex.com/t/865318) 
 - [【V2EX】2022-07-10-纯粹得让人心醉的纪录片《蒙古草原，天气晴》豆瓣-9.7](https://www.v2ex.com/t/865315) 
 - [【V2EX】2022-07-10-索尼电视上的-Netflix-经常连不上或者显示使用了代理错误](https://www.v2ex.com/t/865314) 
@@ -102,7 +103,6 @@
 - [【V2EX】2022-07-10-现在找租房真是费时又费力！](https://www.v2ex.com/t/865275) 
 - [【V2EX】2022-07-10-ipv6-地址也有人扫描？](https://www.v2ex.com/t/865274) 
 - [【V2EX】2022-07-10-请教-vps-内外网卡均显示内网-ip-地址问题,-如何修改](https://www.v2ex.com/t/865272) 
-- [【V2EX】2022-07-10-上车-带我一个-滴滴](https://www.v2ex.com/t/865271) 
 - [【技术头条】2022-07-10-遗留系统的服务拆分-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15215&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fservice-splitting-legacy-systems%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-10-Thoughtworks-全球CTO：按需求构建架构，过度工程只会“劳民伤财”-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15214&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftechnology-radar-rebecca-interview%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-10-故事点-vs.-人天-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15213&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fagile-estimation-story-points-man-day%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

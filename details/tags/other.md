@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-10 08:43:00。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-10 09:13:05。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,9 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-07-10-现在的大环境是否适合考公？](https://www.v2ex.com/t/865269) 
+- [2022-07-10-Spotify-的-Windows-客户端窗口为什么总自己变的很大？](https://www.v2ex.com/t/865267) 
+- [2022-07-10-迫于小区-2-台电梯装监控需要-1-万，请问有没有什么好的监控方案?](https://www.v2ex.com/t/865266) 
 - [2022-07-10-寻找类似数据库的文件管理软件，-window-平台下。](https://www.v2ex.com/t/865264) 
 - [2022-07-10-突然发现国行的-ps5-已经不缺货了](https://www.v2ex.com/t/865263) 
 - [2022-07-10-哎,有狗咬人](https://www.v2ex.com/t/865262) 
@@ -1940,8 +1943,6 @@
 - [2022-07-10-web-端-v2-发帖按钮不见了，然后回复别人帖子还显示需要注册满-240-天](https://www.v2ex.com/t/865224) 
 - [2022-07-10-戴眼镜导致左右眼睛大小不一样怎么办啊？](https://www.v2ex.com/t/865222) 
 - [2022-07-10-2021-mbp14-屏幕胶垫粘-c-面](https://www.v2ex.com/t/865221) 
-- [2022-07-10-京东京造-Z9S-人体工学椅，这个椅子怎么样？](https://www.v2ex.com/t/865219) 
-- [2022-07-10-程序员的最终归宿是什么](https://www.v2ex.com/t/865217) 
 - [2022-07-10-遗留系统的服务拆分-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15215&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fservice-splitting-legacy-systems%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-10-故事点-vs.-人天-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15213&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fagile-estimation-story-points-man-day%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-10-如何设计数据可视化平台-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15212&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-design-data-visualization-platform%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

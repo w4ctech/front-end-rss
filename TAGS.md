@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-07-10 21:12:13。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-10 21:40:11。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -347,6 +347,7 @@
 
 
 
+- [【V2EX】软工类工作，面试考察底层知识是否合理？](https://www.v2ex.com/t/865329)
 - [【开发者头条】场景化面试：据说只有不到-5%-的开发者能正确读出这些英文单词](https://toutiao.io/k/vcnudk2)
 - [......【查看更多】......](./details/tags/job-interview.md)
 

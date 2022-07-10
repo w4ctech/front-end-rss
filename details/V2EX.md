@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2022-07-10 06:45:37。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-10 07:14:44。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-07-10-请教-Studio-Display-似乎没有跑满雷雳-3-的-40Gbps-传输速度](https://www.v2ex.com/t/865249) 
+- [2022-07-10-为什么-Anker-的无线充电器这么贵](https://www.v2ex.com/t/865248) 
 - [2022-07-10-深圳电信双拨问题请教](https://www.v2ex.com/t/865247) 
 - [2022-07-10-发现一个神奇的-bug：-chrome-系浏览器在页面中有视频时，导致外接屏幕失去信号](https://www.v2ex.com/t/865246) 
 - [2022-07-10-macbook-pro-m2-低配-几乎完败给-m1-air-低配](https://www.v2ex.com/t/865242) 
@@ -43,5 +45,3 @@
 - [2022-07-09-还有谁不知道-HHKB-可以修改-Fn-键的位置？按方向键的时候解放小拇指](https://www.v2ex.com/t/865202) 
 - [2022-07-09-google.cn-还活着吗](https://www.v2ex.com/t/865201) 
 - [2022-07-09-小米国内版能否通过刷机支持国际版频率？](https://www.v2ex.com/t/865200) 
-- [2022-07-09-Nota,-markdown-笔记应用,-支持-backlink，-UI-特别好](https://www.v2ex.com/t/865199) 
-- [2022-07-09-什么牌子的硬盘电源转接线靠谱呢](https://www.v2ex.com/t/865198) 

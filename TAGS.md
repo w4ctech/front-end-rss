@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-07-10 11:36:22。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-10 12:22:22。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -154,6 +154,7 @@
 
 
 
+- [【V2EX】广东电信游戏宽带问题咨询](https://www.v2ex.com/t/865292)
 - [......【查看更多】......](./details/tags/dev-game.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -182,6 +183,7 @@
 - [【张鑫旭-鑫空间-鑫生活】JS与条形码的生成](https://www.zhangxinxu.com/wordpress/2022/05/js-barcode/)
 - [【张鑫旭-鑫空间-鑫生活】深入-JS-new-Function-语法](https://www.zhangxinxu.com/wordpress/2022/04/js-new-function/)
 - [【张鑫旭-鑫空间-鑫生活】小tips:-JS字体加载失败或完毕的检测](https://www.zhangxinxu.com/wordpress/2022/04/js-font-face-load/)
+- [【V2EX】trzsz.js-发布了新版本，浏览器和-tabby-都支持拖目录直接上传了。](https://www.v2ex.com/t/865291)
 - [【V2EX】六年前端准备重学-JS，有啥路线吗？](https://www.v2ex.com/t/865282)
 - [......【查看更多】......](./details/tags/javascript.md)
 

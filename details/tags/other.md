@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-10 20:40:50。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-10 21:12:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,7 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-07-10-为什么那么多人教张小龙做微信?因为微信不够高效无法满足用户需求浪费了用户大量宝贵的时间?比如群二维码非要设置-200-人后必须人工拉进群,拉群的人的几十上百个...](https://www.v2ex.com/t/865328) 
 - [2022-07-10-淘宝网页版为什么中文使用冬青黑体](https://www.v2ex.com/t/865326) 
 - [2022-07-10-play-版支付宝没有-NFC?](https://www.v2ex.com/t/865325) 
 - [2022-07-10-如何快速拍出高大上的照片/自拍？摄影和后期怎么做？](https://www.v2ex.com/t/865323) 
@@ -1942,7 +1943,6 @@
 - [2022-07-10-安卓短信转发-app，方便多卡手机用户](https://www.v2ex.com/t/865281) 
 - [2022-07-10-请教大家一个-udp-问题](https://www.v2ex.com/t/865280) 
 - [2022-07-10-无锡泊客电商的一些疑问](https://www.v2ex.com/t/865279) 
-- [2022-07-10-求助移动光猫-dt720-cs-改桥接](https://www.v2ex.com/t/865278) 
 - [2022-07-10-遗留系统的服务拆分-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15215&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fservice-splitting-legacy-systems%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-10-故事点-vs.-人天-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15213&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fagile-estimation-story-points-man-day%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-10-如何设计数据可视化平台-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15212&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-design-data-visualization-platform%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1966,5 +1966,5 @@
 - [2022-07-10-Python-中生成器的原理](https://toutiao.io/k/5zpfhtr) 
 - [2022-07-10-微服务分布式事务处理](https://toutiao.io/k/naby7f1) 
 - [2022-07-10-Alertmanager-集群乱发-resolve-消息的问题](https://toutiao.io/k/0nyfzxi) 
-- [2022-07-10-推荐-服务端监控架构设计与实践](https://toutiao.io/k/xhwa9mo) 
 - [2022-07-10-推荐-吐血整理：一份不可多得的架构师图谱！](https://toutiao.io/k/ptp0ru2) 
+- [2022-07-10-推荐-服务端监控架构设计与实践](https://toutiao.io/k/xhwa9mo) 

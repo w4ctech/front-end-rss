@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-10 04:06:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-07-10 04:53:39。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,7 @@
 </summary>
 
 
+- [【V2EX】2022-07-10-国外程序员工作的代价有多大？](https://www.v2ex.com/t/865233) 
 - [【V2EX】2022-07-10-安卓-USB-网络共享-IPV6](https://www.v2ex.com/t/865231) 
 - [【V2EX】2022-07-10-Kafka-Stream-拓扑结构可视化](https://www.v2ex.com/t/865230) 
 - [【V2EX】2022-07-10-关于-TrueNAS-Scale-安装-nastool-的权限问题求助](https://www.v2ex.com/t/865229) 
@@ -108,8 +109,6 @@
 - [【V2EX】2022-07-09-数据库应该使用单独列存储计数吗？](https://www.v2ex.com/t/865187) 
 - [【V2EX】2022-07-09-Ventura-设置里有个登录项，怎么删除呢](https://www.v2ex.com/t/865186) 
 - [【V2EX】2022-07-09-请问如何让微信公众号文章在外部浏览器中打开后还能显示下方的精选留言？](https://www.v2ex.com/t/865184) 
-- [【V2EX】2022-07-09-有没有这种东西家用智能充电基座？](https://www.v2ex.com/t/865183) 
-- [【V2EX】2022-07-09-去外面散步一圈一身热汗后，冲个凉水澡，来罐冰啤酒🍺，爽翻了。。。各位务必试试](https://www.v2ex.com/t/865182) 
 - [【技术头条】2022-07-10-遗留系统的服务拆分-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15215&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fservice-splitting-legacy-systems%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-10-Thoughtworks-全球CTO：按需求构建架构，过度工程只会“劳民伤财”-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15214&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftechnology-radar-rebecca-interview%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-10-故事点-vs.-人天-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15213&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fagile-estimation-story-points-man-day%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

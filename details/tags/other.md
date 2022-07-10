@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-10 04:06:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-10 04:53:39。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,7 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-07-10-国外程序员工作的代价有多大？](https://www.v2ex.com/t/865233) 
 - [2022-07-10-安卓-USB-网络共享-IPV6](https://www.v2ex.com/t/865231) 
 - [2022-07-10-Kafka-Stream-拓扑结构可视化](https://www.v2ex.com/t/865230) 
 - [2022-07-10-五年-Python-开发经验，在观望是否有远程工作的机会，合适请-M-我](https://www.v2ex.com/t/865228) 
@@ -1939,8 +1940,6 @@
 - [2022-07-09-Gran-Turismo-Sophy-AI-Defeats-Lewis-Hamilton’s-Nurburgring-Lap-Time-by-17-Seconds](https://www.v2ex.com/t/865192) 
 - [2022-07-09-数据库应该使用单独列存储计数吗？](https://www.v2ex.com/t/865187) 
 - [2022-07-09-Ventura-设置里有个登录项，怎么删除呢](https://www.v2ex.com/t/865186) 
-- [2022-07-09-有没有这种东西家用智能充电基座？](https://www.v2ex.com/t/865183) 
-- [2022-07-09-去外面散步一圈一身热汗后，冲个凉水澡，来罐冰啤酒🍺，爽翻了。。。各位务必试试](https://www.v2ex.com/t/865182) 
 - [2022-07-10-遗留系统的服务拆分-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15215&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fservice-splitting-legacy-systems%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-10-故事点-vs.-人天-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15213&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fagile-estimation-story-points-man-day%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-10-如何设计数据可视化平台-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15212&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-design-data-visualization-platform%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

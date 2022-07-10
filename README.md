@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-07-10 04:06:20，:rocket: 更新条数: +2018， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-07-10 04:53:39，:rocket: 更新条数: +2017， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-07-10-国外程序员工作的代价有多大？](https://www.v2ex.com/t/865233) ![](assets/new.png)  
 - [2022-07-10-安卓-USB-网络共享-IPV6](https://www.v2ex.com/t/865231) ![](assets/new.png)  
 - [2022-07-10-Kafka-Stream-拓扑结构可视化](https://www.v2ex.com/t/865230) ![](assets/new.png)  
 - [2022-07-10-关于-TrueNAS-Scale-安装-nastool-的权限问题求助](https://www.v2ex.com/t/865229) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-07-10-Nestjs-最佳实践教程:4-排序,分页与过滤](https://www.v2ex.com/t/865211) ![](assets/new.png)  
 - [2022-07-10-两家人的烦恼](https://www.v2ex.com/t/865210) ![](assets/new.png)  
 - [2022-07-10-千万别买小米平板的官方磁吸双面保护壳](https://www.v2ex.com/t/865209) ![](assets/new.png)  
-- [2022-07-10-分享一款全平台笔记-app——Upnote](https://www.v2ex.com/t/865208) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-10 04:53:39。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-07-10 05:14:30。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,9 @@
 </summary>
 
 
+- [【V2EX】2022-07-10-都在说最近行情不好，广州的初级前端怎么样？](https://www.v2ex.com/t/865236) 
+- [【V2EX】2022-07-10-pycharm-clion-如何设置数据断点?](https://www.v2ex.com/t/865235) 
+- [【V2EX】2022-07-10-成都前端，对于裸辞怎么看，先辞职再找工作是否明智？](https://www.v2ex.com/t/865234) 
 - [【V2EX】2022-07-10-国外程序员工作的代价有多大？](https://www.v2ex.com/t/865233) 
 - [【V2EX】2022-07-10-安卓-USB-网络共享-IPV6](https://www.v2ex.com/t/865231) 
 - [【V2EX】2022-07-10-Kafka-Stream-拓扑结构可视化](https://www.v2ex.com/t/865230) 
@@ -107,8 +110,6 @@
 - [【V2EX】2022-07-09-Nestjs-最佳实践教程-1-编码环境搭建](https://www.v2ex.com/t/865189) 
 - [【V2EX】2022-07-09-求助zerotierzerotier-很卡，基本处于不太可用状态。](https://www.v2ex.com/t/865188) 
 - [【V2EX】2022-07-09-数据库应该使用单独列存储计数吗？](https://www.v2ex.com/t/865187) 
-- [【V2EX】2022-07-09-Ventura-设置里有个登录项，怎么删除呢](https://www.v2ex.com/t/865186) 
-- [【V2EX】2022-07-09-请问如何让微信公众号文章在外部浏览器中打开后还能显示下方的精选留言？](https://www.v2ex.com/t/865184) 
 - [【技术头条】2022-07-10-遗留系统的服务拆分-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15215&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fservice-splitting-legacy-systems%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-10-Thoughtworks-全球CTO：按需求构建架构，过度工程只会“劳民伤财”-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15214&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftechnology-radar-rebecca-interview%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-10-故事点-vs.-人天-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15213&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fagile-estimation-story-points-man-day%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -136,9 +137,9 @@
 - [【开发者头条】2022-07-10-场景化面试：据说只有不到-5%-的开发者能正确读出这些英文单词](https://toutiao.io/k/vcnudk2) 
 - [【开发者头条】2022-07-10-不知道这4种缓存模式，敢说懂缓存吗？](https://toutiao.io/k/nn8m95b) 
 - [【开发者头条】2022-07-10-电商商品同款识别图像算法研究](https://toutiao.io/k/0vd815k) 
-- [【开发者头条】2022-07-10-推荐-月活-12.8-亿的微信，海量请求下是如何防止崩溃的？](https://toutiao.io/k/fflgnsh) 
-- [【开发者头条】2022-07-10-推荐-服务端监控架构设计与实践](https://toutiao.io/k/xhwa9mo) 
 - [【开发者头条】2022-07-10-推荐-吐血整理：一份不可多得的架构师图谱！](https://toutiao.io/k/ptp0ru2) 
+- [【开发者头条】2022-07-10-推荐-服务端监控架构设计与实践](https://toutiao.io/k/xhwa9mo) 
+- [【开发者头条】2022-07-10-推荐-月活-12.8-亿的微信，海量请求下是如何防止崩溃的？](https://toutiao.io/k/fflgnsh) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

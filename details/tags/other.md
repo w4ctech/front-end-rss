@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-10 04:53:39。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-10 05:14:30。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,9 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-07-10-都在说最近行情不好，广州的初级前端怎么样？](https://www.v2ex.com/t/865236) 
+- [2022-07-10-pycharm-clion-如何设置数据断点?](https://www.v2ex.com/t/865235) 
+- [2022-07-10-成都前端，对于裸辞怎么看，先辞职再找工作是否明智？](https://www.v2ex.com/t/865234) 
 - [2022-07-10-国外程序员工作的代价有多大？](https://www.v2ex.com/t/865233) 
 - [2022-07-10-安卓-USB-网络共享-IPV6](https://www.v2ex.com/t/865231) 
 - [2022-07-10-Kafka-Stream-拓扑结构可视化](https://www.v2ex.com/t/865230) 
@@ -1939,7 +1942,6 @@
 - [2022-07-09-使用-aws--Java--sdk-s3-怎么-aws-s3-上断点下载文件，那里有比较好的例子吗？](https://www.v2ex.com/t/865193) 
 - [2022-07-09-Gran-Turismo-Sophy-AI-Defeats-Lewis-Hamilton’s-Nurburgring-Lap-Time-by-17-Seconds](https://www.v2ex.com/t/865192) 
 - [2022-07-09-数据库应该使用单独列存储计数吗？](https://www.v2ex.com/t/865187) 
-- [2022-07-09-Ventura-设置里有个登录项，怎么删除呢](https://www.v2ex.com/t/865186) 
 - [2022-07-10-遗留系统的服务拆分-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15215&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fservice-splitting-legacy-systems%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-10-故事点-vs.-人天-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15213&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fagile-estimation-story-points-man-day%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-10-如何设计数据可视化平台-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15212&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-design-data-visualization-platform%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1960,5 +1962,5 @@
 - [2022-07-10-欢迎加入读者圈子，一起交流！](https://toutiao.io/k/5fkxdkk) 
 - [2022-07-10-Go语言如何应对供应链攻击](https://toutiao.io/k/o0h7bt0) 
 - [2022-07-10-Apache-Doris-在有赞的初步尝试](https://toutiao.io/k/mgymcz6) 
-- [2022-07-10-推荐-服务端监控架构设计与实践](https://toutiao.io/k/xhwa9mo) 
 - [2022-07-10-推荐-吐血整理：一份不可多得的架构师图谱！](https://toutiao.io/k/ptp0ru2) 
+- [2022-07-10-推荐-服务端监控架构设计与实践](https://toutiao.io/k/xhwa9mo) 

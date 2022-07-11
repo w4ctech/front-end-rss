@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-11 14:41:04。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-07-11 15:25:12。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,11 @@
 </summary>
 
 
+- [【V2EX】2022-07-11-「北京、上海」小红书研发、运营、销售多岗位急聘](https://www.v2ex.com/t/865540) 
+- [【V2EX】2022-07-11-mac-kindle-同步](https://www.v2ex.com/t/865539) 
+- [【V2EX】2022-07-11-有偿请教关于-smpp-的问题](https://www.v2ex.com/t/865538) 
+- [【V2EX】2022-07-11-家人们-学-go-标准库通过写标准库的结构体/函数-demo-有用吗，或者有效率更高的？](https://www.v2ex.com/t/865537) 
+- [【V2EX】2022-07-11-由于经济原因，进了一家非自研的公司软件服务，但公司的技术深度太浅，应该咋办？](https://www.v2ex.com/t/865536) 
 - [【V2EX】2022-07-11-onedrive-for-business-如何看手机上备份的照片？](https://www.v2ex.com/t/865535) 
 - [【V2EX】2022-07-11-在日剧中看到，高中的择校指南大概有五厘米那么厚的一本书，国内有没有类似的出版物，如果想要写一本来出版的话可行吗](https://www.v2ex.com/t/865534) 
 - [【V2EX】2022-07-11-昨天刚注册的，今天我的发帖按钮不见了是为啥？可以正常回复](https://www.v2ex.com/t/865532) 
@@ -101,10 +106,6 @@
 - [【V2EX】2022-07-11-请问怎么能提高页面或者应用的布局设计及美化水平](https://www.v2ex.com/t/865495) 
 - [【V2EX】2022-07-11-telegram-的一个搜索数据库系统](https://www.v2ex.com/t/865494) 
 - [【V2EX】2022-07-11-有人知道电子合同需要接入什么认证才有法律效益嘛](https://www.v2ex.com/t/865493) 
-- [【V2EX】2022-07-11-微服务架构下-MDM主数据管理和业务表数据有什么最佳实践](https://www.v2ex.com/t/865490) 
-- [【V2EX】2022-07-11-请教下各位大佬们，如何用-Alfred-实现这个-Git-忽略跟踪工作流](https://www.v2ex.com/t/865489) 
-- [【V2EX】2022-07-11-看了站内很多不小心把数据库清空或误删数据的](https://www.v2ex.com/t/865488) 
-- [【V2EX】2022-07-11-我这个-ppt-为啥不能翻页啊？？](https://www.v2ex.com/t/865486) 
 - [【技术头条】2022-07-11-遗留系统的服务拆分-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15215&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fservice-splitting-legacy-systems%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-11-Thoughtworks-全球CTO：按需求构建架构，过度工程只会“劳民伤财”-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15214&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftechnology-radar-rebecca-interview%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-11-故事点-vs.-人天-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15213&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fagile-estimation-story-points-man-day%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -130,11 +131,11 @@
 - [【开发者头条】2022-07-11-图文并茂！带你深度解析Kubernetes](https://toutiao.io/k/zqu0b0q) 
 - [【开发者头条】2022-07-11-声网开发者创业讲堂丨第-4-期：创业团队如何保障产品业务的安全合规？](https://toutiao.io/k/lgn6aun) 
 - [【开发者头条】2022-07-11-聊聊消息中心的设计与实现逻辑](https://toutiao.io/k/skcgh32) 
-- [【开发者头条】2022-07-11-Three.js系列:-在元宇宙看电影，享受-VR-视觉盛宴](https://toutiao.io/k/gsrdl2c) 
 - [【开发者头条】2022-07-11-设计你的安全架构OKR](https://toutiao.io/k/dsy1omh) 
+- [【开发者头条】2022-07-11-Three.js系列:-在元宇宙看电影，享受-VR-视觉盛宴](https://toutiao.io/k/gsrdl2c) 
+- [【开发者头条】2022-07-11-电商商品系统的演进分析](https://toutiao.io/k/afi492u) 
 - [【开发者头条】2022-07-11-阿里前端智能化技术探索和未来思考](https://toutiao.io/k/x92aer6) 
 - [【开发者头条】2022-07-11-深刻理解-|-以通信方式共享内存,不要以共享内存方式通信](https://toutiao.io/k/2tydb4f) 
-- [【开发者头条】2022-07-11-电商商品系统的演进分析](https://toutiao.io/k/afi492u) 
 - [【开发者头条】2022-07-11-Git进阶系列-|-8.-用Reflog恢复丢失的提交](https://toutiao.io/k/ervoklc) 
 - [【开发者头条】2022-07-11-4种-Redis-集群方案及优缺点对比](https://toutiao.io/k/ldrnen2) 
 - [【开发者头条】2022-07-11-分布式锁&kafka事务提交等编码技巧](https://toutiao.io/k/b55bk7t) 
@@ -146,8 +147,8 @@
 - [【开发者头条】2022-07-11-存储日报-20220711](https://toutiao.io/k/9is1ndg) 
 - [【开发者头条】2022-07-11-通过-KubeVela-解决多集群环境下-Helm-Chart-的部署问题](https://toutiao.io/k/lbns9r4) 
 - [【开发者头条】2022-07-11-推荐-月活-12.8-亿的微信，海量请求下是如何防止崩溃的？](https://toutiao.io/k/fflgnsh) 
-- [【开发者头条】2022-07-11-推荐-吐血整理：一份不可多得的架构师图谱！](https://toutiao.io/k/ptp0ru2) 
 - [【开发者头条】2022-07-11-推荐-服务端监控架构设计与实践](https://toutiao.io/k/xhwa9mo) 
+- [【开发者头条】2022-07-11-推荐-吐血整理：一份不可多得的架构师图谱！](https://toutiao.io/k/ptp0ru2) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

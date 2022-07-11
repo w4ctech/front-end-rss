@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-07-11 14:41:04。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-11 15:25:12。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -335,7 +335,6 @@
 
 
 
-- [【V2EX】请教下各位大佬们，如何用-Alfred-实现这个-Git-忽略跟踪工作流](https://www.v2ex.com/t/865489)
 - [【开发者头条】Git进阶系列-|-8.-用Reflog恢复丢失的提交](https://toutiao.io/k/ervoklc)
 - [......【查看更多】......](./details/tags/git-svn.md)
 

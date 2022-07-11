@@ -9953,6 +9953,31 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "「北京、上海」小红书研发、运营、销售多岗位急聘",
+        "link": "https://www.v2ex.com/t/865540",
+        "date": "2022-07-11"
+      },
+      {
+        "title": "mac kindle 同步",
+        "link": "https://www.v2ex.com/t/865539",
+        "date": "2022-07-11"
+      },
+      {
+        "title": "有偿请教关于 smpp 的问题",
+        "link": "https://www.v2ex.com/t/865538",
+        "date": "2022-07-11"
+      },
+      {
+        "title": "家人们 学 go 标准库通过写标准库的结构体/函数 demo 有用吗，或者有效率更高的？",
+        "link": "https://www.v2ex.com/t/865537",
+        "date": "2022-07-11"
+      },
+      {
+        "title": "由于经济原因，进了一家非自研的公司(软件服务)，但公司的技术深度太浅，应该咋办？",
+        "link": "https://www.v2ex.com/t/865536",
+        "date": "2022-07-11"
+      },
+      {
         "title": "onedrive for business 如何看手机上备份的照片？",
         "link": "https://www.v2ex.com/t/865535",
         "date": "2022-07-11"
@@ -10116,26 +10141,6 @@
         "title": "有人知道电子合同需要接入什么认证才有法律效益嘛",
         "link": "https://www.v2ex.com/t/865493",
         "date": "2022-07-11"
-      },
-      {
-        "title": "微服务架构下 MDM(主数据管理)和业务表数据有什么最佳实践",
-        "link": "https://www.v2ex.com/t/865490",
-        "date": "2022-07-11"
-      },
-      {
-        "title": "请教下各位大佬们，如何用 Alfred 实现这个 Git 忽略跟踪工作流",
-        "link": "https://www.v2ex.com/t/865489",
-        "date": "2022-07-11"
-      },
-      {
-        "title": "看了站内很多不小心把数据库清空或误删数据的",
-        "link": "https://www.v2ex.com/t/865488",
-        "date": "2022-07-11"
-      },
-      {
-        "title": "我这个 ppt 为啥不能翻页啊？？",
-        "link": "https://www.v2ex.com/t/865486",
-        "date": "2022-07-11"
       }
     ]
   },
@@ -10277,13 +10282,18 @@
         "date": "2022-07-11"
       },
       {
+        "title": "设计你的安全架构OKR",
+        "link": "https://toutiao.io/k/dsy1omh",
+        "date": "2022-07-11"
+      },
+      {
         "title": "Three.js系列: 在元宇宙看电影，享受 VR 视觉盛宴",
         "link": "https://toutiao.io/k/gsrdl2c",
         "date": "2022-07-11"
       },
       {
-        "title": "设计你的安全架构OKR",
-        "link": "https://toutiao.io/k/dsy1omh",
+        "title": "电商商品系统的演进分析",
+        "link": "https://toutiao.io/k/afi492u",
         "date": "2022-07-11"
       },
       {
@@ -10294,11 +10304,6 @@
       {
         "title": "深刻理解 | 以通信方式共享内存,不要以共享内存方式通信",
         "link": "https://toutiao.io/k/2tydb4f",
-        "date": "2022-07-11"
-      },
-      {
-        "title": "电商商品系统的演进分析",
-        "link": "https://toutiao.io/k/afi492u",
         "date": "2022-07-11"
       },
       {
@@ -10357,13 +10362,13 @@
         "date": "2022-07-11"
       },
       {
-        "title": "[推荐] 吐血整理：一份不可多得的架构师图谱！",
-        "link": "https://toutiao.io/k/ptp0ru2",
+        "title": "[推荐] 服务端监控架构设计与实践",
+        "link": "https://toutiao.io/k/xhwa9mo",
         "date": "2022-07-11"
       },
       {
-        "title": "[推荐] 服务端监控架构设计与实践",
-        "link": "https://toutiao.io/k/xhwa9mo",
+        "title": "[推荐] 吐血整理：一份不可多得的架构师图谱！",
+        "link": "https://toutiao.io/k/ptp0ru2",
         "date": "2022-07-11"
       }
     ]

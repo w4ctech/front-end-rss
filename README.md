@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-07-11 04:12:15，:rocket: 更新条数: +2025， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-07-11 05:04:04，:rocket: 更新条数: +2025， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,11 @@
 </summary>
 
 
+- [2022-07-11-突然发现-iOS-和微信有点像](https://www.v2ex.com/t/865401) ![](assets/new.png)  
+- [2022-07-11-Seenvoy:-一个-envoy-配置的可视化面板，欢迎试用](https://www.v2ex.com/t/865400) ![](assets/new.png)  
+- [2022-07-11-豆瓣帖子内容被-AdGuard-误拦截](https://www.v2ex.com/t/865399) ![](assets/new.png)  
+- [2022-07-11-有人用-gitlab-极狐吗，体验如何](https://www.v2ex.com/t/865398) ![](assets/new.png)  
+- [2022-07-11-大佬们,-windows-下有什么劫持-DNS-的软件吗?](https://www.v2ex.com/t/865397) ![](assets/new.png)  
 - [2022-07-11-一个-nginx-的问题好奇是怎么做到的，比如-node.js-不是访问-js-文件而是跳转到指定页面](https://www.v2ex.com/t/865395) ![](assets/new.png)  
 - [2022-07-11-请教大佬一个前端开发的问题。](https://www.v2ex.com/t/865394) ![](assets/new.png)  
 - [2022-07-11-5-年-Java-求个远程工作，会一些前端和大数据，做过数据中台](https://www.v2ex.com/t/865393) ![](assets/new.png)  
@@ -506,11 +511,6 @@
 - [2022-07-11-前端-Nuxt:可以既用-generate-生成部分静态化页面，其他页面又能继续使用服务端渲染吗](https://www.v2ex.com/t/865380) ![](assets/new.png)  
 - [2022-07-11-由于小孩上学，希望市内迁移一下，有人有渠道吗？](https://www.v2ex.com/t/865379) ![](assets/new.png)  
 - [2022-07-11-国内真的有人深度使用-Telegram（除币圈和搞-H-色](https://www.v2ex.com/t/865378) ![](assets/new.png)  
-- [2022-07-11-分享一个模拟朋友圈集赞工具。](https://www.v2ex.com/t/865375) ![](assets/new.png)  
-- [2022-07-11-在预算有限的情况下，服务器放在哪里能兼顾全球用户啊？](https://www.v2ex.com/t/865374) ![](assets/new.png)  
-- [2022-07-11-甲骨文-japan-是不是不能注册了，试了三次，提示“Error-processing-transaction”](https://www.v2ex.com/t/865372) ![](assets/new.png)  
-- [2022-07-11-武汉前端-腾讯武汉子公司招聘前端开发](https://www.v2ex.com/t/865371) ![](assets/new.png)  
-- [2022-07-11-深圳三年-Java-求职，做过物联网通信](https://www.v2ex.com/t/865370) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -558,20 +558,20 @@
 - [2022-07-11-图文并茂！带你深度解析Kubernetes](https://toutiao.io/k/zqu0b0q) ![](assets/new.png)  
 - [2022-07-11-声网开发者创业讲堂丨第-4-期：创业团队如何保障产品业务的安全合规？](https://toutiao.io/k/lgn6aun) ![](assets/new.png)  
 - [2022-07-11-Three.js系列:-在元宇宙看电影，享受-VR-视觉盛宴](https://toutiao.io/k/gsrdl2c) ![](assets/new.png)  
+- [2022-07-11-聊聊消息中心的设计与实现逻辑](https://toutiao.io/k/skcgh32) ![](assets/new.png)  
+- [2022-07-11-设计你的安全架构OKR](https://toutiao.io/k/dsy1omh) ![](assets/new.png)  
+- [2022-07-11-阿里前端智能化技术探索和未来思考](https://toutiao.io/k/x92aer6) ![](assets/new.png)  
+- [2022-07-11-深刻理解-|-以通信方式共享内存,不要以共享内存方式通信](https://toutiao.io/k/2tydb4f) ![](assets/new.png)  
 - [2022-07-11-一文读懂遗传算法工作原理（Python实现）](https://toutiao.io/k/s0vxu7o) ![](assets/new.png)  
 - [2022-07-11-姜伟华：阿里建设一站式实时数仓的经验分享](https://toutiao.io/k/onskrlv) ![](assets/new.png)  
 - [2022-07-11-分布式锁&kafka事务提交等编码技巧](https://toutiao.io/k/b55bk7t) ![](assets/new.png)  
-- [2022-07-11-阿里前端智能化技术探索和未来思考](https://toutiao.io/k/x92aer6) ![](assets/new.png)  
-- [2022-07-11-设计你的安全架构OKR](https://toutiao.io/k/dsy1omh) ![](assets/new.png)  
-- [2022-07-11-聊聊消息中心的设计与实现逻辑](https://toutiao.io/k/skcgh32) ![](assets/new.png)  
-- [2022-07-11-深刻理解-|-以通信方式共享内存,不要以共享内存方式通信](https://toutiao.io/k/2tydb4f) ![](assets/new.png)  
 - [2022-07-11-Git进阶系列-|-8.-用Reflog恢复丢失的提交](https://toutiao.io/k/ervoklc) ![](assets/new.png)  
 - [2022-07-11-4种-Redis-集群方案及优缺点对比](https://toutiao.io/k/ldrnen2) ![](assets/new.png)  
 - [2022-07-11-某保险企业业务容器化实践](https://toutiao.io/k/8qj2tbr) ![](assets/new.png)  
 - [2022-07-11-Kotlin协程-Coroutines的基本使用](https://toutiao.io/k/yaaumg3) ![](assets/new.png)  
-- [2022-07-11-推荐-吐血整理：一份不可多得的架构师图谱！](https://toutiao.io/k/ptp0ru2) ![](assets/new.png)  
-- [2022-07-11-推荐-月活-12.8-亿的微信，海量请求下是如何防止崩溃的？](https://toutiao.io/k/fflgnsh) ![](assets/new.png)  
 - [2022-07-11-推荐-服务端监控架构设计与实践](https://toutiao.io/k/xhwa9mo) ![](assets/new.png)  
+- [2022-07-11-推荐-月活-12.8-亿的微信，海量请求下是如何防止崩溃的？](https://toutiao.io/k/fflgnsh) ![](assets/new.png)  
+- [2022-07-11-推荐-吐血整理：一份不可多得的架构师图谱！](https://toutiao.io/k/ptp0ru2) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

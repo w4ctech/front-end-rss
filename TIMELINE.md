@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-11 10:44:35。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-07-11 11:11:52。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,11 +68,15 @@
 </summary>
 
 
+- [【V2EX】2022-07-11-直接自定义-cos-域名进行访问，还是通过-CDN-域名进行访问？](https://www.v2ex.com/t/865499) 
+- [【V2EX】2022-07-11-一种优化的-JPEG-剪裁、缩小图片的解码方法](https://www.v2ex.com/t/865498) 
+- [【V2EX】2022-07-11-有没有-ssl-证书-web-管理面板推荐](https://www.v2ex.com/t/865496) 
+- [【V2EX】2022-07-11-请问怎么能提高页面或者应用的布局设计及美化水平](https://www.v2ex.com/t/865495) 
+- [【V2EX】2022-07-11-telegram-的一个搜索数据库系统](https://www.v2ex.com/t/865494) 
 - [【V2EX】2022-07-11-有人知道电子合同需要接入什么认证才有法律效益嘛](https://www.v2ex.com/t/865493) 
 - [【V2EX】2022-07-11-微服务架构下-MDM主数据管理和业务表数据有什么最佳实践](https://www.v2ex.com/t/865490) 
 - [【V2EX】2022-07-11-请教下各位大佬们，如何用-Alfred-实现这个-Git-忽略跟踪工作流](https://www.v2ex.com/t/865489) 
 - [【V2EX】2022-07-11-看了站内很多不小心把数据库清空或误删数据的](https://www.v2ex.com/t/865488) 
-- [【V2EX】2022-07-11-怎么看上海的「核酸产业园」？](https://www.v2ex.com/t/865487) 
 - [【V2EX】2022-07-11-我这个-ppt-为啥不能翻页啊？？](https://www.v2ex.com/t/865486) 
 - [【V2EX】2022-07-11-前端-multi-repo-项目的改造](https://www.v2ex.com/t/865485) 
 - [【V2EX】2022-07-11-WeChat-接收不到消息](https://www.v2ex.com/t/865484) 
@@ -105,9 +109,6 @@
 - [【V2EX】2022-07-11-请教一个-Linux-问题，光盘救援模式下，如何-fsck-原有系统的根目录](https://www.v2ex.com/t/865452) 
 - [【V2EX】2022-07-11-VS-Code-插件可以过滤-Terminal-的输入和输出吗？输入经过插件再发到服务器，输出经过插件再显示。](https://www.v2ex.com/t/865451) 
 - [【V2EX】2022-07-11-vscode-remote-ssh-是如何实现-notty-登录的？](https://www.v2ex.com/t/865450) 
-- [【V2EX】2022-07-11-创业公司如何做好产品业务的安全合规？](https://www.v2ex.com/t/865447) 
-- [【V2EX】2022-07-11-腾讯云服务器存在疑似挖矿行为](https://www.v2ex.com/t/865446) 
-- [【V2EX】2022-07-11-有感于最近的裁员和仲裁贴，如果有这种法律服务，你们愿意付费吗？](https://www.v2ex.com/t/865445) 
 - [【技术头条】2022-07-11-遗留系统的服务拆分-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15215&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fservice-splitting-legacy-systems%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-11-Thoughtworks-全球CTO：按需求构建架构，过度工程只会“劳民伤财”-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15214&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftechnology-radar-rebecca-interview%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-11-故事点-vs.-人天-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15213&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fagile-estimation-story-points-man-day%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -148,8 +149,8 @@
 - [【开发者头条】2022-07-11-TLA+入门教程（3）：《虎胆龙威3》经典倒水问题](https://toutiao.io/k/6p4tfok) 
 - [【开发者头条】2022-07-11-存储日报-20220711](https://toutiao.io/k/9is1ndg) 
 - [【开发者头条】2022-07-11-通过-KubeVela-解决多集群环境下-Helm-Chart-的部署问题](https://toutiao.io/k/lbns9r4) 
-- [【开发者头条】2022-07-11-推荐-服务端监控架构设计与实践](https://toutiao.io/k/xhwa9mo) 
 - [【开发者头条】2022-07-11-推荐-月活-12.8-亿的微信，海量请求下是如何防止崩溃的？](https://toutiao.io/k/fflgnsh) 
+- [【开发者头条】2022-07-11-推荐-服务端监控架构设计与实践](https://toutiao.io/k/xhwa9mo) 
 - [【开发者头条】2022-07-11-推荐-吐血整理：一份不可多得的架构师图谱！](https://toutiao.io/k/ptp0ru2) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-07-11 03:22:41，:rocket: 更新条数: +2024， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-07-11 04:12:15，:rocket: 更新条数: +2025， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,19 @@
 </summary>
 
 
+- [2022-07-11-一个-nginx-的问题好奇是怎么做到的，比如-node.js-不是访问-js-文件而是跳转到指定页面](https://www.v2ex.com/t/865395) ![](assets/new.png)  
+- [2022-07-11-请教大佬一个前端开发的问题。](https://www.v2ex.com/t/865394) ![](assets/new.png)  
+- [2022-07-11-5-年-Java-求个远程工作，会一些前端和大数据，做过数据中台](https://www.v2ex.com/t/865393) ![](assets/new.png)  
+- [2022-07-11-tailwind-css/-windi-css-用法讨论-width-大家是使用-w-2-还是-w-8px-这样的显示推断？](https://www.v2ex.com/t/865392) ![](assets/new.png)  
+- [2022-07-11-请教各位如何从安卓转移短信到-iPhone](https://www.v2ex.com/t/865391) ![](assets/new.png)  
+- [2022-07-11-如何改变一个方法里的常量](https://www.v2ex.com/t/865390) ![](assets/new.png)  
+- [2022-07-11-2022-上海中考语文作文题：这不过是个开场。](https://www.v2ex.com/t/865388) ![](assets/new.png)  
+- [2022-07-11-在公司发表发明专利有什么好处？](https://www.v2ex.com/t/865386) ![](assets/new.png)  
+- [2022-07-11-新成为-helmfile-项目核心维护者，声明式管理-helm-chart，求志同道合的小伙伴一起参与](https://www.v2ex.com/t/865385) ![](assets/new.png)  
+- [2022-07-11-Telegram-群聊没有输入框，群成员消息只能看到气泡，是怎么回事？](https://www.v2ex.com/t/865383) ![](assets/new.png)  
+- [2022-07-11-熊猫吃短信不能吃-Apple-Watch-上的辣鸡短信？](https://www.v2ex.com/t/865382) ![](assets/new.png)  
+- [2022-07-11-Web3-招聘：合约测试工程师&上海|远程|杭州&30-60-万](https://www.v2ex.com/t/865381) ![](assets/new.png)  
+- [2022-07-11-前端-Nuxt:可以既用-generate-生成部分静态化页面，其他页面又能继续使用服务端渲染吗](https://www.v2ex.com/t/865380) ![](assets/new.png)  
 - [2022-07-11-由于小孩上学，希望市内迁移一下，有人有渠道吗？](https://www.v2ex.com/t/865379) ![](assets/new.png)  
 - [2022-07-11-国内真的有人深度使用-Telegram（除币圈和搞-H-色](https://www.v2ex.com/t/865378) ![](assets/new.png)  
 - [2022-07-11-分享一个模拟朋友圈集赞工具。](https://www.v2ex.com/t/865375) ![](assets/new.png)  
@@ -498,19 +511,6 @@
 - [2022-07-11-甲骨文-japan-是不是不能注册了，试了三次，提示“Error-processing-transaction”](https://www.v2ex.com/t/865372) ![](assets/new.png)  
 - [2022-07-11-武汉前端-腾讯武汉子公司招聘前端开发](https://www.v2ex.com/t/865371) ![](assets/new.png)  
 - [2022-07-11-深圳三年-Java-求职，做过物联网通信](https://www.v2ex.com/t/865370) ![](assets/new.png)  
-- [2022-07-11-QQ-音乐-Mac-客户端占用上行带宽，怎么干掉？](https://www.v2ex.com/t/865369) ![](assets/new.png)  
-- [2022-07-11-求个-ROS-网关掉线自动切换的脚本呀！](https://www.v2ex.com/t/865368) ![](assets/new.png)  
-- [2022-07-11-19-年毕业的菜鸡后端请教学习技巧](https://www.v2ex.com/t/865367) ![](assets/new.png)  
-- [2022-07-11-如何看待-WPS-会审查文件内容，可能导致用户、文件被封](https://www.v2ex.com/t/865365) ![](assets/new.png)  
-- [2022-07-11-既然轻薄本和游戏本，最大的区别是散热，那为什么不外接一根金属导热管，把热量排走呢？](https://www.v2ex.com/t/865364) ![](assets/new.png)  
-- [2022-07-11-Apple-Watch-进水失控？](https://www.v2ex.com/t/865363) ![](assets/new.png)  
-- [2022-07-11-LG-Ergo-显示器求推荐](https://www.v2ex.com/t/865362) ![](assets/new.png)  
-- [2022-07-11-招行朝朝宝、交行活期盈有必要转为存款吗](https://www.v2ex.com/t/865361) ![](assets/new.png)  
-- [2022-07-11-吐槽贴，-618-天猫官方买的-iPhone13-后摄像头有粒灰尘。](https://www.v2ex.com/t/865360) ![](assets/new.png)  
-- [2022-07-11-Firefox-有没有办法按照当前系统启用不同的扩展？](https://www.v2ex.com/t/865359) ![](assets/new.png)  
-- [2022-07-11-15K-25K-招聘海外产品运营，远程办公](https://www.v2ex.com/t/865358) ![](assets/new.png)  
-- [2022-07-11-Nestjs-最佳实践教程:5-自动验证,序列化与异常处理](https://www.v2ex.com/t/865357) ![](assets/new.png)  
-- [2022-07-11-m1-芯片的-macbook-pro-视频播放音画不同步](https://www.v2ex.com/t/865356) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -563,15 +563,15 @@
 - [2022-07-11-分布式锁&kafka事务提交等编码技巧](https://toutiao.io/k/b55bk7t) ![](assets/new.png)  
 - [2022-07-11-阿里前端智能化技术探索和未来思考](https://toutiao.io/k/x92aer6) ![](assets/new.png)  
 - [2022-07-11-设计你的安全架构OKR](https://toutiao.io/k/dsy1omh) ![](assets/new.png)  
-- [2022-07-11-深刻理解-|-以通信方式共享内存,不要以共享内存方式通信](https://toutiao.io/k/2tydb4f) ![](assets/new.png)  
 - [2022-07-11-聊聊消息中心的设计与实现逻辑](https://toutiao.io/k/skcgh32) ![](assets/new.png)  
+- [2022-07-11-深刻理解-|-以通信方式共享内存,不要以共享内存方式通信](https://toutiao.io/k/2tydb4f) ![](assets/new.png)  
 - [2022-07-11-Git进阶系列-|-8.-用Reflog恢复丢失的提交](https://toutiao.io/k/ervoklc) ![](assets/new.png)  
 - [2022-07-11-4种-Redis-集群方案及优缺点对比](https://toutiao.io/k/ldrnen2) ![](assets/new.png)  
 - [2022-07-11-某保险企业业务容器化实践](https://toutiao.io/k/8qj2tbr) ![](assets/new.png)  
 - [2022-07-11-Kotlin协程-Coroutines的基本使用](https://toutiao.io/k/yaaumg3) ![](assets/new.png)  
+- [2022-07-11-推荐-吐血整理：一份不可多得的架构师图谱！](https://toutiao.io/k/ptp0ru2) ![](assets/new.png)  
 - [2022-07-11-推荐-月活-12.8-亿的微信，海量请求下是如何防止崩溃的？](https://toutiao.io/k/fflgnsh) ![](assets/new.png)  
 - [2022-07-11-推荐-服务端监控架构设计与实践](https://toutiao.io/k/xhwa9mo) ![](assets/new.png)  
-- [2022-07-11-推荐-吐血整理：一份不可多得的架构师图谱！](https://toutiao.io/k/ptp0ru2) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

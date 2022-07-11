@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-07-11 07:13:28。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-11 07:39:48。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -108,7 +108,6 @@
 
 
 
-- [【V2EX】一个-nginx-的问题好奇是怎么做到的，比如-node.js-不是访问-js-文件而是跳转到指定页面](https://www.v2ex.com/t/865395)
 - [......【查看更多】......](./details/tags/nodejs.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -282,6 +281,7 @@
 - [【武汉肺炎防疫全纪录(财新网)】解药|新冠mRNA疫苗安全性有哪些挑战？](https://m.caixin.com/m/2021-01-08/101648043.html)
 - [【武汉肺炎防疫全纪录(财新网)】大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html)
 - [【张鑫旭-鑫空间-鑫生活】基于文字的URL锚点定位与::target-text样式设置](https://www.zhangxinxu.com/wordpress/2022/06/url-anchor-target-text/)
+- [【V2EX】创业公司如何做好产品业务的安全合规？](https://www.v2ex.com/t/865447)
 - [【V2EX】Web3-远程-DeBank/Rabby-招聘-Web3-数据/安全/后端/前端/SRE-$5K-$13K](https://www.v2ex.com/t/865414)
 - [【开发者头条】声网开发者创业讲堂丨第-4-期：创业团队如何保障产品业务的安全合规？](https://toutiao.io/k/lgn6aun)
 - [【开发者头条】设计你的安全架构OKR](https://toutiao.io/k/dsy1omh)
@@ -337,7 +337,6 @@
 
 
 
-- [【V2EX】有人用-gitlab-极狐吗，体验如何](https://www.v2ex.com/t/865398)
 - [【开发者头条】Git进阶系列-|-8.-用Reflog恢复丢失的提交](https://toutiao.io/k/ervoklc)
 - [......【查看更多】......](./details/tags/git-svn.md)
 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-11 15:25:12。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-11 15:44:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,8 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-07-11-苹果-Apple-的-cdn-是抽风了吗](https://www.v2ex.com/t/865543) 
+- [2022-07-11-电脑蓝屏和死机问题能不能根治？](https://www.v2ex.com/t/865542) 
 - [2022-07-11-「北京、上海」小红书研发、运营、销售多岗位急聘](https://www.v2ex.com/t/865540) 
 - [2022-07-11-mac-kindle-同步](https://www.v2ex.com/t/865539) 
 - [2022-07-11-有偿请教关于-smpp-的问题](https://www.v2ex.com/t/865538) 
@@ -1943,7 +1945,6 @@
 - [2022-07-11-有没有-ssl-证书-web-管理面板推荐](https://www.v2ex.com/t/865496) 
 - [2022-07-11-请问怎么能提高页面或者应用的布局设计及美化水平](https://www.v2ex.com/t/865495) 
 - [2022-07-11-telegram-的一个搜索数据库系统](https://www.v2ex.com/t/865494) 
-- [2022-07-11-有人知道电子合同需要接入什么认证才有法律效益嘛](https://www.v2ex.com/t/865493) 
 - [2022-07-11-遗留系统的服务拆分-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15215&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fservice-splitting-legacy-systems%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-11-故事点-vs.-人天-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15213&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fagile-estimation-story-points-man-day%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-11-如何设计数据可视化平台-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15212&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-design-data-visualization-platform%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1974,5 +1975,5 @@
 - [2022-07-11-TLA+入门教程（3）：《虎胆龙威3》经典倒水问题](https://toutiao.io/k/6p4tfok) 
 - [2022-07-11-存储日报-20220711](https://toutiao.io/k/9is1ndg) 
 - [2022-07-11-通过-KubeVela-解决多集群环境下-Helm-Chart-的部署问题](https://toutiao.io/k/lbns9r4) 
-- [2022-07-11-推荐-服务端监控架构设计与实践](https://toutiao.io/k/xhwa9mo) 
 - [2022-07-11-推荐-吐血整理：一份不可多得的架构师图谱！](https://toutiao.io/k/ptp0ru2) 
+- [2022-07-11-推荐-服务端监控架构设计与实践](https://toutiao.io/k/xhwa9mo) 

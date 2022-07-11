@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-11 17:03:53。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-11 17:35:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,7 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-07-11-分布式环境下，不借助任何第三方存储的前提下，是不是必须要自己实现一个“存储”](https://www.v2ex.com/t/865551) 
 - [2022-07-11-腾讯-QQ-与-iOS-16-全新-Lockdown-Mode-不兼容](https://www.v2ex.com/t/865550) 
 - [2022-07-11-Rust-前端被-GCC-接受](https://www.v2ex.com/t/865547) 
 - [2022-07-11-我开发收费程序/插件，用到大公司-API，图标用他们的算侵权吗？](https://www.v2ex.com/t/865544) 
@@ -1973,5 +1974,5 @@
 - [2022-07-11-存储日报-20220711](https://toutiao.io/k/9is1ndg) 
 - [2022-07-11-TLA+入门教程（3）：《虎胆龙威3》经典倒水问题](https://toutiao.io/k/6p4tfok) 
 - [2022-07-11-通过-KubeVela-解决多集群环境下-Helm-Chart-的部署问题](https://toutiao.io/k/lbns9r4) 
-- [2022-07-11-推荐-服务端监控架构设计与实践](https://toutiao.io/k/xhwa9mo) 
 - [2022-07-11-推荐-吐血整理：一份不可多得的架构师图谱！](https://toutiao.io/k/ptp0ru2) 
+- [2022-07-11-推荐-服务端监控架构设计与实践](https://toutiao.io/k/xhwa9mo) 

@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2022-07-11 17:03:53。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-11 17:35:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-07-11-分布式环境下，不借助任何第三方存储的前提下，是不是必须要自己实现一个“存储”](https://www.v2ex.com/t/865551) 
 - [2022-07-11-腾讯-QQ-与-iOS-16-全新-Lockdown-Mode-不兼容](https://www.v2ex.com/t/865550) 
 - [2022-07-11-Rust-前端被-GCC-接受](https://www.v2ex.com/t/865547) 
 - [2022-07-11-用-Rust-写了一个-Dokcer/OCI-打包构建工具](https://www.v2ex.com/t/865546) 

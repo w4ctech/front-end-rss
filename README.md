@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-07-11 09:44:49，:rocket: 更新条数: +2029， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-07-11 10:15:57，:rocket: 更新条数: +2030， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,15 @@
 </summary>
 
 
+- [2022-07-11-微服务架构下-MDM主数据管理和业务表数据有什么最佳实践](https://www.v2ex.com/t/865490) ![](assets/new.png)  
+- [2022-07-11-请教下各位大佬们，如何用-Alfred-实现这个-Git-忽略跟踪工作流](https://www.v2ex.com/t/865489) ![](assets/new.png)  
+- [2022-07-11-看了站内很多不小心把数据库清空或误删数据的](https://www.v2ex.com/t/865488) ![](assets/new.png)  
+- [2022-07-11-怎么看上海的「核酸产业园」？](https://www.v2ex.com/t/865487) ![](assets/new.png)  
+- [2022-07-11-我这个-ppt-为啥不能翻页啊？？](https://www.v2ex.com/t/865486) ![](assets/new.png)  
+- [2022-07-11-前端-multi-repo-项目的改造](https://www.v2ex.com/t/865485) ![](assets/new.png)  
+- [2022-07-11-WeChat-接收不到消息](https://www.v2ex.com/t/865484) ![](assets/new.png)  
+- [2022-07-11-Linux-下动态输出的日志信息应该如何保存？](https://www.v2ex.com/t/865483) ![](assets/new.png)  
+- [2022-07-11-公司解散主动辞退问题](https://www.v2ex.com/t/865482) ![](assets/new.png)  
 - [2022-07-11-有道云笔记新版已不支持导出功能，有永久丢失数据的隐患](https://www.v2ex.com/t/865481) ![](assets/new.png)  
 - [2022-07-11-冲动买了个二奶-NAS-万由-HN-200](https://www.v2ex.com/t/865480) ![](assets/new.png)  
 - [2022-07-11-深圳龙华区人民医院测度数没有问题吧？](https://www.v2ex.com/t/865478) ![](assets/new.png)  
@@ -502,15 +511,6 @@
 - [2022-07-11-坐标-bj-联通换电信-有什么坑吗？](https://www.v2ex.com/t/865469) ![](assets/new.png)  
 - [2022-07-11-移动宽带日常抽风](https://www.v2ex.com/t/865468) ![](assets/new.png)  
 - [2022-07-11-12-代-cpu-做-nas-现在合适吗？](https://www.v2ex.com/t/865467) ![](assets/new.png)  
-- [2022-07-11-nslookup-返回应答不对,但是能访问.](https://www.v2ex.com/t/865466) ![](assets/new.png)  
-- [2022-07-11-南京-citrix虚拟化云计算-TS-美国外企-20-70k-五险一金-24％男性陪产假-180-天在家办公](https://www.v2ex.com/t/865465) ![](assets/new.png)  
-- [2022-07-11-公司数据库数据被我更新成-null-了，救命！](https://www.v2ex.com/t/865464) ![](assets/new.png)  
-- [2022-07-11-如何让-typescript-支持-require-类型检查](https://www.v2ex.com/t/865463) ![](assets/new.png)  
-- [2022-07-11-xdm，接了个外包，对面是公司，要求签合同开发票咋整？我是个人开发的阿，没有公司](https://www.v2ex.com/t/865462) ![](assets/new.png)  
-- [2022-07-11-问下前端大佬们-京东到家的分类侧边栏如何实现](https://www.v2ex.com/t/865461) ![](assets/new.png)  
-- [2022-07-11-南通-塔扬信息科技招聘-Golang-工程师](https://www.v2ex.com/t/865460) ![](assets/new.png)  
-- [2022-07-11-有没有可能购买类似“知识产权”等的非实体资产投资？](https://www.v2ex.com/t/865459) ![](assets/new.png)  
-- [2022-07-11-v-友们-今年毕业的就业形势如何？](https://www.v2ex.com/t/865458) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-11 09:44:49。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-11 10:15:57。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,14 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-07-11-微服务架构下-MDM主数据管理和业务表数据有什么最佳实践](https://www.v2ex.com/t/865490) 
+- [2022-07-11-看了站内很多不小心把数据库清空或误删数据的](https://www.v2ex.com/t/865488) 
+- [2022-07-11-怎么看上海的「核酸产业园」？](https://www.v2ex.com/t/865487) 
+- [2022-07-11-我这个-ppt-为啥不能翻页啊？？](https://www.v2ex.com/t/865486) 
+- [2022-07-11-前端-multi-repo-项目的改造](https://www.v2ex.com/t/865485) 
+- [2022-07-11-WeChat-接收不到消息](https://www.v2ex.com/t/865484) 
+- [2022-07-11-Linux-下动态输出的日志信息应该如何保存？](https://www.v2ex.com/t/865483) 
+- [2022-07-11-公司解散主动辞退问题](https://www.v2ex.com/t/865482) 
 - [2022-07-11-有道云笔记新版已不支持导出功能，有永久丢失数据的隐患](https://www.v2ex.com/t/865481) 
 - [2022-07-11-冲动买了个二奶-NAS-万由-HN-200](https://www.v2ex.com/t/865480) 
 - [2022-07-11-深圳龙华区人民医院测度数没有问题吧？](https://www.v2ex.com/t/865478) 
@@ -1936,12 +1944,6 @@
 - [2022-07-11-有感于最近的裁员和仲裁贴，如果有这种法律服务，你们愿意付费吗？](https://www.v2ex.com/t/865445) 
 - [2022-07-11-Mac-外接-27inch-4k-显示器，你们分辨率缩放到多少？](https://www.v2ex.com/t/865443) 
 - [2022-07-11-抖音出-Mac-客户端了？](https://www.v2ex.com/t/865442) 
-- [2022-07-11-我可以让公司再和我签一个合同吗？](https://www.v2ex.com/t/865439) 
-- [2022-07-11-跑步受限，髌腱炎，难受](https://www.v2ex.com/t/865438) 
-- [2022-07-11-怎么买金条划算？](https://www.v2ex.com/t/865437) 
-- [2022-07-11-能不能让设备同时获取到-2-个不同网段的-IP-地址？](https://www.v2ex.com/t/865436) 
-- [2022-07-11-雷电盒子选什么样的好？](https://www.v2ex.com/t/865434) 
-- [2022-07-11-flume-用-morphline-interceptor-报错](https://www.v2ex.com/t/865433) 
 - [2022-07-11-遗留系统的服务拆分-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15215&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fservice-splitting-legacy-systems%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-11-故事点-vs.-人天-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15213&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fagile-estimation-story-points-man-day%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-11-如何设计数据可视化平台-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15212&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-design-data-visualization-platform%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

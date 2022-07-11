@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-07-11 08:18:35。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-11 08:48:01。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -72,6 +72,7 @@
 
 
 
+- [【V2EX】如何让-typescript-支持-require-类型检查](https://www.v2ex.com/t/865463)
 - [【V2EX】为什么说-Typescript-是必学语言以及如何学会-TS-全栈开发](https://www.v2ex.com/t/865419)
 - [......【查看更多】......](./details/tags/typescript.md)
 
@@ -282,7 +283,6 @@
 - [【武汉肺炎防疫全纪录(财新网)】大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html)
 - [【张鑫旭-鑫空间-鑫生活】基于文字的URL锚点定位与::target-text样式设置](https://www.zhangxinxu.com/wordpress/2022/06/url-anchor-target-text/)
 - [【V2EX】创业公司如何做好产品业务的安全合规？](https://www.v2ex.com/t/865447)
-- [【V2EX】Web3-远程-DeBank/Rabby-招聘-Web3-数据/安全/后端/前端/SRE-$5K-$13K](https://www.v2ex.com/t/865414)
 - [【开发者头条】声网开发者创业讲堂丨第-4-期：创业团队如何保障产品业务的安全合规？](https://toutiao.io/k/lgn6aun)
 - [【开发者头条】设计你的安全架构OKR](https://toutiao.io/k/dsy1omh)
 - [【开发者头条】推荐-月活-12.8-亿的微信，海量请求下是如何防止崩溃的？](https://toutiao.io/k/fflgnsh)
@@ -303,7 +303,6 @@
 
 
 - [【V2EX】vscode-的-neovim-插件怎么做到-hover?](https://www.v2ex.com/t/865430)
-- [【V2EX】北京/远程/兼职/实习⚡️出海-AR-社交-App，超精英团队招产品经理、全栈工程师、海外运营等人才](https://www.v2ex.com/t/865412)
 - [【开发者头条】一文读懂遗传算法工作原理（Python实现）](https://toutiao.io/k/s0vxu7o)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 
@@ -354,6 +353,7 @@
 
 
 
+- [【V2EX】南通-塔扬信息科技招聘-Golang-工程师](https://www.v2ex.com/t/865460)
 - [【V2EX】北京/武汉-招聘前端-leader-40k-70k](https://www.v2ex.com/t/865454)
 - [......【查看更多】......](./details/tags/job-interview.md)
 

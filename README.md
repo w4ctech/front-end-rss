@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-07-11 10:15:57，:rocket: 更新条数: +2030， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-07-11 10:44:35，:rocket: 更新条数: +2029， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-07-11-有人知道电子合同需要接入什么认证才有法律效益嘛](https://www.v2ex.com/t/865493) ![](assets/new.png)  
 - [2022-07-11-微服务架构下-MDM主数据管理和业务表数据有什么最佳实践](https://www.v2ex.com/t/865490) ![](assets/new.png)  
 - [2022-07-11-请教下各位大佬们，如何用-Alfred-实现这个-Git-忽略跟踪工作流](https://www.v2ex.com/t/865489) ![](assets/new.png)  
 - [2022-07-11-看了站内很多不小心把数据库清空或误删数据的](https://www.v2ex.com/t/865488) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-07-11-请教如何打-log，性能最好](https://www.v2ex.com/t/865470) ![](assets/new.png)  
 - [2022-07-11-坐标-bj-联通换电信-有什么坑吗？](https://www.v2ex.com/t/865469) ![](assets/new.png)  
 - [2022-07-11-移动宽带日常抽风](https://www.v2ex.com/t/865468) ![](assets/new.png)  
-- [2022-07-11-12-代-cpu-做-nas-现在合适吗？](https://www.v2ex.com/t/865467) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -560,16 +560,16 @@
 - [2022-07-11-聊聊消息中心的设计与实现逻辑](https://toutiao.io/k/skcgh32) ![](assets/new.png)  
 - [2022-07-11-Three.js系列:-在元宇宙看电影，享受-VR-视觉盛宴](https://toutiao.io/k/gsrdl2c) ![](assets/new.png)  
 - [2022-07-11-设计你的安全架构OKR](https://toutiao.io/k/dsy1omh) ![](assets/new.png)  
-- [2022-07-11-深刻理解-|-以通信方式共享内存,不要以共享内存方式通信](https://toutiao.io/k/2tydb4f) ![](assets/new.png)  
 - [2022-07-11-阿里前端智能化技术探索和未来思考](https://toutiao.io/k/x92aer6) ![](assets/new.png)  
+- [2022-07-11-深刻理解-|-以通信方式共享内存,不要以共享内存方式通信](https://toutiao.io/k/2tydb4f) ![](assets/new.png)  
 - [2022-07-11-Git进阶系列-|-8.-用Reflog恢复丢失的提交](https://toutiao.io/k/ervoklc) ![](assets/new.png)  
 - [2022-07-11-4种-Redis-集群方案及优缺点对比](https://toutiao.io/k/ldrnen2) ![](assets/new.png)  
 - [2022-07-11-一文读懂遗传算法工作原理（Python实现）](https://toutiao.io/k/s0vxu7o) ![](assets/new.png)  
 - [2022-07-11-姜伟华：阿里建设一站式实时数仓的经验分享](https://toutiao.io/k/onskrlv) ![](assets/new.png)  
 - [2022-07-11-分布式锁&kafka事务提交等编码技巧](https://toutiao.io/k/b55bk7t) ![](assets/new.png)  
+- [2022-07-11-电商商品系统的演进分析](https://toutiao.io/k/afi492u) ![](assets/new.png)  
 - [2022-07-11-某保险企业业务容器化实践](https://toutiao.io/k/8qj2tbr) ![](assets/new.png)  
 - [2022-07-11-Kotlin协程-Coroutines的基本使用](https://toutiao.io/k/yaaumg3) ![](assets/new.png)  
-- [2022-07-11-电商商品系统的演进分析](https://toutiao.io/k/afi492u) ![](assets/new.png)  
 - [2022-07-11-TLA+入门教程（3）：《虎胆龙威3》经典倒水问题](https://toutiao.io/k/6p4tfok) ![](assets/new.png)  
 - [2022-07-11-存储日报-20220711](https://toutiao.io/k/9is1ndg) ![](assets/new.png)  
 - [2022-07-11-通过-KubeVela-解决多集群环境下-Helm-Chart-的部署问题](https://toutiao.io/k/lbns9r4) ![](assets/new.png)  

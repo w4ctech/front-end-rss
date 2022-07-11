@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-11 10:15:57。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-07-11 10:44:35。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,7 @@
 </summary>
 
 
+- [【V2EX】2022-07-11-有人知道电子合同需要接入什么认证才有法律效益嘛](https://www.v2ex.com/t/865493) 
 - [【V2EX】2022-07-11-微服务架构下-MDM主数据管理和业务表数据有什么最佳实践](https://www.v2ex.com/t/865490) 
 - [【V2EX】2022-07-11-请教下各位大佬们，如何用-Alfred-实现这个-Git-忽略跟踪工作流](https://www.v2ex.com/t/865489) 
 - [【V2EX】2022-07-11-看了站内很多不小心把数据库清空或误删数据的](https://www.v2ex.com/t/865488) 
@@ -107,8 +108,6 @@
 - [【V2EX】2022-07-11-创业公司如何做好产品业务的安全合规？](https://www.v2ex.com/t/865447) 
 - [【V2EX】2022-07-11-腾讯云服务器存在疑似挖矿行为](https://www.v2ex.com/t/865446) 
 - [【V2EX】2022-07-11-有感于最近的裁员和仲裁贴，如果有这种法律服务，你们愿意付费吗？](https://www.v2ex.com/t/865445) 
-- [【V2EX】2022-07-11-Mac-外接-27inch-4k-显示器，你们分辨率缩放到多少？](https://www.v2ex.com/t/865443) 
-- [【V2EX】2022-07-11-抖音出-Mac-客户端了？](https://www.v2ex.com/t/865442) 
 - [【技术头条】2022-07-11-遗留系统的服务拆分-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15215&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fservice-splitting-legacy-systems%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-11-Thoughtworks-全球CTO：按需求构建架构，过度工程只会“劳民伤财”-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15214&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftechnology-radar-rebecca-interview%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-11-故事点-vs.-人天-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15213&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fagile-estimation-story-points-man-day%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -136,16 +135,16 @@
 - [【开发者头条】2022-07-11-聊聊消息中心的设计与实现逻辑](https://toutiao.io/k/skcgh32) 
 - [【开发者头条】2022-07-11-Three.js系列:-在元宇宙看电影，享受-VR-视觉盛宴](https://toutiao.io/k/gsrdl2c) 
 - [【开发者头条】2022-07-11-设计你的安全架构OKR](https://toutiao.io/k/dsy1omh) 
-- [【开发者头条】2022-07-11-深刻理解-|-以通信方式共享内存,不要以共享内存方式通信](https://toutiao.io/k/2tydb4f) 
 - [【开发者头条】2022-07-11-阿里前端智能化技术探索和未来思考](https://toutiao.io/k/x92aer6) 
+- [【开发者头条】2022-07-11-深刻理解-|-以通信方式共享内存,不要以共享内存方式通信](https://toutiao.io/k/2tydb4f) 
 - [【开发者头条】2022-07-11-Git进阶系列-|-8.-用Reflog恢复丢失的提交](https://toutiao.io/k/ervoklc) 
 - [【开发者头条】2022-07-11-4种-Redis-集群方案及优缺点对比](https://toutiao.io/k/ldrnen2) 
 - [【开发者头条】2022-07-11-一文读懂遗传算法工作原理（Python实现）](https://toutiao.io/k/s0vxu7o) 
 - [【开发者头条】2022-07-11-姜伟华：阿里建设一站式实时数仓的经验分享](https://toutiao.io/k/onskrlv) 
 - [【开发者头条】2022-07-11-分布式锁&kafka事务提交等编码技巧](https://toutiao.io/k/b55bk7t) 
+- [【开发者头条】2022-07-11-电商商品系统的演进分析](https://toutiao.io/k/afi492u) 
 - [【开发者头条】2022-07-11-某保险企业业务容器化实践](https://toutiao.io/k/8qj2tbr) 
 - [【开发者头条】2022-07-11-Kotlin协程-Coroutines的基本使用](https://toutiao.io/k/yaaumg3) 
-- [【开发者头条】2022-07-11-电商商品系统的演进分析](https://toutiao.io/k/afi492u) 
 - [【开发者头条】2022-07-11-TLA+入门教程（3）：《虎胆龙威3》经典倒水问题](https://toutiao.io/k/6p4tfok) 
 - [【开发者头条】2022-07-11-存储日报-20220711](https://toutiao.io/k/9is1ndg) 
 - [【开发者头条】2022-07-11-通过-KubeVela-解决多集群环境下-Helm-Chart-的部署问题](https://toutiao.io/k/lbns9r4) 

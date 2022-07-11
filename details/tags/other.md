@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-11 14:05:17。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-11 14:23:51。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,8 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-07-11-昨天刚注册的，今天我的发帖按钮不见了是为啥？可以正常回复](https://www.v2ex.com/t/865532) 
+- [2022-07-11-请问大佬们一个数据迁移问题](https://www.v2ex.com/t/865531) 
 - [2022-07-11-怎么才能读懂康德](https://www.v2ex.com/t/865530) 
 - [2022-07-11-如何在双系统（或更多）的带-T2-的-Mac-上面重置系统？](https://www.v2ex.com/t/865529) 
 - [2022-07-11-网站功能建议-正文图片无法点击放大，不方便浏览细节](https://www.v2ex.com/t/865527) 
@@ -1941,9 +1943,6 @@
 - [2022-07-11-我这个-ppt-为啥不能翻页啊？？](https://www.v2ex.com/t/865486) 
 - [2022-07-11-前端-multi-repo-项目的改造](https://www.v2ex.com/t/865485) 
 - [2022-07-11-WeChat-接收不到消息](https://www.v2ex.com/t/865484) 
-- [2022-07-11-Linux-下动态输出的日志信息应该如何保存？](https://www.v2ex.com/t/865483) 
-- [2022-07-11-公司解散主动辞退问题](https://www.v2ex.com/t/865482) 
-- [2022-07-11-有道云笔记新版已不支持导出功能，有永久丢失数据的隐患](https://www.v2ex.com/t/865481) 
 - [2022-07-11-遗留系统的服务拆分-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15215&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fservice-splitting-legacy-systems%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-11-故事点-vs.-人天-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15213&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fagile-estimation-story-points-man-day%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-11-如何设计数据可视化平台-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15212&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-design-data-visualization-platform%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1974,5 +1973,5 @@
 - [2022-07-11-TLA+入门教程（3）：《虎胆龙威3》经典倒水问题](https://toutiao.io/k/6p4tfok) 
 - [2022-07-11-存储日报-20220711](https://toutiao.io/k/9is1ndg) 
 - [2022-07-11-通过-KubeVela-解决多集群环境下-Helm-Chart-的部署问题](https://toutiao.io/k/lbns9r4) 
-- [2022-07-11-推荐-服务端监控架构设计与实践](https://toutiao.io/k/xhwa9mo) 
 - [2022-07-11-推荐-吐血整理：一份不可多得的架构师图谱！](https://toutiao.io/k/ptp0ru2) 
+- [2022-07-11-推荐-服务端监控架构设计与实践](https://toutiao.io/k/xhwa9mo) 

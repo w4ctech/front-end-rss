@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-11 11:38:14。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-07-11 12:26:47。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,15 @@
 </summary>
 
 
+- [【V2EX】2022-07-11-成都美团-🔥HOT！急！内推资深前端｜-Java-｜数据开发](https://www.v2ex.com/t/865515) 
+- [【V2EX】2022-07-11-为什么现实的某些瞬间是梦里出现过的，是多维空间存在吗?](https://www.v2ex.com/t/865514) 
+- [【V2EX】2022-07-11-有没有觉得罗老师最近在拿各种热门话题为新公司蹭热度](https://www.v2ex.com/t/865513) 
+- [【V2EX】2022-07-11-有一个-Redis-通知的问题想问一下大家](https://www.v2ex.com/t/865511) 
+- [【V2EX】2022-07-11-微信聊天记录导出，这个需求大吗？](https://www.v2ex.com/t/865510) 
+- [【V2EX】2022-07-11-分享个浏览器插件，网页上的八门神器/金山游侠~](https://www.v2ex.com/t/865509) 
+- [【V2EX】2022-07-11-容器化环境中有什么办法可以把日志文件同步到其他存储介质上？](https://www.v2ex.com/t/865507) 
+- [【V2EX】2022-07-11-ios16-b3-搭配手表无法用手表解锁手机](https://www.v2ex.com/t/865506) 
+- [【V2EX】2022-07-11-码农想入手个游戏主机-PS-还是-XBOX](https://www.v2ex.com/t/865505) 
 - [【V2EX】2022-07-11-开源项目推广-ZFile-4.0-发布，在线网盘，支持文件上传，删除，重命名等操作，全新-UI-和功能！](https://www.v2ex.com/t/865503) 
 - [【V2EX】2022-07-11-Mac-和-iPad-iMessage-一直无法同步](https://www.v2ex.com/t/865500) 
 - [【V2EX】2022-07-11-直接自定义-cos-域名进行访问，还是通过-CDN-域名进行访问？](https://www.v2ex.com/t/865499) 
@@ -96,17 +105,6 @@
 - [【V2EX】2022-07-11-移动宽带日常抽风](https://www.v2ex.com/t/865468) 
 - [【V2EX】2022-07-11-12-代-cpu-做-nas-现在合适吗？](https://www.v2ex.com/t/865467) 
 - [【V2EX】2022-07-11-nslookup-返回应答不对,但是能访问.](https://www.v2ex.com/t/865466) 
-- [【V2EX】2022-07-11-南京-citrix虚拟化云计算-TS-美国外企-20-70k-五险一金-24％男性陪产假-180-天在家办公](https://www.v2ex.com/t/865465) 
-- [【V2EX】2022-07-11-公司数据库数据被我更新成-null-了，救命！](https://www.v2ex.com/t/865464) 
-- [【V2EX】2022-07-11-如何让-typescript-支持-require-类型检查](https://www.v2ex.com/t/865463) 
-- [【V2EX】2022-07-11-xdm，接了个外包，对面是公司，要求签合同开发票咋整？我是个人开发的阿，没有公司](https://www.v2ex.com/t/865462) 
-- [【V2EX】2022-07-11-问下前端大佬们-京东到家的分类侧边栏如何实现](https://www.v2ex.com/t/865461) 
-- [【V2EX】2022-07-11-南通-塔扬信息科技招聘-Golang-工程师](https://www.v2ex.com/t/865460) 
-- [【V2EX】2022-07-11-有没有可能购买类似“知识产权”等的非实体资产投资？](https://www.v2ex.com/t/865459) 
-- [【V2EX】2022-07-11-v-友们-今年毕业的就业形势如何？](https://www.v2ex.com/t/865458) 
-- [【V2EX】2022-07-11-新品发布：支持中文的-AI-生成绘画作品工具](https://www.v2ex.com/t/865457) 
-- [【V2EX】2022-07-11-各位大佬请教一下，-win10-重置删除的文件可以恢复吗](https://www.v2ex.com/t/865455) 
-- [【V2EX】2022-07-11-北京/武汉-招聘前端-leader-40k-70k](https://www.v2ex.com/t/865454) 
 - [【技术头条】2022-07-11-遗留系统的服务拆分-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15215&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fservice-splitting-legacy-systems%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-11-Thoughtworks-全球CTO：按需求构建架构，过度工程只会“劳民伤财”-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15214&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftechnology-radar-rebecca-interview%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-11-故事点-vs.-人天-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15213&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fagile-estimation-story-points-man-day%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -138,8 +136,8 @@
 - [【开发者头条】2022-07-11-深刻理解-|-以通信方式共享内存,不要以共享内存方式通信](https://toutiao.io/k/2tydb4f) 
 - [【开发者头条】2022-07-11-Git进阶系列-|-8.-用Reflog恢复丢失的提交](https://toutiao.io/k/ervoklc) 
 - [【开发者头条】2022-07-11-4种-Redis-集群方案及优缺点对比](https://toutiao.io/k/ldrnen2) 
-- [【开发者头条】2022-07-11-一文读懂遗传算法工作原理（Python实现）](https://toutiao.io/k/s0vxu7o) 
 - [【开发者头条】2022-07-11-电商商品系统的演进分析](https://toutiao.io/k/afi492u) 
+- [【开发者头条】2022-07-11-一文读懂遗传算法工作原理（Python实现）](https://toutiao.io/k/s0vxu7o) 
 - [【开发者头条】2022-07-11-姜伟华：阿里建设一站式实时数仓的经验分享](https://toutiao.io/k/onskrlv) 
 - [【开发者头条】2022-07-11-分布式锁&kafka事务提交等编码技巧](https://toutiao.io/k/b55bk7t) 
 - [【开发者头条】2022-07-11-某保险企业业务容器化实践](https://toutiao.io/k/8qj2tbr) 
@@ -147,9 +145,9 @@
 - [【开发者头条】2022-07-11-TLA+入门教程（3）：《虎胆龙威3》经典倒水问题](https://toutiao.io/k/6p4tfok) 
 - [【开发者头条】2022-07-11-存储日报-20220711](https://toutiao.io/k/9is1ndg) 
 - [【开发者头条】2022-07-11-通过-KubeVela-解决多集群环境下-Helm-Chart-的部署问题](https://toutiao.io/k/lbns9r4) 
+- [【开发者头条】2022-07-11-推荐-吐血整理：一份不可多得的架构师图谱！](https://toutiao.io/k/ptp0ru2) 
 - [【开发者头条】2022-07-11-推荐-服务端监控架构设计与实践](https://toutiao.io/k/xhwa9mo) 
 - [【开发者头条】2022-07-11-推荐-月活-12.8-亿的微信，海量请求下是如何防止崩溃的？](https://toutiao.io/k/fflgnsh) 
-- [【开发者头条】2022-07-11-推荐-吐血整理：一份不可多得的架构师图谱！](https://toutiao.io/k/ptp0ru2) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

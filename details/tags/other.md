@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-12 15:49:52。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-12 16:19:06。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,9 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-07-12-一文简单明了说明为什么-float64-float32-会有精确缺失的问题](https://www.v2ex.com/t/865785) 
+- [2022-07-12-准备换个三星-Galaxy-S22-Ultra（从华为），需要什么软件迁移数据吗？](https://www.v2ex.com/t/865784) 
+- [2022-07-12-突然来了一堆微信支付的验证码，是密码泄露了吗？](https://www.v2ex.com/t/865780) 
 - [2022-07-12-直通卡连接的硬盘，-Esxi-中可否单独用-RDM-方式直通](https://www.v2ex.com/t/865777) 
 - [2022-07-12-没有类似-微信文件传输助手的工具](https://www.v2ex.com/t/865776) 
 - [2022-07-12-一个-Pomodoro「专注小番茄」Web-App](https://www.v2ex.com/t/865775) 
@@ -1933,11 +1936,6 @@
 - [2022-07-12-官网又放出了一大波-MBP-翻新机](https://www.v2ex.com/t/865740) 
 - [2022-07-12-6-年-Java-广州还有要的吗](https://www.v2ex.com/t/865739) 
 - [2022-07-12-VirMach-跑路了吗？](https://www.v2ex.com/t/865737) 
-- [2022-07-12-想问问外边有什么地方可以用信用卡白嫖主机](https://www.v2ex.com/t/865736) 
-- [2022-07-12-写在-多卡宝-马上要收费之后，如何打理多张-Sim-卡？](https://www.v2ex.com/t/865734) 
-- [2022-07-12-macOS-任意窗口置顶-BetterTouchTool-新功能](https://www.v2ex.com/t/865732) 
-- [2022-07-12-深圳前端-本科-求职（求内推）](https://www.v2ex.com/t/865731) 
-- [2022-07-12-如何达到外企工作英文水平？](https://www.v2ex.com/t/865730) 
 - [2022-07-12-遗留系统的服务拆分-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15215&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fservice-splitting-legacy-systems%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-12-故事点-vs.-人天-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15213&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fagile-estimation-story-points-man-day%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-12-如何设计数据可视化平台-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15212&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-design-data-visualization-platform%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1968,5 +1966,5 @@
 - [2022-07-12-如何优雅的写-Controller-层代码？](https://toutiao.io/k/s5a3nnh) 
 - [2022-07-12-对小绵羊的轰炸APP逆向分析](https://toutiao.io/k/2sb914v) 
 - [2022-07-12-Linux-下查找文件的最优选择？Find-命令的7种用法，太全了！](https://toutiao.io/k/40rssda) 
-- [2022-07-12-推荐-服务端监控架构设计与实践](https://toutiao.io/k/xhwa9mo) 
 - [2022-07-12-推荐-吐血整理：一份不可多得的架构师图谱！](https://toutiao.io/k/ptp0ru2) 
+- [2022-07-12-推荐-服务端监控架构设计与实践](https://toutiao.io/k/xhwa9mo) 

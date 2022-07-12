@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-07-12 15:49:52，:rocket: 更新条数: +2027， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-07-12 16:19:06，:rocket: 更新条数: +2025， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,10 @@
 </summary>
 
 
+- [2022-07-12-一文简单明了说明为什么-float64-float32-会有精确缺失的问题](https://www.v2ex.com/t/865785) ![](assets/new.png)  
+- [2022-07-12-准备换个三星-Galaxy-S22-Ultra（从华为），需要什么软件迁移数据吗？](https://www.v2ex.com/t/865784) ![](assets/new.png)  
+- [2022-07-12-telegram-点击图片或视频就全屏有办法改嘛？](https://www.v2ex.com/t/865783) ![](assets/new.png)  
+- [2022-07-12-突然来了一堆微信支付的验证码，是密码泄露了吗？](https://www.v2ex.com/t/865780) ![](assets/new.png)  
 - [2022-07-12-非引战，谈谈目前-react、vue3-选型以及-flutter-的未来](https://www.v2ex.com/t/865778) ![](assets/new.png)  
 - [2022-07-12-直通卡连接的硬盘，-Esxi-中可否单独用-RDM-方式直通](https://www.v2ex.com/t/865777) ![](assets/new.png)  
 - [2022-07-12-没有类似-微信文件传输助手的工具](https://www.v2ex.com/t/865776) ![](assets/new.png)  
@@ -507,10 +511,6 @@
 - [2022-07-12-向各位请教一下，迁移已经停止支援的-Windows（比如-Windows-Server-2008）还能否获得授权？](https://www.v2ex.com/t/865762) ![](assets/new.png)  
 - [2022-07-12-公司要开发一款类似宝塔的软件,大家提点意见](https://www.v2ex.com/t/865761) ![](assets/new.png)  
 - [2022-07-12-问个问题，为什么我的-chrome-浏览器登录不了-v2ex?](https://www.v2ex.com/t/865758) ![](assets/new.png)  
-- [2022-07-12-上海移动，改桥接后无法连接-dospod-和-alidns-的-doh](https://www.v2ex.com/t/865756) ![](assets/new.png)  
-- [2022-07-12-全栈react+node.js/-PHP-开发者希望能找一份合适的远程工作](https://www.v2ex.com/t/865755) ![](assets/new.png)  
-- [2022-07-12-怎么通过-node-脚本打开一个本地应用程序](https://www.v2ex.com/t/865754) ![](assets/new.png)  
-- [2022-07-12-字节跳动招聘-前端开发工程师-Node.js-方向](https://www.v2ex.com/t/865753) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -571,8 +571,8 @@
 - [2022-07-12-如何优雅的写-Controller-层代码？](https://toutiao.io/k/s5a3nnh) ![](assets/new.png)  
 - [2022-07-12-对小绵羊的轰炸APP逆向分析](https://toutiao.io/k/2sb914v) ![](assets/new.png)  
 - [2022-07-12-Linux-下查找文件的最优选择？Find-命令的7种用法，太全了！](https://toutiao.io/k/40rssda) ![](assets/new.png)  
+- [2022-07-12-推荐-吐血整理：一份不可多得的架构师图谱！](https://toutiao.io/k/ptp0ru2) ![](assets/new.png)  
 - [2022-07-12-推荐-服务端监控架构设计与实践](https://toutiao.io/k/xhwa9mo) ![](assets/new.png)  
-- [2022-07-12-推荐-月活-12.8-亿的微信，海量请求下是如何防止崩溃的？](https://toutiao.io/k/fflgnsh) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

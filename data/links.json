@@ -9953,6 +9953,16 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "iOS14.5 允许禁止访问设备识别符,美团是怎么判断是这个设备之前是否用过的?",
+        "link": "https://www.v2ex.com/t/865797",
+        "date": "2022-07-12"
+      },
+      {
+        "title": "为什么说要禁止微软自动设备驱动,在 Surface Pro 7 中遇到的坑",
+        "link": "https://www.v2ex.com/t/865796",
+        "date": "2022-07-12"
+      },
+      {
         "title": "纯数字和小写字母会是什么加密",
         "link": "https://www.v2ex.com/t/865795",
         "date": "2022-07-12"
@@ -10115,16 +10125,6 @@
       {
         "title": "[上海/外企/WLB] Microfocus 内推,大量岗位,长期有效",
         "link": "https://www.v2ex.com/t/865748",
-        "date": "2022-07-12"
-      },
-      {
-        "title": "SwiftUI 搞出一个超简洁的习惯养成+待办的 App（CoreData + iCloud 自动同步数据）｜附永久码",
-        "link": "https://www.v2ex.com/t/865747",
-        "date": "2022-07-12"
-      },
-      {
-        "title": "中高级机器学习算法工程师《居家办公》",
-        "link": "https://www.v2ex.com/t/865746",
         "date": "2022-07-12"
       }
     ]
@@ -10332,11 +10332,6 @@
         "date": "2022-07-12"
       },
       {
-        "title": "[推荐] 月活 12.8 亿的微信，海量请求下是如何防止崩溃的？",
-        "link": "https://toutiao.io/k/fflgnsh",
-        "date": "2022-07-12"
-      },
-      {
         "title": "[推荐] 吐血整理：一份不可多得的架构师图谱！",
         "link": "https://toutiao.io/k/ptp0ru2",
         "date": "2022-07-12"
@@ -10344,6 +10339,11 @@
       {
         "title": "[推荐] 服务端监控架构设计与实践",
         "link": "https://toutiao.io/k/xhwa9mo",
+        "date": "2022-07-12"
+      },
+      {
+        "title": "[推荐] 月活 12.8 亿的微信，海量请求下是如何防止崩溃的？",
+        "link": "https://toutiao.io/k/fflgnsh",
         "date": "2022-07-12"
       }
     ]

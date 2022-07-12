@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-12 20:42:22。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-07-12 21:12:42。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,8 @@
 </summary>
 
 
+- [【V2EX】2022-07-12-iOS14.5-允许禁止访问设备识别符,美团是怎么判断是这个设备之前是否用过的?](https://www.v2ex.com/t/865797) 
+- [【V2EX】2022-07-12-为什么说要禁止微软自动设备驱动,在-Surface-Pro-7-中遇到的坑](https://www.v2ex.com/t/865796) 
 - [【V2EX】2022-07-12-纯数字和小写字母会是什么加密](https://www.v2ex.com/t/865795) 
 - [【V2EX】2022-07-12-关于关系型数据库第二范式的问题:-列之间计算出来的数据,-算违反第二范式么?](https://www.v2ex.com/t/865794) 
 - [【V2EX】2022-07-12-之前有两年前端工作经验，面试算法工程师会扣分吗？](https://www.v2ex.com/t/865793) 
@@ -101,8 +103,6 @@
 - [【V2EX】2022-07-12-原来注销并不意味着消失，注销了别人也能访问到你的主页。](https://www.v2ex.com/t/865752) 
 - [【V2EX】2022-07-12-如何防止因为自己技术菜又爱钻牛角尖产生的失落感？](https://www.v2ex.com/t/865751) 
 - [【V2EX】2022-07-12-上海/外企/WLB-Microfocus-内推,大量岗位,长期有效](https://www.v2ex.com/t/865748) 
-- [【V2EX】2022-07-12-SwiftUI-搞出一个超简洁的习惯养成+待办的-App（CoreData-+-iCloud-自动同步数据）｜附永久码](https://www.v2ex.com/t/865747) 
-- [【V2EX】2022-07-12-中高级机器学习算法工程师《居家办公》](https://www.v2ex.com/t/865746) 
 - [【技术头条】2022-07-12-遗留系统的服务拆分-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15215&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fservice-splitting-legacy-systems%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-12-Thoughtworks-全球CTO：按需求构建架构，过度工程只会“劳民伤财”-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15214&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftechnology-radar-rebecca-interview%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-12-故事点-vs.-人天-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15213&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fagile-estimation-story-points-man-day%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -141,9 +141,9 @@
 - [【开发者头条】2022-07-12-如何优雅的写-Controller-层代码？](https://toutiao.io/k/s5a3nnh) 
 - [【开发者头条】2022-07-12-对小绵羊的轰炸APP逆向分析](https://toutiao.io/k/2sb914v) 
 - [【开发者头条】2022-07-12-Linux-下查找文件的最优选择？Find-命令的7种用法，太全了！](https://toutiao.io/k/40rssda) 
-- [【开发者头条】2022-07-12-推荐-月活-12.8-亿的微信，海量请求下是如何防止崩溃的？](https://toutiao.io/k/fflgnsh) 
 - [【开发者头条】2022-07-12-推荐-吐血整理：一份不可多得的架构师图谱！](https://toutiao.io/k/ptp0ru2) 
 - [【开发者头条】2022-07-12-推荐-服务端监控架构设计与实践](https://toutiao.io/k/xhwa9mo) 
+- [【开发者头条】2022-07-12-推荐-月活-12.8-亿的微信，海量请求下是如何防止崩溃的？](https://toutiao.io/k/fflgnsh) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

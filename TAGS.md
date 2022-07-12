@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-07-12 20:42:22。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-12 21:12:42。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -306,7 +306,6 @@
 
 
 - [【V2EX】之前有两年前端工作经验，面试算法工程师会扣分吗？](https://www.v2ex.com/t/865793)
-- [【V2EX】中高级机器学习算法工程师《居家办公》](https://www.v2ex.com/t/865746)
 - [【开发者头条】基于LightGBM算法实现数据挖掘！](https://toutiao.io/k/e97oskp)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 

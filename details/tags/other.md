@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-12 20:42:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-12 21:12:42。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,8 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-07-12-iOS14.5-允许禁止访问设备识别符,美团是怎么判断是这个设备之前是否用过的?](https://www.v2ex.com/t/865797) 
+- [2022-07-12-为什么说要禁止微软自动设备驱动,在-Surface-Pro-7-中遇到的坑](https://www.v2ex.com/t/865796) 
 - [2022-07-12-纯数字和小写字母会是什么加密](https://www.v2ex.com/t/865795) 
 - [2022-07-12-关于关系型数据库第二范式的问题:-列之间计算出来的数据,-算违反第二范式么?](https://www.v2ex.com/t/865794) 
 - [2022-07-12-多个-AppleId-一起使用，批量更新-App-的时候弹出输入密码，怎么知道是哪个呢？](https://www.v2ex.com/t/865788) 
@@ -1934,7 +1936,6 @@
 - [2022-07-12-原来注销并不意味着消失，注销了别人也能访问到你的主页。](https://www.v2ex.com/t/865752) 
 - [2022-07-12-如何防止因为自己技术菜又爱钻牛角尖产生的失落感？](https://www.v2ex.com/t/865751) 
 - [2022-07-12-上海/外企/WLB-Microfocus-内推,大量岗位,长期有效](https://www.v2ex.com/t/865748) 
-- [2022-07-12-SwiftUI-搞出一个超简洁的习惯养成+待办的-App（CoreData-+-iCloud-自动同步数据）｜附永久码](https://www.v2ex.com/t/865747) 
 - [2022-07-12-遗留系统的服务拆分-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15215&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fservice-splitting-legacy-systems%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-12-故事点-vs.-人天-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15213&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fagile-estimation-story-points-man-day%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-12-如何设计数据可视化平台-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15212&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-design-data-visualization-platform%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-12 10:16:30。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-12 10:43:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,8 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-07-12-想问问外边有什么地方可以用信用卡白嫖主机](https://www.v2ex.com/t/865736) 
+- [2022-07-12-写在-多卡宝-马上要收费之后，如何打理多张-Sim-卡？](https://www.v2ex.com/t/865734) 
 - [2022-07-12-macOS-任意窗口置顶-BetterTouchTool-新功能](https://www.v2ex.com/t/865732) 
 - [2022-07-12-深圳前端-本科-求职（求内推）](https://www.v2ex.com/t/865731) 
 - [2022-07-12-如何达到外企工作英文水平？](https://www.v2ex.com/t/865730) 

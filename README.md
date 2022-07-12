@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-07-12 09:18:05，:rocket: 更新条数: +2028， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-07-12 09:40:19，:rocket: 更新条数: +2029， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,9 @@
 </summary>
 
 
+- [2022-07-12-请求下各位怎么看书的](https://www.v2ex.com/t/865727) ![](assets/new.png)  
+- [2022-07-12-磁盘空间不足的情况下，-10-亿级数据库该如何去重？](https://www.v2ex.com/t/865726) ![](assets/new.png)  
+- [2022-07-12-最近欧元大跌，刚刚看到-1-欧元==1-美元，有哪些羊毛机会么？之前日元跌的时候，冲了任天堂点券，这次有啥机会？](https://www.v2ex.com/t/865725) ![](assets/new.png)  
 - [2022-07-12-如何获取-浏览器指纹](https://www.v2ex.com/t/865724) ![](assets/new.png)  
 - [2022-07-12-杭州有没有要云服务器产品线下合作的，公司折扣力度比较大的，阿里腾讯华为天翼-aws](https://www.v2ex.com/t/865723) ![](assets/new.png)  
 - [2022-07-12-KDE-桌面自动缩放?](https://www.v2ex.com/t/865722) ![](assets/new.png)  
@@ -508,9 +511,6 @@
 - [2022-07-12-长沙产品+技术交流群](https://www.v2ex.com/t/865707) ![](assets/new.png)  
 - [2022-07-12-深圳/福州/南京/西安-社招内推-丰疆智能·移动-APP-软件研发大量招聘-2022](https://www.v2ex.com/t/865706) ![](assets/new.png)  
 - [2022-07-12-有没有听-EDM-的-太好听了](https://www.v2ex.com/t/865705) ![](assets/new.png)  
-- [2022-07-12-v2-成都技术交流-3.0-群招新](https://www.v2ex.com/t/865704) ![](assets/new.png)  
-- [2022-07-12-MacBook-air-m1-突然出现这样的粉条纹是什么个情况](https://www.v2ex.com/t/865703) ![](assets/new.png)  
-- [2022-07-12-14.4.2-越狱后重启是不是恢复正常系统？被新版-thor-搞疯了，想一越百了。](https://www.v2ex.com/t/865702) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -559,9 +559,9 @@
 - [2022-07-12-一线技术人应该关注的四种思维能力](https://toutiao.io/k/s2lbrzp) ![](assets/new.png)  
 - [2022-07-12-应用实践-|-知乎基于-Apache-Doris-的-DMP-平台架构建设实践](https://toutiao.io/k/eywoocj) ![](assets/new.png)  
 - [2022-07-12-技术Leader如何创造业务价值？](https://toutiao.io/k/cm15by9) ![](assets/new.png)  
+- [2022-07-12-Linux-内核概念和学习路线](https://toutiao.io/k/mk0ev1x) ![](assets/new.png)  
 - [2022-07-12-书单-|-轻松玩转Python自动化办公](https://toutiao.io/k/fr71x66) ![](assets/new.png)  
 - [2022-07-12-又有-Linux-开发者加入微软，这次是-systemd-的创建者-|-Linux-中国](https://toutiao.io/k/kmsgmae) ![](assets/new.png)  
-- [2022-07-12-Linux-内核概念和学习路线](https://toutiao.io/k/mk0ev1x) ![](assets/new.png)  
 - [2022-07-12-Scroll，你玩明白了嘛？](https://toutiao.io/k/n8ln9l2) ![](assets/new.png)  
 - [2022-07-12-基于LightGBM算法实现数据挖掘！](https://toutiao.io/k/e97oskp) ![](assets/new.png)  
 - [2022-07-12-Tomcat太重，Undertow轻量多了~](https://toutiao.io/k/94usep7) ![](assets/new.png)  
@@ -571,8 +571,8 @@
 - [2022-07-12-手撕-Golang-高性能内存缓存库-bigcache!](https://toutiao.io/k/efrm1kw) ![](assets/new.png)  
 - [2022-07-12-对小绵羊的轰炸APP逆向分析](https://toutiao.io/k/2sb914v) ![](assets/new.png)  
 - [2022-07-12-Linux-下查找文件的最优选择？Find-命令的7种用法，太全了！](https://toutiao.io/k/40rssda) ![](assets/new.png)  
+- [2022-07-12-推荐-月活-12.8-亿的微信，海量请求下是如何防止崩溃的？](https://toutiao.io/k/fflgnsh) ![](assets/new.png)  
 - [2022-07-12-推荐-服务端监控架构设计与实践](https://toutiao.io/k/xhwa9mo) ![](assets/new.png)  
-- [2022-07-12-推荐-吐血整理：一份不可多得的架构师图谱！](https://toutiao.io/k/ptp0ru2) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-07-12 13:15:09，:rocket: 更新条数: +2029， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-07-12 14:08:30，:rocket: 更新条数: +2028， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,13 @@
 </summary>
 
 
+- [2022-07-12-机器学习有没有什么方案可以实现文章自动配图？](https://www.v2ex.com/t/865770) ![](assets/new.png)  
+- [2022-07-12-有感而发，经济危机时，做什么才能最大程度减少自己的损失？](https://www.v2ex.com/t/865768) ![](assets/new.png)  
+- [2022-07-12-Cloudflare-批量删除-DNS-记录的方式](https://www.v2ex.com/t/865765) ![](assets/new.png)  
+- [2022-07-12-字符串-hash-问题，有-<N-个字符串长度任意，放入到长度为-N-的数组，后续还需要根据这-N-个字符串快速得到位置，怎么样最快呢？](https://www.v2ex.com/t/865764) ![](assets/new.png)  
+- [2022-07-12-联想-e570c-怎么能做到合盖的情况下开机](https://www.v2ex.com/t/865763) ![](assets/new.png)  
+- [2022-07-12-向各位请教一下，迁移已经停止支援的-Windows（比如-Windows-Server-2008）还能否获得授权？](https://www.v2ex.com/t/865762) ![](assets/new.png)  
+- [2022-07-12-公司要开发一款类似宝塔的软件,大家提点意见](https://www.v2ex.com/t/865761) ![](assets/new.png)  
 - [2022-07-12-问个问题，为什么我的-chrome-浏览器登录不了-v2ex?](https://www.v2ex.com/t/865758) ![](assets/new.png)  
 - [2022-07-12-上海移动，改桥接后无法连接-dospod-和-alidns-的-doh](https://www.v2ex.com/t/865756) ![](assets/new.png)  
 - [2022-07-12-全栈react+node.js/-PHP-开发者希望能找一份合适的远程工作](https://www.v2ex.com/t/865755) ![](assets/new.png)  
@@ -504,13 +511,6 @@
 - [2022-07-12-关于-kubernetes-pod-启动时内存，-cpu-资源分配的问题](https://www.v2ex.com/t/865745) ![](assets/new.png)  
 - [2022-07-12-gengine-的性能损耗这么大的吗？](https://www.v2ex.com/t/865744) ![](assets/new.png)  
 - [2022-07-12-关于-react-教程中，-react-只更新它需要更新的部分这一章节](https://www.v2ex.com/t/865743) ![](assets/new.png)  
-- [2022-07-12-有什么办法可以只安装-LibreOffice-的-Writer-组件，或者-OpenOffice-的-writer-组件，或者说除了-Atlantis-Word-Processor-还有什么单独的类似-word-的软件吗？](https://www.v2ex.com/t/865742) ![](assets/new.png)  
-- [2022-07-12-有没有京东方的兄弟啊](https://www.v2ex.com/t/865741) ![](assets/new.png)  
-- [2022-07-12-官网又放出了一大波-MBP-翻新机](https://www.v2ex.com/t/865740) ![](assets/new.png)  
-- [2022-07-12-6-年-Java-广州还有要的吗](https://www.v2ex.com/t/865739) ![](assets/new.png)  
-- [2022-07-12-分享一个开源的安全工具：用于检测镜像安全风险](https://www.v2ex.com/t/865738) ![](assets/new.png)  
-- [2022-07-12-VirMach-跑路了吗？](https://www.v2ex.com/t/865737) ![](assets/new.png)  
-- [2022-07-12-想问问外边有什么地方可以用信用卡白嫖主机](https://www.v2ex.com/t/865736) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

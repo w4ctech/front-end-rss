@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-07-12 08:58:10，:rocket: 更新条数: +2026， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-07-12 09:18:05，:rocket: 更新条数: +2028， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,14 @@
 </summary>
 
 
+- [2022-07-12-如何获取-浏览器指纹](https://www.v2ex.com/t/865724) ![](assets/new.png)  
+- [2022-07-12-杭州有没有要云服务器产品线下合作的，公司折扣力度比较大的，阿里腾讯华为天翼-aws](https://www.v2ex.com/t/865723) ![](assets/new.png)  
+- [2022-07-12-KDE-桌面自动缩放?](https://www.v2ex.com/t/865722) ![](assets/new.png)  
+- [2022-07-12-话说，-m2-的-mba-什么是测评解禁](https://www.v2ex.com/t/865721) ![](assets/new.png)  
+- [2022-07-12-Visual-Studio-Code-Java-问卷调研-——-云原生开发](https://www.v2ex.com/t/865719) ![](assets/new.png)  
+- [2022-07-12-成都的打着区块链旗号的公司是不是都是搞交易所的？](https://www.v2ex.com/t/865718) ![](assets/new.png)  
+- [2022-07-12-看到-ios16-支持-message-发送后再编辑。我突然想到一个问题](https://www.v2ex.com/t/865717) ![](assets/new.png)  
+- [2022-07-12-Ubuntu18.04-下-xsd-检验失败](https://www.v2ex.com/t/865715) ![](assets/new.png)  
 - [2022-07-12-网络开发工程师-base：上海/北京/深圳-客户：国内头部量化机构-经验：需要网络组件开发经验，但是是-C/C++-网络开发-补充：网络库开发，-c++11、tcp/ip、网...](https://www.v2ex.com/t/865714) ![](assets/new.png)  
 - [2022-07-12-有没有办法能批量抓取-APP-的商品轮播图呢](https://www.v2ex.com/t/865713) ![](assets/new.png)  
 - [2022-07-12-用国外盗版的网站模板有风险吗](https://www.v2ex.com/t/865712) ![](assets/new.png)  
@@ -503,14 +511,6 @@
 - [2022-07-12-v2-成都技术交流-3.0-群招新](https://www.v2ex.com/t/865704) ![](assets/new.png)  
 - [2022-07-12-MacBook-air-m1-突然出现这样的粉条纹是什么个情况](https://www.v2ex.com/t/865703) ![](assets/new.png)  
 - [2022-07-12-14.4.2-越狱后重启是不是恢复正常系统？被新版-thor-搞疯了，想一越百了。](https://www.v2ex.com/t/865702) ![](assets/new.png)  
-- [2022-07-12-VS-Code-Java-调查问卷——云原生开发](https://www.v2ex.com/t/865701) ![](assets/new.png)  
-- [2022-07-12-询问一个关于-Java-日期在数据库存储的格式问题](https://www.v2ex.com/t/865700) ![](assets/new.png)  
-- [2022-07-12-Java-加密后，启动如何带密码？](https://www.v2ex.com/t/865699) ![](assets/new.png)  
-- [2022-07-12-机器较老，-VirtualBox-跑哪一个-Linux-发行版较流畅？](https://www.v2ex.com/t/865696) ![](assets/new.png)  
-- [2022-07-12-用国外盗版的网站模板有风险吗](https://www.v2ex.com/t/865695) ![](assets/new.png)  
-- [2022-07-12-有什么好玩的双人游戏](https://www.v2ex.com/t/865694) ![](assets/new.png)  
-- [2022-07-12-抖音的-OpenApi-可以获取短视频内容在自己的-app-内播放么？](https://www.v2ex.com/t/865693) ![](assets/new.png)  
-- [2022-07-12-KVM-下-Windows-虚拟机-CPU-性能过低](https://www.v2ex.com/t/865692) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -558,9 +558,9 @@
 - [2022-07-12-全国首个数据中台元数据标准（附下载）](https://toutiao.io/k/i2vxpeu) ![](assets/new.png)  
 - [2022-07-12-一线技术人应该关注的四种思维能力](https://toutiao.io/k/s2lbrzp) ![](assets/new.png)  
 - [2022-07-12-应用实践-|-知乎基于-Apache-Doris-的-DMP-平台架构建设实践](https://toutiao.io/k/eywoocj) ![](assets/new.png)  
-- [2022-07-12-又有-Linux-开发者加入微软，这次是-systemd-的创建者-|-Linux-中国](https://toutiao.io/k/kmsgmae) ![](assets/new.png)  
-- [2022-07-12-书单-|-轻松玩转Python自动化办公](https://toutiao.io/k/fr71x66) ![](assets/new.png)  
 - [2022-07-12-技术Leader如何创造业务价值？](https://toutiao.io/k/cm15by9) ![](assets/new.png)  
+- [2022-07-12-书单-|-轻松玩转Python自动化办公](https://toutiao.io/k/fr71x66) ![](assets/new.png)  
+- [2022-07-12-又有-Linux-开发者加入微软，这次是-systemd-的创建者-|-Linux-中国](https://toutiao.io/k/kmsgmae) ![](assets/new.png)  
 - [2022-07-12-Linux-内核概念和学习路线](https://toutiao.io/k/mk0ev1x) ![](assets/new.png)  
 - [2022-07-12-Scroll，你玩明白了嘛？](https://toutiao.io/k/n8ln9l2) ![](assets/new.png)  
 - [2022-07-12-基于LightGBM算法实现数据挖掘！](https://toutiao.io/k/e97oskp) ![](assets/new.png)  
@@ -571,8 +571,8 @@
 - [2022-07-12-手撕-Golang-高性能内存缓存库-bigcache!](https://toutiao.io/k/efrm1kw) ![](assets/new.png)  
 - [2022-07-12-对小绵羊的轰炸APP逆向分析](https://toutiao.io/k/2sb914v) ![](assets/new.png)  
 - [2022-07-12-Linux-下查找文件的最优选择？Find-命令的7种用法，太全了！](https://toutiao.io/k/40rssda) ![](assets/new.png)  
-- [2022-07-12-推荐-吐血整理：一份不可多得的架构师图谱！](https://toutiao.io/k/ptp0ru2) ![](assets/new.png)  
 - [2022-07-12-推荐-服务端监控架构设计与实践](https://toutiao.io/k/xhwa9mo) ![](assets/new.png)  
+- [2022-07-12-推荐-吐血整理：一份不可多得的架构师图谱！](https://toutiao.io/k/ptp0ru2) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

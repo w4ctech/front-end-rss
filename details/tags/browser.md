@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-12 08:58:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-12 09:18:05。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -14,7 +14,7 @@
 - [2021-01-08-解药|新冠mRNA疫苗安全性有哪些挑战？](https://m.caixin.com/m/2021-01-08/101648043.html) 
 - [2021-01-01-大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html) 
 - [2022-06-12-基于文字的URL锚点定位与::target-text样式设置](https://www.zhangxinxu.com/wordpress/2022/06/url-anchor-target-text/) 
+- [2022-07-12-如何获取-浏览器指纹](https://www.v2ex.com/t/865724) 
 - [2022-07-12-为什么-iCloud-private-rely-不支持-Chrome-浏览器-和-App?-人在美国-iCloud-private-rely-用的-cloudflare-服务器速度真的爽](https://www.v2ex.com/t/865685) 
-- [2022-07-12-WebDav-安全吗？会不会有什么安全问题](https://www.v2ex.com/t/865672) 
 - [2022-07-12-RPA之Chrome插件（Automa）Web-工作流自动化](https://toutiao.io/k/nd76be6) 
 - [2022-07-12-推荐-月活-12.8-亿的微信，海量请求下是如何防止崩溃的？](https://toutiao.io/k/fflgnsh) 

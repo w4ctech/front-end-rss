@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-12 08:58:10。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-07-12 09:18:06。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,14 @@
 </summary>
 
 
+- [【V2EX】2022-07-12-如何获取-浏览器指纹](https://www.v2ex.com/t/865724) 
+- [【V2EX】2022-07-12-杭州有没有要云服务器产品线下合作的，公司折扣力度比较大的，阿里腾讯华为天翼-aws](https://www.v2ex.com/t/865723) 
+- [【V2EX】2022-07-12-KDE-桌面自动缩放?](https://www.v2ex.com/t/865722) 
+- [【V2EX】2022-07-12-话说，-m2-的-mba-什么是测评解禁](https://www.v2ex.com/t/865721) 
+- [【V2EX】2022-07-12-Visual-Studio-Code-Java-问卷调研-——-云原生开发](https://www.v2ex.com/t/865719) 
+- [【V2EX】2022-07-12-成都的打着区块链旗号的公司是不是都是搞交易所的？](https://www.v2ex.com/t/865718) 
+- [【V2EX】2022-07-12-看到-ios16-支持-message-发送后再编辑。我突然想到一个问题](https://www.v2ex.com/t/865717) 
+- [【V2EX】2022-07-12-Ubuntu18.04-下-xsd-检验失败](https://www.v2ex.com/t/865715) 
 - [【V2EX】2022-07-12-网络开发工程师-base：上海/北京/深圳-客户：国内头部量化机构-经验：需要网络组件开发经验，但是是-C/C++-网络开发-补充：网络库开发，-c++11、tcp/ip、网...](https://www.v2ex.com/t/865714) 
 - [【V2EX】2022-07-12-有没有办法能批量抓取-APP-的商品轮播图呢](https://www.v2ex.com/t/865713) 
 - [【V2EX】2022-07-12-用国外盗版的网站模板有风险吗](https://www.v2ex.com/t/865712) 
@@ -101,12 +109,6 @@
 - [【V2EX】2022-07-12-求助成都华西医院附近的租房，短租一个月左右](https://www.v2ex.com/t/865678) 
 - [【V2EX】2022-07-12-iPhone7-要不要升级系统](https://www.v2ex.com/t/865677) 
 - [【V2EX】2022-07-12-油价-you-jia](https://www.v2ex.com/t/865676) 
-- [【V2EX】2022-07-12-MacBook-Pro-外接显示器使用，一盒盖，外接妙控板就卡顿](https://www.v2ex.com/t/865674) 
-- [【V2EX】2022-07-12-Telegram-全網搜索查找系統電報群、電報頻道、機器人](https://www.v2ex.com/t/865673) 
-- [【V2EX】2022-07-12-WebDav-安全吗？会不会有什么安全问题](https://www.v2ex.com/t/865672) 
-- [【V2EX】2022-07-12-关于-WPS-审核分享，突然觉得也不对](https://www.v2ex.com/t/865669) 
-- [【V2EX】2022-07-12-intel-UHD610-显示在-ubuntu-22.04-下不支持硬解](https://www.v2ex.com/t/865668) 
-- [【V2EX】2022-07-12-求推荐些手机上的益智小游戏~](https://www.v2ex.com/t/865667) 
 - [【技术头条】2022-07-12-遗留系统的服务拆分-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15215&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fservice-splitting-legacy-systems%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-12-Thoughtworks-全球CTO：按需求构建架构，过度工程只会“劳民伤财”-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15214&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftechnology-radar-rebecca-interview%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-12-故事点-vs.-人天-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15213&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fagile-estimation-story-points-man-day%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -132,9 +134,9 @@
 - [【开发者头条】2022-07-12-全国首个数据中台元数据标准（附下载）](https://toutiao.io/k/i2vxpeu) 
 - [【开发者头条】2022-07-12-一线技术人应该关注的四种思维能力](https://toutiao.io/k/s2lbrzp) 
 - [【开发者头条】2022-07-12-应用实践-|-知乎基于-Apache-Doris-的-DMP-平台架构建设实践](https://toutiao.io/k/eywoocj) 
-- [【开发者头条】2022-07-12-又有-Linux-开发者加入微软，这次是-systemd-的创建者-|-Linux-中国](https://toutiao.io/k/kmsgmae) 
-- [【开发者头条】2022-07-12-书单-|-轻松玩转Python自动化办公](https://toutiao.io/k/fr71x66) 
 - [【开发者头条】2022-07-12-技术Leader如何创造业务价值？](https://toutiao.io/k/cm15by9) 
+- [【开发者头条】2022-07-12-书单-|-轻松玩转Python自动化办公](https://toutiao.io/k/fr71x66) 
+- [【开发者头条】2022-07-12-又有-Linux-开发者加入微软，这次是-systemd-的创建者-|-Linux-中国](https://toutiao.io/k/kmsgmae) 
 - [【开发者头条】2022-07-12-Linux-内核概念和学习路线](https://toutiao.io/k/mk0ev1x) 
 - [【开发者头条】2022-07-12-Scroll，你玩明白了嘛？](https://toutiao.io/k/n8ln9l2) 
 - [【开发者头条】2022-07-12-基于LightGBM算法实现数据挖掘！](https://toutiao.io/k/e97oskp) 
@@ -145,8 +147,8 @@
 - [【开发者头条】2022-07-12-手撕-Golang-高性能内存缓存库-bigcache!](https://toutiao.io/k/efrm1kw) 
 - [【开发者头条】2022-07-12-对小绵羊的轰炸APP逆向分析](https://toutiao.io/k/2sb914v) 
 - [【开发者头条】2022-07-12-Linux-下查找文件的最优选择？Find-命令的7种用法，太全了！](https://toutiao.io/k/40rssda) 
-- [【开发者头条】2022-07-12-推荐-吐血整理：一份不可多得的架构师图谱！](https://toutiao.io/k/ptp0ru2) 
 - [【开发者头条】2022-07-12-推荐-服务端监控架构设计与实践](https://toutiao.io/k/xhwa9mo) 
+- [【开发者头条】2022-07-12-推荐-吐血整理：一份不可多得的架构师图谱！](https://toutiao.io/k/ptp0ru2) 
 - [【开发者头条】2022-07-12-推荐-月活-12.8-亿的微信，海量请求下是如何防止崩溃的？](https://toutiao.io/k/fflgnsh) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>

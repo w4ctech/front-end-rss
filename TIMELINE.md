@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-12 11:13:16。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-07-12 11:38:00。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,11 @@
 </summary>
 
 
+- [【V2EX】2022-07-12-上海/外企/WLB-Microfocus-内推,大量岗位,长期有效](https://www.v2ex.com/t/865748) 
+- [【V2EX】2022-07-12-SwiftUI-搞出一个超简洁的习惯养成+待办的-App（CoreData-+-iCloud-自动同步数据）｜附永久码](https://www.v2ex.com/t/865747) 
+- [【V2EX】2022-07-12-中高级机器学习算法工程师《居家办公》](https://www.v2ex.com/t/865746) 
+- [【V2EX】2022-07-12-关于-kubernetes-pod-启动时内存，-cpu-资源分配的问题](https://www.v2ex.com/t/865745) 
+- [【V2EX】2022-07-12-gengine-的性能损耗这么大的吗？](https://www.v2ex.com/t/865744) 
 - [【V2EX】2022-07-12-关于-react-教程中，-react-只更新它需要更新的部分这一章节](https://www.v2ex.com/t/865743) 
 - [【V2EX】2022-07-12-有什么办法可以只安装-LibreOffice-的-Writer-组件，或者-OpenOffice-的-writer-组件，或者说除了-Atlantis-Word-Processor-还有什么单独的类似-word-的软件吗？](https://www.v2ex.com/t/865742) 
 - [【V2EX】2022-07-12-有没有京东方的兄弟啊](https://www.v2ex.com/t/865741) 
@@ -109,9 +114,6 @@
 - [【V2EX】2022-07-12-VS-Code-Java-调查问卷——云原生开发](https://www.v2ex.com/t/865701) 
 - [【V2EX】2022-07-12-询问一个关于-Java-日期在数据库存储的格式问题](https://www.v2ex.com/t/865700) 
 - [【V2EX】2022-07-12-Java-加密后，启动如何带密码？](https://www.v2ex.com/t/865699) 
-- [【V2EX】2022-07-12-机器较老，-VirtualBox-跑哪一个-Linux-发行版较流畅？](https://www.v2ex.com/t/865696) 
-- [【V2EX】2022-07-12-用国外盗版的网站模板有风险吗](https://www.v2ex.com/t/865695) 
-- [【V2EX】2022-07-12-有什么好玩的双人游戏](https://www.v2ex.com/t/865694) 
 - [【技术头条】2022-07-12-遗留系统的服务拆分-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15215&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fservice-splitting-legacy-systems%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-12-Thoughtworks-全球CTO：按需求构建架构，过度工程只会“劳民伤财”-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15214&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftechnology-radar-rebecca-interview%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-12-故事点-vs.-人天-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15213&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fagile-estimation-story-points-man-day%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -137,10 +139,10 @@
 - [【开发者头条】2022-07-12-理解点线拓扑关系的计算原理](https://toutiao.io/k/fjfukt2) 
 - [【开发者头条】2022-07-12-全国首个数据中台元数据标准（附下载）](https://toutiao.io/k/i2vxpeu) 
 - [【开发者头条】2022-07-12-应用实践-|-知乎基于-Apache-Doris-的-DMP-平台架构建设实践](https://toutiao.io/k/eywoocj) 
-- [【开发者头条】2022-07-12-技术Leader如何创造业务价值？](https://toutiao.io/k/cm15by9) 
 - [【开发者头条】2022-07-12-Linux-内核概念和学习路线](https://toutiao.io/k/mk0ev1x) 
-- [【开发者头条】2022-07-12-又有-Linux-开发者加入微软，这次是-systemd-的创建者-|-Linux-中国](https://toutiao.io/k/kmsgmae) 
+- [【开发者头条】2022-07-12-技术Leader如何创造业务价值？](https://toutiao.io/k/cm15by9) 
 - [【开发者头条】2022-07-12-书单-|-轻松玩转Python自动化办公](https://toutiao.io/k/fr71x66) 
+- [【开发者头条】2022-07-12-又有-Linux-开发者加入微软，这次是-systemd-的创建者-|-Linux-中国](https://toutiao.io/k/kmsgmae) 
 - [【开发者头条】2022-07-12-Tomcat太重，Undertow轻量多了~](https://toutiao.io/k/94usep7) 
 - [【开发者头条】2022-07-12-Scroll，你玩明白了嘛？](https://toutiao.io/k/n8ln9l2) 
 - [【开发者头条】2022-07-12-基于LightGBM算法实现数据挖掘！](https://toutiao.io/k/e97oskp) 
@@ -150,9 +152,9 @@
 - [【开发者头条】2022-07-12-手撕-Golang-高性能内存缓存库-bigcache!](https://toutiao.io/k/efrm1kw) 
 - [【开发者头条】2022-07-12-对小绵羊的轰炸APP逆向分析](https://toutiao.io/k/2sb914v) 
 - [【开发者头条】2022-07-12-Linux-下查找文件的最优选择？Find-命令的7种用法，太全了！](https://toutiao.io/k/40rssda) 
-- [【开发者头条】2022-07-12-推荐-服务端监控架构设计与实践](https://toutiao.io/k/xhwa9mo) 
 - [【开发者头条】2022-07-12-推荐-吐血整理：一份不可多得的架构师图谱！](https://toutiao.io/k/ptp0ru2) 
 - [【开发者头条】2022-07-12-推荐-月活-12.8-亿的微信，海量请求下是如何防止崩溃的？](https://toutiao.io/k/fflgnsh) 
+- [【开发者头条】2022-07-12-推荐-服务端监控架构设计与实践](https://toutiao.io/k/xhwa9mo) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

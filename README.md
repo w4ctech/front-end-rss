@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-07-12 11:13:16，:rocket: 更新条数: +2031， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-07-12 11:38:00，:rocket: 更新条数: +2033， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,11 @@
 </summary>
 
 
+- [2022-07-12-上海/外企/WLB-Microfocus-内推,大量岗位,长期有效](https://www.v2ex.com/t/865748) ![](assets/new.png)  
+- [2022-07-12-SwiftUI-搞出一个超简洁的习惯养成+待办的-App（CoreData-+-iCloud-自动同步数据）｜附永久码](https://www.v2ex.com/t/865747) ![](assets/new.png)  
+- [2022-07-12-中高级机器学习算法工程师《居家办公》](https://www.v2ex.com/t/865746) ![](assets/new.png)  
+- [2022-07-12-关于-kubernetes-pod-启动时内存，-cpu-资源分配的问题](https://www.v2ex.com/t/865745) ![](assets/new.png)  
+- [2022-07-12-gengine-的性能损耗这么大的吗？](https://www.v2ex.com/t/865744) ![](assets/new.png)  
 - [2022-07-12-关于-react-教程中，-react-只更新它需要更新的部分这一章节](https://www.v2ex.com/t/865743) ![](assets/new.png)  
 - [2022-07-12-有什么办法可以只安装-LibreOffice-的-Writer-组件，或者-OpenOffice-的-writer-组件，或者说除了-Atlantis-Word-Processor-还有什么单独的类似-word-的软件吗？](https://www.v2ex.com/t/865742) ![](assets/new.png)  
 - [2022-07-12-有没有京东方的兄弟啊](https://www.v2ex.com/t/865741) ![](assets/new.png)  
@@ -506,11 +511,6 @@
 - [2022-07-12-如何达到外企工作英文水平？](https://www.v2ex.com/t/865730) ![](assets/new.png)  
 - [2022-07-12-VS-Code-Java-用户调研-——-云原生研发](https://www.v2ex.com/t/865729) ![](assets/new.png)  
 - [2022-07-12-很多人的朋友圈都是自我提纯后的朋友圈，接收的信息也是自我提纯后的信息和观点](https://www.v2ex.com/t/865728) ![](assets/new.png)  
-- [2022-07-12-请求下各位怎么看书的](https://www.v2ex.com/t/865727) ![](assets/new.png)  
-- [2022-07-12-磁盘空间不足的情况下，-10-亿级数据库该如何去重？](https://www.v2ex.com/t/865726) ![](assets/new.png)  
-- [2022-07-12-最近欧元大跌，刚刚看到-1-欧元==1-美元，有哪些羊毛机会么？之前日元跌的时候，冲了任天堂点券，这次有啥机会？](https://www.v2ex.com/t/865725) ![](assets/new.png)  
-- [2022-07-12-如何获取-浏览器指纹](https://www.v2ex.com/t/865724) ![](assets/new.png)  
-- [2022-07-12-杭州有没有要云服务器产品线下合作的，公司折扣力度比较大的，阿里腾讯华为天翼-aws](https://www.v2ex.com/t/865723) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -558,10 +558,10 @@
 - [2022-07-12-理解点线拓扑关系的计算原理](https://toutiao.io/k/fjfukt2) ![](assets/new.png)  
 - [2022-07-12-全国首个数据中台元数据标准（附下载）](https://toutiao.io/k/i2vxpeu) ![](assets/new.png)  
 - [2022-07-12-应用实践-|-知乎基于-Apache-Doris-的-DMP-平台架构建设实践](https://toutiao.io/k/eywoocj) ![](assets/new.png)  
-- [2022-07-12-技术Leader如何创造业务价值？](https://toutiao.io/k/cm15by9) ![](assets/new.png)  
 - [2022-07-12-Linux-内核概念和学习路线](https://toutiao.io/k/mk0ev1x) ![](assets/new.png)  
-- [2022-07-12-又有-Linux-开发者加入微软，这次是-systemd-的创建者-|-Linux-中国](https://toutiao.io/k/kmsgmae) ![](assets/new.png)  
+- [2022-07-12-技术Leader如何创造业务价值？](https://toutiao.io/k/cm15by9) ![](assets/new.png)  
 - [2022-07-12-书单-|-轻松玩转Python自动化办公](https://toutiao.io/k/fr71x66) ![](assets/new.png)  
+- [2022-07-12-又有-Linux-开发者加入微软，这次是-systemd-的创建者-|-Linux-中国](https://toutiao.io/k/kmsgmae) ![](assets/new.png)  
 - [2022-07-12-Tomcat太重，Undertow轻量多了~](https://toutiao.io/k/94usep7) ![](assets/new.png)  
 - [2022-07-12-Scroll，你玩明白了嘛？](https://toutiao.io/k/n8ln9l2) ![](assets/new.png)  
 - [2022-07-12-基于LightGBM算法实现数据挖掘！](https://toutiao.io/k/e97oskp) ![](assets/new.png)  
@@ -571,8 +571,8 @@
 - [2022-07-12-手撕-Golang-高性能内存缓存库-bigcache!](https://toutiao.io/k/efrm1kw) ![](assets/new.png)  
 - [2022-07-12-对小绵羊的轰炸APP逆向分析](https://toutiao.io/k/2sb914v) ![](assets/new.png)  
 - [2022-07-12-Linux-下查找文件的最优选择？Find-命令的7种用法，太全了！](https://toutiao.io/k/40rssda) ![](assets/new.png)  
-- [2022-07-12-推荐-服务端监控架构设计与实践](https://toutiao.io/k/xhwa9mo) ![](assets/new.png)  
 - [2022-07-12-推荐-吐血整理：一份不可多得的架构师图谱！](https://toutiao.io/k/ptp0ru2) ![](assets/new.png)  
+- [2022-07-12-推荐-月活-12.8-亿的微信，海量请求下是如何防止崩溃的？](https://toutiao.io/k/fflgnsh) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

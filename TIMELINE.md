@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-12 14:08:30。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-07-12 14:23:28。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,8 @@
 </summary>
 
 
+- [【V2EX】2022-07-12-有哪些不需看屏幕的小游戏?](https://www.v2ex.com/t/865772) 
+- [【V2EX】2022-07-12-mac-上有啥软件能给左右声道设置不同的-equlizer-么？](https://www.v2ex.com/t/865771) 
 - [【V2EX】2022-07-12-机器学习有没有什么方案可以实现文章自动配图？](https://www.v2ex.com/t/865770) 
 - [【V2EX】2022-07-12-有感而发，经济危机时，做什么才能最大程度减少自己的损失？](https://www.v2ex.com/t/865768) 
 - [【V2EX】2022-07-12-Cloudflare-批量删除-DNS-记录的方式](https://www.v2ex.com/t/865765) 
@@ -107,8 +109,6 @@
 - [【V2EX】2022-07-12-最近欧元大跌，刚刚看到-1-欧元==1-美元，有哪些羊毛机会么？之前日元跌的时候，冲了任天堂点券，这次有啥机会？](https://www.v2ex.com/t/865725) 
 - [【V2EX】2022-07-12-如何获取-浏览器指纹](https://www.v2ex.com/t/865724) 
 - [【V2EX】2022-07-12-杭州有没有要云服务器产品线下合作的，公司折扣力度比较大的，阿里腾讯华为天翼-aws](https://www.v2ex.com/t/865723) 
-- [【V2EX】2022-07-12-KDE-桌面自动缩放?](https://www.v2ex.com/t/865722) 
-- [【V2EX】2022-07-12-话说，-m2-的-mba-什么是测评解禁](https://www.v2ex.com/t/865721) 
 - [【技术头条】2022-07-12-遗留系统的服务拆分-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15215&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fservice-splitting-legacy-systems%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-12-Thoughtworks-全球CTO：按需求构建架构，过度工程只会“劳民伤财”-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15214&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftechnology-radar-rebecca-interview%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-12-故事点-vs.-人天-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15213&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fagile-estimation-story-points-man-day%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -134,8 +134,8 @@
 - [【开发者头条】2022-07-12-全国首个数据中台元数据标准（附下载）](https://toutiao.io/k/i2vxpeu) 
 - [【开发者头条】2022-07-12-理解点线拓扑关系的计算原理](https://toutiao.io/k/fjfukt2) 
 - [【开发者头条】2022-07-12-应用实践-|-知乎基于-Apache-Doris-的-DMP-平台架构建设实践](https://toutiao.io/k/eywoocj) 
-- [【开发者头条】2022-07-12-技术Leader如何创造业务价值？](https://toutiao.io/k/cm15by9) 
 - [【开发者头条】2022-07-12-Linux-内核概念和学习路线](https://toutiao.io/k/mk0ev1x) 
+- [【开发者头条】2022-07-12-技术Leader如何创造业务价值？](https://toutiao.io/k/cm15by9) 
 - [【开发者头条】2022-07-12-Tomcat太重，Undertow轻量多了~](https://toutiao.io/k/94usep7) 
 - [【开发者头条】2022-07-12-书单-|-轻松玩转Python自动化办公](https://toutiao.io/k/fr71x66) 
 - [【开发者头条】2022-07-12-又有-Linux-开发者加入微软，这次是-systemd-的创建者-|-Linux-中国](https://toutiao.io/k/kmsgmae) 

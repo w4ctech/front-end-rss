@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-07-12 14:08:30，:rocket: 更新条数: +2028， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-07-12 14:23:27，:rocket: 更新条数: +2028， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-07-12-有哪些不需看屏幕的小游戏?](https://www.v2ex.com/t/865772) ![](assets/new.png)  
+- [2022-07-12-mac-上有啥软件能给左右声道设置不同的-equlizer-么？](https://www.v2ex.com/t/865771) ![](assets/new.png)  
 - [2022-07-12-机器学习有没有什么方案可以实现文章自动配图？](https://www.v2ex.com/t/865770) ![](assets/new.png)  
 - [2022-07-12-有感而发，经济危机时，做什么才能最大程度减少自己的损失？](https://www.v2ex.com/t/865768) ![](assets/new.png)  
 - [2022-07-12-Cloudflare-批量删除-DNS-记录的方式](https://www.v2ex.com/t/865765) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-07-12-SwiftUI-搞出一个超简洁的习惯养成+待办的-App（CoreData-+-iCloud-自动同步数据）｜附永久码](https://www.v2ex.com/t/865747) ![](assets/new.png)  
 - [2022-07-12-中高级机器学习算法工程师《居家办公》](https://www.v2ex.com/t/865746) ![](assets/new.png)  
 - [2022-07-12-关于-kubernetes-pod-启动时内存，-cpu-资源分配的问题](https://www.v2ex.com/t/865745) ![](assets/new.png)  
-- [2022-07-12-gengine-的性能损耗这么大的吗？](https://www.v2ex.com/t/865744) ![](assets/new.png)  
-- [2022-07-12-关于-react-教程中，-react-只更新它需要更新的部分这一章节](https://www.v2ex.com/t/865743) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -558,8 +558,8 @@
 - [2022-07-12-全国首个数据中台元数据标准（附下载）](https://toutiao.io/k/i2vxpeu) ![](assets/new.png)  
 - [2022-07-12-理解点线拓扑关系的计算原理](https://toutiao.io/k/fjfukt2) ![](assets/new.png)  
 - [2022-07-12-应用实践-|-知乎基于-Apache-Doris-的-DMP-平台架构建设实践](https://toutiao.io/k/eywoocj) ![](assets/new.png)  
-- [2022-07-12-技术Leader如何创造业务价值？](https://toutiao.io/k/cm15by9) ![](assets/new.png)  
 - [2022-07-12-Linux-内核概念和学习路线](https://toutiao.io/k/mk0ev1x) ![](assets/new.png)  
+- [2022-07-12-技术Leader如何创造业务价值？](https://toutiao.io/k/cm15by9) ![](assets/new.png)  
 - [2022-07-12-Tomcat太重，Undertow轻量多了~](https://toutiao.io/k/94usep7) ![](assets/new.png)  
 - [2022-07-12-书单-|-轻松玩转Python自动化办公](https://toutiao.io/k/fr71x66) ![](assets/new.png)  
 - [2022-07-12-又有-Linux-开发者加入微软，这次是-systemd-的创建者-|-Linux-中国](https://toutiao.io/k/kmsgmae) ![](assets/new.png)  

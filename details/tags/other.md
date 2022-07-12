@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-12 14:23:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-12 14:38:48。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,8 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-07-12-Ignite-有人用过吗？](https://www.v2ex.com/t/865774) 
+- [2022-07-12-给精简的-shell-循环遍历代码只传两个参数，处理时间差距-10-倍是为何？内详](https://www.v2ex.com/t/865773) 
 - [2022-07-12-mac-上有啥软件能给左右声道设置不同的-equlizer-么？](https://www.v2ex.com/t/865771) 
 - [2022-07-12-机器学习有没有什么方案可以实现文章自动配图？](https://www.v2ex.com/t/865770) 
 - [2022-07-12-有感而发，经济危机时，做什么才能最大程度减少自己的损失？](https://www.v2ex.com/t/865768) 
@@ -1937,7 +1939,6 @@
 - [2022-07-12-很多人的朋友圈都是自我提纯后的朋友圈，接收的信息也是自我提纯后的信息和观点](https://www.v2ex.com/t/865728) 
 - [2022-07-12-磁盘空间不足的情况下，-10-亿级数据库该如何去重？](https://www.v2ex.com/t/865726) 
 - [2022-07-12-最近欧元大跌，刚刚看到-1-欧元==1-美元，有哪些羊毛机会么？之前日元跌的时候，冲了任天堂点券，这次有啥机会？](https://www.v2ex.com/t/865725) 
-- [2022-07-12-杭州有没有要云服务器产品线下合作的，公司折扣力度比较大的，阿里腾讯华为天翼-aws](https://www.v2ex.com/t/865723) 
 - [2022-07-12-遗留系统的服务拆分-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15215&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fservice-splitting-legacy-systems%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-12-故事点-vs.-人天-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15213&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fagile-estimation-story-points-man-day%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-12-如何设计数据可视化平台-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15212&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-design-data-visualization-platform%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-12 14:23:27。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-12 14:38:48。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -18,6 +18,5 @@
 - [2022-07-12-分享一个开源的安全工具：用于检测镜像安全风险](https://www.v2ex.com/t/865738) 
 - [2022-07-12-分享一下这个开源免费容器安全检测工具](https://www.v2ex.com/t/865733) 
 - [2022-07-12-请求下各位怎么看书的](https://www.v2ex.com/t/865727) 
-- [2022-07-12-如何获取-浏览器指纹](https://www.v2ex.com/t/865724) 
 - [2022-07-12-RPA之Chrome插件（Automa）Web-工作流自动化](https://toutiao.io/k/nd76be6) 
 - [2022-07-12-推荐-月活-12.8-亿的微信，海量请求下是如何防止崩溃的？](https://toutiao.io/k/fflgnsh) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-07-12 10:43:10，:rocket: 更新条数: +2031， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-07-12 11:13:16，:rocket: 更新条数: +2031， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,13 @@
 </summary>
 
 
+- [2022-07-12-关于-react-教程中，-react-只更新它需要更新的部分这一章节](https://www.v2ex.com/t/865743) ![](assets/new.png)  
+- [2022-07-12-有什么办法可以只安装-LibreOffice-的-Writer-组件，或者-OpenOffice-的-writer-组件，或者说除了-Atlantis-Word-Processor-还有什么单独的类似-word-的软件吗？](https://www.v2ex.com/t/865742) ![](assets/new.png)  
+- [2022-07-12-有没有京东方的兄弟啊](https://www.v2ex.com/t/865741) ![](assets/new.png)  
+- [2022-07-12-官网又放出了一大波-MBP-翻新机](https://www.v2ex.com/t/865740) ![](assets/new.png)  
+- [2022-07-12-6-年-Java-广州还有要的吗](https://www.v2ex.com/t/865739) ![](assets/new.png)  
+- [2022-07-12-分享一个开源的安全工具：用于检测镜像安全风险](https://www.v2ex.com/t/865738) ![](assets/new.png)  
+- [2022-07-12-VirMach-跑路了吗？](https://www.v2ex.com/t/865737) ![](assets/new.png)  
 - [2022-07-12-想问问外边有什么地方可以用信用卡白嫖主机](https://www.v2ex.com/t/865736) ![](assets/new.png)  
 - [2022-07-12-写在-多卡宝-马上要收费之后，如何打理多张-Sim-卡？](https://www.v2ex.com/t/865734) ![](assets/new.png)  
 - [2022-07-12-分享一下这个开源免费容器安全检测工具](https://www.v2ex.com/t/865733) ![](assets/new.png)  
@@ -504,13 +511,6 @@
 - [2022-07-12-最近欧元大跌，刚刚看到-1-欧元==1-美元，有哪些羊毛机会么？之前日元跌的时候，冲了任天堂点券，这次有啥机会？](https://www.v2ex.com/t/865725) ![](assets/new.png)  
 - [2022-07-12-如何获取-浏览器指纹](https://www.v2ex.com/t/865724) ![](assets/new.png)  
 - [2022-07-12-杭州有没有要云服务器产品线下合作的，公司折扣力度比较大的，阿里腾讯华为天翼-aws](https://www.v2ex.com/t/865723) ![](assets/new.png)  
-- [2022-07-12-KDE-桌面自动缩放?](https://www.v2ex.com/t/865722) ![](assets/new.png)  
-- [2022-07-12-话说，-m2-的-mba-什么是测评解禁](https://www.v2ex.com/t/865721) ![](assets/new.png)  
-- [2022-07-12-Visual-Studio-Code-Java-问卷调研-——-云原生开发](https://www.v2ex.com/t/865719) ![](assets/new.png)  
-- [2022-07-12-成都的打着区块链旗号的公司是不是都是搞交易所的？](https://www.v2ex.com/t/865718) ![](assets/new.png)  
-- [2022-07-12-看到-ios16-支持-message-发送后再编辑。我突然想到一个问题](https://www.v2ex.com/t/865717) ![](assets/new.png)  
-- [2022-07-12-Ubuntu18.04-下-xsd-检验失败](https://www.v2ex.com/t/865715) ![](assets/new.png)  
-- [2022-07-12-网络开发工程师-base：上海/北京/深圳-客户：国内头部量化机构-经验：需要网络组件开发经验，但是是-C/C++-网络开发-补充：网络库开发，-c++11、tcp/ip、网...](https://www.v2ex.com/t/865714) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -560,10 +560,10 @@
 - [2022-07-12-应用实践-|-知乎基于-Apache-Doris-的-DMP-平台架构建设实践](https://toutiao.io/k/eywoocj) ![](assets/new.png)  
 - [2022-07-12-技术Leader如何创造业务价值？](https://toutiao.io/k/cm15by9) ![](assets/new.png)  
 - [2022-07-12-Linux-内核概念和学习路线](https://toutiao.io/k/mk0ev1x) ![](assets/new.png)  
-- [2022-07-12-书单-|-轻松玩转Python自动化办公](https://toutiao.io/k/fr71x66) ![](assets/new.png)  
 - [2022-07-12-又有-Linux-开发者加入微软，这次是-systemd-的创建者-|-Linux-中国](https://toutiao.io/k/kmsgmae) ![](assets/new.png)  
-- [2022-07-12-Scroll，你玩明白了嘛？](https://toutiao.io/k/n8ln9l2) ![](assets/new.png)  
+- [2022-07-12-书单-|-轻松玩转Python自动化办公](https://toutiao.io/k/fr71x66) ![](assets/new.png)  
 - [2022-07-12-Tomcat太重，Undertow轻量多了~](https://toutiao.io/k/94usep7) ![](assets/new.png)  
+- [2022-07-12-Scroll，你玩明白了嘛？](https://toutiao.io/k/n8ln9l2) ![](assets/new.png)  
 - [2022-07-12-基于LightGBM算法实现数据挖掘！](https://toutiao.io/k/e97oskp) ![](assets/new.png)  
 - [2022-07-12-RocketMQ之消费者启动与消费流程](https://toutiao.io/k/lf76bx5) ![](assets/new.png)  
 - [2022-07-12-解读美DoD供应商ManTech的太空靶场方案](https://toutiao.io/k/p8e6jin) ![](assets/new.png)  
@@ -571,8 +571,8 @@
 - [2022-07-12-手撕-Golang-高性能内存缓存库-bigcache!](https://toutiao.io/k/efrm1kw) ![](assets/new.png)  
 - [2022-07-12-对小绵羊的轰炸APP逆向分析](https://toutiao.io/k/2sb914v) ![](assets/new.png)  
 - [2022-07-12-Linux-下查找文件的最优选择？Find-命令的7种用法，太全了！](https://toutiao.io/k/40rssda) ![](assets/new.png)  
-- [2022-07-12-推荐-吐血整理：一份不可多得的架构师图谱！](https://toutiao.io/k/ptp0ru2) ![](assets/new.png)  
 - [2022-07-12-推荐-服务端监控架构设计与实践](https://toutiao.io/k/xhwa9mo) ![](assets/new.png)  
+- [2022-07-12-推荐-吐血整理：一份不可多得的架构师图谱！](https://toutiao.io/k/ptp0ru2) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

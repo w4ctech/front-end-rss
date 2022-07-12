@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-12 07:13:40。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-12 07:38:35。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,8 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-07-12-请教关于分布式系统日志处理、健康检查、链路追踪、流量控制相关](https://www.v2ex.com/t/865688) 
+- [2022-07-12-现在有没有什么-阅读类或者音乐类的-开放平台··](https://www.v2ex.com/t/865682) 
 - [2022-07-12-有愿意换着-vps-用的吗？](https://www.v2ex.com/t/865680) 
 - [2022-07-12-询问下-Go-的这个语法是否存在](https://www.v2ex.com/t/865679) 
 - [2022-07-12-求助成都华西医院附近的租房，短租一个月左右](https://www.v2ex.com/t/865678) 
@@ -1930,9 +1932,6 @@
 - [2022-07-12-今天的抖音全推送的电商巨头人事变动，你们的也是这样吗](https://www.v2ex.com/t/865649) 
 - [2022-07-12-有没有技术比较强但是运营/盈利一般的公司？](https://www.v2ex.com/t/865644) 
 - [2022-07-12-移动要推类似-CN2-的精品网，叫-CMIN2，各位如何看待](https://www.v2ex.com/t/865643) 
-- [2022-07-12-关于-妙控板-Magic-Trackpad-2-配合-Mac-体验不佳的问题](https://www.v2ex.com/t/865636) 
-- [2022-07-12-寻求-Windows-无隐私问题，并且好用的第三方输入法](https://www.v2ex.com/t/865634) 
-- [2022-07-12-iphone12-拍-4k-几分钟就自动停止了，是-bug-被修复了吗](https://www.v2ex.com/t/865633) 
 - [2022-07-12-遗留系统的服务拆分-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15215&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fservice-splitting-legacy-systems%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-12-故事点-vs.-人天-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15213&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fagile-estimation-story-points-man-day%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-12-如何设计数据可视化平台-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15212&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-design-data-visualization-platform%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-07-12 18:48:23，:rocket: 更新条数: +2022， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-07-12 19:11:53，:rocket: 更新条数: +2022， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-07-12-之前有两年前端工作经验，面试算法工程师会扣分吗？](https://www.v2ex.com/t/865793) ![](assets/new.png)  
+- [2022-07-12-Warlogics-开发的-3D-即时战略游戏-Purple-War《紫晶之战》-将于-7-月-25-日开启-Steam-公测](https://www.v2ex.com/t/865792) ![](assets/new.png)  
 - [2022-07-12-多个-AppleId-一起使用，批量更新-App-的时候弹出输入密码，怎么知道是哪个呢？](https://www.v2ex.com/t/865788) ![](assets/new.png)  
 - [2022-07-12-用树莓派部署以太坊全节点有什么坑？](https://www.v2ex.com/t/865787) ![](assets/new.png)  
 - [2022-07-12-一文简单明了说明为什么-float64-float32-会有精确缺失的问题](https://www.v2ex.com/t/865785) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-07-12-有感而发，经济危机时，做什么才能最大程度减少自己的损失？](https://www.v2ex.com/t/865768) ![](assets/new.png)  
 - [2022-07-12-Cloudflare-批量删除-DNS-记录的方式](https://www.v2ex.com/t/865765) ![](assets/new.png)  
 - [2022-07-12-字符串-hash-问题，有-<N-个字符串长度任意，放入到长度为-N-的数组，后续还需要根据这-N-个字符串快速得到位置，怎么样最快呢？](https://www.v2ex.com/t/865764) ![](assets/new.png)  
-- [2022-07-12-联想-e570c-怎么能做到合盖的情况下开机](https://www.v2ex.com/t/865763) ![](assets/new.png)  
-- [2022-07-12-向各位请教一下，迁移已经停止支援的-Windows（比如-Windows-Server-2008）还能否获得授权？](https://www.v2ex.com/t/865762) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-12 07:38:35。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-12 08:19:30。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -16,6 +16,5 @@
 - [2022-06-12-基于文字的URL锚点定位与::target-text样式设置](https://www.zhangxinxu.com/wordpress/2022/06/url-anchor-target-text/) 
 - [2022-07-12-为什么-iCloud-private-rely-不支持-Chrome-浏览器-和-App?-人在美国-iCloud-private-rely-用的-cloudflare-服务器速度真的爽](https://www.v2ex.com/t/865685) 
 - [2022-07-12-WebDav-安全吗？会不会有什么安全问题](https://www.v2ex.com/t/865672) 
-- [2022-07-12-怎么让-Edge-停止微软账户自动上传访问和搜索记录？](https://www.v2ex.com/t/865639) 
 - [2022-07-12-RPA之Chrome插件（Automa）Web-工作流自动化](https://toutiao.io/k/nd76be6) 
 - [2022-07-12-推荐-月活-12.8-亿的微信，海量请求下是如何防止崩溃的？](https://toutiao.io/k/fflgnsh) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-12 07:38:35。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-12 08:19:30。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,11 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-07-12-机器较老，-VirtualBox-跑哪一个-Linux-发行版较流畅？](https://www.v2ex.com/t/865696) 
+- [2022-07-12-用国外盗版的网站模板有风险吗](https://www.v2ex.com/t/865695) 
+- [2022-07-12-golin-编译不过，求解](https://www.v2ex.com/t/865691) 
+- [2022-07-12-有关国家规定办公室空调问题](https://www.v2ex.com/t/865690) 
+- [2022-07-12-上海/北京/南京/成都/广州校招/社招内推-星环科技招人，外企风格，岗位多多](https://www.v2ex.com/t/865689) 
 - [2022-07-12-请教关于分布式系统日志处理、健康检查、链路追踪、流量控制相关](https://www.v2ex.com/t/865688) 
 - [2022-07-12-现在有没有什么-阅读类或者音乐类的-开放平台··](https://www.v2ex.com/t/865682) 
 - [2022-07-12-有愿意换着-vps-用的吗？](https://www.v2ex.com/t/865680) 
@@ -1930,8 +1935,6 @@
 - [2022-07-12-准备学习三维开发，哪些入门书籍推荐？](https://www.v2ex.com/t/865651) 
 - [2022-07-12-哪位哥哥再用小狼壕-windows-版输入法嘛](https://www.v2ex.com/t/865650) 
 - [2022-07-12-今天的抖音全推送的电商巨头人事变动，你们的也是这样吗](https://www.v2ex.com/t/865649) 
-- [2022-07-12-有没有技术比较强但是运营/盈利一般的公司？](https://www.v2ex.com/t/865644) 
-- [2022-07-12-移动要推类似-CN2-的精品网，叫-CMIN2，各位如何看待](https://www.v2ex.com/t/865643) 
 - [2022-07-12-遗留系统的服务拆分-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15215&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fservice-splitting-legacy-systems%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-12-故事点-vs.-人天-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15213&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fagile-estimation-story-points-man-day%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-12-如何设计数据可视化平台-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15212&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-design-data-visualization-platform%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1962,5 +1965,5 @@
 - [2022-07-12-对小绵羊的轰炸APP逆向分析](https://toutiao.io/k/2sb914v) 
 - [2022-07-12-如何优雅的写-Controller-层代码？](https://toutiao.io/k/s5a3nnh) 
 - [2022-07-12-Linux-下查找文件的最优选择？Find-命令的7种用法，太全了！](https://toutiao.io/k/40rssda) 
-- [2022-07-12-推荐-吐血整理：一份不可多得的架构师图谱！](https://toutiao.io/k/ptp0ru2) 
 - [2022-07-12-推荐-服务端监控架构设计与实践](https://toutiao.io/k/xhwa9mo) 
+- [2022-07-12-推荐-吐血整理：一份不可多得的架构师图谱！](https://toutiao.io/k/ptp0ru2) 

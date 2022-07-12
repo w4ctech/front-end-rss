@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-07-12 07:38:34，:rocket: 更新条数: +2019， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-07-12 08:19:30，:rocket: 更新条数: +2022， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,14 @@
 </summary>
 
 
+- [2022-07-12-机器较老，-VirtualBox-跑哪一个-Linux-发行版较流畅？](https://www.v2ex.com/t/865696) ![](assets/new.png)  
+- [2022-07-12-用国外盗版的网站模板有风险吗](https://www.v2ex.com/t/865695) ![](assets/new.png)  
+- [2022-07-12-有什么好玩的双人游戏](https://www.v2ex.com/t/865694) ![](assets/new.png)  
+- [2022-07-12-抖音的-OpenApi-可以获取短视频内容在自己的-app-内播放么？](https://www.v2ex.com/t/865693) ![](assets/new.png)  
+- [2022-07-12-KVM-下-Windows-虚拟机-CPU-性能过低](https://www.v2ex.com/t/865692) ![](assets/new.png)  
+- [2022-07-12-golin-编译不过，求解](https://www.v2ex.com/t/865691) ![](assets/new.png)  
+- [2022-07-12-有关国家规定办公室空调问题](https://www.v2ex.com/t/865690) ![](assets/new.png)  
+- [2022-07-12-上海/北京/南京/成都/广州校招/社招内推-星环科技招人，外企风格，岗位多多](https://www.v2ex.com/t/865689) ![](assets/new.png)  
 - [2022-07-12-请教关于分布式系统日志处理、健康检查、链路追踪、流量控制相关](https://www.v2ex.com/t/865688) ![](assets/new.png)  
 - [2022-07-12-开源/远程-RSS3-母公司-Natural-Selection-Labs-提供最酷最理想最自由的工作-|-前端/全栈工程师](https://www.v2ex.com/t/865687) ![](assets/new.png)  
 - [2022-07-12-为什么-iCloud-private-rely-不支持-Chrome-浏览器-和-App?-人在美国-iCloud-private-rely-用的-cloudflare-服务器速度真的爽](https://www.v2ex.com/t/865685) ![](assets/new.png)  
@@ -503,14 +511,6 @@
 - [2022-07-12-油价-you-jia](https://www.v2ex.com/t/865676) ![](assets/new.png)  
 - [2022-07-12-MacBook-Pro-外接显示器使用，一盒盖，外接妙控板就卡顿](https://www.v2ex.com/t/865674) ![](assets/new.png)  
 - [2022-07-12-Telegram-全網搜索查找系統電報群、電報頻道、機器人](https://www.v2ex.com/t/865673) ![](assets/new.png)  
-- [2022-07-12-WebDav-安全吗？会不会有什么安全问题](https://www.v2ex.com/t/865672) ![](assets/new.png)  
-- [2022-07-12-关于-WPS-审核分享，突然觉得也不对](https://www.v2ex.com/t/865669) ![](assets/new.png)  
-- [2022-07-12-intel-UHD610-显示在-ubuntu-22.04-下不支持硬解](https://www.v2ex.com/t/865668) ![](assets/new.png)  
-- [2022-07-12-求推荐些手机上的益智小游戏~](https://www.v2ex.com/t/865667) ![](assets/new.png)  
-- [2022-07-12-2022-年已过半，各位巴菲特基金收益如何？](https://www.v2ex.com/t/865664) ![](assets/new.png)  
-- [2022-07-12-求解答，-nodejs-上传-xlsx-文件如何实现：不通过下载文件到本地再解析-xlsx？](https://www.v2ex.com/t/865661) ![](assets/new.png)  
-- [2022-07-12-请教减肥](https://www.v2ex.com/t/865658) ![](assets/new.png)  
-- [2022-07-12-在线咨询一波牙齿矫正的价格](https://www.v2ex.com/t/865656) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -561,9 +561,9 @@
 - [2022-07-12-又有-Linux-开发者加入微软，这次是-systemd-的创建者-|-Linux-中国](https://toutiao.io/k/kmsgmae) ![](assets/new.png)  
 - [2022-07-12-书单-|-轻松玩转Python自动化办公](https://toutiao.io/k/fr71x66) ![](assets/new.png)  
 - [2022-07-12-Scroll，你玩明白了嘛？](https://toutiao.io/k/n8ln9l2) ![](assets/new.png)  
-- [2022-07-12-基于LightGBM算法实现数据挖掘！](https://toutiao.io/k/e97oskp) ![](assets/new.png)  
 - [2022-07-12-技术Leader如何创造业务价值？](https://toutiao.io/k/cm15by9) ![](assets/new.png)  
 - [2022-07-12-Linux-内核概念和学习路线](https://toutiao.io/k/mk0ev1x) ![](assets/new.png)  
+- [2022-07-12-基于LightGBM算法实现数据挖掘！](https://toutiao.io/k/e97oskp) ![](assets/new.png)  
 - [2022-07-12-Tomcat太重，Undertow轻量多了~](https://toutiao.io/k/94usep7) ![](assets/new.png)  
 - [2022-07-12-RocketMQ之消费者启动与消费流程](https://toutiao.io/k/lf76bx5) ![](assets/new.png)  
 - [2022-07-12-解读美DoD供应商ManTech的太空靶场方案](https://toutiao.io/k/p8e6jin) ![](assets/new.png)  
@@ -571,8 +571,8 @@
 - [2022-07-12-对小绵羊的轰炸APP逆向分析](https://toutiao.io/k/2sb914v) ![](assets/new.png)  
 - [2022-07-12-如何优雅的写-Controller-层代码？](https://toutiao.io/k/s5a3nnh) ![](assets/new.png)  
 - [2022-07-12-Linux-下查找文件的最优选择？Find-命令的7种用法，太全了！](https://toutiao.io/k/40rssda) ![](assets/new.png)  
-- [2022-07-12-推荐-吐血整理：一份不可多得的架构师图谱！](https://toutiao.io/k/ptp0ru2) ![](assets/new.png)  
 - [2022-07-12-推荐-服务端监控架构设计与实践](https://toutiao.io/k/xhwa9mo) ![](assets/new.png)  
+- [2022-07-12-推荐-月活-12.8-亿的微信，海量请求下是如何防止崩溃的？](https://toutiao.io/k/fflgnsh) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

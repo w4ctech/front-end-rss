@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-07-12 19:36:43，:rocket: 更新条数: +2022， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-07-12 20:15:06，:rocket: 更新条数: +2022， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-07-12-纯数字和小写字母会是什么加密](https://www.v2ex.com/t/865795) ![](assets/new.png)  
+- [2022-07-12-关于关系型数据库第二范式的问题:-列之间计算出来的数据,-算违反第二范式么?](https://www.v2ex.com/t/865794) ![](assets/new.png)  
 - [2022-07-12-之前有两年前端工作经验，面试算法工程师会扣分吗？](https://www.v2ex.com/t/865793) ![](assets/new.png)  
 - [2022-07-12-Warlogics-开发的-3D-即时战略游戏-Purple-War《紫晶之战》-将于-7-月-25-日开启-Steam-公测](https://www.v2ex.com/t/865792) ![](assets/new.png)  
 - [2022-07-12-多个-AppleId-一起使用，批量更新-App-的时候弹出输入密码，怎么知道是哪个呢？](https://www.v2ex.com/t/865788) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-07-12-mac-上有啥软件能给左右声道设置不同的-equlizer-么？](https://www.v2ex.com/t/865771) ![](assets/new.png)  
 - [2022-07-12-机器学习有没有什么方案可以实现文章自动配图？](https://www.v2ex.com/t/865770) ![](assets/new.png)  
 - [2022-07-12-有感而发，经济危机时，做什么才能最大程度减少自己的损失？](https://www.v2ex.com/t/865768) ![](assets/new.png)  
-- [2022-07-12-Cloudflare-批量删除-DNS-记录的方式](https://www.v2ex.com/t/865765) ![](assets/new.png)  
-- [2022-07-12-字符串-hash-问题，有-<N-个字符串长度任意，放入到长度为-N-的数组，后续还需要根据这-N-个字符串快速得到位置，怎么样最快呢？](https://www.v2ex.com/t/865764) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -571,8 +571,8 @@
 - [2022-07-12-如何优雅的写-Controller-层代码？](https://toutiao.io/k/s5a3nnh) ![](assets/new.png)  
 - [2022-07-12-对小绵羊的轰炸APP逆向分析](https://toutiao.io/k/2sb914v) ![](assets/new.png)  
 - [2022-07-12-Linux-下查找文件的最优选择？Find-命令的7种用法，太全了！](https://toutiao.io/k/40rssda) ![](assets/new.png)  
-- [2022-07-12-推荐-服务端监控架构设计与实践](https://toutiao.io/k/xhwa9mo) ![](assets/new.png)  
 - [2022-07-12-推荐-月活-12.8-亿的微信，海量请求下是如何防止崩溃的？](https://toutiao.io/k/fflgnsh) ![](assets/new.png)  
+- [2022-07-12-推荐-吐血整理：一份不可多得的架构师图谱！](https://toutiao.io/k/ptp0ru2) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

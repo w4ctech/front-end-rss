@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-12 16:19:06。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-12 16:59:43。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -15,6 +15,5 @@
 - [2021-01-01-大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html) 
 - [2022-06-12-基于文字的URL锚点定位与::target-text样式设置](https://www.zhangxinxu.com/wordpress/2022/06/url-anchor-target-text/) 
 - [2022-07-12-问个问题，为什么我的-chrome-浏览器登录不了-v2ex?](https://www.v2ex.com/t/865758) 
-- [2022-07-12-分享一个开源的安全工具：用于检测镜像安全风险](https://www.v2ex.com/t/865738) 
 - [2022-07-12-RPA之Chrome插件（Automa）Web-工作流自动化](https://toutiao.io/k/nd76be6) 
 - [2022-07-12-推荐-月活-12.8-亿的微信，海量请求下是如何防止崩溃的？](https://toutiao.io/k/fflgnsh) 

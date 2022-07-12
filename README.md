@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-07-12 22:40:44，:rocket: 更新条数: +2022， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-07-12 23:03:16，:rocket: 更新条数: +2023， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-07-12-GV-不能注册-fb-yahoo-wechat-只能用实体号注册了。](https://www.v2ex.com/t/865801) ![](assets/new.png)  
+- [2022-07-12-如何有效缓解焦虑？暴躁？愤怒？（晚上-10-点前休息，大睡一觉即可）亲测有效](https://www.v2ex.com/t/865800) ![](assets/new.png)  
 - [2022-07-12-到底-Mac-下配什么鼠标比较好？](https://www.v2ex.com/t/865798) ![](assets/new.png)  
 - [2022-07-12-iOS14.5-允许禁止访问设备识别符,美团是怎么判断是这个设备之前是否用过的?](https://www.v2ex.com/t/865797) ![](assets/new.png)  
 - [2022-07-12-为什么说要禁止微软自动设备驱动,在-Surface-Pro-7-中遇到的坑](https://www.v2ex.com/t/865796) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-07-12-没有类似-微信文件传输助手的工具](https://www.v2ex.com/t/865776) ![](assets/new.png)  
 - [2022-07-12-一个-Pomodoro「专注小番茄」Web-App](https://www.v2ex.com/t/865775) ![](assets/new.png)  
 - [2022-07-12-Ignite-有人用过吗？](https://www.v2ex.com/t/865774) ![](assets/new.png)  
-- [2022-07-12-给精简的-shell-循环遍历代码只传两个参数，处理时间差距-10-倍是为何？内详](https://www.v2ex.com/t/865773) ![](assets/new.png)  
-- [2022-07-12-有哪些不需看屏幕的小游戏?](https://www.v2ex.com/t/865772) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -571,8 +571,8 @@
 - [2022-07-12-如何优雅的写-Controller-层代码？](https://toutiao.io/k/s5a3nnh) ![](assets/new.png)  
 - [2022-07-12-对小绵羊的轰炸APP逆向分析](https://toutiao.io/k/2sb914v) ![](assets/new.png)  
 - [2022-07-12-Linux-下查找文件的最优选择？Find-命令的7种用法，太全了！](https://toutiao.io/k/40rssda) ![](assets/new.png)  
-- [2022-07-12-推荐-月活-12.8-亿的微信，海量请求下是如何防止崩溃的？](https://toutiao.io/k/fflgnsh) ![](assets/new.png)  
 - [2022-07-12-推荐-服务端监控架构设计与实践](https://toutiao.io/k/xhwa9mo) ![](assets/new.png)  
+- [2022-07-12-推荐-月活-12.8-亿的微信，海量请求下是如何防止崩溃的？](https://toutiao.io/k/fflgnsh) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

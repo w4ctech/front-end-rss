@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-07-13 17:45:46，:rocket: 更新条数: +2029， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-07-13 18:16:24，:rocket: 更新条数: +2027， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,11 +491,11 @@
 </summary>
 
 
+- [2022-07-13-有没有什么-windows-下面好用的命令行工具](https://www.v2ex.com/t/866013) ![](assets/new.png)  
 - [2022-07-13-每天在家办公，想要租一个月看海或者大湖，有哪些地方可以选](https://www.v2ex.com/t/866011) ![](assets/new.png)  
 - [2022-07-13-求助贴:入睡困难，容易失眠，有什么好方法可以改善吗？](https://www.v2ex.com/t/866010) ![](assets/new.png)  
 - [2022-07-13-四大视频网站会员，一年仅需-99-元，每月任选，无惧独播！爱奇艺、腾讯视频、芒果-TV、优酷](https://www.v2ex.com/t/866009) ![](assets/new.png)  
 - [2022-07-13-M1/M2-对比-20-款-Intel-MBP13'-性能提升大概有多大啊？](https://www.v2ex.com/t/866008) ![](assets/new.png)  
-- [2022-07-13-感觉要解决大事情了？——超大基建要来了](https://www.v2ex.com/t/866007) ![](assets/new.png)  
 - [2022-07-13-给老哥们提个需求，-大佬过来设计下，给个方案](https://www.v2ex.com/t/866006) ![](assets/new.png)  
 - [2022-07-13-果然，-GitHub-推出了更多的徽标](https://www.v2ex.com/t/866005) ![](assets/new.png)  
 - [2022-07-13-定制安卓-10，-系统-OTA-升级过程中如何覆盖-WiFi-之前的配置](https://www.v2ex.com/t/866004) ![](assets/new.png)  
@@ -572,7 +572,7 @@
 - [2022-07-13-这个新-Go-错误处理提案，能解决问题不？](https://toutiao.io/k/st74w79) ![](assets/new.png)  
 - [2022-07-13-硅谷来信：Google、Facebook员工的“成长型思维”](https://toutiao.io/k/3d6zyvh) ![](assets/new.png)  
 - [2022-07-13-【萌新解题】两数之和](https://toutiao.io/k/zdzsjn1) ![](assets/new.png)  
-- [2022-07-13-推荐-月活-12.8-亿的微信，海量请求下是如何防止崩溃的？](https://toutiao.io/k/fflgnsh) ![](assets/new.png)  
+- [2022-07-13-推荐-服务端监控架构设计与实践](https://toutiao.io/k/xhwa9mo) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

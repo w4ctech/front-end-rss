@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-13 13:17:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-13 14:05:14。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -19,4 +19,5 @@
 - [2022-05-11-JS与条形码的生成](https://www.zhangxinxu.com/wordpress/2022/05/js-barcode/) 
 - [2022-04-30-深入-JS-new-Function-语法](https://www.zhangxinxu.com/wordpress/2022/04/js-new-function/) 
 - [2022-04-27-小tips:-JS字体加载失败或完毕的检测](https://www.zhangxinxu.com/wordpress/2022/04/js-font-face-load/) 
+- [2022-07-13-问一个-golang-新手问题，一个-golang-的-struct-使用了-json-fields，怎么在导入的时候加入其他的-fields？](https://www.v2ex.com/t/865993) 
 - [2022-07-13-Android-实现小红书登陆页面背景图无限滚动效果](https://toutiao.io/k/8n4xc6b) 

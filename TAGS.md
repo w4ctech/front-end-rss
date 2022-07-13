@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-07-13 12:23:59。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-13 13:17:09。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -187,7 +187,6 @@
 - [【张鑫旭-鑫空间-鑫生活】JS与条形码的生成](https://www.zhangxinxu.com/wordpress/2022/05/js-barcode/)
 - [【张鑫旭-鑫空间-鑫生活】深入-JS-new-Function-语法](https://www.zhangxinxu.com/wordpress/2022/04/js-new-function/)
 - [【张鑫旭-鑫空间-鑫生活】小tips:-JS字体加载失败或完毕的检测](https://www.zhangxinxu.com/wordpress/2022/04/js-font-face-load/)
-- [【V2EX】路由器推荐](https://www.v2ex.com/t/865931)
 - [【开发者头条】Android-实现小红书登陆页面背景图无限滚动效果](https://toutiao.io/k/8n4xc6b)
 - [......【查看更多】......](./details/tags/javascript.md)
 
@@ -208,7 +207,6 @@
 - [【张鑫旭-鑫空间-鑫生活】CSS排版为何强？瞧瞧多牛这换行](https://www.zhangxinxu.com/wordpress/2022/06/css-line-break-word-wrap-all/)
 - [【张鑫旭-鑫空间-鑫生活】详解日后定会大规模使用的CSS-@layer-规则](https://www.zhangxinxu.com/wordpress/2022/05/css-layer-rule/)
 - [【张鑫旭-鑫空间-鑫生活】CSS必学基础：理解CSS中的级联规则](https://www.zhangxinxu.com/wordpress/2022/05/deep-in-css-cascade/)
-- [【V2EX】css-与-github-问个问题](https://www.v2ex.com/t/865930)
 - [......【查看更多】......](./details/tags/css.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -303,6 +301,7 @@
 
 
 
+- [【V2EX】全职远程-25k-60k/-Java-/机器学习算法//项目经理/产品经理/solidity-开发/测试/商务运营](https://www.v2ex.com/t/865980)
 - [【开发者头条】一种快速判断点在多边形内的算法---sunsky303---博客园](https://toutiao.io/k/tk72sfy)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-13 21:14:12。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-07-13 21:40:39。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -145,11 +145,11 @@
 - [【开发者头条】2022-07-13-10亿+/秒！看阿里如何搞定实时数仓高吞吐实时写入与更新](https://toutiao.io/k/m3b54fe) 
 - [【开发者头条】2022-07-13-.NET-GC工作流程](https://toutiao.io/k/thmiqz3) 
 - [【开发者头条】2022-07-13-如何提高代码的可读性，以-Go-为例！](https://toutiao.io/k/4my5a0t) 
-- [【开发者头条】2022-07-13-这个新-Go-错误处理提案，能解决问题不？](https://toutiao.io/k/st74w79) 
 - [【开发者头条】2022-07-13-硅谷来信：Google、Facebook员工的“成长型思维”](https://toutiao.io/k/3d6zyvh) 
+- [【开发者头条】2022-07-13-这个新-Go-错误处理提案，能解决问题不？](https://toutiao.io/k/st74w79) 
 - [【开发者头条】2022-07-13-【萌新解题】两数之和](https://toutiao.io/k/zdzsjn1) 
-- [【开发者头条】2022-07-13-推荐-月活-12.8-亿的微信，海量请求下是如何防止崩溃的？](https://toutiao.io/k/fflgnsh) 
 - [【开发者头条】2022-07-13-推荐-服务端监控架构设计与实践](https://toutiao.io/k/xhwa9mo) 
+- [【开发者头条】2022-07-13-推荐-月活-12.8-亿的微信，海量请求下是如何防止崩溃的？](https://toutiao.io/k/fflgnsh) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

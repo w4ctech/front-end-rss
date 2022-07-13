@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-13 04:14:15。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-07-13 05:01:08。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,11 @@
 </summary>
 
 
+- [【V2EX】2022-07-13-Gboard-更改包名](https://www.v2ex.com/t/865886) 
+- [【V2EX】2022-07-13-关于-macOS-校园网环境下的代理问题](https://www.v2ex.com/t/865885) 
+- [【V2EX】2022-07-13-iOS16-公测版有发热卡顿掉电快的问题吗](https://www.v2ex.com/t/865883) 
+- [【V2EX】2022-07-13-计算机相关专业知识的-优质-科普频道、公众号、个人博客、app-等分享/推荐（具体平台不限）](https://www.v2ex.com/t/865880) 
+- [【V2EX】2022-07-13-我们真的需要担心人工智能吗？](https://www.v2ex.com/t/865879) 
 - [【V2EX】2022-07-13-如何找到某个环境变量的具体配置位置呢](https://www.v2ex.com/t/865878) 
 - [【V2EX】2022-07-13-有没有-35➕的码农，一起组团](https://www.v2ex.com/t/865877) 
 - [【V2EX】2022-07-13-有什么设计师的社区么](https://www.v2ex.com/t/865875) 
@@ -99,13 +104,6 @@
 - [【V2EX】2022-07-13-做-k8s-相关的程序员平时在做什么工作呢？](https://www.v2ex.com/t/865840) 
 - [【V2EX】2022-07-13-小学英语-自然拼读-or-国际音标？](https://www.v2ex.com/t/865838) 
 - [【V2EX】2022-07-13-听说今年应届生挺难的，国家都出手了。](https://www.v2ex.com/t/865837) 
-- [【V2EX】2022-07-13-美剧终极名单真不错哦](https://www.v2ex.com/t/865836) 
-- [【V2EX】2022-07-13-苹果在-iOS-16-里，强制绑定-Game-Center-到手柄的某些按钮，比如-Xbox-button](https://www.v2ex.com/t/865835) 
-- [【V2EX】2022-07-13-上海招聘-Android-高级工程师-墨水屏应用软件开发](https://www.v2ex.com/t/865834) 
-- [【V2EX】2022-07-13-ocserv-组网+局域网访问](https://www.v2ex.com/t/865833) 
-- [【V2EX】2022-07-13-国外的产品视频都是怎么录制的](https://www.v2ex.com/t/865832) 
-- [【V2EX】2022-07-13-购买黄金、欧元是直接去银行吗](https://www.v2ex.com/t/865831) 
-- [【V2EX】2022-07-13-新加坡技术移民机会-知名大型互联网公司，招运维开发/DevOps-/SRE-工程师，个税低，中文视频面试,地点：新加坡](https://www.v2ex.com/t/865830) 
 - [【技术头条】2022-07-13-如何应对团队协作的五大障碍-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15216&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-solve-five-dysfunctions-of-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-13-遗留系统的服务拆分-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15215&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fservice-splitting-legacy-systems%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-13-Thoughtworks-全球CTO：按需求构建架构，过度工程只会“劳民伤财”-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15214&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftechnology-radar-rebecca-interview%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -131,17 +129,17 @@
 - [【开发者头条】2022-07-13-Kubernetes网络插件详解---Flannel篇](https://toutiao.io/k/a1mop7y) 
 - [【开发者头条】2022-07-13-浅析-Apache-Kafka-分区重分配的实现原理](https://toutiao.io/k/grkgf9a) 
 - [【开发者头条】2022-07-13-一种快速判断点在多边形内的算法---sunsky303---博客园](https://toutiao.io/k/tk72sfy) 
+- [【开发者头条】2022-07-13-不知道怎么解耦业务？Spring-Event-了解一下！](https://toutiao.io/k/tn4ht3k) 
 - [【开发者头条】2022-07-13-go-zero微服务实战系列（十一、大结局）](https://toutiao.io/k/y9sm0j9) 
 - [【开发者头条】2022-07-13-分布式一致性协议之领导人选举-DotNext.Net.Cluster-实现Raft-选举-](https://toutiao.io/k/y9y9gfa) 
-- [【开发者头条】2022-07-13-不知道怎么解耦业务？Spring-Event-了解一下！](https://toutiao.io/k/tn4ht3k) 
 - [【开发者头条】2022-07-13-10亿+/秒！看阿里如何搞定实时数仓高吞吐实时写入与更新](https://toutiao.io/k/m3b54fe) 
-- [【开发者头条】2022-07-13-Android-实现小红书登陆页面背景图无限滚动效果](https://toutiao.io/k/8n4xc6b) 
 - [【开发者头条】2022-07-13-React-Hooks-使用大全（包括-React18）巨全！](https://toutiao.io/k/v8fygfd) 
+- [【开发者头条】2022-07-13-Android-实现小红书登陆页面背景图无限滚动效果](https://toutiao.io/k/8n4xc6b) 
 - [【开发者头条】2022-07-13-千万级可观测数据采集器--iLogtail代码完整开源](https://toutiao.io/k/v6w6362) 
 - [【开发者头条】2022-07-13-.NET-GC工作流程](https://toutiao.io/k/thmiqz3) 
+- [【开发者头条】2022-07-13-推荐-吐血整理：一份不可多得的架构师图谱！](https://toutiao.io/k/ptp0ru2) 
 - [【开发者头条】2022-07-13-推荐-服务端监控架构设计与实践](https://toutiao.io/k/xhwa9mo) 
 - [【开发者头条】2022-07-13-推荐-月活-12.8-亿的微信，海量请求下是如何防止崩溃的？](https://toutiao.io/k/fflgnsh) 
-- [【开发者头条】2022-07-13-推荐-吐血整理：一份不可多得的架构师图谱！](https://toutiao.io/k/ptp0ru2) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

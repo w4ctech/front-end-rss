@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-13 20:41:17。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-13 21:14:12。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,7 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-07-13-来自英国的保投乐-Betadia-开创数字保险新世界](https://www.v2ex.com/t/866016) 
 - [2022-07-13-Android-wechat-到底想干啥？！在后台-CPU-占用到-156%](https://www.v2ex.com/t/866015) 
 - [2022-07-13-一个编程小白关于微信读书的程序构想](https://www.v2ex.com/t/866014) 
 - [2022-07-13-有没有什么-windows-下面好用的命令行工具](https://www.v2ex.com/t/866013) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-07-13 06:18:26，:rocket: 更新条数: +2028， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-07-13 06:49:05，:rocket: 更新条数: +2024， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,10 @@
 </summary>
 
 
+- [2022-07-13-有人懂-cloudflare-跨域嘛](https://www.v2ex.com/t/865911) ![](assets/new.png)  
+- [2022-07-13-求救：-google-中文搜索结果总是出现手机版维基网页而不是桌面版](https://www.v2ex.com/t/865909) ![](assets/new.png)  
+- [2022-07-13-感觉要出大事情了？](https://www.v2ex.com/t/865906) ![](assets/new.png)  
+- [2022-07-13-请问怎么在-powershell-里获取到-git-push-的执行结果？](https://www.v2ex.com/t/865904) ![](assets/new.png)  
 - [2022-07-13-为什么-idea/datagrip-连接数据库特别慢？](https://www.v2ex.com/t/865902) ![](assets/new.png)  
 - [2022-07-13-低代码如何构建支持-OAuth2.0-的后端-Web-API](https://www.v2ex.com/t/865901) ![](assets/new.png)  
 - [2022-07-13-无追扩展-1.6-发布，新增艾特-@搜索侧栏，一键切换搜索引擎](https://www.v2ex.com/t/865900) ![](assets/new.png)  
@@ -507,10 +511,6 @@
 - [2022-07-13-Mac-App-Store-中最新版本的-Office-简体中文本地化文本大量缺失](https://www.v2ex.com/t/865888) ![](assets/new.png)  
 - [2022-07-13-有无办法在不购买-app-的情况下跨区使用余额进行内购](https://www.v2ex.com/t/865887) ![](assets/new.png)  
 - [2022-07-13-Gboard-更改包名](https://www.v2ex.com/t/865886) ![](assets/new.png)  
-- [2022-07-13-关于-macOS-校园网环境下的代理问题](https://www.v2ex.com/t/865885) ![](assets/new.png)  
-- [2022-07-13-iOS16-公测版有发热卡顿掉电快的问题吗](https://www.v2ex.com/t/865883) ![](assets/new.png)  
-- [2022-07-13-计算机相关专业知识的-优质-科普频道、公众号、个人博客、app-等分享/推荐（具体平台不限）](https://www.v2ex.com/t/865880) ![](assets/new.png)  
-- [2022-07-13-我们真的需要担心人工智能吗？](https://www.v2ex.com/t/865879) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -522,6 +522,7 @@
 </summary>
 
 
+- [2022-07-13-CPU是如何进行分支预测的？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15217&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FZ9KWmfCBhCixdkZGEeLStQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-07-13-如何应对团队协作的五大障碍-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15216&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-solve-five-dysfunctions-of-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-07-13-遗留系统的服务拆分-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15215&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fservice-splitting-legacy-systems%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-07-13-Thoughtworks-全球CTO：按需求构建架构，过度工程只会“劳民伤财”-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15214&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftechnology-radar-rebecca-interview%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
@@ -541,7 +542,6 @@
 - [2022-07-13-敏捷教练技术的融合方法-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15200&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fagile-coach-techniques%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-07-13-你还只知道测试金字塔？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15199&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftest-pyramid%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-07-13-疫情下更合适的开发模式-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15198&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fmainline-pull-request-difference%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-07-13-搜索与推荐那些事儿-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15197&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fsearch-and-recommend%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -568,11 +568,11 @@
 - [2022-07-13-.NET-GC工作流程](https://toutiao.io/k/thmiqz3) ![](assets/new.png)  
 - [2022-07-13-如何提高代码的可读性，以-Go-为例！](https://toutiao.io/k/4my5a0t) ![](assets/new.png)  
 - [2022-07-13-Java-中的对象池实现](https://toutiao.io/k/nsaddaz) ![](assets/new.png)  
-- [2022-07-13-10-款更先进的开源命令行工具](https://toutiao.io/k/gmwqnt8) ![](assets/new.png)  
 - [2022-07-13-这个新-Go-错误处理提案，能解决问题不？](https://toutiao.io/k/st74w79) ![](assets/new.png)  
 - [2022-07-13-硅谷来信：Google、Facebook员工的“成长型思维”](https://toutiao.io/k/3d6zyvh) ![](assets/new.png)  
+- [2022-07-13-10-款更先进的开源命令行工具](https://toutiao.io/k/gmwqnt8) ![](assets/new.png)  
 - [2022-07-13-【萌新解题】两数之和](https://toutiao.io/k/zdzsjn1) ![](assets/new.png)  
-- [2022-07-13-推荐-月活-12.8-亿的微信，海量请求下是如何防止崩溃的？](https://toutiao.io/k/fflgnsh) ![](assets/new.png)  
+- [2022-07-13-推荐-服务端监控架构设计与实践](https://toutiao.io/k/xhwa9mo) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

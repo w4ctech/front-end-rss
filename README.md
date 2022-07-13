@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-07-13 01:05:15，:rocket: 更新条数: +2013， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-07-13 03:25:22，:rocket: 更新条数: +2018， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,26 +491,26 @@
 </summary>
 
 
-- [2022-07-13-换了-3-个枕头了还睡的不舒服，请问应该如何正确选枕头？](https://www.v2ex.com/t/865815) ![](assets/new.png)  
-- [2022-07-13-实现"复杂"的转场特效,有常用的库或者推荐看哪方面的资料呢?](https://www.v2ex.com/t/865814) ![](assets/new.png)  
-- [2022-07-13-前端开源项目-Simple-Sheet](https://www.v2ex.com/t/865812) ![](assets/new.png)  
-- [2022-07-13-都说微信不安全，-nMobile-这个靠谱不，什么原理呢](https://www.v2ex.com/t/865811) ![](assets/new.png)  
-- [2022-07-13-想挑战自己装修房子，可行性有多大，](https://www.v2ex.com/t/865810) ![](assets/new.png)  
-- [2022-07-13-有买刚出的小米-book-pro-2022-的朋友吗?体验怎么样](https://www.v2ex.com/t/865809) ![](assets/new.png)  
-- [2022-07-13-如果给一个项目提-PR,项目管理人员不接受,该怎么办?](https://www.v2ex.com/t/865808) ![](assets/new.png)  
-- [2022-07-13-美国-WiFi-长期都是固定-ip-一年也不变化,因为一家人多个微信账号同一个-ip-,微信居然会说网络环境异常封号,还让手持身份证人脸识别,身份证在国内不在美国还无法...](https://www.v2ex.com/t/865807) ![](assets/new.png)  
-- [2022-07-13-请求一下爱快上静态路由怎么写？](https://www.v2ex.com/t/865806) ![](assets/new.png)  
-- [2022-07-13-一直有个疑问，软件开源出去，就不怕竞争对手抄走吗？](https://www.v2ex.com/t/865805) ![](assets/new.png)  
-- [2022-07-13-把手机照片备份出去最快的方法是什么？](https://www.v2ex.com/t/865804) ![](assets/new.png)  
-- [2022-07-13-google-voice-会自动拨打电话么？](https://www.v2ex.com/t/865803) ![](assets/new.png)  
-- [2022-07-12-GV-不能注册-fb-yahoo-wechat-只能用实体号注册了。](https://www.v2ex.com/t/865801) ![](assets/new.png)  
-- [2022-07-12-如何有效缓解焦虑？暴躁？愤怒？（晚上-10-点前休息，大睡一觉即可）亲测有效](https://www.v2ex.com/t/865800) ![](assets/new.png)  
-- [2022-07-12-到底-Mac-下配什么鼠标比较好？](https://www.v2ex.com/t/865798) ![](assets/new.png)  
-- [2022-07-12-iOS14.5-允许禁止访问设备识别符,美团是怎么判断是这个设备之前是否用过的?](https://www.v2ex.com/t/865797) ![](assets/new.png)  
-- [2022-07-12-为什么说要禁止微软自动设备驱动,在-Surface-Pro-7-中遇到的坑](https://www.v2ex.com/t/865796) ![](assets/new.png)  
-- [2022-07-12-纯数字和小写字母会是什么加密](https://www.v2ex.com/t/865795) ![](assets/new.png)  
-- [2022-07-12-关于关系型数据库第二范式的问题:-列之间计算出来的数据,-算违反第二范式么?](https://www.v2ex.com/t/865794) ![](assets/new.png)  
-- [2022-07-12-之前有两年前端工作经验，面试算法工程师会扣分吗？](https://www.v2ex.com/t/865793) ![](assets/new.png)  
+- [2022-07-13-求各位大佬帮忙看下我的简历有没有什么问题，投了几天简历，一个面试都没有](https://www.v2ex.com/t/865866) ![](assets/new.png)  
+- [2022-07-13-请教识别这样子的验证码的思路](https://www.v2ex.com/t/865865) ![](assets/new.png)  
+- [2022-07-13-我可能被智子盯上了，一段写-Flash-的代码，昨天必现一字节出错，今天完全无法复现](https://www.v2ex.com/t/865864) ![](assets/new.png)  
+- [2022-07-13-男篮输给韩国之央视解说](https://www.v2ex.com/t/865862) ![](assets/new.png)  
+- [2022-07-13-请问下-dayjs-怎么在微信小程序的-wxml-页面里面使用？](https://www.v2ex.com/t/865861) ![](assets/new.png)  
+- [2022-07-13-ClientWorker-用规则驱动黑科技-||-一个基于规则的前端路由拦截器](https://www.v2ex.com/t/865860) ![](assets/new.png)  
+- [2022-07-13-Java-注解中-String-类型的-default-一些疑问](https://www.v2ex.com/t/865859) ![](assets/new.png)  
+- [2022-07-13-无奈煲了很久的煲的很好的-Powerbeats-pro-丢了，连充电盒也丢了，丢干净了。想买个新的，不知道-AirPods-pro-降噪功能和非降噪的-Powerbeats-Pro-对于音质影响...](https://www.v2ex.com/t/865858) ![](assets/new.png)  
+- [2022-07-13-哪里有提供健康码/核酸查询接口,-为了展会核验](https://www.v2ex.com/t/865857) ![](assets/new.png)  
+- [2022-07-13-飞书小程序能不能生成二维码携带自定义数据，用飞书扫码后，直接打开小程序获取到数据？](https://www.v2ex.com/t/865855) ![](assets/new.png)  
+- [2022-07-13-并未做任何处理，但两次-toString-结果不一致，为啥？](https://www.v2ex.com/t/865854) ![](assets/new.png)  
+- [2022-07-13-求一个公司内网-web-端的数据可视化方案推荐](https://www.v2ex.com/t/865853) ![](assets/new.png)  
+- [2022-07-13-想问下各位大佬，爸妈的房子没有房产证只有宅基地使用证，可以转让或者买卖吗?](https://www.v2ex.com/t/865852) ![](assets/new.png)  
+- [2022-07-13-有没爱听古琴的？今天算是知道了什么叫“余音绕梁”！](https://www.v2ex.com/t/865851) ![](assets/new.png)  
+- [2022-07-13-想问下你们写项目时是怎么兼顾测试与提交源码的](https://www.v2ex.com/t/865849) ![](assets/new.png)  
+- [2022-07-13-使用支持-websocket-的-cdn-保护-mc-服务器](https://www.v2ex.com/t/865848) ![](assets/new.png)  
+- [2022-07-13-北京的各位，请问平时都怎么挂号啊，我用北医三院-APP-基本都挂不到号，最近颈椎疼想周六日去医院看看](https://www.v2ex.com/t/865846) ![](assets/new.png)  
+- [2022-07-13-相请教一个关于-nginx-的反代的问题](https://www.v2ex.com/t/865844) ![](assets/new.png)  
+- [2022-07-13-98-收点京东-E-卡](https://www.v2ex.com/t/865843) ![](assets/new.png)  
+- [2022-07-13-TG-上一直有陌生人发来消息。隐私里面好像关不掉](https://www.v2ex.com/t/865842) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -522,6 +522,7 @@
 </summary>
 
 
+- [2022-07-13-如何应对团队协作的五大障碍-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15216&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-solve-five-dysfunctions-of-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-07-13-遗留系统的服务拆分-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15215&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fservice-splitting-legacy-systems%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-07-13-Thoughtworks-全球CTO：按需求构建架构，过度工程只会“劳民伤财”-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15214&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftechnology-radar-rebecca-interview%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-07-13-故事点-vs.-人天-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15213&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fagile-estimation-story-points-man-day%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
@@ -541,7 +542,6 @@
 - [2022-07-13-你还只知道测试金字塔？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15199&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftest-pyramid%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-07-13-疫情下更合适的开发模式-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15198&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fmainline-pull-request-difference%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-07-13-搜索与推荐那些事儿-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15197&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fsearch-and-recommend%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-07-13-自动化测试的未来趋势-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15196&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fautomated-testing-trends%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -554,15 +554,21 @@
 
 
 - [2022-07-13-高并发，你真的理解透彻了吗？](https://toutiao.io/k/93k2zfb) ![](assets/new.png)  
+- [2022-07-13-他来了！性能吊打-Node.js-和-Deno-的新一代-javaScript-运行时！](https://toutiao.io/k/jbcbma9) ![](assets/new.png)  
 - [2022-07-13-Kubernetes网络插件详解---Flannel篇](https://toutiao.io/k/a1mop7y) ![](assets/new.png)  
 - [2022-07-13-浅析-Apache-Kafka-分区重分配的实现原理](https://toutiao.io/k/grkgf9a) ![](assets/new.png)  
-- [2022-07-13-他来了！性能吊打-Node.js-和-Deno-的新一代-javaScript-运行时！](https://toutiao.io/k/jbcbma9) ![](assets/new.png)  
-- [2022-07-13-go-zero微服务实战系列（十一、大结局）](https://toutiao.io/k/y9sm0j9) ![](assets/new.png)  
 - [2022-07-13-一种快速判断点在多边形内的算法---sunsky303---博客园](https://toutiao.io/k/tk72sfy) ![](assets/new.png)  
+- [2022-07-13-go-zero微服务实战系列（十一、大结局）](https://toutiao.io/k/y9sm0j9) ![](assets/new.png)  
 - [2022-07-13-分布式一致性协议之领导人选举-DotNext.Net.Cluster-实现Raft-选举-](https://toutiao.io/k/y9y9gfa) ![](assets/new.png)  
+- [2022-07-13-不知道怎么解耦业务？Spring-Event-了解一下！](https://toutiao.io/k/tn4ht3k) ![](assets/new.png)  
+- [2022-07-13-10亿+/秒！看阿里如何搞定实时数仓高吞吐实时写入与更新](https://toutiao.io/k/m3b54fe) ![](assets/new.png)  
+- [2022-07-13-Android-实现小红书登陆页面背景图无限滚动效果](https://toutiao.io/k/8n4xc6b) ![](assets/new.png)  
+- [2022-07-13-.NET-GC工作流程](https://toutiao.io/k/thmiqz3) ![](assets/new.png)  
+- [2022-07-13-千万级可观测数据采集器--iLogtail代码完整开源](https://toutiao.io/k/v6w6362) ![](assets/new.png)  
+- [2022-07-13-React-Hooks-使用大全（包括-React18）巨全！](https://toutiao.io/k/v8fygfd) ![](assets/new.png)  
+- [2022-07-13-推荐-服务端监控架构设计与实践](https://toutiao.io/k/xhwa9mo) ![](assets/new.png)  
 - [2022-07-13-推荐-吐血整理：一份不可多得的架构师图谱！](https://toutiao.io/k/ptp0ru2) ![](assets/new.png)  
 - [2022-07-13-推荐-月活-12.8-亿的微信，海量请求下是如何防止崩溃的？](https://toutiao.io/k/fflgnsh) ![](assets/new.png)  
-- [2022-07-13-推荐-服务端监控架构设计与实践](https://toutiao.io/k/xhwa9mo) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

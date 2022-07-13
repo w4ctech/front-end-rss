@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-07-13 22:40:17，:rocket: 更新条数: +2027， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-07-13 23:03:19，:rocket: 更新条数: +2027， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -572,7 +572,7 @@
 - [2022-07-13-这个新-Go-错误处理提案，能解决问题不？](https://toutiao.io/k/st74w79) ![](assets/new.png)  
 - [2022-07-13-硅谷来信：Google、Facebook员工的“成长型思维”](https://toutiao.io/k/3d6zyvh) ![](assets/new.png)  
 - [2022-07-13-【萌新解题】两数之和](https://toutiao.io/k/zdzsjn1) ![](assets/new.png)  
-- [2022-07-13-推荐-月活-12.8-亿的微信，海量请求下是如何防止崩溃的？](https://toutiao.io/k/fflgnsh) ![](assets/new.png)  
+- [2022-07-13-推荐-服务端监控架构设计与实践](https://toutiao.io/k/xhwa9mo) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

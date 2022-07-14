@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-14 05:49:00。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-14 06:17:58。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -16,4 +16,5 @@
 - [2022-06-12-基于文字的URL锚点定位与::target-text样式设置](https://www.zhangxinxu.com/wordpress/2022/06/url-anchor-target-text/) 
 - [2022-07-14-Safari-手势-bug](https://www.v2ex.com/t/866120) 
 - [2022-07-14-企业安全建设实践路程思考](https://toutiao.io/k/73fgie6) 
+- [2022-07-14-有趣有料！一次零信任网络安全架构的认知升级](https://toutiao.io/k/f2lyrob) 
 - [2022-07-14-推荐-月活-12.8-亿的微信，海量请求下是如何防止崩溃的？](https://toutiao.io/k/fflgnsh) 

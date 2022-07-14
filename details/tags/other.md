@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-14 04:45:34。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-14 05:28:44。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,10 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-07-14-Macbook-Pro-合盖连外接显示器是不是散热不好？得升级电脑了](https://www.v2ex.com/t/866124) 
+- [2022-07-14-有没有折腾高通-410WiFi-棒（UFI）的](https://www.v2ex.com/t/866123) 
+- [2022-07-14-Yoyo-Ma-实在听腻了,-但只有听大提琴才能进入-flow](https://www.v2ex.com/t/866122) 
+- [2022-07-14-rabbitmq-问题请教](https://www.v2ex.com/t/866117) 
 - [2022-07-14-深圳万邑通公司怎么样？](https://www.v2ex.com/t/866115) 
 - [2022-07-14-洗手池下面的光带叫什么?](https://www.v2ex.com/t/866113) 
 - [2022-07-14-因为不了解-AWS-付费模式，被自己坑了，哭](https://www.v2ex.com/t/866111) 
@@ -1934,11 +1938,6 @@
 - [2022-07-14-今天吃什么选择器](https://www.v2ex.com/t/866080) 
 - [2022-07-14-饿了么-CDN-不能用了吗](https://www.v2ex.com/t/866076) 
 - [2022-07-14-前端做自适应，是否需要做成两套代码，手机端和电脑端分开维护？](https://www.v2ex.com/t/866075) 
-- [2022-07-14-有没有什么-PC-上一起听歌的服务](https://www.v2ex.com/t/866074) 
-- [2022-07-14-我的环境项目是否有必要支持到-windows？](https://www.v2ex.com/t/866073) 
-- [2022-07-14-广电-5G-不能开个人热点？](https://www.v2ex.com/t/866071) 
-- [2022-07-14-外包也太卷了吧](https://www.v2ex.com/t/866070) 
-- [2022-07-14-历时一年，我完成了人生第一场官司，并拿回了租房押金](https://www.v2ex.com/t/866067) 
 - [2022-07-14-DDD-中的几个困难问题-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15218&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fdifficult-problems-in-domain-driven-design%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-14-CPU是如何进行分支预测的？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15217&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FZ9KWmfCBhCixdkZGEeLStQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-14-如何应对团队协作的五大障碍-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15216&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-solve-five-dysfunctions-of-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1957,8 +1956,8 @@
 - [2022-07-14-敏捷教练技术的融合方法-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15200&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fagile-coach-techniques%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-14-你还只知道测试金字塔？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15199&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftest-pyramid%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-14-为什么我饿了么技术总监不干，却要从事自由职业？](https://toutiao.io/k/hpupzay) 
-- [2022-07-14-阿里规约手动创建线程池，我为什么还继续使用Executors呢？](https://toutiao.io/k/owwky6z) 
 - [2022-07-14-国内竟然也有这种级别的开源项目？万万没想到！](https://toutiao.io/k/dgo2iwb) 
+- [2022-07-14-阿里规约手动创建线程池，我为什么还继续使用Executors呢？](https://toutiao.io/k/owwky6z) 
 - [2022-07-14-什么是反弹-Shell？](https://toutiao.io/k/ltdnh1m) 
 - [2022-07-14-0到1搭建企业级数据治理体系](https://toutiao.io/k/kibmqqk) 
 - [2022-07-14-60种特征工程操作：使用自定义聚合函数](https://toutiao.io/k/olfd13m) 

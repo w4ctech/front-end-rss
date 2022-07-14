@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-14 04:45:34。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-07-14 05:28:44。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,12 @@
 </summary>
 
 
+- [【V2EX】2022-07-14-Macbook-Pro-合盖连外接显示器是不是散热不好？得升级电脑了](https://www.v2ex.com/t/866124) 
+- [【V2EX】2022-07-14-有没有折腾高通-410WiFi-棒（UFI）的](https://www.v2ex.com/t/866123) 
+- [【V2EX】2022-07-14-Yoyo-Ma-实在听腻了,-但只有听大提琴才能进入-flow](https://www.v2ex.com/t/866122) 
+- [【V2EX】2022-07-14-付费开发-找一个小程序和一个后端开发](https://www.v2ex.com/t/866121) 
+- [【V2EX】2022-07-14-Safari-手势-bug](https://www.v2ex.com/t/866120) 
+- [【V2EX】2022-07-14-rabbitmq-问题请教](https://www.v2ex.com/t/866117) 
 - [【V2EX】2022-07-14-如果面试时以能力不足被压低工资，工作后给的活以能力不足来应付，是否逻辑自洽](https://www.v2ex.com/t/866116) 
 - [【V2EX】2022-07-14-深圳万邑通公司怎么样？](https://www.v2ex.com/t/866115) 
 - [【V2EX】2022-07-14-洗手池下面的光带叫什么?](https://www.v2ex.com/t/866113) 
@@ -101,11 +107,6 @@
 - [【V2EX】2022-07-14-请教个关于-vue3-中根节点需不需的问题](https://www.v2ex.com/t/866079) 
 - [【V2EX】2022-07-14-饿了么-CDN-不能用了吗](https://www.v2ex.com/t/866076) 
 - [【V2EX】2022-07-14-前端做自适应，是否需要做成两套代码，手机端和电脑端分开维护？](https://www.v2ex.com/t/866075) 
-- [【V2EX】2022-07-14-有没有什么-PC-上一起听歌的服务](https://www.v2ex.com/t/866074) 
-- [【V2EX】2022-07-14-我的环境项目是否有必要支持到-windows？](https://www.v2ex.com/t/866073) 
-- [【V2EX】2022-07-14-广电-5G-不能开个人热点？](https://www.v2ex.com/t/866071) 
-- [【V2EX】2022-07-14-外包也太卷了吧](https://www.v2ex.com/t/866070) 
-- [【V2EX】2022-07-14-历时一年，我完成了人生第一场官司，并拿回了租房押金](https://www.v2ex.com/t/866067) 
 - [【技术头条】2022-07-14-DDD-中的几个困难问题-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15218&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fdifficult-problems-in-domain-driven-design%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-14-CPU是如何进行分支预测的？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15217&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FZ9KWmfCBhCixdkZGEeLStQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-14-如何应对团队协作的五大障碍-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15216&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-solve-five-dysfunctions-of-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -127,8 +128,8 @@
 - [【技术头条】2022-07-14-敏捷教练技术的融合方法-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15200&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fagile-coach-techniques%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-14-你还只知道测试金字塔？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15199&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftest-pyramid%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【开发者头条】2022-07-14-为什么我饿了么技术总监不干，却要从事自由职业？](https://toutiao.io/k/hpupzay) 
-- [【开发者头条】2022-07-14-阿里规约手动创建线程池，我为什么还继续使用Executors呢？](https://toutiao.io/k/owwky6z) 
 - [【开发者头条】2022-07-14-国内竟然也有这种级别的开源项目？万万没想到！](https://toutiao.io/k/dgo2iwb) 
+- [【开发者头条】2022-07-14-阿里规约手动创建线程池，我为什么还继续使用Executors呢？](https://toutiao.io/k/owwky6z) 
 - [【开发者头条】2022-07-14-什么是反弹-Shell？](https://toutiao.io/k/ltdnh1m) 
 - [【开发者头条】2022-07-14-干货-|-基于ClickHouse的复杂查询实现与优化](https://toutiao.io/k/zv87ntj) 
 - [【开发者头条】2022-07-14-企业安全建设实践路程思考](https://toutiao.io/k/73fgie6) 
@@ -138,8 +139,8 @@
 - [【开发者头条】2022-07-14-案例推荐｜千亿级、大规模：腾讯超大-Apache-Pulsar-集群性能调优实践](https://toutiao.io/k/vfiy9j8) 
 - [【开发者头条】2022-07-14-60种特征工程操作：使用自定义聚合函数](https://toutiao.io/k/olfd13m) 
 - [【开发者头条】2022-07-14-千万级可观测数据采集器--iLogtail代码完整开源](https://toutiao.io/k/zs5ni28) 
-- [【开发者头条】2022-07-14-推荐-服务端监控架构设计与实践](https://toutiao.io/k/xhwa9mo) 
 - [【开发者头条】2022-07-14-推荐-月活-12.8-亿的微信，海量请求下是如何防止崩溃的？](https://toutiao.io/k/fflgnsh) 
+- [【开发者头条】2022-07-14-推荐-服务端监控架构设计与实践](https://toutiao.io/k/xhwa9mo) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

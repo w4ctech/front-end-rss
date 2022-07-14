@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-07-14 08:46:16，:rocket: 更新条数: +2019， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-07-14 09:15:12，:rocket: 更新条数: +2021， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,15 @@
 </summary>
 
 
+- [2022-07-14-飞书不能发送代码块？](https://www.v2ex.com/t/866197) ![](assets/new.png)  
+- [2022-07-14-现在怎么安装-gcc-i686--Linux--android](https://www.v2ex.com/t/866196) ![](assets/new.png)  
+- [2022-07-14-新加坡区自用-还剩-3-个车位](https://www.v2ex.com/t/866195) ![](assets/new.png)  
+- [2022-07-14-《山月记》摘录](https://www.v2ex.com/t/866194) ![](assets/new.png)  
+- [2022-07-14-RunJS-插件版内测](https://www.v2ex.com/t/866193) ![](assets/new.png)  
+- [2022-07-14-Java-多模块项目如何封装统一的配置信息](https://www.v2ex.com/t/866192) ![](assets/new.png)  
+- [2022-07-14-macOS-Ventura-登陆项-允许在后台-App-是怎么删除的](https://www.v2ex.com/t/866190) ![](assets/new.png)  
+- [2022-07-14-发一个-surge4-的车](https://www.v2ex.com/t/866189) ![](assets/new.png)  
+- [2022-07-14-国内公司的商业软件正版率如何](https://www.v2ex.com/t/866188) ![](assets/new.png)  
 - [2022-07-14-为什么浏览器不能通过自签名的一级泛域名证书验证](https://www.v2ex.com/t/866186) ![](assets/new.png)  
 - [2022-07-14-请问各位大佬，如何在赛事直播中插入计分板/比分版？（类似篮球、足球、电竞）](https://www.v2ex.com/t/866185) ![](assets/new.png)  
 - [2022-07-14-更了-ios16-后，钉钉几乎每天都要重新登陆，你们会吗？](https://www.v2ex.com/t/866184) ![](assets/new.png)  
@@ -502,15 +511,6 @@
 - [2022-07-14-电子邮件中如何显示图片？](https://www.v2ex.com/t/866174) ![](assets/new.png)  
 - [2022-07-14-误删/data/system/packages.xml-文件，手机无法开机](https://www.v2ex.com/t/866173) ![](assets/new.png)  
 - [2022-07-14-openwrt-逻辑扇区大小识别错误](https://www.v2ex.com/t/866172) ![](assets/new.png)  
-- [2022-07-14-记录理停车场邻居贴边停问题，历时半年](https://www.v2ex.com/t/866170) ![](assets/new.png)  
-- [2022-07-14-云服务商提供的相比-Intel-更便宜的-AMD-服务器有什么坑吗？](https://www.v2ex.com/t/866169) ![](assets/new.png)  
-- [2022-07-14-最近有没有去过新疆的,核酸怎么处理的?](https://www.v2ex.com/t/866167) ![](assets/new.png)  
-- [2022-07-14-如何给方法起名？](https://www.v2ex.com/t/866166) ![](assets/new.png)  
-- [2022-07-14-JVM-相关-为什么说-Class-文件格式里面可以字段重名？](https://www.v2ex.com/t/866165) ![](assets/new.png)  
-- [2022-07-14-Simplenote-好像有点问题](https://www.v2ex.com/t/866164) ![](assets/new.png)  
-- [2022-07-14-外面联通副卡资费改-0-资费](https://www.v2ex.com/t/866163) ![](assets/new.png)  
-- [2022-07-14-需要多长时间灯泡才能点亮](https://www.v2ex.com/t/866160) ![](assets/new.png)  
-- [2022-07-14-想学营养师，有经验的-v-友能否帮个忙解答？](https://www.v2ex.com/t/866159) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -567,10 +567,10 @@
 - [2022-07-14-千万级可观测数据采集器--iLogtail代码完整开源](https://toutiao.io/k/zs5ni28) ![](assets/new.png)  
 - [2022-07-14-DDD-中的几个困难问题](https://toutiao.io/k/t1w1biw) ![](assets/new.png)  
 - [2022-07-14-正则表达式备忘清单](https://toutiao.io/k/dxabksk) ![](assets/new.png)  
-- [2022-07-14-有趣有料！一次零信任网络安全架构的认知升级](https://toutiao.io/k/f2lyrob) ![](assets/new.png)  
 - [2022-07-14-mrr36k是如何做到的](https://toutiao.io/k/tip8g4o) ![](assets/new.png)  
-- [2022-07-14-推荐-月活-12.8-亿的微信，海量请求下是如何防止崩溃的？](https://toutiao.io/k/fflgnsh) ![](assets/new.png)  
+- [2022-07-14-有趣有料！一次零信任网络安全架构的认知升级](https://toutiao.io/k/f2lyrob) ![](assets/new.png)  
 - [2022-07-14-推荐-服务端监控架构设计与实践](https://toutiao.io/k/xhwa9mo) ![](assets/new.png)  
+- [2022-07-14-推荐-月活-12.8-亿的微信，海量请求下是如何防止崩溃的？](https://toutiao.io/k/fflgnsh) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-07-14 08:18:18，:rocket: 更新条数: +2016， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-07-14 08:46:16，:rocket: 更新条数: +2019， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,15 @@
 </summary>
 
 
+- [2022-07-14-为什么浏览器不能通过自签名的一级泛域名证书验证](https://www.v2ex.com/t/866186) ![](assets/new.png)  
+- [2022-07-14-请问各位大佬，如何在赛事直播中插入计分板/比分版？（类似篮球、足球、电竞）](https://www.v2ex.com/t/866185) ![](assets/new.png)  
+- [2022-07-14-更了-ios16-后，钉钉几乎每天都要重新登陆，你们会吗？](https://www.v2ex.com/t/866184) ![](assets/new.png)  
+- [2022-07-14-obsidian-目前最完美的免费发布方案---渐进式教程](https://www.v2ex.com/t/866182) ![](assets/new.png)  
+- [2022-07-14-Mac-终端-Login-incorrect](https://www.v2ex.com/t/866181) ![](assets/new.png)  
+- [2022-07-14-淘宝的-Google-二手-pixel，-98-新，-3800，能冲吗？](https://www.v2ex.com/t/866180) ![](assets/new.png)  
+- [2022-07-14-上海求内推前端岗位,6-年前端,刚从美团毕业](https://www.v2ex.com/t/866179) ![](assets/new.png)  
+- [2022-07-14-iPhone-可以热点分享代理么？](https://www.v2ex.com/t/866177) ![](assets/new.png)  
+- [2022-07-14-电子邮件中如何显示图片？](https://www.v2ex.com/t/866174) ![](assets/new.png)  
 - [2022-07-14-误删/data/system/packages.xml-文件，手机无法开机](https://www.v2ex.com/t/866173) ![](assets/new.png)  
 - [2022-07-14-openwrt-逻辑扇区大小识别错误](https://www.v2ex.com/t/866172) ![](assets/new.png)  
 - [2022-07-14-记录理停车场邻居贴边停问题，历时半年](https://www.v2ex.com/t/866170) ![](assets/new.png)  
@@ -502,15 +511,6 @@
 - [2022-07-14-外面联通副卡资费改-0-资费](https://www.v2ex.com/t/866163) ![](assets/new.png)  
 - [2022-07-14-需要多长时间灯泡才能点亮](https://www.v2ex.com/t/866160) ![](assets/new.png)  
 - [2022-07-14-想学营养师，有经验的-v-友能否帮个忙解答？](https://www.v2ex.com/t/866159) ![](assets/new.png)  
-- [2022-07-14-集思广益-迫于还想折腾一下，开了个新坑，求大家帮忙一起想一下名称-护肤类-App-产品](https://www.v2ex.com/t/866156) ![](assets/new.png)  
-- [2022-07-14-Chrome-浏览器的配置从-A-机移植到-B-机，扩展丢失的问题](https://www.v2ex.com/t/866155) ![](assets/new.png)  
-- [2022-07-14-《微信阅读》开始割韭菜](https://www.v2ex.com/t/866154) ![](assets/new.png)  
-- [2022-07-14-感觉-Windows-平板是个很好的方向，电脑厂商们请多多投入](https://www.v2ex.com/t/866153) ![](assets/new.png)  
-- [2022-07-14-当爹的程序员,能为孩子的教育做点什么贡献?](https://www.v2ex.com/t/866151) ![](assets/new.png)  
-- [2022-07-14-请问:-哪里能下载到-tailwindCSS-的组件库?](https://www.v2ex.com/t/866150) ![](assets/new.png)  
-- [2022-07-14-用-M1-Mac-mini-做-NAS-怎么样？是不是一个更划算的选择？](https://www.v2ex.com/t/866149) ![](assets/new.png)  
-- [2022-07-14-求帮忙下载华为官网的-FusionServer-iDriver-CentOS7.6-Driver-V116.zip](https://www.v2ex.com/t/866148) ![](assets/new.png)  
-- [2022-07-14-顺丰是真的越来越不行了啊](https://www.v2ex.com/t/866146) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

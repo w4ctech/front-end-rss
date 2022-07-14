@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-14 08:18:18。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-07-14 08:46:16。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,15 @@
 </summary>
 
 
+- [【V2EX】2022-07-14-为什么浏览器不能通过自签名的一级泛域名证书验证](https://www.v2ex.com/t/866186) 
+- [【V2EX】2022-07-14-请问各位大佬，如何在赛事直播中插入计分板/比分版？（类似篮球、足球、电竞）](https://www.v2ex.com/t/866185) 
+- [【V2EX】2022-07-14-更了-ios16-后，钉钉几乎每天都要重新登陆，你们会吗？](https://www.v2ex.com/t/866184) 
+- [【V2EX】2022-07-14-obsidian-目前最完美的免费发布方案---渐进式教程](https://www.v2ex.com/t/866182) 
+- [【V2EX】2022-07-14-Mac-终端-Login-incorrect](https://www.v2ex.com/t/866181) 
+- [【V2EX】2022-07-14-淘宝的-Google-二手-pixel，-98-新，-3800，能冲吗？](https://www.v2ex.com/t/866180) 
+- [【V2EX】2022-07-14-上海求内推前端岗位,6-年前端,刚从美团毕业](https://www.v2ex.com/t/866179) 
+- [【V2EX】2022-07-14-iPhone-可以热点分享代理么？](https://www.v2ex.com/t/866177) 
+- [【V2EX】2022-07-14-电子邮件中如何显示图片？](https://www.v2ex.com/t/866174) 
 - [【V2EX】2022-07-14-误删/data/system/packages.xml-文件，手机无法开机](https://www.v2ex.com/t/866173) 
 - [【V2EX】2022-07-14-openwrt-逻辑扇区大小识别错误](https://www.v2ex.com/t/866172) 
 - [【V2EX】2022-07-14-记录理停车场邻居贴边停问题，历时半年](https://www.v2ex.com/t/866170) 
@@ -94,12 +103,6 @@
 - [【V2EX】2022-07-14-听说-u2723qx-浏览网页撕裂感很强，想问问是真的吗，主办公，偶尔打打游戏体验会很差吗](https://www.v2ex.com/t/866140) 
 - [【V2EX】2022-07-14-远程职位-{交易所->风控运营->交易所撮合清算开发}](https://www.v2ex.com/t/866139) 
 - [【V2EX】2022-07-14-杭州已经-40-度了，打伞的男生多么](https://www.v2ex.com/t/866138) 
-- [【V2EX】2022-07-14-聊聊-API-管理-开源版-到-SaaS-版](https://www.v2ex.com/t/866136) 
-- [【V2EX】2022-07-14-技术没法专一咋办？或者如何成为一名专家。](https://www.v2ex.com/t/866134) 
-- [【V2EX】2022-07-14-返校季提问，显示-m1-丐版-air-想升级-14...是不是-pdd-更香？](https://www.v2ex.com/t/866132) 
-- [【V2EX】2022-07-14-提问帖-C++-Primer-12.1.3-章节中-shared_prt-的-reset-成员与-unique-一起使用的示例的意思](https://www.v2ex.com/t/866130) 
-- [【V2EX】2022-07-14-已下单返校优惠-14-pro-32-512](https://www.v2ex.com/t/866127) 
-- [【V2EX】2022-07-14-Macbook-Pro-合盖连外接显示器是不是散热不好？得升级电脑了](https://www.v2ex.com/t/866124) 
 - [【技术头条】2022-07-14-DDD-中的几个困难问题-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15218&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fdifficult-problems-in-domain-driven-design%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-14-CPU是如何进行分支预测的？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15217&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FZ9KWmfCBhCixdkZGEeLStQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-14-如何应对团队协作的五大障碍-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15216&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-solve-five-dysfunctions-of-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

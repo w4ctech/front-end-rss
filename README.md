@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-07-14 19:37:16，:rocket: 更新条数: +2021， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-07-14 20:15:40，:rocket: 更新条数: +2020， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-07-14-iPhone-X-运行-iOS-16-跟-iOS-14-比续航差别大吗？](https://www.v2ex.com/t/866287) ![](assets/new.png)  
 - [2022-07-14-上海-7-年前端求职求内推，低学历硬伤专科](https://www.v2ex.com/t/866285) ![](assets/new.png)  
 - [2022-07-14-GitHub-Copilot-开源项目免费的标准到底是什么？](https://www.v2ex.com/t/866284) ![](assets/new.png)  
 - [2022-07-14-某宝某鱼有大量低价戴尔雷电-3-数据线销售](https://www.v2ex.com/t/866283) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-07-14-xdm，-speedtest-GuangZhou-Telecom-节点怎么没有了呀](https://www.v2ex.com/t/866265) ![](assets/new.png)  
 - [2022-07-14-pttime-网站挂了吗？](https://www.v2ex.com/t/866264) ![](assets/new.png)  
 - [2022-07-14-M2-Air-评测出来了，午夜色还是星光色呢？](https://www.v2ex.com/t/866263) ![](assets/new.png)  
-- [2022-07-14-100w-的充电器能输出-90w-吗？](https://www.v2ex.com/t/866259) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

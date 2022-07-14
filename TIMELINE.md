@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-14 19:37:16。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-07-14 20:15:40。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,7 @@
 </summary>
 
 
+- [【V2EX】2022-07-14-iPhone-X-运行-iOS-16-跟-iOS-14-比续航差别大吗？](https://www.v2ex.com/t/866287) 
 - [【V2EX】2022-07-14-上海-7-年前端求职求内推，低学历硬伤专科](https://www.v2ex.com/t/866285) 
 - [【V2EX】2022-07-14-GitHub-Copilot-开源项目免费的标准到底是什么？](https://www.v2ex.com/t/866284) 
 - [【V2EX】2022-07-14-某宝某鱼有大量低价戴尔雷电-3-数据线销售](https://www.v2ex.com/t/866283) 
@@ -103,8 +104,6 @@
 - [【V2EX】2022-07-14-新-air-的媒体评测解禁了](https://www.v2ex.com/t/866241) 
 - [【V2EX】2022-07-14-free-key-admin-自由钥匙---一个-V2EX-风格-go-语言写的个人的后台管理系统，-gofram+html+css+js+jquery服务端渲染，有朋友喜欢吗？](https://www.v2ex.com/t/866240) 
 - [【V2EX】2022-07-14-MBP-选择](https://www.v2ex.com/t/866239) 
-- [【V2EX】2022-07-14-chmod-u+s-无法设置权限](https://www.v2ex.com/t/866237) 
-- [【V2EX】2022-07-14-求个电影名？](https://www.v2ex.com/t/866236) 
 - [【技术头条】2022-07-14-DDD-中的几个困难问题-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15218&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fdifficult-problems-in-domain-driven-design%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-14-CPU是如何进行分支预测的？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15217&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FZ9KWmfCBhCixdkZGEeLStQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-14-如何应对团队协作的五大障碍-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15216&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-solve-five-dysfunctions-of-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

@@ -9953,6 +9953,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "如何通过网页链接打开健康码？",
+        "link": "https://www.v2ex.com/t/866289",
+        "date": "2022-07-14"
+      },
+      {
         "title": "[请问: tailwindCSS 如何创建封装公共类?]",
         "link": "https://www.v2ex.com/t/866288",
         "date": "2022-07-14"
@@ -10130,11 +10135,6 @@
       {
         "title": "free key admin 自由钥匙 - 一个 V2EX 风格 go 语言写的个人的后台管理系统， gofram+html+css+js+jquery(服务端渲染)，有朋友喜欢吗？",
         "link": "https://www.v2ex.com/t/866240",
-        "date": "2022-07-14"
-      },
-      {
-        "title": "MBP 选择",
-        "link": "https://www.v2ex.com/t/866239",
         "date": "2022-07-14"
       }
     ]

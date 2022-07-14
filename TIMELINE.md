@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-14 12:30:31。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-07-14 13:14:35。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,13 @@
 </summary>
 
 
+- [【V2EX】2022-07-14-signal-收不到天朝的验证码](https://www.v2ex.com/t/866242) 
+- [【V2EX】2022-07-14-新-air-的媒体评测解禁了](https://www.v2ex.com/t/866241) 
+- [【V2EX】2022-07-14-free-key-admin-自由钥匙---一个-V2EX-风格-go-语言写的个人的后台管理系统，-gofram+html+css+js+jquery服务端渲染，有朋友喜欢吗？](https://www.v2ex.com/t/866240) 
+- [【V2EX】2022-07-14-MBP-选择](https://www.v2ex.com/t/866239) 
+- [【V2EX】2022-07-14-chmod-u+s-无法设置权限](https://www.v2ex.com/t/866237) 
+- [【V2EX】2022-07-14-求个电影名？](https://www.v2ex.com/t/866236) 
+- [【V2EX】2022-07-14-做了个从-Json/Xml/Yaml-转换到-Go/-Python-/Rust-的小网站](https://www.v2ex.com/t/866235) 
 - [【V2EX】2022-07-14-tail-/dev/zero-有默认的内存上限吗？](https://www.v2ex.com/t/866233) 
 - [【V2EX】2022-07-14-上海张江找个室友一起住](https://www.v2ex.com/t/866232) 
 - [【V2EX】2022-07-14-Google-Play-绑定的信用卡突然被锁区了](https://www.v2ex.com/t/866230) 
@@ -103,12 +110,6 @@
 - [【V2EX】2022-07-14-新加坡区自用-还剩-3-个车位](https://www.v2ex.com/t/866195) 
 - [【V2EX】2022-07-14-《山月记》摘录](https://www.v2ex.com/t/866194) 
 - [【V2EX】2022-07-14-RunJS-插件版内测](https://www.v2ex.com/t/866193) 
-- [【V2EX】2022-07-14-Java-多模块项目如何封装统一的配置信息](https://www.v2ex.com/t/866192) 
-- [【V2EX】2022-07-14-macOS-Ventura-登陆项-允许在后台-App-是怎么删除的](https://www.v2ex.com/t/866190) 
-- [【V2EX】2022-07-14-发一个-surge4-的车](https://www.v2ex.com/t/866189) 
-- [【V2EX】2022-07-14-国内公司的商业软件正版率如何](https://www.v2ex.com/t/866188) 
-- [【V2EX】2022-07-14-为什么浏览器不能通过自签名的一级泛域名证书验证](https://www.v2ex.com/t/866186) 
-- [【V2EX】2022-07-14-请问各位大佬，如何在赛事直播中插入计分板/比分版？（类似篮球、足球、电竞）](https://www.v2ex.com/t/866185) 
 - [【技术头条】2022-07-14-DDD-中的几个困难问题-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15218&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fdifficult-problems-in-domain-driven-design%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-14-CPU是如何进行分支预测的？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15217&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FZ9KWmfCBhCixdkZGEeLStQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-14-如何应对团队协作的五大障碍-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15216&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-solve-five-dysfunctions-of-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -131,15 +132,15 @@
 - [【技术头条】2022-07-14-你还只知道测试金字塔？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15199&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftest-pyramid%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【开发者头条】2022-07-14-为什么我饿了么技术总监不干，却要从事自由职业？](https://toutiao.io/k/hpupzay) 
 - [【开发者头条】2022-07-14-国内竟然也有这种级别的开源项目？万万没想到！](https://toutiao.io/k/dgo2iwb) 
-- [【开发者头条】2022-07-14-阿里规约手动创建线程池，我为什么还继续使用Executors呢？](https://toutiao.io/k/owwky6z) 
 - [【开发者头条】2022-07-14-什么是反弹-Shell？](https://toutiao.io/k/ltdnh1m) 
+- [【开发者头条】2022-07-14-阿里规约手动创建线程池，我为什么还继续使用Executors呢？](https://toutiao.io/k/owwky6z) 
 - [【开发者头条】2022-07-14-0到1搭建企业级数据治理体系](https://toutiao.io/k/kibmqqk) 
 - [【开发者头条】2022-07-14-干货-|-基于ClickHouse的复杂查询实现与优化](https://toutiao.io/k/zv87ntj) 
 - [【开发者头条】2022-07-14-企业安全建设实践路程思考](https://toutiao.io/k/73fgie6) 
 - [【开发者头条】2022-07-14-案例推荐｜千亿级、大规模：腾讯超大-Apache-Pulsar-集群性能调优实践](https://toutiao.io/k/vfiy9j8) 
 - [【开发者头条】2022-07-14-围绕Vue-3-Composition-API构建一个应用程序，包含一些最佳实践！](https://toutiao.io/k/qqlzah4) 
-- [【开发者头条】2022-07-14-拍下宇宙的韦伯空间望远镜，其飞行软件采用C++编写、内置定制的JS解释器](https://toutiao.io/k/a3bji3i) 
 - [【开发者头条】2022-07-14-DDD-中的几个困难问题](https://toutiao.io/k/t1w1biw) 
+- [【开发者头条】2022-07-14-拍下宇宙的韦伯空间望远镜，其飞行软件采用C++编写、内置定制的JS解释器](https://toutiao.io/k/a3bji3i) 
 - [【开发者头条】2022-07-14-千万级可观测数据采集器--iLogtail代码完整开源](https://toutiao.io/k/zs5ni28) 
 - [【开发者头条】2022-07-14-60种特征工程操作：使用自定义聚合函数](https://toutiao.io/k/olfd13m) 
 - [【开发者头条】2022-07-14-正则表达式备忘清单](https://toutiao.io/k/dxabksk) 

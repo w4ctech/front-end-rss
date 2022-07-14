@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-14 12:30:31。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-14 13:14:35。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,11 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-07-14-signal-收不到天朝的验证码](https://www.v2ex.com/t/866242) 
+- [2022-07-14-新-air-的媒体评测解禁了](https://www.v2ex.com/t/866241) 
+- [2022-07-14-MBP-选择](https://www.v2ex.com/t/866239) 
+- [2022-07-14-chmod-u+s-无法设置权限](https://www.v2ex.com/t/866237) 
+- [2022-07-14-求个电影名？](https://www.v2ex.com/t/866236) 
 - [2022-07-14-tail-/dev/zero-有默认的内存上限吗？](https://www.v2ex.com/t/866233) 
 - [2022-07-14-上海张江找个室友一起住](https://www.v2ex.com/t/866232) 
 - [2022-07-14-Google-Play-绑定的信用卡突然被锁区了](https://www.v2ex.com/t/866230) 
@@ -1938,10 +1943,6 @@
 - [2022-07-14-现在怎么安装-gcc-i686--Linux--android](https://www.v2ex.com/t/866196) 
 - [2022-07-14-新加坡区自用-还剩-3-个车位](https://www.v2ex.com/t/866195) 
 - [2022-07-14-《山月记》摘录](https://www.v2ex.com/t/866194) 
-- [2022-07-14-Java-多模块项目如何封装统一的配置信息](https://www.v2ex.com/t/866192) 
-- [2022-07-14-macOS-Ventura-登陆项-允许在后台-App-是怎么删除的](https://www.v2ex.com/t/866190) 
-- [2022-07-14-发一个-surge4-的车](https://www.v2ex.com/t/866189) 
-- [2022-07-14-国内公司的商业软件正版率如何](https://www.v2ex.com/t/866188) 
 - [2022-07-14-DDD-中的几个困难问题-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15218&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fdifficult-problems-in-domain-driven-design%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-14-CPU是如何进行分支预测的？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15217&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FZ9KWmfCBhCixdkZGEeLStQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-14-如何应对团队协作的五大障碍-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15216&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-solve-five-dysfunctions-of-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1961,8 +1962,8 @@
 - [2022-07-14-你还只知道测试金字塔？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15199&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftest-pyramid%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-14-为什么我饿了么技术总监不干，却要从事自由职业？](https://toutiao.io/k/hpupzay) 
 - [2022-07-14-国内竟然也有这种级别的开源项目？万万没想到！](https://toutiao.io/k/dgo2iwb) 
-- [2022-07-14-阿里规约手动创建线程池，我为什么还继续使用Executors呢？](https://toutiao.io/k/owwky6z) 
 - [2022-07-14-什么是反弹-Shell？](https://toutiao.io/k/ltdnh1m) 
+- [2022-07-14-阿里规约手动创建线程池，我为什么还继续使用Executors呢？](https://toutiao.io/k/owwky6z) 
 - [2022-07-14-0到1搭建企业级数据治理体系](https://toutiao.io/k/kibmqqk) 
 - [2022-07-14-DDD-中的几个困难问题](https://toutiao.io/k/t1w1biw) 
 - [2022-07-14-千万级可观测数据采集器--iLogtail代码完整开源](https://toutiao.io/k/zs5ni28) 

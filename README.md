@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-07-14 09:41:47，:rocket: 更新条数: +2022， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-07-14 10:16:25，:rocket: 更新条数: +2024， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,14 @@
 </summary>
 
 
+- [2022-07-14-老哥们，中国的运通借记卡，绑定不了美区的-paypal-吗？](https://www.v2ex.com/t/866213) ![](assets/new.png)  
+- [2022-07-14-教育优惠可以买-mac-studio-吗？标准版多少钱呀](https://www.v2ex.com/t/866211) ![](assets/new.png)  
+- [2022-07-14-最近入了-Pixel4a-5G-总是会在滑动的过程中发生点击操作-是点击太灵活了吗](https://www.v2ex.com/t/866210) ![](assets/new.png)  
+- [2022-07-14-有专门写技术博客的工作吗](https://www.v2ex.com/t/866209) ![](assets/new.png)  
+- [2022-07-14-北京前端求职，-8-年前端（求内推）](https://www.v2ex.com/t/866208) ![](assets/new.png)  
+- [2022-07-14-知乎回答：为什么中国出了这么多厉害的互联网公司，但没有自己设计过编程语言](https://www.v2ex.com/t/866207) ![](assets/new.png)  
+- [2022-07-14-移动端网站的回复确定按钮太容易误触了](https://www.v2ex.com/t/866206) ![](assets/new.png)  
+- [2022-07-14-在线呼叫爬虫大佬，关于请求加密解密问题。](https://www.v2ex.com/t/866205) ![](assets/new.png)  
 - [2022-07-14-微信小程序-Page-里的-wxml-可以-bind-程序-app.js-定义的方法吗？](https://www.v2ex.com/t/866204) ![](assets/new.png)  
 - [2022-07-14-京东上的-type-c-换-Lightning-母口的转接头可以接耳机吗](https://www.v2ex.com/t/866203) ![](assets/new.png)  
 - [2022-07-14-腾讯云服务器亚洲优化欧洲香港新加坡孟买-约-3-年至-5-年-288-36-元-无限流量套餐](https://www.v2ex.com/t/866202) ![](assets/new.png)  
@@ -503,14 +511,6 @@
 - [2022-07-14-新加坡区自用-还剩-3-个车位](https://www.v2ex.com/t/866195) ![](assets/new.png)  
 - [2022-07-14-《山月记》摘录](https://www.v2ex.com/t/866194) ![](assets/new.png)  
 - [2022-07-14-RunJS-插件版内测](https://www.v2ex.com/t/866193) ![](assets/new.png)  
-- [2022-07-14-Java-多模块项目如何封装统一的配置信息](https://www.v2ex.com/t/866192) ![](assets/new.png)  
-- [2022-07-14-macOS-Ventura-登陆项-允许在后台-App-是怎么删除的](https://www.v2ex.com/t/866190) ![](assets/new.png)  
-- [2022-07-14-发一个-surge4-的车](https://www.v2ex.com/t/866189) ![](assets/new.png)  
-- [2022-07-14-国内公司的商业软件正版率如何](https://www.v2ex.com/t/866188) ![](assets/new.png)  
-- [2022-07-14-为什么浏览器不能通过自签名的一级泛域名证书验证](https://www.v2ex.com/t/866186) ![](assets/new.png)  
-- [2022-07-14-请问各位大佬，如何在赛事直播中插入计分板/比分版？（类似篮球、足球、电竞）](https://www.v2ex.com/t/866185) ![](assets/new.png)  
-- [2022-07-14-更了-ios16-后，钉钉几乎每天都要重新登陆，你们会吗？](https://www.v2ex.com/t/866184) ![](assets/new.png)  
-- [2022-07-14-obsidian-目前最完美的免费发布方案---渐进式教程](https://www.v2ex.com/t/866182) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -564,8 +564,8 @@
 - [2022-07-14-围绕Vue-3-Composition-API构建一个应用程序，包含一些最佳实践！](https://toutiao.io/k/qqlzah4) ![](assets/new.png)  
 - [2022-07-14-拍下宇宙的韦伯空间望远镜，其飞行软件采用C++编写、内置定制的JS解释器](https://toutiao.io/k/a3bji3i) ![](assets/new.png)  
 - [2022-07-14-60种特征工程操作：使用自定义聚合函数](https://toutiao.io/k/olfd13m) ![](assets/new.png)  
-- [2022-07-14-千万级可观测数据采集器--iLogtail代码完整开源](https://toutiao.io/k/zs5ni28) ![](assets/new.png)  
 - [2022-07-14-DDD-中的几个困难问题](https://toutiao.io/k/t1w1biw) ![](assets/new.png)  
+- [2022-07-14-千万级可观测数据采集器--iLogtail代码完整开源](https://toutiao.io/k/zs5ni28) ![](assets/new.png)  
 - [2022-07-14-正则表达式备忘清单](https://toutiao.io/k/dxabksk) ![](assets/new.png)  
 - [2022-07-14-mrr36k是如何做到的](https://toutiao.io/k/tip8g4o) ![](assets/new.png)  
 - [2022-07-14-有趣有料！一次零信任网络安全架构的认知升级](https://toutiao.io/k/f2lyrob) ![](assets/new.png)  

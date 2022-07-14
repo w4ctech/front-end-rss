@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-14 01:11:18。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-14 03:34:16。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -7,4 +7,5 @@
 
 
 
+- [2022-07-14-请教个关于-vue3-中根节点需不需的问题](https://www.v2ex.com/t/866079) 
 - [2022-07-14-围绕Vue-3-Composition-API构建一个应用程序，包含一些最佳实践！](https://toutiao.io/k/qqlzah4) 

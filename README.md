@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-07-14 07:39:06，:rocket: 更新条数: +2019， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-07-14 08:18:18，:rocket: 更新条数: +2016， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,26 +491,26 @@
 </summary>
 
 
+- [2022-07-14-误删/data/system/packages.xml-文件，手机无法开机](https://www.v2ex.com/t/866173) ![](assets/new.png)  
+- [2022-07-14-openwrt-逻辑扇区大小识别错误](https://www.v2ex.com/t/866172) ![](assets/new.png)  
+- [2022-07-14-记录理停车场邻居贴边停问题，历时半年](https://www.v2ex.com/t/866170) ![](assets/new.png)  
+- [2022-07-14-云服务商提供的相比-Intel-更便宜的-AMD-服务器有什么坑吗？](https://www.v2ex.com/t/866169) ![](assets/new.png)  
+- [2022-07-14-最近有没有去过新疆的,核酸怎么处理的?](https://www.v2ex.com/t/866167) ![](assets/new.png)  
+- [2022-07-14-如何给方法起名？](https://www.v2ex.com/t/866166) ![](assets/new.png)  
+- [2022-07-14-JVM-相关-为什么说-Class-文件格式里面可以字段重名？](https://www.v2ex.com/t/866165) ![](assets/new.png)  
+- [2022-07-14-Simplenote-好像有点问题](https://www.v2ex.com/t/866164) ![](assets/new.png)  
+- [2022-07-14-外面联通副卡资费改-0-资费](https://www.v2ex.com/t/866163) ![](assets/new.png)  
+- [2022-07-14-需要多长时间灯泡才能点亮](https://www.v2ex.com/t/866160) ![](assets/new.png)  
+- [2022-07-14-想学营养师，有经验的-v-友能否帮个忙解答？](https://www.v2ex.com/t/866159) ![](assets/new.png)  
+- [2022-07-14-集思广益-迫于还想折腾一下，开了个新坑，求大家帮忙一起想一下名称-护肤类-App-产品](https://www.v2ex.com/t/866156) ![](assets/new.png)  
+- [2022-07-14-Chrome-浏览器的配置从-A-机移植到-B-机，扩展丢失的问题](https://www.v2ex.com/t/866155) ![](assets/new.png)  
+- [2022-07-14-《微信阅读》开始割韭菜](https://www.v2ex.com/t/866154) ![](assets/new.png)  
+- [2022-07-14-感觉-Windows-平板是个很好的方向，电脑厂商们请多多投入](https://www.v2ex.com/t/866153) ![](assets/new.png)  
+- [2022-07-14-当爹的程序员,能为孩子的教育做点什么贡献?](https://www.v2ex.com/t/866151) ![](assets/new.png)  
 - [2022-07-14-请问:-哪里能下载到-tailwindCSS-的组件库?](https://www.v2ex.com/t/866150) ![](assets/new.png)  
 - [2022-07-14-用-M1-Mac-mini-做-NAS-怎么样？是不是一个更划算的选择？](https://www.v2ex.com/t/866149) ![](assets/new.png)  
 - [2022-07-14-求帮忙下载华为官网的-FusionServer-iDriver-CentOS7.6-Driver-V116.zip](https://www.v2ex.com/t/866148) ![](assets/new.png)  
 - [2022-07-14-顺丰是真的越来越不行了啊](https://www.v2ex.com/t/866146) ![](assets/new.png)  
-- [2022-07-14-比较好奇，大家-mysql-线上都是什么版本的，用过-json-没](https://www.v2ex.com/t/866144) ![](assets/new.png)  
-- [2022-07-14-哎，我厦门也太冷清了吧](https://www.v2ex.com/t/866142) ![](assets/new.png)  
-- [2022-07-14-求助各位带佬，怎么劝家里人卖房](https://www.v2ex.com/t/866141) ![](assets/new.png)  
-- [2022-07-14-听说-u2723qx-浏览网页撕裂感很强，想问问是真的吗，主办公，偶尔打打游戏体验会很差吗](https://www.v2ex.com/t/866140) ![](assets/new.png)  
-- [2022-07-14-远程职位-{交易所->风控运营->交易所撮合清算开发}](https://www.v2ex.com/t/866139) ![](assets/new.png)  
-- [2022-07-14-杭州已经-40-度了，打伞的男生多么](https://www.v2ex.com/t/866138) ![](assets/new.png)  
-- [2022-07-14-聊聊-API-管理-开源版-到-SaaS-版](https://www.v2ex.com/t/866136) ![](assets/new.png)  
-- [2022-07-14-技术没法专一咋办？或者如何成为一名专家。](https://www.v2ex.com/t/866134) ![](assets/new.png)  
-- [2022-07-14-返校季提问，显示-m1-丐版-air-想升级-14...是不是-pdd-更香？](https://www.v2ex.com/t/866132) ![](assets/new.png)  
-- [2022-07-14-提问帖-C++-Primer-12.1.3-章节中-shared_prt-的-reset-成员与-unique-一起使用的示例的意思](https://www.v2ex.com/t/866130) ![](assets/new.png)  
-- [2022-07-14-已下单返校优惠-14-pro-32-512](https://www.v2ex.com/t/866127) ![](assets/new.png)  
-- [2022-07-14-Macbook-Pro-合盖连外接显示器是不是散热不好？得升级电脑了](https://www.v2ex.com/t/866124) ![](assets/new.png)  
-- [2022-07-14-有没有折腾高通-410WiFi-棒（UFI）的](https://www.v2ex.com/t/866123) ![](assets/new.png)  
-- [2022-07-14-Yoyo-Ma-实在听腻了,-但只有听大提琴才能进入-flow](https://www.v2ex.com/t/866122) ![](assets/new.png)  
-- [2022-07-14-付费开发-找一个小程序和一个后端开发](https://www.v2ex.com/t/866121) ![](assets/new.png)  
-- [2022-07-14-Safari-手势-bug](https://www.v2ex.com/t/866120) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

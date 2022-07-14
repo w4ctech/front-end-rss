@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-14 07:39:06。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-14 08:18:18。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -14,7 +14,7 @@
 - [2021-01-08-解药|新冠mRNA疫苗安全性有哪些挑战？](https://m.caixin.com/m/2021-01-08/101648043.html) 
 - [2021-01-01-大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html) 
 - [2022-06-12-基于文字的URL锚点定位与::target-text样式设置](https://www.zhangxinxu.com/wordpress/2022/06/url-anchor-target-text/) 
-- [2022-07-14-Safari-手势-bug](https://www.v2ex.com/t/866120) 
+- [2022-07-14-Chrome-浏览器的配置从-A-机移植到-B-机，扩展丢失的问题](https://www.v2ex.com/t/866155) 
 - [2022-07-14-企业安全建设实践路程思考](https://toutiao.io/k/73fgie6) 
 - [2022-07-14-有趣有料！一次零信任网络安全架构的认知升级](https://toutiao.io/k/f2lyrob) 
 - [2022-07-14-推荐-月活-12.8-亿的微信，海量请求下是如何防止崩溃的？](https://toutiao.io/k/fflgnsh) 

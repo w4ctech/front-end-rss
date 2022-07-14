@@ -9953,6 +9953,16 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "[上海] 7 年前端求职求内推，低学历硬伤(专科)",
+        "link": "https://www.v2ex.com/t/866285",
+        "date": "2022-07-14"
+      },
+      {
+        "title": "GitHub Copilot 开源项目免费的标准到底是什么？",
+        "link": "https://www.v2ex.com/t/866284",
+        "date": "2022-07-14"
+      },
+      {
         "title": "某宝某鱼有大量低价戴尔雷电 3 数据线销售",
         "link": "https://www.v2ex.com/t/866283",
         "date": "2022-07-14"
@@ -10125,11 +10135,6 @@
       {
         "title": "求个电影名？",
         "link": "https://www.v2ex.com/t/866236",
-        "date": "2022-07-14"
-      },
-      {
-        "title": "做了个从 Json/Xml/Yaml 转换到 Go/ Python /Rust 的小网站",
-        "link": "https://www.v2ex.com/t/866235",
         "date": "2022-07-14"
       }
     ]

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-14 18:46:30。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-14 19:11:50。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,7 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-07-14-上海-7-年前端求职求内推，低学历硬伤专科](https://www.v2ex.com/t/866285) 
 - [2022-07-14-某宝某鱼有大量低价戴尔雷电-3-数据线销售](https://www.v2ex.com/t/866283) 
 - [2022-07-14-今天广州电信终于对我的四拨下毒手了。](https://www.v2ex.com/t/866282) 
 - [2022-07-14-iPad-远程桌面另一个局域网-windows-电脑不借助-vps-有什么好工具](https://www.v2ex.com/t/866281) 

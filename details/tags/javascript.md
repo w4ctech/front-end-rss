@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-14 09:15:12。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-14 09:41:47。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -19,7 +19,7 @@
 - [2022-05-11-JS与条形码的生成](https://www.zhangxinxu.com/wordpress/2022/05/js-barcode/) 
 - [2022-04-30-深入-JS-new-Function-语法](https://www.zhangxinxu.com/wordpress/2022/04/js-new-function/) 
 - [2022-04-27-小tips:-JS字体加载失败或完毕的检测](https://www.zhangxinxu.com/wordpress/2022/04/js-font-face-load/) 
+- [2022-07-14-有没有支持-helm-包中的变量跳转的工具或插件](https://www.v2ex.com/t/866199) 
 - [2022-07-14-RunJS-插件版内测](https://www.v2ex.com/t/866193) 
-- [2022-07-14-请问:-哪里能下载到-tailwindCSS-的组件库?](https://www.v2ex.com/t/866150) 
 - [2022-07-14-拍下宇宙的韦伯空间望远镜，其飞行软件采用C++编写、内置定制的JS解释器](https://toutiao.io/k/a3bji3i) 
 - [2022-07-14-正则表达式备忘清单](https://toutiao.io/k/dxabksk) 

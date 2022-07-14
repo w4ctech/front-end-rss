@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-14 09:15:12。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-14 09:41:47。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,10 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-07-14-京东上的-type-c-换-Lightning-母口的转接头可以接耳机吗](https://www.v2ex.com/t/866203) 
+- [2022-07-14-求助，这种图大概是用什么工具画的](https://www.v2ex.com/t/866201) 
+- [2022-07-14-帝国-CMS-的论坛是永久关闭了吗？](https://www.v2ex.com/t/866200) 
+- [2022-07-14-想携号转网（目前移动）求推荐](https://www.v2ex.com/t/866198) 
 - [2022-07-14-飞书不能发送代码块？](https://www.v2ex.com/t/866197) 
 - [2022-07-14-现在怎么安装-gcc-i686--Linux--android](https://www.v2ex.com/t/866196) 
 - [2022-07-14-新加坡区自用-还剩-3-个车位](https://www.v2ex.com/t/866195) 
@@ -1938,11 +1942,6 @@
 - [2022-07-14-需要多长时间灯泡才能点亮](https://www.v2ex.com/t/866160) 
 - [2022-07-14-想学营养师，有经验的-v-友能否帮个忙解答？](https://www.v2ex.com/t/866159) 
 - [2022-07-14-集思广益-迫于还想折腾一下，开了个新坑，求大家帮忙一起想一下名称-护肤类-App-产品](https://www.v2ex.com/t/866156) 
-- [2022-07-14-《微信阅读》开始割韭菜](https://www.v2ex.com/t/866154) 
-- [2022-07-14-感觉-Windows-平板是个很好的方向，电脑厂商们请多多投入](https://www.v2ex.com/t/866153) 
-- [2022-07-14-当爹的程序员,能为孩子的教育做点什么贡献?](https://www.v2ex.com/t/866151) 
-- [2022-07-14-用-M1-Mac-mini-做-NAS-怎么样？是不是一个更划算的选择？](https://www.v2ex.com/t/866149) 
-- [2022-07-14-求帮忙下载华为官网的-FusionServer-iDriver-CentOS7.6-Driver-V116.zip](https://www.v2ex.com/t/866148) 
 - [2022-07-14-DDD-中的几个困难问题-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15218&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fdifficult-problems-in-domain-driven-design%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-14-CPU是如何进行分支预测的？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15217&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FZ9KWmfCBhCixdkZGEeLStQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-14-如何应对团队协作的五大障碍-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15216&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-solve-five-dysfunctions-of-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

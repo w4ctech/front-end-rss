@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-14 16:23:46。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-14 17:04:57。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1939,9 +1939,6 @@
 - [2022-07-14-求个电影名？](https://www.v2ex.com/t/866236) 
 - [2022-07-14-tail-/dev/zero-有默认的内存上限吗？](https://www.v2ex.com/t/866233) 
 - [2022-07-14-上海张江找个室友一起住](https://www.v2ex.com/t/866232) 
-- [2022-07-14-Google-Play-绑定的信用卡突然被锁区了](https://www.v2ex.com/t/866230) 
-- [2022-07-14-被-bandizip-官方和代理商恶心到了](https://www.v2ex.com/t/866229) 
-- [2022-07-14-Typora-首行缩近光标位置问题](https://www.v2ex.com/t/866228) 
 - [2022-07-14-DDD-中的几个困难问题-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15218&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fdifficult-problems-in-domain-driven-design%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-14-CPU是如何进行分支预测的？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15217&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FZ9KWmfCBhCixdkZGEeLStQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-14-如何应对团队协作的五大障碍-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15216&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-solve-five-dysfunctions-of-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-07-14 14:40:35，:rocket: 更新条数: +2023， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-07-14 15:16:24，:rocket: 更新条数: +2020， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,10 @@
 </summary>
 
 
+- [2022-07-14-xdm，-speedtest-GuangZhou-Telecom-节点怎么没有了呀](https://www.v2ex.com/t/866265) ![](assets/new.png)  
+- [2022-07-14-pttime-网站挂了吗？](https://www.v2ex.com/t/866264) ![](assets/new.png)  
+- [2022-07-14-M2-Air-评测出来了，午夜色还是星光色呢？](https://www.v2ex.com/t/866263) ![](assets/new.png)  
+- [2022-07-14-100w-的充电器能输出-90w-吗？](https://www.v2ex.com/t/866259) ![](assets/new.png)  
 - [2022-07-14-boss-直聘收费，目前招聘研发有什么好替代品么？](https://www.v2ex.com/t/866256) ![](assets/new.png)  
 - [2022-07-14-mbp-m1max-24-核和-32-核内存带宽有区别吗？](https://www.v2ex.com/t/866255) ![](assets/new.png)  
 - [2022-07-14-谭谈交通首案判决下来了，版权属于电视台？](https://www.v2ex.com/t/866254) ![](assets/new.png)  
@@ -507,10 +511,6 @@
 - [2022-07-14-free-key-admin-自由钥匙---一个-V2EX-风格-go-语言写的个人的后台管理系统，-gofram+html+css+js+jquery服务端渲染，有朋友喜欢吗？](https://www.v2ex.com/t/866240) ![](assets/new.png)  
 - [2022-07-14-MBP-选择](https://www.v2ex.com/t/866239) ![](assets/new.png)  
 - [2022-07-14-chmod-u+s-无法设置权限](https://www.v2ex.com/t/866237) ![](assets/new.png)  
-- [2022-07-14-求个电影名？](https://www.v2ex.com/t/866236) ![](assets/new.png)  
-- [2022-07-14-做了个从-Json/Xml/Yaml-转换到-Go/-Python-/Rust-的小网站](https://www.v2ex.com/t/866235) ![](assets/new.png)  
-- [2022-07-14-tail-/dev/zero-有默认的内存上限吗？](https://www.v2ex.com/t/866233) ![](assets/new.png)  
-- [2022-07-14-上海张江找个室友一起住](https://www.v2ex.com/t/866232) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -561,16 +561,16 @@
 - [2022-07-14-干货-|-基于ClickHouse的复杂查询实现与优化](https://toutiao.io/k/zv87ntj) ![](assets/new.png)  
 - [2022-07-14-企业安全建设实践路程思考](https://toutiao.io/k/73fgie6) ![](assets/new.png)  
 - [2022-07-14-案例推荐｜千亿级、大规模：腾讯超大-Apache-Pulsar-集群性能调优实践](https://toutiao.io/k/vfiy9j8) ![](assets/new.png)  
-- [2022-07-14-围绕Vue-3-Composition-API构建一个应用程序，包含一些最佳实践！](https://toutiao.io/k/qqlzah4) ![](assets/new.png)  
 - [2022-07-14-DDD-中的几个困难问题](https://toutiao.io/k/t1w1biw) ![](assets/new.png)  
+- [2022-07-14-围绕Vue-3-Composition-API构建一个应用程序，包含一些最佳实践！](https://toutiao.io/k/qqlzah4) ![](assets/new.png)  
 - [2022-07-14-拍下宇宙的韦伯空间望远镜，其飞行软件采用C++编写、内置定制的JS解释器](https://toutiao.io/k/a3bji3i) ![](assets/new.png)  
 - [2022-07-14-千万级可观测数据采集器--iLogtail代码完整开源](https://toutiao.io/k/zs5ni28) ![](assets/new.png)  
 - [2022-07-14-60种特征工程操作：使用自定义聚合函数](https://toutiao.io/k/olfd13m) ![](assets/new.png)  
 - [2022-07-14-正则表达式备忘清单](https://toutiao.io/k/dxabksk) ![](assets/new.png)  
 - [2022-07-14-有趣有料！一次零信任网络安全架构的认知升级](https://toutiao.io/k/f2lyrob) ![](assets/new.png)  
 - [2022-07-14-mrr36k是如何做到的](https://toutiao.io/k/tip8g4o) ![](assets/new.png)  
-- [2022-07-14-推荐-服务端监控架构设计与实践](https://toutiao.io/k/xhwa9mo) ![](assets/new.png)  
 - [2022-07-14-推荐-月活-12.8-亿的微信，海量请求下是如何防止崩溃的？](https://toutiao.io/k/fflgnsh) ![](assets/new.png)  
+- [2022-07-14-推荐-服务端监控架构设计与实践](https://toutiao.io/k/xhwa9mo) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

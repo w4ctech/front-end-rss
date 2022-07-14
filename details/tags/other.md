@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-14 14:40:36。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-14 15:16:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,10 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-07-14-xdm，-speedtest-GuangZhou-Telecom-节点怎么没有了呀](https://www.v2ex.com/t/866265) 
+- [2022-07-14-pttime-网站挂了吗？](https://www.v2ex.com/t/866264) 
+- [2022-07-14-M2-Air-评测出来了，午夜色还是星光色呢？](https://www.v2ex.com/t/866263) 
+- [2022-07-14-100w-的充电器能输出-90w-吗？](https://www.v2ex.com/t/866259) 
 - [2022-07-14-mbp-m1max-24-核和-32-核内存带宽有区别吗？](https://www.v2ex.com/t/866255) 
 - [2022-07-14-谭谈交通首案判决下来了，版权属于电视台？](https://www.v2ex.com/t/866254) 
 - [2022-07-14-在函数中开启协程或进程递归调用自身会引起栈溢出吗？](https://www.v2ex.com/t/866253) 
@@ -1936,12 +1940,6 @@
 - [2022-07-14-Helm-chart-for-Kubernetes](https://www.v2ex.com/t/866219) 
 - [2022-07-14-深圳上海西安-大疆校招内推啦！简历优筛，薪酬竞争力-MAX！](https://www.v2ex.com/t/866217) 
 - [2022-07-14-关于企业微信客服消息快速处理](https://www.v2ex.com/t/866216) 
-- [2022-07-14-老哥们，中国的运通借记卡，绑定不了美区的-paypal-吗？](https://www.v2ex.com/t/866213) 
-- [2022-07-14-教育优惠可以买-mac-studio-吗？标准版多少钱呀](https://www.v2ex.com/t/866211) 
-- [2022-07-14-最近入了-Pixel4a-5G-总是会在滑动的过程中发生点击操作-是点击太灵活了吗](https://www.v2ex.com/t/866210) 
-- [2022-07-14-有专门写技术博客的工作吗](https://www.v2ex.com/t/866209) 
-- [2022-07-14-北京前端求职，-8-年前端（求内推）](https://www.v2ex.com/t/866208) 
-- [2022-07-14-知乎回答：为什么中国出了这么多厉害的互联网公司，但没有自己设计过编程语言](https://www.v2ex.com/t/866207) 
 - [2022-07-14-DDD-中的几个困难问题-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15218&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fdifficult-problems-in-domain-driven-design%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-14-CPU是如何进行分支预测的？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15217&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FZ9KWmfCBhCixdkZGEeLStQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-14-如何应对团队协作的五大障碍-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15216&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-solve-five-dysfunctions-of-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

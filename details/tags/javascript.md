@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-15 15:16:04。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-15 15:45:33。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -21,4 +21,3 @@
 - [2022-04-27-小tips:-JS字体加载失败或完毕的检测](https://www.zhangxinxu.com/wordpress/2022/04/js-font-face-load/) 
 - [2022-07-15-为什么路由在不同-IP-段可以进后台？](https://www.v2ex.com/t/866515) 
 - [2022-07-15-好臭的设备，这路由器不能要了](https://www.v2ex.com/t/866500) 
-- [2022-07-15-现在正常开发适配最近几个版本-IOS-的-Xcode，需要多大的空间啊？另外-MBP-吸灰严重吗？](https://www.v2ex.com/t/866493) 

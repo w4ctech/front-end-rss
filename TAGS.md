@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-07-15 11:37:23。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-15 12:26:37。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -334,6 +334,7 @@
 
 
 
+- [【V2EX】才发现，-Github-图标对-dark-theme-不友好](https://www.v2ex.com/t/866512)
 - [......【查看更多】......](./details/tags/git-svn.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -351,8 +352,6 @@
 
 
 - [【V2EX】Web3-招聘：视觉设计师-深圳-20-40-万](https://www.v2ex.com/t/866489)
-- [【V2EX】诚招-招聘-GO-开发工程师](https://www.v2ex.com/t/866461)
-- [【V2EX】天津-360-天津招聘火热进行中！产品运营/前端/后端/UI-设计/数据产品专家](https://www.v2ex.com/t/866459)
 - [......【查看更多】......](./details/tags/job-interview.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

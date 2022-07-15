@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-15 01:15:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-15 03:39:11。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 前端进阶相关
 
@@ -7,5 +7,4 @@
 
 
 
-- [2022-07-15-FocusPodcast-播客-app](https://www.v2ex.com/t/866307) 
-- [2022-07-14-收到了-Alfred-5-的推送邮件,-产生了换用-Raycast-的想法](https://www.v2ex.com/t/866276) 
+- [2022-07-15-深入-SensePPL，探索车载智能平台算法高效部署秘诀](https://toutiao.io/k/s3665mq) 

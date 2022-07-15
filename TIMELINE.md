@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-15 18:17:30。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-07-15 18:47:48。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,7 @@
 </summary>
 
 
+- [【V2EX】2022-07-15-智能手机会调节充电速率，越接近-100%-越慢。那么用移动电源给手机充电，从-5%-充到-15%，与，从-85%-充到-95%-所消耗的容量相同吗？](https://www.v2ex.com/t/866556) 
 - [【V2EX】2022-07-15-实时保存股票-tick-数据，采用什么数据结构或者数据库比较好？](https://www.v2ex.com/t/866555) 
 - [【V2EX】2022-07-15-如何查询-Hive-两个分区的-diff？](https://www.v2ex.com/t/866554) 
 - [【V2EX】2022-07-15-为什么-figma-设计-UI-的时候，大家都把-app-的多个界面（都是以-Frame-形式一个个呈现）放在一个-Page-里](https://www.v2ex.com/t/866553) 
@@ -108,7 +109,6 @@
 - [【V2EX】2022-07-15-长沙电信宽带最近是不是封了很多-IPv6-地址？](https://www.v2ex.com/t/866510) 
 - [【V2EX】2022-07-15-关于-web3-的思考](https://www.v2ex.com/t/866509) 
 - [【V2EX】2022-07-15-石头-G10S-Pro-弱智的一个地方](https://www.v2ex.com/t/866507) 
-- [【V2EX】2022-07-15-请问-2k-3k-有什么值得送的礼物？](https://www.v2ex.com/t/866506) 
 - [【技术头条】2022-07-15-DDD-中的几个困难问题-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15218&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fdifficult-problems-in-domain-driven-design%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-15-CPU是如何进行分支预测的？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15217&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FZ9KWmfCBhCixdkZGEeLStQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-15-如何应对团队协作的五大障碍-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15216&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-solve-five-dysfunctions-of-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

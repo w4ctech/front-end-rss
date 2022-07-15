@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-07-15 16:19:44，:rocket: 更新条数: +2026， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-07-15 17:01:32，:rocket: 更新条数: +2026， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-07-15-如何查询-Hive-两个分区的-diff？](https://www.v2ex.com/t/866554) ![](assets/new.png)  
+- [2022-07-15-为什么-figma-设计-UI-的时候，大家都把-app-的多个界面（都是以-Frame-形式一个个呈现）放在一个-Page-里](https://www.v2ex.com/t/866553) ![](assets/new.png)  
 - [2022-07-15-怎么扩展社交圈，提高社交能力](https://www.v2ex.com/t/866552) ![](assets/new.png)  
 - [2022-07-15-XDM，我的-Mac-是不是中病毒了？](https://www.v2ex.com/t/866551) ![](assets/new.png)  
 - [2022-07-15-关于程序员英语水平问题](https://www.v2ex.com/t/866550) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-07-15-偷渡-VS-Code-Server](https://www.v2ex.com/t/866535) ![](assets/new.png)  
 - [2022-07-15-唉，装修时不懂，把光纤-HDMI-线的方向布反了~](https://www.v2ex.com/t/866534) ![](assets/new.png)  
 - [2022-07-15-其实-ARM64-的-Win11-体验已经很不错，可惜摆烂的微软并没有更新-Surface-Pro-X-II](https://www.v2ex.com/t/866533) ![](assets/new.png)  
-- [2022-07-15-xrdp-的-session-模式选择](https://www.v2ex.com/t/866532) ![](assets/new.png)  
-- [2022-07-15-PDM-2.0-发布了](https://www.v2ex.com/t/866529) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

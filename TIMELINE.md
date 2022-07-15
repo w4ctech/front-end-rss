@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-15 12:26:37。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-07-15 13:23:31。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,13 +68,21 @@
 </summary>
 
 
-- [【V2EX】2022-07-15-美区-apple-one-超大杯-季付-105](https://www.v2ex.com/t/866514) 
+- [【V2EX】2022-07-15-数据库设计表的时候把不管啥字段类型都设置为-varchar，有啥好处嘛](https://www.v2ex.com/t/866526) 
+- [【V2EX】2022-07-15-你们是怎么受得了-996-的？我-955-就已经觉得很累了](https://www.v2ex.com/t/866525) 
+- [【V2EX】2022-07-15-新-Linux-虚拟机前-10-秒-github-极快,-然后就-80kb/s-了](https://www.v2ex.com/t/866524) 
+- [【V2EX】2022-07-15-装了千兆网，实际测下来-macbook-只有下行-300，正常吗?](https://www.v2ex.com/t/866522) 
+- [【V2EX】2022-07-15-github-生成-Personal-access-tokens，不显示-token-怎么破？](https://www.v2ex.com/t/866521) 
+- [【V2EX】2022-07-15-QQ-被盗-，好友辅助验证后收不到消息，-咋办](https://www.v2ex.com/t/866519) 
+- [【V2EX】2022-07-15-Apple-Care+-可以全球保修吗](https://www.v2ex.com/t/866518) 
+- [【V2EX】2022-07-15-（帮朋友转）民雷路地铁站到卡园范围找手机，-iPhone-X，内有重要资料](https://www.v2ex.com/t/866517) 
+- [【V2EX】2022-07-15-LeanCloud-凉了吗？](https://www.v2ex.com/t/866516) 
+- [【V2EX】2022-07-15-为什么路由在不同-IP-段可以进后台？](https://www.v2ex.com/t/866515) 
 - [【V2EX】2022-07-15-想买一个-VR-眼镜，预算-1~2K，大家有推荐的吗？（PS.-近视-500-度）](https://www.v2ex.com/t/866513) 
 - [【V2EX】2022-07-15-才发现，-Github-图标对-dark-theme-不友好](https://www.v2ex.com/t/866512) 
 - [【V2EX】2022-07-15-美国-OR-活水](https://www.v2ex.com/t/866511) 
 - [【V2EX】2022-07-15-长沙电信宽带最近是不是封了很多-IPv6-地址？](https://www.v2ex.com/t/866510) 
 - [【V2EX】2022-07-15-关于-web3-的思考](https://www.v2ex.com/t/866509) 
-- [【V2EX】2022-07-15-真正的全民开盒，发现一个新的-tg-开盒频道](https://www.v2ex.com/t/866508) 
 - [【V2EX】2022-07-15-石头-G10S-Pro-弱智的一个地方](https://www.v2ex.com/t/866507) 
 - [【V2EX】2022-07-15-请问-2k-3k-有什么值得送的礼物？](https://www.v2ex.com/t/866506) 
 - [【V2EX】2022-07-15-兄弟们，这个天气如果不用空调怎么室内维持一个适宜温度？](https://www.v2ex.com/t/866505) 
@@ -102,17 +110,6 @@
 - [【V2EX】2022-07-15-去美国出差，有什么方便在那边办理或者购买的东西推荐吗？](https://www.v2ex.com/t/866480) 
 - [【V2EX】2022-07-15-有没有播客推荐](https://www.v2ex.com/t/866479) 
 - [【V2EX】2022-07-15-又到周末，等不及了](https://www.v2ex.com/t/866478) 
-- [【V2EX】2022-07-15-上海闵行外企965-数据分析-全职/实习生-内推](https://www.v2ex.com/t/866476) 
-- [【V2EX】2022-07-15-macbook-蓝牙不稳定，有解决方法吗？](https://www.v2ex.com/t/866475) 
-- [【V2EX】2022-07-15-看到-WPS-事件后，想换回-Office-了。](https://www.v2ex.com/t/866474) 
-- [【V2EX】2022-07-15-有没有润出去的程序员呀求求经验](https://www.v2ex.com/t/866473) 
-- [【V2EX】2022-07-15-手机里的这个其他占了差不多-30G-是咋回事](https://www.v2ex.com/t/866471) 
-- [【V2EX】2022-07-15-sed/perl-正则表达式请教?](https://www.v2ex.com/t/866470) 
-- [【V2EX】2022-07-15-clash-支持-reject-drop-吗？](https://www.v2ex.com/t/866469) 
-- [【V2EX】2022-07-15-Mysql-max_connections-的合理配置是多少？](https://www.v2ex.com/t/866468) 
-- [【V2EX】2022-07-15-发现个不错的项目-CryptPad](https://www.v2ex.com/t/866467) 
-- [【V2EX】2022-07-15-为什么-Mac-Studio-跟显示器没有返校送耳机的活动...](https://www.v2ex.com/t/866466) 
-- [【V2EX】2022-07-15-侄女喜欢美术，送什么好？](https://www.v2ex.com/t/866465) 
 - [【技术头条】2022-07-15-DDD-中的几个困难问题-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15218&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fdifficult-problems-in-domain-driven-design%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-15-CPU是如何进行分支预测的？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15217&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FZ9KWmfCBhCixdkZGEeLStQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-15-如何应对团队协作的五大障碍-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15216&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-solve-five-dysfunctions-of-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -142,17 +139,17 @@
 - [【开发者头条】2022-07-15-从“高位”变“高危”-CTO应如何化解职业风险？](https://toutiao.io/k/rqbeie9) 
 - [【开发者头条】2022-07-15-携程Service-Mesh性能优化实践](https://toutiao.io/k/sevxd38) 
 - [【开发者头条】2022-07-15-观点-|-数仓领域的未来趋势解读](https://toutiao.io/k/ou8v1ih) 
+- [【开发者头条】2022-07-15-可落地的DDD7-战术设计上的一些误区](https://toutiao.io/k/w7g1iyc) 
 - [【开发者头条】2022-07-15-当转转严选订单遇到状态机](https://toutiao.io/k/vzg0iyl) 
 - [【开发者头条】2022-07-15-Kubernetes网络插件详解---Flannel篇](https://toutiao.io/k/2z0roqr) 
-- [【开发者头条】2022-07-15-可落地的DDD7-战术设计上的一些误区](https://toutiao.io/k/w7g1iyc) 
 - [【开发者头条】2022-07-15-基于-Yarn-的-Monorepo-实践](https://toutiao.io/k/wnqpuaj) 
 - [【开发者头条】2022-07-15-酷家乐基于-Crane-EHPA-的弹性落地实践](https://toutiao.io/k/4rw3tfa) 
 - [【开发者头条】2022-07-15-深入-SensePPL，探索车载智能平台算法高效部署秘诀](https://toutiao.io/k/s3665mq) 
 - [【开发者头条】2022-07-15-服务网格中-sidecar-流量治理与多协议嗅探](https://toutiao.io/k/4j9sk67) 
 - [【开发者头条】2022-07-15-【答疑解惑】-裁员浪潮中，N+1-到底指什么？](https://toutiao.io/k/blvdipy) 
 - [【开发者头条】2022-07-15-攻防演练之域控检测篇](https://toutiao.io/k/0voe1f5) 
-- [【开发者头条】2022-07-15-推荐-月活-12.8-亿的微信，海量请求下是如何防止崩溃的？](https://toutiao.io/k/fflgnsh) 
 - [【开发者头条】2022-07-15-推荐-服务端监控架构设计与实践](https://toutiao.io/k/xhwa9mo) 
+- [【开发者头条】2022-07-15-推荐-月活-12.8-亿的微信，海量请求下是如何防止崩溃的？](https://toutiao.io/k/fflgnsh) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

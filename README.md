@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-07-15 23:14:32，:rocket: 更新条数: +2026， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-07-15 23:40:28，:rocket: 更新条数: +2027， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,7 +491,13 @@
 </summary>
 
 
-- [2022-07-15-用-mac-mini-做-NAS，-mac-支持-raid-吗？有几个问题想请教](https://www.v2ex.com/t/866557) ![](assets/new.png)  
+- [2022-07-15-最近发现了-iPhone-和-iPad-上-youtube-应用有了画中画功能](https://www.v2ex.com/t/866563) ![](assets/new.png)  
+- [2022-07-15-《有孩子以后就是一切原罪的开始》后续](https://www.v2ex.com/t/866562) ![](assets/new.png)  
+- [2022-07-15-你最喜欢的-ORM-有哪些最讨厌的地方？](https://www.v2ex.com/t/866561) ![](assets/new.png)  
+- [2022-07-15-求移动-rax3000z-的超级密码](https://www.v2ex.com/t/866560) ![](assets/new.png)  
+- [2022-07-15-去店里看新出的-M2-Air，下单了深空灰色。。。](https://www.v2ex.com/t/866559) ![](assets/new.png)  
+- [2022-07-15-如何限制-PHP-每秒只执行一次？](https://www.v2ex.com/t/866558) ![](assets/new.png)  
+- [2022-07-15-下单了-mac-mini-做-NAS，-mac-支持-raid-吗？有几个问题想请教](https://www.v2ex.com/t/866557) ![](assets/new.png)  
 - [2022-07-15-智能手机会调节充电速率，越接近-100%-越慢。那么用移动电源给手机充电，从-5%-充到-15%，与，从-85%-充到-95%-所消耗的容量相同吗？](https://www.v2ex.com/t/866556) ![](assets/new.png)  
 - [2022-07-15-实时保存股票-tick-数据，采用什么数据结构或者数据库比较好？](https://www.v2ex.com/t/866555) ![](assets/new.png)  
 - [2022-07-15-如何查询-Hive-两个分区的-diff？](https://www.v2ex.com/t/866554) ![](assets/new.png)  
@@ -505,12 +511,6 @@
 - [2022-07-15-亚麻-ebay-有内推的不？想试试](https://www.v2ex.com/t/866546) ![](assets/new.png)  
 - [2022-07-15-为什么我的每一个鼠标都会出现回滚的问题？](https://www.v2ex.com/t/866545) ![](assets/new.png)  
 - [2022-07-15-最近沉迷于寻找支持自建的-e2ee/zero-knowledge-的开源应用](https://www.v2ex.com/t/866544) ![](assets/new.png)  
-- [2022-07-15-刘海屏-MacBook，外接显示器时，-menu-bar-高度是多少？](https://www.v2ex.com/t/866543) ![](assets/new.png)  
-- [2022-07-15-在前端实习中，如何为秋招面试积攒能够写进简历的东西？](https://www.v2ex.com/t/866542) ![](assets/new.png)  
-- [2022-07-15-本周六7.16-日晚上-8:00-B-站直播，一起聊聊-Go-语言《借势:GO-语言红利期—如何弯道超车》](https://www.v2ex.com/t/866541) ![](assets/new.png)  
-- [2022-07-15-耗时-8-个多月，基于-SSH-协议，我开发了一个内网穿透工具，请大家来使用看看效果](https://www.v2ex.com/t/866540) ![](assets/new.png)  
-- [2022-07-15-google-fonts-下载的字体和图标可以商用吗？](https://www.v2ex.com/t/866537) ![](assets/new.png)  
-- [2022-07-15-求助-mac-Safari-如何-class-dump-导出-头文件](https://www.v2ex.com/t/866536) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

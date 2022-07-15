@@ -9953,6 +9953,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "实时保存股票 tick 数据，采用什么数据结构或者数据库比较好？",
+        "link": "https://www.v2ex.com/t/866555",
+        "date": "2022-07-15"
+      },
+      {
         "title": "如何查询 Hive 两个分区的 diff？",
         "link": "https://www.v2ex.com/t/866554",
         "date": "2022-07-15"
@@ -10150,11 +10155,6 @@
       {
         "title": "请问 2k-3k 有什么值得送的礼物？",
         "link": "https://www.v2ex.com/t/866506",
-        "date": "2022-07-15"
-      },
-      {
-        "title": "兄弟们，这个天气如果不用空调怎么室内维持一个适宜温度？",
-        "link": "https://www.v2ex.com/t/866505",
         "date": "2022-07-15"
       }
     ]

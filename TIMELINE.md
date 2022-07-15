@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-15 23:03:26。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-07-15 23:14:32。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,7 @@
 </summary>
 
 
+- [【V2EX】2022-07-15-用-mac-mini-做-NAS，-mac-支持-raid-吗？有几个问题想请教](https://www.v2ex.com/t/866557) 
 - [【V2EX】2022-07-15-智能手机会调节充电速率，越接近-100%-越慢。那么用移动电源给手机充电，从-5%-充到-15%，与，从-85%-充到-95%-所消耗的容量相同吗？](https://www.v2ex.com/t/866556) 
 - [【V2EX】2022-07-15-实时保存股票-tick-数据，采用什么数据结构或者数据库比较好？](https://www.v2ex.com/t/866555) 
 - [【V2EX】2022-07-15-如何查询-Hive-两个分区的-diff？](https://www.v2ex.com/t/866554) 
@@ -108,7 +109,6 @@
 - [【V2EX】2022-07-15-美国-OR-活水](https://www.v2ex.com/t/866511) 
 - [【V2EX】2022-07-15-长沙电信宽带最近是不是封了很多-IPv6-地址？](https://www.v2ex.com/t/866510) 
 - [【V2EX】2022-07-15-关于-web3-的思考](https://www.v2ex.com/t/866509) 
-- [【V2EX】2022-07-15-石头-G10S-Pro-弱智的一个地方](https://www.v2ex.com/t/866507) 
 - [【技术头条】2022-07-15-DDD-中的几个困难问题-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15218&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fdifficult-problems-in-domain-driven-design%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-15-CPU是如何进行分支预测的？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15217&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FZ9KWmfCBhCixdkZGEeLStQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-15-如何应对团队协作的五大障碍-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15216&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-solve-five-dysfunctions-of-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -137,8 +137,8 @@
 - [【开发者头条】2022-07-15-【ECUG-Con-2022】Go+-的演进之路](https://toutiao.io/k/p8vlhky) 
 - [【开发者头条】2022-07-15-从“高位”变“高危”-CTO应如何化解职业风险？](https://toutiao.io/k/rqbeie9) 
 - [【开发者头条】2022-07-15-携程Service-Mesh性能优化实践](https://toutiao.io/k/sevxd38) 
-- [【开发者头条】2022-07-15-观点-|-数仓领域的未来趋势解读](https://toutiao.io/k/ou8v1ih) 
 - [【开发者头条】2022-07-15-可落地的DDD7-战术设计上的一些误区](https://toutiao.io/k/w7g1iyc) 
+- [【开发者头条】2022-07-15-观点-|-数仓领域的未来趋势解读](https://toutiao.io/k/ou8v1ih) 
 - [【开发者头条】2022-07-15-当转转严选订单遇到状态机](https://toutiao.io/k/vzg0iyl) 
 - [【开发者头条】2022-07-15-Kubernetes网络插件详解---Flannel篇](https://toutiao.io/k/2z0roqr) 
 - [【开发者头条】2022-07-15-基于-Yarn-的-Monorepo-实践](https://toutiao.io/k/wnqpuaj) 

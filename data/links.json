@@ -9953,6 +9953,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "打工人低成本赴美工作实践",
+        "link": "https://www.v2ex.com/t/866720",
+        "date": "2022-07-16"
+      },
+      {
         "title": "大佬们， mac mini m1 16g 日常开发 Java 是否够用？打算收台二手",
         "link": "https://www.v2ex.com/t/866719",
         "date": "2022-07-16"
@@ -10126,11 +10131,6 @@
         "title": "刚看 v 友说完，今天买到了假 airpods2，警惕黄鱼教育 airpods，特给大家发来鉴定方法。",
         "link": "https://www.v2ex.com/t/866671",
         "date": "2022-07-16"
-      },
-      {
-        "title": "找份运维工作",
-        "link": "https://www.v2ex.com/t/866670",
-        "date": "2022-07-16"
       }
     ]
   },
@@ -10267,13 +10267,13 @@
         "date": "2022-07-16"
       },
       {
-        "title": "开源数据质量解决方案——Apache Griffin入门宝典",
-        "link": "https://toutiao.io/k/pqkj5w9",
+        "title": "字节遭遇离职潮",
+        "link": "https://toutiao.io/k/84iz6z1",
         "date": "2022-07-16"
       },
       {
-        "title": "字节遭遇离职潮",
-        "link": "https://toutiao.io/k/84iz6z1",
+        "title": "开源数据质量解决方案——Apache Griffin入门宝典",
+        "link": "https://toutiao.io/k/pqkj5w9",
         "date": "2022-07-16"
       },
       {
@@ -10297,13 +10297,13 @@
         "date": "2022-07-16"
       },
       {
-        "title": "[推荐] 高并发，你真的理解透彻了吗？",
-        "link": "https://toutiao.io/k/93k2zfb",
+        "title": "[推荐] 服务端监控架构设计与实践",
+        "link": "https://toutiao.io/k/xhwa9mo",
         "date": "2022-07-16"
       },
       {
-        "title": "[推荐] 服务端监控架构设计与实践",
-        "link": "https://toutiao.io/k/xhwa9mo",
+        "title": "[推荐] 高并发，你真的理解透彻了吗？",
+        "link": "https://toutiao.io/k/93k2zfb",
         "date": "2022-07-16"
       }
     ]

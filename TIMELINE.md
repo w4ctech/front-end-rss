@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-16 15:41:02。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-07-16 16:17:08。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,9 @@
 </summary>
 
 
+- [【V2EX】2022-07-16-现在转行做程序员还值得吗,-29-岁了](https://www.v2ex.com/t/866705) 
+- [【V2EX】2022-07-16-推荐一款新发现的用-Node-实现的免费下载无损音乐的命令行工具-Musicn](https://www.v2ex.com/t/866704) 
+- [【V2EX】2022-07-16-求助！能推荐个-5~8-K-的笔记本嘛](https://www.v2ex.com/t/866702) 
 - [【V2EX】2022-07-16-刚在-YouTube-看到李永乐老师关于梦的解析，感觉有点意思，给大家分享一下](https://www.v2ex.com/t/866701) 
 - [【V2EX】2022-07-16-2022-年关于-Apple-ID-区域选择和-Pro-App-套装](https://www.v2ex.com/t/866700) 
 - [【V2EX】2022-07-16-Mac-版-surge5-人车](https://www.v2ex.com/t/866698) 
@@ -102,10 +105,6 @@
 - [【V2EX】2022-07-16-这轮疫情感觉来的莫名其妙](https://www.v2ex.com/t/866658) 
 - [【V2EX】2022-07-16-ntt-准备建设日美之间光缆](https://www.v2ex.com/t/866657) 
 - [【V2EX】2022-07-16-前端做点啥小工具可以写到简历上](https://www.v2ex.com/t/866656) 
-- [【V2EX】2022-07-16-一只大橘找领养](https://www.v2ex.com/t/866655) 
-- [【V2EX】2022-07-16-用-rust-撸了一个-lisp-解释器](https://www.v2ex.com/t/866654) 
-- [【V2EX】2022-07-16-双屏的时候关闭副屏时如何自动禁止窗口还能拖动到副屏上](https://www.v2ex.com/t/866653) 
-- [【V2EX】2022-07-16-macos-上的-QQ-居然需要手机扫码，什么毛病了](https://www.v2ex.com/t/866652) 
 - [【技术头条】2022-07-16-DDD-中的几个困难问题-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15218&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fdifficult-problems-in-domain-driven-design%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-16-CPU是如何进行分支预测的？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15217&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FZ9KWmfCBhCixdkZGEeLStQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-16-如何应对团队协作的五大障碍-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15216&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-solve-five-dysfunctions-of-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -127,15 +126,16 @@
 - [【技术头条】2022-07-16-敏捷教练技术的融合方法-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15200&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fagile-coach-techniques%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-16-你还只知道测试金字塔？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15199&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftest-pyramid%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【开发者头条】2022-07-16-优质网站同好者周刊（第-074-期）-|-倾城博客](https://toutiao.io/k/wjiq1dv) 
-- [【开发者头条】2022-07-16-基于-CRON-库扩展的分布式-Crontab-的实现](https://toutiao.io/k/kx9h6j4) 
 - [【开发者头条】2022-07-16-MySQL六十六问，两万字+五十图详解！有点六！](https://toutiao.io/k/5cpvhga) 
+- [【开发者头条】2022-07-16-基于-CRON-库扩展的分布式-Crontab-的实现](https://toutiao.io/k/kx9h6j4) 
 - [【开发者头条】2022-07-16-前端趋势-2022](https://toutiao.io/k/6kgja66) 
-- [【开发者头条】2022-07-16-字节遭遇离职潮](https://toutiao.io/k/84iz6z1) 
 - [【开发者头条】2022-07-16-开源数据质量解决方案——Apache-Griffin入门宝典](https://toutiao.io/k/pqkj5w9) 
+- [【开发者头条】2022-07-16-字节遭遇离职潮](https://toutiao.io/k/84iz6z1) 
 - [【开发者头条】2022-07-16-基于大数据的OLAP技术，4个角度一篇讲明白](https://toutiao.io/k/w2jzwpe) 
 - [【开发者头条】2022-07-16-如何在-React-18中-利用Suspense-实现-服务端渲染SSR](https://toutiao.io/k/7yq9ig0) 
 - [【开发者头条】2022-07-16-K8s里Spring-微服务项目，Pod-关闭对用户的影响比较大！](https://toutiao.io/k/te7l1kw) 
 - [【开发者头条】2022-07-16-SDN系统方法-|-1.-概述](https://toutiao.io/k/9gemqsj) 
+- [【开发者头条】2022-07-16-推荐-高并发，你真的理解透彻了吗？](https://toutiao.io/k/93k2zfb) 
 - [【开发者头条】2022-07-16-推荐-服务端监控架构设计与实践](https://toutiao.io/k/xhwa9mo) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>

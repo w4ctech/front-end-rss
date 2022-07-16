@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-16 12:59:34。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-16 13:25:52。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,9 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-07-16-有-iterm2-汉化版吗](https://www.v2ex.com/t/866685) 
+- [2022-07-16-哈尔滨啤酒也太难喝了](https://www.v2ex.com/t/866683) 
+- [2022-07-16-似乎把-typec-接口分成若干个-typec-接口的硬件还是没有被制造](https://www.v2ex.com/t/866681) 
 - [2022-07-16-群晖里为什么我的一个文件夹无法通过-smb-访问](https://www.v2ex.com/t/866680) 
 - [2022-07-16-请问如何禁用小米-MIUI13-重新开机后自动移除第三方输入法](https://www.v2ex.com/t/866678) 
 - [2022-07-16-B-站有没有扩展支持显示已看进度条](https://www.v2ex.com/t/866676) 
@@ -1939,9 +1942,6 @@
 - [2022-07-16-支付-bao-扫码的活动放水了，想省钱的可以看看](https://www.v2ex.com/t/866641) 
 - [2022-07-16-发现国内的-Android-比-pixel-原生系列的系统文件大了好多。](https://www.v2ex.com/t/866638) 
 - [2022-07-16-关注性价比大功率音响](https://www.v2ex.com/t/866637) 
-- [2022-07-16-M2-Air-里-U1-超宽频芯片未来会有什么作用？](https://www.v2ex.com/t/866635) 
-- [2022-07-16-iMac-内置系统-macOS+外置-SSD-双系统-每次启动都跑到内置-OS](https://www.v2ex.com/t/866633) 
-- [2022-07-16-晚上睡觉空调开多少度？](https://www.v2ex.com/t/866631) 
 - [2022-07-16-DDD-中的几个困难问题-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15218&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fdifficult-problems-in-domain-driven-design%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-16-CPU是如何进行分支预测的？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15217&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FZ9KWmfCBhCixdkZGEeLStQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-16-如何应对团队协作的五大障碍-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15216&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-solve-five-dysfunctions-of-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1961,8 +1961,8 @@
 - [2022-07-16-你还只知道测试金字塔？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15199&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftest-pyramid%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-16-优质网站同好者周刊（第-074-期）-|-倾城博客](https://toutiao.io/k/wjiq1dv) 
 - [2022-07-16-基于-CRON-库扩展的分布式-Crontab-的实现](https://toutiao.io/k/kx9h6j4) 
-- [2022-07-16-字节遭遇离职潮](https://toutiao.io/k/84iz6z1) 
 - [2022-07-16-MySQL六十六问，两万字+五十图详解！有点六！](https://toutiao.io/k/5cpvhga) 
+- [2022-07-16-字节遭遇离职潮](https://toutiao.io/k/84iz6z1) 
 - [2022-07-16-开源数据质量解决方案——Apache-Griffin入门宝典](https://toutiao.io/k/pqkj5w9) 
 - [2022-07-16-前端趋势-2022](https://toutiao.io/k/6kgja66) 
 - [2022-07-16-基于大数据的OLAP技术，4个角度一篇讲明白](https://toutiao.io/k/w2jzwpe) 

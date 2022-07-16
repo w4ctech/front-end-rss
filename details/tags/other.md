@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-16 11:13:14。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-16 11:36:51。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,9 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-07-16-刚看-v-友说完，今天买到了假-airpods2，警惕黄鱼教育-airpods，特给大家发来鉴定方法。](https://www.v2ex.com/t/866671) 
+- [2022-07-16-找份运维工作](https://www.v2ex.com/t/866670) 
+- [2022-07-16-分享一个-Go-方法调用姿势](https://www.v2ex.com/t/866666) 
 - [2022-07-16-买的期房，逃过一劫](https://www.v2ex.com/t/866663) 
 - [2022-07-16-是不是绝大多数-bt-软件在国内都没速度](https://www.v2ex.com/t/866662) 
 - [2022-07-16-这轮疫情感觉来的莫名其妙](https://www.v2ex.com/t/866658) 
@@ -1936,8 +1939,6 @@
 - [2022-07-16-上海-不加班-外企-招-Java-、C++、安卓、中级测试、支持工程师、初级-devOps，-Java-和-测试有残疾人岗位](https://www.v2ex.com/t/866629) 
 - [2022-07-16-普通人到底如何才能申请到-Google-Voice？-GV-这么难申请，网络上为什么有那么多-GV-号在卖？](https://www.v2ex.com/t/866625) 
 - [2022-07-16-工作-5-年出去读书，再就业的时候高级的-title-还有么？还是要从初级干起？](https://www.v2ex.com/t/866624) 
-- [2022-07-16-深圳电信已经禁止-IPTV-宽带双公网-IP](https://www.v2ex.com/t/866620) 
-- [2022-07-16-推荐个-Windows-上用的词典吧！现在用欧路-Eudic-还不错，以前用过-Lingoes-但是不更新了。不知道有没有别的更好用的。](https://www.v2ex.com/t/866618) 
 - [2022-07-16-DDD-中的几个困难问题-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15218&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fdifficult-problems-in-domain-driven-design%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-16-CPU是如何进行分支预测的？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15217&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FZ9KWmfCBhCixdkZGEeLStQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-16-如何应对团队协作的五大障碍-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15216&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-solve-five-dysfunctions-of-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1959,8 +1960,8 @@
 - [2022-07-16-基于-CRON-库扩展的分布式-Crontab-的实现](https://toutiao.io/k/kx9h6j4) 
 - [2022-07-16-字节遭遇离职潮](https://toutiao.io/k/84iz6z1) 
 - [2022-07-16-开源数据质量解决方案——Apache-Griffin入门宝典](https://toutiao.io/k/pqkj5w9) 
-- [2022-07-16-前端趋势-2022](https://toutiao.io/k/6kgja66) 
 - [2022-07-16-MySQL六十六问，两万字+五十图详解！有点六！](https://toutiao.io/k/5cpvhga) 
+- [2022-07-16-前端趋势-2022](https://toutiao.io/k/6kgja66) 
 - [2022-07-16-基于大数据的OLAP技术，4个角度一篇讲明白](https://toutiao.io/k/w2jzwpe) 
 - [2022-07-16-K8s里Spring-微服务项目，Pod-关闭对用户的影响比较大！](https://toutiao.io/k/te7l1kw) 
 - [2022-07-16-SDN系统方法-|-1.-概述](https://toutiao.io/k/9gemqsj) 

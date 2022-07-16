@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-16 07:13:29。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-16 07:37:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,8 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-07-16-iMac-内置系统-macOS+外置-SSD-双系统-每次启动都跑到内置-OS](https://www.v2ex.com/t/866633) 
+- [2022-07-16-晚上睡觉空调开多少度？](https://www.v2ex.com/t/866631) 
 - [2022-07-16-上海-不加班-外企-招-Java-、C++、安卓、中级测试、支持工程师、初级-devOps，-Java-和-测试有残疾人岗位](https://www.v2ex.com/t/866629) 
 - [2022-07-16-普通人到底如何才能申请到-Google-Voice？-GV-这么难申请，网络上为什么有那么多-GV-号在卖？](https://www.v2ex.com/t/866625) 
 - [2022-07-16-工作-5-年出去读书，再就业的时候高级的-title-还有么？还是要从初级干起？](https://www.v2ex.com/t/866624) 
@@ -1919,7 +1921,6 @@
 - [2022-07-16-北京报驾校有“内推”渠道吗](https://www.v2ex.com/t/866615) 
 - [2022-07-16-码了个新玩意儿，-redis-命令行工具集](https://www.v2ex.com/t/866613) 
 - [2022-07-16-已知一个点坐标，中心点，线段长度和角度。求在坐标系中另外一个点？求公式。](https://www.v2ex.com/t/866612) 
-- [2022-07-16-加密货币出现前，暗网是如何进行匿名支付的呢？](https://www.v2ex.com/t/866611) 
 - [2022-07-16-懒是第一生产力，部署后无成本追番的项目](https://www.v2ex.com/t/866609) 
 - [2022-07-16-请教-Mac-Intel-vs.-Mac-M1-在开发-Apple-应用的区别](https://www.v2ex.com/t/866608) 
 - [2022-07-16-如何优雅地把一个-10g-左右的-zip-文件从-mac-系统放到-ios-系统里呢？](https://www.v2ex.com/t/866607) 
@@ -1935,8 +1936,6 @@
 - [2022-07-16-Mac-Studio-的上至少-4-个-USB-接口是残血的-5Gb/s](https://www.v2ex.com/t/866591) 
 - [2022-07-16-苹果查找手机的疑问](https://www.v2ex.com/t/866589) 
 - [2022-07-16-m1-mac-外接显示器的问题](https://www.v2ex.com/t/866586) 
-- [2022-07-16-openwrt-ssp+问题请教](https://www.v2ex.com/t/866584) 
-- [2022-07-16-Win-11-开机之后，-WiFi-连上后自动断开成地球图标](https://www.v2ex.com/t/866581) 
 - [2022-07-16-DDD-中的几个困难问题-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15218&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fdifficult-problems-in-domain-driven-design%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-16-CPU是如何进行分支预测的？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15217&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FZ9KWmfCBhCixdkZGEeLStQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-16-如何应对团队协作的五大障碍-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15216&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-solve-five-dysfunctions-of-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

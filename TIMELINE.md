@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-16 06:45:42。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-07-16 07:13:29。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,7 @@
 </summary>
 
 
+- [【V2EX】2022-07-16-上海-不加班-外企-招-Java-、C++、安卓、中级测试、支持工程师、初级-devOps，-Java-和-测试有残疾人岗位](https://www.v2ex.com/t/866629) 
 - [【V2EX】2022-07-16-普通人到底如何才能申请到-Google-Voice？-GV-这么难申请，网络上为什么有那么多-GV-号在卖？](https://www.v2ex.com/t/866625) 
 - [【V2EX】2022-07-16-工作-5-年出去读书，再就业的时候高级的-title-还有么？还是要从初级干起？](https://www.v2ex.com/t/866624) 
 - [【V2EX】2022-07-16-如何解决小米机器人无法连接网件路由器的问题？](https://www.v2ex.com/t/866623) 
@@ -76,7 +77,6 @@
 - [【V2EX】2022-07-16-深圳电信已经禁止-IPTV-宽带双公网-IP](https://www.v2ex.com/t/866620) 
 - [【V2EX】2022-07-16-Win11-神奇-bug，视频无法播放（目前无法复现](https://www.v2ex.com/t/866619) 
 - [【V2EX】2022-07-16-推荐个-Windows-上用的词典吧！现在用欧路-Eudic-还不错，以前用过-Lingoes-但是不更新了。不知道有没有别的更好用的。](https://www.v2ex.com/t/866618) 
-- [【V2EX】2022-07-16-有没有国内能用的没有被墙的-DHT-bootstrap-node](https://www.v2ex.com/t/866617) 
 - [【V2EX】2022-07-16-北京报驾校有“内推”渠道吗](https://www.v2ex.com/t/866615) 
 - [【V2EX】2022-07-16-jshell-如何调用-dubbo-远程服务接口](https://www.v2ex.com/t/866614) 
 - [【V2EX】2022-07-16-码了个新玩意儿，-redis-命令行工具集](https://www.v2ex.com/t/866613) 
@@ -103,7 +103,6 @@
 - [【V2EX】2022-07-16-openwrt-ssp+问题请教](https://www.v2ex.com/t/866584) 
 - [【V2EX】2022-07-16-Brave-浏览器中文翻译是官翻吗？](https://www.v2ex.com/t/866583) 
 - [【V2EX】2022-07-16-Win-11-开机之后，-WiFi-连上后自动断开成地球图标](https://www.v2ex.com/t/866581) 
-- [【V2EX】2022-07-16-网络调试工具-surge-4-车位-135-软妹币，有需要的快来。](https://www.v2ex.com/t/866579) 
 - [【技术头条】2022-07-16-DDD-中的几个困难问题-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15218&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fdifficult-problems-in-domain-driven-design%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-16-CPU是如何进行分支预测的？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15217&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FZ9KWmfCBhCixdkZGEeLStQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-16-如何应对团队协作的五大障碍-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15216&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-solve-five-dysfunctions-of-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

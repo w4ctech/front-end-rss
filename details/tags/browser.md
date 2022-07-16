@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-16 03:16:12。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-16 04:04:01。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -16,4 +16,3 @@
 - [2022-06-12-基于文字的URL锚点定位与::target-text样式设置](https://www.zhangxinxu.com/wordpress/2022/06/url-anchor-target-text/) 
 - [2022-07-16-Brave-浏览器中文翻译是官翻吗？](https://www.v2ex.com/t/866583) 
 - [2022-07-16-网络调试工具-surge-4-车位-135-软妹币，有需要的快来。](https://www.v2ex.com/t/866579) 
-- [2022-07-15-最近沉迷于寻找支持自建的-e2ee/zero-knowledge-的开源应用](https://www.v2ex.com/t/866544) 

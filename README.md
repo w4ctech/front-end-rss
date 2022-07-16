@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-07-16 03:16:12，:rocket: 更新条数: +2016， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-07-16 04:04:01，:rocket: 更新条数: +2013， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,14 @@
 </summary>
 
 
+- [2022-07-16-现在还有人在搞区块链吗？区块链存在的意义到底是什么？](https://www.v2ex.com/t/866604) ![](assets/new.png)  
+- [2022-07-16-基于-Aws-Glue-构建大数据方案有没有实战过的，求分享](https://www.v2ex.com/t/866603) ![](assets/new.png)  
+- [2022-07-16-请教前端大佬，星巴克小程序的首页效果该如何实现](https://www.v2ex.com/t/866602) ![](assets/new.png)  
+- [2022-07-16-没有安卓手机，能不能将-youtube-转到美区？](https://www.v2ex.com/t/866601) ![](assets/new.png)  
+- [2022-07-16-求助，-Win10-更新后自动重启如何关闭？](https://www.v2ex.com/t/866600) ![](assets/new.png)  
+- [2022-07-16-请教口语达人:-说口语时,-英语和德语总是会互相影响,互相冲突怎么办?](https://www.v2ex.com/t/866597) ![](assets/new.png)  
+- [2022-07-16-MacBook-Pro-16-M1-Max，-网速只能达到-60M（100M-宽带的情况下），这是什么情况，大家出现过同样的问题吗？](https://www.v2ex.com/t/866596) ![](assets/new.png)  
+- [2022-07-16-请问-pc-哪个输入法能支持首字母大写，剩下的小写这个功能？](https://www.v2ex.com/t/866594) ![](assets/new.png)  
 - [2022-07-16-国内现在还有大量新型号的电脑和手机在使用不支持-802.11ac-的无限网卡么？](https://www.v2ex.com/t/866593) ![](assets/new.png)  
 - [2022-07-16-冒个泡-123](https://www.v2ex.com/t/866592) ![](assets/new.png)  
 - [2022-07-16-Mac-Studio-的上至少-4-个-USB-接口是残血的-5Gb/s](https://www.v2ex.com/t/866591) ![](assets/new.png)  
@@ -503,14 +511,6 @@
 - [2022-07-16-Win-11-开机之后，-WiFi-连上后自动断开成地球图标](https://www.v2ex.com/t/866581) ![](assets/new.png)  
 - [2022-07-16-网络调试工具-surge-4-车位-135-软妹币，有需要的快来。](https://www.v2ex.com/t/866579) ![](assets/new.png)  
 - [2022-07-16-日常工作与人沟通时总想笑是为啥？](https://www.v2ex.com/t/866577) ![](assets/new.png)  
-- [2022-07-16-Manjaro-KDE-下配置-NoMachine-远程访问時多用户使用独立-GUI。](https://www.v2ex.com/t/866575) ![](assets/new.png)  
-- [2022-07-16-百度网盘-适配-Apple-Silicon](https://www.v2ex.com/t/866574) ![](assets/new.png)  
-- [2022-07-16-代码生成](https://www.v2ex.com/t/866573) ![](assets/new.png)  
-- [2022-07-16-内存，作为计算机核心零部件中成本最低，性能提升最明显的一个，为啥品牌机厂商却都控制的非常谨慎，不愿意多给，基本要等四五年才给加-2G，现在很多万元本还是-...](https://www.v2ex.com/t/866572) ![](assets/new.png)  
-- [2022-07-16-前端用-VUE3-打包静态文件，后端-API-是否需要考虑安全保护？](https://www.v2ex.com/t/866571) ![](assets/new.png)  
-- [2022-07-16-C++分配-vector-进行初始化问题，想要分配一个-N-个字符串类型的-vector,后续直接下标访问,有没有比较好的方式？](https://www.v2ex.com/t/866570) ![](assets/new.png)  
-- [2022-07-16-debian-VPS-有啥整盘搬家的办法吗?](https://www.v2ex.com/t/866568) ![](assets/new.png)  
-- [2022-07-16-阿里云的服务器定价,-看不太懂了](https://www.v2ex.com/t/866567) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

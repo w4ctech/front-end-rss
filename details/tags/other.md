@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-16 11:36:51。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-16 12:21:52。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,9 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-07-16-创业冷启动，用户增长可以联系我](https://www.v2ex.com/t/866674) 
+- [2022-07-16-今天去了深圳龙华区人民医院测视力](https://www.v2ex.com/t/866673) 
+- [2022-07-16-dynv6-挂掉超过-24h-了](https://www.v2ex.com/t/866672) 
 - [2022-07-16-刚看-v-友说完，今天买到了假-airpods2，警惕黄鱼教育-airpods，特给大家发来鉴定方法。](https://www.v2ex.com/t/866671) 
 - [2022-07-16-找份运维工作](https://www.v2ex.com/t/866670) 
 - [2022-07-16-分享一个-Go-方法调用姿势](https://www.v2ex.com/t/866666) 
@@ -1937,8 +1940,6 @@
 - [2022-07-16-iMac-内置系统-macOS+外置-SSD-双系统-每次启动都跑到内置-OS](https://www.v2ex.com/t/866633) 
 - [2022-07-16-晚上睡觉空调开多少度？](https://www.v2ex.com/t/866631) 
 - [2022-07-16-上海-不加班-外企-招-Java-、C++、安卓、中级测试、支持工程师、初级-devOps，-Java-和-测试有残疾人岗位](https://www.v2ex.com/t/866629) 
-- [2022-07-16-普通人到底如何才能申请到-Google-Voice？-GV-这么难申请，网络上为什么有那么多-GV-号在卖？](https://www.v2ex.com/t/866625) 
-- [2022-07-16-工作-5-年出去读书，再就业的时候高级的-title-还有么？还是要从初级干起？](https://www.v2ex.com/t/866624) 
 - [2022-07-16-DDD-中的几个困难问题-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15218&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fdifficult-problems-in-domain-driven-design%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-16-CPU是如何进行分支预测的？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15217&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FZ9KWmfCBhCixdkZGEeLStQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-16-如何应对团队协作的五大障碍-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15216&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-solve-five-dysfunctions-of-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

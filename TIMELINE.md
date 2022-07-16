@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-16 09:39:27。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-07-16 10:14:38。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,12 @@
 </summary>
 
 
+- [【V2EX】2022-07-16-ntt-准备建设日美之间光缆](https://www.v2ex.com/t/866657) 
+- [【V2EX】2022-07-16-前端做点啥小工具可以写到简历上](https://www.v2ex.com/t/866656) 
+- [【V2EX】2022-07-16-一只大橘找领养](https://www.v2ex.com/t/866655) 
+- [【V2EX】2022-07-16-用-rust-撸了一个-lisp-解释器](https://www.v2ex.com/t/866654) 
+- [【V2EX】2022-07-16-双屏的时候关闭副屏时如何自动禁止窗口还能拖动到副屏上](https://www.v2ex.com/t/866653) 
+- [【V2EX】2022-07-16-macos-上的-QQ-居然需要手机扫码，什么毛病了](https://www.v2ex.com/t/866652) 
 - [【V2EX】2022-07-16-国内有没有什么类似于-DNSPod-Pulic-DNS-或-NextDNS-的个性化-DNS-服务？](https://www.v2ex.com/t/866651) 
 - [【V2EX】2022-07-16-北航-2023-非全日制考研，一起信息交流，探讨与相互监督。](https://www.v2ex.com/t/866650) 
 - [【V2EX】2022-07-16-现阶段感觉租房太难了，第一次这么强烈的想买房的欲望](https://www.v2ex.com/t/866648) 
@@ -99,12 +105,6 @@
 - [【V2EX】2022-07-16-iPhone-拍的实况图，图+视频，该使用什么软件备份？](https://www.v2ex.com/t/866610) 
 - [【V2EX】2022-07-16-懒是第一生产力，部署后无成本追番的项目](https://www.v2ex.com/t/866609) 
 - [【V2EX】2022-07-16-请教-Mac-Intel-vs.-Mac-M1-在开发-Apple-应用的区别](https://www.v2ex.com/t/866608) 
-- [【V2EX】2022-07-16-如何优雅地把一个-10g-左右的-zip-文件从-mac-系统放到-ios-系统里呢？](https://www.v2ex.com/t/866607) 
-- [【V2EX】2022-07-16-想问一下要不要把-intel-mbp-换成-m1-的-mba](https://www.v2ex.com/t/866606) 
-- [【V2EX】2022-07-16-现在换-M1，还是等九月发布会？](https://www.v2ex.com/t/866605) 
-- [【V2EX】2022-07-16-现在还有人在搞区块链吗？区块链存在的意义到底是什么？](https://www.v2ex.com/t/866604) 
-- [【V2EX】2022-07-16-基于-Aws-Glue-构建大数据方案有没有实战过的，求分享](https://www.v2ex.com/t/866603) 
-- [【V2EX】2022-07-16-请教前端大佬，星巴克小程序的首页效果该如何实现](https://www.v2ex.com/t/866602) 
 - [【技术头条】2022-07-16-DDD-中的几个困难问题-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15218&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fdifficult-problems-in-domain-driven-design%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-16-CPU是如何进行分支预测的？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15217&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FZ9KWmfCBhCixdkZGEeLStQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-16-如何应对团队协作的五大障碍-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15216&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-solve-five-dysfunctions-of-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

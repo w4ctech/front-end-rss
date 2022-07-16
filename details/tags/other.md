@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-16 05:37:53。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-16 06:16:30。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,9 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-07-16-普通人到底如何才能申请到-Google-Voice？-GV-这么难申请，网络上为什么有那么多-GV-号在卖？](https://www.v2ex.com/t/866625) 
+- [2022-07-16-工作-5-年出去读书，再就业的时候高级的-title-还有么？还是要从初级干起？](https://www.v2ex.com/t/866624) 
+- [2022-07-16-深圳电信已经禁止-IPTV-宽带双公网-IP](https://www.v2ex.com/t/866620) 
 - [2022-07-16-推荐个-Windows-上用的词典吧！现在用欧路-Eudic-还不错，以前用过-Lingoes-但是不更新了。不知道有没有别的更好用的。](https://www.v2ex.com/t/866618) 
 - [2022-07-16-北京报驾校有“内推”渠道吗](https://www.v2ex.com/t/866615) 
 - [2022-07-16-码了个新玩意儿，-redis-命令行工具集](https://www.v2ex.com/t/866613) 
@@ -1934,8 +1937,6 @@
 - [2022-07-16-openwrt-ssp+问题请教](https://www.v2ex.com/t/866584) 
 - [2022-07-16-Win-11-开机之后，-WiFi-连上后自动断开成地球图标](https://www.v2ex.com/t/866581) 
 - [2022-07-16-日常工作与人沟通时总想笑是为啥？](https://www.v2ex.com/t/866577) 
-- [2022-07-16-代码生成](https://www.v2ex.com/t/866573) 
-- [2022-07-16-C++分配-vector-进行初始化问题，想要分配一个-N-个字符串类型的-vector,后续直接下标访问,有没有比较好的方式？](https://www.v2ex.com/t/866570) 
 - [2022-07-16-DDD-中的几个困难问题-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15218&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fdifficult-problems-in-domain-driven-design%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-16-CPU是如何进行分支预测的？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15217&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FZ9KWmfCBhCixdkZGEeLStQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-16-如何应对团队协作的五大障碍-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15216&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-solve-five-dysfunctions-of-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1959,4 +1960,7 @@
 - [2022-07-16-前端趋势-2022](https://toutiao.io/k/6kgja66) 
 - [2022-07-16-开源数据质量解决方案——Apache-Griffin入门宝典](https://toutiao.io/k/pqkj5w9) 
 - [2022-07-16-基于大数据的OLAP技术，4个角度一篇讲明白](https://toutiao.io/k/w2jzwpe) 
+- [2022-07-16-MySQL六十六问，两万字+五十图详解！有点六！](https://toutiao.io/k/5cpvhga) 
+- [2022-07-16-SDN系统方法-|-1.-概述](https://toutiao.io/k/9gemqsj) 
+- [2022-07-16-K8s里Spring-微服务项目，Pod-关闭对用户的影响比较大！](https://toutiao.io/k/te7l1kw) 
 - [2022-07-16-推荐-服务端监控架构设计与实践](https://toutiao.io/k/xhwa9mo) 

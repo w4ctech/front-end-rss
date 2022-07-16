@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-07-16 05:37:53，:rocket: 更新条数: +2011， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-07-16 06:16:30，:rocket: 更新条数: +2014， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,12 @@
 </summary>
 
 
+- [2022-07-16-普通人到底如何才能申请到-Google-Voice？-GV-这么难申请，网络上为什么有那么多-GV-号在卖？](https://www.v2ex.com/t/866625) ![](assets/new.png)  
+- [2022-07-16-工作-5-年出去读书，再就业的时候高级的-title-还有么？还是要从初级干起？](https://www.v2ex.com/t/866624) ![](assets/new.png)  
+- [2022-07-16-如何解决小米机器人无法连接网件路由器的问题？](https://www.v2ex.com/t/866623) ![](assets/new.png)  
+- [2022-07-16-戴尔-s2721qs-适配-Mac-mini-m1-可以了吗？](https://www.v2ex.com/t/866622) ![](assets/new.png)  
+- [2022-07-16-vue3-eslint-和-prettier-都配了，格式化有冲突，看这个冲突怎么解决](https://www.v2ex.com/t/866621) ![](assets/new.png)  
+- [2022-07-16-深圳电信已经禁止-IPTV-宽带双公网-IP](https://www.v2ex.com/t/866620) ![](assets/new.png)  
 - [2022-07-16-Win11-神奇-bug，视频无法播放（目前无法复现](https://www.v2ex.com/t/866619) ![](assets/new.png)  
 - [2022-07-16-推荐个-Windows-上用的词典吧！现在用欧路-Eudic-还不错，以前用过-Lingoes-但是不更新了。不知道有没有别的更好用的。](https://www.v2ex.com/t/866618) ![](assets/new.png)  
 - [2022-07-16-有没有国内能用的没有被墙的-DHT-bootstrap-node](https://www.v2ex.com/t/866617) ![](assets/new.png)  
@@ -505,12 +511,6 @@
 - [2022-07-16-如何优雅地把一个-10g-左右的-zip-文件从-mac-系统放到-ios-系统里呢？](https://www.v2ex.com/t/866607) ![](assets/new.png)  
 - [2022-07-16-想问一下要不要把-intel-mbp-换成-m1-的-mba](https://www.v2ex.com/t/866606) ![](assets/new.png)  
 - [2022-07-16-现在换-M1，还是等九月发布会？](https://www.v2ex.com/t/866605) ![](assets/new.png)  
-- [2022-07-16-现在还有人在搞区块链吗？区块链存在的意义到底是什么？](https://www.v2ex.com/t/866604) ![](assets/new.png)  
-- [2022-07-16-基于-Aws-Glue-构建大数据方案有没有实战过的，求分享](https://www.v2ex.com/t/866603) ![](assets/new.png)  
-- [2022-07-16-请教前端大佬，星巴克小程序的首页效果该如何实现](https://www.v2ex.com/t/866602) ![](assets/new.png)  
-- [2022-07-16-没有安卓手机，能不能将-youtube-转到美区？](https://www.v2ex.com/t/866601) ![](assets/new.png)  
-- [2022-07-16-求助，-Win10-更新后自动重启如何关闭？](https://www.v2ex.com/t/866600) ![](assets/new.png)  
-- [2022-07-16-MacBook-Pro-16-M1-Max，-网速只能达到-60M（100M-宽带的情况下），这是什么情况，大家出现过同样的问题吗？](https://www.v2ex.com/t/866596) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -560,6 +560,9 @@
 - [2022-07-16-开源数据质量解决方案——Apache-Griffin入门宝典](https://toutiao.io/k/pqkj5w9) ![](assets/new.png)  
 - [2022-07-16-如何在-React-18中-利用Suspense-实现-服务端渲染SSR](https://toutiao.io/k/7yq9ig0) ![](assets/new.png)  
 - [2022-07-16-基于大数据的OLAP技术，4个角度一篇讲明白](https://toutiao.io/k/w2jzwpe) ![](assets/new.png)  
+- [2022-07-16-MySQL六十六问，两万字+五十图详解！有点六！](https://toutiao.io/k/5cpvhga) ![](assets/new.png)  
+- [2022-07-16-SDN系统方法-|-1.-概述](https://toutiao.io/k/9gemqsj) ![](assets/new.png)  
+- [2022-07-16-K8s里Spring-微服务项目，Pod-关闭对用户的影响比较大！](https://toutiao.io/k/te7l1kw) ![](assets/new.png)  
 - [2022-07-16-推荐-服务端监控架构设计与实践](https://toutiao.io/k/xhwa9mo) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

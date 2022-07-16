@@ -9953,6 +9953,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "发了两个贴子，关于解三角函数正弦余弦的公式的，但是带入公式都没成功，所以描述一下问题产生的原因。",
+        "link": "https://www.v2ex.com/t/866714",
+        "date": "2022-07-16"
+      },
+      {
         "title": "Stage Manager 的左侧边栏只能显示四个软件吗？",
         "link": "https://www.v2ex.com/t/866713",
         "date": "2022-07-16"
@@ -10120,16 +10125,6 @@
       {
         "title": "分享一个 Go 方法调用姿势",
         "link": "https://www.v2ex.com/t/866666",
-        "date": "2022-07-16"
-      },
-      {
-        "title": "[请教] windows 笔记本脱手之后再回来，如何保证系统绝对安全？",
-        "link": "https://www.v2ex.com/t/866665",
-        "date": "2022-07-16"
-      },
-      {
-        "title": "怎么能快速搭建一个 RESTful 的服务用来做简单的授权在线控制",
-        "link": "https://www.v2ex.com/t/866664",
         "date": "2022-07-16"
       }
     ]

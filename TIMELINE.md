@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-16 10:40:48。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-07-16 11:13:14。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,11 @@
 </summary>
 
 
+- [【V2EX】2022-07-16-请教-windows-笔记本脱手之后再回来，如何保证系统绝对安全？](https://www.v2ex.com/t/866665) 
+- [【V2EX】2022-07-16-怎么能快速搭建一个-RESTful-的服务用来做简单的授权在线控制](https://www.v2ex.com/t/866664) 
+- [【V2EX】2022-07-16-买的期房，逃过一劫](https://www.v2ex.com/t/866663) 
+- [【V2EX】2022-07-16-是不是绝大多数-bt-软件在国内都没速度](https://www.v2ex.com/t/866662) 
+- [【V2EX】2022-07-16-ZeroTier-连接问题](https://www.v2ex.com/t/866660) 
 - [【V2EX】2022-07-16-这轮疫情感觉来的莫名其妙](https://www.v2ex.com/t/866658) 
 - [【V2EX】2022-07-16-ntt-准备建设日美之间光缆](https://www.v2ex.com/t/866657) 
 - [【V2EX】2022-07-16-前端做点啥小工具可以写到简历上](https://www.v2ex.com/t/866656) 
@@ -99,11 +104,6 @@
 - [【V2EX】2022-07-16-深圳电信已经禁止-IPTV-宽带双公网-IP](https://www.v2ex.com/t/866620) 
 - [【V2EX】2022-07-16-Win11-神奇-bug，视频无法播放（目前无法复现](https://www.v2ex.com/t/866619) 
 - [【V2EX】2022-07-16-推荐个-Windows-上用的词典吧！现在用欧路-Eudic-还不错，以前用过-Lingoes-但是不更新了。不知道有没有别的更好用的。](https://www.v2ex.com/t/866618) 
-- [【V2EX】2022-07-16-北京报驾校有“内推”渠道吗](https://www.v2ex.com/t/866615) 
-- [【V2EX】2022-07-16-jshell-如何调用-dubbo-远程服务接口](https://www.v2ex.com/t/866614) 
-- [【V2EX】2022-07-16-码了个新玩意儿，-redis-命令行工具集](https://www.v2ex.com/t/866613) 
-- [【V2EX】2022-07-16-已知一个点坐标，中心点，线段长度和角度。求在坐标系中另外一个点？求公式。](https://www.v2ex.com/t/866612) 
-- [【V2EX】2022-07-16-iPhone-拍的实况图，图+视频，该使用什么软件备份？](https://www.v2ex.com/t/866610) 
 - [【技术头条】2022-07-16-DDD-中的几个困难问题-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15218&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fdifficult-problems-in-domain-driven-design%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-16-CPU是如何进行分支预测的？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15217&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FZ9KWmfCBhCixdkZGEeLStQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-16-如何应对团队协作的五大障碍-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15216&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-solve-five-dysfunctions-of-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

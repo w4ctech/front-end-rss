@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-07-16 17:13:36，:rocket: 更新条数: +2015， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-07-16 17:38:53，:rocket: 更新条数: +2014， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-07-16-Stage-Manager-的左侧边栏只能显示四个软件吗？](https://www.v2ex.com/t/866713) ![](assets/new.png)  
 - [2022-07-16-之前发了一个问题，可能没有图片，大家不太理解，我弄了一个图片。](https://www.v2ex.com/t/866709) ![](assets/new.png)  
 - [2022-07-16-上海转租，浦东/蓝村路-附近就是-4/6-号线](https://www.v2ex.com/t/866708) ![](assets/new.png)  
 - [2022-07-16-各位大佬问一个-Xcode-App-Group-的问题](https://www.v2ex.com/t/866707) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-07-16-愁死了!-关于分布式定时任务执行编排问题](https://www.v2ex.com/t/866688) ![](assets/new.png)  
 - [2022-07-16-有小伙伴公司找临时兼职吗，-Base-海淀](https://www.v2ex.com/t/866687) ![](assets/new.png)  
 - [2022-07-16-有-iterm2-汉化版吗](https://www.v2ex.com/t/866685) ![](assets/new.png)  
-- [2022-07-16-哈尔滨啤酒也太难喝了](https://www.v2ex.com/t/866683) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-16 17:13:36。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-16 17:38:53。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,7 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-07-16-Stage-Manager-的左侧边栏只能显示四个软件吗？](https://www.v2ex.com/t/866713) 
 - [2022-07-16-之前发了一个问题，可能没有图片，大家不太理解，我弄了一个图片。](https://www.v2ex.com/t/866709) 
 - [2022-07-16-上海转租，浦东/蓝村路-附近就是-4/6-号线](https://www.v2ex.com/t/866708) 
 - [2022-07-16-各位大佬问一个-Xcode-App-Group-的问题](https://www.v2ex.com/t/866707) 
@@ -1938,8 +1939,6 @@
 - [2022-07-16-刚看-v-友说完，今天买到了假-airpods2，警惕黄鱼教育-airpods，特给大家发来鉴定方法。](https://www.v2ex.com/t/866671) 
 - [2022-07-16-找份运维工作](https://www.v2ex.com/t/866670) 
 - [2022-07-16-分享一个-Go-方法调用姿势](https://www.v2ex.com/t/866666) 
-- [2022-07-16-买的期房，逃过一劫](https://www.v2ex.com/t/866663) 
-- [2022-07-16-是不是绝大多数-bt-软件在国内都没速度](https://www.v2ex.com/t/866662) 
 - [2022-07-16-DDD-中的几个困难问题-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15218&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fdifficult-problems-in-domain-driven-design%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-16-CPU是如何进行分支预测的？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15217&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FZ9KWmfCBhCixdkZGEeLStQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-16-如何应对团队协作的五大障碍-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15216&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-solve-five-dysfunctions-of-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

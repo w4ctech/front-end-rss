@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-07-16 01:09:09，:rocket: 更新条数: +2013， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-07-16 03:16:12，:rocket: 更新条数: +2016， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,19 @@
 </summary>
 
 
+- [2022-07-16-国内现在还有大量新型号的电脑和手机在使用不支持-802.11ac-的无限网卡么？](https://www.v2ex.com/t/866593) ![](assets/new.png)  
+- [2022-07-16-冒个泡-123](https://www.v2ex.com/t/866592) ![](assets/new.png)  
+- [2022-07-16-Mac-Studio-的上至少-4-个-USB-接口是残血的-5Gb/s](https://www.v2ex.com/t/866591) ![](assets/new.png)  
+- [2022-07-16-苹果查找手机的疑问](https://www.v2ex.com/t/866589) ![](assets/new.png)  
+- [2022-07-16-m1-mac-外接显示器的问题](https://www.v2ex.com/t/866586) ![](assets/new.png)  
+- [2022-07-16-MongoDB-Atlas-和-AWS-Lambda-链接出现超时错误,-求解决方法](https://www.v2ex.com/t/866585) ![](assets/new.png)  
+- [2022-07-16-openwrt-ssp+问题请教](https://www.v2ex.com/t/866584) ![](assets/new.png)  
+- [2022-07-16-Brave-浏览器中文翻译是官翻吗？](https://www.v2ex.com/t/866583) ![](assets/new.png)  
+- [2022-07-16-请问:-德语信件回复这句话是否恰当:-Ich-würde-mich-über-Antworten-freuen](https://www.v2ex.com/t/866582) ![](assets/new.png)  
+- [2022-07-16-Win-11-开机之后，-WiFi-连上后自动断开成地球图标](https://www.v2ex.com/t/866581) ![](assets/new.png)  
+- [2022-07-16-网络调试工具-surge-4-车位-135-软妹币，有需要的快来。](https://www.v2ex.com/t/866579) ![](assets/new.png)  
+- [2022-07-16-日常工作与人沟通时总想笑是为啥？](https://www.v2ex.com/t/866577) ![](assets/new.png)  
+- [2022-07-16-Manjaro-KDE-下配置-NoMachine-远程访问時多用户使用独立-GUI。](https://www.v2ex.com/t/866575) ![](assets/new.png)  
 - [2022-07-16-百度网盘-适配-Apple-Silicon](https://www.v2ex.com/t/866574) ![](assets/new.png)  
 - [2022-07-16-代码生成](https://www.v2ex.com/t/866573) ![](assets/new.png)  
 - [2022-07-16-内存，作为计算机核心零部件中成本最低，性能提升最明显的一个，为啥品牌机厂商却都控制的非常谨慎，不愿意多给，基本要等四五年才给加-2G，现在很多万元本还是-...](https://www.v2ex.com/t/866572) ![](assets/new.png)  
@@ -498,19 +511,6 @@
 - [2022-07-16-C++分配-vector-进行初始化问题，想要分配一个-N-个字符串类型的-vector,后续直接下标访问,有没有比较好的方式？](https://www.v2ex.com/t/866570) ![](assets/new.png)  
 - [2022-07-16-debian-VPS-有啥整盘搬家的办法吗?](https://www.v2ex.com/t/866568) ![](assets/new.png)  
 - [2022-07-16-阿里云的服务器定价,-看不太懂了](https://www.v2ex.com/t/866567) ![](assets/new.png)  
-- [2022-07-16-UNRAID-优惠折扣-5-折依然有效](https://www.v2ex.com/t/866566) ![](assets/new.png)  
-- [2022-07-16-youtube-app-如何改变地理位置以享受会员权益？](https://www.v2ex.com/t/866565) ![](assets/new.png)  
-- [2022-07-15-最近发现了-iPhone-和-iPad-上-youtube-应用有了画中画功能](https://www.v2ex.com/t/866563) ![](assets/new.png)  
-- [2022-07-15-《有孩子以后就是一切原罪的开始》后续](https://www.v2ex.com/t/866562) ![](assets/new.png)  
-- [2022-07-15-你最喜欢的-ORM-有哪些最讨厌的地方？](https://www.v2ex.com/t/866561) ![](assets/new.png)  
-- [2022-07-15-求移动-rax3000z-的超级密码](https://www.v2ex.com/t/866560) ![](assets/new.png)  
-- [2022-07-15-去店里看新出的-M2-Air，下单了深空灰色。。。](https://www.v2ex.com/t/866559) ![](assets/new.png)  
-- [2022-07-15-如何限制-PHP-每秒只执行一次？](https://www.v2ex.com/t/866558) ![](assets/new.png)  
-- [2022-07-15-下单了-mac-mini-做-NAS，-mac-支持-raid-吗？有几个问题想请教](https://www.v2ex.com/t/866557) ![](assets/new.png)  
-- [2022-07-15-智能手机会调节充电速率，越接近-100%-越慢。那么用移动电源给手机充电，从-5%-充到-15%，与，从-85%-充到-95%-所消耗的容量相同吗？](https://www.v2ex.com/t/866556) ![](assets/new.png)  
-- [2022-07-15-实时保存股票-tick-数据，采用什么数据结构或者数据库比较好？](https://www.v2ex.com/t/866555) ![](assets/new.png)  
-- [2022-07-15-如何查询-Hive-两个分区的-diff？](https://www.v2ex.com/t/866554) ![](assets/new.png)  
-- [2022-07-15-为什么-figma-设计-UI-的时候，大家都把-app-的多个界面（都是以-Frame-形式一个个呈现）放在一个-Page-里](https://www.v2ex.com/t/866553) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -554,8 +554,12 @@
 
 
 - [2022-07-16-优质网站同好者周刊（第-074-期）-|-倾城博客](https://toutiao.io/k/wjiq1dv) ![](assets/new.png)  
-- [2022-07-16-字节遭遇离职潮](https://toutiao.io/k/84iz6z1) ![](assets/new.png)  
 - [2022-07-16-基于-CRON-库扩展的分布式-Crontab-的实现](https://toutiao.io/k/kx9h6j4) ![](assets/new.png)  
+- [2022-07-16-字节遭遇离职潮](https://toutiao.io/k/84iz6z1) ![](assets/new.png)  
+- [2022-07-16-前端趋势-2022](https://toutiao.io/k/6kgja66) ![](assets/new.png)  
+- [2022-07-16-开源数据质量解决方案——Apache-Griffin入门宝典](https://toutiao.io/k/pqkj5w9) ![](assets/new.png)  
+- [2022-07-16-如何在-React-18中-利用Suspense-实现-服务端渲染SSR](https://toutiao.io/k/7yq9ig0) ![](assets/new.png)  
+- [2022-07-16-基于大数据的OLAP技术，4个角度一篇讲明白](https://toutiao.io/k/w2jzwpe) ![](assets/new.png)  
 - [2022-07-16-推荐-服务端监控架构设计与实践](https://toutiao.io/k/xhwa9mo) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

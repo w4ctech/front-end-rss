@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-16 14:13:02。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-16 14:38:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,8 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-07-16-window10-提示升级-11-有必要嘛？有没有经验的老哥](https://www.v2ex.com/t/866692) 
+- [2022-07-16-网络问题：连接公司-VPN-出现问题](https://www.v2ex.com/t/866691) 
 - [2022-07-16-刚撸-Python-，问个问题](https://www.v2ex.com/t/866690) 
 - [2022-07-16-愁死了!-关于分布式定时任务执行编排问题](https://www.v2ex.com/t/866688) 
 - [2022-07-16-有小伙伴公司找临时兼职吗，-Base-海淀](https://www.v2ex.com/t/866687) 
@@ -1940,9 +1942,6 @@
 - [2022-07-16-现阶段感觉租房太难了，第一次这么强烈的想买房的欲望](https://www.v2ex.com/t/866648) 
 - [2022-07-16-村通网：-Mac-截图支持选中后移动选框](https://www.v2ex.com/t/866647) 
 - [2022-07-16-居家用-Golang-撸了一款小而美的-Markdown-静态博客程序](https://www.v2ex.com/t/866645) 
-- [2022-07-16-群的二维码设置有效期的目的是什么？](https://www.v2ex.com/t/866644) 
-- [2022-07-16-求帮忙估计下网站费用](https://www.v2ex.com/t/866642) 
-- [2022-07-16-支付-bao-扫码的活动放水了，想省钱的可以看看](https://www.v2ex.com/t/866641) 
 - [2022-07-16-DDD-中的几个困难问题-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15218&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fdifficult-problems-in-domain-driven-design%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-16-CPU是如何进行分支预测的？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15217&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FZ9KWmfCBhCixdkZGEeLStQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-16-如何应对团队协作的五大障碍-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15216&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-solve-five-dysfunctions-of-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

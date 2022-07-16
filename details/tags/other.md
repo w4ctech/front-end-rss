@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-16 05:13:56。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-16 05:37:53。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,7 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-07-16-推荐个-Windows-上用的词典吧！现在用欧路-Eudic-还不错，以前用过-Lingoes-但是不更新了。不知道有没有别的更好用的。](https://www.v2ex.com/t/866618) 
 - [2022-07-16-北京报驾校有“内推”渠道吗](https://www.v2ex.com/t/866615) 
 - [2022-07-16-码了个新玩意儿，-redis-命令行工具集](https://www.v2ex.com/t/866613) 
 - [2022-07-16-已知一个点坐标，中心点，线段长度和角度。求在坐标系中另外一个点？求公式。](https://www.v2ex.com/t/866612) 
@@ -1935,7 +1936,6 @@
 - [2022-07-16-日常工作与人沟通时总想笑是为啥？](https://www.v2ex.com/t/866577) 
 - [2022-07-16-代码生成](https://www.v2ex.com/t/866573) 
 - [2022-07-16-C++分配-vector-进行初始化问题，想要分配一个-N-个字符串类型的-vector,后续直接下标访问,有没有比较好的方式？](https://www.v2ex.com/t/866570) 
-- [2022-07-16-debian-VPS-有啥整盘搬家的办法吗?](https://www.v2ex.com/t/866568) 
 - [2022-07-16-DDD-中的几个困难问题-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15218&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fdifficult-problems-in-domain-driven-design%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-16-CPU是如何进行分支预测的？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15217&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FZ9KWmfCBhCixdkZGEeLStQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-16-如何应对团队协作的五大障碍-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15216&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-solve-five-dysfunctions-of-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

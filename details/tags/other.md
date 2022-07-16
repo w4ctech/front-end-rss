@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-16 19:37:12。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-16 20:14:17。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,7 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-07-16-感觉-USB-C-带来一个混乱的数码世界](https://www.v2ex.com/t/866718) 
 - [2022-07-16-我买的苹果手机可能是假的吗？](https://www.v2ex.com/t/866716) 
 - [2022-07-16-发了两个贴子，关于解三角函数正弦余弦的公式的，但是带入公式都没成功，所以描述一下问题产生的原因。](https://www.v2ex.com/t/866714) 
 - [2022-07-16-Stage-Manager-的左侧边栏只能显示四个软件吗？](https://www.v2ex.com/t/866713) 

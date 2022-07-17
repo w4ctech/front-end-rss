@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-07-17 16:53:08，:rocket: 更新条数: +2018， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-07-17 17:14:10，:rocket: 更新条数: +2018， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-07-17-刘海挡住顶部状态栏部分应用如何解决？](https://www.v2ex.com/t/866869) ![](assets/new.png)  
 - [2022-07-17-用-mac-来做个人的-OCR-和翻译服务器可行吗](https://www.v2ex.com/t/866867) ![](assets/new.png)  
 - [2022-07-17-话说，最近大厂裁了这么多人，腾讯和头条这种现在还有社招的-hc-吗](https://www.v2ex.com/t/866866) ![](assets/new.png)  
 - [2022-07-17-电报上又有一个新的社工库机器人了](https://www.v2ex.com/t/866865) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-07-17-Apple-Music-“xx-的电台”名字怎么改？](https://www.v2ex.com/t/866847) ![](assets/new.png)  
 - [2022-07-17-有没有必要吧-iPad-2018-pro-插卡-换成-mini6？](https://www.v2ex.com/t/866846) ![](assets/new.png)  
 - [2022-07-17-Windows-11-这个提醒色有任何办法可以改成-Windows-10-那样的吗？](https://www.v2ex.com/t/866845) ![](assets/new.png)  
-- [2022-07-17-没什么](https://www.v2ex.com/t/866844) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

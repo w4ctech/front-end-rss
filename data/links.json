@@ -9953,6 +9953,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "刘海挡住顶部状态栏部分应用如何解决？",
+        "link": "https://www.v2ex.com/t/866869",
+        "date": "2022-07-17"
+      },
+      {
         "title": "用 mac 来做个人的 OCR 和翻译服务器可行吗",
         "link": "https://www.v2ex.com/t/866867",
         "date": "2022-07-17"
@@ -10145,11 +10150,6 @@
       {
         "title": "[招聘] [深圳] 急招 App 逆向工程师，待遇丰厚",
         "link": "https://www.v2ex.com/t/866820",
-        "date": "2022-07-17"
-      },
-      {
-        "title": "Python 的 orator 如何构造多个 like 查询？",
-        "link": "https://www.v2ex.com/t/866819",
         "date": "2022-07-17"
       }
     ]

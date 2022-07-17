@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-17 11:12:15。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-17 11:36:37。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1937,7 +1937,6 @@
 - [2022-07-17-macOS-双显示器，临时关闭其中一个，如何让-macOS-正确识别?](https://www.v2ex.com/t/866790) 
 - [2022-07-17-继续推荐-Youtube-频道-—-凯文一家-Kevin-Family](https://www.v2ex.com/t/866789) 
 - [2022-07-17-mac-即时翻译-app-有推荐么？](https://www.v2ex.com/t/866786) 
-- [2022-07-17-想买个-m2-的-mba，买-8g-还是-16g-呢](https://www.v2ex.com/t/866784) 
 - [2022-07-17-DDD-中的几个困难问题-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15218&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fdifficult-problems-in-domain-driven-design%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-17-CPU是如何进行分支预测的？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15217&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FZ9KWmfCBhCixdkZGEeLStQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-17-如何应对团队协作的五大障碍-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15216&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-solve-five-dysfunctions-of-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1962,5 +1961,5 @@
 - [2022-07-17-Python-的轻量级搜索工具：Whoosh](https://toutiao.io/k/mrd7ijb) 
 - [2022-07-17-抓取速度提升-3-倍！Python-的这个内置库你用上了吗？](https://toutiao.io/k/i0xhfaw) 
 - [2022-07-17-KNIME-的新界面](https://toutiao.io/k/6npjtn5) 
-- [2022-07-17-推荐-高并发，你真的理解透彻了吗？](https://toutiao.io/k/93k2zfb) 
 - [2022-07-17-推荐-服务端监控架构设计与实践](https://toutiao.io/k/xhwa9mo) 
+- [2022-07-17-推荐-高并发，你真的理解透彻了吗？](https://toutiao.io/k/93k2zfb) 

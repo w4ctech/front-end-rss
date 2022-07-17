@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-17 14:38:39。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-17 15:14:02。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,8 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-07-17-有什么值得学习的应用数学知识嘛？或者编程的奇巧淫技？](https://www.v2ex.com/t/866859) 
+- [2022-07-17-不知道为什么雷电三硬盘盒搭配-2T-SN750-2T-写入只有-1000-多，搭配-1T-写入速度有-2000-多](https://www.v2ex.com/t/866858) 
 - [2022-07-17-绑定-gv-之后被永封还能解吗](https://www.v2ex.com/t/866857) 
 - [2022-07-17-WindowsServer-环境-API-网关选择](https://www.v2ex.com/t/866855) 
 - [2022-07-17-app-视觉问题](https://www.v2ex.com/t/866854) 
@@ -1941,7 +1943,6 @@
 - [2022-07-17-来自深渊-烈日的黄金乡-终于开播了](https://www.v2ex.com/t/866814) 
 - [2022-07-17-把米家产品接入到-Apple-home-里面，必须要用操作复杂的-home-assistant-吗？有没有简单的操作](https://www.v2ex.com/t/866812) 
 - [2022-07-17-在线密码学小工具和笔记-🐶](https://www.v2ex.com/t/866811) 
-- [2022-07-17-究竟该怎么无风险注册美区-PayPal？](https://www.v2ex.com/t/866808) 
 - [2022-07-17-DDD-中的几个困难问题-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15218&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fdifficult-problems-in-domain-driven-design%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-17-CPU是如何进行分支预测的？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15217&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FZ9KWmfCBhCixdkZGEeLStQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-17-如何应对团队协作的五大障碍-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15216&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-solve-five-dysfunctions-of-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1966,5 +1967,5 @@
 - [2022-07-17-Python-的轻量级搜索工具：Whoosh](https://toutiao.io/k/mrd7ijb) 
 - [2022-07-17-抓取速度提升-3-倍！Python-的这个内置库你用上了吗？](https://toutiao.io/k/i0xhfaw) 
 - [2022-07-17-KNIME-的新界面](https://toutiao.io/k/6npjtn5) 
-- [2022-07-17-推荐-高并发，你真的理解透彻了吗？](https://toutiao.io/k/93k2zfb) 
 - [2022-07-17-推荐-服务端监控架构设计与实践](https://toutiao.io/k/xhwa9mo) 
+- [2022-07-17-推荐-高并发，你真的理解透彻了吗？](https://toutiao.io/k/93k2zfb) 

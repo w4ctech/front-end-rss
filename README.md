@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-07-17 21:38:30，:rocket: 更新条数: +2016， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-07-17 22:13:32，:rocket: 更新条数: +2016， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-07-17-谷歌商店换区，原来购买过的软件游戏图书还能下载吗？](https://www.v2ex.com/t/866874) ![](assets/new.png)  
 - [2022-07-17-docker-compose-如何扩容自动分配端口？](https://www.v2ex.com/t/866873) ![](assets/new.png)  
 - [2022-07-17-读《山月记》有感，连续两晚让我夜不能眠。](https://www.v2ex.com/t/866872) ![](assets/new.png)  
 - [2022-07-17-刘海挡住顶部状态栏部分应用如何解决？](https://www.v2ex.com/t/866869) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-07-17-如何避免-iCloud-的登录验证信息在一台电脑上出现？](https://www.v2ex.com/t/866850) ![](assets/new.png)  
 - [2022-07-17-关于开发使用-VIM-编辑的一些问题，有老大哥指点一下吗？](https://www.v2ex.com/t/866849) ![](assets/new.png)  
 - [2022-07-17-Apple-Music-“xx-的电台”名字怎么改？](https://www.v2ex.com/t/866847) ![](assets/new.png)  
-- [2022-07-17-有没有必要吧-iPad-2018-pro-插卡-换成-mini6？](https://www.v2ex.com/t/866846) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-17 10:14:32。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-07-17 10:41:02。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,10 @@
 </summary>
 
 
+- [【V2EX】2022-07-17-刚编译好的固件无法升级，求助。](https://www.v2ex.com/t/866829) 
+- [【V2EX】2022-07-17-找个-Java-后端开发岗](https://www.v2ex.com/t/866828) 
+- [【V2EX】2022-07-17-v-友们，-27-寸-4k-显示器，求推荐一波](https://www.v2ex.com/t/866827) 
+- [【V2EX】2022-07-17-求推荐-雷电-接口的硬盘盒，用于-nvme-ssd](https://www.v2ex.com/t/866826) 
 - [【V2EX】2022-07-17-Java-->-Golang](https://www.v2ex.com/t/866824) 
 - [【V2EX】2022-07-17-docker-在没有特权模式下，里面的安装的服务无法启动（systemctl-无法启动）](https://www.v2ex.com/t/866823) 
 - [【V2EX】2022-07-17-一个游戏项目，目前寻找具有游戏开发经验的道友](https://www.v2ex.com/t/866822) 
@@ -98,9 +102,6 @@
 - [【V2EX】2022-07-17-想买个-m2-的-mba，买-8g-还是-16g-呢](https://www.v2ex.com/t/866784) 
 - [【V2EX】2022-07-17-hotmail-收不到验证邮件，是谁的锅？](https://www.v2ex.com/t/866782) 
 - [【V2EX】2022-07-17-请问有什么适合搜索峰值的算法吗？](https://www.v2ex.com/t/866781) 
-- [【V2EX】2022-07-17-轻量的深度学习图像标注格式转换工具-annotation_transform_pyqt](https://www.v2ex.com/t/866777) 
-- [【V2EX】2022-07-17-登陆谷歌账号能否跳过手机身份验证？](https://www.v2ex.com/t/866776) 
-- [【V2EX】2022-07-17-如何更改资料让美区-App-Store-免税？](https://www.v2ex.com/t/866775) 
 - [【技术头条】2022-07-17-DDD-中的几个困难问题-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15218&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fdifficult-problems-in-domain-driven-design%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-17-CPU是如何进行分支预测的？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15217&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FZ9KWmfCBhCixdkZGEeLStQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-17-如何应对团队协作的五大障碍-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15216&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-solve-five-dysfunctions-of-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-17 03:27:57。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-17 04:12:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,9 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-07-17-速速-V-我-50](https://www.v2ex.com/t/866754) 
+- [2022-07-17-客厅装饰画，有推荐的吗](https://www.v2ex.com/t/866753) 
+- [2022-07-17-输入法不能自动补全标点符号，大神求解](https://www.v2ex.com/t/866751) 
 - [2022-07-17-requests-能不能优雅地配置全局代理？](https://www.v2ex.com/t/866749) 
 - [2022-07-17-肯德基的塔克怎么卖了几天就没有了](https://www.v2ex.com/t/866746) 
 - [2022-07-17-为什么现在人这么喜欢建微信群搞各种交流群,每次打开微信几十个群每个群上万条消息根本看不过来.微信不会搞一个类似-QQ-的临时对话吗?就像是邮件的取消抄送毕竟...](https://www.v2ex.com/t/866740) 
@@ -1935,9 +1938,6 @@
 - [2022-07-16-之前发了一个问题，可能没有图片，大家不太理解，我弄了一个图片。](https://www.v2ex.com/t/866709) 
 - [2022-07-16-上海转租，浦东/蓝村路-附近就是-4/6-号线](https://www.v2ex.com/t/866708) 
 - [2022-07-16-各位大佬问一个-Xcode-App-Group-的问题](https://www.v2ex.com/t/866707) 
-- [2022-07-16-现在转行做程序员还值得吗,-29-岁了](https://www.v2ex.com/t/866705) 
-- [2022-07-16-求助！能推荐个-5~8-K-的笔记本嘛](https://www.v2ex.com/t/866702) 
-- [2022-07-16-刚在-YouTube-看到李永乐老师关于梦的解析，感觉有点意思，给大家分享一下](https://www.v2ex.com/t/866701) 
 - [2022-07-17-DDD-中的几个困难问题-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15218&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fdifficult-problems-in-domain-driven-design%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-17-CPU是如何进行分支预测的？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15217&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FZ9KWmfCBhCixdkZGEeLStQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-17-如何应对团队协作的五大障碍-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15216&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-solve-five-dysfunctions-of-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1957,7 +1957,7 @@
 - [2022-07-17-你还只知道测试金字塔？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15199&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftest-pyramid%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-17-日志中台不重不丢实现浅谈](https://toutiao.io/k/cnc323n) 
 - [2022-07-17-迈向可验证的-AI:-形式化方法的五大挑战](https://toutiao.io/k/69dbklz) 
-- [2022-07-17-万字干货｜美团酒旅数据治理实践（建议收藏）](https://toutiao.io/k/r0q48r8) 
 - [2022-07-17-Rust-P2P网络应用实战-1-P2P网络核心概念及Ping程序](https://toutiao.io/k/trxyaac) 
+- [2022-07-17-万字干货｜美团酒旅数据治理实践（建议收藏）](https://toutiao.io/k/r0q48r8) 
 - [2022-07-17-推荐-高并发，你真的理解透彻了吗？](https://toutiao.io/k/93k2zfb) 
 - [2022-07-17-推荐-服务端监控架构设计与实践](https://toutiao.io/k/xhwa9mo) 

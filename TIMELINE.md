@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-17 16:17:16。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-07-17 16:53:08。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,8 @@
 </summary>
 
 
+- [【V2EX】2022-07-17-用-mac-来做个人的-OCR-和翻译服务器可行吗](https://www.v2ex.com/t/866867) 
+- [【V2EX】2022-07-17-话说，最近大厂裁了这么多人，腾讯和头条这种现在还有社招的-hc-吗](https://www.v2ex.com/t/866866) 
 - [【V2EX】2022-07-17-电报上又有一个新的社工库机器人了](https://www.v2ex.com/t/866865) 
 - [【V2EX】2022-07-17-29-岁转行互联网，前景如何？（个人情况已优化）](https://www.v2ex.com/t/866864) 
 - [【V2EX】2022-07-17-通过后端代码判断屏蔽恶意请求来对抗-DDOS-攻击有用吗？](https://www.v2ex.com/t/866863) 
@@ -106,8 +108,6 @@
 - [【V2EX】2022-07-17-一个游戏项目，目前寻找具有游戏开发经验的道友](https://www.v2ex.com/t/866822) 
 - [【V2EX】2022-07-17-招聘-深圳-急招-App-逆向工程师，待遇丰厚](https://www.v2ex.com/t/866820) 
 - [【V2EX】2022-07-17-Python-的-orator-如何构造多个-like-查询？](https://www.v2ex.com/t/866819) 
-- [【V2EX】2022-07-17-下午中介给我发了小区同一房型今年的租金，从$2500-涨到$3500，疯了](https://www.v2ex.com/t/866818) 
-- [【V2EX】2022-07-17-TV-Store-里的那个-Miao-Project-是原本-TF-那个-Miao-吗？](https://www.v2ex.com/t/866817) 
 - [【技术头条】2022-07-17-DDD-中的几个困难问题-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15218&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fdifficult-problems-in-domain-driven-design%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-17-CPU是如何进行分支预测的？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15217&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FZ9KWmfCBhCixdkZGEeLStQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-17-如何应对团队协作的五大障碍-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15216&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-solve-five-dysfunctions-of-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

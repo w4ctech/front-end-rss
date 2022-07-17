@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-07-17 16:17:16，:rocket: 更新条数: +2018， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-07-17 16:53:08，:rocket: 更新条数: +2018， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-07-17-用-mac-来做个人的-OCR-和翻译服务器可行吗](https://www.v2ex.com/t/866867) ![](assets/new.png)  
+- [2022-07-17-话说，最近大厂裁了这么多人，腾讯和头条这种现在还有社招的-hc-吗](https://www.v2ex.com/t/866866) ![](assets/new.png)  
 - [2022-07-17-电报上又有一个新的社工库机器人了](https://www.v2ex.com/t/866865) ![](assets/new.png)  
 - [2022-07-17-29-岁转行互联网，前景如何？（个人情况已优化）](https://www.v2ex.com/t/866864) ![](assets/new.png)  
 - [2022-07-17-通过后端代码判断屏蔽恶意请求来对抗-DDOS-攻击有用吗？](https://www.v2ex.com/t/866863) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-07-17-有没有必要吧-iPad-2018-pro-插卡-换成-mini6？](https://www.v2ex.com/t/866846) ![](assets/new.png)  
 - [2022-07-17-Windows-11-这个提醒色有任何办法可以改成-Windows-10-那样的吗？](https://www.v2ex.com/t/866845) ![](assets/new.png)  
 - [2022-07-17-没什么](https://www.v2ex.com/t/866844) ![](assets/new.png)  
-- [2022-07-17-关于各大云服务器之间的时间差](https://www.v2ex.com/t/866843) ![](assets/new.png)  
-- [2022-07-17-没有国外卡如何订阅-deepl](https://www.v2ex.com/t/866842) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

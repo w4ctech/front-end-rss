@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-17 16:17:16。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-17 16:53:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,8 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-07-17-用-mac-来做个人的-OCR-和翻译服务器可行吗](https://www.v2ex.com/t/866867) 
+- [2022-07-17-话说，最近大厂裁了这么多人，腾讯和头条这种现在还有社招的-hc-吗](https://www.v2ex.com/t/866866) 
 - [2022-07-17-电报上又有一个新的社工库机器人了](https://www.v2ex.com/t/866865) 
 - [2022-07-17-Yubikey-小白级使用感受](https://www.v2ex.com/t/866862) 
 - [2022-07-17-pycharm-自动推断-typing](https://www.v2ex.com/t/866860) 
@@ -1941,8 +1943,6 @@
 - [2022-07-17-求推荐-雷电-接口的硬盘盒，用于-nvme-ssd](https://www.v2ex.com/t/866826) 
 - [2022-07-17-Java-->-Golang](https://www.v2ex.com/t/866824) 
 - [2022-07-17-Python-的-orator-如何构造多个-like-查询？](https://www.v2ex.com/t/866819) 
-- [2022-07-17-下午中介给我发了小区同一房型今年的租金，从$2500-涨到$3500，疯了](https://www.v2ex.com/t/866818) 
-- [2022-07-17-TV-Store-里的那个-Miao-Project-是原本-TF-那个-Miao-吗？](https://www.v2ex.com/t/866817) 
 - [2022-07-17-DDD-中的几个困难问题-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15218&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fdifficult-problems-in-domain-driven-design%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-17-CPU是如何进行分支预测的？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15217&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FZ9KWmfCBhCixdkZGEeLStQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-17-如何应对团队协作的五大障碍-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15216&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-solve-five-dysfunctions-of-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

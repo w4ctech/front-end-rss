@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-17 10:41:02。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-17 11:12:15。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,8 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-07-17-请问-evtran-这家的-u-盘-能成功售后吗](https://www.v2ex.com/t/866833) 
+- [2022-07-17-纠结要不要把-16-寸出了换-14-寸的](https://www.v2ex.com/t/866832) 
 - [2022-07-17-刚编译好的固件无法升级，求助。](https://www.v2ex.com/t/866829) 
 - [2022-07-17-找个-Java-后端开发岗](https://www.v2ex.com/t/866828) 
 - [2022-07-17-v-友们，-27-寸-4k-显示器，求推荐一波](https://www.v2ex.com/t/866827) 
@@ -1936,7 +1938,6 @@
 - [2022-07-17-继续推荐-Youtube-频道-—-凯文一家-Kevin-Family](https://www.v2ex.com/t/866789) 
 - [2022-07-17-mac-即时翻译-app-有推荐么？](https://www.v2ex.com/t/866786) 
 - [2022-07-17-想买个-m2-的-mba，买-8g-还是-16g-呢](https://www.v2ex.com/t/866784) 
-- [2022-07-17-hotmail-收不到验证邮件，是谁的锅？](https://www.v2ex.com/t/866782) 
 - [2022-07-17-DDD-中的几个困难问题-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15218&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fdifficult-problems-in-domain-driven-design%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-17-CPU是如何进行分支预测的？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15217&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FZ9KWmfCBhCixdkZGEeLStQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-17-如何应对团队协作的五大障碍-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15216&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-solve-five-dysfunctions-of-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-18 11:12:42。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-18 11:42:52。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -16,5 +16,3 @@
 - [2022-06-12-基于文字的URL锚点定位与::target-text样式设置](https://www.zhangxinxu.com/wordpress/2022/06/url-anchor-target-text/) 
 - [2022-07-18-写了个简单的路径追踪渲染器，能实时观察结果](https://www.v2ex.com/t/867069) 
 - [2022-07-18-再次呼叫爬虫大佬，关于请求加密解密问题。](https://www.v2ex.com/t/867057) 
-- [2022-07-18-chrome-把-url-重定向到-127.0.0.1](https://www.v2ex.com/t/867046) 
-- [2022-07-18-有没有擅长做浏览器主要是-ie兼容的大佬，有偿咨询](https://www.v2ex.com/t/867045) 

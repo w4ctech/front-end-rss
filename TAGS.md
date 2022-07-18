@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-07-18 11:12:42。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-18 11:42:52。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -281,8 +281,6 @@
 - [【张鑫旭-鑫空间-鑫生活】基于文字的URL锚点定位与::target-text样式设置](https://www.zhangxinxu.com/wordpress/2022/06/url-anchor-target-text/)
 - [【V2EX】写了个简单的路径追踪渲染器，能实时观察结果](https://www.v2ex.com/t/867069)
 - [【V2EX】再次呼叫爬虫大佬，关于请求加密解密问题。](https://www.v2ex.com/t/867057)
-- [【V2EX】chrome-把-url-重定向到-127.0.0.1](https://www.v2ex.com/t/867046)
-- [【V2EX】有没有擅长做浏览器主要是-ie兼容的大佬，有偿咨询](https://www.v2ex.com/t/867045)
 - [......【查看更多】......](./details/tags/browser.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -351,6 +349,8 @@
 
 
 
+- [【V2EX】一个前端应聘可以用亮眼的页面效果打动面试官，那后端应聘应该用什么呢？](https://www.v2ex.com/t/867096)
+- [【V2EX】成都道客招聘-云原生行业/交付架构师-内推效率高](https://www.v2ex.com/t/867094)
 - [【V2EX】招聘北京/上海/远程-数据库、存储、云平台-可内推](https://www.v2ex.com/t/867089)
 - [【V2EX】Web3-招聘：-Python-后端开发工程师&上海|背景&40-100-万](https://www.v2ex.com/t/867086)
 - [【开发者头条】脉脉网友出了道-Go-面试题，你能答对吗？](https://toutiao.io/k/v4i6cw7)

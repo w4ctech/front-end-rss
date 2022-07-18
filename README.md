@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-07-18 11:12:42，:rocket: 更新条数: +2026， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-07-18 11:42:52，:rocket: 更新条数: +2026， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,9 @@
 </summary>
 
 
+- [2022-07-18-一个前端应聘可以用亮眼的页面效果打动面试官，那后端应聘应该用什么呢？](https://www.v2ex.com/t/867096) ![](assets/new.png)  
+- [2022-07-18-部署自己的-tg-图片推送-bot](https://www.v2ex.com/t/867095) ![](assets/new.png)  
+- [2022-07-18-成都道客招聘-云原生行业/交付架构师-内推效率高](https://www.v2ex.com/t/867094) ![](assets/new.png)  
 - [2022-07-18-国区-iCloud-家庭-2T-拼车](https://www.v2ex.com/t/867092) ![](assets/new.png)  
 - [2022-07-18-Windows-多屏分屏方案求教](https://www.v2ex.com/t/867091) ![](assets/new.png)  
 - [2022-07-18-请问一下-v-友,这是-Linux-上什么编码](https://www.v2ex.com/t/867090) ![](assets/new.png)  
@@ -508,9 +511,6 @@
 - [2022-07-18-求推荐日记软件](https://www.v2ex.com/t/867075) ![](assets/new.png)  
 - [2022-07-18-树莓派和-NSA-哪个可玩性高呀，目前主要是想接入-home-assistant](https://www.v2ex.com/t/867074) ![](assets/new.png)  
 - [2022-07-18-GitHub-开源项目维护参与指南：-HowToStartOpenSource](https://www.v2ex.com/t/867073) ![](assets/new.png)  
-- [2022-07-18-请各位威友推荐支持-Apple-芯片的-Dozer-和-Spectacle-替代软件](https://www.v2ex.com/t/867072) ![](assets/new.png)  
-- [2022-07-18-写了个简单的路径追踪渲染器，能实时观察结果](https://www.v2ex.com/t/867069) ![](assets/new.png)  
-- [2022-07-18-南通/不加班猜猜看传媒招-iOS-开发10~15k](https://www.v2ex.com/t/867068) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

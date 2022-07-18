@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-07-18 13:13:59，:rocket: 更新条数: +2026， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-07-18 14:08:02，:rocket: 更新条数: +2024， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,10 @@
 </summary>
 
 
+- [2022-07-18-好兄弟萌-iOS-每隔-5-分钟自动打开一次某个-app-怎么弄](https://www.v2ex.com/t/867113) ![](assets/new.png)  
+- [2022-07-18-请问-iOS-越狱后，有没有插件可以将-App-通知进行转发到-Bark-或者其他地方？](https://www.v2ex.com/t/867112) ![](assets/new.png)  
+- [2022-07-18-求帮忙-PHP-解密](https://www.v2ex.com/t/867110) ![](assets/new.png)  
+- [2022-07-18-iMac-27-黑屏了，问-TB-说换屏幕要-2600-，值得修吗](https://www.v2ex.com/t/867109) ![](assets/new.png)  
 - [2022-07-18-问下收不到-facebook-验证码怎么办](https://www.v2ex.com/t/867107) ![](assets/new.png)  
 - [2022-07-18-请问一下机器学习和人工智能的学习路线？自己能做哪些能写进简历的项目？](https://www.v2ex.com/t/867106) ![](assets/new.png)  
 - [2022-07-18-电脑音箱看不同的视频声音大小不一样，应该如何解决？](https://www.v2ex.com/t/867105) ![](assets/new.png)  
@@ -507,10 +511,6 @@
 - [2022-07-18-Windows-多屏分屏方案求教](https://www.v2ex.com/t/867091) ![](assets/new.png)  
 - [2022-07-18-请问一下-v-友,这是-Linux-上什么编码](https://www.v2ex.com/t/867090) ![](assets/new.png)  
 - [2022-07-18-招聘北京/上海/远程-数据库、存储、云平台-可内推](https://www.v2ex.com/t/867089) ![](assets/new.png)  
-- [2022-07-18-关于-openwrt-IPV6-的问题](https://www.v2ex.com/t/867088) ![](assets/new.png)  
-- [2022-07-18-正则-backtrack-请教](https://www.v2ex.com/t/867087) ![](assets/new.png)  
-- [2022-07-18-Web3-招聘：-Python-后端开发工程师&上海|背景&40-100-万](https://www.v2ex.com/t/867086) ![](assets/new.png)  
-- [2022-07-18-maven-Writing-tracking-file](https://www.v2ex.com/t/867085) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -556,23 +556,23 @@
 - [2022-07-18-聊聊分布式锁](https://toutiao.io/k/n11nix6) ![](assets/new.png)  
 - [2022-07-18-搞微服务还用Spring-Cloud？Istio好用到爆！](https://toutiao.io/k/7xgh9xy) ![](assets/new.png)  
 - [2022-07-18-Kafka学习笔记](https://toutiao.io/k/ruk1lvr) ![](assets/new.png)  
-- [2022-07-18-阿里云Elasticsearch日志场景最佳实践及引擎内核优化](https://toutiao.io/k/9q34zj7) ![](assets/new.png)  
 - [2022-07-18-Go中的一些优化笔记，简约而不简单](https://toutiao.io/k/8gjzmtu) ![](assets/new.png)  
+- [2022-07-18-阿里云Elasticsearch日志场景最佳实践及引擎内核优化](https://toutiao.io/k/9q34zj7) ![](assets/new.png)  
 - [2022-07-18-炫技](https://toutiao.io/k/i54gng3) ![](assets/new.png)  
 - [2022-07-18-一文回顾-Java-入门知识（上）](https://toutiao.io/k/8f728q7) ![](assets/new.png)  
-- [2022-07-18-【第2671期】防御性CSS简介](https://toutiao.io/k/vl9gwi0) ![](assets/new.png)  
 - [2022-07-18-covGo---go覆盖率平台实现精准测试](https://toutiao.io/k/lx70ynl) ![](assets/new.png)  
+- [2022-07-18-【第2671期】防御性CSS简介](https://toutiao.io/k/vl9gwi0) ![](assets/new.png)  
+- [2022-07-18-微信为什么使用-SQLite-保存聊天记录？](https://toutiao.io/k/rfce5vz) ![](assets/new.png)  
 - [2022-07-18-openGauss可观测性](https://toutiao.io/k/64jzcme) ![](assets/new.png)  
 - [2022-07-18-韭要学金银票据传递攻击Pass-The-Ticket](https://toutiao.io/k/wilr207) ![](assets/new.png)  
-- [2022-07-18-微信为什么使用-SQLite-保存聊天记录？](https://toutiao.io/k/rfce5vz) ![](assets/new.png)  
 - [2022-07-18-干货-|-Elasticsearch-8.X-版本升级指南](https://toutiao.io/k/8j81e1j) ![](assets/new.png)  
 - [2022-07-18-SDN系统方法-|-2.-用例](https://toutiao.io/k/r7bl9tv) ![](assets/new.png)  
 - [2022-07-18-MLOps-市场火爆依旧！Tecton-融资1亿美元！](https://toutiao.io/k/dhosdvb) ![](assets/new.png)  
+- [2022-07-18-回到本真，梦回计算机发展史](https://toutiao.io/k/33drnub) ![](assets/new.png)  
 - [2022-07-18-不会吧！钉钉都下载了，你还不知道可以这样玩？](https://toutiao.io/k/4o1irq5) ![](assets/new.png)  
 - [2022-07-18-TLA+-入门教程（4）：两阶段提交](https://toutiao.io/k/7gt6oq0) ![](assets/new.png)  
 - [2022-07-18-脉脉网友出了道-Go-面试题，你能答对吗？](https://toutiao.io/k/v4i6cw7) ![](assets/new.png)  
-- [2022-07-18-回到本真，梦回计算机发展史](https://toutiao.io/k/33drnub) ![](assets/new.png)  
-- [2022-07-18-推荐-服务端监控架构设计与实践](https://toutiao.io/k/xhwa9mo) ![](assets/new.png)  
+- [2022-07-18-推荐-高并发，你真的理解透彻了吗？](https://toutiao.io/k/93k2zfb) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

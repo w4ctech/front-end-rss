@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-18 18:17:16。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-07-18 18:46:30。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,8 @@
 </summary>
 
 
+- [【V2EX】2022-07-18-每次看见发-ITX-相关帖子的都会劝两句。。](https://www.v2ex.com/t/867141) 
+- [【V2EX】2022-07-18-佛山电信宽带办理了公网-IP，但是无法连接](https://www.v2ex.com/t/867140) 
 - [【V2EX】2022-07-18-推荐个自己做的开源论坛，适合嵌入在-已有业务/App-内使用](https://www.v2ex.com/t/867139) 
 - [【V2EX】2022-07-18-都说-ssd-是有寿命的，但我从来没看到真被操到-0%寿命的-ssd](https://www.v2ex.com/t/867138) 
 - [【V2EX】2022-07-18-星巴克-App-是怎么做到的呢？](https://www.v2ex.com/t/867137) 
@@ -102,8 +104,6 @@
 - [【V2EX】2022-07-18-一个前端应聘可以用亮眼的页面效果打动面试官，那后端应聘应该用什么呢？](https://www.v2ex.com/t/867096) 
 - [【V2EX】2022-07-18-部署自己的-tg-图片推送-bot](https://www.v2ex.com/t/867095) 
 - [【V2EX】2022-07-18-成都道客招聘-云原生行业/交付架构师-内推效率高](https://www.v2ex.com/t/867094) 
-- [【V2EX】2022-07-18-Windows-多屏分屏方案求教](https://www.v2ex.com/t/867091) 
-- [【V2EX】2022-07-18-请问一下-v-友,这是-Linux-上什么编码](https://www.v2ex.com/t/867090) 
 - [【技术头条】2022-07-18-DDD-中的几个困难问题-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15218&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fdifficult-problems-in-domain-driven-design%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-18-CPU是如何进行分支预测的？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15217&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FZ9KWmfCBhCixdkZGEeLStQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-18-如何应对团队协作的五大障碍-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15216&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-solve-five-dysfunctions-of-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-18 12:27:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-18 13:13:59。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,10 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-07-18-问下收不到-facebook-验证码怎么办](https://www.v2ex.com/t/867107) 
+- [2022-07-18-请问一下机器学习和人工智能的学习路线？自己能做哪些能写进简历的项目？](https://www.v2ex.com/t/867106) 
+- [2022-07-18-ITX-配置分享](https://www.v2ex.com/t/867104) 
+- [2022-07-18-macOS-下烦人的-Flash-player-更新提示如何去掉？](https://www.v2ex.com/t/867102) 
 - [2022-07-18-在有-raid-的情况下-lvm-还有必要吗](https://www.v2ex.com/t/867101) 
 - [2022-07-18-「上海｜杭州」抖音电商-供应链物流团队，-HC-解冻，内推重新开张](https://www.v2ex.com/t/867100) 
 - [2022-07-18-你有几个手机，几张手机号码卡？备用机是苹果吗](https://www.v2ex.com/t/867098) 
@@ -1936,9 +1940,6 @@
 - [2022-07-18-有人知道这是什么-vscode-插件吗](https://www.v2ex.com/t/867060) 
 - [2022-07-18-怎么样打工仔们才能挺起腰杆](https://www.v2ex.com/t/867059) 
 - [2022-07-18-有玩陆冲板的吗？](https://www.v2ex.com/t/867058) 
-- [2022-07-18-如何无痛迁移-Google-Maps-->-Apple-Maps](https://www.v2ex.com/t/867055) 
-- [2022-07-18-公司很恶心，不给加班费，也不给调休怎么办](https://www.v2ex.com/t/867054) 
-- [2022-07-18-请教一下-Java-微服务的实现](https://www.v2ex.com/t/867052) 
 - [2022-07-18-DDD-中的几个困难问题-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15218&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fdifficult-problems-in-domain-driven-design%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-18-CPU是如何进行分支预测的？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15217&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FZ9KWmfCBhCixdkZGEeLStQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-18-如何应对团队协作的五大障碍-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15216&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-solve-five-dysfunctions-of-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1961,9 +1962,9 @@
 - [2022-07-18-Kafka学习笔记](https://toutiao.io/k/ruk1lvr) 
 - [2022-07-18-炫技](https://toutiao.io/k/i54gng3) 
 - [2022-07-18-一文回顾-Java-入门知识（上）](https://toutiao.io/k/8f728q7) 
+- [2022-07-18-covGo---go覆盖率平台实现精准测试](https://toutiao.io/k/lx70ynl) 
 - [2022-07-18-openGauss可观测性](https://toutiao.io/k/64jzcme) 
 - [2022-07-18-韭要学金银票据传递攻击Pass-The-Ticket](https://toutiao.io/k/wilr207) 
-- [2022-07-18-covGo---go覆盖率平台实现精准测试](https://toutiao.io/k/lx70ynl) 
 - [2022-07-18-微信为什么使用-SQLite-保存聊天记录？](https://toutiao.io/k/rfce5vz) 
 - [2022-07-18-SDN系统方法-|-2.-用例](https://toutiao.io/k/r7bl9tv) 
 - [2022-07-18-MLOps-市场火爆依旧！Tecton-融资1亿美元！](https://toutiao.io/k/dhosdvb) 

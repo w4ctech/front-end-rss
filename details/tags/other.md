@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-18 17:01:18。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-18 17:29:04。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,7 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-07-18-星巴克-App-是怎么做到的呢？](https://www.v2ex.com/t/867137) 
 - [2022-07-18-有玩电吉他的-V-友吗，求推荐新手入门设备](https://www.v2ex.com/t/867135) 
 - [2022-07-18-想对大家说：要注意血糖](https://www.v2ex.com/t/867130) 
 - [2022-07-18-虚拟机里的程序如何不在程序坞显示](https://www.v2ex.com/t/867129) 

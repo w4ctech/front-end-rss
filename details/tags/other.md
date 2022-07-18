@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-18 15:46:33。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-18 16:25:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,7 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-07-18-有玩电吉他的-V-友吗，求推荐新手入门设备](https://www.v2ex.com/t/867135) 
 - [2022-07-18-想对大家说：要注意血糖](https://www.v2ex.com/t/867130) 
 - [2022-07-18-虚拟机里的程序如何不在程序坞显示](https://www.v2ex.com/t/867129) 
 - [2022-07-18-各位对一个创作者平台的社区化运营持什么样的看法](https://www.v2ex.com/t/867127) 
@@ -1937,9 +1938,6 @@
 - [2022-07-18-Windows-多屏分屏方案求教](https://www.v2ex.com/t/867091) 
 - [2022-07-18-请问一下-v-友,这是-Linux-上什么编码](https://www.v2ex.com/t/867090) 
 - [2022-07-18-关于-openwrt-IPV6-的问题](https://www.v2ex.com/t/867088) 
-- [2022-07-18-maven-Writing-tracking-file](https://www.v2ex.com/t/867085) 
-- [2022-07-18-M-系列-Mac-现在侧载-ipa-的最佳姿势是？](https://www.v2ex.com/t/867083) 
-- [2022-07-18-类宝塔面板需求收集](https://www.v2ex.com/t/867082) 
 - [2022-07-18-DDD-中的几个困难问题-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15218&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fdifficult-problems-in-domain-driven-design%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-18-CPU是如何进行分支预测的？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15217&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FZ9KWmfCBhCixdkZGEeLStQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-18-如何应对团队协作的五大障碍-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15216&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-solve-five-dysfunctions-of-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1971,5 +1969,5 @@
 - [2022-07-18-不会吧！钉钉都下载了，你还不知道可以这样玩？](https://toutiao.io/k/4o1irq5) 
 - [2022-07-18-回到本真，梦回计算机发展史](https://toutiao.io/k/33drnub) 
 - [2022-07-18-TLA+-入门教程（4）：两阶段提交](https://toutiao.io/k/7gt6oq0) 
-- [2022-07-18-推荐-高并发，你真的理解透彻了吗？](https://toutiao.io/k/93k2zfb) 
 - [2022-07-18-推荐-服务端监控架构设计与实践](https://toutiao.io/k/xhwa9mo) 
+- [2022-07-18-推荐-高并发，你真的理解透彻了吗？](https://toutiao.io/k/93k2zfb) 

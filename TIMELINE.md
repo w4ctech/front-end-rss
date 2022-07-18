@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-18 14:52:38。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-07-18 15:16:32。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,8 @@
 </summary>
 
 
+- [【V2EX】2022-07-18-看远程工作的，请关注频道](https://www.v2ex.com/t/867125) 
+- [【V2EX】2022-07-18-M1-Macbook-Air-开发体验如何？](https://www.v2ex.com/t/867123) 
 - [【V2EX】2022-07-18-问问山姆副卡值得买吗？打算去体验一趟](https://www.v2ex.com/t/867121) 
 - [【V2EX】2022-07-18-typescript-中声明一个类型,-是用-Interface-还是-Type-呢?](https://www.v2ex.com/t/867120) 
 - [【V2EX】2022-07-18-蒸蒸日上的火山翻译](https://www.v2ex.com/t/867119) 
@@ -105,9 +107,6 @@
 - [【V2EX】2022-07-18-discord-怎么指定通知消息？](https://www.v2ex.com/t/867080) 
 - [【V2EX】2022-07-18-创作没了，心凉](https://www.v2ex.com/t/867078) 
 - [【V2EX】2022-07-18-nginx-如何-配置路径以**开头](https://www.v2ex.com/t/867076) 
-- [【V2EX】2022-07-18-求推荐日记软件](https://www.v2ex.com/t/867075) 
-- [【V2EX】2022-07-18-树莓派和-NSA-哪个可玩性高呀，目前主要是想接入-home-assistant](https://www.v2ex.com/t/867074) 
-- [【V2EX】2022-07-18-GitHub-开源项目维护参与指南：-HowToStartOpenSource](https://www.v2ex.com/t/867073) 
 - [【技术头条】2022-07-18-DDD-中的几个困难问题-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15218&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fdifficult-problems-in-domain-driven-design%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-18-CPU是如何进行分支预测的？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15217&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FZ9KWmfCBhCixdkZGEeLStQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-18-如何应对团队协作的五大障碍-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15216&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-solve-five-dysfunctions-of-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -147,8 +146,8 @@
 - [【开发者头条】2022-07-18-不会吧！钉钉都下载了，你还不知道可以这样玩？](https://toutiao.io/k/4o1irq5) 
 - [【开发者头条】2022-07-18-脉脉网友出了道-Go-面试题，你能答对吗？](https://toutiao.io/k/v4i6cw7) 
 - [【开发者头条】2022-07-18-TLA+-入门教程（4）：两阶段提交](https://toutiao.io/k/7gt6oq0) 
-- [【开发者头条】2022-07-18-推荐-高并发，你真的理解透彻了吗？](https://toutiao.io/k/93k2zfb) 
 - [【开发者头条】2022-07-18-推荐-服务端监控架构设计与实践](https://toutiao.io/k/xhwa9mo) 
+- [【开发者头条】2022-07-18-推荐-高并发，你真的理解透彻了吗？](https://toutiao.io/k/93k2zfb) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

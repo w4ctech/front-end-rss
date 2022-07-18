@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-07-18 14:52:38，:rocket: 更新条数: +2027， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-07-18 15:16:32，:rocket: 更新条数: +2026， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-07-18-看远程工作的，请关注频道](https://www.v2ex.com/t/867125) ![](assets/new.png)  
+- [2022-07-18-M1-Macbook-Air-开发体验如何？](https://www.v2ex.com/t/867123) ![](assets/new.png)  
 - [2022-07-18-问问山姆副卡值得买吗？打算去体验一趟](https://www.v2ex.com/t/867121) ![](assets/new.png)  
 - [2022-07-18-typescript-中声明一个类型,-是用-Interface-还是-Type-呢?](https://www.v2ex.com/t/867120) ![](assets/new.png)  
 - [2022-07-18-蒸蒸日上的火山翻译](https://www.v2ex.com/t/867119) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-07-18-macOS-下烦人的-Flash-player-更新提示如何去掉？](https://www.v2ex.com/t/867102) ![](assets/new.png)  
 - [2022-07-18-在有-raid-的情况下-lvm-还有必要吗](https://www.v2ex.com/t/867101) ![](assets/new.png)  
 - [2022-07-18-「上海｜杭州」抖音电商-供应链物流团队，-HC-解冻，内推重新开张](https://www.v2ex.com/t/867100) ![](assets/new.png)  
-- [2022-07-18-你有几个手机，几张手机号码卡？备用机是苹果吗](https://www.v2ex.com/t/867098) ![](assets/new.png)  
-- [2022-07-18-大家互联网冲浪都去哪些地方](https://www.v2ex.com/t/867097) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -572,7 +572,7 @@
 - [2022-07-18-不会吧！钉钉都下载了，你还不知道可以这样玩？](https://toutiao.io/k/4o1irq5) ![](assets/new.png)  
 - [2022-07-18-脉脉网友出了道-Go-面试题，你能答对吗？](https://toutiao.io/k/v4i6cw7) ![](assets/new.png)  
 - [2022-07-18-TLA+-入门教程（4）：两阶段提交](https://toutiao.io/k/7gt6oq0) ![](assets/new.png)  
-- [2022-07-18-推荐-高并发，你真的理解透彻了吗？](https://toutiao.io/k/93k2zfb) ![](assets/new.png)  
+- [2022-07-18-推荐-服务端监控架构设计与实践](https://toutiao.io/k/xhwa9mo) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

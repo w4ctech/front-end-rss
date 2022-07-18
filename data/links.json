@@ -9953,6 +9953,56 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "开源个人博客",
+        "link": "https://www.v2ex.com/t/866886",
+        "date": "2022-07-18"
+      },
+      {
+        "title": "好用的曲线平滑算法？",
+        "link": "https://www.v2ex.com/t/866884",
+        "date": "2022-07-18"
+      },
+      {
+        "title": "请教几个装修种网络线材和工作台问题？",
+        "link": "https://www.v2ex.com/t/866883",
+        "date": "2022-07-18"
+      },
+      {
+        "title": "打开 PC 端微信比打开个 IDEA 还要卡，是真的厉害",
+        "link": "https://www.v2ex.com/t/866882",
+        "date": "2022-07-18"
+      },
+      {
+        "title": "现在 v 站很多话题都会转向互相攻击了",
+        "link": "https://www.v2ex.com/t/866881",
+        "date": "2022-07-18"
+      },
+      {
+        "title": "有没有经常弄混 macOS 输入法的？我实在是受不了了 😤",
+        "link": "https://www.v2ex.com/t/866880",
+        "date": "2022-07-18"
+      },
+      {
+        "title": "学习周刊-总第 62 期-一个优秀开源的的论坛程序与免费 gif 图片压缩工具",
+        "link": "https://www.v2ex.com/t/866879",
+        "date": "2022-07-18"
+      },
+      {
+        "title": "淘汰下来的 mbp 有什么奇妙的用处吗？",
+        "link": "https://www.v2ex.com/t/866878",
+        "date": "2022-07-17"
+      },
+      {
+        "title": "通勤开车一小时，还是租房子",
+        "link": "https://www.v2ex.com/t/866877",
+        "date": "2022-07-17"
+      },
+      {
+        "title": "编译 android 源码后打包 genpac 的 avbtool 报错问题",
+        "link": "https://www.v2ex.com/t/866876",
+        "date": "2022-07-17"
+      },
+      {
         "title": "除了 stats， mac 上还有更好用的网速监控 app 吗",
         "link": "https://www.v2ex.com/t/866875",
         "date": "2022-07-17"
@@ -10101,51 +10151,6 @@
         "title": "Python - 这段代码为什么会出现 UnboundLocalError: local variable 'diameter' referenced before assignment？",
         "link": "https://www.v2ex.com/t/866838",
         "date": "2022-07-17"
-      },
-      {
-        "title": "手上有一些闲置服务器，想开个服，有想当腐竹的么",
-        "link": "https://www.v2ex.com/t/866837",
-        "date": "2022-07-17"
-      },
-      {
-        "title": "如何改变这种奇怪的听歌癖好？",
-        "link": "https://www.v2ex.com/t/866836",
-        "date": "2022-07-17"
-      },
-      {
-        "title": "请问 evtran 这家的 u 盘 能成功售后吗",
-        "link": "https://www.v2ex.com/t/866833",
-        "date": "2022-07-17"
-      },
-      {
-        "title": "纠结要不要把 16 寸出了换 14 寸的",
-        "link": "https://www.v2ex.com/t/866832",
-        "date": "2022-07-17"
-      },
-      {
-        "title": "想做客户端的小游戏(例如飞行棋、桌球)，用 CocosCreator 还是 Flutter Flame?",
-        "link": "https://www.v2ex.com/t/866831",
-        "date": "2022-07-17"
-      },
-      {
-        "title": "刚编译好的固件无法升级，求助。",
-        "link": "https://www.v2ex.com/t/866829",
-        "date": "2022-07-17"
-      },
-      {
-        "title": "找个 Java 后端开发岗",
-        "link": "https://www.v2ex.com/t/866828",
-        "date": "2022-07-17"
-      },
-      {
-        "title": "v 友们， 27 寸 4k 显示器，求推荐一波",
-        "link": "https://www.v2ex.com/t/866827",
-        "date": "2022-07-17"
-      },
-      {
-        "title": "求推荐 雷电 接口的硬盘盒，用于 nvme ssd",
-        "link": "https://www.v2ex.com/t/866826",
-        "date": "2022-07-17"
       }
     ]
   },
@@ -10157,102 +10162,102 @@
       {
         "title": "DDD 中的几个困难问题 (insights.thoughtworks.cn)",
         "link": "https://blogread.cn/news/go.php?idItem=15218&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fdifficult-problems-in-domain-driven-design%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-07-17"
+        "date": "2022-07-18"
       },
       {
         "title": "CPU是如何进行分支预测的？ (mp.weixin.qq.com)",
         "link": "https://blogread.cn/news/go.php?idItem=15217&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FZ9KWmfCBhCixdkZGEeLStQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-07-17"
+        "date": "2022-07-18"
       },
       {
         "title": "如何应对团队协作的五大障碍 (insights.thoughtworks.cn)",
         "link": "https://blogread.cn/news/go.php?idItem=15216&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-solve-five-dysfunctions-of-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-07-17"
+        "date": "2022-07-18"
       },
       {
         "title": "遗留系统的服务拆分 (insights.thoughtworks.cn)",
         "link": "https://blogread.cn/news/go.php?idItem=15215&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fservice-splitting-legacy-systems%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-07-17"
+        "date": "2022-07-18"
       },
       {
         "title": "Thoughtworks 全球CTO：按需求构建架构，过度工程只会“劳民伤财” (insights.thoughtworks.cn)",
         "link": "https://blogread.cn/news/go.php?idItem=15214&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftechnology-radar-rebecca-interview%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-07-17"
+        "date": "2022-07-18"
       },
       {
         "title": "故事点 vs. 人天 (insights.thoughtworks.cn)",
         "link": "https://blogread.cn/news/go.php?idItem=15213&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fagile-estimation-story-points-man-day%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-07-17"
+        "date": "2022-07-18"
       },
       {
         "title": "如何设计数据可视化平台 (insights.thoughtworks.cn)",
         "link": "https://blogread.cn/news/go.php?idItem=15212&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-design-data-visualization-platform%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-07-17"
+        "date": "2022-07-18"
       },
       {
         "title": "你的代码会说话吗？（上） (insights.thoughtworks.cn)",
         "link": "https://blogread.cn/news/go.php?idItem=15211&url=https%3A%2F%2Finsights.thoughtworks.cn%2F%3Fp%3D16179%26amp%3Bpreview%3Dtrue%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-07-17"
+        "date": "2022-07-18"
       },
       {
         "title": "SpringBoot这样优化，让你的项目飞起来！ (mp.weixin.qq.com)",
         "link": "https://blogread.cn/news/go.php?idItem=15210&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494249%26amp%3Bidx%3D2%26amp%3Bsn%3D81ee5cbc880d1c4c9e263fb7c7bd918d%26amp%3Bchksm%3Dfa3f0b32cd4882249d2e5f06fb5227b0380f3dfb629bf243a1cf69b198049fc30f1b093cfa0a%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-07-17"
+        "date": "2022-07-18"
       },
       {
         "title": "处理Exception的几种实践，被很多团队采纳！ (mp.weixin.qq.com)",
         "link": "https://blogread.cn/news/go.php?idItem=15209&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494248%26amp%3Bidx%3D2%26amp%3Bsn%3D146c1e31aa0e2248595083b1058cc8ad%26amp%3Bchksm%3Dfa3f0b33cd488225a9933e4e95a352ff1e0b2f81111cbf15f63366a5d190d03c9417fe0c5583%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-07-17"
+        "date": "2022-07-18"
       },
       {
         "title": "操作系统的发展与兴衰史 (mp.weixin.qq.com)",
         "link": "https://blogread.cn/news/go.php?idItem=15208&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494241%26amp%3Bidx%3D1%26amp%3Bsn%3Da29c05495bb4e307082366d64a6a4543%26amp%3Bchksm%3Dfa3f0b3acd48822cc86e727ca47f81e583e344538cad997d279eaef7a3001ccb79c3c68470a9%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-07-17"
+        "date": "2022-07-18"
       },
       {
         "title": "Java框架Mybatis插件开发指南，超详细！ (mp.weixin.qq.com)",
         "link": "https://blogread.cn/news/go.php?idItem=15207&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494241%26amp%3Bidx%3D2%26amp%3Bsn%3D3e0533abc22b58e6b46e47ca8c1670d7%26amp%3Bchksm%3Dfa3f0b3acd48822cbc77de3b9611bc7c01f7b91b3d2c4fd7e9c274bdabf7d2ac72d3c3220af0%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-07-17"
+        "date": "2022-07-18"
       },
       {
         "title": "一文彻底搞懂Tomcat！ (mp.weixin.qq.com)",
         "link": "https://blogread.cn/news/go.php?idItem=15206&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494238%26amp%3Bidx%3D1%26amp%3Bsn%3D2fe71049b17745454aa7e647104468a3%26amp%3Bchksm%3Dfa3f0b05cd488213b8785b3635bcd917348f60d92d6932eecea371aa4174f1611bdffd449754%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-07-17"
+        "date": "2022-07-18"
       },
       {
         "title": "Linux下大文件切割与合并 (mp.weixin.qq.com)",
         "link": "https://blogread.cn/news/go.php?idItem=15205&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494238%26amp%3Bidx%3D2%26amp%3Bsn%3D2cfd9aef7ab866e50d47bf69f4ebdb6b%26amp%3Bchksm%3Dfa3f0b05cd488213496b07d0a05eae78ebf994bc8298014550f957f32adf7669efd08790b2d9%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-07-17"
+        "date": "2022-07-18"
       },
       {
         "title": "VSCode真的会一统江湖吗？ (mp.weixin.qq.com)",
         "link": "https://blogread.cn/news/go.php?idItem=15204&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494237%26amp%3Bidx%3D1%26amp%3Bsn%3D0ae20f00ed4d459fcb46c70d91b4fece%26amp%3Bchksm%3Dfa3f0b06cd48821006c1db5902d733119da8e264c6f9d962786ff437a2cff63579a9bbd4120e%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-07-17"
+        "date": "2022-07-18"
       },
       {
         "title": "六则糟糕代码的优化方案分享 (mp.weixin.qq.com)",
         "link": "https://blogread.cn/news/go.php?idItem=15203&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494237%26amp%3Bidx%3D2%26amp%3Bsn%3D5f215e0545d46580d00fd10202ae369b%26amp%3Bchksm%3Dfa3f0b06cd488210c5f79909b76fac660d37bd59d283105090d62913f8c30df847e562459038%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-07-17"
+        "date": "2022-07-18"
       },
       {
         "title": "PyCharm与Jupyter完美融合，Jupytext来啦！ (mp.weixin.qq.com)",
         "link": "https://blogread.cn/news/go.php?idItem=15202&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494236%26amp%3Bidx%3D2%26amp%3Bsn%3D7b193dc565e75d3495acf9bc8629c709%26amp%3Bchksm%3Dfa3f0b07cd488211fd5df7592f76aec322281b32f62e621a4ded86205877045285860ec8aee7%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-07-17"
+        "date": "2022-07-18"
       },
       {
         "title": "别瞎学了，这几门语言要被淘汰了！ (mp.weixin.qq.com)",
         "link": "https://blogread.cn/news/go.php?idItem=15201&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494220%26amp%3Bidx%3D1%26amp%3Bsn%3D51c5e4c965ea710ff3ce153c53facb9c%26amp%3Bchksm%3Dfa3f0b17cd48820194b637429cbe4639886a56f0ac5e8fa84299fee0057b67c74f05392ff237%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-07-17"
+        "date": "2022-07-18"
       },
       {
         "title": "敏捷教练技术的融合方法 (insights.thoughtworks.cn)",
         "link": "https://blogread.cn/news/go.php?idItem=15200&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fagile-coach-techniques%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-07-17"
+        "date": "2022-07-18"
       },
       {
         "title": "你还只知道测试金字塔？ (insights.thoughtworks.cn)",
         "link": "https://blogread.cn/news/go.php?idItem=15199&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftest-pyramid%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-07-17"
+        "date": "2022-07-18"
       }
     ]
   },
@@ -10262,64 +10267,59 @@
     "link": "https://toutiao.io",
     "items": [
       {
-        "title": "什么是分包？怎么利用分包优化",
-        "link": "https://toutiao.io/k/9gs42k0",
-        "date": "2022-07-17"
+        "title": "Kafka学习笔记",
+        "link": "https://toutiao.io/k/ruk1lvr",
+        "date": "2022-07-18"
       },
       {
-        "title": "日志中台不重不丢实现浅谈",
-        "link": "https://toutiao.io/k/cnc323n",
-        "date": "2022-07-17"
+        "title": "搞微服务还用Spring Cloud？Istio好用到爆！",
+        "link": "https://toutiao.io/k/7xgh9xy",
+        "date": "2022-07-18"
       },
       {
-        "title": "Rust P2P网络应用实战-1 P2P网络核心概念及Ping程序",
-        "link": "https://toutiao.io/k/trxyaac",
-        "date": "2022-07-17"
+        "title": "Go中的一些优化笔记，简约而不简单",
+        "link": "https://toutiao.io/k/8gjzmtu",
+        "date": "2022-07-18"
       },
       {
-        "title": "万字干货｜美团酒旅数据治理实践（建议收藏）",
-        "link": "https://toutiao.io/k/r0q48r8",
-        "date": "2022-07-17"
+        "title": "阿里云Elasticsearch日志场景最佳实践及引擎内核优化",
+        "link": "https://toutiao.io/k/9q34zj7",
+        "date": "2022-07-18"
       },
       {
-        "title": "迈向可验证的 AI: 形式化方法的五大挑战",
-        "link": "https://toutiao.io/k/69dbklz",
-        "date": "2022-07-17"
+        "title": "一文回顾 Java 入门知识（上）",
+        "link": "https://toutiao.io/k/8f728q7",
+        "date": "2022-07-18"
       },
       {
-        "title": "一次线上事故，我顿悟了异步的精髓",
-        "link": "https://toutiao.io/k/3dv09fs",
-        "date": "2022-07-17"
+        "title": "聊聊分布式锁",
+        "link": "https://toutiao.io/k/n11nix6",
+        "date": "2022-07-18"
       },
       {
-        "title": "Python 的轻量级搜索工具：Whoosh",
-        "link": "https://toutiao.io/k/mrd7ijb",
-        "date": "2022-07-17"
+        "title": "【第2671期】防御性CSS简介",
+        "link": "https://toutiao.io/k/vl9gwi0",
+        "date": "2022-07-18"
       },
       {
-        "title": "抓取速度提升 3 倍！Python 的这个内置库你用上了吗？",
-        "link": "https://toutiao.io/k/i0xhfaw",
-        "date": "2022-07-17"
+        "title": "韭要学金银票据传递攻击(Pass The Ticket)",
+        "link": "https://toutiao.io/k/wilr207",
+        "date": "2022-07-18"
       },
       {
-        "title": "为什么V8的字符串能这么高效？",
-        "link": "https://toutiao.io/k/9jl7ef1",
-        "date": "2022-07-17"
-      },
-      {
-        "title": "KNIME 的新界面",
-        "link": "https://toutiao.io/k/6npjtn5",
-        "date": "2022-07-17"
+        "title": "openGauss可观测性",
+        "link": "https://toutiao.io/k/64jzcme",
+        "date": "2022-07-18"
       },
       {
         "title": "[推荐] 服务端监控架构设计与实践",
         "link": "https://toutiao.io/k/xhwa9mo",
-        "date": "2022-07-17"
+        "date": "2022-07-18"
       },
       {
         "title": "[推荐] 高并发，你真的理解透彻了吗？",
         "link": "https://toutiao.io/k/93k2zfb",
-        "date": "2022-07-17"
+        "date": "2022-07-18"
       }
     ]
   },

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-17 23:39:14。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-18 01:06:48。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## CSS
 
@@ -10,3 +10,4 @@
 - [2022-06-30-CSS排版为何强？瞧瞧多牛这换行](https://www.zhangxinxu.com/wordpress/2022/06/css-line-break-word-wrap-all/) 
 - [2022-05-28-详解日后定会大规模使用的CSS-@layer-规则](https://www.zhangxinxu.com/wordpress/2022/05/css-layer-rule/) 
 - [2022-05-22-CSS必学基础：理解CSS中的级联规则](https://www.zhangxinxu.com/wordpress/2022/05/deep-in-css-cascade/) 
+- [2022-07-18-【第2671期】防御性CSS简介](https://toutiao.io/k/vl9gwi0) 

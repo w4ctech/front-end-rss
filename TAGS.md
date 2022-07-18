@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-07-18 07:39:03。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-18 08:19:05。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -39,7 +39,6 @@
 
 
 
-- [【V2EX】部分-7-8-月还-active-招聘的岗位分享，上海、武汉都有，-Java-/React,-TS/C++游戏服务端/IOS/Principal-QE/SRE-来自外资-Top-3-上市猎企资深-IT-研发组顾问，介...](https://www.v2ex.com/t/866987)
 - [......【查看更多】......](./details/tags/react.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -107,6 +106,7 @@
 
 
 
+- [【V2EX】前端项目（在-mac-下载的依赖-node-modules-包），放在-window-上依赖不兼容，有没有那种远程服务器帮忙下载依赖的资源？](https://www.v2ex.com/t/867024)
 - [......【查看更多】......](./details/tags/nodejs.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -155,8 +155,6 @@
 
 
 
-- [【V2EX】以前玩的一个手机游戏没有运营了](https://www.v2ex.com/t/866986)
-- [【V2EX】买了个二手-2060-矿卡打游戏，也不知道能用多少时间。](https://www.v2ex.com/t/866983)
 - [......【查看更多】......](./details/tags/dev-game.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -284,7 +282,6 @@
 - [【武汉肺炎防疫全纪录(财新网)】解药|新冠mRNA疫苗安全性有哪些挑战？](https://m.caixin.com/m/2021-01-08/101648043.html)
 - [【武汉肺炎防疫全纪录(财新网)】大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html)
 - [【张鑫旭-鑫空间-鑫生活】基于文字的URL锚点定位与::target-text样式设置](https://www.zhangxinxu.com/wordpress/2022/06/url-anchor-target-text/)
-- [【V2EX】有熟悉-openwrt-的编译-Makefile-的大佬吗，缓存后二次编译的几个问题请教](https://www.v2ex.com/t/866977)
 - [......【查看更多】......](./details/tags/browser.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -318,6 +315,7 @@
 
 
 
+- [【V2EX】请问-gitlab-部署在-docker-上的优势是什么，有必要-docker-部署吗](https://www.v2ex.com/t/867033)
 - [......【查看更多】......](./details/tags/server.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -350,6 +348,7 @@
 
 
 
+- [【V2EX】美资硅谷上市软件公司-可以在家办公-招聘-资深大数据-pipeline-开发、应用运维、自动化测试](https://www.v2ex.com/t/867025)
 - [【V2EX】这算前端面试八股文造火箭吗？](https://www.v2ex.com/t/866998)
 - [【开发者头条】脉脉网友出了道-Go-面试题，你能答对吗？](https://toutiao.io/k/v4i6cw7)
 - [......【查看更多】......](./details/tags/job-interview.md)

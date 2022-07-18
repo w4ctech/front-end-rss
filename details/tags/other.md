@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-18 06:18:47。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-18 06:50:31。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,12 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-07-18-做了一款本地笔记软件](https://www.v2ex.com/t/867008) 
+- [2022-07-18-吐了，-mac-装个正版-ai，怎么搞出这么多乱七八糟的东西](https://www.v2ex.com/t/867007) 
+- [2022-07-18-mono-用于远程录制播客的工具](https://www.v2ex.com/t/867005) 
+- [2022-07-18-找一个*nix-系列的文件传输工具](https://www.v2ex.com/t/867004) 
+- [2022-07-18-蚊子都有哪些途径进屋](https://www.v2ex.com/t/867003) 
+- [2022-07-18-同名文件覆盖后，还有希望恢复回旧文件吗](https://www.v2ex.com/t/867002) 
 - [2022-07-18-微信-PC-版本地压缩（边缘计算）？](https://www.v2ex.com/t/867001) 
 - [2022-07-18-遇到一个打开特定-App-就概率触发网络出错的问题](https://www.v2ex.com/t/866999) 
 - [2022-07-18-Code-Runner-for-VS-Code，下载量突破-4000-万！支持超过-50-种语言](https://www.v2ex.com/t/866995) 
@@ -1937,11 +1943,6 @@
 - [2022-07-18-现在才看到-v2-有这么个节点，来推荐一下《月光骑士》](https://www.v2ex.com/t/866961) 
 - [2022-07-18-求支持-webdav-的-markdown-apps](https://www.v2ex.com/t/866960) 
 - [2022-07-18-有关-Linux-时区](https://www.v2ex.com/t/866959) 
-- [2022-07-18-MikroTik-在双线状态下如何正确设置端口映射？](https://www.v2ex.com/t/866958) 
-- [2022-07-18-IOS16-dev-beta-的锁屏全屏音乐封面又没了？](https://www.v2ex.com/t/866957) 
-- [2022-07-18-ladder-间断性中断连接是有关部门搞什么测试或者-fishing-吗](https://www.v2ex.com/t/866956) 
-- [2022-07-18-增量/差异备份软件推荐](https://www.v2ex.com/t/866955) 
-- [2022-07-18-显卡厂家自带的散热器-真的够压的住吗？](https://www.v2ex.com/t/866954) 
 - [2022-07-18-DDD-中的几个困难问题-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15218&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fdifficult-problems-in-domain-driven-design%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-18-CPU是如何进行分支预测的？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15217&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FZ9KWmfCBhCixdkZGEeLStQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-18-如何应对团队协作的五大障碍-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15216&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-solve-five-dysfunctions-of-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

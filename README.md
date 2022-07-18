@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-07-18 14:08:02，:rocket: 更新条数: +2024， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-07-18 14:28:54，:rocket: 更新条数: +2026， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,11 @@
 </summary>
 
 
+- [2022-07-18-蒸蒸日上的火山翻译](https://www.v2ex.com/t/867119) ![](assets/new.png)  
+- [2022-07-18-小白写的一个并发判断函数，请问有没有什么可以优化的地方](https://www.v2ex.com/t/867118) ![](assets/new.png)  
+- [2022-07-18-curve25519-上的点不到-2^253-个,为什么公钥有-32-字节-256bit？](https://www.v2ex.com/t/867117) ![](assets/new.png)  
+- [2022-07-18-Apple-Music-云端资料库在其他设备上串流不畅](https://www.v2ex.com/t/867116) ![](assets/new.png)  
+- [2022-07-18-上海-米哈游-miHoYo-2022.7.18-最新招聘信息（可内推哦）](https://www.v2ex.com/t/867115) ![](assets/new.png)  
 - [2022-07-18-好兄弟萌-iOS-每隔-5-分钟自动打开一次某个-app-怎么弄](https://www.v2ex.com/t/867113) ![](assets/new.png)  
 - [2022-07-18-请问-iOS-越狱后，有没有插件可以将-App-通知进行转发到-Bark-或者其他地方？](https://www.v2ex.com/t/867112) ![](assets/new.png)  
 - [2022-07-18-求帮忙-PHP-解密](https://www.v2ex.com/t/867110) ![](assets/new.png)  
@@ -506,11 +511,6 @@
 - [2022-07-18-大家互联网冲浪都去哪些地方](https://www.v2ex.com/t/867097) ![](assets/new.png)  
 - [2022-07-18-一个前端应聘可以用亮眼的页面效果打动面试官，那后端应聘应该用什么呢？](https://www.v2ex.com/t/867096) ![](assets/new.png)  
 - [2022-07-18-部署自己的-tg-图片推送-bot](https://www.v2ex.com/t/867095) ![](assets/new.png)  
-- [2022-07-18-成都道客招聘-云原生行业/交付架构师-内推效率高](https://www.v2ex.com/t/867094) ![](assets/new.png)  
-- [2022-07-18-国区-iCloud-家庭-2T-拼车](https://www.v2ex.com/t/867092) ![](assets/new.png)  
-- [2022-07-18-Windows-多屏分屏方案求教](https://www.v2ex.com/t/867091) ![](assets/new.png)  
-- [2022-07-18-请问一下-v-友,这是-Linux-上什么编码](https://www.v2ex.com/t/867090) ![](assets/new.png)  
-- [2022-07-18-招聘北京/上海/远程-数据库、存储、云平台-可内推](https://www.v2ex.com/t/867089) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -561,8 +561,8 @@
 - [2022-07-18-炫技](https://toutiao.io/k/i54gng3) ![](assets/new.png)  
 - [2022-07-18-一文回顾-Java-入门知识（上）](https://toutiao.io/k/8f728q7) ![](assets/new.png)  
 - [2022-07-18-covGo---go覆盖率平台实现精准测试](https://toutiao.io/k/lx70ynl) ![](assets/new.png)  
-- [2022-07-18-【第2671期】防御性CSS简介](https://toutiao.io/k/vl9gwi0) ![](assets/new.png)  
 - [2022-07-18-微信为什么使用-SQLite-保存聊天记录？](https://toutiao.io/k/rfce5vz) ![](assets/new.png)  
+- [2022-07-18-【第2671期】防御性CSS简介](https://toutiao.io/k/vl9gwi0) ![](assets/new.png)  
 - [2022-07-18-openGauss可观测性](https://toutiao.io/k/64jzcme) ![](assets/new.png)  
 - [2022-07-18-韭要学金银票据传递攻击Pass-The-Ticket](https://toutiao.io/k/wilr207) ![](assets/new.png)  
 - [2022-07-18-干货-|-Elasticsearch-8.X-版本升级指南](https://toutiao.io/k/8j81e1j) ![](assets/new.png)  
@@ -572,7 +572,7 @@
 - [2022-07-18-不会吧！钉钉都下载了，你还不知道可以这样玩？](https://toutiao.io/k/4o1irq5) ![](assets/new.png)  
 - [2022-07-18-TLA+-入门教程（4）：两阶段提交](https://toutiao.io/k/7gt6oq0) ![](assets/new.png)  
 - [2022-07-18-脉脉网友出了道-Go-面试题，你能答对吗？](https://toutiao.io/k/v4i6cw7) ![](assets/new.png)  
-- [2022-07-18-推荐-高并发，你真的理解透彻了吗？](https://toutiao.io/k/93k2zfb) ![](assets/new.png)  
+- [2022-07-18-推荐-服务端监控架构设计与实践](https://toutiao.io/k/xhwa9mo) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

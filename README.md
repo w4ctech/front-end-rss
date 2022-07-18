@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-07-18 09:41:43，:rocket: 更新条数: +2024， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-07-18 10:16:48，:rocket: 更新条数: +2025， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,14 @@
 </summary>
 
 
+- [2022-07-18-上个周末出门到处逛，经过城中村，看到一群小孩在那唱歌。于是走过去一听（令我破防）——————十个小孩久孤勇，还有一个唱逆战。名人都被搞成这样，还指望什...](https://www.v2ex.com/t/867081) ![](assets/new.png)  
+- [2022-07-18-discord-怎么指定通知消息？](https://www.v2ex.com/t/867080) ![](assets/new.png)  
+- [2022-07-18-创作没了，心凉](https://www.v2ex.com/t/867078) ![](assets/new.png)  
+- [2022-07-18-nginx-如何-配置路径以**开头](https://www.v2ex.com/t/867076) ![](assets/new.png)  
+- [2022-07-18-求推荐日记软件](https://www.v2ex.com/t/867075) ![](assets/new.png)  
+- [2022-07-18-树莓派和-NSA-哪个可玩性高呀，目前主要是想接入-home-assistant](https://www.v2ex.com/t/867074) ![](assets/new.png)  
+- [2022-07-18-GitHub-开源项目维护参与指南：-HowToStartOpenSource](https://www.v2ex.com/t/867073) ![](assets/new.png)  
+- [2022-07-18-请各位威友推荐支持-Apple-芯片的-Dozer-和-Spectacle-替代软件](https://www.v2ex.com/t/867072) ![](assets/new.png)  
 - [2022-07-18-写了个简单的路径追踪渲染器，能实时观察结果](https://www.v2ex.com/t/867069) ![](assets/new.png)  
 - [2022-07-18-南通/不加班猜猜看传媒招-iOS-开发10~15k](https://www.v2ex.com/t/867068) ![](assets/new.png)  
 - [2022-07-18-请教-1-个-git-合并的常见问题](https://www.v2ex.com/t/867067) ![](assets/new.png)  
@@ -503,14 +511,6 @@
 - [2022-07-18-再次呼叫爬虫大佬，关于请求加密解密问题。](https://www.v2ex.com/t/867057) ![](assets/new.png)  
 - [2022-07-18-如何无痛迁移-Google-Maps-->-Apple-Maps](https://www.v2ex.com/t/867055) ![](assets/new.png)  
 - [2022-07-18-公司很恶心，不给加班费，也不给调休怎么办](https://www.v2ex.com/t/867054) ![](assets/new.png)  
-- [2022-07-18-请教一下-Java-微服务的实现](https://www.v2ex.com/t/867052) ![](assets/new.png)  
-- [2022-07-18-时间机器的备份删除文件](https://www.v2ex.com/t/867051) ![](assets/new.png)  
-- [2022-07-18-Windows-11-怎么限制充电到-100%？](https://www.v2ex.com/t/867050) ![](assets/new.png)  
-- [2022-07-18-求教：国内有没有一些静态展示服务网站](https://www.v2ex.com/t/867049) ![](assets/new.png)  
-- [2022-07-18-电子烟品牌厂商想要进入英国市场，请问有没有在英国经商的或者有意向的华人想要做代理的？](https://www.v2ex.com/t/867048) ![](assets/new.png)  
-- [2022-07-18-v-友们，-2k-左右电动自行车推荐一波](https://www.v2ex.com/t/867047) ![](assets/new.png)  
-- [2022-07-18-chrome-把-url-重定向到-127.0.0.1](https://www.v2ex.com/t/867046) ![](assets/new.png)  
-- [2022-07-18-有没有擅长做浏览器主要是-ie兼容的大佬，有偿咨询](https://www.v2ex.com/t/867045) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -569,10 +569,10 @@
 - [2022-07-18-干货-|-Elasticsearch-8.X-版本升级指南](https://toutiao.io/k/8j81e1j) ![](assets/new.png)  
 - [2022-07-18-MLOps-市场火爆依旧！Tecton-融资1亿美元！](https://toutiao.io/k/dhosdvb) ![](assets/new.png)  
 - [2022-07-18-不会吧！钉钉都下载了，你还不知道可以这样玩？](https://toutiao.io/k/4o1irq5) ![](assets/new.png)  
-- [2022-07-18-TLA+-入门教程（4）：两阶段提交](https://toutiao.io/k/7gt6oq0) ![](assets/new.png)  
 - [2022-07-18-脉脉网友出了道-Go-面试题，你能答对吗？](https://toutiao.io/k/v4i6cw7) ![](assets/new.png)  
+- [2022-07-18-TLA+-入门教程（4）：两阶段提交](https://toutiao.io/k/7gt6oq0) ![](assets/new.png)  
 - [2022-07-18-回到本真，梦回计算机发展史](https://toutiao.io/k/33drnub) ![](assets/new.png)  
-- [2022-07-18-推荐-服务端监控架构设计与实践](https://toutiao.io/k/xhwa9mo) ![](assets/new.png)  
+- [2022-07-18-推荐-高并发，你真的理解透彻了吗？](https://toutiao.io/k/93k2zfb) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

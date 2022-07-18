@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-18 14:28:54。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-18 14:52:38。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,7 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-07-18-问问山姆副卡值得买吗？打算去体验一趟](https://www.v2ex.com/t/867121) 
 - [2022-07-18-蒸蒸日上的火山翻译](https://www.v2ex.com/t/867119) 
 - [2022-07-18-curve25519-上的点不到-2^253-个,为什么公钥有-32-字节-256bit？](https://www.v2ex.com/t/867117) 
 - [2022-07-18-Apple-Music-云端资料库在其他设备上串流不畅](https://www.v2ex.com/t/867116) 
@@ -1939,7 +1940,6 @@
 - [2022-07-18-创作没了，心凉](https://www.v2ex.com/t/867078) 
 - [2022-07-18-求推荐日记软件](https://www.v2ex.com/t/867075) 
 - [2022-07-18-树莓派和-NSA-哪个可玩性高呀，目前主要是想接入-home-assistant](https://www.v2ex.com/t/867074) 
-- [2022-07-18-请各位威友推荐支持-Apple-芯片的-Dozer-和-Spectacle-替代软件](https://www.v2ex.com/t/867072) 
 - [2022-07-18-DDD-中的几个困难问题-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15218&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fdifficult-problems-in-domain-driven-design%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-18-CPU是如何进行分支预测的？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15217&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FZ9KWmfCBhCixdkZGEeLStQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-18-如何应对团队协作的五大障碍-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15216&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-solve-five-dysfunctions-of-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1961,8 +1961,8 @@
 - [2022-07-18-搞微服务还用Spring-Cloud？Istio好用到爆！](https://toutiao.io/k/7xgh9xy) 
 - [2022-07-18-Kafka学习笔记](https://toutiao.io/k/ruk1lvr) 
 - [2022-07-18-炫技](https://toutiao.io/k/i54gng3) 
-- [2022-07-18-一文回顾-Java-入门知识（上）](https://toutiao.io/k/8f728q7) 
 - [2022-07-18-covGo---go覆盖率平台实现精准测试](https://toutiao.io/k/lx70ynl) 
+- [2022-07-18-一文回顾-Java-入门知识（上）](https://toutiao.io/k/8f728q7) 
 - [2022-07-18-微信为什么使用-SQLite-保存聊天记录？](https://toutiao.io/k/rfce5vz) 
 - [2022-07-18-openGauss可观测性](https://toutiao.io/k/64jzcme) 
 - [2022-07-18-韭要学金银票据传递攻击Pass-The-Ticket](https://toutiao.io/k/wilr207) 
@@ -1971,5 +1971,5 @@
 - [2022-07-18-回到本真，梦回计算机发展史](https://toutiao.io/k/33drnub) 
 - [2022-07-18-不会吧！钉钉都下载了，你还不知道可以这样玩？](https://toutiao.io/k/4o1irq5) 
 - [2022-07-18-TLA+-入门教程（4）：两阶段提交](https://toutiao.io/k/7gt6oq0) 
-- [2022-07-18-推荐-服务端监控架构设计与实践](https://toutiao.io/k/xhwa9mo) 
 - [2022-07-18-推荐-高并发，你真的理解透彻了吗？](https://toutiao.io/k/93k2zfb) 
+- [2022-07-18-推荐-服务端监控架构设计与实践](https://toutiao.io/k/xhwa9mo) 

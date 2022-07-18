@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-18 14:28:54。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-07-18 14:52:38。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,8 @@
 </summary>
 
 
+- [【V2EX】2022-07-18-问问山姆副卡值得买吗？打算去体验一趟](https://www.v2ex.com/t/867121) 
+- [【V2EX】2022-07-18-typescript-中声明一个类型,-是用-Interface-还是-Type-呢?](https://www.v2ex.com/t/867120) 
 - [【V2EX】2022-07-18-蒸蒸日上的火山翻译](https://www.v2ex.com/t/867119) 
 - [【V2EX】2022-07-18-小白写的一个并发判断函数，请问有没有什么可以优化的地方](https://www.v2ex.com/t/867118) 
 - [【V2EX】2022-07-18-curve25519-上的点不到-2^253-个,为什么公钥有-32-字节-256bit？](https://www.v2ex.com/t/867117) 
@@ -106,7 +108,6 @@
 - [【V2EX】2022-07-18-求推荐日记软件](https://www.v2ex.com/t/867075) 
 - [【V2EX】2022-07-18-树莓派和-NSA-哪个可玩性高呀，目前主要是想接入-home-assistant](https://www.v2ex.com/t/867074) 
 - [【V2EX】2022-07-18-GitHub-开源项目维护参与指南：-HowToStartOpenSource](https://www.v2ex.com/t/867073) 
-- [【V2EX】2022-07-18-请各位威友推荐支持-Apple-芯片的-Dozer-和-Spectacle-替代软件](https://www.v2ex.com/t/867072) 
 - [【技术头条】2022-07-18-DDD-中的几个困难问题-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15218&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fdifficult-problems-in-domain-driven-design%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-18-CPU是如何进行分支预测的？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15217&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FZ9KWmfCBhCixdkZGEeLStQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-18-如何应对团队协作的五大障碍-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15216&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-solve-five-dysfunctions-of-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -133,8 +134,8 @@
 - [【开发者头条】2022-07-18-Go中的一些优化笔记，简约而不简单](https://toutiao.io/k/8gjzmtu) 
 - [【开发者头条】2022-07-18-阿里云Elasticsearch日志场景最佳实践及引擎内核优化](https://toutiao.io/k/9q34zj7) 
 - [【开发者头条】2022-07-18-炫技](https://toutiao.io/k/i54gng3) 
-- [【开发者头条】2022-07-18-一文回顾-Java-入门知识（上）](https://toutiao.io/k/8f728q7) 
 - [【开发者头条】2022-07-18-covGo---go覆盖率平台实现精准测试](https://toutiao.io/k/lx70ynl) 
+- [【开发者头条】2022-07-18-一文回顾-Java-入门知识（上）](https://toutiao.io/k/8f728q7) 
 - [【开发者头条】2022-07-18-微信为什么使用-SQLite-保存聊天记录？](https://toutiao.io/k/rfce5vz) 
 - [【开发者头条】2022-07-18-【第2671期】防御性CSS简介](https://toutiao.io/k/vl9gwi0) 
 - [【开发者头条】2022-07-18-openGauss可观测性](https://toutiao.io/k/64jzcme) 
@@ -144,10 +145,10 @@
 - [【开发者头条】2022-07-18-MLOps-市场火爆依旧！Tecton-融资1亿美元！](https://toutiao.io/k/dhosdvb) 
 - [【开发者头条】2022-07-18-回到本真，梦回计算机发展史](https://toutiao.io/k/33drnub) 
 - [【开发者头条】2022-07-18-不会吧！钉钉都下载了，你还不知道可以这样玩？](https://toutiao.io/k/4o1irq5) 
-- [【开发者头条】2022-07-18-TLA+-入门教程（4）：两阶段提交](https://toutiao.io/k/7gt6oq0) 
 - [【开发者头条】2022-07-18-脉脉网友出了道-Go-面试题，你能答对吗？](https://toutiao.io/k/v4i6cw7) 
-- [【开发者头条】2022-07-18-推荐-服务端监控架构设计与实践](https://toutiao.io/k/xhwa9mo) 
+- [【开发者头条】2022-07-18-TLA+-入门教程（4）：两阶段提交](https://toutiao.io/k/7gt6oq0) 
 - [【开发者头条】2022-07-18-推荐-高并发，你真的理解透彻了吗？](https://toutiao.io/k/93k2zfb) 
+- [【开发者头条】2022-07-18-推荐-服务端监控架构设计与实践](https://toutiao.io/k/xhwa9mo) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

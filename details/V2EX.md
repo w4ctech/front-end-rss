@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2022-07-18 17:29:04。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-18 17:46:59。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-07-18-都说-ssd-是有寿命的，但我从来没看到真被操到-0%寿命的-ssd](https://www.v2ex.com/t/867138) 
 - [2022-07-18-星巴克-App-是怎么做到的呢？](https://www.v2ex.com/t/867137) 
 - [2022-07-18-问问有没有肥友有兴趣一起继续开发-SuperSpineViewer-的](https://www.v2ex.com/t/867136) 
 - [2022-07-18-有玩电吉他的-V-友吗，求推荐新手入门设备](https://www.v2ex.com/t/867135) 
@@ -42,4 +43,3 @@
 - [2022-07-18-Windows-多屏分屏方案求教](https://www.v2ex.com/t/867091) 
 - [2022-07-18-请问一下-v-友,这是-Linux-上什么编码](https://www.v2ex.com/t/867090) 
 - [2022-07-18-招聘北京/上海/远程-数据库、存储、云平台-可内推](https://www.v2ex.com/t/867089) 
-- [2022-07-18-关于-openwrt-IPV6-的问题](https://www.v2ex.com/t/867088) 

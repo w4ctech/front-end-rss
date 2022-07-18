@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-07-18 17:46:59，:rocket: 更新条数: +2025， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-07-18 18:17:16，:rocket: 更新条数: +2023， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-07-18-推荐个自己做的开源论坛，适合嵌入在-已有业务/App-内使用](https://www.v2ex.com/t/867139) ![](assets/new.png)  
 - [2022-07-18-都说-ssd-是有寿命的，但我从来没看到真被操到-0%寿命的-ssd](https://www.v2ex.com/t/867138) ![](assets/new.png)  
 - [2022-07-18-星巴克-App-是怎么做到的呢？](https://www.v2ex.com/t/867137) ![](assets/new.png)  
 - [2022-07-18-问问有没有肥友有兴趣一起继续开发-SuperSpineViewer-的](https://www.v2ex.com/t/867136) ![](assets/new.png)  
@@ -500,7 +501,6 @@
 - [2022-07-18-想对大家说：要注意血糖](https://www.v2ex.com/t/867130) ![](assets/new.png)  
 - [2022-07-18-虚拟机里的程序如何不在程序坞显示](https://www.v2ex.com/t/867129) ![](assets/new.png)  
 - [2022-07-18-各位对一个创作者平台的社区化运营持什么样的看法](https://www.v2ex.com/t/867127) ![](assets/new.png)  
-- [2022-07-18-看远程工作的，请关注频道](https://www.v2ex.com/t/867125) ![](assets/new.png)  
 - [2022-07-18-M1-Macbook-Air-开发体验如何？](https://www.v2ex.com/t/867123) ![](assets/new.png)  
 - [2022-07-18-问问山姆副卡值得买吗？打算去体验一趟](https://www.v2ex.com/t/867121) ![](assets/new.png)  
 - [2022-07-18-typescript-中声明一个类型,-是用-Interface-还是-Type-呢?](https://www.v2ex.com/t/867120) ![](assets/new.png)  
@@ -572,7 +572,7 @@
 - [2022-07-18-不会吧！钉钉都下载了，你还不知道可以这样玩？](https://toutiao.io/k/4o1irq5) ![](assets/new.png)  
 - [2022-07-18-回到本真，梦回计算机发展史](https://toutiao.io/k/33drnub) ![](assets/new.png)  
 - [2022-07-18-TLA+-入门教程（4）：两阶段提交](https://toutiao.io/k/7gt6oq0) ![](assets/new.png)  
-- [2022-07-18-推荐-高并发，你真的理解透彻了吗？](https://toutiao.io/k/93k2zfb) ![](assets/new.png)  
+- [2022-07-18-推荐-服务端监控架构设计与实践](https://toutiao.io/k/xhwa9mo) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

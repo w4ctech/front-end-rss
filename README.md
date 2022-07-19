@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-07-19 19:38:28，:rocket: 更新条数: +2025， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-07-19 20:15:14，:rocket: 更新条数: +2025， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-07-19-C++14-中如何方便地将-tuple-展开成为另一个-class-的-variadic-template](https://www.v2ex.com/t/867415) ![](assets/new.png)  
+- [2022-07-19-老车库翻修，预留一个-220v-的插座，方便之后有电动汽车充电需求，需要怎么安排](https://www.v2ex.com/t/867414) ![](assets/new.png)  
 - [2022-07-19-跟风买了喵喵机，发现-app-是国区特供](https://www.v2ex.com/t/867413) ![](assets/new.png)  
 - [2022-07-19-恭喜苹果率先成功制造出永动机](https://www.v2ex.com/t/867412) ![](assets/new.png)  
 - [2022-07-19-微信小程序搜索排名问题](https://www.v2ex.com/t/867411) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-07-19-领英对不同设备显示不同信息是为什么？](https://www.v2ex.com/t/867397) ![](assets/new.png)  
 - [2022-07-19-上海-不加班-外企-招-Java-、C++、安卓、中级测试、支持工程师、初级-devOps，-Java-和-测试有残疾人岗位](https://www.v2ex.com/t/867395) ![](assets/new.png)  
 - [2022-07-19-上海徐汇漕河泾前端实习，现在建议去吗，不知道那边什么情况了](https://www.v2ex.com/t/867394) ![](assets/new.png)  
-- [2022-07-19-见老丈人了，买点啥好呢，老丈人不抽烟，不喝酒，平时喝点茶。](https://www.v2ex.com/t/867393) ![](assets/new.png)  
-- [2022-07-19-升级-iOS16-后的位置提醒应用](https://www.v2ex.com/t/867390) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

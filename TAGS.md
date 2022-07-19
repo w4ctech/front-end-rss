@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-07-19 19:38:28。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-19 20:15:14。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -357,7 +357,6 @@
 
 
 - [【V2EX】南京-|-内推-|-股权激励-|-外企-WLB-|慧咨环球-|-混合办公-|-程序员招聘-|-行业领袖-扁平管理-可移民澳洲](https://www.v2ex.com/t/867370)
-- [【V2EX】北京不加班创业公司-Python-招聘（我感觉招人比写代码都难。](https://www.v2ex.com/t/867365)
 - [【开发者头条】渗透测试面试问题指南](https://toutiao.io/k/zcgnwpp)
 - [......【查看更多】......](./details/tags/job-interview.md)
 

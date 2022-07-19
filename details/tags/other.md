@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-19 15:16:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-19 15:46:53。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,10 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-07-19-领英对不同设备显示不同信息是为什么？](https://www.v2ex.com/t/867397) 
+- [2022-07-19-上海-不加班-外企-招-Java-、C++、安卓、中级测试、支持工程师、初级-devOps，-Java-和-测试有残疾人岗位](https://www.v2ex.com/t/867395) 
+- [2022-07-19-上海徐汇漕河泾前端实习，现在建议去吗，不知道那边什么情况了](https://www.v2ex.com/t/867394) 
+- [2022-07-19-见老丈人了，买点啥好呢，老丈人不抽烟，不喝酒，平时喝点茶。](https://www.v2ex.com/t/867393) 
 - [2022-07-19-升级-iOS16-后的位置提醒应用](https://www.v2ex.com/t/867390) 
 - [2022-07-19-写的一手好字，硬笔和软笔，如何快速变现呢？除了去当老师](https://www.v2ex.com/t/867389) 
 - [2022-07-19-不用洗的杯子推荐？](https://www.v2ex.com/t/867388) 
@@ -1935,11 +1939,6 @@
 - [2022-07-19-请教各位，有没有能提醒非官方中文站的插件或扩展](https://www.v2ex.com/t/867355) 
 - [2022-07-19-bing-搜索的奇怪-bug：搜索-openvpn](https://www.v2ex.com/t/867354) 
 - [2022-07-19-小白装机，各位老哥点评一下](https://www.v2ex.com/t/867353) 
-- [2022-07-19-有没有自动生成-pdf-书签（目录）的软件？](https://www.v2ex.com/t/867349) 
-- [2022-07-19-物联网卡环境下注册-app-是否容易触发风控](https://www.v2ex.com/t/867347) 
-- [2022-07-19-请教一下-macOS-中-newsboat-该怎么优雅地显示图片？](https://www.v2ex.com/t/867346) 
-- [2022-07-19-桌面主机电脑不占空间的蓝牙音响求推荐](https://www.v2ex.com/t/867343) 
-- [2022-07-19-Apple-music-使用问题，纠结很多年的一个问题](https://www.v2ex.com/t/867342) 
 - [2022-07-19-单体-or-微服务？你以为是架构权衡？其实是认知负载！-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15219&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fmonolith-microservice-architectural-tradeoff-cognitive-load%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-19-DDD-中的几个困难问题-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15218&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fdifficult-problems-in-domain-driven-design%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-19-CPU是如何进行分支预测的？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15217&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FZ9KWmfCBhCixdkZGEeLStQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1965,5 +1964,5 @@
 - [2022-07-19-【萌新解题】三数之和](https://toutiao.io/k/uni2o6r) 
 - [2022-07-19-Go-每日一库之-bitset](https://toutiao.io/k/n6xwl27) 
 - [2022-07-19-Hive开发小技巧二](https://toutiao.io/k/1ohm8xj) 
-- [2022-07-19-推荐-服务端监控架构设计与实践](https://toutiao.io/k/xhwa9mo) 
 - [2022-07-19-推荐-高并发，你真的理解透彻了吗？](https://toutiao.io/k/93k2zfb) 
+- [2022-07-19-推荐-服务端监控架构设计与实践](https://toutiao.io/k/xhwa9mo) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-19 15:16:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-19 15:46:53。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -16,5 +16,4 @@
 - [2022-06-12-基于文字的URL锚点定位与::target-text样式设置](https://www.zhangxinxu.com/wordpress/2022/06/url-anchor-target-text/) 
 - [2022-07-19-Little-Snitch-的-Alert-Mode-弹窗太狠了……但是-Slient-Mode-又好像摆设……](https://www.v2ex.com/t/867383) 
 - [2022-07-19-求支持-pfsense-的多口-pcie-有线网卡推荐](https://www.v2ex.com/t/867376) 
-- [2022-07-19-Edge-浏览器顶部经常出现一大块空白](https://www.v2ex.com/t/867345) 
 - [2022-07-19-推荐一款代码依赖包安全漏洞检查插件](https://toutiao.io/k/zde29x5) 

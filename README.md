@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-07-19 07:13:24，:rocket: 更新条数: +2020， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-07-19 07:39:07，:rocket: 更新条数: +2020， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,9 @@
 </summary>
 
 
+- [2022-07-19-Linux-系统-vim-自动退出，-Python-脚本也被自动杀死，这个什么原因造成的？](https://www.v2ex.com/t/867287) ![](assets/new.png)  
+- [2022-07-19-（已有答案）后台-app-刷新到底是做什么用的？](https://www.v2ex.com/t/867286) ![](assets/new.png)  
+- [2022-07-19-好兄弟的工地停工了；回老家农村待业了](https://www.v2ex.com/t/867285) ![](assets/new.png)  
 - [2022-07-19-想搞个机器来开热点？可有推荐？或者现在带卡的随身-Wi-Fi-也行？](https://www.v2ex.com/t/867284) ![](assets/new.png)  
 - [2022-07-19-一个类型体操的问题，我能不能既要又要？](https://www.v2ex.com/t/867283) ![](assets/new.png)  
 - [2022-07-19-如何在-spring-boot-中实现对一个数据对象的流式处理？](https://www.v2ex.com/t/867282) ![](assets/new.png)  
@@ -508,9 +511,6 @@
 - [2022-07-19-PC-端.exe-程序如何看到它实时调用的接口](https://www.v2ex.com/t/867268) ![](assets/new.png)  
 - [2022-07-19-iOS-16-和-macOS-13-的-Safari-会翻译图片上的文字了，但效果有点适得其反……](https://www.v2ex.com/t/867267) ![](assets/new.png)  
 - [2022-07-19-u3d-开发工程师-休闲游戏-远程工作-15K~20k](https://www.v2ex.com/t/867266) ![](assets/new.png)  
-- [2022-07-19-准备入手-2023-款星瑞豪华版，需要注意什么](https://www.v2ex.com/t/867262) ![](assets/new.png)  
-- [2022-07-19-一台老的-iPad-air-一代，目前降级到-10.3.3，还是有点慢，有什么办法可以让它快一点吗？日常看看视频打打字的。越狱有用吗？](https://www.v2ex.com/t/867261) ![](assets/new.png)  
-- [2022-07-19-求-V-友哪里投诉微博管用？](https://www.v2ex.com/t/867260) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -567,8 +567,8 @@
 - [2022-07-19-【萌新解题】三数之和](https://toutiao.io/k/uni2o6r) ![](assets/new.png)  
 - [2022-07-19-Hive开发小技巧二](https://toutiao.io/k/1ohm8xj) ![](assets/new.png)  
 - [2022-07-19-推荐一款代码依赖包安全漏洞检查插件](https://toutiao.io/k/zde29x5) ![](assets/new.png)  
-- [2022-07-19-性能领域：你知道的越多，不知道的也就越多](https://toutiao.io/k/urchjsh) ![](assets/new.png)  
 - [2022-07-19-Go-每日一库之-bitset](https://toutiao.io/k/n6xwl27) ![](assets/new.png)  
+- [2022-07-19-性能领域：你知道的越多，不知道的也就越多](https://toutiao.io/k/urchjsh) ![](assets/new.png)  
 - [2022-07-19-Harbor-高可用集群设计及部署（离线安装方式、含视频）](https://toutiao.io/k/rl0lgef) ![](assets/new.png)  
 - [2022-07-19-推荐-服务端监控架构设计与实践](https://toutiao.io/k/xhwa9mo) ![](assets/new.png)  
 - [2022-07-19-推荐-高并发，你真的理解透彻了吗？](https://toutiao.io/k/93k2zfb) ![](assets/new.png)  

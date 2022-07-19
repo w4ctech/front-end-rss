@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-19 07:13:24。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-07-19 07:39:07。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,9 @@
 </summary>
 
 
+- [【V2EX】2022-07-19-Linux-系统-vim-自动退出，-Python-脚本也被自动杀死，这个什么原因造成的？](https://www.v2ex.com/t/867287) 
+- [【V2EX】2022-07-19-（已有答案）后台-app-刷新到底是做什么用的？](https://www.v2ex.com/t/867286) 
+- [【V2EX】2022-07-19-好兄弟的工地停工了；回老家农村待业了](https://www.v2ex.com/t/867285) 
 - [【V2EX】2022-07-19-想搞个机器来开热点？可有推荐？或者现在带卡的随身-Wi-Fi-也行？](https://www.v2ex.com/t/867284) 
 - [【V2EX】2022-07-19-一个类型体操的问题，我能不能既要又要？](https://www.v2ex.com/t/867283) 
 - [【V2EX】2022-07-19-如何在-spring-boot-中实现对一个数据对象的流式处理？](https://www.v2ex.com/t/867282) 
@@ -100,9 +103,6 @@
 - [【V2EX】2022-07-19-显示器自带的-typec-全功能线换成-100w-40GB-intel-认证芯片的-USB4-线会不会有改变。](https://www.v2ex.com/t/867242) 
 - [【V2EX】2022-07-19-请教下有没有英文语法分享的优秀开源库](https://www.v2ex.com/t/867241) 
 - [【V2EX】2022-07-19-有什么比较好的果粉论坛吗](https://www.v2ex.com/t/867238) 
-- [【V2EX】2022-07-19-小米水印生成器](https://www.v2ex.com/t/867237) 
-- [【V2EX】2022-07-19-公司的出口-IP-被-v2-封了，求解封](https://www.v2ex.com/t/867236) 
-- [【V2EX】2022-07-19-妈妈最近身体不好，天天在家里带着，怎么让老人家有事情做？](https://www.v2ex.com/t/867235) 
 - [【技术头条】2022-07-19-单体-or-微服务？你以为是架构权衡？其实是认知负载！-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15219&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fmonolith-microservice-architectural-tradeoff-cognitive-load%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-19-DDD-中的几个困难问题-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15218&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fdifficult-problems-in-domain-driven-design%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-19-CPU是如何进行分支预测的？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15217&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FZ9KWmfCBhCixdkZGEeLStQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -137,8 +137,8 @@
 - [【开发者头条】2022-07-19-【萌新解题】三数之和](https://toutiao.io/k/uni2o6r) 
 - [【开发者头条】2022-07-19-Hive开发小技巧二](https://toutiao.io/k/1ohm8xj) 
 - [【开发者头条】2022-07-19-推荐一款代码依赖包安全漏洞检查插件](https://toutiao.io/k/zde29x5) 
-- [【开发者头条】2022-07-19-性能领域：你知道的越多，不知道的也就越多](https://toutiao.io/k/urchjsh) 
 - [【开发者头条】2022-07-19-Go-每日一库之-bitset](https://toutiao.io/k/n6xwl27) 
+- [【开发者头条】2022-07-19-性能领域：你知道的越多，不知道的也就越多](https://toutiao.io/k/urchjsh) 
 - [【开发者头条】2022-07-19-Harbor-高可用集群设计及部署（离线安装方式、含视频）](https://toutiao.io/k/rl0lgef) 
 - [【开发者头条】2022-07-19-推荐-服务端监控架构设计与实践](https://toutiao.io/k/xhwa9mo) 
 - [【开发者头条】2022-07-19-推荐-高并发，你真的理解透彻了吗？](https://toutiao.io/k/93k2zfb) 

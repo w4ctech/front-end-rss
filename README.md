@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-07-19 15:46:53，:rocket: 更新条数: +2022， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-07-19 16:19:49，:rocket: 更新条数: +2023， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,10 @@
 </summary>
 
 
+- [2022-07-19-G-Suite-legacy-free-edition-升级后已成功降级](https://www.v2ex.com/t/867404) ![](assets/new.png)  
+- [2022-07-19-请教一个关于用户换绑手机号/邮箱这种操作的技术问题](https://www.v2ex.com/t/867403) ![](assets/new.png)  
+- [2022-07-19-这是我的新-Mac。](https://www.v2ex.com/t/867402) ![](assets/new.png)  
+- [2022-07-19-bash-脚本问题：如果调用一个函数并且把输出保存到一个变量里，那么就会丢失这个函数运行期间对全局变量的修改，这是为什么？](https://www.v2ex.com/t/867401) ![](assets/new.png)  
 - [2022-07-19-请问下本地起个-node-服务如何能让远程通过-ip-访问?](https://www.v2ex.com/t/867400) ![](assets/new.png)  
 - [2022-07-19-连续看视频合集时，无限重复的片头文案有无办法跳过](https://www.v2ex.com/t/867399) ![](assets/new.png)  
 - [2022-07-19-领英对不同设备显示不同信息是为什么？](https://www.v2ex.com/t/867397) ![](assets/new.png)  
@@ -507,10 +511,6 @@
 - [2022-07-19-Little-Snitch-的-Alert-Mode-弹窗太狠了……但是-Slient-Mode-又好像摆设……](https://www.v2ex.com/t/867383) ![](assets/new.png)  
 - [2022-07-19-iPhone-13-pro-的移动-5G-体验快不快](https://www.v2ex.com/t/867381) ![](assets/new.png)  
 - [2022-07-19-群晖-Synology-DSM7-系统软件使用问题讨论（集中贴，新问题也再次回帖便于大家汇总）](https://www.v2ex.com/t/867380) ![](assets/new.png)  
-- [2022-07-19-英语流利说这个课程的实际价格是多少？](https://www.v2ex.com/t/867379) ![](assets/new.png)  
-- [2022-07-19-哪位老哥办了广电手机号，求一枚验证码，帮忙下一单靓号。。](https://www.v2ex.com/t/867377) ![](assets/new.png)  
-- [2022-07-19-求支持-pfsense-的多口-pcie-有线网卡推荐](https://www.v2ex.com/t/867376) ![](assets/new.png)  
-- [2022-07-19-给各位开了一个自由服](https://www.v2ex.com/t/867375) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -571,7 +571,6 @@
 - [2022-07-19-Hive开发小技巧二](https://toutiao.io/k/1ohm8xj) ![](assets/new.png)  
 - [2022-07-19-Harbor-高可用集群设计及部署（离线安装方式、含视频）](https://toutiao.io/k/rl0lgef) ![](assets/new.png)  
 - [2022-07-19-推荐-高并发，你真的理解透彻了吗？](https://toutiao.io/k/93k2zfb) ![](assets/new.png)  
-- [2022-07-19-推荐-服务端监控架构设计与实践](https://toutiao.io/k/xhwa9mo) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

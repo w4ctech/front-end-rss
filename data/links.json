@@ -9953,6 +9953,26 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "G Suite legacy free edition 升级后已成功降级",
+        "link": "https://www.v2ex.com/t/867404",
+        "date": "2022-07-19"
+      },
+      {
+        "title": "请教一个关于用户换绑手机号/邮箱这种操作的技术问题",
+        "link": "https://www.v2ex.com/t/867403",
+        "date": "2022-07-19"
+      },
+      {
+        "title": "这是我的新 Mac。",
+        "link": "https://www.v2ex.com/t/867402",
+        "date": "2022-07-19"
+      },
+      {
+        "title": "bash 脚本问题：如果调用一个函数并且把输出保存到一个变量里，那么就会丢失这个函数运行期间对全局变量的修改，这是为什么？",
+        "link": "https://www.v2ex.com/t/867401",
+        "date": "2022-07-19"
+      },
+      {
         "title": "请问下本地起个 node 服务如何能让远程通过 ip 访问?",
         "link": "https://www.v2ex.com/t/867400",
         "date": "2022-07-19"
@@ -10125,16 +10145,6 @@
       {
         "title": "请教各位，有没有能提醒非官方中文站的插件或扩展",
         "link": "https://www.v2ex.com/t/867355",
-        "date": "2022-07-19"
-      },
-      {
-        "title": "bing 搜索的奇怪 bug：搜索 openvpn",
-        "link": "https://www.v2ex.com/t/867354",
-        "date": "2022-07-19"
-      },
-      {
-        "title": "小白装机，各位老哥点评一下",
-        "link": "https://www.v2ex.com/t/867353",
         "date": "2022-07-19"
       }
     ]
@@ -10339,11 +10349,6 @@
       {
         "title": "[推荐] 高并发，你真的理解透彻了吗？",
         "link": "https://toutiao.io/k/93k2zfb",
-        "date": "2022-07-19"
-      },
-      {
-        "title": "[推荐] 服务端监控架构设计与实践",
-        "link": "https://toutiao.io/k/xhwa9mo",
         "date": "2022-07-19"
       }
     ]

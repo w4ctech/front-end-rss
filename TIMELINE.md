@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-19 15:46:53。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-07-19 16:19:49。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,10 @@
 </summary>
 
 
+- [【V2EX】2022-07-19-G-Suite-legacy-free-edition-升级后已成功降级](https://www.v2ex.com/t/867404) 
+- [【V2EX】2022-07-19-请教一个关于用户换绑手机号/邮箱这种操作的技术问题](https://www.v2ex.com/t/867403) 
+- [【V2EX】2022-07-19-这是我的新-Mac。](https://www.v2ex.com/t/867402) 
+- [【V2EX】2022-07-19-bash-脚本问题：如果调用一个函数并且把输出保存到一个变量里，那么就会丢失这个函数运行期间对全局变量的修改，这是为什么？](https://www.v2ex.com/t/867401) 
 - [【V2EX】2022-07-19-请问下本地起个-node-服务如何能让远程通过-ip-访问?](https://www.v2ex.com/t/867400) 
 - [【V2EX】2022-07-19-连续看视频合集时，无限重复的片头文案有无办法跳过](https://www.v2ex.com/t/867399) 
 - [【V2EX】2022-07-19-领英对不同设备显示不同信息是为什么？](https://www.v2ex.com/t/867397) 
@@ -103,8 +107,6 @@
 - [【V2EX】2022-07-19-我也分享个微信集赞工具，部署在-serverless-上](https://www.v2ex.com/t/867357) 
 - [【V2EX】2022-07-19-请教各位大佬-liquidText-和-marginNote-的拖拽跳转功能是怎么实现的呀](https://www.v2ex.com/t/867356) 
 - [【V2EX】2022-07-19-请教各位，有没有能提醒非官方中文站的插件或扩展](https://www.v2ex.com/t/867355) 
-- [【V2EX】2022-07-19-bing-搜索的奇怪-bug：搜索-openvpn](https://www.v2ex.com/t/867354) 
-- [【V2EX】2022-07-19-小白装机，各位老哥点评一下](https://www.v2ex.com/t/867353) 
 - [【技术头条】2022-07-19-单体-or-微服务？你以为是架构权衡？其实是认知负载！-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15219&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fmonolith-microservice-architectural-tradeoff-cognitive-load%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-19-DDD-中的几个困难问题-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15218&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fdifficult-problems-in-domain-driven-design%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-19-CPU是如何进行分支预测的？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15217&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FZ9KWmfCBhCixdkZGEeLStQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -143,7 +145,6 @@
 - [【开发者头条】2022-07-19-Hive开发小技巧二](https://toutiao.io/k/1ohm8xj) 
 - [【开发者头条】2022-07-19-Harbor-高可用集群设计及部署（离线安装方式、含视频）](https://toutiao.io/k/rl0lgef) 
 - [【开发者头条】2022-07-19-推荐-高并发，你真的理解透彻了吗？](https://toutiao.io/k/93k2zfb) 
-- [【开发者头条】2022-07-19-推荐-服务端监控架构设计与实践](https://toutiao.io/k/xhwa9mo) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

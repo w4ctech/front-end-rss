@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-19 11:12:18。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-19 11:38:36。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
@@ -46,4 +46,3 @@
 - [2022-07-19-115-网盘最近是不是失常了](https://www.v2ex.com/t/867301) 
 - [2022-07-19-redmi-X75-和-oppo-k9-75选哪个](https://www.v2ex.com/t/867300) 
 - [2022-07-19-关于-Macbook-pro-风扇和-CPU-占用率的问题，请教一下大家](https://www.v2ex.com/t/867299) 
-- [2022-07-19-有没有可以做思维导图的笔记软件？](https://www.v2ex.com/t/867298) 

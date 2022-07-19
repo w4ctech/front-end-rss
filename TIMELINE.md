@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-19 09:26:10。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-07-19 09:41:58。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,10 @@
 </summary>
 
 
+- [【V2EX】2022-07-19-求教面试必问应答](https://www.v2ex.com/t/867323) 
+- [【V2EX】2022-07-19-5G-移动和-4G-电信的差距就这么点？](https://www.v2ex.com/t/867322) 
+- [【V2EX】2022-07-19-你们那-4G-限速了吗](https://www.v2ex.com/t/867321) 
+- [【V2EX】2022-07-19-日常工作强度使用-M1-Mac-mini-一年以后，发现-SSD-生命周期还有-97%](https://www.v2ex.com/t/867320) 
 - [【V2EX】2022-07-19-我想问下，在哪里才能认识一些在英国的华人呀？](https://www.v2ex.com/t/867319) 
 - [【V2EX】2022-07-19-如果做一个面向英文用户的-app,-oauth-最好能支持哪些服务提供商呢?](https://www.v2ex.com/t/867318) 
 - [【V2EX】2022-07-19-苹果手机一键打开场所码](https://www.v2ex.com/t/867316) 
@@ -108,9 +112,6 @@
 - [【V2EX】2022-07-19-新买的-apple-watch-series7-刚开始几天耗电快正常吗](https://www.v2ex.com/t/867276) 
 - [【V2EX】2022-07-19-iPhone-看微博竟然能同步到-mac?](https://www.v2ex.com/t/867275) 
 - [【V2EX】2022-07-19-想买个-xbox-series-x-怎么这么难？](https://www.v2ex.com/t/867274) 
-- [【V2EX】2022-07-19-坐标-Shopee-SZ,请问公司裁的话会赔偿多少](https://www.v2ex.com/t/867273) 
-- [【V2EX】2022-07-19-studio-display-自我简评](https://www.v2ex.com/t/867271) 
-- [【V2EX】2022-07-19-有点..怪的问题，-Win+R-打开的运行窗口，默认成大写的-CMD-了](https://www.v2ex.com/t/867270) 
 - [【技术头条】2022-07-19-单体-or-微服务？你以为是架构权衡？其实是认知负载！-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15219&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fmonolith-microservice-architectural-tradeoff-cognitive-load%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-19-DDD-中的几个困难问题-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15218&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fdifficult-problems-in-domain-driven-design%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-19-CPU是如何进行分支预测的？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15217&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FZ9KWmfCBhCixdkZGEeLStQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -148,8 +149,8 @@
 - [【开发者头条】2022-07-19-Go-每日一库之-bitset](https://toutiao.io/k/n6xwl27) 
 - [【开发者头条】2022-07-19-性能领域：你知道的越多，不知道的也就越多](https://toutiao.io/k/urchjsh) 
 - [【开发者头条】2022-07-19-Harbor-高可用集群设计及部署（离线安装方式、含视频）](https://toutiao.io/k/rl0lgef) 
-- [【开发者头条】2022-07-19-推荐-服务端监控架构设计与实践](https://toutiao.io/k/xhwa9mo) 
 - [【开发者头条】2022-07-19-推荐-高并发，你真的理解透彻了吗？](https://toutiao.io/k/93k2zfb) 
+- [【开发者头条】2022-07-19-推荐-服务端监控架构设计与实践](https://toutiao.io/k/xhwa9mo) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-07-19 01:15:32，:rocket: 更新条数: +2015， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-07-19 03:42:30，:rocket: 更新条数: +2018， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,26 +491,26 @@
 </summary>
 
 
-- [2022-07-19-iPhone-se3](https://www.v2ex.com/t/867162) ![](assets/new.png)  
-- [2022-07-19-视频剪辑是上-mac-还是-win？](https://www.v2ex.com/t/867161) ![](assets/new.png)  
-- [2022-07-19-win11-bug](https://www.v2ex.com/t/867160) ![](assets/new.png)  
-- [2022-07-19-微书---写博客可以“赚钱”的五种订阅方法](https://www.v2ex.com/t/867159) ![](assets/new.png)  
-- [2022-07-19-驾校吐槽-2](https://www.v2ex.com/t/867158) ![](assets/new.png)  
-- [2022-07-19-请问上海工作的-V-友能推荐下宽带和手机流量兼顾的宽带吗？](https://www.v2ex.com/t/867157) ![](assets/new.png)  
-- [2022-07-19-西天取经是十万八千里，孙悟空一个筋斗云也是十万八千里，为什么一个筋斗云就能直接到达目的地，却要耗费十四年一步一步的走过去？](https://www.v2ex.com/t/867156) ![](assets/new.png)  
-- [2022-07-19-虾皮-Shopee-靠谱内推](https://www.v2ex.com/t/867155) ![](assets/new.png)  
-- [2022-07-19-社交软件如微信、QQ-这种可以用某种软件远程的监控吗？不是在被监控端偷偷安装监控软件那种](https://www.v2ex.com/t/867154) ![](assets/new.png)  
-- [2022-07-19-［地铁异闻］神秘老大爷偷开免密热点？](https://www.v2ex.com/t/867151) ![](assets/new.png)  
-- [2022-07-19-家里放设备的柜子剩余地方不多了,-想组个服务器用.求指点](https://www.v2ex.com/t/867150) ![](assets/new.png)  
-- [2022-07-19-最近研究微信公众号迁移，看到很多代办公证书人都不要到现场，这是怎么做到的？](https://www.v2ex.com/t/867149) ![](assets/new.png)  
-- [2022-07-18-侧重问一下，请问大家平时如何备份手机里的照片呢？谢谢🙏。](https://www.v2ex.com/t/867148) ![](assets/new.png)  
-- [2022-07-18-求-itx-小机箱配置推荐](https://www.v2ex.com/t/867147) ![](assets/new.png)  
-- [2022-07-18-Java-中高精度计时？](https://www.v2ex.com/t/867144) ![](assets/new.png)  
-- [2022-07-18-音视频开发入门](https://www.v2ex.com/t/867143) ![](assets/new.png)  
-- [2022-07-18-amd-5600-还是-intel-12400-还是-等等？](https://www.v2ex.com/t/867142) ![](assets/new.png)  
-- [2022-07-18-每次看见发-ITX-相关帖子的都会劝两句。。](https://www.v2ex.com/t/867141) ![](assets/new.png)  
-- [2022-07-18-佛山电信宽带办理了公网-IP，但是无法连接](https://www.v2ex.com/t/867140) ![](assets/new.png)  
-- [2022-07-18-推荐个自己做的开源论坛，适合嵌入在-已有业务/App-内使用](https://www.v2ex.com/t/867139) ![](assets/new.png)  
+- [2022-07-19-比特币近一个月内小幅回升-有解套的吗](https://www.v2ex.com/t/867232) ![](assets/new.png)  
+- [2022-07-19-求推荐个国外的云服务平台](https://www.v2ex.com/t/867230) ![](assets/new.png)  
+- [2022-07-19-一个宠物社区服务平台](https://www.v2ex.com/t/867229) ![](assets/new.png)  
+- [2022-07-19-最近有啥上云优惠？](https://www.v2ex.com/t/867228) ![](assets/new.png)  
+- [2022-07-19-好吃的大米能有多好吃？](https://www.v2ex.com/t/867227) ![](assets/new.png)  
+- [2022-07-19-感冒发烧到底能不能喝牛奶？](https://www.v2ex.com/t/867226) ![](assets/new.png)  
+- [2022-07-19-如何让两台设备在不同的局域网内互相寻找到对方](https://www.v2ex.com/t/867224) ![](assets/new.png)  
+- [2022-07-19-Flutter-版本的-HandShaker，全平台支持（-Linux-、macOS、Windows），值得一试](https://www.v2ex.com/t/867222) ![](assets/new.png)  
+- [2022-07-19-Ant-Design-Protable-排序问题，这是我的错误吗-还是-ant-design-官方组件本身问题，来个前端大佬帮忙看看](https://www.v2ex.com/t/867221) ![](assets/new.png)  
+- [2022-07-19-学习网站-B-站大会员免费送](https://www.v2ex.com/t/867219) ![](assets/new.png)  
+- [2022-07-19-写了一份-vnc-协议解析文档，希望能帮助大家理解-vnc-远程桌面的原理！](https://www.v2ex.com/t/867218) ![](assets/new.png)  
+- [2022-07-19-求教有使用-wechaty-的朋友吗，关于通过好友的一个问题](https://www.v2ex.com/t/867217) ![](assets/new.png)  
+- [2022-07-19-想用个小屏的-mini-手机，又想用双-sim-卡，真烦](https://www.v2ex.com/t/867216) ![](assets/new.png)  
+- [2022-07-19-职业生涯规划迷茫、请教大佬们。](https://www.v2ex.com/t/867215) ![](assets/new.png)  
+- [2022-07-19-每天闹钟响起时，你脑子里第一个出现的想法是什么](https://www.v2ex.com/t/867213) ![](assets/new.png)  
+- [2022-07-19-ds214se-怎么样呀](https://www.v2ex.com/t/867212) ![](assets/new.png)  
+- [2022-07-19-LeetCode-刷题刷了就忘？快来试试这个-2022-最新开源-LeetCode-刷题复习插件](https://www.v2ex.com/t/867210) ![](assets/new.png)  
+- [2022-07-19-请问一下，关于-macos-下的解压软件](https://www.v2ex.com/t/867209) ![](assets/new.png)  
+- [2022-07-19-大家买-vps-或者买机场都是怎么付款的](https://www.v2ex.com/t/867208) ![](assets/new.png)  
+- [2022-07-19-幽灵地址，-ping-能解析出来，却找不到来源？](https://www.v2ex.com/t/867207) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -522,6 +522,7 @@
 </summary>
 
 
+- [2022-07-19-单体-or-微服务？你以为是架构权衡？其实是认知负载！-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15219&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fmonolith-microservice-architectural-tradeoff-cognitive-load%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-07-19-DDD-中的几个困难问题-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15218&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fdifficult-problems-in-domain-driven-design%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-07-19-CPU是如何进行分支预测的？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15217&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FZ9KWmfCBhCixdkZGEeLStQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-07-19-如何应对团队协作的五大障碍-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15216&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-solve-five-dysfunctions-of-team%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
@@ -541,7 +542,6 @@
 - [2022-07-19-PyCharm与Jupyter完美融合，Jupytext来啦！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15202&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494236%26amp%3Bidx%3D2%26amp%3Bsn%3D7b193dc565e75d3495acf9bc8629c709%26amp%3Bchksm%3Dfa3f0b07cd488211fd5df7592f76aec322281b32f62e621a4ded86205877045285860ec8aee7%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-07-19-别瞎学了，这几门语言要被淘汰了！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15201&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494220%26amp%3Bidx%3D1%26amp%3Bsn%3D51c5e4c965ea710ff3ce153c53facb9c%26amp%3Bchksm%3Dfa3f0b17cd48820194b637429cbe4639886a56f0ac5e8fa84299fee0057b67c74f05392ff237%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-07-19-敏捷教练技术的融合方法-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15200&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fagile-coach-techniques%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-07-19-你还只知道测试金字塔？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15199&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftest-pyramid%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -555,15 +555,18 @@
 
 - [2022-07-19-团队一盘散沙，怎么破？](https://toutiao.io/k/kdzpdh5) ![](assets/new.png)  
 - [2022-07-19-社区点赞业务缓存设计优化探索](https://toutiao.io/k/rplztap) ![](assets/new.png)  
-- [2022-07-19-Babylon.js-将成构建元宇宙重要工具？专访-Babylon.js-团队负责人-|-卓越技术团队访谈录](https://toutiao.io/k/baoeair) ![](assets/new.png)  
-- [2022-07-19-Flink-Exactly-Once-投递实现浅析](https://toutiao.io/k/d9sm1pe) ![](assets/new.png)  
-- [2022-07-19-因果学习将开启下一代AI浪潮？九章云极DataCanvas正式发布YLearn因果学习开源项目](https://toutiao.io/k/a54bchd) ![](assets/new.png)  
-- [2022-07-19-Go-垃圾回收器指南](https://toutiao.io/k/kce21o1) ![](assets/new.png)  
-- [2022-07-19-可能改变前端工程化未来的特性：ESM-Loader-Hooks](https://toutiao.io/k/ospp49y) ![](assets/new.png)  
 - [2022-07-19-IntelliJ-IDEA-2022.2发布首个Beta版本](https://toutiao.io/k/jfldi2r) ![](assets/new.png)  
+- [2022-07-19-Babylon.js-将成构建元宇宙重要工具？专访-Babylon.js-团队负责人-|-卓越技术团队访谈录](https://toutiao.io/k/baoeair) ![](assets/new.png)  
 - [2022-07-19-网易游戏-Flink-SQL-平台化实践](https://toutiao.io/k/h0wwrv1) ![](assets/new.png)  
-- [2022-07-19-推荐-高并发，你真的理解透彻了吗？](https://toutiao.io/k/93k2zfb) ![](assets/new.png)  
+- [2022-07-19-Flink-Exactly-Once-投递实现浅析](https://toutiao.io/k/d9sm1pe) ![](assets/new.png)  
+- [2022-07-19-Go-垃圾回收器指南](https://toutiao.io/k/kce21o1) ![](assets/new.png)  
+- [2022-07-19-因果学习将开启下一代AI浪潮？九章云极DataCanvas正式发布YLearn因果学习开源项目](https://toutiao.io/k/a54bchd) ![](assets/new.png)  
+- [2022-07-19-可能改变前端工程化未来的特性：ESM-Loader-Hooks](https://toutiao.io/k/ospp49y) ![](assets/new.png)  
+- [2022-07-19-技术人员如何看待风口上的低代码](https://toutiao.io/k/u4f9mcb) ![](assets/new.png)  
+- [2022-07-19-【萌新解题】三数之和](https://toutiao.io/k/uni2o6r) ![](assets/new.png)  
+- [2022-07-19-渗透测试面试问题指南](https://toutiao.io/k/zcgnwpp) ![](assets/new.png)  
 - [2022-07-19-推荐-服务端监控架构设计与实践](https://toutiao.io/k/xhwa9mo) ![](assets/new.png)  
+- [2022-07-19-推荐-高并发，你真的理解透彻了吗？](https://toutiao.io/k/93k2zfb) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

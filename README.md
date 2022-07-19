@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-07-19 13:58:58，:rocket: 更新条数: +2024， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-07-19 14:15:11，:rocket: 更新条数: +2024， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,9 @@
 </summary>
 
 
+- [2022-07-19-iPhone-13-pro-的移动-5G-体验快不快](https://www.v2ex.com/t/867381) ![](assets/new.png)  
+- [2022-07-19-群晖-Synology-DSM7-系统软件使用问题讨论（集中贴，新问题也再次回帖便于大家汇总）](https://www.v2ex.com/t/867380) ![](assets/new.png)  
+- [2022-07-19-英语流利说这个课程的实际价格是多少？](https://www.v2ex.com/t/867379) ![](assets/new.png)  
 - [2022-07-19-哪位老哥办了广电手机号，求一枚验证码，帮忙下一单靓号。。](https://www.v2ex.com/t/867377) ![](assets/new.png)  
 - [2022-07-19-求支持-pfsense-的多口-pcie-有线网卡推荐](https://www.v2ex.com/t/867376) ![](assets/new.png)  
 - [2022-07-19-给各位开了一个自由服](https://www.v2ex.com/t/867375) ![](assets/new.png)  
@@ -508,9 +511,6 @@
 - [2022-07-19-关于专科专业以及学校选择的疑问](https://www.v2ex.com/t/867358) ![](assets/new.png)  
 - [2022-07-19-我也分享个微信集赞工具，部署在-serverless-上](https://www.v2ex.com/t/867357) ![](assets/new.png)  
 - [2022-07-19-请教各位大佬-liquidText-和-marginNote-的拖拽跳转功能是怎么实现的呀](https://www.v2ex.com/t/867356) ![](assets/new.png)  
-- [2022-07-19-请教各位，有没有能提醒非官方中文站的插件或扩展](https://www.v2ex.com/t/867355) ![](assets/new.png)  
-- [2022-07-19-bing-搜索的奇怪-bug：搜索-openvpn](https://www.v2ex.com/t/867354) ![](assets/new.png)  
-- [2022-07-19-小白装机，各位老哥点评一下](https://www.v2ex.com/t/867353) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

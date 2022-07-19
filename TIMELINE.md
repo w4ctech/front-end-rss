@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-19 13:58:58。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-07-19 14:15:11。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,9 @@
 </summary>
 
 
+- [【V2EX】2022-07-19-iPhone-13-pro-的移动-5G-体验快不快](https://www.v2ex.com/t/867381) 
+- [【V2EX】2022-07-19-群晖-Synology-DSM7-系统软件使用问题讨论（集中贴，新问题也再次回帖便于大家汇总）](https://www.v2ex.com/t/867380) 
+- [【V2EX】2022-07-19-英语流利说这个课程的实际价格是多少？](https://www.v2ex.com/t/867379) 
 - [【V2EX】2022-07-19-哪位老哥办了广电手机号，求一枚验证码，帮忙下一单靓号。。](https://www.v2ex.com/t/867377) 
 - [【V2EX】2022-07-19-求支持-pfsense-的多口-pcie-有线网卡推荐](https://www.v2ex.com/t/867376) 
 - [【V2EX】2022-07-19-给各位开了一个自由服](https://www.v2ex.com/t/867375) 
@@ -104,9 +107,6 @@
 - [【V2EX】2022-07-19-我做了一个关于设计周刊，欢迎收藏订阅。](https://www.v2ex.com/t/867334) 
 - [【V2EX】2022-07-19-深圳计划买新能源汽车，有必要参加摇号吗？](https://www.v2ex.com/t/867333) 
 - [【V2EX】2022-07-19-求推荐双盘位硬盘盒,-不需要阵列](https://www.v2ex.com/t/867332) 
-- [【V2EX】2022-07-19-请教一下-mac-的选择](https://www.v2ex.com/t/867331) 
-- [【V2EX】2022-07-19-公司准备在某些区域禁止互联网](https://www.v2ex.com/t/867330) 
-- [【V2EX】2022-07-19-一次性刨刀为什么这么贵](https://www.v2ex.com/t/867329) 
 - [【技术头条】2022-07-19-单体-or-微服务？你以为是架构权衡？其实是认知负载！-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15219&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fmonolith-microservice-architectural-tradeoff-cognitive-load%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-19-DDD-中的几个困难问题-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15218&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fdifficult-problems-in-domain-driven-design%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-19-CPU是如何进行分支预测的？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15217&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FZ9KWmfCBhCixdkZGEeLStQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-07-19 07:39:07。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-19 08:17:55。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -306,7 +306,6 @@
 
 
 - [【V2EX】Linux-系统-vim-自动退出，-Python-脚本也被自动杀死，这个什么原因造成的？](https://www.v2ex.com/t/867287)
-- [【V2EX】采购服务器，供应商报价-17.5-万，这配置是不是在坑爹？有没有合适的配置方案（预算-15-万以内带-GPU）？](https://www.v2ex.com/t/867249)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -339,6 +338,7 @@
 
 
 
+- [【V2EX】mac-自带超多软件,请问-apple-自带的-git-和官方-git-有什么不同，哪个好](https://www.v2ex.com/t/867302)
 - [......【查看更多】......](./details/tags/git-svn.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-19 07:39:07。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-07-19 08:17:55。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,22 @@
 </summary>
 
 
+- [【V2EX】2022-07-19-上海电信-fttb-的问题](https://www.v2ex.com/t/867303) 
+- [【V2EX】2022-07-19-mac-自带超多软件,请问-apple-自带的-git-和官方-git-有什么不同，哪个好](https://www.v2ex.com/t/867302) 
+- [【V2EX】2022-07-19-115-网盘最近是不是失常了](https://www.v2ex.com/t/867301) 
+- [【V2EX】2022-07-19-redmi-X75-和-oppo-k9-75选哪个](https://www.v2ex.com/t/867300) 
+- [【V2EX】2022-07-19-关于-Macbook-pro-风扇和-CPU-占用率的问题，请教一下大家](https://www.v2ex.com/t/867299) 
+- [【V2EX】2022-07-19-有没有可以做思维导图的笔记软件？](https://www.v2ex.com/t/867298) 
+- [【V2EX】2022-07-19-IP-和网关不是同一个网段，怎么实现通信？](https://www.v2ex.com/t/867297) 
+- [【V2EX】2022-07-19-求远程全职兼职设计](https://www.v2ex.com/t/867296) 
+- [【V2EX】2022-07-19-免费台式机组装清单加科普](https://www.v2ex.com/t/867295) 
+- [【V2EX】2022-07-19-冷备盘有什么推荐的吗?](https://www.v2ex.com/t/867294) 
+- [【V2EX】2022-07-19-用上这个-Mock-神器，让你的开发爽上天！](https://www.v2ex.com/t/867293) 
+- [【V2EX】2022-07-19-有什么办法可以测试跟别人公司的网站连接速度?](https://www.v2ex.com/t/867292) 
+- [【V2EX】2022-07-19-接口文档里面参数表格怎样更好的表示多级嵌套的结构？](https://www.v2ex.com/t/867291) 
+- [【V2EX】2022-07-19-机械键盘求推荐](https://www.v2ex.com/t/867290) 
+- [【V2EX】2022-07-19-8-月-1-日起，-LeanCloud-国际版共享域名不再向中国大陆提供服务](https://www.v2ex.com/t/867289) 
+- [【V2EX】2022-07-19-人的觉悟有高低，父母对孩子的爱也是有高低的。](https://www.v2ex.com/t/867288) 
 - [【V2EX】2022-07-19-Linux-系统-vim-自动退出，-Python-脚本也被自动杀死，这个什么原因造成的？](https://www.v2ex.com/t/867287) 
 - [【V2EX】2022-07-19-（已有答案）后台-app-刷新到底是做什么用的？](https://www.v2ex.com/t/867286) 
 - [【V2EX】2022-07-19-好兄弟的工地停工了；回老家农村待业了](https://www.v2ex.com/t/867285) 
@@ -94,15 +110,6 @@
 - [【V2EX】2022-07-19-混动补贴最后一年，有必要上车吗！-上车的话选择哪个？？](https://www.v2ex.com/t/867258) 
 - [【V2EX】2022-07-19-好尴尬，-mac-右上角放不下图标了，刘海又那么宽](https://www.v2ex.com/t/867257) 
 - [【V2EX】2022-07-19-调研贴：你用什么笔记软件？](https://www.v2ex.com/t/867254) 
-- [【V2EX】2022-07-19-pflag---更好的-PHP-命令行选项解析库](https://www.v2ex.com/t/867253) 
-- [【V2EX】2022-07-19-我们做了个能帮大家发现播客的小玩具：🎙中文播客榜](https://www.v2ex.com/t/867252) 
-- [【V2EX】2022-07-19-VS-Code-全套历史图标从哪里得？](https://www.v2ex.com/t/867250) 
-- [【V2EX】2022-07-19-采购服务器，供应商报价-17.5-万，这配置是不是在坑爹？有没有合适的配置方案（预算-15-万以内带-GPU）？](https://www.v2ex.com/t/867249) 
-- [【V2EX】2022-07-19-c++开源库求推荐](https://www.v2ex.com/t/867247) 
-- [【V2EX】2022-07-19-大家现在-k8s-都用的什么-distribution？](https://www.v2ex.com/t/867243) 
-- [【V2EX】2022-07-19-显示器自带的-typec-全功能线换成-100w-40GB-intel-认证芯片的-USB4-线会不会有改变。](https://www.v2ex.com/t/867242) 
-- [【V2EX】2022-07-19-请教下有没有英文语法分享的优秀开源库](https://www.v2ex.com/t/867241) 
-- [【V2EX】2022-07-19-有什么比较好的果粉论坛吗](https://www.v2ex.com/t/867238) 
 - [【技术头条】2022-07-19-单体-or-微服务？你以为是架构权衡？其实是认知负载！-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15219&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fmonolith-microservice-architectural-tradeoff-cognitive-load%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-19-DDD-中的几个困难问题-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15218&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fdifficult-problems-in-domain-driven-design%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-19-CPU是如何进行分支预测的？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15217&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FZ9KWmfCBhCixdkZGEeLStQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -131,17 +138,17 @@
 - [【开发者头条】2022-07-19-IntelliJ-IDEA-2022.2发布首个Beta版本](https://toutiao.io/k/jfldi2r) 
 - [【开发者头条】2022-07-19-Babylon.js-将成构建元宇宙重要工具？专访-Babylon.js-团队负责人-|-卓越技术团队访谈录](https://toutiao.io/k/baoeair) 
 - [【开发者头条】2022-07-19-Flink-Exactly-Once-投递实现浅析](https://toutiao.io/k/d9sm1pe) 
-- [【开发者头条】2022-07-19-因果学习将开启下一代AI浪潮？九章云极DataCanvas正式发布YLearn因果学习开源项目](https://toutiao.io/k/a54bchd) 
-- [【开发者头条】2022-07-19-可能改变前端工程化未来的特性：ESM-Loader-Hooks](https://toutiao.io/k/ospp49y) 
 - [【开发者头条】2022-07-19-渗透测试面试问题指南](https://toutiao.io/k/zcgnwpp) 
+- [【开发者头条】2022-07-19-可能改变前端工程化未来的特性：ESM-Loader-Hooks](https://toutiao.io/k/ospp49y) 
+- [【开发者头条】2022-07-19-因果学习将开启下一代AI浪潮？九章云极DataCanvas正式发布YLearn因果学习开源项目](https://toutiao.io/k/a54bchd) 
 - [【开发者头条】2022-07-19-【萌新解题】三数之和](https://toutiao.io/k/uni2o6r) 
-- [【开发者头条】2022-07-19-Hive开发小技巧二](https://toutiao.io/k/1ohm8xj) 
 - [【开发者头条】2022-07-19-推荐一款代码依赖包安全漏洞检查插件](https://toutiao.io/k/zde29x5) 
+- [【开发者头条】2022-07-19-Hive开发小技巧二](https://toutiao.io/k/1ohm8xj) 
 - [【开发者头条】2022-07-19-Go-每日一库之-bitset](https://toutiao.io/k/n6xwl27) 
 - [【开发者头条】2022-07-19-性能领域：你知道的越多，不知道的也就越多](https://toutiao.io/k/urchjsh) 
 - [【开发者头条】2022-07-19-Harbor-高可用集群设计及部署（离线安装方式、含视频）](https://toutiao.io/k/rl0lgef) 
-- [【开发者头条】2022-07-19-推荐-服务端监控架构设计与实践](https://toutiao.io/k/xhwa9mo) 
 - [【开发者头条】2022-07-19-推荐-高并发，你真的理解透彻了吗？](https://toutiao.io/k/93k2zfb) 
+- [【开发者头条】2022-07-19-推荐-服务端监控架构设计与实践](https://toutiao.io/k/xhwa9mo) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

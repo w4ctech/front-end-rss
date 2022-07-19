@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-07-19 22:14:44，:rocket: 更新条数: +2026， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-07-19 22:40:35，:rocket: 更新条数: +2027， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-07-19-密码管理软件-RememBear-将停止运营](https://www.v2ex.com/t/867417) ![](assets/new.png)  
 - [2022-07-19-Apple-花费-5000-万美元就蝶式键盘可靠性问题与美国多州消费者集体诉讼进行和解](https://www.v2ex.com/t/867416) ![](assets/new.png)  
 - [2022-07-19-C++14-中如何方便地将-tuple-展开成为另一个-class-的-variadic-template](https://www.v2ex.com/t/867415) ![](assets/new.png)  
 - [2022-07-19-老车库翻修，预留一个-220v-的插座，方便之后有电动汽车充电需求，需要怎么安排](https://www.v2ex.com/t/867414) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-07-19-请问下本地起个-node-服务如何能让远程通过-ip-访问?](https://www.v2ex.com/t/867400) ![](assets/new.png)  
 - [2022-07-19-连续看视频合集时，无限重复的片头文案有无办法跳过](https://www.v2ex.com/t/867399) ![](assets/new.png)  
 - [2022-07-19-领英对不同设备显示不同信息是为什么？](https://www.v2ex.com/t/867397) ![](assets/new.png)  
-- [2022-07-19-上海-不加班-外企-招-Java-、C++、安卓、中级测试、支持工程师、初级-devOps，-Java-和-测试有残疾人岗位](https://www.v2ex.com/t/867395) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -561,8 +561,8 @@
 - [2022-07-19-渗透测试面试问题指南](https://toutiao.io/k/zcgnwpp) ![](assets/new.png)  
 - [2022-07-19-Babylon.js-将成构建元宇宙重要工具？专访-Babylon.js-团队负责人-|-卓越技术团队访谈录](https://toutiao.io/k/baoeair) ![](assets/new.png)  
 - [2022-07-19-IntelliJ-IDEA-2022.2发布首个Beta版本](https://toutiao.io/k/jfldi2r) ![](assets/new.png)  
-- [2022-07-19-因果学习将开启下一代AI浪潮？九章云极DataCanvas正式发布YLearn因果学习开源项目](https://toutiao.io/k/a54bchd) ![](assets/new.png)  
 - [2022-07-19-可能改变前端工程化未来的特性：ESM-Loader-Hooks](https://toutiao.io/k/ospp49y) ![](assets/new.png)  
+- [2022-07-19-因果学习将开启下一代AI浪潮？九章云极DataCanvas正式发布YLearn因果学习开源项目](https://toutiao.io/k/a54bchd) ![](assets/new.png)  
 - [2022-07-19-Flink-Exactly-Once-投递实现浅析](https://toutiao.io/k/d9sm1pe) ![](assets/new.png)  
 - [2022-07-19-推荐一款代码依赖包安全漏洞检查插件](https://toutiao.io/k/zde29x5) ![](assets/new.png)  
 - [2022-07-19-【萌新解题】三数之和](https://toutiao.io/k/uni2o6r) ![](assets/new.png)  

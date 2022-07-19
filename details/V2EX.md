@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2022-07-19 22:14:44。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-19 22:40:35。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-07-19-密码管理软件-RememBear-将停止运营](https://www.v2ex.com/t/867417) 
 - [2022-07-19-Apple-花费-5000-万美元就蝶式键盘可靠性问题与美国多州消费者集体诉讼进行和解](https://www.v2ex.com/t/867416) 
 - [2022-07-19-C++14-中如何方便地将-tuple-展开成为另一个-class-的-variadic-template](https://www.v2ex.com/t/867415) 
 - [2022-07-19-老车库翻修，预留一个-220v-的插座，方便之后有电动汽车充电需求，需要怎么安排](https://www.v2ex.com/t/867414) 

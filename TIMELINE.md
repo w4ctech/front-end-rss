@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-19 08:17:55。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-07-19 08:46:31。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,13 @@
 </summary>
 
 
+- [【V2EX】2022-07-19-北京40K---80K-出海-web3-社交公司诚邀-前端/后端-加入](https://www.v2ex.com/t/867311) 
+- [【V2EX】2022-07-19-求助一个需要替换-XML-特定节点的问题，使用-Javascript](https://www.v2ex.com/t/867310) 
+- [【V2EX】2022-07-19-笔记软件调研帖：你记录了多少笔记，给你带来了哪些帮助，达成了哪些成果？](https://www.v2ex.com/t/867309) 
+- [【V2EX】2022-07-19-请问回复帖子怎么使用-markdown-格式?](https://www.v2ex.com/t/867307) 
+- [【V2EX】2022-07-19-还能这样？官方-A2119-扩展坞-USB-A-接口失效](https://www.v2ex.com/t/867306) 
+- [【V2EX】2022-07-19-杭州皮卡何时解禁？](https://www.v2ex.com/t/867305) 
+- [【V2EX】2022-07-19-请教一下北京联通突破千兆速度的经验](https://www.v2ex.com/t/867304) 
 - [【V2EX】2022-07-19-上海电信-fttb-的问题](https://www.v2ex.com/t/867303) 
 - [【V2EX】2022-07-19-mac-自带超多软件,请问-apple-自带的-git-和官方-git-有什么不同，哪个好](https://www.v2ex.com/t/867302) 
 - [【V2EX】2022-07-19-115-网盘最近是不是失常了](https://www.v2ex.com/t/867301) 
@@ -105,11 +112,6 @@
 - [【V2EX】2022-07-19-iOS-16-和-macOS-13-的-Safari-会翻译图片上的文字了，但效果有点适得其反……](https://www.v2ex.com/t/867267) 
 - [【V2EX】2022-07-19-u3d-开发工程师-休闲游戏-远程工作-15K~20k](https://www.v2ex.com/t/867266) 
 - [【V2EX】2022-07-19-准备入手-2023-款星瑞豪华版，需要注意什么](https://www.v2ex.com/t/867262) 
-- [【V2EX】2022-07-19-一台老的-iPad-air-一代，目前降级到-10.3.3，还是有点慢，有什么办法可以让它快一点吗？日常看看视频打打字的。越狱有用吗？](https://www.v2ex.com/t/867261) 
-- [【V2EX】2022-07-19-求-V-友哪里投诉微博管用？](https://www.v2ex.com/t/867260) 
-- [【V2EX】2022-07-19-混动补贴最后一年，有必要上车吗！-上车的话选择哪个？？](https://www.v2ex.com/t/867258) 
-- [【V2EX】2022-07-19-好尴尬，-mac-右上角放不下图标了，刘海又那么宽](https://www.v2ex.com/t/867257) 
-- [【V2EX】2022-07-19-调研贴：你用什么笔记软件？](https://www.v2ex.com/t/867254) 
 - [【技术头条】2022-07-19-单体-or-微服务？你以为是架构权衡？其实是认知负载！-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15219&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fmonolith-microservice-architectural-tradeoff-cognitive-load%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-19-DDD-中的几个困难问题-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15218&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fdifficult-problems-in-domain-driven-design%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-19-CPU是如何进行分支预测的？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15217&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FZ9KWmfCBhCixdkZGEeLStQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -137,8 +139,8 @@
 - [【开发者头条】2022-07-19-技术人员如何看待风口上的低代码](https://toutiao.io/k/u4f9mcb) 
 - [【开发者头条】2022-07-19-IntelliJ-IDEA-2022.2发布首个Beta版本](https://toutiao.io/k/jfldi2r) 
 - [【开发者头条】2022-07-19-Babylon.js-将成构建元宇宙重要工具？专访-Babylon.js-团队负责人-|-卓越技术团队访谈录](https://toutiao.io/k/baoeair) 
-- [【开发者头条】2022-07-19-Flink-Exactly-Once-投递实现浅析](https://toutiao.io/k/d9sm1pe) 
 - [【开发者头条】2022-07-19-渗透测试面试问题指南](https://toutiao.io/k/zcgnwpp) 
+- [【开发者头条】2022-07-19-Flink-Exactly-Once-投递实现浅析](https://toutiao.io/k/d9sm1pe) 
 - [【开发者头条】2022-07-19-可能改变前端工程化未来的特性：ESM-Loader-Hooks](https://toutiao.io/k/ospp49y) 
 - [【开发者头条】2022-07-19-因果学习将开启下一代AI浪潮？九章云极DataCanvas正式发布YLearn因果学习开源项目](https://toutiao.io/k/a54bchd) 
 - [【开发者头条】2022-07-19-【萌新解题】三数之和](https://toutiao.io/k/uni2o6r) 

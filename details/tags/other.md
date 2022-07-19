@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-19 13:14:16。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-19 13:58:58。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,10 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-07-19-哪位老哥办了广电手机号，求一枚验证码，帮忙下一单靓号。。](https://www.v2ex.com/t/867377) 
+- [2022-07-19-给各位开了一个自由服](https://www.v2ex.com/t/867375) 
+- [2022-07-19-27-寸-4K-144-显示器推荐](https://www.v2ex.com/t/867373) 
+- [2022-07-19-吐槽-我踏马好气啊，死活不能重命名，“操作无法完成，因为其中的文件夹或文件已在另一程序中打开”](https://www.v2ex.com/t/867372) 
 - [2022-07-19-请教大佬们一个-Java-轻量级锁的基础问题](https://www.v2ex.com/t/867371) 
 - [2022-07-19-小黄鱼真神奇，什么都有。。。](https://www.v2ex.com/t/867369) 
 - [2022-07-19-家里的宽带访问-b-站异常](https://www.v2ex.com/t/867368) 
@@ -1940,10 +1944,6 @@
 - [2022-07-19-请教一下-mac-的选择](https://www.v2ex.com/t/867331) 
 - [2022-07-19-公司准备在某些区域禁止互联网](https://www.v2ex.com/t/867330) 
 - [2022-07-19-一次性刨刀为什么这么贵](https://www.v2ex.com/t/867329) 
-- [2022-07-19-很抱歉，我感到有一些绝望。-（一个基础问题）](https://www.v2ex.com/t/867328) 
-- [2022-07-19-叮咚智能音箱有人还在用吗？？](https://www.v2ex.com/t/867326) 
-- [2022-07-19-电梯里听到一对母子的对话...](https://www.v2ex.com/t/867324) 
-- [2022-07-19-5G-移动和-4G-电信的差距就这么点？](https://www.v2ex.com/t/867322) 
 - [2022-07-19-单体-or-微服务？你以为是架构权衡？其实是认知负载！-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15219&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fmonolith-microservice-architectural-tradeoff-cognitive-load%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-19-DDD-中的几个困难问题-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15218&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fdifficult-problems-in-domain-driven-design%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-19-CPU是如何进行分支预测的？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15217&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FZ9KWmfCBhCixdkZGEeLStQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1967,7 +1967,7 @@
 - [2022-07-19-IntelliJ-IDEA-2022.2发布首个Beta版本](https://toutiao.io/k/jfldi2r) 
 - [2022-07-19-Flink-Exactly-Once-投递实现浅析](https://toutiao.io/k/d9sm1pe) 
 - [2022-07-19-【萌新解题】三数之和](https://toutiao.io/k/uni2o6r) 
-- [2022-07-19-Hive开发小技巧二](https://toutiao.io/k/1ohm8xj) 
 - [2022-07-19-Go-每日一库之-bitset](https://toutiao.io/k/n6xwl27) 
+- [2022-07-19-Hive开发小技巧二](https://toutiao.io/k/1ohm8xj) 
 - [2022-07-19-推荐-服务端监控架构设计与实践](https://toutiao.io/k/xhwa9mo) 
 - [2022-07-19-推荐-高并发，你真的理解透彻了吗？](https://toutiao.io/k/93k2zfb) 

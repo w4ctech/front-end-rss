@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-19 17:50:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-19 18:18:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,7 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-07-19-恭喜苹果率先成功制造出永动机](https://www.v2ex.com/t/867412) 
 - [2022-07-19-都有哪些无污染-DNS-方案去广告等？](https://www.v2ex.com/t/867409) 
 - [2022-07-19-一个疑惑问题:-尝试解决电脑插电会更烫的问题,-知道如何降温后,-更看不懂-Windows-10/11-的电源策略了](https://www.v2ex.com/t/867408) 
 - [2022-07-19-🪺-Hugo-主题-Paper-6.0-发布！](https://www.v2ex.com/t/867407) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-19 10:44:03。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-19 11:12:18。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,8 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-07-19-物联网卡环境下注册-app-是否容易触发风控](https://www.v2ex.com/t/867347) 
+- [2022-07-19-请教一下-macOS-中-newsboat-该怎么优雅地显示图片？](https://www.v2ex.com/t/867346) 
 - [2022-07-19-桌面主机电脑不占空间的蓝牙音响求推荐](https://www.v2ex.com/t/867343) 
 - [2022-07-19-Apple-music-使用问题，纠结很多年的一个问题](https://www.v2ex.com/t/867342) 
 - [2022-07-19-LeanCloud-国际版共享域名不再向中国大陆提供服务](https://www.v2ex.com/t/867341) 
@@ -1945,10 +1947,6 @@
 - [2022-07-19-redmi-X75-和-oppo-k9-75选哪个](https://www.v2ex.com/t/867300) 
 - [2022-07-19-关于-Macbook-pro-风扇和-CPU-占用率的问题，请教一下大家](https://www.v2ex.com/t/867299) 
 - [2022-07-19-有没有可以做思维导图的笔记软件？](https://www.v2ex.com/t/867298) 
-- [2022-07-19-IP-和网关不是同一个网段，怎么实现通信？](https://www.v2ex.com/t/867297) 
-- [2022-07-19-求远程全职兼职设计](https://www.v2ex.com/t/867296) 
-- [2022-07-19-免费台式机组装清单加科普](https://www.v2ex.com/t/867295) 
-- [2022-07-19-冷备盘有什么推荐的吗?](https://www.v2ex.com/t/867294) 
 - [2022-07-19-单体-or-微服务？你以为是架构权衡？其实是认知负载！-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15219&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fmonolith-microservice-architectural-tradeoff-cognitive-load%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-19-DDD-中的几个困难问题-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15218&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fdifficult-problems-in-domain-driven-design%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-19-CPU是如何进行分支预测的？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15217&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FZ9KWmfCBhCixdkZGEeLStQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1972,7 +1970,7 @@
 - [2022-07-19-IntelliJ-IDEA-2022.2发布首个Beta版本](https://toutiao.io/k/jfldi2r) 
 - [2022-07-19-Flink-Exactly-Once-投递实现浅析](https://toutiao.io/k/d9sm1pe) 
 - [2022-07-19-【萌新解题】三数之和](https://toutiao.io/k/uni2o6r) 
-- [2022-07-19-Hive开发小技巧二](https://toutiao.io/k/1ohm8xj) 
 - [2022-07-19-Go-每日一库之-bitset](https://toutiao.io/k/n6xwl27) 
+- [2022-07-19-Hive开发小技巧二](https://toutiao.io/k/1ohm8xj) 
 - [2022-07-19-推荐-服务端监控架构设计与实践](https://toutiao.io/k/xhwa9mo) 
 - [2022-07-19-推荐-高并发，你真的理解透彻了吗？](https://toutiao.io/k/93k2zfb) 

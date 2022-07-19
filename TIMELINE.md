@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-19 10:44:03。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-07-19 11:12:18。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,10 @@
 </summary>
 
 
+- [【V2EX】2022-07-19-物联网卡环境下注册-app-是否容易触发风控](https://www.v2ex.com/t/867347) 
+- [【V2EX】2022-07-19-请教一下-macOS-中-newsboat-该怎么优雅地显示图片？](https://www.v2ex.com/t/867346) 
+- [【V2EX】2022-07-19-Edge-浏览器顶部经常出现一大块空白](https://www.v2ex.com/t/867345) 
+- [【V2EX】2022-07-19-代码有性能问题，程序员说只管实现功能，你怎么看？](https://www.v2ex.com/t/867344) 
 - [【V2EX】2022-07-19-桌面主机电脑不占空间的蓝牙音响求推荐](https://www.v2ex.com/t/867343) 
 - [【V2EX】2022-07-19-Apple-music-使用问题，纠结很多年的一个问题](https://www.v2ex.com/t/867342) 
 - [【V2EX】2022-07-19-LeanCloud-国际版共享域名不再向中国大陆提供服务](https://www.v2ex.com/t/867341) 
@@ -106,10 +110,6 @@
 - [【V2EX】2022-07-19-redmi-X75-和-oppo-k9-75选哪个](https://www.v2ex.com/t/867300) 
 - [【V2EX】2022-07-19-关于-Macbook-pro-风扇和-CPU-占用率的问题，请教一下大家](https://www.v2ex.com/t/867299) 
 - [【V2EX】2022-07-19-有没有可以做思维导图的笔记软件？](https://www.v2ex.com/t/867298) 
-- [【V2EX】2022-07-19-IP-和网关不是同一个网段，怎么实现通信？](https://www.v2ex.com/t/867297) 
-- [【V2EX】2022-07-19-求远程全职兼职设计](https://www.v2ex.com/t/867296) 
-- [【V2EX】2022-07-19-免费台式机组装清单加科普](https://www.v2ex.com/t/867295) 
-- [【V2EX】2022-07-19-冷备盘有什么推荐的吗?](https://www.v2ex.com/t/867294) 
 - [【技术头条】2022-07-19-单体-or-微服务？你以为是架构权衡？其实是认知负载！-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15219&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fmonolith-microservice-architectural-tradeoff-cognitive-load%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-19-DDD-中的几个困难问题-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15218&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fdifficult-problems-in-domain-driven-design%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-19-CPU是如何进行分支预测的？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15217&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FZ9KWmfCBhCixdkZGEeLStQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -144,8 +144,8 @@
 - [【开发者头条】2022-07-19-【萌新解题】三数之和](https://toutiao.io/k/uni2o6r) 
 - [【开发者头条】2022-07-19-推荐一款代码依赖包安全漏洞检查插件](https://toutiao.io/k/zde29x5) 
 - [【开发者头条】2022-07-19-性能领域：你知道的越多，不知道的也就越多](https://toutiao.io/k/urchjsh) 
-- [【开发者头条】2022-07-19-Hive开发小技巧二](https://toutiao.io/k/1ohm8xj) 
 - [【开发者头条】2022-07-19-Go-每日一库之-bitset](https://toutiao.io/k/n6xwl27) 
+- [【开发者头条】2022-07-19-Hive开发小技巧二](https://toutiao.io/k/1ohm8xj) 
 - [【开发者头条】2022-07-19-Harbor-高可用集群设计及部署（离线安装方式、含视频）](https://toutiao.io/k/rl0lgef) 
 - [【开发者头条】2022-07-19-推荐-服务端监控架构设计与实践](https://toutiao.io/k/xhwa9mo) 
 - [【开发者头条】2022-07-19-推荐-高并发，你真的理解透彻了吗？](https://toutiao.io/k/93k2zfb) 

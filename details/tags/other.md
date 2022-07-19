@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-19 06:18:49。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-19 06:48:37。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,10 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-07-19-iPhone-看微博竟然能同步到-mac?](https://www.v2ex.com/t/867275) 
+- [2022-07-19-坐标-Shopee-SZ,请问公司裁的话会赔偿多少](https://www.v2ex.com/t/867273) 
+- [2022-07-19-有点..怪的问题，-Win+R-打开的运行窗口，默认成大写的-CMD-了](https://www.v2ex.com/t/867270) 
+- [2022-07-19-轨迹跑路线规划](https://www.v2ex.com/t/867269) 
 - [2022-07-19-PC-端.exe-程序如何看到它实时调用的接口](https://www.v2ex.com/t/867268) 
 - [2022-07-19-准备入手-2023-款星瑞豪华版，需要注意什么](https://www.v2ex.com/t/867262) 
 - [2022-07-19-求-V-友哪里投诉微博管用？](https://www.v2ex.com/t/867260) 
@@ -1934,9 +1938,6 @@
 - [2022-07-19-一个宠物社区服务平台](https://www.v2ex.com/t/867229) 
 - [2022-07-19-最近有啥上云优惠？](https://www.v2ex.com/t/867228) 
 - [2022-07-19-好吃的大米能有多好吃？](https://www.v2ex.com/t/867227) 
-- [2022-07-19-感冒发烧到底能不能喝牛奶？](https://www.v2ex.com/t/867226) 
-- [2022-07-19-如何让两台设备在不同的局域网内互相寻找到对方](https://www.v2ex.com/t/867224) 
-- [2022-07-19-学习网站-B-站大会员免费送](https://www.v2ex.com/t/867219) 
 - [2022-07-19-单体-or-微服务？你以为是架构权衡？其实是认知负载！-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15219&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fmonolith-microservice-architectural-tradeoff-cognitive-load%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-19-DDD-中的几个困难问题-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15218&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fdifficult-problems-in-domain-driven-design%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-19-CPU是如何进行分支预测的？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15217&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FZ9KWmfCBhCixdkZGEeLStQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1956,8 +1957,8 @@
 - [2022-07-19-敏捷教练技术的融合方法-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15200&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fagile-coach-techniques%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-19-团队一盘散沙，怎么破？](https://toutiao.io/k/kdzpdh5) 
 - [2022-07-19-Go-垃圾回收器指南](https://toutiao.io/k/kce21o1) 
-- [2022-07-19-IntelliJ-IDEA-2022.2发布首个Beta版本](https://toutiao.io/k/jfldi2r) 
 - [2022-07-19-技术人员如何看待风口上的低代码](https://toutiao.io/k/u4f9mcb) 
+- [2022-07-19-IntelliJ-IDEA-2022.2发布首个Beta版本](https://toutiao.io/k/jfldi2r) 
 - [2022-07-19-Flink-Exactly-Once-投递实现浅析](https://toutiao.io/k/d9sm1pe) 
 - [2022-07-19-【萌新解题】三数之和](https://toutiao.io/k/uni2o6r) 
 - [2022-07-19-Hive开发小技巧二](https://toutiao.io/k/1ohm8xj) 

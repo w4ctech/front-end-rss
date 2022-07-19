@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-19 06:48:37。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-07-19 07:13:24。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,13 @@
 </summary>
 
 
+- [【V2EX】2022-07-19-想搞个机器来开热点？可有推荐？或者现在带卡的随身-Wi-Fi-也行？](https://www.v2ex.com/t/867284) 
+- [【V2EX】2022-07-19-一个类型体操的问题，我能不能既要又要？](https://www.v2ex.com/t/867283) 
+- [【V2EX】2022-07-19-如何在-spring-boot-中实现对一个数据对象的流式处理？](https://www.v2ex.com/t/867282) 
+- [【V2EX】2022-07-19-48G-内存照样有-swap](https://www.v2ex.com/t/867280) 
+- [【V2EX】2022-07-19-出一把京东京造-Q2-铝坨坨机械键盘-aka-Keycron](https://www.v2ex.com/t/867279) 
+- [【V2EX】2022-07-19-m1-芯片-macbook-pro，用一段时间后-intellij-idea-巨卡，重启电脑后又恢复了，大家知道怎么解决吗？](https://www.v2ex.com/t/867278) 
+- [【V2EX】2022-07-19-在北京周边，是不是天津最适合定居？](https://www.v2ex.com/t/867277) 
 - [【V2EX】2022-07-19-新买的-apple-watch-series7-刚开始几天耗电快正常吗](https://www.v2ex.com/t/867276) 
 - [【V2EX】2022-07-19-iPhone-看微博竟然能同步到-mac?](https://www.v2ex.com/t/867275) 
 - [【V2EX】2022-07-19-想买个-xbox-series-x-怎么这么难？](https://www.v2ex.com/t/867274) 
@@ -96,12 +103,6 @@
 - [【V2EX】2022-07-19-小米水印生成器](https://www.v2ex.com/t/867237) 
 - [【V2EX】2022-07-19-公司的出口-IP-被-v2-封了，求解封](https://www.v2ex.com/t/867236) 
 - [【V2EX】2022-07-19-妈妈最近身体不好，天天在家里带着，怎么让老人家有事情做？](https://www.v2ex.com/t/867235) 
-- [【V2EX】2022-07-19-如何从一份工作过渡到另一份方向不一样的工作](https://www.v2ex.com/t/867233) 
-- [【V2EX】2022-07-19-比特币近一个月内小幅回升-有解套的吗](https://www.v2ex.com/t/867232) 
-- [【V2EX】2022-07-19-求推荐个国外的云服务平台](https://www.v2ex.com/t/867230) 
-- [【V2EX】2022-07-19-一个宠物社区服务平台](https://www.v2ex.com/t/867229) 
-- [【V2EX】2022-07-19-最近有啥上云优惠？](https://www.v2ex.com/t/867228) 
-- [【V2EX】2022-07-19-好吃的大米能有多好吃？](https://www.v2ex.com/t/867227) 
 - [【技术头条】2022-07-19-单体-or-微服务？你以为是架构权衡？其实是认知负载！-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15219&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fmonolith-microservice-architectural-tradeoff-cognitive-load%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-19-DDD-中的几个困难问题-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15218&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fdifficult-problems-in-domain-driven-design%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-19-CPU是如何进行分支预测的？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15217&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FZ9KWmfCBhCixdkZGEeLStQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -135,8 +136,8 @@
 - [【开发者头条】2022-07-19-渗透测试面试问题指南](https://toutiao.io/k/zcgnwpp) 
 - [【开发者头条】2022-07-19-【萌新解题】三数之和](https://toutiao.io/k/uni2o6r) 
 - [【开发者头条】2022-07-19-Hive开发小技巧二](https://toutiao.io/k/1ohm8xj) 
-- [【开发者头条】2022-07-19-性能领域：你知道的越多，不知道的也就越多](https://toutiao.io/k/urchjsh) 
 - [【开发者头条】2022-07-19-推荐一款代码依赖包安全漏洞检查插件](https://toutiao.io/k/zde29x5) 
+- [【开发者头条】2022-07-19-性能领域：你知道的越多，不知道的也就越多](https://toutiao.io/k/urchjsh) 
 - [【开发者头条】2022-07-19-Go-每日一库之-bitset](https://toutiao.io/k/n6xwl27) 
 - [【开发者头条】2022-07-19-Harbor-高可用集群设计及部署（离线安装方式、含视频）](https://toutiao.io/k/rl0lgef) 
 - [【开发者头条】2022-07-19-推荐-服务端监控架构设计与实践](https://toutiao.io/k/xhwa9mo) 

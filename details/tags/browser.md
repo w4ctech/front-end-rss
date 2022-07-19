@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-19 08:46:31。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-19 09:26:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -16,5 +16,4 @@
 - [2022-06-12-基于文字的URL锚点定位与::target-text样式设置](https://www.zhangxinxu.com/wordpress/2022/06/url-anchor-target-text/) 
 - [2022-07-19-新买的-apple-watch-series7-刚开始几天耗电快正常吗](https://www.v2ex.com/t/867276) 
 - [2022-07-19-想买个-xbox-series-x-怎么这么难？](https://www.v2ex.com/t/867274) 
-- [2022-07-19-iOS-16-和-macOS-13-的-Safari-会翻译图片上的文字了，但效果有点适得其反……](https://www.v2ex.com/t/867267) 
 - [2022-07-19-推荐一款代码依赖包安全漏洞检查插件](https://toutiao.io/k/zde29x5) 

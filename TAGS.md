@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-07-19 08:46:31。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-19 09:26:10。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -155,7 +155,6 @@
 
 
 
-- [【V2EX】u3d-开发工程师-休闲游戏-远程工作-15K~20k](https://www.v2ex.com/t/867266)
 - [【开发者头条】网易游戏-Flink-SQL-平台化实践](https://toutiao.io/k/h0wwrv1)
 - [......【查看更多】......](./details/tags/dev-game.md)
 
@@ -287,7 +286,6 @@
 - [【张鑫旭-鑫空间-鑫生活】基于文字的URL锚点定位与::target-text样式设置](https://www.zhangxinxu.com/wordpress/2022/06/url-anchor-target-text/)
 - [【V2EX】新买的-apple-watch-series7-刚开始几天耗电快正常吗](https://www.v2ex.com/t/867276)
 - [【V2EX】想买个-xbox-series-x-怎么这么难？](https://www.v2ex.com/t/867274)
-- [【V2EX】iOS-16-和-macOS-13-的-Safari-会翻译图片上的文字了，但效果有点适得其反……](https://www.v2ex.com/t/867267)
 - [【开发者头条】推荐一款代码依赖包安全漏洞检查插件](https://toutiao.io/k/zde29x5)
 - [......【查看更多】......](./details/tags/browser.md)
 

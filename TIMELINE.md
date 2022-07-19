@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-19 11:38:36。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-07-19 12:27:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,14 @@
 </summary>
 
 
+- [【V2EX】2022-07-19-关于专科专业以及学校选择的疑问](https://www.v2ex.com/t/867358) 
+- [【V2EX】2022-07-19-我也分享个微信集赞工具，部署在-serverless-上](https://www.v2ex.com/t/867357) 
+- [【V2EX】2022-07-19-请教各位大佬-liquidText-和-marginNote-的拖拽跳转功能是怎么实现的呀](https://www.v2ex.com/t/867356) 
+- [【V2EX】2022-07-19-请教各位，有没有能提醒非官方中文站的插件或扩展](https://www.v2ex.com/t/867355) 
+- [【V2EX】2022-07-19-bing-搜索的奇怪-bug：搜索-openvpn](https://www.v2ex.com/t/867354) 
+- [【V2EX】2022-07-19-小白装机，各位老哥点评一下](https://www.v2ex.com/t/867353) 
+- [【V2EX】2022-07-19-鉴于有很多人不知道-特地开贴统一说一下-关于敏感词的问题](https://www.v2ex.com/t/867352) 
+- [【V2EX】2022-07-19-有没有自动生成-pdf-书签（目录）的软件？](https://www.v2ex.com/t/867349) 
 - [【V2EX】2022-07-19-物联网卡环境下注册-app-是否容易触发风控](https://www.v2ex.com/t/867347) 
 - [【V2EX】2022-07-19-请教一下-macOS-中-newsboat-该怎么优雅地显示图片？](https://www.v2ex.com/t/867346) 
 - [【V2EX】2022-07-19-Edge-浏览器顶部经常出现一大块空白](https://www.v2ex.com/t/867345) 
@@ -99,16 +107,6 @@
 - [【V2EX】2022-07-19-youtube-music-播放-2-秒后提示网络错误，实际网络正常，是什么原因？](https://www.v2ex.com/t/867312) 
 - [【V2EX】2022-07-19-北京40K---80K-出海-web3-社交公司诚邀-前端/后端-加入](https://www.v2ex.com/t/867311) 
 - [【V2EX】2022-07-19-求助一个需要替换-XML-特定节点的问题，使用-Javascript](https://www.v2ex.com/t/867310) 
-- [【V2EX】2022-07-19-笔记软件调研帖：你记录了多少笔记，给你带来了哪些帮助，达成了哪些成果？](https://www.v2ex.com/t/867309) 
-- [【V2EX】2022-07-19-请问回复帖子怎么使用-markdown-格式?](https://www.v2ex.com/t/867307) 
-- [【V2EX】2022-07-19-还能这样？官方-A2119-扩展坞-USB-A-接口失效](https://www.v2ex.com/t/867306) 
-- [【V2EX】2022-07-19-杭州皮卡何时解禁？](https://www.v2ex.com/t/867305) 
-- [【V2EX】2022-07-19-请教一下北京联通突破千兆速度的经验](https://www.v2ex.com/t/867304) 
-- [【V2EX】2022-07-19-上海电信-fttb-的问题](https://www.v2ex.com/t/867303) 
-- [【V2EX】2022-07-19-mac-自带超多软件,请问-apple-自带的-git-和官方-git-有什么不同，哪个好](https://www.v2ex.com/t/867302) 
-- [【V2EX】2022-07-19-115-网盘最近是不是失常了](https://www.v2ex.com/t/867301) 
-- [【V2EX】2022-07-19-redmi-X75-和-oppo-k9-75选哪个](https://www.v2ex.com/t/867300) 
-- [【V2EX】2022-07-19-关于-Macbook-pro-风扇和-CPU-占用率的问题，请教一下大家](https://www.v2ex.com/t/867299) 
 - [【技术头条】2022-07-19-单体-or-微服务？你以为是架构权衡？其实是认知负载！-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15219&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fmonolith-microservice-architectural-tradeoff-cognitive-load%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-19-DDD-中的几个困难问题-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15218&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fdifficult-problems-in-domain-driven-design%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-19-CPU是如何进行分支预测的？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15217&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FZ9KWmfCBhCixdkZGEeLStQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

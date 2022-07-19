@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-07-19 11:38:36，:rocket: 更新条数: +2026， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-07-19 12:27:20，:rocket: 更新条数: +2024， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,14 @@
 </summary>
 
 
+- [2022-07-19-关于专科专业以及学校选择的疑问](https://www.v2ex.com/t/867358) ![](assets/new.png)  
+- [2022-07-19-我也分享个微信集赞工具，部署在-serverless-上](https://www.v2ex.com/t/867357) ![](assets/new.png)  
+- [2022-07-19-请教各位大佬-liquidText-和-marginNote-的拖拽跳转功能是怎么实现的呀](https://www.v2ex.com/t/867356) ![](assets/new.png)  
+- [2022-07-19-请教各位，有没有能提醒非官方中文站的插件或扩展](https://www.v2ex.com/t/867355) ![](assets/new.png)  
+- [2022-07-19-bing-搜索的奇怪-bug：搜索-openvpn](https://www.v2ex.com/t/867354) ![](assets/new.png)  
+- [2022-07-19-小白装机，各位老哥点评一下](https://www.v2ex.com/t/867353) ![](assets/new.png)  
+- [2022-07-19-鉴于有很多人不知道-特地开贴统一说一下-关于敏感词的问题](https://www.v2ex.com/t/867352) ![](assets/new.png)  
+- [2022-07-19-有没有自动生成-pdf-书签（目录）的软件？](https://www.v2ex.com/t/867349) ![](assets/new.png)  
 - [2022-07-19-物联网卡环境下注册-app-是否容易触发风控](https://www.v2ex.com/t/867347) ![](assets/new.png)  
 - [2022-07-19-请教一下-macOS-中-newsboat-该怎么优雅地显示图片？](https://www.v2ex.com/t/867346) ![](assets/new.png)  
 - [2022-07-19-Edge-浏览器顶部经常出现一大块空白](https://www.v2ex.com/t/867345) ![](assets/new.png)  
@@ -503,14 +511,6 @@
 - [2022-07-19-mac-突然无法识别外接硬盘](https://www.v2ex.com/t/867336) ![](assets/new.png)  
 - [2022-07-19-几天前-Mac-QQ-音乐更新-8.3.10-后，最近播放列表的同步出现异常，有相同情况的吗？](https://www.v2ex.com/t/867335) ![](assets/new.png)  
 - [2022-07-19-我做了一个关于设计周刊，欢迎收藏订阅。](https://www.v2ex.com/t/867334) ![](assets/new.png)  
-- [2022-07-19-深圳计划买新能源汽车，有必要参加摇号吗？](https://www.v2ex.com/t/867333) ![](assets/new.png)  
-- [2022-07-19-求推荐双盘位硬盘盒,-不需要阵列](https://www.v2ex.com/t/867332) ![](assets/new.png)  
-- [2022-07-19-请教一下-mac-的选择](https://www.v2ex.com/t/867331) ![](assets/new.png)  
-- [2022-07-19-公司准备在某些区域禁止互联网](https://www.v2ex.com/t/867330) ![](assets/new.png)  
-- [2022-07-19-一次性刨刀为什么这么贵](https://www.v2ex.com/t/867329) ![](assets/new.png)  
-- [2022-07-19-很抱歉，我感到有一些绝望。-（一个基础问题）](https://www.v2ex.com/t/867328) ![](assets/new.png)  
-- [2022-07-19-叮咚智能音箱有人还在用吗？？](https://www.v2ex.com/t/867326) ![](assets/new.png)  
-- [2022-07-19-大家觉得，目前-macos-下，哪家浏览器最省电](https://www.v2ex.com/t/867325) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

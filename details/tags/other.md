@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-19 05:58:33。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-19 06:18:49。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,7 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-07-19-PC-端.exe-程序如何看到它实时调用的接口](https://www.v2ex.com/t/867268) 
 - [2022-07-19-准备入手-2023-款星瑞豪华版，需要注意什么](https://www.v2ex.com/t/867262) 
 - [2022-07-19-求-V-友哪里投诉微博管用？](https://www.v2ex.com/t/867260) 
 - [2022-07-19-混动补贴最后一年，有必要上车吗！-上车的话选择哪个？？](https://www.v2ex.com/t/867258) 
@@ -1936,10 +1937,6 @@
 - [2022-07-19-感冒发烧到底能不能喝牛奶？](https://www.v2ex.com/t/867226) 
 - [2022-07-19-如何让两台设备在不同的局域网内互相寻找到对方](https://www.v2ex.com/t/867224) 
 - [2022-07-19-学习网站-B-站大会员免费送](https://www.v2ex.com/t/867219) 
-- [2022-07-19-写了一份-vnc-协议解析文档，希望能帮助大家理解-vnc-远程桌面的原理！](https://www.v2ex.com/t/867218) 
-- [2022-07-19-求教有使用-wechaty-的朋友吗，关于通过好友的一个问题](https://www.v2ex.com/t/867217) 
-- [2022-07-19-想用个小屏的-mini-手机，又想用双-sim-卡，真烦](https://www.v2ex.com/t/867216) 
-- [2022-07-19-职业生涯规划迷茫、请教大佬们。](https://www.v2ex.com/t/867215) 
 - [2022-07-19-单体-or-微服务？你以为是架构权衡？其实是认知负载！-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15219&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fmonolith-microservice-architectural-tradeoff-cognitive-load%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-19-DDD-中的几个困难问题-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15218&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fdifficult-problems-in-domain-driven-design%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-19-CPU是如何进行分支预测的？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15217&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FZ9KWmfCBhCixdkZGEeLStQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1963,5 +1960,7 @@
 - [2022-07-19-技术人员如何看待风口上的低代码](https://toutiao.io/k/u4f9mcb) 
 - [2022-07-19-Flink-Exactly-Once-投递实现浅析](https://toutiao.io/k/d9sm1pe) 
 - [2022-07-19-【萌新解题】三数之和](https://toutiao.io/k/uni2o6r) 
-- [2022-07-19-推荐-高并发，你真的理解透彻了吗？](https://toutiao.io/k/93k2zfb) 
+- [2022-07-19-Hive开发小技巧二](https://toutiao.io/k/1ohm8xj) 
+- [2022-07-19-Go-每日一库之-bitset](https://toutiao.io/k/n6xwl27) 
 - [2022-07-19-推荐-服务端监控架构设计与实践](https://toutiao.io/k/xhwa9mo) 
+- [2022-07-19-推荐-高并发，你真的理解透彻了吗？](https://toutiao.io/k/93k2zfb) 

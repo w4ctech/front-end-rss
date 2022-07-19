@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-07-19 05:58:33，:rocket: 更新条数: +2013， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-07-19 06:18:49，:rocket: 更新条数: +2017， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,9 @@
 </summary>
 
 
+- [2022-07-19-PC-端.exe-程序如何看到它实时调用的接口](https://www.v2ex.com/t/867268) ![](assets/new.png)  
+- [2022-07-19-iOS-16-和-macOS-13-的-Safari-会翻译图片上的文字了，但效果有点适得其反……](https://www.v2ex.com/t/867267) ![](assets/new.png)  
+- [2022-07-19-u3d-开发工程师-休闲游戏-远程工作-15K~20k](https://www.v2ex.com/t/867266) ![](assets/new.png)  
 - [2022-07-19-准备入手-2023-款星瑞豪华版，需要注意什么](https://www.v2ex.com/t/867262) ![](assets/new.png)  
 - [2022-07-19-一台老的-iPad-air-一代，目前降级到-10.3.3，还是有点慢，有什么办法可以让它快一点吗？日常看看视频打打字的。越狱有用吗？](https://www.v2ex.com/t/867261) ![](assets/new.png)  
 - [2022-07-19-求-V-友哪里投诉微博管用？](https://www.v2ex.com/t/867260) ![](assets/new.png)  
@@ -508,9 +511,6 @@
 - [2022-07-19-有什么比较好的果粉论坛吗](https://www.v2ex.com/t/867238) ![](assets/new.png)  
 - [2022-07-19-小米水印生成器](https://www.v2ex.com/t/867237) ![](assets/new.png)  
 - [2022-07-19-公司的出口-IP-被-v2-封了，求解封](https://www.v2ex.com/t/867236) ![](assets/new.png)  
-- [2022-07-19-妈妈最近身体不好，天天在家里带着，怎么让老人家有事情做？](https://www.v2ex.com/t/867235) ![](assets/new.png)  
-- [2022-07-19-如何从一份工作过渡到另一份方向不一样的工作](https://www.v2ex.com/t/867233) ![](assets/new.png)  
-- [2022-07-19-比特币近一个月内小幅回升-有解套的吗](https://www.v2ex.com/t/867232) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -558,15 +558,20 @@
 - [2022-07-19-Go-垃圾回收器指南](https://toutiao.io/k/kce21o1) ![](assets/new.png)  
 - [2022-07-19-网易游戏-Flink-SQL-平台化实践](https://toutiao.io/k/h0wwrv1) ![](assets/new.png)  
 - [2022-07-19-IntelliJ-IDEA-2022.2发布首个Beta版本](https://toutiao.io/k/jfldi2r) ![](assets/new.png)  
-- [2022-07-19-Babylon.js-将成构建元宇宙重要工具？专访-Babylon.js-团队负责人-|-卓越技术团队访谈录](https://toutiao.io/k/baoeair) ![](assets/new.png)  
 - [2022-07-19-技术人员如何看待风口上的低代码](https://toutiao.io/k/u4f9mcb) ![](assets/new.png)  
+- [2022-07-19-Babylon.js-将成构建元宇宙重要工具？专访-Babylon.js-团队负责人-|-卓越技术团队访谈录](https://toutiao.io/k/baoeair) ![](assets/new.png)  
 - [2022-07-19-Flink-Exactly-Once-投递实现浅析](https://toutiao.io/k/d9sm1pe) ![](assets/new.png)  
 - [2022-07-19-因果学习将开启下一代AI浪潮？九章云极DataCanvas正式发布YLearn因果学习开源项目](https://toutiao.io/k/a54bchd) ![](assets/new.png)  
 - [2022-07-19-可能改变前端工程化未来的特性：ESM-Loader-Hooks](https://toutiao.io/k/ospp49y) ![](assets/new.png)  
-- [2022-07-19-【萌新解题】三数之和](https://toutiao.io/k/uni2o6r) ![](assets/new.png)  
 - [2022-07-19-渗透测试面试问题指南](https://toutiao.io/k/zcgnwpp) ![](assets/new.png)  
-- [2022-07-19-推荐-高并发，你真的理解透彻了吗？](https://toutiao.io/k/93k2zfb) ![](assets/new.png)  
+- [2022-07-19-【萌新解题】三数之和](https://toutiao.io/k/uni2o6r) ![](assets/new.png)  
+- [2022-07-19-Hive开发小技巧二](https://toutiao.io/k/1ohm8xj) ![](assets/new.png)  
+- [2022-07-19-Go-每日一库之-bitset](https://toutiao.io/k/n6xwl27) ![](assets/new.png)  
+- [2022-07-19-推荐一款代码依赖包安全漏洞检查插件](https://toutiao.io/k/zde29x5) ![](assets/new.png)  
+- [2022-07-19-性能领域：你知道的越多，不知道的也就越多](https://toutiao.io/k/urchjsh) ![](assets/new.png)  
+- [2022-07-19-Harbor-高可用集群设计及部署（离线安装方式、含视频）](https://toutiao.io/k/rl0lgef) ![](assets/new.png)  
 - [2022-07-19-推荐-服务端监控架构设计与实践](https://toutiao.io/k/xhwa9mo) ![](assets/new.png)  
+- [2022-07-19-推荐-高并发，你真的理解透彻了吗？](https://toutiao.io/k/93k2zfb) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

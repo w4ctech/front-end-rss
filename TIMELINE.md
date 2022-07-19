@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-19 05:58:33。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-07-19 06:18:49。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,9 @@
 </summary>
 
 
+- [【V2EX】2022-07-19-PC-端.exe-程序如何看到它实时调用的接口](https://www.v2ex.com/t/867268) 
+- [【V2EX】2022-07-19-iOS-16-和-macOS-13-的-Safari-会翻译图片上的文字了，但效果有点适得其反……](https://www.v2ex.com/t/867267) 
+- [【V2EX】2022-07-19-u3d-开发工程师-休闲游戏-远程工作-15K~20k](https://www.v2ex.com/t/867266) 
 - [【V2EX】2022-07-19-准备入手-2023-款星瑞豪华版，需要注意什么](https://www.v2ex.com/t/867262) 
 - [【V2EX】2022-07-19-一台老的-iPad-air-一代，目前降级到-10.3.3，还是有点慢，有什么办法可以让它快一点吗？日常看看视频打打字的。越狱有用吗？](https://www.v2ex.com/t/867261) 
 - [【V2EX】2022-07-19-求-V-友哪里投诉微博管用？](https://www.v2ex.com/t/867260) 
@@ -97,10 +100,6 @@
 - [【V2EX】2022-07-19-Flutter-版本的-HandShaker，全平台支持（-Linux-、macOS、Windows），值得一试](https://www.v2ex.com/t/867222) 
 - [【V2EX】2022-07-19-Ant-Design-Protable-排序问题，这是我的错误吗-还是-ant-design-官方组件本身问题，来个前端大佬帮忙看看](https://www.v2ex.com/t/867221) 
 - [【V2EX】2022-07-19-学习网站-B-站大会员免费送](https://www.v2ex.com/t/867219) 
-- [【V2EX】2022-07-19-写了一份-vnc-协议解析文档，希望能帮助大家理解-vnc-远程桌面的原理！](https://www.v2ex.com/t/867218) 
-- [【V2EX】2022-07-19-求教有使用-wechaty-的朋友吗，关于通过好友的一个问题](https://www.v2ex.com/t/867217) 
-- [【V2EX】2022-07-19-想用个小屏的-mini-手机，又想用双-sim-卡，真烦](https://www.v2ex.com/t/867216) 
-- [【V2EX】2022-07-19-职业生涯规划迷茫、请教大佬们。](https://www.v2ex.com/t/867215) 
 - [【技术头条】2022-07-19-单体-or-微服务？你以为是架构权衡？其实是认知负载！-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15219&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fmonolith-microservice-architectural-tradeoff-cognitive-load%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-19-DDD-中的几个困难问题-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15218&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fdifficult-problems-in-domain-driven-design%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-19-CPU是如何进行分支预测的？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15217&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FZ9KWmfCBhCixdkZGEeLStQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -126,15 +125,20 @@
 - [【开发者头条】2022-07-19-Go-垃圾回收器指南](https://toutiao.io/k/kce21o1) 
 - [【开发者头条】2022-07-19-网易游戏-Flink-SQL-平台化实践](https://toutiao.io/k/h0wwrv1) 
 - [【开发者头条】2022-07-19-IntelliJ-IDEA-2022.2发布首个Beta版本](https://toutiao.io/k/jfldi2r) 
-- [【开发者头条】2022-07-19-Babylon.js-将成构建元宇宙重要工具？专访-Babylon.js-团队负责人-|-卓越技术团队访谈录](https://toutiao.io/k/baoeair) 
 - [【开发者头条】2022-07-19-技术人员如何看待风口上的低代码](https://toutiao.io/k/u4f9mcb) 
+- [【开发者头条】2022-07-19-Babylon.js-将成构建元宇宙重要工具？专访-Babylon.js-团队负责人-|-卓越技术团队访谈录](https://toutiao.io/k/baoeair) 
 - [【开发者头条】2022-07-19-Flink-Exactly-Once-投递实现浅析](https://toutiao.io/k/d9sm1pe) 
 - [【开发者头条】2022-07-19-因果学习将开启下一代AI浪潮？九章云极DataCanvas正式发布YLearn因果学习开源项目](https://toutiao.io/k/a54bchd) 
 - [【开发者头条】2022-07-19-可能改变前端工程化未来的特性：ESM-Loader-Hooks](https://toutiao.io/k/ospp49y) 
-- [【开发者头条】2022-07-19-【萌新解题】三数之和](https://toutiao.io/k/uni2o6r) 
 - [【开发者头条】2022-07-19-渗透测试面试问题指南](https://toutiao.io/k/zcgnwpp) 
-- [【开发者头条】2022-07-19-推荐-高并发，你真的理解透彻了吗？](https://toutiao.io/k/93k2zfb) 
+- [【开发者头条】2022-07-19-【萌新解题】三数之和](https://toutiao.io/k/uni2o6r) 
+- [【开发者头条】2022-07-19-Hive开发小技巧二](https://toutiao.io/k/1ohm8xj) 
+- [【开发者头条】2022-07-19-Go-每日一库之-bitset](https://toutiao.io/k/n6xwl27) 
+- [【开发者头条】2022-07-19-推荐一款代码依赖包安全漏洞检查插件](https://toutiao.io/k/zde29x5) 
+- [【开发者头条】2022-07-19-性能领域：你知道的越多，不知道的也就越多](https://toutiao.io/k/urchjsh) 
+- [【开发者头条】2022-07-19-Harbor-高可用集群设计及部署（离线安装方式、含视频）](https://toutiao.io/k/rl0lgef) 
 - [【开发者头条】2022-07-19-推荐-服务端监控架构设计与实践](https://toutiao.io/k/xhwa9mo) 
+- [【开发者头条】2022-07-19-推荐-高并发，你真的理解透彻了吗？](https://toutiao.io/k/93k2zfb) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

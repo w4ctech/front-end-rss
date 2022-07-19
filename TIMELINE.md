@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-19 10:17:32。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-07-19 10:44:03。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,13 @@
 </summary>
 
 
+- [【V2EX】2022-07-19-桌面主机电脑不占空间的蓝牙音响求推荐](https://www.v2ex.com/t/867343) 
+- [【V2EX】2022-07-19-Apple-music-使用问题，纠结很多年的一个问题](https://www.v2ex.com/t/867342) 
+- [【V2EX】2022-07-19-LeanCloud-国际版共享域名不再向中国大陆提供服务](https://www.v2ex.com/t/867341) 
+- [【V2EX】2022-07-19-回忆杀---同学录](https://www.v2ex.com/t/867340) 
+- [【V2EX】2022-07-19-打车平台什么时候能出个屏蔽电车的选项啊](https://www.v2ex.com/t/867339) 
+- [【V2EX】2022-07-19-mac-突然无法识别外接硬盘](https://www.v2ex.com/t/867336) 
+- [【V2EX】2022-07-19-几天前-Mac-QQ-音乐更新-8.3.10-后，最近播放列表的同步出现异常，有相同情况的吗？](https://www.v2ex.com/t/867335) 
 - [【V2EX】2022-07-19-我做了一个关于设计周刊，欢迎收藏订阅。](https://www.v2ex.com/t/867334) 
 - [【V2EX】2022-07-19-深圳计划买新能源汽车，有必要参加摇号吗？](https://www.v2ex.com/t/867333) 
 - [【V2EX】2022-07-19-求推荐双盘位硬盘盒,-不需要阵列](https://www.v2ex.com/t/867332) 
@@ -103,15 +110,6 @@
 - [【V2EX】2022-07-19-求远程全职兼职设计](https://www.v2ex.com/t/867296) 
 - [【V2EX】2022-07-19-免费台式机组装清单加科普](https://www.v2ex.com/t/867295) 
 - [【V2EX】2022-07-19-冷备盘有什么推荐的吗?](https://www.v2ex.com/t/867294) 
-- [【V2EX】2022-07-19-用上这个-Mock-神器，让你的开发爽上天！](https://www.v2ex.com/t/867293) 
-- [【V2EX】2022-07-19-有什么办法可以测试跟别人公司的网站连接速度?](https://www.v2ex.com/t/867292) 
-- [【V2EX】2022-07-19-接口文档里面参数表格怎样更好的表示多级嵌套的结构？](https://www.v2ex.com/t/867291) 
-- [【V2EX】2022-07-19-机械键盘求推荐](https://www.v2ex.com/t/867290) 
-- [【V2EX】2022-07-19-8-月-1-日起，-LeanCloud-国际版共享域名不再向中国大陆提供服务](https://www.v2ex.com/t/867289) 
-- [【V2EX】2022-07-19-人的觉悟有高低，父母对孩子的爱也是有高低的。](https://www.v2ex.com/t/867288) 
-- [【V2EX】2022-07-19-Linux-系统-vim-自动退出，-Python-脚本也被自动杀死，这个什么原因造成的？](https://www.v2ex.com/t/867287) 
-- [【V2EX】2022-07-19-（已有答案）后台-app-刷新到底是做什么用的？](https://www.v2ex.com/t/867286) 
-- [【V2EX】2022-07-19-好兄弟的工地停工了；回老家农村待业了](https://www.v2ex.com/t/867285) 
 - [【技术头条】2022-07-19-单体-or-微服务？你以为是架构权衡？其实是认知负载！-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15219&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fmonolith-microservice-architectural-tradeoff-cognitive-load%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-19-DDD-中的几个困难问题-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15218&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fdifficult-problems-in-domain-driven-design%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-19-CPU是如何进行分支预测的？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15217&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FZ9KWmfCBhCixdkZGEeLStQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

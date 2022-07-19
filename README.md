@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-07-19 09:41:58，:rocket: 更新条数: +2029， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-07-19 10:17:32，:rocket: 更新条数: +2029， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,16 @@
 </summary>
 
 
+- [2022-07-19-我做了一个关于设计周刊，欢迎收藏订阅。](https://www.v2ex.com/t/867334) ![](assets/new.png)  
+- [2022-07-19-深圳计划买新能源汽车，有必要参加摇号吗？](https://www.v2ex.com/t/867333) ![](assets/new.png)  
+- [2022-07-19-求推荐双盘位硬盘盒,-不需要阵列](https://www.v2ex.com/t/867332) ![](assets/new.png)  
+- [2022-07-19-请教一下-mac-的选择](https://www.v2ex.com/t/867331) ![](assets/new.png)  
+- [2022-07-19-公司准备在某些区域禁止互联网](https://www.v2ex.com/t/867330) ![](assets/new.png)  
+- [2022-07-19-一次性刨刀为什么这么贵](https://www.v2ex.com/t/867329) ![](assets/new.png)  
+- [2022-07-19-很抱歉，我感到有一些绝望。-（一个基础问题）](https://www.v2ex.com/t/867328) ![](assets/new.png)  
+- [2022-07-19-叮咚智能音箱有人还在用吗？？](https://www.v2ex.com/t/867326) ![](assets/new.png)  
+- [2022-07-19-大家觉得，目前-macos-下，哪家浏览器最省电](https://www.v2ex.com/t/867325) ![](assets/new.png)  
+- [2022-07-19-电梯里听到一对母子的对话...](https://www.v2ex.com/t/867324) ![](assets/new.png)  
 - [2022-07-19-求教面试必问应答](https://www.v2ex.com/t/867323) ![](assets/new.png)  
 - [2022-07-19-5G-移动和-4G-电信的差距就这么点？](https://www.v2ex.com/t/867322) ![](assets/new.png)  
 - [2022-07-19-你们那-4G-限速了吗](https://www.v2ex.com/t/867321) ![](assets/new.png)  
@@ -501,16 +511,6 @@
 - [2022-07-19-youtube-music-播放-2-秒后提示网络错误，实际网络正常，是什么原因？](https://www.v2ex.com/t/867312) ![](assets/new.png)  
 - [2022-07-19-北京40K---80K-出海-web3-社交公司诚邀-前端/后端-加入](https://www.v2ex.com/t/867311) ![](assets/new.png)  
 - [2022-07-19-求助一个需要替换-XML-特定节点的问题，使用-Javascript](https://www.v2ex.com/t/867310) ![](assets/new.png)  
-- [2022-07-19-笔记软件调研帖：你记录了多少笔记，给你带来了哪些帮助，达成了哪些成果？](https://www.v2ex.com/t/867309) ![](assets/new.png)  
-- [2022-07-19-请问回复帖子怎么使用-markdown-格式?](https://www.v2ex.com/t/867307) ![](assets/new.png)  
-- [2022-07-19-还能这样？官方-A2119-扩展坞-USB-A-接口失效](https://www.v2ex.com/t/867306) ![](assets/new.png)  
-- [2022-07-19-杭州皮卡何时解禁？](https://www.v2ex.com/t/867305) ![](assets/new.png)  
-- [2022-07-19-请教一下北京联通突破千兆速度的经验](https://www.v2ex.com/t/867304) ![](assets/new.png)  
-- [2022-07-19-上海电信-fttb-的问题](https://www.v2ex.com/t/867303) ![](assets/new.png)  
-- [2022-07-19-mac-自带超多软件,请问-apple-自带的-git-和官方-git-有什么不同，哪个好](https://www.v2ex.com/t/867302) ![](assets/new.png)  
-- [2022-07-19-115-网盘最近是不是失常了](https://www.v2ex.com/t/867301) ![](assets/new.png)  
-- [2022-07-19-redmi-X75-和-oppo-k9-75选哪个](https://www.v2ex.com/t/867300) ![](assets/new.png)  
-- [2022-07-19-关于-Macbook-pro-风扇和-CPU-占用率的问题，请教一下大家](https://www.v2ex.com/t/867299) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -558,20 +558,20 @@
 - [2022-07-19-Go-垃圾回收器指南](https://toutiao.io/k/kce21o1) ![](assets/new.png)  
 - [2022-07-19-网易游戏-Flink-SQL-平台化实践](https://toutiao.io/k/h0wwrv1) ![](assets/new.png)  
 - [2022-07-19-技术人员如何看待风口上的低代码](https://toutiao.io/k/u4f9mcb) ![](assets/new.png)  
-- [2022-07-19-IntelliJ-IDEA-2022.2发布首个Beta版本](https://toutiao.io/k/jfldi2r) ![](assets/new.png)  
 - [2022-07-19-渗透测试面试问题指南](https://toutiao.io/k/zcgnwpp) ![](assets/new.png)  
+- [2022-07-19-IntelliJ-IDEA-2022.2发布首个Beta版本](https://toutiao.io/k/jfldi2r) ![](assets/new.png)  
 - [2022-07-19-Babylon.js-将成构建元宇宙重要工具？专访-Babylon.js-团队负责人-|-卓越技术团队访谈录](https://toutiao.io/k/baoeair) ![](assets/new.png)  
 - [2022-07-19-Flink-Exactly-Once-投递实现浅析](https://toutiao.io/k/d9sm1pe) ![](assets/new.png)  
 - [2022-07-19-可能改变前端工程化未来的特性：ESM-Loader-Hooks](https://toutiao.io/k/ospp49y) ![](assets/new.png)  
 - [2022-07-19-因果学习将开启下一代AI浪潮？九章云极DataCanvas正式发布YLearn因果学习开源项目](https://toutiao.io/k/a54bchd) ![](assets/new.png)  
 - [2022-07-19-【萌新解题】三数之和](https://toutiao.io/k/uni2o6r) ![](assets/new.png)  
 - [2022-07-19-推荐一款代码依赖包安全漏洞检查插件](https://toutiao.io/k/zde29x5) ![](assets/new.png)  
+- [2022-07-19-性能领域：你知道的越多，不知道的也就越多](https://toutiao.io/k/urchjsh) ![](assets/new.png)  
 - [2022-07-19-Hive开发小技巧二](https://toutiao.io/k/1ohm8xj) ![](assets/new.png)  
 - [2022-07-19-Go-每日一库之-bitset](https://toutiao.io/k/n6xwl27) ![](assets/new.png)  
-- [2022-07-19-性能领域：你知道的越多，不知道的也就越多](https://toutiao.io/k/urchjsh) ![](assets/new.png)  
 - [2022-07-19-Harbor-高可用集群设计及部署（离线安装方式、含视频）](https://toutiao.io/k/rl0lgef) ![](assets/new.png)  
-- [2022-07-19-推荐-高并发，你真的理解透彻了吗？](https://toutiao.io/k/93k2zfb) ![](assets/new.png)  
 - [2022-07-19-推荐-服务端监控架构设计与实践](https://toutiao.io/k/xhwa9mo) ![](assets/new.png)  
+- [2022-07-19-推荐-高并发，你真的理解透彻了吗？](https://toutiao.io/k/93k2zfb) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

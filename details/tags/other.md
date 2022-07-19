@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-19 20:15:14。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-19 20:41:59。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,7 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-07-19-Apple-花费-5000-万美元就蝶式键盘可靠性问题与美国多州消费者集体诉讼进行和解](https://www.v2ex.com/t/867416) 
 - [2022-07-19-C++14-中如何方便地将-tuple-展开成为另一个-class-的-variadic-template](https://www.v2ex.com/t/867415) 
 - [2022-07-19-老车库翻修，预留一个-220v-的插座，方便之后有电动汽车充电需求，需要怎么安排](https://www.v2ex.com/t/867414) 
 - [2022-07-19-跟风买了喵喵机，发现-app-是国区特供](https://www.v2ex.com/t/867413) 

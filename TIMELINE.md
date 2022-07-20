@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-20 16:19:09。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-07-20 17:00:51。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,9 @@
 </summary>
 
 
+- [【V2EX】2022-07-20-Mac-下有没有好用的文件夹比对软件](https://www.v2ex.com/t/867655) 
+- [【V2EX】2022-07-20-发现一个-listary-的替代品，或者说以后的-listary6-会长这样](https://www.v2ex.com/t/867654) 
+- [【V2EX】2022-07-20-做解析接入的时候，能只接入一个子域名吗？](https://www.v2ex.com/t/867652) 
 - [【V2EX】2022-07-20-腾讯云的对象存储有内容审查吗？（观创作没了，心凉有感）](https://www.v2ex.com/t/867651) 
 - [【V2EX】2022-07-20-Google-Domains-注册的域名如何在国内用作-DDNS-域名](https://www.v2ex.com/t/867650) 
 - [【V2EX】2022-07-20-如果突破端口白名单网络封锁？](https://www.v2ex.com/t/867649) 
@@ -103,8 +106,6 @@
 - [【V2EX】2022-07-20-有谁考虑过用移动硬盘当主力盘使用？](https://www.v2ex.com/t/867610) 
 - [【V2EX】2022-07-20-最近学-os-遇到的问题，利用中断调用门后特权级没改变](https://www.v2ex.com/t/867608) 
 - [【V2EX】2022-07-20-surge-有没有办法合并配置](https://www.v2ex.com/t/867606) 
-- [【V2EX】2022-07-20-杭州哪里换驾照](https://www.v2ex.com/t/867603) 
-- [【V2EX】2022-07-20-如何使-Wireguard-接入到局域网的设备，亦可以走透明代理](https://www.v2ex.com/t/867602) 
 - [【技术头条】2022-07-20-单体-or-微服务？你以为是架构权衡？其实是认知负载！-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15219&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fmonolith-microservice-architectural-tradeoff-cognitive-load%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-20-DDD-中的几个困难问题-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15218&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fdifficult-problems-in-domain-driven-design%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-20-CPU是如何进行分支预测的？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15217&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FZ9KWmfCBhCixdkZGEeLStQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-20 09:14:39。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-20 09:41:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,10 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-07-20-求推荐-本地/自托管-的笔记软件](https://www.v2ex.com/t/867584) 
+- [2022-07-20-安卓-jd-APP-怎么知道你的位置的](https://www.v2ex.com/t/867583) 
+- [2022-07-20-公积金基数顶了，挺开心；一查社保也顶了，伤心，难搞。](https://www.v2ex.com/t/867582) 
+- [2022-07-20-杭州-可远程办公-秘猿科技-Cryptape--Junior&Senior-Blockchain-Engineer](https://www.v2ex.com/t/867581) 
 - [2022-07-20-记录一次-v-站交易被坑并挂人](https://www.v2ex.com/t/867579) 
 - [2022-07-20-想问下大家在设计数据库表的时候，是否会对用户名称这类字段进行冗余处理？](https://www.v2ex.com/t/867578) 
 - [2022-07-20-IOS-上的-Outlook-客户端推送有问题](https://www.v2ex.com/t/867576) 
@@ -1940,7 +1944,6 @@
 - [2022-07-20-限制性股票激励有啥用](https://www.v2ex.com/t/867539) 
 - [2022-07-20-怎样破坏软件功能：常见缺陷模式](https://www.v2ex.com/t/867538) 
 - [2022-07-20-出一个-N1，-OpenWrt-系统](https://www.v2ex.com/t/867536) 
-- [2022-07-20-远程-windows-设备，没有公网-ip，怎么才能实现多人同时使用？现在是多人互抢向日葵](https://www.v2ex.com/t/867534) 
 - [2022-07-20-单体-or-微服务？你以为是架构权衡？其实是认知负载！-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15219&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fmonolith-microservice-architectural-tradeoff-cognitive-load%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-20-DDD-中的几个困难问题-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15218&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fdifficult-problems-in-domain-driven-design%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-20-CPU是如何进行分支预测的？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15217&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FZ9KWmfCBhCixdkZGEeLStQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-20 11:12:31。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-07-20 11:37:38。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,8 @@
 </summary>
 
 
+- [【V2EX】2022-07-20-RoboFrom-最后一个非云版是什么版本号？（或者求问非云版密码管理软件替代）](https://www.v2ex.com/t/867614) 
+- [【V2EX】2022-07-20-Safari-能打开百度，-Chrome-打不开，有可能是什么问题?](https://www.v2ex.com/t/867613) 
 - [【V2EX】2022-07-20-张小龙____，-WeChat-被频繁封号，已严重影响生活，大家避雷](https://www.v2ex.com/t/867612) 
 - [【V2EX】2022-07-20-有谁考虑过用移动硬盘当主力盘使用？](https://www.v2ex.com/t/867610) 
 - [【V2EX】2022-07-20-最近学-os-遇到的问题，利用中断调用门后特权级没改变](https://www.v2ex.com/t/867608) 
@@ -103,8 +105,6 @@
 - [【V2EX】2022-07-20-求推荐个-87-键盘无线,有灯,按键不费劲的](https://www.v2ex.com/t/867570) 
 - [【V2EX】2022-07-20-请教一下，是谁把代码合丢了](https://www.v2ex.com/t/867567) 
 - [【V2EX】2022-07-20-新-macbook-air-m2-碰到的一个神奇问题](https://www.v2ex.com/t/867566) 
-- [【V2EX】2022-07-20-触摸板没震动反馈了，哪里维修靠谱？](https://www.v2ex.com/t/867565) 
-- [【V2EX】2022-07-20-专科云计算技术与应用专业，在广东，开学大三，下半年结束就开始实习，好迷茫……](https://www.v2ex.com/t/867564) 
 - [【技术头条】2022-07-20-单体-or-微服务？你以为是架构权衡？其实是认知负载！-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15219&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fmonolith-microservice-architectural-tradeoff-cognitive-load%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-20-DDD-中的几个困难问题-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15218&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fdifficult-problems-in-domain-driven-design%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-20-CPU是如何进行分支预测的？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15217&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FZ9KWmfCBhCixdkZGEeLStQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -132,13 +132,13 @@
 - [【开发者头条】2022-07-20-技术解析｜Doris-Connector-结合-Flink-CDC-实现-MySQL-分库分表-Exactly-Once精准接入](https://toutiao.io/k/36dd5t2) 
 - [【开发者头条】2022-07-20-吴恩达：机器学习的六个核心算法](https://toutiao.io/k/62ckn78) 
 - [【开发者头条】2022-07-20-Linux-程序编译过程详解](https://toutiao.io/k/o4hxpl5) 
-- [【开发者头条】2022-07-20-如何优雅地实现C++编译期多态？](https://toutiao.io/k/1cbpzrq) 
 - [【开发者头条】2022-07-20-前端摸鱼神器，一小时打卡下班！](https://toutiao.io/k/84u0gx8) 
+- [【开发者头条】2022-07-20-如何优雅地实现C++编译期多态？](https://toutiao.io/k/1cbpzrq) 
 - [【开发者头条】2022-07-20-python-rsa密钥对的加密/解密、加签/解签...](https://toutiao.io/k/nfhw3s2) 
 - [【开发者头条】2022-07-20-【萌新解题】存在重复元素](https://toutiao.io/k/woyso12) 
 - [【开发者头条】2022-07-20-暑假打工-2-个月，让我明白了-Keepalived-高可用的三种路由方案](https://toutiao.io/k/xgawmm5) 
-- [【开发者头条】2022-07-20-采用Dubbo？还是Spring-Cloud？](https://toutiao.io/k/r5ucgun) 
 - [【开发者头条】2022-07-20-Python并发方案深度对比](https://toutiao.io/k/1k92srt) 
+- [【开发者头条】2022-07-20-采用Dubbo？还是Spring-Cloud？](https://toutiao.io/k/r5ucgun) 
 - [【开发者头条】2022-07-20-流量加密怎么办？主流webshell管理工具流量解密分析【附解密脚本】](https://toutiao.io/k/abm2jy0) 
 - [【开发者头条】2022-07-20-Go-常量只支持基本数据类型？为什么？社区撕了-9-年了...](https://toutiao.io/k/7muwnxn) 
 - [【开发者头条】2022-07-20-面试官：哥们Go语言的读写锁了解多少？](https://toutiao.io/k/oo44c78) 

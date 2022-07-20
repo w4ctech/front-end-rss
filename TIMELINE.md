@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-20 05:05:01。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-07-20 05:43:40。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,9 @@
 </summary>
 
 
+- [【V2EX】2022-07-20-花-1-小时试用产品，薅羊毛-150-元京东购物卡](https://www.v2ex.com/t/867522) 
+- [【V2EX】2022-07-20-公司电脑，各位是怎么处理个人电脑的](https://www.v2ex.com/t/867520) 
+- [【V2EX】2022-07-20-分享我构建的-squoosh-docker-镜像，写博客贴图直接在本地压缩文件，安全且高效](https://www.v2ex.com/t/867519) 
 - [【V2EX】2022-07-20-关于早餐大家每天早上都吃撒](https://www.v2ex.com/t/867518) 
 - [【V2EX】2022-07-20-为什么知乎专栏不能评论了，跨域错误吗？](https://www.v2ex.com/t/867517) 
 - [【V2EX】2022-07-20-分享一个-VSCode-多开小工具，实现插件和用户设置隔离](https://www.v2ex.com/t/867516) 
@@ -101,8 +104,6 @@
 - [【V2EX】2022-07-20-Redis-主从结构是否存在某一时刻数据不一致？](https://www.v2ex.com/t/867475) 
 - [【V2EX】2022-07-20-有没有一个-nestjs-的开源项目](https://www.v2ex.com/t/867474) 
 - [【V2EX】2022-07-20-JetBrains-Space-On-Premise-版已经出来了，有成功跑起来的吗](https://www.v2ex.com/t/867473) 
-- [【V2EX】2022-07-20-Web3-招聘：-Finance-Manager-新加坡-10-20-万新币](https://www.v2ex.com/t/867472) 
-- [【V2EX】2022-07-20-celery-中如何停止子进程](https://www.v2ex.com/t/867471) 
 - [【技术头条】2022-07-20-单体-or-微服务？你以为是架构权衡？其实是认知负载！-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15219&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fmonolith-microservice-architectural-tradeoff-cognitive-load%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-20-DDD-中的几个困难问题-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15218&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fdifficult-problems-in-domain-driven-design%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-20-CPU是如何进行分支预测的？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15217&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FZ9KWmfCBhCixdkZGEeLStQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

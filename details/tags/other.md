@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-20 05:05:00。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-20 05:43:40。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,8 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-07-20-花-1-小时试用产品，薅羊毛-150-元京东购物卡](https://www.v2ex.com/t/867522) 
+- [2022-07-20-公司电脑，各位是怎么处理个人电脑的](https://www.v2ex.com/t/867520) 
 - [2022-07-20-关于早餐大家每天早上都吃撒](https://www.v2ex.com/t/867518) 
 - [2022-07-20-分享一个-VSCode-多开小工具，实现插件和用户设置隔离](https://www.v2ex.com/t/867516) 
 - [2022-07-20-官方有没有可能有这样一个数据库？](https://www.v2ex.com/t/867513) 
@@ -1938,7 +1940,6 @@
 - [2022-07-20-原项目要升级-ts，请问这里-ts-的数据类型怎么写？](https://www.v2ex.com/t/867479) 
 - [2022-07-20-Redis-主从结构是否存在某一时刻数据不一致？](https://www.v2ex.com/t/867475) 
 - [2022-07-20-JetBrains-Space-On-Premise-版已经出来了，有成功跑起来的吗](https://www.v2ex.com/t/867473) 
-- [2022-07-20-celery-中如何停止子进程](https://www.v2ex.com/t/867471) 
 - [2022-07-20-单体-or-微服务？你以为是架构权衡？其实是认知负载！-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15219&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fmonolith-microservice-architectural-tradeoff-cognitive-load%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-20-DDD-中的几个困难问题-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15218&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fdifficult-problems-in-domain-driven-design%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-20-CPU是如何进行分支预测的？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15217&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FZ9KWmfCBhCixdkZGEeLStQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

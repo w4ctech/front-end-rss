@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-20 06:48:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-20 07:13:34。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -15,4 +15,3 @@
 - [2021-01-01-大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html) 
 - [2022-06-12-基于文字的URL锚点定位与::target-text样式设置](https://www.zhangxinxu.com/wordpress/2022/06/url-anchor-target-text/) 
 - [2022-07-20-为什么知乎专栏不能评论了，跨域错误吗？](https://www.v2ex.com/t/867517) 
-- [2022-07-20-Pad-端的-Chrome-浏览器能不能安装-YOUTUBE-字幕插件啊？](https://www.v2ex.com/t/867497) 

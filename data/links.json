@@ -9953,6 +9953,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "感觉 uber/fx 并不比 getInstance 工厂好用",
+        "link": "https://www.v2ex.com/t/867658",
+        "date": "2022-07-20"
+      },
+      {
         "title": "5 年 UI 设计师找工作，作品详见链接。",
         "link": "https://www.v2ex.com/t/867656",
         "date": "2022-07-20"
@@ -10135,11 +10140,6 @@
       {
         "title": "有谁考虑过用移动硬盘当主力盘使用？",
         "link": "https://www.v2ex.com/t/867610",
-        "date": "2022-07-20"
-      },
-      {
-        "title": "最近学 os 遇到的问题，利用中断调用门后特权级没改变",
-        "link": "https://www.v2ex.com/t/867608",
         "date": "2022-07-20"
       }
     ]

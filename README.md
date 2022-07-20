@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-07-20 17:25:27，:rocket: 更新条数: +2023， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-07-20 17:45:12，:rocket: 更新条数: +2023， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-07-20-感觉-uber/fx-并不比-getInstance-工厂好用](https://www.v2ex.com/t/867658) ![](assets/new.png)  
 - [2022-07-20-5-年-UI-设计师找工作，作品详见链接。](https://www.v2ex.com/t/867656) ![](assets/new.png)  
 - [2022-07-20-Mac-下有没有好用的文件夹比对软件](https://www.v2ex.com/t/867655) ![](assets/new.png)  
 - [2022-07-20-发现一个-listary-的替代品，或者说以后的-listary6-会长这样](https://www.v2ex.com/t/867654) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-07-20-有人用-Cloudflare-pages-做过站吗？效果如何](https://www.v2ex.com/t/867637) ![](assets/new.png)  
 - [2022-07-20-你们有没有遇到-idea-中-gradle-调用-build，然后启动进程又-build-一遍？](https://www.v2ex.com/t/867635) ![](assets/new.png)  
 - [2022-07-20-求一款-Mac-窗口管理软件,-支持-3/4-覆盖](https://www.v2ex.com/t/867634) ![](assets/new.png)  
-- [2022-07-20-uniapp-微信小程序端有啥低代码平台推荐吗？](https://www.v2ex.com/t/867633) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

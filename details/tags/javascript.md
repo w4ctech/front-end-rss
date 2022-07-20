@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-20 08:47:14。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-20 09:14:39。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -19,5 +19,6 @@
 - [2022-05-11-JS与条形码的生成](https://www.zhangxinxu.com/wordpress/2022/05/js-barcode/) 
 - [2022-04-30-深入-JS-new-Function-语法](https://www.zhangxinxu.com/wordpress/2022/04/js-new-function/) 
 - [2022-04-27-小tips:-JS字体加载失败或完毕的检测](https://www.zhangxinxu.com/wordpress/2022/04/js-font-face-load/) 
+- [2022-07-20-Apple-设备在-AP-没有外网连接的时候怎么能连上-WiFi-来设置路由或者-AP](https://www.v2ex.com/t/867577) 
 - [2022-07-20-写了一个从-json-配置-LSP-的-neovim-插件](https://www.v2ex.com/t/867533) 
 - [2022-07-20-暑假打工-2-个月，让我明白了-Keepalived-高可用的三种路由方案](https://toutiao.io/k/xgawmm5) 

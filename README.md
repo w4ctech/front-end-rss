@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-07-20 18:47:48，:rocket: 更新条数: +2024， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-07-20 19:12:37，:rocket: 更新条数: +2025， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-07-20-__attribute__destructor-函数中的-if-语句无法执行](https://www.v2ex.com/t/867661) ![](assets/new.png)  
 - [2022-07-20-分享两个机器翻译工具](https://www.v2ex.com/t/867660) ![](assets/new.png)  
 - [2022-07-20-现在还有什么市场是上架-App-不需要软著的？](https://www.v2ex.com/t/867659) ![](assets/new.png)  
 - [2022-07-20-感觉-uber/fx-并不比-getInstance-工厂好用](https://www.v2ex.com/t/867658) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-07-20-造轮子问题请教，如何实现-xx-xxx-这种命令格式](https://www.v2ex.com/t/867640) ![](assets/new.png)  
 - [2022-07-20-腾讯云香港服务器会被封嘛？](https://www.v2ex.com/t/867639) ![](assets/new.png)  
 - [2022-07-20-广州-汇丰银行内推-招聘中高级-Java-工程师14-薪，-18-30K+](https://www.v2ex.com/t/867638) ![](assets/new.png)  
-- [2022-07-20-有人用-Cloudflare-pages-做过站吗？效果如何](https://www.v2ex.com/t/867637) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

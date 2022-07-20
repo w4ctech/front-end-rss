@@ -9953,6 +9953,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "__attribute__((destructor)) 函数中的 if 语句无法执行",
+        "link": "https://www.v2ex.com/t/867661",
+        "date": "2022-07-20"
+      },
+      {
         "title": "分享两个机器翻译工具",
         "link": "https://www.v2ex.com/t/867660",
         "date": "2022-07-20"

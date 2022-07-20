@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2022-07-20 23:03:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-20 23:15:38。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-07-20-Apple-是出于什么考量，在-macOS-上禁用了中国地区的-Apple-Pay？](https://www.v2ex.com/t/867665) 
 - [2022-07-20-安卓-11-支持-DNS-over-HTTP/3-啦](https://www.v2ex.com/t/867663) 
 - [2022-07-20-刚释出的-iOS15.6-修复了-Safari-书签同步的问题](https://www.v2ex.com/t/867662) 
 - [2022-07-20-__attribute__destructor-函数中的-if-语句无法执行](https://www.v2ex.com/t/867661) 

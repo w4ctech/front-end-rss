@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-20 23:03:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-20 23:15:38。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,7 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-07-20-Apple-是出于什么考量，在-macOS-上禁用了中国地区的-Apple-Pay？](https://www.v2ex.com/t/867665) 
 - [2022-07-20-__attribute__destructor-函数中的-if-语句无法执行](https://www.v2ex.com/t/867661) 
 - [2022-07-20-分享两个机器翻译工具](https://www.v2ex.com/t/867660) 
 - [2022-07-20-现在还有什么市场是上架-App-不需要软著的？](https://www.v2ex.com/t/867659) 

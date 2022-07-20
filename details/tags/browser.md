@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-20 14:01:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-20 14:22:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -16,4 +16,3 @@
 - [2022-06-12-基于文字的URL锚点定位与::target-text样式设置](https://www.zhangxinxu.com/wordpress/2022/06/url-anchor-target-text/) 
 - [2022-07-20-为什么-chrome-控制台获取-cookie-不完整？](https://www.v2ex.com/t/867619) 
 - [2022-07-20-Safari-能打开百度，-Chrome-打不开，有可能是什么问题?](https://www.v2ex.com/t/867613) 
-- [2022-07-20-有什么可以替代第三方-cookie-的广告追踪技术吗？](https://www.v2ex.com/t/867588) 

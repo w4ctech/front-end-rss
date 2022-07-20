@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-07-20 18:17:28，:rocket: 更新条数: +2023， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-07-20 18:47:48，:rocket: 更新条数: +2024， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-07-20-分享两个机器翻译工具](https://www.v2ex.com/t/867660) ![](assets/new.png)  
+- [2022-07-20-现在还有什么市场是上架-App-不需要软著的？](https://www.v2ex.com/t/867659) ![](assets/new.png)  
 - [2022-07-20-感觉-uber/fx-并不比-getInstance-工厂好用](https://www.v2ex.com/t/867658) ![](assets/new.png)  
 - [2022-07-20-5-年-UI-设计师找工作，作品详见链接。](https://www.v2ex.com/t/867656) ![](assets/new.png)  
 - [2022-07-20-Mac-下有没有好用的文件夹比对软件](https://www.v2ex.com/t/867655) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-07-20-腾讯云香港服务器会被封嘛？](https://www.v2ex.com/t/867639) ![](assets/new.png)  
 - [2022-07-20-广州-汇丰银行内推-招聘中高级-Java-工程师14-薪，-18-30K+](https://www.v2ex.com/t/867638) ![](assets/new.png)  
 - [2022-07-20-有人用-Cloudflare-pages-做过站吗？效果如何](https://www.v2ex.com/t/867637) ![](assets/new.png)  
-- [2022-07-20-你们有没有遇到-idea-中-gradle-调用-build，然后启动进程又-build-一遍？](https://www.v2ex.com/t/867635) ![](assets/new.png)  
-- [2022-07-20-求一款-Mac-窗口管理软件,-支持-3/4-覆盖](https://www.v2ex.com/t/867634) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-20 18:17:28。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-07-20 18:47:48。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,8 @@
 </summary>
 
 
+- [【V2EX】2022-07-20-分享两个机器翻译工具](https://www.v2ex.com/t/867660) 
+- [【V2EX】2022-07-20-现在还有什么市场是上架-App-不需要软著的？](https://www.v2ex.com/t/867659) 
 - [【V2EX】2022-07-20-感觉-uber/fx-并不比-getInstance-工厂好用](https://www.v2ex.com/t/867658) 
 - [【V2EX】2022-07-20-5-年-UI-设计师找工作，作品详见链接。](https://www.v2ex.com/t/867656) 
 - [【V2EX】2022-07-20-Mac-下有没有好用的文件夹比对软件](https://www.v2ex.com/t/867655) 
@@ -105,7 +107,6 @@
 - [【V2EX】2022-07-20-RoboFrom-最后一个非云版是什么版本号？（或者求问非云版密码管理软件替代）](https://www.v2ex.com/t/867614) 
 - [【V2EX】2022-07-20-Safari-能打开百度，-Chrome-打不开，有可能是什么问题?](https://www.v2ex.com/t/867613) 
 - [【V2EX】2022-07-20-张小龙____，-WeChat-被频繁封号，已严重影响生活，大家避雷](https://www.v2ex.com/t/867612) 
-- [【V2EX】2022-07-20-有谁考虑过用移动硬盘当主力盘使用？](https://www.v2ex.com/t/867610) 
 - [【技术头条】2022-07-20-单体-or-微服务？你以为是架构权衡？其实是认知负载！-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15219&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fmonolith-microservice-architectural-tradeoff-cognitive-load%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-20-DDD-中的几个困难问题-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15218&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fdifficult-problems-in-domain-driven-design%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-20-CPU是如何进行分支预测的？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15217&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FZ9KWmfCBhCixdkZGEeLStQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

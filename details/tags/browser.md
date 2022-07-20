@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-20 01:04:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-20 03:26:47。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -14,6 +14,4 @@
 - [2021-01-08-解药|新冠mRNA疫苗安全性有哪些挑战？](https://m.caixin.com/m/2021-01-08/101648043.html) 
 - [2021-01-01-大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html) 
 - [2022-06-12-基于文字的URL锚点定位与::target-text样式设置](https://www.zhangxinxu.com/wordpress/2022/06/url-anchor-target-text/) 
-- [2022-07-20-把用了-3-次的-get-方法取成公共方法，用的时候导入，是不是就叫封装-axios-了？](https://www.v2ex.com/t/867421) 
-- [2022-07-19-Edge-for-mac-的双指左右滑动延迟-bug-一直没有修复](https://www.v2ex.com/t/867410) 
-- [2022-07-19-Little-Snitch-的-Alert-Mode-弹窗太狠了……但是-Slient-Mode-又好像摆设……](https://www.v2ex.com/t/867383) 
+- [2022-07-20-免费-TikTok-无水印下载浏览器插件](https://www.v2ex.com/t/867477) 

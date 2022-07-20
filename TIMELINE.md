@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-20 20:16:12。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-07-20 20:43:01。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,7 @@
 </summary>
 
 
+- [【V2EX】2022-07-20-安卓-11-支持-DNS-over-HTTP/3-啦](https://www.v2ex.com/t/867663) 
 - [【V2EX】2022-07-20-刚释出的-iOS15.6-修复了-Safari-书签同步的问题](https://www.v2ex.com/t/867662) 
 - [【V2EX】2022-07-20-__attribute__destructor-函数中的-if-语句无法执行](https://www.v2ex.com/t/867661) 
 - [【V2EX】2022-07-20-分享两个机器翻译工具](https://www.v2ex.com/t/867660) 
@@ -107,7 +108,6 @@
 - [【V2EX】2022-07-20-阿里云的云企业网服务-,-走的联通的哪个线路?](https://www.v2ex.com/t/867617) 
 - [【V2EX】2022-07-20-上市公司的你公积金缴费基数是多少？还是最低标准？](https://www.v2ex.com/t/867616) 
 - [【V2EX】2022-07-20-RoboFrom-最后一个非云版是什么版本号？（或者求问非云版密码管理软件替代）](https://www.v2ex.com/t/867614) 
-- [【V2EX】2022-07-20-Safari-能打开百度，-Chrome-打不开，有可能是什么问题?](https://www.v2ex.com/t/867613) 
 - [【技术头条】2022-07-20-单体-or-微服务？你以为是架构权衡？其实是认知负载！-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15219&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fmonolith-microservice-architectural-tradeoff-cognitive-load%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-20-DDD-中的几个困难问题-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15218&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fdifficult-problems-in-domain-driven-design%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-20-CPU是如何进行分支预测的？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15217&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FZ9KWmfCBhCixdkZGEeLStQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

@@ -9953,6 +9953,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "安卓 11 支持 DNS-over-HTTP/3 啦",
+        "link": "https://www.v2ex.com/t/867663",
+        "date": "2022-07-20"
+      },
+      {
         "title": "刚释出的 iOS15.6 修复了 Safari 书签同步的问题",
         "link": "https://www.v2ex.com/t/867662",
         "date": "2022-07-20"
@@ -10145,11 +10150,6 @@
       {
         "title": "RoboFrom 最后一个非云版是什么版本号？（或者求问非云版密码管理软件替代）",
         "link": "https://www.v2ex.com/t/867614",
-        "date": "2022-07-20"
-      },
-      {
-        "title": "Safari 能打开百度， Chrome 打不开，有可能是什么问题?",
-        "link": "https://www.v2ex.com/t/867613",
         "date": "2022-07-20"
       }
     ]

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-20 20:16:12。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-20 20:43:01。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -17,4 +17,3 @@
 - [2022-07-20-刚释出的-iOS15.6-修复了-Safari-书签同步的问题](https://www.v2ex.com/t/867662) 
 - [2022-07-20-感觉-uber/fx-并不比-getInstance-工厂好用](https://www.v2ex.com/t/867658) 
 - [2022-07-20-为什么-chrome-控制台获取-cookie-不完整？](https://www.v2ex.com/t/867619) 
-- [2022-07-20-Safari-能打开百度，-Chrome-打不开，有可能是什么问题?](https://www.v2ex.com/t/867613) 

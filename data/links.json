@@ -9953,6 +9953,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "刚释出的 iOS15.6 修复了 Safari 书签同步的问题",
+        "link": "https://www.v2ex.com/t/867662",
+        "date": "2022-07-20"
+      },
+      {
         "title": "__attribute__((destructor)) 函数中的 if 语句无法执行",
         "link": "https://www.v2ex.com/t/867661",
         "date": "2022-07-20"
@@ -10145,11 +10150,6 @@
       {
         "title": "Safari 能打开百度， Chrome 打不开，有可能是什么问题?",
         "link": "https://www.v2ex.com/t/867613",
-        "date": "2022-07-20"
-      },
-      {
-        "title": "张小龙____， WeChat 被频繁封号，已严重影响生活，大家避雷",
-        "link": "https://www.v2ex.com/t/867612",
         "date": "2022-07-20"
       }
     ]

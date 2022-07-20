@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2022-07-20 19:37:06。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-20 20:16:12。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-07-20-刚释出的-iOS15.6-修复了-Safari-书签同步的问题](https://www.v2ex.com/t/867662) 
 - [2022-07-20-__attribute__destructor-函数中的-if-语句无法执行](https://www.v2ex.com/t/867661) 
 - [2022-07-20-分享两个机器翻译工具](https://www.v2ex.com/t/867660) 
 - [2022-07-20-现在还有什么市场是上架-App-不需要软著的？](https://www.v2ex.com/t/867659) 
@@ -44,4 +45,3 @@
 - [2022-07-20-上市公司的你公积金缴费基数是多少？还是最低标准？](https://www.v2ex.com/t/867616) 
 - [2022-07-20-RoboFrom-最后一个非云版是什么版本号？（或者求问非云版密码管理软件替代）](https://www.v2ex.com/t/867614) 
 - [2022-07-20-Safari-能打开百度，-Chrome-打不开，有可能是什么问题?](https://www.v2ex.com/t/867613) 
-- [2022-07-20-张小龙____，-WeChat-被频繁封号，已严重影响生活，大家避雷](https://www.v2ex.com/t/867612) 

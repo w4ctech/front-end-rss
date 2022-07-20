@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-20 04:16:29。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-20 05:05:00。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -22,5 +22,4 @@
 - [2022-07-20-正则菜鸟求教](https://www.v2ex.com/t/867504) 
 - [2022-07-20-加速盒子-和-支持加速器插件的路由-的选择](https://www.v2ex.com/t/867476) 
 - [2022-07-20-有没有一个-nestjs-的开源项目](https://www.v2ex.com/t/867474) 
-- [2022-07-20-Jenkins-macOS-环境变量问题求教](https://www.v2ex.com/t/867458) 
 - [2022-07-20-暑假打工-2-个月，让我明白了-Keepalived-高可用的三种路由方案](https://toutiao.io/k/xgawmm5) 

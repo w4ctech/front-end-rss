@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-20 04:16:29。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-07-20 05:05:01。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,15 @@
 </summary>
 
 
+- [【V2EX】2022-07-20-关于早餐大家每天早上都吃撒](https://www.v2ex.com/t/867518) 
+- [【V2EX】2022-07-20-为什么知乎专栏不能评论了，跨域错误吗？](https://www.v2ex.com/t/867517) 
+- [【V2EX】2022-07-20-分享一个-VSCode-多开小工具，实现插件和用户设置隔离](https://www.v2ex.com/t/867516) 
+- [【V2EX】2022-07-20-官方有没有可能有这样一个数据库？](https://www.v2ex.com/t/867513) 
+- [【V2EX】2022-07-20-app.simplenote](https://www.v2ex.com/t/867512) 
+- [【V2EX】2022-07-20-公积金避税很常见？](https://www.v2ex.com/t/867510) 
+- [【V2EX】2022-07-20-微信又把保存文件方式改回来了？](https://www.v2ex.com/t/867509) 
+- [【V2EX】2022-07-20-请问-miui-现在能不能打？有广告吗？海外版能不能电话、微信语音录音？](https://www.v2ex.com/t/867507) 
+- [【V2EX】2022-07-20-25-公里每小时，感觉以后外卖小哥换摩托车会更疯狂](https://www.v2ex.com/t/867506) 
 - [【V2EX】2022-07-20-正则菜鸟求教](https://www.v2ex.com/t/867504) 
 - [【V2EX】2022-07-20-Apple-ID-提醒升级-paypal-付款，结果-paypal-无法绑定新发的招行-AE-卡，怎么办？](https://www.v2ex.com/t/867503) 
 - [【V2EX】2022-07-20-求职-全职远程，-6-年前端工作经验](https://www.v2ex.com/t/867500) 
@@ -94,18 +103,6 @@
 - [【V2EX】2022-07-20-JetBrains-Space-On-Premise-版已经出来了，有成功跑起来的吗](https://www.v2ex.com/t/867473) 
 - [【V2EX】2022-07-20-Web3-招聘：-Finance-Manager-新加坡-10-20-万新币](https://www.v2ex.com/t/867472) 
 - [【V2EX】2022-07-20-celery-中如何停止子进程](https://www.v2ex.com/t/867471) 
-- [【V2EX】2022-07-20-mbp-m1-通过-pd-玩和平精英是不是不可行？](https://www.v2ex.com/t/867468) 
-- [【V2EX】2022-07-20-无他，求点壁纸](https://www.v2ex.com/t/867467) 
-- [【V2EX】2022-07-20-新功能建议：加入-vim-按键模式支持](https://www.v2ex.com/t/867466) 
-- [【V2EX】2022-07-20-Google-Voice-tb-这么贵了？](https://www.v2ex.com/t/867465) 
-- [【V2EX】2022-07-20-求推荐适合日常阅读英文文章的网站](https://www.v2ex.com/t/867463) 
-- [【V2EX】2022-07-20-肝了一个简单的半成品博客，欢迎提提意见-https://tansincosy.github.io/BlogKit/](https://www.v2ex.com/t/867462) 
-- [【V2EX】2022-07-20-nodejs-中文网-开始收费了，已经付费了的同学举个爪](https://www.v2ex.com/t/867461) 
-- [【V2EX】2022-07-20-后端想推-graphql，我不想用咋办](https://www.v2ex.com/t/867460) 
-- [【V2EX】2022-07-20-Python-实现这种跟随窗口移动的效果还有什么办法？](https://www.v2ex.com/t/867459) 
-- [【V2EX】2022-07-20-Jenkins-macOS-环境变量问题求教](https://www.v2ex.com/t/867458) 
-- [【V2EX】2022-07-20-找车位有点难，特别是临牌](https://www.v2ex.com/t/867457) 
-- [【V2EX】2022-07-20-有无-医学-大佬-帮忙分析一下，-是否真的管用？-毕竟是药，所以有所芥蒂。](https://www.v2ex.com/t/867456) 
 - [【技术头条】2022-07-20-单体-or-微服务？你以为是架构权衡？其实是认知负载！-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15219&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fmonolith-microservice-architectural-tradeoff-cognitive-load%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-20-DDD-中的几个困难问题-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15218&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fdifficult-problems-in-domain-driven-design%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-20-CPU是如何进行分支预测的？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15217&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FZ9KWmfCBhCixdkZGEeLStQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -131,14 +128,14 @@
 - [【开发者头条】2022-07-20-聊聊并发编程的10个坑](https://toutiao.io/k/ajkvysg) 
 - [【开发者头条】2022-07-20-技术解析｜Doris-Connector-结合-Flink-CDC-实现-MySQL-分库分表-Exactly-Once精准接入](https://toutiao.io/k/36dd5t2) 
 - [【开发者头条】2022-07-20-吴恩达：机器学习的六个核心算法](https://toutiao.io/k/62ckn78) 
-- [【开发者头条】2022-07-20-如何优雅地实现C++编译期多态？](https://toutiao.io/k/1cbpzrq) 
 - [【开发者头条】2022-07-20-Linux-程序编译过程详解](https://toutiao.io/k/o4hxpl5) 
+- [【开发者头条】2022-07-20-如何优雅地实现C++编译期多态？](https://toutiao.io/k/1cbpzrq) 
 - [【开发者头条】2022-07-20-【萌新解题】存在重复元素](https://toutiao.io/k/woyso12) 
 - [【开发者头条】2022-07-20-python-rsa密钥对的加密/解密、加签/解签...](https://toutiao.io/k/nfhw3s2) 
+- [【开发者头条】2022-07-20-RabbitMQ、RocketMQ、Kafka-三元归一](https://toutiao.io/k/2gc8qxi) 
 - [【开发者头条】2022-07-20-暑假打工-2-个月，让我明白了-Keepalived-高可用的三种路由方案](https://toutiao.io/k/xgawmm5) 
 - [【开发者头条】2022-07-20-前端摸鱼神器，一小时打卡下班！](https://toutiao.io/k/84u0gx8) 
 - [【开发者头条】2022-07-20-采用Dubbo？还是Spring-Cloud？](https://toutiao.io/k/r5ucgun) 
-- [【开发者头条】2022-07-20-RabbitMQ、RocketMQ、Kafka-三元归一](https://toutiao.io/k/2gc8qxi) 
 - [【开发者头条】2022-07-20-流量加密怎么办？主流webshell管理工具流量解密分析【附解密脚本】](https://toutiao.io/k/abm2jy0) 
 - [【开发者头条】2022-07-20-推荐-高并发，你真的理解透彻了吗？](https://toutiao.io/k/93k2zfb) 
 

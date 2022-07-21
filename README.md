@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-07-21 13:58:22，:rocket: 更新条数: +2028， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-07-21 14:14:38，:rocket: 更新条数: +2029， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-07-21-从-anki、onenote-到-obsidian，一名小镇做题家的笔记进化史](https://www.v2ex.com/t/867858) ![](assets/new.png)  
+- [2022-07-21-MacBook-的声音上多了一个-TFFAudio-的输入输出设备，怎么删除？](https://www.v2ex.com/t/867857) ![](assets/new.png)  
 - [2022-07-21-话说和-hr-处对象是怎样的体验？](https://www.v2ex.com/t/867856) ![](assets/new.png)  
 - [2022-07-21-GitHub-Student-Developer-Pack-一直申请失败怎么办](https://www.v2ex.com/t/867855) ![](assets/new.png)  
 - [2022-07-21-如果开发一个云笔记应该怎么设计?](https://www.v2ex.com/t/867854) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-07-21-为满足网友需求，现在-i996-免费内网穿透已增加自定义域名功能](https://www.v2ex.com/t/867840) ![](assets/new.png)  
 - [2022-07-21-T-Chat-第六期「-Yuu---我在-Linkedin-做移动端-」7-月-21-日（今晚）21:00-开播](https://www.v2ex.com/t/867839) ![](assets/new.png)  
 - [2022-07-21-Spotfy-台区家庭组长期](https://www.v2ex.com/t/867838) ![](assets/new.png)  
-- [2022-07-21-互联网法院起诉腾讯永封微信号的赢面有多大？](https://www.v2ex.com/t/867837) ![](assets/new.png)  
-- [2022-07-21-我有两台不在同一局域网的内网-Linux-机器-A,-B,-还有一个公网服务器-C,-A-可以-ssh-到-C,-B-也可以,-我有什么办法通过-C-来实现-A-B-通信么?-或者-A-直接拷贝文...](https://www.v2ex.com/t/867836) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

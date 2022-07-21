@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2022-07-21 13:58:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-21 14:14:38。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-07-21-从-anki、onenote-到-obsidian，一名小镇做题家的笔记进化史](https://www.v2ex.com/t/867858) 
+- [2022-07-21-MacBook-的声音上多了一个-TFFAudio-的输入输出设备，怎么删除？](https://www.v2ex.com/t/867857) 
 - [2022-07-21-话说和-hr-处对象是怎样的体验？](https://www.v2ex.com/t/867856) 
 - [2022-07-21-GitHub-Student-Developer-Pack-一直申请失败怎么办](https://www.v2ex.com/t/867855) 
 - [2022-07-21-如果开发一个云笔记应该怎么设计?](https://www.v2ex.com/t/867854) 
@@ -46,4 +48,3 @@
 - [2022-07-21-Docker-Hub-搜不到镜像，推送已过-24-小时，是公开镜像，求解是为何？](https://www.v2ex.com/t/867813) 
 - [2022-07-21-一个仅需三步配置就能生成免费个人博客的开源模板：-vdoing-template](https://www.v2ex.com/t/867811) 
 - [2022-07-21-Notion-手机端细节做了负优化吗？](https://www.v2ex.com/t/867809) 
-- [2022-07-21-怎么发快递最实惠啊？求助](https://www.v2ex.com/t/867807) 

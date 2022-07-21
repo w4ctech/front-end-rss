@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-21 13:58:22。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-07-21 14:14:38。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,8 @@
 </summary>
 
 
+- [【V2EX】2022-07-21-从-anki、onenote-到-obsidian，一名小镇做题家的笔记进化史](https://www.v2ex.com/t/867858) 
+- [【V2EX】2022-07-21-MacBook-的声音上多了一个-TFFAudio-的输入输出设备，怎么删除？](https://www.v2ex.com/t/867857) 
 - [【V2EX】2022-07-21-话说和-hr-处对象是怎样的体验？](https://www.v2ex.com/t/867856) 
 - [【V2EX】2022-07-21-GitHub-Student-Developer-Pack-一直申请失败怎么办](https://www.v2ex.com/t/867855) 
 - [【V2EX】2022-07-21-如果开发一个云笔记应该怎么设计?](https://www.v2ex.com/t/867854) 
@@ -109,7 +111,6 @@
 - [【V2EX】2022-07-21-Docker-Hub-搜不到镜像，推送已过-24-小时，是公开镜像，求解是为何？](https://www.v2ex.com/t/867813) 
 - [【V2EX】2022-07-21-一个仅需三步配置就能生成免费个人博客的开源模板：-vdoing-template](https://www.v2ex.com/t/867811) 
 - [【V2EX】2022-07-21-Notion-手机端细节做了负优化吗？](https://www.v2ex.com/t/867809) 
-- [【V2EX】2022-07-21-怎么发快递最实惠啊？求助](https://www.v2ex.com/t/867807) 
 - [【技术头条】2022-07-21-浅谈契约测试-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15220&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fcontract-testing%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-21-单体-or-微服务？你以为是架构权衡？其实是认知负载！-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15219&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fmonolith-microservice-architectural-tradeoff-cognitive-load%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-21-DDD-中的几个困难问题-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15218&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fdifficult-problems-in-domain-driven-design%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

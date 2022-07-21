@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-07-21 01:07:43，:rocket: 更新条数: +2014， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-07-21 03:25:33，:rocket: 更新条数: +2022， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,26 +491,26 @@
 </summary>
 
 
-- [2022-07-21-请大家推荐个轻薄全能笔记本,8000-以内!](https://www.v2ex.com/t/867669) ![](assets/new.png)  
-- [2022-07-21-NAS-用固态硬盘做-RAID-1，需要品牌都一样吗？](https://www.v2ex.com/t/867668) ![](assets/new.png)  
-- [2022-07-21-关于-uniapp-的原生插件](https://www.v2ex.com/t/867667) ![](assets/new.png)  
-- [2022-07-20-Apple-是出于什么考量，在-macOS-上禁用了中国地区的-Apple-Pay？](https://www.v2ex.com/t/867665) ![](assets/new.png)  
-- [2022-07-20-安卓-11-支持-DNS-over-HTTP/3-啦](https://www.v2ex.com/t/867663) ![](assets/new.png)  
-- [2022-07-20-刚释出的-iOS15.6-修复了-Safari-书签同步的问题](https://www.v2ex.com/t/867662) ![](assets/new.png)  
-- [2022-07-20-__attribute__destructor-函数中的-if-语句无法执行](https://www.v2ex.com/t/867661) ![](assets/new.png)  
-- [2022-07-20-分享两个机器翻译工具](https://www.v2ex.com/t/867660) ![](assets/new.png)  
-- [2022-07-20-现在还有什么市场是上架-App-不需要软著的？](https://www.v2ex.com/t/867659) ![](assets/new.png)  
-- [2022-07-20-感觉-uber/fx-并不比-getInstance-工厂好用](https://www.v2ex.com/t/867658) ![](assets/new.png)  
-- [2022-07-20-5-年-UI-设计师找工作，作品详见链接。](https://www.v2ex.com/t/867656) ![](assets/new.png)  
-- [2022-07-20-Mac-下有没有好用的文件夹比对软件](https://www.v2ex.com/t/867655) ![](assets/new.png)  
-- [2022-07-20-发现一个-listary-的替代品，或者说以后的-listary6-会长这样](https://www.v2ex.com/t/867654) ![](assets/new.png)  
-- [2022-07-20-做解析接入的时候，能只接入一个子域名吗？](https://www.v2ex.com/t/867652) ![](assets/new.png)  
-- [2022-07-20-腾讯云的对象存储有内容审查吗？（观创作没了，心凉有感）](https://www.v2ex.com/t/867651) ![](assets/new.png)  
-- [2022-07-20-Google-Domains-注册的域名如何在国内用作-DDNS-域名](https://www.v2ex.com/t/867650) ![](assets/new.png)  
-- [2022-07-20-如果突破端口白名单网络封锁？](https://www.v2ex.com/t/867649) ![](assets/new.png)  
-- [2022-07-20-推荐博客和论坛！](https://www.v2ex.com/t/867648) ![](assets/new.png)  
-- [2022-07-20-nodejs-如何在单元测试中-mock-path.basename-的运行环境](https://www.v2ex.com/t/867647) ![](assets/new.png)  
-- [2022-07-20-微博怎么下载无水印原图](https://www.v2ex.com/t/867646) ![](assets/new.png)  
+- [2022-07-21-海外企业工作机会：程序员/工程师入职北欧企业，可以全家随行拿绿卡](https://www.v2ex.com/t/867711) ![](assets/new.png)  
+- [2022-07-21-请教一下，怎么强制页面在-360-浏览器下不给切换成兼容模式](https://www.v2ex.com/t/867710) ![](assets/new.png)  
+- [2022-07-21-2022-年-7-月份了，想买个配置差不多点的安卓原生系统的备用机，有没有推荐的](https://www.v2ex.com/t/867709) ![](assets/new.png)  
+- [2022-07-21-是选个可刷机路由，还是原厂路由+N1-呢？](https://www.v2ex.com/t/867708) ![](assets/new.png)  
+- [2022-07-21-nginx:-请教如何域名重定向](https://www.v2ex.com/t/867707) ![](assets/new.png)  
+- [2022-07-21-生活热爱者--Vol.03：分享几个可以试一试的生活小习惯](https://www.v2ex.com/t/867706) ![](assets/new.png)  
+- [2022-07-21-在-Java-中为什么不全部使用-static-方法？](https://www.v2ex.com/t/867705) ![](assets/new.png)  
+- [2022-07-21-上海全职｜-WLB-外企｜急招-20-40k*13-薪｜-Web-3D-前端开发和-3D-动画设计师🔜](https://www.v2ex.com/t/867703) ![](assets/new.png)  
+- [2022-07-21-大厂裁员我招人~-天使轮刚敲定，需要前端一名~](https://www.v2ex.com/t/867702) ![](assets/new.png)  
+- [2022-07-21-现阶段上海工作机会怎么样](https://www.v2ex.com/t/867701) ![](assets/new.png)  
+- [2022-07-21-JS-这几句能连一起写吗？](https://www.v2ex.com/t/867700) ![](assets/new.png)  
+- [2022-07-21-软件的版权会过期吗?](https://www.v2ex.com/t/867699) ![](assets/new.png)  
+- [2022-07-21-大一女生用笔记本推荐](https://www.v2ex.com/t/867698) ![](assets/new.png)  
+- [2022-07-21-各位怎么在安卓上收取-Gmail-邮件](https://www.v2ex.com/t/867696) ![](assets/new.png)  
+- [2022-07-21-针对多层级的目录树展开，应该如何做设计？](https://www.v2ex.com/t/867694) ![](assets/new.png)  
+- [2022-07-21-Teams-用不了了](https://www.v2ex.com/t/867693) ![](assets/new.png)  
+- [2022-07-21-PHP-的-curl-和-Linux-的-curl-命令有区别吗？](https://www.v2ex.com/t/867692) ![](assets/new.png)  
+- [2022-07-21-百度地图打车-vs-高德地图打车](https://www.v2ex.com/t/867690) ![](assets/new.png)  
+- [2022-07-21-镜像数据烧录和复制粘贴有什么区别？用-rufus-将镜像烧录到-U-盘和直接复制粘贴，结果不一致。](https://www.v2ex.com/t/867689) ![](assets/new.png)  
+- [2022-07-21-出售一个-VPS,-价格-50](https://www.v2ex.com/t/867685) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -522,6 +522,7 @@
 </summary>
 
 
+- [2022-07-21-浅谈契约测试-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15220&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fcontract-testing%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-07-21-单体-or-微服务？你以为是架构权衡？其实是认知负载！-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15219&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fmonolith-microservice-architectural-tradeoff-cognitive-load%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-07-21-DDD-中的几个困难问题-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15218&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fdifficult-problems-in-domain-driven-design%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-07-21-CPU是如何进行分支预测的？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15217&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FZ9KWmfCBhCixdkZGEeLStQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
@@ -541,7 +542,6 @@
 - [2022-07-21-六则糟糕代码的优化方案分享-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15203&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494237%26amp%3Bidx%3D2%26amp%3Bsn%3D5f215e0545d46580d00fd10202ae369b%26amp%3Bchksm%3Dfa3f0b06cd488210c5f79909b76fac660d37bd59d283105090d62913f8c30df847e562459038%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-07-21-PyCharm与Jupyter完美融合，Jupytext来啦！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15202&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494236%26amp%3Bidx%3D2%26amp%3Bsn%3D7b193dc565e75d3495acf9bc8629c709%26amp%3Bchksm%3Dfa3f0b07cd488211fd5df7592f76aec322281b32f62e621a4ded86205877045285860ec8aee7%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-07-21-别瞎学了，这几门语言要被淘汰了！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15201&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494220%26amp%3Bidx%3D1%26amp%3Bsn%3D51c5e4c965ea710ff3ce153c53facb9c%26amp%3Bchksm%3Dfa3f0b17cd48820194b637429cbe4639886a56f0ac5e8fa84299fee0057b67c74f05392ff237%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-07-21-敏捷教练技术的融合方法-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15200&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fagile-coach-techniques%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -555,12 +555,19 @@
 
 - [2022-07-21-聊聊Java中代码优化的30个小技巧](https://toutiao.io/k/jv8g1r6) ![](assets/new.png)  
 - [2022-07-21-换掉Postman，事实证明它更牛逼！](https://toutiao.io/k/uncruss) ![](assets/new.png)  
-- [2022-07-21-彻底搞懂之C++智能指针](https://toutiao.io/k/yw510cs) ![](assets/new.png)  
 - [2022-07-21-使用Go语言开发eBPF程序](https://toutiao.io/k/c8oeoo7) ![](assets/new.png)  
+- [2022-07-21-彻底搞懂之C++智能指针](https://toutiao.io/k/yw510cs) ![](assets/new.png)  
 - [2022-07-21-实时分析需要SQL和复杂查询](https://toutiao.io/k/lg3qc2w) ![](assets/new.png)  
 - [2022-07-21-松果出行-x-StarRocks：实时数仓新范式的实践之路](https://toutiao.io/k/5vklfca) ![](assets/new.png)  
-- [2022-07-21-端智能实践分享：模型评估和编译](https://toutiao.io/k/cmm5qks) ![](assets/new.png)  
 - [2022-07-21-跨框架的-UI-组件封装技术](https://toutiao.io/k/fh0sw9n) ![](assets/new.png)  
+- [2022-07-21-端智能实践分享：模型评估和编译](https://toutiao.io/k/cmm5qks) ![](assets/new.png)  
+- [2022-07-21-揭秘技术-Leader-必备的-7-大清奇脑回路](https://toutiao.io/k/btmeu2x) ![](assets/new.png)  
+- [2022-07-21-全场景流量验证系统](https://toutiao.io/k/yuv19vm) ![](assets/new.png)  
+- [2022-07-21-超详细的-Doris-读写流程](https://toutiao.io/k/xtqv9br) ![](assets/new.png)  
+- [2022-07-21-从构建工具看-Android-APK-编译打包流程](https://toutiao.io/k/o2164sj) ![](assets/new.png)  
+- [2022-07-21-【萌新解题】两数相除](https://toutiao.io/k/4tcpq3s) ![](assets/new.png)  
+- [2022-07-21-构建人工智能产品/业务的两种策略by-Andrew-Ng](https://toutiao.io/k/nx1ko1w) ![](assets/new.png)  
+- [2022-07-21-应用启动加速-并发初始化spring-bean](https://toutiao.io/k/rtkrkkf) ![](assets/new.png)  
 - [2022-07-21-推荐-高并发，你真的理解透彻了吗？](https://toutiao.io/k/93k2zfb) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

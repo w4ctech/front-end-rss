@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-07-21 13:12:35，:rocket: 更新条数: +2026， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-07-21 13:58:22，:rocket: 更新条数: +2028， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,9 @@
 </summary>
 
 
+- [2022-07-21-话说和-hr-处对象是怎样的体验？](https://www.v2ex.com/t/867856) ![](assets/new.png)  
+- [2022-07-21-GitHub-Student-Developer-Pack-一直申请失败怎么办](https://www.v2ex.com/t/867855) ![](assets/new.png)  
+- [2022-07-21-如果开发一个云笔记应该怎么设计?](https://www.v2ex.com/t/867854) ![](assets/new.png)  
 - [2022-07-21-这个老-mbp-的屏幕是完蛋了？](https://www.v2ex.com/t/867853) ![](assets/new.png)  
 - [2022-07-21-2022-找工作记录](https://www.v2ex.com/t/867852) ![](assets/new.png)  
 - [2022-07-21-Abort-翻译为「终止」还是「中止」？](https://www.v2ex.com/t/867851) ![](assets/new.png)  
@@ -508,9 +511,6 @@
 - [2022-07-21-Spotfy-台区家庭组长期](https://www.v2ex.com/t/867838) ![](assets/new.png)  
 - [2022-07-21-互联网法院起诉腾讯永封微信号的赢面有多大？](https://www.v2ex.com/t/867837) ![](assets/new.png)  
 - [2022-07-21-我有两台不在同一局域网的内网-Linux-机器-A,-B,-还有一个公网服务器-C,-A-可以-ssh-到-C,-B-也可以,-我有什么办法通过-C-来实现-A-B-通信么?-或者-A-直接拷贝文...](https://www.v2ex.com/t/867836) ![](assets/new.png)  
-- [2022-07-21-vscode-不能用只有斜线这种符号的关键词来触发代码片段吗？](https://www.v2ex.com/t/867835) ![](assets/new.png)  
-- [2022-07-21-问个开-Apple-One-家庭车的问题](https://www.v2ex.com/t/867834) ![](assets/new.png)  
-- [2022-07-21-自由职业者，上月医社保-878，这个月-909](https://www.v2ex.com/t/867833) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -561,8 +561,8 @@
 - [2022-07-21-全场景流量验证系统](https://toutiao.io/k/yuv19vm) ![](assets/new.png)  
 - [2022-07-21-实时分析需要SQL和复杂查询](https://toutiao.io/k/lg3qc2w) ![](assets/new.png)  
 - [2022-07-21-应用启动加速-并发初始化spring-bean](https://toutiao.io/k/rtkrkkf) ![](assets/new.png)  
-- [2022-07-21-构建人工智能产品/业务的两种策略by-Andrew-Ng](https://toutiao.io/k/nx1ko1w) ![](assets/new.png)  
 - [2022-07-21-超详细的-Doris-读写流程](https://toutiao.io/k/xtqv9br) ![](assets/new.png)  
+- [2022-07-21-构建人工智能产品/业务的两种策略by-Andrew-Ng](https://toutiao.io/k/nx1ko1w) ![](assets/new.png)  
 - [2022-07-21-跨框架的-UI-组件封装技术](https://toutiao.io/k/fh0sw9n) ![](assets/new.png)  
 - [2022-07-21-松果出行-x-StarRocks：实时数仓新范式的实践之路](https://toutiao.io/k/5vklfca) ![](assets/new.png)  
 - [2022-07-21-端智能实践分享：模型评估和编译](https://toutiao.io/k/cmm5qks) ![](assets/new.png)  

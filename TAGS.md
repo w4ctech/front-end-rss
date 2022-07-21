@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-07-21 13:12:35。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-21 13:58:22。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -332,6 +332,7 @@
 
 
 
+- [【V2EX】GitHub-Student-Developer-Pack-一直申请失败怎么办](https://www.v2ex.com/t/867855)
 - [【V2EX】试过跨平台拷贝-git-管理的项目吗？大佬们](https://www.v2ex.com/t/867822)
 - [......【查看更多】......](./details/tags/git-svn.md)
 

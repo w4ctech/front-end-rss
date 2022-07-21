@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-07-21 07:13:28，:rocket: 更新条数: +2018， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-07-21 07:40:28，:rocket: 更新条数: +2018， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,13 @@
 </summary>
 
 
+- [2022-07-21-所以-Thinkbook-14+/16+-6800H-版哪里可以买到？](https://www.v2ex.com/t/867774) ![](assets/new.png)  
+- [2022-07-21-咨询下大家的审批流都是怎么做的？](https://www.v2ex.com/t/867773) ![](assets/new.png)  
+- [2022-07-21-教育优惠安全下车](https://www.v2ex.com/t/867772) ![](assets/new.png)  
+- [2022-07-21-oracle-自建梯子访问-cloudflare-出现-403](https://www.v2ex.com/t/867771) ![](assets/new.png)  
+- [2022-07-21-求推荐几个新颖的中后台-UI-框架，-ant-design/elementUI/等看的有点审美疲劳了](https://www.v2ex.com/t/867770) ![](assets/new.png)  
+- [2022-07-21-ventura-修复了-intel-MBP-的-DSC-问题了吗?](https://www.v2ex.com/t/867769) ![](assets/new.png)  
+- [2022-07-21-开发一个可获取主流招标平台招标信息的应用怎么样？](https://www.v2ex.com/t/867767) ![](assets/new.png)  
 - [2022-07-21-LED-应用设计软件以及嵌入式开发相关的项目](https://www.v2ex.com/t/867765) ![](assets/new.png)  
 - [2022-07-21-openwrt-怎样默认解析内网-IPv6-地址](https://www.v2ex.com/t/867764) ![](assets/new.png)  
 - [2022-07-21-figma-有类似-css-变量的功能吗](https://www.v2ex.com/t/867763) ![](assets/new.png)  
@@ -504,13 +511,6 @@
 - [2022-07-21-嗨-V-友们，我做了一款番茄钟加氛围音播放-app，来这里送些永久激活码](https://www.v2ex.com/t/867753) ![](assets/new.png)  
 - [2022-07-21-群晖-surveillance-连接摄像头录像，为什么会有“灰影”/丢帧？](https://www.v2ex.com/t/867752) ![](assets/new.png)  
 - [2022-07-21-新手请教，关于操作列表的问题](https://www.v2ex.com/t/867751) ![](assets/new.png)  
-- [2022-07-21-有个疑问:-为什么机械硬盘-3.5-需要额外供电-2.5-不需要?](https://www.v2ex.com/t/867747) ![](assets/new.png)  
-- [2022-07-21-征战百度经验有感](https://www.v2ex.com/t/867745) ![](assets/new.png)  
-- [2022-07-21-讲道理-,为什么拼西西上面没有-13mini-卖](https://www.v2ex.com/t/867743) ![](assets/new.png)  
-- [2022-07-21-V-友们，工作太难找！](https://www.v2ex.com/t/867741) ![](assets/new.png)  
-- [2022-07-21-午休的时候，突然意识到我用了很久的假货](https://www.v2ex.com/t/867739) ![](assets/new.png)  
-- [2022-07-21-杭州大型美妆电商25k---40k-信息安全高级经理](https://www.v2ex.com/t/867738) ![](assets/new.png)  
-- [2022-07-21-不想给喵喵割蛋蛋定期给他找炮友可以吗](https://www.v2ex.com/t/867735) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -563,15 +563,15 @@
 - [2022-07-21-全场景流量验证系统](https://toutiao.io/k/yuv19vm) ![](assets/new.png)  
 - [2022-07-21-跨框架的-UI-组件封装技术](https://toutiao.io/k/fh0sw9n) ![](assets/new.png)  
 - [2022-07-21-松果出行-x-StarRocks：实时数仓新范式的实践之路](https://toutiao.io/k/5vklfca) ![](assets/new.png)  
-- [2022-07-21-端智能实践分享：模型评估和编译](https://toutiao.io/k/cmm5qks) ![](assets/new.png)  
 - [2022-07-21-构建人工智能产品/业务的两种策略by-Andrew-Ng](https://toutiao.io/k/nx1ko1w) ![](assets/new.png)  
+- [2022-07-21-端智能实践分享：模型评估和编译](https://toutiao.io/k/cmm5qks) ![](assets/new.png)  
 - [2022-07-21-超详细的-Doris-读写流程](https://toutiao.io/k/xtqv9br) ![](assets/new.png)  
 - [2022-07-21-从构建工具看-Android-APK-编译打包流程](https://toutiao.io/k/o2164sj) ![](assets/new.png)  
 - [2022-07-21-【萌新解题】两数相除](https://toutiao.io/k/4tcpq3s) ![](assets/new.png)  
 - [2022-07-21-特斯拉为何使用.NET-Core技术框架？](https://toutiao.io/k/kpg0766) ![](assets/new.png)  
 - [2022-07-21-敲黑板！Kubernetes-架构核心知识点就这么多](https://toutiao.io/k/1vb52po) ![](assets/new.png)  
-- [2022-07-21-巧用-Kubernetes-中的-Leader-选举机制来实现自己的-HA-应用](https://toutiao.io/k/k4vb8il) ![](assets/new.png)  
 - [2022-07-21-动-recover-刀子，能优化-Go-错误处理吗？](https://toutiao.io/k/lgx592j) ![](assets/new.png)  
+- [2022-07-21-巧用-Kubernetes-中的-Leader-选举机制来实现自己的-HA-应用](https://toutiao.io/k/k4vb8il) ![](assets/new.png)  
 - [2022-07-21-推荐-高并发，你真的理解透彻了吗？](https://toutiao.io/k/93k2zfb) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

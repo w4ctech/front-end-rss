@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-21 07:13:28。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-07-21 07:40:28。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,13 @@
 </summary>
 
 
+- [【V2EX】2022-07-21-所以-Thinkbook-14+/16+-6800H-版哪里可以买到？](https://www.v2ex.com/t/867774) 
+- [【V2EX】2022-07-21-咨询下大家的审批流都是怎么做的？](https://www.v2ex.com/t/867773) 
+- [【V2EX】2022-07-21-教育优惠安全下车](https://www.v2ex.com/t/867772) 
+- [【V2EX】2022-07-21-oracle-自建梯子访问-cloudflare-出现-403](https://www.v2ex.com/t/867771) 
+- [【V2EX】2022-07-21-求推荐几个新颖的中后台-UI-框架，-ant-design/elementUI/等看的有点审美疲劳了](https://www.v2ex.com/t/867770) 
+- [【V2EX】2022-07-21-ventura-修复了-intel-MBP-的-DSC-问题了吗?](https://www.v2ex.com/t/867769) 
+- [【V2EX】2022-07-21-开发一个可获取主流招标平台招标信息的应用怎么样？](https://www.v2ex.com/t/867767) 
 - [【V2EX】2022-07-21-LED-应用设计软件以及嵌入式开发相关的项目](https://www.v2ex.com/t/867765) 
 - [【V2EX】2022-07-21-openwrt-怎样默认解析内网-IPv6-地址](https://www.v2ex.com/t/867764) 
 - [【V2EX】2022-07-21-figma-有类似-css-变量的功能吗](https://www.v2ex.com/t/867763) 
@@ -93,13 +100,6 @@
 - [【V2EX】2022-07-21-如何在公司不允许的条件下连接公司内网](https://www.v2ex.com/t/867727) 
 - [【V2EX】2022-07-21-go-项目想用阿里云的容器服务-Kubernetes-搭建怎么样？](https://www.v2ex.com/t/867726) 
 - [【V2EX】2022-07-21-苹果配置摆烂可能只是国外大环境使然](https://www.v2ex.com/t/867725) 
-- [【V2EX】2022-07-21-身份证号的-X-是不是一个糟糕的设计？](https://www.v2ex.com/t/867724) 
-- [【V2EX】2022-07-21-酷玩周刊-第-10-期](https://www.v2ex.com/t/867723) 
-- [【V2EX】2022-07-21-Windows-不接显示器开机的分辨率问题](https://www.v2ex.com/t/867722) 
-- [【V2EX】2022-07-21-2022-m2-air-的-magsafe-和旧款的-mac-magsafe-可以混用吗？](https://www.v2ex.com/t/867721) 
-- [【V2EX】2022-07-21-准备仲裁一波,如何利益最大化](https://www.v2ex.com/t/867720) 
-- [【V2EX】2022-07-21-wasm-插件配置问题，怎么把-wasm-转成-istio-插件](https://www.v2ex.com/t/867719) 
-- [【V2EX】2022-07-21-想问下电动车主春运跑高速充电怎么解决?-排队几个小时吗?](https://www.v2ex.com/t/867718) 
 - [【技术头条】2022-07-21-浅谈契约测试-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15220&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fcontract-testing%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-21-单体-or-微服务？你以为是架构权衡？其实是认知负载！-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15219&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fmonolith-microservice-architectural-tradeoff-cognitive-load%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-21-DDD-中的几个困难问题-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15218&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fdifficult-problems-in-domain-driven-design%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -130,15 +130,15 @@
 - [【开发者头条】2022-07-21-全场景流量验证系统](https://toutiao.io/k/yuv19vm) 
 - [【开发者头条】2022-07-21-跨框架的-UI-组件封装技术](https://toutiao.io/k/fh0sw9n) 
 - [【开发者头条】2022-07-21-松果出行-x-StarRocks：实时数仓新范式的实践之路](https://toutiao.io/k/5vklfca) 
-- [【开发者头条】2022-07-21-端智能实践分享：模型评估和编译](https://toutiao.io/k/cmm5qks) 
 - [【开发者头条】2022-07-21-构建人工智能产品/业务的两种策略by-Andrew-Ng](https://toutiao.io/k/nx1ko1w) 
+- [【开发者头条】2022-07-21-端智能实践分享：模型评估和编译](https://toutiao.io/k/cmm5qks) 
 - [【开发者头条】2022-07-21-超详细的-Doris-读写流程](https://toutiao.io/k/xtqv9br) 
 - [【开发者头条】2022-07-21-从构建工具看-Android-APK-编译打包流程](https://toutiao.io/k/o2164sj) 
 - [【开发者头条】2022-07-21-【萌新解题】两数相除](https://toutiao.io/k/4tcpq3s) 
 - [【开发者头条】2022-07-21-特斯拉为何使用.NET-Core技术框架？](https://toutiao.io/k/kpg0766) 
 - [【开发者头条】2022-07-21-敲黑板！Kubernetes-架构核心知识点就这么多](https://toutiao.io/k/1vb52po) 
-- [【开发者头条】2022-07-21-巧用-Kubernetes-中的-Leader-选举机制来实现自己的-HA-应用](https://toutiao.io/k/k4vb8il) 
 - [【开发者头条】2022-07-21-动-recover-刀子，能优化-Go-错误处理吗？](https://toutiao.io/k/lgx592j) 
+- [【开发者头条】2022-07-21-巧用-Kubernetes-中的-Leader-选举机制来实现自己的-HA-应用](https://toutiao.io/k/k4vb8il) 
 - [【开发者头条】2022-07-21-推荐-高并发，你真的理解透彻了吗？](https://toutiao.io/k/93k2zfb) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>

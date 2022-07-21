@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-21 04:16:37。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-07-21 05:09:31。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,14 @@
 </summary>
 
 
+- [【V2EX】2022-07-21-如何在公司不允许的条件下连接公司内网](https://www.v2ex.com/t/867727) 
+- [【V2EX】2022-07-21-go-项目想用阿里云的容器服务-Kubernetes-搭建怎么样？](https://www.v2ex.com/t/867726) 
+- [【V2EX】2022-07-21-苹果配置摆烂可能只是国外大环境使然](https://www.v2ex.com/t/867725) 
+- [【V2EX】2022-07-21-身份证号的-X-是不是一个糟糕的设计？](https://www.v2ex.com/t/867724) 
+- [【V2EX】2022-07-21-酷玩周刊-第-10-期](https://www.v2ex.com/t/867723) 
+- [【V2EX】2022-07-21-Windows-不接显示器开机的分辨率问题](https://www.v2ex.com/t/867722) 
+- [【V2EX】2022-07-21-2022-m2-air-的-magsafe-和旧款的-mac-magsafe-可以混用吗？](https://www.v2ex.com/t/867721) 
+- [【V2EX】2022-07-21-准备仲裁一波,如何利益最大化](https://www.v2ex.com/t/867720) 
 - [【V2EX】2022-07-21-wasm-插件配置问题，怎么把-wasm-转成-istio-插件](https://www.v2ex.com/t/867719) 
 - [【V2EX】2022-07-21-想问下电动车主春运跑高速充电怎么解决?-排队几个小时吗?](https://www.v2ex.com/t/867718) 
 - [【V2EX】2022-07-21-新人求支持](https://www.v2ex.com/t/867717) 
@@ -102,14 +110,6 @@
 - [【V2EX】2022-07-21-微信读书-吐槽-客服何处寻-吐槽一下微信读书-ios-会员和安卓会员不一致问题](https://www.v2ex.com/t/867681) 
 - [【V2EX】2022-07-21-Microsoft-Teams-故障](https://www.v2ex.com/t/867680) 
 - [【V2EX】2022-07-21-Apple-MacBook-Pro-13-寸-M2-芯片-开箱视频](https://www.v2ex.com/t/867679) 
-- [【V2EX】2022-07-21-UHD630-在-Windows-下的共享-GPU-内存](https://www.v2ex.com/t/867678) 
-- [【V2EX】2022-07-21-「摸鱼时间」晒晒俺的-Apple-套装：-iPad2+AirPods2+-iPhone6s+MacBook-pro13-m1，大家一起晒晒看](https://www.v2ex.com/t/867677) 
-- [【V2EX】2022-07-21-好奇一下，一般-MacBook-系列私拆后盖影响保修吗？](https://www.v2ex.com/t/867676) 
-- [【V2EX】2022-07-21-如何相对舒服地加班](https://www.v2ex.com/t/867675) 
-- [【V2EX】2022-07-21-我就想问下这个论坛有管理员吗?我回复都回复不了?](https://www.v2ex.com/t/867674) 
-- [【V2EX】2022-07-21-有公网-ip，为什么-tailscale-还是会打洞失败走-derp](https://www.v2ex.com/t/867672) 
-- [【V2EX】2022-07-21-Mac-OS-12.5-更新开始推送-有什么新特性bug吗](https://www.v2ex.com/t/867671) 
-- [【V2EX】2022-07-21-请教大佬，公司内部知识库框架有没有推荐的](https://www.v2ex.com/t/867670) 
 - [【技术头条】2022-07-21-浅谈契约测试-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15220&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fcontract-testing%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-21-单体-or-微服务？你以为是架构权衡？其实是认知负载！-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15219&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fmonolith-microservice-architectural-tradeoff-cognitive-load%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-21-DDD-中的几个困难问题-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15218&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fdifficult-problems-in-domain-driven-design%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -133,18 +133,18 @@
 - [【开发者头条】2022-07-21-聊聊Java中代码优化的30个小技巧](https://toutiao.io/k/jv8g1r6) 
 - [【开发者头条】2022-07-21-使用Go语言开发eBPF程序](https://toutiao.io/k/c8oeoo7) 
 - [【开发者头条】2022-07-21-换掉Postman，事实证明它更牛逼！](https://toutiao.io/k/uncruss) 
-- [【开发者头条】2022-07-21-彻底搞懂之C++智能指针](https://toutiao.io/k/yw510cs) 
 - [【开发者头条】2022-07-21-揭秘技术-Leader-必备的-7-大清奇脑回路](https://toutiao.io/k/btmeu2x) 
+- [【开发者头条】2022-07-21-彻底搞懂之C++智能指针](https://toutiao.io/k/yw510cs) 
 - [【开发者头条】2022-07-21-实时分析需要SQL和复杂查询](https://toutiao.io/k/lg3qc2w) 
 - [【开发者头条】2022-07-21-跨框架的-UI-组件封装技术](https://toutiao.io/k/fh0sw9n) 
 - [【开发者头条】2022-07-21-松果出行-x-StarRocks：实时数仓新范式的实践之路](https://toutiao.io/k/5vklfca) 
 - [【开发者头条】2022-07-21-端智能实践分享：模型评估和编译](https://toutiao.io/k/cmm5qks) 
-- [【开发者头条】2022-07-21-全场景流量验证系统](https://toutiao.io/k/yuv19vm) 
 - [【开发者头条】2022-07-21-应用启动加速-并发初始化spring-bean](https://toutiao.io/k/rtkrkkf) 
+- [【开发者头条】2022-07-21-全场景流量验证系统](https://toutiao.io/k/yuv19vm) 
+- [【开发者头条】2022-07-21-构建人工智能产品/业务的两种策略by-Andrew-Ng](https://toutiao.io/k/nx1ko1w) 
 - [【开发者头条】2022-07-21-超详细的-Doris-读写流程](https://toutiao.io/k/xtqv9br) 
 - [【开发者头条】2022-07-21-从构建工具看-Android-APK-编译打包流程](https://toutiao.io/k/o2164sj) 
 - [【开发者头条】2022-07-21-【萌新解题】两数相除](https://toutiao.io/k/4tcpq3s) 
-- [【开发者头条】2022-07-21-构建人工智能产品/业务的两种策略by-Andrew-Ng](https://toutiao.io/k/nx1ko1w) 
 - [【开发者头条】2022-07-21-推荐-高并发，你真的理解透彻了吗？](https://toutiao.io/k/93k2zfb) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>

@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-07-21 03:25:33。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-21 04:16:37。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -286,7 +286,6 @@
 - [【张鑫旭-鑫空间-鑫生活】基于文字的URL锚点定位与::target-text样式设置](https://www.zhangxinxu.com/wordpress/2022/06/url-anchor-target-text/)
 - [【V2EX】请教一下，怎么强制页面在-360-浏览器下不给切换成兼容模式](https://www.v2ex.com/t/867710)
 - [【V2EX】PHP-的-curl-和-Linux-的-curl-命令有区别吗？](https://www.v2ex.com/t/867692)
-- [【V2EX】刚释出的-iOS15.6-修复了-Safari-书签同步的问题](https://www.v2ex.com/t/867662)
 - [【开发者头条】换掉Postman，事实证明它更牛逼！](https://toutiao.io/k/uncruss)
 - [......【查看更多】......](./details/tags/browser.md)
 
@@ -305,7 +304,6 @@
 
 
 - [【V2EX】UHD630-在-Windows-下的共享-GPU-内存](https://www.v2ex.com/t/867678)
-- [【V2EX】安卓-11-支持-DNS-over-HTTP/3-啦](https://www.v2ex.com/t/867663)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-21 03:25:33。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-21 04:16:37。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -16,5 +16,4 @@
 - [2022-06-12-基于文字的URL锚点定位与::target-text样式设置](https://www.zhangxinxu.com/wordpress/2022/06/url-anchor-target-text/) 
 - [2022-07-21-请教一下，怎么强制页面在-360-浏览器下不给切换成兼容模式](https://www.v2ex.com/t/867710) 
 - [2022-07-21-PHP-的-curl-和-Linux-的-curl-命令有区别吗？](https://www.v2ex.com/t/867692) 
-- [2022-07-20-刚释出的-iOS15.6-修复了-Safari-书签同步的问题](https://www.v2ex.com/t/867662) 
 - [2022-07-21-换掉Postman，事实证明它更牛逼！](https://toutiao.io/k/uncruss) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-21 12:27:47。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-07-21 13:12:35。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,9 @@
 </summary>
 
 
+- [【V2EX】2022-07-21-这个老-mbp-的屏幕是完蛋了？](https://www.v2ex.com/t/867853) 
+- [【V2EX】2022-07-21-2022-找工作记录](https://www.v2ex.com/t/867852) 
+- [【V2EX】2022-07-21-Abort-翻译为「终止」还是「中止」？](https://www.v2ex.com/t/867851) 
 - [【V2EX】2022-07-21-因为丢水里洗了下手机，我的-iPhone-震动出毛病了，什么奇妙情况？](https://www.v2ex.com/t/867850) 
 - [【V2EX】2022-07-21-VSCode-的-CodeLLDB-扩展怎么配置](https://www.v2ex.com/t/867849) 
 - [【V2EX】2022-07-21-金属无线充电支架都会漏电吗？](https://www.v2ex.com/t/867848) 
@@ -105,7 +108,6 @@
 - [【V2EX】2022-07-21-Notion-手机端细节做了负优化吗？](https://www.v2ex.com/t/867809) 
 - [【V2EX】2022-07-21-怎么发快递最实惠啊？求助](https://www.v2ex.com/t/867807) 
 - [【V2EX】2022-07-21-iOS-端的-Telegram，快速翻阅历史记录就会断连，一直显示连接中...](https://www.v2ex.com/t/867806) 
-- [【V2EX】2022-07-21-LOGO-设计，平面设计：年薪-18w-起步，双休，可睡到下午，远程工作：](https://www.v2ex.com/t/867803) 
 - [【技术头条】2022-07-21-浅谈契约测试-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15220&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fcontract-testing%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-21-单体-or-微服务？你以为是架构权衡？其实是认知负载！-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15219&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fmonolith-microservice-architectural-tradeoff-cognitive-load%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-21-DDD-中的几个困难问题-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15218&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fdifficult-problems-in-domain-driven-design%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -131,8 +133,8 @@
 - [【开发者头条】2022-07-21-使用Go语言开发eBPF程序](https://toutiao.io/k/c8oeoo7) 
 - [【开发者头条】2022-07-21-揭秘技术-Leader-必备的-7-大清奇脑回路](https://toutiao.io/k/btmeu2x) 
 - [【开发者头条】2022-07-21-彻底搞懂之C++智能指针](https://toutiao.io/k/yw510cs) 
-- [【开发者头条】2022-07-21-实时分析需要SQL和复杂查询](https://toutiao.io/k/lg3qc2w) 
 - [【开发者头条】2022-07-21-全场景流量验证系统](https://toutiao.io/k/yuv19vm) 
+- [【开发者头条】2022-07-21-实时分析需要SQL和复杂查询](https://toutiao.io/k/lg3qc2w) 
 - [【开发者头条】2022-07-21-应用启动加速-并发初始化spring-bean](https://toutiao.io/k/rtkrkkf) 
 - [【开发者头条】2022-07-21-构建人工智能产品/业务的两种策略by-Andrew-Ng](https://toutiao.io/k/nx1ko1w) 
 - [【开发者头条】2022-07-21-超详细的-Doris-读写流程](https://toutiao.io/k/xtqv9br) 
@@ -143,8 +145,8 @@
 - [【开发者头条】2022-07-21-【萌新解题】两数相除](https://toutiao.io/k/4tcpq3s) 
 - [【开发者头条】2022-07-21-敲黑板！Kubernetes-架构核心知识点就这么多](https://toutiao.io/k/1vb52po) 
 - [【开发者头条】2022-07-21-特斯拉为何使用.NET-Core技术框架？](https://toutiao.io/k/kpg0766) 
-- [【开发者头条】2022-07-21-巧用-Kubernetes-中的-Leader-选举机制来实现自己的-HA-应用](https://toutiao.io/k/k4vb8il) 
 - [【开发者头条】2022-07-21-动-recover-刀子，能优化-Go-错误处理吗？](https://toutiao.io/k/lgx592j) 
+- [【开发者头条】2022-07-21-巧用-Kubernetes-中的-Leader-选举机制来实现自己的-HA-应用](https://toutiao.io/k/k4vb8il) 
 - [【开发者头条】2022-07-21-推荐-高并发，你真的理解透彻了吗？](https://toutiao.io/k/93k2zfb) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-07-21 12:27:47，:rocket: 更新条数: +2024， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-07-21 13:12:35，:rocket: 更新条数: +2026， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,9 @@
 </summary>
 
 
+- [2022-07-21-这个老-mbp-的屏幕是完蛋了？](https://www.v2ex.com/t/867853) ![](assets/new.png)  
+- [2022-07-21-2022-找工作记录](https://www.v2ex.com/t/867852) ![](assets/new.png)  
+- [2022-07-21-Abort-翻译为「终止」还是「中止」？](https://www.v2ex.com/t/867851) ![](assets/new.png)  
 - [2022-07-21-因为丢水里洗了下手机，我的-iPhone-震动出毛病了，什么奇妙情况？](https://www.v2ex.com/t/867850) ![](assets/new.png)  
 - [2022-07-21-VSCode-的-CodeLLDB-扩展怎么配置](https://www.v2ex.com/t/867849) ![](assets/new.png)  
 - [2022-07-21-金属无线充电支架都会漏电吗？](https://www.v2ex.com/t/867848) ![](assets/new.png)  
@@ -508,9 +511,6 @@
 - [2022-07-21-vscode-不能用只有斜线这种符号的关键词来触发代码片段吗？](https://www.v2ex.com/t/867835) ![](assets/new.png)  
 - [2022-07-21-问个开-Apple-One-家庭车的问题](https://www.v2ex.com/t/867834) ![](assets/new.png)  
 - [2022-07-21-自由职业者，上月医社保-878，这个月-909](https://www.v2ex.com/t/867833) ![](assets/new.png)  
-- [2022-07-21-是否有办法转移-Kindle-中的笔记呢？](https://www.v2ex.com/t/867832) ![](assets/new.png)  
-- [2022-07-21-写了一个-cargo-插件](https://www.v2ex.com/t/867831) ![](assets/new.png)  
-- [2022-07-21-现在的云服务吧，真不知道该说是好用还是不好用](https://www.v2ex.com/t/867830) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -558,8 +558,8 @@
 - [2022-07-21-使用Go语言开发eBPF程序](https://toutiao.io/k/c8oeoo7) ![](assets/new.png)  
 - [2022-07-21-揭秘技术-Leader-必备的-7-大清奇脑回路](https://toutiao.io/k/btmeu2x) ![](assets/new.png)  
 - [2022-07-21-彻底搞懂之C++智能指针](https://toutiao.io/k/yw510cs) ![](assets/new.png)  
-- [2022-07-21-实时分析需要SQL和复杂查询](https://toutiao.io/k/lg3qc2w) ![](assets/new.png)  
 - [2022-07-21-全场景流量验证系统](https://toutiao.io/k/yuv19vm) ![](assets/new.png)  
+- [2022-07-21-实时分析需要SQL和复杂查询](https://toutiao.io/k/lg3qc2w) ![](assets/new.png)  
 - [2022-07-21-应用启动加速-并发初始化spring-bean](https://toutiao.io/k/rtkrkkf) ![](assets/new.png)  
 - [2022-07-21-构建人工智能产品/业务的两种策略by-Andrew-Ng](https://toutiao.io/k/nx1ko1w) ![](assets/new.png)  
 - [2022-07-21-超详细的-Doris-读写流程](https://toutiao.io/k/xtqv9br) ![](assets/new.png)  
@@ -570,8 +570,8 @@
 - [2022-07-21-【萌新解题】两数相除](https://toutiao.io/k/4tcpq3s) ![](assets/new.png)  
 - [2022-07-21-敲黑板！Kubernetes-架构核心知识点就这么多](https://toutiao.io/k/1vb52po) ![](assets/new.png)  
 - [2022-07-21-特斯拉为何使用.NET-Core技术框架？](https://toutiao.io/k/kpg0766) ![](assets/new.png)  
-- [2022-07-21-巧用-Kubernetes-中的-Leader-选举机制来实现自己的-HA-应用](https://toutiao.io/k/k4vb8il) ![](assets/new.png)  
 - [2022-07-21-动-recover-刀子，能优化-Go-错误处理吗？](https://toutiao.io/k/lgx592j) ![](assets/new.png)  
+- [2022-07-21-巧用-Kubernetes-中的-Leader-选举机制来实现自己的-HA-应用](https://toutiao.io/k/k4vb8il) ![](assets/new.png)  
 - [2022-07-21-推荐-高并发，你真的理解透彻了吗？](https://toutiao.io/k/93k2zfb) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

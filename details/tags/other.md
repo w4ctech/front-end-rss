@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-21 12:27:47。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-21 13:12:35。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,9 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-07-21-这个老-mbp-的屏幕是完蛋了？](https://www.v2ex.com/t/867853) 
+- [2022-07-21-2022-找工作记录](https://www.v2ex.com/t/867852) 
+- [2022-07-21-Abort-翻译为「终止」还是「中止」？](https://www.v2ex.com/t/867851) 
 - [2022-07-21-因为丢水里洗了下手机，我的-iPhone-震动出毛病了，什么奇妙情况？](https://www.v2ex.com/t/867850) 
 - [2022-07-21-VSCode-的-CodeLLDB-扩展怎么配置](https://www.v2ex.com/t/867849) 
 - [2022-07-21-金属无线充电支架都会漏电吗？](https://www.v2ex.com/t/867848) 
@@ -1944,7 +1947,6 @@
 - [2022-07-21-一个仅需三步配置就能生成免费个人博客的开源模板：-vdoing-template](https://www.v2ex.com/t/867811) 
 - [2022-07-21-怎么发快递最实惠啊？求助](https://www.v2ex.com/t/867807) 
 - [2022-07-21-iOS-端的-Telegram，快速翻阅历史记录就会断连，一直显示连接中...](https://www.v2ex.com/t/867806) 
-- [2022-07-21-LOGO-设计，平面设计：年薪-18w-起步，双休，可睡到下午，远程工作：](https://www.v2ex.com/t/867803) 
 - [2022-07-21-浅谈契约测试-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15220&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fcontract-testing%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-21-单体-or-微服务？你以为是架构权衡？其实是认知负载！-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15219&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fmonolith-microservice-architectural-tradeoff-cognitive-load%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-21-DDD-中的几个困难问题-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15218&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fdifficult-problems-in-domain-driven-design%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1965,8 +1967,8 @@
 - [2022-07-21-使用Go语言开发eBPF程序](https://toutiao.io/k/c8oeoo7) 
 - [2022-07-21-揭秘技术-Leader-必备的-7-大清奇脑回路](https://toutiao.io/k/btmeu2x) 
 - [2022-07-21-彻底搞懂之C++智能指针](https://toutiao.io/k/yw510cs) 
-- [2022-07-21-实时分析需要SQL和复杂查询](https://toutiao.io/k/lg3qc2w) 
 - [2022-07-21-全场景流量验证系统](https://toutiao.io/k/yuv19vm) 
+- [2022-07-21-实时分析需要SQL和复杂查询](https://toutiao.io/k/lg3qc2w) 
 - [2022-07-21-应用启动加速-并发初始化spring-bean](https://toutiao.io/k/rtkrkkf) 
 - [2022-07-21-超详细的-Doris-读写流程](https://toutiao.io/k/xtqv9br) 
 - [2022-07-21-松果出行-x-StarRocks：实时数仓新范式的实践之路](https://toutiao.io/k/5vklfca) 

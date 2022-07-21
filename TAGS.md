@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-07-21 14:39:55。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-21 15:20:37。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -182,7 +182,6 @@
 - [【张鑫旭-鑫空间-鑫生活】如何实现页面刷新后不定位到之前的滚动位置？](https://www.zhangxinxu.com/wordpress/2022/05/history-scrollrestoration/)
 - [【张鑫旭-鑫空间-鑫生活】JS与条形码的生成](https://www.zhangxinxu.com/wordpress/2022/05/js-barcode/)
 - [【张鑫旭-鑫空间-鑫生活】深入-JS-new-Function-语法](https://www.zhangxinxu.com/wordpress/2022/04/js-new-function/)
-- [【张鑫旭-鑫空间-鑫生活】小tips:-JS字体加载失败或完毕的检测](https://www.zhangxinxu.com/wordpress/2022/04/js-font-face-load/)
 - [【开发者头条】跨框架的-UI-组件封装技术](https://toutiao.io/k/fh0sw9n)
 - [......【查看更多】......](./details/tags/javascript.md)
 
@@ -200,6 +199,7 @@
 
 
 
+- [【张鑫旭-鑫空间-鑫生活】超酷！CSS-font-palette与彩色字体显示](https://www.zhangxinxu.com/wordpress/2022/07/css-font-palette/)
 - [【张鑫旭-鑫空间-鑫生活】CSS排版为何强？瞧瞧多牛这换行](https://www.zhangxinxu.com/wordpress/2022/06/css-line-break-word-wrap-all/)
 - [【张鑫旭-鑫空间-鑫生活】详解日后定会大规模使用的CSS-@layer-规则](https://www.zhangxinxu.com/wordpress/2022/05/css-layer-rule/)
 - [【张鑫旭-鑫空间-鑫生活】CSS必学基础：理解CSS中的级联规则](https://www.zhangxinxu.com/wordpress/2022/05/deep-in-css-cascade/)
@@ -282,6 +282,7 @@
 - [【武汉肺炎防疫全纪录(财新网)】解药|新冠mRNA疫苗安全性有哪些挑战？](https://m.caixin.com/m/2021-01-08/101648043.html)
 - [【武汉肺炎防疫全纪录(财新网)】大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html)
 - [【张鑫旭-鑫空间-鑫生活】基于文字的URL锚点定位与::target-text样式设置](https://www.zhangxinxu.com/wordpress/2022/06/url-anchor-target-text/)
+- [【V2EX】自建的-nextcloud-服务，开启-https-跳转与强制-https-登录以后只能通过浏览器访问，在应用内无法打开，具体表现为点击授权访问无反应，该怎么解决啊](https://www.v2ex.com/t/867867)
 - [【开发者头条】换掉Postman，事实证明它更牛逼！](https://toutiao.io/k/uncruss)
 - [......【查看更多】......](./details/tags/browser.md)
 
@@ -315,7 +316,6 @@
 
 
 
-- [【V2EX】Docker-Hub-搜不到镜像，推送已过-24-小时，是公开镜像，求解是为何？](https://www.v2ex.com/t/867813)
 - [......【查看更多】......](./details/tags/server.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -350,6 +350,7 @@
 
 
 
+- [【V2EX】上海-外企-内推-动视暴雪-多职位招聘-/-25-天年假-/-WLB](https://www.v2ex.com/t/867863)
 - [......【查看更多】......](./details/tags/job-interview.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

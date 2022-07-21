@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-07-21 14:39:55，:rocket: 更新条数: +2029， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-07-21 15:20:37，:rocket: 更新条数: +2030， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -316,6 +316,7 @@
 </summary>
 
 
+- [2022-07-21-超酷！CSS-font-palette与彩色字体显示](https://www.zhangxinxu.com/wordpress/2022/07/css-font-palette/) ![](assets/new.png)  
 - [2022-06-30-CSS排版为何强？瞧瞧多牛这换行](https://www.zhangxinxu.com/wordpress/2022/06/css-line-break-word-wrap-all/) ![](assets/new.png)  
 - [2022-06-19-如何继承自定义元素及其他JS中扩展新方法](https://www.zhangxinxu.com/wordpress/2022/06/js-extend-class-custom-elements/) ![](assets/new.png)  
 - [2022-06-12-基于文字的URL锚点定位与::target-text样式设置](https://www.zhangxinxu.com/wordpress/2022/06/url-anchor-target-text/) ![](assets/new.png)  
@@ -325,7 +326,6 @@
 - [2022-05-22-CSS必学基础：理解CSS中的级联规则](https://www.zhangxinxu.com/wordpress/2022/05/deep-in-css-cascade/) ![](assets/new.png)  
 - [2022-05-11-JS与条形码的生成](https://www.zhangxinxu.com/wordpress/2022/05/js-barcode/) ![](assets/new.png)  
 - [2022-04-30-深入-JS-new-Function-语法](https://www.zhangxinxu.com/wordpress/2022/04/js-new-function/) ![](assets/new.png)  
-- [2022-04-27-小tips:-JS字体加载失败或完毕的检测](https://www.zhangxinxu.com/wordpress/2022/04/js-font-face-load/) ![](assets/new.png)  
 - [......【查看更多】......](./details/张鑫旭-鑫空间-鑫生活.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -491,6 +491,11 @@
 </summary>
 
 
+- [2022-07-21-这里曾是一个很有趣的-V2EX-微信交流群，今天群炸啦！](https://www.v2ex.com/t/867868) ![](assets/new.png)  
+- [2022-07-21-自建的-nextcloud-服务，开启-https-跳转与强制-https-登录以后只能通过浏览器访问，在应用内无法打开，具体表现为点击授权访问无反应，该怎么解决啊](https://www.v2ex.com/t/867867) ![](assets/new.png)  
+- [2022-07-21-做一个类似-kepserver-的软件可行吗](https://www.v2ex.com/t/867866) ![](assets/new.png)  
+- [2022-07-21-上海/北京/合肥-蔚来-DD-部门开放大量前端-HC，不卷氛围好，正常双休，急招通过率高！](https://www.v2ex.com/t/867864) ![](assets/new.png)  
+- [2022-07-21-上海-外企-内推-动视暴雪-多职位招聘-/-25-天年假-/-WLB](https://www.v2ex.com/t/867863) ![](assets/new.png)  
 - [2022-07-21-请问如何在-Linux-（PVE，-debian）中使用-2.4G-无线遥控器？](https://www.v2ex.com/t/867860) ![](assets/new.png)  
 - [2022-07-21-上海-不加班-外企-招-Java-、C++、安卓、中级测试、支持工程师、初级-devOps，-Java-和-测试有残疾人岗位](https://www.v2ex.com/t/867859) ![](assets/new.png)  
 - [2022-07-21-从-anki、onenote-到-obsidian，一名小镇做题家的笔记进化史](https://www.v2ex.com/t/867858) ![](assets/new.png)  
@@ -506,11 +511,6 @@
 - [2022-07-21-金属无线充电支架都会漏电吗？](https://www.v2ex.com/t/867848) ![](assets/new.png)  
 - [2022-07-21-play-版本钉钉](https://www.v2ex.com/t/867847) ![](assets/new.png)  
 - [2022-07-21-iPhone-14-爆料的一个疑问](https://www.v2ex.com/t/867846) ![](assets/new.png)  
-- [2022-07-21-大家遇到比较好的文章/电影/书籍/视频，是如何进行分享的？](https://www.v2ex.com/t/867845) ![](assets/new.png)  
-- [2022-07-21-有劳帮我看下，杭州电信-v4/v6-双栈光猫哪里设置有误。](https://www.v2ex.com/t/867844) ![](assets/new.png)  
-- [2022-07-21-添加了-n1-盒子后-esxi-中的-win7-虚拟机没网](https://www.v2ex.com/t/867843) ![](assets/new.png)  
-- [2022-07-21-各位大佬有没有遇到过文件还在但是内容都没了，变成-0-字节](https://www.v2ex.com/t/867842) ![](assets/new.png)  
-- [2022-07-21-为满足网友需求，现在-i996-免费内网穿透已增加自定义域名功能](https://www.v2ex.com/t/867840) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -557,8 +557,8 @@
 - [2022-07-21-换掉Postman，事实证明它更牛逼！](https://toutiao.io/k/uncruss) ![](assets/new.png)  
 - [2022-07-21-使用Go语言开发eBPF程序](https://toutiao.io/k/c8oeoo7) ![](assets/new.png)  
 - [2022-07-21-揭秘技术-Leader-必备的-7-大清奇脑回路](https://toutiao.io/k/btmeu2x) ![](assets/new.png)  
-- [2022-07-21-彻底搞懂之C++智能指针](https://toutiao.io/k/yw510cs) ![](assets/new.png)  
 - [2022-07-21-全场景流量验证系统](https://toutiao.io/k/yuv19vm) ![](assets/new.png)  
+- [2022-07-21-彻底搞懂之C++智能指针](https://toutiao.io/k/yw510cs) ![](assets/new.png)  
 - [2022-07-21-应用启动加速-并发初始化spring-bean](https://toutiao.io/k/rtkrkkf) ![](assets/new.png)  
 - [2022-07-21-实时分析需要SQL和复杂查询](https://toutiao.io/k/lg3qc2w) ![](assets/new.png)  
 - [2022-07-21-超详细的-Doris-读写流程](https://toutiao.io/k/xtqv9br) ![](assets/new.png)  
@@ -566,12 +566,12 @@
 - [2022-07-21-跨框架的-UI-组件封装技术](https://toutiao.io/k/fh0sw9n) ![](assets/new.png)  
 - [2022-07-21-松果出行-x-StarRocks：实时数仓新范式的实践之路](https://toutiao.io/k/5vklfca) ![](assets/new.png)  
 - [2022-07-21-端智能实践分享：模型评估和编译](https://toutiao.io/k/cmm5qks) ![](assets/new.png)  
+- [2022-07-21-敲黑板！Kubernetes-架构核心知识点就这么多](https://toutiao.io/k/1vb52po) ![](assets/new.png)  
 - [2022-07-21-从构建工具看-Android-APK-编译打包流程](https://toutiao.io/k/o2164sj) ![](assets/new.png)  
 - [2022-07-21-【萌新解题】两数相除](https://toutiao.io/k/4tcpq3s) ![](assets/new.png)  
-- [2022-07-21-敲黑板！Kubernetes-架构核心知识点就这么多](https://toutiao.io/k/1vb52po) ![](assets/new.png)  
 - [2022-07-21-特斯拉为何使用.NET-Core技术框架？](https://toutiao.io/k/kpg0766) ![](assets/new.png)  
-- [2022-07-21-动-recover-刀子，能优化-Go-错误处理吗？](https://toutiao.io/k/lgx592j) ![](assets/new.png)  
 - [2022-07-21-巧用-Kubernetes-中的-Leader-选举机制来实现自己的-HA-应用](https://toutiao.io/k/k4vb8il) ![](assets/new.png)  
+- [2022-07-21-动-recover-刀子，能优化-Go-错误处理吗？](https://toutiao.io/k/lgx592j) ![](assets/new.png)  
 - [2022-07-21-推荐-高并发，你真的理解透彻了吗？](https://toutiao.io/k/93k2zfb) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

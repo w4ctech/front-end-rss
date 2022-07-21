@@ -9812,6 +9812,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "超酷！CSS font-palette与彩色字体显示",
+        "link": "https://www.zhangxinxu.com/wordpress/2022/07/css-font-palette/",
+        "date": "2022-07-21"
+      },
+      {
         "title": "CSS排版为何强？瞧瞧多牛这换行",
         "link": "https://www.zhangxinxu.com/wordpress/2022/06/css-line-break-word-wrap-all/",
         "date": "2022-06-30"
@@ -9855,11 +9860,6 @@
         "title": "深入 JS new Function 语法",
         "link": "https://www.zhangxinxu.com/wordpress/2022/04/js-new-function/",
         "date": "2022-04-30"
-      },
-      {
-        "title": "小tips: JS字体加载失败或完毕的检测",
-        "link": "https://www.zhangxinxu.com/wordpress/2022/04/js-font-face-load/",
-        "date": "2022-04-27"
       }
     ]
   },
@@ -9952,6 +9952,31 @@
     "title": "V2EX",
     "link": "https://www.v2ex.com/",
     "items": [
+      {
+        "title": "这里曾是一个很有趣的 V2EX 微信交流群，今天群炸啦！",
+        "link": "https://www.v2ex.com/t/867868",
+        "date": "2022-07-21"
+      },
+      {
+        "title": "自建的 nextcloud 服务，开启 https 跳转与强制 https 登录以后只能通过浏览器访问，在应用内无法打开，具体表现为点击授权访问无反应，该怎么解决啊",
+        "link": "https://www.v2ex.com/t/867867",
+        "date": "2022-07-21"
+      },
+      {
+        "title": "做一个类似 kepserver 的软件可行吗",
+        "link": "https://www.v2ex.com/t/867866",
+        "date": "2022-07-21"
+      },
+      {
+        "title": "上海/北京/合肥 蔚来 DD 部门开放大量前端 HC，不卷氛围好，正常双休，急招通过率高！",
+        "link": "https://www.v2ex.com/t/867864",
+        "date": "2022-07-21"
+      },
+      {
+        "title": "[上海] [外企] [内推] 动视暴雪 多职位招聘 / 25 天年假 / WLB",
+        "link": "https://www.v2ex.com/t/867863",
+        "date": "2022-07-21"
+      },
       {
         "title": "请问如何在 Linux （PVE， debian）中使用 2.4G 无线遥控器？",
         "link": "https://www.v2ex.com/t/867860",
@@ -10146,26 +10171,6 @@
         "title": "发现自己的宽带套餐是冤大头套餐怎么办",
         "link": "https://www.v2ex.com/t/867819",
         "date": "2022-07-21"
-      },
-      {
-        "title": "天气太热了，推荐款能装 13 寸笔记本的斜挎包吧",
-        "link": "https://www.v2ex.com/t/867817",
-        "date": "2022-07-21"
-      },
-      {
-        "title": "前端生成项目模版代码有什么成熟的解决方案吗？",
-        "link": "https://www.v2ex.com/t/867816",
-        "date": "2022-07-21"
-      },
-      {
-        "title": "咨询一下大家 activiti 几百万数据查询慢怎么办",
-        "link": "https://www.v2ex.com/t/867814",
-        "date": "2022-07-21"
-      },
-      {
-        "title": "Docker Hub 搜不到镜像，推送已过 24 小时，是公开镜像，求解是为何？",
-        "link": "https://www.v2ex.com/t/867813",
-        "date": "2022-07-21"
       }
     ]
   },
@@ -10302,13 +10307,13 @@
         "date": "2022-07-21"
       },
       {
-        "title": "彻底搞懂之C++智能指针",
-        "link": "https://toutiao.io/k/yw510cs",
+        "title": "全场景流量验证系统",
+        "link": "https://toutiao.io/k/yuv19vm",
         "date": "2022-07-21"
       },
       {
-        "title": "全场景流量验证系统",
-        "link": "https://toutiao.io/k/yuv19vm",
+        "title": "彻底搞懂之C++智能指针",
+        "link": "https://toutiao.io/k/yw510cs",
         "date": "2022-07-21"
       },
       {
@@ -10347,6 +10352,11 @@
         "date": "2022-07-21"
       },
       {
+        "title": "敲黑板！Kubernetes 架构核心知识点就这么多",
+        "link": "https://toutiao.io/k/1vb52po",
+        "date": "2022-07-21"
+      },
+      {
         "title": "从构建工具看 Android APK 编译打包流程",
         "link": "https://toutiao.io/k/o2164sj",
         "date": "2022-07-21"
@@ -10357,23 +10367,18 @@
         "date": "2022-07-21"
       },
       {
-        "title": "敲黑板！Kubernetes 架构核心知识点就这么多",
-        "link": "https://toutiao.io/k/1vb52po",
-        "date": "2022-07-21"
-      },
-      {
         "title": "特斯拉为何使用.NET Core技术框架？",
         "link": "https://toutiao.io/k/kpg0766",
         "date": "2022-07-21"
       },
       {
-        "title": "动 recover 刀子，能优化 Go 错误处理吗？",
-        "link": "https://toutiao.io/k/lgx592j",
+        "title": "巧用 Kubernetes 中的 Leader 选举机制来实现自己的 HA 应用",
+        "link": "https://toutiao.io/k/k4vb8il",
         "date": "2022-07-21"
       },
       {
-        "title": "巧用 Kubernetes 中的 Leader 选举机制来实现自己的 HA 应用",
-        "link": "https://toutiao.io/k/k4vb8il",
+        "title": "动 recover 刀子，能优化 Go 错误处理吗？",
+        "link": "https://toutiao.io/k/lgx592j",
         "date": "2022-07-21"
       },
       {

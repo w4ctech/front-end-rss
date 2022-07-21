@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-21 15:46:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-21 16:18:34。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1948,7 +1948,6 @@
 - [2022-07-21-有什么办法把百度输入法生成的手写字体导到电脑吗？](https://www.v2ex.com/t/867828) 
 - [2022-07-21-闲鱼退款是不是一般都偏向买家，支持退货退款的？](https://www.v2ex.com/t/867827) 
 - [2022-07-21-Ubuntu-有最小化安装的选项吗](https://www.v2ex.com/t/867825) 
-- [2022-07-21-WPS/WORD-等办公软件可否打开一个文件，同时在多个窗口显示或者编辑？](https://www.v2ex.com/t/867824) 
 - [2022-07-21-浅谈契约测试-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15220&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fcontract-testing%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-21-单体-or-微服务？你以为是架构权衡？其实是认知负载！-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15219&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fmonolith-microservice-architectural-tradeoff-cognitive-load%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-21-DDD-中的几个困难问题-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15218&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fdifficult-problems-in-domain-driven-design%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

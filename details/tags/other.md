@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-21 09:41:05。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-21 10:16:04。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,14 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-07-21-现在的云服务吧，真不知道该说是好用还是不好用](https://www.v2ex.com/t/867830) 
+- [2022-07-21-有什么办法把百度输入法生成的手写字体导到电脑吗？](https://www.v2ex.com/t/867828) 
+- [2022-07-21-闲鱼退款是不是一般都偏向买家，支持退货退款的？](https://www.v2ex.com/t/867827) 
+- [2022-07-21-Ubuntu-有最小化安装的选项吗](https://www.v2ex.com/t/867825) 
+- [2022-07-21-WPS/WORD-等办公软件可否打开一个文件，同时在多个窗口显示或者编辑？](https://www.v2ex.com/t/867824) 
+- [2022-07-21-Java-中有比较精确的微秒级别的延迟方法吗](https://www.v2ex.com/t/867823) 
+- [2022-07-21-请问下有用-M1-macbook-air-做-Python-测开的兄弟们吗?](https://www.v2ex.com/t/867821) 
+- [2022-07-21-关于学习英语，两份有趣的报告。](https://www.v2ex.com/t/867820) 
 - [2022-07-21-发现自己的宽带套餐是冤大头套餐怎么办](https://www.v2ex.com/t/867819) 
 - [2022-07-21-天气太热了，推荐款能装-13-寸笔记本的斜挎包吧](https://www.v2ex.com/t/867817) 
 - [2022-07-21-前端生成项目模版代码有什么成熟的解决方案吗？](https://www.v2ex.com/t/867816) 
@@ -1933,12 +1941,6 @@
 - [2022-07-21-在信息管控的厂内如何使用比如说-NVM-之类会执行脚本的工具](https://www.v2ex.com/t/867784) 
 - [2022-07-21-赴日工作移民-2-周下签证🇯🇵扁平管理，技术为先。需掌握前端后端任何一门开发语言-!-守住邮箱，就等你来！](https://www.v2ex.com/t/867783) 
 - [2022-07-21-求助，-18-年-mac-pro-2-个多月没用过现在开不了机](https://www.v2ex.com/t/867781) 
-- [2022-07-21-求推荐移动端-markdown-工具](https://www.v2ex.com/t/867780) 
-- [2022-07-21-有折腾过-DIY-升降桌的大佬么？求推荐牌子](https://www.v2ex.com/t/867779) 
-- [2022-07-21-注册-AWS-账号复杂吗？不复杂！](https://www.v2ex.com/t/867776) 
-- [2022-07-21-所以-Thinkbook-14+/16+-6800H-版哪里可以买到？](https://www.v2ex.com/t/867774) 
-- [2022-07-21-咨询下大家的审批流都是怎么做的？](https://www.v2ex.com/t/867773) 
-- [2022-07-21-oracle-自建梯子访问-cloudflare-出现-403](https://www.v2ex.com/t/867771) 
 - [2022-07-21-浅谈契约测试-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15220&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fcontract-testing%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-21-单体-or-微服务？你以为是架构权衡？其实是认知负载！-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15219&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fmonolith-microservice-architectural-tradeoff-cognitive-load%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-21-DDD-中的几个困难问题-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15218&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fdifficult-problems-in-domain-driven-design%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

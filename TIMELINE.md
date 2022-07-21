@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-21 09:41:05。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-07-21 10:16:04。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,15 @@
 </summary>
 
 
+- [【V2EX】2022-07-21-现在的云服务吧，真不知道该说是好用还是不好用](https://www.v2ex.com/t/867830) 
+- [【V2EX】2022-07-21-有什么办法把百度输入法生成的手写字体导到电脑吗？](https://www.v2ex.com/t/867828) 
+- [【V2EX】2022-07-21-闲鱼退款是不是一般都偏向买家，支持退货退款的？](https://www.v2ex.com/t/867827) 
+- [【V2EX】2022-07-21-Ubuntu-有最小化安装的选项吗](https://www.v2ex.com/t/867825) 
+- [【V2EX】2022-07-21-WPS/WORD-等办公软件可否打开一个文件，同时在多个窗口显示或者编辑？](https://www.v2ex.com/t/867824) 
+- [【V2EX】2022-07-21-Java-中有比较精确的微秒级别的延迟方法吗](https://www.v2ex.com/t/867823) 
+- [【V2EX】2022-07-21-试过跨平台拷贝-git-管理的项目吗？大佬们](https://www.v2ex.com/t/867822) 
+- [【V2EX】2022-07-21-请问下有用-M1-macbook-air-做-Python-测开的兄弟们吗?](https://www.v2ex.com/t/867821) 
+- [【V2EX】2022-07-21-关于学习英语，两份有趣的报告。](https://www.v2ex.com/t/867820) 
 - [【V2EX】2022-07-21-发现自己的宽带套餐是冤大头套餐怎么办](https://www.v2ex.com/t/867819) 
 - [【V2EX】2022-07-21-天气太热了，推荐款能装-13-寸笔记本的斜挎包吧](https://www.v2ex.com/t/867817) 
 - [【V2EX】2022-07-21-前端生成项目模版代码有什么成熟的解决方案吗？](https://www.v2ex.com/t/867816) 
@@ -94,15 +103,6 @@
 - [【V2EX】2022-07-21-赴日工作移民-2-周下签证🇯🇵扁平管理，技术为先。需掌握前端后端任何一门开发语言-!-守住邮箱，就等你来！](https://www.v2ex.com/t/867783) 
 - [【V2EX】2022-07-21-整理了一下浏览器书签，发现收藏了挺多蛮实用的网站](https://www.v2ex.com/t/867782) 
 - [【V2EX】2022-07-21-求助，-18-年-mac-pro-2-个多月没用过现在开不了机](https://www.v2ex.com/t/867781) 
-- [【V2EX】2022-07-21-求推荐移动端-markdown-工具](https://www.v2ex.com/t/867780) 
-- [【V2EX】2022-07-21-有折腾过-DIY-升降桌的大佬么？求推荐牌子](https://www.v2ex.com/t/867779) 
-- [【V2EX】2022-07-21-用-iPhone12-的朋友们，那个-iPhone-做-Mac-摄像头的功能，你们的能用吗？](https://www.v2ex.com/t/867778) 
-- [【V2EX】2022-07-21-注册-AWS-账号复杂吗？不复杂！](https://www.v2ex.com/t/867776) 
-- [【V2EX】2022-07-21-远程办公/大牛云集/小而美-程序分析算法工程师-正在热招](https://www.v2ex.com/t/867775) 
-- [【V2EX】2022-07-21-所以-Thinkbook-14+/16+-6800H-版哪里可以买到？](https://www.v2ex.com/t/867774) 
-- [【V2EX】2022-07-21-咨询下大家的审批流都是怎么做的？](https://www.v2ex.com/t/867773) 
-- [【V2EX】2022-07-21-oracle-自建梯子访问-cloudflare-出现-403](https://www.v2ex.com/t/867771) 
-- [【V2EX】2022-07-21-求推荐几个新颖的中后台-UI-框架，-ant-design/elementUI/等看的有点审美疲劳了](https://www.v2ex.com/t/867770) 
 - [【技术头条】2022-07-21-浅谈契约测试-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15220&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fcontract-testing%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-21-单体-or-微服务？你以为是架构权衡？其实是认知负载！-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15219&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fmonolith-microservice-architectural-tradeoff-cognitive-load%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-21-DDD-中的几个困难问题-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15218&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fdifficult-problems-in-domain-driven-design%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-21 06:51:05。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-07-21 07:13:28。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,12 @@
 </summary>
 
 
+- [【V2EX】2022-07-21-LED-应用设计软件以及嵌入式开发相关的项目](https://www.v2ex.com/t/867765) 
+- [【V2EX】2022-07-21-openwrt-怎样默认解析内网-IPv6-地址](https://www.v2ex.com/t/867764) 
+- [【V2EX】2022-07-21-figma-有类似-css-变量的功能吗](https://www.v2ex.com/t/867763) 
+- [【V2EX】2022-07-21-求问-macbook-pro-适用的-mathtype-怎么安装？](https://www.v2ex.com/t/867762) 
+- [【V2EX】2022-07-21-Kong-上海招聘-Software-Engineering-Manager-啦！](https://www.v2ex.com/t/867761) 
+- [【V2EX】2022-07-21-失眠有没有什么好办法？吃褪黑素如何？](https://www.v2ex.com/t/867760) 
 - [【V2EX】2022-07-21-设计了一个的-Airpods-max-的支持低功耗休眠模式的桌面挂架，大家支持一下。](https://www.v2ex.com/t/867758) 
 - [【V2EX】2022-07-21-小米-11pro-烧-wifi-处理流程](https://www.v2ex.com/t/867756) 
 - [【V2EX】2022-07-21-「不懂就要问」公积金贷款买房之后，如果断缴了，会怎么办？](https://www.v2ex.com/t/867755) 
@@ -94,14 +100,6 @@
 - [【V2EX】2022-07-21-准备仲裁一波,如何利益最大化](https://www.v2ex.com/t/867720) 
 - [【V2EX】2022-07-21-wasm-插件配置问题，怎么把-wasm-转成-istio-插件](https://www.v2ex.com/t/867719) 
 - [【V2EX】2022-07-21-想问下电动车主春运跑高速充电怎么解决?-排队几个小时吗?](https://www.v2ex.com/t/867718) 
-- [【V2EX】2022-07-21-社招-北京-美资外企-iOS/Android/后端/前端高级开发工程师](https://www.v2ex.com/t/867716) 
-- [【V2EX】2022-07-21-笔记轮子，制作一半的应用，不知道有没有人感兴趣或者当小白鼠](https://www.v2ex.com/t/867715) 
-- [【V2EX】2022-07-21-Swift-5.7-新特性](https://www.v2ex.com/t/867714) 
-- [【V2EX】2022-07-21-余杭五常街道-园区办公室-45-平方转租](https://www.v2ex.com/t/867713) 
-- [【V2EX】2022-07-21-Gopher-我们一起来造个-ORM-吧!](https://www.v2ex.com/t/867712) 
-- [【V2EX】2022-07-21-海外企业工作机会：程序员/工程师入职北欧企业，可以全家随行拿绿卡](https://www.v2ex.com/t/867711) 
-- [【V2EX】2022-07-21-请教一下，怎么强制页面在-360-浏览器下不给切换成兼容模式](https://www.v2ex.com/t/867710) 
-- [【V2EX】2022-07-21-2022-年-7-月份了，想买个配置差不多点的安卓原生系统的备用机，有没有推荐的](https://www.v2ex.com/t/867709) 
 - [【技术头条】2022-07-21-浅谈契约测试-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15220&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fcontract-testing%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-21-单体-or-微服务？你以为是架构权衡？其实是认知负载！-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15219&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fmonolith-microservice-architectural-tradeoff-cognitive-load%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-21-DDD-中的几个困难问题-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15218&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fdifficult-problems-in-domain-driven-design%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -129,9 +127,9 @@
 - [【开发者头条】2022-07-21-彻底搞懂之C++智能指针](https://toutiao.io/k/yw510cs) 
 - [【开发者头条】2022-07-21-实时分析需要SQL和复杂查询](https://toutiao.io/k/lg3qc2w) 
 - [【开发者头条】2022-07-21-应用启动加速-并发初始化spring-bean](https://toutiao.io/k/rtkrkkf) 
+- [【开发者头条】2022-07-21-全场景流量验证系统](https://toutiao.io/k/yuv19vm) 
 - [【开发者头条】2022-07-21-跨框架的-UI-组件封装技术](https://toutiao.io/k/fh0sw9n) 
 - [【开发者头条】2022-07-21-松果出行-x-StarRocks：实时数仓新范式的实践之路](https://toutiao.io/k/5vklfca) 
-- [【开发者头条】2022-07-21-全场景流量验证系统](https://toutiao.io/k/yuv19vm) 
 - [【开发者头条】2022-07-21-端智能实践分享：模型评估和编译](https://toutiao.io/k/cmm5qks) 
 - [【开发者头条】2022-07-21-构建人工智能产品/业务的两种策略by-Andrew-Ng](https://toutiao.io/k/nx1ko1w) 
 - [【开发者头条】2022-07-21-超详细的-Doris-读写流程](https://toutiao.io/k/xtqv9br) 

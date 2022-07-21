@@ -9953,6 +9953,16 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "有日志(stdout or file) qps 4k，没日志 qps 10w. why?",
+        "link": "https://www.v2ex.com/t/867876",
+        "date": "2022-07-21"
+      },
+      {
+        "title": "作为一名急于找工作，但目前了解的语言都不是很深入的人，首要学习语言应该选择 Python 还是 Java",
+        "link": "https://www.v2ex.com/t/867875",
+        "date": "2022-07-21"
+      },
+      {
         "title": "作为 Java 工程师，第二语言应该选择 Python 还是 Go",
         "link": "https://www.v2ex.com/t/867873",
         "date": "2022-07-21"
@@ -10108,11 +10118,6 @@
         "date": "2022-07-21"
       },
       {
-        "title": "Spotfy 台区家庭组长期",
-        "link": "https://www.v2ex.com/t/867838",
-        "date": "2022-07-21"
-      },
-      {
         "title": "互联网法院起诉腾讯永封微信号的赢面有多大？",
         "link": "https://www.v2ex.com/t/867837",
         "date": "2022-07-21"
@@ -10155,16 +10160,6 @@
       {
         "title": "有什么办法把百度输入法生成的手写字体导到电脑吗？",
         "link": "https://www.v2ex.com/t/867828",
-        "date": "2022-07-21"
-      },
-      {
-        "title": "闲鱼退款是不是一般都偏向买家，支持退货退款的？",
-        "link": "https://www.v2ex.com/t/867827",
-        "date": "2022-07-21"
-      },
-      {
-        "title": "Ubuntu 有最小化安装的选项吗",
-        "link": "https://www.v2ex.com/t/867825",
         "date": "2022-07-21"
       }
     ]

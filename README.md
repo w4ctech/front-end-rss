@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-07-21 16:18:34，:rocket: 更新条数: +2029， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-07-21 16:57:05，:rocket: 更新条数: +2028， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-07-21-有日志stdout-or-file-qps-4k，没日志-qps-10w.-why?](https://www.v2ex.com/t/867876) ![](assets/new.png)  
+- [2022-07-21-作为一名急于找工作，但目前了解的语言都不是很深入的人，首要学习语言应该选择-Python-还是-Java](https://www.v2ex.com/t/867875) ![](assets/new.png)  
 - [2022-07-21-作为-Java-工程师，第二语言应该选择-Python-还是-Go](https://www.v2ex.com/t/867873) ![](assets/new.png)  
 - [2022-07-21-想问问大家都用的什么移动套餐](https://www.v2ex.com/t/867872) ![](assets/new.png)  
 - [2022-07-21-请教下电脑上淘宝网页图片间歇性无法加载是什么情况？](https://www.v2ex.com/t/867871) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-07-21-GitHub-Student-Developer-Pack-一直申请失败怎么办](https://www.v2ex.com/t/867855) ![](assets/new.png)  
 - [2022-07-21-如果开发一个云笔记应该怎么设计?](https://www.v2ex.com/t/867854) ![](assets/new.png)  
 - [2022-07-21-这个老-mbp-的屏幕是完蛋了？](https://www.v2ex.com/t/867853) ![](assets/new.png)  
-- [2022-07-21-2022-找工作记录](https://www.v2ex.com/t/867852) ![](assets/new.png)  
-- [2022-07-21-Abort-翻译为「终止」还是「中止」？](https://www.v2ex.com/t/867851) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

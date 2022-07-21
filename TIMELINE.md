@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-21 08:18:49。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-07-21 08:45:51。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,13 @@
 </summary>
 
 
+- [【V2EX】2022-07-21-请教擅长-activiti-工作流的朋友，请问这个流程是用到子流程吗？](https://www.v2ex.com/t/867794) 
+- [【V2EX】2022-07-21-扫描二维码是否可以由操作系统rom?提供接口?这样减少应用获取相机权限。](https://www.v2ex.com/t/867793) 
+- [【V2EX】2022-07-21-手持-iphone11-想换红米-Note-11T-Pro](https://www.v2ex.com/t/867792) 
+- [【V2EX】2022-07-21-有没有软件能将-iPhone-4G-网络设置成-IP-代理，供爬虫使用？](https://www.v2ex.com/t/867791) 
+- [【V2EX】2022-07-21-请-V-友们推荐几款办公时候用的颈枕](https://www.v2ex.com/t/867790) 
+- [【V2EX】2022-07-21-M1-Max-24-核-32-核只有核心数的区别还有其他的区别吗](https://www.v2ex.com/t/867789) 
+- [【V2EX】2022-07-21-专科应届求职:-DevOps-/-Web-全栈开发.](https://www.v2ex.com/t/867788) 
 - [【V2EX】2022-07-21-线上-RPC-调用超时问题请教](https://www.v2ex.com/t/867787) 
 - [【V2EX】2022-07-21-想买一个-55-寸左右的-LCD-电视当显示器，目前看中了-LG-55UP8100PCB，希望有经验的朋友吗提提建议。](https://www.v2ex.com/t/867785) 
 - [【V2EX】2022-07-21-在信息管控的厂内如何使用比如说-NVM-之类会执行脚本的工具](https://www.v2ex.com/t/867784) 
@@ -97,12 +104,6 @@
 - [【V2EX】2022-07-21-嗨-V-友们，我做了一款番茄钟加氛围音播放-app，来这里送些永久激活码](https://www.v2ex.com/t/867753) 
 - [【V2EX】2022-07-21-群晖-surveillance-连接摄像头录像，为什么会有“灰影”/丢帧？](https://www.v2ex.com/t/867752) 
 - [【V2EX】2022-07-21-新手请教，关于操作列表的问题](https://www.v2ex.com/t/867751) 
-- [【V2EX】2022-07-21-有个疑问:-为什么机械硬盘-3.5-需要额外供电-2.5-不需要?](https://www.v2ex.com/t/867747) 
-- [【V2EX】2022-07-21-征战百度经验有感](https://www.v2ex.com/t/867745) 
-- [【V2EX】2022-07-21-讲道理-,为什么拼西西上面没有-13mini-卖](https://www.v2ex.com/t/867743) 
-- [【V2EX】2022-07-21-V-友们，工作太难找！](https://www.v2ex.com/t/867741) 
-- [【V2EX】2022-07-21-午休的时候，突然意识到我用了很久的假货](https://www.v2ex.com/t/867739) 
-- [【V2EX】2022-07-21-杭州大型美妆电商25k---40k-信息安全高级经理](https://www.v2ex.com/t/867738) 
 - [【技术头条】2022-07-21-浅谈契约测试-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15220&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fcontract-testing%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-21-单体-or-微服务？你以为是架构权衡？其实是认知负载！-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15219&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fmonolith-microservice-architectural-tradeoff-cognitive-load%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-21-DDD-中的几个困难问题-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15218&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fdifficult-problems-in-domain-driven-design%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -124,17 +125,17 @@
 - [【技术头条】2022-07-21-PyCharm与Jupyter完美融合，Jupytext来啦！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15202&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494236%26amp%3Bidx%3D2%26amp%3Bsn%3D7b193dc565e75d3495acf9bc8629c709%26amp%3Bchksm%3Dfa3f0b07cd488211fd5df7592f76aec322281b32f62e621a4ded86205877045285860ec8aee7%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-21-别瞎学了，这几门语言要被淘汰了！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15201&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494220%26amp%3Bidx%3D1%26amp%3Bsn%3D51c5e4c965ea710ff3ce153c53facb9c%26amp%3Bchksm%3Dfa3f0b17cd48820194b637429cbe4639886a56f0ac5e8fa84299fee0057b67c74f05392ff237%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【开发者头条】2022-07-21-聊聊Java中代码优化的30个小技巧](https://toutiao.io/k/jv8g1r6) 
-- [【开发者头条】2022-07-21-使用Go语言开发eBPF程序](https://toutiao.io/k/c8oeoo7) 
 - [【开发者头条】2022-07-21-换掉Postman，事实证明它更牛逼！](https://toutiao.io/k/uncruss) 
+- [【开发者头条】2022-07-21-使用Go语言开发eBPF程序](https://toutiao.io/k/c8oeoo7) 
 - [【开发者头条】2022-07-21-揭秘技术-Leader-必备的-7-大清奇脑回路](https://toutiao.io/k/btmeu2x) 
 - [【开发者头条】2022-07-21-彻底搞懂之C++智能指针](https://toutiao.io/k/yw510cs) 
 - [【开发者头条】2022-07-21-实时分析需要SQL和复杂查询](https://toutiao.io/k/lg3qc2w) 
 - [【开发者头条】2022-07-21-应用启动加速-并发初始化spring-bean](https://toutiao.io/k/rtkrkkf) 
 - [【开发者头条】2022-07-21-全场景流量验证系统](https://toutiao.io/k/yuv19vm) 
 - [【开发者头条】2022-07-21-构建人工智能产品/业务的两种策略by-Andrew-Ng](https://toutiao.io/k/nx1ko1w) 
+- [【开发者头条】2022-07-21-超详细的-Doris-读写流程](https://toutiao.io/k/xtqv9br) 
 - [【开发者头条】2022-07-21-跨框架的-UI-组件封装技术](https://toutiao.io/k/fh0sw9n) 
 - [【开发者头条】2022-07-21-松果出行-x-StarRocks：实时数仓新范式的实践之路](https://toutiao.io/k/5vklfca) 
-- [【开发者头条】2022-07-21-超详细的-Doris-读写流程](https://toutiao.io/k/xtqv9br) 
 - [【开发者头条】2022-07-21-端智能实践分享：模型评估和编译](https://toutiao.io/k/cmm5qks) 
 - [【开发者头条】2022-07-21-从构建工具看-Android-APK-编译打包流程](https://toutiao.io/k/o2164sj) 
 - [【开发者头条】2022-07-21-【萌新解题】两数相除](https://toutiao.io/k/4tcpq3s) 

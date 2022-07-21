@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-21 15:20:37。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-07-21 15:46:08。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -69,6 +69,11 @@
 
 
 - [【张鑫旭-鑫空间-鑫生活】2022-07-21-超酷！CSS-font-palette与彩色字体显示](https://www.zhangxinxu.com/wordpress/2022/07/css-font-palette/) 
+- [【V2EX】2022-07-21-作为-Java-工程师，第二语言应该选择-Python-还是-Go](https://www.v2ex.com/t/867873) 
+- [【V2EX】2022-07-21-想问问大家都用的什么移动套餐](https://www.v2ex.com/t/867872) 
+- [【V2EX】2022-07-21-请教下电脑上淘宝网页图片间歇性无法加载是什么情况？](https://www.v2ex.com/t/867871) 
+- [【V2EX】2022-07-21-家里人想学英语，但是没有任何基础，有没有适合的课程？](https://www.v2ex.com/t/867870) 
+- [【V2EX】2022-07-21-美国湾区车联网公司上海职位：测试开发工程师，英语口语流利，福利很赞](https://www.v2ex.com/t/867869) 
 - [【V2EX】2022-07-21-这里曾是一个很有趣的-V2EX-微信交流群，今天群炸啦！](https://www.v2ex.com/t/867868) 
 - [【V2EX】2022-07-21-自建的-nextcloud-服务，开启-https-跳转与强制-https-登录以后只能通过浏览器访问，在应用内无法打开，具体表现为点击授权访问无反应，该怎么解决啊](https://www.v2ex.com/t/867867) 
 - [【V2EX】2022-07-21-做一个类似-kepserver-的软件可行吗](https://www.v2ex.com/t/867866) 
@@ -108,11 +113,6 @@
 - [【V2EX】2022-07-21-闲鱼退款是不是一般都偏向买家，支持退货退款的？](https://www.v2ex.com/t/867827) 
 - [【V2EX】2022-07-21-Ubuntu-有最小化安装的选项吗](https://www.v2ex.com/t/867825) 
 - [【V2EX】2022-07-21-WPS/WORD-等办公软件可否打开一个文件，同时在多个窗口显示或者编辑？](https://www.v2ex.com/t/867824) 
-- [【V2EX】2022-07-21-Java-中有比较精确的微秒级别的延迟方法吗](https://www.v2ex.com/t/867823) 
-- [【V2EX】2022-07-21-试过跨平台拷贝-git-管理的项目吗？大佬们](https://www.v2ex.com/t/867822) 
-- [【V2EX】2022-07-21-请问下有用-M1-macbook-air-做-Python-测开的兄弟们吗?](https://www.v2ex.com/t/867821) 
-- [【V2EX】2022-07-21-关于学习英语，两份有趣的报告。](https://www.v2ex.com/t/867820) 
-- [【V2EX】2022-07-21-发现自己的宽带套餐是冤大头套餐怎么办](https://www.v2ex.com/t/867819) 
 - [【技术头条】2022-07-21-浅谈契约测试-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15220&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fcontract-testing%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-21-单体-or-微服务？你以为是架构权衡？其实是认知负载！-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15219&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fmonolith-microservice-architectural-tradeoff-cognitive-load%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-21-DDD-中的几个困难问题-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15218&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fdifficult-problems-in-domain-driven-design%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

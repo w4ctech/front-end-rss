@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-21 15:20:37。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-21 15:46:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,10 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-07-21-作为-Java-工程师，第二语言应该选择-Python-还是-Go](https://www.v2ex.com/t/867873) 
+- [2022-07-21-想问问大家都用的什么移动套餐](https://www.v2ex.com/t/867872) 
+- [2022-07-21-家里人想学英语，但是没有任何基础，有没有适合的课程？](https://www.v2ex.com/t/867870) 
+- [2022-07-21-美国湾区车联网公司上海职位：测试开发工程师，英语口语流利，福利很赞](https://www.v2ex.com/t/867869) 
 - [2022-07-21-这里曾是一个很有趣的-V2EX-微信交流群，今天群炸啦！](https://www.v2ex.com/t/867868) 
 - [2022-07-21-做一个类似-kepserver-的软件可行吗](https://www.v2ex.com/t/867866) 
 - [2022-07-21-上海/北京/合肥-蔚来-DD-部门开放大量前端-HC，不卷氛围好，正常双休，急招通过率高！](https://www.v2ex.com/t/867864) 
@@ -1945,10 +1949,6 @@
 - [2022-07-21-闲鱼退款是不是一般都偏向买家，支持退货退款的？](https://www.v2ex.com/t/867827) 
 - [2022-07-21-Ubuntu-有最小化安装的选项吗](https://www.v2ex.com/t/867825) 
 - [2022-07-21-WPS/WORD-等办公软件可否打开一个文件，同时在多个窗口显示或者编辑？](https://www.v2ex.com/t/867824) 
-- [2022-07-21-Java-中有比较精确的微秒级别的延迟方法吗](https://www.v2ex.com/t/867823) 
-- [2022-07-21-请问下有用-M1-macbook-air-做-Python-测开的兄弟们吗?](https://www.v2ex.com/t/867821) 
-- [2022-07-21-关于学习英语，两份有趣的报告。](https://www.v2ex.com/t/867820) 
-- [2022-07-21-发现自己的宽带套餐是冤大头套餐怎么办](https://www.v2ex.com/t/867819) 
 - [2022-07-21-浅谈契约测试-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15220&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fcontract-testing%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-21-单体-or-微服务？你以为是架构权衡？其实是认知负载！-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15219&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fmonolith-microservice-architectural-tradeoff-cognitive-load%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-21-DDD-中的几个困难问题-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15218&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fdifficult-problems-in-domain-driven-design%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

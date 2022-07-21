@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-07-21 11:38:10，:rocket: 更新条数: +2021， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-07-21 12:27:47，:rocket: 更新条数: +2024， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,14 @@
 </summary>
 
 
+- [2022-07-21-因为丢水里洗了下手机，我的-iPhone-震动出毛病了，什么奇妙情况？](https://www.v2ex.com/t/867850) ![](assets/new.png)  
+- [2022-07-21-VSCode-的-CodeLLDB-扩展怎么配置](https://www.v2ex.com/t/867849) ![](assets/new.png)  
+- [2022-07-21-金属无线充电支架都会漏电吗？](https://www.v2ex.com/t/867848) ![](assets/new.png)  
+- [2022-07-21-play-版本钉钉](https://www.v2ex.com/t/867847) ![](assets/new.png)  
+- [2022-07-21-iPhone-14-爆料的一个疑问](https://www.v2ex.com/t/867846) ![](assets/new.png)  
+- [2022-07-21-大家遇到比较好的文章/电影/书籍/视频，是如何进行分享的？](https://www.v2ex.com/t/867845) ![](assets/new.png)  
+- [2022-07-21-有劳帮我看下，杭州电信-v4/v6-双栈光猫哪里设置有误。](https://www.v2ex.com/t/867844) ![](assets/new.png)  
+- [2022-07-21-添加了-n1-盒子后-esxi-中的-win7-虚拟机没网](https://www.v2ex.com/t/867843) ![](assets/new.png)  
 - [2022-07-21-各位大佬有没有遇到过文件还在但是内容都没了，变成-0-字节](https://www.v2ex.com/t/867842) ![](assets/new.png)  
 - [2022-07-21-为满足网友需求，现在-i996-免费内网穿透已增加自定义域名功能](https://www.v2ex.com/t/867840) ![](assets/new.png)  
 - [2022-07-21-T-Chat-第六期「-Yuu---我在-Linkedin-做移动端-」7-月-21-日（今晚）21:00-开播](https://www.v2ex.com/t/867839) ![](assets/new.png)  
@@ -503,14 +511,6 @@
 - [2022-07-21-是否有办法转移-Kindle-中的笔记呢？](https://www.v2ex.com/t/867832) ![](assets/new.png)  
 - [2022-07-21-写了一个-cargo-插件](https://www.v2ex.com/t/867831) ![](assets/new.png)  
 - [2022-07-21-现在的云服务吧，真不知道该说是好用还是不好用](https://www.v2ex.com/t/867830) ![](assets/new.png)  
-- [2022-07-21-有什么办法把百度输入法生成的手写字体导到电脑吗？](https://www.v2ex.com/t/867828) ![](assets/new.png)  
-- [2022-07-21-闲鱼退款是不是一般都偏向买家，支持退货退款的？](https://www.v2ex.com/t/867827) ![](assets/new.png)  
-- [2022-07-21-Ubuntu-有最小化安装的选项吗](https://www.v2ex.com/t/867825) ![](assets/new.png)  
-- [2022-07-21-WPS/WORD-等办公软件可否打开一个文件，同时在多个窗口显示或者编辑？](https://www.v2ex.com/t/867824) ![](assets/new.png)  
-- [2022-07-21-Java-中有比较精确的微秒级别的延迟方法吗](https://www.v2ex.com/t/867823) ![](assets/new.png)  
-- [2022-07-21-试过跨平台拷贝-git-管理的项目吗？大佬们](https://www.v2ex.com/t/867822) ![](assets/new.png)  
-- [2022-07-21-请问下有用-M1-macbook-air-做-Python-测开的兄弟们吗?](https://www.v2ex.com/t/867821) ![](assets/new.png)  
-- [2022-07-21-关于学习英语，两份有趣的报告。](https://www.v2ex.com/t/867820) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -559,8 +559,8 @@
 - [2022-07-21-揭秘技术-Leader-必备的-7-大清奇脑回路](https://toutiao.io/k/btmeu2x) ![](assets/new.png)  
 - [2022-07-21-彻底搞懂之C++智能指针](https://toutiao.io/k/yw510cs) ![](assets/new.png)  
 - [2022-07-21-实时分析需要SQL和复杂查询](https://toutiao.io/k/lg3qc2w) ![](assets/new.png)  
-- [2022-07-21-应用启动加速-并发初始化spring-bean](https://toutiao.io/k/rtkrkkf) ![](assets/new.png)  
 - [2022-07-21-全场景流量验证系统](https://toutiao.io/k/yuv19vm) ![](assets/new.png)  
+- [2022-07-21-应用启动加速-并发初始化spring-bean](https://toutiao.io/k/rtkrkkf) ![](assets/new.png)  
 - [2022-07-21-构建人工智能产品/业务的两种策略by-Andrew-Ng](https://toutiao.io/k/nx1ko1w) ![](assets/new.png)  
 - [2022-07-21-超详细的-Doris-读写流程](https://toutiao.io/k/xtqv9br) ![](assets/new.png)  
 - [2022-07-21-跨框架的-UI-组件封装技术](https://toutiao.io/k/fh0sw9n) ![](assets/new.png)  
@@ -568,10 +568,10 @@
 - [2022-07-21-端智能实践分享：模型评估和编译](https://toutiao.io/k/cmm5qks) ![](assets/new.png)  
 - [2022-07-21-从构建工具看-Android-APK-编译打包流程](https://toutiao.io/k/o2164sj) ![](assets/new.png)  
 - [2022-07-21-【萌新解题】两数相除](https://toutiao.io/k/4tcpq3s) ![](assets/new.png)  
-- [2022-07-21-特斯拉为何使用.NET-Core技术框架？](https://toutiao.io/k/kpg0766) ![](assets/new.png)  
 - [2022-07-21-敲黑板！Kubernetes-架构核心知识点就这么多](https://toutiao.io/k/1vb52po) ![](assets/new.png)  
-- [2022-07-21-动-recover-刀子，能优化-Go-错误处理吗？](https://toutiao.io/k/lgx592j) ![](assets/new.png)  
+- [2022-07-21-特斯拉为何使用.NET-Core技术框架？](https://toutiao.io/k/kpg0766) ![](assets/new.png)  
 - [2022-07-21-巧用-Kubernetes-中的-Leader-选举机制来实现自己的-HA-应用](https://toutiao.io/k/k4vb8il) ![](assets/new.png)  
+- [2022-07-21-动-recover-刀子，能优化-Go-错误处理吗？](https://toutiao.io/k/lgx592j) ![](assets/new.png)  
 - [2022-07-21-推荐-高并发，你真的理解透彻了吗？](https://toutiao.io/k/93k2zfb) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

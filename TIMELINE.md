@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-21 09:14:06。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-07-21 09:41:05。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,10 +68,15 @@
 </summary>
 
 
+- [【V2EX】2022-07-21-发现自己的宽带套餐是冤大头套餐怎么办](https://www.v2ex.com/t/867819) 
+- [【V2EX】2022-07-21-天气太热了，推荐款能装-13-寸笔记本的斜挎包吧](https://www.v2ex.com/t/867817) 
+- [【V2EX】2022-07-21-前端生成项目模版代码有什么成熟的解决方案吗？](https://www.v2ex.com/t/867816) 
+- [【V2EX】2022-07-21-咨询一下大家-activiti-几百万数据查询慢怎么办](https://www.v2ex.com/t/867814) 
+- [【V2EX】2022-07-21-Docker-Hub-搜不到镜像，推送已过-24-小时，是公开镜像，求解是为何？](https://www.v2ex.com/t/867813) 
+- [【V2EX】2022-07-21-一个仅需三步配置就能生成免费个人博客的开源模板：-vdoing-template](https://www.v2ex.com/t/867811) 
 - [【V2EX】2022-07-21-Notion-手机端细节做了负优化吗？](https://www.v2ex.com/t/867809) 
 - [【V2EX】2022-07-21-怎么发快递最实惠啊？求助](https://www.v2ex.com/t/867807) 
 - [【V2EX】2022-07-21-iOS-端的-Telegram，快速翻阅历史记录就会断连，一直显示连接中...](https://www.v2ex.com/t/867806) 
-- [【V2EX】2022-07-21-滴滴被罚-80-亿，严重危害国家安全就罚-80-亿？那些过度收集信息的操作怎么感觉是国内-app-的日常](https://www.v2ex.com/t/867805) 
 - [【V2EX】2022-07-21-LOGO-设计，平面设计：年薪-18w-起步，双休，可睡到下午，远程工作：](https://www.v2ex.com/t/867803) 
 - [【V2EX】2022-07-21-微信老是占用动辄好几个-G-的空间，有啥好办法清理吗，手机就他占用大，微信真是毒瘤，自带的清理功能没那么好用](https://www.v2ex.com/t/867800) 
 - [【V2EX】2022-07-21-如何隔离-QQ-微信](https://www.v2ex.com/t/867799) 
@@ -98,12 +103,6 @@
 - [【V2EX】2022-07-21-咨询下大家的审批流都是怎么做的？](https://www.v2ex.com/t/867773) 
 - [【V2EX】2022-07-21-oracle-自建梯子访问-cloudflare-出现-403](https://www.v2ex.com/t/867771) 
 - [【V2EX】2022-07-21-求推荐几个新颖的中后台-UI-框架，-ant-design/elementUI/等看的有点审美疲劳了](https://www.v2ex.com/t/867770) 
-- [【V2EX】2022-07-21-ventura-修复了-intel-MBP-的-DSC-问题了吗?](https://www.v2ex.com/t/867769) 
-- [【V2EX】2022-07-21-开发一个可获取主流招标平台招标信息的应用怎么样？](https://www.v2ex.com/t/867767) 
-- [【V2EX】2022-07-21-openwrt-怎样默认解析内网-IPv6-地址](https://www.v2ex.com/t/867764) 
-- [【V2EX】2022-07-21-figma-有类似-css-变量的功能吗](https://www.v2ex.com/t/867763) 
-- [【V2EX】2022-07-21-求问-macbook-pro-适用的-mathtype-怎么安装？](https://www.v2ex.com/t/867762) 
-- [【V2EX】2022-07-21-Kong-上海招聘-Software-Engineering-Manager-啦！](https://www.v2ex.com/t/867761) 
 - [【技术头条】2022-07-21-浅谈契约测试-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15220&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fcontract-testing%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-21-单体-or-微服务？你以为是架构权衡？其实是认知负载！-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15219&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fmonolith-microservice-architectural-tradeoff-cognitive-load%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-21-DDD-中的几个困难问题-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15218&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fdifficult-problems-in-domain-driven-design%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -139,8 +138,8 @@
 - [【开发者头条】2022-07-21-端智能实践分享：模型评估和编译](https://toutiao.io/k/cmm5qks) 
 - [【开发者头条】2022-07-21-从构建工具看-Android-APK-编译打包流程](https://toutiao.io/k/o2164sj) 
 - [【开发者头条】2022-07-21-【萌新解题】两数相除](https://toutiao.io/k/4tcpq3s) 
-- [【开发者头条】2022-07-21-敲黑板！Kubernetes-架构核心知识点就这么多](https://toutiao.io/k/1vb52po) 
 - [【开发者头条】2022-07-21-特斯拉为何使用.NET-Core技术框架？](https://toutiao.io/k/kpg0766) 
+- [【开发者头条】2022-07-21-敲黑板！Kubernetes-架构核心知识点就这么多](https://toutiao.io/k/1vb52po) 
 - [【开发者头条】2022-07-21-动-recover-刀子，能优化-Go-错误处理吗？](https://toutiao.io/k/lgx592j) 
 - [【开发者头条】2022-07-21-巧用-Kubernetes-中的-Leader-选举机制来实现自己的-HA-应用](https://toutiao.io/k/k4vb8il) 
 - [【开发者头条】2022-07-21-推荐-高并发，你真的理解透彻了吗？](https://toutiao.io/k/93k2zfb) 

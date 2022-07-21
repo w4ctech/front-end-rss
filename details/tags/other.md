@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-21 05:48:11。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-21 06:17:50。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,10 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-07-21-征战百度经验有感](https://www.v2ex.com/t/867745) 
+- [2022-07-21-讲道理-,为什么拼西西上面没有-13mini-卖](https://www.v2ex.com/t/867743) 
+- [2022-07-21-V-友们，工作太难找！](https://www.v2ex.com/t/867741) 
+- [2022-07-21-午休的时候，突然意识到我用了很久的假货](https://www.v2ex.com/t/867739) 
 - [2022-07-21-一记铁拳，滴滴被处-80.26-亿元罚款](https://www.v2ex.com/t/867736) 
 - [2022-07-21-不想给喵喵割蛋蛋定期给他找炮友可以吗](https://www.v2ex.com/t/867735) 
 - [2022-07-21-我想问一下，现在还有谁能正常消费神州专车的余额?](https://www.v2ex.com/t/867734) 
@@ -1938,10 +1942,6 @@
 - [2022-07-21-软件的版权会过期吗?](https://www.v2ex.com/t/867699) 
 - [2022-07-21-大一女生用笔记本推荐](https://www.v2ex.com/t/867698) 
 - [2022-07-21-各位怎么在安卓上收取-Gmail-邮件](https://www.v2ex.com/t/867696) 
-- [2022-07-21-针对多层级的目录树展开，应该如何做设计？](https://www.v2ex.com/t/867694) 
-- [2022-07-21-Teams-用不了了](https://www.v2ex.com/t/867693) 
-- [2022-07-21-百度地图打车-vs-高德地图打车](https://www.v2ex.com/t/867690) 
-- [2022-07-21-镜像数据烧录和复制粘贴有什么区别？用-rufus-将镜像烧录到-U-盘和直接复制粘贴，结果不一致。](https://www.v2ex.com/t/867689) 
 - [2022-07-21-浅谈契约测试-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15220&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fcontract-testing%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-21-单体-or-微服务？你以为是架构权衡？其实是认知负载！-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15219&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fmonolith-microservice-architectural-tradeoff-cognitive-load%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-21-DDD-中的几个困难问题-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15218&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fdifficult-problems-in-domain-driven-design%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1969,4 +1969,7 @@
 - [2022-07-21-全场景流量验证系统](https://toutiao.io/k/yuv19vm) 
 - [2022-07-21-超详细的-Doris-读写流程](https://toutiao.io/k/xtqv9br) 
 - [2022-07-21-【萌新解题】两数相除](https://toutiao.io/k/4tcpq3s) 
+- [2022-07-21-巧用-Kubernetes-中的-Leader-选举机制来实现自己的-HA-应用](https://toutiao.io/k/k4vb8il) 
+- [2022-07-21-特斯拉为何使用.NET-Core技术框架？](https://toutiao.io/k/kpg0766) 
+- [2022-07-21-敲黑板！Kubernetes-架构核心知识点就这么多](https://toutiao.io/k/1vb52po) 
 - [2022-07-21-推荐-高并发，你真的理解透彻了吗？](https://toutiao.io/k/93k2zfb) 

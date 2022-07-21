@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-07-21 14:14:38，:rocket: 更新条数: +2029， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-07-21 14:39:55，:rocket: 更新条数: +2029， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-07-21-请问如何在-Linux-（PVE，-debian）中使用-2.4G-无线遥控器？](https://www.v2ex.com/t/867860) ![](assets/new.png)  
+- [2022-07-21-上海-不加班-外企-招-Java-、C++、安卓、中级测试、支持工程师、初级-devOps，-Java-和-测试有残疾人岗位](https://www.v2ex.com/t/867859) ![](assets/new.png)  
 - [2022-07-21-从-anki、onenote-到-obsidian，一名小镇做题家的笔记进化史](https://www.v2ex.com/t/867858) ![](assets/new.png)  
 - [2022-07-21-MacBook-的声音上多了一个-TFFAudio-的输入输出设备，怎么删除？](https://www.v2ex.com/t/867857) ![](assets/new.png)  
 - [2022-07-21-话说和-hr-处对象是怎样的体验？](https://www.v2ex.com/t/867856) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-07-21-添加了-n1-盒子后-esxi-中的-win7-虚拟机没网](https://www.v2ex.com/t/867843) ![](assets/new.png)  
 - [2022-07-21-各位大佬有没有遇到过文件还在但是内容都没了，变成-0-字节](https://www.v2ex.com/t/867842) ![](assets/new.png)  
 - [2022-07-21-为满足网友需求，现在-i996-免费内网穿透已增加自定义域名功能](https://www.v2ex.com/t/867840) ![](assets/new.png)  
-- [2022-07-21-T-Chat-第六期「-Yuu---我在-Linkedin-做移动端-」7-月-21-日（今晚）21:00-开播](https://www.v2ex.com/t/867839) ![](assets/new.png)  
-- [2022-07-21-Spotfy-台区家庭组长期](https://www.v2ex.com/t/867838) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -559,8 +559,8 @@
 - [2022-07-21-揭秘技术-Leader-必备的-7-大清奇脑回路](https://toutiao.io/k/btmeu2x) ![](assets/new.png)  
 - [2022-07-21-彻底搞懂之C++智能指针](https://toutiao.io/k/yw510cs) ![](assets/new.png)  
 - [2022-07-21-全场景流量验证系统](https://toutiao.io/k/yuv19vm) ![](assets/new.png)  
-- [2022-07-21-实时分析需要SQL和复杂查询](https://toutiao.io/k/lg3qc2w) ![](assets/new.png)  
 - [2022-07-21-应用启动加速-并发初始化spring-bean](https://toutiao.io/k/rtkrkkf) ![](assets/new.png)  
+- [2022-07-21-实时分析需要SQL和复杂查询](https://toutiao.io/k/lg3qc2w) ![](assets/new.png)  
 - [2022-07-21-超详细的-Doris-读写流程](https://toutiao.io/k/xtqv9br) ![](assets/new.png)  
 - [2022-07-21-构建人工智能产品/业务的两种策略by-Andrew-Ng](https://toutiao.io/k/nx1ko1w) ![](assets/new.png)  
 - [2022-07-21-跨框架的-UI-组件封装技术](https://toutiao.io/k/fh0sw9n) ![](assets/new.png)  

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-21 14:14:38。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-21 14:39:55。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,8 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-07-21-请问如何在-Linux-（PVE，-debian）中使用-2.4G-无线遥控器？](https://www.v2ex.com/t/867860) 
+- [2022-07-21-上海-不加班-外企-招-Java-、C++、安卓、中级测试、支持工程师、初级-devOps，-Java-和-测试有残疾人岗位](https://www.v2ex.com/t/867859) 
 - [2022-07-21-从-anki、onenote-到-obsidian，一名小镇做题家的笔记进化史](https://www.v2ex.com/t/867858) 
 - [2022-07-21-话说和-hr-处对象是怎样的体验？](https://www.v2ex.com/t/867856) 
 - [2022-07-21-如果开发一个云笔记应该怎么设计?](https://www.v2ex.com/t/867854) 
@@ -1947,7 +1949,6 @@
 - [2022-07-21-天气太热了，推荐款能装-13-寸笔记本的斜挎包吧](https://www.v2ex.com/t/867817) 
 - [2022-07-21-前端生成项目模版代码有什么成熟的解决方案吗？](https://www.v2ex.com/t/867816) 
 - [2022-07-21-咨询一下大家-activiti-几百万数据查询慢怎么办](https://www.v2ex.com/t/867814) 
-- [2022-07-21-一个仅需三步配置就能生成免费个人博客的开源模板：-vdoing-template](https://www.v2ex.com/t/867811) 
 - [2022-07-21-浅谈契约测试-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15220&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fcontract-testing%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-21-单体-or-微服务？你以为是架构权衡？其实是认知负载！-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15219&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fmonolith-microservice-architectural-tradeoff-cognitive-load%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-21-DDD-中的几个困难问题-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15218&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fdifficult-problems-in-domain-driven-design%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1969,8 +1970,8 @@
 - [2022-07-21-揭秘技术-Leader-必备的-7-大清奇脑回路](https://toutiao.io/k/btmeu2x) 
 - [2022-07-21-彻底搞懂之C++智能指针](https://toutiao.io/k/yw510cs) 
 - [2022-07-21-全场景流量验证系统](https://toutiao.io/k/yuv19vm) 
-- [2022-07-21-实时分析需要SQL和复杂查询](https://toutiao.io/k/lg3qc2w) 
 - [2022-07-21-应用启动加速-并发初始化spring-bean](https://toutiao.io/k/rtkrkkf) 
+- [2022-07-21-实时分析需要SQL和复杂查询](https://toutiao.io/k/lg3qc2w) 
 - [2022-07-21-超详细的-Doris-读写流程](https://toutiao.io/k/xtqv9br) 
 - [2022-07-21-松果出行-x-StarRocks：实时数仓新范式的实践之路](https://toutiao.io/k/5vklfca) 
 - [2022-07-21-端智能实践分享：模型评估和编译](https://toutiao.io/k/cmm5qks) 

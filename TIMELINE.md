@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-21 14:14:38。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-07-21 14:39:55。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,8 @@
 </summary>
 
 
+- [【V2EX】2022-07-21-请问如何在-Linux-（PVE，-debian）中使用-2.4G-无线遥控器？](https://www.v2ex.com/t/867860) 
+- [【V2EX】2022-07-21-上海-不加班-外企-招-Java-、C++、安卓、中级测试、支持工程师、初级-devOps，-Java-和-测试有残疾人岗位](https://www.v2ex.com/t/867859) 
 - [【V2EX】2022-07-21-从-anki、onenote-到-obsidian，一名小镇做题家的笔记进化史](https://www.v2ex.com/t/867858) 
 - [【V2EX】2022-07-21-MacBook-的声音上多了一个-TFFAudio-的输入输出设备，怎么删除？](https://www.v2ex.com/t/867857) 
 - [【V2EX】2022-07-21-话说和-hr-处对象是怎样的体验？](https://www.v2ex.com/t/867856) 
@@ -109,8 +111,6 @@
 - [【V2EX】2022-07-21-前端生成项目模版代码有什么成熟的解决方案吗？](https://www.v2ex.com/t/867816) 
 - [【V2EX】2022-07-21-咨询一下大家-activiti-几百万数据查询慢怎么办](https://www.v2ex.com/t/867814) 
 - [【V2EX】2022-07-21-Docker-Hub-搜不到镜像，推送已过-24-小时，是公开镜像，求解是为何？](https://www.v2ex.com/t/867813) 
-- [【V2EX】2022-07-21-一个仅需三步配置就能生成免费个人博客的开源模板：-vdoing-template](https://www.v2ex.com/t/867811) 
-- [【V2EX】2022-07-21-Notion-手机端细节做了负优化吗？](https://www.v2ex.com/t/867809) 
 - [【技术头条】2022-07-21-浅谈契约测试-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15220&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fcontract-testing%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-21-单体-or-微服务？你以为是架构权衡？其实是认知负载！-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15219&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fmonolith-microservice-architectural-tradeoff-cognitive-load%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-21-DDD-中的几个困难问题-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15218&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fdifficult-problems-in-domain-driven-design%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -137,8 +137,8 @@
 - [【开发者头条】2022-07-21-揭秘技术-Leader-必备的-7-大清奇脑回路](https://toutiao.io/k/btmeu2x) 
 - [【开发者头条】2022-07-21-彻底搞懂之C++智能指针](https://toutiao.io/k/yw510cs) 
 - [【开发者头条】2022-07-21-全场景流量验证系统](https://toutiao.io/k/yuv19vm) 
-- [【开发者头条】2022-07-21-实时分析需要SQL和复杂查询](https://toutiao.io/k/lg3qc2w) 
 - [【开发者头条】2022-07-21-应用启动加速-并发初始化spring-bean](https://toutiao.io/k/rtkrkkf) 
+- [【开发者头条】2022-07-21-实时分析需要SQL和复杂查询](https://toutiao.io/k/lg3qc2w) 
 - [【开发者头条】2022-07-21-超详细的-Doris-读写流程](https://toutiao.io/k/xtqv9br) 
 - [【开发者头条】2022-07-21-构建人工智能产品/业务的两种策略by-Andrew-Ng](https://toutiao.io/k/nx1ko1w) 
 - [【开发者头条】2022-07-21-跨框架的-UI-组件封装技术](https://toutiao.io/k/fh0sw9n) 

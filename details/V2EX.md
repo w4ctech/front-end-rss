@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2022-07-21 14:14:38。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-21 14:39:55。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-07-21-请问如何在-Linux-（PVE，-debian）中使用-2.4G-无线遥控器？](https://www.v2ex.com/t/867860) 
+- [2022-07-21-上海-不加班-外企-招-Java-、C++、安卓、中级测试、支持工程师、初级-devOps，-Java-和-测试有残疾人岗位](https://www.v2ex.com/t/867859) 
 - [2022-07-21-从-anki、onenote-到-obsidian，一名小镇做题家的笔记进化史](https://www.v2ex.com/t/867858) 
 - [2022-07-21-MacBook-的声音上多了一个-TFFAudio-的输入输出设备，怎么删除？](https://www.v2ex.com/t/867857) 
 - [2022-07-21-话说和-hr-处对象是怎样的体验？](https://www.v2ex.com/t/867856) 
@@ -46,5 +48,3 @@
 - [2022-07-21-前端生成项目模版代码有什么成熟的解决方案吗？](https://www.v2ex.com/t/867816) 
 - [2022-07-21-咨询一下大家-activiti-几百万数据查询慢怎么办](https://www.v2ex.com/t/867814) 
 - [2022-07-21-Docker-Hub-搜不到镜像，推送已过-24-小时，是公开镜像，求解是为何？](https://www.v2ex.com/t/867813) 
-- [2022-07-21-一个仅需三步配置就能生成免费个人博客的开源模板：-vdoing-template](https://www.v2ex.com/t/867811) 
-- [2022-07-21-Notion-手机端细节做了负优化吗？](https://www.v2ex.com/t/867809) 

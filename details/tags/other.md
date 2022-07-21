@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-21 17:19:06。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-21 17:43:32。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1912,7 +1912,6 @@
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
 - [2022-07-21-北京-Java-开发-钱包开发-区块链开发-内推](https://www.v2ex.com/t/867881) 
-- [2022-07-21-大学时的女友突然来找我](https://www.v2ex.com/t/867880) 
 - [2022-07-21-在-iPhone-上订阅了大会员，大会员没到期之前是不是不能换区了](https://www.v2ex.com/t/867879) 
 - [2022-07-21-mbp14-升级-12.5-后，修饰键+触摸板轻触的问题终于解决了！](https://www.v2ex.com/t/867878) 
 - [2022-07-21-有日志stdout-or-file-qps-4k，没日志-qps-10w.-why?](https://www.v2ex.com/t/867876) 
@@ -1947,7 +1946,6 @@
 - [2022-07-21-vscode-不能用只有斜线这种符号的关键词来触发代码片段吗？](https://www.v2ex.com/t/867835) 
 - [2022-07-21-问个开-Apple-One-家庭车的问题](https://www.v2ex.com/t/867834) 
 - [2022-07-21-自由职业者，上月医社保-878，这个月-909](https://www.v2ex.com/t/867833) 
-- [2022-07-21-是否有办法转移-Kindle-中的笔记呢？](https://www.v2ex.com/t/867832) 
 - [2022-07-21-浅谈契约测试-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15220&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fcontract-testing%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-21-单体-or-微服务？你以为是架构权衡？其实是认知负载！-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15219&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fmonolith-microservice-architectural-tradeoff-cognitive-load%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-21-DDD-中的几个困难问题-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15218&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fdifficult-problems-in-domain-driven-design%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

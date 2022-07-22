@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-22 13:56:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-07-22 14:15:43。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -69,6 +69,7 @@
 
 
 - [【张鑫旭-鑫空间-鑫生活】2022-07-21-超酷！CSS-font-palette与彩色字体显示](https://www.zhangxinxu.com/wordpress/2022/07/css-font-palette/) 
+- [【V2EX】2022-07-22-写-go-语言的一种不作不会死的方式](https://www.v2ex.com/t/868113) 
 - [【V2EX】2022-07-22-微信是不是崩了？](https://www.v2ex.com/t/868112) 
 - [【V2EX】2022-07-22-滴滴被罚-80-亿，太严重吗？](https://www.v2ex.com/t/868111) 
 - [【V2EX】2022-07-22-第一款开源、跨平台、高性能的中文编程语言！](https://www.v2ex.com/t/868110) 
@@ -109,7 +110,6 @@
 - [【V2EX】2022-07-22-上海—社招/校招/实习（坚果云---同步办公网盘）新增前端开发、-Python-后端，其他方向也在持续扩招中...](https://www.v2ex.com/t/868067) 
 - [【V2EX】2022-07-22-安卓（模拟器）安装-RustDesk-安装后无法运行，白屏](https://www.v2ex.com/t/868066) 
 - [【V2EX】2022-07-22-请教下，腾讯云-mysql-热点更新保护具体作用是什么](https://www.v2ex.com/t/868064) 
-- [【V2EX】2022-07-22-USB-鼠标/键盘设备反复插拔后无法正常输入的玄学问题](https://www.v2ex.com/t/868063) 
 - [【技术头条】2022-07-22-浅谈契约测试-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15220&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fcontract-testing%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-22-单体-or-微服务？你以为是架构权衡？其实是认知负载！-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15219&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fmonolith-microservice-architectural-tradeoff-cognitive-load%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-22-DDD-中的几个困难问题-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15218&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fdifficult-problems-in-domain-driven-design%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -141,15 +141,15 @@
 - [【开发者头条】2022-07-22-五分钟给你的-gRPC-服务加上-HTTP-接口](https://toutiao.io/k/jaos7rv) 
 - [【开发者头条】2022-07-22-实战：如何实时采集上亿级别数据？](https://toutiao.io/k/e7blmk9) 
 - [【开发者头条】2022-07-22-超全总结：Go语言如何操作文件](https://toutiao.io/k/8bann0d) 
-- [【开发者头条】2022-07-22-人生没有捷径，专注做好一件事就是捷径——《元智慧》读后](https://toutiao.io/k/4hxhgtz) 
 - [【开发者头条】2022-07-22-Jackson-解析-JSON-详细教程](https://toutiao.io/k/g3uacum) 
+- [【开发者头条】2022-07-22-人生没有捷径，专注做好一件事就是捷径——《元智慧》读后](https://toutiao.io/k/4hxhgtz) 
 - [【开发者头条】2022-07-22-如何封装一个计算容器高度宽度的hook？Vue/React道理相通~](https://toutiao.io/k/g4r2m39) 
 - [【开发者头条】2022-07-22-链路追踪（Tracing）的前世今生](https://toutiao.io/k/oxcvb7o) 
 - [【开发者头条】2022-07-22-解密“海莲花”组织攻击真相---与某大型企业共同对抗APT实录](https://toutiao.io/k/4pfq4zd) 
 - [【开发者头条】2022-07-22-Android进程保活组件的封装](https://toutiao.io/k/ct6hfom) 
 - [【开发者头条】2022-07-22-独立开发变现周刊（第64期）：-一套图标，6天6位数收入](https://toutiao.io/k/nxrftn4) 
-- [【开发者头条】2022-07-22-推荐-一线技术人应该关注的四种思维能力](https://toutiao.io/k/s2lbrzp) 
 - [【开发者头条】2022-07-22-推荐-高并发，你真的理解透彻了吗？](https://toutiao.io/k/93k2zfb) 
+- [【开发者头条】2022-07-22-推荐-一线技术人应该关注的四种思维能力](https://toutiao.io/k/s2lbrzp) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

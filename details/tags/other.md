@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-22 13:56:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-22 14:15:43。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,7 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-07-22-写-go-语言的一种不作不会死的方式](https://www.v2ex.com/t/868113) 
 - [2022-07-22-微信是不是崩了？](https://www.v2ex.com/t/868112) 
 - [2022-07-22-滴滴被罚-80-亿，太严重吗？](https://www.v2ex.com/t/868111) 
 - [2022-07-22-深圳前端求职](https://www.v2ex.com/t/868109) 
@@ -1942,7 +1943,6 @@
 - [2022-07-22-上海—社招/校招/实习（坚果云---同步办公网盘）新增前端开发、-Python-后端，其他方向也在持续扩招中...](https://www.v2ex.com/t/868067) 
 - [2022-07-22-安卓（模拟器）安装-RustDesk-安装后无法运行，白屏](https://www.v2ex.com/t/868066) 
 - [2022-07-22-请教下，腾讯云-mysql-热点更新保护具体作用是什么](https://www.v2ex.com/t/868064) 
-- [2022-07-22-USB-鼠标/键盘设备反复插拔后无法正常输入的玄学问题](https://www.v2ex.com/t/868063) 
 - [2022-07-22-浅谈契约测试-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15220&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fcontract-testing%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-22-单体-or-微服务？你以为是架构权衡？其实是认知负载！-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15219&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fmonolith-microservice-architectural-tradeoff-cognitive-load%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-22-DDD-中的几个困难问题-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15218&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fdifficult-problems-in-domain-driven-design%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1974,5 +1974,5 @@
 - [2022-07-22-链路追踪（Tracing）的前世今生](https://toutiao.io/k/oxcvb7o) 
 - [2022-07-22-解密“海莲花”组织攻击真相---与某大型企业共同对抗APT实录](https://toutiao.io/k/4pfq4zd) 
 - [2022-07-22-独立开发变现周刊（第64期）：-一套图标，6天6位数收入](https://toutiao.io/k/nxrftn4) 
-- [2022-07-22-推荐-一线技术人应该关注的四种思维能力](https://toutiao.io/k/s2lbrzp) 
 - [2022-07-22-推荐-高并发，你真的理解透彻了吗？](https://toutiao.io/k/93k2zfb) 
+- [2022-07-22-推荐-一线技术人应该关注的四种思维能力](https://toutiao.io/k/s2lbrzp) 

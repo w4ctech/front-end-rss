@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-22 11:39:31。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-22 12:26:33。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,11 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-07-22-关于用不用-Optional-和-warn-级别-log，大家有一套判断标准吗？](https://www.v2ex.com/t/868098) 
+- [2022-07-22-pve-下的-iKuai，-bt-下载时极易死机](https://www.v2ex.com/t/868097) 
+- [2022-07-22-深夜抖音里卖吉祥号的是什么套路？](https://www.v2ex.com/t/868096) 
+- [2022-07-22-请教-Python-大佬，遍历一个-5GB-大小的-txt-文件，用什么方式效率比较高](https://www.v2ex.com/t/868095) 
+- [2022-07-22-自建新闻/资源聚合方案？](https://www.v2ex.com/t/868093) 
 - [2022-07-22-各位聚聚们-hw-是又开始啦？](https://www.v2ex.com/t/868090) 
 - [2022-07-22-如何戒掉-lol，就是想打两把，怎么办？-如何戒掉抖音，我已经把抖音禁止访问，但是忍不住还是改回来](https://www.v2ex.com/t/868088) 
 - [2022-07-22-对于各公司快递员的一些主观感受](https://www.v2ex.com/t/868087) 
@@ -1939,10 +1944,6 @@
 - [2022-07-22-无人驾驶打车体验，仅限部分区域。快来体验吧，限时免费](https://www.v2ex.com/t/868052) 
 - [2022-07-22-分享自己开发的-utools-插件，用于在-windows-浏览-Dash-文档](https://www.v2ex.com/t/868051) 
 - [2022-07-22-苏州-90-平左右吴中区毛坯房整租好租吗？](https://www.v2ex.com/t/868050) 
-- [2022-07-22-MacBook-Air-2020-触控板左右两侧高低不一样](https://www.v2ex.com/t/868048) 
-- [2022-07-22-求助-一个硬件相关的问题](https://www.v2ex.com/t/868045) 
-- [2022-07-22-iPad-Air-5-搭配-LG-Ultrafine-5K-问题](https://www.v2ex.com/t/868043) 
-- [2022-07-22-一开百度云会员下载。运维就跑过来说你的电脑一直在攻击，拔网线。。。](https://www.v2ex.com/t/868042) 
 - [2022-07-22-浅谈契约测试-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15220&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fcontract-testing%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-22-单体-or-微服务？你以为是架构权衡？其实是认知负载！-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15219&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fmonolith-microservice-architectural-tradeoff-cognitive-load%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-22-DDD-中的几个困难问题-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15218&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fdifficult-problems-in-domain-driven-design%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1974,5 +1975,5 @@
 - [2022-07-22-解密“海莲花”组织攻击真相---与某大型企业共同对抗APT实录](https://toutiao.io/k/4pfq4zd) 
 - [2022-07-22-链路追踪（Tracing）的前世今生](https://toutiao.io/k/oxcvb7o) 
 - [2022-07-22-独立开发变现周刊（第64期）：-一套图标，6天6位数收入](https://toutiao.io/k/nxrftn4) 
-- [2022-07-22-推荐-高并发，你真的理解透彻了吗？](https://toutiao.io/k/93k2zfb) 
 - [2022-07-22-推荐-一线技术人应该关注的四种思维能力](https://toutiao.io/k/s2lbrzp) 
+- [2022-07-22-推荐-高并发，你真的理解透彻了吗？](https://toutiao.io/k/93k2zfb) 

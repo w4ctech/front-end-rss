@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-22 07:40:08。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-07-22 08:19:48。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -69,6 +69,14 @@
 
 
 - [【张鑫旭-鑫空间-鑫生活】2022-07-21-超酷！CSS-font-palette与彩色字体显示](https://www.zhangxinxu.com/wordpress/2022/07/css-font-palette/) 
+- [【V2EX】2022-07-22-上海、杭州、远程-3-年软件测试-求职](https://www.v2ex.com/t/868034) 
+- [【V2EX】2022-07-22-Apple-TV（4K-6-代）可以支持多个遥控器同时使用吗？](https://www.v2ex.com/t/868033) 
+- [【V2EX】2022-07-22-一起在线终端聊天吧！](https://www.v2ex.com/t/868032) 
+- [【V2EX】2022-07-22-FEAT-可以建议点击主题的时候通过新开页签打开吗？或者做个开关，可以控制当前页跳转或新开页跳转。](https://www.v2ex.com/t/868031) 
+- [【V2EX】2022-07-22-iPhone-的-ios，发展到了现在，能不能不经过-apple-app-store，安装异-apple-id-的-app？](https://www.v2ex.com/t/868030) 
+- [【V2EX】2022-07-22-M1-版的-toolbox-下了-Intel-版的-idea](https://www.v2ex.com/t/868029) 
+- [【V2EX】2022-07-22-5-元会员月卡（QQ-音乐、Keep、芒果-TV、优酷、饿了么）](https://www.v2ex.com/t/868028) 
+- [【V2EX】2022-07-22-ant-design-protable-renderFormItem-这个自定义搜索渲染用不来啊](https://www.v2ex.com/t/868027) 
 - [【V2EX】2022-07-22-苹果的内存为啥那么贵？是有什么特别牛通的地方吗？](https://www.v2ex.com/t/868025) 
 - [【V2EX】2022-07-22-spring-rest-template-在-kubernetes-time-out](https://www.v2ex.com/t/868022) 
 - [【V2EX】2022-07-22-MBP14-升级-12.5-，修饰键+触摸板轻触-BUG-修复。但还要双击不灵敏的问题](https://www.v2ex.com/t/868021) 
@@ -95,15 +103,6 @@
 - [【V2EX】2022-07-22-都-22H2-了，-Windows-11-在-12-代-Intel-上还是有大小核调度问题](https://www.v2ex.com/t/867990) 
 - [【V2EX】2022-07-22-Vuejs-里面在父组件通过$refs.childComp.xxx-改变子组件-state-或者调用方法-很常用么？](https://www.v2ex.com/t/867989) 
 - [【V2EX】2022-07-22-大家港美股用的什么交易软件？](https://www.v2ex.com/t/867988) 
-- [【V2EX】2022-07-22-ipv6-测试网现在都要出国才行？](https://www.v2ex.com/t/867986) 
-- [【V2EX】2022-07-22-可乐上瘾怎么办？](https://www.v2ex.com/t/867985) 
-- [【V2EX】2022-07-22-做了个轮子-React-Hook-Dialog-用类型安全的-Hook-管理对话框组件](https://www.v2ex.com/t/867984) 
-- [【V2EX】2022-07-22-还能从香港带新电脑回来吗？](https://www.v2ex.com/t/867983) 
-- [【V2EX】2022-07-22-Ng-Matero-v14-已发布](https://www.v2ex.com/t/867981) 
-- [【V2EX】2022-07-22-公司内网屏蔽了影视网站，晕，很败好感呐](https://www.v2ex.com/t/867980) 
-- [【V2EX】2022-07-22-我是不是可以准备跑路了？](https://www.v2ex.com/t/867979) 
-- [【V2EX】2022-07-22-关于-Rust-的一点小小感悟](https://www.v2ex.com/t/867978) 
-- [【V2EX】2022-07-22-pc=mobile+pad-自适应布局：页面结构与打开方式](https://www.v2ex.com/t/867977) 
 - [【技术头条】2022-07-22-浅谈契约测试-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15220&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fcontract-testing%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-22-单体-or-微服务？你以为是架构权衡？其实是认知负载！-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15219&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fmonolith-microservice-architectural-tradeoff-cognitive-load%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-22-DDD-中的几个困难问题-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15218&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fdifficult-problems-in-domain-driven-design%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

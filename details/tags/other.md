@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-22 20:16:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-22 20:42:12。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,7 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-07-22-唉，打算用模拟器弄一个微信自动化的程序，结果立马就给我永封了...](https://www.v2ex.com/t/868138) 
 - [2022-07-22-xdm-家庭部署服务器有什么解决方案吗？](https://www.v2ex.com/t/868136) 
 - [2022-07-22-Google-Voice-号码终于失而复得！](https://www.v2ex.com/t/868133) 
 - [2022-07-22-今天去-apple-store-摸-mba-m2，发现一台问题机。](https://www.v2ex.com/t/868132) 
@@ -1936,7 +1937,6 @@
 - [2022-07-22-深夜抖音里卖吉祥号的是什么套路？](https://www.v2ex.com/t/868096) 
 - [2022-07-22-请教-Python-大佬，遍历一个-5GB-大小的-txt-文件，用什么方式效率比较高](https://www.v2ex.com/t/868095) 
 - [2022-07-22-自建新闻/资源聚合方案？](https://www.v2ex.com/t/868093) 
-- [2022-07-22-如何戒掉-lol，就是想打两把，怎么办？-如何戒掉抖音，我已经把抖音禁止访问，但是忍不住还是改回来](https://www.v2ex.com/t/868088) 
 - [2022-07-22-浅谈契约测试-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15220&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fcontract-testing%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-22-单体-or-微服务？你以为是架构权衡？其实是认知负载！-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15219&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fmonolith-microservice-architectural-tradeoff-cognitive-load%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-22-DDD-中的几个困难问题-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15218&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fdifficult-problems-in-domain-driven-design%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1969,5 +1969,5 @@
 - [2022-07-22-解密“海莲花”组织攻击真相---与某大型企业共同对抗APT实录](https://toutiao.io/k/4pfq4zd) 
 - [2022-07-22-独立开发变现周刊（第64期）：-一套图标，6天6位数收入](https://toutiao.io/k/nxrftn4) 
 - [2022-07-22-推荐-一线技术人应该关注的四种思维能力](https://toutiao.io/k/s2lbrzp) 
-- [2022-07-22-推荐-高并发，你真的理解透彻了吗？](https://toutiao.io/k/93k2zfb) 
 - [2022-07-22-推荐-团队一盘散沙，怎么破？](https://toutiao.io/k/kdzpdh5) 
+- [2022-07-22-推荐-高并发，你真的理解透彻了吗？](https://toutiao.io/k/93k2zfb) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-22 15:45:06。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-22 16:21:57。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 性能优化
 
@@ -7,6 +7,7 @@
 
 
 
+- [2022-07-22-vscode-写-go-项目吃了-6G-内存，有办法优化吗](https://www.v2ex.com/t/868128) 
 - [2022-07-22-第一款开源、跨平台、高性能的中文编程语言！](https://www.v2ex.com/t/868110) 
 - [2022-07-22-线路优化问题](https://www.v2ex.com/t/868092) 
 - [2022-07-22-SpringBoot这样优化，让你的项目飞起来！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15210&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494249%26amp%3Bidx%3D2%26amp%3Bsn%3D81ee5cbc880d1c4c9e263fb7c7bd918d%26amp%3Bchksm%3Dfa3f0b32cd4882249d2e5f06fb5227b0380f3dfb629bf243a1cf69b198049fc30f1b093cfa0a%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

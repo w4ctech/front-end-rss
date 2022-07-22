@@ -1,11 +1,11 @@
-:alarm_clock: 更新时间: 2022-07-22 17:48:44。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-22 18:18:59。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
-- [2022-07-22-PC-端用-Shadowsocks-翻墙时不时出现-NS_BINDING_ABORTED-或-ERR_EMPTY_RESPONSE-错误](https://www.v2ex.com/t/868134) 
+- [2022-07-22-PC-端用-Shadowsocks-翻墙时不时出现-NS_BINDING_ABORTED-或-ERR_EMPTY_RESPONSE-错误，求教怎么解决？](https://www.v2ex.com/t/868134) 
 - [2022-07-22-Google-Voice-号码终于失而复得！](https://www.v2ex.com/t/868133) 
 - [2022-07-22-今天去-apple-store-摸-mba-m2，发现一台问题机。](https://www.v2ex.com/t/868132) 
 - [2022-07-22-直营店比较了一下-mba-m2-和-m1](https://www.v2ex.com/t/868131) 

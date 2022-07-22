@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-22 05:46:51。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-22 06:18:39。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -14,4 +14,5 @@
 - [2021-01-08-解药|新冠mRNA疫苗安全性有哪些挑战？](https://m.caixin.com/m/2021-01-08/101648043.html) 
 - [2021-01-01-大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html) 
 - [2022-06-12-基于文字的URL锚点定位与::target-text样式设置](https://www.zhangxinxu.com/wordpress/2022/06/url-anchor-target-text/) 
+- [2022-07-22-优先考虑安全性，-Windows-连接-macOs-有没有局域网的远程连接协议？](https://www.v2ex.com/t/867993) 
 - [2022-07-22-macOS-12.5-修复了-Safari-浏览器标签页可能会复原为之前页面的问题](https://www.v2ex.com/t/867969) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-22 10:16:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-22 10:45:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,7 +1911,12 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
-- [2022-07-22-19-款-Mbp-15-想换-M1-的](https://www.v2ex.com/t/868070) 
+- [2022-07-22-深圳找羽毛球球友](https://www.v2ex.com/t/868076) 
+- [2022-07-22-ESXI-平台在-2-个-cpu-情况下-wide-vm-如何配置-CPU-NUMA](https://www.v2ex.com/t/868074) 
+- [2022-07-22-有偿共享极客时间会员，差一位同学，一年-120](https://www.v2ex.com/t/868073) 
+- [2022-07-22-武汉现阶段那个版块还有合适的大平房呀，-200-平到-300-平。](https://www.v2ex.com/t/868072) 
+- [2022-07-22-ubuntu-下有什么虚拟机软件推荐吗](https://www.v2ex.com/t/868071) 
+- [2022-07-22-19-款-MBP-要不要换个-M1](https://www.v2ex.com/t/868070) 
 - [2022-07-22-求助-@ConditionalOnClass-@ConditionalOnBean-导致-starter-配置未生效](https://www.v2ex.com/t/868069) 
 - [2022-07-22-上海—社招/校招/实习（坚果云---同步办公网盘）新增前端开发、-Python-后端，其他方向也在持续扩招中...](https://www.v2ex.com/t/868067) 
 - [2022-07-22-安卓（模拟器）安装-RustDesk-安装后无法运行，白屏](https://www.v2ex.com/t/868066) 
@@ -1940,8 +1945,6 @@
 - [2022-07-22-iPhone-的-ios，发展到了现在，能不能不经过-apple-app-store，安装异-apple-id-的-app？](https://www.v2ex.com/t/868030) 
 - [2022-07-22-M1-版的-toolbox-下了-Intel-版的-idea](https://www.v2ex.com/t/868029) 
 - [2022-07-22-5-元会员月卡（QQ-音乐、Keep、芒果-TV、优酷、饿了么）](https://www.v2ex.com/t/868028) 
-- [2022-07-22-苹果的内存为啥那么贵？是有什么特别牛通的地方吗？](https://www.v2ex.com/t/868025) 
-- [2022-07-22-MBP14-升级-12.5-，修饰键+触摸板轻触-BUG-修复。但还要双击不灵敏的问题](https://www.v2ex.com/t/868021) 
 - [2022-07-22-浅谈契约测试-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15220&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fcontract-testing%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-22-单体-or-微服务？你以为是架构权衡？其实是认知负载！-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15219&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fmonolith-microservice-architectural-tradeoff-cognitive-load%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-22-DDD-中的几个困难问题-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15218&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fdifficult-problems-in-domain-driven-design%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1973,5 +1976,5 @@
 - [2022-07-22-解密“海莲花”组织攻击真相---与某大型企业共同对抗APT实录](https://toutiao.io/k/4pfq4zd) 
 - [2022-07-22-链路追踪（Tracing）的前世今生](https://toutiao.io/k/oxcvb7o) 
 - [2022-07-22-独立开发变现周刊（第64期）：-一套图标，6天6位数收入](https://toutiao.io/k/nxrftn4) 
-- [2022-07-22-推荐-一线技术人应该关注的四种思维能力](https://toutiao.io/k/s2lbrzp) 
 - [2022-07-22-推荐-高并发，你真的理解透彻了吗？](https://toutiao.io/k/93k2zfb) 
+- [2022-07-22-推荐-一线技术人应该关注的四种思维能力](https://toutiao.io/k/s2lbrzp) 

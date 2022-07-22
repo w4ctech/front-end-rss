@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-22 06:52:42。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-22 07:14:50。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,8 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-07-22-请问大家-MagSafe-外接电池的体验如何？](https://www.v2ex.com/t/868020) 
+- [2022-07-22-枚举类型是从-0-开始还是从-1-开始](https://www.v2ex.com/t/868018) 
 - [2022-07-22-12-代英特尔-cpu-笔记本求推荐](https://www.v2ex.com/t/868015) 
 - [2022-07-22-求教，有没有开源的中文搜索引擎，或者怎么做一个简单的搜索引擎呢？](https://www.v2ex.com/t/868013) 
 - [2022-07-22-深圳电信怎么也玩这一套了](https://www.v2ex.com/t/868010) 
@@ -1939,9 +1941,6 @@
 - [2022-07-22-腾讯柠檬清理开源](https://www.v2ex.com/t/867975) 
 - [2022-07-22-换了新手机后，眼睛老是感觉疲劳，-OLED-屏幕到底伤不伤眼睛？](https://www.v2ex.com/t/867973) 
 - [2022-07-22-Deno-这个调查问卷有点调皮😝](https://www.v2ex.com/t/867972) 
-- [2022-07-22-手机-QQ-8.9.2-正式接入-MiPush？](https://www.v2ex.com/t/867970) 
-- [2022-07-22-自如-北京-宽带-桥接](https://www.v2ex.com/t/867968) 
-- [2022-07-22-正版软件推广丨喜欢分享软件经验和使用技巧？加入软购联盟，让您的分享更有动力！](https://www.v2ex.com/t/867967) 
 - [2022-07-22-浅谈契约测试-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15220&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fcontract-testing%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-22-单体-or-微服务？你以为是架构权衡？其实是认知负载！-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15219&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fmonolith-microservice-architectural-tradeoff-cognitive-load%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-22-DDD-中的几个困难问题-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15218&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fdifficult-problems-in-domain-driven-design%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1973,5 +1972,5 @@
 - [2022-07-22-解密“海莲花”组织攻击真相---与某大型企业共同对抗APT实录](https://toutiao.io/k/4pfq4zd) 
 - [2022-07-22-链路追踪（Tracing）的前世今生](https://toutiao.io/k/oxcvb7o) 
 - [2022-07-22-独立开发变现周刊（第64期）：-一套图标，6天6位数收入](https://toutiao.io/k/nxrftn4) 
-- [2022-07-22-推荐-高并发，你真的理解透彻了吗？](https://toutiao.io/k/93k2zfb) 
 - [2022-07-22-推荐-一线技术人应该关注的四种思维能力](https://toutiao.io/k/s2lbrzp) 
+- [2022-07-22-推荐-高并发，你真的理解透彻了吗？](https://toutiao.io/k/93k2zfb) 

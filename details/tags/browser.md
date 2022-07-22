@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-21 23:41:52。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-22 01:11:53。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -15,4 +15,3 @@
 - [2021-01-01-大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html) 
 - [2022-06-12-基于文字的URL锚点定位与::target-text样式设置](https://www.zhangxinxu.com/wordpress/2022/06/url-anchor-target-text/) 
 - [2022-07-21-自建的-nextcloud-服务，开启-https-跳转与强制-https-登录以后只能通过浏览器访问，在应用内无法打开，具体表现为点击授权访问无反应，该怎么解决啊](https://www.v2ex.com/t/867867) 
-- [2022-07-21-换掉Postman，事实证明它更牛逼！](https://toutiao.io/k/uncruss) 

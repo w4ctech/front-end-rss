@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-07-23 07:13:25。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-23 07:39:56。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -71,7 +71,6 @@
 
 
 
-- [【V2EX】typescript-里,-从后端接口获取的数据类型,-是声明全局类型呢,-还是模块类型呢](https://www.v2ex.com/t/868154)
 - [......【查看更多】......](./details/tags/typescript.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -319,7 +318,6 @@
 
 
 - [【V2EX】Docker-挂载父子目录问题](https://www.v2ex.com/t/868176)
-- [【V2EX】使用-docker-下载代码提示-key-报错问题请教](https://www.v2ex.com/t/868155)
 - [【开发者头条】分布式接口幂等性、分布式限流：Guava-、nginx和lua限流](https://toutiao.io/k/xqm5e8k)
 - [......【查看更多】......](./details/tags/server.md)
 

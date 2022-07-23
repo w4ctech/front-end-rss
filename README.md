@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-07-23 07:13:25，:rocket: 更新条数: +2020， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-07-23 07:39:56，:rocket: 更新条数: +2020， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,13 @@
 </summary>
 
 
+- [2022-07-23-Macbook-2021-时间机器无法启动](https://www.v2ex.com/t/868206) ![](assets/new.png)  
+- [2022-07-23-仍然怀念-Intel-CPU-的-mac](https://www.v2ex.com/t/868205) ![](assets/new.png)  
+- [2022-07-23-电信有那种-39-元-25G-的套餐吗？](https://www.v2ex.com/t/868204) ![](assets/new.png)  
+- [2022-07-23-退货折腾了快一个月，让戴尔发邮件，戴尔的邮箱服务器就坏了](https://www.v2ex.com/t/868202) ![](assets/new.png)  
+- [2022-07-23-nuc8i5BEH-维修](https://www.v2ex.com/t/868201) ![](assets/new.png)  
+- [2022-07-23-你们的苹果-27-寸苹果开启什么分辨率？](https://www.v2ex.com/t/868200) ![](assets/new.png)  
+- [2022-07-23-公司这么搞是违法的吗](https://www.v2ex.com/t/868199) ![](assets/new.png)  
 - [2022-07-23-手机总是收到垃圾短信，有没有办法轰炸下这些网站？](https://www.v2ex.com/t/868198) ![](assets/new.png)  
 - [2022-07-23-求-pdf-阅读软件推荐](https://www.v2ex.com/t/868197) ![](assets/new.png)  
 - [2022-07-23-正经人谁写日记？不正经人请进来领-30-个码！卷了一个日记软件--一叶日记](https://www.v2ex.com/t/868195) ![](assets/new.png)  
@@ -504,13 +511,6 @@
 - [2022-07-23-SMB-经由两个路由器的虚拟服务器功能，连接不上](https://www.v2ex.com/t/868186) ![](assets/new.png)  
 - [2022-07-23-2022-了-windows-有什么外接盒的厂商级靠谱备份方案了么？](https://www.v2ex.com/t/868185) ![](assets/new.png)  
 - [2022-07-23-求问依视路舒服还是蔡司舒服？？](https://www.v2ex.com/t/868184) ![](assets/new.png)  
-- [2022-07-23-我这样写是不是很难发现我的密码然后启动了个什么软件](https://www.v2ex.com/t/868183) ![](assets/new.png)  
-- [2022-07-23-Java-后台开发，大家用-@Autowired-多么](https://www.v2ex.com/t/868182) ![](assets/new.png)  
-- [2022-07-23-如何下载-pcie-规范的-pdf？](https://www.v2ex.com/t/868181) ![](assets/new.png)  
-- [2022-07-23-Chrome-有办法调用微软-edge-类似的朗读系统吗？](https://www.v2ex.com/t/868180) ![](assets/new.png)  
-- [2022-07-23-「选哪一个？」#1-M1.MBP14-标配-13,899-VS-#2-M2.MBA16G-512G-12,499](https://www.v2ex.com/t/868178) ![](assets/new.png)  
-- [2022-07-23-Docker-挂载父子目录问题](https://www.v2ex.com/t/868176) ![](assets/new.png)  
-- [2022-07-23-有没有-读取-json-文件根据-js-表达式-显示结果的工具](https://www.v2ex.com/t/868174) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -556,17 +556,17 @@
 - [2022-07-23-优质网站同好者周刊（第-075-期）-|-倾城博客](https://toutiao.io/k/5ev52vr) ![](assets/new.png)  
 - [2022-07-23-分布式接口幂等性、分布式限流：Guava-、nginx和lua限流](https://toutiao.io/k/xqm5e8k) ![](assets/new.png)  
 - [2022-07-23-Canvas-从入门到劝朋友放弃（图解版）](https://toutiao.io/k/z8mcoqf) ![](assets/new.png)  
-- [2022-07-23-聊聊-Kafka：协调者-GroupCoordinator-源码剖析之-FIND_COORDINATOR](https://toutiao.io/k/ghl5ia9) ![](assets/new.png)  
 - [2022-07-23-【萌新解题】数据流中的第-K-大元素](https://toutiao.io/k/1w5anuj) ![](assets/new.png)  
+- [2022-07-23-聊聊-Kafka：协调者-GroupCoordinator-源码剖析之-FIND_COORDINATOR](https://toutiao.io/k/ghl5ia9) ![](assets/new.png)  
 - [2022-07-23-腾讯游戏-：我们如何基于-StarRocks-构建云原生数仓](https://toutiao.io/k/cp62jt4) ![](assets/new.png)  
 - [2022-07-23-从SGD到NadaMax，十种优化算法原理及实现](https://toutiao.io/k/ep85azx) ![](assets/new.png)  
 - [2022-07-23-​详解维度建模之事实表](https://toutiao.io/k/awkwqm6) ![](assets/new.png)  
 - [2022-07-23-取代-C++？谷歌推出-Carbon，编程语言再添一员](https://toutiao.io/k/hfg7s1z) ![](assets/new.png)  
 - [2022-07-23-阿里-P6-和-P7-的主要区别是什么？](https://toutiao.io/k/apl6hig) ![](assets/new.png)  
-- [2022-07-23-推荐-不知道这4种缓存模式，敢说懂缓存吗？](https://toutiao.io/k/nn8m95b) ![](assets/new.png)  
-- [2022-07-23-推荐-高并发，你真的理解透彻了吗？](https://toutiao.io/k/93k2zfb) ![](assets/new.png)  
 - [2022-07-23-推荐-一线技术人应该关注的四种思维能力](https://toutiao.io/k/s2lbrzp) ![](assets/new.png)  
+- [2022-07-23-推荐-不知道这4种缓存模式，敢说懂缓存吗？](https://toutiao.io/k/nn8m95b) ![](assets/new.png)  
 - [2022-07-23-推荐-团队一盘散沙，怎么破？](https://toutiao.io/k/kdzpdh5) ![](assets/new.png)  
+- [2022-07-23-推荐-高并发，你真的理解透彻了吗？](https://toutiao.io/k/93k2zfb) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

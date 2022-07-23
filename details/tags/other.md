@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-23 11:37:57。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-23 12:23:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,8 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-07-23-求助各位用-Windows-笔记本的程序员](https://www.v2ex.com/t/868242) 
+- [2022-07-23-V2EX-首发，专业人才评估服务「人才码头」，诚邀试用~](https://www.v2ex.com/t/868241) 
 - [2022-07-23-坐标广州，突然发现公网-ip-地址被收回了。。](https://www.v2ex.com/t/868239) 
 - [2022-07-23-有没有什么图片加密的工具](https://www.v2ex.com/t/868236) 
 - [2022-07-23-上海-不加班-外企-招-Java-、C++、安卓、中级测试、支持工程师、初级-devOps，-Java-和-测试有残疾人岗位](https://www.v2ex.com/t/868235) 
@@ -1939,9 +1941,6 @@
 - [2022-07-23-求-pdf-阅读软件推荐](https://www.v2ex.com/t/868197) 
 - [2022-07-23-正经人谁写日记？不正经人请进来领-30-个码！卷了一个日记软件--一叶日记](https://www.v2ex.com/t/868195) 
 - [2022-07-23-这个网站是钓鱼网站吗？-www.ktkc.at](https://www.v2ex.com/t/868193) 
-- [2022-07-23-如何给代理加一层-socks5-代理方式](https://www.v2ex.com/t/868192) 
-- [2022-07-23-搜索英文技术问题的技巧](https://www.v2ex.com/t/868191) 
-- [2022-07-23-Bitwarden-只能通过服务器上部署的网页版而不能通过客户端修改密码是开发者偷懒没写这个功能还是有别的目的？](https://www.v2ex.com/t/868190) 
 - [2022-07-23-浅谈契约测试-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15220&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fcontract-testing%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-23-单体-or-微服务？你以为是架构权衡？其实是认知负载！-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15219&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fmonolith-microservice-architectural-tradeoff-cognitive-load%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-23-DDD-中的几个困难问题-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15218&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fdifficult-problems-in-domain-driven-design%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

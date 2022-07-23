@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-07-23 11:37:57，:rocket: 更新条数: +2017， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-07-23 12:23:25，:rocket: 更新条数: +2016， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-07-23-求助各位用-Windows-笔记本的程序员](https://www.v2ex.com/t/868242) ![](assets/new.png)  
+- [2022-07-23-V2EX-首发，专业人才评估服务「人才码头」，诚邀试用~](https://www.v2ex.com/t/868241) ![](assets/new.png)  
 - [2022-07-23-坐标广州，突然发现公网-ip-地址被收回了。。](https://www.v2ex.com/t/868239) ![](assets/new.png)  
 - [2022-07-23-用了-MacBook-miniLED-屏幕再用-studio-display-感觉屏幕好垃圾不够细腻怎么办?有啥推荐的显示器能媲美-miniLED-屏幕?](https://www.v2ex.com/t/868238) ![](assets/new.png)  
 - [2022-07-23-手机端横向滚动条修复与-postion:sticky-冲突问题](https://www.v2ex.com/t/868237) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-07-23-什么样的公司适合远程办公？](https://www.v2ex.com/t/868219) ![](assets/new.png)  
 - [2022-07-23-八五折出三网慢充话费](https://www.v2ex.com/t/868218) ![](assets/new.png)  
 - [2022-07-23-阿里通信-阿里小号-你做尽坏事-投诉无门-只能法院起诉-守规矩的人最受欺负](https://www.v2ex.com/t/868217) ![](assets/new.png)  
-- [2022-07-23-最近发现-iPhone-不用打开音乐-App-可以直接播放](https://www.v2ex.com/t/868216) ![](assets/new.png)  
-- [2022-07-23-红米-k20-pro-Google-pay-支付都不需要解锁](https://www.v2ex.com/t/868215) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -563,9 +563,9 @@
 - [2022-07-23-从SGD到NadaMax，十种优化算法原理及实现](https://toutiao.io/k/ep85azx) ![](assets/new.png)  
 - [2022-07-23-阿里-P6-和-P7-的主要区别是什么？](https://toutiao.io/k/apl6hig) ![](assets/new.png)  
 - [2022-07-23-取代-C++？谷歌推出-Carbon，编程语言再添一员](https://toutiao.io/k/hfg7s1z) ![](assets/new.png)  
-- [2022-07-23-推荐-不知道这4种缓存模式，敢说懂缓存吗？](https://toutiao.io/k/nn8m95b) ![](assets/new.png)  
 - [2022-07-23-推荐-一线技术人应该关注的四种思维能力](https://toutiao.io/k/s2lbrzp) ![](assets/new.png)  
 - [2022-07-23-推荐-高并发，你真的理解透彻了吗？](https://toutiao.io/k/93k2zfb) ![](assets/new.png)  
+- [2022-07-23-推荐-不知道这4种缓存模式，敢说懂缓存吗？](https://toutiao.io/k/nn8m95b) ![](assets/new.png)  
 - [2022-07-23-推荐-团队一盘散沙，怎么破？](https://toutiao.io/k/kdzpdh5) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

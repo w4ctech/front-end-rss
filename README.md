@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-07-23 15:14:16，:rocket: 更新条数: +2019， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-07-23 15:43:18，:rocket: 更新条数: +2019， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,11 @@
 </summary>
 
 
+- [2022-07-23-发现一个神奇的网站，到底什么原理？](https://www.v2ex.com/t/868280) ![](assets/new.png)  
+- [2022-07-23-家里预埋光纤，应该预埋那种类型的光纤？多芯皮线光纤还是多芯光缆](https://www.v2ex.com/t/868279) ![](assets/new.png)  
+- [2022-07-23-请问一个数据库表设计问题](https://www.v2ex.com/t/868277) ![](assets/new.png)  
+- [2022-07-23-有一个性能极好的-11/12-代-Intel-CPU，装进散热极差的无风扇轻薄本，是一种什么样的体验？](https://www.v2ex.com/t/868276) ![](assets/new.png)  
+- [2022-07-23-Tokenview。com-这个网站什么时候开始打不开的？](https://www.v2ex.com/t/868274) ![](assets/new.png)  
 - [2022-07-23-2020-款-MBP-的-touch-bar-花屏，软件问题还是硬件问题？](https://www.v2ex.com/t/868273) ![](assets/new.png)  
 - [2022-07-23-PC-端用-SSR-时不时出现-NS_BINDING_ABORTED-或-ERR_EMPTY_RESPONSE-错误，这个是什么问题呀](https://www.v2ex.com/t/868272) ![](assets/new.png)  
 - [2022-07-23-新的-m2-macbook-硬盘过度写入的问题还存在吗？](https://www.v2ex.com/t/868271) ![](assets/new.png)  
@@ -506,11 +511,6 @@
 - [2022-07-23-日益严重的关键词屏蔽,可否发明一种密文交流方式?](https://www.v2ex.com/t/868259) ![](assets/new.png)  
 - [2022-07-23-移动宽带-NAT-问题。](https://www.v2ex.com/t/868258) ![](assets/new.png)  
 - [2022-07-23-Google-Voice-被收回，求找回短信接收验证](https://www.v2ex.com/t/868257) ![](assets/new.png)  
-- [2022-07-23-麻烦问下百度云网页版的数字排序反人类，有没有解决办法?](https://www.v2ex.com/t/868256) ![](assets/new.png)  
-- [2022-07-23-用-Ruby-讲从创业到-996-公司的故事戏说-master-worker-模式](https://www.v2ex.com/t/868255) ![](assets/new.png)  
-- [2022-07-23-audacity-熟练度加-1](https://www.v2ex.com/t/868254) ![](assets/new.png)  
-- [2022-07-23-关于这个时间段买-iphone11](https://www.v2ex.com/t/868253) ![](assets/new.png)  
-- [2022-07-23-catp---打印已在运行的进程的输出](https://www.v2ex.com/t/868251) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -560,11 +560,11 @@
 - [2022-07-23-​详解维度建模之事实表](https://toutiao.io/k/awkwqm6) ![](assets/new.png)  
 - [2022-07-23-聊聊-Kafka：协调者-GroupCoordinator-源码剖析之-FIND_COORDINATOR](https://toutiao.io/k/ghl5ia9) ![](assets/new.png)  
 - [2022-07-23-腾讯游戏-：我们如何基于-StarRocks-构建云原生数仓](https://toutiao.io/k/cp62jt4) ![](assets/new.png)  
-- [2022-07-23-从SGD到NadaMax，十种优化算法原理及实现](https://toutiao.io/k/ep85azx) ![](assets/new.png)  
 - [2022-07-23-阿里-P6-和-P7-的主要区别是什么？](https://toutiao.io/k/apl6hig) ![](assets/new.png)  
+- [2022-07-23-从SGD到NadaMax，十种优化算法原理及实现](https://toutiao.io/k/ep85azx) ![](assets/new.png)  
 - [2022-07-23-取代-C++？谷歌推出-Carbon，编程语言再添一员](https://toutiao.io/k/hfg7s1z) ![](assets/new.png)  
-- [2022-07-23-推荐-一线技术人应该关注的四种思维能力](https://toutiao.io/k/s2lbrzp) ![](assets/new.png)  
 - [2022-07-23-推荐-高并发，你真的理解透彻了吗？](https://toutiao.io/k/93k2zfb) ![](assets/new.png)  
+- [2022-07-23-推荐-一线技术人应该关注的四种思维能力](https://toutiao.io/k/s2lbrzp) ![](assets/new.png)  
 - [2022-07-23-推荐-团队一盘散沙，怎么破？](https://toutiao.io/k/kdzpdh5) ![](assets/new.png)  
 - [2022-07-23-推荐-不知道这4种缓存模式，敢说懂缓存吗？](https://toutiao.io/k/nn8m95b) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)

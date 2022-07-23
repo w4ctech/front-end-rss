@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-23 15:14:16。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-23 15:43:18。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,9 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-07-23-发现一个神奇的网站，到底什么原理？](https://www.v2ex.com/t/868280) 
+- [2022-07-23-家里预埋光纤，应该预埋那种类型的光纤？多芯皮线光纤还是多芯光缆](https://www.v2ex.com/t/868279) 
+- [2022-07-23-请问一个数据库表设计问题](https://www.v2ex.com/t/868277) 
 - [2022-07-23-2020-款-MBP-的-touch-bar-花屏，软件问题还是硬件问题？](https://www.v2ex.com/t/868273) 
 - [2022-07-23-新的-m2-macbook-硬盘过度写入的问题还存在吗？](https://www.v2ex.com/t/868271) 
 - [2022-07-23-威联通-TS-264C-/dev/dri-目录不见了](https://www.v2ex.com/t/868270) 
@@ -1940,8 +1943,6 @@
 - [2022-07-23-上海-不加班-外企-招-Java-、C++、安卓、中级测试、支持工程师、初级-devOps，-Java-和-测试有残疾人岗位](https://www.v2ex.com/t/868235) 
 - [2022-07-23-UI-设计师求职](https://www.v2ex.com/t/868234) 
 - [2022-07-23-有什么好用的分布式爬虫框架吗？](https://www.v2ex.com/t/868232) 
-- [2022-07-23-像这种事业单位该去吗](https://www.v2ex.com/t/868229) 
-- [2022-07-23-悲剧了，-google-voice-号被收回了，哪位大哥帮忙验证一下](https://www.v2ex.com/t/868227) 
 - [2022-07-23-浅谈契约测试-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15220&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fcontract-testing%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-23-单体-or-微服务？你以为是架构权衡？其实是认知负载！-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15219&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fmonolith-microservice-architectural-tradeoff-cognitive-load%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-23-DDD-中的几个困难问题-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15218&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fdifficult-problems-in-domain-driven-design%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1965,6 +1966,6 @@
 - [2022-07-23-聊聊-Kafka：协调者-GroupCoordinator-源码剖析之-FIND_COORDINATOR](https://toutiao.io/k/ghl5ia9) 
 - [2022-07-23-阿里-P6-和-P7-的主要区别是什么？](https://toutiao.io/k/apl6hig) 
 - [2022-07-23-取代-C++？谷歌推出-Carbon，编程语言再添一员](https://toutiao.io/k/hfg7s1z) 
-- [2022-07-23-推荐-一线技术人应该关注的四种思维能力](https://toutiao.io/k/s2lbrzp) 
 - [2022-07-23-推荐-高并发，你真的理解透彻了吗？](https://toutiao.io/k/93k2zfb) 
+- [2022-07-23-推荐-一线技术人应该关注的四种思维能力](https://toutiao.io/k/s2lbrzp) 
 - [2022-07-23-推荐-团队一盘散沙，怎么破？](https://toutiao.io/k/kdzpdh5) 

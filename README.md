@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-07-23 09:14:13，:rocket: 更新条数: +2017， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-07-23 09:41:15，:rocket: 更新条数: +2017， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-07-23-升级-Monterey-12.5-之后-AOC-LV273HUPR-显示器-USB-Hub-功能失效](https://www.v2ex.com/t/868221) ![](assets/new.png)  
+- [2022-07-23-什么样的公司适合远程办公？](https://www.v2ex.com/t/868219) ![](assets/new.png)  
 - [2022-07-23-八五折出三网慢充话费](https://www.v2ex.com/t/868218) ![](assets/new.png)  
 - [2022-07-23-阿里通信-阿里小号-你做尽坏事-投诉无门-只能法院起诉-守规矩的人最受欺负](https://www.v2ex.com/t/868217) ![](assets/new.png)  
 - [2022-07-23-最近发现-iPhone-不用打开音乐-App-可以直接播放](https://www.v2ex.com/t/868216) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-07-23-求-pdf-阅读软件推荐](https://www.v2ex.com/t/868197) ![](assets/new.png)  
 - [2022-07-23-正经人谁写日记？不正经人请进来领-30-个码！卷了一个日记软件--一叶日记](https://www.v2ex.com/t/868195) ![](assets/new.png)  
 - [2022-07-23-这个网站是钓鱼网站吗？-www.ktkc.at](https://www.v2ex.com/t/868193) ![](assets/new.png)  
-- [2022-07-23-如何给代理加一层-socks5-代理方式](https://www.v2ex.com/t/868192) ![](assets/new.png)  
-- [2022-07-23-搜索英文技术问题的技巧](https://www.v2ex.com/t/868191) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -557,16 +557,16 @@
 - [2022-07-23-分布式接口幂等性、分布式限流：Guava-、nginx和lua限流](https://toutiao.io/k/xqm5e8k) ![](assets/new.png)  
 - [2022-07-23-Canvas-从入门到劝朋友放弃（图解版）](https://toutiao.io/k/z8mcoqf) ![](assets/new.png)  
 - [2022-07-23-【萌新解题】数据流中的第-K-大元素](https://toutiao.io/k/1w5anuj) ![](assets/new.png)  
+- [2022-07-23-​详解维度建模之事实表](https://toutiao.io/k/awkwqm6) ![](assets/new.png)  
 - [2022-07-23-聊聊-Kafka：协调者-GroupCoordinator-源码剖析之-FIND_COORDINATOR](https://toutiao.io/k/ghl5ia9) ![](assets/new.png)  
 - [2022-07-23-腾讯游戏-：我们如何基于-StarRocks-构建云原生数仓](https://toutiao.io/k/cp62jt4) ![](assets/new.png)  
-- [2022-07-23-​详解维度建模之事实表](https://toutiao.io/k/awkwqm6) ![](assets/new.png)  
 - [2022-07-23-从SGD到NadaMax，十种优化算法原理及实现](https://toutiao.io/k/ep85azx) ![](assets/new.png)  
 - [2022-07-23-取代-C++？谷歌推出-Carbon，编程语言再添一员](https://toutiao.io/k/hfg7s1z) ![](assets/new.png)  
 - [2022-07-23-阿里-P6-和-P7-的主要区别是什么？](https://toutiao.io/k/apl6hig) ![](assets/new.png)  
-- [2022-07-23-推荐-一线技术人应该关注的四种思维能力](https://toutiao.io/k/s2lbrzp) ![](assets/new.png)  
 - [2022-07-23-推荐-高并发，你真的理解透彻了吗？](https://toutiao.io/k/93k2zfb) ![](assets/new.png)  
-- [2022-07-23-推荐-不知道这4种缓存模式，敢说懂缓存吗？](https://toutiao.io/k/nn8m95b) ![](assets/new.png)  
 - [2022-07-23-推荐-团队一盘散沙，怎么破？](https://toutiao.io/k/kdzpdh5) ![](assets/new.png)  
+- [2022-07-23-推荐-不知道这4种缓存模式，敢说懂缓存吗？](https://toutiao.io/k/nn8m95b) ![](assets/new.png)  
+- [2022-07-23-推荐-一线技术人应该关注的四种思维能力](https://toutiao.io/k/s2lbrzp) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

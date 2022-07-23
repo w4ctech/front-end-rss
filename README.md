@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-07-23 14:12:47，:rocket: 更新条数: +2019， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-07-23 14:39:04，:rocket: 更新条数: +2018， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-07-23-老城区换了水管夏天-24-小时免费热水，正常吗？有啥坏处？](https://www.v2ex.com/t/868268) ![](assets/new.png)  
+- [2022-07-23-大伙儿平时识图用哪些站？-Google/Yandex/Bing/TinEye-，还有哪些比较常用的站](https://www.v2ex.com/t/868266) ![](assets/new.png)  
 - [2022-07-23-出一个-19-款-MBP15-寸](https://www.v2ex.com/t/868265) ![](assets/new.png)  
 - [2022-07-23-Hi，来试试-web3-的文件永存吧](https://www.v2ex.com/t/868264) ![](assets/new.png)  
 - [2022-07-23-广州移动校园卡，-29-月租，-30+40G](https://www.v2ex.com/t/868263) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-07-23-罗技-mx-master-3s-珍珠白是不是会容易发黄](https://www.v2ex.com/t/868247) ![](assets/new.png)  
 - [2022-07-23-我做个财务薪资计算软件](https://www.v2ex.com/t/868246) ![](assets/new.png)  
 - [2022-07-23-Windows-11-麦克风声音很小](https://www.v2ex.com/t/868243) ![](assets/new.png)  
-- [2022-07-23-求助各位用-Windows-笔记本的程序员](https://www.v2ex.com/t/868242) ![](assets/new.png)  
-- [2022-07-23-V2EX-首发，专业人才评估服务「人才码头」，诚邀试用~](https://www.v2ex.com/t/868241) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -563,10 +563,10 @@
 - [2022-07-23-从SGD到NadaMax，十种优化算法原理及实现](https://toutiao.io/k/ep85azx) ![](assets/new.png)  
 - [2022-07-23-阿里-P6-和-P7-的主要区别是什么？](https://toutiao.io/k/apl6hig) ![](assets/new.png)  
 - [2022-07-23-取代-C++？谷歌推出-Carbon，编程语言再添一员](https://toutiao.io/k/hfg7s1z) ![](assets/new.png)  
-- [2022-07-23-推荐-一线技术人应该关注的四种思维能力](https://toutiao.io/k/s2lbrzp) ![](assets/new.png)  
 - [2022-07-23-推荐-高并发，你真的理解透彻了吗？](https://toutiao.io/k/93k2zfb) ![](assets/new.png)  
-- [2022-07-23-推荐-不知道这4种缓存模式，敢说懂缓存吗？](https://toutiao.io/k/nn8m95b) ![](assets/new.png)  
 - [2022-07-23-推荐-团队一盘散沙，怎么破？](https://toutiao.io/k/kdzpdh5) ![](assets/new.png)  
+- [2022-07-23-推荐-一线技术人应该关注的四种思维能力](https://toutiao.io/k/s2lbrzp) ![](assets/new.png)  
+- [2022-07-23-推荐-不知道这4种缓存模式，敢说懂缓存吗？](https://toutiao.io/k/nn8m95b) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

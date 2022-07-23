@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-23 05:16:49。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-23 05:41:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,8 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-07-23-ubuntu-安装后-EFI-分区不对齐-4k](https://www.v2ex.com/t/868187) 
+- [2022-07-23-2022-了-windows-有什么外接盒的厂商级靠谱备份方案了么？](https://www.v2ex.com/t/868185) 
 - [2022-07-23-求问依视路舒服还是蔡司舒服？？](https://www.v2ex.com/t/868184) 
 - [2022-07-23-我这样写是不是很难发现我的密码然后启动了个什么软件](https://www.v2ex.com/t/868183) 
 - [2022-07-23-Java-后台开发，大家用-@Autowired-多么](https://www.v2ex.com/t/868182) 
@@ -1939,7 +1941,6 @@
 - [2022-07-23-刚刚进行了又一次互联网的迁徙，再见简书](https://www.v2ex.com/t/868140) 
 - [2022-07-22-微信绑定-gv-号又被封了](https://www.v2ex.com/t/868139) 
 - [2022-07-22-唉，打算用模拟器弄一个微信自动化的程序，结果立马就给我永封了...](https://www.v2ex.com/t/868138) 
-- [2022-07-22-xdm-家庭部署服务器有什么解决方案吗？](https://www.v2ex.com/t/868136) 
 - [2022-07-23-浅谈契约测试-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15220&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fcontract-testing%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-23-单体-or-微服务？你以为是架构权衡？其实是认知负载！-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15219&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fmonolith-microservice-architectural-tradeoff-cognitive-load%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-23-DDD-中的几个困难问题-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15218&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fdifficult-problems-in-domain-driven-design%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1959,8 +1960,8 @@
 - [2022-07-23-别瞎学了，这几门语言要被淘汰了！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15201&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494220%26amp%3Bidx%3D1%26amp%3Bsn%3D51c5e4c965ea710ff3ce153c53facb9c%26amp%3Bchksm%3Dfa3f0b17cd48820194b637429cbe4639886a56f0ac5e8fa84299fee0057b67c74f05392ff237%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-23-优质网站同好者周刊（第-075-期）-|-倾城博客](https://toutiao.io/k/5ev52vr) 
 - [2022-07-23-聊聊-Kafka：协调者-GroupCoordinator-源码剖析之-FIND_COORDINATOR](https://toutiao.io/k/ghl5ia9) 
-- [2022-07-23-​详解维度建模之事实表](https://toutiao.io/k/awkwqm6) 
 - [2022-07-23-【萌新解题】数据流中的第-K-大元素](https://toutiao.io/k/1w5anuj) 
+- [2022-07-23-​详解维度建模之事实表](https://toutiao.io/k/awkwqm6) 
 - [2022-07-23-推荐-一线技术人应该关注的四种思维能力](https://toutiao.io/k/s2lbrzp) 
 - [2022-07-23-推荐-高并发，你真的理解透彻了吗？](https://toutiao.io/k/93k2zfb) 
 - [2022-07-23-推荐-团队一盘散沙，怎么破？](https://toutiao.io/k/kdzpdh5) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-07-23 05:16:48，:rocket: 更新条数: +2017， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-07-23 05:41:08，:rocket: 更新条数: +2017， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,9 @@
 </summary>
 
 
+- [2022-07-23-ubuntu-安装后-EFI-分区不对齐-4k](https://www.v2ex.com/t/868187) ![](assets/new.png)  
+- [2022-07-23-SMB-经由两个路由器的虚拟服务器功能，连接不上](https://www.v2ex.com/t/868186) ![](assets/new.png)  
+- [2022-07-23-2022-了-windows-有什么外接盒的厂商级靠谱备份方案了么？](https://www.v2ex.com/t/868185) ![](assets/new.png)  
 - [2022-07-23-求问依视路舒服还是蔡司舒服？？](https://www.v2ex.com/t/868184) ![](assets/new.png)  
 - [2022-07-23-我这样写是不是很难发现我的密码然后启动了个什么软件](https://www.v2ex.com/t/868183) ![](assets/new.png)  
 - [2022-07-23-Java-后台开发，大家用-@Autowired-多么](https://www.v2ex.com/t/868182) ![](assets/new.png)  
@@ -508,9 +511,6 @@
 - [2022-07-23-人体工学椅-steelcase-think-3800-元是否值得？](https://www.v2ex.com/t/868163) ![](assets/new.png)  
 - [2022-07-23-可能火星，上周末随手写了个字幕遮挡工具](https://www.v2ex.com/t/868162) ![](assets/new.png)  
 - [2022-07-23-新-mac-studio，只有罗技的无线键盘鼠标，怎么进去系统进行配置？](https://www.v2ex.com/t/868161) ![](assets/new.png)  
-- [2022-07-23-数学比较差的三年前端工程师想转-AI-研究方向，-V-友们觉得有希望吗？可以指点一下学习路线吗？](https://www.v2ex.com/t/868160) ![](assets/new.png)  
-- [2022-07-23-win11-中使用-nvida-3080ti，在虚拟机中能做训练和识别么](https://www.v2ex.com/t/868159) ![](assets/new.png)  
-- [2022-07-23-django-有哪些知名开源项目吗](https://www.v2ex.com/t/868158) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -559,8 +559,8 @@
 - [2022-07-23-聊聊-Kafka：协调者-GroupCoordinator-源码剖析之-FIND_COORDINATOR](https://toutiao.io/k/ghl5ia9) ![](assets/new.png)  
 - [2022-07-23-腾讯游戏-：我们如何基于-StarRocks-构建云原生数仓](https://toutiao.io/k/cp62jt4) ![](assets/new.png)  
 - [2022-07-23-从SGD到NadaMax，十种优化算法原理及实现](https://toutiao.io/k/ep85azx) ![](assets/new.png)  
-- [2022-07-23-​详解维度建模之事实表](https://toutiao.io/k/awkwqm6) ![](assets/new.png)  
 - [2022-07-23-【萌新解题】数据流中的第-K-大元素](https://toutiao.io/k/1w5anuj) ![](assets/new.png)  
+- [2022-07-23-​详解维度建模之事实表](https://toutiao.io/k/awkwqm6) ![](assets/new.png)  
 - [2022-07-23-推荐-一线技术人应该关注的四种思维能力](https://toutiao.io/k/s2lbrzp) ![](assets/new.png)  
 - [2022-07-23-推荐-高并发，你真的理解透彻了吗？](https://toutiao.io/k/93k2zfb) ![](assets/new.png)  
 - [2022-07-23-推荐-团队一盘散沙，怎么破？](https://toutiao.io/k/kdzpdh5) ![](assets/new.png)  

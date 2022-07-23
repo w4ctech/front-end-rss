@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-23 17:16:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-23 17:41:41。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -20,4 +20,3 @@
 - [2022-04-30-深入-JS-new-Function-语法](https://www.zhangxinxu.com/wordpress/2022/04/js-new-function/) 
 - [2022-07-23-PC-端用-SSR-时不时出现-NS_BINDING_ABORTED-或-ERR_EMPTY_RESPONSE-错误，这个是什么问题呀](https://www.v2ex.com/t/868272) 
 - [2022-07-23-用-Ruby-讲从创业到-996-公司的故事戏说-master-worker-模式](https://www.v2ex.com/t/868255) 
-- [2022-07-23-手机端横向滚动条修复与-postion:sticky-冲突问题](https://www.v2ex.com/t/868237) 

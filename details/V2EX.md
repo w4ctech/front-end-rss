@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2022-07-23 18:16:04。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-23 18:45:54。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-07-23-手机的亮度手动设置最亮，但是却自动调整到最低，想知道如何检查自己的手机是否被安装了特定的软件](https://www.v2ex.com/t/868290) 
 - [2022-07-23-有什么犹豫了很久最后还是买了的东西？](https://www.v2ex.com/t/868287) 
 - [2022-07-23-新买了一个-Airpods2，吐槽一下这个双击](https://www.v2ex.com/t/868286) 
 - [2022-07-23-好家伙，-Apple-Gift-card-没法用来买-Apple-care](https://www.v2ex.com/t/868284) 
@@ -42,5 +43,3 @@
 - [2022-07-23-Windows-11-麦克风声音很小](https://www.v2ex.com/t/868243) 
 - [2022-07-23-求助各位用-Windows-笔记本的程序员](https://www.v2ex.com/t/868242) 
 - [2022-07-23-V2EX-首发，专业人才评估服务「人才码头」，诚邀试用~](https://www.v2ex.com/t/868241) 
-- [2022-07-23-坐标广州，突然发现公网-ip-地址被收回了。。](https://www.v2ex.com/t/868239) 
-- [2022-07-23-用了-MacBook-miniLED-屏幕再用-studio-display-感觉屏幕好垃圾不够细腻怎么办?有啥推荐的显示器能媲美-miniLED-屏幕?](https://www.v2ex.com/t/868238) 

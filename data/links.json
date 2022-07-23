@@ -9953,6 +9953,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "手机的亮度手动设置最亮，但是却自动调整到最低，想知道如何检查自己的手机是否被安装了特定的软件",
+        "link": "https://www.v2ex.com/t/868290",
+        "date": "2022-07-23"
+      },
+      {
         "title": "有什么犹豫了很久最后还是买了的东西？",
         "link": "https://www.v2ex.com/t/868287",
         "date": "2022-07-23"
@@ -10136,16 +10141,6 @@
         "title": "V2EX 首发，专业人才评估服务「人才码头」，诚邀试用~",
         "link": "https://www.v2ex.com/t/868241",
         "date": "2022-07-23"
-      },
-      {
-        "title": "坐标广州，突然发现公网 ip 地址被收回了。。",
-        "link": "https://www.v2ex.com/t/868239",
-        "date": "2022-07-23"
-      },
-      {
-        "title": "用了 MacBook miniLED 屏幕再用 studio display 感觉屏幕好垃圾不够细腻怎么办?有啥推荐的显示器能媲美 miniLED 屏幕?",
-        "link": "https://www.v2ex.com/t/868238",
-        "date": "2022-07-23"
       }
     ]
   },
@@ -10312,18 +10307,8 @@
         "date": "2022-07-23"
       },
       {
-        "title": "[推荐] 高并发，你真的理解透彻了吗？",
-        "link": "https://toutiao.io/k/93k2zfb",
-        "date": "2022-07-23"
-      },
-      {
-        "title": "[推荐] 不知道这4种缓存模式，敢说懂缓存吗？",
-        "link": "https://toutiao.io/k/nn8m95b",
-        "date": "2022-07-23"
-      },
-      {
-        "title": "[推荐] 一线技术人应该关注的四种思维能力",
-        "link": "https://toutiao.io/k/s2lbrzp",
+        "title": "[推荐] 团队一盘散沙，怎么破？",
+        "link": "https://toutiao.io/k/kdzpdh5",
         "date": "2022-07-23"
       },
       {
@@ -10332,8 +10317,18 @@
         "date": "2022-07-23"
       },
       {
-        "title": "[推荐] 团队一盘散沙，怎么破？",
-        "link": "https://toutiao.io/k/kdzpdh5",
+        "title": "[推荐] 一线技术人应该关注的四种思维能力",
+        "link": "https://toutiao.io/k/s2lbrzp",
+        "date": "2022-07-23"
+      },
+      {
+        "title": "[推荐] 不知道这4种缓存模式，敢说懂缓存吗？",
+        "link": "https://toutiao.io/k/nn8m95b",
+        "date": "2022-07-23"
+      },
+      {
+        "title": "[推荐] 高并发，你真的理解透彻了吗？",
+        "link": "https://toutiao.io/k/93k2zfb",
         "date": "2022-07-23"
       }
     ]

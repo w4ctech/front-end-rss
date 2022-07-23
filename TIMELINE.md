@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-23 14:39:04。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-07-23 15:14:16。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -69,6 +69,11 @@
 
 
 - [【张鑫旭-鑫空间-鑫生活】2022-07-21-超酷！CSS-font-palette与彩色字体显示](https://www.zhangxinxu.com/wordpress/2022/07/css-font-palette/) 
+- [【V2EX】2022-07-23-2020-款-MBP-的-touch-bar-花屏，软件问题还是硬件问题？](https://www.v2ex.com/t/868273) 
+- [【V2EX】2022-07-23-PC-端用-SSR-时不时出现-NS_BINDING_ABORTED-或-ERR_EMPTY_RESPONSE-错误，这个是什么问题呀](https://www.v2ex.com/t/868272) 
+- [【V2EX】2022-07-23-新的-m2-macbook-硬盘过度写入的问题还存在吗？](https://www.v2ex.com/t/868271) 
+- [【V2EX】2022-07-23-威联通-TS-264C-/dev/dri-目录不见了](https://www.v2ex.com/t/868270) 
+- [【V2EX】2022-07-23-有人在-Mac-上用-UPS-么，请教无法自动关机的问题](https://www.v2ex.com/t/868269) 
 - [【V2EX】2022-07-23-老城区换了水管夏天-24-小时免费热水，正常吗？有啥坏处？](https://www.v2ex.com/t/868268) 
 - [【V2EX】2022-07-23-大伙儿平时识图用哪些站？-Google/Yandex/Bing/TinEye-，还有哪些比较常用的站](https://www.v2ex.com/t/868266) 
 - [【V2EX】2022-07-23-出一个-19-款-MBP15-寸](https://www.v2ex.com/t/868265) 
@@ -103,10 +108,6 @@
 - [【V2EX】2022-07-23-悲剧了，-google-voice-号被收回了，哪位大哥帮忙验证一下](https://www.v2ex.com/t/868227) 
 - [【V2EX】2022-07-23-Typing-Learner-可以用-MKV-视频或字幕生成词库（单词本），让每个单词都有具体的语境。-然后通过语境记忆单词，句子，字幕。](https://www.v2ex.com/t/868225) 
 - [【V2EX】2022-07-23-在相同的条件下用相同的算法训练相同的深度学习模型，训练的结果会是怎么样的呢？](https://www.v2ex.com/t/868224) 
-- [【V2EX】2022-07-23-请教下各位-v-站的大佬，前端有什么发展方向？](https://www.v2ex.com/t/868223) 
-- [【V2EX】2022-07-23-CAD-主要吃哪方面的配置？](https://www.v2ex.com/t/868222) 
-- [【V2EX】2022-07-23-升级-Monterey-12.5-之后-AOC-LV273HUPR-显示器-USB-Hub-功能失效](https://www.v2ex.com/t/868221) 
-- [【V2EX】2022-07-23-什么样的公司适合远程办公？](https://www.v2ex.com/t/868219) 
 - [【技术头条】2022-07-23-浅谈契约测试-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15220&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fcontract-testing%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-23-单体-or-微服务？你以为是架构权衡？其实是认知负载！-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15219&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fmonolith-microservice-architectural-tradeoff-cognitive-load%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-23-DDD-中的几个困难问题-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15218&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fdifficult-problems-in-domain-driven-design%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -137,9 +138,9 @@
 - [【开发者头条】2022-07-23-从SGD到NadaMax，十种优化算法原理及实现](https://toutiao.io/k/ep85azx) 
 - [【开发者头条】2022-07-23-阿里-P6-和-P7-的主要区别是什么？](https://toutiao.io/k/apl6hig) 
 - [【开发者头条】2022-07-23-取代-C++？谷歌推出-Carbon，编程语言再添一员](https://toutiao.io/k/hfg7s1z) 
+- [【开发者头条】2022-07-23-推荐-一线技术人应该关注的四种思维能力](https://toutiao.io/k/s2lbrzp) 
 - [【开发者头条】2022-07-23-推荐-高并发，你真的理解透彻了吗？](https://toutiao.io/k/93k2zfb) 
 - [【开发者头条】2022-07-23-推荐-团队一盘散沙，怎么破？](https://toutiao.io/k/kdzpdh5) 
-- [【开发者头条】2022-07-23-推荐-一线技术人应该关注的四种思维能力](https://toutiao.io/k/s2lbrzp) 
 - [【开发者头条】2022-07-23-推荐-不知道这4种缓存模式，敢说懂缓存吗？](https://toutiao.io/k/nn8m95b) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>

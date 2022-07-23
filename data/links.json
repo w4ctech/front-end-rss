@@ -9953,6 +9953,31 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "2020 款 MBP 的 touch bar 花屏，软件问题还是硬件问题？",
+        "link": "https://www.v2ex.com/t/868273",
+        "date": "2022-07-23"
+      },
+      {
+        "title": "PC 端用 SSR 时不时出现 NS_BINDING_ABORTED 或 ERR_EMPTY_RESPONSE 错误，这个是什么问题呀",
+        "link": "https://www.v2ex.com/t/868272",
+        "date": "2022-07-23"
+      },
+      {
+        "title": "新的 m2 macbook 硬盘过度写入的问题还存在吗？",
+        "link": "https://www.v2ex.com/t/868271",
+        "date": "2022-07-23"
+      },
+      {
+        "title": "威联通 TS-264C /dev/dri 目录不见了",
+        "link": "https://www.v2ex.com/t/868270",
+        "date": "2022-07-23"
+      },
+      {
+        "title": "有人在 Mac 上用 UPS 么，请教无法自动关机的问题",
+        "link": "https://www.v2ex.com/t/868269",
+        "date": "2022-07-23"
+      },
+      {
         "title": "老城区换了水管夏天 24 小时免费热水，正常吗？有啥坏处？",
         "link": "https://www.v2ex.com/t/868268",
         "date": "2022-07-23"
@@ -10121,26 +10146,6 @@
         "title": "在相同的条件下用相同的算法训练相同的深度学习模型，训练的结果会是怎么样的呢？",
         "link": "https://www.v2ex.com/t/868224",
         "date": "2022-07-23"
-      },
-      {
-        "title": "请教下各位 v 站的大佬，前端有什么发展方向？",
-        "link": "https://www.v2ex.com/t/868223",
-        "date": "2022-07-23"
-      },
-      {
-        "title": "CAD 主要吃哪方面的配置？",
-        "link": "https://www.v2ex.com/t/868222",
-        "date": "2022-07-23"
-      },
-      {
-        "title": "升级 Monterey 12.5 之后 AOC LV273HUPR 显示器 USB Hub 功能失效",
-        "link": "https://www.v2ex.com/t/868221",
-        "date": "2022-07-23"
-      },
-      {
-        "title": "什么样的公司适合远程办公？",
-        "link": "https://www.v2ex.com/t/868219",
-        "date": "2022-07-23"
       }
     ]
   },
@@ -10307,6 +10312,11 @@
         "date": "2022-07-23"
       },
       {
+        "title": "[推荐] 一线技术人应该关注的四种思维能力",
+        "link": "https://toutiao.io/k/s2lbrzp",
+        "date": "2022-07-23"
+      },
+      {
         "title": "[推荐] 高并发，你真的理解透彻了吗？",
         "link": "https://toutiao.io/k/93k2zfb",
         "date": "2022-07-23"
@@ -10314,11 +10324,6 @@
       {
         "title": "[推荐] 团队一盘散沙，怎么破？",
         "link": "https://toutiao.io/k/kdzpdh5",
-        "date": "2022-07-23"
-      },
-      {
-        "title": "[推荐] 一线技术人应该关注的四种思维能力",
-        "link": "https://toutiao.io/k/s2lbrzp",
         "date": "2022-07-23"
       },
       {

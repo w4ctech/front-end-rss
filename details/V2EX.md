@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2022-07-23 16:17:45。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-23 16:56:48。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-07-23-好家伙，-Apple-Gift-card-没法用来买-Apple-care](https://www.v2ex.com/t/868284) 
+- [2022-07-23-惨痛的教训，空调内机底下不要放电脑和显示器](https://www.v2ex.com/t/868283) 
 - [2022-07-23-用过亚马逊-codewhisperer-的来说说体验](https://www.v2ex.com/t/868282) 
 - [2022-07-23-发现一个神奇的网站，到底什么原理？](https://www.v2ex.com/t/868280) 
 - [2022-07-23-家里预埋光纤，应该预埋那种类型的光纤？多芯皮线光纤还是多芯光缆](https://www.v2ex.com/t/868279) 
@@ -43,4 +45,3 @@
 - [2022-07-23-手机端横向滚动条修复与-postion:sticky-冲突问题](https://www.v2ex.com/t/868237) 
 - [2022-07-23-有没有什么图片加密的工具](https://www.v2ex.com/t/868236) 
 - [2022-07-23-上海-不加班-外企-招-Java-、C++、安卓、中级测试、支持工程师、初级-devOps，-Java-和-测试有残疾人岗位](https://www.v2ex.com/t/868235) 
-- [2022-07-23-UI-设计师求职](https://www.v2ex.com/t/868234) 

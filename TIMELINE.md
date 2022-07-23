@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-23 07:39:56。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-07-23 08:17:49。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -69,6 +69,9 @@
 
 
 - [【张鑫旭-鑫空间-鑫生活】2022-07-21-超酷！CSS-font-palette与彩色字体显示](https://www.zhangxinxu.com/wordpress/2022/07/css-font-palette/) 
+- [【V2EX】2022-07-23-分享一个-GitHub-项目-实现白嫖多种付费网站](https://www.v2ex.com/t/868210) 
+- [【V2EX】2022-07-23-大学生国际信用卡推荐](https://www.v2ex.com/t/868209) 
+- [【V2EX】2022-07-23-广东某市电信回收公网-ip](https://www.v2ex.com/t/868208) 
 - [【V2EX】2022-07-23-Macbook-2021-时间机器无法启动](https://www.v2ex.com/t/868206) 
 - [【V2EX】2022-07-23-仍然怀念-Intel-CPU-的-mac](https://www.v2ex.com/t/868205) 
 - [【V2EX】2022-07-23-电信有那种-39-元-25G-的套餐吗？](https://www.v2ex.com/t/868204) 
@@ -105,10 +108,6 @@
 - [【V2EX】2022-07-23-人体工学椅-steelcase-think-3800-元是否值得？](https://www.v2ex.com/t/868163) 
 - [【V2EX】2022-07-23-可能火星，上周末随手写了个字幕遮挡工具](https://www.v2ex.com/t/868162) 
 - [【V2EX】2022-07-23-新-mac-studio，只有罗技的无线键盘鼠标，怎么进去系统进行配置？](https://www.v2ex.com/t/868161) 
-- [【V2EX】2022-07-23-数学比较差的三年前端工程师想转-AI-研究方向，-V-友们觉得有希望吗？可以指点一下学习路线吗？](https://www.v2ex.com/t/868160) 
-- [【V2EX】2022-07-23-win11-中使用-nvida-3080ti，在虚拟机中能做训练和识别么](https://www.v2ex.com/t/868159) 
-- [【V2EX】2022-07-23-django-有哪些知名开源项目吗](https://www.v2ex.com/t/868158) 
-- [【V2EX】2022-07-23-人在大厂，苟住还是跑路？](https://www.v2ex.com/t/868157) 
 - [【技术头条】2022-07-23-浅谈契约测试-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15220&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fcontract-testing%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-23-单体-or-微服务？你以为是架构权衡？其实是认知负载！-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15219&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fmonolith-microservice-architectural-tradeoff-cognitive-load%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-23-DDD-中的几个困难问题-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15218&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fdifficult-problems-in-domain-driven-design%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -139,10 +138,10 @@
 - [【开发者头条】2022-07-23-​详解维度建模之事实表](https://toutiao.io/k/awkwqm6) 
 - [【开发者头条】2022-07-23-取代-C++？谷歌推出-Carbon，编程语言再添一员](https://toutiao.io/k/hfg7s1z) 
 - [【开发者头条】2022-07-23-阿里-P6-和-P7-的主要区别是什么？](https://toutiao.io/k/apl6hig) 
-- [【开发者头条】2022-07-23-推荐-一线技术人应该关注的四种思维能力](https://toutiao.io/k/s2lbrzp) 
-- [【开发者头条】2022-07-23-推荐-不知道这4种缓存模式，敢说懂缓存吗？](https://toutiao.io/k/nn8m95b) 
 - [【开发者头条】2022-07-23-推荐-团队一盘散沙，怎么破？](https://toutiao.io/k/kdzpdh5) 
 - [【开发者头条】2022-07-23-推荐-高并发，你真的理解透彻了吗？](https://toutiao.io/k/93k2zfb) 
+- [【开发者头条】2022-07-23-推荐-一线技术人应该关注的四种思维能力](https://toutiao.io/k/s2lbrzp) 
+- [【开发者头条】2022-07-23-推荐-不知道这4种缓存模式，敢说懂缓存吗？](https://toutiao.io/k/nn8m95b) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

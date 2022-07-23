@@ -9953,6 +9953,31 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "如何给代理加一层 socks5 代理方式",
+        "link": "https://www.v2ex.com/t/868192",
+        "date": "2022-07-23"
+      },
+      {
+        "title": "搜索英文技术问题的技巧",
+        "link": "https://www.v2ex.com/t/868191",
+        "date": "2022-07-23"
+      },
+      {
+        "title": "Bitwarden 只能通过服务器上部署的网页版而不能通过客户端修改密码是开发者偷懒没写这个功能还是有别的目的？",
+        "link": "https://www.v2ex.com/t/868190",
+        "date": "2022-07-23"
+      },
+      {
+        "title": "excel 里，如何设置输入数字 1 整行变绿、输入数字 2 整行变黄、输入数字 3 整行变红",
+        "link": "https://www.v2ex.com/t/868189",
+        "date": "2022-07-23"
+      },
+      {
+        "title": "刷到多条微博时，是怎么实现让自己点赞过的微博被标记出来的？",
+        "link": "https://www.v2ex.com/t/868188",
+        "date": "2022-07-23"
+      },
+      {
         "title": "ubuntu 安装后 EFI 分区不对齐 4k",
         "link": "https://www.v2ex.com/t/868187",
         "date": "2022-07-23"
@@ -10126,31 +10151,6 @@
         "title": "在 115 已经几乎无法使用的今天 你是怎么办的",
         "link": "https://www.v2ex.com/t/868145",
         "date": "2022-07-23"
-      },
-      {
-        "title": "Looker + Git 似乎很容易引起合并冲突",
-        "link": "https://www.v2ex.com/t/868142",
-        "date": "2022-07-23"
-      },
-      {
-        "title": "jellyfin 手机端解码有问题",
-        "link": "https://www.v2ex.com/t/868141",
-        "date": "2022-07-23"
-      },
-      {
-        "title": "刚刚进行了又一次互联网的迁徙，再见简书",
-        "link": "https://www.v2ex.com/t/868140",
-        "date": "2022-07-23"
-      },
-      {
-        "title": "微信绑定 gv 号又被封了",
-        "link": "https://www.v2ex.com/t/868139",
-        "date": "2022-07-22"
-      },
-      {
-        "title": "唉，打算用模拟器弄一个微信自动化的程序，结果立马就给我永封了...",
-        "link": "https://www.v2ex.com/t/868138",
-        "date": "2022-07-22"
       }
     ]
   },
@@ -10307,8 +10307,13 @@
         "date": "2022-07-23"
       },
       {
-        "title": "[推荐] 一线技术人应该关注的四种思维能力",
-        "link": "https://toutiao.io/k/s2lbrzp",
+        "title": "取代 C++？谷歌推出 Carbon，编程语言再添一员",
+        "link": "https://toutiao.io/k/hfg7s1z",
+        "date": "2022-07-23"
+      },
+      {
+        "title": "阿里 P6 和 P7 的主要区别是什么？",
+        "link": "https://toutiao.io/k/apl6hig",
         "date": "2022-07-23"
       },
       {
@@ -10317,8 +10322,18 @@
         "date": "2022-07-23"
       },
       {
+        "title": "[推荐] 不知道这4种缓存模式，敢说懂缓存吗？",
+        "link": "https://toutiao.io/k/nn8m95b",
+        "date": "2022-07-23"
+      },
+      {
         "title": "[推荐] 团队一盘散沙，怎么破？",
         "link": "https://toutiao.io/k/kdzpdh5",
+        "date": "2022-07-23"
+      },
+      {
+        "title": "[推荐] 一线技术人应该关注的四种思维能力",
+        "link": "https://toutiao.io/k/s2lbrzp",
         "date": "2022-07-23"
       }
     ]

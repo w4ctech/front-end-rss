@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-23 13:03:30。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-23 13:46:54。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,13 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-07-23-日益严重的关键词屏蔽,可否发明一种密文交流方式?](https://www.v2ex.com/t/868259) 
+- [2022-07-23-移动宽带-NAT-问题。](https://www.v2ex.com/t/868258) 
+- [2022-07-23-Google-Voice-被收回，求找回短信接收验证](https://www.v2ex.com/t/868257) 
+- [2022-07-23-麻烦问下百度云网页版的数字排序反人类，有没有解决办法?](https://www.v2ex.com/t/868256) 
+- [2022-07-23-audacity-熟练度加-1](https://www.v2ex.com/t/868254) 
+- [2022-07-23-关于这个时间段买-iphone11](https://www.v2ex.com/t/868253) 
+- [2022-07-23-catp---打印已在运行的进程的输出](https://www.v2ex.com/t/868251) 
 - [2022-07-23-各位彭于晏们，求问安卓手机推荐](https://www.v2ex.com/t/868250) 
 - [2022-07-23-iPhone-App-Stroe-安装软件需要-apple-id-密码验证？](https://www.v2ex.com/t/868248) 
 - [2022-07-23-我做个财务薪资计算软件](https://www.v2ex.com/t/868246) 
@@ -1934,12 +1941,6 @@
 - [2022-07-23-红米-k20-pro-Google-pay-支付都不需要解锁](https://www.v2ex.com/t/868215) 
 - [2022-07-23-《独行月球》7-月-29-日上映，沈腾和马丽主演，票房预测-60-亿，有望成为今年的巅峰之作！](https://www.v2ex.com/t/868214) 
 - [2022-07-23-咨询-深圳好玩的地方推荐](https://www.v2ex.com/t/868211) 
-- [2022-07-23-广东某市电信回收公网-ip](https://www.v2ex.com/t/868208) 
-- [2022-07-23-Macbook-2021-时间机器无法启动](https://www.v2ex.com/t/868206) 
-- [2022-07-23-仍然怀念-Intel-CPU-的-mac](https://www.v2ex.com/t/868205) 
-- [2022-07-23-电信有那种-39-元-25G-的套餐吗？](https://www.v2ex.com/t/868204) 
-- [2022-07-23-退货折腾了快一个月，让戴尔发邮件，戴尔的邮箱服务器就坏了](https://www.v2ex.com/t/868202) 
-- [2022-07-23-nuc8i5BEH-维修](https://www.v2ex.com/t/868201) 
 - [2022-07-23-浅谈契约测试-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15220&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fcontract-testing%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-23-单体-or-微服务？你以为是架构权衡？其实是认知负载！-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15219&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fmonolith-microservice-architectural-tradeoff-cognitive-load%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-23-DDD-中的几个困难问题-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15218&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fdifficult-problems-in-domain-driven-design%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

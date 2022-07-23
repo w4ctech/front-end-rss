@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-23 19:36:49。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-07-23 20:15:10。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -69,6 +69,7 @@
 
 
 - [【张鑫旭-鑫空间-鑫生活】2022-07-21-超酷！CSS-font-palette与彩色字体显示](https://www.zhangxinxu.com/wordpress/2022/07/css-font-palette/) 
+- [【V2EX】2022-07-23-10-年魅友准备入手-Lipro-吸顶灯，但媳妇感觉太贵，纠结中。](https://www.v2ex.com/t/868294) 
 - [【V2EX】2022-07-23-Mac-的金子内存和-SSD-回收价](https://www.v2ex.com/t/868293) 
 - [【V2EX】2022-07-23-求助下西数-element-移动硬盘识别不出来](https://www.v2ex.com/t/868291) 
 - [【V2EX】2022-07-23-手机的亮度手动设置最亮，但是却自动调整到最低，想知道如何检查自己的手机是否被安装了特定的软件](https://www.v2ex.com/t/868290) 
@@ -136,11 +137,11 @@
 - [【开发者头条】2022-07-23-腾讯游戏-：我们如何基于-StarRocks-构建云原生数仓](https://toutiao.io/k/cp62jt4) 
 - [【开发者头条】2022-07-23-取代-C++？谷歌推出-Carbon，编程语言再添一员](https://toutiao.io/k/hfg7s1z) 
 - [【开发者头条】2022-07-23-从SGD到NadaMax，十种优化算法原理及实现](https://toutiao.io/k/ep85azx) 
+- [【开发者头条】2022-07-23-推荐-一线技术人应该关注的四种思维能力](https://toutiao.io/k/s2lbrzp) 
 - [【开发者头条】2022-07-23-推荐-团队一盘散沙，怎么破？](https://toutiao.io/k/kdzpdh5) 
+- [【开发者头条】2022-07-23-推荐-高并发，你真的理解透彻了吗？](https://toutiao.io/k/93k2zfb) 
 - [【开发者头条】2022-07-23-推荐-不知道这4种缓存模式，敢说懂缓存吗？](https://toutiao.io/k/nn8m95b) 
 - [【开发者头条】2022-07-23-推荐-花了一周，我总结了120个数据分析指标与术语。](https://toutiao.io/k/9pzybmk) 
-- [【开发者头条】2022-07-23-推荐-一线技术人应该关注的四种思维能力](https://toutiao.io/k/s2lbrzp) 
-- [【开发者头条】2022-07-23-推荐-高并发，你真的理解透彻了吗？](https://toutiao.io/k/93k2zfb) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

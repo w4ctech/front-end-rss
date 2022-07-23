@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-07-23 09:41:15，:rocket: 更新条数: +2017， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-07-23 10:15:37，:rocket: 更新条数: +2019， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,13 @@
 </summary>
 
 
+- [2022-07-23-像这种事业单位该去吗](https://www.v2ex.com/t/868229) ![](assets/new.png)  
+- [2022-07-23-React-和-Vue-应该怎么选？](https://www.v2ex.com/t/868228) ![](assets/new.png)  
+- [2022-07-23-悲剧了，-google-voice-号被收回了，哪位大哥帮忙验证一下](https://www.v2ex.com/t/868227) ![](assets/new.png)  
+- [2022-07-23-Typing-Learner-可以用-MKV-视频或字幕生成词库（单词本），让每个单词都有具体的语境。-然后通过语境记忆单词，句子，字幕。](https://www.v2ex.com/t/868225) ![](assets/new.png)  
+- [2022-07-23-在相同的条件下用相同的算法训练相同的深度学习模型，训练的结果会是怎么样的呢？](https://www.v2ex.com/t/868224) ![](assets/new.png)  
+- [2022-07-23-请教下各位-v-站的大佬，前端有什么发展方向？](https://www.v2ex.com/t/868223) ![](assets/new.png)  
+- [2022-07-23-CAD-主要吃哪方面的配置？](https://www.v2ex.com/t/868222) ![](assets/new.png)  
 - [2022-07-23-升级-Monterey-12.5-之后-AOC-LV273HUPR-显示器-USB-Hub-功能失效](https://www.v2ex.com/t/868221) ![](assets/new.png)  
 - [2022-07-23-什么样的公司适合远程办公？](https://www.v2ex.com/t/868219) ![](assets/new.png)  
 - [2022-07-23-八五折出三网慢充话费](https://www.v2ex.com/t/868218) ![](assets/new.png)  
@@ -504,13 +511,6 @@
 - [2022-07-23-Macbook-2021-时间机器无法启动](https://www.v2ex.com/t/868206) ![](assets/new.png)  
 - [2022-07-23-仍然怀念-Intel-CPU-的-mac](https://www.v2ex.com/t/868205) ![](assets/new.png)  
 - [2022-07-23-电信有那种-39-元-25G-的套餐吗？](https://www.v2ex.com/t/868204) ![](assets/new.png)  
-- [2022-07-23-退货折腾了快一个月，让戴尔发邮件，戴尔的邮箱服务器就坏了](https://www.v2ex.com/t/868202) ![](assets/new.png)  
-- [2022-07-23-nuc8i5BEH-维修](https://www.v2ex.com/t/868201) ![](assets/new.png)  
-- [2022-07-23-你们的苹果-27-寸苹果开启什么分辨率？](https://www.v2ex.com/t/868200) ![](assets/new.png)  
-- [2022-07-23-公司这么搞是违法的吗](https://www.v2ex.com/t/868199) ![](assets/new.png)  
-- [2022-07-23-求-pdf-阅读软件推荐](https://www.v2ex.com/t/868197) ![](assets/new.png)  
-- [2022-07-23-正经人谁写日记？不正经人请进来领-30-个码！卷了一个日记软件--一叶日记](https://www.v2ex.com/t/868195) ![](assets/new.png)  
-- [2022-07-23-这个网站是钓鱼网站吗？-www.ktkc.at](https://www.v2ex.com/t/868193) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -561,12 +561,12 @@
 - [2022-07-23-聊聊-Kafka：协调者-GroupCoordinator-源码剖析之-FIND_COORDINATOR](https://toutiao.io/k/ghl5ia9) ![](assets/new.png)  
 - [2022-07-23-腾讯游戏-：我们如何基于-StarRocks-构建云原生数仓](https://toutiao.io/k/cp62jt4) ![](assets/new.png)  
 - [2022-07-23-从SGD到NadaMax，十种优化算法原理及实现](https://toutiao.io/k/ep85azx) ![](assets/new.png)  
-- [2022-07-23-取代-C++？谷歌推出-Carbon，编程语言再添一员](https://toutiao.io/k/hfg7s1z) ![](assets/new.png)  
 - [2022-07-23-阿里-P6-和-P7-的主要区别是什么？](https://toutiao.io/k/apl6hig) ![](assets/new.png)  
-- [2022-07-23-推荐-高并发，你真的理解透彻了吗？](https://toutiao.io/k/93k2zfb) ![](assets/new.png)  
+- [2022-07-23-取代-C++？谷歌推出-Carbon，编程语言再添一员](https://toutiao.io/k/hfg7s1z) ![](assets/new.png)  
 - [2022-07-23-推荐-团队一盘散沙，怎么破？](https://toutiao.io/k/kdzpdh5) ![](assets/new.png)  
-- [2022-07-23-推荐-不知道这4种缓存模式，敢说懂缓存吗？](https://toutiao.io/k/nn8m95b) ![](assets/new.png)  
 - [2022-07-23-推荐-一线技术人应该关注的四种思维能力](https://toutiao.io/k/s2lbrzp) ![](assets/new.png)  
+- [2022-07-23-推荐-不知道这4种缓存模式，敢说懂缓存吗？](https://toutiao.io/k/nn8m95b) ![](assets/new.png)  
+- [2022-07-23-推荐-高并发，你真的理解透彻了吗？](https://toutiao.io/k/93k2zfb) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

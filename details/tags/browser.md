@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-23 08:46:45。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-23 09:14:14。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -16,5 +16,4 @@
 - [2022-06-12-基于文字的URL锚点定位与::target-text样式设置](https://www.zhangxinxu.com/wordpress/2022/06/url-anchor-target-text/) 
 - [2022-07-23-如何下载-pcie-规范的-pdf？](https://www.v2ex.com/t/868181) 
 - [2022-07-23-Chrome-有办法调用微软-edge-类似的朗读系统吗？](https://www.v2ex.com/t/868180) 
-- [2022-07-23-请求量巨大的情况下，缩短-API-字段单词长度是否值得？](https://www.v2ex.com/t/868167) 
 - [2022-07-23-推荐-不知道这4种缓存模式，敢说懂缓存吗？](https://toutiao.io/k/nn8m95b) 

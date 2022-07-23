@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-07-23 08:46:45。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-23 09:14:14。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -283,7 +283,6 @@
 - [【张鑫旭-鑫空间-鑫生活】基于文字的URL锚点定位与::target-text样式设置](https://www.zhangxinxu.com/wordpress/2022/06/url-anchor-target-text/)
 - [【V2EX】如何下载-pcie-规范的-pdf？](https://www.v2ex.com/t/868181)
 - [【V2EX】Chrome-有办法调用微软-edge-类似的朗读系统吗？](https://www.v2ex.com/t/868180)
-- [【V2EX】请求量巨大的情况下，缩短-API-字段单词长度是否值得？](https://www.v2ex.com/t/868167)
 - [【开发者头条】推荐-不知道这4种缓存模式，敢说懂缓存吗？](https://toutiao.io/k/nn8m95b)
 - [......【查看更多】......](./details/tags/browser.md)
 
@@ -335,7 +334,6 @@
 
 
 
-- [【V2EX】分享一个-GitHub-项目-实现白嫖多种付费网站](https://www.v2ex.com/t/868210)
 - [......【查看更多】......](./details/tags/git-svn.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-07-24 07:13:42。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-24 07:39:11。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -351,7 +351,6 @@
 
 
 - [【V2EX】2022-07-21-小伙伴们,我司招聘-Python-开发工程师啦!](https://www.v2ex.com/t/868337)
-- [【V2EX】前端面试-2022-工作是不是越来越难找了？-快来试试面试辅导吧，助你拿到理想-offer](https://www.v2ex.com/t/868331)
 - [......【查看更多】......](./details/tags/job-interview.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

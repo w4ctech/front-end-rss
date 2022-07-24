@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-24 11:12:38。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-24 11:38:02。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
@@ -31,7 +31,6 @@
 - [2022-07-24-据猜测-M2-iPad-将使用-Macbook-air-的主板](https://www.v2ex.com/t/868365) 
 - [2022-07-24-Linux-下的-firefox-越做越烂了？无法开启-Wayland-hidpi](https://www.v2ex.com/t/868364) 
 - [2022-07-24-mac-端-qv2ray-对于国外网站默认走代理修改](https://www.v2ex.com/t/868363) 
-- [2022-07-24-七年的恋爱结束了](https://www.v2ex.com/t/868362) 
 - [2022-07-24-Mac-端-新版-onedrive-无法选择系统盘之外的盘存储文件，有没有大佬遇到相同情况的，求个解决方案](https://www.v2ex.com/t/868361) 
 - [2022-07-24-和多号短信功能消失，还有别的免插卡发短信方法吗？谢谢大家](https://www.v2ex.com/t/868360) 
 - [2022-07-24-求大神帮忙，恢复下我的百度云](https://www.v2ex.com/t/868359) 

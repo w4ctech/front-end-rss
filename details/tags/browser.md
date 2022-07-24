@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-24 15:43:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-24 16:20:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -16,4 +16,3 @@
 - [2022-06-12-基于文字的URL锚点定位与::target-text样式设置](https://www.zhangxinxu.com/wordpress/2022/06/url-anchor-target-text/) 
 - [2022-07-24-怎样阻止-Microsoft-Edge-弹出隐私提示啊](https://www.v2ex.com/t/868407) 
 - [2022-07-24-上千万行，十多G源码，浏览器为什么这么“变态”？](https://toutiao.io/k/8cj38qe) 
-- [2022-07-24-推荐-不知道这4种缓存模式，敢说懂缓存吗？](https://toutiao.io/k/nn8m95b) 

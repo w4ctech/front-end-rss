@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-07-24 15:43:22，:rocket: 更新条数: +2018， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-07-24 16:20:24，:rocket: 更新条数: +2019， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,9 @@
 </summary>
 
 
+- [2022-07-24-有没有人可能搞个-newsletter-的推荐站](https://www.v2ex.com/t/868433) ![](assets/new.png)  
+- [2022-07-24-adsense-账号注册的时候选错了国家，导致后来开始盈利并超过了最低限额，这个时候无法修改国家，更无法删除关闭账号，这种情况咋整？](https://www.v2ex.com/t/868432) ![](assets/new.png)  
+- [2022-07-24-关于-m1-macbook-air-修改密码](https://www.v2ex.com/t/868431) ![](assets/new.png)  
 - [2022-07-24-优雅地调整网络优先级？](https://www.v2ex.com/t/868427) ![](assets/new.png)  
 - [2022-07-24-黑群晖-DSM7.1-安装、半洗白到-HTTPS-证书](https://www.v2ex.com/t/868425) ![](assets/new.png)  
 - [2022-07-24-对-macOS-/-Windows-HiDPI-高分屏处理有感](https://www.v2ex.com/t/868424) ![](assets/new.png)  
@@ -508,9 +511,6 @@
 - [2022-07-24-Node304-机箱的螺丝包找不到了-该怎么搜对应形状的螺丝](https://www.v2ex.com/t/868410) ![](assets/new.png)  
 - [2022-07-24-微信现在要限制外国用户？](https://www.v2ex.com/t/868409) ![](assets/new.png)  
 - [2022-07-24-在-2022-年的今天，-HomePod-mini-的使用体验是怎样的？](https://www.v2ex.com/t/868408) ![](assets/new.png)  
-- [2022-07-24-怎样阻止-Microsoft-Edge-弹出隐私提示啊](https://www.v2ex.com/t/868407) ![](assets/new.png)  
-- [2022-07-24-能分享一下你觉得好用的网站/服务吗](https://www.v2ex.com/t/868405) ![](assets/new.png)  
-- [2022-07-24-最强防护？](https://www.v2ex.com/t/868404) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -558,17 +558,17 @@
 - [2022-07-24-推荐实现Apache-Kafka高可靠高弹性的三篇文章](https://toutiao.io/k/kdve4zs) ![](assets/new.png)  
 - [2022-07-24-看完Vue源码，总结了这个22个工具函数](https://toutiao.io/k/m5r34di) ![](assets/new.png)  
 - [2022-07-24-2-万字详解，吃透-ES！](https://toutiao.io/k/01ufo5b) ![](assets/new.png)  
-- [2022-07-24-【机器学习】暴力特征工程函数汇总，附代码](https://toutiao.io/k/5nbpxwb) ![](assets/new.png)  
 - [2022-07-24-上千万行，十多G源码，浏览器为什么这么“变态”？](https://toutiao.io/k/8cj38qe) ![](assets/new.png)  
+- [2022-07-24-【机器学习】暴力特征工程函数汇总，附代码](https://toutiao.io/k/5nbpxwb) ![](assets/new.png)  
 - [2022-07-24-B站基于Apache-Ranger的大数据权限服务的技术演进](https://toutiao.io/k/jpnw7at) ![](assets/new.png)  
 - [2022-07-24-为什么那么多公司钟爱-Flutter-？](https://toutiao.io/k/4lhmt34) ![](assets/new.png)  
 - [2022-07-24-欢迎加入读者圈子，一起交流！](https://toutiao.io/k/lrpbhk9) ![](assets/new.png)  
 - [2022-07-24-SDN系统方法-|-4.-裸金属交换机](https://toutiao.io/k/n952n37) ![](assets/new.png)  
-- [2022-07-24-推荐-团队一盘散沙，怎么破？](https://toutiao.io/k/kdzpdh5) ![](assets/new.png)  
-- [2022-07-24-推荐-高并发，你真的理解透彻了吗？](https://toutiao.io/k/93k2zfb) ![](assets/new.png)  
-- [2022-07-24-推荐-不知道这4种缓存模式，敢说懂缓存吗？](https://toutiao.io/k/nn8m95b) ![](assets/new.png)  
-- [2022-07-24-推荐-一线技术人应该关注的四种思维能力](https://toutiao.io/k/s2lbrzp) ![](assets/new.png)  
 - [2022-07-24-推荐-花了一周，我总结了120个数据分析指标与术语。](https://toutiao.io/k/9pzybmk) ![](assets/new.png)  
+- [2022-07-24-推荐-一线技术人应该关注的四种思维能力](https://toutiao.io/k/s2lbrzp) ![](assets/new.png)  
+- [2022-07-24-推荐-高并发，你真的理解透彻了吗？](https://toutiao.io/k/93k2zfb) ![](assets/new.png)  
+- [2022-07-24-推荐-聊聊Java中代码优化的30个小技巧](https://toutiao.io/k/jv8g1r6) ![](assets/new.png)  
+- [2022-07-24-推荐-团队一盘散沙，怎么破？](https://toutiao.io/k/kdzpdh5) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

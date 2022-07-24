@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-24 14:39:33。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-24 15:14:14。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,10 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-07-24-对-macOS-/-Windows-HiDPI-高分屏处理有感](https://www.v2ex.com/t/868424) 
+- [2022-07-24-今天买了电动自行车，感叹手机都-200w-快充了，电动车还没有实用的快充技术落地吗？](https://www.v2ex.com/t/868423) 
+- [2022-07-24-关于-iPhone-双卡使用的问题](https://www.v2ex.com/t/868422) 
+- [2022-07-24-google-翻译经过逍遥模拟器还原后无法离线使用](https://www.v2ex.com/t/868420) 
 - [2022-07-24-问下大佬们关于域名的配置问题](https://www.v2ex.com/t/868417) 
 - [2022-07-24-求推荐-ios-上朗读软件-tts](https://www.v2ex.com/t/868415) 
 - [2022-07-24-wireguard-如何配置成-openvpn-那样的-C/S-模式?](https://www.v2ex.com/t/868414) 
@@ -1936,10 +1940,6 @@
 - [2022-07-24-凉心云又一大坑，-COS-CDN-回源流量无故暴增至-5-倍](https://www.v2ex.com/t/868380) 
 - [2022-07-24-有-patreon-的创作者吗，请教一个问题](https://www.v2ex.com/t/868379) 
 - [2022-07-24-想建一个杭州本地的-35+-程序员群，没有什么目的，就是单纯想聊聊](https://www.v2ex.com/t/868378) 
-- [2022-07-24-收了一台群晖-DS1815+，想上车矿盘](https://www.v2ex.com/t/868374) 
-- [2022-07-24-求，-iPad-控制-macOS-最好的远程控制软件](https://www.v2ex.com/t/868373) 
-- [2022-07-24-2022-年了-LG-UltraFine-4K-23.8-还值得购买吗?](https://www.v2ex.com/t/868372) 
-- [2022-07-24-局域网-1-下的-mac-想连接局域网-2-下的打印机](https://www.v2ex.com/t/868370) 
 - [2022-07-24-Android-框架问题分析案例---谁杀了桌面?-androidperformance.com](https://blogread.cn/news/go.php?idItem=15249&url=https%3A%2F%2Fandroidperformance.com%2F2019%2F09%2F17%2FAndroid-Kill-Background-App-Debug%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-24-生产者消费者编程模式-www.ideawu.net](https://blogread.cn/news/go.php?idItem=15248&url=https%3A%2F%2Fwww.ideawu.net%2Fblog%2Farchives%2F1202.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-24-想学习k8s但没有环境？使用minikube轻松搭建一个-colobu.com](https://blogread.cn/news/go.php?idItem=15247&url=https%3A%2F%2Fcolobu.com%2F2022%2F06%2F02%2Fsetup-a-k8s-cluster-with-minikube%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1958,7 +1958,7 @@
 - [2022-07-24-B站基于Apache-Ranger的大数据权限服务的技术演进](https://toutiao.io/k/jpnw7at) 
 - [2022-07-24-欢迎加入读者圈子，一起交流！](https://toutiao.io/k/lrpbhk9) 
 - [2022-07-24-SDN系统方法-|-4.-裸金属交换机](https://toutiao.io/k/n952n37) 
-- [2022-07-24-推荐-一线技术人应该关注的四种思维能力](https://toutiao.io/k/s2lbrzp) 
-- [2022-07-24-推荐-团队一盘散沙，怎么破？](https://toutiao.io/k/kdzpdh5) 
-- [2022-07-24-推荐-花了一周，我总结了120个数据分析指标与术语。](https://toutiao.io/k/9pzybmk) 
 - [2022-07-24-推荐-高并发，你真的理解透彻了吗？](https://toutiao.io/k/93k2zfb) 
+- [2022-07-24-推荐-一线技术人应该关注的四种思维能力](https://toutiao.io/k/s2lbrzp) 
+- [2022-07-24-推荐-花了一周，我总结了120个数据分析指标与术语。](https://toutiao.io/k/9pzybmk) 
+- [2022-07-24-推荐-团队一盘散沙，怎么破？](https://toutiao.io/k/kdzpdh5) 

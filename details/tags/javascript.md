@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-24 12:23:45。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-24 13:03:50。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -20,3 +20,6 @@
 - [2022-04-30-深入-JS-new-Function-语法](https://www.zhangxinxu.com/wordpress/2022/04/js-new-function/) 
 - [2022-07-24-C++中的数组寻址，是线性时间还是固定时间](https://www.v2ex.com/t/868384) 
 - [2022-07-24-万行原生-Javascript-该如何维护？](https://www.v2ex.com/t/868366) 
+- [2022-07-24-介绍一种CSS变量未定义语法也OK的小妙招-www.zhangxinxu.com](https://blogread.cn/news/go.php?idItem=15235&url=https%3A%2F%2Fwww.zhangxinxu.com%2Fwordpress%2F2022%2F06%2Fcss-var-optional-empty-trick%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2022-07-24-小tips:-JS字体加载失败或完毕的检测-www.zhangxinxu.com](https://blogread.cn/news/go.php?idItem=15231&url=https%3A%2F%2Fwww.zhangxinxu.com%2Fwordpress%2F2022%2F04%2Fjs-font-face-load%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2022-07-24-CompletableFuture原理与实践-外卖商家端API的异步化-tech.meituan.com](https://blogread.cn/news/go.php?idItem=15230&url=https%3A%2F%2Ftech.meituan.com%2F2022%2F05%2F12%2Fprinciples-and-practices-of-completablefuture.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

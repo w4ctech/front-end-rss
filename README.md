@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-07-24 13:03:50，:rocket: 更新条数: +2018， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-07-24 13:48:12，:rocket: 更新条数: +2018， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-07-24-微信现在要限制外国用户？](https://www.v2ex.com/t/868409) ![](assets/new.png)  
+- [2022-07-24-在-2022-年的今天，-HomePod-mini-的使用体验是怎样的？](https://www.v2ex.com/t/868408) ![](assets/new.png)  
 - [2022-07-24-怎样阻止-Microsoft-Edge-弹出隐私提示啊](https://www.v2ex.com/t/868407) ![](assets/new.png)  
 - [2022-07-24-能分享一下你觉得好用的网站/服务吗](https://www.v2ex.com/t/868405) ![](assets/new.png)  
 - [2022-07-24-最强防护？](https://www.v2ex.com/t/868404) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-07-24-请问有用-M2-air-进行-iOS-开发的老铁吗？](https://www.v2ex.com/t/868386) ![](assets/new.png)  
 - [2022-07-24-C++中的数组寻址，是线性时间还是固定时间](https://www.v2ex.com/t/868384) ![](assets/new.png)  
 - [2022-07-24-上海联通现在-IPTV-的-VLAN-ID-是多少？还是-44-么？](https://www.v2ex.com/t/868383) ![](assets/new.png)  
-- [2022-07-24-和我的前健身教练录了一期-Podcast-聊聊健身这件事](https://www.v2ex.com/t/868382) ![](assets/new.png)  
-- [2022-07-24-凉心云又一大坑，-COS-CDN-回源流量无故暴增至-5-倍](https://www.v2ex.com/t/868380) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -522,6 +522,12 @@
 </summary>
 
 
+- [2022-07-24-Webpack-打包后代码执行时机分析与优化-www.alloyteam.com](https://blogread.cn/news/go.php?idItem=15250&url=http%3A%2F%2Fwww.alloyteam.com%2F2019%2F07%2Fwait-external-webpack-plugin%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2022-07-24-Android-框架问题分析案例---谁杀了桌面?-androidperformance.com](https://blogread.cn/news/go.php?idItem=15249&url=https%3A%2F%2Fandroidperformance.com%2F2019%2F09%2F17%2FAndroid-Kill-Background-App-Debug%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2022-07-24-生产者消费者编程模式-www.ideawu.net](https://blogread.cn/news/go.php?idItem=15248&url=https%3A%2F%2Fwww.ideawu.net%2Fblog%2Farchives%2F1202.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2022-07-24-想学习k8s但没有环境？使用minikube轻松搭建一个-colobu.com](https://blogread.cn/news/go.php?idItem=15247&url=https%3A%2F%2Fcolobu.com%2F2022%2F06%2F02%2Fsetup-a-k8s-cluster-with-minikube%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2022-07-24-最常用的架构模式-colobu.com](https://blogread.cn/news/go.php?idItem=15246&url=https%3A%2F%2Fcolobu.com%2F2022%2F03%2F06%2Fmost-useful-software-architecture-patterns%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2022-07-24-Android对so体积优化的探索与实践-tech.meituan.com](https://blogread.cn/news/go.php?idItem=15245&url=https%3A%2F%2Ftech.meituan.com%2F2022%2F06%2F02%2Fmeituans-technical-exploration-and-practice-of-android-so-volume-optimization.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-07-24-Go:-logrus性能提升-wklken.me](https://blogread.cn/news/go.php?idItem=15244&url=https%3A%2F%2Fwklken.me%2Fposts%2F2021%2F02%2F09%2Fgolang-high-performance-logrus.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-07-24-Csp-Nonce-–-守护你的-inline-Scirpt-www.alloyteam.com](https://blogread.cn/news/go.php?idItem=15243&url=http%3A%2F%2Fwww.alloyteam.com%2F2020%2F08%2Fcsp-nonce%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-07-24-不使用file类型input也能触发文件上传-www.zhangxinxu.com](https://blogread.cn/news/go.php?idItem=15242&url=https%3A%2F%2Fwww.zhangxinxu.com%2Fwordpress%2F2021%2F08%2Ffile-system-access-api%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
@@ -536,12 +542,6 @@
 - [2022-07-24-编译的速度与激情：从-10mins-到-1s-www.alloyteam.com](https://blogread.cn/news/go.php?idItem=15233&url=http%3A%2F%2Fwww.alloyteam.com%2F2020%2F12%2F14882%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-07-24-数据库全量SQL分析与审计系统性能优化之旅-tech.meituan.com](https://blogread.cn/news/go.php?idItem=15232&url=https%3A%2F%2Ftech.meituan.com%2F2022%2F06%2F09%2Fthe-route-of-database-get-audit-sql-optimize.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-07-24-小tips:-JS字体加载失败或完毕的检测-www.zhangxinxu.com](https://blogread.cn/news/go.php?idItem=15231&url=https%3A%2F%2Fwww.zhangxinxu.com%2Fwordpress%2F2022%2F04%2Fjs-font-face-load%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-07-24-CompletableFuture原理与实践-外卖商家端API的异步化-tech.meituan.com](https://blogread.cn/news/go.php?idItem=15230&url=https%3A%2F%2Ftech.meituan.com%2F2022%2F05%2F12%2Fprinciples-and-practices-of-completablefuture.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-07-24-图神经网络训练框架的实践和探索-tech.meituan.com](https://blogread.cn/news/go.php?idItem=15229&url=https%3A%2F%2Ftech.meituan.com%2F2022%2F05%2F20%2Fgnn-framework-tulong.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-07-24-对话摘要技术在美团的探索（SIGIR）-tech.meituan.com](https://blogread.cn/news/go.php?idItem=15228&url=https%3A%2F%2Ftech.meituan.com%2F2022%2F05%2F26%2Fexploration-of-dialogue-summary-technology-sigir.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-07-24-四舍五入在Go语言中为何如此困难-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15227&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494318%26amp%3Bidx%3D1%26amp%3Bsn%3D1aa3d045dc8d2027b4dce52686bea510%26amp%3Bchksm%3Dfa3f0bf5cd4882e3185e795effa3df7669f106fd3a92f9d32c1b51e90608417a471522425c86%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-07-24-为什么MySQL不建议使用NULL作为列默认值？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15226&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494318%26amp%3Bidx%3D2%26amp%3Bsn%3Dd33dbc782d233102cf46e21b1376175b%26amp%3Bchksm%3Dfa3f0bf5cd4882e3e12eead1c4678b079b162e2f9aabfad7780b31a977b2af17e526270d886e%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-07-24-18款顶级代码生成器平台！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15225&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494317%26amp%3Bidx%3D1%26amp%3Bsn%3D187c034732000cce1e17908d13d8e7c0%26amp%3Bchksm%3Dfa3f0bf6cd4882e0ed917e71003922554b2b3e3c786af63d24a8f30d798a084888cfb0c5bf17%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -555,19 +555,19 @@
 
 - [2022-07-24-分布式日志收集系统---ExceptionLess的安装、配置、使用](https://toutiao.io/k/8nc5g27) ![](assets/new.png)  
 - [2022-07-24-推荐实现Apache-Kafka高可靠高弹性的三篇文章](https://toutiao.io/k/kdve4zs) ![](assets/new.png)  
-- [2022-07-24-看完Vue源码，总结了这个22个工具函数](https://toutiao.io/k/m5r34di) ![](assets/new.png)  
 - [2022-07-24-Go语言创始人从Google离职](https://toutiao.io/k/b53md9r) ![](assets/new.png)  
+- [2022-07-24-看完Vue源码，总结了这个22个工具函数](https://toutiao.io/k/m5r34di) ![](assets/new.png)  
 - [2022-07-24-【机器学习】暴力特征工程函数汇总，附代码](https://toutiao.io/k/5nbpxwb) ![](assets/new.png)  
 - [2022-07-24-上千万行，十多G源码，浏览器为什么这么“变态”？](https://toutiao.io/k/8cj38qe) ![](assets/new.png)  
 - [2022-07-24-为什么那么多公司钟爱-Flutter-？](https://toutiao.io/k/4lhmt34) ![](assets/new.png)  
+- [2022-07-24-2-万字详解，吃透-ES！](https://toutiao.io/k/01ufo5b) ![](assets/new.png)  
 - [2022-07-24-B站基于Apache-Ranger的大数据权限服务的技术演进](https://toutiao.io/k/jpnw7at) ![](assets/new.png)  
 - [2022-07-24-欢迎加入读者圈子，一起交流！](https://toutiao.io/k/lrpbhk9) ![](assets/new.png)  
-- [2022-07-24-2-万字详解，吃透-ES！](https://toutiao.io/k/01ufo5b) ![](assets/new.png)  
 - [2022-07-24-SDN系统方法-|-4.-裸金属交换机](https://toutiao.io/k/n952n37) ![](assets/new.png)  
-- [2022-07-24-推荐-花了一周，我总结了120个数据分析指标与术语。](https://toutiao.io/k/9pzybmk) ![](assets/new.png)  
 - [2022-07-24-推荐-团队一盘散沙，怎么破？](https://toutiao.io/k/kdzpdh5) ![](assets/new.png)  
-- [2022-07-24-推荐-不知道这4种缓存模式，敢说懂缓存吗？](https://toutiao.io/k/nn8m95b) ![](assets/new.png)  
 - [2022-07-24-推荐-一线技术人应该关注的四种思维能力](https://toutiao.io/k/s2lbrzp) ![](assets/new.png)  
+- [2022-07-24-推荐-花了一周，我总结了120个数据分析指标与术语。](https://toutiao.io/k/9pzybmk) ![](assets/new.png)  
+- [2022-07-24-推荐-不知道这4种缓存模式，敢说懂缓存吗？](https://toutiao.io/k/nn8m95b) ![](assets/new.png)  
 - [2022-07-24-推荐-高并发，你真的理解透彻了吗？](https://toutiao.io/k/93k2zfb) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

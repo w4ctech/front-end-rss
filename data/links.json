@@ -9953,6 +9953,16 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "微信现在要限制外国用户？",
+        "link": "https://www.v2ex.com/t/868409",
+        "date": "2022-07-24"
+      },
+      {
+        "title": "在 2022 年的今天， HomePod mini 的使用体验是怎样的？",
+        "link": "https://www.v2ex.com/t/868408",
+        "date": "2022-07-24"
+      },
+      {
         "title": "怎样阻止 Microsoft Edge 弹出隐私提示啊",
         "link": "https://www.v2ex.com/t/868407",
         "date": "2022-07-24"
@@ -10121,16 +10131,6 @@
         "title": "和多号短信功能消失，还有别的免插卡发短信方法吗？谢谢大家",
         "link": "https://www.v2ex.com/t/868360",
         "date": "2022-07-24"
-      },
-      {
-        "title": "求大神帮忙，恢复下我的百度云",
-        "link": "https://www.v2ex.com/t/868359",
-        "date": "2022-07-24"
-      },
-      {
-        "title": "Cha.fan 核心后端代码开源",
-        "link": "https://www.v2ex.com/t/868358",
-        "date": "2022-07-24"
       }
     ]
   },
@@ -10139,6 +10139,36 @@
     "title": "技术头条",
     "link": "http://blogread.cn/news/newest.php",
     "items": [
+      {
+        "title": "Webpack 打包后代码执行时机分析与优化 (www.alloyteam.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=15250&url=http%3A%2F%2Fwww.alloyteam.com%2F2019%2F07%2Fwait-external-webpack-plugin%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2022-07-24"
+      },
+      {
+        "title": "Android 框架问题分析案例 - 谁杀了桌面? (androidperformance.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=15249&url=https%3A%2F%2Fandroidperformance.com%2F2019%2F09%2F17%2FAndroid-Kill-Background-App-Debug%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2022-07-24"
+      },
+      {
+        "title": "生产者消费者编程模式 (www.ideawu.net)",
+        "link": "https://blogread.cn/news/go.php?idItem=15248&url=https%3A%2F%2Fwww.ideawu.net%2Fblog%2Farchives%2F1202.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2022-07-24"
+      },
+      {
+        "title": "想学习k8s但没有环境？使用minikube轻松搭建一个 (colobu.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=15247&url=https%3A%2F%2Fcolobu.com%2F2022%2F06%2F02%2Fsetup-a-k8s-cluster-with-minikube%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2022-07-24"
+      },
+      {
+        "title": "最常用的架构模式 (colobu.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=15246&url=https%3A%2F%2Fcolobu.com%2F2022%2F03%2F06%2Fmost-useful-software-architecture-patterns%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2022-07-24"
+      },
+      {
+        "title": "Android对so体积优化的探索与实践 (tech.meituan.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=15245&url=https%3A%2F%2Ftech.meituan.com%2F2022%2F06%2F02%2Fmeituans-technical-exploration-and-practice-of-android-so-volume-optimization.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2022-07-24"
+      },
       {
         "title": "Go: logrus性能提升 (wklken.me)",
         "link": "https://blogread.cn/news/go.php?idItem=15244&url=https%3A%2F%2Fwklken.me%2Fposts%2F2021%2F02%2F09%2Fgolang-high-performance-logrus.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
@@ -10208,36 +10238,6 @@
         "title": "小tips: JS字体加载失败或完毕的检测 (www.zhangxinxu.com)",
         "link": "https://blogread.cn/news/go.php?idItem=15231&url=https%3A%2F%2Fwww.zhangxinxu.com%2Fwordpress%2F2022%2F04%2Fjs-font-face-load%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
         "date": "2022-07-24"
-      },
-      {
-        "title": "CompletableFuture原理与实践-外卖商家端API的异步化 (tech.meituan.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=15230&url=https%3A%2F%2Ftech.meituan.com%2F2022%2F05%2F12%2Fprinciples-and-practices-of-completablefuture.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-07-24"
-      },
-      {
-        "title": "图神经网络训练框架的实践和探索 (tech.meituan.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=15229&url=https%3A%2F%2Ftech.meituan.com%2F2022%2F05%2F20%2Fgnn-framework-tulong.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-07-24"
-      },
-      {
-        "title": "对话摘要技术在美团的探索（SIGIR） (tech.meituan.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=15228&url=https%3A%2F%2Ftech.meituan.com%2F2022%2F05%2F26%2Fexploration-of-dialogue-summary-technology-sigir.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-07-24"
-      },
-      {
-        "title": "四舍五入在Go语言中为何如此困难 (mp.weixin.qq.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=15227&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494318%26amp%3Bidx%3D1%26amp%3Bsn%3D1aa3d045dc8d2027b4dce52686bea510%26amp%3Bchksm%3Dfa3f0bf5cd4882e3185e795effa3df7669f106fd3a92f9d32c1b51e90608417a471522425c86%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-07-24"
-      },
-      {
-        "title": "为什么MySQL不建议使用NULL作为列默认值？ (mp.weixin.qq.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=15226&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494318%26amp%3Bidx%3D2%26amp%3Bsn%3Dd33dbc782d233102cf46e21b1376175b%26amp%3Bchksm%3Dfa3f0bf5cd4882e3e12eead1c4678b079b162e2f9aabfad7780b31a977b2af17e526270d886e%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-07-24"
-      },
-      {
-        "title": "18款顶级代码生成器平台！ (mp.weixin.qq.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=15225&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494317%26amp%3Bidx%3D1%26amp%3Bsn%3D187c034732000cce1e17908d13d8e7c0%26amp%3Bchksm%3Dfa3f0bf6cd4882e0ed917e71003922554b2b3e3c786af63d24a8f30d798a084888cfb0c5bf17%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-07-24"
       }
     ]
   },
@@ -10257,13 +10257,13 @@
         "date": "2022-07-24"
       },
       {
-        "title": "看完Vue源码，总结了这个22个工具函数",
-        "link": "https://toutiao.io/k/m5r34di",
+        "title": "Go语言创始人从Google离职",
+        "link": "https://toutiao.io/k/b53md9r",
         "date": "2022-07-24"
       },
       {
-        "title": "Go语言创始人从Google离职",
-        "link": "https://toutiao.io/k/b53md9r",
+        "title": "看完Vue源码，总结了这个22个工具函数",
+        "link": "https://toutiao.io/k/m5r34di",
         "date": "2022-07-24"
       },
       {
@@ -10282,6 +10282,11 @@
         "date": "2022-07-24"
       },
       {
+        "title": "2 万字详解，吃透 ES！",
+        "link": "https://toutiao.io/k/01ufo5b",
+        "date": "2022-07-24"
+      },
+      {
         "title": "B站基于Apache Ranger的大数据权限服务的技术演进",
         "link": "https://toutiao.io/k/jpnw7at",
         "date": "2022-07-24"
@@ -10292,18 +10297,8 @@
         "date": "2022-07-24"
       },
       {
-        "title": "2 万字详解，吃透 ES！",
-        "link": "https://toutiao.io/k/01ufo5b",
-        "date": "2022-07-24"
-      },
-      {
         "title": "SDN系统方法 | 4. 裸金属交换机",
         "link": "https://toutiao.io/k/n952n37",
-        "date": "2022-07-24"
-      },
-      {
-        "title": "[推荐] 花了一周，我总结了120个数据分析指标与术语。",
-        "link": "https://toutiao.io/k/9pzybmk",
         "date": "2022-07-24"
       },
       {
@@ -10312,13 +10307,18 @@
         "date": "2022-07-24"
       },
       {
-        "title": "[推荐] 不知道这4种缓存模式，敢说懂缓存吗？",
-        "link": "https://toutiao.io/k/nn8m95b",
+        "title": "[推荐] 一线技术人应该关注的四种思维能力",
+        "link": "https://toutiao.io/k/s2lbrzp",
         "date": "2022-07-24"
       },
       {
-        "title": "[推荐] 一线技术人应该关注的四种思维能力",
-        "link": "https://toutiao.io/k/s2lbrzp",
+        "title": "[推荐] 花了一周，我总结了120个数据分析指标与术语。",
+        "link": "https://toutiao.io/k/9pzybmk",
+        "date": "2022-07-24"
+      },
+      {
+        "title": "[推荐] 不知道这4种缓存模式，敢说懂缓存吗？",
+        "link": "https://toutiao.io/k/nn8m95b",
         "date": "2022-07-24"
       },
       {

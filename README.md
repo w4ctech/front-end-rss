@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-07-24 10:15:39，:rocket: 更新条数: +2017， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-07-24 10:42:28，:rocket: 更新条数: +2017， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,10 @@
 </summary>
 
 
+- [2022-07-24-想要个-MT-的-PT-邀请，不知可否方便？](https://www.v2ex.com/t/868393) ![](assets/new.png)  
+- [2022-07-24-开源一个-Jetpack-Compose-撸的管理过期食物的小破应用啦！](https://www.v2ex.com/t/868392) ![](assets/new.png)  
+- [2022-07-24-宽带没到期有办法停掉吗？](https://www.v2ex.com/t/868390) ![](assets/new.png)  
+- [2022-07-24-如何在全程不接入显示器的状况下架设起一台服务器](https://www.v2ex.com/t/868389) ![](assets/new.png)  
 - [2022-07-24-♥♥♥三里屯两居室寻室友](https://www.v2ex.com/t/868388) ![](assets/new.png)  
 - [2022-07-24-推荐一款给手机体检的软件](https://www.v2ex.com/t/868387) ![](assets/new.png)  
 - [2022-07-24-请问有用-M2-air-进行-iOS-开发的老铁吗？](https://www.v2ex.com/t/868386) ![](assets/new.png)  
@@ -507,10 +511,6 @@
 - [2022-07-24-局域网-1-下的-mac-想连接局域网-2-下的打印机](https://www.v2ex.com/t/868370) ![](assets/new.png)  
 - [2022-07-24-求教下运维的朋友如果方便快捷维护多台不同配置电脑的系统？](https://www.v2ex.com/t/868367) ![](assets/new.png)  
 - [2022-07-24-万行原生-Javascript-该如何维护？](https://www.v2ex.com/t/868366) ![](assets/new.png)  
-- [2022-07-24-据猜测-M2-iPad-将使用-Macbook-air-的主板](https://www.v2ex.com/t/868365) ![](assets/new.png)  
-- [2022-07-24-Linux-下的-firefox-越做越烂了？无法开启-Wayland-hidpi](https://www.v2ex.com/t/868364) ![](assets/new.png)  
-- [2022-07-24-mac-端-qv2ray-对于国外网站默认走代理修改](https://www.v2ex.com/t/868363) ![](assets/new.png)  
-- [2022-07-24-七年的恋爱结束了](https://www.v2ex.com/t/868362) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -564,10 +564,10 @@
 - [2022-07-24-欢迎加入读者圈子，一起交流！](https://toutiao.io/k/lrpbhk9) ![](assets/new.png)  
 - [2022-07-24-SDN系统方法-|-4.-裸金属交换机](https://toutiao.io/k/n952n37) ![](assets/new.png)  
 - [2022-07-24-2-万字详解，吃透-ES！](https://toutiao.io/k/01ufo5b) ![](assets/new.png)  
-- [2022-07-24-推荐-高并发，你真的理解透彻了吗？](https://toutiao.io/k/93k2zfb) ![](assets/new.png)  
-- [2022-07-24-推荐-一线技术人应该关注的四种思维能力](https://toutiao.io/k/s2lbrzp) ![](assets/new.png)  
 - [2022-07-24-推荐-团队一盘散沙，怎么破？](https://toutiao.io/k/kdzpdh5) ![](assets/new.png)  
 - [2022-07-24-推荐-不知道这4种缓存模式，敢说懂缓存吗？](https://toutiao.io/k/nn8m95b) ![](assets/new.png)  
+- [2022-07-24-推荐-一线技术人应该关注的四种思维能力](https://toutiao.io/k/s2lbrzp) ![](assets/new.png)  
+- [2022-07-24-推荐-高并发，你真的理解透彻了吗？](https://toutiao.io/k/93k2zfb) ![](assets/new.png)  
 - [2022-07-24-推荐-花了一周，我总结了120个数据分析指标与术语。](https://toutiao.io/k/9pzybmk) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

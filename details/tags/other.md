@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-24 10:42:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-24 11:12:37。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,8 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-07-24-Bert-情感分类任务中，为什么输出前要先-x=x:,-0,-:](https://www.v2ex.com/t/868398) 
+- [2022-07-24-macbook-连接公共-Wi-Fi-总是断连](https://www.v2ex.com/t/868396) 
 - [2022-07-24-想要个-MT-的-PT-邀请，不知可否方便？](https://www.v2ex.com/t/868393) 
 - [2022-07-24-开源一个-Jetpack-Compose-撸的管理过期食物的小破应用啦！](https://www.v2ex.com/t/868392) 
 - [2022-07-24-宽带没到期有办法停掉吗？](https://www.v2ex.com/t/868390) 
@@ -1939,7 +1941,6 @@
 - [2022-07-24-想问下各位老哥们关于-MacBook-扩容的](https://www.v2ex.com/t/868353) 
 - [2022-07-24-airpod-pro-Apple-Care-还有几天就到期了。还没用过。该做点什么呀](https://www.v2ex.com/t/868352) 
 - [2022-07-24-有哪些-ALL-IN-ONE-主机推荐,-有没有-hpe-gen10p-之外的推荐](https://www.v2ex.com/t/868351) 
-- [2022-07-24-免费的半年-IPv4-/-IPv6-和通配符域名-acme-SSL-证书-HiCA](https://www.v2ex.com/t/868344) 
 - [2022-07-24-四舍五入在Go语言中为何如此困难-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15227&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494318%26amp%3Bidx%3D1%26amp%3Bsn%3D1aa3d045dc8d2027b4dce52686bea510%26amp%3Bchksm%3Dfa3f0bf5cd4882e3185e795effa3df7669f106fd3a92f9d32c1b51e90608417a471522425c86%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-24-为什么MySQL不建议使用NULL作为列默认值？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15226&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494318%26amp%3Bidx%3D2%26amp%3Bsn%3Dd33dbc782d233102cf46e21b1376175b%26amp%3Bchksm%3Dfa3f0bf5cd4882e3e12eead1c4678b079b162e2f9aabfad7780b31a977b2af17e526270d886e%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-24-18款顶级代码生成器平台！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15225&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494317%26amp%3Bidx%3D1%26amp%3Bsn%3D187c034732000cce1e17908d13d8e7c0%26amp%3Bchksm%3Dfa3f0bf6cd4882e0ed917e71003922554b2b3e3c786af63d24a8f30d798a084888cfb0c5bf17%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1962,9 +1963,9 @@
 - [2022-07-24-【机器学习】暴力特征工程函数汇总，附代码](https://toutiao.io/k/5nbpxwb) 
 - [2022-07-24-B站基于Apache-Ranger的大数据权限服务的技术演进](https://toutiao.io/k/jpnw7at) 
 - [2022-07-24-欢迎加入读者圈子，一起交流！](https://toutiao.io/k/lrpbhk9) 
-- [2022-07-24-SDN系统方法-|-4.-裸金属交换机](https://toutiao.io/k/n952n37) 
 - [2022-07-24-2-万字详解，吃透-ES！](https://toutiao.io/k/01ufo5b) 
+- [2022-07-24-SDN系统方法-|-4.-裸金属交换机](https://toutiao.io/k/n952n37) 
 - [2022-07-24-推荐-团队一盘散沙，怎么破？](https://toutiao.io/k/kdzpdh5) 
+- [2022-07-24-推荐-花了一周，我总结了120个数据分析指标与术语。](https://toutiao.io/k/9pzybmk) 
 - [2022-07-24-推荐-一线技术人应该关注的四种思维能力](https://toutiao.io/k/s2lbrzp) 
 - [2022-07-24-推荐-高并发，你真的理解透彻了吗？](https://toutiao.io/k/93k2zfb) 
-- [2022-07-24-推荐-花了一周，我总结了120个数据分析指标与术语。](https://toutiao.io/k/9pzybmk) 

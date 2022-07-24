@@ -9953,6 +9953,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "2022 押宝 c#还是 Java",
+        "link": "https://www.v2ex.com/t/868434",
+        "date": "2022-07-24"
+      },
+      {
         "title": "有没有人可能搞个 newsletter 的推荐站",
         "link": "https://www.v2ex.com/t/868433",
         "date": "2022-07-24"
@@ -10131,11 +10136,6 @@
         "title": "请问有用 M2 air 进行 iOS 开发的老铁吗？",
         "link": "https://www.v2ex.com/t/868386",
         "date": "2022-07-24"
-      },
-      {
-        "title": "C++中的数组寻址，是线性时间还是固定时间",
-        "link": "https://www.v2ex.com/t/868384",
-        "date": "2022-07-24"
       }
     ]
   },
@@ -10307,11 +10307,6 @@
         "date": "2022-07-24"
       },
       {
-        "title": "[推荐] 花了一周，我总结了120个数据分析指标与术语。",
-        "link": "https://toutiao.io/k/9pzybmk",
-        "date": "2022-07-24"
-      },
-      {
         "title": "[推荐] 一线技术人应该关注的四种思维能力",
         "link": "https://toutiao.io/k/s2lbrzp",
         "date": "2022-07-24"
@@ -10319,6 +10314,11 @@
       {
         "title": "[推荐] 高并发，你真的理解透彻了吗？",
         "link": "https://toutiao.io/k/93k2zfb",
+        "date": "2022-07-24"
+      },
+      {
+        "title": "[推荐] 花了一周，我总结了120个数据分析指标与术语。",
+        "link": "https://toutiao.io/k/9pzybmk",
         "date": "2022-07-24"
       },
       {

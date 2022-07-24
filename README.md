@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-07-24 08:17:58，:rocket: 更新条数: +2017， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-07-24 08:44:46，:rocket: 更新条数: +2016， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-07-24-局域网-1-下的-mac-想连接局域网-2-下的打印机](https://www.v2ex.com/t/868370) ![](assets/new.png)  
 - [2022-07-24-求教下运维的朋友如果方便快捷维护多台不同配置电脑的系统？](https://www.v2ex.com/t/868367) ![](assets/new.png)  
 - [2022-07-24-万行原生-Javascript-该如何维护？](https://www.v2ex.com/t/868366) ![](assets/new.png)  
 - [2022-07-24-据猜测-M2-iPad-将使用-Macbook-air-的主板](https://www.v2ex.com/t/868365) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-07-24-免费的半年-IPv4-/-IPv6-和通配符域名-acme-SSL-证书-HiCA](https://www.v2ex.com/t/868344) ![](assets/new.png)  
 - [2022-07-24-8-月-10-日到-8-月-30-日新疆游](https://www.v2ex.com/t/868342) ![](assets/new.png)  
 - [2022-07-24-这个正则要怎么写呢？一个不标准的-json-字符串，想要手动给他修改正确](https://www.v2ex.com/t/868341) ![](assets/new.png)  
-- [2022-07-24-微信-在-MacOS-12.5-的权限控制](https://www.v2ex.com/t/868340) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -564,11 +564,11 @@
 - [2022-07-24-B站基于Apache-Ranger的大数据权限服务的技术演进](https://toutiao.io/k/jpnw7at) ![](assets/new.png)  
 - [2022-07-24-SDN系统方法-|-4.-裸金属交换机](https://toutiao.io/k/n952n37) ![](assets/new.png)  
 - [2022-07-24-2-万字详解，吃透-ES！](https://toutiao.io/k/01ufo5b) ![](assets/new.png)  
-- [2022-07-24-推荐-团队一盘散沙，怎么破？](https://toutiao.io/k/kdzpdh5) ![](assets/new.png)  
-- [2022-07-24-推荐-花了一周，我总结了120个数据分析指标与术语。](https://toutiao.io/k/9pzybmk) ![](assets/new.png)  
 - [2022-07-24-推荐-高并发，你真的理解透彻了吗？](https://toutiao.io/k/93k2zfb) ![](assets/new.png)  
 - [2022-07-24-推荐-一线技术人应该关注的四种思维能力](https://toutiao.io/k/s2lbrzp) ![](assets/new.png)  
+- [2022-07-24-推荐-团队一盘散沙，怎么破？](https://toutiao.io/k/kdzpdh5) ![](assets/new.png)  
 - [2022-07-24-推荐-不知道这4种缓存模式，敢说懂缓存吗？](https://toutiao.io/k/nn8m95b) ![](assets/new.png)  
+- [2022-07-24-推荐-花了一周，我总结了120个数据分析指标与术语。](https://toutiao.io/k/9pzybmk) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

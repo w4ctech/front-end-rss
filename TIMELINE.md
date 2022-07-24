@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-24 16:57:26。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-07-24 17:17:57。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -137,11 +137,11 @@
 - [【开发者头条】2022-07-24-为什么那么多公司钟爱-Flutter-？](https://toutiao.io/k/4lhmt34) 
 - [【开发者头条】2022-07-24-欢迎加入读者圈子，一起交流！](https://toutiao.io/k/lrpbhk9) 
 - [【开发者头条】2022-07-24-SDN系统方法-|-4.-裸金属交换机](https://toutiao.io/k/n952n37) 
-- [【开发者头条】2022-07-24-推荐-一线技术人应该关注的四种思维能力](https://toutiao.io/k/s2lbrzp) 
 - [【开发者头条】2022-07-24-推荐-高并发，你真的理解透彻了吗？](https://toutiao.io/k/93k2zfb) 
-- [【开发者头条】2022-07-24-推荐-花了一周，我总结了120个数据分析指标与术语。](https://toutiao.io/k/9pzybmk) 
-- [【开发者头条】2022-07-24-推荐-聊聊Java中代码优化的30个小技巧](https://toutiao.io/k/jv8g1r6) 
+- [【开发者头条】2022-07-24-推荐-一线技术人应该关注的四种思维能力](https://toutiao.io/k/s2lbrzp) 
 - [【开发者头条】2022-07-24-推荐-团队一盘散沙，怎么破？](https://toutiao.io/k/kdzpdh5) 
+- [【开发者头条】2022-07-24-推荐-聊聊Java中代码优化的30个小技巧](https://toutiao.io/k/jv8g1r6) 
+- [【开发者头条】2022-07-24-推荐-花了一周，我总结了120个数据分析指标与术语。](https://toutiao.io/k/9pzybmk) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

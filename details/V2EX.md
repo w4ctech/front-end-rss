@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2022-07-24 21:13:06。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-24 21:40:00。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-07-24-老任-switch+会员车](https://www.v2ex.com/t/868439) 
 - [2022-07-24-熬夜看-Tomorrowland-2022-l-LIVE](https://www.v2ex.com/t/868437) 
 - [2022-07-24-关于-Golang-多平台打包发布这件事..](https://www.v2ex.com/t/868435) 
 - [2022-07-24-2022-押宝-c#还是-Java](https://www.v2ex.com/t/868434) 
@@ -39,4 +40,3 @@
 - [2022-07-24-macbook-连接公共-Wi-Fi-总是断连](https://www.v2ex.com/t/868396) 
 - [2022-07-24-开源一个-Jetpack-Compose-撸的管理过期食物的小破应用啦！](https://www.v2ex.com/t/868392) 
 - [2022-07-24-宽带没到期有办法停掉吗？](https://www.v2ex.com/t/868390) 
-- [2022-07-24-如何在全程不接入显示器的状况下架设起一台服务器](https://www.v2ex.com/t/868389) 

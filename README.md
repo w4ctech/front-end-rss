@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-07-24 05:21:16，:rocket: 更新条数: +2019， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-07-24 05:41:42，:rocket: 更新条数: +2019， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -562,10 +562,10 @@
 - [2022-07-24-上千万行，十多G源码，浏览器为什么这么“变态”？](https://toutiao.io/k/8cj38qe) ![](assets/new.png)  
 - [2022-07-24-欢迎加入读者圈子，一起交流！](https://toutiao.io/k/lrpbhk9) ![](assets/new.png)  
 - [2022-07-24-B站基于Apache-Ranger的大数据权限服务的技术演进](https://toutiao.io/k/jpnw7at) ![](assets/new.png)  
-- [2022-07-24-推荐-高并发，你真的理解透彻了吗？](https://toutiao.io/k/93k2zfb) ![](assets/new.png)  
-- [2022-07-24-推荐-花了一周，我总结了120个数据分析指标与术语。](https://toutiao.io/k/9pzybmk) ![](assets/new.png)  
-- [2022-07-24-推荐-团队一盘散沙，怎么破？](https://toutiao.io/k/kdzpdh5) ![](assets/new.png)  
 - [2022-07-24-推荐-一线技术人应该关注的四种思维能力](https://toutiao.io/k/s2lbrzp) ![](assets/new.png)  
+- [2022-07-24-推荐-花了一周，我总结了120个数据分析指标与术语。](https://toutiao.io/k/9pzybmk) ![](assets/new.png)  
+- [2022-07-24-推荐-高并发，你真的理解透彻了吗？](https://toutiao.io/k/93k2zfb) ![](assets/new.png)  
+- [2022-07-24-推荐-团队一盘散沙，怎么破？](https://toutiao.io/k/kdzpdh5) ![](assets/new.png)  
 - [2022-07-24-推荐-不知道这4种缓存模式，敢说懂缓存吗？](https://toutiao.io/k/nn8m95b) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

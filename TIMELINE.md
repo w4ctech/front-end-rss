@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-24 07:39:11。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-07-24 08:17:58。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -69,6 +69,12 @@
 
 
 - [【张鑫旭-鑫空间-鑫生活】2022-07-21-超酷！CSS-font-palette与彩色字体显示](https://www.zhangxinxu.com/wordpress/2022/07/css-font-palette/) 
+- [【V2EX】2022-07-24-求教下运维的朋友如果方便快捷维护多台不同配置电脑的系统？](https://www.v2ex.com/t/868367) 
+- [【V2EX】2022-07-24-万行原生-Javascript-该如何维护？](https://www.v2ex.com/t/868366) 
+- [【V2EX】2022-07-24-据猜测-M2-iPad-将使用-Macbook-air-的主板](https://www.v2ex.com/t/868365) 
+- [【V2EX】2022-07-24-Linux-下的-firefox-越做越烂了？无法开启-Wayland-hidpi](https://www.v2ex.com/t/868364) 
+- [【V2EX】2022-07-24-mac-端-qv2ray-对于国外网站默认走代理修改](https://www.v2ex.com/t/868363) 
+- [【V2EX】2022-07-24-七年的恋爱结束了](https://www.v2ex.com/t/868362) 
 - [【V2EX】2022-07-24-Mac-端-新版-onedrive-无法选择系统盘之外的盘存储文件，有没有大佬遇到相同情况的，求个解决方案](https://www.v2ex.com/t/868361) 
 - [【V2EX】2022-07-24-和多号短信功能消失，还有别的免插卡发短信方法吗？谢谢大家](https://www.v2ex.com/t/868360) 
 - [【V2EX】2022-07-24-求大神帮忙，恢复下我的百度云](https://www.v2ex.com/t/868359) 
@@ -98,10 +104,6 @@
 - [【V2EX】2022-07-24-1080p-外接屏幕无法开启-960x540-hidpi？](https://www.v2ex.com/t/868321) 
 - [【V2EX】2022-07-24-求一个游戏：一个很老的篮球投篮游戏-但是不晓得叫啥名字~~](https://www.v2ex.com/t/868320) 
 - [【V2EX】2022-07-24-i225-网卡日志不太对](https://www.v2ex.com/t/868318) 
-- [【V2EX】2022-07-24-如何设置微软远程桌面内的缩放为-200%](https://www.v2ex.com/t/868317) 
-- [【V2EX】2022-07-24-hashmap,-i'll-use-a-hashmap](https://www.v2ex.com/t/868315) 
-- [【V2EX】2022-07-24-zero-Tier-卸载之后依然残留进程联网](https://www.v2ex.com/t/868314) 
-- [【V2EX】2022-07-24-是不是不买-TG-的会员就不给开受限群组了?](https://www.v2ex.com/t/868313) 
 - [【技术头条】2022-07-24-四舍五入在Go语言中为何如此困难-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15227&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494318%26amp%3Bidx%3D1%26amp%3Bsn%3D1aa3d045dc8d2027b4dce52686bea510%26amp%3Bchksm%3Dfa3f0bf5cd4882e3185e795effa3df7669f106fd3a92f9d32c1b51e90608417a471522425c86%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-24-为什么MySQL不建议使用NULL作为列默认值？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15226&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494318%26amp%3Bidx%3D2%26amp%3Bsn%3Dd33dbc782d233102cf46e21b1376175b%26amp%3Bchksm%3Dfa3f0bf5cd4882e3e12eead1c4678b079b162e2f9aabfad7780b31a977b2af17e526270d886e%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-24-18款顶级代码生成器平台！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15225&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494317%26amp%3Bidx%3D1%26amp%3Bsn%3D187c034732000cce1e17908d13d8e7c0%26amp%3Bchksm%3Dfa3f0bf6cd4882e0ed917e71003922554b2b3e3c786af63d24a8f30d798a084888cfb0c5bf17%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -127,17 +129,17 @@
 - [【开发者头条】2022-07-24-看完Vue源码，总结了这个22个工具函数](https://toutiao.io/k/m5r34di) 
 - [【开发者头条】2022-07-24-Go语言创始人从Google离职](https://toutiao.io/k/b53md9r) 
 - [【开发者头条】2022-07-24-【机器学习】暴力特征工程函数汇总，附代码](https://toutiao.io/k/5nbpxwb) 
-- [【开发者头条】2022-07-24-为什么那么多公司钟爱-Flutter-？](https://toutiao.io/k/4lhmt34) 
 - [【开发者头条】2022-07-24-上千万行，十多G源码，浏览器为什么这么“变态”？](https://toutiao.io/k/8cj38qe) 
-- [【开发者头条】2022-07-24-B站基于Apache-Ranger的大数据权限服务的技术演进](https://toutiao.io/k/jpnw7at) 
+- [【开发者头条】2022-07-24-为什么那么多公司钟爱-Flutter-？](https://toutiao.io/k/4lhmt34) 
 - [【开发者头条】2022-07-24-欢迎加入读者圈子，一起交流！](https://toutiao.io/k/lrpbhk9) 
+- [【开发者头条】2022-07-24-B站基于Apache-Ranger的大数据权限服务的技术演进](https://toutiao.io/k/jpnw7at) 
 - [【开发者头条】2022-07-24-SDN系统方法-|-4.-裸金属交换机](https://toutiao.io/k/n952n37) 
 - [【开发者头条】2022-07-24-2-万字详解，吃透-ES！](https://toutiao.io/k/01ufo5b) 
 - [【开发者头条】2022-07-24-推荐-团队一盘散沙，怎么破？](https://toutiao.io/k/kdzpdh5) 
-- [【开发者头条】2022-07-24-推荐-不知道这4种缓存模式，敢说懂缓存吗？](https://toutiao.io/k/nn8m95b) 
+- [【开发者头条】2022-07-24-推荐-花了一周，我总结了120个数据分析指标与术语。](https://toutiao.io/k/9pzybmk) 
 - [【开发者头条】2022-07-24-推荐-高并发，你真的理解透彻了吗？](https://toutiao.io/k/93k2zfb) 
 - [【开发者头条】2022-07-24-推荐-一线技术人应该关注的四种思维能力](https://toutiao.io/k/s2lbrzp) 
-- [【开发者头条】2022-07-24-推荐-花了一周，我总结了120个数据分析指标与术语。](https://toutiao.io/k/9pzybmk) 
+- [【开发者头条】2022-07-24-推荐-不知道这4种缓存模式，敢说懂缓存吗？](https://toutiao.io/k/nn8m95b) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

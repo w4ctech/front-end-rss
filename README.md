@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-07-25 22:13:36，:rocket: 更新条数: +2032， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-07-25 22:40:22，:rocket: 更新条数: +2033， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-07-25-关于在海外工作华人要不要交社保的问题，推荐看一下这-2-篇分析文章](https://www.v2ex.com/t/868679) ![](assets/new.png)  
 - [2022-07-25-为什么使用-https-调用-API-仍然推荐需要使用-key-来签名](https://www.v2ex.com/t/868678) ![](assets/new.png)  
 - [2022-07-25-Macbook-Pro-14-寸-用-type-c-连接外接显示器时的充电问题](https://www.v2ex.com/t/868677) ![](assets/new.png)  
 - [2022-07-25-如何确保移动硬盘的大量数据不会损坏？](https://www.v2ex.com/t/868676) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-07-25-ASL-Sender-Statistics-是啥意思？](https://www.v2ex.com/t/868659) ![](assets/new.png)  
 - [2022-07-25-Java-JVM-的-native-方法如何进行监控](https://www.v2ex.com/t/868658) ![](assets/new.png)  
 - [2022-07-25-非常有趣的现象群晖-DS1815+-接软路由外网不能访问，接普通路由器可以访问外网](https://www.v2ex.com/t/868657) ![](assets/new.png)  
-- [2022-07-25-用-Surface-Pro-8-的大佬可以分享下机器的品控和售后吗?](https://www.v2ex.com/t/868656) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -9953,6 +9953,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "有人用过 AppleCare for Enterprise 企业版吗",
+        "link": "https://www.v2ex.com/t/868672",
+        "date": "2022-07-25"
+      },
+      {
         "title": "Ubuntu 22.04 干掉了 aufs",
         "link": "https://www.v2ex.com/t/868671",
         "date": "2022-07-25"
@@ -10145,11 +10150,6 @@
       {
         "title": "有什么比较好的 Windows 重装辅助工具吗?",
         "link": "https://www.v2ex.com/t/868623",
-        "date": "2022-07-25"
-      },
-      {
-        "title": "make 下遇到的问题，求大佬告知",
-        "link": "https://www.v2ex.com/t/868622",
         "date": "2022-07-25"
       }
     ]
@@ -10367,13 +10367,13 @@
         "date": "2022-07-25"
       },
       {
-        "title": "[推荐] 团队一盘散沙，怎么破？",
-        "link": "https://toutiao.io/k/kdzpdh5",
+        "title": "[推荐] 聊聊Java中代码优化的30个小技巧",
+        "link": "https://toutiao.io/k/jv8g1r6",
         "date": "2022-07-25"
       },
       {
-        "title": "[推荐] 聊聊Java中代码优化的30个小技巧",
-        "link": "https://toutiao.io/k/jv8g1r6",
+        "title": "[推荐] 高并发，你真的理解透彻了吗？",
+        "link": "https://toutiao.io/k/93k2zfb",
         "date": "2022-07-25"
       },
       {
@@ -10382,13 +10382,13 @@
         "date": "2022-07-25"
       },
       {
-        "title": "[推荐] 花了一周，我总结了120个数据分析指标与术语。",
-        "link": "https://toutiao.io/k/9pzybmk",
+        "title": "[推荐] 团队一盘散沙，怎么破？",
+        "link": "https://toutiao.io/k/kdzpdh5",
         "date": "2022-07-25"
       },
       {
-        "title": "[推荐] 高并发，你真的理解透彻了吗？",
-        "link": "https://toutiao.io/k/93k2zfb",
+        "title": "[推荐] 花了一周，我总结了120个数据分析指标与术语。",
+        "link": "https://toutiao.io/k/9pzybmk",
         "date": "2022-07-25"
       }
     ]

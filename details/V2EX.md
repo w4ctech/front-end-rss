@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2022-07-25 18:49:02。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-25 19:12:05。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-07-25-写了一年多的前端，现在准备后端的校招还来得及么？](https://www.v2ex.com/t/868674) 
 - [2022-07-25-有人用过-AppleCare-for-Enterprise-企业版吗](https://www.v2ex.com/t/868672) 
 - [2022-07-25-Ubuntu-22.04-干掉了-aufs](https://www.v2ex.com/t/868671) 
 - [2022-07-25-AirPods-Pro-左耳一只耳朵老因为接触不良经常性充不进电，过保了，是不是就没办法不付费维修？](https://www.v2ex.com/t/868669) 

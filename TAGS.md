@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-07-25 14:42:32。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-25 15:14:58。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -355,7 +355,6 @@
 
 
 - [【V2EX】杭州/远程-Mest-招聘前端工程师（高级-/-初中级）](https://www.v2ex.com/t/868625)
-- [【V2EX】Booking.com-招聘啦没有-996、拒绝内卷是什么神仙公司？梦寐以求的外企，进了就是赚到！-各种技术职位，欢迎来撩~~](https://www.v2ex.com/t/868613)
 - [......【查看更多】......](./details/tags/job-interview.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

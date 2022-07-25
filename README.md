@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-07-25 14:00:34，:rocket: 更新条数: +2030， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-07-25 14:19:09，:rocket: 更新条数: +2030， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-07-25-Java-JVM-的-native-方法如何进行监控](https://www.v2ex.com/t/868658) ![](assets/new.png)  
 - [2022-07-25-非常有趣的现象群晖-DS1815+-接软路由外网不能访问，接普通路由器可以访问外网](https://www.v2ex.com/t/868657) ![](assets/new.png)  
 - [2022-07-25-用-Surface-Pro-8-的大佬可以分享下机器的品控和售后吗?](https://www.v2ex.com/t/868656) ![](assets/new.png)  
 - [2022-07-25-求购二手-iPad-，给孩子学习网课](https://www.v2ex.com/t/868655) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-07-25-这里有百度网盘的码农吗，能不能告诉我在哪里取消自动续费](https://www.v2ex.com/t/868636) ![](assets/new.png)  
 - [2022-07-25-租房选择离公司步行五分钟路程的公寓，还是-8-公里以内户型、空间更大的房子呢](https://www.v2ex.com/t/868635) ![](assets/new.png)  
 - [2022-07-25-请教一下-netty-的-native-transports-的使用场景](https://www.v2ex.com/t/868633) ![](assets/new.png)  
-- [2022-07-25-iCloud-上的视频在-macos-和-tvos-不能播放，但-iPhone-上可以](https://www.v2ex.com/t/868632) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

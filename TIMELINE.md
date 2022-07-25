@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-25 21:39:03。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-07-25 22:13:36。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -69,6 +69,9 @@
 
 
 - [【张鑫旭-鑫空间-鑫生活】2022-07-21-超酷！CSS-font-palette与彩色字体显示](https://www.zhangxinxu.com/wordpress/2022/07/css-font-palette/) 
+- [【V2EX】2022-07-25-为什么使用-https-调用-API-仍然推荐需要使用-key-来签名](https://www.v2ex.com/t/868678) 
+- [【V2EX】2022-07-25-Macbook-Pro-14-寸-用-type-c-连接外接显示器时的充电问题](https://www.v2ex.com/t/868677) 
+- [【V2EX】2022-07-25-如何确保移动硬盘的大量数据不会损坏？](https://www.v2ex.com/t/868676) 
 - [【V2EX】2022-07-25-usb-3-转-hdmi-需要什么前提吗](https://www.v2ex.com/t/868675) 
 - [【V2EX】2022-07-25-写了一年多的前端，现在准备后端的校招还来得及么？](https://www.v2ex.com/t/868674) 
 - [【V2EX】2022-07-25-有人用过-AppleCare-for-Enterprise-企业版吗](https://www.v2ex.com/t/868672) 
@@ -107,8 +110,6 @@
 - [【V2EX】2022-07-25-Windows-上有什么方便的-DNS-switcher](https://www.v2ex.com/t/868631) 
 - [【V2EX】2022-07-25-重启后，启动台内所有的-APP-图标被打乱了](https://www.v2ex.com/t/868630) 
 - [【V2EX】2022-07-25-大概十个月前删除了一个谷歌账号,-现在又想找回来,-申请找回失败,-还能摘回来吗](https://www.v2ex.com/t/868629) 
-- [【V2EX】2022-07-25-百度网盘续费拒绝赠送-QQ-音乐会员，是因为脑残的产品设计还是恶心的运营？](https://www.v2ex.com/t/868628) 
-- [【V2EX】2022-07-25-带大家见识下，我司的一个-10+年项目数据表字段设计](https://www.v2ex.com/t/868627) 
 - [【技术头条】2022-07-25-Webpack-打包后代码执行时机分析与优化-www.alloyteam.com](https://blogread.cn/news/go.php?idItem=15250&url=http%3A%2F%2Fwww.alloyteam.com%2F2019%2F07%2Fwait-external-webpack-plugin%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-25-Android-框架问题分析案例---谁杀了桌面?-androidperformance.com](https://blogread.cn/news/go.php?idItem=15249&url=https%3A%2F%2Fandroidperformance.com%2F2019%2F09%2F17%2FAndroid-Kill-Background-App-Debug%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-25-生产者消费者编程模式-www.ideawu.net](https://blogread.cn/news/go.php?idItem=15248&url=https%3A%2F%2Fwww.ideawu.net%2Fblog%2Farchives%2F1202.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -150,10 +151,10 @@
 - [【开发者头条】2022-07-25-数据成熟度的三阶段；业务抽象上的流批？](https://toutiao.io/k/kdn72dy) 
 - [【开发者头条】2022-07-25-Beyond-Istio-OSS——Istio服务网格的现状与未来](https://toutiao.io/k/9ry8qc4) 
 - [【开发者头条】2022-07-25-推荐-聊聊Java中代码优化的30个小技巧](https://toutiao.io/k/jv8g1r6) 
+- [【开发者头条】2022-07-25-推荐-高并发，你真的理解透彻了吗？](https://toutiao.io/k/93k2zfb) 
+- [【开发者头条】2022-07-25-推荐-一线技术人应该关注的四种思维能力](https://toutiao.io/k/s2lbrzp) 
 - [【开发者头条】2022-07-25-推荐-花了一周，我总结了120个数据分析指标与术语。](https://toutiao.io/k/9pzybmk) 
 - [【开发者头条】2022-07-25-推荐-团队一盘散沙，怎么破？](https://toutiao.io/k/kdzpdh5) 
-- [【开发者头条】2022-07-25-推荐-一线技术人应该关注的四种思维能力](https://toutiao.io/k/s2lbrzp) 
-- [【开发者头条】2022-07-25-推荐-高并发，你真的理解透彻了吗？](https://toutiao.io/k/93k2zfb) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

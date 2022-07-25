@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-25 22:40:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-25 23:03:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,7 +1911,7 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
-- [2022-07-25-关于在海外工作华人要不要交社保的问题，推荐看一下这-2-篇分析文章](https://www.v2ex.com/t/868679) 
+- [2022-07-25-刚入手了人生第一块静电容键盘，请教下先辈们使用-HHKB-的经验](https://www.v2ex.com/t/868681) 
 - [2022-07-25-Macbook-Pro-14-寸-用-type-c-连接外接显示器时的充电问题](https://www.v2ex.com/t/868677) 
 - [2022-07-25-如何确保移动硬盘的大量数据不会损坏？](https://www.v2ex.com/t/868676) 
 - [2022-07-25-usb-3-转-hdmi-需要什么前提吗](https://www.v2ex.com/t/868675) 
@@ -1946,8 +1946,6 @@
 - [2022-07-25-这里有百度网盘的码农吗，能不能告诉我在哪里取消自动续费](https://www.v2ex.com/t/868636) 
 - [2022-07-25-租房选择离公司步行五分钟路程的公寓，还是-8-公里以内户型、空间更大的房子呢](https://www.v2ex.com/t/868635) 
 - [2022-07-25-请教一下-netty-的-native-transports-的使用场景](https://www.v2ex.com/t/868633) 
-- [2022-07-25-Windows-上有什么方便的-DNS-switcher](https://www.v2ex.com/t/868631) 
-- [2022-07-25-重启后，启动台内所有的-APP-图标被打乱了](https://www.v2ex.com/t/868630) 
 - [2022-07-25-Android-框架问题分析案例---谁杀了桌面?-androidperformance.com](https://blogread.cn/news/go.php?idItem=15249&url=https%3A%2F%2Fandroidperformance.com%2F2019%2F09%2F17%2FAndroid-Kill-Background-App-Debug%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-25-生产者消费者编程模式-www.ideawu.net](https://blogread.cn/news/go.php?idItem=15248&url=https%3A%2F%2Fwww.ideawu.net%2Fblog%2Farchives%2F1202.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-25-想学习k8s但没有环境？使用minikube轻松搭建一个-colobu.com](https://blogread.cn/news/go.php?idItem=15247&url=https%3A%2F%2Fcolobu.com%2F2022%2F06%2F02%2Fsetup-a-k8s-cluster-with-minikube%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1974,8 +1972,8 @@
 - [2022-07-25-python-脏话处理、特殊词汇过滤！](https://toutiao.io/k/fnpaq6n) 
 - [2022-07-25-数据成熟度的三阶段；业务抽象上的流批？](https://toutiao.io/k/kdn72dy) 
 - [2022-07-25-Beyond-Istio-OSS——Istio服务网格的现状与未来](https://toutiao.io/k/9ry8qc4) 
-- [2022-07-25-推荐-团队一盘散沙，怎么破？](https://toutiao.io/k/kdzpdh5) 
-- [2022-07-25-推荐-一线技术人应该关注的四种思维能力](https://toutiao.io/k/s2lbrzp) 
 - [2022-07-25-推荐-高并发，你真的理解透彻了吗？](https://toutiao.io/k/93k2zfb) 
-- [2022-07-25-推荐-花了一周，我总结了120个数据分析指标与术语。](https://toutiao.io/k/9pzybmk) 
+- [2022-07-25-推荐-团队一盘散沙，怎么破？](https://toutiao.io/k/kdzpdh5) 
 - [2022-07-25-推荐-腾讯低代码平台正式开源！可拖拽、生成手机项目、PC-项目！接私活福利啊！](https://toutiao.io/k/8oqx21m) 
+- [2022-07-25-推荐-花了一周，我总结了120个数据分析指标与术语。](https://toutiao.io/k/9pzybmk) 
+- [2022-07-25-推荐-一线技术人应该关注的四种思维能力](https://toutiao.io/k/s2lbrzp) 

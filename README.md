@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-07-25 11:39:14，:rocket: 更新条数: +2031， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-07-25 12:29:05，:rocket: 更新条数: +2032， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,13 @@
 </summary>
 
 
+- [2022-07-25-pixel4a-5G-手机还挑数据线么。试了几个华为原装的都不能充电和数据。](https://www.v2ex.com/t/868644) ![](assets/new.png)  
+- [2022-07-25-百度账号小规模推送用户名修改功能](https://www.v2ex.com/t/868643) ![](assets/new.png)  
+- [2022-07-25-普通人如何查看自己电脑的网络质量?](https://www.v2ex.com/t/868642) ![](assets/new.png)  
+- [2022-07-25-排队遇到帮忙占位置插队的怎么办？](https://www.v2ex.com/t/868641) ![](assets/new.png)  
+- [2022-07-25-求职-go-初级远程岗位](https://www.v2ex.com/t/868640) ![](assets/new.png)  
+- [2022-07-25-深度学习中位置编码的本质是不是就是一层-nn.Parameter而已？](https://www.v2ex.com/t/868638) ![](assets/new.png)  
+- [2022-07-25-间接性健身，总是坚持不下去怎么办？](https://www.v2ex.com/t/868637) ![](assets/new.png)  
 - [2022-07-25-这里有百度网盘的码农吗，能不能告诉我在哪里取消自动续费](https://www.v2ex.com/t/868636) ![](assets/new.png)  
 - [2022-07-25-租房选择离公司步行五分钟路程的公寓，还是-8-公里以内户型、空间更大的房子呢](https://www.v2ex.com/t/868635) ![](assets/new.png)  
 - [2022-07-25-请教一下-netty-的-native-transports-的使用场景](https://www.v2ex.com/t/868633) ![](assets/new.png)  
@@ -504,13 +511,6 @@
 - [2022-07-25-有什么比较好的-Windows-重装辅助工具吗?](https://www.v2ex.com/t/868623) ![](assets/new.png)  
 - [2022-07-25-make-下遇到的问题，求大佬告知](https://www.v2ex.com/t/868622) ![](assets/new.png)  
 - [2022-07-25-如何正确编写-opengl-glsl-代码](https://www.v2ex.com/t/868621) ![](assets/new.png)  
-- [2022-07-25-Nova-Launcher-被收购了](https://www.v2ex.com/t/868619) ![](assets/new.png)  
-- [2022-07-25-感觉-hc-越来越少了，是不是可以考虑下外包，感觉如果流程标准，薪资还行的外包也可以考虑一下吗。。](https://www.v2ex.com/t/868617) ![](assets/new.png)  
-- [2022-07-25-双屏显示-Windows-系统开机主屏幕黑屏](https://www.v2ex.com/t/868616) ![](assets/new.png)  
-- [2022-07-25-家里装了铝合金的工控机软路由，发热量很高，有什么方法可以利用下余热，比如做成低温慢煮机？](https://www.v2ex.com/t/868615) ![](assets/new.png)  
-- [2022-07-25-成都空军佬交流群](https://www.v2ex.com/t/868614) ![](assets/new.png)  
-- [2022-07-25-Booking.com-招聘啦没有-996、拒绝内卷是什么神仙公司？梦寐以求的外企，进了就是赚到！-各种技术职位，欢迎来撩~~](https://www.v2ex.com/t/868613) ![](assets/new.png)  
-- [2022-07-25-买了个域名，请问有什么好的创业项目吗？](https://www.v2ex.com/t/868612) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -561,8 +561,8 @@
 - [2022-07-25-【萌新解题】子集](https://toutiao.io/k/9nk4bf2) ![](assets/new.png)  
 - [2022-07-25-直播实录-|-37-手游如何用-StarRocks-实现用户画像分析](https://toutiao.io/k/y838k3r) ![](assets/new.png)  
 - [2022-07-25-学-SQL-必须了解的-10-个高级概念！](https://toutiao.io/k/nq6w8w4) ![](assets/new.png)  
-- [2022-07-25-【视频】如何写高效内存Java代码——How-to-Write-Memory-Efficient-Java-Code](https://toutiao.io/k/gi4sphc) ![](assets/new.png)  
 - [2022-07-25-中美程序员不完全对比](https://toutiao.io/k/ghi630t) ![](assets/new.png)  
+- [2022-07-25-【视频】如何写高效内存Java代码——How-to-Write-Memory-Efficient-Java-Code](https://toutiao.io/k/gi4sphc) ![](assets/new.png)  
 - [2022-07-25-Nest.js-用了-Express-但也没完全用](https://toutiao.io/k/ra8rbcx) ![](assets/new.png)  
 - [2022-07-25-强化学习大牛Sergey-Levine新作：三个大模型教会机器人认路](https://toutiao.io/k/lmgqt2u) ![](assets/new.png)  
 - [2022-07-25-MyBatis-Plus联表查询的短板，终于有一款工具补齐了](https://toutiao.io/k/firjte2) ![](assets/new.png)  

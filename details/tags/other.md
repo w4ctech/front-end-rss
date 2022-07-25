@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-25 06:18:38。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-25 06:50:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,11 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-07-25-手机端-OAuth2-认证](https://www.v2ex.com/t/868548) 
+- [2022-07-25-软件开发者如何处理退款？](https://www.v2ex.com/t/868547) 
+- [2022-07-25-求推荐一款-windows-下的好用的文件管理工具](https://www.v2ex.com/t/868546) 
+- [2022-07-25-准备换手机，求推荐](https://www.v2ex.com/t/868545) 
+- [2022-07-25-iOS15.6-升级后通话记录消失及其解决方案](https://www.v2ex.com/t/868544) 
 - [2022-07-25-有奖活动-x-灵感排行榜：我，有一个大胆的想法！](https://www.v2ex.com/t/868541) 
 - [2022-07-25-独立产品灵感周刊-DecoHack-#023---工作和生活的平衡](https://www.v2ex.com/t/868540) 
 - [2022-07-25-topnotch-在-macbook-air-m2-上的使用效果如何？](https://www.v2ex.com/t/868539) 
@@ -1940,10 +1945,6 @@
 - [2022-07-25-国内有没有便宜的-vps-用作内网穿透?](https://www.v2ex.com/t/868505) 
 - [2022-07-25-V2EX-怎么不出一个按发帖时间/按留言时间浏览帖子的功能呢？现在默认都是按留言时间，是我自己没找到吗？](https://www.v2ex.com/t/868502) 
 - [2022-07-25-如何将保存在堆中的值写入寄存器](https://www.v2ex.com/t/868499) 
-- [2022-07-25-es-数据同步的一个问题](https://www.v2ex.com/t/868497) 
-- [2022-07-25-macOS-下迅雷真的很漂亮](https://www.v2ex.com/t/868494) 
-- [2022-07-25-兄弟们，-14-寸的屏幕有缝隙，这个算是正常吗？需要换货吗（ps-大家的都怎样，给点建议兄弟们）](https://www.v2ex.com/t/868493) 
-- [2022-07-25-咨询可付费-Amazon-sp-api-对接](https://www.v2ex.com/t/868492) 
 - [2022-07-25-Android-框架问题分析案例---谁杀了桌面?-androidperformance.com](https://blogread.cn/news/go.php?idItem=15249&url=https%3A%2F%2Fandroidperformance.com%2F2019%2F09%2F17%2FAndroid-Kill-Background-App-Debug%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-25-生产者消费者编程模式-www.ideawu.net](https://blogread.cn/news/go.php?idItem=15248&url=https%3A%2F%2Fwww.ideawu.net%2Fblog%2Farchives%2F1202.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-25-想学习k8s但没有环境？使用minikube轻松搭建一个-colobu.com](https://blogread.cn/news/go.php?idItem=15247&url=https%3A%2F%2Fcolobu.com%2F2022%2F06%2F02%2Fsetup-a-k8s-cluster-with-minikube%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1971,6 +1972,6 @@
 - [2022-07-25-python-脏话处理、特殊词汇过滤！](https://toutiao.io/k/fnpaq6n) 
 - [2022-07-25-Beyond-Istio-OSS——Istio服务网格的现状与未来](https://toutiao.io/k/9ry8qc4) 
 - [2022-07-25-推荐-一线技术人应该关注的四种思维能力](https://toutiao.io/k/s2lbrzp) 
-- [2022-07-25-推荐-花了一周，我总结了120个数据分析指标与术语。](https://toutiao.io/k/9pzybmk) 
 - [2022-07-25-推荐-高并发，你真的理解透彻了吗？](https://toutiao.io/k/93k2zfb) 
+- [2022-07-25-推荐-花了一周，我总结了120个数据分析指标与术语。](https://toutiao.io/k/9pzybmk) 
 - [2022-07-25-推荐-团队一盘散沙，怎么破？](https://toutiao.io/k/kdzpdh5) 

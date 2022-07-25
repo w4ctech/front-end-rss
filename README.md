@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-07-25 16:18:57，:rocket: 更新条数: +2031， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-07-25 16:59:43，:rocket: 更新条数: +2031， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-07-25-AirPods-Pro-左耳一只耳朵老因为接触不良经常性充不进电，过保了，是不是就没办法不付费维修？](https://www.v2ex.com/t/868669) ![](assets/new.png)  
 - [2022-07-25-Apple-music-的软件质量是真的拉垮](https://www.v2ex.com/t/868668) ![](assets/new.png)  
 - [2022-07-25-ELK-有轻量级的替代方案吗？](https://www.v2ex.com/t/868667) ![](assets/new.png)  
 - [2022-07-25-求推荐一款独立供电的多口充电器](https://www.v2ex.com/t/868666) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-07-25-求大神解答，这种-sql-应该怎么写？](https://www.v2ex.com/t/868651) ![](assets/new.png)  
 - [2022-07-25-AbstractMessageLite.toByteArray-这个方法造成三星-s22-卡顿](https://www.v2ex.com/t/868650) ![](assets/new.png)  
 - [2022-07-25-google-账号注销了，旧的-V2EX-里面的金币还有办法拿回来吗](https://www.v2ex.com/t/868645) ![](assets/new.png)  
-- [2022-07-25-pixel4a-5G-手机还挑数据线么。试了几个华为原装的都不能充电和数据。](https://www.v2ex.com/t/868644) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

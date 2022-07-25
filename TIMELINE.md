@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-25 20:39:51。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-07-25 21:13:25。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -149,11 +149,11 @@
 - [【开发者头条】2022-07-25-python-脏话处理、特殊词汇过滤！](https://toutiao.io/k/fnpaq6n) 
 - [【开发者头条】2022-07-25-数据成熟度的三阶段；业务抽象上的流批？](https://toutiao.io/k/kdn72dy) 
 - [【开发者头条】2022-07-25-Beyond-Istio-OSS——Istio服务网格的现状与未来](https://toutiao.io/k/9ry8qc4) 
-- [【开发者头条】2022-07-25-推荐-团队一盘散沙，怎么破？](https://toutiao.io/k/kdzpdh5) 
 - [【开发者头条】2022-07-25-推荐-高并发，你真的理解透彻了吗？](https://toutiao.io/k/93k2zfb) 
 - [【开发者头条】2022-07-25-推荐-花了一周，我总结了120个数据分析指标与术语。](https://toutiao.io/k/9pzybmk) 
-- [【开发者头条】2022-07-25-推荐-一线技术人应该关注的四种思维能力](https://toutiao.io/k/s2lbrzp) 
+- [【开发者头条】2022-07-25-推荐-团队一盘散沙，怎么破？](https://toutiao.io/k/kdzpdh5) 
 - [【开发者头条】2022-07-25-推荐-聊聊Java中代码优化的30个小技巧](https://toutiao.io/k/jv8g1r6) 
+- [【开发者头条】2022-07-25-推荐-一线技术人应该关注的四种思维能力](https://toutiao.io/k/s2lbrzp) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

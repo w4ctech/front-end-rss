@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2022-07-25 16:59:43。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-25 17:25:04。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-07-25-Ubuntu-22.04-干掉了-aufs](https://www.v2ex.com/t/868671) 
 - [2022-07-25-AirPods-Pro-左耳一只耳朵老因为接触不良经常性充不进电，过保了，是不是就没办法不付费维修？](https://www.v2ex.com/t/868669) 
 - [2022-07-25-Apple-music-的软件质量是真的拉垮](https://www.v2ex.com/t/868668) 
 - [2022-07-25-ELK-有轻量级的替代方案吗？](https://www.v2ex.com/t/868667) 
@@ -44,4 +45,3 @@
 - [2022-07-25-杭州/远程-Mest-招聘前端工程师（高级-/-初中级）](https://www.v2ex.com/t/868625) 
 - [2022-07-25-有什么比较好的-Windows-重装辅助工具吗?](https://www.v2ex.com/t/868623) 
 - [2022-07-25-make-下遇到的问题，求大佬告知](https://www.v2ex.com/t/868622) 
-- [2022-07-25-如何正确编写-opengl-glsl-代码](https://www.v2ex.com/t/868621) 

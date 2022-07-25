@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-07-25 15:45:09，:rocket: 更新条数: +2030， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-07-25 16:18:57，:rocket: 更新条数: +2031， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,10 @@
 </summary>
 
 
+- [2022-07-25-Apple-music-的软件质量是真的拉垮](https://www.v2ex.com/t/868668) ![](assets/new.png)  
+- [2022-07-25-ELK-有轻量级的替代方案吗？](https://www.v2ex.com/t/868667) ![](assets/new.png)  
+- [2022-07-25-求推荐一款独立供电的多口充电器](https://www.v2ex.com/t/868666) ![](assets/new.png)  
+- [2022-07-25-数组多次-filter,-多次-map-混合链式调用过程中,-有没有办法只在最后一次调用时生成一次数组呢?](https://www.v2ex.com/t/868665) ![](assets/new.png)  
 - [2022-07-25-14-寸-mbp-m1pro-的-C-面总是热热的](https://www.v2ex.com/t/868663) ![](assets/new.png)  
 - [2022-07-25-放弃了..不知道怎么删除~求删除](https://www.v2ex.com/t/868662) ![](assets/new.png)  
 - [2022-07-25-这波国际大厂全球缩招大概会持续多久？](https://www.v2ex.com/t/868661) ![](assets/new.png)  
@@ -507,10 +511,6 @@
 - [2022-07-25-AbstractMessageLite.toByteArray-这个方法造成三星-s22-卡顿](https://www.v2ex.com/t/868650) ![](assets/new.png)  
 - [2022-07-25-google-账号注销了，旧的-V2EX-里面的金币还有办法拿回来吗](https://www.v2ex.com/t/868645) ![](assets/new.png)  
 - [2022-07-25-pixel4a-5G-手机还挑数据线么。试了几个华为原装的都不能充电和数据。](https://www.v2ex.com/t/868644) ![](assets/new.png)  
-- [2022-07-25-百度账号小规模推送用户名修改功能](https://www.v2ex.com/t/868643) ![](assets/new.png)  
-- [2022-07-25-普通人如何查看自己电脑的网络质量?](https://www.v2ex.com/t/868642) ![](assets/new.png)  
-- [2022-07-25-排队遇到帮忙占位置插队的怎么办？](https://www.v2ex.com/t/868641) ![](assets/new.png)  
-- [2022-07-25-求职-go-初级远程岗位](https://www.v2ex.com/t/868640) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

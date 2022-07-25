@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-07-25 01:07:10，:rocket: 更新条数: +2015， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-07-25 03:30:09，:rocket: 更新条数: +2026， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,26 +491,26 @@
 </summary>
 
 
-- [2022-07-25-iptables-web-一个基于-web-ui-管理-iptables-的工具](https://www.v2ex.com/t/868445) ![](assets/new.png)  
-- [2022-07-25-Google-是怎么做软件工程的？文化对软件工程有何影响？](https://www.v2ex.com/t/868443) ![](assets/new.png)  
-- [2022-07-25-一个通过-Github-Discussion-驱动的-Blog-启动器](https://www.v2ex.com/t/868442) ![](assets/new.png)  
-- [2022-07-25-学习周刊-总第-63-期-一款开源的本地代码片段管理工具](https://www.v2ex.com/t/868441) ![](assets/new.png)  
-- [2022-07-24-如果只是自动签到，最佳性价比的方案是什么？](https://www.v2ex.com/t/868440) ![](assets/new.png)  
-- [2022-07-24-熬夜看-Tomorrowland-2022-l-LIVE](https://www.v2ex.com/t/868437) ![](assets/new.png)  
-- [2022-07-24-关于-Golang-多平台打包发布这件事..](https://www.v2ex.com/t/868435) ![](assets/new.png)  
-- [2022-07-24-2022-押宝-c#还是-Java](https://www.v2ex.com/t/868434) ![](assets/new.png)  
-- [2022-07-24-有没有人可能搞个-newsletter-的推荐站](https://www.v2ex.com/t/868433) ![](assets/new.png)  
-- [2022-07-24-adsense-账号注册的时候选错了国家，导致后来开始盈利并超过了最低限额，这个时候无法修改国家，更无法删除关闭账号，这种情况咋整？](https://www.v2ex.com/t/868432) ![](assets/new.png)  
-- [2022-07-24-关于-m1-macbook-air-修改密码](https://www.v2ex.com/t/868431) ![](assets/new.png)  
-- [2022-07-24-优雅地调整网络优先级？](https://www.v2ex.com/t/868427) ![](assets/new.png)  
-- [2022-07-24-黑群晖-DSM7.1-安装、半洗白到-HTTPS-证书](https://www.v2ex.com/t/868425) ![](assets/new.png)  
-- [2022-07-24-对-macOS-/-Windows-HiDPI-高分屏处理有感](https://www.v2ex.com/t/868424) ![](assets/new.png)  
-- [2022-07-24-今天买了电动自行车，感叹手机都-200w-快充了，电动车还没有实用的快充技术落地吗？](https://www.v2ex.com/t/868423) ![](assets/new.png)  
-- [2022-07-24-关于-iPhone-双卡使用的问题](https://www.v2ex.com/t/868422) ![](assets/new.png)  
-- [2022-07-24-google-翻译经过逍遥模拟器还原后无法离线使用](https://www.v2ex.com/t/868420) ![](assets/new.png)  
-- [2022-07-24-2022-年了,-还在用-yarn-吗?](https://www.v2ex.com/t/868418) ![](assets/new.png)  
-- [2022-07-24-问下大佬们关于域名的配置问题](https://www.v2ex.com/t/868417) ![](assets/new.png)  
-- [2022-07-24-在哪能买到拖拉机-拱猪这样的单机版游戏](https://www.v2ex.com/t/868416) ![](assets/new.png)  
+- [2022-07-25-macOS-下迅雷真的很漂亮](https://www.v2ex.com/t/868494) ![](assets/new.png)  
+- [2022-07-25-兄弟们，-14-寸的屏幕有缝隙，这个算是正常吗？需要换货吗（ps-大家的都怎样，给点建议兄弟们）](https://www.v2ex.com/t/868493) ![](assets/new.png)  
+- [2022-07-25-咨询可付费-Amazon-sp-api-对接](https://www.v2ex.com/t/868492) ![](assets/new.png)  
+- [2022-07-25-现在-各司的-邮件服务器-是怎么弄的？](https://www.v2ex.com/t/868491) ![](assets/new.png)  
+- [2022-07-25-ssh_exchange_identification:-read:-Connection-reset-by-peer](https://www.v2ex.com/t/868490) ![](assets/new.png)  
+- [2022-07-25-请教大佬们，因为-Google-Pay-改到土耳其买域名，现在收到了-Google-需要提交身份信息的邮件。](https://www.v2ex.com/t/868489) ![](assets/new.png)  
+- [2022-07-25-7-年运维经验，目前任职运维经理，找一份远程兼职工作](https://www.v2ex.com/t/868488) ![](assets/new.png)  
+- [2022-07-25-腾讯云轻量服务器的坑](https://www.v2ex.com/t/868487) ![](assets/new.png)  
+- [2022-07-25-「杭州」抖音电商-前端团队，最后一波上车机会](https://www.v2ex.com/t/868485) ![](assets/new.png)  
+- [2022-07-25-tailwindcss-怎么覆盖样式](https://www.v2ex.com/t/868484) ![](assets/new.png)  
+- [2022-07-25-有什么便宜的打印机？](https://www.v2ex.com/t/868483) ![](assets/new.png)  
+- [2022-07-25-ES-分词搜索问题，中文+数字](https://www.v2ex.com/t/868482) ![](assets/new.png)  
+- [2022-07-25-字节广州研发都有哪些部门](https://www.v2ex.com/t/868481) ![](assets/new.png)  
+- [2022-07-25-2022-年了,MacBook-都没有-Touch-Bar-了,居然还有人往键盘加屏幕的](https://www.v2ex.com/t/868480) ![](assets/new.png)  
+- [2022-07-25-预算-6K，轻薄本，要-windows，老婆用，求推荐。](https://www.v2ex.com/t/868479) ![](assets/new.png)  
+- [2022-07-25-用了一年三个月的机械革命-code01-电池鼓包了，小品牌的硬伤](https://www.v2ex.com/t/868478) ![](assets/new.png)  
+- [2022-07-25-黑裙-webdav-同步问题,只要我关了网页就会暂停同步,这个怎么解决啊](https://www.v2ex.com/t/868477) ![](assets/new.png)  
+- [2022-07-25-8-月-4-日七夕。你希望女朋友送你什么礼物呢？](https://www.v2ex.com/t/868475) ![](assets/new.png)  
+- [2022-07-25-咨询下当前行情下基金如何选择](https://www.v2ex.com/t/868473) ![](assets/new.png)  
+- [2022-07-25-分享一下-10KM-跑步经验](https://www.v2ex.com/t/868472) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -555,18 +555,24 @@
 
 - [2022-07-25-在原生终端实现类似-rz、sz-上传下载文件与目录的功能](https://toutiao.io/k/728cgxk) ![](assets/new.png)  
 - [2022-07-25-记一次自定义-Redis-分布式锁导致的故障](https://toutiao.io/k/j5advvd) ![](assets/new.png)  
-- [2022-07-25-【视频】如何写高效内存Java代码——How-to-Write-Memory-Efficient-Java-Code](https://toutiao.io/k/gi4sphc) ![](assets/new.png)  
-- [2022-07-25-Java-8-的异步利器：CompletableFuture源码级解析（建议精读）](https://toutiao.io/k/9vn9jan) ![](assets/new.png)  
 - [2022-07-25-2w字详解数据湖：概念、特征、架构与案例](https://toutiao.io/k/l24ybp9) ![](assets/new.png)  
-- [2022-07-25-Nest.js-用了-Express-但也没完全用](https://toutiao.io/k/ra8rbcx) ![](assets/new.png)  
-- [2022-07-25-强化学习大牛Sergey-Levine新作：三个大模型教会机器人认路](https://toutiao.io/k/lmgqt2u) ![](assets/new.png)  
-- [2022-07-25-直播实录-|-37-手游如何用-StarRocks-实现用户画像分析](https://toutiao.io/k/y838k3r) ![](assets/new.png)  
 - [2022-07-25-商汤割韭菜的背后；日志中台不重不丢实现浅谈；前端趋势-2022｜码农周刊VIP会员专属邮件周报-Vol.100](https://toutiao.io/k/nrp82cq) ![](assets/new.png)  
-- [2022-07-25-推荐-一线技术人应该关注的四种思维能力](https://toutiao.io/k/s2lbrzp) ![](assets/new.png)  
+- [2022-07-25-Java-8-的异步利器：CompletableFuture源码级解析（建议精读）](https://toutiao.io/k/9vn9jan) ![](assets/new.png)  
+- [2022-07-25-【视频】如何写高效内存Java代码——How-to-Write-Memory-Efficient-Java-Code](https://toutiao.io/k/gi4sphc) ![](assets/new.png)  
+- [2022-07-25-强化学习大牛Sergey-Levine新作：三个大模型教会机器人认路](https://toutiao.io/k/lmgqt2u) ![](assets/new.png)  
+- [2022-07-25-Nest.js-用了-Express-但也没完全用](https://toutiao.io/k/ra8rbcx) ![](assets/new.png)  
+- [2022-07-25-直播实录-|-37-手游如何用-StarRocks-实现用户画像分析](https://toutiao.io/k/y838k3r) ![](assets/new.png)  
+- [2022-07-25-【萌新解题】子集](https://toutiao.io/k/9nk4bf2) ![](assets/new.png)  
+- [2022-07-25-一文理解分布式开发中的服务治理](https://toutiao.io/k/z57jtnw) ![](assets/new.png)  
+- [2022-07-25-学-SQL-必须了解的-10-个高级概念！](https://toutiao.io/k/nq6w8w4) ![](assets/new.png)  
+- [2022-07-25-IM系统-消息流化一些常见问题](https://toutiao.io/k/p7rbp8w) ![](assets/new.png)  
+- [2022-07-25-这群WebAssembly大佬创业失败了：有时从-JS-迁移到-Wasm-并不值当？](https://toutiao.io/k/y45wi5f) ![](assets/new.png)  
+- [2022-07-25-Go-垃圾回收器指南](https://toutiao.io/k/n8ush3j) ![](assets/new.png)  
 - [2022-07-25-推荐-花了一周，我总结了120个数据分析指标与术语。](https://toutiao.io/k/9pzybmk) ![](assets/new.png)  
-- [2022-07-25-推荐-聊聊Java中代码优化的30个小技巧](https://toutiao.io/k/jv8g1r6) ![](assets/new.png)  
 - [2022-07-25-推荐-高并发，你真的理解透彻了吗？](https://toutiao.io/k/93k2zfb) ![](assets/new.png)  
+- [2022-07-25-推荐-一线技术人应该关注的四种思维能力](https://toutiao.io/k/s2lbrzp) ![](assets/new.png)  
 - [2022-07-25-推荐-团队一盘散沙，怎么破？](https://toutiao.io/k/kdzpdh5) ![](assets/new.png)  
+- [2022-07-25-推荐-聊聊Java中代码优化的30个小技巧](https://toutiao.io/k/jv8g1r6) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

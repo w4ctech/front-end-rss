@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-25 15:14:58。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-25 15:45:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1946,7 +1946,6 @@
 - [2022-07-25-Nova-Launcher-被收购了](https://www.v2ex.com/t/868619) 
 - [2022-07-25-感觉-hc-越来越少了，是不是可以考虑下外包，感觉如果流程标准，薪资还行的外包也可以考虑一下吗。。](https://www.v2ex.com/t/868617) 
 - [2022-07-25-双屏显示-Windows-系统开机主屏幕黑屏](https://www.v2ex.com/t/868616) 
-- [2022-07-25-成都空军佬交流群](https://www.v2ex.com/t/868614) 
 - [2022-07-25-Android-框架问题分析案例---谁杀了桌面?-androidperformance.com](https://blogread.cn/news/go.php?idItem=15249&url=https%3A%2F%2Fandroidperformance.com%2F2019%2F09%2F17%2FAndroid-Kill-Background-App-Debug%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-25-生产者消费者编程模式-www.ideawu.net](https://blogread.cn/news/go.php?idItem=15248&url=https%3A%2F%2Fwww.ideawu.net%2Fblog%2Farchives%2F1202.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-25-想学习k8s但没有环境？使用minikube轻松搭建一个-colobu.com](https://blogread.cn/news/go.php?idItem=15247&url=https%3A%2F%2Fcolobu.com%2F2022%2F06%2F02%2Fsetup-a-k8s-cluster-with-minikube%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1973,7 +1972,7 @@
 - [2022-07-25-python-脏话处理、特殊词汇过滤！](https://toutiao.io/k/fnpaq6n) 
 - [2022-07-25-数据成熟度的三阶段；业务抽象上的流批？](https://toutiao.io/k/kdn72dy) 
 - [2022-07-25-Beyond-Istio-OSS——Istio服务网格的现状与未来](https://toutiao.io/k/9ry8qc4) 
-- [2022-07-25-推荐-花了一周，我总结了120个数据分析指标与术语。](https://toutiao.io/k/9pzybmk) 
 - [2022-07-25-推荐-团队一盘散沙，怎么破？](https://toutiao.io/k/kdzpdh5) 
+- [2022-07-25-推荐-花了一周，我总结了120个数据分析指标与术语。](https://toutiao.io/k/9pzybmk) 
 - [2022-07-25-推荐-一线技术人应该关注的四种思维能力](https://toutiao.io/k/s2lbrzp) 
 - [2022-07-25-推荐-高并发，你真的理解透彻了吗？](https://toutiao.io/k/93k2zfb) 

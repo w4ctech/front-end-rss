@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-07-26 13:14:19，:rocket: 更新条数: +2029， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-07-26 13:57:34，:rocket: 更新条数: +2029， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,14 @@
 </summary>
 
 
+- [2022-07-26-Internet-Archive-怎么批量保存网页？](https://www.v2ex.com/t/868896) ![](assets/new.png)  
+- [2022-07-26-Studio-Display-VESA-底座选择](https://www.v2ex.com/t/868894) ![](assets/new.png)  
+- [2022-07-26-大家怎么看《回村三天，二舅治好了我的精神内耗》这个视频？](https://www.v2ex.com/t/868893) ![](assets/new.png)  
+- [2022-07-26-语雀-迁移-notion，请问大家有什么好办法吗？](https://www.v2ex.com/t/868892) ![](assets/new.png)  
+- [2022-07-26-网易云的随机播放是怎么随机的啊](https://www.v2ex.com/t/868891) ![](assets/new.png)  
+- [2022-07-26-提升学历/-考研双证-保过班火热招生中~~](https://www.v2ex.com/t/868890) ![](assets/new.png)  
+- [2022-07-26-请问-lua+nginx-怎么实现并行？](https://www.v2ex.com/t/868889) ![](assets/new.png)  
+- [2022-07-26-贵人不可贱用](https://www.v2ex.com/t/868888) ![](assets/new.png)  
 - [2022-07-26-说说最近看的一些硬件产品](https://www.v2ex.com/t/868887) ![](assets/new.png)  
 - [2022-07-26-mac-qq-群聊能屏蔽图片吗](https://www.v2ex.com/t/868886) ![](assets/new.png)  
 - [2022-07-26-如何在自己的服务器上搭建图床](https://www.v2ex.com/t/868885) ![](assets/new.png)  
@@ -503,14 +511,6 @@
 - [2022-07-26-leetcode-的-Python-运行速度困惑](https://www.v2ex.com/t/868875) ![](assets/new.png)  
 - [2022-07-26-为什么-windows-的滚动条那么丑也不知道优化的~](https://www.v2ex.com/t/868874) ![](assets/new.png)  
 - [2022-07-26-Win7、Win10-小白第一次尝试用-zerotier-实现内网穿透](https://www.v2ex.com/t/868873) ![](assets/new.png)  
-- [2022-07-26-有没有办法设置-win10-物理机启动不需要密码,远程登录才需要密码](https://www.v2ex.com/t/868872) ![](assets/new.png)  
-- [2022-07-26-如何低成本制作一个米家中控屏幕呀？贴在墙上的那种](https://www.v2ex.com/t/868871) ![](assets/new.png)  
-- [2022-07-26-一个纠结的跳槽问题](https://www.v2ex.com/t/868870) ![](assets/new.png)  
-- [2022-07-26-滴滴疑似破产清算](https://www.v2ex.com/t/868869) ![](assets/new.png)  
-- [2022-07-26-杭州求初级前端工作或实习测试运维](https://www.v2ex.com/t/868867) ![](assets/new.png)  
-- [2022-07-26-关于对容器开发的理解](https://www.v2ex.com/t/868866) ![](assets/new.png)  
-- [2022-07-26-对于私有部署的-GitLab-服务，大家的工作流中是如何提交合并请求的？](https://www.v2ex.com/t/868864) ![](assets/new.png)  
-- [2022-07-26-M1-MacBook-程序窗口和菜单栏无法贴合，有一条缝隙，有人知道如何解决吗？](https://www.v2ex.com/t/868862) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -571,7 +571,7 @@
 - [2022-07-26-Go1.19-那些事：国产芯片、内存模型等新特性，你知道多少？](https://toutiao.io/k/setmkaa) ![](assets/new.png)  
 - [2022-07-26-Apache-APISIX-在谷歌云-ARM-和-x86-服务器上的性能测试对比](https://toutiao.io/k/x0lizex) ![](assets/new.png)  
 - [2022-07-26-对一个手游修改器锁机APP的分析](https://toutiao.io/k/3ofup8w) ![](assets/new.png)  
-- [2022-07-26-推荐-一线技术人应该关注的四种思维能力](https://toutiao.io/k/s2lbrzp) ![](assets/new.png)  
+- [2022-07-26-推荐-团队一盘散沙，怎么破？](https://toutiao.io/k/kdzpdh5) ![](assets/new.png)  
 - [2022-07-26-推荐-聊聊Java中代码优化的30个小技巧](https://toutiao.io/k/jv8g1r6) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

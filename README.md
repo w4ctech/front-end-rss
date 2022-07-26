@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-07-25 23:42:05，:rocket: 更新条数: +2032， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-07-26 01:10:25，:rocket: 更新条数: +2023， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,16 @@
 </summary>
 
 
+- [2022-07-26-想买一个腕力球](https://www.v2ex.com/t/868691) ![](assets/new.png)  
+- [2022-07-26-jetbrains-2022.2-新-ui-怎么开](https://www.v2ex.com/t/868690) ![](assets/new.png)  
+- [2022-07-26-请教-Ubuntu-系统做代理服务器遇到的问题](https://www.v2ex.com/t/868689) ![](assets/new.png)  
+- [2022-07-26-iPad-air5-36-小时-100%-92%，这个正常吗？](https://www.v2ex.com/t/868688) ![](assets/new.png)  
+- [2022-07-26-请教下最快移系统盘的方法是啥,](https://www.v2ex.com/t/868687) ![](assets/new.png)  
+- [2022-07-26-日常吐槽，微信现在必须绑定手机号或实名了](https://www.v2ex.com/t/868686) ![](assets/new.png)  
+- [2022-07-26-MacBook-Air-m1-连接外接-1080p-显示器，缩放第三方软件卡顿](https://www.v2ex.com/t/868685) ![](assets/new.png)  
+- [2022-07-26-个人开源项目推广平台汇总整理](https://www.v2ex.com/t/868684) ![](assets/new.png)  
+- [2022-07-26-Java-项目如何做代码风格的统一管理](https://www.v2ex.com/t/868683) ![](assets/new.png)  
+- [2022-07-25-有啥反向代理的方案可以反代-study.163.com-吗？](https://www.v2ex.com/t/868682) ![](assets/new.png)  
 - [2022-07-25-刚入手了人生第一块静电容键盘，请教下先辈们使用-HHKB-的经验](https://www.v2ex.com/t/868681) ![](assets/new.png)  
 - [2022-07-25-远程招聘实习初级前端和实习初级-PHP-软件工程师](https://www.v2ex.com/t/868680) ![](assets/new.png)  
 - [2022-07-25-为什么使用-https-调用-API-仍然推荐需要使用-key-来签名](https://www.v2ex.com/t/868678) ![](assets/new.png)  
@@ -501,16 +511,6 @@
 - [2022-07-25-有人用过-AppleCare-for-Enterprise-企业版吗](https://www.v2ex.com/t/868672) ![](assets/new.png)  
 - [2022-07-25-Ubuntu-22.04-干掉了-aufs](https://www.v2ex.com/t/868671) ![](assets/new.png)  
 - [2022-07-25-AirPods-Pro-左耳一只耳朵老因为接触不良经常性充不进电，过保了，是不是就没办法不付费维修？](https://www.v2ex.com/t/868669) ![](assets/new.png)  
-- [2022-07-25-Apple-music-的软件质量是真的拉垮](https://www.v2ex.com/t/868668) ![](assets/new.png)  
-- [2022-07-25-ELK-有轻量级的替代方案吗？](https://www.v2ex.com/t/868667) ![](assets/new.png)  
-- [2022-07-25-求推荐一款独立供电的多口充电器](https://www.v2ex.com/t/868666) ![](assets/new.png)  
-- [2022-07-25-数组多次-filter,-多次-map-混合链式调用过程中,-有没有办法只在最后一次调用时生成一次数组呢?](https://www.v2ex.com/t/868665) ![](assets/new.png)  
-- [2022-07-25-14-寸-mbp-m1pro-的-C-面总是热热的](https://www.v2ex.com/t/868663) ![](assets/new.png)  
-- [2022-07-25-放弃了..不知道怎么删除~求删除](https://www.v2ex.com/t/868662) ![](assets/new.png)  
-- [2022-07-25-这波国际大厂全球缩招大概会持续多久？](https://www.v2ex.com/t/868661) ![](assets/new.png)  
-- [2022-07-25-应届生，入职两周，每天都很煎熬，润还是不润](https://www.v2ex.com/t/868660) ![](assets/new.png)  
-- [2022-07-25-ASL-Sender-Statistics-是啥意思？](https://www.v2ex.com/t/868659) ![](assets/new.png)  
-- [2022-07-25-Java-JVM-的-native-方法如何进行监控](https://www.v2ex.com/t/868658) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -522,26 +522,26 @@
 </summary>
 
 
-- [2022-07-25-Webpack-打包后代码执行时机分析与优化-www.alloyteam.com](https://blogread.cn/news/go.php?idItem=15250&url=http%3A%2F%2Fwww.alloyteam.com%2F2019%2F07%2Fwait-external-webpack-plugin%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-07-25-Android-框架问题分析案例---谁杀了桌面?-androidperformance.com](https://blogread.cn/news/go.php?idItem=15249&url=https%3A%2F%2Fandroidperformance.com%2F2019%2F09%2F17%2FAndroid-Kill-Background-App-Debug%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-07-25-生产者消费者编程模式-www.ideawu.net](https://blogread.cn/news/go.php?idItem=15248&url=https%3A%2F%2Fwww.ideawu.net%2Fblog%2Farchives%2F1202.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-07-25-想学习k8s但没有环境？使用minikube轻松搭建一个-colobu.com](https://blogread.cn/news/go.php?idItem=15247&url=https%3A%2F%2Fcolobu.com%2F2022%2F06%2F02%2Fsetup-a-k8s-cluster-with-minikube%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-07-25-最常用的架构模式-colobu.com](https://blogread.cn/news/go.php?idItem=15246&url=https%3A%2F%2Fcolobu.com%2F2022%2F03%2F06%2Fmost-useful-software-architecture-patterns%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-07-25-Android对so体积优化的探索与实践-tech.meituan.com](https://blogread.cn/news/go.php?idItem=15245&url=https%3A%2F%2Ftech.meituan.com%2F2022%2F06%2F02%2Fmeituans-technical-exploration-and-practice-of-android-so-volume-optimization.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-07-25-Go:-logrus性能提升-wklken.me](https://blogread.cn/news/go.php?idItem=15244&url=https%3A%2F%2Fwklken.me%2Fposts%2F2021%2F02%2F09%2Fgolang-high-performance-logrus.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-07-25-Csp-Nonce-–-守护你的-inline-Scirpt-www.alloyteam.com](https://blogread.cn/news/go.php?idItem=15243&url=http%3A%2F%2Fwww.alloyteam.com%2F2020%2F08%2Fcsp-nonce%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-07-25-不使用file类型input也能触发文件上传-www.zhangxinxu.com](https://blogread.cn/news/go.php?idItem=15242&url=https%3A%2F%2Fwww.zhangxinxu.com%2Fwordpress%2F2021%2F08%2Ffile-system-access-api%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-07-25-polyfill、ponyfill、prollyfill傻傻分不清楚-www.zhangxinxu.com](https://blogread.cn/news/go.php?idItem=15241&url=https%3A%2F%2Fwww.zhangxinxu.com%2Fwordpress%2F2021%2F08%2Fpolyfill-ponyfill-prollyfill%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-07-25-Python的list列表详解-www.ipcpu.com](https://blogread.cn/news/go.php?idItem=15240&url=https%3A%2F%2Fwww.ipcpu.com%2F2021%2F07%2Fpython%25e7%259a%2584list%25e5%2588%2597%25e8%25a1%25a8%25e8%25af%25a6%25e8%25a7%25a3%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-07-25-把-DropBox-当作私有化-Git-仓库-blog.devtang.com](https://blogread.cn/news/go.php?idItem=15239&url=https%3A%2F%2Fblog.devtang.com%2F2021%2F10%2F16%2Fusing-dropbox-as-git-remote-rep%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-07-25-用SVG实现一个优雅的提示框-fed.taobao.org](https://blogread.cn/news/go.php?idItem=15238&url=https%3A%2F%2Ffed.taobao.org%2Fblog%2Ftaofed%2Fdo71ct%2Fghpnlx%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-07-25-使用容器方式编译无功能限制的-Drone-CI-soulteary.com](https://blogread.cn/news/go.php?idItem=15237&url=https%3A%2F%2Fsoulteary.com%2F2021%2F04%2F17%2Fuse-docker-to-build-drone-ci-without-functional-limitations.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-07-25-提升-Docker-Desktop-For-macOS-磁盘使用率-soulteary.com](https://blogread.cn/news/go.php?idItem=15236&url=https%3A%2F%2Fsoulteary.com%2F2021%2F04%2F24%2Fimprove-docker-desktop-for-macos-disk-usage.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-07-25-介绍一种CSS变量未定义语法也OK的小妙招-www.zhangxinxu.com](https://blogread.cn/news/go.php?idItem=15235&url=https%3A%2F%2Fwww.zhangxinxu.com%2Fwordpress%2F2022%2F06%2Fcss-var-optional-empty-trick%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-07-25-用树莓派打造一个超薄魔镜的简单教程-onevcat.com](https://blogread.cn/news/go.php?idItem=15234&url=https%3A%2F%2Fonevcat.com%2F2021%2F04%2Fmagicmirror%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-07-25-编译的速度与激情：从-10mins-到-1s-www.alloyteam.com](https://blogread.cn/news/go.php?idItem=15233&url=http%3A%2F%2Fwww.alloyteam.com%2F2020%2F12%2F14882%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-07-25-数据库全量SQL分析与审计系统性能优化之旅-tech.meituan.com](https://blogread.cn/news/go.php?idItem=15232&url=https%3A%2F%2Ftech.meituan.com%2F2022%2F06%2F09%2Fthe-route-of-database-get-audit-sql-optimize.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-07-25-小tips:-JS字体加载失败或完毕的检测-www.zhangxinxu.com](https://blogread.cn/news/go.php?idItem=15231&url=https%3A%2F%2Fwww.zhangxinxu.com%2Fwordpress%2F2022%2F04%2Fjs-font-face-load%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2022-07-26-Webpack-打包后代码执行时机分析与优化-www.alloyteam.com](https://blogread.cn/news/go.php?idItem=15250&url=http%3A%2F%2Fwww.alloyteam.com%2F2019%2F07%2Fwait-external-webpack-plugin%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2022-07-26-Android-框架问题分析案例---谁杀了桌面?-androidperformance.com](https://blogread.cn/news/go.php?idItem=15249&url=https%3A%2F%2Fandroidperformance.com%2F2019%2F09%2F17%2FAndroid-Kill-Background-App-Debug%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2022-07-26-生产者消费者编程模式-www.ideawu.net](https://blogread.cn/news/go.php?idItem=15248&url=https%3A%2F%2Fwww.ideawu.net%2Fblog%2Farchives%2F1202.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2022-07-26-想学习k8s但没有环境？使用minikube轻松搭建一个-colobu.com](https://blogread.cn/news/go.php?idItem=15247&url=https%3A%2F%2Fcolobu.com%2F2022%2F06%2F02%2Fsetup-a-k8s-cluster-with-minikube%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2022-07-26-最常用的架构模式-colobu.com](https://blogread.cn/news/go.php?idItem=15246&url=https%3A%2F%2Fcolobu.com%2F2022%2F03%2F06%2Fmost-useful-software-architecture-patterns%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2022-07-26-Android对so体积优化的探索与实践-tech.meituan.com](https://blogread.cn/news/go.php?idItem=15245&url=https%3A%2F%2Ftech.meituan.com%2F2022%2F06%2F02%2Fmeituans-technical-exploration-and-practice-of-android-so-volume-optimization.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2022-07-26-Go:-logrus性能提升-wklken.me](https://blogread.cn/news/go.php?idItem=15244&url=https%3A%2F%2Fwklken.me%2Fposts%2F2021%2F02%2F09%2Fgolang-high-performance-logrus.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2022-07-26-Csp-Nonce-–-守护你的-inline-Scirpt-www.alloyteam.com](https://blogread.cn/news/go.php?idItem=15243&url=http%3A%2F%2Fwww.alloyteam.com%2F2020%2F08%2Fcsp-nonce%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2022-07-26-不使用file类型input也能触发文件上传-www.zhangxinxu.com](https://blogread.cn/news/go.php?idItem=15242&url=https%3A%2F%2Fwww.zhangxinxu.com%2Fwordpress%2F2021%2F08%2Ffile-system-access-api%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2022-07-26-polyfill、ponyfill、prollyfill傻傻分不清楚-www.zhangxinxu.com](https://blogread.cn/news/go.php?idItem=15241&url=https%3A%2F%2Fwww.zhangxinxu.com%2Fwordpress%2F2021%2F08%2Fpolyfill-ponyfill-prollyfill%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2022-07-26-Python的list列表详解-www.ipcpu.com](https://blogread.cn/news/go.php?idItem=15240&url=https%3A%2F%2Fwww.ipcpu.com%2F2021%2F07%2Fpython%25e7%259a%2584list%25e5%2588%2597%25e8%25a1%25a8%25e8%25af%25a6%25e8%25a7%25a3%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2022-07-26-把-DropBox-当作私有化-Git-仓库-blog.devtang.com](https://blogread.cn/news/go.php?idItem=15239&url=https%3A%2F%2Fblog.devtang.com%2F2021%2F10%2F16%2Fusing-dropbox-as-git-remote-rep%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2022-07-26-用SVG实现一个优雅的提示框-fed.taobao.org](https://blogread.cn/news/go.php?idItem=15238&url=https%3A%2F%2Ffed.taobao.org%2Fblog%2Ftaofed%2Fdo71ct%2Fghpnlx%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2022-07-26-使用容器方式编译无功能限制的-Drone-CI-soulteary.com](https://blogread.cn/news/go.php?idItem=15237&url=https%3A%2F%2Fsoulteary.com%2F2021%2F04%2F17%2Fuse-docker-to-build-drone-ci-without-functional-limitations.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2022-07-26-提升-Docker-Desktop-For-macOS-磁盘使用率-soulteary.com](https://blogread.cn/news/go.php?idItem=15236&url=https%3A%2F%2Fsoulteary.com%2F2021%2F04%2F24%2Fimprove-docker-desktop-for-macos-disk-usage.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2022-07-26-介绍一种CSS变量未定义语法也OK的小妙招-www.zhangxinxu.com](https://blogread.cn/news/go.php?idItem=15235&url=https%3A%2F%2Fwww.zhangxinxu.com%2Fwordpress%2F2022%2F06%2Fcss-var-optional-empty-trick%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2022-07-26-用树莓派打造一个超薄魔镜的简单教程-onevcat.com](https://blogread.cn/news/go.php?idItem=15234&url=https%3A%2F%2Fonevcat.com%2F2021%2F04%2Fmagicmirror%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2022-07-26-编译的速度与激情：从-10mins-到-1s-www.alloyteam.com](https://blogread.cn/news/go.php?idItem=15233&url=http%3A%2F%2Fwww.alloyteam.com%2F2020%2F12%2F14882%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2022-07-26-数据库全量SQL分析与审计系统性能优化之旅-tech.meituan.com](https://blogread.cn/news/go.php?idItem=15232&url=https%3A%2F%2Ftech.meituan.com%2F2022%2F06%2F09%2Fthe-route-of-database-get-audit-sql-optimize.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2022-07-26-小tips:-JS字体加载失败或完毕的检测-www.zhangxinxu.com](https://blogread.cn/news/go.php?idItem=15231&url=https%3A%2F%2Fwww.zhangxinxu.com%2Fwordpress%2F2022%2F04%2Fjs-font-face-load%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -553,26 +553,22 @@
 </summary>
 
 
-- [2022-07-25-在原生终端实现类似-rz、sz-上传下载文件与目录的功能](https://toutiao.io/k/728cgxk) ![](assets/new.png)  
-- [2022-07-25-记一次自定义-Redis-分布式锁导致的故障](https://toutiao.io/k/j5advvd) ![](assets/new.png)  
-- [2022-07-25-2w字详解数据湖：概念、特征、架构与案例](https://toutiao.io/k/l24ybp9) ![](assets/new.png)  
-- [2022-07-25-商汤割韭菜的背后；日志中台不重不丢实现浅谈；前端趋势-2022｜码农周刊VIP会员专属邮件周报-Vol.100](https://toutiao.io/k/nrp82cq) ![](assets/new.png)  
-- [2022-07-25-Java-8-的异步利器：CompletableFuture源码级解析（建议精读）](https://toutiao.io/k/9vn9jan) ![](assets/new.png)  
-- [2022-07-25-中美程序员不完全对比](https://toutiao.io/k/ghi630t) ![](assets/new.png)  
-- [2022-07-25-【萌新解题】子集](https://toutiao.io/k/9nk4bf2) ![](assets/new.png)  
-- [2022-07-25-直播实录-|-37-手游如何用-StarRocks-实现用户画像分析](https://toutiao.io/k/y838k3r) ![](assets/new.png)  
-- [2022-07-25-学-SQL-必须了解的-10-个高级概念！](https://toutiao.io/k/nq6w8w4) ![](assets/new.png)  
-- [2022-07-25-MyBatis-Plus联表查询的短板，终于有一款工具补齐了](https://toutiao.io/k/firjte2) ![](assets/new.png)  
-- [2022-07-25-一文理解分布式开发中的服务治理](https://toutiao.io/k/z57jtnw) ![](assets/new.png)  
-- [2022-07-25-【视频】如何写高效内存Java代码——How-to-Write-Memory-Efficient-Java-Code](https://toutiao.io/k/gi4sphc) ![](assets/new.png)  
-- [2022-07-25-Nest.js-用了-Express-但也没完全用](https://toutiao.io/k/ra8rbcx) ![](assets/new.png)  
-- [2022-07-25-强化学习大牛Sergey-Levine新作：三个大模型教会机器人认路](https://toutiao.io/k/lmgqt2u) ![](assets/new.png)  
-- [2022-07-25-这群WebAssembly大佬创业失败了：有时从-JS-迁移到-Wasm-并不值当？](https://toutiao.io/k/y45wi5f) ![](assets/new.png)  
-- [2022-07-25-IM系统-消息流化一些常见问题](https://toutiao.io/k/p7rbp8w) ![](assets/new.png)  
-- [2022-07-25-Go-垃圾回收器指南](https://toutiao.io/k/n8ush3j) ![](assets/new.png)  
-- [2022-07-25-python-脏话处理、特殊词汇过滤！](https://toutiao.io/k/fnpaq6n) ![](assets/new.png)  
-- [2022-07-25-数据成熟度的三阶段；业务抽象上的流批？](https://toutiao.io/k/kdn72dy) ![](assets/new.png)  
-- [2022-07-25-Beyond-Istio-OSS——Istio服务网格的现状与未来](https://toutiao.io/k/9ry8qc4) ![](assets/new.png)  
+- [2022-07-26-Kubernetes网络插件详解---Calico篇---概述](https://toutiao.io/k/o1jkkib) ![](assets/new.png)  
+- [2022-07-26-保证接口数据安全的10种方案](https://toutiao.io/k/iau6qc3) ![](assets/new.png)  
+- [2022-07-26-如何写好日志记录？](https://toutiao.io/k/882beu7) ![](assets/new.png)  
+- [2022-07-26-kLoop：直通Linux内核的高性能asyncio](https://toutiao.io/k/jdbwm17) ![](assets/new.png)  
+- [2022-07-26-MySQL索引背后的数据结构及算法原理](https://toutiao.io/k/5c8yrjk) ![](assets/new.png)  
+- [2022-07-26-Jackson-解析-JSON-详细教程](https://toutiao.io/k/gjetu6m) ![](assets/new.png)  
+- [2022-07-26-干货-|-携程活动搭建低代码平台的前端“开放性”建设探索](https://toutiao.io/k/16yb9pd) ![](assets/new.png)  
+- [2022-07-26-千万不要把-Request-传递到异步线程里面！有坑！](https://toutiao.io/k/x278aul) ![](assets/new.png)  
+- [2022-07-26-关于memcache内核，全网最通俗的讲解！](https://toutiao.io/k/yahrwpw) ![](assets/new.png)  
+- [2022-07-26-Logistic-Regression-入门：最基础的神经网络](https://toutiao.io/k/e58981c) ![](assets/new.png)  
+- [2022-07-26-推荐-花了一周，我总结了120个数据分析指标与术语。](https://toutiao.io/k/9pzybmk) ![](assets/new.png)  
+- [2022-07-26-推荐-腾讯低代码平台正式开源！可拖拽、生成手机项目、PC-项目！接私活福利啊！](https://toutiao.io/k/8oqx21m) ![](assets/new.png)  
+- [2022-07-26-推荐-团队一盘散沙，怎么破？](https://toutiao.io/k/kdzpdh5) ![](assets/new.png)  
+- [2022-07-26-推荐-聊聊Java中代码优化的30个小技巧](https://toutiao.io/k/jv8g1r6) ![](assets/new.png)  
+- [2022-07-26-推荐-高并发，你真的理解透彻了吗？](https://toutiao.io/k/93k2zfb) ![](assets/new.png)  
+- [2022-07-26-推荐-一线技术人应该关注的四种思维能力](https://toutiao.io/k/s2lbrzp) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

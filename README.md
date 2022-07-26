@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-07-26 22:15:04，:rocket: 更新条数: +2032， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-07-26 22:41:59，:rocket: 更新条数: +2032， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -554,8 +554,8 @@
 
 
 - [2022-07-26-如何写好日志记录？](https://toutiao.io/k/882beu7) ![](assets/new.png)  
-- [2022-07-26-Kubernetes网络插件详解---Calico篇---概述](https://toutiao.io/k/o1jkkib) ![](assets/new.png)  
 - [2022-07-26-保证接口数据安全的10种方案](https://toutiao.io/k/iau6qc3) ![](assets/new.png)  
+- [2022-07-26-Kubernetes网络插件详解---Calico篇---概述](https://toutiao.io/k/o1jkkib) ![](assets/new.png)  
 - [2022-07-26-MySQL索引背后的数据结构及算法原理](https://toutiao.io/k/5c8yrjk) ![](assets/new.png)  
 - [2022-07-26-kLoop：直通Linux内核的高性能asyncio](https://toutiao.io/k/jdbwm17) ![](assets/new.png)  
 - [2022-07-26-2022精选豆瓣高分技术书](https://toutiao.io/k/a050b31) ![](assets/new.png)  
@@ -564,15 +564,15 @@
 - [2022-07-26-关于memcache内核，全网最通俗的讲解！](https://toutiao.io/k/yahrwpw) ![](assets/new.png)  
 - [2022-07-26-干货-|-携程活动搭建低代码平台的前端“开放性”建设探索](https://toutiao.io/k/16yb9pd) ![](assets/new.png)  
 - [2022-07-26-Logistic-Regression-入门：最基础的神经网络](https://toutiao.io/k/e58981c) ![](assets/new.png)  
-- [2022-07-26-后端框架-Nest-入门教程:-开发学生信息管理系统](https://toutiao.io/k/c5tknz3) ![](assets/new.png)  
 - [2022-07-26-我有-7-种实现-web-实时消息推送的方案，7-种！](https://toutiao.io/k/g13em9a) ![](assets/new.png)  
+- [2022-07-26-后端框架-Nest-入门教程:-开发学生信息管理系统](https://toutiao.io/k/c5tknz3) ![](assets/new.png)  
 - [2022-07-26-千亿级、大规模：腾讯超大-Apache-Pulsar-集群性能调优实践](https://toutiao.io/k/a8jd2p7) ![](assets/new.png)  
 - [2022-07-26-网络请求组件封装](https://toutiao.io/k/8lqdds8) ![](assets/new.png)  
 - [2022-07-26-Go1.19-那些事：国产芯片、内存模型等新特性，你知道多少？](https://toutiao.io/k/setmkaa) ![](assets/new.png)  
 - [2022-07-26-对一个手游修改器锁机APP的分析](https://toutiao.io/k/3ofup8w) ![](assets/new.png)  
 - [2022-07-26-Apache-APISIX-在谷歌云-ARM-和-x86-服务器上的性能测试对比](https://toutiao.io/k/x0lizex) ![](assets/new.png)  
-- [2022-07-26-推荐-聊聊Java中代码优化的30个小技巧](https://toutiao.io/k/jv8g1r6) ![](assets/new.png)  
-- [2022-07-26-推荐-高并发，你真的理解透彻了吗？](https://toutiao.io/k/93k2zfb) ![](assets/new.png)  
+- [2022-07-26-推荐-团队一盘散沙，怎么破？](https://toutiao.io/k/kdzpdh5) ![](assets/new.png)  
+- [2022-07-26-推荐-花了一周，我总结了120个数据分析指标与术语。](https://toutiao.io/k/9pzybmk) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

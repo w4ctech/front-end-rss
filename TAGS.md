@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-07-26 06:50:04。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-26 07:13:34。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -157,7 +157,6 @@
 
 - [【V2EX】最近用-blender-做了两个模型，通过-threejs-放到网页上展示了](https://www.v2ex.com/t/868780)
 - [【V2EX】管窥蠡测从思考游戏到实现-2048](https://www.v2ex.com/t/868773)
-- [【V2EX】有游戏行业的朋友解答一下么](https://www.v2ex.com/t/868743)
 - [......【查看更多】......](./details/tags/dev-game.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -331,6 +330,7 @@
 
 
 
+- [【V2EX】以后安装一个软件是不是可以直接用-docker-啊](https://www.v2ex.com/t/868799)
 - [【技术头条】提升-Docker-Desktop-For-macOS-磁盘使用率-soulteary.com](https://blogread.cn/news/go.php?idItem=15236&url=https%3A%2F%2Fsoulteary.com%2F2021%2F04%2F24%2Fimprove-docker-desktop-for-macos-disk-usage.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [......【查看更多】......](./details/tags/server.md)
 

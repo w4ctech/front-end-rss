@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-07-26 23:13:44，:rocket: 更新条数: +2032， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-07-26 23:39:38，:rocket: 更新条数: +2034， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-07-26-求推荐高性价比的蓝牙耳机](https://www.v2ex.com/t/868928) ![](assets/new.png)  
+- [2022-07-26-收到-OpenAI-dall-e-2-的内测邀请邮件了,-只是-"OpenAI's-API-is-not-available-in-your-country."](https://www.v2ex.com/t/868927) ![](assets/new.png)  
 - [2022-07-26-求问一下这个-jvm-监测工具是哪个，看着真不错](https://www.v2ex.com/t/868926) ![](assets/new.png)  
 - [2022-07-26-2023-考研有考-408-的研友吗？](https://www.v2ex.com/t/868925) ![](assets/new.png)  
 - [2022-07-26-现在自行搭建代理的正确姿势？](https://www.v2ex.com/t/868924) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-07-26-AI-可以优化自身吗？](https://www.v2ex.com/t/868908) ![](assets/new.png)  
 - [2022-07-26-⚛️-React-开发最佳实践](https://www.v2ex.com/t/868907) ![](assets/new.png)  
 - [2022-07-26-求教电视盒怎么选？](https://www.v2ex.com/t/868906) ![](assets/new.png)  
-- [2022-07-26-现在测试工程师需要什么技能呀！](https://www.v2ex.com/t/868905) ![](assets/new.png)  
-- [2022-07-26-长辈介绍相亲，发了一张半身照，和一张比较丑的全身照。结果后面对方女孩子说现在考试太忙了，手机号都没给](https://www.v2ex.com/t/868904) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -568,11 +568,11 @@
 - [2022-07-26-后端框架-Nest-入门教程:-开发学生信息管理系统](https://toutiao.io/k/c5tknz3) ![](assets/new.png)  
 - [2022-07-26-千亿级、大规模：腾讯超大-Apache-Pulsar-集群性能调优实践](https://toutiao.io/k/a8jd2p7) ![](assets/new.png)  
 - [2022-07-26-网络请求组件封装](https://toutiao.io/k/8lqdds8) ![](assets/new.png)  
-- [2022-07-26-Go1.19-那些事：国产芯片、内存模型等新特性，你知道多少？](https://toutiao.io/k/setmkaa) ![](assets/new.png)  
 - [2022-07-26-对一个手游修改器锁机APP的分析](https://toutiao.io/k/3ofup8w) ![](assets/new.png)  
+- [2022-07-26-Go1.19-那些事：国产芯片、内存模型等新特性，你知道多少？](https://toutiao.io/k/setmkaa) ![](assets/new.png)  
 - [2022-07-26-Apache-APISIX-在谷歌云-ARM-和-x86-服务器上的性能测试对比](https://toutiao.io/k/x0lizex) ![](assets/new.png)  
-- [2022-07-26-推荐-团队一盘散沙，怎么破？](https://toutiao.io/k/kdzpdh5) ![](assets/new.png)  
-- [2022-07-26-推荐-高并发，你真的理解透彻了吗？](https://toutiao.io/k/93k2zfb) ![](assets/new.png)  
+- [2022-07-26-推荐-花了一周，我总结了120个数据分析指标与术语。](https://toutiao.io/k/9pzybmk) ![](assets/new.png)  
+- [2022-07-26-推荐-聊聊Java中代码优化的30个小技巧](https://toutiao.io/k/jv8g1r6) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

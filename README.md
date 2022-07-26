@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-07-26 12:26:53，:rocket: 更新条数: +2028， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-07-26 13:14:19，:rocket: 更新条数: +2029， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,11 @@
 </summary>
 
 
+- [2022-07-26-说说最近看的一些硬件产品](https://www.v2ex.com/t/868887) ![](assets/new.png)  
+- [2022-07-26-mac-qq-群聊能屏蔽图片吗](https://www.v2ex.com/t/868886) ![](assets/new.png)  
+- [2022-07-26-如何在自己的服务器上搭建图床](https://www.v2ex.com/t/868885) ![](assets/new.png)  
+- [2022-07-26-服务器自动化管理脚本语言选择,-Python-or-Shell](https://www.v2ex.com/t/868884) ![](assets/new.png)  
+- [2022-07-26-比较适合程序员的做饭菜谱](https://www.v2ex.com/t/868883) ![](assets/new.png)  
 - [2022-07-26-salesforce-开发,有前景吗](https://www.v2ex.com/t/868882) ![](assets/new.png)  
 - [2022-07-26-IOS15.6-和-MacOS-12.5-个人更新体验供参考](https://www.v2ex.com/t/868881) ![](assets/new.png)  
 - [2022-07-26-黑苹果安装-macOS-12.5-后-U-盘弹出图标错位](https://www.v2ex.com/t/868880) ![](assets/new.png)  
@@ -506,11 +511,6 @@
 - [2022-07-26-关于对容器开发的理解](https://www.v2ex.com/t/868866) ![](assets/new.png)  
 - [2022-07-26-对于私有部署的-GitLab-服务，大家的工作流中是如何提交合并请求的？](https://www.v2ex.com/t/868864) ![](assets/new.png)  
 - [2022-07-26-M1-MacBook-程序窗口和菜单栏无法贴合，有一条缝隙，有人知道如何解决吗？](https://www.v2ex.com/t/868862) ![](assets/new.png)  
-- [2022-07-26-这一天还是来了...](https://www.v2ex.com/t/868861) ![](assets/new.png)  
-- [2022-07-26-CLion-和-GoLand-为什么没有社区版？](https://www.v2ex.com/t/868860) ![](assets/new.png)  
-- [2022-07-26-b-站看到一个有意思的网站](https://www.v2ex.com/t/868859) ![](assets/new.png)  
-- [2022-07-26-起朱楼-宴宾客-楼塌了](https://www.v2ex.com/t/868858) ![](assets/new.png)  
-- [2022-07-26-有创维公司的人吗，怎么关掉自动升级，升级还强制卸载了我的沙发管家。你们犯法了知道么](https://www.v2ex.com/t/868857) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -571,8 +571,8 @@
 - [2022-07-26-Go1.19-那些事：国产芯片、内存模型等新特性，你知道多少？](https://toutiao.io/k/setmkaa) ![](assets/new.png)  
 - [2022-07-26-Apache-APISIX-在谷歌云-ARM-和-x86-服务器上的性能测试对比](https://toutiao.io/k/x0lizex) ![](assets/new.png)  
 - [2022-07-26-对一个手游修改器锁机APP的分析](https://toutiao.io/k/3ofup8w) ![](assets/new.png)  
-- [2022-07-26-推荐-团队一盘散沙，怎么破？](https://toutiao.io/k/kdzpdh5) ![](assets/new.png)  
-- [2022-07-26-推荐-高并发，你真的理解透彻了吗？](https://toutiao.io/k/93k2zfb) ![](assets/new.png)  
+- [2022-07-26-推荐-一线技术人应该关注的四种思维能力](https://toutiao.io/k/s2lbrzp) ![](assets/new.png)  
+- [2022-07-26-推荐-聊聊Java中代码优化的30个小技巧](https://toutiao.io/k/jv8g1r6) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

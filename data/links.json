@@ -9953,6 +9953,41 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "带新人心累，你们都是怎么带新手程序员的（特指刚毕业的孩子），求支招",
+        "link": "https://www.v2ex.com/t/868776",
+        "date": "2022-07-26"
+      },
+      {
+        "title": "[远程全职] 月薪 30K-40K RMB, 招聘全栈工程师",
+        "link": "https://www.v2ex.com/t/868774",
+        "date": "2022-07-26"
+      },
+      {
+        "title": "管窥蠡测从思考游戏到实现 2048",
+        "link": "https://www.v2ex.com/t/868773",
+        "date": "2022-07-26"
+      },
+      {
+        "title": "[育碧成都]965 WLB 程序员/动画/美术/技术管理 内推",
+        "link": "https://www.v2ex.com/t/868771",
+        "date": "2022-07-26"
+      },
+      {
+        "title": "没人讨论稚晖君的键盘吗，好想有一个",
+        "link": "https://www.v2ex.com/t/868770",
+        "date": "2022-07-26"
+      },
+      {
+        "title": "咨询一下大家有 [竞拍小程序] 介绍吗？",
+        "link": "https://www.v2ex.com/t/868768",
+        "date": "2022-07-26"
+      },
+      {
+        "title": "打不开内存完整性，这到底是谁的问题",
+        "link": "https://www.v2ex.com/t/868767",
+        "date": "2022-07-26"
+      },
+      {
         "title": "PoS 会让以太坊的安全性受到威胁吗？",
         "link": "https://www.v2ex.com/t/868766",
         "date": "2022-07-26"
@@ -10080,46 +10115,6 @@
       {
         "title": "请问现在还有什么方法能查到 iOS 旧版 app 的 ID 吗？",
         "link": "https://www.v2ex.com/t/868729",
-        "date": "2022-07-26"
-      },
-      {
-        "title": "有家人在军队文职工作的吗，现在有入围二线城市某军校助教（军队文职）。大家帮帮分析分析",
-        "link": "https://www.v2ex.com/t/868726",
-        "date": "2022-07-26"
-      },
-      {
-        "title": "API7.ai 招聘前端/go/网关开发/SRE 工程师",
-        "link": "https://www.v2ex.com/t/868725",
-        "date": "2022-07-26"
-      },
-      {
-        "title": "[收集] Java 程序，生产环境还有用 winServer 的吗",
-        "link": "https://www.v2ex.com/t/868724",
-        "date": "2022-07-26"
-      },
-      {
-        "title": "出国和留在国内与女朋友一起发展，怎么选择？",
-        "link": "https://www.v2ex.com/t/868723",
-        "date": "2022-07-26"
-      },
-      {
-        "title": "公司未上市离职期权处理的问题",
-        "link": "https://www.v2ex.com/t/868721",
-        "date": "2022-07-26"
-      },
-      {
-        "title": "该不该买房 求助",
-        "link": "https://www.v2ex.com/t/868720",
-        "date": "2022-07-26"
-      },
-      {
-        "title": "求助： mariabackup 备份报错 Error: cannot process redo log before MariaDB 10.8",
-        "link": "https://www.v2ex.com/t/868719",
-        "date": "2022-07-26"
-      },
-      {
-        "title": "每天你的阅读列表（消息获取渠道）都有哪些",
-        "link": "https://www.v2ex.com/t/868718",
         "date": "2022-07-26"
       }
     ]
@@ -10282,13 +10277,13 @@
         "date": "2022-07-26"
       },
       {
-        "title": "Logistic Regression 入门：最基础的神经网络",
-        "link": "https://toutiao.io/k/e58981c",
+        "title": "2022精选豆瓣高分技术书",
+        "link": "https://toutiao.io/k/a050b31",
         "date": "2022-07-26"
       },
       {
-        "title": "2022精选豆瓣高分技术书",
-        "link": "https://toutiao.io/k/a050b31",
+        "title": "Logistic Regression 入门：最基础的神经网络",
+        "link": "https://toutiao.io/k/e58981c",
         "date": "2022-07-26"
       },
       {
@@ -10302,8 +10297,13 @@
         "date": "2022-07-26"
       },
       {
-        "title": "[推荐] 团队一盘散沙，怎么破？",
-        "link": "https://toutiao.io/k/kdzpdh5",
+        "title": "[推荐] 聊聊Java中代码优化的30个小技巧",
+        "link": "https://toutiao.io/k/jv8g1r6",
+        "date": "2022-07-26"
+      },
+      {
+        "title": "[推荐] 高并发，你真的理解透彻了吗？",
+        "link": "https://toutiao.io/k/93k2zfb",
         "date": "2022-07-26"
       },
       {
@@ -10312,18 +10312,13 @@
         "date": "2022-07-26"
       },
       {
+        "title": "[推荐] 团队一盘散沙，怎么破？",
+        "link": "https://toutiao.io/k/kdzpdh5",
+        "date": "2022-07-26"
+      },
+      {
         "title": "[推荐] 腾讯低代码平台正式开源！可拖拽、生成手机项目、PC 项目！接私活福利啊！",
         "link": "https://toutiao.io/k/8oqx21m",
-        "date": "2022-07-26"
-      },
-      {
-        "title": "[推荐] 聊聊Java中代码优化的30个小技巧",
-        "link": "https://toutiao.io/k/jv8g1r6",
-        "date": "2022-07-26"
-      },
-      {
-        "title": "[推荐] 高并发，你真的理解透彻了吗？",
-        "link": "https://toutiao.io/k/93k2zfb",
         "date": "2022-07-26"
       },
       {

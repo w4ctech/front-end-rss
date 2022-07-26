@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-26 05:56:04。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-26 06:18:49。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -22,3 +22,4 @@
 - [2022-07-26-kLoop：直通Linux内核的高性能asyncio](https://toutiao.io/k/jdbwm17) 
 - [2022-07-26-Jackson-解析-JSON-详细教程](https://toutiao.io/k/gjetu6m) 
 - [2022-07-26-千万不要把-Request-传递到异步线程里面！有坑！](https://toutiao.io/k/x278aul) 
+- [2022-07-26-网络请求组件封装](https://toutiao.io/k/8lqdds8) 

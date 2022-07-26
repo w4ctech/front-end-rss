@@ -9953,6 +9953,21 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "折腾 NAS， 高 TDP 的 cpu 实际功耗也可以很低",
+        "link": "https://www.v2ex.com/t/868915",
+        "date": "2022-07-26"
+      },
+      {
+        "title": "能否实现一个文件级别的 RAID 库？",
+        "link": "https://www.v2ex.com/t/868914",
+        "date": "2022-07-26"
+      },
+      {
+        "title": "比 ITX 体积更小的游戏主机，带外置 PCIe 接口的 mini pc。",
+        "link": "https://www.v2ex.com/t/868913",
+        "date": "2022-07-26"
+      },
+      {
         "title": "转租 清河林萃桥观景园单间 朝南带阳台（房东直租，无中介费）",
         "link": "https://www.v2ex.com/t/868911",
         "date": "2022-07-26"
@@ -10150,11 +10165,6 @@
       {
         "title": "关于对容器开发的理解",
         "link": "https://www.v2ex.com/t/868866",
-        "date": "2022-07-26"
-      },
-      {
-        "title": "对于私有部署的 GitLab 服务，大家的工作流中是如何提交合并请求的？",
-        "link": "https://www.v2ex.com/t/868864",
         "date": "2022-07-26"
       }
     ]
@@ -10362,6 +10372,11 @@
         "date": "2022-07-26"
       },
       {
+        "title": "[推荐] 团队一盘散沙，怎么破？",
+        "link": "https://toutiao.io/k/kdzpdh5",
+        "date": "2022-07-26"
+      },
+      {
         "title": "[推荐] 腾讯低代码平台正式开源！可拖拽、生成手机项目、PC 项目！接私活福利啊！",
         "link": "https://toutiao.io/k/8oqx21m",
         "date": "2022-07-26"
@@ -10372,23 +10387,13 @@
         "date": "2022-07-26"
       },
       {
-        "title": "[推荐] 团队一盘散沙，怎么破？",
-        "link": "https://toutiao.io/k/kdzpdh5",
+        "title": "[推荐] 花了一周，我总结了120个数据分析指标与术语。",
+        "link": "https://toutiao.io/k/9pzybmk",
         "date": "2022-07-26"
       },
       {
         "title": "[推荐] 高并发，你真的理解透彻了吗？",
         "link": "https://toutiao.io/k/93k2zfb",
-        "date": "2022-07-26"
-      },
-      {
-        "title": "[推荐] 一线技术人应该关注的四种思维能力",
-        "link": "https://toutiao.io/k/s2lbrzp",
-        "date": "2022-07-26"
-      },
-      {
-        "title": "[推荐] 花了一周，我总结了120个数据分析指标与术语。",
-        "link": "https://toutiao.io/k/9pzybmk",
         "date": "2022-07-26"
       }
     ]

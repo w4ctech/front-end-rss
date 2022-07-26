@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-07-26 15:46:51，:rocket: 更新条数: +2031， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-07-26 16:19:09，:rocket: 更新条数: +2032， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,9 @@
 </summary>
 
 
+- [2022-07-26-折腾-NAS，-高-TDP-的-cpu-实际功耗也可以很低](https://www.v2ex.com/t/868915) ![](assets/new.png)  
+- [2022-07-26-能否实现一个文件级别的-RAID-库？](https://www.v2ex.com/t/868914) ![](assets/new.png)  
+- [2022-07-26-比-ITX-体积更小的游戏主机，带外置-PCIe-接口的-mini-pc。](https://www.v2ex.com/t/868913) ![](assets/new.png)  
 - [2022-07-26-转租-清河林萃桥观景园单间-朝南带阳台（房东直租，无中介费）](https://www.v2ex.com/t/868911) ![](assets/new.png)  
 - [2022-07-26-杭州/广州/上海/北京-网易秋招开始啦！校招、社招都有，就等你来！](https://www.v2ex.com/t/868910) ![](assets/new.png)  
 - [2022-07-26-媒体中心+软路由等其他-home-server-最佳方案？](https://www.v2ex.com/t/868909) ![](assets/new.png)  
@@ -508,9 +511,6 @@
 - [2022-07-26-Internet-Archive-怎么批量保存网页？](https://www.v2ex.com/t/868896) ![](assets/new.png)  
 - [2022-07-26-Studio-Display-VESA-底座选择](https://www.v2ex.com/t/868894) ![](assets/new.png)  
 - [2022-07-26-大家怎么看《回村三天，二舅治好了我的精神内耗》这个视频？](https://www.v2ex.com/t/868893) ![](assets/new.png)  
-- [2022-07-26-语雀-迁移-notion，请问大家有什么好办法吗？](https://www.v2ex.com/t/868892) ![](assets/new.png)  
-- [2022-07-26-网易云的随机播放是怎么随机的啊](https://www.v2ex.com/t/868891) ![](assets/new.png)  
-- [2022-07-26-提升学历/-考研双证-保过班火热招生中~~](https://www.v2ex.com/t/868890) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -571,8 +571,8 @@
 - [2022-07-26-Go1.19-那些事：国产芯片、内存模型等新特性，你知道多少？](https://toutiao.io/k/setmkaa) ![](assets/new.png)  
 - [2022-07-26-Apache-APISIX-在谷歌云-ARM-和-x86-服务器上的性能测试对比](https://toutiao.io/k/x0lizex) ![](assets/new.png)  
 - [2022-07-26-对一个手游修改器锁机APP的分析](https://toutiao.io/k/3ofup8w) ![](assets/new.png)  
+- [2022-07-26-推荐-团队一盘散沙，怎么破？](https://toutiao.io/k/kdzpdh5) ![](assets/new.png)  
 - [2022-07-26-推荐-腾讯低代码平台正式开源！可拖拽、生成手机项目、PC-项目！接私活福利啊！](https://toutiao.io/k/8oqx21m) ![](assets/new.png)  
-- [2022-07-26-推荐-聊聊Java中代码优化的30个小技巧](https://toutiao.io/k/jv8g1r6) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

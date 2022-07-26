@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-26 07:13:34。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-26 07:38:39。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,8 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-07-26-好像没有几个体积<1L，且三盘位的-2.5g-网口小主机？](https://www.v2ex.com/t/868802) 
+- [2022-07-26-更换内存后，-NUC-不提供保修是霸王条款吗？](https://www.v2ex.com/t/868801) 
 - [2022-07-26-2022-年-7-月份了买-mba-M1，是不是有点-49-年入国军啊](https://www.v2ex.com/t/868798) 
 - [2022-07-26-DAOStartup-招新人啦](https://www.v2ex.com/t/868797) 
 - [2022-07-26-有用过个推的大佬吗](https://www.v2ex.com/t/868796) 
@@ -1930,11 +1932,6 @@
 - [2022-07-26-国产安卓电视禁止安装第三方-launcher，如何绕过？](https://www.v2ex.com/t/868759) 
 - [2022-07-26-今天坐了同学的豪车，又学到新知识](https://www.v2ex.com/t/868758) 
 - [2022-07-26-有了解上海网达软件的小伙伴吗，刚收到-offer，网上说是外包值的去吗？](https://www.v2ex.com/t/868757) 
-- [2022-07-26-郑州总包-26-和杭州总包-38-如何选？](https://www.v2ex.com/t/868756) 
-- [2022-07-26-闲鱼的新秀丽包保真吗？](https://www.v2ex.com/t/868755) 
-- [2022-07-26-对于需要判断条件的查询，是在-service-中判断还是直接用动态-SQL？](https://www.v2ex.com/t/868753) 
-- [2022-07-26-显示-V2EX-最新发布的帖子，油猴脚本](https://www.v2ex.com/t/868752) 
-- [2022-07-26-2022-年-大荔冬枣-最后一周-/-树上熟-/-上新规格-69-元/109-元-4-斤,-顺丰/京东包邮](https://www.v2ex.com/t/868750) 
 - [2022-07-26-数据仓库项目从来不是技术项目-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15251&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fwhat-is-data-warehouse%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-26-Android-框架问题分析案例---谁杀了桌面?-androidperformance.com](https://blogread.cn/news/go.php?idItem=15249&url=https%3A%2F%2Fandroidperformance.com%2F2019%2F09%2F17%2FAndroid-Kill-Background-App-Debug%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-26-生产者消费者编程模式-www.ideawu.net](https://blogread.cn/news/go.php?idItem=15248&url=https%3A%2F%2Fwww.ideawu.net%2Fblog%2Farchives%2F1202.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1957,8 +1954,8 @@
 - [2022-07-26-后端框架-Nest-入门教程:-开发学生信息管理系统](https://toutiao.io/k/c5tknz3) 
 - [2022-07-26-Go1.19-那些事：国产芯片、内存模型等新特性，你知道多少？](https://toutiao.io/k/setmkaa) 
 - [2022-07-26-对一个手游修改器锁机APP的分析](https://toutiao.io/k/3ofup8w) 
+- [2022-07-26-推荐-团队一盘散沙，怎么破？](https://toutiao.io/k/kdzpdh5) 
 - [2022-07-26-推荐-一线技术人应该关注的四种思维能力](https://toutiao.io/k/s2lbrzp) 
 - [2022-07-26-推荐-花了一周，我总结了120个数据分析指标与术语。](https://toutiao.io/k/9pzybmk) 
 - [2022-07-26-推荐-腾讯低代码平台正式开源！可拖拽、生成手机项目、PC-项目！接私活福利啊！](https://toutiao.io/k/8oqx21m) 
 - [2022-07-26-推荐-高并发，你真的理解透彻了吗？](https://toutiao.io/k/93k2zfb) 
-- [2022-07-26-推荐-团队一盘散沙，怎么破？](https://toutiao.io/k/kdzpdh5) 

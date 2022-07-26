@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-07-26 14:13:15，:rocket: 更新条数: +2029， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-07-26 14:38:51，:rocket: 更新条数: +2030， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-07-26-淘宝聊天炸了？](https://www.v2ex.com/t/868900) ![](assets/new.png)  
 - [2022-07-26-存不存在能同时连两根-OTG-线的手机](https://www.v2ex.com/t/868899) ![](assets/new.png)  
 - [2022-07-26-看完“回村三天，二舅治好了我的精神内耗”，久久不能平复](https://www.v2ex.com/t/868897) ![](assets/new.png)  
 - [2022-07-26-Internet-Archive-怎么批量保存网页？](https://www.v2ex.com/t/868896) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-07-26-IOS15.6-和-MacOS-12.5-个人更新体验供参考](https://www.v2ex.com/t/868881) ![](assets/new.png)  
 - [2022-07-26-黑苹果安装-macOS-12.5-后-U-盘弹出图标错位](https://www.v2ex.com/t/868880) ![](assets/new.png)  
 - [2022-07-26-求推荐-18-万落地的车](https://www.v2ex.com/t/868879) ![](assets/new.png)  
-- [2022-07-26-leetcode-的-Python-运行速度困惑](https://www.v2ex.com/t/868875) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -571,8 +571,8 @@
 - [2022-07-26-Go1.19-那些事：国产芯片、内存模型等新特性，你知道多少？](https://toutiao.io/k/setmkaa) ![](assets/new.png)  
 - [2022-07-26-Apache-APISIX-在谷歌云-ARM-和-x86-服务器上的性能测试对比](https://toutiao.io/k/x0lizex) ![](assets/new.png)  
 - [2022-07-26-对一个手游修改器锁机APP的分析](https://toutiao.io/k/3ofup8w) ![](assets/new.png)  
-- [2022-07-26-推荐-聊聊Java中代码优化的30个小技巧](https://toutiao.io/k/jv8g1r6) ![](assets/new.png)  
-- [2022-07-26-推荐-花了一周，我总结了120个数据分析指标与术语。](https://toutiao.io/k/9pzybmk) ![](assets/new.png)  
+- [2022-07-26-推荐-一线技术人应该关注的四种思维能力](https://toutiao.io/k/s2lbrzp) ![](assets/new.png)  
+- [2022-07-26-推荐-团队一盘散沙，怎么破？](https://toutiao.io/k/kdzpdh5) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

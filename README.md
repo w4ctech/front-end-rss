@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-07-26 08:44:33，:rocket: 更新条数: +2023， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-07-26 09:14:26，:rocket: 更新条数: +2025， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,16 @@
 </summary>
 
 
+- [2022-07-26-14-寸-m1pro-外接屏打开指定网址闪屏](https://www.v2ex.com/t/868835) ![](assets/new.png)  
+- [2022-07-26-多台-macOS-接力有些弱智，我复制一个大文件，其他-mac-也自动粘贴](https://www.v2ex.com/t/868834) ![](assets/new.png)  
+- [2022-07-26-小米为啥用飞书而不是-WPS？](https://www.v2ex.com/t/868833) ![](assets/new.png)  
+- [2022-07-26-地理位置猜测-小游戏，来体验下](https://www.v2ex.com/t/868832) ![](assets/new.png)  
+- [2022-07-26-为什么-Xftp-上传速度很慢？](https://www.v2ex.com/t/868831) ![](assets/new.png)  
+- [2022-07-26-2022-年的当下，-Dropbox-备份照片体验如何？](https://www.v2ex.com/t/868830) ![](assets/new.png)  
+- [2022-07-26-大佬们推荐-15-万以内的车](https://www.v2ex.com/t/868829) ![](assets/new.png)  
+- [2022-07-26-看-pip-的启动脚本看得我人都傻了，还能把-shell-和-py-揉到一起写](https://www.v2ex.com/t/868827) ![](assets/new.png)  
+- [2022-07-26-gpgtar-有没有办法可以不手动输入解压密码?](https://www.v2ex.com/t/868826) ![](assets/new.png)  
+- [2022-07-26-兄弟们这个月公积金变了吗](https://www.v2ex.com/t/868825) ![](assets/new.png)  
 - [2022-07-26-人在内地-请问-3hk-esim-使用体验如何](https://www.v2ex.com/t/868824) ![](assets/new.png)  
 - [2022-07-26-观婆媳矛盾有感，时不时可以看到父母是祸害的言论我感到有点迷惑](https://www.v2ex.com/t/868823) ![](assets/new.png)  
 - [2022-07-26-跨考到网安专业，下半年去读研。这个暑假可以学习些什么呢？](https://www.v2ex.com/t/868820) ![](assets/new.png)  
@@ -501,16 +511,6 @@
 - [2022-07-26-参加活动免费领-150-元京东购物卡](https://www.v2ex.com/t/868814) ![](assets/new.png)  
 - [2022-07-26-网易内推-互娱-23-届校招内推-内推码-XX3CuG](https://www.v2ex.com/t/868809) ![](assets/new.png)  
 - [2022-07-26-培养管理型人才心累，你们都是怎么培养技术下属的管理能力的，（特指刚承担一点管理职能的孩子），求支招](https://www.v2ex.com/t/868808) ![](assets/new.png)  
-- [2022-07-26-求助一下关于-react-更新-list-的一个疑问。](https://www.v2ex.com/t/868807) ![](assets/new.png)  
-- [2022-07-26-跨域导致的-OPTIONS-请求，有必要规避吗](https://www.v2ex.com/t/868803) ![](assets/new.png)  
-- [2022-07-26-好像没有几个体积<1L，且三盘位的-2.5g-网口小主机？](https://www.v2ex.com/t/868802) ![](assets/new.png)  
-- [2022-07-26-更换内存后，-NUC-不提供保修是霸王条款吗？](https://www.v2ex.com/t/868801) ![](assets/new.png)  
-- [2022-07-26-以后安装一个软件是不是可以直接用-docker-啊](https://www.v2ex.com/t/868799) ![](assets/new.png)  
-- [2022-07-26-2022-年-7-月份了买-mba-M1，是不是有点-49-年入国军啊](https://www.v2ex.com/t/868798) ![](assets/new.png)  
-- [2022-07-26-DAOStartup-招新人啦](https://www.v2ex.com/t/868797) ![](assets/new.png)  
-- [2022-07-26-有用过个推的大佬吗](https://www.v2ex.com/t/868796) ![](assets/new.png)  
-- [2022-07-26-写出个灵活的系统竟然可以如此简单！小白也能写出高级的-Java-业务！](https://www.v2ex.com/t/868795) ![](assets/new.png)  
-- [2022-07-26-阿里云-app-是用什么开发的，感觉不是原生，但很流畅](https://www.v2ex.com/t/868794) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -569,10 +569,10 @@
 - [2022-07-26-千亿级、大规模：腾讯超大-Apache-Pulsar-集群性能调优实践](https://toutiao.io/k/a8jd2p7) ![](assets/new.png)  
 - [2022-07-26-Go1.19-那些事：国产芯片、内存模型等新特性，你知道多少？](https://toutiao.io/k/setmkaa) ![](assets/new.png)  
 - [2022-07-26-Apache-APISIX-在谷歌云-ARM-和-x86-服务器上的性能测试对比](https://toutiao.io/k/x0lizex) ![](assets/new.png)  
-- [2022-07-26-网络请求组件封装](https://toutiao.io/k/8lqdds8) ![](assets/new.png)  
 - [2022-07-26-对一个手游修改器锁机APP的分析](https://toutiao.io/k/3ofup8w) ![](assets/new.png)  
-- [2022-07-26-推荐-聊聊Java中代码优化的30个小技巧](https://toutiao.io/k/jv8g1r6) ![](assets/new.png)  
+- [2022-07-26-网络请求组件封装](https://toutiao.io/k/8lqdds8) ![](assets/new.png)  
 - [2022-07-26-推荐-一线技术人应该关注的四种思维能力](https://toutiao.io/k/s2lbrzp) ![](assets/new.png)  
+- [2022-07-26-推荐-花了一周，我总结了120个数据分析指标与术语。](https://toutiao.io/k/9pzybmk) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

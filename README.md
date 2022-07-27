@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-07-27 01:11:55，:rocket: 更新条数: +2023， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-07-27 03:33:39，:rocket: 更新条数: +2024， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,26 +491,26 @@
 </summary>
 
 
-- [2022-07-27-Edge-访问-www.163.com/*-加载不了样式、JS-等文件，是因为啥？](https://www.v2ex.com/t/868934) ![](assets/new.png)  
-- [2022-07-27-碳云过于离谱，直接删我-VPS，一点通知都没有](https://www.v2ex.com/t/868931) ![](assets/new.png)  
-- [2022-07-27-外包项目寻求有-3D-开发经验的朋友](https://www.v2ex.com/t/868930) ![](assets/new.png)  
-- [2022-07-26-有没有-USB-type-C-全功能的-KVM？](https://www.v2ex.com/t/868929) ![](assets/new.png)  
-- [2022-07-26-求推荐高性价比的蓝牙耳机](https://www.v2ex.com/t/868928) ![](assets/new.png)  
-- [2022-07-26-收到-OpenAI-dall-e-2-的内测邀请邮件了,-只是-"OpenAI's-API-is-not-available-in-your-country."](https://www.v2ex.com/t/868927) ![](assets/new.png)  
-- [2022-07-26-求问一下这个-jvm-监测工具是哪个，看着真不错](https://www.v2ex.com/t/868926) ![](assets/new.png)  
-- [2022-07-26-2023-考研有考-408-的研友吗？](https://www.v2ex.com/t/868925) ![](assets/new.png)  
-- [2022-07-26-现在自行搭建代理的正确姿势？](https://www.v2ex.com/t/868924) ![](assets/new.png)  
-- [2022-07-26-在-golang-中，怎么判断一个-socket-连接是否关闭？](https://www.v2ex.com/t/868923) ![](assets/new.png)  
-- [2022-07-26-有没有-深圳-/-上海-的-flutter-岗位](https://www.v2ex.com/t/868922) ![](assets/new.png)  
-- [2022-07-26-似乎看帖又默认定位到最近的一页了](https://www.v2ex.com/t/868921) ![](assets/new.png)  
-- [2022-07-26-你们的-Mac-studio-关机吗？](https://www.v2ex.com/t/868918) ![](assets/new.png)  
-- [2022-07-26-淘好玩的数码周边](https://www.v2ex.com/t/868917) ![](assets/new.png)  
-- [2022-07-26-史上最强爬虫辅助之一-两秒抓包/DNS-中间人/自动化/集成-Frida,IDA](https://www.v2ex.com/t/868916) ![](assets/new.png)  
-- [2022-07-26-折腾-NAS，-高-TDP-的-cpu-实际功耗也可以很低](https://www.v2ex.com/t/868915) ![](assets/new.png)  
-- [2022-07-26-能否实现一个文件级别的-RAID-库？](https://www.v2ex.com/t/868914) ![](assets/new.png)  
-- [2022-07-26-比-ITX-体积更小的游戏主机，带外置-PCIe-接口的-mini-pc。](https://www.v2ex.com/t/868913) ![](assets/new.png)  
-- [2022-07-26-转租-清河林萃桥观景园单间-朝南带阳台（房东直租，无中介费）](https://www.v2ex.com/t/868911) ![](assets/new.png)  
-- [2022-07-26-杭州/广州/上海/北京-网易秋招开始啦！校招、社招都有，就等你来！](https://www.v2ex.com/t/868910) ![](assets/new.png)  
+- [2022-07-27-福田区石厦北缔馨园一房一厅户型出租](https://www.v2ex.com/t/868977) ![](assets/new.png)  
+- [2022-07-27-有没有快速搭建-socks5-/-http-正向代理服务器的方案？](https://www.v2ex.com/t/868976) ![](assets/new.png)  
+- [2022-07-27-2022-年了，-iPhone-怎么装小飞机出国](https://www.v2ex.com/t/868975) ![](assets/new.png)  
+- [2022-07-27-safari-有没有办法-暂时/临时-allow-insure-content？](https://www.v2ex.com/t/868974) ![](assets/new.png)  
+- [2022-07-27-idea-换了新-UI-之后，怎么在右上角用-jrebel&XRebel-运行项目？找不到-jrebel-的图标了](https://www.v2ex.com/t/868973) ![](assets/new.png)  
+- [2022-07-27-同学建筑设计的，来杭州快一个月了，面试机会只有-4-5-次，要不要建议他转行。然后想问下大家，都比较看好啥行业。他的哥哥，想让他搞直播运营，但是看他的态度...](https://www.v2ex.com/t/868972) ![](assets/new.png)  
+- [2022-07-27-上海求职最近面上了国企外包，有很多疑问，希望有人能帮我解答一下](https://www.v2ex.com/t/868970) ![](assets/new.png)  
+- [2022-07-27-class-里的继承方法改写,-要不要加-override?](https://www.v2ex.com/t/868968) ![](assets/new.png)  
+- [2022-07-27-深圳电信专线这么贵的吗](https://www.v2ex.com/t/868967) ![](assets/new.png)  
+- [2022-07-27-魔都电信宽带的出国速度是渣渣](https://www.v2ex.com/t/868966) ![](assets/new.png)  
+- [2022-07-27-猎聘这个招聘-app-怎么样](https://www.v2ex.com/t/868964) ![](assets/new.png)  
+- [2022-07-27-寻找-ddd-知友](https://www.v2ex.com/t/868963) ![](assets/new.png)  
+- [2022-07-27-上海-不加班-外企-招-Java-、C++、安卓、中级测试、支持工程师、初级-devOps，-Java-和-测试有残疾人岗位](https://www.v2ex.com/t/868962) ![](assets/new.png)  
+- [2022-07-27-Mac-端-有什么好用的-vless-客户端呢？除了-clash，](https://www.v2ex.com/t/868960) ![](assets/new.png)  
+- [2022-07-27-winget-有点蠢吧，怀疑微软自己都不用](https://www.v2ex.com/t/868959) ![](assets/new.png)  
+- [2022-07-27-10-年经验路过，全栈经验，区块链，-PHP-Java-小程序前段-通吃，这方面的软件开发的比较多，有相关案例，时间充裕，诚心合作，个人全职工作，有需要请联系我-飞...](https://www.v2ex.com/t/868958) ![](assets/new.png)  
+- [2022-07-27-喜提-1-星评价纪念一下](https://www.v2ex.com/t/868957) ![](assets/new.png)  
+- [2022-07-27-mac-转-windows-好难受，尤其是键盘，大家有什么好的解决方案吗？](https://www.v2ex.com/t/868956) ![](assets/new.png)  
+- [2022-07-27-电脑老是莫名奇妙的删除当前窗口的文件](https://www.v2ex.com/t/868954) ![](assets/new.png)  
+- [2022-07-27-Windows-软件快捷小工具](https://www.v2ex.com/t/868953) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -560,14 +560,18 @@
 - [2022-07-27-MQTT-over-QUIC：物联网消息传输还有更多可能](https://toutiao.io/k/9tw1pqf) ![](assets/new.png)  
 - [2022-07-27-我们真的需要抛弃-C/C++,-JAVA,-GOLANG,-去拥抱-RUST-吗-?!](https://toutiao.io/k/vv1qk1a) ![](assets/new.png)  
 - [2022-07-27-100-行代码搞定了-RPC-原理-！](https://toutiao.io/k/c7jmqc1) ![](assets/new.png)  
-- [2022-07-27-一文详解图像中的无监督学习](https://toutiao.io/k/2arzcsm) ![](assets/new.png)  
 - [2022-07-27-代码杂谈:从一道面试题看学会Rust的难度](https://toutiao.io/k/xhuqr2c) ![](assets/new.png)  
+- [2022-07-27-一文详解图像中的无监督学习](https://toutiao.io/k/2arzcsm) ![](assets/new.png)  
 - [2022-07-27-【300+精选大厂面试题持续分享】大数据运维尖刀面试题专栏（八）](https://toutiao.io/k/2g8u2fa) ![](assets/new.png)  
-- [2022-07-27-推荐-花了一周，我总结了120个数据分析指标与术语。](https://toutiao.io/k/9pzybmk) ![](assets/new.png)  
+- [2022-07-27-聊一聊数据库的行存与列存](https://toutiao.io/k/qhft99i) ![](assets/new.png)  
+- [2022-07-27-郑建勋：代码优化的三重境界](https://toutiao.io/k/6eobfqp) ![](assets/new.png)  
+- [2022-07-27-Activity.onStop-延迟10秒？检测、定位、修复它！](https://toutiao.io/k/bgqqwou) ![](assets/new.png)  
+- [2022-07-27-Premint-恶意代码注入攻击细节分析](https://toutiao.io/k/gffxt2o) ![](assets/new.png)  
 - [2022-07-27-推荐-团队一盘散沙，怎么破？](https://toutiao.io/k/kdzpdh5) ![](assets/new.png)  
 - [2022-07-27-推荐-聊聊Java中代码优化的30个小技巧](https://toutiao.io/k/jv8g1r6) ![](assets/new.png)  
-- [2022-07-27-推荐-腾讯低代码平台正式开源！可拖拽、生成手机项目、PC-项目！接私活福利啊！](https://toutiao.io/k/8oqx21m) ![](assets/new.png)  
 - [2022-07-27-推荐-高并发，你真的理解透彻了吗？](https://toutiao.io/k/93k2zfb) ![](assets/new.png)  
+- [2022-07-27-推荐-腾讯低代码平台正式开源！可拖拽、生成手机项目、PC-项目！接私活福利啊！](https://toutiao.io/k/8oqx21m) ![](assets/new.png)  
+- [2022-07-27-推荐-花了一周，我总结了120个数据分析指标与术语。](https://toutiao.io/k/9pzybmk) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

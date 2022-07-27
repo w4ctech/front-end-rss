@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-27 01:11:55。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-27 03:33:39。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -19,6 +19,4 @@
 - [2022-05-11-JS与条形码的生成](https://www.zhangxinxu.com/wordpress/2022/05/js-barcode/) 
 - [2022-04-30-深入-JS-new-Function-语法](https://www.zhangxinxu.com/wordpress/2022/04/js-new-function/) 
 - [2022-07-27-Edge-访问-www.163.com/*-加载不了样式、JS-等文件，是因为啥？](https://www.v2ex.com/t/868934) 
-- [2022-07-26-媒体中心+软路由等其他-home-server-最佳方案？](https://www.v2ex.com/t/868909) 
-- [2022-07-26-js-this-请教](https://www.v2ex.com/t/868901) 
 - [2022-07-27-介绍一种CSS变量未定义语法也OK的小妙招-www.zhangxinxu.com](https://blogread.cn/news/go.php?idItem=15235&url=https%3A%2F%2Fwww.zhangxinxu.com%2Fwordpress%2F2022%2F06%2Fcss-var-optional-empty-trick%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

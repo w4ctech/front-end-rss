@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-07-27 09:14:07，:rocket: 更新条数: +2024， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-07-27 09:41:37，:rocket: 更新条数: +2023， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,9 @@
 </summary>
 
 
+- [2022-07-27-感个慨-B-站教程区真的太卷了，感觉每个行业的教程都卷到不行](https://www.v2ex.com/t/869065) ![](assets/new.png)  
+- [2022-07-27-Go-实现的模型推理和-API-部署框架](https://www.v2ex.com/t/869064) ![](assets/new.png)  
+- [2022-07-27-VMware-Fusion12,-虚拟机运行-win10-浏览器看视频非常卡，但是用单独的视频软件测试看本地视频一点都不卡](https://www.v2ex.com/t/869062) ![](assets/new.png)  
 - [2022-07-27-看了这个矿卡变美女一手卡视频后，我觉得显卡价格不会再跌了。](https://www.v2ex.com/t/869060) ![](assets/new.png)  
 - [2022-07-27-把-下载-目录迁移到移动硬盘，隔空投送-用不了了](https://www.v2ex.com/t/869059) ![](assets/new.png)  
 - [2022-07-27-注册亚马逊云-AWS，百元礼任选-1](https://www.v2ex.com/t/869057) ![](assets/new.png)  
@@ -508,9 +511,6 @@
 - [2022-07-27-大家有没有觉得-M2-版本的-Macbook-air，在使用-Messages-打字的时候，不太流畅？](https://www.v2ex.com/t/869037) ![](assets/new.png)  
 - [2022-07-27-package.json-的-main-和-module-字段](https://www.v2ex.com/t/869036) ![](assets/new.png)  
 - [2022-07-27-要换手机了，有什么推荐的安卓手机](https://www.v2ex.com/t/869035) ![](assets/new.png)  
-- [2022-07-27-各位大佬关于-idea-2022.2-Git-合并的问题](https://www.v2ex.com/t/869033) ![](assets/new.png)  
-- [2022-07-27-DS920+经常登录不上](https://www.v2ex.com/t/869032) ![](assets/new.png)  
-- [2022-07-27-自制冰块为啥会产生浮沫？](https://www.v2ex.com/t/869031) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -571,8 +571,8 @@
 - [2022-07-27-开源项目丨Taier1.2版本发布，新增工作流、租户绑定简化等多项功能](https://toutiao.io/k/7ay1sj5) ![](assets/new.png)  
 - [2022-07-27-这半年我做交易链路自动化回归的那些事儿...](https://toutiao.io/k/drxo0b6) ![](assets/new.png)  
 - [2022-07-27-Go-程序太大了，能要个延迟初始化不？](https://toutiao.io/k/9d1mxxm) ![](assets/new.png)  
-- [2022-07-27-推荐-聊聊Java中代码优化的30个小技巧](https://toutiao.io/k/jv8g1r6) ![](assets/new.png)  
-- [2022-07-27-推荐-花了一周，我总结了120个数据分析指标与术语。](https://toutiao.io/k/9pzybmk) ![](assets/new.png)  
+- [2022-07-27-推荐-高并发，你真的理解透彻了吗？](https://toutiao.io/k/93k2zfb) ![](assets/new.png)  
+- [2022-07-27-推荐-腾讯低代码平台正式开源！可拖拽、生成手机项目、PC-项目！接私活福利啊！](https://toutiao.io/k/8oqx21m) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

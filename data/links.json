@@ -9953,6 +9953,21 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "[感个慨] B 站教程区真的太卷了，感觉每个行业的教程都卷到不行",
+        "link": "https://www.v2ex.com/t/869065",
+        "date": "2022-07-27"
+      },
+      {
+        "title": "Go 实现的模型推理和 API 部署框架",
+        "link": "https://www.v2ex.com/t/869064",
+        "date": "2022-07-27"
+      },
+      {
+        "title": "VMware Fusion12, 虚拟机运行 win10 浏览器看视频非常卡，但是用单独的视频软件测试看本地视频一点都不卡",
+        "link": "https://www.v2ex.com/t/869062",
+        "date": "2022-07-27"
+      },
+      {
         "title": "看了这个矿卡变美女一手卡视频后，我觉得显卡价格不会再跌了。",
         "link": "https://www.v2ex.com/t/869060",
         "date": "2022-07-27"
@@ -10105,26 +10120,6 @@
       {
         "title": "求 V 友推荐快速创建官网的工具",
         "link": "https://www.v2ex.com/t/869016",
-        "date": "2022-07-27"
-      },
-      {
-        "title": "conda 环境下怎么使用 cuda、cudnn、tf 等环境",
-        "link": "https://www.v2ex.com/t/869014",
-        "date": "2022-07-27"
-      },
-      {
-        "title": "Tether 和 Bitfinex 支持的一款 P2P 视频聊天工具 Keet 上线",
-        "link": "https://www.v2ex.com/t/869013",
-        "date": "2022-07-27"
-      },
-      {
-        "title": "D3.js 能做什么有想象力的事情？",
-        "link": "https://www.v2ex.com/t/869012",
-        "date": "2022-07-27"
-      },
-      {
-        "title": "如何优雅地用一副 AirPods 一边微信语音聊天一边玩 switch 游戏？",
-        "link": "https://www.v2ex.com/t/869011",
         "date": "2022-07-27"
       }
     ]
@@ -10332,13 +10327,8 @@
         "date": "2022-07-27"
       },
       {
-        "title": "[推荐] 聊聊Java中代码优化的30个小技巧",
-        "link": "https://toutiao.io/k/jv8g1r6",
-        "date": "2022-07-27"
-      },
-      {
-        "title": "[推荐] 花了一周，我总结了120个数据分析指标与术语。",
-        "link": "https://toutiao.io/k/9pzybmk",
+        "title": "[推荐] 高并发，你真的理解透彻了吗？",
+        "link": "https://toutiao.io/k/93k2zfb",
         "date": "2022-07-27"
       },
       {
@@ -10352,8 +10342,13 @@
         "date": "2022-07-27"
       },
       {
-        "title": "[推荐] 高并发，你真的理解透彻了吗？",
-        "link": "https://toutiao.io/k/93k2zfb",
+        "title": "[推荐] 聊聊Java中代码优化的30个小技巧",
+        "link": "https://toutiao.io/k/jv8g1r6",
+        "date": "2022-07-27"
+      },
+      {
+        "title": "[推荐] 花了一周，我总结了120个数据分析指标与术语。",
+        "link": "https://toutiao.io/k/9pzybmk",
         "date": "2022-07-27"
       }
     ]

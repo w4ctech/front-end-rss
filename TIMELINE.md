@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-27 10:16:39。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-07-27 10:45:28。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -69,6 +69,11 @@
 
 
 - [【张鑫旭-鑫空间-鑫生活】2022-07-21-超酷！CSS-font-palette与彩色字体显示](https://www.zhangxinxu.com/wordpress/2022/07/css-font-palette/) 
+- [【V2EX】2022-07-27-海外如何最低成本上-CDN?](https://www.v2ex.com/t/869076) 
+- [【V2EX】2022-07-27-全职远程/靠谱长期-20K-40K/自动化测试/海外项目/税后高薪](https://www.v2ex.com/t/869075) 
+- [【V2EX】2022-07-27-各位的美区-Apple-ID-体验如何？](https://www.v2ex.com/t/869074) 
+- [【V2EX】2022-07-27-23-年了，软盘里文件还在](https://www.v2ex.com/t/869073) 
+- [【V2EX】2022-07-27-怎么可以买到比较不被坑的-iPhone-手机？](https://www.v2ex.com/t/869072) 
 - [【V2EX】2022-07-27-现在还有低功耗迷你千兆，能刷-op-的-wifi-路由器吗](https://www.v2ex.com/t/869071) 
 - [【V2EX】2022-07-27-ubuntu-/usr/include/c++/11/-下的文件报错](https://www.v2ex.com/t/869070) 
 - [【V2EX】2022-07-27-北京/上海国内头部量化机构-诚聘机器学习平台工程师-C++](https://www.v2ex.com/t/869069) 
@@ -99,11 +104,6 @@
 - [【V2EX】2022-07-27-DS920+经常登录不上](https://www.v2ex.com/t/869032) 
 - [【V2EX】2022-07-27-自制冰块为啥会产生浮沫？](https://www.v2ex.com/t/869031) 
 - [【V2EX】2022-07-27-如何查看办公机上的-EDR-是否具有截图功能？](https://www.v2ex.com/t/869029) 
-- [【V2EX】2022-07-27-备份-Ext4-分区的正确姿势](https://www.v2ex.com/t/869026) 
-- [【V2EX】2022-07-27-公司新接了亚马逊云国际业务-5.5-折长期优惠，](https://www.v2ex.com/t/869025) 
-- [【V2EX】2022-07-27-怎么关闭手机-QQ-音乐播放页右上角的直播](https://www.v2ex.com/t/869024) 
-- [【V2EX】2022-07-27-《独行月球》会成为今年的票房黑马吗](https://www.v2ex.com/t/869023) 
-- [【V2EX】2022-07-27-大家对外提供开放平台接口的时候，文档该如何选型](https://www.v2ex.com/t/869022) 
 - [【技术头条】2022-07-27-数据仓库项目从来不是技术项目-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15251&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fwhat-is-data-warehouse%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-27-Webpack-打包后代码执行时机分析与优化-www.alloyteam.com](https://blogread.cn/news/go.php?idItem=15250&url=http%3A%2F%2Fwww.alloyteam.com%2F2019%2F07%2Fwait-external-webpack-plugin%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-27-Android-框架问题分析案例---谁杀了桌面?-androidperformance.com](https://blogread.cn/news/go.php?idItem=15249&url=https%3A%2F%2Fandroidperformance.com%2F2019%2F09%2F17%2FAndroid-Kill-Background-App-Debug%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -142,11 +142,11 @@
 - [【开发者头条】2022-07-27-云原生爱好者周刊：Prometheus-架构演进之路](https://toutiao.io/k/ykcn7cg) 
 - [【开发者头条】2022-07-27-这半年我做交易链路自动化回归的那些事儿...](https://toutiao.io/k/drxo0b6) 
 - [【开发者头条】2022-07-27-Go-程序太大了，能要个延迟初始化不？](https://toutiao.io/k/9d1mxxm) 
-- [【开发者头条】2022-07-27-推荐-团队一盘散沙，怎么破？](https://toutiao.io/k/kdzpdh5) 
-- [【开发者头条】2022-07-27-推荐-花了一周，我总结了120个数据分析指标与术语。](https://toutiao.io/k/9pzybmk) 
-- [【开发者头条】2022-07-27-推荐-高并发，你真的理解透彻了吗？](https://toutiao.io/k/93k2zfb) 
 - [【开发者头条】2022-07-27-推荐-腾讯低代码平台正式开源！可拖拽、生成手机项目、PC-项目！接私活福利啊！](https://toutiao.io/k/8oqx21m) 
+- [【开发者头条】2022-07-27-推荐-高并发，你真的理解透彻了吗？](https://toutiao.io/k/93k2zfb) 
 - [【开发者头条】2022-07-27-推荐-聊聊Java中代码优化的30个小技巧](https://toutiao.io/k/jv8g1r6) 
+- [【开发者头条】2022-07-27-推荐-花了一周，我总结了120个数据分析指标与术语。](https://toutiao.io/k/9pzybmk) 
+- [【开发者头条】2022-07-27-推荐-团队一盘散沙，怎么破？](https://toutiao.io/k/kdzpdh5) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

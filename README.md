@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-07-27 10:16:39，:rocket: 更新条数: +2024， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-07-27 10:45:28，:rocket: 更新条数: +2024， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,11 @@
 </summary>
 
 
+- [2022-07-27-海外如何最低成本上-CDN?](https://www.v2ex.com/t/869076) ![](assets/new.png)  
+- [2022-07-27-全职远程/靠谱长期-20K-40K/自动化测试/海外项目/税后高薪](https://www.v2ex.com/t/869075) ![](assets/new.png)  
+- [2022-07-27-各位的美区-Apple-ID-体验如何？](https://www.v2ex.com/t/869074) ![](assets/new.png)  
+- [2022-07-27-23-年了，软盘里文件还在](https://www.v2ex.com/t/869073) ![](assets/new.png)  
+- [2022-07-27-怎么可以买到比较不被坑的-iPhone-手机？](https://www.v2ex.com/t/869072) ![](assets/new.png)  
 - [2022-07-27-现在还有低功耗迷你千兆，能刷-op-的-wifi-路由器吗](https://www.v2ex.com/t/869071) ![](assets/new.png)  
 - [2022-07-27-ubuntu-/usr/include/c++/11/-下的文件报错](https://www.v2ex.com/t/869070) ![](assets/new.png)  
 - [2022-07-27-北京/上海国内头部量化机构-诚聘机器学习平台工程师-C++](https://www.v2ex.com/t/869069) ![](assets/new.png)  
@@ -506,11 +511,6 @@
 - [2022-07-27-请教关于原生-Android-以及-GCM-推送的几个问题](https://www.v2ex.com/t/869056) ![](assets/new.png)  
 - [2022-07-27-内网服务器访问不了外网，笔记本可以连接到内网服务器，服务器怎么通过笔记本的网络访问外网](https://www.v2ex.com/t/869055) ![](assets/new.png)  
 - [2022-07-27-发现-bitwarden-不能使用通用剪贴板了](https://www.v2ex.com/t/869054) ![](assets/new.png)  
-- [2022-07-27-苹果捷径自动化可以实现监听动作吗](https://www.v2ex.com/t/869050) ![](assets/new.png)  
-- [2022-07-27-分享一种在构建阶段保护镜像安全的方法](https://www.v2ex.com/t/869048) ![](assets/new.png)  
-- [2022-07-27-原生输入法会越来越卡](https://www.v2ex.com/t/869047) ![](assets/new.png)  
-- [2022-07-27-等待程序启动的时候大家在做啥](https://www.v2ex.com/t/869046) ![](assets/new.png)  
-- [2022-07-27-求以图搜图的原理代码示例](https://www.v2ex.com/t/869043) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -571,8 +571,8 @@
 - [2022-07-27-云原生爱好者周刊：Prometheus-架构演进之路](https://toutiao.io/k/ykcn7cg) ![](assets/new.png)  
 - [2022-07-27-这半年我做交易链路自动化回归的那些事儿...](https://toutiao.io/k/drxo0b6) ![](assets/new.png)  
 - [2022-07-27-Go-程序太大了，能要个延迟初始化不？](https://toutiao.io/k/9d1mxxm) ![](assets/new.png)  
-- [2022-07-27-推荐-团队一盘散沙，怎么破？](https://toutiao.io/k/kdzpdh5) ![](assets/new.png)  
-- [2022-07-27-推荐-花了一周，我总结了120个数据分析指标与术语。](https://toutiao.io/k/9pzybmk) ![](assets/new.png)  
+- [2022-07-27-推荐-腾讯低代码平台正式开源！可拖拽、生成手机项目、PC-项目！接私活福利啊！](https://toutiao.io/k/8oqx21m) ![](assets/new.png)  
+- [2022-07-27-推荐-高并发，你真的理解透彻了吗？](https://toutiao.io/k/93k2zfb) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

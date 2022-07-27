@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-27 05:51:42。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-27 06:18:06。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 游戏开发
 
@@ -7,4 +7,5 @@
 
 
 
+- [2022-07-27-如何优雅地用一副-AirPods-一边微信语音聊天一边玩-switch-游戏？](https://www.v2ex.com/t/869011) 
 - [2022-07-27-求游戏-pc-推荐](https://www.v2ex.com/t/869007) 

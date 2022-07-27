@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-27 05:51:42。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-27 06:18:06。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,9 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-07-27-求-V-友推荐快速创建官网的工具](https://www.v2ex.com/t/869016) 
+- [2022-07-27-conda-环境下怎么使用-cuda、cudnn、tf-等环境](https://www.v2ex.com/t/869014) 
+- [2022-07-27-装-archlinux-只能跑百兆，-centos-一切正常](https://www.v2ex.com/t/869009) 
 - [2022-07-27-求助，各位有没有谈论户外装备的论坛？](https://www.v2ex.com/t/869008) 
 - [2022-07-27-新模具的-mbp-贴键盘膜还是会有屏幕压痕吗](https://www.v2ex.com/t/869005) 
 - [2022-07-27-中国版权保护中心（著作权登记系统）从前天开始一直无法登陆或登录后报-SQL-错误](https://www.v2ex.com/t/869002) 
@@ -1930,9 +1933,6 @@
 - [2022-07-27-上海求职最近面上了国企外包，有很多疑问，希望有人能帮我解答一下](https://www.v2ex.com/t/868970) 
 - [2022-07-27-class-里的继承方法改写,-要不要加-override?](https://www.v2ex.com/t/868968) 
 - [2022-07-27-深圳电信专线这么贵的吗](https://www.v2ex.com/t/868967) 
-- [2022-07-27-魔都电信宽带的出国速度是渣渣](https://www.v2ex.com/t/868966) 
-- [2022-07-27-寻找-ddd-知友](https://www.v2ex.com/t/868963) 
-- [2022-07-27-上海-不加班-外企-招-Java-、C++、安卓、中级测试、支持工程师、初级-devOps，-Java-和-测试有残疾人岗位](https://www.v2ex.com/t/868962) 
 - [2022-07-27-数据仓库项目从来不是技术项目-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15251&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fwhat-is-data-warehouse%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-27-Android-框架问题分析案例---谁杀了桌面?-androidperformance.com](https://blogread.cn/news/go.php?idItem=15249&url=https%3A%2F%2Fandroidperformance.com%2F2019%2F09%2F17%2FAndroid-Kill-Background-App-Debug%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-27-生产者消费者编程模式-www.ideawu.net](https://blogread.cn/news/go.php?idItem=15248&url=https%3A%2F%2Fwww.ideawu.net%2Fblog%2Farchives%2F1202.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1953,7 +1953,10 @@
 - [2022-07-27-聊一聊数据库的行存与列存](https://toutiao.io/k/qhft99i) 
 - [2022-07-27-Activity.onStop-延迟10秒？检测、定位、修复它！](https://toutiao.io/k/bgqqwou) 
 - [2022-07-27-Premint-恶意代码注入攻击细节分析](https://toutiao.io/k/gffxt2o) 
+- [2022-07-27-Go-程序太大了，能要个延迟初始化不？](https://toutiao.io/k/9d1mxxm) 
+- [2022-07-27-云原生爱好者周刊：Prometheus-架构演进之路](https://toutiao.io/k/ykcn7cg) 
+- [2022-07-27-这半年我做交易链路自动化回归的那些事儿...](https://toutiao.io/k/drxo0b6) 
+- [2022-07-27-推荐-团队一盘散沙，怎么破？](https://toutiao.io/k/kdzpdh5) 
 - [2022-07-27-推荐-花了一周，我总结了120个数据分析指标与术语。](https://toutiao.io/k/9pzybmk) 
 - [2022-07-27-推荐-高并发，你真的理解透彻了吗？](https://toutiao.io/k/93k2zfb) 
 - [2022-07-27-推荐-腾讯低代码平台正式开源！可拖拽、生成手机项目、PC-项目！接私活福利啊！](https://toutiao.io/k/8oqx21m) 
-- [2022-07-27-推荐-团队一盘散沙，怎么破？](https://toutiao.io/k/kdzpdh5) 

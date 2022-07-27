@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-07-27 05:51:42，:rocket: 更新条数: +2017， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-07-27 06:18:06，:rocket: 更新条数: +2022， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,13 @@
 </summary>
 
 
+- [2022-07-27-求-V-友推荐快速创建官网的工具](https://www.v2ex.com/t/869016) ![](assets/new.png)  
+- [2022-07-27-conda-环境下怎么使用-cuda、cudnn、tf-等环境](https://www.v2ex.com/t/869014) ![](assets/new.png)  
+- [2022-07-27-Tether-和-Bitfinex-支持的一款-P2P-视频聊天工具-Keet-上线](https://www.v2ex.com/t/869013) ![](assets/new.png)  
+- [2022-07-27-D3.js-能做什么有想象力的事情？](https://www.v2ex.com/t/869012) ![](assets/new.png)  
+- [2022-07-27-如何优雅地用一副-AirPods-一边微信语音聊天一边玩-switch-游戏？](https://www.v2ex.com/t/869011) ![](assets/new.png)  
+- [2022-07-27-问下如何优化笔记本卡顿](https://www.v2ex.com/t/869010) ![](assets/new.png)  
+- [2022-07-27-装-archlinux-只能跑百兆，-centos-一切正常](https://www.v2ex.com/t/869009) ![](assets/new.png)  
 - [2022-07-27-求助，各位有没有谈论户外装备的论坛？](https://www.v2ex.com/t/869008) ![](assets/new.png)  
 - [2022-07-27-求游戏-pc-推荐](https://www.v2ex.com/t/869007) ![](assets/new.png)  
 - [2022-07-27-新模具的-mbp-贴键盘膜还是会有屏幕压痕吗](https://www.v2ex.com/t/869005) ![](assets/new.png)  
@@ -504,13 +511,6 @@
 - [2022-07-27-关于产假工资](https://www.v2ex.com/t/868990) ![](assets/new.png)  
 - [2022-07-27-全职远程长期稳定-招募-产品/UI-设计师](https://www.v2ex.com/t/868989) ![](assets/new.png)  
 - [2022-07-27-React-中如何可以实现-vue3.2-新增的-effectScope-特性呢？](https://www.v2ex.com/t/868986) ![](assets/new.png)  
-- [2022-07-27-人在加拿大，为何就知乎和百度云老是要验证手机号，别的网站/APP-不需要？](https://www.v2ex.com/t/868985) ![](assets/new.png)  
-- [2022-07-27-IDEA-2022.2-开启-ZGC-的问题](https://www.v2ex.com/t/868984) ![](assets/new.png)  
-- [2022-07-27-IDEA-2022.2-正式发布，-Runtime-17-终于到正式版了](https://www.v2ex.com/t/868983) ![](assets/new.png)  
-- [2022-07-27-Linux-github-一些问题](https://www.v2ex.com/t/868982) ![](assets/new.png)  
-- [2022-07-27-有字节跳动的前端吗，你们的前端公共库-CDN-有个-BUG](https://www.v2ex.com/t/868981) ![](assets/new.png)  
-- [2022-07-27-福田区石厦北缔馨园一房一厅户型出租](https://www.v2ex.com/t/868977) ![](assets/new.png)  
-- [2022-07-27-有没有快速搭建-socks5-/-http-正向代理服务器的方案？](https://www.v2ex.com/t/868976) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -567,11 +567,12 @@
 - [2022-07-27-一文详解图像中的无监督学习](https://toutiao.io/k/2arzcsm) ![](assets/new.png)  
 - [2022-07-27-Activity.onStop-延迟10秒？检测、定位、修复它！](https://toutiao.io/k/bgqqwou) ![](assets/new.png)  
 - [2022-07-27-Premint-恶意代码注入攻击细节分析](https://toutiao.io/k/gffxt2o) ![](assets/new.png)  
-- [2022-07-27-推荐-花了一周，我总结了120个数据分析指标与术语。](https://toutiao.io/k/9pzybmk) ![](assets/new.png)  
-- [2022-07-27-推荐-聊聊Java中代码优化的30个小技巧](https://toutiao.io/k/jv8g1r6) ![](assets/new.png)  
-- [2022-07-27-推荐-高并发，你真的理解透彻了吗？](https://toutiao.io/k/93k2zfb) ![](assets/new.png)  
-- [2022-07-27-推荐-腾讯低代码平台正式开源！可拖拽、生成手机项目、PC-项目！接私活福利啊！](https://toutiao.io/k/8oqx21m) ![](assets/new.png)  
+- [2022-07-27-Go-程序太大了，能要个延迟初始化不？](https://toutiao.io/k/9d1mxxm) ![](assets/new.png)  
+- [2022-07-27-云原生爱好者周刊：Prometheus-架构演进之路](https://toutiao.io/k/ykcn7cg) ![](assets/new.png)  
+- [2022-07-27-这半年我做交易链路自动化回归的那些事儿...](https://toutiao.io/k/drxo0b6) ![](assets/new.png)  
+- [2022-07-27-开源项目丨Taier1.2版本发布，新增工作流、租户绑定简化等多项功能](https://toutiao.io/k/7ay1sj5) ![](assets/new.png)  
 - [2022-07-27-推荐-团队一盘散沙，怎么破？](https://toutiao.io/k/kdzpdh5) ![](assets/new.png)  
+- [2022-07-27-推荐-花了一周，我总结了120个数据分析指标与术语。](https://toutiao.io/k/9pzybmk) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

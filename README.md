@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-07-27 20:15:10，:rocket: 更新条数: +2027， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-07-27 20:40:08，:rocket: 更新条数: +2027， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -565,14 +565,14 @@
 - [2022-07-27-我们真的需要抛弃-C/C++,-JAVA,-GOLANG,-去拥抱-RUST-吗-?!](https://toutiao.io/k/vv1qk1a) ![](assets/new.png)  
 - [2022-07-27-【300+精选大厂面试题持续分享】大数据运维尖刀面试题专栏（八）](https://toutiao.io/k/2g8u2fa) ![](assets/new.png)  
 - [2022-07-27-一文详解图像中的无监督学习](https://toutiao.io/k/2arzcsm) ![](assets/new.png)  
-- [2022-07-27-Premint-恶意代码注入攻击细节分析](https://toutiao.io/k/gffxt2o) ![](assets/new.png)  
 - [2022-07-27-Activity.onStop-延迟10秒？检测、定位、修复它！](https://toutiao.io/k/bgqqwou) ![](assets/new.png)  
+- [2022-07-27-Premint-恶意代码注入攻击细节分析](https://toutiao.io/k/gffxt2o) ![](assets/new.png)  
 - [2022-07-27-云原生爱好者周刊：Prometheus-架构演进之路](https://toutiao.io/k/ykcn7cg) ![](assets/new.png)  
 - [2022-07-27-开源项目丨Taier1.2版本发布，新增工作流、租户绑定简化等多项功能](https://toutiao.io/k/7ay1sj5) ![](assets/new.png)  
 - [2022-07-27-Go-程序太大了，能要个延迟初始化不？](https://toutiao.io/k/9d1mxxm) ![](assets/new.png)  
 - [2022-07-27-这半年我做交易链路自动化回归的那些事儿...](https://toutiao.io/k/drxo0b6) ![](assets/new.png)  
-- [2022-07-27-推荐-团队一盘散沙，怎么破？](https://toutiao.io/k/kdzpdh5) ![](assets/new.png)  
 - [2022-07-27-推荐-花了一周，我总结了120个数据分析指标与术语。](https://toutiao.io/k/9pzybmk) ![](assets/new.png)  
+- [2022-07-27-推荐-聊聊Java中代码优化的30个小技巧](https://toutiao.io/k/jv8g1r6) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

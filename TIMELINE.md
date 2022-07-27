@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-27 04:49:07。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-07-27 05:31:17。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -69,6 +69,11 @@
 
 
 - [【张鑫旭-鑫空间-鑫生活】2022-07-21-超酷！CSS-font-palette与彩色字体显示](https://www.zhangxinxu.com/wordpress/2022/07/css-font-palette/) 
+- [【V2EX】2022-07-27-新模具的-mbp-贴键盘膜还是会有屏幕压痕吗](https://www.v2ex.com/t/869005) 
+- [【V2EX】2022-07-27-后端开发如何快速给自己的小项目做前端的？](https://www.v2ex.com/t/869004) 
+- [【V2EX】2022-07-27-中国版权保护中心（著作权登记系统）从前天开始一直无法登陆或登录后报-SQL-错误](https://www.v2ex.com/t/869002) 
+- [【V2EX】2022-07-27-可以拿到微信的-token-用来进行与好友通信吗](https://www.v2ex.com/t/869000) 
+- [【V2EX】2022-07-27-请问-hadoop-多块磁盘只部署一个-datanode-好还是每块磁盘各部署一个-datanode](https://www.v2ex.com/t/868999) 
 - [【V2EX】2022-07-27-广州的-it-大佬们，你们现在是双休还是大小周？还是单休？](https://www.v2ex.com/t/868998) 
 - [【V2EX】2022-07-27-Java-相关书籍出售base-杭州](https://www.v2ex.com/t/868997) 
 - [【V2EX】2022-07-27-被外包公司抛弃了，不给任何赔偿让我走](https://www.v2ex.com/t/868995) 
@@ -84,7 +89,6 @@
 - [【V2EX】2022-07-27-有字节跳动的前端吗，你们的前端公共库-CDN-有个-BUG](https://www.v2ex.com/t/868981) 
 - [【V2EX】2022-07-27-福田区石厦北缔馨园一房一厅户型出租](https://www.v2ex.com/t/868977) 
 - [【V2EX】2022-07-27-有没有快速搭建-socks5-/-http-正向代理服务器的方案？](https://www.v2ex.com/t/868976) 
-- [【V2EX】2022-07-27-2022-年了，-iPhone-怎么装小飞机出国](https://www.v2ex.com/t/868975) 
 - [【V2EX】2022-07-27-safari-有没有办法-暂时/临时-allow-insure-content？](https://www.v2ex.com/t/868974) 
 - [【V2EX】2022-07-27-idea-换了新-UI-之后，怎么在右上角用-jrebel&XRebel-运行项目？找不到-jrebel-的图标了](https://www.v2ex.com/t/868973) 
 - [【V2EX】2022-07-27-同学建筑设计的，来杭州快一个月了，面试机会只有-4-5-次，要不要建议他转行。然后想问下大家，都比较看好啥行业。他的哥哥，想让他搞直播运营，但是看他的态度...](https://www.v2ex.com/t/868972) 
@@ -100,12 +104,6 @@
 - [【V2EX】2022-07-27-10-年经验路过，全栈经验，区块链，-PHP-Java-小程序前段-通吃，这方面的软件开发的比较多，有相关案例，时间充裕，诚心合作，个人全职工作，有需要请联系我-飞...](https://www.v2ex.com/t/868958) 
 - [【V2EX】2022-07-27-喜提-1-星评价纪念一下](https://www.v2ex.com/t/868957) 
 - [【V2EX】2022-07-27-mac-转-windows-好难受，尤其是键盘，大家有什么好的解决方案吗？](https://www.v2ex.com/t/868956) 
-- [【V2EX】2022-07-27-电脑老是莫名奇妙的删除当前窗口的文件](https://www.v2ex.com/t/868954) 
-- [【V2EX】2022-07-27-Windows-软件快捷小工具](https://www.v2ex.com/t/868953) 
-- [【V2EX】2022-07-27-妙言我咋一直闪退呢](https://www.v2ex.com/t/868952) 
-- [【V2EX】2022-07-27-企微的聊天加密](https://www.v2ex.com/t/868951) 
-- [【V2EX】2022-07-27-windows-上面跑-docker-有什么最佳实践吗](https://www.v2ex.com/t/868950) 
-- [【V2EX】2022-07-27-CVE-2022-34169-这个有人在跟么？](https://www.v2ex.com/t/868949) 
 - [【技术头条】2022-07-27-数据仓库项目从来不是技术项目-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15251&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fwhat-is-data-warehouse%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-27-Webpack-打包后代码执行时机分析与优化-www.alloyteam.com](https://blogread.cn/news/go.php?idItem=15250&url=http%3A%2F%2Fwww.alloyteam.com%2F2019%2F07%2Fwait-external-webpack-plugin%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-27-Android-框架问题分析案例---谁杀了桌面?-androidperformance.com](https://blogread.cn/news/go.php?idItem=15249&url=https%3A%2F%2Fandroidperformance.com%2F2019%2F09%2F17%2FAndroid-Kill-Background-App-Debug%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -136,15 +134,15 @@
 - [【开发者头条】2022-07-27-聊一聊数据库的行存与列存](https://toutiao.io/k/qhft99i) 
 - [【开发者头条】2022-07-27-代码杂谈:从一道面试题看学会Rust的难度](https://toutiao.io/k/xhuqr2c) 
 - [【开发者头条】2022-07-27-一文详解图像中的无监督学习](https://toutiao.io/k/2arzcsm) 
-- [【开发者头条】2022-07-27-【300+精选大厂面试题持续分享】大数据运维尖刀面试题专栏（八）](https://toutiao.io/k/2g8u2fa) 
 - [【开发者头条】2022-07-27-郑建勋：代码优化的三重境界](https://toutiao.io/k/6eobfqp) 
-- [【开发者头条】2022-07-27-Premint-恶意代码注入攻击细节分析](https://toutiao.io/k/gffxt2o) 
+- [【开发者头条】2022-07-27-【300+精选大厂面试题持续分享】大数据运维尖刀面试题专栏（八）](https://toutiao.io/k/2g8u2fa) 
 - [【开发者头条】2022-07-27-Activity.onStop-延迟10秒？检测、定位、修复它！](https://toutiao.io/k/bgqqwou) 
-- [【开发者头条】2022-07-27-推荐-腾讯低代码平台正式开源！可拖拽、生成手机项目、PC-项目！接私活福利啊！](https://toutiao.io/k/8oqx21m) 
-- [【开发者头条】2022-07-27-推荐-聊聊Java中代码优化的30个小技巧](https://toutiao.io/k/jv8g1r6) 
-- [【开发者头条】2022-07-27-推荐-高并发，你真的理解透彻了吗？](https://toutiao.io/k/93k2zfb) 
+- [【开发者头条】2022-07-27-Premint-恶意代码注入攻击细节分析](https://toutiao.io/k/gffxt2o) 
 - [【开发者头条】2022-07-27-推荐-花了一周，我总结了120个数据分析指标与术语。](https://toutiao.io/k/9pzybmk) 
 - [【开发者头条】2022-07-27-推荐-团队一盘散沙，怎么破？](https://toutiao.io/k/kdzpdh5) 
+- [【开发者头条】2022-07-27-推荐-聊聊Java中代码优化的30个小技巧](https://toutiao.io/k/jv8g1r6) 
+- [【开发者头条】2022-07-27-推荐-腾讯低代码平台正式开源！可拖拽、生成手机项目、PC-项目！接私活福利啊！](https://toutiao.io/k/8oqx21m) 
+- [【开发者头条】2022-07-27-推荐-高并发，你真的理解透彻了吗？](https://toutiao.io/k/93k2zfb) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

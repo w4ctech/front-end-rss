@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-07-27 04:49:07，:rocket: 更新条数: +2022， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-07-27 05:31:17，:rocket: 更新条数: +2020， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,11 @@
 </summary>
 
 
+- [2022-07-27-新模具的-mbp-贴键盘膜还是会有屏幕压痕吗](https://www.v2ex.com/t/869005) ![](assets/new.png)  
+- [2022-07-27-后端开发如何快速给自己的小项目做前端的？](https://www.v2ex.com/t/869004) ![](assets/new.png)  
+- [2022-07-27-中国版权保护中心（著作权登记系统）从前天开始一直无法登陆或登录后报-SQL-错误](https://www.v2ex.com/t/869002) ![](assets/new.png)  
+- [2022-07-27-可以拿到微信的-token-用来进行与好友通信吗](https://www.v2ex.com/t/869000) ![](assets/new.png)  
+- [2022-07-27-请问-hadoop-多块磁盘只部署一个-datanode-好还是每块磁盘各部署一个-datanode](https://www.v2ex.com/t/868999) ![](assets/new.png)  
 - [2022-07-27-广州的-it-大佬们，你们现在是双休还是大小周？还是单休？](https://www.v2ex.com/t/868998) ![](assets/new.png)  
 - [2022-07-27-Java-相关书籍出售base-杭州](https://www.v2ex.com/t/868997) ![](assets/new.png)  
 - [2022-07-27-被外包公司抛弃了，不给任何赔偿让我走](https://www.v2ex.com/t/868995) ![](assets/new.png)  
@@ -506,11 +511,6 @@
 - [2022-07-27-有字节跳动的前端吗，你们的前端公共库-CDN-有个-BUG](https://www.v2ex.com/t/868981) ![](assets/new.png)  
 - [2022-07-27-福田区石厦北缔馨园一房一厅户型出租](https://www.v2ex.com/t/868977) ![](assets/new.png)  
 - [2022-07-27-有没有快速搭建-socks5-/-http-正向代理服务器的方案？](https://www.v2ex.com/t/868976) ![](assets/new.png)  
-- [2022-07-27-2022-年了，-iPhone-怎么装小飞机出国](https://www.v2ex.com/t/868975) ![](assets/new.png)  
-- [2022-07-27-safari-有没有办法-暂时/临时-allow-insure-content？](https://www.v2ex.com/t/868974) ![](assets/new.png)  
-- [2022-07-27-idea-换了新-UI-之后，怎么在右上角用-jrebel&XRebel-运行项目？找不到-jrebel-的图标了](https://www.v2ex.com/t/868973) ![](assets/new.png)  
-- [2022-07-27-同学建筑设计的，来杭州快一个月了，面试机会只有-4-5-次，要不要建议他转行。然后想问下大家，都比较看好啥行业。他的哥哥，想让他搞直播运营，但是看他的态度...](https://www.v2ex.com/t/868972) ![](assets/new.png)  
-- [2022-07-27-上海求职最近面上了国企外包，有很多疑问，希望有人能帮我解答一下](https://www.v2ex.com/t/868970) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -563,15 +563,15 @@
 - [2022-07-27-聊一聊数据库的行存与列存](https://toutiao.io/k/qhft99i) ![](assets/new.png)  
 - [2022-07-27-代码杂谈:从一道面试题看学会Rust的难度](https://toutiao.io/k/xhuqr2c) ![](assets/new.png)  
 - [2022-07-27-一文详解图像中的无监督学习](https://toutiao.io/k/2arzcsm) ![](assets/new.png)  
-- [2022-07-27-【300+精选大厂面试题持续分享】大数据运维尖刀面试题专栏（八）](https://toutiao.io/k/2g8u2fa) ![](assets/new.png)  
 - [2022-07-27-郑建勋：代码优化的三重境界](https://toutiao.io/k/6eobfqp) ![](assets/new.png)  
-- [2022-07-27-Premint-恶意代码注入攻击细节分析](https://toutiao.io/k/gffxt2o) ![](assets/new.png)  
+- [2022-07-27-【300+精选大厂面试题持续分享】大数据运维尖刀面试题专栏（八）](https://toutiao.io/k/2g8u2fa) ![](assets/new.png)  
 - [2022-07-27-Activity.onStop-延迟10秒？检测、定位、修复它！](https://toutiao.io/k/bgqqwou) ![](assets/new.png)  
-- [2022-07-27-推荐-腾讯低代码平台正式开源！可拖拽、生成手机项目、PC-项目！接私活福利啊！](https://toutiao.io/k/8oqx21m) ![](assets/new.png)  
-- [2022-07-27-推荐-聊聊Java中代码优化的30个小技巧](https://toutiao.io/k/jv8g1r6) ![](assets/new.png)  
-- [2022-07-27-推荐-高并发，你真的理解透彻了吗？](https://toutiao.io/k/93k2zfb) ![](assets/new.png)  
+- [2022-07-27-Premint-恶意代码注入攻击细节分析](https://toutiao.io/k/gffxt2o) ![](assets/new.png)  
 - [2022-07-27-推荐-花了一周，我总结了120个数据分析指标与术语。](https://toutiao.io/k/9pzybmk) ![](assets/new.png)  
 - [2022-07-27-推荐-团队一盘散沙，怎么破？](https://toutiao.io/k/kdzpdh5) ![](assets/new.png)  
+- [2022-07-27-推荐-聊聊Java中代码优化的30个小技巧](https://toutiao.io/k/jv8g1r6) ![](assets/new.png)  
+- [2022-07-27-推荐-腾讯低代码平台正式开源！可拖拽、生成手机项目、PC-项目！接私活福利啊！](https://toutiao.io/k/8oqx21m) ![](assets/new.png)  
+- [2022-07-27-推荐-高并发，你真的理解透彻了吗？](https://toutiao.io/k/93k2zfb) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

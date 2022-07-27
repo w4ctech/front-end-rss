@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-07-27 04:49:07。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-27 05:31:17。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -106,6 +106,7 @@
 
 
 
+- [【V2EX】请问-hadoop-多块磁盘只部署一个-datanode-好还是每块磁盘各部署一个-datanode](https://www.v2ex.com/t/868999)
 - [......【查看更多】......](./details/tags/nodejs.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -322,7 +323,6 @@
 
 
 
-- [【V2EX】windows-上面跑-docker-有什么最佳实践吗](https://www.v2ex.com/t/868950)
 - [【技术头条】提升-Docker-Desktop-For-macOS-磁盘使用率-soulteary.com](https://blogread.cn/news/go.php?idItem=15236&url=https%3A%2F%2Fsoulteary.com%2F2021%2F04%2F24%2Fimprove-docker-desktop-for-macos-disk-usage.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [......【查看更多】......](./details/tags/server.md)
 

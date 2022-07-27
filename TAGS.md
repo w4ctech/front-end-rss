@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-07-27 12:29:36。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-27 13:23:39。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -183,7 +183,6 @@
 - [【张鑫旭-鑫空间-鑫生活】深入-JS-new-Function-语法](https://www.zhangxinxu.com/wordpress/2022/04/js-new-function/)
 - [【V2EX】JS-axios-async/await-好像只能返回-promise](https://www.v2ex.com/t/869082)
 - [【V2EX】现在还有低功耗迷你千兆，能刷-op-的-wifi-路由器吗](https://www.v2ex.com/t/869071)
-- [【V2EX】package.json-的-main-和-module-字段](https://www.v2ex.com/t/869036)
 - [【技术头条】介绍一种CSS变量未定义语法也OK的小妙招-www.zhangxinxu.com](https://blogread.cn/news/go.php?idItem=15235&url=https%3A%2F%2Fwww.zhangxinxu.com%2Fwordpress%2F2022%2F06%2Fcss-var-optional-empty-trick%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [......【查看更多】......](./details/tags/javascript.md)
 
@@ -240,6 +239,7 @@
 
 - [【武汉肺炎防疫全纪录(财新网)】广州17岁男生在定点医院参加高考-特殊考场视频监考](https://m.caixin.com/m/2021-06-05/101723418.html)
 - [【武汉肺炎防疫全纪录(财新网)】林郑月娥率13高官直播接种科兴疫苗-复星疫苗预计周中到港](https://m.caixin.com/m/2021-02-22/101665724.html)
+- [【V2EX】对于分辨率帧率相同的视频，如果编码器的压缩能力越高，是不是码率越低？](https://www.v2ex.com/t/869089)
 - [【V2EX】VMware-Fusion12,-虚拟机运行-win10-浏览器看视频非常卡，但是用单独的视频软件测试看本地视频一点都不卡](https://www.v2ex.com/t/869062)
 - [【V2EX】看了这个矿卡变美女一手卡视频后，我觉得显卡价格不会再跌了。](https://www.v2ex.com/t/869060)
 - [【开发者头条】一文详解图像中的无监督学习](https://toutiao.io/k/2arzcsm)

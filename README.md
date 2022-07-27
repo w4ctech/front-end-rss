@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-07-27 12:29:36，:rocket: 更新条数: +2025， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-07-27 13:23:39，:rocket: 更新条数: +2025， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,13 @@
 </summary>
 
 
+- [2022-07-27-unity-hub-不能获取免费的许可证了？](https://www.v2ex.com/t/869095) ![](assets/new.png)  
+- [2022-07-27-你们的机顶盒支持鼠标吗？](https://www.v2ex.com/t/869094) ![](assets/new.png)  
+- [2022-07-27-你们的-mac-左右风扇最大转速一样吗？](https://www.v2ex.com/t/869092) ![](assets/new.png)  
+- [2022-07-27-Facebook-应用被禁用，陷入死循环了](https://www.v2ex.com/t/869091) ![](assets/new.png)  
+- [2022-07-27-联通的智能应答挺有意思](https://www.v2ex.com/t/869090) ![](assets/new.png)  
+- [2022-07-27-对于分辨率帧率相同的视频，如果编码器的压缩能力越高，是不是码率越低？](https://www.v2ex.com/t/869089) ![](assets/new.png)  
+- [2022-07-27-VMware-Workstation-怎么全局关闭硬件加速？](https://www.v2ex.com/t/869087) ![](assets/new.png)  
 - [2022-07-27-Chrome-自动添加开机登陆项-,-能解决吗?](https://www.v2ex.com/t/869083) ![](assets/new.png)  
 - [2022-07-27-JS-axios-async/await-好像只能返回-promise](https://www.v2ex.com/t/869082) ![](assets/new.png)  
 - [2022-07-27-戒烟好难啊，每次敲代码烦了都想来一根](https://www.v2ex.com/t/869081) ![](assets/new.png)  
@@ -504,13 +511,6 @@
 - [2022-07-27-现在还有低功耗迷你千兆，能刷-op-的-wifi-路由器吗](https://www.v2ex.com/t/869071) ![](assets/new.png)  
 - [2022-07-27-ubuntu-/usr/include/c++/11/-下的文件报错](https://www.v2ex.com/t/869070) ![](assets/new.png)  
 - [2022-07-27-北京/上海国内头部量化机构-诚聘机器学习平台工程师-C++](https://www.v2ex.com/t/869069) ![](assets/new.png)  
-- [2022-07-27-这是-V2EX-的镜像站还是爬取的文章？](https://www.v2ex.com/t/869068) ![](assets/new.png)  
-- [2022-07-27-手机三方店换外屏之后出现问题的责任归属](https://www.v2ex.com/t/869067) ![](assets/new.png)  
-- [2022-07-27-make-constructor：一个自动为-struct-生成-NewXXX-构造器代码的命令行工具。无需安装，可以通过加入代码注释的方式直接使用](https://www.v2ex.com/t/869066) ![](assets/new.png)  
-- [2022-07-27-感个慨-B-站教程区真的太卷了，感觉每个行业的教程都卷到不行](https://www.v2ex.com/t/869065) ![](assets/new.png)  
-- [2022-07-27-Go-实现的模型推理和-API-部署框架](https://www.v2ex.com/t/869064) ![](assets/new.png)  
-- [2022-07-27-VMware-Fusion12,-虚拟机运行-win10-浏览器看视频非常卡，但是用单独的视频软件测试看本地视频一点都不卡](https://www.v2ex.com/t/869062) ![](assets/new.png)  
-- [2022-07-27-看了这个矿卡变美女一手卡视频后，我觉得显卡价格不会再跌了。](https://www.v2ex.com/t/869060) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -571,8 +571,8 @@
 - [2022-07-27-开源项目丨Taier1.2版本发布，新增工作流、租户绑定简化等多项功能](https://toutiao.io/k/7ay1sj5) ![](assets/new.png)  
 - [2022-07-27-这半年我做交易链路自动化回归的那些事儿...](https://toutiao.io/k/drxo0b6) ![](assets/new.png)  
 - [2022-07-27-Go-程序太大了，能要个延迟初始化不？](https://toutiao.io/k/9d1mxxm) ![](assets/new.png)  
-- [2022-07-27-推荐-花了一周，我总结了120个数据分析指标与术语。](https://toutiao.io/k/9pzybmk) ![](assets/new.png)  
-- [2022-07-27-推荐-聊聊Java中代码优化的30个小技巧](https://toutiao.io/k/jv8g1r6) ![](assets/new.png)  
+- [2022-07-27-推荐-高并发，你真的理解透彻了吗？](https://toutiao.io/k/93k2zfb) ![](assets/new.png)  
+- [2022-07-27-推荐-腾讯低代码平台正式开源！可拖拽、生成手机项目、PC-项目！接私活福利啊！](https://toutiao.io/k/8oqx21m) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

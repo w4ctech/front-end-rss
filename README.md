@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-07-27 06:48:17，:rocket: 更新条数: +2023， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-07-27 07:14:41，:rocket: 更新条数: +2024， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,10 @@
 </summary>
 
 
+- [2022-07-27-备份-Ext4-分区的正确姿势](https://www.v2ex.com/t/869026) ![](assets/new.png)  
+- [2022-07-27-公司新接了亚马逊云国际业务-5.5-折长期优惠，](https://www.v2ex.com/t/869025) ![](assets/new.png)  
+- [2022-07-27-怎么关闭手机-QQ-音乐播放页右上角的直播](https://www.v2ex.com/t/869024) ![](assets/new.png)  
+- [2022-07-27-《独行月球》会成为今年的票房黑马吗](https://www.v2ex.com/t/869023) ![](assets/new.png)  
 - [2022-07-27-大家对外提供开放平台接口的时候，文档该如何选型](https://www.v2ex.com/t/869022) ![](assets/new.png)  
 - [2022-07-27-想找名小伙伴一起开发-NFT-工具类平台](https://www.v2ex.com/t/869021) ![](assets/new.png)  
 - [2022-07-27-手上有十几台云主机，在合法的前提下，可以干点儿啥回本呢](https://www.v2ex.com/t/869020) ![](assets/new.png)  
@@ -507,10 +511,6 @@
 - [2022-07-27-求游戏-pc-推荐](https://www.v2ex.com/t/869007) ![](assets/new.png)  
 - [2022-07-27-新模具的-mbp-贴键盘膜还是会有屏幕压痕吗](https://www.v2ex.com/t/869005) ![](assets/new.png)  
 - [2022-07-27-中国版权保护中心（著作权登记系统）从前天开始一直无法登陆或登录后报-SQL-错误](https://www.v2ex.com/t/869002) ![](assets/new.png)  
-- [2022-07-27-可以拿到微信的-token-用来进行与好友通信吗](https://www.v2ex.com/t/869000) ![](assets/new.png)  
-- [2022-07-27-请问-hadoop-多块磁盘只部署一个-datanode-好还是每块磁盘各部署一个-datanode](https://www.v2ex.com/t/868999) ![](assets/new.png)  
-- [2022-07-27-广州的-it-大佬们，你们现在是双休还是大小周？还是单休？](https://www.v2ex.com/t/868998) ![](assets/new.png)  
-- [2022-07-27-Java-相关书籍出售base-杭州](https://www.v2ex.com/t/868997) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -569,10 +569,10 @@
 - [2022-07-27-Premint-恶意代码注入攻击细节分析](https://toutiao.io/k/gffxt2o) ![](assets/new.png)  
 - [2022-07-27-云原生爱好者周刊：Prometheus-架构演进之路](https://toutiao.io/k/ykcn7cg) ![](assets/new.png)  
 - [2022-07-27-这半年我做交易链路自动化回归的那些事儿...](https://toutiao.io/k/drxo0b6) ![](assets/new.png)  
-- [2022-07-27-Go-程序太大了，能要个延迟初始化不？](https://toutiao.io/k/9d1mxxm) ![](assets/new.png)  
 - [2022-07-27-开源项目丨Taier1.2版本发布，新增工作流、租户绑定简化等多项功能](https://toutiao.io/k/7ay1sj5) ![](assets/new.png)  
-- [2022-07-27-推荐-团队一盘散沙，怎么破？](https://toutiao.io/k/kdzpdh5) ![](assets/new.png)  
+- [2022-07-27-Go-程序太大了，能要个延迟初始化不？](https://toutiao.io/k/9d1mxxm) ![](assets/new.png)  
 - [2022-07-27-推荐-聊聊Java中代码优化的30个小技巧](https://toutiao.io/k/jv8g1r6) ![](assets/new.png)  
+- [2022-07-27-推荐-高并发，你真的理解透彻了吗？](https://toutiao.io/k/93k2zfb) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

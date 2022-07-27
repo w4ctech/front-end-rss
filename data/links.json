@@ -9953,6 +9953,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "求 Chrome 插件：网页上批注并导出 pdf",
+        "link": "https://www.v2ex.com/t/869127",
+        "date": "2022-07-27"
+      },
+      {
         "title": "如何看待「长辈爱比较」这个问题？",
         "link": "https://www.v2ex.com/t/869126",
         "date": "2022-07-27"
@@ -10140,11 +10145,6 @@
       {
         "title": "免费送 30 张七月在线 VIP 卡",
         "link": "https://www.v2ex.com/t/869080",
-        "date": "2022-07-27"
-      },
-      {
-        "title": "为什么 U+F061 字符粘贴到 Word 里会显示为小写希腊字母α？",
-        "link": "https://www.v2ex.com/t/869077",
         "date": "2022-07-27"
       }
     ]
@@ -10352,13 +10352,13 @@
         "date": "2022-07-27"
       },
       {
-        "title": "[推荐] 花了一周，我总结了120个数据分析指标与术语。",
-        "link": "https://toutiao.io/k/9pzybmk",
+        "title": "[推荐] 团队一盘散沙，怎么破？",
+        "link": "https://toutiao.io/k/kdzpdh5",
         "date": "2022-07-27"
       },
       {
-        "title": "[推荐] 聊聊Java中代码优化的30个小技巧",
-        "link": "https://toutiao.io/k/jv8g1r6",
+        "title": "[推荐] 花了一周，我总结了120个数据分析指标与术语。",
+        "link": "https://toutiao.io/k/9pzybmk",
         "date": "2022-07-27"
       },
       {
@@ -10367,8 +10367,8 @@
         "date": "2022-07-27"
       },
       {
-        "title": "[推荐] 团队一盘散沙，怎么破？",
-        "link": "https://toutiao.io/k/kdzpdh5",
+        "title": "[推荐] 聊聊Java中代码优化的30个小技巧",
+        "link": "https://toutiao.io/k/jv8g1r6",
         "date": "2022-07-27"
       }
     ]

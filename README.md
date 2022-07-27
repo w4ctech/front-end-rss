@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-07-27 21:39:09，:rocket: 更新条数: +2027， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-07-27 22:14:44，:rocket: 更新条数: +2028， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-07-27-买蜂窝版时需要注意手机套餐结算类型](https://www.v2ex.com/t/869128) ![](assets/new.png)  
 - [2022-07-27-求-Chrome-插件：网页上批注并导出-pdf](https://www.v2ex.com/t/869127) ![](assets/new.png)  
 - [2022-07-27-如何看待「长辈爱比较」这个问题？](https://www.v2ex.com/t/869126) ![](assets/new.png)  
 - [2022-07-27-iOS-上越来越多国内-app-开代理就不让用。这种情况的本质原因是什么？有无好的手段制裁这种行为](https://www.v2ex.com/t/869124) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-07-27-看到一个状态栏工具，感觉挺好看的](https://www.v2ex.com/t/869108) ![](assets/new.png)  
 - [2022-07-27-HVV](https://www.v2ex.com/t/869107) ![](assets/new.png)  
 - [2022-07-27-IDEA-2022.2-卡在-UI-界面](https://www.v2ex.com/t/869106) ![](assets/new.png)  
-- [2022-07-27-一个手滑干烂了-watch-的外屏，求推荐一个靠谱的第三方维修](https://www.v2ex.com/t/869105) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -572,7 +572,7 @@
 - [2022-07-27-Go-程序太大了，能要个延迟初始化不？](https://toutiao.io/k/9d1mxxm) ![](assets/new.png)  
 - [2022-07-27-这半年我做交易链路自动化回归的那些事儿...](https://toutiao.io/k/drxo0b6) ![](assets/new.png)  
 - [2022-07-27-推荐-花了一周，我总结了120个数据分析指标与术语。](https://toutiao.io/k/9pzybmk) ![](assets/new.png)  
-- [2022-07-27-推荐-聊聊Java中代码优化的30个小技巧](https://toutiao.io/k/jv8g1r6) ![](assets/new.png)  
+- [2022-07-27-推荐-团队一盘散沙，怎么破？](https://toutiao.io/k/kdzpdh5) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

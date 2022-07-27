@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-07-27 14:03:03，:rocket: 更新条数: +2025， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-07-27 14:21:17，:rocket: 更新条数: +2025， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -569,9 +569,9 @@
 - [2022-07-27-Premint-恶意代码注入攻击细节分析](https://toutiao.io/k/gffxt2o) ![](assets/new.png)  
 - [2022-07-27-云原生爱好者周刊：Prometheus-架构演进之路](https://toutiao.io/k/ykcn7cg) ![](assets/new.png)  
 - [2022-07-27-开源项目丨Taier1.2版本发布，新增工作流、租户绑定简化等多项功能](https://toutiao.io/k/7ay1sj5) ![](assets/new.png)  
-- [2022-07-27-这半年我做交易链路自动化回归的那些事儿...](https://toutiao.io/k/drxo0b6) ![](assets/new.png)  
 - [2022-07-27-Go-程序太大了，能要个延迟初始化不？](https://toutiao.io/k/9d1mxxm) ![](assets/new.png)  
-- [2022-07-27-推荐-团队一盘散沙，怎么破？](https://toutiao.io/k/kdzpdh5) ![](assets/new.png)  
+- [2022-07-27-这半年我做交易链路自动化回归的那些事儿...](https://toutiao.io/k/drxo0b6) ![](assets/new.png)  
+- [2022-07-27-推荐-高并发，你真的理解透彻了吗？](https://toutiao.io/k/93k2zfb) ![](assets/new.png)  
 - [2022-07-27-推荐-花了一周，我总结了120个数据分析指标与术语。](https://toutiao.io/k/9pzybmk) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-07-27 11:37:59，:rocket: 更新条数: +2024， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-07-27 12:29:36，:rocket: 更新条数: +2025， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,10 @@
 </summary>
 
 
+- [2022-07-27-Chrome-自动添加开机登陆项-,-能解决吗?](https://www.v2ex.com/t/869083) ![](assets/new.png)  
+- [2022-07-27-JS-axios-async/await-好像只能返回-promise](https://www.v2ex.com/t/869082) ![](assets/new.png)  
+- [2022-07-27-戒烟好难啊，每次敲代码烦了都想来一根](https://www.v2ex.com/t/869081) ![](assets/new.png)  
+- [2022-07-27-免费送-30-张七月在线-VIP-卡](https://www.v2ex.com/t/869080) ![](assets/new.png)  
 - [2022-07-27-为什么-U+F061-字符粘贴到-Word-里会显示为小写希腊字母α？](https://www.v2ex.com/t/869077) ![](assets/new.png)  
 - [2022-07-27-海外如何最低成本上-CDN?](https://www.v2ex.com/t/869076) ![](assets/new.png)  
 - [2022-07-27-全职远程/靠谱长期-20K-40K/自动化测试/海外项目/税后高薪](https://www.v2ex.com/t/869075) ![](assets/new.png)  
@@ -507,10 +511,6 @@
 - [2022-07-27-Go-实现的模型推理和-API-部署框架](https://www.v2ex.com/t/869064) ![](assets/new.png)  
 - [2022-07-27-VMware-Fusion12,-虚拟机运行-win10-浏览器看视频非常卡，但是用单独的视频软件测试看本地视频一点都不卡](https://www.v2ex.com/t/869062) ![](assets/new.png)  
 - [2022-07-27-看了这个矿卡变美女一手卡视频后，我觉得显卡价格不会再跌了。](https://www.v2ex.com/t/869060) ![](assets/new.png)  
-- [2022-07-27-把-下载-目录迁移到移动硬盘，隔空投送-用不了了](https://www.v2ex.com/t/869059) ![](assets/new.png)  
-- [2022-07-27-注册亚马逊云-AWS，百元礼任选-1](https://www.v2ex.com/t/869057) ![](assets/new.png)  
-- [2022-07-27-请教关于原生-Android-以及-GCM-推送的几个问题](https://www.v2ex.com/t/869056) ![](assets/new.png)  
-- [2022-07-27-内网服务器访问不了外网，笔记本可以连接到内网服务器，服务器怎么通过笔记本的网络访问外网](https://www.v2ex.com/t/869055) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

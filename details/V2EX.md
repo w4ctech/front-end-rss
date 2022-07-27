@@ -1,10 +1,14 @@
-:alarm_clock: 更新时间: 2022-07-27 11:37:59。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-27 12:29:36。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-07-27-Chrome-自动添加开机登陆项-,-能解决吗?](https://www.v2ex.com/t/869083) 
+- [2022-07-27-JS-axios-async/await-好像只能返回-promise](https://www.v2ex.com/t/869082) 
+- [2022-07-27-戒烟好难啊，每次敲代码烦了都想来一根](https://www.v2ex.com/t/869081) 
+- [2022-07-27-免费送-30-张七月在线-VIP-卡](https://www.v2ex.com/t/869080) 
 - [2022-07-27-为什么-U+F061-字符粘贴到-Word-里会显示为小写希腊字母α？](https://www.v2ex.com/t/869077) 
 - [2022-07-27-海外如何最低成本上-CDN?](https://www.v2ex.com/t/869076) 
 - [2022-07-27-全职远程/靠谱长期-20K-40K/自动化测试/海外项目/税后高薪](https://www.v2ex.com/t/869075) 
@@ -37,6 +41,3 @@
 - [2022-07-27-大家有没有觉得-M2-版本的-Macbook-air，在使用-Messages-打字的时候，不太流畅？](https://www.v2ex.com/t/869037) 
 - [2022-07-27-package.json-的-main-和-module-字段](https://www.v2ex.com/t/869036) 
 - [2022-07-27-要换手机了，有什么推荐的安卓手机](https://www.v2ex.com/t/869035) 
-- [2022-07-27-各位大佬关于-idea-2022.2-Git-合并的问题](https://www.v2ex.com/t/869033) 
-- [2022-07-27-DS920+经常登录不上](https://www.v2ex.com/t/869032) 
-- [2022-07-27-自制冰块为啥会产生浮沫？](https://www.v2ex.com/t/869031) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-07-27 19:39:50，:rocket: 更新条数: +2027， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-07-27 20:15:10，:rocket: 更新条数: +2027， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-07-27-如何看待「长辈爱比较」这个问题？](https://www.v2ex.com/t/869126) ![](assets/new.png)  
 - [2022-07-27-iOS-上越来越多国内-app-开代理就不让用。这种情况的本质原因是什么？有无好的手段制裁这种行为](https://www.v2ex.com/t/869124) ![](assets/new.png)  
 - [2022-07-27-最新闲鱼-app-没有了按信用筛选？](https://www.v2ex.com/t/869123) ![](assets/new.png)  
 - [2022-07-27-体验了-PVE-和-Unraid-有感，请大佬赐教](https://www.v2ex.com/t/869122) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-07-27-IDEA-2022.2-卡在-UI-界面](https://www.v2ex.com/t/869106) ![](assets/new.png)  
 - [2022-07-27-一个手滑干烂了-watch-的外屏，求推荐一个靠谱的第三方维修](https://www.v2ex.com/t/869105) ![](assets/new.png)  
 - [2022-07-27-每天要写日报，我很烦。能不能-AI-自动生成一些日报话术？](https://www.v2ex.com/t/869104) ![](assets/new.png)  
-- [2022-07-27-我与-macbook-的缘分，在于我与它有完全一致的睡眠习惯](https://www.v2ex.com/t/869102) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -571,8 +571,8 @@
 - [2022-07-27-开源项目丨Taier1.2版本发布，新增工作流、租户绑定简化等多项功能](https://toutiao.io/k/7ay1sj5) ![](assets/new.png)  
 - [2022-07-27-Go-程序太大了，能要个延迟初始化不？](https://toutiao.io/k/9d1mxxm) ![](assets/new.png)  
 - [2022-07-27-这半年我做交易链路自动化回归的那些事儿...](https://toutiao.io/k/drxo0b6) ![](assets/new.png)  
-- [2022-07-27-推荐-花了一周，我总结了120个数据分析指标与术语。](https://toutiao.io/k/9pzybmk) ![](assets/new.png)  
 - [2022-07-27-推荐-团队一盘散沙，怎么破？](https://toutiao.io/k/kdzpdh5) ![](assets/new.png)  
+- [2022-07-27-推荐-花了一周，我总结了120个数据分析指标与术语。](https://toutiao.io/k/9pzybmk) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-27 08:46:41。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-27 09:14:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,11 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-07-27-把-下载-目录迁移到移动硬盘，隔空投送-用不了了](https://www.v2ex.com/t/869059) 
+- [2022-07-27-注册亚马逊云-AWS，百元礼任选-1](https://www.v2ex.com/t/869057) 
+- [2022-07-27-请教关于原生-Android-以及-GCM-推送的几个问题](https://www.v2ex.com/t/869056) 
+- [2022-07-27-内网服务器访问不了外网，笔记本可以连接到内网服务器，服务器怎么通过笔记本的网络访问外网](https://www.v2ex.com/t/869055) 
+- [2022-07-27-发现-bitwarden-不能使用通用剪贴板了](https://www.v2ex.com/t/869054) 
 - [2022-07-27-苹果捷径自动化可以实现监听动作吗](https://www.v2ex.com/t/869050) 
 - [2022-07-27-原生输入法会越来越卡](https://www.v2ex.com/t/869047) 
 - [2022-07-27-等待程序启动的时候大家在做啥](https://www.v2ex.com/t/869046) 
@@ -1932,9 +1937,6 @@
 - [2022-07-27-openmaptiles-这个开源地图开源版编译出来的结果好像特别陈旧，问下大佬们哪里能找新一些的地图](https://www.v2ex.com/t/869017) 
 - [2022-07-27-求-V-友推荐快速创建官网的工具](https://www.v2ex.com/t/869016) 
 - [2022-07-27-conda-环境下怎么使用-cuda、cudnn、tf-等环境](https://www.v2ex.com/t/869014) 
-- [2022-07-27-装-archlinux-只能跑百兆，-centos-一切正常](https://www.v2ex.com/t/869009) 
-- [2022-07-27-求助，各位有没有谈论户外装备的论坛？](https://www.v2ex.com/t/869008) 
-- [2022-07-27-新模具的-mbp-贴键盘膜还是会有屏幕压痕吗](https://www.v2ex.com/t/869005) 
 - [2022-07-27-数据仓库项目从来不是技术项目-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15251&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fwhat-is-data-warehouse%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-27-Android-框架问题分析案例---谁杀了桌面?-androidperformance.com](https://blogread.cn/news/go.php?idItem=15249&url=https%3A%2F%2Fandroidperformance.com%2F2019%2F09%2F17%2FAndroid-Kill-Background-App-Debug%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-27-生产者消费者编程模式-www.ideawu.net](https://blogread.cn/news/go.php?idItem=15248&url=https%3A%2F%2Fwww.ideawu.net%2Fblog%2Farchives%2F1202.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1958,7 +1960,7 @@
 - [2022-07-27-云原生爱好者周刊：Prometheus-架构演进之路](https://toutiao.io/k/ykcn7cg) 
 - [2022-07-27-这半年我做交易链路自动化回归的那些事儿...](https://toutiao.io/k/drxo0b6) 
 - [2022-07-27-Go-程序太大了，能要个延迟初始化不？](https://toutiao.io/k/9d1mxxm) 
-- [2022-07-27-推荐-腾讯低代码平台正式开源！可拖拽、生成手机项目、PC-项目！接私活福利啊！](https://toutiao.io/k/8oqx21m) 
-- [2022-07-27-推荐-高并发，你真的理解透彻了吗？](https://toutiao.io/k/93k2zfb) 
 - [2022-07-27-推荐-花了一周，我总结了120个数据分析指标与术语。](https://toutiao.io/k/9pzybmk) 
+- [2022-07-27-推荐-腾讯低代码平台正式开源！可拖拽、生成手机项目、PC-项目！接私活福利啊！](https://toutiao.io/k/8oqx21m) 
 - [2022-07-27-推荐-团队一盘散沙，怎么破？](https://toutiao.io/k/kdzpdh5) 
+- [2022-07-27-推荐-高并发，你真的理解透彻了吗？](https://toutiao.io/k/93k2zfb) 

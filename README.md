@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-07-27 08:46:41，:rocket: 更新条数: +2023， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-07-27 09:14:07，:rocket: 更新条数: +2024， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,12 @@
 </summary>
 
 
+- [2022-07-27-看了这个矿卡变美女一手卡视频后，我觉得显卡价格不会再跌了。](https://www.v2ex.com/t/869060) ![](assets/new.png)  
+- [2022-07-27-把-下载-目录迁移到移动硬盘，隔空投送-用不了了](https://www.v2ex.com/t/869059) ![](assets/new.png)  
+- [2022-07-27-注册亚马逊云-AWS，百元礼任选-1](https://www.v2ex.com/t/869057) ![](assets/new.png)  
+- [2022-07-27-请教关于原生-Android-以及-GCM-推送的几个问题](https://www.v2ex.com/t/869056) ![](assets/new.png)  
+- [2022-07-27-内网服务器访问不了外网，笔记本可以连接到内网服务器，服务器怎么通过笔记本的网络访问外网](https://www.v2ex.com/t/869055) ![](assets/new.png)  
+- [2022-07-27-发现-bitwarden-不能使用通用剪贴板了](https://www.v2ex.com/t/869054) ![](assets/new.png)  
 - [2022-07-27-苹果捷径自动化可以实现监听动作吗](https://www.v2ex.com/t/869050) ![](assets/new.png)  
 - [2022-07-27-分享一种在构建阶段保护镜像安全的方法](https://www.v2ex.com/t/869048) ![](assets/new.png)  
 - [2022-07-27-原生输入法会越来越卡](https://www.v2ex.com/t/869047) ![](assets/new.png)  
@@ -505,12 +511,6 @@
 - [2022-07-27-各位大佬关于-idea-2022.2-Git-合并的问题](https://www.v2ex.com/t/869033) ![](assets/new.png)  
 - [2022-07-27-DS920+经常登录不上](https://www.v2ex.com/t/869032) ![](assets/new.png)  
 - [2022-07-27-自制冰块为啥会产生浮沫？](https://www.v2ex.com/t/869031) ![](assets/new.png)  
-- [2022-07-27-如何查看办公机上的-EDR-是否具有截图功能？](https://www.v2ex.com/t/869029) ![](assets/new.png)  
-- [2022-07-27-备份-Ext4-分区的正确姿势](https://www.v2ex.com/t/869026) ![](assets/new.png)  
-- [2022-07-27-公司新接了亚马逊云国际业务-5.5-折长期优惠，](https://www.v2ex.com/t/869025) ![](assets/new.png)  
-- [2022-07-27-怎么关闭手机-QQ-音乐播放页右上角的直播](https://www.v2ex.com/t/869024) ![](assets/new.png)  
-- [2022-07-27-《独行月球》会成为今年的票房黑马吗](https://www.v2ex.com/t/869023) ![](assets/new.png)  
-- [2022-07-27-大家对外提供开放平台接口的时候，文档该如何选型](https://www.v2ex.com/t/869022) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -568,11 +568,11 @@
 - [2022-07-27-Activity.onStop-延迟10秒？检测、定位、修复它！](https://toutiao.io/k/bgqqwou) ![](assets/new.png)  
 - [2022-07-27-Premint-恶意代码注入攻击细节分析](https://toutiao.io/k/gffxt2o) ![](assets/new.png)  
 - [2022-07-27-云原生爱好者周刊：Prometheus-架构演进之路](https://toutiao.io/k/ykcn7cg) ![](assets/new.png)  
-- [2022-07-27-这半年我做交易链路自动化回归的那些事儿...](https://toutiao.io/k/drxo0b6) ![](assets/new.png)  
 - [2022-07-27-开源项目丨Taier1.2版本发布，新增工作流、租户绑定简化等多项功能](https://toutiao.io/k/7ay1sj5) ![](assets/new.png)  
+- [2022-07-27-这半年我做交易链路自动化回归的那些事儿...](https://toutiao.io/k/drxo0b6) ![](assets/new.png)  
 - [2022-07-27-Go-程序太大了，能要个延迟初始化不？](https://toutiao.io/k/9d1mxxm) ![](assets/new.png)  
-- [2022-07-27-推荐-腾讯低代码平台正式开源！可拖拽、生成手机项目、PC-项目！接私活福利啊！](https://toutiao.io/k/8oqx21m) ![](assets/new.png)  
-- [2022-07-27-推荐-高并发，你真的理解透彻了吗？](https://toutiao.io/k/93k2zfb) ![](assets/new.png)  
+- [2022-07-27-推荐-聊聊Java中代码优化的30个小技巧](https://toutiao.io/k/jv8g1r6) ![](assets/new.png)  
+- [2022-07-27-推荐-花了一周，我总结了120个数据分析指标与术语。](https://toutiao.io/k/9pzybmk) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

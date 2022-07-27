@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-07-27 14:21:17，:rocket: 更新条数: +2025， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-07-27 14:40:13，:rocket: 更新条数: +2028， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,10 @@
 </summary>
 
 
+- [2022-07-27-我与-macbook-的缘分，在于我与它有完全一致的睡眠习惯](https://www.v2ex.com/t/869102) ![](assets/new.png)  
+- [2022-07-27-上海无锡通勤](https://www.v2ex.com/t/869101) ![](assets/new.png)  
+- [2022-07-27-网易在职员工内推～长期有效](https://www.v2ex.com/t/869100) ![](assets/new.png)  
+- [2022-07-27-macos-下的-stash-和-tailscale-不能一起使用？](https://www.v2ex.com/t/869099) ![](assets/new.png)  
 - [2022-07-27-（缺一位）美区-iCloud-512G-Apple-One-Premier-超大杯](https://www.v2ex.com/t/869098) ![](assets/new.png)  
 - [2022-07-27-没找到比较好的方法做个-Serverless-的仪表盘](https://www.v2ex.com/t/869097) ![](assets/new.png)  
 - [2022-07-27-移动送流量每月-10GB](https://www.v2ex.com/t/869096) ![](assets/new.png)  
@@ -507,10 +511,6 @@
 - [2022-07-27-免费送-30-张七月在线-VIP-卡](https://www.v2ex.com/t/869080) ![](assets/new.png)  
 - [2022-07-27-为什么-U+F061-字符粘贴到-Word-里会显示为小写希腊字母α？](https://www.v2ex.com/t/869077) ![](assets/new.png)  
 - [2022-07-27-海外如何最低成本上-CDN?](https://www.v2ex.com/t/869076) ![](assets/new.png)  
-- [2022-07-27-全职远程/靠谱长期-20K-40K/自动化测试/海外项目/税后高薪](https://www.v2ex.com/t/869075) ![](assets/new.png)  
-- [2022-07-27-各位的美区-Apple-ID-体验如何？](https://www.v2ex.com/t/869074) ![](assets/new.png)  
-- [2022-07-27-23-年了，软盘里文件还在](https://www.v2ex.com/t/869073) ![](assets/new.png)  
-- [2022-07-27-怎么可以买到比较不被坑的-iPhone-手机？](https://www.v2ex.com/t/869072) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -571,8 +571,8 @@
 - [2022-07-27-开源项目丨Taier1.2版本发布，新增工作流、租户绑定简化等多项功能](https://toutiao.io/k/7ay1sj5) ![](assets/new.png)  
 - [2022-07-27-Go-程序太大了，能要个延迟初始化不？](https://toutiao.io/k/9d1mxxm) ![](assets/new.png)  
 - [2022-07-27-这半年我做交易链路自动化回归的那些事儿...](https://toutiao.io/k/drxo0b6) ![](assets/new.png)  
+- [2022-07-27-推荐-聊聊Java中代码优化的30个小技巧](https://toutiao.io/k/jv8g1r6) ![](assets/new.png)  
 - [2022-07-27-推荐-高并发，你真的理解透彻了吗？](https://toutiao.io/k/93k2zfb) ![](assets/new.png)  
-- [2022-07-27-推荐-花了一周，我总结了120个数据分析指标与术语。](https://toutiao.io/k/9pzybmk) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-27 14:21:18。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-27 14:40:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,9 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-07-27-我与-macbook-的缘分，在于我与它有完全一致的睡眠习惯](https://www.v2ex.com/t/869102) 
+- [2022-07-27-上海无锡通勤](https://www.v2ex.com/t/869101) 
+- [2022-07-27-网易在职员工内推～长期有效](https://www.v2ex.com/t/869100) 
 - [2022-07-27-移动送流量每月-10GB](https://www.v2ex.com/t/869096) 
 - [2022-07-27-unity-hub-不能获取免费的许可证了？](https://www.v2ex.com/t/869095) 
 - [2022-07-27-你们的机顶盒支持鼠标吗？](https://www.v2ex.com/t/869094) 
@@ -1938,7 +1941,6 @@
 - [2022-07-27-请教关于原生-Android-以及-GCM-推送的几个问题](https://www.v2ex.com/t/869056) 
 - [2022-07-27-内网服务器访问不了外网，笔记本可以连接到内网服务器，服务器怎么通过笔记本的网络访问外网](https://www.v2ex.com/t/869055) 
 - [2022-07-27-发现-bitwarden-不能使用通用剪贴板了](https://www.v2ex.com/t/869054) 
-- [2022-07-27-苹果捷径自动化可以实现监听动作吗](https://www.v2ex.com/t/869050) 
 - [2022-07-27-数据仓库项目从来不是技术项目-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15251&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fwhat-is-data-warehouse%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-27-Android-框架问题分析案例---谁杀了桌面?-androidperformance.com](https://blogread.cn/news/go.php?idItem=15249&url=https%3A%2F%2Fandroidperformance.com%2F2019%2F09%2F17%2FAndroid-Kill-Background-App-Debug%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-27-生产者消费者编程模式-www.ideawu.net](https://blogread.cn/news/go.php?idItem=15248&url=https%3A%2F%2Fwww.ideawu.net%2Fblog%2Farchives%2F1202.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

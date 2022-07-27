@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-07-27 07:14:41，:rocket: 更新条数: +2024， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-07-27 07:41:07，:rocket: 更新条数: +2024， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,10 @@
 </summary>
 
 
+- [2022-07-27-各位大佬关于-idea-2022.2-Git-合并的问题](https://www.v2ex.com/t/869033) ![](assets/new.png)  
+- [2022-07-27-DS920+经常登录不上](https://www.v2ex.com/t/869032) ![](assets/new.png)  
+- [2022-07-27-自制冰块为啥会产生浮沫？](https://www.v2ex.com/t/869031) ![](assets/new.png)  
+- [2022-07-27-如何查看办公机上的-EDR-是否具有截图功能？](https://www.v2ex.com/t/869029) ![](assets/new.png)  
 - [2022-07-27-备份-Ext4-分区的正确姿势](https://www.v2ex.com/t/869026) ![](assets/new.png)  
 - [2022-07-27-公司新接了亚马逊云国际业务-5.5-折长期优惠，](https://www.v2ex.com/t/869025) ![](assets/new.png)  
 - [2022-07-27-怎么关闭手机-QQ-音乐播放页右上角的直播](https://www.v2ex.com/t/869024) ![](assets/new.png)  
@@ -507,10 +511,6 @@
 - [2022-07-27-如何优雅地用一副-AirPods-一边微信语音聊天一边玩-switch-游戏？](https://www.v2ex.com/t/869011) ![](assets/new.png)  
 - [2022-07-27-问下如何优化笔记本卡顿](https://www.v2ex.com/t/869010) ![](assets/new.png)  
 - [2022-07-27-装-archlinux-只能跑百兆，-centos-一切正常](https://www.v2ex.com/t/869009) ![](assets/new.png)  
-- [2022-07-27-求助，各位有没有谈论户外装备的论坛？](https://www.v2ex.com/t/869008) ![](assets/new.png)  
-- [2022-07-27-求游戏-pc-推荐](https://www.v2ex.com/t/869007) ![](assets/new.png)  
-- [2022-07-27-新模具的-mbp-贴键盘膜还是会有屏幕压痕吗](https://www.v2ex.com/t/869005) ![](assets/new.png)  
-- [2022-07-27-中国版权保护中心（著作权登记系统）从前天开始一直无法登陆或登录后报-SQL-错误](https://www.v2ex.com/t/869002) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -558,8 +558,8 @@
 - [2022-07-27-坐拥最大的高速缓存，Facebook-如何保证缓存一致性？](https://toutiao.io/k/93fubbq) ![](assets/new.png)  
 - [2022-07-27-Redis-内存优化神技，小内存保存大数据](https://toutiao.io/k/u7j6uun) ![](assets/new.png)  
 - [2022-07-27-MQTT-over-QUIC：物联网消息传输还有更多可能](https://toutiao.io/k/9tw1pqf) ![](assets/new.png)  
-- [2022-07-27-我们真的需要抛弃-C/C++,-JAVA,-GOLANG,-去拥抱-RUST-吗-?!](https://toutiao.io/k/vv1qk1a) ![](assets/new.png)  
 - [2022-07-27-100-行代码搞定了-RPC-原理-！](https://toutiao.io/k/c7jmqc1) ![](assets/new.png)  
+- [2022-07-27-我们真的需要抛弃-C/C++,-JAVA,-GOLANG,-去拥抱-RUST-吗-?!](https://toutiao.io/k/vv1qk1a) ![](assets/new.png)  
 - [2022-07-27-聊一聊数据库的行存与列存](https://toutiao.io/k/qhft99i) ![](assets/new.png)  
 - [2022-07-27-郑建勋：代码优化的三重境界](https://toutiao.io/k/6eobfqp) ![](assets/new.png)  
 - [2022-07-27-代码杂谈:从一道面试题看学会Rust的难度](https://toutiao.io/k/xhuqr2c) ![](assets/new.png)  
@@ -571,8 +571,8 @@
 - [2022-07-27-这半年我做交易链路自动化回归的那些事儿...](https://toutiao.io/k/drxo0b6) ![](assets/new.png)  
 - [2022-07-27-开源项目丨Taier1.2版本发布，新增工作流、租户绑定简化等多项功能](https://toutiao.io/k/7ay1sj5) ![](assets/new.png)  
 - [2022-07-27-Go-程序太大了，能要个延迟初始化不？](https://toutiao.io/k/9d1mxxm) ![](assets/new.png)  
+- [2022-07-27-推荐-花了一周，我总结了120个数据分析指标与术语。](https://toutiao.io/k/9pzybmk) ![](assets/new.png)  
 - [2022-07-27-推荐-聊聊Java中代码优化的30个小技巧](https://toutiao.io/k/jv8g1r6) ![](assets/new.png)  
-- [2022-07-27-推荐-高并发，你真的理解透彻了吗？](https://toutiao.io/k/93k2zfb) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

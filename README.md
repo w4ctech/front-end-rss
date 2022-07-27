@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-07-27 14:40:13，:rocket: 更新条数: +2028， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-07-27 15:16:27，:rocket: 更新条数: +2029， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,13 @@
 </summary>
 
 
+- [2022-07-27-目前搭建无需额外客户端的-HTTPS-代理有啥推荐方案的吗?](https://www.v2ex.com/t/869110) ![](assets/new.png)  
+- [2022-07-27-送码-折腾了一年多的-markdown-笔记软件](https://www.v2ex.com/t/869109) ![](assets/new.png)  
+- [2022-07-27-看到一个状态栏工具，感觉挺好看的](https://www.v2ex.com/t/869108) ![](assets/new.png)  
+- [2022-07-27-HVV](https://www.v2ex.com/t/869107) ![](assets/new.png)  
+- [2022-07-27-IDEA-2022.2-卡在-UI-界面](https://www.v2ex.com/t/869106) ![](assets/new.png)  
+- [2022-07-27-一个手滑干烂了-watch-的外屏，求推荐一个靠谱的第三方维修](https://www.v2ex.com/t/869105) ![](assets/new.png)  
+- [2022-07-27-每天要写日报，我很烦。能不能-AI-自动生成一些日报话术？](https://www.v2ex.com/t/869104) ![](assets/new.png)  
 - [2022-07-27-我与-macbook-的缘分，在于我与它有完全一致的睡眠习惯](https://www.v2ex.com/t/869102) ![](assets/new.png)  
 - [2022-07-27-上海无锡通勤](https://www.v2ex.com/t/869101) ![](assets/new.png)  
 - [2022-07-27-网易在职员工内推～长期有效](https://www.v2ex.com/t/869100) ![](assets/new.png)  
@@ -504,13 +511,6 @@
 - [2022-07-27-Facebook-应用被禁用，陷入死循环了](https://www.v2ex.com/t/869091) ![](assets/new.png)  
 - [2022-07-27-联通的智能应答挺有意思](https://www.v2ex.com/t/869090) ![](assets/new.png)  
 - [2022-07-27-对于分辨率帧率相同的视频，如果编码器的压缩能力越高，是不是码率越低？](https://www.v2ex.com/t/869089) ![](assets/new.png)  
-- [2022-07-27-VMware-Workstation-怎么全局关闭硬件加速？](https://www.v2ex.com/t/869087) ![](assets/new.png)  
-- [2022-07-27-Chrome-自动添加开机登陆项-,-能解决吗?](https://www.v2ex.com/t/869083) ![](assets/new.png)  
-- [2022-07-27-JS-axios-async/await-好像只能返回-promise](https://www.v2ex.com/t/869082) ![](assets/new.png)  
-- [2022-07-27-戒烟好难啊，每次敲代码烦了都想来一根](https://www.v2ex.com/t/869081) ![](assets/new.png)  
-- [2022-07-27-免费送-30-张七月在线-VIP-卡](https://www.v2ex.com/t/869080) ![](assets/new.png)  
-- [2022-07-27-为什么-U+F061-字符粘贴到-Word-里会显示为小写希腊字母α？](https://www.v2ex.com/t/869077) ![](assets/new.png)  
-- [2022-07-27-海外如何最低成本上-CDN?](https://www.v2ex.com/t/869076) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -565,14 +565,14 @@
 - [2022-07-27-我们真的需要抛弃-C/C++,-JAVA,-GOLANG,-去拥抱-RUST-吗-?!](https://toutiao.io/k/vv1qk1a) ![](assets/new.png)  
 - [2022-07-27-【300+精选大厂面试题持续分享】大数据运维尖刀面试题专栏（八）](https://toutiao.io/k/2g8u2fa) ![](assets/new.png)  
 - [2022-07-27-一文详解图像中的无监督学习](https://toutiao.io/k/2arzcsm) ![](assets/new.png)  
-- [2022-07-27-Activity.onStop-延迟10秒？检测、定位、修复它！](https://toutiao.io/k/bgqqwou) ![](assets/new.png)  
 - [2022-07-27-Premint-恶意代码注入攻击细节分析](https://toutiao.io/k/gffxt2o) ![](assets/new.png)  
+- [2022-07-27-Activity.onStop-延迟10秒？检测、定位、修复它！](https://toutiao.io/k/bgqqwou) ![](assets/new.png)  
 - [2022-07-27-云原生爱好者周刊：Prometheus-架构演进之路](https://toutiao.io/k/ykcn7cg) ![](assets/new.png)  
 - [2022-07-27-开源项目丨Taier1.2版本发布，新增工作流、租户绑定简化等多项功能](https://toutiao.io/k/7ay1sj5) ![](assets/new.png)  
 - [2022-07-27-Go-程序太大了，能要个延迟初始化不？](https://toutiao.io/k/9d1mxxm) ![](assets/new.png)  
 - [2022-07-27-这半年我做交易链路自动化回归的那些事儿...](https://toutiao.io/k/drxo0b6) ![](assets/new.png)  
-- [2022-07-27-推荐-聊聊Java中代码优化的30个小技巧](https://toutiao.io/k/jv8g1r6) ![](assets/new.png)  
 - [2022-07-27-推荐-高并发，你真的理解透彻了吗？](https://toutiao.io/k/93k2zfb) ![](assets/new.png)  
+- [2022-07-27-推荐-腾讯低代码平台正式开源！可拖拽、生成手机项目、PC-项目！接私活福利啊！](https://toutiao.io/k/8oqx21m) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

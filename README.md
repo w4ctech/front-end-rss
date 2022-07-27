@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-07-27 06:18:06，:rocket: 更新条数: +2022， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-07-27 06:48:17，:rocket: 更新条数: +2023， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,11 @@
 </summary>
 
 
+- [2022-07-27-大家对外提供开放平台接口的时候，文档该如何选型](https://www.v2ex.com/t/869022) ![](assets/new.png)  
+- [2022-07-27-想找名小伙伴一起开发-NFT-工具类平台](https://www.v2ex.com/t/869021) ![](assets/new.png)  
+- [2022-07-27-手上有十几台云主机，在合法的前提下，可以干点儿啥回本呢](https://www.v2ex.com/t/869020) ![](assets/new.png)  
+- [2022-07-27-Chrome-插件-OneTab-的代替品：-One-Tab-Group-你的终极标签页管理器（尝鲜版发布）](https://www.v2ex.com/t/869019) ![](assets/new.png)  
+- [2022-07-27-openmaptiles-这个开源地图开源版编译出来的结果好像特别陈旧，问下大佬们哪里能找新一些的地图](https://www.v2ex.com/t/869017) ![](assets/new.png)  
 - [2022-07-27-求-V-友推荐快速创建官网的工具](https://www.v2ex.com/t/869016) ![](assets/new.png)  
 - [2022-07-27-conda-环境下怎么使用-cuda、cudnn、tf-等环境](https://www.v2ex.com/t/869014) ![](assets/new.png)  
 - [2022-07-27-Tether-和-Bitfinex-支持的一款-P2P-视频聊天工具-Keet-上线](https://www.v2ex.com/t/869013) ![](assets/new.png)  
@@ -506,11 +511,6 @@
 - [2022-07-27-请问-hadoop-多块磁盘只部署一个-datanode-好还是每块磁盘各部署一个-datanode](https://www.v2ex.com/t/868999) ![](assets/new.png)  
 - [2022-07-27-广州的-it-大佬们，你们现在是双休还是大小周？还是单休？](https://www.v2ex.com/t/868998) ![](assets/new.png)  
 - [2022-07-27-Java-相关书籍出售base-杭州](https://www.v2ex.com/t/868997) ![](assets/new.png)  
-- [2022-07-27-被外包公司抛弃了，不给任何赔偿让我走](https://www.v2ex.com/t/868995) ![](assets/new.png)  
-- [2022-07-27-kotlin-表达式引擎](https://www.v2ex.com/t/868993) ![](assets/new.png)  
-- [2022-07-27-关于产假工资](https://www.v2ex.com/t/868990) ![](assets/new.png)  
-- [2022-07-27-全职远程长期稳定-招募-产品/UI-设计师](https://www.v2ex.com/t/868989) ![](assets/new.png)  
-- [2022-07-27-React-中如何可以实现-vue3.2-新增的-effectScope-特性呢？](https://www.v2ex.com/t/868986) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -554,25 +554,25 @@
 
 
 - [2022-07-27-一文搞懂-Redis-架构演化之路](https://toutiao.io/k/cwwpjem) ![](assets/new.png)  
-- [2022-07-27-坐拥最大的高速缓存，Facebook-如何保证缓存一致性？](https://toutiao.io/k/93fubbq) ![](assets/new.png)  
 - [2022-07-27-原来低代码平台可以这样设计！](https://toutiao.io/k/d4dofn0) ![](assets/new.png)  
+- [2022-07-27-坐拥最大的高速缓存，Facebook-如何保证缓存一致性？](https://toutiao.io/k/93fubbq) ![](assets/new.png)  
 - [2022-07-27-Redis-内存优化神技，小内存保存大数据](https://toutiao.io/k/u7j6uun) ![](assets/new.png)  
 - [2022-07-27-MQTT-over-QUIC：物联网消息传输还有更多可能](https://toutiao.io/k/9tw1pqf) ![](assets/new.png)  
 - [2022-07-27-我们真的需要抛弃-C/C++,-JAVA,-GOLANG,-去拥抱-RUST-吗-?!](https://toutiao.io/k/vv1qk1a) ![](assets/new.png)  
 - [2022-07-27-100-行代码搞定了-RPC-原理-！](https://toutiao.io/k/c7jmqc1) ![](assets/new.png)  
 - [2022-07-27-聊一聊数据库的行存与列存](https://toutiao.io/k/qhft99i) ![](assets/new.png)  
-- [2022-07-27-代码杂谈:从一道面试题看学会Rust的难度](https://toutiao.io/k/xhuqr2c) ![](assets/new.png)  
 - [2022-07-27-郑建勋：代码优化的三重境界](https://toutiao.io/k/6eobfqp) ![](assets/new.png)  
+- [2022-07-27-代码杂谈:从一道面试题看学会Rust的难度](https://toutiao.io/k/xhuqr2c) ![](assets/new.png)  
 - [2022-07-27-【300+精选大厂面试题持续分享】大数据运维尖刀面试题专栏（八）](https://toutiao.io/k/2g8u2fa) ![](assets/new.png)  
 - [2022-07-27-一文详解图像中的无监督学习](https://toutiao.io/k/2arzcsm) ![](assets/new.png)  
 - [2022-07-27-Activity.onStop-延迟10秒？检测、定位、修复它！](https://toutiao.io/k/bgqqwou) ![](assets/new.png)  
 - [2022-07-27-Premint-恶意代码注入攻击细节分析](https://toutiao.io/k/gffxt2o) ![](assets/new.png)  
-- [2022-07-27-Go-程序太大了，能要个延迟初始化不？](https://toutiao.io/k/9d1mxxm) ![](assets/new.png)  
 - [2022-07-27-云原生爱好者周刊：Prometheus-架构演进之路](https://toutiao.io/k/ykcn7cg) ![](assets/new.png)  
 - [2022-07-27-这半年我做交易链路自动化回归的那些事儿...](https://toutiao.io/k/drxo0b6) ![](assets/new.png)  
+- [2022-07-27-Go-程序太大了，能要个延迟初始化不？](https://toutiao.io/k/9d1mxxm) ![](assets/new.png)  
 - [2022-07-27-开源项目丨Taier1.2版本发布，新增工作流、租户绑定简化等多项功能](https://toutiao.io/k/7ay1sj5) ![](assets/new.png)  
 - [2022-07-27-推荐-团队一盘散沙，怎么破？](https://toutiao.io/k/kdzpdh5) ![](assets/new.png)  
-- [2022-07-27-推荐-花了一周，我总结了120个数据分析指标与术语。](https://toutiao.io/k/9pzybmk) ![](assets/new.png)  
+- [2022-07-27-推荐-聊聊Java中代码优化的30个小技巧](https://toutiao.io/k/jv8g1r6) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

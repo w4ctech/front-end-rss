@@ -1,10 +1,15 @@
-:alarm_clock: 更新时间: 2022-07-27 06:18:06。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-27 06:48:18。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-07-27-大家对外提供开放平台接口的时候，文档该如何选型](https://www.v2ex.com/t/869022) 
+- [2022-07-27-想找名小伙伴一起开发-NFT-工具类平台](https://www.v2ex.com/t/869021) 
+- [2022-07-27-手上有十几台云主机，在合法的前提下，可以干点儿啥回本呢](https://www.v2ex.com/t/869020) 
+- [2022-07-27-Chrome-插件-OneTab-的代替品：-One-Tab-Group-你的终极标签页管理器（尝鲜版发布）](https://www.v2ex.com/t/869019) 
+- [2022-07-27-openmaptiles-这个开源地图开源版编译出来的结果好像特别陈旧，问下大佬们哪里能找新一些的地图](https://www.v2ex.com/t/869017) 
 - [2022-07-27-求-V-友推荐快速创建官网的工具](https://www.v2ex.com/t/869016) 
 - [2022-07-27-conda-环境下怎么使用-cuda、cudnn、tf-等环境](https://www.v2ex.com/t/869014) 
 - [2022-07-27-Tether-和-Bitfinex-支持的一款-P2P-视频聊天工具-Keet-上线](https://www.v2ex.com/t/869013) 
@@ -34,7 +39,3 @@
 - [2022-07-27-有没有快速搭建-socks5-/-http-正向代理服务器的方案？](https://www.v2ex.com/t/868976) 
 - [2022-07-27-safari-有没有办法-暂时/临时-allow-insure-content？](https://www.v2ex.com/t/868974) 
 - [2022-07-27-idea-换了新-UI-之后，怎么在右上角用-jrebel&XRebel-运行项目？找不到-jrebel-的图标了](https://www.v2ex.com/t/868973) 
-- [2022-07-27-同学建筑设计的，来杭州快一个月了，面试机会只有-4-5-次，要不要建议他转行。然后想问下大家，都比较看好啥行业。他的哥哥，想让他搞直播运营，但是看他的态度...](https://www.v2ex.com/t/868972) 
-- [2022-07-27-上海求职最近面上了国企外包，有很多疑问，希望有人能帮我解答一下](https://www.v2ex.com/t/868970) 
-- [2022-07-27-class-里的继承方法改写,-要不要加-override?](https://www.v2ex.com/t/868968) 
-- [2022-07-27-深圳电信专线这么贵的吗](https://www.v2ex.com/t/868967) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-27 06:18:06。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-07-27 06:48:18。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -69,6 +69,11 @@
 
 
 - [【张鑫旭-鑫空间-鑫生活】2022-07-21-超酷！CSS-font-palette与彩色字体显示](https://www.zhangxinxu.com/wordpress/2022/07/css-font-palette/) 
+- [【V2EX】2022-07-27-大家对外提供开放平台接口的时候，文档该如何选型](https://www.v2ex.com/t/869022) 
+- [【V2EX】2022-07-27-想找名小伙伴一起开发-NFT-工具类平台](https://www.v2ex.com/t/869021) 
+- [【V2EX】2022-07-27-手上有十几台云主机，在合法的前提下，可以干点儿啥回本呢](https://www.v2ex.com/t/869020) 
+- [【V2EX】2022-07-27-Chrome-插件-OneTab-的代替品：-One-Tab-Group-你的终极标签页管理器（尝鲜版发布）](https://www.v2ex.com/t/869019) 
+- [【V2EX】2022-07-27-openmaptiles-这个开源地图开源版编译出来的结果好像特别陈旧，问下大佬们哪里能找新一些的地图](https://www.v2ex.com/t/869017) 
 - [【V2EX】2022-07-27-求-V-友推荐快速创建官网的工具](https://www.v2ex.com/t/869016) 
 - [【V2EX】2022-07-27-conda-环境下怎么使用-cuda、cudnn、tf-等环境](https://www.v2ex.com/t/869014) 
 - [【V2EX】2022-07-27-Tether-和-Bitfinex-支持的一款-P2P-视频聊天工具-Keet-上线](https://www.v2ex.com/t/869013) 
@@ -98,10 +103,6 @@
 - [【V2EX】2022-07-27-有没有快速搭建-socks5-/-http-正向代理服务器的方案？](https://www.v2ex.com/t/868976) 
 - [【V2EX】2022-07-27-safari-有没有办法-暂时/临时-allow-insure-content？](https://www.v2ex.com/t/868974) 
 - [【V2EX】2022-07-27-idea-换了新-UI-之后，怎么在右上角用-jrebel&XRebel-运行项目？找不到-jrebel-的图标了](https://www.v2ex.com/t/868973) 
-- [【V2EX】2022-07-27-同学建筑设计的，来杭州快一个月了，面试机会只有-4-5-次，要不要建议他转行。然后想问下大家，都比较看好啥行业。他的哥哥，想让他搞直播运营，但是看他的态度...](https://www.v2ex.com/t/868972) 
-- [【V2EX】2022-07-27-上海求职最近面上了国企外包，有很多疑问，希望有人能帮我解答一下](https://www.v2ex.com/t/868970) 
-- [【V2EX】2022-07-27-class-里的继承方法改写,-要不要加-override?](https://www.v2ex.com/t/868968) 
-- [【V2EX】2022-07-27-深圳电信专线这么贵的吗](https://www.v2ex.com/t/868967) 
 - [【技术头条】2022-07-27-数据仓库项目从来不是技术项目-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15251&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fwhat-is-data-warehouse%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-27-Webpack-打包后代码执行时机分析与优化-www.alloyteam.com](https://blogread.cn/news/go.php?idItem=15250&url=http%3A%2F%2Fwww.alloyteam.com%2F2019%2F07%2Fwait-external-webpack-plugin%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-27-Android-框架问题分析案例---谁杀了桌面?-androidperformance.com](https://blogread.cn/news/go.php?idItem=15249&url=https%3A%2F%2Fandroidperformance.com%2F2019%2F09%2F17%2FAndroid-Kill-Background-App-Debug%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -123,28 +124,28 @@
 - [【技术头条】2022-07-27-编译的速度与激情：从-10mins-到-1s-www.alloyteam.com](https://blogread.cn/news/go.php?idItem=15233&url=http%3A%2F%2Fwww.alloyteam.com%2F2020%2F12%2F14882%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-27-数据库全量SQL分析与审计系统性能优化之旅-tech.meituan.com](https://blogread.cn/news/go.php?idItem=15232&url=https%3A%2F%2Ftech.meituan.com%2F2022%2F06%2F09%2Fthe-route-of-database-get-audit-sql-optimize.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【开发者头条】2022-07-27-一文搞懂-Redis-架构演化之路](https://toutiao.io/k/cwwpjem) 
-- [【开发者头条】2022-07-27-坐拥最大的高速缓存，Facebook-如何保证缓存一致性？](https://toutiao.io/k/93fubbq) 
 - [【开发者头条】2022-07-27-原来低代码平台可以这样设计！](https://toutiao.io/k/d4dofn0) 
+- [【开发者头条】2022-07-27-坐拥最大的高速缓存，Facebook-如何保证缓存一致性？](https://toutiao.io/k/93fubbq) 
 - [【开发者头条】2022-07-27-Redis-内存优化神技，小内存保存大数据](https://toutiao.io/k/u7j6uun) 
 - [【开发者头条】2022-07-27-MQTT-over-QUIC：物联网消息传输还有更多可能](https://toutiao.io/k/9tw1pqf) 
 - [【开发者头条】2022-07-27-我们真的需要抛弃-C/C++,-JAVA,-GOLANG,-去拥抱-RUST-吗-?!](https://toutiao.io/k/vv1qk1a) 
 - [【开发者头条】2022-07-27-100-行代码搞定了-RPC-原理-！](https://toutiao.io/k/c7jmqc1) 
 - [【开发者头条】2022-07-27-聊一聊数据库的行存与列存](https://toutiao.io/k/qhft99i) 
-- [【开发者头条】2022-07-27-代码杂谈:从一道面试题看学会Rust的难度](https://toutiao.io/k/xhuqr2c) 
 - [【开发者头条】2022-07-27-郑建勋：代码优化的三重境界](https://toutiao.io/k/6eobfqp) 
+- [【开发者头条】2022-07-27-代码杂谈:从一道面试题看学会Rust的难度](https://toutiao.io/k/xhuqr2c) 
 - [【开发者头条】2022-07-27-【300+精选大厂面试题持续分享】大数据运维尖刀面试题专栏（八）](https://toutiao.io/k/2g8u2fa) 
 - [【开发者头条】2022-07-27-一文详解图像中的无监督学习](https://toutiao.io/k/2arzcsm) 
 - [【开发者头条】2022-07-27-Activity.onStop-延迟10秒？检测、定位、修复它！](https://toutiao.io/k/bgqqwou) 
 - [【开发者头条】2022-07-27-Premint-恶意代码注入攻击细节分析](https://toutiao.io/k/gffxt2o) 
-- [【开发者头条】2022-07-27-Go-程序太大了，能要个延迟初始化不？](https://toutiao.io/k/9d1mxxm) 
 - [【开发者头条】2022-07-27-云原生爱好者周刊：Prometheus-架构演进之路](https://toutiao.io/k/ykcn7cg) 
 - [【开发者头条】2022-07-27-这半年我做交易链路自动化回归的那些事儿...](https://toutiao.io/k/drxo0b6) 
+- [【开发者头条】2022-07-27-Go-程序太大了，能要个延迟初始化不？](https://toutiao.io/k/9d1mxxm) 
 - [【开发者头条】2022-07-27-开源项目丨Taier1.2版本发布，新增工作流、租户绑定简化等多项功能](https://toutiao.io/k/7ay1sj5) 
 - [【开发者头条】2022-07-27-推荐-团队一盘散沙，怎么破？](https://toutiao.io/k/kdzpdh5) 
-- [【开发者头条】2022-07-27-推荐-花了一周，我总结了120个数据分析指标与术语。](https://toutiao.io/k/9pzybmk) 
 - [【开发者头条】2022-07-27-推荐-聊聊Java中代码优化的30个小技巧](https://toutiao.io/k/jv8g1r6) 
-- [【开发者头条】2022-07-27-推荐-高并发，你真的理解透彻了吗？](https://toutiao.io/k/93k2zfb) 
+- [【开发者头条】2022-07-27-推荐-花了一周，我总结了120个数据分析指标与术语。](https://toutiao.io/k/9pzybmk) 
 - [【开发者头条】2022-07-27-推荐-腾讯低代码平台正式开源！可拖拽、生成手机项目、PC-项目！接私活福利啊！](https://toutiao.io/k/8oqx21m) 
+- [【开发者头条】2022-07-27-推荐-高并发，你真的理解透彻了吗？](https://toutiao.io/k/93k2zfb) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

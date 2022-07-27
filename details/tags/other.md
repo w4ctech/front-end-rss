@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-27 05:31:17。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-27 05:51:42。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,8 +1911,8 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-07-27-求助，各位有没有谈论户外装备的论坛？](https://www.v2ex.com/t/869008) 
 - [2022-07-27-新模具的-mbp-贴键盘膜还是会有屏幕压痕吗](https://www.v2ex.com/t/869005) 
-- [2022-07-27-后端开发如何快速给自己的小项目做前端的？](https://www.v2ex.com/t/869004) 
 - [2022-07-27-中国版权保护中心（著作权登记系统）从前天开始一直无法登陆或登录后报-SQL-错误](https://www.v2ex.com/t/869002) 
 - [2022-07-27-可以拿到微信的-token-用来进行与好友通信吗](https://www.v2ex.com/t/869000) 
 - [2022-07-27-广州的-it-大佬们，你们现在是双休还是大小周？还是单休？](https://www.v2ex.com/t/868998) 
@@ -1921,7 +1921,6 @@
 - [2022-07-27-kotlin-表达式引擎](https://www.v2ex.com/t/868993) 
 - [2022-07-27-关于产假工资](https://www.v2ex.com/t/868990) 
 - [2022-07-27-全职远程长期稳定-招募-产品/UI-设计师](https://www.v2ex.com/t/868989) 
-- [2022-07-27-请问大家做一个支持同时在线-300-人的古董预定平台，收费-3w-贵吗？](https://www.v2ex.com/t/868987) 
 - [2022-07-27-人在加拿大，为何就知乎和百度云老是要验证手机号，别的网站/APP-不需要？](https://www.v2ex.com/t/868985) 
 - [2022-07-27-IDEA-2022.2-开启-ZGC-的问题](https://www.v2ex.com/t/868984) 
 - [2022-07-27-IDEA-2022.2-正式发布，-Runtime-17-终于到正式版了](https://www.v2ex.com/t/868983) 
@@ -1934,8 +1933,6 @@
 - [2022-07-27-魔都电信宽带的出国速度是渣渣](https://www.v2ex.com/t/868966) 
 - [2022-07-27-寻找-ddd-知友](https://www.v2ex.com/t/868963) 
 - [2022-07-27-上海-不加班-外企-招-Java-、C++、安卓、中级测试、支持工程师、初级-devOps，-Java-和-测试有残疾人岗位](https://www.v2ex.com/t/868962) 
-- [2022-07-27-喜提-1-星评价纪念一下](https://www.v2ex.com/t/868957) 
-- [2022-07-27-mac-转-windows-好难受，尤其是键盘，大家有什么好的解决方案吗？](https://www.v2ex.com/t/868956) 
 - [2022-07-27-数据仓库项目从来不是技术项目-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15251&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fwhat-is-data-warehouse%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-27-Android-框架问题分析案例---谁杀了桌面?-androidperformance.com](https://blogread.cn/news/go.php?idItem=15249&url=https%3A%2F%2Fandroidperformance.com%2F2019%2F09%2F17%2FAndroid-Kill-Background-App-Debug%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-27-生产者消费者编程模式-www.ideawu.net](https://blogread.cn/news/go.php?idItem=15248&url=https%3A%2F%2Fwww.ideawu.net%2Fblog%2Farchives%2F1202.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1957,6 +1954,6 @@
 - [2022-07-27-Activity.onStop-延迟10秒？检测、定位、修复它！](https://toutiao.io/k/bgqqwou) 
 - [2022-07-27-Premint-恶意代码注入攻击细节分析](https://toutiao.io/k/gffxt2o) 
 - [2022-07-27-推荐-花了一周，我总结了120个数据分析指标与术语。](https://toutiao.io/k/9pzybmk) 
-- [2022-07-27-推荐-团队一盘散沙，怎么破？](https://toutiao.io/k/kdzpdh5) 
-- [2022-07-27-推荐-腾讯低代码平台正式开源！可拖拽、生成手机项目、PC-项目！接私活福利啊！](https://toutiao.io/k/8oqx21m) 
 - [2022-07-27-推荐-高并发，你真的理解透彻了吗？](https://toutiao.io/k/93k2zfb) 
+- [2022-07-27-推荐-腾讯低代码平台正式开源！可拖拽、生成手机项目、PC-项目！接私活福利啊！](https://toutiao.io/k/8oqx21m) 
+- [2022-07-27-推荐-团队一盘散沙，怎么破？](https://toutiao.io/k/kdzpdh5) 

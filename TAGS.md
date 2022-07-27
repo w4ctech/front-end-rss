@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-07-27 16:19:40。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-27 17:02:01。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -181,8 +181,8 @@
 - [【张鑫旭-鑫空间-鑫生活】介绍一种CSS变量未定义语法也OK的小妙招](https://www.zhangxinxu.com/wordpress/2022/06/css-var-optional-empty-trick/)
 - [【张鑫旭-鑫空间-鑫生活】如何实现页面刷新后不定位到之前的滚动位置？](https://www.zhangxinxu.com/wordpress/2022/05/history-scrollrestoration/)
 - [【张鑫旭-鑫空间-鑫生活】JS与条形码的生成](https://www.zhangxinxu.com/wordpress/2022/05/js-barcode/)
+- [【V2EX】各位大佬们-黑裙安装时提示-SATA-boot-support-on-this-platform-is-exper-imental!](https://www.v2ex.com/t/869120)
 - [【V2EX】JS-axios-async/await-好像只能返回-promise](https://www.v2ex.com/t/869082)
-- [【V2EX】现在还有低功耗迷你千兆，能刷-op-的-wifi-路由器吗](https://www.v2ex.com/t/869071)
 - [【技术头条】介绍一种CSS变量未定义语法也OK的小妙招-www.zhangxinxu.com](https://blogread.cn/news/go.php?idItem=15235&url=https%3A%2F%2Fwww.zhangxinxu.com%2Fwordpress%2F2022%2F06%2Fcss-var-optional-empty-trick%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [......【查看更多】......](./details/tags/javascript.md)
 
@@ -309,6 +309,7 @@
 
 
 
+- [【V2EX】关于下岗待业闭关是纯粹进修还是卷去读个-master？](https://www.v2ex.com/t/869119)
 - [【V2EX】上海招聘-C++工程师、前端全栈开发](https://www.v2ex.com/t/869111)
 - [【V2EX】目前搭建无需额外客户端的-HTTPS-代理有啥推荐方案的吗?](https://www.v2ex.com/t/869110)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)

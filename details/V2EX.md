@@ -1,10 +1,13 @@
-:alarm_clock: 更新时间: 2022-07-27 16:19:40。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-27 17:02:01。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-07-27-Windows-11-的第-n-种垃圾设计:-有大佬能帮我讲解下它的自动亮度调整逻辑吗](https://www.v2ex.com/t/869121) 
+- [2022-07-27-各位大佬们-黑裙安装时提示-SATA-boot-support-on-this-platform-is-exper-imental!](https://www.v2ex.com/t/869120) 
+- [2022-07-27-关于下岗待业闭关是纯粹进修还是卷去读个-master？](https://www.v2ex.com/t/869119) 
 - [2022-07-27-23-届应届前端求职（webgl-以及-react-经验相对较多](https://www.v2ex.com/t/869117) 
 - [2022-07-27-为什么-Linux-crond-不能原生支持秒级任务？](https://www.v2ex.com/t/869116) 
 - [2022-07-27-有什么推荐的-C#-+-WPF-跨平台开发框架](https://www.v2ex.com/t/869115) 
@@ -42,6 +45,3 @@
 - [2022-07-27-各位的美区-Apple-ID-体验如何？](https://www.v2ex.com/t/869074) 
 - [2022-07-27-23-年了，软盘里文件还在](https://www.v2ex.com/t/869073) 
 - [2022-07-27-怎么可以买到比较不被坑的-iPhone-手机？](https://www.v2ex.com/t/869072) 
-- [2022-07-27-现在还有低功耗迷你千兆，能刷-op-的-wifi-路由器吗](https://www.v2ex.com/t/869071) 
-- [2022-07-27-ubuntu-/usr/include/c++/11/-下的文件报错](https://www.v2ex.com/t/869070) 
-- [2022-07-27-北京/上海国内头部量化机构-诚聘机器学习平台工程师-C++](https://www.v2ex.com/t/869069) 

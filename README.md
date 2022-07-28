@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-07-28 12:29:49，:rocket: 更新条数: +2034， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-07-28 13:22:33，:rocket: 更新条数: +2033， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,12 @@
 </summary>
 
 
+- [2022-07-28-手机坏了，却放松了一天](https://www.v2ex.com/t/869328) ![](assets/new.png)  
+- [2022-07-28-关于-Apple-账号，有人收到这个邮件么？](https://www.v2ex.com/t/869327) ![](assets/new.png)  
+- [2022-07-28-我电脑-macbookpro-2018-款，放在天才吧换键盘，今天打电话来说我电脑系统配置有问题，他们无法配置，需要把系统重新安装，叫我从查找里面把设备给移除。](https://www.v2ex.com/t/869326) ![](assets/new.png)  
+- [2022-07-28-北京-3-年前端裸辞找工作经历记录](https://www.v2ex.com/t/869325) ![](assets/new.png)  
+- [2022-07-28-有没有小伙伴知道淘宝和支付宝的账号注销是逻辑删除吗？](https://www.v2ex.com/t/869324) ![](assets/new.png)  
+- [2022-07-28-思考-感觉现在结交他人的契机越来越少](https://www.v2ex.com/t/869323) ![](assets/new.png)  
 - [2022-07-28-最近支付宝使用滴滴老是弹出加载条，阿滴真要不行了？](https://www.v2ex.com/t/869321) ![](assets/new.png)  
 - [2022-07-28-小米手机的便签怎么转移到其他-vivo-手机中](https://www.v2ex.com/t/869320) ![](assets/new.png)  
 - [2022-07-28-共享游戏机（xbox，-ps5）是怎么支持微信扫码支付的？破解？大客户支持？还是第三方公司开发的插件？](https://www.v2ex.com/t/869318) ![](assets/new.png)  
@@ -505,12 +511,6 @@
 - [2022-07-28-安卓手机的论坛翻页有什么好方法吗？](https://www.v2ex.com/t/869309) ![](assets/new.png)  
 - [2022-07-28-程序员不应该和一门语言绑定在一起](https://www.v2ex.com/t/869308) ![](assets/new.png)  
 - [2022-07-28-工位系统-是与图形化构建引擎相关的.涉及到楼层,屋内结构,工位摆放等功能-请教关于-cesium,unity,ue4-引擎或者有其他推荐能达到描述效果的么](https://www.v2ex.com/t/869307) ![](assets/new.png)  
-- [2022-07-28-开源协议-MIT-与商用疑问](https://www.v2ex.com/t/869306) ![](assets/new.png)  
-- [2022-07-28-人在泰国，可以做个搞个什么样的网站来躺着赚钱？](https://www.v2ex.com/t/869305) ![](assets/new.png)  
-- [2022-07-28-每日优鲜?](https://www.v2ex.com/t/869304) ![](assets/new.png)  
-- [2022-07-28-建立了一个微信养生的羊毛群](https://www.v2ex.com/t/869303) ![](assets/new.png)  
-- [2022-07-28-Google-pixel-5-商家发错地址问题](https://www.v2ex.com/t/869302) ![](assets/new.png)  
-- [2022-07-28-Float-identity](https://www.v2ex.com/t/869301) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -568,11 +568,11 @@
 - [2022-07-28-译文推荐-|-调试-BookKeeper-协议---无界-Ledger](https://toutiao.io/k/8lrq4nm) ![](assets/new.png)  
 - [2022-07-28-1.8w-字的-SQL-优化大全](https://toutiao.io/k/9bmtrfk) ![](assets/new.png)  
 - [2022-07-28-致美国总统的零信任报告](https://toutiao.io/k/5367uxr) ![](assets/new.png)  
-- [2022-07-28-DataOps不是工具，而是帮助企业实现数据价值的最佳实践](https://toutiao.io/k/ztzqtzp) ![](assets/new.png)  
 - [2022-07-28-《HelloGitHub》第-76-期](https://toutiao.io/k/4qsd12a) ![](assets/new.png)  
+- [2022-07-28-DataOps不是工具，而是帮助企业实现数据价值的最佳实践](https://toutiao.io/k/ztzqtzp) ![](assets/new.png)  
 - [2022-07-28-Nest-的实现原理？理解了-reflect-metadata-就懂了](https://toutiao.io/k/9shxxzf) ![](assets/new.png)  
+- [2022-07-28-推荐-聊聊Java中代码优化的30个小技巧](https://toutiao.io/k/jv8g1r6) ![](assets/new.png)  
 - [2022-07-28-推荐-腾讯低代码平台正式开源！可拖拽、生成手机项目、PC-项目！接私活福利啊！](https://toutiao.io/k/8oqx21m) ![](assets/new.png)  
-- [2022-07-28-推荐-花了一周，我总结了120个数据分析指标与术语。](https://toutiao.io/k/9pzybmk) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

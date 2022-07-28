@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-28 12:29:49。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-28 13:22:33。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,12 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-07-28-手机坏了，却放松了一天](https://www.v2ex.com/t/869328) 
+- [2022-07-28-关于-Apple-账号，有人收到这个邮件么？](https://www.v2ex.com/t/869327) 
+- [2022-07-28-我电脑-macbookpro-2018-款，放在天才吧换键盘，今天打电话来说我电脑系统配置有问题，他们无法配置，需要把系统重新安装，叫我从查找里面把设备给移除。](https://www.v2ex.com/t/869326) 
+- [2022-07-28-北京-3-年前端裸辞找工作经历记录](https://www.v2ex.com/t/869325) 
+- [2022-07-28-有没有小伙伴知道淘宝和支付宝的账号注销是逻辑删除吗？](https://www.v2ex.com/t/869324) 
+- [2022-07-28-思考-感觉现在结交他人的契机越来越少](https://www.v2ex.com/t/869323) 
 - [2022-07-28-小米手机的便签怎么转移到其他-vivo-手机中](https://www.v2ex.com/t/869320) 
 - [2022-07-28-对-NUC-失去信心，寻-beelink/minisforum-用户建议](https://www.v2ex.com/t/869317) 
 - [2022-07-28-请教一下如何使用-OpenSSL-签发基于-IPv6-通配符的-SSL-证书？](https://www.v2ex.com/t/869316) 
@@ -1942,12 +1948,6 @@
 - [2022-07-28-手机搜狗输入法怎么快捷输入时间戳](https://www.v2ex.com/t/869286) 
 - [2022-07-28-如果用代码检测一个-EMAIL-地址真实存在？](https://www.v2ex.com/t/869283) 
 - [2022-07-28-请教下关于-Python-运行-Linux-命令行下怎么方便交互](https://www.v2ex.com/t/869281) 
-- [2022-07-28-Proxyman-拼车](https://www.v2ex.com/t/869278) 
-- [2022-07-28-Surge-Mac-4-五人车](https://www.v2ex.com/t/869277) 
-- [2022-07-28-golang-实现的多协议扫描工具-go-protocol-detector，支持-RDP、SSH、FTP、Telnet、VNC、SFTP](https://www.v2ex.com/t/869276) 
-- [2022-07-28-一件小事，白扔了一个鼠标](https://www.v2ex.com/t/869275) 
-- [2022-07-28-ZFS-on-Windows-using-WSL2](https://www.v2ex.com/t/869273) 
-- [2022-07-28-配置文件规整化](https://www.v2ex.com/t/869272) 
 - [2022-07-28-Google-Cloud-Spanner的实践经验-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15252&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fcloud-spanner%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-28-数据仓库项目从来不是技术项目-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15251&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fwhat-is-data-warehouse%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-28-Android-框架问题分析案例---谁杀了桌面?-androidperformance.com](https://blogread.cn/news/go.php?idItem=15249&url=https%3A%2F%2Fandroidperformance.com%2F2019%2F09%2F17%2FAndroid-Kill-Background-App-Debug%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1976,5 +1976,5 @@
 - [2022-07-28-DataOps不是工具，而是帮助企业实现数据价值的最佳实践](https://toutiao.io/k/ztzqtzp) 
 - [2022-07-28-Nest-的实现原理？理解了-reflect-metadata-就懂了](https://toutiao.io/k/9shxxzf) 
 - [2022-07-28-推荐-腾讯低代码平台正式开源！可拖拽、生成手机项目、PC-项目！接私活福利啊！](https://toutiao.io/k/8oqx21m) 
-- [2022-07-28-推荐-花了一周，我总结了120个数据分析指标与术语。](https://toutiao.io/k/9pzybmk) 
 - [2022-07-28-推荐-团队一盘散沙，怎么破？](https://toutiao.io/k/kdzpdh5) 
+- [2022-07-28-推荐-花了一周，我总结了120个数据分析指标与术语。](https://toutiao.io/k/9pzybmk) 

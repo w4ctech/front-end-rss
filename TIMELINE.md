@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-28 12:29:50。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-07-28 13:22:33。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -70,6 +70,12 @@
 
 - [【张鑫旭-鑫空间-鑫生活】2022-07-27-万物皆可clip-path，纯CSS绘制0-9数字](https://www.zhangxinxu.com/wordpress/2022/07/clip-path-css-number/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-07-21-超酷！CSS-font-palette与彩色字体显示](https://www.zhangxinxu.com/wordpress/2022/07/css-font-palette/) 
+- [【V2EX】2022-07-28-手机坏了，却放松了一天](https://www.v2ex.com/t/869328) 
+- [【V2EX】2022-07-28-关于-Apple-账号，有人收到这个邮件么？](https://www.v2ex.com/t/869327) 
+- [【V2EX】2022-07-28-我电脑-macbookpro-2018-款，放在天才吧换键盘，今天打电话来说我电脑系统配置有问题，他们无法配置，需要把系统重新安装，叫我从查找里面把设备给移除。](https://www.v2ex.com/t/869326) 
+- [【V2EX】2022-07-28-北京-3-年前端裸辞找工作经历记录](https://www.v2ex.com/t/869325) 
+- [【V2EX】2022-07-28-有没有小伙伴知道淘宝和支付宝的账号注销是逻辑删除吗？](https://www.v2ex.com/t/869324) 
+- [【V2EX】2022-07-28-思考-感觉现在结交他人的契机越来越少](https://www.v2ex.com/t/869323) 
 - [【V2EX】2022-07-28-最近支付宝使用滴滴老是弹出加载条，阿滴真要不行了？](https://www.v2ex.com/t/869321) 
 - [【V2EX】2022-07-28-小米手机的便签怎么转移到其他-vivo-手机中](https://www.v2ex.com/t/869320) 
 - [【V2EX】2022-07-28-共享游戏机（xbox，-ps5）是怎么支持微信扫码支付的？破解？大客户支持？还是第三方公司开发的插件？](https://www.v2ex.com/t/869318) 
@@ -109,13 +115,6 @@
 - [【V2EX】2022-07-28-请教下关于-Python-运行-Linux-命令行下怎么方便交互](https://www.v2ex.com/t/869281) 
 - [【V2EX】2022-07-28-（深圳/杭州/北京招聘）让你有更多机会参与到-Apache-顶级开源项目-APISIX](https://www.v2ex.com/t/869280) 
 - [【V2EX】2022-07-28-IO-操作密集型程序怎么优化](https://www.v2ex.com/t/869279) 
-- [【V2EX】2022-07-28-Proxyman-拼车](https://www.v2ex.com/t/869278) 
-- [【V2EX】2022-07-28-Surge-Mac-4-五人车](https://www.v2ex.com/t/869277) 
-- [【V2EX】2022-07-28-golang-实现的多协议扫描工具-go-protocol-detector，支持-RDP、SSH、FTP、Telnet、VNC、SFTP](https://www.v2ex.com/t/869276) 
-- [【V2EX】2022-07-28-一件小事，白扔了一个鼠标](https://www.v2ex.com/t/869275) 
-- [【V2EX】2022-07-28-怎么查看域控-DNS-服务器上面的-dns-解析日志啊，主要查下面哪台-pc-请求的-dns-查询记录。](https://www.v2ex.com/t/869274) 
-- [【V2EX】2022-07-28-ZFS-on-Windows-using-WSL2](https://www.v2ex.com/t/869273) 
-- [【V2EX】2022-07-28-配置文件规整化](https://www.v2ex.com/t/869272) 
 - [【技术头条】2022-07-28-Google-Cloud-Spanner的实践经验-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15252&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fcloud-spanner%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-28-数据仓库项目从来不是技术项目-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15251&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fwhat-is-data-warehouse%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-28-Webpack-打包后代码执行时机分析与优化-www.alloyteam.com](https://blogread.cn/news/go.php?idItem=15250&url=http%3A%2F%2Fwww.alloyteam.com%2F2019%2F07%2Fwait-external-webpack-plugin%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -151,13 +150,13 @@
 - [【开发者头条】2022-07-28-译文推荐-|-调试-BookKeeper-协议---无界-Ledger](https://toutiao.io/k/8lrq4nm) 
 - [【开发者头条】2022-07-28-1.8w-字的-SQL-优化大全](https://toutiao.io/k/9bmtrfk) 
 - [【开发者头条】2022-07-28-致美国总统的零信任报告](https://toutiao.io/k/5367uxr) 
-- [【开发者头条】2022-07-28-DataOps不是工具，而是帮助企业实现数据价值的最佳实践](https://toutiao.io/k/ztzqtzp) 
 - [【开发者头条】2022-07-28-《HelloGitHub》第-76-期](https://toutiao.io/k/4qsd12a) 
+- [【开发者头条】2022-07-28-DataOps不是工具，而是帮助企业实现数据价值的最佳实践](https://toutiao.io/k/ztzqtzp) 
 - [【开发者头条】2022-07-28-Nest-的实现原理？理解了-reflect-metadata-就懂了](https://toutiao.io/k/9shxxzf) 
-- [【开发者头条】2022-07-28-推荐-腾讯低代码平台正式开源！可拖拽、生成手机项目、PC-项目！接私活福利啊！](https://toutiao.io/k/8oqx21m) 
-- [【开发者头条】2022-07-28-推荐-花了一周，我总结了120个数据分析指标与术语。](https://toutiao.io/k/9pzybmk) 
-- [【开发者头条】2022-07-28-推荐-团队一盘散沙，怎么破？](https://toutiao.io/k/kdzpdh5) 
 - [【开发者头条】2022-07-28-推荐-聊聊Java中代码优化的30个小技巧](https://toutiao.io/k/jv8g1r6) 
+- [【开发者头条】2022-07-28-推荐-腾讯低代码平台正式开源！可拖拽、生成手机项目、PC-项目！接私活福利啊！](https://toutiao.io/k/8oqx21m) 
+- [【开发者头条】2022-07-28-推荐-团队一盘散沙，怎么破？](https://toutiao.io/k/kdzpdh5) 
+- [【开发者头条】2022-07-28-推荐-花了一周，我总结了120个数据分析指标与术语。](https://toutiao.io/k/9pzybmk) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

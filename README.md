@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-07-28 10:15:34，:rocket: 更新条数: +2031， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-07-28 10:45:05，:rocket: 更新条数: +2033， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,12 @@
 </summary>
 
 
+- [2022-07-28-每日优鲜?](https://www.v2ex.com/t/869304) ![](assets/new.png)  
+- [2022-07-28-建立了一个微信养生的羊毛群](https://www.v2ex.com/t/869303) ![](assets/new.png)  
+- [2022-07-28-Google-pixel-5-商家发错地址问题](https://www.v2ex.com/t/869302) ![](assets/new.png)  
+- [2022-07-28-Float-identity](https://www.v2ex.com/t/869301) ![](assets/new.png)  
+- [2022-07-28-iPhone-手机通过-OTA-或-iTunes-升级或更新到最新的-iOS-15-的的数据库重构问题？](https://www.v2ex.com/t/869300) ![](assets/new.png)  
+- [2022-07-28-讨论关于存钱的陷阱](https://www.v2ex.com/t/869299) ![](assets/new.png)  
 - [2022-07-28-211-本-5-成都-前端求捞～](https://www.v2ex.com/t/869298) ![](assets/new.png)  
 - [2022-07-28-iPhone-有类似手机卡-puk-码的概念吗？](https://www.v2ex.com/t/869297) ![](assets/new.png)  
 - [2022-07-28-mysql-的-text-类型字段，“空”和“默认值”分别为“是”和“null”，用一条值为空的记录更新字段后，值却变成了一个空格，导致!=""判断失败，请教是什么原因呢...](https://www.v2ex.com/t/869296) ![](assets/new.png)  
@@ -505,12 +511,6 @@
 - [2022-07-28-Github-如何加速下载仓库最新-zip-文件？（非-release、非-git-clone-地址）](https://www.v2ex.com/t/869285) ![](assets/new.png)  
 - [2022-07-28-如果用代码检测一个-EMAIL-地址真实存在？](https://www.v2ex.com/t/869283) ![](assets/new.png)  
 - [2022-07-28-求对-html-进行渲染与布局，输出元素相对位置的分析库](https://www.v2ex.com/t/869282) ![](assets/new.png)  
-- [2022-07-28-请教下关于-Python-运行-Linux-命令行下怎么方便交互](https://www.v2ex.com/t/869281) ![](assets/new.png)  
-- [2022-07-28-（深圳/杭州/北京招聘）让你有更多机会参与到-Apache-顶级开源项目-APISIX](https://www.v2ex.com/t/869280) ![](assets/new.png)  
-- [2022-07-28-IO-操作密集型程序怎么优化](https://www.v2ex.com/t/869279) ![](assets/new.png)  
-- [2022-07-28-Proxyman-拼车](https://www.v2ex.com/t/869278) ![](assets/new.png)  
-- [2022-07-28-Surge-Mac-4-五人车](https://www.v2ex.com/t/869277) ![](assets/new.png)  
-- [2022-07-28-golang-实现的多协议扫描工具-go-protocol-detector，支持-RDP、SSH、FTP、Telnet、VNC、SFTP](https://www.v2ex.com/t/869276) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -571,8 +571,8 @@
 - [2022-07-28-《HelloGitHub》第-76-期](https://toutiao.io/k/4qsd12a) ![](assets/new.png)  
 - [2022-07-28-DataOps不是工具，而是帮助企业实现数据价值的最佳实践](https://toutiao.io/k/ztzqtzp) ![](assets/new.png)  
 - [2022-07-28-Nest-的实现原理？理解了-reflect-metadata-就懂了](https://toutiao.io/k/9shxxzf) ![](assets/new.png)  
-- [2022-07-28-推荐-腾讯低代码平台正式开源！可拖拽、生成手机项目、PC-项目！接私活福利啊！](https://toutiao.io/k/8oqx21m) ![](assets/new.png)  
 - [2022-07-28-推荐-花了一周，我总结了120个数据分析指标与术语。](https://toutiao.io/k/9pzybmk) ![](assets/new.png)  
+- [2022-07-28-推荐-团队一盘散沙，怎么破？](https://toutiao.io/k/kdzpdh5) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

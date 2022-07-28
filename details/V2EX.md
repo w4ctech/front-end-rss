@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2022-07-28 05:45:48。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-28 06:18:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-07-28-一家四口想去新加坡，-offer-大概-base-多少能够呢？](https://www.v2ex.com/t/869230) 
+- [2022-07-28-macpro-过了苹果的问题召回年限还有办法么？](https://www.v2ex.com/t/869229) 
 - [2022-07-28-有人知道这个-Youtuber-吗?-Steven-He](https://www.v2ex.com/t/869225) 
 - [2022-07-28-各位大佬现在有没有光口的吸顶-AP-啊?-有的话推荐一下吧!](https://www.v2ex.com/t/869224) 
 - [2022-07-28-Go-运维平台开发-Kubernetes-容器集群平台、容器监控二次开发、自动化运维发布平台](https://www.v2ex.com/t/869223) 
@@ -40,5 +42,3 @@
 - [2022-07-28-有人知道-ios16-和-mac-os-Ventura-啥时候上线吗？](https://www.v2ex.com/t/869183) 
 - [2022-07-28-想问问-nginx-大佬们-nginx-自带的-autoindex-列表有没有不使用第三方插件的优雅的排序方式？](https://www.v2ex.com/t/869182) 
 - [2022-07-28-阿里的轻量云发现有一个这样的-LKM-模块.](https://www.v2ex.com/t/869181) 
-- [2022-07-28-12700k-+-premiere-2021/2022-拖动时间轴游标卡顿](https://www.v2ex.com/t/869178) 
-- [2022-07-28-当年神图·盘灵古域居然升级-1.19-了](https://www.v2ex.com/t/869176) 

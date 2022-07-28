@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-28 21:39:51。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-28 22:13:34。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -14,6 +14,7 @@
 - [2021-01-08-解药|新冠mRNA疫苗安全性有哪些挑战？](https://m.caixin.com/m/2021-01-08/101648043.html) 
 - [2021-01-01-大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html) 
 - [2022-06-12-基于文字的URL锚点定位与::target-text样式设置](https://www.zhangxinxu.com/wordpress/2022/06/url-anchor-target-text/) 
+- [2022-07-28-记录-联想电脑管家锁定其他浏览器主页被问题](https://www.v2ex.com/t/869363) 
 - [2022-07-28-TeraCopy，-FastCopy，-ExtremeCopy,-KillCopy，-SuperCopier4，-UltraCopier，移动复制粘贴文件哪家强？](https://www.v2ex.com/t/869346) 
 - [2022-07-28-哪个品牌的-双卡双待-手机最适合刷开源-AOSP-系统（例如-Pixel-Experience-或-Lineageos）？](https://www.v2ex.com/t/869340) 
 - [2022-07-28-求解跨境数据流动便利化-海南启动网络数据安全地方立法](https://www.v2ex.com/t/869333) 

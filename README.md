@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-07-28 21:39:51，:rocket: 更新条数: +2029， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-07-28 22:13:34，:rocket: 更新条数: +2029， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-07-28-记录-联想电脑管家锁定其他浏览器主页被问题](https://www.v2ex.com/t/869363) ![](assets/new.png)  
 - [2022-07-28-有一个把公开的统计数据可视化的项目，找一位前端合伙人。](https://www.v2ex.com/t/869362) ![](assets/new.png)  
 - [2022-07-28-如果价格一样，-iPad-Air-5-和-iPad-Pro-2020-怎么选](https://www.v2ex.com/t/869361) ![](assets/new.png)  
 - [2022-07-28-联通宽带现在这么能摆烂吗](https://www.v2ex.com/t/869360) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-07-28-有什么好看的表白网页](https://www.v2ex.com/t/869345) ![](assets/new.png)  
 - [2022-07-28-R5S-到底性能怎么样](https://www.v2ex.com/t/869344) ![](assets/new.png)  
 - [2022-07-28-网易在职员工内推～急招-android-系统开发，其他岗位也欢迎私聊](https://www.v2ex.com/t/869343) ![](assets/new.png)  
-- [2022-07-28-微信支付购物车多件物品一起下单后台怎么设计？](https://www.v2ex.com/t/869341) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -571,8 +571,8 @@
 - [2022-07-28-DataOps不是工具，而是帮助企业实现数据价值的最佳实践](https://toutiao.io/k/ztzqtzp) ![](assets/new.png)  
 - [2022-07-28-致美国总统的零信任报告](https://toutiao.io/k/5367uxr) ![](assets/new.png)  
 - [2022-07-28-Nest-的实现原理？理解了-reflect-metadata-就懂了](https://toutiao.io/k/9shxxzf) ![](assets/new.png)  
+- [2022-07-28-推荐-团队一盘散沙，怎么破？](https://toutiao.io/k/kdzpdh5) ![](assets/new.png)  
 - [2022-07-28-推荐-花了一周，我总结了120个数据分析指标与术语。](https://toutiao.io/k/9pzybmk) ![](assets/new.png)  
-- [2022-07-28-推荐-聊聊Java中代码优化的30个小技巧](https://toutiao.io/k/jv8g1r6) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

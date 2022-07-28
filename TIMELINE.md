@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-28 21:39:51。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-07-28 22:13:34。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -70,6 +70,7 @@
 
 - [【张鑫旭-鑫空间-鑫生活】2022-07-27-万物皆可clip-path，纯CSS绘制0-9数字](https://www.zhangxinxu.com/wordpress/2022/07/clip-path-css-number/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-07-21-超酷！CSS-font-palette与彩色字体显示](https://www.zhangxinxu.com/wordpress/2022/07/css-font-palette/) 
+- [【V2EX】2022-07-28-记录-联想电脑管家锁定其他浏览器主页被问题](https://www.v2ex.com/t/869363) 
 - [【V2EX】2022-07-28-有一个把公开的统计数据可视化的项目，找一位前端合伙人。](https://www.v2ex.com/t/869362) 
 - [【V2EX】2022-07-28-如果价格一样，-iPad-Air-5-和-iPad-Pro-2020-怎么选](https://www.v2ex.com/t/869361) 
 - [【V2EX】2022-07-28-联通宽带现在这么能摆烂吗](https://www.v2ex.com/t/869360) 
@@ -110,7 +111,6 @@
 - [【V2EX】2022-07-28-请教一下如何使用-OpenSSL-签发基于-IPv6-通配符的-SSL-证书？](https://www.v2ex.com/t/869316) 
 - [【V2EX】2022-07-28-请问：企业微信，这个-app-内，究竟预埋了些什么地雷？](https://www.v2ex.com/t/869315) 
 - [【V2EX】2022-07-28-经济题！美国加息如何影响普通人生活？](https://www.v2ex.com/t/869314) 
-- [【V2EX】2022-07-28-求南方电网充值优惠的地方？](https://www.v2ex.com/t/869313) 
 - [【技术头条】2022-07-28-Google-Cloud-Spanner的实践经验-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15252&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fcloud-spanner%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-28-数据仓库项目从来不是技术项目-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15251&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fwhat-is-data-warehouse%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-28-Webpack-打包后代码执行时机分析与优化-www.alloyteam.com](https://blogread.cn/news/go.php?idItem=15250&url=http%3A%2F%2Fwww.alloyteam.com%2F2019%2F07%2Fwait-external-webpack-plugin%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -149,10 +149,10 @@
 - [【开发者头条】2022-07-28-DataOps不是工具，而是帮助企业实现数据价值的最佳实践](https://toutiao.io/k/ztzqtzp) 
 - [【开发者头条】2022-07-28-致美国总统的零信任报告](https://toutiao.io/k/5367uxr) 
 - [【开发者头条】2022-07-28-Nest-的实现原理？理解了-reflect-metadata-就懂了](https://toutiao.io/k/9shxxzf) 
+- [【开发者头条】2022-07-28-推荐-团队一盘散沙，怎么破？](https://toutiao.io/k/kdzpdh5) 
 - [【开发者头条】2022-07-28-推荐-花了一周，我总结了120个数据分析指标与术语。](https://toutiao.io/k/9pzybmk) 
 - [【开发者头条】2022-07-28-推荐-聊聊Java中代码优化的30个小技巧](https://toutiao.io/k/jv8g1r6) 
 - [【开发者头条】2022-07-28-推荐-腾讯低代码平台正式开源！可拖拽、生成手机项目、PC-项目！接私活福利啊！](https://toutiao.io/k/8oqx21m) 
-- [【开发者头条】2022-07-28-推荐-团队一盘散沙，怎么破？](https://toutiao.io/k/kdzpdh5) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

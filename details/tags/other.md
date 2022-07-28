@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-28 11:39:04。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-28 12:29:49。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,11 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-07-28-小米手机的便签怎么转移到其他-vivo-手机中](https://www.v2ex.com/t/869320) 
+- [2022-07-28-对-NUC-失去信心，寻-beelink/minisforum-用户建议](https://www.v2ex.com/t/869317) 
+- [2022-07-28-请教一下如何使用-OpenSSL-签发基于-IPv6-通配符的-SSL-证书？](https://www.v2ex.com/t/869316) 
+- [2022-07-28-请问：企业微信，这个-app-内，究竟预埋了些什么地雷？](https://www.v2ex.com/t/869315) 
+- [2022-07-28-经济题！美国加息如何影响普通人生活？](https://www.v2ex.com/t/869314) 
 - [2022-07-28-求南方电网充值优惠的地方？](https://www.v2ex.com/t/869313) 
 - [2022-07-28-这墙迎来了大更新？](https://www.v2ex.com/t/869312) 
 - [2022-07-28-idea-二次开发](https://www.v2ex.com/t/869311) 
@@ -1943,11 +1948,6 @@
 - [2022-07-28-一件小事，白扔了一个鼠标](https://www.v2ex.com/t/869275) 
 - [2022-07-28-ZFS-on-Windows-using-WSL2](https://www.v2ex.com/t/869273) 
 - [2022-07-28-配置文件规整化](https://www.v2ex.com/t/869272) 
-- [2022-07-28-switch-接口查看时长？](https://www.v2ex.com/t/869270) 
-- [2022-07-28-分享自己开发的两个-alfred-工作流短信验证码提取/阿里机器翻译](https://www.v2ex.com/t/869267) 
-- [2022-07-28-看到有人对“做出一个实物作品”感兴趣，因为我有相关经验，特开一个问答交流贴，希望能互相学习。](https://www.v2ex.com/t/869266) 
-- [2022-07-28-求告知，-macbook-pro-17-款-B-面边框橡胶圈老化怎么维修最便宜](https://www.v2ex.com/t/869265) 
-- [2022-07-28-各位大佬，求推荐半入耳式无线耳机，日常高频使用，要求有主动降噪，音质过得去。](https://www.v2ex.com/t/869264) 
 - [2022-07-28-Google-Cloud-Spanner的实践经验-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15252&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fcloud-spanner%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-28-数据仓库项目从来不是技术项目-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15251&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fwhat-is-data-warehouse%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-28-Android-框架问题分析案例---谁杀了桌面?-androidperformance.com](https://blogread.cn/news/go.php?idItem=15249&url=https%3A%2F%2Fandroidperformance.com%2F2019%2F09%2F17%2FAndroid-Kill-Background-App-Debug%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1975,6 +1975,6 @@
 - [2022-07-28-致美国总统的零信任报告](https://toutiao.io/k/5367uxr) 
 - [2022-07-28-DataOps不是工具，而是帮助企业实现数据价值的最佳实践](https://toutiao.io/k/ztzqtzp) 
 - [2022-07-28-Nest-的实现原理？理解了-reflect-metadata-就懂了](https://toutiao.io/k/9shxxzf) 
+- [2022-07-28-推荐-腾讯低代码平台正式开源！可拖拽、生成手机项目、PC-项目！接私活福利啊！](https://toutiao.io/k/8oqx21m) 
 - [2022-07-28-推荐-花了一周，我总结了120个数据分析指标与术语。](https://toutiao.io/k/9pzybmk) 
 - [2022-07-28-推荐-团队一盘散沙，怎么破？](https://toutiao.io/k/kdzpdh5) 
-- [2022-07-28-推荐-腾讯低代码平台正式开源！可拖拽、生成手机项目、PC-项目！接私活福利啊！](https://toutiao.io/k/8oqx21m) 

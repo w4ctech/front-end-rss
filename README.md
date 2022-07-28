@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-07-28 11:39:04，:rocket: 更新条数: +2034， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-07-28 12:29:49，:rocket: 更新条数: +2034， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,13 @@
 </summary>
 
 
+- [2022-07-28-最近支付宝使用滴滴老是弹出加载条，阿滴真要不行了？](https://www.v2ex.com/t/869321) ![](assets/new.png)  
+- [2022-07-28-小米手机的便签怎么转移到其他-vivo-手机中](https://www.v2ex.com/t/869320) ![](assets/new.png)  
+- [2022-07-28-共享游戏机（xbox，-ps5）是怎么支持微信扫码支付的？破解？大客户支持？还是第三方公司开发的插件？](https://www.v2ex.com/t/869318) ![](assets/new.png)  
+- [2022-07-28-对-NUC-失去信心，寻-beelink/minisforum-用户建议](https://www.v2ex.com/t/869317) ![](assets/new.png)  
+- [2022-07-28-请教一下如何使用-OpenSSL-签发基于-IPv6-通配符的-SSL-证书？](https://www.v2ex.com/t/869316) ![](assets/new.png)  
+- [2022-07-28-请问：企业微信，这个-app-内，究竟预埋了些什么地雷？](https://www.v2ex.com/t/869315) ![](assets/new.png)  
+- [2022-07-28-经济题！美国加息如何影响普通人生活？](https://www.v2ex.com/t/869314) ![](assets/new.png)  
 - [2022-07-28-求南方电网充值优惠的地方？](https://www.v2ex.com/t/869313) ![](assets/new.png)  
 - [2022-07-28-这墙迎来了大更新？](https://www.v2ex.com/t/869312) ![](assets/new.png)  
 - [2022-07-28-idea-二次开发](https://www.v2ex.com/t/869311) ![](assets/new.png)  
@@ -504,13 +511,6 @@
 - [2022-07-28-建立了一个微信养生的羊毛群](https://www.v2ex.com/t/869303) ![](assets/new.png)  
 - [2022-07-28-Google-pixel-5-商家发错地址问题](https://www.v2ex.com/t/869302) ![](assets/new.png)  
 - [2022-07-28-Float-identity](https://www.v2ex.com/t/869301) ![](assets/new.png)  
-- [2022-07-28-iPhone-手机通过-OTA-或-iTunes-升级或更新到最新的-iOS-15-的的数据库重构问题？](https://www.v2ex.com/t/869300) ![](assets/new.png)  
-- [2022-07-28-讨论关于存钱的陷阱](https://www.v2ex.com/t/869299) ![](assets/new.png)  
-- [2022-07-28-211-本-5-成都-前端求捞～](https://www.v2ex.com/t/869298) ![](assets/new.png)  
-- [2022-07-28-iPhone-有类似手机卡-puk-码的概念吗？](https://www.v2ex.com/t/869297) ![](assets/new.png)  
-- [2022-07-28-mysql-的-text-类型字段，“空”和“默认值”分别为“是”和“null”，用一条值为空的记录更新字段后，值却变成了一个空格，导致!=""判断失败，请教是什么原因呢...](https://www.v2ex.com/t/869296) ![](assets/new.png)  
-- [2022-07-28-上海招聘-Web3-外资初创-前谷歌团队-急需-Go+Solidity](https://www.v2ex.com/t/869295) ![](assets/new.png)  
-- [2022-07-28-哪些情况下你会选择海淘而不选择国内电商呀？](https://www.v2ex.com/t/869292) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -566,12 +566,12 @@
 - [2022-07-28-18张图，直观理解神经网络、流形和拓扑](https://toutiao.io/k/coxacdk) ![](assets/new.png)  
 - [2022-07-28-【第2682期】前端场景下请求的Race-Conditions](https://toutiao.io/k/s9pzu7i) ![](assets/new.png)  
 - [2022-07-28-译文推荐-|-调试-BookKeeper-协议---无界-Ledger](https://toutiao.io/k/8lrq4nm) ![](assets/new.png)  
-- [2022-07-28-致美国总统的零信任报告](https://toutiao.io/k/5367uxr) ![](assets/new.png)  
 - [2022-07-28-1.8w-字的-SQL-优化大全](https://toutiao.io/k/9bmtrfk) ![](assets/new.png)  
-- [2022-07-28-《HelloGitHub》第-76-期](https://toutiao.io/k/4qsd12a) ![](assets/new.png)  
+- [2022-07-28-致美国总统的零信任报告](https://toutiao.io/k/5367uxr) ![](assets/new.png)  
 - [2022-07-28-DataOps不是工具，而是帮助企业实现数据价值的最佳实践](https://toutiao.io/k/ztzqtzp) ![](assets/new.png)  
+- [2022-07-28-《HelloGitHub》第-76-期](https://toutiao.io/k/4qsd12a) ![](assets/new.png)  
 - [2022-07-28-Nest-的实现原理？理解了-reflect-metadata-就懂了](https://toutiao.io/k/9shxxzf) ![](assets/new.png)  
-- [2022-07-28-推荐-聊聊Java中代码优化的30个小技巧](https://toutiao.io/k/jv8g1r6) ![](assets/new.png)  
+- [2022-07-28-推荐-腾讯低代码平台正式开源！可拖拽、生成手机项目、PC-项目！接私活福利啊！](https://toutiao.io/k/8oqx21m) ![](assets/new.png)  
 - [2022-07-28-推荐-花了一周，我总结了120个数据分析指标与术语。](https://toutiao.io/k/9pzybmk) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

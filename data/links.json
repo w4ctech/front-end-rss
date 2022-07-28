@@ -9953,6 +9953,16 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "有没有山西电信的小伙伴来试试 TR069 组网的？",
+        "link": "https://www.v2ex.com/t/869287",
+        "date": "2022-07-28"
+      },
+      {
+        "title": "手机搜狗输入法怎么快捷输入时间戳",
+        "link": "https://www.v2ex.com/t/869286",
+        "date": "2022-07-28"
+      },
+      {
         "title": "Github 如何加速下载仓库最新 zip 文件？（非 release、非 git clone 地址）",
         "link": "https://www.v2ex.com/t/869285",
         "date": "2022-07-28"
@@ -10156,16 +10166,6 @@
         "title": "如果想要像稚辉君一样把一个想法变成一个实物,需要有怎么样的知识储备,应该从学什么开始?",
         "link": "https://www.v2ex.com/t/869238",
         "date": "2022-07-28"
-      },
-      {
-        "title": "怎么感觉 M2 macbook air 没有 M1 mac mini 流畅?",
-        "link": "https://www.v2ex.com/t/869237",
-        "date": "2022-07-28"
-      },
-      {
-        "title": "[杭州/上海] Android/Flutter 求内推",
-        "link": "https://www.v2ex.com/t/869236",
-        "date": "2022-07-28"
       }
     ]
   },
@@ -10174,6 +10174,11 @@
     "title": "技术头条",
     "link": "http://blogread.cn/news/newest.php",
     "items": [
+      {
+        "title": "Google Cloud Spanner的实践经验 (insights.thoughtworks.cn)",
+        "link": "https://blogread.cn/news/go.php?idItem=15252&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fcloud-spanner%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2022-07-28"
+      },
       {
         "title": "数据仓库项目从来不是技术项目 (insights.thoughtworks.cn)",
         "link": "https://blogread.cn/news/go.php?idItem=15251&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fwhat-is-data-warehouse%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
@@ -10267,11 +10272,6 @@
       {
         "title": "编译的速度与激情：从 10mins 到 1s (www.alloyteam.com)",
         "link": "https://blogread.cn/news/go.php?idItem=15233&url=http%3A%2F%2Fwww.alloyteam.com%2F2020%2F12%2F14882%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-07-28"
-      },
-      {
-        "title": "数据库全量SQL分析与审计系统性能优化之旅 (tech.meituan.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=15232&url=https%3A%2F%2Ftech.meituan.com%2F2022%2F06%2F09%2Fthe-route-of-database-get-audit-sql-optimize.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
         "date": "2022-07-28"
       }
     ]
@@ -10372,8 +10372,8 @@
         "date": "2022-07-28"
       },
       {
-        "title": "[推荐] 团队一盘散沙，怎么破？",
-        "link": "https://toutiao.io/k/kdzpdh5",
+        "title": "[推荐] 腾讯低代码平台正式开源！可拖拽、生成手机项目、PC 项目！接私活福利啊！",
+        "link": "https://toutiao.io/k/8oqx21m",
         "date": "2022-07-28"
       },
       {
@@ -10387,8 +10387,8 @@
         "date": "2022-07-28"
       },
       {
-        "title": "[推荐] 腾讯低代码平台正式开源！可拖拽、生成手机项目、PC 项目！接私活福利啊！",
-        "link": "https://toutiao.io/k/8oqx21m",
+        "title": "[推荐] 团队一盘散沙，怎么破？",
+        "link": "https://toutiao.io/k/kdzpdh5",
         "date": "2022-07-28"
       }
     ]

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-28 09:14:27。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-07-28 09:41:47。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -70,6 +70,8 @@
 
 - [【张鑫旭-鑫空间-鑫生活】2022-07-27-万物皆可clip-path，纯CSS绘制0-9数字](https://www.zhangxinxu.com/wordpress/2022/07/clip-path-css-number/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-07-21-超酷！CSS-font-palette与彩色字体显示](https://www.zhangxinxu.com/wordpress/2022/07/css-font-palette/) 
+- [【V2EX】2022-07-28-有没有山西电信的小伙伴来试试-TR069-组网的？](https://www.v2ex.com/t/869287) 
+- [【V2EX】2022-07-28-手机搜狗输入法怎么快捷输入时间戳](https://www.v2ex.com/t/869286) 
 - [【V2EX】2022-07-28-Github-如何加速下载仓库最新-zip-文件？（非-release、非-git-clone-地址）](https://www.v2ex.com/t/869285) 
 - [【V2EX】2022-07-28-如果用代码检测一个-EMAIL-地址真实存在？](https://www.v2ex.com/t/869283) 
 - [【V2EX】2022-07-28-求对-html-进行渲染与布局，输出元素相对位置的分析库](https://www.v2ex.com/t/869282) 
@@ -111,8 +113,7 @@
 - [【V2EX】2022-07-28-win-下应该安装什么杀毒/清理垃圾的软件？](https://www.v2ex.com/t/869240) 
 - [【V2EX】2022-07-28-做了一个中文区-awesome-github-profile-的项目，欢迎大家展示自己的主页](https://www.v2ex.com/t/869239) 
 - [【V2EX】2022-07-28-如果想要像稚辉君一样把一个想法变成一个实物,需要有怎么样的知识储备,应该从学什么开始?](https://www.v2ex.com/t/869238) 
-- [【V2EX】2022-07-28-怎么感觉-M2-macbook-air-没有-M1-mac-mini-流畅?](https://www.v2ex.com/t/869237) 
-- [【V2EX】2022-07-28-杭州/上海-Android/Flutter-求内推](https://www.v2ex.com/t/869236) 
+- [【技术头条】2022-07-28-Google-Cloud-Spanner的实践经验-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15252&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fcloud-spanner%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-28-数据仓库项目从来不是技术项目-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15251&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fwhat-is-data-warehouse%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-28-Webpack-打包后代码执行时机分析与优化-www.alloyteam.com](https://blogread.cn/news/go.php?idItem=15250&url=http%3A%2F%2Fwww.alloyteam.com%2F2019%2F07%2Fwait-external-webpack-plugin%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-28-Android-框架问题分析案例---谁杀了桌面?-androidperformance.com](https://blogread.cn/news/go.php?idItem=15249&url=https%3A%2F%2Fandroidperformance.com%2F2019%2F09%2F17%2FAndroid-Kill-Background-App-Debug%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -132,7 +133,6 @@
 - [【技术头条】2022-07-28-介绍一种CSS变量未定义语法也OK的小妙招-www.zhangxinxu.com](https://blogread.cn/news/go.php?idItem=15235&url=https%3A%2F%2Fwww.zhangxinxu.com%2Fwordpress%2F2022%2F06%2Fcss-var-optional-empty-trick%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-28-用树莓派打造一个超薄魔镜的简单教程-onevcat.com](https://blogread.cn/news/go.php?idItem=15234&url=https%3A%2F%2Fonevcat.com%2F2021%2F04%2Fmagicmirror%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-28-编译的速度与激情：从-10mins-到-1s-www.alloyteam.com](https://blogread.cn/news/go.php?idItem=15233&url=http%3A%2F%2Fwww.alloyteam.com%2F2020%2F12%2F14882%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
-- [【技术头条】2022-07-28-数据库全量SQL分析与审计系统性能优化之旅-tech.meituan.com](https://blogread.cn/news/go.php?idItem=15232&url=https%3A%2F%2Ftech.meituan.com%2F2022%2F06%2F09%2Fthe-route-of-database-get-audit-sql-optimize.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【开发者头条】2022-07-28-老板：公司系统太多，能不能实现账号互通？](https://toutiao.io/k/g7sb904) 
 - [【开发者头条】2022-07-28-基于SPI的增强式插件框架设计](https://toutiao.io/k/yqckco9) 
 - [【开发者头条】2022-07-28-runc-hang-导致-Kubernetes-节点-NotReady](https://toutiao.io/k/pz76s4h) 
@@ -151,10 +151,10 @@
 - [【开发者头条】2022-07-28-《HelloGitHub》第-76-期](https://toutiao.io/k/4qsd12a) 
 - [【开发者头条】2022-07-28-DataOps不是工具，而是帮助企业实现数据价值的最佳实践](https://toutiao.io/k/ztzqtzp) 
 - [【开发者头条】2022-07-28-Nest-的实现原理？理解了-reflect-metadata-就懂了](https://toutiao.io/k/9shxxzf) 
-- [【开发者头条】2022-07-28-推荐-团队一盘散沙，怎么破？](https://toutiao.io/k/kdzpdh5) 
+- [【开发者头条】2022-07-28-推荐-腾讯低代码平台正式开源！可拖拽、生成手机项目、PC-项目！接私活福利啊！](https://toutiao.io/k/8oqx21m) 
 - [【开发者头条】2022-07-28-推荐-花了一周，我总结了120个数据分析指标与术语。](https://toutiao.io/k/9pzybmk) 
 - [【开发者头条】2022-07-28-推荐-聊聊Java中代码优化的30个小技巧](https://toutiao.io/k/jv8g1r6) 
-- [【开发者头条】2022-07-28-推荐-腾讯低代码平台正式开源！可拖拽、生成手机项目、PC-项目！接私活福利啊！](https://toutiao.io/k/8oqx21m) 
+- [【开发者头条】2022-07-28-推荐-团队一盘散沙，怎么破？](https://toutiao.io/k/kdzpdh5) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

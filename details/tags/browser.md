@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-27 23:40:58。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-28 01:07:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -16,6 +16,5 @@
 - [2022-06-12-基于文字的URL锚点定位与::target-text样式设置](https://www.zhangxinxu.com/wordpress/2022/06/url-anchor-target-text/) 
 - [2022-07-27-求-Chrome-插件：网页上批注并导出-pdf](https://www.v2ex.com/t/869127) 
 - [2022-07-27-（缺一位）美区-iCloud-512G-Apple-One-Premier-超大杯](https://www.v2ex.com/t/869098) 
-- [2022-07-27-Chrome-自动添加开机登陆项-,-能解决吗?](https://www.v2ex.com/t/869083) 
-- [2022-07-27-坐拥最大的高速缓存，Facebook-如何保证缓存一致性？](https://toutiao.io/k/93fubbq) 
-- [2022-07-27-开源项目丨Taier1.2版本发布，新增工作流、租户绑定简化等多项功能](https://toutiao.io/k/7ay1sj5) 
+- [2022-07-28-译文推荐-|-调试-BookKeeper-协议---无界-Ledger](https://toutiao.io/k/8lrq4nm) 
+- [2022-07-28-【第2682期】前端场景下请求的Race-Conditions](https://toutiao.io/k/s9pzu7i) 

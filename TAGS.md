@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-07-28 09:41:47。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-28 10:15:34。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -337,7 +337,6 @@
 
 
 - [【V2EX】Github-如何加速下载仓库最新-zip-文件？（非-release、非-git-clone-地址）](https://www.v2ex.com/t/869285)
-- [【V2EX】做了一个中文区-awesome-github-profile-的项目，欢迎大家展示自己的主页](https://www.v2ex.com/t/869239)
 - [【技术头条】把-DropBox-当作私有化-Git-仓库-blog.devtang.com](https://blogread.cn/news/go.php?idItem=15239&url=https%3A%2F%2Fblog.devtang.com%2F2021%2F10%2F16%2Fusing-dropbox-as-git-remote-rep%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【开发者头条】《HelloGitHub》第-76-期](https://toutiao.io/k/4qsd12a)
 - [......【查看更多】......](./details/tags/git-svn.md)
@@ -356,6 +355,7 @@
 
 
 
+- [【V2EX】上海招聘-Web3-外资初创-前谷歌团队-急需-Go+Solidity](https://www.v2ex.com/t/869295)
 - [【V2EX】（深圳/杭州/北京招聘）让你有更多机会参与到-Apache-顶级开源项目-APISIX](https://www.v2ex.com/t/869280)
 - [【V2EX】Web3-招聘：-Design-Lead---base-杭州优先|远程---年薪-50-70-万](https://www.v2ex.com/t/869263)
 - [......【查看更多】......](./details/tags/job-interview.md)

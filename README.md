@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-07-28 15:15:00，:rocket: 更新条数: +2029， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-07-28 15:44:58，:rocket: 更新条数: +2028， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,12 @@
 </summary>
 
 
+- [2022-07-28-2022-iOS/-iPad-OS-原生-Swift-目前有比较可行的热更新策略么](https://www.v2ex.com/t/869355) ![](assets/new.png)  
+- [2022-07-28-招聘一枚靠谱后端-Java-工程师，可在家办公，区块链岗位](https://www.v2ex.com/t/869354) ![](assets/new.png)  
+- [2022-07-28-同一个订单，淘宝移动端不能申请-7-天无理由退款，而在-PC-网页端可以。](https://www.v2ex.com/t/869353) ![](assets/new.png)  
+- [2022-07-28-PDF-Expert](https://www.v2ex.com/t/869352) ![](assets/new.png)  
+- [2022-07-28-番茄酱不过期是加了防腐剂还是番茄酱确实不容易过期？](https://www.v2ex.com/t/869350) ![](assets/new.png)  
+- [2022-07-28-如何完整下载-git-远程仓库?](https://www.v2ex.com/t/869349) ![](assets/new.png)  
 - [2022-07-28-双拼输入法有必要学吗](https://www.v2ex.com/t/869348) ![](assets/new.png)  
 - [2022-07-28-七夕想送个手机给相亲对象，有推荐的型号嘛](https://www.v2ex.com/t/869347) ![](assets/new.png)  
 - [2022-07-28-TeraCopy，-FastCopy，-ExtremeCopy,-KillCopy，-SuperCopier4，-UltraCopier，移动复制粘贴文件哪家强？](https://www.v2ex.com/t/869346) ![](assets/new.png)  
@@ -505,12 +511,6 @@
 - [2022-07-28-个人数据备份的一些问题](https://www.v2ex.com/t/869332) ![](assets/new.png)  
 - [2022-07-28-steam-非国区是不是+86-收不到短信？](https://www.v2ex.com/t/869330) ![](assets/new.png)  
 - [2022-07-28-杭州有做-app-测试的同学能帮我一个忙吗？](https://www.v2ex.com/t/869329) ![](assets/new.png)  
-- [2022-07-28-手机坏了，却放松了一天](https://www.v2ex.com/t/869328) ![](assets/new.png)  
-- [2022-07-28-关于-Apple-账号，有人收到这个邮件么？](https://www.v2ex.com/t/869327) ![](assets/new.png)  
-- [2022-07-28-我电脑-macbookpro-2018-款，放在天才吧换键盘，今天打电话来说我电脑系统配置有问题，他们无法配置，需要把系统重新安装，叫我从查找里面把设备给移除。](https://www.v2ex.com/t/869326) ![](assets/new.png)  
-- [2022-07-28-北京-3-年前端裸辞找工作经历记录](https://www.v2ex.com/t/869325) ![](assets/new.png)  
-- [2022-07-28-有没有小伙伴知道淘宝和支付宝的账号注销是逻辑删除吗？](https://www.v2ex.com/t/869324) ![](assets/new.png)  
-- [2022-07-28-思考-感觉现在结交他人的契机越来越少](https://www.v2ex.com/t/869323) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -567,12 +567,12 @@
 - [2022-07-28-Flink-在讯飞-AI-营销业务的实时数据分析实践](https://toutiao.io/k/2qy1las) ![](assets/new.png)  
 - [2022-07-28-18张图，直观理解神经网络、流形和拓扑](https://toutiao.io/k/coxacdk) ![](assets/new.png)  
 - [2022-07-28-译文推荐-|-调试-BookKeeper-协议---无界-Ledger](https://toutiao.io/k/8lrq4nm) ![](assets/new.png)  
-- [2022-07-28-致美国总统的零信任报告](https://toutiao.io/k/5367uxr) ![](assets/new.png)  
 - [2022-07-28-《HelloGitHub》第-76-期](https://toutiao.io/k/4qsd12a) ![](assets/new.png)  
+- [2022-07-28-致美国总统的零信任报告](https://toutiao.io/k/5367uxr) ![](assets/new.png)  
 - [2022-07-28-DataOps不是工具，而是帮助企业实现数据价值的最佳实践](https://toutiao.io/k/ztzqtzp) ![](assets/new.png)  
 - [2022-07-28-Nest-的实现原理？理解了-reflect-metadata-就懂了](https://toutiao.io/k/9shxxzf) ![](assets/new.png)  
-- [2022-07-28-推荐-聊聊Java中代码优化的30个小技巧](https://toutiao.io/k/jv8g1r6) ![](assets/new.png)  
-- [2022-07-28-推荐-花了一周，我总结了120个数据分析指标与术语。](https://toutiao.io/k/9pzybmk) ![](assets/new.png)  
+- [2022-07-28-推荐-腾讯低代码平台正式开源！可拖拽、生成手机项目、PC-项目！接私活福利啊！](https://toutiao.io/k/8oqx21m) ![](assets/new.png)  
+- [2022-07-28-推荐-团队一盘散沙，怎么破？](https://toutiao.io/k/kdzpdh5) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

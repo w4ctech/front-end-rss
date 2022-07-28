@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-28 15:44:58。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-28 16:20:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,9 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-07-28-微软账号注销后无法重新注册?](https://www.v2ex.com/t/869359) 
+- [2022-07-28-本周日（7-月-31-号），北京自行车骑行。黑分解路线。早上-7-点-生命科学园地铁站集合。有一起的吗？欢迎扫码进群](https://www.v2ex.com/t/869358) 
+- [2022-07-28-关于新人入职的态度](https://www.v2ex.com/t/869357) 
 - [2022-07-28-2022-iOS/-iPad-OS-原生-Swift-目前有比较可行的热更新策略么](https://www.v2ex.com/t/869355) 
 - [2022-07-28-同一个订单，淘宝移动端不能申请-7-天无理由退款，而在-PC-网页端可以。](https://www.v2ex.com/t/869353) 
 - [2022-07-28-PDF-Expert](https://www.v2ex.com/t/869352) 
@@ -1939,9 +1942,6 @@
 - [2022-07-28-求南方电网充值优惠的地方？](https://www.v2ex.com/t/869313) 
 - [2022-07-28-idea-二次开发](https://www.v2ex.com/t/869311) 
 - [2022-07-28-杭州靠谱机会：-Java-技术专家-数据库内核-SQL-引擎研发，薪水-35k-70k](https://www.v2ex.com/t/869310) 
-- [2022-07-28-安卓手机的论坛翻页有什么好方法吗？](https://www.v2ex.com/t/869309) 
-- [2022-07-28-程序员不应该和一门语言绑定在一起](https://www.v2ex.com/t/869308) 
-- [2022-07-28-开源协议-MIT-与商用疑问](https://www.v2ex.com/t/869306) 
 - [2022-07-28-Google-Cloud-Spanner的实践经验-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15252&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fcloud-spanner%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-28-数据仓库项目从来不是技术项目-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15251&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fwhat-is-data-warehouse%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-28-Android-框架问题分析案例---谁杀了桌面?-androidperformance.com](https://blogread.cn/news/go.php?idItem=15249&url=https%3A%2F%2Fandroidperformance.com%2F2019%2F09%2F17%2FAndroid-Kill-Background-App-Debug%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1966,8 +1966,8 @@
 - [2022-07-28-使用-Neuron-接入-Modbus-TCP-及-Modbus-RTU-协议设备](https://toutiao.io/k/36afe21) 
 - [2022-07-28-Flink-在讯飞-AI-营销业务的实时数据分析实践](https://toutiao.io/k/2qy1las) 
 - [2022-07-28-18张图，直观理解神经网络、流形和拓扑](https://toutiao.io/k/coxacdk) 
-- [2022-07-28-致美国总统的零信任报告](https://toutiao.io/k/5367uxr) 
 - [2022-07-28-DataOps不是工具，而是帮助企业实现数据价值的最佳实践](https://toutiao.io/k/ztzqtzp) 
+- [2022-07-28-致美国总统的零信任报告](https://toutiao.io/k/5367uxr) 
 - [2022-07-28-Nest-的实现原理？理解了-reflect-metadata-就懂了](https://toutiao.io/k/9shxxzf) 
 - [2022-07-28-推荐-腾讯低代码平台正式开源！可拖拽、生成手机项目、PC-项目！接私活福利啊！](https://toutiao.io/k/8oqx21m) 
 - [2022-07-28-推荐-团队一盘散沙，怎么破？](https://toutiao.io/k/kdzpdh5) 

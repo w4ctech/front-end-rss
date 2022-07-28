@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-28 05:06:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-28 05:45:47。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,14 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-07-28-有人知道这个-Youtuber-吗?-Steven-He](https://www.v2ex.com/t/869225) 
+- [2022-07-28-各位大佬现在有没有光口的吸顶-AP-啊?-有的话推荐一下吧!](https://www.v2ex.com/t/869224) 
+- [2022-07-28-Go-运维平台开发-Kubernetes-容器集群平台、容器监控二次开发、自动化运维发布平台](https://www.v2ex.com/t/869223) 
+- [2022-07-28-请问-macOS-系统的色轮到底是什么？它是否有正式的名称叫法及中文翻译？谢谢！](https://www.v2ex.com/t/869222) 
+- [2022-07-28-三星-Android-设备（Tab-S8）台版比国行有什么优劣？](https://www.v2ex.com/t/869221) 
+- [2022-07-28-询价-2020-款-MacBook-air-i5-8+256-银色](https://www.v2ex.com/t/869220) 
+- [2022-07-28-UE5-商城挂了](https://www.v2ex.com/t/869219) 
+- [2022-07-28-如何测试某个-ip-服务器的某个端口是否畅通](https://www.v2ex.com/t/869218) 
 - [2022-07-28-正常情况下，-CPU-和显卡多久需要换一次硅脂？](https://www.v2ex.com/t/869216) 
 - [2022-07-28-微软近期有账户数据泄露吗？](https://www.v2ex.com/t/869214) 
 - [2022-07-28-绝了，手机误触在美团外卖自动下单成功......](https://www.v2ex.com/t/869213) 
@@ -1931,9 +1939,6 @@
 - [2022-07-28-有人知道-ios16-和-mac-os-Ventura-啥时候上线吗？](https://www.v2ex.com/t/869183) 
 - [2022-07-28-阿里的轻量云发现有一个这样的-LKM-模块.](https://www.v2ex.com/t/869181) 
 - [2022-07-28-当年神图·盘灵古域居然升级-1.19-了](https://www.v2ex.com/t/869176) 
-- [2022-07-28-Dropbox/Google-里面的钓鱼图片是什么意思？](https://www.v2ex.com/t/869173) 
-- [2022-07-28-快捷指令如何让文本在-HomePod-mini-上朗读？](https://www.v2ex.com/t/869172) 
-- [2022-07-28-centos-服务器上通常用什么观看流媒体](https://www.v2ex.com/t/869168) 
 - [2022-07-28-数据仓库项目从来不是技术项目-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15251&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fwhat-is-data-warehouse%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-28-Android-框架问题分析案例---谁杀了桌面?-androidperformance.com](https://blogread.cn/news/go.php?idItem=15249&url=https%3A%2F%2Fandroidperformance.com%2F2019%2F09%2F17%2FAndroid-Kill-Background-App-Debug%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-28-生产者消费者编程模式-www.ideawu.net](https://blogread.cn/news/go.php?idItem=15248&url=https%3A%2F%2Fwww.ideawu.net%2Fblog%2Farchives%2F1202.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1959,5 +1964,5 @@
 - [2022-07-28-基于-eBPF-的-Kubernetes-可观测实践](https://toutiao.io/k/a8g4rvc) 
 - [2022-07-28-致美国总统的零信任报告](https://toutiao.io/k/5367uxr) 
 - [2022-07-28-推荐-腾讯低代码平台正式开源！可拖拽、生成手机项目、PC-项目！接私活福利啊！](https://toutiao.io/k/8oqx21m) 
-- [2022-07-28-推荐-花了一周，我总结了120个数据分析指标与术语。](https://toutiao.io/k/9pzybmk) 
 - [2022-07-28-推荐-团队一盘散沙，怎么破？](https://toutiao.io/k/kdzpdh5) 
+- [2022-07-28-推荐-花了一周，我总结了120个数据分析指标与术语。](https://toutiao.io/k/9pzybmk) 

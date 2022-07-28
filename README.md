@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-07-28 05:06:19，:rocket: 更新条数: +2019， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-07-28 05:45:47，:rocket: 更新条数: +2021， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,14 @@
 </summary>
 
 
+- [2022-07-28-有人知道这个-Youtuber-吗?-Steven-He](https://www.v2ex.com/t/869225) ![](assets/new.png)  
+- [2022-07-28-各位大佬现在有没有光口的吸顶-AP-啊?-有的话推荐一下吧!](https://www.v2ex.com/t/869224) ![](assets/new.png)  
+- [2022-07-28-Go-运维平台开发-Kubernetes-容器集群平台、容器监控二次开发、自动化运维发布平台](https://www.v2ex.com/t/869223) ![](assets/new.png)  
+- [2022-07-28-请问-macOS-系统的色轮到底是什么？它是否有正式的名称叫法及中文翻译？谢谢！](https://www.v2ex.com/t/869222) ![](assets/new.png)  
+- [2022-07-28-三星-Android-设备（Tab-S8）台版比国行有什么优劣？](https://www.v2ex.com/t/869221) ![](assets/new.png)  
+- [2022-07-28-询价-2020-款-MacBook-air-i5-8+256-银色](https://www.v2ex.com/t/869220) ![](assets/new.png)  
+- [2022-07-28-UE5-商城挂了](https://www.v2ex.com/t/869219) ![](assets/new.png)  
+- [2022-07-28-如何测试某个-ip-服务器的某个端口是否畅通](https://www.v2ex.com/t/869218) ![](assets/new.png)  
 - [2022-07-28-正常情况下，-CPU-和显卡多久需要换一次硅脂？](https://www.v2ex.com/t/869216) ![](assets/new.png)  
 - [2022-07-28-微软近期有账户数据泄露吗？](https://www.v2ex.com/t/869214) ![](assets/new.png)  
 - [2022-07-28-绝了，手机误触在美团外卖自动下单成功......](https://www.v2ex.com/t/869213) ![](assets/new.png)  
@@ -503,14 +511,6 @@
 - [2022-07-28-最好的开发工具-IDEA，无法-Debug-html-了？](https://www.v2ex.com/t/869203) ![](assets/new.png)  
 - [2022-07-28-有什么好用的开源可部署的-Linux-文件管理器吗？有-web-界面的类似宝塔面板的那种可以解压复制编辑的](https://www.v2ex.com/t/869202) ![](assets/new.png)  
 - [2022-07-28-远程多地线下WLB外企头部-Web3-金融平台-Matrixport-多岗位招聘](https://www.v2ex.com/t/869201) ![](assets/new.png)  
-- [2022-07-28-新版微博-Web-端原来是用-Vue-写的](https://www.v2ex.com/t/869199) ![](assets/new.png)  
-- [2022-07-28-有没有推荐幼童英语学习-app-或者课程](https://www.v2ex.com/t/869197) ![](assets/new.png)  
-- [2022-07-28-js-写后台,-是不是有点先天残缺?](https://www.v2ex.com/t/869194) ![](assets/new.png)  
-- [2022-07-28-制作-Windows-屏保](https://www.v2ex.com/t/869192) ![](assets/new.png)  
-- [2022-07-28-外部对象，进入函数后对其添加属性后，离开函数后，用调试器看不到这些添加的属性？](https://www.v2ex.com/t/869191) ![](assets/new.png)  
-- [2022-07-28-杭州长亭杭州研发中心---前端开发工程师](https://www.v2ex.com/t/869190) ![](assets/new.png)  
-- [2022-07-28-dapr-sidecar-一种开发模式是不是会成为未来主流开发方式？](https://www.v2ex.com/t/869189) ![](assets/new.png)  
-- [2022-07-28-现在发布的充电头，怎么还带-A-口这么落后的东西，全变成-type-c-的不好么？](https://www.v2ex.com/t/869188) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -561,16 +561,16 @@
 - [2022-07-28-【萌新解题】斐波那契数列](https://toutiao.io/k/lepw20c) ![](assets/new.png)  
 - [2022-07-28-Flink-在讯飞-AI-营销业务的实时数据分析实践](https://toutiao.io/k/2qy1las) ![](assets/new.png)  
 - [2022-07-28-使用-Neuron-接入-Modbus-TCP-及-Modbus-RTU-协议设备](https://toutiao.io/k/36afe21) ![](assets/new.png)  
-- [2022-07-28-【第2682期】前端场景下请求的Race-Conditions](https://toutiao.io/k/s9pzu7i) ![](assets/new.png)  
 - [2022-07-28-18张图，直观理解神经网络、流形和拓扑](https://toutiao.io/k/coxacdk) ![](assets/new.png)  
+- [2022-07-28-【第2682期】前端场景下请求的Race-Conditions](https://toutiao.io/k/s9pzu7i) ![](assets/new.png)  
 - [2022-07-28-译文推荐-|-调试-BookKeeper-协议---无界-Ledger](https://toutiao.io/k/8lrq4nm) ![](assets/new.png)  
 - [2022-07-28-Rust、Go、C-，哪个才是“内存管理大师”？](https://toutiao.io/k/xemtdwa) ![](assets/new.png)  
 - [2022-07-28-基于-eBPF-的-Kubernetes-可观测实践](https://toutiao.io/k/a8g4rvc) ![](assets/new.png)  
 - [2022-07-28-致美国总统的零信任报告](https://toutiao.io/k/5367uxr) ![](assets/new.png)  
 - [2022-07-28-推荐-聊聊Java中代码优化的30个小技巧](https://toutiao.io/k/jv8g1r6) ![](assets/new.png)  
 - [2022-07-28-推荐-腾讯低代码平台正式开源！可拖拽、生成手机项目、PC-项目！接私活福利啊！](https://toutiao.io/k/8oqx21m) ![](assets/new.png)  
-- [2022-07-28-推荐-花了一周，我总结了120个数据分析指标与术语。](https://toutiao.io/k/9pzybmk) ![](assets/new.png)  
 - [2022-07-28-推荐-团队一盘散沙，怎么破？](https://toutiao.io/k/kdzpdh5) ![](assets/new.png)  
+- [2022-07-28-推荐-花了一周，我总结了120个数据分析指标与术语。](https://toutiao.io/k/9pzybmk) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

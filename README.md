@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-07-28 11:13:24，:rocket: 更新条数: +2034， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-07-28 11:39:04，:rocket: 更新条数: +2034， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,11 @@
 </summary>
 
 
+- [2022-07-28-求南方电网充值优惠的地方？](https://www.v2ex.com/t/869313) ![](assets/new.png)  
+- [2022-07-28-这墙迎来了大更新？](https://www.v2ex.com/t/869312) ![](assets/new.png)  
+- [2022-07-28-idea-二次开发](https://www.v2ex.com/t/869311) ![](assets/new.png)  
+- [2022-07-28-杭州靠谱机会：-Java-技术专家-数据库内核-SQL-引擎研发，薪水-35k-70k](https://www.v2ex.com/t/869310) ![](assets/new.png)  
+- [2022-07-28-安卓手机的论坛翻页有什么好方法吗？](https://www.v2ex.com/t/869309) ![](assets/new.png)  
 - [2022-07-28-程序员不应该和一门语言绑定在一起](https://www.v2ex.com/t/869308) ![](assets/new.png)  
 - [2022-07-28-工位系统-是与图形化构建引擎相关的.涉及到楼层,屋内结构,工位摆放等功能-请教关于-cesium,unity,ue4-引擎或者有其他推荐能达到描述效果的么](https://www.v2ex.com/t/869307) ![](assets/new.png)  
 - [2022-07-28-开源协议-MIT-与商用疑问](https://www.v2ex.com/t/869306) ![](assets/new.png)  
@@ -506,11 +511,6 @@
 - [2022-07-28-mysql-的-text-类型字段，“空”和“默认值”分别为“是”和“null”，用一条值为空的记录更新字段后，值却变成了一个空格，导致!=""判断失败，请教是什么原因呢...](https://www.v2ex.com/t/869296) ![](assets/new.png)  
 - [2022-07-28-上海招聘-Web3-外资初创-前谷歌团队-急需-Go+Solidity](https://www.v2ex.com/t/869295) ![](assets/new.png)  
 - [2022-07-28-哪些情况下你会选择海淘而不选择国内电商呀？](https://www.v2ex.com/t/869292) ![](assets/new.png)  
-- [2022-07-28-Layout-Inspector-有没有好用的替代品？](https://www.v2ex.com/t/869291) ![](assets/new.png)  
-- [2022-07-28-生活热爱者--Vol.04：三天打鱼两天晒网与生活小确幸](https://www.v2ex.com/t/869290) ![](assets/new.png)  
-- [2022-07-28-关于手机桌面应用分类方法](https://www.v2ex.com/t/869289) ![](assets/new.png)  
-- [2022-07-28-iOS-16-的共享图库在今天最新版本中仍然不可用，设备是-xr，大家有遇到的吗？](https://www.v2ex.com/t/869288) ![](assets/new.png)  
-- [2022-07-28-有没有山西电信的小伙伴来试试-TR069-组网的？](https://www.v2ex.com/t/869287) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -571,8 +571,8 @@
 - [2022-07-28-《HelloGitHub》第-76-期](https://toutiao.io/k/4qsd12a) ![](assets/new.png)  
 - [2022-07-28-DataOps不是工具，而是帮助企业实现数据价值的最佳实践](https://toutiao.io/k/ztzqtzp) ![](assets/new.png)  
 - [2022-07-28-Nest-的实现原理？理解了-reflect-metadata-就懂了](https://toutiao.io/k/9shxxzf) ![](assets/new.png)  
-- [2022-07-28-推荐-团队一盘散沙，怎么破？](https://toutiao.io/k/kdzpdh5) ![](assets/new.png)  
 - [2022-07-28-推荐-聊聊Java中代码优化的30个小技巧](https://toutiao.io/k/jv8g1r6) ![](assets/new.png)  
+- [2022-07-28-推荐-花了一周，我总结了120个数据分析指标与术语。](https://toutiao.io/k/9pzybmk) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-07-28 11:13:24。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-28 11:39:04。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -357,7 +357,6 @@
 
 - [【V2EX】上海招聘-Web3-外资初创-前谷歌团队-急需-Go+Solidity](https://www.v2ex.com/t/869295)
 - [【V2EX】（深圳/杭州/北京招聘）让你有更多机会参与到-Apache-顶级开源项目-APISIX](https://www.v2ex.com/t/869280)
-- [【V2EX】Web3-招聘：-Design-Lead---base-杭州优先|远程---年薪-50-70-万](https://www.v2ex.com/t/869263)
 - [......【查看更多】......](./details/tags/job-interview.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

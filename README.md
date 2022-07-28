@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-07-28 07:38:39，:rocket: 更新条数: +2025， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-07-28 08:20:13，:rocket: 更新条数: +2027， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,15 @@
 </summary>
 
 
+- [2022-07-28-switch-接口查看时长？](https://www.v2ex.com/t/869270) ![](assets/new.png)  
+- [2022-07-28-关于-Java-正则表达式的一个疑问](https://www.v2ex.com/t/869269) ![](assets/new.png)  
+- [2022-07-28-分享自己开发的两个-alfred-工作流短信验证码提取/阿里机器翻译](https://www.v2ex.com/t/869267) ![](assets/new.png)  
+- [2022-07-28-看到有人对“做出一个实物作品”感兴趣，因为我有相关经验，特开一个问答交流贴，希望能互相学习。](https://www.v2ex.com/t/869266) ![](assets/new.png)  
+- [2022-07-28-求告知，-macbook-pro-17-款-B-面边框橡胶圈老化怎么维修最便宜](https://www.v2ex.com/t/869265) ![](assets/new.png)  
+- [2022-07-28-各位大佬，求推荐半入耳式无线耳机，日常高频使用，要求有主动降噪，音质过得去。](https://www.v2ex.com/t/869264) ![](assets/new.png)  
+- [2022-07-28-Web3-招聘：-Design-Lead---base-杭州优先|远程---年薪-50-70-万](https://www.v2ex.com/t/869263) ![](assets/new.png)  
+- [2022-07-28-请问我的-IDEA-2022.2-为什么没有这个新特性](https://www.v2ex.com/t/869262) ![](assets/new.png)  
+- [2022-07-28-一个很绕的通过程序来控制各种-shell-的办法](https://www.v2ex.com/t/869261) ![](assets/new.png)  
 - [2022-07-28-IOS16Beta4-虚拟定位](https://www.v2ex.com/t/869260) ![](assets/new.png)  
 - [2022-07-28-有一个想法，关于“小城小镇”，欢迎交流讨论](https://www.v2ex.com/t/869259) ![](assets/new.png)  
 - [2022-07-28-如何快速知道哪个-useSelector-导致了-React-组件重渲染？](https://www.v2ex.com/t/869258) ![](assets/new.png)  
@@ -502,15 +511,6 @@
 - [2022-07-28-为什么-memory-mapped-file-I/O-可能会导致-Long-Time-to-Safepoint？](https://www.v2ex.com/t/869249) ![](assets/new.png)  
 - [2022-07-28-有公司用-IM-用的-webex-吗？](https://www.v2ex.com/t/869247) ![](assets/new.png)  
 - [2022-07-28-真心求教，大家从-iOS/iPadOS/macOS-向-macOS-进行-AirDrop-传输的时候，会卡在“等待中”很久吗](https://www.v2ex.com/t/869246) ![](assets/new.png)  
-- [2022-07-28-网易内推-互娱-23-届校招内推-内推码-XX3CuG](https://www.v2ex.com/t/869245) ![](assets/new.png)  
-- [2022-07-28-GoldenDict++OCR-macOS-20220728-已支持-OSX-内置词典](https://www.v2ex.com/t/869244) ![](assets/new.png)  
-- [2022-07-28-有做-app-测试的同学能帮我一个忙吗？](https://www.v2ex.com/t/869243) ![](assets/new.png)  
-- [2022-07-28-做一个对程序员友好的程序员](https://www.v2ex.com/t/869242) ![](assets/new.png)  
-- [2022-07-28-win-下应该安装什么杀毒/清理垃圾的软件？](https://www.v2ex.com/t/869240) ![](assets/new.png)  
-- [2022-07-28-做了一个中文区-awesome-github-profile-的项目，欢迎大家展示自己的主页](https://www.v2ex.com/t/869239) ![](assets/new.png)  
-- [2022-07-28-如果想要像稚辉君一样把一个想法变成一个实物,需要有怎么样的知识储备,应该从学什么开始?](https://www.v2ex.com/t/869238) ![](assets/new.png)  
-- [2022-07-28-怎么感觉-M2-macbook-air-没有-M1-mac-mini-流畅?](https://www.v2ex.com/t/869237) ![](assets/new.png)  
-- [2022-07-28-杭州/上海-Android/Flutter-求内推](https://www.v2ex.com/t/869236) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -568,10 +568,10 @@
 - [2022-07-28-译文推荐-|-调试-BookKeeper-协议---无界-Ledger](https://toutiao.io/k/8lrq4nm) ![](assets/new.png)  
 - [2022-07-28-致美国总统的零信任报告](https://toutiao.io/k/5367uxr) ![](assets/new.png)  
 - [2022-07-28-1.8w-字的-SQL-优化大全](https://toutiao.io/k/9bmtrfk) ![](assets/new.png)  
-- [2022-07-28-DataOps不是工具，而是帮助企业实现数据价值的最佳实践](https://toutiao.io/k/ztzqtzp) ![](assets/new.png)  
 - [2022-07-28-《HelloGitHub》第-76-期](https://toutiao.io/k/4qsd12a) ![](assets/new.png)  
+- [2022-07-28-DataOps不是工具，而是帮助企业实现数据价值的最佳实践](https://toutiao.io/k/ztzqtzp) ![](assets/new.png)  
 - [2022-07-28-Nest-的实现原理？理解了-reflect-metadata-就懂了](https://toutiao.io/k/9shxxzf) ![](assets/new.png)  
-- [2022-07-28-推荐-团队一盘散沙，怎么破？](https://toutiao.io/k/kdzpdh5) ![](assets/new.png)  
+- [2022-07-28-推荐-腾讯低代码平台正式开源！可拖拽、生成手机项目、PC-项目！接私活福利啊！](https://toutiao.io/k/8oqx21m) ![](assets/new.png)  
 - [2022-07-28-推荐-聊聊Java中代码优化的30个小技巧](https://toutiao.io/k/jv8g1r6) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

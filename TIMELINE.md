@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-28 07:38:39。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-07-28 08:20:13。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -70,6 +70,15 @@
 
 - [【张鑫旭-鑫空间-鑫生活】2022-07-27-万物皆可clip-path，纯CSS绘制0-9数字](https://www.zhangxinxu.com/wordpress/2022/07/clip-path-css-number/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-07-21-超酷！CSS-font-palette与彩色字体显示](https://www.zhangxinxu.com/wordpress/2022/07/css-font-palette/) 
+- [【V2EX】2022-07-28-switch-接口查看时长？](https://www.v2ex.com/t/869270) 
+- [【V2EX】2022-07-28-关于-Java-正则表达式的一个疑问](https://www.v2ex.com/t/869269) 
+- [【V2EX】2022-07-28-分享自己开发的两个-alfred-工作流短信验证码提取/阿里机器翻译](https://www.v2ex.com/t/869267) 
+- [【V2EX】2022-07-28-看到有人对“做出一个实物作品”感兴趣，因为我有相关经验，特开一个问答交流贴，希望能互相学习。](https://www.v2ex.com/t/869266) 
+- [【V2EX】2022-07-28-求告知，-macbook-pro-17-款-B-面边框橡胶圈老化怎么维修最便宜](https://www.v2ex.com/t/869265) 
+- [【V2EX】2022-07-28-各位大佬，求推荐半入耳式无线耳机，日常高频使用，要求有主动降噪，音质过得去。](https://www.v2ex.com/t/869264) 
+- [【V2EX】2022-07-28-Web3-招聘：-Design-Lead---base-杭州优先|远程---年薪-50-70-万](https://www.v2ex.com/t/869263) 
+- [【V2EX】2022-07-28-请问我的-IDEA-2022.2-为什么没有这个新特性](https://www.v2ex.com/t/869262) 
+- [【V2EX】2022-07-28-一个很绕的通过程序来控制各种-shell-的办法](https://www.v2ex.com/t/869261) 
 - [【V2EX】2022-07-28-IOS16Beta4-虚拟定位](https://www.v2ex.com/t/869260) 
 - [【V2EX】2022-07-28-有一个想法，关于“小城小镇”，欢迎交流讨论](https://www.v2ex.com/t/869259) 
 - [【V2EX】2022-07-28-如何快速知道哪个-useSelector-导致了-React-组件重渲染？](https://www.v2ex.com/t/869258) 
@@ -100,13 +109,6 @@
 - [【V2EX】2022-07-28-Go-运维平台开发-Kubernetes-容器集群平台、容器监控二次开发、自动化运维发布平台](https://www.v2ex.com/t/869223) 
 - [【V2EX】2022-07-28-请问-macOS-系统的色轮到底是什么？它是否有正式的名称叫法及中文翻译？谢谢！](https://www.v2ex.com/t/869222) 
 - [【V2EX】2022-07-28-三星-Android-设备（Tab-S8）台版比国行有什么优劣？](https://www.v2ex.com/t/869221) 
-- [【V2EX】2022-07-28-询价-2020-款-MacBook-air-i5-8+256-银色](https://www.v2ex.com/t/869220) 
-- [【V2EX】2022-07-28-UE5-商城挂了](https://www.v2ex.com/t/869219) 
-- [【V2EX】2022-07-28-如何测试某个-ip-服务器的某个端口是否畅通](https://www.v2ex.com/t/869218) 
-- [【V2EX】2022-07-28-正常情况下，-CPU-和显卡多久需要换一次硅脂？](https://www.v2ex.com/t/869216) 
-- [【V2EX】2022-07-28-微软近期有账户数据泄露吗？](https://www.v2ex.com/t/869214) 
-- [【V2EX】2022-07-28-绝了，手机误触在美团外卖自动下单成功......](https://www.v2ex.com/t/869213) 
-- [【V2EX】2022-07-28-有什么办法能自动监控文件夹,压缩新增的图片?](https://www.v2ex.com/t/869212) 
 - [【技术头条】2022-07-28-数据仓库项目从来不是技术项目-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15251&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fwhat-is-data-warehouse%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-28-Webpack-打包后代码执行时机分析与优化-www.alloyteam.com](https://blogread.cn/news/go.php?idItem=15250&url=http%3A%2F%2Fwww.alloyteam.com%2F2019%2F07%2Fwait-external-webpack-plugin%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-28-Android-框架问题分析案例---谁杀了桌面?-androidperformance.com](https://blogread.cn/news/go.php?idItem=15249&url=https%3A%2F%2Fandroidperformance.com%2F2019%2F09%2F17%2FAndroid-Kill-Background-App-Debug%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -142,13 +144,13 @@
 - [【开发者头条】2022-07-28-译文推荐-|-调试-BookKeeper-协议---无界-Ledger](https://toutiao.io/k/8lrq4nm) 
 - [【开发者头条】2022-07-28-致美国总统的零信任报告](https://toutiao.io/k/5367uxr) 
 - [【开发者头条】2022-07-28-1.8w-字的-SQL-优化大全](https://toutiao.io/k/9bmtrfk) 
-- [【开发者头条】2022-07-28-DataOps不是工具，而是帮助企业实现数据价值的最佳实践](https://toutiao.io/k/ztzqtzp) 
 - [【开发者头条】2022-07-28-《HelloGitHub》第-76-期](https://toutiao.io/k/4qsd12a) 
+- [【开发者头条】2022-07-28-DataOps不是工具，而是帮助企业实现数据价值的最佳实践](https://toutiao.io/k/ztzqtzp) 
 - [【开发者头条】2022-07-28-Nest-的实现原理？理解了-reflect-metadata-就懂了](https://toutiao.io/k/9shxxzf) 
-- [【开发者头条】2022-07-28-推荐-团队一盘散沙，怎么破？](https://toutiao.io/k/kdzpdh5) 
+- [【开发者头条】2022-07-28-推荐-腾讯低代码平台正式开源！可拖拽、生成手机项目、PC-项目！接私活福利啊！](https://toutiao.io/k/8oqx21m) 
 - [【开发者头条】2022-07-28-推荐-聊聊Java中代码优化的30个小技巧](https://toutiao.io/k/jv8g1r6) 
 - [【开发者头条】2022-07-28-推荐-花了一周，我总结了120个数据分析指标与术语。](https://toutiao.io/k/9pzybmk) 
-- [【开发者头条】2022-07-28-推荐-腾讯低代码平台正式开源！可拖拽、生成手机项目、PC-项目！接私活福利啊！](https://toutiao.io/k/8oqx21m) 
+- [【开发者头条】2022-07-28-推荐-团队一盘散沙，怎么破？](https://toutiao.io/k/kdzpdh5) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

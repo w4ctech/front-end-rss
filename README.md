@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-07-28 10:45:05，:rocket: 更新条数: +2033， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-07-28 11:13:24，:rocket: 更新条数: +2034， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,10 @@
 </summary>
 
 
+- [2022-07-28-程序员不应该和一门语言绑定在一起](https://www.v2ex.com/t/869308) ![](assets/new.png)  
+- [2022-07-28-工位系统-是与图形化构建引擎相关的.涉及到楼层,屋内结构,工位摆放等功能-请教关于-cesium,unity,ue4-引擎或者有其他推荐能达到描述效果的么](https://www.v2ex.com/t/869307) ![](assets/new.png)  
+- [2022-07-28-开源协议-MIT-与商用疑问](https://www.v2ex.com/t/869306) ![](assets/new.png)  
+- [2022-07-28-人在泰国，可以做个搞个什么样的网站来躺着赚钱？](https://www.v2ex.com/t/869305) ![](assets/new.png)  
 - [2022-07-28-每日优鲜?](https://www.v2ex.com/t/869304) ![](assets/new.png)  
 - [2022-07-28-建立了一个微信养生的羊毛群](https://www.v2ex.com/t/869303) ![](assets/new.png)  
 - [2022-07-28-Google-pixel-5-商家发错地址问题](https://www.v2ex.com/t/869302) ![](assets/new.png)  
@@ -507,10 +511,6 @@
 - [2022-07-28-关于手机桌面应用分类方法](https://www.v2ex.com/t/869289) ![](assets/new.png)  
 - [2022-07-28-iOS-16-的共享图库在今天最新版本中仍然不可用，设备是-xr，大家有遇到的吗？](https://www.v2ex.com/t/869288) ![](assets/new.png)  
 - [2022-07-28-有没有山西电信的小伙伴来试试-TR069-组网的？](https://www.v2ex.com/t/869287) ![](assets/new.png)  
-- [2022-07-28-手机搜狗输入法怎么快捷输入时间戳](https://www.v2ex.com/t/869286) ![](assets/new.png)  
-- [2022-07-28-Github-如何加速下载仓库最新-zip-文件？（非-release、非-git-clone-地址）](https://www.v2ex.com/t/869285) ![](assets/new.png)  
-- [2022-07-28-如果用代码检测一个-EMAIL-地址真实存在？](https://www.v2ex.com/t/869283) ![](assets/new.png)  
-- [2022-07-28-求对-html-进行渲染与布局，输出元素相对位置的分析库](https://www.v2ex.com/t/869282) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -571,8 +571,8 @@
 - [2022-07-28-《HelloGitHub》第-76-期](https://toutiao.io/k/4qsd12a) ![](assets/new.png)  
 - [2022-07-28-DataOps不是工具，而是帮助企业实现数据价值的最佳实践](https://toutiao.io/k/ztzqtzp) ![](assets/new.png)  
 - [2022-07-28-Nest-的实现原理？理解了-reflect-metadata-就懂了](https://toutiao.io/k/9shxxzf) ![](assets/new.png)  
-- [2022-07-28-推荐-花了一周，我总结了120个数据分析指标与术语。](https://toutiao.io/k/9pzybmk) ![](assets/new.png)  
 - [2022-07-28-推荐-团队一盘散沙，怎么破？](https://toutiao.io/k/kdzpdh5) ![](assets/new.png)  
+- [2022-07-28-推荐-聊聊Java中代码优化的30个小技巧](https://toutiao.io/k/jv8g1r6) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

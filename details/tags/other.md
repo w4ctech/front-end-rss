@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-28 10:45:05。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-28 11:13:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,9 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-07-28-程序员不应该和一门语言绑定在一起](https://www.v2ex.com/t/869308) 
+- [2022-07-28-开源协议-MIT-与商用疑问](https://www.v2ex.com/t/869306) 
+- [2022-07-28-人在泰国，可以做个搞个什么样的网站来躺着赚钱？](https://www.v2ex.com/t/869305) 
 - [2022-07-28-每日优鲜?](https://www.v2ex.com/t/869304) 
 - [2022-07-28-建立了一个微信养生的羊毛群](https://www.v2ex.com/t/869303) 
 - [2022-07-28-Google-pixel-5-商家发错地址问题](https://www.v2ex.com/t/869302) 
@@ -1944,8 +1947,6 @@
 - [2022-07-28-一个很绕的通过程序来控制各种-shell-的办法](https://www.v2ex.com/t/869261) 
 - [2022-07-28-IOS16Beta4-虚拟定位](https://www.v2ex.com/t/869260) 
 - [2022-07-28-有一个想法，关于“小城小镇”，欢迎交流讨论](https://www.v2ex.com/t/869259) 
-- [2022-07-28-有可能调用-PS-的插件做图片去水印吗？自己训练的方案现实吗？](https://www.v2ex.com/t/869257) 
-- [2022-07-28-迟到罚款？还要打到私人账户](https://www.v2ex.com/t/869256) 
 - [2022-07-28-Google-Cloud-Spanner的实践经验-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15252&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fcloud-spanner%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-28-数据仓库项目从来不是技术项目-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15251&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fwhat-is-data-warehouse%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-28-Android-框架问题分析案例---谁杀了桌面?-androidperformance.com](https://blogread.cn/news/go.php?idItem=15249&url=https%3A%2F%2Fandroidperformance.com%2F2019%2F09%2F17%2FAndroid-Kill-Background-App-Debug%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1973,6 +1974,6 @@
 - [2022-07-28-致美国总统的零信任报告](https://toutiao.io/k/5367uxr) 
 - [2022-07-28-DataOps不是工具，而是帮助企业实现数据价值的最佳实践](https://toutiao.io/k/ztzqtzp) 
 - [2022-07-28-Nest-的实现原理？理解了-reflect-metadata-就懂了](https://toutiao.io/k/9shxxzf) 
-- [2022-07-28-推荐-花了一周，我总结了120个数据分析指标与术语。](https://toutiao.io/k/9pzybmk) 
 - [2022-07-28-推荐-团队一盘散沙，怎么破？](https://toutiao.io/k/kdzpdh5) 
 - [2022-07-28-推荐-腾讯低代码平台正式开源！可拖拽、生成手机项目、PC-项目！接私活福利啊！](https://toutiao.io/k/8oqx21m) 
+- [2022-07-28-推荐-花了一周，我总结了120个数据分析指标与术语。](https://toutiao.io/k/9pzybmk) 

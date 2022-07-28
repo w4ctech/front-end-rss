@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-28 23:16:12。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-28 23:41:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,8 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-07-28-武汉哪里有好吃的鸭血粉丝？](https://www.v2ex.com/t/869365) 
+- [2022-07-28-一次曲折的上海电信-IPv6-固定-IP-安装和配置经过](https://www.v2ex.com/t/869364) 
 - [2022-07-28-有一个把公开的统计数据可视化的项目，找一位前端合伙人。](https://www.v2ex.com/t/869362) 
 - [2022-07-28-如果价格一样，-iPad-Air-5-和-iPad-Pro-2020-怎么选](https://www.v2ex.com/t/869361) 
 - [2022-07-28-联通宽带现在这么能摆烂吗](https://www.v2ex.com/t/869360) 
@@ -1940,8 +1942,6 @@
 - [2022-07-28-小米手机的便签怎么转移到其他-vivo-手机中](https://www.v2ex.com/t/869320) 
 - [2022-07-28-对-NUC-失去信心，寻-beelink/minisforum-用户建议](https://www.v2ex.com/t/869317) 
 - [2022-07-28-请教一下如何使用-OpenSSL-签发基于-IPv6-通配符的-SSL-证书？](https://www.v2ex.com/t/869316) 
-- [2022-07-28-请问：企业微信，这个-app-内，究竟预埋了些什么地雷？](https://www.v2ex.com/t/869315) 
-- [2022-07-28-经济题！美国加息如何影响普通人生活？](https://www.v2ex.com/t/869314) 
 - [2022-07-28-Google-Cloud-Spanner的实践经验-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15252&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fcloud-spanner%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-28-数据仓库项目从来不是技术项目-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15251&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fwhat-is-data-warehouse%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-28-Android-框架问题分析案例---谁杀了桌面?-androidperformance.com](https://blogread.cn/news/go.php?idItem=15249&url=https%3A%2F%2Fandroidperformance.com%2F2019%2F09%2F17%2FAndroid-Kill-Background-App-Debug%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

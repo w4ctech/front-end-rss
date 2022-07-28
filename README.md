@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-07-28 06:18:22，:rocket: 更新条数: +2025， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-07-28 06:49:09，:rocket: 更新条数: +2024， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,13 @@
 </summary>
 
 
+- [2022-07-28-如果想要像稚辉君一样把一个想法变成一个实物,需要有怎么样的知识储备,应该从学什么开始?](https://www.v2ex.com/t/869238) ![](assets/new.png)  
+- [2022-07-28-怎么感觉-M2-macbook-air-没有-M1-mac-mini-流畅?](https://www.v2ex.com/t/869237) ![](assets/new.png)  
+- [2022-07-28-杭州/上海-Android/Flutter-求内推](https://www.v2ex.com/t/869236) ![](assets/new.png)  
+- [2022-07-28-mac-有没有办法隐藏-docker-的微信和-qq-图标呀](https://www.v2ex.com/t/869235) ![](assets/new.png)  
+- [2022-07-28-1-分钱充流量靠谱么](https://www.v2ex.com/t/869234) ![](assets/new.png)  
+- [2022-07-28-apple-one-美区-超大杯找人啦](https://www.v2ex.com/t/869232) ![](assets/new.png)  
+- [2022-07-28-也许是你喜欢的表情包「方一歪你好」分享给大家](https://www.v2ex.com/t/869231) ![](assets/new.png)  
 - [2022-07-28-一家四口想去新加坡，-offer-大概-base-多少能够呢？](https://www.v2ex.com/t/869230) ![](assets/new.png)  
 - [2022-07-28-macpro-过了苹果的问题召回年限还有办法么？](https://www.v2ex.com/t/869229) ![](assets/new.png)  
 - [2022-07-28-有人知道这个-Youtuber-吗?-Steven-He](https://www.v2ex.com/t/869225) ![](assets/new.png)  
@@ -504,13 +511,6 @@
 - [2022-07-28-正常情况下，-CPU-和显卡多久需要换一次硅脂？](https://www.v2ex.com/t/869216) ![](assets/new.png)  
 - [2022-07-28-微软近期有账户数据泄露吗？](https://www.v2ex.com/t/869214) ![](assets/new.png)  
 - [2022-07-28-绝了，手机误触在美团外卖自动下单成功......](https://www.v2ex.com/t/869213) ![](assets/new.png)  
-- [2022-07-28-有什么办法能自动监控文件夹,压缩新增的图片?](https://www.v2ex.com/t/869212) ![](assets/new.png)  
-- [2022-07-28-Windows-的-Home-键个别场景（多行文本）不能对标-Mac-的-Ctrl-+A，求解决办法](https://www.v2ex.com/t/869209) ![](assets/new.png)  
-- [2022-07-28-快七夕了晒一下给自己买的礼物](https://www.v2ex.com/t/869208) ![](assets/new.png)  
-- [2022-07-28-Windows-微信最新版订阅号无法设置卡片模式或者列表模式](https://www.v2ex.com/t/869206) ![](assets/new.png)  
-- [2022-07-28-小程序菜鸡创业小队](https://www.v2ex.com/t/869205) ![](assets/new.png)  
-- [2022-07-28-nginx-redirect-302-问题](https://www.v2ex.com/t/869204) ![](assets/new.png)  
-- [2022-07-28-最好的开发工具-IDEA，无法-Debug-html-了？](https://www.v2ex.com/t/869203) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -559,20 +559,20 @@
 - [2022-07-28-Spring-Event，贼好用的业务解耦神器！](https://toutiao.io/k/wwjp5m6) ![](assets/new.png)  
 - [2022-07-28-带你彻底击溃跳表原理及其Golang实现！（内含图解）](https://toutiao.io/k/4p5048p) ![](assets/new.png)  
 - [2022-07-28-【萌新解题】斐波那契数列](https://toutiao.io/k/lepw20c) ![](assets/new.png)  
-- [2022-07-28-Flink-在讯飞-AI-营销业务的实时数据分析实践](https://toutiao.io/k/2qy1las) ![](assets/new.png)  
-- [2022-07-28-使用-Neuron-接入-Modbus-TCP-及-Modbus-RTU-协议设备](https://toutiao.io/k/36afe21) ![](assets/new.png)  
-- [2022-07-28-18张图，直观理解神经网络、流形和拓扑](https://toutiao.io/k/coxacdk) ![](assets/new.png)  
-- [2022-07-28-【第2682期】前端场景下请求的Race-Conditions](https://toutiao.io/k/s9pzu7i) ![](assets/new.png)  
 - [2022-07-28-Rust、Go、C-，哪个才是“内存管理大师”？](https://toutiao.io/k/xemtdwa) ![](assets/new.png)  
-- [2022-07-28-译文推荐-|-调试-BookKeeper-协议---无界-Ledger](https://toutiao.io/k/8lrq4nm) ![](assets/new.png)  
+- [2022-07-28-Flink-在讯飞-AI-营销业务的实时数据分析实践](https://toutiao.io/k/2qy1las) ![](assets/new.png)  
+- [2022-07-28-18张图，直观理解神经网络、流形和拓扑](https://toutiao.io/k/coxacdk) ![](assets/new.png)  
+- [2022-07-28-使用-Neuron-接入-Modbus-TCP-及-Modbus-RTU-协议设备](https://toutiao.io/k/36afe21) ![](assets/new.png)  
+- [2022-07-28-【第2682期】前端场景下请求的Race-Conditions](https://toutiao.io/k/s9pzu7i) ![](assets/new.png)  
 - [2022-07-28-基于-eBPF-的-Kubernetes-可观测实践](https://toutiao.io/k/a8g4rvc) ![](assets/new.png)  
+- [2022-07-28-译文推荐-|-调试-BookKeeper-协议---无界-Ledger](https://toutiao.io/k/8lrq4nm) ![](assets/new.png)  
 - [2022-07-28-致美国总统的零信任报告](https://toutiao.io/k/5367uxr) ![](assets/new.png)  
 - [2022-07-28-1.8w-字的-SQL-优化大全](https://toutiao.io/k/9bmtrfk) ![](assets/new.png)  
-- [2022-07-28-DataOps不是工具，而是帮助企业实现数据价值的最佳实践](https://toutiao.io/k/ztzqtzp) ![](assets/new.png)  
 - [2022-07-28-《HelloGitHub》第-76-期](https://toutiao.io/k/4qsd12a) ![](assets/new.png)  
+- [2022-07-28-DataOps不是工具，而是帮助企业实现数据价值的最佳实践](https://toutiao.io/k/ztzqtzp) ![](assets/new.png)  
 - [2022-07-28-Nest-的实现原理？理解了-reflect-metadata-就懂了](https://toutiao.io/k/9shxxzf) ![](assets/new.png)  
 - [2022-07-28-推荐-花了一周，我总结了120个数据分析指标与术语。](https://toutiao.io/k/9pzybmk) ![](assets/new.png)  
-- [2022-07-28-推荐-聊聊Java中代码优化的30个小技巧](https://toutiao.io/k/jv8g1r6) ![](assets/new.png)  
+- [2022-07-28-推荐-团队一盘散沙，怎么破？](https://toutiao.io/k/kdzpdh5) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

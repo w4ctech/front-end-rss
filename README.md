@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-07-28 14:00:31，:rocket: 更新条数: +2031， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-07-28 14:22:04，:rocket: 更新条数: +2029， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-07-28-上海有做-app-测试的同学能帮我一个忙吗？](https://www.v2ex.com/t/869337) ![](assets/new.png)  
 - [2022-07-28-储蓄险的实际年化收益率](https://www.v2ex.com/t/869335) ![](assets/new.png)  
 - [2022-07-28-求解跨境数据流动便利化-海南启动网络数据安全地方立法](https://www.v2ex.com/t/869333) ![](assets/new.png)  
 - [2022-07-28-个人数据备份的一些问题](https://www.v2ex.com/t/869332) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-07-28-请问：企业微信，这个-app-内，究竟预埋了些什么地雷？](https://www.v2ex.com/t/869315) ![](assets/new.png)  
 - [2022-07-28-经济题！美国加息如何影响普通人生活？](https://www.v2ex.com/t/869314) ![](assets/new.png)  
 - [2022-07-28-求南方电网充值优惠的地方？](https://www.v2ex.com/t/869313) ![](assets/new.png)  
-- [2022-07-28-idea-二次开发](https://www.v2ex.com/t/869311) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -563,16 +563,16 @@
 - [2022-07-28-基于-eBPF-的-Kubernetes-可观测实践](https://toutiao.io/k/a8g4rvc) ![](assets/new.png)  
 - [2022-07-28-使用-Neuron-接入-Modbus-TCP-及-Modbus-RTU-协议设备](https://toutiao.io/k/36afe21) ![](assets/new.png)  
 - [2022-07-28-1.8w-字的-SQL-优化大全](https://toutiao.io/k/9bmtrfk) ![](assets/new.png)  
-- [2022-07-28-Flink-在讯飞-AI-营销业务的实时数据分析实践](https://toutiao.io/k/2qy1las) ![](assets/new.png)  
 - [2022-07-28-【第2682期】前端场景下请求的Race-Conditions](https://toutiao.io/k/s9pzu7i) ![](assets/new.png)  
+- [2022-07-28-Flink-在讯飞-AI-营销业务的实时数据分析实践](https://toutiao.io/k/2qy1las) ![](assets/new.png)  
 - [2022-07-28-18张图，直观理解神经网络、流形和拓扑](https://toutiao.io/k/coxacdk) ![](assets/new.png)  
 - [2022-07-28-译文推荐-|-调试-BookKeeper-协议---无界-Ledger](https://toutiao.io/k/8lrq4nm) ![](assets/new.png)  
 - [2022-07-28-致美国总统的零信任报告](https://toutiao.io/k/5367uxr) ![](assets/new.png)  
 - [2022-07-28-《HelloGitHub》第-76-期](https://toutiao.io/k/4qsd12a) ![](assets/new.png)  
 - [2022-07-28-DataOps不是工具，而是帮助企业实现数据价值的最佳实践](https://toutiao.io/k/ztzqtzp) ![](assets/new.png)  
 - [2022-07-28-Nest-的实现原理？理解了-reflect-metadata-就懂了](https://toutiao.io/k/9shxxzf) ![](assets/new.png)  
-- [2022-07-28-推荐-聊聊Java中代码优化的30个小技巧](https://toutiao.io/k/jv8g1r6) ![](assets/new.png)  
-- [2022-07-28-推荐-腾讯低代码平台正式开源！可拖拽、生成手机项目、PC-项目！接私活福利啊！](https://toutiao.io/k/8oqx21m) ![](assets/new.png)  
+- [2022-07-28-推荐-花了一周，我总结了120个数据分析指标与术语。](https://toutiao.io/k/9pzybmk) ![](assets/new.png)  
+- [2022-07-28-推荐-团队一盘散沙，怎么破？](https://toutiao.io/k/kdzpdh5) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-07-28 14:42:20，:rocket: 更新条数: +2028， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-07-28 15:15:00，:rocket: 更新条数: +2029， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,11 @@
 </summary>
 
 
+- [2022-07-28-双拼输入法有必要学吗](https://www.v2ex.com/t/869348) ![](assets/new.png)  
+- [2022-07-28-七夕想送个手机给相亲对象，有推荐的型号嘛](https://www.v2ex.com/t/869347) ![](assets/new.png)  
+- [2022-07-28-TeraCopy，-FastCopy，-ExtremeCopy,-KillCopy，-SuperCopier4，-UltraCopier，移动复制粘贴文件哪家强？](https://www.v2ex.com/t/869346) ![](assets/new.png)  
+- [2022-07-28-有什么好看的表白网页](https://www.v2ex.com/t/869345) ![](assets/new.png)  
+- [2022-07-28-R5S-到底性能怎么样](https://www.v2ex.com/t/869344) ![](assets/new.png)  
 - [2022-07-28-网易在职员工内推～急招-android-系统开发，其他岗位也欢迎私聊](https://www.v2ex.com/t/869343) ![](assets/new.png)  
 - [2022-07-28-微信支付购物车多件物品一起下单后台怎么设计？](https://www.v2ex.com/t/869341) ![](assets/new.png)  
 - [2022-07-28-哪个品牌的-双卡双待-手机最适合刷开源-AOSP-系统（例如-Pixel-Experience-或-Lineageos）？](https://www.v2ex.com/t/869340) ![](assets/new.png)  
@@ -506,11 +511,6 @@
 - [2022-07-28-北京-3-年前端裸辞找工作经历记录](https://www.v2ex.com/t/869325) ![](assets/new.png)  
 - [2022-07-28-有没有小伙伴知道淘宝和支付宝的账号注销是逻辑删除吗？](https://www.v2ex.com/t/869324) ![](assets/new.png)  
 - [2022-07-28-思考-感觉现在结交他人的契机越来越少](https://www.v2ex.com/t/869323) ![](assets/new.png)  
-- [2022-07-28-最近支付宝使用滴滴老是弹出加载条，阿滴真要不行了？](https://www.v2ex.com/t/869321) ![](assets/new.png)  
-- [2022-07-28-小米手机的便签怎么转移到其他-vivo-手机中](https://www.v2ex.com/t/869320) ![](assets/new.png)  
-- [2022-07-28-共享游戏机（xbox，-ps5）是怎么支持微信扫码支付的？破解？大客户支持？还是第三方公司开发的插件？](https://www.v2ex.com/t/869318) ![](assets/new.png)  
-- [2022-07-28-对-NUC-失去信心，寻-beelink/minisforum-用户建议](https://www.v2ex.com/t/869317) ![](assets/new.png)  
-- [2022-07-28-请教一下如何使用-OpenSSL-签发基于-IPv6-通配符的-SSL-证书？](https://www.v2ex.com/t/869316) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -558,8 +558,8 @@
 - [2022-07-28-Spring-Event，贼好用的业务解耦神器！](https://toutiao.io/k/wwjp5m6) ![](assets/new.png)  
 - [2022-07-28-runc-hang-导致-Kubernetes-节点-NotReady](https://toutiao.io/k/pz76s4h) ![](assets/new.png)  
 - [2022-07-28-带你彻底击溃跳表原理及其Golang实现！（内含图解）](https://toutiao.io/k/4p5048p) ![](assets/new.png)  
-- [2022-07-28-【萌新解题】斐波那契数列](https://toutiao.io/k/lepw20c) ![](assets/new.png)  
 - [2022-07-28-基于-eBPF-的-Kubernetes-可观测实践](https://toutiao.io/k/a8g4rvc) ![](assets/new.png)  
+- [2022-07-28-【萌新解题】斐波那契数列](https://toutiao.io/k/lepw20c) ![](assets/new.png)  
 - [2022-07-28-Rust、Go、C-，哪个才是“内存管理大师”？](https://toutiao.io/k/xemtdwa) ![](assets/new.png)  
 - [2022-07-28-使用-Neuron-接入-Modbus-TCP-及-Modbus-RTU-协议设备](https://toutiao.io/k/36afe21) ![](assets/new.png)  
 - [2022-07-28-1.8w-字的-SQL-优化大全](https://toutiao.io/k/9bmtrfk) ![](assets/new.png)  

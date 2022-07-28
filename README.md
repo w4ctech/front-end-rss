@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-07-28 17:03:19，:rocket: 更新条数: +2028， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-07-28 17:47:56，:rocket: 更新条数: +2029， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,9 @@
 </summary>
 
 
+- [2022-07-28-有一个把公开的统计数据可视化的项目，找一位前端合伙人。](https://www.v2ex.com/t/869362) ![](assets/new.png)  
+- [2022-07-28-如果价格一样，-iPad-Air-5-和-iPad-Pro-2020-怎么选](https://www.v2ex.com/t/869361) ![](assets/new.png)  
+- [2022-07-28-联通宽带现在这么能摆烂吗](https://www.v2ex.com/t/869360) ![](assets/new.png)  
 - [2022-07-28-微软账号注销后无法重新注册?](https://www.v2ex.com/t/869359) ![](assets/new.png)  
 - [2022-07-28-本周日（7-月-31-号），北京自行车骑行。黑分解路线。早上-7-点-生命科学园地铁站集合。有一起的吗？欢迎扫码进群](https://www.v2ex.com/t/869358) ![](assets/new.png)  
 - [2022-07-28-关于新人入职的态度](https://www.v2ex.com/t/869357) ![](assets/new.png)  
@@ -508,9 +511,6 @@
 - [2022-07-28-R5S-到底性能怎么样](https://www.v2ex.com/t/869344) ![](assets/new.png)  
 - [2022-07-28-网易在职员工内推～急招-android-系统开发，其他岗位也欢迎私聊](https://www.v2ex.com/t/869343) ![](assets/new.png)  
 - [2022-07-28-微信支付购物车多件物品一起下单后台怎么设计？](https://www.v2ex.com/t/869341) ![](assets/new.png)  
-- [2022-07-28-哪个品牌的-双卡双待-手机最适合刷开源-AOSP-系统（例如-Pixel-Experience-或-Lineageos）？](https://www.v2ex.com/t/869340) ![](assets/new.png)  
-- [2022-07-28-上海有做-app-测试的同学能帮我一个忙吗？](https://www.v2ex.com/t/869337) ![](assets/new.png)  
-- [2022-07-28-储蓄险的实际年化收益率](https://www.v2ex.com/t/869335) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -571,8 +571,8 @@
 - [2022-07-28-DataOps不是工具，而是帮助企业实现数据价值的最佳实践](https://toutiao.io/k/ztzqtzp) ![](assets/new.png)  
 - [2022-07-28-致美国总统的零信任报告](https://toutiao.io/k/5367uxr) ![](assets/new.png)  
 - [2022-07-28-Nest-的实现原理？理解了-reflect-metadata-就懂了](https://toutiao.io/k/9shxxzf) ![](assets/new.png)  
-- [2022-07-28-推荐-腾讯低代码平台正式开源！可拖拽、生成手机项目、PC-项目！接私活福利啊！](https://toutiao.io/k/8oqx21m) ![](assets/new.png)  
 - [2022-07-28-推荐-聊聊Java中代码优化的30个小技巧](https://toutiao.io/k/jv8g1r6) ![](assets/new.png)  
+- [2022-07-28-推荐-腾讯低代码平台正式开源！可拖拽、生成手机项目、PC-项目！接私活福利啊！](https://toutiao.io/k/8oqx21m) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

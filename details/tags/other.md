@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-28 17:03:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-28 17:47:56。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,9 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-07-28-有一个把公开的统计数据可视化的项目，找一位前端合伙人。](https://www.v2ex.com/t/869362) 
+- [2022-07-28-如果价格一样，-iPad-Air-5-和-iPad-Pro-2020-怎么选](https://www.v2ex.com/t/869361) 
+- [2022-07-28-联通宽带现在这么能摆烂吗](https://www.v2ex.com/t/869360) 
 - [2022-07-28-微软账号注销后无法重新注册?](https://www.v2ex.com/t/869359) 
 - [2022-07-28-本周日（7-月-31-号），北京自行车骑行。黑分解路线。早上-7-点-生命科学园地铁站集合。有一起的吗？欢迎扫码进群](https://www.v2ex.com/t/869358) 
 - [2022-07-28-关于新人入职的态度](https://www.v2ex.com/t/869357) 
@@ -1940,8 +1943,6 @@
 - [2022-07-28-请问：企业微信，这个-app-内，究竟预埋了些什么地雷？](https://www.v2ex.com/t/869315) 
 - [2022-07-28-经济题！美国加息如何影响普通人生活？](https://www.v2ex.com/t/869314) 
 - [2022-07-28-求南方电网充值优惠的地方？](https://www.v2ex.com/t/869313) 
-- [2022-07-28-idea-二次开发](https://www.v2ex.com/t/869311) 
-- [2022-07-28-杭州靠谱机会：-Java-技术专家-数据库内核-SQL-引擎研发，薪水-35k-70k](https://www.v2ex.com/t/869310) 
 - [2022-07-28-Google-Cloud-Spanner的实践经验-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15252&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fcloud-spanner%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-28-数据仓库项目从来不是技术项目-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15251&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fwhat-is-data-warehouse%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-28-Android-框架问题分析案例---谁杀了桌面?-androidperformance.com](https://blogread.cn/news/go.php?idItem=15249&url=https%3A%2F%2Fandroidperformance.com%2F2019%2F09%2F17%2FAndroid-Kill-Background-App-Debug%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

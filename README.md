@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-07-28 03:24:33，:rocket: 更新条数: +2022， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-07-28 04:26:08，:rocket: 更新条数: +2020， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,17 @@
 </summary>
 
 
+- [2022-07-28-有什么办法能自动监控文件夹,压缩新增的图片?](https://www.v2ex.com/t/869212) ![](assets/new.png)  
+- [2022-07-28-Windows-的-Home-键个别场景（多行文本）不能对标-Mac-的-Ctrl-+A，求解决办法](https://www.v2ex.com/t/869209) ![](assets/new.png)  
+- [2022-07-28-快七夕了晒一下给自己买的礼物](https://www.v2ex.com/t/869208) ![](assets/new.png)  
+- [2022-07-28-Windows-微信最新版订阅号无法设置卡片模式或者列表模式](https://www.v2ex.com/t/869206) ![](assets/new.png)  
+- [2022-07-28-小程序菜鸡创业小队](https://www.v2ex.com/t/869205) ![](assets/new.png)  
+- [2022-07-28-nginx-redirect-302-问题](https://www.v2ex.com/t/869204) ![](assets/new.png)  
+- [2022-07-28-最好的开发工具-IDEA，无法-Debug-html-了？](https://www.v2ex.com/t/869203) ![](assets/new.png)  
+- [2022-07-28-有什么好用的开源可部署的-Linux-文件管理器吗？有-web-界面的类似宝塔面板的那种可以解压复制编辑的](https://www.v2ex.com/t/869202) ![](assets/new.png)  
+- [2022-07-28-远程多地线下WLB外企头部-Web3-金融平台-Matrixport-多岗位招聘](https://www.v2ex.com/t/869201) ![](assets/new.png)  
+- [2022-07-28-新版微博-Web-端原来是用-Vue-写的](https://www.v2ex.com/t/869199) ![](assets/new.png)  
+- [2022-07-28-有没有推荐幼童英语学习-app-或者课程](https://www.v2ex.com/t/869197) ![](assets/new.png)  
 - [2022-07-28-js-写后台,-是不是有点先天残缺?](https://www.v2ex.com/t/869194) ![](assets/new.png)  
 - [2022-07-28-制作-Windows-屏保](https://www.v2ex.com/t/869192) ![](assets/new.png)  
 - [2022-07-28-外部对象，进入函数后对其添加属性后，离开函数后，用调试器看不到这些添加的属性？](https://www.v2ex.com/t/869191) ![](assets/new.png)  
@@ -500,17 +511,6 @@
 - [2022-07-28-能在商务本上玩的有哪些不沉迷的单机游戏](https://www.v2ex.com/t/869187) ![](assets/new.png)  
 - [2022-07-28-大家对未经你同意随意取用你办公桌上物品的同事是什么看法？](https://www.v2ex.com/t/869186) ![](assets/new.png)  
 - [2022-07-28-刚刚编译-envoy-把笔记本搞死了](https://www.v2ex.com/t/869185) ![](assets/new.png)  
-- [2022-07-28-准备了好久的开源项目功能更完善了，在这里宣传一波，然后自己准备上线运营试试，希望大家不吝指教](https://www.v2ex.com/t/869184) ![](assets/new.png)  
-- [2022-07-28-有人知道-ios16-和-mac-os-Ventura-啥时候上线吗？](https://www.v2ex.com/t/869183) ![](assets/new.png)  
-- [2022-07-28-想问问-nginx-大佬们-nginx-自带的-autoindex-列表有没有不使用第三方插件的优雅的排序方式？](https://www.v2ex.com/t/869182) ![](assets/new.png)  
-- [2022-07-28-阿里的轻量云发现有一个这样的-LKM-模块.](https://www.v2ex.com/t/869181) ![](assets/new.png)  
-- [2022-07-28-12700k-+-premiere-2021/2022-拖动时间轴游标卡顿](https://www.v2ex.com/t/869178) ![](assets/new.png)  
-- [2022-07-28-当年神图·盘灵古域居然升级-1.19-了](https://www.v2ex.com/t/869176) ![](assets/new.png)  
-- [2022-07-28-Dropbox/Google-里面的钓鱼图片是什么意思？](https://www.v2ex.com/t/869173) ![](assets/new.png)  
-- [2022-07-28-快捷指令如何让文本在-HomePod-mini-上朗读？](https://www.v2ex.com/t/869172) ![](assets/new.png)  
-- [2022-07-28-git-merge-会自动修改函数参数和返回值吗？](https://www.v2ex.com/t/869171) ![](assets/new.png)  
-- [2022-07-28-com.tencent.weixin-是-h5-吗？](https://www.v2ex.com/t/869170) ![](assets/new.png)  
-- [2022-07-28-今天突然发现-Logitech-G-HUB-自动更新了，狗东西貌似比以前好用了一点点，还支持板载宏按键了。](https://www.v2ex.com/t/869169) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -567,10 +567,10 @@
 - [2022-07-28-Rust、Go、C-，哪个才是“内存管理大师”？](https://toutiao.io/k/xemtdwa) ![](assets/new.png)  
 - [2022-07-28-基于-eBPF-的-Kubernetes-可观测实践](https://toutiao.io/k/a8g4rvc) ![](assets/new.png)  
 - [2022-07-28-致美国总统的零信任报告](https://toutiao.io/k/5367uxr) ![](assets/new.png)  
-- [2022-07-28-推荐-团队一盘散沙，怎么破？](https://toutiao.io/k/kdzpdh5) ![](assets/new.png)  
-- [2022-07-28-推荐-聊聊Java中代码优化的30个小技巧](https://toutiao.io/k/jv8g1r6) ![](assets/new.png)  
-- [2022-07-28-推荐-花了一周，我总结了120个数据分析指标与术语。](https://toutiao.io/k/9pzybmk) ![](assets/new.png)  
 - [2022-07-28-推荐-腾讯低代码平台正式开源！可拖拽、生成手机项目、PC-项目！接私活福利啊！](https://toutiao.io/k/8oqx21m) ![](assets/new.png)  
+- [2022-07-28-推荐-团队一盘散沙，怎么破？](https://toutiao.io/k/kdzpdh5) ![](assets/new.png)  
+- [2022-07-28-推荐-花了一周，我总结了120个数据分析指标与术语。](https://toutiao.io/k/9pzybmk) ![](assets/new.png)  
+- [2022-07-28-推荐-聊聊Java中代码优化的30个小技巧](https://toutiao.io/k/jv8g1r6) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

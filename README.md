@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-07-28 08:46:56，:rocket: 更新条数: +2029， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-07-28 09:14:27，:rocket: 更新条数: +2031， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,13 @@
 </summary>
 
 
+- [2022-07-28-Github-如何加速下载仓库最新-zip-文件？（非-release、非-git-clone-地址）](https://www.v2ex.com/t/869285) ![](assets/new.png)  
+- [2022-07-28-如果用代码检测一个-EMAIL-地址真实存在？](https://www.v2ex.com/t/869283) ![](assets/new.png)  
+- [2022-07-28-求对-html-进行渲染与布局，输出元素相对位置的分析库](https://www.v2ex.com/t/869282) ![](assets/new.png)  
+- [2022-07-28-请教下关于-Python-运行-Linux-命令行下怎么方便交互](https://www.v2ex.com/t/869281) ![](assets/new.png)  
+- [2022-07-28-（深圳/杭州/北京招聘）让你有更多机会参与到-Apache-顶级开源项目-APISIX](https://www.v2ex.com/t/869280) ![](assets/new.png)  
+- [2022-07-28-IO-操作密集型程序怎么优化](https://www.v2ex.com/t/869279) ![](assets/new.png)  
+- [2022-07-28-Proxyman-拼车](https://www.v2ex.com/t/869278) ![](assets/new.png)  
 - [2022-07-28-Surge-Mac-4-五人车](https://www.v2ex.com/t/869277) ![](assets/new.png)  
 - [2022-07-28-golang-实现的多协议扫描工具-go-protocol-detector，支持-RDP、SSH、FTP、Telnet、VNC、SFTP](https://www.v2ex.com/t/869276) ![](assets/new.png)  
 - [2022-07-28-一件小事，白扔了一个鼠标](https://www.v2ex.com/t/869275) ![](assets/new.png)  
@@ -504,13 +511,6 @@
 - [2022-07-28-看到有人对“做出一个实物作品”感兴趣，因为我有相关经验，特开一个问答交流贴，希望能互相学习。](https://www.v2ex.com/t/869266) ![](assets/new.png)  
 - [2022-07-28-求告知，-macbook-pro-17-款-B-面边框橡胶圈老化怎么维修最便宜](https://www.v2ex.com/t/869265) ![](assets/new.png)  
 - [2022-07-28-各位大佬，求推荐半入耳式无线耳机，日常高频使用，要求有主动降噪，音质过得去。](https://www.v2ex.com/t/869264) ![](assets/new.png)  
-- [2022-07-28-Web3-招聘：-Design-Lead---base-杭州优先|远程---年薪-50-70-万](https://www.v2ex.com/t/869263) ![](assets/new.png)  
-- [2022-07-28-请问我的-IDEA-2022.2-为什么没有这个新特性](https://www.v2ex.com/t/869262) ![](assets/new.png)  
-- [2022-07-28-一个很绕的通过程序来控制各种-shell-的办法](https://www.v2ex.com/t/869261) ![](assets/new.png)  
-- [2022-07-28-IOS16Beta4-虚拟定位](https://www.v2ex.com/t/869260) ![](assets/new.png)  
-- [2022-07-28-有一个想法，关于“小城小镇”，欢迎交流讨论](https://www.v2ex.com/t/869259) ![](assets/new.png)  
-- [2022-07-28-如何快速知道哪个-useSelector-导致了-React-组件重渲染？](https://www.v2ex.com/t/869258) ![](assets/new.png)  
-- [2022-07-28-有可能调用-PS-的插件做图片去水印吗？自己训练的方案现实吗？](https://www.v2ex.com/t/869257) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -571,8 +571,8 @@
 - [2022-07-28-《HelloGitHub》第-76-期](https://toutiao.io/k/4qsd12a) ![](assets/new.png)  
 - [2022-07-28-DataOps不是工具，而是帮助企业实现数据价值的最佳实践](https://toutiao.io/k/ztzqtzp) ![](assets/new.png)  
 - [2022-07-28-Nest-的实现原理？理解了-reflect-metadata-就懂了](https://toutiao.io/k/9shxxzf) ![](assets/new.png)  
-- [2022-07-28-推荐-腾讯低代码平台正式开源！可拖拽、生成手机项目、PC-项目！接私活福利啊！](https://toutiao.io/k/8oqx21m) ![](assets/new.png)  
 - [2022-07-28-推荐-团队一盘散沙，怎么破？](https://toutiao.io/k/kdzpdh5) ![](assets/new.png)  
+- [2022-07-28-推荐-花了一周，我总结了120个数据分析指标与术语。](https://toutiao.io/k/9pzybmk) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

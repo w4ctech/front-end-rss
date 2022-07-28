@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-28 08:46:56。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-28 09:14:27。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -7,4 +7,5 @@
 
 
 
+- [2022-07-28-（深圳/杭州/北京招聘）让你有更多机会参与到-Apache-顶级开源项目-APISIX](https://www.v2ex.com/t/869280) 
 - [2022-07-28-Web3-招聘：-Design-Lead---base-杭州优先|远程---年薪-50-70-万](https://www.v2ex.com/t/869263) 

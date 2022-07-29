@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-07-29 08:46:09，:rocket: 更新条数: +2018， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-07-29 09:15:21，:rocket: 更新条数: +2017， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,9 @@
 </summary>
 
 
+- [2022-07-29-小程序埋点上报的数据，往-mysql-存是可以的吗](https://www.v2ex.com/t/869507) ![](assets/new.png)  
+- [2022-07-29-求助有经验的-toc-产品出海的运营模式](https://www.v2ex.com/t/869505) ![](assets/new.png)  
+- [2022-07-29-还有-365-的车吗，想上个车](https://www.v2ex.com/t/869504) ![](assets/new.png)  
 - [2022-07-29-理光-gr3x-到底行不行？平常出门扫街或者拍拍风景](https://www.v2ex.com/t/869502) ![](assets/new.png)  
 - [2022-07-29-M1-mba-屏幕镜像到-iPad-2020-总自动断开是我的问题吗](https://www.v2ex.com/t/869501) ![](assets/new.png)  
 - [2022-07-29-在外面怎么访问家里的服务器？](https://www.v2ex.com/t/869500) ![](assets/new.png)  
@@ -503,14 +506,11 @@
 - [2022-07-29-如何销售在线服务器?](https://www.v2ex.com/t/869491) ![](assets/new.png)  
 - [2022-07-29-除了-V2EX-，还有哪些优质的社区值得加入？不限于编程行业](https://www.v2ex.com/t/869490) ![](assets/new.png)  
 - [2022-07-29-想携号转网成北京移动-有什么推荐的嘛](https://www.v2ex.com/t/869489) ![](assets/new.png)  
-- [2022-07-29-周应波私募来了](https://www.v2ex.com/t/869488) ![](assets/new.png)  
 - [2022-07-29-没有什么面试经验-恳请各位审阅一下简历](https://www.v2ex.com/t/869486) ![](assets/new.png)  
 - [2022-07-29-弱弱的问一句，-mac-可以打电话吗](https://www.v2ex.com/t/869482) ![](assets/new.png)  
 - [2022-07-29-助力-springboot-升级-3.0，我开发了一个-JDK-的可视化版本切换根工具](https://www.v2ex.com/t/869479) ![](assets/new.png)  
 - [2022-07-29-网页通过-Microsoft-print-to-PDF-生成的-pdf-无法复制其中的文字，有其他的打印到-pdf-插件吗？](https://www.v2ex.com/t/869476) ![](assets/new.png)  
 - [2022-07-29-Mac-有必要安装杀毒安全软件吗](https://www.v2ex.com/t/869474) ![](assets/new.png)  
-- [2022-07-29-一个-Apple-ID-可以通过不同的-unidays-验证来突破购买限制嘛？](https://www.v2ex.com/t/869472) ![](assets/new.png)  
-- [2022-07-29-为了老婆的乐队梦,-我做了一个弹钢琴的机器人](https://www.v2ex.com/t/869471) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -570,9 +570,9 @@
 - [2022-07-29-能解决80%故障的排查思路](https://toutiao.io/k/u2abekn) ![](assets/new.png)  
 - [2022-07-29-独立开发变现周刊（第65期）：-个人爱好发展成一项36万美元/年的NFTs业务](https://toutiao.io/k/81ri5lv) ![](assets/new.png)  
 - [2022-07-29-Elasticsearch-8.X-检索实战调优锦囊-001](https://toutiao.io/k/qn5vaq9) ![](assets/new.png)  
-- [2022-07-29-推荐-腾讯低代码平台正式开源！可拖拽、生成手机项目、PC-项目！接私活福利啊！](https://toutiao.io/k/8oqx21m) ![](assets/new.png)  
-- [2022-07-29-推荐-聊聊Java中代码优化的30个小技巧](https://toutiao.io/k/jv8g1r6) ![](assets/new.png)  
+- [2022-07-29-推荐-团队一盘散沙，怎么破？](https://toutiao.io/k/kdzpdh5) ![](assets/new.png)  
 - [2022-07-29-推荐-花了一周，我总结了120个数据分析指标与术语。](https://toutiao.io/k/9pzybmk) ![](assets/new.png)  
+- [2022-07-29-推荐-腾讯低代码平台正式开源！可拖拽、生成手机项目、PC-项目！接私活福利啊！](https://toutiao.io/k/8oqx21m) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

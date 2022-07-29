@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-29 14:38:43。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-29 15:17:30。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,7 +1911,11 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
-- [2022-07-29-iOS-和-iPadOS-上的-Lightroom-如何云备份](https://www.v2ex.com/t/869565) 
+- [2022-07-29-macOS-的这个-Dynamic-Global-Hostname-功能（RFC-3007）目前有任何服务支持它吗？](https://www.v2ex.com/t/869570) 
+- [2022-07-29-请问有没有什么图片可以用来描述-bug](https://www.v2ex.com/t/869569) 
+- [2022-07-29-发帖子自动变为-8-天前，列表中不显示](https://www.v2ex.com/t/869568) 
+- [2022-07-29-电池健康-82%，但实际续航只有新机六成](https://www.v2ex.com/t/869567) 
+- [2022-07-29-iOS-和-iPadOS-上的-移动端-Lightroom-如何开启云存储备份](https://www.v2ex.com/t/869565) 
 - [2022-07-29-求一张图，描述项目没做完就紧急上线了：左边一半是画的很精美的马，但是后腿到尾巴成了简笔画](https://www.v2ex.com/t/869564) 
 - [2022-07-29-有没有人了解先息后本问题？](https://www.v2ex.com/t/869562) 
 - [2022-07-29-成年人的尴尬来的太突然](https://www.v2ex.com/t/869559) 
@@ -1922,7 +1926,6 @@
 - [2022-07-29-原来-115-现在连正常的电影都拦截啊...](https://www.v2ex.com/t/869551) 
 - [2022-07-29-在家挂着一个-iPhone-作为副卡收短信怎么充电比较好？](https://www.v2ex.com/t/869550) 
 - [2022-07-29-这段-golang-代码是什么意思，有相关文档吗？](https://www.v2ex.com/t/869549) 
-- [2022-07-29-求助～～～上海工资太低怎么办](https://www.v2ex.com/t/869548) 
 - [2022-07-29-test](https://www.v2ex.com/t/869544) 
 - [2022-07-29-服务器-Raid-卡下硬盘插入顺序](https://www.v2ex.com/t/869542) 
 - [2022-07-29-pdd-mbp14-寸-￥-11998-再创新低](https://www.v2ex.com/t/869540) 
@@ -1933,7 +1936,6 @@
 - [2022-07-29-大佬们，如何优雅的修改-pve-中的-vmid](https://www.v2ex.com/t/869528) 
 - [2022-07-29-能将手绘曲线转化为函数的程序脚本或软件？](https://www.v2ex.com/t/869527) 
 - [2022-07-29-如何禁用-Win11-的快捷键](https://www.v2ex.com/t/869525) 
-- [2022-07-29-Python-新手-爬取亚马逊的问题](https://www.v2ex.com/t/869516) 
 - [2022-07-29-Google-Cloud-Spanner的实践经验-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15252&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fcloud-spanner%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-29-数据仓库项目从来不是技术项目-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15251&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fwhat-is-data-warehouse%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-29-Android-框架问题分析案例---谁杀了桌面?-androidperformance.com](https://blogread.cn/news/go.php?idItem=15249&url=https%3A%2F%2Fandroidperformance.com%2F2019%2F09%2F17%2FAndroid-Kill-Background-App-Debug%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1958,6 +1960,6 @@
 - [2022-07-29-Apache-Kyuubi-在网易的深度实践](https://toutiao.io/k/zxn5mre) 
 - [2022-07-29-华为高层谈-35-岁危机，程序员如何破年龄之忧？](https://toutiao.io/k/zyd3vaz) 
 - [2022-07-29-独立开发变现周刊（第65期）：-个人爱好发展成一项36万美元/年的NFTs业务](https://toutiao.io/k/81ri5lv) 
-- [2022-07-29-推荐-腾讯低代码平台正式开源！可拖拽、生成手机项目、PC-项目！接私活福利啊！](https://toutiao.io/k/8oqx21m) 
 - [2022-07-29-推荐-团队一盘散沙，怎么破？](https://toutiao.io/k/kdzpdh5) 
+- [2022-07-29-推荐-腾讯低代码平台正式开源！可拖拽、生成手机项目、PC-项目！接私活福利啊！](https://toutiao.io/k/8oqx21m) 
 - [2022-07-29-推荐-花了一周，我总结了120个数据分析指标与术语。](https://toutiao.io/k/9pzybmk) 

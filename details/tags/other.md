@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-29 10:15:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-29 10:46:12。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,7 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-07-29-如何禁用-Win11-的快捷键](https://www.v2ex.com/t/869525) 
 - [2022-07-29-Python-新手-爬取亚马逊的问题](https://www.v2ex.com/t/869516) 
 - [2022-07-29-预算-500，求推荐靠谱的茶吧机/饮水机](https://www.v2ex.com/t/869514) 
 - [2022-07-29-rust-交叉编译，从-windows-编译到-Linux-，卡住不动](https://www.v2ex.com/t/869513) 
@@ -1929,10 +1930,6 @@
 - [2022-07-29-想携号转网成北京移动-有什么推荐的嘛](https://www.v2ex.com/t/869489) 
 - [2022-07-29-弱弱的问一句，-mac-可以打电话吗](https://www.v2ex.com/t/869482) 
 - [2022-07-29-助力-springboot-升级-3.0，我开发了一个-JDK-的可视化版本切换根工具](https://www.v2ex.com/t/869479) 
-- [2022-07-29-网页通过-Microsoft-print-to-PDF-生成的-pdf-无法复制其中的文字，有其他的打印到-pdf-插件吗？](https://www.v2ex.com/t/869476) 
-- [2022-07-29-一个-Apple-ID-可以通过不同的-unidays-验证来突破购买限制嘛？](https://www.v2ex.com/t/869472) 
-- [2022-07-29-为了老婆的乐队梦,-我做了一个弹钢琴的机器人](https://www.v2ex.com/t/869471) 
-- [2022-07-29-m1/m2-air-散热问题](https://www.v2ex.com/t/869470) 
 - [2022-07-29-Google-Cloud-Spanner的实践经验-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15252&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fcloud-spanner%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-29-数据仓库项目从来不是技术项目-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15251&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fwhat-is-data-warehouse%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-29-Android-框架问题分析案例---谁杀了桌面?-androidperformance.com](https://blogread.cn/news/go.php?idItem=15249&url=https%3A%2F%2Fandroidperformance.com%2F2019%2F09%2F17%2FAndroid-Kill-Background-App-Debug%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1953,10 +1950,10 @@
 - [2022-07-29-Windows高效开发环境配置（一）](https://toutiao.io/k/ys0a2gj) 
 - [2022-07-29-Apache-Kyuubi-在网易的深度实践](https://toutiao.io/k/zxn5mre) 
 - [2022-07-29-容器化数据库必经之道](https://toutiao.io/k/n9e0c68) 
-- [2022-07-29-华为高层谈-35-岁危机，程序员如何破年龄之忧？](https://toutiao.io/k/zyd3vaz) 
 - [2022-07-29-SpringBoot集成文件---集成EasyExcel之Excel导入导出](https://toutiao.io/k/q2xy3gi) 
+- [2022-07-29-华为高层谈-35-岁危机，程序员如何破年龄之忧？](https://toutiao.io/k/zyd3vaz) 
 - [2022-07-29-能解决80%故障的排查思路](https://toutiao.io/k/u2abekn) 
 - [2022-07-29-独立开发变现周刊（第65期）：-个人爱好发展成一项36万美元/年的NFTs业务](https://toutiao.io/k/81ri5lv) 
-- [2022-07-29-推荐-花了一周，我总结了120个数据分析指标与术语。](https://toutiao.io/k/9pzybmk) 
-- [2022-07-29-推荐-腾讯低代码平台正式开源！可拖拽、生成手机项目、PC-项目！接私活福利啊！](https://toutiao.io/k/8oqx21m) 
 - [2022-07-29-推荐-团队一盘散沙，怎么破？](https://toutiao.io/k/kdzpdh5) 
+- [2022-07-29-推荐-腾讯低代码平台正式开源！可拖拽、生成手机项目、PC-项目！接私活福利啊！](https://toutiao.io/k/8oqx21m) 
+- [2022-07-29-推荐-花了一周，我总结了120个数据分析指标与术语。](https://toutiao.io/k/9pzybmk) 

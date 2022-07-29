@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-07-29 05:47:19，:rocket: 更新条数: +2021， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-07-29 06:19:17，:rocket: 更新条数: +2028， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,9 @@
 </summary>
 
 
+- [2022-07-29-分享一下-Apple-Watch-S7-保修过程](https://www.v2ex.com/t/869462) ![](assets/new.png)  
+- [2022-07-29-rename-命令批量重命名-如何快速的把-A-目录下的这些目录中的文件名批量加个目录名做为前缀](https://www.v2ex.com/t/869461) ![](assets/new.png)  
+- [2022-07-29-宽带-ip-得有两个月没变了，-90-分钟前看似乎重连了一下，但还是原来的-IP，这种的跟公网-ip-是不是没啥区别了](https://www.v2ex.com/t/869460) ![](assets/new.png)  
 - [2022-07-29-有没有专门可以处理竖排文字，尤其是竖排日语的软件？](https://www.v2ex.com/t/869458) ![](assets/new.png)  
 - [2022-07-29-还有蜗牛移动的用户吗?-在`一证通查`里面能找到你的号码么?](https://www.v2ex.com/t/869457) ![](assets/new.png)  
 - [2022-07-29-又一人猝死](https://www.v2ex.com/t/869455) ![](assets/new.png)  
@@ -508,9 +511,6 @@
 - [2022-07-29-问个有味道的问题-大家有脚气吗](https://www.v2ex.com/t/869440) ![](assets/new.png)  
 - [2022-07-29-台式机怎么带动-5K-显示器？](https://www.v2ex.com/t/869439) ![](assets/new.png)  
 - [2022-07-29-跟当程序员的三哥聊了一会，治好了我的焦虑……](https://www.v2ex.com/t/869438) ![](assets/new.png)  
-- [2022-07-29-花了一千块钱买了个-com.cn-域名，请问值得吗](https://www.v2ex.com/t/869437) ![](assets/new.png)  
-- [2022-07-29-产品经理：年薪-20w-起，一年翻倍，双休，远程工作：](https://www.v2ex.com/t/869436) ![](assets/new.png)  
-- [2022-07-29-wifi-ap-选择](https://www.v2ex.com/t/869435) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -560,16 +560,19 @@
 - [2022-07-29-Thrift-序列化协议浅析](https://toutiao.io/k/v6esqht) ![](assets/new.png)  
 - [2022-07-29-日志导致线程Block的这些坑，你不得不防](https://toutiao.io/k/eakgqf8) ![](assets/new.png)  
 - [2022-07-29-Windows高效开发环境配置（一）](https://toutiao.io/k/ys0a2gj) ![](assets/new.png)  
-- [2022-07-29-Rust、Go、C-，哪个才是“内存管理大师”？](https://toutiao.io/k/ldnfacl) ![](assets/new.png)  
 - [2022-07-29-Apache-Kyuubi-在网易的深度实践](https://toutiao.io/k/zxn5mre) ![](assets/new.png)  
 - [2022-07-29-抓到-Dubbo-异步调用的小-Bug，再送你一个贡献开源代码的机会](https://toutiao.io/k/x4s87o2) ![](assets/new.png)  
 - [2022-07-29-华为高层谈-35-岁危机，程序员如何破年龄之忧？](https://toutiao.io/k/zyd3vaz) ![](assets/new.png)  
 - [2022-07-29-容器化数据库必经之道](https://toutiao.io/k/n9e0c68) ![](assets/new.png)  
 - [2022-07-29-深入浅出依赖注入及其在抖音直播中的应用](https://toutiao.io/k/mwjnolz) ![](assets/new.png)  
-- [2022-07-29-推荐-花了一周，我总结了120个数据分析指标与术语。](https://toutiao.io/k/9pzybmk) ![](assets/new.png)  
-- [2022-07-29-推荐-腾讯低代码平台正式开源！可拖拽、生成手机项目、PC-项目！接私活福利啊！](https://toutiao.io/k/8oqx21m) ![](assets/new.png)  
-- [2022-07-29-推荐-团队一盘散沙，怎么破？](https://toutiao.io/k/kdzpdh5) ![](assets/new.png)  
-- [2022-07-29-推荐-聊聊Java中代码优化的30个小技巧](https://toutiao.io/k/jv8g1r6) ![](assets/new.png)  
+- [2022-07-29-SpringBoot集成文件---集成EasyExcel之Excel导入导出](https://toutiao.io/k/q2xy3gi) ![](assets/new.png)  
+- [2022-07-29-遥感数字图像处理](https://toutiao.io/k/f2pdq3k) ![](assets/new.png)  
+- [2022-07-29-独立开发变现周刊（第65期）：-个人爱好发展成一项36万美元/年的NFTs业务](https://toutiao.io/k/81ri5lv) ![](assets/new.png)  
+- [2022-07-29-直接-root-Android-设备，会「隐身」的恶意软件-AbstractEmu-正在偷偷作恶](https://toutiao.io/k/0e6f5ni) ![](assets/new.png)  
+- [2022-07-29-31个！Golang常用工具来啦（建议收藏）](https://toutiao.io/k/amn3bs7) ![](assets/new.png)  
+- [2022-07-29-存储日报-20220729-Rust-加入-Facebook-服务端语言全家桶](https://toutiao.io/k/e2twm4w) ![](assets/new.png)  
+- [2022-07-29-能解决80%故障的排查思路](https://toutiao.io/k/u2abekn) ![](assets/new.png)  
+- [2022-07-29-Elasticsearch-8.X-检索实战调优锦囊-001](https://toutiao.io/k/qn5vaq9) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

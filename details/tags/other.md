@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-29 17:18:36。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-29 17:44:03。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,8 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-07-29-iPad-上-QQ-耗电巨多是怎么回事](https://www.v2ex.com/t/869580) 
+- [2022-07-29-广州电信最近固定-IP-地址，怎么操作-IP-地址都没有改变](https://www.v2ex.com/t/869579) 
 - [2022-07-29-我用-6-个月完成了换房，记录一下感受，也分享不靠谱的中介](https://www.v2ex.com/t/869578) 
 - [2022-07-29-腾讯云网站是不是挂了？](https://www.v2ex.com/t/869577) 
 - [2022-07-29-手感最像-MacBook-Pro-2021-键盘的轴是什么轴](https://www.v2ex.com/t/869576) 
@@ -1939,7 +1941,6 @@
 - [2022-07-29-发给你的好友，让-TA-请你吃炸鸡！](https://www.v2ex.com/t/869538) 
 - [2022-07-29-想买个-watch](https://www.v2ex.com/t/869537) 
 - [2022-07-29-微信去年刚上传过身份证，刚刚提现又要上传身份证](https://www.v2ex.com/t/869536) 
-- [2022-07-29-macOS-下面有没有什么简单好用的分割图片的工具？](https://www.v2ex.com/t/869529) 
 - [2022-07-29-Google-Cloud-Spanner的实践经验-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15252&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fcloud-spanner%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-29-数据仓库项目从来不是技术项目-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15251&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fwhat-is-data-warehouse%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-29-Android-框架问题分析案例---谁杀了桌面?-androidperformance.com](https://blogread.cn/news/go.php?idItem=15249&url=https%3A%2F%2Fandroidperformance.com%2F2019%2F09%2F17%2FAndroid-Kill-Background-App-Debug%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1965,5 +1966,5 @@
 - [2022-07-29-华为高层谈-35-岁危机，程序员如何破年龄之忧？](https://toutiao.io/k/zyd3vaz) 
 - [2022-07-29-独立开发变现周刊（第65期）：-个人爱好发展成一项36万美元/年的NFTs业务](https://toutiao.io/k/81ri5lv) 
 - [2022-07-29-推荐-花了一周，我总结了120个数据分析指标与术语。](https://toutiao.io/k/9pzybmk) 
-- [2022-07-29-推荐-团队一盘散沙，怎么破？](https://toutiao.io/k/kdzpdh5) 
 - [2022-07-29-推荐-腾讯低代码平台正式开源！可拖拽、生成手机项目、PC-项目！接私活福利啊！](https://toutiao.io/k/8oqx21m) 
+- [2022-07-29-推荐-团队一盘散沙，怎么破？](https://toutiao.io/k/kdzpdh5) 

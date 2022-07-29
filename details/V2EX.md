@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-29 23:03:06。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-29 23:14:30。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
@@ -44,4 +44,3 @@
 - [2022-07-29-发给你的好友，让-TA-请你吃炸鸡！](https://www.v2ex.com/t/869538) 
 - [2022-07-29-想买个-watch](https://www.v2ex.com/t/869537) 
 - [2022-07-29-微信去年刚上传过身份证，刚刚提现又要上传身份证](https://www.v2ex.com/t/869536) 
-- [2022-07-29-我的-GitHub-stars-汇总归类列表，欢迎大家-star-收藏](https://www.v2ex.com/t/869535) 

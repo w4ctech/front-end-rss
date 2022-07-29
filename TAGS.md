@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-07-29 13:16:02。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-29 13:57:56。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -122,7 +122,6 @@
 
 
 
-- [【V2EX】小程序埋点上报的数据，往-mysql-存是可以的吗](https://www.v2ex.com/t/869507)
 - [......【查看更多】......](./details/tags/miniprogram.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -288,6 +287,7 @@
 - [【武汉肺炎防疫全纪录(财新网)】解药|新冠mRNA疫苗安全性有哪些挑战？](https://m.caixin.com/m/2021-01-08/101648043.html)
 - [【武汉肺炎防疫全纪录(财新网)】大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html)
 - [【张鑫旭-鑫空间-鑫生活】基于文字的URL锚点定位与::target-text样式设置](https://www.zhangxinxu.com/wordpress/2022/06/url-anchor-target-text/)
+- [【V2EX】Edge-for-Mac-的-autoupdate-问题](https://www.v2ex.com/t/869553)
 - [【V2EX】有关-Android-生命周期的-ViewModel-和-LiveData，为什么谷歌设计只支持-Activity-和-Fragment](https://www.v2ex.com/t/869539)
 - [【V2EX】说一个关于中国移动的-服务密码安全规范-的笑话](https://www.v2ex.com/t/869523)
 - [【V2EX】三星-SSD-T7-shield-2T-接-M1-测试速度感人-问题](https://www.v2ex.com/t/869518)

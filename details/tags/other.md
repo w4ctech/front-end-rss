@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-29 11:37:38。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-29 12:28:31。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,11 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-07-29-（moto）Android-手机关闭-5G-的方式？以及-Android-12-里滑选时视觉反馈的问题](https://www.v2ex.com/t/869544) 
+- [2022-07-29-服务器-Raid-卡下硬盘插入顺序](https://www.v2ex.com/t/869542) 
+- [2022-07-29-pdd-mbp14-寸-￥-11998-再创新低](https://www.v2ex.com/t/869540) 
+- [2022-07-29-发给你的好友，让-TA-请你吃炸鸡！](https://www.v2ex.com/t/869538) 
+- [2022-07-29-想买个-watch](https://www.v2ex.com/t/869537) 
 - [2022-07-29-微信去年刚上传过身份证，刚刚提现又要上传身份证](https://www.v2ex.com/t/869536) 
 - [2022-07-29-macOS-下面有没有什么简单好用的分割图片的工具？](https://www.v2ex.com/t/869529) 
 - [2022-07-29-大佬们，如何优雅的修改-pve-中的-vmid](https://www.v2ex.com/t/869528) 
@@ -1928,10 +1933,6 @@
 - [2022-07-29-现在-Android-手机有什么人气比较旺的论坛？](https://www.v2ex.com/t/869499) 
 - [2022-07-29-单纯玩-PT，-arm-的-nas-是否最合适](https://www.v2ex.com/t/869498) 
 - [2022-07-29-vscode-go-插件真正的语法高亮](https://www.v2ex.com/t/869497) 
-- [2022-07-29-广州电信家用光猫有-IPv6（240e-开头）有-ER-X-，可以暴露内网服务吗](https://www.v2ex.com/t/869492) 
-- [2022-07-29-如何销售在线服务器?](https://www.v2ex.com/t/869491) 
-- [2022-07-29-除了-V2EX-，还有哪些优质的社区值得加入？不限于编程行业](https://www.v2ex.com/t/869490) 
-- [2022-07-29-想携号转网成北京移动-有什么推荐的嘛](https://www.v2ex.com/t/869489) 
 - [2022-07-29-Google-Cloud-Spanner的实践经验-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15252&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fcloud-spanner%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-29-数据仓库项目从来不是技术项目-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15251&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fwhat-is-data-warehouse%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-07-29-Android-框架问题分析案例---谁杀了桌面?-androidperformance.com](https://blogread.cn/news/go.php?idItem=15249&url=https%3A%2F%2Fandroidperformance.com%2F2019%2F09%2F17%2FAndroid-Kill-Background-App-Debug%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1951,8 +1952,8 @@
 - [2022-07-29-日志导致线程Block的这些坑，你不得不防](https://toutiao.io/k/eakgqf8) 
 - [2022-07-29-Windows高效开发环境配置（一）](https://toutiao.io/k/ys0a2gj) 
 - [2022-07-29-容器化数据库必经之道](https://toutiao.io/k/n9e0c68) 
-- [2022-07-29-Apache-Kyuubi-在网易的深度实践](https://toutiao.io/k/zxn5mre) 
 - [2022-07-29-SpringBoot集成文件---集成EasyExcel之Excel导入导出](https://toutiao.io/k/q2xy3gi) 
+- [2022-07-29-Apache-Kyuubi-在网易的深度实践](https://toutiao.io/k/zxn5mre) 
 - [2022-07-29-华为高层谈-35-岁危机，程序员如何破年龄之忧？](https://toutiao.io/k/zyd3vaz) 
 - [2022-07-29-能解决80%故障的排查思路](https://toutiao.io/k/u2abekn) 
 - [2022-07-29-独立开发变现周刊（第65期）：-个人爱好发展成一项36万美元/年的NFTs业务](https://toutiao.io/k/81ri5lv) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-29 06:19:17。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-07-29 06:49:18。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -70,12 +70,13 @@
 
 - [【张鑫旭-鑫空间-鑫生活】2022-07-27-万物皆可clip-path，纯CSS绘制0-9数字](https://www.zhangxinxu.com/wordpress/2022/07/clip-path-css-number/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-07-21-超酷！CSS-font-palette与彩色字体显示](https://www.zhangxinxu.com/wordpress/2022/07/css-font-palette/) 
+- [【V2EX】2022-07-29-「深圳」浅试一下-v-站能不能找到设计师（全职内种](https://www.v2ex.com/t/869467) 
+- [【V2EX】2022-07-29-华为新的-MatePad-Pro-上带的-pc-应用引擎是啥情况，原生的-exe-还是魔改的？](https://www.v2ex.com/t/869466) 
 - [【V2EX】2022-07-29-分享一下-Apple-Watch-S7-保修过程](https://www.v2ex.com/t/869462) 
 - [【V2EX】2022-07-29-rename-命令批量重命名-如何快速的把-A-目录下的这些目录中的文件名批量加个目录名做为前缀](https://www.v2ex.com/t/869461) 
 - [【V2EX】2022-07-29-宽带-ip-得有两个月没变了，-90-分钟前看似乎重连了一下，但还是原来的-IP，这种的跟公网-ip-是不是没啥区别了](https://www.v2ex.com/t/869460) 
 - [【V2EX】2022-07-29-有没有专门可以处理竖排文字，尤其是竖排日语的软件？](https://www.v2ex.com/t/869458) 
 - [【V2EX】2022-07-29-还有蜗牛移动的用户吗?-在`一证通查`里面能找到你的号码么?](https://www.v2ex.com/t/869457) 
-- [【V2EX】2022-07-29-又一人猝死](https://www.v2ex.com/t/869455) 
 - [【V2EX】2022-07-29-如何记录端口连接过的-IP](https://www.v2ex.com/t/869454) 
 - [【V2EX】2022-07-29-Windows-包管理-scoop-太好用了!](https://www.v2ex.com/t/869453) 
 - [【V2EX】2022-07-29-苹果不提供-iPad-的维修服务？](https://www.v2ex.com/t/869452) 
@@ -86,10 +87,8 @@
 - [【V2EX】2022-07-29-安卓手机发热的时候，怎么知道是哪个程序在占-CPU？](https://www.v2ex.com/t/869446) 
 - [【V2EX】2022-07-29-求助oled-屏手机阳光下啥都看不见，买哪种手机膜？](https://www.v2ex.com/t/869445) 
 - [【V2EX】2022-07-29-做基于语法自动补全麻烦么？](https://www.v2ex.com/t/869443) 
-- [【V2EX】2022-07-29-招-Python-和-vue-开发（外包模式，太牛就不要点了）](https://www.v2ex.com/t/869441) 
 - [【V2EX】2022-07-29-问个有味道的问题-大家有脚气吗](https://www.v2ex.com/t/869440) 
 - [【V2EX】2022-07-29-台式机怎么带动-5K-显示器？](https://www.v2ex.com/t/869439) 
-- [【V2EX】2022-07-29-跟当程序员的三哥聊了一会，治好了我的焦虑……](https://www.v2ex.com/t/869438) 
 - [【V2EX】2022-07-29-花了一千块钱买了个-com.cn-域名，请问值得吗](https://www.v2ex.com/t/869437) 
 - [【V2EX】2022-07-29-产品经理：年薪-20w-起，一年翻倍，双休，远程工作：](https://www.v2ex.com/t/869436) 
 - [【V2EX】2022-07-29-wifi-ap-选择](https://www.v2ex.com/t/869435) 
@@ -106,8 +105,6 @@
 - [【V2EX】2022-07-29-vue-为了文件代码行数不太长-一个文件拆分成-html-js-scss-三个文件，这样做法感觉有啥意义？](https://www.v2ex.com/t/869422) 
 - [【V2EX】2022-07-29-insta360-影石-这家企业怎么样？](https://www.v2ex.com/t/869421) 
 - [【V2EX】2022-07-29-该说不说-M1Pro-14'-是真的丑](https://www.v2ex.com/t/869418) 
-- [【V2EX】2022-07-29-求推荐飞盘](https://www.v2ex.com/t/869416) 
-- [【V2EX】2022-07-29-话说你们的-macbook-pro-内置显示器设置是选的默认还是缩放啊](https://www.v2ex.com/t/869415) 
 - [【技术头条】2022-07-29-Google-Cloud-Spanner的实践经验-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15252&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fcloud-spanner%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-29-数据仓库项目从来不是技术项目-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15251&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fwhat-is-data-warehouse%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-29-Webpack-打包后代码执行时机分析与优化-www.alloyteam.com](https://blogread.cn/news/go.php?idItem=15250&url=http%3A%2F%2Fwww.alloyteam.com%2F2019%2F07%2Fwait-external-webpack-plugin%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -143,15 +140,14 @@
 - [【开发者头条】2022-07-29-SpringBoot集成文件---集成EasyExcel之Excel导入导出](https://toutiao.io/k/q2xy3gi) 
 - [【开发者头条】2022-07-29-遥感数字图像处理](https://toutiao.io/k/f2pdq3k) 
 - [【开发者头条】2022-07-29-独立开发变现周刊（第65期）：-个人爱好发展成一项36万美元/年的NFTs业务](https://toutiao.io/k/81ri5lv) 
-- [【开发者头条】2022-07-29-直接-root-Android-设备，会「隐身」的恶意软件-AbstractEmu-正在偷偷作恶](https://toutiao.io/k/0e6f5ni) 
 - [【开发者头条】2022-07-29-31个！Golang常用工具来啦（建议收藏）](https://toutiao.io/k/amn3bs7) 
-- [【开发者头条】2022-07-29-存储日报-20220729-Rust-加入-Facebook-服务端语言全家桶](https://toutiao.io/k/e2twm4w) 
 - [【开发者头条】2022-07-29-能解决80%故障的排查思路](https://toutiao.io/k/u2abekn) 
 - [【开发者头条】2022-07-29-Elasticsearch-8.X-检索实战调优锦囊-001](https://toutiao.io/k/qn5vaq9) 
-- [【开发者头条】2022-07-29-推荐-花了一周，我总结了120个数据分析指标与术语。](https://toutiao.io/k/9pzybmk) 
+- [【开发者头条】2022-07-29-存储日报-20220729-Rust-加入-Facebook-服务端语言全家桶](https://toutiao.io/k/e2twm4w) 
+- [【开发者头条】2022-07-29-推荐-腾讯低代码平台正式开源！可拖拽、生成手机项目、PC-项目！接私活福利啊！](https://toutiao.io/k/8oqx21m) 
 - [【开发者头条】2022-07-29-推荐-团队一盘散沙，怎么破？](https://toutiao.io/k/kdzpdh5) 
 - [【开发者头条】2022-07-29-推荐-聊聊Java中代码优化的30个小技巧](https://toutiao.io/k/jv8g1r6) 
-- [【开发者头条】2022-07-29-推荐-腾讯低代码平台正式开源！可拖拽、生成手机项目、PC-项目！接私活福利啊！](https://toutiao.io/k/8oqx21m) 
+- [【开发者头条】2022-07-29-推荐-花了一周，我总结了120个数据分析指标与术语。](https://toutiao.io/k/9pzybmk) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

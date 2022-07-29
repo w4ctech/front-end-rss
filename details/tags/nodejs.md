@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-29 01:10:03。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-29 03:36:36。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## NodeJS
 
@@ -6,5 +6,3 @@
 > 关键字：`Node`、`Node.js`、`Express`、`Koa`、`egg.js`、`pandora.js`、`Electron`、`V8`
 
 
-
-- [2022-07-28-强烈推荐一款-node.js-实现的音乐下载命令行工具，可以下载杰伦的歌哦～](https://www.v2ex.com/t/869356) 

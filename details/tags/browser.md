@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-28 23:41:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-29 01:10:03。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -18,5 +18,3 @@
 - [2022-07-28-TeraCopy，-FastCopy，-ExtremeCopy,-KillCopy，-SuperCopier4，-UltraCopier，移动复制粘贴文件哪家强？](https://www.v2ex.com/t/869346) 
 - [2022-07-28-哪个品牌的-双卡双待-手机最适合刷开源-AOSP-系统（例如-Pixel-Experience-或-Lineageos）？](https://www.v2ex.com/t/869340) 
 - [2022-07-28-求解跨境数据流动便利化-海南启动网络数据安全地方立法](https://www.v2ex.com/t/869333) 
-- [2022-07-28-【第2682期】前端场景下请求的Race-Conditions](https://toutiao.io/k/s9pzu7i) 
-- [2022-07-28-译文推荐-|-调试-BookKeeper-协议---无界-Ledger](https://toutiao.io/k/8lrq4nm) 

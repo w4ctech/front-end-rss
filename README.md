@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-07-29 05:27:45，:rocket: 更新条数: +2022， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-07-29 05:47:19，:rocket: 更新条数: +2021， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-07-29-有没有专门可以处理竖排文字，尤其是竖排日语的软件？](https://www.v2ex.com/t/869458) ![](assets/new.png)  
+- [2022-07-29-还有蜗牛移动的用户吗?-在`一证通查`里面能找到你的号码么?](https://www.v2ex.com/t/869457) ![](assets/new.png)  
 - [2022-07-29-又一人猝死](https://www.v2ex.com/t/869455) ![](assets/new.png)  
 - [2022-07-29-如何记录端口连接过的-IP](https://www.v2ex.com/t/869454) ![](assets/new.png)  
 - [2022-07-29-Windows-包管理-scoop-太好用了!](https://www.v2ex.com/t/869453) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-07-29-花了一千块钱买了个-com.cn-域名，请问值得吗](https://www.v2ex.com/t/869437) ![](assets/new.png)  
 - [2022-07-29-产品经理：年薪-20w-起，一年翻倍，双休，远程工作：](https://www.v2ex.com/t/869436) ![](assets/new.png)  
 - [2022-07-29-wifi-ap-选择](https://www.v2ex.com/t/869435) ![](assets/new.png)  
-- [2022-07-29-经历过社会的毒打之后，很多人都活成了自己不喜欢的样子，包括我自己](https://www.v2ex.com/t/869434) ![](assets/new.png)  
-- [2022-07-29-Mac-聚焦搜索的奇怪问题](https://www.v2ex.com/t/869433) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -566,10 +566,10 @@
 - [2022-07-29-华为高层谈-35-岁危机，程序员如何破年龄之忧？](https://toutiao.io/k/zyd3vaz) ![](assets/new.png)  
 - [2022-07-29-容器化数据库必经之道](https://toutiao.io/k/n9e0c68) ![](assets/new.png)  
 - [2022-07-29-深入浅出依赖注入及其在抖音直播中的应用](https://toutiao.io/k/mwjnolz) ![](assets/new.png)  
-- [2022-07-29-推荐-腾讯低代码平台正式开源！可拖拽、生成手机项目、PC-项目！接私活福利啊！](https://toutiao.io/k/8oqx21m) ![](assets/new.png)  
 - [2022-07-29-推荐-花了一周，我总结了120个数据分析指标与术语。](https://toutiao.io/k/9pzybmk) ![](assets/new.png)  
-- [2022-07-29-推荐-聊聊Java中代码优化的30个小技巧](https://toutiao.io/k/jv8g1r6) ![](assets/new.png)  
+- [2022-07-29-推荐-腾讯低代码平台正式开源！可拖拽、生成手机项目、PC-项目！接私活福利啊！](https://toutiao.io/k/8oqx21m) ![](assets/new.png)  
 - [2022-07-29-推荐-团队一盘散沙，怎么破？](https://toutiao.io/k/kdzpdh5) ![](assets/new.png)  
+- [2022-07-29-推荐-聊聊Java中代码优化的30个小技巧](https://toutiao.io/k/jv8g1r6) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

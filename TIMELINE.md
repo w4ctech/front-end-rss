@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-29 07:13:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-07-29 07:38:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -70,6 +70,10 @@
 
 - [【张鑫旭-鑫空间-鑫生活】2022-07-27-万物皆可clip-path，纯CSS绘制0-9数字](https://www.zhangxinxu.com/wordpress/2022/07/clip-path-css-number/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-07-21-超酷！CSS-font-palette与彩色字体显示](https://www.zhangxinxu.com/wordpress/2022/07/css-font-palette/) 
+- [【V2EX】2022-07-29-弱弱的问一句，-mac-可以打电话吗](https://www.v2ex.com/t/869482) 
+- [【V2EX】2022-07-29-疫情被封在家](https://www.v2ex.com/t/869481) 
+- [【V2EX】2022-07-29-助力-springboot-升级-3.0，我开发了一个-JDK-的可视化版本切换根工具](https://www.v2ex.com/t/869479) 
+- [【V2EX】2022-07-29-网页通过-Microsoft-print-to-PDF-生成的-pdf-无法复制其中的文字，有其他的打印到-pdf-插件吗？](https://www.v2ex.com/t/869476) 
 - [【V2EX】2022-07-29-Mac-有必要安装杀毒安全软件吗](https://www.v2ex.com/t/869474) 
 - [【V2EX】2022-07-29-一个-Apple-ID-可以通过不同的-unidays-验证来突破购买限制嘛？](https://www.v2ex.com/t/869472) 
 - [【V2EX】2022-07-29-为了老婆的乐队梦,-我做了一个弹钢琴的机器人](https://www.v2ex.com/t/869471) 
@@ -99,12 +103,6 @@
 - [【V2EX】2022-07-29-wifi-ap-选择](https://www.v2ex.com/t/869435) 
 - [【V2EX】2022-07-29-经历过社会的毒打之后，很多人都活成了自己不喜欢的样子，包括我自己](https://www.v2ex.com/t/869434) 
 - [【V2EX】2022-07-29-Mac-聚焦搜索的奇怪问题](https://www.v2ex.com/t/869433) 
-- [【V2EX】2022-07-29-2022-年，还是谈险色变嘛？不过激，温和的聊一下](https://www.v2ex.com/t/869432) 
-- [【V2EX】2022-07-29-官网硅胶壳怎么清洗](https://www.v2ex.com/t/869431) 
-- [【V2EX】2022-07-29-群晖-DS1621/1821-涨价了，现在买会背刺吗？](https://www.v2ex.com/t/869429) 
-- [【V2EX】2022-07-29-v2ex-的默认搜索逻辑是怎样的？](https://www.v2ex.com/t/869428) 
-- [【V2EX】2022-07-29-Software-Engineer-Java-x-5-10-10k---25k](https://www.v2ex.com/t/869427) 
-- [【V2EX】2022-07-29-记一次百度云的体验——体验垃圾的一匹](https://www.v2ex.com/t/869426) 
 - [【技术头条】2022-07-29-Google-Cloud-Spanner的实践经验-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15252&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fcloud-spanner%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-29-数据仓库项目从来不是技术项目-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15251&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fwhat-is-data-warehouse%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-29-Webpack-打包后代码执行时机分析与优化-www.alloyteam.com](https://blogread.cn/news/go.php?idItem=15250&url=http%3A%2F%2Fwww.alloyteam.com%2F2019%2F07%2Fwait-external-webpack-plugin%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -142,10 +140,10 @@
 - [【开发者头条】2022-07-29-独立开发变现周刊（第65期）：-个人爱好发展成一项36万美元/年的NFTs业务](https://toutiao.io/k/81ri5lv) 
 - [【开发者头条】2022-07-29-能解决80%故障的排查思路](https://toutiao.io/k/u2abekn) 
 - [【开发者头条】2022-07-29-Elasticsearch-8.X-检索实战调优锦囊-001](https://toutiao.io/k/qn5vaq9) 
-- [【开发者头条】2022-07-29-推荐-花了一周，我总结了120个数据分析指标与术语。](https://toutiao.io/k/9pzybmk) 
-- [【开发者头条】2022-07-29-推荐-腾讯低代码平台正式开源！可拖拽、生成手机项目、PC-项目！接私活福利啊！](https://toutiao.io/k/8oqx21m) 
-- [【开发者头条】2022-07-29-推荐-聊聊Java中代码优化的30个小技巧](https://toutiao.io/k/jv8g1r6) 
 - [【开发者头条】2022-07-29-推荐-团队一盘散沙，怎么破？](https://toutiao.io/k/kdzpdh5) 
+- [【开发者头条】2022-07-29-推荐-聊聊Java中代码优化的30个小技巧](https://toutiao.io/k/jv8g1r6) 
+- [【开发者头条】2022-07-29-推荐-腾讯低代码平台正式开源！可拖拽、生成手机项目、PC-项目！接私活福利啊！](https://toutiao.io/k/8oqx21m) 
+- [【开发者头条】2022-07-29-推荐-花了一周，我总结了120个数据分析指标与术语。](https://toutiao.io/k/9pzybmk) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

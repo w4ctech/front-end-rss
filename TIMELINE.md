@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-29 10:46:12。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-07-29 11:12:49。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -70,6 +70,11 @@
 
 - [【张鑫旭-鑫空间-鑫生活】2022-07-27-万物皆可clip-path，纯CSS绘制0-9数字](https://www.zhangxinxu.com/wordpress/2022/07/clip-path-css-number/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-07-21-超酷！CSS-font-palette与彩色字体显示](https://www.zhangxinxu.com/wordpress/2022/07/css-font-palette/) 
+- [【V2EX】2022-07-29-Web3-招聘：产品经理---base-上海---年薪-25-45-万](https://www.v2ex.com/t/869531) 
+- [【V2EX】2022-07-29-运维工程师招聘-base:台北](https://www.v2ex.com/t/869530) 
+- [【V2EX】2022-07-29-macOS-下面有没有什么简单好用的分割图片的工具？](https://www.v2ex.com/t/869529) 
+- [【V2EX】2022-07-29-大佬们，如何优雅的修改-pve-中的-vmid](https://www.v2ex.com/t/869528) 
+- [【V2EX】2022-07-29-能将手绘曲线转化为函数的程序脚本或软件？](https://www.v2ex.com/t/869527) 
 - [【V2EX】2022-07-29-如何禁用-Win11-的快捷键](https://www.v2ex.com/t/869525) 
 - [【V2EX】2022-07-29-请问如何在-JsonPath-中再次筛选通过过滤器过滤出来的结果？](https://www.v2ex.com/t/869524) 
 - [【V2EX】2022-07-29-说一个关于中国移动的-服务密码安全规范-的笑话](https://www.v2ex.com/t/869523) 
@@ -97,8 +102,6 @@
 - [【V2EX】2022-07-29-除了-V2EX-，还有哪些优质的社区值得加入？不限于编程行业](https://www.v2ex.com/t/869490) 
 - [【V2EX】2022-07-29-想携号转网成北京移动-有什么推荐的嘛](https://www.v2ex.com/t/869489) 
 - [【V2EX】2022-07-29-没有什么面试经验-恳请各位审阅一下简历](https://www.v2ex.com/t/869486) 
-- [【V2EX】2022-07-29-弱弱的问一句，-mac-可以打电话吗](https://www.v2ex.com/t/869482) 
-- [【V2EX】2022-07-29-助力-springboot-升级-3.0，我开发了一个-JDK-的可视化版本切换根工具](https://www.v2ex.com/t/869479) 
 - [【技术头条】2022-07-29-Google-Cloud-Spanner的实践经验-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15252&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fcloud-spanner%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-29-数据仓库项目从来不是技术项目-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15251&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fwhat-is-data-warehouse%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-07-29-Webpack-打包后代码执行时机分析与优化-www.alloyteam.com](https://blogread.cn/news/go.php?idItem=15250&url=http%3A%2F%2Fwww.alloyteam.com%2F2019%2F07%2Fwait-external-webpack-plugin%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -126,9 +129,9 @@
 - [【开发者头条】2022-07-29-Thrift-序列化协议浅析](https://toutiao.io/k/v6esqht) 
 - [【开发者头条】2022-07-29-日志导致线程Block的这些坑，你不得不防](https://toutiao.io/k/eakgqf8) 
 - [【开发者头条】2022-07-29-Windows高效开发环境配置（一）](https://toutiao.io/k/ys0a2gj) 
+- [【开发者头条】2022-07-29-容器化数据库必经之道](https://toutiao.io/k/n9e0c68) 
 - [【开发者头条】2022-07-29-Apache-Kyuubi-在网易的深度实践](https://toutiao.io/k/zxn5mre) 
 - [【开发者头条】2022-07-29-抓到-Dubbo-异步调用的小-Bug，再送你一个贡献开源代码的机会](https://toutiao.io/k/x4s87o2) 
-- [【开发者头条】2022-07-29-容器化数据库必经之道](https://toutiao.io/k/n9e0c68) 
 - [【开发者头条】2022-07-29-SpringBoot集成文件---集成EasyExcel之Excel导入导出](https://toutiao.io/k/q2xy3gi) 
 - [【开发者头条】2022-07-29-华为高层谈-35-岁危机，程序员如何破年龄之忧？](https://toutiao.io/k/zyd3vaz) 
 - [【开发者头条】2022-07-29-深入浅出依赖注入及其在抖音直播中的应用](https://toutiao.io/k/mwjnolz) 

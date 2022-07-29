@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-07-29 10:46:12。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-29 11:12:49。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -359,6 +359,8 @@
 
 
 
+- [【V2EX】Web3-招聘：产品经理---base-上海---年薪-25-45-万](https://www.v2ex.com/t/869531)
+- [【V2EX】运维工程师招聘-base:台北](https://www.v2ex.com/t/869530)
 - [【V2EX】没有什么面试经验-恳请各位审阅一下简历](https://www.v2ex.com/t/869486)
 - [......【查看更多】......](./details/tags/job-interview.md)
 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-07-29 06:49:18。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-29 07:13:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -6,5 +6,3 @@
 > 关键字：`Vue`、`ElementUI`
 
 
-
-- [2022-07-29-vue-为了文件代码行数不太长-一个文件拆分成-html-js-scss-三个文件，这样做法感觉有啥意义？](https://www.v2ex.com/t/869422) 

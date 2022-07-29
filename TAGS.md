@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-07-29 11:12:49。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-07-29 11:37:38。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -341,6 +341,7 @@
 
 
 
+- [【V2EX】我的-GitHub-stars-汇总归类列表，欢迎大家-star-收藏](https://www.v2ex.com/t/869535)
 - [【V2EX】git-练习，-rebase-疑惑](https://www.v2ex.com/t/869494)
 - [【技术头条】把-DropBox-当作私有化-Git-仓库-blog.devtang.com](https://blogread.cn/news/go.php?idItem=15239&url=https%3A%2F%2Fblog.devtang.com%2F2021%2F10%2F16%2Fusing-dropbox-as-git-remote-rep%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [......【查看更多】......](./details/tags/git-svn.md)
@@ -361,7 +362,6 @@
 
 - [【V2EX】Web3-招聘：产品经理---base-上海---年薪-25-45-万](https://www.v2ex.com/t/869531)
 - [【V2EX】运维工程师招聘-base:台北](https://www.v2ex.com/t/869530)
-- [【V2EX】没有什么面试经验-恳请各位审阅一下简历](https://www.v2ex.com/t/869486)
 - [......【查看更多】......](./details/tags/job-interview.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

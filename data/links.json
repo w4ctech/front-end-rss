@@ -9953,6 +9953,41 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "安克出了 120 W 小巧充电器，在哪能够买到国外版的？",
+        "link": "https://www.v2ex.com/t/869593",
+        "date": "2022-07-30"
+      },
+      {
+        "title": "在 iOS 中，是否有浏览器支持全屏横屏功能",
+        "link": "https://www.v2ex.com/t/869592",
+        "date": "2022-07-30"
+      },
+      {
+        "title": "推荐一款文件完整恢复软件： MultiPar",
+        "link": "https://www.v2ex.com/t/869591",
+        "date": "2022-07-30"
+      },
+      {
+        "title": "微信手机通讯录关闭权限还可以读取",
+        "link": "https://www.v2ex.com/t/869590",
+        "date": "2022-07-30"
+      },
+      {
+        "title": "请教下用这种方式解决 import cycle 有什么弊端吗?",
+        "link": "https://www.v2ex.com/t/869588",
+        "date": "2022-07-30"
+      },
+      {
+        "title": "Mac 播放 H.264 软解流畅, 硬解卡顿, 求解惑",
+        "link": "https://www.v2ex.com/t/869587",
+        "date": "2022-07-29"
+      },
+      {
+        "title": "小时候喝的大桶矿泉水，现在还有吗",
+        "link": "https://www.v2ex.com/t/869586",
+        "date": "2022-07-29"
+      },
+      {
         "title": "现在玩 Just Dance 怎么买比较好？",
         "link": "https://www.v2ex.com/t/869584",
         "date": "2022-07-29"
@@ -10116,36 +10151,6 @@
         "title": "test",
         "link": "https://www.v2ex.com/t/869544",
         "date": "2022-07-29"
-      },
-      {
-        "title": "服务器 Raid 卡下硬盘插入顺序",
-        "link": "https://www.v2ex.com/t/869542",
-        "date": "2022-07-29"
-      },
-      {
-        "title": "pdd mbp14 寸 ￥ 11998 再创新低",
-        "link": "https://www.v2ex.com/t/869540",
-        "date": "2022-07-29"
-      },
-      {
-        "title": "有关 Android 生命周期的 ViewModel 和 LiveData，为什么谷歌设计只支持 Activity 和 Fragment",
-        "link": "https://www.v2ex.com/t/869539",
-        "date": "2022-07-29"
-      },
-      {
-        "title": "发给你的好友，让 TA 请你吃炸鸡！",
-        "link": "https://www.v2ex.com/t/869538",
-        "date": "2022-07-29"
-      },
-      {
-        "title": "想买个 watch",
-        "link": "https://www.v2ex.com/t/869537",
-        "date": "2022-07-29"
-      },
-      {
-        "title": "微信去年刚上传过身份证，刚刚提现又要上传身份证",
-        "link": "https://www.v2ex.com/t/869536",
-        "date": "2022-07-29"
       }
     ]
   },
@@ -10157,102 +10162,102 @@
       {
         "title": "Google Cloud Spanner的实践经验 (insights.thoughtworks.cn)",
         "link": "https://blogread.cn/news/go.php?idItem=15252&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fcloud-spanner%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-07-29"
+        "date": "2022-07-30"
       },
       {
         "title": "数据仓库项目从来不是技术项目 (insights.thoughtworks.cn)",
         "link": "https://blogread.cn/news/go.php?idItem=15251&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fwhat-is-data-warehouse%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-07-29"
+        "date": "2022-07-30"
       },
       {
         "title": "Webpack 打包后代码执行时机分析与优化 (www.alloyteam.com)",
         "link": "https://blogread.cn/news/go.php?idItem=15250&url=http%3A%2F%2Fwww.alloyteam.com%2F2019%2F07%2Fwait-external-webpack-plugin%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-07-29"
+        "date": "2022-07-30"
       },
       {
         "title": "Android 框架问题分析案例 - 谁杀了桌面? (androidperformance.com)",
         "link": "https://blogread.cn/news/go.php?idItem=15249&url=https%3A%2F%2Fandroidperformance.com%2F2019%2F09%2F17%2FAndroid-Kill-Background-App-Debug%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-07-29"
+        "date": "2022-07-30"
       },
       {
         "title": "生产者消费者编程模式 (www.ideawu.net)",
         "link": "https://blogread.cn/news/go.php?idItem=15248&url=https%3A%2F%2Fwww.ideawu.net%2Fblog%2Farchives%2F1202.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-07-29"
+        "date": "2022-07-30"
       },
       {
         "title": "想学习k8s但没有环境？使用minikube轻松搭建一个 (colobu.com)",
         "link": "https://blogread.cn/news/go.php?idItem=15247&url=https%3A%2F%2Fcolobu.com%2F2022%2F06%2F02%2Fsetup-a-k8s-cluster-with-minikube%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-07-29"
+        "date": "2022-07-30"
       },
       {
         "title": "最常用的架构模式 (colobu.com)",
         "link": "https://blogread.cn/news/go.php?idItem=15246&url=https%3A%2F%2Fcolobu.com%2F2022%2F03%2F06%2Fmost-useful-software-architecture-patterns%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-07-29"
+        "date": "2022-07-30"
       },
       {
         "title": "Android对so体积优化的探索与实践 (tech.meituan.com)",
         "link": "https://blogread.cn/news/go.php?idItem=15245&url=https%3A%2F%2Ftech.meituan.com%2F2022%2F06%2F02%2Fmeituans-technical-exploration-and-practice-of-android-so-volume-optimization.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-07-29"
+        "date": "2022-07-30"
       },
       {
         "title": "Go: logrus性能提升 (wklken.me)",
         "link": "https://blogread.cn/news/go.php?idItem=15244&url=https%3A%2F%2Fwklken.me%2Fposts%2F2021%2F02%2F09%2Fgolang-high-performance-logrus.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-07-29"
+        "date": "2022-07-30"
       },
       {
         "title": "Csp Nonce – 守护你的 inline Scirpt (www.alloyteam.com)",
         "link": "https://blogread.cn/news/go.php?idItem=15243&url=http%3A%2F%2Fwww.alloyteam.com%2F2020%2F08%2Fcsp-nonce%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-07-29"
+        "date": "2022-07-30"
       },
       {
         "title": "不使用file类型input也能触发文件上传 (www.zhangxinxu.com)",
         "link": "https://blogread.cn/news/go.php?idItem=15242&url=https%3A%2F%2Fwww.zhangxinxu.com%2Fwordpress%2F2021%2F08%2Ffile-system-access-api%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-07-29"
+        "date": "2022-07-30"
       },
       {
         "title": "polyfill、ponyfill、prollyfill傻傻分不清楚 (www.zhangxinxu.com)",
         "link": "https://blogread.cn/news/go.php?idItem=15241&url=https%3A%2F%2Fwww.zhangxinxu.com%2Fwordpress%2F2021%2F08%2Fpolyfill-ponyfill-prollyfill%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-07-29"
+        "date": "2022-07-30"
       },
       {
         "title": "Python的list列表详解 (www.ipcpu.com)",
         "link": "https://blogread.cn/news/go.php?idItem=15240&url=https%3A%2F%2Fwww.ipcpu.com%2F2021%2F07%2Fpython%25e7%259a%2584list%25e5%2588%2597%25e8%25a1%25a8%25e8%25af%25a6%25e8%25a7%25a3%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-07-29"
+        "date": "2022-07-30"
       },
       {
         "title": "把 DropBox 当作私有化 Git 仓库 (blog.devtang.com)",
         "link": "https://blogread.cn/news/go.php?idItem=15239&url=https%3A%2F%2Fblog.devtang.com%2F2021%2F10%2F16%2Fusing-dropbox-as-git-remote-rep%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-07-29"
+        "date": "2022-07-30"
       },
       {
         "title": "用SVG实现一个优雅的提示框 (fed.taobao.org)",
         "link": "https://blogread.cn/news/go.php?idItem=15238&url=https%3A%2F%2Ffed.taobao.org%2Fblog%2Ftaofed%2Fdo71ct%2Fghpnlx%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-07-29"
+        "date": "2022-07-30"
       },
       {
         "title": "使用容器方式编译无功能限制的 Drone CI (soulteary.com)",
         "link": "https://blogread.cn/news/go.php?idItem=15237&url=https%3A%2F%2Fsoulteary.com%2F2021%2F04%2F17%2Fuse-docker-to-build-drone-ci-without-functional-limitations.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-07-29"
+        "date": "2022-07-30"
       },
       {
         "title": "提升 Docker Desktop For macOS 磁盘使用率 (soulteary.com)",
         "link": "https://blogread.cn/news/go.php?idItem=15236&url=https%3A%2F%2Fsoulteary.com%2F2021%2F04%2F24%2Fimprove-docker-desktop-for-macos-disk-usage.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-07-29"
+        "date": "2022-07-30"
       },
       {
         "title": "介绍一种CSS变量未定义语法也OK的小妙招 (www.zhangxinxu.com)",
         "link": "https://blogread.cn/news/go.php?idItem=15235&url=https%3A%2F%2Fwww.zhangxinxu.com%2Fwordpress%2F2022%2F06%2Fcss-var-optional-empty-trick%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-07-29"
+        "date": "2022-07-30"
       },
       {
         "title": "用树莓派打造一个超薄魔镜的简单教程 (onevcat.com)",
         "link": "https://blogread.cn/news/go.php?idItem=15234&url=https%3A%2F%2Fonevcat.com%2F2021%2F04%2Fmagicmirror%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-07-29"
+        "date": "2022-07-30"
       },
       {
         "title": "编译的速度与激情：从 10mins 到 1s (www.alloyteam.com)",
         "link": "https://blogread.cn/news/go.php?idItem=15233&url=http%3A%2F%2Fwww.alloyteam.com%2F2020%2F12%2F14882%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-07-29"
+        "date": "2022-07-30"
       }
     ]
   },
@@ -10262,109 +10267,44 @@
     "link": "https://toutiao.io",
     "items": [
       {
-        "title": "阿里云官方 Redis 开发规范！",
-        "link": "https://toutiao.io/k/2fqcbfi",
-        "date": "2022-07-29"
+        "title": "31个！Golang常用工具来啦（建议收藏）",
+        "link": "https://toutiao.io/k/amn3bs7",
+        "date": "2022-07-30"
       },
       {
-        "title": "为什么游戏行业喜欢用PolarDB",
-        "link": "https://toutiao.io/k/ligtpt2",
-        "date": "2022-07-29"
+        "title": "京东科技埋点数据治理和平台建设实践",
+        "link": "https://toutiao.io/k/o7etxta",
+        "date": "2022-07-30"
       },
       {
-        "title": "关于HTTP协议那些事",
-        "link": "https://toutiao.io/k/xvdtkbe",
-        "date": "2022-07-29"
+        "title": "分布式消息队列平滑迁移技术实战",
+        "link": "https://toutiao.io/k/0chge2h",
+        "date": "2022-07-30"
       },
       {
-        "title": "分布式限流 redission RRateLimiter 的使用及原理",
-        "link": "https://toutiao.io/k/8i1fczy",
-        "date": "2022-07-29"
-      },
-      {
-        "title": "Thrift 序列化协议浅析",
-        "link": "https://toutiao.io/k/v6esqht",
-        "date": "2022-07-29"
-      },
-      {
-        "title": "Windows高效开发环境配置（一）",
-        "link": "https://toutiao.io/k/ys0a2gj",
-        "date": "2022-07-29"
-      },
-      {
-        "title": "日志导致线程Block的这些坑，你不得不防",
-        "link": "https://toutiao.io/k/eakgqf8",
-        "date": "2022-07-29"
-      },
-      {
-        "title": "能解决80%故障的排查思路",
-        "link": "https://toutiao.io/k/u2abekn",
-        "date": "2022-07-29"
-      },
-      {
-        "title": "容器化数据库必经之道",
-        "link": "https://toutiao.io/k/n9e0c68",
-        "date": "2022-07-29"
-      },
-      {
-        "title": "SpringBoot集成文件 - 集成EasyExcel之Excel导入导出",
-        "link": "https://toutiao.io/k/q2xy3gi",
-        "date": "2022-07-29"
-      },
-      {
-        "title": "深入浅出依赖注入及其在抖音直播中的应用",
-        "link": "https://toutiao.io/k/mwjnolz",
-        "date": "2022-07-29"
-      },
-      {
-        "title": "Apache Kyuubi 在网易的深度实践",
-        "link": "https://toutiao.io/k/zxn5mre",
-        "date": "2022-07-29"
-      },
-      {
-        "title": "抓到 Dubbo 异步调用的小 Bug，再送你一个贡献开源代码的机会",
-        "link": "https://toutiao.io/k/x4s87o2",
-        "date": "2022-07-29"
-      },
-      {
-        "title": "华为高层谈 35 岁危机，程序员如何破年龄之忧？",
-        "link": "https://toutiao.io/k/zyd3vaz",
-        "date": "2022-07-29"
-      },
-      {
-        "title": "遥感数字图像处理",
-        "link": "https://toutiao.io/k/f2pdq3k",
-        "date": "2022-07-29"
-      },
-      {
-        "title": "Elasticsearch 8.X 检索实战调优锦囊 001",
-        "link": "https://toutiao.io/k/qn5vaq9",
-        "date": "2022-07-29"
-      },
-      {
-        "title": "独立开发变现周刊（第65期）： 个人爱好发展成一项36万美元/年的NFTs业务",
-        "link": "https://toutiao.io/k/81ri5lv",
-        "date": "2022-07-29"
+        "title": "python录制屏幕小工具，已调试成功运行！",
+        "link": "https://toutiao.io/k/6uwz92e",
+        "date": "2022-07-30"
       },
       {
         "title": "[推荐] 腾讯低代码平台正式开源！可拖拽、生成手机项目、PC 项目！接私活福利啊！",
         "link": "https://toutiao.io/k/8oqx21m",
-        "date": "2022-07-29"
-      },
-      {
-        "title": "[推荐] 聊聊Java中代码优化的30个小技巧",
-        "link": "https://toutiao.io/k/jv8g1r6",
-        "date": "2022-07-29"
+        "date": "2022-07-30"
       },
       {
         "title": "[推荐] 花了一周，我总结了120个数据分析指标与术语。",
         "link": "https://toutiao.io/k/9pzybmk",
-        "date": "2022-07-29"
+        "date": "2022-07-30"
+      },
+      {
+        "title": "[推荐] 聊聊Java中代码优化的30个小技巧",
+        "link": "https://toutiao.io/k/jv8g1r6",
+        "date": "2022-07-30"
       },
       {
         "title": "[推荐] 团队一盘散沙，怎么破？",
         "link": "https://toutiao.io/k/kdzpdh5",
-        "date": "2022-07-29"
+        "date": "2022-07-30"
       }
     ]
   },

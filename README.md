@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-01 01:16:58，:rocket: 更新条数: +2021， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-01 03:46:27，:rocket: 更新条数: +2024， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,26 +491,26 @@
 </summary>
 
 
-- [2022-08-01-速蛙跑路，求推荐机场](https://www.v2ex.com/t/869861) ![](assets/new.png)  
-- [2022-08-01-来～来～来～小伙子们～-JS-圈儿又出新轮子啦～卷起来啊～](https://www.v2ex.com/t/869858) ![](assets/new.png)  
-- [2022-08-01-请教一下-Linux-shell-中使用-IFS-分割符分割字符串被修改的问题](https://www.v2ex.com/t/869857) ![](assets/new.png)  
-- [2022-08-01-哪里有稳定的-YouTube-家庭会员可以入手](https://www.v2ex.com/t/869856) ![](assets/new.png)  
-- [2022-08-01-基于-Shell-脚本跨平台任务执行器/脚本管理器/构建工具](https://www.v2ex.com/t/869855) ![](assets/new.png)  
-- [2022-08-01-为什么还原了-Apple-的全备份不用重新登录？](https://www.v2ex.com/t/869854) ![](assets/new.png)  
-- [2022-08-01-Notion-如何保证账号安全性？](https://www.v2ex.com/t/869853) ![](assets/new.png)  
-- [2022-07-31-不支持投喂流浪猫的人可以保留自己的观点，但请尊重别人](https://www.v2ex.com/t/869852) ![](assets/new.png)  
-- [2022-07-31-上海-不加班-外企-招-Java-、C++、安卓、中级测试、支持工程师、初级-devOps，-Java-和-测试有残疾人岗位](https://www.v2ex.com/t/869851) ![](assets/new.png)  
-- [2022-07-31-英语学习的目标大家是什么设置的](https://www.v2ex.com/t/869850) ![](assets/new.png)  
-- [2022-07-31-99%的码农都被这种网口蒙骗了，你见过吗?](https://www.v2ex.com/t/869849) ![](assets/new.png)  
-- [2022-07-31-用群晖-NAS-搭建网站，会有安全问题吗？](https://www.v2ex.com/t/869847) ![](assets/new.png)  
-- [2022-07-31-想请教一下大佬，-zerotier-现在是彻底被墙了吗？](https://www.v2ex.com/t/869846) ![](assets/new.png)  
-- [2022-07-31-招聘前端架构师,base-佛山](https://www.v2ex.com/t/869844) ![](assets/new.png)  
-- [2022-07-31-vue3-静态化问题请教](https://www.v2ex.com/t/869843) ![](assets/new.png)  
-- [2022-07-31-分享微博/推特上值得推荐的-技术人](https://www.v2ex.com/t/869842) ![](assets/new.png)  
-- [2022-07-31-工信部可以投诉广电了](https://www.v2ex.com/t/869841) ![](assets/new.png)  
-- [2022-07-31-成都电信提升宽带，不会回收公网-IP](https://www.v2ex.com/t/869840) ![](assets/new.png)  
-- [2022-07-31-冰箱门或许可以是透明的](https://www.v2ex.com/t/869839) ![](assets/new.png)  
-- [2022-07-31-座位对着空调出风口，膝盖以下很冷，是否有专用护膝？](https://www.v2ex.com/t/869838) ![](assets/new.png)  
+- [2022-08-01-nginx-怎么根据全局连接数来做全局总的限流并自定义相应信息](https://www.v2ex.com/t/869910) ![](assets/new.png)  
+- [2022-08-01-我的白群-920+月度报告-提示出现硬盘重新连接次数为-4](https://www.v2ex.com/t/869909) ![](assets/new.png)  
+- [2022-08-01-Macbook-Pro-14-电池容量只剩-87%了](https://www.v2ex.com/t/869908) ![](assets/new.png)  
+- [2022-08-01-请问这是顺丰的问题还是淘宝的问题？](https://www.v2ex.com/t/869907) ![](assets/new.png)  
+- [2022-08-01-来整活呀！和大伙简单聊下独立开发者的「产品运营方法」，以及社区项目冷启动的问题](https://www.v2ex.com/t/869904) ![](assets/new.png)  
+- [2022-08-01-有-V-友知道运行在-Zen2-CPU-上的-PVE-如何缓解最近的-Retbleed（CVE-2022-29*900）漏洞吗？](https://www.v2ex.com/t/869903) ![](assets/new.png)  
+- [2022-08-01-求推荐好用的看美剧的-APP](https://www.v2ex.com/t/869902) ![](assets/new.png)  
+- [2022-08-01-求推荐车，-15-以内](https://www.v2ex.com/t/869901) ![](assets/new.png)  
+- [2022-08-01-请大家帮忙分析这个套路是干啥的](https://www.v2ex.com/t/869900) ![](assets/new.png)  
+- [2022-08-01-独立产品灵感周刊-DecoHack-#024---90-年代的网站设计](https://www.v2ex.com/t/869899) ![](assets/new.png)  
+- [2022-08-01-PDF-安全性口令怎么-po-解？](https://www.v2ex.com/t/869898) ![](assets/new.png)  
+- [2022-08-01-求推荐一款-3000-以下的的电视](https://www.v2ex.com/t/869897) ![](assets/new.png)  
+- [2022-08-01-等-m2-pro-还是直接上-m1-max？](https://www.v2ex.com/t/869895) ![](assets/new.png)  
+- [2022-08-01-17-款-iMac-5k（7-代-i7）升级-mac-studio-丐版-疑问](https://www.v2ex.com/t/869894) ![](assets/new.png)  
+- [2022-08-01-如何看待阿里的「虚假开源」？](https://www.v2ex.com/t/869893) ![](assets/new.png)  
+- [2022-08-01-使用香港服务器搭建直播平台直播广电禁播的游戏，违法吗.](https://www.v2ex.com/t/869892) ![](assets/new.png)  
+- [2022-08-01-玩玩没想到，-2.5G-SFP-电口模块会损毁-NAS-硬盘](https://www.v2ex.com/t/869891) ![](assets/new.png)  
+- [2022-08-01-每月一问：大家的八月挑战是什么？](https://www.v2ex.com/t/869890) ![](assets/new.png)  
+- [2022-08-01-同事的水平差，还龟毛，吐槽一下](https://www.v2ex.com/t/869888) ![](assets/new.png)  
+- [2022-08-01-PDD-移动宽带-靠谱吗？-299-500M-...](https://www.v2ex.com/t/869887) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -522,6 +522,13 @@
 </summary>
 
 
+- [2022-08-01-SpringBoot四大核心组件，你知道几个？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15271&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494395%26amp%3Bidx%3D2%26amp%3Bsn%3D7625c27c0bbb10cfd2e5e1d8a09a3c74%26amp%3Bchksm%3Dfa3f0ba0cd4882b6baa602f1f11ffebc9ec2dadb2ee131a812efc29a71e64cb3959c144707ff%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2022-08-01-为什么现在我特讨厌Safari浏览器？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15270&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494394%26amp%3Bidx%3D1%26amp%3Bsn%3Dfb2cf1e3121547b166e7507899fd4b39%26amp%3Bchksm%3Dfa3f0ba1cd4882b709b6be7a5f79fe7fde60753959a580a0d22d902090136a0acfcdc714006d%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2022-08-01-排名前16的Java工具类，你用过哪个？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15269&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494394%26amp%3Bidx%3D2%26amp%3Bsn%3Dcb65e98ba5dce4c6ed915788f729e649%26amp%3Bchksm%3Dfa3f0ba1cd4882b75e5d170394f948b30c2fc6d572158708d579d194fcb1a861afc87301b3f8%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2022-08-01-真正的高颜值Markdown编辑神器！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15268&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494393%26amp%3Bidx%3D1%26amp%3Bsn%3D28dbada9c20aa41ccbda91cb2728061b%26amp%3Bchksm%3Dfa3f0ba2cd4882b41f55c7b312d4027603277638c507159a5dde871a6e5b6cf1f9d8ca151f4e%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2022-08-01-HttpClient设置不当引发的一次雪崩，整个项目组慌了！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15267&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494393%26amp%3Bidx%3D2%26amp%3Bsn%3D36eb1ce24fe6d996de862db1680430b2%26amp%3Bchksm%3Dfa3f0ba2cd4882b484bf66baefe50966cd8dbb58a176a11934472cad5b9f4a6c948c9fef9f56%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2022-08-01-世界第三大浏览器正在消亡-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15266&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494319%26amp%3Bidx%3D1%26amp%3Bsn%3D89f3f6a2d1f7f939d17e8e6a2f2075b5%26amp%3Bchksm%3Dfa3f0bf4cd4882e258bdc46ffb4397820052401a049a8ed9b91dcf670464a6f1e2eca5ea59d1%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2022-08-01-像一名教育者一样思考代码质量-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15265&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494319%26amp%3Bidx%3D2%26amp%3Bsn%3D1635f21bffbb88d13c24854f0c8a4c4e%26amp%3Bchksm%3Dfa3f0bf4cd4882e2e88e8beb2ec31a38c35d84a925144807399c2a4d55344102a482d4359718%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-08-01-入职美国谷歌Google搜索SRE经历-www.slyar.com](https://blogread.cn/news/go.php?idItem=15264&url=http%3A%2F%2Fwww.slyar.com%2Fblog%2Fleft-paypal-join-google-search-sre-2022.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-08-01-谁动了我的奶酪，通过-git-找出内容变更历史-droidyue.com](https://blogread.cn/news/go.php?idItem=15263&url=https%3A%2F%2Fdroidyue.com%2Fblog%2F2022%2F06%2F13%2Fa-little-git-log-case-can-do-big-help%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-08-01-如何使用cURL调试CORS请求-www.ipcpu.com](https://blogread.cn/news/go.php?idItem=15262&url=https%3A%2F%2Fwww.ipcpu.com%2F2022%2F05%2Fcurl-cors%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
@@ -535,13 +542,6 @@
 - [2022-08-01-How-to-make-Total-Commander-works-with-Everything-and-QuickLook-www.dbform.com](https://blogread.cn/news/go.php?idItem=15254&url=https%3A%2F%2Fwww.dbform.com%2F2022%2F05%2F01%2Fhow-to-make-total-commander-works-with-everything-and-quicklook%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-08-01-作弊条：SSH-的-ProxyJump-跳板服务-blog.delphij.net](https://blogread.cn/news/go.php?idItem=15253&url=https%3A%2F%2Fblog.delphij.net%2Fposts%2F2022%2F06%2Fssh-proxyjump%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-08-01-Google-Cloud-Spanner的实践经验-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15252&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fcloud-spanner%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-08-01-数据仓库项目从来不是技术项目-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15251&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fwhat-is-data-warehouse%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-08-01-Webpack-打包后代码执行时机分析与优化-www.alloyteam.com](https://blogread.cn/news/go.php?idItem=15250&url=http%3A%2F%2Fwww.alloyteam.com%2F2019%2F07%2Fwait-external-webpack-plugin%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-08-01-Android-框架问题分析案例---谁杀了桌面?-androidperformance.com](https://blogread.cn/news/go.php?idItem=15249&url=https%3A%2F%2Fandroidperformance.com%2F2019%2F09%2F17%2FAndroid-Kill-Background-App-Debug%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-08-01-生产者消费者编程模式-www.ideawu.net](https://blogread.cn/news/go.php?idItem=15248&url=https%3A%2F%2Fwww.ideawu.net%2Fblog%2Farchives%2F1202.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-08-01-想学习k8s但没有环境？使用minikube轻松搭建一个-colobu.com](https://blogread.cn/news/go.php?idItem=15247&url=https%3A%2F%2Fcolobu.com%2F2022%2F06%2F02%2Fsetup-a-k8s-cluster-with-minikube%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-08-01-最常用的架构模式-colobu.com](https://blogread.cn/news/go.php?idItem=15246&url=https%3A%2F%2Fcolobu.com%2F2022%2F03%2F06%2Fmost-useful-software-architecture-patterns%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-08-01-Android对so体积优化的探索与实践-tech.meituan.com](https://blogread.cn/news/go.php?idItem=15245&url=https%3A%2F%2Ftech.meituan.com%2F2022%2F06%2F02%2Fmeituans-technical-exploration-and-practice-of-android-so-volume-optimization.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -555,8 +555,8 @@
 
 - [2022-08-01-研发过程中的文档管理与工具](https://toutiao.io/k/mdiqwn5) ![](assets/new.png)  
 - [2022-08-01-【设计模式】10分钟学懂UML类图](https://toutiao.io/k/wg4oeyc) ![](assets/new.png)  
-- [2022-08-01-全链路压测改造之全链自动化测试实践](https://toutiao.io/k/kmh9i75) ![](assets/new.png)  
 - [2022-08-01-千万级乘客排队系统重构&压测方案——总结篇](https://toutiao.io/k/qjesxr7) ![](assets/new.png)  
+- [2022-08-01-全链路压测改造之全链自动化测试实践](https://toutiao.io/k/kmh9i75) ![](assets/new.png)  
 - [2022-08-01-凹语言™开源十日小计——兼路线图预览](https://toutiao.io/k/ujgvacc) ![](assets/new.png)  
 - [2022-08-01-会员服务优雅上下线实践](https://toutiao.io/k/zu5b8jg) ![](assets/new.png)  
 - [2022-08-01-高并发架构解决春节抢火车票难题](https://toutiao.io/k/liozvvz) ![](assets/new.png)  
@@ -564,10 +564,13 @@
 - [2022-08-01-Dapr-入门教程](https://toutiao.io/k/40y61qg) ![](assets/new.png)  
 - [2022-08-01-分布式消息队列平滑迁移技术实战](https://toutiao.io/k/ece3taj) ![](assets/new.png)  
 - [2022-08-01-Vue3-中有场景是-reactive-能做而-ref-做不了的吗？](https://toutiao.io/k/nam21p7) ![](assets/new.png)  
+- [2022-08-01-redo-log与binlog间的破事](https://toutiao.io/k/hi6014q) ![](assets/new.png)  
+- [2022-08-01-供应链攻击面搜索之路](https://toutiao.io/k/tmvz8uo) ![](assets/new.png)  
+- [2022-08-01-联手区块链专委会：“非同质化通证”术语发布-|-CCF术语快线](https://toutiao.io/k/bkgpy6a) ![](assets/new.png)  
 - [2022-08-01-推荐-聊聊Java中代码优化的30个小技巧](https://toutiao.io/k/jv8g1r6) ![](assets/new.png)  
-- [2022-08-01-推荐-花了一周，我总结了120个数据分析指标与术语。](https://toutiao.io/k/9pzybmk) ![](assets/new.png)  
-- [2022-08-01-推荐-腾讯低代码平台正式开源！可拖拽、生成手机项目、PC-项目！接私活福利啊！](https://toutiao.io/k/8oqx21m) ![](assets/new.png)  
 - [2022-08-01-推荐-团队一盘散沙，怎么破？](https://toutiao.io/k/kdzpdh5) ![](assets/new.png)  
+- [2022-08-01-推荐-腾讯低代码平台正式开源！可拖拽、生成手机项目、PC-项目！接私活福利啊！](https://toutiao.io/k/8oqx21m) ![](assets/new.png)  
+- [2022-08-01-推荐-花了一周，我总结了120个数据分析指标与术语。](https://toutiao.io/k/9pzybmk) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

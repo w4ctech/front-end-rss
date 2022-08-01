@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-08-01 15:18:06。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-08-01 15:46:54。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,8 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-08-01-买-macbook-air-with-m2-和-linus-大神-作战友](https://www.v2ex.com/t/870077) 
+- [2022-08-01-武汉智能控制工业技术研究院](https://www.v2ex.com/t/870076) 
 - [2022-08-01-求租翻身一房一厅，预算-2500-左右](https://www.v2ex.com/t/870074) 
 - [2022-08-01-女朋友变成这样了很纠结该怎么办](https://www.v2ex.com/t/870073) 
 - [2022-08-01-万能的-V-友，有没有最近-CKA-的题库](https://www.v2ex.com/t/870071) 
@@ -1939,10 +1941,6 @@
 - [2022-08-01-走进-IT-男（没有贬义的意思哈）的世界](https://www.v2ex.com/t/870033) 
 - [2022-08-01--Mac-输入法终极介绍及完善，值得收藏！](https://www.v2ex.com/t/870030) 
 - [2022-08-01-城中村房东用电收-1.5-每度，有什么办法可以整治吗？](https://www.v2ex.com/t/870029) 
-- [2022-08-01-iOS-上有什么无内购倒数日软件？](https://www.v2ex.com/t/870028) 
-- [2022-08-01-想知道有哪些平台可以方便设计师找远程的工作？](https://www.v2ex.com/t/870027) 
-- [2022-08-01-咨询闵行莘庄站上班地铁情况](https://www.v2ex.com/t/870026) 
-- [2022-08-01-求一台能打-dota2-的桌面小主机](https://www.v2ex.com/t/870025) 
 - [2022-08-01-排名前16的Java工具类，你用过哪个？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15269&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494394%26amp%3Bidx%3D2%26amp%3Bsn%3Dcb65e98ba5dce4c6ed915788f729e649%26amp%3Bchksm%3Dfa3f0ba1cd4882b75e5d170394f948b30c2fc6d572158708d579d194fcb1a861afc87301b3f8%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-08-01-真正的高颜值Markdown编辑神器！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15268&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494393%26amp%3Bidx%3D1%26amp%3Bsn%3D28dbada9c20aa41ccbda91cb2728061b%26amp%3Bchksm%3Dfa3f0ba2cd4882b41f55c7b312d4027603277638c507159a5dde871a6e5b6cf1f9d8ca151f4e%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-08-01-像一名教育者一样思考代码质量-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15265&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494319%26amp%3Bidx%3D2%26amp%3Bsn%3D1635f21bffbb88d13c24854f0c8a4c4e%26amp%3Bchksm%3Dfa3f0bf4cd4882e2e88e8beb2ec31a38c35d84a925144807399c2a4d55344102a482d4359718%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1973,7 +1971,7 @@
 - [2022-08-01-存储日报-数据湖架构权威指南（使用-Iceberg-和-MinIO）](https://toutiao.io/k/uqjl1cb) 
 - [2022-08-01-走好信创落地“最后一公里”](https://toutiao.io/k/9tmudv7) 
 - [2022-08-01-TLA+-入门教程（5）：Paxos](https://toutiao.io/k/wk9d20i) 
-- [2022-08-01-推荐-腾讯低代码平台正式开源！可拖拽、生成手机项目、PC-项目！接私活福利啊！](https://toutiao.io/k/8oqx21m) 
 - [2022-08-01-推荐-老板：公司系统太多，能不能实现账号互通？](https://toutiao.io/k/g7sb904) 
-- [2022-08-01-推荐-团队一盘散沙，怎么破？](https://toutiao.io/k/kdzpdh5) 
 - [2022-08-01-推荐-花了一周，我总结了120个数据分析指标与术语。](https://toutiao.io/k/9pzybmk) 
+- [2022-08-01-推荐-腾讯低代码平台正式开源！可拖拽、生成手机项目、PC-项目！接私活福利啊！](https://toutiao.io/k/8oqx21m) 
+- [2022-08-01-推荐-团队一盘散沙，怎么破？](https://toutiao.io/k/kdzpdh5) 

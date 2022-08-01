@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-01 15:18:06，:rocket: 更新条数: +2032， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-01 15:46:53，:rocket: 更新条数: +2031， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,9 @@
 </summary>
 
 
+- [2022-08-01-买-macbook-air-with-m2-和-linus-大神-作战友](https://www.v2ex.com/t/870077) ![](assets/new.png)  
+- [2022-08-01-武汉智能控制工业技术研究院](https://www.v2ex.com/t/870076) ![](assets/new.png)  
+- [2022-08-01-怎么看候选人简历的-github？](https://www.v2ex.com/t/870075) ![](assets/new.png)  
 - [2022-08-01-求租翻身一房一厅，预算-2500-左右](https://www.v2ex.com/t/870074) ![](assets/new.png)  
 - [2022-08-01-女朋友变成这样了很纠结该怎么办](https://www.v2ex.com/t/870073) ![](assets/new.png)  
 - [2022-08-01-万能的-V-友，有没有最近-CKA-的题库](https://www.v2ex.com/t/870071) ![](assets/new.png)  
@@ -508,9 +511,6 @@
 - [2022-08-01-询问一下一个科学问题](https://www.v2ex.com/t/870053) ![](assets/new.png)  
 - [2022-08-01-开源项目如何吸引优秀的开发者？](https://www.v2ex.com/t/870052) ![](assets/new.png)  
 - [2022-08-01-在这里分享-20-30-岁的追女孩子经历有人看吗？](https://www.v2ex.com/t/870051) ![](assets/new.png)  
-- [2022-08-01-M1-MBA-隔一段时间就唤醒一次，包括手动点击睡眠之后](https://www.v2ex.com/t/870050) ![](assets/new.png)  
-- [2022-08-01-input-这种输入框怎么水平垂直居中，请各位指点一下，实在搜不到了](https://www.v2ex.com/t/870049) ![](assets/new.png)  
-- [2022-08-01-关于我裸辞转职自由开发者这件小事](https://www.v2ex.com/t/870048) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

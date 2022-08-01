@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-08-01 19:37:02。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-08-01 20:18:15。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1973,8 +1973,8 @@
 - [2022-08-01-存储日报-数据湖架构权威指南（使用-Iceberg-和-MinIO）](https://toutiao.io/k/uqjl1cb) 
 - [2022-08-01-走好信创落地“最后一公里”](https://toutiao.io/k/9tmudv7) 
 - [2022-08-01-TLA+-入门教程（5）：Paxos](https://toutiao.io/k/wk9d20i) 
+- [2022-08-01-推荐-阿里云官方-Redis-开发规范！](https://toutiao.io/k/2fqcbfi) 
+- [2022-08-01-推荐-花了一周，我总结了120个数据分析指标与术语。](https://toutiao.io/k/9pzybmk) 
+- [2022-08-01-推荐-腾讯低代码平台正式开源！可拖拽、生成手机项目、PC-项目！接私活福利啊！](https://toutiao.io/k/8oqx21m) 
 - [2022-08-01-推荐-老板：公司系统太多，能不能实现账号互通？](https://toutiao.io/k/g7sb904) 
 - [2022-08-01-推荐-团队一盘散沙，怎么破？](https://toutiao.io/k/kdzpdh5) 
-- [2022-08-01-推荐-花了一周，我总结了120个数据分析指标与术语。](https://toutiao.io/k/9pzybmk) 
-- [2022-08-01-推荐-阿里云官方-Redis-开发规范！](https://toutiao.io/k/2fqcbfi) 
-- [2022-08-01-推荐-腾讯低代码平台正式开源！可拖拽、生成手机项目、PC-项目！接私活福利啊！](https://toutiao.io/k/8oqx21m) 

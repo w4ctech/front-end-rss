@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-08-01 11:38:04。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-08-01 12:26:37。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -89,6 +89,7 @@
 
 
 - [【武汉肺炎防疫全纪录(财新网)】韩国拟升级首尔疫情管控-法国专业机构建议强制接种疫苗｜大流行手记（7月10日）](https://m.caixin.com/m/2021-07-11/101738786.html)
+- [【V2EX】如何降低-webpack-打包时的内存占用](https://www.v2ex.com/t/870046)
 - [......【查看更多】......](./details/tags/pack-build.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -285,7 +286,6 @@
 - [【V2EX】Netflix-电视弹代理，请求日志里面和手机上类似都是请求域名，域名前缀都是-ipv6-xxxx-hkg-xxx,而且我的电视上-Netflix-不会直接请求-IP，为什么还是解锁不了呢](https://www.v2ex.com/t/870024)
 - [【V2EX】浏览器是如何支持-wp-网站的地址栏搜索的](https://www.v2ex.com/t/870004)
 - [【V2EX】讨论-关于-MySQL-和-postgraSQL](https://www.v2ex.com/t/870000)
-- [【V2EX】网站没有做过-opensearch-的配置为什么-chrome-浏览器依然识别出了搜索](https://www.v2ex.com/t/869994)
 - [【技术头条】为什么现在我特讨厌Safari浏览器？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15270&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494394%26amp%3Bidx%3D1%26amp%3Bsn%3Dfb2cf1e3121547b166e7507899fd4b39%26amp%3Bchksm%3Dfa3f0ba1cd4882b709b6be7a5f79fe7fde60753959a580a0d22d902090136a0acfcdc714006d%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【技术头条】HttpClient设置不当引发的一次雪崩，整个项目组慌了！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15267&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494393%26amp%3Bidx%3D2%26amp%3Bsn%3D36eb1ce24fe6d996de862db1680430b2%26amp%3Bchksm%3Dfa3f0ba2cd4882b484bf66baefe50966cd8dbb58a176a11934472cad5b9f4a6c948c9fef9f56%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【技术头条】世界第三大浏览器正在消亡-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15266&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494319%26amp%3Bidx%3D1%26amp%3Bsn%3D89f3f6a2d1f7f939d17e8e6a2f2075b5%26amp%3Bchksm%3Dfa3f0bf4cd4882e258bdc46ffb4397820052401a049a8ed9b91dcf670464a6f1e2eca5ea59d1%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
@@ -323,6 +323,7 @@
 
 
 
+- [【V2EX】ingress-访问-nginx-报错-404，求求大伙给指个路](https://www.v2ex.com/t/870043)
 - [【V2EX】请问-docker-下一直提示-key-权限报错是什么原因?](https://www.v2ex.com/t/869998)
 - [【技术头条】Docker镜像漏洞扫描工具Trivy-www.ipcpu.com](https://blogread.cn/news/go.php?idItem=15260&url=https%3A%2F%2Fwww.ipcpu.com%2F2022%2F04%2Fdocker-trivy%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【技术头条】Docker设置代理-www.ipcpu.com](https://blogread.cn/news/go.php?idItem=15259&url=https%3A%2F%2Fwww.ipcpu.com%2F2022%2F04%2Fdocker-proxy%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)

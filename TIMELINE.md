@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-08-01 15:46:54。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-08-01 16:20:06。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,9 @@
 </summary>
 
 
+- [【V2EX】2022-08-01-40ac-扩展坞连接-m2-macbook-pro-会闪屏，是不是只有退货了](https://www.v2ex.com/t/870081) 
+- [【V2EX】2022-08-01-求助,-iPad-Pro-2021-升级-ipados16-公测版后没法用第三方输入法。](https://www.v2ex.com/t/870080) 
+- [【V2EX】2022-08-01-Rust-为什么这么火？适合做-Web-开发吗？](https://www.v2ex.com/t/870079) 
 - [【V2EX】2022-08-01-买-macbook-air-with-m2-和-linus-大神-作战友](https://www.v2ex.com/t/870077) 
 - [【V2EX】2022-08-01-武汉智能控制工业技术研究院](https://www.v2ex.com/t/870076) 
 - [【V2EX】2022-08-01-怎么看候选人简历的-github？](https://www.v2ex.com/t/870075) 
@@ -105,9 +108,6 @@
 - [【V2EX】2022-08-01-iPhone-7-签到专用机借给亲戚孩子玩被他不小心升级了-iOS15，钉钉能检测虚拟定位了，还有救吗？](https://www.v2ex.com/t/870034) 
 - [【V2EX】2022-08-01-走进-IT-男（没有贬义的意思哈）的世界](https://www.v2ex.com/t/870033) 
 - [【V2EX】2022-08-01-gunicorn-+-worker_class-除了默认-sync，像-gevent，-eventlet-都无法使用](https://www.v2ex.com/t/870032) 
-- [【V2EX】2022-08-01-iPad-想买个手柄来玩游戏。](https://www.v2ex.com/t/870031) 
-- [【V2EX】2022-08-01--Mac-输入法终极介绍及完善，值得收藏！](https://www.v2ex.com/t/870030) 
-- [【V2EX】2022-08-01-城中村房东用电收-1.5-每度，有什么办法可以整治吗？](https://www.v2ex.com/t/870029) 
 - [【技术头条】2022-08-01-SpringBoot四大核心组件，你知道几个？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15271&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494395%26amp%3Bidx%3D2%26amp%3Bsn%3D7625c27c0bbb10cfd2e5e1d8a09a3c74%26amp%3Bchksm%3Dfa3f0ba0cd4882b6baa602f1f11ffebc9ec2dadb2ee131a812efc29a71e64cb3959c144707ff%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-08-01-为什么现在我特讨厌Safari浏览器？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15270&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494394%26amp%3Bidx%3D1%26amp%3Bsn%3Dfb2cf1e3121547b166e7507899fd4b39%26amp%3Bchksm%3Dfa3f0ba1cd4882b709b6be7a5f79fe7fde60753959a580a0d22d902090136a0acfcdc714006d%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-08-01-排名前16的Java工具类，你用过哪个？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15269&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494394%26amp%3Bidx%3D2%26amp%3Bsn%3Dcb65e98ba5dce4c6ed915788f729e649%26amp%3Bchksm%3Dfa3f0ba1cd4882b75e5d170394f948b30c2fc6d572158708d579d194fcb1a861afc87301b3f8%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -133,8 +133,8 @@
 - [【开发者头条】2022-08-01-千万级乘客排队系统重构&压测方案——总结篇](https://toutiao.io/k/qjesxr7) 
 - [【开发者头条】2022-08-01-全链路压测改造之全链自动化测试实践](https://toutiao.io/k/kmh9i75) 
 - [【开发者头条】2022-08-01-高并发架构解决春节抢火车票难题](https://toutiao.io/k/liozvvz) 
-- [【开发者头条】2022-08-01-Web3.0的镰刀还能割多久；取代-C++？谷歌推出-Carbon｜码农周刊VIP会员专属邮件周报-Vol.101](https://toutiao.io/k/9mv7gsu) 
 - [【开发者头条】2022-08-01-会员服务优雅上下线实践](https://toutiao.io/k/zu5b8jg) 
+- [【开发者头条】2022-08-01-Web3.0的镰刀还能割多久；取代-C++？谷歌推出-Carbon｜码农周刊VIP会员专属邮件周报-Vol.101](https://toutiao.io/k/9mv7gsu) 
 - [【开发者头条】2022-08-01-凹语言™开源十日小计——兼路线图预览](https://toutiao.io/k/ujgvacc) 
 - [【开发者头条】2022-08-01-StarRocks-2.3-新版本特性介绍](https://toutiao.io/k/4irrmab) 
 - [【开发者头条】2022-08-01-Dapr-入门教程](https://toutiao.io/k/40y61qg) 
@@ -148,11 +148,12 @@
 - [【开发者头条】2022-08-01-存储日报-数据湖架构权威指南（使用-Iceberg-和-MinIO）](https://toutiao.io/k/uqjl1cb) 
 - [【开发者头条】2022-08-01-走好信创落地“最后一公里”](https://toutiao.io/k/9tmudv7) 
 - [【开发者头条】2022-08-01-TLA+-入门教程（5）：Paxos](https://toutiao.io/k/wk9d20i) 
-- [【开发者头条】2022-08-01-推荐-聊聊Java中代码优化的30个小技巧](https://toutiao.io/k/jv8g1r6) 
-- [【开发者头条】2022-08-01-推荐-老板：公司系统太多，能不能实现账号互通？](https://toutiao.io/k/g7sb904) 
-- [【开发者头条】2022-08-01-推荐-花了一周，我总结了120个数据分析指标与术语。](https://toutiao.io/k/9pzybmk) 
 - [【开发者头条】2022-08-01-推荐-腾讯低代码平台正式开源！可拖拽、生成手机项目、PC-项目！接私活福利啊！](https://toutiao.io/k/8oqx21m) 
+- [【开发者头条】2022-08-01-推荐-老板：公司系统太多，能不能实现账号互通？](https://toutiao.io/k/g7sb904) 
 - [【开发者头条】2022-08-01-推荐-团队一盘散沙，怎么破？](https://toutiao.io/k/kdzpdh5) 
+- [【开发者头条】2022-08-01-推荐-花了一周，我总结了120个数据分析指标与术语。](https://toutiao.io/k/9pzybmk) 
+- [【开发者头条】2022-08-01-推荐-阿里云官方-Redis-开发规范！](https://toutiao.io/k/2fqcbfi) 
+- [【开发者头条】2022-08-01-推荐-聊聊Java中代码优化的30个小技巧](https://toutiao.io/k/jv8g1r6) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

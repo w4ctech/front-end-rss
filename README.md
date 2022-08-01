@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-01 17:01:43，:rocket: 更新条数: +2032， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-01 17:30:39，:rocket: 更新条数: +2031， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-08-01-ffmpeg-按时长切视频的代码的问题，代码如下：](https://www.v2ex.com/t/870085) ![](assets/new.png)  
 - [2022-08-01-某蛙云跑路，体验了下-aws-的轻量，油管-1080-无压力](https://www.v2ex.com/t/870084) ![](assets/new.png)  
 - [2022-08-01-macOS-12.5-好像是修复了-shift-+-触摸板轻点偶尔不灵的-BUG](https://www.v2ex.com/t/870083) ![](assets/new.png)  
 - [2022-08-01-要阴才能回小区，且在街道没有明确要求的前提下，各位怎么看？](https://www.v2ex.com/t/870082) ![](assets/new.png)  
@@ -501,7 +502,6 @@
 - [2022-08-01-武汉智能控制工业技术研究院](https://www.v2ex.com/t/870076) ![](assets/new.png)  
 - [2022-08-01-怎么看候选人简历的-github？](https://www.v2ex.com/t/870075) ![](assets/new.png)  
 - [2022-08-01-求租翻身一房一厅，预算-2500-左右](https://www.v2ex.com/t/870074) ![](assets/new.png)  
-- [2022-08-01-女朋友变成这样了很纠结该怎么办](https://www.v2ex.com/t/870073) ![](assets/new.png)  
 - [2022-08-01-万能的-V-友，有没有最近-CKA-的题库](https://www.v2ex.com/t/870071) ![](assets/new.png)  
 - [2022-08-01-有几十个养乐多的瓶子。。可以用来做些什么呢？](https://www.v2ex.com/t/870070) ![](assets/new.png)  
 - [2022-08-01-typescript-类型转换请教](https://www.v2ex.com/t/870068) ![](assets/new.png)  

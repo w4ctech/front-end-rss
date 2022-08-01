@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-08-01 09:42:29。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-08-01 10:16:24。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -182,7 +182,6 @@
 - [【张鑫旭-鑫空间-鑫生活】JS与条形码的生成](https://www.zhangxinxu.com/wordpress/2022/05/js-barcode/)
 - [【V2EX】代码中数组自己变成了对象为什么？](https://www.v2ex.com/t/870017)
 - [【V2EX】软路由-r2s-不能满足需求了，求推荐-1000-内更好的方案-。X86-确实会比-ARM-稳定吗](https://www.v2ex.com/t/869990)
-- [【V2EX】请教大家一个正则表达式的问题](https://www.v2ex.com/t/869970)
 - [【技术头条】SpringBoot四大核心组件，你知道几个？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15271&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494395%26amp%3Bidx%3D2%26amp%3Bsn%3D7625c27c0bbb10cfd2e5e1d8a09a3c74%26amp%3Bchksm%3Dfa3f0ba0cd4882b6baa602f1f11ffebc9ec2dadb2ee131a812efc29a71e64cb3959c144707ff%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [......【查看更多】......](./details/tags/javascript.md)
 
@@ -281,6 +280,7 @@
 - [【武汉肺炎防疫全纪录(财新网)】解药|新冠mRNA疫苗安全性有哪些挑战？](https://m.caixin.com/m/2021-01-08/101648043.html)
 - [【武汉肺炎防疫全纪录(财新网)】大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html)
 - [【张鑫旭-鑫空间-鑫生活】基于文字的URL锚点定位与::target-text样式设置](https://www.zhangxinxu.com/wordpress/2022/06/url-anchor-target-text/)
+- [【V2EX】Netflix-电视弹代理，请求日志里面和手机上类似都是请求域名，域名前缀都是-ipv6-xxxx-hkg-xxx,而且我的电视上-Netflix-不会直接请求-IP，为什么还是解锁不了呢](https://www.v2ex.com/t/870024)
 - [【V2EX】浏览器是如何支持-wp-网站的地址栏搜索的](https://www.v2ex.com/t/870004)
 - [【V2EX】讨论-关于-MySQL-和-postgraSQL](https://www.v2ex.com/t/870000)
 - [【V2EX】网站没有做过-opensearch-的配置为什么-chrome-浏览器依然识别出了搜索](https://www.v2ex.com/t/869994)

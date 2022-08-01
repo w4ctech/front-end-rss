@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-08-01 10:46:04。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-08-01 11:13:33。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -17,6 +17,7 @@
 - [2022-06-11-介绍一种CSS变量未定义语法也OK的小妙招](https://www.zhangxinxu.com/wordpress/2022/06/css-var-optional-empty-trick/) 
 - [2022-05-29-如何实现页面刷新后不定位到之前的滚动位置？](https://www.zhangxinxu.com/wordpress/2022/05/history-scrollrestoration/) 
 - [2022-05-11-JS与条形码的生成](https://www.zhangxinxu.com/wordpress/2022/05/js-barcode/) 
+- [2022-08-01-一个代理的问题，主路由-ikuai](https://www.v2ex.com/t/870037) 
 - [2022-08-01-lodash-some-方法性能为什么比-js-原生方法-还高？](https://www.v2ex.com/t/870035) 
 - [2022-08-01-gunicorn-+-worker_class-除了默认-sync，像-gevent，-eventlet-都无法使用](https://www.v2ex.com/t/870032) 
 - [2022-08-01-代码中数组自己变成了对象为什么？](https://www.v2ex.com/t/870017) 

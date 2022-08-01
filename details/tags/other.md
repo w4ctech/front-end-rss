@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-08-01 17:48:16。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-08-01 18:19:05。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,8 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-08-01-虚拟机会受到-CPU-漏洞影响吗？](https://www.v2ex.com/t/870087) 
+- [2022-08-01-才知道-ts-的类型检查系统本身是图灵完备的，甚至可以自举](https://www.v2ex.com/t/870086) 
 - [2022-08-01-某蛙云跑路，体验了下-aws-的轻量，油管-1080-无压力](https://www.v2ex.com/t/870084) 
 - [2022-08-01-macOS-12.5-好像是修复了-shift-+-触摸板轻点偶尔不灵的-BUG](https://www.v2ex.com/t/870083) 
 - [2022-08-01-要阴才能回小区，且在街道没有明确要求的前提下，各位怎么看？](https://www.v2ex.com/t/870082) 
@@ -1941,7 +1943,6 @@
 - [2022-08-01-手机相机美颜的坏处，美团买菜被坑有感](https://www.v2ex.com/t/870041) 
 - [2022-08-01-Android-vs-C++](https://www.v2ex.com/t/870039) 
 - [2022-08-01-粤居码有什么用？](https://www.v2ex.com/t/870038) 
-- [2022-08-01-win10-存储池的坑](https://www.v2ex.com/t/870036) 
 - [2022-08-01-排名前16的Java工具类，你用过哪个？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15269&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494394%26amp%3Bidx%3D2%26amp%3Bsn%3Dcb65e98ba5dce4c6ed915788f729e649%26amp%3Bchksm%3Dfa3f0ba1cd4882b75e5d170394f948b30c2fc6d572158708d579d194fcb1a861afc87301b3f8%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-08-01-真正的高颜值Markdown编辑神器！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15268&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494393%26amp%3Bidx%3D1%26amp%3Bsn%3D28dbada9c20aa41ccbda91cb2728061b%26amp%3Bchksm%3Dfa3f0ba2cd4882b41f55c7b312d4027603277638c507159a5dde871a6e5b6cf1f9d8ca151f4e%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-08-01-像一名教育者一样思考代码质量-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15265&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494319%26amp%3Bidx%3D2%26amp%3Bsn%3D1635f21bffbb88d13c24854f0c8a4c4e%26amp%3Bchksm%3Dfa3f0bf4cd4882e2e88e8beb2ec31a38c35d84a925144807399c2a4d55344102a482d4359718%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1973,7 +1974,7 @@
 - [2022-08-01-走好信创落地“最后一公里”](https://toutiao.io/k/9tmudv7) 
 - [2022-08-01-TLA+-入门教程（5）：Paxos](https://toutiao.io/k/wk9d20i) 
 - [2022-08-01-推荐-团队一盘散沙，怎么破？](https://toutiao.io/k/kdzpdh5) 
-- [2022-08-01-推荐-腾讯低代码平台正式开源！可拖拽、生成手机项目、PC-项目！接私活福利啊！](https://toutiao.io/k/8oqx21m) 
+- [2022-08-01-推荐-花了一周，我总结了120个数据分析指标与术语。](https://toutiao.io/k/9pzybmk) 
 - [2022-08-01-推荐-老板：公司系统太多，能不能实现账号互通？](https://toutiao.io/k/g7sb904) 
 - [2022-08-01-推荐-阿里云官方-Redis-开发规范！](https://toutiao.io/k/2fqcbfi) 
-- [2022-08-01-推荐-花了一周，我总结了120个数据分析指标与术语。](https://toutiao.io/k/9pzybmk) 
+- [2022-08-01-推荐-腾讯低代码平台正式开源！可拖拽、生成手机项目、PC-项目！接私活福利啊！](https://toutiao.io/k/8oqx21m) 

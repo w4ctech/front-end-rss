@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-01 17:48:16，:rocket: 更新条数: +2031， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-01 18:19:04，:rocket: 更新条数: +2031， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-08-01-虚拟机会受到-CPU-漏洞影响吗？](https://www.v2ex.com/t/870087) ![](assets/new.png)  
+- [2022-08-01-才知道-ts-的类型检查系统本身是图灵完备的，甚至可以自举](https://www.v2ex.com/t/870086) ![](assets/new.png)  
 - [2022-08-01-ffmpeg-按时长切视频的代码的问题，代码如下：](https://www.v2ex.com/t/870085) ![](assets/new.png)  
 - [2022-08-01-某蛙云跑路，体验了下-aws-的轻量，油管-1080-无压力](https://www.v2ex.com/t/870084) ![](assets/new.png)  
 - [2022-08-01-macOS-12.5-好像是修复了-shift-+-触摸板轻点偶尔不灵的-BUG](https://www.v2ex.com/t/870083) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-08-01-Win-有没有什么办法可以备份所有本地账户，并且能够恢复的那种方法？](https://www.v2ex.com/t/870066) ![](assets/new.png)  
 - [2022-08-01-微信突然弹出的消息](https://www.v2ex.com/t/870065) ![](assets/new.png)  
 - [2022-08-01-外汇经纪商也需要-CRM](https://www.v2ex.com/t/870063) ![](assets/new.png)  
-- [2022-08-01-求推荐-openwrt-好用第三方编译版本](https://www.v2ex.com/t/870062) ![](assets/new.png)  
-- [2022-08-01-遇到个好笑的事](https://www.v2ex.com/t/870060) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

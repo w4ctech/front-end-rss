@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-02 05:56:49，:rocket: 更新条数: +2025， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-02 06:17:41，:rocket: 更新条数: +2029， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,9 @@
 </summary>
 
 
+- [2022-08-02-更新-12.5-后-Safari-占用好像有点高](https://www.v2ex.com/t/870203) ![](assets/new.png)  
+- [2022-08-02-杭州移动-dns-严重劫持-如何解决？](https://www.v2ex.com/t/870202) ![](assets/new.png)  
+- [2022-08-02-Apple-ID-的双重认证有点「把鸡蛋都放在一个篮子」里的感觉](https://www.v2ex.com/t/870199) ![](assets/new.png)  
 - [2022-08-02-七夕节送礼物随感而发](https://www.v2ex.com/t/870198) ![](assets/new.png)  
 - [2022-08-02-阿里云发邮件通知未实名域名禁止续费](https://www.v2ex.com/t/870197) ![](assets/new.png)  
 - [2022-08-02-关于-IDEA-的编译问题](https://www.v2ex.com/t/870196) ![](assets/new.png)  
@@ -508,9 +511,6 @@
 - [2022-08-02-自带电脑办公，还要安装奇安信，想创建两个独立空间如何实现？](https://www.v2ex.com/t/870179) ![](assets/new.png)  
 - [2022-08-02-如果今天晚上老巫婆来了会怎么样？](https://www.v2ex.com/t/870178) ![](assets/new.png)  
 - [2022-08-02-北京40K---80K-出海-web3-社交公司诚邀-后端/产品-加入](https://www.v2ex.com/t/870175) ![](assets/new.png)  
-- [2022-08-02-突发奇想，无意看到批量删除-wb](https://www.v2ex.com/t/870174) ![](assets/new.png)  
-- [2022-08-02-为什么前天-Win-11-更新以后，蓝牙设备总是掉线？](https://www.v2ex.com/t/870173) ![](assets/new.png)  
-- [2022-08-02-加入-Apple-music-家庭车，别人会白嫖我买的应用吗](https://www.v2ex.com/t/870172) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -564,15 +564,15 @@
 - [2022-08-02-在表格数据上，为什么基于树的模型仍然优于深度学习？](https://toutiao.io/k/odios5y) ![](assets/new.png)  
 - [2022-08-02-酷开科技-×-StarRocks：统一-OLAP-分析引擎，全面打造数字化的-OTT-模式](https://toutiao.io/k/4hkroxp) ![](assets/new.png)  
 - [2022-08-02-资源预测数字模型搭建思路分享](https://toutiao.io/k/4zrxw40) ![](assets/new.png)  
-- [2022-08-02-如何可视化编写和编排你的-K8s-任务](https://toutiao.io/k/sp9fig5) ![](assets/new.png)  
 - [2022-08-02-基于微前端qiankun的多页签缓存方案实践](https://toutiao.io/k/byxh63v) ![](assets/new.png)  
+- [2022-08-02-如何可视化编写和编排你的-K8s-任务](https://toutiao.io/k/sp9fig5) ![](assets/new.png)  
 - [2022-08-02-谷歌-Android-12-Go-正式发布！](https://toutiao.io/k/mbx4hvs) ![](assets/new.png)  
 - [2022-08-02-我们需要专职-Kubernetes-工程师吗？](https://toutiao.io/k/o9imeoe) ![](assets/new.png)  
-- [2022-08-02-推荐-聊聊Java中代码优化的30个小技巧](https://toutiao.io/k/jv8g1r6) ![](assets/new.png)  
-- [2022-08-02-推荐-腾讯低代码平台正式开源！可拖拽、生成手机项目、PC-项目！接私活福利啊！](https://toutiao.io/k/8oqx21m) ![](assets/new.png)  
-- [2022-08-02-推荐-老板：公司系统太多，能不能实现账号互通？](https://toutiao.io/k/g7sb904) ![](assets/new.png)  
-- [2022-08-02-推荐-阿里云官方-Redis-开发规范！](https://toutiao.io/k/2fqcbfi) ![](assets/new.png)  
-- [2022-08-02-推荐-花了一周，我总结了120个数据分析指标与术语。](https://toutiao.io/k/9pzybmk) ![](assets/new.png)  
+- [2022-08-02-欢迎-Twice-成为-Kvrocks-社区新-Committer](https://toutiao.io/k/vzh3fjv) ![](assets/new.png)  
+- [2022-08-02-回到本真，代码到底是什么？](https://toutiao.io/k/459axwq) ![](assets/new.png)  
+- [2022-08-02-聊聊如何实现一个带幂等模板的kafka消费者监听](https://toutiao.io/k/2uia7il) ![](assets/new.png)  
+- [2022-08-02-面向大规模分析的多源对地观测时空立方体](https://toutiao.io/k/kjh6dx2) ![](assets/new.png)  
+- [2022-08-02-存储日报-Linux-5.19-发布](https://toutiao.io/k/nhdr2h3) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

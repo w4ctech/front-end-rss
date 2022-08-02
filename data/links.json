@@ -9953,6 +9953,21 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "更新 12.5 后 Safari 占用好像有点高",
+        "link": "https://www.v2ex.com/t/870203",
+        "date": "2022-08-02"
+      },
+      {
+        "title": "杭州移动 dns 严重劫持 如何解决？",
+        "link": "https://www.v2ex.com/t/870202",
+        "date": "2022-08-02"
+      },
+      {
+        "title": "Apple ID 的双重认证有点「把鸡蛋都放在一个篮子」里的感觉",
+        "link": "https://www.v2ex.com/t/870199",
+        "date": "2022-08-02"
+      },
+      {
         "title": "七夕节送礼物随感而发",
         "link": "https://www.v2ex.com/t/870198",
         "date": "2022-08-02"
@@ -10120,26 +10135,6 @@
       {
         "title": "除了搜狗，哪些输入法可以自定义短语？",
         "link": "https://www.v2ex.com/t/870154",
-        "date": "2022-08-02"
-      },
-      {
-        "title": "请问 rime(鼠须管)如何使用原生输入法内的自定义短语？",
-        "link": "https://www.v2ex.com/t/870153",
-        "date": "2022-08-02"
-      },
-      {
-        "title": "深圳 6 年 Android 客户端岗位求内推~",
-        "link": "https://www.v2ex.com/t/870152",
-        "date": "2022-08-02"
-      },
-      {
-        "title": "看看生活里有多少蓝光",
-        "link": "https://www.v2ex.com/t/870151",
-        "date": "2022-08-02"
-      },
-      {
-        "title": "求推荐一款合适的公路车，铜板 3K 左右，用途：晚上周末温州周边 骑行。",
-        "link": "https://www.v2ex.com/t/870149",
         "date": "2022-08-02"
       }
     ]
@@ -10312,13 +10307,13 @@
         "date": "2022-08-02"
       },
       {
-        "title": "如何可视化编写和编排你的 K8s 任务",
-        "link": "https://toutiao.io/k/sp9fig5",
+        "title": "基于微前端qiankun的多页签缓存方案实践",
+        "link": "https://toutiao.io/k/byxh63v",
         "date": "2022-08-02"
       },
       {
-        "title": "基于微前端qiankun的多页签缓存方案实践",
-        "link": "https://toutiao.io/k/byxh63v",
+        "title": "如何可视化编写和编排你的 K8s 任务",
+        "link": "https://toutiao.io/k/sp9fig5",
         "date": "2022-08-02"
       },
       {
@@ -10332,23 +10327,28 @@
         "date": "2022-08-02"
       },
       {
-        "title": "[推荐] 聊聊Java中代码优化的30个小技巧",
-        "link": "https://toutiao.io/k/jv8g1r6",
+        "title": "欢迎 Twice 成为 Kvrocks 社区新 Committer",
+        "link": "https://toutiao.io/k/vzh3fjv",
         "date": "2022-08-02"
       },
       {
-        "title": "[推荐] 腾讯低代码平台正式开源！可拖拽、生成手机项目、PC 项目！接私活福利啊！",
-        "link": "https://toutiao.io/k/8oqx21m",
+        "title": "回到本真，代码到底是什么？",
+        "link": "https://toutiao.io/k/459axwq",
         "date": "2022-08-02"
       },
       {
-        "title": "[推荐] 老板：公司系统太多，能不能实现账号互通？",
-        "link": "https://toutiao.io/k/g7sb904",
+        "title": "聊聊如何实现一个带幂等模板的kafka消费者监听",
+        "link": "https://toutiao.io/k/2uia7il",
         "date": "2022-08-02"
       },
       {
-        "title": "[推荐] 阿里云官方 Redis 开发规范！",
-        "link": "https://toutiao.io/k/2fqcbfi",
+        "title": "面向大规模分析的多源对地观测时空立方体",
+        "link": "https://toutiao.io/k/kjh6dx2",
+        "date": "2022-08-02"
+      },
+      {
+        "title": "存储日报-Linux 5.19 发布",
+        "link": "https://toutiao.io/k/nhdr2h3",
         "date": "2022-08-02"
       },
       {
@@ -10357,8 +10357,28 @@
         "date": "2022-08-02"
       },
       {
+        "title": "[推荐] 老板：公司系统太多，能不能实现账号互通？",
+        "link": "https://toutiao.io/k/g7sb904",
+        "date": "2022-08-02"
+      },
+      {
+        "title": "[推荐] 腾讯低代码平台正式开源！可拖拽、生成手机项目、PC 项目！接私活福利啊！",
+        "link": "https://toutiao.io/k/8oqx21m",
+        "date": "2022-08-02"
+      },
+      {
         "title": "[推荐] 团队一盘散沙，怎么破？",
         "link": "https://toutiao.io/k/kdzpdh5",
+        "date": "2022-08-02"
+      },
+      {
+        "title": "[推荐] 聊聊Java中代码优化的30个小技巧",
+        "link": "https://toutiao.io/k/jv8g1r6",
+        "date": "2022-08-02"
+      },
+      {
+        "title": "[推荐] 阿里云官方 Redis 开发规范！",
+        "link": "https://toutiao.io/k/2fqcbfi",
         "date": "2022-08-02"
       }
     ]

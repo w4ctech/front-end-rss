@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-08-02 05:56:49。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-08-02 06:17:41。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,9 @@
 </summary>
 
 
+- [【V2EX】2022-08-02-更新-12.5-后-Safari-占用好像有点高](https://www.v2ex.com/t/870203) 
+- [【V2EX】2022-08-02-杭州移动-dns-严重劫持-如何解决？](https://www.v2ex.com/t/870202) 
+- [【V2EX】2022-08-02-Apple-ID-的双重认证有点「把鸡蛋都放在一个篮子」里的感觉](https://www.v2ex.com/t/870199) 
 - [【V2EX】2022-08-02-七夕节送礼物随感而发](https://www.v2ex.com/t/870198) 
 - [【V2EX】2022-08-02-阿里云发邮件通知未实名域名禁止续费](https://www.v2ex.com/t/870197) 
 - [【V2EX】2022-08-02-关于-IDEA-的编译问题](https://www.v2ex.com/t/870196) 
@@ -102,10 +105,6 @@
 - [【V2EX】2022-08-02-想整个软路由+NAS-一体的机器，大佬们有相应的系统平台和硬件推荐吗？](https://www.v2ex.com/t/870156) 
 - [【V2EX】2022-08-02-没有公网-ip-要怎么办?](https://www.v2ex.com/t/870155) 
 - [【V2EX】2022-08-02-除了搜狗，哪些输入法可以自定义短语？](https://www.v2ex.com/t/870154) 
-- [【V2EX】2022-08-02-请问-rime鼠须管如何使用原生输入法内的自定义短语？](https://www.v2ex.com/t/870153) 
-- [【V2EX】2022-08-02-深圳-6-年-Android-客户端岗位求内推~](https://www.v2ex.com/t/870152) 
-- [【V2EX】2022-08-02-看看生活里有多少蓝光](https://www.v2ex.com/t/870151) 
-- [【V2EX】2022-08-02-求推荐一款合适的公路车，铜板-3K-左右，用途：晚上周末温州周边-骑行。](https://www.v2ex.com/t/870149) 
 - [【技术头条】2022-08-02-SpringBoot四大核心组件，你知道几个？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15271&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494395%26amp%3Bidx%3D2%26amp%3Bsn%3D7625c27c0bbb10cfd2e5e1d8a09a3c74%26amp%3Bchksm%3Dfa3f0ba0cd4882b6baa602f1f11ffebc9ec2dadb2ee131a812efc29a71e64cb3959c144707ff%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-08-02-为什么现在我特讨厌Safari浏览器？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15270&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494394%26amp%3Bidx%3D1%26amp%3Bsn%3Dfb2cf1e3121547b166e7507899fd4b39%26amp%3Bchksm%3Dfa3f0ba1cd4882b709b6be7a5f79fe7fde60753959a580a0d22d902090136a0acfcdc714006d%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-08-02-排名前16的Java工具类，你用过哪个？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15269&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494394%26amp%3Bidx%3D2%26amp%3Bsn%3Dcb65e98ba5dce4c6ed915788f729e649%26amp%3Bchksm%3Dfa3f0ba1cd4882b75e5d170394f948b30c2fc6d572158708d579d194fcb1a861afc87301b3f8%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -137,16 +136,21 @@
 - [【开发者头条】2022-08-02-在表格数据上，为什么基于树的模型仍然优于深度学习？](https://toutiao.io/k/odios5y) 
 - [【开发者头条】2022-08-02-酷开科技-×-StarRocks：统一-OLAP-分析引擎，全面打造数字化的-OTT-模式](https://toutiao.io/k/4hkroxp) 
 - [【开发者头条】2022-08-02-资源预测数字模型搭建思路分享](https://toutiao.io/k/4zrxw40) 
-- [【开发者头条】2022-08-02-如何可视化编写和编排你的-K8s-任务](https://toutiao.io/k/sp9fig5) 
 - [【开发者头条】2022-08-02-基于微前端qiankun的多页签缓存方案实践](https://toutiao.io/k/byxh63v) 
+- [【开发者头条】2022-08-02-如何可视化编写和编排你的-K8s-任务](https://toutiao.io/k/sp9fig5) 
 - [【开发者头条】2022-08-02-谷歌-Android-12-Go-正式发布！](https://toutiao.io/k/mbx4hvs) 
 - [【开发者头条】2022-08-02-我们需要专职-Kubernetes-工程师吗？](https://toutiao.io/k/o9imeoe) 
-- [【开发者头条】2022-08-02-推荐-聊聊Java中代码优化的30个小技巧](https://toutiao.io/k/jv8g1r6) 
-- [【开发者头条】2022-08-02-推荐-腾讯低代码平台正式开源！可拖拽、生成手机项目、PC-项目！接私活福利啊！](https://toutiao.io/k/8oqx21m) 
-- [【开发者头条】2022-08-02-推荐-老板：公司系统太多，能不能实现账号互通？](https://toutiao.io/k/g7sb904) 
-- [【开发者头条】2022-08-02-推荐-阿里云官方-Redis-开发规范！](https://toutiao.io/k/2fqcbfi) 
+- [【开发者头条】2022-08-02-欢迎-Twice-成为-Kvrocks-社区新-Committer](https://toutiao.io/k/vzh3fjv) 
+- [【开发者头条】2022-08-02-回到本真，代码到底是什么？](https://toutiao.io/k/459axwq) 
+- [【开发者头条】2022-08-02-聊聊如何实现一个带幂等模板的kafka消费者监听](https://toutiao.io/k/2uia7il) 
+- [【开发者头条】2022-08-02-面向大规模分析的多源对地观测时空立方体](https://toutiao.io/k/kjh6dx2) 
+- [【开发者头条】2022-08-02-存储日报-Linux-5.19-发布](https://toutiao.io/k/nhdr2h3) 
 - [【开发者头条】2022-08-02-推荐-花了一周，我总结了120个数据分析指标与术语。](https://toutiao.io/k/9pzybmk) 
+- [【开发者头条】2022-08-02-推荐-老板：公司系统太多，能不能实现账号互通？](https://toutiao.io/k/g7sb904) 
+- [【开发者头条】2022-08-02-推荐-腾讯低代码平台正式开源！可拖拽、生成手机项目、PC-项目！接私活福利啊！](https://toutiao.io/k/8oqx21m) 
 - [【开发者头条】2022-08-02-推荐-团队一盘散沙，怎么破？](https://toutiao.io/k/kdzpdh5) 
+- [【开发者头条】2022-08-02-推荐-聊聊Java中代码优化的30个小技巧](https://toutiao.io/k/jv8g1r6) 
+- [【开发者头条】2022-08-02-推荐-阿里云官方-Redis-开发规范！](https://toutiao.io/k/2fqcbfi) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

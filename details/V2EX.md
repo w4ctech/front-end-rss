@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-08-02 23:03:31。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-08-02 23:14:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
@@ -42,4 +42,3 @@
 - [2022-08-02-高价耳机好买，低价耳机易踩坑（指有线低价半入耳式耳机）](https://www.v2ex.com/t/870293) 
 - [2022-08-02-想问个-DIY-监控方案](https://www.v2ex.com/t/870291) 
 - [2022-08-02-被-tp-link-恶心到了「一加-Ace-Pro-与-TP-LINK-路由器合作，优先使用信道资源」](https://www.v2ex.com/t/870290) 
-- [2022-08-02-infuse-pro-有什么优惠的渠道？](https://www.v2ex.com/t/870289) 

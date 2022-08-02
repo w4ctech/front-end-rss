@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-02 09:13:40，:rocket: 更新条数: +2004， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-02 09:41:07，:rocket: 更新条数: +2028， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -53,7 +53,7 @@
 - [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)![](assets/dot.png)   
-- [开发者头条](#开发者头条)  
+- [开发者头条](#开发者头条)![](assets/dot.png)   
 - [安全热点](#安全热点)  
 - [物联网智库](#物联网智库)  
 
@@ -491,6 +491,11 @@
 </summary>
 
 
+- [2022-08-02-深圳电信城中村可以申请竞品套餐-300M+公网-ip+无合约-资费-99/月](https://www.v2ex.com/t/870276) ![](assets/new.png)  
+- [2022-08-02-现在-manjaro-kde-双屏幕，缩放有办法吗](https://www.v2ex.com/t/870275) ![](assets/new.png)  
+- [2022-08-02-electron-生产环境通过-cross-env-设置-NODE_ENV-失败](https://www.v2ex.com/t/870274) ![](assets/new.png)  
+- [2022-08-02-大家谨慎使用爱快路由系统，涉嫌泄露隐私](https://www.v2ex.com/t/870273) ![](assets/new.png)  
+- [2022-08-02-有没有轻松一点的网络武侠小说推荐](https://www.v2ex.com/t/870270) ![](assets/new.png)  
 - [2022-08-02-客制化键盘入坑-求推荐](https://www.v2ex.com/t/870268) ![](assets/new.png)  
 - [2022-08-02-有没有老哥肩胛骨内侧疼的，我疼了两年了](https://www.v2ex.com/t/870266) ![](assets/new.png)  
 - [2022-08-02-在离开这个世界前，设计一项最令自己满意的编程语言吧-参与设计程序语言](https://www.v2ex.com/t/870262) ![](assets/new.png)  
@@ -506,11 +511,6 @@
 - [2022-08-02-Gmail-换新版-UI-了，怪好看的](https://www.v2ex.com/t/870248) ![](assets/new.png)  
 - [2022-08-02-比较好奇一个问题](https://www.v2ex.com/t/870247) ![](assets/new.png)  
 - [2022-08-02-线上问题太多，-需求迭代做不完的时候有哪些策略？](https://www.v2ex.com/t/870246) ![](assets/new.png)  
-- [2022-08-02-Esxi-里的黑裙之间，如何更换硬盘？](https://www.v2ex.com/t/870245) ![](assets/new.png)  
-- [2022-08-02-求推荐一个路由器，可以不带-AP-功能](https://www.v2ex.com/t/870243) ![](assets/new.png)  
-- [2022-08-02-漕河泾合川路单间转租](https://www.v2ex.com/t/870242) ![](assets/new.png)  
-- [2022-08-02-重装系统后恢复浏览器数据有感](https://www.v2ex.com/t/870240) ![](assets/new.png)  
-- [2022-08-02-关于一个私活报价的问题](https://www.v2ex.com/t/870239) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -553,6 +553,26 @@
 </summary>
 
 
+- [2022-08-02-Go高性能之方法接收器---指针vs值](https://toutiao.io/k/ce3z1rn) ![](assets/new.png)  
+- [2022-08-02-Spring-常见面试题总结](https://toutiao.io/k/o96473m) ![](assets/new.png)  
+- [2022-08-02-8-个常用的-Wireshark-使用技巧，一看就会](https://toutiao.io/k/t6x6cfn) ![](assets/new.png)  
+- [2022-08-02-数据可视化设计指南](https://toutiao.io/k/amysims) ![](assets/new.png)  
+- [2022-08-02-LowCode-窥探](https://toutiao.io/k/q0m9kvh) ![](assets/new.png)  
+- [2022-08-02-RabbitMQ、RocketMQ-和-Kafka-三元归一](https://toutiao.io/k/iji5qc0) ![](assets/new.png)  
+- [2022-08-02-增删改查这么多年，最后栽在MySQL的架构设计上！](https://toutiao.io/k/6pqy1x9) ![](assets/new.png)  
+- [2022-08-02-基于微前端qiankun的多页签缓存方案实践](https://toutiao.io/k/byxh63v) ![](assets/new.png)  
+- [2022-08-02-从-npm-切换到-pnpm，真香！](https://toutiao.io/k/yu0q5bu) ![](assets/new.png)  
+- [2022-08-02-在表格数据上，为什么基于树的模型仍然优于深度学习？](https://toutiao.io/k/odios5y) ![](assets/new.png)  
+- [2022-08-02-酷开科技-×-StarRocks：统一-OLAP-分析引擎，全面打造数字化的-OTT-模式](https://toutiao.io/k/4hkroxp) ![](assets/new.png)  
+- [2022-08-02-资源预测数字模型搭建思路分享](https://toutiao.io/k/4zrxw40) ![](assets/new.png)  
+- [2022-08-02-如何可视化编写和编排你的-K8s-任务](https://toutiao.io/k/sp9fig5) ![](assets/new.png)  
+- [2022-08-02-谷歌-Android-12-Go-正式发布！](https://toutiao.io/k/mbx4hvs) ![](assets/new.png)  
+- [2022-08-02-我们需要专职-Kubernetes-工程师吗？](https://toutiao.io/k/o9imeoe) ![](assets/new.png)  
+- [2022-08-02-回到本真，代码到底是什么？](https://toutiao.io/k/459axwq) ![](assets/new.png)  
+- [2022-08-02-欢迎-Twice-成为-Kvrocks-社区新-Committer](https://toutiao.io/k/vzh3fjv) ![](assets/new.png)  
+- [2022-08-02-存储日报-Linux-5.19-发布](https://toutiao.io/k/nhdr2h3) ![](assets/new.png)  
+- [2022-08-02-聊聊如何实现一个带幂等模板的kafka消费者监听](https://toutiao.io/k/2uia7il) ![](assets/new.png)  
+- [2022-08-02-面向大规模分析的多源对地观测时空立方体](https://toutiao.io/k/kjh6dx2) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

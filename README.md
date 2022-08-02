@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-02 15:14:47，:rocket: 更新条数: +2030， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-02 15:43:30，:rocket: 更新条数: +2028， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,7 +491,6 @@
 </summary>
 
 
-- [2022-08-02-微博知乎战术性挂了,不能访问](https://www.v2ex.com/t/870328) ![](assets/new.png)  
 - [2022-08-02-请教-Android-开发大佬一个问题](https://www.v2ex.com/t/870327) ![](assets/new.png)  
 - [2022-08-02-超宽屏显示器体验如何？](https://www.v2ex.com/t/870326) ![](assets/new.png)  
 - [2022-08-02-如何-windows-安装镜像带预装软件和分区？](https://www.v2ex.com/t/870325) ![](assets/new.png)  
@@ -511,6 +510,7 @@
 - [2022-08-02-冈本-29-元-27-片🥳](https://www.v2ex.com/t/870307) ![](assets/new.png)  
 - [2022-08-02-发现很多设计人员缺乏基本的交互常识](https://www.v2ex.com/t/870306) ![](assets/new.png)  
 - [2022-08-02-Clash-如何处理-DNS-泄漏？](https://www.v2ex.com/t/870305) ![](assets/new.png)  
+- [2022-08-02-2013-款-iMac-外接显示器问题](https://www.v2ex.com/t/870304) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -569,9 +569,9 @@
 - [2022-08-02-如何可视化编写和编排你的-K8s-任务](https://toutiao.io/k/sp9fig5) ![](assets/new.png)  
 - [2022-08-02-我们需要专职-Kubernetes-工程师吗？](https://toutiao.io/k/o9imeoe) ![](assets/new.png)  
 - [2022-08-02-回到本真，代码到底是什么？](https://toutiao.io/k/459axwq) ![](assets/new.png)  
+- [2022-08-02-聊聊如何实现一个带幂等模板的kafka消费者监听](https://toutiao.io/k/2uia7il) ![](assets/new.png)  
 - [2022-08-02-存储日报-Linux-5.19-发布](https://toutiao.io/k/nhdr2h3) ![](assets/new.png)  
 - [2022-08-02-欢迎-Twice-成为-Kvrocks-社区新-Committer](https://toutiao.io/k/vzh3fjv) ![](assets/new.png)  
-- [2022-08-02-聊聊如何实现一个带幂等模板的kafka消费者监听](https://toutiao.io/k/2uia7il) ![](assets/new.png)  
 - [2022-08-02-面向大规模分析的多源对地观测时空立方体](https://toutiao.io/k/kjh6dx2) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

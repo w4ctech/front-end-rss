@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-02 06:17:41，:rocket: 更新条数: +2029， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-02 06:47:50，:rocket: 更新条数: +2030， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,17 @@
 </summary>
 
 
+- [2022-08-02-Python-GUI-自动化框架-Clicknium](https://www.v2ex.com/t/870217) ![](assets/new.png)  
+- [2022-08-02-怎么知道一本书有没有中译本?](https://www.v2ex.com/t/870216) ![](assets/new.png)  
+- [2022-08-02-macOS-经常会弹出类似弹框要开机密码-取消会一直弹-输入也会有概率继续弹](https://www.v2ex.com/t/870214) ![](assets/new.png)  
+- [2022-08-02-centos7.9，-gnome38-如何显示托盘？](https://www.v2ex.com/t/870213) ![](assets/new.png)  
+- [2022-08-02-excel-和-wps-的优缺点对比](https://www.v2ex.com/t/870212) ![](assets/new.png)  
+- [2022-08-02-一款免费的容器安全-SaaS-平台使用记录](https://www.v2ex.com/t/870211) ![](assets/new.png)  
+- [2022-08-02-是时候跟-GitHub-说再见了！丨-RTE-技术环境月报-202208](https://www.v2ex.com/t/870210) ![](assets/new.png)  
+- [2022-08-02-google-pixel-6a](https://www.v2ex.com/t/870209) ![](assets/new.png)  
+- [2022-08-02-有什么办法能获取一个城市下的地名？](https://www.v2ex.com/t/870208) ![](assets/new.png)  
+- [2022-08-02-新人求助，大家现在是怎么解决观看爱优腾视频的？](https://www.v2ex.com/t/870207) ![](assets/new.png)  
+- [2022-08-02-开发团队菜得一批，是不是该提桶跑路啊？](https://www.v2ex.com/t/870206) ![](assets/new.png)  
 - [2022-08-02-更新-12.5-后-Safari-占用好像有点高](https://www.v2ex.com/t/870203) ![](assets/new.png)  
 - [2022-08-02-杭州移动-dns-严重劫持-如何解决？](https://www.v2ex.com/t/870202) ![](assets/new.png)  
 - [2022-08-02-Apple-ID-的双重认证有点「把鸡蛋都放在一个篮子」里的感觉](https://www.v2ex.com/t/870199) ![](assets/new.png)  
@@ -500,17 +511,6 @@
 - [2022-08-02-今天晚上有人会在线看直播吗？](https://www.v2ex.com/t/870195) ![](assets/new.png)  
 - [2022-08-02-广州库洛游戏-客户端主程&服务器主程，有带团队权限，薪资可谈！](https://www.v2ex.com/t/870194) ![](assets/new.png)  
 - [2022-08-02-有没有公司可以代补缴社保的](https://www.v2ex.com/t/870193) ![](assets/new.png)  
-- [2022-08-02-有苦于微记账停服的同学吗？](https://www.v2ex.com/t/870192) ![](assets/new.png)  
-- [2022-08-02-请问，.ae-是什么域名（有图）](https://www.v2ex.com/t/870190) ![](assets/new.png)  
-- [2022-08-02-Mac-上如何镜像本地的-USB-Key-给云主机-Windows-使用？](https://www.v2ex.com/t/870188) ![](assets/new.png)  
-- [2022-08-02-有没有腰肌酸痛，一弯腰就疼的？](https://www.v2ex.com/t/870185) ![](assets/new.png)  
-- [2022-08-02-最近想去川北自驾旅游，有没有去过的-V-友推荐一下路线的](https://www.v2ex.com/t/870184) ![](assets/new.png)  
-- [2022-08-02-白群晖-DSM7.1-可以正常使用-tailscale-吗？](https://www.v2ex.com/t/870183) ![](assets/new.png)  
-- [2022-08-02-家里有小孩练英语听力可以试试-Youtube-Kids](https://www.v2ex.com/t/870181) ![](assets/new.png)  
-- [2022-08-02-DAMA-这种自动识别聊天窗口用户头像是如何做到的？](https://www.v2ex.com/t/870180) ![](assets/new.png)  
-- [2022-08-02-自带电脑办公，还要安装奇安信，想创建两个独立空间如何实现？](https://www.v2ex.com/t/870179) ![](assets/new.png)  
-- [2022-08-02-如果今天晚上老巫婆来了会怎么样？](https://www.v2ex.com/t/870178) ![](assets/new.png)  
-- [2022-08-02-北京40K---80K-出海-web3-社交公司诚邀-后端/产品-加入](https://www.v2ex.com/t/870175) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -565,8 +565,8 @@
 - [2022-08-02-酷开科技-×-StarRocks：统一-OLAP-分析引擎，全面打造数字化的-OTT-模式](https://toutiao.io/k/4hkroxp) ![](assets/new.png)  
 - [2022-08-02-资源预测数字模型搭建思路分享](https://toutiao.io/k/4zrxw40) ![](assets/new.png)  
 - [2022-08-02-基于微前端qiankun的多页签缓存方案实践](https://toutiao.io/k/byxh63v) ![](assets/new.png)  
-- [2022-08-02-如何可视化编写和编排你的-K8s-任务](https://toutiao.io/k/sp9fig5) ![](assets/new.png)  
 - [2022-08-02-谷歌-Android-12-Go-正式发布！](https://toutiao.io/k/mbx4hvs) ![](assets/new.png)  
+- [2022-08-02-如何可视化编写和编排你的-K8s-任务](https://toutiao.io/k/sp9fig5) ![](assets/new.png)  
 - [2022-08-02-我们需要专职-Kubernetes-工程师吗？](https://toutiao.io/k/o9imeoe) ![](assets/new.png)  
 - [2022-08-02-欢迎-Twice-成为-Kvrocks-社区新-Committer](https://toutiao.io/k/vzh3fjv) ![](assets/new.png)  
 - [2022-08-02-回到本真，代码到底是什么？](https://toutiao.io/k/459axwq) ![](assets/new.png)  

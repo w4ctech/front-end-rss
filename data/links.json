@@ -9953,6 +9953,61 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "Python GUI 自动化框架 Clicknium",
+        "link": "https://www.v2ex.com/t/870217",
+        "date": "2022-08-02"
+      },
+      {
+        "title": "怎么知道一本书有没有中译本?",
+        "link": "https://www.v2ex.com/t/870216",
+        "date": "2022-08-02"
+      },
+      {
+        "title": "macOS 经常会弹出类似弹框要开机密码 取消会一直弹 输入也会有概率继续弹",
+        "link": "https://www.v2ex.com/t/870214",
+        "date": "2022-08-02"
+      },
+      {
+        "title": "centos7.9， gnome38 如何显示托盘？",
+        "link": "https://www.v2ex.com/t/870213",
+        "date": "2022-08-02"
+      },
+      {
+        "title": "excel 和 wps 的优缺点对比",
+        "link": "https://www.v2ex.com/t/870212",
+        "date": "2022-08-02"
+      },
+      {
+        "title": "一款免费的容器安全 SaaS 平台使用记录",
+        "link": "https://www.v2ex.com/t/870211",
+        "date": "2022-08-02"
+      },
+      {
+        "title": "是时候跟 GitHub 说再见了！丨 RTE 技术环境月报 202208",
+        "link": "https://www.v2ex.com/t/870210",
+        "date": "2022-08-02"
+      },
+      {
+        "title": "google pixel 6a",
+        "link": "https://www.v2ex.com/t/870209",
+        "date": "2022-08-02"
+      },
+      {
+        "title": "有什么办法能获取一个城市下的地名？",
+        "link": "https://www.v2ex.com/t/870208",
+        "date": "2022-08-02"
+      },
+      {
+        "title": "新人求助，大家现在是怎么解决观看爱优腾视频的？",
+        "link": "https://www.v2ex.com/t/870207",
+        "date": "2022-08-02"
+      },
+      {
+        "title": "开发团队菜得一批，是不是该提桶跑路啊？",
+        "link": "https://www.v2ex.com/t/870206",
+        "date": "2022-08-02"
+      },
+      {
         "title": "更新 12.5 后 Safari 占用好像有点高",
         "link": "https://www.v2ex.com/t/870203",
         "date": "2022-08-02"
@@ -10085,56 +10140,6 @@
       {
         "title": "大家是怎么投诉噪音扰民的",
         "link": "https://www.v2ex.com/t/870168",
-        "date": "2022-08-02"
-      },
-      {
-        "title": "V2EX 也会删帖吗",
-        "link": "https://www.v2ex.com/t/870167",
-        "date": "2022-08-02"
-      },
-      {
-        "title": "网易互联网、雷火、互娱 23 届校招专属内推火热开启！",
-        "link": "https://www.v2ex.com/t/870166",
-        "date": "2022-08-02"
-      },
-      {
-        "title": "佩洛斯 8 月 2 日晚会访台么",
-        "link": "https://www.v2ex.com/t/870164",
-        "date": "2022-08-02"
-      },
-      {
-        "title": "2022 年了，移动宽带合约到期涨价了，现在换联通合适吗",
-        "link": "https://www.v2ex.com/t/870162",
-        "date": "2022-08-02"
-      },
-      {
-        "title": "东莞社保全险，代缴纳，免费靠",
-        "link": "https://www.v2ex.com/t/870161",
-        "date": "2022-08-02"
-      },
-      {
-        "title": "钉钉打卡类问题",
-        "link": "https://www.v2ex.com/t/870159",
-        "date": "2022-08-02"
-      },
-      {
-        "title": "领导叫后端开发来搞人工智能，靠谱么？",
-        "link": "https://www.v2ex.com/t/870157",
-        "date": "2022-08-02"
-      },
-      {
-        "title": "想整个软路由+NAS 一体的机器，大佬们有相应的系统平台和硬件推荐吗？",
-        "link": "https://www.v2ex.com/t/870156",
-        "date": "2022-08-02"
-      },
-      {
-        "title": "没有公网 ip 要怎么办?",
-        "link": "https://www.v2ex.com/t/870155",
-        "date": "2022-08-02"
-      },
-      {
-        "title": "除了搜狗，哪些输入法可以自定义短语？",
-        "link": "https://www.v2ex.com/t/870154",
         "date": "2022-08-02"
       }
     ]
@@ -10312,13 +10317,13 @@
         "date": "2022-08-02"
       },
       {
-        "title": "如何可视化编写和编排你的 K8s 任务",
-        "link": "https://toutiao.io/k/sp9fig5",
+        "title": "谷歌 Android 12 Go 正式发布！",
+        "link": "https://toutiao.io/k/mbx4hvs",
         "date": "2022-08-02"
       },
       {
-        "title": "谷歌 Android 12 Go 正式发布！",
-        "link": "https://toutiao.io/k/mbx4hvs",
+        "title": "如何可视化编写和编排你的 K8s 任务",
+        "link": "https://toutiao.io/k/sp9fig5",
         "date": "2022-08-02"
       },
       {
@@ -10352,18 +10357,13 @@
         "date": "2022-08-02"
       },
       {
+        "title": "[推荐] 阿里云官方 Redis 开发规范！",
+        "link": "https://toutiao.io/k/2fqcbfi",
+        "date": "2022-08-02"
+      },
+      {
         "title": "[推荐] 花了一周，我总结了120个数据分析指标与术语。",
         "link": "https://toutiao.io/k/9pzybmk",
-        "date": "2022-08-02"
-      },
-      {
-        "title": "[推荐] 老板：公司系统太多，能不能实现账号互通？",
-        "link": "https://toutiao.io/k/g7sb904",
-        "date": "2022-08-02"
-      },
-      {
-        "title": "[推荐] 腾讯低代码平台正式开源！可拖拽、生成手机项目、PC 项目！接私活福利啊！",
-        "link": "https://toutiao.io/k/8oqx21m",
         "date": "2022-08-02"
       },
       {
@@ -10377,8 +10377,13 @@
         "date": "2022-08-02"
       },
       {
-        "title": "[推荐] 阿里云官方 Redis 开发规范！",
-        "link": "https://toutiao.io/k/2fqcbfi",
+        "title": "[推荐] 腾讯低代码平台正式开源！可拖拽、生成手机项目、PC 项目！接私活福利啊！",
+        "link": "https://toutiao.io/k/8oqx21m",
+        "date": "2022-08-02"
+      },
+      {
+        "title": "[推荐] 老板：公司系统太多，能不能实现账号互通？",
+        "link": "https://toutiao.io/k/g7sb904",
         "date": "2022-08-02"
       }
     ]

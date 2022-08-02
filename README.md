@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-02 08:18:20，:rocket: 更新条数: +2007， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-02 08:49:22，:rocket: 更新条数: +2033， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -53,7 +53,7 @@
 - [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)![](assets/dot.png)   
-- [开发者头条](#开发者头条)  
+- [开发者头条](#开发者头条)![](assets/dot.png)   
 - [安全热点](#安全热点)  
 - [物联网智库](#物联网智库)  
 
@@ -491,6 +491,12 @@
 </summary>
 
 
+- [2022-08-02-安卓机顶盒上有什么好用的视频播放器支持群晖的？](https://www.v2ex.com/t/870259) ![](assets/new.png)  
+- [2022-08-02-Offer-对比，麻烦老哥们给点意见](https://www.v2ex.com/t/870258) ![](assets/new.png)  
+- [2022-08-02-神奇的-beanUtils.copyProperties-目标与源对象属性类型不一致但可以-set-成功](https://www.v2ex.com/t/870257) ![](assets/new.png)  
+- [2022-08-02-做了个-Chrome-收藏夹](https://www.v2ex.com/t/870256) ![](assets/new.png)  
+- [2022-08-02-问下有啥开源的报表系统，界面美观点功能强大点。包含前后端](https://www.v2ex.com/t/870254) ![](assets/new.png)  
+- [2022-08-02-2022-年-8-月，体验不错，原生谷歌，国行或渠道可靠带保修的安卓手机存在吗？](https://www.v2ex.com/t/870252) ![](assets/new.png)  
 - [2022-08-02-有用过-Redmi-book-pro-15-锐龙版-v-友们吗?这本子怎么样?](https://www.v2ex.com/t/870250) ![](assets/new.png)  
 - [2022-08-02-Gmail-换新版-UI-了，怪好看的](https://www.v2ex.com/t/870248) ![](assets/new.png)  
 - [2022-08-02-比较好奇一个问题](https://www.v2ex.com/t/870247) ![](assets/new.png)  
@@ -505,12 +511,6 @@
 - [2022-08-02-Macbook-Pro-16-寸，-7/8-激活，-7/31-黑屏无法充电，直营店维修中](https://www.v2ex.com/t/870236) ![](assets/new.png)  
 - [2022-08-02-有哪些名字或产地的西瓜是甜而且无籽？](https://www.v2ex.com/t/870235) ![](assets/new.png)  
 - [2022-08-02-15:27-现在电量-27%...-14-寸的-pro-一周简单的感受](https://www.v2ex.com/t/870234) ![](assets/new.png)  
-- [2022-08-02-刚收到条钓鱼短信，差点吃钩了](https://www.v2ex.com/t/870233) ![](assets/new.png)  
-- [2022-08-02-除了银行，哪里还可以买到以投资为目的的黄金？](https://www.v2ex.com/t/870232) ![](assets/new.png)  
-- [2022-08-02-这种情况下的-Airpods-Pro-能否申请换货](https://www.v2ex.com/t/870231) ![](assets/new.png)  
-- [2022-08-02-我做了一把无线分体键盘-ALGEBOARD](https://www.v2ex.com/t/870230) ![](assets/new.png)  
-- [2022-08-02-Python-代理问题，-requests-自带的-proxies-参数会导致请求失败](https://www.v2ex.com/t/870229) ![](assets/new.png)  
-- [2022-08-02-最近从电信-500-兆换了千兆联通，求一个馒头的💊](https://www.v2ex.com/t/870228) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -553,6 +553,26 @@
 </summary>
 
 
+- [2022-08-02-Go高性能之方法接收器---指针vs值](https://toutiao.io/k/ce3z1rn) ![](assets/new.png)  
+- [2022-08-02-Spring-常见面试题总结](https://toutiao.io/k/o96473m) ![](assets/new.png)  
+- [2022-08-02-8-个常用的-Wireshark-使用技巧，一看就会](https://toutiao.io/k/t6x6cfn) ![](assets/new.png)  
+- [2022-08-02-数据可视化设计指南](https://toutiao.io/k/amysims) ![](assets/new.png)  
+- [2022-08-02-LowCode-窥探](https://toutiao.io/k/q0m9kvh) ![](assets/new.png)  
+- [2022-08-02-RabbitMQ、RocketMQ-和-Kafka-三元归一](https://toutiao.io/k/iji5qc0) ![](assets/new.png)  
+- [2022-08-02-增删改查这么多年，最后栽在MySQL的架构设计上！](https://toutiao.io/k/6pqy1x9) ![](assets/new.png)  
+- [2022-08-02-从-npm-切换到-pnpm，真香！](https://toutiao.io/k/yu0q5bu) ![](assets/new.png)  
+- [2022-08-02-基于微前端qiankun的多页签缓存方案实践](https://toutiao.io/k/byxh63v) ![](assets/new.png)  
+- [2022-08-02-在表格数据上，为什么基于树的模型仍然优于深度学习？](https://toutiao.io/k/odios5y) ![](assets/new.png)  
+- [2022-08-02-酷开科技-×-StarRocks：统一-OLAP-分析引擎，全面打造数字化的-OTT-模式](https://toutiao.io/k/4hkroxp) ![](assets/new.png)  
+- [2022-08-02-资源预测数字模型搭建思路分享](https://toutiao.io/k/4zrxw40) ![](assets/new.png)  
+- [2022-08-02-如何可视化编写和编排你的-K8s-任务](https://toutiao.io/k/sp9fig5) ![](assets/new.png)  
+- [2022-08-02-谷歌-Android-12-Go-正式发布！](https://toutiao.io/k/mbx4hvs) ![](assets/new.png)  
+- [2022-08-02-我们需要专职-Kubernetes-工程师吗？](https://toutiao.io/k/o9imeoe) ![](assets/new.png)  
+- [2022-08-02-欢迎-Twice-成为-Kvrocks-社区新-Committer](https://toutiao.io/k/vzh3fjv) ![](assets/new.png)  
+- [2022-08-02-存储日报-Linux-5.19-发布](https://toutiao.io/k/nhdr2h3) ![](assets/new.png)  
+- [2022-08-02-回到本真，代码到底是什么？](https://toutiao.io/k/459axwq) ![](assets/new.png)  
+- [2022-08-02-聊聊如何实现一个带幂等模板的kafka消费者监听](https://toutiao.io/k/2uia7il) ![](assets/new.png)  
+- [2022-08-02-面向大规模分析的多源对地观测时空立方体](https://toutiao.io/k/kjh6dx2) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-08-02 17:48:39。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-08-02 18:17:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,7 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-08-02-Mac-搜狗输入法中文有问题](https://www.v2ex.com/t/870333) 
 - [2022-08-02-试了一下-2-小时我能跑多远](https://www.v2ex.com/t/870332) 
 - [2022-08-02-infuse-如何识别电视剧？](https://www.v2ex.com/t/870331) 
 - [2022-08-02-请教-Android-开发大佬一个问题](https://www.v2ex.com/t/870327) 
@@ -1963,14 +1964,14 @@
 - [2022-08-02-酷开科技-×-StarRocks：统一-OLAP-分析引擎，全面打造数字化的-OTT-模式](https://toutiao.io/k/4hkroxp) 
 - [2022-08-02-资源预测数字模型搭建思路分享](https://toutiao.io/k/4zrxw40) 
 - [2022-08-02-谷歌-Android-12-Go-正式发布！](https://toutiao.io/k/mbx4hvs) 
-- [2022-08-02-如何可视化编写和编排你的-K8s-任务](https://toutiao.io/k/sp9fig5) 
 - [2022-08-02-我们需要专职-Kubernetes-工程师吗？](https://toutiao.io/k/o9imeoe) 
+- [2022-08-02-如何可视化编写和编排你的-K8s-任务](https://toutiao.io/k/sp9fig5) 
 - [2022-08-02-回到本真，代码到底是什么？](https://toutiao.io/k/459axwq) 
 - [2022-08-02-聊聊如何实现一个带幂等模板的kafka消费者监听](https://toutiao.io/k/2uia7il) 
 - [2022-08-02-存储日报-Linux-5.19-发布](https://toutiao.io/k/nhdr2h3) 
 - [2022-08-02-欢迎-Twice-成为-Kvrocks-社区新-Committer](https://toutiao.io/k/vzh3fjv) 
 - [2022-08-02-面向大规模分析的多源对地观测时空立方体](https://toutiao.io/k/kjh6dx2) 
 - [2022-08-02-推荐-腾讯低代码平台正式开源！可拖拽、生成手机项目、PC-项目！接私活福利啊！](https://toutiao.io/k/8oqx21m) 
+- [2022-08-02-推荐-阿里云官方-Redis-开发规范！](https://toutiao.io/k/2fqcbfi) 
 - [2022-08-02-推荐-花了一周，我总结了120个数据分析指标与术语。](https://toutiao.io/k/9pzybmk) 
 - [2022-08-02-推荐-老板：公司系统太多，能不能实现账号互通？](https://toutiao.io/k/g7sb904) 
-- [2022-08-02-推荐-阿里云官方-Redis-开发规范！](https://toutiao.io/k/2fqcbfi) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-02 17:48:39，:rocket: 更新条数: +2028， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-02 18:17:21，:rocket: 更新条数: +2029， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-08-02-Mac-搜狗输入法中文有问题](https://www.v2ex.com/t/870333) ![](assets/new.png)  
 - [2022-08-02-试了一下-2-小时我能跑多远](https://www.v2ex.com/t/870332) ![](assets/new.png)  
 - [2022-08-02-infuse-如何识别电视剧？](https://www.v2ex.com/t/870331) ![](assets/new.png)  
 - [2022-08-02-请教-Android-开发大佬一个问题](https://www.v2ex.com/t/870327) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-08-02-离九点半还有一个小时,大家怎么看啊?看情绪完全没有要打的意思啊.](https://www.v2ex.com/t/870309) ![](assets/new.png)  
 - [2022-08-02-Linux-Debian-下有无能跨文件夹浏览图片的软件](https://www.v2ex.com/t/870308) ![](assets/new.png)  
 - [2022-08-02-冈本-29-元-27-片🥳](https://www.v2ex.com/t/870307) ![](assets/new.png)  
-- [2022-08-02-发现很多设计人员缺乏基本的交互常识](https://www.v2ex.com/t/870306) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -566,8 +566,8 @@
 - [2022-08-02-酷开科技-×-StarRocks：统一-OLAP-分析引擎，全面打造数字化的-OTT-模式](https://toutiao.io/k/4hkroxp) ![](assets/new.png)  
 - [2022-08-02-资源预测数字模型搭建思路分享](https://toutiao.io/k/4zrxw40) ![](assets/new.png)  
 - [2022-08-02-谷歌-Android-12-Go-正式发布！](https://toutiao.io/k/mbx4hvs) ![](assets/new.png)  
-- [2022-08-02-如何可视化编写和编排你的-K8s-任务](https://toutiao.io/k/sp9fig5) ![](assets/new.png)  
 - [2022-08-02-我们需要专职-Kubernetes-工程师吗？](https://toutiao.io/k/o9imeoe) ![](assets/new.png)  
+- [2022-08-02-如何可视化编写和编排你的-K8s-任务](https://toutiao.io/k/sp9fig5) ![](assets/new.png)  
 - [2022-08-02-回到本真，代码到底是什么？](https://toutiao.io/k/459axwq) ![](assets/new.png)  
 - [2022-08-02-聊聊如何实现一个带幂等模板的kafka消费者监听](https://toutiao.io/k/2uia7il) ![](assets/new.png)  
 - [2022-08-02-存储日报-Linux-5.19-发布](https://toutiao.io/k/nhdr2h3) ![](assets/new.png)  

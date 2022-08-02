@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-08-02 18:17:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-08-02 18:46:42。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -353,7 +353,6 @@
 
 
 - [【V2EX】远程全职-月薪-20K-30K-RMB,-招聘安卓开发工程师](https://www.v2ex.com/t/870324)
-- [【V2EX】Web3-招聘：-Devops-开发工程师-base-新加坡（提供签证）-40-80-万](https://www.v2ex.com/t/870284)
 - [【开发者头条】Spring-常见面试题总结](https://toutiao.io/k/o96473m)
 - [......【查看更多】......](./details/tags/job-interview.md)
 

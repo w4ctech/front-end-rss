@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-08-02 09:41:07。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-08-02 10:17:04。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,10 @@
 </summary>
 
 
+- [【V2EX】2022-08-02-Web3-招聘：-Devops-开发工程师-base-新加坡（提供签证）-40-80-万](https://www.v2ex.com/t/870284) 
+- [【V2EX】2022-08-02-不能断网，最佳方案是？](https://www.v2ex.com/t/870282) 
+- [【V2EX】2022-08-02-当紧急情况发生时，我们的电脑会被控制吗](https://www.v2ex.com/t/870281) 
+- [【V2EX】2022-08-02-当你们还在讨论七夕送什么礼物给女朋友](https://www.v2ex.com/t/870280) 
 - [【V2EX】2022-08-02-深圳电信城中村可以申请竞品套餐-300M+公网-ip+无合约-资费-99/月](https://www.v2ex.com/t/870276) 
 - [【V2EX】2022-08-02-现在-manjaro-kde-双屏幕，缩放有办法吗](https://www.v2ex.com/t/870275) 
 - [【V2EX】2022-08-02-electron-生产环境通过-cross-env-设置-NODE_ENV-失败](https://www.v2ex.com/t/870274) 
@@ -97,13 +101,6 @@
 - [【V2EX】2022-08-02-有对接过-worldpay-支付经验的朋友吗？](https://www.v2ex.com/t/870237) 
 - [【V2EX】2022-08-02-Macbook-Pro-16-寸，-7/8-激活，-7/31-黑屏无法充电，直营店维修中](https://www.v2ex.com/t/870236) 
 - [【V2EX】2022-08-02-有哪些名字或产地的西瓜是甜而且无籽？](https://www.v2ex.com/t/870235) 
-- [【V2EX】2022-08-02-15:27-现在电量-27%...-14-寸的-pro-一周简单的感受](https://www.v2ex.com/t/870234) 
-- [【V2EX】2022-08-02-刚收到条钓鱼短信，差点吃钩了](https://www.v2ex.com/t/870233) 
-- [【V2EX】2022-08-02-除了银行，哪里还可以买到以投资为目的的黄金？](https://www.v2ex.com/t/870232) 
-- [【V2EX】2022-08-02-这种情况下的-Airpods-Pro-能否申请换货](https://www.v2ex.com/t/870231) 
-- [【V2EX】2022-08-02-我做了一把无线分体键盘-ALGEBOARD](https://www.v2ex.com/t/870230) 
-- [【V2EX】2022-08-02-Python-代理问题，-requests-自带的-proxies-参数会导致请求失败](https://www.v2ex.com/t/870229) 
-- [【V2EX】2022-08-02-最近从电信-500-兆换了千兆联通，求一个馒头的💊](https://www.v2ex.com/t/870228) 
 - [【技术头条】2022-08-02-敏捷交付的工程效能治理-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15272&url=https%3A%2F%2Finsights.thoughtworks.cn%2F%3Fp%3D16439%26amp%3Bpreview%3Dtrue%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-08-02-SpringBoot四大核心组件，你知道几个？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15271&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494395%26amp%3Bidx%3D2%26amp%3Bsn%3D7625c27c0bbb10cfd2e5e1d8a09a3c74%26amp%3Bchksm%3Dfa3f0ba0cd4882b6baa602f1f11ffebc9ec2dadb2ee131a812efc29a71e64cb3959c144707ff%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-08-02-为什么现在我特讨厌Safari浏览器？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15270&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494394%26amp%3Bidx%3D1%26amp%3Bsn%3Dfb2cf1e3121547b166e7507899fd4b39%26amp%3Bchksm%3Dfa3f0ba1cd4882b709b6be7a5f79fe7fde60753959a580a0d22d902090136a0acfcdc714006d%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -145,11 +142,11 @@
 - [【开发者头条】2022-08-02-聊聊如何实现一个带幂等模板的kafka消费者监听](https://toutiao.io/k/2uia7il) 
 - [【开发者头条】2022-08-02-面向大规模分析的多源对地观测时空立方体](https://toutiao.io/k/kjh6dx2) 
 - [【开发者头条】2022-08-02-推荐-腾讯低代码平台正式开源！可拖拽、生成手机项目、PC-项目！接私活福利啊！](https://toutiao.io/k/8oqx21m) 
-- [【开发者头条】2022-08-02-推荐-团队一盘散沙，怎么破？](https://toutiao.io/k/kdzpdh5) 
-- [【开发者头条】2022-08-02-推荐-聊聊Java中代码优化的30个小技巧](https://toutiao.io/k/jv8g1r6) 
-- [【开发者头条】2022-08-02-推荐-阿里云官方-Redis-开发规范！](https://toutiao.io/k/2fqcbfi) 
-- [【开发者头条】2022-08-02-推荐-花了一周，我总结了120个数据分析指标与术语。](https://toutiao.io/k/9pzybmk) 
 - [【开发者头条】2022-08-02-推荐-老板：公司系统太多，能不能实现账号互通？](https://toutiao.io/k/g7sb904) 
+- [【开发者头条】2022-08-02-推荐-团队一盘散沙，怎么破？](https://toutiao.io/k/kdzpdh5) 
+- [【开发者头条】2022-08-02-推荐-花了一周，我总结了120个数据分析指标与术语。](https://toutiao.io/k/9pzybmk) 
+- [【开发者头条】2022-08-02-推荐-阿里云官方-Redis-开发规范！](https://toutiao.io/k/2fqcbfi) 
+- [【开发者头条】2022-08-02-推荐-聊聊Java中代码优化的30个小技巧](https://toutiao.io/k/jv8g1r6) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

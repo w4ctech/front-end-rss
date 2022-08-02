@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-02 09:41:07，:rocket: 更新条数: +2028， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-02 10:17:04，:rocket: 更新条数: +2025， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,10 @@
 </summary>
 
 
+- [2022-08-02-Web3-招聘：-Devops-开发工程师-base-新加坡（提供签证）-40-80-万](https://www.v2ex.com/t/870284) ![](assets/new.png)  
+- [2022-08-02-不能断网，最佳方案是？](https://www.v2ex.com/t/870282) ![](assets/new.png)  
+- [2022-08-02-当紧急情况发生时，我们的电脑会被控制吗](https://www.v2ex.com/t/870281) ![](assets/new.png)  
+- [2022-08-02-当你们还在讨论七夕送什么礼物给女朋友](https://www.v2ex.com/t/870280) ![](assets/new.png)  
 - [2022-08-02-深圳电信城中村可以申请竞品套餐-300M+公网-ip+无合约-资费-99/月](https://www.v2ex.com/t/870276) ![](assets/new.png)  
 - [2022-08-02-现在-manjaro-kde-双屏幕，缩放有办法吗](https://www.v2ex.com/t/870275) ![](assets/new.png)  
 - [2022-08-02-electron-生产环境通过-cross-env-设置-NODE_ENV-失败](https://www.v2ex.com/t/870274) ![](assets/new.png)  
@@ -507,10 +511,6 @@
 - [2022-08-02-做了个-Chrome-收藏夹](https://www.v2ex.com/t/870256) ![](assets/new.png)  
 - [2022-08-02-问下有啥开源的报表系统，界面美观点功能强大点。包含前后端](https://www.v2ex.com/t/870254) ![](assets/new.png)  
 - [2022-08-02-2022-年-8-月，体验不错，原生谷歌，国行或渠道可靠带保修的安卓手机存在吗？](https://www.v2ex.com/t/870252) ![](assets/new.png)  
-- [2022-08-02-有用过-Redmi-book-pro-15-锐龙版-v-友们吗?这本子怎么样?](https://www.v2ex.com/t/870250) ![](assets/new.png)  
-- [2022-08-02-Gmail-换新版-UI-了，怪好看的](https://www.v2ex.com/t/870248) ![](assets/new.png)  
-- [2022-08-02-比较好奇一个问题](https://www.v2ex.com/t/870247) ![](assets/new.png)  
-- [2022-08-02-线上问题太多，-需求迭代做不完的时候有哪些策略？](https://www.v2ex.com/t/870246) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

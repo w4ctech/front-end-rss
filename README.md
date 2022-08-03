@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-03 15:47:32，:rocket: 更新条数: +2032， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-03 16:19:05，:rocket: 更新条数: +2031， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,11 @@
 </summary>
 
 
+- [2022-08-03-2022-年，-iOS,iPadOS-上有什么值得买断或者订阅的-app-嘛？](https://www.v2ex.com/t/870521) ![](assets/new.png)  
+- [2022-08-03-各位用-Intel-Mac-Mini-和-eGPU-的，能不能帮我试试-KiCad6-?](https://www.v2ex.com/t/870520) ![](assets/new.png)  
+- [2022-08-03-穷人版家庭手机话费套餐方案分享（中国移动版）——“一卡保全家”方案](https://www.v2ex.com/t/870519) ![](assets/new.png)  
+- [2022-08-03-有在蔚来漕河泾这边工作的老铁吗,研发部门整体的工作节奏如何啊](https://www.v2ex.com/t/870518) ![](assets/new.png)  
+- [2022-08-03-拿老的-MBP-Type-C-的充电器给-21-款-14/16-寸的-MBP-有什么风险吗？](https://www.v2ex.com/t/870517) ![](assets/new.png)  
 - [2022-08-03-两个宅周六出去能玩啥？（下午的时候）](https://www.v2ex.com/t/870516) ![](assets/new.png)  
 - [2022-08-03-有没有可以把宽度不同的-pdf-合并成宽度相同的-pdf-的软件？](https://www.v2ex.com/t/870515) ![](assets/new.png)  
 - [2022-08-03-购置电器，-9.6-收京东-E-卡，量大可谈](https://www.v2ex.com/t/870514) ![](assets/new.png)  
@@ -506,11 +511,6 @@
 - [2022-08-03-招商银行-IOS-端在香港显示网络不可用](https://www.v2ex.com/t/870503) ![](assets/new.png)  
 - [2022-08-03-好想要一个-7-英寸但是配物理全键盘的-pad,6-寸也可](https://www.v2ex.com/t/870501) ![](assets/new.png)  
 - [2022-08-03-江苏联通家宽还能有公网-ipv4-吗？](https://www.v2ex.com/t/870500) ![](assets/new.png)  
-- [2022-08-03-想买个-12.9-的-iPad-pro，但是-M2-版的应该快发布了吧？](https://www.v2ex.com/t/870499) ![](assets/new.png)  
-- [2022-08-03-南京-PHP-开发者求职](https://www.v2ex.com/t/870498) ![](assets/new.png)  
-- [2022-08-03-分享自己写的一篇小说,-<<丢失的密码本>>](https://www.v2ex.com/t/870496) ![](assets/new.png)  
-- [2022-08-03-网页版-iCloud-现在这么敷衍吗?](https://www.v2ex.com/t/870495) ![](assets/new.png)  
-- [2022-08-03-这两天被李嘉诚的尚乘数科刷屏了，-200-倍中概股，市值超过阿里巴巴](https://www.v2ex.com/t/870494) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -571,8 +571,8 @@
 - [2022-08-03-爆款视频怎么做？这里或许有答案！](https://toutiao.io/k/alpr91m) ![](assets/new.png)  
 - [2022-08-03-你的工具包已到货「GitHub-热点速览-v.22.31」](https://toutiao.io/k/0od2mp4) ![](assets/new.png)  
 - [2022-08-03-阿里云技术专家邓青琳：云上跨可用区容灾和异地多活最佳实践](https://toutiao.io/k/5p9axdp) ![](assets/new.png)  
+- [2022-08-03-推荐-老板：公司系统太多，能不能实现账号互通？](https://toutiao.io/k/g7sb904) ![](assets/new.png)  
 - [2022-08-03-推荐-阿里云官方-Redis-开发规范！](https://toutiao.io/k/2fqcbfi) ![](assets/new.png)  
-- [2022-08-03-推荐-腾讯低代码平台正式开源！可拖拽、生成手机项目、PC-项目！接私活福利啊！](https://toutiao.io/k/8oqx21m) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

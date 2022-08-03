@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-03 09:13:56，:rocket: 更新条数: +2030， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-03 09:41:22，:rocket: 更新条数: +2029， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-08-03-设计个开发者专用的手机浏览器，会有这个需求吗？](https://www.v2ex.com/t/870467) ![](assets/new.png)  
+- [2022-08-03-TalentOrg-✖️-Ruby-China-七夕社区轻活动-分享-“我与-Ruby-的故事”](https://www.v2ex.com/t/870466) ![](assets/new.png)  
 - [2022-08-03-明天七夕，女生给你们送的啥？](https://www.v2ex.com/t/870465) ![](assets/new.png)  
 - [2022-08-03-工作需求转租-八方城-房东直租中介勿扰](https://www.v2ex.com/t/870464) ![](assets/new.png)  
 - [2022-08-03-185cm，-185-斤求推荐人体工学椅，预算-2K-3K](https://www.v2ex.com/t/870462) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-08-03-mac-连接戴尔-u2723qx，使用菊花链，第二个外接显示器必须也是同款吗？](https://www.v2ex.com/t/870446) ![](assets/new.png)  
 - [2022-08-03-求教，-Excel-存储的题库，怎么快速生成题本和解析](https://www.v2ex.com/t/870445) ![](assets/new.png)  
 - [2022-08-03-想入手-Surface-Laptop-4，请问大家有使用经验可以分享吗](https://www.v2ex.com/t/870444) ![](assets/new.png)  
-- [2022-08-03-意外发现-macOS-自带的词典还挺好用。](https://www.v2ex.com/t/870443) ![](assets/new.png)  
-- [2022-08-03-批处理大佬请进](https://www.v2ex.com/t/870440) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -561,18 +561,18 @@
 - [2022-08-03-有了这篇-Kubernetes-的介绍，它的原理秒懂！](https://toutiao.io/k/jva08b5) ![](assets/new.png)  
 - [2022-08-03-敏捷交付的工程效能治理](https://toutiao.io/k/my2iq3v) ![](assets/new.png)  
 - [2022-08-03-用户身份标识与账号体系实践](https://toutiao.io/k/3qlqy22) ![](assets/new.png)  
-- [2022-08-03-浅谈Java中的池化技术](https://toutiao.io/k/u2sp497) ![](assets/new.png)  
 - [2022-08-03-推荐学Java——数据表高级操作](https://toutiao.io/k/t7u8kbm) ![](assets/new.png)  
+- [2022-08-03-浅谈Java中的池化技术](https://toutiao.io/k/u2sp497) ![](assets/new.png)  
 - [2022-08-03-解读Meta-元宇宙白皮书-：9大亮点，80-万亿美元市场！（中英文PDF下载）](https://toutiao.io/k/ppkezys) ![](assets/new.png)  
 - [2022-08-03-爆款视频怎么做？这里或许有答案！](https://toutiao.io/k/alpr91m) ![](assets/new.png)  
 - [2022-08-03-你的工具包已到货「GitHub-热点速览-v.22.31」](https://toutiao.io/k/0od2mp4) ![](assets/new.png)  
 - [2022-08-03-Redis-内存满了怎么办？这样置才正确！](https://toutiao.io/k/ba65614) ![](assets/new.png)  
-- [2022-08-03-阿里云技术专家邓青琳：云上跨可用区容灾和异地多活最佳实践](https://toutiao.io/k/5p9axdp) ![](assets/new.png)  
 - [2022-08-03-40+-倍提升，详解-JuiceFS-元数据备份恢复性能优化方法](https://toutiao.io/k/1wyum8l) ![](assets/new.png)  
 - [2022-08-03-GO-RESTY/RESTY中TRACE-INFO说明](https://toutiao.io/k/fqjtjqk) ![](assets/new.png)  
+- [2022-08-03-阿里云技术专家邓青琳：云上跨可用区容灾和异地多活最佳实践](https://toutiao.io/k/5p9axdp) ![](assets/new.png)  
 - [2022-08-03-架构设计杂谈](https://toutiao.io/k/ykxe5n5) ![](assets/new.png)  
-- [2022-08-03-推荐-腾讯低代码平台正式开源！可拖拽、生成手机项目、PC-项目！接私活福利啊！](https://toutiao.io/k/8oqx21m) ![](assets/new.png)  
 - [2022-08-03-推荐-聊聊Java中代码优化的30个小技巧](https://toutiao.io/k/jv8g1r6) ![](assets/new.png)  
+- [2022-08-03-推荐-腾讯低代码平台正式开源！可拖拽、生成手机项目、PC-项目！接私活福利啊！](https://toutiao.io/k/8oqx21m) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

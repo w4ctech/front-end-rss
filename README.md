@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-03 01:13:33，:rocket: 更新条数: +2015， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-03 03:38:33，:rocket: 更新条数: +2024， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,26 +491,26 @@
 </summary>
 
 
-- [2022-08-03-不沾-JS,-布局用-flexbox-还是-grid,-有更先进的吗?](https://www.v2ex.com/t/870347) ![](assets/new.png)  
-- [2022-08-03-卖掉一件物品后-“回血”-若干元，用英文哪个词表示最准确？](https://www.v2ex.com/t/870345) ![](assets/new.png)  
-- [2022-08-02-如何阅读极其复杂的-C++程序](https://www.v2ex.com/t/870342) ![](assets/new.png)  
-- [2022-08-02-AdGuard-DNS-filter-是不是出问题了？](https://www.v2ex.com/t/870340) ![](assets/new.png)  
-- [2022-08-02-20220803-午夜俱乐部](https://www.v2ex.com/t/870337) ![](assets/new.png)  
-- [2022-08-02-8-折出租搬瓦工传家宝三网-GIA-CN2-年付-37.49-刀款](https://www.v2ex.com/t/870335) ![](assets/new.png)  
-- [2022-08-02-阿里云香港-ECS-的一个坑](https://www.v2ex.com/t/870334) ![](assets/new.png)  
-- [2022-08-02-Mac-搜狗输入法中文有问题](https://www.v2ex.com/t/870333) ![](assets/new.png)  
-- [2022-08-02-试了一下-2-小时我能跑多远](https://www.v2ex.com/t/870332) ![](assets/new.png)  
-- [2022-08-02-infuse-如何识别电视剧？](https://www.v2ex.com/t/870331) ![](assets/new.png)  
-- [2022-08-02-请教-Android-开发大佬一个问题](https://www.v2ex.com/t/870327) ![](assets/new.png)  
-- [2022-08-02-超宽屏显示器体验如何？](https://www.v2ex.com/t/870326) ![](assets/new.png)  
-- [2022-08-02-如何-windows-安装镜像带预装软件和分区？](https://www.v2ex.com/t/870325) ![](assets/new.png)  
-- [2022-08-02-远程全职-月薪-20K-30K-RMB,-招聘安卓开发工程师](https://www.v2ex.com/t/870324) ![](assets/new.png)  
-- [2022-08-02-MySQL-的-inner-join-顺序是否会影响最后查询的性能](https://www.v2ex.com/t/870321) ![](assets/new.png)  
-- [2022-08-02-能在-iPad-上用三星的-spen-吗](https://www.v2ex.com/t/870320) ![](assets/new.png)  
-- [2022-08-02-mac-新手，关于-macOS-下面连续看图的问题](https://www.v2ex.com/t/870319) ![](assets/new.png)  
-- [2022-08-02-杭州/广州/上海/北京-网易互娱、雷火、互联网秋招开始啦！校招、社招都有！](https://www.v2ex.com/t/870318) ![](assets/new.png)  
-- [2022-08-02-SQL-不会写了，求问一个简单-SQL-语句](https://www.v2ex.com/t/870317) ![](assets/new.png)  
-- [2022-08-02-有人知道为什么小狼毫在输入一个字母-d-的时候候选字是空白呢](https://www.v2ex.com/t/870316) ![](assets/new.png)  
+- [2022-08-03-iPhone-的双卡信号感觉有点拉垮](https://www.v2ex.com/t/870397) ![](assets/new.png)  
+- [2022-08-03-有玩血缘的朋友吗？-PS4-主机玩家](https://www.v2ex.com/t/870396) ![](assets/new.png)  
+- [2022-08-03-用-e5-cpu-批量视频转码效率如何？](https://www.v2ex.com/t/870395) ![](assets/new.png)  
+- [2022-08-03-请问-Windows-多桌面怎么设置快捷键切换到指定的桌面？](https://www.v2ex.com/t/870394) ![](assets/new.png)  
+- [2022-08-03-有在华为搞计算机视觉的-V-友吗？](https://www.v2ex.com/t/870393) ![](assets/new.png)  
+- [2022-08-03-花点时间做了个-Chrome-填充表单扩展](https://www.v2ex.com/t/870391) ![](assets/new.png)  
+- [2022-08-03-蛋白粉有推荐的吗？最近想健身增肌](https://www.v2ex.com/t/870387) ![](assets/new.png)  
+- [2022-08-03-微信网页授权在手机端打开空白，在电脑端和开发者工具可以正常授权获取-openid](https://www.v2ex.com/t/870386) ![](assets/new.png)  
+- [2022-08-03-这个电视剧用一个截图说明-AI-的本质是什么](https://www.v2ex.com/t/870385) ![](assets/new.png)  
+- [2022-08-03-P30-罢工了，-P50-还是-S22，换啥手机合适呢？](https://www.v2ex.com/t/870384) ![](assets/new.png)  
+- [2022-08-03-mac-ssh-远程-报错额](https://www.v2ex.com/t/870383) ![](assets/new.png)  
+- [2022-08-03-求助,a-table-的页码怎么固定在底部啊](https://www.v2ex.com/t/870380) ![](assets/new.png)  
+- [2022-08-03-为什么-Github-创建仓库提交代码会收到这个邮件？](https://www.v2ex.com/t/870379) ![](assets/new.png)  
+- [2022-08-03-Spotify-加好友，互相分享一下歌单？可以直接搜索:-spotify:user:spotify-per-加我](https://www.v2ex.com/t/870378) ![](assets/new.png)  
+- [2022-08-03-浏览器扩展-一个-Chrome/Edge-的新标签页扩展程序---NaiveTab](https://www.v2ex.com/t/870377) ![](assets/new.png)  
+- [2022-08-03-求推荐问卷调查平台或离线软件](https://www.v2ex.com/t/870376) ![](assets/new.png)  
+- [2022-08-03-Python-能不能像-node-一样管理包](https://www.v2ex.com/t/870375) ![](assets/new.png)  
+- [2022-08-03-paw-添加-json-参数闪退](https://www.v2ex.com/t/870374) ![](assets/new.png)  
+- [2022-08-03-写代码用的-4K-60Hz-显示器，预算-1500-有没有推荐的？](https://www.v2ex.com/t/870373) ![](assets/new.png)  
+- [2022-08-03-冲突不可避免,-如何在那时保全自己和家人以及现在能做什么准备?](https://www.v2ex.com/t/870372) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -554,20 +554,24 @@
 
 
 - [2022-08-03-【大厂面试真题解析】虾皮-Shopee-后端一面十四问](https://toutiao.io/k/pol71im) ![](assets/new.png)  
+- [2022-08-03-有意思，这个工具可以让你像-GitLab-一样管理数据库](https://toutiao.io/k/piqqkco) ![](assets/new.png)  
 - [2022-08-03-go并发](https://toutiao.io/k/qx0xu7l) ![](assets/new.png)  
 - [2022-08-03-代码重构：面向单元测试](https://toutiao.io/k/8lesyke) ![](assets/new.png)  
-- [2022-08-03-有意思，这个工具可以让你像-GitLab-一样管理数据库](https://toutiao.io/k/piqqkco) ![](assets/new.png)  
 - [2022-08-03-中原银行实时风控体系建设实践](https://toutiao.io/k/nyzmdhx) ![](assets/new.png)  
-- [2022-08-03-推荐学Java——数据表高级操作](https://toutiao.io/k/t7u8kbm) ![](assets/new.png)  
-- [2022-08-03-浅谈Java中的池化技术](https://toutiao.io/k/u2sp497) ![](assets/new.png)  
 - [2022-08-03-有了这篇-Kubernetes-的介绍，它的原理秒懂！](https://toutiao.io/k/jva08b5) ![](assets/new.png)  
 - [2022-08-03-敏捷交付的工程效能治理](https://toutiao.io/k/my2iq3v) ![](assets/new.png)  
+- [2022-08-03-推荐学Java——数据表高级操作](https://toutiao.io/k/t7u8kbm) ![](assets/new.png)  
 - [2022-08-03-解读Meta-元宇宙白皮书-：9大亮点，80-万亿美元市场！（中英文PDF下载）](https://toutiao.io/k/ppkezys) ![](assets/new.png)  
+- [2022-08-03-浅谈Java中的池化技术](https://toutiao.io/k/u2sp497) ![](assets/new.png)  
 - [2022-08-03-爆款视频怎么做？这里或许有答案！](https://toutiao.io/k/alpr91m) ![](assets/new.png)  
-- [2022-08-03-推荐-阿里云官方-Redis-开发规范！](https://toutiao.io/k/2fqcbfi) ![](assets/new.png)  
-- [2022-08-03-推荐-花了一周，我总结了120个数据分析指标与术语。](https://toutiao.io/k/9pzybmk) ![](assets/new.png)  
+- [2022-08-03-用户身份标识与账号体系实践](https://toutiao.io/k/3qlqy22) ![](assets/new.png)  
+- [2022-08-03-你的工具包已到货「GitHub-热点速览-v.22.31」](https://toutiao.io/k/0od2mp4) ![](assets/new.png)  
+- [2022-08-03-Redis-内存满了怎么办？这样置才正确！](https://toutiao.io/k/ba65614) ![](assets/new.png)  
+- [2022-08-03-阿里云技术专家邓青琳：云上跨可用区容灾和异地多活最佳实践](https://toutiao.io/k/5p9axdp) ![](assets/new.png)  
 - [2022-08-03-推荐-老板：公司系统太多，能不能实现账号互通？](https://toutiao.io/k/g7sb904) ![](assets/new.png)  
+- [2022-08-03-推荐-花了一周，我总结了120个数据分析指标与术语。](https://toutiao.io/k/9pzybmk) ![](assets/new.png)  
 - [2022-08-03-推荐-腾讯低代码平台正式开源！可拖拽、生成手机项目、PC-项目！接私活福利啊！](https://toutiao.io/k/8oqx21m) ![](assets/new.png)  
+- [2022-08-03-推荐-阿里云官方-Redis-开发规范！](https://toutiao.io/k/2fqcbfi) ![](assets/new.png)  
 - [2022-08-03-推荐-聊聊Java中代码优化的30个小技巧](https://toutiao.io/k/jv8g1r6) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

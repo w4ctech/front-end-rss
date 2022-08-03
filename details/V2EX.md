@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2022-08-03 16:57:11。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-08-03 17:19:03。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-08-03-boxcryptor-VS-cryptomator，哪个更可靠，更适合长期使用？](https://www.v2ex.com/t/870527) 
+- [2022-08-03-长期目标如何处理？](https://www.v2ex.com/t/870526) 
 - [2022-08-03-14-M1-pro-视频剪辑-Final-Cut-Pro-X-如何使用三个显示器进行剪辑？](https://www.v2ex.com/t/870524) 
 - [2022-08-03-侧重问一下，-mac-上有安卓模拟机软件可以用吗？谢谢](https://www.v2ex.com/t/870523) 
 - [2022-08-03-2022-年，-iOS,iPadOS-上有什么值得买断或者订阅的-app-嘛？](https://www.v2ex.com/t/870521) 
@@ -44,7 +46,3 @@
 - [2022-08-03-运行-mariadb-出错-innodb=off](https://www.v2ex.com/t/870481) 
 - [2022-08-03-单身🐶的七夕都这么卷了么？](https://www.v2ex.com/t/870480) 
 - [2022-08-03-关于-React-State-的立即计算和懒计算，不太理解，希望大佬能够解惑。](https://www.v2ex.com/t/870479) 
-- [2022-08-03-偶然间，发现了一个选购笔记本的好方法。](https://www.v2ex.com/t/870478) 
-- [2022-08-03-SPLATOON3（斯普拉遁-3）要发售了](https://www.v2ex.com/t/870477) 
-- [2022-08-03-杭州移动成功开通公网-ip-但是-1000M-还是跑不满-想换猫棒-求建议](https://www.v2ex.com/t/870476) 
-- [2022-08-03-装黑苹果的老板用-12-代-CPU，下架-10-代-CPU-了](https://www.v2ex.com/t/870475) 

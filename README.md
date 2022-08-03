@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-03 03:38:33，:rocket: 更新条数: +2024， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-03 05:01:09，:rocket: 更新条数: +2022， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,10 @@
 </summary>
 
 
+- [2022-08-03-Type-C-转-SATA，-3.5-寸机械硬盘，有不需要外接电源稳定工作的易驱线或者盒子？](https://www.v2ex.com/t/870406) ![](assets/new.png)  
+- [2022-08-03-群晖-NAS-的-Cloud-Sync-勾选-“加密”-同步到百度盘靠谱吗？](https://www.v2ex.com/t/870402) ![](assets/new.png)  
+- [2022-08-03-系统崩了，怎么恢复](https://www.v2ex.com/t/870401) ![](assets/new.png)  
+- [2022-08-03-分享一个-GitHub-工具，查看-Repo-的-Forks，并可根据各项指标（Stars、更新时间等）排序](https://www.v2ex.com/t/870399) ![](assets/new.png)  
 - [2022-08-03-iPhone-的双卡信号感觉有点拉垮](https://www.v2ex.com/t/870397) ![](assets/new.png)  
 - [2022-08-03-有玩血缘的朋友吗？-PS4-主机玩家](https://www.v2ex.com/t/870396) ![](assets/new.png)  
 - [2022-08-03-用-e5-cpu-批量视频转码效率如何？](https://www.v2ex.com/t/870395) ![](assets/new.png)  
@@ -507,10 +511,6 @@
 - [2022-08-03-Spotify-加好友，互相分享一下歌单？可以直接搜索:-spotify:user:spotify-per-加我](https://www.v2ex.com/t/870378) ![](assets/new.png)  
 - [2022-08-03-浏览器扩展-一个-Chrome/Edge-的新标签页扩展程序---NaiveTab](https://www.v2ex.com/t/870377) ![](assets/new.png)  
 - [2022-08-03-求推荐问卷调查平台或离线软件](https://www.v2ex.com/t/870376) ![](assets/new.png)  
-- [2022-08-03-Python-能不能像-node-一样管理包](https://www.v2ex.com/t/870375) ![](assets/new.png)  
-- [2022-08-03-paw-添加-json-参数闪退](https://www.v2ex.com/t/870374) ![](assets/new.png)  
-- [2022-08-03-写代码用的-4K-60Hz-显示器，预算-1500-有没有推荐的？](https://www.v2ex.com/t/870373) ![](assets/new.png)  
-- [2022-08-03-冲突不可避免,-如何在那时保全自己和家人以及现在能做什么准备?](https://www.v2ex.com/t/870372) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -555,23 +555,23 @@
 
 - [2022-08-03-【大厂面试真题解析】虾皮-Shopee-后端一面十四问](https://toutiao.io/k/pol71im) ![](assets/new.png)  
 - [2022-08-03-有意思，这个工具可以让你像-GitLab-一样管理数据库](https://toutiao.io/k/piqqkco) ![](assets/new.png)  
-- [2022-08-03-go并发](https://toutiao.io/k/qx0xu7l) ![](assets/new.png)  
 - [2022-08-03-代码重构：面向单元测试](https://toutiao.io/k/8lesyke) ![](assets/new.png)  
+- [2022-08-03-go并发](https://toutiao.io/k/qx0xu7l) ![](assets/new.png)  
 - [2022-08-03-中原银行实时风控体系建设实践](https://toutiao.io/k/nyzmdhx) ![](assets/new.png)  
 - [2022-08-03-有了这篇-Kubernetes-的介绍，它的原理秒懂！](https://toutiao.io/k/jva08b5) ![](assets/new.png)  
 - [2022-08-03-敏捷交付的工程效能治理](https://toutiao.io/k/my2iq3v) ![](assets/new.png)  
-- [2022-08-03-推荐学Java——数据表高级操作](https://toutiao.io/k/t7u8kbm) ![](assets/new.png)  
-- [2022-08-03-解读Meta-元宇宙白皮书-：9大亮点，80-万亿美元市场！（中英文PDF下载）](https://toutiao.io/k/ppkezys) ![](assets/new.png)  
-- [2022-08-03-浅谈Java中的池化技术](https://toutiao.io/k/u2sp497) ![](assets/new.png)  
-- [2022-08-03-爆款视频怎么做？这里或许有答案！](https://toutiao.io/k/alpr91m) ![](assets/new.png)  
 - [2022-08-03-用户身份标识与账号体系实践](https://toutiao.io/k/3qlqy22) ![](assets/new.png)  
-- [2022-08-03-你的工具包已到货「GitHub-热点速览-v.22.31」](https://toutiao.io/k/0od2mp4) ![](assets/new.png)  
+- [2022-08-03-推荐学Java——数据表高级操作](https://toutiao.io/k/t7u8kbm) ![](assets/new.png)  
+- [2022-08-03-浅谈Java中的池化技术](https://toutiao.io/k/u2sp497) ![](assets/new.png)  
+- [2022-08-03-解读Meta-元宇宙白皮书-：9大亮点，80-万亿美元市场！（中英文PDF下载）](https://toutiao.io/k/ppkezys) ![](assets/new.png)  
+- [2022-08-03-爆款视频怎么做？这里或许有答案！](https://toutiao.io/k/alpr91m) ![](assets/new.png)  
 - [2022-08-03-Redis-内存满了怎么办？这样置才正确！](https://toutiao.io/k/ba65614) ![](assets/new.png)  
+- [2022-08-03-你的工具包已到货「GitHub-热点速览-v.22.31」](https://toutiao.io/k/0od2mp4) ![](assets/new.png)  
 - [2022-08-03-阿里云技术专家邓青琳：云上跨可用区容灾和异地多活最佳实践](https://toutiao.io/k/5p9axdp) ![](assets/new.png)  
+- [2022-08-03-推荐-阿里云官方-Redis-开发规范！](https://toutiao.io/k/2fqcbfi) ![](assets/new.png)  
 - [2022-08-03-推荐-老板：公司系统太多，能不能实现账号互通？](https://toutiao.io/k/g7sb904) ![](assets/new.png)  
 - [2022-08-03-推荐-花了一周，我总结了120个数据分析指标与术语。](https://toutiao.io/k/9pzybmk) ![](assets/new.png)  
 - [2022-08-03-推荐-腾讯低代码平台正式开源！可拖拽、生成手机项目、PC-项目！接私活福利啊！](https://toutiao.io/k/8oqx21m) ![](assets/new.png)  
-- [2022-08-03-推荐-阿里云官方-Redis-开发规范！](https://toutiao.io/k/2fqcbfi) ![](assets/new.png)  
 - [2022-08-03-推荐-聊聊Java中代码优化的30个小技巧](https://toutiao.io/k/jv8g1r6) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

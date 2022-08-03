@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-08-03 03:38:33。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-08-03 05:01:09。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,10 @@
 </summary>
 
 
+- [【V2EX】2022-08-03-Type-C-转-SATA，-3.5-寸机械硬盘，有不需要外接电源稳定工作的易驱线或者盒子？](https://www.v2ex.com/t/870406) 
+- [【V2EX】2022-08-03-群晖-NAS-的-Cloud-Sync-勾选-“加密”-同步到百度盘靠谱吗？](https://www.v2ex.com/t/870402) 
+- [【V2EX】2022-08-03-系统崩了，怎么恢复](https://www.v2ex.com/t/870401) 
+- [【V2EX】2022-08-03-分享一个-GitHub-工具，查看-Repo-的-Forks，并可根据各项指标（Stars、更新时间等）排序](https://www.v2ex.com/t/870399) 
 - [【V2EX】2022-08-03-iPhone-的双卡信号感觉有点拉垮](https://www.v2ex.com/t/870397) 
 - [【V2EX】2022-08-03-有玩血缘的朋友吗？-PS4-主机玩家](https://www.v2ex.com/t/870396) 
 - [【V2EX】2022-08-03-用-e5-cpu-批量视频转码效率如何？](https://www.v2ex.com/t/870395) 
@@ -87,7 +91,6 @@
 - [【V2EX】2022-08-03-Python-能不能像-node-一样管理包](https://www.v2ex.com/t/870375) 
 - [【V2EX】2022-08-03-paw-添加-json-参数闪退](https://www.v2ex.com/t/870374) 
 - [【V2EX】2022-08-03-写代码用的-4K-60Hz-显示器，预算-1500-有没有推荐的？](https://www.v2ex.com/t/870373) 
-- [【V2EX】2022-08-03-冲突不可避免,-如何在那时保全自己和家人以及现在能做什么准备?](https://www.v2ex.com/t/870372) 
 - [【V2EX】2022-08-03-Swift-官方的文档马上看完了.有什么开源框架-orApp-适合去研究巩固下这方面知识的吗](https://www.v2ex.com/t/870371) 
 - [【V2EX】2022-08-03-海康威视行车记录仪专用视频格式](https://www.v2ex.com/t/870370) 
 - [【V2EX】2022-08-03-二本计算机求一个努力方向](https://www.v2ex.com/t/870369) 
@@ -101,11 +104,6 @@
 - [【V2EX】2022-08-03-4G-路由器电脑连-wifi-有网，手机连缺没有网，很奇怪](https://www.v2ex.com/t/870360) 
 - [【V2EX】2022-08-03-有目标，但是没动力，是不是已成咸鱼了](https://www.v2ex.com/t/870359) 
 - [【V2EX】2022-08-03-既然-Brave-是完全开源的，那有没有移除钱包、新闻之类的功能的更轻便的-Brave？](https://www.v2ex.com/t/870357) 
-- [【V2EX】2022-08-03-请问-win-有类似快照的功能吗](https://www.v2ex.com/t/870356) 
-- [【V2EX】2022-08-03-用腾讯云-cos-对象存储下了-100G-的文件，收费-40-元](https://www.v2ex.com/t/870353) 
-- [【V2EX】2022-08-03-如果开源可以当成一个职业](https://www.v2ex.com/t/870352) 
-- [【V2EX】2022-08-03-寻找一起创业的小伙伴……](https://www.v2ex.com/t/870351) 
-- [【V2EX】2022-08-03-电报会员降价土区只要-13.49TRY-一个月了](https://www.v2ex.com/t/870349) 
 - [【技术头条】2022-08-03-敏捷交付的工程效能治理-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15272&url=https%3A%2F%2Finsights.thoughtworks.cn%2F%3Fp%3D16439%26amp%3Bpreview%3Dtrue%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-08-03-SpringBoot四大核心组件，你知道几个？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15271&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494395%26amp%3Bidx%3D2%26amp%3Bsn%3D7625c27c0bbb10cfd2e5e1d8a09a3c74%26amp%3Bchksm%3Dfa3f0ba0cd4882b6baa602f1f11ffebc9ec2dadb2ee131a812efc29a71e64cb3959c144707ff%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-08-03-为什么现在我特讨厌Safari浏览器？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15270&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494394%26amp%3Bidx%3D1%26amp%3Bsn%3Dfb2cf1e3121547b166e7507899fd4b39%26amp%3Bchksm%3Dfa3f0ba1cd4882b709b6be7a5f79fe7fde60753959a580a0d22d902090136a0acfcdc714006d%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -128,23 +126,23 @@
 - [【技术头条】2022-08-03-作弊条：SSH-的-ProxyJump-跳板服务-blog.delphij.net](https://blogread.cn/news/go.php?idItem=15253&url=https%3A%2F%2Fblog.delphij.net%2Fposts%2F2022%2F06%2Fssh-proxyjump%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【开发者头条】2022-08-03-【大厂面试真题解析】虾皮-Shopee-后端一面十四问](https://toutiao.io/k/pol71im) 
 - [【开发者头条】2022-08-03-有意思，这个工具可以让你像-GitLab-一样管理数据库](https://toutiao.io/k/piqqkco) 
-- [【开发者头条】2022-08-03-go并发](https://toutiao.io/k/qx0xu7l) 
 - [【开发者头条】2022-08-03-代码重构：面向单元测试](https://toutiao.io/k/8lesyke) 
+- [【开发者头条】2022-08-03-go并发](https://toutiao.io/k/qx0xu7l) 
 - [【开发者头条】2022-08-03-中原银行实时风控体系建设实践](https://toutiao.io/k/nyzmdhx) 
 - [【开发者头条】2022-08-03-有了这篇-Kubernetes-的介绍，它的原理秒懂！](https://toutiao.io/k/jva08b5) 
 - [【开发者头条】2022-08-03-敏捷交付的工程效能治理](https://toutiao.io/k/my2iq3v) 
-- [【开发者头条】2022-08-03-推荐学Java——数据表高级操作](https://toutiao.io/k/t7u8kbm) 
-- [【开发者头条】2022-08-03-解读Meta-元宇宙白皮书-：9大亮点，80-万亿美元市场！（中英文PDF下载）](https://toutiao.io/k/ppkezys) 
-- [【开发者头条】2022-08-03-浅谈Java中的池化技术](https://toutiao.io/k/u2sp497) 
-- [【开发者头条】2022-08-03-爆款视频怎么做？这里或许有答案！](https://toutiao.io/k/alpr91m) 
 - [【开发者头条】2022-08-03-用户身份标识与账号体系实践](https://toutiao.io/k/3qlqy22) 
-- [【开发者头条】2022-08-03-你的工具包已到货「GitHub-热点速览-v.22.31」](https://toutiao.io/k/0od2mp4) 
+- [【开发者头条】2022-08-03-推荐学Java——数据表高级操作](https://toutiao.io/k/t7u8kbm) 
+- [【开发者头条】2022-08-03-浅谈Java中的池化技术](https://toutiao.io/k/u2sp497) 
+- [【开发者头条】2022-08-03-解读Meta-元宇宙白皮书-：9大亮点，80-万亿美元市场！（中英文PDF下载）](https://toutiao.io/k/ppkezys) 
+- [【开发者头条】2022-08-03-爆款视频怎么做？这里或许有答案！](https://toutiao.io/k/alpr91m) 
 - [【开发者头条】2022-08-03-Redis-内存满了怎么办？这样置才正确！](https://toutiao.io/k/ba65614) 
+- [【开发者头条】2022-08-03-你的工具包已到货「GitHub-热点速览-v.22.31」](https://toutiao.io/k/0od2mp4) 
 - [【开发者头条】2022-08-03-阿里云技术专家邓青琳：云上跨可用区容灾和异地多活最佳实践](https://toutiao.io/k/5p9axdp) 
+- [【开发者头条】2022-08-03-推荐-阿里云官方-Redis-开发规范！](https://toutiao.io/k/2fqcbfi) 
 - [【开发者头条】2022-08-03-推荐-老板：公司系统太多，能不能实现账号互通？](https://toutiao.io/k/g7sb904) 
 - [【开发者头条】2022-08-03-推荐-花了一周，我总结了120个数据分析指标与术语。](https://toutiao.io/k/9pzybmk) 
 - [【开发者头条】2022-08-03-推荐-腾讯低代码平台正式开源！可拖拽、生成手机项目、PC-项目！接私活福利啊！](https://toutiao.io/k/8oqx21m) 
-- [【开发者头条】2022-08-03-推荐-阿里云官方-Redis-开发规范！](https://toutiao.io/k/2fqcbfi) 
 - [【开发者头条】2022-08-03-推荐-聊聊Java中代码优化的30个小技巧](https://toutiao.io/k/jv8g1r6) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>

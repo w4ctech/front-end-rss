@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-03 11:37:49，:rocket: 更新条数: +2030， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-03 12:27:41，:rocket: 更新条数: +2032， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,10 @@
 </summary>
 
 
+- [2022-08-03-这两天被李嘉诚的尚乘数科刷屏了，-200-倍中概股，市值超过阿里巴巴](https://www.v2ex.com/t/870494) ![](assets/new.png)  
+- [2022-08-03-小火箭的-ping-不准的吗？-PING-通但无法连接！](https://www.v2ex.com/t/870493) ![](assets/new.png)  
+- [2022-08-03-如何配置一台小型-server](https://www.v2ex.com/t/870492) ![](assets/new.png)  
+- [2022-08-03-丰台六里桥-8000-以内能租到小三居吗？](https://www.v2ex.com/t/870491) ![](assets/new.png)  
 - [2022-08-03-有人治疗过脸上的痘坑和斑吗？](https://www.v2ex.com/t/870490) ![](assets/new.png)  
 - [2022-08-03-MacOS-上用什么好用的云盘挂载工具吗？](https://www.v2ex.com/t/870489) ![](assets/new.png)  
 - [2022-08-03-请教一下-google-首页的-推荐下载广告要怎么关掉](https://www.v2ex.com/t/870488) ![](assets/new.png)  
@@ -507,10 +511,6 @@
 - [2022-08-03-装黑苹果的老板用-12-代-CPU，下架-10-代-CPU-了](https://www.v2ex.com/t/870475) ![](assets/new.png)  
 - [2022-08-03-关于-TL-xdr3010-的奇怪问题](https://www.v2ex.com/t/870474) ![](assets/new.png)  
 - [2022-08-03-被闲鱼的申诉机制给恶心到了](https://www.v2ex.com/t/870472) ![](assets/new.png)  
-- [2022-08-03-我又来啦，-SwiftUI-开发的第-3-个-app，熊猫私密相册-｜-附永久码](https://www.v2ex.com/t/870471) ![](assets/new.png)  
-- [2022-08-03-macos-先知型耗电监控软件](https://www.v2ex.com/t/870470) ![](assets/new.png)  
-- [2022-08-03-大家今天有遇到腾讯云成都节点故障吗](https://www.v2ex.com/t/870469) ![](assets/new.png)  
-- [2022-08-03-网络穿透的问题](https://www.v2ex.com/t/870468) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -564,14 +564,14 @@
 - [2022-08-03-浅谈Java中的池化技术](https://toutiao.io/k/u2sp497) ![](assets/new.png)  
 - [2022-08-03-推荐学Java——数据表高级操作](https://toutiao.io/k/t7u8kbm) ![](assets/new.png)  
 - [2022-08-03-解读Meta-元宇宙白皮书-：9大亮点，80-万亿美元市场！（中英文PDF下载）](https://toutiao.io/k/ppkezys) ![](assets/new.png)  
-- [2022-08-03-爆款视频怎么做？这里或许有答案！](https://toutiao.io/k/alpr91m) ![](assets/new.png)  
 - [2022-08-03-40+-倍提升，详解-JuiceFS-元数据备份恢复性能优化方法](https://toutiao.io/k/1wyum8l) ![](assets/new.png)  
 - [2022-08-03-GO-RESTY/RESTY中TRACE-INFO说明](https://toutiao.io/k/fqjtjqk) ![](assets/new.png)  
+- [2022-08-03-爆款视频怎么做？这里或许有答案！](https://toutiao.io/k/alpr91m) ![](assets/new.png)  
 - [2022-08-03-架构设计杂谈](https://toutiao.io/k/ykxe5n5) ![](assets/new.png)  
 - [2022-08-03-你的工具包已到货「GitHub-热点速览-v.22.31」](https://toutiao.io/k/0od2mp4) ![](assets/new.png)  
 - [2022-08-03-Redis-内存满了怎么办？这样置才正确！](https://toutiao.io/k/ba65614) ![](assets/new.png)  
 - [2022-08-03-阿里云技术专家邓青琳：云上跨可用区容灾和异地多活最佳实践](https://toutiao.io/k/5p9axdp) ![](assets/new.png)  
-- [2022-08-03-推荐-阿里云官方-Redis-开发规范！](https://toutiao.io/k/2fqcbfi) ![](assets/new.png)  
+- [2022-08-03-推荐-花了一周，我总结了120个数据分析指标与术语。](https://toutiao.io/k/9pzybmk) ![](assets/new.png)  
 - [2022-08-03-推荐-老板：公司系统太多，能不能实现账号互通？](https://toutiao.io/k/g7sb904) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

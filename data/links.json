@@ -9953,6 +9953,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "ESBuild 支持龙芯 loong64 了",
+        "link": "https://www.v2ex.com/t/870534",
+        "date": "2022-08-03"
+      },
+      {
         "title": "请问 thunderbird 能否在[全局]范围内以[仅][纯文本格式]发信?",
         "link": "https://www.v2ex.com/t/870533",
         "date": "2022-08-03"
@@ -10140,11 +10145,6 @@
       {
         "title": "请教一下 google 首页的 推荐下载广告要怎么关掉",
         "link": "https://www.v2ex.com/t/870488",
-        "date": "2022-08-03"
-      },
-      {
-        "title": "[macOS] 接口测试工具 Gotcha HTTP Client 更新 1.5.0 版本，新增动态变量，批量导出接口文档等多个好用的功能。",
-        "link": "https://www.v2ex.com/t/870484",
         "date": "2022-08-03"
       }
     ]
@@ -10352,8 +10352,13 @@
         "date": "2022-08-03"
       },
       {
-        "title": "[推荐] 聊聊Java中代码优化的30个小技巧",
-        "link": "https://toutiao.io/k/jv8g1r6",
+        "title": "[推荐] 老板：公司系统太多，能不能实现账号互通？",
+        "link": "https://toutiao.io/k/g7sb904",
+        "date": "2022-08-03"
+      },
+      {
+        "title": "[推荐] 阿里云官方 Redis 开发规范！",
+        "link": "https://toutiao.io/k/2fqcbfi",
         "date": "2022-08-03"
       },
       {
@@ -10362,13 +10367,8 @@
         "date": "2022-08-03"
       },
       {
-        "title": "[推荐] 老板：公司系统太多，能不能实现账号互通？",
-        "link": "https://toutiao.io/k/g7sb904",
-        "date": "2022-08-03"
-      },
-      {
-        "title": "[推荐] 阿里云官方 Redis 开发规范！",
-        "link": "https://toutiao.io/k/2fqcbfi",
+        "title": "[推荐] 聊聊Java中代码优化的30个小技巧",
+        "link": "https://toutiao.io/k/jv8g1r6",
         "date": "2022-08-03"
       }
     ]

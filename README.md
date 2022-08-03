@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-03 21:40:06，:rocket: 更新条数: +2027， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-03 22:14:21，:rocket: 更新条数: +2027， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-08-03-ESBuild-支持龙芯-loong64-了](https://www.v2ex.com/t/870534) ![](assets/new.png)  
 - [2022-08-03-请问-thunderbird-能否在全局范围内以仅纯文本格式发信?](https://www.v2ex.com/t/870533) ![](assets/new.png)  
 - [2022-08-03-map-14-屏幕问题](https://www.v2ex.com/t/870532) ![](assets/new.png)  
 - [2022-08-03-看到一个-Java-的-TUI-库感觉还做得蛮不错的](https://www.v2ex.com/t/870530) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-08-03-组播-MAC-地址是像单播-MAC-地址那样网卡出厂自带的吗？](https://www.v2ex.com/t/870512) ![](assets/new.png)  
 - [2022-08-03-有什么网站可以查-CPU-对应功率和性能的趋势图吗？](https://www.v2ex.com/t/870511) ![](assets/new.png)  
 - [2022-08-03-Mac-的内存管理机制是怎样？怎么选内存？](https://www.v2ex.com/t/870510) ![](assets/new.png)  
-- [2022-08-03-通过小程序-appid-怎么查到对应的小程序？](https://www.v2ex.com/t/870508) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -571,8 +571,8 @@
 - [2022-08-03-爆款视频怎么做？这里或许有答案！](https://toutiao.io/k/alpr91m) ![](assets/new.png)  
 - [2022-08-03-你的工具包已到货「GitHub-热点速览-v.22.31」](https://toutiao.io/k/0od2mp4) ![](assets/new.png)  
 - [2022-08-03-阿里云技术专家邓青琳：云上跨可用区容灾和异地多活最佳实践](https://toutiao.io/k/5p9axdp) ![](assets/new.png)  
-- [2022-08-03-推荐-聊聊Java中代码优化的30个小技巧](https://toutiao.io/k/jv8g1r6) ![](assets/new.png)  
-- [2022-08-03-推荐-腾讯低代码平台正式开源！可拖拽、生成手机项目、PC-项目！接私活福利啊！](https://toutiao.io/k/8oqx21m) ![](assets/new.png)  
+- [2022-08-03-推荐-老板：公司系统太多，能不能实现账号互通？](https://toutiao.io/k/g7sb904) ![](assets/new.png)  
+- [2022-08-03-推荐-阿里云官方-Redis-开发规范！](https://toutiao.io/k/2fqcbfi) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

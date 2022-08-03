@@ -9953,6 +9953,16 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "请问 thunderbird 能否在[全局]范围内以[仅][纯文本格式]发信?",
+        "link": "https://www.v2ex.com/t/870533",
+        "date": "2022-08-03"
+      },
+      {
+        "title": "map 14 屏幕问题",
+        "link": "https://www.v2ex.com/t/870532",
+        "date": "2022-08-03"
+      },
+      {
         "title": "看到一个 Java 的 TUI 库感觉还做得蛮不错的",
         "link": "https://www.v2ex.com/t/870530",
         "date": "2022-08-03"
@@ -10135,21 +10145,6 @@
       {
         "title": "[macOS] 接口测试工具 Gotcha HTTP Client 更新 1.5.0 版本，新增动态变量，批量导出接口文档等多个好用的功能。",
         "link": "https://www.v2ex.com/t/870484",
-        "date": "2022-08-03"
-      },
-      {
-        "title": "gradle 拉依赖包，配置了两个仓库只去一个仓库里查找，怎么解？",
-        "link": "https://www.v2ex.com/t/870483",
-        "date": "2022-08-03"
-      },
-      {
-        "title": "关于可部署的在线画板寻求咨询，与见解",
-        "link": "https://www.v2ex.com/t/870482",
-        "date": "2022-08-03"
-      },
-      {
-        "title": "运行 mariadb 出错 innodb=off",
-        "link": "https://www.v2ex.com/t/870481",
         "date": "2022-08-03"
       }
     ]
@@ -10357,16 +10352,6 @@
         "date": "2022-08-03"
       },
       {
-        "title": "[推荐] 聊聊Java中代码优化的30个小技巧",
-        "link": "https://toutiao.io/k/jv8g1r6",
-        "date": "2022-08-03"
-      },
-      {
-        "title": "[推荐] 阿里云官方 Redis 开发规范！",
-        "link": "https://toutiao.io/k/2fqcbfi",
-        "date": "2022-08-03"
-      },
-      {
         "title": "[推荐] 腾讯低代码平台正式开源！可拖拽、生成手机项目、PC 项目！接私活福利啊！",
         "link": "https://toutiao.io/k/8oqx21m",
         "date": "2022-08-03"
@@ -10374,6 +10359,16 @@
       {
         "title": "[推荐] 老板：公司系统太多，能不能实现账号互通？",
         "link": "https://toutiao.io/k/g7sb904",
+        "date": "2022-08-03"
+      },
+      {
+        "title": "[推荐] 聊聊Java中代码优化的30个小技巧",
+        "link": "https://toutiao.io/k/jv8g1r6",
+        "date": "2022-08-03"
+      },
+      {
+        "title": "[推荐] 阿里云官方 Redis 开发规范！",
+        "link": "https://toutiao.io/k/2fqcbfi",
         "date": "2022-08-03"
       }
     ]

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-04 01:13:18，:rocket: 更新条数: +2019， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-04 03:16:09，:rocket: 更新条数: +2018， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,26 +491,26 @@
 </summary>
 
 
-- [2022-08-04-增购纯电轿车，汉还是海豹](https://www.v2ex.com/t/870542) ![](assets/new.png)  
-- [2022-08-04-写了一个烂大街的单词应用：禅意单词，-App-Store，-Play-Store-都上线了。送一堆码给大家。](https://www.v2ex.com/t/870540) ![](assets/new.png)  
-- [2022-08-04-网易云黑胶-VIP（7-天），共-5-张（8-月份）](https://www.v2ex.com/t/870539) ![](assets/new.png)  
-- [2022-08-04-win10-向-vmware12-复制文件-蓝屏](https://www.v2ex.com/t/870538) ![](assets/new.png)  
-- [2022-08-03-上海-不加班-外企-招-Java-、C++、安卓、中级测试、支持工程师、初级-devOps，-Java-和-测试有残疾人岗位](https://www.v2ex.com/t/870537) ![](assets/new.png)  
-- [2022-08-03-ESBuild-支持龙芯-loong64-了](https://www.v2ex.com/t/870534) ![](assets/new.png)  
-- [2022-08-03-请问-thunderbird-能否在全局范围内以仅纯文本格式发信?](https://www.v2ex.com/t/870533) ![](assets/new.png)  
-- [2022-08-03-map-14-屏幕问题](https://www.v2ex.com/t/870532) ![](assets/new.png)  
-- [2022-08-03-看到一个-Java-的-TUI-库感觉还做得蛮不错的](https://www.v2ex.com/t/870530) ![](assets/new.png)  
-- [2022-08-03-boxcryptor-VS-cryptomator，哪个更可靠，更适合长期使用？](https://www.v2ex.com/t/870527) ![](assets/new.png)  
-- [2022-08-03-长期目标如何处理？](https://www.v2ex.com/t/870526) ![](assets/new.png)  
-- [2022-08-03-14-M1-pro-视频剪辑-Final-Cut-Pro-X-如何使用三个显示器进行剪辑？](https://www.v2ex.com/t/870524) ![](assets/new.png)  
-- [2022-08-03-侧重问一下，-mac-上有安卓模拟机软件可以用吗？谢谢](https://www.v2ex.com/t/870523) ![](assets/new.png)  
-- [2022-08-03-2022-年，-iOS,iPadOS-上有什么值得买断或者订阅的-app-嘛？](https://www.v2ex.com/t/870521) ![](assets/new.png)  
-- [2022-08-03-各位用-Intel-Mac-Mini-和-eGPU-的，能不能帮我试试-KiCad6-?](https://www.v2ex.com/t/870520) ![](assets/new.png)  
-- [2022-08-03-穷人版家庭手机话费套餐方案分享（中国移动版）——“一卡保全家”方案](https://www.v2ex.com/t/870519) ![](assets/new.png)  
-- [2022-08-03-有在蔚来漕河泾这边工作的老铁吗,研发部门整体的工作节奏如何啊](https://www.v2ex.com/t/870518) ![](assets/new.png)  
-- [2022-08-03-拿老的-MBP-Type-C-的充电器给-21-款-14/16-寸的-MBP-有什么风险吗？](https://www.v2ex.com/t/870517) ![](assets/new.png)  
-- [2022-08-03-两个宅周六出去能玩啥？（下午的时候）](https://www.v2ex.com/t/870516) ![](assets/new.png)  
-- [2022-08-03-有没有可以把宽度不同的-pdf-合并成宽度相同的-pdf-的软件？](https://www.v2ex.com/t/870515) ![](assets/new.png)  
+- [2022-08-04-js-在-import-之前，为什么需要先显式声明-export-呢？](https://www.v2ex.com/t/870590) ![](assets/new.png)  
+- [2022-08-04-炒股亏了大半年的工资，肉痛！](https://www.v2ex.com/t/870588) ![](assets/new.png)  
+- [2022-08-04-请教一句英语，-With-the-Grain-是什么意思](https://www.v2ex.com/t/870587) ![](assets/new.png)  
+- [2022-08-04-闲鱼出-mbp-验货宝说"显示有亮点或背光"是什么意思?](https://www.v2ex.com/t/870585) ![](assets/new.png)  
+- [2022-08-04-要是有小组件能在首页展示刚生成的照片就好了](https://www.v2ex.com/t/870584) ![](assets/new.png)  
+- [2022-08-04-关于-cookie，关于-Golang-gin-框架。](https://www.v2ex.com/t/870581) ![](assets/new.png)  
+- [2022-08-04-iOS-|-送码-回首一刻-——-极简好用的目标管理，努力记录工具](https://www.v2ex.com/t/870580) ![](assets/new.png)  
+- [2022-08-04-手里有闲置资金，想找个项目一起合作！](https://www.v2ex.com/t/870579) ![](assets/new.png)  
+- [2022-08-04-有个金额数据加千分位是应该前端处理还是后端处理好？](https://www.v2ex.com/t/870578) ![](assets/new.png)  
+- [2022-08-04-不使用第三方包可以操作-excel-吗](https://www.v2ex.com/t/870577) ![](assets/new.png)  
+- [2022-08-04-我写了一个记录想法的-app](https://www.v2ex.com/t/870576) ![](assets/new.png)  
+- [2022-08-04-2022-年，想玩-PC-游戏的铁子们还是自己装机吗？](https://www.v2ex.com/t/870575) ![](assets/new.png)  
+- [2022-08-04-也来分享下《孙子兵法·火攻篇》节选](https://www.v2ex.com/t/870574) ![](assets/new.png)  
+- [2022-08-04-好工具周刊（第-24-期）:-OSS-Insight,-Active-GitHub-Forks,-Hat.sh,-snappify,-Purple-Photo,-crontab-guru,-stooge](https://www.v2ex.com/t/870573) ![](assets/new.png)  
+- [2022-08-04-暗夜色-macbook-air-不能买啊，哭](https://www.v2ex.com/t/870572) ![](assets/new.png)  
+- [2022-08-04-IOS-端-YouTube-的画中画功能正确开启姿势是什么？](https://www.v2ex.com/t/870571) ![](assets/new.png)  
+- [2022-08-04-在-zerotier-网络中传输的流量会被墙探测吗](https://www.v2ex.com/t/870570) ![](assets/new.png)  
+- [2022-08-04-PHPSTORM-更新至-2022.2-后，-Debug-调试异常](https://www.v2ex.com/t/870567) ![](assets/new.png)  
+- [2022-08-04-单身狗的七夕](https://www.v2ex.com/t/870565) ![](assets/new.png)  
+- [2022-08-04-miui-12.5.18-的自带浏览器可以-adb-卸载不，有啥问题不](https://www.v2ex.com/t/870564) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -555,17 +555,23 @@
 
 - [2022-08-04-Java-大后端各种架构图汇总（建议收藏！！）](https://toutiao.io/k/dvo6z1w) ![](assets/new.png)  
 - [2022-08-04-新一代主机安全4大核心技术和15大应用场景](https://toutiao.io/k/ilhis90) ![](assets/new.png)  
-- [2022-08-04-案例推荐-|-支撑超万家停车场：科拓停车基于-Pulsar-的消息总线架构演进](https://toutiao.io/k/uop3fzg) ![](assets/new.png)  
 - [2022-08-04-爱奇艺海外版HTTPS效率是如何提升的？](https://toutiao.io/k/o3maqiq) ![](assets/new.png)  
+- [2022-08-04-案例推荐-|-支撑超万家停车场：科拓停车基于-Pulsar-的消息总线架构演进](https://toutiao.io/k/uop3fzg) ![](assets/new.png)  
 - [2022-08-04-风控逻辑利器---规则引擎](https://toutiao.io/k/vaxsn33) ![](assets/new.png)  
-- [2022-08-04-golang写的存储引擎，基于b+树，mmap](https://toutiao.io/k/0y8599v) ![](assets/new.png)  
 - [2022-08-04-数据治理宝典！从0-1搭建企业级数据治理体系](https://toutiao.io/k/xtri6w7) ![](assets/new.png)  
+- [2022-08-04-golang写的存储引擎，基于b+树，mmap](https://toutiao.io/k/0y8599v) ![](assets/new.png)  
 - [2022-08-04-CEO跟我聊996，呵呵！](https://toutiao.io/k/o848u8t) ![](assets/new.png)  
-- [2022-08-04-译文推荐｜Apache-Pulsar-隔离系列（四）：单集群隔离策略](https://toutiao.io/k/sy5ihr8) ![](assets/new.png)  
 - [2022-08-04-pnpm-是凭什么对-npm-和-yarn-降维打击的](https://toutiao.io/k/b04ii26) ![](assets/new.png)  
-- [2022-08-04-推荐-老板：公司系统太多，能不能实现账号互通？](https://toutiao.io/k/g7sb904) ![](assets/new.png)  
+- [2022-08-04-译文推荐｜Apache-Pulsar-隔离系列（四）：单集群隔离策略](https://toutiao.io/k/sy5ihr8) ![](assets/new.png)  
+- [2022-08-04-直播系统聊天技术八：vivo直播系统中IM消息模块的架构实践](https://toutiao.io/k/bhg84w2) ![](assets/new.png)  
+- [2022-08-04-【萌新解题】字节跳动：验证二叉搜索树](https://toutiao.io/k/8dcj610) ![](assets/new.png)  
+- [2022-08-04-DNS-查询原理详解](https://toutiao.io/k/5pqq73c) ![](assets/new.png)  
+- [2022-08-04-最-Cool-的-Kubernetes-网络方案-Cilium-入门教程](https://toutiao.io/k/kusopfk) ![](assets/new.png)  
+- [2022-08-04-指令式编程和声明式编程](https://toutiao.io/k/qs7igrj) ![](assets/new.png)  
+- [2022-08-04-rysnc命令过滤规则入门教程](https://toutiao.io/k/qcv90r1) ![](assets/new.png)  
 - [2022-08-04-推荐-聊聊Java中代码优化的30个小技巧](https://toutiao.io/k/jv8g1r6) ![](assets/new.png)  
 - [2022-08-04-推荐-腾讯低代码平台正式开源！可拖拽、生成手机项目、PC-项目！接私活福利啊！](https://toutiao.io/k/8oqx21m) ![](assets/new.png)  
+- [2022-08-04-推荐-老板：公司系统太多，能不能实现账号互通？](https://toutiao.io/k/g7sb904) ![](assets/new.png)  
 - [2022-08-04-推荐-阿里云官方-Redis-开发规范！](https://toutiao.io/k/2fqcbfi) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

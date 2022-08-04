@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-08-04 23:13:48。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-08-04 23:40:16。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,8 @@
 </summary>
 
 
+- [【V2EX】2022-08-04-移动千兆宽带，光猫千兆口上测速，多少速度算正常？](https://www.v2ex.com/t/870766) 
+- [【V2EX】2022-08-04-不想参加团建,-大家都会找什么借口呢?](https://www.v2ex.com/t/870765) 
 - [【V2EX】2022-08-04-你们是否介意自己的小孩不会说家乡话吗？](https://www.v2ex.com/t/870764) 
 - [【V2EX】2022-08-04-国行-ios-访问-appcenter-被拦截，猜是谁](https://www.v2ex.com/t/870763) 
 - [【V2EX】2022-08-04-SQL-苦手来请教各位大佬了。](https://www.v2ex.com/t/870762) 
@@ -110,8 +112,6 @@
 - [【V2EX】2022-08-04-UI-SSH-为了摆脱宝塔，自己写了一个新面板](https://www.v2ex.com/t/870719) 
 - [【V2EX】2022-08-04-有没有可以显示提交人的比较工具](https://www.v2ex.com/t/870718) 
 - [【V2EX】2022-08-04-openwrt-设置全局代理，在线路故障后，会全局断网吗？](https://www.v2ex.com/t/870717) 
-- [【V2EX】2022-08-04-导航站，换友链](https://www.v2ex.com/t/870716) 
-- [【V2EX】2022-08-04-网宿-cdn-是真的坑啊,cdn-业务改个名用户余额直接清零](https://www.v2ex.com/t/870715) 
 - [【技术头条】2022-08-04-完成原型设计的五个步骤-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15273&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffive-steps-for-prototype-design%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-08-04-敏捷交付的工程效能治理-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15272&url=https%3A%2F%2Finsights.thoughtworks.cn%2F%3Fp%3D16439%26amp%3Bpreview%3Dtrue%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-08-04-SpringBoot四大核心组件，你知道几个？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15271&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494395%26amp%3Bidx%3D2%26amp%3Bsn%3D7625c27c0bbb10cfd2e5e1d8a09a3c74%26amp%3Bchksm%3Dfa3f0ba0cd4882b6baa602f1f11ffebc9ec2dadb2ee131a812efc29a71e64cb3959c144707ff%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -139,11 +139,11 @@
 - [【开发者头条】2022-08-04-数据治理宝典！从0-1搭建企业级数据治理体系](https://toutiao.io/k/xtri6w7) 
 - [【开发者头条】2022-08-04-golang写的存储引擎，基于b+树，mmap](https://toutiao.io/k/0y8599v) 
 - [【开发者头条】2022-08-04-案例推荐-|-支撑超万家停车场：科拓停车基于-Pulsar-的消息总线架构演进](https://toutiao.io/k/uop3fzg) 
-- [【开发者头条】2022-08-04-【萌新解题】字节跳动：验证二叉搜索树](https://toutiao.io/k/8dcj610) 
 - [【开发者头条】2022-08-04-最-Cool-的-Kubernetes-网络方案-Cilium-入门教程](https://toutiao.io/k/kusopfk) 
+- [【开发者头条】2022-08-04-【萌新解题】字节跳动：验证二叉搜索树](https://toutiao.io/k/8dcj610) 
 - [【开发者头条】2022-08-04-译文推荐｜Apache-Pulsar-隔离系列（四）：单集群隔离策略](https://toutiao.io/k/sy5ihr8) 
-- [【开发者头条】2022-08-04-rysnc命令过滤规则入门教程](https://toutiao.io/k/qcv90r1) 
 - [【开发者头条】2022-08-04-直播系统聊天技术八：vivo直播系统中IM消息模块的架构实践](https://toutiao.io/k/bhg84w2) 
+- [【开发者头条】2022-08-04-rysnc命令过滤规则入门教程](https://toutiao.io/k/qcv90r1) 
 - [【开发者头条】2022-08-04-指令式编程和声明式编程](https://toutiao.io/k/qs7igrj) 
 - [【开发者头条】2022-08-04-CEO跟我聊996，呵呵！](https://toutiao.io/k/o848u8t) 
 - [【开发者头条】2022-08-04-pnpm-是凭什么对-npm-和-yarn-降维打击的](https://toutiao.io/k/b04ii26) 
@@ -151,10 +151,10 @@
 - [【开发者头条】2022-08-04-为什么大厂一边大规模裁员，又一边招聘？](https://toutiao.io/k/i9pm4mi) 
 - [【开发者头条】2022-08-04-深度解读-Curve-资源占用之内存管理](https://toutiao.io/k/yiopi0i) 
 - [【开发者头条】2022-08-04-基于ebpf的容器逃逸上](https://toutiao.io/k/k82en0w) 
-- [【开发者头条】2022-08-04-推荐-老板：公司系统太多，能不能实现账号互通？](https://toutiao.io/k/g7sb904) 
-- [【开发者头条】2022-08-04-推荐-腾讯低代码平台正式开源！可拖拽、生成手机项目、PC-项目！接私活福利啊！](https://toutiao.io/k/8oqx21m) 
-- [【开发者头条】2022-08-04-推荐-研发过程中的文档管理与工具](https://toutiao.io/k/mdiqwn5) 
 - [【开发者头条】2022-08-04-推荐-阿里云官方-Redis-开发规范！](https://toutiao.io/k/2fqcbfi) 
+- [【开发者头条】2022-08-04-推荐-老板：公司系统太多，能不能实现账号互通？](https://toutiao.io/k/g7sb904) 
+- [【开发者头条】2022-08-04-推荐-研发过程中的文档管理与工具](https://toutiao.io/k/mdiqwn5) 
+- [【开发者头条】2022-08-04-推荐-腾讯低代码平台正式开源！可拖拽、生成手机项目、PC-项目！接私活福利啊！](https://toutiao.io/k/8oqx21m) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

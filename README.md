@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-04 23:13:47，:rocket: 更新条数: +2033， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-04 23:40:16，:rocket: 更新条数: +2033， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-08-04-移动千兆宽带，光猫千兆口上测速，多少速度算正常？](https://www.v2ex.com/t/870766) ![](assets/new.png)  
+- [2022-08-04-不想参加团建,-大家都会找什么借口呢?](https://www.v2ex.com/t/870765) ![](assets/new.png)  
 - [2022-08-04-你们是否介意自己的小孩不会说家乡话吗？](https://www.v2ex.com/t/870764) ![](assets/new.png)  
 - [2022-08-04-国行-ios-访问-appcenter-被拦截，猜是谁](https://www.v2ex.com/t/870763) ![](assets/new.png)  
 - [2022-08-04-SQL-苦手来请教各位大佬了。](https://www.v2ex.com/t/870762) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-08-04-求助大神怎么把-mybase-的笔记导入到-obsidian？](https://www.v2ex.com/t/870749) ![](assets/new.png)  
 - [2022-08-04-宜家有哪些灯泡已经接入米家了？](https://www.v2ex.com/t/870748) ![](assets/new.png)  
 - [2022-08-04-关于上一条”微信突然弹出的消息“，感谢各位的解答](https://www.v2ex.com/t/870747) ![](assets/new.png)  
-- [2022-08-04-建了一个分享程序员资源的-telegram](https://www.v2ex.com/t/870746) ![](assets/new.png)  
-- [2022-08-04-长期久坐，你们是如何解决腰痛问题的？](https://www.v2ex.com/t/870743) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -560,11 +560,11 @@
 - [2022-08-04-数据治理宝典！从0-1搭建企业级数据治理体系](https://toutiao.io/k/xtri6w7) ![](assets/new.png)  
 - [2022-08-04-golang写的存储引擎，基于b+树，mmap](https://toutiao.io/k/0y8599v) ![](assets/new.png)  
 - [2022-08-04-案例推荐-|-支撑超万家停车场：科拓停车基于-Pulsar-的消息总线架构演进](https://toutiao.io/k/uop3fzg) ![](assets/new.png)  
-- [2022-08-04-【萌新解题】字节跳动：验证二叉搜索树](https://toutiao.io/k/8dcj610) ![](assets/new.png)  
 - [2022-08-04-最-Cool-的-Kubernetes-网络方案-Cilium-入门教程](https://toutiao.io/k/kusopfk) ![](assets/new.png)  
+- [2022-08-04-【萌新解题】字节跳动：验证二叉搜索树](https://toutiao.io/k/8dcj610) ![](assets/new.png)  
 - [2022-08-04-译文推荐｜Apache-Pulsar-隔离系列（四）：单集群隔离策略](https://toutiao.io/k/sy5ihr8) ![](assets/new.png)  
-- [2022-08-04-rysnc命令过滤规则入门教程](https://toutiao.io/k/qcv90r1) ![](assets/new.png)  
 - [2022-08-04-直播系统聊天技术八：vivo直播系统中IM消息模块的架构实践](https://toutiao.io/k/bhg84w2) ![](assets/new.png)  
+- [2022-08-04-rysnc命令过滤规则入门教程](https://toutiao.io/k/qcv90r1) ![](assets/new.png)  
 - [2022-08-04-指令式编程和声明式编程](https://toutiao.io/k/qs7igrj) ![](assets/new.png)  
 - [2022-08-04-CEO跟我聊996，呵呵！](https://toutiao.io/k/o848u8t) ![](assets/new.png)  
 - [2022-08-04-pnpm-是凭什么对-npm-和-yarn-降维打击的](https://toutiao.io/k/b04ii26) ![](assets/new.png)  
@@ -572,7 +572,7 @@
 - [2022-08-04-为什么大厂一边大规模裁员，又一边招聘？](https://toutiao.io/k/i9pm4mi) ![](assets/new.png)  
 - [2022-08-04-深度解读-Curve-资源占用之内存管理](https://toutiao.io/k/yiopi0i) ![](assets/new.png)  
 - [2022-08-04-基于ebpf的容器逃逸上](https://toutiao.io/k/k82en0w) ![](assets/new.png)  
-- [2022-08-04-推荐-老板：公司系统太多，能不能实现账号互通？](https://toutiao.io/k/g7sb904) ![](assets/new.png)  
+- [2022-08-04-推荐-阿里云官方-Redis-开发规范！](https://toutiao.io/k/2fqcbfi) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

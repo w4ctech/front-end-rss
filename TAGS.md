@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-08-04 21:40:42。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-08-04 22:14:43。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -359,7 +359,6 @@
 
 
 - [【V2EX】为什么脉脉上一堆招聘数据科学的？](https://www.v2ex.com/t/870721)
-- [【V2EX】广州-字节飞书-招聘前端工程师](https://www.v2ex.com/t/870712)
 - [【开发者头条】为什么大厂一边大规模裁员，又一边招聘？](https://toutiao.io/k/i9pm4mi)
 - [......【查看更多】......](./details/tags/job-interview.md)
 

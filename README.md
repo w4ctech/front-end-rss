@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-04 19:12:01，:rocket: 更新条数: +2032， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-04 19:38:30，:rocket: 更新条数: +2032， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-08-04-15-年全栈开发者TS,React,Node.js,-PHP-接单与求职远程工作](https://www.v2ex.com/t/870760) ![](assets/new.png)  
 - [2022-08-04-React-与-PHP-,Node.js-开发接单/远程工作](https://www.v2ex.com/t/870759) ![](assets/new.png)  
 - [2022-08-04-接外包](https://www.v2ex.com/t/870758) ![](assets/new.png)  
 - [2022-08-04-漂泊无定多年后，终于稳定下来，终于组装了台式机，开心](https://www.v2ex.com/t/870757) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-08-04-macos-下，坚果云的右键菜单如何去除](https://www.v2ex.com/t/870741) ![](assets/new.png)  
 - [2022-08-04-杭州-23-届应届求职，希望-V-站各位大佬给点建议](https://www.v2ex.com/t/870740) ![](assets/new.png)  
 - [2022-08-04-五笔输入法之学习篇](https://www.v2ex.com/t/870739) ![](assets/new.png)  
-- [2022-08-04-Mac-版的-Chrome-怎么选择下载-Apple-Silicon-芯片的](https://www.v2ex.com/t/870738) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -572,7 +572,7 @@
 - [2022-08-04-为什么大厂一边大规模裁员，又一边招聘？](https://toutiao.io/k/i9pm4mi) ![](assets/new.png)  
 - [2022-08-04-深度解读-Curve-资源占用之内存管理](https://toutiao.io/k/yiopi0i) ![](assets/new.png)  
 - [2022-08-04-基于ebpf的容器逃逸上](https://toutiao.io/k/k82en0w) ![](assets/new.png)  
-- [2022-08-04-推荐-阿里云官方-Redis-开发规范！](https://toutiao.io/k/2fqcbfi) ![](assets/new.png)  
+- [2022-08-04-推荐-老板：公司系统太多，能不能实现账号互通？](https://toutiao.io/k/g7sb904) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

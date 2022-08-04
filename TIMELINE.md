@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-08-04 17:46:10。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-08-04 18:17:05。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,8 @@
 </summary>
 
 
+- [【V2EX】2022-08-04-接外包](https://www.v2ex.com/t/870758) 
+- [【V2EX】2022-08-04-漂泊无定多年后，终于稳定下来，终于组装了台式机，开心](https://www.v2ex.com/t/870757) 
 - [【V2EX】2022-08-04-Github-付费问题咨询（抱歉，上一个主题没打正文就发出来了）](https://www.v2ex.com/t/870756) 
 - [【V2EX】2022-08-04-100%邀请制，人少的社区能做的起来吗？](https://www.v2ex.com/t/870755) 
 - [【V2EX】2022-08-04-Github-付费相关问题](https://www.v2ex.com/t/870754) 
@@ -108,8 +110,6 @@
 - [【V2EX】2022-08-04-广州-字节飞书-招聘前端工程师](https://www.v2ex.com/t/870712) 
 - [【V2EX】2022-08-04-南京程序员招聘-|-股权激励-|-外企-WLB-|-慧咨环球-|-混合办公-|-行业领袖-扁平管理-可移民澳洲](https://www.v2ex.com/t/870711) 
 - [【V2EX】2022-08-04-生活热爱者--Vol.05：写在写作一个月后](https://www.v2ex.com/t/870710) 
-- [【V2EX】2022-08-04-想练拳击，建议入坑吗？](https://www.v2ex.com/t/870708) 
-- [【V2EX】2022-08-04-北京-40-80k-Web3-出海社交公司诚招-Rust/Move-大佬](https://www.v2ex.com/t/870707) 
 - [【技术头条】2022-08-04-完成原型设计的五个步骤-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15273&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffive-steps-for-prototype-design%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-08-04-敏捷交付的工程效能治理-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15272&url=https%3A%2F%2Finsights.thoughtworks.cn%2F%3Fp%3D16439%26amp%3Bpreview%3Dtrue%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-08-04-SpringBoot四大核心组件，你知道几个？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15271&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494395%26amp%3Bidx%3D2%26amp%3Bsn%3D7625c27c0bbb10cfd2e5e1d8a09a3c74%26amp%3Bchksm%3Dfa3f0ba0cd4882b6baa602f1f11ffebc9ec2dadb2ee131a812efc29a71e64cb3959c144707ff%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -149,10 +149,10 @@
 - [【开发者头条】2022-08-04-为什么大厂一边大规模裁员，又一边招聘？](https://toutiao.io/k/i9pm4mi) 
 - [【开发者头条】2022-08-04-深度解读-Curve-资源占用之内存管理](https://toutiao.io/k/yiopi0i) 
 - [【开发者头条】2022-08-04-基于ebpf的容器逃逸上](https://toutiao.io/k/k82en0w) 
-- [【开发者头条】2022-08-04-推荐-阿里云官方-Redis-开发规范！](https://toutiao.io/k/2fqcbfi) 
 - [【开发者头条】2022-08-04-推荐-老板：公司系统太多，能不能实现账号互通？](https://toutiao.io/k/g7sb904) 
-- [【开发者头条】2022-08-04-推荐-腾讯低代码平台正式开源！可拖拽、生成手机项目、PC-项目！接私活福利啊！](https://toutiao.io/k/8oqx21m) 
+- [【开发者头条】2022-08-04-推荐-阿里云官方-Redis-开发规范！](https://toutiao.io/k/2fqcbfi) 
 - [【开发者头条】2022-08-04-推荐-研发过程中的文档管理与工具](https://toutiao.io/k/mdiqwn5) 
+- [【开发者头条】2022-08-04-推荐-腾讯低代码平台正式开源！可拖拽、生成手机项目、PC-项目！接私活福利啊！](https://toutiao.io/k/8oqx21m) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-04 17:46:10，:rocket: 更新条数: +2031， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-04 18:17:05，:rocket: 更新条数: +2031， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-08-04-接外包](https://www.v2ex.com/t/870758) ![](assets/new.png)  
+- [2022-08-04-漂泊无定多年后，终于稳定下来，终于组装了台式机，开心](https://www.v2ex.com/t/870757) ![](assets/new.png)  
 - [2022-08-04-Github-付费问题咨询（抱歉，上一个主题没打正文就发出来了）](https://www.v2ex.com/t/870756) ![](assets/new.png)  
 - [2022-08-04-100%邀请制，人少的社区能做的起来吗？](https://www.v2ex.com/t/870755) ![](assets/new.png)  
 - [2022-08-04-Github-付费相关问题](https://www.v2ex.com/t/870754) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-08-04-五笔输入法之学习篇](https://www.v2ex.com/t/870739) ![](assets/new.png)  
 - [2022-08-04-Mac-版的-Chrome-怎么选择下载-Apple-Silicon-芯片的](https://www.v2ex.com/t/870738) ![](assets/new.png)  
 - [2022-08-04-感觉科研水论文就像鬼畜视频创作一样](https://www.v2ex.com/t/870737) ![](assets/new.png)  
-- [2022-08-04-了解加拿大技术移民的请进](https://www.v2ex.com/t/870736) ![](assets/new.png)  
-- [2022-08-04-不建议去看明日战记,完全就是套了机甲皮的香港警匪片](https://www.v2ex.com/t/870735) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -572,7 +572,7 @@
 - [2022-08-04-为什么大厂一边大规模裁员，又一边招聘？](https://toutiao.io/k/i9pm4mi) ![](assets/new.png)  
 - [2022-08-04-深度解读-Curve-资源占用之内存管理](https://toutiao.io/k/yiopi0i) ![](assets/new.png)  
 - [2022-08-04-基于ebpf的容器逃逸上](https://toutiao.io/k/k82en0w) ![](assets/new.png)  
-- [2022-08-04-推荐-阿里云官方-Redis-开发规范！](https://toutiao.io/k/2fqcbfi) ![](assets/new.png)  
+- [2022-08-04-推荐-老板：公司系统太多，能不能实现账号互通？](https://toutiao.io/k/g7sb904) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

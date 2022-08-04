@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-04 10:45:17，:rocket: 更新条数: +2029， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-04 11:12:22，:rocket: 更新条数: +2030， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,13 @@
 </summary>
 
 
+- [2022-08-04-新建一个主题](https://www.v2ex.com/t/870720) ![](assets/new.png)  
+- [2022-08-04-UI-SSH-为了摆脱宝塔，自己写了一个新面板](https://www.v2ex.com/t/870719) ![](assets/new.png)  
+- [2022-08-04-有没有可以显示提交人的比较工具](https://www.v2ex.com/t/870718) ![](assets/new.png)  
+- [2022-08-04-openwrt-设置全局代理，在线路故障后，会全局断网吗？](https://www.v2ex.com/t/870717) ![](assets/new.png)  
+- [2022-08-04-导航站，换友链](https://www.v2ex.com/t/870716) ![](assets/new.png)  
+- [2022-08-04-网宿-cdn-是真的坑啊,cdn-业务改个名用户余额直接清零](https://www.v2ex.com/t/870715) ![](assets/new.png)  
+- [2022-08-04-虐，没有过节的，假想一下情人们吃大餐排队时，"过号重叫"怎么设计比较合理呢？](https://www.v2ex.com/t/870714) ![](assets/new.png)  
 - [2022-08-04-广州-字节飞书-招聘前端工程师](https://www.v2ex.com/t/870712) ![](assets/new.png)  
 - [2022-08-04-南京程序员招聘-|-股权激励-|-外企-WLB-|-慧咨环球-|-混合办公-|-行业领袖-扁平管理-可移民澳洲](https://www.v2ex.com/t/870711) ![](assets/new.png)  
 - [2022-08-04-生活热爱者--Vol.05：写在写作一个月后](https://www.v2ex.com/t/870710) ![](assets/new.png)  
@@ -504,13 +511,6 @@
 - [2022-08-04-一个-syncthing-同步问题](https://www.v2ex.com/t/870698) ![](assets/new.png)  
 - [2022-08-04-须鼠管编译好后，可以发编译好的-app-给别的计算机安装么](https://www.v2ex.com/t/870697) ![](assets/new.png)  
 - [2022-08-04-APFS-文件系统的-Clones-特性，可以存储多个副本占用一份空间，那么问题来了](https://www.v2ex.com/t/870696) ![](assets/new.png)  
-- [2022-08-04-有没有运营商的大神帮忙看看美版手机-4G-频段能不能用？](https://www.v2ex.com/t/870694) ![](assets/new.png)  
-- [2022-08-04-type-c-转-usb+千兆网卡，冲突问题？](https://www.v2ex.com/t/870693) ![](assets/new.png)  
-- [2022-08-04-有做印度支付的伙伴吗，有事想请教下](https://www.v2ex.com/t/870692) ![](assets/new.png)  
-- [2022-08-04-有什么个人-UP-主适用的音频转文字方案？](https://www.v2ex.com/t/870691) ![](assets/new.png)  
-- [2022-08-04-最终还是买了探岳了](https://www.v2ex.com/t/870688) ![](assets/new.png)  
-- [2022-08-04-Nothing-Phone-怎么样？](https://www.v2ex.com/t/870687) ![](assets/new.png)  
-- [2022-08-04-小项目创业副业交流-杭州滨江](https://www.v2ex.com/t/870686) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -572,7 +572,7 @@
 - [2022-08-04-为什么大厂一边大规模裁员，又一边招聘？](https://toutiao.io/k/i9pm4mi) ![](assets/new.png)  
 - [2022-08-04-基于ebpf的容器逃逸上](https://toutiao.io/k/k82en0w) ![](assets/new.png)  
 - [2022-08-04-深度解读-Curve-资源占用之内存管理](https://toutiao.io/k/yiopi0i) ![](assets/new.png)  
-- [2022-08-04-推荐-腾讯低代码平台正式开源！可拖拽、生成手机项目、PC-项目！接私活福利啊！](https://toutiao.io/k/8oqx21m) ![](assets/new.png)  
+- [2022-08-04-推荐-阿里云官方-Redis-开发规范！](https://toutiao.io/k/2fqcbfi) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

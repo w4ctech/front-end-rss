@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-04 13:55:46，:rocket: 更新条数: +2028， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-04 14:13:14，:rocket: 更新条数: +2029， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-08-04-杭州-23-届应届求职，希望-V-站各位大佬给点建议](https://www.v2ex.com/t/870740) ![](assets/new.png)  
 - [2022-08-04-五笔输入法之学习篇](https://www.v2ex.com/t/870739) ![](assets/new.png)  
 - [2022-08-04-Mac-版的-Chrome-怎么选择下载-Apple-Silicon-芯片的](https://www.v2ex.com/t/870738) ![](assets/new.png)  
 - [2022-08-04-感觉科研水论文就像鬼畜视频创作一样](https://www.v2ex.com/t/870737) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-08-04-UI-SSH-为了摆脱宝塔，自己写了一个新面板](https://www.v2ex.com/t/870719) ![](assets/new.png)  
 - [2022-08-04-有没有可以显示提交人的比较工具](https://www.v2ex.com/t/870718) ![](assets/new.png)  
 - [2022-08-04-openwrt-设置全局代理，在线路故障后，会全局断网吗？](https://www.v2ex.com/t/870717) ![](assets/new.png)  
-- [2022-08-04-导航站，换友链](https://www.v2ex.com/t/870716) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -572,7 +572,7 @@
 - [2022-08-04-为什么大厂一边大规模裁员，又一边招聘？](https://toutiao.io/k/i9pm4mi) ![](assets/new.png)  
 - [2022-08-04-深度解读-Curve-资源占用之内存管理](https://toutiao.io/k/yiopi0i) ![](assets/new.png)  
 - [2022-08-04-基于ebpf的容器逃逸上](https://toutiao.io/k/k82en0w) ![](assets/new.png)  
-- [2022-08-04-推荐-阿里云官方-Redis-开发规范！](https://toutiao.io/k/2fqcbfi) ![](assets/new.png)  
+- [2022-08-04-推荐-腾讯低代码平台正式开源！可拖拽、生成手机项目、PC-项目！接私活福利啊！](https://toutiao.io/k/8oqx21m) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

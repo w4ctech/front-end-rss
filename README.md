@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-04 09:40:45，:rocket: 更新条数: +2031， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-04 10:15:52，:rocket: 更新条数: +2030， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-08-04-独立开发者开放麦：一起聊一聊元宇宙、Web3-及产品创新机会](https://www.v2ex.com/t/870704) ![](assets/new.png)  
+- [2022-08-04-Mac-开启-Proxyman-后，-iCloud-上传被阻塞，只能重启-Mac。有什么办法吗？](https://www.v2ex.com/t/870703) ![](assets/new.png)  
 - [2022-08-04-求推荐-PC-笔记软件啊](https://www.v2ex.com/t/870701) ![](assets/new.png)  
 - [2022-08-04-Iptables-大佬速来。。。](https://www.v2ex.com/t/870700) ![](assets/new.png)  
 - [2022-08-04-一个-syncthing-同步问题](https://www.v2ex.com/t/870698) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-08-04-最近购置了一条宽带](https://www.v2ex.com/t/870681) ![](assets/new.png)  
 - [2022-08-04-现在的-AI-写作太给力](https://www.v2ex.com/t/870680) ![](assets/new.png)  
 - [2022-08-04-这音乐播放断断续续的-bug-什么时候才能修复好](https://www.v2ex.com/t/870679) ![](assets/new.png)  
-- [2022-08-04-今天彦祖们都收到了什么？](https://www.v2ex.com/t/870678) ![](assets/new.png)  
-- [2022-08-04-那些做油猴脚本/chrome-扩展的，有赢利点吗？](https://www.v2ex.com/t/870677) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -563,16 +563,16 @@
 - [2022-08-04-【萌新解题】字节跳动：验证二叉搜索树](https://toutiao.io/k/8dcj610) ![](assets/new.png)  
 - [2022-08-04-最-Cool-的-Kubernetes-网络方案-Cilium-入门教程](https://toutiao.io/k/kusopfk) ![](assets/new.png)  
 - [2022-08-04-译文推荐｜Apache-Pulsar-隔离系列（四）：单集群隔离策略](https://toutiao.io/k/sy5ihr8) ![](assets/new.png)  
-- [2022-08-04-CEO跟我聊996，呵呵！](https://toutiao.io/k/o848u8t) ![](assets/new.png)  
 - [2022-08-04-rysnc命令过滤规则入门教程](https://toutiao.io/k/qcv90r1) ![](assets/new.png)  
+- [2022-08-04-CEO跟我聊996，呵呵！](https://toutiao.io/k/o848u8t) ![](assets/new.png)  
 - [2022-08-04-直播系统聊天技术八：vivo直播系统中IM消息模块的架构实践](https://toutiao.io/k/bhg84w2) ![](assets/new.png)  
-- [2022-08-04-pnpm-是凭什么对-npm-和-yarn-降维打击的](https://toutiao.io/k/b04ii26) ![](assets/new.png)  
 - [2022-08-04-指令式编程和声明式编程](https://toutiao.io/k/qs7igrj) ![](assets/new.png)  
+- [2022-08-04-pnpm-是凭什么对-npm-和-yarn-降维打击的](https://toutiao.io/k/b04ii26) ![](assets/new.png)  
 - [2022-08-04-DNS-查询原理详解](https://toutiao.io/k/5pqq73c) ![](assets/new.png)  
 - [2022-08-04-为什么大厂一边大规模裁员，又一边招聘？](https://toutiao.io/k/i9pm4mi) ![](assets/new.png)  
 - [2022-08-04-基于ebpf的容器逃逸上](https://toutiao.io/k/k82en0w) ![](assets/new.png)  
 - [2022-08-04-深度解读-Curve-资源占用之内存管理](https://toutiao.io/k/yiopi0i) ![](assets/new.png)  
-- [2022-08-04-推荐-阿里云官方-Redis-开发规范！](https://toutiao.io/k/2fqcbfi) ![](assets/new.png)  
+- [2022-08-04-推荐-老板：公司系统太多，能不能实现账号互通？](https://toutiao.io/k/g7sb904) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

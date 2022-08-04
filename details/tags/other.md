@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-08-04 08:52:17。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-08-04 09:13:57。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,9 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-08-04-有没有运营商的大神帮忙看看美版手机-4G-频段能不能用？](https://www.v2ex.com/t/870694) 
+- [2022-08-04-type-c-转-usb+千兆网卡，冲突问题？](https://www.v2ex.com/t/870693) 
+- [2022-08-04-有做印度支付的伙伴吗，有事想请教下](https://www.v2ex.com/t/870692) 
 - [2022-08-04-最终还是买了探岳了](https://www.v2ex.com/t/870688) 
 - [2022-08-04-Nothing-Phone-怎么样？](https://www.v2ex.com/t/870687) 
 - [2022-08-04-小项目创业副业交流-杭州滨江](https://www.v2ex.com/t/870686) 
@@ -1937,9 +1940,6 @@
 - [2022-08-04-都-2022-年了，我却还是做了一个导航网站](https://www.v2ex.com/t/870649) 
 - [2022-08-04-Micro-Focus-内推中高级-Java-、Android、QA、DevOps-欢迎各位大佬联系（转正成功，有神秘大礼！）](https://www.v2ex.com/t/870647) 
 - [2022-08-04-Windows-在内网情况下，目录如何指定共享给其它-PC（非-everyone）？](https://www.v2ex.com/t/870646) 
-- [2022-08-04-4000-上下预算，安卓机，求推荐。小米-12S-或-12S-Pro、一加-Ace-Pro、大探-2……](https://www.v2ex.com/t/870644) 
-- [2022-08-04-哪里能收腾讯超级影视-vip](https://www.v2ex.com/t/870643) 
-- [2022-08-04-你们多久洗一次牙？](https://www.v2ex.com/t/870642) 
 - [2022-08-04-完成原型设计的五个步骤-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15273&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffive-steps-for-prototype-design%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-08-04-敏捷交付的工程效能治理-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15272&url=https%3A%2F%2Finsights.thoughtworks.cn%2F%3Fp%3D16439%26amp%3Bpreview%3Dtrue%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-08-04-排名前16的Java工具类，你用过哪个？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15269&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494394%26amp%3Bidx%3D2%26amp%3Bsn%3Dcb65e98ba5dce4c6ed915788f729e649%26amp%3Bchksm%3Dfa3f0ba1cd4882b75e5d170394f948b30c2fc6d572158708d579d194fcb1a861afc87301b3f8%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

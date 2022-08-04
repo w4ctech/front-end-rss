@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-04 08:52:17，:rocket: 更新条数: +2030， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-04 09:13:57，:rocket: 更新条数: +2031， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,10 @@
 </summary>
 
 
+- [2022-08-04-有没有运营商的大神帮忙看看美版手机-4G-频段能不能用？](https://www.v2ex.com/t/870694) ![](assets/new.png)  
+- [2022-08-04-type-c-转-usb+千兆网卡，冲突问题？](https://www.v2ex.com/t/870693) ![](assets/new.png)  
+- [2022-08-04-有做印度支付的伙伴吗，有事想请教下](https://www.v2ex.com/t/870692) ![](assets/new.png)  
+- [2022-08-04-有什么个人-UP-主适用的音频转文字方案？](https://www.v2ex.com/t/870691) ![](assets/new.png)  
 - [2022-08-04-最终还是买了探岳了](https://www.v2ex.com/t/870688) ![](assets/new.png)  
 - [2022-08-04-Nothing-Phone-怎么样？](https://www.v2ex.com/t/870687) ![](assets/new.png)  
 - [2022-08-04-小项目创业副业交流-杭州滨江](https://www.v2ex.com/t/870686) ![](assets/new.png)  
@@ -507,10 +511,6 @@
 - [2022-08-04-求比较快的-npm-镜像源地址](https://www.v2ex.com/t/870674) ![](assets/new.png)  
 - [2022-08-04-怎么开始自己的投资/理财呢？同年毕业的同学有些接触炒股/基金/币等](https://www.v2ex.com/t/870673) ![](assets/new.png)  
 - [2022-08-04-无意间发现-V-站的极氪车主还不少](https://www.v2ex.com/t/870672) ![](assets/new.png)  
-- [2022-08-04-Nginx-与源主机通讯相关问题！](https://www.v2ex.com/t/870671) ![](assets/new.png)  
-- [2022-08-04-nginx-响应时间太久](https://www.v2ex.com/t/870670) ![](assets/new.png)  
-- [2022-08-04-mac-os-不借助虚拟机如何安装-plsql](https://www.v2ex.com/t/870669) ![](assets/new.png)  
-- [2022-08-04-M2-Macbook-AIr-的触控板的反馈是不是比较松散？](https://www.v2ex.com/t/870668) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -572,7 +572,7 @@
 - [2022-08-04-为什么大厂一边大规模裁员，又一边招聘？](https://toutiao.io/k/i9pm4mi) ![](assets/new.png)  
 - [2022-08-04-基于ebpf的容器逃逸上](https://toutiao.io/k/k82en0w) ![](assets/new.png)  
 - [2022-08-04-深度解读-Curve-资源占用之内存管理](https://toutiao.io/k/yiopi0i) ![](assets/new.png)  
-- [2022-08-04-推荐-聊聊Java中代码优化的30个小技巧](https://toutiao.io/k/jv8g1r6) ![](assets/new.png)  
+- [2022-08-04-推荐-阿里云官方-Redis-开发规范！](https://toutiao.io/k/2fqcbfi) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

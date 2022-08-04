@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-08-04 08:21:32。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-08-04 08:52:17。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,13 @@
 </summary>
 
 
+- [【V2EX】2022-08-04-最终还是买了探岳了](https://www.v2ex.com/t/870688) 
+- [【V2EX】2022-08-04-Nothing-Phone-怎么样？](https://www.v2ex.com/t/870687) 
+- [【V2EX】2022-08-04-小项目创业副业交流-杭州滨江](https://www.v2ex.com/t/870686) 
+- [【V2EX】2022-08-04-百度图表，散点图的使用问题](https://www.v2ex.com/t/870685) 
+- [【V2EX】2022-08-04-后端开发-服务器权限问题调查](https://www.v2ex.com/t/870683) 
+- [【V2EX】2022-08-04-个人开发者如何在-VR-生态赚钱？-目前技术只会渲染性能优化，无-Unity-和-UE-游戏经验，-so-从-周边工具入手？](https://www.v2ex.com/t/870682) 
+- [【V2EX】2022-08-04-最近购置了一条宽带](https://www.v2ex.com/t/870681) 
 - [【V2EX】2022-08-04-现在的-AI-写作太给力](https://www.v2ex.com/t/870680) 
 - [【V2EX】2022-08-04-这音乐播放断断续续的-bug-什么时候才能修复好](https://www.v2ex.com/t/870679) 
 - [【V2EX】2022-08-04-今天彦祖们都收到了什么？](https://www.v2ex.com/t/870678) 
@@ -102,14 +109,6 @@
 - [【V2EX】2022-08-04-4000-上下预算，安卓机，求推荐。小米-12S-或-12S-Pro、一加-Ace-Pro、大探-2……](https://www.v2ex.com/t/870644) 
 - [【V2EX】2022-08-04-哪里能收腾讯超级影视-vip](https://www.v2ex.com/t/870643) 
 - [【V2EX】2022-08-04-你们多久洗一次牙？](https://www.v2ex.com/t/870642) 
-- [【V2EX】2022-08-04-年过-30-的软件从业者，再看-JD-刘老板那句我不想认命，迷茫焦虑吗？](https://www.v2ex.com/t/870639) 
-- [【V2EX】2022-08-04-基于-Next.js-实现在线-Excel](https://www.v2ex.com/t/870638) 
-- [【V2EX】2022-08-04-发现-漫画图解比特币虚拟货币概览](https://www.v2ex.com/t/870637) 
-- [【V2EX】2022-08-04-iOS-,送码-杂食记-吃得越杂，营养越均衡。帮你记录日常膳食丰富度。](https://www.v2ex.com/t/870636) 
-- [【V2EX】2022-08-04-Pixel-系-Google-相册对压缩质量图片/视频无限上传备份的问题](https://www.v2ex.com/t/870635) 
-- [【V2EX】2022-08-04-都-Windows-11-了，微软的出错信息越来越不用心了](https://www.v2ex.com/t/870634) 
-- [【V2EX】2022-08-04-zFrontier（装备前线）--挺有意思的一个网站](https://www.v2ex.com/t/870632) 
-- [【V2EX】2022-08-04-保定板块没人啊.......](https://www.v2ex.com/t/870631) 
 - [【技术头条】2022-08-04-完成原型设计的五个步骤-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15273&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffive-steps-for-prototype-design%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-08-04-敏捷交付的工程效能治理-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15272&url=https%3A%2F%2Finsights.thoughtworks.cn%2F%3Fp%3D16439%26amp%3Bpreview%3Dtrue%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-08-04-SpringBoot四大核心组件，你知道几个？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15271&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494395%26amp%3Bidx%3D2%26amp%3Bsn%3D7625c27c0bbb10cfd2e5e1d8a09a3c74%26amp%3Bchksm%3Dfa3f0ba0cd4882b6baa602f1f11ffebc9ec2dadb2ee131a812efc29a71e64cb3959c144707ff%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -134,24 +133,24 @@
 - [【开发者头条】2022-08-04-风控逻辑利器---规则引擎](https://toutiao.io/k/vaxsn33) 
 - [【开发者头条】2022-08-04-爱奇艺海外版HTTPS效率是如何提升的？](https://toutiao.io/k/o3maqiq) 
 - [【开发者头条】2022-08-04-新一代主机安全4大核心技术和15大应用场景](https://toutiao.io/k/ilhis90) 
-- [【开发者头条】2022-08-04-案例推荐-|-支撑超万家停车场：科拓停车基于-Pulsar-的消息总线架构演进](https://toutiao.io/k/uop3fzg) 
 - [【开发者头条】2022-08-04-数据治理宝典！从0-1搭建企业级数据治理体系](https://toutiao.io/k/xtri6w7) 
+- [【开发者头条】2022-08-04-案例推荐-|-支撑超万家停车场：科拓停车基于-Pulsar-的消息总线架构演进](https://toutiao.io/k/uop3fzg) 
 - [【开发者头条】2022-08-04-golang写的存储引擎，基于b+树，mmap](https://toutiao.io/k/0y8599v) 
 - [【开发者头条】2022-08-04-【萌新解题】字节跳动：验证二叉搜索树](https://toutiao.io/k/8dcj610) 
-- [【开发者头条】2022-08-04-CEO跟我聊996，呵呵！](https://toutiao.io/k/o848u8t) 
 - [【开发者头条】2022-08-04-最-Cool-的-Kubernetes-网络方案-Cilium-入门教程](https://toutiao.io/k/kusopfk) 
 - [【开发者头条】2022-08-04-译文推荐｜Apache-Pulsar-隔离系列（四）：单集群隔离策略](https://toutiao.io/k/sy5ihr8) 
-- [【开发者头条】2022-08-04-pnpm-是凭什么对-npm-和-yarn-降维打击的](https://toutiao.io/k/b04ii26) 
+- [【开发者头条】2022-08-04-CEO跟我聊996，呵呵！](https://toutiao.io/k/o848u8t) 
 - [【开发者头条】2022-08-04-rysnc命令过滤规则入门教程](https://toutiao.io/k/qcv90r1) 
+- [【开发者头条】2022-08-04-pnpm-是凭什么对-npm-和-yarn-降维打击的](https://toutiao.io/k/b04ii26) 
 - [【开发者头条】2022-08-04-直播系统聊天技术八：vivo直播系统中IM消息模块的架构实践](https://toutiao.io/k/bhg84w2) 
 - [【开发者头条】2022-08-04-指令式编程和声明式编程](https://toutiao.io/k/qs7igrj) 
 - [【开发者头条】2022-08-04-DNS-查询原理详解](https://toutiao.io/k/5pqq73c) 
 - [【开发者头条】2022-08-04-为什么大厂一边大规模裁员，又一边招聘？](https://toutiao.io/k/i9pm4mi) 
 - [【开发者头条】2022-08-04-基于ebpf的容器逃逸上](https://toutiao.io/k/k82en0w) 
 - [【开发者头条】2022-08-04-深度解读-Curve-资源占用之内存管理](https://toutiao.io/k/yiopi0i) 
+- [【开发者头条】2022-08-04-推荐-聊聊Java中代码优化的30个小技巧](https://toutiao.io/k/jv8g1r6) 
 - [【开发者头条】2022-08-04-推荐-阿里云官方-Redis-开发规范！](https://toutiao.io/k/2fqcbfi) 
 - [【开发者头条】2022-08-04-推荐-腾讯低代码平台正式开源！可拖拽、生成手机项目、PC-项目！接私活福利啊！](https://toutiao.io/k/8oqx21m) 
-- [【开发者头条】2022-08-04-推荐-聊聊Java中代码优化的30个小技巧](https://toutiao.io/k/jv8g1r6) 
 - [【开发者头条】2022-08-04-推荐-老板：公司系统太多，能不能实现账号互通？](https://toutiao.io/k/g7sb904) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>

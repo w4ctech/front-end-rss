@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-04 08:21:32，:rocket: 更新条数: +2031， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-04 08:52:17，:rocket: 更新条数: +2030， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,13 @@
 </summary>
 
 
+- [2022-08-04-最终还是买了探岳了](https://www.v2ex.com/t/870688) ![](assets/new.png)  
+- [2022-08-04-Nothing-Phone-怎么样？](https://www.v2ex.com/t/870687) ![](assets/new.png)  
+- [2022-08-04-小项目创业副业交流-杭州滨江](https://www.v2ex.com/t/870686) ![](assets/new.png)  
+- [2022-08-04-百度图表，散点图的使用问题](https://www.v2ex.com/t/870685) ![](assets/new.png)  
+- [2022-08-04-后端开发-服务器权限问题调查](https://www.v2ex.com/t/870683) ![](assets/new.png)  
+- [2022-08-04-个人开发者如何在-VR-生态赚钱？-目前技术只会渲染性能优化，无-Unity-和-UE-游戏经验，-so-从-周边工具入手？](https://www.v2ex.com/t/870682) ![](assets/new.png)  
+- [2022-08-04-最近购置了一条宽带](https://www.v2ex.com/t/870681) ![](assets/new.png)  
 - [2022-08-04-现在的-AI-写作太给力](https://www.v2ex.com/t/870680) ![](assets/new.png)  
 - [2022-08-04-这音乐播放断断续续的-bug-什么时候才能修复好](https://www.v2ex.com/t/870679) ![](assets/new.png)  
 - [2022-08-04-今天彦祖们都收到了什么？](https://www.v2ex.com/t/870678) ![](assets/new.png)  
@@ -504,13 +511,6 @@
 - [2022-08-04-nginx-响应时间太久](https://www.v2ex.com/t/870670) ![](assets/new.png)  
 - [2022-08-04-mac-os-不借助虚拟机如何安装-plsql](https://www.v2ex.com/t/870669) ![](assets/new.png)  
 - [2022-08-04-M2-Macbook-AIr-的触控板的反馈是不是比较松散？](https://www.v2ex.com/t/870668) ![](assets/new.png)  
-- [2022-08-04-新版-Teams-针对-Apple-Silicon-优化](https://www.v2ex.com/t/870666) ![](assets/new.png)  
-- [2022-08-04-Python-3.10-遇到-ImportError:-cannot-import-name-‘Mapping’-from-‘collections-问题](https://www.v2ex.com/t/870665) ![](assets/new.png)  
-- [2022-08-04-完全退烧机械键盘---非游戏](https://www.v2ex.com/t/870664) ![](assets/new.png)  
-- [2022-08-04-TLS-ECH-即将在-Chrome-105-测试版中可用](https://www.v2ex.com/t/870663) ![](assets/new.png)  
-- [2022-08-04-🎉-🎉-🎉-又来送兑换码咯~-macOS-效率应用-iPreview---Powerful-Quick-Look-祝大家七夕快乐~](https://www.v2ex.com/t/870662) ![](assets/new.png)  
-- [2022-08-04-TimeMachine-恢复后，-Spotlight-Search-不能检索文档内容了？](https://www.v2ex.com/t/870661) ![](assets/new.png)  
-- [2022-08-04-用什么办法可以查看-Python-多线程情况下,线程的-cpu-时间和等待时间?](https://www.v2ex.com/t/870660) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -557,22 +557,22 @@
 - [2022-08-04-风控逻辑利器---规则引擎](https://toutiao.io/k/vaxsn33) ![](assets/new.png)  
 - [2022-08-04-爱奇艺海外版HTTPS效率是如何提升的？](https://toutiao.io/k/o3maqiq) ![](assets/new.png)  
 - [2022-08-04-新一代主机安全4大核心技术和15大应用场景](https://toutiao.io/k/ilhis90) ![](assets/new.png)  
-- [2022-08-04-案例推荐-|-支撑超万家停车场：科拓停车基于-Pulsar-的消息总线架构演进](https://toutiao.io/k/uop3fzg) ![](assets/new.png)  
 - [2022-08-04-数据治理宝典！从0-1搭建企业级数据治理体系](https://toutiao.io/k/xtri6w7) ![](assets/new.png)  
+- [2022-08-04-案例推荐-|-支撑超万家停车场：科拓停车基于-Pulsar-的消息总线架构演进](https://toutiao.io/k/uop3fzg) ![](assets/new.png)  
 - [2022-08-04-golang写的存储引擎，基于b+树，mmap](https://toutiao.io/k/0y8599v) ![](assets/new.png)  
 - [2022-08-04-【萌新解题】字节跳动：验证二叉搜索树](https://toutiao.io/k/8dcj610) ![](assets/new.png)  
-- [2022-08-04-CEO跟我聊996，呵呵！](https://toutiao.io/k/o848u8t) ![](assets/new.png)  
 - [2022-08-04-最-Cool-的-Kubernetes-网络方案-Cilium-入门教程](https://toutiao.io/k/kusopfk) ![](assets/new.png)  
 - [2022-08-04-译文推荐｜Apache-Pulsar-隔离系列（四）：单集群隔离策略](https://toutiao.io/k/sy5ihr8) ![](assets/new.png)  
-- [2022-08-04-pnpm-是凭什么对-npm-和-yarn-降维打击的](https://toutiao.io/k/b04ii26) ![](assets/new.png)  
+- [2022-08-04-CEO跟我聊996，呵呵！](https://toutiao.io/k/o848u8t) ![](assets/new.png)  
 - [2022-08-04-rysnc命令过滤规则入门教程](https://toutiao.io/k/qcv90r1) ![](assets/new.png)  
+- [2022-08-04-pnpm-是凭什么对-npm-和-yarn-降维打击的](https://toutiao.io/k/b04ii26) ![](assets/new.png)  
 - [2022-08-04-直播系统聊天技术八：vivo直播系统中IM消息模块的架构实践](https://toutiao.io/k/bhg84w2) ![](assets/new.png)  
 - [2022-08-04-指令式编程和声明式编程](https://toutiao.io/k/qs7igrj) ![](assets/new.png)  
 - [2022-08-04-DNS-查询原理详解](https://toutiao.io/k/5pqq73c) ![](assets/new.png)  
 - [2022-08-04-为什么大厂一边大规模裁员，又一边招聘？](https://toutiao.io/k/i9pm4mi) ![](assets/new.png)  
 - [2022-08-04-基于ebpf的容器逃逸上](https://toutiao.io/k/k82en0w) ![](assets/new.png)  
 - [2022-08-04-深度解读-Curve-资源占用之内存管理](https://toutiao.io/k/yiopi0i) ![](assets/new.png)  
-- [2022-08-04-推荐-阿里云官方-Redis-开发规范！](https://toutiao.io/k/2fqcbfi) ![](assets/new.png)  
+- [2022-08-04-推荐-聊聊Java中代码优化的30个小技巧](https://toutiao.io/k/jv8g1r6) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

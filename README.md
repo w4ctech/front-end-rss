@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-04 13:12:10，:rocket: 更新条数: +2027， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-04 13:55:46，:rocket: 更新条数: +2028， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,11 @@
 </summary>
 
 
+- [2022-08-04-五笔输入法之学习篇](https://www.v2ex.com/t/870739) ![](assets/new.png)  
+- [2022-08-04-Mac-版的-Chrome-怎么选择下载-Apple-Silicon-芯片的](https://www.v2ex.com/t/870738) ![](assets/new.png)  
+- [2022-08-04-感觉科研水论文就像鬼畜视频创作一样](https://www.v2ex.com/t/870737) ![](assets/new.png)  
+- [2022-08-04-了解加拿大技术移民的请进](https://www.v2ex.com/t/870736) ![](assets/new.png)  
+- [2022-08-04-不建议去看明日战记,完全就是套了机甲皮的香港警匪片](https://www.v2ex.com/t/870735) ![](assets/new.png)  
 - [2022-08-04-有没有一款远程物理键盘，带摄像头，用于无外网的远程调试](https://www.v2ex.com/t/870733) ![](assets/new.png)  
 - [2022-08-04-有人买-Zenfone9-吗？](https://www.v2ex.com/t/870732) ![](assets/new.png)  
 - [2022-08-04-支付宝目前已成为刚需，如果现在注销支付宝。会发生什么？](https://www.v2ex.com/t/870731) ![](assets/new.png)  
@@ -506,11 +511,6 @@
 - [2022-08-04-有没有可以显示提交人的比较工具](https://www.v2ex.com/t/870718) ![](assets/new.png)  
 - [2022-08-04-openwrt-设置全局代理，在线路故障后，会全局断网吗？](https://www.v2ex.com/t/870717) ![](assets/new.png)  
 - [2022-08-04-导航站，换友链](https://www.v2ex.com/t/870716) ![](assets/new.png)  
-- [2022-08-04-网宿-cdn-是真的坑啊,cdn-业务改个名用户余额直接清零](https://www.v2ex.com/t/870715) ![](assets/new.png)  
-- [2022-08-04-虐，没有过节的，假想一下情人们吃大餐排队时，"过号重叫"怎么设计比较合理呢？](https://www.v2ex.com/t/870714) ![](assets/new.png)  
-- [2022-08-04-广州-字节飞书-招聘前端工程师](https://www.v2ex.com/t/870712) ![](assets/new.png)  
-- [2022-08-04-南京程序员招聘-|-股权激励-|-外企-WLB-|-慧咨环球-|-混合办公-|-行业领袖-扁平管理-可移民澳洲](https://www.v2ex.com/t/870711) ![](assets/new.png)  
-- [2022-08-04-生活热爱者--Vol.05：写在写作一个月后](https://www.v2ex.com/t/870710) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -572,7 +572,7 @@
 - [2022-08-04-为什么大厂一边大规模裁员，又一边招聘？](https://toutiao.io/k/i9pm4mi) ![](assets/new.png)  
 - [2022-08-04-深度解读-Curve-资源占用之内存管理](https://toutiao.io/k/yiopi0i) ![](assets/new.png)  
 - [2022-08-04-基于ebpf的容器逃逸上](https://toutiao.io/k/k82en0w) ![](assets/new.png)  
-- [2022-08-04-推荐-老板：公司系统太多，能不能实现账号互通？](https://toutiao.io/k/g7sb904) ![](assets/new.png)  
+- [2022-08-04-推荐-阿里云官方-Redis-开发规范！](https://toutiao.io/k/2fqcbfi) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

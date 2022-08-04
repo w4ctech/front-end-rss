@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-08-04 07:39:34。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-08-04 08:21:32。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -55,6 +55,7 @@
 
 
 
+- [【V2EX】有没有好的知识管理，文档之类的开源工具，如-GitBook，-VuePress，-WikiJs-之类的？](https://www.v2ex.com/t/870675)
 - [......【查看更多】......](./details/tags/vue.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -88,6 +89,7 @@
 
 
 - [【武汉肺炎防疫全纪录(财新网)】韩国拟升级首尔疫情管控-法国专业机构建议强制接种疫苗｜大流行手记（7月10日）](https://m.caixin.com/m/2021-07-11/101738786.html)
+- [【V2EX】求比较快的-npm-镜像源地址](https://www.v2ex.com/t/870674)
 - [【开发者头条】pnpm-是凭什么对-npm-和-yarn-降维打击的](https://toutiao.io/k/b04ii26)
 - [......【查看更多】......](./details/tags/pack-build.md)
 
@@ -154,7 +156,6 @@
 
 
 - [【V2EX】完全退烧机械键盘---非游戏](https://www.v2ex.com/t/870664)
-- [【V2EX】探讨下-iPhone-玩大型游戏怎么保护电池](https://www.v2ex.com/t/870624)
 - [......【查看更多】......](./details/tags/dev-game.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -259,6 +260,7 @@
 
 
 
+- [【V2EX】新版-Teams-针对-Apple-Silicon-优化](https://www.v2ex.com/t/870666)
 - [【开发者头条】推荐-聊聊Java中代码优化的30个小技巧](https://toutiao.io/k/jv8g1r6)
 - [......【查看更多】......](./details/tags/optimization.md)
 
@@ -283,11 +285,10 @@
 - [【武汉肺炎防疫全纪录(财新网)】解药|新冠mRNA疫苗安全性有哪些挑战？](https://m.caixin.com/m/2021-01-08/101648043.html)
 - [【武汉肺炎防疫全纪录(财新网)】大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html)
 - [【张鑫旭-鑫空间-鑫生活】基于文字的URL锚点定位与::target-text样式设置](https://www.zhangxinxu.com/wordpress/2022/06/url-anchor-target-text/)
+- [【V2EX】那些做油猴脚本/chrome-扩展的，有赢利点吗？](https://www.v2ex.com/t/870677)
 - [【V2EX】TLS-ECH-即将在-Chrome-105-测试版中可用](https://www.v2ex.com/t/870663)
 - [【V2EX】🎉-🎉-🎉-又来送兑换码咯~-macOS-效率应用-iPreview---Powerful-Quick-Look-祝大家七夕快乐~](https://www.v2ex.com/t/870662)
 - [【V2EX】zFrontier（装备前线）--挺有意思的一个网站](https://www.v2ex.com/t/870632)
-- [【V2EX】浏览器扩展-无追扩展-1.7-发布-可让你一键切换-Chrome-默认搜索引擎，也支持无追-@搜索-快捷切换搜索引擎](https://www.v2ex.com/t/870626)
-- [【V2EX】Zerotier-关于-Zerotier-的几个疑问](https://www.v2ex.com/t/870619)
 - [【技术头条】为什么现在我特讨厌Safari浏览器？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15270&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494394%26amp%3Bidx%3D1%26amp%3Bsn%3Dfb2cf1e3121547b166e7507899fd4b39%26amp%3Bchksm%3Dfa3f0ba1cd4882b709b6be7a5f79fe7fde60753959a580a0d22d902090136a0acfcdc714006d%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【技术头条】HttpClient设置不当引发的一次雪崩，整个项目组慌了！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15267&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494393%26amp%3Bidx%3D2%26amp%3Bsn%3D36eb1ce24fe6d996de862db1680430b2%26amp%3Bchksm%3Dfa3f0ba2cd4882b484bf66baefe50966cd8dbb58a176a11934472cad5b9f4a6c948c9fef9f56%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【技术头条】世界第三大浏览器正在消亡-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15266&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494319%26amp%3Bidx%3D1%26amp%3Bsn%3D89f3f6a2d1f7f939d17e8e6a2f2075b5%26amp%3Bchksm%3Dfa3f0bf4cd4882e258bdc46ffb4397820052401a049a8ed9b91dcf670464a6f1e2eca5ea59d1%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
@@ -327,6 +328,8 @@
 
 
 
+- [【V2EX】Nginx-与源主机通讯相关问题！](https://www.v2ex.com/t/870671)
+- [【V2EX】nginx-响应时间太久](https://www.v2ex.com/t/870670)
 - [【技术头条】Docker镜像漏洞扫描工具Trivy-www.ipcpu.com](https://blogread.cn/news/go.php?idItem=15260&url=https%3A%2F%2Fwww.ipcpu.com%2F2022%2F04%2Fdocker-trivy%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【技术头条】Docker设置代理-www.ipcpu.com](https://blogread.cn/news/go.php?idItem=15259&url=https%3A%2F%2Fwww.ipcpu.com%2F2022%2F04%2Fdocker-proxy%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [......【查看更多】......](./details/tags/server.md)

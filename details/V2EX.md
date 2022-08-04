@@ -1,10 +1,24 @@
-:alarm_clock: 更新时间: 2022-08-04 07:39:34。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-08-04 08:21:32。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-08-04-现在的-AI-写作太给力](https://www.v2ex.com/t/870680) 
+- [2022-08-04-这音乐播放断断续续的-bug-什么时候才能修复好](https://www.v2ex.com/t/870679) 
+- [2022-08-04-今天彦祖们都收到了什么？](https://www.v2ex.com/t/870678) 
+- [2022-08-04-那些做油猴脚本/chrome-扩展的，有赢利点吗？](https://www.v2ex.com/t/870677) 
+- [2022-08-04-用了-MacbookPro-14-年的的？换-M1-PRO-行不行](https://www.v2ex.com/t/870676) 
+- [2022-08-04-有没有好的知识管理，文档之类的开源工具，如-GitBook，-VuePress，-WikiJs-之类的？](https://www.v2ex.com/t/870675) 
+- [2022-08-04-求比较快的-npm-镜像源地址](https://www.v2ex.com/t/870674) 
+- [2022-08-04-怎么开始自己的投资/理财呢？同年毕业的同学有些接触炒股/基金/币等](https://www.v2ex.com/t/870673) 
+- [2022-08-04-无意间发现-V-站的极氪车主还不少](https://www.v2ex.com/t/870672) 
+- [2022-08-04-Nginx-与源主机通讯相关问题！](https://www.v2ex.com/t/870671) 
+- [2022-08-04-nginx-响应时间太久](https://www.v2ex.com/t/870670) 
+- [2022-08-04-mac-os-不借助虚拟机如何安装-plsql](https://www.v2ex.com/t/870669) 
+- [2022-08-04-M2-Macbook-AIr-的触控板的反馈是不是比较松散？](https://www.v2ex.com/t/870668) 
+- [2022-08-04-新版-Teams-针对-Apple-Silicon-优化](https://www.v2ex.com/t/870666) 
 - [2022-08-04-Python-3.10-遇到-ImportError:-cannot-import-name-‘Mapping’-from-‘collections-问题](https://www.v2ex.com/t/870665) 
 - [2022-08-04-完全退烧机械键盘---非游戏](https://www.v2ex.com/t/870664) 
 - [2022-08-04-TLS-ECH-即将在-Chrome-105-测试版中可用](https://www.v2ex.com/t/870663) 
@@ -33,16 +47,3 @@
 - [2022-08-04-都-Windows-11-了，微软的出错信息越来越不用心了](https://www.v2ex.com/t/870634) 
 - [2022-08-04-zFrontier（装备前线）--挺有意思的一个网站](https://www.v2ex.com/t/870632) 
 - [2022-08-04-保定板块没人啊.......](https://www.v2ex.com/t/870631) 
-- [2022-08-04-现在的工作内容会影响到以后的就业方向吗](https://www.v2ex.com/t/870630) 
-- [2022-08-04-北京/上海彩云科技-iOS-开发工程师（初级）x-1](https://www.v2ex.com/t/870629) 
-- [2022-08-04-yeelight-语音关灯后，测得-w+/c+-与-w--之间的电压为-3v-左右](https://www.v2ex.com/t/870628) 
-- [2022-08-04-家里只有-IPv6-公网地址，怎么操作才能使其他-IPv4-网络也访问到？](https://www.v2ex.com/t/870627) 
-- [2022-08-04-浏览器扩展-无追扩展-1.7-发布-可让你一键切换-Chrome-默认搜索引擎，也支持无追-@搜索-快捷切换搜索引擎](https://www.v2ex.com/t/870626) 
-- [2022-08-04-探讨下-iPhone-玩大型游戏怎么保护电池](https://www.v2ex.com/t/870624) 
-- [2022-08-04-笔记本电脑电池鼓包成这样还能用吗？](https://www.v2ex.com/t/870623) 
-- [2022-08-04-你们的-iPad-Pro-买妙控键盘吗？](https://www.v2ex.com/t/870622) 
-- [2022-08-04-k3s-硬盘-read->=-100M/s,-该怎么办?](https://www.v2ex.com/t/870621) 
-- [2022-08-04-这个-ptn-设备有人接触过吗](https://www.v2ex.com/t/870620) 
-- [2022-08-04-Zerotier-关于-Zerotier-的几个疑问](https://www.v2ex.com/t/870619) 
-- [2022-08-04-如何优雅的在多个网盘间同步文件？](https://www.v2ex.com/t/870617) 
-- [2022-08-04-越来越喜欢用京东-JD-了。从淘宝转向京东。](https://www.v2ex.com/t/870616) 

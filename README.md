@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-04 17:26:43，:rocket: 更新条数: +2030， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-04 17:46:10，:rocket: 更新条数: +2031， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-08-04-Github-付费问题咨询（抱歉，上一个主题没打正文就发出来了）](https://www.v2ex.com/t/870756) ![](assets/new.png)  
+- [2022-08-04-100%邀请制，人少的社区能做的起来吗？](https://www.v2ex.com/t/870755) ![](assets/new.png)  
 - [2022-08-04-Github-付费相关问题](https://www.v2ex.com/t/870754) ![](assets/new.png)  
 - [2022-08-04-每一天，越来越惶恐！](https://www.v2ex.com/t/870753) ![](assets/new.png)  
 - [2022-08-04-windows-12-pro](https://www.v2ex.com/t/870752) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-08-04-感觉科研水论文就像鬼畜视频创作一样](https://www.v2ex.com/t/870737) ![](assets/new.png)  
 - [2022-08-04-了解加拿大技术移民的请进](https://www.v2ex.com/t/870736) ![](assets/new.png)  
 - [2022-08-04-不建议去看明日战记,完全就是套了机甲皮的香港警匪片](https://www.v2ex.com/t/870735) ![](assets/new.png)  
-- [2022-08-04-有没有一款远程物理键盘，带摄像头，用于无外网的远程调试](https://www.v2ex.com/t/870733) ![](assets/new.png)  
-- [2022-08-04-有人买-Zenfone9-吗？](https://www.v2ex.com/t/870732) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -572,7 +572,7 @@
 - [2022-08-04-为什么大厂一边大规模裁员，又一边招聘？](https://toutiao.io/k/i9pm4mi) ![](assets/new.png)  
 - [2022-08-04-深度解读-Curve-资源占用之内存管理](https://toutiao.io/k/yiopi0i) ![](assets/new.png)  
 - [2022-08-04-基于ebpf的容器逃逸上](https://toutiao.io/k/k82en0w) ![](assets/new.png)  
-- [2022-08-04-推荐-腾讯低代码平台正式开源！可拖拽、生成手机项目、PC-项目！接私活福利啊！](https://toutiao.io/k/8oqx21m) ![](assets/new.png)  
+- [2022-08-04-推荐-阿里云官方-Redis-开发规范！](https://toutiao.io/k/2fqcbfi) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

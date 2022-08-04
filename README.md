@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-04 23:03:35，:rocket: 更新条数: +2033， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-04 23:13:47，:rocket: 更新条数: +2033， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-08-04-你们是否介意自己的小孩不会说家乡话吗？](https://www.v2ex.com/t/870764) ![](assets/new.png)  
 - [2022-08-04-国行-ios-访问-appcenter-被拦截，猜是谁](https://www.v2ex.com/t/870763) ![](assets/new.png)  
 - [2022-08-04-SQL-苦手来请教各位大佬了。](https://www.v2ex.com/t/870762) ![](assets/new.png)  
 - [2022-08-04-最近创建的一个-tg-频道](https://www.v2ex.com/t/870761) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-08-04-关于上一条”微信突然弹出的消息“，感谢各位的解答](https://www.v2ex.com/t/870747) ![](assets/new.png)  
 - [2022-08-04-建了一个分享程序员资源的-telegram](https://www.v2ex.com/t/870746) ![](assets/new.png)  
 - [2022-08-04-长期久坐，你们是如何解决腰痛问题的？](https://www.v2ex.com/t/870743) ![](assets/new.png)  
-- [2022-08-04-请大佬帮忙找个域名](https://www.v2ex.com/t/870742) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -572,7 +572,7 @@
 - [2022-08-04-为什么大厂一边大规模裁员，又一边招聘？](https://toutiao.io/k/i9pm4mi) ![](assets/new.png)  
 - [2022-08-04-深度解读-Curve-资源占用之内存管理](https://toutiao.io/k/yiopi0i) ![](assets/new.png)  
 - [2022-08-04-基于ebpf的容器逃逸上](https://toutiao.io/k/k82en0w) ![](assets/new.png)  
-- [2022-08-04-推荐-阿里云官方-Redis-开发规范！](https://toutiao.io/k/2fqcbfi) ![](assets/new.png)  
+- [2022-08-04-推荐-老板：公司系统太多，能不能实现账号互通？](https://toutiao.io/k/g7sb904) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

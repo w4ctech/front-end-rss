@@ -9953,6 +9953,31 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "建了一个分享程序员资源的 telegram",
+        "link": "https://www.v2ex.com/t/870746",
+        "date": "2022-08-04"
+      },
+      {
+        "title": "我这样的心态对吗？",
+        "link": "https://www.v2ex.com/t/870744",
+        "date": "2022-08-04"
+      },
+      {
+        "title": "长期久坐，你们是如何解决腰痛问题的？",
+        "link": "https://www.v2ex.com/t/870743",
+        "date": "2022-08-04"
+      },
+      {
+        "title": "请大佬帮忙找个域名",
+        "link": "https://www.v2ex.com/t/870742",
+        "date": "2022-08-04"
+      },
+      {
+        "title": "macos 下，坚果云的右键菜单如何去除",
+        "link": "https://www.v2ex.com/t/870741",
+        "date": "2022-08-04"
+      },
+      {
         "title": "[杭州] 23 届应届求职，希望 V 站各位大佬给点建议",
         "link": "https://www.v2ex.com/t/870740",
         "date": "2022-08-04"
@@ -10125,31 +10150,6 @@
       {
         "title": "须鼠管编译好后，可以发编译好的 app 给别的计算机安装么",
         "link": "https://www.v2ex.com/t/870697",
-        "date": "2022-08-04"
-      },
-      {
-        "title": "APFS 文件系统的 Clones 特性，可以存储多个副本占用一份空间，那么问题来了",
-        "link": "https://www.v2ex.com/t/870696",
-        "date": "2022-08-04"
-      },
-      {
-        "title": "有没有运营商的大神帮忙看看美版手机 4G 频段能不能用？",
-        "link": "https://www.v2ex.com/t/870694",
-        "date": "2022-08-04"
-      },
-      {
-        "title": "type c 转 usb+千兆网卡，冲突问题？",
-        "link": "https://www.v2ex.com/t/870693",
-        "date": "2022-08-04"
-      },
-      {
-        "title": "有做印度支付的伙伴吗，有事想请教下",
-        "link": "https://www.v2ex.com/t/870692",
-        "date": "2022-08-04"
-      },
-      {
-        "title": "有什么个人 UP 主适用的音频转文字方案？",
-        "link": "https://www.v2ex.com/t/870691",
         "date": "2022-08-04"
       }
     ]
@@ -10362,13 +10362,8 @@
         "date": "2022-08-04"
       },
       {
-        "title": "[推荐] 腾讯低代码平台正式开源！可拖拽、生成手机项目、PC 项目！接私活福利啊！",
-        "link": "https://toutiao.io/k/8oqx21m",
-        "date": "2022-08-04"
-      },
-      {
-        "title": "[推荐] 老板：公司系统太多，能不能实现账号互通？",
-        "link": "https://toutiao.io/k/g7sb904",
+        "title": "[推荐] 聊聊Java中代码优化的30个小技巧",
+        "link": "https://toutiao.io/k/jv8g1r6",
         "date": "2022-08-04"
       },
       {
@@ -10377,8 +10372,13 @@
         "date": "2022-08-04"
       },
       {
-        "title": "[推荐] 聊聊Java中代码优化的30个小技巧",
-        "link": "https://toutiao.io/k/jv8g1r6",
+        "title": "[推荐] 老板：公司系统太多，能不能实现账号互通？",
+        "link": "https://toutiao.io/k/g7sb904",
+        "date": "2022-08-04"
+      },
+      {
+        "title": "[推荐] 腾讯低代码平台正式开源！可拖拽、生成手机项目、PC 项目！接私活福利啊！",
+        "link": "https://toutiao.io/k/8oqx21m",
         "date": "2022-08-04"
       }
     ]

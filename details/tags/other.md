@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-08-04 14:13:15。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-08-04 14:39:32。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,11 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-08-04-建了一个分享程序员资源的-telegram](https://www.v2ex.com/t/870746) 
+- [2022-08-04-我这样的心态对吗？](https://www.v2ex.com/t/870744) 
+- [2022-08-04-长期久坐，你们是如何解决腰痛问题的？](https://www.v2ex.com/t/870743) 
+- [2022-08-04-请大佬帮忙找个域名](https://www.v2ex.com/t/870742) 
+- [2022-08-04-macos-下，坚果云的右键菜单如何去除](https://www.v2ex.com/t/870741) 
 - [2022-08-04-杭州-23-届应届求职，希望-V-站各位大佬给点建议](https://www.v2ex.com/t/870740) 
 - [2022-08-04-五笔输入法之学习篇](https://www.v2ex.com/t/870739) 
 - [2022-08-04-了解加拿大技术移民的请进](https://www.v2ex.com/t/870736) 
@@ -1939,10 +1944,6 @@
 - [2022-08-04-Iptables-大佬速来。。。](https://www.v2ex.com/t/870700) 
 - [2022-08-04-一个-syncthing-同步问题](https://www.v2ex.com/t/870698) 
 - [2022-08-04-须鼠管编译好后，可以发编译好的-app-给别的计算机安装么](https://www.v2ex.com/t/870697) 
-- [2022-08-04-APFS-文件系统的-Clones-特性，可以存储多个副本占用一份空间，那么问题来了](https://www.v2ex.com/t/870696) 
-- [2022-08-04-有没有运营商的大神帮忙看看美版手机-4G-频段能不能用？](https://www.v2ex.com/t/870694) 
-- [2022-08-04-type-c-转-usb+千兆网卡，冲突问题？](https://www.v2ex.com/t/870693) 
-- [2022-08-04-有做印度支付的伙伴吗，有事想请教下](https://www.v2ex.com/t/870692) 
 - [2022-08-04-完成原型设计的五个步骤-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15273&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffive-steps-for-prototype-design%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-08-04-敏捷交付的工程效能治理-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15272&url=https%3A%2F%2Finsights.thoughtworks.cn%2F%3Fp%3D16439%26amp%3Bpreview%3Dtrue%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-08-04-排名前16的Java工具类，你用过哪个？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15269&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494394%26amp%3Bidx%3D2%26amp%3Bsn%3Dcb65e98ba5dce4c6ed915788f729e649%26amp%3Bchksm%3Dfa3f0ba1cd4882b75e5d170394f948b30c2fc6d572158708d579d194fcb1a861afc87301b3f8%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1967,6 +1968,6 @@
 - [2022-08-04-DNS-查询原理详解](https://toutiao.io/k/5pqq73c) 
 - [2022-08-04-深度解读-Curve-资源占用之内存管理](https://toutiao.io/k/yiopi0i) 
 - [2022-08-04-基于ebpf的容器逃逸上](https://toutiao.io/k/k82en0w) 
-- [2022-08-04-推荐-腾讯低代码平台正式开源！可拖拽、生成手机项目、PC-项目！接私活福利啊！](https://toutiao.io/k/8oqx21m) 
-- [2022-08-04-推荐-老板：公司系统太多，能不能实现账号互通？](https://toutiao.io/k/g7sb904) 
 - [2022-08-04-推荐-阿里云官方-Redis-开发规范！](https://toutiao.io/k/2fqcbfi) 
+- [2022-08-04-推荐-老板：公司系统太多，能不能实现账号互通？](https://toutiao.io/k/g7sb904) 
+- [2022-08-04-推荐-腾讯低代码平台正式开源！可拖拽、生成手机项目、PC-项目！接私活福利啊！](https://toutiao.io/k/8oqx21m) 

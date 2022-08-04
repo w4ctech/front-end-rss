@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-04 14:13:14，:rocket: 更新条数: +2029， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-04 14:39:32，:rocket: 更新条数: +2029， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,11 @@
 </summary>
 
 
+- [2022-08-04-建了一个分享程序员资源的-telegram](https://www.v2ex.com/t/870746) ![](assets/new.png)  
+- [2022-08-04-我这样的心态对吗？](https://www.v2ex.com/t/870744) ![](assets/new.png)  
+- [2022-08-04-长期久坐，你们是如何解决腰痛问题的？](https://www.v2ex.com/t/870743) ![](assets/new.png)  
+- [2022-08-04-请大佬帮忙找个域名](https://www.v2ex.com/t/870742) ![](assets/new.png)  
+- [2022-08-04-macos-下，坚果云的右键菜单如何去除](https://www.v2ex.com/t/870741) ![](assets/new.png)  
 - [2022-08-04-杭州-23-届应届求职，希望-V-站各位大佬给点建议](https://www.v2ex.com/t/870740) ![](assets/new.png)  
 - [2022-08-04-五笔输入法之学习篇](https://www.v2ex.com/t/870739) ![](assets/new.png)  
 - [2022-08-04-Mac-版的-Chrome-怎么选择下载-Apple-Silicon-芯片的](https://www.v2ex.com/t/870738) ![](assets/new.png)  
@@ -506,11 +511,6 @@
 - [2022-08-04-苹果还没办法解决共享相册，家庭里的垃圾广告吗？是不打算解决了吗？](https://www.v2ex.com/t/870725) ![](assets/new.png)  
 - [2022-08-04-我认为手机-64GB-内存对我够用了](https://www.v2ex.com/t/870724) ![](assets/new.png)  
 - [2022-08-04-求一个-mips_24kc-架构的路由爬墙工具](https://www.v2ex.com/t/870723) ![](assets/new.png)  
-- [2022-08-04-想练习使用云服务，哪家比较便宜](https://www.v2ex.com/t/870722) ![](assets/new.png)  
-- [2022-08-04-为什么脉脉上一堆招聘数据科学的？](https://www.v2ex.com/t/870721) ![](assets/new.png)  
-- [2022-08-04-UI-SSH-为了摆脱宝塔，自己写了一个新面板](https://www.v2ex.com/t/870719) ![](assets/new.png)  
-- [2022-08-04-有没有可以显示提交人的比较工具](https://www.v2ex.com/t/870718) ![](assets/new.png)  
-- [2022-08-04-openwrt-设置全局代理，在线路故障后，会全局断网吗？](https://www.v2ex.com/t/870717) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -572,7 +572,7 @@
 - [2022-08-04-为什么大厂一边大规模裁员，又一边招聘？](https://toutiao.io/k/i9pm4mi) ![](assets/new.png)  
 - [2022-08-04-深度解读-Curve-资源占用之内存管理](https://toutiao.io/k/yiopi0i) ![](assets/new.png)  
 - [2022-08-04-基于ebpf的容器逃逸上](https://toutiao.io/k/k82en0w) ![](assets/new.png)  
-- [2022-08-04-推荐-腾讯低代码平台正式开源！可拖拽、生成手机项目、PC-项目！接私活福利啊！](https://toutiao.io/k/8oqx21m) ![](assets/new.png)  
+- [2022-08-04-推荐-聊聊Java中代码优化的30个小技巧](https://toutiao.io/k/jv8g1r6) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-08-04 12:26:37。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-08-04 13:12:10。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,9 @@
 </summary>
 
 
+- [【V2EX】2022-08-04-有没有一款远程物理键盘，带摄像头，用于无外网的远程调试](https://www.v2ex.com/t/870733) 
+- [【V2EX】2022-08-04-有人买-Zenfone9-吗？](https://www.v2ex.com/t/870732) 
+- [【V2EX】2022-08-04-支付宝目前已成为刚需，如果现在注销支付宝。会发生什么？](https://www.v2ex.com/t/870731) 
 - [【V2EX】2022-08-04-Mac-会自动调节蓝牙音响左右音量平衡？](https://www.v2ex.com/t/870728) 
 - [【V2EX】2022-08-04-有什么好用的-Python-界面自动化软件吗？](https://www.v2ex.com/t/870727) 
 - [【V2EX】2022-08-04-外卖商家和骑手的时间问题](https://www.v2ex.com/t/870726) 
@@ -103,9 +106,6 @@
 - [【V2EX】2022-08-04-Nothing-Phone-怎么样？](https://www.v2ex.com/t/870687) 
 - [【V2EX】2022-08-04-小项目创业副业交流-杭州滨江](https://www.v2ex.com/t/870686) 
 - [【V2EX】2022-08-04-百度图表，散点图的使用问题](https://www.v2ex.com/t/870685) 
-- [【V2EX】2022-08-04-后端开发-服务器权限问题调查](https://www.v2ex.com/t/870683) 
-- [【V2EX】2022-08-04-个人开发者如何在-VR-生态赚钱？-目前技术只会渲染性能优化，无-Unity-和-UE-游戏经验，-so-从-周边工具入手？](https://www.v2ex.com/t/870682) 
-- [【V2EX】2022-08-04-最近购置了一条宽带](https://www.v2ex.com/t/870681) 
 - [【技术头条】2022-08-04-完成原型设计的五个步骤-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15273&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffive-steps-for-prototype-design%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-08-04-敏捷交付的工程效能治理-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15272&url=https%3A%2F%2Finsights.thoughtworks.cn%2F%3Fp%3D16439%26amp%3Bpreview%3Dtrue%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-08-04-SpringBoot四大核心组件，你知道几个？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15271&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494395%26amp%3Bidx%3D2%26amp%3Bsn%3D7625c27c0bbb10cfd2e5e1d8a09a3c74%26amp%3Bchksm%3Dfa3f0ba0cd4882b6baa602f1f11ffebc9ec2dadb2ee131a812efc29a71e64cb3959c144707ff%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -145,10 +145,10 @@
 - [【开发者头条】2022-08-04-为什么大厂一边大规模裁员，又一边招聘？](https://toutiao.io/k/i9pm4mi) 
 - [【开发者头条】2022-08-04-深度解读-Curve-资源占用之内存管理](https://toutiao.io/k/yiopi0i) 
 - [【开发者头条】2022-08-04-基于ebpf的容器逃逸上](https://toutiao.io/k/k82en0w) 
-- [【开发者头条】2022-08-04-推荐-聊聊Java中代码优化的30个小技巧](https://toutiao.io/k/jv8g1r6) 
 - [【开发者头条】2022-08-04-推荐-老板：公司系统太多，能不能实现账号互通？](https://toutiao.io/k/g7sb904) 
 - [【开发者头条】2022-08-04-推荐-腾讯低代码平台正式开源！可拖拽、生成手机项目、PC-项目！接私活福利啊！](https://toutiao.io/k/8oqx21m) 
 - [【开发者头条】2022-08-04-推荐-阿里云官方-Redis-开发规范！](https://toutiao.io/k/2fqcbfi) 
+- [【开发者头条】2022-08-04-推荐-聊聊Java中代码优化的30个小技巧](https://toutiao.io/k/jv8g1r6) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

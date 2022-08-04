@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-08-04 07:13:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-08-04 07:39:34。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -14,6 +14,8 @@
 - [2021-01-08-解药|新冠mRNA疫苗安全性有哪些挑战？](https://m.caixin.com/m/2021-01-08/101648043.html) 
 - [2021-01-01-大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html) 
 - [2022-06-12-基于文字的URL锚点定位与::target-text样式设置](https://www.zhangxinxu.com/wordpress/2022/06/url-anchor-target-text/) 
+- [2022-08-04-TLS-ECH-即将在-Chrome-105-测试版中可用](https://www.v2ex.com/t/870663) 
+- [2022-08-04-🎉-🎉-🎉-又来送兑换码咯~-macOS-效率应用-iPreview---Powerful-Quick-Look-祝大家七夕快乐~](https://www.v2ex.com/t/870662) 
 - [2022-08-04-zFrontier（装备前线）--挺有意思的一个网站](https://www.v2ex.com/t/870632) 
 - [2022-08-04-浏览器扩展-无追扩展-1.7-发布-可让你一键切换-Chrome-默认搜索引擎，也支持无追-@搜索-快捷切换搜索引擎](https://www.v2ex.com/t/870626) 
 - [2022-08-04-Zerotier-关于-Zerotier-的几个疑问](https://www.v2ex.com/t/870619) 

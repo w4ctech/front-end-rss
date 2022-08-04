@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-04 22:40:36，:rocket: 更新条数: +2033， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-04 23:03:35，:rocket: 更新条数: +2033， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -572,7 +572,7 @@
 - [2022-08-04-为什么大厂一边大规模裁员，又一边招聘？](https://toutiao.io/k/i9pm4mi) ![](assets/new.png)  
 - [2022-08-04-深度解读-Curve-资源占用之内存管理](https://toutiao.io/k/yiopi0i) ![](assets/new.png)  
 - [2022-08-04-基于ebpf的容器逃逸上](https://toutiao.io/k/k82en0w) ![](assets/new.png)  
-- [2022-08-04-推荐-研发过程中的文档管理与工具](https://toutiao.io/k/mdiqwn5) ![](assets/new.png)  
+- [2022-08-04-推荐-阿里云官方-Redis-开发规范！](https://toutiao.io/k/2fqcbfi) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

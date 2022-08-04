@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-08-04 05:10:40。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-08-04 05:48:44。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,9 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-08-04-都-Windows-11-了，微软的出错信息越来越不用心了](https://www.v2ex.com/t/870634) 
+- [2022-08-04-保定板块没人啊.......](https://www.v2ex.com/t/870631) 
+- [2022-08-04-现在的工作内容会影响到以后的就业方向吗](https://www.v2ex.com/t/870630) 
 - [2022-08-04-北京/上海彩云科技-iOS-开发工程师（初级）x-1](https://www.v2ex.com/t/870629) 
 - [2022-08-04-yeelight-语音关灯后，测得-w+/c+-与-w--之间的电压为-3v-左右](https://www.v2ex.com/t/870628) 
 - [2022-08-04-家里只有-IPv6-公网地址，怎么操作才能使其他-IPv4-网络也访问到？](https://www.v2ex.com/t/870627) 
@@ -1937,8 +1940,6 @@
 - [2022-08-04-手里有部分资金，有没有合作的可能！](https://www.v2ex.com/t/870591) 
 - [2022-08-04-炒股亏了大半年的工资，肉痛！](https://www.v2ex.com/t/870588) 
 - [2022-08-04-请教一句英语，-With-the-Grain-是什么意思](https://www.v2ex.com/t/870587) 
-- [2022-08-04-闲鱼出-mbp-验货宝说"显示有亮点或背光"是什么意思?](https://www.v2ex.com/t/870585) 
-- [2022-08-04-iOS-|-送码-回首一刻-——-极简好用的目标管理，努力记录工具](https://www.v2ex.com/t/870580) 
 - [2022-08-04-敏捷交付的工程效能治理-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15272&url=https%3A%2F%2Finsights.thoughtworks.cn%2F%3Fp%3D16439%26amp%3Bpreview%3Dtrue%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-08-04-排名前16的Java工具类，你用过哪个？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15269&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494394%26amp%3Bidx%3D2%26amp%3Bsn%3Dcb65e98ba5dce4c6ed915788f729e649%26amp%3Bchksm%3Dfa3f0ba1cd4882b75e5d170394f948b30c2fc6d572158708d579d194fcb1a861afc87301b3f8%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-08-04-真正的高颜值Markdown编辑神器！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15268&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494393%26amp%3Bidx%3D1%26amp%3Bsn%3D28dbada9c20aa41ccbda91cb2728061b%26amp%3Bchksm%3Dfa3f0ba2cd4882b41f55c7b312d4027603277638c507159a5dde871a6e5b6cf1f9d8ca151f4e%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1961,6 +1962,6 @@
 - [2022-08-04-最-Cool-的-Kubernetes-网络方案-Cilium-入门教程](https://toutiao.io/k/kusopfk) 
 - [2022-08-04-DNS-查询原理详解](https://toutiao.io/k/5pqq73c) 
 - [2022-08-04-rysnc命令过滤规则入门教程](https://toutiao.io/k/qcv90r1) 
-- [2022-08-04-推荐-老板：公司系统太多，能不能实现账号互通？](https://toutiao.io/k/g7sb904) 
 - [2022-08-04-推荐-腾讯低代码平台正式开源！可拖拽、生成手机项目、PC-项目！接私活福利啊！](https://toutiao.io/k/8oqx21m) 
+- [2022-08-04-推荐-老板：公司系统太多，能不能实现账号互通？](https://toutiao.io/k/g7sb904) 
 - [2022-08-04-推荐-阿里云官方-Redis-开发规范！](https://toutiao.io/k/2fqcbfi) 

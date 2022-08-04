@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-04 05:10:40，:rocket: 更新条数: +2020， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-04 05:48:44，:rocket: 更新条数: +2021， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,11 @@
 </summary>
 
 
+- [2022-08-04-Pixel-系-Google-相册对压缩质量图片/视频无限上传备份的问题](https://www.v2ex.com/t/870635) ![](assets/new.png)  
+- [2022-08-04-都-Windows-11-了，微软的出错信息越来越不用心了](https://www.v2ex.com/t/870634) ![](assets/new.png)  
+- [2022-08-04-zFrontier（装备前线）--挺有意思的一个网站](https://www.v2ex.com/t/870632) ![](assets/new.png)  
+- [2022-08-04-保定板块没人啊.......](https://www.v2ex.com/t/870631) ![](assets/new.png)  
+- [2022-08-04-现在的工作内容会影响到以后的就业方向吗](https://www.v2ex.com/t/870630) ![](assets/new.png)  
 - [2022-08-04-北京/上海彩云科技-iOS-开发工程师（初级）x-1](https://www.v2ex.com/t/870629) ![](assets/new.png)  
 - [2022-08-04-yeelight-语音关灯后，测得-w+/c+-与-w--之间的电压为-3v-左右](https://www.v2ex.com/t/870628) ![](assets/new.png)  
 - [2022-08-04-家里只有-IPv6-公网地址，怎么操作才能使其他-IPv4-网络也访问到？](https://www.v2ex.com/t/870627) ![](assets/new.png)  
@@ -506,11 +511,6 @@
 - [2022-08-04-珠三角食物推荐](https://www.v2ex.com/t/870615) ![](assets/new.png)  
 - [2022-08-04-在读英文文档的过程中，又臭又长的、好几节的定语从句大家都是怎么阅读理解的？](https://www.v2ex.com/t/870614) ![](assets/new.png)  
 - [2022-08-04-UI-最好的代表“图标”的图标是怎么样的](https://www.v2ex.com/t/870613) ![](assets/new.png)  
-- [2022-08-04-为了买套-Java-的交易所，上当了，-1000U-已经离我而去。](https://www.v2ex.com/t/870610) ![](assets/new.png)  
-- [2022-08-04-印度旧车-YouTube-Premium-美区](https://www.v2ex.com/t/870609) ![](assets/new.png)  
-- [2022-08-04-手机的-128G-内从是真的不够用了。](https://www.v2ex.com/t/870607) ![](assets/new.png)  
-- [2022-08-04-MarkText-好挤，请问怎么自动换行？](https://www.v2ex.com/t/870606) ![](assets/new.png)  
-- [2022-08-04-2022-年，有什么好用的跨机器键盘鼠标粘贴板共享工具吗](https://www.v2ex.com/t/870604) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -555,8 +555,8 @@
 
 - [2022-08-04-Java-大后端各种架构图汇总（建议收藏！！）](https://toutiao.io/k/dvo6z1w) ![](assets/new.png)  
 - [2022-08-04-风控逻辑利器---规则引擎](https://toutiao.io/k/vaxsn33) ![](assets/new.png)  
-- [2022-08-04-新一代主机安全4大核心技术和15大应用场景](https://toutiao.io/k/ilhis90) ![](assets/new.png)  
 - [2022-08-04-爱奇艺海外版HTTPS效率是如何提升的？](https://toutiao.io/k/o3maqiq) ![](assets/new.png)  
+- [2022-08-04-新一代主机安全4大核心技术和15大应用场景](https://toutiao.io/k/ilhis90) ![](assets/new.png)  
 - [2022-08-04-案例推荐-|-支撑超万家停车场：科拓停车基于-Pulsar-的消息总线架构演进](https://toutiao.io/k/uop3fzg) ![](assets/new.png)  
 - [2022-08-04-数据治理宝典！从0-1搭建企业级数据治理体系](https://toutiao.io/k/xtri6w7) ![](assets/new.png)  
 - [2022-08-04-CEO跟我聊996，呵呵！](https://toutiao.io/k/o848u8t) ![](assets/new.png)  
@@ -564,14 +564,14 @@
 - [2022-08-04-pnpm-是凭什么对-npm-和-yarn-降维打击的](https://toutiao.io/k/b04ii26) ![](assets/new.png)  
 - [2022-08-04-译文推荐｜Apache-Pulsar-隔离系列（四）：单集群隔离策略](https://toutiao.io/k/sy5ihr8) ![](assets/new.png)  
 - [2022-08-04-【萌新解题】字节跳动：验证二叉搜索树](https://toutiao.io/k/8dcj610) ![](assets/new.png)  
-- [2022-08-04-直播系统聊天技术八：vivo直播系统中IM消息模块的架构实践](https://toutiao.io/k/bhg84w2) ![](assets/new.png)  
 - [2022-08-04-最-Cool-的-Kubernetes-网络方案-Cilium-入门教程](https://toutiao.io/k/kusopfk) ![](assets/new.png)  
+- [2022-08-04-直播系统聊天技术八：vivo直播系统中IM消息模块的架构实践](https://toutiao.io/k/bhg84w2) ![](assets/new.png)  
 - [2022-08-04-DNS-查询原理详解](https://toutiao.io/k/5pqq73c) ![](assets/new.png)  
 - [2022-08-04-指令式编程和声明式编程](https://toutiao.io/k/qs7igrj) ![](assets/new.png)  
 - [2022-08-04-rysnc命令过滤规则入门教程](https://toutiao.io/k/qcv90r1) ![](assets/new.png)  
+- [2022-08-04-推荐-腾讯低代码平台正式开源！可拖拽、生成手机项目、PC-项目！接私活福利啊！](https://toutiao.io/k/8oqx21m) ![](assets/new.png)  
 - [2022-08-04-推荐-聊聊Java中代码优化的30个小技巧](https://toutiao.io/k/jv8g1r6) ![](assets/new.png)  
 - [2022-08-04-推荐-老板：公司系统太多，能不能实现账号互通？](https://toutiao.io/k/g7sb904) ![](assets/new.png)  
-- [2022-08-04-推荐-腾讯低代码平台正式开源！可拖拽、生成手机项目、PC-项目！接私活福利啊！](https://toutiao.io/k/8oqx21m) ![](assets/new.png)  
 - [2022-08-04-推荐-阿里云官方-Redis-开发规范！](https://toutiao.io/k/2fqcbfi) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

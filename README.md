@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-04 20:41:53，:rocket: 更新条数: +2032， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-04 21:13:22，:rocket: 更新条数: +2032， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-08-04-最近创建的一个-tg-频道](https://www.v2ex.com/t/870761) ![](assets/new.png)  
 - [2022-08-04-15-年全栈开发者TS,React,Node.js,-PHP-接单与求职远程工作](https://www.v2ex.com/t/870760) ![](assets/new.png)  
 - [2022-08-04-React-与-PHP-,Node.js-开发接单/远程工作](https://www.v2ex.com/t/870759) ![](assets/new.png)  
 - [2022-08-04-接外包](https://www.v2ex.com/t/870758) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-08-04-请大佬帮忙找个域名](https://www.v2ex.com/t/870742) ![](assets/new.png)  
 - [2022-08-04-macos-下，坚果云的右键菜单如何去除](https://www.v2ex.com/t/870741) ![](assets/new.png)  
 - [2022-08-04-杭州-23-届应届求职，希望-V-站各位大佬给点建议](https://www.v2ex.com/t/870740) ![](assets/new.png)  
-- [2022-08-04-五笔输入法之学习篇](https://www.v2ex.com/t/870739) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

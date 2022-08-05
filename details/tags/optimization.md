@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-08-05 23:03:17。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-08-05 23:13:55。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 性能优化
 
@@ -7,4 +7,5 @@
 
 
 
+- [2022-08-05-前端的等待加载界面，有什么防止闪烁的好办法吗？](https://www.v2ex.com/t/871015) 
 - [2022-08-05-一块GPU训练TB级推荐模型不是梦，OneEmbedding性能一骑绝尘](https://toutiao.io/k/pxyaq3i) 

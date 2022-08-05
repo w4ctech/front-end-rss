@@ -9953,6 +9953,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "前端的等待加载界面，有什么防止闪烁的好办法吗？",
+        "link": "https://www.v2ex.com/t/871015",
+        "date": "2022-08-05"
+      },
+      {
         "title": "用 Geth 搭建 ETH 的 snap 节点，一直同步不完，总是落后几十个区块",
         "link": "https://www.v2ex.com/t/871014",
         "date": "2022-08-05"
@@ -10140,11 +10145,6 @@
       {
         "title": "某个 package 的库文件没有经过 babel 处理，导致在 browserify 时报错",
         "link": "https://www.v2ex.com/t/870966",
-        "date": "2022-08-05"
-      },
-      {
-        "title": "请问 autohotkey 如何设置切换不同应用？",
-        "link": "https://www.v2ex.com/t/870965",
         "date": "2022-08-05"
       }
     ]
@@ -10352,13 +10352,13 @@
         "date": "2022-08-05"
       },
       {
-        "title": "[推荐] 阿里云官方 Redis 开发规范！",
-        "link": "https://toutiao.io/k/2fqcbfi",
+        "title": "[推荐] 老板：公司系统太多，能不能实现账号互通？",
+        "link": "https://toutiao.io/k/g7sb904",
         "date": "2022-08-05"
       },
       {
-        "title": "[推荐] 老板：公司系统太多，能不能实现账号互通？",
-        "link": "https://toutiao.io/k/g7sb904",
+        "title": "[推荐] 阿里云官方 Redis 开发规范！",
+        "link": "https://toutiao.io/k/2fqcbfi",
         "date": "2022-08-05"
       },
       {

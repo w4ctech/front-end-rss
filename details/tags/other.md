@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-08-05 10:43:00。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-08-05 11:13:40。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,8 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-08-05-Windows11-屏幕关闭或者睡眠后再开启,-程序窗口尺寸会变得很小.](https://www.v2ex.com/t/870957) 
+- [2022-08-05-Notion-搜索问题:-如何让搜索匹配忽略空格?](https://www.v2ex.com/t/870956) 
 - [2022-08-05-我是看不到自己发的帖子，还是刚创建就在十几页开外了？](https://www.v2ex.com/t/870954) 
 - [2022-08-05-吐槽一下买到的消防报警器](https://www.v2ex.com/t/870953) 
 - [2022-08-05-请问有没有过-gfw-的-内网穿透的解决办法-或跨-gfw-组网](https://www.v2ex.com/t/870952) 
@@ -1938,9 +1940,6 @@
 - [2022-08-05-求推荐几张永久或卡期内免年费的信用卡](https://www.v2ex.com/t/870913) 
 - [2022-08-05-关于超高并发模型部署方案的选择](https://www.v2ex.com/t/870909) 
 - [2022-08-05-一点认知：解释权与批量制造的大聪明](https://www.v2ex.com/t/870908) 
-- [2022-08-05-远程职位-{交易所->风控运营->清算开发>交易员>量化策略>合约产品}](https://www.v2ex.com/t/870907) 
-- [2022-08-05-现在高铁能办托运么,买个了电视发错地址](https://www.v2ex.com/t/870906) 
-- [2022-08-05-刚入门-k8s，想请问如何制作一次性-pod。求指导！](https://www.v2ex.com/t/870905) 
 - [2022-08-05-完成原型设计的五个步骤-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15273&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffive-steps-for-prototype-design%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-08-05-敏捷交付的工程效能治理-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15272&url=https%3A%2F%2Finsights.thoughtworks.cn%2F%3Fp%3D16439%26amp%3Bpreview%3Dtrue%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-08-05-排名前16的Java工具类，你用过哪个？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15269&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494394%26amp%3Bidx%3D2%26amp%3Bsn%3Dcb65e98ba5dce4c6ed915788f729e649%26amp%3Bchksm%3Dfa3f0ba1cd4882b75e5d170394f948b30c2fc6d572158708d579d194fcb1a861afc87301b3f8%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1962,7 +1961,7 @@
 - [2022-08-05-重新审视分布式系统：永远不会有完美的一致性方案……](https://toutiao.io/k/kd2sogm) 
 - [2022-08-05-整理了27个Python人工智能库，建议收藏！](https://toutiao.io/k/dqti37v) 
 - [2022-08-05-硅谷来信：快速行动，Facebook、Quora等成功的“神器”！](https://toutiao.io/k/6mn45sd) 
-- [2022-08-05-推荐-阿里云官方-Redis-开发规范！](https://toutiao.io/k/2fqcbfi) 
 - [2022-08-05-推荐-研发过程中的文档管理与工具](https://toutiao.io/k/mdiqwn5) 
+- [2022-08-05-推荐-阿里云官方-Redis-开发规范！](https://toutiao.io/k/2fqcbfi) 
 - [2022-08-05-推荐-老板：公司系统太多，能不能实现账号互通？](https://toutiao.io/k/g7sb904) 
 - [2022-08-05-推荐-腾讯低代码平台正式开源！可拖拽、生成手机项目、PC-项目！接私活福利啊！](https://toutiao.io/k/8oqx21m) 

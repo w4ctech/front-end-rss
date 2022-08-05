@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-08-05 15:15:17。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-08-05 15:45:07。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,7 @@
 </summary>
 
 
+- [【V2EX】2022-08-05-dell-2720-屏幕中间有条线，过了一阵子又没了](https://www.v2ex.com/t/871000) 
 - [【V2EX】2022-08-05-想做一个恋爱辅助器](https://www.v2ex.com/t/870999) 
 - [【V2EX】2022-08-05-无新装应用/更新的情况下，突然手柄不能用了。。](https://www.v2ex.com/t/870998) 
 - [【V2EX】2022-08-05-PT-盒子](https://www.v2ex.com/t/870997) 
@@ -108,7 +109,6 @@
 - [【V2EX】2022-08-05-我是看不到自己发的帖子，还是刚创建就在十几页开外了？](https://www.v2ex.com/t/870954) 
 - [【V2EX】2022-08-05-吐槽一下买到的消防报警器](https://www.v2ex.com/t/870953) 
 - [【V2EX】2022-08-05-有哪些可以付费咨询技术问题的平台](https://www.v2ex.com/t/870951) 
-- [【V2EX】2022-08-05-问个弱智问题，-mac-下的-u-盘写入工具是什么？](https://www.v2ex.com/t/870950) 
 - [【技术头条】2022-08-05-完成原型设计的五个步骤-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15273&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffive-steps-for-prototype-design%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-08-05-敏捷交付的工程效能治理-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15272&url=https%3A%2F%2Finsights.thoughtworks.cn%2F%3Fp%3D16439%26amp%3Bpreview%3Dtrue%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-08-05-SpringBoot四大核心组件，你知道几个？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15271&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494395%26amp%3Bidx%3D2%26amp%3Bsn%3D7625c27c0bbb10cfd2e5e1d8a09a3c74%26amp%3Bchksm%3Dfa3f0ba0cd4882b6baa602f1f11ffebc9ec2dadb2ee131a812efc29a71e64cb3959c144707ff%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -147,10 +147,10 @@
 - [【开发者头条】2022-08-05-Blueboat：一体化无服务器-JavaScript-运行时环境](https://toutiao.io/k/l0rhkug) 
 - [【开发者头条】2022-08-05-一块GPU训练TB级推荐模型不是梦，OneEmbedding性能一骑绝尘](https://toutiao.io/k/pxyaq3i) 
 - [【开发者头条】2022-08-05-硅谷来信：快速行动，Facebook、Quora等成功的“神器”！](https://toutiao.io/k/6mn45sd) 
-- [【开发者头条】2022-08-05-推荐-阿里云官方-Redis-开发规范！](https://toutiao.io/k/2fqcbfi) 
 - [【开发者头条】2022-08-05-推荐-腾讯低代码平台正式开源！可拖拽、生成手机项目、PC-项目！接私活福利啊！](https://toutiao.io/k/8oqx21m) 
-- [【开发者头条】2022-08-05-推荐-老板：公司系统太多，能不能实现账号互通？](https://toutiao.io/k/g7sb904) 
+- [【开发者头条】2022-08-05-推荐-阿里云官方-Redis-开发规范！](https://toutiao.io/k/2fqcbfi) 
 - [【开发者头条】2022-08-05-推荐-研发过程中的文档管理与工具](https://toutiao.io/k/mdiqwn5) 
+- [【开发者头条】2022-08-05-推荐-老板：公司系统太多，能不能实现账号互通？](https://toutiao.io/k/g7sb904) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-05 15:15:17，:rocket: 更新条数: +2029， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-05 15:45:07，:rocket: 更新条数: +2029， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-08-05-dell-2720-屏幕中间有条线，过了一阵子又没了](https://www.v2ex.com/t/871000) ![](assets/new.png)  
 - [2022-08-05-想做一个恋爱辅助器](https://www.v2ex.com/t/870999) ![](assets/new.png)  
 - [2022-08-05-无新装应用/更新的情况下，突然手柄不能用了。。](https://www.v2ex.com/t/870998) ![](assets/new.png)  
 - [2022-08-05-PT-盒子](https://www.v2ex.com/t/870997) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-08-05-元宇宙方向公司招人啦前端，杭州，远程](https://www.v2ex.com/t/870979) ![](assets/new.png)  
 - [2022-08-05-iOS送码-AnimeRes，整理你的动漫图片，新鲜上架](https://www.v2ex.com/t/870977) ![](assets/new.png)  
 - [2022-08-05-kube-state-metrics-arm-镜像构建](https://www.v2ex.com/t/870976) ![](assets/new.png)  
-- [2022-08-05-怎么也可以成为一名“可以把台湾-711-便利店显示器篡改”的爱国者呀,需要学什么知识？](https://www.v2ex.com/t/870975) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -571,8 +571,8 @@
 - [2022-08-05-Blueboat：一体化无服务器-JavaScript-运行时环境](https://toutiao.io/k/l0rhkug) ![](assets/new.png)  
 - [2022-08-05-一块GPU训练TB级推荐模型不是梦，OneEmbedding性能一骑绝尘](https://toutiao.io/k/pxyaq3i) ![](assets/new.png)  
 - [2022-08-05-硅谷来信：快速行动，Facebook、Quora等成功的“神器”！](https://toutiao.io/k/6mn45sd) ![](assets/new.png)  
-- [2022-08-05-推荐-阿里云官方-Redis-开发规范！](https://toutiao.io/k/2fqcbfi) ![](assets/new.png)  
 - [2022-08-05-推荐-腾讯低代码平台正式开源！可拖拽、生成手机项目、PC-项目！接私活福利啊！](https://toutiao.io/k/8oqx21m) ![](assets/new.png)  
+- [2022-08-05-推荐-阿里云官方-Redis-开发规范！](https://toutiao.io/k/2fqcbfi) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

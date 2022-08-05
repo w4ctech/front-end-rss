@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-08-05 11:40:18。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-08-05 12:26:45。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -17,6 +17,7 @@
 - [2022-06-11-介绍一种CSS变量未定义语法也OK的小妙招](https://www.zhangxinxu.com/wordpress/2022/06/css-var-optional-empty-trick/) 
 - [2022-05-29-如何实现页面刷新后不定位到之前的滚动位置？](https://www.zhangxinxu.com/wordpress/2022/05/history-scrollrestoration/) 
 - [2022-05-11-JS与条形码的生成](https://www.zhangxinxu.com/wordpress/2022/05/js-barcode/) 
+- [2022-08-05-低功耗-x86-软路由推荐](https://www.v2ex.com/t/870969) 
 - [2022-08-05-入了个-N5105-的软路由，大家有没有推荐的-AP？](https://www.v2ex.com/t/870938) 
 - [2022-08-05-更好适配深色模式的通讯录黄页----WHATSINContacts。](https://www.v2ex.com/t/870927) 
 - [2022-08-05-有没有好用的图片放大预览的-js-库？](https://www.v2ex.com/t/870921) 

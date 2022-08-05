@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-05 11:40:18，:rocket: 更新条数: +2028， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-05 12:26:45，:rocket: 更新条数: +2030， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,12 @@
 </summary>
 
 
+- [2022-08-05-低功耗-x86-软路由推荐](https://www.v2ex.com/t/870969) ![](assets/new.png)  
+- [2022-08-05-怎样让两台设备通过-PC-连接？](https://www.v2ex.com/t/870968) ![](assets/new.png)  
+- [2022-08-05-请问大家如何确定一个无状态应用何时应该横向扩容、何时应该纵向扩容？](https://www.v2ex.com/t/870967) ![](assets/new.png)  
+- [2022-08-05-某个-package-的库文件没有经过-babel-处理，导致在-browserify-时报错](https://www.v2ex.com/t/870966) ![](assets/new.png)  
+- [2022-08-05-请问-autohotkey-如何设置切换不同应用？](https://www.v2ex.com/t/870965) ![](assets/new.png)  
+- [2022-08-05-在纠结买-m1-的-air-还是-m2-的-air](https://www.v2ex.com/t/870963) ![](assets/new.png)  
 - [2022-08-05-深圳联通宽带求教](https://www.v2ex.com/t/870962) ![](assets/new.png)  
 - [2022-08-05-有可能可以忽略-error，使得-vite-build-正常通过嘛？](https://www.v2ex.com/t/870961) ![](assets/new.png)  
 - [2022-08-05-胆结石微创手术后还是会有肚子胀的情况](https://www.v2ex.com/t/870960) ![](assets/new.png)  
@@ -505,12 +511,6 @@
 - [2022-08-05-有哪些可以付费咨询技术问题的平台](https://www.v2ex.com/t/870951) ![](assets/new.png)  
 - [2022-08-05-问个弱智问题，-mac-下的-u-盘写入工具是什么？](https://www.v2ex.com/t/870950) ![](assets/new.png)  
 - [2022-08-05-前端新手用-VUE-干活，有什么好的后台模板推荐吗](https://www.v2ex.com/t/870948) ![](assets/new.png)  
-- [2022-08-05-抵抗社会毒瘤-建立“反-https-联盟”/“抵抗-https-联盟”……](https://www.v2ex.com/t/870947) ![](assets/new.png)  
-- [2022-08-05-广东电信最新内部套餐表-包含最新大上传套餐！](https://www.v2ex.com/t/870946) ![](assets/new.png)  
-- [2022-08-05-jetbrains-的-privatekey-泄露了?](https://www.v2ex.com/t/870945) ![](assets/new.png)  
-- [2022-08-05-有感而发，一起旅行是考验男生能否安排好一切的吗？](https://www.v2ex.com/t/870943) ![](assets/new.png)  
-- [2022-08-05-自己创建的-Telegram-频道](https://www.v2ex.com/t/870940) ![](assets/new.png)  
-- [2022-08-05-请教几个题库类项目的疑点](https://www.v2ex.com/t/870939) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -564,15 +564,15 @@
 - [2022-08-05-手撕SparkSQL五大JOIN的底层机制](https://toutiao.io/k/nf9zat8) ![](assets/new.png)  
 - [2022-08-05-数据检索的玄铁剑——索引](https://toutiao.io/k/ssyu97q) ![](assets/new.png)  
 - [2022-08-05-重新审视分布式系统：永远不会有完美的一致性方案……](https://toutiao.io/k/kd2sogm) ![](assets/new.png)  
+- [2022-08-05-一文详解用eBPF观测HTTP](https://toutiao.io/k/umo00i0) ![](assets/new.png)  
+- [2022-08-05-整理了27个Python人工智能库，建议收藏！](https://toutiao.io/k/dqti37v) ![](assets/new.png)  
 - [2022-08-05-在Chrome-DevTools中从Go源代码调试WebAssembly](https://toutiao.io/k/1qo5u3u) ![](assets/new.png)  
 - [2022-08-05-Blueboat：一体化无服务器-JavaScript-运行时环境](https://toutiao.io/k/l0rhkug) ![](assets/new.png)  
 - [2022-08-05-一块GPU训练TB级推荐模型不是梦，OneEmbedding性能一骑绝尘](https://toutiao.io/k/pxyaq3i) ![](assets/new.png)  
-- [2022-08-05-整理了27个Python人工智能库，建议收藏！](https://toutiao.io/k/dqti37v) ![](assets/new.png)  
-- [2022-08-05-一文详解用eBPF观测HTTP](https://toutiao.io/k/umo00i0) ![](assets/new.png)  
 - [2022-08-05-kubelet-远程调试方法](https://toutiao.io/k/ywtwbk9) ![](assets/new.png)  
 - [2022-08-05-硅谷来信：快速行动，Facebook、Quora等成功的“神器”！](https://toutiao.io/k/6mn45sd) ![](assets/new.png)  
 - [2022-08-05-推荐-研发过程中的文档管理与工具](https://toutiao.io/k/mdiqwn5) ![](assets/new.png)  
-- [2022-08-05-推荐-阿里云官方-Redis-开发规范！](https://toutiao.io/k/2fqcbfi) ![](assets/new.png)  
+- [2022-08-05-推荐-腾讯低代码平台正式开源！可拖拽、生成手机项目、PC-项目！接私活福利啊！](https://toutiao.io/k/8oqx21m) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

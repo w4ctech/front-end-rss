@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-08-05 11:40:18。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-08-05 12:26:45。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,12 @@
 </summary>
 
 
+- [【V2EX】2022-08-05-低功耗-x86-软路由推荐](https://www.v2ex.com/t/870969) 
+- [【V2EX】2022-08-05-怎样让两台设备通过-PC-连接？](https://www.v2ex.com/t/870968) 
+- [【V2EX】2022-08-05-请问大家如何确定一个无状态应用何时应该横向扩容、何时应该纵向扩容？](https://www.v2ex.com/t/870967) 
+- [【V2EX】2022-08-05-某个-package-的库文件没有经过-babel-处理，导致在-browserify-时报错](https://www.v2ex.com/t/870966) 
+- [【V2EX】2022-08-05-请问-autohotkey-如何设置切换不同应用？](https://www.v2ex.com/t/870965) 
+- [【V2EX】2022-08-05-在纠结买-m1-的-air-还是-m2-的-air](https://www.v2ex.com/t/870963) 
 - [【V2EX】2022-08-05-深圳联通宽带求教](https://www.v2ex.com/t/870962) 
 - [【V2EX】2022-08-05-有可能可以忽略-error，使得-vite-build-正常通过嘛？](https://www.v2ex.com/t/870961) 
 - [【V2EX】2022-08-05-胆结石微创手术后还是会有肚子胀的情况](https://www.v2ex.com/t/870960) 
@@ -104,10 +110,6 @@
 - [【V2EX】2022-08-05-有用毕亚兹-biaze-扩展坞的怎么样？](https://www.v2ex.com/t/870922) 
 - [【V2EX】2022-08-05-有没有好用的图片放大预览的-js-库？](https://www.v2ex.com/t/870921) 
 - [【V2EX】2022-08-05-编译事故-感觉前端依赖管理太不省心了-顺便问问有什么优秀解决方案](https://www.v2ex.com/t/870920) 
-- [【V2EX】2022-08-05-深圳-大梦龙途-游戏-U3D-客户端-C++服务端开发-技术美术-TA](https://www.v2ex.com/t/870918) 
-- [【V2EX】2022-08-05-最近大放水的-E-招贷有办过的吗？](https://www.v2ex.com/t/870916) 
-- [【V2EX】2022-08-05-联通-1000M-宽带-插网线后-SpeedTest-下载速度只能跑到-940Mbps-左右](https://www.v2ex.com/t/870915) 
-- [【V2EX】2022-08-05-求推荐几张永久或卡期内免年费的信用卡](https://www.v2ex.com/t/870913) 
 - [【技术头条】2022-08-05-完成原型设计的五个步骤-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15273&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffive-steps-for-prototype-design%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-08-05-敏捷交付的工程效能治理-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15272&url=https%3A%2F%2Finsights.thoughtworks.cn%2F%3Fp%3D16439%26amp%3Bpreview%3Dtrue%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-08-05-SpringBoot四大核心组件，你知道几个？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15271&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494395%26amp%3Bidx%3D2%26amp%3Bsn%3D7625c27c0bbb10cfd2e5e1d8a09a3c74%26amp%3Bchksm%3Dfa3f0ba0cd4882b6baa602f1f11ffebc9ec2dadb2ee131a812efc29a71e64cb3959c144707ff%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -139,17 +141,17 @@
 - [【开发者头条】2022-08-05-手撕SparkSQL五大JOIN的底层机制](https://toutiao.io/k/nf9zat8) 
 - [【开发者头条】2022-08-05-数据检索的玄铁剑——索引](https://toutiao.io/k/ssyu97q) 
 - [【开发者头条】2022-08-05-重新审视分布式系统：永远不会有完美的一致性方案……](https://toutiao.io/k/kd2sogm) 
+- [【开发者头条】2022-08-05-一文详解用eBPF观测HTTP](https://toutiao.io/k/umo00i0) 
+- [【开发者头条】2022-08-05-整理了27个Python人工智能库，建议收藏！](https://toutiao.io/k/dqti37v) 
 - [【开发者头条】2022-08-05-在Chrome-DevTools中从Go源代码调试WebAssembly](https://toutiao.io/k/1qo5u3u) 
 - [【开发者头条】2022-08-05-Blueboat：一体化无服务器-JavaScript-运行时环境](https://toutiao.io/k/l0rhkug) 
 - [【开发者头条】2022-08-05-一块GPU训练TB级推荐模型不是梦，OneEmbedding性能一骑绝尘](https://toutiao.io/k/pxyaq3i) 
-- [【开发者头条】2022-08-05-整理了27个Python人工智能库，建议收藏！](https://toutiao.io/k/dqti37v) 
-- [【开发者头条】2022-08-05-一文详解用eBPF观测HTTP](https://toutiao.io/k/umo00i0) 
 - [【开发者头条】2022-08-05-kubelet-远程调试方法](https://toutiao.io/k/ywtwbk9) 
 - [【开发者头条】2022-08-05-硅谷来信：快速行动，Facebook、Quora等成功的“神器”！](https://toutiao.io/k/6mn45sd) 
 - [【开发者头条】2022-08-05-推荐-研发过程中的文档管理与工具](https://toutiao.io/k/mdiqwn5) 
+- [【开发者头条】2022-08-05-推荐-腾讯低代码平台正式开源！可拖拽、生成手机项目、PC-项目！接私活福利啊！](https://toutiao.io/k/8oqx21m) 
 - [【开发者头条】2022-08-05-推荐-阿里云官方-Redis-开发规范！](https://toutiao.io/k/2fqcbfi) 
 - [【开发者头条】2022-08-05-推荐-老板：公司系统太多，能不能实现账号互通？](https://toutiao.io/k/g7sb904) 
-- [【开发者头条】2022-08-05-推荐-腾讯低代码平台正式开源！可拖拽、生成手机项目、PC-项目！接私活福利啊！](https://toutiao.io/k/8oqx21m) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

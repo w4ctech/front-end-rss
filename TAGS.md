@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-08-05 11:40:18。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-08-05 12:26:45。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -91,6 +91,7 @@
 
 
 - [【武汉肺炎防疫全纪录(财新网)】韩国拟升级首尔疫情管控-法国专业机构建议强制接种疫苗｜大流行手记（7月10日）](https://m.caixin.com/m/2021-07-11/101738786.html)
+- [【V2EX】某个-package-的库文件没有经过-babel-处理，导致在-browserify-时报错](https://www.v2ex.com/t/870966)
 - [......【查看更多】......](./details/tags/pack-build.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -156,7 +157,6 @@
 
 
 
-- [【V2EX】深圳-大梦龙途-游戏-U3D-客户端-C++服务端开发-技术美术-TA](https://www.v2ex.com/t/870918)
 - [......【查看更多】......](./details/tags/dev-game.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -183,6 +183,7 @@
 - [【张鑫旭-鑫空间-鑫生活】介绍一种CSS变量未定义语法也OK的小妙招](https://www.zhangxinxu.com/wordpress/2022/06/css-var-optional-empty-trick/)
 - [【张鑫旭-鑫空间-鑫生活】如何实现页面刷新后不定位到之前的滚动位置？](https://www.zhangxinxu.com/wordpress/2022/05/history-scrollrestoration/)
 - [【张鑫旭-鑫空间-鑫生活】JS与条形码的生成](https://www.zhangxinxu.com/wordpress/2022/05/js-barcode/)
+- [【V2EX】低功耗-x86-软路由推荐](https://www.v2ex.com/t/870969)
 - [【V2EX】入了个-N5105-的软路由，大家有没有推荐的-AP？](https://www.v2ex.com/t/870938)
 - [【V2EX】更好适配深色模式的通讯录黄页----WHATSINContacts。](https://www.v2ex.com/t/870927)
 - [【V2EX】有没有好用的图片放大预览的-js-库？](https://www.v2ex.com/t/870921)

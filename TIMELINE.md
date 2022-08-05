@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-08-05 06:17:23。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-08-05 06:48:46。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,12 @@
 </summary>
 
 
+- [【V2EX】2022-08-05-遭遇电信诈骗求白帽子大佬出手](https://www.v2ex.com/t/870889) 
+- [【V2EX】2022-08-05-想买个投影仪](https://www.v2ex.com/t/870888) 
+- [【V2EX】2022-08-05-CFCA-p7SignMessageDetach-有谁能给个-golang-版本的吗](https://www.v2ex.com/t/870887) 
+- [【V2EX】2022-08-05-这两种变量名你们喜欢哪种？](https://www.v2ex.com/t/870886) 
+- [【V2EX】2022-08-05-m1-air-是有多受欢迎](https://www.v2ex.com/t/870885) 
+- [【V2EX】2022-08-05-（欢迎喜欢开源的小伙伴）招聘前端开发、golang-开发工程师](https://www.v2ex.com/t/870884) 
 - [【V2EX】2022-08-05-山上的朋友们,请教:CFCA-EV-ROOT-这个证书,可以删吗?](https://www.v2ex.com/t/870883) 
 - [【V2EX】2022-08-05-读研选择视频编码这个方向如何，前景咋样呢](https://www.v2ex.com/t/870882) 
 - [【V2EX】2022-08-05-在没有完善设计文档的情况下，如何有效阅读一个大型系统代码？](https://www.v2ex.com/t/870881) 
@@ -99,12 +105,6 @@
 - [【V2EX】2022-08-05-导航的话除了北京还是得百度](https://www.v2ex.com/t/870843) 
 - [【V2EX】2022-08-05-为了方便看房价趋势弄了个-Chrome-插件，有关注房价的可以试用一下](https://www.v2ex.com/t/870841) 
 - [【V2EX】2022-08-05-北京眼镜店推荐](https://www.v2ex.com/t/870840) 
-- [【V2EX】2022-08-05-网易内推-互娱-23-届校招内推-内推码-XX3CuG](https://www.v2ex.com/t/870839) 
-- [【V2EX】2022-08-05-大家的邮箱是怎么弄得那么一长串字符，我发邮箱提示需要一个月才能发，是自己用工具转换的，还是网站自动转换的。](https://www.v2ex.com/t/870838) 
-- [【V2EX】2022-08-05-iOS-有些-App-自己清缓存无效](https://www.v2ex.com/t/870837) 
-- [【V2EX】2022-08-05-V-友们，能推荐一款-300-元左右的-wifi6-路由器吗？](https://www.v2ex.com/t/870836) 
-- [【V2EX】2022-08-05-swagger-yaml-手写？](https://www.v2ex.com/t/870835) 
-- [【V2EX】2022-08-05-辞职了，想问问去哪旅行好？](https://www.v2ex.com/t/870834) 
 - [【技术头条】2022-08-05-完成原型设计的五个步骤-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15273&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffive-steps-for-prototype-design%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-08-05-敏捷交付的工程效能治理-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15272&url=https%3A%2F%2Finsights.thoughtworks.cn%2F%3Fp%3D16439%26amp%3Bpreview%3Dtrue%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-08-05-SpringBoot四大核心组件，你知道几个？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15271&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494395%26amp%3Bidx%3D2%26amp%3Bsn%3D7625c27c0bbb10cfd2e5e1d8a09a3c74%26amp%3Bchksm%3Dfa3f0ba0cd4882b6baa602f1f11ffebc9ec2dadb2ee131a812efc29a71e64cb3959c144707ff%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -127,11 +127,11 @@
 - [【技术头条】2022-08-05-How-to-make-Total-Commander-works-with-Everything-and-QuickLook-www.dbform.com](https://blogread.cn/news/go.php?idItem=15254&url=https%3A%2F%2Fwww.dbform.com%2F2022%2F05%2F01%2Fhow-to-make-total-commander-works-with-everything-and-quicklook%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【开发者头条】2022-08-05-Kafka在美团数据平台的实践](https://toutiao.io/k/92uh7d6) 
 - [【开发者头条】2022-08-05-【突发】Nginx-Log4j2-疑似存在严重漏洞紧急通报！](https://toutiao.io/k/ectmt30) 
-- [【开发者头条】2022-08-05-浅谈数仓模型（维度建模）](https://toutiao.io/k/homv8cz) 
 - [【开发者头条】2022-08-05-解决方案---自动化单元测试](https://toutiao.io/k/0geaxdx) 
+- [【开发者头条】2022-08-05-浅谈数仓模型（维度建模）](https://toutiao.io/k/homv8cz) 
 - [【开发者头条】2022-08-05-NVM-快速安装教程，只此一家](https://toutiao.io/k/6kbp22s) 
-- [【开发者头条】2022-08-05-Google-V8引擎浅析-内存管理](https://toutiao.io/k/gr4z26w) 
 - [【开发者头条】2022-08-05-以小窥大：IO-卡顿探寻苹果文件系统](https://toutiao.io/k/xbnkwtv) 
+- [【开发者头条】2022-08-05-Google-V8引擎浅析-内存管理](https://toutiao.io/k/gr4z26w) 
 - [【开发者头条】2022-08-05-React-的一些最佳安全实践](https://toutiao.io/k/5re1mb3) 
 - [【开发者头条】2022-08-05-手撕SparkSQL五大JOIN的底层机制](https://toutiao.io/k/nf9zat8) 
 - [【开发者头条】2022-08-05-数据检索的玄铁剑——索引](https://toutiao.io/k/ssyu97q) 
@@ -139,12 +139,12 @@
 - [【开发者头条】2022-08-05-Blueboat：一体化无服务器-JavaScript-运行时环境](https://toutiao.io/k/l0rhkug) 
 - [【开发者头条】2022-08-05-在Chrome-DevTools中从Go源代码调试WebAssembly](https://toutiao.io/k/1qo5u3u) 
 - [【开发者头条】2022-08-05-一块GPU训练TB级推荐模型不是梦，OneEmbedding性能一骑绝尘](https://toutiao.io/k/pxyaq3i) 
-- [【开发者头条】2022-08-05-整理了27个Python人工智能库，建议收藏！](https://toutiao.io/k/dqti37v) 
 - [【开发者头条】2022-08-05-一文详解用eBPF观测HTTP](https://toutiao.io/k/umo00i0) 
+- [【开发者头条】2022-08-05-整理了27个Python人工智能库，建议收藏！](https://toutiao.io/k/dqti37v) 
 - [【开发者头条】2022-08-05-kubelet-远程调试方法](https://toutiao.io/k/ywtwbk9) 
 - [【开发者头条】2022-08-05-硅谷来信：快速行动，Facebook、Quora等成功的“神器”！](https://toutiao.io/k/6mn45sd) 
-- [【开发者头条】2022-08-05-推荐-老板：公司系统太多，能不能实现账号互通？](https://toutiao.io/k/g7sb904) 
 - [【开发者头条】2022-08-05-推荐-阿里云官方-Redis-开发规范！](https://toutiao.io/k/2fqcbfi) 
+- [【开发者头条】2022-08-05-推荐-老板：公司系统太多，能不能实现账号互通？](https://toutiao.io/k/g7sb904) 
 - [【开发者头条】2022-08-05-推荐-研发过程中的文档管理与工具](https://toutiao.io/k/mdiqwn5) 
 - [【开发者头条】2022-08-05-推荐-腾讯低代码平台正式开源！可拖拽、生成手机项目、PC-项目！接私活福利啊！](https://toutiao.io/k/8oqx21m) 
 

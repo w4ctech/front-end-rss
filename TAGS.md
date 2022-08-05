@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-08-05 13:14:27。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-08-05 13:59:51。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -92,6 +92,7 @@
 
 
 - [【武汉肺炎防疫全纪录(财新网)】韩国拟升级首尔疫情管控-法国专业机构建议强制接种疫苗｜大流行手记（7月10日）](https://m.caixin.com/m/2021-07-11/101738786.html)
+- [【V2EX】kube-state-metrics-arm-镜像构建](https://www.v2ex.com/t/870976)
 - [【V2EX】某个-package-的库文件没有经过-babel-处理，导致在-browserify-时报错](https://www.v2ex.com/t/870966)
 - [......【查看更多】......](./details/tags/pack-build.md)
 
@@ -186,7 +187,6 @@
 - [【张鑫旭-鑫空间-鑫生活】JS与条形码的生成](https://www.zhangxinxu.com/wordpress/2022/05/js-barcode/)
 - [【V2EX】低功耗-x86-软路由推荐](https://www.v2ex.com/t/870969)
 - [【V2EX】入了个-N5105-的软路由，大家有没有推荐的-AP？](https://www.v2ex.com/t/870938)
-- [【V2EX】更好适配深色模式的通讯录黄页----WHATSINContacts。](https://www.v2ex.com/t/870927)
 - [【技术头条】SpringBoot四大核心组件，你知道几个？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15271&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494395%26amp%3Bidx%3D2%26amp%3Bsn%3D7625c27c0bbb10cfd2e5e1d8a09a3c74%26amp%3Bchksm%3Dfa3f0ba0cd4882b6baa602f1f11ffebc9ec2dadb2ee131a812efc29a71e64cb3959c144707ff%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【开发者头条】Blueboat：一体化无服务器-JavaScript-运行时环境](https://toutiao.io/k/l0rhkug)
 - [......【查看更多】......](./details/tags/javascript.md)
@@ -244,7 +244,6 @@
 
 - [【武汉肺炎防疫全纪录(财新网)】广州17岁男生在定点医院参加高考-特殊考场视频监考](https://m.caixin.com/m/2021-06-05/101723418.html)
 - [【武汉肺炎防疫全纪录(财新网)】林郑月娥率13高官直播接种科兴疫苗-复星疫苗预计周中到港](https://m.caixin.com/m/2021-02-22/101665724.html)
-- [【V2EX】来一个拼单，同程黑鲸卡，可领-12-个月腾讯视频或者爱奇艺视频-Vip,扫码拼单](https://www.v2ex.com/t/870929)
 - [......【查看更多】......](./details/tags/audio-video.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-08-05 13:14:27。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-08-05 13:59:51。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,7 +68,14 @@
 </summary>
 
 
-- [【V2EX】2022-08-05-鉴于工作繁忙，-Rippling-急需扩大团队](https://www.v2ex.com/t/870974) 
+- [【V2EX】2022-08-05-有什么支持过期的-Java-本地内存-KV-存储吗？](https://www.v2ex.com/t/870985) 
+- [【V2EX】2022-08-05-matePad11-创建多用户以后，除了机主以外其他用户居然用不了存储卡](https://www.v2ex.com/t/870983) 
+- [【V2EX】2022-08-05-打包便宜出-6-个腾讯云帐号和-10-台轻量服务器和-2-台云数据库](https://www.v2ex.com/t/870980) 
+- [【V2EX】2022-08-05-元宇宙方向公司招人啦前端，杭州，远程](https://www.v2ex.com/t/870979) 
+- [【V2EX】2022-08-05-iOS送码-AnimeRes，整理你的动漫图片，新鲜上架](https://www.v2ex.com/t/870977) 
+- [【V2EX】2022-08-05-kube-state-metrics-arm-镜像构建](https://www.v2ex.com/t/870976) 
+- [【V2EX】2022-08-05-怎么也可以成为一名“可以把台湾-711-便利店显示器篡改”的爱国者呀,需要学什么知识？](https://www.v2ex.com/t/870975) 
+- [【V2EX】2022-08-05-D-轮-HR-SaaS-领域独角兽-Rippling-在中国招工程师啦](https://www.v2ex.com/t/870974) 
 - [【V2EX】2022-08-05-找-React-前端外包](https://www.v2ex.com/t/870972) 
 - [【V2EX】2022-08-05-上下行对等商宽是不是智商税?](https://www.v2ex.com/t/870970) 
 - [【V2EX】2022-08-05-低功耗-x86-软路由推荐](https://www.v2ex.com/t/870969) 
@@ -100,15 +107,6 @@
 - [【V2EX】2022-08-05-入了个-N5105-的软路由，大家有没有推荐的-AP？](https://www.v2ex.com/t/870938) 
 - [【V2EX】2022-08-05-Python-通过-PooledDB-如何连接两个数据库](https://www.v2ex.com/t/870937) 
 - [【V2EX】2022-08-05-桌面搜索哪家强？-recoll?textseek?](https://www.v2ex.com/t/870936) 
-- [【V2EX】2022-08-05-求推荐-Mac-OS-Monterey-可用的虚拟机软件](https://www.v2ex.com/t/870935) 
-- [【V2EX】2022-08-05-看到一个讨论导航的帖子，想到：大家喜欢什么样的导航音效呢？](https://www.v2ex.com/t/870933) 
-- [【V2EX】2022-08-05-打算去矫正一下牙齿，-v-友有没有什么经验分享](https://www.v2ex.com/t/870932) 
-- [【V2EX】2022-08-05-手贱把-iPhone-SE2-放鱼缸里降温](https://www.v2ex.com/t/870931) 
-- [【V2EX】2022-08-05-关于一个"后台管理系统快速生成器"的思路探讨](https://www.v2ex.com/t/870930) 
-- [【V2EX】2022-08-05-来一个拼单，同程黑鲸卡，可领-12-个月腾讯视频或者爱奇艺视频-Vip,扫码拼单](https://www.v2ex.com/t/870929) 
-- [【V2EX】2022-08-05-最近通话/通话记录问题](https://www.v2ex.com/t/870928) 
-- [【V2EX】2022-08-05-更好适配深色模式的通讯录黄页----WHATSINContacts。](https://www.v2ex.com/t/870927) 
-- [【V2EX】2022-08-05-Macbook-外置键盘配合内置触摸板的一个方案](https://www.v2ex.com/t/870926) 
 - [【技术头条】2022-08-05-完成原型设计的五个步骤-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15273&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffive-steps-for-prototype-design%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-08-05-敏捷交付的工程效能治理-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15272&url=https%3A%2F%2Finsights.thoughtworks.cn%2F%3Fp%3D16439%26amp%3Bpreview%3Dtrue%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-08-05-SpringBoot四大核心组件，你知道几个？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15271&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494395%26amp%3Bidx%3D2%26amp%3Bsn%3D7625c27c0bbb10cfd2e5e1d8a09a3c74%26amp%3Bchksm%3Dfa3f0ba0cd4882b6baa602f1f11ffebc9ec2dadb2ee131a812efc29a71e64cb3959c144707ff%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -148,8 +146,8 @@
 - [【开发者头条】2022-08-05-kubelet-远程调试方法](https://toutiao.io/k/ywtwbk9) 
 - [【开发者头条】2022-08-05-硅谷来信：快速行动，Facebook、Quora等成功的“神器”！](https://toutiao.io/k/6mn45sd) 
 - [【开发者头条】2022-08-05-推荐-研发过程中的文档管理与工具](https://toutiao.io/k/mdiqwn5) 
-- [【开发者头条】2022-08-05-推荐-阿里云官方-Redis-开发规范！](https://toutiao.io/k/2fqcbfi) 
 - [【开发者头条】2022-08-05-推荐-腾讯低代码平台正式开源！可拖拽、生成手机项目、PC-项目！接私活福利啊！](https://toutiao.io/k/8oqx21m) 
+- [【开发者头条】2022-08-05-推荐-阿里云官方-Redis-开发规范！](https://toutiao.io/k/2fqcbfi) 
 - [【开发者头条】2022-08-05-推荐-老板：公司系统太多，能不能实现账号互通？](https://toutiao.io/k/g7sb904) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>

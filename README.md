@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-05 18:47:01，:rocket: 更新条数: +2028， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-05 19:12:52，:rocket: 更新条数: +2027， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,9 +491,9 @@
 </summary>
 
 
+- [2022-08-05-求助：在-win10-系统中文件夹双击后总是在新窗口中打开该怎么办](https://www.v2ex.com/t/871011) ![](assets/new.png)  
 - [2022-08-05-我应该如何用-C#方法重载实现这样的目的](https://www.v2ex.com/t/871010) ![](assets/new.png)  
 - [2022-08-05-火绒导致网速变慢](https://www.v2ex.com/t/871009) ![](assets/new.png)  
-- [2022-08-05-推特怎么突然免翻了，什么情况](https://www.v2ex.com/t/871008) ![](assets/new.png)  
 - [2022-08-05-关于分页只能写-sql-的痛苦](https://www.v2ex.com/t/871007) ![](assets/new.png)  
 - [2022-08-05-关于美区-Apple-ID-和支付问题](https://www.v2ex.com/t/871006) ![](assets/new.png)  
 - [2022-08-05-老哥们，物理机器上有类似云服务器安全组的软件吗？](https://www.v2ex.com/t/871005) ![](assets/new.png)  
@@ -571,8 +571,8 @@
 - [2022-08-05-Blueboat：一体化无服务器-JavaScript-运行时环境](https://toutiao.io/k/l0rhkug) ![](assets/new.png)  
 - [2022-08-05-一块GPU训练TB级推荐模型不是梦，OneEmbedding性能一骑绝尘](https://toutiao.io/k/pxyaq3i) ![](assets/new.png)  
 - [2022-08-05-硅谷来信：快速行动，Facebook、Quora等成功的“神器”！](https://toutiao.io/k/6mn45sd) ![](assets/new.png)  
-- [2022-08-05-推荐-老板：公司系统太多，能不能实现账号互通？](https://toutiao.io/k/g7sb904) ![](assets/new.png)  
 - [2022-08-05-推荐-研发过程中的文档管理与工具](https://toutiao.io/k/mdiqwn5) ![](assets/new.png)  
+- [2022-08-05-推荐-阿里云官方-Redis-开发规范！](https://toutiao.io/k/2fqcbfi) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-05 19:12:52，:rocket: 更新条数: +2027， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-05 19:38:33，:rocket: 更新条数: +2026， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -506,11 +506,11 @@
 - [2022-08-05-PT-盒子](https://www.v2ex.com/t/870997) ![](assets/new.png)  
 - [2022-08-05-用任何一个图灵完备的编程语言可以实现另一个图灵完备的编程语言-这个理论出自哪里？](https://www.v2ex.com/t/870996) ![](assets/new.png)  
 - [2022-08-05-想在家里装修一个封闭密室，大家有什么建议吗？](https://www.v2ex.com/t/870995) ![](assets/new.png)  
-- [2022-08-05-Telegram-创建了一个苹果系统的应用推送频道。](https://www.v2ex.com/t/870994) ![](assets/new.png)  
 - [2022-08-05-寻空调维修师傅推荐](https://www.v2ex.com/t/870993) ![](assets/new.png)  
 - [2022-08-05-UniFi6-In-Wall-上市，国行售价¥1599](https://www.v2ex.com/t/870992) ![](assets/new.png)  
 - [2022-08-05-想换个智能手表，目前考虑华为-gt2-pro-和-gt3？](https://www.v2ex.com/t/870991) ![](assets/new.png)  
 - [2022-08-05-小白想玩玩-HomeAssistant，入手树莓派还是淘宝上集成-HA-的盒子？](https://www.v2ex.com/t/870989) ![](assets/new.png)  
+- [2022-08-05-刚毕业，家里人想为我搞份医疗保险，有推荐的吗？](https://www.v2ex.com/t/870988) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

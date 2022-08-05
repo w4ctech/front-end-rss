@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-05 07:13:51，:rocket: 更新条数: +2027， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-05 07:38:55，:rocket: 更新条数: +2025， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,9 @@
 </summary>
 
 
+- [2022-08-05-语雀和-notion-怎么选择](https://www.v2ex.com/t/870900) ![](assets/new.png)  
+- [2022-08-05-大热天，想了个鬼故事，求-v-友帮忙润色下，增加点恐怖色彩](https://www.v2ex.com/t/870899) ![](assets/new.png)  
+- [2022-08-05-Java-中使用枚举参数，如何进行-JSR303-校验意外值?-或者说参数是否直接使用枚举类型](https://www.v2ex.com/t/870897) ![](assets/new.png)  
 - [2022-08-05-大家昨天七夕收到了什么礼物](https://www.v2ex.com/t/870895) ![](assets/new.png)  
 - [2022-08-05-老板给了个-PHP-的网站包,-让我部署一下,-是部署到-apche-还是-nginx-好呢?](https://www.v2ex.com/t/870894) ![](assets/new.png)  
 - [2022-08-05-避坑！-上海畅为/上海致达](https://www.v2ex.com/t/870893) ![](assets/new.png)  
@@ -508,9 +511,6 @@
 - [2022-08-05-在没有完善设计文档的情况下，如何有效阅读一个大型系统代码？](https://www.v2ex.com/t/870881) ![](assets/new.png)  
 - [2022-08-05-社保医保公积金什么的又调整了，到手工资还少了。](https://www.v2ex.com/t/870878) ![](assets/new.png)  
 - [2022-08-05-求推荐工作无线鼠标，-windows，前进后退切换按钮，静止时自动省电](https://www.v2ex.com/t/870877) ![](assets/new.png)  
-- [2022-08-05-如何备份坚果云数据](https://www.v2ex.com/t/870876) ![](assets/new.png)  
-- [2022-08-05-黑苹果怎么解决睡眠问题](https://www.v2ex.com/t/870875) ![](assets/new.png)  
-- [2022-08-05-安卓客户端的同事又可以接私活的吗](https://www.v2ex.com/t/870874) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -571,7 +571,7 @@
 - [2022-08-05-一文详解用eBPF观测HTTP](https://toutiao.io/k/umo00i0) ![](assets/new.png)  
 - [2022-08-05-kubelet-远程调试方法](https://toutiao.io/k/ywtwbk9) ![](assets/new.png)  
 - [2022-08-05-硅谷来信：快速行动，Facebook、Quora等成功的“神器”！](https://toutiao.io/k/6mn45sd) ![](assets/new.png)  
-- [2022-08-05-推荐-研发过程中的文档管理与工具](https://toutiao.io/k/mdiqwn5) ![](assets/new.png)  
+- [2022-08-05-推荐-腾讯低代码平台正式开源！可拖拽、生成手机项目、PC-项目！接私活福利啊！](https://toutiao.io/k/8oqx21m) ![](assets/new.png)  
 - [2022-08-05-推荐-阿里云官方-Redis-开发规范！](https://toutiao.io/k/2fqcbfi) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

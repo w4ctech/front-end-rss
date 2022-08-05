@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-08-05 07:13:51。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-08-05 07:38:55。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,9 @@
 </summary>
 
 
+- [【V2EX】2022-08-05-语雀和-notion-怎么选择](https://www.v2ex.com/t/870900) 
+- [【V2EX】2022-08-05-大热天，想了个鬼故事，求-v-友帮忙润色下，增加点恐怖色彩](https://www.v2ex.com/t/870899) 
+- [【V2EX】2022-08-05-Java-中使用枚举参数，如何进行-JSR303-校验意外值?-或者说参数是否直接使用枚举类型](https://www.v2ex.com/t/870897) 
 - [【V2EX】2022-08-05-大家昨天七夕收到了什么礼物](https://www.v2ex.com/t/870895) 
 - [【V2EX】2022-08-05-老板给了个-PHP-的网站包,-让我部署一下,-是部署到-apche-还是-nginx-好呢?](https://www.v2ex.com/t/870894) 
 - [【V2EX】2022-08-05-避坑！-上海畅为/上海致达](https://www.v2ex.com/t/870893) 
@@ -102,11 +105,6 @@
 - [【V2EX】2022-08-05-程序员区提到的“内存”不应该默认是“memory”吗](https://www.v2ex.com/t/870855) 
 - [【V2EX】2022-08-05-被百度智能云威胁了怎么办？](https://www.v2ex.com/t/870854) 
 - [【V2EX】2022-08-05-Mac-打开文件对话框如何输入-路径](https://www.v2ex.com/t/870853) 
-- [【V2EX】2022-08-05-有无需梯子下载油管的方法吗？](https://www.v2ex.com/t/870851) 
-- [【V2EX】2022-08-05-vscode-这样输入不触发代码提示，并且给了一个选中的样式](https://www.v2ex.com/t/870850) 
-- [【V2EX】2022-08-05-找不到-Apple-chips-version-Chrome](https://www.v2ex.com/t/870849) 
-- [【V2EX】2022-08-05-迫于跑路，招个游戏服务器开发](https://www.v2ex.com/t/870847) 
-- [【V2EX】2022-08-05-MacBook-Pro-15-inch,-2018-想换-M1](https://www.v2ex.com/t/870846) 
 - [【技术头条】2022-08-05-完成原型设计的五个步骤-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15273&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffive-steps-for-prototype-design%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-08-05-敏捷交付的工程效能治理-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15272&url=https%3A%2F%2Finsights.thoughtworks.cn%2F%3Fp%3D16439%26amp%3Bpreview%3Dtrue%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-08-05-SpringBoot四大核心组件，你知道几个？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15271&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494395%26amp%3Bidx%3D2%26amp%3Bsn%3D7625c27c0bbb10cfd2e5e1d8a09a3c74%26amp%3Bchksm%3Dfa3f0ba0cd4882b6baa602f1f11ffebc9ec2dadb2ee131a812efc29a71e64cb3959c144707ff%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -145,9 +143,9 @@
 - [【开发者头条】2022-08-05-一文详解用eBPF观测HTTP](https://toutiao.io/k/umo00i0) 
 - [【开发者头条】2022-08-05-kubelet-远程调试方法](https://toutiao.io/k/ywtwbk9) 
 - [【开发者头条】2022-08-05-硅谷来信：快速行动，Facebook、Quora等成功的“神器”！](https://toutiao.io/k/6mn45sd) 
-- [【开发者头条】2022-08-05-推荐-研发过程中的文档管理与工具](https://toutiao.io/k/mdiqwn5) 
-- [【开发者头条】2022-08-05-推荐-阿里云官方-Redis-开发规范！](https://toutiao.io/k/2fqcbfi) 
 - [【开发者头条】2022-08-05-推荐-腾讯低代码平台正式开源！可拖拽、生成手机项目、PC-项目！接私活福利啊！](https://toutiao.io/k/8oqx21m) 
+- [【开发者头条】2022-08-05-推荐-阿里云官方-Redis-开发规范！](https://toutiao.io/k/2fqcbfi) 
+- [【开发者头条】2022-08-05-推荐-研发过程中的文档管理与工具](https://toutiao.io/k/mdiqwn5) 
 - [【开发者头条】2022-08-05-推荐-老板：公司系统太多，能不能实现账号互通？](https://toutiao.io/k/g7sb904) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>

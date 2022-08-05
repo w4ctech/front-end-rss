@@ -9953,6 +9953,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "配置 cloudflare 的 DNS，不知道_dnsauth 的 content 如何填写。",
+        "link": "https://www.v2ex.com/t/871013",
+        "date": "2022-08-05"
+      },
+      {
         "title": "求助：在 win10 系统中文件夹双击后总是在新窗口中打开该怎么办",
         "link": "https://www.v2ex.com/t/871011",
         "date": "2022-08-05"
@@ -10135,11 +10140,6 @@
       {
         "title": "请问 autohotkey 如何设置切换不同应用？",
         "link": "https://www.v2ex.com/t/870965",
-        "date": "2022-08-05"
-      },
-      {
-        "title": "在纠结买 m1 的 air 还是 m2 的 air",
-        "link": "https://www.v2ex.com/t/870963",
         "date": "2022-08-05"
       }
     ]
@@ -10347,11 +10347,6 @@
         "date": "2022-08-05"
       },
       {
-        "title": "[推荐] 研发过程中的文档管理与工具",
-        "link": "https://toutiao.io/k/mdiqwn5",
-        "date": "2022-08-05"
-      },
-      {
         "title": "[推荐] 阿里云官方 Redis 开发规范！",
         "link": "https://toutiao.io/k/2fqcbfi",
         "date": "2022-08-05"
@@ -10359,6 +10354,11 @@
       {
         "title": "[推荐] 老板：公司系统太多，能不能实现账号互通？",
         "link": "https://toutiao.io/k/g7sb904",
+        "date": "2022-08-05"
+      },
+      {
+        "title": "[推荐] 研发过程中的文档管理与工具",
+        "link": "https://toutiao.io/k/mdiqwn5",
         "date": "2022-08-05"
       }
     ]

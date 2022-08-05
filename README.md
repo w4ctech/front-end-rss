@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-05 09:14:17，:rocket: 更新条数: +2026， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-05 09:41:03，:rocket: 更新条数: +2026， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,11 @@
 </summary>
 
 
+- [2022-08-05-请教几个题库类项目的疑点](https://www.v2ex.com/t/870939) ![](assets/new.png)  
+- [2022-08-05-入了个-N5105-的软路由，大家有没有推荐的-AP？](https://www.v2ex.com/t/870938) ![](assets/new.png)  
+- [2022-08-05-Python-通过-PooledDB-如何连接两个数据库](https://www.v2ex.com/t/870937) ![](assets/new.png)  
+- [2022-08-05-桌面搜索哪家强？-recoll?textseek?](https://www.v2ex.com/t/870936) ![](assets/new.png)  
+- [2022-08-05-求推荐-Mac-OS-Monterey-可用的虚拟机软件](https://www.v2ex.com/t/870935) ![](assets/new.png)  
 - [2022-08-05-看到一个讨论导航的帖子，想到：大家喜欢什么样的导航音效呢？](https://www.v2ex.com/t/870933) ![](assets/new.png)  
 - [2022-08-05-打算去矫正一下牙齿，-v-友有没有什么经验分享](https://www.v2ex.com/t/870932) ![](assets/new.png)  
 - [2022-08-05-手贱把-iPhone-SE2-放鱼缸里降温](https://www.v2ex.com/t/870931) ![](assets/new.png)  
@@ -506,11 +511,6 @@
 - [2022-08-05-深圳-大梦龙途-游戏-U3D-客户端-C++服务端开发-技术美术-TA](https://www.v2ex.com/t/870918) ![](assets/new.png)  
 - [2022-08-05-最近大放水的-E-招贷有办过的吗？](https://www.v2ex.com/t/870916) ![](assets/new.png)  
 - [2022-08-05-联通-1000M-宽带-插网线后-SpeedTest-下载速度只能跑到-940Mbps-左右](https://www.v2ex.com/t/870915) ![](assets/new.png)  
-- [2022-08-05-求推荐几张永久或卡期内免年费的信用卡](https://www.v2ex.com/t/870913) ![](assets/new.png)  
-- [2022-08-05-有没有哪位兄弟用过这个-js-的库-medium-zoom](https://www.v2ex.com/t/870910) ![](assets/new.png)  
-- [2022-08-05-关于超高并发模型部署方案的选择](https://www.v2ex.com/t/870909) ![](assets/new.png)  
-- [2022-08-05-一点认知：解释权与批量制造的大聪明](https://www.v2ex.com/t/870908) ![](assets/new.png)  
-- [2022-08-05-远程职位-{交易所->风控运营->清算开发>交易员>量化策略>合约产品}](https://www.v2ex.com/t/870907) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -555,8 +555,8 @@
 
 - [2022-08-05-Kafka在美团数据平台的实践](https://toutiao.io/k/92uh7d6) ![](assets/new.png)  
 - [2022-08-05-解决方案---自动化单元测试](https://toutiao.io/k/0geaxdx) ![](assets/new.png)  
-- [2022-08-05-【突发】Nginx-Log4j2-疑似存在严重漏洞紧急通报！](https://toutiao.io/k/ectmt30) ![](assets/new.png)  
 - [2022-08-05-浅谈数仓模型（维度建模）](https://toutiao.io/k/homv8cz) ![](assets/new.png)  
+- [2022-08-05-【突发】Nginx-Log4j2-疑似存在严重漏洞紧急通报！](https://toutiao.io/k/ectmt30) ![](assets/new.png)  
 - [2022-08-05-以小窥大：IO-卡顿探寻苹果文件系统](https://toutiao.io/k/xbnkwtv) ![](assets/new.png)  
 - [2022-08-05-NVM-快速安装教程，只此一家](https://toutiao.io/k/6kbp22s) ![](assets/new.png)  
 - [2022-08-05-Google-V8引擎浅析-内存管理](https://toutiao.io/k/gr4z26w) ![](assets/new.png)  
@@ -564,15 +564,15 @@
 - [2022-08-05-手撕SparkSQL五大JOIN的底层机制](https://toutiao.io/k/nf9zat8) ![](assets/new.png)  
 - [2022-08-05-数据检索的玄铁剑——索引](https://toutiao.io/k/ssyu97q) ![](assets/new.png)  
 - [2022-08-05-重新审视分布式系统：永远不会有完美的一致性方案……](https://toutiao.io/k/kd2sogm) ![](assets/new.png)  
-- [2022-08-05-Blueboat：一体化无服务器-JavaScript-运行时环境](https://toutiao.io/k/l0rhkug) ![](assets/new.png)  
 - [2022-08-05-在Chrome-DevTools中从Go源代码调试WebAssembly](https://toutiao.io/k/1qo5u3u) ![](assets/new.png)  
+- [2022-08-05-Blueboat：一体化无服务器-JavaScript-运行时环境](https://toutiao.io/k/l0rhkug) ![](assets/new.png)  
 - [2022-08-05-一块GPU训练TB级推荐模型不是梦，OneEmbedding性能一骑绝尘](https://toutiao.io/k/pxyaq3i) ![](assets/new.png)  
 - [2022-08-05-整理了27个Python人工智能库，建议收藏！](https://toutiao.io/k/dqti37v) ![](assets/new.png)  
 - [2022-08-05-一文详解用eBPF观测HTTP](https://toutiao.io/k/umo00i0) ![](assets/new.png)  
 - [2022-08-05-kubelet-远程调试方法](https://toutiao.io/k/ywtwbk9) ![](assets/new.png)  
 - [2022-08-05-硅谷来信：快速行动，Facebook、Quora等成功的“神器”！](https://toutiao.io/k/6mn45sd) ![](assets/new.png)  
+- [2022-08-05-推荐-腾讯低代码平台正式开源！可拖拽、生成手机项目、PC-项目！接私活福利啊！](https://toutiao.io/k/8oqx21m) ![](assets/new.png)  
 - [2022-08-05-推荐-阿里云官方-Redis-开发规范！](https://toutiao.io/k/2fqcbfi) ![](assets/new.png)  
-- [2022-08-05-推荐-研发过程中的文档管理与工具](https://toutiao.io/k/mdiqwn5) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

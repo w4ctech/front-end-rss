@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-08-05 09:41:03。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-08-05 10:15:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -21,6 +21,5 @@
 - [2022-08-05-更好适配深色模式的通讯录黄页----WHATSINContacts。](https://www.v2ex.com/t/870927) 
 - [2022-08-05-有没有好用的图片放大预览的-js-库？](https://www.v2ex.com/t/870921) 
 - [2022-08-05-有没有哪位兄弟用过这个-js-的库-medium-zoom](https://www.v2ex.com/t/870910) 
-- [2022-08-05-Java-中使用枚举参数，如何进行-JSR303-校验意外值?-或者说参数是否直接使用枚举类型](https://www.v2ex.com/t/870897) 
 - [2022-08-05-SpringBoot四大核心组件，你知道几个？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15271&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494395%26amp%3Bidx%3D2%26amp%3Bsn%3D7625c27c0bbb10cfd2e5e1d8a09a3c74%26amp%3Bchksm%3Dfa3f0ba0cd4882b6baa602f1f11ffebc9ec2dadb2ee131a812efc29a71e64cb3959c144707ff%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-08-05-Blueboat：一体化无服务器-JavaScript-运行时环境](https://toutiao.io/k/l0rhkug) 

@@ -1,10 +1,15 @@
-:alarm_clock: 更新时间: 2022-08-05 09:41:03。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-08-05 10:15:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-08-05-抵抗社会毒瘤-建立“反-https-联盟”/“抵抗-https-联盟”……](https://www.v2ex.com/t/870947) 
+- [2022-08-05-广东电信最新内部套餐表-包含最新大上传套餐！](https://www.v2ex.com/t/870946) 
+- [2022-08-05-jetbrains-的-privatekey-泄露了?](https://www.v2ex.com/t/870945) 
+- [2022-08-05-有感而发，一起旅行是考验男生能否安排好一切的吗？](https://www.v2ex.com/t/870943) 
+- [2022-08-05-自己创建的-Telegram-频道](https://www.v2ex.com/t/870940) 
 - [2022-08-05-请教几个题库类项目的疑点](https://www.v2ex.com/t/870939) 
 - [2022-08-05-入了个-N5105-的软路由，大家有没有推荐的-AP？](https://www.v2ex.com/t/870938) 
 - [2022-08-05-Python-通过-PooledDB-如何连接两个数据库](https://www.v2ex.com/t/870937) 
@@ -37,9 +42,3 @@
 - [2022-08-05-打开-PowerShell-时出现-The-volume-for-a-file-has-been-externally-altered-...](https://www.v2ex.com/t/870902) 
 - [2022-08-05-语雀和-notion-怎么选择](https://www.v2ex.com/t/870900) 
 - [2022-08-05-大热天，想了个鬼故事，求-v-友帮忙润色下，增加点恐怖色彩](https://www.v2ex.com/t/870899) 
-- [2022-08-05-Java-中使用枚举参数，如何进行-JSR303-校验意外值?-或者说参数是否直接使用枚举类型](https://www.v2ex.com/t/870897) 
-- [2022-08-05-大家昨天七夕收到了什么礼物](https://www.v2ex.com/t/870895) 
-- [2022-08-05-老板给了个-PHP-的网站包,-让我部署一下,-是部署到-apche-还是-nginx-好呢?](https://www.v2ex.com/t/870894) 
-- [2022-08-05-避坑！-上海畅为/上海致达](https://www.v2ex.com/t/870893) 
-- [2022-08-05-获取系统的-disk-IO-速度有什么好办法吗？](https://www.v2ex.com/t/870891) 
-- [2022-08-05-广东珠海-外企不加班氛围好-VR-企业-虎江科技-招募前端和-Unity-开发](https://www.v2ex.com/t/870890) 

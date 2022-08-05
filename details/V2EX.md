@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-08-05 20:15:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-08-05 20:40:54。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
@@ -43,4 +43,3 @@
 - [2022-08-05-某个-package-的库文件没有经过-babel-处理，导致在-browserify-时报错](https://www.v2ex.com/t/870966) 
 - [2022-08-05-请问-autohotkey-如何设置切换不同应用？](https://www.v2ex.com/t/870965) 
 - [2022-08-05-在纠结买-m1-的-air-还是-m2-的-air](https://www.v2ex.com/t/870963) 
-- [2022-08-05-深圳联通宽带求教](https://www.v2ex.com/t/870962) 

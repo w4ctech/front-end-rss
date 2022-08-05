@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-08-05 05:50:59。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-08-05 06:17:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,9 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-08-05-山上的朋友们,请教:CFCA-EV-ROOT-这个证书,可以删吗?](https://www.v2ex.com/t/870883) 
+- [2022-08-05-在没有完善设计文档的情况下，如何有效阅读一个大型系统代码？](https://www.v2ex.com/t/870881) 
+- [2022-08-05-社保医保公积金什么的又调整了，到手工资还少了。](https://www.v2ex.com/t/870878) 
 - [2022-08-05-求推荐工作无线鼠标，-windows，前进后退切换按钮，静止时自动省电](https://www.v2ex.com/t/870877) 
 - [2022-08-05-如何备份坚果云数据](https://www.v2ex.com/t/870876) 
 - [2022-08-05-黑苹果怎么解决睡眠问题](https://www.v2ex.com/t/870875) 
@@ -1937,9 +1940,6 @@
 - [2022-08-05-大家的邮箱是怎么弄得那么一长串字符，我发邮箱提示需要一个月才能发，是自己用工具转换的，还是网站自动转换的。](https://www.v2ex.com/t/870838) 
 - [2022-08-05-swagger-yaml-手写？](https://www.v2ex.com/t/870835) 
 - [2022-08-05-辞职了，想问问去哪旅行好？](https://www.v2ex.com/t/870834) 
-- [2022-08-05-使用的-conda，有公共库的概念吗](https://www.v2ex.com/t/870833) 
-- [2022-08-05-VScode-搜索并-Open-in-editor-后出现不匹配条目](https://www.v2ex.com/t/870832) 
-- [2022-08-05-Nexitally-流量异常，两天跑了-200G，求助大家](https://www.v2ex.com/t/870828) 
 - [2022-08-05-完成原型设计的五个步骤-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15273&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffive-steps-for-prototype-design%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-08-05-敏捷交付的工程效能治理-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15272&url=https%3A%2F%2Finsights.thoughtworks.cn%2F%3Fp%3D16439%26amp%3Bpreview%3Dtrue%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-08-05-排名前16的Java工具类，你用过哪个？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15269&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494394%26amp%3Bidx%3D2%26amp%3Bsn%3Dcb65e98ba5dce4c6ed915788f729e649%26amp%3Bchksm%3Dfa3f0ba1cd4882b75e5d170394f948b30c2fc6d572158708d579d194fcb1a861afc87301b3f8%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1959,7 +1959,9 @@
 - [2022-08-05-手撕SparkSQL五大JOIN的底层机制](https://toutiao.io/k/nf9zat8) 
 - [2022-08-05-数据检索的玄铁剑——索引](https://toutiao.io/k/ssyu97q) 
 - [2022-08-05-重新审视分布式系统：永远不会有完美的一致性方案……](https://toutiao.io/k/kd2sogm) 
-- [2022-08-05-推荐-研发过程中的文档管理与工具](https://toutiao.io/k/mdiqwn5) 
+- [2022-08-05-整理了27个Python人工智能库，建议收藏！](https://toutiao.io/k/dqti37v) 
+- [2022-08-05-硅谷来信：快速行动，Facebook、Quora等成功的“神器”！](https://toutiao.io/k/6mn45sd) 
 - [2022-08-05-推荐-老板：公司系统太多，能不能实现账号互通？](https://toutiao.io/k/g7sb904) 
 - [2022-08-05-推荐-阿里云官方-Redis-开发规范！](https://toutiao.io/k/2fqcbfi) 
+- [2022-08-05-推荐-研发过程中的文档管理与工具](https://toutiao.io/k/mdiqwn5) 
 - [2022-08-05-推荐-腾讯低代码平台正式开源！可拖拽、生成手机项目、PC-项目！接私活福利啊！](https://toutiao.io/k/8oqx21m) 

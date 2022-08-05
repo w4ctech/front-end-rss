@@ -9953,6 +9953,26 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "山上的朋友们,请教:CFCA EV ROOT 这个证书,可以删吗?",
+        "link": "https://www.v2ex.com/t/870883",
+        "date": "2022-08-05"
+      },
+      {
+        "title": "读研选择视频编码这个方向如何，前景咋样呢",
+        "link": "https://www.v2ex.com/t/870882",
+        "date": "2022-08-05"
+      },
+      {
+        "title": "在没有完善设计文档的情况下，如何有效阅读一个大型系统代码？",
+        "link": "https://www.v2ex.com/t/870881",
+        "date": "2022-08-05"
+      },
+      {
+        "title": "社保医保公积金什么的又调整了，到手工资还少了。",
+        "link": "https://www.v2ex.com/t/870878",
+        "date": "2022-08-05"
+      },
+      {
         "title": "求推荐工作无线鼠标， windows，前进后退切换按钮，静止时自动省电",
         "link": "https://www.v2ex.com/t/870877",
         "date": "2022-08-05"
@@ -10115,26 +10135,6 @@
       {
         "title": "辞职了，想问问去哪旅行好？",
         "link": "https://www.v2ex.com/t/870834",
-        "date": "2022-08-05"
-      },
-      {
-        "title": "使用的 conda，有公共库的概念吗",
-        "link": "https://www.v2ex.com/t/870833",
-        "date": "2022-08-05"
-      },
-      {
-        "title": "VScode 搜索并 Open in editor 后出现不匹配条目",
-        "link": "https://www.v2ex.com/t/870832",
-        "date": "2022-08-05"
-      },
-      {
-        "title": "用 flarum 搭了一个 unity3d 独立游戏开发者社区",
-        "link": "https://www.v2ex.com/t/870831",
-        "date": "2022-08-05"
-      },
-      {
-        "title": "Nexitally 流量异常，两天跑了 200G，求助大家",
-        "link": "https://www.v2ex.com/t/870828",
         "date": "2022-08-05"
       }
     ]
@@ -10307,13 +10307,13 @@
         "date": "2022-08-05"
       },
       {
-        "title": "在Chrome DevTools中从Go源代码调试WebAssembly",
-        "link": "https://toutiao.io/k/1qo5u3u",
+        "title": "Blueboat：一体化无服务器 JavaScript 运行时环境",
+        "link": "https://toutiao.io/k/l0rhkug",
         "date": "2022-08-05"
       },
       {
-        "title": "Blueboat：一体化无服务器 JavaScript 运行时环境",
-        "link": "https://toutiao.io/k/l0rhkug",
+        "title": "在Chrome DevTools中从Go源代码调试WebAssembly",
+        "link": "https://toutiao.io/k/1qo5u3u",
         "date": "2022-08-05"
       },
       {
@@ -10322,8 +10322,23 @@
         "date": "2022-08-05"
       },
       {
-        "title": "[推荐] 研发过程中的文档管理与工具",
-        "link": "https://toutiao.io/k/mdiqwn5",
+        "title": "整理了27个Python人工智能库，建议收藏！",
+        "link": "https://toutiao.io/k/dqti37v",
+        "date": "2022-08-05"
+      },
+      {
+        "title": "一文详解用eBPF观测HTTP",
+        "link": "https://toutiao.io/k/umo00i0",
+        "date": "2022-08-05"
+      },
+      {
+        "title": "kubelet 远程调试方法",
+        "link": "https://toutiao.io/k/ywtwbk9",
+        "date": "2022-08-05"
+      },
+      {
+        "title": "硅谷来信：快速行动，Facebook、Quora等成功的“神器”！",
+        "link": "https://toutiao.io/k/6mn45sd",
         "date": "2022-08-05"
       },
       {
@@ -10334,6 +10349,11 @@
       {
         "title": "[推荐] 阿里云官方 Redis 开发规范！",
         "link": "https://toutiao.io/k/2fqcbfi",
+        "date": "2022-08-05"
+      },
+      {
+        "title": "[推荐] 研发过程中的文档管理与工具",
+        "link": "https://toutiao.io/k/mdiqwn5",
         "date": "2022-08-05"
       },
       {

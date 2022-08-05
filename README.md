@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-05 17:01:43，:rocket: 更新条数: +2028， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-05 17:31:19，:rocket: 更新条数: +2028， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-08-05-如何创建一个-kvm-，用来跑外接硬盘上的-Linux-系统，却不修改硬盘上的任何文件？](https://www.v2ex.com/t/871004) ![](assets/new.png)  
+- [2022-08-05-最近迷上了一款微信小程序上的游戏，想问下小程序开发者们，视频广告的收益开发商能拿多少呀？](https://www.v2ex.com/t/871003) ![](assets/new.png)  
 - [2022-08-05-bitcoin-core-转账有什么办法能快一些么](https://www.v2ex.com/t/871001) ![](assets/new.png)  
 - [2022-08-05-dell-2720-屏幕中间有条线，过了一阵子又没了](https://www.v2ex.com/t/871000) ![](assets/new.png)  
 - [2022-08-05-想做一个恋爱辅助器](https://www.v2ex.com/t/870999) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-08-05-有什么支持过期的-Java-本地内存-KV-存储吗？](https://www.v2ex.com/t/870985) ![](assets/new.png)  
 - [2022-08-05-matePad11-创建多用户以后，除了机主以外其他用户居然用不了存储卡](https://www.v2ex.com/t/870983) ![](assets/new.png)  
 - [2022-08-05-打包便宜出-6-个腾讯云帐号和-10-台轻量服务器和-2-台云数据库](https://www.v2ex.com/t/870980) ![](assets/new.png)  
-- [2022-08-05-元宇宙方向公司招人啦前端，杭州，远程](https://www.v2ex.com/t/870979) ![](assets/new.png)  
-- [2022-08-05-iOS送码-AnimeRes，整理你的动漫图片，新鲜上架](https://www.v2ex.com/t/870977) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -571,8 +571,8 @@
 - [2022-08-05-Blueboat：一体化无服务器-JavaScript-运行时环境](https://toutiao.io/k/l0rhkug) ![](assets/new.png)  
 - [2022-08-05-一块GPU训练TB级推荐模型不是梦，OneEmbedding性能一骑绝尘](https://toutiao.io/k/pxyaq3i) ![](assets/new.png)  
 - [2022-08-05-硅谷来信：快速行动，Facebook、Quora等成功的“神器”！](https://toutiao.io/k/6mn45sd) ![](assets/new.png)  
+- [2022-08-05-推荐-老板：公司系统太多，能不能实现账号互通？](https://toutiao.io/k/g7sb904) ![](assets/new.png)  
 - [2022-08-05-推荐-阿里云官方-Redis-开发规范！](https://toutiao.io/k/2fqcbfi) ![](assets/new.png)  
-- [2022-08-05-推荐-研发过程中的文档管理与工具](https://toutiao.io/k/mdiqwn5) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

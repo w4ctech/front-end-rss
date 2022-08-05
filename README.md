@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-05 01:15:54，:rocket: 更新条数: +2020， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-05 03:28:04，:rocket: 更新条数: +2020， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,26 +491,26 @@
 </summary>
 
 
-- [2022-08-05-HDMI-over-Ethernet-用来打游戏体验如何？](https://www.v2ex.com/t/870782) ![](assets/new.png)  
-- [2022-08-05-Python-读取-txt-数据存-mangodb](https://www.v2ex.com/t/870781) ![](assets/new.png)  
-- [2022-08-05-远程桌面如何传播声音啊](https://www.v2ex.com/t/870780) ![](assets/new.png)  
-- [2022-08-05-有没有办法禁止健康宝扫码后的语音播报？](https://www.v2ex.com/t/870776) ![](assets/new.png)  
-- [2022-08-05-obsidian-每次启动好慢呀，总是加载工作区中](https://www.v2ex.com/t/870775) ![](assets/new.png)  
-- [2022-08-05-用-vscode-写-latex，怎么调出章节的导航窗口](https://www.v2ex.com/t/870774) ![](assets/new.png)  
-- [2022-08-05-欧盟沃达丰移动网络无法访问-v2ex](https://www.v2ex.com/t/870770) ![](assets/new.png)  
-- [2022-08-05-手机浏览器悬浮窗播放视频如何触发？](https://www.v2ex.com/t/870769) ![](assets/new.png)  
-- [2022-08-04-学习周刊-总第-65-期-一个能够让你在本地运行调试-GitHub-Actions-的工具](https://www.v2ex.com/t/870768) ![](assets/new.png)  
-- [2022-08-04-Mac-远程桌面，什么软件好用？](https://www.v2ex.com/t/870767) ![](assets/new.png)  
-- [2022-08-04-移动千兆宽带，光猫千兆口上测速，多少速度算正常？](https://www.v2ex.com/t/870766) ![](assets/new.png)  
-- [2022-08-04-不想参加团建,-大家都会找什么借口呢?](https://www.v2ex.com/t/870765) ![](assets/new.png)  
-- [2022-08-04-你们是否介意自己的小孩不会说家乡话吗？](https://www.v2ex.com/t/870764) ![](assets/new.png)  
-- [2022-08-04-国行-ios-访问-appcenter-被拦截，猜是谁](https://www.v2ex.com/t/870763) ![](assets/new.png)  
-- [2022-08-04-SQL-苦手来请教各位大佬了。](https://www.v2ex.com/t/870762) ![](assets/new.png)  
-- [2022-08-04-最近创建的一个-tg-频道](https://www.v2ex.com/t/870761) ![](assets/new.png)  
-- [2022-08-04-15-年全栈开发者TS,React,Node.js,-PHP-接单与求职远程工作](https://www.v2ex.com/t/870760) ![](assets/new.png)  
-- [2022-08-04-React-与-PHP-,Node.js-开发接单/远程工作](https://www.v2ex.com/t/870759) ![](assets/new.png)  
-- [2022-08-04-接外包](https://www.v2ex.com/t/870758) ![](assets/new.png)  
-- [2022-08-04-漂泊无定多年后，终于稳定下来，终于组装了台式机，开心](https://www.v2ex.com/t/870757) ![](assets/new.png)  
+- [2022-08-05-Nexitally-流量异常，两天跑了-200G，求助大家](https://www.v2ex.com/t/870828) ![](assets/new.png)  
+- [2022-08-05-webgl-有哪些成熟的、生态良好、持续维护的开发生态？](https://www.v2ex.com/t/870827) ![](assets/new.png)  
+- [2022-08-05-请教一下，前端真的会有算法诉求吗？](https://www.v2ex.com/t/870826) ![](assets/new.png)  
+- [2022-08-05-一个大龄大厂搬砖工的叹息](https://www.v2ex.com/t/870825) ![](assets/new.png)  
+- [2022-08-05-Java-转-Go](https://www.v2ex.com/t/870824) ![](assets/new.png)  
+- [2022-08-05-怎么用电视接链接书房电脑玩-steam-游戏](https://www.v2ex.com/t/870823) ![](assets/new.png)  
+- [2022-08-05-求助电视盒子去-VIP、免费观看的方法](https://www.v2ex.com/t/870822) ![](assets/new.png)  
+- [2022-08-05-八月黄桃成熟，帮家里卖点炎陵黄桃，欢迎各位-V-友品尝](https://www.v2ex.com/t/870820) ![](assets/new.png)  
+- [2022-08-05-如何定义，初-中-高-级开发？](https://www.v2ex.com/t/870818) ![](assets/new.png)  
+- [2022-08-05-对未知恐惧吗，比如未知的-bug，未学的知识](https://www.v2ex.com/t/870817) ![](assets/new.png)  
+- [2022-08-05-windows-11-bug-真的多到一言难尽啊](https://www.v2ex.com/t/870816) ![](assets/new.png)  
+- [2022-08-05-华为云-85-元撸-4H4G4M-云服务器一年](https://www.v2ex.com/t/870814) ![](assets/new.png)  
+- [2022-08-05-Afterpay（Square-后端大数据开发工程师火热招募中](https://www.v2ex.com/t/870813) ![](assets/new.png)  
+- [2022-08-05-有什么靠谱的端侧加密算法？](https://www.v2ex.com/t/870812) ![](assets/new.png)  
+- [2022-08-05-怎么屏蔽-csdn](https://www.v2ex.com/t/870811) ![](assets/new.png)  
+- [2022-08-05-想支持-Telegram，又感觉太贵，开通了土区-Tele-会员](https://www.v2ex.com/t/870809) ![](assets/new.png)  
+- [2022-08-05-git-commit-经常出现的-chore-字眼是什么意思](https://www.v2ex.com/t/870808) ![](assets/new.png)  
+- [2022-08-05-妙控板个人向劝退解毒](https://www.v2ex.com/t/870807) ![](assets/new.png)  
+- [2022-08-05-十年-web3-开发技术,精通-solidity,nfts,dapp,gamefi-技术远程全职|会英语](https://www.v2ex.com/t/870806) ![](assets/new.png)  
+- [2022-08-05-第一次用开源工具搭环境](https://www.v2ex.com/t/870805) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -563,10 +563,14 @@
 - [2022-08-05-React-的一些最佳安全实践](https://toutiao.io/k/5re1mb3) ![](assets/new.png)  
 - [2022-08-05-数据检索的玄铁剑——索引](https://toutiao.io/k/ssyu97q) ![](assets/new.png)  
 - [2022-08-05-手撕SparkSQL五大JOIN的底层机制](https://toutiao.io/k/nf9zat8) ![](assets/new.png)  
-- [2022-08-05-推荐-阿里云官方-Redis-开发规范！](https://toutiao.io/k/2fqcbfi) ![](assets/new.png)  
-- [2022-08-05-推荐-研发过程中的文档管理与工具](https://toutiao.io/k/mdiqwn5) ![](assets/new.png)  
+- [2022-08-05-重新审视分布式系统：永远不会有完美的一致性方案……](https://toutiao.io/k/kd2sogm) ![](assets/new.png)  
+- [2022-08-05-一块GPU训练TB级推荐模型不是梦，OneEmbedding性能一骑绝尘](https://toutiao.io/k/pxyaq3i) ![](assets/new.png)  
+- [2022-08-05-在Chrome-DevTools中从Go源代码调试WebAssembly](https://toutiao.io/k/1qo5u3u) ![](assets/new.png)  
+- [2022-08-05-Blueboat：一体化无服务器-JavaScript-运行时环境](https://toutiao.io/k/l0rhkug) ![](assets/new.png)  
 - [2022-08-05-推荐-老板：公司系统太多，能不能实现账号互通？](https://toutiao.io/k/g7sb904) ![](assets/new.png)  
+- [2022-08-05-推荐-研发过程中的文档管理与工具](https://toutiao.io/k/mdiqwn5) ![](assets/new.png)  
 - [2022-08-05-推荐-腾讯低代码平台正式开源！可拖拽、生成手机项目、PC-项目！接私活福利啊！](https://toutiao.io/k/8oqx21m) ![](assets/new.png)  
+- [2022-08-05-推荐-阿里云官方-Redis-开发规范！](https://toutiao.io/k/2fqcbfi) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

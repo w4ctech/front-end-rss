@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-05 07:38:55，:rocket: 更新条数: +2025， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-05 08:18:14，:rocket: 更新条数: +2029， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,19 @@
 </summary>
 
 
+- [2022-08-05-最近大放水的-E-招贷有办过的吗？](https://www.v2ex.com/t/870916) ![](assets/new.png)  
+- [2022-08-05-联通-1000M-宽带-插网线后-SpeedTest-下载速度只能跑到-940Mbps-左右](https://www.v2ex.com/t/870915) ![](assets/new.png)  
+- [2022-08-05-玩-PT-会有法律风险吗？会不会收到传单？](https://www.v2ex.com/t/870914) ![](assets/new.png)  
+- [2022-08-05-求推荐几张永久或卡期内免年费的信用卡](https://www.v2ex.com/t/870913) ![](assets/new.png)  
+- [2022-08-05-有没有哪位兄弟用过这个-js-的库-medium-zoom](https://www.v2ex.com/t/870910) ![](assets/new.png)  
+- [2022-08-05-关于超高并发模型部署方案的选择](https://www.v2ex.com/t/870909) ![](assets/new.png)  
+- [2022-08-05-一点认知：解释权与批量制造的大聪明](https://www.v2ex.com/t/870908) ![](assets/new.png)  
+- [2022-08-05-远程职位-{交易所->风控运营->清算开发>交易员>量化策略>合约产品}](https://www.v2ex.com/t/870907) ![](assets/new.png)  
+- [2022-08-05-现在高铁能办托运么,买个了电视发错地址](https://www.v2ex.com/t/870906) ![](assets/new.png)  
+- [2022-08-05-刚入门-k8s，想请问如何制作一次性-pod。求指导！](https://www.v2ex.com/t/870905) ![](assets/new.png)  
+- [2022-08-05-Copilot-的-token-过期了，要如何修改呢-？](https://www.v2ex.com/t/870904) ![](assets/new.png)  
+- [2022-08-05-笔记本鼠标突然无反应，只有触控板可以使用](https://www.v2ex.com/t/870903) ![](assets/new.png)  
+- [2022-08-05-打开-PowerShell-时出现-The-volume-for-a-file-has-been-externally-altered-...](https://www.v2ex.com/t/870902) ![](assets/new.png)  
 - [2022-08-05-语雀和-notion-怎么选择](https://www.v2ex.com/t/870900) ![](assets/new.png)  
 - [2022-08-05-大热天，想了个鬼故事，求-v-友帮忙润色下，增加点恐怖色彩](https://www.v2ex.com/t/870899) ![](assets/new.png)  
 - [2022-08-05-Java-中使用枚举参数，如何进行-JSR303-校验意外值?-或者说参数是否直接使用枚举类型](https://www.v2ex.com/t/870897) ![](assets/new.png)  
@@ -498,19 +511,6 @@
 - [2022-08-05-老板给了个-PHP-的网站包,-让我部署一下,-是部署到-apche-还是-nginx-好呢?](https://www.v2ex.com/t/870894) ![](assets/new.png)  
 - [2022-08-05-避坑！-上海畅为/上海致达](https://www.v2ex.com/t/870893) ![](assets/new.png)  
 - [2022-08-05-测试一下，诚招](https://www.v2ex.com/t/870892) ![](assets/new.png)  
-- [2022-08-05-获取系统的-disk-IO-速度有什么好办法吗？](https://www.v2ex.com/t/870891) ![](assets/new.png)  
-- [2022-08-05-广东珠海-外企不加班氛围好-VR-企业-虎江科技-招募前端和-Unity-开发](https://www.v2ex.com/t/870890) ![](assets/new.png)  
-- [2022-08-05-遭遇电信诈骗求白帽子大佬出手](https://www.v2ex.com/t/870889) ![](assets/new.png)  
-- [2022-08-05-想买个投影仪](https://www.v2ex.com/t/870888) ![](assets/new.png)  
-- [2022-08-05-CFCA-p7SignMessageDetach-有谁能给个-golang-版本的吗](https://www.v2ex.com/t/870887) ![](assets/new.png)  
-- [2022-08-05-这两种变量名你们喜欢哪种？](https://www.v2ex.com/t/870886) ![](assets/new.png)  
-- [2022-08-05-m1-air-是有多受欢迎](https://www.v2ex.com/t/870885) ![](assets/new.png)  
-- [2022-08-05-（欢迎喜欢开源的小伙伴）招聘前端开发、golang-开发工程师](https://www.v2ex.com/t/870884) ![](assets/new.png)  
-- [2022-08-05-山上的朋友们,请教:CFCA-EV-ROOT-这个证书,可以删吗?](https://www.v2ex.com/t/870883) ![](assets/new.png)  
-- [2022-08-05-读研选择视频编码这个方向如何，前景咋样呢](https://www.v2ex.com/t/870882) ![](assets/new.png)  
-- [2022-08-05-在没有完善设计文档的情况下，如何有效阅读一个大型系统代码？](https://www.v2ex.com/t/870881) ![](assets/new.png)  
-- [2022-08-05-社保医保公积金什么的又调整了，到手工资还少了。](https://www.v2ex.com/t/870878) ![](assets/new.png)  
-- [2022-08-05-求推荐工作无线鼠标，-windows，前进后退切换按钮，静止时自动省电](https://www.v2ex.com/t/870877) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -571,8 +571,8 @@
 - [2022-08-05-一文详解用eBPF观测HTTP](https://toutiao.io/k/umo00i0) ![](assets/new.png)  
 - [2022-08-05-kubelet-远程调试方法](https://toutiao.io/k/ywtwbk9) ![](assets/new.png)  
 - [2022-08-05-硅谷来信：快速行动，Facebook、Quora等成功的“神器”！](https://toutiao.io/k/6mn45sd) ![](assets/new.png)  
-- [2022-08-05-推荐-腾讯低代码平台正式开源！可拖拽、生成手机项目、PC-项目！接私活福利啊！](https://toutiao.io/k/8oqx21m) ![](assets/new.png)  
 - [2022-08-05-推荐-阿里云官方-Redis-开发规范！](https://toutiao.io/k/2fqcbfi) ![](assets/new.png)  
+- [2022-08-05-推荐-老板：公司系统太多，能不能实现账号互通？](https://toutiao.io/k/g7sb904) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

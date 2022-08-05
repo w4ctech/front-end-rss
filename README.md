@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-05 08:44:59，:rocket: 更新条数: +2025， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-05 09:14:17，:rocket: 更新条数: +2026， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,14 @@
 </summary>
 
 
+- [2022-08-05-看到一个讨论导航的帖子，想到：大家喜欢什么样的导航音效呢？](https://www.v2ex.com/t/870933) ![](assets/new.png)  
+- [2022-08-05-打算去矫正一下牙齿，-v-友有没有什么经验分享](https://www.v2ex.com/t/870932) ![](assets/new.png)  
+- [2022-08-05-手贱把-iPhone-SE2-放鱼缸里降温](https://www.v2ex.com/t/870931) ![](assets/new.png)  
+- [2022-08-05-关于一个"后台管理系统快速生成器"的思路探讨](https://www.v2ex.com/t/870930) ![](assets/new.png)  
+- [2022-08-05-来一个拼单，同程黑鲸卡，可领-12-个月腾讯视频或者爱奇艺视频-Vip,扫码拼单](https://www.v2ex.com/t/870929) ![](assets/new.png)  
+- [2022-08-05-最近通话/通话记录问题](https://www.v2ex.com/t/870928) ![](assets/new.png)  
+- [2022-08-05-更好适配深色模式的通讯录黄页----WHATSINContacts。](https://www.v2ex.com/t/870927) ![](assets/new.png)  
+- [2022-08-05-Macbook-外置键盘配合内置触摸板的一个方案](https://www.v2ex.com/t/870926) ![](assets/new.png)  
 - [2022-08-05-突然-iCloud-弹出存储已满，但是目前还有一半以上的剩余容量](https://www.v2ex.com/t/870924) ![](assets/new.png)  
 - [2022-08-05-有用毕亚兹-biaze-扩展坞的怎么样？](https://www.v2ex.com/t/870922) ![](assets/new.png)  
 - [2022-08-05-有没有好用的图片放大预览的-js-库？](https://www.v2ex.com/t/870921) ![](assets/new.png)  
@@ -503,14 +511,6 @@
 - [2022-08-05-关于超高并发模型部署方案的选择](https://www.v2ex.com/t/870909) ![](assets/new.png)  
 - [2022-08-05-一点认知：解释权与批量制造的大聪明](https://www.v2ex.com/t/870908) ![](assets/new.png)  
 - [2022-08-05-远程职位-{交易所->风控运营->清算开发>交易员>量化策略>合约产品}](https://www.v2ex.com/t/870907) ![](assets/new.png)  
-- [2022-08-05-现在高铁能办托运么,买个了电视发错地址](https://www.v2ex.com/t/870906) ![](assets/new.png)  
-- [2022-08-05-刚入门-k8s，想请问如何制作一次性-pod。求指导！](https://www.v2ex.com/t/870905) ![](assets/new.png)  
-- [2022-08-05-Copilot-的-token-过期了，要如何修改呢-？](https://www.v2ex.com/t/870904) ![](assets/new.png)  
-- [2022-08-05-笔记本鼠标突然无反应，只有触控板可以使用](https://www.v2ex.com/t/870903) ![](assets/new.png)  
-- [2022-08-05-打开-PowerShell-时出现-The-volume-for-a-file-has-been-externally-altered-...](https://www.v2ex.com/t/870902) ![](assets/new.png)  
-- [2022-08-05-语雀和-notion-怎么选择](https://www.v2ex.com/t/870900) ![](assets/new.png)  
-- [2022-08-05-大热天，想了个鬼故事，求-v-友帮忙润色下，增加点恐怖色彩](https://www.v2ex.com/t/870899) ![](assets/new.png)  
-- [2022-08-05-Java-中使用枚举参数，如何进行-JSR303-校验意外值?-或者说参数是否直接使用枚举类型](https://www.v2ex.com/t/870897) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -571,7 +571,7 @@
 - [2022-08-05-一文详解用eBPF观测HTTP](https://toutiao.io/k/umo00i0) ![](assets/new.png)  
 - [2022-08-05-kubelet-远程调试方法](https://toutiao.io/k/ywtwbk9) ![](assets/new.png)  
 - [2022-08-05-硅谷来信：快速行动，Facebook、Quora等成功的“神器”！](https://toutiao.io/k/6mn45sd) ![](assets/new.png)  
-- [2022-08-05-推荐-腾讯低代码平台正式开源！可拖拽、生成手机项目、PC-项目！接私活福利啊！](https://toutiao.io/k/8oqx21m) ![](assets/new.png)  
+- [2022-08-05-推荐-阿里云官方-Redis-开发规范！](https://toutiao.io/k/2fqcbfi) ![](assets/new.png)  
 - [2022-08-05-推荐-研发过程中的文档管理与工具](https://toutiao.io/k/mdiqwn5) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

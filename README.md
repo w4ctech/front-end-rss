@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-05 12:26:45，:rocket: 更新条数: +2030， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-05 13:14:27，:rocket: 更新条数: +2029， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,9 @@
 </summary>
 
 
+- [2022-08-05-鉴于工作繁忙，-Rippling-急需扩大团队](https://www.v2ex.com/t/870974) ![](assets/new.png)  
+- [2022-08-05-找-React-前端外包](https://www.v2ex.com/t/870972) ![](assets/new.png)  
+- [2022-08-05-上下行对等商宽是不是智商税?](https://www.v2ex.com/t/870970) ![](assets/new.png)  
 - [2022-08-05-低功耗-x86-软路由推荐](https://www.v2ex.com/t/870969) ![](assets/new.png)  
 - [2022-08-05-怎样让两台设备通过-PC-连接？](https://www.v2ex.com/t/870968) ![](assets/new.png)  
 - [2022-08-05-请问大家如何确定一个无状态应用何时应该横向扩容、何时应该纵向扩容？](https://www.v2ex.com/t/870967) ![](assets/new.png)  
@@ -508,9 +511,6 @@
 - [2022-08-05-我是看不到自己发的帖子，还是刚创建就在十几页开外了？](https://www.v2ex.com/t/870954) ![](assets/new.png)  
 - [2022-08-05-吐槽一下买到的消防报警器](https://www.v2ex.com/t/870953) ![](assets/new.png)  
 - [2022-08-05-请问有没有过-gfw-的-内网穿透的解决办法-或跨-gfw-组网](https://www.v2ex.com/t/870952) ![](assets/new.png)  
-- [2022-08-05-有哪些可以付费咨询技术问题的平台](https://www.v2ex.com/t/870951) ![](assets/new.png)  
-- [2022-08-05-问个弱智问题，-mac-下的-u-盘写入工具是什么？](https://www.v2ex.com/t/870950) ![](assets/new.png)  
-- [2022-08-05-前端新手用-VUE-干活，有什么好的后台模板推荐吗](https://www.v2ex.com/t/870948) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -562,17 +562,17 @@
 - [2022-08-05-Google-V8引擎浅析-内存管理](https://toutiao.io/k/gr4z26w) ![](assets/new.png)  
 - [2022-08-05-React-的一些最佳安全实践](https://toutiao.io/k/5re1mb3) ![](assets/new.png)  
 - [2022-08-05-手撕SparkSQL五大JOIN的底层机制](https://toutiao.io/k/nf9zat8) ![](assets/new.png)  
-- [2022-08-05-数据检索的玄铁剑——索引](https://toutiao.io/k/ssyu97q) ![](assets/new.png)  
-- [2022-08-05-重新审视分布式系统：永远不会有完美的一致性方案……](https://toutiao.io/k/kd2sogm) ![](assets/new.png)  
 - [2022-08-05-一文详解用eBPF观测HTTP](https://toutiao.io/k/umo00i0) ![](assets/new.png)  
+- [2022-08-05-数据检索的玄铁剑——索引](https://toutiao.io/k/ssyu97q) ![](assets/new.png)  
 - [2022-08-05-整理了27个Python人工智能库，建议收藏！](https://toutiao.io/k/dqti37v) ![](assets/new.png)  
+- [2022-08-05-重新审视分布式系统：永远不会有完美的一致性方案……](https://toutiao.io/k/kd2sogm) ![](assets/new.png)  
 - [2022-08-05-在Chrome-DevTools中从Go源代码调试WebAssembly](https://toutiao.io/k/1qo5u3u) ![](assets/new.png)  
 - [2022-08-05-Blueboat：一体化无服务器-JavaScript-运行时环境](https://toutiao.io/k/l0rhkug) ![](assets/new.png)  
 - [2022-08-05-一块GPU训练TB级推荐模型不是梦，OneEmbedding性能一骑绝尘](https://toutiao.io/k/pxyaq3i) ![](assets/new.png)  
 - [2022-08-05-kubelet-远程调试方法](https://toutiao.io/k/ywtwbk9) ![](assets/new.png)  
 - [2022-08-05-硅谷来信：快速行动，Facebook、Quora等成功的“神器”！](https://toutiao.io/k/6mn45sd) ![](assets/new.png)  
 - [2022-08-05-推荐-研发过程中的文档管理与工具](https://toutiao.io/k/mdiqwn5) ![](assets/new.png)  
-- [2022-08-05-推荐-腾讯低代码平台正式开源！可拖拽、生成手机项目、PC-项目！接私活福利啊！](https://toutiao.io/k/8oqx21m) ![](assets/new.png)  
+- [2022-08-05-推荐-阿里云官方-Redis-开发规范！](https://toutiao.io/k/2fqcbfi) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

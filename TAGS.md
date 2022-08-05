@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-08-05 04:28:50。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-08-05 05:10:55。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -183,6 +183,7 @@
 - [【张鑫旭-鑫空间-鑫生活】介绍一种CSS变量未定义语法也OK的小妙招](https://www.zhangxinxu.com/wordpress/2022/06/css-var-optional-empty-trick/)
 - [【张鑫旭-鑫空间-鑫生活】如何实现页面刷新后不定位到之前的滚动位置？](https://www.zhangxinxu.com/wordpress/2022/05/history-scrollrestoration/)
 - [【张鑫旭-鑫空间-鑫生活】JS与条形码的生成](https://www.zhangxinxu.com/wordpress/2022/05/js-barcode/)
+- [【V2EX】VSCode-调试-C-语言变长数组时显示不完整](https://www.v2ex.com/t/870857)
 - [【V2EX】V-友们，能推荐一款-300-元左右的-wifi6-路由器吗？](https://www.v2ex.com/t/870836)
 - [【技术头条】SpringBoot四大核心组件，你知道几个？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15271&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494395%26amp%3Bidx%3D2%26amp%3Bsn%3D7625c27c0bbb10cfd2e5e1d8a09a3c74%26amp%3Bchksm%3Dfa3f0ba0cd4882b6baa602f1f11ffebc9ec2dadb2ee131a812efc29a71e64cb3959c144707ff%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【开发者头条】Blueboat：一体化无服务器-JavaScript-运行时环境](https://toutiao.io/k/l0rhkug)
@@ -307,7 +308,6 @@
 
 
 - [【V2EX】请教一下，前端真的会有算法诉求吗？](https://www.v2ex.com/t/870826)
-- [【V2EX】有什么靠谱的端侧加密算法？](https://www.v2ex.com/t/870812)
 - [【技术头条】解决https接口无法访问的问题-blog.darkmi.com](https://blogread.cn/news/go.php?idItem=15257&url=https%3A%2F%2Fblog.darkmi.com%2F2022%2F06%2F28%2F4492.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 
@@ -344,7 +344,7 @@
 
 
 
-- [【V2EX】git-commit-经常出现的-chore-字眼是什么意思](https://www.v2ex.com/t/870808)
+- [【V2EX】菜鸟请教几个-git-相关的问题](https://www.v2ex.com/t/870863)
 - [【技术头条】谁动了我的奶酪，通过-git-找出内容变更历史-droidyue.com](https://blogread.cn/news/go.php?idItem=15263&url=https%3A%2F%2Fdroidyue.com%2Fblog%2F2022%2F06%2F13%2Fa-little-git-log-case-can-do-big-help%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [......【查看更多】......](./details/tags/git-svn.md)
 

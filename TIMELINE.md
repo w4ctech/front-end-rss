@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-08-05 04:28:50。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-08-05 05:10:55。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,15 @@
 </summary>
 
 
+- [【V2EX】2022-08-05-有些链接在微信聊天页面里里不能长按获得更多操作。](https://www.v2ex.com/t/870865) 
+- [【V2EX】2022-08-05-Apple-tv-投屏](https://www.v2ex.com/t/870864) 
+- [【V2EX】2022-08-05-菜鸟请教几个-git-相关的问题](https://www.v2ex.com/t/870863) 
+- [【V2EX】2022-08-05-交流下大上行的家宽，收集与推荐](https://www.v2ex.com/t/870861) 
+- [【V2EX】2022-08-05-VSCode-调试-C-语言变长数组时显示不完整](https://www.v2ex.com/t/870857) 
+- [【V2EX】2022-08-05-请问大家在论坛上发的一长串字符的邮箱是怎么弄的。](https://www.v2ex.com/t/870856) 
+- [【V2EX】2022-08-05-程序员区提到的“内存”不应该默认是“memory”吗](https://www.v2ex.com/t/870855) 
+- [【V2EX】2022-08-05-被百度智能云威胁了怎么办？](https://www.v2ex.com/t/870854) 
+- [【V2EX】2022-08-05-Mac-打开文件对话框如何输入-路径](https://www.v2ex.com/t/870853) 
 - [【V2EX】2022-08-05-有无需梯子下载油管的方法吗？](https://www.v2ex.com/t/870851) 
 - [【V2EX】2022-08-05-vscode-这样输入不触发代码提示，并且给了一个选中的样式](https://www.v2ex.com/t/870850) 
 - [【V2EX】2022-08-05-找不到-Apple-chips-version-Chrome](https://www.v2ex.com/t/870849) 
@@ -97,16 +106,6 @@
 - [【V2EX】2022-08-05-如何定义，初-中-高-级开发？](https://www.v2ex.com/t/870818) 
 - [【V2EX】2022-08-05-对未知恐惧吗，比如未知的-bug，未学的知识](https://www.v2ex.com/t/870817) 
 - [【V2EX】2022-08-05-windows-11-bug-真的多到一言难尽啊](https://www.v2ex.com/t/870816) 
-- [【V2EX】2022-08-05-华为云-85-元撸-4H4G4M-云服务器一年](https://www.v2ex.com/t/870814) 
-- [【V2EX】2022-08-05-Afterpay（Square-后端大数据开发工程师火热招募中](https://www.v2ex.com/t/870813) 
-- [【V2EX】2022-08-05-有什么靠谱的端侧加密算法？](https://www.v2ex.com/t/870812) 
-- [【V2EX】2022-08-05-怎么屏蔽-csdn](https://www.v2ex.com/t/870811) 
-- [【V2EX】2022-08-05-想支持-Telegram，又感觉太贵，开通了土区-Tele-会员](https://www.v2ex.com/t/870809) 
-- [【V2EX】2022-08-05-git-commit-经常出现的-chore-字眼是什么意思](https://www.v2ex.com/t/870808) 
-- [【V2EX】2022-08-05-妙控板个人向劝退解毒](https://www.v2ex.com/t/870807) 
-- [【V2EX】2022-08-05-十年-web3-开发技术,精通-solidity,nfts,dapp,gamefi-技术远程全职|会英语](https://www.v2ex.com/t/870806) 
-- [【V2EX】2022-08-05-第一次用开源工具搭环境](https://www.v2ex.com/t/870805) 
-- [【V2EX】2022-08-05-Spotify-有必要开会员吗，一年-98-值不值](https://www.v2ex.com/t/870803) 
 - [【技术头条】2022-08-05-完成原型设计的五个步骤-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15273&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffive-steps-for-prototype-design%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-08-05-敏捷交付的工程效能治理-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15272&url=https%3A%2F%2Finsights.thoughtworks.cn%2F%3Fp%3D16439%26amp%3Bpreview%3Dtrue%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-08-05-SpringBoot四大核心组件，你知道几个？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15271&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494395%26amp%3Bidx%3D2%26amp%3Bsn%3D7625c27c0bbb10cfd2e5e1d8a09a3c74%26amp%3Bchksm%3Dfa3f0ba0cd4882b6baa602f1f11ffebc9ec2dadb2ee131a812efc29a71e64cb3959c144707ff%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -133,17 +132,17 @@
 - [【开发者头条】2022-08-05-解决方案---自动化单元测试](https://toutiao.io/k/0geaxdx) 
 - [【开发者头条】2022-08-05-NVM-快速安装教程，只此一家](https://toutiao.io/k/6kbp22s) 
 - [【开发者头条】2022-08-05-Google-V8引擎浅析-内存管理](https://toutiao.io/k/gr4z26w) 
-- [【开发者头条】2022-08-05-React-的一些最佳安全实践](https://toutiao.io/k/5re1mb3) 
 - [【开发者头条】2022-08-05-以小窥大：IO-卡顿探寻苹果文件系统](https://toutiao.io/k/xbnkwtv) 
-- [【开发者头条】2022-08-05-数据检索的玄铁剑——索引](https://toutiao.io/k/ssyu97q) 
+- [【开发者头条】2022-08-05-React-的一些最佳安全实践](https://toutiao.io/k/5re1mb3) 
 - [【开发者头条】2022-08-05-手撕SparkSQL五大JOIN的底层机制](https://toutiao.io/k/nf9zat8) 
+- [【开发者头条】2022-08-05-数据检索的玄铁剑——索引](https://toutiao.io/k/ssyu97q) 
 - [【开发者头条】2022-08-05-重新审视分布式系统：永远不会有完美的一致性方案……](https://toutiao.io/k/kd2sogm) 
 - [【开发者头条】2022-08-05-在Chrome-DevTools中从Go源代码调试WebAssembly](https://toutiao.io/k/1qo5u3u) 
-- [【开发者头条】2022-08-05-一块GPU训练TB级推荐模型不是梦，OneEmbedding性能一骑绝尘](https://toutiao.io/k/pxyaq3i) 
 - [【开发者头条】2022-08-05-Blueboat：一体化无服务器-JavaScript-运行时环境](https://toutiao.io/k/l0rhkug) 
-- [【开发者头条】2022-08-05-推荐-腾讯低代码平台正式开源！可拖拽、生成手机项目、PC-项目！接私活福利啊！](https://toutiao.io/k/8oqx21m) 
+- [【开发者头条】2022-08-05-一块GPU训练TB级推荐模型不是梦，OneEmbedding性能一骑绝尘](https://toutiao.io/k/pxyaq3i) 
 - [【开发者头条】2022-08-05-推荐-阿里云官方-Redis-开发规范！](https://toutiao.io/k/2fqcbfi) 
 - [【开发者头条】2022-08-05-推荐-老板：公司系统太多，能不能实现账号互通？](https://toutiao.io/k/g7sb904) 
+- [【开发者头条】2022-08-05-推荐-腾讯低代码平台正式开源！可拖拽、生成手机项目、PC-项目！接私活福利啊！](https://toutiao.io/k/8oqx21m) 
 - [【开发者头条】2022-08-05-推荐-研发过程中的文档管理与工具](https://toutiao.io/k/mdiqwn5) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-08-06 10:41:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-08-06 11:11:45。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,9 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-08-06-小朋友天天去别人家，却从来不让别人去他家](https://www.v2ex.com/t/871134) 
+- [2022-08-06-请教大家一个关于-minio-所采用-agpl-v3-协议的问题](https://www.v2ex.com/t/871132) 
+- [2022-08-06-咨询一个-Mac-Studio-TypeC-接口的问题](https://www.v2ex.com/t/871131) 
 - [2022-08-06-北京一家出海业务的公司北苑附近，帮内推，成功入职内推奖金五五开！](https://www.v2ex.com/t/871130) 
 - [2022-08-06-老哥们讨论下大文件上传方案呀](https://www.v2ex.com/t/871129) 
 - [2022-08-06-黑苹果升级-macOS-12-后屏幕惨白怎么办呢？](https://www.v2ex.com/t/871128) 
@@ -1955,7 +1958,7 @@
 - [2022-08-06-危险！请马上替换代码中的BeanUtils！！！](https://toutiao.io/k/xk21s4t) 
 - [2022-08-06-JuiceFS-在携程海量冷数据场景下的实践](https://toutiao.io/k/vtqu24i) 
 - [2022-08-06-最全的交换机知识汇总，看完这一篇就全明白了](https://toutiao.io/k/fdm79pe) 
-- [2022-08-06-推荐-阿里云官方-Redis-开发规范！](https://toutiao.io/k/2fqcbfi) 
-- [2022-08-06-推荐-一文搞懂-Redis-架构演化之路](https://toutiao.io/k/cwwpjem) 
-- [2022-08-06-推荐-研发过程中的文档管理与工具](https://toutiao.io/k/mdiqwn5) 
 - [2022-08-06-推荐-老板：公司系统太多，能不能实现账号互通？](https://toutiao.io/k/g7sb904) 
+- [2022-08-06-推荐-研发过程中的文档管理与工具](https://toutiao.io/k/mdiqwn5) 
+- [2022-08-06-推荐-一文搞懂-Redis-架构演化之路](https://toutiao.io/k/cwwpjem) 
+- [2022-08-06-推荐-阿里云官方-Redis-开发规范！](https://toutiao.io/k/2fqcbfi) 

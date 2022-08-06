@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-08-06 04:00:17。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-08-06 04:25:08。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,10 @@
 </summary>
 
 
+- [【V2EX】2022-08-06-PC-的微信每次启动都会在同步信息的时候卡死](https://www.v2ex.com/t/871063) 
+- [【V2EX】2022-08-06-哎，这团体码咋整？](https://www.v2ex.com/t/871061) 
+- [【V2EX】2022-08-06-iPad-Pro-卡死现象，初步猜想跟通用控制有关...](https://www.v2ex.com/t/871060) 
+- [【V2EX】2022-08-06-曾经登录过美区-ID-的-iPad-，不停地要求输入美区-ID-的密码](https://www.v2ex.com/t/871058) 
 - [【V2EX】2022-08-06-微信红包消息重复发送，可能的原因是什么？](https://www.v2ex.com/t/871057) 
 - [【V2EX】2022-08-06-HTTP/2-长连接的存续期多久？](https://www.v2ex.com/t/871056) 
 - [【V2EX】2022-08-06-国内-pwa“应用商店”能不能做起来呢](https://www.v2ex.com/t/871055) 
@@ -103,10 +107,6 @@
 - [【V2EX】2022-08-05-冤大头了？](https://www.v2ex.com/t/871016) 
 - [【V2EX】2022-08-05-前端的等待加载界面，有什么防止闪烁的好办法吗？](https://www.v2ex.com/t/871015) 
 - [【V2EX】2022-08-05-用-Geth-搭建-ETH-的-snap-节点，一直同步不完，总是落后几十个区块](https://www.v2ex.com/t/871014) 
-- [【V2EX】2022-08-05-配置-cloudflare-的-DNS，不知道_dnsauth-的-content-如何填写。](https://www.v2ex.com/t/871013) 
-- [【V2EX】2022-08-05-求助：在-win10-系统中文件夹双击后总是在新窗口中打开该怎么办](https://www.v2ex.com/t/871011) 
-- [【V2EX】2022-08-05-我应该如何用-C#方法重载实现这样的目的](https://www.v2ex.com/t/871010) 
-- [【V2EX】2022-08-05-火绒导致网速变慢](https://www.v2ex.com/t/871009) 
 - [【技术头条】2022-08-06-完成原型设计的五个步骤-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15273&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffive-steps-for-prototype-design%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-08-06-敏捷交付的工程效能治理-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15272&url=https%3A%2F%2Finsights.thoughtworks.cn%2F%3Fp%3D16439%26amp%3Bpreview%3Dtrue%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-08-06-SpringBoot四大核心组件，你知道几个？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15271&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494395%26amp%3Bidx%3D2%26amp%3Bsn%3D7625c27c0bbb10cfd2e5e1d8a09a3c74%26amp%3Bchksm%3Dfa3f0ba0cd4882b6baa602f1f11ffebc9ec2dadb2ee131a812efc29a71e64cb3959c144707ff%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -135,8 +135,8 @@
 - [【开发者头条】2022-08-06-危险！请马上替换代码中的BeanUtils！！！](https://toutiao.io/k/xk21s4t) 
 - [【开发者头条】2022-08-06-深入浅出富文本编辑器](https://toutiao.io/k/av869rh) 
 - [【开发者头条】2022-08-06-JuiceFS-在携程海量冷数据场景下的实践](https://toutiao.io/k/vtqu24i) 
-- [【开发者头条】2022-08-06-推荐-一文搞懂-Redis-架构演化之路](https://toutiao.io/k/cwwpjem) 
 - [【开发者头条】2022-08-06-推荐-研发过程中的文档管理与工具](https://toutiao.io/k/mdiqwn5) 
+- [【开发者头条】2022-08-06-推荐-一文搞懂-Redis-架构演化之路](https://toutiao.io/k/cwwpjem) 
 - [【开发者头条】2022-08-06-推荐-阿里云官方-Redis-开发规范！](https://toutiao.io/k/2fqcbfi) 
 - [【开发者头条】2022-08-06-推荐-老板：公司系统太多，能不能实现账号互通？](https://toutiao.io/k/g7sb904) 
 

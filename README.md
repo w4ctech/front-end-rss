@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-06 10:14:24，:rocket: 更新条数: +2010， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-06 10:41:24，:rocket: 更新条数: +2013， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,12 @@
 </summary>
 
 
+- [2022-08-06-北京一家出海业务的公司北苑附近，帮内推，成功入职内推奖金五五开！](https://www.v2ex.com/t/871130) ![](assets/new.png)  
+- [2022-08-06-老哥们讨论下大文件上传方案呀](https://www.v2ex.com/t/871129) ![](assets/new.png)  
+- [2022-08-06-黑苹果升级-macOS-12-后屏幕惨白怎么办呢？](https://www.v2ex.com/t/871128) ![](assets/new.png)  
+- [2022-08-06-福利超级赞的外企-，后端-Manager/架构师（开发语言不限，-Java-/C++/C#/Go/Rust-均可），英语流利，地点：深圳-/上海](https://www.v2ex.com/t/871127) ![](assets/new.png)  
+- [2022-08-06-对不听医嘱随意乱来的家长无语了](https://www.v2ex.com/t/871126) ![](assets/new.png)  
+- [2022-08-06-3-月-27-号下单的-iPad-Pro,终于收到了](https://www.v2ex.com/t/871125) ![](assets/new.png)  
 - [2022-08-06-错买了港区-APPLE-STORE-gift-card-是只有寄了吗](https://www.v2ex.com/t/871124) ![](assets/new.png)  
 - [2022-08-06-用作-time-machine-的外接磁盘分区是否稳定](https://www.v2ex.com/t/871123) ![](assets/new.png)  
 - [2022-08-06-全世界最简单的双栏编辑器](https://www.v2ex.com/t/871122) ![](assets/new.png)  
@@ -505,12 +511,6 @@
 - [2022-08-06-Chrome-异常被重置，有遇到过吗？](https://www.v2ex.com/t/871104) ![](assets/new.png)  
 - [2022-08-06-iOS15.6-TIM-蜂窝下无法收发消息](https://www.v2ex.com/t/871102) ![](assets/new.png)  
 - [2022-08-06-吐槽一下微信的彩铃功能](https://www.v2ex.com/t/871101) ![](assets/new.png)  
-- [2022-08-06-关于罗技-master3-、MX-keys-键鼠的-flow-功能](https://www.v2ex.com/t/871100) ![](assets/new.png)  
-- [2022-08-06-求推荐个戒手机的-app-记得有个种树的忘记名字了](https://www.v2ex.com/t/871099) ![](assets/new.png)  
-- [2022-08-06-润-or-苟](https://www.v2ex.com/t/871097) ![](assets/new.png)  
-- [2022-08-06-2022-年-8-月，市面上已经有很多大品牌带实惠套餐的随身-wifi，为什么没有看到大品牌的物联网卡？](https://www.v2ex.com/t/871096) ![](assets/new.png)  
-- [2022-08-06-macOS-12.5（可能）大幅改善了内存占用](https://www.v2ex.com/t/871095) ![](assets/new.png)  
-- [2022-08-06-好玩的微信小程序游戏推荐？](https://www.v2ex.com/t/871094) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -563,10 +563,10 @@
 - [2022-08-06-JuiceFS-在携程海量冷数据场景下的实践](https://toutiao.io/k/vtqu24i) ![](assets/new.png)  
 - [2022-08-06-最全的交换机知识汇总，看完这一篇就全明白了](https://toutiao.io/k/fdm79pe) ![](assets/new.png)  
 - [2022-08-06-什么是-HTTPS-的证书信任链？自己给自己发行不行？](https://toutiao.io/k/5prr7jv) ![](assets/new.png)  
-- [2022-08-06-推荐-老板：公司系统太多，能不能实现账号互通？](https://toutiao.io/k/g7sb904) ![](assets/new.png)  
 - [2022-08-06-推荐-阿里云官方-Redis-开发规范！](https://toutiao.io/k/2fqcbfi) ![](assets/new.png)  
 - [2022-08-06-推荐-一文搞懂-Redis-架构演化之路](https://toutiao.io/k/cwwpjem) ![](assets/new.png)  
 - [2022-08-06-推荐-研发过程中的文档管理与工具](https://toutiao.io/k/mdiqwn5) ![](assets/new.png)  
+- [2022-08-06-推荐-老板：公司系统太多，能不能实现账号互通？](https://toutiao.io/k/g7sb904) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

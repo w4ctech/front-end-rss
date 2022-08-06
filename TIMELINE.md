@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-08-06 11:11:45。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-08-06 11:40:04。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,11 @@
 </summary>
 
 
+- [【V2EX】2022-08-06-SwiftUI-业内普遍用什么架构？](https://www.v2ex.com/t/871140) 
+- [【V2EX】2022-08-06-使用境外-vps-搭建内网穿透被墙的概率有多大？](https://www.v2ex.com/t/871139) 
+- [【V2EX】2022-08-06-aws-昨日账单，有-api-参考吗](https://www.v2ex.com/t/871138) 
+- [【V2EX】2022-08-06-快递被其他人吞了，怎么办？](https://www.v2ex.com/t/871136) 
+- [【V2EX】2022-08-06-小孩子特别讨厌去幼儿园，有什么办法吗？](https://www.v2ex.com/t/871135) 
 - [【V2EX】2022-08-06-小朋友天天去别人家，却从来不让别人去他家](https://www.v2ex.com/t/871134) 
 - [【V2EX】2022-08-06-每次停电，然后再次来电的时候，路由器里面的机场订阅都会变节点，怎么可以设置成固定的呀？](https://www.v2ex.com/t/871133) 
 - [【V2EX】2022-08-06-请教大家一个关于-minio-所采用-agpl-v3-协议的问题](https://www.v2ex.com/t/871132) 
@@ -100,11 +105,6 @@
 - [【V2EX】2022-08-06-好玩的微信小程序游戏推荐？](https://www.v2ex.com/t/871094) 
 - [【V2EX】2022-08-06-现在万元左右的电脑有整机推荐吗?准备给表兄送做新婚礼物](https://www.v2ex.com/t/871092) 
 - [【V2EX】2022-08-06-有能将-mp4-视频以-websocket-方式播放的开源程序？](https://www.v2ex.com/t/871091) 
-- [【V2EX】2022-08-06-要更新电脑，是现在买还是等-M2？](https://www.v2ex.com/t/871090) 
-- [【V2EX】2022-08-06-穿无袖-T-恤，腋毛怎么处理？](https://www.v2ex.com/t/871089) 
-- [【V2EX】2022-08-06-想换一款小米手机，-K50-值得入手嘛？](https://www.v2ex.com/t/871087) 
-- [【V2EX】2022-08-06-有无基于群晖云端网页版的（无客户端）文献管理软件？知网下载的加密-PDF-如何解密？](https://www.v2ex.com/t/871086) 
-- [【V2EX】2022-08-06-有国外大厂提供免费-NodeJS-运行环境吗？直接从-github-拉取编译那种](https://www.v2ex.com/t/871085) 
 - [【技术头条】2022-08-06-完成原型设计的五个步骤-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15273&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffive-steps-for-prototype-design%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-08-06-敏捷交付的工程效能治理-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15272&url=https%3A%2F%2Finsights.thoughtworks.cn%2F%3Fp%3D16439%26amp%3Bpreview%3Dtrue%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-08-06-SpringBoot四大核心组件，你知道几个？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15271&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494395%26amp%3Bidx%3D2%26amp%3Bsn%3D7625c27c0bbb10cfd2e5e1d8a09a3c74%26amp%3Bchksm%3Dfa3f0ba0cd4882b6baa602f1f11ffebc9ec2dadb2ee131a812efc29a71e64cb3959c144707ff%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -135,10 +135,10 @@
 - [【开发者头条】2022-08-06-JuiceFS-在携程海量冷数据场景下的实践](https://toutiao.io/k/vtqu24i) 
 - [【开发者头条】2022-08-06-最全的交换机知识汇总，看完这一篇就全明白了](https://toutiao.io/k/fdm79pe) 
 - [【开发者头条】2022-08-06-什么是-HTTPS-的证书信任链？自己给自己发行不行？](https://toutiao.io/k/5prr7jv) 
-- [【开发者头条】2022-08-06-推荐-老板：公司系统太多，能不能实现账号互通？](https://toutiao.io/k/g7sb904) 
 - [【开发者头条】2022-08-06-推荐-研发过程中的文档管理与工具](https://toutiao.io/k/mdiqwn5) 
-- [【开发者头条】2022-08-06-推荐-一文搞懂-Redis-架构演化之路](https://toutiao.io/k/cwwpjem) 
 - [【开发者头条】2022-08-06-推荐-阿里云官方-Redis-开发规范！](https://toutiao.io/k/2fqcbfi) 
+- [【开发者头条】2022-08-06-推荐-一文搞懂-Redis-架构演化之路](https://toutiao.io/k/cwwpjem) 
+- [【开发者头条】2022-08-06-推荐-老板：公司系统太多，能不能实现账号互通？](https://toutiao.io/k/g7sb904) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

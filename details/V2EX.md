@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2022-08-06 13:28:52。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-08-06 13:44:35。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-08-06-苹果不同型号电源配件能用吗？](https://www.v2ex.com/t/871150) 
+- [2022-08-06-关于-macbook-的-headphone-jack-问题](https://www.v2ex.com/t/871149) 
 - [2022-08-06-家庭组网方案求推荐](https://www.v2ex.com/t/871148) 
 - [2022-08-06-上海-不加班-外企-招-Java-、C++、安卓、中级测试、支持工程师、初级-devOps，-Java-和-测试有残疾人岗位](https://www.v2ex.com/t/871146) 
 - [2022-08-06-在-V2-问了个医学问题，直接帐号被降级了，这个降级是永久的吗？](https://www.v2ex.com/t/871145) 
@@ -40,5 +42,3 @@
 - [2022-08-06-Chrome-异常被重置，有遇到过吗？](https://www.v2ex.com/t/871104) 
 - [2022-08-06-iOS15.6-TIM-蜂窝下无法收发消息](https://www.v2ex.com/t/871102) 
 - [2022-08-06-吐槽一下微信的彩铃功能](https://www.v2ex.com/t/871101) 
-- [2022-08-06-关于罗技-master3-、MX-keys-键鼠的-flow-功能](https://www.v2ex.com/t/871100) 
-- [2022-08-06-求推荐个戒手机的-app-记得有个种树的忘记名字了](https://www.v2ex.com/t/871099) 

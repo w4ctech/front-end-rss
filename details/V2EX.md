@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2022-08-06 18:16:59。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-08-06 18:45:18。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-08-06-M1-pro-16-寸外接显示器的问题](https://www.v2ex.com/t/871178) 
 - [2022-08-06-这是什么主题（sublime-text）](https://www.v2ex.com/t/871176) 
 - [2022-08-06-V2exAPI---用-Swift-撸了一个-V2EX-API-封装](https://www.v2ex.com/t/871175) 
 - [2022-08-06-请问一下有没有-V-站电报聊天吹群组的呀？拉我一把，谢谢🙏](https://www.v2ex.com/t/871174) 
@@ -43,4 +44,3 @@
 - [2022-08-06-咨询一个-Mac-Studio-TypeC-接口的问题](https://www.v2ex.com/t/871131) 
 - [2022-08-06-北京一家出海业务的公司北苑附近，帮内推，成功入职内推奖金五五开！](https://www.v2ex.com/t/871130) 
 - [2022-08-06-老哥们讨论下大文件上传方案呀](https://www.v2ex.com/t/871129) 
-- [2022-08-06-黑苹果升级-macOS-12-后屏幕惨白怎么办呢？](https://www.v2ex.com/t/871128) 

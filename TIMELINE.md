@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-08-06 08:16:54。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-08-06 08:44:40。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,9 @@
 </summary>
 
 
+- [【V2EX】2022-08-06-shadow-rocket-的场景连接为什么不起作用](https://www.v2ex.com/t/871105) 
+- [【V2EX】2022-08-06-Chrome-异常被重置，有遇到过吗？](https://www.v2ex.com/t/871104) 
+- [【V2EX】2022-08-06-iOS15.6-TIM-蜂窝下无法收发消息](https://www.v2ex.com/t/871102) 
 - [【V2EX】2022-08-06-吐槽一下微信的彩铃功能](https://www.v2ex.com/t/871101) 
 - [【V2EX】2022-08-06-关于罗技-master3-、MX-keys-键鼠的-flow-功能](https://www.v2ex.com/t/871100) 
 - [【V2EX】2022-08-06-求推荐个戒手机的-app-记得有个种树的忘记名字了](https://www.v2ex.com/t/871099) 
@@ -97,10 +100,6 @@
 - [【V2EX】2022-08-06-曾经登录过美区-ID-的-iPad-，不停地要求输入美区-ID-的密码](https://www.v2ex.com/t/871058) 
 - [【V2EX】2022-08-06-微信红包消息重复发送，可能的原因是什么？](https://www.v2ex.com/t/871057) 
 - [【V2EX】2022-08-06-HTTP/2-长连接的存续期多久？](https://www.v2ex.com/t/871056) 
-- [【V2EX】2022-08-06-国内-pwa“应用商店”能不能做起来呢](https://www.v2ex.com/t/871055) 
-- [【V2EX】2022-08-06-求推荐二手服务器购买渠道和上海的上门组装维修服务](https://www.v2ex.com/t/871054) 
-- [【V2EX】2022-08-06-刷个路由重拨个号，我的-v4-公网和-ipv6-全被扬了](https://www.v2ex.com/t/871053) 
-- [【V2EX】2022-08-06-2015Early-MacBook-Air-处理-4k-视频](https://www.v2ex.com/t/871052) 
 - [【技术头条】2022-08-06-完成原型设计的五个步骤-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15273&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffive-steps-for-prototype-design%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-08-06-敏捷交付的工程效能治理-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15272&url=https%3A%2F%2Finsights.thoughtworks.cn%2F%3Fp%3D16439%26amp%3Bpreview%3Dtrue%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-08-06-SpringBoot四大核心组件，你知道几个？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15271&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494395%26amp%3Bidx%3D2%26amp%3Bsn%3D7625c27c0bbb10cfd2e5e1d8a09a3c74%26amp%3Bchksm%3Dfa3f0ba0cd4882b6baa602f1f11ffebc9ec2dadb2ee131a812efc29a71e64cb3959c144707ff%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -131,10 +130,10 @@
 - [【开发者头条】2022-08-06-JuiceFS-在携程海量冷数据场景下的实践](https://toutiao.io/k/vtqu24i) 
 - [【开发者头条】2022-08-06-什么是-HTTPS-的证书信任链？自己给自己发行不行？](https://toutiao.io/k/5prr7jv) 
 - [【开发者头条】2022-08-06-最全的交换机知识汇总，看完这一篇就全明白了](https://toutiao.io/k/fdm79pe) 
-- [【开发者头条】2022-08-06-推荐-阿里云官方-Redis-开发规范！](https://toutiao.io/k/2fqcbfi) 
-- [【开发者头条】2022-08-06-推荐-研发过程中的文档管理与工具](https://toutiao.io/k/mdiqwn5) 
-- [【开发者头条】2022-08-06-推荐-老板：公司系统太多，能不能实现账号互通？](https://toutiao.io/k/g7sb904) 
 - [【开发者头条】2022-08-06-推荐-一文搞懂-Redis-架构演化之路](https://toutiao.io/k/cwwpjem) 
+- [【开发者头条】2022-08-06-推荐-研发过程中的文档管理与工具](https://toutiao.io/k/mdiqwn5) 
+- [【开发者头条】2022-08-06-推荐-阿里云官方-Redis-开发规范！](https://toutiao.io/k/2fqcbfi) 
+- [【开发者头条】2022-08-06-推荐-老板：公司系统太多，能不能实现账号互通？](https://toutiao.io/k/g7sb904) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-08-06 09:40:29。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-08-06 10:14:24。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,13 @@
 </summary>
 
 
+- [【V2EX】2022-08-06-错买了港区-APPLE-STORE-gift-card-是只有寄了吗](https://www.v2ex.com/t/871124) 
+- [【V2EX】2022-08-06-用作-time-machine-的外接磁盘分区是否稳定](https://www.v2ex.com/t/871123) 
+- [【V2EX】2022-08-06-全世界最简单的双栏编辑器](https://www.v2ex.com/t/871122) 
+- [【V2EX】2022-08-06-网易云昨天-vip-了一大批-ACG-相关歌曲？](https://www.v2ex.com/t/871121) 
+- [【V2EX】2022-08-06-哪种-Android-视频播放器能保存-AB-循环？](https://www.v2ex.com/t/871118) 
+- [【V2EX】2022-08-06-Mac-上有什么好的保存文件或图片的方案吗？](https://www.v2ex.com/t/871117) 
+- [【V2EX】2022-08-06-vulkan-1.dll-到底是什么，不是应该由显卡驱动提供么，为什么每个-Electron-写的程序都带了一个？](https://www.v2ex.com/t/871116) 
 - [【V2EX】2022-08-06-网易在职员工内推～靠谱！](https://www.v2ex.com/t/871112) 
 - [【V2EX】2022-08-06-各个操作系统的-tcp/ip-协议有没有性能差异](https://www.v2ex.com/t/871110) 
 - [【V2EX】2022-08-06-我觉得-Windows11-是现在最好用的操作系统](https://www.v2ex.com/t/871109) 
@@ -91,13 +98,6 @@
 - [【V2EX】2022-08-06-没骑过公路车，想租一辆看看合不合自己意，请问有人出租吗？](https://www.v2ex.com/t/871080) 
 - [【V2EX】2022-08-06-相亲都是要见一两次面后就决定双方关系吗？](https://www.v2ex.com/t/871076) 
 - [【V2EX】2022-08-06-实在是恨透了-excel-了](https://www.v2ex.com/t/871075) 
-- [【V2EX】2022-08-06-tplink-mesh-组网怎么让电视固定连接其中一个路由器呢？](https://www.v2ex.com/t/871072) 
-- [【V2EX】2022-08-06-现在前端还有办法引用第三方网页的内容吗？](https://www.v2ex.com/t/871071) 
-- [【V2EX】2022-08-06-微信小程序如何退出登录？](https://www.v2ex.com/t/871068) 
-- [【V2EX】2022-08-06-问下上海漕河泾这边-字节-和腾讯-房补多少呀？](https://www.v2ex.com/t/871067) 
-- [【V2EX】2022-08-06-这种明知后果接受不了，明知会后悔，可当时还是不好好学不认真学的情况避免不了吗？](https://www.v2ex.com/t/871066) 
-- [【V2EX】2022-08-06-LOVEPHP-WEB-全栈开源框架发布](https://www.v2ex.com/t/871065) 
-- [【V2EX】2022-08-06-最近忽然有种感觉，-web2-的应用逐渐在腐朽崩塌，但新的应用形式是什么样，又还看不清楚。不知道大家有什么想法吗，可以一起来说说呀。现存的痛点究竟是什么，我...](https://www.v2ex.com/t/871064) 
 - [【技术头条】2022-08-06-完成原型设计的五个步骤-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15273&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffive-steps-for-prototype-design%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-08-06-敏捷交付的工程效能治理-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15272&url=https%3A%2F%2Finsights.thoughtworks.cn%2F%3Fp%3D16439%26amp%3Bpreview%3Dtrue%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-08-06-SpringBoot四大核心组件，你知道几个？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15271&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494395%26amp%3Bidx%3D2%26amp%3Bsn%3D7625c27c0bbb10cfd2e5e1d8a09a3c74%26amp%3Bchksm%3Dfa3f0ba0cd4882b6baa602f1f11ffebc9ec2dadb2ee131a812efc29a71e64cb3959c144707ff%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

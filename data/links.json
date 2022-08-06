@@ -9953,6 +9953,41 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "Android 微博国际版不能访问",
+        "link": "https://www.v2ex.com/t/871023",
+        "date": "2022-08-06"
+      },
+      {
+        "title": "求一个 PHP 文件，支持断点续传",
+        "link": "https://www.v2ex.com/t/871022",
+        "date": "2022-08-06"
+      },
+      {
+        "title": "请问 Win10 多桌面如何绑定应用？",
+        "link": "https://www.v2ex.com/t/871021",
+        "date": "2022-08-06"
+      },
+      {
+        "title": "发现 RollBack Rx 竟然还在更新，甚至兼容 Windows 11 了",
+        "link": "https://www.v2ex.com/t/871020",
+        "date": "2022-08-06"
+      },
+      {
+        "title": "[北京][原子回声]前端工程师",
+        "link": "https://www.v2ex.com/t/871019",
+        "date": "2022-08-06"
+      },
+      {
+        "title": "老哥们，有啥送个父亲的礼物推荐？",
+        "link": "https://www.v2ex.com/t/871018",
+        "date": "2022-08-06"
+      },
+      {
+        "title": "冤大头了？",
+        "link": "https://www.v2ex.com/t/871016",
+        "date": "2022-08-05"
+      },
+      {
         "title": "前端的等待加载界面，有什么防止闪烁的好办法吗？",
         "link": "https://www.v2ex.com/t/871015",
         "date": "2022-08-05"
@@ -10116,36 +10151,6 @@
         "title": "D 轮 HR SaaS 领域独角兽 Rippling 在中国招工程师啦",
         "link": "https://www.v2ex.com/t/870974",
         "date": "2022-08-05"
-      },
-      {
-        "title": "找 React 前端外包",
-        "link": "https://www.v2ex.com/t/870972",
-        "date": "2022-08-05"
-      },
-      {
-        "title": "上下行对等商宽是不是智商税?",
-        "link": "https://www.v2ex.com/t/870970",
-        "date": "2022-08-05"
-      },
-      {
-        "title": "低功耗 x86 软路由推荐",
-        "link": "https://www.v2ex.com/t/870969",
-        "date": "2022-08-05"
-      },
-      {
-        "title": "怎样让两台设备通过 PC 连接？",
-        "link": "https://www.v2ex.com/t/870968",
-        "date": "2022-08-05"
-      },
-      {
-        "title": "请问大家如何确定一个无状态应用何时应该横向扩容、何时应该纵向扩容？",
-        "link": "https://www.v2ex.com/t/870967",
-        "date": "2022-08-05"
-      },
-      {
-        "title": "某个 package 的库文件没有经过 babel 处理，导致在 browserify 时报错",
-        "link": "https://www.v2ex.com/t/870966",
-        "date": "2022-08-05"
       }
     ]
   },
@@ -10157,102 +10162,102 @@
       {
         "title": "完成原型设计的五个步骤 (insights.thoughtworks.cn)",
         "link": "https://blogread.cn/news/go.php?idItem=15273&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffive-steps-for-prototype-design%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-08-05"
+        "date": "2022-08-06"
       },
       {
         "title": "敏捷交付的工程效能治理 (insights.thoughtworks.cn)",
         "link": "https://blogread.cn/news/go.php?idItem=15272&url=https%3A%2F%2Finsights.thoughtworks.cn%2F%3Fp%3D16439%26amp%3Bpreview%3Dtrue%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-08-05"
+        "date": "2022-08-06"
       },
       {
         "title": "SpringBoot四大核心组件，你知道几个？ (mp.weixin.qq.com)",
         "link": "https://blogread.cn/news/go.php?idItem=15271&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494395%26amp%3Bidx%3D2%26amp%3Bsn%3D7625c27c0bbb10cfd2e5e1d8a09a3c74%26amp%3Bchksm%3Dfa3f0ba0cd4882b6baa602f1f11ffebc9ec2dadb2ee131a812efc29a71e64cb3959c144707ff%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-08-05"
+        "date": "2022-08-06"
       },
       {
         "title": "为什么现在我特讨厌Safari浏览器？ (mp.weixin.qq.com)",
         "link": "https://blogread.cn/news/go.php?idItem=15270&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494394%26amp%3Bidx%3D1%26amp%3Bsn%3Dfb2cf1e3121547b166e7507899fd4b39%26amp%3Bchksm%3Dfa3f0ba1cd4882b709b6be7a5f79fe7fde60753959a580a0d22d902090136a0acfcdc714006d%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-08-05"
+        "date": "2022-08-06"
       },
       {
         "title": "排名前16的Java工具类，你用过哪个？ (mp.weixin.qq.com)",
         "link": "https://blogread.cn/news/go.php?idItem=15269&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494394%26amp%3Bidx%3D2%26amp%3Bsn%3Dcb65e98ba5dce4c6ed915788f729e649%26amp%3Bchksm%3Dfa3f0ba1cd4882b75e5d170394f948b30c2fc6d572158708d579d194fcb1a861afc87301b3f8%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-08-05"
+        "date": "2022-08-06"
       },
       {
         "title": "真正的高颜值Markdown编辑神器！ (mp.weixin.qq.com)",
         "link": "https://blogread.cn/news/go.php?idItem=15268&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494393%26amp%3Bidx%3D1%26amp%3Bsn%3D28dbada9c20aa41ccbda91cb2728061b%26amp%3Bchksm%3Dfa3f0ba2cd4882b41f55c7b312d4027603277638c507159a5dde871a6e5b6cf1f9d8ca151f4e%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-08-05"
+        "date": "2022-08-06"
       },
       {
         "title": "HttpClient设置不当引发的一次雪崩，整个项目组慌了！ (mp.weixin.qq.com)",
         "link": "https://blogread.cn/news/go.php?idItem=15267&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494393%26amp%3Bidx%3D2%26amp%3Bsn%3D36eb1ce24fe6d996de862db1680430b2%26amp%3Bchksm%3Dfa3f0ba2cd4882b484bf66baefe50966cd8dbb58a176a11934472cad5b9f4a6c948c9fef9f56%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-08-05"
+        "date": "2022-08-06"
       },
       {
         "title": "世界第三大浏览器正在消亡 (mp.weixin.qq.com)",
         "link": "https://blogread.cn/news/go.php?idItem=15266&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494319%26amp%3Bidx%3D1%26amp%3Bsn%3D89f3f6a2d1f7f939d17e8e6a2f2075b5%26amp%3Bchksm%3Dfa3f0bf4cd4882e258bdc46ffb4397820052401a049a8ed9b91dcf670464a6f1e2eca5ea59d1%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-08-05"
+        "date": "2022-08-06"
       },
       {
         "title": "像一名教育者一样思考代码质量 (mp.weixin.qq.com)",
         "link": "https://blogread.cn/news/go.php?idItem=15265&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494319%26amp%3Bidx%3D2%26amp%3Bsn%3D1635f21bffbb88d13c24854f0c8a4c4e%26amp%3Bchksm%3Dfa3f0bf4cd4882e2e88e8beb2ec31a38c35d84a925144807399c2a4d55344102a482d4359718%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-08-05"
+        "date": "2022-08-06"
       },
       {
         "title": "入职美国谷歌Google搜索SRE经历 (www.slyar.com)",
         "link": "https://blogread.cn/news/go.php?idItem=15264&url=http%3A%2F%2Fwww.slyar.com%2Fblog%2Fleft-paypal-join-google-search-sre-2022.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-08-05"
+        "date": "2022-08-06"
       },
       {
         "title": "谁动了我的奶酪，通过 git 找出内容变更历史 (droidyue.com)",
         "link": "https://blogread.cn/news/go.php?idItem=15263&url=https%3A%2F%2Fdroidyue.com%2Fblog%2F2022%2F06%2F13%2Fa-little-git-log-case-can-do-big-help%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-08-05"
+        "date": "2022-08-06"
       },
       {
         "title": "如何使用cURL调试CORS请求 (www.ipcpu.com)",
         "link": "https://blogread.cn/news/go.php?idItem=15262&url=https%3A%2F%2Fwww.ipcpu.com%2F2022%2F05%2Fcurl-cors%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-08-05"
+        "date": "2022-08-06"
       },
       {
         "title": "安卓手机APP抓包时有些应用出现了CONNECT，无法解析包内容 (www.ipcpu.com)",
         "link": "https://blogread.cn/news/go.php?idItem=15261&url=https%3A%2F%2Fwww.ipcpu.com%2F2022%2F05%2Fandroid-app-connect%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-08-05"
+        "date": "2022-08-06"
       },
       {
         "title": "Docker镜像漏洞扫描工具Trivy (www.ipcpu.com)",
         "link": "https://blogread.cn/news/go.php?idItem=15260&url=https%3A%2F%2Fwww.ipcpu.com%2F2022%2F04%2Fdocker-trivy%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-08-05"
+        "date": "2022-08-06"
       },
       {
         "title": "Docker设置代理 (www.ipcpu.com)",
         "link": "https://blogread.cn/news/go.php?idItem=15259&url=https%3A%2F%2Fwww.ipcpu.com%2F2022%2F04%2Fdocker-proxy%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-08-05"
+        "date": "2022-08-06"
       },
       {
         "title": "SonarQube的使用 (www.ipcpu.com)",
         "link": "https://blogread.cn/news/go.php?idItem=15258&url=https%3A%2F%2Fwww.ipcpu.com%2F2022%2F03%2Fsonarqube-usage%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-08-05"
+        "date": "2022-08-06"
       },
       {
         "title": "解决https接口无法访问的问题 (blog.darkmi.com)",
         "link": "https://blogread.cn/news/go.php?idItem=15257&url=https%3A%2F%2Fblog.darkmi.com%2F2022%2F06%2F28%2F4492.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-08-05"
+        "date": "2022-08-06"
       },
       {
         "title": "修改MySQL的ib_logfile大小和组数 (www.xifenfei.com)",
         "link": "https://blogread.cn/news/go.php?idItem=15256&url=https%3A%2F%2Fwww.xifenfei.com%2F2022%2F07%2Fmodify-ib_logfile-size-and-groups.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-08-05"
+        "date": "2022-08-06"
       },
       {
         "title": "How to find the corresponding session in MogDB/openGauss from OS thread ID (www.dbform.com)",
         "link": "https://blogread.cn/news/go.php?idItem=15255&url=https%3A%2F%2Fwww.dbform.com%2F2022%2F05%2F31%2Fhow-to-find-the-corresponding-session-in-mogdb-from-os-thread-id%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-08-05"
+        "date": "2022-08-06"
       },
       {
         "title": "How to make Total Commander works with Everything and QuickLook (www.dbform.com)",
         "link": "https://blogread.cn/news/go.php?idItem=15254&url=https%3A%2F%2Fwww.dbform.com%2F2022%2F05%2F01%2Fhow-to-make-total-commander-works-with-everything-and-quicklook%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-08-05"
+        "date": "2022-08-06"
       }
     ]
   },
@@ -10262,109 +10267,49 @@
     "link": "https://toutiao.io",
     "items": [
       {
-        "title": "Kafka在美团数据平台的实践",
-        "link": "https://toutiao.io/k/92uh7d6",
-        "date": "2022-08-05"
+        "title": "优质网站同好者周刊（第 077 期） | 倾城博客",
+        "link": "https://toutiao.io/k/irnoyqo",
+        "date": "2022-08-06"
       },
       {
-        "title": "解决方案 - 自动化单元测试",
-        "link": "https://toutiao.io/k/0geaxdx",
-        "date": "2022-08-05"
+        "title": "go数据库查询生成器",
+        "link": "https://toutiao.io/k/k61qyu6",
+        "date": "2022-08-06"
       },
       {
-        "title": "浅谈数仓模型（维度建模）",
-        "link": "https://toutiao.io/k/homv8cz",
-        "date": "2022-08-05"
+        "title": "kafka Broker源码",
+        "link": "https://toutiao.io/k/wzjabd6",
+        "date": "2022-08-06"
       },
       {
-        "title": "以小窥大：IO 卡顿探寻苹果文件系统",
-        "link": "https://toutiao.io/k/xbnkwtv",
-        "date": "2022-08-05"
+        "title": "可视化服务编排在金融APP中的实践",
+        "link": "https://toutiao.io/k/z6pdqve",
+        "date": "2022-08-06"
       },
       {
-        "title": "【突发】Nginx Log4j2 疑似存在严重漏洞紧急通报！",
-        "link": "https://toutiao.io/k/ectmt30",
-        "date": "2022-08-05"
+        "title": "分享 | Spark Skew Join的原理与优化",
+        "link": "https://toutiao.io/k/pr0zuan",
+        "date": "2022-08-06"
       },
       {
-        "title": "Google V8引擎浅析-内存管理",
-        "link": "https://toutiao.io/k/gr4z26w",
-        "date": "2022-08-05"
-      },
-      {
-        "title": "NVM 快速安装教程，只此一家",
-        "link": "https://toutiao.io/k/6kbp22s",
-        "date": "2022-08-05"
-      },
-      {
-        "title": "React 的一些最佳安全实践",
-        "link": "https://toutiao.io/k/5re1mb3",
-        "date": "2022-08-05"
-      },
-      {
-        "title": "一文详解用eBPF观测HTTP",
-        "link": "https://toutiao.io/k/umo00i0",
-        "date": "2022-08-05"
-      },
-      {
-        "title": "手撕SparkSQL五大JOIN的底层机制",
-        "link": "https://toutiao.io/k/nf9zat8",
-        "date": "2022-08-05"
-      },
-      {
-        "title": "整理了27个Python人工智能库，建议收藏！",
-        "link": "https://toutiao.io/k/dqti37v",
-        "date": "2022-08-05"
-      },
-      {
-        "title": "数据检索的玄铁剑——索引",
-        "link": "https://toutiao.io/k/ssyu97q",
-        "date": "2022-08-05"
-      },
-      {
-        "title": "kubelet 远程调试方法",
-        "link": "https://toutiao.io/k/ywtwbk9",
-        "date": "2022-08-05"
-      },
-      {
-        "title": "重新审视分布式系统：永远不会有完美的一致性方案……",
-        "link": "https://toutiao.io/k/kd2sogm",
-        "date": "2022-08-05"
-      },
-      {
-        "title": "在Chrome DevTools中从Go源代码调试WebAssembly",
-        "link": "https://toutiao.io/k/1qo5u3u",
-        "date": "2022-08-05"
-      },
-      {
-        "title": "一块GPU训练TB级推荐模型不是梦，OneEmbedding性能一骑绝尘",
-        "link": "https://toutiao.io/k/pxyaq3i",
-        "date": "2022-08-05"
-      },
-      {
-        "title": "Blueboat：一体化无服务器 JavaScript 运行时环境",
-        "link": "https://toutiao.io/k/l0rhkug",
-        "date": "2022-08-05"
-      },
-      {
-        "title": "硅谷来信：快速行动，Facebook、Quora等成功的“神器”！",
-        "link": "https://toutiao.io/k/6mn45sd",
-        "date": "2022-08-05"
-      },
-      {
-        "title": "[推荐] 研发过程中的文档管理与工具",
-        "link": "https://toutiao.io/k/mdiqwn5",
-        "date": "2022-08-05"
-      },
-      {
-        "title": "[推荐] 老板：公司系统太多，能不能实现账号互通？",
-        "link": "https://toutiao.io/k/g7sb904",
-        "date": "2022-08-05"
+        "title": "[推荐] 一文搞懂 Redis 架构演化之路",
+        "link": "https://toutiao.io/k/cwwpjem",
+        "date": "2022-08-06"
       },
       {
         "title": "[推荐] 阿里云官方 Redis 开发规范！",
         "link": "https://toutiao.io/k/2fqcbfi",
-        "date": "2022-08-05"
+        "date": "2022-08-06"
+      },
+      {
+        "title": "[推荐] 老板：公司系统太多，能不能实现账号互通？",
+        "link": "https://toutiao.io/k/g7sb904",
+        "date": "2022-08-06"
+      },
+      {
+        "title": "[推荐] 研发过程中的文档管理与工具",
+        "link": "https://toutiao.io/k/mdiqwn5",
+        "date": "2022-08-06"
       }
     ]
   },

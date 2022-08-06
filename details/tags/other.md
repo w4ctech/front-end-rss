@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-08-06 23:03:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-08-06 23:14:48。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1956,15 +1956,8 @@
 - [2022-08-06-修改MySQL的ib_logfile大小和组数-www.xifenfei.com](https://blogread.cn/news/go.php?idItem=15256&url=https%3A%2F%2Fwww.xifenfei.com%2F2022%2F07%2Fmodify-ib_logfile-size-and-groups.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-08-06-How-to-find-the-corresponding-session-in-MogDB/openGauss-from-OS-thread-ID-www.dbform.com](https://blogread.cn/news/go.php?idItem=15255&url=https%3A%2F%2Fwww.dbform.com%2F2022%2F05%2F31%2Fhow-to-find-the-corresponding-session-in-mogdb-from-os-thread-id%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-08-06-How-to-make-Total-Commander-works-with-Everything-and-QuickLook-www.dbform.com](https://blogread.cn/news/go.php?idItem=15254&url=https%3A%2F%2Fwww.dbform.com%2F2022%2F05%2F01%2Fhow-to-make-total-commander-works-with-everything-and-quicklook%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
-- [2022-08-06-优质网站同好者周刊（第-077-期）-|-倾城博客](https://toutiao.io/k/irnoyqo) 
-- [2022-08-06-可视化服务编排在金融APP中的实践](https://toutiao.io/k/z6pdqve) 
-- [2022-08-06-go数据库查询生成器](https://toutiao.io/k/k61qyu6) 
-- [2022-08-06-深入浅出富文本编辑器](https://toutiao.io/k/av869rh) 
-- [2022-08-06-危险！请马上替换代码中的BeanUtils！！！](https://toutiao.io/k/xk21s4t) 
-- [2022-08-06-JuiceFS-在携程海量冷数据场景下的实践](https://toutiao.io/k/vtqu24i) 
-- [2022-08-06-最全的交换机知识汇总，看完这一篇就全明白了](https://toutiao.io/k/fdm79pe) 
-- [2022-08-06-kafka-Broker源码](https://toutiao.io/k/wzjabd6) 
-- [2022-08-06-推荐-一文搞懂-Redis-架构演化之路](https://toutiao.io/k/cwwpjem) 
+- [2022-08-06-欢迎加入读者圈子，一起交流！](https://toutiao.io/k/mtrqmru) 
 - [2022-08-06-推荐-阿里云官方-Redis-开发规范！](https://toutiao.io/k/2fqcbfi) 
+- [2022-08-06-推荐-一文搞懂-Redis-架构演化之路](https://toutiao.io/k/cwwpjem) 
 - [2022-08-06-推荐-老板：公司系统太多，能不能实现账号互通？](https://toutiao.io/k/g7sb904) 
 - [2022-08-06-推荐-研发过程中的文档管理与工具](https://toutiao.io/k/mdiqwn5) 

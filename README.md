@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-06 06:16:44，:rocket: 更新条数: +2014， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-06 06:46:04，:rocket: 更新条数: +2011， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-08-06-有无基于群晖云端网页版的（无客户端）文献管理软件？知网下载的加密-PDF-如何解密？](https://www.v2ex.com/t/871086) ![](assets/new.png)  
+- [2022-08-06-有国外大厂提供免费-NodeJS-运行环境吗？直接从-github-拉取编译那种](https://www.v2ex.com/t/871085) ![](assets/new.png)  
 - [2022-08-06-没骑过公路车，想租一辆看看合不合自己意，请问有人出租吗？](https://www.v2ex.com/t/871080) ![](assets/new.png)  
 - [2022-08-06-相亲都是要见一两次面后就决定双方关系吗？](https://www.v2ex.com/t/871076) ![](assets/new.png)  
 - [2022-08-06-实在是恨透了-excel-了](https://www.v2ex.com/t/871075) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-08-06-国内-pwa“应用商店”能不能做起来呢](https://www.v2ex.com/t/871055) ![](assets/new.png)  
 - [2022-08-06-求推荐二手服务器购买渠道和上海的上门组装维修服务](https://www.v2ex.com/t/871054) ![](assets/new.png)  
 - [2022-08-06-刷个路由重拨个号，我的-v4-公网和-ipv6-全被扬了](https://www.v2ex.com/t/871053) ![](assets/new.png)  
-- [2022-08-06-2015Early-MacBook-Air-处理-4k-视频](https://www.v2ex.com/t/871052) ![](assets/new.png)  
-- [2022-08-06-请问一个-PVE-下群晖-7.X-GVT-G-人脸识别的问题](https://www.v2ex.com/t/871050) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -557,16 +557,16 @@
 - [2022-08-06-可视化服务编排在金融APP中的实践](https://toutiao.io/k/z6pdqve) ![](assets/new.png)  
 - [2022-08-06-go数据库查询生成器](https://toutiao.io/k/k61qyu6) ![](assets/new.png)  
 - [2022-08-06-kafka-Broker源码](https://toutiao.io/k/wzjabd6) ![](assets/new.png)  
-- [2022-08-06-分享-|-Spark-Skew-Join的原理与优化](https://toutiao.io/k/pr0zuan) ![](assets/new.png)  
 - [2022-08-06-深入浅出富文本编辑器](https://toutiao.io/k/av869rh) ![](assets/new.png)  
+- [2022-08-06-分享-|-Spark-Skew-Join的原理与优化](https://toutiao.io/k/pr0zuan) ![](assets/new.png)  
 - [2022-08-06-危险！请马上替换代码中的BeanUtils！！！](https://toutiao.io/k/xk21s4t) ![](assets/new.png)  
 - [2022-08-06-JuiceFS-在携程海量冷数据场景下的实践](https://toutiao.io/k/vtqu24i) ![](assets/new.png)  
 - [2022-08-06-什么是-HTTPS-的证书信任链？自己给自己发行不行？](https://toutiao.io/k/5prr7jv) ![](assets/new.png)  
 - [2022-08-06-最全的交换机知识汇总，看完这一篇就全明白了](https://toutiao.io/k/fdm79pe) ![](assets/new.png)  
 - [2022-08-06-推荐-老板：公司系统太多，能不能实现账号互通？](https://toutiao.io/k/g7sb904) ![](assets/new.png)  
 - [2022-08-06-推荐-研发过程中的文档管理与工具](https://toutiao.io/k/mdiqwn5) ![](assets/new.png)  
-- [2022-08-06-推荐-阿里云官方-Redis-开发规范！](https://toutiao.io/k/2fqcbfi) ![](assets/new.png)  
 - [2022-08-06-推荐-一文搞懂-Redis-架构演化之路](https://toutiao.io/k/cwwpjem) ![](assets/new.png)  
+- [2022-08-06-推荐-阿里云官方-Redis-开发规范！](https://toutiao.io/k/2fqcbfi) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

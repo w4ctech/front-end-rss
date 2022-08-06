@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-08-06 07:39:11。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-08-06 08:16:54。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,11 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-08-06-吐槽一下微信的彩铃功能](https://www.v2ex.com/t/871101) 
+- [2022-08-06-求推荐个戒手机的-app-记得有个种树的忘记名字了](https://www.v2ex.com/t/871099) 
+- [2022-08-06-润-or-苟](https://www.v2ex.com/t/871097) 
+- [2022-08-06-2022-年-8-月，市面上已经有很多大品牌带实惠套餐的随身-wifi，为什么没有看到大品牌的物联网卡？](https://www.v2ex.com/t/871096) 
+- [2022-08-06-macOS-12.5（可能）大幅改善了内存占用](https://www.v2ex.com/t/871095) 
 - [2022-08-06-现在万元左右的电脑有整机推荐吗?准备给表兄送做新婚礼物](https://www.v2ex.com/t/871092) 
 - [2022-08-06-要更新电脑，是现在买还是等-M2？](https://www.v2ex.com/t/871090) 
 - [2022-08-06-穿无袖-T-恤，腋毛怎么处理？](https://www.v2ex.com/t/871089) 
@@ -1928,9 +1933,6 @@
 - [2022-08-06-曾经登录过美区-ID-的-iPad-，不停地要求输入美区-ID-的密码](https://www.v2ex.com/t/871058) 
 - [2022-08-06-微信红包消息重复发送，可能的原因是什么？](https://www.v2ex.com/t/871057) 
 - [2022-08-06-求推荐二手服务器购买渠道和上海的上门组装维修服务](https://www.v2ex.com/t/871054) 
-- [2022-08-06-请问一个-PVE-下群晖-7.X-GVT-G-人脸识别的问题](https://www.v2ex.com/t/871050) 
-- [2022-08-06-iOS-和-Mac-上有能下载-m3u8-并转换成-mp4-的方法或者-app-吗？](https://www.v2ex.com/t/871047) 
-- [2022-08-06-2202-年了-Windows-还没有高效的文件多标签？](https://www.v2ex.com/t/871045) 
 - [2022-08-06-完成原型设计的五个步骤-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15273&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffive-steps-for-prototype-design%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-08-06-敏捷交付的工程效能治理-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15272&url=https%3A%2F%2Finsights.thoughtworks.cn%2F%3Fp%3D16439%26amp%3Bpreview%3Dtrue%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-08-06-排名前16的Java工具类，你用过哪个？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15269&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494394%26amp%3Bidx%3D2%26amp%3Bsn%3Dcb65e98ba5dce4c6ed915788f729e649%26amp%3Bchksm%3Dfa3f0ba1cd4882b75e5d170394f948b30c2fc6d572158708d579d194fcb1a861afc87301b3f8%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1950,7 +1952,7 @@
 - [2022-08-06-危险！请马上替换代码中的BeanUtils！！！](https://toutiao.io/k/xk21s4t) 
 - [2022-08-06-JuiceFS-在携程海量冷数据场景下的实践](https://toutiao.io/k/vtqu24i) 
 - [2022-08-06-最全的交换机知识汇总，看完这一篇就全明白了](https://toutiao.io/k/fdm79pe) 
-- [2022-08-06-推荐-一文搞懂-Redis-架构演化之路](https://toutiao.io/k/cwwpjem) 
 - [2022-08-06-推荐-阿里云官方-Redis-开发规范！](https://toutiao.io/k/2fqcbfi) 
-- [2022-08-06-推荐-老板：公司系统太多，能不能实现账号互通？](https://toutiao.io/k/g7sb904) 
 - [2022-08-06-推荐-研发过程中的文档管理与工具](https://toutiao.io/k/mdiqwn5) 
+- [2022-08-06-推荐-老板：公司系统太多，能不能实现账号互通？](https://toutiao.io/k/g7sb904) 
+- [2022-08-06-推荐-一文搞懂-Redis-架构演化之路](https://toutiao.io/k/cwwpjem) 

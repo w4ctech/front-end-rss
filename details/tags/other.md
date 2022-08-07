@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-08-07 15:13:44。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-08-07 15:41:42。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,9 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-08-07-关于-macbook-投屏到-iPad-上卡顿的问题](https://www.v2ex.com/t/871305) 
+- [2022-08-07-如何自动化搜集黄图群里的图片？](https://www.v2ex.com/t/871304) 
+- [2022-08-07-你们的公司招人一般喜欢招几岁的](https://www.v2ex.com/t/871301) 
 - [2022-08-07-mac，有没有打开、关闭-代理的快捷方式](https://www.v2ex.com/t/871300) 
 - [2022-08-07-2720qm-是否支持-typec-接-mac-以后，键盘接显示器控制-mac](https://www.v2ex.com/t/871299) 
 - [2022-08-07-使用-5G-频段桥接-WIFI-后，上传速度明显下降，会是什么原因](https://www.v2ex.com/t/871298) 
@@ -1942,8 +1945,6 @@
 - [2022-08-07-分享夏天市内游，感受新能源车的优缺点](https://www.v2ex.com/t/871259) 
 - [2022-08-07-携程上海求内推](https://www.v2ex.com/t/871258) 
 - [2022-08-07-1-号线外环路-两室一厅-招室友](https://www.v2ex.com/t/871257) 
-- [2022-08-07-使用-TMM-通过-TVDB-API-刮削影片信息时提示无法连接情况么](https://www.v2ex.com/t/871254) 
-- [2022-08-07-求-vscode-1.7.0-版本说明中截图对应的插件](https://www.v2ex.com/t/871253) 
 - [2022-08-07-40年前的操作系统复活了，当年Linux、Windows都借鉴过！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15280&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494410%26amp%3Bidx%3D1%26amp%3Bsn%3D6573f0c124bcd2e20c39c33d3e516526%26amp%3Bchksm%3Dfa3f0a51cd4883479817eb189805d7dfe98436addb3e47a267f25bc3cdefefbb56aeab56e7b4%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-08-07-Spring注入Bean的七种方式-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15279&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494410%26amp%3Bidx%3D2%26amp%3Bsn%3D86e311bf8e60434edd3b60be3230e3e4%26amp%3Bchksm%3Dfa3f0a51cd4883473339fccf0f251b3cc4c5a5a9f85f2f196440fc0b3b75708c184391752aed%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-08-07-Python竟然也能做这样的进度条。。。-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15278&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494409%26amp%3Bidx%3D2%26amp%3Bsn%3D60f504fcb4ab4f3c5653d3e38c5d881d%26amp%3Bchksm%3Dfa3f0a52cd48834493edacaab63f11cf7d3724048a14bb96303999efd75ef3a72d6e78aeb7f6%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1964,9 +1965,9 @@
 - [2022-08-07-超大体量项目，微前端落地方案，看完后悔来找我](https://toutiao.io/k/3zu7mjf) 
 - [2022-08-07-推荐学java——SpringMVC第一课](https://toutiao.io/k/rit1ynm) 
 - [2022-08-07-七夕了，织女这一年打了哪些装备见牛郎呢？](https://toutiao.io/k/rtepyvi) 
-- [2022-08-07-“柯南领结”变成现实，字节跳动智创语音团队SAMI发布新一代实时AI变声方案](https://toutiao.io/k/s6qxa1b) 
 - [2022-08-07-保姆级教程！Golang微服务简洁架构实战](https://toutiao.io/k/wcd6wfn) 
-- [2022-08-07-推荐-一文搞懂-Redis-架构演化之路](https://toutiao.io/k/cwwpjem) 
-- [2022-08-07-推荐-老板：公司系统太多，能不能实现账号互通？](https://toutiao.io/k/g7sb904) 
-- [2022-08-07-推荐-阿里云官方-Redis-开发规范！](https://toutiao.io/k/2fqcbfi) 
+- [2022-08-07-“柯南领结”变成现实，字节跳动智创语音团队SAMI发布新一代实时AI变声方案](https://toutiao.io/k/s6qxa1b) 
 - [2022-08-07-推荐-研发过程中的文档管理与工具](https://toutiao.io/k/mdiqwn5) 
+- [2022-08-07-推荐-阿里云官方-Redis-开发规范！](https://toutiao.io/k/2fqcbfi) 
+- [2022-08-07-推荐-老板：公司系统太多，能不能实现账号互通？](https://toutiao.io/k/g7sb904) 
+- [2022-08-07-推荐-一文搞懂-Redis-架构演化之路](https://toutiao.io/k/cwwpjem) 

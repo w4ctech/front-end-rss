@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-07 06:16:55，:rocket: 更新条数: +2017， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-07 06:46:19，:rocket: 更新条数: +2018， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,13 @@
 </summary>
 
 
+- [2022-08-07-Google-Calendar-如何取消「Plan-the-day」这个标签](https://www.v2ex.com/t/871236) ![](assets/new.png)  
+- [2022-08-07-谁能知道为什么-windows-版的有道词典在每次发音的时候都会默认调节系统音量啊？](https://www.v2ex.com/t/871235) ![](assets/new.png)  
+- [2022-08-07-好奇-App-Store-的游戏是如何检测用户所在位置的？](https://www.v2ex.com/t/871234) ![](assets/new.png)  
+- [2022-08-07-2022-年深圳配眼镜记录一](https://www.v2ex.com/t/871233) ![](assets/new.png)  
+- [2022-08-07-在个人时间精力等有限的情况下，学习应该侧重广度还是深度](https://www.v2ex.com/t/871232) ![](assets/new.png)  
+- [2022-08-07-给朋友解释-m1-macbook-pro-和-m1-pro-macbook-的区别](https://www.v2ex.com/t/871231) ![](assets/new.png)  
+- [2022-08-07-是否存在数据库，缓存层合一的解决方案？](https://www.v2ex.com/t/871230) ![](assets/new.png)  
 - [2022-08-07-对于一个普通的办公人员，实在没理由停留在-x86-的-win-了](https://www.v2ex.com/t/871227) ![](assets/new.png)  
 - [2022-08-07-v2ex-有没有一周最热-or48h-最热之类的榜单？](https://www.v2ex.com/t/871225) ![](assets/new.png)  
 - [2022-08-07-银行卡风险咨询](https://www.v2ex.com/t/871224) ![](assets/new.png)  
@@ -504,13 +511,6 @@
 - [2022-08-07-转租-迫于换工作，转租万胜围复式两房](https://www.v2ex.com/t/871214) ![](assets/new.png)  
 - [2022-08-07-Python-这个-scope/block-leak-我是越来越膈硬](https://www.v2ex.com/t/871213) ![](assets/new.png)  
 - [2022-08-07-Chrome-最新版本-104.0.5112.81-修改了-session-或-cookie-机制吗？](https://www.v2ex.com/t/871212) ![](assets/new.png)  
-- [2022-08-07-求问现在还有小团队接游戏开发-contract-的途径吗？](https://www.v2ex.com/t/871211) ![](assets/new.png)  
-- [2022-08-07-台式机机箱吹冷水，脚冷，怎么办？](https://www.v2ex.com/t/871210) ![](assets/new.png)  
-- [2022-08-07-Linux-/MAC-下-vi-或-vim-的编辑再保存改变了文件的什么信息](https://www.v2ex.com/t/871208) ![](assets/new.png)  
-- [2022-08-07-有什么办法看出字幕组压制成片时使用的参数（主要是-crf-preset-这类的）吗](https://www.v2ex.com/t/871207) ![](assets/new.png)  
-- [2022-08-07-有什么可以替代-Karabiner-的修改外接键盘键位的程序吗](https://www.v2ex.com/t/871206) ![](assets/new.png)  
-- [2022-08-07-John-Carmack-的新访谈](https://www.v2ex.com/t/871205) ![](assets/new.png)  
-- [2022-08-07-除了苹果妙控板，还有更便宜的，-50-元的那种吗？](https://www.v2ex.com/t/871202) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -565,9 +565,9 @@
 - [2022-08-07-保姆级教程！Golang微服务简洁架构实战](https://toutiao.io/k/wcd6wfn) ![](assets/new.png)  
 - [2022-08-07-如何提升-HBase-大规模集群下的低延时性能](https://toutiao.io/k/4ni1nte) ![](assets/new.png)  
 - [2022-08-07-推荐-阿里云官方-Redis-开发规范！](https://toutiao.io/k/2fqcbfi) ![](assets/new.png)  
-- [2022-08-07-推荐-一文搞懂-Redis-架构演化之路](https://toutiao.io/k/cwwpjem) ![](assets/new.png)  
 - [2022-08-07-推荐-老板：公司系统太多，能不能实现账号互通？](https://toutiao.io/k/g7sb904) ![](assets/new.png)  
 - [2022-08-07-推荐-研发过程中的文档管理与工具](https://toutiao.io/k/mdiqwn5) ![](assets/new.png)  
+- [2022-08-07-推荐-一文搞懂-Redis-架构演化之路](https://toutiao.io/k/cwwpjem) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -9953,6 +9953,41 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "Google Calendar 如何取消「Plan the day」这个标签",
+        "link": "https://www.v2ex.com/t/871236",
+        "date": "2022-08-07"
+      },
+      {
+        "title": "谁能知道为什么 windows 版的有道词典在每次发音的时候都会默认调节系统音量啊？",
+        "link": "https://www.v2ex.com/t/871235",
+        "date": "2022-08-07"
+      },
+      {
+        "title": "好奇 App Store 的游戏是如何检测用户所在位置的？",
+        "link": "https://www.v2ex.com/t/871234",
+        "date": "2022-08-07"
+      },
+      {
+        "title": "2022 年深圳配眼镜记录一",
+        "link": "https://www.v2ex.com/t/871233",
+        "date": "2022-08-07"
+      },
+      {
+        "title": "在个人时间精力等有限的情况下，学习应该侧重广度还是深度",
+        "link": "https://www.v2ex.com/t/871232",
+        "date": "2022-08-07"
+      },
+      {
+        "title": "给朋友解释 m1 macbook pro 和 m1 pro macbook 的区别",
+        "link": "https://www.v2ex.com/t/871231",
+        "date": "2022-08-07"
+      },
+      {
+        "title": "是否存在数据库，缓存层合一的解决方案？",
+        "link": "https://www.v2ex.com/t/871230",
+        "date": "2022-08-07"
+      },
+      {
         "title": "对于一个普通的办公人员，实在没理由停留在 x86 的 win 了",
         "link": "https://www.v2ex.com/t/871227",
         "date": "2022-08-07"
@@ -10078,11 +10113,6 @@
         "date": "2022-08-07"
       },
       {
-        "title": "平板买什么牌子好？（别说 iPad ，我穷呢）",
-        "link": "https://www.v2ex.com/t/871194",
-        "date": "2022-08-07"
-      },
-      {
         "title": "Windows 上有什么扫描屏幕上二维码的软件？",
         "link": "https://www.v2ex.com/t/871193",
         "date": "2022-08-07"
@@ -10090,11 +10120,6 @@
       {
         "title": "离谱到家了, surface intel UHD 显卡驱动内存泄漏, dwm.exe 时不时炸一下",
         "link": "https://www.v2ex.com/t/871192",
-        "date": "2022-08-07"
-      },
-      {
-        "title": "如何應對街道辦 「送溫暖」？",
-        "link": "https://www.v2ex.com/t/871191",
         "date": "2022-08-07"
       },
       {
@@ -10110,26 +10135,6 @@
       {
         "title": "虾皮 Shopee 靠谱内推--8 月更新",
         "link": "https://www.v2ex.com/t/871187",
-        "date": "2022-08-07"
-      },
-      {
-        "title": "笔记本外接显示器偏黄问题",
-        "link": "https://www.v2ex.com/t/871186",
-        "date": "2022-08-07"
-      },
-      {
-        "title": "passwall 访问不了谷歌",
-        "link": "https://www.v2ex.com/t/871185",
-        "date": "2022-08-07"
-      },
-      {
-        "title": "文昭会员网站有朋友合租吗？",
-        "link": "https://www.v2ex.com/t/871183",
-        "date": "2022-08-07"
-      },
-      {
-        "title": "真诚蹲一个 IDEA 个人正版优惠购买机会",
-        "link": "https://www.v2ex.com/t/871181",
         "date": "2022-08-07"
       }
     ]
@@ -10307,11 +10312,6 @@
         "date": "2022-08-07"
       },
       {
-        "title": "[推荐] 一文搞懂 Redis 架构演化之路",
-        "link": "https://toutiao.io/k/cwwpjem",
-        "date": "2022-08-07"
-      },
-      {
         "title": "[推荐] 老板：公司系统太多，能不能实现账号互通？",
         "link": "https://toutiao.io/k/g7sb904",
         "date": "2022-08-07"
@@ -10319,6 +10319,11 @@
       {
         "title": "[推荐] 研发过程中的文档管理与工具",
         "link": "https://toutiao.io/k/mdiqwn5",
+        "date": "2022-08-07"
+      },
+      {
+        "title": "[推荐] 一文搞懂 Redis 架构演化之路",
+        "link": "https://toutiao.io/k/cwwpjem",
         "date": "2022-08-07"
       }
     ]

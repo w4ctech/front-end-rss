@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-07 01:11:42，:rocket: 更新条数: +2013， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-07 03:13:40，:rocket: 更新条数: +2017， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,26 +491,26 @@
 </summary>
 
 
+- [2022-08-07-有什么可以替代-Karabiner-的修改外接键盘键位的程序吗](https://www.v2ex.com/t/871206) ![](assets/new.png)  
+- [2022-08-07-John-Carmack-的新访谈](https://www.v2ex.com/t/871205) ![](assets/new.png)  
+- [2022-08-07-除了苹果妙控板，还有更便宜的，-50-元的那种吗？](https://www.v2ex.com/t/871202) ![](assets/new.png)  
+- [2022-08-07-吐槽下，学会啥技术能涨工资？](https://www.v2ex.com/t/871201) ![](assets/new.png)  
+- [2022-08-07-iPhone-6S-的神奇问题](https://www.v2ex.com/t/871200) ![](assets/new.png)  
+- [2022-08-07-请教如何测试$.ajax的-beforesend-方法？例如先显示-beforesend-中设置的-loading-效果、3-秒后再显示返回的数据](https://www.v2ex.com/t/871199) ![](assets/new.png)  
+- [2022-08-07-2022-年-8-月-选择哪家-打车-APP-呢？](https://www.v2ex.com/t/871196) ![](assets/new.png)  
+- [2022-08-07-求助PVE-强制关机后，开机失败，只能进入应急模式，请问怎么修复？](https://www.v2ex.com/t/871195) ![](assets/new.png)  
+- [2022-08-07-平板买什么牌子好？（别说-iPad-，我穷呢）](https://www.v2ex.com/t/871194) ![](assets/new.png)  
+- [2022-08-07-Windows-上有什么扫描屏幕上二维码的软件？](https://www.v2ex.com/t/871193) ![](assets/new.png)  
+- [2022-08-07-离谱到家了,-surface-intel-UHD-显卡驱动内存泄漏,-dwm.exe-时不时炸一下](https://www.v2ex.com/t/871192) ![](assets/new.png)  
+- [2022-08-07-如何應對街道辦-「送溫暖」？](https://www.v2ex.com/t/871191) ![](assets/new.png)  
+- [2022-08-07-有无办法可以实现仅用爱快上自带的-VPN-翻墙](https://www.v2ex.com/t/871189) ![](assets/new.png)  
+- [2022-08-07-送码记算器---先记后算，新应用上架，给大家送-20-个兑换码，希望多提意见](https://www.v2ex.com/t/871188) ![](assets/new.png)  
+- [2022-08-07-虾皮-Shopee-靠谱内推--8-月更新](https://www.v2ex.com/t/871187) ![](assets/new.png)  
+- [2022-08-07-笔记本外接显示器偏黄问题](https://www.v2ex.com/t/871186) ![](assets/new.png)  
 - [2022-08-07-passwall-访问不了谷歌](https://www.v2ex.com/t/871185) ![](assets/new.png)  
 - [2022-08-07-文昭会员网站有朋友合租吗？](https://www.v2ex.com/t/871183) ![](assets/new.png)  
 - [2022-08-07-真诚蹲一个-IDEA-个人正版优惠购买机会](https://www.v2ex.com/t/871181) ![](assets/new.png)  
 - [2022-08-06-请问-uniapp-框架小程序中内嵌了-webview-页面如何通信？](https://www.v2ex.com/t/871179) ![](assets/new.png)  
-- [2022-08-06-M1-pro-16-寸外接显示器的问题](https://www.v2ex.com/t/871178) ![](assets/new.png)  
-- [2022-08-06-这是什么主题（sublime-text）](https://www.v2ex.com/t/871176) ![](assets/new.png)  
-- [2022-08-06-V2exAPI---用-Swift-撸了一个-V2EX-API-封装](https://www.v2ex.com/t/871175) ![](assets/new.png)  
-- [2022-08-06-请问一下有没有-V-站电报聊天吹群组的呀？拉我一把，谢谢🙏](https://www.v2ex.com/t/871174) ![](assets/new.png)  
-- [2022-08-06-20220807-午夜俱乐部](https://www.v2ex.com/t/871173) ![](assets/new.png)  
-- [2022-08-06-签了打印出来的诚信承诺书，具有法律作用吗](https://www.v2ex.com/t/871172) ![](assets/new.png)  
-- [2022-08-06-M1-Macbook-外接单口扩展坞休眠也掉电？](https://www.v2ex.com/t/871171) ![](assets/new.png)  
-- [2022-08-06-mactype-会影响-pdf-的渲染吗？](https://www.v2ex.com/t/871170) ![](assets/new.png)  
-- [2022-08-06-有没有可能苹果会出游戏主机？](https://www.v2ex.com/t/871169) ![](assets/new.png)  
-- [2022-08-06-想把-9929VPS-上的服务都搬家到另外一台-VPS，-9929-只转发流量](https://www.v2ex.com/t/871167) ![](assets/new.png)  
-- [2022-08-06-现在（20220806）能买到的性价比亮机显卡推荐什么呢？](https://www.v2ex.com/t/871166) ![](assets/new.png)  
-- [2022-08-06-有没有用-vscode-开发-vue3+ts+vite-项目的时候路径提示失效的朋友？](https://www.v2ex.com/t/871165) ![](assets/new.png)  
-- [2022-08-06-伸缩钥匙扣-速卖通新用户-多数国家-1-美分包邮](https://www.v2ex.com/t/871164) ![](assets/new.png)  
-- [2022-08-06-临睡前收到了用户的一个差评](https://www.v2ex.com/t/871163) ![](assets/new.png)  
-- [2022-08-06-90-年专科-求职，北京/沈阳前端](https://www.v2ex.com/t/871162) ![](assets/new.png)  
-- [2022-08-06-求助PVE-强制关机后，开机失败进入应急模式，搜索不到解决办法](https://www.v2ex.com/t/871161) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -522,6 +522,13 @@
 </summary>
 
 
+- [2022-08-07-40年前的操作系统复活了，当年Linux、Windows都借鉴过！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15280&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494410%26amp%3Bidx%3D1%26amp%3Bsn%3D6573f0c124bcd2e20c39c33d3e516526%26amp%3Bchksm%3Dfa3f0a51cd4883479817eb189805d7dfe98436addb3e47a267f25bc3cdefefbb56aeab56e7b4%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2022-08-07-Spring注入Bean的七种方式-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15279&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494410%26amp%3Bidx%3D2%26amp%3Bsn%3D86e311bf8e60434edd3b60be3230e3e4%26amp%3Bchksm%3Dfa3f0a51cd4883473339fccf0f251b3cc4c5a5a9f85f2f196440fc0b3b75708c184391752aed%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2022-08-07-Python竟然也能做这样的进度条。。。-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15278&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494409%26amp%3Bidx%3D2%26amp%3Bsn%3D60f504fcb4ab4f3c5653d3e38c5d881d%26amp%3Bchksm%3Dfa3f0a52cd48834493edacaab63f11cf7d3724048a14bb96303999efd75ef3a72d6e78aeb7f6%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2022-08-07-必备的VScode插件-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15277&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494408%26amp%3Bidx%3D1%26amp%3Bsn%3D650fdac92d9d6015bd19404df4ec2b8a%26amp%3Bchksm%3Dfa3f0a53cd48834593bc774846479414fbb5bd27bf7ffdfcad21aea3d6f22196fee909b518a4%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2022-08-07-SpringCloud架构的各个组件的原理分析-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15276&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494408%26amp%3Bidx%3D2%26amp%3Bsn%3D6030c1f3629babc9dfa8f85ffea42a09%26amp%3Bchksm%3Dfa3f0a53cd488345b2fd2421e868d7459c7c27f488ec4de9fdae81d0c5f24efb8b71ebe22169%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2022-08-07-Vue项目打包部署总结-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15275&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494406%26amp%3Bidx%3D2%26amp%3Bsn%3D711bed4e7167f4b2008665a1c815ad7f%26amp%3Bchksm%3Dfa3f0a5dcd48834b3601344469bc6d83a7f721bc8933d227369f149e82b2adec631a3b54f80c%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2022-08-07-最近很火的一组图，看一次笑一次-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15274&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494395%26amp%3Bidx%3D1%26amp%3Bsn%3Dd945234cc4f2cb6ca9fb0741bf79acdb%26amp%3Bchksm%3Dfa3f0ba0cd4882b63046ab6d8fdabace82b042c1693245a687a516f2c0b2fc498b1e85686fef%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-08-07-完成原型设计的五个步骤-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15273&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffive-steps-for-prototype-design%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-08-07-敏捷交付的工程效能治理-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15272&url=https%3A%2F%2Finsights.thoughtworks.cn%2F%3Fp%3D16439%26amp%3Bpreview%3Dtrue%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-08-07-SpringBoot四大核心组件，你知道几个？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15271&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494395%26amp%3Bidx%3D2%26amp%3Bsn%3D7625c27c0bbb10cfd2e5e1d8a09a3c74%26amp%3Bchksm%3Dfa3f0ba0cd4882b6baa602f1f11ffebc9ec2dadb2ee131a812efc29a71e64cb3959c144707ff%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
@@ -535,13 +542,6 @@
 - [2022-08-07-谁动了我的奶酪，通过-git-找出内容变更历史-droidyue.com](https://blogread.cn/news/go.php?idItem=15263&url=https%3A%2F%2Fdroidyue.com%2Fblog%2F2022%2F06%2F13%2Fa-little-git-log-case-can-do-big-help%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-08-07-如何使用cURL调试CORS请求-www.ipcpu.com](https://blogread.cn/news/go.php?idItem=15262&url=https%3A%2F%2Fwww.ipcpu.com%2F2022%2F05%2Fcurl-cors%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-08-07-安卓手机APP抓包时有些应用出现了CONNECT，无法解析包内容-www.ipcpu.com](https://blogread.cn/news/go.php?idItem=15261&url=https%3A%2F%2Fwww.ipcpu.com%2F2022%2F05%2Fandroid-app-connect%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-08-07-Docker镜像漏洞扫描工具Trivy-www.ipcpu.com](https://blogread.cn/news/go.php?idItem=15260&url=https%3A%2F%2Fwww.ipcpu.com%2F2022%2F04%2Fdocker-trivy%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-08-07-Docker设置代理-www.ipcpu.com](https://blogread.cn/news/go.php?idItem=15259&url=https%3A%2F%2Fwww.ipcpu.com%2F2022%2F04%2Fdocker-proxy%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-08-07-SonarQube的使用-www.ipcpu.com](https://blogread.cn/news/go.php?idItem=15258&url=https%3A%2F%2Fwww.ipcpu.com%2F2022%2F03%2Fsonarqube-usage%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-08-07-解决https接口无法访问的问题-blog.darkmi.com](https://blogread.cn/news/go.php?idItem=15257&url=https%3A%2F%2Fblog.darkmi.com%2F2022%2F06%2F28%2F4492.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-08-07-修改MySQL的ib_logfile大小和组数-www.xifenfei.com](https://blogread.cn/news/go.php?idItem=15256&url=https%3A%2F%2Fwww.xifenfei.com%2F2022%2F07%2Fmodify-ib_logfile-size-and-groups.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-08-07-How-to-find-the-corresponding-session-in-MogDB/openGauss-from-OS-thread-ID-www.dbform.com](https://blogread.cn/news/go.php?idItem=15255&url=https%3A%2F%2Fwww.dbform.com%2F2022%2F05%2F31%2Fhow-to-find-the-corresponding-session-in-mogdb-from-os-thread-id%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-08-07-How-to-make-Total-Commander-works-with-Everything-and-QuickLook-www.dbform.com](https://blogread.cn/news/go.php?idItem=15254&url=https%3A%2F%2Fwww.dbform.com%2F2022%2F05%2F01%2Fhow-to-make-total-commander-works-with-everything-and-quicklook%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -554,15 +554,18 @@
 
 
 - [2022-08-07-欢迎加入读者圈子，一起交流！](https://toutiao.io/k/mtrqmru) ![](assets/new.png)  
-- [2022-08-07-携程机票前台Trace系统的演进之路](https://toutiao.io/k/3sbtt6o) ![](assets/new.png)  
 - [2022-08-07-Spark-SQL深入分析之图解五种Join策略的执行流程与应用场景](https://toutiao.io/k/w4rlts8) ![](assets/new.png)  
+- [2022-08-07-携程机票前台Trace系统的演进之路](https://toutiao.io/k/3sbtt6o) ![](assets/new.png)  
 - [2022-08-07-超大体量项目，微前端落地方案，看完后悔来找我](https://toutiao.io/k/3zu7mjf) ![](assets/new.png)  
 - [2022-08-07-七夕了，织女这一年打了哪些装备见牛郎呢？](https://toutiao.io/k/rtepyvi) ![](assets/new.png)  
 - [2022-08-07-浅谈Java中的池化技术](https://toutiao.io/k/ahsbn7a) ![](assets/new.png)  
+- [2022-08-07-推荐学java——SpringMVC第一课](https://toutiao.io/k/rit1ynm) ![](assets/new.png)  
+- [2022-08-07-“柯南领结”变成现实，字节跳动智创语音团队SAMI发布新一代实时AI变声方案](https://toutiao.io/k/s6qxa1b) ![](assets/new.png)  
+- [2022-08-07-想知道中后台的人效如何计算吗，我知道！](https://toutiao.io/k/8fcs0et) ![](assets/new.png)  
 - [2022-08-07-推荐-研发过程中的文档管理与工具](https://toutiao.io/k/mdiqwn5) ![](assets/new.png)  
+- [2022-08-07-推荐-老板：公司系统太多，能不能实现账号互通？](https://toutiao.io/k/g7sb904) ![](assets/new.png)  
 - [2022-08-07-推荐-一文搞懂-Redis-架构演化之路](https://toutiao.io/k/cwwpjem) ![](assets/new.png)  
 - [2022-08-07-推荐-阿里云官方-Redis-开发规范！](https://toutiao.io/k/2fqcbfi) ![](assets/new.png)  
-- [2022-08-07-推荐-老板：公司系统太多，能不能实现账号互通？](https://toutiao.io/k/g7sb904) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

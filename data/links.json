@@ -9953,6 +9953,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "New Outlook for Windows",
+        "link": "https://www.v2ex.com/t/871311",
+        "date": "2022-08-07"
+      },
+      {
         "title": "有 ARM 版 Windows 11 能用的外接 USB 无线网卡吗",
         "link": "https://www.v2ex.com/t/871310",
         "date": "2022-08-07"
@@ -10156,16 +10161,6 @@
         "title": "golang 指针的问题",
         "link": "https://www.v2ex.com/t/871263",
         "date": "2022-08-07"
-      },
-      {
-        "title": "大家写代码的时候会特意打开压缩吗？",
-        "link": "https://www.v2ex.com/t/871262",
-        "date": "2022-08-07"
-      },
-      {
-        "title": "Webpack+TypeScript 油猴开发模板，支持本地调试、热刷新、自动构建和自动发布更新",
-        "link": "https://www.v2ex.com/t/871261",
-        "date": "2022-08-07"
       }
     ]
   },
@@ -10337,8 +10332,13 @@
         "date": "2022-08-07"
       },
       {
-        "title": "[推荐] 研发过程中的文档管理与工具",
-        "link": "https://toutiao.io/k/mdiqwn5",
+        "title": "[推荐] 一文搞懂 Redis 架构演化之路",
+        "link": "https://toutiao.io/k/cwwpjem",
+        "date": "2022-08-07"
+      },
+      {
+        "title": "[推荐] 老板：公司系统太多，能不能实现账号互通？",
+        "link": "https://toutiao.io/k/g7sb904",
         "date": "2022-08-07"
       },
       {
@@ -10347,13 +10347,8 @@
         "date": "2022-08-07"
       },
       {
-        "title": "[推荐] 一文搞懂 Redis 架构演化之路",
-        "link": "https://toutiao.io/k/cwwpjem",
-        "date": "2022-08-07"
-      },
-      {
-        "title": "[推荐] 老板：公司系统太多，能不能实现账号互通？",
-        "link": "https://toutiao.io/k/g7sb904",
+        "title": "[推荐] 研发过程中的文档管理与工具",
+        "link": "https://toutiao.io/k/mdiqwn5",
         "date": "2022-08-07"
       },
       {

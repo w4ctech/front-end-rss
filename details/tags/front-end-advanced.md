@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-08-07 08:42:56。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-08-07 09:13:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 前端进阶相关
 
@@ -7,4 +7,5 @@
 
 
 
+- [2022-08-07-LeaderF-folder:-快速打开当前目录下的子目录的-Vim-插件](https://www.v2ex.com/t/871256) 
 - [2022-08-07-Linux-/MAC-下-vi-或-vim-的编辑再保存改变了文件的什么信息](https://www.v2ex.com/t/871208) 

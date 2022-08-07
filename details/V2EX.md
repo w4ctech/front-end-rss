@@ -1,10 +1,13 @@
-:alarm_clock: 更新时间: 2022-08-07 07:38:05。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-08-07 08:16:52。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-08-07-音乐自由-我的开源项目-Melody-适配移动端啦，支持-PWA](https://www.v2ex.com/t/871249) 
+- [2022-08-07-Apple-TV-的-earc-不好使了，不知道是不是-beta-系统的问题](https://www.v2ex.com/t/871248) 
+- [2022-08-07-请问有什么批量转换编码带-gui-的软件么？](https://www.v2ex.com/t/871245) 
 - [2022-08-07-iOS-|-送码-页记---网页离线保存利器](https://www.v2ex.com/t/871244) 
 - [2022-08-07-2022-年底求推荐-10w-左右预算的汽车🚗](https://www.v2ex.com/t/871240) 
 - [2022-08-07-慎用-iPhone-如果想真真切切保护隐私](https://www.v2ex.com/t/871239) 
@@ -37,8 +40,3 @@
 - [2022-08-07-有什么可以替代-Karabiner-的修改外接键盘键位的程序吗](https://www.v2ex.com/t/871206) 
 - [2022-08-07-John-Carmack-的新访谈](https://www.v2ex.com/t/871205) 
 - [2022-08-07-除了苹果妙控板，还有更便宜的，-50-元的那种吗？](https://www.v2ex.com/t/871202) 
-- [2022-08-07-吐槽下，学会啥技术能涨工资？](https://www.v2ex.com/t/871201) 
-- [2022-08-07-iPhone-6S-的神奇问题](https://www.v2ex.com/t/871200) 
-- [2022-08-07-请教如何测试$.ajax的-beforesend-方法？例如先显示-beforesend-中设置的-loading-效果、3-秒后再显示返回的数据](https://www.v2ex.com/t/871199) 
-- [2022-08-07-2022-年-8-月-选择哪家-打车-APP-呢？](https://www.v2ex.com/t/871196) 
-- [2022-08-07-求助PVE-强制关机后，开机失败，只能进入应急模式，请问怎么修复？](https://www.v2ex.com/t/871195) 

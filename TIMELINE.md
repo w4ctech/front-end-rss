@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-08-07 04:53:13。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-08-07 05:12:52。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,8 @@
 </summary>
 
 
+- [【V2EX】2022-08-07-热水器是不是应该用前再开?](https://www.v2ex.com/t/871222) 
+- [【V2EX】2022-08-07-突然收到腾讯-tdmq-的欠费通知，有人遇到这种情况吗](https://www.v2ex.com/t/871221) 
 - [【V2EX】2022-08-07-有那种代付的服务么，代扫二维码，可以退款那种](https://www.v2ex.com/t/871219) 
 - [【V2EX】2022-08-07-求助-关于空调的异响](https://www.v2ex.com/t/871218) 
 - [【V2EX】2022-08-07-现在的笔记本电池，插电用好还是不插电用？](https://www.v2ex.com/t/871216) 
@@ -104,8 +106,6 @@
 - [【V2EX】2022-08-06-V2exAPI---用-Swift-撸了一个-V2EX-API-封装](https://www.v2ex.com/t/871175) 
 - [【V2EX】2022-08-06-请问一下有没有-V-站电报聊天吹群组的呀？拉我一把，谢谢🙏](https://www.v2ex.com/t/871174) 
 - [【V2EX】2022-08-06-20220807-午夜俱乐部](https://www.v2ex.com/t/871173) 
-- [【V2EX】2022-08-06-签了打印出来的诚信承诺书，具有法律作用吗](https://www.v2ex.com/t/871172) 
-- [【V2EX】2022-08-06-M1-Macbook-外接单口扩展坞休眠也掉电？](https://www.v2ex.com/t/871171) 
 - [【技术头条】2022-08-07-40年前的操作系统复活了，当年Linux、Windows都借鉴过！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15280&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494410%26amp%3Bidx%3D1%26amp%3Bsn%3D6573f0c124bcd2e20c39c33d3e516526%26amp%3Bchksm%3Dfa3f0a51cd4883479817eb189805d7dfe98436addb3e47a267f25bc3cdefefbb56aeab56e7b4%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-08-07-Spring注入Bean的七种方式-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15279&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494410%26amp%3Bidx%3D2%26amp%3Bsn%3D86e311bf8e60434edd3b60be3230e3e4%26amp%3Bchksm%3Dfa3f0a51cd4883473339fccf0f251b3cc4c5a5a9f85f2f196440fc0b3b75708c184391752aed%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-08-07-Python竟然也能做这样的进度条。。。-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15278&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494409%26amp%3Bidx%3D2%26amp%3Bsn%3D60f504fcb4ab4f3c5653d3e38c5d881d%26amp%3Bchksm%3Dfa3f0a52cd48834493edacaab63f11cf7d3724048a14bb96303999efd75ef3a72d6e78aeb7f6%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -135,10 +135,10 @@
 - [【开发者头条】2022-08-07-推荐学java——SpringMVC第一课](https://toutiao.io/k/rit1ynm) 
 - [【开发者头条】2022-08-07-“柯南领结”变成现实，字节跳动智创语音团队SAMI发布新一代实时AI变声方案](https://toutiao.io/k/s6qxa1b) 
 - [【开发者头条】2022-08-07-想知道中后台的人效如何计算吗，我知道！](https://toutiao.io/k/8fcs0et) 
-- [【开发者头条】2022-08-07-推荐-老板：公司系统太多，能不能实现账号互通？](https://toutiao.io/k/g7sb904) 
 - [【开发者头条】2022-08-07-推荐-一文搞懂-Redis-架构演化之路](https://toutiao.io/k/cwwpjem) 
 - [【开发者头条】2022-08-07-推荐-研发过程中的文档管理与工具](https://toutiao.io/k/mdiqwn5) 
 - [【开发者头条】2022-08-07-推荐-阿里云官方-Redis-开发规范！](https://toutiao.io/k/2fqcbfi) 
+- [【开发者头条】2022-08-07-推荐-老板：公司系统太多，能不能实现账号互通？](https://toutiao.io/k/g7sb904) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

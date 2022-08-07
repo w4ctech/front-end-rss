@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-07 03:13:40，:rocket: 更新条数: +2017， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-07 04:01:42，:rocket: 更新条数: +2017， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,15 @@
 </summary>
 
 
+- [2022-08-07-现在的笔记本电池，插电用好还是不插电用？](https://www.v2ex.com/t/871216) ![](assets/new.png)  
+- [2022-08-07-Windows-多用户之间如何共享软件设置数据-AppData-？](https://www.v2ex.com/t/871215) ![](assets/new.png)  
+- [2022-08-07-转租-迫于换工作，转租万胜围复式两房](https://www.v2ex.com/t/871214) ![](assets/new.png)  
+- [2022-08-07-Python-这个-scope/block-leak-我是越来越膈硬](https://www.v2ex.com/t/871213) ![](assets/new.png)  
+- [2022-08-07-Chrome-最新版本-104.0.5112.81-修改了-session-或-cookie-机制吗？](https://www.v2ex.com/t/871212) ![](assets/new.png)  
+- [2022-08-07-求问现在还有小团队接游戏开发-contract-的途径吗？](https://www.v2ex.com/t/871211) ![](assets/new.png)  
+- [2022-08-07-台式机机箱吹冷水，脚冷，怎么办？](https://www.v2ex.com/t/871210) ![](assets/new.png)  
+- [2022-08-07-Linux-/MAC-下-vi-或-vim-的编辑再保存改变了文件的什么信息](https://www.v2ex.com/t/871208) ![](assets/new.png)  
+- [2022-08-07-有什么办法看出字幕组压制成片时使用的参数（主要是-crf-preset-这类的）吗](https://www.v2ex.com/t/871207) ![](assets/new.png)  
 - [2022-08-07-有什么可以替代-Karabiner-的修改外接键盘键位的程序吗](https://www.v2ex.com/t/871206) ![](assets/new.png)  
 - [2022-08-07-John-Carmack-的新访谈](https://www.v2ex.com/t/871205) ![](assets/new.png)  
 - [2022-08-07-除了苹果妙控板，还有更便宜的，-50-元的那种吗？](https://www.v2ex.com/t/871202) ![](assets/new.png)  
@@ -502,15 +511,6 @@
 - [2022-08-07-平板买什么牌子好？（别说-iPad-，我穷呢）](https://www.v2ex.com/t/871194) ![](assets/new.png)  
 - [2022-08-07-Windows-上有什么扫描屏幕上二维码的软件？](https://www.v2ex.com/t/871193) ![](assets/new.png)  
 - [2022-08-07-离谱到家了,-surface-intel-UHD-显卡驱动内存泄漏,-dwm.exe-时不时炸一下](https://www.v2ex.com/t/871192) ![](assets/new.png)  
-- [2022-08-07-如何應對街道辦-「送溫暖」？](https://www.v2ex.com/t/871191) ![](assets/new.png)  
-- [2022-08-07-有无办法可以实现仅用爱快上自带的-VPN-翻墙](https://www.v2ex.com/t/871189) ![](assets/new.png)  
-- [2022-08-07-送码记算器---先记后算，新应用上架，给大家送-20-个兑换码，希望多提意见](https://www.v2ex.com/t/871188) ![](assets/new.png)  
-- [2022-08-07-虾皮-Shopee-靠谱内推--8-月更新](https://www.v2ex.com/t/871187) ![](assets/new.png)  
-- [2022-08-07-笔记本外接显示器偏黄问题](https://www.v2ex.com/t/871186) ![](assets/new.png)  
-- [2022-08-07-passwall-访问不了谷歌](https://www.v2ex.com/t/871185) ![](assets/new.png)  
-- [2022-08-07-文昭会员网站有朋友合租吗？](https://www.v2ex.com/t/871183) ![](assets/new.png)  
-- [2022-08-07-真诚蹲一个-IDEA-个人正版优惠购买机会](https://www.v2ex.com/t/871181) ![](assets/new.png)  
-- [2022-08-06-请问-uniapp-框架小程序中内嵌了-webview-页面如何通信？](https://www.v2ex.com/t/871179) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -557,14 +557,14 @@
 - [2022-08-07-Spark-SQL深入分析之图解五种Join策略的执行流程与应用场景](https://toutiao.io/k/w4rlts8) ![](assets/new.png)  
 - [2022-08-07-携程机票前台Trace系统的演进之路](https://toutiao.io/k/3sbtt6o) ![](assets/new.png)  
 - [2022-08-07-超大体量项目，微前端落地方案，看完后悔来找我](https://toutiao.io/k/3zu7mjf) ![](assets/new.png)  
-- [2022-08-07-七夕了，织女这一年打了哪些装备见牛郎呢？](https://toutiao.io/k/rtepyvi) ![](assets/new.png)  
 - [2022-08-07-浅谈Java中的池化技术](https://toutiao.io/k/ahsbn7a) ![](assets/new.png)  
+- [2022-08-07-七夕了，织女这一年打了哪些装备见牛郎呢？](https://toutiao.io/k/rtepyvi) ![](assets/new.png)  
 - [2022-08-07-推荐学java——SpringMVC第一课](https://toutiao.io/k/rit1ynm) ![](assets/new.png)  
 - [2022-08-07-“柯南领结”变成现实，字节跳动智创语音团队SAMI发布新一代实时AI变声方案](https://toutiao.io/k/s6qxa1b) ![](assets/new.png)  
 - [2022-08-07-想知道中后台的人效如何计算吗，我知道！](https://toutiao.io/k/8fcs0et) ![](assets/new.png)  
 - [2022-08-07-推荐-研发过程中的文档管理与工具](https://toutiao.io/k/mdiqwn5) ![](assets/new.png)  
-- [2022-08-07-推荐-老板：公司系统太多，能不能实现账号互通？](https://toutiao.io/k/g7sb904) ![](assets/new.png)  
 - [2022-08-07-推荐-一文搞懂-Redis-架构演化之路](https://toutiao.io/k/cwwpjem) ![](assets/new.png)  
+- [2022-08-07-推荐-老板：公司系统太多，能不能实现账号互通？](https://toutiao.io/k/g7sb904) ![](assets/new.png)  
 - [2022-08-07-推荐-阿里云官方-Redis-开发规范！](https://toutiao.io/k/2fqcbfi) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

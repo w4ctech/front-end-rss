@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-08-07 14:38:27。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-08-07 15:13:44。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,8 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-08-07-mac，有没有打开、关闭-代理的快捷方式](https://www.v2ex.com/t/871300) 
+- [2022-08-07-2720qm-是否支持-typec-接-mac-以后，键盘接显示器控制-mac](https://www.v2ex.com/t/871299) 
 - [2022-08-07-使用-5G-频段桥接-WIFI-后，上传速度明显下降，会是什么原因](https://www.v2ex.com/t/871298) 
 - [2022-08-07-新配机-Win11-以及体验了下-wsl2-卡](https://www.v2ex.com/t/871297) 
 - [2022-08-07-iTerm2-拖文件和目录上传到服务器，不知有没有人感兴趣？](https://www.v2ex.com/t/871296) 
@@ -1964,7 +1966,7 @@
 - [2022-08-07-七夕了，织女这一年打了哪些装备见牛郎呢？](https://toutiao.io/k/rtepyvi) 
 - [2022-08-07-“柯南领结”变成现实，字节跳动智创语音团队SAMI发布新一代实时AI变声方案](https://toutiao.io/k/s6qxa1b) 
 - [2022-08-07-保姆级教程！Golang微服务简洁架构实战](https://toutiao.io/k/wcd6wfn) 
-- [2022-08-07-推荐-阿里云官方-Redis-开发规范！](https://toutiao.io/k/2fqcbfi) 
 - [2022-08-07-推荐-一文搞懂-Redis-架构演化之路](https://toutiao.io/k/cwwpjem) 
 - [2022-08-07-推荐-老板：公司系统太多，能不能实现账号互通？](https://toutiao.io/k/g7sb904) 
+- [2022-08-07-推荐-阿里云官方-Redis-开发规范！](https://toutiao.io/k/2fqcbfi) 
 - [2022-08-07-推荐-研发过程中的文档管理与工具](https://toutiao.io/k/mdiqwn5) 

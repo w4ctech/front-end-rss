@@ -9953,6 +9953,16 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "mac，有没有打开、关闭 代理的快捷方式",
+        "link": "https://www.v2ex.com/t/871300",
+        "date": "2022-08-07"
+      },
+      {
+        "title": "2720qm 是否支持 typec 接 mac 以后，键盘接显示器控制 mac",
+        "link": "https://www.v2ex.com/t/871299",
+        "date": "2022-08-07"
+      },
+      {
         "title": "使用 5G 频段桥接 WIFI 后，上传速度明显下降，会是什么原因",
         "link": "https://www.v2ex.com/t/871298",
         "date": "2022-08-07"
@@ -10156,11 +10166,6 @@
         "title": "在 VPN 或者代理下 WebRTC 能建立本机和他人的端到端链接吗？",
         "link": "https://www.v2ex.com/t/871252",
         "date": "2022-08-07"
-      },
-      {
-        "title": "[音乐自由] 我的开源项目 Melody 适配移动端啦，支持 PWA",
-        "link": "https://www.v2ex.com/t/871249",
-        "date": "2022-08-07"
       }
     ]
   },
@@ -10332,11 +10337,6 @@
         "date": "2022-08-07"
       },
       {
-        "title": "[推荐] 阿里云官方 Redis 开发规范！",
-        "link": "https://toutiao.io/k/2fqcbfi",
-        "date": "2022-08-07"
-      },
-      {
         "title": "[推荐] 一文搞懂 Redis 架构演化之路",
         "link": "https://toutiao.io/k/cwwpjem",
         "date": "2022-08-07"
@@ -10344,6 +10344,11 @@
       {
         "title": "[推荐] 老板：公司系统太多，能不能实现账号互通？",
         "link": "https://toutiao.io/k/g7sb904",
+        "date": "2022-08-07"
+      },
+      {
+        "title": "[推荐] 阿里云官方 Redis 开发规范！",
+        "link": "https://toutiao.io/k/2fqcbfi",
         "date": "2022-08-07"
       },
       {

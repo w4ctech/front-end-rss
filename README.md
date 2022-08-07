@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-07 14:38:27，:rocket: 更新条数: +2023， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-07 15:13:44，:rocket: 更新条数: +2024， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-08-07-mac，有没有打开、关闭-代理的快捷方式](https://www.v2ex.com/t/871300) ![](assets/new.png)  
+- [2022-08-07-2720qm-是否支持-typec-接-mac-以后，键盘接显示器控制-mac](https://www.v2ex.com/t/871299) ![](assets/new.png)  
 - [2022-08-07-使用-5G-频段桥接-WIFI-后，上传速度明显下降，会是什么原因](https://www.v2ex.com/t/871298) ![](assets/new.png)  
 - [2022-08-07-新配机-Win11-以及体验了下-wsl2-卡](https://www.v2ex.com/t/871297) ![](assets/new.png)  
 - [2022-08-07-iTerm2-拖文件和目录上传到服务器，不知有没有人感兴趣？](https://www.v2ex.com/t/871296) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-08-07-程序员计算机相关书籍,转行出-一共-124-本-全部京东自营购买正版](https://www.v2ex.com/t/871283) ![](assets/new.png)  
 - [2022-08-07-顺义六环外-非京牌通勤靠谱吗](https://www.v2ex.com/t/871281) ![](assets/new.png)  
 - [2022-08-07-最近有做苹果平台开发的朋友发现-iCloud-同步问题的吗，突然无法实时接收-iCloud-远程同步消息了。](https://www.v2ex.com/t/871279) ![](assets/new.png)  
-- [2022-08-07-PDF-Expert-频繁彩虹球，百思不得其解](https://www.v2ex.com/t/871278) ![](assets/new.png)  
-- [2022-08-07-求助，-nodeJs-进程无响应了，应该怎么查](https://www.v2ex.com/t/871277) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -564,9 +564,9 @@
 - [2022-08-07-“柯南领结”变成现实，字节跳动智创语音团队SAMI发布新一代实时AI变声方案](https://toutiao.io/k/s6qxa1b) ![](assets/new.png)  
 - [2022-08-07-保姆级教程！Golang微服务简洁架构实战](https://toutiao.io/k/wcd6wfn) ![](assets/new.png)  
 - [2022-08-07-如何提升-HBase-大规模集群下的低延时性能](https://toutiao.io/k/4ni1nte) ![](assets/new.png)  
-- [2022-08-07-推荐-阿里云官方-Redis-开发规范！](https://toutiao.io/k/2fqcbfi) ![](assets/new.png)  
 - [2022-08-07-推荐-一文搞懂-Redis-架构演化之路](https://toutiao.io/k/cwwpjem) ![](assets/new.png)  
 - [2022-08-07-推荐-老板：公司系统太多，能不能实现账号互通？](https://toutiao.io/k/g7sb904) ![](assets/new.png)  
+- [2022-08-07-推荐-阿里云官方-Redis-开发规范！](https://toutiao.io/k/2fqcbfi) ![](assets/new.png)  
 - [2022-08-07-推荐-研发过程中的文档管理与工具](https://toutiao.io/k/mdiqwn5) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

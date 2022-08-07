@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2022-08-07 05:38:07。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-08-07 06:16:55。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-08-07-对于一个普通的办公人员，实在没理由停留在-x86-的-win-了](https://www.v2ex.com/t/871227) 
 - [2022-08-07-v2ex-有没有一周最热-or48h-最热之类的榜单？](https://www.v2ex.com/t/871225) 
 - [2022-08-07-银行卡风险咨询](https://www.v2ex.com/t/871224) 
 - [2022-08-07-关于-mac-app-music-快捷键问题想问问大家](https://www.v2ex.com/t/871223) 
@@ -40,6 +41,3 @@
 - [2022-08-07-passwall-访问不了谷歌](https://www.v2ex.com/t/871185) 
 - [2022-08-07-文昭会员网站有朋友合租吗？](https://www.v2ex.com/t/871183) 
 - [2022-08-07-真诚蹲一个-IDEA-个人正版优惠购买机会](https://www.v2ex.com/t/871181) 
-- [2022-08-06-请问-uniapp-框架小程序中内嵌了-webview-页面如何通信？](https://www.v2ex.com/t/871179) 
-- [2022-08-06-M1-pro-16-寸外接显示器的问题](https://www.v2ex.com/t/871178) 
-- [2022-08-06-这是什么主题（sublime-text）](https://www.v2ex.com/t/871176) 

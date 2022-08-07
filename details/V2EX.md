@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2022-08-07 23:14:00。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-08-07 23:39:41。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-08-07-土耳其-Apple-ID-的诡异-BUG](https://www.v2ex.com/t/871316) 
 - [2022-08-07-Emby-弹幕-js-插件](https://www.v2ex.com/t/871314) 
 - [2022-08-07-B-站现在是完全不在乎桌面端用户体验了吗？](https://www.v2ex.com/t/871313) 
 - [2022-08-07-New-Outlook-for-Windows](https://www.v2ex.com/t/871311) 
@@ -44,4 +45,3 @@
 - [2022-08-07-ps.sd-这域名干点啥最合适？](https://www.v2ex.com/t/871272) 
 - [2022-08-07-哎，今天发现国区的-PayPal-和-GitHub-已经下架了](https://www.v2ex.com/t/871271) 
 - [2022-08-07-从中国向美国朋友寄两本淘宝上的书，怎么做性价比最高？](https://www.v2ex.com/t/871268) 
-- [2022-08-07-Skype-在国内能用不？（不翻的话](https://www.v2ex.com/t/871266) 

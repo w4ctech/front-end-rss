@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-07 09:39:36，:rocket: 更新条数: +2018， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-07 10:14:47，:rocket: 更新条数: +2018， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-08-07-分享夏天市内游，感受新能源车的优缺点](https://www.v2ex.com/t/871259) ![](assets/new.png)  
 - [2022-08-07-携程上海求内推](https://www.v2ex.com/t/871258) ![](assets/new.png)  
 - [2022-08-07-1-号线外环路-两室一厅-招室友](https://www.v2ex.com/t/871257) ![](assets/new.png)  
 - [2022-08-07-LeaderF-folder:-快速打开当前目录下的子目录的-Vim-插件](https://www.v2ex.com/t/871256) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-08-07-谁能知道为什么-windows-版的有道词典在每次发音的时候都会默认调节系统音量啊？](https://www.v2ex.com/t/871235) ![](assets/new.png)  
 - [2022-08-07-好奇-App-Store-的游戏是如何检测用户所在位置的？](https://www.v2ex.com/t/871234) ![](assets/new.png)  
 - [2022-08-07-2022-年深圳配眼镜记录一](https://www.v2ex.com/t/871233) ![](assets/new.png)  
-- [2022-08-07-在个人时间精力等有限的情况下，学习应该侧重广度还是深度](https://www.v2ex.com/t/871232) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -554,19 +554,19 @@
 
 
 - [2022-08-07-欢迎加入读者圈子，一起交流！](https://toutiao.io/k/mtrqmru) ![](assets/new.png)  
-- [2022-08-07-携程机票前台Trace系统的演进之路](https://toutiao.io/k/3sbtt6o) ![](assets/new.png)  
 - [2022-08-07-浅谈Java中的池化技术](https://toutiao.io/k/ahsbn7a) ![](assets/new.png)  
+- [2022-08-07-携程机票前台Trace系统的演进之路](https://toutiao.io/k/3sbtt6o) ![](assets/new.png)  
 - [2022-08-07-Spark-SQL深入分析之图解五种Join策略的执行流程与应用场景](https://toutiao.io/k/w4rlts8) ![](assets/new.png)  
-- [2022-08-07-超大体量项目，微前端落地方案，看完后悔来找我](https://toutiao.io/k/3zu7mjf) ![](assets/new.png)  
 - [2022-08-07-想知道中后台的人效如何计算吗，我知道！](https://toutiao.io/k/8fcs0et) ![](assets/new.png)  
+- [2022-08-07-超大体量项目，微前端落地方案，看完后悔来找我](https://toutiao.io/k/3zu7mjf) ![](assets/new.png)  
 - [2022-08-07-七夕了，织女这一年打了哪些装备见牛郎呢？](https://toutiao.io/k/rtepyvi) ![](assets/new.png)  
 - [2022-08-07-推荐学java——SpringMVC第一课](https://toutiao.io/k/rit1ynm) ![](assets/new.png)  
 - [2022-08-07-“柯南领结”变成现实，字节跳动智创语音团队SAMI发布新一代实时AI变声方案](https://toutiao.io/k/s6qxa1b) ![](assets/new.png)  
 - [2022-08-07-保姆级教程！Golang微服务简洁架构实战](https://toutiao.io/k/wcd6wfn) ![](assets/new.png)  
 - [2022-08-07-如何提升-HBase-大规模集群下的低延时性能](https://toutiao.io/k/4ni1nte) ![](assets/new.png)  
 - [2022-08-07-推荐-一文搞懂-Redis-架构演化之路](https://toutiao.io/k/cwwpjem) ![](assets/new.png)  
-- [2022-08-07-推荐-老板：公司系统太多，能不能实现账号互通？](https://toutiao.io/k/g7sb904) ![](assets/new.png)  
 - [2022-08-07-推荐-阿里云官方-Redis-开发规范！](https://toutiao.io/k/2fqcbfi) ![](assets/new.png)  
+- [2022-08-07-推荐-老板：公司系统太多，能不能实现账号互通？](https://toutiao.io/k/g7sb904) ![](assets/new.png)  
 - [2022-08-07-推荐-研发过程中的文档管理与工具](https://toutiao.io/k/mdiqwn5) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

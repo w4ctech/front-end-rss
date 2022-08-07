@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-07 04:01:42，:rocket: 更新条数: +2017， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-07 04:31:06，:rocket: 更新条数: +2018， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-08-07-求助-关于空调的异响](https://www.v2ex.com/t/871218) ![](assets/new.png)  
 - [2022-08-07-现在的笔记本电池，插电用好还是不插电用？](https://www.v2ex.com/t/871216) ![](assets/new.png)  
 - [2022-08-07-Windows-多用户之间如何共享软件设置数据-AppData-？](https://www.v2ex.com/t/871215) ![](assets/new.png)  
 - [2022-08-07-转租-迫于换工作，转租万胜围复式两房](https://www.v2ex.com/t/871214) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-08-07-求助PVE-强制关机后，开机失败，只能进入应急模式，请问怎么修复？](https://www.v2ex.com/t/871195) ![](assets/new.png)  
 - [2022-08-07-平板买什么牌子好？（别说-iPad-，我穷呢）](https://www.v2ex.com/t/871194) ![](assets/new.png)  
 - [2022-08-07-Windows-上有什么扫描屏幕上二维码的软件？](https://www.v2ex.com/t/871193) ![](assets/new.png)  
-- [2022-08-07-离谱到家了,-surface-intel-UHD-显卡驱动内存泄漏,-dwm.exe-时不时炸一下](https://www.v2ex.com/t/871192) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -557,15 +557,15 @@
 - [2022-08-07-Spark-SQL深入分析之图解五种Join策略的执行流程与应用场景](https://toutiao.io/k/w4rlts8) ![](assets/new.png)  
 - [2022-08-07-携程机票前台Trace系统的演进之路](https://toutiao.io/k/3sbtt6o) ![](assets/new.png)  
 - [2022-08-07-超大体量项目，微前端落地方案，看完后悔来找我](https://toutiao.io/k/3zu7mjf) ![](assets/new.png)  
-- [2022-08-07-浅谈Java中的池化技术](https://toutiao.io/k/ahsbn7a) ![](assets/new.png)  
 - [2022-08-07-七夕了，织女这一年打了哪些装备见牛郎呢？](https://toutiao.io/k/rtepyvi) ![](assets/new.png)  
+- [2022-08-07-浅谈Java中的池化技术](https://toutiao.io/k/ahsbn7a) ![](assets/new.png)  
 - [2022-08-07-推荐学java——SpringMVC第一课](https://toutiao.io/k/rit1ynm) ![](assets/new.png)  
 - [2022-08-07-“柯南领结”变成现实，字节跳动智创语音团队SAMI发布新一代实时AI变声方案](https://toutiao.io/k/s6qxa1b) ![](assets/new.png)  
 - [2022-08-07-想知道中后台的人效如何计算吗，我知道！](https://toutiao.io/k/8fcs0et) ![](assets/new.png)  
-- [2022-08-07-推荐-研发过程中的文档管理与工具](https://toutiao.io/k/mdiqwn5) ![](assets/new.png)  
 - [2022-08-07-推荐-一文搞懂-Redis-架构演化之路](https://toutiao.io/k/cwwpjem) ![](assets/new.png)  
 - [2022-08-07-推荐-老板：公司系统太多，能不能实现账号互通？](https://toutiao.io/k/g7sb904) ![](assets/new.png)  
 - [2022-08-07-推荐-阿里云官方-Redis-开发规范！](https://toutiao.io/k/2fqcbfi) ![](assets/new.png)  
+- [2022-08-07-推荐-研发过程中的文档管理与工具](https://toutiao.io/k/mdiqwn5) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

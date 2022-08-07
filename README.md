@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-07 13:46:25，:rocket: 更新条数: +2018， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-07 14:12:38，:rocket: 更新条数: +2021， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,11 @@
 </summary>
 
 
+- [2022-08-07-我的运气应该没那么倒霉吧？](https://www.v2ex.com/t/871293) ![](assets/new.png)  
+- [2022-08-07-有没有业务/应用系统设计相关书籍或者文章推荐？](https://www.v2ex.com/t/871292) ![](assets/new.png)  
+- [2022-08-07-有大佬熟悉-ffi-么，如何从-ffi-获取-array-返回值](https://www.v2ex.com/t/871291) ![](assets/new.png)  
+- [2022-08-07-淘宝开店，可以批量发布宝贝吗](https://www.v2ex.com/t/871290) ![](assets/new.png)  
+- [2022-08-07-Edge-104.0.1293.47-正式版-带-v4-和-v6-的选优？](https://www.v2ex.com/t/871289) ![](assets/new.png)  
 - [2022-08-07-开启串流时，-nvidia-streamer-service-能占几乎-100%GPU3080，正常么？](https://www.v2ex.com/t/871288) ![](assets/new.png)  
 - [2022-08-07-杭州/广州/上海/北京-网易秋招开始啦！校招、社招都有！](https://www.v2ex.com/t/871287) ![](assets/new.png)  
 - [2022-08-07-学习-js，哪些语法要掌握哪些可以跳过？](https://www.v2ex.com/t/871286) ![](assets/new.png)  
@@ -506,11 +511,6 @@
 - [2022-08-07-想请教一下-steam++安装证书有什么风险或者潜在风险?平时-V2EX-都用它的](https://www.v2ex.com/t/871274) ![](assets/new.png)  
 - [2022-08-07-jetbrains-remote-toolchain-使用的时候你们有没有遇到过编译是按照旧代码编译的](https://www.v2ex.com/t/871273) ![](assets/new.png)  
 - [2022-08-07-ps.sd-这域名干点啥最合适？](https://www.v2ex.com/t/871272) ![](assets/new.png)  
-- [2022-08-07-哎，今天发现国区的-PayPal-和-GitHub-已经下架了](https://www.v2ex.com/t/871271) ![](assets/new.png)  
-- [2022-08-07-从中国向美国朋友寄两本淘宝上的书，怎么做性价比最高？](https://www.v2ex.com/t/871268) ![](assets/new.png)  
-- [2022-08-07-Skype-在国内能用不？（不翻的话](https://www.v2ex.com/t/871266) ![](assets/new.png)  
-- [2022-08-07-皇室战争分区后强行把我送回中区](https://www.v2ex.com/t/871265) ![](assets/new.png)  
-- [2022-08-07-macOS-外接显示器没有缩放选项。求解-非常奇怪的问题](https://www.v2ex.com/t/871264) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -564,9 +564,9 @@
 - [2022-08-07-“柯南领结”变成现实，字节跳动智创语音团队SAMI发布新一代实时AI变声方案](https://toutiao.io/k/s6qxa1b) ![](assets/new.png)  
 - [2022-08-07-保姆级教程！Golang微服务简洁架构实战](https://toutiao.io/k/wcd6wfn) ![](assets/new.png)  
 - [2022-08-07-如何提升-HBase-大规模集群下的低延时性能](https://toutiao.io/k/4ni1nte) ![](assets/new.png)  
+- [2022-08-07-推荐-阿里云官方-Redis-开发规范！](https://toutiao.io/k/2fqcbfi) ![](assets/new.png)  
 - [2022-08-07-推荐-老板：公司系统太多，能不能实现账号互通？](https://toutiao.io/k/g7sb904) ![](assets/new.png)  
 - [2022-08-07-推荐-一文搞懂-Redis-架构演化之路](https://toutiao.io/k/cwwpjem) ![](assets/new.png)  
-- [2022-08-07-推荐-阿里云官方-Redis-开发规范！](https://toutiao.io/k/2fqcbfi) ![](assets/new.png)  
 - [2022-08-07-推荐-研发过程中的文档管理与工具](https://toutiao.io/k/mdiqwn5) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

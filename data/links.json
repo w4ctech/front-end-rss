@@ -9953,6 +9953,31 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "请问用 shell 脚本怎么设置 window 系统代理？就像 clash 那样",
+        "link": "https://www.v2ex.com/t/871284",
+        "date": "2022-08-07"
+      },
+      {
+        "title": "程序员计算机相关书籍,转行出 一共 124 本 全部京东自营购买正版",
+        "link": "https://www.v2ex.com/t/871283",
+        "date": "2022-08-07"
+      },
+      {
+        "title": "顺义六环外 非京牌通勤靠谱吗",
+        "link": "https://www.v2ex.com/t/871281",
+        "date": "2022-08-07"
+      },
+      {
+        "title": "最近有做苹果平台开发的朋友发现 iCloud 同步问题的吗，突然无法实时接收 iCloud 远程同步消息了。",
+        "link": "https://www.v2ex.com/t/871279",
+        "date": "2022-08-07"
+      },
+      {
+        "title": "PDF Expert 频繁彩虹球，百思不得其解",
+        "link": "https://www.v2ex.com/t/871278",
+        "date": "2022-08-07"
+      },
+      {
         "title": "求助， nodeJs 进程无响应了，应该怎么查",
         "link": "https://www.v2ex.com/t/871277",
         "date": "2022-08-07"
@@ -10110,31 +10135,6 @@
       {
         "title": "谁能知道为什么 windows 版的有道词典在每次发音的时候都会默认调节系统音量啊？",
         "link": "https://www.v2ex.com/t/871235",
-        "date": "2022-08-07"
-      },
-      {
-        "title": "好奇 App Store 的游戏是如何检测用户所在位置的？",
-        "link": "https://www.v2ex.com/t/871234",
-        "date": "2022-08-07"
-      },
-      {
-        "title": "2022 年深圳配眼镜记录一",
-        "link": "https://www.v2ex.com/t/871233",
-        "date": "2022-08-07"
-      },
-      {
-        "title": "在个人时间精力等有限的情况下，学习应该侧重广度还是深度",
-        "link": "https://www.v2ex.com/t/871232",
-        "date": "2022-08-07"
-      },
-      {
-        "title": "给朋友解释 m1 macbook pro 和 m1 pro macbook 的区别",
-        "link": "https://www.v2ex.com/t/871231",
-        "date": "2022-08-07"
-      },
-      {
-        "title": "是否存在数据库，缓存层合一的解决方案？",
-        "link": "https://www.v2ex.com/t/871230",
         "date": "2022-08-07"
       }
     ]
@@ -10312,13 +10312,13 @@
         "date": "2022-08-07"
       },
       {
-        "title": "[推荐] 一文搞懂 Redis 架构演化之路",
-        "link": "https://toutiao.io/k/cwwpjem",
+        "title": "[推荐] 研发过程中的文档管理与工具",
+        "link": "https://toutiao.io/k/mdiqwn5",
         "date": "2022-08-07"
       },
       {
-        "title": "[推荐] 研发过程中的文档管理与工具",
-        "link": "https://toutiao.io/k/mdiqwn5",
+        "title": "[推荐] 一文搞懂 Redis 架构演化之路",
+        "link": "https://toutiao.io/k/cwwpjem",
         "date": "2022-08-07"
       },
       {

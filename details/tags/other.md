@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-08-07 05:12:52。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-08-07 05:38:07。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,9 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-08-07-v2ex-有没有一周最热-or48h-最热之类的榜单？](https://www.v2ex.com/t/871225) 
+- [2022-08-07-银行卡风险咨询](https://www.v2ex.com/t/871224) 
+- [2022-08-07-关于-mac-app-music-快捷键问题想问问大家](https://www.v2ex.com/t/871223) 
 - [2022-08-07-热水器是不是应该用前再开?](https://www.v2ex.com/t/871222) 
 - [2022-08-07-突然收到腾讯-tdmq-的欠费通知，有人遇到这种情况吗](https://www.v2ex.com/t/871221) 
 - [2022-08-07-有那种代付的服务么，代扫二维码，可以退款那种](https://www.v2ex.com/t/871219) 
@@ -1942,9 +1945,6 @@
 - [2022-08-07-真诚蹲一个-IDEA-个人正版优惠购买机会](https://www.v2ex.com/t/871181) 
 - [2022-08-06-M1-pro-16-寸外接显示器的问题](https://www.v2ex.com/t/871178) 
 - [2022-08-06-这是什么主题（sublime-text）](https://www.v2ex.com/t/871176) 
-- [2022-08-06-V2exAPI---用-Swift-撸了一个-V2EX-API-封装](https://www.v2ex.com/t/871175) 
-- [2022-08-06-请问一下有没有-V-站电报聊天吹群组的呀？拉我一把，谢谢🙏](https://www.v2ex.com/t/871174) 
-- [2022-08-06-20220807-午夜俱乐部](https://www.v2ex.com/t/871173) 
 - [2022-08-07-40年前的操作系统复活了，当年Linux、Windows都借鉴过！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15280&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494410%26amp%3Bidx%3D1%26amp%3Bsn%3D6573f0c124bcd2e20c39c33d3e516526%26amp%3Bchksm%3Dfa3f0a51cd4883479817eb189805d7dfe98436addb3e47a267f25bc3cdefefbb56aeab56e7b4%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-08-07-Spring注入Bean的七种方式-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15279&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494410%26amp%3Bidx%3D2%26amp%3Bsn%3D86e311bf8e60434edd3b60be3230e3e4%26amp%3Bchksm%3Dfa3f0a51cd4883473339fccf0f251b3cc4c5a5a9f85f2f196440fc0b3b75708c184391752aed%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-08-07-Python竟然也能做这样的进度条。。。-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15278&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494409%26amp%3Bidx%3D2%26amp%3Bsn%3D60f504fcb4ab4f3c5653d3e38c5d881d%26amp%3Bchksm%3Dfa3f0a52cd48834493edacaab63f11cf7d3724048a14bb96303999efd75ef3a72d6e78aeb7f6%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1966,7 +1966,7 @@
 - [2022-08-07-推荐学java——SpringMVC第一课](https://toutiao.io/k/rit1ynm) 
 - [2022-08-07-“柯南领结”变成现实，字节跳动智创语音团队SAMI发布新一代实时AI变声方案](https://toutiao.io/k/s6qxa1b) 
 - [2022-08-07-想知道中后台的人效如何计算吗，我知道！](https://toutiao.io/k/8fcs0et) 
-- [2022-08-07-推荐-一文搞懂-Redis-架构演化之路](https://toutiao.io/k/cwwpjem) 
-- [2022-08-07-推荐-研发过程中的文档管理与工具](https://toutiao.io/k/mdiqwn5) 
 - [2022-08-07-推荐-阿里云官方-Redis-开发规范！](https://toutiao.io/k/2fqcbfi) 
+- [2022-08-07-推荐-一文搞懂-Redis-架构演化之路](https://toutiao.io/k/cwwpjem) 
 - [2022-08-07-推荐-老板：公司系统太多，能不能实现账号互通？](https://toutiao.io/k/g7sb904) 
+- [2022-08-07-推荐-研发过程中的文档管理与工具](https://toutiao.io/k/mdiqwn5) 

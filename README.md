@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-08 07:38:49，:rocket: 更新条数: +2029， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-08 08:20:44，:rocket: 更新条数: +2026， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,15 @@
 </summary>
 
 
+- [2022-08-08-C#-的-async/await-太**好用了！-C#性能也很不错，都来写-C#吧（doge）](https://www.v2ex.com/t/871456) ![](assets/new.png)  
+- [2022-08-08-为什么苹果选择了音视频图像处理领域来发力？](https://www.v2ex.com/t/871455) ![](assets/new.png)  
+- [2022-08-08-微信就是不一样啊，集成微信登录都要认证](https://www.v2ex.com/t/871454) ![](assets/new.png)  
+- [2022-08-08-有没有铁子买了三国志-14-来玩的，值得入手不？](https://www.v2ex.com/t/871451) ![](assets/new.png)  
+- [2022-08-08-Micro-Focus-内推中高级-Java-、Android、QA、DevOps-欢迎各位大佬联系（转正后，赠送-5000-元！）](https://www.v2ex.com/t/871450) ![](assets/new.png)  
+- [2022-08-08-请问大家对于代码风格比较差的-PR-是如何合并的](https://www.v2ex.com/t/871449) ![](assets/new.png)  
+- [2022-08-08-南京有无骑友群](https://www.v2ex.com/t/871448) ![](assets/new.png)  
+- [2022-08-08-U-盘太多，可以干啥呀](https://www.v2ex.com/t/871447) ![](assets/new.png)  
+- [2022-08-08-公司新办公区刚装修完一周甲醛超标就让我们搬过去怎么办？](https://www.v2ex.com/t/871446) ![](assets/new.png)  
 - [2022-08-08-招室友-武汉高新四路万科-多一个单间](https://www.v2ex.com/t/871444) ![](assets/new.png)  
 - [2022-08-08-V2er-们有那种喜欢打听别人工资的同事吗？怎么回应？](https://www.v2ex.com/t/871440) ![](assets/new.png)  
 - [2022-08-08-RestTemplate-映射复杂对象的最佳实践是?](https://www.v2ex.com/t/871439) ![](assets/new.png)  
@@ -502,15 +511,6 @@
 - [2022-08-08-买一个最便宜的大疆无人机。1999-的那种，拍拍风景可行吗？](https://www.v2ex.com/t/871431) ![](assets/new.png)  
 - [2022-08-08-写了一个-ddd-方式的-demo，分享出来给大家瞧瞧](https://www.v2ex.com/t/871430) ![](assets/new.png)  
 - [2022-08-08-19-年-11-月购买的-airpods-pro-再次维修成功](https://www.v2ex.com/t/871429) ![](assets/new.png)  
-- [2022-08-08-为什么-youtube-购买会员和频道会员显示处理您的购买交易时出现错误，请重试。](https://www.v2ex.com/t/871428) ![](assets/new.png)  
-- [2022-08-08-Google-Chrome-和-Microsoft-Edge-能够同步登录状态的原理是什么？](https://www.v2ex.com/t/871427) ![](assets/new.png)  
-- [2022-08-08-同样的配方不同的味道：-SGv0.31.2-发布了（内网穿透）](https://www.v2ex.com/t/871426) ![](assets/new.png)  
-- [2022-08-08-有没有其他的类似于剪藏的-App-或者服务？](https://www.v2ex.com/t/871424) ![](assets/new.png)  
-- [2022-08-08-自由职业者办理签证如何提供完税证明？](https://www.v2ex.com/t/871421) ![](assets/new.png)  
-- [2022-08-08-求建议，-22-届，小微企业该不该去？](https://www.v2ex.com/t/871419) ![](assets/new.png)  
-- [2022-08-08-入手了个-J4125,i225v3,请问在哪有保姆级教程安装-ESXI-并装-openWRT-和-ikuai，还有-ubuntu-呢](https://www.v2ex.com/t/871418) ![](assets/new.png)  
-- [2022-08-08-调用小程序-wx.downloadFile-接口，返回的回调是乱码](https://www.v2ex.com/t/871417) ![](assets/new.png)  
-- [2022-08-08-求-kubernetes-的轻量级替代品](https://www.v2ex.com/t/871416) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

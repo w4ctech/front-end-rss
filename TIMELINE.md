@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-08-08 12:26:03。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-08-08 13:15:36。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,20 @@
 </summary>
 
 
+- [【V2EX】2022-08-08-apple-tv-被隔空播放开机](https://www.v2ex.com/t/871519) 
+- [【V2EX】2022-08-08-极客云是不是跑路了](https://www.v2ex.com/t/871518) 
+- [【V2EX】2022-08-08-这种索引真的能用吗](https://www.v2ex.com/t/871517) 
+- [【V2EX】2022-08-08-关于-monterey-的通用控制的-bug](https://www.v2ex.com/t/871516) 
+- [【V2EX】2022-08-08-Android-VS-QT](https://www.v2ex.com/t/871515) 
+- [【V2EX】2022-08-08-你们搭建博客用的是什么-vps（暂时不考虑国内的），也欢迎大家分享博客](https://www.v2ex.com/t/871514) 
+- [【V2EX】2022-08-08-大而不倒](https://www.v2ex.com/t/871513) 
+- [【V2EX】2022-08-08-与这段-Python-的等效-node-代码怎么写？](https://www.v2ex.com/t/871512) 
+- [【V2EX】2022-08-08-V-友们-脚本里如何传入-GitHub-api-参数-求指点-谢谢](https://www.v2ex.com/t/871511) 
+- [【V2EX】2022-08-08-MacOS-有没有办法让应用菜单隐藏](https://www.v2ex.com/t/871510) 
+- [【V2EX】2022-08-08-招人啦！-国内：-剪映-海外：-capcut（之前在-V2EX-的小伙伴已经拿到-offer-啦！）](https://www.v2ex.com/t/871509) 
+- [【V2EX】2022-08-08-WebStorm-有打开项目的快捷键吗？](https://www.v2ex.com/t/871508) 
+- [【V2EX】2022-08-08-tensorflow-20-种语言文档只有简中文档过时，也不提示用户过时](https://www.v2ex.com/t/871507) 
+- [【V2EX】2022-08-08-有没有那种事少的安卓统计服务,-注册就能用的不用做繁琐的实名那种](https://www.v2ex.com/t/871506) 
 - [【V2EX】2022-08-08-酷瓜云课堂-v1.5.6-发布，开源在线教育解决方案](https://www.v2ex.com/t/871505) 
 - [【V2EX】2022-08-08-媳妇生日快到了，想买辆车欧拉芭蕾猫作为礼物](https://www.v2ex.com/t/871502) 
 - [【V2EX】2022-08-08-mbp2012-和-iMac-2013-使用-10.14/10.15-字体好花，眼睛要瞎](https://www.v2ex.com/t/871500) 
@@ -95,18 +109,6 @@
 - [【V2EX】2022-08-08-windows-主板后面那个-AUDIO-圆孔插入耳机没有反应](https://www.v2ex.com/t/871473) 
 - [【V2EX】2022-08-08-想给老爸买点茶，有推荐的店铺吗？](https://www.v2ex.com/t/871472) 
 - [【V2EX】2022-08-08-用-Golang-写的-tui终端、命令行组件库，比如-progress，-progress-group，-select，-confirm...](https://www.v2ex.com/t/871471) 
-- [【V2EX】2022-08-08-.drawio-文件-mac-可以预览吗？🤔🤔](https://www.v2ex.com/t/871470) 
-- [【V2EX】2022-08-08-Apple-原装-20w-充电器，淘宝阿里自营店售价最低-59-元](https://www.v2ex.com/t/871468) 
-- [【V2EX】2022-08-08-微信聊天记录本地备份和还原为什么这么慢？](https://www.v2ex.com/t/871467) 
-- [【V2EX】2022-08-08-从-10-年的维度来看-BAT-三家-你更看好哪家](https://www.v2ex.com/t/871466) 
-- [【V2EX】2022-08-08-有没有兄弟姐妹对家具安装的手电钻有研究？](https://www.v2ex.com/t/871465) 
-- [【V2EX】2022-08-08-西安/深圳/成都三地-华为云大前端基础设施团队等你来](https://www.v2ex.com/t/871464) 
-- [【V2EX】2022-08-08-非指针类型赋值给空接口，编译器会生成一个临时变量再将指针传递给空接口吗？](https://www.v2ex.com/t/871463) 
-- [【V2EX】2022-08-08-mac-m1-+xbox-的配置，还想弄个-win-系统，有啥推荐吗？](https://www.v2ex.com/t/871461) 
-- [【V2EX】2022-08-08-安装软件不需要高权限合理吗？](https://www.v2ex.com/t/871460) 
-- [【V2EX】2022-08-08-Web3-与加密货币](https://www.v2ex.com/t/871459) 
-- [【V2EX】2022-08-08-最近疫情被裁员,公司发放的-Mac-要收回,求推荐可以黑果的笔记本.](https://www.v2ex.com/t/871457) 
-- [【V2EX】2022-08-08-C#-的-async/await-太**好用了！-C#性能也很不错，都来写-C#吧（doge）](https://www.v2ex.com/t/871456) 
 - [【技术头条】2022-08-08-40年前的操作系统复活了，当年Linux、Windows都借鉴过！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15280&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494410%26amp%3Bidx%3D1%26amp%3Bsn%3D6573f0c124bcd2e20c39c33d3e516526%26amp%3Bchksm%3Dfa3f0a51cd4883479817eb189805d7dfe98436addb3e47a267f25bc3cdefefbb56aeab56e7b4%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-08-08-Spring注入Bean的七种方式-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15279&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494410%26amp%3Bidx%3D2%26amp%3Bsn%3D86e311bf8e60434edd3b60be3230e3e4%26amp%3Bchksm%3Dfa3f0a51cd4883473339fccf0f251b3cc4c5a5a9f85f2f196440fc0b3b75708c184391752aed%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-08-08-Python竟然也能做这样的进度条。。。-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15278&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494409%26amp%3Bidx%3D2%26amp%3Bsn%3D60f504fcb4ab4f3c5653d3e38c5d881d%26amp%3Bchksm%3Dfa3f0a52cd48834493edacaab63f11cf7d3724048a14bb96303999efd75ef3a72d6e78aeb7f6%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -148,10 +150,10 @@
 - [【开发者头条】2022-08-08-简说-套接字缓存的内存空间布局](https://toutiao.io/k/usd0lx2) 
 - [【开发者头条】2022-08-08-想要精准营销，从学习搭建一套对的标签体系开始丨DTVision分析洞察篇](https://toutiao.io/k/m9xkw1q) 
 - [【开发者头条】2022-08-08-推荐-研发过程中的文档管理与工具](https://toutiao.io/k/mdiqwn5) 
-- [【开发者头条】2022-08-08-推荐-Java-大后端各种架构图汇总（建议收藏！！）](https://toutiao.io/k/dvo6z1w) 
-- [【开发者头条】2022-08-08-推荐-老板：公司系统太多，能不能实现账号互通？](https://toutiao.io/k/g7sb904) 
 - [【开发者头条】2022-08-08-推荐-一文搞懂-Redis-架构演化之路](https://toutiao.io/k/cwwpjem) 
 - [【开发者头条】2022-08-08-推荐-阿里云官方-Redis-开发规范！](https://toutiao.io/k/2fqcbfi) 
+- [【开发者头条】2022-08-08-推荐-Java-大后端各种架构图汇总（建议收藏！！）](https://toutiao.io/k/dvo6z1w) 
+- [【开发者头条】2022-08-08-推荐-老板：公司系统太多，能不能实现账号互通？](https://toutiao.io/k/g7sb904) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

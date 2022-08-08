@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-08-08 08:47:59。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-08-08 09:14:10。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,13 +68,15 @@
 </summary>
 
 
+- [【V2EX】2022-08-08-Apple-原装-20w-充电器，淘宝阿里自营店售价最低-59-元](https://www.v2ex.com/t/871468) 
+- [【V2EX】2022-08-08-微信聊天记录本地备份和还原为什么这么慢？](https://www.v2ex.com/t/871467) 
+- [【V2EX】2022-08-08-从-10-年的维度来看-BAT-三家-你更看好哪家](https://www.v2ex.com/t/871466) 
+- [【V2EX】2022-08-08-有没有兄弟姐妹对家具安装的手电钻有研究？](https://www.v2ex.com/t/871465) 
 - [【V2EX】2022-08-08-西安/深圳/成都三地-华为云大前端基础设施团队等你来](https://www.v2ex.com/t/871464) 
 - [【V2EX】2022-08-08-非指针类型赋值给空接口，编译器会生成一个临时变量再将指针传递给空接口吗？](https://www.v2ex.com/t/871463) 
-- [【V2EX】2022-08-08-招兼职](https://www.v2ex.com/t/871462) 
 - [【V2EX】2022-08-08-mac-m1-+xbox-的配置，还想弄个-win-系统，有啥推荐吗？](https://www.v2ex.com/t/871461) 
 - [【V2EX】2022-08-08-安装软件不需要高权限合理吗？](https://www.v2ex.com/t/871460) 
 - [【V2EX】2022-08-08-Web3-与加密货币](https://www.v2ex.com/t/871459) 
-- [【V2EX】2022-08-08-小伙伴都说坚持练习八部金刚经后身体变好了这事是否是真的？](https://www.v2ex.com/t/871458) 
 - [【V2EX】2022-08-08-最近疫情被裁员,公司发放的-Mac-要收回,求推荐可以黑果的笔记本.](https://www.v2ex.com/t/871457) 
 - [【V2EX】2022-08-08-C#-的-async/await-太**好用了！-C#性能也很不错，都来写-C#吧（doge）](https://www.v2ex.com/t/871456) 
 - [【V2EX】2022-08-08-为什么苹果选择了音视频图像处理领域来发力？](https://www.v2ex.com/t/871455) 
@@ -101,11 +103,6 @@
 - [【V2EX】2022-08-08-同样的配方不同的味道：-SGv0.31.2-发布了（内网穿透）](https://www.v2ex.com/t/871426) 
 - [【V2EX】2022-08-08-有没有其他的类似于剪藏的-App-或者服务？](https://www.v2ex.com/t/871424) 
 - [【V2EX】2022-08-08-自由职业者办理签证如何提供完税证明？](https://www.v2ex.com/t/871421) 
-- [【V2EX】2022-08-08-求建议，-22-届，小微企业该不该去？](https://www.v2ex.com/t/871419) 
-- [【V2EX】2022-08-08-入手了个-J4125,i225v3,请问在哪有保姆级教程安装-ESXI-并装-openWRT-和-ikuai，还有-ubuntu-呢](https://www.v2ex.com/t/871418) 
-- [【V2EX】2022-08-08-调用小程序-wx.downloadFile-接口，返回的回调是乱码](https://www.v2ex.com/t/871417) 
-- [【V2EX】2022-08-08-求-kubernetes-的轻量级替代品](https://www.v2ex.com/t/871416) 
-- [【V2EX】2022-08-08-远程全职-初级产品经理/月薪-15-25K-RMB](https://www.v2ex.com/t/871415) 
 - [【技术头条】2022-08-08-40年前的操作系统复活了，当年Linux、Windows都借鉴过！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15280&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494410%26amp%3Bidx%3D1%26amp%3Bsn%3D6573f0c124bcd2e20c39c33d3e516526%26amp%3Bchksm%3Dfa3f0a51cd4883479817eb189805d7dfe98436addb3e47a267f25bc3cdefefbb56aeab56e7b4%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-08-08-Spring注入Bean的七种方式-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15279&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494410%26amp%3Bidx%3D2%26amp%3Bsn%3D86e311bf8e60434edd3b60be3230e3e4%26amp%3Bchksm%3Dfa3f0a51cd4883473339fccf0f251b3cc4c5a5a9f85f2f196440fc0b3b75708c184391752aed%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-08-08-Python竟然也能做这样的进度条。。。-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15278&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494409%26amp%3Bidx%3D2%26amp%3Bsn%3D60f504fcb4ab4f3c5653d3e38c5d881d%26amp%3Bchksm%3Dfa3f0a52cd48834493edacaab63f11cf7d3724048a14bb96303999efd75ef3a72d6e78aeb7f6%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -146,11 +143,11 @@
 - [【开发者头条】2022-08-08-“12306”-的架构到底有多牛逼？](https://toutiao.io/k/77nmo8x) 
 - [【开发者头条】2022-08-08-想要精准营销，从学习搭建一套对的标签体系开始丨DTVision分析洞察篇](https://toutiao.io/k/m9xkw1q) 
 - [【开发者头条】2022-08-08-简说-套接字缓存的内存空间布局](https://toutiao.io/k/usd0lx2) 
-- [【开发者头条】2022-08-08-推荐-Java-大后端各种架构图汇总（建议收藏！！）](https://toutiao.io/k/dvo6z1w) 
 - [【开发者头条】2022-08-08-推荐-老板：公司系统太多，能不能实现账号互通？](https://toutiao.io/k/g7sb904) 
-- [【开发者头条】2022-08-08-推荐-阿里云官方-Redis-开发规范！](https://toutiao.io/k/2fqcbfi) 
 - [【开发者头条】2022-08-08-推荐-研发过程中的文档管理与工具](https://toutiao.io/k/mdiqwn5) 
+- [【开发者头条】2022-08-08-推荐-阿里云官方-Redis-开发规范！](https://toutiao.io/k/2fqcbfi) 
 - [【开发者头条】2022-08-08-推荐-一文搞懂-Redis-架构演化之路](https://toutiao.io/k/cwwpjem) 
+- [【开发者头条】2022-08-08-推荐-Java-大后端各种架构图汇总（建议收藏！！）](https://toutiao.io/k/dvo6z1w) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

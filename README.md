@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-08 05:24:45，:rocket: 更新条数: +2030， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-08 05:42:22，:rocket: 更新条数: +2030， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-08-08-能不能既用旁路由，又用主路由？](https://www.v2ex.com/t/871406) ![](assets/new.png)  
+- [2022-08-08-Clion-怎么删除到下划线而不是整个单词？](https://www.v2ex.com/t/871405) ![](assets/new.png)  
 - [2022-08-08-请教一个每天自动账户余额扣费功能的实现方法](https://www.v2ex.com/t/871404) ![](assets/new.png)  
 - [2022-08-08-有没有什么真的有用的学习股票的书籍？](https://www.v2ex.com/t/871403) ![](assets/new.png)  
 - [2022-08-08-MBP14-什么时候会更新？](https://www.v2ex.com/t/871402) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-08-08-有被-t3-出行恶心到](https://www.v2ex.com/t/871388) ![](assets/new.png)  
 - [2022-08-08-字节杭州-求内推](https://www.v2ex.com/t/871386) ![](assets/new.png)  
 - [2022-08-08-请问-iPhone-上的微信聊天记录要如何恢复到-Mac-上](https://www.v2ex.com/t/871385) ![](assets/new.png)  
-- [2022-08-08-经常能收到微软-Office365-相关的邮件含-jnd/qun-字眼，是什么新型骗术吗？](https://www.v2ex.com/t/871384) ![](assets/new.png)  
-- [2022-08-08-暂停录音-uniapp-中的-recorderManager-对象的-pause-方法不支持......](https://www.v2ex.com/t/871383) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -557,8 +557,8 @@
 - [2022-08-08-SDN系统方法-|-7.-叶棘网络](https://toutiao.io/k/3onbcs0) ![](assets/new.png)  
 - [2022-08-08-任正非：我要的是成功，面子是给狗吃的；Shopee-后端一面十四问；架构设计杂谈｜码农周刊VIP会员专属邮件周报-Vol.102](https://toutiao.io/k/btyek20) ![](assets/new.png)  
 - [2022-08-08-这个技术总监，把-RabbitMQ-讲得那叫一个透彻，佩服！](https://toutiao.io/k/zsheoa9) ![](assets/new.png)  
-- [2022-08-08-一张图，详解大数据技术架构](https://toutiao.io/k/6ikz89j) ![](assets/new.png)  
 - [2022-08-08-微前端之-qiankun-项目入门实践](https://toutiao.io/k/6ytzlyv) ![](assets/new.png)  
+- [2022-08-08-一张图，详解大数据技术架构](https://toutiao.io/k/6ikz89j) ![](assets/new.png)  
 - [2022-08-08-朝九晚五不加班，我的秘密全在这里~](https://toutiao.io/k/dhyc5y5) ![](assets/new.png)  
 - [2022-08-08-我们为什么要远离Service-Mesh](https://toutiao.io/k/rv5v1il) ![](assets/new.png)  
 - [2022-08-08-android开发板串口通讯-深入浅出的分析和使用详解](https://toutiao.io/k/7qee4pu) ![](assets/new.png)  
@@ -570,9 +570,9 @@
 - [2022-08-08-webpack的几个常见loader源码浅析，以及动手实现一个md2html-loader](https://toutiao.io/k/pdvv1yl) ![](assets/new.png)  
 - [2022-08-08-分布式链路追踪Jaeger-+-微服务Pig在Rainbond上的实践分享](https://toutiao.io/k/dc004az) ![](assets/new.png)  
 - [2022-08-08-数据管理](https://toutiao.io/k/gp5ehsp) ![](assets/new.png)  
-- [2022-08-08-推荐-Java-大后端各种架构图汇总（建议收藏！！）](https://toutiao.io/k/dvo6z1w) ![](assets/new.png)  
-- [2022-08-08-推荐-一文搞懂-Redis-架构演化之路](https://toutiao.io/k/cwwpjem) ![](assets/new.png)  
 - [2022-08-08-推荐-阿里云官方-Redis-开发规范！](https://toutiao.io/k/2fqcbfi) ![](assets/new.png)  
+- [2022-08-08-推荐-Java-大后端各种架构图汇总（建议收藏！！）](https://toutiao.io/k/dvo6z1w) ![](assets/new.png)  
+- [2022-08-08-推荐-研发过程中的文档管理与工具](https://toutiao.io/k/mdiqwn5) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

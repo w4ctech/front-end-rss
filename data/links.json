@@ -9953,6 +9953,16 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "Rust 加入 Linux 内核是不是离用 Rust 开发大规模商用的桌面 UI 软件不远了？（虽然看起来这两点关系不大，但现在 Rust 没普及， Rust 中用 Qt 都很多问题一直没...",
+        "link": "https://www.v2ex.com/t/871552",
+        "date": "2022-08-08"
+      },
+      {
+        "title": "如何固定频率异步地访问一个动态列表。",
+        "link": "https://www.v2ex.com/t/871551",
+        "date": "2022-08-08"
+      },
+      {
         "title": "selenium 无法 find 到新加载的窗口的问题",
         "link": "https://www.v2ex.com/t/871550",
         "date": "2022-08-08"
@@ -10115,11 +10125,6 @@
       {
         "title": "酷瓜云课堂 v1.5.6 发布，开源在线教育解决方案",
         "link": "https://www.v2ex.com/t/871505",
-        "date": "2022-08-08"
-      },
-      {
-        "title": "媳妇生日快到了，想买辆车(欧拉芭蕾猫)作为礼物",
-        "link": "https://www.v2ex.com/t/871502",
         "date": "2022-08-08"
       }
     ]
@@ -10337,11 +10342,6 @@
         "date": "2022-08-08"
       },
       {
-        "title": "[推荐] 一文搞懂 Redis 架构演化之路",
-        "link": "https://toutiao.io/k/cwwpjem",
-        "date": "2022-08-08"
-      },
-      {
         "title": "[推荐] 研发过程中的文档管理与工具",
         "link": "https://toutiao.io/k/mdiqwn5",
         "date": "2022-08-08"
@@ -10349,6 +10349,11 @@
       {
         "title": "[推荐] Java 大后端各种架构图汇总（建议收藏！！）",
         "link": "https://toutiao.io/k/dvo6z1w",
+        "date": "2022-08-08"
+      },
+      {
+        "title": "[推荐] 一文搞懂 Redis 架构演化之路",
+        "link": "https://toutiao.io/k/cwwpjem",
         "date": "2022-08-08"
       },
       {

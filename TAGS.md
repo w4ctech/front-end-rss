@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-08-08 16:20:02。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-08-08 16:58:52。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -181,6 +181,7 @@
 - [【张鑫旭-鑫空间-鑫生活】介绍一种CSS变量未定义语法也OK的小妙招](https://www.zhangxinxu.com/wordpress/2022/06/css-var-optional-empty-trick/)
 - [【张鑫旭-鑫空间-鑫生活】如何实现页面刷新后不定位到之前的滚动位置？](https://www.zhangxinxu.com/wordpress/2022/05/history-scrollrestoration/)
 - [【张鑫旭-鑫空间-鑫生活】JS与条形码的生成](https://www.zhangxinxu.com/wordpress/2022/05/js-barcode/)
+- [【V2EX】如何固定频率异步地访问一个动态列表。](https://www.v2ex.com/t/871551)
 - [【V2EX】求助：家里路由器有信号但是网速很差的问题](https://www.v2ex.com/t/871542)
 - [【V2EX】看起来-IE-不是最好的第三方浏览器下载器了，连浏览器官网都不适配-IE-了，错位到下载按钮都点不到了，有点离谱。](https://www.v2ex.com/t/871539)
 - [【V2EX】C++如何简单地在堆上创建多维数组？](https://www.v2ex.com/t/871538)

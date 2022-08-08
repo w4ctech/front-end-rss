@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-08 17:21:35，:rocket: 更新条数: +2027， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-08 17:44:30，:rocket: 更新条数: +2026， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-08-08-edge-的通知怎么变成这样了](https://www.v2ex.com/t/871557) ![](assets/new.png)  
+- [2022-08-08-现在有什么好的-VoIP（国际）平台推荐呢？](https://www.v2ex.com/t/871556) ![](assets/new.png)  
 - [2022-08-08-求-IOS-上好用的不依赖-calibre-web-能直接从-NAS-看电子书的阅读器？](https://www.v2ex.com/t/871554) ![](assets/new.png)  
 - [2022-08-08-Rust-加入-Linux-内核是不是离用-Rust-开发大规模商用的桌面-UI-软件不远了？（虽然看起来这两点关系不大，但现在-Rust-没普及，-Rust-中用-Qt-都很多问题一直没...](https://www.v2ex.com/t/871552) ![](assets/new.png)  
 - [2022-08-08-如何固定频率异步地访问一个动态列表。](https://www.v2ex.com/t/871551) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-08-08-阅读代码时总是忘记上下文，如何克服？](https://www.v2ex.com/t/871532) ![](assets/new.png)  
 - [2022-08-08-问个-sql-语句](https://www.v2ex.com/t/871531) ![](assets/new.png)  
 - [2022-08-08-研究生毕业转程序员来得及吗？帮朋友发贴](https://www.v2ex.com/t/871528) ![](assets/new.png)  
-- [2022-08-08-有没有懂会议室调音，音响的？](https://www.v2ex.com/t/871527) ![](assets/new.png)  
-- [2022-08-08-请问去杭州读研并且打算毕业留杭发展，有必要把户口迁到学校去吗（原户籍为居民户口）](https://www.v2ex.com/t/871526) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

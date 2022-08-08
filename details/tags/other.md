@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-08-08 16:58:52。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-08-08 17:21:35。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,7 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-08-08-求-IOS-上好用的不依赖-calibre-web-能直接从-NAS-看电子书的阅读器？](https://www.v2ex.com/t/871554) 
 - [2022-08-08-Rust-加入-Linux-内核是不是离用-Rust-开发大规模商用的桌面-UI-软件不远了？（虽然看起来这两点关系不大，但现在-Rust-没普及，-Rust-中用-Qt-都很多问题一直没...](https://www.v2ex.com/t/871552) 
 - [2022-08-08-请教大家，哪款市面上还能买得到的安卓手机最适合-root？](https://www.v2ex.com/t/871548) 
 - [2022-08-08-iPhone-的双卡是真的拉，用卡一卡二随意拨打电话真的很难做到吗？](https://www.v2ex.com/t/871546) 
@@ -1963,8 +1964,8 @@
 - [2022-08-08-数据管理](https://toutiao.io/k/gp5ehsp) 
 - [2022-08-08-“12306”-的架构到底有多牛逼？](https://toutiao.io/k/77nmo8x) 
 - [2022-08-08-想要精准营销，从学习搭建一套对的标签体系开始丨DTVision分析洞察篇](https://toutiao.io/k/m9xkw1q) 
-- [2022-08-08-推荐-研发过程中的文档管理与工具](https://toutiao.io/k/mdiqwn5) 
 - [2022-08-08-推荐-Java-大后端各种架构图汇总（建议收藏！！）](https://toutiao.io/k/dvo6z1w) 
-- [2022-08-08-推荐-一文搞懂-Redis-架构演化之路](https://toutiao.io/k/cwwpjem) 
+- [2022-08-08-推荐-研发过程中的文档管理与工具](https://toutiao.io/k/mdiqwn5) 
 - [2022-08-08-推荐-老板：公司系统太多，能不能实现账号互通？](https://toutiao.io/k/g7sb904) 
+- [2022-08-08-推荐-一文搞懂-Redis-架构演化之路](https://toutiao.io/k/cwwpjem) 
 - [2022-08-08-推荐-阿里云官方-Redis-开发规范！](https://toutiao.io/k/2fqcbfi) 

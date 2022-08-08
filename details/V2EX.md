@@ -1,11 +1,16 @@
-:alarm_clock: 更新时间: 2022-08-08 13:15:36。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-08-08 13:59:45。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
-- [2022-08-08-apple-tv-被隔空播放开机](https://www.v2ex.com/t/871519) 
+- [2022-08-08-研究生毕业转程序员来得及吗？帮朋友发贴](https://www.v2ex.com/t/871528) 
+- [2022-08-08-有没有懂会议室调音，音响的？](https://www.v2ex.com/t/871527) 
+- [2022-08-08-请问去杭州读研并且打算毕业留杭发展，有必要把户口迁到学校去吗（原户籍为居民户口）](https://www.v2ex.com/t/871526) 
+- [2022-08-08-成都宽带有推荐的么](https://www.v2ex.com/t/871523) 
+- [2022-08-08-Java-求解答：为什么-JackSon-和-fastJson-里使用-string.intern，欢迎美团技术团队解答:-](https://www.v2ex.com/t/871521) 
+- [2022-08-08-Apple-TV-电视-被陌生手机隔空播放开机](https://www.v2ex.com/t/871519) 
 - [2022-08-08-极客云是不是跑路了](https://www.v2ex.com/t/871518) 
 - [2022-08-08-这种索引真的能用吗](https://www.v2ex.com/t/871517) 
 - [2022-08-08-关于-monterey-的通用控制的-bug](https://www.v2ex.com/t/871516) 
@@ -38,11 +43,3 @@
 - [2022-08-08-为什么要用递归而不用循环？](https://www.v2ex.com/t/871482) 
 - [2022-08-08-PC-低成本升级求推荐](https://www.v2ex.com/t/871481) 
 - [2022-08-08-有多少-V-友是没有爱好的](https://www.v2ex.com/t/871480) 
-- [2022-08-08-关于-1-password-登录的一个疑问](https://www.v2ex.com/t/871479) 
-- [2022-08-08-有没有这样一门语言，保留-Rust-其他特性但提供-GC-能力？](https://www.v2ex.com/t/871478) 
-- [2022-08-08-为何从通道取数据顺序是错误的？](https://www.v2ex.com/t/871477) 
-- [2022-08-08-RyzenTuner：一个调节-Ryzen-移动处理器功率限制的小工具](https://www.v2ex.com/t/871475) 
-- [2022-08-08-firefox-确定不是在搞笑吗？一万年了出了个浏览器级的翻译扩展](https://www.v2ex.com/t/871474) 
-- [2022-08-08-windows-主板后面那个-AUDIO-圆孔插入耳机没有反应](https://www.v2ex.com/t/871473) 
-- [2022-08-08-想给老爸买点茶，有推荐的店铺吗？](https://www.v2ex.com/t/871472) 
-- [2022-08-08-用-Golang-写的-tui终端、命令行组件库，比如-progress，-progress-group，-select，-confirm...](https://www.v2ex.com/t/871471) 

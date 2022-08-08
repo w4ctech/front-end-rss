@@ -9953,7 +9953,32 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
-        "title": "apple tv 被隔空播放开机",
+        "title": "研究生毕业转程序员来得及吗？帮朋友发贴",
+        "link": "https://www.v2ex.com/t/871528",
+        "date": "2022-08-08"
+      },
+      {
+        "title": "有没有懂会议室调音，音响的？",
+        "link": "https://www.v2ex.com/t/871527",
+        "date": "2022-08-08"
+      },
+      {
+        "title": "请问去杭州读研并且打算毕业留杭发展，有必要把户口迁到学校去吗（原户籍为居民户口）",
+        "link": "https://www.v2ex.com/t/871526",
+        "date": "2022-08-08"
+      },
+      {
+        "title": "成都宽带有推荐的么",
+        "link": "https://www.v2ex.com/t/871523",
+        "date": "2022-08-08"
+      },
+      {
+        "title": "Java 求解答：为什么 JackSon 和 fastJson 里使用 string.intern，欢迎美团技术团队解答:-)",
+        "link": "https://www.v2ex.com/t/871521",
+        "date": "2022-08-08"
+      },
+      {
+        "title": "Apple TV 电视 被陌生手机隔空播放开机",
         "link": "https://www.v2ex.com/t/871519",
         "date": "2022-08-08"
       },
@@ -10115,46 +10140,6 @@
       {
         "title": "有多少 V 友是没有爱好的",
         "link": "https://www.v2ex.com/t/871480",
-        "date": "2022-08-08"
-      },
-      {
-        "title": "关于 1 password 登录的一个疑问",
-        "link": "https://www.v2ex.com/t/871479",
-        "date": "2022-08-08"
-      },
-      {
-        "title": "有没有这样一门语言，保留 Rust 其他特性但提供 GC 能力？",
-        "link": "https://www.v2ex.com/t/871478",
-        "date": "2022-08-08"
-      },
-      {
-        "title": "为何从通道取数据顺序是错误的？",
-        "link": "https://www.v2ex.com/t/871477",
-        "date": "2022-08-08"
-      },
-      {
-        "title": "RyzenTuner：一个调节 Ryzen 移动处理器功率限制的小工具",
-        "link": "https://www.v2ex.com/t/871475",
-        "date": "2022-08-08"
-      },
-      {
-        "title": "firefox 确定不是在搞笑吗？一万年了出了个浏览器级的翻译扩展",
-        "link": "https://www.v2ex.com/t/871474",
-        "date": "2022-08-08"
-      },
-      {
-        "title": "windows 主板后面那个 AUDIO 圆孔插入耳机没有反应",
-        "link": "https://www.v2ex.com/t/871473",
-        "date": "2022-08-08"
-      },
-      {
-        "title": "想给老爸买点茶，有推荐的店铺吗？",
-        "link": "https://www.v2ex.com/t/871472",
-        "date": "2022-08-08"
-      },
-      {
-        "title": "用 Golang 写的 tui(终端、命令行)组件库，比如 progress， progress group， select， confirm...",
-        "link": "https://www.v2ex.com/t/871471",
         "date": "2022-08-08"
       }
     ]
@@ -10377,8 +10362,8 @@
         "date": "2022-08-08"
       },
       {
-        "title": "[推荐] 一文搞懂 Redis 架构演化之路",
-        "link": "https://toutiao.io/k/cwwpjem",
+        "title": "[推荐] Java 大后端各种架构图汇总（建议收藏！！）",
+        "link": "https://toutiao.io/k/dvo6z1w",
         "date": "2022-08-08"
       },
       {
@@ -10387,8 +10372,8 @@
         "date": "2022-08-08"
       },
       {
-        "title": "[推荐] Java 大后端各种架构图汇总（建议收藏！！）",
-        "link": "https://toutiao.io/k/dvo6z1w",
+        "title": "[推荐] 一文搞懂 Redis 架构演化之路",
+        "link": "https://toutiao.io/k/cwwpjem",
         "date": "2022-08-08"
       },
       {

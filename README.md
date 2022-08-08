@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-08 13:15:36，:rocket: 更新条数: +2032， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-08 13:59:45，:rocket: 更新条数: +2029， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,7 +491,12 @@
 </summary>
 
 
-- [2022-08-08-apple-tv-被隔空播放开机](https://www.v2ex.com/t/871519) ![](assets/new.png)  
+- [2022-08-08-研究生毕业转程序员来得及吗？帮朋友发贴](https://www.v2ex.com/t/871528) ![](assets/new.png)  
+- [2022-08-08-有没有懂会议室调音，音响的？](https://www.v2ex.com/t/871527) ![](assets/new.png)  
+- [2022-08-08-请问去杭州读研并且打算毕业留杭发展，有必要把户口迁到学校去吗（原户籍为居民户口）](https://www.v2ex.com/t/871526) ![](assets/new.png)  
+- [2022-08-08-成都宽带有推荐的么](https://www.v2ex.com/t/871523) ![](assets/new.png)  
+- [2022-08-08-Java-求解答：为什么-JackSon-和-fastJson-里使用-string.intern，欢迎美团技术团队解答:-](https://www.v2ex.com/t/871521) ![](assets/new.png)  
+- [2022-08-08-Apple-TV-电视-被陌生手机隔空播放开机](https://www.v2ex.com/t/871519) ![](assets/new.png)  
 - [2022-08-08-极客云是不是跑路了](https://www.v2ex.com/t/871518) ![](assets/new.png)  
 - [2022-08-08-这种索引真的能用吗](https://www.v2ex.com/t/871517) ![](assets/new.png)  
 - [2022-08-08-关于-monterey-的通用控制的-bug](https://www.v2ex.com/t/871516) ![](assets/new.png)  
@@ -506,11 +511,6 @@
 - [2022-08-08-tensorflow-20-种语言文档只有简中文档过时，也不提示用户过时](https://www.v2ex.com/t/871507) ![](assets/new.png)  
 - [2022-08-08-有没有那种事少的安卓统计服务,-注册就能用的不用做繁琐的实名那种](https://www.v2ex.com/t/871506) ![](assets/new.png)  
 - [2022-08-08-酷瓜云课堂-v1.5.6-发布，开源在线教育解决方案](https://www.v2ex.com/t/871505) ![](assets/new.png)  
-- [2022-08-08-媳妇生日快到了，想买辆车欧拉芭蕾猫作为礼物](https://www.v2ex.com/t/871502) ![](assets/new.png)  
-- [2022-08-08-mbp2012-和-iMac-2013-使用-10.14/10.15-字体好花，眼睛要瞎](https://www.v2ex.com/t/871500) ![](assets/new.png)  
-- [2022-08-08-DRF-ModelViewSet-django-filter-如何筛选关联表字段？](https://www.v2ex.com/t/871497) ![](assets/new.png)  
-- [2022-08-08-有没有什么好的云开发方案，价格便宜好用的](https://www.v2ex.com/t/871496) ![](assets/new.png)  
-- [2022-08-08-Vue-新手上路，像请教个-vue-router-的问题](https://www.v2ex.com/t/871495) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-08 05:42:22，:rocket: 更新条数: +2030， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-08 06:18:34，:rocket: 更新条数: +2033， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,15 @@
 </summary>
 
 
+- [2022-08-08-入手了个-J4125,i225v3,请问在哪有保姆级教程安装-ESXI-并装-openWRT-和-ikuai，还有-ubuntu-呢](https://www.v2ex.com/t/871418) ![](assets/new.png)  
+- [2022-08-08-调用小程序-wx.downloadFile-接口，返回的回调是乱码](https://www.v2ex.com/t/871417) ![](assets/new.png)  
+- [2022-08-08-求-kubernetes-的轻量级替代品](https://www.v2ex.com/t/871416) ![](assets/new.png)  
+- [2022-08-08-远程全职-初级产品经理/月薪-15-25K-RMB](https://www.v2ex.com/t/871415) ![](assets/new.png)  
+- [2022-08-08-不幸中的万幸-甲状腺癌](https://www.v2ex.com/t/871412) ![](assets/new.png)  
+- [2022-08-08-有好用的-react-代码定位插件吗？](https://www.v2ex.com/t/871411) ![](assets/new.png)  
+- [2022-08-08-给-GitHub-设置了-Two-factor-authentication，添加-fallback-SMS-number-时发现不支持-+86-号码](https://www.v2ex.com/t/871409) ![](assets/new.png)  
+- [2022-08-08-TypeScript-全搞定：-Monorepo-的痛苦和收获](https://www.v2ex.com/t/871408) ![](assets/new.png)  
+- [2022-08-08-广州联通新装-到处投诉也拿不到-v4-公网-v6-公网也没有-PD-前缀](https://www.v2ex.com/t/871407) ![](assets/new.png)  
 - [2022-08-08-能不能既用旁路由，又用主路由？](https://www.v2ex.com/t/871406) ![](assets/new.png)  
 - [2022-08-08-Clion-怎么删除到下划线而不是整个单词？](https://www.v2ex.com/t/871405) ![](assets/new.png)  
 - [2022-08-08-请教一个每天自动账户余额扣费功能的实现方法](https://www.v2ex.com/t/871404) ![](assets/new.png)  
@@ -502,15 +511,6 @@
 - [2022-08-08-互联网行业有没有其它的赚钱方式？](https://www.v2ex.com/t/871398) ![](assets/new.png)  
 - [2022-08-08-大佬们，有没有一些持续更新，可以了解最新技术前沿的渠道？](https://www.v2ex.com/t/871397) ![](assets/new.png)  
 - [2022-08-08-如何把为知笔记优雅的迁移到-notion-上？](https://www.v2ex.com/t/871396) ![](assets/new.png)  
-- [2022-08-08-「找室友」13/18-号线莲溪路-浦东北蔡莲康苑](https://www.v2ex.com/t/871395) ![](assets/new.png)  
-- [2022-08-08-如果-KV-数据库足够小,-小于-2GB-的时候,-是不是可以考虑直接用-Redis](https://www.v2ex.com/t/871393) ![](assets/new.png)  
-- [2022-08-08-发帖求助下-fsck-以后如何异常如何修复？](https://www.v2ex.com/t/871392) ![](assets/new.png)  
-- [2022-08-08-Lightroom（非-Lightroom-Classic）异常卡顿](https://www.v2ex.com/t/871391) ![](assets/new.png)  
-- [2022-08-08-加一个头像，就能化腐朽为神奇，这是什么现象？](https://www.v2ex.com/t/871390) ![](assets/new.png)  
-- [2022-08-08-说-Go-语言写不了业务逻辑的请进](https://www.v2ex.com/t/871389) ![](assets/new.png)  
-- [2022-08-08-有被-t3-出行恶心到](https://www.v2ex.com/t/871388) ![](assets/new.png)  
-- [2022-08-08-字节杭州-求内推](https://www.v2ex.com/t/871386) ![](assets/new.png)  
-- [2022-08-08-请问-iPhone-上的微信聊天记录要如何恢复到-Mac-上](https://www.v2ex.com/t/871385) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -561,18 +561,18 @@
 - [2022-08-08-一张图，详解大数据技术架构](https://toutiao.io/k/6ikz89j) ![](assets/new.png)  
 - [2022-08-08-朝九晚五不加班，我的秘密全在这里~](https://toutiao.io/k/dhyc5y5) ![](assets/new.png)  
 - [2022-08-08-我们为什么要远离Service-Mesh](https://toutiao.io/k/rv5v1il) ![](assets/new.png)  
-- [2022-08-08-android开发板串口通讯-深入浅出的分析和使用详解](https://toutiao.io/k/7qee4pu) ![](assets/new.png)  
 - [2022-08-08-【第2691期】开箱即用的轻量级前端框架：dagger.js](https://toutiao.io/k/nwt232s) ![](assets/new.png)  
+- [2022-08-08-android开发板串口通讯-深入浅出的分析和使用详解](https://toutiao.io/k/7qee4pu) ![](assets/new.png)  
 - [2022-08-08-短视频无尽流前端开发指南](https://toutiao.io/k/4v7oh3i) ![](assets/new.png)  
 - [2022-08-08-【萌新解题】美团一面：两数相加](https://toutiao.io/k/g3fg9cg) ![](assets/new.png)  
 - [2022-08-08-译文推荐｜深入解析-BookKeeper-协议模型与验证](https://toutiao.io/k/sg636kt) ![](assets/new.png)  
 - [2022-08-08-别了，IE浏览器](https://toutiao.io/k/eizt9wl) ![](assets/new.png)  
-- [2022-08-08-webpack的几个常见loader源码浅析，以及动手实现一个md2html-loader](https://toutiao.io/k/pdvv1yl) ![](assets/new.png)  
 - [2022-08-08-分布式链路追踪Jaeger-+-微服务Pig在Rainbond上的实践分享](https://toutiao.io/k/dc004az) ![](assets/new.png)  
+- [2022-08-08-webpack的几个常见loader源码浅析，以及动手实现一个md2html-loader](https://toutiao.io/k/pdvv1yl) ![](assets/new.png)  
 - [2022-08-08-数据管理](https://toutiao.io/k/gp5ehsp) ![](assets/new.png)  
-- [2022-08-08-推荐-阿里云官方-Redis-开发规范！](https://toutiao.io/k/2fqcbfi) ![](assets/new.png)  
-- [2022-08-08-推荐-Java-大后端各种架构图汇总（建议收藏！！）](https://toutiao.io/k/dvo6z1w) ![](assets/new.png)  
-- [2022-08-08-推荐-研发过程中的文档管理与工具](https://toutiao.io/k/mdiqwn5) ![](assets/new.png)  
+- [2022-08-08-“12306”-的架构到底有多牛逼？](https://toutiao.io/k/77nmo8x) ![](assets/new.png)  
+- [2022-08-08-存储日报-百度智能云大数据场景数据湖方案](https://toutiao.io/k/rvnfpln) ![](assets/new.png)  
+- [2022-08-08-简说-套接字缓存的内存空间布局](https://toutiao.io/k/usd0lx2) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

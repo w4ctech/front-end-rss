@@ -1,10 +1,19 @@
-:alarm_clock: 更新时间: 2022-08-08 05:42:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-08-08 06:18:34。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-08-08-入手了个-J4125,i225v3,请问在哪有保姆级教程安装-ESXI-并装-openWRT-和-ikuai，还有-ubuntu-呢](https://www.v2ex.com/t/871418) 
+- [2022-08-08-调用小程序-wx.downloadFile-接口，返回的回调是乱码](https://www.v2ex.com/t/871417) 
+- [2022-08-08-求-kubernetes-的轻量级替代品](https://www.v2ex.com/t/871416) 
+- [2022-08-08-远程全职-初级产品经理/月薪-15-25K-RMB](https://www.v2ex.com/t/871415) 
+- [2022-08-08-不幸中的万幸-甲状腺癌](https://www.v2ex.com/t/871412) 
+- [2022-08-08-有好用的-react-代码定位插件吗？](https://www.v2ex.com/t/871411) 
+- [2022-08-08-给-GitHub-设置了-Two-factor-authentication，添加-fallback-SMS-number-时发现不支持-+86-号码](https://www.v2ex.com/t/871409) 
+- [2022-08-08-TypeScript-全搞定：-Monorepo-的痛苦和收获](https://www.v2ex.com/t/871408) 
+- [2022-08-08-广州联通新装-到处投诉也拿不到-v4-公网-v6-公网也没有-PD-前缀](https://www.v2ex.com/t/871407) 
 - [2022-08-08-能不能既用旁路由，又用主路由？](https://www.v2ex.com/t/871406) 
 - [2022-08-08-Clion-怎么删除到下划线而不是整个单词？](https://www.v2ex.com/t/871405) 
 - [2022-08-08-请教一个每天自动账户余额扣费功能的实现方法](https://www.v2ex.com/t/871404) 
@@ -37,13 +46,3 @@
 - [2022-08-08-昨晚梦到头秃了-=-=](https://www.v2ex.com/t/871371) 
 - [2022-08-08-今天发现淘宝外星人👽电脑-3090ti-十万！](https://www.v2ex.com/t/871370) 
 - [2022-08-08-有用联通卡的-iPhone-用户，-iOS-蜂窝网络账单用量功能还在吗？](https://www.v2ex.com/t/871369) 
-- [2022-08-08-上海/远程-Web3-项目招-Java-后端岗位](https://www.v2ex.com/t/871368) 
-- [2022-08-08-独立产品灵感周刊-DecoHack-#025---如何找到一个新爱好](https://www.v2ex.com/t/871367) 
-- [2022-08-08-大家买过相机吗？最后吃灰了还是怎么样了？](https://www.v2ex.com/t/871366) 
-- [2022-08-08-开源/远程-RSS3-正在寻找全栈/前端工程师](https://www.v2ex.com/t/871364) 
-- [2022-08-08-IDEA-中的-Code-with-me-功能不能音视频通话](https://www.v2ex.com/t/871363) 
-- [2022-08-08-安卓-12L-flashboot-无法刷入-Rec](https://www.v2ex.com/t/871361) 
-- [2022-08-08-M1Pro-14-用九个月花屏了](https://www.v2ex.com/t/871360) 
-- [2022-08-08-请问有没有工具可以在-chrome/edge-浏览器下，在某个网站停用插件...的插件。](https://www.v2ex.com/t/871359) 
-- [2022-08-08-社交权限类似于朋友圈权限，遇到以下场景你会怎样设计](https://www.v2ex.com/t/871358) 
-- [2022-08-08-北京联通-有什么宽带优惠么](https://www.v2ex.com/t/871357) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-08 05:00:54，:rocket: 更新条数: +2028， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-08 05:24:45，:rocket: 更新条数: +2030， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,10 @@
 </summary>
 
 
+- [2022-08-08-请教一个每天自动账户余额扣费功能的实现方法](https://www.v2ex.com/t/871404) ![](assets/new.png)  
+- [2022-08-08-有没有什么真的有用的学习股票的书籍？](https://www.v2ex.com/t/871403) ![](assets/new.png)  
+- [2022-08-08-MBP14-什么时候会更新？](https://www.v2ex.com/t/871402) ![](assets/new.png)  
+- [2022-08-08-数据库事务-原子性和隔离性的疑问](https://www.v2ex.com/t/871401) ![](assets/new.png)  
 - [2022-08-08-浙江电信加-30-元/月，上行提-100M，-50-元/月，上行提-200M-划算吗？](https://www.v2ex.com/t/871400) ![](assets/new.png)  
 - [2022-08-08-几年前用的一个很不错的-V2EX-插件,-可以把-V2-变两栏,-暗色的,-现在找不到了,-有用过的么](https://www.v2ex.com/t/871399) ![](assets/new.png)  
 - [2022-08-08-互联网行业有没有其它的赚钱方式？](https://www.v2ex.com/t/871398) ![](assets/new.png)  
@@ -507,10 +511,6 @@
 - [2022-08-08-请问-iPhone-上的微信聊天记录要如何恢复到-Mac-上](https://www.v2ex.com/t/871385) ![](assets/new.png)  
 - [2022-08-08-经常能收到微软-Office365-相关的邮件含-jnd/qun-字眼，是什么新型骗术吗？](https://www.v2ex.com/t/871384) ![](assets/new.png)  
 - [2022-08-08-暂停录音-uniapp-中的-recorderManager-对象的-pause-方法不支持......](https://www.v2ex.com/t/871383) ![](assets/new.png)  
-- [2022-08-08-Thoughtworks-校招开启，-22-23-届可投,-内推码-77572](https://www.v2ex.com/t/871382) ![](assets/new.png)  
-- [2022-08-08-香港卡办理](https://www.v2ex.com/t/871381) ![](assets/new.png)  
-- [2022-08-08-手机电话卡选择](https://www.v2ex.com/t/871380) ![](assets/new.png)  
-- [2022-08-08-初学者问一个略显深入的问题：-K8S-如何查看-Pod-的-Cgroup](https://www.v2ex.com/t/871379) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -556,11 +556,11 @@
 - [2022-08-08-明明加了唯一索引，为什么还是产生重复数据？](https://toutiao.io/k/18ha9kp) ![](assets/new.png)  
 - [2022-08-08-SDN系统方法-|-7.-叶棘网络](https://toutiao.io/k/3onbcs0) ![](assets/new.png)  
 - [2022-08-08-任正非：我要的是成功，面子是给狗吃的；Shopee-后端一面十四问；架构设计杂谈｜码农周刊VIP会员专属邮件周报-Vol.102](https://toutiao.io/k/btyek20) ![](assets/new.png)  
-- [2022-08-08-一张图，详解大数据技术架构](https://toutiao.io/k/6ikz89j) ![](assets/new.png)  
 - [2022-08-08-这个技术总监，把-RabbitMQ-讲得那叫一个透彻，佩服！](https://toutiao.io/k/zsheoa9) ![](assets/new.png)  
+- [2022-08-08-一张图，详解大数据技术架构](https://toutiao.io/k/6ikz89j) ![](assets/new.png)  
+- [2022-08-08-微前端之-qiankun-项目入门实践](https://toutiao.io/k/6ytzlyv) ![](assets/new.png)  
 - [2022-08-08-朝九晚五不加班，我的秘密全在这里~](https://toutiao.io/k/dhyc5y5) ![](assets/new.png)  
 - [2022-08-08-我们为什么要远离Service-Mesh](https://toutiao.io/k/rv5v1il) ![](assets/new.png)  
-- [2022-08-08-微前端之-qiankun-项目入门实践](https://toutiao.io/k/6ytzlyv) ![](assets/new.png)  
 - [2022-08-08-android开发板串口通讯-深入浅出的分析和使用详解](https://toutiao.io/k/7qee4pu) ![](assets/new.png)  
 - [2022-08-08-【第2691期】开箱即用的轻量级前端框架：dagger.js](https://toutiao.io/k/nwt232s) ![](assets/new.png)  
 - [2022-08-08-短视频无尽流前端开发指南](https://toutiao.io/k/4v7oh3i) ![](assets/new.png)  
@@ -571,7 +571,7 @@
 - [2022-08-08-分布式链路追踪Jaeger-+-微服务Pig在Rainbond上的实践分享](https://toutiao.io/k/dc004az) ![](assets/new.png)  
 - [2022-08-08-数据管理](https://toutiao.io/k/gp5ehsp) ![](assets/new.png)  
 - [2022-08-08-推荐-Java-大后端各种架构图汇总（建议收藏！！）](https://toutiao.io/k/dvo6z1w) ![](assets/new.png)  
-- [2022-08-08-推荐-研发过程中的文档管理与工具](https://toutiao.io/k/mdiqwn5) ![](assets/new.png)  
+- [2022-08-08-推荐-一文搞懂-Redis-架构演化之路](https://toutiao.io/k/cwwpjem) ![](assets/new.png)  
 - [2022-08-08-推荐-阿里云官方-Redis-开发规范！](https://toutiao.io/k/2fqcbfi) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

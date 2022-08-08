@@ -9953,6 +9953,46 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "[西安/深圳/成都三地] 华为云大前端基础设施团队等你来",
+        "link": "https://www.v2ex.com/t/871464",
+        "date": "2022-08-08"
+      },
+      {
+        "title": "非指针类型赋值给空接口，编译器会生成一个临时变量再将指针传递给空接口吗？",
+        "link": "https://www.v2ex.com/t/871463",
+        "date": "2022-08-08"
+      },
+      {
+        "title": "招兼职",
+        "link": "https://www.v2ex.com/t/871462",
+        "date": "2022-08-08"
+      },
+      {
+        "title": "mac m1 +xbox 的配置，还想弄个 win 系统，有啥推荐吗？",
+        "link": "https://www.v2ex.com/t/871461",
+        "date": "2022-08-08"
+      },
+      {
+        "title": "安装软件不需要高权限合理吗？",
+        "link": "https://www.v2ex.com/t/871460",
+        "date": "2022-08-08"
+      },
+      {
+        "title": "Web3 与加密货币",
+        "link": "https://www.v2ex.com/t/871459",
+        "date": "2022-08-08"
+      },
+      {
+        "title": "小伙伴都说坚持练习八部金刚经后身体变好了这事是否是真的？",
+        "link": "https://www.v2ex.com/t/871458",
+        "date": "2022-08-08"
+      },
+      {
+        "title": "最近疫情被裁员,公司发放的 Mac 要收回,求推荐可以黑果的笔记本.",
+        "link": "https://www.v2ex.com/t/871457",
+        "date": "2022-08-08"
+      },
+      {
         "title": "C# 的 async/await 太**好用了！ C#性能也很不错，都来写 C#吧（doge）",
         "link": "https://www.v2ex.com/t/871456",
         "date": "2022-08-08"
@@ -10100,31 +10140,6 @@
       {
         "title": "[远程全职] 初级产品经理/月薪 15-25K RMB",
         "link": "https://www.v2ex.com/t/871415",
-        "date": "2022-08-08"
-      },
-      {
-        "title": "不幸中的万幸-甲状腺癌",
-        "link": "https://www.v2ex.com/t/871412",
-        "date": "2022-08-08"
-      },
-      {
-        "title": "有好用的 react 代码定位插件吗？",
-        "link": "https://www.v2ex.com/t/871411",
-        "date": "2022-08-08"
-      },
-      {
-        "title": "给 GitHub 设置了 Two-factor authentication，添加 fallback SMS number 时发现不支持 +86 号码",
-        "link": "https://www.v2ex.com/t/871409",
-        "date": "2022-08-08"
-      },
-      {
-        "title": "TypeScript 全搞定： Monorepo 的痛苦和收获",
-        "link": "https://www.v2ex.com/t/871408",
-        "date": "2022-08-08"
-      },
-      {
-        "title": "广州联通新装 到处投诉也拿不到 v4 公网 v6 公网也没有 PD 前缀",
-        "link": "https://www.v2ex.com/t/871407",
         "date": "2022-08-08"
       }
     ]
@@ -10347,11 +10362,6 @@
         "date": "2022-08-08"
       },
       {
-        "title": "[推荐] 一文搞懂 Redis 架构演化之路",
-        "link": "https://toutiao.io/k/cwwpjem",
-        "date": "2022-08-08"
-      },
-      {
         "title": "[推荐] 老板：公司系统太多，能不能实现账号互通？",
         "link": "https://toutiao.io/k/g7sb904",
         "date": "2022-08-08"
@@ -10364,6 +10374,11 @@
       {
         "title": "[推荐] 研发过程中的文档管理与工具",
         "link": "https://toutiao.io/k/mdiqwn5",
+        "date": "2022-08-08"
+      },
+      {
+        "title": "[推荐] 一文搞懂 Redis 架构演化之路",
+        "link": "https://toutiao.io/k/cwwpjem",
         "date": "2022-08-08"
       }
     ]

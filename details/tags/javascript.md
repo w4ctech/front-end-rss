@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-08-08 09:42:02。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-08-08 10:16:18。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -17,6 +17,7 @@
 - [2022-06-11-介绍一种CSS变量未定义语法也OK的小妙招](https://www.zhangxinxu.com/wordpress/2022/06/css-var-optional-empty-trick/) 
 - [2022-05-29-如何实现页面刷新后不定位到之前的滚动位置？](https://www.zhangxinxu.com/wordpress/2022/05/history-scrollrestoration/) 
 - [2022-05-11-JS与条形码的生成](https://www.zhangxinxu.com/wordpress/2022/05/js-barcode/) 
+- [2022-08-08-有没有大佬写过-angular-动态表单](https://www.v2ex.com/t/871487) 
 - [2022-08-08-用-Golang-写的-tui终端、命令行组件库，比如-progress，-progress-group，-select，-confirm...](https://www.v2ex.com/t/871471) 
 - [2022-08-08-非指针类型赋值给空接口，编译器会生成一个临时变量再将指针传递给空接口吗？](https://www.v2ex.com/t/871463) 
 - [2022-08-08-C#-的-async/await-太**好用了！-C#性能也很不错，都来写-C#吧（doge）](https://www.v2ex.com/t/871456) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-08-08 06:18:34。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-08-08 06:51:02。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,9 @@
 </summary>
 
 
+- [【V2EX】2022-08-08-有没有其他的类似于剪藏的-App-或者服务？](https://www.v2ex.com/t/871424) 
+- [【V2EX】2022-08-08-自由职业者办理签证如何提供完税证明？](https://www.v2ex.com/t/871421) 
+- [【V2EX】2022-08-08-求建议，-22-届，小微企业该不该去？](https://www.v2ex.com/t/871419) 
 - [【V2EX】2022-08-08-入手了个-J4125,i225v3,请问在哪有保姆级教程安装-ESXI-并装-openWRT-和-ikuai，还有-ubuntu-呢](https://www.v2ex.com/t/871418) 
 - [【V2EX】2022-08-08-调用小程序-wx.downloadFile-接口，返回的回调是乱码](https://www.v2ex.com/t/871417) 
 - [【V2EX】2022-08-08-求-kubernetes-的轻量级替代品](https://www.v2ex.com/t/871416) 
@@ -103,12 +106,6 @@
 - [【V2EX】2022-08-08-香港卡办理](https://www.v2ex.com/t/871381) 
 - [【V2EX】2022-08-08-手机电话卡选择](https://www.v2ex.com/t/871380) 
 - [【V2EX】2022-08-08-初学者问一个略显深入的问题：-K8S-如何查看-Pod-的-Cgroup](https://www.v2ex.com/t/871379) 
-- [【V2EX】2022-08-08-网易内推-互娱-23-届校招内推-内推码-XX3CuG](https://www.v2ex.com/t/871375) 
-- [【V2EX】2022-08-08-两条宽带怎么玩？](https://www.v2ex.com/t/871374) 
-- [【V2EX】2022-08-08-有什么批量生成单测的思路?](https://www.v2ex.com/t/871372) 
-- [【V2EX】2022-08-08-昨晚梦到头秃了-=-=](https://www.v2ex.com/t/871371) 
-- [【V2EX】2022-08-08-今天发现淘宝外星人👽电脑-3090ti-十万！](https://www.v2ex.com/t/871370) 
-- [【V2EX】2022-08-08-有用联通卡的-iPhone-用户，-iOS-蜂窝网络账单用量功能还在吗？](https://www.v2ex.com/t/871369) 
 - [【技术头条】2022-08-08-40年前的操作系统复活了，当年Linux、Windows都借鉴过！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15280&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494410%26amp%3Bidx%3D1%26amp%3Bsn%3D6573f0c124bcd2e20c39c33d3e516526%26amp%3Bchksm%3Dfa3f0a51cd4883479817eb189805d7dfe98436addb3e47a267f25bc3cdefefbb56aeab56e7b4%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-08-08-Spring注入Bean的七种方式-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15279&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494410%26amp%3Bidx%3D2%26amp%3Bsn%3D86e311bf8e60434edd3b60be3230e3e4%26amp%3Bchksm%3Dfa3f0a51cd4883473339fccf0f251b3cc4c5a5a9f85f2f196440fc0b3b75708c184391752aed%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-08-08-Python竟然也能做这样的进度条。。。-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15278&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494409%26amp%3Bidx%3D2%26amp%3Bsn%3D60f504fcb4ab4f3c5653d3e38c5d881d%26amp%3Bchksm%3Dfa3f0a52cd48834493edacaab63f11cf7d3724048a14bb96303999efd75ef3a72d6e78aeb7f6%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -147,13 +144,12 @@
 - [【开发者头条】2022-08-08-webpack的几个常见loader源码浅析，以及动手实现一个md2html-loader](https://toutiao.io/k/pdvv1yl) 
 - [【开发者头条】2022-08-08-数据管理](https://toutiao.io/k/gp5ehsp) 
 - [【开发者头条】2022-08-08-“12306”-的架构到底有多牛逼？](https://toutiao.io/k/77nmo8x) 
-- [【开发者头条】2022-08-08-存储日报-百度智能云大数据场景数据湖方案](https://toutiao.io/k/rvnfpln) 
-- [【开发者头条】2022-08-08-简说-套接字缓存的内存空间布局](https://toutiao.io/k/usd0lx2) 
 - [【开发者头条】2022-08-08-想要精准营销，从学习搭建一套对的标签体系开始丨DTVision分析洞察篇](https://toutiao.io/k/m9xkw1q) 
-- [【开发者头条】2022-08-08-推荐-阿里云官方-Redis-开发规范！](https://toutiao.io/k/2fqcbfi) 
-- [【开发者头条】2022-08-08-推荐-研发过程中的文档管理与工具](https://toutiao.io/k/mdiqwn5) 
+- [【开发者头条】2022-08-08-简说-套接字缓存的内存空间布局](https://toutiao.io/k/usd0lx2) 
 - [【开发者头条】2022-08-08-推荐-老板：公司系统太多，能不能实现账号互通？](https://toutiao.io/k/g7sb904) 
 - [【开发者头条】2022-08-08-推荐-一文搞懂-Redis-架构演化之路](https://toutiao.io/k/cwwpjem) 
+- [【开发者头条】2022-08-08-推荐-研发过程中的文档管理与工具](https://toutiao.io/k/mdiqwn5) 
+- [【开发者头条】2022-08-08-推荐-阿里云官方-Redis-开发规范！](https://toutiao.io/k/2fqcbfi) 
 - [【开发者头条】2022-08-08-推荐-Java-大后端各种架构图汇总（建议收藏！！）](https://toutiao.io/k/dvo6z1w) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-08 06:18:34，:rocket: 更新条数: +2033， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-08 06:51:02，:rocket: 更新条数: +2029， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,9 @@
 </summary>
 
 
+- [2022-08-08-有没有其他的类似于剪藏的-App-或者服务？](https://www.v2ex.com/t/871424) ![](assets/new.png)  
+- [2022-08-08-自由职业者办理签证如何提供完税证明？](https://www.v2ex.com/t/871421) ![](assets/new.png)  
+- [2022-08-08-求建议，-22-届，小微企业该不该去？](https://www.v2ex.com/t/871419) ![](assets/new.png)  
 - [2022-08-08-入手了个-J4125,i225v3,请问在哪有保姆级教程安装-ESXI-并装-openWRT-和-ikuai，还有-ubuntu-呢](https://www.v2ex.com/t/871418) ![](assets/new.png)  
 - [2022-08-08-调用小程序-wx.downloadFile-接口，返回的回调是乱码](https://www.v2ex.com/t/871417) ![](assets/new.png)  
 - [2022-08-08-求-kubernetes-的轻量级替代品](https://www.v2ex.com/t/871416) ![](assets/new.png)  
@@ -508,9 +511,6 @@
 - [2022-08-08-数据库事务-原子性和隔离性的疑问](https://www.v2ex.com/t/871401) ![](assets/new.png)  
 - [2022-08-08-浙江电信加-30-元/月，上行提-100M，-50-元/月，上行提-200M-划算吗？](https://www.v2ex.com/t/871400) ![](assets/new.png)  
 - [2022-08-08-几年前用的一个很不错的-V2EX-插件,-可以把-V2-变两栏,-暗色的,-现在找不到了,-有用过的么](https://www.v2ex.com/t/871399) ![](assets/new.png)  
-- [2022-08-08-互联网行业有没有其它的赚钱方式？](https://www.v2ex.com/t/871398) ![](assets/new.png)  
-- [2022-08-08-大佬们，有没有一些持续更新，可以了解最新技术前沿的渠道？](https://www.v2ex.com/t/871397) ![](assets/new.png)  
-- [2022-08-08-如何把为知笔记优雅的迁移到-notion-上？](https://www.v2ex.com/t/871396) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -571,7 +571,7 @@
 - [2022-08-08-webpack的几个常见loader源码浅析，以及动手实现一个md2html-loader](https://toutiao.io/k/pdvv1yl) ![](assets/new.png)  
 - [2022-08-08-数据管理](https://toutiao.io/k/gp5ehsp) ![](assets/new.png)  
 - [2022-08-08-“12306”-的架构到底有多牛逼？](https://toutiao.io/k/77nmo8x) ![](assets/new.png)  
-- [2022-08-08-存储日报-百度智能云大数据场景数据湖方案](https://toutiao.io/k/rvnfpln) ![](assets/new.png)  
+- [2022-08-08-想要精准营销，从学习搭建一套对的标签体系开始丨DTVision分析洞察篇](https://toutiao.io/k/m9xkw1q) ![](assets/new.png)  
 - [2022-08-08-简说-套接字缓存的内存空间布局](https://toutiao.io/k/usd0lx2) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-08-08 15:15:42。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-08-08 15:46:43。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,11 +1911,11 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-08-08-iPhone-的双卡是真的拉，用卡一卡二随意拨打电话真的很难做到吗？](https://www.v2ex.com/t/871546) 
 - [2022-08-08-看了一个-APT-27-得组织，突然对黑客的相关技术挺感兴趣？有老哥说说嘛。故事技术论坛都可以](https://www.v2ex.com/t/871544) 
 - [2022-08-08-请问-openwrt-的-wireguard-如何设置？](https://www.v2ex.com/t/871543) 
 - [2022-08-08-把-FortiGate-ARM-KVM-在-R4S-上跑起来了](https://www.v2ex.com/t/871535) 
 - [2022-08-08-求推荐一款-IOS-码字-APP，支持老机器的](https://www.v2ex.com/t/871534) 
-- [2022-08-08-有没有那些你很难忘记的人，一起来倾诉下吧](https://www.v2ex.com/t/871533) 
 - [2022-08-08-阅读代码时总是忘记上下文，如何克服？](https://www.v2ex.com/t/871532) 
 - [2022-08-08-问个-sql-语句](https://www.v2ex.com/t/871531) 
 - [2022-08-08-研究生毕业转程序员来得及吗？帮朋友发贴](https://www.v2ex.com/t/871528) 
@@ -1936,7 +1936,6 @@
 - [2022-08-08-酷瓜云课堂-v1.5.6-发布，开源在线教育解决方案](https://www.v2ex.com/t/871505) 
 - [2022-08-08-媳妇生日快到了，想买辆车欧拉芭蕾猫作为礼物](https://www.v2ex.com/t/871502) 
 - [2022-08-08-mbp2012-和-iMac-2013-使用-10.14/10.15-字体好花，眼睛要瞎](https://www.v2ex.com/t/871500) 
-- [2022-08-08-有没有什么好的云开发方案，价格便宜好用的](https://www.v2ex.com/t/871496) 
 - [2022-08-08-40年前的操作系统复活了，当年Linux、Windows都借鉴过！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15280&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494410%26amp%3Bidx%3D1%26amp%3Bsn%3D6573f0c124bcd2e20c39c33d3e516526%26amp%3Bchksm%3Dfa3f0a51cd4883479817eb189805d7dfe98436addb3e47a267f25bc3cdefefbb56aeab56e7b4%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-08-08-Spring注入Bean的七种方式-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15279&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494410%26amp%3Bidx%3D2%26amp%3Bsn%3D86e311bf8e60434edd3b60be3230e3e4%26amp%3Bchksm%3Dfa3f0a51cd4883473339fccf0f251b3cc4c5a5a9f85f2f196440fc0b3b75708c184391752aed%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-08-08-Python竟然也能做这样的进度条。。。-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15278&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494409%26amp%3Bidx%3D2%26amp%3Bsn%3D60f504fcb4ab4f3c5653d3e38c5d881d%26amp%3Bchksm%3Dfa3f0a52cd48834493edacaab63f11cf7d3724048a14bb96303999efd75ef3a72d6e78aeb7f6%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1965,7 +1964,7 @@
 - [2022-08-08-“12306”-的架构到底有多牛逼？](https://toutiao.io/k/77nmo8x) 
 - [2022-08-08-想要精准营销，从学习搭建一套对的标签体系开始丨DTVision分析洞察篇](https://toutiao.io/k/m9xkw1q) 
 - [2022-08-08-推荐-一文搞懂-Redis-架构演化之路](https://toutiao.io/k/cwwpjem) 
-- [2022-08-08-推荐-阿里云官方-Redis-开发规范！](https://toutiao.io/k/2fqcbfi) 
-- [2022-08-08-推荐-老板：公司系统太多，能不能实现账号互通？](https://toutiao.io/k/g7sb904) 
-- [2022-08-08-推荐-Java-大后端各种架构图汇总（建议收藏！！）](https://toutiao.io/k/dvo6z1w) 
 - [2022-08-08-推荐-研发过程中的文档管理与工具](https://toutiao.io/k/mdiqwn5) 
+- [2022-08-08-推荐-Java-大后端各种架构图汇总（建议收藏！！）](https://toutiao.io/k/dvo6z1w) 
+- [2022-08-08-推荐-老板：公司系统太多，能不能实现账号互通？](https://toutiao.io/k/g7sb904) 
+- [2022-08-08-推荐-阿里云官方-Redis-开发规范！](https://toutiao.io/k/2fqcbfi) 

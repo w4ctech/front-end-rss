@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-08 10:16:18，:rocket: 更新条数: +2030， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-08 10:43:46，:rocket: 更新条数: +2006， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -53,7 +53,7 @@
 - [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)![](assets/dot.png)   
-- [开发者头条](#开发者头条)![](assets/dot.png)   
+- [开发者头条](#开发者头条)  
 - [安全热点](#安全热点)  
 - [物联网智库](#物联网智库)  
 
@@ -491,7 +491,10 @@
 </summary>
 
 
-- [2022-08-08-有没有开车-youtube-会员的，我想加入](https://www.v2ex.com/t/871488) ![](assets/new.png)  
+- [2022-08-08-是什么原因让项目在-build-的时候会卡在-Linking-dependencies](https://www.v2ex.com/t/871492) ![](assets/new.png)  
+- [2022-08-08-ipv6-手机端访问-jd-app-非常慢，-ipv4-就正常非常快](https://www.v2ex.com/t/871491) ![](assets/new.png)  
+- [2022-08-08-RabbitMQ-使用过程中，什么时候才需要新建-exchange？](https://www.v2ex.com/t/871490) ![](assets/new.png)  
+- [2022-08-08-求一个-vue-router-相关的库~](https://www.v2ex.com/t/871489) ![](assets/new.png)  
 - [2022-08-08-有没有大佬写过-angular-动态表单](https://www.v2ex.com/t/871487) ![](assets/new.png)  
 - [2022-08-08-被骗了，找到对方的-app-入口及域名地址-希望有能力的去打击掉](https://www.v2ex.com/t/871486) ![](assets/new.png)  
 - [2022-08-08-Rabbit/RocketMq-对公网开放会有什么安全隐患吗？](https://www.v2ex.com/t/871484) ![](assets/new.png)  
@@ -508,9 +511,6 @@
 - [2022-08-08-想给老爸买点茶，有推荐的店铺吗？](https://www.v2ex.com/t/871472) ![](assets/new.png)  
 - [2022-08-08-用-Golang-写的-tui终端、命令行组件库，比如-progress，-progress-group，-select，-confirm...](https://www.v2ex.com/t/871471) ![](assets/new.png)  
 - [2022-08-08-.drawio-文件-mac-可以预览吗？🤔🤔](https://www.v2ex.com/t/871470) ![](assets/new.png)  
-- [2022-08-08-Apple-原装-20w-充电器，淘宝阿里自营店售价最低-59-元](https://www.v2ex.com/t/871468) ![](assets/new.png)  
-- [2022-08-08-微信聊天记录本地备份和还原为什么这么慢？](https://www.v2ex.com/t/871467) ![](assets/new.png)  
-- [2022-08-08-从-10-年的维度来看-BAT-三家-你更看好哪家](https://www.v2ex.com/t/871466) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -553,26 +553,6 @@
 </summary>
 
 
-- [2022-08-08-明明加了唯一索引，为什么还是产生重复数据？](https://toutiao.io/k/18ha9kp) ![](assets/new.png)  
-- [2022-08-08-SDN系统方法-|-7.-叶棘网络](https://toutiao.io/k/3onbcs0) ![](assets/new.png)  
-- [2022-08-08-任正非：我要的是成功，面子是给狗吃的；Shopee-后端一面十四问；架构设计杂谈｜码农周刊VIP会员专属邮件周报-Vol.102](https://toutiao.io/k/btyek20) ![](assets/new.png)  
-- [2022-08-08-这个技术总监，把-RabbitMQ-讲得那叫一个透彻，佩服！](https://toutiao.io/k/zsheoa9) ![](assets/new.png)  
-- [2022-08-08-微前端之-qiankun-项目入门实践](https://toutiao.io/k/6ytzlyv) ![](assets/new.png)  
-- [2022-08-08-一张图，详解大数据技术架构](https://toutiao.io/k/6ikz89j) ![](assets/new.png)  
-- [2022-08-08-朝九晚五不加班，我的秘密全在这里~](https://toutiao.io/k/dhyc5y5) ![](assets/new.png)  
-- [2022-08-08-我们为什么要远离Service-Mesh](https://toutiao.io/k/rv5v1il) ![](assets/new.png)  
-- [2022-08-08-【第2691期】开箱即用的轻量级前端框架：dagger.js](https://toutiao.io/k/nwt232s) ![](assets/new.png)  
-- [2022-08-08-android开发板串口通讯-深入浅出的分析和使用详解](https://toutiao.io/k/7qee4pu) ![](assets/new.png)  
-- [2022-08-08-短视频无尽流前端开发指南](https://toutiao.io/k/4v7oh3i) ![](assets/new.png)  
-- [2022-08-08-【萌新解题】美团一面：两数相加](https://toutiao.io/k/g3fg9cg) ![](assets/new.png)  
-- [2022-08-08-译文推荐｜深入解析-BookKeeper-协议模型与验证](https://toutiao.io/k/sg636kt) ![](assets/new.png)  
-- [2022-08-08-别了，IE浏览器](https://toutiao.io/k/eizt9wl) ![](assets/new.png)  
-- [2022-08-08-分布式链路追踪Jaeger-+-微服务Pig在Rainbond上的实践分享](https://toutiao.io/k/dc004az) ![](assets/new.png)  
-- [2022-08-08-webpack的几个常见loader源码浅析，以及动手实现一个md2html-loader](https://toutiao.io/k/pdvv1yl) ![](assets/new.png)  
-- [2022-08-08-数据管理](https://toutiao.io/k/gp5ehsp) ![](assets/new.png)  
-- [2022-08-08-“12306”-的架构到底有多牛逼？](https://toutiao.io/k/77nmo8x) ![](assets/new.png)  
-- [2022-08-08-想要精准营销，从学习搭建一套对的标签体系开始丨DTVision分析洞察篇](https://toutiao.io/k/m9xkw1q) ![](assets/new.png)  
-- [2022-08-08-简说-套接字缓存的内存空间布局](https://toutiao.io/k/usd0lx2) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

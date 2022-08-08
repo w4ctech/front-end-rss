@@ -1,10 +1,16 @@
-:alarm_clock: 更新时间: 2022-08-08 06:51:02。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-08-08 07:13:47。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-08-08-买一个最便宜的大疆无人机。1999-的那种，拍拍风景可行吗？](https://www.v2ex.com/t/871431) 
+- [2022-08-08-写了一个-ddd-方式的-demo，分享出来给大家瞧瞧](https://www.v2ex.com/t/871430) 
+- [2022-08-08-19-年-11-月购买的-airpods-pro-再次维修成功](https://www.v2ex.com/t/871429) 
+- [2022-08-08-为什么-youtube-购买会员和频道会员显示处理您的购买交易时出现错误，请重试。](https://www.v2ex.com/t/871428) 
+- [2022-08-08-Google-Chrome-和-Microsoft-Edge-能够同步登录状态的原理是什么？](https://www.v2ex.com/t/871427) 
+- [2022-08-08-同样的配方不同的味道：-SGv0.31.2-发布了（内网穿透）](https://www.v2ex.com/t/871426) 
 - [2022-08-08-有没有其他的类似于剪藏的-App-或者服务？](https://www.v2ex.com/t/871424) 
 - [2022-08-08-自由职业者办理签证如何提供完税证明？](https://www.v2ex.com/t/871421) 
 - [2022-08-08-求建议，-22-届，小微企业该不该去？](https://www.v2ex.com/t/871419) 
@@ -40,6 +46,3 @@
 - [2022-08-08-经常能收到微软-Office365-相关的邮件含-jnd/qun-字眼，是什么新型骗术吗？](https://www.v2ex.com/t/871384) 
 - [2022-08-08-暂停录音-uniapp-中的-recorderManager-对象的-pause-方法不支持......](https://www.v2ex.com/t/871383) 
 - [2022-08-08-Thoughtworks-校招开启，-22-23-届可投,-内推码-77572](https://www.v2ex.com/t/871382) 
-- [2022-08-08-香港卡办理](https://www.v2ex.com/t/871381) 
-- [2022-08-08-手机电话卡选择](https://www.v2ex.com/t/871380) 
-- [2022-08-08-初学者问一个略显深入的问题：-K8S-如何查看-Pod-的-Cgroup](https://www.v2ex.com/t/871379) 

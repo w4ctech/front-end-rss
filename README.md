@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-08 15:46:43，:rocket: 更新条数: +2024， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-08 16:20:02，:rocket: 更新条数: +2025， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-08-08-selenium-无法-find-到新加载的窗口的问题](https://www.v2ex.com/t/871550) ![](assets/new.png)  
+- [2022-08-08-请教大家，哪款市面上还能买得到的安卓手机最适合-root？](https://www.v2ex.com/t/871548) ![](assets/new.png)  
 - [2022-08-08-ToDesk-个人版安全预警公告-2022-08-07](https://www.v2ex.com/t/871547) ![](assets/new.png)  
 - [2022-08-08-iPhone-的双卡是真的拉，用卡一卡二随意拨打电话真的很难做到吗？](https://www.v2ex.com/t/871546) ![](assets/new.png)  
 - [2022-08-08-看了一个-APT-27-得组织，突然对黑客的相关技术挺感兴趣？有老哥说说嘛。故事技术论坛都可以](https://www.v2ex.com/t/871544) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-08-08-成都宽带有推荐的么](https://www.v2ex.com/t/871523) ![](assets/new.png)  
 - [2022-08-08-Java-求解答：为什么-JackSon-和-fastJson-里使用-string.intern，欢迎美团技术团队解答:-](https://www.v2ex.com/t/871521) ![](assets/new.png)  
 - [2022-08-08-Apple-TV-电视-被陌生手机隔空播放开机](https://www.v2ex.com/t/871519) ![](assets/new.png)  
-- [2022-08-08-极客云是不是跑路了](https://www.v2ex.com/t/871518) ![](assets/new.png)  
-- [2022-08-08-这种索引真的能用吗](https://www.v2ex.com/t/871517) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

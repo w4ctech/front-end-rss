@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-08 21:39:19，:rocket: 更新条数: +2026， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-08 22:16:01，:rocket: 更新条数: +2025， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -571,8 +571,8 @@
 - [2022-08-08-webpack的几个常见loader源码浅析，以及动手实现一个md2html-loader](https://toutiao.io/k/pdvv1yl) ![](assets/new.png)  
 - [2022-08-08-数据管理](https://toutiao.io/k/gp5ehsp) ![](assets/new.png)  
 - [2022-08-08-“12306”-的架构到底有多牛逼？](https://toutiao.io/k/77nmo8x) ![](assets/new.png)  
-- [2022-08-08-简说-套接字缓存的内存空间布局](https://toutiao.io/k/usd0lx2) ![](assets/new.png)  
 - [2022-08-08-想要精准营销，从学习搭建一套对的标签体系开始丨DTVision分析洞察篇](https://toutiao.io/k/m9xkw1q) ![](assets/new.png)  
+- [2022-08-08-简说-套接字缓存的内存空间布局](https://toutiao.io/k/usd0lx2) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-08 20:41:27，:rocket: 更新条数: +2026， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-08 21:13:41，:rocket: 更新条数: +2026， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-08-08-我放一张图，然后我什么也不说，你能猜出这是什么吗](https://www.v2ex.com/t/871564) ![](assets/new.png)  
 - [2022-08-08-专科毕业后还有什么机会可以提升](https://www.v2ex.com/t/871563) ![](assets/new.png)  
 - [2022-08-08-找不到想要的微表情数据集](https://www.v2ex.com/t/871562) ![](assets/new.png)  
 - [2022-08-08-2022-年了，-vscode-还是不兼容中文吗？](https://www.v2ex.com/t/871561) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-08-08-求助：家里路由器有信号但是网速很差的问题](https://www.v2ex.com/t/871542) ![](assets/new.png)  
 - [2022-08-08-看起来-IE-不是最好的第三方浏览器下载器了，连浏览器官网都不适配-IE-了，错位到下载按钮都点不到了，有点离谱。](https://www.v2ex.com/t/871539) ![](assets/new.png)  
 - [2022-08-08-C++如何简单地在堆上创建多维数组？](https://www.v2ex.com/t/871538) ![](assets/new.png)  
-- [2022-08-08-多节点接入同一-ASN，应当如何配置路由？](https://www.v2ex.com/t/871536) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

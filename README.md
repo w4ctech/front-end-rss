@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-08 13:59:45，:rocket: 更新条数: +2029， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-08 14:18:26，:rocket: 更新条数: +2027， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-08-08-阅读代码时总是忘记上下文，如何克服？](https://www.v2ex.com/t/871532) ![](assets/new.png)  
+- [2022-08-08-问个-sql-语句](https://www.v2ex.com/t/871531) ![](assets/new.png)  
 - [2022-08-08-研究生毕业转程序员来得及吗？帮朋友发贴](https://www.v2ex.com/t/871528) ![](assets/new.png)  
 - [2022-08-08-有没有懂会议室调音，音响的？](https://www.v2ex.com/t/871527) ![](assets/new.png)  
 - [2022-08-08-请问去杭州读研并且打算毕业留杭发展，有必要把户口迁到学校去吗（原户籍为居民户口）](https://www.v2ex.com/t/871526) ![](assets/new.png)  
@@ -502,7 +504,6 @@
 - [2022-08-08-关于-monterey-的通用控制的-bug](https://www.v2ex.com/t/871516) ![](assets/new.png)  
 - [2022-08-08-Android-VS-QT](https://www.v2ex.com/t/871515) ![](assets/new.png)  
 - [2022-08-08-你们搭建博客用的是什么-vps（暂时不考虑国内的），也欢迎大家分享博客](https://www.v2ex.com/t/871514) ![](assets/new.png)  
-- [2022-08-08-大而不倒](https://www.v2ex.com/t/871513) ![](assets/new.png)  
 - [2022-08-08-与这段-Python-的等效-node-代码怎么写？](https://www.v2ex.com/t/871512) ![](assets/new.png)  
 - [2022-08-08-V-友们-脚本里如何传入-GitHub-api-参数-求指点-谢谢](https://www.v2ex.com/t/871511) ![](assets/new.png)  
 - [2022-08-08-MacOS-有没有办法让应用菜单隐藏](https://www.v2ex.com/t/871510) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-08-08-WebStorm-有打开项目的快捷键吗？](https://www.v2ex.com/t/871508) ![](assets/new.png)  
 - [2022-08-08-tensorflow-20-种语言文档只有简中文档过时，也不提示用户过时](https://www.v2ex.com/t/871507) ![](assets/new.png)  
 - [2022-08-08-有没有那种事少的安卓统计服务,-注册就能用的不用做繁琐的实名那种](https://www.v2ex.com/t/871506) ![](assets/new.png)  
-- [2022-08-08-酷瓜云课堂-v1.5.6-发布，开源在线教育解决方案](https://www.v2ex.com/t/871505) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

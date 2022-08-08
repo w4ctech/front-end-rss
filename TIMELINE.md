@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-08-08 09:14:10。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-08-08 09:42:02。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,17 @@
 </summary>
 
 
+- [【V2EX】2022-08-08-PC-低成本升级求推荐](https://www.v2ex.com/t/871481) 
+- [【V2EX】2022-08-08-有多少-V-友是没有爱好的](https://www.v2ex.com/t/871480) 
+- [【V2EX】2022-08-08-关于-1-password-登录的一个疑问](https://www.v2ex.com/t/871479) 
+- [【V2EX】2022-08-08-有没有这样一门语言，保留-Rust-其他特性但提供-GC-能力？](https://www.v2ex.com/t/871478) 
+- [【V2EX】2022-08-08-为何从通道取数据顺序是错误的？](https://www.v2ex.com/t/871477) 
+- [【V2EX】2022-08-08-RyzenTuner：一个调节-Ryzen-移动处理器功率限制的小工具](https://www.v2ex.com/t/871475) 
+- [【V2EX】2022-08-08-firefox-确定不是在搞笑吗？一万年了出了个浏览器级的翻译扩展](https://www.v2ex.com/t/871474) 
+- [【V2EX】2022-08-08-windows-主板后面那个-AUDIO-圆孔插入耳机没有反应](https://www.v2ex.com/t/871473) 
+- [【V2EX】2022-08-08-想给老爸买点茶，有推荐的店铺吗？](https://www.v2ex.com/t/871472) 
+- [【V2EX】2022-08-08-用-Golang-写的-tui终端、命令行组件库，比如-progress，-progress-group，-select，-confirm...](https://www.v2ex.com/t/871471) 
+- [【V2EX】2022-08-08-.drawio-文件-mac-可以预览吗？🤔🤔](https://www.v2ex.com/t/871470) 
 - [【V2EX】2022-08-08-Apple-原装-20w-充电器，淘宝阿里自营店售价最低-59-元](https://www.v2ex.com/t/871468) 
 - [【V2EX】2022-08-08-微信聊天记录本地备份和还原为什么这么慢？](https://www.v2ex.com/t/871467) 
 - [【V2EX】2022-08-08-从-10-年的维度来看-BAT-三家-你更看好哪家](https://www.v2ex.com/t/871466) 
@@ -95,14 +106,6 @@
 - [【V2EX】2022-08-08-Chrome-彩云小译---网页翻译插件-不能使用了？](https://www.v2ex.com/t/871435) 
 - [【V2EX】2022-08-08-2022-了，-iOS-上-RN-还能用热更新吗？如果用的话是警告还是封号呢](https://www.v2ex.com/t/871434) 
 - [【V2EX】2022-08-08-求问能够压力测试万兆网卡组播性能的工具](https://www.v2ex.com/t/871432) 
-- [【V2EX】2022-08-08-买一个最便宜的大疆无人机。1999-的那种，拍拍风景可行吗？](https://www.v2ex.com/t/871431) 
-- [【V2EX】2022-08-08-写了一个-ddd-方式的-demo，分享出来给大家瞧瞧](https://www.v2ex.com/t/871430) 
-- [【V2EX】2022-08-08-19-年-11-月购买的-airpods-pro-再次维修成功](https://www.v2ex.com/t/871429) 
-- [【V2EX】2022-08-08-为什么-youtube-购买会员和频道会员显示处理您的购买交易时出现错误，请重试。](https://www.v2ex.com/t/871428) 
-- [【V2EX】2022-08-08-Google-Chrome-和-Microsoft-Edge-能够同步登录状态的原理是什么？](https://www.v2ex.com/t/871427) 
-- [【V2EX】2022-08-08-同样的配方不同的味道：-SGv0.31.2-发布了（内网穿透）](https://www.v2ex.com/t/871426) 
-- [【V2EX】2022-08-08-有没有其他的类似于剪藏的-App-或者服务？](https://www.v2ex.com/t/871424) 
-- [【V2EX】2022-08-08-自由职业者办理签证如何提供完税证明？](https://www.v2ex.com/t/871421) 
 - [【技术头条】2022-08-08-40年前的操作系统复活了，当年Linux、Windows都借鉴过！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15280&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494410%26amp%3Bidx%3D1%26amp%3Bsn%3D6573f0c124bcd2e20c39c33d3e516526%26amp%3Bchksm%3Dfa3f0a51cd4883479817eb189805d7dfe98436addb3e47a267f25bc3cdefefbb56aeab56e7b4%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-08-08-Spring注入Bean的七种方式-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15279&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494410%26amp%3Bidx%3D2%26amp%3Bsn%3D86e311bf8e60434edd3b60be3230e3e4%26amp%3Bchksm%3Dfa3f0a51cd4883473339fccf0f251b3cc4c5a5a9f85f2f196440fc0b3b75708c184391752aed%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-08-08-Python竟然也能做这样的进度条。。。-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15278&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494409%26amp%3Bidx%3D2%26amp%3Bsn%3D60f504fcb4ab4f3c5653d3e38c5d881d%26amp%3Bchksm%3Dfa3f0a52cd48834493edacaab63f11cf7d3724048a14bb96303999efd75ef3a72d6e78aeb7f6%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -143,11 +146,11 @@
 - [【开发者头条】2022-08-08-“12306”-的架构到底有多牛逼？](https://toutiao.io/k/77nmo8x) 
 - [【开发者头条】2022-08-08-想要精准营销，从学习搭建一套对的标签体系开始丨DTVision分析洞察篇](https://toutiao.io/k/m9xkw1q) 
 - [【开发者头条】2022-08-08-简说-套接字缓存的内存空间布局](https://toutiao.io/k/usd0lx2) 
-- [【开发者头条】2022-08-08-推荐-老板：公司系统太多，能不能实现账号互通？](https://toutiao.io/k/g7sb904) 
 - [【开发者头条】2022-08-08-推荐-研发过程中的文档管理与工具](https://toutiao.io/k/mdiqwn5) 
-- [【开发者头条】2022-08-08-推荐-阿里云官方-Redis-开发规范！](https://toutiao.io/k/2fqcbfi) 
+- [【开发者头条】2022-08-08-推荐-老板：公司系统太多，能不能实现账号互通？](https://toutiao.io/k/g7sb904) 
 - [【开发者头条】2022-08-08-推荐-一文搞懂-Redis-架构演化之路](https://toutiao.io/k/cwwpjem) 
 - [【开发者头条】2022-08-08-推荐-Java-大后端各种架构图汇总（建议收藏！！）](https://toutiao.io/k/dvo6z1w) 
+- [【开发者头条】2022-08-08-推荐-阿里云官方-Redis-开发规范！](https://toutiao.io/k/2fqcbfi) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

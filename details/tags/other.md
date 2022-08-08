@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-08-08 23:15:56。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-08-08 23:41:27。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1963,8 +1963,8 @@
 - [2022-08-08-数据管理](https://toutiao.io/k/gp5ehsp) 
 - [2022-08-08-“12306”-的架构到底有多牛逼？](https://toutiao.io/k/77nmo8x) 
 - [2022-08-08-想要精准营销，从学习搭建一套对的标签体系开始丨DTVision分析洞察篇](https://toutiao.io/k/m9xkw1q) 
+- [2022-08-08-推荐-老板：公司系统太多，能不能实现账号互通？](https://toutiao.io/k/g7sb904) 
+- [2022-08-08-推荐-Java-大后端各种架构图汇总（建议收藏！！）](https://toutiao.io/k/dvo6z1w) 
+- [2022-08-08-推荐-一文搞懂-Redis-架构演化之路](https://toutiao.io/k/cwwpjem) 
 - [2022-08-08-推荐-阿里云官方-Redis-开发规范！](https://toutiao.io/k/2fqcbfi) 
 - [2022-08-08-推荐-研发过程中的文档管理与工具](https://toutiao.io/k/mdiqwn5) 
-- [2022-08-08-推荐-Java-大后端各种架构图汇总（建议收藏！！）](https://toutiao.io/k/dvo6z1w) 
-- [2022-08-08-推荐-老板：公司系统太多，能不能实现账号互通？](https://toutiao.io/k/g7sb904) 
-- [2022-08-08-推荐-一文搞懂-Redis-架构演化之路](https://toutiao.io/k/cwwpjem) 

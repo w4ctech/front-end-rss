@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-08 01:03:45，:rocket: 更新条数: +2024， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-08 03:23:14，:rocket: 更新条数: +2028， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,26 +491,26 @@
 </summary>
 
 
-- [2022-08-08-14-系列，可信度如何](https://www.v2ex.com/t/871325) ![](assets/new.png)  
-- [2022-08-08-windows-双屏情况下，角落按钮太难点了（关闭按钮和显示桌面）](https://www.v2ex.com/t/871323) ![](assets/new.png)  
-- [2022-08-08-请教个安卓手机无法正常息屏的问题。](https://www.v2ex.com/t/871322) ![](assets/new.png)  
-- [2022-08-08-Gofile-Launcher:-为-Go-File-量身打造的-GUI-启动器](https://www.v2ex.com/t/871321) ![](assets/new.png)  
-- [2022-08-08-求各位大帅比支招。害怕挂羊头卖狗肉，面试时该如何问工作内容？](https://www.v2ex.com/t/871320) ![](assets/new.png)  
-- [2022-08-08-打算开一个-Surge-的-ios-团-三缺二](https://www.v2ex.com/t/871319) ![](assets/new.png)  
-- [2022-08-08-安卓手机有-Emoji-吗？](https://www.v2ex.com/t/871318) ![](assets/new.png)  
-- [2022-08-07-不同区的工作居住证效果有差异么](https://www.v2ex.com/t/871317) ![](assets/new.png)  
-- [2022-08-07-土耳其-Apple-ID-的诡异-BUG](https://www.v2ex.com/t/871316) ![](assets/new.png)  
-- [2022-08-07-Emby-弹幕-js-插件](https://www.v2ex.com/t/871314) ![](assets/new.png)  
-- [2022-08-07-B-站现在是完全不在乎桌面端用户体验了吗？](https://www.v2ex.com/t/871313) ![](assets/new.png)  
-- [2022-08-07-New-Outlook-for-Windows](https://www.v2ex.com/t/871311) ![](assets/new.png)  
-- [2022-08-07-有-ARM-版-Windows-11-能用的外接-USB-无线网卡吗](https://www.v2ex.com/t/871310) ![](assets/new.png)  
-- [2022-08-07-杨梅坑有没有什么便宜的住宿](https://www.v2ex.com/t/871309) ![](assets/new.png)  
-- [2022-08-07-双路-cpu-温度传感器显示相差-10℃](https://www.v2ex.com/t/871307) ![](assets/new.png)  
-- [2022-08-07-硬件故障会导致备份恢复失败吗？](https://www.v2ex.com/t/871306) ![](assets/new.png)  
-- [2022-08-07-关于-macbook-投屏到-iPad-上卡顿的问题](https://www.v2ex.com/t/871305) ![](assets/new.png)  
-- [2022-08-07-gin-的模板里怎么对变量做个数学运算？](https://www.v2ex.com/t/871303) ![](assets/new.png)  
-- [2022-08-07-你们的公司招人一般喜欢招几岁的](https://www.v2ex.com/t/871301) ![](assets/new.png)  
-- [2022-08-07-mac，有没有打开、关闭-代理的快捷方式](https://www.v2ex.com/t/871300) ![](assets/new.png)  
+- [2022-08-08-两条宽带怎么玩？](https://www.v2ex.com/t/871374) ![](assets/new.png)  
+- [2022-08-08-有什么批量生成单测的思路?](https://www.v2ex.com/t/871372) ![](assets/new.png)  
+- [2022-08-08-昨晚梦到头秃了-=-=](https://www.v2ex.com/t/871371) ![](assets/new.png)  
+- [2022-08-08-今天发现淘宝外星人👽电脑-3090ti-十万！](https://www.v2ex.com/t/871370) ![](assets/new.png)  
+- [2022-08-08-有用联通卡的-iPhone-用户，-iOS-蜂窝网络账单用量功能还在吗？](https://www.v2ex.com/t/871369) ![](assets/new.png)  
+- [2022-08-08-上海/远程-Web3-项目招-Java-后端岗位](https://www.v2ex.com/t/871368) ![](assets/new.png)  
+- [2022-08-08-独立产品灵感周刊-DecoHack-#025---如何找到一个新爱好](https://www.v2ex.com/t/871367) ![](assets/new.png)  
+- [2022-08-08-大家买过相机吗？最后吃灰了还是怎么样了？](https://www.v2ex.com/t/871366) ![](assets/new.png)  
+- [2022-08-08-开源/远程-RSS3-正在寻找全栈/前端工程师](https://www.v2ex.com/t/871364) ![](assets/new.png)  
+- [2022-08-08-IDEA-中的-Code-with-me-功能不能音视频通话](https://www.v2ex.com/t/871363) ![](assets/new.png)  
+- [2022-08-08-安卓-12L-flashboot-无法刷入-Rec](https://www.v2ex.com/t/871361) ![](assets/new.png)  
+- [2022-08-08-M1Pro-14-用九个月花屏了](https://www.v2ex.com/t/871360) ![](assets/new.png)  
+- [2022-08-08-请问有没有工具可以在-chrome/edge-浏览器下，在某个网站停用插件...的插件。](https://www.v2ex.com/t/871359) ![](assets/new.png)  
+- [2022-08-08-社交权限类似于朋友圈权限，遇到以下场景你会怎样设计](https://www.v2ex.com/t/871358) ![](assets/new.png)  
+- [2022-08-08-北京联通-有什么宽带优惠么](https://www.v2ex.com/t/871357) ![](assets/new.png)  
+- [2022-08-08-各位大佬，帮小弟回答一些人生困惑](https://www.v2ex.com/t/871356) ![](assets/new.png)  
+- [2022-08-08-C++面向对象编程](https://www.v2ex.com/t/871355) ![](assets/new.png)  
+- [2022-08-08-码云仓库挂了，界面报-500，拉不下来代码，也提交不了](https://www.v2ex.com/t/871354) ![](assets/new.png)  
+- [2022-08-08-装机后续：-i7-12700-+-华硕-B660M-重炮手装机实操](https://www.v2ex.com/t/871352) ![](assets/new.png)  
+- [2022-08-08-周末注册骑手，兼职送了两天外卖有感。](https://www.v2ex.com/t/871350) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -557,18 +557,22 @@
 - [2022-08-08-明明加了唯一索引，为什么还是产生重复数据？](https://toutiao.io/k/18ha9kp) ![](assets/new.png)  
 - [2022-08-08-一张图，详解大数据技术架构](https://toutiao.io/k/6ikz89j) ![](assets/new.png)  
 - [2022-08-08-这个技术总监，把-RabbitMQ-讲得那叫一个透彻，佩服！](https://toutiao.io/k/zsheoa9) ![](assets/new.png)  
-- [2022-08-08-微前端之-qiankun-项目入门实践](https://toutiao.io/k/6ytzlyv) ![](assets/new.png)  
 - [2022-08-08-朝九晚五不加班，我的秘密全在这里~](https://toutiao.io/k/dhyc5y5) ![](assets/new.png)  
 - [2022-08-08-我们为什么要远离Service-Mesh](https://toutiao.io/k/rv5v1il) ![](assets/new.png)  
+- [2022-08-08-微前端之-qiankun-项目入门实践](https://toutiao.io/k/6ytzlyv) ![](assets/new.png)  
+- [2022-08-08-任正非：我要的是成功，面子是给狗吃的；Shopee-后端一面十四问；架构设计杂谈｜码农周刊VIP会员专属邮件周报-Vol.102](https://toutiao.io/k/btyek20) ![](assets/new.png)  
 - [2022-08-08-android开发板串口通讯-深入浅出的分析和使用详解](https://toutiao.io/k/7qee4pu) ![](assets/new.png)  
-- [2022-08-08-webpack的几个常见loader源码浅析，以及动手实现一个md2html-loader](https://toutiao.io/k/pdvv1yl) ![](assets/new.png)  
-- [2022-08-08-短视频无尽流前端开发指南](https://toutiao.io/k/4v7oh3i) ![](assets/new.png)  
 - [2022-08-08-【第2691期】开箱即用的轻量级前端框架：dagger.js](https://toutiao.io/k/nwt232s) ![](assets/new.png)  
-- [2022-08-08-推荐-一文搞懂-Redis-架构演化之路](https://toutiao.io/k/cwwpjem) ![](assets/new.png)  
+- [2022-08-08-短视频无尽流前端开发指南](https://toutiao.io/k/4v7oh3i) ![](assets/new.png)  
+- [2022-08-08-webpack的几个常见loader源码浅析，以及动手实现一个md2html-loader](https://toutiao.io/k/pdvv1yl) ![](assets/new.png)  
+- [2022-08-08-【萌新解题】美团一面：两数相加](https://toutiao.io/k/g3fg9cg) ![](assets/new.png)  
+- [2022-08-08-译文推荐｜深入解析-BookKeeper-协议模型与验证](https://toutiao.io/k/sg636kt) ![](assets/new.png)  
+- [2022-08-08-别了，IE浏览器](https://toutiao.io/k/eizt9wl) ![](assets/new.png)  
+- [2022-08-08-分布式链路追踪Jaeger-+-微服务Pig在Rainbond上的实践分享](https://toutiao.io/k/dc004az) ![](assets/new.png)  
+- [2022-08-08-数据管理](https://toutiao.io/k/gp5ehsp) ![](assets/new.png)  
 - [2022-08-08-推荐-研发过程中的文档管理与工具](https://toutiao.io/k/mdiqwn5) ![](assets/new.png)  
 - [2022-08-08-推荐-Java-大后端各种架构图汇总（建议收藏！！）](https://toutiao.io/k/dvo6z1w) ![](assets/new.png)  
-- [2022-08-08-推荐-老板：公司系统太多，能不能实现账号互通？](https://toutiao.io/k/g7sb904) ![](assets/new.png)  
-- [2022-08-08-推荐-阿里云官方-Redis-开发规范！](https://toutiao.io/k/2fqcbfi) ![](assets/new.png)  
+- [2022-08-08-推荐-一文搞懂-Redis-架构演化之路](https://toutiao.io/k/cwwpjem) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

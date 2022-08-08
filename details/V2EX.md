@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2022-08-08 17:44:30。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-08-08 18:18:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-08-08-情怀！有人认识那个日记-app「Day-One」的开发团队吗？](https://www.v2ex.com/t/871558) 
 - [2022-08-08-edge-的通知怎么变成这样了](https://www.v2ex.com/t/871557) 
 - [2022-08-08-现在有什么好的-VoIP（国际）平台推荐呢？](https://www.v2ex.com/t/871556) 
 - [2022-08-08-求-IOS-上好用的不依赖-calibre-web-能直接从-NAS-看电子书的阅读器？](https://www.v2ex.com/t/871554) 
@@ -39,4 +40,3 @@
 - [2022-08-08-V-友们-脚本里如何传入-GitHub-api-参数-求指点-谢谢](https://www.v2ex.com/t/871511) 
 - [2022-08-08-MacOS-有没有办法让应用菜单隐藏](https://www.v2ex.com/t/871510) 
 - [2022-08-08-招人啦！-国内：-剪映-海外：-capcut（之前在-V2EX-的小伙伴已经拿到-offer-啦！）](https://www.v2ex.com/t/871509) 
-- [2022-08-08-WebStorm-有打开项目的快捷键吗？](https://www.v2ex.com/t/871508) 

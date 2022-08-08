@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-08 17:44:30，:rocket: 更新条数: +2026， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-08 18:18:19，:rocket: 更新条数: +2026， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-08-08-情怀！有人认识那个日记-app「Day-One」的开发团队吗？](https://www.v2ex.com/t/871558) ![](assets/new.png)  
 - [2022-08-08-edge-的通知怎么变成这样了](https://www.v2ex.com/t/871557) ![](assets/new.png)  
 - [2022-08-08-现在有什么好的-VoIP（国际）平台推荐呢？](https://www.v2ex.com/t/871556) ![](assets/new.png)  
 - [2022-08-08-求-IOS-上好用的不依赖-calibre-web-能直接从-NAS-看电子书的阅读器？](https://www.v2ex.com/t/871554) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-08-08-求推荐一款-IOS-码字-APP，支持老机器的](https://www.v2ex.com/t/871534) ![](assets/new.png)  
 - [2022-08-08-阅读代码时总是忘记上下文，如何克服？](https://www.v2ex.com/t/871532) ![](assets/new.png)  
 - [2022-08-08-问个-sql-语句](https://www.v2ex.com/t/871531) ![](assets/new.png)  
-- [2022-08-08-研究生毕业转程序员来得及吗？帮朋友发贴](https://www.v2ex.com/t/871528) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -565,9 +565,9 @@
 - [2022-08-08-android开发板串口通讯-深入浅出的分析和使用详解](https://toutiao.io/k/7qee4pu) ![](assets/new.png)  
 - [2022-08-08-短视频无尽流前端开发指南](https://toutiao.io/k/4v7oh3i) ![](assets/new.png)  
 - [2022-08-08-【萌新解题】美团一面：两数相加](https://toutiao.io/k/g3fg9cg) ![](assets/new.png)  
+- [2022-08-08-分布式链路追踪Jaeger-+-微服务Pig在Rainbond上的实践分享](https://toutiao.io/k/dc004az) ![](assets/new.png)  
 - [2022-08-08-译文推荐｜深入解析-BookKeeper-协议模型与验证](https://toutiao.io/k/sg636kt) ![](assets/new.png)  
 - [2022-08-08-别了，IE浏览器](https://toutiao.io/k/eizt9wl) ![](assets/new.png)  
-- [2022-08-08-分布式链路追踪Jaeger-+-微服务Pig在Rainbond上的实践分享](https://toutiao.io/k/dc004az) ![](assets/new.png)  
 - [2022-08-08-webpack的几个常见loader源码浅析，以及动手实现一个md2html-loader](https://toutiao.io/k/pdvv1yl) ![](assets/new.png)  
 - [2022-08-08-数据管理](https://toutiao.io/k/gp5ehsp) ![](assets/new.png)  
 - [2022-08-08-“12306”-的架构到底有多牛逼？](https://toutiao.io/k/77nmo8x) ![](assets/new.png)  

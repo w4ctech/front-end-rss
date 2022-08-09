@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-08-09 05:05:06。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-08-09 05:44:47。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 前端进阶相关
 
@@ -6,5 +6,3 @@
 > 关键字：`AST`、`GPU`、`WebAssembly`、`Vim`、`HTTP`、`算法`、`全栈`
 
 
-
-- [2022-08-09-有冇-V-友写过-elasticsearch6-版本的集群部署文章](https://www.v2ex.com/t/871606) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-09 11:12:31，:rocket: 更新条数: +2032， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-09 11:38:16，:rocket: 更新条数: +2032， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-08-09-求电脑版微信记录导出](https://www.v2ex.com/t/871758) ![](assets/new.png)  
+- [2022-08-09-九月份的-Jasper-和-Banff](https://www.v2ex.com/t/871757) ![](assets/new.png)  
 - [2022-08-09-做了个类似-utools-的开源工具箱，扩展更多可能性！](https://www.v2ex.com/t/871756) ![](assets/new.png)  
 - [2022-08-09-开了一个新的生存服务器，现在测试欢迎开荒](https://www.v2ex.com/t/871755) ![](assets/new.png)  
 - [2022-08-09-OpenSSH-使用-Ed25519-算法生成的密钥鉴权真的安全吗，这么短的密钥好不放心，但好多大佬都在推荐。未来是不是比-RSA-更容易出现快速计算来实现破解的方法？](https://www.v2ex.com/t/871754) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-08-09-要被老电脑逼疯了（吐槽-发泄-负能量）](https://www.v2ex.com/t/871736) ![](assets/new.png)  
 - [2022-08-09-Golang-中怎么获得接口中存储的数据指针？](https://www.v2ex.com/t/871734) ![](assets/new.png)  
 - [2022-08-09-你们最好的开发状态是什么时候?](https://www.v2ex.com/t/871733) ![](assets/new.png)  
-- [2022-08-09-利用-Windows-11-自带的效率模式把笔记本续航提升到-15-小时以上](https://www.v2ex.com/t/871732) ![](assets/new.png)  
-- [2022-08-09-怎么看自己发布的帖子](https://www.v2ex.com/t/871731) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -556,8 +556,8 @@
 - [2022-08-09-京东面试：MQ-消息丢失、重复、积压问题，如何解决？](https://toutiao.io/k/1unx53z) ![](assets/new.png)  
 - [2022-08-09-面试官：Redis-大-key-要如何处理？](https://toutiao.io/k/adi7th7) ![](assets/new.png)  
 - [2022-08-09-研发效能度量：单人效率考核内卷？](https://toutiao.io/k/k472bnu) ![](assets/new.png)  
-- [2022-08-09-任务流执行器是如何工作的？](https://toutiao.io/k/3udmds2) ![](assets/new.png)  
 - [2022-08-09-32-道-Spring-常见面试总结（附详细参考答案），我经常拿来面试别人](https://toutiao.io/k/vmbw17y) ![](assets/new.png)  
+- [2022-08-09-任务流执行器是如何工作的？](https://toutiao.io/k/3udmds2) ![](assets/new.png)  
 - [2022-08-09-JavaScript-二十年](https://toutiao.io/k/0ivl1h0) ![](assets/new.png)  
 - [2022-08-09-python命令行传递参数的两种方式！](https://toutiao.io/k/9r1cvll) ![](assets/new.png)  
 - [2022-08-09-深度剖析-Apache-EventMesh-云原生分布式事件驱动架构](https://toutiao.io/k/eelzcyt) ![](assets/new.png)  
@@ -572,7 +572,7 @@
 - [2022-08-09-Rust-解引用](https://toutiao.io/k/6n8jkdz) ![](assets/new.png)  
 - [2022-08-09-组件和依赖管理](https://toutiao.io/k/t2bdhfd) ![](assets/new.png)  
 - [2022-08-09-聊聊基于docker部署的mysql如何进行数据恢复](https://toutiao.io/k/fwmn8p8) ![](assets/new.png)  
-- [2022-08-09-推荐-研发过程中的文档管理与工具](https://toutiao.io/k/mdiqwn5) ![](assets/new.png)  
+- [2022-08-09-推荐-一文搞懂-Redis-架构演化之路](https://toutiao.io/k/cwwpjem) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

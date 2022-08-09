@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-09 16:57:13，:rocket: 更新条数: +2031， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-09 17:18:14，:rocket: 更新条数: +2031， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-08-09-各位大佬，想请教购买-mbp14-的问题（即等-m2-的-mbp14-还是现在买-14mbp-升级-64-内存+m1max24-核）](https://www.v2ex.com/t/871804) ![](assets/new.png)  
 - [2022-08-09-Android-调教的路已经消失再也不会回来了](https://www.v2ex.com/t/871803) ![](assets/new.png)  
 - [2022-08-09-关于-WIN10-更新后的-BUG](https://www.v2ex.com/t/871802) ![](assets/new.png)  
 - [2022-08-09-18-号线丹阳路地铁口/12-号线/4-号线-个人转租-电梯次卧-2850-燃气做饭-滨江跑步道-微信-19121678667](https://www.v2ex.com/t/871801) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-08-09-7-年前端求职，坐标青岛](https://www.v2ex.com/t/871782) ![](assets/new.png)  
 - [2022-08-09-在已知车辆的坐标、速度向量以及旋转的情况下，求出车辆的漂移角度？](https://www.v2ex.com/t/871779) ![](assets/new.png)  
 - [2022-08-09-Chrome-发起的-HTTP-的请求头-Accept-中有个-v=b3，它是干嘛的？](https://www.v2ex.com/t/871778) ![](assets/new.png)  
-- [2022-08-09-Windows/-Linux-版本-GoldenDict++OCR-3E11-支持-Apple-OSX-内置词典](https://www.v2ex.com/t/871777) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -572,7 +572,7 @@
 - [2022-08-09-Rust-解引用](https://toutiao.io/k/6n8jkdz) ![](assets/new.png)  
 - [2022-08-09-聊聊基于docker部署的mysql如何进行数据恢复](https://toutiao.io/k/fwmn8p8) ![](assets/new.png)  
 - [2022-08-09-组件和依赖管理](https://toutiao.io/k/t2bdhfd) ![](assets/new.png)  
-- [2022-08-09-推荐-老板：公司系统太多，能不能实现账号互通？](https://toutiao.io/k/g7sb904) ![](assets/new.png)  
+- [2022-08-09-推荐-一文搞懂-Redis-架构演化之路](https://toutiao.io/k/cwwpjem) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

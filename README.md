@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-09 21:40:07，:rocket: 更新条数: +2031， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-09 22:14:00，:rocket: 更新条数: +2030， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-08-09-IOS-能添导入-LRC-歌词吗](https://www.v2ex.com/t/871808) ![](assets/new.png)  
 - [2022-08-09-上海-桂林公园、南站附近-自如房子转租](https://www.v2ex.com/t/871806) ![](assets/new.png)  
 - [2022-08-09-现在买油车会不会有点儿-49-年入那啥的意思？](https://www.v2ex.com/t/871805) ![](assets/new.png)  
 - [2022-08-09-各位大佬，想请教购买-mbp14-的问题（即等-m2-的-mbp14-还是现在买-14mbp-升级-64-内存+m1max24-核）](https://www.v2ex.com/t/871804) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-08-09-电脑微信也能像-iPad-一样迁移手机端所有聊天记录了，再也不用坐在电脑前放着大屏电脑不去用去用小屏手机了。还能把手机-200GB-的聊天记录都迁移到电脑后再删除...](https://www.v2ex.com/t/871787) ![](assets/new.png)  
 - [2022-08-09-前端工程化简史](https://www.v2ex.com/t/871785) ![](assets/new.png)  
 - [2022-08-09-广州-Python-中、高级工程师招聘](https://www.v2ex.com/t/871783) ![](assets/new.png)  
-- [2022-08-09-7-年前端求职，坐标青岛](https://www.v2ex.com/t/871782) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -572,7 +572,7 @@
 - [2022-08-09-Rust-解引用](https://toutiao.io/k/6n8jkdz) ![](assets/new.png)  
 - [2022-08-09-聊聊基于docker部署的mysql如何进行数据恢复](https://toutiao.io/k/fwmn8p8) ![](assets/new.png)  
 - [2022-08-09-组件和依赖管理](https://toutiao.io/k/t2bdhfd) ![](assets/new.png)  
-- [2022-08-09-推荐-一文搞懂-Redis-架构演化之路](https://toutiao.io/k/cwwpjem) ![](assets/new.png)  
+- [2022-08-09-推荐-阿里云官方-Redis-开发规范！](https://toutiao.io/k/2fqcbfi) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

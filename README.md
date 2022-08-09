@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-09 07:38:37，:rocket: 更新条数: +2028， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-09 08:18:27，:rocket: 更新条数: +2028， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,16 @@
 </summary>
 
 
+- [2022-08-09-原创-Zbolg-一款好看的博客新闻资讯网站高端大气主题](https://www.v2ex.com/t/871707) ![](assets/new.png)  
+- [2022-08-09-有什么产品是支持-OCR-识别图书版权页的吗？](https://www.v2ex.com/t/871706) ![](assets/new.png)  
+- [2022-08-09-上海/杭州-前端两年工作经验求职](https://www.v2ex.com/t/871704) ![](assets/new.png)  
+- [2022-08-09-为-haraka-开发-api](https://www.v2ex.com/t/871703) ![](assets/new.png)  
+- [2022-08-09-企业知识管理除了使用目录和-Tag-进行知识的整理，有没有更好的方式？](https://www.v2ex.com/t/871702) ![](assets/new.png)  
+- [2022-08-09-关于提高老年人生活质量的二三事？](https://www.v2ex.com/t/871701) ![](assets/new.png)  
+- [2022-08-09-国产-TCL-电视有没有办法安装使用-Spotify](https://www.v2ex.com/t/871700) ![](assets/new.png)  
+- [2022-08-09-vim-无法使用-or-加载-vim-plug](https://www.v2ex.com/t/871699) ![](assets/new.png)  
+- [2022-08-09-现在学-UI-设计，好找工作吗？](https://www.v2ex.com/t/871698) ![](assets/new.png)  
+- [2022-08-09-0731-电信，想提升上传，有老哥做过不](https://www.v2ex.com/t/871697) ![](assets/new.png)  
 - [2022-08-09-mac-录屏-+-录制-AirPods-的声音](https://www.v2ex.com/t/871696) ![](assets/new.png)  
 - [2022-08-09-最近有没有云服务的优惠,最好时间长点的](https://www.v2ex.com/t/871694) ![](assets/new.png)  
 - [2022-08-09-Apple-官网买礼品卡最少-10-美金，某宝上哪些-2-美金-3-美金怎么来的呢？](https://www.v2ex.com/t/871692) ![](assets/new.png)  
@@ -501,16 +511,6 @@
 - [2022-08-09-在深圳的多少人银行卡冻结了](https://www.v2ex.com/t/871685) ![](assets/new.png)  
 - [2022-08-09-KeyboardHolder：-macOS-系统的输入法切换辅助工具](https://www.v2ex.com/t/871683) ![](assets/new.png)  
 - [2022-08-09-哄女朋友实战利器，节日仪式感天花板](https://www.v2ex.com/t/871682) ![](assets/new.png)  
-- [2022-08-09-腾讯云-3-年-150-块入坑，续费一个月-140，有没有便宜的续费途径](https://www.v2ex.com/t/871680) ![](assets/new.png)  
-- [2022-08-09-微博海外网页版无法登录---二维码-无法显示，证书问题。。。](https://www.v2ex.com/t/871679) ![](assets/new.png)  
-- [2022-08-09-大家上班时是如何摸鱼学英语的？](https://www.v2ex.com/t/871678) ![](assets/new.png)  
-- [2022-08-09-Azure-良心了，免费流量从-5G-提升到了-100G](https://www.v2ex.com/t/871677) ![](assets/new.png)  
-- [2022-08-09-推荐一个办公鼠，-orochi-v2-还是微软简约精准](https://www.v2ex.com/t/871676) ![](assets/new.png)  
-- [2022-08-09-网络游戏中买卖虚拟物品（如装备道具）被骗，算电信诈骗吗？](https://www.v2ex.com/t/871675) ![](assets/new.png)  
-- [2022-08-09-GoPlan-计划时间线-Web-版-v1.0-正式上线](https://www.v2ex.com/t/871674) ![](assets/new.png)  
-- [2022-08-09-Python-的-grpc-部署姿势是什么呢？](https://www.v2ex.com/t/871673) ![](assets/new.png)  
-- [2022-08-09-SafeNet-eToken-5100-签名-dll-文件速度慢怎么办？](https://www.v2ex.com/t/871672) ![](assets/new.png)  
-- [2022-08-09-（深圳/杭州/北京招聘）开源文化，让你有更多机会参与到开源项目-APISIX-中](https://www.v2ex.com/t/871670) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -572,7 +572,7 @@
 - [2022-08-09-Apache-Kvrocks分布式磁盘-Redis-发布-2.1.0-版本](https://toutiao.io/k/p2zjf0i) ![](assets/new.png)  
 - [2022-08-09-组件和依赖管理](https://toutiao.io/k/t2bdhfd) ![](assets/new.png)  
 - [2022-08-09-聊聊基于docker部署的mysql如何进行数据恢复](https://toutiao.io/k/fwmn8p8) ![](assets/new.png)  
-- [2022-08-09-推荐-老板：公司系统太多，能不能实现账号互通？](https://toutiao.io/k/g7sb904) ![](assets/new.png)  
+- [2022-08-09-推荐-研发过程中的文档管理与工具](https://toutiao.io/k/mdiqwn5) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

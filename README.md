@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-09 18:16:57，:rocket: 更新条数: +2031， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-09 18:46:50，:rocket: 更新条数: +2031， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -572,7 +572,7 @@
 - [2022-08-09-Rust-解引用](https://toutiao.io/k/6n8jkdz) ![](assets/new.png)  
 - [2022-08-09-聊聊基于docker部署的mysql如何进行数据恢复](https://toutiao.io/k/fwmn8p8) ![](assets/new.png)  
 - [2022-08-09-组件和依赖管理](https://toutiao.io/k/t2bdhfd) ![](assets/new.png)  
-- [2022-08-09-推荐-【大厂面试真题解析】虾皮-Shopee-后端一面十四问](https://toutiao.io/k/pol71im) ![](assets/new.png)  
+- [2022-08-09-推荐-研发过程中的文档管理与工具](https://toutiao.io/k/mdiqwn5) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

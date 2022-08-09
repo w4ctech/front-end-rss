@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-09 21:13:02，:rocket: 更新条数: +2006， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-09 21:40:07，:rocket: 更新条数: +2031， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -53,7 +53,7 @@
 - [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)![](assets/dot.png)   
-- [开发者头条](#开发者头条)  
+- [开发者头条](#开发者头条)![](assets/dot.png)   
 - [安全热点](#安全热点)  
 - [物联网智库](#物联网智库)  
 
@@ -553,6 +553,26 @@
 </summary>
 
 
+- [2022-08-09-京东面试：MQ-消息丢失、重复、积压问题，如何解决？](https://toutiao.io/k/1unx53z) ![](assets/new.png)  
+- [2022-08-09-面试官：Redis-大-key-要如何处理？](https://toutiao.io/k/adi7th7) ![](assets/new.png)  
+- [2022-08-09-研发效能度量：单人效率考核内卷？](https://toutiao.io/k/k472bnu) ![](assets/new.png)  
+- [2022-08-09-32-道-Spring-常见面试总结（附详细参考答案），我经常拿来面试别人](https://toutiao.io/k/vmbw17y) ![](assets/new.png)  
+- [2022-08-09-任务流执行器是如何工作的？](https://toutiao.io/k/3udmds2) ![](assets/new.png)  
+- [2022-08-09-JavaScript-二十年](https://toutiao.io/k/0ivl1h0) ![](assets/new.png)  
+- [2022-08-09-python命令行传递参数的两种方式！](https://toutiao.io/k/9r1cvll) ![](assets/new.png)  
+- [2022-08-09-深度剖析-Apache-EventMesh-云原生分布式事件驱动架构](https://toutiao.io/k/eelzcyt) ![](assets/new.png)  
+- [2022-08-09-Apache-Kvrocks分布式磁盘-Redis-发布-2.1.0-版本](https://toutiao.io/k/p2zjf0i) ![](assets/new.png)  
+- [2022-08-09-说一下：运行-npm-run-xxx-的时候发生了什么？](https://toutiao.io/k/vpij4ii) ![](assets/new.png)  
+- [2022-08-09-Kaggle知识点：时序预测基础知识](https://toutiao.io/k/dr8t455) ![](assets/new.png)  
+- [2022-08-09-StarRocks-技术内幕-|-基于全局字典的极速字符串查询](https://toutiao.io/k/uurh4h1) ![](assets/new.png)  
+- [2022-08-09-Android-13：一文看懂两大重磅升级](https://toutiao.io/k/tp5oyul) ![](assets/new.png)  
+- [2022-08-09-动真格！交管部门严查“分心驾驶”背后的技术原理](https://toutiao.io/k/cgzwwza) ![](assets/new.png)  
+- [2022-08-09-Fury：一个基于JIT动态编译的高性能多语言原生序列化框架](https://toutiao.io/k/t4xruyc) ![](assets/new.png)  
+- [2022-08-09-6-个你必须明白-Vue3-的-ref-和-reactive-问题（入门篇）](https://toutiao.io/k/276cmeu) ![](assets/new.png)  
+- [2022-08-09-Rust-解引用](https://toutiao.io/k/6n8jkdz) ![](assets/new.png)  
+- [2022-08-09-聊聊基于docker部署的mysql如何进行数据恢复](https://toutiao.io/k/fwmn8p8) ![](assets/new.png)  
+- [2022-08-09-组件和依赖管理](https://toutiao.io/k/t2bdhfd) ![](assets/new.png)  
+- [2022-08-09-推荐-一文搞懂-Redis-架构演化之路](https://toutiao.io/k/cwwpjem) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

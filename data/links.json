@@ -10265,7 +10265,133 @@
     "rss": "https://front-rss.herokuapp.com/toutiao/today",
     "title": "开发者头条",
     "link": "https://toutiao.io",
-    "items": []
+    "items": [
+      {
+        "title": "京东面试：MQ 消息丢失、重复、积压问题，如何解决？",
+        "link": "https://toutiao.io/k/1unx53z",
+        "date": "2022-08-09"
+      },
+      {
+        "title": "面试官：Redis 大 key 要如何处理？",
+        "link": "https://toutiao.io/k/adi7th7",
+        "date": "2022-08-09"
+      },
+      {
+        "title": "研发效能度量：单人效率考核内卷？",
+        "link": "https://toutiao.io/k/k472bnu",
+        "date": "2022-08-09"
+      },
+      {
+        "title": "32 道 Spring 常见面试总结（附详细参考答案），我经常拿来面试别人",
+        "link": "https://toutiao.io/k/vmbw17y",
+        "date": "2022-08-09"
+      },
+      {
+        "title": "任务流执行器是如何工作的？",
+        "link": "https://toutiao.io/k/3udmds2",
+        "date": "2022-08-09"
+      },
+      {
+        "title": "JavaScript 二十年",
+        "link": "https://toutiao.io/k/0ivl1h0",
+        "date": "2022-08-09"
+      },
+      {
+        "title": "python命令行传递参数的两种方式！",
+        "link": "https://toutiao.io/k/9r1cvll",
+        "date": "2022-08-09"
+      },
+      {
+        "title": "深度剖析 Apache EventMesh 云原生分布式事件驱动架构",
+        "link": "https://toutiao.io/k/eelzcyt",
+        "date": "2022-08-09"
+      },
+      {
+        "title": "Apache Kvrocks(分布式磁盘 Redis) 发布 2.1.0 版本",
+        "link": "https://toutiao.io/k/p2zjf0i",
+        "date": "2022-08-09"
+      },
+      {
+        "title": "说一下：运行 npm run xxx 的时候发生了什么？",
+        "link": "https://toutiao.io/k/vpij4ii",
+        "date": "2022-08-09"
+      },
+      {
+        "title": "Kaggle知识点：时序预测基础知识",
+        "link": "https://toutiao.io/k/dr8t455",
+        "date": "2022-08-09"
+      },
+      {
+        "title": "StarRocks 技术内幕 | 基于全局字典的极速字符串查询",
+        "link": "https://toutiao.io/k/uurh4h1",
+        "date": "2022-08-09"
+      },
+      {
+        "title": "Android 13：一文看懂两大重磅升级",
+        "link": "https://toutiao.io/k/tp5oyul",
+        "date": "2022-08-09"
+      },
+      {
+        "title": "动真格！交管部门严查“分心驾驶”背后的技术原理",
+        "link": "https://toutiao.io/k/cgzwwza",
+        "date": "2022-08-09"
+      },
+      {
+        "title": "Fury：一个基于JIT动态编译的高性能多语言原生序列化框架",
+        "link": "https://toutiao.io/k/t4xruyc",
+        "date": "2022-08-09"
+      },
+      {
+        "title": "6 个你必须明白 Vue3 的 ref 和 reactive 问题（入门篇）",
+        "link": "https://toutiao.io/k/276cmeu",
+        "date": "2022-08-09"
+      },
+      {
+        "title": "Rust 解引用",
+        "link": "https://toutiao.io/k/6n8jkdz",
+        "date": "2022-08-09"
+      },
+      {
+        "title": "聊聊基于docker部署的mysql如何进行数据恢复",
+        "link": "https://toutiao.io/k/fwmn8p8",
+        "date": "2022-08-09"
+      },
+      {
+        "title": "组件和依赖管理",
+        "link": "https://toutiao.io/k/t2bdhfd",
+        "date": "2022-08-09"
+      },
+      {
+        "title": "[推荐] 一文搞懂 Redis 架构演化之路",
+        "link": "https://toutiao.io/k/cwwpjem",
+        "date": "2022-08-09"
+      },
+      {
+        "title": "[推荐] 【大厂面试真题解析】虾皮 Shopee 后端一面十四问",
+        "link": "https://toutiao.io/k/pol71im",
+        "date": "2022-08-09"
+      },
+      {
+        "title": "[推荐] 研发过程中的文档管理与工具",
+        "link": "https://toutiao.io/k/mdiqwn5",
+        "date": "2022-08-09"
+      },
+      {
+        "title": "[推荐] 阿里云官方 Redis 开发规范！",
+        "link": "https://toutiao.io/k/2fqcbfi",
+        "date": "2022-08-09"
+      },
+      {
+        "title": "[推荐] Java 大后端各种架构图汇总（建议收藏！！）",
+        "link": "https://toutiao.io/k/dvo6z1w",
+        "date": "2022-08-09"
+      },
+      {
+        "title": "[推荐] 老板：公司系统太多，能不能实现账号互通？",
+        "link": "https://toutiao.io/k/g7sb904",
+        "date": "2022-08-09"
+      }
+    ]
   },
   {
     "rss": "https://sec.thief.one/atom.xml",

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-09 10:17:16，:rocket: 更新条数: +2033， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-09 10:44:42，:rocket: 更新条数: +2031， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,9 @@
 </summary>
 
 
+- [2022-08-09-怎么可以把-chrome-的历史记录保存久一点](https://www.v2ex.com/t/871751) ![](assets/new.png)  
+- [2022-08-09-初中不让带手机，有没有待机长，支持微信对话，支付，日常用的学生手表](https://www.v2ex.com/t/871750) ![](assets/new.png)  
+- [2022-08-09-朋友们身边有没有初创团队从开发-app-转小程序的！想聊聊这个事儿](https://www.v2ex.com/t/871748) ![](assets/new.png)  
 - [2022-08-09-ES-搜索内容过多，分词后命中了不是想用的-token](https://www.v2ex.com/t/871747) ![](assets/new.png)  
 - [2022-08-09-简书已经堕落成这样了吗，小说网站？](https://www.v2ex.com/t/871744) ![](assets/new.png)  
 - [2022-08-09-广州周围有狗舍推荐么，想养一只柯基](https://www.v2ex.com/t/871742) ![](assets/new.png)  
@@ -508,9 +511,6 @@
 - [2022-08-09-观-七夕之前女生每天都会主动聊天,七夕后约我吃饭我没任何表示，之后就没有之前那样找我聊天了-有感](https://www.v2ex.com/t/871729) ![](assets/new.png)  
 - [2022-08-09-没有时间机器备份，如何从-macOS-Ventura-降级为-Monterey？](https://www.v2ex.com/t/871728) ![](assets/new.png)  
 - [2022-08-09-甜甜圈理论](https://www.v2ex.com/t/871727) ![](assets/new.png)  
-- [2022-08-09-微信小程序应该如何保证用户登录状态呢？](https://www.v2ex.com/t/871726) ![](assets/new.png)  
-- [2022-08-09-腾讯云-CloudBase-任意修改计费规则，建议大家能不用就不用](https://www.v2ex.com/t/871725) ![](assets/new.png)  
-- [2022-08-09-Win11-的-WSA-貌似无法长时间稳定运行](https://www.v2ex.com/t/871724) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -564,15 +564,15 @@
 - [2022-08-09-说一下：运行-npm-run-xxx-的时候发生了什么？](https://toutiao.io/k/vpij4ii) ![](assets/new.png)  
 - [2022-08-09-Kaggle知识点：时序预测基础知识](https://toutiao.io/k/dr8t455) ![](assets/new.png)  
 - [2022-08-09-StarRocks-技术内幕-|-基于全局字典的极速字符串查询](https://toutiao.io/k/uurh4h1) ![](assets/new.png)  
+- [2022-08-09-Apache-Kvrocks分布式磁盘-Redis-发布-2.1.0-版本](https://toutiao.io/k/p2zjf0i) ![](assets/new.png)  
 - [2022-08-09-Android-13：一文看懂两大重磅升级](https://toutiao.io/k/tp5oyul) ![](assets/new.png)  
 - [2022-08-09-动真格！交管部门严查“分心驾驶”背后的技术原理](https://toutiao.io/k/cgzwwza) ![](assets/new.png)  
-- [2022-08-09-Apache-Kvrocks分布式磁盘-Redis-发布-2.1.0-版本](https://toutiao.io/k/p2zjf0i) ![](assets/new.png)  
 - [2022-08-09-6-个你必须明白-Vue3-的-ref-和-reactive-问题（入门篇）](https://toutiao.io/k/276cmeu) ![](assets/new.png)  
 - [2022-08-09-Fury：一个基于JIT动态编译的高性能多语言原生序列化框架](https://toutiao.io/k/t4xruyc) ![](assets/new.png)  
 - [2022-08-09-Rust-解引用](https://toutiao.io/k/6n8jkdz) ![](assets/new.png)  
 - [2022-08-09-组件和依赖管理](https://toutiao.io/k/t2bdhfd) ![](assets/new.png)  
 - [2022-08-09-聊聊基于docker部署的mysql如何进行数据恢复](https://toutiao.io/k/fwmn8p8) ![](assets/new.png)  
-- [2022-08-09-推荐-老板：公司系统太多，能不能实现账号互通？](https://toutiao.io/k/g7sb904) ![](assets/new.png)  
+- [2022-08-09-推荐-研发过程中的文档管理与工具](https://toutiao.io/k/mdiqwn5) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

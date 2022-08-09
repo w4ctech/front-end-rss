@@ -9953,6 +9953,41 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "Windows/ Linux 版本 GoldenDict++OCR-3E11 支持 Apple OSX 内置词典",
+        "link": "https://www.v2ex.com/t/871777",
+        "date": "2022-08-09"
+      },
+      {
+        "title": "Azure 免费流量为什么这么少（100G），流量为什么这么贵",
+        "link": "https://www.v2ex.com/t/871776",
+        "date": "2022-08-09"
+      },
+      {
+        "title": "快饿死了,求一份后端工作,坐标苏州",
+        "link": "https://www.v2ex.com/t/871775",
+        "date": "2022-08-09"
+      },
+      {
+        "title": "分享一个在 NAT1 下将端口打开到公网上的方法",
+        "link": "https://www.v2ex.com/t/871773",
+        "date": "2022-08-09"
+      },
+      {
+        "title": "有个创业思路，帮助传统企业做数据化转型，想讨论下？",
+        "link": "https://www.v2ex.com/t/871771",
+        "date": "2022-08-09"
+      },
+      {
+        "title": "有在香港 IT 工作的朋友吗？希望能认识一下",
+        "link": "https://www.v2ex.com/t/871770",
+        "date": "2022-08-09"
+      },
+      {
+        "title": "[求助贴] openwrt 中 passwall 使用自建节点无法访问",
+        "link": "https://www.v2ex.com/t/871769",
+        "date": "2022-08-09"
+      },
+      {
         "title": "一个 B 站（哔哩哔哩 bilibili）网页暗色/黑夜模式的浏览器插件",
         "link": "https://www.v2ex.com/t/871768",
         "date": "2022-08-09"
@@ -10121,46 +10156,6 @@
         "title": "没有时间机器备份，如何从 macOS Ventura 降级为 Monterey？",
         "link": "https://www.v2ex.com/t/871728",
         "date": "2022-08-09"
-      },
-      {
-        "title": "甜甜圈理论",
-        "link": "https://www.v2ex.com/t/871727",
-        "date": "2022-08-09"
-      },
-      {
-        "title": "微信小程序应该如何保证用户登录状态呢？",
-        "link": "https://www.v2ex.com/t/871726",
-        "date": "2022-08-09"
-      },
-      {
-        "title": "腾讯云 CloudBase 任意修改计费规则，建议大家能不用就不用",
-        "link": "https://www.v2ex.com/t/871725",
-        "date": "2022-08-09"
-      },
-      {
-        "title": "Win11 的 WSA 貌似无法长时间稳定运行",
-        "link": "https://www.v2ex.com/t/871724",
-        "date": "2022-08-09"
-      },
-      {
-        "title": "Parallels Desktop 已经有 18 了",
-        "link": "https://www.v2ex.com/t/871722",
-        "date": "2022-08-09"
-      },
-      {
-        "title": "阿里邮箱的 2T 网盘有啥用吗",
-        "link": "https://www.v2ex.com/t/871721",
-        "date": "2022-08-09"
-      },
-      {
-        "title": "慎用美团钱包---1 个含有近千元资金的美团账户不翼而飞的故事",
-        "link": "https://www.v2ex.com/t/871720",
-        "date": "2022-08-09"
-      },
-      {
-        "title": "这种生活方式是不是废了",
-        "link": "https://www.v2ex.com/t/871719",
-        "date": "2022-08-09"
       }
     ]
   },
@@ -10317,13 +10312,13 @@
         "date": "2022-08-09"
       },
       {
-        "title": "说一下：运行 npm run xxx 的时候发生了什么？",
-        "link": "https://toutiao.io/k/vpij4ii",
+        "title": "Apache Kvrocks(分布式磁盘 Redis) 发布 2.1.0 版本",
+        "link": "https://toutiao.io/k/p2zjf0i",
         "date": "2022-08-09"
       },
       {
-        "title": "Apache Kvrocks(分布式磁盘 Redis) 发布 2.1.0 版本",
-        "link": "https://toutiao.io/k/p2zjf0i",
+        "title": "说一下：运行 npm run xxx 的时候发生了什么？",
+        "link": "https://toutiao.io/k/vpij4ii",
         "date": "2022-08-09"
       },
       {
@@ -10342,8 +10337,8 @@
         "date": "2022-08-09"
       },
       {
-        "title": "动真格！交管部门严查“分心驾驶”背后的技术原理",
-        "link": "https://toutiao.io/k/cgzwwza",
+        "title": "Fury：一个基于JIT动态编译的高性能多语言原生序列化框架",
+        "link": "https://toutiao.io/k/t4xruyc",
         "date": "2022-08-09"
       },
       {
@@ -10352,8 +10347,8 @@
         "date": "2022-08-09"
       },
       {
-        "title": "Fury：一个基于JIT动态编译的高性能多语言原生序列化框架",
-        "link": "https://toutiao.io/k/t4xruyc",
+        "title": "动真格！交管部门严查“分心驾驶”背后的技术原理",
+        "link": "https://toutiao.io/k/cgzwwza",
         "date": "2022-08-09"
       },
       {
@@ -10369,6 +10364,16 @@
       {
         "title": "聊聊基于docker部署的mysql如何进行数据恢复",
         "link": "https://toutiao.io/k/fwmn8p8",
+        "date": "2022-08-09"
+      },
+      {
+        "title": "[推荐] 阿里云官方 Redis 开发规范！",
+        "link": "https://toutiao.io/k/2fqcbfi",
+        "date": "2022-08-09"
+      },
+      {
+        "title": "[推荐] 研发过程中的文档管理与工具",
+        "link": "https://toutiao.io/k/mdiqwn5",
         "date": "2022-08-09"
       },
       {
@@ -10389,16 +10394,6 @@
       {
         "title": "[推荐] 老板：公司系统太多，能不能实现账号互通？",
         "link": "https://toutiao.io/k/g7sb904",
-        "date": "2022-08-09"
-      },
-      {
-        "title": "[推荐] 阿里云官方 Redis 开发规范！",
-        "link": "https://toutiao.io/k/2fqcbfi",
-        "date": "2022-08-09"
-      },
-      {
-        "title": "[推荐] 研发过程中的文档管理与工具",
-        "link": "https://toutiao.io/k/mdiqwn5",
         "date": "2022-08-09"
       }
     ]

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-08-09 12:29:50。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-08-09 13:24:26。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,13 @@
 </summary>
 
 
+- [【V2EX】2022-08-09-Windows/-Linux-版本-GoldenDict++OCR-3E11-支持-Apple-OSX-内置词典](https://www.v2ex.com/t/871777) 
+- [【V2EX】2022-08-09-Azure-免费流量为什么这么少（100G），流量为什么这么贵](https://www.v2ex.com/t/871776) 
+- [【V2EX】2022-08-09-快饿死了,求一份后端工作,坐标苏州](https://www.v2ex.com/t/871775) 
+- [【V2EX】2022-08-09-分享一个在-NAT1-下将端口打开到公网上的方法](https://www.v2ex.com/t/871773) 
+- [【V2EX】2022-08-09-有个创业思路，帮助传统企业做数据化转型，想讨论下？](https://www.v2ex.com/t/871771) 
+- [【V2EX】2022-08-09-有在香港-IT-工作的朋友吗？希望能认识一下](https://www.v2ex.com/t/871770) 
+- [【V2EX】2022-08-09-求助贴-openwrt-中-passwall-使用自建节点无法访问](https://www.v2ex.com/t/871769) 
 - [【V2EX】2022-08-09-一个-B-站（哔哩哔哩-bilibili）网页暗色/黑夜模式的浏览器插件](https://www.v2ex.com/t/871768) 
 - [【V2EX】2022-08-09-请问一下，自己开发的-web-网站想要部分功能收费，涉及到支付，国内需要去注册公司主体吗](https://www.v2ex.com/t/871767) 
 - [【V2EX】2022-08-09-求职业培训视频加速插件](https://www.v2ex.com/t/871766) 
@@ -102,14 +109,6 @@
 - [【V2EX】2022-08-09-数据库选型问题请教各位大佬，大佬们帮帮忙！](https://www.v2ex.com/t/871730) 
 - [【V2EX】2022-08-09-观-七夕之前女生每天都会主动聊天,七夕后约我吃饭我没任何表示，之后就没有之前那样找我聊天了-有感](https://www.v2ex.com/t/871729) 
 - [【V2EX】2022-08-09-没有时间机器备份，如何从-macOS-Ventura-降级为-Monterey？](https://www.v2ex.com/t/871728) 
-- [【V2EX】2022-08-09-甜甜圈理论](https://www.v2ex.com/t/871727) 
-- [【V2EX】2022-08-09-微信小程序应该如何保证用户登录状态呢？](https://www.v2ex.com/t/871726) 
-- [【V2EX】2022-08-09-腾讯云-CloudBase-任意修改计费规则，建议大家能不用就不用](https://www.v2ex.com/t/871725) 
-- [【V2EX】2022-08-09-Win11-的-WSA-貌似无法长时间稳定运行](https://www.v2ex.com/t/871724) 
-- [【V2EX】2022-08-09-Parallels-Desktop-已经有-18-了](https://www.v2ex.com/t/871722) 
-- [【V2EX】2022-08-09-阿里邮箱的-2T-网盘有啥用吗](https://www.v2ex.com/t/871721) 
-- [【V2EX】2022-08-09-慎用美团钱包---1-个含有近千元资金的美团账户不翼而飞的故事](https://www.v2ex.com/t/871720) 
-- [【V2EX】2022-08-09-这种生活方式是不是废了](https://www.v2ex.com/t/871719) 
 - [【技术头条】2022-08-09-BFF避坑指南-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15281&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fbackends-for-frontends%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-08-09-40年前的操作系统复活了，当年Linux、Windows都借鉴过！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15280&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494410%26amp%3Bidx%3D1%26amp%3Bsn%3D6573f0c124bcd2e20c39c33d3e516526%26amp%3Bchksm%3Dfa3f0a51cd4883479817eb189805d7dfe98436addb3e47a267f25bc3cdefefbb56aeab56e7b4%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-08-09-Spring注入Bean的七种方式-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15279&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494410%26amp%3Bidx%3D2%26amp%3Bsn%3D86e311bf8e60434edd3b60be3230e3e4%26amp%3Bchksm%3Dfa3f0a51cd4883473339fccf0f251b3cc4c5a5a9f85f2f196440fc0b3b75708c184391752aed%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -138,23 +137,23 @@
 - [【开发者头条】2022-08-09-JavaScript-二十年](https://toutiao.io/k/0ivl1h0) 
 - [【开发者头条】2022-08-09-python命令行传递参数的两种方式！](https://toutiao.io/k/9r1cvll) 
 - [【开发者头条】2022-08-09-深度剖析-Apache-EventMesh-云原生分布式事件驱动架构](https://toutiao.io/k/eelzcyt) 
-- [【开发者头条】2022-08-09-说一下：运行-npm-run-xxx-的时候发生了什么？](https://toutiao.io/k/vpij4ii) 
 - [【开发者头条】2022-08-09-Apache-Kvrocks分布式磁盘-Redis-发布-2.1.0-版本](https://toutiao.io/k/p2zjf0i) 
+- [【开发者头条】2022-08-09-说一下：运行-npm-run-xxx-的时候发生了什么？](https://toutiao.io/k/vpij4ii) 
 - [【开发者头条】2022-08-09-Kaggle知识点：时序预测基础知识](https://toutiao.io/k/dr8t455) 
 - [【开发者头条】2022-08-09-StarRocks-技术内幕-|-基于全局字典的极速字符串查询](https://toutiao.io/k/uurh4h1) 
 - [【开发者头条】2022-08-09-Android-13：一文看懂两大重磅升级](https://toutiao.io/k/tp5oyul) 
-- [【开发者头条】2022-08-09-动真格！交管部门严查“分心驾驶”背后的技术原理](https://toutiao.io/k/cgzwwza) 
-- [【开发者头条】2022-08-09-6-个你必须明白-Vue3-的-ref-和-reactive-问题（入门篇）](https://toutiao.io/k/276cmeu) 
 - [【开发者头条】2022-08-09-Fury：一个基于JIT动态编译的高性能多语言原生序列化框架](https://toutiao.io/k/t4xruyc) 
+- [【开发者头条】2022-08-09-6-个你必须明白-Vue3-的-ref-和-reactive-问题（入门篇）](https://toutiao.io/k/276cmeu) 
+- [【开发者头条】2022-08-09-动真格！交管部门严查“分心驾驶”背后的技术原理](https://toutiao.io/k/cgzwwza) 
 - [【开发者头条】2022-08-09-Rust-解引用](https://toutiao.io/k/6n8jkdz) 
 - [【开发者头条】2022-08-09-组件和依赖管理](https://toutiao.io/k/t2bdhfd) 
 - [【开发者头条】2022-08-09-聊聊基于docker部署的mysql如何进行数据恢复](https://toutiao.io/k/fwmn8p8) 
+- [【开发者头条】2022-08-09-推荐-阿里云官方-Redis-开发规范！](https://toutiao.io/k/2fqcbfi) 
+- [【开发者头条】2022-08-09-推荐-研发过程中的文档管理与工具](https://toutiao.io/k/mdiqwn5) 
 - [【开发者头条】2022-08-09-推荐-一文搞懂-Redis-架构演化之路](https://toutiao.io/k/cwwpjem) 
 - [【开发者头条】2022-08-09-推荐-Java-大后端各种架构图汇总（建议收藏！！）](https://toutiao.io/k/dvo6z1w) 
 - [【开发者头条】2022-08-09-推荐-【大厂面试真题解析】虾皮-Shopee-后端一面十四问](https://toutiao.io/k/pol71im) 
 - [【开发者头条】2022-08-09-推荐-老板：公司系统太多，能不能实现账号互通？](https://toutiao.io/k/g7sb904) 
-- [【开发者头条】2022-08-09-推荐-阿里云官方-Redis-开发规范！](https://toutiao.io/k/2fqcbfi) 
-- [【开发者头条】2022-08-09-推荐-研发过程中的文档管理与工具](https://toutiao.io/k/mdiqwn5) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

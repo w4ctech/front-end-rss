@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-09 13:24:26，:rocket: 更新条数: +2032， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-09 14:04:35，:rocket: 更新条数: +2029， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,10 @@
 </summary>
 
 
+- [2022-08-09-广州-Python-中、高级工程师招聘](https://www.v2ex.com/t/871783) ![](assets/new.png)  
+- [2022-08-09-7-年前端求职，坐标青岛](https://www.v2ex.com/t/871782) ![](assets/new.png)  
+- [2022-08-09-在已知车辆的坐标、速度向量以及旋转的情况下，求出车辆的漂移角度？](https://www.v2ex.com/t/871779) ![](assets/new.png)  
+- [2022-08-09-Chrome-发起的-HTTP-的请求头-Accept-中有个-v=b3，它是干嘛的？](https://www.v2ex.com/t/871778) ![](assets/new.png)  
 - [2022-08-09-Windows/-Linux-版本-GoldenDict++OCR-3E11-支持-Apple-OSX-内置词典](https://www.v2ex.com/t/871777) ![](assets/new.png)  
 - [2022-08-09-Azure-免费流量为什么这么少（100G），流量为什么这么贵](https://www.v2ex.com/t/871776) ![](assets/new.png)  
 - [2022-08-09-快饿死了,求一份后端工作,坐标苏州](https://www.v2ex.com/t/871775) ![](assets/new.png)  
@@ -507,10 +511,6 @@
 - [2022-08-09-唱吧-怎么要集体搬迁到成都了](https://www.v2ex.com/t/871761) ![](assets/new.png)  
 - [2022-08-09-正常-v6-获取到应该通了吧](https://www.v2ex.com/t/871760) ![](assets/new.png)  
 - [2022-08-09-关于有-13-岁-以下儿童家庭共享的问题，感觉进入-Apple-的死循环了。](https://www.v2ex.com/t/871759) ![](assets/new.png)  
-- [2022-08-09-求电脑版微信记录导出](https://www.v2ex.com/t/871758) ![](assets/new.png)  
-- [2022-08-09-九月份的-Jasper-和-Banff](https://www.v2ex.com/t/871757) ![](assets/new.png)  
-- [2022-08-09-做了个类似-utools-的开源工具箱，扩展更多可能性！](https://www.v2ex.com/t/871756) ![](assets/new.png)  
-- [2022-08-09-开了一个新的生存服务器，现在测试欢迎开荒](https://www.v2ex.com/t/871755) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -572,7 +572,7 @@
 - [2022-08-09-Rust-解引用](https://toutiao.io/k/6n8jkdz) ![](assets/new.png)  
 - [2022-08-09-组件和依赖管理](https://toutiao.io/k/t2bdhfd) ![](assets/new.png)  
 - [2022-08-09-聊聊基于docker部署的mysql如何进行数据恢复](https://toutiao.io/k/fwmn8p8) ![](assets/new.png)  
-- [2022-08-09-推荐-阿里云官方-Redis-开发规范！](https://toutiao.io/k/2fqcbfi) ![](assets/new.png)  
+- [2022-08-09-推荐-研发过程中的文档管理与工具](https://toutiao.io/k/mdiqwn5) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

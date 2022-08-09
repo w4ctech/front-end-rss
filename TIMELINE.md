@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-08-09 08:18:27。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-08-09 08:45:17。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,9 @@
 </summary>
 
 
+- [【V2EX】2022-08-09-服务器开机负载-50%,咋定位问题啊?](https://www.v2ex.com/t/871710) 
+- [【V2EX】2022-08-09-求-多屏-多视频-同步控制播放-方案？](https://www.v2ex.com/t/871709) 
+- [【V2EX】2022-08-09-Parallels-Desktop-18-来了](https://www.v2ex.com/t/871708) 
 - [【V2EX】2022-08-09-原创-Zbolg-一款好看的博客新闻资讯网站高端大气主题](https://www.v2ex.com/t/871707) 
 - [【V2EX】2022-08-09-有什么产品是支持-OCR-识别图书版权页的吗？](https://www.v2ex.com/t/871706) 
 - [【V2EX】2022-08-09-上海/杭州-前端两年工作经验求职](https://www.v2ex.com/t/871704) 
@@ -104,7 +107,6 @@
 - [【V2EX】2022-08-09-华为-p40-锁了，能解吗](https://www.v2ex.com/t/871664) 
 - [【V2EX】2022-08-09-有哪个框架能简单实现或怎么不使用框架实现在-URL-中传递“语言”](https://www.v2ex.com/t/871662) 
 - [【V2EX】2022-08-09-大家的家宽公网-IP-怎么玩](https://www.v2ex.com/t/871661) 
-- [【V2EX】2022-08-09-除了-touchid，-macos-有什么快速解锁的方式？](https://www.v2ex.com/t/871659) 
 - [【技术头条】2022-08-09-BFF避坑指南-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15281&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fbackends-for-frontends%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-08-09-40年前的操作系统复活了，当年Linux、Windows都借鉴过！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15280&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494410%26amp%3Bidx%3D1%26amp%3Bsn%3D6573f0c124bcd2e20c39c33d3e516526%26amp%3Bchksm%3Dfa3f0a51cd4883479817eb189805d7dfe98436addb3e47a267f25bc3cdefefbb56aeab56e7b4%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-08-09-Spring注入Bean的七种方式-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15279&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494410%26amp%3Bidx%3D2%26amp%3Bsn%3D86e311bf8e60434edd3b60be3230e3e4%26amp%3Bchksm%3Dfa3f0a51cd4883473339fccf0f251b3cc4c5a5a9f85f2f196440fc0b3b75708c184391752aed%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -144,12 +146,12 @@
 - [【开发者头条】2022-08-09-Apache-Kvrocks分布式磁盘-Redis-发布-2.1.0-版本](https://toutiao.io/k/p2zjf0i) 
 - [【开发者头条】2022-08-09-组件和依赖管理](https://toutiao.io/k/t2bdhfd) 
 - [【开发者头条】2022-08-09-聊聊基于docker部署的mysql如何进行数据恢复](https://toutiao.io/k/fwmn8p8) 
-- [【开发者头条】2022-08-09-推荐-研发过程中的文档管理与工具](https://toutiao.io/k/mdiqwn5) 
-- [【开发者头条】2022-08-09-推荐-【大厂面试真题解析】虾皮-Shopee-后端一面十四问](https://toutiao.io/k/pol71im) 
-- [【开发者头条】2022-08-09-推荐-老板：公司系统太多，能不能实现账号互通？](https://toutiao.io/k/g7sb904) 
-- [【开发者头条】2022-08-09-推荐-一文搞懂-Redis-架构演化之路](https://toutiao.io/k/cwwpjem) 
 - [【开发者头条】2022-08-09-推荐-Java-大后端各种架构图汇总（建议收藏！！）](https://toutiao.io/k/dvo6z1w) 
 - [【开发者头条】2022-08-09-推荐-阿里云官方-Redis-开发规范！](https://toutiao.io/k/2fqcbfi) 
+- [【开发者头条】2022-08-09-推荐-老板：公司系统太多，能不能实现账号互通？](https://toutiao.io/k/g7sb904) 
+- [【开发者头条】2022-08-09-推荐-【大厂面试真题解析】虾皮-Shopee-后端一面十四问](https://toutiao.io/k/pol71im) 
+- [【开发者头条】2022-08-09-推荐-一文搞懂-Redis-架构演化之路](https://toutiao.io/k/cwwpjem) 
+- [【开发者头条】2022-08-09-推荐-研发过程中的文档管理与工具](https://toutiao.io/k/mdiqwn5) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

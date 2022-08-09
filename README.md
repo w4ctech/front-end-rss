@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-09 08:18:27，:rocket: 更新条数: +2028， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-09 08:45:17，:rocket: 更新条数: +2030， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,9 @@
 </summary>
 
 
+- [2022-08-09-服务器开机负载-50%,咋定位问题啊?](https://www.v2ex.com/t/871710) ![](assets/new.png)  
+- [2022-08-09-求-多屏-多视频-同步控制播放-方案？](https://www.v2ex.com/t/871709) ![](assets/new.png)  
+- [2022-08-09-Parallels-Desktop-18-来了](https://www.v2ex.com/t/871708) ![](assets/new.png)  
 - [2022-08-09-原创-Zbolg-一款好看的博客新闻资讯网站高端大气主题](https://www.v2ex.com/t/871707) ![](assets/new.png)  
 - [2022-08-09-有什么产品是支持-OCR-识别图书版权页的吗？](https://www.v2ex.com/t/871706) ![](assets/new.png)  
 - [2022-08-09-上海/杭州-前端两年工作经验求职](https://www.v2ex.com/t/871704) ![](assets/new.png)  
@@ -508,9 +511,6 @@
 - [2022-08-09-m2-air-还是-14-寸-pro?-Java-后端](https://www.v2ex.com/t/871690) ![](assets/new.png)  
 - [2022-08-09-关于-spacevim-社区支持能力和-star-数不匹配的一点疑惑](https://www.v2ex.com/t/871688) ![](assets/new.png)  
 - [2022-08-09-安卓有没有那种隐匿移动设备关于基站行踪的模块](https://www.v2ex.com/t/871686) ![](assets/new.png)  
-- [2022-08-09-在深圳的多少人银行卡冻结了](https://www.v2ex.com/t/871685) ![](assets/new.png)  
-- [2022-08-09-KeyboardHolder：-macOS-系统的输入法切换辅助工具](https://www.v2ex.com/t/871683) ![](assets/new.png)  
-- [2022-08-09-哄女朋友实战利器，节日仪式感天花板](https://www.v2ex.com/t/871682) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -572,7 +572,7 @@
 - [2022-08-09-Apache-Kvrocks分布式磁盘-Redis-发布-2.1.0-版本](https://toutiao.io/k/p2zjf0i) ![](assets/new.png)  
 - [2022-08-09-组件和依赖管理](https://toutiao.io/k/t2bdhfd) ![](assets/new.png)  
 - [2022-08-09-聊聊基于docker部署的mysql如何进行数据恢复](https://toutiao.io/k/fwmn8p8) ![](assets/new.png)  
-- [2022-08-09-推荐-研发过程中的文档管理与工具](https://toutiao.io/k/mdiqwn5) ![](assets/new.png)  
+- [2022-08-09-推荐-Java-大后端各种架构图汇总（建议收藏！！）](https://toutiao.io/k/dvo6z1w) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

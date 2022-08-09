@@ -11,11 +11,11 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-09 09:41:48，:rocket: 更新条数: +96， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-09 10:17:16，:rocket: 更新条数: +2033， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
@@ -65,6 +65,26 @@
 </summary>
 
 
+- [2022-03-11-新冠肺炎防疫全纪录（实时更新中）](https://mappv5.caixin.com/m_topic_detail/1696.html) ![](assets/new.png)  
+- [2022-03-10-吉林一校园现聚集性疫情-党委书记被免](https://m.caixin.com/m/2022-03-10/101853899.html) ![](assets/new.png)  
+- [2022-03-10-广州新增1例新冠确诊病例-疾控中心专家称防控形势严峻](https://m.caixin.com/m/2022-03-10/101853835.html) ![](assets/new.png)  
+- [2022-03-10-【境内疫情观察】全国新增402例本土病例、435例本土无症状感染者（3月9日）](https://database.caixin.com/m/2022-03-10/101853636.html) ![](assets/new.png)  
+- [2022-03-10-香港调整抗疫策略-辉瑞口服药确定在华合作伙伴｜大流行手记（3月9日）](https://m.caixin.com/m/2022-03-10/101853553.html) ![](assets/new.png)  
+- [2022-03-10-新加坡官员：本地奥密克戎疫情已过峰值开始消退](https://m.caixin.com/m/2022-03-10/101853827.html) ![](assets/new.png)  
+- [2022-03-09-一小学被列为中风险地区-上海加强线上教学资源](https://m.caixin.com/m/2022-03-09/101853329.html) ![](assets/new.png)  
+- [2022-03-09-香港调整抗疫策略-全民检测或将推迟](https://m.caixin.com/m/2022-03-09/101853319.html) ![](assets/new.png)  
+- [2022-03-09-字节跳动办公区现确诊病例-公司深夜组织员工回家](https://companies.caixin.com/m/2022-03-09/101852947.html) ![](assets/new.png)  
+- [2022-03-09-【境内疫情观察】全国新增322例本土无症状感染者（3月8日）](https://database.caixin.com/m/2022-03-09/101853141.html) ![](assets/new.png)  
+- [2022-03-09-研究称COVID-19或能导致脑异常-马来西亚4月将重新开放边境｜大流行手记（3月8日）](https://m.caixin.com/m/2022-03-09/101853036.html) ![](assets/new.png)  
+- [2022-03-08-北京新增7例本土确诊-一人曾赴上海团建](https://m.caixin.com/m/2022-03-08/101852668.html) ![](assets/new.png)  
+- [2022-03-08-香港日增病例呈回落趋势-港大预测5月降至两位数](https://m.caixin.com/m/2022-03-08/101852848.html) ![](assets/new.png)  
+- [2022-03-08-北京新增新冠病例涉字节跳动办公区-员工就地隔离过夜](https://m.caixin.com/m/2022-03-08/101852591.html) ![](assets/new.png)  
+- [2022-03-08-深港边境临时搭桥-内地援建香港河套应急医院](https://m.caixin.com/m/2022-03-08/101852776.html) ![](assets/new.png)  
+- [2022-03-08-【境内疫情观察】全国现有确诊病例超4000例（3月7日）](https://database.caixin.com/m/2022-03-08/101852579.html) ![](assets/new.png)  
+- [2022-03-08-研究发现新冠重症患者特殊基因-全球死亡病例超600万｜大流行手记（3月7日）](https://m.caixin.com/m/2022-03-08/101852426.html) ![](assets/new.png)  
+- [2022-03-07-广东惠州基层防疫扑杀宠物狗-街道致歉涉事者停职](https://m.caixin.com/m/2022-03-07/101851565.html) ![](assets/new.png)  
+- [2022-03-07-【境内疫情观察】全国新增214例本土病例（3月6日）](https://database.caixin.com/m/2022-03-07/101851858.html) ![](assets/new.png)  
+- [2022-03-07-苏格兰为弱势群体打第四针-印度尼西亚再放宽旅行限制｜大流行手记（3月6日）](https://m.caixin.com/m/2022-03-07/101851699.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -471,6 +491,16 @@
 </summary>
 
 
+- [2022-08-09-ES-搜索内容过多，分词后命中了不是想用的-token](https://www.v2ex.com/t/871747) ![](assets/new.png)  
+- [2022-08-09-简书已经堕落成这样了吗，小说网站？](https://www.v2ex.com/t/871744) ![](assets/new.png)  
+- [2022-08-09-广州周围有狗舍推荐么，想养一只柯基](https://www.v2ex.com/t/871742) ![](assets/new.png)  
+- [2022-08-09-docker-的-hello-world-这种运行完就退出的容器，有什么方法进去看看？](https://www.v2ex.com/t/871741) ![](assets/new.png)  
+- [2022-08-09-怎么查一个锁对象被哪一个线程持有？](https://www.v2ex.com/t/871740) ![](assets/new.png)  
+- [2022-08-09-知名游戏类公司技术类、设计类等岗位急招](https://www.v2ex.com/t/871739) ![](assets/new.png)  
+- [2022-08-09-慎用美团钱包--含有近千元资金的美团账户不翼而飞的故事](https://www.v2ex.com/t/871738) ![](assets/new.png)  
+- [2022-08-09-esxi-能不能实现按电源按钮关机](https://www.v2ex.com/t/871737) ![](assets/new.png)  
+- [2022-08-09-要被老电脑逼疯了（吐槽-发泄-负能量）](https://www.v2ex.com/t/871736) ![](assets/new.png)  
+- [2022-08-09-Golang-中怎么获得接口中存储的数据指针？](https://www.v2ex.com/t/871734) ![](assets/new.png)  
 - [2022-08-09-你们最好的开发状态是什么时候?](https://www.v2ex.com/t/871733) ![](assets/new.png)  
 - [2022-08-09-利用-Windows-11-自带的效率模式把笔记本续航提升到-15-小时以上](https://www.v2ex.com/t/871732) ![](assets/new.png)  
 - [2022-08-09-怎么看自己发布的帖子](https://www.v2ex.com/t/871731) ![](assets/new.png)  
@@ -481,16 +511,6 @@
 - [2022-08-09-微信小程序应该如何保证用户登录状态呢？](https://www.v2ex.com/t/871726) ![](assets/new.png)  
 - [2022-08-09-腾讯云-CloudBase-任意修改计费规则，建议大家能不用就不用](https://www.v2ex.com/t/871725) ![](assets/new.png)  
 - [2022-08-09-Win11-的-WSA-貌似无法长时间稳定运行](https://www.v2ex.com/t/871724) ![](assets/new.png)  
-- [2022-08-09-Parallels-Desktop-已经有-18-了](https://www.v2ex.com/t/871722) ![](assets/new.png)  
-- [2022-08-09-阿里邮箱的-2T-网盘有啥用吗](https://www.v2ex.com/t/871721) ![](assets/new.png)  
-- [2022-08-09-慎用美团钱包---1-个含有近千元资金的美团账户不翼而飞的故事](https://www.v2ex.com/t/871720) ![](assets/new.png)  
-- [2022-08-09-这种生活方式是不是废了](https://www.v2ex.com/t/871719) ![](assets/new.png)  
-- [2022-08-09-M1-Pro-14-寸现在已经到底价了吗？](https://www.v2ex.com/t/871718) ![](assets/new.png)  
-- [2022-08-09-airpods-如何申请换新](https://www.v2ex.com/t/871717) ![](assets/new.png)  
-- [2022-08-09-大家有没有什么很-COOL-的终端工具，分享一下。](https://www.v2ex.com/t/871716) ![](assets/new.png)  
-- [2022-08-09-手机上的不同应用访问线上服务时的-IP-是不一样的吗？](https://www.v2ex.com/t/871713) ![](assets/new.png)  
-- [2022-08-09-跟-Apple-watch-s6-说再见，使用期一年半](https://www.v2ex.com/t/871712) ![](assets/new.png)  
-- [2022-08-09-四明山回来了，跑山消暑玩儿水的好去处](https://www.v2ex.com/t/871711) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -546,13 +566,13 @@
 - [2022-08-09-StarRocks-技术内幕-|-基于全局字典的极速字符串查询](https://toutiao.io/k/uurh4h1) ![](assets/new.png)  
 - [2022-08-09-Android-13：一文看懂两大重磅升级](https://toutiao.io/k/tp5oyul) ![](assets/new.png)  
 - [2022-08-09-动真格！交管部门严查“分心驾驶”背后的技术原理](https://toutiao.io/k/cgzwwza) ![](assets/new.png)  
+- [2022-08-09-Apache-Kvrocks分布式磁盘-Redis-发布-2.1.0-版本](https://toutiao.io/k/p2zjf0i) ![](assets/new.png)  
 - [2022-08-09-6-个你必须明白-Vue3-的-ref-和-reactive-问题（入门篇）](https://toutiao.io/k/276cmeu) ![](assets/new.png)  
 - [2022-08-09-Fury：一个基于JIT动态编译的高性能多语言原生序列化框架](https://toutiao.io/k/t4xruyc) ![](assets/new.png)  
 - [2022-08-09-Rust-解引用](https://toutiao.io/k/6n8jkdz) ![](assets/new.png)  
-- [2022-08-09-Apache-Kvrocks分布式磁盘-Redis-发布-2.1.0-版本](https://toutiao.io/k/p2zjf0i) ![](assets/new.png)  
 - [2022-08-09-组件和依赖管理](https://toutiao.io/k/t2bdhfd) ![](assets/new.png)  
 - [2022-08-09-聊聊基于docker部署的mysql如何进行数据恢复](https://toutiao.io/k/fwmn8p8) ![](assets/new.png)  
-- [2022-08-09-推荐-阿里云官方-Redis-开发规范！](https://toutiao.io/k/2fqcbfi) ![](assets/new.png)  
+- [2022-08-09-推荐-老板：公司系统太多，能不能实现账号互通？](https://toutiao.io/k/g7sb904) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

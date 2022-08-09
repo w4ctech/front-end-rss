@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-08-09 10:44:42。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-08-09 11:12:31。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,10 @@
 </summary>
 
 
+- [【V2EX】2022-08-09-做了个类似-utools-的开源工具箱，扩展更多可能性！](https://www.v2ex.com/t/871756) 
+- [【V2EX】2022-08-09-开了一个新的生存服务器，现在测试欢迎开荒](https://www.v2ex.com/t/871755) 
+- [【V2EX】2022-08-09-OpenSSH-使用-Ed25519-算法生成的密钥鉴权真的安全吗，这么短的密钥好不放心，但好多大佬都在推荐。未来是不是比-RSA-更容易出现快速计算来实现破解的方法？](https://www.v2ex.com/t/871754) 
+- [【V2EX】2022-08-09-Web3-招聘：-智能合约审计工程师-base-杭州-40-70-万](https://www.v2ex.com/t/871753) 
 - [【V2EX】2022-08-09-怎么可以把-chrome-的历史记录保存久一点](https://www.v2ex.com/t/871751) 
 - [【V2EX】2022-08-09-初中不让带手机，有没有待机长，支持微信对话，支付，日常用的学生手表](https://www.v2ex.com/t/871750) 
 - [【V2EX】2022-08-09-朋友们身边有没有初创团队从开发-app-转小程序的！想聊聊这个事儿](https://www.v2ex.com/t/871748) 
@@ -105,9 +109,6 @@
 - [【V2EX】2022-08-09-求-多屏-多视频-同步控制播放-方案？](https://www.v2ex.com/t/871709) 
 - [【V2EX】2022-08-09-Parallels-Desktop-18-来了](https://www.v2ex.com/t/871708) 
 - [【V2EX】2022-08-09-原创-Zbolg-一款好看的博客新闻资讯网站高端大气主题](https://www.v2ex.com/t/871707) 
-- [【V2EX】2022-08-09-有什么产品是支持-OCR-识别图书版权页的吗？](https://www.v2ex.com/t/871706) 
-- [【V2EX】2022-08-09-上海/杭州-前端两年工作经验求职](https://www.v2ex.com/t/871704) 
-- [【V2EX】2022-08-09-为-haraka-开发-api](https://www.v2ex.com/t/871703) 
 - [【技术头条】2022-08-09-BFF避坑指南-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15281&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fbackends-for-frontends%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-08-09-40年前的操作系统复活了，当年Linux、Windows都借鉴过！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15280&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494410%26amp%3Bidx%3D1%26amp%3Bsn%3D6573f0c124bcd2e20c39c33d3e516526%26amp%3Bchksm%3Dfa3f0a51cd4883479817eb189805d7dfe98436addb3e47a267f25bc3cdefefbb56aeab56e7b4%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-08-09-Spring注入Bean的七种方式-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15279&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494410%26amp%3Bidx%3D2%26amp%3Bsn%3D86e311bf8e60434edd3b60be3230e3e4%26amp%3Bchksm%3Dfa3f0a51cd4883473339fccf0f251b3cc4c5a5a9f85f2f196440fc0b3b75708c184391752aed%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -148,10 +149,10 @@
 - [【开发者头条】2022-08-09-组件和依赖管理](https://toutiao.io/k/t2bdhfd) 
 - [【开发者头条】2022-08-09-聊聊基于docker部署的mysql如何进行数据恢复](https://toutiao.io/k/fwmn8p8) 
 - [【开发者头条】2022-08-09-推荐-研发过程中的文档管理与工具](https://toutiao.io/k/mdiqwn5) 
+- [【开发者头条】2022-08-09-推荐-阿里云官方-Redis-开发规范！](https://toutiao.io/k/2fqcbfi) 
 - [【开发者头条】2022-08-09-推荐-Java-大后端各种架构图汇总（建议收藏！！）](https://toutiao.io/k/dvo6z1w) 
 - [【开发者头条】2022-08-09-推荐-老板：公司系统太多，能不能实现账号互通？](https://toutiao.io/k/g7sb904) 
 - [【开发者头条】2022-08-09-推荐-【大厂面试真题解析】虾皮-Shopee-后端一面十四问](https://toutiao.io/k/pol71im) 
-- [【开发者头条】2022-08-09-推荐-阿里云官方-Redis-开发规范！](https://toutiao.io/k/2fqcbfi) 
 - [【开发者头条】2022-08-09-推荐-一文搞懂-Redis-架构演化之路](https://toutiao.io/k/cwwpjem) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>

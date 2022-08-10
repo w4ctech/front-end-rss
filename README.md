@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-10 17:01:29，:rocket: 更新条数: +2028， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-10 17:26:26，:rocket: 更新条数: +2028， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-08-10-求测试工具](https://www.v2ex.com/t/872052) ![](assets/new.png)  
 - [2022-08-10-坐标北京，-9-月中旬前，可以免费教你游泳，水中自救，想做点有意义的事](https://www.v2ex.com/t/872051) ![](assets/new.png)  
 - [2022-08-10-插件式网页该用什么思路开发？](https://www.v2ex.com/t/872050) ![](assets/new.png)  
 - [2022-08-10-光猫拨号下-OpenWrt-二级路由如何设置-IPv6](https://www.v2ex.com/t/872048) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-08-10-远程全职-招聘-Web-3-后端开发工程师/月薪-30-40K-RMB-&-产品经理/月薪-20-35K-RMB](https://www.v2ex.com/t/872027) ![](assets/new.png)  
 - [2022-08-10-小时候的回忆红警-2](https://www.v2ex.com/t/872026) ![](assets/new.png)  
 - [2022-08-10-深圳-Java-后端-求职](https://www.v2ex.com/t/872025) ![](assets/new.png)  
-- [2022-08-10-DOS-命令有教程推荐吗！](https://www.v2ex.com/t/872024) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -572,7 +572,7 @@
 - [2022-08-10-WebAssembly不会取代Docker](https://toutiao.io/k/6dwzpt5) ![](assets/new.png)  
 - [2022-08-10-版本控制进阶](https://toutiao.io/k/lr242bx) ![](assets/new.png)  
 - [2022-08-10-从脚本到剪辑，影像大师亲授的后期制作秘籍](https://toutiao.io/k/g135nc8) ![](assets/new.png)  
-- [2022-08-10-推荐-阿里云官方-Redis-开发规范！](https://toutiao.io/k/2fqcbfi) ![](assets/new.png)  
+- [2022-08-10-推荐-【大厂面试真题解析】虾皮-Shopee-后端一面十四问](https://toutiao.io/k/pol71im) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

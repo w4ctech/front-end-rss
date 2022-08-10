@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-10 07:15:01，:rocket: 更新条数: +2027， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-10 07:39:16，:rocket: 更新条数: +2027， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,13 @@
 </summary>
 
 
+- [2022-08-10-买了个新的-8T-硬盘，结果被京东快递给摔了。](https://www.v2ex.com/t/871950) ![](assets/new.png)  
+- [2022-08-10-Windows-也有快照功能？](https://www.v2ex.com/t/871949) ![](assets/new.png)  
+- [2022-08-10-开源的数据库发布系统](https://www.v2ex.com/t/871948) ![](assets/new.png)  
+- [2022-08-10-给北京望京、酒仙桥爱喝精酿的小伙伴发个福利～](https://www.v2ex.com/t/871947) ![](assets/new.png)  
+- [2022-08-10-目前广州/成都/杭州/武汉/上海的就业情况怎样？大家有在相关地区的，可以分享下感受吗？](https://www.v2ex.com/t/871945) ![](assets/new.png)  
+- [2022-08-10-我的公众号文章排版编辑方案-2.0](https://www.v2ex.com/t/871944) ![](assets/new.png)  
+- [2022-08-10-U-盘一插上-PVE-工控机就开始发热，不挂载不读写也发热](https://www.v2ex.com/t/871942) ![](assets/new.png)  
 - [2022-08-10-找个志同道合的产品经理](https://www.v2ex.com/t/871941) ![](assets/new.png)  
 - [2022-08-10-利用-tpddns.cn-怎么不能远程电脑了？](https://www.v2ex.com/t/871940) ![](assets/new.png)  
 - [2022-08-10-网站备案，网站名称你们都是怎么填的?](https://www.v2ex.com/t/871938) ![](assets/new.png)  
@@ -504,13 +511,6 @@
 - [2022-08-10-关于学吉他，求过来人给点建议](https://www.v2ex.com/t/871927) ![](assets/new.png)  
 - [2022-08-10-想请教下-TypeScript-里面几个泛型方法的写法](https://www.v2ex.com/t/871926) ![](assets/new.png)  
 - [2022-08-10-北京应届-招聘运维；前端；运开；](https://www.v2ex.com/t/871925) ![](assets/new.png)  
-- [2022-08-10-2022-年-8-月，有什么好的电瓶车推荐吗](https://www.v2ex.com/t/871924) ![](assets/new.png)  
-- [2022-08-10-115-会员到期了，不想续费，有什么替代产品吗？](https://www.v2ex.com/t/871923) ![](assets/new.png)  
-- [2022-08-10-亏麻了，-5-年的收入全买了互联网公司的股票](https://www.v2ex.com/t/871922) ![](assets/new.png)  
-- [2022-08-10-10-台服务器，如何在最短时间内爬取-5000-条商品价格？](https://www.v2ex.com/t/871921) ![](assets/new.png)  
-- [2022-08-10-请教一个电动牙刷的问题](https://www.v2ex.com/t/871920) ![](assets/new.png)  
-- [2022-08-10-大陆是不是也进入人力成本高昂的时代——关于戴森吸尘器维修思考](https://www.v2ex.com/t/871918) ![](assets/new.png)  
-- [2022-08-10-用好-DIV-和-API，在前端系统中轻松嵌入数据分析模块](https://www.v2ex.com/t/871917) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -556,8 +556,8 @@
 - [2022-08-10-连流量染色都没有，你说要搞微服务？](https://toutiao.io/k/9k1wfc7) ![](assets/new.png)  
 - [2022-08-10-BFF避坑指南](https://toutiao.io/k/cra0qqz) ![](assets/new.png)  
 - [2022-08-10-不超过百行的SQL文件提取器](https://toutiao.io/k/59s3dpn) ![](assets/new.png)  
-- [2022-08-10-业务交互网关洪峰应对之道](https://toutiao.io/k/nxzl7n5) ![](assets/new.png)  
 - [2022-08-10-Java基础-|-Stream流原理与用法总结](https://toutiao.io/k/bz1xc1u) ![](assets/new.png)  
+- [2022-08-10-业务交互网关洪峰应对之道](https://toutiao.io/k/nxzl7n5) ![](assets/new.png)  
 - [2022-08-10-开箱即用的前端图片压缩方案](https://toutiao.io/k/tzs2u1x) ![](assets/new.png)  
 - [2022-08-10-五万字-|-深入理解Linux内存管理](https://toutiao.io/k/d0jjgi5) ![](assets/new.png)  
 - [2022-08-10-提问：执行-npm-install-之后都发生了什么？](https://toutiao.io/k/7lel7t9) ![](assets/new.png)  
@@ -569,10 +569,10 @@
 - [2022-08-10-「查缺补漏」-Kafka-核心知识梳理](https://toutiao.io/k/5ezfpgj) ![](assets/new.png)  
 - [2022-08-10-越折腾越好用的-3-款开源-APP](https://toutiao.io/k/tci0jj4) ![](assets/new.png)  
 - [2022-08-10-WebAssembly不会取代Docker](https://toutiao.io/k/6dwzpt5) ![](assets/new.png)  
-- [2022-08-10-版本控制进阶](https://toutiao.io/k/lr242bx) ![](assets/new.png)  
 - [2022-08-10-分享-6-个-Vue3-开发必备的-VSCode-插件](https://toutiao.io/k/yx1bfgp) ![](assets/new.png)  
+- [2022-08-10-版本控制进阶](https://toutiao.io/k/lr242bx) ![](assets/new.png)  
 - [2022-08-10-从脚本到剪辑，影像大师亲授的后期制作秘籍](https://toutiao.io/k/g135nc8) ![](assets/new.png)  
-- [2022-08-10-推荐-老板：公司系统太多，能不能实现账号互通？](https://toutiao.io/k/g7sb904) ![](assets/new.png)  
+- [2022-08-10-推荐-研发过程中的文档管理与工具](https://toutiao.io/k/mdiqwn5) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

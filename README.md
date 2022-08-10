@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-10 12:24:39，:rocket: 更新条数: +2024， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-10 13:06:31，:rocket: 更新条数: +2027， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,13 @@
 </summary>
 
 
+- [2022-08-10-如何整理部署需要的文件](https://www.v2ex.com/t/872021) ![](assets/new.png)  
+- [2022-08-10-请教一个关于结婚后去哪边过年的问题](https://www.v2ex.com/t/872020) ![](assets/new.png)  
+- [2022-08-10-chrome-下有什么好用的屏蔽网站插件？](https://www.v2ex.com/t/872019) ![](assets/new.png)  
+- [2022-08-10-初级前端求捞](https://www.v2ex.com/t/872018) ![](assets/new.png)  
+- [2022-08-10-有没有软件可以模拟各地网络情况](https://www.v2ex.com/t/872016) ![](assets/new.png)  
+- [2022-08-10-求助，关于-NVME](https://www.v2ex.com/t/872015) ![](assets/new.png)  
+- [2022-08-10-macOS-的搜狗输入法到底安不安全？至少从《隐私政策》来看，要比-Windows-的搜狗「克制」一些](https://www.v2ex.com/t/872014) ![](assets/new.png)  
 - [2022-08-10-我知道为什么都说-Macbook-的触摸板好用了](https://www.v2ex.com/t/872012) ![](assets/new.png)  
 - [2022-08-10-maven-使用体验很痛苦](https://www.v2ex.com/t/872011) ![](assets/new.png)  
 - [2022-08-10-windows11-无法自动睡眠有人遇到过么？](https://www.v2ex.com/t/872010) ![](assets/new.png)  
@@ -504,13 +511,6 @@
 - [2022-08-10-求助下关于网卡-SRIOV-功能的问题](https://www.v2ex.com/t/871998) ![](assets/new.png)  
 - [2022-08-10-鸿雁拼音输入法-windows-版和安卓版拥有-230-万词库、基于-220-亿字典型语料库的统计词频](https://www.v2ex.com/t/871997) ![](assets/new.png)  
 - [2022-08-10-go-项目-私有加密不公开代码的函数有哪些可跨平台的方案](https://www.v2ex.com/t/871996) ![](assets/new.png)  
-- [2022-08-10-上海Cahtail-团队招人啦！（可内推）](https://www.v2ex.com/t/871991) ![](assets/new.png)  
-- [2022-08-10-「将显示器置入睡眠状态」和「睡眠」是一个意思吗？](https://www.v2ex.com/t/871990) ![](assets/new.png)  
-- [2022-08-10-国内外互联网大厂众多技术岗在招](https://www.v2ex.com/t/871989) ![](assets/new.png)  
-- [2022-08-10-两位同样是-10-年经验的大佬，-你会选谁呢](https://www.v2ex.com/t/871987) ![](assets/new.png)  
-- [2022-08-10-避雷，小米净水器真的绝了，拖拖大法拖过保修期后直接拒保，拒绝维修拒绝退换，大家谨慎购买](https://www.v2ex.com/t/871986) ![](assets/new.png)  
-- [2022-08-10-什么情况下会使用-UI-自动化而不是调用-api?](https://www.v2ex.com/t/871985) ![](assets/new.png)  
-- [2022-08-10-腾讯云“老片修复”使用感受](https://www.v2ex.com/t/871984) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -567,12 +567,12 @@
 - [2022-08-10-2022科技公司薪酬排行榜，来了！](https://toutiao.io/k/rzyvpm2) ![](assets/new.png)  
 - [2022-08-10-不盲追大模型与堆算力！沈向洋、曹颖与马毅提出理解-AI-的两个基本原理：简约性与自一致性](https://toutiao.io/k/vp3f16d) ![](assets/new.png)  
 - [2022-08-10-「查缺补漏」-Kafka-核心知识梳理](https://toutiao.io/k/5ezfpgj) ![](assets/new.png)  
-- [2022-08-10-越折腾越好用的-3-款开源-APP](https://toutiao.io/k/tci0jj4) ![](assets/new.png)  
 - [2022-08-10-分享-6-个-Vue3-开发必备的-VSCode-插件](https://toutiao.io/k/yx1bfgp) ![](assets/new.png)  
+- [2022-08-10-越折腾越好用的-3-款开源-APP](https://toutiao.io/k/tci0jj4) ![](assets/new.png)  
 - [2022-08-10-WebAssembly不会取代Docker](https://toutiao.io/k/6dwzpt5) ![](assets/new.png)  
 - [2022-08-10-版本控制进阶](https://toutiao.io/k/lr242bx) ![](assets/new.png)  
 - [2022-08-10-从脚本到剪辑，影像大师亲授的后期制作秘籍](https://toutiao.io/k/g135nc8) ![](assets/new.png)  
-- [2022-08-10-推荐-研发过程中的文档管理与工具](https://toutiao.io/k/mdiqwn5) ![](assets/new.png)  
+- [2022-08-10-推荐-阿里云官方-Redis-开发规范！](https://toutiao.io/k/2fqcbfi) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

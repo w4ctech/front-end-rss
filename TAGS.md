@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-08-10 08:45:29。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-08-10 09:14:43。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -73,7 +73,6 @@
 
 
 
-- [【V2EX】想请教下-TypeScript-里面几个泛型方法的写法](https://www.v2ex.com/t/871926)
 - [......【查看更多】......](./details/tags/typescript.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -301,6 +300,7 @@
 
 
 
+- [【V2EX】全栈的本地化对象存储求助](https://www.v2ex.com/t/871973)
 - [【开发者头条】WebAssembly不会取代Docker](https://toutiao.io/k/6dwzpt5)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 
@@ -351,7 +351,6 @@
 
 
 
-- [【V2EX】北京应届-招聘运维；前端；运开；](https://www.v2ex.com/t/871925)
 - [【开发者头条】推荐-【大厂面试真题解析】虾皮-Shopee-后端一面十四问](https://toutiao.io/k/pol71im)
 - [......【查看更多】......](./details/tags/job-interview.md)
 

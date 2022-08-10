@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-08-10 13:06:31。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-08-10 13:53:50。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -302,7 +302,6 @@
 
 
 
-- [【V2EX】全栈的本地化对象存储求助](https://www.v2ex.com/t/871973)
 - [【开发者头条】WebAssembly不会取代Docker](https://toutiao.io/k/6dwzpt5)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 
@@ -353,6 +352,7 @@
 
 
 
+- [【V2EX】远程全职-招聘-Web-3-后端开发工程师/月薪-30-40K-RMB-&-产品经理/月薪-20-35K-RMB](https://www.v2ex.com/t/872027)
 - [【V2EX】社招外企conviva-小而美外企招聘](https://www.v2ex.com/t/871982)
 - [【开发者头条】推荐-【大厂面试真题解析】虾皮-Shopee-后端一面十四问](https://toutiao.io/k/pol71im)
 - [......【查看更多】......](./details/tags/job-interview.md)

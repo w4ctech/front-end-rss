@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-10 13:06:31，:rocket: 更新条数: +2027， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-10 13:53:50，:rocket: 更新条数: +2028， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,12 @@
 </summary>
 
 
+- [2022-08-10-远程全职-招聘-Web-3-后端开发工程师/月薪-30-40K-RMB-&-产品经理/月薪-20-35K-RMB](https://www.v2ex.com/t/872027) ![](assets/new.png)  
+- [2022-08-10-小时候的回忆红警-2](https://www.v2ex.com/t/872026) ![](assets/new.png)  
+- [2022-08-10-深圳-Java-后端-求职](https://www.v2ex.com/t/872025) ![](assets/new.png)  
+- [2022-08-10-DOS-命令有教程推荐吗！](https://www.v2ex.com/t/872024) ![](assets/new.png)  
+- [2022-08-10-有没有比较好的翻译工具-不是按字面来翻译](https://www.v2ex.com/t/872023) ![](assets/new.png)  
+- [2022-08-10-VS-Code-能写-Java-吗？](https://www.v2ex.com/t/872022) ![](assets/new.png)  
 - [2022-08-10-如何整理部署需要的文件](https://www.v2ex.com/t/872021) ![](assets/new.png)  
 - [2022-08-10-请教一个关于结婚后去哪边过年的问题](https://www.v2ex.com/t/872020) ![](assets/new.png)  
 - [2022-08-10-chrome-下有什么好用的屏蔽网站插件？](https://www.v2ex.com/t/872019) ![](assets/new.png)  
@@ -505,12 +511,6 @@
 - [2022-08-10-vscode-查看-js-函数间的关系](https://www.v2ex.com/t/872007) ![](assets/new.png)  
 - [2022-08-10-分享一个正版-Parallels-受害者的经验，这辈子一定不会再买这家公司的任何产品。而且这家公司有倒闭迹象，不怎么更新主力产品了](https://www.v2ex.com/t/872006) ![](assets/new.png)  
 - [2022-08-10-8-月底结束：仅限阿里云老用户：新购服务器-3.6-折-续费-6-折！](https://www.v2ex.com/t/872004) ![](assets/new.png)  
-- [2022-08-10-小程序目前框架是选-taro-还是-uni-app](https://www.v2ex.com/t/872003) ![](assets/new.png)  
-- [2022-08-10-七八百的-VA-屏用来写代码合适吗？](https://www.v2ex.com/t/872002) ![](assets/new.png)  
-- [2022-08-10-resilio-sync-这个软件只能同步，不能备份？](https://www.v2ex.com/t/871999) ![](assets/new.png)  
-- [2022-08-10-求助下关于网卡-SRIOV-功能的问题](https://www.v2ex.com/t/871998) ![](assets/new.png)  
-- [2022-08-10-鸿雁拼音输入法-windows-版和安卓版拥有-230-万词库、基于-220-亿字典型语料库的统计词频](https://www.v2ex.com/t/871997) ![](assets/new.png)  
-- [2022-08-10-go-项目-私有加密不公开代码的函数有哪些可跨平台的方案](https://www.v2ex.com/t/871996) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -572,7 +572,7 @@
 - [2022-08-10-WebAssembly不会取代Docker](https://toutiao.io/k/6dwzpt5) ![](assets/new.png)  
 - [2022-08-10-版本控制进阶](https://toutiao.io/k/lr242bx) ![](assets/new.png)  
 - [2022-08-10-从脚本到剪辑，影像大师亲授的后期制作秘籍](https://toutiao.io/k/g135nc8) ![](assets/new.png)  
-- [2022-08-10-推荐-阿里云官方-Redis-开发规范！](https://toutiao.io/k/2fqcbfi) ![](assets/new.png)  
+- [2022-08-10-推荐-研发过程中的文档管理与工具](https://toutiao.io/k/mdiqwn5) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

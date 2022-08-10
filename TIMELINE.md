@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-08-10 05:39:12。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-08-10 06:19:14。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,10 @@
 </summary>
 
 
+- [【V2EX】2022-08-10-大陆是不是也进入人力成本高昂的时代——关于戴森吸尘器维修思考](https://www.v2ex.com/t/871918) 
+- [【V2EX】2022-08-10-用好-DIV-和-API，在前端系统中轻松嵌入数据分析模块](https://www.v2ex.com/t/871917) 
+- [【V2EX】2022-08-10-拿着移动固态硬盘装好赛博朋克-2077-备份，在网吧玩是否可行？](https://www.v2ex.com/t/871914) 
+- [【V2EX】2022-08-10-求助，-ios-突然上不了外网，但-mac-上一切正常，尝试了-100-种办法了一直没解决](https://www.v2ex.com/t/871912) 
 - [【V2EX】2022-08-10-有没有使用-rustdesk-远控的？怎么没法输入字符](https://www.v2ex.com/t/871910) 
 - [【V2EX】2022-08-10-如何在-VScode-中使用-SSR](https://www.v2ex.com/t/871909) 
 - [【V2EX】2022-08-10-有没有可能使用无线电来传送互联网信号](https://www.v2ex.com/t/871908) 
@@ -100,12 +104,6 @@
 - [【V2EX】2022-08-10-疫情期间的一点感想：非必要的可做可不做的事一定要做，尽早去做](https://www.v2ex.com/t/871871) 
 - [【V2EX】2022-08-10-咨询下各位大佬，机械革命-code01-与-thinkbook-16+的选择问题](https://www.v2ex.com/t/871870) 
 - [【V2EX】2022-08-10-阿里云盘的-永久有效-容量清零](https://www.v2ex.com/t/871869) 
-- [【V2EX】2022-08-10-手机解锁瞬间，耳机音量会稍微增加是为什么](https://www.v2ex.com/t/871868) 
-- [【V2EX】2022-08-10-前几天装了-2021ltsc-发现组策略里没远程打开-Direct3D-得选项，有大佬试过么？](https://www.v2ex.com/t/871867) 
-- [【V2EX】2022-08-10-手机里有云闪付的朋友，你们在淘宝买东西会自动调用云闪付吗](https://www.v2ex.com/t/871864) 
-- [【V2EX】2022-08-10-没有-UI-的软件是不完整的,-比如-Git](https://www.v2ex.com/t/871863) 
-- [【V2EX】2022-08-10-阿里云盘容量失效](https://www.v2ex.com/t/871862) 
-- [【V2EX】2022-08-10-GV-骚扰电话好多，怎么解决](https://www.v2ex.com/t/871861) 
 - [【技术头条】2022-08-10-BFF避坑指南-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15281&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fbackends-for-frontends%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-08-10-40年前的操作系统复活了，当年Linux、Windows都借鉴过！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15280&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494410%26amp%3Bidx%3D1%26amp%3Bsn%3D6573f0c124bcd2e20c39c33d3e516526%26amp%3Bchksm%3Dfa3f0a51cd4883479817eb189805d7dfe98436addb3e47a267f25bc3cdefefbb56aeab56e7b4%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-08-10-Spring注入Bean的七种方式-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15279&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494410%26amp%3Bidx%3D2%26amp%3Bsn%3D86e311bf8e60434edd3b60be3230e3e4%26amp%3Bchksm%3Dfa3f0a51cd4883473339fccf0f251b3cc4c5a5a9f85f2f196440fc0b3b75708c184391752aed%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -140,12 +138,17 @@
 - [【开发者头条】2022-08-10-不盲追大模型与堆算力！沈向洋、曹颖与马毅提出理解-AI-的两个基本原理：简约性与自一致性](https://toutiao.io/k/vp3f16d) 
 - [【开发者头条】2022-08-10-2022科技公司薪酬排行榜，来了！](https://toutiao.io/k/rzyvpm2) 
 - [【开发者头条】2022-08-10-「查缺补漏」-Kafka-核心知识梳理](https://toutiao.io/k/5ezfpgj) 
-- [【开发者头条】2022-08-10-推荐-研发过程中的文档管理与工具](https://toutiao.io/k/mdiqwn5) 
+- [【开发者头条】2022-08-10-从脚本到剪辑，影像大师亲授的后期制作秘籍](https://toutiao.io/k/g135nc8) 
+- [【开发者头条】2022-08-10-越折腾越好用的-3-款开源-APP](https://toutiao.io/k/tci0jj4) 
+- [【开发者头条】2022-08-10-版本控制进阶](https://toutiao.io/k/lr242bx) 
+- [【开发者头条】2022-08-10-分享-6-个-Vue3-开发必备的-VSCode-插件](https://toutiao.io/k/yx1bfgp) 
+- [【开发者头条】2022-08-10-WebAssembly不会取代Docker](https://toutiao.io/k/6dwzpt5) 
 - [【开发者头条】2022-08-10-推荐-一文搞懂-Redis-架构演化之路](https://toutiao.io/k/cwwpjem) 
-- [【开发者头条】2022-08-10-推荐-【大厂面试真题解析】虾皮-Shopee-后端一面十四问](https://toutiao.io/k/pol71im) 
-- [【开发者头条】2022-08-10-推荐-老板：公司系统太多，能不能实现账号互通？](https://toutiao.io/k/g7sb904) 
 - [【开发者头条】2022-08-10-推荐-Java-大后端各种架构图汇总（建议收藏！！）](https://toutiao.io/k/dvo6z1w) 
 - [【开发者头条】2022-08-10-推荐-阿里云官方-Redis-开发规范！](https://toutiao.io/k/2fqcbfi) 
+- [【开发者头条】2022-08-10-推荐-【大厂面试真题解析】虾皮-Shopee-后端一面十四问](https://toutiao.io/k/pol71im) 
+- [【开发者头条】2022-08-10-推荐-老板：公司系统太多，能不能实现账号互通？](https://toutiao.io/k/g7sb904) 
+- [【开发者头条】2022-08-10-推荐-研发过程中的文档管理与工具](https://toutiao.io/k/mdiqwn5) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

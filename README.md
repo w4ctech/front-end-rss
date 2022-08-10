@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-10 05:39:12，:rocket: 更新条数: +2024， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-10 06:19:14，:rocket: 更新条数: +2027， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,10 @@
 </summary>
 
 
+- [2022-08-10-大陆是不是也进入人力成本高昂的时代——关于戴森吸尘器维修思考](https://www.v2ex.com/t/871918) ![](assets/new.png)  
+- [2022-08-10-用好-DIV-和-API，在前端系统中轻松嵌入数据分析模块](https://www.v2ex.com/t/871917) ![](assets/new.png)  
+- [2022-08-10-拿着移动固态硬盘装好赛博朋克-2077-备份，在网吧玩是否可行？](https://www.v2ex.com/t/871914) ![](assets/new.png)  
+- [2022-08-10-求助，-ios-突然上不了外网，但-mac-上一切正常，尝试了-100-种办法了一直没解决](https://www.v2ex.com/t/871912) ![](assets/new.png)  
 - [2022-08-10-有没有使用-rustdesk-远控的？怎么没法输入字符](https://www.v2ex.com/t/871910) ![](assets/new.png)  
 - [2022-08-10-如何在-VScode-中使用-SSR](https://www.v2ex.com/t/871909) ![](assets/new.png)  
 - [2022-08-10-有没有可能使用无线电来传送互联网信号](https://www.v2ex.com/t/871908) ![](assets/new.png)  
@@ -507,10 +511,6 @@
 - [2022-08-10-感觉这些年-3A-续作越来越少了。](https://www.v2ex.com/t/871893) ![](assets/new.png)  
 - [2022-08-10-请教一下服务升级-tomca10-最新版，-javax-改名-Jakarta-的问题](https://www.v2ex.com/t/871890) ![](assets/new.png)  
 - [2022-08-10-不同语言生态之间切换的暗坑](https://www.v2ex.com/t/871889) ![](assets/new.png)  
-- [2022-08-10-设置了邮件转发，某些邮件不转发是什么原理？](https://www.v2ex.com/t/871888) ![](assets/new.png)  
-- [2022-08-10-阿里云盘容量-bug](https://www.v2ex.com/t/871887) ![](assets/new.png)  
-- [2022-08-10-为啥我的征信报告里多了一个我从来没接触过的银行](https://www.v2ex.com/t/871886) ![](assets/new.png)  
-- [2022-08-10-Web3-远程-DeBank/Rabby-招聘-Web3-产品/数据/安全/后端/前端/SRE-$5K-$13K](https://www.v2ex.com/t/871885) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -567,12 +567,12 @@
 - [2022-08-10-不盲追大模型与堆算力！沈向洋、曹颖与马毅提出理解-AI-的两个基本原理：简约性与自一致性](https://toutiao.io/k/vp3f16d) ![](assets/new.png)  
 - [2022-08-10-2022科技公司薪酬排行榜，来了！](https://toutiao.io/k/rzyvpm2) ![](assets/new.png)  
 - [2022-08-10-「查缺补漏」-Kafka-核心知识梳理](https://toutiao.io/k/5ezfpgj) ![](assets/new.png)  
-- [2022-08-10-推荐-研发过程中的文档管理与工具](https://toutiao.io/k/mdiqwn5) ![](assets/new.png)  
+- [2022-08-10-从脚本到剪辑，影像大师亲授的后期制作秘籍](https://toutiao.io/k/g135nc8) ![](assets/new.png)  
+- [2022-08-10-越折腾越好用的-3-款开源-APP](https://toutiao.io/k/tci0jj4) ![](assets/new.png)  
+- [2022-08-10-版本控制进阶](https://toutiao.io/k/lr242bx) ![](assets/new.png)  
+- [2022-08-10-分享-6-个-Vue3-开发必备的-VSCode-插件](https://toutiao.io/k/yx1bfgp) ![](assets/new.png)  
+- [2022-08-10-WebAssembly不会取代Docker](https://toutiao.io/k/6dwzpt5) ![](assets/new.png)  
 - [2022-08-10-推荐-一文搞懂-Redis-架构演化之路](https://toutiao.io/k/cwwpjem) ![](assets/new.png)  
-- [2022-08-10-推荐-【大厂面试真题解析】虾皮-Shopee-后端一面十四问](https://toutiao.io/k/pol71im) ![](assets/new.png)  
-- [2022-08-10-推荐-老板：公司系统太多，能不能实现账号互通？](https://toutiao.io/k/g7sb904) ![](assets/new.png)  
-- [2022-08-10-推荐-Java-大后端各种架构图汇总（建议收藏！！）](https://toutiao.io/k/dvo6z1w) ![](assets/new.png)  
-- [2022-08-10-推荐-阿里云官方-Redis-开发规范！](https://toutiao.io/k/2fqcbfi) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

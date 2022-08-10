@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-10 09:14:43，:rocket: 更新条数: +2022， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-10 09:41:26，:rocket: 更新条数: +2023， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,11 @@
 </summary>
 
 
+- [2022-08-10-什么情况下会使用-UI-自动化而不是调用-api?](https://www.v2ex.com/t/871985) ![](assets/new.png)  
+- [2022-08-10-腾讯云“老片修复”使用感受](https://www.v2ex.com/t/871984) ![](assets/new.png)  
+- [2022-08-10-社招外企conviva-小而美外企招聘](https://www.v2ex.com/t/871982) ![](assets/new.png)  
+- [2022-08-10-小公司的服务器配置，评价一下](https://www.v2ex.com/t/871981) ![](assets/new.png)  
+- [2022-08-10-北京电信无故封卡](https://www.v2ex.com/t/871980) ![](assets/new.png)  
 - [2022-08-10-简问反向代理](https://www.v2ex.com/t/871979) ![](assets/new.png)  
 - [2022-08-10-anker-的苹果数据线支持-usb-热点吗？](https://www.v2ex.com/t/871978) ![](assets/new.png)  
 - [2022-08-10-BitLocker-加密硬盘会影响速度吗？](https://www.v2ex.com/t/871977) ![](assets/new.png)  
@@ -506,11 +511,6 @@
 - [2022-08-10-Brew-装不上-ca-certificates](https://www.v2ex.com/t/871955) ![](assets/new.png)  
 - [2022-08-10-远程/全职/长期-知识付费类项目，前端，-PHP-，工时-8-小时-15-25k*13](https://www.v2ex.com/t/871954) ![](assets/new.png)  
 - [2022-08-10-Snippet-Csharp-批量导入助手-代码片段](https://www.v2ex.com/t/871953) ![](assets/new.png)  
-- [2022-08-10-Mac-真的有人能一根指头一次打开吗？](https://www.v2ex.com/t/871952) ![](assets/new.png)  
-- [2022-08-10-买了个新的-8T-硬盘，结果被京东快递给摔了。](https://www.v2ex.com/t/871950) ![](assets/new.png)  
-- [2022-08-10-Windows-也有快照功能？](https://www.v2ex.com/t/871949) ![](assets/new.png)  
-- [2022-08-10-开源的数据库发布系统](https://www.v2ex.com/t/871948) ![](assets/new.png)  
-- [2022-08-10-给北京望京、酒仙桥爱喝精酿的小伙伴发个福利～](https://www.v2ex.com/t/871947) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -572,7 +572,7 @@
 - [2022-08-10-WebAssembly不会取代Docker](https://toutiao.io/k/6dwzpt5) ![](assets/new.png)  
 - [2022-08-10-版本控制进阶](https://toutiao.io/k/lr242bx) ![](assets/new.png)  
 - [2022-08-10-从脚本到剪辑，影像大师亲授的后期制作秘籍](https://toutiao.io/k/g135nc8) ![](assets/new.png)  
-- [2022-08-10-推荐-一文搞懂-Redis-架构演化之路](https://toutiao.io/k/cwwpjem) ![](assets/new.png)  
+- [2022-08-10-推荐-【大厂面试真题解析】虾皮-Shopee-后端一面十四问](https://toutiao.io/k/pol71im) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

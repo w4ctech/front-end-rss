@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-10 11:12:45，:rocket: 更新条数: +2020， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-10 11:38:37，:rocket: 更新条数: +2022， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-08-10-vscode-查看-js-函数间的关系](https://www.v2ex.com/t/872007) ![](assets/new.png)  
+- [2022-08-10-分享一个正版-Parallels-受害者的经验，这辈子一定不会再买这家公司的任何产品。而且这家公司有倒闭迹象，不怎么更新主力产品了](https://www.v2ex.com/t/872006) ![](assets/new.png)  
 - [2022-08-10-8-月底结束：仅限阿里云老用户：新购服务器-3.6-折-续费-6-折！](https://www.v2ex.com/t/872004) ![](assets/new.png)  
 - [2022-08-10-小程序目前框架是选-taro-还是-uni-app](https://www.v2ex.com/t/872003) ![](assets/new.png)  
 - [2022-08-10-七八百的-VA-屏用来写代码合适吗？](https://www.v2ex.com/t/872002) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-08-10-小公司的服务器配置，评价一下](https://www.v2ex.com/t/871981) ![](assets/new.png)  
 - [2022-08-10-北京电信无故封卡](https://www.v2ex.com/t/871980) ![](assets/new.png)  
 - [2022-08-10-简问反向代理](https://www.v2ex.com/t/871979) ![](assets/new.png)  
-- [2022-08-10-anker-的苹果数据线支持-usb-热点吗？](https://www.v2ex.com/t/871978) ![](assets/new.png)  
-- [2022-08-10-BitLocker-加密硬盘会影响速度吗？](https://www.v2ex.com/t/871977) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -572,7 +572,7 @@
 - [2022-08-10-WebAssembly不会取代Docker](https://toutiao.io/k/6dwzpt5) ![](assets/new.png)  
 - [2022-08-10-版本控制进阶](https://toutiao.io/k/lr242bx) ![](assets/new.png)  
 - [2022-08-10-从脚本到剪辑，影像大师亲授的后期制作秘籍](https://toutiao.io/k/g135nc8) ![](assets/new.png)  
-- [2022-08-10-推荐-研发过程中的文档管理与工具](https://toutiao.io/k/mdiqwn5) ![](assets/new.png)  
+- [2022-08-10-推荐-【大厂面试真题解析】虾皮-Shopee-后端一面十四问](https://toutiao.io/k/pol71im) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

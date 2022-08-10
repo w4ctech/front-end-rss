@@ -9953,6 +9953,41 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "go 项目 私有加密不公开代码的函数有哪些可跨平台的方案",
+        "link": "https://www.v2ex.com/t/871996",
+        "date": "2022-08-10"
+      },
+      {
+        "title": "国家免费的咽拭子，到底用的哪个企业的啊",
+        "link": "https://www.v2ex.com/t/871994",
+        "date": "2022-08-10"
+      },
+      {
+        "title": "[上海]Cahtail 团队招人啦！（可内推）",
+        "link": "https://www.v2ex.com/t/871991",
+        "date": "2022-08-10"
+      },
+      {
+        "title": "「将显示器置入睡眠状态」和「睡眠」是一个意思吗？",
+        "link": "https://www.v2ex.com/t/871990",
+        "date": "2022-08-10"
+      },
+      {
+        "title": "国内外互联网大厂众多技术岗在招",
+        "link": "https://www.v2ex.com/t/871989",
+        "date": "2022-08-10"
+      },
+      {
+        "title": "两位同样是 10 年经验的大佬， 你会选谁呢",
+        "link": "https://www.v2ex.com/t/871987",
+        "date": "2022-08-10"
+      },
+      {
+        "title": "避雷，小米净水器真的绝了，拖拖大法拖过保修期后直接拒保，拒绝维修拒绝退换，大家谨慎购买",
+        "link": "https://www.v2ex.com/t/871986",
+        "date": "2022-08-10"
+      },
+      {
         "title": "什么情况下会使用 UI 自动化而不是调用 api?",
         "link": "https://www.v2ex.com/t/871985",
         "date": "2022-08-10"
@@ -10075,41 +10110,6 @@
       {
         "title": "给北京望京、酒仙桥爱喝精酿的小伙伴发个福利～",
         "link": "https://www.v2ex.com/t/871947",
-        "date": "2022-08-10"
-      },
-      {
-        "title": "目前广州/成都/杭州/武汉/上海的就业情况怎样？大家有在相关地区的，可以分享下感受吗？",
-        "link": "https://www.v2ex.com/t/871945",
-        "date": "2022-08-10"
-      },
-      {
-        "title": "我的公众号文章排版编辑方案 2.0",
-        "link": "https://www.v2ex.com/t/871944",
-        "date": "2022-08-10"
-      },
-      {
-        "title": "U 盘一插上 PVE 工控机就开始发热，不挂载不读写也发热",
-        "link": "https://www.v2ex.com/t/871942",
-        "date": "2022-08-10"
-      },
-      {
-        "title": "找个志同道合的产品经理",
-        "link": "https://www.v2ex.com/t/871941",
-        "date": "2022-08-10"
-      },
-      {
-        "title": "利用 tpddns.cn 怎么不能远程电脑了？",
-        "link": "https://www.v2ex.com/t/871940",
-        "date": "2022-08-10"
-      },
-      {
-        "title": "微服务架构，怎么输出报表的？",
-        "link": "https://www.v2ex.com/t/871937",
-        "date": "2022-08-10"
-      },
-      {
-        "title": "为什么很多技术博客末尾都会跟一个关注公众号？",
-        "link": "https://www.v2ex.com/t/871936",
         "date": "2022-08-10"
       }
     ]
@@ -10322,23 +10322,8 @@
         "date": "2022-08-10"
       },
       {
-        "title": "[推荐] 【大厂面试真题解析】虾皮 Shopee 后端一面十四问",
-        "link": "https://toutiao.io/k/pol71im",
-        "date": "2022-08-10"
-      },
-      {
-        "title": "[推荐] Java 大后端各种架构图汇总（建议收藏！！）",
-        "link": "https://toutiao.io/k/dvo6z1w",
-        "date": "2022-08-10"
-      },
-      {
         "title": "[推荐] 研发过程中的文档管理与工具",
         "link": "https://toutiao.io/k/mdiqwn5",
-        "date": "2022-08-10"
-      },
-      {
-        "title": "[推荐] 一文搞懂 Redis 架构演化之路",
-        "link": "https://toutiao.io/k/cwwpjem",
         "date": "2022-08-10"
       },
       {
@@ -10347,8 +10332,23 @@
         "date": "2022-08-10"
       },
       {
+        "title": "[推荐] 【大厂面试真题解析】虾皮 Shopee 后端一面十四问",
+        "link": "https://toutiao.io/k/pol71im",
+        "date": "2022-08-10"
+      },
+      {
         "title": "[推荐] 老板：公司系统太多，能不能实现账号互通？",
         "link": "https://toutiao.io/k/g7sb904",
+        "date": "2022-08-10"
+      },
+      {
+        "title": "[推荐] Java 大后端各种架构图汇总（建议收藏！！）",
+        "link": "https://toutiao.io/k/dvo6z1w",
+        "date": "2022-08-10"
+      },
+      {
+        "title": "[推荐] 一文搞懂 Redis 架构演化之路",
+        "link": "https://toutiao.io/k/cwwpjem",
         "date": "2022-08-10"
       }
     ]

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-10 14:13:18，:rocket: 更新条数: +2027， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-10 14:39:10，:rocket: 更新条数: +2025， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,9 @@
 </summary>
 
 
+- [2022-08-10-全栈开发者TS,React,Node.js,-PHP-求职远程工作10-年以上经验](https://www.v2ex.com/t/872037) ![](assets/new.png)  
+- [2022-08-10-F***-U-阿里巴巴！-Windows-阿里旺旺客户端升级之后，竟然不兼容旧版数据！](https://www.v2ex.com/t/872035) ![](assets/new.png)  
+- [2022-08-10-请问加密货币硬件钱包是智商税吗](https://www.v2ex.com/t/872034) ![](assets/new.png)  
 - [2022-08-10-新手用-Coco-做的第一个软件，欢迎代佬评价一下](https://www.v2ex.com/t/872031) ![](assets/new.png)  
 - [2022-08-10-大家在下班之后或者周末时间会做些什么](https://www.v2ex.com/t/872030) ![](assets/new.png)  
 - [2022-08-10-远程全职-招聘-Web-3-后端开发工程师/月薪-30-40K-RMB-&-产品经理/月薪-20-35K-RMB](https://www.v2ex.com/t/872027) ![](assets/new.png)  
@@ -508,9 +511,6 @@
 - [2022-08-10-macOS-的搜狗输入法到底安不安全？至少从《隐私政策》来看，要比-Windows-的搜狗「克制」一些](https://www.v2ex.com/t/872014) ![](assets/new.png)  
 - [2022-08-10-我知道为什么都说-Macbook-的触摸板好用了](https://www.v2ex.com/t/872012) ![](assets/new.png)  
 - [2022-08-10-maven-使用体验很痛苦](https://www.v2ex.com/t/872011) ![](assets/new.png)  
-- [2022-08-10-windows11-无法自动睡眠有人遇到过么？](https://www.v2ex.com/t/872010) ![](assets/new.png)  
-- [2022-08-10-如何看待越来越多的技术网站弹框要求关注公众号才能继续阅读的行为？](https://www.v2ex.com/t/872009) ![](assets/new.png)  
-- [2022-08-10-vscode-查看-js-函数间的关系](https://www.v2ex.com/t/872007) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -555,8 +555,8 @@
 
 - [2022-08-10-连流量染色都没有，你说要搞微服务？](https://toutiao.io/k/9k1wfc7) ![](assets/new.png)  
 - [2022-08-10-BFF避坑指南](https://toutiao.io/k/cra0qqz) ![](assets/new.png)  
-- [2022-08-10-不超过百行的SQL文件提取器](https://toutiao.io/k/59s3dpn) ![](assets/new.png)  
 - [2022-08-10-Java基础-|-Stream流原理与用法总结](https://toutiao.io/k/bz1xc1u) ![](assets/new.png)  
+- [2022-08-10-不超过百行的SQL文件提取器](https://toutiao.io/k/59s3dpn) ![](assets/new.png)  
 - [2022-08-10-业务交互网关洪峰应对之道](https://toutiao.io/k/nxzl7n5) ![](assets/new.png)  
 - [2022-08-10-开箱即用的前端图片压缩方案](https://toutiao.io/k/tzs2u1x) ![](assets/new.png)  
 - [2022-08-10-五万字-|-深入理解Linux内存管理](https://toutiao.io/k/d0jjgi5) ![](assets/new.png)  
@@ -567,12 +567,12 @@
 - [2022-08-10-2022科技公司薪酬排行榜，来了！](https://toutiao.io/k/rzyvpm2) ![](assets/new.png)  
 - [2022-08-10-不盲追大模型与堆算力！沈向洋、曹颖与马毅提出理解-AI-的两个基本原理：简约性与自一致性](https://toutiao.io/k/vp3f16d) ![](assets/new.png)  
 - [2022-08-10-「查缺补漏」-Kafka-核心知识梳理](https://toutiao.io/k/5ezfpgj) ![](assets/new.png)  
-- [2022-08-10-分享-6-个-Vue3-开发必备的-VSCode-插件](https://toutiao.io/k/yx1bfgp) ![](assets/new.png)  
 - [2022-08-10-越折腾越好用的-3-款开源-APP](https://toutiao.io/k/tci0jj4) ![](assets/new.png)  
+- [2022-08-10-分享-6-个-Vue3-开发必备的-VSCode-插件](https://toutiao.io/k/yx1bfgp) ![](assets/new.png)  
 - [2022-08-10-WebAssembly不会取代Docker](https://toutiao.io/k/6dwzpt5) ![](assets/new.png)  
 - [2022-08-10-版本控制进阶](https://toutiao.io/k/lr242bx) ![](assets/new.png)  
 - [2022-08-10-从脚本到剪辑，影像大师亲授的后期制作秘籍](https://toutiao.io/k/g135nc8) ![](assets/new.png)  
-- [2022-08-10-推荐-一文搞懂-Redis-架构演化之路](https://toutiao.io/k/cwwpjem) ![](assets/new.png)  
+- [2022-08-10-推荐-老板：公司系统太多，能不能实现账号互通？](https://toutiao.io/k/g7sb904) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

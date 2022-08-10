@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-08-10 21:39:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-08-10 22:13:59。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1967,7 +1967,7 @@
 - [2022-08-10-越折腾越好用的-3-款开源-APP](https://toutiao.io/k/tci0jj4) 
 - [2022-08-10-版本控制进阶](https://toutiao.io/k/lr242bx) 
 - [2022-08-10-从脚本到剪辑，影像大师亲授的后期制作秘籍](https://toutiao.io/k/g135nc8) 
+- [2022-08-10-推荐-老板：公司系统太多，能不能实现账号互通？](https://toutiao.io/k/g7sb904) 
 - [2022-08-10-推荐-阿里云官方-Redis-开发规范！](https://toutiao.io/k/2fqcbfi) 
 - [2022-08-10-推荐-Java-大后端各种架构图汇总（建议收藏！！）](https://toutiao.io/k/dvo6z1w) 
-- [2022-08-10-推荐-老板：公司系统太多，能不能实现账号互通？](https://toutiao.io/k/g7sb904) 
 - [2022-08-10-推荐-研发过程中的文档管理与工具](https://toutiao.io/k/mdiqwn5) 

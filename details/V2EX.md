@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2022-08-10 17:44:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-08-10 18:17:04。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-08-10-Vite-+-React-+-Ant-Design-+-Tailwind-CSS-+-ESLint-+-Prettier-+-TypeScript-最佳实践](https://www.v2ex.com/t/872054) 
 - [2022-08-10-求测试工具](https://www.v2ex.com/t/872052) 
 - [2022-08-10-坐标北京，-9-月中旬前，可以免费教你游泳，水中自救，想做点有意义的事](https://www.v2ex.com/t/872051) 
 - [2022-08-10-插件式网页该用什么思路开发？](https://www.v2ex.com/t/872050) 
@@ -41,5 +42,3 @@
 - [2022-08-10-如何看待越来越多的技术网站弹框要求关注公众号才能继续阅读的行为？](https://www.v2ex.com/t/872009) 
 - [2022-08-10-vscode-查看-js-函数间的关系](https://www.v2ex.com/t/872007) 
 - [2022-08-10-分享一个正版-Parallels-受害者的经验，这辈子一定不会再买这家公司的任何产品。而且这家公司有倒闭迹象，不怎么更新主力产品了](https://www.v2ex.com/t/872006) 
-- [2022-08-10-8-月底结束：仅限阿里云老用户：新购服务器-3.6-折-续费-6-折！](https://www.v2ex.com/t/872004) 
-- [2022-08-10-小程序目前框架是选-taro-还是-uni-app](https://www.v2ex.com/t/872003) 

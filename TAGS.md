@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-08-10 17:44:08。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-08-10 18:17:04。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -39,6 +39,7 @@
 
 
 
+- [【V2EX】Vite-+-React-+-Ant-Design-+-Tailwind-CSS-+-ESLint-+-Prettier-+-TypeScript-最佳实践](https://www.v2ex.com/t/872054)
 - [【V2EX】React-Hook-一些实践选择的讨论](https://www.v2ex.com/t/872041)
 - [【V2EX】全栈开发者TS,React,Node.js,-PHP-求职远程工作10-年以上经验](https://www.v2ex.com/t/872037)
 - [......【查看更多】......](./details/tags/react.md)
@@ -125,7 +126,6 @@
 
 
 
-- [【V2EX】小程序目前框架是选-taro-还是-uni-app](https://www.v2ex.com/t/872003)
 - [......【查看更多】......](./details/tags/miniprogram.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

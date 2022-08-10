@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-08-10 17:44:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-08-10 18:17:04。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1940,7 +1940,6 @@
 - [2022-08-10-windows11-无法自动睡眠有人遇到过么？](https://www.v2ex.com/t/872010) 
 - [2022-08-10-如何看待越来越多的技术网站弹框要求关注公众号才能继续阅读的行为？](https://www.v2ex.com/t/872009) 
 - [2022-08-10-分享一个正版-Parallels-受害者的经验，这辈子一定不会再买这家公司的任何产品。而且这家公司有倒闭迹象，不怎么更新主力产品了](https://www.v2ex.com/t/872006) 
-- [2022-08-10-8-月底结束：仅限阿里云老用户：新购服务器-3.6-折-续费-6-折！](https://www.v2ex.com/t/872004) 
 - [2022-08-10-BFF避坑指南-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15281&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fbackends-for-frontends%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-08-10-40年前的操作系统复活了，当年Linux、Windows都借鉴过！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15280&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494410%26amp%3Bidx%3D1%26amp%3Bsn%3D6573f0c124bcd2e20c39c33d3e516526%26amp%3Bchksm%3Dfa3f0a51cd4883479817eb189805d7dfe98436addb3e47a267f25bc3cdefefbb56aeab56e7b4%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-08-10-Spring注入Bean的七种方式-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15279&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494410%26amp%3Bidx%3D2%26amp%3Bsn%3D86e311bf8e60434edd3b60be3230e3e4%26amp%3Bchksm%3Dfa3f0a51cd4883473339fccf0f251b3cc4c5a5a9f85f2f196440fc0b3b75708c184391752aed%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1969,6 +1968,6 @@
 - [2022-08-10-版本控制进阶](https://toutiao.io/k/lr242bx) 
 - [2022-08-10-从脚本到剪辑，影像大师亲授的后期制作秘籍](https://toutiao.io/k/g135nc8) 
 - [2022-08-10-推荐-老板：公司系统太多，能不能实现账号互通？](https://toutiao.io/k/g7sb904) 
+- [2022-08-10-推荐-研发过程中的文档管理与工具](https://toutiao.io/k/mdiqwn5) 
 - [2022-08-10-推荐-阿里云官方-Redis-开发规范！](https://toutiao.io/k/2fqcbfi) 
 - [2022-08-10-推荐-Java-大后端各种架构图汇总（建议收藏！！）](https://toutiao.io/k/dvo6z1w) 
-- [2022-08-10-推荐-研发过程中的文档管理与工具](https://toutiao.io/k/mdiqwn5) 

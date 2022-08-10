@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-08-10 20:15:44。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-08-10 20:41:07。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -125,30 +125,6 @@
 - [【技术头条】2022-08-10-入职美国谷歌Google搜索SRE经历-www.slyar.com](https://blogread.cn/news/go.php?idItem=15264&url=http%3A%2F%2Fwww.slyar.com%2Fblog%2Fleft-paypal-join-google-search-sre-2022.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-08-10-谁动了我的奶酪，通过-git-找出内容变更历史-droidyue.com](https://blogread.cn/news/go.php?idItem=15263&url=https%3A%2F%2Fdroidyue.com%2Fblog%2F2022%2F06%2F13%2Fa-little-git-log-case-can-do-big-help%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-08-10-如何使用cURL调试CORS请求-www.ipcpu.com](https://blogread.cn/news/go.php?idItem=15262&url=https%3A%2F%2Fwww.ipcpu.com%2F2022%2F05%2Fcurl-cors%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
-- [【开发者头条】2022-08-10-连流量染色都没有，你说要搞微服务？](https://toutiao.io/k/9k1wfc7) 
-- [【开发者头条】2022-08-10-BFF避坑指南](https://toutiao.io/k/cra0qqz) 
-- [【开发者头条】2022-08-10-Java基础-|-Stream流原理与用法总结](https://toutiao.io/k/bz1xc1u) 
-- [【开发者头条】2022-08-10-不超过百行的SQL文件提取器](https://toutiao.io/k/59s3dpn) 
-- [【开发者头条】2022-08-10-业务交互网关洪峰应对之道](https://toutiao.io/k/nxzl7n5) 
-- [【开发者头条】2022-08-10-开箱即用的前端图片压缩方案](https://toutiao.io/k/tzs2u1x) 
-- [【开发者头条】2022-08-10-五万字-|-深入理解Linux内存管理](https://toutiao.io/k/d0jjgi5) 
-- [【开发者头条】2022-08-10-提问：执行-npm-install-之后都发生了什么？](https://toutiao.io/k/7lel7t9) 
-- [【开发者头条】2022-08-10-5G变1G，线上日志瘦身还有这些骚操作？](https://toutiao.io/k/obpeila) 
-- [【开发者头条】2022-08-10-JSON之父：JavaScript已非常复杂，我们能做的最好的事情就是让它退役](https://toutiao.io/k/37i2b4t) 
-- [【开发者头条】2022-08-10-「查缺补漏」-Kafka-核心知识梳理](https://toutiao.io/k/5ezfpgj) 
-- [【开发者头条】2022-08-10-aardio-编程语言快速入门-——-语法速览](https://toutiao.io/k/pst3dx5) 
-- [【开发者头条】2022-08-10-2022科技公司薪酬排行榜，来了！](https://toutiao.io/k/rzyvpm2) 
-- [【开发者头条】2022-08-10-不盲追大模型与堆算力！沈向洋、曹颖与马毅提出理解-AI-的两个基本原理：简约性与自一致性](https://toutiao.io/k/vp3f16d) 
-- [【开发者头条】2022-08-10-越折腾越好用的-3-款开源-APP](https://toutiao.io/k/tci0jj4) 
-- [【开发者头条】2022-08-10-分享-6-个-Vue3-开发必备的-VSCode-插件](https://toutiao.io/k/yx1bfgp) 
-- [【开发者头条】2022-08-10-WebAssembly不会取代Docker](https://toutiao.io/k/6dwzpt5) 
-- [【开发者头条】2022-08-10-版本控制进阶](https://toutiao.io/k/lr242bx) 
-- [【开发者头条】2022-08-10-从脚本到剪辑，影像大师亲授的后期制作秘籍](https://toutiao.io/k/g135nc8) 
-- [【开发者头条】2022-08-10-推荐-【大厂面试真题解析】虾皮-Shopee-后端一面十四问](https://toutiao.io/k/pol71im) 
-- [【开发者头条】2022-08-10-推荐-阿里云官方-Redis-开发规范！](https://toutiao.io/k/2fqcbfi) 
-- [【开发者头条】2022-08-10-推荐-老板：公司系统太多，能不能实现账号互通？](https://toutiao.io/k/g7sb904) 
-- [【开发者头条】2022-08-10-推荐-研发过程中的文档管理与工具](https://toutiao.io/k/mdiqwn5) 
-- [【开发者头条】2022-08-10-推荐-Java-大后端各种架构图汇总（建议收藏！！）](https://toutiao.io/k/dvo6z1w) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

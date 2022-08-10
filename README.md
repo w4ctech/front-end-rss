@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-10 20:15:44，:rocket: 更新条数: +2027， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-10 20:41:07，:rocket: 更新条数: +2003， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -53,7 +53,7 @@
 - [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)![](assets/dot.png)   
-- [开发者头条](#开发者头条)![](assets/dot.png)   
+- [开发者头条](#开发者头条)  
 - [安全热点](#安全热点)  
 - [物联网智库](#物联网智库)  
 
@@ -553,26 +553,6 @@
 </summary>
 
 
-- [2022-08-10-连流量染色都没有，你说要搞微服务？](https://toutiao.io/k/9k1wfc7) ![](assets/new.png)  
-- [2022-08-10-BFF避坑指南](https://toutiao.io/k/cra0qqz) ![](assets/new.png)  
-- [2022-08-10-Java基础-|-Stream流原理与用法总结](https://toutiao.io/k/bz1xc1u) ![](assets/new.png)  
-- [2022-08-10-不超过百行的SQL文件提取器](https://toutiao.io/k/59s3dpn) ![](assets/new.png)  
-- [2022-08-10-业务交互网关洪峰应对之道](https://toutiao.io/k/nxzl7n5) ![](assets/new.png)  
-- [2022-08-10-开箱即用的前端图片压缩方案](https://toutiao.io/k/tzs2u1x) ![](assets/new.png)  
-- [2022-08-10-五万字-|-深入理解Linux内存管理](https://toutiao.io/k/d0jjgi5) ![](assets/new.png)  
-- [2022-08-10-提问：执行-npm-install-之后都发生了什么？](https://toutiao.io/k/7lel7t9) ![](assets/new.png)  
-- [2022-08-10-5G变1G，线上日志瘦身还有这些骚操作？](https://toutiao.io/k/obpeila) ![](assets/new.png)  
-- [2022-08-10-JSON之父：JavaScript已非常复杂，我们能做的最好的事情就是让它退役](https://toutiao.io/k/37i2b4t) ![](assets/new.png)  
-- [2022-08-10-「查缺补漏」-Kafka-核心知识梳理](https://toutiao.io/k/5ezfpgj) ![](assets/new.png)  
-- [2022-08-10-aardio-编程语言快速入门-——-语法速览](https://toutiao.io/k/pst3dx5) ![](assets/new.png)  
-- [2022-08-10-2022科技公司薪酬排行榜，来了！](https://toutiao.io/k/rzyvpm2) ![](assets/new.png)  
-- [2022-08-10-不盲追大模型与堆算力！沈向洋、曹颖与马毅提出理解-AI-的两个基本原理：简约性与自一致性](https://toutiao.io/k/vp3f16d) ![](assets/new.png)  
-- [2022-08-10-越折腾越好用的-3-款开源-APP](https://toutiao.io/k/tci0jj4) ![](assets/new.png)  
-- [2022-08-10-分享-6-个-Vue3-开发必备的-VSCode-插件](https://toutiao.io/k/yx1bfgp) ![](assets/new.png)  
-- [2022-08-10-WebAssembly不会取代Docker](https://toutiao.io/k/6dwzpt5) ![](assets/new.png)  
-- [2022-08-10-版本控制进阶](https://toutiao.io/k/lr242bx) ![](assets/new.png)  
-- [2022-08-10-从脚本到剪辑，影像大师亲授的后期制作秘籍](https://toutiao.io/k/g135nc8) ![](assets/new.png)  
-- [2022-08-10-推荐-【大厂面试真题解析】虾皮-Shopee-后端一面十四问](https://toutiao.io/k/pol71im) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

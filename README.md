@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-10 11:38:37，:rocket: 更新条数: +2022， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-10 12:24:39，:rocket: 更新条数: +2024， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,10 @@
 </summary>
 
 
+- [2022-08-10-我知道为什么都说-Macbook-的触摸板好用了](https://www.v2ex.com/t/872012) ![](assets/new.png)  
+- [2022-08-10-maven-使用体验很痛苦](https://www.v2ex.com/t/872011) ![](assets/new.png)  
+- [2022-08-10-windows11-无法自动睡眠有人遇到过么？](https://www.v2ex.com/t/872010) ![](assets/new.png)  
+- [2022-08-10-如何看待越来越多的技术网站弹框要求关注公众号才能继续阅读的行为？](https://www.v2ex.com/t/872009) ![](assets/new.png)  
 - [2022-08-10-vscode-查看-js-函数间的关系](https://www.v2ex.com/t/872007) ![](assets/new.png)  
 - [2022-08-10-分享一个正版-Parallels-受害者的经验，这辈子一定不会再买这家公司的任何产品。而且这家公司有倒闭迹象，不怎么更新主力产品了](https://www.v2ex.com/t/872006) ![](assets/new.png)  
 - [2022-08-10-8-月底结束：仅限阿里云老用户：新购服务器-3.6-折-续费-6-折！](https://www.v2ex.com/t/872004) ![](assets/new.png)  
@@ -507,10 +511,6 @@
 - [2022-08-10-避雷，小米净水器真的绝了，拖拖大法拖过保修期后直接拒保，拒绝维修拒绝退换，大家谨慎购买](https://www.v2ex.com/t/871986) ![](assets/new.png)  
 - [2022-08-10-什么情况下会使用-UI-自动化而不是调用-api?](https://www.v2ex.com/t/871985) ![](assets/new.png)  
 - [2022-08-10-腾讯云“老片修复”使用感受](https://www.v2ex.com/t/871984) ![](assets/new.png)  
-- [2022-08-10-社招外企conviva-小而美外企招聘](https://www.v2ex.com/t/871982) ![](assets/new.png)  
-- [2022-08-10-小公司的服务器配置，评价一下](https://www.v2ex.com/t/871981) ![](assets/new.png)  
-- [2022-08-10-北京电信无故封卡](https://www.v2ex.com/t/871980) ![](assets/new.png)  
-- [2022-08-10-简问反向代理](https://www.v2ex.com/t/871979) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -564,15 +564,15 @@
 - [2022-08-10-5G变1G，线上日志瘦身还有这些骚操作？](https://toutiao.io/k/obpeila) ![](assets/new.png)  
 - [2022-08-10-JSON之父：JavaScript已非常复杂，我们能做的最好的事情就是让它退役](https://toutiao.io/k/37i2b4t) ![](assets/new.png)  
 - [2022-08-10-aardio-编程语言快速入门-——-语法速览](https://toutiao.io/k/pst3dx5) ![](assets/new.png)  
-- [2022-08-10-不盲追大模型与堆算力！沈向洋、曹颖与马毅提出理解-AI-的两个基本原理：简约性与自一致性](https://toutiao.io/k/vp3f16d) ![](assets/new.png)  
 - [2022-08-10-2022科技公司薪酬排行榜，来了！](https://toutiao.io/k/rzyvpm2) ![](assets/new.png)  
+- [2022-08-10-不盲追大模型与堆算力！沈向洋、曹颖与马毅提出理解-AI-的两个基本原理：简约性与自一致性](https://toutiao.io/k/vp3f16d) ![](assets/new.png)  
 - [2022-08-10-「查缺补漏」-Kafka-核心知识梳理](https://toutiao.io/k/5ezfpgj) ![](assets/new.png)  
 - [2022-08-10-越折腾越好用的-3-款开源-APP](https://toutiao.io/k/tci0jj4) ![](assets/new.png)  
 - [2022-08-10-分享-6-个-Vue3-开发必备的-VSCode-插件](https://toutiao.io/k/yx1bfgp) ![](assets/new.png)  
 - [2022-08-10-WebAssembly不会取代Docker](https://toutiao.io/k/6dwzpt5) ![](assets/new.png)  
 - [2022-08-10-版本控制进阶](https://toutiao.io/k/lr242bx) ![](assets/new.png)  
 - [2022-08-10-从脚本到剪辑，影像大师亲授的后期制作秘籍](https://toutiao.io/k/g135nc8) ![](assets/new.png)  
-- [2022-08-10-推荐-【大厂面试真题解析】虾皮-Shopee-后端一面十四问](https://toutiao.io/k/pol71im) ![](assets/new.png)  
+- [2022-08-10-推荐-研发过程中的文档管理与工具](https://toutiao.io/k/mdiqwn5) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

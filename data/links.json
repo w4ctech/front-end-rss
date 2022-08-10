@@ -9953,6 +9953,31 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "一个对象有多个字段需要分别求和，每一个字段都有一个 stream 流处理不太美观",
+        "link": "https://www.v2ex.com/t/872043",
+        "date": "2022-08-10"
+      },
+      {
+        "title": "编写一个 shell 脚本，将 2 个文件的差集，输出到一个新文件",
+        "link": "https://www.v2ex.com/t/872042",
+        "date": "2022-08-10"
+      },
+      {
+        "title": "React Hook 一些实践选择的讨论",
+        "link": "https://www.v2ex.com/t/872041",
+        "date": "2022-08-10"
+      },
+      {
+        "title": "职场感觉 35 还好，可怕的是 40、45....",
+        "link": "https://www.v2ex.com/t/872040",
+        "date": "2022-08-10"
+      },
+      {
+        "title": "有没有国庆新疆组队的",
+        "link": "https://www.v2ex.com/t/872038",
+        "date": "2022-08-10"
+      },
+      {
         "title": "全栈开发者(TS,React,Node.js, PHP )求职远程工作[10 年以上经验]",
         "link": "https://www.v2ex.com/t/872037",
         "date": "2022-08-10"
@@ -10105,21 +10130,6 @@
       {
         "title": "go 项目 私有加密不公开代码的函数有哪些可跨平台的方案",
         "link": "https://www.v2ex.com/t/871996",
-        "date": "2022-08-10"
-      },
-      {
-        "title": "[上海]Cahtail 团队招人啦！（可内推）",
-        "link": "https://www.v2ex.com/t/871991",
-        "date": "2022-08-10"
-      },
-      {
-        "title": "「将显示器置入睡眠状态」和「睡眠」是一个意思吗？",
-        "link": "https://www.v2ex.com/t/871990",
-        "date": "2022-08-10"
-      },
-      {
-        "title": "国内外互联网大厂众多技术岗在招",
-        "link": "https://www.v2ex.com/t/871989",
         "date": "2022-08-10"
       }
     ]
@@ -10287,6 +10297,11 @@
         "date": "2022-08-10"
       },
       {
+        "title": "「查缺补漏」 Kafka 核心知识梳理",
+        "link": "https://toutiao.io/k/5ezfpgj",
+        "date": "2022-08-10"
+      },
+      {
         "title": "aardio 编程语言快速入门 —— 语法速览",
         "link": "https://toutiao.io/k/pst3dx5",
         "date": "2022-08-10"
@@ -10299,11 +10314,6 @@
       {
         "title": "不盲追大模型与堆算力！沈向洋、曹颖与马毅提出理解 AI 的两个基本原理：简约性与自一致性",
         "link": "https://toutiao.io/k/vp3f16d",
-        "date": "2022-08-10"
-      },
-      {
-        "title": "「查缺补漏」 Kafka 核心知识梳理",
-        "link": "https://toutiao.io/k/5ezfpgj",
         "date": "2022-08-10"
       },
       {
@@ -10332,8 +10342,8 @@
         "date": "2022-08-10"
       },
       {
-        "title": "[推荐] 老板：公司系统太多，能不能实现账号互通？",
-        "link": "https://toutiao.io/k/g7sb904",
+        "title": "[推荐] Java 大后端各种架构图汇总（建议收藏！！）",
+        "link": "https://toutiao.io/k/dvo6z1w",
         "date": "2022-08-10"
       },
       {
@@ -10342,23 +10352,23 @@
         "date": "2022-08-10"
       },
       {
+        "title": "[推荐] 阿里云官方 Redis 开发规范！",
+        "link": "https://toutiao.io/k/2fqcbfi",
+        "date": "2022-08-10"
+      },
+      {
+        "title": "[推荐] 老板：公司系统太多，能不能实现账号互通？",
+        "link": "https://toutiao.io/k/g7sb904",
+        "date": "2022-08-10"
+      },
+      {
         "title": "[推荐] 一文搞懂 Redis 架构演化之路",
         "link": "https://toutiao.io/k/cwwpjem",
         "date": "2022-08-10"
       },
       {
-        "title": "[推荐] Java 大后端各种架构图汇总（建议收藏！！）",
-        "link": "https://toutiao.io/k/dvo6z1w",
-        "date": "2022-08-10"
-      },
-      {
         "title": "[推荐] 【大厂面试真题解析】虾皮 Shopee 后端一面十四问",
         "link": "https://toutiao.io/k/pol71im",
-        "date": "2022-08-10"
-      },
-      {
-        "title": "[推荐] 阿里云官方 Redis 开发规范！",
-        "link": "https://toutiao.io/k/2fqcbfi",
         "date": "2022-08-10"
       }
     ]

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-10 13:53:50，:rocket: 更新条数: +2028， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-10 14:13:18，:rocket: 更新条数: +2027， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-08-10-新手用-Coco-做的第一个软件，欢迎代佬评价一下](https://www.v2ex.com/t/872031) ![](assets/new.png)  
+- [2022-08-10-大家在下班之后或者周末时间会做些什么](https://www.v2ex.com/t/872030) ![](assets/new.png)  
 - [2022-08-10-远程全职-招聘-Web-3-后端开发工程师/月薪-30-40K-RMB-&-产品经理/月薪-20-35K-RMB](https://www.v2ex.com/t/872027) ![](assets/new.png)  
 - [2022-08-10-小时候的回忆红警-2](https://www.v2ex.com/t/872026) ![](assets/new.png)  
 - [2022-08-10-深圳-Java-后端-求职](https://www.v2ex.com/t/872025) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-08-10-windows11-无法自动睡眠有人遇到过么？](https://www.v2ex.com/t/872010) ![](assets/new.png)  
 - [2022-08-10-如何看待越来越多的技术网站弹框要求关注公众号才能继续阅读的行为？](https://www.v2ex.com/t/872009) ![](assets/new.png)  
 - [2022-08-10-vscode-查看-js-函数间的关系](https://www.v2ex.com/t/872007) ![](assets/new.png)  
-- [2022-08-10-分享一个正版-Parallels-受害者的经验，这辈子一定不会再买这家公司的任何产品。而且这家公司有倒闭迹象，不怎么更新主力产品了](https://www.v2ex.com/t/872006) ![](assets/new.png)  
-- [2022-08-10-8-月底结束：仅限阿里云老用户：新购服务器-3.6-折-续费-6-折！](https://www.v2ex.com/t/872004) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -572,7 +572,7 @@
 - [2022-08-10-WebAssembly不会取代Docker](https://toutiao.io/k/6dwzpt5) ![](assets/new.png)  
 - [2022-08-10-版本控制进阶](https://toutiao.io/k/lr242bx) ![](assets/new.png)  
 - [2022-08-10-从脚本到剪辑，影像大师亲授的后期制作秘籍](https://toutiao.io/k/g135nc8) ![](assets/new.png)  
-- [2022-08-10-推荐-研发过程中的文档管理与工具](https://toutiao.io/k/mdiqwn5) ![](assets/new.png)  
+- [2022-08-10-推荐-一文搞懂-Redis-架构演化之路](https://toutiao.io/k/cwwpjem) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

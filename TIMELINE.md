@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-08-10 10:43:18。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-08-10 11:12:45。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,7 @@
 </summary>
 
 
+- [【V2EX】2022-08-10-8-月底结束：仅限阿里云老用户：新购服务器-3.6-折-续费-6-折！](https://www.v2ex.com/t/872004) 
 - [【V2EX】2022-08-10-小程序目前框架是选-taro-还是-uni-app](https://www.v2ex.com/t/872003) 
 - [【V2EX】2022-08-10-七八百的-VA-屏用来写代码合适吗？](https://www.v2ex.com/t/872002) 
 - [【V2EX】2022-08-10-resilio-sync-这个软件只能同步，不能备份？](https://www.v2ex.com/t/871999) 
@@ -96,8 +97,6 @@
 - [【V2EX】2022-08-10-上班闲的没事，听歌时换歌不方便，有绝招吗](https://www.v2ex.com/t/871965) 
 - [【V2EX】2022-08-10-求推荐熟悉房地产买卖纠纷方面的律师](https://www.v2ex.com/t/871963) 
 - [【V2EX】2022-08-10-程序员如何优雅的挣零花钱？](https://www.v2ex.com/t/871959) 
-- [【V2EX】2022-08-10-Brew-装不上-ca-certificates](https://www.v2ex.com/t/871955) 
-- [【V2EX】2022-08-10-远程/全职/长期-知识付费类项目，前端，-PHP-，工时-8-小时-15-25k*13](https://www.v2ex.com/t/871954) 
 - [【技术头条】2022-08-10-BFF避坑指南-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15281&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fbackends-for-frontends%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-08-10-40年前的操作系统复活了，当年Linux、Windows都借鉴过！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15280&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494410%26amp%3Bidx%3D1%26amp%3Bsn%3D6573f0c124bcd2e20c39c33d3e516526%26amp%3Bchksm%3Dfa3f0a51cd4883479817eb189805d7dfe98436addb3e47a267f25bc3cdefefbb56aeab56e7b4%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-08-10-Spring注入Bean的七种方式-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15279&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494410%26amp%3Bidx%3D2%26amp%3Bsn%3D86e311bf8e60434edd3b60be3230e3e4%26amp%3Bchksm%3Dfa3f0a51cd4883473339fccf0f251b3cc4c5a5a9f85f2f196440fc0b3b75708c184391752aed%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -137,12 +136,12 @@
 - [【开发者头条】2022-08-10-WebAssembly不会取代Docker](https://toutiao.io/k/6dwzpt5) 
 - [【开发者头条】2022-08-10-版本控制进阶](https://toutiao.io/k/lr242bx) 
 - [【开发者头条】2022-08-10-从脚本到剪辑，影像大师亲授的后期制作秘籍](https://toutiao.io/k/g135nc8) 
-- [【开发者头条】2022-08-10-推荐-阿里云官方-Redis-开发规范！](https://toutiao.io/k/2fqcbfi) 
 - [【开发者头条】2022-08-10-推荐-研发过程中的文档管理与工具](https://toutiao.io/k/mdiqwn5) 
-- [【开发者头条】2022-08-10-推荐-一文搞懂-Redis-架构演化之路](https://toutiao.io/k/cwwpjem) 
-- [【开发者头条】2022-08-10-推荐-老板：公司系统太多，能不能实现账号互通？](https://toutiao.io/k/g7sb904) 
 - [【开发者头条】2022-08-10-推荐-【大厂面试真题解析】虾皮-Shopee-后端一面十四问](https://toutiao.io/k/pol71im) 
+- [【开发者头条】2022-08-10-推荐-老板：公司系统太多，能不能实现账号互通？](https://toutiao.io/k/g7sb904) 
 - [【开发者头条】2022-08-10-推荐-Java-大后端各种架构图汇总（建议收藏！！）](https://toutiao.io/k/dvo6z1w) 
+- [【开发者头条】2022-08-10-推荐-阿里云官方-Redis-开发规范！](https://toutiao.io/k/2fqcbfi) 
+- [【开发者头条】2022-08-10-推荐-一文搞懂-Redis-架构演化之路](https://toutiao.io/k/cwwpjem) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

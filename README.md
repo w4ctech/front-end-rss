@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-10 10:43:18，:rocket: 更新条数: +2021， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-10 11:12:45，:rocket: 更新条数: +2020， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-08-10-8-月底结束：仅限阿里云老用户：新购服务器-3.6-折-续费-6-折！](https://www.v2ex.com/t/872004) ![](assets/new.png)  
 - [2022-08-10-小程序目前框架是选-taro-还是-uni-app](https://www.v2ex.com/t/872003) ![](assets/new.png)  
 - [2022-08-10-七八百的-VA-屏用来写代码合适吗？](https://www.v2ex.com/t/872002) ![](assets/new.png)  
 - [2022-08-10-resilio-sync-这个软件只能同步，不能备份？](https://www.v2ex.com/t/871999) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-08-10-简问反向代理](https://www.v2ex.com/t/871979) ![](assets/new.png)  
 - [2022-08-10-anker-的苹果数据线支持-usb-热点吗？](https://www.v2ex.com/t/871978) ![](assets/new.png)  
 - [2022-08-10-BitLocker-加密硬盘会影响速度吗？](https://www.v2ex.com/t/871977) ![](assets/new.png)  
-- [2022-08-10-美团内部问题导致正常账户不可用，有哪些手段能挽回损失](https://www.v2ex.com/t/871975) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -572,7 +572,7 @@
 - [2022-08-10-WebAssembly不会取代Docker](https://toutiao.io/k/6dwzpt5) ![](assets/new.png)  
 - [2022-08-10-版本控制进阶](https://toutiao.io/k/lr242bx) ![](assets/new.png)  
 - [2022-08-10-从脚本到剪辑，影像大师亲授的后期制作秘籍](https://toutiao.io/k/g135nc8) ![](assets/new.png)  
-- [2022-08-10-推荐-阿里云官方-Redis-开发规范！](https://toutiao.io/k/2fqcbfi) ![](assets/new.png)  
+- [2022-08-10-推荐-研发过程中的文档管理与工具](https://toutiao.io/k/mdiqwn5) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

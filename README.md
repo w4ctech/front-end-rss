@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-10 20:41:07，:rocket: 更新条数: +2003， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-10 21:13:42，:rocket: 更新条数: +2003， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-08-10-MacOS-小组件莫名消失](https://www.v2ex.com/t/872057) ![](assets/new.png)  
 - [2022-08-10-有人用-NextCloud-同步大文件出错的吗？](https://www.v2ex.com/t/872055) ![](assets/new.png)  
 - [2022-08-10-Vite-+-React-+-Ant-Design-+-Tailwind-CSS-+-ESLint-+-Prettier-+-TypeScript-最佳实践](https://www.v2ex.com/t/872054) ![](assets/new.png)  
 - [2022-08-10-求测试工具](https://www.v2ex.com/t/872052) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-08-10-请问加密货币硬件钱包是智商税吗](https://www.v2ex.com/t/872034) ![](assets/new.png)  
 - [2022-08-10-新手用-Coco-做的第一个软件，欢迎代佬评价一下](https://www.v2ex.com/t/872031) ![](assets/new.png)  
 - [2022-08-10-大家在下班之后或者周末时间会做些什么](https://www.v2ex.com/t/872030) ![](assets/new.png)  
-- [2022-08-10-远程全职-招聘-Web-3-后端开发工程师/月薪-30-40K-RMB-&-产品经理/月薪-20-35K-RMB](https://www.v2ex.com/t/872027) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

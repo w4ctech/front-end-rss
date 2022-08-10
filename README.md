@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-10 07:39:16，:rocket: 更新条数: +2027， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-10 08:17:36，:rocket: 更新条数: +2025， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,10 @@
 </summary>
 
 
+- [2022-08-10-Brew-装不上-ca-certificates](https://www.v2ex.com/t/871955) ![](assets/new.png)  
+- [2022-08-10-远程/全职/长期-知识付费类项目，前端，-PHP-，工时-8-小时-15-25k*13](https://www.v2ex.com/t/871954) ![](assets/new.png)  
+- [2022-08-10-Snippet-Csharp-批量导入助手-代码片段](https://www.v2ex.com/t/871953) ![](assets/new.png)  
+- [2022-08-10-Mac-真的有人能一根指头一次打开吗？](https://www.v2ex.com/t/871952) ![](assets/new.png)  
 - [2022-08-10-买了个新的-8T-硬盘，结果被京东快递给摔了。](https://www.v2ex.com/t/871950) ![](assets/new.png)  
 - [2022-08-10-Windows-也有快照功能？](https://www.v2ex.com/t/871949) ![](assets/new.png)  
 - [2022-08-10-开源的数据库发布系统](https://www.v2ex.com/t/871948) ![](assets/new.png)  
@@ -500,7 +504,6 @@
 - [2022-08-10-U-盘一插上-PVE-工控机就开始发热，不挂载不读写也发热](https://www.v2ex.com/t/871942) ![](assets/new.png)  
 - [2022-08-10-找个志同道合的产品经理](https://www.v2ex.com/t/871941) ![](assets/new.png)  
 - [2022-08-10-利用-tpddns.cn-怎么不能远程电脑了？](https://www.v2ex.com/t/871940) ![](assets/new.png)  
-- [2022-08-10-网站备案，网站名称你们都是怎么填的?](https://www.v2ex.com/t/871938) ![](assets/new.png)  
 - [2022-08-10-微服务架构，怎么输出报表的？](https://www.v2ex.com/t/871937) ![](assets/new.png)  
 - [2022-08-10-为什么很多技术博客末尾都会跟一个关注公众号？](https://www.v2ex.com/t/871936) ![](assets/new.png)  
 - [2022-08-10-米家接入了亚马逊-alexa-生态](https://www.v2ex.com/t/871935) ![](assets/new.png)  
@@ -508,9 +511,6 @@
 - [2022-08-10-日本肉翻-会英语即可移动支付公司-PayPayペイペイ各种职位内推](https://www.v2ex.com/t/871931) ![](assets/new.png)  
 - [2022-08-10-在-Linux-开发微信小程序](https://www.v2ex.com/t/871930) ![](assets/new.png)  
 - [2022-08-10-想买个-128g-的-pixel4xl-美版求推荐靠谱淘宝店](https://www.v2ex.com/t/871928) ![](assets/new.png)  
-- [2022-08-10-关于学吉他，求过来人给点建议](https://www.v2ex.com/t/871927) ![](assets/new.png)  
-- [2022-08-10-想请教下-TypeScript-里面几个泛型方法的写法](https://www.v2ex.com/t/871926) ![](assets/new.png)  
-- [2022-08-10-北京应届-招聘运维；前端；运开；](https://www.v2ex.com/t/871925) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -572,7 +572,7 @@
 - [2022-08-10-分享-6-个-Vue3-开发必备的-VSCode-插件](https://toutiao.io/k/yx1bfgp) ![](assets/new.png)  
 - [2022-08-10-版本控制进阶](https://toutiao.io/k/lr242bx) ![](assets/new.png)  
 - [2022-08-10-从脚本到剪辑，影像大师亲授的后期制作秘籍](https://toutiao.io/k/g135nc8) ![](assets/new.png)  
-- [2022-08-10-推荐-研发过程中的文档管理与工具](https://toutiao.io/k/mdiqwn5) ![](assets/new.png)  
+- [2022-08-10-推荐-阿里云官方-Redis-开发规范！](https://toutiao.io/k/2fqcbfi) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

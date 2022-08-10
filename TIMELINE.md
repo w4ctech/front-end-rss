@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-08-10 07:39:16。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-08-10 08:17:36。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,10 @@
 </summary>
 
 
+- [【V2EX】2022-08-10-Brew-装不上-ca-certificates](https://www.v2ex.com/t/871955) 
+- [【V2EX】2022-08-10-远程/全职/长期-知识付费类项目，前端，-PHP-，工时-8-小时-15-25k*13](https://www.v2ex.com/t/871954) 
+- [【V2EX】2022-08-10-Snippet-Csharp-批量导入助手-代码片段](https://www.v2ex.com/t/871953) 
+- [【V2EX】2022-08-10-Mac-真的有人能一根指头一次打开吗？](https://www.v2ex.com/t/871952) 
 - [【V2EX】2022-08-10-买了个新的-8T-硬盘，结果被京东快递给摔了。](https://www.v2ex.com/t/871950) 
 - [【V2EX】2022-08-10-Windows-也有快照功能？](https://www.v2ex.com/t/871949) 
 - [【V2EX】2022-08-10-开源的数据库发布系统](https://www.v2ex.com/t/871948) 
@@ -77,7 +81,6 @@
 - [【V2EX】2022-08-10-U-盘一插上-PVE-工控机就开始发热，不挂载不读写也发热](https://www.v2ex.com/t/871942) 
 - [【V2EX】2022-08-10-找个志同道合的产品经理](https://www.v2ex.com/t/871941) 
 - [【V2EX】2022-08-10-利用-tpddns.cn-怎么不能远程电脑了？](https://www.v2ex.com/t/871940) 
-- [【V2EX】2022-08-10-网站备案，网站名称你们都是怎么填的?](https://www.v2ex.com/t/871938) 
 - [【V2EX】2022-08-10-微服务架构，怎么输出报表的？](https://www.v2ex.com/t/871937) 
 - [【V2EX】2022-08-10-为什么很多技术博客末尾都会跟一个关注公众号？](https://www.v2ex.com/t/871936) 
 - [【V2EX】2022-08-10-米家接入了亚马逊-alexa-生态](https://www.v2ex.com/t/871935) 
@@ -99,11 +102,6 @@
 - [【V2EX】2022-08-10-求助，-ios-突然上不了外网，但-mac-上一切正常，尝试了-100-种办法了一直没解决](https://www.v2ex.com/t/871912) 
 - [【V2EX】2022-08-10-有没有使用-rustdesk-远控的？怎么没法输入字符](https://www.v2ex.com/t/871910) 
 - [【V2EX】2022-08-10-如何在-VScode-中使用-SSR](https://www.v2ex.com/t/871909) 
-- [【V2EX】2022-08-10-有没有可能使用无线电来传送互联网信号](https://www.v2ex.com/t/871908) 
-- [【V2EX】2022-08-10-什么渠道买高配的-X1-Carbon-比较合适？](https://www.v2ex.com/t/871907) 
-- [【V2EX】2022-08-10-一个关于类型设计的优化问题](https://www.v2ex.com/t/871906) 
-- [【V2EX】2022-08-10--go+ent-找人开发后端](https://www.v2ex.com/t/871903) 
-- [【V2EX】2022-08-10-这是什么-U？](https://www.v2ex.com/t/871902) 
 - [【技术头条】2022-08-10-BFF避坑指南-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15281&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fbackends-for-frontends%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-08-10-40年前的操作系统复活了，当年Linux、Windows都借鉴过！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15280&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494410%26amp%3Bidx%3D1%26amp%3Bsn%3D6573f0c124bcd2e20c39c33d3e516526%26amp%3Bchksm%3Dfa3f0a51cd4883479817eb189805d7dfe98436addb3e47a267f25bc3cdefefbb56aeab56e7b4%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-08-10-Spring注入Bean的七种方式-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15279&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494410%26amp%3Bidx%3D2%26amp%3Bsn%3D86e311bf8e60434edd3b60be3230e3e4%26amp%3Bchksm%3Dfa3f0a51cd4883473339fccf0f251b3cc4c5a5a9f85f2f196440fc0b3b75708c184391752aed%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -143,11 +141,11 @@
 - [【开发者头条】2022-08-10-分享-6-个-Vue3-开发必备的-VSCode-插件](https://toutiao.io/k/yx1bfgp) 
 - [【开发者头条】2022-08-10-版本控制进阶](https://toutiao.io/k/lr242bx) 
 - [【开发者头条】2022-08-10-从脚本到剪辑，影像大师亲授的后期制作秘籍](https://toutiao.io/k/g135nc8) 
-- [【开发者头条】2022-08-10-推荐-研发过程中的文档管理与工具](https://toutiao.io/k/mdiqwn5) 
 - [【开发者头条】2022-08-10-推荐-阿里云官方-Redis-开发规范！](https://toutiao.io/k/2fqcbfi) 
-- [【开发者头条】2022-08-10-推荐-【大厂面试真题解析】虾皮-Shopee-后端一面十四问](https://toutiao.io/k/pol71im) 
-- [【开发者头条】2022-08-10-推荐-老板：公司系统太多，能不能实现账号互通？](https://toutiao.io/k/g7sb904) 
 - [【开发者头条】2022-08-10-推荐-一文搞懂-Redis-架构演化之路](https://toutiao.io/k/cwwpjem) 
+- [【开发者头条】2022-08-10-推荐-老板：公司系统太多，能不能实现账号互通？](https://toutiao.io/k/g7sb904) 
+- [【开发者头条】2022-08-10-推荐-研发过程中的文档管理与工具](https://toutiao.io/k/mdiqwn5) 
+- [【开发者头条】2022-08-10-推荐-【大厂面试真题解析】虾皮-Shopee-后端一面十四问](https://toutiao.io/k/pol71im) 
 - [【开发者头条】2022-08-10-推荐-Java-大后端各种架构图汇总（建议收藏！！）](https://toutiao.io/k/dvo6z1w) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>

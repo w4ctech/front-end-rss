@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-10 04:49:41，:rocket: 更新条数: +2025， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-10 05:13:47，:rocket: 更新条数: +2024， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-08-10-什么渠道买高配的-X1-Carbon-比较合适？](https://www.v2ex.com/t/871907) ![](assets/new.png)  
+- [2022-08-10-一个关于类型设计的优化问题](https://www.v2ex.com/t/871906) ![](assets/new.png)  
 - [2022-08-10--go+ent-找人开发后端](https://www.v2ex.com/t/871903) ![](assets/new.png)  
 - [2022-08-10-这是什么-U？](https://www.v2ex.com/t/871902) ![](assets/new.png)  
 - [2022-08-10-bug-数和测试同学的认可度决定开发的绩效是否合理](https://www.v2ex.com/t/871899) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-08-10-老板加薪！看我做的-WPF-Loading！](https://www.v2ex.com/t/871883) ![](assets/new.png)  
 - [2022-08-10-来看看这个-ArrayList-冒泡排序的问题也是服了，帮我举个例子](https://www.v2ex.com/t/871882) ![](assets/new.png)  
 - [2022-08-10-准备养龟了，推荐几只乌龟](https://www.v2ex.com/t/871881) ![](assets/new.png)  
-- [2022-08-10-关于-CS50-Lecture-6-Python-演示时出现错误的原因](https://www.v2ex.com/t/871879) ![](assets/new.png)  
-- [2022-08-10-使用-rsync-同步，如何能多保留几个版本？](https://www.v2ex.com/t/871878) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -567,12 +567,12 @@
 - [2022-08-10-不盲追大模型与堆算力！沈向洋、曹颖与马毅提出理解-AI-的两个基本原理：简约性与自一致性](https://toutiao.io/k/vp3f16d) ![](assets/new.png)  
 - [2022-08-10-2022科技公司薪酬排行榜，来了！](https://toutiao.io/k/rzyvpm2) ![](assets/new.png)  
 - [2022-08-10-「查缺补漏」-Kafka-核心知识梳理](https://toutiao.io/k/5ezfpgj) ![](assets/new.png)  
+- [2022-08-10-推荐-老板：公司系统太多，能不能实现账号互通？](https://toutiao.io/k/g7sb904) ![](assets/new.png)  
+- [2022-08-10-推荐-【大厂面试真题解析】虾皮-Shopee-后端一面十四问](https://toutiao.io/k/pol71im) ![](assets/new.png)  
 - [2022-08-10-推荐-Java-大后端各种架构图汇总（建议收藏！！）](https://toutiao.io/k/dvo6z1w) ![](assets/new.png)  
 - [2022-08-10-推荐-研发过程中的文档管理与工具](https://toutiao.io/k/mdiqwn5) ![](assets/new.png)  
 - [2022-08-10-推荐-阿里云官方-Redis-开发规范！](https://toutiao.io/k/2fqcbfi) ![](assets/new.png)  
 - [2022-08-10-推荐-一文搞懂-Redis-架构演化之路](https://toutiao.io/k/cwwpjem) ![](assets/new.png)  
-- [2022-08-10-推荐-老板：公司系统太多，能不能实现账号互通？](https://toutiao.io/k/g7sb904) ![](assets/new.png)  
-- [2022-08-10-推荐-【大厂面试真题解析】虾皮-Shopee-后端一面十四问](https://toutiao.io/k/pol71im) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

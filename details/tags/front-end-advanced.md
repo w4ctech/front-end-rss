@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-08-11 11:13:16。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-08-11 11:38:12。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 前端进阶相关
 
@@ -6,5 +6,3 @@
 > 关键字：`AST`、`GPU`、`WebAssembly`、`Vim`、`HTTP`、`算法`、`全栈`
 
 
-
-- [2022-08-11-uwsgi-http-hr_instance_read:-Connection-reset-by-peer](https://www.v2ex.com/t/872219) 

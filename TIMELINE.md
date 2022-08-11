@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-08-11 15:15:40。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-08-11 15:43:45。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,7 @@
 </summary>
 
 
+- [【V2EX】2022-08-11-知乎北京实习知乎内容平台&用户平台后端实习求简历](https://www.v2ex.com/t/872307) 
 - [【V2EX】2022-08-11-大家平时写-SQL-会用正则表达式吗？](https://www.v2ex.com/t/872306) 
 - [【V2EX】2022-08-11-大家在用-MacBook-的时候会启用-Siri-吗？](https://www.v2ex.com/t/872305) 
 - [【V2EX】2022-08-11-请问有做自动驾驶的大神么，你们是怎么进入这个行业的？](https://www.v2ex.com/t/872304) 
@@ -104,7 +105,6 @@
 - [【V2EX】2022-08-11-域名太多，能做啥？](https://www.v2ex.com/t/872261) 
 - [【V2EX】2022-08-11-用-100-行-Ruby-代码模拟-JavaScript-的-Eventloop](https://www.v2ex.com/t/872259) 
 - [【V2EX】2022-08-11-base-上海，（还差-5-个月的）5-年前端，求个饭碗](https://www.v2ex.com/t/872258) 
-- [【V2EX】2022-08-11-Unity3d-开发工程师-居家办公](https://www.v2ex.com/t/872257) 
 - [【技术头条】2022-08-11-像用户一样测试：不妨犯傻-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15282&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftest-like-user-2%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-08-11-BFF避坑指南-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15281&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fbackends-for-frontends%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-08-11-40年前的操作系统复活了，当年Linux、Windows都借鉴过！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15280&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494410%26amp%3Bidx%3D1%26amp%3Bsn%3D6573f0c124bcd2e20c39c33d3e516526%26amp%3Bchksm%3Dfa3f0a51cd4883479817eb189805d7dfe98436addb3e47a267f25bc3cdefefbb56aeab56e7b4%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -145,11 +145,11 @@
 - [【开发者头条】2022-08-11-Go-只会-if-err-!=-nil？这是不对的，分享这些优雅的处理姿势给你！](https://toutiao.io/k/ow60ab5) 
 - [【开发者头条】2022-08-11-Apache-APISIX-在微软云-ARM-和-x86-服务器上的性能测试对比](https://toutiao.io/k/bul4uhb) 
 - [【开发者头条】2022-08-11-Go-中的数据竞争模型](https://toutiao.io/k/0krtmrb) 
+- [【开发者头条】2022-08-11-推荐-研发过程中的文档管理与工具](https://toutiao.io/k/mdiqwn5) 
 - [【开发者头条】2022-08-11-推荐-老板：公司系统太多，能不能实现账号互通？](https://toutiao.io/k/g7sb904) 
 - [【开发者头条】2022-08-11-推荐-【大厂面试真题解析】虾皮-Shopee-后端一面十四问](https://toutiao.io/k/pol71im) 
-- [【开发者头条】2022-08-11-推荐-Java-大后端各种架构图汇总（建议收藏！！）](https://toutiao.io/k/dvo6z1w) 
-- [【开发者头条】2022-08-11-推荐-研发过程中的文档管理与工具](https://toutiao.io/k/mdiqwn5) 
 - [【开发者头条】2022-08-11-推荐-阿里云官方-Redis-开发规范！](https://toutiao.io/k/2fqcbfi) 
+- [【开发者头条】2022-08-11-推荐-Java-大后端各种架构图汇总（建议收藏！！）](https://toutiao.io/k/dvo6z1w) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

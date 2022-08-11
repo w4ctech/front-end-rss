@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-08-11 09:43:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-08-11 10:15:45。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 前端进阶相关
 
@@ -8,4 +8,3 @@
 
 
 - [2022-08-11-uwsgi-http-hr_instance_read:-Connection-reset-by-peer](https://www.v2ex.com/t/872219) 
-- [2022-08-11-广州-汇丰银行-安卓、IOS、-Python-、全栈啥的，宝子们捞一捞，出粮准时，荒年了找个地儿吃着先。](https://www.v2ex.com/t/872189) 

@@ -9953,6 +9953,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "大家平时写 SQL 会用正则表达式吗？",
+        "link": "https://www.v2ex.com/t/872306",
+        "date": "2022-08-11"
+      },
+      {
         "title": "大家在用 MacBook 的时候会启用 Siri 吗？",
         "link": "https://www.v2ex.com/t/872305",
         "date": "2022-08-11"
@@ -10130,11 +10135,6 @@
       {
         "title": "Unity3d 开发工程师-居家办公",
         "link": "https://www.v2ex.com/t/872257",
-        "date": "2022-08-11"
-      },
-      {
-        "title": "显示器 typce 接笔记本有点漏电是什么原因？",
-        "link": "https://www.v2ex.com/t/872256",
         "date": "2022-08-11"
       }
     ]
@@ -10352,11 +10352,6 @@
         "date": "2022-08-11"
       },
       {
-        "title": "[推荐] 阿里云官方 Redis 开发规范！",
-        "link": "https://toutiao.io/k/2fqcbfi",
-        "date": "2022-08-11"
-      },
-      {
         "title": "[推荐] 老板：公司系统太多，能不能实现账号互通？",
         "link": "https://toutiao.io/k/g7sb904",
         "date": "2022-08-11"
@@ -10374,6 +10369,11 @@
       {
         "title": "[推荐] 研发过程中的文档管理与工具",
         "link": "https://toutiao.io/k/mdiqwn5",
+        "date": "2022-08-11"
+      },
+      {
+        "title": "[推荐] 阿里云官方 Redis 开发规范！",
+        "link": "https://toutiao.io/k/2fqcbfi",
         "date": "2022-08-11"
       }
     ]

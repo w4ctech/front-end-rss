@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2022-08-11 14:39:31。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-08-11 15:15:40。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-08-11-大家平时写-SQL-会用正则表达式吗？](https://www.v2ex.com/t/872306) 
 - [2022-08-11-大家在用-MacBook-的时候会启用-Siri-吗？](https://www.v2ex.com/t/872305) 
 - [2022-08-11-请问有做自动驾驶的大神么，你们是怎么进入这个行业的？](https://www.v2ex.com/t/872304) 
 - [2022-08-11-Python-模拟人手操作微信，一个-Python-操作微信电脑版的脚本](https://www.v2ex.com/t/872303) 
@@ -41,4 +42,3 @@
 - [2022-08-11-用-100-行-Ruby-代码模拟-JavaScript-的-Eventloop](https://www.v2ex.com/t/872259) 
 - [2022-08-11-base-上海，（还差-5-个月的）5-年前端，求个饭碗](https://www.v2ex.com/t/872258) 
 - [2022-08-11-Unity3d-开发工程师-居家办公](https://www.v2ex.com/t/872257) 
-- [2022-08-11-显示器-typce-接笔记本有点漏电是什么原因？](https://www.v2ex.com/t/872256) 

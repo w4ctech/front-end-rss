@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-08-11 14:39:30。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-08-11 15:15:40。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1942,7 +1942,6 @@
 - [2022-08-11-macOS-ventura-13.0-合盖不关显示器设置在哪里？咋办？](https://www.v2ex.com/t/872262) 
 - [2022-08-11-域名太多，能做啥？](https://www.v2ex.com/t/872261) 
 - [2022-08-11-base-上海，（还差-5-个月的）5-年前端，求个饭碗](https://www.v2ex.com/t/872258) 
-- [2022-08-11-显示器-typce-接笔记本有点漏电是什么原因？](https://www.v2ex.com/t/872256) 
 - [2022-08-11-像用户一样测试：不妨犯傻-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15282&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftest-like-user-2%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-08-11-BFF避坑指南-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15281&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fbackends-for-frontends%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-08-11-40年前的操作系统复活了，当年Linux、Windows都借鉴过！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15280&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494410%26amp%3Bidx%3D1%26amp%3Bsn%3D6573f0c124bcd2e20c39c33d3e516526%26amp%3Bchksm%3Dfa3f0a51cd4883479817eb189805d7dfe98436addb3e47a267f25bc3cdefefbb56aeab56e7b4%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1971,7 +1970,7 @@
 - [2022-08-11-一步一图带你深入剖析-JDK-NIO-ByteBuffer-在不同字节序下的设计与实现](https://toutiao.io/k/bybzvu8) 
 - [2022-08-11-Go-只会-if-err-!=-nil？这是不对的，分享这些优雅的处理姿势给你！](https://toutiao.io/k/ow60ab5) 
 - [2022-08-11-Go-中的数据竞争模型](https://toutiao.io/k/0krtmrb) 
-- [2022-08-11-推荐-阿里云官方-Redis-开发规范！](https://toutiao.io/k/2fqcbfi) 
 - [2022-08-11-推荐-老板：公司系统太多，能不能实现账号互通？](https://toutiao.io/k/g7sb904) 
 - [2022-08-11-推荐-Java-大后端各种架构图汇总（建议收藏！！）](https://toutiao.io/k/dvo6z1w) 
 - [2022-08-11-推荐-研发过程中的文档管理与工具](https://toutiao.io/k/mdiqwn5) 
+- [2022-08-11-推荐-阿里云官方-Redis-开发规范！](https://toutiao.io/k/2fqcbfi) 

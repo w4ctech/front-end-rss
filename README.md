@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-11 14:39:30，:rocket: 更新条数: +2028， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-11 15:15:40，:rocket: 更新条数: +2028， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-08-11-大家平时写-SQL-会用正则表达式吗？](https://www.v2ex.com/t/872306) ![](assets/new.png)  
 - [2022-08-11-大家在用-MacBook-的时候会启用-Siri-吗？](https://www.v2ex.com/t/872305) ![](assets/new.png)  
 - [2022-08-11-请问有做自动驾驶的大神么，你们是怎么进入这个行业的？](https://www.v2ex.com/t/872304) ![](assets/new.png)  
 - [2022-08-11-Python-模拟人手操作微信，一个-Python-操作微信电脑版的脚本](https://www.v2ex.com/t/872303) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-08-11-江苏电信-BRAS-割接后，对宽带账号绑定-ip-段](https://www.v2ex.com/t/872285) ![](assets/new.png)  
 - [2022-08-11-第三方的-oauth2-怎么做进-vscode-插件里](https://www.v2ex.com/t/872283) ![](assets/new.png)  
 - [2022-08-11-“毕业”了](https://www.v2ex.com/t/872282) ![](assets/new.png)  
-- [2022-08-11-跨（非）功能需求管理](https://www.v2ex.com/t/872281) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

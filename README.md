@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-11 14:12:55，:rocket: 更新条数: +2026， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-11 14:39:30，:rocket: 更新条数: +2028， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,14 @@
 </summary>
 
 
+- [2022-08-11-大家在用-MacBook-的时候会启用-Siri-吗？](https://www.v2ex.com/t/872305) ![](assets/new.png)  
+- [2022-08-11-请问有做自动驾驶的大神么，你们是怎么进入这个行业的？](https://www.v2ex.com/t/872304) ![](assets/new.png)  
+- [2022-08-11-Python-模拟人手操作微信，一个-Python-操作微信电脑版的脚本](https://www.v2ex.com/t/872303) ![](assets/new.png)  
+- [2022-08-11-上海五角场创业团队招后端工程师（2-3-年经验）](https://www.v2ex.com/t/872302) ![](assets/new.png)  
+- [2022-08-11-如何从-Kafka-消费的数据中取最大值存储？](https://www.v2ex.com/t/872301) ![](assets/new.png)  
+- [2022-08-11-Windows-下有没有快速切换-6-个-idea-窗口的方案？](https://www.v2ex.com/t/872300) ![](assets/new.png)  
+- [2022-08-11-想上日亚或是美雅申请什么卡？](https://www.v2ex.com/t/872299) ![](assets/new.png)  
+- [2022-08-11-美团买菜、盒马谁知道？有偿](https://www.v2ex.com/t/872298) ![](assets/new.png)  
 - [2022-08-11-水浸传感器有什么推荐吗？小米的水浸卫士感觉像个玩具。](https://www.v2ex.com/t/872297) ![](assets/new.png)  
 - [2022-08-11-如何不解锁运行捷径打开应用-|-如何定时用-HomePod-播放-Spotify](https://www.v2ex.com/t/872294) ![](assets/new.png)  
 - [2022-08-11-作为酒桌文化的文盲，我好慌……](https://www.v2ex.com/t/872293) ![](assets/new.png)  
@@ -503,14 +511,6 @@
 - [2022-08-11-第三方的-oauth2-怎么做进-vscode-插件里](https://www.v2ex.com/t/872283) ![](assets/new.png)  
 - [2022-08-11-“毕业”了](https://www.v2ex.com/t/872282) ![](assets/new.png)  
 - [2022-08-11-跨（非）功能需求管理](https://www.v2ex.com/t/872281) ![](assets/new.png)  
-- [2022-08-11-美国手机号，在-app-之类的能做啥？](https://www.v2ex.com/t/872279) ![](assets/new.png)  
-- [2022-08-11-如何正确的使用-redis](https://www.v2ex.com/t/872276) ![](assets/new.png)  
-- [2022-08-11-如果搜索結果噪音太多，一般加哪些-site-前綴降低噪音？](https://www.v2ex.com/t/872275) ![](assets/new.png)  
-- [2022-08-11-手写-api-文档写得想跑路了](https://www.v2ex.com/t/872274) ![](assets/new.png)  
-- [2022-08-11-macOS-ventura-13.0-beta3-合盖不关外接显示器设置在哪里？咋办？](https://www.v2ex.com/t/872273) ![](assets/new.png)  
-- [2022-08-11-如何在微信-H5-中通过-URL-下载视频文件](https://www.v2ex.com/t/872272) ![](assets/new.png)  
-- [2022-08-11-编写代码的工作区文件路径需要全部保持纯英文么？](https://www.v2ex.com/t/872269) ![](assets/new.png)  
-- [2022-08-11-腾讯轻量云是无法显示主机列表了？](https://www.v2ex.com/t/872268) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -567,8 +567,8 @@
 - [2022-08-11-快速了解-Kubernetes-的架构及特性](https://toutiao.io/k/s50ej8n) ![](assets/new.png)  
 - [2022-08-11-浅析-Vue3-响应式原理](https://toutiao.io/k/1digmei) ![](assets/new.png)  
 - [2022-08-11-Pybind11加速AI极速落地-|-AthenaServing-Doc](https://toutiao.io/k/e8usrt2) ![](assets/new.png)  
-- [2022-08-11-Hive基础进阶10大技巧](https://toutiao.io/k/45phoda) ![](assets/new.png)  
 - [2022-08-11-小团队周例会你会开吗？](https://toutiao.io/k/4jnp7qw) ![](assets/new.png)  
+- [2022-08-11-Hive基础进阶10大技巧](https://toutiao.io/k/45phoda) ![](assets/new.png)  
 - [2022-08-11-一步一图带你深入剖析-JDK-NIO-ByteBuffer-在不同字节序下的设计与实现](https://toutiao.io/k/bybzvu8) ![](assets/new.png)  
 - [2022-08-11-Go-只会-if-err-!=-nil？这是不对的，分享这些优雅的处理姿势给你！](https://toutiao.io/k/ow60ab5) ![](assets/new.png)  
 - [2022-08-11-Apache-APISIX-在微软云-ARM-和-x86-服务器上的性能测试对比](https://toutiao.io/k/bul4uhb) ![](assets/new.png)  

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-08-11 14:12:55。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-08-11 14:39:30。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,14 @@
 </summary>
 
 
+- [【V2EX】2022-08-11-大家在用-MacBook-的时候会启用-Siri-吗？](https://www.v2ex.com/t/872305) 
+- [【V2EX】2022-08-11-请问有做自动驾驶的大神么，你们是怎么进入这个行业的？](https://www.v2ex.com/t/872304) 
+- [【V2EX】2022-08-11-Python-模拟人手操作微信，一个-Python-操作微信电脑版的脚本](https://www.v2ex.com/t/872303) 
+- [【V2EX】2022-08-11-上海五角场创业团队招后端工程师（2-3-年经验）](https://www.v2ex.com/t/872302) 
+- [【V2EX】2022-08-11-如何从-Kafka-消费的数据中取最大值存储？](https://www.v2ex.com/t/872301) 
+- [【V2EX】2022-08-11-Windows-下有没有快速切换-6-个-idea-窗口的方案？](https://www.v2ex.com/t/872300) 
+- [【V2EX】2022-08-11-想上日亚或是美雅申请什么卡？](https://www.v2ex.com/t/872299) 
+- [【V2EX】2022-08-11-美团买菜、盒马谁知道？有偿](https://www.v2ex.com/t/872298) 
 - [【V2EX】2022-08-11-水浸传感器有什么推荐吗？小米的水浸卫士感觉像个玩具。](https://www.v2ex.com/t/872297) 
 - [【V2EX】2022-08-11-如何不解锁运行捷径打开应用-|-如何定时用-HomePod-播放-Spotify](https://www.v2ex.com/t/872294) 
 - [【V2EX】2022-08-11-作为酒桌文化的文盲，我好慌……](https://www.v2ex.com/t/872293) 
@@ -97,12 +105,6 @@
 - [【V2EX】2022-08-11-base-上海，（还差-5-个月的）5-年前端，求个饭碗](https://www.v2ex.com/t/872258) 
 - [【V2EX】2022-08-11-Unity3d-开发工程师-居家办公](https://www.v2ex.com/t/872257) 
 - [【V2EX】2022-08-11-显示器-typce-接笔记本有点漏电是什么原因？](https://www.v2ex.com/t/872256) 
-- [【V2EX】2022-08-11-想搞个机器人玩玩，淘宝好像都是玩具，有没有可编程的机器人推荐](https://www.v2ex.com/t/872255) 
-- [【V2EX】2022-08-11-迅雷会员-NB](https://www.v2ex.com/t/872253) 
-- [【V2EX】2022-08-11-高德免费的企业-key-30-万采集次数被停掉了。](https://www.v2ex.com/t/872252) 
-- [【V2EX】2022-08-11-新版的《代码大全-2-中文纪念版》翻译质量如何，有读过的能说下吗](https://www.v2ex.com/t/872251) 
-- [【V2EX】2022-08-11-问一下有没有比较便宜的-cn2gia-线路推荐](https://www.v2ex.com/t/872250) 
-- [【V2EX】2022-08-11-好奇本站的审核，](https://www.v2ex.com/t/872249) 
 - [【技术头条】2022-08-11-像用户一样测试：不妨犯傻-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15282&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftest-like-user-2%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-08-11-BFF避坑指南-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15281&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fbackends-for-frontends%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-08-11-40年前的操作系统复活了，当年Linux、Windows都借鉴过！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15280&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494410%26amp%3Bidx%3D1%26amp%3Bsn%3D6573f0c124bcd2e20c39c33d3e516526%26amp%3Bchksm%3Dfa3f0a51cd4883479817eb189805d7dfe98436addb3e47a267f25bc3cdefefbb56aeab56e7b4%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -137,17 +139,17 @@
 - [【开发者头条】2022-08-11-快速了解-Kubernetes-的架构及特性](https://toutiao.io/k/s50ej8n) 
 - [【开发者头条】2022-08-11-浅析-Vue3-响应式原理](https://toutiao.io/k/1digmei) 
 - [【开发者头条】2022-08-11-Pybind11加速AI极速落地-|-AthenaServing-Doc](https://toutiao.io/k/e8usrt2) 
-- [【开发者头条】2022-08-11-Hive基础进阶10大技巧](https://toutiao.io/k/45phoda) 
 - [【开发者头条】2022-08-11-小团队周例会你会开吗？](https://toutiao.io/k/4jnp7qw) 
+- [【开发者头条】2022-08-11-Hive基础进阶10大技巧](https://toutiao.io/k/45phoda) 
 - [【开发者头条】2022-08-11-一步一图带你深入剖析-JDK-NIO-ByteBuffer-在不同字节序下的设计与实现](https://toutiao.io/k/bybzvu8) 
 - [【开发者头条】2022-08-11-Go-只会-if-err-!=-nil？这是不对的，分享这些优雅的处理姿势给你！](https://toutiao.io/k/ow60ab5) 
 - [【开发者头条】2022-08-11-Apache-APISIX-在微软云-ARM-和-x86-服务器上的性能测试对比](https://toutiao.io/k/bul4uhb) 
 - [【开发者头条】2022-08-11-Go-中的数据竞争模型](https://toutiao.io/k/0krtmrb) 
-- [【开发者头条】2022-08-11-推荐-Java-大后端各种架构图汇总（建议收藏！！）](https://toutiao.io/k/dvo6z1w) 
-- [【开发者头条】2022-08-11-推荐-老板：公司系统太多，能不能实现账号互通？](https://toutiao.io/k/g7sb904) 
 - [【开发者头条】2022-08-11-推荐-阿里云官方-Redis-开发规范！](https://toutiao.io/k/2fqcbfi) 
-- [【开发者头条】2022-08-11-推荐-研发过程中的文档管理与工具](https://toutiao.io/k/mdiqwn5) 
+- [【开发者头条】2022-08-11-推荐-老板：公司系统太多，能不能实现账号互通？](https://toutiao.io/k/g7sb904) 
 - [【开发者头条】2022-08-11-推荐-【大厂面试真题解析】虾皮-Shopee-后端一面十四问](https://toutiao.io/k/pol71im) 
+- [【开发者头条】2022-08-11-推荐-Java-大后端各种架构图汇总（建议收藏！！）](https://toutiao.io/k/dvo6z1w) 
+- [【开发者头条】2022-08-11-推荐-研发过程中的文档管理与工具](https://toutiao.io/k/mdiqwn5) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

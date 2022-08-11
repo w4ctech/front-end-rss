@@ -9953,6 +9953,46 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "大家在用 MacBook 的时候会启用 Siri 吗？",
+        "link": "https://www.v2ex.com/t/872305",
+        "date": "2022-08-11"
+      },
+      {
+        "title": "请问有做自动驾驶的大神么，你们是怎么进入这个行业的？",
+        "link": "https://www.v2ex.com/t/872304",
+        "date": "2022-08-11"
+      },
+      {
+        "title": "Python 模拟人手操作微信，一个 Python 操作微信电脑版的脚本",
+        "link": "https://www.v2ex.com/t/872303",
+        "date": "2022-08-11"
+      },
+      {
+        "title": "[上海]五角场创业团队招后端工程师（2-3 年经验）",
+        "link": "https://www.v2ex.com/t/872302",
+        "date": "2022-08-11"
+      },
+      {
+        "title": "如何从 Kafka 消费的数据中取最大值存储？",
+        "link": "https://www.v2ex.com/t/872301",
+        "date": "2022-08-11"
+      },
+      {
+        "title": "Windows 下有没有快速切换 6 个 idea 窗口的方案？",
+        "link": "https://www.v2ex.com/t/872300",
+        "date": "2022-08-11"
+      },
+      {
+        "title": "想上日亚或是美雅申请什么卡？",
+        "link": "https://www.v2ex.com/t/872299",
+        "date": "2022-08-11"
+      },
+      {
+        "title": "美团买菜、盒马谁知道？有偿",
+        "link": "https://www.v2ex.com/t/872298",
+        "date": "2022-08-11"
+      },
+      {
         "title": "水浸传感器有什么推荐吗？小米的水浸卫士感觉像个玩具。",
         "link": "https://www.v2ex.com/t/872297",
         "date": "2022-08-11"
@@ -10095,36 +10135,6 @@
       {
         "title": "显示器 typce 接笔记本有点漏电是什么原因？",
         "link": "https://www.v2ex.com/t/872256",
-        "date": "2022-08-11"
-      },
-      {
-        "title": "想搞个机器人玩玩，淘宝好像都是玩具，有没有可编程的机器人推荐",
-        "link": "https://www.v2ex.com/t/872255",
-        "date": "2022-08-11"
-      },
-      {
-        "title": "迅雷会员 NB",
-        "link": "https://www.v2ex.com/t/872253",
-        "date": "2022-08-11"
-      },
-      {
-        "title": "高德免费的企业 key 30 万采集次数被停掉了。",
-        "link": "https://www.v2ex.com/t/872252",
-        "date": "2022-08-11"
-      },
-      {
-        "title": "新版的《代码大全 2 中文纪念版》翻译质量如何，有读过的能说下吗",
-        "link": "https://www.v2ex.com/t/872251",
-        "date": "2022-08-11"
-      },
-      {
-        "title": "问一下有没有比较便宜的 cn2gia 线路推荐",
-        "link": "https://www.v2ex.com/t/872250",
-        "date": "2022-08-11"
-      },
-      {
-        "title": "好奇本站的审核，",
-        "link": "https://www.v2ex.com/t/872249",
         "date": "2022-08-11"
       }
     ]
@@ -10312,13 +10322,13 @@
         "date": "2022-08-11"
       },
       {
-        "title": "Hive基础进阶10大技巧",
-        "link": "https://toutiao.io/k/45phoda",
+        "title": "小团队周例会你会开吗？",
+        "link": "https://toutiao.io/k/4jnp7qw",
         "date": "2022-08-11"
       },
       {
-        "title": "小团队周例会你会开吗？",
-        "link": "https://toutiao.io/k/4jnp7qw",
+        "title": "Hive基础进阶10大技巧",
+        "link": "https://toutiao.io/k/45phoda",
         "date": "2022-08-11"
       },
       {
@@ -10342,8 +10352,8 @@
         "date": "2022-08-11"
       },
       {
-        "title": "[推荐] Java 大后端各种架构图汇总（建议收藏！！）",
-        "link": "https://toutiao.io/k/dvo6z1w",
+        "title": "[推荐] 阿里云官方 Redis 开发规范！",
+        "link": "https://toutiao.io/k/2fqcbfi",
         "date": "2022-08-11"
       },
       {
@@ -10352,18 +10362,18 @@
         "date": "2022-08-11"
       },
       {
-        "title": "[推荐] 阿里云官方 Redis 开发规范！",
-        "link": "https://toutiao.io/k/2fqcbfi",
+        "title": "[推荐] 【大厂面试真题解析】虾皮 Shopee 后端一面十四问",
+        "link": "https://toutiao.io/k/pol71im",
+        "date": "2022-08-11"
+      },
+      {
+        "title": "[推荐] Java 大后端各种架构图汇总（建议收藏！！）",
+        "link": "https://toutiao.io/k/dvo6z1w",
         "date": "2022-08-11"
       },
       {
         "title": "[推荐] 研发过程中的文档管理与工具",
         "link": "https://toutiao.io/k/mdiqwn5",
-        "date": "2022-08-11"
-      },
-      {
-        "title": "[推荐] 【大厂面试真题解析】虾皮 Shopee 后端一面十四问",
-        "link": "https://toutiao.io/k/pol71im",
         "date": "2022-08-11"
       }
     ]

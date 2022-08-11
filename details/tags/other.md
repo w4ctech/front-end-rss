@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-08-11 16:18:31。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-08-11 16:56:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,8 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-08-11-达成在各种地方刷-V-站的成就](https://www.v2ex.com/t/872315) 
+- [2022-08-11-『卡片笔记最佳实践：常青笔记』的中文版完整搬运---obsidian-rr-logseq-等双链笔记软件的灵魂方法论](https://www.v2ex.com/t/872313) 
 - [2022-08-11-新硬盘顺序读取速度异常](https://www.v2ex.com/t/872312) 
 - [2022-08-11-知乎北京实习知乎内容平台&用户平台后端实习求简历](https://www.v2ex.com/t/872307) 
 - [2022-08-11-大家在用-MacBook-的时候会启用-Siri-吗？](https://www.v2ex.com/t/872305) 

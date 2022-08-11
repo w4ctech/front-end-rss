@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2022-08-11 16:18:31。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-08-11 16:56:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-08-11-达成在各种地方刷-V-站的成就](https://www.v2ex.com/t/872315) 
+- [2022-08-11-『卡片笔记最佳实践：常青笔记』的中文版完整搬运---obsidian-rr-logseq-等双链笔记软件的灵魂方法论](https://www.v2ex.com/t/872313) 
 - [2022-08-11-新硬盘顺序读取速度异常](https://www.v2ex.com/t/872312) 
 - [2022-08-11-求教怎么清理苹果手机软件缓存](https://www.v2ex.com/t/872310) 
 - [2022-08-11-Wordpress-建站安装-SEO-插件到底还有没用？](https://www.v2ex.com/t/872308) 
@@ -40,4 +42,3 @@
 - [2022-08-11-腾讯轻量云是无法显示主机列表了？](https://www.v2ex.com/t/872268) 
 - [2022-08-11-如何才能看高刷电影-?](https://www.v2ex.com/t/872267) 
 - [2022-08-11-珠海外企-Metori---招聘-C#后端开发-30-60w/year](https://www.v2ex.com/t/872266) 
-- [2022-08-11-写了一个基于-React/Redux-的后台模版，与大家交流学习，欢迎大家-Star，-Issue](https://www.v2ex.com/t/872264) 

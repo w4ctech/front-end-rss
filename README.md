@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-11 04:01:56，:rocket: 更新条数: +2023， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-11 04:32:09，:rocket: 更新条数: +2024， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,9 @@
 </summary>
 
 
+- [2022-08-11-人间真实-香港第二弹：消费券，消费及其他](https://www.v2ex.com/t/872136) ![](assets/new.png)  
+- [2022-08-11-Google-软件工程之过程篇（Code-Review、技术文档、自动化测试如单元/集成/E2E、弃用过程）](https://www.v2ex.com/t/872134) ![](assets/new.png)  
+- [2022-08-11-Macbook-Air-M2-使用体验](https://www.v2ex.com/t/872133) ![](assets/new.png)  
 - [2022-08-11-微信发现页点看一看闪退](https://www.v2ex.com/t/872132) ![](assets/new.png)  
 - [2022-08-11-==->-<-在-JavaScript-这三种运算哪个更消耗-cpu-和内存-，以及所用时间-？](https://www.v2ex.com/t/872131) ![](assets/new.png)  
 - [2022-08-11-GIFCT-组织：一个-Facebook-Microsoft-Twitter-Youtube-发起的全网拉黑名单](https://www.v2ex.com/t/872128) ![](assets/new.png)  
@@ -508,9 +511,6 @@
 - [2022-08-11-域名在某度云已备案，但域名解析-IP-不在某度云，吐槽一下这有问题？](https://www.v2ex.com/t/872113) ![](assets/new.png)  
 - [2022-08-11-劳动仲裁赢了，强制执行公司账面上没钱，股东为深圳一公司独资，没有实缴，该怎么申请连带责任](https://www.v2ex.com/t/872112) ![](assets/new.png)  
 - [2022-08-11-怎么让-MX-Anywhere-2S-的滚轮在-Mac-Adobe-Acrobat-PDF-上滑的爽](https://www.v2ex.com/t/872111) ![](assets/new.png)  
-- [2022-08-11-你们软路由一般用什么路由当-AP？](https://www.v2ex.com/t/872108) ![](assets/new.png)  
-- [2022-08-11-按照公司的需求换了几次岗位从后端到前端再到产品，现在回去做-Java-还来得及吗](https://www.v2ex.com/t/872107) ![](assets/new.png)  
-- [2022-08-11-如何绕过部分网站对-浏览器chrome,-firefox-访问的限制](https://www.v2ex.com/t/872105) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -568,11 +568,11 @@
 - [2022-08-11-每日看板Tabhub---浏览器新标签页，每天离不开的效率神器](https://toutiao.io/k/ypdqf5e) ![](assets/new.png)  
 - [2022-08-11-一文带你弄懂-CDN-的技术原理！](https://toutiao.io/k/mkj9wmw) ![](assets/new.png)  
 - [2022-08-11-Hive基础进阶10大技巧](https://toutiao.io/k/45phoda) ![](assets/new.png)  
+- [2022-08-11-推荐-老板：公司系统太多，能不能实现账号互通？](https://toutiao.io/k/g7sb904) ![](assets/new.png)  
+- [2022-08-11-推荐-研发过程中的文档管理与工具](https://toutiao.io/k/mdiqwn5) ![](assets/new.png)  
+- [2022-08-11-推荐-Java-大后端各种架构图汇总（建议收藏！！）](https://toutiao.io/k/dvo6z1w) ![](assets/new.png)  
 - [2022-08-11-推荐-阿里云官方-Redis-开发规范！](https://toutiao.io/k/2fqcbfi) ![](assets/new.png)  
 - [2022-08-11-推荐-【大厂面试真题解析】虾皮-Shopee-后端一面十四问](https://toutiao.io/k/pol71im) ![](assets/new.png)  
-- [2022-08-11-推荐-研发过程中的文档管理与工具](https://toutiao.io/k/mdiqwn5) ![](assets/new.png)  
-- [2022-08-11-推荐-老板：公司系统太多，能不能实现账号互通？](https://toutiao.io/k/g7sb904) ![](assets/new.png)  
-- [2022-08-11-推荐-Java-大后端各种架构图汇总（建议收藏！！）](https://toutiao.io/k/dvo6z1w) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

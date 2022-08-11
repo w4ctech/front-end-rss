@@ -9953,6 +9953,21 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "[人间真实] 香港第二弹：消费券，消费及其他",
+        "link": "https://www.v2ex.com/t/872136",
+        "date": "2022-08-11"
+      },
+      {
+        "title": "Google 软件工程之过程篇（Code Review、技术文档、自动化测试如单元/集成/E2E、弃用过程）",
+        "link": "https://www.v2ex.com/t/872134",
+        "date": "2022-08-11"
+      },
+      {
+        "title": "Macbook Air M2 使用体验",
+        "link": "https://www.v2ex.com/t/872133",
+        "date": "2022-08-11"
+      },
+      {
         "title": "微信发现页点看一看闪退",
         "link": "https://www.v2ex.com/t/872132",
         "date": "2022-08-11"
@@ -10125,16 +10140,6 @@
       {
         "title": "新手玩 pt，极空间 z2s 怎么样？",
         "link": "https://www.v2ex.com/t/872087",
-        "date": "2022-08-11"
-      },
-      {
-        "title": "[上海]-[不加班]-[外企] 招 中高级 Java 、C++、安卓、高级测试、中级支持工程师、初中级 devOps， Java 和 测试有残疾人岗位",
-        "link": "https://www.v2ex.com/t/872086",
-        "date": "2022-08-11"
-      },
-      {
-        "title": "什么时候服务器硬盘就应该更换了?",
-        "link": "https://www.v2ex.com/t/872084",
         "date": "2022-08-11"
       }
     ]
@@ -10327,13 +10332,8 @@
         "date": "2022-08-11"
       },
       {
-        "title": "[推荐] 阿里云官方 Redis 开发规范！",
-        "link": "https://toutiao.io/k/2fqcbfi",
-        "date": "2022-08-11"
-      },
-      {
-        "title": "[推荐] 【大厂面试真题解析】虾皮 Shopee 后端一面十四问",
-        "link": "https://toutiao.io/k/pol71im",
+        "title": "[推荐] 老板：公司系统太多，能不能实现账号互通？",
+        "link": "https://toutiao.io/k/g7sb904",
         "date": "2022-08-11"
       },
       {
@@ -10342,13 +10342,18 @@
         "date": "2022-08-11"
       },
       {
-        "title": "[推荐] 老板：公司系统太多，能不能实现账号互通？",
-        "link": "https://toutiao.io/k/g7sb904",
+        "title": "[推荐] Java 大后端各种架构图汇总（建议收藏！！）",
+        "link": "https://toutiao.io/k/dvo6z1w",
         "date": "2022-08-11"
       },
       {
-        "title": "[推荐] Java 大后端各种架构图汇总（建议收藏！！）",
-        "link": "https://toutiao.io/k/dvo6z1w",
+        "title": "[推荐] 阿里云官方 Redis 开发规范！",
+        "link": "https://toutiao.io/k/2fqcbfi",
+        "date": "2022-08-11"
+      },
+      {
+        "title": "[推荐] 【大厂面试真题解析】虾皮 Shopee 后端一面十四问",
+        "link": "https://toutiao.io/k/pol71im",
         "date": "2022-08-11"
       }
     ]

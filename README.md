@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-11 15:43:45，:rocket: 更新条数: +2028， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-11 16:18:31，:rocket: 更新条数: +2026， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,9 @@
 </summary>
 
 
+- [2022-08-11-新硬盘顺序读取速度异常](https://www.v2ex.com/t/872312) ![](assets/new.png)  
+- [2022-08-11-求教怎么清理苹果手机软件缓存](https://www.v2ex.com/t/872310) ![](assets/new.png)  
+- [2022-08-11-Wordpress-建站安装-SEO-插件到底还有没用？](https://www.v2ex.com/t/872308) ![](assets/new.png)  
 - [2022-08-11-知乎北京实习知乎内容平台&用户平台后端实习求简历](https://www.v2ex.com/t/872307) ![](assets/new.png)  
 - [2022-08-11-大家平时写-SQL-会用正则表达式吗？](https://www.v2ex.com/t/872306) ![](assets/new.png)  
 - [2022-08-11-大家在用-MacBook-的时候会启用-Siri-吗？](https://www.v2ex.com/t/872305) ![](assets/new.png)  
@@ -508,9 +511,6 @@
 - [2022-08-11-airpods-2-诡异的-bug。](https://www.v2ex.com/t/872291) ![](assets/new.png)  
 - [2022-08-11-请问今天下午上海的暴雨，有什么天气-APP-预报准了吗？](https://www.v2ex.com/t/872289) ![](assets/new.png)  
 - [2022-08-11-在两家公司用过两个-mac-了，实在没整明白对码农来说-mac-比-win-好在哪儿..可以说-win-和-Mac-的价格反过来我也会选-win](https://www.v2ex.com/t/872288) ![](assets/new.png)  
-- [2022-08-11-迅雷下载大文件失败](https://www.v2ex.com/t/872287) ![](assets/new.png)  
-- [2022-08-11-江苏电信-BRAS-割接后，对宽带账号绑定-ip-段](https://www.v2ex.com/t/872285) ![](assets/new.png)  
-- [2022-08-11-第三方的-oauth2-怎么做进-vscode-插件里](https://www.v2ex.com/t/872283) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -564,8 +564,8 @@
 - [2022-08-11-RASP|-SQL注入检测与防御](https://toutiao.io/k/fygcao0) ![](assets/new.png)  
 - [2022-08-11-一文带你弄懂-CDN-的技术原理！](https://toutiao.io/k/mkj9wmw) ![](assets/new.png)  
 - [2022-08-11-从高级程序员的角度来看，Rust-基础知识](https://toutiao.io/k/lega7yq) ![](assets/new.png)  
-- [2022-08-11-快速了解-Kubernetes-的架构及特性](https://toutiao.io/k/s50ej8n) ![](assets/new.png)  
 - [2022-08-11-浅析-Vue3-响应式原理](https://toutiao.io/k/1digmei) ![](assets/new.png)  
+- [2022-08-11-快速了解-Kubernetes-的架构及特性](https://toutiao.io/k/s50ej8n) ![](assets/new.png)  
 - [2022-08-11-Pybind11加速AI极速落地-|-AthenaServing-Doc](https://toutiao.io/k/e8usrt2) ![](assets/new.png)  
 - [2022-08-11-小团队周例会你会开吗？](https://toutiao.io/k/4jnp7qw) ![](assets/new.png)  
 - [2022-08-11-Hive基础进阶10大技巧](https://toutiao.io/k/45phoda) ![](assets/new.png)  

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-08-11 07:13:54。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-08-11 07:39:55。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,15 @@
 </summary>
 
 
+- [【V2EX】2022-08-11-SEO-是玄学么？](https://www.v2ex.com/t/872185) 
+- [【V2EX】2022-08-11-京东国际-AirPods3-到手大概-1099，可以买京东提供的两年全保换新，到手价格约-1178，可以入手吗？各位大佬们？有什么坑吗？](https://www.v2ex.com/t/872184) 
+- [【V2EX】2022-08-11-这几天压力有点大，前天突然感觉呼吸不正常了，需要刻意去深呼吸](https://www.v2ex.com/t/872181) 
+- [【V2EX】2022-08-11-不懂相关技术，想要学习一些相关知识，目的是改进家里的宽带……](https://www.v2ex.com/t/872180) 
+- [【V2EX】2022-08-11-终于把-Vue-的-Dialog-给整舒服了](https://www.v2ex.com/t/872179) 
+- [【V2EX】2022-08-11-真心求教，网络分布、路由、转发、穿透相关知识怎么系统学习](https://www.v2ex.com/t/872178) 
+- [【V2EX】2022-08-11-宽带改桥接后隔一段时间会被-isp-强制重播，请问怎样才能不被重播？](https://www.v2ex.com/t/872176) 
+- [【V2EX】2022-08-11-我的服务器是不是被人盯上了？](https://www.v2ex.com/t/872175) 
+- [【V2EX】2022-08-11-iOS-下有无将-GB-18030-编码的文本转化为-UTF-8-的方法？](https://www.v2ex.com/t/872174) 
 - [【V2EX】2022-08-11-现在买-3DS-玩逆转裁判-4-和大逆转合适吗](https://www.v2ex.com/t/872173) 
 - [【V2EX】2022-08-11-「个人开源」写了一个基于-React/Redux-的后台模版，与大家交流学习，欢迎大家-Star，-Issue](https://www.v2ex.com/t/872172) 
 - [【V2EX】2022-08-11-parallels-desktop-18-多了一个-Network-Conditioner](https://www.v2ex.com/t/872171) 
@@ -99,13 +108,7 @@
 - [【V2EX】2022-08-11-第二台-NAS-买铁威马还是威联通还是极空间？](https://www.v2ex.com/t/872139) 
 - [【V2EX】2022-08-11-有大佬知道广东移动千兆带公网一个月多少么？](https://www.v2ex.com/t/872138) 
 - [【V2EX】2022-08-11-微信扫码突然黑屏无法扫码是什么-bug？](https://www.v2ex.com/t/872137) 
-- [【V2EX】2022-08-11-Google-软件工程之过程篇（Code-Review、技术文档、自动化测试如单元/集成/E2E、弃用过程）](https://www.v2ex.com/t/872134) 
-- [【V2EX】2022-08-11-Macbook-Air-M2-使用体验](https://www.v2ex.com/t/872133) 
-- [【V2EX】2022-08-11-微信发现页点看一看闪退](https://www.v2ex.com/t/872132) 
-- [【V2EX】2022-08-11-==->-<-在-JavaScript-这三种运算哪个更消耗-cpu-和内存-，以及所用时间-？](https://www.v2ex.com/t/872131) 
-- [【V2EX】2022-08-11-GIFCT-组织：一个-Facebook-Microsoft-Twitter-Youtube-发起的全网拉黑名单](https://www.v2ex.com/t/872128) 
-- [【V2EX】2022-08-11-你们当地的京东还能次日达或当日达吗](https://www.v2ex.com/t/872126) 
-- [【V2EX】2022-08-11-PD18-出来了，感觉吃相有点难看啊。](https://www.v2ex.com/t/872125) 
+- [【技术头条】2022-08-11-像用户一样测试：不妨犯傻-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15282&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftest-like-user-2%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-08-11-BFF避坑指南-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15281&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fbackends-for-frontends%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-08-11-40年前的操作系统复活了，当年Linux、Windows都借鉴过！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15280&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494410%26amp%3Bidx%3D1%26amp%3Bsn%3D6573f0c124bcd2e20c39c33d3e516526%26amp%3Bchksm%3Dfa3f0a51cd4883479817eb189805d7dfe98436addb3e47a267f25bc3cdefefbb56aeab56e7b4%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-08-11-Spring注入Bean的七种方式-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15279&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494410%26amp%3Bidx%3D2%26amp%3Bsn%3D86e311bf8e60434edd3b60be3230e3e4%26amp%3Bchksm%3Dfa3f0a51cd4883473339fccf0f251b3cc4c5a5a9f85f2f196440fc0b3b75708c184391752aed%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -125,7 +128,6 @@
 - [【技术头条】2022-08-11-像一名教育者一样思考代码质量-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15265&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494319%26amp%3Bidx%3D2%26amp%3Bsn%3D1635f21bffbb88d13c24854f0c8a4c4e%26amp%3Bchksm%3Dfa3f0bf4cd4882e2e88e8beb2ec31a38c35d84a925144807399c2a4d55344102a482d4359718%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-08-11-入职美国谷歌Google搜索SRE经历-www.slyar.com](https://blogread.cn/news/go.php?idItem=15264&url=http%3A%2F%2Fwww.slyar.com%2Fblog%2Fleft-paypal-join-google-search-sre-2022.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-08-11-谁动了我的奶酪，通过-git-找出内容变更历史-droidyue.com](https://blogread.cn/news/go.php?idItem=15263&url=https%3A%2F%2Fdroidyue.com%2Fblog%2F2022%2F06%2F13%2Fa-little-git-log-case-can-do-big-help%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
-- [【技术头条】2022-08-11-如何使用cURL调试CORS请求-www.ipcpu.com](https://blogread.cn/news/go.php?idItem=15262&url=https%3A%2F%2Fwww.ipcpu.com%2F2022%2F05%2Fcurl-cors%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【开发者头条】2022-08-11-「架构选型」5-种-API-网关技术选型](https://toutiao.io/k/a4v7vsf) 
 - [【开发者头条】2022-08-11-微服务接口设计原则](https://toutiao.io/k/4hjv10p) 
 - [【开发者头条】2022-08-11-秒杀系统的艺术](https://toutiao.io/k/m8ga13m) 
@@ -135,22 +137,22 @@
 - [【开发者头条】2022-08-11-回到本真，代码是如何运行的？](https://toutiao.io/k/864kf4i) 
 - [【开发者头条】2022-08-11-浅析-Vue3-响应式原理](https://toutiao.io/k/1digmei) 
 - [【开发者头条】2022-08-11-快速了解-Kubernetes-的架构及特性](https://toutiao.io/k/s50ej8n) 
-- [【开发者头条】2022-08-11-RASP|-SQL注入检测与防御](https://toutiao.io/k/fygcao0) 
 - [【开发者头条】2022-08-11-从高级程序员的角度来看，Rust-基础知识](https://toutiao.io/k/lega7yq) 
+- [【开发者头条】2022-08-11-RASP|-SQL注入检测与防御](https://toutiao.io/k/fygcao0) 
 - [【开发者头条】2022-08-11-Pybind11加速AI极速落地-|-AthenaServing-Doc](https://toutiao.io/k/e8usrt2) 
 - [【开发者头条】2022-08-11-解析-RocketMQ-业务消息——“事务消息”](https://toutiao.io/k/odi22je) 
 - [【开发者头条】2022-08-11-一文带你弄懂-CDN-的技术原理！](https://toutiao.io/k/mkj9wmw) 
 - [【开发者头条】2022-08-11-Hive基础进阶10大技巧](https://toutiao.io/k/45phoda) 
 - [【开发者头条】2022-08-11-小团队周例会你会开吗？](https://toutiao.io/k/4jnp7qw) 
-- [【开发者头条】2022-08-11-一步一图带你深入剖析-JDK-NIO-ByteBuffer-在不同字节序下的设计与实现](https://toutiao.io/k/bybzvu8) 
 - [【开发者头条】2022-08-11-Go-只会-if-err-!=-nil？这是不对的，分享这些优雅的处理姿势给你！](https://toutiao.io/k/ow60ab5) 
 - [【开发者头条】2022-08-11-Go-中的数据竞争模型](https://toutiao.io/k/0krtmrb) 
 - [【开发者头条】2022-08-11-Apache-APISIX-在微软云-ARM-和-x86-服务器上的性能测试对比](https://toutiao.io/k/bul4uhb) 
-- [【开发者头条】2022-08-11-推荐-【大厂面试真题解析】虾皮-Shopee-后端一面十四问](https://toutiao.io/k/pol71im) 
+- [【开发者头条】2022-08-11-一步一图带你深入剖析-JDK-NIO-ByteBuffer-在不同字节序下的设计与实现](https://toutiao.io/k/bybzvu8) 
 - [【开发者头条】2022-08-11-推荐-Java-大后端各种架构图汇总（建议收藏！！）](https://toutiao.io/k/dvo6z1w) 
+- [【开发者头条】2022-08-11-推荐-老板：公司系统太多，能不能实现账号互通？](https://toutiao.io/k/g7sb904) 
 - [【开发者头条】2022-08-11-推荐-研发过程中的文档管理与工具](https://toutiao.io/k/mdiqwn5) 
 - [【开发者头条】2022-08-11-推荐-阿里云官方-Redis-开发规范！](https://toutiao.io/k/2fqcbfi) 
-- [【开发者头条】2022-08-11-推荐-老板：公司系统太多，能不能实现账号互通？](https://toutiao.io/k/g7sb904) 
+- [【开发者头条】2022-08-11-推荐-【大厂面试真题解析】虾皮-Shopee-后端一面十四问](https://toutiao.io/k/pol71im) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

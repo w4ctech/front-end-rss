@@ -9953,6 +9953,51 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "SEO 是玄学么？",
+        "link": "https://www.v2ex.com/t/872185",
+        "date": "2022-08-11"
+      },
+      {
+        "title": "京东国际 AirPods3 到手大概 1099，可以买京东提供的两年全保换新，到手价格约 1178，可以入手吗？各位大佬们？有什么坑吗？",
+        "link": "https://www.v2ex.com/t/872184",
+        "date": "2022-08-11"
+      },
+      {
+        "title": "这几天压力有点大，前天突然感觉呼吸不正常了，需要刻意去深呼吸",
+        "link": "https://www.v2ex.com/t/872181",
+        "date": "2022-08-11"
+      },
+      {
+        "title": "不懂相关技术，想要学习一些相关知识，目的是改进家里的宽带……",
+        "link": "https://www.v2ex.com/t/872180",
+        "date": "2022-08-11"
+      },
+      {
+        "title": "终于把 Vue 的 Dialog 给整舒服了",
+        "link": "https://www.v2ex.com/t/872179",
+        "date": "2022-08-11"
+      },
+      {
+        "title": "真心求教，网络分布、路由、转发、穿透相关知识怎么系统学习",
+        "link": "https://www.v2ex.com/t/872178",
+        "date": "2022-08-11"
+      },
+      {
+        "title": "宽带改桥接后隔一段时间会被 isp 强制重播，请问怎样才能不被重播？",
+        "link": "https://www.v2ex.com/t/872176",
+        "date": "2022-08-11"
+      },
+      {
+        "title": "我的服务器是不是被人盯上了？",
+        "link": "https://www.v2ex.com/t/872175",
+        "date": "2022-08-11"
+      },
+      {
+        "title": "iOS 下有无将 GB 18030 编码的文本转化为 UTF-8 的方法？",
+        "link": "https://www.v2ex.com/t/872174",
+        "date": "2022-08-11"
+      },
+      {
         "title": "现在买 3DS 玩逆转裁判 4 和大逆转合适吗",
         "link": "https://www.v2ex.com/t/872173",
         "date": "2022-08-11"
@@ -10106,41 +10151,6 @@
         "title": "微信扫码突然黑屏无法扫码是什么 bug？",
         "link": "https://www.v2ex.com/t/872137",
         "date": "2022-08-11"
-      },
-      {
-        "title": "Google 软件工程之过程篇（Code Review、技术文档、自动化测试如单元/集成/E2E、弃用过程）",
-        "link": "https://www.v2ex.com/t/872134",
-        "date": "2022-08-11"
-      },
-      {
-        "title": "Macbook Air M2 使用体验",
-        "link": "https://www.v2ex.com/t/872133",
-        "date": "2022-08-11"
-      },
-      {
-        "title": "微信发现页点看一看闪退",
-        "link": "https://www.v2ex.com/t/872132",
-        "date": "2022-08-11"
-      },
-      {
-        "title": "== > < 在 JavaScript 这三种运算哪个更消耗 cpu 和内存 ，以及所用时间 ？",
-        "link": "https://www.v2ex.com/t/872131",
-        "date": "2022-08-11"
-      },
-      {
-        "title": "GIFCT 组织：一个 Facebook Microsoft Twitter Youtube 发起的全网拉黑名单",
-        "link": "https://www.v2ex.com/t/872128",
-        "date": "2022-08-11"
-      },
-      {
-        "title": "你们当地的京东还能次日达或当日达吗",
-        "link": "https://www.v2ex.com/t/872126",
-        "date": "2022-08-11"
-      },
-      {
-        "title": "PD18 出来了，感觉吃相有点难看啊。",
-        "link": "https://www.v2ex.com/t/872125",
-        "date": "2022-08-11"
       }
     ]
   },
@@ -10149,6 +10159,11 @@
     "title": "技术头条",
     "link": "http://blogread.cn/news/newest.php",
     "items": [
+      {
+        "title": "像用户一样测试：不妨犯傻 (insights.thoughtworks.cn)",
+        "link": "https://blogread.cn/news/go.php?idItem=15282&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftest-like-user-2%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2022-08-11"
+      },
       {
         "title": "BFF避坑指南 (insights.thoughtworks.cn)",
         "link": "https://blogread.cn/news/go.php?idItem=15281&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fbackends-for-frontends%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
@@ -10243,11 +10258,6 @@
         "title": "谁动了我的奶酪，通过 git 找出内容变更历史 (droidyue.com)",
         "link": "https://blogread.cn/news/go.php?idItem=15263&url=https%3A%2F%2Fdroidyue.com%2Fblog%2F2022%2F06%2F13%2Fa-little-git-log-case-can-do-big-help%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
         "date": "2022-08-11"
-      },
-      {
-        "title": "如何使用cURL调试CORS请求 (www.ipcpu.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=15262&url=https%3A%2F%2Fwww.ipcpu.com%2F2022%2F05%2Fcurl-cors%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-08-11"
       }
     ]
   },
@@ -10302,13 +10312,13 @@
         "date": "2022-08-11"
       },
       {
-        "title": "RASP| SQL注入检测与防御",
-        "link": "https://toutiao.io/k/fygcao0",
+        "title": "从高级程序员的角度来看，Rust 基础知识",
+        "link": "https://toutiao.io/k/lega7yq",
         "date": "2022-08-11"
       },
       {
-        "title": "从高级程序员的角度来看，Rust 基础知识",
-        "link": "https://toutiao.io/k/lega7yq",
+        "title": "RASP| SQL注入检测与防御",
+        "link": "https://toutiao.io/k/fygcao0",
         "date": "2022-08-11"
       },
       {
@@ -10337,11 +10347,6 @@
         "date": "2022-08-11"
       },
       {
-        "title": "一步一图带你深入剖析 JDK NIO ByteBuffer 在不同字节序下的设计与实现",
-        "link": "https://toutiao.io/k/bybzvu8",
-        "date": "2022-08-11"
-      },
-      {
         "title": "Go 只会 if err != nil？这是不对的，分享这些优雅的处理姿势给你！",
         "link": "https://toutiao.io/k/ow60ab5",
         "date": "2022-08-11"
@@ -10357,13 +10362,18 @@
         "date": "2022-08-11"
       },
       {
-        "title": "[推荐] 【大厂面试真题解析】虾皮 Shopee 后端一面十四问",
-        "link": "https://toutiao.io/k/pol71im",
+        "title": "一步一图带你深入剖析 JDK NIO ByteBuffer 在不同字节序下的设计与实现",
+        "link": "https://toutiao.io/k/bybzvu8",
         "date": "2022-08-11"
       },
       {
         "title": "[推荐] Java 大后端各种架构图汇总（建议收藏！！）",
         "link": "https://toutiao.io/k/dvo6z1w",
+        "date": "2022-08-11"
+      },
+      {
+        "title": "[推荐] 老板：公司系统太多，能不能实现账号互通？",
+        "link": "https://toutiao.io/k/g7sb904",
         "date": "2022-08-11"
       },
       {
@@ -10377,8 +10387,8 @@
         "date": "2022-08-11"
       },
       {
-        "title": "[推荐] 老板：公司系统太多，能不能实现账号互通？",
-        "link": "https://toutiao.io/k/g7sb904",
+        "title": "[推荐] 【大厂面试真题解析】虾皮 Shopee 后端一面十四问",
+        "link": "https://toutiao.io/k/pol71im",
         "date": "2022-08-11"
       }
     ]

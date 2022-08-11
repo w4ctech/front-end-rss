@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-08-11 04:32:09。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-08-11 04:56:00。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,10 @@
 </summary>
 
 
+- [【V2EX】2022-08-11-「职业发展」、「定居成家」两个大问题请教](https://www.v2ex.com/t/872140) 
+- [【V2EX】2022-08-11-第二台-NAS-买铁威马还是威联通还是极空间？](https://www.v2ex.com/t/872139) 
+- [【V2EX】2022-08-11-有大佬知道广东移动千兆带公网一个月多少么？](https://www.v2ex.com/t/872138) 
+- [【V2EX】2022-08-11-微信扫码突然黑屏无法扫码是什么-bug？](https://www.v2ex.com/t/872137) 
 - [【V2EX】2022-08-11-人间真实-香港第二弹：消费券，消费及其他](https://www.v2ex.com/t/872136) 
 - [【V2EX】2022-08-11-Google-软件工程之过程篇（Code-Review、技术文档、自动化测试如单元/集成/E2E、弃用过程）](https://www.v2ex.com/t/872134) 
 - [【V2EX】2022-08-11-Macbook-Air-M2-使用体验](https://www.v2ex.com/t/872133) 
@@ -101,11 +105,6 @@
 - [【V2EX】2022-08-11-求租西乡或坪洲附近两房一厅，最好靠近地铁。](https://www.v2ex.com/t/872094) 
 - [【V2EX】2022-08-11-求-MacOS-Desktop-App-密码自动填充方案](https://www.v2ex.com/t/872093) 
 - [【V2EX】2022-08-11-PowerToys-的快捷键-remap-间歇性失效怎样解决？](https://www.v2ex.com/t/872092) 
-- [【V2EX】2022-08-11-Vertx-虚拟线程孵化](https://www.v2ex.com/t/872091) 
-- [【V2EX】2022-08-11-请教Spring-Boot-使用-Redis，缓存集合数据的疑问](https://www.v2ex.com/t/872090) 
-- [【V2EX】2022-08-11-MageSafe-充电器体验现况如何？](https://www.v2ex.com/t/872089) 
-- [【V2EX】2022-08-11-请教安卓设备如何使用-headscale？](https://www.v2ex.com/t/872088) 
-- [【V2EX】2022-08-11-新手玩-pt，极空间-z2s-怎么样？](https://www.v2ex.com/t/872087) 
 - [【技术头条】2022-08-11-BFF避坑指南-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15281&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fbackends-for-frontends%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-08-11-40年前的操作系统复活了，当年Linux、Windows都借鉴过！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15280&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494410%26amp%3Bidx%3D1%26amp%3Bsn%3D6573f0c124bcd2e20c39c33d3e516526%26amp%3Bchksm%3Dfa3f0a51cd4883479817eb189805d7dfe98436addb3e47a267f25bc3cdefefbb56aeab56e7b4%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-08-11-Spring注入Bean的七种方式-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15279&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494410%26amp%3Bidx%3D2%26amp%3Bsn%3D86e311bf8e60434edd3b60be3230e3e4%26amp%3Bchksm%3Dfa3f0a51cd4883473339fccf0f251b3cc4c5a5a9f85f2f196440fc0b3b75708c184391752aed%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -132,20 +131,20 @@
 - [【开发者头条】2022-08-11-太强了！Python-开发桌面小工具，让代码替我们干重复的工作！](https://toutiao.io/k/6ygdu6f) 
 - [【开发者头条】2022-08-11-教你如何定位不合理的SQL？并优化之](https://toutiao.io/k/huxhsnt) 
 - [【开发者头条】2022-08-11-浅析-Vue3-响应式原理](https://toutiao.io/k/1digmei) 
+- [【开发者头条】2022-08-11-每日看板Tabhub---浏览器新标签页，每天离不开的效率神器](https://toutiao.io/k/ypdqf5e) 
+- [【开发者头条】2022-08-11-回到本真，代码是如何运行的？](https://toutiao.io/k/864kf4i) 
 - [【开发者头条】2022-08-11-快速了解-Kubernetes-的架构及特性](https://toutiao.io/k/s50ej8n) 
 - [【开发者头条】2022-08-11-RASP|-SQL注入检测与防御](https://toutiao.io/k/fygcao0) 
 - [【开发者头条】2022-08-11-从高级程序员的角度来看，Rust-基础知识](https://toutiao.io/k/lega7yq) 
 - [【开发者头条】2022-08-11-Pybind11加速AI极速落地-|-AthenaServing-Doc](https://toutiao.io/k/e8usrt2) 
 - [【开发者头条】2022-08-11-解析-RocketMQ-业务消息——“事务消息”](https://toutiao.io/k/odi22je) 
-- [【开发者头条】2022-08-11-回到本真，代码是如何运行的？](https://toutiao.io/k/864kf4i) 
-- [【开发者头条】2022-08-11-每日看板Tabhub---浏览器新标签页，每天离不开的效率神器](https://toutiao.io/k/ypdqf5e) 
 - [【开发者头条】2022-08-11-一文带你弄懂-CDN-的技术原理！](https://toutiao.io/k/mkj9wmw) 
 - [【开发者头条】2022-08-11-Hive基础进阶10大技巧](https://toutiao.io/k/45phoda) 
-- [【开发者头条】2022-08-11-推荐-老板：公司系统太多，能不能实现账号互通？](https://toutiao.io/k/g7sb904) 
 - [【开发者头条】2022-08-11-推荐-研发过程中的文档管理与工具](https://toutiao.io/k/mdiqwn5) 
 - [【开发者头条】2022-08-11-推荐-Java-大后端各种架构图汇总（建议收藏！！）](https://toutiao.io/k/dvo6z1w) 
 - [【开发者头条】2022-08-11-推荐-阿里云官方-Redis-开发规范！](https://toutiao.io/k/2fqcbfi) 
 - [【开发者头条】2022-08-11-推荐-【大厂面试真题解析】虾皮-Shopee-后端一面十四问](https://toutiao.io/k/pol71im) 
+- [【开发者头条】2022-08-11-推荐-老板：公司系统太多，能不能实现账号互通？](https://toutiao.io/k/g7sb904) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-08-11 21:40:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-08-11 22:13:57。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1935,7 +1935,6 @@
 - [2022-08-11-rocketmq-半消息回查失败怎么重新消费](https://www.v2ex.com/t/872292) 
 - [2022-08-11-airpods-2-诡异的-bug。](https://www.v2ex.com/t/872291) 
 - [2022-08-11-请问今天下午上海的暴雨，有什么天气-APP-预报准了吗？](https://www.v2ex.com/t/872289) 
-- [2022-08-11-在两家公司用过两个-mac-了，实在没整明白对码农来说-mac-比-win-好在哪儿..可以说-win-和-Mac-的价格反过来我也会选-win](https://www.v2ex.com/t/872288) 
 - [2022-08-11-迅雷下载大文件失败](https://www.v2ex.com/t/872287) 
 - [2022-08-11-江苏电信-BRAS-割接后，对宽带账号绑定-ip-段](https://www.v2ex.com/t/872285) 
 - [2022-08-11-第三方的-oauth2-怎么做进-vscode-插件里](https://www.v2ex.com/t/872283) 

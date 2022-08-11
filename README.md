@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-11 19:11:13，:rocket: 更新条数: +2027， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-11 19:39:13，:rocket: 更新条数: +2028， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-08-11-有没有长期使用-WeChat-的老哥，咨询几个问题](https://www.v2ex.com/t/872321) ![](assets/new.png)  
 - [2022-08-11-广西电信-二级路由下所有设备都有公网-v6-地址但都不通](https://www.v2ex.com/t/872320) ![](assets/new.png)  
 - [2022-08-11-snapd,-mdzz](https://www.v2ex.com/t/872319) ![](assets/new.png)  
 - [2022-08-11-6GHz-WiFi-6E-的穿墙比-WiFi-6-差多少呢？](https://www.v2ex.com/t/872318) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-08-11-Windows-下有没有快速切换-6-个-idea-窗口的方案？](https://www.v2ex.com/t/872300) ![](assets/new.png)  
 - [2022-08-11-想上日亚或是美雅申请什么卡？](https://www.v2ex.com/t/872299) ![](assets/new.png)  
 - [2022-08-11-美团买菜、盒马谁知道？有偿](https://www.v2ex.com/t/872298) ![](assets/new.png)  
-- [2022-08-11-水浸传感器有什么推荐吗？小米的水浸卫士感觉像个玩具。](https://www.v2ex.com/t/872297) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

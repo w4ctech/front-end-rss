@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-08-11 08:17:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-08-11 08:45:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -17,6 +17,7 @@
 - [2022-06-11-介绍一种CSS变量未定义语法也OK的小妙招](https://www.zhangxinxu.com/wordpress/2022/06/css-var-optional-empty-trick/) 
 - [2022-05-29-如何实现页面刷新后不定位到之前的滚动位置？](https://www.zhangxinxu.com/wordpress/2022/05/history-scrollrestoration/) 
 - [2022-05-11-JS与条形码的生成](https://www.zhangxinxu.com/wordpress/2022/05/js-barcode/) 
+- [2022-08-11-关于无线路由器桥接，怎么绑定静态-ip？](https://www.v2ex.com/t/872199) 
 - [2022-08-11-求-8-网口/6-网口软路由或稳定的-迷你-有线路由器推荐](https://www.v2ex.com/t/872188) 
 - [2022-08-11-真心求教，网络分布、路由、转发、穿透相关知识怎么系统学习](https://www.v2ex.com/t/872178) 
 - [2022-08-11-求教，-webstorm-如何设置打开文件默认不收缩-import？](https://www.v2ex.com/t/872169) 

@@ -9953,6 +9953,36 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "在两家公司用过两个 mac 了，实在没整明白对码农来说 mac 比 win 好在哪儿..可以说 win 和 Mac 的价格反过来我也会选 win",
+        "link": "https://www.v2ex.com/t/872288",
+        "date": "2022-08-11"
+      },
+      {
+        "title": "迅雷下载大文件失败",
+        "link": "https://www.v2ex.com/t/872287",
+        "date": "2022-08-11"
+      },
+      {
+        "title": "江苏电信 BRAS 割接后，对宽带账号绑定 ip 段",
+        "link": "https://www.v2ex.com/t/872285",
+        "date": "2022-08-11"
+      },
+      {
+        "title": "第三方的 oauth2 怎么做进 vscode 插件里",
+        "link": "https://www.v2ex.com/t/872283",
+        "date": "2022-08-11"
+      },
+      {
+        "title": "“毕业”了",
+        "link": "https://www.v2ex.com/t/872282",
+        "date": "2022-08-11"
+      },
+      {
+        "title": "跨（非）功能需求管理",
+        "link": "https://www.v2ex.com/t/872281",
+        "date": "2022-08-11"
+      },
+      {
         "title": "美国手机号，在 app 之类的能做啥？",
         "link": "https://www.v2ex.com/t/872279",
         "date": "2022-08-11"
@@ -10095,51 +10125,6 @@
       {
         "title": "盘点国产 android 可以常驻后台的用户级 app",
         "link": "https://www.v2ex.com/t/872239",
-        "date": "2022-08-11"
-      },
-      {
-        "title": "有大佬了解 IEC61850 这个协议吗？",
-        "link": "https://www.v2ex.com/t/872238",
-        "date": "2022-08-11"
-      },
-      {
-        "title": "用笔记本固态硬盘做成的 U 盘，供电需要 0.7A，长期接在老电脑的 USB2.0 上，会不会损坏颗粒？",
-        "link": "https://www.v2ex.com/t/872237",
-        "date": "2022-08-11"
-      },
-      {
-        "title": "Apple 很多用户是 admirer 而不是 user",
-        "link": "https://www.v2ex.com/t/872236",
-        "date": "2022-08-11"
-      },
-      {
-        "title": "pro 文件中如何设置编译完后能运行指定的批处理文件？",
-        "link": "https://www.v2ex.com/t/872235",
-        "date": "2022-08-11"
-      },
-      {
-        "title": "南山深大站深南花园-独卫单间电梯房-个人转租-2250",
-        "link": "https://www.v2ex.com/t/872234",
-        "date": "2022-08-11"
-      },
-      {
-        "title": "微信小程序上的回看视频如何下载到电脑？",
-        "link": "https://www.v2ex.com/t/872233",
-        "date": "2022-08-11"
-      },
-      {
-        "title": "想买个桌子，在哪买比较好？有推荐的型号嘛？",
-        "link": "https://www.v2ex.com/t/872232",
-        "date": "2022-08-11"
-      },
-      {
-        "title": "各位帅哥猛男，有平价 ups 推荐吗，支持群晖的那种？",
-        "link": "https://www.v2ex.com/t/872231",
-        "date": "2022-08-11"
-      },
-      {
-        "title": "Entity Framework Core 如何禁用 10620 警告？",
-        "link": "https://www.v2ex.com/t/872230",
         "date": "2022-08-11"
       }
     ]
@@ -10307,6 +10292,11 @@
         "date": "2022-08-11"
       },
       {
+        "title": "从高级程序员的角度来看，Rust 基础知识",
+        "link": "https://toutiao.io/k/lega7yq",
+        "date": "2022-08-11"
+      },
+      {
         "title": "快速了解 Kubernetes 的架构及特性",
         "link": "https://toutiao.io/k/s50ej8n",
         "date": "2022-08-11"
@@ -10314,11 +10304,6 @@
       {
         "title": "浅析 Vue3 响应式原理",
         "link": "https://toutiao.io/k/1digmei",
-        "date": "2022-08-11"
-      },
-      {
-        "title": "从高级程序员的角度来看，Rust 基础知识",
-        "link": "https://toutiao.io/k/lega7yq",
         "date": "2022-08-11"
       },
       {
@@ -10357,13 +10342,8 @@
         "date": "2022-08-11"
       },
       {
-        "title": "[推荐] 【大厂面试真题解析】虾皮 Shopee 后端一面十四问",
-        "link": "https://toutiao.io/k/pol71im",
-        "date": "2022-08-11"
-      },
-      {
-        "title": "[推荐] Java 大后端各种架构图汇总（建议收藏！！）",
-        "link": "https://toutiao.io/k/dvo6z1w",
+        "title": "[推荐] 研发过程中的文档管理与工具",
+        "link": "https://toutiao.io/k/mdiqwn5",
         "date": "2022-08-11"
       },
       {
@@ -10372,8 +10352,13 @@
         "date": "2022-08-11"
       },
       {
-        "title": "[推荐] 研发过程中的文档管理与工具",
-        "link": "https://toutiao.io/k/mdiqwn5",
+        "title": "[推荐] 【大厂面试真题解析】虾皮 Shopee 后端一面十四问",
+        "link": "https://toutiao.io/k/pol71im",
+        "date": "2022-08-11"
+      },
+      {
+        "title": "[推荐] Java 大后端各种架构图汇总（建议收藏！！）",
+        "link": "https://toutiao.io/k/dvo6z1w",
         "date": "2022-08-11"
       },
       {

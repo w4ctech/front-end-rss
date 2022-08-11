@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-11 12:28:15，:rocket: 更新条数: +2029， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-11 13:13:34，:rocket: 更新条数: +2026， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,12 @@
 </summary>
 
 
+- [2022-08-11-在两家公司用过两个-mac-了，实在没整明白对码农来说-mac-比-win-好在哪儿..可以说-win-和-Mac-的价格反过来我也会选-win](https://www.v2ex.com/t/872288) ![](assets/new.png)  
+- [2022-08-11-迅雷下载大文件失败](https://www.v2ex.com/t/872287) ![](assets/new.png)  
+- [2022-08-11-江苏电信-BRAS-割接后，对宽带账号绑定-ip-段](https://www.v2ex.com/t/872285) ![](assets/new.png)  
+- [2022-08-11-第三方的-oauth2-怎么做进-vscode-插件里](https://www.v2ex.com/t/872283) ![](assets/new.png)  
+- [2022-08-11-“毕业”了](https://www.v2ex.com/t/872282) ![](assets/new.png)  
+- [2022-08-11-跨（非）功能需求管理](https://www.v2ex.com/t/872281) ![](assets/new.png)  
 - [2022-08-11-美国手机号，在-app-之类的能做啥？](https://www.v2ex.com/t/872279) ![](assets/new.png)  
 - [2022-08-11-如何正确的使用-redis](https://www.v2ex.com/t/872276) ![](assets/new.png)  
 - [2022-08-11-如果搜索結果噪音太多，一般加哪些-site-前綴降低噪音？](https://www.v2ex.com/t/872275) ![](assets/new.png)  
@@ -505,12 +511,6 @@
 - [2022-08-11-macOS-ventura-13.0-合盖不关显示器设置在哪里？咋办？](https://www.v2ex.com/t/872262) ![](assets/new.png)  
 - [2022-08-11-域名太多，能做啥？](https://www.v2ex.com/t/872261) ![](assets/new.png)  
 - [2022-08-11-用-100-行-Ruby-代码模拟-JavaScript-的-Eventloop](https://www.v2ex.com/t/872259) ![](assets/new.png)  
-- [2022-08-11-base-上海，（还差-5-个月的）5-年前端，求个饭碗](https://www.v2ex.com/t/872258) ![](assets/new.png)  
-- [2022-08-11-Unity3d-开发工程师-居家办公](https://www.v2ex.com/t/872257) ![](assets/new.png)  
-- [2022-08-11-显示器-typce-接笔记本有点漏电是什么原因？](https://www.v2ex.com/t/872256) ![](assets/new.png)  
-- [2022-08-11-想搞个机器人玩玩，淘宝好像都是玩具，有没有可编程的机器人推荐](https://www.v2ex.com/t/872255) ![](assets/new.png)  
-- [2022-08-11-迅雷会员-NB](https://www.v2ex.com/t/872253) ![](assets/new.png)  
-- [2022-08-11-高德免费的企业-key-30-万采集次数被停掉了。](https://www.v2ex.com/t/872252) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -563,9 +563,9 @@
 - [2022-08-11-解析-RocketMQ-业务消息——“事务消息”](https://toutiao.io/k/odi22je) ![](assets/new.png)  
 - [2022-08-11-RASP|-SQL注入检测与防御](https://toutiao.io/k/fygcao0) ![](assets/new.png)  
 - [2022-08-11-一文带你弄懂-CDN-的技术原理！](https://toutiao.io/k/mkj9wmw) ![](assets/new.png)  
+- [2022-08-11-从高级程序员的角度来看，Rust-基础知识](https://toutiao.io/k/lega7yq) ![](assets/new.png)  
 - [2022-08-11-快速了解-Kubernetes-的架构及特性](https://toutiao.io/k/s50ej8n) ![](assets/new.png)  
 - [2022-08-11-浅析-Vue3-响应式原理](https://toutiao.io/k/1digmei) ![](assets/new.png)  
-- [2022-08-11-从高级程序员的角度来看，Rust-基础知识](https://toutiao.io/k/lega7yq) ![](assets/new.png)  
 - [2022-08-11-Pybind11加速AI极速落地-|-AthenaServing-Doc](https://toutiao.io/k/e8usrt2) ![](assets/new.png)  
 - [2022-08-11-Hive基础进阶10大技巧](https://toutiao.io/k/45phoda) ![](assets/new.png)  
 - [2022-08-11-小团队周例会你会开吗？](https://toutiao.io/k/4jnp7qw) ![](assets/new.png)  

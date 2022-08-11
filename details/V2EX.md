@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2022-08-11 13:57:00。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-08-11 14:12:55。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-08-11-水浸传感器有什么推荐吗？小米的水浸卫士感觉像个玩具。](https://www.v2ex.com/t/872297) 
 - [2022-08-11-如何不解锁运行捷径打开应用-|-如何定时用-HomePod-播放-Spotify](https://www.v2ex.com/t/872294) 
 - [2022-08-11-作为酒桌文化的文盲，我好慌……](https://www.v2ex.com/t/872293) 
 - [2022-08-11-rocketmq-半消息回查失败怎么重新消费](https://www.v2ex.com/t/872292) 

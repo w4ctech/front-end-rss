@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-11 13:57:00，:rocket: 更新条数: +2025， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-11 14:12:55，:rocket: 更新条数: +2026， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-08-11-水浸传感器有什么推荐吗？小米的水浸卫士感觉像个玩具。](https://www.v2ex.com/t/872297) ![](assets/new.png)  
 - [2022-08-11-如何不解锁运行捷径打开应用-|-如何定时用-HomePod-播放-Spotify](https://www.v2ex.com/t/872294) ![](assets/new.png)  
 - [2022-08-11-作为酒桌文化的文盲，我好慌……](https://www.v2ex.com/t/872293) ![](assets/new.png)  
 - [2022-08-11-rocketmq-半消息回查失败怎么重新消费](https://www.v2ex.com/t/872292) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-08-11-如何在微信-H5-中通过-URL-下载视频文件](https://www.v2ex.com/t/872272) ![](assets/new.png)  
 - [2022-08-11-编写代码的工作区文件路径需要全部保持纯英文么？](https://www.v2ex.com/t/872269) ![](assets/new.png)  
 - [2022-08-11-腾讯轻量云是无法显示主机列表了？](https://www.v2ex.com/t/872268) ![](assets/new.png)  
-- [2022-08-11-如何才能看高刷电影-?](https://www.v2ex.com/t/872267) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

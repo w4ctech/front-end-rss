@@ -9953,6 +9953,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "水浸传感器有什么推荐吗？小米的水浸卫士感觉像个玩具。",
+        "link": "https://www.v2ex.com/t/872297",
+        "date": "2022-08-11"
+      },
+      {
         "title": "如何不解锁运行捷径打开应用 | 如何定时用 HomePod 播放 Spotify",
         "link": "https://www.v2ex.com/t/872294",
         "date": "2022-08-11"
@@ -10342,16 +10347,6 @@
         "date": "2022-08-11"
       },
       {
-        "title": "[推荐] 研发过程中的文档管理与工具",
-        "link": "https://toutiao.io/k/mdiqwn5",
-        "date": "2022-08-11"
-      },
-      {
-        "title": "[推荐] 【大厂面试真题解析】虾皮 Shopee 后端一面十四问",
-        "link": "https://toutiao.io/k/pol71im",
-        "date": "2022-08-11"
-      },
-      {
         "title": "[推荐] 老板：公司系统太多，能不能实现账号互通？",
         "link": "https://toutiao.io/k/g7sb904",
         "date": "2022-08-11"
@@ -10359,6 +10354,16 @@
       {
         "title": "[推荐] 阿里云官方 Redis 开发规范！",
         "link": "https://toutiao.io/k/2fqcbfi",
+        "date": "2022-08-11"
+      },
+      {
+        "title": "[推荐] 研发过程中的文档管理与工具",
+        "link": "https://toutiao.io/k/mdiqwn5",
+        "date": "2022-08-11"
+      },
+      {
+        "title": "[推荐] 【大厂面试真题解析】虾皮 Shopee 后端一面十四问",
+        "link": "https://toutiao.io/k/pol71im",
         "date": "2022-08-11"
       }
     ]

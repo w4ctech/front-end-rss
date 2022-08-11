@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-08-11 04:56:00。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-08-11 05:14:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1966,7 +1966,7 @@
 - [2022-08-11-解析-RocketMQ-业务消息——“事务消息”](https://toutiao.io/k/odi22je) 
 - [2022-08-11-一文带你弄懂-CDN-的技术原理！](https://toutiao.io/k/mkj9wmw) 
 - [2022-08-11-Hive基础进阶10大技巧](https://toutiao.io/k/45phoda) 
+- [2022-08-11-推荐-老板：公司系统太多，能不能实现账号互通？](https://toutiao.io/k/g7sb904) 
 - [2022-08-11-推荐-研发过程中的文档管理与工具](https://toutiao.io/k/mdiqwn5) 
 - [2022-08-11-推荐-Java-大后端各种架构图汇总（建议收藏！！）](https://toutiao.io/k/dvo6z1w) 
 - [2022-08-11-推荐-阿里云官方-Redis-开发规范！](https://toutiao.io/k/2fqcbfi) 
-- [2022-08-11-推荐-老板：公司系统太多，能不能实现账号互通？](https://toutiao.io/k/g7sb904) 

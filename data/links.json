@@ -9953,6 +9953,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "Google IPV6 Doh/Dot 目前(202208)在国内是可用状态",
+        "link": "https://www.v2ex.com/t/872322",
+        "date": "2022-08-11"
+      },
+      {
         "title": "有没有长期使用 WeChat 的老哥，咨询几个问题",
         "link": "https://www.v2ex.com/t/872321",
         "date": "2022-08-11"
@@ -10135,11 +10140,6 @@
       {
         "title": "macOS ventura 13.0 beta3 合盖不关外接显示器设置在哪里？咋办？",
         "link": "https://www.v2ex.com/t/872273",
-        "date": "2022-08-11"
-      },
-      {
-        "title": "如何在微信 H5 中通过 URL 下载视频文件",
-        "link": "https://www.v2ex.com/t/872272",
         "date": "2022-08-11"
       }
     ]
@@ -10357,11 +10357,6 @@
         "date": "2022-08-11"
       },
       {
-        "title": "[推荐] 阿里云官方 Redis 开发规范！",
-        "link": "https://toutiao.io/k/2fqcbfi",
-        "date": "2022-08-11"
-      },
-      {
         "title": "[推荐] 研发过程中的文档管理与工具",
         "link": "https://toutiao.io/k/mdiqwn5",
         "date": "2022-08-11"
@@ -10369,6 +10364,11 @@
       {
         "title": "[推荐] Java 大后端各种架构图汇总（建议收藏！！）",
         "link": "https://toutiao.io/k/dvo6z1w",
+        "date": "2022-08-11"
+      },
+      {
+        "title": "[推荐] 阿里云官方 Redis 开发规范！",
+        "link": "https://toutiao.io/k/2fqcbfi",
         "date": "2022-08-11"
       },
       {

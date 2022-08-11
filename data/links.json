@@ -9953,6 +9953,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "iOS 端 1password 7 下架 上新 1password 8",
+        "link": "https://www.v2ex.com/t/872325",
+        "date": "2022-08-11"
+      },
+      {
         "title": "浏览器图片渲染优化，各位有什么好方案吗",
         "link": "https://www.v2ex.com/t/872324",
         "date": "2022-08-11"
@@ -10130,11 +10135,6 @@
       {
         "title": "如何正确的使用 redis",
         "link": "https://www.v2ex.com/t/872276",
-        "date": "2022-08-11"
-      },
-      {
-        "title": "如果搜索結果噪音太多，一般加哪些 site 前綴降低噪音？",
-        "link": "https://www.v2ex.com/t/872275",
         "date": "2022-08-11"
       }
     ]
@@ -10352,8 +10352,8 @@
         "date": "2022-08-11"
       },
       {
-        "title": "[推荐] 研发过程中的文档管理与工具",
-        "link": "https://toutiao.io/k/mdiqwn5",
+        "title": "[推荐] 阿里云官方 Redis 开发规范！",
+        "link": "https://toutiao.io/k/2fqcbfi",
         "date": "2022-08-11"
       },
       {
@@ -10367,8 +10367,8 @@
         "date": "2022-08-11"
       },
       {
-        "title": "[推荐] 阿里云官方 Redis 开发规范！",
-        "link": "https://toutiao.io/k/2fqcbfi",
+        "title": "[推荐] 研发过程中的文档管理与工具",
+        "link": "https://toutiao.io/k/mdiqwn5",
         "date": "2022-08-11"
       }
     ]

@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-08-11 16:56:13。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-08-11 17:18:02。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -352,7 +352,6 @@
 
 
 
-- [【V2EX】珠海外企-Metori---招聘-C#后端开发-30-60w/year](https://www.v2ex.com/t/872266)
 - [【开发者头条】推荐-【大厂面试真题解析】虾皮-Shopee-后端一面十四问](https://toutiao.io/k/pol71im)
 - [......【查看更多】......](./details/tags/job-interview.md)
 

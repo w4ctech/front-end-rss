@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-08-12 06:18:02。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-08-12 06:49:14。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,9 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-08-12-求一款-macbook-m1-和-switch-都能用的扩展坞](https://www.v2ex.com/t/872431) 
+- [2022-08-12-这种微信公众号文章是怎么做出来的？](https://www.v2ex.com/t/872430) 
+- [2022-08-12-上海TapTap-Android-端架构师](https://www.v2ex.com/t/872428) 
 - [2022-08-12-关于-Mac-cmd-+-tab-切换窗口失效](https://www.v2ex.com/t/872426) 
 - [2022-08-12-旧文连载-来了不是深圳人-1:拜拜了深圳](https://www.v2ex.com/t/872425) 
 - [2022-08-12-斯琴高娃老师，这是可以开源的吗](https://www.v2ex.com/t/872422) 
@@ -1941,10 +1944,6 @@
 - [2022-08-12-大佬快来，请教一个-bash-文本对齐问题。](https://www.v2ex.com/t/872386) 
 - [2022-08-12-电子书和-PDF-通过什么软件管理?](https://www.v2ex.com/t/872385) 
 - [2022-08-12-求推荐个好点的信用卡](https://www.v2ex.com/t/872383) 
-- [2022-08-12-有没有现成的团队-账户管理机制](https://www.v2ex.com/t/872382) 
-- [2022-08-12-请问各位-V-友如何屏蔽虚拟号段的垃圾短信骚扰](https://www.v2ex.com/t/872381) 
-- [2022-08-12-求教下有哪个-CI/CD-工具能完全替代-Jenkins-的，求推荐](https://www.v2ex.com/t/872380) 
-- [2022-08-12-为什么喝过咖啡之后反而更疲惫了](https://www.v2ex.com/t/872379) 
 - [2022-08-12-像用户一样测试：不妨犯傻-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15282&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftest-like-user-2%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-08-12-BFF避坑指南-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15281&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fbackends-for-frontends%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-08-12-40年前的操作系统复活了，当年Linux、Windows都借鉴过！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15280&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494410%26amp%3Bidx%3D1%26amp%3Bsn%3D6573f0c124bcd2e20c39c33d3e516526%26amp%3Bchksm%3Dfa3f0a51cd4883479817eb189805d7dfe98436addb3e47a267f25bc3cdefefbb56aeab56e7b4%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1968,8 +1967,8 @@
 - [2022-08-12-博文推荐-|-详解-Kafka-on-Pulsar-原理设计与技术进展](https://toutiao.io/k/y0aip71) 
 - [2022-08-12-每天杂事一大堆，你应付的过来吗？](https://toutiao.io/k/cdxki4i) 
 - [2022-08-12-图文并茂：JVM内存布局详解](https://toutiao.io/k/zl7tj4l) 
-- [2022-08-12-独立开发变现周刊（第67期）：一个年收入42万美元的业务，将播客转化为文章](https://toutiao.io/k/v9m81ck) 
 - [2022-08-12-如何开启企业数字化转型？](https://toutiao.io/k/2ot640t) 
+- [2022-08-12-独立开发变现周刊（第67期）：一个年收入42万美元的业务，将播客转化为文章](https://toutiao.io/k/v9m81ck) 
 - [2022-08-12-推荐-研发过程中的文档管理与工具](https://toutiao.io/k/mdiqwn5) 
-- [2022-08-12-推荐-Java-大后端各种架构图汇总（建议收藏！！）](https://toutiao.io/k/dvo6z1w) 
 - [2022-08-12-推荐-阿里云官方-Redis-开发规范！](https://toutiao.io/k/2fqcbfi) 
+- [2022-08-12-推荐-Java-大后端各种架构图汇总（建议收藏！！）](https://toutiao.io/k/dvo6z1w) 

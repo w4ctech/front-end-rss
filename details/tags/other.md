@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-08-12 21:39:41。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-08-12 22:15:54。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,7 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-08-12-团建被公司同事恶心到了怎么办](https://www.v2ex.com/t/872553) 
 - [2022-08-12-收了一个-PS4，快乐却在逐步下降](https://www.v2ex.com/t/872552) 
 - [2022-08-12-后端开发求推荐一款价格一万以下的笔记本](https://www.v2ex.com/t/872551) 
 - [2022-08-12-我下载了全部-iCloud-和-Google-Photos-照片，如何去重合并，并保留最高画质](https://www.v2ex.com/t/872550) 
@@ -1925,9 +1926,7 @@
 - [2022-08-12-WINDOWS-的-Android-Studio-无法启动-ARM-的模拟器](https://www.v2ex.com/t/872539) 
 - [2022-08-12-如何配置~/.ssh/config-使得同一主机不同端口可以使用不同的策略登录](https://www.v2ex.com/t/872538) 
 - [2022-08-12-自己搭建的邮件服务器被入侵了怎么排除问题？](https://www.v2ex.com/t/872536) 
-- [2022-08-12-我一个朋友想离开深圳，但是舍不得罗湖](https://www.v2ex.com/t/872535) 
 - [2022-08-12-大佬们项目架构迁移经验对一个毕业两年多的人有用吗？这算是简历上的亮点吗？](https://www.v2ex.com/t/872534) 
-- [2022-08-12-有没有生物医药行业的大佬谈一下国产新冠口服药？](https://www.v2ex.com/t/872532) 
 - [2022-08-12-分享-Rime-Squirrel-鼠须管输入法一个非常好用的第三方配置](https://www.v2ex.com/t/872531) 
 - [2022-08-12-如何确定一个-app-是通过哪个-apple-id-下载的？](https://www.v2ex.com/t/872530) 
 - [2022-08-12-除了树莓派还有什么更强劲的-arm-小主机吗](https://www.v2ex.com/t/872529) 
@@ -1937,7 +1936,6 @@
 - [2022-08-12-百度网盘加速链接分享，还有-9-次可用](https://www.v2ex.com/t/872524) 
 - [2022-08-12-求问联通江西分公司怎么样，纠结要不要会南昌](https://www.v2ex.com/t/872522) 
 - [2022-08-12-8-年老号迁移-WeChat-一天被封，有老哥遇到相同情况吗](https://www.v2ex.com/t/872521) 
-- [2022-08-12-Mac-端-iOS-端来车友](https://www.v2ex.com/t/872520) 
 - [2022-08-12-广州/深圳-刚培训班出来的前端求个机会](https://www.v2ex.com/t/872519) 
 - [2022-08-12-ac3-和-aac-的编码和解码怎么收费](https://www.v2ex.com/t/872517) 
 - [2022-08-12-趁老婆在加班发点感想！](https://www.v2ex.com/t/872515) 
@@ -1947,7 +1945,6 @@
 - [2022-08-12-每个中介都说自己联系到的才是真业主，如何分辨](https://www.v2ex.com/t/872506) 
 - [2022-08-12-请教-V-友们一些关于-devops-的问题](https://www.v2ex.com/t/872505) 
 - [2022-08-12-记录第一次痛快的配机的流程](https://www.v2ex.com/t/872504) 
-- [2022-08-12-坚果云的-macos-客户端有-bug](https://www.v2ex.com/t/872503) 
 - [2022-08-12-像用户一样测试：不妨犯傻-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15282&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftest-like-user-2%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-08-12-BFF避坑指南-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15281&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fbackends-for-frontends%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-08-12-40年前的操作系统复活了，当年Linux、Windows都借鉴过！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15280&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494410%26amp%3Bidx%3D1%26amp%3Bsn%3D6573f0c124bcd2e20c39c33d3e516526%26amp%3Bchksm%3Dfa3f0a51cd4883479817eb189805d7dfe98436addb3e47a267f25bc3cdefefbb56aeab56e7b4%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1973,5 +1970,5 @@
 - [2022-08-12-博文推荐-|-详解-Kafka-on-Pulsar-原理设计与技术进展](https://toutiao.io/k/y0aip71) 
 - [2022-08-12-如何开启企业数字化转型？](https://toutiao.io/k/2ot640t) 
 - [2022-08-12-独立开发变现周刊（第67期）：一个年收入42万美元的业务，将播客转化为文章](https://toutiao.io/k/v9m81ck) 
-- [2022-08-12-推荐-Java-大后端各种架构图汇总（建议收藏！！）](https://toutiao.io/k/dvo6z1w) 
 - [2022-08-12-推荐-研发过程中的文档管理与工具](https://toutiao.io/k/mdiqwn5) 
+- [2022-08-12-推荐-Java-大后端各种架构图汇总（建议收藏！！）](https://toutiao.io/k/dvo6z1w) 

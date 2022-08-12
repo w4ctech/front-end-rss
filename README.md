@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-12 21:39:41，:rocket: 更新条数: +2030， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-12 22:15:54，:rocket: 更新条数: +2027， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-08-12-团建被公司同事恶心到了怎么办](https://www.v2ex.com/t/872553) ![](assets/new.png)  
 - [2022-08-12-收了一个-PS4，快乐却在逐步下降](https://www.v2ex.com/t/872552) ![](assets/new.png)  
 - [2022-08-12-后端开发求推荐一款价格一万以下的笔记本](https://www.v2ex.com/t/872551) ![](assets/new.png)  
 - [2022-08-12-我下载了全部-iCloud-和-Google-Photos-照片，如何去重合并，并保留最高画质](https://www.v2ex.com/t/872550) ![](assets/new.png)  
@@ -505,12 +506,11 @@
 - [2022-08-12-WINDOWS-的-Android-Studio-无法启动-ARM-的模拟器](https://www.v2ex.com/t/872539) ![](assets/new.png)  
 - [2022-08-12-如何配置~/.ssh/config-使得同一主机不同端口可以使用不同的策略登录](https://www.v2ex.com/t/872538) ![](assets/new.png)  
 - [2022-08-12-自己搭建的邮件服务器被入侵了怎么排除问题？](https://www.v2ex.com/t/872536) ![](assets/new.png)  
-- [2022-08-12-我一个朋友想离开深圳，但是舍不得罗湖](https://www.v2ex.com/t/872535) ![](assets/new.png)  
 - [2022-08-12-大佬们项目架构迁移经验对一个毕业两年多的人有用吗？这算是简历上的亮点吗？](https://www.v2ex.com/t/872534) ![](assets/new.png)  
 - [2022-08-12-软路由魔法插件无法解锁奈飞](https://www.v2ex.com/t/872533) ![](assets/new.png)  
-- [2022-08-12-有没有生物医药行业的大佬谈一下国产新冠口服药？](https://www.v2ex.com/t/872532) ![](assets/new.png)  
 - [2022-08-12-分享-Rime-Squirrel-鼠须管输入法一个非常好用的第三方配置](https://www.v2ex.com/t/872531) ![](assets/new.png)  
 - [2022-08-12-如何确定一个-app-是通过哪个-apple-id-下载的？](https://www.v2ex.com/t/872530) ![](assets/new.png)  
+- [2022-08-12-除了树莓派还有什么更强劲的-arm-小主机吗](https://www.v2ex.com/t/872529) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -572,7 +572,7 @@
 - [2022-08-12-携程小程序生态之Taro跨端解决方案](https://toutiao.io/k/5o14o6m) ![](assets/new.png)  
 - [2022-08-12-如何开启企业数字化转型？](https://toutiao.io/k/2ot640t) ![](assets/new.png)  
 - [2022-08-12-独立开发变现周刊（第67期）：一个年收入42万美元的业务，将播客转化为文章](https://toutiao.io/k/v9m81ck) ![](assets/new.png)  
-- [2022-08-12-推荐-Java-大后端各种架构图汇总（建议收藏！！）](https://toutiao.io/k/dvo6z1w) ![](assets/new.png)  
+- [2022-08-12-推荐-【大厂面试真题解析】虾皮-Shopee-后端一面十四问](https://toutiao.io/k/pol71im) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-08-12 18:47:32。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-08-12 19:12:07。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,7 @@
 </summary>
 
 
+- [【V2EX】2022-08-12-后端开发求推荐一款价格一万以下的笔记本](https://www.v2ex.com/t/872551) 
 - [【V2EX】2022-08-12-我下载了全部-iCloud-和-Google-Photos-照片，如何去重合并，并保留最高画质](https://www.v2ex.com/t/872550) 
 - [【V2EX】2022-08-12-Ubuntu-22.04.1-发布了，给-WSL2-升级一下](https://www.v2ex.com/t/872549) 
 - [【V2EX】2022-08-12-为什么我感觉-mac-浅色主题比深色主题流畅？](https://www.v2ex.com/t/872548) 
@@ -107,7 +108,6 @@
 - [【V2EX】2022-08-12-请教-V-友们一些关于-devops-的问题](https://www.v2ex.com/t/872505) 
 - [【V2EX】2022-08-12-记录第一次痛快的配机的流程](https://www.v2ex.com/t/872504) 
 - [【V2EX】2022-08-12-坚果云的-macos-客户端有-bug](https://www.v2ex.com/t/872503) 
-- [【V2EX】2022-08-12-react-函数组件的单元测试-有办法单独测组件内的函数么](https://www.v2ex.com/t/872501) 
 - [【技术头条】2022-08-12-像用户一样测试：不妨犯傻-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15282&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftest-like-user-2%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-08-12-BFF避坑指南-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15281&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fbackends-for-frontends%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-08-12-40年前的操作系统复活了，当年Linux、Windows都借鉴过！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15280&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494410%26amp%3Bidx%3D1%26amp%3Bsn%3D6573f0c124bcd2e20c39c33d3e516526%26amp%3Bchksm%3Dfa3f0a51cd4883479817eb189805d7dfe98436addb3e47a267f25bc3cdefefbb56aeab56e7b4%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -147,10 +147,10 @@
 - [【开发者头条】2022-08-12-携程小程序生态之Taro跨端解决方案](https://toutiao.io/k/5o14o6m) 
 - [【开发者头条】2022-08-12-如何开启企业数字化转型？](https://toutiao.io/k/2ot640t) 
 - [【开发者头条】2022-08-12-独立开发变现周刊（第67期）：一个年收入42万美元的业务，将播客转化为文章](https://toutiao.io/k/v9m81ck) 
-- [【开发者头条】2022-08-12-推荐-研发过程中的文档管理与工具](https://toutiao.io/k/mdiqwn5) 
-- [【开发者头条】2022-08-12-推荐-京东面试：MQ-消息丢失、重复、积压问题，如何解决？](https://toutiao.io/k/1unx53z) 
 - [【开发者头条】2022-08-12-推荐-Java-大后端各种架构图汇总（建议收藏！！）](https://toutiao.io/k/dvo6z1w) 
+- [【开发者头条】2022-08-12-推荐-研发过程中的文档管理与工具](https://toutiao.io/k/mdiqwn5) 
 - [【开发者头条】2022-08-12-推荐-【大厂面试真题解析】虾皮-Shopee-后端一面十四问](https://toutiao.io/k/pol71im) 
+- [【开发者头条】2022-08-12-推荐-京东面试：MQ-消息丢失、重复、积压问题，如何解决？](https://toutiao.io/k/1unx53z) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

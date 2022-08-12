@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-12 11:36:45，:rocket: 更新条数: +2029， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-12 12:25:31，:rocket: 更新条数: +2027， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-08-12-SPDK-的开发环境和调试](https://www.v2ex.com/t/872511) ![](assets/new.png)  
+- [2022-08-12-iOS-有可以控制声道的软件吗？](https://www.v2ex.com/t/872510) ![](assets/new.png)  
 - [2022-08-12-1024Code，免费、协作式的、基于浏览器的-IDE-环境内测发布](https://www.v2ex.com/t/872508) ![](assets/new.png)  
 - [2022-08-12-我创建了一个软件开发人员的在线英语角，在飞书在线会议，有兴趣参加吗？](https://www.v2ex.com/t/872507) ![](assets/new.png)  
 - [2022-08-12-每个中介都说自己联系到的才是真业主，如何分辨](https://www.v2ex.com/t/872506) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-08-12-iPhone-上-Onedrive-用蜂窝数据播放视频会黑屏](https://www.v2ex.com/t/872488) ![](assets/new.png)  
 - [2022-08-12-关于-Redis-压缩列表的疑问，有没有懂的老鸟给科普下](https://www.v2ex.com/t/872486) ![](assets/new.png)  
 - [2022-08-12-分享一个快捷指令，打开上海随申码的核酸码页面](https://www.v2ex.com/t/872485) ![](assets/new.png)  
-- [2022-08-12-求推荐手机，我老爸用](https://www.v2ex.com/t/872484) ![](assets/new.png)  
-- [2022-08-12-求推荐一个手机上可以方便查看到批注的电子书阅读器](https://www.v2ex.com/t/872483) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -561,8 +561,8 @@
 - [2022-08-12-了解-HTTP-看这一篇就够](https://toutiao.io/k/aqx4hy6) ![](assets/new.png)  
 - [2022-08-12-详解最大似然估计、最大后验概率估计及贝叶斯公式](https://toutiao.io/k/onz9vvd) ![](assets/new.png)  
 - [2022-08-12-开源项目丨一文详解一站式大数据平台运维管家ChengYing如何部署Hadoop集群](https://toutiao.io/k/r045g8g) ![](assets/new.png)  
-- [2022-08-12-为什么我推荐使用智能化async？](https://toutiao.io/k/ok4p6ea) ![](assets/new.png)  
 - [2022-08-12-微软新工具准确率达80%，程序员：真的栓-Q](https://toutiao.io/k/mb94bp2) ![](assets/new.png)  
+- [2022-08-12-为什么我推荐使用智能化async？](https://toutiao.io/k/ok4p6ea) ![](assets/new.png)  
 - [2022-08-12-图文并茂：JVM内存布局详解](https://toutiao.io/k/zl7tj4l) ![](assets/new.png)  
 - [2022-08-12-每天杂事一大堆，你应付的过来吗？](https://toutiao.io/k/cdxki4i) ![](assets/new.png)  
 - [2022-08-12-针对思科被黑客攻击事件的简单分析](https://toutiao.io/k/3zj4icp) ![](assets/new.png)  
@@ -572,7 +572,7 @@
 - [2022-08-12-携程小程序生态之Taro跨端解决方案](https://toutiao.io/k/5o14o6m) ![](assets/new.png)  
 - [2022-08-12-如何开启企业数字化转型？](https://toutiao.io/k/2ot640t) ![](assets/new.png)  
 - [2022-08-12-独立开发变现周刊（第67期）：一个年收入42万美元的业务，将播客转化为文章](https://toutiao.io/k/v9m81ck) ![](assets/new.png)  
-- [2022-08-12-推荐-【大厂面试真题解析】虾皮-Shopee-后端一面十四问](https://toutiao.io/k/pol71im) ![](assets/new.png)  
+- [2022-08-12-推荐-研发过程中的文档管理与工具](https://toutiao.io/k/mdiqwn5) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

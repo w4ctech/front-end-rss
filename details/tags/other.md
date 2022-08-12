@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-08-12 10:45:40。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-08-12 11:13:07。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,9 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-08-12-每个中介都说自己联系到的才是真业主，如何分辨](https://www.v2ex.com/t/872506) 
+- [2022-08-12-请教-V-友们一些关于-devops-的问题](https://www.v2ex.com/t/872505) 
+- [2022-08-12-记录第一次痛快的配机的流程](https://www.v2ex.com/t/872504) 
 - [2022-08-12-坚果云的-macos-客户端有-bug](https://www.v2ex.com/t/872503) 
 - [2022-08-12-JDK8-升级到-JDK17-怎么搞](https://www.v2ex.com/t/872499) 
 - [2022-08-12-分享菜鸟寄件发生的不愉快，给各位避坑。](https://www.v2ex.com/t/872497) 
@@ -1943,8 +1946,6 @@
 - [2022-08-12-一个关于魔法上网的问题](https://www.v2ex.com/t/872461) 
 - [2022-08-12-求自助餐推荐](https://www.v2ex.com/t/872460) 
 - [2022-08-12-想请问彦祖们，财务类专业好润吗？](https://www.v2ex.com/t/872457) 
-- [2022-08-12-mix2gobal-版本的-MIUI10-怎么刷谷歌相机](https://www.v2ex.com/t/872456) 
-- [2022-08-12-能推荐一个-600-左右的-98-键机械键盘吗?](https://www.v2ex.com/t/872454) 
 - [2022-08-12-像用户一样测试：不妨犯傻-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15282&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftest-like-user-2%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-08-12-BFF避坑指南-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15281&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fbackends-for-frontends%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-08-12-40年前的操作系统复活了，当年Linux、Windows都借鉴过！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15280&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494410%26amp%3Bidx%3D1%26amp%3Bsn%3D6573f0c124bcd2e20c39c33d3e516526%26amp%3Bchksm%3Dfa3f0a51cd4883479817eb189805d7dfe98436addb3e47a267f25bc3cdefefbb56aeab56e7b4%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1970,6 +1971,6 @@
 - [2022-08-12-博文推荐-|-详解-Kafka-on-Pulsar-原理设计与技术进展](https://toutiao.io/k/y0aip71) 
 - [2022-08-12-如何开启企业数字化转型？](https://toutiao.io/k/2ot640t) 
 - [2022-08-12-独立开发变现周刊（第67期）：一个年收入42万美元的业务，将播客转化为文章](https://toutiao.io/k/v9m81ck) 
-- [2022-08-12-推荐-Java-大后端各种架构图汇总（建议收藏！！）](https://toutiao.io/k/dvo6z1w) 
 - [2022-08-12-推荐-研发过程中的文档管理与工具](https://toutiao.io/k/mdiqwn5) 
+- [2022-08-12-推荐-Java-大后端各种架构图汇总（建议收藏！！）](https://toutiao.io/k/dvo6z1w) 
 - [2022-08-12-推荐-阿里云官方-Redis-开发规范！](https://toutiao.io/k/2fqcbfi) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-12 05:17:00，:rocket: 更新条数: +2020， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-12 05:40:21，:rocket: 更新条数: +2020， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-08-12-习惯了工程化的前端项目,-现在我要用-jquery-了,-望各位指点指点](https://www.v2ex.com/t/872415) ![](assets/new.png)  
+- [2022-08-12-求助-美团采购、盒马采购！](https://www.v2ex.com/t/872414) ![](assets/new.png)  
 - [2022-08-12-怎么实现敏感数据加密存储并可模糊检索](https://www.v2ex.com/t/872410) ![](assets/new.png)  
 - [2022-08-12-Emby-弹幕扩展](https://www.v2ex.com/t/872408) ![](assets/new.png)  
 - [2022-08-12-APTV-for-tvOS-开启公测（内含-Testflight-链接）](https://www.v2ex.com/t/872407) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-08-12-Python-每日一练：等分字符串](https://www.v2ex.com/t/872391) ![](assets/new.png)  
 - [2022-08-12-有没有从事-tiktok-海外营销行业的？进来聊两句](https://www.v2ex.com/t/872390) ![](assets/new.png)  
 - [2022-08-12-请教，华强北得三代耳机电池仓能给正版三代耳机充电么](https://www.v2ex.com/t/872388) ![](assets/new.png)  
-- [2022-08-12-大佬快来，请教一个-bash-文本对齐问题。](https://www.v2ex.com/t/872386) ![](assets/new.png)  
-- [2022-08-12-电子书和-PDF-通过什么软件管理?](https://www.v2ex.com/t/872385) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-12 07:13:20，:rocket: 更新条数: +2027， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-12 07:38:52，:rocket: 更新条数: +2024， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,10 @@
 </summary>
 
 
+- [2022-08-12-全职远程-招聘后端-Python-工程师-和-前端-React-工程师](https://www.v2ex.com/t/872449) ![](assets/new.png)  
+- [2022-08-12-远程办公，不卷。求-React-前端，-NodeJS，-ReactNative-开发大佬-20-50K](https://www.v2ex.com/t/872448) ![](assets/new.png)  
+- [2022-08-12-突如其来的多愁善感，差点没忍住在工位上泪崩了](https://www.v2ex.com/t/872445) ![](assets/new.png)  
+- [2022-08-12-多云账号权限管理平台-问下大家的意见](https://www.v2ex.com/t/872444) ![](assets/new.png)  
 - [2022-08-12-为什么大多数人都不能接受“吃亏”](https://www.v2ex.com/t/872441) ![](assets/new.png)  
 - [2022-08-12-Win10-两个月没关机，结果内存占用越来越满，直至无法使用，不得不重启。此种情况有无清理办法？](https://www.v2ex.com/t/872440) ![](assets/new.png)  
 - [2022-08-12-现在-8G-内存笔记本真的不够了，不做开发只办公也惨啊](https://www.v2ex.com/t/872439) ![](assets/new.png)  
@@ -507,10 +511,6 @@
 - [2022-08-12-关于-Mac-cmd-+-tab-切换窗口失效](https://www.v2ex.com/t/872426) ![](assets/new.png)  
 - [2022-08-12-旧文连载-来了不是深圳人-1:拜拜了深圳](https://www.v2ex.com/t/872425) ![](assets/new.png)  
 - [2022-08-12-斯琴高娃老师，这是可以开源的吗](https://www.v2ex.com/t/872422) ![](assets/new.png)  
-- [2022-08-12-感觉网飞的片源帧率挺低](https://www.v2ex.com/t/872421) ![](assets/new.png)  
-- [2022-08-12-无线分体键盘-ALGEBOARD-正式发售-—-8-月-15-日-11:00](https://www.v2ex.com/t/872420) ![](assets/new.png)  
-- [2022-08-12-大家的-iPhone-13-会经常突然没信号吗](https://www.v2ex.com/t/872419) ![](assets/new.png)  
-- [2022-08-12-关于微信支付的一个发现](https://www.v2ex.com/t/872418) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -564,15 +564,15 @@
 - [2022-08-12-微软新工具准确率达80%，程序员：真的栓-Q](https://toutiao.io/k/mb94bp2) ![](assets/new.png)  
 - [2022-08-12-了解-HTTP-看这一篇就够](https://toutiao.io/k/aqx4hy6) ![](assets/new.png)  
 - [2022-08-12-原创-Go/Rust/Kotlin-的协程和队列性能评测](https://toutiao.io/k/2a40ym8) ![](assets/new.png)  
-- [2022-08-12-博文推荐-|-详解-Kafka-on-Pulsar-原理设计与技术进展](https://toutiao.io/k/y0aip71) ![](assets/new.png)  
 - [2022-08-12-每天杂事一大堆，你应付的过来吗？](https://toutiao.io/k/cdxki4i) ![](assets/new.png)  
+- [2022-08-12-博文推荐-|-详解-Kafka-on-Pulsar-原理设计与技术进展](https://toutiao.io/k/y0aip71) ![](assets/new.png)  
 - [2022-08-12-针对思科被黑客攻击事件的简单分析](https://toutiao.io/k/3zj4icp) ![](assets/new.png)  
 - [2022-08-12-图文并茂：JVM内存布局详解](https://toutiao.io/k/zl7tj4l) ![](assets/new.png)  
 - [2022-08-12-聊聊高性能-RPC框架-gRPC](https://toutiao.io/k/qm9oygk) ![](assets/new.png)  
 - [2022-08-12-携程小程序生态之Taro跨端解决方案](https://toutiao.io/k/5o14o6m) ![](assets/new.png)  
 - [2022-08-12-如何开启企业数字化转型？](https://toutiao.io/k/2ot640t) ![](assets/new.png)  
 - [2022-08-12-独立开发变现周刊（第67期）：一个年收入42万美元的业务，将播客转化为文章](https://toutiao.io/k/v9m81ck) ![](assets/new.png)  
-- [2022-08-12-推荐-研发过程中的文档管理与工具](https://toutiao.io/k/mdiqwn5) ![](assets/new.png)  
+- [2022-08-12-推荐-阿里云官方-Redis-开发规范！](https://toutiao.io/k/2fqcbfi) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

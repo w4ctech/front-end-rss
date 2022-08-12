@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-08-12 23:02:57。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-08-12 23:13:50。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1970,5 +1970,5 @@
 - [2022-08-12-博文推荐-|-详解-Kafka-on-Pulsar-原理设计与技术进展](https://toutiao.io/k/y0aip71) 
 - [2022-08-12-如何开启企业数字化转型？](https://toutiao.io/k/2ot640t) 
 - [2022-08-12-独立开发变现周刊（第67期）：一个年收入42万美元的业务，将播客转化为文章](https://toutiao.io/k/v9m81ck) 
-- [2022-08-12-推荐-研发过程中的文档管理与工具](https://toutiao.io/k/mdiqwn5) 
 - [2022-08-12-推荐-Java-大后端各种架构图汇总（建议收藏！！）](https://toutiao.io/k/dvo6z1w) 
+- [2022-08-12-推荐-研发过程中的文档管理与工具](https://toutiao.io/k/mdiqwn5) 

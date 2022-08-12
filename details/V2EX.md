@@ -1,10 +1,14 @@
-:alarm_clock: 更新时间: 2022-08-11 23:40:38。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-08-12 01:04:38。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-08-12-刑不刑？](https://www.v2ex.com/t/872331) 
+- [2022-08-12-学习周刊-总第-66-期-又有两个新的-go-web-管理后台框架](https://www.v2ex.com/t/872330) 
+- [2022-08-12-有什么是你以为不需要，卖了之后又买回来的东西？](https://www.v2ex.com/t/872328) 
+- [2022-08-12-时间放到现在来看，-5G-是不是没有什么明确的用处](https://www.v2ex.com/t/872327) 
 - [2022-08-11-iOS-端-1password-7-下架-上新-1password-8](https://www.v2ex.com/t/872325) 
 - [2022-08-11-浏览器图片渲染优化，各位有什么好方案吗](https://www.v2ex.com/t/872324) 
 - [2022-08-11-Apple-Music-网页版炸了一天了](https://www.v2ex.com/t/872323) 
@@ -39,6 +43,3 @@
 - [2022-08-11-江苏电信-BRAS-割接后，对宽带账号绑定-ip-段](https://www.v2ex.com/t/872285) 
 - [2022-08-11-第三方的-oauth2-怎么做进-vscode-插件里](https://www.v2ex.com/t/872283) 
 - [2022-08-11-“毕业”了](https://www.v2ex.com/t/872282) 
-- [2022-08-11-跨（非）功能需求管理](https://www.v2ex.com/t/872281) 
-- [2022-08-11-美国手机号，在-app-之类的能做啥？](https://www.v2ex.com/t/872279) 
-- [2022-08-11-如何正确的使用-redis](https://www.v2ex.com/t/872276) 

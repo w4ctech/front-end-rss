@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-08-12 15:16:34。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-08-12 15:46:14。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,10 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-08-12-请问大家一个大屏发布系统是怎么做的](https://www.v2ex.com/t/872542) 
+- [2022-08-12-把给-app-打包的-keystore-文件弄丢了，怎么办？](https://www.v2ex.com/t/872541) 
+- [2022-08-12-中元节了，几个关注的-fm-都出了特别节目](https://www.v2ex.com/t/872540) 
+- [2022-08-12-WINDOWS-的-Android-Studio-无法启动-ARM-的模拟器](https://www.v2ex.com/t/872539) 
 - [2022-08-12-如何配置~/.ssh/config-使得同一主机不同端口可以使用不同的策略登录](https://www.v2ex.com/t/872538) 
 - [2022-08-12-自己搭建的邮件服务器被入侵了怎么排除问题？](https://www.v2ex.com/t/872536) 
 - [2022-08-12-我一个朋友想离开深圳，但是舍不得罗湖](https://www.v2ex.com/t/872535) 
@@ -1940,10 +1944,6 @@
 - [2022-08-12-分享菜鸟寄件发生的不愉快，给各位避坑。](https://www.v2ex.com/t/872497) 
 - [2022-08-12-深圳-6-年-Python-、Golang-经验，求后端开发内推](https://www.v2ex.com/t/872495) 
 - [2022-08-12-DNS-加密怎么设置？](https://www.v2ex.com/t/872494) 
-- [2022-08-12-Hackathon-项目一个开源的笔记-App](https://www.v2ex.com/t/872493) 
-- [2022-08-12-35-岁大龄程序员，去国外是一个理性的选择么](https://www.v2ex.com/t/872492) 
-- [2022-08-12-在阮一峰博客上发现了这个：「能源的极限」。感觉很不可思议，很难反驳。](https://www.v2ex.com/t/872491) 
-- [2022-08-12-家用台式（厨上）RO-净水器有推荐吗？](https://www.v2ex.com/t/872490) 
 - [2022-08-12-像用户一样测试：不妨犯傻-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15282&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftest-like-user-2%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-08-12-BFF避坑指南-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15281&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fbackends-for-frontends%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-08-12-40年前的操作系统复活了，当年Linux、Windows都借鉴过！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15280&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494410%26amp%3Bidx%3D1%26amp%3Bsn%3D6573f0c124bcd2e20c39c33d3e516526%26amp%3Bchksm%3Dfa3f0a51cd4883479817eb189805d7dfe98436addb3e47a267f25bc3cdefefbb56aeab56e7b4%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1961,8 +1961,8 @@
 - [2022-08-12-也聊一聊服务稳定性建设](https://toutiao.io/k/ccmz6bl) 
 - [2022-08-12-MyBatis多条件查询、动态SQL、多表操作、注解开发详细教程](https://toutiao.io/k/2tr5vt2) 
 - [2022-08-12-来自Redis的官方吐槽：13年来，总有人想替Redis换套新架构](https://toutiao.io/k/k4h5oz7) 
-- [2022-08-12-详解最大似然估计、最大后验概率估计及贝叶斯公式](https://toutiao.io/k/onz9vvd) 
 - [2022-08-12-图文并茂：JVM内存布局详解](https://toutiao.io/k/zl7tj4l) 
+- [2022-08-12-详解最大似然估计、最大后验概率估计及贝叶斯公式](https://toutiao.io/k/onz9vvd) 
 - [2022-08-12-开源项目丨一文详解一站式大数据平台运维管家ChengYing如何部署Hadoop集群](https://toutiao.io/k/r045g8g) 
 - [2022-08-12-每天杂事一大堆，你应付的过来吗？](https://toutiao.io/k/cdxki4i) 
 - [2022-08-12-微软新工具准确率达80%，程序员：真的栓-Q](https://toutiao.io/k/mb94bp2) 

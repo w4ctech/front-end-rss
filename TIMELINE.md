@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-08-12 09:40:52。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-08-12 10:16:28。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,13 @@
 </summary>
 
 
+- [【V2EX】2022-08-12-分享菜鸟寄件发生的不愉快，给各位避坑。](https://www.v2ex.com/t/872497) 
+- [【V2EX】2022-08-12-深圳-6-年-Python-、Golang-经验，求后端开发内推](https://www.v2ex.com/t/872495) 
+- [【V2EX】2022-08-12-DNS-加密怎么设置？](https://www.v2ex.com/t/872494) 
+- [【V2EX】2022-08-12-Hackathon-项目一个开源的笔记-App](https://www.v2ex.com/t/872493) 
+- [【V2EX】2022-08-12-35-岁大龄程序员，去国外是一个理性的选择么](https://www.v2ex.com/t/872492) 
+- [【V2EX】2022-08-12-在阮一峰博客上发现了这个：「能源的极限」。感觉很不可思议，很难反驳。](https://www.v2ex.com/t/872491) 
+- [【V2EX】2022-08-12-家用台式（厨上）RO-净水器有推荐吗？](https://www.v2ex.com/t/872490) 
 - [【V2EX】2022-08-12-iPhone-上-Onedrive-用蜂窝数据播放视频会黑屏](https://www.v2ex.com/t/872488) 
 - [【V2EX】2022-08-12-关于-Redis-压缩列表的疑问，有没有懂的老鸟给科普下](https://www.v2ex.com/t/872486) 
 - [【V2EX】2022-08-12-分享一个快捷指令，打开上海随申码的核酸码页面](https://www.v2ex.com/t/872485) 
@@ -82,7 +89,6 @@
 - [【V2EX】2022-08-12-镜像-layerId-和-diffId-如何对应](https://www.v2ex.com/t/872476) 
 - [【V2EX】2022-08-12-有什么支持-.nomedia-的安卓相册应用](https://www.v2ex.com/t/872475) 
 - [【V2EX】2022-08-12-请教一个-nginx-根据-HTTP-请求头信息条件转发的问题](https://www.v2ex.com/t/872473) 
-- [【V2EX】2022-08-12-喝完咖啡，过会儿就想上大号，正常吗？](https://www.v2ex.com/t/872472) 
 - [【V2EX】2022-08-12-如何才能不带笔记本来回上下班](https://www.v2ex.com/t/872471) 
 - [【V2EX】2022-08-12-geoip-地理定位库有没有大佬了解](https://www.v2ex.com/t/872470) 
 - [【V2EX】2022-08-12-Onenote-中公式后面的字体问题](https://www.v2ex.com/t/872469) 
@@ -102,11 +108,6 @@
 - [【V2EX】2022-08-12-Client-Go-免费视频教程来来来了。](https://www.v2ex.com/t/872451) 
 - [【V2EX】2022-08-12-全职远程-招聘后端-Python-工程师-和-前端-React-工程师](https://www.v2ex.com/t/872449) 
 - [【V2EX】2022-08-12-远程办公，不卷。求-React-前端，-NodeJS，-ReactNative-开发大佬-20-50K](https://www.v2ex.com/t/872448) 
-- [【V2EX】2022-08-12-突如其来的多愁善感，差点没忍住在工位上泪崩了](https://www.v2ex.com/t/872445) 
-- [【V2EX】2022-08-12-多云账号权限管理平台-问下大家的意见](https://www.v2ex.com/t/872444) 
-- [【V2EX】2022-08-12-为什么大多数人都不能接受“吃亏”](https://www.v2ex.com/t/872441) 
-- [【V2EX】2022-08-12-Win10-两个月没关机，结果内存占用越来越满，直至无法使用，不得不重启。此种情况有无清理办法？](https://www.v2ex.com/t/872440) 
-- [【V2EX】2022-08-12-现在-8G-内存笔记本真的不够了，不做开发只办公也惨啊](https://www.v2ex.com/t/872439) 
 - [【技术头条】2022-08-12-像用户一样测试：不妨犯傻-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15282&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftest-like-user-2%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-08-12-BFF避坑指南-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15281&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fbackends-for-frontends%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-08-12-40年前的操作系统复活了，当年Linux、Windows都借鉴过！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15280&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494410%26amp%3Bidx%3D1%26amp%3Bsn%3D6573f0c124bcd2e20c39c33d3e516526%26amp%3Bchksm%3Dfa3f0a51cd4883479817eb189805d7dfe98436addb3e47a267f25bc3cdefefbb56aeab56e7b4%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -146,10 +147,10 @@
 - [【开发者头条】2022-08-12-携程小程序生态之Taro跨端解决方案](https://toutiao.io/k/5o14o6m) 
 - [【开发者头条】2022-08-12-如何开启企业数字化转型？](https://toutiao.io/k/2ot640t) 
 - [【开发者头条】2022-08-12-独立开发变现周刊（第67期）：一个年收入42万美元的业务，将播客转化为文章](https://toutiao.io/k/v9m81ck) 
+- [【开发者头条】2022-08-12-推荐-Java-大后端各种架构图汇总（建议收藏！！）](https://toutiao.io/k/dvo6z1w) 
+- [【开发者头条】2022-08-12-推荐-阿里云官方-Redis-开发规范！](https://toutiao.io/k/2fqcbfi) 
 - [【开发者头条】2022-08-12-推荐-研发过程中的文档管理与工具](https://toutiao.io/k/mdiqwn5) 
 - [【开发者头条】2022-08-12-推荐-【大厂面试真题解析】虾皮-Shopee-后端一面十四问](https://toutiao.io/k/pol71im) 
-- [【开发者头条】2022-08-12-推荐-阿里云官方-Redis-开发规范！](https://toutiao.io/k/2fqcbfi) 
-- [【开发者头条】2022-08-12-推荐-Java-大后端各种架构图汇总（建议收藏！！）](https://toutiao.io/k/dvo6z1w) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-12 09:40:52，:rocket: 更新条数: +2028， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-12 10:16:28，:rocket: 更新条数: +2029， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,13 @@
 </summary>
 
 
+- [2022-08-12-分享菜鸟寄件发生的不愉快，给各位避坑。](https://www.v2ex.com/t/872497) ![](assets/new.png)  
+- [2022-08-12-深圳-6-年-Python-、Golang-经验，求后端开发内推](https://www.v2ex.com/t/872495) ![](assets/new.png)  
+- [2022-08-12-DNS-加密怎么设置？](https://www.v2ex.com/t/872494) ![](assets/new.png)  
+- [2022-08-12-Hackathon-项目一个开源的笔记-App](https://www.v2ex.com/t/872493) ![](assets/new.png)  
+- [2022-08-12-35-岁大龄程序员，去国外是一个理性的选择么](https://www.v2ex.com/t/872492) ![](assets/new.png)  
+- [2022-08-12-在阮一峰博客上发现了这个：「能源的极限」。感觉很不可思议，很难反驳。](https://www.v2ex.com/t/872491) ![](assets/new.png)  
+- [2022-08-12-家用台式（厨上）RO-净水器有推荐吗？](https://www.v2ex.com/t/872490) ![](assets/new.png)  
 - [2022-08-12-iPhone-上-Onedrive-用蜂窝数据播放视频会黑屏](https://www.v2ex.com/t/872488) ![](assets/new.png)  
 - [2022-08-12-关于-Redis-压缩列表的疑问，有没有懂的老鸟给科普下](https://www.v2ex.com/t/872486) ![](assets/new.png)  
 - [2022-08-12-分享一个快捷指令，打开上海随申码的核酸码页面](https://www.v2ex.com/t/872485) ![](assets/new.png)  
@@ -504,13 +511,6 @@
 - [2022-08-12-是否可以以少报社保工资基数侵害劳动者权益为由解除劳动合同并拿到解除劳动合同补偿](https://www.v2ex.com/t/872477) ![](assets/new.png)  
 - [2022-08-12-镜像-layerId-和-diffId-如何对应](https://www.v2ex.com/t/872476) ![](assets/new.png)  
 - [2022-08-12-有什么支持-.nomedia-的安卓相册应用](https://www.v2ex.com/t/872475) ![](assets/new.png)  
-- [2022-08-12-请教一个-nginx-根据-HTTP-请求头信息条件转发的问题](https://www.v2ex.com/t/872473) ![](assets/new.png)  
-- [2022-08-12-喝完咖啡，过会儿就想上大号，正常吗？](https://www.v2ex.com/t/872472) ![](assets/new.png)  
-- [2022-08-12-如何才能不带笔记本来回上下班](https://www.v2ex.com/t/872471) ![](assets/new.png)  
-- [2022-08-12-geoip-地理定位库有没有大佬了解](https://www.v2ex.com/t/872470) ![](assets/new.png)  
-- [2022-08-12-Onenote-中公式后面的字体问题](https://www.v2ex.com/t/872469) ![](assets/new.png)  
-- [2022-08-12-pixel-1-代备份相册的问题（-iPhone-->onedrive->Folder-Sync->pixel）](https://www.v2ex.com/t/872468) ![](assets/new.png)  
-- [2022-08-12-想请问学英语有什么好的推荐与途径吗?](https://www.v2ex.com/t/872466) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -572,7 +572,7 @@
 - [2022-08-12-携程小程序生态之Taro跨端解决方案](https://toutiao.io/k/5o14o6m) ![](assets/new.png)  
 - [2022-08-12-如何开启企业数字化转型？](https://toutiao.io/k/2ot640t) ![](assets/new.png)  
 - [2022-08-12-独立开发变现周刊（第67期）：一个年收入42万美元的业务，将播客转化为文章](https://toutiao.io/k/v9m81ck) ![](assets/new.png)  
-- [2022-08-12-推荐-研发过程中的文档管理与工具](https://toutiao.io/k/mdiqwn5) ![](assets/new.png)  
+- [2022-08-12-推荐-Java-大后端各种架构图汇总（建议收藏！！）](https://toutiao.io/k/dvo6z1w) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

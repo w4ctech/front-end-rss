@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-12 13:13:35，:rocket: 更新条数: +2027， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-12 13:58:41，:rocket: 更新条数: +2027， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,12 @@
 </summary>
 
 
+- [2022-08-12-除了树莓派还有什么更强劲的-arm-小主机吗](https://www.v2ex.com/t/872529) ![](assets/new.png)  
+- [2022-08-12-Ubuntu22.04-sogou-输出法打快了会切换不到中文](https://www.v2ex.com/t/872527) ![](assets/new.png)  
+- [2022-08-12-为什么有些网站不支持使用微软的-outlook-邮箱呢](https://www.v2ex.com/t/872526) ![](assets/new.png)  
+- [2022-08-12-梯子间歇性抽风是什么原因](https://www.v2ex.com/t/872525) ![](assets/new.png)  
+- [2022-08-12-百度网盘加速链接分享，还有-9-次可用](https://www.v2ex.com/t/872524) ![](assets/new.png)  
+- [2022-08-12-求问联通江西分公司怎么样，纠结要不要会南昌](https://www.v2ex.com/t/872522) ![](assets/new.png)  
 - [2022-08-12-8-年老号迁移-WeChat-一天被封，有老哥遇到相同情况吗](https://www.v2ex.com/t/872521) ![](assets/new.png)  
 - [2022-08-12-Mac-端-iOS-端来车友](https://www.v2ex.com/t/872520) ![](assets/new.png)  
 - [2022-08-12-广州/深圳-刚培训班出来的前端求个机会](https://www.v2ex.com/t/872519) ![](assets/new.png)  
@@ -505,12 +511,6 @@
 - [2022-08-12-每个中介都说自己联系到的才是真业主，如何分辨](https://www.v2ex.com/t/872506) ![](assets/new.png)  
 - [2022-08-12-请教-V-友们一些关于-devops-的问题](https://www.v2ex.com/t/872505) ![](assets/new.png)  
 - [2022-08-12-记录第一次痛快的配机的流程](https://www.v2ex.com/t/872504) ![](assets/new.png)  
-- [2022-08-12-坚果云的-macos-客户端有-bug](https://www.v2ex.com/t/872503) ![](assets/new.png)  
-- [2022-08-12-react-函数组件的单元测试-有办法单独测组件内的函数么](https://www.v2ex.com/t/872501) ![](assets/new.png)  
-- [2022-08-12-JDK8-升级到-JDK17-怎么搞](https://www.v2ex.com/t/872499) ![](assets/new.png)  
-- [2022-08-12-分享菜鸟寄件发生的不愉快，给各位避坑。](https://www.v2ex.com/t/872497) ![](assets/new.png)  
-- [2022-08-12-深圳-6-年-Python-、Golang-经验，求后端开发内推](https://www.v2ex.com/t/872495) ![](assets/new.png)  
-- [2022-08-12-DNS-加密怎么设置？](https://www.v2ex.com/t/872494) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -572,7 +572,7 @@
 - [2022-08-12-携程小程序生态之Taro跨端解决方案](https://toutiao.io/k/5o14o6m) ![](assets/new.png)  
 - [2022-08-12-如何开启企业数字化转型？](https://toutiao.io/k/2ot640t) ![](assets/new.png)  
 - [2022-08-12-独立开发变现周刊（第67期）：一个年收入42万美元的业务，将播客转化为文章](https://toutiao.io/k/v9m81ck) ![](assets/new.png)  
-- [2022-08-12-推荐-研发过程中的文档管理与工具](https://toutiao.io/k/mdiqwn5) ![](assets/new.png)  
+- [2022-08-12-推荐-【大厂面试真题解析】虾皮-Shopee-后端一面十四问](https://toutiao.io/k/pol71im) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

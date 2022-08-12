@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-12 10:16:28，:rocket: 更新条数: +2029， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-12 10:45:40，:rocket: 更新条数: +2028， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,9 @@
 </summary>
 
 
+- [2022-08-12-坚果云的-macos-客户端有-bug](https://www.v2ex.com/t/872503) ![](assets/new.png)  
+- [2022-08-12-react-函数组件的单元测试-有办法单独测组件内的函数么](https://www.v2ex.com/t/872501) ![](assets/new.png)  
+- [2022-08-12-JDK8-升级到-JDK17-怎么搞](https://www.v2ex.com/t/872499) ![](assets/new.png)  
 - [2022-08-12-分享菜鸟寄件发生的不愉快，给各位避坑。](https://www.v2ex.com/t/872497) ![](assets/new.png)  
 - [2022-08-12-深圳-6-年-Python-、Golang-经验，求后端开发内推](https://www.v2ex.com/t/872495) ![](assets/new.png)  
 - [2022-08-12-DNS-加密怎么设置？](https://www.v2ex.com/t/872494) ![](assets/new.png)  
@@ -508,9 +511,6 @@
 - [2022-08-12-最近有好几款折叠屏手机发布，三星、小米、摩托罗拉，本人刚好想换一部，大家更看好哪一款？](https://www.v2ex.com/t/872480) ![](assets/new.png)  
 - [2022-08-12-一个特定条件下无法访问-NAS-的-443-端口问题.](https://www.v2ex.com/t/872479) ![](assets/new.png)  
 - [2022-08-12-git-clone-下来的大小与-web-显示不一致](https://www.v2ex.com/t/872478) ![](assets/new.png)  
-- [2022-08-12-是否可以以少报社保工资基数侵害劳动者权益为由解除劳动合同并拿到解除劳动合同补偿](https://www.v2ex.com/t/872477) ![](assets/new.png)  
-- [2022-08-12-镜像-layerId-和-diffId-如何对应](https://www.v2ex.com/t/872476) ![](assets/new.png)  
-- [2022-08-12-有什么支持-.nomedia-的安卓相册应用](https://www.v2ex.com/t/872475) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

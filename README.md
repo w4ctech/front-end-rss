@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-12 11:13:07，:rocket: 更新条数: +2029， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-12 11:36:45，:rocket: 更新条数: +2029， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-08-12-1024Code，免费、协作式的、基于浏览器的-IDE-环境内测发布](https://www.v2ex.com/t/872508) ![](assets/new.png)  
+- [2022-08-12-我创建了一个软件开发人员的在线英语角，在飞书在线会议，有兴趣参加吗？](https://www.v2ex.com/t/872507) ![](assets/new.png)  
 - [2022-08-12-每个中介都说自己联系到的才是真业主，如何分辨](https://www.v2ex.com/t/872506) ![](assets/new.png)  
 - [2022-08-12-请教-V-友们一些关于-devops-的问题](https://www.v2ex.com/t/872505) ![](assets/new.png)  
 - [2022-08-12-记录第一次痛快的配机的流程](https://www.v2ex.com/t/872504) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-08-12-分享一个快捷指令，打开上海随申码的核酸码页面](https://www.v2ex.com/t/872485) ![](assets/new.png)  
 - [2022-08-12-求推荐手机，我老爸用](https://www.v2ex.com/t/872484) ![](assets/new.png)  
 - [2022-08-12-求推荐一个手机上可以方便查看到批注的电子书阅读器](https://www.v2ex.com/t/872483) ![](assets/new.png)  
-- [2022-08-12-iPhone-客户端只能看自制内容](https://www.v2ex.com/t/872482) ![](assets/new.png)  
-- [2022-08-12-使用代码给图片加水印，如何计算水印文字所占的宽度和高度？](https://www.v2ex.com/t/872481) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -558,13 +558,13 @@
 - [2022-08-12-美团搜索粗排优化的探索与实践](https://toutiao.io/k/6idq555) ![](assets/new.png)  
 - [2022-08-12-MyBatis多条件查询、动态SQL、多表操作、注解开发详细教程](https://toutiao.io/k/2tr5vt2) ![](assets/new.png)  
 - [2022-08-12-来自Redis的官方吐槽：13年来，总有人想替Redis换套新架构](https://toutiao.io/k/k4h5oz7) ![](assets/new.png)  
+- [2022-08-12-了解-HTTP-看这一篇就够](https://toutiao.io/k/aqx4hy6) ![](assets/new.png)  
 - [2022-08-12-详解最大似然估计、最大后验概率估计及贝叶斯公式](https://toutiao.io/k/onz9vvd) ![](assets/new.png)  
 - [2022-08-12-开源项目丨一文详解一站式大数据平台运维管家ChengYing如何部署Hadoop集群](https://toutiao.io/k/r045g8g) ![](assets/new.png)  
-- [2022-08-12-了解-HTTP-看这一篇就够](https://toutiao.io/k/aqx4hy6) ![](assets/new.png)  
 - [2022-08-12-为什么我推荐使用智能化async？](https://toutiao.io/k/ok4p6ea) ![](assets/new.png)  
 - [2022-08-12-微软新工具准确率达80%，程序员：真的栓-Q](https://toutiao.io/k/mb94bp2) ![](assets/new.png)  
-- [2022-08-12-每天杂事一大堆，你应付的过来吗？](https://toutiao.io/k/cdxki4i) ![](assets/new.png)  
 - [2022-08-12-图文并茂：JVM内存布局详解](https://toutiao.io/k/zl7tj4l) ![](assets/new.png)  
+- [2022-08-12-每天杂事一大堆，你应付的过来吗？](https://toutiao.io/k/cdxki4i) ![](assets/new.png)  
 - [2022-08-12-针对思科被黑客攻击事件的简单分析](https://toutiao.io/k/3zj4icp) ![](assets/new.png)  
 - [2022-08-12-博文推荐-|-详解-Kafka-on-Pulsar-原理设计与技术进展](https://toutiao.io/k/y0aip71) ![](assets/new.png)  
 - [2022-08-12-原创-Go/Rust/Kotlin-的协程和队列性能评测](https://toutiao.io/k/2a40ym8) ![](assets/new.png)  

@@ -9953,6 +9953,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "我下载了全部 iCloud 和 Google Photos 照片，如何去重合并，并保留最高画质",
+        "link": "https://www.v2ex.com/t/872550",
+        "date": "2022-08-12"
+      },
+      {
         "title": "Ubuntu 22.04.1 发布了，给 WSL2 升级一下",
         "link": "https://www.v2ex.com/t/872549",
         "date": "2022-08-12"
@@ -10357,13 +10362,13 @@
         "date": "2022-08-12"
       },
       {
-        "title": "[推荐] 京东面试：MQ 消息丢失、重复、积压问题，如何解决？",
-        "link": "https://toutiao.io/k/1unx53z",
+        "title": "[推荐] 研发过程中的文档管理与工具",
+        "link": "https://toutiao.io/k/mdiqwn5",
         "date": "2022-08-12"
       },
       {
-        "title": "[推荐] 【大厂面试真题解析】虾皮 Shopee 后端一面十四问",
-        "link": "https://toutiao.io/k/pol71im",
+        "title": "[推荐] 京东面试：MQ 消息丢失、重复、积压问题，如何解决？",
+        "link": "https://toutiao.io/k/1unx53z",
         "date": "2022-08-12"
       },
       {
@@ -10372,8 +10377,8 @@
         "date": "2022-08-12"
       },
       {
-        "title": "[推荐] 研发过程中的文档管理与工具",
-        "link": "https://toutiao.io/k/mdiqwn5",
+        "title": "[推荐] 【大厂面试真题解析】虾皮 Shopee 后端一面十四问",
+        "link": "https://toutiao.io/k/pol71im",
         "date": "2022-08-12"
       }
     ]

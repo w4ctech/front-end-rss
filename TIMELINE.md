@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-08-12 14:14:06。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-08-12 14:39:40。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,8 @@
 </summary>
 
 
+- [【V2EX】2022-08-12-我一个朋友想离开深圳，但是舍不得罗湖](https://www.v2ex.com/t/872535) 
+- [【V2EX】2022-08-12-大佬们项目架构迁移经验对一个毕业两年多的人有用吗？这算是简历上的亮点吗？](https://www.v2ex.com/t/872534) 
 - [【V2EX】2022-08-12-软路由魔法插件无法解锁奈飞](https://www.v2ex.com/t/872533) 
 - [【V2EX】2022-08-12-有没有生物医药行业的大佬谈一下国产新冠口服药？](https://www.v2ex.com/t/872532) 
 - [【V2EX】2022-08-12-分享-Rime-Squirrel-鼠须管输入法一个非常好用的第三方配置](https://www.v2ex.com/t/872531) 
@@ -104,8 +106,6 @@
 - [【V2EX】2022-08-12-家用台式（厨上）RO-净水器有推荐吗？](https://www.v2ex.com/t/872490) 
 - [【V2EX】2022-08-12-iPhone-上-Onedrive-用蜂窝数据播放视频会黑屏](https://www.v2ex.com/t/872488) 
 - [【V2EX】2022-08-12-关于-Redis-压缩列表的疑问，有没有懂的老鸟给科普下](https://www.v2ex.com/t/872486) 
-- [【V2EX】2022-08-12-分享一个快捷指令，打开上海随申码的核酸码页面](https://www.v2ex.com/t/872485) 
-- [【V2EX】2022-08-12-求推荐手机，我老爸用](https://www.v2ex.com/t/872484) 
 - [【技术头条】2022-08-12-像用户一样测试：不妨犯傻-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15282&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftest-like-user-2%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-08-12-BFF避坑指南-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15281&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fbackends-for-frontends%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-08-12-40年前的操作系统复活了，当年Linux、Windows都借鉴过！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15280&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494410%26amp%3Bidx%3D1%26amp%3Bsn%3D6573f0c124bcd2e20c39c33d3e516526%26amp%3Bchksm%3Dfa3f0a51cd4883479817eb189805d7dfe98436addb3e47a267f25bc3cdefefbb56aeab56e7b4%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -135,9 +135,9 @@
 - [【开发者头条】2022-08-12-详解最大似然估计、最大后验概率估计及贝叶斯公式](https://toutiao.io/k/onz9vvd) 
 - [【开发者头条】2022-08-12-开源项目丨一文详解一站式大数据平台运维管家ChengYing如何部署Hadoop集群](https://toutiao.io/k/r045g8g) 
 - [【开发者头条】2022-08-12-图文并茂：JVM内存布局详解](https://toutiao.io/k/zl7tj4l) 
+- [【开发者头条】2022-08-12-每天杂事一大堆，你应付的过来吗？](https://toutiao.io/k/cdxki4i) 
 - [【开发者头条】2022-08-12-微软新工具准确率达80%，程序员：真的栓-Q](https://toutiao.io/k/mb94bp2) 
 - [【开发者头条】2022-08-12-为什么我推荐使用智能化async？](https://toutiao.io/k/ok4p6ea) 
-- [【开发者头条】2022-08-12-每天杂事一大堆，你应付的过来吗？](https://toutiao.io/k/cdxki4i) 
 - [【开发者头条】2022-08-12-针对思科被黑客攻击事件的简单分析](https://toutiao.io/k/3zj4icp) 
 - [【开发者头条】2022-08-12-聊聊高性能-RPC框架-gRPC](https://toutiao.io/k/qm9oygk) 
 - [【开发者头条】2022-08-12-博文推荐-|-详解-Kafka-on-Pulsar-原理设计与技术进展](https://toutiao.io/k/y0aip71) 
@@ -145,10 +145,10 @@
 - [【开发者头条】2022-08-12-携程小程序生态之Taro跨端解决方案](https://toutiao.io/k/5o14o6m) 
 - [【开发者头条】2022-08-12-如何开启企业数字化转型？](https://toutiao.io/k/2ot640t) 
 - [【开发者头条】2022-08-12-独立开发变现周刊（第67期）：一个年收入42万美元的业务，将播客转化为文章](https://toutiao.io/k/v9m81ck) 
-- [【开发者头条】2022-08-12-推荐-阿里云官方-Redis-开发规范！](https://toutiao.io/k/2fqcbfi) 
-- [【开发者头条】2022-08-12-推荐-【大厂面试真题解析】虾皮-Shopee-后端一面十四问](https://toutiao.io/k/pol71im) 
 - [【开发者头条】2022-08-12-推荐-Java-大后端各种架构图汇总（建议收藏！！）](https://toutiao.io/k/dvo6z1w) 
 - [【开发者头条】2022-08-12-推荐-研发过程中的文档管理与工具](https://toutiao.io/k/mdiqwn5) 
+- [【开发者头条】2022-08-12-推荐-【大厂面试真题解析】虾皮-Shopee-后端一面十四问](https://toutiao.io/k/pol71im) 
+- [【开发者头条】2022-08-12-推荐-阿里云官方-Redis-开发规范！](https://toutiao.io/k/2fqcbfi) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

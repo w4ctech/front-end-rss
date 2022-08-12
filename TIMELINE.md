@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-08-12 05:40:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-08-12 06:18:02。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,14 @@
 </summary>
 
 
+- [【V2EX】2022-08-12-关于-Mac-cmd-+-tab-切换窗口失效](https://www.v2ex.com/t/872426) 
+- [【V2EX】2022-08-12-旧文连载-来了不是深圳人-1:拜拜了深圳](https://www.v2ex.com/t/872425) 
+- [【V2EX】2022-08-12-斯琴高娃老师，这是可以开源的吗](https://www.v2ex.com/t/872422) 
+- [【V2EX】2022-08-12-感觉网飞的片源帧率挺低](https://www.v2ex.com/t/872421) 
+- [【V2EX】2022-08-12-无线分体键盘-ALGEBOARD-正式发售-—-8-月-15-日-11:00](https://www.v2ex.com/t/872420) 
+- [【V2EX】2022-08-12-大家的-iPhone-13-会经常突然没信号吗](https://www.v2ex.com/t/872419) 
+- [【V2EX】2022-08-12-关于微信支付的一个发现](https://www.v2ex.com/t/872418) 
+- [【V2EX】2022-08-12-2022-年-Android-上有什么-Shazam-的替代品吗？](https://www.v2ex.com/t/872417) 
 - [【V2EX】2022-08-12-习惯了工程化的前端项目,-现在我要用-jquery-了,-望各位指点指点](https://www.v2ex.com/t/872415) 
 - [【V2EX】2022-08-12-求助-美团采购、盒马采购！](https://www.v2ex.com/t/872414) 
 - [【V2EX】2022-08-12-怎么实现敏感数据加密存储并可模糊检索](https://www.v2ex.com/t/872410) 
@@ -96,13 +104,6 @@
 - [【V2EX】2022-08-12-请问各位-V-友如何屏蔽虚拟号段的垃圾短信骚扰](https://www.v2ex.com/t/872381) 
 - [【V2EX】2022-08-12-求教下有哪个-CI/CD-工具能完全替代-Jenkins-的，求推荐](https://www.v2ex.com/t/872380) 
 - [【V2EX】2022-08-12-为什么喝过咖啡之后反而更疲惫了](https://www.v2ex.com/t/872379) 
-- [【V2EX】2022-08-12-阿里云万网域名转到什么托管平台推荐？](https://www.v2ex.com/t/872376) 
-- [【V2EX】2022-08-12-坐标广州。问，如何买到便宜机票？](https://www.v2ex.com/t/872375) 
-- [【V2EX】2022-08-12-2022-年秋季发布会，苹果会有-MacBookPro-M2-版本发布么](https://www.v2ex.com/t/872374) 
-- [【V2EX】2022-08-12-经常碰到在谷歌浏览器控制台打印有数据，但是复制出了没有数据为什么？](https://www.v2ex.com/t/872371) 
-- [【V2EX】2022-08-12-体验了一下基于-EcoQoS-的-EnergyStar,续航几乎没有变化](https://www.v2ex.com/t/872370) 
-- [【V2EX】2022-08-12-找一个很火的标签搜索引擎](https://www.v2ex.com/t/872369) 
-- [【V2EX】2022-08-12-求问哪个天气预报-app-准](https://www.v2ex.com/t/872368) 
 - [【技术头条】2022-08-12-像用户一样测试：不妨犯傻-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15282&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftest-like-user-2%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-08-12-BFF避坑指南-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15281&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fbackends-for-frontends%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-08-12-40年前的操作系统复活了，当年Linux、Windows都借鉴过！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15280&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494410%26amp%3Bidx%3D1%26amp%3Bsn%3D6573f0c124bcd2e20c39c33d3e516526%26amp%3Bchksm%3Dfa3f0a51cd4883479817eb189805d7dfe98436addb3e47a267f25bc3cdefefbb56aeab56e7b4%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -138,10 +139,14 @@
 - [【开发者头条】2022-08-12-每天杂事一大堆，你应付的过来吗？](https://toutiao.io/k/cdxki4i) 
 - [【开发者头条】2022-08-12-针对思科被黑客攻击事件的简单分析](https://toutiao.io/k/3zj4icp) 
 - [【开发者头条】2022-08-12-图文并茂：JVM内存布局详解](https://toutiao.io/k/zl7tj4l) 
-- [【开发者头条】2022-08-12-推荐-【大厂面试真题解析】虾皮-Shopee-后端一面十四问](https://toutiao.io/k/pol71im) 
-- [【开发者头条】2022-08-12-推荐-阿里云官方-Redis-开发规范！](https://toutiao.io/k/2fqcbfi) 
+- [【开发者头条】2022-08-12-聊聊高性能-RPC框架-gRPC](https://toutiao.io/k/qm9oygk) 
+- [【开发者头条】2022-08-12-独立开发变现周刊（第67期）：一个年收入42万美元的业务，将播客转化为文章](https://toutiao.io/k/v9m81ck) 
+- [【开发者头条】2022-08-12-如何开启企业数字化转型？](https://toutiao.io/k/2ot640t) 
+- [【开发者头条】2022-08-12-携程小程序生态之Taro跨端解决方案](https://toutiao.io/k/5o14o6m) 
 - [【开发者头条】2022-08-12-推荐-研发过程中的文档管理与工具](https://toutiao.io/k/mdiqwn5) 
 - [【开发者头条】2022-08-12-推荐-Java-大后端各种架构图汇总（建议收藏！！）](https://toutiao.io/k/dvo6z1w) 
+- [【开发者头条】2022-08-12-推荐-【大厂面试真题解析】虾皮-Shopee-后端一面十四问](https://toutiao.io/k/pol71im) 
+- [【开发者头条】2022-08-12-推荐-阿里云官方-Redis-开发规范！](https://toutiao.io/k/2fqcbfi) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

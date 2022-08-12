@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-12 05:40:21，:rocket: 更新条数: +2020， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-12 06:18:02，:rocket: 更新条数: +2025， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,14 @@
 </summary>
 
 
+- [2022-08-12-关于-Mac-cmd-+-tab-切换窗口失效](https://www.v2ex.com/t/872426) ![](assets/new.png)  
+- [2022-08-12-旧文连载-来了不是深圳人-1:拜拜了深圳](https://www.v2ex.com/t/872425) ![](assets/new.png)  
+- [2022-08-12-斯琴高娃老师，这是可以开源的吗](https://www.v2ex.com/t/872422) ![](assets/new.png)  
+- [2022-08-12-感觉网飞的片源帧率挺低](https://www.v2ex.com/t/872421) ![](assets/new.png)  
+- [2022-08-12-无线分体键盘-ALGEBOARD-正式发售-—-8-月-15-日-11:00](https://www.v2ex.com/t/872420) ![](assets/new.png)  
+- [2022-08-12-大家的-iPhone-13-会经常突然没信号吗](https://www.v2ex.com/t/872419) ![](assets/new.png)  
+- [2022-08-12-关于微信支付的一个发现](https://www.v2ex.com/t/872418) ![](assets/new.png)  
+- [2022-08-12-2022-年-Android-上有什么-Shazam-的替代品吗？](https://www.v2ex.com/t/872417) ![](assets/new.png)  
 - [2022-08-12-习惯了工程化的前端项目,-现在我要用-jquery-了,-望各位指点指点](https://www.v2ex.com/t/872415) ![](assets/new.png)  
 - [2022-08-12-求助-美团采购、盒马采购！](https://www.v2ex.com/t/872414) ![](assets/new.png)  
 - [2022-08-12-怎么实现敏感数据加密存储并可模糊检索](https://www.v2ex.com/t/872410) ![](assets/new.png)  
@@ -503,14 +511,6 @@
 - [2022-08-12-关于-Go-在-`Return-Nil-or-Pointer-to-Empty-Struct-on-Error`-上的讨论？](https://www.v2ex.com/t/872400) ![](assets/new.png)  
 - [2022-08-12-公司用-git。我在业余时间写-git-使用教程和心得，是否侵犯公司权益？](https://www.v2ex.com/t/872399) ![](assets/new.png)  
 - [2022-08-12-winui3-能实现窗口置顶的功能吗](https://www.v2ex.com/t/872398) ![](assets/new.png)  
-- [2022-08-12-上海-医药独角兽迅猛上升中-欢迎-Python-搜索推荐大牛来投](https://www.v2ex.com/t/872396) ![](assets/new.png)  
-- [2022-08-12-周末九溪车辆预约都约满了，咋整](https://www.v2ex.com/t/872395) ![](assets/new.png)  
-- [2022-08-12-为什么小米要自己发明-USB-接口啊？](https://www.v2ex.com/t/872394) ![](assets/new.png)  
-- [2022-08-12-iPhone-13-pro-户外随便划划屏幕都发烫吗?](https://www.v2ex.com/t/872393) ![](assets/new.png)  
-- [2022-08-12-这种算诈骗短信么](https://www.v2ex.com/t/872392) ![](assets/new.png)  
-- [2022-08-12-Python-每日一练：等分字符串](https://www.v2ex.com/t/872391) ![](assets/new.png)  
-- [2022-08-12-有没有从事-tiktok-海外营销行业的？进来聊两句](https://www.v2ex.com/t/872390) ![](assets/new.png)  
-- [2022-08-12-请教，华强北得三代耳机电池仓能给正版三代耳机充电么](https://www.v2ex.com/t/872388) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -568,10 +568,11 @@
 - [2022-08-12-每天杂事一大堆，你应付的过来吗？](https://toutiao.io/k/cdxki4i) ![](assets/new.png)  
 - [2022-08-12-针对思科被黑客攻击事件的简单分析](https://toutiao.io/k/3zj4icp) ![](assets/new.png)  
 - [2022-08-12-图文并茂：JVM内存布局详解](https://toutiao.io/k/zl7tj4l) ![](assets/new.png)  
-- [2022-08-12-推荐-【大厂面试真题解析】虾皮-Shopee-后端一面十四问](https://toutiao.io/k/pol71im) ![](assets/new.png)  
-- [2022-08-12-推荐-阿里云官方-Redis-开发规范！](https://toutiao.io/k/2fqcbfi) ![](assets/new.png)  
+- [2022-08-12-聊聊高性能-RPC框架-gRPC](https://toutiao.io/k/qm9oygk) ![](assets/new.png)  
+- [2022-08-12-独立开发变现周刊（第67期）：一个年收入42万美元的业务，将播客转化为文章](https://toutiao.io/k/v9m81ck) ![](assets/new.png)  
+- [2022-08-12-如何开启企业数字化转型？](https://toutiao.io/k/2ot640t) ![](assets/new.png)  
+- [2022-08-12-携程小程序生态之Taro跨端解决方案](https://toutiao.io/k/5o14o6m) ![](assets/new.png)  
 - [2022-08-12-推荐-研发过程中的文档管理与工具](https://toutiao.io/k/mdiqwn5) ![](assets/new.png)  
-- [2022-08-12-推荐-Java-大后端各种架构图汇总（建议收藏！！）](https://toutiao.io/k/dvo6z1w) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

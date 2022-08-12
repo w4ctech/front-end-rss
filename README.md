@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-12 04:08:51，:rocket: 更新条数: +2021， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-12 04:58:37，:rocket: 更新条数: +2021， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,11 @@
 </summary>
 
 
+- [2022-08-12-怎么实现敏感数据加密存储并可模糊检索](https://www.v2ex.com/t/872410) ![](assets/new.png)  
+- [2022-08-12-Emby-弹幕扩展](https://www.v2ex.com/t/872408) ![](assets/new.png)  
+- [2022-08-12-APTV-for-tvOS-开启公测（内含-Testflight-链接）](https://www.v2ex.com/t/872407) ![](assets/new.png)  
+- [2022-08-12-阿茲夫定-3-期临床试验数据](https://www.v2ex.com/t/872406) ![](assets/new.png)  
+- [2022-08-12-linksys-mr7350-变砖了](https://www.v2ex.com/t/872405) ![](assets/new.png)  
 - [2022-08-12-Clicknium-自动操作网页和应用](https://www.v2ex.com/t/872403) ![](assets/new.png)  
 - [2022-08-12-请问有查询移动联通充值卡状态的程序吗？](https://www.v2ex.com/t/872401) ![](assets/new.png)  
 - [2022-08-12-关于-Go-在-`Return-Nil-or-Pointer-to-Empty-Struct-on-Error`-上的讨论？](https://www.v2ex.com/t/872400) ![](assets/new.png)  
@@ -503,14 +508,9 @@
 - [2022-08-12-这种算诈骗短信么](https://www.v2ex.com/t/872392) ![](assets/new.png)  
 - [2022-08-12-Python-每日一练：等分字符串](https://www.v2ex.com/t/872391) ![](assets/new.png)  
 - [2022-08-12-有没有从事-tiktok-海外营销行业的？进来聊两句](https://www.v2ex.com/t/872390) ![](assets/new.png)  
-- [2022-08-12-大家如何看待小米的研发能力？](https://www.v2ex.com/t/872389) ![](assets/new.png)  
 - [2022-08-12-请教，华强北得三代耳机电池仓能给正版三代耳机充电么](https://www.v2ex.com/t/872388) ![](assets/new.png)  
 - [2022-08-12-大佬快来，请教一个-bash-文本对齐问题。](https://www.v2ex.com/t/872386) ![](assets/new.png)  
 - [2022-08-12-电子书和-PDF-通过什么软件管理?](https://www.v2ex.com/t/872385) ![](assets/new.png)  
-- [2022-08-12-能通过编译后的-JS-打包文件，反编译出原本的吗？](https://www.v2ex.com/t/872384) ![](assets/new.png)  
-- [2022-08-12-求推荐个好点的信用卡](https://www.v2ex.com/t/872383) ![](assets/new.png)  
-- [2022-08-12-有没有现成的团队-账户管理机制](https://www.v2ex.com/t/872382) ![](assets/new.png)  
-- [2022-08-12-请问各位-V-友如何屏蔽虚拟号段的垃圾短信骚扰](https://www.v2ex.com/t/872381) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -565,13 +565,13 @@
 - [2022-08-12-原创-Go/Rust/Kotlin-的协程和队列性能评测](https://toutiao.io/k/2a40ym8) ![](assets/new.png)  
 - [2022-08-12-博文推荐-|-详解-Kafka-on-Pulsar-原理设计与技术进展](https://toutiao.io/k/y0aip71) ![](assets/new.png)  
 - [2022-08-12-每天杂事一大堆，你应付的过来吗？](https://toutiao.io/k/cdxki4i) ![](assets/new.png)  
-- [2022-08-12-针对思科被黑客攻击事件的简单分析](https://toutiao.io/k/3zj4icp) ![](assets/new.png)  
 - [2022-08-12-了解-HTTP-看这一篇就够](https://toutiao.io/k/aqx4hy6) ![](assets/new.png)  
+- [2022-08-12-针对思科被黑客攻击事件的简单分析](https://toutiao.io/k/3zj4icp) ![](assets/new.png)  
 - [2022-08-12-图文并茂：JVM内存布局详解](https://toutiao.io/k/zl7tj4l) ![](assets/new.png)  
 - [2022-08-12-推荐-【大厂面试真题解析】虾皮-Shopee-后端一面十四问](https://toutiao.io/k/pol71im) ![](assets/new.png)  
+- [2022-08-12-推荐-阿里云官方-Redis-开发规范！](https://toutiao.io/k/2fqcbfi) ![](assets/new.png)  
 - [2022-08-12-推荐-Java-大后端各种架构图汇总（建议收藏！！）](https://toutiao.io/k/dvo6z1w) ![](assets/new.png)  
 - [2022-08-12-推荐-研发过程中的文档管理与工具](https://toutiao.io/k/mdiqwn5) ![](assets/new.png)  
-- [2022-08-12-推荐-阿里云官方-Redis-开发规范！](https://toutiao.io/k/2fqcbfi) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

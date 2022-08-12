@@ -1,10 +1,15 @@
-:alarm_clock: 更新时间: 2022-08-12 04:08:51。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-08-12 04:58:37。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-08-12-怎么实现敏感数据加密存储并可模糊检索](https://www.v2ex.com/t/872410) 
+- [2022-08-12-Emby-弹幕扩展](https://www.v2ex.com/t/872408) 
+- [2022-08-12-APTV-for-tvOS-开启公测（内含-Testflight-链接）](https://www.v2ex.com/t/872407) 
+- [2022-08-12-阿茲夫定-3-期临床试验数据](https://www.v2ex.com/t/872406) 
+- [2022-08-12-linksys-mr7350-变砖了](https://www.v2ex.com/t/872405) 
 - [2022-08-12-Clicknium-自动操作网页和应用](https://www.v2ex.com/t/872403) 
 - [2022-08-12-请问有查询移动联通充值卡状态的程序吗？](https://www.v2ex.com/t/872401) 
 - [2022-08-12-关于-Go-在-`Return-Nil-or-Pointer-to-Empty-Struct-on-Error`-上的讨论？](https://www.v2ex.com/t/872400) 
@@ -17,7 +22,6 @@
 - [2022-08-12-这种算诈骗短信么](https://www.v2ex.com/t/872392) 
 - [2022-08-12-Python-每日一练：等分字符串](https://www.v2ex.com/t/872391) 
 - [2022-08-12-有没有从事-tiktok-海外营销行业的？进来聊两句](https://www.v2ex.com/t/872390) 
-- [2022-08-12-大家如何看待小米的研发能力？](https://www.v2ex.com/t/872389) 
 - [2022-08-12-请教，华强北得三代耳机电池仓能给正版三代耳机充电么](https://www.v2ex.com/t/872388) 
 - [2022-08-12-大佬快来，请教一个-bash-文本对齐问题。](https://www.v2ex.com/t/872386) 
 - [2022-08-12-电子书和-PDF-通过什么软件管理?](https://www.v2ex.com/t/872385) 
@@ -37,7 +41,3 @@
 - [2022-08-12-捣鼓外贸电视盒子-h96-max-x3](https://www.v2ex.com/t/872364) 
 - [2022-08-12-有没有遇到日期时间反显的情况](https://www.v2ex.com/t/872362) 
 - [2022-08-12-生活热爱者--Vol.06：今天不想跑步，所以去跑步](https://www.v2ex.com/t/872361) 
-- [2022-08-12-给大家推荐个好用的搜索引擎-F-搜](https://www.v2ex.com/t/872359) 
-- [2022-08-12-沱沱河纪实，你可能从来没有听过的地方](https://www.v2ex.com/t/872358) 
-- [2022-08-12-你们公司还能按时发工资么？](https://www.v2ex.com/t/872355) 
-- [2022-08-12-ios-相机，“高效”和“兼容性最佳”的对比](https://www.v2ex.com/t/872354) 

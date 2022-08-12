@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-12 12:25:31，:rocket: 更新条数: +2027， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-12 13:13:35，:rocket: 更新条数: +2027， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,13 @@
 </summary>
 
 
+- [2022-08-12-8-年老号迁移-WeChat-一天被封，有老哥遇到相同情况吗](https://www.v2ex.com/t/872521) ![](assets/new.png)  
+- [2022-08-12-Mac-端-iOS-端来车友](https://www.v2ex.com/t/872520) ![](assets/new.png)  
+- [2022-08-12-广州/深圳-刚培训班出来的前端求个机会](https://www.v2ex.com/t/872519) ![](assets/new.png)  
+- [2022-08-12-学习将近两周双拼以及-Vim-的感悟](https://www.v2ex.com/t/872518) ![](assets/new.png)  
+- [2022-08-12-ac3-和-aac-的编码和解码怎么收费](https://www.v2ex.com/t/872517) ![](assets/new.png)  
+- [2022-08-12-趁老婆在加班发点感想！](https://www.v2ex.com/t/872515) ![](assets/new.png)  
+- [2022-08-12-请教如果-celery-任务已经在进行中，还能如何跟用户交互么](https://www.v2ex.com/t/872514) ![](assets/new.png)  
 - [2022-08-12-SPDK-的开发环境和调试](https://www.v2ex.com/t/872511) ![](assets/new.png)  
 - [2022-08-12-iOS-有可以控制声道的软件吗？](https://www.v2ex.com/t/872510) ![](assets/new.png)  
 - [2022-08-12-1024Code，免费、协作式的、基于浏览器的-IDE-环境内测发布](https://www.v2ex.com/t/872508) ![](assets/new.png)  
@@ -504,13 +511,6 @@
 - [2022-08-12-分享菜鸟寄件发生的不愉快，给各位避坑。](https://www.v2ex.com/t/872497) ![](assets/new.png)  
 - [2022-08-12-深圳-6-年-Python-、Golang-经验，求后端开发内推](https://www.v2ex.com/t/872495) ![](assets/new.png)  
 - [2022-08-12-DNS-加密怎么设置？](https://www.v2ex.com/t/872494) ![](assets/new.png)  
-- [2022-08-12-Hackathon-项目一个开源的笔记-App](https://www.v2ex.com/t/872493) ![](assets/new.png)  
-- [2022-08-12-35-岁大龄程序员，去国外是一个理性的选择么](https://www.v2ex.com/t/872492) ![](assets/new.png)  
-- [2022-08-12-在阮一峰博客上发现了这个：「能源的极限」。感觉很不可思议，很难反驳。](https://www.v2ex.com/t/872491) ![](assets/new.png)  
-- [2022-08-12-家用台式（厨上）RO-净水器有推荐吗？](https://www.v2ex.com/t/872490) ![](assets/new.png)  
-- [2022-08-12-iPhone-上-Onedrive-用蜂窝数据播放视频会黑屏](https://www.v2ex.com/t/872488) ![](assets/new.png)  
-- [2022-08-12-关于-Redis-压缩列表的疑问，有没有懂的老鸟给科普下](https://www.v2ex.com/t/872486) ![](assets/new.png)  
-- [2022-08-12-分享一个快捷指令，打开上海随申码的核酸码页面](https://www.v2ex.com/t/872485) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -557,18 +557,18 @@
 - [2022-08-12-也聊一聊服务稳定性建设](https://toutiao.io/k/ccmz6bl) ![](assets/new.png)  
 - [2022-08-12-美团搜索粗排优化的探索与实践](https://toutiao.io/k/6idq555) ![](assets/new.png)  
 - [2022-08-12-MyBatis多条件查询、动态SQL、多表操作、注解开发详细教程](https://toutiao.io/k/2tr5vt2) ![](assets/new.png)  
-- [2022-08-12-来自Redis的官方吐槽：13年来，总有人想替Redis换套新架构](https://toutiao.io/k/k4h5oz7) ![](assets/new.png)  
 - [2022-08-12-了解-HTTP-看这一篇就够](https://toutiao.io/k/aqx4hy6) ![](assets/new.png)  
+- [2022-08-12-来自Redis的官方吐槽：13年来，总有人想替Redis换套新架构](https://toutiao.io/k/k4h5oz7) ![](assets/new.png)  
 - [2022-08-12-详解最大似然估计、最大后验概率估计及贝叶斯公式](https://toutiao.io/k/onz9vvd) ![](assets/new.png)  
 - [2022-08-12-开源项目丨一文详解一站式大数据平台运维管家ChengYing如何部署Hadoop集群](https://toutiao.io/k/r045g8g) ![](assets/new.png)  
+- [2022-08-12-图文并茂：JVM内存布局详解](https://toutiao.io/k/zl7tj4l) ![](assets/new.png)  
 - [2022-08-12-微软新工具准确率达80%，程序员：真的栓-Q](https://toutiao.io/k/mb94bp2) ![](assets/new.png)  
 - [2022-08-12-为什么我推荐使用智能化async？](https://toutiao.io/k/ok4p6ea) ![](assets/new.png)  
-- [2022-08-12-图文并茂：JVM内存布局详解](https://toutiao.io/k/zl7tj4l) ![](assets/new.png)  
 - [2022-08-12-每天杂事一大堆，你应付的过来吗？](https://toutiao.io/k/cdxki4i) ![](assets/new.png)  
 - [2022-08-12-针对思科被黑客攻击事件的简单分析](https://toutiao.io/k/3zj4icp) ![](assets/new.png)  
 - [2022-08-12-博文推荐-|-详解-Kafka-on-Pulsar-原理设计与技术进展](https://toutiao.io/k/y0aip71) ![](assets/new.png)  
-- [2022-08-12-原创-Go/Rust/Kotlin-的协程和队列性能评测](https://toutiao.io/k/2a40ym8) ![](assets/new.png)  
 - [2022-08-12-聊聊高性能-RPC框架-gRPC](https://toutiao.io/k/qm9oygk) ![](assets/new.png)  
+- [2022-08-12-原创-Go/Rust/Kotlin-的协程和队列性能评测](https://toutiao.io/k/2a40ym8) ![](assets/new.png)  
 - [2022-08-12-携程小程序生态之Taro跨端解决方案](https://toutiao.io/k/5o14o6m) ![](assets/new.png)  
 - [2022-08-12-如何开启企业数字化转型？](https://toutiao.io/k/2ot640t) ![](assets/new.png)  
 - [2022-08-12-独立开发变现周刊（第67期）：一个年收入42万美元的业务，将播客转化为文章](https://toutiao.io/k/v9m81ck) ![](assets/new.png)  

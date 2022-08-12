@@ -9953,6 +9953,16 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "Ubuntu 22.04.1 发布了，给 WSL2 升级一下",
+        "link": "https://www.v2ex.com/t/872549",
+        "date": "2022-08-12"
+      },
+      {
+        "title": "为什么我感觉 mac 浅色主题比深色主题流畅？",
+        "link": "https://www.v2ex.com/t/872548",
+        "date": "2022-08-12"
+      },
+      {
         "title": "Android 12 准备好了，如何虚拟机运行 Windows 11？",
         "link": "https://www.v2ex.com/t/872547",
         "date": "2022-08-12"
@@ -10135,11 +10145,6 @@
       {
         "title": "react 函数组件的单元测试 有办法单独测组件内的函数么",
         "link": "https://www.v2ex.com/t/872501",
-        "date": "2022-08-12"
-      },
-      {
-        "title": "JDK8 升级到 JDK17 怎么搞",
-        "link": "https://www.v2ex.com/t/872499",
         "date": "2022-08-12"
       }
     ]
@@ -10352,8 +10357,8 @@
         "date": "2022-08-12"
       },
       {
-        "title": "[推荐] Java 大后端各种架构图汇总（建议收藏！！）",
-        "link": "https://toutiao.io/k/dvo6z1w",
+        "title": "[推荐] 京东面试：MQ 消息丢失、重复、积压问题，如何解决？",
+        "link": "https://toutiao.io/k/1unx53z",
         "date": "2022-08-12"
       },
       {
@@ -10362,8 +10367,8 @@
         "date": "2022-08-12"
       },
       {
-        "title": "[推荐] 京东面试：MQ 消息丢失、重复、积压问题，如何解决？",
-        "link": "https://toutiao.io/k/1unx53z",
+        "title": "[推荐] Java 大后端各种架构图汇总（建议收藏！！）",
+        "link": "https://toutiao.io/k/dvo6z1w",
         "date": "2022-08-12"
       },
       {

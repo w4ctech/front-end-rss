@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-08-12 16:23:30。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-08-12 17:03:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,8 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-08-12-Ubuntu-22.04.1-发布了，给-WSL2-升级一下](https://www.v2ex.com/t/872549) 
+- [2022-08-12-为什么我感觉-mac-浅色主题比深色主题流畅？](https://www.v2ex.com/t/872548) 
 - [2022-08-12-Android-12-准备好了，如何虚拟机运行-Windows-11？](https://www.v2ex.com/t/872547) 
 - [2022-08-12-让手绘动漫人设图动起来，一个开源-AI-项目](https://www.v2ex.com/t/872545) 
 - [2022-08-12-后车在单向单车越黄线超车后急刹车....我的电动车撞了上去追尾了。](https://www.v2ex.com/t/872544) 
@@ -1943,7 +1945,6 @@
 - [2022-08-12-请教-V-友们一些关于-devops-的问题](https://www.v2ex.com/t/872505) 
 - [2022-08-12-记录第一次痛快的配机的流程](https://www.v2ex.com/t/872504) 
 - [2022-08-12-坚果云的-macos-客户端有-bug](https://www.v2ex.com/t/872503) 
-- [2022-08-12-JDK8-升级到-JDK17-怎么搞](https://www.v2ex.com/t/872499) 
 - [2022-08-12-像用户一样测试：不妨犯傻-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15282&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftest-like-user-2%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-08-12-BFF避坑指南-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15281&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fbackends-for-frontends%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-08-12-40年前的操作系统复活了，当年Linux、Windows都借鉴过！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15280&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494410%26amp%3Bidx%3D1%26amp%3Bsn%3D6573f0c124bcd2e20c39c33d3e516526%26amp%3Bchksm%3Dfa3f0a51cd4883479817eb189805d7dfe98436addb3e47a267f25bc3cdefefbb56aeab56e7b4%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-12 03:18:38，:rocket: 更新条数: +2021， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-12 04:08:51，:rocket: 更新条数: +2021， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,16 @@
 </summary>
 
 
+- [2022-08-12-Clicknium-自动操作网页和应用](https://www.v2ex.com/t/872403) ![](assets/new.png)  
+- [2022-08-12-请问有查询移动联通充值卡状态的程序吗？](https://www.v2ex.com/t/872401) ![](assets/new.png)  
+- [2022-08-12-关于-Go-在-`Return-Nil-or-Pointer-to-Empty-Struct-on-Error`-上的讨论？](https://www.v2ex.com/t/872400) ![](assets/new.png)  
+- [2022-08-12-公司用-git。我在业余时间写-git-使用教程和心得，是否侵犯公司权益？](https://www.v2ex.com/t/872399) ![](assets/new.png)  
+- [2022-08-12-winui3-能实现窗口置顶的功能吗](https://www.v2ex.com/t/872398) ![](assets/new.png)  
+- [2022-08-12-上海-医药独角兽迅猛上升中-欢迎-Python-搜索推荐大牛来投](https://www.v2ex.com/t/872396) ![](assets/new.png)  
+- [2022-08-12-周末九溪车辆预约都约满了，咋整](https://www.v2ex.com/t/872395) ![](assets/new.png)  
+- [2022-08-12-为什么小米要自己发明-USB-接口啊？](https://www.v2ex.com/t/872394) ![](assets/new.png)  
+- [2022-08-12-iPhone-13-pro-户外随便划划屏幕都发烫吗?](https://www.v2ex.com/t/872393) ![](assets/new.png)  
+- [2022-08-12-这种算诈骗短信么](https://www.v2ex.com/t/872392) ![](assets/new.png)  
 - [2022-08-12-Python-每日一练：等分字符串](https://www.v2ex.com/t/872391) ![](assets/new.png)  
 - [2022-08-12-有没有从事-tiktok-海外营销行业的？进来聊两句](https://www.v2ex.com/t/872390) ![](assets/new.png)  
 - [2022-08-12-大家如何看待小米的研发能力？](https://www.v2ex.com/t/872389) ![](assets/new.png)  
@@ -501,16 +511,6 @@
 - [2022-08-12-求推荐个好点的信用卡](https://www.v2ex.com/t/872383) ![](assets/new.png)  
 - [2022-08-12-有没有现成的团队-账户管理机制](https://www.v2ex.com/t/872382) ![](assets/new.png)  
 - [2022-08-12-请问各位-V-友如何屏蔽虚拟号段的垃圾短信骚扰](https://www.v2ex.com/t/872381) ![](assets/new.png)  
-- [2022-08-12-求教下有哪个-CI/CD-工具能完全替代-Jenkins-的，求推荐](https://www.v2ex.com/t/872380) ![](assets/new.png)  
-- [2022-08-12-为什么喝过咖啡之后反而更疲惫了](https://www.v2ex.com/t/872379) ![](assets/new.png)  
-- [2022-08-12-阿里云万网域名转到什么托管平台推荐？](https://www.v2ex.com/t/872376) ![](assets/new.png)  
-- [2022-08-12-坐标广州。问，如何买到便宜机票？](https://www.v2ex.com/t/872375) ![](assets/new.png)  
-- [2022-08-12-2022-年秋季发布会，苹果会有-MacBookPro-M2-版本发布么](https://www.v2ex.com/t/872374) ![](assets/new.png)  
-- [2022-08-12-经常碰到在谷歌浏览器控制台打印有数据，但是复制出了没有数据为什么？](https://www.v2ex.com/t/872371) ![](assets/new.png)  
-- [2022-08-12-体验了一下基于-EcoQoS-的-EnergyStar,续航几乎没有变化](https://www.v2ex.com/t/872370) ![](assets/new.png)  
-- [2022-08-12-找一个很火的标签搜索引擎](https://www.v2ex.com/t/872369) ![](assets/new.png)  
-- [2022-08-12-求问哪个天气预报-app-准](https://www.v2ex.com/t/872368) ![](assets/new.png)  
-- [2022-08-12-捣鼓外贸电视盒子-h96-max-x3](https://www.v2ex.com/t/872364) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -553,10 +553,10 @@
 </summary>
 
 
-- [2022-08-12-也聊一聊服务稳定性建设](https://toutiao.io/k/ccmz6bl) ![](assets/new.png)  
 - [2022-08-12-掌握这些-SpringBoot-启动扩展点，已经超过-90%-的人了](https://toutiao.io/k/3m8iq2m) ![](assets/new.png)  
-- [2022-08-12-来自Redis的官方吐槽：13年来，总有人想替Redis换套新架构](https://toutiao.io/k/k4h5oz7) ![](assets/new.png)  
+- [2022-08-12-也聊一聊服务稳定性建设](https://toutiao.io/k/ccmz6bl) ![](assets/new.png)  
 - [2022-08-12-美团搜索粗排优化的探索与实践](https://toutiao.io/k/6idq555) ![](assets/new.png)  
+- [2022-08-12-来自Redis的官方吐槽：13年来，总有人想替Redis换套新架构](https://toutiao.io/k/k4h5oz7) ![](assets/new.png)  
 - [2022-08-12-MyBatis多条件查询、动态SQL、多表操作、注解开发详细教程](https://toutiao.io/k/2tr5vt2) ![](assets/new.png)  
 - [2022-08-12-详解最大似然估计、最大后验概率估计及贝叶斯公式](https://toutiao.io/k/onz9vvd) ![](assets/new.png)  
 - [2022-08-12-开源项目丨一文详解一站式大数据平台运维管家ChengYing如何部署Hadoop集群](https://toutiao.io/k/r045g8g) ![](assets/new.png)  
@@ -564,14 +564,14 @@
 - [2022-08-12-为什么我推荐使用智能化async？](https://toutiao.io/k/ok4p6ea) ![](assets/new.png)  
 - [2022-08-12-原创-Go/Rust/Kotlin-的协程和队列性能评测](https://toutiao.io/k/2a40ym8) ![](assets/new.png)  
 - [2022-08-12-博文推荐-|-详解-Kafka-on-Pulsar-原理设计与技术进展](https://toutiao.io/k/y0aip71) ![](assets/new.png)  
-- [2022-08-12-了解-HTTP-看这一篇就够](https://toutiao.io/k/aqx4hy6) ![](assets/new.png)  
 - [2022-08-12-每天杂事一大堆，你应付的过来吗？](https://toutiao.io/k/cdxki4i) ![](assets/new.png)  
 - [2022-08-12-针对思科被黑客攻击事件的简单分析](https://toutiao.io/k/3zj4icp) ![](assets/new.png)  
+- [2022-08-12-了解-HTTP-看这一篇就够](https://toutiao.io/k/aqx4hy6) ![](assets/new.png)  
 - [2022-08-12-图文并茂：JVM内存布局详解](https://toutiao.io/k/zl7tj4l) ![](assets/new.png)  
-- [2022-08-12-推荐-阿里云官方-Redis-开发规范！](https://toutiao.io/k/2fqcbfi) ![](assets/new.png)  
-- [2022-08-12-推荐-研发过程中的文档管理与工具](https://toutiao.io/k/mdiqwn5) ![](assets/new.png)  
-- [2022-08-12-推荐-Java-大后端各种架构图汇总（建议收藏！！）](https://toutiao.io/k/dvo6z1w) ![](assets/new.png)  
 - [2022-08-12-推荐-【大厂面试真题解析】虾皮-Shopee-后端一面十四问](https://toutiao.io/k/pol71im) ![](assets/new.png)  
+- [2022-08-12-推荐-Java-大后端各种架构图汇总（建议收藏！！）](https://toutiao.io/k/dvo6z1w) ![](assets/new.png)  
+- [2022-08-12-推荐-研发过程中的文档管理与工具](https://toutiao.io/k/mdiqwn5) ![](assets/new.png)  
+- [2022-08-12-推荐-阿里云官方-Redis-开发规范！](https://toutiao.io/k/2fqcbfi) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

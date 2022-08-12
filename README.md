@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-12 19:12:07，:rocket: 更新条数: +2029， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-12 19:37:03，:rocket: 更新条数: +2030， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-08-12-收了一个-PS4，快乐却在逐步下降](https://www.v2ex.com/t/872552) ![](assets/new.png)  
 - [2022-08-12-后端开发求推荐一款价格一万以下的笔记本](https://www.v2ex.com/t/872551) ![](assets/new.png)  
 - [2022-08-12-我下载了全部-iCloud-和-Google-Photos-照片，如何去重合并，并保留最高画质](https://www.v2ex.com/t/872550) ![](assets/new.png)  
 - [2022-08-12-Ubuntu-22.04.1-发布了，给-WSL2-升级一下](https://www.v2ex.com/t/872549) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-08-12-有没有生物医药行业的大佬谈一下国产新冠口服药？](https://www.v2ex.com/t/872532) ![](assets/new.png)  
 - [2022-08-12-分享-Rime-Squirrel-鼠须管输入法一个非常好用的第三方配置](https://www.v2ex.com/t/872531) ![](assets/new.png)  
 - [2022-08-12-如何确定一个-app-是通过哪个-apple-id-下载的？](https://www.v2ex.com/t/872530) ![](assets/new.png)  
-- [2022-08-12-除了树莓派还有什么更强劲的-arm-小主机吗](https://www.v2ex.com/t/872529) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -572,7 +572,7 @@
 - [2022-08-12-携程小程序生态之Taro跨端解决方案](https://toutiao.io/k/5o14o6m) ![](assets/new.png)  
 - [2022-08-12-如何开启企业数字化转型？](https://toutiao.io/k/2ot640t) ![](assets/new.png)  
 - [2022-08-12-独立开发变现周刊（第67期）：一个年收入42万美元的业务，将播客转化为文章](https://toutiao.io/k/v9m81ck) ![](assets/new.png)  
-- [2022-08-12-推荐-Java-大后端各种架构图汇总（建议收藏！！）](https://toutiao.io/k/dvo6z1w) ![](assets/new.png)  
+- [2022-08-12-推荐-研发过程中的文档管理与工具](https://toutiao.io/k/mdiqwn5) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

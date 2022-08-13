@@ -9953,6 +9953,16 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "brave browser",
+        "link": "https://www.v2ex.com/t/872670",
+        "date": "2022-08-13"
+      },
+      {
+        "title": "求一个 AvGv PT 的💊",
+        "link": "https://www.v2ex.com/t/872669",
+        "date": "2022-08-13"
+      },
+      {
         "title": "国行三星手机搜不到澳门版的固件？",
         "link": "https://www.v2ex.com/t/872668",
         "date": "2022-08-13"
@@ -10115,21 +10125,6 @@
       {
         "title": "late2013 建议升级 Catalina 吗？",
         "link": "https://www.v2ex.com/t/872622",
-        "date": "2022-08-13"
-      },
-      {
-        "title": "日本程序员薪资",
-        "link": "https://www.v2ex.com/t/872621",
-        "date": "2022-08-13"
-      },
-      {
-        "title": "基于 Kafka 的邮件流式处理工具。",
-        "link": "https://www.v2ex.com/t/872620",
-        "date": "2022-08-13"
-      },
-      {
-        "title": "求一个网易云音乐老版本的 Msixbundle 安装包",
-        "link": "https://www.v2ex.com/t/872619",
         "date": "2022-08-13"
       }
     ]
@@ -10302,13 +10297,13 @@
         "date": "2022-08-13"
       },
       {
-        "title": "[推荐] Java 大后端各种架构图汇总（建议收藏！！）",
-        "link": "https://toutiao.io/k/dvo6z1w",
+        "title": "[推荐] 【大厂面试真题解析】虾皮 Shopee 后端一面十四问",
+        "link": "https://toutiao.io/k/pol71im",
         "date": "2022-08-13"
       },
       {
-        "title": "[推荐] 【大厂面试真题解析】虾皮 Shopee 后端一面十四问",
-        "link": "https://toutiao.io/k/pol71im",
+        "title": "[推荐] 研发过程中的文档管理与工具",
+        "link": "https://toutiao.io/k/mdiqwn5",
         "date": "2022-08-13"
       },
       {
@@ -10317,13 +10312,13 @@
         "date": "2022-08-13"
       },
       {
-        "title": "[推荐] 【设计模式】10分钟学懂UML类图",
-        "link": "https://toutiao.io/k/wg4oeyc",
+        "title": "[推荐] Java 大后端各种架构图汇总（建议收藏！！）",
+        "link": "https://toutiao.io/k/dvo6z1w",
         "date": "2022-08-13"
       },
       {
-        "title": "[推荐] 研发过程中的文档管理与工具",
-        "link": "https://toutiao.io/k/mdiqwn5",
+        "title": "[推荐] 【设计模式】10分钟学懂UML类图",
+        "link": "https://toutiao.io/k/wg4oeyc",
         "date": "2022-08-13"
       }
     ]

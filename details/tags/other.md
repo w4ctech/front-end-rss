@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-08-13 10:15:02。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-08-13 10:41:58。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,7 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-08-13-突然发现-elib.cc-挂了，除了-z-library-还有什么高质量的计算机类书籍-epub-下载网站呢？](https://www.v2ex.com/t/872651) 
 - [2022-08-13-自荐开源两年多的-WordPress-高颜值主题](https://www.v2ex.com/t/872648) 
 - [2022-08-13-车子刮蹭老是心疼咋办](https://www.v2ex.com/t/872645) 
 - [2022-08-13-京东-Plus-会员-10-京豆即可兑换守望先锋典藏版](https://www.v2ex.com/t/872643) 
@@ -1938,9 +1939,6 @@
 - [2022-08-13-推荐<<贫穷的本质>>](https://www.v2ex.com/t/872610) 
 - [2022-08-13-服了，都发布多长时间了，还存在睡眠无法唤醒的-BUG……](https://www.v2ex.com/t/872609) 
 - [2022-08-13-坐标广州，对公积金一窍不通，求指教](https://www.v2ex.com/t/872607) 
-- [2022-08-13-黑群晖，多网口问题请教](https://www.v2ex.com/t/872604) 
-- [2022-08-13-国内访问香港阿里云-ECS-的问题](https://www.v2ex.com/t/872603) 
-- [2022-08-13-apple-watch-无法开机，准备送修，如何冻结里面的支付宝付款码](https://www.v2ex.com/t/872600) 
 - [2022-08-13-像用户一样测试：不妨犯傻-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15282&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftest-like-user-2%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-08-13-BFF避坑指南-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15281&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fbackends-for-frontends%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-08-13-40年前的操作系统复活了，当年Linux、Windows都借鉴过！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15280&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494410%26amp%3Bidx%3D1%26amp%3Bsn%3D6573f0c124bcd2e20c39c33d3e516526%26amp%3Bchksm%3Dfa3f0a51cd4883479817eb189805d7dfe98436addb3e47a267f25bc3cdefefbb56aeab56e7b4%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

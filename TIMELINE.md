@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-08-13 07:14:09。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-08-13 07:41:22。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,10 @@
 </summary>
 
 
+- [【V2EX】2022-08-13-日本程序员薪资](https://www.v2ex.com/t/872621) 
+- [【V2EX】2022-08-13-基于-Kafka-的邮件流式处理工具。](https://www.v2ex.com/t/872620) 
+- [【V2EX】2022-08-13-求一个网易云音乐老版本的-Msixbundle-安装包](https://www.v2ex.com/t/872619) 
+- [【V2EX】2022-08-13-来个日本大哥帮我把-lol-日服的号激活下](https://www.v2ex.com/t/872618) 
 - [【V2EX】2022-08-13-System.css](https://www.v2ex.com/t/872617) 
 - [【V2EX】2022-08-13-接口类型-命名修改的代价](https://www.v2ex.com/t/872616) 
 - [【V2EX】2022-08-13-真的深入了解开源项目是动手实现--《Spark-Core-精简版》](https://www.v2ex.com/t/872615) 
@@ -101,9 +105,6 @@
 - [【V2EX】2022-08-13-请教如何实现跳过-update-文件夹里的-a.-PHP-,其余的文件夹及文件全部删除](https://www.v2ex.com/t/872574) 
 - [【V2EX】2022-08-13-git-的-stash-用的多吗?拿来干嘛呢?](https://www.v2ex.com/t/872573) 
 - [【V2EX】2022-08-13-朋友想买房结婚，广州的老铁麻烦给点建议](https://www.v2ex.com/t/872572) 
-- [【V2EX】2022-08-13-vscode-的邮件插件](https://www.v2ex.com/t/872571) 
-- [【V2EX】2022-08-13-3060-的笔记本有推荐吗？](https://www.v2ex.com/t/872570) 
-- [【V2EX】2022-08-13-windows-11-的蓝屏死机概率是不是大幅提高了？](https://www.v2ex.com/t/872569) 
 - [【技术头条】2022-08-13-像用户一样测试：不妨犯傻-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15282&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftest-like-user-2%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-08-13-BFF避坑指南-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15281&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fbackends-for-frontends%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-08-13-40年前的操作系统复活了，当年Linux、Windows都借鉴过！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15280&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494410%26amp%3Bidx%3D1%26amp%3Bsn%3D6573f0c124bcd2e20c39c33d3e516526%26amp%3Bchksm%3Dfa3f0a51cd4883479817eb189805d7dfe98436addb3e47a267f25bc3cdefefbb56aeab56e7b4%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -128,17 +129,17 @@
 - [【开发者头条】2022-08-13-Redis-突然变慢了如何排查并解决？](https://toutiao.io/k/4ihru9o) 
 - [【开发者头条】2022-08-13-接口请求合并的3种技巧，性能直接爆表！](https://toutiao.io/k/p8wu6fu) 
 - [【开发者头条】2022-08-13-腾讯软件工程师是怎样写设计文档的？](https://toutiao.io/k/nvkablz) 
-- [【开发者头条】2022-08-13-Carbon-会扼杀-Go-的势头吗？](https://toutiao.io/k/avx2p31) 
 - [【开发者头条】2022-08-13-高性能异步编排框架-Gobrs-Async-1.0.3-SNAPSHOT-版本更新](https://toutiao.io/k/p1eq7ad) 
+- [【开发者头条】2022-08-13-Carbon-会扼杀-Go-的势头吗？](https://toutiao.io/k/avx2p31) 
 - [【开发者头条】2022-08-13-前端新宠-Svelte-带来哪些新思想？赶紧学起来！](https://toutiao.io/k/3k78jkz) 
 - [【开发者头条】2022-08-13-SeaTunnel-2.1.3-发布！新增-Assert-Sink-连接器和-NullRate、Nulltf-Transform](https://toutiao.io/k/q6ogqrk) 
 - [【开发者头条】2022-08-13-在线转换报文格式，支持json、xml互转，json转sql等！](https://toutiao.io/k/npr7kno) 
 - [【开发者头条】2022-08-13-【第2700期】动画合成小技巧！CSS-实现动感的倒计时效果](https://toutiao.io/k/ftxfmfv) 
 - [【开发者头条】2022-08-13-SDN系统方法-|-9.-接入网](https://toutiao.io/k/gz5odfi) 
-- [【开发者头条】2022-08-13-推荐-京东面试：MQ-消息丢失、重复、积压问题，如何解决？](https://toutiao.io/k/1unx53z) 
-- [【开发者头条】2022-08-13-推荐-【大厂面试真题解析】虾皮-Shopee-后端一面十四问](https://toutiao.io/k/pol71im) 
-- [【开发者头条】2022-08-13-推荐-研发过程中的文档管理与工具](https://toutiao.io/k/mdiqwn5) 
 - [【开发者头条】2022-08-13-推荐-Java-大后端各种架构图汇总（建议收藏！！）](https://toutiao.io/k/dvo6z1w) 
+- [【开发者头条】2022-08-13-推荐-京东面试：MQ-消息丢失、重复、积压问题，如何解决？](https://toutiao.io/k/1unx53z) 
+- [【开发者头条】2022-08-13-推荐-研发过程中的文档管理与工具](https://toutiao.io/k/mdiqwn5) 
+- [【开发者头条】2022-08-13-推荐-【大厂面试真题解析】虾皮-Shopee-后端一面十四问](https://toutiao.io/k/pol71im) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

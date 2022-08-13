@@ -9953,6 +9953,26 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "日本程序员薪资",
+        "link": "https://www.v2ex.com/t/872621",
+        "date": "2022-08-13"
+      },
+      {
+        "title": "基于 Kafka 的邮件流式处理工具。",
+        "link": "https://www.v2ex.com/t/872620",
+        "date": "2022-08-13"
+      },
+      {
+        "title": "求一个网易云音乐老版本的 Msixbundle 安装包",
+        "link": "https://www.v2ex.com/t/872619",
+        "date": "2022-08-13"
+      },
+      {
+        "title": "来个日本大哥帮我把 lol 日服的号激活下",
+        "link": "https://www.v2ex.com/t/872618",
+        "date": "2022-08-13"
+      },
+      {
         "title": "System.css",
         "link": "https://www.v2ex.com/t/872617",
         "date": "2022-08-13"
@@ -10116,21 +10136,6 @@
         "title": "朋友想买房结婚，广州的老铁麻烦给点建议",
         "link": "https://www.v2ex.com/t/872572",
         "date": "2022-08-13"
-      },
-      {
-        "title": "vscode 的邮件插件",
-        "link": "https://www.v2ex.com/t/872571",
-        "date": "2022-08-13"
-      },
-      {
-        "title": "3060 的笔记本有推荐吗？",
-        "link": "https://www.v2ex.com/t/872570",
-        "date": "2022-08-13"
-      },
-      {
-        "title": "windows 11 的蓝屏死机概率是不是大幅提高了？",
-        "link": "https://www.v2ex.com/t/872569",
-        "date": "2022-08-13"
       }
     ]
   },
@@ -10267,13 +10272,13 @@
         "date": "2022-08-13"
       },
       {
-        "title": "Carbon 会扼杀 Go 的势头吗？",
-        "link": "https://toutiao.io/k/avx2p31",
+        "title": "高性能异步编排框架 Gobrs-Async 1.0.3-SNAPSHOT 版本更新",
+        "link": "https://toutiao.io/k/p1eq7ad",
         "date": "2022-08-13"
       },
       {
-        "title": "高性能异步编排框架 Gobrs-Async 1.0.3-SNAPSHOT 版本更新",
-        "link": "https://toutiao.io/k/p1eq7ad",
+        "title": "Carbon 会扼杀 Go 的势头吗？",
+        "link": "https://toutiao.io/k/avx2p31",
         "date": "2022-08-13"
       },
       {
@@ -10302,13 +10307,13 @@
         "date": "2022-08-13"
       },
       {
-        "title": "[推荐] 京东面试：MQ 消息丢失、重复、积压问题，如何解决？",
-        "link": "https://toutiao.io/k/1unx53z",
+        "title": "[推荐] Java 大后端各种架构图汇总（建议收藏！！）",
+        "link": "https://toutiao.io/k/dvo6z1w",
         "date": "2022-08-13"
       },
       {
-        "title": "[推荐] 【大厂面试真题解析】虾皮 Shopee 后端一面十四问",
-        "link": "https://toutiao.io/k/pol71im",
+        "title": "[推荐] 京东面试：MQ 消息丢失、重复、积压问题，如何解决？",
+        "link": "https://toutiao.io/k/1unx53z",
         "date": "2022-08-13"
       },
       {
@@ -10317,8 +10322,8 @@
         "date": "2022-08-13"
       },
       {
-        "title": "[推荐] Java 大后端各种架构图汇总（建议收藏！！）",
-        "link": "https://toutiao.io/k/dvo6z1w",
+        "title": "[推荐] 【大厂面试真题解析】虾皮 Shopee 后端一面十四问",
+        "link": "https://toutiao.io/k/pol71im",
         "date": "2022-08-13"
       }
     ]

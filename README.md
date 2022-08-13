@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-13 22:14:15，:rocket: 更新条数: +2015， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-13 22:40:18，:rocket: 更新条数: +2013， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -506,11 +506,11 @@
 - [2022-08-13-哪些云的文档写得好](https://www.v2ex.com/t/872686) ![](assets/new.png)  
 - [2022-08-13-大家面对-windows-经常弹的气泡-bug-怎么处理的呀](https://www.v2ex.com/t/872685) ![](assets/new.png)  
 - [2022-08-13-跪求-jypter-安装-thriftpy2-的-方法](https://www.v2ex.com/t/872683) ![](assets/new.png)  
-- [2022-08-13-3A-大作蜘蛛侠-PC-重制版被秒破，对销量有重创，为什么不加一个在线认证呢？](https://www.v2ex.com/t/872679) ![](assets/new.png)  
 - [2022-08-13-时隔-3-年了，-iPhone-自带输入法有长进吗](https://www.v2ex.com/t/872678) ![](assets/new.png)  
 - [2022-08-13-求昆明靠谱的外包推荐](https://www.v2ex.com/t/872676) ![](assets/new.png)  
 - [2022-08-13-哔哩哔哩主页新增了一个-“unpkg.com”](https://www.v2ex.com/t/872675) ![](assets/new.png)  
 - [2022-08-13-Mac-远程锁-SimpleLock](https://www.v2ex.com/t/872673) ![](assets/new.png)  
+- [2022-08-13-1password-自动填充密码时能否不用输入主密码？](https://www.v2ex.com/t/872672) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -566,9 +566,9 @@
 - [2022-08-13-SeaTunnel-2.1.3-发布！新增-Assert-Sink-连接器和-NullRate、Nulltf-Transform](https://toutiao.io/k/q6ogqrk) ![](assets/new.png)  
 - [2022-08-13-推荐-京东面试：MQ-消息丢失、重复、积压问题，如何解决？](https://toutiao.io/k/1unx53z) ![](assets/new.png)  
 - [2022-08-13-推荐-Java-大后端各种架构图汇总（建议收藏！！）](https://toutiao.io/k/dvo6z1w) ![](assets/new.png)  
-- [2022-08-13-推荐-【设计模式】10分钟学懂UML类图](https://toutiao.io/k/wg4oeyc) ![](assets/new.png)  
 - [2022-08-13-推荐-研发过程中的文档管理与工具](https://toutiao.io/k/mdiqwn5) ![](assets/new.png)  
 - [2022-08-13-推荐-【大厂面试真题解析】虾皮-Shopee-后端一面十四问](https://toutiao.io/k/pol71im) ![](assets/new.png)  
+- [2022-08-13-推荐-【设计模式】10分钟学懂UML类图](https://toutiao.io/k/wg4oeyc) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

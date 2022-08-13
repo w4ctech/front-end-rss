@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-08-13 22:14:15。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-08-13 22:40:18。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
@@ -20,13 +20,11 @@
 - [2022-08-13-哪些云的文档写得好](https://www.v2ex.com/t/872686) 
 - [2022-08-13-大家面对-windows-经常弹的气泡-bug-怎么处理的呀](https://www.v2ex.com/t/872685) 
 - [2022-08-13-跪求-jypter-安装-thriftpy2-的-方法](https://www.v2ex.com/t/872683) 
-- [2022-08-13-3A-大作蜘蛛侠-PC-重制版被秒破，对销量有重创，为什么不加一个在线认证呢？](https://www.v2ex.com/t/872679) 
 - [2022-08-13-时隔-3-年了，-iPhone-自带输入法有长进吗](https://www.v2ex.com/t/872678) 
 - [2022-08-13-求昆明靠谱的外包推荐](https://www.v2ex.com/t/872676) 
 - [2022-08-13-哔哩哔哩主页新增了一个-“unpkg.com”](https://www.v2ex.com/t/872675) 
 - [2022-08-13-Mac-远程锁-SimpleLock](https://www.v2ex.com/t/872673) 
 - [2022-08-13-1password-自动填充密码时能否不用输入主密码？](https://www.v2ex.com/t/872672) 
-- [2022-08-13-brave-browser](https://www.v2ex.com/t/872670) 
 - [2022-08-13-求一个-AvGv-PT-的💊](https://www.v2ex.com/t/872669) 
 - [2022-08-13-国行三星手机搜不到澳门版的固件？](https://www.v2ex.com/t/872668) 
 - [2022-08-13-关于随机时间产生算法](https://www.v2ex.com/t/872667) 

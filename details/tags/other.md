@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-08-13 18:15:47。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-08-13 18:45:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,7 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-08-13-半夜睡不着，思来想去的](https://www.v2ex.com/t/872702) 
 - [2022-08-13-iPhone-收不到家庭共享购买前询问-Ask-to-Buy-通知](https://www.v2ex.com/t/872700) 
 - [2022-08-13-"腾讯云合作伙伴-深圳市时鱼科技有限公司-申请与您的账号进行关联"-有人知道是什么吗](https://www.v2ex.com/t/872699) 
 - [2022-08-13-帮忙推荐手机](https://www.v2ex.com/t/872696) 
@@ -1937,7 +1938,6 @@
 - [2022-08-13-笔记本厂商预装-Ubuntu-不需要付费吗？](https://www.v2ex.com/t/872658) 
 - [2022-08-13-LG-UltraFine-4K-显示屏可以转接雷电-2-接口的-MacBook-Pro-吗？](https://www.v2ex.com/t/872657) 
 - [2022-08-13-辣🐔索尼电视，刚过三年就坏了。](https://www.v2ex.com/t/872655) 
-- [2022-08-13-突然发现-elib.cc-挂了，除了-z-library-还有什么高质量的计算机类书籍-epub-下载网站呢？](https://www.v2ex.com/t/872651) 
 - [2022-08-13-像用户一样测试：不妨犯傻-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15282&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftest-like-user-2%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-08-13-BFF避坑指南-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15281&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fbackends-for-frontends%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-08-13-40年前的操作系统复活了，当年Linux、Windows都借鉴过！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15280&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494410%26amp%3Bidx%3D1%26amp%3Bsn%3D6573f0c124bcd2e20c39c33d3e516526%26amp%3Bchksm%3Dfa3f0a51cd4883479817eb189805d7dfe98436addb3e47a267f25bc3cdefefbb56aeab56e7b4%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1957,6 +1957,6 @@
 - [2022-08-13-前端新宠-Svelte-带来哪些新思想？赶紧学起来！](https://toutiao.io/k/3k78jkz) 
 - [2022-08-13-Carbon-会扼杀-Go-的势头吗？](https://toutiao.io/k/avx2p31) 
 - [2022-08-13-SDN系统方法-|-9.-接入网](https://toutiao.io/k/gz5odfi) 
-- [2022-08-13-推荐-【设计模式】10分钟学懂UML类图](https://toutiao.io/k/wg4oeyc) 
 - [2022-08-13-推荐-Java-大后端各种架构图汇总（建议收藏！！）](https://toutiao.io/k/dvo6z1w) 
+- [2022-08-13-推荐-【设计模式】10分钟学懂UML类图](https://toutiao.io/k/wg4oeyc) 
 - [2022-08-13-推荐-研发过程中的文档管理与工具](https://toutiao.io/k/mdiqwn5) 

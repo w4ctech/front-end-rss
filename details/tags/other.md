@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-08-13 08:45:17。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-08-13 09:13:59。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,8 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-08-13-App-Store-销售来源“机构购买”是什么](https://www.v2ex.com/t/872636) 
+- [2022-08-13-树莓派搭建以太坊全节点的成本是多少？](https://www.v2ex.com/t/872635) 
 - [2022-08-13---mount-方式挂载无法升级镜像](https://www.v2ex.com/t/872633) 
 - [2022-08-13-存在满足以下要求的博客程序吗](https://www.v2ex.com/t/872628) 
 - [2022-08-13-想请问学习日语有什么好的推荐和途径吗？](https://www.v2ex.com/t/872626) 
@@ -1934,8 +1936,6 @@
 - [2022-08-13-转租太阳宫，融中心附近一室一厅，-5400-可短租-2-个月，也可-6400-长租，长租需要-1-年半起](https://www.v2ex.com/t/872598) 
 - [2022-08-13-吐槽一下，还没开热乎的车被撞了，还逃逸了……](https://www.v2ex.com/t/872596) 
 - [2022-08-13-手机下载速度能达到-1800Mbps？](https://www.v2ex.com/t/872592) 
-- [2022-08-13-用-@gov.cn-发诈骗邮件是怎么做到的？](https://www.v2ex.com/t/872586) 
-- [2022-08-13-在改简历](https://www.v2ex.com/t/872585) 
 - [2022-08-13-像用户一样测试：不妨犯傻-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15282&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftest-like-user-2%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-08-13-BFF避坑指南-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15281&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fbackends-for-frontends%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-08-13-40年前的操作系统复活了，当年Linux、Windows都借鉴过！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15280&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494410%26amp%3Bidx%3D1%26amp%3Bsn%3D6573f0c124bcd2e20c39c33d3e516526%26amp%3Bchksm%3Dfa3f0a51cd4883479817eb189805d7dfe98436addb3e47a267f25bc3cdefefbb56aeab56e7b4%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

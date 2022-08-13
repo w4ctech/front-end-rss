@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-08-13 04:51:29。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-08-13 05:13:18。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,8 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-08-13-apple-watch-无法开机，准备送修，如何冻结里面的支付宝付款码](https://www.v2ex.com/t/872600) 
+- [2022-08-13-转租太阳宫，融中心附近一室一厅，-5400-可短租-2-个月，也可-6400-长租，长租需要-1-年半起](https://www.v2ex.com/t/872598) 
 - [2022-08-13-吐槽一下，还没开热乎的车被撞了，还逃逸了……](https://www.v2ex.com/t/872596) 
 - [2022-08-13-手机下载速度能达到-1800Mbps？](https://www.v2ex.com/t/872592) 
 - [2022-08-13-用-@gov.cn-发诈骗邮件是怎么做到的？](https://www.v2ex.com/t/872586) 
@@ -1940,10 +1942,6 @@
 - [2022-08-12-团建被公司同事恶心到了怎么办](https://www.v2ex.com/t/872553) 
 - [2022-08-12-收了一个-PS4，快乐却在逐步下降](https://www.v2ex.com/t/872552) 
 - [2022-08-12-后端开发求推荐一款价格一万以下的笔记本](https://www.v2ex.com/t/872551) 
-- [2022-08-12-我下载了全部-iCloud-和-Google-Photos-照片，如何去重合并，并保留最高画质](https://www.v2ex.com/t/872550) 
-- [2022-08-12-Ubuntu-22.04.1-发布了，给-WSL2-升级一下](https://www.v2ex.com/t/872549) 
-- [2022-08-12-为什么我感觉-mac-浅色主题比深色主题流畅？](https://www.v2ex.com/t/872548) 
-- [2022-08-12-Android-12-准备好了，如何虚拟机运行-Windows-11？](https://www.v2ex.com/t/872547) 
 - [2022-08-13-像用户一样测试：不妨犯傻-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15282&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftest-like-user-2%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-08-13-BFF避坑指南-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15281&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fbackends-for-frontends%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-08-13-40年前的操作系统复活了，当年Linux、Windows都借鉴过！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15280&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494410%26amp%3Bidx%3D1%26amp%3Bsn%3D6573f0c124bcd2e20c39c33d3e516526%26amp%3Bchksm%3Dfa3f0a51cd4883479817eb189805d7dfe98436addb3e47a267f25bc3cdefefbb56aeab56e7b4%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1960,7 +1958,7 @@
 - [2022-08-13-欢迎加入读者圈子，一起交流！](https://toutiao.io/k/mtrqmru) 
 - [2022-08-13-Redis-突然变慢了如何排查并解决？](https://toutiao.io/k/4ihru9o) 
 - [2022-08-13-Carbon-会扼杀-Go-的势头吗？](https://toutiao.io/k/avx2p31) 
-- [2022-08-13-前端新宠-Svelte-带来哪些新思想？赶紧学起来！](https://toutiao.io/k/3k78jkz) 
 - [2022-08-13-腾讯软件工程师是怎样写设计文档的？](https://toutiao.io/k/nvkablz) 
-- [2022-08-13-推荐-研发过程中的文档管理与工具](https://toutiao.io/k/mdiqwn5) 
+- [2022-08-13-前端新宠-Svelte-带来哪些新思想？赶紧学起来！](https://toutiao.io/k/3k78jkz) 
 - [2022-08-13-推荐-Java-大后端各种架构图汇总（建议收藏！！）](https://toutiao.io/k/dvo6z1w) 
+- [2022-08-13-推荐-研发过程中的文档管理与工具](https://toutiao.io/k/mdiqwn5) 

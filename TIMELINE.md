@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-08-13 04:51:29。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-08-13 05:13:18。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,8 @@
 </summary>
 
 
+- [【V2EX】2022-08-13-apple-watch-无法开机，准备送修，如何冻结里面的支付宝付款码](https://www.v2ex.com/t/872600) 
+- [【V2EX】2022-08-13-转租太阳宫，融中心附近一室一厅，-5400-可短租-2-个月，也可-6400-长租，长租需要-1-年半起](https://www.v2ex.com/t/872598) 
 - [【V2EX】2022-08-13-吐槽一下，还没开热乎的车被撞了，还逃逸了……](https://www.v2ex.com/t/872596) 
 - [【V2EX】2022-08-13-safari-networking-占用大量-cpu-和内存](https://www.v2ex.com/t/872595) 
 - [【V2EX】2022-08-13-手机下载速度能达到-1800Mbps？](https://www.v2ex.com/t/872592) 
@@ -103,10 +105,6 @@
 - [【V2EX】2022-08-12-团建被公司同事恶心到了怎么办](https://www.v2ex.com/t/872553) 
 - [【V2EX】2022-08-12-收了一个-PS4，快乐却在逐步下降](https://www.v2ex.com/t/872552) 
 - [【V2EX】2022-08-12-后端开发求推荐一款价格一万以下的笔记本](https://www.v2ex.com/t/872551) 
-- [【V2EX】2022-08-12-我下载了全部-iCloud-和-Google-Photos-照片，如何去重合并，并保留最高画质](https://www.v2ex.com/t/872550) 
-- [【V2EX】2022-08-12-Ubuntu-22.04.1-发布了，给-WSL2-升级一下](https://www.v2ex.com/t/872549) 
-- [【V2EX】2022-08-12-为什么我感觉-mac-浅色主题比深色主题流畅？](https://www.v2ex.com/t/872548) 
-- [【V2EX】2022-08-12-Android-12-准备好了，如何虚拟机运行-Windows-11？](https://www.v2ex.com/t/872547) 
 - [【技术头条】2022-08-13-像用户一样测试：不妨犯傻-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15282&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftest-like-user-2%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-08-13-BFF避坑指南-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15281&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fbackends-for-frontends%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-08-13-40年前的操作系统复活了，当年Linux、Windows都借鉴过！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15280&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494410%26amp%3Bidx%3D1%26amp%3Bsn%3D6573f0c124bcd2e20c39c33d3e516526%26amp%3Bchksm%3Dfa3f0a51cd4883479817eb189805d7dfe98436addb3e47a267f25bc3cdefefbb56aeab56e7b4%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -132,14 +130,14 @@
 - [【开发者头条】2022-08-13-接口请求合并的3种技巧，性能直接爆表！](https://toutiao.io/k/p8wu6fu) 
 - [【开发者头条】2022-08-13-Carbon-会扼杀-Go-的势头吗？](https://toutiao.io/k/avx2p31) 
 - [【开发者头条】2022-08-13-高性能异步编排框架-Gobrs-Async-1.0.3-SNAPSHOT-版本更新](https://toutiao.io/k/p1eq7ad) 
-- [【开发者头条】2022-08-13-前端新宠-Svelte-带来哪些新思想？赶紧学起来！](https://toutiao.io/k/3k78jkz) 
 - [【开发者头条】2022-08-13-腾讯软件工程师是怎样写设计文档的？](https://toutiao.io/k/nvkablz) 
+- [【开发者头条】2022-08-13-前端新宠-Svelte-带来哪些新思想？赶紧学起来！](https://toutiao.io/k/3k78jkz) 
 - [【开发者头条】2022-08-13-SeaTunnel-2.1.3-发布！新增-Assert-Sink-连接器和-NullRate、Nulltf-Transform](https://toutiao.io/k/q6ogqrk) 
 - [【开发者头条】2022-08-13-在线转换报文格式，支持json、xml互转，json转sql等！](https://toutiao.io/k/npr7kno) 
-- [【开发者头条】2022-08-13-推荐-【大厂面试真题解析】虾皮-Shopee-后端一面十四问](https://toutiao.io/k/pol71im) 
-- [【开发者头条】2022-08-13-推荐-京东面试：MQ-消息丢失、重复、积压问题，如何解决？](https://toutiao.io/k/1unx53z) 
-- [【开发者头条】2022-08-13-推荐-研发过程中的文档管理与工具](https://toutiao.io/k/mdiqwn5) 
 - [【开发者头条】2022-08-13-推荐-Java-大后端各种架构图汇总（建议收藏！！）](https://toutiao.io/k/dvo6z1w) 
+- [【开发者头条】2022-08-13-推荐-京东面试：MQ-消息丢失、重复、积压问题，如何解决？](https://toutiao.io/k/1unx53z) 
+- [【开发者头条】2022-08-13-推荐-【大厂面试真题解析】虾皮-Shopee-后端一面十四问](https://toutiao.io/k/pol71im) 
+- [【开发者头条】2022-08-13-推荐-研发过程中的文档管理与工具](https://toutiao.io/k/mdiqwn5) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

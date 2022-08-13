@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-08-13 11:37:41。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-08-13 12:22:30。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -17,6 +17,7 @@
 - [2022-06-11-介绍一种CSS变量未定义语法也OK的小妙招](https://www.zhangxinxu.com/wordpress/2022/06/css-var-optional-empty-trick/) 
 - [2022-05-29-如何实现页面刷新后不定位到之前的滚动位置？](https://www.zhangxinxu.com/wordpress/2022/05/history-scrollrestoration/) 
 - [2022-05-11-JS与条形码的生成](https://www.zhangxinxu.com/wordpress/2022/05/js-barcode/) 
+- [2022-08-13-为什么这样写无法连接join数组各项？](https://www.v2ex.com/t/872660) 
 - [2022-08-13-关于-Async-DRF](https://www.v2ex.com/t/872646) 
 - [2022-08-13-关于家用路由器的一个奇怪的-bug，不知道怎么排查](https://www.v2ex.com/t/872642) 
 - [2022-08-13-路由器-DNS-服务器指向-192.168.0.1-和-0.0.0.0，无法上网，求解决](https://www.v2ex.com/t/872627) 

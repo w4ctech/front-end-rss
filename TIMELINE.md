@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-08-13 05:38:12。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-08-13 06:17:16。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,13 @@
 </summary>
 
 
+- [【V2EX】2022-08-13-提前退租，房东不退未到期押金，同意转租但需要加房租且需要签一年半，只能上诉了吗](https://www.v2ex.com/t/872611) 
+- [【V2EX】2022-08-13-推荐<<贫穷的本质>>](https://www.v2ex.com/t/872610) 
+- [【V2EX】2022-08-13-服了，都发布多长时间了，还存在睡眠无法唤醒的-BUG……](https://www.v2ex.com/t/872609) 
+- [【V2EX】2022-08-13-Chrome-太影响续航，-Safari-部分场景又满足不了需求](https://www.v2ex.com/t/872608) 
+- [【V2EX】2022-08-13-坐标广州，对公积金一窍不通，求指教](https://www.v2ex.com/t/872607) 
+- [【V2EX】2022-08-13-黑群晖，多网口问题请教](https://www.v2ex.com/t/872604) 
+- [【V2EX】2022-08-13-国内访问香港阿里云-ECS-的问题](https://www.v2ex.com/t/872603) 
 - [【V2EX】2022-08-13-Qt-和-React-Native-都是跨平台-UI-框架，为什么前者能跨语言用还叫-Native-开发，后者只能用-TypeScript-却不叫？](https://www.v2ex.com/t/872601) 
 - [【V2EX】2022-08-13-apple-watch-无法开机，准备送修，如何冻结里面的支付宝付款码](https://www.v2ex.com/t/872600) 
 - [【V2EX】2022-08-13-转租太阳宫，融中心附近一室一厅，-5400-可短租-2-个月，也可-6400-长租，长租需要-1-年半起](https://www.v2ex.com/t/872598) 
@@ -96,14 +103,6 @@
 - [【V2EX】2022-08-13-想开发一个-windows-平台对标-Dash-的应用，用什么技术栈效率高](https://www.v2ex.com/t/872565) 
 - [【V2EX】2022-08-13-SQL-SERVER-同步到-MYSQL-有没有大佬指条明路](https://www.v2ex.com/t/872564) 
 - [【V2EX】2022-08-13-夕夕百亿补贴买了-35w-双-c-口充电头的怪象](https://www.v2ex.com/t/872563) 
-- [【V2EX】2022-08-13-求助，-M1-macbookair-怪现象，只能重启解决，怎么回事](https://www.v2ex.com/t/872562) 
-- [【V2EX】2022-08-13-为啥阿里系的软件总是频繁跳出滑动验证？有办法避免吗？](https://www.v2ex.com/t/872561) 
-- [【V2EX】2022-08-13-redmi-pro-14-2022-+-win11-home-+-docker-开发如何？](https://www.v2ex.com/t/872558) 
-- [【V2EX】2022-08-13-家境困难，因父亲交通事故有笔赔偿款，买多少钱房子比较合适？](https://www.v2ex.com/t/872557) 
-- [【V2EX】2022-08-13-如何把浏览器的网络共享给应用？](https://www.v2ex.com/t/872556) 
-- [【V2EX】2022-08-12-天花板裂纹](https://www.v2ex.com/t/872555) 
-- [【V2EX】2022-08-12-想咨询一下国外的-Java-开发技术栈都有哪些😁](https://www.v2ex.com/t/872554) 
-- [【V2EX】2022-08-12-团建被公司同事恶心到了怎么办](https://www.v2ex.com/t/872553) 
 - [【技术头条】2022-08-13-像用户一样测试：不妨犯傻-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15282&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftest-like-user-2%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-08-13-BFF避坑指南-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15281&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fbackends-for-frontends%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-08-13-40年前的操作系统复活了，当年Linux、Windows都借鉴过！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15280&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494410%26amp%3Bidx%3D1%26amp%3Bsn%3D6573f0c124bcd2e20c39c33d3e516526%26amp%3Bchksm%3Dfa3f0a51cd4883479817eb189805d7dfe98436addb3e47a267f25bc3cdefefbb56aeab56e7b4%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -127,16 +126,18 @@
 - [【开发者头条】2022-08-13-欢迎加入读者圈子，一起交流！](https://toutiao.io/k/mtrqmru) 
 - [【开发者头条】2022-08-13-Redis-突然变慢了如何排查并解决？](https://toutiao.io/k/4ihru9o) 
 - [【开发者头条】2022-08-13-接口请求合并的3种技巧，性能直接爆表！](https://toutiao.io/k/p8wu6fu) 
-- [【开发者头条】2022-08-13-Carbon-会扼杀-Go-的势头吗？](https://toutiao.io/k/avx2p31) 
 - [【开发者头条】2022-08-13-腾讯软件工程师是怎样写设计文档的？](https://toutiao.io/k/nvkablz) 
+- [【开发者头条】2022-08-13-Carbon-会扼杀-Go-的势头吗？](https://toutiao.io/k/avx2p31) 
 - [【开发者头条】2022-08-13-高性能异步编排框架-Gobrs-Async-1.0.3-SNAPSHOT-版本更新](https://toutiao.io/k/p1eq7ad) 
 - [【开发者头条】2022-08-13-前端新宠-Svelte-带来哪些新思想？赶紧学起来！](https://toutiao.io/k/3k78jkz) 
 - [【开发者头条】2022-08-13-SeaTunnel-2.1.3-发布！新增-Assert-Sink-连接器和-NullRate、Nulltf-Transform](https://toutiao.io/k/q6ogqrk) 
 - [【开发者头条】2022-08-13-在线转换报文格式，支持json、xml互转，json转sql等！](https://toutiao.io/k/npr7kno) 
-- [【开发者头条】2022-08-13-推荐-【大厂面试真题解析】虾皮-Shopee-后端一面十四问](https://toutiao.io/k/pol71im) 
+- [【开发者头条】2022-08-13-SDN系统方法-|-9.-接入网](https://toutiao.io/k/gz5odfi) 
+- [【开发者头条】2022-08-13-【第2700期】动画合成小技巧！CSS-实现动感的倒计时效果](https://toutiao.io/k/ftxfmfv) 
+- [【开发者头条】2022-08-13-推荐-研发过程中的文档管理与工具](https://toutiao.io/k/mdiqwn5) 
 - [【开发者头条】2022-08-13-推荐-Java-大后端各种架构图汇总（建议收藏！！）](https://toutiao.io/k/dvo6z1w) 
 - [【开发者头条】2022-08-13-推荐-京东面试：MQ-消息丢失、重复、积压问题，如何解决？](https://toutiao.io/k/1unx53z) 
-- [【开发者头条】2022-08-13-推荐-研发过程中的文档管理与工具](https://toutiao.io/k/mdiqwn5) 
+- [【开发者头条】2022-08-13-推荐-【大厂面试真题解析】虾皮-Shopee-后端一面十四问](https://toutiao.io/k/pol71im) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

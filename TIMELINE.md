@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-08-13 07:41:22。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-08-13 08:17:58。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,11 @@
 </summary>
 
 
+- [【V2EX】2022-08-13-存在满足以下要求的博客程序吗](https://www.v2ex.com/t/872628) 
+- [【V2EX】2022-08-13-路由器-DNS-服务器指向-192.168.0.1-和-0.0.0.0，无法上网，求解决](https://www.v2ex.com/t/872627) 
+- [【V2EX】2022-08-13-想请问学习日语有什么好的推荐和途径吗？](https://www.v2ex.com/t/872626) 
+- [【V2EX】2022-08-13-玩-ns-sports-的时候用-apple-watch-运动模式测量热量消耗准吗？](https://www.v2ex.com/t/872623) 
+- [【V2EX】2022-08-13-late2013-建议升级-Catalina-吗？](https://www.v2ex.com/t/872622) 
 - [【V2EX】2022-08-13-日本程序员薪资](https://www.v2ex.com/t/872621) 
 - [【V2EX】2022-08-13-基于-Kafka-的邮件流式处理工具。](https://www.v2ex.com/t/872620) 
 - [【V2EX】2022-08-13-求一个网易云音乐老版本的-Msixbundle-安装包](https://www.v2ex.com/t/872619) 
@@ -97,14 +102,6 @@
 - [【V2EX】2022-08-13-深圳这是怎么了？](https://www.v2ex.com/t/872583) 
 - [【V2EX】2022-08-13-最新的-iOS16-杀后台终于没那么严重了](https://www.v2ex.com/t/872581) 
 - [【V2EX】2022-08-13-要给-50-岁的爸爸买一台手机](https://www.v2ex.com/t/872580) 
-- [【V2EX】2022-08-13-是不是只要不是.net-开发者或开发工具必须用运行在-win-上的开发者都建议无脑上-macbook?](https://www.v2ex.com/t/872579) 
-- [【V2EX】2022-08-13-低代码平台似乎越来越成熟，前端程序员到底该往哪里深入学习才不会被替代，看完无远以及一些商城项目陷入迷茫了](https://www.v2ex.com/t/872578) 
-- [【V2EX】2022-08-13-用-16-寸的是怎么解决-C-面和肘部的接触面的问题的？](https://www.v2ex.com/t/872577) 
-- [【V2EX】2022-08-13-这种情况如何科学的润？](https://www.v2ex.com/t/872576) 
-- [【V2EX】2022-08-13-分享下-2-个月，减了-26-斤左右的经验](https://www.v2ex.com/t/872575) 
-- [【V2EX】2022-08-13-请教如何实现跳过-update-文件夹里的-a.-PHP-,其余的文件夹及文件全部删除](https://www.v2ex.com/t/872574) 
-- [【V2EX】2022-08-13-git-的-stash-用的多吗?拿来干嘛呢?](https://www.v2ex.com/t/872573) 
-- [【V2EX】2022-08-13-朋友想买房结婚，广州的老铁麻烦给点建议](https://www.v2ex.com/t/872572) 
 - [【技术头条】2022-08-13-像用户一样测试：不妨犯傻-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15282&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftest-like-user-2%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-08-13-BFF避坑指南-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15281&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fbackends-for-frontends%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-08-13-40年前的操作系统复活了，当年Linux、Windows都借鉴过！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15280&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494410%26amp%3Bidx%3D1%26amp%3Bsn%3D6573f0c124bcd2e20c39c33d3e516526%26amp%3Bchksm%3Dfa3f0a51cd4883479817eb189805d7dfe98436addb3e47a267f25bc3cdefefbb56aeab56e7b4%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -137,8 +134,8 @@
 - [【开发者头条】2022-08-13-【第2700期】动画合成小技巧！CSS-实现动感的倒计时效果](https://toutiao.io/k/ftxfmfv) 
 - [【开发者头条】2022-08-13-SDN系统方法-|-9.-接入网](https://toutiao.io/k/gz5odfi) 
 - [【开发者头条】2022-08-13-推荐-Java-大后端各种架构图汇总（建议收藏！！）](https://toutiao.io/k/dvo6z1w) 
-- [【开发者头条】2022-08-13-推荐-京东面试：MQ-消息丢失、重复、积压问题，如何解决？](https://toutiao.io/k/1unx53z) 
 - [【开发者头条】2022-08-13-推荐-研发过程中的文档管理与工具](https://toutiao.io/k/mdiqwn5) 
+- [【开发者头条】2022-08-13-推荐-京东面试：MQ-消息丢失、重复、积压问题，如何解决？](https://toutiao.io/k/1unx53z) 
 - [【开发者头条】2022-08-13-推荐-【大厂面试真题解析】虾皮-Shopee-后端一面十四问](https://toutiao.io/k/pol71im) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>

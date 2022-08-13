@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-08-13 03:49:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-08-13 04:21:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,7 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-08-13-手机下载速度能达到-1800Mbps？](https://www.v2ex.com/t/872592) 
 - [2022-08-13-用-@gov.cn-发诈骗邮件是怎么做到的？](https://www.v2ex.com/t/872586) 
 - [2022-08-13-在改简历](https://www.v2ex.com/t/872585) 
 - [2022-08-13-深圳这是怎么了？](https://www.v2ex.com/t/872583) 
@@ -1943,11 +1944,6 @@
 - [2022-08-12-为什么我感觉-mac-浅色主题比深色主题流畅？](https://www.v2ex.com/t/872548) 
 - [2022-08-12-Android-12-准备好了，如何虚拟机运行-Windows-11？](https://www.v2ex.com/t/872547) 
 - [2022-08-12-让手绘动漫人设图动起来，一个开源-AI-项目](https://www.v2ex.com/t/872545) 
-- [2022-08-12-后车在单向单车越黄线超车后急刹车....我的电动车撞了上去追尾了。](https://www.v2ex.com/t/872544) 
-- [2022-08-12-请问大家一个大屏发布系统是怎么做的](https://www.v2ex.com/t/872542) 
-- [2022-08-12-把给-app-打包的-keystore-文件弄丢了，怎么办？](https://www.v2ex.com/t/872541) 
-- [2022-08-12-中元节了，几个关注的-fm-都出了特别节目](https://www.v2ex.com/t/872540) 
-- [2022-08-12-WINDOWS-的-Android-Studio-无法启动-ARM-的模拟器](https://www.v2ex.com/t/872539) 
 - [2022-08-13-像用户一样测试：不妨犯傻-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15282&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftest-like-user-2%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-08-13-BFF避坑指南-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15281&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fbackends-for-frontends%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-08-13-40年前的操作系统复活了，当年Linux、Windows都借鉴过！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15280&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494410%26amp%3Bidx%3D1%26amp%3Bsn%3D6573f0c124bcd2e20c39c33d3e516526%26amp%3Bchksm%3Dfa3f0a51cd4883479817eb189805d7dfe98436addb3e47a267f25bc3cdefefbb56aeab56e7b4%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1966,5 +1962,5 @@
 - [2022-08-13-Carbon-会扼杀-Go-的势头吗？](https://toutiao.io/k/avx2p31) 
 - [2022-08-13-前端新宠-Svelte-带来哪些新思想？赶紧学起来！](https://toutiao.io/k/3k78jkz) 
 - [2022-08-13-腾讯软件工程师是怎样写设计文档的？](https://toutiao.io/k/nvkablz) 
-- [2022-08-13-推荐-研发过程中的文档管理与工具](https://toutiao.io/k/mdiqwn5) 
 - [2022-08-13-推荐-Java-大后端各种架构图汇总（建议收藏！！）](https://toutiao.io/k/dvo6z1w) 
+- [2022-08-13-推荐-研发过程中的文档管理与工具](https://toutiao.io/k/mdiqwn5) 

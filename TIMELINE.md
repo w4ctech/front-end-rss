@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-08-13 13:31:14。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-08-13 13:47:31。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,8 @@
 </summary>
 
 
+- [【V2EX】2022-08-13-Mac-远程锁-SimpleLock](https://www.v2ex.com/t/872673) 
+- [【V2EX】2022-08-13-1password-自动填充密码时能否不用输入主密码？](https://www.v2ex.com/t/872672) 
 - [【V2EX】2022-08-13-brave-browser](https://www.v2ex.com/t/872670) 
 - [【V2EX】2022-08-13-求一个-AvGv-PT-的💊](https://www.v2ex.com/t/872669) 
 - [【V2EX】2022-08-13-国行三星手机搜不到澳门版的固件？](https://www.v2ex.com/t/872668) 
@@ -101,8 +103,6 @@
 - [【V2EX】2022-08-13-存在满足以下要求的博客程序吗](https://www.v2ex.com/t/872628) 
 - [【V2EX】2022-08-13-路由器-DNS-服务器指向-192.168.0.1-和-0.0.0.0，无法上网，求解决](https://www.v2ex.com/t/872627) 
 - [【V2EX】2022-08-13-想请问学习日语有什么好的推荐和途径吗？](https://www.v2ex.com/t/872626) 
-- [【V2EX】2022-08-13-玩-ns-sports-的时候用-apple-watch-运动模式测量热量消耗准吗？](https://www.v2ex.com/t/872623) 
-- [【V2EX】2022-08-13-late2013-建议升级-Catalina-吗？](https://www.v2ex.com/t/872622) 
 - [【技术头条】2022-08-13-像用户一样测试：不妨犯傻-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15282&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftest-like-user-2%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-08-13-BFF避坑指南-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15281&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fbackends-for-frontends%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-08-13-40年前的操作系统复活了，当年Linux、Windows都借鉴过！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15280&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494410%26amp%3Bidx%3D1%26amp%3Bsn%3D6573f0c124bcd2e20c39c33d3e516526%26amp%3Bchksm%3Dfa3f0a51cd4883479817eb189805d7dfe98436addb3e47a267f25bc3cdefefbb56aeab56e7b4%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -134,11 +134,11 @@
 - [【开发者头条】2022-08-13-SDN系统方法-|-9.-接入网](https://toutiao.io/k/gz5odfi) 
 - [【开发者头条】2022-08-13-SeaTunnel-2.1.3-发布！新增-Assert-Sink-连接器和-NullRate、Nulltf-Transform](https://toutiao.io/k/q6ogqrk) 
 - [【开发者头条】2022-08-13-在线转换报文格式，支持json、xml互转，json转sql等！](https://toutiao.io/k/npr7kno) 
-- [【开发者头条】2022-08-13-推荐-【大厂面试真题解析】虾皮-Shopee-后端一面十四问](https://toutiao.io/k/pol71im) 
-- [【开发者头条】2022-08-13-推荐-研发过程中的文档管理与工具](https://toutiao.io/k/mdiqwn5) 
-- [【开发者头条】2022-08-13-推荐-京东面试：MQ-消息丢失、重复、积压问题，如何解决？](https://toutiao.io/k/1unx53z) 
 - [【开发者头条】2022-08-13-推荐-Java-大后端各种架构图汇总（建议收藏！！）](https://toutiao.io/k/dvo6z1w) 
 - [【开发者头条】2022-08-13-推荐-【设计模式】10分钟学懂UML类图](https://toutiao.io/k/wg4oeyc) 
+- [【开发者头条】2022-08-13-推荐-研发过程中的文档管理与工具](https://toutiao.io/k/mdiqwn5) 
+- [【开发者头条】2022-08-13-推荐-【大厂面试真题解析】虾皮-Shopee-后端一面十四问](https://toutiao.io/k/pol71im) 
+- [【开发者头条】2022-08-13-推荐-京东面试：MQ-消息丢失、重复、积压问题，如何解决？](https://toutiao.io/k/1unx53z) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

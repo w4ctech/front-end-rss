@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-13 14:38:38，:rocket: 更新条数: +2017， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-13 15:14:26，:rocket: 更新条数: +2019， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,11 @@
 </summary>
 
 
+- [2022-08-13-3A-大作蜘蛛侠-PC-重制版被秒破，对销量有重创，为什么不加一个在线认证呢？](https://www.v2ex.com/t/872679) ![](assets/new.png)  
+- [2022-08-13-时隔-3-年了，-iPhone-自带输入法有长进吗](https://www.v2ex.com/t/872678) ![](assets/new.png)  
+- [2022-08-13-Netflix-土耳其区合租，招-3-个乘客，季付-30-元](https://www.v2ex.com/t/872677) ![](assets/new.png)  
+- [2022-08-13-求昆明靠谱的外包推荐](https://www.v2ex.com/t/872676) ![](assets/new.png)  
+- [2022-08-13-哔哩哔哩主页新增了一个-“unpkg.com”](https://www.v2ex.com/t/872675) ![](assets/new.png)  
 - [2022-08-13-Mac-远程锁-SimpleLock](https://www.v2ex.com/t/872673) ![](assets/new.png)  
 - [2022-08-13-1password-自动填充密码时能否不用输入主密码？](https://www.v2ex.com/t/872672) ![](assets/new.png)  
 - [2022-08-13-brave-browser](https://www.v2ex.com/t/872670) ![](assets/new.png)  
@@ -506,11 +511,6 @@
 - [2022-08-13-LG-UltraFine-4K-显示屏可以转接雷电-2-接口的-MacBook-Pro-吗？](https://www.v2ex.com/t/872657) ![](assets/new.png)  
 - [2022-08-13-辣🐔索尼电视，刚过三年就坏了。](https://www.v2ex.com/t/872655) ![](assets/new.png)  
 - [2022-08-13-突然发现-elib.cc-挂了，除了-z-library-还有什么高质量的计算机类书籍-epub-下载网站呢？](https://www.v2ex.com/t/872651) ![](assets/new.png)  
-- [2022-08-13-能从-iPhone-APP-的缓存文件提取原始信息吗？](https://www.v2ex.com/t/872650) ![](assets/new.png)  
-- [2022-08-13-自荐开源两年多的-WordPress-高颜值主题](https://www.v2ex.com/t/872648) ![](assets/new.png)  
-- [2022-08-13-国内的游戏氛围真的太差了](https://www.v2ex.com/t/872647) ![](assets/new.png)  
-- [2022-08-13-关于-Async-DRF](https://www.v2ex.com/t/872646) ![](assets/new.png)  
-- [2022-08-13-车子刮蹭老是心疼咋办](https://www.v2ex.com/t/872645) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -564,11 +564,11 @@
 - [2022-08-13-SDN系统方法-|-9.-接入网](https://toutiao.io/k/gz5odfi) ![](assets/new.png)  
 - [2022-08-13-在线转换报文格式，支持json、xml互转，json转sql等！](https://toutiao.io/k/npr7kno) ![](assets/new.png)  
 - [2022-08-13-SeaTunnel-2.1.3-发布！新增-Assert-Sink-连接器和-NullRate、Nulltf-Transform](https://toutiao.io/k/q6ogqrk) ![](assets/new.png)  
-- [2022-08-13-推荐-【设计模式】10分钟学懂UML类图](https://toutiao.io/k/wg4oeyc) ![](assets/new.png)  
-- [2022-08-13-推荐-京东面试：MQ-消息丢失、重复、积压问题，如何解决？](https://toutiao.io/k/1unx53z) ![](assets/new.png)  
-- [2022-08-13-推荐-研发过程中的文档管理与工具](https://toutiao.io/k/mdiqwn5) ![](assets/new.png)  
 - [2022-08-13-推荐-【大厂面试真题解析】虾皮-Shopee-后端一面十四问](https://toutiao.io/k/pol71im) ![](assets/new.png)  
+- [2022-08-13-推荐-【设计模式】10分钟学懂UML类图](https://toutiao.io/k/wg4oeyc) ![](assets/new.png)  
+- [2022-08-13-推荐-研发过程中的文档管理与工具](https://toutiao.io/k/mdiqwn5) ![](assets/new.png)  
 - [2022-08-13-推荐-Java-大后端各种架构图汇总（建议收藏！！）](https://toutiao.io/k/dvo6z1w) ![](assets/new.png)  
+- [2022-08-13-推荐-京东面试：MQ-消息丢失、重复、积压问题，如何解决？](https://toutiao.io/k/1unx53z) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

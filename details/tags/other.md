@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-08-13 14:38:38。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-08-13 15:14:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,11 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-08-13-3A-大作蜘蛛侠-PC-重制版被秒破，对销量有重创，为什么不加一个在线认证呢？](https://www.v2ex.com/t/872679) 
+- [2022-08-13-时隔-3-年了，-iPhone-自带输入法有长进吗](https://www.v2ex.com/t/872678) 
+- [2022-08-13-Netflix-土耳其区合租，招-3-个乘客，季付-30-元](https://www.v2ex.com/t/872677) 
+- [2022-08-13-求昆明靠谱的外包推荐](https://www.v2ex.com/t/872676) 
+- [2022-08-13-哔哩哔哩主页新增了一个-“unpkg.com”](https://www.v2ex.com/t/872675) 
 - [2022-08-13-Mac-远程锁-SimpleLock](https://www.v2ex.com/t/872673) 
 - [2022-08-13-1password-自动填充密码时能否不用输入主密码？](https://www.v2ex.com/t/872672) 
 - [2022-08-13-brave-browser](https://www.v2ex.com/t/872670) 
@@ -1933,8 +1938,6 @@
 - [2022-08-13-App-Store-销售来源“机构购买”是什么](https://www.v2ex.com/t/872636) 
 - [2022-08-13-树莓派搭建以太坊全节点的成本是多少？](https://www.v2ex.com/t/872635) 
 - [2022-08-13---mount-方式挂载无法升级镜像](https://www.v2ex.com/t/872633) 
-- [2022-08-13-存在满足以下要求的博客程序吗](https://www.v2ex.com/t/872628) 
-- [2022-08-13-想请问学习日语有什么好的推荐和途径吗？](https://www.v2ex.com/t/872626) 
 - [2022-08-13-像用户一样测试：不妨犯傻-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15282&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftest-like-user-2%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-08-13-BFF避坑指南-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15281&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fbackends-for-frontends%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-08-13-40年前的操作系统复活了，当年Linux、Windows都借鉴过！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15280&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494410%26amp%3Bidx%3D1%26amp%3Bsn%3D6573f0c124bcd2e20c39c33d3e516526%26amp%3Bchksm%3Dfa3f0a51cd4883479817eb189805d7dfe98436addb3e47a267f25bc3cdefefbb56aeab56e7b4%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

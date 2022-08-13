@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-08-13 17:39:52。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-08-13 18:15:47。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,8 +1911,8 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-08-13-iPhone-收不到家庭共享购买前询问-Ask-to-Buy-通知](https://www.v2ex.com/t/872700) 
 - [2022-08-13-"腾讯云合作伙伴-深圳市时鱼科技有限公司-申请与您的账号进行关联"-有人知道是什么吗](https://www.v2ex.com/t/872699) 
-- [2022-08-13-所以有多少-V-友吃着精神药物维持生活的？](https://www.v2ex.com/t/872698) 
 - [2022-08-13-帮忙推荐手机](https://www.v2ex.com/t/872696) 
 - [2022-08-13-2000-预算买手机？](https://www.v2ex.com/t/872695) 
 - [2022-08-13-台式机自动停止蓝牙，怎么破？](https://www.v2ex.com/t/872692) 
@@ -1922,9 +1922,9 @@
 - [2022-08-13-网易大玩家这种在线盲盒算是变相赌博吗？](https://www.v2ex.com/t/872687) 
 - [2022-08-13-哪些云的文档写得好](https://www.v2ex.com/t/872686) 
 - [2022-08-13-大家面对-windows-经常弹的气泡-bug-怎么处理的呀](https://www.v2ex.com/t/872685) 
+- [2022-08-13-跪求-jypter-安装-thriftpy2-的-方法](https://www.v2ex.com/t/872683) 
 - [2022-08-13-3A-大作蜘蛛侠-PC-重制版被秒破，对销量有重创，为什么不加一个在线认证呢？](https://www.v2ex.com/t/872679) 
 - [2022-08-13-时隔-3-年了，-iPhone-自带输入法有长进吗](https://www.v2ex.com/t/872678) 
-- [2022-08-13-Netflix-土耳其区合租，招-3-个乘客，季付-30-元](https://www.v2ex.com/t/872677) 
 - [2022-08-13-求昆明靠谱的外包推荐](https://www.v2ex.com/t/872676) 
 - [2022-08-13-哔哩哔哩主页新增了一个-“unpkg.com”](https://www.v2ex.com/t/872675) 
 - [2022-08-13-Mac-远程锁-SimpleLock](https://www.v2ex.com/t/872673) 
@@ -1957,6 +1957,6 @@
 - [2022-08-13-前端新宠-Svelte-带来哪些新思想？赶紧学起来！](https://toutiao.io/k/3k78jkz) 
 - [2022-08-13-Carbon-会扼杀-Go-的势头吗？](https://toutiao.io/k/avx2p31) 
 - [2022-08-13-SDN系统方法-|-9.-接入网](https://toutiao.io/k/gz5odfi) 
-- [2022-08-13-推荐-研发过程中的文档管理与工具](https://toutiao.io/k/mdiqwn5) 
 - [2022-08-13-推荐-【设计模式】10分钟学懂UML类图](https://toutiao.io/k/wg4oeyc) 
 - [2022-08-13-推荐-Java-大后端各种架构图汇总（建议收藏！！）](https://toutiao.io/k/dvo6z1w) 
+- [2022-08-13-推荐-研发过程中的文档管理与工具](https://toutiao.io/k/mdiqwn5) 

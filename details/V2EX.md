@@ -1,26 +1,25 @@
-:alarm_clock: 更新时间: 2022-08-13 17:39:52。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-08-13 18:15:47。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-08-13-iPhone-收不到家庭共享购买前询问-Ask-to-Buy-通知](https://www.v2ex.com/t/872700) 
 - [2022-08-13-"腾讯云合作伙伴-深圳市时鱼科技有限公司-申请与您的账号进行关联"-有人知道是什么吗](https://www.v2ex.com/t/872699) 
-- [2022-08-13-所以有多少-V-友吃着精神药物维持生活的？](https://www.v2ex.com/t/872698) 
 - [2022-08-13-帮忙推荐手机](https://www.v2ex.com/t/872696) 
 - [2022-08-13-2000-预算买手机？](https://www.v2ex.com/t/872695) 
 - [2022-08-13-忍不住了，喷喷-chrome](https://www.v2ex.com/t/872694) 
 - [2022-08-13-台式机自动停止蓝牙，怎么破？](https://www.v2ex.com/t/872692) 
-- [2022-08-13-Apple-one-Premier-美区超大杯车队发车](https://www.v2ex.com/t/872691) 
 - [2022-08-13-求助：-ipv4-无法访问，-ipv6-却可以正常使用](https://www.v2ex.com/t/872690) 
 - [2022-08-13-求助：如何排查连接-VPN-后出现的网络问题](https://www.v2ex.com/t/872689) 
 - [2022-08-13-r2s-电源要求高吗？有什么推荐的呢？](https://www.v2ex.com/t/872688) 
 - [2022-08-13-网易大玩家这种在线盲盒算是变相赌博吗？](https://www.v2ex.com/t/872687) 
 - [2022-08-13-哪些云的文档写得好](https://www.v2ex.com/t/872686) 
 - [2022-08-13-大家面对-windows-经常弹的气泡-bug-怎么处理的呀](https://www.v2ex.com/t/872685) 
+- [2022-08-13-跪求-jypter-安装-thriftpy2-的-方法](https://www.v2ex.com/t/872683) 
 - [2022-08-13-3A-大作蜘蛛侠-PC-重制版被秒破，对销量有重创，为什么不加一个在线认证呢？](https://www.v2ex.com/t/872679) 
 - [2022-08-13-时隔-3-年了，-iPhone-自带输入法有长进吗](https://www.v2ex.com/t/872678) 
-- [2022-08-13-Netflix-土耳其区合租，招-3-个乘客，季付-30-元](https://www.v2ex.com/t/872677) 
 - [2022-08-13-求昆明靠谱的外包推荐](https://www.v2ex.com/t/872676) 
 - [2022-08-13-哔哩哔哩主页新增了一个-“unpkg.com”](https://www.v2ex.com/t/872675) 
 - [2022-08-13-Mac-远程锁-SimpleLock](https://www.v2ex.com/t/872673) 
@@ -38,4 +37,3 @@
 - [2022-08-13-LG-UltraFine-4K-显示屏可以转接雷电-2-接口的-MacBook-Pro-吗？](https://www.v2ex.com/t/872657) 
 - [2022-08-13-辣🐔索尼电视，刚过三年就坏了。](https://www.v2ex.com/t/872655) 
 - [2022-08-13-突然发现-elib.cc-挂了，除了-z-library-还有什么高质量的计算机类书籍-epub-下载网站呢？](https://www.v2ex.com/t/872651) 
-- [2022-08-13-能从-iPhone-APP-的缓存文件提取原始信息吗？](https://www.v2ex.com/t/872650) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-08-12 23:40:01。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-08-13 01:02:11。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 性能优化
 
@@ -7,6 +7,4 @@
 
 
 
-- [2022-08-12-美团搜索粗排优化的探索与实践](https://toutiao.io/k/6idq555) 
-- [2022-08-12-聊聊高性能-RPC框架-gRPC](https://toutiao.io/k/qm9oygk) 
-- [2022-08-12-原创-Go/Rust/Kotlin-的协程和队列性能评测](https://toutiao.io/k/2a40ym8) 
+- [2022-08-13-接口请求合并的3种技巧，性能直接爆表！](https://toutiao.io/k/p8wu6fu) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-13 08:17:58，:rocket: 更新条数: +2015， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-13 08:45:17，:rocket: 更新条数: +2013， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-08-13---mount-方式挂载无法升级镜像](https://www.v2ex.com/t/872633) ![](assets/new.png)  
+- [2022-08-13-坐标，武汉-web3-公司招聘，条件好的可以远程；](https://www.v2ex.com/t/872632) ![](assets/new.png)  
 - [2022-08-13-存在满足以下要求的博客程序吗](https://www.v2ex.com/t/872628) ![](assets/new.png)  
 - [2022-08-13-路由器-DNS-服务器指向-192.168.0.1-和-0.0.0.0，无法上网，求解决](https://www.v2ex.com/t/872627) ![](assets/new.png)  
 - [2022-08-13-想请问学习日语有什么好的推荐和途径吗？](https://www.v2ex.com/t/872626) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-08-13-推荐<<贫穷的本质>>](https://www.v2ex.com/t/872610) ![](assets/new.png)  
 - [2022-08-13-服了，都发布多长时间了，还存在睡眠无法唤醒的-BUG……](https://www.v2ex.com/t/872609) ![](assets/new.png)  
 - [2022-08-13-Chrome-太影响续航，-Safari-部分场景又满足不了需求](https://www.v2ex.com/t/872608) ![](assets/new.png)  
-- [2022-08-13-坐标广州，对公积金一窍不通，求指教](https://www.v2ex.com/t/872607) ![](assets/new.png)  
-- [2022-08-13-黑群晖，多网口问题请教](https://www.v2ex.com/t/872604) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -564,9 +564,9 @@
 - [2022-08-13-在线转换报文格式，支持json、xml互转，json转sql等！](https://toutiao.io/k/npr7kno) ![](assets/new.png)  
 - [2022-08-13-【第2700期】动画合成小技巧！CSS-实现动感的倒计时效果](https://toutiao.io/k/ftxfmfv) ![](assets/new.png)  
 - [2022-08-13-SDN系统方法-|-9.-接入网](https://toutiao.io/k/gz5odfi) ![](assets/new.png)  
+- [2022-08-13-推荐-京东面试：MQ-消息丢失、重复、积压问题，如何解决？](https://toutiao.io/k/1unx53z) ![](assets/new.png)  
 - [2022-08-13-推荐-Java-大后端各种架构图汇总（建议收藏！！）](https://toutiao.io/k/dvo6z1w) ![](assets/new.png)  
 - [2022-08-13-推荐-研发过程中的文档管理与工具](https://toutiao.io/k/mdiqwn5) ![](assets/new.png)  
-- [2022-08-13-推荐-京东面试：MQ-消息丢失、重复、积压问题，如何解决？](https://toutiao.io/k/1unx53z) ![](assets/new.png)  
 - [2022-08-13-推荐-【大厂面试真题解析】虾皮-Shopee-后端一面十四问](https://toutiao.io/k/pol71im) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

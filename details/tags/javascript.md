@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-08-14 14:38:43。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-08-14 15:14:42。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -17,6 +17,7 @@
 - [2022-06-11-介绍一种CSS变量未定义语法也OK的小妙招](https://www.zhangxinxu.com/wordpress/2022/06/css-var-optional-empty-trick/) 
 - [2022-05-29-如何实现页面刷新后不定位到之前的滚动位置？](https://www.zhangxinxu.com/wordpress/2022/05/history-scrollrestoration/) 
 - [2022-05-11-JS与条形码的生成](https://www.zhangxinxu.com/wordpress/2022/05/js-barcode/) 
+- [2022-08-14-初来乍到，询问下大佬们都用什么软路由](https://www.v2ex.com/t/872833) 
 - [2022-08-14-js-判断一个-url/网址是否能正常打开，然后跳转不同的网址，咋写？](https://www.v2ex.com/t/872818) 
 - [2022-08-14-MacOS-是否有方法阻拦关闭事件?](https://www.v2ex.com/t/872806) 
 - [2022-08-14-多服务器实例下，怎么让不同请求的-backend-共享同一个-promise](https://www.v2ex.com/t/872800) 

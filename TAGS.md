@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-08-14 14:38:43。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-08-14 15:14:42。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -156,7 +156,6 @@
 
 
 
-- [【V2EX】体素系统游戏开发-Ethertia-以太效應-演示&寻佬](https://www.v2ex.com/t/872779)
 - [......【查看更多】......](./details/tags/dev-game.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -183,6 +182,7 @@
 - [【张鑫旭-鑫空间-鑫生活】介绍一种CSS变量未定义语法也OK的小妙招](https://www.zhangxinxu.com/wordpress/2022/06/css-var-optional-empty-trick/)
 - [【张鑫旭-鑫空间-鑫生活】如何实现页面刷新后不定位到之前的滚动位置？](https://www.zhangxinxu.com/wordpress/2022/05/history-scrollrestoration/)
 - [【张鑫旭-鑫空间-鑫生活】JS与条形码的生成](https://www.zhangxinxu.com/wordpress/2022/05/js-barcode/)
+- [【V2EX】初来乍到，询问下大佬们都用什么软路由](https://www.v2ex.com/t/872833)
 - [【V2EX】js-判断一个-url/网址是否能正常打开，然后跳转不同的网址，咋写？](https://www.v2ex.com/t/872818)
 - [【V2EX】MacOS-是否有方法阻拦关闭事件?](https://www.v2ex.com/t/872806)
 - [【V2EX】多服务器实例下，怎么让不同请求的-backend-共享同一个-promise](https://www.v2ex.com/t/872800)
@@ -358,6 +358,7 @@
 
 
 
+- [【V2EX】远程兼职-美国-web3-创业公司招聘-Python-程序员](https://www.v2ex.com/t/872828)
 - [【开发者头条】推荐-京东面试：MQ-消息丢失、重复、积压问题，如何解决？](https://toutiao.io/k/1unx53z)
 - [【开发者头条】推荐-【大厂面试真题解析】虾皮-Shopee-后端一面十四问](https://toutiao.io/k/pol71im)
 - [......【查看更多】......](./details/tags/job-interview.md)

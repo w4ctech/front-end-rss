@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-14 14:38:43，:rocket: 更新条数: +2021， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-14 15:14:42，:rocket: 更新条数: +2025， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,12 @@
 </summary>
 
 
+- [2022-08-14-C-语言中基础数据类型首字母大写了，如-`Int`,-`String`，但是编译能通过，这是怎么回事呀？](https://www.v2ex.com/t/872834) ![](assets/new.png)  
+- [2022-08-14-初来乍到，询问下大佬们都用什么软路由](https://www.v2ex.com/t/872833) ![](assets/new.png)  
+- [2022-08-14-django-项目，文章到期后自动取消置顶,这个时间如何处理好？](https://www.v2ex.com/t/872832) ![](assets/new.png)  
+- [2022-08-14-V-站大佬那么多，导航人手有一个](https://www.v2ex.com/t/872830) ![](assets/new.png)  
+- [2022-08-14-开源-kv-引擎-nutsdb-v0.10.0-发布~](https://www.v2ex.com/t/872829) ![](assets/new.png)  
+- [2022-08-14-远程兼职-美国-web3-创业公司招聘-Python-程序员](https://www.v2ex.com/t/872828) ![](assets/new.png)  
 - [2022-08-14-啥软件能一键限制主机的性能和风扇转速？类似于笔记本的静音模式](https://www.v2ex.com/t/872827) ![](assets/new.png)  
 - [2022-08-14-广州/西安/上海-汇丰银行内推（正式非外包）HC-多多，前端/移动端/后端/数据/AI～](https://www.v2ex.com/t/872826) ![](assets/new.png)  
 - [2022-08-14-vscode-git-合并的时候，为什么只能只能接受右侧全部，没办法合并其中一部分](https://www.v2ex.com/t/872825) ![](assets/new.png)  
@@ -505,12 +511,6 @@
 - [2022-08-14-WEB3-领域公司在招，前端、后端、SRE-等，薪资：-30-70K](https://www.v2ex.com/t/872815) ![](assets/new.png)  
 - [2022-08-14-好像用无线连-NAS-特别慢，顺求改善方法](https://www.v2ex.com/t/872814) ![](assets/new.png)  
 - [2022-08-14-请教一下-美区的-appid-必须添加美区的-paypal-嘛](https://www.v2ex.com/t/872813) ![](assets/new.png)  
-- [2022-08-14-希望大家推荐一些电台或者播客](https://www.v2ex.com/t/872812) ![](assets/new.png)  
-- [2022-08-14-Apache-Tika-如何创建新的-Detector](https://www.v2ex.com/t/872811) ![](assets/new.png)  
-- [2022-08-14-command-+-加号键-的快捷键被未知程序占用，有啥办法可以揪出来？](https://www.v2ex.com/t/872810) ![](assets/new.png)  
-- [2022-08-14-你们开发-vite+vue3-项目，打开-vue-devtools-页面不卡吗？](https://www.v2ex.com/t/872809) ![](assets/new.png)  
-- [2022-08-14-单线多播的问题](https://www.v2ex.com/t/872808) ![](assets/new.png)  
-- [2022-08-14-请问有啥-ios-的-app-可以锁屏状态下-background-播放-youtube-的视频](https://www.v2ex.com/t/872807) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -565,10 +565,10 @@
 - [2022-08-14-Tekton-实战完整示例](https://toutiao.io/k/jf8u2h7) ![](assets/new.png)  
 - [2022-08-14-TS-类型编程：索引类型递归去掉可选修饰](https://toutiao.io/k/thkpwa1) ![](assets/new.png)  
 - [2022-08-14-推荐-京东面试：MQ-消息丢失、重复、积压问题，如何解决？](https://toutiao.io/k/1unx53z) ![](assets/new.png)  
+- [2022-08-14-推荐-【设计模式】10分钟学懂UML类图](https://toutiao.io/k/wg4oeyc) ![](assets/new.png)  
 - [2022-08-14-推荐-Java-大后端各种架构图汇总（建议收藏！！）](https://toutiao.io/k/dvo6z1w) ![](assets/new.png)  
 - [2022-08-14-推荐-研发过程中的文档管理与工具](https://toutiao.io/k/mdiqwn5) ![](assets/new.png)  
 - [2022-08-14-推荐-连流量染色都没有，你说要搞微服务？](https://toutiao.io/k/9k1wfc7) ![](assets/new.png)  
-- [2022-08-14-推荐-【设计模式】10分钟学懂UML类图](https://toutiao.io/k/wg4oeyc) ![](assets/new.png)  
 - [2022-08-14-推荐-【大厂面试真题解析】虾皮-Shopee-后端一面十四问](https://toutiao.io/k/pol71im) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

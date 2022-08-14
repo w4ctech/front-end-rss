@@ -9953,12 +9953,32 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "啥软件能一键限制主机的性能和风扇转速？类似于笔记本的静音模式",
+        "link": "https://www.v2ex.com/t/872827",
+        "date": "2022-08-14"
+      },
+      {
+        "title": "[广州/西安/上海] 汇丰银行内推（正式非外包）HC 多多，前端/移动端/后端/数据/AI～",
+        "link": "https://www.v2ex.com/t/872826",
+        "date": "2022-08-14"
+      },
+      {
+        "title": "vscode git 合并的时候，为什么只能只能接受右侧全部，没办法合并其中一部分",
+        "link": "https://www.v2ex.com/t/872825",
+        "date": "2022-08-14"
+      },
+      {
+        "title": "一个在 GitHub 上展示你最常用命令的小玩具",
+        "link": "https://www.v2ex.com/t/872824",
+        "date": "2022-08-14"
+      },
+      {
         "title": "写前端的很好奇， WASM 是怎么做到同时在 ARM 和 x86 CPU 上运行的？如果是转译，性能损耗有多少？ Google 一直没搜到答案。",
         "link": "https://www.v2ex.com/t/872823",
         "date": "2022-08-14"
       },
       {
-        "title": "[远程兼职] web3 公司诚聘 web 后端开发工程师 (兼职或全职）",
+        "title": "[远程职位] web3 公司诚聘 web 后端开发工程师 (兼职或全职）",
         "link": "https://www.v2ex.com/t/872822",
         "date": "2022-08-14"
       },
@@ -10120,21 +10140,6 @@
       {
         "title": "体素系统游戏开发 Ethertia (以太效應) 演示&寻佬",
         "link": "https://www.v2ex.com/t/872779",
-        "date": "2022-08-14"
-      },
-      {
-        "title": "[不知道什么经贴] 有没有 5000 元以内的电脑椅推荐？",
-        "link": "https://www.v2ex.com/t/872777",
-        "date": "2022-08-14"
-      },
-      {
-        "title": "求推荐一款有线入耳耳机",
-        "link": "https://www.v2ex.com/t/872775",
-        "date": "2022-08-14"
-      },
-      {
-        "title": "请教一个后端缓存一致性的问题",
-        "link": "https://www.v2ex.com/t/872774",
         "date": "2022-08-14"
       }
     ]
@@ -10322,11 +10327,6 @@
         "date": "2022-08-14"
       },
       {
-        "title": "[推荐] 【大厂面试真题解析】虾皮 Shopee 后端一面十四问",
-        "link": "https://toutiao.io/k/pol71im",
-        "date": "2022-08-14"
-      },
-      {
         "title": "[推荐] 连流量染色都没有，你说要搞微服务？",
         "link": "https://toutiao.io/k/9k1wfc7",
         "date": "2022-08-14"
@@ -10334,6 +10334,11 @@
       {
         "title": "[推荐] 【设计模式】10分钟学懂UML类图",
         "link": "https://toutiao.io/k/wg4oeyc",
+        "date": "2022-08-14"
+      },
+      {
+        "title": "[推荐] 【大厂面试真题解析】虾皮 Shopee 后端一面十四问",
+        "link": "https://toutiao.io/k/pol71im",
         "date": "2022-08-14"
       }
     ]

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-14 19:11:54，:rocket: 更新条数: +2027， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-14 19:37:14，:rocket: 更新条数: +2027， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-08-14-20220815-午夜俱乐部](https://www.v2ex.com/t/872846) ![](assets/new.png)  
 - [2022-08-14-MacBook-Air-M1-和-NTFS-格式外接移动机械硬盘的兼容性问题](https://www.v2ex.com/t/872845) ![](assets/new.png)  
 - [2022-08-14-取消网页版-只保留-app-是进步，还是倒退？](https://www.v2ex.com/t/872844) ![](assets/new.png)  
 - [2022-08-14-19-年螃蟹网络科技的《告游戏行业全体同仁书》事件的后续](https://www.v2ex.com/t/872843) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-08-14-啥软件能一键限制主机的性能和风扇转速？类似于笔记本的静音模式](https://www.v2ex.com/t/872827) ![](assets/new.png)  
 - [2022-08-14-广州/西安/上海-汇丰银行内推（正式非外包）HC-多多，前端/移动端/后端/数据/AI～](https://www.v2ex.com/t/872826) ![](assets/new.png)  
 - [2022-08-14-vscode-git-合并的时候，为什么只能只能接受右侧全部，没办法合并其中一部分](https://www.v2ex.com/t/872825) ![](assets/new.png)  
-- [2022-08-14-一个在-GitHub-上展示你最常用命令的小玩具](https://www.v2ex.com/t/872824) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -564,13 +564,13 @@
 - [2022-08-14-【萌新解题】全排列](https://toutiao.io/k/p24notp) ![](assets/new.png)  
 - [2022-08-14-Tekton-实战完整示例](https://toutiao.io/k/jf8u2h7) ![](assets/new.png)  
 - [2022-08-14-TS-类型编程：索引类型递归去掉可选修饰](https://toutiao.io/k/thkpwa1) ![](assets/new.png)  
-- [2022-08-14-推荐-【大厂面试真题解析】虾皮-Shopee-后端一面十四问](https://toutiao.io/k/pol71im) ![](assets/new.png)  
-- [2022-08-14-推荐-连流量染色都没有，你说要搞微服务？](https://toutiao.io/k/9k1wfc7) ![](assets/new.png)  
-- [2022-08-14-推荐-微服务接口设计原则](https://toutiao.io/k/4hjv10p) ![](assets/new.png)  
 - [2022-08-14-推荐-Java-大后端各种架构图汇总（建议收藏！！）](https://toutiao.io/k/dvo6z1w) ![](assets/new.png)  
-- [2022-08-14-推荐-【设计模式】10分钟学懂UML类图](https://toutiao.io/k/wg4oeyc) ![](assets/new.png)  
 - [2022-08-14-推荐-研发过程中的文档管理与工具](https://toutiao.io/k/mdiqwn5) ![](assets/new.png)  
 - [2022-08-14-推荐-京东面试：MQ-消息丢失、重复、积压问题，如何解决？](https://toutiao.io/k/1unx53z) ![](assets/new.png)  
+- [2022-08-14-推荐-微服务接口设计原则](https://toutiao.io/k/4hjv10p) ![](assets/new.png)  
+- [2022-08-14-推荐-【设计模式】10分钟学懂UML类图](https://toutiao.io/k/wg4oeyc) ![](assets/new.png)  
+- [2022-08-14-推荐-连流量染色都没有，你说要搞微服务？](https://toutiao.io/k/9k1wfc7) ![](assets/new.png)  
+- [2022-08-14-推荐-【大厂面试真题解析】虾皮-Shopee-后端一面十四问](https://toutiao.io/k/pol71im) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

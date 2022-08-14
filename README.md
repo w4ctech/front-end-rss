@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-14 15:42:21，:rocket: 更新条数: +2024， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-14 16:17:24，:rocket: 更新条数: +2025， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-08-14-偏头痛了一整天，吃了颗布洛芬终于好多了](https://www.v2ex.com/t/872838) ![](assets/new.png)  
+- [2022-08-14-有哪些高质量的技术文章汇总社区/网站/公众号？](https://www.v2ex.com/t/872837) ![](assets/new.png)  
 - [2022-08-14-65w-的充电器可以给-M2-快速充电吗？](https://www.v2ex.com/t/872835) ![](assets/new.png)  
 - [2022-08-14-C-语言中基础数据类型首字母大写了，如-`Int`,-`String`，但是编译能通过，这是怎么回事呀？](https://www.v2ex.com/t/872834) ![](assets/new.png)  
 - [2022-08-14-初来乍到，询问下大佬们都用什么软路由](https://www.v2ex.com/t/872833) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-08-14-整套/智能家居有什么推荐吗?](https://www.v2ex.com/t/872819) ![](assets/new.png)  
 - [2022-08-14-js-判断一个-url/网址是否能正常打开，然后跳转不同的网址，咋写？](https://www.v2ex.com/t/872818) ![](assets/new.png)  
 - [2022-08-14-WEB3-领域公司在招，前端、后端、SRE-等，薪资：-30-70K](https://www.v2ex.com/t/872815) ![](assets/new.png)  
-- [2022-08-14-好像用无线连-NAS-特别慢，顺求改善方法](https://www.v2ex.com/t/872814) ![](assets/new.png)  
-- [2022-08-14-请教一下-美区的-appid-必须添加美区的-paypal-嘛](https://www.v2ex.com/t/872813) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -564,12 +564,12 @@
 - [2022-08-14-【萌新解题】全排列](https://toutiao.io/k/p24notp) ![](assets/new.png)  
 - [2022-08-14-Tekton-实战完整示例](https://toutiao.io/k/jf8u2h7) ![](assets/new.png)  
 - [2022-08-14-TS-类型编程：索引类型递归去掉可选修饰](https://toutiao.io/k/thkpwa1) ![](assets/new.png)  
-- [2022-08-14-推荐-京东面试：MQ-消息丢失、重复、积压问题，如何解决？](https://toutiao.io/k/1unx53z) ![](assets/new.png)  
 - [2022-08-14-推荐-连流量染色都没有，你说要搞微服务？](https://toutiao.io/k/9k1wfc7) ![](assets/new.png)  
-- [2022-08-14-推荐-【大厂面试真题解析】虾皮-Shopee-后端一面十四问](https://toutiao.io/k/pol71im) ![](assets/new.png)  
-- [2022-08-14-推荐-【设计模式】10分钟学懂UML类图](https://toutiao.io/k/wg4oeyc) ![](assets/new.png)  
-- [2022-08-14-推荐-研发过程中的文档管理与工具](https://toutiao.io/k/mdiqwn5) ![](assets/new.png)  
 - [2022-08-14-推荐-Java-大后端各种架构图汇总（建议收藏！！）](https://toutiao.io/k/dvo6z1w) ![](assets/new.png)  
+- [2022-08-14-推荐-【大厂面试真题解析】虾皮-Shopee-后端一面十四问](https://toutiao.io/k/pol71im) ![](assets/new.png)  
+- [2022-08-14-推荐-研发过程中的文档管理与工具](https://toutiao.io/k/mdiqwn5) ![](assets/new.png)  
+- [2022-08-14-推荐-京东面试：MQ-消息丢失、重复、积压问题，如何解决？](https://toutiao.io/k/1unx53z) ![](assets/new.png)  
+- [2022-08-14-推荐-【设计模式】10分钟学懂UML类图](https://toutiao.io/k/wg4oeyc) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-08-14 11:37:37。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-08-14 12:23:41。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,11 @@
 </summary>
 
 
+- [【V2EX】2022-08-14-MacOS-是否有方法阻拦关闭事件?](https://www.v2ex.com/t/872806) 
+- [【V2EX】2022-08-14-命令历史中出现很多这样的类似的记录](https://www.v2ex.com/t/872804) 
+- [【V2EX】2022-08-14-对于儿童（5-6-岁）在线音乐课程，大家有经验吗？](https://www.v2ex.com/t/872803) 
+- [【V2EX】2022-08-14-求推荐有-webui-的照片整理，管理工具](https://www.v2ex.com/t/872802) 
+- [【V2EX】2022-08-14-多服务器实例下，怎么让不同请求的-backend-共享同一个-promise](https://www.v2ex.com/t/872800) 
 - [【V2EX】2022-08-14-有在坡县的家人吗？最近房租大涨咋办](https://www.v2ex.com/t/872798) 
 - [【V2EX】2022-08-14-信息检索-试问给你一个视频怎么找到出处](https://www.v2ex.com/t/872797) 
 - [【V2EX】2022-08-14-有能定时关机的无线耳机吗？催眠用](https://www.v2ex.com/t/872796) 
@@ -98,12 +103,6 @@
 - [【V2EX】2022-08-14-Tor-浏览器安装在主机系统上安全吗](https://www.v2ex.com/t/872762) 
 - [【V2EX】2022-08-14-iPad-远程桌面到-Windows10-怎么把-iPad-触屏作为-Windows-的触控板？](https://www.v2ex.com/t/872758) 
 - [【V2EX】2022-08-14-关于-app-软件使用-ip，而不是域名的疑问❓](https://www.v2ex.com/t/872757) 
-- [【V2EX】2022-08-14-在终端里读写中文总是不老实,-有什么解决方案吗?](https://www.v2ex.com/t/872756) 
-- [【V2EX】2022-08-14-大家晚上一般需要多久才能睡着？](https://www.v2ex.com/t/872754) 
-- [【V2EX】2022-08-14-联想笔记本之间纠结](https://www.v2ex.com/t/872753) 
-- [【V2EX】2022-08-14-macOS-最小化窗口并休眠后，重新亮屏-dock-栏窗口图标消失（仅有右下角-app-图标）](https://www.v2ex.com/t/872752) 
-- [【V2EX】2022-08-14-杭州住在滨江，但在未来科技城上班的多不多？](https://www.v2ex.com/t/872751) 
-- [【V2EX】2022-08-14-Youtube-订阅迁移](https://www.v2ex.com/t/872750) 
 - [【技术头条】2022-08-14-API快速开发平台设计思考-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15289&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494493%26amp%3Bidx%3D2%26amp%3Bsn%3D0a8c5777a83b3a8e258fbc87cf99a5a1%26amp%3Bchksm%3Dfa3f0a06cd488310cc0d0f14d9ba2c67b676a2869bed0df3c1c5c32dfeda2c0b973c1d7f46df%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-08-14-别再乱搞了，快看优秀的代码是如何分层的！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15288&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494492%26amp%3Bidx%3D1%26amp%3Bsn%3D4d2b541cd0ba81b9acc397edfb735650%26amp%3Bchksm%3Dfa3f0a07cd488311b23c5e0c080092bd01875edc5be3e23b74a4ce3a171b8ef626d12f660484%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-08-14-Vue实现数组四级联动-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15287&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494492%26amp%3Bidx%3D2%26amp%3Bsn%3D1a3699a7c4490775d21ad7c82076d162%26amp%3Bchksm%3Dfa3f0a07cd4883110ff6766683036e3047417811b06c78952ac119614d0252c033e0a53d526b%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -135,12 +134,12 @@
 - [【开发者头条】2022-08-14-【萌新解题】全排列](https://toutiao.io/k/p24notp) 
 - [【开发者头条】2022-08-14-Tekton-实战完整示例](https://toutiao.io/k/jf8u2h7) 
 - [【开发者头条】2022-08-14-TS-类型编程：索引类型递归去掉可选修饰](https://toutiao.io/k/thkpwa1) 
-- [【开发者头条】2022-08-14-推荐-【大厂面试真题解析】虾皮-Shopee-后端一面十四问](https://toutiao.io/k/pol71im) 
-- [【开发者头条】2022-08-14-推荐-Java-大后端各种架构图汇总（建议收藏！！）](https://toutiao.io/k/dvo6z1w) 
 - [【开发者头条】2022-08-14-推荐-研发过程中的文档管理与工具](https://toutiao.io/k/mdiqwn5) 
-- [【开发者头条】2022-08-14-推荐-连流量染色都没有，你说要搞微服务？](https://toutiao.io/k/9k1wfc7) 
 - [【开发者头条】2022-08-14-推荐-【设计模式】10分钟学懂UML类图](https://toutiao.io/k/wg4oeyc) 
+- [【开发者头条】2022-08-14-推荐-Java-大后端各种架构图汇总（建议收藏！！）](https://toutiao.io/k/dvo6z1w) 
 - [【开发者头条】2022-08-14-推荐-京东面试：MQ-消息丢失、重复、积压问题，如何解决？](https://toutiao.io/k/1unx53z) 
+- [【开发者头条】2022-08-14-推荐-【大厂面试真题解析】虾皮-Shopee-后端一面十四问](https://toutiao.io/k/pol71im) 
+- [【开发者头条】2022-08-14-推荐-连流量染色都没有，你说要搞微服务？](https://toutiao.io/k/9k1wfc7) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

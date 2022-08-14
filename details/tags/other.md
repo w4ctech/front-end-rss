@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-08-14 13:02:45。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-08-14 13:35:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,10 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-08-14-好像用无线连-NAS-特别慢，顺求改善方法](https://www.v2ex.com/t/872814) 
+- [2022-08-14-请教一下-美区的-appid-必须添加美区的-paypal-嘛](https://www.v2ex.com/t/872813) 
+- [2022-08-14-希望大家推荐一些电台或者播客](https://www.v2ex.com/t/872812) 
+- [2022-08-14-Apache-Tika-如何创建新的-Detector](https://www.v2ex.com/t/872811) 
 - [2022-08-14-command-+-加号键-的快捷键被未知程序占用，有啥办法可以揪出来？](https://www.v2ex.com/t/872810) 
 - [2022-08-14-单线多播的问题](https://www.v2ex.com/t/872808) 
 - [2022-08-14-命令历史中出现很多这样的类似的记录](https://www.v2ex.com/t/872804) 
@@ -1935,7 +1939,6 @@
 - [2022-08-14-那些阿里云盘的搜索引擎是在哪里抓到数据的](https://www.v2ex.com/t/872767) 
 - [2022-08-14-购买这套系统，谁有货-？](https://www.v2ex.com/t/872766) 
 - [2022-08-14-使用-yolo-训练识别头像区域的思路应该是怎样的？](https://www.v2ex.com/t/872765) 
-- [2022-08-14-求助openclash-出现大量的上传连接，消耗了上百-G-机场流量](https://www.v2ex.com/t/872764) 
 - [2022-08-14-API快速开发平台设计思考-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15289&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494493%26amp%3Bidx%3D2%26amp%3Bsn%3D0a8c5777a83b3a8e258fbc87cf99a5a1%26amp%3Bchksm%3Dfa3f0a06cd488310cc0d0f14d9ba2c67b676a2869bed0df3c1c5c32dfeda2c0b973c1d7f46df%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-08-14-别再乱搞了，快看优秀的代码是如何分层的！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15288&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494492%26amp%3Bidx%3D1%26amp%3Bsn%3D4d2b541cd0ba81b9acc397edfb735650%26amp%3Bchksm%3Dfa3f0a07cd488311b23c5e0c080092bd01875edc5be3e23b74a4ce3a171b8ef626d12f660484%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-08-14-程序员眼中最有价值的10条开发经验-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15286&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494491%26amp%3Bidx%3D1%26amp%3Bsn%3D274ddfa1d8ad38b1ba9b8e74433e4d6e%26amp%3Bchksm%3Dfa3f0a00cd488316da8dfa3662b19d82e4c858741ac0da99e555b1711a428e378ccada9281f8%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1956,7 +1959,7 @@
 - [2022-08-14-【萌新解题】全排列](https://toutiao.io/k/p24notp) 
 - [2022-08-14-Tekton-实战完整示例](https://toutiao.io/k/jf8u2h7) 
 - [2022-08-14-TS-类型编程：索引类型递归去掉可选修饰](https://toutiao.io/k/thkpwa1) 
-- [2022-08-14-推荐-研发过程中的文档管理与工具](https://toutiao.io/k/mdiqwn5) 
 - [2022-08-14-推荐-连流量染色都没有，你说要搞微服务？](https://toutiao.io/k/9k1wfc7) 
+- [2022-08-14-推荐-研发过程中的文档管理与工具](https://toutiao.io/k/mdiqwn5) 
 - [2022-08-14-推荐-Java-大后端各种架构图汇总（建议收藏！！）](https://toutiao.io/k/dvo6z1w) 
 - [2022-08-14-推荐-【设计模式】10分钟学懂UML类图](https://toutiao.io/k/wg4oeyc) 

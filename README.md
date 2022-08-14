@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-14 13:35:28，:rocket: 更新条数: +2021， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-14 14:14:42，:rocket: 更新条数: +2020， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,14 @@
 </summary>
 
 
+- [2022-08-14-写前端的很好奇，-WASM-是怎么做到同时在-ARM-和-x86-CPU-上运行的？如果是转译，性能损耗有多少？-Google-一直没搜到答案。](https://www.v2ex.com/t/872823) ![](assets/new.png)  
+- [2022-08-14-远程兼职-web3-公司诚聘-web-后端开发工程师-兼职或全职）](https://www.v2ex.com/t/872822) ![](assets/new.png)  
+- [2022-08-14-两个-offer-纠结住了。。。](https://www.v2ex.com/t/872821) ![](assets/new.png)  
+- [2022-08-14-上海社保卡多久拿到啊？](https://www.v2ex.com/t/872820) ![](assets/new.png)  
+- [2022-08-14-整套/智能家居有什么推荐吗?](https://www.v2ex.com/t/872819) ![](assets/new.png)  
+- [2022-08-14-js-判断一个-url/网址是否能正常打开，然后跳转不同的网址，咋写？](https://www.v2ex.com/t/872818) ![](assets/new.png)  
+- [2022-08-14-和女朋友就互相看手机问题发生了争议？](https://www.v2ex.com/t/872816) ![](assets/new.png)  
+- [2022-08-14-WEB3-领域公司在招，前端、后端、SRE-等，薪资：-30-70K](https://www.v2ex.com/t/872815) ![](assets/new.png)  
 - [2022-08-14-好像用无线连-NAS-特别慢，顺求改善方法](https://www.v2ex.com/t/872814) ![](assets/new.png)  
 - [2022-08-14-请教一下-美区的-appid-必须添加美区的-paypal-嘛](https://www.v2ex.com/t/872813) ![](assets/new.png)  
 - [2022-08-14-希望大家推荐一些电台或者播客](https://www.v2ex.com/t/872812) ![](assets/new.png)  
@@ -503,14 +511,6 @@
 - [2022-08-14-命令历史中出现很多这样的类似的记录](https://www.v2ex.com/t/872804) ![](assets/new.png)  
 - [2022-08-14-对于儿童（5-6-岁）在线音乐课程，大家有经验吗？](https://www.v2ex.com/t/872803) ![](assets/new.png)  
 - [2022-08-14-求推荐有-webui-的照片整理，管理工具](https://www.v2ex.com/t/872802) ![](assets/new.png)  
-- [2022-08-14-多服务器实例下，怎么让不同请求的-backend-共享同一个-promise](https://www.v2ex.com/t/872800) ![](assets/new.png)  
-- [2022-08-14-有在坡县的家人吗？最近房租大涨咋办](https://www.v2ex.com/t/872798) ![](assets/new.png)  
-- [2022-08-14-信息检索-试问给你一个视频怎么找到出处](https://www.v2ex.com/t/872797) ![](assets/new.png)  
-- [2022-08-14-有能定时关机的无线耳机吗？催眠用](https://www.v2ex.com/t/872796) ![](assets/new.png)  
-- [2022-08-14-上班路上阳光刺眼，想保护眼睛不被紫外线辐射，用什么方式比较好？](https://www.v2ex.com/t/872795) ![](assets/new.png)  
-- [2022-08-14-老哥们开车过红绿灯后会断片吗？](https://www.v2ex.com/t/872793) ![](assets/new.png)  
-- [2022-08-14-关于编程语言内存对齐的疑问](https://www.v2ex.com/t/872792) ![](assets/new.png)  
-- [2022-08-14-求一个脚本该如何实现？](https://www.v2ex.com/t/872791) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -564,12 +564,12 @@
 - [2022-08-14-【萌新解题】全排列](https://toutiao.io/k/p24notp) ![](assets/new.png)  
 - [2022-08-14-Tekton-实战完整示例](https://toutiao.io/k/jf8u2h7) ![](assets/new.png)  
 - [2022-08-14-TS-类型编程：索引类型递归去掉可选修饰](https://toutiao.io/k/thkpwa1) ![](assets/new.png)  
-- [2022-08-14-推荐-连流量染色都没有，你说要搞微服务？](https://toutiao.io/k/9k1wfc7) ![](assets/new.png)  
+- [2022-08-14-推荐-京东面试：MQ-消息丢失、重复、积压问题，如何解决？](https://toutiao.io/k/1unx53z) ![](assets/new.png)  
+- [2022-08-14-推荐-Java-大后端各种架构图汇总（建议收藏！！）](https://toutiao.io/k/dvo6z1w) ![](assets/new.png)  
 - [2022-08-14-推荐-研发过程中的文档管理与工具](https://toutiao.io/k/mdiqwn5) ![](assets/new.png)  
 - [2022-08-14-推荐-【大厂面试真题解析】虾皮-Shopee-后端一面十四问](https://toutiao.io/k/pol71im) ![](assets/new.png)  
-- [2022-08-14-推荐-Java-大后端各种架构图汇总（建议收藏！！）](https://toutiao.io/k/dvo6z1w) ![](assets/new.png)  
+- [2022-08-14-推荐-连流量染色都没有，你说要搞微服务？](https://toutiao.io/k/9k1wfc7) ![](assets/new.png)  
 - [2022-08-14-推荐-【设计模式】10分钟学懂UML类图](https://toutiao.io/k/wg4oeyc) ![](assets/new.png)  
-- [2022-08-14-推荐-京东面试：MQ-消息丢失、重复、积压问题，如何解决？](https://toutiao.io/k/1unx53z) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

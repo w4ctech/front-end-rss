@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-08-14 21:39:15。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-08-14 22:13:54。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,7 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-08-14-有什么好玩的回合制单机吗？](https://www.v2ex.com/t/872850) 
 - [2022-08-14-求家庭组网方案](https://www.v2ex.com/t/872849) 
 - [2022-08-14-20220815-午夜俱乐部](https://www.v2ex.com/t/872846) 
 - [2022-08-14-MacBook-Air-M1-和-NTFS-格式外接移动机械硬盘的兼容性问题](https://www.v2ex.com/t/872845) 
@@ -1960,7 +1961,7 @@
 - [2022-08-14-Tekton-实战完整示例](https://toutiao.io/k/jf8u2h7) 
 - [2022-08-14-TS-类型编程：索引类型递归去掉可选修饰](https://toutiao.io/k/thkpwa1) 
 - [2022-08-14-推荐-连流量染色都没有，你说要搞微服务？](https://toutiao.io/k/9k1wfc7) 
-- [2022-08-14-推荐-研发过程中的文档管理与工具](https://toutiao.io/k/mdiqwn5) 
 - [2022-08-14-推荐-Java-大后端各种架构图汇总（建议收藏！！）](https://toutiao.io/k/dvo6z1w) 
-- [2022-08-14-推荐-微服务接口设计原则](https://toutiao.io/k/4hjv10p) 
 - [2022-08-14-推荐-【设计模式】10分钟学懂UML类图](https://toutiao.io/k/wg4oeyc) 
+- [2022-08-14-推荐-微服务接口设计原则](https://toutiao.io/k/4hjv10p) 
+- [2022-08-14-推荐-研发过程中的文档管理与工具](https://toutiao.io/k/mdiqwn5) 

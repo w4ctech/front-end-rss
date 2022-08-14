@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-08-14 03:22:03。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-08-14 04:07:37。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,16 @@
 </summary>
 
 
+- [【V2EX】2022-08-14-Mac-M1-无法升级系统，密码提示不对](https://www.v2ex.com/t/872739) 
+- [【V2EX】2022-08-14-mac-有哪些好用的播放器？原生-arm-通用的](https://www.v2ex.com/t/872738) 
+- [【V2EX】2022-08-14-ToDo-List---任务清单-：手撸了一个本地化、无需登录、简单的-ToDo-List-谷歌扩展插件-，欢迎使用和吐槽～](https://www.v2ex.com/t/872737) 
+- [【V2EX】2022-08-14-有没有一种终端配色的配置大全的网站](https://www.v2ex.com/t/872736) 
+- [【V2EX】2022-08-14-数据库集合返回一个-DTO-的集合。使用-Stream-Group-by-多个字段拼接进行分组，其中有需要根据-6-个字段进行分组的，有需要根据-4-个字段进行分组的，怎么比较‘...](https://www.v2ex.com/t/872735) 
+- [【V2EX】2022-08-14-为何有人讨论着会发个-gist-然后去那边发一长串](https://www.v2ex.com/t/872734) 
+- [【V2EX】2022-08-14-现在网站挂支付是不是必须办-IPC-许可？](https://www.v2ex.com/t/872733) 
+- [【V2EX】2022-08-14-M1-macbook-远程连接佳能-M50-有没有什么好的方案？](https://www.v2ex.com/t/872731) 
+- [【V2EX】2022-08-14-google-最近是不是不稳定](https://www.v2ex.com/t/872730) 
+- [【V2EX】2022-08-14-求教-Java-大佬，这是什么报错?下载报错还是解压报错？和-Java-版本或者解压软件有没有关系？](https://www.v2ex.com/t/872729) 
 - [【V2EX】2022-08-14-不讲究的一加手机-有用氢-OS-12-的朋友吗?-想知道一下体验如何](https://www.v2ex.com/t/872725) 
 - [【V2EX】2022-08-14-Macbook-pro-2021-14-寸选择的纠结](https://www.v2ex.com/t/872724) 
 - [【V2EX】2022-08-14-mac-有没有办法让搜狗输入法中文模式下，按-`-键（tab-上面那个键）不输入成中文符号的-·](https://www.v2ex.com/t/872723) 
@@ -95,12 +105,6 @@
 - [【V2EX】2022-08-13-忍不住了，喷喷-chrome](https://www.v2ex.com/t/872694) 
 - [【V2EX】2022-08-13-台式机自动停止蓝牙，怎么破？](https://www.v2ex.com/t/872692) 
 - [【V2EX】2022-08-13-求助：-ipv4-无法访问，-ipv6-却可以正常使用](https://www.v2ex.com/t/872690) 
-- [【V2EX】2022-08-13-求助：如何排查连接-VPN-后出现的网络问题](https://www.v2ex.com/t/872689) 
-- [【V2EX】2022-08-13-r2s-电源要求高吗？有什么推荐的呢？](https://www.v2ex.com/t/872688) 
-- [【V2EX】2022-08-13-网易大玩家这种在线盲盒算是变相赌博吗？](https://www.v2ex.com/t/872687) 
-- [【V2EX】2022-08-13-哪些云的文档写得好](https://www.v2ex.com/t/872686) 
-- [【V2EX】2022-08-13-大家面对-windows-经常弹的气泡-bug-怎么处理的呀](https://www.v2ex.com/t/872685) 
-- [【V2EX】2022-08-13-跪求-jypter-安装-thriftpy2-的-方法](https://www.v2ex.com/t/872683) 
 - [【技术头条】2022-08-14-API快速开发平台设计思考-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15289&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494493%26amp%3Bidx%3D2%26amp%3Bsn%3D0a8c5777a83b3a8e258fbc87cf99a5a1%26amp%3Bchksm%3Dfa3f0a06cd488310cc0d0f14d9ba2c67b676a2869bed0df3c1c5c32dfeda2c0b973c1d7f46df%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-08-14-别再乱搞了，快看优秀的代码是如何分层的！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15288&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494492%26amp%3Bidx%3D1%26amp%3Bsn%3D4d2b541cd0ba81b9acc397edfb735650%26amp%3Bchksm%3Dfa3f0a07cd488311b23c5e0c080092bd01875edc5be3e23b74a4ce3a171b8ef626d12f660484%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-08-14-Vue实现数组四级联动-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15287&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494492%26amp%3Bidx%3D2%26amp%3Bsn%3D1a3699a7c4490775d21ad7c82076d162%26amp%3Bchksm%3Dfa3f0a07cd4883110ff6766683036e3047417811b06c78952ac119614d0252c033e0a53d526b%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -121,7 +125,7 @@
 - [【技术头条】2022-08-14-敏捷交付的工程效能治理-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15272&url=https%3A%2F%2Finsights.thoughtworks.cn%2F%3Fp%3D16439%26amp%3Bpreview%3Dtrue%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-08-14-SpringBoot四大核心组件，你知道几个？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15271&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494395%26amp%3Bidx%3D2%26amp%3Bsn%3D7625c27c0bbb10cfd2e5e1d8a09a3c74%26amp%3Bchksm%3Dfa3f0ba0cd4882b6baa602f1f11ffebc9ec2dadb2ee131a812efc29a71e64cb3959c144707ff%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-08-14-为什么现在我特讨厌Safari浏览器？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15270&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494394%26amp%3Bidx%3D1%26amp%3Bsn%3Dfb2cf1e3121547b166e7507899fd4b39%26amp%3Bchksm%3Dfa3f0ba1cd4882b709b6be7a5f79fe7fde60753959a580a0d22d902090136a0acfcdc714006d%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
-- [【开发者头条】2022-08-14-大文件上传时如何做到-秒传？](https://toutiao.io/k/iyhuoxx) 
+- [【开发者头条】2022-08-14-大文件上传时如何做到秒传？](https://toutiao.io/k/iyhuoxx) 
 - [【开发者头条】2022-08-14-携程海外MySQL数据复制实践](https://toutiao.io/k/tlkmfx5) 
 - [【开发者头条】2022-08-14-计算机极简公开课推荐](https://toutiao.io/k/3n242s7) 
 - [【开发者头条】2022-08-14-一块GPU训练TB级推荐模型不是梦，OneEmbedding性能一骑绝尘](https://toutiao.io/k/7okrabr) 
@@ -129,10 +133,10 @@
 - [【开发者头条】2022-08-14-接口性能优化实战：从20s到500ms，三招搞定](https://toutiao.io/k/atde79x) 
 - [【开发者头条】2022-08-14-一文聊透Netty核心引擎Reactor的运转架构](https://toutiao.io/k/law381n) 
 - [【开发者头条】2022-08-14-【萌新解题】全排列](https://toutiao.io/k/p24notp) 
-- [【开发者头条】2022-08-14-推荐-研发过程中的文档管理与工具](https://toutiao.io/k/mdiqwn5) 
-- [【开发者头条】2022-08-14-推荐-【大厂面试真题解析】虾皮-Shopee-后端一面十四问](https://toutiao.io/k/pol71im) 
 - [【开发者头条】2022-08-14-推荐-【设计模式】10分钟学懂UML类图](https://toutiao.io/k/wg4oeyc) 
 - [【开发者头条】2022-08-14-推荐-京东面试：MQ-消息丢失、重复、积压问题，如何解决？](https://toutiao.io/k/1unx53z) 
+- [【开发者头条】2022-08-14-推荐-【大厂面试真题解析】虾皮-Shopee-后端一面十四问](https://toutiao.io/k/pol71im) 
+- [【开发者头条】2022-08-14-推荐-研发过程中的文档管理与工具](https://toutiao.io/k/mdiqwn5) 
 - [【开发者头条】2022-08-14-推荐-Java-大后端各种架构图汇总（建议收藏！！）](https://toutiao.io/k/dvo6z1w) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>

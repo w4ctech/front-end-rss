@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-14 06:46:45，:rocket: 更新条数: +2021， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-14 07:13:43，:rocket: 更新条数: +2022， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,10 @@
 </summary>
 
 
+- [2022-08-14-安装-debian-后，合盖锁屏和蓝牙鼠标出现问题，求大佬们帮助](https://www.v2ex.com/t/872768) ![](assets/new.png)  
+- [2022-08-14-那些阿里云盘的搜索引擎是在哪里抓到数据的](https://www.v2ex.com/t/872767) ![](assets/new.png)  
+- [2022-08-14-购买这套系统，谁有货-？](https://www.v2ex.com/t/872766) ![](assets/new.png)  
+- [2022-08-14-使用-yolo-训练识别头像区域的思路应该是怎样的？](https://www.v2ex.com/t/872765) ![](assets/new.png)  
 - [2022-08-14-求助openclash-出现大量的上传连接，消耗了上百-G-机场流量](https://www.v2ex.com/t/872764) ![](assets/new.png)  
 - [2022-08-14-kitty-作者说-tmux-waste-CPU-cycles，具体是指啥？](https://www.v2ex.com/t/872763) ![](assets/new.png)  
 - [2022-08-14-Tor-浏览器安装在主机系统上安全吗](https://www.v2ex.com/t/872762) ![](assets/new.png)  
@@ -507,10 +511,6 @@
 - [2022-08-14-chrome-密码泄漏了，-才知道用-chrome-保存密码等于裸奔](https://www.v2ex.com/t/872745) ![](assets/new.png)  
 - [2022-08-14-KeePassXC-自动填充不得行啊](https://www.v2ex.com/t/872744) ![](assets/new.png)  
 - [2022-08-14-回不了帖子是什么情况](https://www.v2ex.com/t/872743) ![](assets/new.png)  
-- [2022-08-14-除去税和必要花费，单身汉每个月能存工资的几成？](https://www.v2ex.com/t/872742) ![](assets/new.png)  
-- [2022-08-14-mainnet.infura.io-也被墙了](https://www.v2ex.com/t/872741) ![](assets/new.png)  
-- [2022-08-14-关于润去海外的问题](https://www.v2ex.com/t/872740) ![](assets/new.png)  
-- [2022-08-14-Mac-M1-无法升级系统，密码提示不对](https://www.v2ex.com/t/872739) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -564,11 +564,11 @@
 - [2022-08-14-Tekton-实战完整示例](https://toutiao.io/k/jf8u2h7) ![](assets/new.png)  
 - [2022-08-14-TS-类型编程：索引类型递归去掉可选修饰](https://toutiao.io/k/thkpwa1) ![](assets/new.png)  
 - [2022-08-14-推荐-【大厂面试真题解析】虾皮-Shopee-后端一面十四问](https://toutiao.io/k/pol71im) ![](assets/new.png)  
-- [2022-08-14-推荐-京东面试：MQ-消息丢失、重复、积压问题，如何解决？](https://toutiao.io/k/1unx53z) ![](assets/new.png)  
-- [2022-08-14-推荐-【设计模式】10分钟学懂UML类图](https://toutiao.io/k/wg4oeyc) ![](assets/new.png)  
-- [2022-08-14-推荐-连流量染色都没有，你说要搞微服务？](https://toutiao.io/k/9k1wfc7) ![](assets/new.png)  
-- [2022-08-14-推荐-研发过程中的文档管理与工具](https://toutiao.io/k/mdiqwn5) ![](assets/new.png)  
 - [2022-08-14-推荐-Java-大后端各种架构图汇总（建议收藏！！）](https://toutiao.io/k/dvo6z1w) ![](assets/new.png)  
+- [2022-08-14-推荐-研发过程中的文档管理与工具](https://toutiao.io/k/mdiqwn5) ![](assets/new.png)  
+- [2022-08-14-推荐-【设计模式】10分钟学懂UML类图](https://toutiao.io/k/wg4oeyc) ![](assets/new.png)  
+- [2022-08-14-推荐-京东面试：MQ-消息丢失、重复、积压问题，如何解决？](https://toutiao.io/k/1unx53z) ![](assets/new.png)  
+- [2022-08-14-推荐-连流量染色都没有，你说要搞微服务？](https://toutiao.io/k/9k1wfc7) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

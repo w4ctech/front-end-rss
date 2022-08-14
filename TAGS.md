@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-08-14 06:46:45。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-08-14 07:13:43。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -303,7 +303,6 @@
 
 
 - [【V2EX】kitty-作者说-tmux-waste-CPU-cycles，具体是指啥？](https://www.v2ex.com/t/872763)
-- [【V2EX】Xcode-的-Vim-模式体验十分舒服](https://www.v2ex.com/t/872718)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

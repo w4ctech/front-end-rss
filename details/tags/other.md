@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-08-14 04:07:37。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-08-14 04:54:40。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,12 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-08-14-国外知乎-Quora-直连](https://www.v2ex.com/t/872746) 
+- [2022-08-14-KeePassXC-自动填充不得行啊](https://www.v2ex.com/t/872744) 
+- [2022-08-14-回不了帖子是什么情况](https://www.v2ex.com/t/872743) 
+- [2022-08-14-除去税和必要花费，单身汉每个月能存工资的几成？](https://www.v2ex.com/t/872742) 
+- [2022-08-14-mainnet.infura.io-也被墙了](https://www.v2ex.com/t/872741) 
+- [2022-08-14-关于润去海外的问题](https://www.v2ex.com/t/872740) 
 - [2022-08-14-Mac-M1-无法升级系统，密码提示不对](https://www.v2ex.com/t/872739) 
 - [2022-08-14-ToDo-List---任务清单-：手撸了一个本地化、无需登录、简单的-ToDo-List-谷歌扩展插件-，欢迎使用和吐槽～](https://www.v2ex.com/t/872737) 
 - [2022-08-14-有没有一种终端配色的配置大全的网站](https://www.v2ex.com/t/872736) 
@@ -1936,10 +1942,6 @@
 - [2022-08-13-半夜睡不着，思来想去的](https://www.v2ex.com/t/872702) 
 - [2022-08-13-iPhone-收不到家庭共享购买前询问-Ask-to-Buy-通知](https://www.v2ex.com/t/872700) 
 - [2022-08-13-"腾讯云合作伙伴-深圳市时鱼科技有限公司-申请与您的账号进行关联"-有人知道是什么吗](https://www.v2ex.com/t/872699) 
-- [2022-08-13-帮忙推荐手机](https://www.v2ex.com/t/872696) 
-- [2022-08-13-2000-预算买手机？](https://www.v2ex.com/t/872695) 
-- [2022-08-13-台式机自动停止蓝牙，怎么破？](https://www.v2ex.com/t/872692) 
-- [2022-08-13-求助：-ipv4-无法访问，-ipv6-却可以正常使用](https://www.v2ex.com/t/872690) 
 - [2022-08-14-API快速开发平台设计思考-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15289&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494493%26amp%3Bidx%3D2%26amp%3Bsn%3D0a8c5777a83b3a8e258fbc87cf99a5a1%26amp%3Bchksm%3Dfa3f0a06cd488310cc0d0f14d9ba2c67b676a2869bed0df3c1c5c32dfeda2c0b973c1d7f46df%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-08-14-别再乱搞了，快看优秀的代码是如何分层的！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15288&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494492%26amp%3Bidx%3D1%26amp%3Bsn%3D4d2b541cd0ba81b9acc397edfb735650%26amp%3Bchksm%3Dfa3f0a07cd488311b23c5e0c080092bd01875edc5be3e23b74a4ce3a171b8ef626d12f660484%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-08-14-程序员眼中最有价值的10条开发经验-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15286&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494491%26amp%3Bidx%3D1%26amp%3Bsn%3D274ddfa1d8ad38b1ba9b8e74433e4d6e%26amp%3Bchksm%3Dfa3f0a00cd488316da8dfa3662b19d82e4c858741ac0da99e555b1711a428e378ccada9281f8%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1957,6 +1959,6 @@
 - [2022-08-14-携程海外MySQL数据复制实践](https://toutiao.io/k/tlkmfx5) 
 - [2022-08-14-计算机极简公开课推荐](https://toutiao.io/k/3n242s7) 
 - [2022-08-14-【萌新解题】全排列](https://toutiao.io/k/p24notp) 
-- [2022-08-14-推荐-【设计模式】10分钟学懂UML类图](https://toutiao.io/k/wg4oeyc) 
 - [2022-08-14-推荐-研发过程中的文档管理与工具](https://toutiao.io/k/mdiqwn5) 
 - [2022-08-14-推荐-Java-大后端各种架构图汇总（建议收藏！！）](https://toutiao.io/k/dvo6z1w) 
+- [2022-08-14-推荐-【设计模式】10分钟学懂UML类图](https://toutiao.io/k/wg4oeyc) 

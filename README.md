@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-14 05:38:30，:rocket: 更新条数: +2019， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-14 06:17:23，:rocket: 更新条数: +2021， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,12 @@
 </summary>
 
 
+- [2022-08-14-求助openclash-出现大量的上传连接，消耗了上百-G-机场流量](https://www.v2ex.com/t/872764) ![](assets/new.png)  
+- [2022-08-14-kitty-作者说-tmux-waste-CPU-cycles，具体是指啥？](https://www.v2ex.com/t/872763) ![](assets/new.png)  
+- [2022-08-14-Tor-浏览器安装在主机系统上安全吗](https://www.v2ex.com/t/872762) ![](assets/new.png)  
+- [2022-08-14-iPad-远程桌面到-Windows10-怎么把-iPad-触屏作为-Windows-的触控板？](https://www.v2ex.com/t/872758) ![](assets/new.png)  
+- [2022-08-14-关于-app-软件使用-ip，而不是域名的疑问❓](https://www.v2ex.com/t/872757) ![](assets/new.png)  
+- [2022-08-14-在终端里读写中文总是不老实,-有什么解决方案吗?](https://www.v2ex.com/t/872756) ![](assets/new.png)  
 - [2022-08-14-大家晚上一般需要多久才能睡着？](https://www.v2ex.com/t/872754) ![](assets/new.png)  
 - [2022-08-14-联想笔记本之间纠结](https://www.v2ex.com/t/872753) ![](assets/new.png)  
 - [2022-08-14-macOS-最小化窗口并休眠后，重新亮屏-dock-栏窗口图标消失（仅有右下角-app-图标）](https://www.v2ex.com/t/872752) ![](assets/new.png)  
@@ -505,12 +511,6 @@
 - [2022-08-14-mainnet.infura.io-也被墙了](https://www.v2ex.com/t/872741) ![](assets/new.png)  
 - [2022-08-14-关于润去海外的问题](https://www.v2ex.com/t/872740) ![](assets/new.png)  
 - [2022-08-14-Mac-M1-无法升级系统，密码提示不对](https://www.v2ex.com/t/872739) ![](assets/new.png)  
-- [2022-08-14-mac-有哪些好用的播放器？原生-arm-通用的](https://www.v2ex.com/t/872738) ![](assets/new.png)  
-- [2022-08-14-ToDo-List---任务清单-：手撸了一个本地化、无需登录、简单的-ToDo-List-谷歌扩展插件-，欢迎使用和吐槽～](https://www.v2ex.com/t/872737) ![](assets/new.png)  
-- [2022-08-14-有没有一种终端配色的配置大全的网站](https://www.v2ex.com/t/872736) ![](assets/new.png)  
-- [2022-08-14-数据库集合返回一个-DTO-的集合。使用-Stream-Group-by-多个字段拼接进行分组，其中有需要根据-6-个字段进行分组的，有需要根据-4-个字段进行分组的，怎么比较‘...](https://www.v2ex.com/t/872735) ![](assets/new.png)  
-- [2022-08-14-为何有人讨论着会发个-gist-然后去那边发一长串](https://www.v2ex.com/t/872734) ![](assets/new.png)  
-- [2022-08-14-现在网站挂支付是不是必须办-IPC-许可？](https://www.v2ex.com/t/872733) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -561,12 +561,14 @@
 - [2022-08-14-一块GPU训练TB级推荐模型不是梦，OneEmbedding性能一骑绝尘](https://toutiao.io/k/7okrabr) ![](assets/new.png)  
 - [2022-08-14-花三个小时，完全掌握分片渲染和虚拟列表](https://toutiao.io/k/0xhdw8v) ![](assets/new.png)  
 - [2022-08-14-【萌新解题】全排列](https://toutiao.io/k/p24notp) ![](assets/new.png)  
-- [2022-08-14-推荐-连流量染色都没有，你说要搞微服务？](https://toutiao.io/k/9k1wfc7) ![](assets/new.png)  
-- [2022-08-14-推荐-【设计模式】10分钟学懂UML类图](https://toutiao.io/k/wg4oeyc) ![](assets/new.png)  
+- [2022-08-14-TS-类型编程：索引类型递归去掉可选修饰](https://toutiao.io/k/thkpwa1) ![](assets/new.png)  
+- [2022-08-14-Tekton-实战完整示例](https://toutiao.io/k/jf8u2h7) ![](assets/new.png)  
 - [2022-08-14-推荐-京东面试：MQ-消息丢失、重复、积压问题，如何解决？](https://toutiao.io/k/1unx53z) ![](assets/new.png)  
-- [2022-08-14-推荐-【大厂面试真题解析】虾皮-Shopee-后端一面十四问](https://toutiao.io/k/pol71im) ![](assets/new.png)  
 - [2022-08-14-推荐-Java-大后端各种架构图汇总（建议收藏！！）](https://toutiao.io/k/dvo6z1w) ![](assets/new.png)  
+- [2022-08-14-推荐-【设计模式】10分钟学懂UML类图](https://toutiao.io/k/wg4oeyc) ![](assets/new.png)  
+- [2022-08-14-推荐-【大厂面试真题解析】虾皮-Shopee-后端一面十四问](https://toutiao.io/k/pol71im) ![](assets/new.png)  
 - [2022-08-14-推荐-研发过程中的文档管理与工具](https://toutiao.io/k/mdiqwn5) ![](assets/new.png)  
+- [2022-08-14-推荐-连流量染色都没有，你说要搞微服务？](https://toutiao.io/k/9k1wfc7) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

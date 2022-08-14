@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-08-14 05:38:30。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-08-14 06:17:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 前端进阶相关
 
@@ -7,5 +7,5 @@
 
 
 
+- [2022-08-14-kitty-作者说-tmux-waste-CPU-cycles，具体是指啥？](https://www.v2ex.com/t/872763) 
 - [2022-08-14-Xcode-的-Vim-模式体验十分舒服](https://www.v2ex.com/t/872718) 
-- [2022-08-13-全职/兼职远程-20K+/全栈开发工程师/英国电商物流](https://www.v2ex.com/t/872706) 

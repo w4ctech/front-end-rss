@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-08-14 09:39:58。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-08-14 10:15:00。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,8 @@
 </summary>
 
 
+- [【V2EX】2022-08-14-送激活码-🎉-Wins-for-macOS-正式发布啦！为-Mac-带来系统级分屏功能](https://www.v2ex.com/t/872787) 
+- [【V2EX】2022-08-14-我们是否生活在油漆里？](https://www.v2ex.com/t/872785) 
 - [【V2EX】2022-08-14-90-后是不是比-80-后更难在职场晋升？](https://www.v2ex.com/t/872781) 
 - [【V2EX】2022-08-14-体素系统游戏开发-Ethertia-以太效應-演示&寻佬](https://www.v2ex.com/t/872779) 
 - [【V2EX】2022-08-14-不知道什么经贴-有没有-5000-元以内的电脑椅推荐？](https://www.v2ex.com/t/872777) 
@@ -102,12 +104,6 @@
 - [【V2EX】2022-08-14-mainnet.infura.io-也被墙了](https://www.v2ex.com/t/872741) 
 - [【V2EX】2022-08-14-关于润去海外的问题](https://www.v2ex.com/t/872740) 
 - [【V2EX】2022-08-14-Mac-M1-无法升级系统，密码提示不对](https://www.v2ex.com/t/872739) 
-- [【V2EX】2022-08-14-mac-有哪些好用的播放器？原生-arm-通用的](https://www.v2ex.com/t/872738) 
-- [【V2EX】2022-08-14-ToDo-List---任务清单-：手撸了一个本地化、无需登录、简单的-ToDo-List-谷歌扩展插件-，欢迎使用和吐槽～](https://www.v2ex.com/t/872737) 
-- [【V2EX】2022-08-14-有没有一种终端配色的配置大全的网站](https://www.v2ex.com/t/872736) 
-- [【V2EX】2022-08-14-数据库集合返回一个-DTO-的集合。使用-Stream-Group-by-多个字段拼接进行分组，其中有需要根据-6-个字段进行分组的，有需要根据-4-个字段进行分组的，怎么比较‘...](https://www.v2ex.com/t/872735) 
-- [【V2EX】2022-08-14-为何有人讨论着会发个-gist-然后去那边发一长串](https://www.v2ex.com/t/872734) 
-- [【V2EX】2022-08-14-现在网站挂支付是不是必须办-IPC-许可？](https://www.v2ex.com/t/872733) 
 - [【技术头条】2022-08-14-API快速开发平台设计思考-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15289&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494493%26amp%3Bidx%3D2%26amp%3Bsn%3D0a8c5777a83b3a8e258fbc87cf99a5a1%26amp%3Bchksm%3Dfa3f0a06cd488310cc0d0f14d9ba2c67b676a2869bed0df3c1c5c32dfeda2c0b973c1d7f46df%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-08-14-别再乱搞了，快看优秀的代码是如何分层的！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15288&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494492%26amp%3Bidx%3D1%26amp%3Bsn%3D4d2b541cd0ba81b9acc397edfb735650%26amp%3Bchksm%3Dfa3f0a07cd488311b23c5e0c080092bd01875edc5be3e23b74a4ce3a171b8ef626d12f660484%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-08-14-Vue实现数组四级联动-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15287&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494492%26amp%3Bidx%3D2%26amp%3Bsn%3D1a3699a7c4490775d21ad7c82076d162%26amp%3Bchksm%3Dfa3f0a07cd4883110ff6766683036e3047417811b06c78952ac119614d0252c033e0a53d526b%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -139,12 +135,12 @@
 - [【开发者头条】2022-08-14-【萌新解题】全排列](https://toutiao.io/k/p24notp) 
 - [【开发者头条】2022-08-14-TS-类型编程：索引类型递归去掉可选修饰](https://toutiao.io/k/thkpwa1) 
 - [【开发者头条】2022-08-14-Tekton-实战完整示例](https://toutiao.io/k/jf8u2h7) 
-- [【开发者头条】2022-08-14-推荐-京东面试：MQ-消息丢失、重复、积压问题，如何解决？](https://toutiao.io/k/1unx53z) 
-- [【开发者头条】2022-08-14-推荐-连流量染色都没有，你说要搞微服务？](https://toutiao.io/k/9k1wfc7) 
-- [【开发者头条】2022-08-14-推荐-研发过程中的文档管理与工具](https://toutiao.io/k/mdiqwn5) 
-- [【开发者头条】2022-08-14-推荐-【大厂面试真题解析】虾皮-Shopee-后端一面十四问](https://toutiao.io/k/pol71im) 
-- [【开发者头条】2022-08-14-推荐-【设计模式】10分钟学懂UML类图](https://toutiao.io/k/wg4oeyc) 
 - [【开发者头条】2022-08-14-推荐-Java-大后端各种架构图汇总（建议收藏！！）](https://toutiao.io/k/dvo6z1w) 
+- [【开发者头条】2022-08-14-推荐-连流量染色都没有，你说要搞微服务？](https://toutiao.io/k/9k1wfc7) 
+- [【开发者头条】2022-08-14-推荐-【大厂面试真题解析】虾皮-Shopee-后端一面十四问](https://toutiao.io/k/pol71im) 
+- [【开发者头条】2022-08-14-推荐-京东面试：MQ-消息丢失、重复、积压问题，如何解决？](https://toutiao.io/k/1unx53z) 
+- [【开发者头条】2022-08-14-推荐-【设计模式】10分钟学懂UML类图](https://toutiao.io/k/wg4oeyc) 
+- [【开发者头条】2022-08-14-推荐-研发过程中的文档管理与工具](https://toutiao.io/k/mdiqwn5) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

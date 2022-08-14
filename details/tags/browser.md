@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-08-14 07:38:01。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-08-14 08:16:46。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -14,6 +14,8 @@
 - [2021-01-08-解药|新冠mRNA疫苗安全性有哪些挑战？](https://m.caixin.com/m/2021-01-08/101648043.html) 
 - [2021-01-01-大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html) 
 - [2022-06-12-基于文字的URL锚点定位与::target-text样式设置](https://www.zhangxinxu.com/wordpress/2022/06/url-anchor-target-text/) 
+- [2022-08-14-请教一个后端缓存一致性的问题](https://www.v2ex.com/t/872774) 
+- [2022-08-14-telegram-如何保障交易安全](https://www.v2ex.com/t/872772) 
 - [2022-08-14-关于异地组网的安全性讨论](https://www.v2ex.com/t/872770) 
 - [2022-08-14-Tor-浏览器安装在主机系统上安全吗](https://www.v2ex.com/t/872762) 
 - [2022-08-14-chrome-密码泄漏了，-才知道用-chrome-保存密码等于裸奔](https://www.v2ex.com/t/872745) 

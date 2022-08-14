@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-14 04:54:40，:rocket: 更新条数: +2018， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-14 05:14:41，:rocket: 更新条数: +2019， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,10 @@
 </summary>
 
 
+- [2022-08-14-macOS-最小化窗口并休眠后，重新亮屏-dock-栏窗口图标消失（仅有右下角-app-图标）](https://www.v2ex.com/t/872752) ![](assets/new.png)  
+- [2022-08-14-杭州住在滨江，但在未来科技城上班的多不多？](https://www.v2ex.com/t/872751) ![](assets/new.png)  
+- [2022-08-14-Youtube-订阅迁移](https://www.v2ex.com/t/872750) ![](assets/new.png)  
+- [2022-08-14-苹果健身可以获取其他国家的奖章么](https://www.v2ex.com/t/872749) ![](assets/new.png)  
 - [2022-08-14-国外知乎-Quora-直连](https://www.v2ex.com/t/872746) ![](assets/new.png)  
 - [2022-08-14-chrome-密码泄漏了，-才知道用-chrome-保存密码等于裸奔](https://www.v2ex.com/t/872745) ![](assets/new.png)  
 - [2022-08-14-KeePassXC-自动填充不得行啊](https://www.v2ex.com/t/872744) ![](assets/new.png)  
@@ -507,10 +511,6 @@
 - [2022-08-14-现在网站挂支付是不是必须办-IPC-许可？](https://www.v2ex.com/t/872733) ![](assets/new.png)  
 - [2022-08-14-M1-macbook-远程连接佳能-M50-有没有什么好的方案？](https://www.v2ex.com/t/872731) ![](assets/new.png)  
 - [2022-08-14-google-最近是不是不稳定](https://www.v2ex.com/t/872730) ![](assets/new.png)  
-- [2022-08-14-求教-Java-大佬，这是什么报错?下载报错还是解压报错？和-Java-版本或者解压软件有没有关系？](https://www.v2ex.com/t/872729) ![](assets/new.png)  
-- [2022-08-14-不讲究的一加手机-有用氢-OS-12-的朋友吗?-想知道一下体验如何](https://www.v2ex.com/t/872725) ![](assets/new.png)  
-- [2022-08-14-Macbook-pro-2021-14-寸选择的纠结](https://www.v2ex.com/t/872724) ![](assets/new.png)  
-- [2022-08-14-mac-有没有办法让搜狗输入法中文模式下，按-`-键（tab-上面那个键）不输入成中文符号的-·](https://www.v2ex.com/t/872723) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -557,15 +557,15 @@
 - [2022-08-14-携程海外MySQL数据复制实践](https://toutiao.io/k/tlkmfx5) ![](assets/new.png)  
 - [2022-08-14-计算机极简公开课推荐](https://toutiao.io/k/3n242s7) ![](assets/new.png)  
 - [2022-08-14-接口性能优化实战：从20s到500ms，三招搞定](https://toutiao.io/k/atde79x) ![](assets/new.png)  
-- [2022-08-14-一块GPU训练TB级推荐模型不是梦，OneEmbedding性能一骑绝尘](https://toutiao.io/k/7okrabr) ![](assets/new.png)  
 - [2022-08-14-一文聊透Netty核心引擎Reactor的运转架构](https://toutiao.io/k/law381n) ![](assets/new.png)  
+- [2022-08-14-一块GPU训练TB级推荐模型不是梦，OneEmbedding性能一骑绝尘](https://toutiao.io/k/7okrabr) ![](assets/new.png)  
 - [2022-08-14-花三个小时，完全掌握分片渲染和虚拟列表](https://toutiao.io/k/0xhdw8v) ![](assets/new.png)  
 - [2022-08-14-【萌新解题】全排列](https://toutiao.io/k/p24notp) ![](assets/new.png)  
-- [2022-08-14-推荐-研发过程中的文档管理与工具](https://toutiao.io/k/mdiqwn5) ![](assets/new.png)  
-- [2022-08-14-推荐-京东面试：MQ-消息丢失、重复、积压问题，如何解决？](https://toutiao.io/k/1unx53z) ![](assets/new.png)  
-- [2022-08-14-推荐-【大厂面试真题解析】虾皮-Shopee-后端一面十四问](https://toutiao.io/k/pol71im) ![](assets/new.png)  
-- [2022-08-14-推荐-Java-大后端各种架构图汇总（建议收藏！！）](https://toutiao.io/k/dvo6z1w) ![](assets/new.png)  
 - [2022-08-14-推荐-【设计模式】10分钟学懂UML类图](https://toutiao.io/k/wg4oeyc) ![](assets/new.png)  
+- [2022-08-14-推荐-【大厂面试真题解析】虾皮-Shopee-后端一面十四问](https://toutiao.io/k/pol71im) ![](assets/new.png)  
+- [2022-08-14-推荐-京东面试：MQ-消息丢失、重复、积压问题，如何解决？](https://toutiao.io/k/1unx53z) ![](assets/new.png)  
+- [2022-08-14-推荐-Java-大后端各种架构图汇总（建议收藏！！）](https://toutiao.io/k/dvo6z1w) ![](assets/new.png)  
+- [2022-08-14-推荐-研发过程中的文档管理与工具](https://toutiao.io/k/mdiqwn5) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

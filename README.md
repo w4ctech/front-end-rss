@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-15 03:40:20，:rocket: 更新条数: +2024， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-15 05:01:39，:rocket: 更新条数: +2020， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,19 @@
 </summary>
 
 
+- [2022-08-15-鼻炎犯了，好难受](https://www.v2ex.com/t/872949) ![](assets/new.png)  
+- [2022-08-15-最近经常收到-App-Store-消费的短信，频繁的时候一天几条](https://www.v2ex.com/t/872948) ![](assets/new.png)  
+- [2022-08-15-DMIT-怎么没有快照、防火墙之类的功能了](https://www.v2ex.com/t/872947) ![](assets/new.png)  
+- [2022-08-15-关于修真小说的一些疑问](https://www.v2ex.com/t/872945) ![](assets/new.png)  
+- [2022-08-15-苏州社保卡大概多久能收到？镜像问题：-https://www.v2ex.com/t/872820](https://www.v2ex.com/t/872943) ![](assets/new.png)  
+- [2022-08-15-为什么结婚要钻戒，还要三金？](https://www.v2ex.com/t/872942) ![](assets/new.png)  
+- [2022-08-15-小记，-django-select-字段中含有连表查询-分页优化](https://www.v2ex.com/t/872940) ![](assets/new.png)  
+- [2022-08-15-遇到这种领导，怎么处理比较好](https://www.v2ex.com/t/872938) ![](assets/new.png)  
+- [2022-08-15-从小到大没戴过眼镜，最近老爷说看手机不清，才意识到要给他配个老花镜了，老花镜有什么学问？买什么好？（500-以内）](https://www.v2ex.com/t/872937) ![](assets/new.png)  
+- [2022-08-15-请问有被偏头痛困扰的-v-友吗，进来交流一下预防/紧急止痛的方法](https://www.v2ex.com/t/872934) ![](assets/new.png)  
+- [2022-08-15-上海民宿婚礼咨询](https://www.v2ex.com/t/872932) ![](assets/new.png)  
+- [2022-08-15-请教：数据库表达类型，用字符串还是数字](https://www.v2ex.com/t/872931) ![](assets/new.png)  
+- [2022-08-15-硬盘盒认不到硬盘，有大佬给点思路吗？](https://www.v2ex.com/t/872930) ![](assets/new.png)  
 - [2022-08-15-第一次见大客户-有无礼物推荐？](https://www.v2ex.com/t/872929) ![](assets/new.png)  
 - [2022-08-15-接手一个用-clickhouse-的项目，负责人跑路，没人知道数据是从哪儿写入的](https://www.v2ex.com/t/872927) ![](assets/new.png)  
 - [2022-08-15-V-友们如何成功注册-Spotify-的？](https://www.v2ex.com/t/872925) ![](assets/new.png)  
@@ -498,19 +511,6 @@
 - [2022-08-15-日经贴:现在工作好不好找](https://www.v2ex.com/t/872923) ![](assets/new.png)  
 - [2022-08-15-怎么样写一个-API-网关](https://www.v2ex.com/t/872922) ![](assets/new.png)  
 - [2022-08-15-mac-的缩放该开多少合适？](https://www.v2ex.com/t/872921) ![](assets/new.png)  
-- [2022-08-15-XDM，请问下域名解析的相关问题](https://www.v2ex.com/t/872919) ![](assets/new.png)  
-- [2022-08-15-寻几个喜欢户外露营/自驾的朋友](https://www.v2ex.com/t/872918) ![](assets/new.png)  
-- [2022-08-15-Visual-Studio-Code-Python---2022-年-8-月更新---Web-应用程序的自动调试配置-,-使用体验改进](https://www.v2ex.com/t/872917) ![](assets/new.png)  
-- [2022-08-15-iOS-16-Beta-版已经很完善了，可升级](https://www.v2ex.com/t/872912) ![](assets/new.png)  
-- [2022-08-15-我也写了一份周刊，跟技术无关，请大家指教！](https://www.v2ex.com/t/872910) ![](assets/new.png)  
-- [2022-08-15-Rustc-源码学习---Lint-与-LintPass](https://www.v2ex.com/t/872909) ![](assets/new.png)  
-- [2022-08-15-求各位前辈推荐一些-Android-BSP主要是-HAL相关的资料/书籍](https://www.v2ex.com/t/872908) ![](assets/new.png)  
-- [2022-08-15-请问-LLVM-如何链接多个目标文件呢？](https://www.v2ex.com/t/872906) ![](assets/new.png)  
-- [2022-08-15-域名又涨价了！](https://www.v2ex.com/t/872905) ![](assets/new.png)  
-- [2022-08-15-反向激励制度?](https://www.v2ex.com/t/872904) ![](assets/new.png)  
-- [2022-08-15-分享一下我去日本的路线出国经历吧](https://www.v2ex.com/t/872902) ![](assets/new.png)  
-- [2022-08-15-有没有懂哥了解红旗新款-h5-的-2.0t-的，最近看的有点中毒了](https://www.v2ex.com/t/872900) ![](assets/new.png)  
-- [2022-08-15-电信霸王条款怎么破？](https://www.v2ex.com/t/872899) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -556,8 +556,8 @@
 - [2022-08-15-全网最全的权限系统设计方案（图解）](https://toutiao.io/k/lozkmee) ![](assets/new.png)  
 - [2022-08-15-麻了，代码改成多线程，竟有9大问题](https://toutiao.io/k/1lggdyi) ![](assets/new.png)  
 - [2022-08-15-抓到Netty一个Bug，顺带来透彻地聊一下Netty是如何高效接收网络连接的](https://toutiao.io/k/3vfg8nb) ![](assets/new.png)  
-- [2022-08-15-前端怎么样限制用户截图？](https://toutiao.io/k/80umzng) ![](assets/new.png)  
 - [2022-08-15-高效能团队的Java研发规范进阶版](https://toutiao.io/k/nud1jt6) ![](assets/new.png)  
+- [2022-08-15-前端怎么样限制用户截图？](https://toutiao.io/k/80umzng) ![](assets/new.png)  
 - [2022-08-15-顺丰快递：请签收MySQL灵魂十连](https://toutiao.io/k/oagb15c) ![](assets/new.png)  
 - [2022-08-15-优质网站同好者周刊（第-078-期）-|-倾城博客](https://toutiao.io/k/rveastt) ![](assets/new.png)  
 - [2022-08-15-读了100多本书后，我学到的10件事；32-道-Spring-常见面试总结｜码农周刊VIP会员专属邮件周报-Vol.103](https://toutiao.io/k/pwkxdkr) ![](assets/new.png)  
@@ -568,11 +568,11 @@
 - [2022-08-15-Serverless是简化的Kubernetes](https://toutiao.io/k/c7zj3mr) ![](assets/new.png)  
 - [2022-08-15-搜索引擎分布式系统思考实践](https://toutiao.io/k/8ppma6x) ![](assets/new.png)  
 - [2022-08-15-数据开发流程规范及数据监控](https://toutiao.io/k/idjecyr) ![](assets/new.png)  
-- [2022-08-15-推荐-连流量染色都没有，你说要搞微服务？](https://toutiao.io/k/9k1wfc7) ![](assets/new.png)  
 - [2022-08-15-推荐-Java-大后端各种架构图汇总（建议收藏！！）](https://toutiao.io/k/dvo6z1w) ![](assets/new.png)  
+- [2022-08-15-推荐-微服务接口设计原则](https://toutiao.io/k/4hjv10p) ![](assets/new.png)  
 - [2022-08-15-推荐-【设计模式】10分钟学懂UML类图](https://toutiao.io/k/wg4oeyc) ![](assets/new.png)  
+- [2022-08-15-推荐-连流量染色都没有，你说要搞微服务？](https://toutiao.io/k/9k1wfc7) ![](assets/new.png)  
 - [2022-08-15-推荐-研发过程中的文档管理与工具](https://toutiao.io/k/mdiqwn5) ![](assets/new.png)  
-- [2022-08-15-推荐-京东面试：MQ-消息丢失、重复、积压问题，如何解决？](https://toutiao.io/k/1unx53z) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

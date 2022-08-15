@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-15 13:15:16，:rocket: 更新条数: +2032， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-15 13:59:43，:rocket: 更新条数: +2032， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,12 @@
 </summary>
 
 
+- [2022-08-15-有饿了么的同学吗，为什么在-iOS-上占用了-5-个-GB](https://www.v2ex.com/t/873062) ![](assets/new.png)  
+- [2022-08-15-ArkID：开源的-IDaaS-系统全新上线](https://www.v2ex.com/t/873061) ![](assets/new.png)  
+- [2022-08-15-mac-mini-扩展坞里的-m.2-硬盘可以用来放什么数据？](https://www.v2ex.com/t/873060) ![](assets/new.png)  
+- [2022-08-15-求一个轻量级的-jquery-ui-draggable-替代品](https://www.v2ex.com/t/873059) ![](assets/new.png)  
+- [2022-08-15-19-年-16-寸-MBP-外接-4K-显示器](https://www.v2ex.com/t/873058) ![](assets/new.png)  
+- [2022-08-15-请教下现在-type-c-转接-hdmi-的事情](https://www.v2ex.com/t/873057) ![](assets/new.png)  
 - [2022-08-15-时间线+关系数据可视化](https://www.v2ex.com/t/873056) ![](assets/new.png)  
 - [2022-08-15-奇怪现象之-M1-芯片下安卓-APP-打包更大](https://www.v2ex.com/t/873055) ![](assets/new.png)  
 - [2022-08-15-win11-的自动暗黑模式/明亮模式自动切换不会改变任务栏?](https://www.v2ex.com/t/873054) ![](assets/new.png)  
@@ -505,12 +511,6 @@
 - [2022-08-15-顺义无偿领养猫咪](https://www.v2ex.com/t/873041) ![](assets/new.png)  
 - [2022-08-15-哪个-EVO-认证的笔记本支持-32GB-及以上的内存？](https://www.v2ex.com/t/873040) ![](assets/new.png)  
 - [2022-08-15-房贷提前还款划算吗？](https://www.v2ex.com/t/873039) ![](assets/new.png)  
-- [2022-08-15-是否存在无默认行为的代码格式化工具](https://www.v2ex.com/t/873038) ![](assets/new.png)  
-- [2022-08-15-不想背一辈子贷款，选择较远郊区的房子是否可行](https://www.v2ex.com/t/873036) ![](assets/new.png)  
-- [2022-08-15-厦门电信千兆-30G-无限流量（达标限速）119-元/月](https://www.v2ex.com/t/873035) ![](assets/new.png)  
-- [2022-08-15-mac-下有没有可以检查/监测可疑程序运行时，会扫描哪些本地硬盘文件的-app？侧重信息安全设计的](https://www.v2ex.com/t/873034) ![](assets/new.png)  
-- [2022-08-15-买车求各位大佬推荐](https://www.v2ex.com/t/873032) ![](assets/new.png)  
-- [2022-08-15-果然没让我失望，-百度的产品还是一如既往的糙啊](https://www.v2ex.com/t/873031) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -565,14 +565,14 @@
 - [2022-08-15-看了我的MyBatis-Plus用法，同事也开始悄悄模仿了...](https://toutiao.io/k/6k00rsq) ![](assets/new.png)  
 - [2022-08-15-数据开发流程规范及数据监控](https://toutiao.io/k/idjecyr) ![](assets/new.png)  
 - [2022-08-15-人工智能有大事发生，LeCun也转型了](https://toutiao.io/k/swos87i) ![](assets/new.png)  
-- [2022-08-15-开源kv引擎nutsdb-v0.10.0发布以及背后故事](https://toutiao.io/k/xrpkb3u) ![](assets/new.png)  
 - [2022-08-15-Serverless是简化的Kubernetes](https://toutiao.io/k/c7zj3mr) ![](assets/new.png)  
+- [2022-08-15-开源kv引擎nutsdb-v0.10.0发布以及背后故事](https://toutiao.io/k/xrpkb3u) ![](assets/new.png)  
 - [2022-08-15-搜索引擎分布式系统思考实践](https://toutiao.io/k/8ppma6x) ![](assets/new.png)  
 - [2022-08-15-Go-官方的恶臭表现，实在忍无可忍？](https://toutiao.io/k/g58499v) ![](assets/new.png)  
 - [2022-08-15-听，引擎的声音「GitHub-热点速览-v.22.33」](https://toutiao.io/k/plmz25u) ![](assets/new.png)  
-- [2022-08-15-持续交付管理](https://toutiao.io/k/uj0warp) ![](assets/new.png)  
 - [2022-08-15-图解-React-的-diff-算法：核心就两个字-——-复用](https://toutiao.io/k/ndrtjsm) ![](assets/new.png)  
-- [2022-08-15-推荐-【大厂面试真题解析】虾皮-Shopee-后端一面十四问](https://toutiao.io/k/pol71im) ![](assets/new.png)  
+- [2022-08-15-持续交付管理](https://toutiao.io/k/uj0warp) ![](assets/new.png)  
+- [2022-08-15-推荐-【设计模式】10分钟学懂UML类图](https://toutiao.io/k/wg4oeyc) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

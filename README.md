@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-15 11:37:53，:rocket: 更新条数: +2033， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-15 12:28:06，:rocket: 更新条数: +2032， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,7 +491,9 @@
 </summary>
 
 
-- [2022-08-15-spring-boot+spring-cloud,-基础的加载配置代码如何脱离容器运行？](https://www.v2ex.com/t/873047) ![](assets/new.png)  
+- [2022-08-15-两岁的小男孩，教他什么编程语言合适？](https://www.v2ex.com/t/873051) ![](assets/new.png)  
+- [2022-08-15-原典法学英语有效吗？](https://www.v2ex.com/t/873050) ![](assets/new.png)  
+- [2022-08-15-spring-boot+spring-cloud,-基础的加载配置代码如何脱离容器来运行？](https://www.v2ex.com/t/873047) ![](assets/new.png)  
 - [2022-08-15-萌新求教一下大佬们-C++教材](https://www.v2ex.com/t/873046) ![](assets/new.png)  
 - [2022-08-15-杭州现在回暖了吗](https://www.v2ex.com/t/873045) ![](assets/new.png)  
 - [2022-08-15-有哪个软件可以在一个日历上显示其他组员的工作计划](https://www.v2ex.com/t/873043) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-08-15-exFAT-也太浪费空间了吧。](https://www.v2ex.com/t/873029) ![](assets/new.png)  
 - [2022-08-15-esxi-安装的黑群晖-7.0.1-可以用-usb-连接的移动硬盘当挂载硬盘被-nas-使用吗？](https://www.v2ex.com/t/873028) ![](assets/new.png)  
 - [2022-08-15-ESP32-开发板有必要买官方的吗，淘宝上那些卖-20-多的板子是否靠谱？](https://www.v2ex.com/t/873027) ![](assets/new.png)  
-- [2022-08-15-如何让-chrome-不记录特定网站的浏览记录，除了无痕模式](https://www.v2ex.com/t/873024) ![](assets/new.png)  
-- [2022-08-15-微信-PC-客户端为何至今仍不支持-64Bit-版本，仍在使用-32Bit-呢？](https://www.v2ex.com/t/873023) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -572,7 +572,7 @@
 - [2022-08-15-听，引擎的声音「GitHub-热点速览-v.22.33」](https://toutiao.io/k/plmz25u) ![](assets/new.png)  
 - [2022-08-15-持续交付管理](https://toutiao.io/k/uj0warp) ![](assets/new.png)  
 - [2022-08-15-图解-React-的-diff-算法：核心就两个字-——-复用](https://toutiao.io/k/ndrtjsm) ![](assets/new.png)  
-- [2022-08-15-推荐-研发过程中的文档管理与工具](https://toutiao.io/k/mdiqwn5) ![](assets/new.png)  
+- [2022-08-15-推荐-【大厂面试真题解析】虾皮-Shopee-后端一面十四问](https://toutiao.io/k/pol71im) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

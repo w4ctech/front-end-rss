@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-15 10:16:34，:rocket: 更新条数: +2031， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-15 10:44:47，:rocket: 更新条数: +2034， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,11 @@
 </summary>
 
 
+- [2022-08-15-是否存在无默认行为的代码格式化工具](https://www.v2ex.com/t/873038) ![](assets/new.png)  
+- [2022-08-15-Apple-One-Premier-发新车（6-缺-5）](https://www.v2ex.com/t/873037) ![](assets/new.png)  
+- [2022-08-15-不想背一辈子贷款，选择较远郊区的房子是否可行](https://www.v2ex.com/t/873036) ![](assets/new.png)  
+- [2022-08-15-厦门电信千兆-30G-无限流量（达标限速）119-元/月](https://www.v2ex.com/t/873035) ![](assets/new.png)  
+- [2022-08-15-mac-下有没有可以检查/监测可疑程序运行时，会扫描哪些本地硬盘文件的-app？侧重信息安全设计的](https://www.v2ex.com/t/873034) ![](assets/new.png)  
 - [2022-08-15-买车求各位大佬推荐](https://www.v2ex.com/t/873032) ![](assets/new.png)  
 - [2022-08-15-果然没让我失望，-百度的产品还是一如既往的糙啊](https://www.v2ex.com/t/873031) ![](assets/new.png)  
 - [2022-08-15-除了-md5-有没有比较短的哈希算法](https://www.v2ex.com/t/873030) ![](assets/new.png)  
@@ -506,11 +511,6 @@
 - [2022-08-15-大家用几个号码，什么手机套餐分享下](https://www.v2ex.com/t/873017) ![](assets/new.png)  
 - [2022-08-15-elasticsearch-query-url-path-语法请教](https://www.v2ex.com/t/873016) ![](assets/new.png)  
 - [2022-08-15-既然现在不建议买房，那建议卖房吗？苏北](https://www.v2ex.com/t/873015) ![](assets/new.png)  
-- [2022-08-15-同样的节点，-Netflix-可以正常看。Disney+就不能看，怎么回事呀？](https://www.v2ex.com/t/873013) ![](assets/new.png)  
-- [2022-08-15-说说我这个大龄单身的想法](https://www.v2ex.com/t/873012) ![](assets/new.png)  
-- [2022-08-15-从做了个倒数日小助手，到了解农历（农历≠阴历）-|-附永久码](https://www.v2ex.com/t/873011) ![](assets/new.png)  
-- [2022-08-15-这是个啥风格的-api-啊?](https://www.v2ex.com/t/873010) ![](assets/new.png)  
-- [2022-08-15-webdav-的视频进度不能拖动](https://www.v2ex.com/t/873009) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -563,16 +563,16 @@
 - [2022-08-15-读了100多本书后，我学到的10件事；32-道-Spring-常见面试总结｜码农周刊VIP会员专属邮件周报-Vol.103](https://toutiao.io/k/pwkxdkr) ![](assets/new.png)  
 - [2022-08-15-技术实现-|-Apache-Doris-Binlog-导入设计与实现](https://toutiao.io/k/ev9p8cg) ![](assets/new.png)  
 - [2022-08-15-看了我的MyBatis-Plus用法，同事也开始悄悄模仿了...](https://toutiao.io/k/6k00rsq) ![](assets/new.png)  
+- [2022-08-15-数据开发流程规范及数据监控](https://toutiao.io/k/idjecyr) ![](assets/new.png)  
 - [2022-08-15-人工智能有大事发生，LeCun也转型了](https://toutiao.io/k/swos87i) ![](assets/new.png)  
 - [2022-08-15-开源kv引擎nutsdb-v0.10.0发布以及背后故事](https://toutiao.io/k/xrpkb3u) ![](assets/new.png)  
 - [2022-08-15-Serverless是简化的Kubernetes](https://toutiao.io/k/c7zj3mr) ![](assets/new.png)  
-- [2022-08-15-数据开发流程规范及数据监控](https://toutiao.io/k/idjecyr) ![](assets/new.png)  
 - [2022-08-15-搜索引擎分布式系统思考实践](https://toutiao.io/k/8ppma6x) ![](assets/new.png)  
 - [2022-08-15-Go-官方的恶臭表现，实在忍无可忍？](https://toutiao.io/k/g58499v) ![](assets/new.png)  
 - [2022-08-15-听，引擎的声音「GitHub-热点速览-v.22.33」](https://toutiao.io/k/plmz25u) ![](assets/new.png)  
 - [2022-08-15-持续交付管理](https://toutiao.io/k/uj0warp) ![](assets/new.png)  
 - [2022-08-15-图解-React-的-diff-算法：核心就两个字-——-复用](https://toutiao.io/k/ndrtjsm) ![](assets/new.png)  
-- [2022-08-15-推荐-【大厂面试真题解析】虾皮-Shopee-后端一面十四问](https://toutiao.io/k/pol71im) ![](assets/new.png)  
+- [2022-08-15-推荐-研发过程中的文档管理与工具](https://toutiao.io/k/mdiqwn5) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

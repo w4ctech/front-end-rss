@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-15 10:44:47，:rocket: 更新条数: +2034， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-15 11:12:26，:rocket: 更新条数: +2033， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,8 +491,12 @@
 </summary>
 
 
+- [2022-08-15-有哪个软件可以在一个日历上显示其他组员的工作计划](https://www.v2ex.com/t/873043) ![](assets/new.png)  
+- [2022-08-15-Raycast-的-Menu-Bar-Commands-太好用了](https://www.v2ex.com/t/873042) ![](assets/new.png)  
+- [2022-08-15-顺义无偿领养猫咪](https://www.v2ex.com/t/873041) ![](assets/new.png)  
+- [2022-08-15-哪个-EVO-认证的笔记本支持-32GB-及以上的内存？](https://www.v2ex.com/t/873040) ![](assets/new.png)  
+- [2022-08-15-房贷提前还款划算吗？](https://www.v2ex.com/t/873039) ![](assets/new.png)  
 - [2022-08-15-是否存在无默认行为的代码格式化工具](https://www.v2ex.com/t/873038) ![](assets/new.png)  
-- [2022-08-15-Apple-One-Premier-发新车（6-缺-5）](https://www.v2ex.com/t/873037) ![](assets/new.png)  
 - [2022-08-15-不想背一辈子贷款，选择较远郊区的房子是否可行](https://www.v2ex.com/t/873036) ![](assets/new.png)  
 - [2022-08-15-厦门电信千兆-30G-无限流量（达标限速）119-元/月](https://www.v2ex.com/t/873035) ![](assets/new.png)  
 - [2022-08-15-mac-下有没有可以检查/监测可疑程序运行时，会扫描哪些本地硬盘文件的-app？侧重信息安全设计的](https://www.v2ex.com/t/873034) ![](assets/new.png)  
@@ -507,10 +511,6 @@
 - [2022-08-15-有熟悉木工的么，求推荐油漆](https://www.v2ex.com/t/873021) ![](assets/new.png)  
 - [2022-08-15-关于想薅土区-Google-羊毛，-Google-转区与新注册的问题](https://www.v2ex.com/t/873020) ![](assets/new.png)  
 - [2022-08-15-为什么没有一个国外服务家庭共享需要蓝牙加入？](https://www.v2ex.com/t/873019) ![](assets/new.png)  
-- [2022-08-15-没有摩托车节点，就发到汽车节点吧，有没有大佬懂摩托的，帮忙看看哪个好一点](https://www.v2ex.com/t/873018) ![](assets/new.png)  
-- [2022-08-15-大家用几个号码，什么手机套餐分享下](https://www.v2ex.com/t/873017) ![](assets/new.png)  
-- [2022-08-15-elasticsearch-query-url-path-语法请教](https://www.v2ex.com/t/873016) ![](assets/new.png)  
-- [2022-08-15-既然现在不建议买房，那建议卖房吗？苏北](https://www.v2ex.com/t/873015) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -572,7 +572,7 @@
 - [2022-08-15-听，引擎的声音「GitHub-热点速览-v.22.33」](https://toutiao.io/k/plmz25u) ![](assets/new.png)  
 - [2022-08-15-持续交付管理](https://toutiao.io/k/uj0warp) ![](assets/new.png)  
 - [2022-08-15-图解-React-的-diff-算法：核心就两个字-——-复用](https://toutiao.io/k/ndrtjsm) ![](assets/new.png)  
-- [2022-08-15-推荐-研发过程中的文档管理与工具](https://toutiao.io/k/mdiqwn5) ![](assets/new.png)  
+- [2022-08-15-推荐-连流量染色都没有，你说要搞微服务？](https://toutiao.io/k/9k1wfc7) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

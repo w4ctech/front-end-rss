@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-15 11:12:26，:rocket: 更新条数: +2033， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-15 11:37:53，:rocket: 更新条数: +2033， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,9 @@
 </summary>
 
 
+- [2022-08-15-spring-boot+spring-cloud,-基础的加载配置代码如何脱离容器运行？](https://www.v2ex.com/t/873047) ![](assets/new.png)  
+- [2022-08-15-萌新求教一下大佬们-C++教材](https://www.v2ex.com/t/873046) ![](assets/new.png)  
+- [2022-08-15-杭州现在回暖了吗](https://www.v2ex.com/t/873045) ![](assets/new.png)  
 - [2022-08-15-有哪个软件可以在一个日历上显示其他组员的工作计划](https://www.v2ex.com/t/873043) ![](assets/new.png)  
 - [2022-08-15-Raycast-的-Menu-Bar-Commands-太好用了](https://www.v2ex.com/t/873042) ![](assets/new.png)  
 - [2022-08-15-顺义无偿领养猫咪](https://www.v2ex.com/t/873041) ![](assets/new.png)  
@@ -508,9 +511,6 @@
 - [2022-08-15-ESP32-开发板有必要买官方的吗，淘宝上那些卖-20-多的板子是否靠谱？](https://www.v2ex.com/t/873027) ![](assets/new.png)  
 - [2022-08-15-如何让-chrome-不记录特定网站的浏览记录，除了无痕模式](https://www.v2ex.com/t/873024) ![](assets/new.png)  
 - [2022-08-15-微信-PC-客户端为何至今仍不支持-64Bit-版本，仍在使用-32Bit-呢？](https://www.v2ex.com/t/873023) ![](assets/new.png)  
-- [2022-08-15-有熟悉木工的么，求推荐油漆](https://www.v2ex.com/t/873021) ![](assets/new.png)  
-- [2022-08-15-关于想薅土区-Google-羊毛，-Google-转区与新注册的问题](https://www.v2ex.com/t/873020) ![](assets/new.png)  
-- [2022-08-15-为什么没有一个国外服务家庭共享需要蓝牙加入？](https://www.v2ex.com/t/873019) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -572,7 +572,7 @@
 - [2022-08-15-听，引擎的声音「GitHub-热点速览-v.22.33」](https://toutiao.io/k/plmz25u) ![](assets/new.png)  
 - [2022-08-15-持续交付管理](https://toutiao.io/k/uj0warp) ![](assets/new.png)  
 - [2022-08-15-图解-React-的-diff-算法：核心就两个字-——-复用](https://toutiao.io/k/ndrtjsm) ![](assets/new.png)  
-- [2022-08-15-推荐-连流量染色都没有，你说要搞微服务？](https://toutiao.io/k/9k1wfc7) ![](assets/new.png)  
+- [2022-08-15-推荐-研发过程中的文档管理与工具](https://toutiao.io/k/mdiqwn5) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-08-15 11:12:26。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-08-15 11:37:53。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -242,7 +242,6 @@
 - [【武汉肺炎防疫全纪录(财新网)】林郑月娥率13高官直播接种科兴疫苗-复星疫苗预计周中到港](https://m.caixin.com/m/2021-02-22/101665724.html)
 - [【V2EX】webdav-的视频进度不能拖动](https://www.v2ex.com/t/873009)
 - [【V2EX】直播行业的-V-友可以认识一下，交流下现在行业现状](https://www.v2ex.com/t/873005)
-- [【V2EX】Windows-下有什么支持触屏手势的视频播放器吗？](https://www.v2ex.com/t/872995)
 - [......【查看更多】......](./details/tags/audio-video.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -259,6 +258,7 @@
 
 
 
+- [【V2EX】spring-boot+spring-cloud,-基础的加载配置代码如何脱离容器运行？](https://www.v2ex.com/t/873047)
 - [......【查看更多】......](./details/tags/optimization.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

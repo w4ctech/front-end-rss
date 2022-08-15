@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-15 15:16:06，:rocket: 更新条数: +2032， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-15 15:45:50，:rocket: 更新条数: +2034， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,12 @@
 </summary>
 
 
+- [2022-08-15-八月二十号，推荐一个成都的活动，挺有意思的，希望理工男程序员能报名参加。](https://www.v2ex.com/t/873077) ![](assets/new.png)  
+- [2022-08-15-25-块的-Magsafe-能用吗](https://www.v2ex.com/t/873076) ![](assets/new.png)  
+- [2022-08-15-有在美国本科读-AI-相关课程的-V-友吗，可以说一下你们-ML-和-DL-用什么教材吗？](https://www.v2ex.com/t/873075) ![](assets/new.png)  
+- [2022-08-15-Go-有-gc-的话，创建结构体是直接创建还是用-new-好？](https://www.v2ex.com/t/873074) ![](assets/new.png)  
+- [2022-08-15-学技术，看-o-reilly-的书好，还是-in-action-系列好？](https://www.v2ex.com/t/873073) ![](assets/new.png)  
+- [2022-08-15-2022-款联想小新-Pro14-能入吗](https://www.v2ex.com/t/873072) ![](assets/new.png)  
 - [2022-08-15-AMD-+-联想小新-=-Yes!](https://www.v2ex.com/t/873071) ![](assets/new.png)  
 - [2022-08-15-求推荐-vue3-+-typescript-最佳实践的文章或视频](https://www.v2ex.com/t/873070) ![](assets/new.png)  
 - [2022-08-15-求老哥们给些建议，研究生三年学习规划](https://www.v2ex.com/t/873069) ![](assets/new.png)  
@@ -505,12 +511,6 @@
 - [2022-08-15-求一个轻量级的-jquery-ui-draggable-替代品](https://www.v2ex.com/t/873059) ![](assets/new.png)  
 - [2022-08-15-19-年-16-寸-MBP-外接-4K-显示器](https://www.v2ex.com/t/873058) ![](assets/new.png)  
 - [2022-08-15-请教下现在-type-c-转接-hdmi-的事情](https://www.v2ex.com/t/873057) ![](assets/new.png)  
-- [2022-08-15-时间线+关系数据可视化](https://www.v2ex.com/t/873056) ![](assets/new.png)  
-- [2022-08-15-奇怪现象之-M1-芯片下安卓-APP-打包更大](https://www.v2ex.com/t/873055) ![](assets/new.png)  
-- [2022-08-15-win11-的自动暗黑模式/明亮模式自动切换不会改变任务栏?](https://www.v2ex.com/t/873054) ![](assets/new.png)  
-- [2022-08-15-学习-nginx，遇到文件夹改名了无法访问的问题](https://www.v2ex.com/t/873052) ![](assets/new.png)  
-- [2022-08-15-两岁的小男孩，教他什么编程语言合适？](https://www.v2ex.com/t/873051) ![](assets/new.png)  
-- [2022-08-15-原典法学英语有效吗？](https://www.v2ex.com/t/873050) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -560,8 +560,8 @@
 - [2022-08-15-顺丰快递：请签收MySQL灵魂十连](https://toutiao.io/k/oagb15c) ![](assets/new.png)  
 - [2022-08-15-前端怎么样限制用户截图？](https://toutiao.io/k/80umzng) ![](assets/new.png)  
 - [2022-08-15-优质网站同好者周刊（第-078-期）-|-倾城博客](https://toutiao.io/k/rveastt) ![](assets/new.png)  
-- [2022-08-15-读了100多本书后，我学到的10件事；32-道-Spring-常见面试总结｜码农周刊VIP会员专属邮件周报-Vol.103](https://toutiao.io/k/pwkxdkr) ![](assets/new.png)  
 - [2022-08-15-看了我的MyBatis-Plus用法，同事也开始悄悄模仿了...](https://toutiao.io/k/6k00rsq) ![](assets/new.png)  
+- [2022-08-15-读了100多本书后，我学到的10件事；32-道-Spring-常见面试总结｜码农周刊VIP会员专属邮件周报-Vol.103](https://toutiao.io/k/pwkxdkr) ![](assets/new.png)  
 - [2022-08-15-技术实现-|-Apache-Doris-Binlog-导入设计与实现](https://toutiao.io/k/ev9p8cg) ![](assets/new.png)  
 - [2022-08-15-数据开发流程规范及数据监控](https://toutiao.io/k/idjecyr) ![](assets/new.png)  
 - [2022-08-15-人工智能有大事发生，LeCun也转型了](https://toutiao.io/k/swos87i) ![](assets/new.png)  
@@ -572,7 +572,7 @@
 - [2022-08-15-听，引擎的声音「GitHub-热点速览-v.22.33」](https://toutiao.io/k/plmz25u) ![](assets/new.png)  
 - [2022-08-15-持续交付管理](https://toutiao.io/k/uj0warp) ![](assets/new.png)  
 - [2022-08-15-图解-React-的-diff-算法：核心就两个字-——-复用](https://toutiao.io/k/ndrtjsm) ![](assets/new.png)  
-- [2022-08-15-推荐-连流量染色都没有，你说要搞微服务？](https://toutiao.io/k/9k1wfc7) ![](assets/new.png)  
+- [2022-08-15-推荐-微服务接口设计原则](https://toutiao.io/k/4hjv10p) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

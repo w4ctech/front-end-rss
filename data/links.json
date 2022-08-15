@@ -9953,6 +9953,36 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "八月二十号，推荐一个成都的活动，挺有意思的，希望理工男程序员能报名参加。",
+        "link": "https://www.v2ex.com/t/873077",
+        "date": "2022-08-15"
+      },
+      {
+        "title": "25 块的 Magsafe 能用吗",
+        "link": "https://www.v2ex.com/t/873076",
+        "date": "2022-08-15"
+      },
+      {
+        "title": "有在美国本科读 AI 相关课程的 V 友吗，可以说一下你们 ML 和 DL 用什么教材吗？",
+        "link": "https://www.v2ex.com/t/873075",
+        "date": "2022-08-15"
+      },
+      {
+        "title": "Go 有 gc 的话，创建结构体是直接创建还是用 new 好？",
+        "link": "https://www.v2ex.com/t/873074",
+        "date": "2022-08-15"
+      },
+      {
+        "title": "学技术，看 o reilly 的书好，还是 in action 系列好？",
+        "link": "https://www.v2ex.com/t/873073",
+        "date": "2022-08-15"
+      },
+      {
+        "title": "2022 款联想小新 Pro14 能入吗",
+        "link": "https://www.v2ex.com/t/873072",
+        "date": "2022-08-15"
+      },
+      {
         "title": "AMD + 联想小新 = Yes!",
         "link": "https://www.v2ex.com/t/873071",
         "date": "2022-08-15"
@@ -10131,26 +10161,6 @@
         "title": "exFAT 也太浪费空间了吧。",
         "link": "https://www.v2ex.com/t/873029",
         "date": "2022-08-15"
-      },
-      {
-        "title": "esxi 安装的黑群晖 7.0.1 可以用 usb 连接的移动硬盘当挂载硬盘被 nas 使用吗？",
-        "link": "https://www.v2ex.com/t/873028",
-        "date": "2022-08-15"
-      },
-      {
-        "title": "ESP32 开发板有必要买官方的吗，淘宝上那些卖 20 多的板子是否靠谱？",
-        "link": "https://www.v2ex.com/t/873027",
-        "date": "2022-08-15"
-      },
-      {
-        "title": "如何让 chrome 不记录特定网站的浏览记录，除了无痕模式",
-        "link": "https://www.v2ex.com/t/873024",
-        "date": "2022-08-15"
-      },
-      {
-        "title": "微信 PC 客户端为何至今仍不支持 64Bit 版本，仍在使用 32Bit 呢？",
-        "link": "https://www.v2ex.com/t/873023",
-        "date": "2022-08-15"
       }
     ]
   },
@@ -10302,13 +10312,13 @@
         "date": "2022-08-15"
       },
       {
-        "title": "读了100多本书后，我学到的10件事；32 道 Spring 常见面试总结｜码农周刊VIP会员专属邮件周报 Vol.103",
-        "link": "https://toutiao.io/k/pwkxdkr",
+        "title": "看了我的MyBatis-Plus用法，同事也开始悄悄模仿了...",
+        "link": "https://toutiao.io/k/6k00rsq",
         "date": "2022-08-15"
       },
       {
-        "title": "看了我的MyBatis-Plus用法，同事也开始悄悄模仿了...",
-        "link": "https://toutiao.io/k/6k00rsq",
+        "title": "读了100多本书后，我学到的10件事；32 道 Spring 常见面试总结｜码农周刊VIP会员专属邮件周报 Vol.103",
+        "link": "https://toutiao.io/k/pwkxdkr",
         "date": "2022-08-15"
       },
       {
@@ -10362,28 +10372,8 @@
         "date": "2022-08-15"
       },
       {
-        "title": "[推荐] 连流量染色都没有，你说要搞微服务？",
-        "link": "https://toutiao.io/k/9k1wfc7",
-        "date": "2022-08-15"
-      },
-      {
-        "title": "[推荐] 【大厂面试真题解析】虾皮 Shopee 后端一面十四问",
-        "link": "https://toutiao.io/k/pol71im",
-        "date": "2022-08-15"
-      },
-      {
-        "title": "[推荐] 【设计模式】10分钟学懂UML类图",
-        "link": "https://toutiao.io/k/wg4oeyc",
-        "date": "2022-08-15"
-      },
-      {
-        "title": "[推荐] 研发过程中的文档管理与工具",
-        "link": "https://toutiao.io/k/mdiqwn5",
-        "date": "2022-08-15"
-      },
-      {
-        "title": "[推荐] Java 大后端各种架构图汇总（建议收藏！！）",
-        "link": "https://toutiao.io/k/dvo6z1w",
+        "title": "[推荐] 微服务接口设计原则",
+        "link": "https://toutiao.io/k/4hjv10p",
         "date": "2022-08-15"
       },
       {
@@ -10392,8 +10382,28 @@
         "date": "2022-08-15"
       },
       {
-        "title": "[推荐] 微服务接口设计原则",
-        "link": "https://toutiao.io/k/4hjv10p",
+        "title": "[推荐] Java 大后端各种架构图汇总（建议收藏！！）",
+        "link": "https://toutiao.io/k/dvo6z1w",
+        "date": "2022-08-15"
+      },
+      {
+        "title": "[推荐] 研发过程中的文档管理与工具",
+        "link": "https://toutiao.io/k/mdiqwn5",
+        "date": "2022-08-15"
+      },
+      {
+        "title": "[推荐] 【设计模式】10分钟学懂UML类图",
+        "link": "https://toutiao.io/k/wg4oeyc",
+        "date": "2022-08-15"
+      },
+      {
+        "title": "[推荐] 连流量染色都没有，你说要搞微服务？",
+        "link": "https://toutiao.io/k/9k1wfc7",
+        "date": "2022-08-15"
+      },
+      {
+        "title": "[推荐] 【大厂面试真题解析】虾皮 Shopee 后端一面十四问",
+        "link": "https://toutiao.io/k/pol71im",
         "date": "2022-08-15"
       }
     ]

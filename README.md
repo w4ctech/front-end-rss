@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-15 13:59:43，:rocket: 更新条数: +2032， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-15 14:19:34，:rocket: 更新条数: +2033， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-08-15-路由器开启-DHCP，手机设置静态-ip-会不会冲突](https://www.v2ex.com/t/873064) ![](assets/new.png)  
+- [2022-08-15-连续-3-个月凌晨-1-2-点才睡，人都快废了。](https://www.v2ex.com/t/873063) ![](assets/new.png)  
 - [2022-08-15-有饿了么的同学吗，为什么在-iOS-上占用了-5-个-GB](https://www.v2ex.com/t/873062) ![](assets/new.png)  
 - [2022-08-15-ArkID：开源的-IDaaS-系统全新上线](https://www.v2ex.com/t/873061) ![](assets/new.png)  
 - [2022-08-15-mac-mini-扩展坞里的-m.2-硬盘可以用来放什么数据？](https://www.v2ex.com/t/873060) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-08-15-有哪个软件可以在一个日历上显示其他组员的工作计划](https://www.v2ex.com/t/873043) ![](assets/new.png)  
 - [2022-08-15-Raycast-的-Menu-Bar-Commands-太好用了](https://www.v2ex.com/t/873042) ![](assets/new.png)  
 - [2022-08-15-顺义无偿领养猫咪](https://www.v2ex.com/t/873041) ![](assets/new.png)  
-- [2022-08-15-哪个-EVO-认证的笔记本支持-32GB-及以上的内存？](https://www.v2ex.com/t/873040) ![](assets/new.png)  
-- [2022-08-15-房贷提前还款划算吗？](https://www.v2ex.com/t/873039) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -561,8 +561,8 @@
 - [2022-08-15-顺丰快递：请签收MySQL灵魂十连](https://toutiao.io/k/oagb15c) ![](assets/new.png)  
 - [2022-08-15-优质网站同好者周刊（第-078-期）-|-倾城博客](https://toutiao.io/k/rveastt) ![](assets/new.png)  
 - [2022-08-15-读了100多本书后，我学到的10件事；32-道-Spring-常见面试总结｜码农周刊VIP会员专属邮件周报-Vol.103](https://toutiao.io/k/pwkxdkr) ![](assets/new.png)  
-- [2022-08-15-技术实现-|-Apache-Doris-Binlog-导入设计与实现](https://toutiao.io/k/ev9p8cg) ![](assets/new.png)  
 - [2022-08-15-看了我的MyBatis-Plus用法，同事也开始悄悄模仿了...](https://toutiao.io/k/6k00rsq) ![](assets/new.png)  
+- [2022-08-15-技术实现-|-Apache-Doris-Binlog-导入设计与实现](https://toutiao.io/k/ev9p8cg) ![](assets/new.png)  
 - [2022-08-15-数据开发流程规范及数据监控](https://toutiao.io/k/idjecyr) ![](assets/new.png)  
 - [2022-08-15-人工智能有大事发生，LeCun也转型了](https://toutiao.io/k/swos87i) ![](assets/new.png)  
 - [2022-08-15-Serverless是简化的Kubernetes](https://toutiao.io/k/c7zj3mr) ![](assets/new.png)  
@@ -572,7 +572,7 @@
 - [2022-08-15-听，引擎的声音「GitHub-热点速览-v.22.33」](https://toutiao.io/k/plmz25u) ![](assets/new.png)  
 - [2022-08-15-图解-React-的-diff-算法：核心就两个字-——-复用](https://toutiao.io/k/ndrtjsm) ![](assets/new.png)  
 - [2022-08-15-持续交付管理](https://toutiao.io/k/uj0warp) ![](assets/new.png)  
-- [2022-08-15-推荐-【设计模式】10分钟学懂UML类图](https://toutiao.io/k/wg4oeyc) ![](assets/new.png)  
+- [2022-08-15-推荐-京东面试：MQ-消息丢失、重复、积压问题，如何解决？](https://toutiao.io/k/1unx53z) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

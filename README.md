@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-15 07:39:34，:rocket: 更新条数: +2031， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-15 08:18:19，:rocket: 更新条数: +2032， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,13 @@
 </summary>
 
 
+- [2022-08-15-王历元年-34-年（2022-年），我在咚都的繁华中继续挣扎漂流时，想起来了喝孟婆汤前的情景！](https://www.v2ex.com/t/872999) ![](assets/new.png)  
+- [2022-08-15-联通到东京-AWS-的线路是不是出问题了？](https://www.v2ex.com/t/872998) ![](assets/new.png)  
+- [2022-08-15-最近金豆子火了](https://www.v2ex.com/t/872997) ![](assets/new.png)  
+- [2022-08-15-Windows-下有什么支持触屏手势的视频播放器吗？](https://www.v2ex.com/t/872995) ![](assets/new.png)  
+- [2022-08-15-联通的号码可以在手机上开通-eSIM-么？](https://www.v2ex.com/t/872994) ![](assets/new.png)  
+- [2022-08-15-有要比熊的吗？](https://www.v2ex.com/t/872993) ![](assets/new.png)  
+- [2022-08-15-macOS/iOS-原生书签应用/稍后读应用-Anybox-大更新：现在可自动截屏网页](https://www.v2ex.com/t/872992) ![](assets/new.png)  
 - [2022-08-15-电子书阅读器推荐](https://www.v2ex.com/t/872991) ![](assets/new.png)  
 - [2022-08-15-onedrive-mac同步-XMind-文件，文件大小变-1.1TB-无法正常使用](https://www.v2ex.com/t/872990) ![](assets/new.png)  
 - [2022-08-15-v-友有没有装修经验的，求个闭坑指南，想装修。。](https://www.v2ex.com/t/872989) ![](assets/new.png)  
@@ -504,13 +511,6 @@
 - [2022-08-15-vue-项目单步调试还是-console.log？](https://www.v2ex.com/t/872978) ![](assets/new.png)  
 - [2022-08-15-有没有用-echo-的兄弟，怎么判断-echo-服务启动成功，然后执行一些其他逻辑的](https://www.v2ex.com/t/872977) ![](assets/new.png)  
 - [2022-08-15-请教大家，用鼠须管输入法，怎么选字后直接上屏，而不是进入待定状态。](https://www.v2ex.com/t/872976) ![](assets/new.png)  
-- [2022-08-15-BOSS-直聘的那种-im-聊天的是怎么实现的呢](https://www.v2ex.com/t/872975) ![](assets/new.png)  
-- [2022-08-15-请大家推荐个-Mac-能用的鼠标](https://www.v2ex.com/t/872974) ![](assets/new.png)  
-- [2022-08-15-thinkpad-部分按键无反应，驱动正常](https://www.v2ex.com/t/872973) ![](assets/new.png)  
-- [2022-08-15-腾讯视频-TV-版，如何屏蔽更新？](https://www.v2ex.com/t/872972) ![](assets/new.png)  
-- [2022-08-15-Mac-版剪映导出视频，一会就会后台退出](https://www.v2ex.com/t/872971) ![](assets/new.png)  
-- [2022-08-15-最后一面挂了](https://www.v2ex.com/t/872970) ![](assets/new.png)  
-- [2022-08-15-这种几乎挡住全脸的图像，需要识别有没有戴口罩和墨镜，有什么实现思路？](https://www.v2ex.com/t/872968) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -572,7 +572,7 @@
 - [2022-08-15-听，引擎的声音「GitHub-热点速览-v.22.33」](https://toutiao.io/k/plmz25u) ![](assets/new.png)  
 - [2022-08-15-持续交付管理](https://toutiao.io/k/uj0warp) ![](assets/new.png)  
 - [2022-08-15-图解-React-的-diff-算法：核心就两个字-——-复用](https://toutiao.io/k/ndrtjsm) ![](assets/new.png)  
-- [2022-08-15-推荐-【大厂面试真题解析】虾皮-Shopee-后端一面十四问](https://toutiao.io/k/pol71im) ![](assets/new.png)  
+- [2022-08-15-推荐-【设计模式】10分钟学懂UML类图](https://toutiao.io/k/wg4oeyc) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

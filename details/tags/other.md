@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-08-15 23:03:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-08-15 23:15:32。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,7 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-08-15-自建-bitwarden-iOS-客户端无法登录](https://www.v2ex.com/t/873088) 
 - [2022-08-15-Wechat-绑定+86-手机号失败](https://www.v2ex.com/t/873087) 
 - [2022-08-15-连续跑了-999-天了](https://www.v2ex.com/t/873086) 
 - [2022-08-15-应该是马尔可夫链的问题](https://www.v2ex.com/t/873085) 
@@ -1946,7 +1947,6 @@
 - [2022-08-15-顺义无偿领养猫咪](https://www.v2ex.com/t/873041) 
 - [2022-08-15-哪个-EVO-认证的笔记本支持-32GB-及以上的内存？](https://www.v2ex.com/t/873040) 
 - [2022-08-15-房贷提前还款划算吗？](https://www.v2ex.com/t/873039) 
-- [2022-08-15-是否存在无默认行为的代码格式化工具](https://www.v2ex.com/t/873038) 
 - [2022-08-15-API快速开发平台设计思考-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15289&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494493%26amp%3Bidx%3D2%26amp%3Bsn%3D0a8c5777a83b3a8e258fbc87cf99a5a1%26amp%3Bchksm%3Dfa3f0a06cd488310cc0d0f14d9ba2c67b676a2869bed0df3c1c5c32dfeda2c0b973c1d7f46df%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-08-15-别再乱搞了，快看优秀的代码是如何分层的！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15288&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494492%26amp%3Bidx%3D1%26amp%3Bsn%3D4d2b541cd0ba81b9acc397edfb735650%26amp%3Bchksm%3Dfa3f0a07cd488311b23c5e0c080092bd01875edc5be3e23b74a4ce3a171b8ef626d12f660484%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-08-15-程序员眼中最有价值的10条开发经验-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15286&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494491%26amp%3Bidx%3D1%26amp%3Bsn%3D274ddfa1d8ad38b1ba9b8e74433e4d6e%26amp%3Bchksm%3Dfa3f0a00cd488316da8dfa3662b19d82e4c858741ac0da99e555b1711a428e378ccada9281f8%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1976,6 +1976,6 @@
 - [2022-08-15-Go-官方的恶臭表现，实在忍无可忍？](https://toutiao.io/k/g58499v) 
 - [2022-08-15-持续交付管理](https://toutiao.io/k/uj0warp) 
 - [2022-08-15-推荐-Java-大后端各种架构图汇总（建议收藏！！）](https://toutiao.io/k/dvo6z1w) 
-- [2022-08-15-推荐-微服务接口设计原则](https://toutiao.io/k/4hjv10p) 
 - [2022-08-15-推荐-掌握这些-SpringBoot-启动扩展点，已经超过-90%-的人了](https://toutiao.io/k/3m8iq2m) 
 - [2022-08-15-推荐-连流量染色都没有，你说要搞微服务？](https://toutiao.io/k/9k1wfc7) 
+- [2022-08-15-推荐-微服务接口设计原则](https://toutiao.io/k/4hjv10p) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-15 23:03:25，:rocket: 更新条数: +2034， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-15 23:15:32，:rocket: 更新条数: +2034， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-08-15-自建-bitwarden-iOS-客户端无法登录](https://www.v2ex.com/t/873088) ![](assets/new.png)  
 - [2022-08-15-Wechat-绑定+86-手机号失败](https://www.v2ex.com/t/873087) ![](assets/new.png)  
 - [2022-08-15-连续跑了-999-天了](https://www.v2ex.com/t/873086) ![](assets/new.png)  
 - [2022-08-15-应该是马尔可夫链的问题](https://www.v2ex.com/t/873085) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-08-15-求老哥们给些建议，研究生三年学习规划](https://www.v2ex.com/t/873069) ![](assets/new.png)  
 - [2022-08-15-OpenWRT-miniupnp-异常-coredump-退出](https://www.v2ex.com/t/873068) ![](assets/new.png)  
 - [2022-08-15-苹果或大幅度增加-iOS-广告，付费订阅也不能幸免](https://www.v2ex.com/t/873067) ![](assets/new.png)  
-- [2022-08-15-在此立誓，认真搞钱](https://www.v2ex.com/t/873065) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

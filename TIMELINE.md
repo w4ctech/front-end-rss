@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-08-15 09:41:16。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-08-15 10:16:34。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,15 @@
 </summary>
 
 
+- [【V2EX】2022-08-15-买车求各位大佬推荐](https://www.v2ex.com/t/873032) 
+- [【V2EX】2022-08-15-果然没让我失望，-百度的产品还是一如既往的糙啊](https://www.v2ex.com/t/873031) 
+- [【V2EX】2022-08-15-除了-md5-有没有比较短的哈希算法](https://www.v2ex.com/t/873030) 
+- [【V2EX】2022-08-15-exFAT-也太浪费空间了吧。](https://www.v2ex.com/t/873029) 
+- [【V2EX】2022-08-15-esxi-安装的黑群晖-7.0.1-可以用-usb-连接的移动硬盘当挂载硬盘被-nas-使用吗？](https://www.v2ex.com/t/873028) 
+- [【V2EX】2022-08-15-ESP32-开发板有必要买官方的吗，淘宝上那些卖-20-多的板子是否靠谱？](https://www.v2ex.com/t/873027) 
+- [【V2EX】2022-08-15-如何让-chrome-不记录特定网站的浏览记录，除了无痕模式](https://www.v2ex.com/t/873024) 
+- [【V2EX】2022-08-15-微信-PC-客户端为何至今仍不支持-64Bit-版本，仍在使用-32Bit-呢？](https://www.v2ex.com/t/873023) 
+- [【V2EX】2022-08-15-有熟悉木工的么，求推荐油漆](https://www.v2ex.com/t/873021) 
 - [【V2EX】2022-08-15-关于想薅土区-Google-羊毛，-Google-转区与新注册的问题](https://www.v2ex.com/t/873020) 
 - [【V2EX】2022-08-15-为什么没有一个国外服务家庭共享需要蓝牙加入？](https://www.v2ex.com/t/873019) 
 - [【V2EX】2022-08-15-没有摩托车节点，就发到汽车节点吧，有没有大佬懂摩托的，帮忙看看哪个好一点](https://www.v2ex.com/t/873018) 
@@ -98,19 +107,6 @@
 - [【V2EX】2022-08-15-v-友有没有装修经验的，求个闭坑指南，想装修。。](https://www.v2ex.com/t/872989) 
 - [【V2EX】2022-08-15-4k-或者-2k-显示器竖屏推荐-2022-年-8-月](https://www.v2ex.com/t/872988) 
 - [【V2EX】2022-08-15-免费领-5-天喜马拉雅会员！喜马拉雅联合会员活动，买-1-得-12！-39-元购叮咚买菜年卡！](https://www.v2ex.com/t/872986) 
-- [【V2EX】2022-08-15-手机长期热点伤电池，是否有依据](https://www.v2ex.com/t/872983) 
-- [【V2EX】2022-08-15-centos-不维护后，还有哪些好的-server-端-os-可以替代-centos？](https://www.v2ex.com/t/872982) 
-- [【V2EX】2022-08-15-Maven-依赖包的问题](https://www.v2ex.com/t/872981) 
-- [【V2EX】2022-08-15-网站运维工程师（影视类、视频网站）：年薪-30w-起步，单休，远程工作：](https://www.v2ex.com/t/872980) 
-- [【V2EX】2022-08-15-我正在录一套比较深入的-TypeScript-课程，无废话](https://www.v2ex.com/t/872979) 
-- [【V2EX】2022-08-15-vue-项目单步调试还是-console.log？](https://www.v2ex.com/t/872978) 
-- [【V2EX】2022-08-15-有没有用-echo-的兄弟，怎么判断-echo-服务启动成功，然后执行一些其他逻辑的](https://www.v2ex.com/t/872977) 
-- [【V2EX】2022-08-15-请教大家，用鼠须管输入法，怎么选字后直接上屏，而不是进入待定状态。](https://www.v2ex.com/t/872976) 
-- [【V2EX】2022-08-15-BOSS-直聘的那种-im-聊天的是怎么实现的呢](https://www.v2ex.com/t/872975) 
-- [【V2EX】2022-08-15-请大家推荐个-Mac-能用的鼠标](https://www.v2ex.com/t/872974) 
-- [【V2EX】2022-08-15-thinkpad-部分按键无反应，驱动正常](https://www.v2ex.com/t/872973) 
-- [【V2EX】2022-08-15-腾讯视频-TV-版，如何屏蔽更新？](https://www.v2ex.com/t/872972) 
-- [【V2EX】2022-08-15-Mac-版剪映导出视频，一会就会后台退出](https://www.v2ex.com/t/872971) 
 - [【技术头条】2022-08-15-API快速开发平台设计思考-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15289&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494493%26amp%3Bidx%3D2%26amp%3Bsn%3D0a8c5777a83b3a8e258fbc87cf99a5a1%26amp%3Bchksm%3Dfa3f0a06cd488310cc0d0f14d9ba2c67b676a2869bed0df3c1c5c32dfeda2c0b973c1d7f46df%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-08-15-别再乱搞了，快看优秀的代码是如何分层的！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15288&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494492%26amp%3Bidx%3D1%26amp%3Bsn%3D4d2b541cd0ba81b9acc397edfb735650%26amp%3Bchksm%3Dfa3f0a07cd488311b23c5e0c080092bd01875edc5be3e23b74a4ce3a171b8ef626d12f660484%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-08-15-Vue实现数组四级联动-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15287&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494492%26amp%3Bidx%3D2%26amp%3Bsn%3D1a3699a7c4490775d21ad7c82076d162%26amp%3Bchksm%3Dfa3f0a07cd4883110ff6766683036e3047417811b06c78952ac119614d0252c033e0a53d526b%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -133,8 +129,8 @@
 - [【技术头条】2022-08-15-为什么现在我特讨厌Safari浏览器？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15270&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494394%26amp%3Bidx%3D1%26amp%3Bsn%3Dfb2cf1e3121547b166e7507899fd4b39%26amp%3Bchksm%3Dfa3f0ba1cd4882b709b6be7a5f79fe7fde60753959a580a0d22d902090136a0acfcdc714006d%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【开发者头条】2022-08-15-全网最全的权限系统设计方案（图解）](https://toutiao.io/k/lozkmee) 
 - [【开发者头条】2022-08-15-麻了，代码改成多线程，竟有9大问题](https://toutiao.io/k/1lggdyi) 
-- [【开发者头条】2022-08-15-抓到Netty一个Bug，顺带来透彻地聊一下Netty是如何高效接收网络连接的](https://toutiao.io/k/3vfg8nb) 
 - [【开发者头条】2022-08-15-高效能团队的Java研发规范进阶版](https://toutiao.io/k/nud1jt6) 
+- [【开发者头条】2022-08-15-抓到Netty一个Bug，顺带来透彻地聊一下Netty是如何高效接收网络连接的](https://toutiao.io/k/3vfg8nb) 
 - [【开发者头条】2022-08-15-前端怎么样限制用户截图？](https://toutiao.io/k/80umzng) 
 - [【开发者头条】2022-08-15-顺丰快递：请签收MySQL灵魂十连](https://toutiao.io/k/oagb15c) 
 - [【开发者头条】2022-08-15-优质网站同好者周刊（第-078-期）-|-倾城博客](https://toutiao.io/k/rveastt) 
@@ -150,13 +146,13 @@
 - [【开发者头条】2022-08-15-听，引擎的声音「GitHub-热点速览-v.22.33」](https://toutiao.io/k/plmz25u) 
 - [【开发者头条】2022-08-15-持续交付管理](https://toutiao.io/k/uj0warp) 
 - [【开发者头条】2022-08-15-图解-React-的-diff-算法：核心就两个字-——-复用](https://toutiao.io/k/ndrtjsm) 
-- [【开发者头条】2022-08-15-推荐-微服务接口设计原则](https://toutiao.io/k/4hjv10p) 
-- [【开发者头条】2022-08-15-推荐-连流量染色都没有，你说要搞微服务？](https://toutiao.io/k/9k1wfc7) 
 - [【开发者头条】2022-08-15-推荐-【大厂面试真题解析】虾皮-Shopee-后端一面十四问](https://toutiao.io/k/pol71im) 
 - [【开发者头条】2022-08-15-推荐-【设计模式】10分钟学懂UML类图](https://toutiao.io/k/wg4oeyc) 
+- [【开发者头条】2022-08-15-推荐-研发过程中的文档管理与工具](https://toutiao.io/k/mdiqwn5) 
 - [【开发者头条】2022-08-15-推荐-京东面试：MQ-消息丢失、重复、积压问题，如何解决？](https://toutiao.io/k/1unx53z) 
 - [【开发者头条】2022-08-15-推荐-Java-大后端各种架构图汇总（建议收藏！！）](https://toutiao.io/k/dvo6z1w) 
-- [【开发者头条】2022-08-15-推荐-研发过程中的文档管理与工具](https://toutiao.io/k/mdiqwn5) 
+- [【开发者头条】2022-08-15-推荐-微服务接口设计原则](https://toutiao.io/k/4hjv10p) 
+- [【开发者头条】2022-08-15-推荐-连流量染色都没有，你说要搞微服务？](https://toutiao.io/k/9k1wfc7) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

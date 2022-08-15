@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-08-15 08:18:19。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-08-15 08:46:23。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,11 @@
 </summary>
 
 
+- [【V2EX】2022-08-15-Linux-内核版本到-6.0-了](https://www.v2ex.com/t/873006) 
+- [【V2EX】2022-08-15-直播行业的-V-友可以认识一下，交流下现在行业现状](https://www.v2ex.com/t/873005) 
+- [【V2EX】2022-08-15-电脑连-v-p-n-后经常网络故障，需用断网急救箱修复，有时修复好了，有时又不行，大家是否有遇到？如何解决？还是说是我-Clash-设置有问题？](https://www.v2ex.com/t/873004) 
+- [【V2EX】2022-08-15-🧸「One-Last-Image」卢浮宫生成器---One-Last-Kiss-封面风格生成器](https://www.v2ex.com/t/873003) 
+- [【V2EX】2022-08-15-请教一个-maven-的问题](https://www.v2ex.com/t/873000) 
 - [【V2EX】2022-08-15-王历元年-34-年（2022-年），我在咚都的繁华中继续挣扎漂流时，想起来了喝孟婆汤前的情景！](https://www.v2ex.com/t/872999) 
 - [【V2EX】2022-08-15-联通到东京-AWS-的线路是不是出问题了？](https://www.v2ex.com/t/872998) 
 - [【V2EX】2022-08-15-最近金豆子火了](https://www.v2ex.com/t/872997) 
@@ -103,11 +108,6 @@
 - [【V2EX】2022-08-15-笔记本外接的显示器，竖屏，鼠标只能从屏幕上方移动到笔记本显示器上，从下方就不行，求破。](https://www.v2ex.com/t/872960) 
 - [【V2EX】2022-08-15-😭-MacBook-pro-14-用-hdmi-外接显示器，-touch-id-失灵](https://www.v2ex.com/t/872958) 
 - [【V2EX】2022-08-15-有一个空闲的电视盒子，可以搞一个服务器么？](https://www.v2ex.com/t/872957) 
-- [【V2EX】2022-08-15-Windows-10-移动文件，如何点一下就能保留-2-个同名文件？](https://www.v2ex.com/t/872956) 
-- [【V2EX】2022-08-15-关于字节跳动系的一些问题](https://www.v2ex.com/t/872955) 
-- [【V2EX】2022-08-15-求推荐-mini-工作站，用来搭建以太坊全节点](https://www.v2ex.com/t/872954) 
-- [【V2EX】2022-08-15-使命召唤、刺客信条那么多部，新手怎么入坑？](https://www.v2ex.com/t/872952) 
-- [【V2EX】2022-08-15-抄这个站点-http://www.glber.cn/-前端（含移动端）多少钱？](https://www.v2ex.com/t/872950) 
 - [【技术头条】2022-08-15-API快速开发平台设计思考-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15289&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494493%26amp%3Bidx%3D2%26amp%3Bsn%3D0a8c5777a83b3a8e258fbc87cf99a5a1%26amp%3Bchksm%3Dfa3f0a06cd488310cc0d0f14d9ba2c67b676a2869bed0df3c1c5c32dfeda2c0b973c1d7f46df%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-08-15-别再乱搞了，快看优秀的代码是如何分层的！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15288&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494492%26amp%3Bidx%3D1%26amp%3Bsn%3D4d2b541cd0ba81b9acc397edfb735650%26amp%3Bchksm%3Dfa3f0a07cd488311b23c5e0c080092bd01875edc5be3e23b74a4ce3a171b8ef626d12f660484%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-08-15-Vue实现数组四级联动-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15287&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494492%26amp%3Bidx%3D2%26amp%3Bsn%3D1a3699a7c4490775d21ad7c82076d162%26amp%3Bchksm%3Dfa3f0a07cd4883110ff6766683036e3047417811b06c78952ac119614d0252c033e0a53d526b%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -141,19 +141,19 @@
 - [【开发者头条】2022-08-15-人工智能有大事发生，LeCun也转型了](https://toutiao.io/k/swos87i) 
 - [【开发者头条】2022-08-15-开源kv引擎nutsdb-v0.10.0发布以及背后故事](https://toutiao.io/k/xrpkb3u) 
 - [【开发者头条】2022-08-15-Serverless是简化的Kubernetes](https://toutiao.io/k/c7zj3mr) 
-- [【开发者头条】2022-08-15-搜索引擎分布式系统思考实践](https://toutiao.io/k/8ppma6x) 
 - [【开发者头条】2022-08-15-数据开发流程规范及数据监控](https://toutiao.io/k/idjecyr) 
+- [【开发者头条】2022-08-15-搜索引擎分布式系统思考实践](https://toutiao.io/k/8ppma6x) 
 - [【开发者头条】2022-08-15-Go-官方的恶臭表现，实在忍无可忍？](https://toutiao.io/k/g58499v) 
 - [【开发者头条】2022-08-15-听，引擎的声音「GitHub-热点速览-v.22.33」](https://toutiao.io/k/plmz25u) 
 - [【开发者头条】2022-08-15-持续交付管理](https://toutiao.io/k/uj0warp) 
 - [【开发者头条】2022-08-15-图解-React-的-diff-算法：核心就两个字-——-复用](https://toutiao.io/k/ndrtjsm) 
-- [【开发者头条】2022-08-15-推荐-【设计模式】10分钟学懂UML类图](https://toutiao.io/k/wg4oeyc) 
 - [【开发者头条】2022-08-15-推荐-微服务接口设计原则](https://toutiao.io/k/4hjv10p) 
-- [【开发者头条】2022-08-15-推荐-Java-大后端各种架构图汇总（建议收藏！！）](https://toutiao.io/k/dvo6z1w) 
+- [【开发者头条】2022-08-15-推荐-【设计模式】10分钟学懂UML类图](https://toutiao.io/k/wg4oeyc) 
 - [【开发者头条】2022-08-15-推荐-连流量染色都没有，你说要搞微服务？](https://toutiao.io/k/9k1wfc7) 
-- [【开发者头条】2022-08-15-推荐-【大厂面试真题解析】虾皮-Shopee-后端一面十四问](https://toutiao.io/k/pol71im) 
+- [【开发者头条】2022-08-15-推荐-Java-大后端各种架构图汇总（建议收藏！！）](https://toutiao.io/k/dvo6z1w) 
 - [【开发者头条】2022-08-15-推荐-研发过程中的文档管理与工具](https://toutiao.io/k/mdiqwn5) 
 - [【开发者头条】2022-08-15-推荐-京东面试：MQ-消息丢失、重复、积压问题，如何解决？](https://toutiao.io/k/1unx53z) 
+- [【开发者头条】2022-08-15-推荐-【大厂面试真题解析】虾皮-Shopee-后端一面十四问](https://toutiao.io/k/pol71im) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

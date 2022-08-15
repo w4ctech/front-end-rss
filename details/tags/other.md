@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-08-15 18:18:49。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-08-15 18:49:03。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,7 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-08-15-安卓手机银行类-app-突然都不能用了，全部闪退，安装了-magisk](https://www.v2ex.com/t/873084) 
 - [2022-08-15-请问-pixel4xl-怎么使用雷达？](https://www.v2ex.com/t/873080) 
 - [2022-08-15-最近一直纠结-terraform-和各种云的组织和-IaC-处理问题](https://www.v2ex.com/t/873079) 
 - [2022-08-15-八月二十号，推荐一个成都的活动，挺有意思的，希望理工男程序员能报名参加。](https://www.v2ex.com/t/873077) 
@@ -1974,6 +1975,6 @@
 - [2022-08-15-Go-官方的恶臭表现，实在忍无可忍？](https://toutiao.io/k/g58499v) 
 - [2022-08-15-持续交付管理](https://toutiao.io/k/uj0warp) 
 - [2022-08-15-推荐-掌握这些-SpringBoot-启动扩展点，已经超过-90%-的人了](https://toutiao.io/k/3m8iq2m) 
-- [2022-08-15-推荐-微服务接口设计原则](https://toutiao.io/k/4hjv10p) 
-- [2022-08-15-推荐-连流量染色都没有，你说要搞微服务？](https://toutiao.io/k/9k1wfc7) 
 - [2022-08-15-推荐-Java-大后端各种架构图汇总（建议收藏！！）](https://toutiao.io/k/dvo6z1w) 
+- [2022-08-15-推荐-连流量染色都没有，你说要搞微服务？](https://toutiao.io/k/9k1wfc7) 
+- [2022-08-15-推荐-微服务接口设计原则](https://toutiao.io/k/4hjv10p) 

@@ -9953,6 +9953,16 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "请问 pixel4xl 怎么使用雷达？",
+        "link": "https://www.v2ex.com/t/873080",
+        "date": "2022-08-15"
+      },
+      {
+        "title": "最近一直纠结 terraform 和各种云的组织和 IaC 处理问题",
+        "link": "https://www.v2ex.com/t/873079",
+        "date": "2022-08-15"
+      },
+      {
         "title": "八月二十号，推荐一个成都的活动，挺有意思的，希望理工男程序员能报名参加。",
         "link": "https://www.v2ex.com/t/873077",
         "date": "2022-08-15"
@@ -10151,16 +10161,6 @@
         "title": "果然没让我失望， 百度的产品还是一如既往的糙啊",
         "link": "https://www.v2ex.com/t/873031",
         "date": "2022-08-15"
-      },
-      {
-        "title": "除了 md5 有没有比较短的哈希算法",
-        "link": "https://www.v2ex.com/t/873030",
-        "date": "2022-08-15"
-      },
-      {
-        "title": "exFAT 也太浪费空间了吧。",
-        "link": "https://www.v2ex.com/t/873029",
-        "date": "2022-08-15"
       }
     ]
   },
@@ -10332,13 +10332,13 @@
         "date": "2022-08-15"
       },
       {
-        "title": "人工智能有大事发生，LeCun也转型了",
-        "link": "https://toutiao.io/k/swos87i",
+        "title": "Serverless是简化的Kubernetes",
+        "link": "https://toutiao.io/k/c7zj3mr",
         "date": "2022-08-15"
       },
       {
-        "title": "Serverless是简化的Kubernetes",
-        "link": "https://toutiao.io/k/c7zj3mr",
+        "title": "人工智能有大事发生，LeCun也转型了",
+        "link": "https://toutiao.io/k/swos87i",
         "date": "2022-08-15"
       },
       {
@@ -10372,28 +10372,13 @@
         "date": "2022-08-15"
       },
       {
-        "title": "[推荐] 微服务接口设计原则",
-        "link": "https://toutiao.io/k/4hjv10p",
+        "title": "[推荐] 掌握这些 SpringBoot 启动扩展点，已经超过 90% 的人了",
+        "link": "https://toutiao.io/k/3m8iq2m",
         "date": "2022-08-15"
       },
       {
         "title": "[推荐] 京东面试：MQ 消息丢失、重复、积压问题，如何解决？",
         "link": "https://toutiao.io/k/1unx53z",
-        "date": "2022-08-15"
-      },
-      {
-        "title": "[推荐] Java 大后端各种架构图汇总（建议收藏！！）",
-        "link": "https://toutiao.io/k/dvo6z1w",
-        "date": "2022-08-15"
-      },
-      {
-        "title": "[推荐] 研发过程中的文档管理与工具",
-        "link": "https://toutiao.io/k/mdiqwn5",
-        "date": "2022-08-15"
-      },
-      {
-        "title": "[推荐] 【设计模式】10分钟学懂UML类图",
-        "link": "https://toutiao.io/k/wg4oeyc",
         "date": "2022-08-15"
       },
       {
@@ -10404,6 +10389,16 @@
       {
         "title": "[推荐] 【大厂面试真题解析】虾皮 Shopee 后端一面十四问",
         "link": "https://toutiao.io/k/pol71im",
+        "date": "2022-08-15"
+      },
+      {
+        "title": "[推荐] Java 大后端各种架构图汇总（建议收藏！！）",
+        "link": "https://toutiao.io/k/dvo6z1w",
+        "date": "2022-08-15"
+      },
+      {
+        "title": "[推荐] 微服务接口设计原则",
+        "link": "https://toutiao.io/k/4hjv10p",
         "date": "2022-08-15"
       }
     ]

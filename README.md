@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-15 15:45:50，:rocket: 更新条数: +2034， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-15 16:19:27，:rocket: 更新条数: +2033， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-08-15-请问-pixel4xl-怎么使用雷达？](https://www.v2ex.com/t/873080) ![](assets/new.png)  
+- [2022-08-15-最近一直纠结-terraform-和各种云的组织和-IaC-处理问题](https://www.v2ex.com/t/873079) ![](assets/new.png)  
 - [2022-08-15-八月二十号，推荐一个成都的活动，挺有意思的，希望理工男程序员能报名参加。](https://www.v2ex.com/t/873077) ![](assets/new.png)  
 - [2022-08-15-25-块的-Magsafe-能用吗](https://www.v2ex.com/t/873076) ![](assets/new.png)  
 - [2022-08-15-有在美国本科读-AI-相关课程的-V-友吗，可以说一下你们-ML-和-DL-用什么教材吗？](https://www.v2ex.com/t/873075) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-08-15-ArkID：开源的-IDaaS-系统全新上线](https://www.v2ex.com/t/873061) ![](assets/new.png)  
 - [2022-08-15-mac-mini-扩展坞里的-m.2-硬盘可以用来放什么数据？](https://www.v2ex.com/t/873060) ![](assets/new.png)  
 - [2022-08-15-求一个轻量级的-jquery-ui-draggable-替代品](https://www.v2ex.com/t/873059) ![](assets/new.png)  
-- [2022-08-15-19-年-16-寸-MBP-外接-4K-显示器](https://www.v2ex.com/t/873058) ![](assets/new.png)  
-- [2022-08-15-请教下现在-type-c-转接-hdmi-的事情](https://www.v2ex.com/t/873057) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -564,15 +564,15 @@
 - [2022-08-15-读了100多本书后，我学到的10件事；32-道-Spring-常见面试总结｜码农周刊VIP会员专属邮件周报-Vol.103](https://toutiao.io/k/pwkxdkr) ![](assets/new.png)  
 - [2022-08-15-技术实现-|-Apache-Doris-Binlog-导入设计与实现](https://toutiao.io/k/ev9p8cg) ![](assets/new.png)  
 - [2022-08-15-数据开发流程规范及数据监控](https://toutiao.io/k/idjecyr) ![](assets/new.png)  
-- [2022-08-15-人工智能有大事发生，LeCun也转型了](https://toutiao.io/k/swos87i) ![](assets/new.png)  
 - [2022-08-15-Serverless是简化的Kubernetes](https://toutiao.io/k/c7zj3mr) ![](assets/new.png)  
+- [2022-08-15-人工智能有大事发生，LeCun也转型了](https://toutiao.io/k/swos87i) ![](assets/new.png)  
 - [2022-08-15-开源kv引擎nutsdb-v0.10.0发布以及背后故事](https://toutiao.io/k/xrpkb3u) ![](assets/new.png)  
 - [2022-08-15-搜索引擎分布式系统思考实践](https://toutiao.io/k/8ppma6x) ![](assets/new.png)  
 - [2022-08-15-Go-官方的恶臭表现，实在忍无可忍？](https://toutiao.io/k/g58499v) ![](assets/new.png)  
 - [2022-08-15-听，引擎的声音「GitHub-热点速览-v.22.33」](https://toutiao.io/k/plmz25u) ![](assets/new.png)  
 - [2022-08-15-持续交付管理](https://toutiao.io/k/uj0warp) ![](assets/new.png)  
 - [2022-08-15-图解-React-的-diff-算法：核心就两个字-——-复用](https://toutiao.io/k/ndrtjsm) ![](assets/new.png)  
-- [2022-08-15-推荐-微服务接口设计原则](https://toutiao.io/k/4hjv10p) ![](assets/new.png)  
+- [2022-08-15-推荐-掌握这些-SpringBoot-启动扩展点，已经超过-90%-的人了](https://toutiao.io/k/3m8iq2m) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

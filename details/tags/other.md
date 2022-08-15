@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-08-15 17:29:30。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-08-15 17:46:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1974,7 +1974,7 @@
 - [2022-08-15-搜索引擎分布式系统思考实践](https://toutiao.io/k/8ppma6x) 
 - [2022-08-15-Go-官方的恶臭表现，实在忍无可忍？](https://toutiao.io/k/g58499v) 
 - [2022-08-15-持续交付管理](https://toutiao.io/k/uj0warp) 
+- [2022-08-15-推荐-微服务接口设计原则](https://toutiao.io/k/4hjv10p) 
 - [2022-08-15-推荐-掌握这些-SpringBoot-启动扩展点，已经超过-90%-的人了](https://toutiao.io/k/3m8iq2m) 
 - [2022-08-15-推荐-Java-大后端各种架构图汇总（建议收藏！！）](https://toutiao.io/k/dvo6z1w) 
 - [2022-08-15-推荐-连流量染色都没有，你说要搞微服务？](https://toutiao.io/k/9k1wfc7) 
-- [2022-08-15-推荐-微服务接口设计原则](https://toutiao.io/k/4hjv10p) 

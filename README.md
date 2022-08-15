@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-15 07:13:18，:rocket: 更新条数: +2029， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-15 07:39:34，:rocket: 更新条数: +2031， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,12 @@
 </summary>
 
 
+- [2022-08-15-电子书阅读器推荐](https://www.v2ex.com/t/872991) ![](assets/new.png)  
+- [2022-08-15-onedrive-mac同步-XMind-文件，文件大小变-1.1TB-无法正常使用](https://www.v2ex.com/t/872990) ![](assets/new.png)  
+- [2022-08-15-v-友有没有装修经验的，求个闭坑指南，想装修。。](https://www.v2ex.com/t/872989) ![](assets/new.png)  
+- [2022-08-15-4k-或者-2k-显示器竖屏推荐-2022-年-8-月](https://www.v2ex.com/t/872988) ![](assets/new.png)  
+- [2022-08-15-免费领-5-天喜马拉雅会员！喜马拉雅联合会员活动，买-1-得-12！-39-元购叮咚买菜年卡！](https://www.v2ex.com/t/872986) ![](assets/new.png)  
+- [2022-08-15-手机长期热点伤电池，是否有依据](https://www.v2ex.com/t/872983) ![](assets/new.png)  
 - [2022-08-15-centos-不维护后，还有哪些好的-server-端-os-可以替代-centos？](https://www.v2ex.com/t/872982) ![](assets/new.png)  
 - [2022-08-15-Maven-依赖包的问题](https://www.v2ex.com/t/872981) ![](assets/new.png)  
 - [2022-08-15-网站运维工程师（影视类、视频网站）：年薪-30w-起步，单休，远程工作：](https://www.v2ex.com/t/872980) ![](assets/new.png)  
@@ -505,12 +511,6 @@
 - [2022-08-15-Mac-版剪映导出视频，一会就会后台退出](https://www.v2ex.com/t/872971) ![](assets/new.png)  
 - [2022-08-15-最后一面挂了](https://www.v2ex.com/t/872970) ![](assets/new.png)  
 - [2022-08-15-这种几乎挡住全脸的图像，需要识别有没有戴口罩和墨镜，有什么实现思路？](https://www.v2ex.com/t/872968) ![](assets/new.png)  
-- [2022-08-15-为什么谷歌-Play-上有那么多免费的-V.PN-App-啊](https://www.v2ex.com/t/872967) ![](assets/new.png)  
-- [2022-08-15-准备用-NAS-+-Google-Pixel-1-做-Google-Photos-的无限备份，充电上有什么好方案吗](https://www.v2ex.com/t/872966) ![](assets/new.png)  
-- [2022-08-15-笔记本不知道选哪个](https://www.v2ex.com/t/872965) ![](assets/new.png)  
-- [2022-08-15-仅就技术书籍而言，大家更倾向于选择电子书还是纸质书？](https://www.v2ex.com/t/872963) ![](assets/new.png)  
-- [2022-08-15-前端大佬看看这个网站如何做的？](https://www.v2ex.com/t/872961) ![](assets/new.png)  
-- [2022-08-15-笔记本外接的显示器，竖屏，鼠标只能从屏幕上方移动到笔记本显示器上，从下方就不行，求破。](https://www.v2ex.com/t/872960) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -572,7 +572,7 @@
 - [2022-08-15-听，引擎的声音「GitHub-热点速览-v.22.33」](https://toutiao.io/k/plmz25u) ![](assets/new.png)  
 - [2022-08-15-持续交付管理](https://toutiao.io/k/uj0warp) ![](assets/new.png)  
 - [2022-08-15-图解-React-的-diff-算法：核心就两个字-——-复用](https://toutiao.io/k/ndrtjsm) ![](assets/new.png)  
-- [2022-08-15-推荐-研发过程中的文档管理与工具](https://toutiao.io/k/mdiqwn5) ![](assets/new.png)  
+- [2022-08-15-推荐-【大厂面试真题解析】虾皮-Shopee-后端一面十四问](https://toutiao.io/k/pol71im) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

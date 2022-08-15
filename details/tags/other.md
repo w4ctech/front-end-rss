@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-08-15 07:13:18。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-08-15 07:39:34。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,12 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-08-15-电子书阅读器推荐](https://www.v2ex.com/t/872991) 
+- [2022-08-15-onedrive-mac同步-XMind-文件，文件大小变-1.1TB-无法正常使用](https://www.v2ex.com/t/872990) 
+- [2022-08-15-v-友有没有装修经验的，求个闭坑指南，想装修。。](https://www.v2ex.com/t/872989) 
+- [2022-08-15-4k-或者-2k-显示器竖屏推荐-2022-年-8-月](https://www.v2ex.com/t/872988) 
+- [2022-08-15-免费领-5-天喜马拉雅会员！喜马拉雅联合会员活动，买-1-得-12！-39-元购叮咚买菜年卡！](https://www.v2ex.com/t/872986) 
+- [2022-08-15-手机长期热点伤电池，是否有依据](https://www.v2ex.com/t/872983) 
 - [2022-08-15-centos-不维护后，还有哪些好的-server-端-os-可以替代-centos？](https://www.v2ex.com/t/872982) 
 - [2022-08-15-Maven-依赖包的问题](https://www.v2ex.com/t/872981) 
 - [2022-08-15-有没有用-echo-的兄弟，怎么判断-echo-服务启动成功，然后执行一些其他逻辑的](https://www.v2ex.com/t/872977) 
@@ -1936,9 +1942,6 @@
 - [2022-08-15-DMIT-怎么没有快照、防火墙之类的功能了](https://www.v2ex.com/t/872947) 
 - [2022-08-15-关于修真小说的一些疑问](https://www.v2ex.com/t/872945) 
 - [2022-08-15-为什么结婚要钻戒，还要三金？](https://www.v2ex.com/t/872942) 
-- [2022-08-15-遇到这种领导，怎么处理比较好](https://www.v2ex.com/t/872938) 
-- [2022-08-15-从小到大没戴过眼镜，最近老爷说看手机不清，才意识到要给他配个老花镜了，老花镜有什么学问？买什么好？（500-以内）](https://www.v2ex.com/t/872937) 
-- [2022-08-15-请问有被偏头痛困扰的-v-友吗，进来交流一下预防/紧急止痛的方法](https://www.v2ex.com/t/872934) 
 - [2022-08-15-API快速开发平台设计思考-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15289&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494493%26amp%3Bidx%3D2%26amp%3Bsn%3D0a8c5777a83b3a8e258fbc87cf99a5a1%26amp%3Bchksm%3Dfa3f0a06cd488310cc0d0f14d9ba2c67b676a2869bed0df3c1c5c32dfeda2c0b973c1d7f46df%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-08-15-别再乱搞了，快看优秀的代码是如何分层的！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15288&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494492%26amp%3Bidx%3D1%26amp%3Bsn%3D4d2b541cd0ba81b9acc397edfb735650%26amp%3Bchksm%3Dfa3f0a07cd488311b23c5e0c080092bd01875edc5be3e23b74a4ce3a171b8ef626d12f660484%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-08-15-程序员眼中最有价值的10条开发经验-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15286&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494491%26amp%3Bidx%3D1%26amp%3Bsn%3D274ddfa1d8ad38b1ba9b8e74433e4d6e%26amp%3Bchksm%3Dfa3f0a00cd488316da8dfa3662b19d82e4c858741ac0da99e555b1711a428e378ccada9281f8%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1967,8 +1970,8 @@
 - [2022-08-15-数据开发流程规范及数据监控](https://toutiao.io/k/idjecyr) 
 - [2022-08-15-Go-官方的恶臭表现，实在忍无可忍？](https://toutiao.io/k/g58499v) 
 - [2022-08-15-持续交付管理](https://toutiao.io/k/uj0warp) 
+- [2022-08-15-推荐-连流量染色都没有，你说要搞微服务？](https://toutiao.io/k/9k1wfc7) 
 - [2022-08-15-推荐-研发过程中的文档管理与工具](https://toutiao.io/k/mdiqwn5) 
 - [2022-08-15-推荐-Java-大后端各种架构图汇总（建议收藏！！）](https://toutiao.io/k/dvo6z1w) 
 - [2022-08-15-推荐-微服务接口设计原则](https://toutiao.io/k/4hjv10p) 
 - [2022-08-15-推荐-【设计模式】10分钟学懂UML类图](https://toutiao.io/k/wg4oeyc) 
-- [2022-08-15-推荐-连流量染色都没有，你说要搞微服务？](https://toutiao.io/k/9k1wfc7) 

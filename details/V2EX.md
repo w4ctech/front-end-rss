@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2022-08-15 22:15:01。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-08-15 22:41:59。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-08-15-Wechat-绑定+86-手机号失败](https://www.v2ex.com/t/873087) 
 - [2022-08-15-连续跑了-999-天了](https://www.v2ex.com/t/873086) 
 - [2022-08-15-应该是马尔可夫链的问题](https://www.v2ex.com/t/873085) 
 - [2022-08-15-安卓手机银行类-app-突然都不能用了，全部闪退，安装了-magisk](https://www.v2ex.com/t/873084) 

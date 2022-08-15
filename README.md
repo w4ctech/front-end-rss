@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-14 23:39:41，:rocket: 更新条数: +2027， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-15 01:14:27，:rocket: 更新条数: +2030， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,18 @@
 </summary>
 
 
+- [2022-08-15-准备搞一个社区，问问各位大佬-Mastodon-与-Matrix.org-有什么区别？](https://www.v2ex.com/t/872863) ![](assets/new.png)  
+- [2022-08-15-独立产品灵感周刊-DecoHack-#026---在哪里推广你的新产品](https://www.v2ex.com/t/872862) ![](assets/new.png)  
+- [2022-08-15-这次-macOS-13-beta-居然可以完全滚回-12-了，是机制改了吗？](https://www.v2ex.com/t/872861) ![](assets/new.png)  
+- [2022-08-15-现在地方财政有多魔幻？](https://www.v2ex.com/t/872860) ![](assets/new.png)  
+- [2022-08-15-某些指纹锁已经支持使用-Apple-家庭钥匙开门了](https://www.v2ex.com/t/872859) ![](assets/new.png)  
+- [2022-08-15-请教一下-/Library/Updates-里的更新文件怎样删除呢？](https://www.v2ex.com/t/872858) ![](assets/new.png)  
+- [2022-08-15-豆瓣的电影标签页被删除了？](https://www.v2ex.com/t/872857) ![](assets/new.png)  
+- [2022-08-15-中国电信偷偷给家宽限速](https://www.v2ex.com/t/872856) ![](assets/new.png)  
+- [2022-08-15-有用-Joplin-的吗，现在哪种同步方式靠谱？](https://www.v2ex.com/t/872855) ![](assets/new.png)  
+- [2022-08-15-安卓系统上有什么比较好的录屏软件？](https://www.v2ex.com/t/872854) ![](assets/new.png)  
+- [2022-08-15-送兑换码-我的第一款-iOS-平台-App-小而美的短信智能拦截工具](https://www.v2ex.com/t/872853) ![](assets/new.png)  
+- [2022-08-14-🙃临沂这样的城市除了体制内真的没有双休的工作吗？？](https://www.v2ex.com/t/872851) ![](assets/new.png)  
 - [2022-08-14-有什么好玩的回合制单机吗？](https://www.v2ex.com/t/872850) ![](assets/new.png)  
 - [2022-08-14-求家庭组网方案](https://www.v2ex.com/t/872849) ![](assets/new.png)  
 - [2022-08-14-严肃项目寻找熟悉-Three-React-Typescript-Node-开发工程师](https://www.v2ex.com/t/872848) ![](assets/new.png)  
@@ -499,18 +511,6 @@
 - [2022-08-14-取消网页版-只保留-app-是进步，还是倒退？](https://www.v2ex.com/t/872844) ![](assets/new.png)  
 - [2022-08-14-19-年螃蟹网络科技的《告游戏行业全体同仁书》事件的后续](https://www.v2ex.com/t/872843) ![](assets/new.png)  
 - [2022-08-14-侧重问一下，如果-AirTag-没电了怎么办呢？](https://www.v2ex.com/t/872842) ![](assets/new.png)  
-- [2022-08-14-阿里云服务器双-11-性能会下降么？](https://www.v2ex.com/t/872841) ![](assets/new.png)  
-- [2022-08-14-阿里云服务器性能这么弱鸡的么？](https://www.v2ex.com/t/872840) ![](assets/new.png)  
-- [2022-08-14-求推荐个无线鼠标](https://www.v2ex.com/t/872839) ![](assets/new.png)  
-- [2022-08-14-偏头痛了一整天，吃了颗布洛芬终于好多了](https://www.v2ex.com/t/872838) ![](assets/new.png)  
-- [2022-08-14-有哪些高质量的技术文章汇总社区/网站/公众号？](https://www.v2ex.com/t/872837) ![](assets/new.png)  
-- [2022-08-14-65w-的充电器可以给-M2-快速充电吗？](https://www.v2ex.com/t/872835) ![](assets/new.png)  
-- [2022-08-14-C-语言中基础数据类型首字母大写了，如-`Int`,-`String`，但是编译能通过，这是怎么回事呀？](https://www.v2ex.com/t/872834) ![](assets/new.png)  
-- [2022-08-14-初来乍到，询问下大佬们都用什么软路由](https://www.v2ex.com/t/872833) ![](assets/new.png)  
-- [2022-08-14-django-项目，文章到期后自动取消置顶,这个时间如何处理好？](https://www.v2ex.com/t/872832) ![](assets/new.png)  
-- [2022-08-14-V-站大佬那么多，导航人手有一个](https://www.v2ex.com/t/872830) ![](assets/new.png)  
-- [2022-08-14-开源-kv-引擎-nutsdb-v0.10.0-发布~](https://www.v2ex.com/t/872829) ![](assets/new.png)  
-- [2022-08-14-远程兼职-美国-web3-创业公司招聘-Python-程序员](https://www.v2ex.com/t/872828) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -522,26 +522,26 @@
 </summary>
 
 
-- [2022-08-14-API快速开发平台设计思考-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15289&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494493%26amp%3Bidx%3D2%26amp%3Bsn%3D0a8c5777a83b3a8e258fbc87cf99a5a1%26amp%3Bchksm%3Dfa3f0a06cd488310cc0d0f14d9ba2c67b676a2869bed0df3c1c5c32dfeda2c0b973c1d7f46df%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-08-14-别再乱搞了，快看优秀的代码是如何分层的！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15288&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494492%26amp%3Bidx%3D1%26amp%3Bsn%3D4d2b541cd0ba81b9acc397edfb735650%26amp%3Bchksm%3Dfa3f0a07cd488311b23c5e0c080092bd01875edc5be3e23b74a4ce3a171b8ef626d12f660484%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-08-14-Vue实现数组四级联动-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15287&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494492%26amp%3Bidx%3D2%26amp%3Bsn%3D1a3699a7c4490775d21ad7c82076d162%26amp%3Bchksm%3Dfa3f0a07cd4883110ff6766683036e3047417811b06c78952ac119614d0252c033e0a53d526b%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-08-14-程序员眼中最有价值的10条开发经验-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15286&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494491%26amp%3Bidx%3D1%26amp%3Bsn%3D274ddfa1d8ad38b1ba9b8e74433e4d6e%26amp%3Bchksm%3Dfa3f0a00cd488316da8dfa3662b19d82e4c858741ac0da99e555b1711a428e378ccada9281f8%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-08-14-SpringBoot解决跨域问题的3种方案！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15285&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494491%26amp%3Bidx%3D2%26amp%3Bsn%3Dbc208873a3a0e7dbdc7698f3d25083e1%26amp%3Bchksm%3Dfa3f0a00cd488316a7aec8a2fff04fed8086c7c57a56b533cfbf0f113077fc0116b77f0df05c%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-08-14-微信这个扰人的功能终于下线了-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15284&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494490%26amp%3Bidx%3D1%26amp%3Bsn%3Dcbbcc57ea8370e280976d229bf1ef64a%26amp%3Bchksm%3Dfa3f0a01cd488317b92e49cf97b1b4b909c735224ef1ffbd3c2bff811108ec3bf1b9140b2222%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-08-14-20个简洁的JS代码片段-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15283&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494490%26amp%3Bidx%3D2%26amp%3Bsn%3D68fc3936af5ebde00b9e4507b7bc02dd%26amp%3Bchksm%3Dfa3f0a01cd488317b9b0bcdd75be8ef0d4f56dfc42f5cb71d0611c28eadff8e41d24473bf0ec%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-08-14-像用户一样测试：不妨犯傻-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15282&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftest-like-user-2%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-08-14-BFF避坑指南-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15281&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fbackends-for-frontends%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-08-14-40年前的操作系统复活了，当年Linux、Windows都借鉴过！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15280&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494410%26amp%3Bidx%3D1%26amp%3Bsn%3D6573f0c124bcd2e20c39c33d3e516526%26amp%3Bchksm%3Dfa3f0a51cd4883479817eb189805d7dfe98436addb3e47a267f25bc3cdefefbb56aeab56e7b4%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-08-14-Spring注入Bean的七种方式-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15279&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494410%26amp%3Bidx%3D2%26amp%3Bsn%3D86e311bf8e60434edd3b60be3230e3e4%26amp%3Bchksm%3Dfa3f0a51cd4883473339fccf0f251b3cc4c5a5a9f85f2f196440fc0b3b75708c184391752aed%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-08-14-Python竟然也能做这样的进度条。。。-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15278&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494409%26amp%3Bidx%3D2%26amp%3Bsn%3D60f504fcb4ab4f3c5653d3e38c5d881d%26amp%3Bchksm%3Dfa3f0a52cd48834493edacaab63f11cf7d3724048a14bb96303999efd75ef3a72d6e78aeb7f6%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-08-14-必备的VScode插件-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15277&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494408%26amp%3Bidx%3D1%26amp%3Bsn%3D650fdac92d9d6015bd19404df4ec2b8a%26amp%3Bchksm%3Dfa3f0a53cd48834593bc774846479414fbb5bd27bf7ffdfcad21aea3d6f22196fee909b518a4%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-08-14-SpringCloud架构的各个组件的原理分析-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15276&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494408%26amp%3Bidx%3D2%26amp%3Bsn%3D6030c1f3629babc9dfa8f85ffea42a09%26amp%3Bchksm%3Dfa3f0a53cd488345b2fd2421e868d7459c7c27f488ec4de9fdae81d0c5f24efb8b71ebe22169%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-08-14-Vue项目打包部署总结-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15275&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494406%26amp%3Bidx%3D2%26amp%3Bsn%3D711bed4e7167f4b2008665a1c815ad7f%26amp%3Bchksm%3Dfa3f0a5dcd48834b3601344469bc6d83a7f721bc8933d227369f149e82b2adec631a3b54f80c%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-08-14-最近很火的一组图，看一次笑一次-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15274&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494395%26amp%3Bidx%3D1%26amp%3Bsn%3Dd945234cc4f2cb6ca9fb0741bf79acdb%26amp%3Bchksm%3Dfa3f0ba0cd4882b63046ab6d8fdabace82b042c1693245a687a516f2c0b2fc498b1e85686fef%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-08-14-完成原型设计的五个步骤-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15273&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffive-steps-for-prototype-design%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-08-14-敏捷交付的工程效能治理-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15272&url=https%3A%2F%2Finsights.thoughtworks.cn%2F%3Fp%3D16439%26amp%3Bpreview%3Dtrue%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-08-14-SpringBoot四大核心组件，你知道几个？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15271&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494395%26amp%3Bidx%3D2%26amp%3Bsn%3D7625c27c0bbb10cfd2e5e1d8a09a3c74%26amp%3Bchksm%3Dfa3f0ba0cd4882b6baa602f1f11ffebc9ec2dadb2ee131a812efc29a71e64cb3959c144707ff%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-08-14-为什么现在我特讨厌Safari浏览器？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15270&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494394%26amp%3Bidx%3D1%26amp%3Bsn%3Dfb2cf1e3121547b166e7507899fd4b39%26amp%3Bchksm%3Dfa3f0ba1cd4882b709b6be7a5f79fe7fde60753959a580a0d22d902090136a0acfcdc714006d%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2022-08-15-API快速开发平台设计思考-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15289&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494493%26amp%3Bidx%3D2%26amp%3Bsn%3D0a8c5777a83b3a8e258fbc87cf99a5a1%26amp%3Bchksm%3Dfa3f0a06cd488310cc0d0f14d9ba2c67b676a2869bed0df3c1c5c32dfeda2c0b973c1d7f46df%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2022-08-15-别再乱搞了，快看优秀的代码是如何分层的！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15288&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494492%26amp%3Bidx%3D1%26amp%3Bsn%3D4d2b541cd0ba81b9acc397edfb735650%26amp%3Bchksm%3Dfa3f0a07cd488311b23c5e0c080092bd01875edc5be3e23b74a4ce3a171b8ef626d12f660484%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2022-08-15-Vue实现数组四级联动-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15287&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494492%26amp%3Bidx%3D2%26amp%3Bsn%3D1a3699a7c4490775d21ad7c82076d162%26amp%3Bchksm%3Dfa3f0a07cd4883110ff6766683036e3047417811b06c78952ac119614d0252c033e0a53d526b%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2022-08-15-程序员眼中最有价值的10条开发经验-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15286&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494491%26amp%3Bidx%3D1%26amp%3Bsn%3D274ddfa1d8ad38b1ba9b8e74433e4d6e%26amp%3Bchksm%3Dfa3f0a00cd488316da8dfa3662b19d82e4c858741ac0da99e555b1711a428e378ccada9281f8%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2022-08-15-SpringBoot解决跨域问题的3种方案！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15285&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494491%26amp%3Bidx%3D2%26amp%3Bsn%3Dbc208873a3a0e7dbdc7698f3d25083e1%26amp%3Bchksm%3Dfa3f0a00cd488316a7aec8a2fff04fed8086c7c57a56b533cfbf0f113077fc0116b77f0df05c%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2022-08-15-微信这个扰人的功能终于下线了-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15284&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494490%26amp%3Bidx%3D1%26amp%3Bsn%3Dcbbcc57ea8370e280976d229bf1ef64a%26amp%3Bchksm%3Dfa3f0a01cd488317b92e49cf97b1b4b909c735224ef1ffbd3c2bff811108ec3bf1b9140b2222%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2022-08-15-20个简洁的JS代码片段-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15283&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494490%26amp%3Bidx%3D2%26amp%3Bsn%3D68fc3936af5ebde00b9e4507b7bc02dd%26amp%3Bchksm%3Dfa3f0a01cd488317b9b0bcdd75be8ef0d4f56dfc42f5cb71d0611c28eadff8e41d24473bf0ec%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2022-08-15-像用户一样测试：不妨犯傻-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15282&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ftest-like-user-2%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2022-08-15-BFF避坑指南-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15281&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fbackends-for-frontends%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2022-08-15-40年前的操作系统复活了，当年Linux、Windows都借鉴过！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15280&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494410%26amp%3Bidx%3D1%26amp%3Bsn%3D6573f0c124bcd2e20c39c33d3e516526%26amp%3Bchksm%3Dfa3f0a51cd4883479817eb189805d7dfe98436addb3e47a267f25bc3cdefefbb56aeab56e7b4%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2022-08-15-Spring注入Bean的七种方式-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15279&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494410%26amp%3Bidx%3D2%26amp%3Bsn%3D86e311bf8e60434edd3b60be3230e3e4%26amp%3Bchksm%3Dfa3f0a51cd4883473339fccf0f251b3cc4c5a5a9f85f2f196440fc0b3b75708c184391752aed%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2022-08-15-Python竟然也能做这样的进度条。。。-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15278&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494409%26amp%3Bidx%3D2%26amp%3Bsn%3D60f504fcb4ab4f3c5653d3e38c5d881d%26amp%3Bchksm%3Dfa3f0a52cd48834493edacaab63f11cf7d3724048a14bb96303999efd75ef3a72d6e78aeb7f6%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2022-08-15-必备的VScode插件-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15277&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494408%26amp%3Bidx%3D1%26amp%3Bsn%3D650fdac92d9d6015bd19404df4ec2b8a%26amp%3Bchksm%3Dfa3f0a53cd48834593bc774846479414fbb5bd27bf7ffdfcad21aea3d6f22196fee909b518a4%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2022-08-15-SpringCloud架构的各个组件的原理分析-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15276&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494408%26amp%3Bidx%3D2%26amp%3Bsn%3D6030c1f3629babc9dfa8f85ffea42a09%26amp%3Bchksm%3Dfa3f0a53cd488345b2fd2421e868d7459c7c27f488ec4de9fdae81d0c5f24efb8b71ebe22169%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2022-08-15-Vue项目打包部署总结-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15275&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494406%26amp%3Bidx%3D2%26amp%3Bsn%3D711bed4e7167f4b2008665a1c815ad7f%26amp%3Bchksm%3Dfa3f0a5dcd48834b3601344469bc6d83a7f721bc8933d227369f149e82b2adec631a3b54f80c%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2022-08-15-最近很火的一组图，看一次笑一次-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15274&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494395%26amp%3Bidx%3D1%26amp%3Bsn%3Dd945234cc4f2cb6ca9fb0741bf79acdb%26amp%3Bchksm%3Dfa3f0ba0cd4882b63046ab6d8fdabace82b042c1693245a687a516f2c0b2fc498b1e85686fef%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2022-08-15-完成原型设计的五个步骤-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15273&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffive-steps-for-prototype-design%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2022-08-15-敏捷交付的工程效能治理-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15272&url=https%3A%2F%2Finsights.thoughtworks.cn%2F%3Fp%3D16439%26amp%3Bpreview%3Dtrue%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2022-08-15-SpringBoot四大核心组件，你知道几个？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15271&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494395%26amp%3Bidx%3D2%26amp%3Bsn%3D7625c27c0bbb10cfd2e5e1d8a09a3c74%26amp%3Bchksm%3Dfa3f0ba0cd4882b6baa602f1f11ffebc9ec2dadb2ee131a812efc29a71e64cb3959c144707ff%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2022-08-15-为什么现在我特讨厌Safari浏览器？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15270&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494394%26amp%3Bidx%3D1%26amp%3Bsn%3Dfb2cf1e3121547b166e7507899fd4b39%26amp%3Bchksm%3Dfa3f0ba1cd4882b709b6be7a5f79fe7fde60753959a580a0d22d902090136a0acfcdc714006d%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -553,24 +553,26 @@
 </summary>
 
 
-- [2022-08-14-欢迎加入读者圈子，一起交流！](https://toutiao.io/k/mtrqmru) ![](assets/new.png)  
-- [2022-08-14-大文件上传时如何做到秒传？](https://toutiao.io/k/iyhuoxx) ![](assets/new.png)  
-- [2022-08-14-接口性能优化实战：从20s到500ms，三招搞定](https://toutiao.io/k/atde79x) ![](assets/new.png)  
-- [2022-08-14-携程海外MySQL数据复制实践](https://toutiao.io/k/tlkmfx5) ![](assets/new.png)  
-- [2022-08-14-一文聊透Netty核心引擎Reactor的运转架构](https://toutiao.io/k/law381n) ![](assets/new.png)  
-- [2022-08-14-计算机极简公开课推荐](https://toutiao.io/k/3n242s7) ![](assets/new.png)  
-- [2022-08-14-花三个小时，完全掌握分片渲染和虚拟列表](https://toutiao.io/k/0xhdw8v) ![](assets/new.png)  
-- [2022-08-14-一块GPU训练TB级推荐模型不是梦，OneEmbedding性能一骑绝尘](https://toutiao.io/k/7okrabr) ![](assets/new.png)  
-- [2022-08-14-【萌新解题】全排列](https://toutiao.io/k/p24notp) ![](assets/new.png)  
-- [2022-08-14-Tekton-实战完整示例](https://toutiao.io/k/jf8u2h7) ![](assets/new.png)  
-- [2022-08-14-TS-类型编程：索引类型递归去掉可选修饰](https://toutiao.io/k/thkpwa1) ![](assets/new.png)  
-- [2022-08-14-推荐-【大厂面试真题解析】虾皮-Shopee-后端一面十四问](https://toutiao.io/k/pol71im) ![](assets/new.png)  
-- [2022-08-14-推荐-研发过程中的文档管理与工具](https://toutiao.io/k/mdiqwn5) ![](assets/new.png)  
-- [2022-08-14-推荐-【设计模式】10分钟学懂UML类图](https://toutiao.io/k/wg4oeyc) ![](assets/new.png)  
-- [2022-08-14-推荐-连流量染色都没有，你说要搞微服务？](https://toutiao.io/k/9k1wfc7) ![](assets/new.png)  
-- [2022-08-14-推荐-京东面试：MQ-消息丢失、重复、积压问题，如何解决？](https://toutiao.io/k/1unx53z) ![](assets/new.png)  
-- [2022-08-14-推荐-Java-大后端各种架构图汇总（建议收藏！！）](https://toutiao.io/k/dvo6z1w) ![](assets/new.png)  
-- [2022-08-14-推荐-微服务接口设计原则](https://toutiao.io/k/4hjv10p) ![](assets/new.png)  
+- [2022-08-15-全网最全的权限系统设计方案（图解）](https://toutiao.io/k/lozkmee) ![](assets/new.png)  
+- [2022-08-15-麻了，代码改成多线程，竟有9大问题](https://toutiao.io/k/1lggdyi) ![](assets/new.png)  
+- [2022-08-15-前端怎么样限制用户截图？](https://toutiao.io/k/80umzng) ![](assets/new.png)  
+- [2022-08-15-优质网站同好者周刊（第-078-期）-|-倾城博客](https://toutiao.io/k/rveastt) ![](assets/new.png)  
+- [2022-08-15-抓到Netty一个Bug，顺带来透彻地聊一下Netty是如何高效接收网络连接的](https://toutiao.io/k/3vfg8nb) ![](assets/new.png)  
+- [2022-08-15-顺丰快递：请签收MySQL灵魂十连](https://toutiao.io/k/oagb15c) ![](assets/new.png)  
+- [2022-08-15-高效能团队的Java研发规范进阶版](https://toutiao.io/k/nud1jt6) ![](assets/new.png)  
+- [2022-08-15-技术实现-|-Apache-Doris-Binlog-导入设计与实现](https://toutiao.io/k/ev9p8cg) ![](assets/new.png)  
+- [2022-08-15-开源kv引擎nutsdb-v0.10.0发布以及背后故事](https://toutiao.io/k/xrpkb3u) ![](assets/new.png)  
+- [2022-08-15-看了我的MyBatis-Plus用法，同事也开始悄悄模仿了...](https://toutiao.io/k/6k00rsq) ![](assets/new.png)  
+- [2022-08-15-Serverless是简化的Kubernetes](https://toutiao.io/k/c7zj3mr) ![](assets/new.png)  
+- [2022-08-15-人工智能有大事发生，LeCun也转型了](https://toutiao.io/k/swos87i) ![](assets/new.png)  
+- [2022-08-15-读了100多本书后，我学到的10件事；32-道-Spring-常见面试总结｜码农周刊VIP会员专属邮件周报-Vol.103](https://toutiao.io/k/pwkxdkr) ![](assets/new.png)  
+- [2022-08-15-推荐-【设计模式】10分钟学懂UML类图](https://toutiao.io/k/wg4oeyc) ![](assets/new.png)  
+- [2022-08-15-推荐-微服务接口设计原则](https://toutiao.io/k/4hjv10p) ![](assets/new.png)  
+- [2022-08-15-推荐-Java-大后端各种架构图汇总（建议收藏！！）](https://toutiao.io/k/dvo6z1w) ![](assets/new.png)  
+- [2022-08-15-推荐-连流量染色都没有，你说要搞微服务？](https://toutiao.io/k/9k1wfc7) ![](assets/new.png)  
+- [2022-08-15-推荐-研发过程中的文档管理与工具](https://toutiao.io/k/mdiqwn5) ![](assets/new.png)  
+- [2022-08-15-推荐-京东面试：MQ-消息丢失、重复、积压问题，如何解决？](https://toutiao.io/k/1unx53z) ![](assets/new.png)  
+- [2022-08-15-推荐-【大厂面试真题解析】虾皮-Shopee-后端一面十四问](https://toutiao.io/k/pol71im) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -11,11 +11,11 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-16 21:13:33，:rocket: 更新条数: +74， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-16 21:38:51，:rocket: 更新条数: +2035， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
@@ -53,7 +53,7 @@
 - [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)![](assets/dot.png)   
-- [开发者头条](#开发者头条)  
+- [开发者头条](#开发者头条)![](assets/dot.png)   
 - [安全热点](#安全热点)  
 - [物联网智库](#物联网智库)  
 
@@ -65,6 +65,26 @@
 </summary>
 
 
+- [2022-03-11-新冠肺炎防疫全纪录（实时更新中）](https://mappv5.caixin.com/m_topic_detail/1696.html) ![](assets/new.png)  
+- [2022-03-10-吉林一校园现聚集性疫情-党委书记被免](https://m.caixin.com/m/2022-03-10/101853899.html) ![](assets/new.png)  
+- [2022-03-10-广州新增1例新冠确诊病例-疾控中心专家称防控形势严峻](https://m.caixin.com/m/2022-03-10/101853835.html) ![](assets/new.png)  
+- [2022-03-10-【境内疫情观察】全国新增402例本土病例、435例本土无症状感染者（3月9日）](https://database.caixin.com/m/2022-03-10/101853636.html) ![](assets/new.png)  
+- [2022-03-10-香港调整抗疫策略-辉瑞口服药确定在华合作伙伴｜大流行手记（3月9日）](https://m.caixin.com/m/2022-03-10/101853553.html) ![](assets/new.png)  
+- [2022-03-10-新加坡官员：本地奥密克戎疫情已过峰值开始消退](https://m.caixin.com/m/2022-03-10/101853827.html) ![](assets/new.png)  
+- [2022-03-09-一小学被列为中风险地区-上海加强线上教学资源](https://m.caixin.com/m/2022-03-09/101853329.html) ![](assets/new.png)  
+- [2022-03-09-香港调整抗疫策略-全民检测或将推迟](https://m.caixin.com/m/2022-03-09/101853319.html) ![](assets/new.png)  
+- [2022-03-09-字节跳动办公区现确诊病例-公司深夜组织员工回家](https://companies.caixin.com/m/2022-03-09/101852947.html) ![](assets/new.png)  
+- [2022-03-09-【境内疫情观察】全国新增322例本土无症状感染者（3月8日）](https://database.caixin.com/m/2022-03-09/101853141.html) ![](assets/new.png)  
+- [2022-03-09-研究称COVID-19或能导致脑异常-马来西亚4月将重新开放边境｜大流行手记（3月8日）](https://m.caixin.com/m/2022-03-09/101853036.html) ![](assets/new.png)  
+- [2022-03-08-北京新增7例本土确诊-一人曾赴上海团建](https://m.caixin.com/m/2022-03-08/101852668.html) ![](assets/new.png)  
+- [2022-03-08-香港日增病例呈回落趋势-港大预测5月降至两位数](https://m.caixin.com/m/2022-03-08/101852848.html) ![](assets/new.png)  
+- [2022-03-08-北京新增新冠病例涉字节跳动办公区-员工就地隔离过夜](https://m.caixin.com/m/2022-03-08/101852591.html) ![](assets/new.png)  
+- [2022-03-08-深港边境临时搭桥-内地援建香港河套应急医院](https://m.caixin.com/m/2022-03-08/101852776.html) ![](assets/new.png)  
+- [2022-03-08-【境内疫情观察】全国现有确诊病例超4000例（3月7日）](https://database.caixin.com/m/2022-03-08/101852579.html) ![](assets/new.png)  
+- [2022-03-08-研究发现新冠重症患者特殊基因-全球死亡病例超600万｜大流行手记（3月7日）](https://m.caixin.com/m/2022-03-08/101852426.html) ![](assets/new.png)  
+- [2022-03-07-广东惠州基层防疫扑杀宠物狗-街道致歉涉事者停职](https://m.caixin.com/m/2022-03-07/101851565.html) ![](assets/new.png)  
+- [2022-03-07-【境内疫情观察】全国新增214例本土病例（3月6日）](https://database.caixin.com/m/2022-03-07/101851858.html) ![](assets/new.png)  
+- [2022-03-07-苏格兰为弱势群体打第四针-印度尼西亚再放宽旅行限制｜大流行手记（3月6日）](https://m.caixin.com/m/2022-03-07/101851699.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -533,6 +553,26 @@
 </summary>
 
 
+- [2022-08-16-大厂Kafka的深度实践](https://toutiao.io/k/7jz8lsl) ![](assets/new.png)  
+- [2022-08-16-HttpClient-在vivo内销浏览器的高并发实践优化](https://toutiao.io/k/whq0h15) ![](assets/new.png)  
+- [2022-08-16-从内核角度来看网络-IO-模型的演变，以及-Netty-中的-IO-线程模型](https://toutiao.io/k/z1sn4ob) ![](assets/new.png)  
+- [2022-08-16-求求你别在用SpringMVC了，太Low了！Spring又官宣了一个更牛逼的替代框架！](https://toutiao.io/k/5gti4d9) ![](assets/new.png)  
+- [2022-08-16-分享16个我总结的思维模型（程序员必读，受用终身）](https://toutiao.io/k/sndnt5f) ![](assets/new.png)  
+- [2022-08-16-破解双中台困局：万家数科-x-StarRocks-数字化技术实践](https://toutiao.io/k/r40zsmw) ![](assets/new.png)  
+- [2022-08-16-Python爬虫之xpath语法及案例使用](https://toutiao.io/k/vx7c0aa) ![](assets/new.png)  
+- [2022-08-16-从Golang调度器的作者视角探究其设计之道！](https://toutiao.io/k/5vxv78h) ![](assets/new.png)  
+- [2022-08-16-时序异常检测综述整理！](https://toutiao.io/k/56nkrs0) ![](assets/new.png)  
+- [2022-08-16-网易严选DMP标签系统建设实践](https://toutiao.io/k/fg5xbbv) ![](assets/new.png)  
+- [2022-08-16-我的师父把-「JWT-令牌」玩到了极致](https://toutiao.io/k/k3d6hzw) ![](assets/new.png)  
+- [2022-08-16-Markdown-写-PPT-是如何实现的？](https://toutiao.io/k/f9w7hal) ![](assets/new.png)  
+- [2022-08-16-智能插帧，打造丝滑视频体验](https://toutiao.io/k/5hc2jxv) ![](assets/new.png)  
+- [2022-08-16-字节一面：HTTPS-会加密-URL-吗？](https://toutiao.io/k/u0czuku) ![](assets/new.png)  
+- [2022-08-16-写代码也要讲规矩——SLA](https://toutiao.io/k/3nfrjtq) ![](assets/new.png)  
+- [2022-08-16-第二个五年，找到擅长的事](https://toutiao.io/k/bdgufmt) ![](assets/new.png)  
+- [2022-08-16-运维工程师职业生涯天花板-SRE-学习路径](https://toutiao.io/k/k0rso04) ![](assets/new.png)  
+- [2022-08-16-Chrome-DevTools-远程调试安卓网页的原理](https://toutiao.io/k/r9o7q2b) ![](assets/new.png)  
+- [2022-08-16-Transform-被废弃，TransformAction-了解一下~](https://toutiao.io/k/qt98k5s) ![](assets/new.png)  
+- [2022-08-16-推荐-【大厂面试真题解析】虾皮-Shopee-后端一面十四问](https://toutiao.io/k/pol71im) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-16 07:37:31，:rocket: 更新条数: +2025， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-16 08:15:05，:rocket: 更新条数: +2023， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,7 +491,14 @@
 </summary>
 
 
-- [2022-08-16-淘宝上还有卖-USB-红外传输文件的设备吗，求个关键词，一直搜索不到](https://www.v2ex.com/t/873229) ![](assets/new.png)  
+- [2022-08-16-后端开发求推荐笔记本预算一万左右](https://www.v2ex.com/t/873239) ![](assets/new.png)  
+- [2022-08-16-珠海远程+公司混合式办公招聘全栈开发工程师](https://www.v2ex.com/t/873238) ![](assets/new.png)  
+- [2022-08-16-有没有靠工具类-APP-存活的个人开发者呢](https://www.v2ex.com/t/873234) ![](assets/new.png)  
+- [2022-08-16-以前亲人急用钱，贷了一笔，发现利率很高，现在想换](https://www.v2ex.com/t/873233) ![](assets/new.png)  
+- [2022-08-16-关于能不能结婚的对错问题！大家理性评价](https://www.v2ex.com/t/873232) ![](assets/new.png)  
+- [2022-08-16-ios16-这个剪贴板确认也太烦了](https://www.v2ex.com/t/873231) ![](assets/new.png)  
+- [2022-08-16-想做一个针对一个话题进行正反方辩论的网站，-App](https://www.v2ex.com/t/873230) ![](assets/new.png)  
+- [2022-08-16-现在还有卖-USB-红外传输文件的设备吗，求个关键词，一直搜索不到](https://www.v2ex.com/t/873229) ![](assets/new.png)  
 - [2022-08-16-搞了一个图床，送二十个会员](https://www.v2ex.com/t/873228) ![](assets/new.png)  
 - [2022-08-16-Edge-为什么动不动就闪退](https://www.v2ex.com/t/873226) ![](assets/new.png)  
 - [2022-08-16-有百度-web-页面组的同学吗？](https://www.v2ex.com/t/873225) ![](assets/new.png)  
@@ -504,13 +511,6 @@
 - [2022-08-16-福州、远程-8-年游戏开发求职，-Unity3d、Cocos、Godot](https://www.v2ex.com/t/873213) ![](assets/new.png)  
 - [2022-08-16-idea-调试，线程问题](https://www.v2ex.com/t/873212) ![](assets/new.png)  
 - [2022-08-16-火星了，我今天发现-iOS-上的滚动条是可以按着拖动的。](https://www.v2ex.com/t/873211) ![](assets/new.png)  
-- [2022-08-16-机器人行业未来到底有没有前景啊](https://www.v2ex.com/t/873210) ![](assets/new.png)  
-- [2022-08-16-公司拖欠工资两个月了，该跑路吗？](https://www.v2ex.com/t/873208) ![](assets/new.png)  
-- [2022-08-16-Python-没有管理或者一键安装升级脚本吗？](https://www.v2ex.com/t/873207) ![](assets/new.png)  
-- [2022-08-16-开源/远程-Natural-Selection-Labs-提供最酷最理想最自由的工作](https://www.v2ex.com/t/873206) ![](assets/new.png)  
-- [2022-08-16-在错的地方和时间里遇到了对的人](https://www.v2ex.com/t/873205) ![](assets/new.png)  
-- [2022-08-16-幼儿园升小学，大家给点小学生的书包推荐](https://www.v2ex.com/t/873203) ![](assets/new.png)  
-- [2022-08-16-骤觉起床后腰酸背痛，弯不下腰了，我该怎么办](https://www.v2ex.com/t/873200) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -572,7 +572,7 @@
 - [2022-08-16-Chrome-DevTools-远程调试安卓网页的原理](https://toutiao.io/k/r9o7q2b) ![](assets/new.png)  
 - [2022-08-16-运维工程师职业生涯天花板-SRE-学习路径](https://toutiao.io/k/k0rso04) ![](assets/new.png)  
 - [2022-08-16-Transform-被废弃，TransformAction-了解一下~](https://toutiao.io/k/qt98k5s) ![](assets/new.png)  
-- [2022-08-16-推荐-【大厂面试真题解析】虾皮-Shopee-后端一面十四问](https://toutiao.io/k/pol71im) ![](assets/new.png)  
+- [2022-08-16-推荐-连流量染色都没有，你说要搞微服务？](https://toutiao.io/k/9k1wfc7) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

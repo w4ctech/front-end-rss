@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-08-16 16:18:59。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-08-16 16:57:59。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,13 @@
 </summary>
 
 
+- [【V2EX】2022-08-16-命令行下有没有办法通过拼音进行-tab-补全？](https://www.v2ex.com/t/873331) 
+- [【V2EX】2022-08-16-为什么看-b-站-4k50-帧浏览器会经常卡顿无响应而看-youtube-4k60-很流畅？](https://www.v2ex.com/t/873330) 
+- [【V2EX】2022-08-16-上海电信青年一派无故停机](https://www.v2ex.com/t/873328) 
+- [【V2EX】2022-08-16-请教一个华为交换机访问-web-页面的问题](https://www.v2ex.com/t/873327) 
+- [【V2EX】2022-08-16-厦门电信，有推荐的-VPS-吗？](https://www.v2ex.com/t/873326) 
+- [【V2EX】2022-08-16-索尼降噪豆连-iPhone-，摘下来一段时间再戴上声音会变得很大，要怎么解决呢？](https://www.v2ex.com/t/873325) 
+- [【V2EX】2022-08-16-Windows-系统的云轻量服务器可以做些什么有意思的是？](https://www.v2ex.com/t/873324) 
 - [【V2EX】2022-08-16-简单易部署的-windows-平台协同办公软件？](https://www.v2ex.com/t/873323) 
 - [【V2EX】2022-08-16-RedisFish---一款专注于数据的跨平台-Redis-GUI-客户端，带着一波优化更新又来啦～](https://www.v2ex.com/t/873322) 
 - [【V2EX】2022-08-16-将-EFI-文件放到-U-盘，系统文件都留在本地盘-这样是否可以插入-U-盘才能引导该系统？](https://www.v2ex.com/t/873320) 
@@ -103,11 +110,6 @@
 - [【V2EX】2022-08-16-pve-ssh-可以登录，-web-无法登录](https://www.v2ex.com/t/873285) 
 - [【V2EX】2022-08-16-上海-Web3-Startup-招后端/Flutter-团队氛围好，工作愉悦，已拿到-Hashkey，-Mask，-Y2Z-等机构的投资](https://www.v2ex.com/t/873283) 
 - [【V2EX】2022-08-16-代码会说话之一个脚本帮你检查项目-996-状态](https://www.v2ex.com/t/873282) 
-- [【V2EX】2022-08-16-我最近在-github-上起了一个机器学习工具项目（标注，数据增广等）](https://www.v2ex.com/t/873281) 
-- [【V2EX】2022-08-16-macOS-如何固定输入法?](https://www.v2ex.com/t/873280) 
-- [【V2EX】2022-08-16-工作的意义究竟是什么](https://www.v2ex.com/t/873279) 
-- [【V2EX】2022-08-16-rust-有没有像-c/c++一样判断当前编译的架构/操作系统的宏，主要是想要交叉编译，一套代码运行在-Linux-和-Windows](https://www.v2ex.com/t/873277) 
-- [【V2EX】2022-08-16-即将要做-ercp-手术](https://www.v2ex.com/t/873276) 
 - [【技术头条】2022-08-16-如何评估企业的数据质量-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15290&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-evaluate-improve-data-quality%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-08-16-API快速开发平台设计思考-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15289&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494493%26amp%3Bidx%3D2%26amp%3Bsn%3D0a8c5777a83b3a8e258fbc87cf99a5a1%26amp%3Bchksm%3Dfa3f0a06cd488310cc0d0f14d9ba2c67b676a2869bed0df3c1c5c32dfeda2c0b973c1d7f46df%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-08-16-别再乱搞了，快看优秀的代码是如何分层的！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15288&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494492%26amp%3Bidx%3D1%26amp%3Bsn%3D4d2b541cd0ba81b9acc397edfb735650%26amp%3Bchksm%3Dfa3f0a07cd488311b23c5e0c080092bd01875edc5be3e23b74a4ce3a171b8ef626d12f660484%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -150,9 +152,9 @@
 - [【开发者头条】2022-08-16-推荐-京东面试：MQ-消息丢失、重复、积压问题，如何解决？](https://toutiao.io/k/1unx53z) 
 - [【开发者头条】2022-08-16-推荐-【大厂面试真题解析】虾皮-Shopee-后端一面十四问](https://toutiao.io/k/pol71im) 
 - [【开发者头条】2022-08-16-推荐-微服务接口设计原则](https://toutiao.io/k/4hjv10p) 
-- [【开发者头条】2022-08-16-推荐-掌握这些-SpringBoot-启动扩展点，已经超过-90%-的人了](https://toutiao.io/k/3m8iq2m) 
-- [【开发者头条】2022-08-16-推荐-Java-大后端各种架构图汇总（建议收藏！！）](https://toutiao.io/k/dvo6z1w) 
 - [【开发者头条】2022-08-16-推荐-连流量染色都没有，你说要搞微服务？](https://toutiao.io/k/9k1wfc7) 
+- [【开发者头条】2022-08-16-推荐-Java-大后端各种架构图汇总（建议收藏！！）](https://toutiao.io/k/dvo6z1w) 
+- [【开发者头条】2022-08-16-推荐-掌握这些-SpringBoot-启动扩展点，已经超过-90%-的人了](https://toutiao.io/k/3m8iq2m) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

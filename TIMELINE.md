@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-08-16 11:12:13。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-08-16 11:36:35。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,9 @@
 </summary>
 
 
+- [【V2EX】2022-08-16-求求大家不要在办公室穿凉鞋拖鞋了！](https://www.v2ex.com/t/873288) 
+- [【V2EX】2022-08-16-k8s-service-无法负载均衡](https://www.v2ex.com/t/873287) 
+- [【V2EX】2022-08-16-字节跳动-TikTok-Social-北京、上海、杭州-服务端研发、IOS、Android-端社招（裁员大环境下为数不多扩招的团队）](https://www.v2ex.com/t/873286) 
 - [【V2EX】2022-08-16-pve-ssh-可以登录，-web-无法登录](https://www.v2ex.com/t/873285) 
 - [【V2EX】2022-08-16-上海-Web3-Startup-招后端/Flutter-团队氛围好，工作愉悦，已拿到-Hashkey，-Mask，-Y2Z-等机构的投资](https://www.v2ex.com/t/873283) 
 - [【V2EX】2022-08-16-代码会说话之一个脚本帮你检查项目-996-状态](https://www.v2ex.com/t/873282) 
@@ -104,8 +107,6 @@
 - [【V2EX】2022-08-16-不懂就问：那种好看的截图是怎么做出来的？](https://www.v2ex.com/t/873245) 
 - [【V2EX】2022-08-16-M1-MBA-扬声器问题](https://www.v2ex.com/t/873243) 
 - [【V2EX】2022-08-16-新买的硬盘坏道扫描问题](https://www.v2ex.com/t/873242) 
-- [【V2EX】2022-08-16-后端开发求推荐笔记本预算一万左右](https://www.v2ex.com/t/873239) 
-- [【V2EX】2022-08-16-珠海远程+公司混合式办公招聘全栈开发工程师](https://www.v2ex.com/t/873238) 
 - [【技术头条】2022-08-16-如何评估企业的数据质量-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15290&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-evaluate-improve-data-quality%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-08-16-API快速开发平台设计思考-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15289&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494493%26amp%3Bidx%3D2%26amp%3Bsn%3D0a8c5777a83b3a8e258fbc87cf99a5a1%26amp%3Bchksm%3Dfa3f0a06cd488310cc0d0f14d9ba2c67b676a2869bed0df3c1c5c32dfeda2c0b973c1d7f46df%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-08-16-别再乱搞了，快看优秀的代码是如何分层的！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15288&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494492%26amp%3Bidx%3D1%26amp%3Bsn%3D4d2b541cd0ba81b9acc397edfb735650%26amp%3Bchksm%3Dfa3f0a07cd488311b23c5e0c080092bd01875edc5be3e23b74a4ce3a171b8ef626d12f660484%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -145,12 +146,12 @@
 - [【开发者头条】2022-08-16-Chrome-DevTools-远程调试安卓网页的原理](https://toutiao.io/k/r9o7q2b) 
 - [【开发者头条】2022-08-16-运维工程师职业生涯天花板-SRE-学习路径](https://toutiao.io/k/k0rso04) 
 - [【开发者头条】2022-08-16-Transform-被废弃，TransformAction-了解一下~](https://toutiao.io/k/qt98k5s) 
-- [【开发者头条】2022-08-16-推荐-掌握这些-SpringBoot-启动扩展点，已经超过-90%-的人了](https://toutiao.io/k/3m8iq2m) 
 - [【开发者头条】2022-08-16-推荐-京东面试：MQ-消息丢失、重复、积压问题，如何解决？](https://toutiao.io/k/1unx53z) 
-- [【开发者头条】2022-08-16-推荐-Java-大后端各种架构图汇总（建议收藏！！）](https://toutiao.io/k/dvo6z1w) 
-- [【开发者头条】2022-08-16-推荐-微服务接口设计原则](https://toutiao.io/k/4hjv10p) 
 - [【开发者头条】2022-08-16-推荐-【大厂面试真题解析】虾皮-Shopee-后端一面十四问](https://toutiao.io/k/pol71im) 
+- [【开发者头条】2022-08-16-推荐-掌握这些-SpringBoot-启动扩展点，已经超过-90%-的人了](https://toutiao.io/k/3m8iq2m) 
+- [【开发者头条】2022-08-16-推荐-微服务接口设计原则](https://toutiao.io/k/4hjv10p) 
 - [【开发者头条】2022-08-16-推荐-连流量染色都没有，你说要搞微服务？](https://toutiao.io/k/9k1wfc7) 
+- [【开发者头条】2022-08-16-推荐-Java-大后端各种架构图汇总（建议收藏！！）](https://toutiao.io/k/dvo6z1w) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

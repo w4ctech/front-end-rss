@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-16 11:12:12，:rocket: 更新条数: +2029， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-16 11:36:35，:rocket: 更新条数: +2030， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,9 @@
 </summary>
 
 
+- [2022-08-16-求求大家不要在办公室穿凉鞋拖鞋了！](https://www.v2ex.com/t/873288) ![](assets/new.png)  
+- [2022-08-16-k8s-service-无法负载均衡](https://www.v2ex.com/t/873287) ![](assets/new.png)  
+- [2022-08-16-字节跳动-TikTok-Social-北京、上海、杭州-服务端研发、IOS、Android-端社招（裁员大环境下为数不多扩招的团队）](https://www.v2ex.com/t/873286) ![](assets/new.png)  
 - [2022-08-16-pve-ssh-可以登录，-web-无法登录](https://www.v2ex.com/t/873285) ![](assets/new.png)  
 - [2022-08-16-上海-Web3-Startup-招后端/Flutter-团队氛围好，工作愉悦，已拿到-Hashkey，-Mask，-Y2Z-等机构的投资](https://www.v2ex.com/t/873283) ![](assets/new.png)  
 - [2022-08-16-代码会说话之一个脚本帮你检查项目-996-状态](https://www.v2ex.com/t/873282) ![](assets/new.png)  
@@ -508,9 +511,6 @@
 - [2022-08-16-安卓-TV-前端研发：年薪-30w-起步，单休，远程工作：](https://www.v2ex.com/t/873267) ![](assets/new.png)  
 - [2022-08-16-为什么以前满屏幕都是二次元女生的头像，现在基本上少了一大半](https://www.v2ex.com/t/873266) ![](assets/new.png)  
 - [2022-08-16-如何开发一款基于-Vite+Vue3-的在线表格系统（上）](https://www.v2ex.com/t/873265) ![](assets/new.png)  
-- [2022-08-16-infstones-后端开发工程师，薪资优-北京](https://www.v2ex.com/t/873264) ![](assets/new.png)  
-- [2022-08-16-想问-V-友，月-5000，公积金各-1500-属于什么生活水平？](https://www.v2ex.com/t/873263) ![](assets/new.png)  
-- [2022-08-16-pgpool-if_up_cmd-配置好像不起作用](https://www.v2ex.com/t/873262) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -572,7 +572,7 @@
 - [2022-08-16-Chrome-DevTools-远程调试安卓网页的原理](https://toutiao.io/k/r9o7q2b) ![](assets/new.png)  
 - [2022-08-16-运维工程师职业生涯天花板-SRE-学习路径](https://toutiao.io/k/k0rso04) ![](assets/new.png)  
 - [2022-08-16-Transform-被废弃，TransformAction-了解一下~](https://toutiao.io/k/qt98k5s) ![](assets/new.png)  
-- [2022-08-16-推荐-掌握这些-SpringBoot-启动扩展点，已经超过-90%-的人了](https://toutiao.io/k/3m8iq2m) ![](assets/new.png)  
+- [2022-08-16-推荐-京东面试：MQ-消息丢失、重复、积压问题，如何解决？](https://toutiao.io/k/1unx53z) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

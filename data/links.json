@@ -9953,6 +9953,26 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "幼儿园升小学，大家给点小学生的书包推荐",
+        "link": "https://www.v2ex.com/t/873203",
+        "date": "2022-08-16"
+      },
+      {
+        "title": "骤觉起床后腰酸背痛，弯不下腰了，我该怎么办",
+        "link": "https://www.v2ex.com/t/873200",
+        "date": "2022-08-16"
+      },
+      {
+        "title": "这个技术太神奇了,是怎么实现的?",
+        "link": "https://www.v2ex.com/t/873199",
+        "date": "2022-08-16"
+      },
+      {
+        "title": "虹桥路地铁站 3／ 4／ 10 号线，附近两室一厅出租",
+        "link": "https://www.v2ex.com/t/873198",
+        "date": "2022-08-16"
+      },
+      {
         "title": "能不能一起来订阅 minecraft realms？",
         "link": "https://www.v2ex.com/t/873193",
         "date": "2022-08-16"
@@ -10101,41 +10121,6 @@
         "title": "风骚律师大结局，毒师宇宙完结",
         "link": "https://www.v2ex.com/t/873154",
         "date": "2022-08-16"
-      },
-      {
-        "title": "移动现在有没有什么比较划算的无限流量套餐",
-        "link": "https://www.v2ex.com/t/873151",
-        "date": "2022-08-16"
-      },
-      {
-        "title": "请问哪些电商打印快递单控件都用了什么技术？",
-        "link": "https://www.v2ex.com/t/873150",
-        "date": "2022-08-16"
-      },
-      {
-        "title": "坚果新品超短焦 O1S 怎么样？",
-        "link": "https://www.v2ex.com/t/873149",
-        "date": "2022-08-16"
-      },
-      {
-        "title": "基于 vite 配了个支持 ie11 的初始化模板",
-        "link": "https://www.v2ex.com/t/873148",
-        "date": "2022-08-16"
-      },
-      {
-        "title": "业务目标不一致问题，怎么解决",
-        "link": "https://www.v2ex.com/t/873147",
-        "date": "2022-08-16"
-      },
-      {
-        "title": "北京联通有大佬出租富余的第二条宽带么",
-        "link": "https://www.v2ex.com/t/873146",
-        "date": "2022-08-16"
-      },
-      {
-        "title": "江苏南京宽带该选联通还是电信啊？",
-        "link": "https://www.v2ex.com/t/873145",
-        "date": "2022-08-16"
       }
     ]
   },
@@ -10144,6 +10129,11 @@
     "title": "技术头条",
     "link": "http://blogread.cn/news/newest.php",
     "items": [
+      {
+        "title": "如何评估企业的数据质量 (insights.thoughtworks.cn)",
+        "link": "https://blogread.cn/news/go.php?idItem=15290&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-evaluate-improve-data-quality%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2022-08-16"
+      },
       {
         "title": "API快速开发平台设计思考 (mp.weixin.qq.com)",
         "link": "https://blogread.cn/news/go.php?idItem=15289&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494493%26amp%3Bidx%3D2%26amp%3Bsn%3D0a8c5777a83b3a8e258fbc87cf99a5a1%26amp%3Bchksm%3Dfa3f0a06cd488310cc0d0f14d9ba2c67b676a2869bed0df3c1c5c32dfeda2c0b973c1d7f46df%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
@@ -10238,11 +10228,6 @@
         "title": "SpringBoot四大核心组件，你知道几个？ (mp.weixin.qq.com)",
         "link": "https://blogread.cn/news/go.php?idItem=15271&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494395%26amp%3Bidx%3D2%26amp%3Bsn%3D7625c27c0bbb10cfd2e5e1d8a09a3c74%26amp%3Bchksm%3Dfa3f0ba0cd4882b6baa602f1f11ffebc9ec2dadb2ee131a812efc29a71e64cb3959c144707ff%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
         "date": "2022-08-16"
-      },
-      {
-        "title": "为什么现在我特讨厌Safari浏览器？ (mp.weixin.qq.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=15270&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494394%26amp%3Bidx%3D1%26amp%3Bsn%3Dfb2cf1e3121547b166e7507899fd4b39%26amp%3Bchksm%3Dfa3f0ba1cd4882b709b6be7a5f79fe7fde60753959a580a0d22d902090136a0acfcdc714006d%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-08-16"
       }
     ]
   },
@@ -10307,6 +10292,11 @@
         "date": "2022-08-16"
       },
       {
+        "title": "网易严选DMP标签系统建设实践",
+        "link": "https://toutiao.io/k/fg5xbbv",
+        "date": "2022-08-16"
+      },
+      {
         "title": "字节一面：HTTPS 会加密 URL 吗？",
         "link": "https://toutiao.io/k/u0czuku",
         "date": "2022-08-16"
@@ -10322,8 +10312,33 @@
         "date": "2022-08-16"
       },
       {
-        "title": "网易严选DMP标签系统建设实践",
-        "link": "https://toutiao.io/k/fg5xbbv",
+        "title": "运维工程师职业生涯天花板 SRE 学习路径",
+        "link": "https://toutiao.io/k/k0rso04",
+        "date": "2022-08-16"
+      },
+      {
+        "title": "Chrome DevTools 远程调试安卓网页的原理",
+        "link": "https://toutiao.io/k/r9o7q2b",
+        "date": "2022-08-16"
+      },
+      {
+        "title": "第二个五年，找到擅长的事",
+        "link": "https://toutiao.io/k/bdgufmt",
+        "date": "2022-08-16"
+      },
+      {
+        "title": "Transform 被废弃，TransformAction 了解一下~",
+        "link": "https://toutiao.io/k/qt98k5s",
+        "date": "2022-08-16"
+      },
+      {
+        "title": "[推荐] Java 大后端各种架构图汇总（建议收藏！！）",
+        "link": "https://toutiao.io/k/dvo6z1w",
+        "date": "2022-08-16"
+      },
+      {
+        "title": "[推荐] 【大厂面试真题解析】虾皮 Shopee 后端一面十四问",
+        "link": "https://toutiao.io/k/pol71im",
         "date": "2022-08-16"
       },
       {
@@ -10339,16 +10354,6 @@
       {
         "title": "[推荐] 京东面试：MQ 消息丢失、重复、积压问题，如何解决？",
         "link": "https://toutiao.io/k/1unx53z",
-        "date": "2022-08-16"
-      },
-      {
-        "title": "[推荐] Java 大后端各种架构图汇总（建议收藏！！）",
-        "link": "https://toutiao.io/k/dvo6z1w",
-        "date": "2022-08-16"
-      },
-      {
-        "title": "[推荐] 【大厂面试真题解析】虾皮 Shopee 后端一面十四问",
-        "link": "https://toutiao.io/k/pol71im",
         "date": "2022-08-16"
       },
       {

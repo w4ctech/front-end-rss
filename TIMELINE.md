@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-08-16 05:37:58。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-08-16 06:18:08。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,10 @@
 </summary>
 
 
+- [【V2EX】2022-08-16-幼儿园升小学，大家给点小学生的书包推荐](https://www.v2ex.com/t/873203) 
+- [【V2EX】2022-08-16-骤觉起床后腰酸背痛，弯不下腰了，我该怎么办](https://www.v2ex.com/t/873200) 
+- [【V2EX】2022-08-16-这个技术太神奇了,是怎么实现的?](https://www.v2ex.com/t/873199) 
+- [【V2EX】2022-08-16-虹桥路地铁站-3／-4／-10-号线，附近两室一厅出租](https://www.v2ex.com/t/873198) 
 - [【V2EX】2022-08-16-能不能一起来订阅-minecraft-realms？](https://www.v2ex.com/t/873193) 
 - [【V2EX】2022-08-16-孤独到底是种什么样的感情，为什么能得到安慰](https://www.v2ex.com/t/873192) 
 - [【V2EX】2022-08-16-除了爱思，还有什么办法能把抓包的旧版本-ipa-文件安装到-iPhone-？](https://www.v2ex.com/t/873191) 
@@ -98,13 +102,7 @@
 - [【V2EX】2022-08-16-seed-大赛有了解的老哥吗？](https://www.v2ex.com/t/873159) 
 - [【V2EX】2022-08-16-去中心化即时通讯](https://www.v2ex.com/t/873155) 
 - [【V2EX】2022-08-16-风骚律师大结局，毒师宇宙完结](https://www.v2ex.com/t/873154) 
-- [【V2EX】2022-08-16-移动现在有没有什么比较划算的无限流量套餐](https://www.v2ex.com/t/873151) 
-- [【V2EX】2022-08-16-请问哪些电商打印快递单控件都用了什么技术？](https://www.v2ex.com/t/873150) 
-- [【V2EX】2022-08-16-坚果新品超短焦-O1S-怎么样？](https://www.v2ex.com/t/873149) 
-- [【V2EX】2022-08-16-基于-vite-配了个支持-ie11-的初始化模板](https://www.v2ex.com/t/873148) 
-- [【V2EX】2022-08-16-业务目标不一致问题，怎么解决](https://www.v2ex.com/t/873147) 
-- [【V2EX】2022-08-16-北京联通有大佬出租富余的第二条宽带么](https://www.v2ex.com/t/873146) 
-- [【V2EX】2022-08-16-江苏南京宽带该选联通还是电信啊？](https://www.v2ex.com/t/873145) 
+- [【技术头条】2022-08-16-如何评估企业的数据质量-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15290&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-evaluate-improve-data-quality%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-08-16-API快速开发平台设计思考-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15289&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494493%26amp%3Bidx%3D2%26amp%3Bsn%3D0a8c5777a83b3a8e258fbc87cf99a5a1%26amp%3Bchksm%3Dfa3f0a06cd488310cc0d0f14d9ba2c67b676a2869bed0df3c1c5c32dfeda2c0b973c1d7f46df%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-08-16-别再乱搞了，快看优秀的代码是如何分层的！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15288&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494492%26amp%3Bidx%3D1%26amp%3Bsn%3D4d2b541cd0ba81b9acc397edfb735650%26amp%3Bchksm%3Dfa3f0a07cd488311b23c5e0c080092bd01875edc5be3e23b74a4ce3a171b8ef626d12f660484%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-08-16-Vue实现数组四级联动-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15287&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494492%26amp%3Bidx%3D2%26amp%3Bsn%3D1a3699a7c4490775d21ad7c82076d162%26amp%3Bchksm%3Dfa3f0a07cd4883110ff6766683036e3047417811b06c78952ac119614d0252c033e0a53d526b%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -124,7 +122,6 @@
 - [【技术头条】2022-08-16-完成原型设计的五个步骤-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15273&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffive-steps-for-prototype-design%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-08-16-敏捷交付的工程效能治理-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15272&url=https%3A%2F%2Finsights.thoughtworks.cn%2F%3Fp%3D16439%26amp%3Bpreview%3Dtrue%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-08-16-SpringBoot四大核心组件，你知道几个？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15271&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494395%26amp%3Bidx%3D2%26amp%3Bsn%3D7625c27c0bbb10cfd2e5e1d8a09a3c74%26amp%3Bchksm%3Dfa3f0ba0cd4882b6baa602f1f11ffebc9ec2dadb2ee131a812efc29a71e64cb3959c144707ff%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
-- [【技术头条】2022-08-16-为什么现在我特讨厌Safari浏览器？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15270&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494394%26amp%3Bidx%3D1%26amp%3Bsn%3Dfb2cf1e3121547b166e7507899fd4b39%26amp%3Bchksm%3Dfa3f0ba1cd4882b709b6be7a5f79fe7fde60753959a580a0d22d902090136a0acfcdc714006d%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【开发者头条】2022-08-16-大厂Kafka的深度实践](https://toutiao.io/k/7jz8lsl) 
 - [【开发者头条】2022-08-16-HttpClient-在vivo内销浏览器的高并发实践优化](https://toutiao.io/k/whq0h15) 
 - [【开发者头条】2022-08-16-Python爬虫之xpath语法及案例使用](https://toutiao.io/k/vx7c0aa) 
@@ -136,15 +133,19 @@
 - [【开发者头条】2022-08-16-分享16个我总结的思维模型（程序员必读，受用终身）](https://toutiao.io/k/sndnt5f) 
 - [【开发者头条】2022-08-16-Markdown-写-PPT-是如何实现的？](https://toutiao.io/k/f9w7hal) 
 - [【开发者头条】2022-08-16-智能插帧，打造丝滑视频体验](https://toutiao.io/k/5hc2jxv) 
+- [【开发者头条】2022-08-16-网易严选DMP标签系统建设实践](https://toutiao.io/k/fg5xbbv) 
 - [【开发者头条】2022-08-16-字节一面：HTTPS-会加密-URL-吗？](https://toutiao.io/k/u0czuku) 
 - [【开发者头条】2022-08-16-我的师父把-「JWT-令牌」玩到了极致](https://toutiao.io/k/k3d6hzw) 
 - [【开发者头条】2022-08-16-写代码也要讲规矩——SLA](https://toutiao.io/k/3nfrjtq) 
-- [【开发者头条】2022-08-16-网易严选DMP标签系统建设实践](https://toutiao.io/k/fg5xbbv) 
+- [【开发者头条】2022-08-16-运维工程师职业生涯天花板-SRE-学习路径](https://toutiao.io/k/k0rso04) 
+- [【开发者头条】2022-08-16-Chrome-DevTools-远程调试安卓网页的原理](https://toutiao.io/k/r9o7q2b) 
+- [【开发者头条】2022-08-16-第二个五年，找到擅长的事](https://toutiao.io/k/bdgufmt) 
+- [【开发者头条】2022-08-16-Transform-被废弃，TransformAction-了解一下~](https://toutiao.io/k/qt98k5s) 
+- [【开发者头条】2022-08-16-推荐-Java-大后端各种架构图汇总（建议收藏！！）](https://toutiao.io/k/dvo6z1w) 
+- [【开发者头条】2022-08-16-推荐-【大厂面试真题解析】虾皮-Shopee-后端一面十四问](https://toutiao.io/k/pol71im) 
 - [【开发者头条】2022-08-16-推荐-微服务接口设计原则](https://toutiao.io/k/4hjv10p) 
 - [【开发者头条】2022-08-16-推荐-掌握这些-SpringBoot-启动扩展点，已经超过-90%-的人了](https://toutiao.io/k/3m8iq2m) 
 - [【开发者头条】2022-08-16-推荐-京东面试：MQ-消息丢失、重复、积压问题，如何解决？](https://toutiao.io/k/1unx53z) 
-- [【开发者头条】2022-08-16-推荐-Java-大后端各种架构图汇总（建议收藏！！）](https://toutiao.io/k/dvo6z1w) 
-- [【开发者头条】2022-08-16-推荐-【大厂面试真题解析】虾皮-Shopee-后端一面十四问](https://toutiao.io/k/pol71im) 
 - [【开发者头条】2022-08-16-推荐-连流量染色都没有，你说要搞微服务？](https://toutiao.io/k/9k1wfc7) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>

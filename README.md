@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-16 03:29:59，:rocket: 更新条数: +2029， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-16 04:26:26，:rocket: 更新条数: +2024， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,26 +491,26 @@
 </summary>
 
 
+- [2022-08-16-盘状半月板损伤，有病友么？现在纠结手术不手术。](https://www.v2ex.com/t/873176) ![](assets/new.png)  
+- [2022-08-16-西安-9-年-Python-后端开发，求职](https://www.v2ex.com/t/873175) ![](assets/new.png)  
+- [2022-08-16-镜像网站数据库重启的疑问](https://www.v2ex.com/t/873174) ![](assets/new.png)  
+- [2022-08-16-调查下有多少人想搞自己的-SaaS-系统?](https://www.v2ex.com/t/873173) ![](assets/new.png)  
+- [2022-08-16-兄弟们-Chrome-启动后一直向一些陌生-IP-发-TCP-包是啥情况？](https://www.v2ex.com/t/873172) ![](assets/new.png)  
+- [2022-08-16-看见英文能理解,-却怎么也想不起来中文,-怎么破](https://www.v2ex.com/t/873171) ![](assets/new.png)  
+- [2022-08-16-安卓-APP-刚刚打开就手动退出，之后突然又弹出来是怎么回事？](https://www.v2ex.com/t/873170) ![](assets/new.png)  
+- [2022-08-16-哪位有-arc-浏览器的同学可以帮邀请一下么？](https://www.v2ex.com/t/873169) ![](assets/new.png)  
+- [2022-08-16-显示器可以反向-PD-供电，那是不是可以一线连-switch-了呢？](https://www.v2ex.com/t/873168) ![](assets/new.png)  
+- [2022-08-16-问下-V2EX-账号怎么样才能解封](https://www.v2ex.com/t/873166) ![](assets/new.png)  
+- [2022-08-16-求推荐：网盘有“照片”功能。](https://www.v2ex.com/t/873165) ![](assets/new.png)  
+- [2022-08-16-基于-V2EX-API-2.0-写了一个浏览器扩展-V2EX-lite，帮你更快更简单的查看-v2ex，支持-Google-Chrome、Mozilla-Firefox、Microsoft-Edge-和-Brave。](https://www.v2ex.com/t/873164) ![](assets/new.png)  
+- [2022-08-16-请问一下深圳的老哥们，搬家找哪家搬家公司比较靠谱？](https://www.v2ex.com/t/873162) ![](assets/new.png)  
+- [2022-08-16-米哈游《原神》赠送-2-个月苹果-Apple-Music-订阅会员，新-/-曾用户可领取](https://www.v2ex.com/t/873161) ![](assets/new.png)  
+- [2022-08-16-seed-大赛有了解的老哥吗？](https://www.v2ex.com/t/873159) ![](assets/new.png)  
 - [2022-08-16-去中心化即时通讯](https://www.v2ex.com/t/873155) ![](assets/new.png)  
 - [2022-08-16-风骚律师大结局，毒师宇宙完结](https://www.v2ex.com/t/873154) ![](assets/new.png)  
 - [2022-08-16-移动现在有没有什么比较划算的无限流量套餐](https://www.v2ex.com/t/873151) ![](assets/new.png)  
 - [2022-08-16-请问哪些电商打印快递单控件都用了什么技术？](https://www.v2ex.com/t/873150) ![](assets/new.png)  
 - [2022-08-16-坚果新品超短焦-O1S-怎么样？](https://www.v2ex.com/t/873149) ![](assets/new.png)  
-- [2022-08-16-基于-vite-配了个支持-ie11-的初始化模板](https://www.v2ex.com/t/873148) ![](assets/new.png)  
-- [2022-08-16-业务目标不一致问题，怎么解决](https://www.v2ex.com/t/873147) ![](assets/new.png)  
-- [2022-08-16-北京联通有大佬出租富余的第二条宽带么](https://www.v2ex.com/t/873146) ![](assets/new.png)  
-- [2022-08-16-江苏南京宽带该选联通还是电信啊？](https://www.v2ex.com/t/873145) ![](assets/new.png)  
-- [2022-08-16-想做一个医院抢号的软件](https://www.v2ex.com/t/873144) ![](assets/new.png)  
-- [2022-08-16-求一个支持导入-word-文档的技术博客平台](https://www.v2ex.com/t/873143) ![](assets/new.png)  
-- [2022-08-16-每天-6-点半起床去游泳，心情真的会变好（顺便减重了-14-斤）](https://www.v2ex.com/t/873142) ![](assets/new.png)  
-- [2022-08-16-问题集：-1、你觉得（到现在）你的人生值得吗？-2、你愿意重活一次吗？-3、你愿意生孩子吗？](https://www.v2ex.com/t/873141) ![](assets/new.png)  
-- [2022-08-16-今天纯吐槽，某大国，用各种-app-折腾你，不折腾死你誓不罢休-！](https://www.v2ex.com/t/873140) ![](assets/new.png)  
-- [2022-08-16-现在支持-avif-格式有什么图床吗？](https://www.v2ex.com/t/873139) ![](assets/new.png)  
-- [2022-08-16-2022-年，如何才能注册土耳其区网飞账号？](https://www.v2ex.com/t/873138) ![](assets/new.png)  
-- [2022-08-16-node.js-从-14-升级到-16-以后，从-git-安装包一直不成功，大家遇到过吗？](https://www.v2ex.com/t/873137) ![](assets/new.png)  
-- [2022-08-16-3/4/7-号线镇坪路，两室一厅，招个室友](https://www.v2ex.com/t/873136) ![](assets/new.png)  
-- [2022-08-16-如何确定收件人是否真的收到邮件？](https://www.v2ex.com/t/873135) ![](assets/new.png)  
-- [2022-08-16-请教各位-vue3-是不是今后前端趋势？](https://www.v2ex.com/t/873134) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -559,20 +559,20 @@
 - [2022-08-16-求求你别在用SpringMVC了，太Low了！Spring又官宣了一个更牛逼的替代框架！](https://toutiao.io/k/5gti4d9) ![](assets/new.png)  
 - [2022-08-16-从Golang调度器的作者视角探究其设计之道！](https://toutiao.io/k/5vxv78h) ![](assets/new.png)  
 - [2022-08-16-从内核角度来看网络-IO-模型的演变，以及-Netty-中的-IO-线程模型](https://toutiao.io/k/z1sn4ob) ![](assets/new.png)  
+- [2022-08-16-破解双中台困局：万家数科-x-StarRocks-数字化技术实践](https://toutiao.io/k/r40zsmw) ![](assets/new.png)  
 - [2022-08-16-Markdown-写-PPT-是如何实现的？](https://toutiao.io/k/f9w7hal) ![](assets/new.png)  
 - [2022-08-16-智能插帧，打造丝滑视频体验](https://toutiao.io/k/5hc2jxv) ![](assets/new.png)  
-- [2022-08-16-破解双中台困局：万家数科-x-StarRocks-数字化技术实践](https://toutiao.io/k/r40zsmw) ![](assets/new.png)  
 - [2022-08-16-时序异常检测综述整理！](https://toutiao.io/k/56nkrs0) ![](assets/new.png)  
 - [2022-08-16-分享16个我总结的思维模型（程序员必读，受用终身）](https://toutiao.io/k/sndnt5f) ![](assets/new.png)  
-- [2022-08-16-我的师父把-「JWT-令牌」玩到了极致](https://toutiao.io/k/k3d6hzw) ![](assets/new.png)  
 - [2022-08-16-字节一面：HTTPS-会加密-URL-吗？](https://toutiao.io/k/u0czuku) ![](assets/new.png)  
+- [2022-08-16-我的师父把-「JWT-令牌」玩到了极致](https://toutiao.io/k/k3d6hzw) ![](assets/new.png)  
 - [2022-08-16-写代码也要讲规矩——SLA](https://toutiao.io/k/3nfrjtq) ![](assets/new.png)  
 - [2022-08-16-网易严选DMP标签系统建设实践](https://toutiao.io/k/fg5xbbv) ![](assets/new.png)  
+- [2022-08-16-推荐-京东面试：MQ-消息丢失、重复、积压问题，如何解决？](https://toutiao.io/k/1unx53z) ![](assets/new.png)  
+- [2022-08-16-推荐-Java-大后端各种架构图汇总（建议收藏！！）](https://toutiao.io/k/dvo6z1w) ![](assets/new.png)  
 - [2022-08-16-推荐-连流量染色都没有，你说要搞微服务？](https://toutiao.io/k/9k1wfc7) ![](assets/new.png)  
 - [2022-08-16-推荐-掌握这些-SpringBoot-启动扩展点，已经超过-90%-的人了](https://toutiao.io/k/3m8iq2m) ![](assets/new.png)  
 - [2022-08-16-推荐-微服务接口设计原则](https://toutiao.io/k/4hjv10p) ![](assets/new.png)  
-- [2022-08-16-推荐-京东面试：MQ-消息丢失、重复、积压问题，如何解决？](https://toutiao.io/k/1unx53z) ![](assets/new.png)  
-- [2022-08-16-推荐-Java-大后端各种架构图汇总（建议收藏！！）](https://toutiao.io/k/dvo6z1w) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

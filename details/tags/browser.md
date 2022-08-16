@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-08-16 05:00:59。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-08-16 05:22:07。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -14,6 +14,7 @@
 - [2021-01-08-解药|新冠mRNA疫苗安全性有哪些挑战？](https://m.caixin.com/m/2021-01-08/101648043.html) 
 - [2021-01-01-大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html) 
 - [2022-06-12-基于文字的URL锚点定位与::target-text样式设置](https://www.zhangxinxu.com/wordpress/2022/06/url-anchor-target-text/) 
+- [2022-08-16-Noptcha-:-一个自动完成-CAPTCHA-的浏览器插件](https://www.v2ex.com/t/873187) 
 - [2022-08-16-Edge-动不动就内存不足！](https://www.v2ex.com/t/873185) 
 - [2022-08-16-兄弟们-Chrome-启动后一直向一些陌生-IP-发-TCP-包是啥情况？](https://www.v2ex.com/t/873172) 
 - [2022-08-16-哪位有-arc-浏览器的同学可以帮邀请一下么？](https://www.v2ex.com/t/873169) 

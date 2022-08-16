@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-08-16 08:40:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-08-16 09:13:17。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -241,6 +241,7 @@
 
 - [【武汉肺炎防疫全纪录(财新网)】广州17岁男生在定点医院参加高考-特殊考场视频监考](https://m.caixin.com/m/2021-06-05/101723418.html)
 - [【武汉肺炎防疫全纪录(财新网)】林郑月娥率13高官直播接种科兴疫苗-复星疫苗预计周中到港](https://m.caixin.com/m/2021-02-22/101665724.html)
+- [【V2EX】免费送-30-张课程免单券-|-图像分类论文带读：-AlexNet-与-DenseNet-课](https://www.v2ex.com/t/873255)
 - [【开发者头条】智能插帧，打造丝滑视频体验](https://toutiao.io/k/5hc2jxv)
 - [......【查看更多】......](./details/tags/audio-video.md)
 
@@ -320,6 +321,7 @@
 
 
 
+- [【V2EX】有人试过使用-docker-swarm-搭建-kafka-新版本吗？不带-zookeeper-得](https://www.v2ex.com/t/873250)
 - [......【查看更多】......](./details/tags/server.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -352,6 +354,7 @@
 
 
 
+- [【V2EX】赴日招聘进行时！-Ujob-提供官方猎头服务，拥有丰富的-IT-会社资源，诚招各语言技术者！技术优秀者日语能力可放宽至零基础！赶快来联系我呀！](https://www.v2ex.com/t/873258)
 - [【开发者头条】推荐-京东面试：MQ-消息丢失、重复、积压问题，如何解决？](https://toutiao.io/k/1unx53z)
 - [【开发者头条】推荐-【大厂面试真题解析】虾皮-Shopee-后端一面十四问](https://toutiao.io/k/pol71im)
 - [......【查看更多】......](./details/tags/job-interview.md)

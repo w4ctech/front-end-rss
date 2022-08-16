@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-16 21:38:51，:rocket: 更新条数: +2035， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-16 22:15:20，:rocket: 更新条数: +2035， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-08-16-各视频播放器的截屏功能翻车情况](https://www.v2ex.com/t/873341) ![](assets/new.png)  
 - [2022-08-16-突然疑惑，以现有编程语言为底层语言来实现的编程语言，](https://www.v2ex.com/t/873340) ![](assets/new.png)  
 - [2022-08-16-在沪央企，需计算机相关本科专业，应届毕业生8-10k-朝九晚五-无加班](https://www.v2ex.com/t/873339) ![](assets/new.png)  
 - [2022-08-16-求帮解决一个很简单的数学问题，谢谢](https://www.v2ex.com/t/873338) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-08-16-简单易部署的-windows-平台协同办公软件？](https://www.v2ex.com/t/873323) ![](assets/new.png)  
 - [2022-08-16-RedisFish---一款专注于数据的跨平台-Redis-GUI-客户端，带着一波优化更新又来啦～](https://www.v2ex.com/t/873322) ![](assets/new.png)  
 - [2022-08-16-将-EFI-文件放到-U-盘，系统文件都留在本地盘-这样是否可以插入-U-盘才能引导该系统？](https://www.v2ex.com/t/873320) ![](assets/new.png)  
-- [2022-08-16-公司-win-电脑的组策略不停地变动-proxy-pac，导致-clash-使用基本失效](https://www.v2ex.com/t/873319) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -572,7 +572,7 @@
 - [2022-08-16-运维工程师职业生涯天花板-SRE-学习路径](https://toutiao.io/k/k0rso04) ![](assets/new.png)  
 - [2022-08-16-Chrome-DevTools-远程调试安卓网页的原理](https://toutiao.io/k/r9o7q2b) ![](assets/new.png)  
 - [2022-08-16-Transform-被废弃，TransformAction-了解一下~](https://toutiao.io/k/qt98k5s) ![](assets/new.png)  
-- [2022-08-16-推荐-【大厂面试真题解析】虾皮-Shopee-后端一面十四问](https://toutiao.io/k/pol71im) ![](assets/new.png)  
+- [2022-08-16-推荐-掌握这些-SpringBoot-启动扩展点，已经超过-90%-的人了](https://toutiao.io/k/3m8iq2m) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

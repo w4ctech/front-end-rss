@@ -9953,6 +9953,41 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "将 EFI 文件放到 U 盘，系统文件都留在本地盘 这样是否可以插入 U 盘才能引导该系统？",
+        "link": "https://www.v2ex.com/t/873320",
+        "date": "2022-08-16"
+      },
+      {
+        "title": "公司 win 电脑的组策略不停地变动 proxy pac，导致 clash 使用基本失效",
+        "link": "https://www.v2ex.com/t/873319",
+        "date": "2022-08-16"
+      },
+      {
+        "title": "九零后、零零后的女孩子是不是性关系比较随意？",
+        "link": "https://www.v2ex.com/t/873318",
+        "date": "2022-08-16"
+      },
+      {
+        "title": "今天感觉到地铁没那么挤，好像真的人少了？",
+        "link": "https://www.v2ex.com/t/873317",
+        "date": "2022-08-16"
+      },
+      {
+        "title": "新入职一家公司，天天忙的跟狗一样，到底哪里出了问题？",
+        "link": "https://www.v2ex.com/t/873316",
+        "date": "2022-08-16"
+      },
+      {
+        "title": "手机选择求助",
+        "link": "https://www.v2ex.com/t/873315",
+        "date": "2022-08-16"
+      },
+      {
+        "title": "有什么渠道可以了解到一些创业项目和冷门行业吗？",
+        "link": "https://www.v2ex.com/t/873314",
+        "date": "2022-08-16"
+      },
+      {
         "title": "iCloud 家庭共享有车？闲鱼可信？",
         "link": "https://www.v2ex.com/t/873312",
         "date": "2022-08-16"
@@ -10115,41 +10150,6 @@
       {
         "title": "朋友的三星 Note8 备用机只要室温一高就会 Kernel Panic 重启，刷机两次都无法解决， dump 好了内核日志，能看出是哪里的问题吗？",
         "link": "https://www.v2ex.com/t/873271",
-        "date": "2022-08-16"
-      },
-      {
-        "title": "Win 环境，如何非阻塞运行一个 windows 命令？",
-        "link": "https://www.v2ex.com/t/873270",
-        "date": "2022-08-16"
-      },
-      {
-        "title": "口头答应 offer 但是在签合同之前反悔不太好吧？",
-        "link": "https://www.v2ex.com/t/873269",
-        "date": "2022-08-16"
-      },
-      {
-        "title": "[上海/ Java ]，四年工作经验，求岗位",
-        "link": "https://www.v2ex.com/t/873268",
-        "date": "2022-08-16"
-      },
-      {
-        "title": "安卓 TV 前端研发：年薪 30w 起步，单休，远程工作：",
-        "link": "https://www.v2ex.com/t/873267",
-        "date": "2022-08-16"
-      },
-      {
-        "title": "为什么以前满屏幕都是二次元女生的头像，现在基本上少了一大半",
-        "link": "https://www.v2ex.com/t/873266",
-        "date": "2022-08-16"
-      },
-      {
-        "title": "如何开发一款基于 Vite+Vue3 的在线表格系统（上）",
-        "link": "https://www.v2ex.com/t/873265",
-        "date": "2022-08-16"
-      },
-      {
-        "title": "[infstones] 后端开发工程师，薪资优 [北京]",
-        "link": "https://www.v2ex.com/t/873264",
         "date": "2022-08-16"
       }
     ]
@@ -10347,13 +10347,13 @@
         "date": "2022-08-16"
       },
       {
-        "title": "Chrome DevTools 远程调试安卓网页的原理",
-        "link": "https://toutiao.io/k/r9o7q2b",
+        "title": "运维工程师职业生涯天花板 SRE 学习路径",
+        "link": "https://toutiao.io/k/k0rso04",
         "date": "2022-08-16"
       },
       {
-        "title": "运维工程师职业生涯天花板 SRE 学习路径",
-        "link": "https://toutiao.io/k/k0rso04",
+        "title": "Chrome DevTools 远程调试安卓网页的原理",
+        "link": "https://toutiao.io/k/r9o7q2b",
         "date": "2022-08-16"
       },
       {
@@ -10362,8 +10362,8 @@
         "date": "2022-08-16"
       },
       {
-        "title": "[推荐] 【大厂面试真题解析】虾皮 Shopee 后端一面十四问",
-        "link": "https://toutiao.io/k/pol71im",
+        "title": "[推荐] 掌握这些 SpringBoot 启动扩展点，已经超过 90% 的人了",
+        "link": "https://toutiao.io/k/3m8iq2m",
         "date": "2022-08-16"
       },
       {
@@ -10372,8 +10372,8 @@
         "date": "2022-08-16"
       },
       {
-        "title": "[推荐] Java 大后端各种架构图汇总（建议收藏！！）",
-        "link": "https://toutiao.io/k/dvo6z1w",
+        "title": "[推荐] 京东面试：MQ 消息丢失、重复、积压问题，如何解决？",
+        "link": "https://toutiao.io/k/1unx53z",
         "date": "2022-08-16"
       },
       {
@@ -10382,13 +10382,13 @@
         "date": "2022-08-16"
       },
       {
-        "title": "[推荐] 掌握这些 SpringBoot 启动扩展点，已经超过 90% 的人了",
-        "link": "https://toutiao.io/k/3m8iq2m",
+        "title": "[推荐] Java 大后端各种架构图汇总（建议收藏！！）",
+        "link": "https://toutiao.io/k/dvo6z1w",
         "date": "2022-08-16"
       },
       {
-        "title": "[推荐] 京东面试：MQ 消息丢失、重复、积压问题，如何解决？",
-        "link": "https://toutiao.io/k/1unx53z",
+        "title": "[推荐] 【大厂面试真题解析】虾皮 Shopee 后端一面十四问",
+        "link": "https://toutiao.io/k/pol71im",
         "date": "2022-08-16"
       }
     ]

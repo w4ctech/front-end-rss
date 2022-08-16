@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-08-16 15:15:44。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-08-16 15:46:10。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,13 @@
 </summary>
 
 
+- [【V2EX】2022-08-16-将-EFI-文件放到-U-盘，系统文件都留在本地盘-这样是否可以插入-U-盘才能引导该系统？](https://www.v2ex.com/t/873320) 
+- [【V2EX】2022-08-16-公司-win-电脑的组策略不停地变动-proxy-pac，导致-clash-使用基本失效](https://www.v2ex.com/t/873319) 
+- [【V2EX】2022-08-16-九零后、零零后的女孩子是不是性关系比较随意？](https://www.v2ex.com/t/873318) 
+- [【V2EX】2022-08-16-今天感觉到地铁没那么挤，好像真的人少了？](https://www.v2ex.com/t/873317) 
+- [【V2EX】2022-08-16-新入职一家公司，天天忙的跟狗一样，到底哪里出了问题？](https://www.v2ex.com/t/873316) 
+- [【V2EX】2022-08-16-手机选择求助](https://www.v2ex.com/t/873315) 
+- [【V2EX】2022-08-16-有什么渠道可以了解到一些创业项目和冷门行业吗？](https://www.v2ex.com/t/873314) 
 - [【V2EX】2022-08-16-iCloud-家庭共享有车？闲鱼可信？](https://www.v2ex.com/t/873312) 
 - [【V2EX】2022-08-16-用-wireguard-的同学，你们怎么管理配置的？](https://www.v2ex.com/t/873311) 
 - [【V2EX】2022-08-16-K50-至尊版能冲吗？](https://www.v2ex.com/t/873310) 
@@ -101,13 +108,6 @@
 - [【V2EX】2022-08-16-即将要做-ercp-手术](https://www.v2ex.com/t/873276) 
 - [【V2EX】2022-08-16-发现-windows10-下一个莫名其妙自启动进程](https://www.v2ex.com/t/873273) 
 - [【V2EX】2022-08-16-朋友的三星-Note8-备用机只要室温一高就会-Kernel-Panic-重启，刷机两次都无法解决，-dump-好了内核日志，能看出是哪里的问题吗？](https://www.v2ex.com/t/873271) 
-- [【V2EX】2022-08-16-Win-环境，如何非阻塞运行一个-windows-命令？](https://www.v2ex.com/t/873270) 
-- [【V2EX】2022-08-16-口头答应-offer-但是在签合同之前反悔不太好吧？](https://www.v2ex.com/t/873269) 
-- [【V2EX】2022-08-16-上海/-Java-，四年工作经验，求岗位](https://www.v2ex.com/t/873268) 
-- [【V2EX】2022-08-16-安卓-TV-前端研发：年薪-30w-起步，单休，远程工作：](https://www.v2ex.com/t/873267) 
-- [【V2EX】2022-08-16-为什么以前满屏幕都是二次元女生的头像，现在基本上少了一大半](https://www.v2ex.com/t/873266) 
-- [【V2EX】2022-08-16-如何开发一款基于-Vite+Vue3-的在线表格系统（上）](https://www.v2ex.com/t/873265) 
-- [【V2EX】2022-08-16-infstones-后端开发工程师，薪资优-北京](https://www.v2ex.com/t/873264) 
 - [【技术头条】2022-08-16-如何评估企业的数据质量-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15290&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-evaluate-improve-data-quality%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-08-16-API快速开发平台设计思考-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15289&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494493%26amp%3Bidx%3D2%26amp%3Bsn%3D0a8c5777a83b3a8e258fbc87cf99a5a1%26amp%3Bchksm%3Dfa3f0a06cd488310cc0d0f14d9ba2c67b676a2869bed0df3c1c5c32dfeda2c0b973c1d7f46df%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-08-16-别再乱搞了，快看优秀的代码是如何分层的！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15288&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494492%26amp%3Bidx%3D1%26amp%3Bsn%3D4d2b541cd0ba81b9acc397edfb735650%26amp%3Bchksm%3Dfa3f0a07cd488311b23c5e0c080092bd01875edc5be3e23b74a4ce3a171b8ef626d12f660484%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -144,15 +144,15 @@
 - [【开发者头条】2022-08-16-字节一面：HTTPS-会加密-URL-吗？](https://toutiao.io/k/u0czuku) 
 - [【开发者头条】2022-08-16-写代码也要讲规矩——SLA](https://toutiao.io/k/3nfrjtq) 
 - [【开发者头条】2022-08-16-第二个五年，找到擅长的事](https://toutiao.io/k/bdgufmt) 
-- [【开发者头条】2022-08-16-Chrome-DevTools-远程调试安卓网页的原理](https://toutiao.io/k/r9o7q2b) 
 - [【开发者头条】2022-08-16-运维工程师职业生涯天花板-SRE-学习路径](https://toutiao.io/k/k0rso04) 
+- [【开发者头条】2022-08-16-Chrome-DevTools-远程调试安卓网页的原理](https://toutiao.io/k/r9o7q2b) 
 - [【开发者头条】2022-08-16-Transform-被废弃，TransformAction-了解一下~](https://toutiao.io/k/qt98k5s) 
-- [【开发者头条】2022-08-16-推荐-【大厂面试真题解析】虾皮-Shopee-后端一面十四问](https://toutiao.io/k/pol71im) 
-- [【开发者头条】2022-08-16-推荐-微服务接口设计原则](https://toutiao.io/k/4hjv10p) 
-- [【开发者头条】2022-08-16-推荐-Java-大后端各种架构图汇总（建议收藏！！）](https://toutiao.io/k/dvo6z1w) 
-- [【开发者头条】2022-08-16-推荐-连流量染色都没有，你说要搞微服务？](https://toutiao.io/k/9k1wfc7) 
 - [【开发者头条】2022-08-16-推荐-掌握这些-SpringBoot-启动扩展点，已经超过-90%-的人了](https://toutiao.io/k/3m8iq2m) 
+- [【开发者头条】2022-08-16-推荐-微服务接口设计原则](https://toutiao.io/k/4hjv10p) 
 - [【开发者头条】2022-08-16-推荐-京东面试：MQ-消息丢失、重复、积压问题，如何解决？](https://toutiao.io/k/1unx53z) 
+- [【开发者头条】2022-08-16-推荐-连流量染色都没有，你说要搞微服务？](https://toutiao.io/k/9k1wfc7) 
+- [【开发者头条】2022-08-16-推荐-Java-大后端各种架构图汇总（建议收藏！！）](https://toutiao.io/k/dvo6z1w) 
+- [【开发者头条】2022-08-16-推荐-【大厂面试真题解析】虾皮-Shopee-后端一面十四问](https://toutiao.io/k/pol71im) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

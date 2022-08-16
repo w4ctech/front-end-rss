@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-16 09:36:46，:rocket: 更新条数: +2028， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-16 10:15:29，:rocket: 更新条数: +2030， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,14 @@
 </summary>
 
 
+- [2022-08-16-Gotech-Inc-集团直聘-「菲律宾/迪拜」技术岗位「15k-80k」](https://www.v2ex.com/t/873274) ![](assets/new.png)  
+- [2022-08-16-发现-windows10-下一个莫名其妙自启动进程](https://www.v2ex.com/t/873273) ![](assets/new.png)  
+- [2022-08-16-朋友的三星-Note8-备用机只要室温一高就会-Kernel-Panic-重启，刷机两次都无法解决，-dump-好了内核日志，能看出是哪里的问题吗？](https://www.v2ex.com/t/873271) ![](assets/new.png)  
+- [2022-08-16-Win-环境，如何非阻塞运行一个-windows-命令？](https://www.v2ex.com/t/873270) ![](assets/new.png)  
+- [2022-08-16-口头答应-offer-但是在签合同之前反悔不太好吧？](https://www.v2ex.com/t/873269) ![](assets/new.png)  
+- [2022-08-16-上海/-Java-，四年工作经验，求岗位](https://www.v2ex.com/t/873268) ![](assets/new.png)  
+- [2022-08-16-安卓-TV-前端研发：年薪-30w-起步，单休，远程工作：](https://www.v2ex.com/t/873267) ![](assets/new.png)  
+- [2022-08-16-为什么以前满屏幕都是二次元女生的头像，现在基本上少了一大半](https://www.v2ex.com/t/873266) ![](assets/new.png)  
 - [2022-08-16-如何开发一款基于-Vite+Vue3-的在线表格系统（上）](https://www.v2ex.com/t/873265) ![](assets/new.png)  
 - [2022-08-16-infstones-后端开发工程师，薪资优-北京](https://www.v2ex.com/t/873264) ![](assets/new.png)  
 - [2022-08-16-想问-V-友，月-5000，公积金各-1500-属于什么生活水平？](https://www.v2ex.com/t/873263) ![](assets/new.png)  
@@ -503,14 +511,6 @@
 - [2022-08-16-43，刚离职，累！想躺平。。。](https://www.v2ex.com/t/873256) ![](assets/new.png)  
 - [2022-08-16-免费送-30-张课程免单券-|-图像分类论文带读：-AlexNet-与-DenseNet-课](https://www.v2ex.com/t/873255) ![](assets/new.png)  
 - [2022-08-16-如果要把房子给抵押出去,-要怎么操作?](https://www.v2ex.com/t/873254) ![](assets/new.png)  
-- [2022-08-16-现在注册一个-gmail-这么难？](https://www.v2ex.com/t/873253) ![](assets/new.png)  
-- [2022-08-16-一个陌生电话搜索出来了一个神秘的网站](https://www.v2ex.com/t/873252) ![](assets/new.png)  
-- [2022-08-16-为什么-QQ-群比微信群要活跃呢？](https://www.v2ex.com/t/873251) ![](assets/new.png)  
-- [2022-08-16-有人试过使用-docker-swarm-搭建-kafka-新版本吗？不带-zookeeper-得](https://www.v2ex.com/t/873250) ![](assets/new.png)  
-- [2022-08-16-用剪切板和-BASE64-传输文件](https://www.v2ex.com/t/873247) ![](assets/new.png)  
-- [2022-08-16-不懂就问：那种好看的截图是怎么做出来的？](https://www.v2ex.com/t/873245) ![](assets/new.png)  
-- [2022-08-16-M1-MBA-扬声器问题](https://www.v2ex.com/t/873243) ![](assets/new.png)  
-- [2022-08-16-新买的硬盘坏道扫描问题](https://www.v2ex.com/t/873242) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -570,9 +570,9 @@
 - [2022-08-16-写代码也要讲规矩——SLA](https://toutiao.io/k/3nfrjtq) ![](assets/new.png)  
 - [2022-08-16-第二个五年，找到擅长的事](https://toutiao.io/k/bdgufmt) ![](assets/new.png)  
 - [2022-08-16-Chrome-DevTools-远程调试安卓网页的原理](https://toutiao.io/k/r9o7q2b) ![](assets/new.png)  
-- [2022-08-16-Transform-被废弃，TransformAction-了解一下~](https://toutiao.io/k/qt98k5s) ![](assets/new.png)  
 - [2022-08-16-运维工程师职业生涯天花板-SRE-学习路径](https://toutiao.io/k/k0rso04) ![](assets/new.png)  
-- [2022-08-16-推荐-连流量染色都没有，你说要搞微服务？](https://toutiao.io/k/9k1wfc7) ![](assets/new.png)  
+- [2022-08-16-Transform-被废弃，TransformAction-了解一下~](https://toutiao.io/k/qt98k5s) ![](assets/new.png)  
+- [2022-08-16-推荐-Java-大后端各种架构图汇总（建议收藏！！）](https://toutiao.io/k/dvo6z1w) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

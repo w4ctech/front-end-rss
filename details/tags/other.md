@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-08-16 10:40:53。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-08-16 11:12:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,9 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-08-16-pve-ssh-可以登录，-web-无法登录](https://www.v2ex.com/t/873285) 
+- [2022-08-16-代码会说话之一个脚本帮你检查项目-996-状态](https://www.v2ex.com/t/873282) 
+- [2022-08-16-macOS-如何固定输入法?](https://www.v2ex.com/t/873280) 
 - [2022-08-16-工作的意义究竟是什么](https://www.v2ex.com/t/873279) 
 - [2022-08-16-rust-有没有像-c/c++一样判断当前编译的架构/操作系统的宏，主要是想要交叉编译，一套代码运行在-Linux-和-Windows](https://www.v2ex.com/t/873277) 
 - [2022-08-16-即将要做-ercp-手术](https://www.v2ex.com/t/873276) 
@@ -1939,11 +1942,6 @@
 - [2022-08-16-M1-MBA-扬声器问题](https://www.v2ex.com/t/873243) 
 - [2022-08-16-新买的硬盘坏道扫描问题](https://www.v2ex.com/t/873242) 
 - [2022-08-16-后端开发求推荐笔记本预算一万左右](https://www.v2ex.com/t/873239) 
-- [2022-08-16-有没有靠工具类-APP-存活的个人开发者呢](https://www.v2ex.com/t/873234) 
-- [2022-08-16-以前亲人急用钱，贷了一笔，发现利率很高，现在想换](https://www.v2ex.com/t/873233) 
-- [2022-08-16-关于能不能结婚的对错问题！大家理性评价](https://www.v2ex.com/t/873232) 
-- [2022-08-16-ios16-这个剪贴板确认也太烦了](https://www.v2ex.com/t/873231) 
-- [2022-08-16-想做一个针对一个话题进行正反方辩论的网站，-App](https://www.v2ex.com/t/873230) 
 - [2022-08-16-如何评估企业的数据质量-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15290&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-evaluate-improve-data-quality%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-08-16-API快速开发平台设计思考-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15289&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494493%26amp%3Bidx%3D2%26amp%3Bsn%3D0a8c5777a83b3a8e258fbc87cf99a5a1%26amp%3Bchksm%3Dfa3f0a06cd488310cc0d0f14d9ba2c67b676a2869bed0df3c1c5c32dfeda2c0b973c1d7f46df%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-08-16-别再乱搞了，快看优秀的代码是如何分层的！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15288&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494492%26amp%3Bidx%3D1%26amp%3Bsn%3D4d2b541cd0ba81b9acc397edfb735650%26amp%3Bchksm%3Dfa3f0a07cd488311b23c5e0c080092bd01875edc5be3e23b74a4ce3a171b8ef626d12f660484%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1972,7 +1970,7 @@
 - [2022-08-16-写代码也要讲规矩——SLA](https://toutiao.io/k/3nfrjtq) 
 - [2022-08-16-第二个五年，找到擅长的事](https://toutiao.io/k/bdgufmt) 
 - [2022-08-16-运维工程师职业生涯天花板-SRE-学习路径](https://toutiao.io/k/k0rso04) 
+- [2022-08-16-推荐-掌握这些-SpringBoot-启动扩展点，已经超过-90%-的人了](https://toutiao.io/k/3m8iq2m) 
 - [2022-08-16-推荐-Java-大后端各种架构图汇总（建议收藏！！）](https://toutiao.io/k/dvo6z1w) 
 - [2022-08-16-推荐-微服务接口设计原则](https://toutiao.io/k/4hjv10p) 
-- [2022-08-16-推荐-掌握这些-SpringBoot-启动扩展点，已经超过-90%-的人了](https://toutiao.io/k/3m8iq2m) 
 - [2022-08-16-推荐-连流量染色都没有，你说要搞微服务？](https://toutiao.io/k/9k1wfc7) 

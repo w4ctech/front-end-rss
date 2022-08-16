@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-16 08:15:05，:rocket: 更新条数: +2023， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-16 08:40:21，:rocket: 更新条数: +2023， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,10 @@
 </summary>
 
 
+- [2022-08-16-用剪切板和-BASE64-传输文件](https://www.v2ex.com/t/873247) ![](assets/new.png)  
+- [2022-08-16-不懂就问：那种好看的截图是怎么做出来的？](https://www.v2ex.com/t/873245) ![](assets/new.png)  
+- [2022-08-16-M1-MBA-扬声器问题](https://www.v2ex.com/t/873243) ![](assets/new.png)  
+- [2022-08-16-新买的硬盘坏道扫描问题](https://www.v2ex.com/t/873242) ![](assets/new.png)  
 - [2022-08-16-后端开发求推荐笔记本预算一万左右](https://www.v2ex.com/t/873239) ![](assets/new.png)  
 - [2022-08-16-珠海远程+公司混合式办公招聘全栈开发工程师](https://www.v2ex.com/t/873238) ![](assets/new.png)  
 - [2022-08-16-有没有靠工具类-APP-存活的个人开发者呢](https://www.v2ex.com/t/873234) ![](assets/new.png)  
@@ -507,10 +511,6 @@
 - [2022-08-16-你的开发环境（包括但不限于硬件、软件、设置）是什么样的？](https://www.v2ex.com/t/873221) ![](assets/new.png)  
 - [2022-08-16-ns-online-高级会员拼车](https://www.v2ex.com/t/873220) ![](assets/new.png)  
 - [2022-08-16-比女朋友大四岁，我做错了吗？](https://www.v2ex.com/t/873217) ![](assets/new.png)  
-- [2022-08-16-traefik-的几个问题](https://www.v2ex.com/t/873216) ![](assets/new.png)  
-- [2022-08-16-福州、远程-8-年游戏开发求职，-Unity3d、Cocos、Godot](https://www.v2ex.com/t/873213) ![](assets/new.png)  
-- [2022-08-16-idea-调试，线程问题](https://www.v2ex.com/t/873212) ![](assets/new.png)  
-- [2022-08-16-火星了，我今天发现-iOS-上的滚动条是可以按着拖动的。](https://www.v2ex.com/t/873211) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -563,16 +563,16 @@
 - [2022-08-16-分享16个我总结的思维模型（程序员必读，受用终身）](https://toutiao.io/k/sndnt5f) ![](assets/new.png)  
 - [2022-08-16-时序异常检测综述整理！](https://toutiao.io/k/56nkrs0) ![](assets/new.png)  
 - [2022-08-16-Markdown-写-PPT-是如何实现的？](https://toutiao.io/k/f9w7hal) ![](assets/new.png)  
-- [2022-08-16-智能插帧，打造丝滑视频体验](https://toutiao.io/k/5hc2jxv) ![](assets/new.png)  
 - [2022-08-16-网易严选DMP标签系统建设实践](https://toutiao.io/k/fg5xbbv) ![](assets/new.png)  
+- [2022-08-16-智能插帧，打造丝滑视频体验](https://toutiao.io/k/5hc2jxv) ![](assets/new.png)  
 - [2022-08-16-字节一面：HTTPS-会加密-URL-吗？](https://toutiao.io/k/u0czuku) ![](assets/new.png)  
 - [2022-08-16-我的师父把-「JWT-令牌」玩到了极致](https://toutiao.io/k/k3d6hzw) ![](assets/new.png)  
 - [2022-08-16-写代码也要讲规矩——SLA](https://toutiao.io/k/3nfrjtq) ![](assets/new.png)  
 - [2022-08-16-第二个五年，找到擅长的事](https://toutiao.io/k/bdgufmt) ![](assets/new.png)  
 - [2022-08-16-Chrome-DevTools-远程调试安卓网页的原理](https://toutiao.io/k/r9o7q2b) ![](assets/new.png)  
-- [2022-08-16-运维工程师职业生涯天花板-SRE-学习路径](https://toutiao.io/k/k0rso04) ![](assets/new.png)  
 - [2022-08-16-Transform-被废弃，TransformAction-了解一下~](https://toutiao.io/k/qt98k5s) ![](assets/new.png)  
-- [2022-08-16-推荐-连流量染色都没有，你说要搞微服务？](https://toutiao.io/k/9k1wfc7) ![](assets/new.png)  
+- [2022-08-16-运维工程师职业生涯天花板-SRE-学习路径](https://toutiao.io/k/k0rso04) ![](assets/new.png)  
+- [2022-08-16-推荐-京东面试：MQ-消息丢失、重复、积压问题，如何解决？](https://toutiao.io/k/1unx53z) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

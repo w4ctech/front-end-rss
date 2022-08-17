@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-08-17 17:02:41。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-08-17 17:31:32。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,7 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-08-17-想用程序自动帮我发推特，除了申请-api-还有别的办法吗？](https://www.v2ex.com/t/873615) 
 - [2022-08-17-怎么判断一个女生现在是单身还没人去追](https://www.v2ex.com/t/873612) 
 - [2022-08-17-求帮忙推荐廉价实用的电视机或者指点下如何购买到性价比高的电视机？](https://www.v2ex.com/t/873610) 
 - [2022-08-17-iPhone-无法充电，天才吧测试后却可以。。奇葩](https://www.v2ex.com/t/873609) 
@@ -1939,7 +1940,6 @@
 - [2022-08-17-关于不生育人群的新发现](https://www.v2ex.com/t/873570) 
 - [2022-08-17-NAS-协议问题](https://www.v2ex.com/t/873569) 
 - [2022-08-17-国内的服务器虚拟化方案哪个靠谱?智简魔方和-zstack](https://www.v2ex.com/t/873567) 
-- [2022-08-17-可能是切换-iCloud-cn-域名的后遗症](https://www.v2ex.com/t/873565) 
 - [2022-08-17-如何评估企业的数据质量-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15290&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-evaluate-improve-data-quality%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-08-17-API快速开发平台设计思考-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15289&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494493%26amp%3Bidx%3D2%26amp%3Bsn%3D0a8c5777a83b3a8e258fbc87cf99a5a1%26amp%3Bchksm%3Dfa3f0a06cd488310cc0d0f14d9ba2c67b676a2869bed0df3c1c5c32dfeda2c0b973c1d7f46df%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-08-17-别再乱搞了，快看优秀的代码是如何分层的！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15288&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494492%26amp%3Bidx%3D1%26amp%3Bsn%3D4d2b541cd0ba81b9acc397edfb735650%26amp%3Bchksm%3Dfa3f0a07cd488311b23c5e0c080092bd01875edc5be3e23b74a4ce3a171b8ef626d12f660484%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

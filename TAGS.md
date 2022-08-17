@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-08-17 12:28:25。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-08-17 13:25:09。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -300,7 +300,6 @@
 
 
 
-- [【V2EX】远程全职-全栈工程师/月薪-30-40K-RMB，前端开发工程师/月薪-30-35K-RMB-等](https://www.v2ex.com/t/873521)
 - [【开发者头条】人工智能与机器学习：算法基础和哲学观点](https://toutiao.io/k/qpxx3sq)
 - [【开发者头条】面试常问：HTTP-1.0-和-HTTP-1.1-有什么区别？](https://toutiao.io/k/g8xb90x)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
@@ -352,7 +351,6 @@
 
 
 - [【V2EX】贝壳找房-杭州招聘数据开发工程师和-Java-数据策略工程师](https://www.v2ex.com/t/873552)
-- [【V2EX】关于我记错了面试时间还把-hr-电话挂了这件事。。](https://www.v2ex.com/t/873529)
 - [【开发者头条】kafka面试](https://toutiao.io/k/4s921d6)
 - [【开发者头条】推荐-京东面试：MQ-消息丢失、重复、积压问题，如何解决？](https://toutiao.io/k/1unx53z)
 - [【开发者头条】推荐-【大厂面试真题解析】虾皮-Shopee-后端一面十四问](https://toutiao.io/k/pol71im)

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-08-17 07:13:14。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-08-17 07:39:09。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,13 @@
 </summary>
 
 
+- [【V2EX】2022-08-17-求助，-iPhone-录制的-quicktime-格式视频，-H5-如何播放](https://www.v2ex.com/t/873481) 
+- [【V2EX】2022-08-17-聚合图床还能这么干..](https://www.v2ex.com/t/873479) 
+- [【V2EX】2022-08-17-airpods-一只耳朵经常断怎么办？](https://www.v2ex.com/t/873478) 
+- [【V2EX】2022-08-17-求推荐雷电扩展坞](https://www.v2ex.com/t/873477) 
+- [【V2EX】2022-08-17-想问一下-chrome-弃用了-FTP-文件传输协议之后，有什么替换方案吗](https://www.v2ex.com/t/873475) 
+- [【V2EX】2022-08-17-Github-Copilot-好像可以一人订阅，多台设备一起使用？](https://www.v2ex.com/t/873474) 
+- [【V2EX】2022-08-17-跨文件按行统计文本「-Python-」](https://www.v2ex.com/t/873473) 
 - [【V2EX】2022-08-17-Windows-下监控机场的链路质量！](https://www.v2ex.com/t/873472) 
 - [【V2EX】2022-08-17-阿里云盘的备份盘到底是什么东西?](https://www.v2ex.com/t/873471) 
 - [【V2EX】2022-08-17-8-月底去云南旅游有什么需要注意的地方](https://www.v2ex.com/t/873469) 
@@ -90,20 +97,11 @@
 - [【V2EX】2022-08-17-「🎉送码」剪贴板免费的-macOS-启动器-HapiGo-更新啦](https://www.v2ex.com/t/873444) 
 - [【V2EX】2022-08-17-初学-React，请教下-React-中-Func-组件处理列表的事件问题](https://www.v2ex.com/t/873442) 
 - [【V2EX】2022-08-17-windows-7-这个网络映射是什么协议，有其它软件可以看么。](https://www.v2ex.com/t/873440) 
-- [【V2EX】2022-08-17-网上铺天盖地的负面新闻、对喷，让我很低落，如何破解？](https://www.v2ex.com/t/873439) 
 - [【V2EX】2022-08-17-我找联通反馈信号不好，联通竟然赔钱给我。](https://www.v2ex.com/t/873438) 
 - [【V2EX】2022-08-17-公司内用单台服务器虚拟化还是多台服务器,用什么配置?](https://www.v2ex.com/t/873437) 
 - [【V2EX】2022-08-17-请问-mac-上最好的本地音乐播放器](https://www.v2ex.com/t/873436) 
 - [【V2EX】2022-08-17-华为随身-WIFI-的串号能刷机改写吗？](https://www.v2ex.com/t/873435) 
 - [【V2EX】2022-08-17-办公室挂一幅画，你会挂什么？](https://www.v2ex.com/t/873432) 
-- [【V2EX】2022-08-17-有广东-成人高考，已经毕业拿到学位证书的朋友们吗？想咨询成考问题](https://www.v2ex.com/t/873431) 
-- [【V2EX】2022-08-17-win10-家庭版，关机按键如何改成-win7-风格，也就是点一下就可以关机](https://www.v2ex.com/t/873430) 
-- [【V2EX】2022-08-17-B-站网址里的-spm_id_from=包含什么内容](https://www.v2ex.com/t/873429) 
-- [【V2EX】2022-08-17-阿里云-OSS-在-11:28-11:30-间有抖动？](https://www.v2ex.com/t/873427) 
-- [【V2EX】2022-08-17-有广东省-成人高考，已经毕业拿到学位证书的兄弟们吗？](https://www.v2ex.com/t/873426) 
-- [【V2EX】2022-08-17-固态硬盘的-SMART-参数，实在太难看懂了。](https://www.v2ex.com/t/873425) 
-- [【V2EX】2022-08-17-能躺着好像不用站着？](https://www.v2ex.com/t/873424) 
-- [【V2EX】2022-08-17-腾讯王卡限定版自选归属地和号码，前半年-19-元+后续-29-元长期包-70G-通用+30G-腾讯应用定向](https://www.v2ex.com/t/873423) 
 - [【技术头条】2022-08-17-如何评估企业的数据质量-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15290&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-evaluate-improve-data-quality%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-08-17-API快速开发平台设计思考-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15289&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494493%26amp%3Bidx%3D2%26amp%3Bsn%3D0a8c5777a83b3a8e258fbc87cf99a5a1%26amp%3Bchksm%3Dfa3f0a06cd488310cc0d0f14d9ba2c67b676a2869bed0df3c1c5c32dfeda2c0b973c1d7f46df%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-08-17-别再乱搞了，快看优秀的代码是如何分层的！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15288&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494492%26amp%3Bidx%3D1%26amp%3Bsn%3D4d2b541cd0ba81b9acc397edfb735650%26amp%3Bchksm%3Dfa3f0a07cd488311b23c5e0c080092bd01875edc5be3e23b74a4ce3a171b8ef626d12f660484%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -143,12 +141,12 @@
 - [【开发者头条】2022-08-17-【第2704期】网易严选多端组件库OSSA正式开源](https://toutiao.io/k/m8prz6a) 
 - [【开发者头条】2022-08-17-前端周刊：2022-13-期](https://toutiao.io/k/uu2yope) 
 - [【开发者头条】2022-08-17-面试常问：HTTP-1.0-和-HTTP-1.1-有什么区别？](https://toutiao.io/k/g8xb90x) 
-- [【开发者头条】2022-08-17-推荐-连流量染色都没有，你说要搞微服务？](https://toutiao.io/k/9k1wfc7) 
-- [【开发者头条】2022-08-17-推荐-Java-大后端各种架构图汇总（建议收藏！！）](https://toutiao.io/k/dvo6z1w) 
+- [【开发者头条】2022-08-17-推荐-【大厂面试真题解析】虾皮-Shopee-后端一面十四问](https://toutiao.io/k/pol71im) 
 - [【开发者头条】2022-08-17-推荐-微服务接口设计原则](https://toutiao.io/k/4hjv10p) 
+- [【开发者头条】2022-08-17-推荐-Java-大后端各种架构图汇总（建议收藏！！）](https://toutiao.io/k/dvo6z1w) 
+- [【开发者头条】2022-08-17-推荐-连流量染色都没有，你说要搞微服务？](https://toutiao.io/k/9k1wfc7) 
 - [【开发者头条】2022-08-17-推荐-京东面试：MQ-消息丢失、重复、积压问题，如何解决？](https://toutiao.io/k/1unx53z) 
 - [【开发者头条】2022-08-17-推荐-掌握这些-SpringBoot-启动扩展点，已经超过-90%-的人了](https://toutiao.io/k/3m8iq2m) 
-- [【开发者头条】2022-08-17-推荐-【大厂面试真题解析】虾皮-Shopee-后端一面十四问](https://toutiao.io/k/pol71im) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

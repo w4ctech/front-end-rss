@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-08-17 13:25:09。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-08-17 14:05:09。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -350,6 +350,7 @@
 
 
 
+- [【V2EX】招聘-南京，某金融企业招-Java-，-web-前端，自动化测试](https://www.v2ex.com/t/873584)
 - [【V2EX】贝壳找房-杭州招聘数据开发工程师和-Java-数据策略工程师](https://www.v2ex.com/t/873552)
 - [【开发者头条】kafka面试](https://toutiao.io/k/4s921d6)
 - [【开发者头条】推荐-京东面试：MQ-消息丢失、重复、积压问题，如何解决？](https://toutiao.io/k/1unx53z)

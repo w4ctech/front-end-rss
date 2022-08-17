@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-17 05:05:52，:rocket: 更新条数: +2025， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-17 05:55:12，:rocket: 更新条数: +2025， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,13 @@
 </summary>
 
 
+- [2022-08-17-nginx-中，如何-rewrite-使其$host-带上指定端口？](https://www.v2ex.com/t/873450) ![](assets/new.png)  
+- [2022-08-17-单元化架构-hc](https://www.v2ex.com/t/873449) ![](assets/new.png)  
+- [2022-08-17-最近在-WSA-上常用的应用](https://www.v2ex.com/t/873448) ![](assets/new.png)  
+- [2022-08-17-最近大伙又开始哲学思考了](https://www.v2ex.com/t/873447) ![](assets/new.png)  
+- [2022-08-17-有昆明的小伙伴吗？推荐一家吃野生菌的餐馆呢？](https://www.v2ex.com/t/873446) ![](assets/new.png)  
+- [2022-08-17-社保中断一年，有什么影响吗？](https://www.v2ex.com/t/873445) ![](assets/new.png)  
+- [2022-08-17-「🎉送码」剪贴板免费的-macOS-启动器-HapiGo-更新啦](https://www.v2ex.com/t/873444) ![](assets/new.png)  
 - [2022-08-17-初学-React，请教下-React-中-Func-组件处理列表的事件问题](https://www.v2ex.com/t/873442) ![](assets/new.png)  
 - [2022-08-17-windows-7-这个网络映射是什么协议，有其它软件可以看么。](https://www.v2ex.com/t/873440) ![](assets/new.png)  
 - [2022-08-17-网上铺天盖地的负面新闻、对喷，让我很低落，如何破解？](https://www.v2ex.com/t/873439) ![](assets/new.png)  
@@ -504,13 +511,6 @@
 - [2022-08-17-B-站网址里的-spm_id_from=包含什么内容](https://www.v2ex.com/t/873429) ![](assets/new.png)  
 - [2022-08-17-阿里云-OSS-在-11:28-11:30-间有抖动？](https://www.v2ex.com/t/873427) ![](assets/new.png)  
 - [2022-08-17-有广东省-成人高考，已经毕业拿到学位证书的兄弟们吗？](https://www.v2ex.com/t/873426) ![](assets/new.png)  
-- [2022-08-17-固态硬盘的-SMART-参数，实在太难看懂了。](https://www.v2ex.com/t/873425) ![](assets/new.png)  
-- [2022-08-17-能躺着好像不用站着？](https://www.v2ex.com/t/873424) ![](assets/new.png)  
-- [2022-08-17-腾讯王卡限定版自选归属地和号码，前半年-19-元+后续-29-元长期包-70G-通用+30G-腾讯应用定向](https://www.v2ex.com/t/873423) ![](assets/new.png)  
-- [2022-08-17-新车真的有必要贴膜吗？](https://www.v2ex.com/t/873422) ![](assets/new.png)  
-- [2022-08-17-XDM，薅数字人民币羊毛了](https://www.v2ex.com/t/873421) ![](assets/new.png)  
-- [2022-08-17-关于公司代码管理](https://www.v2ex.com/t/873420) ![](assets/new.png)  
-- [2022-08-17-上海/外企Micro-Focus-内推,1065,可-WFH](https://www.v2ex.com/t/873419) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -557,22 +557,22 @@
 - [2022-08-17-MySQL-单表不要超过-2000W-行，靠谱吗？](https://toutiao.io/k/vke55xi) ![](assets/new.png)  
 - [2022-08-17-剖析-SPI-在-Spring-中的应用](https://toutiao.io/k/c9o8fub) ![](assets/new.png)  
 - [2022-08-17-Java性能优化的七个方向](https://toutiao.io/k/yjkn4py) ![](assets/new.png)  
-- [2022-08-17-作为Gopher，你知道Go的注释即文档应该怎么写吗？](https://toutiao.io/k/ua2cujf) ![](assets/new.png)  
 - [2022-08-17-网易严选DMP标签系统建设实践](https://toutiao.io/k/ggznhks) ![](assets/new.png)  
+- [2022-08-17-作为Gopher，你知道Go的注释即文档应该怎么写吗？](https://toutiao.io/k/ua2cujf) ![](assets/new.png)  
 - [2022-08-17-kafka面试](https://toutiao.io/k/4s921d6) ![](assets/new.png)  
 - [2022-08-17-译文推荐｜详解-Pulsar-Broker-负载均衡](https://toutiao.io/k/x72gec0) ![](assets/new.png)  
-- [2022-08-17-横贯八方揭秘RabbitMQ、RocketMQ、Kafka-的核心原理（建议收藏）](https://toutiao.io/k/r46nx4j) ![](assets/new.png)  
 - [2022-08-17-消息队列基本原理和选型对比](https://toutiao.io/k/4hn19d3) ![](assets/new.png)  
-- [2022-08-17-Python3.9都带来了什么？](https://toutiao.io/k/tuahjt5) ![](assets/new.png)  
 - [2022-08-17-BigDecimal使用不当，造成P0事故！](https://toutiao.io/k/3bchaop) ![](assets/new.png)  
+- [2022-08-17-横贯八方揭秘RabbitMQ、RocketMQ、Kafka-的核心原理（建议收藏）](https://toutiao.io/k/r46nx4j) ![](assets/new.png)  
+- [2022-08-17-Python3.9都带来了什么？](https://toutiao.io/k/tuahjt5) ![](assets/new.png)  
 - [2022-08-17-零运行时且支持-TS-的-CSS-in-JS-框架](https://toutiao.io/k/nn143yl) ![](assets/new.png)  
 - [2022-08-17-超全面的前端工程化配置指南](https://toutiao.io/k/tkm0xns) ![](assets/new.png)  
 - [2022-08-17-DeepMind-发了篇论文，把我看笑了](https://toutiao.io/k/krtps5s) ![](assets/new.png)  
 - [2022-08-17-人工智能与机器学习：算法基础和哲学观点](https://toutiao.io/k/qpxx3sq) ![](assets/new.png)  
-- [2022-08-17-推荐-京东面试：MQ-消息丢失、重复、积压问题，如何解决？](https://toutiao.io/k/1unx53z) ![](assets/new.png)  
 - [2022-08-17-推荐-掌握这些-SpringBoot-启动扩展点，已经超过-90%-的人了](https://toutiao.io/k/3m8iq2m) ![](assets/new.png)  
+- [2022-08-17-推荐-Java-大后端各种架构图汇总（建议收藏！！）](https://toutiao.io/k/dvo6z1w) ![](assets/new.png)  
 - [2022-08-17-推荐-连流量染色都没有，你说要搞微服务？](https://toutiao.io/k/9k1wfc7) ![](assets/new.png)  
-- [2022-08-17-推荐-微服务接口设计原则](https://toutiao.io/k/4hjv10p) ![](assets/new.png)  
+- [2022-08-17-推荐-京东面试：MQ-消息丢失、重复、积压问题，如何解决？](https://toutiao.io/k/1unx53z) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

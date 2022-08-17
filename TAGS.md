@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-08-17 19:37:52。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-08-17 20:15:33。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -355,6 +355,7 @@
 
 
 
+- [【V2EX】在线旅游公司招聘长期实习（兼职）岗位---在校或毕业两年内均可](https://www.v2ex.com/t/873620)
 - [【V2EX】请问各位-V-友，有没有类似聚合招聘的网站](https://www.v2ex.com/t/873602)
 - [【V2EX】招聘-南京，某金融企业招-Java-，-web-前端，自动化测试](https://www.v2ex.com/t/873584)
 - [【开发者头条】kafka面试](https://toutiao.io/k/4s921d6)

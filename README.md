@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-17 09:15:39，:rocket: 更新条数: +2028， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-17 09:42:49，:rocket: 更新条数: +2029， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,18 @@
 </summary>
 
 
+- [2022-08-17-一直找不到一个好的-sqlgen-生成工具，参考-sqlc,goctl-撸了一个](https://www.v2ex.com/t/873533) ![](assets/new.png)  
+- [2022-08-17-vscode-remote-点击大文件时会卡死](https://www.v2ex.com/t/873532) ![](assets/new.png)  
+- [2022-08-17-android-应用-32-位和-64-位有什么实质上的区别？](https://www.v2ex.com/t/873531) ![](assets/new.png)  
+- [2022-08-17-"苹果保修服务很好"，这到底是「我付钱应受的服务」还是「Apple-比其他牌子服务更好」？](https://www.v2ex.com/t/873530) ![](assets/new.png)  
+- [2022-08-17-关于我记错了面试时间还把-hr-电话挂了这件事。。](https://www.v2ex.com/t/873529) ![](assets/new.png)  
+- [2022-08-17-问问各位大佬，现在办护照简单吗？](https://www.v2ex.com/t/873527) ![](assets/new.png)  
+- [2022-08-17-网站内容打印只能打印第一页，检查过其他长网页打印正常](https://www.v2ex.com/t/873526) ![](assets/new.png)  
+- [2022-08-17-Macbook-如何连接一台没有显示器的-Linux-主机？](https://www.v2ex.com/t/873525) ![](assets/new.png)  
+- [2022-08-17-入职新公司了，来简单聊聊这三四个月里的裁员求职经历](https://www.v2ex.com/t/873524) ![](assets/new.png)  
+- [2022-08-17-上海-外企-花旗金融-WLB-躺平&灵活办公-内推---各种岗位](https://www.v2ex.com/t/873523) ![](assets/new.png)  
+- [2022-08-17-Xiaomi-真无线降噪耳机-3-和-ThinkBook-UC100-选哪个？](https://www.v2ex.com/t/873522) ![](assets/new.png)  
+- [2022-08-17-远程全职-全栈工程师/月薪-30-40K-RMB，前端开发工程师/月薪-30-35K-RMB-等](https://www.v2ex.com/t/873521) ![](assets/new.png)  
 - [2022-08-17-access-token-会自动失效么，当调用-refresh-token-获取一个新的-access-token-后？](https://www.v2ex.com/t/873518) ![](assets/new.png)  
 - [2022-08-17-Tech-Lead（40-80k/Full-time/Bilingual/Remote）](https://www.v2ex.com/t/873517) ![](assets/new.png)  
 - [2022-08-17-请问有没有做国内-CDN-的朋友呀？看过来，业务合作一下，谢谢](https://www.v2ex.com/t/873516) ![](assets/new.png)  
@@ -499,18 +511,6 @@
 - [2022-08-17-Web5-大数据公司-公司招聘](https://www.v2ex.com/t/873512) ![](assets/new.png)  
 - [2022-08-17-你喜欢你的工作吗？](https://www.v2ex.com/t/873511) ![](assets/new.png)  
 - [2022-08-17-触控板在键盘中间的键盘有吗](https://www.v2ex.com/t/873510) ![](assets/new.png)  
-- [2022-08-17-有一个朋友被侵犯了-她应该怎么办](https://www.v2ex.com/t/873508) ![](assets/new.png)  
-- [2022-08-17-惨，新款-MacBook-Pro-14-m1pro-开不了机，主板烧了，原因未知](https://www.v2ex.com/t/873507) ![](assets/new.png)  
-- [2022-08-17-Livid-要来-Matters-class-聊聊-Planet-咯](https://www.v2ex.com/t/873506) ![](assets/new.png)  
-- [2022-08-17-13mini-用了半年，续航降低了很多](https://www.v2ex.com/t/873505) ![](assets/new.png)  
-- [2022-08-17-有没有大佬要自建-CDN-的？](https://www.v2ex.com/t/873504) ![](assets/new.png)  
-- [2022-08-17-想换工作,-PHP-转-go-的有没有推荐的](https://www.v2ex.com/t/873503) ![](assets/new.png)  
-- [2022-08-17-关于-mysql-连接的进程/线程，求解-2-个小问题](https://www.v2ex.com/t/873501) ![](assets/new.png)  
-- [2022-08-17-hr-这样裁员不知道大家遇到过没有，先录音掌握证据然后裁员变成待岗，最后拒绝所有赔偿，这走仲裁可行吗？](https://www.v2ex.com/t/873500) ![](assets/new.png)  
-- [2022-08-17-如何开发一款基于-vite+vue3-的在线表格系统（下）](https://www.v2ex.com/t/873498) ![](assets/new.png)  
-- [2022-08-17-赠送：网易云-7-天会员](https://www.v2ex.com/t/873497) ![](assets/new.png)  
-- [2022-08-17-驾照拿了-5-年了，都还不会开车](https://www.v2ex.com/t/873495) ![](assets/new.png)  
-- [2022-08-17-想转前端，跪求一份-2022-年的前端学习路线](https://www.v2ex.com/t/873494) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -572,7 +572,7 @@
 - [2022-08-17-【第2704期】网易严选多端组件库OSSA正式开源](https://toutiao.io/k/m8prz6a) ![](assets/new.png)  
 - [2022-08-17-前端周刊：2022-13-期](https://toutiao.io/k/uu2yope) ![](assets/new.png)  
 - [2022-08-17-面试常问：HTTP-1.0-和-HTTP-1.1-有什么区别？](https://toutiao.io/k/g8xb90x) ![](assets/new.png)  
-- [2022-08-17-推荐-掌握这些-SpringBoot-启动扩展点，已经超过-90%-的人了](https://toutiao.io/k/3m8iq2m) ![](assets/new.png)  
+- [2022-08-17-推荐-微服务接口设计原则](https://toutiao.io/k/4hjv10p) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-08-17 09:15:39。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-08-17 09:42:49。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,18 @@
 </summary>
 
 
+- [【V2EX】2022-08-17-一直找不到一个好的-sqlgen-生成工具，参考-sqlc,goctl-撸了一个](https://www.v2ex.com/t/873533) 
+- [【V2EX】2022-08-17-vscode-remote-点击大文件时会卡死](https://www.v2ex.com/t/873532) 
+- [【V2EX】2022-08-17-android-应用-32-位和-64-位有什么实质上的区别？](https://www.v2ex.com/t/873531) 
+- [【V2EX】2022-08-17-"苹果保修服务很好"，这到底是「我付钱应受的服务」还是「Apple-比其他牌子服务更好」？](https://www.v2ex.com/t/873530) 
+- [【V2EX】2022-08-17-关于我记错了面试时间还把-hr-电话挂了这件事。。](https://www.v2ex.com/t/873529) 
+- [【V2EX】2022-08-17-问问各位大佬，现在办护照简单吗？](https://www.v2ex.com/t/873527) 
+- [【V2EX】2022-08-17-网站内容打印只能打印第一页，检查过其他长网页打印正常](https://www.v2ex.com/t/873526) 
+- [【V2EX】2022-08-17-Macbook-如何连接一台没有显示器的-Linux-主机？](https://www.v2ex.com/t/873525) 
+- [【V2EX】2022-08-17-入职新公司了，来简单聊聊这三四个月里的裁员求职经历](https://www.v2ex.com/t/873524) 
+- [【V2EX】2022-08-17-上海-外企-花旗金融-WLB-躺平&灵活办公-内推---各种岗位](https://www.v2ex.com/t/873523) 
+- [【V2EX】2022-08-17-Xiaomi-真无线降噪耳机-3-和-ThinkBook-UC100-选哪个？](https://www.v2ex.com/t/873522) 
+- [【V2EX】2022-08-17-远程全职-全栈工程师/月薪-30-40K-RMB，前端开发工程师/月薪-30-35K-RMB-等](https://www.v2ex.com/t/873521) 
 - [【V2EX】2022-08-17-access-token-会自动失效么，当调用-refresh-token-获取一个新的-access-token-后？](https://www.v2ex.com/t/873518) 
 - [【V2EX】2022-08-17-Tech-Lead（40-80k/Full-time/Bilingual/Remote）](https://www.v2ex.com/t/873517) 
 - [【V2EX】2022-08-17-请问有没有做国内-CDN-的朋友呀？看过来，业务合作一下，谢谢](https://www.v2ex.com/t/873516) 
@@ -94,17 +106,6 @@
 - [【V2EX】2022-08-17-请教各位，微信小程序-Vant-Weapp-Ui-框架，如何做表单验证？](https://www.v2ex.com/t/873489) 
 - [【V2EX】2022-08-17-有人了解“深智城”这家公司吗](https://www.v2ex.com/t/873485) 
 - [【V2EX】2022-08-17-国内有没有类似-producthunt-的平台](https://www.v2ex.com/t/873484) 
-- [【V2EX】2022-08-17-mysql-如何查询-top10-以外数据](https://www.v2ex.com/t/873483) 
-- [【V2EX】2022-08-17-我姐姐，是否有些过分了？重男轻女？](https://www.v2ex.com/t/873482) 
-- [【V2EX】2022-08-17-求助，-iPhone-录制的-quicktime-格式视频，-H5-如何播放](https://www.v2ex.com/t/873481) 
-- [【V2EX】2022-08-17-聚合图床还能这么干..](https://www.v2ex.com/t/873479) 
-- [【V2EX】2022-08-17-airpods-一只耳朵经常断怎么办？](https://www.v2ex.com/t/873478) 
-- [【V2EX】2022-08-17-求推荐雷电扩展坞](https://www.v2ex.com/t/873477) 
-- [【V2EX】2022-08-17-想问一下-chrome-弃用了-FTP-文件传输协议之后，有什么替换方案吗](https://www.v2ex.com/t/873475) 
-- [【V2EX】2022-08-17-Github-Copilot-好像可以一人订阅，多台设备一起使用？](https://www.v2ex.com/t/873474) 
-- [【V2EX】2022-08-17-跨文件按行统计文本「-Python-」](https://www.v2ex.com/t/873473) 
-- [【V2EX】2022-08-17-Windows-下监控机场的链路质量！](https://www.v2ex.com/t/873472) 
-- [【V2EX】2022-08-17-阿里云盘的备份盘到底是什么东西?](https://www.v2ex.com/t/873471) 
 - [【技术头条】2022-08-17-如何评估企业的数据质量-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15290&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-evaluate-improve-data-quality%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-08-17-API快速开发平台设计思考-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15289&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494493%26amp%3Bidx%3D2%26amp%3Bsn%3D0a8c5777a83b3a8e258fbc87cf99a5a1%26amp%3Bchksm%3Dfa3f0a06cd488310cc0d0f14d9ba2c67b676a2869bed0df3c1c5c32dfeda2c0b973c1d7f46df%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-08-17-别再乱搞了，快看优秀的代码是如何分层的！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15288&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494492%26amp%3Bidx%3D1%26amp%3Bsn%3D4d2b541cd0ba81b9acc397edfb735650%26amp%3Bchksm%3Dfa3f0a07cd488311b23c5e0c080092bd01875edc5be3e23b74a4ce3a171b8ef626d12f660484%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -144,12 +145,12 @@
 - [【开发者头条】2022-08-17-【第2704期】网易严选多端组件库OSSA正式开源](https://toutiao.io/k/m8prz6a) 
 - [【开发者头条】2022-08-17-前端周刊：2022-13-期](https://toutiao.io/k/uu2yope) 
 - [【开发者头条】2022-08-17-面试常问：HTTP-1.0-和-HTTP-1.1-有什么区别？](https://toutiao.io/k/g8xb90x) 
-- [【开发者头条】2022-08-17-推荐-掌握这些-SpringBoot-启动扩展点，已经超过-90%-的人了](https://toutiao.io/k/3m8iq2m) 
-- [【开发者头条】2022-08-17-推荐-京东面试：MQ-消息丢失、重复、积压问题，如何解决？](https://toutiao.io/k/1unx53z) 
-- [【开发者头条】2022-08-17-推荐-【大厂面试真题解析】虾皮-Shopee-后端一面十四问](https://toutiao.io/k/pol71im) 
 - [【开发者头条】2022-08-17-推荐-微服务接口设计原则](https://toutiao.io/k/4hjv10p) 
-- [【开发者头条】2022-08-17-推荐-连流量染色都没有，你说要搞微服务？](https://toutiao.io/k/9k1wfc7) 
+- [【开发者头条】2022-08-17-推荐-掌握这些-SpringBoot-启动扩展点，已经超过-90%-的人了](https://toutiao.io/k/3m8iq2m) 
+- [【开发者头条】2022-08-17-推荐-【大厂面试真题解析】虾皮-Shopee-后端一面十四问](https://toutiao.io/k/pol71im) 
 - [【开发者头条】2022-08-17-推荐-Java-大后端各种架构图汇总（建议收藏！！）](https://toutiao.io/k/dvo6z1w) 
+- [【开发者头条】2022-08-17-推荐-京东面试：MQ-消息丢失、重复、积压问题，如何解决？](https://toutiao.io/k/1unx53z) 
+- [【开发者头条】2022-08-17-推荐-连流量染色都没有，你说要搞微服务？](https://toutiao.io/k/9k1wfc7) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-17 23:04:16，:rocket: 更新条数: +2028， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-17 23:15:22，:rocket: 更新条数: +2028， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -572,7 +572,7 @@
 - [2022-08-17-面试常问：HTTP-1.0-和-HTTP-1.1-有什么区别？](https://toutiao.io/k/g8xb90x) ![](assets/new.png)  
 - [2022-08-17-【第2704期】网易严选多端组件库OSSA正式开源](https://toutiao.io/k/m8prz6a) ![](assets/new.png)  
 - [2022-08-17-前端周刊：2022-13-期](https://toutiao.io/k/uu2yope) ![](assets/new.png)  
-- [2022-08-17-推荐-Java-大后端各种架构图汇总（建议收藏！！）](https://toutiao.io/k/dvo6z1w) ![](assets/new.png)  
+- [2022-08-17-推荐-京东面试：MQ-消息丢失、重复、积压问题，如何解决？](https://toutiao.io/k/1unx53z) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

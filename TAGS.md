@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-08-17 01:13:47。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-08-17 03:42:48。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -73,7 +73,6 @@
 
 
 
-- [【V2EX】nodejs-新手，请问下-typescript-工程引入/导出-npm-包和-package.json-的问题](https://www.v2ex.com/t/873343)
 - [......【查看更多】......](./details/tags/typescript.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -181,6 +180,7 @@
 - [【张鑫旭-鑫空间-鑫生活】介绍一种CSS变量未定义语法也OK的小妙招](https://www.zhangxinxu.com/wordpress/2022/06/css-var-optional-empty-trick/)
 - [【张鑫旭-鑫空间-鑫生活】如何实现页面刷新后不定位到之前的滚动位置？](https://www.zhangxinxu.com/wordpress/2022/05/history-scrollrestoration/)
 - [【张鑫旭-鑫空间-鑫生活】JS与条形码的生成](https://www.zhangxinxu.com/wordpress/2022/05/js-barcode/)
+- [【V2EX】求大佬推荐适配-M1-芯片-macbook-pro-的-4K-显示器](https://www.v2ex.com/t/873400)
 - [【技术头条】20个简洁的JS代码片段-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15283&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494490%26amp%3Bidx%3D2%26amp%3Bsn%3D68fc3936af5ebde00b9e4507b7bc02dd%26amp%3Bchksm%3Dfa3f0a01cd488317b9b0bcdd75be8ef0d4f56dfc42f5cb71d0611c28eadff8e41d24473bf0ec%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【技术头条】SpringCloud架构的各个组件的原理分析-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15276&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494408%26amp%3Bidx%3D2%26amp%3Bsn%3D6030c1f3629babc9dfa8f85ffea42a09%26amp%3Bchksm%3Dfa3f0a53cd488345b2fd2421e868d7459c7c27f488ec4de9fdae81d0c5f24efb8b71ebe22169%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【技术头条】SpringBoot四大核心组件，你知道几个？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15271&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494395%26amp%3Bidx%3D2%26amp%3Bsn%3D7625c27c0bbb10cfd2e5e1d8a09a3c74%26amp%3Bchksm%3Dfa3f0ba0cd4882b6baa602f1f11ffebc9ec2dadb2ee131a812efc29a71e64cb3959c144707ff%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
@@ -222,7 +222,6 @@
 
 
 
-- [【V2EX】RedisFish---一款专注于数据的跨平台-Redis-GUI-客户端，带着一波优化更新又来啦～](https://www.v2ex.com/t/873322)
 - [......【查看更多】......](./details/tags/canvas-image.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -241,7 +240,7 @@
 
 - [【武汉肺炎防疫全纪录(财新网)】广州17岁男生在定点医院参加高考-特殊考场视频监考](https://m.caixin.com/m/2021-06-05/101723418.html)
 - [【武汉肺炎防疫全纪录(财新网)】林郑月娥率13高官直播接种科兴疫苗-复星疫苗预计周中到港](https://m.caixin.com/m/2021-02-22/101665724.html)
-- [【V2EX】各视频播放器的截屏功能翻车情况](https://www.v2ex.com/t/873341)
+- [【V2EX】有这么一个需求：获取原生摄像头数据美颜等加工后推流给虚拟摄像头](https://www.v2ex.com/t/873384)
 - [......【查看更多】......](./details/tags/audio-video.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -282,9 +281,6 @@
 - [【武汉肺炎防疫全纪录(财新网)】解药|新冠mRNA疫苗安全性有哪些挑战？](https://m.caixin.com/m/2021-01-08/101648043.html)
 - [【武汉肺炎防疫全纪录(财新网)】大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html)
 - [【张鑫旭-鑫空间-鑫生活】基于文字的URL锚点定位与::target-text样式设置](https://www.zhangxinxu.com/wordpress/2022/06/url-anchor-target-text/)
-- [【V2EX】在浏览器中将-PDF-转换为扫描件](https://www.v2ex.com/t/873344)
-- [【V2EX】企业级设备能通过装证书让浏览器不提示不安全么？](https://www.v2ex.com/t/873342)
-- [【V2EX】为什么看-b-站-4k50-帧浏览器会经常卡顿无响应而看-youtube-4k60-很流畅？](https://www.v2ex.com/t/873330)
 - [【技术头条】SpringBoot解决跨域问题的3种方案！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15285&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494491%26amp%3Bidx%3D2%26amp%3Bsn%3Dbc208873a3a0e7dbdc7698f3d25083e1%26amp%3Bchksm%3Dfa3f0a00cd488316a7aec8a2fff04fed8086c7c57a56b533cfbf0f113077fc0116b77f0df05c%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [......【查看更多】......](./details/tags/browser.md)
 
@@ -302,6 +298,7 @@
 
 
 
+- [【开发者头条】人工智能与机器学习：算法基础和哲学观点](https://toutiao.io/k/qpxx3sq)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -350,10 +347,9 @@
 
 
 
-- [【V2EX】坐标成都，某大型国有企业-c++开发岗招聘程序员一名，绿色软件-Z29mYWNlamo=，有意者请联系，有缘公司见。](https://www.v2ex.com/t/873356)
 - [【开发者头条】kafka面试](https://toutiao.io/k/4s921d6)
-- [【开发者头条】推荐-【大厂面试真题解析】虾皮-Shopee-后端一面十四问](https://toutiao.io/k/pol71im)
 - [【开发者头条】推荐-京东面试：MQ-消息丢失、重复、积压问题，如何解决？](https://toutiao.io/k/1unx53z)
+- [【开发者头条】推荐-【大厂面试真题解析】虾皮-Shopee-后端一面十四问](https://toutiao.io/k/pol71im)
 - [......【查看更多】......](./details/tags/job-interview.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

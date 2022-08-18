@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-08-18 08:46:34。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-08-18 09:15:48。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,13 @@
 </summary>
 
 
+- [【V2EX】2022-08-18-好消息!Ubuntu22.04-内置了-dotnet6-安装包](https://www.v2ex.com/t/873793) 
+- [【V2EX】2022-08-18-springboot-升级后出现问题](https://www.v2ex.com/t/873792) 
+- [【V2EX】2022-08-18-终于说服家属买车了，求推荐](https://www.v2ex.com/t/873791) 
+- [【V2EX】2022-08-18-如何提取一张图片上的线段、路径?](https://www.v2ex.com/t/873790) 
+- [【V2EX】2022-08-18-你希望自己的什么特质被孩子继承？](https://www.v2ex.com/t/873789) 
+- [【V2EX】2022-08-18-这台-MacBook-M1-的电池健康度属于什么水平。。](https://www.v2ex.com/t/873788) 
+- [【V2EX】2022-08-18-求问-m1-芯片的-macbook-air-8+256](https://www.v2ex.com/t/873787) 
 - [【V2EX】2022-08-18-Selenium-是不是已经废了？](https://www.v2ex.com/t/873785) 
 - [【V2EX】2022-08-18-JS-多次请求-如何使后者覆盖前者](https://www.v2ex.com/t/873784) 
 - [【V2EX】2022-08-18-Micro-Focus-张江外企内推中高级-Java-、Android、QA、DevOps-欢迎各位大佬联系（转正后，赠送-5000-元！）](https://www.v2ex.com/t/873783) 
@@ -101,13 +108,6 @@
 - [【V2EX】2022-08-18-大家还有记日记的习惯吗](https://www.v2ex.com/t/873748) 
 - [【V2EX】2022-08-18-有人用-react-native-macos-么?](https://www.v2ex.com/t/873747) 
 - [【V2EX】2022-08-18-上海-offer，饿了么-or-B-站](https://www.v2ex.com/t/873746) 
-- [【V2EX】2022-08-18-DigitalOcean-有办法删除默认的支付信用卡信息吗？](https://www.v2ex.com/t/873743) 
-- [【V2EX】2022-08-18-mac-微信内测支持导入手机的聊天记录了](https://www.v2ex.com/t/873741) 
-- [【V2EX】2022-08-18-坐标广州，宽带一般用联通的还是电信的？都是啥套餐的？](https://www.v2ex.com/t/873740) 
-- [【V2EX】2022-08-18-最近在看初中数学](https://www.v2ex.com/t/873739) 
-- [【V2EX】2022-08-18-Build-in-public-记录:-我们是如何开发-TinySnap-的](https://www.v2ex.com/t/873738) 
-- [【V2EX】2022-08-18-初次使用-GitHub](https://www.v2ex.com/t/873737) 
-- [【V2EX】2022-08-18-真神卡，-6-元-65G-通用](https://www.v2ex.com/t/873736) 
 - [【技术头条】2022-08-18-DDD诊所——异步事件综合征-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15291&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fdomain-driven-design-asynchronous-events%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-08-18-如何评估企业的数据质量-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15290&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-evaluate-improve-data-quality%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-08-18-API快速开发平台设计思考-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15289&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494493%26amp%3Bidx%3D2%26amp%3Bsn%3D0a8c5777a83b3a8e258fbc87cf99a5a1%26amp%3Bchksm%3Dfa3f0a06cd488310cc0d0f14d9ba2c67b676a2869bed0df3c1c5c32dfeda2c0b973c1d7f46df%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -147,11 +147,11 @@
 - [【开发者头条】2022-08-18-各国开发者-2022-薪资水平：Go-收入最高！](https://toutiao.io/k/6l1dylc) 
 - [【开发者头条】2022-08-18-这一年，我对终端组织与技术架构的思考【专家讲技术】](https://toutiao.io/k/pdlrmqe) 
 - [【开发者头条】2022-08-18-使用-Kubernetes-Ingress-Nginx-实现蓝绿、灰度发布！你会用了吗？](https://toutiao.io/k/sg0qsfc) 
-- [【开发者头条】2022-08-18-推荐-京东面试：MQ-消息丢失、重复、积压问题，如何解决？](https://toutiao.io/k/1unx53z) 
-- [【开发者头条】2022-08-18-推荐-微服务接口设计原则](https://toutiao.io/k/4hjv10p) 
 - [【开发者头条】2022-08-18-推荐-连流量染色都没有，你说要搞微服务？](https://toutiao.io/k/9k1wfc7) 
+- [【开发者头条】2022-08-18-推荐-京东面试：MQ-消息丢失、重复、积压问题，如何解决？](https://toutiao.io/k/1unx53z) 
 - [【开发者头条】2022-08-18-推荐-掌握这些-SpringBoot-启动扩展点，已经超过-90%-的人了](https://toutiao.io/k/3m8iq2m) 
 - [【开发者头条】2022-08-18-推荐-Java-大后端各种架构图汇总（建议收藏！！）](https://toutiao.io/k/dvo6z1w) 
+- [【开发者头条】2022-08-18-推荐-微服务接口设计原则](https://toutiao.io/k/4hjv10p) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

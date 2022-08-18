@@ -1,10 +1,17 @@
-:alarm_clock: 更新时间: 2022-08-18 08:46:34。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-08-18 09:15:48。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-08-18-好消息!Ubuntu22.04-内置了-dotnet6-安装包](https://www.v2ex.com/t/873793) 
+- [2022-08-18-springboot-升级后出现问题](https://www.v2ex.com/t/873792) 
+- [2022-08-18-终于说服家属买车了，求推荐](https://www.v2ex.com/t/873791) 
+- [2022-08-18-如何提取一张图片上的线段、路径?](https://www.v2ex.com/t/873790) 
+- [2022-08-18-你希望自己的什么特质被孩子继承？](https://www.v2ex.com/t/873789) 
+- [2022-08-18-这台-MacBook-M1-的电池健康度属于什么水平。。](https://www.v2ex.com/t/873788) 
+- [2022-08-18-求问-m1-芯片的-macbook-air-8+256](https://www.v2ex.com/t/873787) 
 - [2022-08-18-Selenium-是不是已经废了？](https://www.v2ex.com/t/873785) 
 - [2022-08-18-JS-多次请求-如何使后者覆盖前者](https://www.v2ex.com/t/873784) 
 - [2022-08-18-Micro-Focus-张江外企内推中高级-Java-、Android、QA、DevOps-欢迎各位大佬联系（转正后，赠送-5000-元！）](https://www.v2ex.com/t/873783) 
@@ -38,10 +45,3 @@
 - [2022-08-18-大家还有记日记的习惯吗](https://www.v2ex.com/t/873748) 
 - [2022-08-18-有人用-react-native-macos-么?](https://www.v2ex.com/t/873747) 
 - [2022-08-18-上海-offer，饿了么-or-B-站](https://www.v2ex.com/t/873746) 
-- [2022-08-18-DigitalOcean-有办法删除默认的支付信用卡信息吗？](https://www.v2ex.com/t/873743) 
-- [2022-08-18-mac-微信内测支持导入手机的聊天记录了](https://www.v2ex.com/t/873741) 
-- [2022-08-18-坐标广州，宽带一般用联通的还是电信的？都是啥套餐的？](https://www.v2ex.com/t/873740) 
-- [2022-08-18-最近在看初中数学](https://www.v2ex.com/t/873739) 
-- [2022-08-18-Build-in-public-记录:-我们是如何开发-TinySnap-的](https://www.v2ex.com/t/873738) 
-- [2022-08-18-初次使用-GitHub](https://www.v2ex.com/t/873737) 
-- [2022-08-18-真神卡，-6-元-65G-通用](https://www.v2ex.com/t/873736) 

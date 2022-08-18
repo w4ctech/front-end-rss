@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-18 08:46:34，:rocket: 更新条数: +2030， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-18 09:15:48，:rocket: 更新条数: +2030， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,13 @@
 </summary>
 
 
+- [2022-08-18-好消息!Ubuntu22.04-内置了-dotnet6-安装包](https://www.v2ex.com/t/873793) ![](assets/new.png)  
+- [2022-08-18-springboot-升级后出现问题](https://www.v2ex.com/t/873792) ![](assets/new.png)  
+- [2022-08-18-终于说服家属买车了，求推荐](https://www.v2ex.com/t/873791) ![](assets/new.png)  
+- [2022-08-18-如何提取一张图片上的线段、路径?](https://www.v2ex.com/t/873790) ![](assets/new.png)  
+- [2022-08-18-你希望自己的什么特质被孩子继承？](https://www.v2ex.com/t/873789) ![](assets/new.png)  
+- [2022-08-18-这台-MacBook-M1-的电池健康度属于什么水平。。](https://www.v2ex.com/t/873788) ![](assets/new.png)  
+- [2022-08-18-求问-m1-芯片的-macbook-air-8+256](https://www.v2ex.com/t/873787) ![](assets/new.png)  
 - [2022-08-18-Selenium-是不是已经废了？](https://www.v2ex.com/t/873785) ![](assets/new.png)  
 - [2022-08-18-JS-多次请求-如何使后者覆盖前者](https://www.v2ex.com/t/873784) ![](assets/new.png)  
 - [2022-08-18-Micro-Focus-张江外企内推中高级-Java-、Android、QA、DevOps-欢迎各位大佬联系（转正后，赠送-5000-元！）](https://www.v2ex.com/t/873783) ![](assets/new.png)  
@@ -504,13 +511,6 @@
 - [2022-08-18-有没有使用-iPad-Mini6-来写字（比如-GoodNotes）的-v-友](https://www.v2ex.com/t/873774) ![](assets/new.png)  
 - [2022-08-18-大佬帮忙估个价](https://www.v2ex.com/t/873773) ![](assets/new.png)  
 - [2022-08-18-老用户转-29-元套餐成功了](https://www.v2ex.com/t/873772) ![](assets/new.png)  
-- [2022-08-18-诚招语言模型训练实习生](https://www.v2ex.com/t/873771) ![](assets/new.png)  
-- [2022-08-18-Tech-Lead40-80K/Full-time/Bilingual/Remote](https://www.v2ex.com/t/873770) ![](assets/new.png)  
-- [2022-08-18-有感于大王卡新套餐，老用户也想换套餐了](https://www.v2ex.com/t/873769) ![](assets/new.png)  
-- [2022-08-18-各位朋友，你们当地的运营商有网龄提速活动不？](https://www.v2ex.com/t/873768) ![](assets/new.png)  
-- [2022-08-18-发现一个还不错的路由器](https://www.v2ex.com/t/873767) ![](assets/new.png)  
-- [2022-08-18-合肥-蔚来汽车-Java-岗位急招-智能制造方向（差不多-20K-起）自己组直推](https://www.v2ex.com/t/873764) ![](assets/new.png)  
-- [2022-08-18-杭州-招聘中级前端工程师，薪资10k-20k](https://www.v2ex.com/t/873760) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -572,7 +572,7 @@
 - [2022-08-18-各国开发者-2022-薪资水平：Go-收入最高！](https://toutiao.io/k/6l1dylc) ![](assets/new.png)  
 - [2022-08-18-这一年，我对终端组织与技术架构的思考【专家讲技术】](https://toutiao.io/k/pdlrmqe) ![](assets/new.png)  
 - [2022-08-18-使用-Kubernetes-Ingress-Nginx-实现蓝绿、灰度发布！你会用了吗？](https://toutiao.io/k/sg0qsfc) ![](assets/new.png)  
-- [2022-08-18-推荐-京东面试：MQ-消息丢失、重复、积压问题，如何解决？](https://toutiao.io/k/1unx53z) ![](assets/new.png)  
+- [2022-08-18-推荐-连流量染色都没有，你说要搞微服务？](https://toutiao.io/k/9k1wfc7) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

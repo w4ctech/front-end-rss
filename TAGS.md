@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-08-18 16:23:41。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-08-18 17:12:26。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -72,7 +72,6 @@
 
 
 
-- [【V2EX】对-TypeScript-的类型系统越来越感兴趣，听说了一个名字叫作「类型体操」，有-v-友可以指点一下吗？大家也可以讨论一下。](https://www.v2ex.com/t/873817)
 - [......【查看更多】......](./details/tags/typescript.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -246,7 +245,6 @@
 - [【武汉肺炎防疫全纪录(财新网)】广州17岁男生在定点医院参加高考-特殊考场视频监考](https://m.caixin.com/m/2021-06-05/101723418.html)
 - [【武汉肺炎防疫全纪录(财新网)】林郑月娥率13高官直播接种科兴疫苗-复星疫苗预计周中到港](https://m.caixin.com/m/2021-02-22/101665724.html)
 - [【V2EX】开源图像修复工具-Lama-Cleaner](https://www.v2ex.com/t/873837)
-- [【V2EX】新-UP-视频自荐-四个我一定会安装的浏览器，你也一定要试试～](https://www.v2ex.com/t/873818)
 - [......【查看更多】......](./details/tags/audio-video.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -288,6 +286,7 @@
 - [【武汉肺炎防疫全纪录(财新网)】解药|新冠mRNA疫苗安全性有哪些挑战？](https://m.caixin.com/m/2021-01-08/101648043.html)
 - [【武汉肺炎防疫全纪录(财新网)】大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html)
 - [【张鑫旭-鑫空间-鑫生活】基于文字的URL锚点定位与::target-text样式设置](https://www.zhangxinxu.com/wordpress/2022/06/url-anchor-target-text/)
+- [【V2EX】深圳-多个技术坑位---开源-+-软硬件钱包-+-Global-Pay-+-工程师文化-+-靠谱-Web3-公司-+-不发币-+-安全](https://www.v2ex.com/t/873868)
 - [【V2EX】iPad-上-Chrome-请求桌面版网站触发-Cloudflare-验证](https://www.v2ex.com/t/873854)
 - [【V2EX】firefox-地址栏和标签栏怎么隐藏啊,-看难受](https://www.v2ex.com/t/873820)
 - [【开发者头条】Spring-Boot-实现跨域的-5-种方式，总有一种适合你，建议收藏](https://toutiao.io/k/v14ga1m)

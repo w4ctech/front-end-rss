@@ -1,15 +1,19 @@
-:alarm_clock: 更新时间: 2022-08-18 07:39:14。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-08-18 08:17:57。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-08-18-有没有使用-iPad-Mini6-来写字（比如-GoodNotes）的-v-友](https://www.v2ex.com/t/873774) 
+- [2022-08-18-大佬帮忙估个价](https://www.v2ex.com/t/873773) 
+- [2022-08-18-老用户转-29-元套餐成功了](https://www.v2ex.com/t/873772) 
+- [2022-08-18-诚招语言模型训练实习生](https://www.v2ex.com/t/873771) 
+- [2022-08-18-Tech-Lead40-80K/Full-time/Bilingual/Remote](https://www.v2ex.com/t/873770) 
 - [2022-08-18-有感于大王卡新套餐，老用户也想换套餐了](https://www.v2ex.com/t/873769) 
 - [2022-08-18-各位朋友，你们当地的运营商有网龄提速活动不？](https://www.v2ex.com/t/873768) 
 - [2022-08-18-发现一个还不错的路由器](https://www.v2ex.com/t/873767) 
 - [2022-08-18-合肥-蔚来汽车-Java-岗位急招-智能制造方向（差不多-20K-起）自己组直推](https://www.v2ex.com/t/873764) 
-- [2022-08-18-有老哥割过包皮吗](https://www.v2ex.com/t/873762) 
 - [2022-08-18-杭州-招聘中级前端工程师，薪资10k-20k](https://www.v2ex.com/t/873760) 
 - [2022-08-18-请教-drf-全局封装-response-的优雅实现](https://www.v2ex.com/t/873759) 
 - [2022-08-18-工作流是否支持可选的节点分发功能](https://www.v2ex.com/t/873758) 
@@ -38,8 +42,3 @@
 - [2022-08-18-请问北京拍婚纱照，有无推荐](https://www.v2ex.com/t/873728) 
 - [2022-08-18-地点珠海，招-2-名有经验的开发人员远程工作](https://www.v2ex.com/t/873727) 
 - [2022-08-18-如何最大化利用？](https://www.v2ex.com/t/873725) 
-- [2022-08-18-iOS-平安银行-app-打不开](https://www.v2ex.com/t/873724) 
-- [2022-08-18-怀疑天才欺负我读书少，和各位大佬求证一下](https://www.v2ex.com/t/873723) 
-- [2022-08-18-OneDive-怎么同步-OpenWRT-的外挂硬盘](https://www.v2ex.com/t/873722) 
-- [2022-08-18-Google-云盘无法备份-iPhone-相册](https://www.v2ex.com/t/873721) 
-- [2022-08-18-有人说说-iPad-对于安卓手机用户的缺点么](https://www.v2ex.com/t/873720) 

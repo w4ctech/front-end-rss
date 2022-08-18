@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-08-18 07:39:14。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-08-18 08:17:57。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,11 +68,15 @@
 </summary>
 
 
+- [【V2EX】2022-08-18-有没有使用-iPad-Mini6-来写字（比如-GoodNotes）的-v-友](https://www.v2ex.com/t/873774) 
+- [【V2EX】2022-08-18-大佬帮忙估个价](https://www.v2ex.com/t/873773) 
+- [【V2EX】2022-08-18-老用户转-29-元套餐成功了](https://www.v2ex.com/t/873772) 
+- [【V2EX】2022-08-18-诚招语言模型训练实习生](https://www.v2ex.com/t/873771) 
+- [【V2EX】2022-08-18-Tech-Lead40-80K/Full-time/Bilingual/Remote](https://www.v2ex.com/t/873770) 
 - [【V2EX】2022-08-18-有感于大王卡新套餐，老用户也想换套餐了](https://www.v2ex.com/t/873769) 
 - [【V2EX】2022-08-18-各位朋友，你们当地的运营商有网龄提速活动不？](https://www.v2ex.com/t/873768) 
 - [【V2EX】2022-08-18-发现一个还不错的路由器](https://www.v2ex.com/t/873767) 
 - [【V2EX】2022-08-18-合肥-蔚来汽车-Java-岗位急招-智能制造方向（差不多-20K-起）自己组直推](https://www.v2ex.com/t/873764) 
-- [【V2EX】2022-08-18-有老哥割过包皮吗](https://www.v2ex.com/t/873762) 
 - [【V2EX】2022-08-18-杭州-招聘中级前端工程师，薪资10k-20k](https://www.v2ex.com/t/873760) 
 - [【V2EX】2022-08-18-请教-drf-全局封装-response-的优雅实现](https://www.v2ex.com/t/873759) 
 - [【V2EX】2022-08-18-工作流是否支持可选的节点分发功能](https://www.v2ex.com/t/873758) 
@@ -101,11 +105,7 @@
 - [【V2EX】2022-08-18-请问北京拍婚纱照，有无推荐](https://www.v2ex.com/t/873728) 
 - [【V2EX】2022-08-18-地点珠海，招-2-名有经验的开发人员远程工作](https://www.v2ex.com/t/873727) 
 - [【V2EX】2022-08-18-如何最大化利用？](https://www.v2ex.com/t/873725) 
-- [【V2EX】2022-08-18-iOS-平安银行-app-打不开](https://www.v2ex.com/t/873724) 
-- [【V2EX】2022-08-18-怀疑天才欺负我读书少，和各位大佬求证一下](https://www.v2ex.com/t/873723) 
-- [【V2EX】2022-08-18-OneDive-怎么同步-OpenWRT-的外挂硬盘](https://www.v2ex.com/t/873722) 
-- [【V2EX】2022-08-18-Google-云盘无法备份-iPhone-相册](https://www.v2ex.com/t/873721) 
-- [【V2EX】2022-08-18-有人说说-iPad-对于安卓手机用户的缺点么](https://www.v2ex.com/t/873720) 
+- [【技术头条】2022-08-18-DDD诊所——异步事件综合征-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15291&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fdomain-driven-design-asynchronous-events%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-08-18-如何评估企业的数据质量-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15290&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-evaluate-improve-data-quality%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-08-18-API快速开发平台设计思考-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15289&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494493%26amp%3Bidx%3D2%26amp%3Bsn%3D0a8c5777a83b3a8e258fbc87cf99a5a1%26amp%3Bchksm%3Dfa3f0a06cd488310cc0d0f14d9ba2c67b676a2869bed0df3c1c5c32dfeda2c0b973c1d7f46df%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-08-18-别再乱搞了，快看优秀的代码是如何分层的！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15288&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494492%26amp%3Bidx%3D1%26amp%3Bsn%3D4d2b541cd0ba81b9acc397edfb735650%26amp%3Bchksm%3Dfa3f0a07cd488311b23c5e0c080092bd01875edc5be3e23b74a4ce3a171b8ef626d12f660484%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -125,7 +125,6 @@
 - [【技术头条】2022-08-18-最近很火的一组图，看一次笑一次-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15274&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494395%26amp%3Bidx%3D1%26amp%3Bsn%3Dd945234cc4f2cb6ca9fb0741bf79acdb%26amp%3Bchksm%3Dfa3f0ba0cd4882b63046ab6d8fdabace82b042c1693245a687a516f2c0b2fc498b1e85686fef%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-08-18-完成原型设计的五个步骤-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15273&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffive-steps-for-prototype-design%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-08-18-敏捷交付的工程效能治理-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15272&url=https%3A%2F%2Finsights.thoughtworks.cn%2F%3Fp%3D16439%26amp%3Bpreview%3Dtrue%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
-- [【技术头条】2022-08-18-SpringBoot四大核心组件，你知道几个？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15271&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494395%26amp%3Bidx%3D2%26amp%3Bsn%3D7625c27c0bbb10cfd2e5e1d8a09a3c74%26amp%3Bchksm%3Dfa3f0ba0cd4882b6baa602f1f11ffebc9ec2dadb2ee131a812efc29a71e64cb3959c144707ff%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【开发者头条】2022-08-18-一文搞懂前端兼容问题](https://toutiao.io/k/plsx3t3) 
 - [【开发者头条】2022-08-18-深度解密钉钉即时消息服务DTIM的技术设计](https://toutiao.io/k/6ztt44k) 
 - [【开发者头条】2022-08-18-最强分布式锁工具：Redisson](https://toutiao.io/k/v9di3a4) 
@@ -142,14 +141,14 @@
 - [【开发者头条】2022-08-18-Seata-php-半年规划](https://toutiao.io/k/tsq2uec) 
 - [【开发者头条】2022-08-18-ASM对匿名内部类、Lambda及方法引用的Hook研究](https://toutiao.io/k/smaj0vg) 
 - [【开发者头条】2022-08-18-一文搞懂-Netty-发送数据全流程-|-你想知道的细节全在这里](https://toutiao.io/k/1625dej) 
-- [【开发者头条】2022-08-18-这一年，我对终端组织与技术架构的思考【专家讲技术】](https://toutiao.io/k/pdlrmqe) 
 - [【开发者头条】2022-08-18-各国开发者-2022-薪资水平：Go-收入最高！](https://toutiao.io/k/6l1dylc) 
+- [【开发者头条】2022-08-18-这一年，我对终端组织与技术架构的思考【专家讲技术】](https://toutiao.io/k/pdlrmqe) 
 - [【开发者头条】2022-08-18-使用-Kubernetes-Ingress-Nginx-实现蓝绿、灰度发布！你会用了吗？](https://toutiao.io/k/sg0qsfc) 
-- [【开发者头条】2022-08-18-推荐-Java-大后端各种架构图汇总（建议收藏！！）](https://toutiao.io/k/dvo6z1w) 
-- [【开发者头条】2022-08-18-推荐-京东面试：MQ-消息丢失、重复、积压问题，如何解决？](https://toutiao.io/k/1unx53z) 
 - [【开发者头条】2022-08-18-推荐-连流量染色都没有，你说要搞微服务？](https://toutiao.io/k/9k1wfc7) 
-- [【开发者头条】2022-08-18-推荐-掌握这些-SpringBoot-启动扩展点，已经超过-90%-的人了](https://toutiao.io/k/3m8iq2m) 
+- [【开发者头条】2022-08-18-推荐-京东面试：MQ-消息丢失、重复、积压问题，如何解决？](https://toutiao.io/k/1unx53z) 
 - [【开发者头条】2022-08-18-推荐-微服务接口设计原则](https://toutiao.io/k/4hjv10p) 
+- [【开发者头条】2022-08-18-推荐-Java-大后端各种架构图汇总（建议收藏！！）](https://toutiao.io/k/dvo6z1w) 
+- [【开发者头条】2022-08-18-推荐-掌握这些-SpringBoot-启动扩展点，已经超过-90%-的人了](https://toutiao.io/k/3m8iq2m) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-18 07:39:14，:rocket: 更新条数: +2028， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-18 08:17:57，:rocket: 更新条数: +2027， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,11 +491,15 @@
 </summary>
 
 
+- [2022-08-18-有没有使用-iPad-Mini6-来写字（比如-GoodNotes）的-v-友](https://www.v2ex.com/t/873774) ![](assets/new.png)  
+- [2022-08-18-大佬帮忙估个价](https://www.v2ex.com/t/873773) ![](assets/new.png)  
+- [2022-08-18-老用户转-29-元套餐成功了](https://www.v2ex.com/t/873772) ![](assets/new.png)  
+- [2022-08-18-诚招语言模型训练实习生](https://www.v2ex.com/t/873771) ![](assets/new.png)  
+- [2022-08-18-Tech-Lead40-80K/Full-time/Bilingual/Remote](https://www.v2ex.com/t/873770) ![](assets/new.png)  
 - [2022-08-18-有感于大王卡新套餐，老用户也想换套餐了](https://www.v2ex.com/t/873769) ![](assets/new.png)  
 - [2022-08-18-各位朋友，你们当地的运营商有网龄提速活动不？](https://www.v2ex.com/t/873768) ![](assets/new.png)  
 - [2022-08-18-发现一个还不错的路由器](https://www.v2ex.com/t/873767) ![](assets/new.png)  
 - [2022-08-18-合肥-蔚来汽车-Java-岗位急招-智能制造方向（差不多-20K-起）自己组直推](https://www.v2ex.com/t/873764) ![](assets/new.png)  
-- [2022-08-18-有老哥割过包皮吗](https://www.v2ex.com/t/873762) ![](assets/new.png)  
 - [2022-08-18-杭州-招聘中级前端工程师，薪资10k-20k](https://www.v2ex.com/t/873760) ![](assets/new.png)  
 - [2022-08-18-请教-drf-全局封装-response-的优雅实现](https://www.v2ex.com/t/873759) ![](assets/new.png)  
 - [2022-08-18-工作流是否支持可选的节点分发功能](https://www.v2ex.com/t/873758) ![](assets/new.png)  
@@ -507,10 +511,6 @@
 - [2022-08-18-最近才明白淘宝的-Spotify-黑产是怎么运作的](https://www.v2ex.com/t/873751) ![](assets/new.png)  
 - [2022-08-18-周末两天鼓捣的益智小游戏](https://www.v2ex.com/t/873750) ![](assets/new.png)  
 - [2022-08-18-各位有没有什么好用的-windows-下载器推荐](https://www.v2ex.com/t/873749) ![](assets/new.png)  
-- [2022-08-18-大家还有记日记的习惯吗](https://www.v2ex.com/t/873748) ![](assets/new.png)  
-- [2022-08-18-有人用-react-native-macos-么?](https://www.v2ex.com/t/873747) ![](assets/new.png)  
-- [2022-08-18-上海-offer，饿了么-or-B-站](https://www.v2ex.com/t/873746) ![](assets/new.png)  
-- [2022-08-18-DigitalOcean-有办法删除默认的支付信用卡信息吗？](https://www.v2ex.com/t/873743) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -522,6 +522,7 @@
 </summary>
 
 
+- [2022-08-18-DDD诊所——异步事件综合征-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15291&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fdomain-driven-design-asynchronous-events%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-08-18-如何评估企业的数据质量-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15290&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-evaluate-improve-data-quality%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-08-18-API快速开发平台设计思考-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15289&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494493%26amp%3Bidx%3D2%26amp%3Bsn%3D0a8c5777a83b3a8e258fbc87cf99a5a1%26amp%3Bchksm%3Dfa3f0a06cd488310cc0d0f14d9ba2c67b676a2869bed0df3c1c5c32dfeda2c0b973c1d7f46df%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-08-18-别再乱搞了，快看优秀的代码是如何分层的！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15288&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494492%26amp%3Bidx%3D1%26amp%3Bsn%3D4d2b541cd0ba81b9acc397edfb735650%26amp%3Bchksm%3Dfa3f0a07cd488311b23c5e0c080092bd01875edc5be3e23b74a4ce3a171b8ef626d12f660484%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
@@ -541,7 +542,6 @@
 - [2022-08-18-最近很火的一组图，看一次笑一次-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15274&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494395%26amp%3Bidx%3D1%26amp%3Bsn%3Dd945234cc4f2cb6ca9fb0741bf79acdb%26amp%3Bchksm%3Dfa3f0ba0cd4882b63046ab6d8fdabace82b042c1693245a687a516f2c0b2fc498b1e85686fef%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-08-18-完成原型设计的五个步骤-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15273&url=https%3A%2F%2Finsights.thoughtworks.cn%2Ffive-steps-for-prototype-design%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-08-18-敏捷交付的工程效能治理-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15272&url=https%3A%2F%2Finsights.thoughtworks.cn%2F%3Fp%3D16439%26amp%3Bpreview%3Dtrue%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-08-18-SpringBoot四大核心组件，你知道几个？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15271&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494395%26amp%3Bidx%3D2%26amp%3Bsn%3D7625c27c0bbb10cfd2e5e1d8a09a3c74%26amp%3Bchksm%3Dfa3f0ba0cd4882b6baa602f1f11ffebc9ec2dadb2ee131a812efc29a71e64cb3959c144707ff%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -569,10 +569,10 @@
 - [2022-08-18-Seata-php-半年规划](https://toutiao.io/k/tsq2uec) ![](assets/new.png)  
 - [2022-08-18-ASM对匿名内部类、Lambda及方法引用的Hook研究](https://toutiao.io/k/smaj0vg) ![](assets/new.png)  
 - [2022-08-18-一文搞懂-Netty-发送数据全流程-|-你想知道的细节全在这里](https://toutiao.io/k/1625dej) ![](assets/new.png)  
-- [2022-08-18-这一年，我对终端组织与技术架构的思考【专家讲技术】](https://toutiao.io/k/pdlrmqe) ![](assets/new.png)  
 - [2022-08-18-各国开发者-2022-薪资水平：Go-收入最高！](https://toutiao.io/k/6l1dylc) ![](assets/new.png)  
+- [2022-08-18-这一年，我对终端组织与技术架构的思考【专家讲技术】](https://toutiao.io/k/pdlrmqe) ![](assets/new.png)  
 - [2022-08-18-使用-Kubernetes-Ingress-Nginx-实现蓝绿、灰度发布！你会用了吗？](https://toutiao.io/k/sg0qsfc) ![](assets/new.png)  
-- [2022-08-18-推荐-Java-大后端各种架构图汇总（建议收藏！！）](https://toutiao.io/k/dvo6z1w) ![](assets/new.png)  
+- [2022-08-18-推荐-连流量染色都没有，你说要搞微服务？](https://toutiao.io/k/9k1wfc7) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

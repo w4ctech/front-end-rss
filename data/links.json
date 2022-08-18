@@ -9953,6 +9953,31 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "有没有使用 iPad Mini6 来写字（比如 GoodNotes）的 v 友",
+        "link": "https://www.v2ex.com/t/873774",
+        "date": "2022-08-18"
+      },
+      {
+        "title": "大佬帮忙估个价",
+        "link": "https://www.v2ex.com/t/873773",
+        "date": "2022-08-18"
+      },
+      {
+        "title": "老用户转 29 元套餐成功了",
+        "link": "https://www.v2ex.com/t/873772",
+        "date": "2022-08-18"
+      },
+      {
+        "title": "诚招语言模型训练实习生",
+        "link": "https://www.v2ex.com/t/873771",
+        "date": "2022-08-18"
+      },
+      {
+        "title": "Tech Lead(40-80K/Full-time/Bilingual/Remote)",
+        "link": "https://www.v2ex.com/t/873770",
+        "date": "2022-08-18"
+      },
+      {
         "title": "有感于大王卡新套餐，老用户也想换套餐了",
         "link": "https://www.v2ex.com/t/873769",
         "date": "2022-08-18"
@@ -9970,11 +9995,6 @@
       {
         "title": "[合肥] 蔚来汽车 Java 岗位急招 智能制造方向（差不多 20K 起）自己组直推",
         "link": "https://www.v2ex.com/t/873764",
-        "date": "2022-08-18"
-      },
-      {
-        "title": "有老哥割过包皮吗",
-        "link": "https://www.v2ex.com/t/873762",
         "date": "2022-08-18"
       },
       {
@@ -10116,31 +10136,6 @@
         "title": "如何最大化利用？",
         "link": "https://www.v2ex.com/t/873725",
         "date": "2022-08-18"
-      },
-      {
-        "title": "iOS 平安银行 app 打不开",
-        "link": "https://www.v2ex.com/t/873724",
-        "date": "2022-08-18"
-      },
-      {
-        "title": "怀疑天才欺负我读书少，和各位大佬求证一下",
-        "link": "https://www.v2ex.com/t/873723",
-        "date": "2022-08-18"
-      },
-      {
-        "title": "OneDive 怎么同步 OpenWRT 的外挂硬盘",
-        "link": "https://www.v2ex.com/t/873722",
-        "date": "2022-08-18"
-      },
-      {
-        "title": "Google 云盘无法备份 iPhone 相册",
-        "link": "https://www.v2ex.com/t/873721",
-        "date": "2022-08-18"
-      },
-      {
-        "title": "有人说说 iPad 对于安卓手机用户的缺点么",
-        "link": "https://www.v2ex.com/t/873720",
-        "date": "2022-08-18"
       }
     ]
   },
@@ -10149,6 +10144,11 @@
     "title": "技术头条",
     "link": "http://blogread.cn/news/newest.php",
     "items": [
+      {
+        "title": "DDD诊所——异步事件综合征 (insights.thoughtworks.cn)",
+        "link": "https://blogread.cn/news/go.php?idItem=15291&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fdomain-driven-design-asynchronous-events%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2022-08-18"
+      },
       {
         "title": "如何评估企业的数据质量 (insights.thoughtworks.cn)",
         "link": "https://blogread.cn/news/go.php?idItem=15290&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-evaluate-improve-data-quality%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
@@ -10243,11 +10243,6 @@
         "title": "敏捷交付的工程效能治理 (insights.thoughtworks.cn)",
         "link": "https://blogread.cn/news/go.php?idItem=15272&url=https%3A%2F%2Finsights.thoughtworks.cn%2F%3Fp%3D16439%26amp%3Bpreview%3Dtrue%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
         "date": "2022-08-18"
-      },
-      {
-        "title": "SpringBoot四大核心组件，你知道几个？ (mp.weixin.qq.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=15271&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494395%26amp%3Bidx%3D2%26amp%3Bsn%3D7625c27c0bbb10cfd2e5e1d8a09a3c74%26amp%3Bchksm%3Dfa3f0ba0cd4882b6baa602f1f11ffebc9ec2dadb2ee131a812efc29a71e64cb3959c144707ff%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-08-18"
       }
     ]
   },
@@ -10337,13 +10332,13 @@
         "date": "2022-08-18"
       },
       {
-        "title": "这一年，我对终端组织与技术架构的思考【专家讲技术】",
-        "link": "https://toutiao.io/k/pdlrmqe",
+        "title": "各国开发者 2022 薪资水平：Go 收入最高！",
+        "link": "https://toutiao.io/k/6l1dylc",
         "date": "2022-08-18"
       },
       {
-        "title": "各国开发者 2022 薪资水平：Go 收入最高！",
-        "link": "https://toutiao.io/k/6l1dylc",
+        "title": "这一年，我对终端组织与技术架构的思考【专家讲技术】",
+        "link": "https://toutiao.io/k/pdlrmqe",
         "date": "2022-08-18"
       },
       {
@@ -10352,8 +10347,8 @@
         "date": "2022-08-18"
       },
       {
-        "title": "[推荐] Java 大后端各种架构图汇总（建议收藏！！）",
-        "link": "https://toutiao.io/k/dvo6z1w",
+        "title": "[推荐] 连流量染色都没有，你说要搞微服务？",
+        "link": "https://toutiao.io/k/9k1wfc7",
         "date": "2022-08-18"
       },
       {
@@ -10362,18 +10357,18 @@
         "date": "2022-08-18"
       },
       {
-        "title": "[推荐] 连流量染色都没有，你说要搞微服务？",
-        "link": "https://toutiao.io/k/9k1wfc7",
+        "title": "[推荐] 微服务接口设计原则",
+        "link": "https://toutiao.io/k/4hjv10p",
+        "date": "2022-08-18"
+      },
+      {
+        "title": "[推荐] Java 大后端各种架构图汇总（建议收藏！！）",
+        "link": "https://toutiao.io/k/dvo6z1w",
         "date": "2022-08-18"
       },
       {
         "title": "[推荐] 掌握这些 SpringBoot 启动扩展点，已经超过 90% 的人了",
         "link": "https://toutiao.io/k/3m8iq2m",
-        "date": "2022-08-18"
-      },
-      {
-        "title": "[推荐] 微服务接口设计原则",
-        "link": "https://toutiao.io/k/4hjv10p",
         "date": "2022-08-18"
       }
     ]

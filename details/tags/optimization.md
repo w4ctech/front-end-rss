@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-08-17 23:39:36。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-08-18 01:16:14。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 性能优化
 
@@ -6,5 +6,3 @@
 > 关键字：`性能`、`优化`、`加载`、`SEO`、`Hints`、`Prefetch`、`Prerender`、`Preload`
 
 
-
-- [2022-08-17-Java性能优化的七个方向](https://toutiao.io/k/yjkn4py) 

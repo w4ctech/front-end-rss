@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-08-18 01:16:14。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-08-18 03:41:48。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -14,7 +14,10 @@
 - [2021-01-08-解药|新冠mRNA疫苗安全性有哪些挑战？](https://m.caixin.com/m/2021-01-08/101648043.html) 
 - [2021-01-01-大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html) 
 - [2022-06-12-基于文字的URL锚点定位与::target-text样式设置](https://www.zhangxinxu.com/wordpress/2022/06/url-anchor-target-text/) 
-- [2022-08-17-好像错怪-b-站了，其实是-windows-上-docker-会使-chrome-在某些网站间歇性无响应](https://www.v2ex.com/t/873617) 
-- [2022-08-17-上海拼多多安全岗自己团队招人-安卓/iOS-APP-安全开发、APP-逆向、后端服务开发（Golang](https://www.v2ex.com/t/873586) 
+- [2022-08-18-1Password-在-macOS-下如何实现多个版本的-Chrome-同时使用桌面应用程序进行解锁？](https://www.v2ex.com/t/873681) 
+- [2022-08-18-如何监听浏览器中同一域名的-tab-全部关闭？](https://www.v2ex.com/t/873662) 
+- [2022-08-18-MS-Edge-推出新的跨设备同步工具:-Edge-Drop,-我的-Android-端能用-Drop-但-PC-端却找不到此功能](https://www.v2ex.com/t/873659) 
 - [2022-08-18-SpringBoot解决跨域问题的3种方案！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15285&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494491%26amp%3Bidx%3D2%26amp%3Bsn%3Dbc208873a3a0e7dbdc7698f3d25083e1%26amp%3Bchksm%3Dfa3f0a00cd488316a7aec8a2fff04fed8086c7c57a56b533cfbf0f113077fc0116b77f0df05c%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-08-18-Spring-Boot-实现跨域的-5-种方式，总有一种适合你，建议收藏](https://toutiao.io/k/v14ga1m) 
+- [2022-08-18-Apache-HttpClient-5-使用详细教程](https://toutiao.io/k/ff7aohg) 
+- [2022-08-18-演化的大安全体系框架](https://toutiao.io/k/bcdqmfz) 

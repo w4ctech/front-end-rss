@@ -9953,6 +9953,26 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "2022 年了，联通现在都支持异地合账了，但是移动却只能同一归属地的号码合账",
+        "link": "https://www.v2ex.com/t/873864",
+        "date": "2022-08-18"
+      },
+      {
+        "title": "请问可以申请创建新节点吗？",
+        "link": "https://www.v2ex.com/t/873863",
+        "date": "2022-08-18"
+      },
+      {
+        "title": "ASP.NET 写的老网站，在 Windows 2008 R2 下稳稳十万并发，升级 Windows 2019 后响应非常缓慢， 600 并发就卡死，配置都没动过，有什么排查的方法吗？研究了一天...",
+        "link": "https://www.v2ex.com/t/873862",
+        "date": "2022-08-18"
+      },
+      {
+        "title": "云桌面的隐私焦虑",
+        "link": "https://www.v2ex.com/t/873861",
+        "date": "2022-08-18"
+      },
+      {
         "title": "关于远程工作",
         "link": "https://www.v2ex.com/t/873859",
         "date": "2022-08-18"
@@ -10131,31 +10151,6 @@
         "title": "有什么 airpods pro 的平替吗？",
         "link": "https://www.v2ex.com/t/873815",
         "date": "2022-08-18"
-      },
-      {
-        "title": "求助 MBP 的 iCloud/id 问题",
-        "link": "https://www.v2ex.com/t/873814",
-        "date": "2022-08-18"
-      },
-      {
-        "title": "7z 格式有前途么？",
-        "link": "https://www.v2ex.com/t/873813",
-        "date": "2022-08-18"
-      },
-      {
-        "title": "samba 的选项太多了，有好用的 webui 或者配置生成工具吗？",
-        "link": "https://www.v2ex.com/t/873812",
-        "date": "2022-08-18"
-      },
-      {
-        "title": "关于设置一个定时任务还是多个定时任务问题",
-        "link": "https://www.v2ex.com/t/873811",
-        "date": "2022-08-18"
-      },
-      {
-        "title": "如何切换已过期的开发账号所有者？",
-        "link": "https://www.v2ex.com/t/873810",
-        "date": "2022-08-18"
       }
     ]
   },
@@ -10165,103 +10160,103 @@
     "link": "http://blogread.cn/news/newest.php",
     "items": [
       {
-        "title": "SPA nginx try_files 深度优化 (xuexb.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=15307&url=https%3A%2F%2Fxuexb.com%2Fpost%2Fspa_try_files.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "title": "关于用研岗位的思考 (blog.devtang.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=15327&url=https%3A%2F%2Fblog.devtang.com%2F2020%2F07%2F28%2Fabout-user-research%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
         "date": "2022-08-18"
       },
       {
-        "title": "在笔记本上搭建高性价比的 Linux 学习环境：基础篇 (soulteary.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=15306&url=https%3A%2F%2Fsoulteary.com%2F2022%2F06%2F21%2Fbuilding-a-cost-effective-linux-learning-environment-on-a-laptop-the-basics.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "title": "前端AB实验设计思路与实现原理 (fed.taobao.org)",
+        "link": "https://blogread.cn/news/go.php?idItem=15326&url=https%3A%2F%2Ffed.taobao.org%2Fblog%2Ftaofed%2Fdo71ct%2Ffrontend-ab-test%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
         "date": "2022-08-18"
       },
       {
-        "title": "搭建可维护的 Golang 开发环境 (soulteary.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=15305&url=https%3A%2F%2Fsoulteary.com%2F2022%2F07%2F04%2Fbuild-a-maintainable-golang-development-environment.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "title": "HTTP/3 原理与实践 (www.alloyteam.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=15325&url=http%3A%2F%2Fwww.alloyteam.com%2F2020%2F05%2F14385%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
         "date": "2022-08-18"
       },
       {
-        "title": "Go 垃圾回收器指南 (colobu.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=15304&url=https%3A%2F%2Fcolobu.com%2F2022%2F07%2F16%2FA-Guide-to-the-Go-Garbage-Collector%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "title": "flex-end为什么overflow无法滚动及解决方法 (www.zhangxinxu.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=15324&url=https%3A%2F%2Fwww.zhangxinxu.com%2Fwordpress%2F2021%2F12%2Fflex-end-overflow%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
         "date": "2022-08-18"
       },
       {
-        "title": "等等， 怎么使用 SetMemoryLimit? (colobu.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=15303&url=https%3A%2F%2Fcolobu.com%2F2022%2F06%2F20%2Fhow-to-use-SetMemoryLimit%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "title": "走进向量计算：制作 OpenBLAS Docker 预构建产物镜像 (soulteary.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=15323&url=https%3A%2F%2Fsoulteary.com%2F2022%2F07%2F31%2Finto-vector-computing-making-openblas-docker-prebuilt-product-images.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
         "date": "2022-08-18"
       },
       {
-        "title": "工程效能CI/CD之流水线引擎的建设实践 (tech.meituan.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=15302&url=https%3A%2F%2Ftech.meituan.com%2F2022%2F07%2F14%2Fcicd-pipeline.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "title": "使用 Docker 搭建属于你自己的 Go Playground (soulteary.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=15322&url=https%3A%2F%2Fsoulteary.com%2F2022%2F07%2F17%2Fbuild-your-own-go-playground-with-docker.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
         "date": "2022-08-18"
       },
       {
-        "title": "大众点评搜索相关性技术探索与实践 (tech.meituan.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=15301&url=https%3A%2F%2Ftech.meituan.com%2F2022%2F07%2F06%2Fsemantic-relevance-matching.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "title": "美团Serverless平台Nest的探索与实践 (tech.meituan.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=15321&url=https%3A%2F%2Ftech.meituan.com%2F2021%2F04%2F21%2Fnest-serverless.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
         "date": "2022-08-18"
       },
       {
-        "title": "CSS排版为何强？瞧瞧多牛这换行 (www.zhangxinxu.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=15300&url=https%3A%2F%2Fwww.zhangxinxu.com%2Fwordpress%2F2022%2F06%2Fcss-line-break-word-wrap-all%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "title": "基于文字的URL锚点定位与::target-text样式设置 (www.zhangxinxu.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=15320&url=https%3A%2F%2Fwww.zhangxinxu.com%2Fwordpress%2F2022%2F06%2Furl-anchor-target-text%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
         "date": "2022-08-18"
       },
       {
-        "title": "硅谷旧金山湾区主要划分(南湾-东湾-旧金山-半岛-三谷地区) (www.slyar.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=15299&url=http%3A%2F%2Fwww.slyar.com%2Fblog%2Fsan-francisco-bay-area-silicon-valley-area-cities.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "title": "商用密码应用安全建设市场研究与思考 (www.sec-un.org)",
+        "link": "https://blogread.cn/news/go.php?idItem=15319&url=https%3A%2F%2Fwww.sec-un.org%2F%25e5%2595%2586%25e7%2594%25a8%25e5%25af%2586%25e7%25a0%2581%25e5%25ba%2594%25e7%2594%25a8%25e5%25ae%2589%25e5%2585%25a8%25e5%25bb%25ba%25e8%25ae%25be%25e5%25b8%2582%25e5%259c%25ba%25e7%25a0%2594%25e7%25a9%25b6%25e4%25b8%258e%25e6%2580%259d%25e8%2580%2583%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
         "date": "2022-08-18"
       },
       {
-        "title": "Mac 下 终端也能生成二维码了 (droidyue.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=15298&url=https%3A%2F%2Fdroidyue.com%2Fblog%2F2022%2F05%2F30%2Fgenerate-qrcode-in-terminal-on-mac-or-linux%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "title": "可视化全链路日志追踪 (tech.meituan.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=15318&url=https%3A%2F%2Ftech.meituan.com%2F2022%2F07%2F21%2Fvisualized-log-tracing.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
         "date": "2022-08-18"
       },
       {
-        "title": "跟 Google 学开公司 - 谈谈方向、文化和人 (blog.alswl.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=15297&url=https%3A%2F%2Fblog.alswl.com%2F2022%2F07%2Fcompany%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "title": "CSS background背景图标的变色技巧 (www.zhangxinxu.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=15317&url=https%3A%2F%2Fwww.zhangxinxu.com%2Fwordpress%2F2022%2F01%2Fcss-background-image-color%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
         "date": "2022-08-18"
       },
       {
-        "title": "简单一招，百倍提速 Flutter 开发 (droidyue.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=15296&url=https%3A%2F%2Fdroidyue.com%2Fblog%2F2022%2F04%2F18%2Fhow-to-be-100x-faster-about-replace-dart-flutter-deps-in-the-development%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "title": "软件成分安全分析（SCA）能力的建设与演进 (www.sec-un.org)",
+        "link": "https://blogread.cn/news/go.php?idItem=15316&url=https%3A%2F%2Fwww.sec-un.org%2F%25e8%25bd%25af%25e4%25bb%25b6%25e6%2588%2590%25e5%2588%2586%25e5%25ae%2589%25e5%2585%25a8%25e5%2588%2586%25e6%259e%2590%25ef%25bc%2588sca%25ef%25bc%2589%25e8%2583%25bd%25e5%258a%259b%25e7%259a%2584%25e5%25bb%25ba%25e8%25ae%25be%25e4%25b8%258e%25e6%25bc%2594%25e8%25bf%259b%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
         "date": "2022-08-18"
       },
       {
-        "title": "K8S Event事件内容分析和告警 (www.ipcpu.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=15295&url=https%3A%2F%2Fwww.ipcpu.com%2F2022%2F06%2Fk8s-event%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "title": "详解日后定会大规模使用的CSS @layer 规则 (www.zhangxinxu.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=15315&url=https%3A%2F%2Fwww.zhangxinxu.com%2Fwordpress%2F2022%2F05%2Fcss-layer-rule%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
         "date": "2022-08-18"
       },
       {
-        "title": "gitlab免密登录使用.netrc文件 (www.ipcpu.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=15294&url=https%3A%2F%2Fwww.ipcpu.com%2F2022%2F06%2Fgitlab-netrc%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "title": "美团综合业务推荐系统的质量模型及实践 (tech.meituan.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=15314&url=https%3A%2F%2Ftech.meituan.com%2F2022%2F06%2F16%2Frecommendation-system-quality-model.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
         "date": "2022-08-18"
       },
       {
-        "title": "Flutter/Dart release 模式下屏蔽 debugPrint 与 print 输出 (droidyue.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=15293&url=https%3A%2F%2Fdroidyue.com%2Fblog%2F2022%2F05%2F23%2Fdisable-debugprint-and-print-in-flutter-dart-release-mode%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "title": "深入 JS new Function 语法 (www.zhangxinxu.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=15313&url=https%3A%2F%2Fwww.zhangxinxu.com%2Fwordpress%2F2022%2F04%2Fjs-new-function%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
         "date": "2022-08-18"
       },
       {
-        "title": "Python爬虫requests爬取页面的编码问题 (www.ipcpu.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=15292&url=https%3A%2F%2Fwww.ipcpu.com%2F2022%2F05%2Fpython-requests-encoding%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "title": "企业安全建设实践路程思考 (www.sec-un.org)",
+        "link": "https://blogread.cn/news/go.php?idItem=15312&url=https%3A%2F%2Fwww.sec-un.org%2F%25e4%25bc%2581%25e4%25b8%259a%25e5%25ae%2589%25e5%2585%25a8%25e5%25bb%25ba%25e8%25ae%25be%25e5%25ae%259e%25e8%25b7%25b5%25e8%25b7%25af%25e7%25a8%258b%25e6%2580%259d%25e8%2580%2583%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
         "date": "2022-08-18"
       },
       {
-        "title": "DDD诊所——异步事件综合征 (insights.thoughtworks.cn)",
-        "link": "https://blogread.cn/news/go.php?idItem=15291&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fdomain-driven-design-asynchronous-events%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "title": "修复 Ubuntu Linux 中 “Command ‘python’ not found” 的错误 (linux.cn)",
+        "link": "https://blogread.cn/news/go.php?idItem=15311&url=https%3A%2F%2Flinux.cn%2Farticle-14878-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
         "date": "2022-08-18"
       },
       {
-        "title": "如何评估企业的数据质量 (insights.thoughtworks.cn)",
-        "link": "https://blogread.cn/news/go.php?idItem=15290&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-evaluate-improve-data-quality%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "title": "日志导致线程Block的这些坑，你不得不防 (tech.meituan.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=15310&url=https%3A%2F%2Ftech.meituan.com%2F2022%2F07%2F29%2Ftips-for-avoiding-log-blocking-threads.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
         "date": "2022-08-18"
       },
       {
-        "title": "API快速开发平台设计思考 (mp.weixin.qq.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=15289&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494493%26amp%3Bidx%3D2%26amp%3Bsn%3D0a8c5777a83b3a8e258fbc87cf99a5a1%26amp%3Bchksm%3Dfa3f0a06cd488310cc0d0f14d9ba2c67b676a2869bed0df3c1c5c32dfeda2c0b973c1d7f46df%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "title": "Linux 下解决 grep is directory 问题 (droidyue.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=15309&url=https%3A%2F%2Fdroidyue.com%2Fblog%2F2022%2F06%2F26%2Ffix-grep-is-directory-issue-linux-mac%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
         "date": "2022-08-18"
       },
       {
-        "title": "别再乱搞了，快看优秀的代码是如何分层的！ (mp.weixin.qq.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=15288&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494492%26amp%3Bidx%3D1%26amp%3Bsn%3D4d2b541cd0ba81b9acc397edfb735650%26amp%3Bchksm%3Dfa3f0a07cd488311b23c5e0c080092bd01875edc5be3e23b74a4ce3a171b8ef626d12f660484%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "title": "缓存使用的一些经验 (wklken.me)",
+        "link": "https://blogread.cn/news/go.php?idItem=15308&url=https%3A%2F%2Fwklken.me%2Fposts%2F2022%2F06%2F26%2Fsummary-01-cache.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
         "date": "2022-08-18"
       }
     ]
@@ -10367,16 +10362,6 @@
         "date": "2022-08-18"
       },
       {
-        "title": "[推荐] 微服务接口设计原则",
-        "link": "https://toutiao.io/k/4hjv10p",
-        "date": "2022-08-18"
-      },
-      {
-        "title": "[推荐] Java 大后端各种架构图汇总（建议收藏！！）",
-        "link": "https://toutiao.io/k/dvo6z1w",
-        "date": "2022-08-18"
-      },
-      {
         "title": "[推荐] 掌握这些 SpringBoot 启动扩展点，已经超过 90% 的人了",
         "link": "https://toutiao.io/k/3m8iq2m",
         "date": "2022-08-18"
@@ -10389,6 +10374,16 @@
       {
         "title": "[推荐] 京东面试：MQ 消息丢失、重复、积压问题，如何解决？",
         "link": "https://toutiao.io/k/1unx53z",
+        "date": "2022-08-18"
+      },
+      {
+        "title": "[推荐] Java 大后端各种架构图汇总（建议收藏！！）",
+        "link": "https://toutiao.io/k/dvo6z1w",
+        "date": "2022-08-18"
+      },
+      {
+        "title": "[推荐] 微服务接口设计原则",
+        "link": "https://toutiao.io/k/4hjv10p",
         "date": "2022-08-18"
       }
     ]

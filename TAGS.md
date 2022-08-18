@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-08-18 15:25:33。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-08-18 15:57:13。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -90,6 +90,7 @@
 
 
 - [【武汉肺炎防疫全纪录(财新网)】韩国拟升级首尔疫情管控-法国专业机构建议强制接种疫苗｜大流行手记（7月10日）](https://m.caixin.com/m/2021-07-11/101738786.html)
+- [【技术头条】走进向量计算：制作-OpenBLAS-Docker-预构建产物镜像-soulteary.com](https://blogread.cn/news/go.php?idItem=15323&url=https%3A%2F%2Fsoulteary.com%2F2022%2F07%2F31%2Finto-vector-computing-making-openblas-docker-prebuilt-product-images.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【开发者头条】剖析-pnpm-的优势与原理](https://toutiao.io/k/sqmcv7p)
 - [......【查看更多】......](./details/tags/pack-build.md)
 
@@ -141,8 +142,6 @@
 
 
 
-- [【技术头条】简单一招，百倍提速-Flutter-开发-droidyue.com](https://blogread.cn/news/go.php?idItem=15296&url=https%3A%2F%2Fdroidyue.com%2Fblog%2F2022%2F04%2F18%2Fhow-to-be-100x-faster-about-replace-dart-flutter-deps-in-the-development%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
-- [【技术头条】Flutter/Dart-release-模式下屏蔽-debugPrint-与-print-输出-droidyue.com](https://blogread.cn/news/go.php?idItem=15293&url=https%3A%2F%2Fdroidyue.com%2Fblog%2F2022%2F05%2F23%2Fdisable-debugprint-and-print-in-flutter-dart-release-mode%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [......【查看更多】......](./details/tags/dev-mobile.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -187,8 +186,8 @@
 - [【张鑫旭-鑫空间-鑫生活】如何实现页面刷新后不定位到之前的滚动位置？](https://www.zhangxinxu.com/wordpress/2022/05/history-scrollrestoration/)
 - [【张鑫旭-鑫空间-鑫生活】JS与条形码的生成](https://www.zhangxinxu.com/wordpress/2022/05/js-barcode/)
 - [【V2EX】大佬们，假设下面这个是已经排序过的关于时间的数组，现在需要添加到不同距离当前年份时间的数组，能用二分查找去实现吗？](https://www.v2ex.com/t/873853)
-- [【技术头条】K8S-Event事件内容分析和告警-www.ipcpu.com](https://blogread.cn/news/go.php?idItem=15295&url=https%3A%2F%2Fwww.ipcpu.com%2F2022%2F06%2Fk8s-event%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
-- [【技术头条】DDD诊所——异步事件综合征-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15291&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fdomain-driven-design-asynchronous-events%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
+- [【技术头条】flex-end为什么overflow无法滚动及解决方法-www.zhangxinxu.com](https://blogread.cn/news/go.php?idItem=15324&url=https%3A%2F%2Fwww.zhangxinxu.com%2Fwordpress%2F2021%2F12%2Fflex-end-overflow%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
+- [【技术头条】深入-JS-new-Function-语法-www.zhangxinxu.com](https://blogread.cn/news/go.php?idItem=15313&url=https%3A%2F%2Fwww.zhangxinxu.com%2Fwordpress%2F2022%2F04%2Fjs-new-function%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [......【查看更多】......](./details/tags/javascript.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -210,7 +209,9 @@
 - [【张鑫旭-鑫空间-鑫生活】CSS排版为何强？瞧瞧多牛这换行](https://www.zhangxinxu.com/wordpress/2022/06/css-line-break-word-wrap-all/)
 - [【张鑫旭-鑫空间-鑫生活】详解日后定会大规模使用的CSS-@layer-规则](https://www.zhangxinxu.com/wordpress/2022/05/css-layer-rule/)
 - [【张鑫旭-鑫空间-鑫生活】CSS必学基础：理解CSS中的级联规则](https://www.zhangxinxu.com/wordpress/2022/05/deep-in-css-cascade/)
-- [【技术头条】CSS排版为何强？瞧瞧多牛这换行-www.zhangxinxu.com](https://blogread.cn/news/go.php?idItem=15300&url=https%3A%2F%2Fwww.zhangxinxu.com%2Fwordpress%2F2022%2F06%2Fcss-line-break-word-wrap-all%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
+- [【技术头条】美团Serverless平台Nest的探索与实践-tech.meituan.com](https://blogread.cn/news/go.php?idItem=15321&url=https%3A%2F%2Ftech.meituan.com%2F2021%2F04%2F21%2Fnest-serverless.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
+- [【技术头条】CSS-background背景图标的变色技巧-www.zhangxinxu.com](https://blogread.cn/news/go.php?idItem=15317&url=https%3A%2F%2Fwww.zhangxinxu.com%2Fwordpress%2F2022%2F01%2Fcss-background-image-color%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
+- [【技术头条】详解日后定会大规模使用的CSS-@layer-规则-www.zhangxinxu.com](https://blogread.cn/news/go.php?idItem=15315&url=https%3A%2F%2Fwww.zhangxinxu.com%2Fwordpress%2F2022%2F05%2Fcss-layer-rule%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [......【查看更多】......](./details/tags/css.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -264,7 +265,6 @@
 
 
 - [【V2EX】MacBook-Pro-的-WI-FI-性能，也还挺好的吧，前阵子看到帖子说很垃圾。](https://www.v2ex.com/t/873849)
-- [【技术头条】SPA-nginx-try_files-深度优化-xuexb.com](https://blogread.cn/news/go.php?idItem=15307&url=https%3A%2F%2Fxuexb.com%2Fpost%2Fspa_try_files.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [......【查看更多】......](./details/tags/optimization.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -290,6 +290,11 @@
 - [【张鑫旭-鑫空间-鑫生活】基于文字的URL锚点定位与::target-text样式设置](https://www.zhangxinxu.com/wordpress/2022/06/url-anchor-target-text/)
 - [【V2EX】iPad-上-Chrome-请求桌面版网站触发-Cloudflare-验证](https://www.v2ex.com/t/873854)
 - [【V2EX】firefox-地址栏和标签栏怎么隐藏啊,-看难受](https://www.v2ex.com/t/873820)
+- [【技术头条】基于文字的URL锚点定位与::target-text样式设置-www.zhangxinxu.com](https://blogread.cn/news/go.php?idItem=15320&url=https%3A%2F%2Fwww.zhangxinxu.com%2Fwordpress%2F2022%2F06%2Furl-anchor-target-text%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
+- [【技术头条】商用密码应用安全建设市场研究与思考-www.sec-un.org](https://blogread.cn/news/go.php?idItem=15319&url=https%3A%2F%2Fwww.sec-un.org%2F%25e5%2595%2586%25e7%2594%25a8%25e5%25af%2586%25e7%25a0%2581%25e5%25ba%2594%25e7%2594%25a8%25e5%25ae%2589%25e5%2585%25a8%25e5%25bb%25ba%25e8%25ae%25be%25e5%25b8%2582%25e5%259c%25ba%25e7%25a0%2594%25e7%25a9%25b6%25e4%25b8%258e%25e6%2580%259d%25e8%2580%2583%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
+- [【技术头条】软件成分安全分析（SCA）能力的建设与演进-www.sec-un.org](https://blogread.cn/news/go.php?idItem=15316&url=https%3A%2F%2Fwww.sec-un.org%2F%25e8%25bd%25af%25e4%25bb%25b6%25e6%2588%2590%25e5%2588%2586%25e5%25ae%2589%25e5%2585%25a8%25e5%2588%2586%25e6%259e%2590%25ef%25bc%2588sca%25ef%25bc%2589%25e8%2583%25bd%25e5%258a%259b%25e7%259a%2584%25e5%25bb%25ba%25e8%25ae%25be%25e4%25b8%258e%25e6%25bc%2594%25e8%25bf%259b%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
+- [【技术头条】企业安全建设实践路程思考-www.sec-un.org](https://blogread.cn/news/go.php?idItem=15312&url=https%3A%2F%2Fwww.sec-un.org%2F%25e4%25bc%2581%25e4%25b8%259a%25e5%25ae%2589%25e5%2585%25a8%25e5%25bb%25ba%25e8%25ae%25be%25e5%25ae%259e%25e8%25b7%25b5%25e8%25b7%25af%25e7%25a8%258b%25e6%2580%259d%25e8%2580%2583%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
+- [【技术头条】缓存使用的一些经验-wklken.me](https://blogread.cn/news/go.php?idItem=15308&url=https%3A%2F%2Fwklken.me%2Fposts%2F2022%2F06%2F26%2Fsummary-01-cache.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【开发者头条】Spring-Boot-实现跨域的-5-种方式，总有一种适合你，建议收藏](https://toutiao.io/k/v14ga1m)
 - [【开发者头条】Apache-HttpClient-5-使用详细教程](https://toutiao.io/k/ff7aohg)
 - [【开发者头条】演化的大安全体系框架](https://toutiao.io/k/bcdqmfz)
@@ -309,6 +314,7 @@
 
 
 
+- [【技术头条】HTTP/3-原理与实践-www.alloyteam.com](https://blogread.cn/news/go.php?idItem=15325&url=http%3A%2F%2Fwww.alloyteam.com%2F2020%2F05%2F14385%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -326,6 +332,7 @@
 
 
 - [【V2EX】请教一个-nginx-反代后-301-的问题](https://www.v2ex.com/t/873846)
+- [【技术头条】使用-Docker-搭建属于你自己的-Go-Playground-soulteary.com](https://blogread.cn/news/go.php?idItem=15322&url=https%3A%2F%2Fsoulteary.com%2F2022%2F07%2F17%2Fbuild-your-own-go-playground-with-docker.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【开发者头条】使用-Kubernetes-Ingress-Nginx-实现蓝绿、灰度发布！你会用了吗？](https://toutiao.io/k/sg0qsfc)
 - [......【查看更多】......](./details/tags/server.md)
 
@@ -343,7 +350,6 @@
 
 
 
-- [【技术头条】gitlab免密登录使用.netrc文件-www.ipcpu.com](https://blogread.cn/news/go.php?idItem=15294&url=https%3A%2F%2Fwww.ipcpu.com%2F2022%2F06%2Fgitlab-netrc%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [......【查看更多】......](./details/tags/git-svn.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-08-18 11:13:16。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-08-18 11:38:17。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,8 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-08-18-有什么-airpods-pro-的平替吗？](https://www.v2ex.com/t/873815) 
+- [2022-08-18-求助-MBP-的-iCloud/id-问题](https://www.v2ex.com/t/873814) 
 - [2022-08-18-7z-格式有前途么？](https://www.v2ex.com/t/873813) 
 - [2022-08-18-samba-的选项太多了，有好用的-webui-或者配置生成工具吗？](https://www.v2ex.com/t/873812) 
 - [2022-08-18-关于设置一个定时任务还是多个定时任务问题](https://www.v2ex.com/t/873811) 
@@ -1948,7 +1950,6 @@
 - [2022-08-18-Tech-Lead40-80K/Full-time/Bilingual/Remote](https://www.v2ex.com/t/873770) 
 - [2022-08-18-有感于大王卡新套餐，老用户也想换套餐了](https://www.v2ex.com/t/873769) 
 - [2022-08-18-各位朋友，你们当地的运营商有网龄提速活动不？](https://www.v2ex.com/t/873768) 
-- [2022-08-18-合肥-蔚来汽车-Java-岗位急招-智能制造方向（差不多-20K-起）自己组直推](https://www.v2ex.com/t/873764) 
 - [2022-08-18-如何评估企业的数据质量-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15290&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-evaluate-improve-data-quality%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-08-18-API快速开发平台设计思考-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15289&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494493%26amp%3Bidx%3D2%26amp%3Bsn%3D0a8c5777a83b3a8e258fbc87cf99a5a1%26amp%3Bchksm%3Dfa3f0a06cd488310cc0d0f14d9ba2c67b676a2869bed0df3c1c5c32dfeda2c0b973c1d7f46df%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-08-18-别再乱搞了，快看优秀的代码是如何分层的！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15288&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494492%26amp%3Bidx%3D1%26amp%3Bsn%3D4d2b541cd0ba81b9acc397edfb735650%26amp%3Bchksm%3Dfa3f0a07cd488311b23c5e0c080092bd01875edc5be3e23b74a4ce3a171b8ef626d12f660484%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

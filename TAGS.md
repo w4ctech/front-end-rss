@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-08-18 05:36:57。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-08-18 06:18:13。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -183,6 +183,7 @@
 - [【张鑫旭-鑫空间-鑫生活】介绍一种CSS变量未定义语法也OK的小妙招](https://www.zhangxinxu.com/wordpress/2022/06/css-var-optional-empty-trick/)
 - [【张鑫旭-鑫空间-鑫生活】如何实现页面刷新后不定位到之前的滚动位置？](https://www.zhangxinxu.com/wordpress/2022/05/history-scrollrestoration/)
 - [【张鑫旭-鑫空间-鑫生活】JS与条形码的生成](https://www.zhangxinxu.com/wordpress/2022/05/js-barcode/)
+- [【V2EX】软路由-CPU-温度上-70-度了，有没有啥问题？](https://www.v2ex.com/t/873730)
 - [【技术头条】20个简洁的JS代码片段-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15283&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494490%26amp%3Bidx%3D2%26amp%3Bsn%3D68fc3936af5ebde00b9e4507b7bc02dd%26amp%3Bchksm%3Dfa3f0a01cd488317b9b0bcdd75be8ef0d4f56dfc42f5cb71d0611c28eadff8e41d24473bf0ec%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【技术头条】SpringCloud架构的各个组件的原理分析-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15276&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494408%26amp%3Bidx%3D2%26amp%3Bsn%3D6030c1f3629babc9dfa8f85ffea42a09%26amp%3Bchksm%3Dfa3f0a53cd488345b2fd2421e868d7459c7c27f488ec4de9fdae81d0c5f24efb8b71ebe22169%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【技术头条】SpringBoot四大核心组件，你知道几个？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15271&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494395%26amp%3Bidx%3D2%26amp%3Bsn%3D7625c27c0bbb10cfd2e5e1d8a09a3c74%26amp%3Bchksm%3Dfa3f0ba0cd4882b6baa602f1f11ffebc9ec2dadb2ee131a812efc29a71e64cb3959c144707ff%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
@@ -241,6 +242,7 @@
 
 - [【武汉肺炎防疫全纪录(财新网)】广州17岁男生在定点医院参加高考-特殊考场视频监考](https://m.caixin.com/m/2021-06-05/101723418.html)
 - [【武汉肺炎防疫全纪录(财新网)】林郑月娥率13高官直播接种科兴疫苗-复星疫苗预计周中到港](https://m.caixin.com/m/2021-02-22/101665724.html)
+- [【V2EX】网上用人声做鬼畜视频的音频是自己手剪的，还是程序自动剪的](https://www.v2ex.com/t/873729)
 - [......【查看更多】......](./details/tags/audio-video.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -280,8 +282,6 @@
 - [【武汉肺炎防疫全纪录(财新网)】解药|新冠mRNA疫苗安全性有哪些挑战？](https://m.caixin.com/m/2021-01-08/101648043.html)
 - [【武汉肺炎防疫全纪录(财新网)】大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html)
 - [【张鑫旭-鑫空间-鑫生活】基于文字的URL锚点定位与::target-text样式设置](https://www.zhangxinxu.com/wordpress/2022/06/url-anchor-target-text/)
-- [【V2EX】劳动仲裁请求解除劳动合同，还需要去公司上班吗](https://www.v2ex.com/t/873689)
-- [【V2EX】1Password-在-macOS-下如何实现多个版本的-Chrome-同时使用桌面应用程序进行解锁？](https://www.v2ex.com/t/873681)
 - [【技术头条】SpringBoot解决跨域问题的3种方案！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15285&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494491%26amp%3Bidx%3D2%26amp%3Bsn%3Dbc208873a3a0e7dbdc7698f3d25083e1%26amp%3Bchksm%3Dfa3f0a00cd488316a7aec8a2fff04fed8086c7c57a56b533cfbf0f113077fc0116b77f0df05c%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【开发者头条】Spring-Boot-实现跨域的-5-种方式，总有一种适合你，建议收藏](https://toutiao.io/k/v14ga1m)
 - [【开发者头条】Apache-HttpClient-5-使用详细教程](https://toutiao.io/k/ff7aohg)
@@ -319,6 +319,7 @@
 
 
 - [【V2EX】Minio+Nginx+Docker-控制台登陆-401-问题，请问如何解决？](https://www.v2ex.com/t/873692)
+- [【开发者头条】使用-Kubernetes-Ingress-Nginx-实现蓝绿、灰度发布！你会用了吗？](https://toutiao.io/k/sg0qsfc)
 - [......【查看更多】......](./details/tags/server.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -335,6 +336,7 @@
 
 
 
+- [【V2EX】初次使用-GitHub](https://www.v2ex.com/t/873737)
 - [......【查看更多】......](./details/tags/git-svn.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

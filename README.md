@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-18 05:36:57，:rocket: 更新条数: +2027， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-18 06:18:13，:rocket: 更新条数: +2032， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,16 @@
 </summary>
 
 
+- [2022-08-18-mac-微信内测支持导入手机的聊天记录了](https://www.v2ex.com/t/873741) ![](assets/new.png)  
+- [2022-08-18-坐标广州，宽带一般用联通的还是电信的？](https://www.v2ex.com/t/873740) ![](assets/new.png)  
+- [2022-08-18-最近在看初中数学](https://www.v2ex.com/t/873739) ![](assets/new.png)  
+- [2022-08-18-Build-in-public-记录:-我们是如何开发-TinySnap-的](https://www.v2ex.com/t/873738) ![](assets/new.png)  
+- [2022-08-18-初次使用-GitHub](https://www.v2ex.com/t/873737) ![](assets/new.png)  
+- [2022-08-18-真神卡，-6-元-65G-通用](https://www.v2ex.com/t/873736) ![](assets/new.png)  
+- [2022-08-18-腾讯王卡限定版-联通王卡限定版下单链接](https://www.v2ex.com/t/873732) ![](assets/new.png)  
+- [2022-08-18-大佬们-Mac-上有没有轻度的作图工具？就是做个-bannar-啊-封面啊-不需要-PS-这种太专业的](https://www.v2ex.com/t/873731) ![](assets/new.png)  
+- [2022-08-18-软路由-CPU-温度上-70-度了，有没有啥问题？](https://www.v2ex.com/t/873730) ![](assets/new.png)  
+- [2022-08-18-网上用人声做鬼畜视频的音频是自己手剪的，还是程序自动剪的](https://www.v2ex.com/t/873729) ![](assets/new.png)  
 - [2022-08-18-请问北京拍婚纱照，有无推荐](https://www.v2ex.com/t/873728) ![](assets/new.png)  
 - [2022-08-18-地点珠海，招-2-名有经验的开发人员远程工作](https://www.v2ex.com/t/873727) ![](assets/new.png)  
 - [2022-08-18-如何最大化利用？](https://www.v2ex.com/t/873725) ![](assets/new.png)  
@@ -501,16 +511,6 @@
 - [2022-08-18-有人说说-iPad-对于安卓手机用户的缺点么](https://www.v2ex.com/t/873720) ![](assets/new.png)  
 - [2022-08-18-利率置换有-400w+-现金，如果是-V-友你的，怎么操作？](https://www.v2ex.com/t/873719) ![](assets/new.png)  
 - [2022-08-18-现在还在写-PHP-的，赶紧转-Go-吧](https://www.v2ex.com/t/873718) ![](assets/new.png)  
-- [2022-08-18-又可以了-联通大王卡限定版-19-元/月，-70G-通用流量+30G-定向，这次估计又要看手速咯！](https://www.v2ex.com/t/873717) ![](assets/new.png)  
-- [2022-08-18-最近有个很不能理解的-bug](https://www.v2ex.com/t/873716) ![](assets/new.png)  
-- [2022-08-18-复盘做-B-站-4-个月，收益-1.6-万+，大厂找我合作！](https://www.v2ex.com/t/873715) ![](assets/new.png)  
-- [2022-08-18-有办法把天猫精灵的灯接入-Home-bridge-或-home-assistant-吗？](https://www.v2ex.com/t/873714) ![](assets/new.png)  
-- [2022-08-18-30-天每天-30-公里，自行车专用道，骑行活动。扫码进群，一起骑行](https://www.v2ex.com/t/873713) ![](assets/new.png)  
-- [2022-08-18-打算买个安卓手机，国产安卓机有能支持谷歌全家桶的吗？包括-google-wallet-google-pay](https://www.v2ex.com/t/873712) ![](assets/new.png)  
-- [2022-08-18-向网盘中备份个人文件如何保证私密性？](https://www.v2ex.com/t/873711) ![](assets/new.png)  
-- [2022-08-18-寻找远程-2-名全职开发，地点珠海。](https://www.v2ex.com/t/873710) ![](assets/new.png)  
-- [2022-08-18-大家公司的项目代码会写的尽善尽美吗](https://www.v2ex.com/t/873709) ![](assets/new.png)  
-- [2022-08-18-linearmouse-最新版是不是有-bug](https://www.v2ex.com/t/873706) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -554,7 +554,7 @@
 
 
 - [2022-08-18-一文搞懂前端兼容问题](https://toutiao.io/k/plsx3t3) ![](assets/new.png)  
-- [2022-08-18-新文导读-深度解密钉钉即时消息服务DTIM的技术设计](https://toutiao.io/k/6ztt44k) ![](assets/new.png)  
+- [2022-08-18-深度解密钉钉即时消息服务DTIM的技术设计](https://toutiao.io/k/6ztt44k) ![](assets/new.png)  
 - [2022-08-18-最强分布式锁工具：Redisson](https://toutiao.io/k/v9di3a4) ![](assets/new.png)  
 - [2022-08-18-如何做好分布式任务调度——Scheduler-的一些探索](https://toutiao.io/k/jp5tr8p) ![](assets/new.png)  
 - [2022-08-18-Spring-Boot-实现跨域的-5-种方式，总有一种适合你，建议收藏](https://toutiao.io/k/v14ga1m) ![](assets/new.png)  
@@ -565,14 +565,14 @@
 - [2022-08-18-剖析-pnpm-的优势与原理](https://toutiao.io/k/sqmcv7p) ![](assets/new.png)  
 - [2022-08-18-与生成模型相比，为何机器人研究还在用几年前的老方法？](https://toutiao.io/k/t8wezj7) ![](assets/new.png)  
 - [2022-08-18-上岸-2022-字节-Java-后端实习面经](https://toutiao.io/k/butrrrj) ![](assets/new.png)  
-- [2022-08-18-演化的大安全体系框架](https://toutiao.io/k/bcdqmfz) ![](assets/new.png)  
 - [2022-08-18-Seata-php-半年规划](https://toutiao.io/k/tsq2uec) ![](assets/new.png)  
+- [2022-08-18-演化的大安全体系框架](https://toutiao.io/k/bcdqmfz) ![](assets/new.png)  
 - [2022-08-18-ASM对匿名内部类、Lambda及方法引用的Hook研究](https://toutiao.io/k/smaj0vg) ![](assets/new.png)  
-- [2022-08-18-推荐-京东面试：MQ-消息丢失、重复、积压问题，如何解决？](https://toutiao.io/k/1unx53z) ![](assets/new.png)  
+- [2022-08-18-一文搞懂-Netty-发送数据全流程-|-你想知道的细节全在这里](https://toutiao.io/k/1625dej) ![](assets/new.png)  
+- [2022-08-18-这一年，我对终端组织与技术架构的思考【专家讲技术】](https://toutiao.io/k/pdlrmqe) ![](assets/new.png)  
+- [2022-08-18-使用-Kubernetes-Ingress-Nginx-实现蓝绿、灰度发布！你会用了吗？](https://toutiao.io/k/sg0qsfc) ![](assets/new.png)  
+- [2022-08-18-各国开发者-2022-薪资水平：Go-收入最高！](https://toutiao.io/k/6l1dylc) ![](assets/new.png)  
 - [2022-08-18-推荐-Java-大后端各种架构图汇总（建议收藏！！）](https://toutiao.io/k/dvo6z1w) ![](assets/new.png)  
-- [2022-08-18-推荐-掌握这些-SpringBoot-启动扩展点，已经超过-90%-的人了](https://toutiao.io/k/3m8iq2m) ![](assets/new.png)  
-- [2022-08-18-推荐-微服务接口设计原则](https://toutiao.io/k/4hjv10p) ![](assets/new.png)  
-- [2022-08-18-推荐-连流量染色都没有，你说要搞微服务？](https://toutiao.io/k/9k1wfc7) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

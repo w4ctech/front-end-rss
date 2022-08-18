@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-08-18 11:38:17。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-08-18 12:29:11。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 小程序
 
@@ -6,3 +6,5 @@
 > 关键字：`小程序`、`Taro`、`MPVue`、`Wepy`、`Chameleon`
 
 
+
+- [2022-08-18-征集-idea-个人开发什么类型的微信小程序比较合适呀？](https://www.v2ex.com/t/873816) 

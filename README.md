@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-18 12:29:10，:rocket: 更新条数: +2034， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-18 13:22:29，:rocket: 更新条数: +2031， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,13 @@
 </summary>
 
 
+- [2022-08-18-请教一下一个网络卡顿导致假死机的问题](https://www.v2ex.com/t/873835) ![](assets/new.png)  
+- [2022-08-18-上海-上海有朋友需要找公司挂靠社保吗？](https://www.v2ex.com/t/873833) ![](assets/new.png)  
+- [2022-08-18-雷电-4-数据线选购疑问？欢迎大家解惑](https://www.v2ex.com/t/873831) ![](assets/new.png)  
+- [2022-08-18-使用浏览器作为-node.js-的实现？](https://www.v2ex.com/t/873830) ![](assets/new.png)  
+- [2022-08-18-今天刚办好的腾讯王卡，基础产品包不能退订了-5555](https://www.v2ex.com/t/873829) ![](assets/new.png)  
+- [2022-08-18-12.5.1-被收回去了](https://www.v2ex.com/t/873826) ![](assets/new.png)  
+- [2022-08-18-#-油猴脚本：让-V2EX-评论区支持-markdown，代码高亮，别再纯文本交流了](https://www.v2ex.com/t/873825) ![](assets/new.png)  
 - [2022-08-18-温哥华-内推-全球交易量最大的加密货币交易所的美国站](https://www.v2ex.com/t/873824) ![](assets/new.png)  
 - [2022-08-18-U2720QM-外接-m1-macbook-air-，显示器上-usb-hub-速率异常](https://www.v2ex.com/t/873823) ![](assets/new.png)  
 - [2022-08-18-helm-模版或-golang-模版，如何实现-Java-中-stream.map.join-的效果？](https://www.v2ex.com/t/873822) ![](assets/new.png)  
@@ -504,13 +511,6 @@
 - [2022-08-18-求助-MBP-的-iCloud/id-问题](https://www.v2ex.com/t/873814) ![](assets/new.png)  
 - [2022-08-18-7z-格式有前途么？](https://www.v2ex.com/t/873813) ![](assets/new.png)  
 - [2022-08-18-samba-的选项太多了，有好用的-webui-或者配置生成工具吗？](https://www.v2ex.com/t/873812) ![](assets/new.png)  
-- [2022-08-18-关于设置一个定时任务还是多个定时任务问题](https://www.v2ex.com/t/873811) ![](assets/new.png)  
-- [2022-08-18-如何切换已过期的开发账号所有者？](https://www.v2ex.com/t/873810) ![](assets/new.png)  
-- [2022-08-18-已经实名认证及绑定银行卡的微信切换成-wechat-会影响实名认证和支付吗？](https://www.v2ex.com/t/873809) ![](assets/new.png)  
-- [2022-08-18-美区-apple-id-如果想试用-apple-music-是不是一定要添加付款方式啊？](https://www.v2ex.com/t/873808) ![](assets/new.png)  
-- [2022-08-18-想用对象存储的自定义域名，但又不想备案，有啥办法吗](https://www.v2ex.com/t/873806) ![](assets/new.png)  
-- [2022-08-18-有没有-K8s-的交流群，顺便求教一个问题](https://www.v2ex.com/t/873805) ![](assets/new.png)  
-- [2022-08-18-为什么公司的人写代码都无视-IDE-的警告提示？](https://www.v2ex.com/t/873803) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -572,7 +572,7 @@
 - [2022-08-18-各国开发者-2022-薪资水平：Go-收入最高！](https://toutiao.io/k/6l1dylc) ![](assets/new.png)  
 - [2022-08-18-这一年，我对终端组织与技术架构的思考【专家讲技术】](https://toutiao.io/k/pdlrmqe) ![](assets/new.png)  
 - [2022-08-18-使用-Kubernetes-Ingress-Nginx-实现蓝绿、灰度发布！你会用了吗？](https://toutiao.io/k/sg0qsfc) ![](assets/new.png)  
-- [2022-08-18-推荐-Java-大后端各种架构图汇总（建议收藏！！）](https://toutiao.io/k/dvo6z1w) ![](assets/new.png)  
+- [2022-08-18-推荐-微服务接口设计原则](https://toutiao.io/k/4hjv10p) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

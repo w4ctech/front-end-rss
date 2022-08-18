@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-18 17:54:44，:rocket: 更新条数: +2027， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-18 18:16:10，:rocket: 更新条数: +2027， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-08-18-谷歌语音（Google-Voice）的使用费率是怎样的？](https://www.v2ex.com/t/873874) ![](assets/new.png)  
 - [2022-08-18-北京找饭友...](https://www.v2ex.com/t/873873) ![](assets/new.png)  
 - [2022-08-18-手机上网网速问题求助](https://www.v2ex.com/t/873872) ![](assets/new.png)  
 - [2022-08-18-请教自建-Android-云手机方案？](https://www.v2ex.com/t/873871) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-08-18-AirPlay-声音延迟的问题](https://www.v2ex.com/t/873851) ![](assets/new.png)  
 - [2022-08-18-V-友们请教一下-echarts-热力图的使用问题，实在没有头绪了。](https://www.v2ex.com/t/873850) ![](assets/new.png)  
 - [2022-08-18-MacBook-Pro-的-WI-FI-性能，也还挺好的吧，前阵子看到帖子说很垃圾。](https://www.v2ex.com/t/873849) ![](assets/new.png)  
-- [2022-08-18-请教一个-nginx-反代后-301-的问题](https://www.v2ex.com/t/873846) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

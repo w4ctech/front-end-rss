@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-08-18 14:00:29。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-08-18 15:25:33。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -56,8 +56,6 @@
 
 
 
-- [【技术头条】Vue实现数组四级联动-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15287&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494492%26amp%3Bidx%3D2%26amp%3Bsn%3D1a3699a7c4490775d21ad7c82076d162%26amp%3Bchksm%3Dfa3f0a07cd4883110ff6766683036e3047417811b06c78952ac119614d0252c033e0a53d526b%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
-- [【技术头条】Vue项目打包部署总结-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15275&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494406%26amp%3Bidx%3D2%26amp%3Bsn%3D711bed4e7167f4b2008665a1c815ad7f%26amp%3Bchksm%3Dfa3f0a5dcd48834b3601344469bc6d83a7f721bc8933d227369f149e82b2adec631a3b54f80c%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [......【查看更多】......](./details/tags/vue.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -143,6 +141,8 @@
 
 
 
+- [【技术头条】简单一招，百倍提速-Flutter-开发-droidyue.com](https://blogread.cn/news/go.php?idItem=15296&url=https%3A%2F%2Fdroidyue.com%2Fblog%2F2022%2F04%2F18%2Fhow-to-be-100x-faster-about-replace-dart-flutter-deps-in-the-development%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
+- [【技术头条】Flutter/Dart-release-模式下屏蔽-debugPrint-与-print-输出-droidyue.com](https://blogread.cn/news/go.php?idItem=15293&url=https%3A%2F%2Fdroidyue.com%2Fblog%2F2022%2F05%2F23%2Fdisable-debugprint-and-print-in-flutter-dart-release-mode%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [......【查看更多】......](./details/tags/dev-mobile.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -186,9 +186,9 @@
 - [【张鑫旭-鑫空间-鑫生活】介绍一种CSS变量未定义语法也OK的小妙招](https://www.zhangxinxu.com/wordpress/2022/06/css-var-optional-empty-trick/)
 - [【张鑫旭-鑫空间-鑫生活】如何实现页面刷新后不定位到之前的滚动位置？](https://www.zhangxinxu.com/wordpress/2022/05/history-scrollrestoration/)
 - [【张鑫旭-鑫空间-鑫生活】JS与条形码的生成](https://www.zhangxinxu.com/wordpress/2022/05/js-barcode/)
+- [【V2EX】大佬们，假设下面这个是已经排序过的关于时间的数组，现在需要添加到不同距离当前年份时间的数组，能用二分查找去实现吗？](https://www.v2ex.com/t/873853)
+- [【技术头条】K8S-Event事件内容分析和告警-www.ipcpu.com](https://blogread.cn/news/go.php?idItem=15295&url=https%3A%2F%2Fwww.ipcpu.com%2F2022%2F06%2Fk8s-event%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【技术头条】DDD诊所——异步事件综合征-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15291&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fdomain-driven-design-asynchronous-events%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
-- [【技术头条】20个简洁的JS代码片段-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15283&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494490%26amp%3Bidx%3D2%26amp%3Bsn%3D68fc3936af5ebde00b9e4507b7bc02dd%26amp%3Bchksm%3Dfa3f0a01cd488317b9b0bcdd75be8ef0d4f56dfc42f5cb71d0611c28eadff8e41d24473bf0ec%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
-- [【技术头条】SpringCloud架构的各个组件的原理分析-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15276&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494408%26amp%3Bidx%3D2%26amp%3Bsn%3D6030c1f3629babc9dfa8f85ffea42a09%26amp%3Bchksm%3Dfa3f0a53cd488345b2fd2421e868d7459c7c27f488ec4de9fdae81d0c5f24efb8b71ebe22169%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [......【查看更多】......](./details/tags/javascript.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -210,6 +210,7 @@
 - [【张鑫旭-鑫空间-鑫生活】CSS排版为何强？瞧瞧多牛这换行](https://www.zhangxinxu.com/wordpress/2022/06/css-line-break-word-wrap-all/)
 - [【张鑫旭-鑫空间-鑫生活】详解日后定会大规模使用的CSS-@layer-规则](https://www.zhangxinxu.com/wordpress/2022/05/css-layer-rule/)
 - [【张鑫旭-鑫空间-鑫生活】CSS必学基础：理解CSS中的级联规则](https://www.zhangxinxu.com/wordpress/2022/05/deep-in-css-cascade/)
+- [【技术头条】CSS排版为何强？瞧瞧多牛这换行-www.zhangxinxu.com](https://blogread.cn/news/go.php?idItem=15300&url=https%3A%2F%2Fwww.zhangxinxu.com%2Fwordpress%2F2022%2F06%2Fcss-line-break-word-wrap-all%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [......【查看更多】......](./details/tags/css.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -262,6 +263,8 @@
 
 
 
+- [【V2EX】MacBook-Pro-的-WI-FI-性能，也还挺好的吧，前阵子看到帖子说很垃圾。](https://www.v2ex.com/t/873849)
+- [【技术头条】SPA-nginx-try_files-深度优化-xuexb.com](https://blogread.cn/news/go.php?idItem=15307&url=https%3A%2F%2Fxuexb.com%2Fpost%2Fspa_try_files.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [......【查看更多】......](./details/tags/optimization.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -285,8 +288,8 @@
 - [【武汉肺炎防疫全纪录(财新网)】解药|新冠mRNA疫苗安全性有哪些挑战？](https://m.caixin.com/m/2021-01-08/101648043.html)
 - [【武汉肺炎防疫全纪录(财新网)】大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html)
 - [【张鑫旭-鑫空间-鑫生活】基于文字的URL锚点定位与::target-text样式设置](https://www.zhangxinxu.com/wordpress/2022/06/url-anchor-target-text/)
+- [【V2EX】iPad-上-Chrome-请求桌面版网站触发-Cloudflare-验证](https://www.v2ex.com/t/873854)
 - [【V2EX】firefox-地址栏和标签栏怎么隐藏啊,-看难受](https://www.v2ex.com/t/873820)
-- [【技术头条】SpringBoot解决跨域问题的3种方案！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=15285&url=http%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzM2ODUwMA%3D%3D%26amp%3Bmid%3D2247494491%26amp%3Bidx%3D2%26amp%3Bsn%3Dbc208873a3a0e7dbdc7698f3d25083e1%26amp%3Bchksm%3Dfa3f0a00cd488316a7aec8a2fff04fed8086c7c57a56b533cfbf0f113077fc0116b77f0df05c%26amp%3Bscene%3D27%23wechat_redirect%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【开发者头条】Spring-Boot-实现跨域的-5-种方式，总有一种适合你，建议收藏](https://toutiao.io/k/v14ga1m)
 - [【开发者头条】Apache-HttpClient-5-使用详细教程](https://toutiao.io/k/ff7aohg)
 - [【开发者头条】演化的大安全体系框架](https://toutiao.io/k/bcdqmfz)
@@ -322,6 +325,7 @@
 
 
 
+- [【V2EX】请教一个-nginx-反代后-301-的问题](https://www.v2ex.com/t/873846)
 - [【开发者头条】使用-Kubernetes-Ingress-Nginx-实现蓝绿、灰度发布！你会用了吗？](https://toutiao.io/k/sg0qsfc)
 - [......【查看更多】......](./details/tags/server.md)
 
@@ -339,6 +343,7 @@
 
 
 
+- [【技术头条】gitlab免密登录使用.netrc文件-www.ipcpu.com](https://blogread.cn/news/go.php?idItem=15294&url=https%3A%2F%2Fwww.ipcpu.com%2F2022%2F06%2Fgitlab-netrc%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [......【查看更多】......](./details/tags/git-svn.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -355,7 +360,7 @@
 
 
 
-- [【V2EX】Apple-is-Hiring-Apple-Pay-上海-Dev-团队正在招聘，机会难得，欢迎找我内推-🧑🏻‍💻](https://www.v2ex.com/t/873796)
+- [【V2EX】明天面试一家外企外包，需要英文自我介绍](https://www.v2ex.com/t/873845)
 - [【开发者头条】推荐-京东面试：MQ-消息丢失、重复、积压问题，如何解决？](https://toutiao.io/k/1unx53z)
 - [......【查看更多】......](./details/tags/job-interview.md)
 

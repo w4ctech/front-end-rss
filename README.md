@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-19 04:37:47，:rocket: 更新条数: +2027， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-19 05:25:36，:rocket: 更新条数: +2027， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,16 @@
 </summary>
 
 
+- [2022-08-19-FreeBackup：免费不限量备份服务器网站数据脚本](https://www.v2ex.com/t/873959) ![](assets/new.png)  
+- [2022-08-19-有没有人遇到过阿里云-RDS，隔一段时间一直链接超时，两天都收到云数据库主备切换通知](https://www.v2ex.com/t/873958) ![](assets/new.png)  
+- [2022-08-19-MacOS-的微信图片保存怎么默认为-JPG-格式？](https://www.v2ex.com/t/873956) ![](assets/new.png)  
+- [2022-08-19-统一推送联盟官网域名已经被卖了，-http://chinaupa.com](https://www.v2ex.com/t/873955) ![](assets/new.png)  
+- [2022-08-19-Java-on-Azure-Tooling-的更新-–-2022-年-8-月-AKS-支持和虚拟机支持](https://www.v2ex.com/t/873954) ![](assets/new.png)  
+- [2022-08-19-有道云笔记最近更新的好勤快，新版本-UI-看起来针不戳](https://www.v2ex.com/t/873953) ![](assets/new.png)  
+- [2022-08-19-想收一辆摩拜单车，轴传动的，不知道除咸鱼外还有什么其他办法？](https://www.v2ex.com/t/873952) ![](assets/new.png)  
+- [2022-08-19-Edge-又把我的书签搞没了](https://www.v2ex.com/t/873951) ![](assets/new.png)  
+- [2022-08-19-最近讨论手机套餐很火，搭车咨询下有什么适合转的套餐吗？](https://www.v2ex.com/t/873950) ![](assets/new.png)  
+- [2022-08-19-开始写-newsletter，先浅谈一下-newsletter](https://www.v2ex.com/t/873948) ![](assets/new.png)  
 - [2022-08-19-spring-boot-请求一个-url-会自动调用另一个的诡异问题](https://www.v2ex.com/t/873947) ![](assets/new.png)  
 - [2022-08-19-我的固态硬盘要热中暑了。](https://www.v2ex.com/t/873946) ![](assets/new.png)  
 - [2022-08-19-上海联通新出场景化宽带-每年一千二-1000/200](https://www.v2ex.com/t/873944) ![](assets/new.png)  
@@ -501,16 +511,6 @@
 - [2022-08-19-北京的医保不往银行卡发钱了](https://www.v2ex.com/t/873939) ![](assets/new.png)  
 - [2022-08-19-备用几个在线数据库搞测试开发，终归不是什么坏事儿（免费数据库限时领取）](https://www.v2ex.com/t/873938) ![](assets/new.png)  
 - [2022-08-19-「想看」我对移动端-RSS-阅读器的构想](https://www.v2ex.com/t/873937) ![](assets/new.png)  
-- [2022-08-19-iPad-pro-2018-现在什么价位](https://www.v2ex.com/t/873935) ![](assets/new.png)  
-- [2022-08-19-如果时间充裕，大家有什么想做的？](https://www.v2ex.com/t/873934) ![](assets/new.png)  
-- [2022-08-19-关于王卡-2.0-的申请/转套餐讨论](https://www.v2ex.com/t/873932) ![](assets/new.png)  
-- [2022-08-19-长沙互联网骨干直联点好像开通了](https://www.v2ex.com/t/873930) ![](assets/new.png)  
-- [2022-08-19-老王卡用户找客服要-70G](https://www.v2ex.com/t/873929) ![](assets/new.png)  
-- [2022-08-19-pyspark-的-Python-代码中如何调用-jar-包里面的方法](https://www.v2ex.com/t/873928) ![](assets/new.png)  
-- [2022-08-19-东莞电信-2000M-体验](https://www.v2ex.com/t/873927) ![](assets/new.png)  
-- [2022-08-19-.NET-反混淆除了-de4dot-还有其他工具吗？](https://www.v2ex.com/t/873926) ![](assets/new.png)  
-- [2022-08-19-现在安卓智能手表和苹果生态的-互操作性怎么样？](https://www.v2ex.com/t/873925) ![](assets/new.png)  
-- [2022-08-19-访问国外网站速度慢的异常](https://www.v2ex.com/t/873924) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -565,13 +565,13 @@
 - [2022-08-19-31个！Golang常用工具来啦（建议收藏）](https://toutiao.io/k/i7uwia3) ![](assets/new.png)  
 - [2022-08-19-KDD-2022-|-美团技术团队精选论文解读](https://toutiao.io/k/3zu7itj) ![](assets/new.png)  
 - [2022-08-19-哈啰动态化容器架构实践](https://toutiao.io/k/nz35nd2) ![](assets/new.png)  
-- [2022-08-19-一种关于低代码平台LCDP建设实践与设计思路](https://toutiao.io/k/sryj7yq) ![](assets/new.png)  
 - [2022-08-19-水坑钓鱼研究](https://toutiao.io/k/ddxmten) ![](assets/new.png)  
+- [2022-08-19-一种关于低代码平台LCDP建设实践与设计思路](https://toutiao.io/k/sryj7yq) ![](assets/new.png)  
 - [2022-08-19-【第2705期】OMI-在线互动教程上线，趣味学习-Web-Components](https://toutiao.io/k/sgyy6p4) ![](assets/new.png)  
-- [2022-08-19-推荐-掌握这些-SpringBoot-启动扩展点，已经超过-90%-的人了](https://toutiao.io/k/3m8iq2m) ![](assets/new.png)  
-- [2022-08-19-推荐-微服务接口设计原则](https://toutiao.io/k/4hjv10p) ![](assets/new.png)  
 - [2022-08-19-推荐-京东面试：MQ-消息丢失、重复、积压问题，如何解决？](https://toutiao.io/k/1unx53z) ![](assets/new.png)  
 - [2022-08-19-推荐-全网最全的权限系统设计方案（图解）](https://toutiao.io/k/lozkmee) ![](assets/new.png)  
+- [2022-08-19-推荐-微服务接口设计原则](https://toutiao.io/k/4hjv10p) ![](assets/new.png)  
+- [2022-08-19-推荐-掌握这些-SpringBoot-启动扩展点，已经超过-90%-的人了](https://toutiao.io/k/3m8iq2m) ![](assets/new.png)  
 - [2022-08-19-推荐-连流量染色都没有，你说要搞微服务？](https://toutiao.io/k/9k1wfc7) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

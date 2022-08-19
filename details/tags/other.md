@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-08-19 13:10:06。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-08-19 13:57:37。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,13 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-08-19-关于小米对于-b-站杜比视界的支持](https://www.v2ex.com/t/874081) 
+- [2022-08-19-CN2-GIA-59.43.x.x-断了,-bwg-ip,-是我自己被封,还是线路坏了](https://www.v2ex.com/t/874080) 
+- [2022-08-19-Motorola-手机及其国际版安卓系统的体验](https://www.v2ex.com/t/874079) 
+- [2022-08-19-这个虚拟化方案谁用过,看着很顺眼哈~~](https://www.v2ex.com/t/874078) 
+- [2022-08-19-mac-电脑触摸板两边有轻微明显的麻麻感觉，漏电吗？](https://www.v2ex.com/t/874077) 
+- [2022-08-19-新买的-Google-pixel-6a-到手](https://www.v2ex.com/t/874076) 
+- [2022-08-19-在哪些地方可以看到大家对任意一本书的书摘书评等等内容呀](https://www.v2ex.com/t/874075) 
 - [2022-08-19-蔚来-base-上海嘉定-小组内推-自动驾驶-HIL-方向，会嵌入式-C/C++开发的来](https://www.v2ex.com/t/874074) 
 - [2022-08-19-上海联通流量可以直连-wikipedia、v2ex、quora、华尔街日报等网站](https://www.v2ex.com/t/874073) 
 - [2022-08-19-请问-macOS-下的-WireGuard-不支持纯-IPv6-解析的-endpoint-吗？](https://www.v2ex.com/t/874072) 
@@ -1943,11 +1950,6 @@
 - [2022-08-19-iOS-的反诈中心有多大的权限？](https://www.v2ex.com/t/874035) 
 - [2022-08-19-go-实现的-arcface](https://www.v2ex.com/t/874034) 
 - [2022-08-19-.Netcore-可以-热更新嘛](https://www.v2ex.com/t/874033) 
-- [2022-08-19-IDEA-没有-tomcat-Server-选项怎么办？](https://www.v2ex.com/t/874032) 
-- [2022-08-19-梦中预知现实](https://www.v2ex.com/t/874029) 
-- [2022-08-19-为什么同事没事下班不准时走，要等大家都走了再走](https://www.v2ex.com/t/874028) 
-- [2022-08-19-微信支付这是为啥？我正常交易啊。](https://www.v2ex.com/t/874027) 
-- [2022-08-19-一不喝咖啡头就痛咋办](https://www.v2ex.com/t/874026) 
 - [2022-08-19-ICLR-2021-|-美团AutoML论文：鲁棒的神经网络架构搜索-DARTS--tech.meituan.com](https://blogread.cn/news/go.php?idItem=15342&url=https%3A%2F%2Ftech.meituan.com%2F2021%2F03%2F25%2Ficlr-2021-nas-automl-darts.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-08-19-Btrfs-文件系统入门-linux.cn](https://blogread.cn/news/go.php?idItem=15340&url=https%3A%2F%2Flinux.cn%2Farticle-13440-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-08-19-Systrace-流畅性实战-3-：卡顿分析过程中的一些疑问-androidperformance.com](https://blogread.cn/news/go.php?idItem=15339&url=https%3A%2F%2Fandroidperformance.com%2F2021%2F04%2F24%2Fandroid-systrace-smooth-in-action-3%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1975,5 +1977,5 @@
 - [2022-08-19-贝塞尔曲线轨迹运动原理与实战](https://toutiao.io/k/eoz8crx) 
 - [2022-08-19-推荐-掌握这些-SpringBoot-启动扩展点，已经超过-90%-的人了](https://toutiao.io/k/3m8iq2m) 
 - [2022-08-19-推荐-微服务接口设计原则](https://toutiao.io/k/4hjv10p) 
-- [2022-08-19-推荐-连流量染色都没有，你说要搞微服务？](https://toutiao.io/k/9k1wfc7) 
 - [2022-08-19-推荐-全网最全的权限系统设计方案（图解）](https://toutiao.io/k/lozkmee) 
+- [2022-08-19-推荐-连流量染色都没有，你说要搞微服务？](https://toutiao.io/k/9k1wfc7) 

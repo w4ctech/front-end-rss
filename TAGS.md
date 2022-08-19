@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-08-19 13:10:06。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-08-19 13:57:37。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -260,7 +260,6 @@
 
 
 
-- [【V2EX】来自剑桥+麻省理工+哥伦比亚大学的团队寻找-SEO-技术大牛作为合伙人](https://www.v2ex.com/t/874030)
 - [【技术头条】VS-Code-是如何优化启动性能的？-fed.taobao.org](https://blogread.cn/news/go.php?idItem=15343&url=https%3A%2F%2Ffed.taobao.org%2Fblog%2Ftaofed%2Fdo71ct%2Fwpsf10%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [......【查看更多】......](./details/tags/optimization.md)
 
@@ -288,7 +287,6 @@
 - [【V2EX】在-PostgreSQL-上面有么有类似美团-SQLAdvisor-的工具？](https://www.v2ex.com/t/874067)
 - [【V2EX】请教一下各位-vscode-配置-c/c++开发调试环境msys2的问题](https://www.v2ex.com/t/874057)
 - [【V2EX】数据库与缓存的一致性问题的两个疑问](https://www.v2ex.com/t/874053)
-- [【V2EX】podcast-together，一个一起听播客的网站](https://www.v2ex.com/t/874025)
 - [......【查看更多】......](./details/tags/browser.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

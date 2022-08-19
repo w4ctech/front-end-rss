@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-19 13:10:06，:rocket: 更新条数: +2033， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-19 13:57:37，:rocket: 更新条数: +2033， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,13 @@
 </summary>
 
 
+- [2022-08-19-关于小米对于-b-站杜比视界的支持](https://www.v2ex.com/t/874081) ![](assets/new.png)  
+- [2022-08-19-CN2-GIA-59.43.x.x-断了,-bwg-ip,-是我自己被封,还是线路坏了](https://www.v2ex.com/t/874080) ![](assets/new.png)  
+- [2022-08-19-Motorola-手机及其国际版安卓系统的体验](https://www.v2ex.com/t/874079) ![](assets/new.png)  
+- [2022-08-19-这个虚拟化方案谁用过,看着很顺眼哈~~](https://www.v2ex.com/t/874078) ![](assets/new.png)  
+- [2022-08-19-mac-电脑触摸板两边有轻微明显的麻麻感觉，漏电吗？](https://www.v2ex.com/t/874077) ![](assets/new.png)  
+- [2022-08-19-新买的-Google-pixel-6a-到手](https://www.v2ex.com/t/874076) ![](assets/new.png)  
+- [2022-08-19-在哪些地方可以看到大家对任意一本书的书摘书评等等内容呀](https://www.v2ex.com/t/874075) ![](assets/new.png)  
 - [2022-08-19-蔚来-base-上海嘉定-小组内推-自动驾驶-HIL-方向，会嵌入式-C/C++开发的来](https://www.v2ex.com/t/874074) ![](assets/new.png)  
 - [2022-08-19-上海联通流量可以直连-wikipedia、v2ex、quora、华尔街日报等网站](https://www.v2ex.com/t/874073) ![](assets/new.png)  
 - [2022-08-19-请问-macOS-下的-WireGuard-不支持纯-IPv6-解析的-endpoint-吗？](https://www.v2ex.com/t/874072) ![](assets/new.png)  
@@ -504,13 +511,6 @@
 - [2022-08-19-Linux-下有简单办法打印应用程序的-backtrace-吗？](https://www.v2ex.com/t/874064) ![](assets/new.png)  
 - [2022-08-19-win11-这个对齐方式真的难受](https://www.v2ex.com/t/874063) ![](assets/new.png)  
 - [2022-08-19-对广州几个区的初浅印象，欢迎拍砖哈哈哈](https://www.v2ex.com/t/874060) ![](assets/new.png)  
-- [2022-08-19-Shenzhen-QA-Engineer-Assistant/Lab-Assistant](https://www.v2ex.com/t/874058) ![](assets/new.png)  
-- [2022-08-19-请教一下各位-vscode-配置-c/c++开发调试环境msys2的问题](https://www.v2ex.com/t/874057) ![](assets/new.png)  
-- [2022-08-19-特斯拉-FM-无线调频-转-蓝牙输出-方案](https://www.v2ex.com/t/874056) ![](assets/new.png)  
-- [2022-08-19-数据库与缓存的一致性问题的两个疑问](https://www.v2ex.com/t/874053) ![](assets/new.png)  
-- [2022-08-19-请问-v-友:](https://www.v2ex.com/t/874051) ![](assets/new.png)  
-- [2022-08-19-从未感觉如此绝望](https://www.v2ex.com/t/874050) ![](assets/new.png)  
-- [2022-08-19-大众是有计划报废吗？](https://www.v2ex.com/t/874049) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

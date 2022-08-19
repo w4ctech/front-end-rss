@@ -9953,6 +9953,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "特斯拉 FM 无线调频 转 蓝牙输出 方案",
+        "link": "https://www.v2ex.com/t/874056",
+        "date": "2022-08-19"
+      },
+      {
         "title": "数据库与缓存的一致性问题的两个疑问",
         "link": "https://www.v2ex.com/t/874053",
         "date": "2022-08-19"
@@ -10136,16 +10141,6 @@
         "title": "Intel 12 代大小核。4 核有难， 8 和围观！",
         "link": "https://www.v2ex.com/t/874009",
         "date": "2022-08-19"
-      },
-      {
-        "title": "有没有相对快速的降低 mbp 电池健康度的方法",
-        "link": "https://www.v2ex.com/t/874006",
-        "date": "2022-08-19"
-      },
-      {
-        "title": "PostgreSQL 中的 char(n),varchar(n)全换 text 有没有必要",
-        "link": "https://www.v2ex.com/t/874005",
-        "date": "2022-08-19"
       }
     ]
   },
@@ -10292,13 +10287,13 @@
         "date": "2022-08-19"
       },
       {
-        "title": "go优势劣势及发展方向",
-        "link": "https://toutiao.io/k/kdjw4ye",
+        "title": "第三个五年，独立思考与落地实操",
+        "link": "https://toutiao.io/k/qkzf0fo",
         "date": "2022-08-19"
       },
       {
-        "title": "第三个五年，独立思考与落地实操",
-        "link": "https://toutiao.io/k/qkzf0fo",
+        "title": "go优势劣势及发展方向",
+        "link": "https://toutiao.io/k/kdjw4ye",
         "date": "2022-08-19"
       },
       {
@@ -10362,13 +10357,13 @@
         "date": "2022-08-19"
       },
       {
-        "title": "[推荐] 连流量染色都没有，你说要搞微服务？",
-        "link": "https://toutiao.io/k/9k1wfc7",
+        "title": "[推荐] 京东面试：MQ 消息丢失、重复、积压问题，如何解决？",
+        "link": "https://toutiao.io/k/1unx53z",
         "date": "2022-08-19"
       },
       {
-        "title": "[推荐] 微服务接口设计原则",
-        "link": "https://toutiao.io/k/4hjv10p",
+        "title": "[推荐] 连流量染色都没有，你说要搞微服务？",
+        "link": "https://toutiao.io/k/9k1wfc7",
         "date": "2022-08-19"
       },
       {
@@ -10377,8 +10372,8 @@
         "date": "2022-08-19"
       },
       {
-        "title": "[推荐] 京东面试：MQ 消息丢失、重复、积压问题，如何解决？",
-        "link": "https://toutiao.io/k/1unx53z",
+        "title": "[推荐] 微服务接口设计原则",
+        "link": "https://toutiao.io/k/4hjv10p",
         "date": "2022-08-19"
       }
     ]

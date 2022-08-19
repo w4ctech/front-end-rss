@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-08-19 10:17:13。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-08-19 10:45:44。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -286,7 +286,6 @@
 - [【张鑫旭-鑫空间-鑫生活】基于文字的URL锚点定位与::target-text样式设置](https://www.zhangxinxu.com/wordpress/2022/06/url-anchor-target-text/)
 - [【V2EX】数据库与缓存的一致性问题的两个疑问](https://www.v2ex.com/t/874053)
 - [【V2EX】podcast-together，一个一起听播客的网站](https://www.v2ex.com/t/874025)
-- [【V2EX】PostgreSQL-中的-charn,varcharn全换-text-有没有必要](https://www.v2ex.com/t/874005)
 - [......【查看更多】......](./details/tags/browser.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-19 23:14:14，:rocket: 更新条数: +2027， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-19 23:41:01，:rocket: 更新条数: +2026， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -554,8 +554,8 @@
 
 
 - [2022-08-19-一文读懂-|-Linux系统启动过程](https://toutiao.io/k/tiobp8c) ![](assets/new.png)  
-- [2022-08-19-聊聊异步编程的-7-种实现方式](https://toutiao.io/k/gz8v798) ![](assets/new.png)  
 - [2022-08-19-公司新来了一个同事，把权限系统设计的炉火纯青！](https://toutiao.io/k/6gp2yxu) ![](assets/new.png)  
+- [2022-08-19-聊聊异步编程的-7-种实现方式](https://toutiao.io/k/gz8v798) ![](assets/new.png)  
 - [2022-08-19-15分钟20图学懂从0到1搭建企业级数据治理体系【建议收藏】](https://toutiao.io/k/ibfmokh) ![](assets/new.png)  
 - [2022-08-19-译文推荐｜详解-Pulsar-Broker-负载均衡](https://toutiao.io/k/a9q18te) ![](assets/new.png)  
 - [2022-08-19-盘点-12-个-GitHub-上的高仿项目](https://toutiao.io/k/qnypq61) ![](assets/new.png)  
@@ -572,7 +572,7 @@
 - [2022-08-19-独立开发变现周刊（第68期）：建立了一个Reddit搜索工具，第一年就赚了6万美元](https://toutiao.io/k/h86fhk4) ![](assets/new.png)  
 - [2022-08-19-Ding！您有一份ChunJun实用指南，请查收](https://toutiao.io/k/y7qscsg) ![](assets/new.png)  
 - [2022-08-19-贝塞尔曲线轨迹运动原理与实战](https://toutiao.io/k/eoz8crx) ![](assets/new.png)  
-- [2022-08-19-推荐-连流量染色都没有，你说要搞微服务？](https://toutiao.io/k/9k1wfc7) ![](assets/new.png)  
+- [2022-08-19-推荐-京东面试：MQ-消息丢失、重复、积压问题，如何解决？](https://toutiao.io/k/1unx53z) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-08-19 23:14:14。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-08-19 23:41:01。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
@@ -41,4 +41,3 @@
 - [2022-08-19-上海联通流量可以直连-wikipedia、v2ex、quora、华尔街日报等网站](https://www.v2ex.com/t/874073) 
 - [2022-08-19-请问-macOS-下的-WireGuard-不支持纯-IPv6-解析的-endpoint-吗？](https://www.v2ex.com/t/874072) 
 - [2022-08-19-mac-里怎么写脚本能指定某个文件夹内所有的以及递归的文件夹内的视频文件-处理放到一个新文件夹内](https://www.v2ex.com/t/874071) 
-- [2022-08-19-因为下水道反水,被迫重新布置了下水管](https://www.v2ex.com/t/874070) 

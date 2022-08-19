@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-19 06:19:48，:rocket: 更新条数: +2029， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-19 06:51:13，:rocket: 更新条数: +2029， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,15 @@
 </summary>
 
 
+- [2022-08-19-看到大家再说套餐。看看我这个联通套餐](https://www.v2ex.com/t/873993) ![](assets/new.png)  
+- [2022-08-19-某些网站在特定的提交中需要手工选择-chrome-的证书，这是-https-的双向认证吗](https://www.v2ex.com/t/873992) ![](assets/new.png)  
+- [2022-08-19-坐标深圳找-Java-开发都那么难的吗](https://www.v2ex.com/t/873991) ![](assets/new.png)  
+- [2022-08-19-吐槽：-TypeScript？-anyScript！](https://www.v2ex.com/t/873990) ![](assets/new.png)  
+- [2022-08-19-蹲一个-Onedrive-车](https://www.v2ex.com/t/873989) ![](assets/new.png)  
+- [2022-08-19-geth-的-bootnodes-好像不能作为服务发现了？](https://www.v2ex.com/t/873987) ![](assets/new.png)  
+- [2022-08-19-Vuex-与前端表格施展“组合拳”，实现大屏展示应用的交互增强](https://www.v2ex.com/t/873986) ![](assets/new.png)  
+- [2022-08-19-如何统计企业微信群里每个人的发言次数](https://www.v2ex.com/t/873985) ![](assets/new.png)  
+- [2022-08-19-广州-游戏行业可以内推-益世界](https://www.v2ex.com/t/873984) ![](assets/new.png)  
 - [2022-08-19-分享给代码-“下毒”-的-Evil.js](https://www.v2ex.com/t/873983) ![](assets/new.png)  
 - [2022-08-19-po-于母上大人要来深圳看望我顺带旅行，求推荐休闲地方](https://www.v2ex.com/t/873982) ![](assets/new.png)  
 - [2022-08-19-百度网盘同步空间关不掉...........................](https://www.v2ex.com/t/873981) ![](assets/new.png)  
@@ -502,15 +511,6 @@
 - [2022-08-19-miui-充电时会杀进程](https://www.v2ex.com/t/873973) ![](assets/new.png)  
 - [2022-08-19-Java-on-Azure-Tooling-的更新-–-2022-年-8-月支持-AKS-支持虚拟机](https://www.v2ex.com/t/873972) ![](assets/new.png)  
 - [2022-08-19-自建网盘怎么直接访问本地-pt-目录](https://www.v2ex.com/t/873970) ![](assets/new.png)  
-- [2022-08-19-V-友们如何看待教育方式](https://www.v2ex.com/t/873969) ![](assets/new.png)  
-- [2022-08-19-大型商场里的小型场地可以出租吗？](https://www.v2ex.com/t/873967) ![](assets/new.png)  
-- [2022-08-19-北京/上海-Amazon-SDE-/-QAE-各种岗位](https://www.v2ex.com/t/873965) ![](assets/new.png)  
-- [2022-08-19-多个地区谷歌云受数据流的事件](https://www.v2ex.com/t/873964) ![](assets/new.png)  
-- [2022-08-19-家里老哥因工作要外派国外，问下各位前辈，下面哪几个国家会好一点呢](https://www.v2ex.com/t/873962) ![](assets/new.png)  
-- [2022-08-19-完蛋了，电脑中毒已深。不知道怎么中招的](https://www.v2ex.com/t/873960) ![](assets/new.png)  
-- [2022-08-19-FreeBackup：免费不限量备份服务器网站数据脚本](https://www.v2ex.com/t/873959) ![](assets/new.png)  
-- [2022-08-19-有没有人遇到过阿里云-RDS，隔一段时间一直链接超时，两天都收到云数据库主备切换通知](https://www.v2ex.com/t/873958) ![](assets/new.png)  
-- [2022-08-19-MacOS-的微信图片保存怎么默认为-JPG-格式？](https://www.v2ex.com/t/873956) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -572,7 +572,7 @@
 - [2022-08-19-独立开发变现周刊（第68期）：建立了一个Reddit搜索工具，第一年就赚了6万美元](https://toutiao.io/k/h86fhk4) ![](assets/new.png)  
 - [2022-08-19-贝塞尔曲线轨迹运动原理与实战](https://toutiao.io/k/eoz8crx) ![](assets/new.png)  
 - [2022-08-19-Ding！您有一份ChunJun实用指南，请查收](https://toutiao.io/k/y7qscsg) ![](assets/new.png)  
-- [2022-08-19-推荐-连流量染色都没有，你说要搞微服务？](https://toutiao.io/k/9k1wfc7) ![](assets/new.png)  
+- [2022-08-19-推荐-京东面试：MQ-消息丢失、重复、积压问题，如何解决？](https://toutiao.io/k/1unx53z) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

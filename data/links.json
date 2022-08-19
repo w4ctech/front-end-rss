@@ -9953,6 +9953,46 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "mac 里怎么写脚本能指定某个文件夹内所有的以及递归的文件夹内的视频文件 处理放到一个新文件夹内",
+        "link": "https://www.v2ex.com/t/874071",
+        "date": "2022-08-19"
+      },
+      {
+        "title": "因为下水道反水,被迫重新布置了下水管",
+        "link": "https://www.v2ex.com/t/874070",
+        "date": "2022-08-19"
+      },
+      {
+        "title": "支持 PD 协议的 A 口充电器有没有？",
+        "link": "https://www.v2ex.com/t/874069",
+        "date": "2022-08-19"
+      },
+      {
+        "title": "家里的华为 P30pro 开机密码忘了~~",
+        "link": "https://www.v2ex.com/t/874068",
+        "date": "2022-08-19"
+      },
+      {
+        "title": "在 PostgreSQL 上面有么有类似美团 SQLAdvisor 的工具？",
+        "link": "https://www.v2ex.com/t/874067",
+        "date": "2022-08-19"
+      },
+      {
+        "title": "有偿找人写个简单的爬虫",
+        "link": "https://www.v2ex.com/t/874066",
+        "date": "2022-08-19"
+      },
+      {
+        "title": "有关 29 元王卡限定版的后续",
+        "link": "https://www.v2ex.com/t/874065",
+        "date": "2022-08-19"
+      },
+      {
+        "title": "Linux 下有简单办法打印应用程序的 backtrace 吗？",
+        "link": "https://www.v2ex.com/t/874064",
+        "date": "2022-08-19"
+      },
+      {
         "title": "win11 这个对齐方式真的难受",
         "link": "https://www.v2ex.com/t/874063",
         "date": "2022-08-19"
@@ -10121,26 +10161,6 @@
         "title": "Jenkins 核心功能或者说作用是什么？",
         "link": "https://www.v2ex.com/t/874023",
         "date": "2022-08-19"
-      },
-      {
-        "title": "请教 db2 可实现两个表之间某字段的模糊对比吗？",
-        "link": "https://www.v2ex.com/t/874021",
-        "date": "2022-08-19"
-      },
-      {
-        "title": "请教一下关于开餐饮",
-        "link": "https://www.v2ex.com/t/874019",
-        "date": "2022-08-19"
-      },
-      {
-        "title": "有对牙膏成分有了解的嘛？",
-        "link": "https://www.v2ex.com/t/874018",
-        "date": "2022-08-19"
-      },
-      {
-        "title": "[北京/上海/西安]高级软件工程师（C++）",
-        "link": "https://www.v2ex.com/t/874014",
-        "date": "2022-08-19"
       }
     ]
   },
@@ -10297,13 +10317,13 @@
         "date": "2022-08-19"
       },
       {
-        "title": "浅析eslint原理",
-        "link": "https://toutiao.io/k/xcxxjoy",
+        "title": "31个！Golang常用工具来啦（建议收藏）",
+        "link": "https://toutiao.io/k/i7uwia3",
         "date": "2022-08-19"
       },
       {
-        "title": "31个！Golang常用工具来啦（建议收藏）",
-        "link": "https://toutiao.io/k/i7uwia3",
+        "title": "浅析eslint原理",
+        "link": "https://toutiao.io/k/xcxxjoy",
         "date": "2022-08-19"
       },
       {
@@ -10332,13 +10352,13 @@
         "date": "2022-08-19"
       },
       {
-        "title": "独立开发变现周刊（第68期）：建立了一个Reddit搜索工具，第一年就赚了6万美元",
-        "link": "https://toutiao.io/k/h86fhk4",
+        "title": "一文聊透 Netty IO 事件的编排利器 pipeline | 详解所有 IO 事件的触发时机以及传播路径",
+        "link": "https://toutiao.io/k/nyyt4bs",
         "date": "2022-08-19"
       },
       {
-        "title": "一文聊透 Netty IO 事件的编排利器 pipeline | 详解所有 IO 事件的触发时机以及传播路径",
-        "link": "https://toutiao.io/k/nyyt4bs",
+        "title": "独立开发变现周刊（第68期）：建立了一个Reddit搜索工具，第一年就赚了6万美元",
+        "link": "https://toutiao.io/k/h86fhk4",
         "date": "2022-08-19"
       },
       {
@@ -10352,8 +10372,8 @@
         "date": "2022-08-19"
       },
       {
-        "title": "[推荐] 掌握这些 SpringBoot 启动扩展点，已经超过 90% 的人了",
-        "link": "https://toutiao.io/k/3m8iq2m",
+        "title": "[推荐] 全网最全的权限系统设计方案（图解）",
+        "link": "https://toutiao.io/k/lozkmee",
         "date": "2022-08-19"
       },
       {
@@ -10362,18 +10382,18 @@
         "date": "2022-08-19"
       },
       {
-        "title": "[推荐] 微服务接口设计原则",
-        "link": "https://toutiao.io/k/4hjv10p",
-        "date": "2022-08-19"
-      },
-      {
-        "title": "[推荐] 全网最全的权限系统设计方案（图解）",
-        "link": "https://toutiao.io/k/lozkmee",
-        "date": "2022-08-19"
-      },
-      {
         "title": "[推荐] 京东面试：MQ 消息丢失、重复、积压问题，如何解决？",
         "link": "https://toutiao.io/k/1unx53z",
+        "date": "2022-08-19"
+      },
+      {
+        "title": "[推荐] 掌握这些 SpringBoot 启动扩展点，已经超过 90% 的人了",
+        "link": "https://toutiao.io/k/3m8iq2m",
+        "date": "2022-08-19"
+      },
+      {
+        "title": "[推荐] 微服务接口设计原则",
+        "link": "https://toutiao.io/k/4hjv10p",
         "date": "2022-08-19"
       }
     ]

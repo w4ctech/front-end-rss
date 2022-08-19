@@ -1,10 +1,18 @@
-:alarm_clock: 更新时间: 2022-08-19 11:38:58。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-08-19 12:25:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-08-19-mac-里怎么写脚本能指定某个文件夹内所有的以及递归的文件夹内的视频文件-处理放到一个新文件夹内](https://www.v2ex.com/t/874071) 
+- [2022-08-19-因为下水道反水,被迫重新布置了下水管](https://www.v2ex.com/t/874070) 
+- [2022-08-19-支持-PD-协议的-A-口充电器有没有？](https://www.v2ex.com/t/874069) 
+- [2022-08-19-家里的华为-P30pro-开机密码忘了~~](https://www.v2ex.com/t/874068) 
+- [2022-08-19-在-PostgreSQL-上面有么有类似美团-SQLAdvisor-的工具？](https://www.v2ex.com/t/874067) 
+- [2022-08-19-有偿找人写个简单的爬虫](https://www.v2ex.com/t/874066) 
+- [2022-08-19-有关-29-元王卡限定版的后续](https://www.v2ex.com/t/874065) 
+- [2022-08-19-Linux-下有简单办法打印应用程序的-backtrace-吗？](https://www.v2ex.com/t/874064) 
 - [2022-08-19-win11-这个对齐方式真的难受](https://www.v2ex.com/t/874063) 
 - [2022-08-19-对广州几个区的初浅印象，欢迎拍砖哈哈哈](https://www.v2ex.com/t/874060) 
 - [2022-08-19-Shenzhen-QA-Engineer-Assistant/Lab-Assistant](https://www.v2ex.com/t/874058) 
@@ -39,7 +47,3 @@
 - [2022-08-19-podcast-together，一个一起听播客的网站](https://www.v2ex.com/t/874025) 
 - [2022-08-19-有人知道我-Google-账号的密码？](https://www.v2ex.com/t/874024) 
 - [2022-08-19-Jenkins-核心功能或者说作用是什么？](https://www.v2ex.com/t/874023) 
-- [2022-08-19-请教-db2-可实现两个表之间某字段的模糊对比吗？](https://www.v2ex.com/t/874021) 
-- [2022-08-19-请教一下关于开餐饮](https://www.v2ex.com/t/874019) 
-- [2022-08-19-有对牙膏成分有了解的嘛？](https://www.v2ex.com/t/874018) 
-- [2022-08-19-北京/上海/西安高级软件工程师（C++）](https://www.v2ex.com/t/874014) 

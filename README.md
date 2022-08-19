@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-19 13:57:37，:rocket: 更新条数: +2033， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-19 14:14:33，:rocket: 更新条数: +2032， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,9 @@
 </summary>
 
 
+- [2022-08-19-武汉电信光猫改桥接相关问题](https://www.v2ex.com/t/874086) ![](assets/new.png)  
+- [2022-08-19-关于-typec-转-usb-烧-macbook-的问题](https://www.v2ex.com/t/874084) ![](assets/new.png)  
+- [2022-08-19-联通王卡业务员不给我卡，说现在所有运营商卡数量加起来不能超过-5-张？](https://www.v2ex.com/t/874083) ![](assets/new.png)  
 - [2022-08-19-关于小米对于-b-站杜比视界的支持](https://www.v2ex.com/t/874081) ![](assets/new.png)  
 - [2022-08-19-CN2-GIA-59.43.x.x-断了,-bwg-ip,-是我自己被封,还是线路坏了](https://www.v2ex.com/t/874080) ![](assets/new.png)  
 - [2022-08-19-Motorola-手机及其国际版安卓系统的体验](https://www.v2ex.com/t/874079) ![](assets/new.png)  
@@ -508,9 +511,6 @@
 - [2022-08-19-在-PostgreSQL-上面有么有类似美团-SQLAdvisor-的工具？](https://www.v2ex.com/t/874067) ![](assets/new.png)  
 - [2022-08-19-有偿找人写个简单的爬虫](https://www.v2ex.com/t/874066) ![](assets/new.png)  
 - [2022-08-19-有关-29-元王卡限定版的后续](https://www.v2ex.com/t/874065) ![](assets/new.png)  
-- [2022-08-19-Linux-下有简单办法打印应用程序的-backtrace-吗？](https://www.v2ex.com/t/874064) ![](assets/new.png)  
-- [2022-08-19-win11-这个对齐方式真的难受](https://www.v2ex.com/t/874063) ![](assets/new.png)  
-- [2022-08-19-对广州几个区的初浅印象，欢迎拍砖哈哈哈](https://www.v2ex.com/t/874060) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -560,8 +560,8 @@
 - [2022-08-19-译文推荐｜详解-Pulsar-Broker-负载均衡](https://toutiao.io/k/a9q18te) ![](assets/new.png)  
 - [2022-08-19-盘点-12-个-GitHub-上的高仿项目](https://toutiao.io/k/qnypq61) ![](assets/new.png)  
 - [2022-08-19-第三个五年，独立思考与落地实操](https://toutiao.io/k/qkzf0fo) ![](assets/new.png)  
-- [2022-08-19-go优势劣势及发展方向](https://toutiao.io/k/kdjw4ye) ![](assets/new.png)  
 - [2022-08-19-31个！Golang常用工具来啦（建议收藏）](https://toutiao.io/k/i7uwia3) ![](assets/new.png)  
+- [2022-08-19-go优势劣势及发展方向](https://toutiao.io/k/kdjw4ye) ![](assets/new.png)  
 - [2022-08-19-浅析eslint原理](https://toutiao.io/k/xcxxjoy) ![](assets/new.png)  
 - [2022-08-19-哈啰动态化容器架构实践](https://toutiao.io/k/nz35nd2) ![](assets/new.png)  
 - [2022-08-19-一种关于低代码平台LCDP建设实践与设计思路](https://toutiao.io/k/sryj7yq) ![](assets/new.png)  
@@ -572,7 +572,7 @@
 - [2022-08-19-独立开发变现周刊（第68期）：建立了一个Reddit搜索工具，第一年就赚了6万美元](https://toutiao.io/k/h86fhk4) ![](assets/new.png)  
 - [2022-08-19-Ding！您有一份ChunJun实用指南，请查收](https://toutiao.io/k/y7qscsg) ![](assets/new.png)  
 - [2022-08-19-贝塞尔曲线轨迹运动原理与实战](https://toutiao.io/k/eoz8crx) ![](assets/new.png)  
-- [2022-08-19-推荐-掌握这些-SpringBoot-启动扩展点，已经超过-90%-的人了](https://toutiao.io/k/3m8iq2m) ![](assets/new.png)  
+- [2022-08-19-推荐-全网最全的权限系统设计方案（图解）](https://toutiao.io/k/lozkmee) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

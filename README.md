@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-19 05:25:36，:rocket: 更新条数: +2027， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-19 05:47:15，:rocket: 更新条数: +2025， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,13 @@
 </summary>
 
 
+- [2022-08-19-自建网盘怎么直接访问本地-pt-目录](https://www.v2ex.com/t/873970) ![](assets/new.png)  
+- [2022-08-19-V-友们如何看待教育方式](https://www.v2ex.com/t/873969) ![](assets/new.png)  
+- [2022-08-19-大型商场里的小型场地可以出租吗？](https://www.v2ex.com/t/873967) ![](assets/new.png)  
+- [2022-08-19-北京/上海-Amazon-SDE-/-QAE-各种岗位](https://www.v2ex.com/t/873965) ![](assets/new.png)  
+- [2022-08-19-多个地区谷歌云受数据流的事件](https://www.v2ex.com/t/873964) ![](assets/new.png)  
+- [2022-08-19-家里老哥因工作要外派国外，问下各位前辈，下面哪几个国家会好一点呢](https://www.v2ex.com/t/873962) ![](assets/new.png)  
+- [2022-08-19-完蛋了，电脑中毒已深。不知道怎么中招的](https://www.v2ex.com/t/873960) ![](assets/new.png)  
 - [2022-08-19-FreeBackup：免费不限量备份服务器网站数据脚本](https://www.v2ex.com/t/873959) ![](assets/new.png)  
 - [2022-08-19-有没有人遇到过阿里云-RDS，隔一段时间一直链接超时，两天都收到云数据库主备切换通知](https://www.v2ex.com/t/873958) ![](assets/new.png)  
 - [2022-08-19-MacOS-的微信图片保存怎么默认为-JPG-格式？](https://www.v2ex.com/t/873956) ![](assets/new.png)  
@@ -504,13 +511,6 @@
 - [2022-08-19-spring-boot-请求一个-url-会自动调用另一个的诡异问题](https://www.v2ex.com/t/873947) ![](assets/new.png)  
 - [2022-08-19-我的固态硬盘要热中暑了。](https://www.v2ex.com/t/873946) ![](assets/new.png)  
 - [2022-08-19-上海联通新出场景化宽带-每年一千二-1000/200](https://www.v2ex.com/t/873944) ![](assets/new.png)  
-- [2022-08-19-4k-招一个-23-届测试实习生，杭州独角兽企业](https://www.v2ex.com/t/873943) ![](assets/new.png)  
-- [2022-08-19-申请到了公网-ip，求问怎么搭-windows-上的-vpn-server](https://www.v2ex.com/t/873942) ![](assets/new.png)  
-- [2022-08-19-刚新办了一张大王卡限定版，第二天联通客服给我把老大王卡升级成了三折冰](https://www.v2ex.com/t/873941) ![](assets/new.png)  
-- [2022-08-19-大家来看个有趣的事情吧，统一推送联盟疑似凉了](https://www.v2ex.com/t/873940) ![](assets/new.png)  
-- [2022-08-19-北京的医保不往银行卡发钱了](https://www.v2ex.com/t/873939) ![](assets/new.png)  
-- [2022-08-19-备用几个在线数据库搞测试开发，终归不是什么坏事儿（免费数据库限时领取）](https://www.v2ex.com/t/873938) ![](assets/new.png)  
-- [2022-08-19-「想看」我对移动端-RSS-阅读器的构想](https://www.v2ex.com/t/873937) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -569,9 +569,9 @@
 - [2022-08-19-一种关于低代码平台LCDP建设实践与设计思路](https://toutiao.io/k/sryj7yq) ![](assets/new.png)  
 - [2022-08-19-【第2705期】OMI-在线互动教程上线，趣味学习-Web-Components](https://toutiao.io/k/sgyy6p4) ![](assets/new.png)  
 - [2022-08-19-推荐-京东面试：MQ-消息丢失、重复、积压问题，如何解决？](https://toutiao.io/k/1unx53z) ![](assets/new.png)  
-- [2022-08-19-推荐-全网最全的权限系统设计方案（图解）](https://toutiao.io/k/lozkmee) ![](assets/new.png)  
-- [2022-08-19-推荐-微服务接口设计原则](https://toutiao.io/k/4hjv10p) ![](assets/new.png)  
 - [2022-08-19-推荐-掌握这些-SpringBoot-启动扩展点，已经超过-90%-的人了](https://toutiao.io/k/3m8iq2m) ![](assets/new.png)  
+- [2022-08-19-推荐-微服务接口设计原则](https://toutiao.io/k/4hjv10p) ![](assets/new.png)  
+- [2022-08-19-推荐-全网最全的权限系统设计方案（图解）](https://toutiao.io/k/lozkmee) ![](assets/new.png)  
 - [2022-08-19-推荐-连流量染色都没有，你说要搞微服务？](https://toutiao.io/k/9k1wfc7) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

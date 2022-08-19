@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-19 15:47:45，:rocket: 更新条数: +2026， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-19 16:20:14，:rocket: 更新条数: +2027， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,9 @@
 </summary>
 
 
+- [2022-08-19-花一个小时摸索着做了个极其低能的-Playdate-游戏](https://www.v2ex.com/t/874105) ![](assets/new.png)  
+- [2022-08-19-疑问：在一部老电影里看到被人说长得像-Matthew-Perry-几乎就是骂人了，是什么梗呢？](https://www.v2ex.com/t/874104) ![](assets/new.png)  
+- [2022-08-19-5W-本金稳稳当当赚-2K-有啥稳定的路子不？纯瞎聊而已](https://www.v2ex.com/t/874103) ![](assets/new.png)  
 - [2022-08-19-新手司机怎么快速成为一个老司机](https://www.v2ex.com/t/874102) ![](assets/new.png)  
 - [2022-08-19-联通对第三方-dns-路由优化很差](https://www.v2ex.com/t/874101) ![](assets/new.png)  
 - [2022-08-19-算是有个地方分享一下自己的一些工作情况吧](https://www.v2ex.com/t/874100) ![](assets/new.png)  
@@ -508,9 +511,6 @@
 - [2022-08-19-Motorola-手机及其国际版安卓系统的体验](https://www.v2ex.com/t/874079) ![](assets/new.png)  
 - [2022-08-19-这个虚拟化方案谁用过,看着很顺眼哈~~](https://www.v2ex.com/t/874078) ![](assets/new.png)  
 - [2022-08-19-mac-电脑触摸板两边有轻微明显的麻麻感觉，漏电吗？](https://www.v2ex.com/t/874077) ![](assets/new.png)  
-- [2022-08-19-新买的-Google-pixel-6a-到手](https://www.v2ex.com/t/874076) ![](assets/new.png)  
-- [2022-08-19-在哪些地方可以看到大家对任意一本书的书摘书评等等内容呀](https://www.v2ex.com/t/874075) ![](assets/new.png)  
-- [2022-08-19-蔚来-base-上海嘉定-小组内推-自动驾驶-HIL-方向，会嵌入式-C/C++开发的来](https://www.v2ex.com/t/874074) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -567,12 +567,12 @@
 - [2022-08-19-一种关于低代码平台LCDP建设实践与设计思路](https://toutiao.io/k/sryj7yq) ![](assets/new.png)  
 - [2022-08-19-KDD-2022-|-美团技术团队精选论文解读](https://toutiao.io/k/3zu7itj) ![](assets/new.png)  
 - [2022-08-19-水坑钓鱼研究](https://toutiao.io/k/ddxmten) ![](assets/new.png)  
-- [2022-08-19-【第2705期】OMI-在线互动教程上线，趣味学习-Web-Components](https://toutiao.io/k/sgyy6p4) ![](assets/new.png)  
 - [2022-08-19-一文聊透-Netty-IO-事件的编排利器-pipeline-|-详解所有-IO-事件的触发时机以及传播路径](https://toutiao.io/k/nyyt4bs) ![](assets/new.png)  
+- [2022-08-19-【第2705期】OMI-在线互动教程上线，趣味学习-Web-Components](https://toutiao.io/k/sgyy6p4) ![](assets/new.png)  
 - [2022-08-19-独立开发变现周刊（第68期）：建立了一个Reddit搜索工具，第一年就赚了6万美元](https://toutiao.io/k/h86fhk4) ![](assets/new.png)  
 - [2022-08-19-Ding！您有一份ChunJun实用指南，请查收](https://toutiao.io/k/y7qscsg) ![](assets/new.png)  
 - [2022-08-19-贝塞尔曲线轨迹运动原理与实战](https://toutiao.io/k/eoz8crx) ![](assets/new.png)  
-- [2022-08-19-推荐-全网最全的权限系统设计方案（图解）](https://toutiao.io/k/lozkmee) ![](assets/new.png)  
+- [2022-08-19-推荐-京东面试：MQ-消息丢失、重复、积压问题，如何解决？](https://toutiao.io/k/1unx53z) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

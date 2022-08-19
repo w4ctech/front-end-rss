@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-19 22:15:35，:rocket: 更新条数: +2027， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-19 22:42:31，:rocket: 更新条数: +2027， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -572,7 +572,7 @@
 - [2022-08-19-独立开发变现周刊（第68期）：建立了一个Reddit搜索工具，第一年就赚了6万美元](https://toutiao.io/k/h86fhk4) ![](assets/new.png)  
 - [2022-08-19-Ding！您有一份ChunJun实用指南，请查收](https://toutiao.io/k/y7qscsg) ![](assets/new.png)  
 - [2022-08-19-贝塞尔曲线轨迹运动原理与实战](https://toutiao.io/k/eoz8crx) ![](assets/new.png)  
-- [2022-08-19-推荐-全网最全的权限系统设计方案（图解）](https://toutiao.io/k/lozkmee) ![](assets/new.png)  
+- [2022-08-19-推荐-连流量染色都没有，你说要搞微服务？](https://toutiao.io/k/9k1wfc7) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

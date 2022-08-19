@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-08-19 07:13:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-08-19 07:41:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -16,4 +16,3 @@
 - [2022-06-12-基于文字的URL锚点定位与::target-text样式设置](https://www.zhangxinxu.com/wordpress/2022/06/url-anchor-target-text/) 
 - [2022-08-19-新版-Chrome-更新完一直提示....](https://www.v2ex.com/t/873996) 
 - [2022-08-19-某些网站在特定的提交中需要手工选择-chrome-的证书，这是-https-的双向认证吗](https://www.v2ex.com/t/873992) 
-- [2022-08-19-Edge-又把我的书签搞没了](https://www.v2ex.com/t/873951) 

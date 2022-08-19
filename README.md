@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-19 09:42:38，:rocket: 更新条数: +2031， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-19 10:17:13，:rocket: 更新条数: +2029， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,11 @@
 </summary>
 
 
+- [2022-08-19-数据库与缓存的一致性问题的两个疑问](https://www.v2ex.com/t/874053) ![](assets/new.png)  
+- [2022-08-19-请问-v-友:](https://www.v2ex.com/t/874051) ![](assets/new.png)  
+- [2022-08-19-从未感觉如此绝望](https://www.v2ex.com/t/874050) ![](assets/new.png)  
+- [2022-08-19-大众是有计划报废吗？](https://www.v2ex.com/t/874049) ![](assets/new.png)  
+- [2022-08-19-广电的卡有人携号转网过吗……](https://www.v2ex.com/t/874048) ![](assets/new.png)  
 - [2022-08-19-帮别人搭建网站有什么要注意的吗](https://www.v2ex.com/t/874047) ![](assets/new.png)  
 - [2022-08-19-万物皆可集成系列：低代码释放用友深度价值（1）—系统对接集成](https://www.v2ex.com/t/874046) ![](assets/new.png)  
 - [2022-08-19-13-号线北苑继续约周末闲鱼德扑局](https://www.v2ex.com/t/874045) ![](assets/new.png)  
@@ -506,11 +511,6 @@
 - [2022-08-19-iOS-的反诈中心有多大的权限？](https://www.v2ex.com/t/874035) ![](assets/new.png)  
 - [2022-08-19-go-实现的-arcface](https://www.v2ex.com/t/874034) ![](assets/new.png)  
 - [2022-08-19-.Netcore-可以-热更新嘛](https://www.v2ex.com/t/874033) ![](assets/new.png)  
-- [2022-08-19-IDEA-没有-tomcat-Server-选项怎么办？](https://www.v2ex.com/t/874032) ![](assets/new.png)  
-- [2022-08-19-来自剑桥+麻省理工+哥伦比亚大学的团队寻找-SEO-技术大牛作为合伙人](https://www.v2ex.com/t/874030) ![](assets/new.png)  
-- [2022-08-19-梦中预知现实](https://www.v2ex.com/t/874029) ![](assets/new.png)  
-- [2022-08-19-为什么同事没事下班不准时走，要等大家都走了再走](https://www.v2ex.com/t/874028) ![](assets/new.png)  
-- [2022-08-19-微信支付这是为啥？我正常交易啊。](https://www.v2ex.com/t/874027) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -559,8 +559,8 @@
 - [2022-08-19-15分钟20图学懂从0到1搭建企业级数据治理体系【建议收藏】](https://toutiao.io/k/ibfmokh) ![](assets/new.png)  
 - [2022-08-19-译文推荐｜详解-Pulsar-Broker-负载均衡](https://toutiao.io/k/a9q18te) ![](assets/new.png)  
 - [2022-08-19-盘点-12-个-GitHub-上的高仿项目](https://toutiao.io/k/qnypq61) ![](assets/new.png)  
-- [2022-08-19-第三个五年，独立思考与落地实操](https://toutiao.io/k/qkzf0fo) ![](assets/new.png)  
 - [2022-08-19-go优势劣势及发展方向](https://toutiao.io/k/kdjw4ye) ![](assets/new.png)  
+- [2022-08-19-第三个五年，独立思考与落地实操](https://toutiao.io/k/qkzf0fo) ![](assets/new.png)  
 - [2022-08-19-浅析eslint原理](https://toutiao.io/k/xcxxjoy) ![](assets/new.png)  
 - [2022-08-19-31个！Golang常用工具来啦（建议收藏）](https://toutiao.io/k/i7uwia3) ![](assets/new.png)  
 - [2022-08-19-哈啰动态化容器架构实践](https://toutiao.io/k/nz35nd2) ![](assets/new.png)  
@@ -570,9 +570,9 @@
 - [2022-08-19-【第2705期】OMI-在线互动教程上线，趣味学习-Web-Components](https://toutiao.io/k/sgyy6p4) ![](assets/new.png)  
 - [2022-08-19-独立开发变现周刊（第68期）：建立了一个Reddit搜索工具，第一年就赚了6万美元](https://toutiao.io/k/h86fhk4) ![](assets/new.png)  
 - [2022-08-19-一文聊透-Netty-IO-事件的编排利器-pipeline-|-详解所有-IO-事件的触发时机以及传播路径](https://toutiao.io/k/nyyt4bs) ![](assets/new.png)  
-- [2022-08-19-贝塞尔曲线轨迹运动原理与实战](https://toutiao.io/k/eoz8crx) ![](assets/new.png)  
 - [2022-08-19-Ding！您有一份ChunJun实用指南，请查收](https://toutiao.io/k/y7qscsg) ![](assets/new.png)  
-- [2022-08-19-推荐-京东面试：MQ-消息丢失、重复、积压问题，如何解决？](https://toutiao.io/k/1unx53z) ![](assets/new.png)  
+- [2022-08-19-贝塞尔曲线轨迹运动原理与实战](https://toutiao.io/k/eoz8crx) ![](assets/new.png)  
+- [2022-08-19-推荐-全网最全的权限系统设计方案（图解）](https://toutiao.io/k/lozkmee) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

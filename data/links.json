@@ -9953,6 +9953,31 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "数据库与缓存的一致性问题的两个疑问",
+        "link": "https://www.v2ex.com/t/874053",
+        "date": "2022-08-19"
+      },
+      {
+        "title": "请问 v 友:",
+        "link": "https://www.v2ex.com/t/874051",
+        "date": "2022-08-19"
+      },
+      {
+        "title": "从未感觉如此绝望",
+        "link": "https://www.v2ex.com/t/874050",
+        "date": "2022-08-19"
+      },
+      {
+        "title": "大众是有计划报废吗？",
+        "link": "https://www.v2ex.com/t/874049",
+        "date": "2022-08-19"
+      },
+      {
+        "title": "广电的卡有人携号转网过吗……",
+        "link": "https://www.v2ex.com/t/874048",
+        "date": "2022-08-19"
+      },
+      {
         "title": "帮别人搭建网站有什么要注意的吗",
         "link": "https://www.v2ex.com/t/874047",
         "date": "2022-08-19"
@@ -10121,41 +10146,6 @@
         "title": "PostgreSQL 中的 char(n),varchar(n)全换 text 有没有必要",
         "link": "https://www.v2ex.com/t/874005",
         "date": "2022-08-19"
-      },
-      {
-        "title": "不靠搜索，如何知道需要安装的依赖包？",
-        "link": "https://www.v2ex.com/t/874004",
-        "date": "2022-08-19"
-      },
-      {
-        "title": "想弄副业，兴趣开发，自学嵌入式开发，该怎样入手呢？",
-        "link": "https://www.v2ex.com/t/874003",
-        "date": "2022-08-19"
-      },
-      {
-        "title": "求一份前端开发的岗位，会 Vue 和一点 Webpack",
-        "link": "https://www.v2ex.com/t/874002",
-        "date": "2022-08-19"
-      },
-      {
-        "title": "想不到因为空调原因居家办公了",
-        "link": "https://www.v2ex.com/t/874001",
-        "date": "2022-08-19"
-      },
-      {
-        "title": "为什么 T-mobile 这类网站用 Angular 写百度也能正常收录内页？是用了 SSR 吗？ ASP.NET Core 有实现类似效果的方法吗？",
-        "link": "https://www.v2ex.com/t/874000",
-        "date": "2022-08-19"
-      },
-      {
-        "title": "Github Copilot 快要过期了，求一个便宜点的，靠谱的购入渠道。",
-        "link": "https://www.v2ex.com/t/873999",
-        "date": "2022-08-19"
-      },
-      {
-        "title": "ISP 是否具有动态封锁端口的能力？",
-        "link": "https://www.v2ex.com/t/873998",
-        "date": "2022-08-19"
       }
     ]
   },
@@ -10302,13 +10292,13 @@
         "date": "2022-08-19"
       },
       {
-        "title": "第三个五年，独立思考与落地实操",
-        "link": "https://toutiao.io/k/qkzf0fo",
+        "title": "go优势劣势及发展方向",
+        "link": "https://toutiao.io/k/kdjw4ye",
         "date": "2022-08-19"
       },
       {
-        "title": "go优势劣势及发展方向",
-        "link": "https://toutiao.io/k/kdjw4ye",
+        "title": "第三个五年，独立思考与落地实操",
+        "link": "https://toutiao.io/k/qkzf0fo",
         "date": "2022-08-19"
       },
       {
@@ -10357,18 +10347,13 @@
         "date": "2022-08-19"
       },
       {
-        "title": "贝塞尔曲线轨迹运动原理与实战",
-        "link": "https://toutiao.io/k/eoz8crx",
-        "date": "2022-08-19"
-      },
-      {
         "title": "Ding！您有一份ChunJun实用指南，请查收",
         "link": "https://toutiao.io/k/y7qscsg",
         "date": "2022-08-19"
       },
       {
-        "title": "[推荐] 京东面试：MQ 消息丢失、重复、积压问题，如何解决？",
-        "link": "https://toutiao.io/k/1unx53z",
+        "title": "贝塞尔曲线轨迹运动原理与实战",
+        "link": "https://toutiao.io/k/eoz8crx",
         "date": "2022-08-19"
       },
       {
@@ -10377,8 +10362,8 @@
         "date": "2022-08-19"
       },
       {
-        "title": "[推荐] 掌握这些 SpringBoot 启动扩展点，已经超过 90% 的人了",
-        "link": "https://toutiao.io/k/3m8iq2m",
+        "title": "[推荐] 连流量染色都没有，你说要搞微服务？",
+        "link": "https://toutiao.io/k/9k1wfc7",
         "date": "2022-08-19"
       },
       {
@@ -10387,8 +10372,13 @@
         "date": "2022-08-19"
       },
       {
-        "title": "[推荐] 连流量染色都没有，你说要搞微服务？",
-        "link": "https://toutiao.io/k/9k1wfc7",
+        "title": "[推荐] 掌握这些 SpringBoot 启动扩展点，已经超过 90% 的人了",
+        "link": "https://toutiao.io/k/3m8iq2m",
+        "date": "2022-08-19"
+      },
+      {
+        "title": "[推荐] 京东面试：MQ 消息丢失、重复、积压问题，如何解决？",
+        "link": "https://toutiao.io/k/1unx53z",
         "date": "2022-08-19"
       }
     ]

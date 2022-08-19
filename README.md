@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-19 17:28:31，:rocket: 更新条数: +2028， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-19 17:46:42，:rocket: 更新条数: +2028， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,9 @@
 </summary>
 
 
+- [2022-08-19-最近运营商有趣的新动作：精准限速](https://www.v2ex.com/t/874115) ![](assets/new.png)  
+- [2022-08-19-写了个在-uni-app-上用的-http-client，需要的可以参考](https://www.v2ex.com/t/874114) ![](assets/new.png)  
+- [2022-08-19-网易易盾,-海外服务器证书过期](https://www.v2ex.com/t/874113) ![](assets/new.png)  
 - [2022-08-19-wps-for-Linux-不支持-PDF-注释吗？](https://www.v2ex.com/t/874112) ![](assets/new.png)  
 - [2022-08-19-离开北京-转租-东坝家园-B-区-一卧室](https://www.v2ex.com/t/874111) ![](assets/new.png)  
 - [2022-08-19-想注册-100-个微信](https://www.v2ex.com/t/874110) ![](assets/new.png)  
@@ -508,9 +511,6 @@
 - [2022-08-19-某资源论坛需要积分晋升等级后才能发帖或下载资源，有无批量-IP-点击推广链接的工具或渠道？](https://www.v2ex.com/t/874088) ![](assets/new.png)  
 - [2022-08-19-把手机的储存芯片换成机械硬盘](https://www.v2ex.com/t/874087) ![](assets/new.png)  
 - [2022-08-19-武汉电信光猫改桥接相关问题](https://www.v2ex.com/t/874086) ![](assets/new.png)  
-- [2022-08-19-关于-typec-转-usb-烧-macbook-的问题](https://www.v2ex.com/t/874084) ![](assets/new.png)  
-- [2022-08-19-联通王卡业务员不给我卡，说现在所有运营商卡数量加起来不能超过-5-张？](https://www.v2ex.com/t/874083) ![](assets/new.png)  
-- [2022-08-19-关于小米对于-b-站杜比视界的支持](https://www.v2ex.com/t/874081) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -572,7 +572,7 @@
 - [2022-08-19-独立开发变现周刊（第68期）：建立了一个Reddit搜索工具，第一年就赚了6万美元](https://toutiao.io/k/h86fhk4) ![](assets/new.png)  
 - [2022-08-19-Ding！您有一份ChunJun实用指南，请查收](https://toutiao.io/k/y7qscsg) ![](assets/new.png)  
 - [2022-08-19-贝塞尔曲线轨迹运动原理与实战](https://toutiao.io/k/eoz8crx) ![](assets/new.png)  
-- [2022-08-19-推荐-全网最全的权限系统设计方案（图解）](https://toutiao.io/k/lozkmee) ![](assets/new.png)  
+- [2022-08-19-推荐-连流量染色都没有，你说要搞微服务？](https://toutiao.io/k/9k1wfc7) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

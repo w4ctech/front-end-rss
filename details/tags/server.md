@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-08-19 01:10:00。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-08-19 03:32:57。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 服务端相关
 
@@ -7,4 +7,4 @@
 
 
 
-- [2022-08-18-请教一个-nginx-反代后-301-的问题](https://www.v2ex.com/t/873846) 
+- [2022-08-19-An-interesting-open-source-little-game.](https://www.v2ex.com/t/873921) 

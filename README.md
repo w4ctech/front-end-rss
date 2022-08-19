@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-19 01:10:00，:rocket: 更新条数: +2018， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-19 03:32:57，:rocket: 更新条数: +2027， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,26 +491,26 @@
 </summary>
 
 
-- [2022-08-19-还是转-Go-的话题](https://www.v2ex.com/t/873887) ![](assets/new.png)  
-- [2022-08-19-pixel-上怎么隐藏-app](https://www.v2ex.com/t/873886) ![](assets/new.png)  
-- [2022-08-19-iPad-该选-64G-还是选-256G-的呢](https://www.v2ex.com/t/873885) ![](assets/new.png)  
-- [2022-08-19-想问一下教育优惠](https://www.v2ex.com/t/873884) ![](assets/new.png)  
-- [2022-08-18-学习周刊-总第-67-期-几个-Redis-管理平台与-B-站加强脚本](https://www.v2ex.com/t/873883) ![](assets/new.png)  
-- [2022-08-18-cloudrive-挂载阿里云还行吗？](https://www.v2ex.com/t/873881) ![](assets/new.png)  
-- [2022-08-18-有没有大佬可以帮我审察一下代码](https://www.v2ex.com/t/873879) ![](assets/new.png)  
-- [2022-08-18-木地板房间，适合用带拖地功能的扫地机吗？](https://www.v2ex.com/t/873878) ![](assets/new.png)  
-- [2022-08-18-浙江宁波装电信还是移动宽带比较好？](https://www.v2ex.com/t/873877) ![](assets/new.png)  
-- [2022-08-18-关于-iCloud-Windows](https://www.v2ex.com/t/873876) ![](assets/new.png)  
-- [2022-08-18-谷歌语音（Google-Voice）的使用费率是怎样的？](https://www.v2ex.com/t/873874) ![](assets/new.png)  
-- [2022-08-18-北京找饭友...](https://www.v2ex.com/t/873873) ![](assets/new.png)  
-- [2022-08-18-手机上网网速问题求助](https://www.v2ex.com/t/873872) ![](assets/new.png)  
-- [2022-08-18-请教自建-Android-云手机方案？](https://www.v2ex.com/t/873871) ![](assets/new.png)  
-- [2022-08-18-打算摆摊儿了，确实不太好找工作。。。](https://www.v2ex.com/t/873869) ![](assets/new.png)  
-- [2022-08-18-深圳-多个技术坑位---开源-+-软硬件钱包-+-Global-Pay-+-工程师文化-+-靠谱-Web3-公司-+-不发币-+-安全](https://www.v2ex.com/t/873868) ![](assets/new.png)  
-- [2022-08-18-请教大龄青年的-transfer-问题~](https://www.v2ex.com/t/873865) ![](assets/new.png)  
-- [2022-08-18-2022-年了，联通现在都支持异地合账了，但是移动却只能同一归属地的号码合账](https://www.v2ex.com/t/873864) ![](assets/new.png)  
-- [2022-08-18-请问可以申请创建新节点吗？](https://www.v2ex.com/t/873863) ![](assets/new.png)  
-- [2022-08-18-ASP.NET-写的老网站，在-Windows-2008-R2-下稳稳十万并发，升级-Windows-2019-后响应非常缓慢，-600-并发就卡死，配置都没动过，有什么排查的方法吗？研究了一天...](https://www.v2ex.com/t/873862) ![](assets/new.png)  
+- [2022-08-19-关于王卡-2.0-的申请/转套餐讨论](https://www.v2ex.com/t/873932) ![](assets/new.png)  
+- [2022-08-19-长沙互联网骨干直联点好像开通了](https://www.v2ex.com/t/873930) ![](assets/new.png)  
+- [2022-08-19-老王卡用户找客服要-70G](https://www.v2ex.com/t/873929) ![](assets/new.png)  
+- [2022-08-19-pyspark-的-Python-代码中如何调用-jar-包里面的方法](https://www.v2ex.com/t/873928) ![](assets/new.png)  
+- [2022-08-19-东莞电信-2000M-体验](https://www.v2ex.com/t/873927) ![](assets/new.png)  
+- [2022-08-19-.NET-反混淆除了-de4dot-还有其他工具吗？](https://www.v2ex.com/t/873926) ![](assets/new.png)  
+- [2022-08-19-现在安卓智能手表和苹果生态的-互操作性怎么样？](https://www.v2ex.com/t/873925) ![](assets/new.png)  
+- [2022-08-19-访问国外网站速度慢的异常](https://www.v2ex.com/t/873924) ![](assets/new.png)  
+- [2022-08-19-老生常谈的话题，你身边-35+的程序员多吗？](https://www.v2ex.com/t/873923) ![](assets/new.png)  
+- [2022-08-19-放贷电话骚扰，-v-友有无整治办法](https://www.v2ex.com/t/873922) ![](assets/new.png)  
+- [2022-08-19-An-interesting-open-source-little-game.](https://www.v2ex.com/t/873921) ![](assets/new.png)  
+- [2022-08-19-沟通交流下-杭州和上海中小公司，-哪些公司目前在招-35+资深程序员](https://www.v2ex.com/t/873919) ![](assets/new.png)  
+- [2022-08-19-果然不能对自己的动手能力太自信](https://www.v2ex.com/t/873918) ![](assets/new.png)  
+- [2022-08-19-Java-on-Azure-Tooling-的更新-–-2022-年-8-月](https://www.v2ex.com/t/873917) ![](assets/new.png)  
+- [2022-08-19-ssh-的私钥就放在~/.ssh-下，不是很容易泄露吗，什么软件都能去读，为什么说比密码安全？](https://www.v2ex.com/t/873915) ![](assets/new.png)  
+- [2022-08-19-利用周末时间做了一个-VSC-上的可视化数据库管理插件，本想请功，没想到...](https://www.v2ex.com/t/873914) ![](assets/new.png)  
+- [2022-08-19-新能源行业是真的能卷啊，值得去吗？](https://www.v2ex.com/t/873913) ![](assets/new.png)  
+- [2022-08-19-闲鱼换的电信套餐感觉合适](https://www.v2ex.com/t/873911) ![](assets/new.png)  
+- [2022-08-19-推荐给大家一套便宜够用的-diy-nas-配置](https://www.v2ex.com/t/873910) ![](assets/new.png)  
+- [2022-08-19-新人产品经理的焦虑问题](https://www.v2ex.com/t/873909) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -555,18 +555,23 @@
 
 - [2022-08-19-一文读懂-|-Linux系统启动过程](https://toutiao.io/k/tiobp8c) ![](assets/new.png)  
 - [2022-08-19-聊聊异步编程的-7-种实现方式](https://toutiao.io/k/gz8v798) ![](assets/new.png)  
-- [2022-08-19-第三个五年，独立思考与落地实操](https://toutiao.io/k/qkzf0fo) ![](assets/new.png)  
 - [2022-08-19-公司新来了一个同事，把权限系统设计的炉火纯青！](https://toutiao.io/k/6gp2yxu) ![](assets/new.png)  
 - [2022-08-19-15分钟20图学懂从0到1搭建企业级数据治理体系【建议收藏】](https://toutiao.io/k/ibfmokh) ![](assets/new.png)  
 - [2022-08-19-译文推荐｜详解-Pulsar-Broker-负载均衡](https://toutiao.io/k/a9q18te) ![](assets/new.png)  
 - [2022-08-19-盘点-12-个-GitHub-上的高仿项目](https://toutiao.io/k/qnypq61) ![](assets/new.png)  
+- [2022-08-19-第三个五年，独立思考与落地实操](https://toutiao.io/k/qkzf0fo) ![](assets/new.png)  
 - [2022-08-19-go优势劣势及发展方向](https://toutiao.io/k/kdjw4ye) ![](assets/new.png)  
 - [2022-08-19-31个！Golang常用工具来啦（建议收藏）](https://toutiao.io/k/i7uwia3) ![](assets/new.png)  
 - [2022-08-19-浅析eslint原理](https://toutiao.io/k/xcxxjoy) ![](assets/new.png)  
-- [2022-08-19-推荐-掌握这些-SpringBoot-启动扩展点，已经超过-90%-的人了](https://toutiao.io/k/3m8iq2m) ![](assets/new.png)  
+- [2022-08-19-KDD-2022-|-美团技术团队精选论文解读](https://toutiao.io/k/3zu7itj) ![](assets/new.png)  
+- [2022-08-19-水坑钓鱼研究](https://toutiao.io/k/ddxmten) ![](assets/new.png)  
+- [2022-08-19-哈啰动态化容器架构实践](https://toutiao.io/k/nz35nd2) ![](assets/new.png)  
+- [2022-08-19-一种关于低代码平台LCDP建设实践与设计思路](https://toutiao.io/k/sryj7yq) ![](assets/new.png)  
+- [2022-08-19-【第2705期】OMI-在线互动教程上线，趣味学习-Web-Components](https://toutiao.io/k/sgyy6p4) ![](assets/new.png)  
 - [2022-08-19-推荐-京东面试：MQ-消息丢失、重复、积压问题，如何解决？](https://toutiao.io/k/1unx53z) ![](assets/new.png)  
-- [2022-08-19-推荐-连流量染色都没有，你说要搞微服务？](https://toutiao.io/k/9k1wfc7) ![](assets/new.png)  
 - [2022-08-19-推荐-全网最全的权限系统设计方案（图解）](https://toutiao.io/k/lozkmee) ![](assets/new.png)  
+- [2022-08-19-推荐-连流量染色都没有，你说要搞微服务？](https://toutiao.io/k/9k1wfc7) ![](assets/new.png)  
+- [2022-08-19-推荐-掌握这些-SpringBoot-启动扩展点，已经超过-90%-的人了](https://toutiao.io/k/3m8iq2m) ![](assets/new.png)  
 - [2022-08-19-推荐-微服务接口设计原则](https://toutiao.io/k/4hjv10p) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

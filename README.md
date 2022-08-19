@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-19 08:47:33，:rocket: 更新条数: +2029， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-19 09:14:52，:rocket: 更新条数: +2031， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,14 @@
 </summary>
 
 
+- [2022-08-19-关于换联通-29-元大王卡套餐总结及方法](https://www.v2ex.com/t/874040) ![](assets/new.png)  
+- [2022-08-19-准备注销用了-6-年的手机号，统计了一下需要变更手机号的-App-或者服务](https://www.v2ex.com/t/874039) ![](assets/new.png)  
+- [2022-08-19-海淀免费领养-金色边牧-3-个月](https://www.v2ex.com/t/874038) ![](assets/new.png)  
+- [2022-08-19-DDOS-攻击刷内容分发网络的成本是多大？](https://www.v2ex.com/t/874037) ![](assets/new.png)  
+- [2022-08-19-盗版-MobaXterm-突然连不上-vps-可能是什么原因？](https://www.v2ex.com/t/874036) ![](assets/new.png)  
+- [2022-08-19-iOS-的反诈中心有多大的权限？](https://www.v2ex.com/t/874035) ![](assets/new.png)  
+- [2022-08-19-go-实现的-arcface](https://www.v2ex.com/t/874034) ![](assets/new.png)  
+- [2022-08-19-.Netcore-可以-热更新嘛](https://www.v2ex.com/t/874033) ![](assets/new.png)  
 - [2022-08-19-IDEA-没有-tomcat-Server-选项怎么办？](https://www.v2ex.com/t/874032) ![](assets/new.png)  
 - [2022-08-19-来自剑桥+麻省理工+哥伦比亚大学的团队寻找-SEO-技术大牛作为合伙人](https://www.v2ex.com/t/874030) ![](assets/new.png)  
 - [2022-08-19-梦中预知现实](https://www.v2ex.com/t/874029) ![](assets/new.png)  
@@ -503,14 +511,6 @@
 - [2022-08-19-请教-db2-可实现两个表之间某字段的模糊对比吗？](https://www.v2ex.com/t/874021) ![](assets/new.png)  
 - [2022-08-19-请教一下关于开餐饮](https://www.v2ex.com/t/874019) ![](assets/new.png)  
 - [2022-08-19-有对牙膏成分有了解的嘛？](https://www.v2ex.com/t/874018) ![](assets/new.png)  
-- [2022-08-19-北京/上海/西安高级软件工程师（C++）](https://www.v2ex.com/t/874014) ![](assets/new.png)  
-- [2022-08-19-如何提升项目效率](https://www.v2ex.com/t/874013) ![](assets/new.png)  
-- [2022-08-19-爱发电算不算凉了？](https://www.v2ex.com/t/874012) ![](assets/new.png)  
-- [2022-08-19-iPhone-天气-app-不显示](https://www.v2ex.com/t/874011) ![](assets/new.png)  
-- [2022-08-19-Intel-12-代大小核。4-核有难，-8-和围观！](https://www.v2ex.com/t/874009) ![](assets/new.png)  
-- [2022-08-19-有没有相对快速的降低-mbp-电池健康度的方法](https://www.v2ex.com/t/874006) ![](assets/new.png)  
-- [2022-08-19-PostgreSQL-中的-charn,varcharn全换-text-有没有必要](https://www.v2ex.com/t/874005) ![](assets/new.png)  
-- [2022-08-19-不靠搜索，如何知道需要安装的依赖包？](https://www.v2ex.com/t/874004) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -570,9 +570,9 @@
 - [2022-08-19-【第2705期】OMI-在线互动教程上线，趣味学习-Web-Components](https://toutiao.io/k/sgyy6p4) ![](assets/new.png)  
 - [2022-08-19-独立开发变现周刊（第68期）：建立了一个Reddit搜索工具，第一年就赚了6万美元](https://toutiao.io/k/h86fhk4) ![](assets/new.png)  
 - [2022-08-19-一文聊透-Netty-IO-事件的编排利器-pipeline-|-详解所有-IO-事件的触发时机以及传播路径](https://toutiao.io/k/nyyt4bs) ![](assets/new.png)  
-- [2022-08-19-贝塞尔曲线轨迹运动原理与实战](https://toutiao.io/k/eoz8crx) ![](assets/new.png)  
 - [2022-08-19-Ding！您有一份ChunJun实用指南，请查收](https://toutiao.io/k/y7qscsg) ![](assets/new.png)  
-- [2022-08-19-推荐-全网最全的权限系统设计方案（图解）](https://toutiao.io/k/lozkmee) ![](assets/new.png)  
+- [2022-08-19-贝塞尔曲线轨迹运动原理与实战](https://toutiao.io/k/eoz8crx) ![](assets/new.png)  
+- [2022-08-19-推荐-掌握这些-SpringBoot-启动扩展点，已经超过-90%-的人了](https://toutiao.io/k/3m8iq2m) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

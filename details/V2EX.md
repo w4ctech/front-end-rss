@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-08-19 17:46:43。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-08-19 18:21:15。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
@@ -42,4 +42,3 @@
 - [2022-08-19-支持-PD-协议的-A-口充电器有没有？](https://www.v2ex.com/t/874069) 
 - [2022-08-19-家里的华为-P30pro-开机密码忘了~~](https://www.v2ex.com/t/874068) 
 - [2022-08-19-在-PostgreSQL-上面有么有类似美团-SQLAdvisor-的工具？](https://www.v2ex.com/t/874067) 
-- [2022-08-19-有偿找人写个简单的爬虫](https://www.v2ex.com/t/874066) 

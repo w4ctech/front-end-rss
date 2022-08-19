@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-19 08:18:25，:rocket: 更新条数: +2030， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-19 08:47:33，:rocket: 更新条数: +2029， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,19 @@
 </summary>
 
 
+- [2022-08-19-IDEA-没有-tomcat-Server-选项怎么办？](https://www.v2ex.com/t/874032) ![](assets/new.png)  
+- [2022-08-19-来自剑桥+麻省理工+哥伦比亚大学的团队寻找-SEO-技术大牛作为合伙人](https://www.v2ex.com/t/874030) ![](assets/new.png)  
+- [2022-08-19-梦中预知现实](https://www.v2ex.com/t/874029) ![](assets/new.png)  
+- [2022-08-19-为什么同事没事下班不准时走，要等大家都走了再走](https://www.v2ex.com/t/874028) ![](assets/new.png)  
+- [2022-08-19-微信支付这是为啥？我正常交易啊。](https://www.v2ex.com/t/874027) ![](assets/new.png)  
+- [2022-08-19-一不喝咖啡头就痛咋办](https://www.v2ex.com/t/874026) ![](assets/new.png)  
+- [2022-08-19-podcast-together，一个一起听播客的网站](https://www.v2ex.com/t/874025) ![](assets/new.png)  
+- [2022-08-19-有人知道我-Google-账号的密码？](https://www.v2ex.com/t/874024) ![](assets/new.png)  
+- [2022-08-19-Jenkins-核心功能或者说作用是什么？](https://www.v2ex.com/t/874023) ![](assets/new.png)  
+- [2022-08-19-请教-db2-可实现两个表之间某字段的模糊对比吗？](https://www.v2ex.com/t/874021) ![](assets/new.png)  
+- [2022-08-19-请教一下关于开餐饮](https://www.v2ex.com/t/874019) ![](assets/new.png)  
+- [2022-08-19-有对牙膏成分有了解的嘛？](https://www.v2ex.com/t/874018) ![](assets/new.png)  
+- [2022-08-19-北京/上海/西安高级软件工程师（C++）](https://www.v2ex.com/t/874014) ![](assets/new.png)  
 - [2022-08-19-如何提升项目效率](https://www.v2ex.com/t/874013) ![](assets/new.png)  
 - [2022-08-19-爱发电算不算凉了？](https://www.v2ex.com/t/874012) ![](assets/new.png)  
 - [2022-08-19-iPhone-天气-app-不显示](https://www.v2ex.com/t/874011) ![](assets/new.png)  
@@ -498,19 +511,6 @@
 - [2022-08-19-有没有相对快速的降低-mbp-电池健康度的方法](https://www.v2ex.com/t/874006) ![](assets/new.png)  
 - [2022-08-19-PostgreSQL-中的-charn,varcharn全换-text-有没有必要](https://www.v2ex.com/t/874005) ![](assets/new.png)  
 - [2022-08-19-不靠搜索，如何知道需要安装的依赖包？](https://www.v2ex.com/t/874004) ![](assets/new.png)  
-- [2022-08-19-想弄副业，兴趣开发，自学嵌入式开发，该怎样入手呢？](https://www.v2ex.com/t/874003) ![](assets/new.png)  
-- [2022-08-19-求一份前端开发的岗位，会-Vue-和一点-Webpack](https://www.v2ex.com/t/874002) ![](assets/new.png)  
-- [2022-08-19-想不到因为空调原因居家办公了](https://www.v2ex.com/t/874001) ![](assets/new.png)  
-- [2022-08-19-为什么-T-mobile-这类网站用-Angular-写百度也能正常收录内页？是用了-SSR-吗？-ASP.NET-Core-有实现类似效果的方法吗？](https://www.v2ex.com/t/874000) ![](assets/new.png)  
-- [2022-08-19-Github-Copilot-快要过期了，求一个便宜点的，靠谱的购入渠道。](https://www.v2ex.com/t/873999) ![](assets/new.png)  
-- [2022-08-19-ISP-是否具有动态封锁端口的能力？](https://www.v2ex.com/t/873998) ![](assets/new.png)  
-- [2022-08-19-29-的卡基础产品包打客服电话已退](https://www.v2ex.com/t/873997) ![](assets/new.png)  
-- [2022-08-19-新版-Chrome-更新完一直提示....](https://www.v2ex.com/t/873996) ![](assets/new.png)  
-- [2022-08-19-19-元的老王卡加包成功](https://www.v2ex.com/t/873995) ![](assets/new.png)  
-- [2022-08-19-jetbrains2022-字体抗锯齿问题。](https://www.v2ex.com/t/873994) ![](assets/new.png)  
-- [2022-08-19-看到大家再说套餐。看看我这个联通套餐](https://www.v2ex.com/t/873993) ![](assets/new.png)  
-- [2022-08-19-某些网站在特定的提交中需要手工选择-chrome-的证书，这是-https-的双向认证吗](https://www.v2ex.com/t/873992) ![](assets/new.png)  
-- [2022-08-19-坐标深圳找-Java-开发都那么难的吗](https://www.v2ex.com/t/873991) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -572,7 +572,7 @@
 - [2022-08-19-一文聊透-Netty-IO-事件的编排利器-pipeline-|-详解所有-IO-事件的触发时机以及传播路径](https://toutiao.io/k/nyyt4bs) ![](assets/new.png)  
 - [2022-08-19-贝塞尔曲线轨迹运动原理与实战](https://toutiao.io/k/eoz8crx) ![](assets/new.png)  
 - [2022-08-19-Ding！您有一份ChunJun实用指南，请查收](https://toutiao.io/k/y7qscsg) ![](assets/new.png)  
-- [2022-08-19-推荐-京东面试：MQ-消息丢失、重复、积压问题，如何解决？](https://toutiao.io/k/1unx53z) ![](assets/new.png)  
+- [2022-08-19-推荐-全网最全的权限系统设计方案（图解）](https://toutiao.io/k/lozkmee) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

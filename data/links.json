@@ -9953,6 +9953,21 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "[蔚来] [base 上海嘉定] [小组内推] 自动驾驶 HIL 方向，会嵌入式 C/C++开发的来",
+        "link": "https://www.v2ex.com/t/874074",
+        "date": "2022-08-19"
+      },
+      {
+        "title": "上海联通流量可以直连 wikipedia、v2ex、quora、华尔街日报等网站",
+        "link": "https://www.v2ex.com/t/874073",
+        "date": "2022-08-19"
+      },
+      {
+        "title": "请问 macOS 下的 WireGuard 不支持纯 IPv6 解析的 endpoint 吗？",
+        "link": "https://www.v2ex.com/t/874072",
+        "date": "2022-08-19"
+      },
+      {
         "title": "mac 里怎么写脚本能指定某个文件夹内所有的以及递归的文件夹内的视频文件 处理放到一个新文件夹内",
         "link": "https://www.v2ex.com/t/874071",
         "date": "2022-08-19"
@@ -10151,16 +10166,6 @@
         "title": "podcast-together，一个一起听播客的网站",
         "link": "https://www.v2ex.com/t/874025",
         "date": "2022-08-19"
-      },
-      {
-        "title": "有人知道我 Google 账号的密码？",
-        "link": "https://www.v2ex.com/t/874024",
-        "date": "2022-08-19"
-      },
-      {
-        "title": "Jenkins 核心功能或者说作用是什么？",
-        "link": "https://www.v2ex.com/t/874023",
-        "date": "2022-08-19"
       }
     ]
   },
@@ -10332,13 +10337,13 @@
         "date": "2022-08-19"
       },
       {
-        "title": "KDD 2022 | 美团技术团队精选论文解读",
-        "link": "https://toutiao.io/k/3zu7itj",
+        "title": "一种关于低代码平台(LCDP)建设实践与设计思路",
+        "link": "https://toutiao.io/k/sryj7yq",
         "date": "2022-08-19"
       },
       {
-        "title": "一种关于低代码平台(LCDP)建设实践与设计思路",
-        "link": "https://toutiao.io/k/sryj7yq",
+        "title": "KDD 2022 | 美团技术团队精选论文解读",
+        "link": "https://toutiao.io/k/3zu7itj",
         "date": "2022-08-19"
       },
       {
@@ -10372,8 +10377,13 @@
         "date": "2022-08-19"
       },
       {
-        "title": "[推荐] 全网最全的权限系统设计方案（图解）",
-        "link": "https://toutiao.io/k/lozkmee",
+        "title": "[推荐] 掌握这些 SpringBoot 启动扩展点，已经超过 90% 的人了",
+        "link": "https://toutiao.io/k/3m8iq2m",
+        "date": "2022-08-19"
+      },
+      {
+        "title": "[推荐] 微服务接口设计原则",
+        "link": "https://toutiao.io/k/4hjv10p",
         "date": "2022-08-19"
       },
       {
@@ -10382,18 +10392,13 @@
         "date": "2022-08-19"
       },
       {
+        "title": "[推荐] 全网最全的权限系统设计方案（图解）",
+        "link": "https://toutiao.io/k/lozkmee",
+        "date": "2022-08-19"
+      },
+      {
         "title": "[推荐] 京东面试：MQ 消息丢失、重复、积压问题，如何解决？",
         "link": "https://toutiao.io/k/1unx53z",
-        "date": "2022-08-19"
-      },
-      {
-        "title": "[推荐] 掌握这些 SpringBoot 启动扩展点，已经超过 90% 的人了",
-        "link": "https://toutiao.io/k/3m8iq2m",
-        "date": "2022-08-19"
-      },
-      {
-        "title": "[推荐] 微服务接口设计原则",
-        "link": "https://toutiao.io/k/4hjv10p",
         "date": "2022-08-19"
       }
     ]

@@ -1,10 +1,13 @@
-:alarm_clock: 更新时间: 2022-08-19 12:25:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-08-19 13:10:06。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-08-19-蔚来-base-上海嘉定-小组内推-自动驾驶-HIL-方向，会嵌入式-C/C++开发的来](https://www.v2ex.com/t/874074) 
+- [2022-08-19-上海联通流量可以直连-wikipedia、v2ex、quora、华尔街日报等网站](https://www.v2ex.com/t/874073) 
+- [2022-08-19-请问-macOS-下的-WireGuard-不支持纯-IPv6-解析的-endpoint-吗？](https://www.v2ex.com/t/874072) 
 - [2022-08-19-mac-里怎么写脚本能指定某个文件夹内所有的以及递归的文件夹内的视频文件-处理放到一个新文件夹内](https://www.v2ex.com/t/874071) 
 - [2022-08-19-因为下水道反水,被迫重新布置了下水管](https://www.v2ex.com/t/874070) 
 - [2022-08-19-支持-PD-协议的-A-口充电器有没有？](https://www.v2ex.com/t/874069) 
@@ -45,5 +48,3 @@
 - [2022-08-19-微信支付这是为啥？我正常交易啊。](https://www.v2ex.com/t/874027) 
 - [2022-08-19-一不喝咖啡头就痛咋办](https://www.v2ex.com/t/874026) 
 - [2022-08-19-podcast-together，一个一起听播客的网站](https://www.v2ex.com/t/874025) 
-- [2022-08-19-有人知道我-Google-账号的密码？](https://www.v2ex.com/t/874024) 
-- [2022-08-19-Jenkins-核心功能或者说作用是什么？](https://www.v2ex.com/t/874023) 

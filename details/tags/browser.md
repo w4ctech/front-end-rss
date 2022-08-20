@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-08-20 14:38:44。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-08-20 15:14:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -16,5 +16,4 @@
 - [2022-06-12-基于文字的URL锚点定位与::target-text样式设置](https://www.zhangxinxu.com/wordpress/2022/06/url-anchor-target-text/) 
 - [2022-08-20-iOS16-Safari-打开二级网页时有时会自动后退](https://www.v2ex.com/t/874239) 
 - [2022-08-20-用户余额高，无支付密码功能的商城客户端扫码功能这么设计是否足够安全和高效？](https://www.v2ex.com/t/874222) 
-- [2022-08-20-前端的笔试题要求写出-浏览器输入-URL-后发生了什么，合理吗？](https://www.v2ex.com/t/874205) 
 - [2022-08-20-中高级前端工程师都需要熟悉的技能--前端缓存](https://toutiao.io/k/v0av9zd) 

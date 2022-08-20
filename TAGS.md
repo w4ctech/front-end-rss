@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-08-20 03:21:45。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-08-20 04:10:59。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -156,7 +156,6 @@
 
 
 - [【V2EX】英语单词游戏：-RobinWords](https://www.v2ex.com/t/874147)
-- [【V2EX】花一个小时摸索着做了个极其低能的-Playdate-游戏](https://www.v2ex.com/t/874105)
 - [......【查看更多】......](./details/tags/dev-game.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -243,6 +242,7 @@
 
 - [【武汉肺炎防疫全纪录(财新网)】广州17岁男生在定点医院参加高考-特殊考场视频监考](https://m.caixin.com/m/2021-06-05/101723418.html)
 - [【武汉肺炎防疫全纪录(财新网)】林郑月娥率13高官直播接种科兴疫苗-复星疫苗预计周中到港](https://m.caixin.com/m/2021-02-22/101665724.html)
+- [【V2EX】WMV-的视频拖动进度条](https://www.v2ex.com/t/874153)
 - [【V2EX】Mac-除了自带-Music，还有什么音乐播放器能空间音频？](https://www.v2ex.com/t/874133)
 - [......【查看更多】......](./details/tags/audio-video.md)
 
@@ -284,6 +284,7 @@
 - [【武汉肺炎防疫全纪录(财新网)】解药|新冠mRNA疫苗安全性有哪些挑战？](https://m.caixin.com/m/2021-01-08/101648043.html)
 - [【武汉肺炎防疫全纪录(财新网)】大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html)
 - [【张鑫旭-鑫空间-鑫生活】基于文字的URL锚点定位与::target-text样式设置](https://www.zhangxinxu.com/wordpress/2022/06/url-anchor-target-text/)
+- [【V2EX】edge-地址栏可以关注-YouTube、bilibili-主播了](https://www.v2ex.com/t/874156)
 - [【V2EX】上海拼多多安全岗-组内直招-安卓/iOS-APP-安全开发、APP-逆向、Golang-后端开发](https://www.v2ex.com/t/874136)
 - [【V2EX】公司电脑-chrome-不让安装扩展并且也无法开启记录密码功能，能否自己写个软件来实现自动填入账号密码？](https://www.v2ex.com/t/874121)
 - [【V2EX】写了个在-uni-app-上用的-http-client，需要的可以参考](https://www.v2ex.com/t/874114)

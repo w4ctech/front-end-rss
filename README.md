@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-19 23:41:01，:rocket: 更新条数: +2026， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-20 01:04:54，:rocket: 更新条数: +2011， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,15 @@
 </summary>
 
 
+- [2022-08-20-问一个-H3C-路由器自动重新连接的问题](https://www.v2ex.com/t/874130) ![](assets/new.png)  
+- [2022-08-20-iOS-的-Google-Photos-总是会产生重复照片](https://www.v2ex.com/t/874129) ![](assets/new.png)  
+- [2022-08-20-找到了-github-拉取私有仓库的方法](https://www.v2ex.com/t/874128) ![](assets/new.png)  
+- [2022-08-20-上海-居住证-跟-公积金租房提取-有直接关联嘛？](https://www.v2ex.com/t/874127) ![](assets/new.png)  
+- [2022-08-20-求问联通是否有什么便宜的语音包（通话）套餐办理渠道](https://www.v2ex.com/t/874125) ![](assets/new.png)  
+- [2022-08-20-上海联通互联网套餐（比如腾讯大王卡）可以领取免费宽带，不需要低消](https://www.v2ex.com/t/874124) ![](assets/new.png)  
+- [2022-08-19-上海-不加班-外企-招-中高级-Java-、C++、安卓、高级测试、中级支持工程师、初中级-devOps，-Java-和-测试有残疾人岗位](https://www.v2ex.com/t/874123) ![](assets/new.png)  
+- [2022-08-19-Google-Play/App-Store-Telegram-上架](https://www.v2ex.com/t/874122) ![](assets/new.png)  
+- [2022-08-19-公司电脑-chrome-不让安装扩展并且也无法开启记录密码功能，能否自己写个软件来实现自动填入账号密码？](https://www.v2ex.com/t/874121) ![](assets/new.png)  
 - [2022-08-19-用-Tauri-写了个小工具,打包和分发体验让我崩溃。](https://www.v2ex.com/t/874119) ![](assets/new.png)  
 - [2022-08-19-monego-这个字体好性感啊](https://www.v2ex.com/t/874118) ![](assets/new.png)  
 - [2022-08-19-Android-有什么-API-可以录系统音](https://www.v2ex.com/t/874117) ![](assets/new.png)  
@@ -502,15 +511,6 @@
 - [2022-08-19-想注册-100-个微信](https://www.v2ex.com/t/874110) ![](assets/new.png)  
 - [2022-08-19-分享最近阅读的书藉清单四](https://www.v2ex.com/t/874109) ![](assets/new.png)  
 - [2022-08-19-花一个小时摸索着做了个极其低能的-Playdate-游戏](https://www.v2ex.com/t/874105) ![](assets/new.png)  
-- [2022-08-19-疑问：在一部老电影里看到被人说长得像-Matthew-Perry-几乎就是骂人了，是什么梗呢？](https://www.v2ex.com/t/874104) ![](assets/new.png)  
-- [2022-08-19-5W-本金稳稳当当赚-2K-有啥稳定的路子不？纯瞎聊而已](https://www.v2ex.com/t/874103) ![](assets/new.png)  
-- [2022-08-19-新手司机怎么快速成为一个老司机](https://www.v2ex.com/t/874102) ![](assets/new.png)  
-- [2022-08-19-联通对第三方-dns-路由优化很差](https://www.v2ex.com/t/874101) ![](assets/new.png)  
-- [2022-08-19-算是有个地方分享一下自己的一些工作情况吧](https://www.v2ex.com/t/874100) ![](assets/new.png)  
-- [2022-08-19-非设计师如何把自己的网站弄的很漂亮呢？](https://www.v2ex.com/t/874097) ![](assets/new.png)  
-- [2022-08-19-有没有基于浏览器扩展实现的-socks5-加密代理？](https://www.v2ex.com/t/874096) ![](assets/new.png)  
-- [2022-08-19-地区不偏就行-半年经验应届生，求职初级-Java-岗](https://www.v2ex.com/t/874093) ![](assets/new.png)  
-- [2022-08-19-怎么删除-Google-Calendar-导入的事件？](https://www.v2ex.com/t/874090) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -522,26 +522,26 @@
 </summary>
 
 
-- [2022-08-19-VS-Code-是如何优化启动性能的？-fed.taobao.org](https://blogread.cn/news/go.php?idItem=15343&url=https%3A%2F%2Ffed.taobao.org%2Fblog%2Ftaofed%2Fdo71ct%2Fwpsf10%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-08-19-ICLR-2021-|-美团AutoML论文：鲁棒的神经网络架构搜索-DARTS--tech.meituan.com](https://blogread.cn/news/go.php?idItem=15342&url=https%3A%2F%2Ftech.meituan.com%2F2021%2F03%2F25%2Ficlr-2021-nas-automl-darts.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-08-19-图解-Flink-滚动窗口、会话窗口和滑动窗口-www.awaimai.com](https://blogread.cn/news/go.php?idItem=15341&url=https%3A%2F%2Fwww.awaimai.com%2F2957.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-08-19-Btrfs-文件系统入门-linux.cn](https://blogread.cn/news/go.php?idItem=15340&url=https%3A%2F%2Flinux.cn%2Farticle-13440-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-08-19-Systrace-流畅性实战-3-：卡顿分析过程中的一些疑问-androidperformance.com](https://blogread.cn/news/go.php?idItem=15339&url=https%3A%2F%2Fandroidperformance.com%2F2021%2F04%2F24%2Fandroid-systrace-smooth-in-action-3%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-08-19-Systrace-流畅性实战-2-：案例分析---MIUI-桌面滑动卡顿分析-androidperformance.com](https://blogread.cn/news/go.php?idItem=15338&url=https%3A%2F%2Fandroidperformance.com%2F2021%2F04%2F24%2Fandroid-systrace-smooth-in-action-2%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-08-19-Systrace-流畅性实战-1-：了解卡顿原理-androidperformance.com](https://blogread.cn/news/go.php?idItem=15337&url=https%3A%2F%2Fandroidperformance.com%2F2021%2F04%2F24%2Fandroid-systrace-smooth-in-action-1%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-08-19-再聊-Git-Flow-www.kymjs.com](https://blogread.cn/news/go.php?idItem=15336&url=https%3A%2F%2Fwww.kymjs.com%2Fmanager%2F2020%2F05%2F29%2F01%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-08-19-使用-Docker-和-Node-搭建公式渲染服务（后篇）-soulteary.com](https://blogread.cn/news/go.php?idItem=15335&url=https%3A%2F%2Fsoulteary.com%2F2021%2F04%2F16%2Fuse-docker-and-node-to-build-a-formula-rendering-service-part-3.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-08-19-使用-Docker-和-Node-搭建公式渲染服务（中篇）-soulteary.com](https://blogread.cn/news/go.php?idItem=15334&url=https%3A%2F%2Fsoulteary.com%2F2021%2F04%2F15%2Fuse-docker-and-node-to-build-a-formula-rendering-service-part-2.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-08-19-使用-Docker-和-Node-搭建公式渲染服务（前篇）-soulteary.com](https://blogread.cn/news/go.php?idItem=15333&url=https%3A%2F%2Fsoulteary.com%2F2021%2F04%2F14%2Fuse-docker-and-node-to-build-a-formula-rendering-service-part-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-08-19-Go并发编程一年回顾-colobu.com](https://blogread.cn/news/go.php?idItem=15332&url=https%3A%2F%2Fcolobu.com%2F2020%2F07%2F05%2Fthe-state-of-go-sync-2020%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-08-19-Kubernetes如何改变美团的云基础设施？-tech.meituan.com](https://blogread.cn/news/go.php?idItem=15331&url=https%3A%2F%2Ftech.meituan.com%2F2020%2F08%2F13%2Fopenstack-to-kubernetes-in-meituan.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-08-19-又是面试题？对，合并有序序列。-www.felix021.com](https://blogread.cn/news/go.php?idItem=15330&url=https%3A%2F%2Fwww.felix021.com%2Fblog%2Fread.php%3F2229%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-08-19-利用-Automator-自动化你的工作-blog.devtang.com](https://blogread.cn/news/go.php?idItem=15329&url=https%3A%2F%2Fblog.devtang.com%2F2020%2F03%2F25%2Fautomatic-thinking%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-08-19-关于-RSA-的一些趣事-www.felix021.com](https://blogread.cn/news/go.php?idItem=15328&url=https%3A%2F%2Fwww.felix021.com%2Fblog%2Fread.php%3F2213%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-08-19-关于用研岗位的思考-blog.devtang.com](https://blogread.cn/news/go.php?idItem=15327&url=https%3A%2F%2Fblog.devtang.com%2F2020%2F07%2F28%2Fabout-user-research%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-08-19-前端AB实验设计思路与实现原理-fed.taobao.org](https://blogread.cn/news/go.php?idItem=15326&url=https%3A%2F%2Ffed.taobao.org%2Fblog%2Ftaofed%2Fdo71ct%2Ffrontend-ab-test%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-08-19-HTTP/3-原理与实践-www.alloyteam.com](https://blogread.cn/news/go.php?idItem=15325&url=http%3A%2F%2Fwww.alloyteam.com%2F2020%2F05%2F14385%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-08-19-flex-end为什么overflow无法滚动及解决方法-www.zhangxinxu.com](https://blogread.cn/news/go.php?idItem=15324&url=https%3A%2F%2Fwww.zhangxinxu.com%2Fwordpress%2F2021%2F12%2Fflex-end-overflow%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2022-08-20-VS-Code-是如何优化启动性能的？-fed.taobao.org](https://blogread.cn/news/go.php?idItem=15343&url=https%3A%2F%2Ffed.taobao.org%2Fblog%2Ftaofed%2Fdo71ct%2Fwpsf10%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2022-08-20-ICLR-2021-|-美团AutoML论文：鲁棒的神经网络架构搜索-DARTS--tech.meituan.com](https://blogread.cn/news/go.php?idItem=15342&url=https%3A%2F%2Ftech.meituan.com%2F2021%2F03%2F25%2Ficlr-2021-nas-automl-darts.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2022-08-20-图解-Flink-滚动窗口、会话窗口和滑动窗口-www.awaimai.com](https://blogread.cn/news/go.php?idItem=15341&url=https%3A%2F%2Fwww.awaimai.com%2F2957.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2022-08-20-Btrfs-文件系统入门-linux.cn](https://blogread.cn/news/go.php?idItem=15340&url=https%3A%2F%2Flinux.cn%2Farticle-13440-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2022-08-20-Systrace-流畅性实战-3-：卡顿分析过程中的一些疑问-androidperformance.com](https://blogread.cn/news/go.php?idItem=15339&url=https%3A%2F%2Fandroidperformance.com%2F2021%2F04%2F24%2Fandroid-systrace-smooth-in-action-3%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2022-08-20-Systrace-流畅性实战-2-：案例分析---MIUI-桌面滑动卡顿分析-androidperformance.com](https://blogread.cn/news/go.php?idItem=15338&url=https%3A%2F%2Fandroidperformance.com%2F2021%2F04%2F24%2Fandroid-systrace-smooth-in-action-2%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2022-08-20-Systrace-流畅性实战-1-：了解卡顿原理-androidperformance.com](https://blogread.cn/news/go.php?idItem=15337&url=https%3A%2F%2Fandroidperformance.com%2F2021%2F04%2F24%2Fandroid-systrace-smooth-in-action-1%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2022-08-20-再聊-Git-Flow-www.kymjs.com](https://blogread.cn/news/go.php?idItem=15336&url=https%3A%2F%2Fwww.kymjs.com%2Fmanager%2F2020%2F05%2F29%2F01%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2022-08-20-使用-Docker-和-Node-搭建公式渲染服务（后篇）-soulteary.com](https://blogread.cn/news/go.php?idItem=15335&url=https%3A%2F%2Fsoulteary.com%2F2021%2F04%2F16%2Fuse-docker-and-node-to-build-a-formula-rendering-service-part-3.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2022-08-20-使用-Docker-和-Node-搭建公式渲染服务（中篇）-soulteary.com](https://blogread.cn/news/go.php?idItem=15334&url=https%3A%2F%2Fsoulteary.com%2F2021%2F04%2F15%2Fuse-docker-and-node-to-build-a-formula-rendering-service-part-2.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2022-08-20-使用-Docker-和-Node-搭建公式渲染服务（前篇）-soulteary.com](https://blogread.cn/news/go.php?idItem=15333&url=https%3A%2F%2Fsoulteary.com%2F2021%2F04%2F14%2Fuse-docker-and-node-to-build-a-formula-rendering-service-part-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2022-08-20-Go并发编程一年回顾-colobu.com](https://blogread.cn/news/go.php?idItem=15332&url=https%3A%2F%2Fcolobu.com%2F2020%2F07%2F05%2Fthe-state-of-go-sync-2020%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2022-08-20-Kubernetes如何改变美团的云基础设施？-tech.meituan.com](https://blogread.cn/news/go.php?idItem=15331&url=https%3A%2F%2Ftech.meituan.com%2F2020%2F08%2F13%2Fopenstack-to-kubernetes-in-meituan.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2022-08-20-又是面试题？对，合并有序序列。-www.felix021.com](https://blogread.cn/news/go.php?idItem=15330&url=https%3A%2F%2Fwww.felix021.com%2Fblog%2Fread.php%3F2229%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2022-08-20-利用-Automator-自动化你的工作-blog.devtang.com](https://blogread.cn/news/go.php?idItem=15329&url=https%3A%2F%2Fblog.devtang.com%2F2020%2F03%2F25%2Fautomatic-thinking%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2022-08-20-关于-RSA-的一些趣事-www.felix021.com](https://blogread.cn/news/go.php?idItem=15328&url=https%3A%2F%2Fwww.felix021.com%2Fblog%2Fread.php%3F2213%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2022-08-20-关于用研岗位的思考-blog.devtang.com](https://blogread.cn/news/go.php?idItem=15327&url=https%3A%2F%2Fblog.devtang.com%2F2020%2F07%2F28%2Fabout-user-research%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2022-08-20-前端AB实验设计思路与实现原理-fed.taobao.org](https://blogread.cn/news/go.php?idItem=15326&url=https%3A%2F%2Ffed.taobao.org%2Fblog%2Ftaofed%2Fdo71ct%2Ffrontend-ab-test%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2022-08-20-HTTP/3-原理与实践-www.alloyteam.com](https://blogread.cn/news/go.php?idItem=15325&url=http%3A%2F%2Fwww.alloyteam.com%2F2020%2F05%2F14385%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2022-08-20-flex-end为什么overflow无法滚动及解决方法-www.zhangxinxu.com](https://blogread.cn/news/go.php?idItem=15324&url=https%3A%2F%2Fwww.zhangxinxu.com%2Fwordpress%2F2021%2F12%2Fflex-end-overflow%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -553,26 +553,16 @@
 </summary>
 
 
-- [2022-08-19-一文读懂-|-Linux系统启动过程](https://toutiao.io/k/tiobp8c) ![](assets/new.png)  
-- [2022-08-19-公司新来了一个同事，把权限系统设计的炉火纯青！](https://toutiao.io/k/6gp2yxu) ![](assets/new.png)  
-- [2022-08-19-聊聊异步编程的-7-种实现方式](https://toutiao.io/k/gz8v798) ![](assets/new.png)  
-- [2022-08-19-15分钟20图学懂从0到1搭建企业级数据治理体系【建议收藏】](https://toutiao.io/k/ibfmokh) ![](assets/new.png)  
-- [2022-08-19-译文推荐｜详解-Pulsar-Broker-负载均衡](https://toutiao.io/k/a9q18te) ![](assets/new.png)  
-- [2022-08-19-盘点-12-个-GitHub-上的高仿项目](https://toutiao.io/k/qnypq61) ![](assets/new.png)  
-- [2022-08-19-第三个五年，独立思考与落地实操](https://toutiao.io/k/qkzf0fo) ![](assets/new.png)  
-- [2022-08-19-31个！Golang常用工具来啦（建议收藏）](https://toutiao.io/k/i7uwia3) ![](assets/new.png)  
-- [2022-08-19-go优势劣势及发展方向](https://toutiao.io/k/kdjw4ye) ![](assets/new.png)  
-- [2022-08-19-浅析eslint原理](https://toutiao.io/k/xcxxjoy) ![](assets/new.png)  
-- [2022-08-19-哈啰动态化容器架构实践](https://toutiao.io/k/nz35nd2) ![](assets/new.png)  
-- [2022-08-19-一种关于低代码平台LCDP建设实践与设计思路](https://toutiao.io/k/sryj7yq) ![](assets/new.png)  
-- [2022-08-19-KDD-2022-|-美团技术团队精选论文解读](https://toutiao.io/k/3zu7itj) ![](assets/new.png)  
-- [2022-08-19-一文聊透-Netty-IO-事件的编排利器-pipeline-|-详解所有-IO-事件的触发时机以及传播路径](https://toutiao.io/k/nyyt4bs) ![](assets/new.png)  
-- [2022-08-19-水坑钓鱼研究](https://toutiao.io/k/ddxmten) ![](assets/new.png)  
-- [2022-08-19-【第2705期】OMI-在线互动教程上线，趣味学习-Web-Components](https://toutiao.io/k/sgyy6p4) ![](assets/new.png)  
-- [2022-08-19-独立开发变现周刊（第68期）：建立了一个Reddit搜索工具，第一年就赚了6万美元](https://toutiao.io/k/h86fhk4) ![](assets/new.png)  
-- [2022-08-19-Ding！您有一份ChunJun实用指南，请查收](https://toutiao.io/k/y7qscsg) ![](assets/new.png)  
-- [2022-08-19-贝塞尔曲线轨迹运动原理与实战](https://toutiao.io/k/eoz8crx) ![](assets/new.png)  
-- [2022-08-19-推荐-京东面试：MQ-消息丢失、重复、积压问题，如何解决？](https://toutiao.io/k/1unx53z) ![](assets/new.png)  
+- [2022-08-20-优质网站同好者周刊（第-079-期）-|-倾城博客](https://toutiao.io/k/iku9a8l) ![](assets/new.png)  
+- [2022-08-20-小红书KV存储架构：万亿级数据与跨云多活不在话下](https://toutiao.io/k/9bd7q5h) ![](assets/new.png)  
+- [2022-08-20-细思恐极，插上-U-盘就开始执行-Python-代码](https://toutiao.io/k/g2lmfmc) ![](assets/new.png)  
+- [2022-08-20-Go：服务发现原理分析与源码解读](https://toutiao.io/k/i8bvlto) ![](assets/new.png)  
+- [2022-08-20-干货-|-ClickHouse增强计划之“Upsert”](https://toutiao.io/k/bdic1dh) ![](assets/new.png)  
+- [2022-08-20-推荐-全网最全的权限系统设计方案（图解）](https://toutiao.io/k/lozkmee) ![](assets/new.png)  
+- [2022-08-20-推荐-连流量染色都没有，你说要搞微服务？](https://toutiao.io/k/9k1wfc7) ![](assets/new.png)  
+- [2022-08-20-推荐-掌握这些-SpringBoot-启动扩展点，已经超过-90%-的人了](https://toutiao.io/k/3m8iq2m) ![](assets/new.png)  
+- [2022-08-20-推荐-微服务接口设计原则](https://toutiao.io/k/4hjv10p) ![](assets/new.png)  
+- [2022-08-20-推荐-京东面试：MQ-消息丢失、重复、积压问题，如何解决？](https://toutiao.io/k/1unx53z) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

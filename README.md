@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-20 15:42:14，:rocket: 更新条数: +2019， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-20 16:17:54，:rocket: 更新条数: +2021， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,9 @@
 </summary>
 
 
+- [2022-08-20-THORN:-一款轻量化，本地优先，-隐私第一的跨平台写作应用。](https://www.v2ex.com/t/874268) ![](assets/new.png)  
+- [2022-08-20-更新-PD18-之前是不是应该先在虚拟机里面暂停-BitLocker-保护，更新完再恢复？](https://www.v2ex.com/t/874267) ![](assets/new.png)  
+- [2022-08-20-旧-PC-上的-Linux-系统盘直接插在新-PC-上，新-PC-能正常工作吗？](https://www.v2ex.com/t/874266) ![](assets/new.png)  
 - [2022-08-20-MacOS-访达一个一直没人管的-bug](https://www.v2ex.com/t/874265) ![](assets/new.png)  
 - [2022-08-20-自建-GitLab，用-Docker-CE-还是-EE-版本？](https://www.v2ex.com/t/874264) ![](assets/new.png)  
 - [2022-08-20-今年的-14-寸、16-寸-MacBook-Pro-，-HDMI-接口该上满血的-HDMI-2.1-了吧？](https://www.v2ex.com/t/874263) ![](assets/new.png)  
@@ -508,9 +511,6 @@
 - [2022-08-20-越长大越痛苦](https://www.v2ex.com/t/874245) ![](assets/new.png)  
 - [2022-08-20-向往的开发环境搭建（一）：-RocketMQ-Cluster](https://www.v2ex.com/t/874242) ![](assets/new.png)  
 - [2022-08-20-联通流量王卡那个-29-套餐，套餐取消，流量还在吗？](https://www.v2ex.com/t/874241) ![](assets/new.png)  
-- [2022-08-20-全职远程-30k-60k/solidity-开发//风控运营/项目经理/商务运营/撮合清算开发/策略研究员](https://www.v2ex.com/t/874240) ![](assets/new.png)  
-- [2022-08-20-iOS16-Safari-打开二级网页时有时会自动后退](https://www.v2ex.com/t/874239) ![](assets/new.png)  
-- [2022-08-20-北京社保额度的事，都进来讨论下](https://www.v2ex.com/t/874238) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -565,8 +565,9 @@
 - [2022-08-20-Golang-中-map-探究](https://toutiao.io/k/3w6oqrm) ![](assets/new.png)  
 - [2022-08-20-推荐-连流量染色都没有，你说要搞微服务？](https://toutiao.io/k/9k1wfc7) ![](assets/new.png)  
 - [2022-08-20-推荐-全网最全的权限系统设计方案（图解）](https://toutiao.io/k/lozkmee) ![](assets/new.png)  
-- [2022-08-20-推荐-京东面试：MQ-消息丢失、重复、积压问题，如何解决？](https://toutiao.io/k/1unx53z) ![](assets/new.png)  
+- [2022-08-20-推荐-聊聊-13-种锁的实现方式](https://toutiao.io/k/wcwg3fn) ![](assets/new.png)  
 - [2022-08-20-推荐-微服务接口设计原则](https://toutiao.io/k/4hjv10p) ![](assets/new.png)  
+- [2022-08-20-推荐-京东面试：MQ-消息丢失、重复、积压问题，如何解决？](https://toutiao.io/k/1unx53z) ![](assets/new.png)  
 - [2022-08-20-推荐-掌握这些-SpringBoot-启动扩展点，已经超过-90%-的人了](https://toutiao.io/k/3m8iq2m) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

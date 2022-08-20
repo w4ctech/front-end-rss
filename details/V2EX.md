@@ -1,10 +1,13 @@
-:alarm_clock: 更新时间: 2022-08-20 15:42:14。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-08-20 16:17:54。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-08-20-THORN:-一款轻量化，本地优先，-隐私第一的跨平台写作应用。](https://www.v2ex.com/t/874268) 
+- [2022-08-20-更新-PD18-之前是不是应该先在虚拟机里面暂停-BitLocker-保护，更新完再恢复？](https://www.v2ex.com/t/874267) 
+- [2022-08-20-旧-PC-上的-Linux-系统盘直接插在新-PC-上，新-PC-能正常工作吗？](https://www.v2ex.com/t/874266) 
 - [2022-08-20-MacOS-访达一个一直没人管的-bug](https://www.v2ex.com/t/874265) 
 - [2022-08-20-自建-GitLab，用-Docker-CE-还是-EE-版本？](https://www.v2ex.com/t/874264) 
 - [2022-08-20-今年的-14-寸、16-寸-MacBook-Pro-，-HDMI-接口该上满血的-HDMI-2.1-了吧？](https://www.v2ex.com/t/874263) 
@@ -41,5 +44,3 @@
 - [2022-08-20-看了-AK-电玩科技-YouTube-被盗的经历，越来越对使用-Windows-恐惧](https://www.v2ex.com/t/874221) 
 - [2022-08-20-关于电脑通过公网和局域网访问路由器的问题？](https://www.v2ex.com/t/874220) 
 - [2022-08-20-吧啦吧啦](https://www.v2ex.com/t/874219) 
-- [2022-08-20-一同事觉得公司代码屎怎么办？](https://www.v2ex.com/t/874218) 
-- [2022-08-20-哪里能买微博号？](https://www.v2ex.com/t/874217) 

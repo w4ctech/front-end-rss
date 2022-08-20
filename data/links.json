@@ -9953,6 +9953,21 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "THORN: 一款轻量化，本地优先， 隐私第一的跨平台写作应用。",
+        "link": "https://www.v2ex.com/t/874268",
+        "date": "2022-08-20"
+      },
+      {
+        "title": "更新 PD18 之前是不是应该先在虚拟机里面暂停 BitLocker 保护，更新完再恢复？",
+        "link": "https://www.v2ex.com/t/874267",
+        "date": "2022-08-20"
+      },
+      {
+        "title": "旧 PC 上的 Linux 系统盘直接插在新 PC 上，新 PC 能正常工作吗？",
+        "link": "https://www.v2ex.com/t/874266",
+        "date": "2022-08-20"
+      },
+      {
         "title": "MacOS 访达一个一直没人管的 bug",
         "link": "https://www.v2ex.com/t/874265",
         "date": "2022-08-20"
@@ -10131,16 +10146,6 @@
         "title": "吧啦吧啦",
         "link": "https://www.v2ex.com/t/874219",
         "date": "2022-08-20"
-      },
-      {
-        "title": "一同事觉得公司代码屎怎么办？",
-        "link": "https://www.v2ex.com/t/874218",
-        "date": "2022-08-20"
-      },
-      {
-        "title": "哪里能买微博号？",
-        "link": "https://www.v2ex.com/t/874217",
-        "date": "2022-08-20"
       }
     ]
   },
@@ -10317,13 +10322,18 @@
         "date": "2022-08-20"
       },
       {
-        "title": "[推荐] 京东面试：MQ 消息丢失、重复、积压问题，如何解决？",
-        "link": "https://toutiao.io/k/1unx53z",
+        "title": "[推荐] 聊聊 13 种锁的实现方式",
+        "link": "https://toutiao.io/k/wcwg3fn",
         "date": "2022-08-20"
       },
       {
         "title": "[推荐] 微服务接口设计原则",
         "link": "https://toutiao.io/k/4hjv10p",
+        "date": "2022-08-20"
+      },
+      {
+        "title": "[推荐] 京东面试：MQ 消息丢失、重复、积压问题，如何解决？",
+        "link": "https://toutiao.io/k/1unx53z",
         "date": "2022-08-20"
       },
       {

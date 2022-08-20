@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-08-20 15:42:14。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-08-20 16:17:54。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,9 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-08-20-THORN:-一款轻量化，本地优先，-隐私第一的跨平台写作应用。](https://www.v2ex.com/t/874268) 
+- [2022-08-20-更新-PD18-之前是不是应该先在虚拟机里面暂停-BitLocker-保护，更新完再恢复？](https://www.v2ex.com/t/874267) 
+- [2022-08-20-旧-PC-上的-Linux-系统盘直接插在新-PC-上，新-PC-能正常工作吗？](https://www.v2ex.com/t/874266) 
 - [2022-08-20-MacOS-访达一个一直没人管的-bug](https://www.v2ex.com/t/874265) 
 - [2022-08-20-今年的-14-寸、16-寸-MacBook-Pro-，-HDMI-接口该上满血的-HDMI-2.1-了吧？](https://www.v2ex.com/t/874263) 
 - [2022-08-20-装修笔记](https://www.v2ex.com/t/874262) 
@@ -1940,8 +1943,6 @@
 - [2022-08-20-中文互联网已死](https://www.v2ex.com/t/874223) 
 - [2022-08-20-看了-AK-电玩科技-YouTube-被盗的经历，越来越对使用-Windows-恐惧](https://www.v2ex.com/t/874221) 
 - [2022-08-20-吧啦吧啦](https://www.v2ex.com/t/874219) 
-- [2022-08-20-一同事觉得公司代码屎怎么办？](https://www.v2ex.com/t/874218) 
-- [2022-08-20-哪里能买微博号？](https://www.v2ex.com/t/874217) 
 - [2022-08-20-ICLR-2021-|-美团AutoML论文：鲁棒的神经网络架构搜索-DARTS--tech.meituan.com](https://blogread.cn/news/go.php?idItem=15342&url=https%3A%2F%2Ftech.meituan.com%2F2021%2F03%2F25%2Ficlr-2021-nas-automl-darts.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-08-20-Btrfs-文件系统入门-linux.cn](https://blogread.cn/news/go.php?idItem=15340&url=https%3A%2F%2Flinux.cn%2Farticle-13440-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-08-20-Systrace-流畅性实战-3-：卡顿分析过程中的一些疑问-androidperformance.com](https://blogread.cn/news/go.php?idItem=15339&url=https%3A%2F%2Fandroidperformance.com%2F2021%2F04%2F24%2Fandroid-systrace-smooth-in-action-3%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1964,5 +1965,6 @@
 - [2022-08-20-Golang-中-map-探究](https://toutiao.io/k/3w6oqrm) 
 - [2022-08-20-推荐-连流量染色都没有，你说要搞微服务？](https://toutiao.io/k/9k1wfc7) 
 - [2022-08-20-推荐-全网最全的权限系统设计方案（图解）](https://toutiao.io/k/lozkmee) 
+- [2022-08-20-推荐-聊聊-13-种锁的实现方式](https://toutiao.io/k/wcwg3fn) 
 - [2022-08-20-推荐-微服务接口设计原则](https://toutiao.io/k/4hjv10p) 
 - [2022-08-20-推荐-掌握这些-SpringBoot-启动扩展点，已经超过-90%-的人了](https://toutiao.io/k/3m8iq2m) 

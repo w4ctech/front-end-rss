@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-08-20 06:47:12。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-08-20 07:13:28。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -285,10 +285,10 @@
 - [【武汉肺炎防疫全纪录(财新网)】解药|新冠mRNA疫苗安全性有哪些挑战？](https://m.caixin.com/m/2021-01-08/101648043.html)
 - [【武汉肺炎防疫全纪录(财新网)】大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html)
 - [【张鑫旭-鑫空间-鑫生活】基于文字的URL锚点定位与::target-text样式设置](https://www.zhangxinxu.com/wordpress/2022/06/url-anchor-target-text/)
+- [【V2EX】应届生求职前端开发，请各位帮忙-review-一下简历。](https://www.v2ex.com/t/874186)
 - [【V2EX】Apple-内核和-WebKit-的-zero-day-漏洞你们修复了么？](https://www.v2ex.com/t/874181)
 - [【V2EX】现在买华为的-mateview-显示器配给-MacBook-M1-用合适吗？](https://www.v2ex.com/t/874172)
 - [【V2EX】edge-地址栏可以关注-YouTube、bilibili-主播了](https://www.v2ex.com/t/874156)
-- [【V2EX】上海拼多多安全岗-组内直招-安卓/iOS-APP-安全开发、APP-逆向、Golang-后端开发](https://www.v2ex.com/t/874136)
 - [【开发者头条】中高级前端工程师都需要熟悉的技能--前端缓存](https://toutiao.io/k/v0av9zd)
 - [......【查看更多】......](./details/tags/browser.md)
 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-20 07:38:36，:rocket: 更新条数: +2013， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-20 08:18:10，:rocket: 更新条数: +2014， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,11 @@
 </summary>
 
 
+- [2022-08-20-黑神话的新片段，感觉配音太拉跨了，没看进去](https://www.v2ex.com/t/874203) ![](assets/new.png)  
+- [2022-08-20-菲律宾区自用剩余-4-个车位-80-年付](https://www.v2ex.com/t/874202) ![](assets/new.png)  
+- [2022-08-20-广东联通-ipv4-公网-ip-失而复得](https://www.v2ex.com/t/874201) ![](assets/new.png)  
+- [2022-08-20-建了个南京车友群，有机会一起去骑车](https://www.v2ex.com/t/874200) ![](assets/new.png)  
+- [2022-08-20-Melog-v3.0-发布了，一个简单、轻量的-nodejs-博客程序](https://www.v2ex.com/t/874199) ![](assets/new.png)  
 - [2022-08-20-tidbcloud-面向开发者的免费数据库存储](https://www.v2ex.com/t/874196) ![](assets/new.png)  
 - [2022-08-20-AltStore-怎样才能侧加载-AppStore-里面的-ipa-文件？](https://www.v2ex.com/t/874195) ![](assets/new.png)  
 - [2022-08-20-被电信反炸停机误伤](https://www.v2ex.com/t/874193) ![](assets/new.png)  
@@ -506,11 +511,6 @@
 - [2022-08-20-请问-我的-Google-photo-为什么没有自动分类，也没有面容识别。](https://www.v2ex.com/t/874176) ![](assets/new.png)  
 - [2022-08-20-成都-offer-比较，中建电商-VS-逍遥志](https://www.v2ex.com/t/874174) ![](assets/new.png)  
 - [2022-08-20-这至少是我前半辈子的遗憾，英语](https://www.v2ex.com/t/874173) ![](assets/new.png)  
-- [2022-08-20-现在买华为的-mateview-显示器配给-MacBook-M1-用合适吗？](https://www.v2ex.com/t/874172) ![](assets/new.png)  
-- [2022-08-20-不要用网易邮箱给国外邮箱地址发邮件了，差点误了大事](https://www.v2ex.com/t/874171) ![](assets/new.png)  
-- [2022-08-20-进一次商超-740-元人民币实录，物价是否偏高（附上详细购物清单）](https://www.v2ex.com/t/874170) ![](assets/new.png)  
-- [2022-08-20-iOS-16-pb-4-打字震动反馈会卡顿](https://www.v2ex.com/t/874169) ![](assets/new.png)  
-- [2022-08-20-C-语言级联内存池之轻松零拷贝-IPC](https://www.v2ex.com/t/874168) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -563,11 +563,11 @@
 - [2022-08-20-中高级前端工程师都需要熟悉的技能--前端缓存](https://toutiao.io/k/v0av9zd) ![](assets/new.png)  
 - [2022-08-20-我为-Netty-贡献源码-|-且看-Netty-如何应对-TCP-连接的正常关闭，异常关闭，半关闭场景](https://toutiao.io/k/j2uehi0) ![](assets/new.png)  
 - [2022-08-20-Golang-中-map-探究](https://toutiao.io/k/3w6oqrm) ![](assets/new.png)  
-- [2022-08-20-推荐-掌握这些-SpringBoot-启动扩展点，已经超过-90%-的人了](https://toutiao.io/k/3m8iq2m) ![](assets/new.png)  
-- [2022-08-20-推荐-微服务接口设计原则](https://toutiao.io/k/4hjv10p) ![](assets/new.png)  
-- [2022-08-20-推荐-全网最全的权限系统设计方案（图解）](https://toutiao.io/k/lozkmee) ![](assets/new.png)  
-- [2022-08-20-推荐-连流量染色都没有，你说要搞微服务？](https://toutiao.io/k/9k1wfc7) ![](assets/new.png)  
 - [2022-08-20-推荐-京东面试：MQ-消息丢失、重复、积压问题，如何解决？](https://toutiao.io/k/1unx53z) ![](assets/new.png)  
+- [2022-08-20-推荐-全网最全的权限系统设计方案（图解）](https://toutiao.io/k/lozkmee) ![](assets/new.png)  
+- [2022-08-20-推荐-掌握这些-SpringBoot-启动扩展点，已经超过-90%-的人了](https://toutiao.io/k/3m8iq2m) ![](assets/new.png)  
+- [2022-08-20-推荐-连流量染色都没有，你说要搞微服务？](https://toutiao.io/k/9k1wfc7) ![](assets/new.png)  
+- [2022-08-20-推荐-微服务接口设计原则](https://toutiao.io/k/4hjv10p) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

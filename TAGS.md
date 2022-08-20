@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-08-20 07:38:37。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-08-20 08:18:10。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -105,6 +105,7 @@
 
 
 
+- [【V2EX】Melog-v3.0-发布了，一个简单、轻量的-nodejs-博客程序](https://www.v2ex.com/t/874199)
 - [【技术头条】使用-Docker-和-Node-搭建公式渲染服务（后篇）-soulteary.com](https://blogread.cn/news/go.php?idItem=15335&url=https%3A%2F%2Fsoulteary.com%2F2021%2F04%2F16%2Fuse-docker-and-node-to-build-a-formula-rendering-service-part-3.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【技术头条】使用-Docker-和-Node-搭建公式渲染服务（中篇）-soulteary.com](https://blogread.cn/news/go.php?idItem=15334&url=https%3A%2F%2Fsoulteary.com%2F2021%2F04%2F15%2Fuse-docker-and-node-to-build-a-formula-rendering-service-part-2.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【技术头条】使用-Docker-和-Node-搭建公式渲染服务（前篇）-soulteary.com](https://blogread.cn/news/go.php?idItem=15333&url=https%3A%2F%2Fsoulteary.com%2F2021%2F04%2F14%2Fuse-docker-and-node-to-build-a-formula-rendering-service-part-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
@@ -242,7 +243,6 @@
 - [【武汉肺炎防疫全纪录(财新网)】广州17岁男生在定点医院参加高考-特殊考场视频监考](https://m.caixin.com/m/2021-06-05/101723418.html)
 - [【武汉肺炎防疫全纪录(财新网)】林郑月娥率13高官直播接种科兴疫苗-复星疫苗预计周中到港](https://m.caixin.com/m/2021-02-22/101665724.html)
 - [【V2EX】视频播放时，颜色不正常，画面变灰。过几秒后正常。](https://www.v2ex.com/t/874162)
-- [【V2EX】WMV-的视频拖动进度条](https://www.v2ex.com/t/874153)
 - [......【查看更多】......](./details/tags/audio-video.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

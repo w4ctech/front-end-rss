@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-20 01:04:54，:rocket: 更新条数: +2011， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-20 03:21:45，:rocket: 更新条数: +2018， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,26 +491,26 @@
 </summary>
 
 
+- [2022-08-20-有人用过光学微动的鼠标吗?在高频率使用左键的场景是否确实不容易坏?](https://www.v2ex.com/t/874149) ![](assets/new.png)  
+- [2022-08-20-咸鱼快焕数码怎么样？](https://www.v2ex.com/t/874148) ![](assets/new.png)  
+- [2022-08-20-英语单词游戏：-RobinWords](https://www.v2ex.com/t/874147) ![](assets/new.png)  
+- [2022-08-20-广东电信回收公网-ipv4](https://www.v2ex.com/t/874146) ![](assets/new.png)  
+- [2022-08-20-基于-GitHub-issue-系统+next.js-写了一个极简的博客引擎](https://www.v2ex.com/t/874145) ![](assets/new.png)  
+- [2022-08-20-深漂应届生求助，鹅厂的外包有那么不堪吗](https://www.v2ex.com/t/874143) ![](assets/new.png)  
+- [2022-08-20-有没有那种手机上的阅读软件可以导入文章，然后阅读有点击翻译的](https://www.v2ex.com/t/874142) ![](assets/new.png)  
+- [2022-08-20-除开妙控鼠标，还有哪些在-MacBook-上好用的鼠标呢？](https://www.v2ex.com/t/874141) ![](assets/new.png)  
+- [2022-08-20-finder-文件夹处于列表状态的时候怎么才能右键在当前位置打开终端](https://www.v2ex.com/t/874140) ![](assets/new.png)  
+- [2022-08-20-喜马拉雅-30-两年的活动地址](https://www.v2ex.com/t/874139) ![](assets/new.png)  
+- [2022-08-20-感觉-FaceTime-国内使用基本废了](https://www.v2ex.com/t/874138) ![](assets/new.png)  
+- [2022-08-20-明明-Excel-表格里没多少数据，为什么文件却这么大](https://www.v2ex.com/t/874137) ![](assets/new.png)  
+- [2022-08-20-上海拼多多安全岗-组内直招-安卓/iOS-APP-安全开发、APP-逆向、Golang-后端开发](https://www.v2ex.com/t/874136) ![](assets/new.png)  
+- [2022-08-20-Mac-除了自带-Music，还有什么音乐播放器能空间音频？](https://www.v2ex.com/t/874133) ![](assets/new.png)  
+- [2022-08-20-广州/上海/西安-汇丰软件内推，-965-WLB](https://www.v2ex.com/t/874132) ![](assets/new.png)  
+- [2022-08-20-在国外和中国女友结婚要不要给彩礼？](https://www.v2ex.com/t/874131) ![](assets/new.png)  
 - [2022-08-20-问一个-H3C-路由器自动重新连接的问题](https://www.v2ex.com/t/874130) ![](assets/new.png)  
 - [2022-08-20-iOS-的-Google-Photos-总是会产生重复照片](https://www.v2ex.com/t/874129) ![](assets/new.png)  
 - [2022-08-20-找到了-github-拉取私有仓库的方法](https://www.v2ex.com/t/874128) ![](assets/new.png)  
 - [2022-08-20-上海-居住证-跟-公积金租房提取-有直接关联嘛？](https://www.v2ex.com/t/874127) ![](assets/new.png)  
-- [2022-08-20-求问联通是否有什么便宜的语音包（通话）套餐办理渠道](https://www.v2ex.com/t/874125) ![](assets/new.png)  
-- [2022-08-20-上海联通互联网套餐（比如腾讯大王卡）可以领取免费宽带，不需要低消](https://www.v2ex.com/t/874124) ![](assets/new.png)  
-- [2022-08-19-上海-不加班-外企-招-中高级-Java-、C++、安卓、高级测试、中级支持工程师、初中级-devOps，-Java-和-测试有残疾人岗位](https://www.v2ex.com/t/874123) ![](assets/new.png)  
-- [2022-08-19-Google-Play/App-Store-Telegram-上架](https://www.v2ex.com/t/874122) ![](assets/new.png)  
-- [2022-08-19-公司电脑-chrome-不让安装扩展并且也无法开启记录密码功能，能否自己写个软件来实现自动填入账号密码？](https://www.v2ex.com/t/874121) ![](assets/new.png)  
-- [2022-08-19-用-Tauri-写了个小工具,打包和分发体验让我崩溃。](https://www.v2ex.com/t/874119) ![](assets/new.png)  
-- [2022-08-19-monego-这个字体好性感啊](https://www.v2ex.com/t/874118) ![](assets/new.png)  
-- [2022-08-19-Android-有什么-API-可以录系统音](https://www.v2ex.com/t/874117) ![](assets/new.png)  
-- [2022-08-19-最近运营商有趣的新动作：精准限速](https://www.v2ex.com/t/874115) ![](assets/new.png)  
-- [2022-08-19-写了个在-uni-app-上用的-http-client，需要的可以参考](https://www.v2ex.com/t/874114) ![](assets/new.png)  
-- [2022-08-19-网易易盾,-海外服务器证书过期](https://www.v2ex.com/t/874113) ![](assets/new.png)  
-- [2022-08-19-wps-for-Linux-不支持-PDF-注释吗？](https://www.v2ex.com/t/874112) ![](assets/new.png)  
-- [2022-08-19-离开北京-转租-东坝家园-B-区-一卧室](https://www.v2ex.com/t/874111) ![](assets/new.png)  
-- [2022-08-19-想注册-100-个微信](https://www.v2ex.com/t/874110) ![](assets/new.png)  
-- [2022-08-19-分享最近阅读的书藉清单四](https://www.v2ex.com/t/874109) ![](assets/new.png)  
-- [2022-08-19-花一个小时摸索着做了个极其低能的-Playdate-游戏](https://www.v2ex.com/t/874105) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -554,15 +554,18 @@
 
 
 - [2022-08-20-优质网站同好者周刊（第-079-期）-|-倾城博客](https://toutiao.io/k/iku9a8l) ![](assets/new.png)  
-- [2022-08-20-小红书KV存储架构：万亿级数据与跨云多活不在话下](https://toutiao.io/k/9bd7q5h) ![](assets/new.png)  
 - [2022-08-20-细思恐极，插上-U-盘就开始执行-Python-代码](https://toutiao.io/k/g2lmfmc) ![](assets/new.png)  
+- [2022-08-20-小红书KV存储架构：万亿级数据与跨云多活不在话下](https://toutiao.io/k/9bd7q5h) ![](assets/new.png)  
 - [2022-08-20-Go：服务发现原理分析与源码解读](https://toutiao.io/k/i8bvlto) ![](assets/new.png)  
 - [2022-08-20-干货-|-ClickHouse增强计划之“Upsert”](https://toutiao.io/k/bdic1dh) ![](assets/new.png)  
+- [2022-08-20-聊聊分布式的10大坑](https://toutiao.io/k/lqe1ozi) ![](assets/new.png)  
+- [2022-08-20-图文详解-Java-泛型，写得太好了！](https://toutiao.io/k/5dvfjkp) ![](assets/new.png)  
+- [2022-08-20-中高级前端工程师都需要熟悉的技能--前端缓存](https://toutiao.io/k/v0av9zd) ![](assets/new.png)  
 - [2022-08-20-推荐-全网最全的权限系统设计方案（图解）](https://toutiao.io/k/lozkmee) ![](assets/new.png)  
 - [2022-08-20-推荐-连流量染色都没有，你说要搞微服务？](https://toutiao.io/k/9k1wfc7) ![](assets/new.png)  
+- [2022-08-20-推荐-京东面试：MQ-消息丢失、重复、积压问题，如何解决？](https://toutiao.io/k/1unx53z) ![](assets/new.png)  
 - [2022-08-20-推荐-掌握这些-SpringBoot-启动扩展点，已经超过-90%-的人了](https://toutiao.io/k/3m8iq2m) ![](assets/new.png)  
 - [2022-08-20-推荐-微服务接口设计原则](https://toutiao.io/k/4hjv10p) ![](assets/new.png)  
-- [2022-08-20-推荐-京东面试：MQ-消息丢失、重复、积压问题，如何解决？](https://toutiao.io/k/1unx53z) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

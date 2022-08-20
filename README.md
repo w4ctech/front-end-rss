@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-20 15:14:13，:rocket: 更新条数: +2018， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-20 15:42:14，:rocket: 更新条数: +2019， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,11 @@
 </summary>
 
 
+- [2022-08-20-MacOS-访达一个一直没人管的-bug](https://www.v2ex.com/t/874265) ![](assets/new.png)  
+- [2022-08-20-自建-GitLab，用-Docker-CE-还是-EE-版本？](https://www.v2ex.com/t/874264) ![](assets/new.png)  
+- [2022-08-20-今年的-14-寸、16-寸-MacBook-Pro-，-HDMI-接口该上满血的-HDMI-2.1-了吧？](https://www.v2ex.com/t/874263) ![](assets/new.png)  
+- [2022-08-20-装修笔记](https://www.v2ex.com/t/874262) ![](assets/new.png)  
+- [2022-08-20-C++-TinyWebServer-项目在云服务器上运行不了](https://www.v2ex.com/t/874261) ![](assets/new.png)  
 - [2022-08-20-关于-Zenfone9-的一些最新信息](https://www.v2ex.com/t/874259) ![](assets/new.png)  
 - [2022-08-20-多端同步进度的看-pdf-软件是？](https://www.v2ex.com/t/874258) ![](assets/new.png)  
 - [2022-08-20-求推荐的-windows-系统清理方法](https://www.v2ex.com/t/874257) ![](assets/new.png)  
@@ -506,11 +511,6 @@
 - [2022-08-20-全职远程-30k-60k/solidity-开发//风控运营/项目经理/商务运营/撮合清算开发/策略研究员](https://www.v2ex.com/t/874240) ![](assets/new.png)  
 - [2022-08-20-iOS16-Safari-打开二级网页时有时会自动后退](https://www.v2ex.com/t/874239) ![](assets/new.png)  
 - [2022-08-20-北京社保额度的事，都进来讨论下](https://www.v2ex.com/t/874238) ![](assets/new.png)  
-- [2022-08-20-Windows-环境或配置一致性同步问题！](https://www.v2ex.com/t/874235) ![](assets/new.png)  
-- [2022-08-20-Shardingsphere-本地-Dao-层查询需要-50-多秒，单表查只需要几十毫秒。](https://www.v2ex.com/t/874234) ![](assets/new.png)  
-- [2022-08-20-说说北京的三甲医院](https://www.v2ex.com/t/874233) ![](assets/new.png)  
-- [2022-08-20-抖音是老年人的鸦片](https://www.v2ex.com/t/874232) ![](assets/new.png)  
-- [2022-08-20-深圳电信开始封-8443-端口了？](https://www.v2ex.com/t/874231) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -563,10 +563,10 @@
 - [2022-08-20-干货-|-ClickHouse增强计划之“Upsert”](https://toutiao.io/k/bdic1dh) ![](assets/new.png)  
 - [2022-08-20-我为-Netty-贡献源码-|-且看-Netty-如何应对-TCP-连接的正常关闭，异常关闭，半关闭场景](https://toutiao.io/k/j2uehi0) ![](assets/new.png)  
 - [2022-08-20-Golang-中-map-探究](https://toutiao.io/k/3w6oqrm) ![](assets/new.png)  
-- [2022-08-20-推荐-全网最全的权限系统设计方案（图解）](https://toutiao.io/k/lozkmee) ![](assets/new.png)  
 - [2022-08-20-推荐-连流量染色都没有，你说要搞微服务？](https://toutiao.io/k/9k1wfc7) ![](assets/new.png)  
-- [2022-08-20-推荐-微服务接口设计原则](https://toutiao.io/k/4hjv10p) ![](assets/new.png)  
+- [2022-08-20-推荐-全网最全的权限系统设计方案（图解）](https://toutiao.io/k/lozkmee) ![](assets/new.png)  
 - [2022-08-20-推荐-京东面试：MQ-消息丢失、重复、积压问题，如何解决？](https://toutiao.io/k/1unx53z) ![](assets/new.png)  
+- [2022-08-20-推荐-微服务接口设计原则](https://toutiao.io/k/4hjv10p) ![](assets/new.png)  
 - [2022-08-20-推荐-掌握这些-SpringBoot-启动扩展点，已经超过-90%-的人了](https://toutiao.io/k/3m8iq2m) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

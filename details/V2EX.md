@@ -1,10 +1,13 @@
-:alarm_clock: 更新时间: 2022-08-21 15:42:05。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-08-21 16:18:40。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-08-21-我写了一个基于-Mac-菜单栏的书签应用](https://www.v2ex.com/t/874417) 
+- [2022-08-21-Windows-下有什么优雅使用-DoQ-的方法吗](https://www.v2ex.com/t/874415) 
+- [2022-08-21-jellyfin-android-app-不如-chrome-web-app-好用](https://www.v2ex.com/t/874414) 
 - [2022-08-21-做网站实在太不容易了！](https://www.v2ex.com/t/874413) 
 - [2022-08-21-有哪些-android-上的单机麻将游戏？](https://www.v2ex.com/t/874412) 
 - [2022-08-21-Logto-x-Hasura：使用开源-auth-+-GraphQL-解决方案来飞速构建项目-🚀](https://www.v2ex.com/t/874411) 
@@ -42,7 +45,3 @@
 - [2022-08-21-手机明明没电关机了，别人打电话却提示暂时无法接通……](https://www.v2ex.com/t/874371) 
 - [2022-08-21-您保存的密码中有一些已在网上外泄……你们收到没？](https://www.v2ex.com/t/874370) 
 - [2022-08-21-杭州的各种「仅限支付宝」是真恶心](https://www.v2ex.com/t/874369) 
-- [2022-08-21-荐-Gocron-使用-Go-语言开发的轻量级定时任务集中调度和管理系统,-用于替代-Linux--Crontab](https://www.v2ex.com/t/874367) 
-- [2022-08-21-windows10-怎么登录已经新创建的本地账户?](https://www.v2ex.com/t/874366) 
-- [2022-08-21-React-开发模式下-第三方组件库的-Pop-形式组件弹不出来](https://www.v2ex.com/t/874365) 
-- [2022-08-21-iPhone-闪屏](https://www.v2ex.com/t/874364) 

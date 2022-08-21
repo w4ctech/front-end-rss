@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-21 07:13:35，:rocket: 更新条数: +2021， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-21 07:38:37，:rocket: 更新条数: +2020， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -316,6 +316,7 @@
 </summary>
 
 
+- [2022-08-21-JS-replaceAll-和-matchAll-使用指南不指北](https://www.zhangxinxu.com/wordpress/2022/08/js-replaceall-matchall/) ![](assets/new.png)  
 - [2022-07-27-万物皆可clip-path，纯CSS绘制0-9数字](https://www.zhangxinxu.com/wordpress/2022/07/clip-path-css-number/) ![](assets/new.png)  
 - [2022-07-21-超酷！CSS-font-palette与彩色字体显示](https://www.zhangxinxu.com/wordpress/2022/07/css-font-palette/) ![](assets/new.png)  
 - [2022-06-30-CSS排版为何强？瞧瞧多牛这换行](https://www.zhangxinxu.com/wordpress/2022/06/css-line-break-word-wrap-all/) ![](assets/new.png)  
@@ -325,7 +326,6 @@
 - [2022-05-29-如何实现页面刷新后不定位到之前的滚动位置？](https://www.zhangxinxu.com/wordpress/2022/05/history-scrollrestoration/) ![](assets/new.png)  
 - [2022-05-28-详解日后定会大规模使用的CSS-@layer-规则](https://www.zhangxinxu.com/wordpress/2022/05/css-layer-rule/) ![](assets/new.png)  
 - [2022-05-22-CSS必学基础：理解CSS中的级联规则](https://www.zhangxinxu.com/wordpress/2022/05/deep-in-css-cascade/) ![](assets/new.png)  
-- [2022-05-11-JS与条形码的生成](https://www.zhangxinxu.com/wordpress/2022/05/js-barcode/) ![](assets/new.png)  
 - [......【查看更多】......](./details/张鑫旭-鑫空间-鑫生活.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -491,6 +491,11 @@
 </summary>
 
 
+- [2022-08-21-Google-image-搜索默认的搜索方式换成新的了](https://www.v2ex.com/t/874352) ![](assets/new.png)  
+- [2022-08-21-侧重问一下，有没有海外推广-App-经验的朋友呢？一起合作](https://www.v2ex.com/t/874350) ![](assets/new.png)  
+- [2022-08-21-滴滴跑路了？](https://www.v2ex.com/t/874349) ![](assets/new.png)  
+- [2022-08-21-Intellij-某次更新后自动折叠的换行符变成了很突出的蓝白色，有办法调回灰色吗？](https://www.v2ex.com/t/874347) ![](assets/new.png)  
+- [2022-08-21-网站设计：年薪-18w-起步，双休，可睡到下午，远程工作：](https://www.v2ex.com/t/874345) ![](assets/new.png)  
 - [2022-08-21-谷歌地球上发现的一处美景，分享给大家，希望能给你带来好心情！](https://www.v2ex.com/t/874344) ![](assets/new.png)  
 - [2022-08-21-求助:-显示器稳定间隔掉帧,-如何定位问题?](https://www.v2ex.com/t/874343) ![](assets/new.png)  
 - [2022-08-21-轻度使用，-M1-Air-和-M2-Air-买哪个？](https://www.v2ex.com/t/874341) ![](assets/new.png)  
@@ -506,11 +511,6 @@
 - [2022-08-21-请教-netty-加路由有啥比较好的实践吗](https://www.v2ex.com/t/874329) ![](assets/new.png)  
 - [2022-08-21-TV-remote-不让用了，没遥控器的-apple-tv3-代是不是彻底不能用了？](https://www.v2ex.com/t/874328) ![](assets/new.png)  
 - [2022-08-21-不玩游戏，预算-1-万，学习机器学习性价比最高的显卡是什么？](https://www.v2ex.com/t/874327) ![](assets/new.png)  
-- [2022-08-21-讨论一个笔记本设计方案](https://www.v2ex.com/t/874325) ![](assets/new.png)  
-- [2022-08-21-求-PHP-、js-通用-url-加密](https://www.v2ex.com/t/874324) ![](assets/new.png)  
-- [2022-08-21-MBP14-爆音，怎么解决？](https://www.v2ex.com/t/874323) ![](assets/new.png)  
-- [2022-08-21-Apple-One-Premium：国区-iCloud，美区-App-Store-可行么](https://www.v2ex.com/t/874322) ![](assets/new.png)  
-- [2022-08-21-请问大家夏天有必要买/用加湿器吗？最近空调都是开一整天，每天起来口干舌燥的。](https://www.v2ex.com/t/874321) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -564,10 +564,10 @@
 - [2022-08-21-美团一面：为什么线程崩溃不会导致-JVM-崩溃](https://toutiao.io/k/59cokhl) ![](assets/new.png)  
 - [2022-08-21-TLA+-入门教程（6）：Raft](https://toutiao.io/k/qvvkhlf) ![](assets/new.png)  
 - [2022-08-21-推荐-京东面试：MQ-消息丢失、重复、积压问题，如何解决？](https://toutiao.io/k/1unx53z) ![](assets/new.png)  
-- [2022-08-21-推荐-连流量染色都没有，你说要搞微服务？](https://toutiao.io/k/9k1wfc7) ![](assets/new.png)  
-- [2022-08-21-推荐-掌握这些-SpringBoot-启动扩展点，已经超过-90%-的人了](https://toutiao.io/k/3m8iq2m) ![](assets/new.png)  
 - [2022-08-21-推荐-聊聊-13-种锁的实现方式](https://toutiao.io/k/wcwg3fn) ![](assets/new.png)  
 - [2022-08-21-推荐-微服务接口设计原则](https://toutiao.io/k/4hjv10p) ![](assets/new.png)  
+- [2022-08-21-推荐-掌握这些-SpringBoot-启动扩展点，已经超过-90%-的人了](https://toutiao.io/k/3m8iq2m) ![](assets/new.png)  
+- [2022-08-21-推荐-连流量染色都没有，你说要搞微服务？](https://toutiao.io/k/9k1wfc7) ![](assets/new.png)  
 - [2022-08-21-推荐-全网最全的权限系统设计方案（图解）](https://toutiao.io/k/lozkmee) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

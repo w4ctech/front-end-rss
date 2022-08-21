@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-08-21 05:40:24。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-08-21 06:17:33。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,8 @@
 </summary>
 
 
+- [【V2EX】2022-08-21-有公网-ip，但是间歇性断网](https://www.v2ex.com/t/874338) 
+- [【V2EX】2022-08-21-据说有-iPhone14mini](https://www.v2ex.com/t/874337) 
 - [【V2EX】2022-08-21-会有人巧妙的把后门写的像安全漏洞吗？](https://www.v2ex.com/t/874336) 
 - [【V2EX】2022-08-21-apple-care+可以修-mbp-的外壳划痕吗？](https://www.v2ex.com/t/874335) 
 - [【V2EX】2022-08-21-真的被苹果的-bug-搞疯了](https://www.v2ex.com/t/874334) 
@@ -104,7 +106,6 @@
 - [【V2EX】2022-08-21-Windows-資料夾權限設置](https://www.v2ex.com/t/874292) 
 - [【V2EX】2022-08-21-大家最近是用梯子发现多了很多莫名其妙的数据链接吗？](https://www.v2ex.com/t/874291) 
 - [【V2EX】2022-08-21-如何防止自己的显示设备被入侵](https://www.v2ex.com/t/874290) 
-- [【V2EX】2022-08-21-送个-vps](https://www.v2ex.com/t/874287) 
 - [【技术头条】2022-08-21-VS-Code-是如何优化启动性能的？-fed.taobao.org](https://blogread.cn/news/go.php?idItem=15343&url=https%3A%2F%2Ffed.taobao.org%2Fblog%2Ftaofed%2Fdo71ct%2Fwpsf10%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-08-21-ICLR-2021-|-美团AutoML论文：鲁棒的神经网络架构搜索-DARTS--tech.meituan.com](https://blogread.cn/news/go.php?idItem=15342&url=https%3A%2F%2Ftech.meituan.com%2F2021%2F03%2F25%2Ficlr-2021-nas-automl-darts.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-08-21-图解-Flink-滚动窗口、会话窗口和滑动窗口-www.awaimai.com](https://blogread.cn/news/go.php?idItem=15341&url=https%3A%2F%2Fwww.awaimai.com%2F2957.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -126,15 +127,17 @@
 - [【技术头条】2022-08-21-HTTP/3-原理与实践-www.alloyteam.com](https://blogread.cn/news/go.php?idItem=15325&url=http%3A%2F%2Fwww.alloyteam.com%2F2020%2F05%2F14385%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-08-21-flex-end为什么overflow无法滚动及解决方法-www.zhangxinxu.com](https://blogread.cn/news/go.php?idItem=15324&url=https%3A%2F%2Fwww.zhangxinxu.com%2Fwordpress%2F2021%2F12%2Fflex-end-overflow%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【开发者头条】2022-08-21-如何做好分布式任务调度——Scheduler-的一些探索](https://toutiao.io/k/3aa11k3) 
-- [【开发者头条】2022-08-21-图解raft](https://toutiao.io/k/zppxnko) 
 - [【开发者头条】2022-08-21-从单体架构迁移到-CQRS-后，我觉得-DDD-并不可怕](https://toutiao.io/k/5xlk9fg) 
-- [【开发者头条】2022-08-21-Python-轻量级-Web-框架：Bottle-库！](https://toutiao.io/k/3arjdch) 
+- [【开发者头条】2022-08-21-图解raft](https://toutiao.io/k/zppxnko) 
 - [【开发者头条】2022-08-21-面试官:-后端一次返回过多数据，前端应该如何优化处理？](https://toutiao.io/k/qyc4xhq) 
+- [【开发者头条】2022-08-21-Python-轻量级-Web-框架：Bottle-库！](https://toutiao.io/k/3arjdch) 
 - [【开发者头条】2022-08-21-一文读懂遗传算法工作原理（附Python实现）](https://toutiao.io/k/s1n7zj2) 
 - [【开发者头条】2022-08-21-【译】超硬核｜在自制的-CPU-上运行-Rust](https://toutiao.io/k/d23kc61) 
 - [【开发者头条】2022-08-21-深度好文！FlinkSQL字段血缘解决方案及源码](https://toutiao.io/k/803idxn) 
-- [【开发者头条】2022-08-21-推荐-京东面试：MQ-消息丢失、重复、积压问题，如何解决？](https://toutiao.io/k/1unx53z) 
+- [【开发者头条】2022-08-21-美团一面：为什么线程崩溃不会导致-JVM-崩溃](https://toutiao.io/k/59cokhl) 
+- [【开发者头条】2022-08-21-TLA+-入门教程（6）：Raft](https://toutiao.io/k/qvvkhlf) 
 - [【开发者头条】2022-08-21-推荐-连流量染色都没有，你说要搞微服务？](https://toutiao.io/k/9k1wfc7) 
+- [【开发者头条】2022-08-21-推荐-京东面试：MQ-消息丢失、重复、积压问题，如何解决？](https://toutiao.io/k/1unx53z) 
 - [【开发者头条】2022-08-21-推荐-微服务接口设计原则](https://toutiao.io/k/4hjv10p) 
 - [【开发者头条】2022-08-21-推荐-聊聊-13-种锁的实现方式](https://toutiao.io/k/wcwg3fn) 
 - [【开发者头条】2022-08-21-推荐-全网最全的权限系统设计方案（图解）](https://toutiao.io/k/lozkmee) 

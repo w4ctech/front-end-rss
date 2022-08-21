@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-08-21 19:36:46。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-08-21 20:15:41。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
@@ -9,8 +9,6 @@
 - [2022-08-21-煎蛋网不再匿名](https://www.v2ex.com/t/874427) 
 - [2022-08-21-为什么没有售价超过三万的-Windows-轻薄笔记本？](https://www.v2ex.com/t/874426) 
 - [2022-08-21-中国电信的家宽经常断流该怎么办](https://www.v2ex.com/t/874425) 
-- [2022-08-21-你们觉得-iPhone-是中文系统好用还是英文系统好用？](https://www.v2ex.com/t/874424) 
-- [2022-08-21-广东电信-DNS-屏蔽-3322.org-动态域名](https://www.v2ex.com/t/874423) 
 - [2022-08-21-有什么办法让-ios-微信变的更好用一些么](https://www.v2ex.com/t/874422) 
 - [2022-08-21-西部数据-SN570-温度能上-83-度正常吗?](https://www.v2ex.com/t/874421) 
 - [2022-08-21-有没有什么-你觉得特别有用的油猴-脚本？-刚刚用了一个可以屏蔽指定网站（csdn，百家号）的-搜索结果的脚本，发现世界恍然一新](https://www.v2ex.com/t/874420) 
@@ -18,7 +16,6 @@
 - [2022-08-21-我写了一个基于-Mac-菜单栏的书签应用](https://www.v2ex.com/t/874417) 
 - [2022-08-21-Windows-下有什么优雅使用-DoQ-的方法吗](https://www.v2ex.com/t/874415) 
 - [2022-08-21-jellyfin-android-app-不如-chrome-web-app-好用](https://www.v2ex.com/t/874414) 
-- [2022-08-21-做网站实在太不容易了！](https://www.v2ex.com/t/874413) 
 - [2022-08-21-有哪些-android-上的单机麻将游戏？](https://www.v2ex.com/t/874412) 
 - [2022-08-21-Logto-x-Hasura：使用开源-auth-+-GraphQL-解决方案来飞速构建项目-🚀](https://www.v2ex.com/t/874411) 
 - [2022-08-21-Android12-不更了吗](https://www.v2ex.com/t/874410) 

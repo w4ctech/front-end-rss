@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-21 06:17:33，:rocket: 更新条数: +2020， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-21 06:47:05，:rocket: 更新条数: +2020， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,9 @@
 </summary>
 
 
+- [2022-08-21-求助:-显示器稳定间隔掉帧,-如何定位问题?](https://www.v2ex.com/t/874343) ![](assets/new.png)  
+- [2022-08-21-轻度使用，-M1-Air-和-M2-Air-买哪个？](https://www.v2ex.com/t/874341) ![](assets/new.png)  
+- [2022-08-21-简历里需要写自我评价么](https://www.v2ex.com/t/874340) ![](assets/new.png)  
 - [2022-08-21-有公网-ip，但是间歇性断网](https://www.v2ex.com/t/874338) ![](assets/new.png)  
 - [2022-08-21-据说有-iPhone14mini](https://www.v2ex.com/t/874337) ![](assets/new.png)  
 - [2022-08-21-会有人巧妙的把后门写的像安全漏洞吗？](https://www.v2ex.com/t/874336) ![](assets/new.png)  
@@ -508,9 +511,6 @@
 - [2022-08-21-Apple-One-Premium：国区-iCloud，美区-App-Store-可行么](https://www.v2ex.com/t/874322) ![](assets/new.png)  
 - [2022-08-21-请问大家夏天有必要买/用加湿器吗？最近空调都是开一整天，每天起来口干舌燥的。](https://www.v2ex.com/t/874321) ![](assets/new.png)  
 - [2022-08-21-chrome-store-developer-如何注册支付-$5](https://www.v2ex.com/t/874320) ![](assets/new.png)  
-- [2022-08-21-求推荐双盘位支持双-18TB-的硬盘盒](https://www.v2ex.com/t/874319) ![](assets/new.png)  
-- [2022-08-21-Chrome-OS-或为最大赢家](https://www.v2ex.com/t/874317) ![](assets/new.png)  
-- [2022-08-21-现在买-MBP-14-是-49-年入国军吗？](https://www.v2ex.com/t/874315) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -565,10 +565,10 @@
 - [2022-08-21-TLA+-入门教程（6）：Raft](https://toutiao.io/k/qvvkhlf) ![](assets/new.png)  
 - [2022-08-21-推荐-连流量染色都没有，你说要搞微服务？](https://toutiao.io/k/9k1wfc7) ![](assets/new.png)  
 - [2022-08-21-推荐-京东面试：MQ-消息丢失、重复、积压问题，如何解决？](https://toutiao.io/k/1unx53z) ![](assets/new.png)  
-- [2022-08-21-推荐-微服务接口设计原则](https://toutiao.io/k/4hjv10p) ![](assets/new.png)  
+- [2022-08-21-推荐-掌握这些-SpringBoot-启动扩展点，已经超过-90%-的人了](https://toutiao.io/k/3m8iq2m) ![](assets/new.png)  
 - [2022-08-21-推荐-聊聊-13-种锁的实现方式](https://toutiao.io/k/wcwg3fn) ![](assets/new.png)  
 - [2022-08-21-推荐-全网最全的权限系统设计方案（图解）](https://toutiao.io/k/lozkmee) ![](assets/new.png)  
-- [2022-08-21-推荐-掌握这些-SpringBoot-启动扩展点，已经超过-90%-的人了](https://toutiao.io/k/3m8iq2m) ![](assets/new.png)  
+- [2022-08-21-推荐-微服务接口设计原则](https://toutiao.io/k/4hjv10p) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

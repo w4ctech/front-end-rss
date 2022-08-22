@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-08-22 08:18:12。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-08-22 08:49:11。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -15,6 +15,5 @@
 - [2021-01-01-大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html) 
 - [2022-06-12-基于文字的URL锚点定位与::target-text样式设置](https://www.zhangxinxu.com/wordpress/2022/06/url-anchor-target-text/) 
 - [2022-08-22-Web3-招聘：安全工程师（威胁对抗）-上海|杭州|北京-30-80-万](https://www.v2ex.com/t/874553) 
-- [2022-08-22-uupdump-生成的-Win-ISO-是否安全？](https://www.v2ex.com/t/874550) 
 - [2022-08-22-安全架构设计的方法论](https://toutiao.io/k/ig2i9fh) 
 - [2022-08-22-深度剖析：Kafka-请求是如何处理?-看完这篇文章彻底懂了！](https://toutiao.io/k/vcjtf6c) 

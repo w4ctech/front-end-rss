@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-22 15:45:44，:rocket: 更新条数: +2033， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-22 16:17:04，:rocket: 更新条数: +2033， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-08-22-TapTap（TDS）招聘前端工程师（全栈方向）](https://www.v2ex.com/t/874685) ![](assets/new.png)  
 - [2022-08-22-整了个-Markdown-文件图片处理上传工具，分享给有相同需求的小伙伴](https://www.v2ex.com/t/874683) ![](assets/new.png)  
 - [2022-08-22-Python-后端转前端，求路线](https://www.v2ex.com/t/874682) ![](assets/new.png)  
 - [2022-08-22-VPS-通过-davfs2-挂载-webdav-作为本地盘](https://www.v2ex.com/t/874681) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-08-22-业务系统是否真的需要-Elasticsearch?](https://www.v2ex.com/t/874663) ![](assets/new.png)  
 - [2022-08-22-转-29-套餐的有“本人同意-接受中国联通相关商业性短信和商业性电话”这个待生效服务么？](https://www.v2ex.com/t/874662) ![](assets/new.png)  
 - [2022-08-22-禁止修改绑定邮箱的合规性疑问](https://www.v2ex.com/t/874661) ![](assets/new.png)  
-- [2022-08-22-公司被收购（吞并）后，大佬都干啥去了？](https://www.v2ex.com/t/874660) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

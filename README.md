@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-22 18:47:03，:rocket: 更新条数: +2032， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-22 19:12:19，:rocket: 更新条数: +2032， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-08-22-有意思嗷，原生系统，移动数据正常，-WiFi-有感叹号](https://www.v2ex.com/t/874692) ![](assets/new.png)  
 - [2022-08-22-想问个内存写入的问题](https://www.v2ex.com/t/874691) ![](assets/new.png)  
 - [2022-08-22-macos-下是不是没有能重映射摇杆为键盘组合键的免费-app](https://www.v2ex.com/t/874690) ![](assets/new.png)  
 - [2022-08-22-恳请大家帮忙审阅应届生简历](https://www.v2ex.com/t/874689) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-08-22-google-play-安装的软件无法调用相机可能是什么原因导致的？](https://www.v2ex.com/t/874669) ![](assets/new.png)  
 - [2022-08-22-请教一个手势冲突的问题](https://www.v2ex.com/t/874668) ![](assets/new.png)  
 - [2022-08-22-装机：-i712700+B660M-迫击炮，核显主机](https://www.v2ex.com/t/874667) ![](assets/new.png)  
-- [2022-08-22-文件后缀为-.sz-格式的视频文件，如何打开](https://www.v2ex.com/t/874666) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

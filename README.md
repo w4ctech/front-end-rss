@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-22 05:56:33，:rocket: 更新条数: +2018， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-22 06:20:32，:rocket: 更新条数: +2025， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,10 @@
 </summary>
 
 
+- [2022-08-22-今年夏天这么热,那么今年冬天会更热还是更冷](https://www.v2ex.com/t/874551) ![](assets/new.png)  
+- [2022-08-22-uupdump-生成的-Win-ISO-是否安全？](https://www.v2ex.com/t/874550) ![](assets/new.png)  
+- [2022-08-22-路由器能连-Mac-mini-当-ap-嘛？](https://www.v2ex.com/t/874549) ![](assets/new.png)  
+- [2022-08-22-提问哪里有比较全面的-markdown-语法进行学习啊](https://www.v2ex.com/t/874548) ![](assets/new.png)  
 - [2022-08-22-2022-年-8-月，深圳南山安装宽带有什么好的选择？](https://www.v2ex.com/t/874547) ![](assets/new.png)  
 - [2022-08-22-求推荐靠谱的泰国代购店](https://www.v2ex.com/t/874546) ![](assets/new.png)  
 - [2022-08-22-UCC-177-不同渠道口感差异很大？](https://www.v2ex.com/t/874543) ![](assets/new.png)  
@@ -507,10 +511,6 @@
 - [2022-08-22-win11-一天蓝屏了三次，吃不消了](https://www.v2ex.com/t/874528) ![](assets/new.png)  
 - [2022-08-22-那种-typec-的外接-SIM-卡扩展用起来咋样](https://www.v2ex.com/t/874527) ![](assets/new.png)  
 - [2022-08-22-需要一个西班牙语翻译兼职](https://www.v2ex.com/t/874526) ![](assets/new.png)  
-- [2022-08-22-大家最近有收到各大银行和金融机构的信贷推销电话吗，这又是哪里的信息泄漏？](https://www.v2ex.com/t/874525) ![](assets/new.png)  
-- [2022-08-22-有人去浙二看过牙吗？浙二的国际医学中心是什么情况？](https://www.v2ex.com/t/874524) ![](assets/new.png)  
-- [2022-08-22-深圳前端培训班推荐一下](https://www.v2ex.com/t/874523) ![](assets/new.png)  
-- [2022-08-22-M1-Mac-mini-这一个月的读写量是不是有点吓人？](https://www.v2ex.com/t/874522) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -564,15 +564,15 @@
 - [2022-08-22-容器平台架构之道](https://toutiao.io/k/g9umiu4) ![](assets/new.png)  
 - [2022-08-22-聊聊分布式定时任务框架选型](https://toutiao.io/k/n5ls0tq) ![](assets/new.png)  
 - [2022-08-22-C++最佳实践-|-2.-代码风格](https://toutiao.io/k/6le5m2p) ![](assets/new.png)  
+- [2022-08-22-go与rust互操作](https://toutiao.io/k/qel3bcn) ![](assets/new.png)  
 - [2022-08-22-Android-官方开源App，来看看最佳实践吧](https://toutiao.io/k/c8m5qrf) ![](assets/new.png)  
 - [2022-08-22-Carbon-vs-Rust-｜-你想要了解的](https://toutiao.io/k/ygwko3z) ![](assets/new.png)  
-- [2022-08-22-go与rust互操作](https://toutiao.io/k/qel3bcn) ![](assets/new.png)  
 - [2022-08-22-React团队是如何测试并发特性的](https://toutiao.io/k/dfpqz8t) ![](assets/new.png)  
 - [2022-08-22-快速掌握-TypeScript-新语法：infer-extends](https://toutiao.io/k/r8y1sch) ![](assets/new.png)  
-- [2022-08-22-推荐-京东面试：MQ-消息丢失、重复、积压问题，如何解决？](https://toutiao.io/k/1unx53z) ![](assets/new.png)  
-- [2022-08-22-推荐-聊聊-13-种锁的实现方式](https://toutiao.io/k/wcwg3fn) ![](assets/new.png)  
-- [2022-08-22-推荐-全网最全的权限系统设计方案（图解）](https://toutiao.io/k/lozkmee) ![](assets/new.png)  
-- [2022-08-22-推荐-掌握这些-SpringBoot-启动扩展点，已经超过-90%-的人了](https://toutiao.io/k/3m8iq2m) ![](assets/new.png)  
+- [2022-08-22-Java-技术栈中间件优雅停机方案设计与实现全景图](https://toutiao.io/k/nsd5x0k) ![](assets/new.png)  
+- [2022-08-22-【入职篇】入职一家新公司，如何快速熟悉代码？](https://toutiao.io/k/xde6stc) ![](assets/new.png)  
+- [2022-08-22-Excelize-发布-2.6.1-版本更新，支持工作簿加密保护](https://toutiao.io/k/ghag8xm) ![](assets/new.png)  
+- [2022-08-22-python中英文文本美化器，安排！](https://toutiao.io/k/1z6rebu) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

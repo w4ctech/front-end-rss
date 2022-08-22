@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-22 22:41:53，:rocket: 更新条数: +2033， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-22 23:03:29，:rocket: 更新条数: +2033， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-08-22-Steam-崩了啊](https://www.v2ex.com/t/874695) ![](assets/new.png)  
 - [2022-08-22-义跑募捐-2022-年-FCS-Foundation-线上跑](https://www.v2ex.com/t/874694) ![](assets/new.png)  
 - [2022-08-22-iOS-快捷指令打开/关闭代理软件-Stash/shadowrocket/小火箭](https://www.v2ex.com/t/874693) ![](assets/new.png)  
 - [2022-08-22-有意思嗷，原生系统，移动数据正常，-WiFi-有感叹号](https://www.v2ex.com/t/874692) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-08-22-iptables-劫持对外访问](https://www.v2ex.com/t/874673) ![](assets/new.png)  
 - [2022-08-22-头条招聘](https://www.v2ex.com/t/874671) ![](assets/new.png)  
 - [2022-08-22-Proxmox-VE-有必要从-6-升级到-7-嘛?](https://www.v2ex.com/t/874670) ![](assets/new.png)  
-- [2022-08-22-google-play-安装的软件无法调用相机可能是什么原因导致的？](https://www.v2ex.com/t/874669) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

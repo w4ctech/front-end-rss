@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-08-22 05:07:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-08-22 05:56:33。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -285,7 +285,6 @@
 - [【武汉肺炎防疫全纪录(财新网)】解药|新冠mRNA疫苗安全性有哪些挑战？](https://m.caixin.com/m/2021-01-08/101648043.html)
 - [【武汉肺炎防疫全纪录(财新网)】大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html)
 - [【张鑫旭-鑫空间-鑫生活】基于文字的URL锚点定位与::target-text样式设置](https://www.zhangxinxu.com/wordpress/2022/06/url-anchor-target-text/)
-- [【V2EX】Mac-上打开某些网页，显示“请求中包含特殊字符”，网页的绝大多数内容都无法显示，该怎么办啊？](https://www.v2ex.com/t/874491)
 - [【开发者头条】安全架构设计的方法论](https://toutiao.io/k/ig2i9fh)
 - [【开发者头条】深度剖析：Kafka-请求是如何处理?-看完这篇文章彻底懂了！](https://toutiao.io/k/vcjtf6c)
 - [......【查看更多】......](./details/tags/browser.md)
@@ -321,6 +320,7 @@
 
 
 
+- [【V2EX】单位说软硬件国产化要达到完全-100%改造，现在已知的硬件采购了龙芯-CPU-服务器，麒麟系统，软件上面服务-nginx-mysql-都找到魔改的，脚本语言为什么没有魔改的...](https://www.v2ex.com/t/874539)
 - [......【查看更多】......](./details/tags/server.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -337,6 +337,7 @@
 
 
 
+- [【V2EX】git-clone-有没有办法在保留全部-git-log-的情况下大幅度缩减-clone-的仓库大小](https://www.v2ex.com/t/874541)
 - [......【查看更多】......](./details/tags/git-svn.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-22 05:07:20，:rocket: 更新条数: +2018， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-22 05:56:33，:rocket: 更新条数: +2018， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,15 @@
 </summary>
 
 
+- [2022-08-22-2022-年-8-月，深圳南山安装宽带有什么好的选择？](https://www.v2ex.com/t/874547) ![](assets/new.png)  
+- [2022-08-22-求推荐靠谱的泰国代购店](https://www.v2ex.com/t/874546) ![](assets/new.png)  
+- [2022-08-22-UCC-177-不同渠道口感差异很大？](https://www.v2ex.com/t/874543) ![](assets/new.png)  
+- [2022-08-22-CH-SN530-有什么特殊吗？](https://www.v2ex.com/t/874542) ![](assets/new.png)  
+- [2022-08-22-git-clone-有没有办法在保留全部-git-log-的情况下大幅度缩减-clone-的仓库大小](https://www.v2ex.com/t/874541) ![](assets/new.png)  
+- [2022-08-22-Debug-Log](https://www.v2ex.com/t/874540) ![](assets/new.png)  
+- [2022-08-22-单位说软硬件国产化要达到完全-100%改造，现在已知的硬件采购了龙芯-CPU-服务器，麒麟系统，软件上面服务-nginx-mysql-都找到魔改的，脚本语言为什么没有魔改的...](https://www.v2ex.com/t/874539) ![](assets/new.png)  
+- [2022-08-22-是不是支持-ipv6-的宽带可以直连-v-站](https://www.v2ex.com/t/874538) ![](assets/new.png)  
+- [2022-08-22-MacBook-Pro-电池健康-不到一年-只剩-92%了](https://www.v2ex.com/t/874536) ![](assets/new.png)  
 - [2022-08-22-读博好孤独啊，又孤独又焦虑，难受想哭。](https://www.v2ex.com/t/874535) ![](assets/new.png)  
 - [2022-08-22-咨询下关于-macbook-换屏](https://www.v2ex.com/t/874533) ![](assets/new.png)  
 - [2022-08-22-独立产品灵感周刊-DecoHack-#027---这些开源项目很有用](https://www.v2ex.com/t/874532) ![](assets/new.png)  
@@ -502,15 +511,6 @@
 - [2022-08-22-有人去浙二看过牙吗？浙二的国际医学中心是什么情况？](https://www.v2ex.com/t/874524) ![](assets/new.png)  
 - [2022-08-22-深圳前端培训班推荐一下](https://www.v2ex.com/t/874523) ![](assets/new.png)  
 - [2022-08-22-M1-Mac-mini-这一个月的读写量是不是有点吓人？](https://www.v2ex.com/t/874522) ![](assets/new.png)  
-- [2022-08-22-有没有一款可以在拍照时，实时替换人物背景图的相机软件？](https://www.v2ex.com/t/874519) ![](assets/new.png)  
-- [2022-08-22-也聊医保改革](https://www.v2ex.com/t/874516) ![](assets/new.png)  
-- [2022-08-22-Python-如何监听-List-长度](https://www.v2ex.com/t/874515) ![](assets/new.png)  
-- [2022-08-22-除了换号，有啥好的解决骚扰电话的方法么？被贷款电话烦死了](https://www.v2ex.com/t/874511) ![](assets/new.png)  
-- [2022-08-22-大佬们，能来个静音的-nas-方案吗？预算尽量便宜点的。](https://www.v2ex.com/t/874510) ![](assets/new.png)  
-- [2022-08-22-关于显示器音频输出](https://www.v2ex.com/t/874505) ![](assets/new.png)  
-- [2022-08-22-咨询两层路由器的问题](https://www.v2ex.com/t/874503) ![](assets/new.png)  
-- [2022-08-22-现在房租涨价是否是常态？-接续](https://www.v2ex.com/t/874502) ![](assets/new.png)  
-- [2022-08-22-各程序语言的性能差距，是否主要在于解释器/编译器？](https://www.v2ex.com/t/874499) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -562,17 +562,17 @@
 - [2022-08-22-安全架构设计的方法论](https://toutiao.io/k/ig2i9fh) ![](assets/new.png)  
 - [2022-08-22-深度剖析：Kafka-请求是如何处理?-看完这篇文章彻底懂了！](https://toutiao.io/k/vcjtf6c) ![](assets/new.png)  
 - [2022-08-22-容器平台架构之道](https://toutiao.io/k/g9umiu4) ![](assets/new.png)  
-- [2022-08-22-C++最佳实践-|-2.-代码风格](https://toutiao.io/k/6le5m2p) ![](assets/new.png)  
 - [2022-08-22-聊聊分布式定时任务框架选型](https://toutiao.io/k/n5ls0tq) ![](assets/new.png)  
+- [2022-08-22-C++最佳实践-|-2.-代码风格](https://toutiao.io/k/6le5m2p) ![](assets/new.png)  
 - [2022-08-22-Android-官方开源App，来看看最佳实践吧](https://toutiao.io/k/c8m5qrf) ![](assets/new.png)  
 - [2022-08-22-Carbon-vs-Rust-｜-你想要了解的](https://toutiao.io/k/ygwko3z) ![](assets/new.png)  
-- [2022-08-22-React团队是如何测试并发特性的](https://toutiao.io/k/dfpqz8t) ![](assets/new.png)  
 - [2022-08-22-go与rust互操作](https://toutiao.io/k/qel3bcn) ![](assets/new.png)  
+- [2022-08-22-React团队是如何测试并发特性的](https://toutiao.io/k/dfpqz8t) ![](assets/new.png)  
 - [2022-08-22-快速掌握-TypeScript-新语法：infer-extends](https://toutiao.io/k/r8y1sch) ![](assets/new.png)  
+- [2022-08-22-推荐-京东面试：MQ-消息丢失、重复、积压问题，如何解决？](https://toutiao.io/k/1unx53z) ![](assets/new.png)  
 - [2022-08-22-推荐-聊聊-13-种锁的实现方式](https://toutiao.io/k/wcwg3fn) ![](assets/new.png)  
 - [2022-08-22-推荐-全网最全的权限系统设计方案（图解）](https://toutiao.io/k/lozkmee) ![](assets/new.png)  
 - [2022-08-22-推荐-掌握这些-SpringBoot-启动扩展点，已经超过-90%-的人了](https://toutiao.io/k/3m8iq2m) ![](assets/new.png)  
-- [2022-08-22-推荐-微服务接口设计原则](https://toutiao.io/k/4hjv10p) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

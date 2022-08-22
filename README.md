@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-22 06:52:03，:rocket: 更新条数: +2031， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-22 07:13:10，:rocket: 更新条数: +2033， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,10 @@
 </summary>
 
 
+- [2022-08-22-centos7.9-装了-3.10-1060-内核后重启到-root-登录后重启，该怎么从日志排查重启原因](https://www.v2ex.com/t/874568) ![](assets/new.png)  
+- [2022-08-22-狗睡觉是闭着眼，仰八叉？以前帮人代养过其他品种，都没见过如此这般睡姿](https://www.v2ex.com/t/874567) ![](assets/new.png)  
+- [2022-08-22-为什么我总是不能和自己和解](https://www.v2ex.com/t/874566) ![](assets/new.png)  
+- [2022-08-22-iOS-16-DB-6-感觉日用没什么问题了](https://www.v2ex.com/t/874565) ![](assets/new.png)  
 - [2022-08-22-Mac-M1-使用-bilibili-造成电脑发热](https://www.v2ex.com/t/874564) ![](assets/new.png)  
 - [2022-08-22-周末去了一下体检，感觉很焦虑](https://www.v2ex.com/t/874562) ![](assets/new.png)  
 - [2022-08-22-有没有哪一种软件，都可以像-Burpsuite-那样,可以对电脑自身发出去的报文一个包，一个包进行分析，审核，篡改？](https://www.v2ex.com/t/874561) ![](assets/new.png)  
@@ -507,10 +511,6 @@
 - [2022-08-22-路由器能连-Mac-mini-当-ap-嘛？](https://www.v2ex.com/t/874549) ![](assets/new.png)  
 - [2022-08-22-提问哪里有比较全面的-markdown-语法进行学习啊](https://www.v2ex.com/t/874548) ![](assets/new.png)  
 - [2022-08-22-2022-年-8-月，深圳南山安装宽带有什么好的选择？](https://www.v2ex.com/t/874547) ![](assets/new.png)  
-- [2022-08-22-求推荐靠谱的泰国代购店](https://www.v2ex.com/t/874546) ![](assets/new.png)  
-- [2022-08-22-UCC-177-不同渠道口感差异很大？](https://www.v2ex.com/t/874543) ![](assets/new.png)  
-- [2022-08-22-CH-SN530-有什么特殊吗？](https://www.v2ex.com/t/874542) ![](assets/new.png)  
-- [2022-08-22-git-clone-有没有办法在保留全部-git-log-的情况下大幅度缩减-clone-的仓库大小](https://www.v2ex.com/t/874541) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -569,8 +569,8 @@
 - [2022-08-22-Carbon-vs-Rust-｜-你想要了解的](https://toutiao.io/k/ygwko3z) ![](assets/new.png)  
 - [2022-08-22-React团队是如何测试并发特性的](https://toutiao.io/k/dfpqz8t) ![](assets/new.png)  
 - [2022-08-22-快速掌握-TypeScript-新语法：infer-extends](https://toutiao.io/k/r8y1sch) ![](assets/new.png)  
-- [2022-08-22-Java-技术栈中间件优雅停机方案设计与实现全景图](https://toutiao.io/k/nsd5x0k) ![](assets/new.png)  
 - [2022-08-22-【入职篇】入职一家新公司，如何快速熟悉代码？](https://toutiao.io/k/xde6stc) ![](assets/new.png)  
+- [2022-08-22-Java-技术栈中间件优雅停机方案设计与实现全景图](https://toutiao.io/k/nsd5x0k) ![](assets/new.png)  
 - [2022-08-22-Excelize-发布-2.6.1-版本更新，支持工作簿加密保护](https://toutiao.io/k/ghag8xm) ![](assets/new.png)  
 - [2022-08-22-python中英文文本美化器，安排！](https://toutiao.io/k/1z6rebu) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)

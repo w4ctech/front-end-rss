@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-22 13:57:46，:rocket: 更新条数: +2031， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-22 14:13:45，:rocket: 更新条数: +2032， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,10 @@
 </summary>
 
 
+- [2022-08-22-装机：-i712700+B660M-迫击炮，核显主机](https://www.v2ex.com/t/874667) ![](assets/new.png)  
+- [2022-08-22-文件后缀为-.sz-格式的视频文件，如何打开](https://www.v2ex.com/t/874666) ![](assets/new.png)  
+- [2022-08-22-不坐班，远程工作-高级软件开发工程师/月薪-30-35K-RMB](https://www.v2ex.com/t/874665) ![](assets/new.png)  
+- [2022-08-22-win-下的-Linux-环境选择](https://www.v2ex.com/t/874664) ![](assets/new.png)  
 - [2022-08-22-业务系统是否真的需要-Elasticsearch?](https://www.v2ex.com/t/874663) ![](assets/new.png)  
 - [2022-08-22-转-29-套餐的有“本人同意-接受中国联通相关商业性短信和商业性电话”这个待生效服务么？](https://www.v2ex.com/t/874662) ![](assets/new.png)  
 - [2022-08-22-禁止修改绑定邮箱的合规性疑问](https://www.v2ex.com/t/874661) ![](assets/new.png)  
@@ -507,10 +511,6 @@
 - [2022-08-22-你们有没有遇到过打开-win11-terminal-自动重启的情况](https://www.v2ex.com/t/874648) ![](assets/new.png)  
 - [2022-08-22-公司提供-1500/月英语学习补贴,-求推荐报班哪里比较合适](https://www.v2ex.com/t/874645) ![](assets/new.png)  
 - [2022-08-22-关于上海联通新推出的-200M-上行家宽改桥接的问题](https://www.v2ex.com/t/874644) ![](assets/new.png)  
-- [2022-08-22-求问：需要办理-2-个宽带怎么样才划算呢？](https://www.v2ex.com/t/874642) ![](assets/new.png)  
-- [2022-08-22-长期全职远程居家办公岗位，-c++，-golang，-Python-等...工时-8-小时-15-25k*13-薪](https://www.v2ex.com/t/874641) ![](assets/new.png)  
-- [2022-08-22-Android-12，国产-APP-突然大面积闪退](https://www.v2ex.com/t/874640) ![](assets/new.png)  
-- [2022-08-22-在不安全，可能感*染病*毒的公用服务器使用和重要服务器同一个-Ed255*19-公钥进行-SSH-鉴权是否安全？登录过程会不会有私钥的某些特征被上传？](https://www.v2ex.com/t/874639) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

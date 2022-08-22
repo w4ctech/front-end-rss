@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-22 07:38:47，:rocket: 更新条数: +2032， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-22 08:18:12，:rocket: 更新条数: +2035， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,26 +491,26 @@
 </summary>
 
 
+- [2022-08-22-关于-29-元套餐退订基础产品包的后续](https://www.v2ex.com/t/874594) ![](assets/new.png)  
+- [2022-08-22-上海世界-500-强外企8-月诚招-Java-后端、数据分析、3D-动画等岗位，欢迎投递](https://www.v2ex.com/t/874592) ![](assets/new.png)  
+- [2022-08-22-copilo-今天到期自动扣款，扣了两次，咋回事](https://www.v2ex.com/t/874591) ![](assets/new.png)  
+- [2022-08-22-homepod-mini-的-siri-可以设置语音回应吗](https://www.v2ex.com/t/874590) ![](assets/new.png)  
+- [2022-08-22-Macos-下可以完全替代-G-hub-options+的-App](https://www.v2ex.com/t/874589) ![](assets/new.png)  
+- [2022-08-22-程序员移民哪个国家现在门槛性价比比较高？-语言、花费、年龄、技能门槛这些因素综合来看。](https://www.v2ex.com/t/874588) ![](assets/new.png)  
+- [2022-08-22-一个想法：通过中间层代理来解析-API-输入/输出，自动生成-swagger-文档](https://www.v2ex.com/t/874587) ![](assets/new.png)  
+- [2022-08-22-有无靠谱的外包渠道，现在-iOS-找外包可太难了......](https://www.v2ex.com/t/874586) ![](assets/new.png)  
+- [2022-08-22-有个送充电宝、U-盘、剃须刀、杯子的活动](https://www.v2ex.com/t/874584) ![](assets/new.png)  
+- [2022-08-22-如何获取-KRaft-Kafka-的-controller-leader](https://www.v2ex.com/t/874583) ![](assets/new.png)  
+- [2022-08-22-想自学日语求推荐教程](https://www.v2ex.com/t/874582) ![](assets/new.png)  
+- [2022-08-22-Next.js-+-Ant-Design-如何做到-CSS-也按需加载？](https://www.v2ex.com/t/874581) ![](assets/new.png)  
+- [2022-08-22-关于-NAS-硬盘-可以买-pdd-或者淘宝-1k-左右-16T-的企业盘么？](https://www.v2ex.com/t/874580) ![](assets/new.png)  
+- [2022-08-22-做-iOS-设备的外设开发和系统编程有什么好点的资料可以参考？](https://www.v2ex.com/t/874579) ![](assets/new.png)  
 - [2022-08-22-沃趣-QFusion：盖楼送礼品，安装体验还送-150-京东卡](https://www.v2ex.com/t/874578) ![](assets/new.png)  
 - [2022-08-22-请问广东或附近有什么适合一个人周末去散心的地方？](https://www.v2ex.com/t/874577) ![](assets/new.png)  
 - [2022-08-22-32g-内存已经不够用了，现在软件这么耗内存吗](https://www.v2ex.com/t/874576) ![](assets/new.png)  
 - [2022-08-22-问一个-jwt-的强制下线问题](https://www.v2ex.com/t/874573) ![](assets/new.png)  
 - [2022-08-22-国内软件业，技术研发创新有没有出路？](https://www.v2ex.com/t/874572) ![](assets/new.png)  
 - [2022-08-22-国企外包，-去年六月入职，今天才发的年终奖-3000，这是什么水平，我该如何保护自己的权益](https://www.v2ex.com/t/874570) ![](assets/new.png)  
-- [2022-08-22-vSphere-Replication-安装问题](https://www.v2ex.com/t/874569) ![](assets/new.png)  
-- [2022-08-22-centos7.9-装了-3.10-1060-内核后重启到-root-登录后重启，该怎么从日志排查重启原因](https://www.v2ex.com/t/874568) ![](assets/new.png)  
-- [2022-08-22-狗睡觉是闭着眼，仰八叉？以前帮人代养过其他品种，都没见过如此这般睡姿](https://www.v2ex.com/t/874567) ![](assets/new.png)  
-- [2022-08-22-为什么我总是不能和自己和解](https://www.v2ex.com/t/874566) ![](assets/new.png)  
-- [2022-08-22-iOS-16-DB-6-感觉日用没什么问题了](https://www.v2ex.com/t/874565) ![](assets/new.png)  
-- [2022-08-22-Mac-M1-使用-bilibili-造成电脑发热](https://www.v2ex.com/t/874564) ![](assets/new.png)  
-- [2022-08-22-周末去了一下体检，感觉很焦虑](https://www.v2ex.com/t/874562) ![](assets/new.png)  
-- [2022-08-22-有没有哪一种软件，都可以像-Burpsuite-那样,可以对电脑自身发出去的报文一个包，一个包进行分析，审核，篡改？](https://www.v2ex.com/t/874561) ![](assets/new.png)  
-- [2022-08-22-如何启用-google-billing-accounts](https://www.v2ex.com/t/874560) ![](assets/new.png)  
-- [2022-08-22-海信-LTF7267-XGS-PON-猫棒认证问题](https://www.v2ex.com/t/874559) ![](assets/new.png)  
-- [2022-08-22-看到医保改革。我们村刚通医保网。村卫生院可以用医保了。。。](https://www.v2ex.com/t/874558) ![](assets/new.png)  
-- [2022-08-22-真诚求问：天津适合定居吗？](https://www.v2ex.com/t/874557) ![](assets/new.png)  
-- [2022-08-22-杭州有什么推荐的宽带套餐吗？](https://www.v2ex.com/t/874555) ![](assets/new.png)  
-- [2022-08-22-今天突然发现小米-10s-居然识别不了-exFAT-格式的移动硬盘](https://www.v2ex.com/t/874554) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -558,8 +558,8 @@
 - [2022-08-22-40-张最全计算机网络基础思维导图](https://toutiao.io/k/rogs5j4) ![](assets/new.png)  
 - [2022-08-22-Api-接口优化的几个技巧](https://toutiao.io/k/nrwggst) ![](assets/new.png)  
 - [2022-08-22-如何防止水印被恶意删除或者隐藏？](https://toutiao.io/k/9dgqp5a) ![](assets/new.png)  
-- [2022-08-22-聊聊客户档案模型的设计与管理](https://toutiao.io/k/727tkcv) ![](assets/new.png)  
 - [2022-08-22-安全架构设计的方法论](https://toutiao.io/k/ig2i9fh) ![](assets/new.png)  
+- [2022-08-22-聊聊客户档案模型的设计与管理](https://toutiao.io/k/727tkcv) ![](assets/new.png)  
 - [2022-08-22-深度剖析：Kafka-请求是如何处理?-看完这篇文章彻底懂了！](https://toutiao.io/k/vcjtf6c) ![](assets/new.png)  
 - [2022-08-22-容器平台架构之道](https://toutiao.io/k/g9umiu4) ![](assets/new.png)  
 - [2022-08-22-聊聊分布式定时任务框架选型](https://toutiao.io/k/n5ls0tq) ![](assets/new.png)  

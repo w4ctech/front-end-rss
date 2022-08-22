@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-22 13:16:43，:rocket: 更新条数: +2029， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-22 13:57:46，:rocket: 更新条数: +2031， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,14 @@
 </summary>
 
 
+- [2022-08-22-业务系统是否真的需要-Elasticsearch?](https://www.v2ex.com/t/874663) ![](assets/new.png)  
+- [2022-08-22-转-29-套餐的有“本人同意-接受中国联通相关商业性短信和商业性电话”这个待生效服务么？](https://www.v2ex.com/t/874662) ![](assets/new.png)  
+- [2022-08-22-禁止修改绑定邮箱的合规性疑问](https://www.v2ex.com/t/874661) ![](assets/new.png)  
+- [2022-08-22-公司被收购（吞并）后，大佬都干啥去了？](https://www.v2ex.com/t/874660) ![](assets/new.png)  
+- [2022-08-22-今年这行情还有金九银十吗？](https://www.v2ex.com/t/874659) ![](assets/new.png)  
+- [2022-08-22-有用过-rustdesk-的好兄弟吗？这个开源软件感觉最近摆烂了](https://www.v2ex.com/t/874658) ![](assets/new.png)  
+- [2022-08-22-23-毕业生，放弃考研准备秋招找工作，求-V-站老哥给点建议。](https://www.v2ex.com/t/874657) ![](assets/new.png)  
+- [2022-08-22-京东深圳电信-1000M-光纤-99-元，-V-友们帮看看会有什么坑](https://www.v2ex.com/t/874656) ![](assets/new.png)  
 - [2022-08-22-怎么把网站上相互链接的网页都下载下来（例如一个软件的使用手册，包含了数十个网页）](https://www.v2ex.com/t/874655) ![](assets/new.png)  
 - [2022-08-22-想有时间晚点编曲，都需要哪些专业知识呀](https://www.v2ex.com/t/874654) ![](assets/new.png)  
 - [2022-08-22-copilot-付费以后，还一直弹出提示](https://www.v2ex.com/t/874653) ![](assets/new.png)  
@@ -503,14 +511,6 @@
 - [2022-08-22-长期全职远程居家办公岗位，-c++，-golang，-Python-等...工时-8-小时-15-25k*13-薪](https://www.v2ex.com/t/874641) ![](assets/new.png)  
 - [2022-08-22-Android-12，国产-APP-突然大面积闪退](https://www.v2ex.com/t/874640) ![](assets/new.png)  
 - [2022-08-22-在不安全，可能感*染病*毒的公用服务器使用和重要服务器同一个-Ed255*19-公钥进行-SSH-鉴权是否安全？登录过程会不会有私钥的某些特征被上传？](https://www.v2ex.com/t/874639) ![](assets/new.png)  
-- [2022-08-22-WordPress-一发文章-cpu-直接爆满](https://www.v2ex.com/t/874638) ![](assets/new.png)  
-- [2022-08-22-出一款-13MINI-512G-国行。22-07-14-激活](https://www.v2ex.com/t/874637) ![](assets/new.png)  
-- [2022-08-22-突然想买树莓派，然后被这价格吓到了](https://www.v2ex.com/t/874636) ![](assets/new.png)  
-- [2022-08-22-最终还是订阅了-GitHub-的-Copilot](https://www.v2ex.com/t/874634) ![](assets/new.png)  
-- [2022-08-22-有什么适合朗读的书么](https://www.v2ex.com/t/874632) ![](assets/new.png)  
-- [2022-08-22-从北京跳槽去其他地方的同学们，（工作方面）哪些是你发现北京有的其他地方没有的？](https://www.v2ex.com/t/874629) ![](assets/new.png)  
-- [2022-08-22-大佬们-NAS-搜索文件都是怎么解决的](https://www.v2ex.com/t/874627) ![](assets/new.png)  
-- [2022-08-22-M2-合盖外接显示器问题](https://www.v2ex.com/t/874626) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

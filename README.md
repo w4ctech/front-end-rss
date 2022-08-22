@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-22 03:40:18，:rocket: 更新条数: +2024， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-22 05:07:20，:rocket: 更新条数: +2018， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,26 +491,26 @@
 </summary>
 
 
+- [2022-08-22-读博好孤独啊，又孤独又焦虑，难受想哭。](https://www.v2ex.com/t/874535) ![](assets/new.png)  
+- [2022-08-22-咨询下关于-macbook-换屏](https://www.v2ex.com/t/874533) ![](assets/new.png)  
+- [2022-08-22-独立产品灵感周刊-DecoHack-#027---这些开源项目很有用](https://www.v2ex.com/t/874532) ![](assets/new.png)  
+- [2022-08-22-有没有强迫症所有-err-必须处理的？](https://www.v2ex.com/t/874530) ![](assets/new.png)  
+- [2022-08-22-win11-一天蓝屏了三次，吃不消了](https://www.v2ex.com/t/874528) ![](assets/new.png)  
+- [2022-08-22-那种-typec-的外接-SIM-卡扩展用起来咋样](https://www.v2ex.com/t/874527) ![](assets/new.png)  
+- [2022-08-22-需要一个西班牙语翻译兼职](https://www.v2ex.com/t/874526) ![](assets/new.png)  
+- [2022-08-22-大家最近有收到各大银行和金融机构的信贷推销电话吗，这又是哪里的信息泄漏？](https://www.v2ex.com/t/874525) ![](assets/new.png)  
+- [2022-08-22-有人去浙二看过牙吗？浙二的国际医学中心是什么情况？](https://www.v2ex.com/t/874524) ![](assets/new.png)  
+- [2022-08-22-深圳前端培训班推荐一下](https://www.v2ex.com/t/874523) ![](assets/new.png)  
+- [2022-08-22-M1-Mac-mini-这一个月的读写量是不是有点吓人？](https://www.v2ex.com/t/874522) ![](assets/new.png)  
+- [2022-08-22-有没有一款可以在拍照时，实时替换人物背景图的相机软件？](https://www.v2ex.com/t/874519) ![](assets/new.png)  
+- [2022-08-22-也聊医保改革](https://www.v2ex.com/t/874516) ![](assets/new.png)  
+- [2022-08-22-Python-如何监听-List-长度](https://www.v2ex.com/t/874515) ![](assets/new.png)  
 - [2022-08-22-除了换号，有啥好的解决骚扰电话的方法么？被贷款电话烦死了](https://www.v2ex.com/t/874511) ![](assets/new.png)  
 - [2022-08-22-大佬们，能来个静音的-nas-方案吗？预算尽量便宜点的。](https://www.v2ex.com/t/874510) ![](assets/new.png)  
 - [2022-08-22-关于显示器音频输出](https://www.v2ex.com/t/874505) ![](assets/new.png)  
 - [2022-08-22-咨询两层路由器的问题](https://www.v2ex.com/t/874503) ![](assets/new.png)  
 - [2022-08-22-现在房租涨价是否是常态？-接续](https://www.v2ex.com/t/874502) ![](assets/new.png)  
 - [2022-08-22-各程序语言的性能差距，是否主要在于解释器/编译器？](https://www.v2ex.com/t/874499) ![](assets/new.png)  
-- [2022-08-22-gin-练手项目,新手推荐看看](https://www.v2ex.com/t/874498) ![](assets/new.png)  
-- [2022-08-22-手机有-Apple-Care-目前外壳和屏幕由于磕碰有很多划痕和变形](https://www.v2ex.com/t/874496) ![](assets/new.png)  
-- [2022-08-22-近来全球高温，分享大家能为可持续环保做的事情](https://www.v2ex.com/t/874495) ![](assets/new.png)  
-- [2022-08-22-办公室空调坏了，体验了一把当-CPU-的感觉。](https://www.v2ex.com/t/874494) ![](assets/new.png)  
-- [2022-08-22-留学贷款](https://www.v2ex.com/t/874493) ![](assets/new.png)  
-- [2022-08-22-个人档案里面到底是啥内容](https://www.v2ex.com/t/874492) ![](assets/new.png)  
-- [2022-08-22-Mac-上打开某些网页，显示“请求中包含特殊字符”，网页的绝大多数内容都无法显示，该怎么办啊？](https://www.v2ex.com/t/874491) ![](assets/new.png)  
-- [2022-08-22-V2er-微信群的云词图，有点意思](https://www.v2ex.com/t/874488) ![](assets/new.png)  
-- [2022-08-22-感觉现在的手机号绑定的东西太多了,换手机号很麻烦!](https://www.v2ex.com/t/874487) ![](assets/new.png)  
-- [2022-08-22-如何优雅的解这个题？](https://www.v2ex.com/t/874486) ![](assets/new.png)  
-- [2022-08-22-google-终于要对内容农场下手了，搜索环境有望改善](https://www.v2ex.com/t/874485) ![](assets/new.png)  
-- [2022-08-22-个人博客这个访问量算啥水平？](https://www.v2ex.com/t/874484) ![](assets/new.png)  
-- [2022-08-22-来瞧瞧，-WPF-炫酷走马灯!](https://www.v2ex.com/t/874483) ![](assets/new.png)  
-- [2022-08-22-Mac-刘海屏挡住的图标如何显示出来呢？](https://www.v2ex.com/t/874482) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -559,20 +559,20 @@
 - [2022-08-22-Api-接口优化的几个技巧](https://toutiao.io/k/nrwggst) ![](assets/new.png)  
 - [2022-08-22-如何防止水印被恶意删除或者隐藏？](https://toutiao.io/k/9dgqp5a) ![](assets/new.png)  
 - [2022-08-22-聊聊客户档案模型的设计与管理](https://toutiao.io/k/727tkcv) ![](assets/new.png)  
-- [2022-08-22-深度剖析：Kafka-请求是如何处理?-看完这篇文章彻底懂了！](https://toutiao.io/k/vcjtf6c) ![](assets/new.png)  
 - [2022-08-22-安全架构设计的方法论](https://toutiao.io/k/ig2i9fh) ![](assets/new.png)  
-- [2022-08-22-Android-官方开源App，来看看最佳实践吧](https://toutiao.io/k/c8m5qrf) ![](assets/new.png)  
-- [2022-08-22-Carbon-vs-Rust-｜-你想要了解的](https://toutiao.io/k/ygwko3z) ![](assets/new.png)  
-- [2022-08-22-React团队是如何测试并发特性的](https://toutiao.io/k/dfpqz8t) ![](assets/new.png)  
+- [2022-08-22-深度剖析：Kafka-请求是如何处理?-看完这篇文章彻底懂了！](https://toutiao.io/k/vcjtf6c) ![](assets/new.png)  
 - [2022-08-22-容器平台架构之道](https://toutiao.io/k/g9umiu4) ![](assets/new.png)  
 - [2022-08-22-C++最佳实践-|-2.-代码风格](https://toutiao.io/k/6le5m2p) ![](assets/new.png)  
 - [2022-08-22-聊聊分布式定时任务框架选型](https://toutiao.io/k/n5ls0tq) ![](assets/new.png)  
+- [2022-08-22-Android-官方开源App，来看看最佳实践吧](https://toutiao.io/k/c8m5qrf) ![](assets/new.png)  
+- [2022-08-22-Carbon-vs-Rust-｜-你想要了解的](https://toutiao.io/k/ygwko3z) ![](assets/new.png)  
+- [2022-08-22-React团队是如何测试并发特性的](https://toutiao.io/k/dfpqz8t) ![](assets/new.png)  
 - [2022-08-22-go与rust互操作](https://toutiao.io/k/qel3bcn) ![](assets/new.png)  
 - [2022-08-22-快速掌握-TypeScript-新语法：infer-extends](https://toutiao.io/k/r8y1sch) ![](assets/new.png)  
-- [2022-08-22-推荐-连流量染色都没有，你说要搞微服务？](https://toutiao.io/k/9k1wfc7) ![](assets/new.png)  
-- [2022-08-22-推荐-微服务接口设计原则](https://toutiao.io/k/4hjv10p) ![](assets/new.png)  
-- [2022-08-22-推荐-京东面试：MQ-消息丢失、重复、积压问题，如何解决？](https://toutiao.io/k/1unx53z) ![](assets/new.png)  
 - [2022-08-22-推荐-聊聊-13-种锁的实现方式](https://toutiao.io/k/wcwg3fn) ![](assets/new.png)  
+- [2022-08-22-推荐-全网最全的权限系统设计方案（图解）](https://toutiao.io/k/lozkmee) ![](assets/new.png)  
+- [2022-08-22-推荐-掌握这些-SpringBoot-启动扩展点，已经超过-90%-的人了](https://toutiao.io/k/3m8iq2m) ![](assets/new.png)  
+- [2022-08-22-推荐-微服务接口设计原则](https://toutiao.io/k/4hjv10p) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

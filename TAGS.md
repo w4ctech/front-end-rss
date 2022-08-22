@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-08-22 03:40:18。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-08-22 05:07:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -286,8 +286,8 @@
 - [【武汉肺炎防疫全纪录(财新网)】大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html)
 - [【张鑫旭-鑫空间-鑫生活】基于文字的URL锚点定位与::target-text样式设置](https://www.zhangxinxu.com/wordpress/2022/06/url-anchor-target-text/)
 - [【V2EX】Mac-上打开某些网页，显示“请求中包含特殊字符”，网页的绝大多数内容都无法显示，该怎么办啊？](https://www.v2ex.com/t/874491)
-- [【开发者头条】深度剖析：Kafka-请求是如何处理?-看完这篇文章彻底懂了！](https://toutiao.io/k/vcjtf6c)
 - [【开发者头条】安全架构设计的方法论](https://toutiao.io/k/ig2i9fh)
+- [【开发者头条】深度剖析：Kafka-请求是如何处理?-看完这篇文章彻底懂了！](https://toutiao.io/k/vcjtf6c)
 - [......【查看更多】......](./details/tags/browser.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -353,7 +353,6 @@
 
 
 
-- [【V2EX】全职远程-初中级后端开发工程师-招聘](https://www.v2ex.com/t/874463)
 - [【技术头条】又是面试题？对，合并有序序列。-www.felix021.com](https://blogread.cn/news/go.php?idItem=15330&url=https%3A%2F%2Fwww.felix021.com%2Fblog%2Fread.php%3F2229%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【开发者头条】推荐-京东面试：MQ-消息丢失、重复、积压问题，如何解决？](https://toutiao.io/k/1unx53z)
 - [......【查看更多】......](./details/tags/job-interview.md)

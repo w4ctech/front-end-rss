@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-22 16:17:04，:rocket: 更新条数: +2033， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-22 16:56:22，:rocket: 更新条数: +2033， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-08-22-casbin-简介](https://www.v2ex.com/t/874687) ![](assets/new.png)  
+- [2022-08-22-2022-年，各位大佬-safari-跨域数据共享有新方案？](https://www.v2ex.com/t/874686) ![](assets/new.png)  
 - [2022-08-22-TapTap（TDS）招聘前端工程师（全栈方向）](https://www.v2ex.com/t/874685) ![](assets/new.png)  
 - [2022-08-22-整了个-Markdown-文件图片处理上传工具，分享给有相同需求的小伙伴](https://www.v2ex.com/t/874683) ![](assets/new.png)  
 - [2022-08-22-Python-后端转前端，求路线](https://www.v2ex.com/t/874682) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-08-22-不坐班，远程工作-高级软件开发工程师/月薪-30-35K-RMB](https://www.v2ex.com/t/874665) ![](assets/new.png)  
 - [2022-08-22-win-下的-Linux-环境选择](https://www.v2ex.com/t/874664) ![](assets/new.png)  
 - [2022-08-22-业务系统是否真的需要-Elasticsearch?](https://www.v2ex.com/t/874663) ![](assets/new.png)  
-- [2022-08-22-转-29-套餐的有“本人同意-接受中国联通相关商业性短信和商业性电话”这个待生效服务么？](https://www.v2ex.com/t/874662) ![](assets/new.png)  
-- [2022-08-22-禁止修改绑定邮箱的合规性疑问](https://www.v2ex.com/t/874661) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

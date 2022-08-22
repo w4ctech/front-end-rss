@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-08-22 01:08:15。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-08-22 03:40:18。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 性能优化
 
@@ -7,5 +7,6 @@
 
 
 
+- [2022-08-22-各程序语言的性能差距，是否主要在于解释器/编译器？](https://www.v2ex.com/t/874499) 
 - [2022-08-22-VS-Code-是如何优化启动性能的？-fed.taobao.org](https://blogread.cn/news/go.php?idItem=15343&url=https%3A%2F%2Ffed.taobao.org%2Fblog%2Ftaofed%2Fdo71ct%2Fwpsf10%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-08-22-Api-接口优化的几个技巧](https://toutiao.io/k/nrwggst) 

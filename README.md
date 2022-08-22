@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-22 10:16:53，:rocket: 更新条数: +2034， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-22 10:45:54，:rocket: 更新条数: +2032， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,13 @@
 </summary>
 
 
+- [2022-08-22-最终还是订阅了-GitHub-的-Copilot](https://www.v2ex.com/t/874634) ![](assets/new.png)  
+- [2022-08-22-有什么适合朗读的书么](https://www.v2ex.com/t/874632) ![](assets/new.png)  
+- [2022-08-22-从北京跳槽去其他地方的同学们，（工作方面）哪些是你发现北京有的其他地方没有的？](https://www.v2ex.com/t/874629) ![](assets/new.png)  
+- [2022-08-22-大佬们-NAS-搜索文件都是怎么解决的](https://www.v2ex.com/t/874627) ![](assets/new.png)  
+- [2022-08-22-M2-合盖外接显示器问题](https://www.v2ex.com/t/874626) ![](assets/new.png)  
+- [2022-08-22-centos-停止更新-大家现在换了部署什么环境了](https://www.v2ex.com/t/874625) ![](assets/new.png)  
+- [2022-08-22-github-copilot-值得买吗？](https://www.v2ex.com/t/874624) ![](assets/new.png)  
 - [2022-08-22-如何让你的浏览器更好用？](https://www.v2ex.com/t/874623) ![](assets/new.png)  
 - [2022-08-22-Cloudflare-+-Blackblaze-b2-私有-bucket-搭建图床](https://www.v2ex.com/t/874622) ![](assets/new.png)  
 - [2022-08-22-广东电信有什么优惠的流量套餐?](https://www.v2ex.com/t/874621) ![](assets/new.png)  
@@ -504,13 +511,6 @@
 - [2022-08-22-「有趣的灵魂」收集好玩的网址。](https://www.v2ex.com/t/874611) ![](assets/new.png)  
 - [2022-08-22-请教一个关于-nginx-根据子目录进行反向代理的问题](https://www.v2ex.com/t/874610) ![](assets/new.png)  
 - [2022-08-22-go-打印-log-的一个疑问](https://www.v2ex.com/t/874608) ![](assets/new.png)  
-- [2022-08-22-关于新版红绿灯真不知道该怎么记？](https://www.v2ex.com/t/874606) ![](assets/new.png)  
-- [2022-08-22-安卓前端开发：年薪-30w-起步，单休，远程工作](https://www.v2ex.com/t/874605) ![](assets/new.png)  
-- [2022-08-22-收到疑是钓鱼网站短信](https://www.v2ex.com/t/874604) ![](assets/new.png)  
-- [2022-08-22-上海招聘-Web3-外资初创-前谷歌团队-急需-Go-后端，-web-前端](https://www.v2ex.com/t/874602) ![](assets/new.png)  
-- [2022-08-22-中国内地发行的-visa-和-master-card-是不是不能绑定-Google-pay](https://www.v2ex.com/t/874601) ![](assets/new.png)  
-- [2022-08-22-江苏移动-8-元套餐](https://www.v2ex.com/t/874600) ![](assets/new.png)  
-- [2022-08-22-想买竞价实例的云服务，-求推荐性价比高的，自己开发编译用，不必特别稳定，最好可以关机不收费的](https://www.v2ex.com/t/874599) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

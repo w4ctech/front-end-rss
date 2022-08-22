@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-22 16:56:22，:rocket: 更新条数: +2033， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-22 17:16:58，:rocket: 更新条数: +2033， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-08-22-iOS-Chase-app-卡在-splash-screen](https://www.v2ex.com/t/874688) ![](assets/new.png)  
 - [2022-08-22-casbin-简介](https://www.v2ex.com/t/874687) ![](assets/new.png)  
 - [2022-08-22-2022-年，各位大佬-safari-跨域数据共享有新方案？](https://www.v2ex.com/t/874686) ![](assets/new.png)  
 - [2022-08-22-TapTap（TDS）招聘前端工程师（全栈方向）](https://www.v2ex.com/t/874685) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-08-22-文件后缀为-.sz-格式的视频文件，如何打开](https://www.v2ex.com/t/874666) ![](assets/new.png)  
 - [2022-08-22-不坐班，远程工作-高级软件开发工程师/月薪-30-35K-RMB](https://www.v2ex.com/t/874665) ![](assets/new.png)  
 - [2022-08-22-win-下的-Linux-环境选择](https://www.v2ex.com/t/874664) ![](assets/new.png)  
-- [2022-08-22-业务系统是否真的需要-Elasticsearch?](https://www.v2ex.com/t/874663) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

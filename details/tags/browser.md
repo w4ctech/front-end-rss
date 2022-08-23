@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-08-23 13:10:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-08-23 13:57:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -16,6 +16,4 @@
 - [2022-06-12-基于文字的URL锚点定位与::target-text样式设置](https://www.zhangxinxu.com/wordpress/2022/06/url-anchor-target-text/) 
 - [2022-08-23-组内直招-武汉西安-腾讯云数据安全产品后台开发](https://www.v2ex.com/t/874888) 
 - [2022-08-23-Sandboxie-Plus-没有使用双授权，也没有说明其它开发者贡献版权归作者，只有纯-GPL-许可证，为什么可以销售商业版本？由其它开发者贡献的-commit-版权算谁的？](https://www.v2ex.com/t/874861) 
-- [2022-08-23-请教鸿蒙系统-webview-遇到前端问题，如何在没有设备的情况下调试？](https://www.v2ex.com/t/874844) 
-- [2022-08-23-iPhone-adb-调试安卓设备](https://www.v2ex.com/t/874842) 
 - [2022-08-23-浅谈API安全的应用](https://toutiao.io/k/hvhr0ls) 

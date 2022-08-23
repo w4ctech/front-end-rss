@@ -9953,6 +9953,31 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "有没有这样一种掌机，专业串流，或者 HDMI 模式。我觉得做出来会大卖",
+        "link": "https://www.v2ex.com/t/874841",
+        "date": "2022-08-23"
+      },
+      {
+        "title": "找技术合作",
+        "link": "https://www.v2ex.com/t/874839",
+        "date": "2022-08-23"
+      },
+      {
+        "title": "[内推/远程面试/500 强外企] 岗位直荐：麦当劳（中国）- IT Restaurant Solution",
+        "link": "https://www.v2ex.com/t/874838",
+        "date": "2022-08-23"
+      },
+      {
+        "title": "如何找到附近最近的电动自行车充电桩",
+        "link": "https://www.v2ex.com/t/874837",
+        "date": "2022-08-23"
+      },
+      {
+        "title": "请教一下馒头 PT 大佬",
+        "link": "https://www.v2ex.com/t/874834",
+        "date": "2022-08-23"
+      },
+      {
         "title": "陆奇博士的奇绩创业营怎么样？(参加感悟，知无不言)",
         "link": "https://www.v2ex.com/t/874833",
         "date": "2022-08-23"
@@ -10096,36 +10121,6 @@
         "title": "难道没人喷 WIN 输入法的问题嘛",
         "link": "https://www.v2ex.com/t/874792",
         "date": "2022-08-23"
-      },
-      {
-        "title": "macOS Ventura beta 日常使用体验如何？",
-        "link": "https://www.v2ex.com/t/874791",
-        "date": "2022-08-23"
-      },
-      {
-        "title": "如何添加一个右键菜单，可以将选中的文件快速带密码压缩",
-        "link": "https://www.v2ex.com/t/874788",
-        "date": "2022-08-23"
-      },
-      {
-        "title": "拿 C 被劝退了。。。",
-        "link": "https://www.v2ex.com/t/874787",
-        "date": "2022-08-23"
-      },
-      {
-        "title": "pnpm 下文件真实路径的问题",
-        "link": "https://www.v2ex.com/t/874786",
-        "date": "2022-08-23"
-      },
-      {
-        "title": "请问持有黑解，卡贴机的 iPhone 用户在使用上有没有什么问题和不方便的情况，比如信号强度和经常换卡会导致什么问题吗，每次的系统更新是否需要等待店家确认才能...",
-        "link": "https://www.v2ex.com/t/874785",
-        "date": "2022-08-23"
-      },
-      {
-        "title": "现金还是期权",
-        "link": "https://www.v2ex.com/t/874784",
-        "date": "2022-08-23"
       }
     ]
   },
@@ -10134,6 +10129,11 @@
     "title": "技术头条",
     "link": "http://blogread.cn/news/newest.php",
     "items": [
+      {
+        "title": "软件泥潭真体验 (insights.thoughtworks.cn)",
+        "link": "https://blogread.cn/news/go.php?idItem=15344&url=https%3A%2F%2Finsights.thoughtworks.cn%2Flegacy-system-operation-experience%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2022-08-23"
+      },
       {
         "title": "VS Code 是如何优化启动性能的？ (fed.taobao.org)",
         "link": "https://blogread.cn/news/go.php?idItem=15343&url=https%3A%2F%2Ffed.taobao.org%2Fblog%2Ftaofed%2Fdo71ct%2Fwpsf10%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
@@ -10228,11 +10228,6 @@
         "title": "HTTP/3 原理与实践 (www.alloyteam.com)",
         "link": "https://blogread.cn/news/go.php?idItem=15325&url=http%3A%2F%2Fwww.alloyteam.com%2F2020%2F05%2F14385%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
         "date": "2022-08-23"
-      },
-      {
-        "title": "flex-end为什么overflow无法滚动及解决方法 (www.zhangxinxu.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=15324&url=https%3A%2F%2Fwww.zhangxinxu.com%2Fwordpress%2F2021%2F12%2Fflex-end-overflow%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-08-23"
       }
     ]
   },
@@ -10312,13 +10307,13 @@
         "date": "2022-08-23"
       },
       {
-        "title": "老梗新玩「GitHub 热点速览 v.22.34」",
-        "link": "https://toutiao.io/k/so4w3op",
+        "title": "别具一格的Mobile/PC跨端开发方案，前端架构可以借鉴一波",
+        "link": "https://toutiao.io/k/ns54vyn",
         "date": "2022-08-23"
       },
       {
-        "title": "别具一格的Mobile/PC跨端开发方案，前端架构可以借鉴一波",
-        "link": "https://toutiao.io/k/ns54vyn",
+        "title": "老梗新玩「GitHub 热点速览 v.22.34」",
+        "link": "https://toutiao.io/k/so4w3op",
         "date": "2022-08-23"
       },
       {
@@ -10342,8 +10337,13 @@
         "date": "2022-08-23"
       },
       {
-        "title": "[推荐] 掌握这些 SpringBoot 启动扩展点，已经超过 90% 的人了",
-        "link": "https://toutiao.io/k/3m8iq2m",
+        "title": "[推荐] 聊聊 13 种锁的实现方式",
+        "link": "https://toutiao.io/k/wcwg3fn",
+        "date": "2022-08-23"
+      },
+      {
+        "title": "[推荐] 京东面试：MQ 消息丢失、重复、积压问题，如何解决？",
+        "link": "https://toutiao.io/k/1unx53z",
         "date": "2022-08-23"
       },
       {
@@ -10352,18 +10352,13 @@
         "date": "2022-08-23"
       },
       {
-        "title": "[推荐] 聊聊 13 种锁的实现方式",
-        "link": "https://toutiao.io/k/wcwg3fn",
-        "date": "2022-08-23"
-      },
-      {
         "title": "[推荐] 全网最全的权限系统设计方案（图解）",
         "link": "https://toutiao.io/k/lozkmee",
         "date": "2022-08-23"
       },
       {
-        "title": "[推荐] 京东面试：MQ 消息丢失、重复、积压问题，如何解决？",
-        "link": "https://toutiao.io/k/1unx53z",
+        "title": "[推荐] 掌握这些 SpringBoot 启动扩展点，已经超过 90% 的人了",
+        "link": "https://toutiao.io/k/3m8iq2m",
         "date": "2022-08-23"
       },
       {

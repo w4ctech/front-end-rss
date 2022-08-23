@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-23 08:46:21，:rocket: 更新条数: +2027， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-23 09:15:13，:rocket: 更新条数: +2026， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,11 @@
 </summary>
 
 
+- [2022-08-23-有没有这样一种掌机，专业串流，或者-HDMI-模式。我觉得做出来会大卖](https://www.v2ex.com/t/874841) ![](assets/new.png)  
+- [2022-08-23-找技术合作](https://www.v2ex.com/t/874839) ![](assets/new.png)  
+- [2022-08-23-内推/远程面试/500-强外企-岗位直荐：麦当劳（中国）--IT-Restaurant-Solution](https://www.v2ex.com/t/874838) ![](assets/new.png)  
+- [2022-08-23-如何找到附近最近的电动自行车充电桩](https://www.v2ex.com/t/874837) ![](assets/new.png)  
+- [2022-08-23-请教一下馒头-PT-大佬](https://www.v2ex.com/t/874834) ![](assets/new.png)  
 - [2022-08-23-陆奇博士的奇绩创业营怎么样？参加感悟，知无不言](https://www.v2ex.com/t/874833) ![](assets/new.png)  
 - [2022-08-23-Windows-Server-是否适合用-Docker？](https://www.v2ex.com/t/874832) ![](assets/new.png)  
 - [2022-08-23-Rust-当自定义结构体含-String-类型时-无法-derive-Copy-应该怎么解决？](https://www.v2ex.com/t/874831) ![](assets/new.png)  
@@ -506,11 +511,6 @@
 - [2022-08-23-真的是，感冒发烧，买不到药，市医院又离我太远，看病无门呐](https://www.v2ex.com/t/874817) ![](assets/new.png)  
 - [2022-08-23-请问线上-push-异常应该如何排查？](https://www.v2ex.com/t/874816) ![](assets/new.png)  
 - [2022-08-23-硅谷独角兽-Flexport-研发创始团队北京诚招有工匠精神的技术大牛Senior/Staff-Engineer](https://www.v2ex.com/t/874815) ![](assets/new.png)  
-- [2022-08-23-出-surge，-mac-版本，-ios-版本](https://www.v2ex.com/t/874813) ![](assets/new.png)  
-- [2022-08-23-MacOS-无法隐藏最后一个-app？](https://www.v2ex.com/t/874812) ![](assets/new.png)  
-- [2022-08-23-Ubuntu-apt-upgrade-如何配置只安装安全更新？](https://www.v2ex.com/t/874811) ![](assets/new.png)  
-- [2022-08-23-请各位帮忙看看我这情况需要什么配置的-mac](https://www.v2ex.com/t/874809) ![](assets/new.png)  
-- [2022-08-23-求教一些黑苹果相关问题](https://www.v2ex.com/t/874808) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -522,6 +522,7 @@
 </summary>
 
 
+- [2022-08-23-软件泥潭真体验-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15344&url=https%3A%2F%2Finsights.thoughtworks.cn%2Flegacy-system-operation-experience%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-08-23-VS-Code-是如何优化启动性能的？-fed.taobao.org](https://blogread.cn/news/go.php?idItem=15343&url=https%3A%2F%2Ffed.taobao.org%2Fblog%2Ftaofed%2Fdo71ct%2Fwpsf10%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-08-23-ICLR-2021-|-美团AutoML论文：鲁棒的神经网络架构搜索-DARTS--tech.meituan.com](https://blogread.cn/news/go.php?idItem=15342&url=https%3A%2F%2Ftech.meituan.com%2F2021%2F03%2F25%2Ficlr-2021-nas-automl-darts.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-08-23-图解-Flink-滚动窗口、会话窗口和滑动窗口-www.awaimai.com](https://blogread.cn/news/go.php?idItem=15341&url=https%3A%2F%2Fwww.awaimai.com%2F2957.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
@@ -541,7 +542,6 @@
 - [2022-08-23-关于用研岗位的思考-blog.devtang.com](https://blogread.cn/news/go.php?idItem=15327&url=https%3A%2F%2Fblog.devtang.com%2F2020%2F07%2F28%2Fabout-user-research%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-08-23-前端AB实验设计思路与实现原理-fed.taobao.org](https://blogread.cn/news/go.php?idItem=15326&url=https%3A%2F%2Ffed.taobao.org%2Fblog%2Ftaofed%2Fdo71ct%2Ffrontend-ab-test%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-08-23-HTTP/3-原理与实践-www.alloyteam.com](https://blogread.cn/news/go.php?idItem=15325&url=http%3A%2F%2Fwww.alloyteam.com%2F2020%2F05%2F14385%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-08-23-flex-end为什么overflow无法滚动及解决方法-www.zhangxinxu.com](https://blogread.cn/news/go.php?idItem=15324&url=https%3A%2F%2Fwww.zhangxinxu.com%2Fwordpress%2F2021%2F12%2Fflex-end-overflow%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -567,8 +567,8 @@
 - [2022-08-23-浅谈API安全的应用](https://toutiao.io/k/hvhr0ls) ![](assets/new.png)  
 - [2022-08-23-持续交付-2.0](https://toutiao.io/k/bjnnb01) ![](assets/new.png)  
 - [2022-08-23-用完Gradle之后，我开始嫌弃Maven了！](https://toutiao.io/k/heeojxm) ![](assets/new.png)  
-- [2022-08-23-老梗新玩「GitHub-热点速览-v.22.34」](https://toutiao.io/k/so4w3op) ![](assets/new.png)  
 - [2022-08-23-别具一格的Mobile/PC跨端开发方案，前端架构可以借鉴一波](https://toutiao.io/k/ns54vyn) ![](assets/new.png)  
+- [2022-08-23-老梗新玩「GitHub-热点速览-v.22.34」](https://toutiao.io/k/so4w3op) ![](assets/new.png)  
 - [2022-08-23-Fresh：新一代-React-全栈框架，能打败-Remix-和-Next.js-吗？](https://toutiao.io/k/9mza845) ![](assets/new.png)  
 - [2022-08-23-如何通过puppetter实现PDF聚合阅读器初始模型以及产品思维构想](https://toutiao.io/k/uc7dh10) ![](assets/new.png)  
 - [2022-08-23-一步一图带你深入剖析-JDK-NIO-ByteBuffer-在不同字节序下的设计与实现](https://toutiao.io/k/67lemmt) ![](assets/new.png)  

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-23 09:42:02，:rocket: 更新条数: +2028， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-23 10:16:30，:rocket: 更新条数: +2028， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,11 @@
 </summary>
 
 
+- [2022-08-23-是合约影响现货的价格还是现货影响合约的价格？](https://www.v2ex.com/t/874855) ![](assets/new.png)  
+- [2022-08-23-Web3北京/上海-美企元宇宙项目招聘技术开发岗位](https://www.v2ex.com/t/874854) ![](assets/new.png)  
+- [2022-08-23-请问我这种写法是否会涉及内存泄露问题？（前端）](https://www.v2ex.com/t/874853) ![](assets/new.png)  
+- [2022-08-23-以前有街旁这些签到的-app-像是现实版的大富翁游戏，不知道现在还有没有这些-app](https://www.v2ex.com/t/874852) ![](assets/new.png)  
+- [2022-08-23-MacOS-下-launchd-高磁盘写入的原因是-Spotlight](https://www.v2ex.com/t/874851) ![](assets/new.png)  
 - [2022-08-23-WeChat-会比微信更容易封号吗？](https://www.v2ex.com/t/874848) ![](assets/new.png)  
 - [2022-08-23-咸鱼上看到有卖未激活的-mba-m1-16+256，国行-7000-的，什么路子](https://www.v2ex.com/t/874847) ![](assets/new.png)  
 - [2022-08-23-一年中什么时候是买-iPad-Mini-的最好时机?](https://www.v2ex.com/t/874845) ![](assets/new.png)  
@@ -506,11 +511,6 @@
 - [2022-08-23-Windows-Server-是否适合用-Docker？](https://www.v2ex.com/t/874832) ![](assets/new.png)  
 - [2022-08-23-Rust-当自定义结构体含-String-类型时-无法-derive-Copy-应该怎么解决？](https://www.v2ex.com/t/874831) ![](assets/new.png)  
 - [2022-08-23-远程全职-招聘前端开发工程师/月薪-30-35K-RMB、全栈工程师/月薪-30-40K-RMB-等-9-个岗位](https://www.v2ex.com/t/874830) ![](assets/new.png)  
-- [2022-08-23-雅迪的换换电动车有人了解吗？](https://www.v2ex.com/t/874829) ![](assets/new.png)  
-- [2022-08-23-搬瓦工绝版-19.9-一年的-vps-转让](https://www.v2ex.com/t/874828) ![](assets/new.png)  
-- [2022-08-23-nginx-转发配置](https://www.v2ex.com/t/874826) ![](assets/new.png)  
-- [2022-08-23-想做一款相机-app，主打拍照时实时替换掉背景，后期考虑给照片加一些特效渲染、或者动态特效生成短视频，想请问大家前景如何？](https://www.v2ex.com/t/874825) ![](assets/new.png)  
-- [2022-08-23-为什么用-mean-来代表平均值而不用-avg?](https://www.v2ex.com/t/874824) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -569,8 +569,8 @@
 - [2022-08-23-用完Gradle之后，我开始嫌弃Maven了！](https://toutiao.io/k/heeojxm) ![](assets/new.png)  
 - [2022-08-23-别具一格的Mobile/PC跨端开发方案，前端架构可以借鉴一波](https://toutiao.io/k/ns54vyn) ![](assets/new.png)  
 - [2022-08-23-老梗新玩「GitHub-热点速览-v.22.34」](https://toutiao.io/k/so4w3op) ![](assets/new.png)  
-- [2022-08-23-Fresh：新一代-React-全栈框架，能打败-Remix-和-Next.js-吗？](https://toutiao.io/k/9mza845) ![](assets/new.png)  
 - [2022-08-23-如何通过puppetter实现PDF聚合阅读器初始模型以及产品思维构想](https://toutiao.io/k/uc7dh10) ![](assets/new.png)  
+- [2022-08-23-Fresh：新一代-React-全栈框架，能打败-Remix-和-Next.js-吗？](https://toutiao.io/k/9mza845) ![](assets/new.png)  
 - [2022-08-23-一步一图带你深入剖析-JDK-NIO-ByteBuffer-在不同字节序下的设计与实现](https://toutiao.io/k/67lemmt) ![](assets/new.png)  
 - [2022-08-23-在-Go-里用-CGO？这-7-个问题你要关注！](https://toutiao.io/k/3ntocla) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)

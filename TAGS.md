@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-08-23 09:42:02。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-08-23 10:16:30。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -156,6 +156,7 @@
 
 
 
+- [【V2EX】以前有街旁这些签到的-app-像是现实版的大富翁游戏，不知道现在还有没有这些-app](https://www.v2ex.com/t/874852)
 - [......【查看更多】......](./details/tags/dev-game.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -285,7 +286,6 @@
 - [【V2EX】请教鸿蒙系统-webview-遇到前端问题，如何在没有设备的情况下调试？](https://www.v2ex.com/t/874844)
 - [【V2EX】iPhone-adb-调试安卓设备](https://www.v2ex.com/t/874842)
 - [【V2EX】Ubuntu-apt-upgrade-如何配置只安装安全更新？](https://www.v2ex.com/t/874811)
-- [【V2EX】Makefile-中需要占用多个进程的-target-如何合理并行？](https://www.v2ex.com/t/874802)
 - [【开发者头条】浅谈API安全的应用](https://toutiao.io/k/hvhr0ls)
 - [......【查看更多】......](./details/tags/browser.md)
 
@@ -358,6 +358,7 @@
 
 
 
+- [【V2EX】Web3北京/上海-美企元宇宙项目招聘技术开发岗位](https://www.v2ex.com/t/874854)
 - [【技术头条】又是面试题？对，合并有序序列。-www.felix021.com](https://blogread.cn/news/go.php?idItem=15330&url=https%3A%2F%2Fwww.felix021.com%2Fblog%2Fread.php%3F2229%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【开发者头条】推荐-京东面试：MQ-消息丢失、重复、积压问题，如何解决？](https://toutiao.io/k/1unx53z)
 - [......【查看更多】......](./details/tags/job-interview.md)

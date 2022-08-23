@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-08-23 10:16:30。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-08-23 10:43:56。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -283,9 +283,9 @@
 - [【武汉肺炎防疫全纪录(财新网)】解药|新冠mRNA疫苗安全性有哪些挑战？](https://m.caixin.com/m/2021-01-08/101648043.html)
 - [【武汉肺炎防疫全纪录(财新网)】大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html)
 - [【张鑫旭-鑫空间-鑫生活】基于文字的URL锚点定位与::target-text样式设置](https://www.zhangxinxu.com/wordpress/2022/06/url-anchor-target-text/)
+- [【V2EX】Sandboxie-Plus-没有使用双授权，也没有说明其它开发者贡献版权归作者，只有纯-GPL-许可证，为什么可以销售商业版本？由其它开发者贡献的-commit-版权算谁的？](https://www.v2ex.com/t/874861)
 - [【V2EX】请教鸿蒙系统-webview-遇到前端问题，如何在没有设备的情况下调试？](https://www.v2ex.com/t/874844)
 - [【V2EX】iPhone-adb-调试安卓设备](https://www.v2ex.com/t/874842)
-- [【V2EX】Ubuntu-apt-upgrade-如何配置只安装安全更新？](https://www.v2ex.com/t/874811)
 - [【开发者头条】浅谈API安全的应用](https://toutiao.io/k/hvhr0ls)
 - [......【查看更多】......](./details/tags/browser.md)
 

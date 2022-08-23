@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-23 18:17:13，:rocket: 更新条数: +2034， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-23 18:47:24，:rocket: 更新条数: +2033， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-08-23-后端准备干全栈，前端部分有什么快速捷径](https://www.v2ex.com/t/874944) ![](assets/new.png)  
+- [2022-08-23-如果是个人电脑的话，给-bt-做种是不是格局大了点。](https://www.v2ex.com/t/874943) ![](assets/new.png)  
 - [2022-08-23-Firefox-性能为何严重低于-Chromium-系](https://www.v2ex.com/t/874941) ![](assets/new.png)  
 - [2022-08-23-win11-使用-bug-求助，关于壁纸变黑](https://www.v2ex.com/t/874940) ![](assets/new.png)  
 - [2022-08-23-家里每天这个时候-6-只小猫跑酷](https://www.v2ex.com/t/874939) ![](assets/new.png)  
@@ -501,7 +503,6 @@
 - [2022-08-23-Chrome-104-版本是不是有-CORS-BLOCKED-的-BUG？](https://www.v2ex.com/t/874934) ![](assets/new.png)  
 - [2022-08-23-go-gorm-建表问题，](https://www.v2ex.com/t/874933) ![](assets/new.png)  
 - [2022-08-23-firefox-莫名奇妙禁用安装扩展，微软账户登录服务也是一言难尽，体验最好的浏览器可能还是-google-chrome](https://www.v2ex.com/t/874932) ![](assets/new.png)  
-- [2022-08-23-球球了游戏主策大佬捞一捞，你需要能够呈现你方案的文字吧！](https://www.v2ex.com/t/874931) ![](assets/new.png)  
 - [2022-08-23-天气这么热，我的猜想](https://www.v2ex.com/t/874930) ![](assets/new.png)  
 - [2022-08-23-成都租房-张家寺地铁站口，转租，一室一厅，还有个小书房](https://www.v2ex.com/t/874929) ![](assets/new.png)  
 - [2022-08-23--轻量级防火墙咨询-](https://www.v2ex.com/t/874928) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-08-23-各位睡觉前会做啥活动呢？](https://www.v2ex.com/t/874925) ![](assets/new.png)  
 - [2022-08-23-在推特上的-V2EX-社群](https://www.v2ex.com/t/874924) ![](assets/new.png)  
 - [2022-08-23-求助-SQL-的语法的小疑问](https://www.v2ex.com/t/874923) ![](assets/new.png)  
-- [2022-08-23-好想继续读书，在外企工作了-1-年好麻木。。](https://www.v2ex.com/t/874920) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

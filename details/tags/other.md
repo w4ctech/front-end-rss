@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-08-23 21:40:07。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-08-23 22:14:17。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,7 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-08-23-不知道死后如何长时期存储个人映像资料](https://www.v2ex.com/t/874945) 
 - [2022-08-23-如果是个人电脑的话，给-bt-做种是不是格局大了点。](https://www.v2ex.com/t/874943) 
 - [2022-08-23-win11-使用-bug-求助，关于壁纸变黑](https://www.v2ex.com/t/874940) 
 - [2022-08-23-家里每天这个时候-6-只小猫跑酷](https://www.v2ex.com/t/874939) 
@@ -1941,7 +1942,6 @@
 - [2022-08-23-JMXConnectorFactory.connect-出现“-Java-.rmi.ConnectException:-Connection-refused-to-host:-localhost”](https://www.v2ex.com/t/874899) 
 - [2022-08-23-macOS-某些程序内⌘C-灰色但右键拷贝可用时可以通过键盘调用吗](https://www.v2ex.com/t/874898) 
 - [2022-08-23-请问如何使用快捷键启动后切换到-Windows-Terminal？](https://www.v2ex.com/t/874897) 
-- [2022-08-23-群晖-active-backup-恢复不了。。。](https://www.v2ex.com/t/874895) 
 - [2022-08-23-软件泥潭真体验-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15344&url=https%3A%2F%2Finsights.thoughtworks.cn%2Flegacy-system-operation-experience%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-08-23-ICLR-2021-|-美团AutoML论文：鲁棒的神经网络架构搜索-DARTS--tech.meituan.com](https://blogread.cn/news/go.php?idItem=15342&url=https%3A%2F%2Ftech.meituan.com%2F2021%2F03%2F25%2Ficlr-2021-nas-automl-darts.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-08-23-Btrfs-文件系统入门-linux.cn](https://blogread.cn/news/go.php?idItem=15340&url=https%3A%2F%2Flinux.cn%2Farticle-13440-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1970,7 +1970,7 @@
 - [2022-08-23-一步一图带你深入剖析-JDK-NIO-ByteBuffer-在不同字节序下的设计与实现](https://toutiao.io/k/67lemmt) 
 - [2022-08-23-在-Go-里用-CGO？这-7-个问题你要关注！](https://toutiao.io/k/3ntocla) 
 - [2022-08-23-推荐-微服务接口设计原则](https://toutiao.io/k/4hjv10p) 
-- [2022-08-23-推荐-聊聊-13-种锁的实现方式](https://toutiao.io/k/wcwg3fn) 
+- [2022-08-23-推荐-全网最全的权限系统设计方案（图解）](https://toutiao.io/k/lozkmee) 
 - [2022-08-23-推荐-连流量染色都没有，你说要搞微服务？](https://toutiao.io/k/9k1wfc7) 
 - [2022-08-23-推荐-掌握这些-SpringBoot-启动扩展点，已经超过-90%-的人了](https://toutiao.io/k/3m8iq2m) 
-- [2022-08-23-推荐-全网最全的权限系统设计方案（图解）](https://toutiao.io/k/lozkmee) 
+- [2022-08-23-推荐-聊聊-13-种锁的实现方式](https://toutiao.io/k/wcwg3fn) 

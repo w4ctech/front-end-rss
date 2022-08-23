@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2022-08-23 21:40:07。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-08-23 22:14:17。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-08-23-不知道死后如何长时期存储个人映像资料](https://www.v2ex.com/t/874945) 
 - [2022-08-23-后端准备干全栈，前端部分有什么快速捷径](https://www.v2ex.com/t/874944) 
 - [2022-08-23-如果是个人电脑的话，给-bt-做种是不是格局大了点。](https://www.v2ex.com/t/874943) 
 - [2022-08-23-Firefox-性能为何严重低于-Chromium-系](https://www.v2ex.com/t/874941) 
@@ -46,4 +47,3 @@
 - [2022-08-23-JMXConnectorFactory.connect-出现“-Java-.rmi.ConnectException:-Connection-refused-to-host:-localhost”](https://www.v2ex.com/t/874899) 
 - [2022-08-23-macOS-某些程序内⌘C-灰色但右键拷贝可用时可以通过键盘调用吗](https://www.v2ex.com/t/874898) 
 - [2022-08-23-请问如何使用快捷键启动后切换到-Windows-Terminal？](https://www.v2ex.com/t/874897) 
-- [2022-08-23-群晖-active-backup-恢复不了。。。](https://www.v2ex.com/t/874895) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-23 21:40:07，:rocket: 更新条数: +2033， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-23 22:14:17，:rocket: 更新条数: +2033， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-08-23-不知道死后如何长时期存储个人映像资料](https://www.v2ex.com/t/874945) ![](assets/new.png)  
 - [2022-08-23-后端准备干全栈，前端部分有什么快速捷径](https://www.v2ex.com/t/874944) ![](assets/new.png)  
 - [2022-08-23-如果是个人电脑的话，给-bt-做种是不是格局大了点。](https://www.v2ex.com/t/874943) ![](assets/new.png)  
 - [2022-08-23-Firefox-性能为何严重低于-Chromium-系](https://www.v2ex.com/t/874941) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-08-23-iOS-上不想用自带的-iCloud，哪家的云更适合付费备份照片](https://www.v2ex.com/t/874926) ![](assets/new.png)  
 - [2022-08-23-各位睡觉前会做啥活动呢？](https://www.v2ex.com/t/874925) ![](assets/new.png)  
 - [2022-08-23-在推特上的-V2EX-社群](https://www.v2ex.com/t/874924) ![](assets/new.png)  
-- [2022-08-23-求助-SQL-的语法的小疑问](https://www.v2ex.com/t/874923) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

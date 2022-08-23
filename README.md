@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-23 06:58:24，:rocket: 更新条数: +2025， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-23 07:19:27，:rocket: 更新条数: +2026， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,10 @@
 </summary>
 
 
+- [2022-08-23-成人零基础买真钢琴还是电钢琴](https://www.v2ex.com/t/874799) ![](assets/new.png)  
+- [2022-08-23-话说-Mac-上的-App-可以换字体吗？](https://www.v2ex.com/t/874797) ![](assets/new.png)  
+- [2022-08-23-求助-PHP-开发-API-管理系统相关问题](https://www.v2ex.com/t/874796) ![](assets/new.png)  
+- [2022-08-23-大家怎么看-squids.cn-这个创业模式，基于多家公有云的-ECS-来提供在线数据库服务？](https://www.v2ex.com/t/874795) ![](assets/new.png)  
 - [2022-08-23-难道没人喷-WIN-输入法的问题嘛](https://www.v2ex.com/t/874792) ![](assets/new.png)  
 - [2022-08-23-macOS-Ventura-beta-日常使用体验如何？](https://www.v2ex.com/t/874791) ![](assets/new.png)  
 - [2022-08-23-如何添加一个右键菜单，可以将选中的文件快速带密码压缩](https://www.v2ex.com/t/874788) ![](assets/new.png)  
@@ -507,10 +511,6 @@
 - [2022-08-23-YouTube-是如何实现播放存储在浏览器-IndexedDB-中的多媒体文件的](https://www.v2ex.com/t/874774) ![](assets/new.png)  
 - [2022-08-23-CF-这是没法用了啊……](https://www.v2ex.com/t/874770) ![](assets/new.png)  
 - [2022-08-23-有哪位-V-友知道深圳福田石厦、新洲这边哪有卖新大洲电动自动行车的吗？](https://www.v2ex.com/t/874769) ![](assets/new.png)  
-- [2022-08-23-推荐-10-寸以下（不包括-10-寸），轻薄-800g-以下，笔记本，易便携，充电-typec-，配置不限，能装-Linux-桌面系统即可](https://www.v2ex.com/t/874766) ![](assets/new.png)  
-- [2022-08-23-想去深圳发展，大家帮忙推荐一下深圳那个区比较好一点](https://www.v2ex.com/t/874765) ![](assets/new.png)  
-- [2022-08-23-求教-nginx-同一域名配置多端](https://www.v2ex.com/t/874762) ![](assets/new.png)  
-- [2022-08-23-手机在保修期内，被小米拒保了。](https://www.v2ex.com/t/874761) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -559,9 +559,9 @@
 - [2022-08-23-1500字简述-Apache-ZooKeeper-的基本原理](https://toutiao.io/k/rew8jt1) ![](assets/new.png)  
 - [2022-08-23-7大特征交互模型，最好的深度学习推荐算法总结](https://toutiao.io/k/br8mb1w) ![](assets/new.png)  
 - [2022-08-23-图解-Kafka-网络层源码实现机制之收发消息全过程](https://toutiao.io/k/ugeb95g) ![](assets/new.png)  
-- [2022-08-23-重新推荐一下ssseg，一个简单好用的通用分割框架](https://toutiao.io/k/qufjf59) ![](assets/new.png)  
-- [2022-08-23-你真的需要Apple-TV吗？不如自制一个Android-TV！](https://toutiao.io/k/52qhy81) ![](assets/new.png)  
 - [2022-08-23-SpringBoot-实现接口幂等性的-4-种方案！](https://toutiao.io/k/qsbb7gs) ![](assets/new.png)  
+- [2022-08-23-你真的需要Apple-TV吗？不如自制一个Android-TV！](https://toutiao.io/k/52qhy81) ![](assets/new.png)  
+- [2022-08-23-重新推荐一下ssseg，一个简单好用的通用分割框架](https://toutiao.io/k/qufjf59) ![](assets/new.png)  
 - [2022-08-23-性能大PK-count*、count1和count列](https://toutiao.io/k/r0onfek) ![](assets/new.png)  
 - [2022-08-23-如何使用-Rust-宏：深入讲解](https://toutiao.io/k/a0xntht) ![](assets/new.png)  
 - [2022-08-23-浅谈API安全的应用](https://toutiao.io/k/hvhr0ls) ![](assets/new.png)  

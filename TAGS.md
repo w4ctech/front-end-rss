@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-08-23 16:58:26。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-08-23 17:18:38。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -185,6 +185,7 @@
 - [【张鑫旭-鑫空间-鑫生活】如何继承自定义元素及其他JS中扩展新方法](https://www.zhangxinxu.com/wordpress/2022/06/js-extend-class-custom-elements/)
 - [【张鑫旭-鑫空间-鑫生活】介绍一种CSS变量未定义语法也OK的小妙招](https://www.zhangxinxu.com/wordpress/2022/06/css-var-optional-empty-trick/)
 - [【张鑫旭-鑫空间-鑫生活】如何实现页面刷新后不定位到之前的滚动位置？](https://www.zhangxinxu.com/wordpress/2022/05/history-scrollrestoration/)
+- [【V2EX】新人小白请问各位大佬，在-data-中的日期变量，应该怎样写才对-？](https://www.v2ex.com/t/874938)
 - [【V2EX】路由器里-DMZ-主机开启网址填写的跑-cdn-的-ip，内网其他-ip-的主机有风险吗](https://www.v2ex.com/t/874914)
 - [【技术头条】图解-Flink-滚动窗口、会话窗口和滑动窗口-www.awaimai.com](https://blogread.cn/news/go.php?idItem=15341&url=https%3A%2F%2Fwww.awaimai.com%2F2957.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【技术头条】再聊-Git-Flow-www.kymjs.com](https://blogread.cn/news/go.php?idItem=15336&url=https%3A%2F%2Fwww.kymjs.com%2Fmanager%2F2020%2F05%2F29%2F01%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
@@ -285,9 +286,9 @@
 - [【武汉肺炎防疫全纪录(财新网)】解药|新冠mRNA疫苗安全性有哪些挑战？](https://m.caixin.com/m/2021-01-08/101648043.html)
 - [【武汉肺炎防疫全纪录(财新网)】大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html)
 - [【张鑫旭-鑫空间-鑫生活】基于文字的URL锚点定位与::target-text样式设置](https://www.zhangxinxu.com/wordpress/2022/06/url-anchor-target-text/)
+- [【V2EX】既要也要-Python-pip-用国内的源是否安全呢?](https://www.v2ex.com/t/874937)
 - [【V2EX】Chrome-104-版本是不是有-CORS-BLOCKED-的-BUG？](https://www.v2ex.com/t/874934)
 - [【V2EX】firefox-莫名奇妙禁用安装扩展，微软账户登录服务也是一言难尽，体验最好的浏览器可能还是-google-chrome](https://www.v2ex.com/t/874932)
-- [【V2EX】组内直招-武汉西安-腾讯云数据安全产品后台开发](https://www.v2ex.com/t/874888)
 - [【开发者头条】浅谈API安全的应用](https://toutiao.io/k/hvhr0ls)
 - [......【查看更多】......](./details/tags/browser.md)
 

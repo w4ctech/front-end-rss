@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-08-23 13:57:08。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-08-23 14:14:45。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -336,6 +336,7 @@
 
 
 
+- [【V2EX】Github-Copilot-初体验,-加班不再孤单-XD](https://www.v2ex.com/t/874904)
 - [【开发者头条】老梗新玩「GitHub-热点速览-v.22.34」](https://toutiao.io/k/so4w3op)
 - [......【查看更多】......](./details/tags/git-svn.md)
 
@@ -354,7 +355,6 @@
 
 
 - [【V2EX】Web3-招聘：-web3-产品经理--杭州|远程-60-120-万](https://www.v2ex.com/t/874865)
-- [【V2EX】Web3北京/上海-美企元宇宙项目招聘技术开发岗位](https://www.v2ex.com/t/874854)
 - [【技术头条】又是面试题？对，合并有序序列。-www.felix021.com](https://blogread.cn/news/go.php?idItem=15330&url=https%3A%2F%2Fwww.felix021.com%2Fblog%2Fread.php%3F2229%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【开发者头条】推荐-京东面试：MQ-消息丢失、重复、积压问题，如何解决？](https://toutiao.io/k/1unx53z)
 - [......【查看更多】......](./details/tags/job-interview.md)

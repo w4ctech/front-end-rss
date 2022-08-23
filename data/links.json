@@ -9953,6 +9953,16 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "Github Copilot 初体验, 加班不再孤单 XD",
+        "link": "https://www.v2ex.com/t/874904",
+        "date": "2022-08-23"
+      },
+      {
+        "title": "今年的秋招是地狱难度",
+        "link": "https://www.v2ex.com/t/874903",
+        "date": "2022-08-23"
+      },
+      {
         "title": "同程打车，撸羊毛卷 优惠券",
         "link": "https://www.v2ex.com/t/874902",
         "date": "2022-08-23"
@@ -10150,16 +10160,6 @@
       {
         "title": "是合约影响现货的价格还是现货影响合约的价格？",
         "link": "https://www.v2ex.com/t/874855",
-        "date": "2022-08-23"
-      },
-      {
-        "title": "[Web3]北京/上海 美企元宇宙项目招聘技术开发岗位",
-        "link": "https://www.v2ex.com/t/874854",
-        "date": "2022-08-23"
-      },
-      {
-        "title": "请问我这种写法是否会涉及内存泄露问题？（前端）",
-        "link": "https://www.v2ex.com/t/874853",
         "date": "2022-08-23"
       }
     ]
@@ -10377,13 +10377,8 @@
         "date": "2022-08-23"
       },
       {
-        "title": "[推荐] 全网最全的权限系统设计方案（图解）",
-        "link": "https://toutiao.io/k/lozkmee",
-        "date": "2022-08-23"
-      },
-      {
-        "title": "[推荐] 京东面试：MQ 消息丢失、重复、积压问题，如何解决？",
-        "link": "https://toutiao.io/k/1unx53z",
+        "title": "[推荐] 聊聊 13 种锁的实现方式",
+        "link": "https://toutiao.io/k/wcwg3fn",
         "date": "2022-08-23"
       },
       {
@@ -10392,8 +10387,13 @@
         "date": "2022-08-23"
       },
       {
-        "title": "[推荐] 聊聊 13 种锁的实现方式",
-        "link": "https://toutiao.io/k/wcwg3fn",
+        "title": "[推荐] 掌握这些 SpringBoot 启动扩展点，已经超过 90% 的人了",
+        "link": "https://toutiao.io/k/3m8iq2m",
+        "date": "2022-08-23"
+      },
+      {
+        "title": "[推荐] 京东面试：MQ 消息丢失、重复、积压问题，如何解决？",
+        "link": "https://toutiao.io/k/1unx53z",
         "date": "2022-08-23"
       },
       {
@@ -10402,8 +10402,8 @@
         "date": "2022-08-23"
       },
       {
-        "title": "[推荐] 掌握这些 SpringBoot 启动扩展点，已经超过 90% 的人了",
-        "link": "https://toutiao.io/k/3m8iq2m",
+        "title": "[推荐] 全网最全的权限系统设计方案（图解）",
+        "link": "https://toutiao.io/k/lozkmee",
         "date": "2022-08-23"
       }
     ]

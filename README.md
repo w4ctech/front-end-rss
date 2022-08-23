@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-23 05:22:09，:rocket: 更新条数: +2027， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-23 06:09:05，:rocket: 更新条数: +2027， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,11 @@
 </summary>
 
 
+- [2022-08-23-怎样排查-Linux-下的系统盘是否掉盘？](https://www.v2ex.com/t/874778) ![](assets/new.png)  
+- [2022-08-23-怎样才能让我的-docker-走代理](https://www.v2ex.com/t/874777) ![](assets/new.png)  
+- [2022-08-23-国内上架安卓-APP-怎么这么麻烦？！](https://www.v2ex.com/t/874776) ![](assets/new.png)  
+- [2022-08-23-拯救者-Y2022P-的-USB-C-不可以给-airpods-pro-充电](https://www.v2ex.com/t/874775) ![](assets/new.png)  
+- [2022-08-23-YouTube-是如何实现播放存储在浏览器-IndexedDB-中的多媒体文件的](https://www.v2ex.com/t/874774) ![](assets/new.png)  
 - [2022-08-23-CF-这是没法用了啊……](https://www.v2ex.com/t/874770) ![](assets/new.png)  
 - [2022-08-23-有哪位-V-友知道深圳福田石厦、新洲这边哪有卖新大洲电动自动行车的吗？](https://www.v2ex.com/t/874769) ![](assets/new.png)  
 - [2022-08-23-推荐-10-寸以下（不包括-10-寸），轻薄-800g-以下，笔记本，易便携，充电-typec-，配置不限，能装-Linux-桌面系统即可](https://www.v2ex.com/t/874766) ![](assets/new.png)  
@@ -506,11 +511,6 @@
 - [2022-08-23-用-ffmpeg-转换-mkv，-QuickTime-播放-HDR-视频](https://www.v2ex.com/t/874754) ![](assets/new.png)  
 - [2022-08-23-想体验下安卓手机，有什么推荐么](https://www.v2ex.com/t/874753) ![](assets/new.png)  
 - [2022-08-23-pymysql-executemany-也是蛮耿直的](https://www.v2ex.com/t/874752) ![](assets/new.png)  
-- [2022-08-23-whois-登记的-REGISTRANT-CITY，-REGISTRANT-STATE-和实际访客来源国-不一样。](https://www.v2ex.com/t/874751) ![](assets/new.png)  
-- [2022-08-23-无锡招聘前端工程师一名-3-年经验左右-10-13k-月薪](https://www.v2ex.com/t/874748) ![](assets/new.png)  
-- [2022-08-23-echarts.apache.org-网站中这个页面的入口在哪？](https://www.v2ex.com/t/874747) ![](assets/new.png)  
-- [2022-08-23-笔记软件-Craft-Pro-教育优惠-Back-to-school-活动限时免费](https://www.v2ex.com/t/874746) ![](assets/new.png)  
-- [2022-08-23-发一些我们公司副总的迷惑行为给大家乐呵乐呵](https://www.v2ex.com/t/874745) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -561,8 +561,8 @@
 - [2022-08-23-重新推荐一下ssseg，一个简单好用的通用分割框架](https://toutiao.io/k/qufjf59) ![](assets/new.png)  
 - [2022-08-23-你真的需要Apple-TV吗？不如自制一个Android-TV！](https://toutiao.io/k/52qhy81) ![](assets/new.png)  
 - [2022-08-23-图解-Kafka-网络层源码实现机制之收发消息全过程](https://toutiao.io/k/ugeb95g) ![](assets/new.png)  
-- [2022-08-23-如何使用-Rust-宏：深入讲解](https://toutiao.io/k/a0xntht) ![](assets/new.png)  
 - [2022-08-23-SpringBoot-实现接口幂等性的-4-种方案！](https://toutiao.io/k/qsbb7gs) ![](assets/new.png)  
+- [2022-08-23-如何使用-Rust-宏：深入讲解](https://toutiao.io/k/a0xntht) ![](assets/new.png)  
 - [2022-08-23-性能大PK-count*、count1和count列](https://toutiao.io/k/r0onfek) ![](assets/new.png)  
 - [2022-08-23-浅谈API安全的应用](https://toutiao.io/k/hvhr0ls) ![](assets/new.png)  
 - [2022-08-23-持续交付-2.0](https://toutiao.io/k/bjnnb01) ![](assets/new.png)  
@@ -570,9 +570,9 @@
 - [2022-08-23-用完Gradle之后，我开始嫌弃Maven了！](https://toutiao.io/k/heeojxm) ![](assets/new.png)  
 - [2022-08-23-别具一格的Mobile/PC跨端开发方案，前端架构可以借鉴一波](https://toutiao.io/k/ns54vyn) ![](assets/new.png)  
 - [2022-08-23-Fresh：新一代-React-全栈框架，能打败-Remix-和-Next.js-吗？](https://toutiao.io/k/9mza845) ![](assets/new.png)  
-- [2022-08-23-推荐-微服务接口设计原则](https://toutiao.io/k/4hjv10p) ![](assets/new.png)  
-- [2022-08-23-推荐-全网最全的权限系统设计方案（图解）](https://toutiao.io/k/lozkmee) ![](assets/new.png)  
-- [2022-08-23-推荐-聊聊-13-种锁的实现方式](https://toutiao.io/k/wcwg3fn) ![](assets/new.png)  
+- [2022-08-23-如何通过puppetter实现PDF聚合阅读器初始模型以及产品思维构想](https://toutiao.io/k/uc7dh10) ![](assets/new.png)  
+- [2022-08-23-一步一图带你深入剖析-JDK-NIO-ByteBuffer-在不同字节序下的设计与实现](https://toutiao.io/k/67lemmt) ![](assets/new.png)  
+- [2022-08-23-在-Go-里用-CGO？这-7-个问题你要关注！](https://toutiao.io/k/3ntocla) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

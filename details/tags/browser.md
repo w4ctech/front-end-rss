@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-08-23 08:19:33。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-08-23 08:46:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -16,5 +16,4 @@
 - [2022-06-12-基于文字的URL锚点定位与::target-text样式设置](https://www.zhangxinxu.com/wordpress/2022/06/url-anchor-target-text/) 
 - [2022-08-23-Ubuntu-apt-upgrade-如何配置只安装安全更新？](https://www.v2ex.com/t/874811) 
 - [2022-08-23-Makefile-中需要占用多个进程的-target-如何合理并行？](https://www.v2ex.com/t/874802) 
-- [2022-08-23-YouTube-是如何实现播放存储在浏览器-IndexedDB-中的多媒体文件的](https://www.v2ex.com/t/874774) 
 - [2022-08-23-浅谈API安全的应用](https://toutiao.io/k/hvhr0ls) 

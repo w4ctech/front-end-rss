@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-08-23 08:19:33。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-08-23 08:46:22。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -242,6 +242,7 @@
 
 - [【武汉肺炎防疫全纪录(财新网)】广州17岁男生在定点医院参加高考-特殊考场视频监考](https://m.caixin.com/m/2021-06-05/101723418.html)
 - [【武汉肺炎防疫全纪录(财新网)】林郑月娥率13高官直播接种科兴疫苗-复星疫苗预计周中到港](https://m.caixin.com/m/2021-02-22/101665724.html)
+- [【V2EX】想做一款相机-app，主打拍照时实时替换掉背景，后期考虑给照片加一些特效渲染、或者动态特效生成短视频，想请问大家前景如何？](https://www.v2ex.com/t/874825)
 - [......【查看更多】......](./details/tags/audio-video.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -285,7 +286,6 @@
 - [【张鑫旭-鑫空间-鑫生活】基于文字的URL锚点定位与::target-text样式设置](https://www.zhangxinxu.com/wordpress/2022/06/url-anchor-target-text/)
 - [【V2EX】Ubuntu-apt-upgrade-如何配置只安装安全更新？](https://www.v2ex.com/t/874811)
 - [【V2EX】Makefile-中需要占用多个进程的-target-如何合理并行？](https://www.v2ex.com/t/874802)
-- [【V2EX】YouTube-是如何实现播放存储在浏览器-IndexedDB-中的多媒体文件的](https://www.v2ex.com/t/874774)
 - [【开发者头条】浅谈API安全的应用](https://toutiao.io/k/hvhr0ls)
 - [......【查看更多】......](./details/tags/browser.md)
 
@@ -303,6 +303,7 @@
 
 
 
+- [【V2EX】远程全职-招聘前端开发工程师/月薪-30-35K-RMB、全栈工程师/月薪-30-40K-RMB-等-9-个岗位](https://www.v2ex.com/t/874830)
 - [【技术头条】HTTP/3-原理与实践-www.alloyteam.com](https://blogread.cn/news/go.php?idItem=15325&url=http%3A%2F%2Fwww.alloyteam.com%2F2020%2F05%2F14385%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【开发者头条】7大特征交互模型，最好的深度学习推荐算法总结](https://toutiao.io/k/br8mb1w)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
@@ -321,7 +322,8 @@
 
 
 
-- [【V2EX】怎样才能让我的-docker-走代理](https://www.v2ex.com/t/874777)
+- [【V2EX】Windows-Server-是否适合用-Docker？](https://www.v2ex.com/t/874832)
+- [【V2EX】nginx-转发配置](https://www.v2ex.com/t/874826)
 - [......【查看更多】......](./details/tags/server.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

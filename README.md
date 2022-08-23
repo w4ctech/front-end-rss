@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-23 11:38:48，:rocket: 更新条数: +2033， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-23 12:26:37，:rocket: 更新条数: +2030， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,11 @@
 </summary>
 
 
+- [2022-08-23-如何利用机器学习识别异常的销售行为？](https://www.v2ex.com/t/874879) ![](assets/new.png)  
+- [2022-08-23-本来还想给朋友发馒头💊，结果自己-40-天未登录被禁了。。](https://www.v2ex.com/t/874878) ![](assets/new.png)  
+- [2022-08-23-Google-pixel-6a-无法接听或拨打电话](https://www.v2ex.com/t/874877) ![](assets/new.png)  
+- [2022-08-23-Fluent-Emoji-Maker:-一个-Fluent-风格-Emoji-表情生成器](https://www.v2ex.com/t/874876) ![](assets/new.png)  
+- [2022-08-23-想写一个搜索本地文档的网站，有什么好的实现方式？](https://www.v2ex.com/t/874874) ![](assets/new.png)  
 - [2022-08-23-M2-MBP-13-和-M2-MBA-纠结](https://www.v2ex.com/t/874873) ![](assets/new.png)  
 - [2022-08-23-写了个-YouTube-转发器，目前可以看非直播的公开的视频，国内可以访问。除了平时给国内的父母发点视频看，还有什么别的用处？](https://www.v2ex.com/t/874872) ![](assets/new.png)  
 - [2022-08-23-macos-连接摄像头有没有去频闪的软件或者相关设置？](https://www.v2ex.com/t/874870) ![](assets/new.png)  
@@ -504,13 +509,8 @@
 - [2022-08-23-苹果手机的傲慢,隐私与便利:通话录音,NFC-复制门禁卡,红外线功能-真难](https://www.v2ex.com/t/874862) ![](assets/new.png)  
 - [2022-08-23-Sandboxie-Plus-没有使用双授权，也没有说明其它开发者贡献版权归作者，只有纯-GPL-许可证，为什么可以销售商业版本？由其它开发者贡献的-commit-版权算谁的？](https://www.v2ex.com/t/874861) ![](assets/new.png)  
 - [2022-08-23-因为没能上车联通大王卡，想问下-JD-上-19/29-的百-G-流量卡有咩有什么坑？](https://www.v2ex.com/t/874860) ![](assets/new.png)  
-- [2022-08-23-重庆全员核酸了-😂](https://www.v2ex.com/t/874859) ![](assets/new.png)  
 - [2022-08-23-有在北京郊区租房的朋友不，大兴区、通州区、顺义区、昌平区、门头沟区、房山区、怀柔区、平谷区、密云区以及延庆区这些。](https://www.v2ex.com/t/874857) ![](assets/new.png)  
 - [2022-08-23-只是感慨，现在的后浪怎么都这么强](https://www.v2ex.com/t/874856) ![](assets/new.png)  
-- [2022-08-23-是合约影响现货的价格还是现货影响合约的价格？](https://www.v2ex.com/t/874855) ![](assets/new.png)  
-- [2022-08-23-Web3北京/上海-美企元宇宙项目招聘技术开发岗位](https://www.v2ex.com/t/874854) ![](assets/new.png)  
-- [2022-08-23-请问我这种写法是否会涉及内存泄露问题？（前端）](https://www.v2ex.com/t/874853) ![](assets/new.png)  
-- [2022-08-23-以前有街旁这些签到的-app-像是现实版的大富翁游戏，不知道现在还有没有这些-app](https://www.v2ex.com/t/874852) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

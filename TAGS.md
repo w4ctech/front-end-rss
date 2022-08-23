@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-08-23 11:38:48。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-08-23 12:26:37。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -242,7 +242,6 @@
 - [【武汉肺炎防疫全纪录(财新网)】林郑月娥率13高官直播接种科兴疫苗-复星疫苗预计周中到港](https://m.caixin.com/m/2021-02-22/101665724.html)
 - [【V2EX】写了个-YouTube-转发器，目前可以看非直播的公开的视频，国内可以访问。除了平时给国内的父母发点视频看，还有什么别的用处？](https://www.v2ex.com/t/874872)
 - [【V2EX】macos-连接摄像头有没有去频闪的软件或者相关设置？](https://www.v2ex.com/t/874870)
-- [【V2EX】想做一款相机-app，主打拍照时实时替换掉背景，后期考虑给照片加一些特效渲染、或者动态特效生成短视频，想请问大家前景如何？](https://www.v2ex.com/t/874825)
 - [......【查看更多】......](./details/tags/audio-video.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -304,7 +303,6 @@
 
 
 
-- [【V2EX】远程全职-招聘前端开发工程师/月薪-30-35K-RMB、全栈工程师/月薪-30-40K-RMB-等-9-个岗位](https://www.v2ex.com/t/874830)
 - [【技术头条】HTTP/3-原理与实践-www.alloyteam.com](https://blogread.cn/news/go.php?idItem=15325&url=http%3A%2F%2Fwww.alloyteam.com%2F2020%2F05%2F14385%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【开发者头条】7大特征交互模型，最好的深度学习推荐算法总结](https://toutiao.io/k/br8mb1w)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
@@ -325,7 +323,6 @@
 
 - [【V2EX】内推/远程面试/500-强外企-岗位直荐：麦当劳（中国）--IT-Restaurant-Solution](https://www.v2ex.com/t/874838)
 - [【V2EX】Windows-Server-是否适合用-Docker？](https://www.v2ex.com/t/874832)
-- [【V2EX】nginx-转发配置](https://www.v2ex.com/t/874826)
 - [......【查看更多】......](./details/tags/server.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

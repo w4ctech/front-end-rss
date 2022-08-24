@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-08-24 09:15:52。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-08-24 09:41:47。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -302,7 +302,6 @@
 
 
 
-- [【V2EX】新加坡-各类技术岗位-DevOps/SRE/Security/DBA/基础架构/搜广推算法/大数据开发工程师，-P6-P9](https://www.v2ex.com/t/875065)
 - [【技术头条】HTTP/3-原理与实践-www.alloyteam.com](https://blogread.cn/news/go.php?idItem=15325&url=http%3A%2F%2Fwww.alloyteam.com%2F2020%2F05%2F14385%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【开发者头条】深入解读新一代全栈框架-Fresh](https://toutiao.io/k/yu1dzll)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
@@ -355,8 +354,8 @@
 
 
 
+- [【V2EX】全职远程招聘-Angular-前端和-Java-后端工程师](https://www.v2ex.com/t/875112)
 - [【V2EX】求教，应届毕业生面试定岗一定要线下面谈么？](https://www.v2ex.com/t/875102)
-- [【V2EX】内推/远程面试/500-强外企-岗位直荐：捷豹路虎（中国）-智能驾驶系统工程师](https://www.v2ex.com/t/875067)
 - [【技术头条】又是面试题？对，合并有序序列。-www.felix021.com](https://blogread.cn/news/go.php?idItem=15330&url=https%3A%2F%2Fwww.felix021.com%2Fblog%2Fread.php%3F2229%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [......【查看更多】......](./details/tags/job-interview.md)
 

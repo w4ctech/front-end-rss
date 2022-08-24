@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-24 12:27:07，:rocket: 更新条数: +2029， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-24 13:10:22，:rocket: 更新条数: +2028， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,11 @@
 </summary>
 
 
+- [2022-08-24-发现一个-AI-工具箱还不错](https://www.v2ex.com/t/875164) ![](assets/new.png)  
+- [2022-08-24-招聘-Electron-开发工程师](https://www.v2ex.com/t/875163) ![](assets/new.png)  
+- [2022-08-24-Apple-Silicon-macOS-怎么从-Dock-和-App-Switcher-隐藏-icon？](https://www.v2ex.com/t/875161) ![](assets/new.png)  
+- [2022-08-24-第四方支付是什么东东？](https://www.v2ex.com/t/875159) ![](assets/new.png)  
+- [2022-08-24-写了个支持链式代理的隧道工具](https://www.v2ex.com/t/875158) ![](assets/new.png)  
 - [2022-08-24-编译内核修复-Thinkbook-14+-6800h-键盘问题](https://www.v2ex.com/t/875156) ![](assets/new.png)  
 - [2022-08-24-有人遇到过-Telegram-卡死-iOS-系统的问题吗?](https://www.v2ex.com/t/875153) ![](assets/new.png)  
 - [2022-08-24-Chrome-控制台这里是-bug-吗](https://www.v2ex.com/t/875152) ![](assets/new.png)  
@@ -506,11 +511,6 @@
 - [2022-08-24-经过几番折腾，-GitHub-终于把我学生资格转回来了](https://www.v2ex.com/t/875138) ![](assets/new.png)  
 - [2022-08-24-libzip-的-1.3.1-和-1.7.0-版本有什么问题？](https://www.v2ex.com/t/875137) ![](assets/new.png)  
 - [2022-08-24-掌阅等级礼包推荐书的规律](https://www.v2ex.com/t/875135) ![](assets/new.png)  
-- [2022-08-24-日经帖：应届生当下-Java-和-c++的选择？](https://www.v2ex.com/t/875134) ![](assets/new.png)  
-- [2022-08-24-macOS-的自动夜览会失效，很奇怪](https://www.v2ex.com/t/875133) ![](assets/new.png)  
-- [2022-08-24-群发简历到一百家公司，忘了勾上「分别发送」了，那-HR-看到收件人有一百个其他公司的-HR，他们会怎么想呢……](https://www.v2ex.com/t/875132) ![](assets/new.png)  
-- [2022-08-24-在-virtualbox-中如何使两台电脑间用同一份-windows-虚拟机?](https://www.v2ex.com/t/875130) ![](assets/new.png)  
-- [2022-08-24-出京东全新的笔记本内存条-ddr4-2666](https://www.v2ex.com/t/875129) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -569,8 +569,8 @@
 - [2022-08-24-35岁程序员危机，有何破解之法](https://toutiao.io/k/oy6iryp) ![](assets/new.png)  
 - [2022-08-24-【第2708期】企业级包管理服务-cnpmcore](https://toutiao.io/k/6rxsfyv) ![](assets/new.png)  
 - [2022-08-24-变量取名神器——CODEIF](https://toutiao.io/k/70x5569) ![](assets/new.png)  
-- [2022-08-24-深入解读新一代全栈框架-Fresh](https://toutiao.io/k/yu1dzll) ![](assets/new.png)  
 - [2022-08-24-Go-Test:-从入门到躺平](https://toutiao.io/k/nw6o5bq) ![](assets/new.png)  
+- [2022-08-24-深入解读新一代全栈框架-Fresh](https://toutiao.io/k/yu1dzll) ![](assets/new.png)  
 - [2022-08-24-批流一体数据集成框架ChunJun数据传输模块详解分享丨直播回顾](https://toutiao.io/k/4bopo73) ![](assets/new.png)  
 - [2022-08-24-推荐-微服务接口设计原则](https://toutiao.io/k/4hjv10p) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)

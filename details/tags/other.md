@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-08-24 23:04:40。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-08-24 23:14:55。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1968,8 +1968,8 @@
 - [2022-08-24-【萌新解题】两数相加-II](https://toutiao.io/k/ng4scbp) 
 - [2022-08-24-做好系统联试，可以弥补漏测的风险](https://toutiao.io/k/otwrtbh) 
 - [2022-08-24-Go-Test:-从入门到躺平](https://toutiao.io/k/nw6o5bq) 
-- [2022-08-24-推荐-微服务接口设计原则](https://toutiao.io/k/4hjv10p) 
-- [2022-08-24-推荐-掌握这些-SpringBoot-启动扩展点，已经超过-90%-的人了](https://toutiao.io/k/3m8iq2m) 
 - [2022-08-24-推荐-全网最全的权限系统设计方案（图解）](https://toutiao.io/k/lozkmee) 
-- [2022-08-24-推荐-聊聊-13-种锁的实现方式](https://toutiao.io/k/wcwg3fn) 
 - [2022-08-24-推荐-「架构选型」5-种-API-网关技术选型](https://toutiao.io/k/a4v7vsf) 
+- [2022-08-24-推荐-掌握这些-SpringBoot-启动扩展点，已经超过-90%-的人了](https://toutiao.io/k/3m8iq2m) 
+- [2022-08-24-推荐-聊聊-13-种锁的实现方式](https://toutiao.io/k/wcwg3fn) 
+- [2022-08-24-推荐-微服务接口设计原则](https://toutiao.io/k/4hjv10p) 

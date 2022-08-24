@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-24 05:11:22，:rocket: 更新条数: +2023， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-24 05:58:15，:rocket: 更新条数: +2025， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,10 @@
 </summary>
 
 
+- [2022-08-24-微信没有自动登陆-免手机验证的选项了,-这个是什么问题?](https://www.v2ex.com/t/875045) ![](assets/new.png)  
+- [2022-08-24-哪个运营商能在深圳地铁上打游戏](https://www.v2ex.com/t/875044) ![](assets/new.png)  
+- [2022-08-24-103g-通用流量+100-分钟通话，月租-29。坑在哪](https://www.v2ex.com/t/875043) ![](assets/new.png)  
+- [2022-08-24-V-友们帮忙做个-3-分钟小调研](https://www.v2ex.com/t/875042) ![](assets/new.png)  
 - [2022-08-24-楼道养猫，臭死了，有好办法吗](https://www.v2ex.com/t/875041) ![](assets/new.png)  
 - [2022-08-24-请问一下用过-AdGuard-桌面版的老哥们，这-App-和-ClashX-Pro-是不是有冲突？](https://www.v2ex.com/t/875040) ![](assets/new.png)  
 - [2022-08-24-有人日常用-nushell-吗](https://www.v2ex.com/t/875039) ![](assets/new.png)  
@@ -507,10 +511,6 @@
 - [2022-08-24-只有前端，后端和数据使用云服务，这个云服务的技术名字是什么？云函数?](https://www.v2ex.com/t/875027) ![](assets/new.png)  
 - [2022-08-24-程序调用-kernel32.dll-来判断-Windows-版本，有哪些方法可以绕过？](https://www.v2ex.com/t/875026) ![](assets/new.png)  
 - [2022-08-24-Java-mysql-连不上报错不知道-ip](https://www.v2ex.com/t/875023) ![](assets/new.png)  
-- [2022-08-24-如何避免冲动消费](https://www.v2ex.com/t/875021) ![](assets/new.png)  
-- [2022-08-24-文章分享，晚点《黄峥出海前传，拼多多兄弟公司往事》](https://www.v2ex.com/t/875020) ![](assets/new.png)  
-- [2022-08-24-腾讯企业邮箱退信邮件中，-eml-附件下载后内容乱码了](https://www.v2ex.com/t/875018) ![](assets/new.png)  
-- [2022-08-24-求-Golang-官方包使用及源码解读相关的一些学习资料](https://www.v2ex.com/t/875016) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -568,11 +568,11 @@
 - [2022-08-24-35岁程序员危机，有何破解之法](https://toutiao.io/k/oy6iryp) ![](assets/new.png)  
 - [2022-08-24-下一代微服务框架-Dapr-中文入门指南](https://toutiao.io/k/ee34snc) ![](assets/new.png)  
 - [2022-08-24-【第2708期】企业级包管理服务-cnpmcore](https://toutiao.io/k/6rxsfyv) ![](assets/new.png)  
+- [2022-08-24-推荐-全网最全的权限系统设计方案（图解）](https://toutiao.io/k/lozkmee) ![](assets/new.png)  
 - [2022-08-24-推荐-连流量染色都没有，你说要搞微服务？](https://toutiao.io/k/9k1wfc7) ![](assets/new.png)  
-- [2022-08-24-推荐-微服务接口设计原则](https://toutiao.io/k/4hjv10p) ![](assets/new.png)  
-- [2022-08-24-推荐-掌握这些-SpringBoot-启动扩展点，已经超过-90%-的人了](https://toutiao.io/k/3m8iq2m) ![](assets/new.png)  
-- [2022-08-24-推荐-「架构选型」5-种-API-网关技术选型](https://toutiao.io/k/a4v7vsf) ![](assets/new.png)  
 - [2022-08-24-推荐-聊聊-13-种锁的实现方式](https://toutiao.io/k/wcwg3fn) ![](assets/new.png)  
+- [2022-08-24-推荐-「架构选型」5-种-API-网关技术选型](https://toutiao.io/k/a4v7vsf) ![](assets/new.png)  
+- [2022-08-24-推荐-掌握这些-SpringBoot-启动扩展点，已经超过-90%-的人了](https://toutiao.io/k/3m8iq2m) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

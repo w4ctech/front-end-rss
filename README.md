@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-24 10:16:59，:rocket: 更新条数: +2031， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-24 10:44:30，:rocket: 更新条数: +2031， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,12 @@
 </summary>
 
 
+- [2022-08-24-macOS-的自动夜览会失效，很奇怪](https://www.v2ex.com/t/875133) ![](assets/new.png)  
+- [2022-08-24-群发简历到一百家公司，忘了勾上「分别发送」了，那-HR-看到收件人有一百个其他公司的-HR，他们会怎么想呢……](https://www.v2ex.com/t/875132) ![](assets/new.png)  
+- [2022-08-24-在-virtualbox-中如何使两台电脑间用同一份-windows-虚拟机?](https://www.v2ex.com/t/875130) ![](assets/new.png)  
+- [2022-08-24-出京东全新的笔记本内存条-ddr4-2666](https://www.v2ex.com/t/875129) ![](assets/new.png)  
+- [2022-08-24-怎么区分自己写的软件是否是公司财产](https://www.v2ex.com/t/875128) ![](assets/new.png)  
+- [2022-08-24-请指点-M1-Air-购买](https://www.v2ex.com/t/875127) ![](assets/new.png)  
 - [2022-08-24-Maven-没有-weblogic-依赖吗？](https://www.v2ex.com/t/875125) ![](assets/new.png)  
 - [2022-08-24-AirPos-维修现在靠谱吗？](https://www.v2ex.com/t/875124) ![](assets/new.png)  
 - [2022-08-24-友友们，想换一个拍照好点的手机](https://www.v2ex.com/t/875123) ![](assets/new.png)  
@@ -505,12 +511,6 @@
 - [2022-08-24-全职远程招聘-Angular-前端和-Java-后端工程师](https://www.v2ex.com/t/875112) ![](assets/new.png)  
 - [2022-08-24-Linux-内核的-x86-启动代码中的-trampoline-是什么意思？](https://www.v2ex.com/t/875110) ![](assets/new.png)  
 - [2022-08-24-挂了代理，-clone-速度很快，但是-ping-不通](https://www.v2ex.com/t/875109) ![](assets/new.png)  
-- [2022-08-24-江西-cn2-家宽断网](https://www.v2ex.com/t/875108) ![](assets/new.png)  
-- [2022-08-24-飞书批量下载](https://www.v2ex.com/t/875107) ![](assets/new.png)  
-- [2022-08-24-是否找下家的烦恼](https://www.v2ex.com/t/875106) ![](assets/new.png)  
-- [2022-08-24-求问江苏移动的-NAT](https://www.v2ex.com/t/875105) ![](assets/new.png)  
-- [2022-08-24-请教如何为-shell-脚本传入长参数？](https://www.v2ex.com/t/875104) ![](assets/new.png)  
-- [2022-08-24-Hyper-v-宿主机重装系统后，无法导入虚拟机文件](https://www.v2ex.com/t/875103) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -557,8 +557,8 @@
 - [2022-08-24-Binlog-的三个业务应用场景](https://toutiao.io/k/wzfse2x) ![](assets/new.png)  
 - [2022-08-24-大厂基本功-|-MySQL-三大日志-binlog、redo-log-和-undo-log-的作用？](https://toutiao.io/k/o1494l7) ![](assets/new.png)  
 - [2022-08-24-Redis-定长队列的探索和实践](https://toutiao.io/k/eink2lm) ![](assets/new.png)  
-- [2022-08-24-记一次-ClickHouse-性能测试](https://toutiao.io/k/2pzdh5q) ![](assets/new.png)  
 - [2022-08-24-60+张PPT，教你如何搭建Spark离线数仓！](https://toutiao.io/k/zf2arb6) ![](assets/new.png)  
+- [2022-08-24-记一次-ClickHouse-性能测试](https://toutiao.io/k/2pzdh5q) ![](assets/new.png)  
 - [2022-08-24-你的-golang-程序正在悄悄内存泄漏](https://toutiao.io/k/95kkykp) ![](assets/new.png)  
 - [2022-08-24-一分钟说完JSONP请求，面试满分答案](https://toutiao.io/k/xavkd9t) ![](assets/new.png)  
 - [2022-08-24-下一代微服务框架-Dapr-中文入门指南](https://toutiao.io/k/ee34snc) ![](assets/new.png)  
@@ -572,7 +572,7 @@
 - [2022-08-24-深入解读新一代全栈框架-Fresh](https://toutiao.io/k/yu1dzll) ![](assets/new.png)  
 - [2022-08-24-Go-Test:-从入门到躺平](https://toutiao.io/k/nw6o5bq) ![](assets/new.png)  
 - [2022-08-24-批流一体数据集成框架ChunJun数据传输模块详解分享丨直播回顾](https://toutiao.io/k/4bopo73) ![](assets/new.png)  
-- [2022-08-24-推荐-微服务接口设计原则](https://toutiao.io/k/4hjv10p) ![](assets/new.png)  
+- [2022-08-24-推荐-掌握这些-SpringBoot-启动扩展点，已经超过-90%-的人了](https://toutiao.io/k/3m8iq2m) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

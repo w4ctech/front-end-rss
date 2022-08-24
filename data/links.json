@@ -9953,6 +9953,36 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "macOS 的自动夜览会失效，很奇怪",
+        "link": "https://www.v2ex.com/t/875133",
+        "date": "2022-08-24"
+      },
+      {
+        "title": "群发简历到一百家公司，忘了勾上「分别发送」了，那 HR 看到收件人有一百个其他公司的 HR，他们会怎么想呢……",
+        "link": "https://www.v2ex.com/t/875132",
+        "date": "2022-08-24"
+      },
+      {
+        "title": "在 virtualbox 中如何使两台电脑间用同一份 windows 虚拟机?",
+        "link": "https://www.v2ex.com/t/875130",
+        "date": "2022-08-24"
+      },
+      {
+        "title": "出京东全新的笔记本内存条 ddr4 2666",
+        "link": "https://www.v2ex.com/t/875129",
+        "date": "2022-08-24"
+      },
+      {
+        "title": "怎么区分自己写的软件是否是公司财产",
+        "link": "https://www.v2ex.com/t/875128",
+        "date": "2022-08-24"
+      },
+      {
+        "title": "请指点 M1 Air 购买",
+        "link": "https://www.v2ex.com/t/875127",
+        "date": "2022-08-24"
+      },
+      {
         "title": "Maven 没有 weblogic 依赖吗？",
         "link": "https://www.v2ex.com/t/875125",
         "date": "2022-08-24"
@@ -10121,36 +10151,6 @@
         "title": "今天 A 股怎么了？",
         "link": "https://www.v2ex.com/t/875084",
         "date": "2022-08-24"
-      },
-      {
-        "title": "出掉 MBP2018，入手 MBA2022，可行？中轻度办公家用",
-        "link": "https://www.v2ex.com/t/875083",
-        "date": "2022-08-24"
-      },
-      {
-        "title": "[上海][TapTap] iOS 端急招负责人",
-        "link": "https://www.v2ex.com/t/875082",
-        "date": "2022-08-24"
-      },
-      {
-        "title": "散热背夹会导致手机进水吗？",
-        "link": "https://www.v2ex.com/t/875081",
-        "date": "2022-08-24"
-      },
-      {
-        "title": "为什么微信支付 JSAPI 不使用 prepay_id 直接调起支付，还要带一堆签名？",
-        "link": "https://www.v2ex.com/t/875079",
-        "date": "2022-08-24"
-      },
-      {
-        "title": "美国 IP 搬瓦工绝版 $18.74 vps 30 元转让",
-        "link": "https://www.v2ex.com/t/875078",
-        "date": "2022-08-24"
-      },
-      {
-        "title": "win10 多桌面状态下，打开文件之类的，有办法强制在当前窗口下打开嘛？",
-        "link": "https://www.v2ex.com/t/875076",
-        "date": "2022-08-24"
       }
     ]
   },
@@ -10287,13 +10287,13 @@
         "date": "2022-08-24"
       },
       {
-        "title": "记一次 ClickHouse 性能测试",
-        "link": "https://toutiao.io/k/2pzdh5q",
+        "title": "60+张PPT，教你如何搭建Spark离线数仓！",
+        "link": "https://toutiao.io/k/zf2arb6",
         "date": "2022-08-24"
       },
       {
-        "title": "60+张PPT，教你如何搭建Spark离线数仓！",
-        "link": "https://toutiao.io/k/zf2arb6",
+        "title": "记一次 ClickHouse 性能测试",
+        "link": "https://toutiao.io/k/2pzdh5q",
         "date": "2022-08-24"
       },
       {
@@ -10362,6 +10362,16 @@
         "date": "2022-08-24"
       },
       {
+        "title": "[推荐] 掌握这些 SpringBoot 启动扩展点，已经超过 90% 的人了",
+        "link": "https://toutiao.io/k/3m8iq2m",
+        "date": "2022-08-24"
+      },
+      {
+        "title": "[推荐] 全网最全的权限系统设计方案（图解）",
+        "link": "https://toutiao.io/k/lozkmee",
+        "date": "2022-08-24"
+      },
+      {
         "title": "[推荐] 微服务接口设计原则",
         "link": "https://toutiao.io/k/4hjv10p",
         "date": "2022-08-24"
@@ -10372,11 +10382,6 @@
         "date": "2022-08-24"
       },
       {
-        "title": "[推荐] 全网最全的权限系统设计方案（图解）",
-        "link": "https://toutiao.io/k/lozkmee",
-        "date": "2022-08-24"
-      },
-      {
         "title": "[推荐] 「架构选型」5 种 API 网关技术选型",
         "link": "https://toutiao.io/k/a4v7vsf",
         "date": "2022-08-24"
@@ -10384,11 +10389,6 @@
       {
         "title": "[推荐] 聊聊 13 种锁的实现方式",
         "link": "https://toutiao.io/k/wcwg3fn",
-        "date": "2022-08-24"
-      },
-      {
-        "title": "[推荐] 掌握这些 SpringBoot 启动扩展点，已经超过 90% 的人了",
-        "link": "https://toutiao.io/k/3m8iq2m",
         "date": "2022-08-24"
       }
     ]

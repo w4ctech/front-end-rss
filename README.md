@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-24 10:44:30，:rocket: 更新条数: +2031， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-24 11:13:21，:rocket: 更新条数: +2032， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,11 @@
 </summary>
 
 
+- [2022-08-24-久坐之后躺下，腰部两边不适，怎么解决？](https://www.v2ex.com/t/875139) ![](assets/new.png)  
+- [2022-08-24-经过几番折腾，-GitHub-终于把我学生资格转回来了](https://www.v2ex.com/t/875138) ![](assets/new.png)  
+- [2022-08-24-libzip-的-1.3.1-和-1.7.0-版本有什么问题？](https://www.v2ex.com/t/875137) ![](assets/new.png)  
+- [2022-08-24-掌阅等级礼包推荐书的规律](https://www.v2ex.com/t/875135) ![](assets/new.png)  
+- [2022-08-24-日经帖：应届生当下-Java-和-c++的选择？](https://www.v2ex.com/t/875134) ![](assets/new.png)  
 - [2022-08-24-macOS-的自动夜览会失效，很奇怪](https://www.v2ex.com/t/875133) ![](assets/new.png)  
 - [2022-08-24-群发简历到一百家公司，忘了勾上「分别发送」了，那-HR-看到收件人有一百个其他公司的-HR，他们会怎么想呢……](https://www.v2ex.com/t/875132) ![](assets/new.png)  
 - [2022-08-24-在-virtualbox-中如何使两台电脑间用同一份-windows-虚拟机?](https://www.v2ex.com/t/875130) ![](assets/new.png)  
@@ -506,11 +511,6 @@
 - [2022-08-24-新加坡国庆群众大会，李显龙讲的真好！](https://www.v2ex.com/t/875118) ![](assets/new.png)  
 - [2022-08-24-关于账号是否被限制](https://www.v2ex.com/t/875117) ![](assets/new.png)  
 - [2022-08-24-有没有人知道深圳现在出省算是什么风险区？](https://www.v2ex.com/t/875116) ![](assets/new.png)  
-- [2022-08-24-Dell-U2723QE/QX-固件版本更新](https://www.v2ex.com/t/875115) ![](assets/new.png)  
-- [2022-08-24-请教怎么能找到-Java-的-native-原生实现代码？](https://www.v2ex.com/t/875114) ![](assets/new.png)  
-- [2022-08-24-全职远程招聘-Angular-前端和-Java-后端工程师](https://www.v2ex.com/t/875112) ![](assets/new.png)  
-- [2022-08-24-Linux-内核的-x86-启动代码中的-trampoline-是什么意思？](https://www.v2ex.com/t/875110) ![](assets/new.png)  
-- [2022-08-24-挂了代理，-clone-速度很快，但是-ping-不通](https://www.v2ex.com/t/875109) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -572,7 +572,7 @@
 - [2022-08-24-深入解读新一代全栈框架-Fresh](https://toutiao.io/k/yu1dzll) ![](assets/new.png)  
 - [2022-08-24-Go-Test:-从入门到躺平](https://toutiao.io/k/nw6o5bq) ![](assets/new.png)  
 - [2022-08-24-批流一体数据集成框架ChunJun数据传输模块详解分享丨直播回顾](https://toutiao.io/k/4bopo73) ![](assets/new.png)  
-- [2022-08-24-推荐-掌握这些-SpringBoot-启动扩展点，已经超过-90%-的人了](https://toutiao.io/k/3m8iq2m) ![](assets/new.png)  
+- [2022-08-24-推荐-连流量染色都没有，你说要搞微服务？](https://toutiao.io/k/9k1wfc7) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

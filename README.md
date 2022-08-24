@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-24 17:41:54，:rocket: 更新条数: +2002， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-24 18:26:19，:rocket: 更新条数: +2026， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -53,7 +53,7 @@
 - [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)![](assets/dot.png)   
-- [开发者头条](#开发者头条)  
+- [开发者头条](#开发者头条)![](assets/dot.png)   
 - [安全热点](#安全热点)  
 - [物联网智库](#物联网智库)  
 
@@ -553,6 +553,26 @@
 </summary>
 
 
+- [2022-08-24-面向对象分析与设计的底层逻辑](https://toutiao.io/k/5x9px3n) ![](assets/new.png)  
+- [2022-08-24-Binlog-的三个业务应用场景](https://toutiao.io/k/wzfse2x) ![](assets/new.png)  
+- [2022-08-24-大厂基本功-|-MySQL-三大日志-binlog、redo-log-和-undo-log-的作用？](https://toutiao.io/k/o1494l7) ![](assets/new.png)  
+- [2022-08-24-Redis-定长队列的探索和实践](https://toutiao.io/k/eink2lm) ![](assets/new.png)  
+- [2022-08-24-60+张PPT，教你如何搭建Spark离线数仓！](https://toutiao.io/k/zf2arb6) ![](assets/new.png)  
+- [2022-08-24-记一次-ClickHouse-性能测试](https://toutiao.io/k/2pzdh5q) ![](assets/new.png)  
+- [2022-08-24-下一代微服务框架-Dapr-中文入门指南](https://toutiao.io/k/ee34snc) ![](assets/new.png)  
+- [2022-08-24-你的-golang-程序正在悄悄内存泄漏](https://toutiao.io/k/95kkykp) ![](assets/new.png)  
+- [2022-08-24-一分钟说完JSONP请求，面试满分答案](https://toutiao.io/k/xavkd9t) ![](assets/new.png)  
+- [2022-08-24-Golang-中反射的应用与理解](https://toutiao.io/k/mjhakl9) ![](assets/new.png)  
+- [2022-08-24-2022年Python十级试题全国卷A](https://toutiao.io/k/4rmzyej) ![](assets/new.png)  
+- [2022-08-24-35岁程序员危机，有何破解之法](https://toutiao.io/k/oy6iryp) ![](assets/new.png)  
+- [2022-08-24-变量取名神器——CODEIF](https://toutiao.io/k/70x5569) ![](assets/new.png)  
+- [2022-08-24-【萌新解题】两数相加-II](https://toutiao.io/k/ng4scbp) ![](assets/new.png)  
+- [2022-08-24-做好系统联试，可以弥补漏测的风险](https://toutiao.io/k/otwrtbh) ![](assets/new.png)  
+- [2022-08-24-【第2708期】企业级包管理服务-cnpmcore](https://toutiao.io/k/6rxsfyv) ![](assets/new.png)  
+- [2022-08-24-Go-Test:-从入门到躺平](https://toutiao.io/k/nw6o5bq) ![](assets/new.png)  
+- [2022-08-24-深入解读新一代全栈框架-Fresh](https://toutiao.io/k/yu1dzll) ![](assets/new.png)  
+- [2022-08-24-批流一体数据集成框架ChunJun数据传输模块详解分享丨直播回顾](https://toutiao.io/k/4bopo73) ![](assets/new.png)  
+- [2022-08-24-推荐-全网最全的权限系统设计方案（图解）](https://toutiao.io/k/lozkmee) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

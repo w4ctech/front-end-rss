@@ -10245,7 +10245,128 @@
     "rss": "https://front-rss.herokuapp.com/toutiao/today",
     "title": "开发者头条",
     "link": "https://toutiao.io",
-    "items": []
+    "items": [
+      {
+        "title": "面向对象分析与设计的底层逻辑",
+        "link": "https://toutiao.io/k/5x9px3n",
+        "date": "2022-08-24"
+      },
+      {
+        "title": "Binlog 的三个业务应用场景",
+        "link": "https://toutiao.io/k/wzfse2x",
+        "date": "2022-08-24"
+      },
+      {
+        "title": "大厂基本功 | MySQL 三大日志 ( binlog、redo log 和 undo log ) 的作用？",
+        "link": "https://toutiao.io/k/o1494l7",
+        "date": "2022-08-24"
+      },
+      {
+        "title": "Redis 定长队列的探索和实践",
+        "link": "https://toutiao.io/k/eink2lm",
+        "date": "2022-08-24"
+      },
+      {
+        "title": "60+张PPT，教你如何搭建Spark离线数仓！",
+        "link": "https://toutiao.io/k/zf2arb6",
+        "date": "2022-08-24"
+      },
+      {
+        "title": "记一次 ClickHouse 性能测试",
+        "link": "https://toutiao.io/k/2pzdh5q",
+        "date": "2022-08-24"
+      },
+      {
+        "title": "下一代微服务框架 Dapr 中文入门指南",
+        "link": "https://toutiao.io/k/ee34snc",
+        "date": "2022-08-24"
+      },
+      {
+        "title": "你的 golang 程序正在悄悄内存泄漏",
+        "link": "https://toutiao.io/k/95kkykp",
+        "date": "2022-08-24"
+      },
+      {
+        "title": "一分钟说完JSONP请求，面试满分答案",
+        "link": "https://toutiao.io/k/xavkd9t",
+        "date": "2022-08-24"
+      },
+      {
+        "title": "Golang 中反射的应用与理解",
+        "link": "https://toutiao.io/k/mjhakl9",
+        "date": "2022-08-24"
+      },
+      {
+        "title": "2022年Python十级试题(全国卷A)",
+        "link": "https://toutiao.io/k/4rmzyej",
+        "date": "2022-08-24"
+      },
+      {
+        "title": "35岁程序员危机，有何破解之法",
+        "link": "https://toutiao.io/k/oy6iryp",
+        "date": "2022-08-24"
+      },
+      {
+        "title": "变量取名神器——CODEIF",
+        "link": "https://toutiao.io/k/70x5569",
+        "date": "2022-08-24"
+      },
+      {
+        "title": "【萌新解题】两数相加 II",
+        "link": "https://toutiao.io/k/ng4scbp",
+        "date": "2022-08-24"
+      },
+      {
+        "title": "做好系统联试，可以弥补漏测的风险",
+        "link": "https://toutiao.io/k/otwrtbh",
+        "date": "2022-08-24"
+      },
+      {
+        "title": "【第2708期】企业级包管理服务 cnpmcore",
+        "link": "https://toutiao.io/k/6rxsfyv",
+        "date": "2022-08-24"
+      },
+      {
+        "title": "Go Test: 从入门到躺平",
+        "link": "https://toutiao.io/k/nw6o5bq",
+        "date": "2022-08-24"
+      },
+      {
+        "title": "深入解读新一代全栈框架 Fresh",
+        "link": "https://toutiao.io/k/yu1dzll",
+        "date": "2022-08-24"
+      },
+      {
+        "title": "批流一体数据集成框架ChunJun数据传输模块详解分享丨直播回顾",
+        "link": "https://toutiao.io/k/4bopo73",
+        "date": "2022-08-24"
+      },
+      {
+        "title": "[推荐] 全网最全的权限系统设计方案（图解）",
+        "link": "https://toutiao.io/k/lozkmee",
+        "date": "2022-08-24"
+      },
+      {
+        "title": "[推荐] 掌握这些 SpringBoot 启动扩展点，已经超过 90% 的人了",
+        "link": "https://toutiao.io/k/3m8iq2m",
+        "date": "2022-08-24"
+      },
+      {
+        "title": "[推荐] 聊聊 13 种锁的实现方式",
+        "link": "https://toutiao.io/k/wcwg3fn",
+        "date": "2022-08-24"
+      },
+      {
+        "title": "[推荐] 微服务接口设计原则",
+        "link": "https://toutiao.io/k/4hjv10p",
+        "date": "2022-08-24"
+      },
+      {
+        "title": "[推荐] 「架构选型」5 种 API 网关技术选型",
+        "link": "https://toutiao.io/k/a4v7vsf",
+        "date": "2022-08-24"
+      }
+    ]
   },
   {
     "rss": "https://sec.thief.one/atom.xml",

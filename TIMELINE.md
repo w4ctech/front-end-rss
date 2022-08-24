@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-08-24 17:41:54。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-08-24 18:26:19。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -126,6 +126,30 @@
 - [【技术头条】2022-08-24-关于用研岗位的思考-blog.devtang.com](https://blogread.cn/news/go.php?idItem=15327&url=https%3A%2F%2Fblog.devtang.com%2F2020%2F07%2F28%2Fabout-user-research%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-08-24-前端AB实验设计思路与实现原理-fed.taobao.org](https://blogread.cn/news/go.php?idItem=15326&url=https%3A%2F%2Ffed.taobao.org%2Fblog%2Ftaofed%2Fdo71ct%2Ffrontend-ab-test%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-08-24-HTTP/3-原理与实践-www.alloyteam.com](https://blogread.cn/news/go.php?idItem=15325&url=http%3A%2F%2Fwww.alloyteam.com%2F2020%2F05%2F14385%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [【开发者头条】2022-08-24-面向对象分析与设计的底层逻辑](https://toutiao.io/k/5x9px3n) 
+- [【开发者头条】2022-08-24-Binlog-的三个业务应用场景](https://toutiao.io/k/wzfse2x) 
+- [【开发者头条】2022-08-24-大厂基本功-|-MySQL-三大日志-binlog、redo-log-和-undo-log-的作用？](https://toutiao.io/k/o1494l7) 
+- [【开发者头条】2022-08-24-Redis-定长队列的探索和实践](https://toutiao.io/k/eink2lm) 
+- [【开发者头条】2022-08-24-60+张PPT，教你如何搭建Spark离线数仓！](https://toutiao.io/k/zf2arb6) 
+- [【开发者头条】2022-08-24-记一次-ClickHouse-性能测试](https://toutiao.io/k/2pzdh5q) 
+- [【开发者头条】2022-08-24-下一代微服务框架-Dapr-中文入门指南](https://toutiao.io/k/ee34snc) 
+- [【开发者头条】2022-08-24-你的-golang-程序正在悄悄内存泄漏](https://toutiao.io/k/95kkykp) 
+- [【开发者头条】2022-08-24-一分钟说完JSONP请求，面试满分答案](https://toutiao.io/k/xavkd9t) 
+- [【开发者头条】2022-08-24-Golang-中反射的应用与理解](https://toutiao.io/k/mjhakl9) 
+- [【开发者头条】2022-08-24-2022年Python十级试题全国卷A](https://toutiao.io/k/4rmzyej) 
+- [【开发者头条】2022-08-24-35岁程序员危机，有何破解之法](https://toutiao.io/k/oy6iryp) 
+- [【开发者头条】2022-08-24-变量取名神器——CODEIF](https://toutiao.io/k/70x5569) 
+- [【开发者头条】2022-08-24-【萌新解题】两数相加-II](https://toutiao.io/k/ng4scbp) 
+- [【开发者头条】2022-08-24-做好系统联试，可以弥补漏测的风险](https://toutiao.io/k/otwrtbh) 
+- [【开发者头条】2022-08-24-【第2708期】企业级包管理服务-cnpmcore](https://toutiao.io/k/6rxsfyv) 
+- [【开发者头条】2022-08-24-Go-Test:-从入门到躺平](https://toutiao.io/k/nw6o5bq) 
+- [【开发者头条】2022-08-24-深入解读新一代全栈框架-Fresh](https://toutiao.io/k/yu1dzll) 
+- [【开发者头条】2022-08-24-批流一体数据集成框架ChunJun数据传输模块详解分享丨直播回顾](https://toutiao.io/k/4bopo73) 
+- [【开发者头条】2022-08-24-推荐-全网最全的权限系统设计方案（图解）](https://toutiao.io/k/lozkmee) 
+- [【开发者头条】2022-08-24-推荐-掌握这些-SpringBoot-启动扩展点，已经超过-90%-的人了](https://toutiao.io/k/3m8iq2m) 
+- [【开发者头条】2022-08-24-推荐-聊聊-13-种锁的实现方式](https://toutiao.io/k/wcwg3fn) 
+- [【开发者头条】2022-08-24-推荐-微服务接口设计原则](https://toutiao.io/k/4hjv10p) 
+- [【开发者头条】2022-08-24-推荐-「架构选型」5-种-API-网关技术选型](https://toutiao.io/k/a4v7vsf) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

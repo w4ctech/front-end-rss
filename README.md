@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-24 15:15:29，:rocket: 更新条数: +2026， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-24 15:43:50，:rocket: 更新条数: +2027， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-08-24-Mac-版-surge-5-三人拼车-还剩下-2-车位](https://www.v2ex.com/t/875191) ![](assets/new.png)  
 - [2022-08-24-FreeSSL.cn-似乎不再能够通过-ACME-协议签发多域名通配符-TrustAsia-证书了](https://www.v2ex.com/t/875190) ![](assets/new.png)  
 - [2022-08-24-记一次-PostgreSQL-事故处理](https://www.v2ex.com/t/875189) ![](assets/new.png)  
 - [2022-08-24-VG-Pecunia-推出全新-VGP-4A-平台，让精算水平精益求精](https://www.v2ex.com/t/875187) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-08-24-刚看到一个四方支付的帖子有感而发！](https://www.v2ex.com/t/875168) ![](assets/new.png)  
 - [2022-08-24-请教下有没人知道-go-语言把国外的域名解析成-IP](https://www.v2ex.com/t/875167) ![](assets/new.png)  
 - [2022-08-24-如何提高-c++面向对象的编程方法?](https://www.v2ex.com/t/875166) ![](assets/new.png)  
-- [2022-08-24-发现一个-AI-工具箱还不错](https://www.v2ex.com/t/875164) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -559,20 +559,20 @@
 - [2022-08-24-Redis-定长队列的探索和实践](https://toutiao.io/k/eink2lm) ![](assets/new.png)  
 - [2022-08-24-60+张PPT，教你如何搭建Spark离线数仓！](https://toutiao.io/k/zf2arb6) ![](assets/new.png)  
 - [2022-08-24-记一次-ClickHouse-性能测试](https://toutiao.io/k/2pzdh5q) ![](assets/new.png)  
-- [2022-08-24-你的-golang-程序正在悄悄内存泄漏](https://toutiao.io/k/95kkykp) ![](assets/new.png)  
 - [2022-08-24-下一代微服务框架-Dapr-中文入门指南](https://toutiao.io/k/ee34snc) ![](assets/new.png)  
+- [2022-08-24-你的-golang-程序正在悄悄内存泄漏](https://toutiao.io/k/95kkykp) ![](assets/new.png)  
 - [2022-08-24-一分钟说完JSONP请求，面试满分答案](https://toutiao.io/k/xavkd9t) ![](assets/new.png)  
 - [2022-08-24-Golang-中反射的应用与理解](https://toutiao.io/k/mjhakl9) ![](assets/new.png)  
 - [2022-08-24-2022年Python十级试题全国卷A](https://toutiao.io/k/4rmzyej) ![](assets/new.png)  
 - [2022-08-24-35岁程序员危机，有何破解之法](https://toutiao.io/k/oy6iryp) ![](assets/new.png)  
+- [2022-08-24-变量取名神器——CODEIF](https://toutiao.io/k/70x5569) ![](assets/new.png)  
 - [2022-08-24-做好系统联试，可以弥补漏测的风险](https://toutiao.io/k/otwrtbh) ![](assets/new.png)  
 - [2022-08-24-【萌新解题】两数相加-II](https://toutiao.io/k/ng4scbp) ![](assets/new.png)  
-- [2022-08-24-变量取名神器——CODEIF](https://toutiao.io/k/70x5569) ![](assets/new.png)  
 - [2022-08-24-【第2708期】企业级包管理服务-cnpmcore](https://toutiao.io/k/6rxsfyv) ![](assets/new.png)  
 - [2022-08-24-Go-Test:-从入门到躺平](https://toutiao.io/k/nw6o5bq) ![](assets/new.png)  
 - [2022-08-24-深入解读新一代全栈框架-Fresh](https://toutiao.io/k/yu1dzll) ![](assets/new.png)  
 - [2022-08-24-批流一体数据集成框架ChunJun数据传输模块详解分享丨直播回顾](https://toutiao.io/k/4bopo73) ![](assets/new.png)  
-- [2022-08-24-推荐-「架构选型」5-种-API-网关技术选型](https://toutiao.io/k/a4v7vsf) ![](assets/new.png)  
+- [2022-08-24-推荐-掌握这些-SpringBoot-启动扩展点，已经超过-90%-的人了](https://toutiao.io/k/3m8iq2m) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

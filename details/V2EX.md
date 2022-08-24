@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-08-24 16:54:05。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-08-24 17:16:49。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
@@ -41,4 +41,3 @@
 - [2022-08-24-编译内核修复-Thinkbook-14+-6800h-键盘问题](https://www.v2ex.com/t/875156) 
 - [2022-08-24-有人遇到过-Telegram-卡死-iOS-系统的问题吗?](https://www.v2ex.com/t/875153) 
 - [2022-08-24-Chrome-控制台这里是-bug-吗](https://www.v2ex.com/t/875152) 
-- [2022-08-24-分享自己做的一个小程序](https://www.v2ex.com/t/875151) 

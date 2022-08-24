@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-08-24 06:50:56。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-08-24 07:13:50。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -300,6 +300,7 @@
 
 
 
+- [【V2EX】新加坡-各类技术岗位-DevOps/SRE/Security/DBA/基础架构/搜广推算法/大数据开发工程师，-P6-P9](https://www.v2ex.com/t/875065)
 - [【技术头条】HTTP/3-原理与实践-www.alloyteam.com](https://blogread.cn/news/go.php?idItem=15325&url=http%3A%2F%2Fwww.alloyteam.com%2F2020%2F05%2F14385%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【开发者头条】深入解读新一代全栈框架-Fresh](https://toutiao.io/k/yu1dzll)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
@@ -334,7 +335,6 @@
 
 
 
-- [【V2EX】用共享文件夹做-git-仓库，有奇怪的问题。](https://www.v2ex.com/t/875012)
 - [......【查看更多】......](./details/tags/git-svn.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

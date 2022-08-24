@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-24 06:50:56，:rocket: 更新条数: +2033， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-24 07:13:50，:rocket: 更新条数: +2030， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,12 @@
 </summary>
 
 
+- [2022-08-24-新加坡-各类技术岗位-DevOps/SRE/Security/DBA/基础架构/搜广推算法/大数据开发工程师，-P6-P9](https://www.v2ex.com/t/875065) ![](assets/new.png)  
+- [2022-08-24-长期有耐心，-ModStart-开源一周年](https://www.v2ex.com/t/875064) ![](assets/new.png)  
+- [2022-08-24-远程自己的-macbook，必须让-mac-的盖子打开着才行吗？](https://www.v2ex.com/t/875063) ![](assets/new.png)  
+- [2022-08-24-CTMO-修改-APN-改善网速](https://www.v2ex.com/t/875062) ![](assets/new.png)  
+- [2022-08-24-只有我一个人-Apple-Music-冷门音乐播放卡顿？](https://www.v2ex.com/t/875060) ![](assets/new.png)  
+- [2022-08-24-Office-365-差一人](https://www.v2ex.com/t/875059) ![](assets/new.png)  
 - [2022-08-24-现在除了-hpe-的-gen-10-plus-服务器之外，还有什么替代品吗？](https://www.v2ex.com/t/875058) ![](assets/new.png)  
 - [2022-08-24-删帖](https://www.v2ex.com/t/875057) ![](assets/new.png)  
 - [2022-08-24-手机月均消费低于-30-元，农行会识别为风险账户](https://www.v2ex.com/t/875056) ![](assets/new.png)  
@@ -499,18 +505,12 @@
 - [2022-08-24-打印机如何在请帖的姓名、时间位置上准确的打印内容呀？](https://www.v2ex.com/t/875052) ![](assets/new.png)  
 - [2022-08-24-remote-外企远程-招聘-Python-高级后端](https://www.v2ex.com/t/875051) ![](assets/new.png)  
 - [2022-08-24-历时-2-月，动态线程池框架-DynamicTp-发布里程碑版本-V1.0.8！](https://www.v2ex.com/t/875050) ![](assets/new.png)  
-- [2022-08-24-低风险小区莫名其妙的封了-4-天，建议租房避开宝安海乐社区](https://www.v2ex.com/t/875049) ![](assets/new.png)  
 - [2022-08-24-有什么方法能在指定窗口关闭字体平滑](https://www.v2ex.com/t/875047) ![](assets/new.png)  
 - [2022-08-24-万物皆可集成系列：低代码释放用友-U8+深度价值（2）—数据拓展应用](https://www.v2ex.com/t/875046) ![](assets/new.png)  
 - [2022-08-24-微信没有自动登陆-免手机验证的选项了,-这个是什么问题?](https://www.v2ex.com/t/875045) ![](assets/new.png)  
 - [2022-08-24-哪个运营商能在深圳地铁上打游戏](https://www.v2ex.com/t/875044) ![](assets/new.png)  
 - [2022-08-24-103g-通用流量+100-分钟通话，月租-29。坑在哪](https://www.v2ex.com/t/875043) ![](assets/new.png)  
 - [2022-08-24-V-友们帮忙做个-3-分钟小调研](https://www.v2ex.com/t/875042) ![](assets/new.png)  
-- [2022-08-24-楼道养猫，臭死了，有好办法吗](https://www.v2ex.com/t/875041) ![](assets/new.png)  
-- [2022-08-24-请问一下用过-AdGuard-桌面版的老哥们，这-App-和-ClashX-Pro-是不是有冲突？](https://www.v2ex.com/t/875040) ![](assets/new.png)  
-- [2022-08-24-有人日常用-nushell-吗](https://www.v2ex.com/t/875039) ![](assets/new.png)  
-- [2022-08-24-买了个小米电视，结果发现小米有品和小米官网是两家公司。](https://www.v2ex.com/t/875038) ![](assets/new.png)  
-- [2022-08-24-mac-mini2018，睡眠后-hdmi-接口无法唤醒外接显示器？](https://www.v2ex.com/t/875037) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -565,14 +565,14 @@
 - [2022-08-24-2022年Python十级试题全国卷A](https://toutiao.io/k/4rmzyej) ![](assets/new.png)  
 - [2022-08-24-【萌新解题】两数相加-II](https://toutiao.io/k/ng4scbp) ![](assets/new.png)  
 - [2022-08-24-做好系统联试，可以弥补漏测的风险](https://toutiao.io/k/otwrtbh) ![](assets/new.png)  
-- [2022-08-24-35岁程序员危机，有何破解之法](https://toutiao.io/k/oy6iryp) ![](assets/new.png)  
 - [2022-08-24-下一代微服务框架-Dapr-中文入门指南](https://toutiao.io/k/ee34snc) ![](assets/new.png)  
+- [2022-08-24-35岁程序员危机，有何破解之法](https://toutiao.io/k/oy6iryp) ![](assets/new.png)  
 - [2022-08-24-【第2708期】企业级包管理服务-cnpmcore](https://toutiao.io/k/6rxsfyv) ![](assets/new.png)  
-- [2022-08-24-深入解读新一代全栈框架-Fresh](https://toutiao.io/k/yu1dzll) ![](assets/new.png)  
 - [2022-08-24-变量取名神器——CODEIF](https://toutiao.io/k/70x5569) ![](assets/new.png)  
+- [2022-08-24-深入解读新一代全栈框架-Fresh](https://toutiao.io/k/yu1dzll) ![](assets/new.png)  
 - [2022-08-24-Go-Test:-从入门到躺平](https://toutiao.io/k/nw6o5bq) ![](assets/new.png)  
 - [2022-08-24-批流一体数据集成框架ChunJun数据传输模块详解分享丨直播回顾](https://toutiao.io/k/4bopo73) ![](assets/new.png)  
-- [2022-08-24-推荐-微服务接口设计原则](https://toutiao.io/k/4hjv10p) ![](assets/new.png)  
+- [2022-08-24-推荐-掌握这些-SpringBoot-启动扩展点，已经超过-90%-的人了](https://toutiao.io/k/3m8iq2m) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

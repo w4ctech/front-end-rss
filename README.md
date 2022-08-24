@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-24 06:19:55，:rocket: 更新条数: +2030， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-24 06:50:56，:rocket: 更新条数: +2033， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,14 @@
 </summary>
 
 
+- [2022-08-24-现在除了-hpe-的-gen-10-plus-服务器之外，还有什么替代品吗？](https://www.v2ex.com/t/875058) ![](assets/new.png)  
+- [2022-08-24-删帖](https://www.v2ex.com/t/875057) ![](assets/new.png)  
+- [2022-08-24-手机月均消费低于-30-元，农行会识别为风险账户](https://www.v2ex.com/t/875056) ![](assets/new.png)  
+- [2022-08-24-网易内推-社招校招均可](https://www.v2ex.com/t/875055) ![](assets/new.png)  
+- [2022-08-24-有老铁试过-elevit-爱乐维吗](https://www.v2ex.com/t/875054) ![](assets/new.png)  
+- [2022-08-24-打印机如何在请帖的姓名、时间位置上准确的打印内容呀？](https://www.v2ex.com/t/875052) ![](assets/new.png)  
+- [2022-08-24-remote-外企远程-招聘-Python-高级后端](https://www.v2ex.com/t/875051) ![](assets/new.png)  
+- [2022-08-24-历时-2-月，动态线程池框架-DynamicTp-发布里程碑版本-V1.0.8！](https://www.v2ex.com/t/875050) ![](assets/new.png)  
 - [2022-08-24-低风险小区莫名其妙的封了-4-天，建议租房避开宝安海乐社区](https://www.v2ex.com/t/875049) ![](assets/new.png)  
 - [2022-08-24-有什么方法能在指定窗口关闭字体平滑](https://www.v2ex.com/t/875047) ![](assets/new.png)  
 - [2022-08-24-万物皆可集成系列：低代码释放用友-U8+深度价值（2）—数据拓展应用](https://www.v2ex.com/t/875046) ![](assets/new.png)  
@@ -503,14 +511,6 @@
 - [2022-08-24-有人日常用-nushell-吗](https://www.v2ex.com/t/875039) ![](assets/new.png)  
 - [2022-08-24-买了个小米电视，结果发现小米有品和小米官网是两家公司。](https://www.v2ex.com/t/875038) ![](assets/new.png)  
 - [2022-08-24-mac-mini2018，睡眠后-hdmi-接口无法唤醒外接显示器？](https://www.v2ex.com/t/875037) ![](assets/new.png)  
-- [2022-08-24-中国联通营业厅人员擅自增加新的服务导致手机欠费停机，我是否应该报警？](https://www.v2ex.com/t/875036) ![](assets/new.png)  
-- [2022-08-24-给-MIUI-开发一个-5G-快捷开关](https://www.v2ex.com/t/875035) ![](assets/new.png)  
-- [2022-08-24-scoop-安装-Python-后，升级-pip-失败](https://www.v2ex.com/t/875034) ![](assets/new.png)  
-- [2022-08-24-WireGuard-下访问-SMB-只能通过-IP-地址，-Hostname-就不行](https://www.v2ex.com/t/875033) ![](assets/new.png)  
-- [2022-08-24-如何看到今年的秋招情况？](https://www.v2ex.com/t/875031) ![](assets/new.png)  
-- [2022-08-24-Web3-招聘：后端开发工程师-Java---香港（提供签证）-60-100-万](https://www.v2ex.com/t/875030) ![](assets/new.png)  
-- [2022-08-24-怎样将旧-Macbook-Pro-完整备份并恢复到未来的一台电脑上？](https://www.v2ex.com/t/875029) ![](assets/new.png)  
-- [2022-08-24-挂个白嫖怪，发现好多人都被这人骚扰过，大家避坑](https://www.v2ex.com/t/875028) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -563,16 +563,16 @@
 - [2022-08-24-一分钟说完JSONP请求，面试满分答案](https://toutiao.io/k/xavkd9t) ![](assets/new.png)  
 - [2022-08-24-Golang-中反射的应用与理解](https://toutiao.io/k/mjhakl9) ![](assets/new.png)  
 - [2022-08-24-2022年Python十级试题全国卷A](https://toutiao.io/k/4rmzyej) ![](assets/new.png)  
-- [2022-08-24-做好系统联试，可以弥补漏测的风险](https://toutiao.io/k/otwrtbh) ![](assets/new.png)  
 - [2022-08-24-【萌新解题】两数相加-II](https://toutiao.io/k/ng4scbp) ![](assets/new.png)  
+- [2022-08-24-做好系统联试，可以弥补漏测的风险](https://toutiao.io/k/otwrtbh) ![](assets/new.png)  
 - [2022-08-24-35岁程序员危机，有何破解之法](https://toutiao.io/k/oy6iryp) ![](assets/new.png)  
 - [2022-08-24-下一代微服务框架-Dapr-中文入门指南](https://toutiao.io/k/ee34snc) ![](assets/new.png)  
 - [2022-08-24-【第2708期】企业级包管理服务-cnpmcore](https://toutiao.io/k/6rxsfyv) ![](assets/new.png)  
-- [2022-08-24-Go-Test:-从入门到躺平](https://toutiao.io/k/nw6o5bq) ![](assets/new.png)  
-- [2022-08-24-变量取名神器——CODEIF](https://toutiao.io/k/70x5569) ![](assets/new.png)  
-- [2022-08-24-批流一体数据集成框架ChunJun数据传输模块详解分享丨直播回顾](https://toutiao.io/k/4bopo73) ![](assets/new.png)  
 - [2022-08-24-深入解读新一代全栈框架-Fresh](https://toutiao.io/k/yu1dzll) ![](assets/new.png)  
-- [2022-08-24-推荐-掌握这些-SpringBoot-启动扩展点，已经超过-90%-的人了](https://toutiao.io/k/3m8iq2m) ![](assets/new.png)  
+- [2022-08-24-变量取名神器——CODEIF](https://toutiao.io/k/70x5569) ![](assets/new.png)  
+- [2022-08-24-Go-Test:-从入门到躺平](https://toutiao.io/k/nw6o5bq) ![](assets/new.png)  
+- [2022-08-24-批流一体数据集成框架ChunJun数据传输模块详解分享丨直播回顾](https://toutiao.io/k/4bopo73) ![](assets/new.png)  
+- [2022-08-24-推荐-微服务接口设计原则](https://toutiao.io/k/4hjv10p) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

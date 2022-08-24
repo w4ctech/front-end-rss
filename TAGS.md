@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-08-24 06:19:55。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-08-24 06:50:56。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -157,7 +157,6 @@
 
 
 - [【V2EX】哪个运营商能在深圳地铁上打游戏](https://www.v2ex.com/t/875044)
-- [【V2EX】请问有幼儿学拼音的游戏性质-APP-推荐么?](https://www.v2ex.com/t/875003)
 - [......【查看更多】......](./details/tags/dev-game.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -352,6 +351,7 @@
 
 
 
+- [【V2EX】remote-外企远程-招聘-Python-高级后端](https://www.v2ex.com/t/875051)
 - [【V2EX】Web3-招聘：后端开发工程师-Java---香港（提供签证）-60-100-万](https://www.v2ex.com/t/875030)
 - [【技术头条】又是面试题？对，合并有序序列。-www.felix021.com](https://blogread.cn/news/go.php?idItem=15330&url=https%3A%2F%2Fwww.felix021.com%2Fblog%2Fread.php%3F2229%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [......【查看更多】......](./details/tags/job-interview.md)

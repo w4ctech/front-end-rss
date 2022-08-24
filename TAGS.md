@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-08-24 05:58:16。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-08-24 06:19:55。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -187,6 +187,7 @@
 - [【技术头条】图解-Flink-滚动窗口、会话窗口和滑动窗口-www.awaimai.com](https://blogread.cn/news/go.php?idItem=15341&url=https%3A%2F%2Fwww.awaimai.com%2F2957.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【技术头条】再聊-Git-Flow-www.kymjs.com](https://blogread.cn/news/go.php?idItem=15336&url=https%3A%2F%2Fwww.kymjs.com%2Fmanager%2F2020%2F05%2F29%2F01%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【开发者头条】一分钟说完JSONP请求，面试满分答案](https://toutiao.io/k/xavkd9t)
+- [【开发者头条】变量取名神器——CODEIF](https://toutiao.io/k/70x5569)
 - [......【查看更多】......](./details/tags/javascript.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -242,6 +243,7 @@
 
 - [【武汉肺炎防疫全纪录(财新网)】广州17岁男生在定点医院参加高考-特殊考场视频监考](https://m.caixin.com/m/2021-06-05/101723418.html)
 - [【武汉肺炎防疫全纪录(财新网)】林郑月娥率13高官直播接种科兴疫苗-复星疫苗预计周中到港](https://m.caixin.com/m/2021-02-22/101665724.html)
+- [【开发者头条】批流一体数据集成框架ChunJun数据传输模块详解分享丨直播回顾](https://toutiao.io/k/4bopo73)
 - [......【查看更多】......](./details/tags/audio-video.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -300,6 +302,7 @@
 
 
 - [【技术头条】HTTP/3-原理与实践-www.alloyteam.com](https://blogread.cn/news/go.php?idItem=15325&url=http%3A%2F%2Fwww.alloyteam.com%2F2020%2F05%2F14385%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
+- [【开发者头条】深入解读新一代全栈框架-Fresh](https://toutiao.io/k/yu1dzll)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

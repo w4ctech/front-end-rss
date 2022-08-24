@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-24 05:58:15，:rocket: 更新条数: +2025， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-24 06:19:55，:rocket: 更新条数: +2030， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,9 @@
 </summary>
 
 
+- [2022-08-24-低风险小区莫名其妙的封了-4-天，建议租房避开宝安海乐社区](https://www.v2ex.com/t/875049) ![](assets/new.png)  
+- [2022-08-24-有什么方法能在指定窗口关闭字体平滑](https://www.v2ex.com/t/875047) ![](assets/new.png)  
+- [2022-08-24-万物皆可集成系列：低代码释放用友-U8+深度价值（2）—数据拓展应用](https://www.v2ex.com/t/875046) ![](assets/new.png)  
 - [2022-08-24-微信没有自动登陆-免手机验证的选项了,-这个是什么问题?](https://www.v2ex.com/t/875045) ![](assets/new.png)  
 - [2022-08-24-哪个运营商能在深圳地铁上打游戏](https://www.v2ex.com/t/875044) ![](assets/new.png)  
 - [2022-08-24-103g-通用流量+100-分钟通话，月租-29。坑在哪](https://www.v2ex.com/t/875043) ![](assets/new.png)  
@@ -508,9 +511,6 @@
 - [2022-08-24-Web3-招聘：后端开发工程师-Java---香港（提供签证）-60-100-万](https://www.v2ex.com/t/875030) ![](assets/new.png)  
 - [2022-08-24-怎样将旧-Macbook-Pro-完整备份并恢复到未来的一台电脑上？](https://www.v2ex.com/t/875029) ![](assets/new.png)  
 - [2022-08-24-挂个白嫖怪，发现好多人都被这人骚扰过，大家避坑](https://www.v2ex.com/t/875028) ![](assets/new.png)  
-- [2022-08-24-只有前端，后端和数据使用云服务，这个云服务的技术名字是什么？云函数?](https://www.v2ex.com/t/875027) ![](assets/new.png)  
-- [2022-08-24-程序调用-kernel32.dll-来判断-Windows-版本，有哪些方法可以绕过？](https://www.v2ex.com/t/875026) ![](assets/new.png)  
-- [2022-08-24-Java-mysql-连不上报错不知道-ip](https://www.v2ex.com/t/875023) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -563,15 +563,15 @@
 - [2022-08-24-一分钟说完JSONP请求，面试满分答案](https://toutiao.io/k/xavkd9t) ![](assets/new.png)  
 - [2022-08-24-Golang-中反射的应用与理解](https://toutiao.io/k/mjhakl9) ![](assets/new.png)  
 - [2022-08-24-2022年Python十级试题全国卷A](https://toutiao.io/k/4rmzyej) ![](assets/new.png)  
-- [2022-08-24-【萌新解题】两数相加-II](https://toutiao.io/k/ng4scbp) ![](assets/new.png)  
 - [2022-08-24-做好系统联试，可以弥补漏测的风险](https://toutiao.io/k/otwrtbh) ![](assets/new.png)  
+- [2022-08-24-【萌新解题】两数相加-II](https://toutiao.io/k/ng4scbp) ![](assets/new.png)  
 - [2022-08-24-35岁程序员危机，有何破解之法](https://toutiao.io/k/oy6iryp) ![](assets/new.png)  
 - [2022-08-24-下一代微服务框架-Dapr-中文入门指南](https://toutiao.io/k/ee34snc) ![](assets/new.png)  
 - [2022-08-24-【第2708期】企业级包管理服务-cnpmcore](https://toutiao.io/k/6rxsfyv) ![](assets/new.png)  
-- [2022-08-24-推荐-全网最全的权限系统设计方案（图解）](https://toutiao.io/k/lozkmee) ![](assets/new.png)  
-- [2022-08-24-推荐-连流量染色都没有，你说要搞微服务？](https://toutiao.io/k/9k1wfc7) ![](assets/new.png)  
-- [2022-08-24-推荐-聊聊-13-种锁的实现方式](https://toutiao.io/k/wcwg3fn) ![](assets/new.png)  
-- [2022-08-24-推荐-「架构选型」5-种-API-网关技术选型](https://toutiao.io/k/a4v7vsf) ![](assets/new.png)  
+- [2022-08-24-Go-Test:-从入门到躺平](https://toutiao.io/k/nw6o5bq) ![](assets/new.png)  
+- [2022-08-24-变量取名神器——CODEIF](https://toutiao.io/k/70x5569) ![](assets/new.png)  
+- [2022-08-24-批流一体数据集成框架ChunJun数据传输模块详解分享丨直播回顾](https://toutiao.io/k/4bopo73) ![](assets/new.png)  
+- [2022-08-24-深入解读新一代全栈框架-Fresh](https://toutiao.io/k/yu1dzll) ![](assets/new.png)  
 - [2022-08-24-推荐-掌握这些-SpringBoot-启动扩展点，已经超过-90%-的人了](https://toutiao.io/k/3m8iq2m) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

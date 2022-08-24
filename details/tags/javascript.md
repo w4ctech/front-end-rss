@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-08-24 05:58:16。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-08-24 06:19:55。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -20,3 +20,4 @@
 - [2022-08-24-图解-Flink-滚动窗口、会话窗口和滑动窗口-www.awaimai.com](https://blogread.cn/news/go.php?idItem=15341&url=https%3A%2F%2Fwww.awaimai.com%2F2957.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-08-24-再聊-Git-Flow-www.kymjs.com](https://blogread.cn/news/go.php?idItem=15336&url=https%3A%2F%2Fwww.kymjs.com%2Fmanager%2F2020%2F05%2F29%2F01%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-08-24-一分钟说完JSONP请求，面试满分答案](https://toutiao.io/k/xavkd9t) 
+- [2022-08-24-变量取名神器——CODEIF](https://toutiao.io/k/70x5569) 

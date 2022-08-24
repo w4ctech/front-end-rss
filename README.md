@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-24 07:39:40，:rocket: 更新条数: +2032， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-24 08:18:15，:rocket: 更新条数: +2033， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,16 @@
 </summary>
 
 
+- [2022-08-24-ubuntu-多显示器较小的怎么自适应拖过去的窗口](https://www.v2ex.com/t/875085) ![](assets/new.png)  
+- [2022-08-24-今天-A-股怎么了？](https://www.v2ex.com/t/875084) ![](assets/new.png)  
+- [2022-08-24-出掉-MBP2018，入手-MBA2022，可行？中轻度办公家用](https://www.v2ex.com/t/875083) ![](assets/new.png)  
+- [2022-08-24-上海TapTap-iOS-端急招负责人](https://www.v2ex.com/t/875082) ![](assets/new.png)  
+- [2022-08-24-散热背夹会导致手机进水吗？](https://www.v2ex.com/t/875081) ![](assets/new.png)  
+- [2022-08-24-为什么微信支付-JSAPI-不使用-prepay_id-直接调起支付，还要带一堆签名？](https://www.v2ex.com/t/875079) ![](assets/new.png)  
+- [2022-08-24-美国-IP-搬瓦工绝版-$18.74-vps-30-元转让](https://www.v2ex.com/t/875078) ![](assets/new.png)  
+- [2022-08-24-win10-多桌面状态下，打开文件之类的，有办法强制在当前窗口下打开嘛？](https://www.v2ex.com/t/875076) ![](assets/new.png)  
+- [2022-08-24-electron-大佬进](https://www.v2ex.com/t/875075) ![](assets/new.png)  
+- [2022-08-24-我想把我在-github-的博客托管到-vercel，但是在部署的时候出了问题，有搞过这的大佬帮我看看嘛？](https://www.v2ex.com/t/875074) ![](assets/new.png)  
 - [2022-08-24-nginx-转发-tcp-后端获取客户端真实-IP](https://www.v2ex.com/t/875073) ![](assets/new.png)  
 - [2022-08-24-你们说自考本科的含金量对找工作有帮助吗](https://www.v2ex.com/t/875072) ![](assets/new.png)  
 - [2022-08-24-讲一个程序员-2021-年做公众号从-0-到-1400-粉的故事……](https://www.v2ex.com/t/875071) ![](assets/new.png)  
@@ -501,16 +511,6 @@
 - [2022-08-24-长期有耐心，-ModStart-开源一周年](https://www.v2ex.com/t/875064) ![](assets/new.png)  
 - [2022-08-24-远程自己的-macbook，必须让-mac-的盖子打开着才行吗？](https://www.v2ex.com/t/875063) ![](assets/new.png)  
 - [2022-08-24-CTMO-修改-APN-改善网速](https://www.v2ex.com/t/875062) ![](assets/new.png)  
-- [2022-08-24-只有我一个人-Apple-Music-冷门音乐播放卡顿？](https://www.v2ex.com/t/875060) ![](assets/new.png)  
-- [2022-08-24-Office-365-差一人](https://www.v2ex.com/t/875059) ![](assets/new.png)  
-- [2022-08-24-现在除了-hpe-的-gen-10-plus-服务器之外，还有什么替代品吗？](https://www.v2ex.com/t/875058) ![](assets/new.png)  
-- [2022-08-24-删帖](https://www.v2ex.com/t/875057) ![](assets/new.png)  
-- [2022-08-24-手机月均消费低于-30-元，农行会识别为风险账户](https://www.v2ex.com/t/875056) ![](assets/new.png)  
-- [2022-08-24-网易内推-社招校招均可](https://www.v2ex.com/t/875055) ![](assets/new.png)  
-- [2022-08-24-有老铁试过-elevit-爱乐维吗](https://www.v2ex.com/t/875054) ![](assets/new.png)  
-- [2022-08-24-打印机如何在请帖的姓名、时间位置上准确的打印内容呀？](https://www.v2ex.com/t/875052) ![](assets/new.png)  
-- [2022-08-24-remote-外企远程-招聘-Python-高级后端](https://www.v2ex.com/t/875051) ![](assets/new.png)  
-- [2022-08-24-历时-2-月，动态线程池框架-DynamicTp-发布里程碑版本-V1.0.8！](https://www.v2ex.com/t/875050) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -572,7 +572,7 @@
 - [2022-08-24-深入解读新一代全栈框架-Fresh](https://toutiao.io/k/yu1dzll) ![](assets/new.png)  
 - [2022-08-24-Go-Test:-从入门到躺平](https://toutiao.io/k/nw6o5bq) ![](assets/new.png)  
 - [2022-08-24-批流一体数据集成框架ChunJun数据传输模块详解分享丨直播回顾](https://toutiao.io/k/4bopo73) ![](assets/new.png)  
-- [2022-08-24-推荐-微服务接口设计原则](https://toutiao.io/k/4hjv10p) ![](assets/new.png)  
+- [2022-08-24-推荐-掌握这些-SpringBoot-启动扩展点，已经超过-90%-的人了](https://toutiao.io/k/3m8iq2m) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

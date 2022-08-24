@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-24 21:13:54，:rocket: 更新条数: +2026， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-24 21:40:19，:rocket: 更新条数: +2027， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-08-24-数据表做逻辑删除/伪删除,-那关联表有没有必要加逻辑删除标识字段?](https://www.v2ex.com/t/875205) ![](assets/new.png)  
 - [2022-08-24-有同学遇到-iCloud-邮件收件箱邮件大量丢失的么](https://www.v2ex.com/t/875203) ![](assets/new.png)  
 - [2022-08-24-Apple-特别活动-北京时间-9-月-8-日凌晨-1-点，欢迎到-apple.com-在线观看。](https://www.v2ex.com/t/875202) ![](assets/new.png)  
 - [2022-08-24-iOS-15-操作系统似乎没有单独选项设置数据流量警告和上限功能？](https://www.v2ex.com/t/875200) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-08-24-10G-的-txt-文本文件用什么才好打开并且方便搜索](https://www.v2ex.com/t/875183) ![](assets/new.png)  
 - [2022-08-24-PowerShell-配错参数求救](https://www.v2ex.com/t/875182) ![](assets/new.png)  
 - [2022-08-24-解决-hugo-博客累计布局偏移CLS问题的一种思路](https://www.v2ex.com/t/875180) ![](assets/new.png)  
-- [2022-08-24-andriod-5-,-安装低版本-微信，如何绕过版本检测](https://www.v2ex.com/t/875178) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -572,7 +572,7 @@
 - [2022-08-24-Go-Test:-从入门到躺平](https://toutiao.io/k/nw6o5bq) ![](assets/new.png)  
 - [2022-08-24-深入解读新一代全栈框架-Fresh](https://toutiao.io/k/yu1dzll) ![](assets/new.png)  
 - [2022-08-24-批流一体数据集成框架ChunJun数据传输模块详解分享丨直播回顾](https://toutiao.io/k/4bopo73) ![](assets/new.png)  
-- [2022-08-24-推荐-微服务接口设计原则](https://toutiao.io/k/4hjv10p) ![](assets/new.png)  
+- [2022-08-24-推荐-掌握这些-SpringBoot-启动扩展点，已经超过-90%-的人了](https://toutiao.io/k/3m8iq2m) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

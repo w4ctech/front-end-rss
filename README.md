@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-24 11:38:31，:rocket: 更新条数: +2030， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-24 12:27:07，:rocket: 更新条数: +2029， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,13 @@
 </summary>
 
 
+- [2022-08-24-编译内核修复-Thinkbook-14+-6800h-键盘问题](https://www.v2ex.com/t/875156) ![](assets/new.png)  
+- [2022-08-24-有人遇到过-Telegram-卡死-iOS-系统的问题吗?](https://www.v2ex.com/t/875153) ![](assets/new.png)  
+- [2022-08-24-Chrome-控制台这里是-bug-吗](https://www.v2ex.com/t/875152) ![](assets/new.png)  
+- [2022-08-24-分享自己做的一个小程序](https://www.v2ex.com/t/875151) ![](assets/new.png)  
+- [2022-08-24-手动筛选知识库](https://www.v2ex.com/t/875149) ![](assets/new.png)  
+- [2022-08-24-媳妇遭到了云闪付诈骗，怎么解决](https://www.v2ex.com/t/875148) ![](assets/new.png)  
+- [2022-08-24-iPhone-备份大坑：-Mac-全量备份-iPhone-居然会丢数据？到底哪些数据会丢（哪些数据是不备份的）？](https://www.v2ex.com/t/875147) ![](assets/new.png)  
 - [2022-08-24-版本特性-|-Cloudpods-v3.9-重点功能介绍](https://www.v2ex.com/t/875146) ![](assets/new.png)  
 - [2022-08-24-文件上传下载文件，大家给点思路](https://www.v2ex.com/t/875144) ![](assets/new.png)  
 - [2022-08-24-网上买的联通电话卡，竟被偷偷安了宽带？](https://www.v2ex.com/t/875143) ![](assets/new.png)  
@@ -504,13 +511,6 @@
 - [2022-08-24-群发简历到一百家公司，忘了勾上「分别发送」了，那-HR-看到收件人有一百个其他公司的-HR，他们会怎么想呢……](https://www.v2ex.com/t/875132) ![](assets/new.png)  
 - [2022-08-24-在-virtualbox-中如何使两台电脑间用同一份-windows-虚拟机?](https://www.v2ex.com/t/875130) ![](assets/new.png)  
 - [2022-08-24-出京东全新的笔记本内存条-ddr4-2666](https://www.v2ex.com/t/875129) ![](assets/new.png)  
-- [2022-08-24-怎么区分自己写的软件是否是公司财产](https://www.v2ex.com/t/875128) ![](assets/new.png)  
-- [2022-08-24-请指点-M1-Air-购买](https://www.v2ex.com/t/875127) ![](assets/new.png)  
-- [2022-08-24-Maven-没有-weblogic-依赖吗？](https://www.v2ex.com/t/875125) ![](assets/new.png)  
-- [2022-08-24-AirPos-维修现在靠谱吗？](https://www.v2ex.com/t/875124) ![](assets/new.png)  
-- [2022-08-24-友友们，想换一个拍照好点的手机](https://www.v2ex.com/t/875123) ![](assets/new.png)  
-- [2022-08-24-今年真的不好找工作吗？想换工作了](https://www.v2ex.com/t/875122) ![](assets/new.png)  
-- [2022-08-24-golang-和-Java-有没有类似-c++的-unique_ptr-的库/实现？](https://www.v2ex.com/t/875120) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -572,7 +572,7 @@
 - [2022-08-24-深入解读新一代全栈框架-Fresh](https://toutiao.io/k/yu1dzll) ![](assets/new.png)  
 - [2022-08-24-Go-Test:-从入门到躺平](https://toutiao.io/k/nw6o5bq) ![](assets/new.png)  
 - [2022-08-24-批流一体数据集成框架ChunJun数据传输模块详解分享丨直播回顾](https://toutiao.io/k/4bopo73) ![](assets/new.png)  
-- [2022-08-24-推荐-连流量染色都没有，你说要搞微服务？](https://toutiao.io/k/9k1wfc7) ![](assets/new.png)  
+- [2022-08-24-推荐-微服务接口设计原则](https://toutiao.io/k/4hjv10p) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

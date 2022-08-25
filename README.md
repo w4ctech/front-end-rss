@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-25 19:12:18，:rocket: 更新条数: +2030， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-25 19:38:16，:rocket: 更新条数: +2030， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-08-25-提醒一下，币安-Android-Chrome-可以看到-i18n-key](https://www.v2ex.com/t/875476) ![](assets/new.png)  
 - [2022-08-25-请教Vue3+Vite-跨域问题，自己找不出原因](https://www.v2ex.com/t/875475) ![](assets/new.png)  
 - [2022-08-25-投资二三事](https://www.v2ex.com/t/875473) ![](assets/new.png)  
 - [2022-08-25-macos-平台有办法获取某个应用的实时-GUI-状态/信息吗？](https://www.v2ex.com/t/875472) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-08-25-求问：-Linux-怎么检测从接口中获取的-ipv6-地址是不是临时地址](https://www.v2ex.com/t/875457) ![](assets/new.png)  
 - [2022-08-25-听说三星-970-evo-plus-SSD-翻车了,-0E-问题](https://www.v2ex.com/t/875455) ![](assets/new.png)  
 - [2022-08-25-有哪些保健品是真实有效的？不是智商税。](https://www.v2ex.com/t/875454) ![](assets/new.png)  
-- [2022-08-25-搬瓦工-SPECIAL-20G-KVM-PROMO-V3---LOS-ANGELES---CN2-GIA](https://www.v2ex.com/t/875453) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

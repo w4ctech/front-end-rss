@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2022-08-25 19:12:18。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-08-25 19:38:16。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-08-25-提醒一下，币安-Android-Chrome-可以看到-i18n-key](https://www.v2ex.com/t/875476) 
 - [2022-08-25-请教Vue3+Vite-跨域问题，自己找不出原因](https://www.v2ex.com/t/875475) 
 - [2022-08-25-投资二三事](https://www.v2ex.com/t/875473) 
 - [2022-08-25-macos-平台有办法获取某个应用的实时-GUI-状态/信息吗？](https://www.v2ex.com/t/875472) 
@@ -44,4 +45,3 @@
 - [2022-08-25-怎样才能剪辑时候保持原视频格式，而体积不会变大呢？](https://www.v2ex.com/t/875431) 
 - [2022-08-25-刚转-spotify-平台，推荐一些英文歌单吧！](https://www.v2ex.com/t/875430) 
 - [2022-08-25-我一直弄不明白一个-finder-的操作逻辑,求大佬解惑](https://www.v2ex.com/t/875428) 
-- [2022-08-25-边境+starlink+家用宽带=跨境专线？](https://www.v2ex.com/t/875426) 

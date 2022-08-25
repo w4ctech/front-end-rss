@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-25 17:42:54，:rocket: 更新条数: +2031， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-25 18:16:42，:rocket: 更新条数: +2030， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,7 +491,7 @@
 </summary>
 
 
-- [2022-08-25-和小粉红女朋友在关于爱国意识形态方面发生了争论](https://www.v2ex.com/t/875474) ![](assets/new.png)  
+- [2022-08-25-请教Vue3+Vite-跨域问题，自己找不出原因](https://www.v2ex.com/t/875475) ![](assets/new.png)  
 - [2022-08-25-投资二三事](https://www.v2ex.com/t/875473) ![](assets/new.png)  
 - [2022-08-25-macos-平台有办法获取某个应用的实时-GUI-状态/信息吗？](https://www.v2ex.com/t/875472) ![](assets/new.png)  
 - [2022-08-25-这里空空如也](https://www.v2ex.com/t/875471) ![](assets/new.png)  

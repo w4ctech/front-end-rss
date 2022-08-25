@@ -9953,6 +9953,51 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "zip 文件编码问题",
+        "link": "https://www.v2ex.com/t/875311",
+        "date": "2022-08-25"
+      },
+      {
+        "title": "chrome 的 software reporter tool 导致电脑风扇狂转，如何禁止？",
+        "link": "https://www.v2ex.com/t/875310",
+        "date": "2022-08-25"
+      },
+      {
+        "title": "16 寸 M1 Pro 外接显示器唤醒死机",
+        "link": "https://www.v2ex.com/t/875309",
+        "date": "2022-08-25"
+      },
+      {
+        "title": "求批量校验 SFV MD5 SHA1 带 GUI 的软件",
+        "link": "https://www.v2ex.com/t/875308",
+        "date": "2022-08-25"
+      },
+      {
+        "title": "iCloud 2T 美区 4 人车",
+        "link": "https://www.v2ex.com/t/875307",
+        "date": "2022-08-25"
+      },
+      {
+        "title": "从待了三年的外包辞职了，大家伙有什么想问的吗？",
+        "link": "https://www.v2ex.com/t/875306",
+        "date": "2022-08-25"
+      },
+      {
+        "title": "求推荐一款 mac 用的无线蓝牙鼠标",
+        "link": "https://www.v2ex.com/t/875304",
+        "date": "2022-08-25"
+      },
+      {
+        "title": "分享自己做的一个查找单词词根词缀的产品",
+        "link": "https://www.v2ex.com/t/875303",
+        "date": "2022-08-25"
+      },
+      {
+        "title": "copilot 怎么付费",
+        "link": "https://www.v2ex.com/t/875302",
+        "date": "2022-08-25"
+      },
+      {
         "title": "关于骑行从入门到放弃的一些经验",
         "link": "https://www.v2ex.com/t/875300",
         "date": "2022-08-25"
@@ -10115,46 +10160,6 @@
       {
         "title": "jetbrains ide debug 时有办法指定跟踪某个线程吗？",
         "link": "https://www.v2ex.com/t/875263",
-        "date": "2022-08-25"
-      },
-      {
-        "title": "请教一下.ps1 运行时如何让 powerShell 同时显示运行的命令内容",
-        "link": "https://www.v2ex.com/t/875260",
-        "date": "2022-08-25"
-      },
-      {
-        "title": "麻烦 v 友们推荐下桌面无线充支架",
-        "link": "https://www.v2ex.com/t/875259",
-        "date": "2022-08-25"
-      },
-      {
-        "title": "同样是 bridge 模式, 为什么在 podman 环境中. 用 docker-compose 启动的两个服务之间无法通过服务名称相互通讯?",
-        "link": "https://www.v2ex.com/t/875257",
-        "date": "2022-08-25"
-      },
-      {
-        "title": "「闪击工作台」构建你的线上办公阵地，分享一个自己做的小工具",
-        "link": "https://www.v2ex.com/t/875256",
-        "date": "2022-08-25"
-      },
-      {
-        "title": "简历建议",
-        "link": "https://www.v2ex.com/t/875254",
-        "date": "2022-08-25"
-      },
-      {
-        "title": "问下天才吧可以检测充电器吗？",
-        "link": "https://www.v2ex.com/t/875253",
-        "date": "2022-08-25"
-      },
-      {
-        "title": "诡异的 DNS",
-        "link": "https://www.v2ex.com/t/875252",
-        "date": "2022-08-25"
-      },
-      {
-        "title": "搞了个商品监控群，有需求的可以进群",
-        "link": "https://www.v2ex.com/t/875251",
         "date": "2022-08-25"
       }
     ]
@@ -10347,18 +10352,28 @@
         "date": "2022-08-25"
       },
       {
-        "title": "[推荐] 掌握这些 SpringBoot 启动扩展点，已经超过 90% 的人了",
-        "link": "https://toutiao.io/k/3m8iq2m",
+        "title": "使用Go语言批量同步微信读书笔记到Flomo",
+        "link": "https://toutiao.io/k/a37u4yj",
         "date": "2022-08-25"
       },
       {
-        "title": "[推荐] 全网最全的权限系统设计方案（图解）",
-        "link": "https://toutiao.io/k/lozkmee",
+        "title": "【第2712期】日期选择器设计",
+        "link": "https://toutiao.io/k/z58e60d",
         "date": "2022-08-25"
       },
       {
-        "title": "[推荐] 微服务接口设计原则",
-        "link": "https://toutiao.io/k/4hjv10p",
+        "title": "网易有道成人教育数仓建设实践（建议收藏）",
+        "link": "https://toutiao.io/k/wbpp5bs",
+        "date": "2022-08-25"
+      },
+      {
+        "title": "Vue3中defineEmits、defineProps 是怎么做到不用引入就能直接用的",
+        "link": "https://toutiao.io/k/5u5mrh5",
+        "date": "2022-08-25"
+      },
+      {
+        "title": "【Rust日报】2022-08-22 Axum 0.6.0-rc.1",
+        "link": "https://toutiao.io/k/uce1rc9",
         "date": "2022-08-25"
       },
       {
@@ -10367,8 +10382,23 @@
         "date": "2022-08-25"
       },
       {
+        "title": "[推荐] 微服务接口设计原则",
+        "link": "https://toutiao.io/k/4hjv10p",
+        "date": "2022-08-25"
+      },
+      {
         "title": "[推荐] 聊聊 13 种锁的实现方式",
         "link": "https://toutiao.io/k/wcwg3fn",
+        "date": "2022-08-25"
+      },
+      {
+        "title": "[推荐] 掌握这些 SpringBoot 启动扩展点，已经超过 90% 的人了",
+        "link": "https://toutiao.io/k/3m8iq2m",
+        "date": "2022-08-25"
+      },
+      {
+        "title": "[推荐] 全网最全的权限系统设计方案（图解）",
+        "link": "https://toutiao.io/k/lozkmee",
         "date": "2022-08-25"
       }
     ]

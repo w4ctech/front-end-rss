@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-25 05:19:19，:rocket: 更新条数: +2027， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-25 06:09:07，:rocket: 更新条数: +2033， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,15 @@
 </summary>
 
 
+- [2022-08-25-zip-文件编码问题](https://www.v2ex.com/t/875311) ![](assets/new.png)  
+- [2022-08-25-chrome-的-software-reporter-tool-导致电脑风扇狂转，如何禁止？](https://www.v2ex.com/t/875310) ![](assets/new.png)  
+- [2022-08-25-16-寸-M1-Pro-外接显示器唤醒死机](https://www.v2ex.com/t/875309) ![](assets/new.png)  
+- [2022-08-25-求批量校验-SFV-MD5-SHA1-带-GUI-的软件](https://www.v2ex.com/t/875308) ![](assets/new.png)  
+- [2022-08-25-iCloud-2T-美区-4-人车](https://www.v2ex.com/t/875307) ![](assets/new.png)  
+- [2022-08-25-从待了三年的外包辞职了，大家伙有什么想问的吗？](https://www.v2ex.com/t/875306) ![](assets/new.png)  
+- [2022-08-25-求推荐一款-mac-用的无线蓝牙鼠标](https://www.v2ex.com/t/875304) ![](assets/new.png)  
+- [2022-08-25-分享自己做的一个查找单词词根词缀的产品](https://www.v2ex.com/t/875303) ![](assets/new.png)  
+- [2022-08-25-copilot-怎么付费](https://www.v2ex.com/t/875302) ![](assets/new.png)  
 - [2022-08-25-关于骑行从入门到放弃的一些经验](https://www.v2ex.com/t/875300) ![](assets/new.png)  
 - [2022-08-25-GigsGigsCloud-有兄弟们在用的吗？](https://www.v2ex.com/t/875299) ![](assets/new.png)  
 - [2022-08-25-程序员有相对越老越值钱的职业岗位吗](https://www.v2ex.com/t/875297) ![](assets/new.png)  
@@ -502,15 +511,6 @@
 - [2022-08-25-领导让拆分一部分事情到别的部门，是要做什么？](https://www.v2ex.com/t/875290) ![](assets/new.png)  
 - [2022-08-25-为了-homebrew-还是升级了系统](https://www.v2ex.com/t/875289) ![](assets/new.png)  
 - [2022-08-25-谈谈我们是如何实践-OKR-的（多年宝贵实践经验逼坑指南）](https://www.v2ex.com/t/875288) ![](assets/new.png)  
-- [2022-08-25-本田（新大洲、五羊）电动车车友群](https://www.v2ex.com/t/875287) ![](assets/new.png)  
-- [2022-08-25-请教如何让公司-VPN-保持连接](https://www.v2ex.com/t/875286) ![](assets/new.png)  
-- [2022-08-25-村通网-原来可以在-markdown-里面用-Mermaid-画图](https://www.v2ex.com/t/875284) ![](assets/new.png)  
-- [2022-08-25-求教-Java-里面用-gson-来解析-变化的-api-响应-的比较好的写法。。。](https://www.v2ex.com/t/875283) ![](assets/new.png)  
-- [2022-08-25-组一个杭州户外骑行的微信群](https://www.v2ex.com/t/875282) ![](assets/new.png)  
-- [2022-08-25-北京宽带如果不能办联通，电信移动怎么选](https://www.v2ex.com/t/875281) ![](assets/new.png)  
-- [2022-08-25-Swift-中数组/字典的内存结构是什么样的?](https://www.v2ex.com/t/875280) ![](assets/new.png)  
-- [2022-08-25-熊猫吃短信无法过滤联通运营商广告？](https://www.v2ex.com/t/875279) ![](assets/new.png)  
-- [2022-08-25-现在一个普通四声母-com-域名价值多少钱？](https://www.v2ex.com/t/875278) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -568,11 +568,11 @@
 - [2022-08-25-Kotlin扩展方法进化之Context-Receiver](https://toutiao.io/k/svxvoce) ![](assets/new.png)  
 - [2022-08-25-即时通讯安全篇（十）：IM聊天系统安全手段之通信连接层加密技术](https://toutiao.io/k/pgjrky2) ![](assets/new.png)  
 - [2022-08-25-超全总结：Go语言如何操作文件](https://toutiao.io/k/tk5m5ap) ![](assets/new.png)  
-- [2022-08-25-推荐-掌握这些-SpringBoot-启动扩展点，已经超过-90%-的人了](https://toutiao.io/k/3m8iq2m) ![](assets/new.png)  
-- [2022-08-25-推荐-全网最全的权限系统设计方案（图解）](https://toutiao.io/k/lozkmee) ![](assets/new.png)  
-- [2022-08-25-推荐-微服务接口设计原则](https://toutiao.io/k/4hjv10p) ![](assets/new.png)  
-- [2022-08-25-推荐-「架构选型」5-种-API-网关技术选型](https://toutiao.io/k/a4v7vsf) ![](assets/new.png)  
-- [2022-08-25-推荐-聊聊-13-种锁的实现方式](https://toutiao.io/k/wcwg3fn) ![](assets/new.png)  
+- [2022-08-25-使用Go语言批量同步微信读书笔记到Flomo](https://toutiao.io/k/a37u4yj) ![](assets/new.png)  
+- [2022-08-25-【第2712期】日期选择器设计](https://toutiao.io/k/z58e60d) ![](assets/new.png)  
+- [2022-08-25-网易有道成人教育数仓建设实践（建议收藏）](https://toutiao.io/k/wbpp5bs) ![](assets/new.png)  
+- [2022-08-25-Vue3中defineEmits、defineProps-是怎么做到不用引入就能直接用的](https://toutiao.io/k/5u5mrh5) ![](assets/new.png)  
+- [2022-08-25-【Rust日报】2022-08-22-Axum-0.6.0-rc.1](https://toutiao.io/k/uce1rc9) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

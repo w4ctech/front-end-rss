@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-25 14:40:15，:rocket: 更新条数: +2029， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-25 15:15:47，:rocket: 更新条数: +2027， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,11 @@
 </summary>
 
 
+- [2022-08-25-关于-github-GPG-的疑问](https://www.v2ex.com/t/875460) ![](assets/new.png)  
+- [2022-08-25-求问：-Linux-怎么检测从接口中获取的-ipv6-地址是不是临时地址](https://www.v2ex.com/t/875457) ![](assets/new.png)  
+- [2022-08-25-听说三星-970-evo-plus-SSD-翻车了,-0E-问题](https://www.v2ex.com/t/875455) ![](assets/new.png)  
+- [2022-08-25-有哪些保健品是真实有效的？不是智商税。](https://www.v2ex.com/t/875454) ![](assets/new.png)  
+- [2022-08-25-搬瓦工-SPECIAL-20G-KVM-PROMO-V3---LOS-ANGELES---CN2-GIA](https://www.v2ex.com/t/875453) ![](assets/new.png)  
 - [2022-08-25-打算建一个高质量-SRE-群](https://www.v2ex.com/t/875452) ![](assets/new.png)  
 - [2022-08-25-hexo-或者-hugo-对于-latex-渲染总是乱格式或者渲染不出来](https://www.v2ex.com/t/875451) ![](assets/new.png)  
 - [2022-08-25-从深圳回郑州，工资真的很低，想谋求其他发财路子](https://www.v2ex.com/t/875449) ![](assets/new.png)  
@@ -506,11 +511,6 @@
 - [2022-08-25-上海配眼镜](https://www.v2ex.com/t/875435) ![](assets/new.png)  
 - [2022-08-25-现在还有稳定无墙访问的博客平台吗？](https://www.v2ex.com/t/875434) ![](assets/new.png)  
 - [2022-08-25-ios-有无像微信视频通话模糊背景那种功能的视频录制软件？](https://www.v2ex.com/t/875433) ![](assets/new.png)  
-- [2022-08-25-哪里可以找到技术牛逼的老外开发，想花钱办点事，国内的牛逼的也行](https://www.v2ex.com/t/875432) ![](assets/new.png)  
-- [2022-08-25-怎样才能剪辑时候保持原视频格式，而体积不会变大呢？](https://www.v2ex.com/t/875431) ![](assets/new.png)  
-- [2022-08-25-刚转-spotify-平台，推荐一些英文歌单吧！](https://www.v2ex.com/t/875430) ![](assets/new.png)  
-- [2022-08-25-我一直弄不明白一个-finder-的操作逻辑,求大佬解惑](https://www.v2ex.com/t/875428) ![](assets/new.png)  
-- [2022-08-25-边境+starlink+家用宽带=跨境专线？](https://www.v2ex.com/t/875426) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -559,8 +559,8 @@
 - [2022-08-25-字典服务的设计与管理](https://toutiao.io/k/bq2ee4y) ![](assets/new.png)  
 - [2022-08-25-Prometheus+Grafana监控-基于docker-compose搭建](https://toutiao.io/k/e9a645c) ![](assets/new.png)  
 - [2022-08-25-10分钟搞定！Golang分布式ID集合](https://toutiao.io/k/f744yc5) ![](assets/new.png)  
-- [2022-08-25-干货-|-一文读懂字节跳动“埋点验证平台”（下）](https://toutiao.io/k/y3b1snh) ![](assets/new.png)  
 - [2022-08-25-重试框架-Spring-Retry-和-Guava-Retry，你知道该怎么选吗？](https://toutiao.io/k/5efb15j) ![](assets/new.png)  
+- [2022-08-25-干货-|-一文读懂字节跳动“埋点验证平台”（下）](https://toutiao.io/k/y3b1snh) ![](assets/new.png)  
 - [2022-08-25-阿里云-ACK-容器服务生产级可观测体系建设实践](https://toutiao.io/k/h1i75xf) ![](assets/new.png)  
 - [2022-08-25-现代中央处理器-CPU-是怎样进行分支预测的？](https://toutiao.io/k/bkib61g) ![](assets/new.png)  
 - [2022-08-25-全网对CAP最深层的思考](https://toutiao.io/k/1pn3dyy) ![](assets/new.png)  

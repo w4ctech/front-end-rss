@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-08-25 08:48:19。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-08-25 09:14:55。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -70,8 +70,12 @@
 
 - [【张鑫旭-鑫空间-鑫生活】2022-08-24-来了，来了，CSS-:has伪类她来了](https://www.zhangxinxu.com/wordpress/2022/08/css-has-pseudo-class/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-08-21-JS-replaceAll-和-matchAll-使用指南不指北](https://www.zhangxinxu.com/wordpress/2022/08/js-replaceall-matchall/) 
+- [【V2EX】2022-08-25-想做一款快速搭建-BBS-的-SAAS-系统,不知道这个是否有市场呢](https://www.v2ex.com/t/875378) 
+- [【V2EX】2022-08-25-你们会害怕死亡吗](https://www.v2ex.com/t/875377) 
+- [【V2EX】2022-08-25-IDEA-或者-JDK-会自动优化由于变量共享产生的非线程安全问题吗？](https://www.v2ex.com/t/875375) 
+- [【V2EX】2022-08-25-iOS-梯子翻墙不好，是系统问题？还是我用的软件不行？](https://www.v2ex.com/t/875374) 
 - [【V2EX】2022-08-25-试过在深圳闯红灯的老哥没](https://www.v2ex.com/t/875373) 
-- [【V2EX】2022-08-25-各位大佬下-MacOS-的-epub-阅读器有推荐的嘛？](https://www.v2ex.com/t/875372) 
+- [【V2EX】2022-08-25-各位大佬-MacOS-下的-epub-阅读器有推荐的嘛？](https://www.v2ex.com/t/875372) 
 - [【V2EX】2022-08-25-陷入怪圈](https://www.v2ex.com/t/875371) 
 - [【V2EX】2022-08-25-ipfs-和快播-qvod，从根本上是一种东西吗？](https://www.v2ex.com/t/875370) 
 - [【V2EX】2022-08-25-发现教师资格证注册登录只能用-IE。。](https://www.v2ex.com/t/875369) 
@@ -109,10 +113,7 @@
 - [【V2EX】2022-08-25-求救！-macos-里面的-qq-好友列表-存放在哪个文件里面？](https://www.v2ex.com/t/875331) 
 - [【V2EX】2022-08-25-毕设做-Glow-的课题卡住了怎么整。。。](https://www.v2ex.com/t/875330) 
 - [【V2EX】2022-08-25-Win11-总是使用网关作为-DNS？](https://www.v2ex.com/t/875329) 
-- [【V2EX】2022-08-25-腾讯会议貌似会修改电脑的电源计划](https://www.v2ex.com/t/875327) 
-- [【V2EX】2022-08-25-某知名移动互联网厂商-PAAS-团队工作机会](https://www.v2ex.com/t/875326) 
-- [【V2EX】2022-08-25-阿联酋地区使用的软件什么时候用阿拉伯数字，什么时候用阿拉伯文？](https://www.v2ex.com/t/875325) 
-- [【V2EX】2022-08-25-请教大家一个业务上的问题。](https://www.v2ex.com/t/875324) 
+- [【技术头条】2022-08-25-为什么我们需要企业架构？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15345&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fwhy-need-enterprise-architecture%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-08-25-软件泥潭真体验-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15344&url=https%3A%2F%2Finsights.thoughtworks.cn%2Flegacy-system-operation-experience%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-08-25-VS-Code-是如何优化启动性能的？-fed.taobao.org](https://blogread.cn/news/go.php?idItem=15343&url=https%3A%2F%2Ffed.taobao.org%2Fblog%2Ftaofed%2Fdo71ct%2Fwpsf10%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-08-25-ICLR-2021-|-美团AutoML论文：鲁棒的神经网络架构搜索-DARTS--tech.meituan.com](https://blogread.cn/news/go.php?idItem=15342&url=https%3A%2F%2Ftech.meituan.com%2F2021%2F03%2F25%2Ficlr-2021-nas-automl-darts.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -132,9 +133,8 @@
 - [【技术头条】2022-08-25-关于-RSA-的一些趣事-www.felix021.com](https://blogread.cn/news/go.php?idItem=15328&url=https%3A%2F%2Fwww.felix021.com%2Fblog%2Fread.php%3F2213%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-08-25-关于用研岗位的思考-blog.devtang.com](https://blogread.cn/news/go.php?idItem=15327&url=https%3A%2F%2Fblog.devtang.com%2F2020%2F07%2F28%2Fabout-user-research%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-08-25-前端AB实验设计思路与实现原理-fed.taobao.org](https://blogread.cn/news/go.php?idItem=15326&url=https%3A%2F%2Ffed.taobao.org%2Fblog%2Ftaofed%2Fdo71ct%2Ffrontend-ab-test%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
-- [【技术头条】2022-08-25-HTTP/3-原理与实践-www.alloyteam.com](https://blogread.cn/news/go.php?idItem=15325&url=http%3A%2F%2Fwww.alloyteam.com%2F2020%2F05%2F14385%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
-- [【开发者头条】2022-08-25-丢弃掉那些BeanUtils工具类吧，MapStruct真香！！！](https://toutiao.io/k/6muqkam) 
 - [【开发者头条】2022-08-25-收钱吧研发效能实践之工具篇](https://toutiao.io/k/2z8fuzj) 
+- [【开发者头条】2022-08-25-丢弃掉那些BeanUtils工具类吧，MapStruct真香！！！](https://toutiao.io/k/6muqkam) 
 - [【开发者头条】2022-08-25-横贯八方揭秘RabbitMQ、RocketMQ、Kafka-的核心原理（建议收藏）](https://toutiao.io/k/ixymws7) 
 - [【开发者头条】2022-08-25-Prometheus+Grafana监控-基于docker-compose搭建](https://toutiao.io/k/e9a645c) 
 - [【开发者头条】2022-08-25-字典服务的设计与管理](https://toutiao.io/k/bq2ee4y) 
@@ -153,11 +153,11 @@
 - [【开发者头条】2022-08-25-【Rust日报】2022-08-22-Axum-0.6.0-rc.1](https://toutiao.io/k/uce1rc9) 
 - [【开发者头条】2022-08-25-Vue3中defineEmits、defineProps-是怎么做到不用引入就能直接用的](https://toutiao.io/k/5u5mrh5) 
 - [【开发者头条】2022-08-25-【第2712期】日期选择器设计](https://toutiao.io/k/z58e60d) 
-- [【开发者头条】2022-08-25-推荐-微服务接口设计原则](https://toutiao.io/k/4hjv10p) 
-- [【开发者头条】2022-08-25-推荐-全网最全的权限系统设计方案（图解）](https://toutiao.io/k/lozkmee) 
-- [【开发者头条】2022-08-25-推荐-掌握这些-SpringBoot-启动扩展点，已经超过-90%-的人了](https://toutiao.io/k/3m8iq2m) 
 - [【开发者头条】2022-08-25-推荐-聊聊-13-种锁的实现方式](https://toutiao.io/k/wcwg3fn) 
 - [【开发者头条】2022-08-25-推荐-「架构选型」5-种-API-网关技术选型](https://toutiao.io/k/a4v7vsf) 
+- [【开发者头条】2022-08-25-推荐-掌握这些-SpringBoot-启动扩展点，已经超过-90%-的人了](https://toutiao.io/k/3m8iq2m) 
+- [【开发者头条】2022-08-25-推荐-微服务接口设计原则](https://toutiao.io/k/4hjv10p) 
+- [【开发者头条】2022-08-25-推荐-全网最全的权限系统设计方案（图解）](https://toutiao.io/k/lozkmee) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-25 08:48:19，:rocket: 更新条数: +2034， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-25 09:14:55，:rocket: 更新条数: +2034， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,8 +491,12 @@
 </summary>
 
 
+- [2022-08-25-想做一款快速搭建-BBS-的-SAAS-系统,不知道这个是否有市场呢](https://www.v2ex.com/t/875378) ![](assets/new.png)  
+- [2022-08-25-你们会害怕死亡吗](https://www.v2ex.com/t/875377) ![](assets/new.png)  
+- [2022-08-25-IDEA-或者-JDK-会自动优化由于变量共享产生的非线程安全问题吗？](https://www.v2ex.com/t/875375) ![](assets/new.png)  
+- [2022-08-25-iOS-梯子翻墙不好，是系统问题？还是我用的软件不行？](https://www.v2ex.com/t/875374) ![](assets/new.png)  
 - [2022-08-25-试过在深圳闯红灯的老哥没](https://www.v2ex.com/t/875373) ![](assets/new.png)  
-- [2022-08-25-各位大佬下-MacOS-的-epub-阅读器有推荐的嘛？](https://www.v2ex.com/t/875372) ![](assets/new.png)  
+- [2022-08-25-各位大佬-MacOS-下的-epub-阅读器有推荐的嘛？](https://www.v2ex.com/t/875372) ![](assets/new.png)  
 - [2022-08-25-陷入怪圈](https://www.v2ex.com/t/875371) ![](assets/new.png)  
 - [2022-08-25-ipfs-和快播-qvod，从根本上是一种东西吗？](https://www.v2ex.com/t/875370) ![](assets/new.png)  
 - [2022-08-25-发现教师资格证注册登录只能用-IE。。](https://www.v2ex.com/t/875369) ![](assets/new.png)  
@@ -507,10 +511,6 @@
 - [2022-08-25-电动自行车被盗！求推荐一款-4k-左右，靠谱新国标电动自行车!](https://www.v2ex.com/t/875358) ![](assets/new.png)  
 - [2022-08-25-写-mini-vue-过程中遇到一个问题，不知道如何解决](https://www.v2ex.com/t/875357) ![](assets/new.png)  
 - [2022-08-25-为什么现在全都是外包了，这到底是为什么](https://www.v2ex.com/t/875355) ![](assets/new.png)  
-- [2022-08-25-package.json-的^-和-~什么时候会生效？](https://www.v2ex.com/t/875354) ![](assets/new.png)  
-- [2022-08-25-现在国内手机还需要通过冰箱或绿色守护一类的杀后台吗？](https://www.v2ex.com/t/875353) ![](assets/new.png)  
-- [2022-08-25-中文简历翻译成英文简历，有靠谱的在线网站或者服务吗？免费的-或者-收费的-都可以。](https://www.v2ex.com/t/875352) ![](assets/new.png)  
-- [2022-08-25-这种诈骗短信，你们有没有收到过？](https://www.v2ex.com/t/875351) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -522,6 +522,7 @@
 </summary>
 
 
+- [2022-08-25-为什么我们需要企业架构？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15345&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fwhy-need-enterprise-architecture%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-08-25-软件泥潭真体验-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15344&url=https%3A%2F%2Finsights.thoughtworks.cn%2Flegacy-system-operation-experience%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-08-25-VS-Code-是如何优化启动性能的？-fed.taobao.org](https://blogread.cn/news/go.php?idItem=15343&url=https%3A%2F%2Ffed.taobao.org%2Fblog%2Ftaofed%2Fdo71ct%2Fwpsf10%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-08-25-ICLR-2021-|-美团AutoML论文：鲁棒的神经网络架构搜索-DARTS--tech.meituan.com](https://blogread.cn/news/go.php?idItem=15342&url=https%3A%2F%2Ftech.meituan.com%2F2021%2F03%2F25%2Ficlr-2021-nas-automl-darts.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
@@ -541,7 +542,6 @@
 - [2022-08-25-关于-RSA-的一些趣事-www.felix021.com](https://blogread.cn/news/go.php?idItem=15328&url=https%3A%2F%2Fwww.felix021.com%2Fblog%2Fread.php%3F2213%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-08-25-关于用研岗位的思考-blog.devtang.com](https://blogread.cn/news/go.php?idItem=15327&url=https%3A%2F%2Fblog.devtang.com%2F2020%2F07%2F28%2Fabout-user-research%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-08-25-前端AB实验设计思路与实现原理-fed.taobao.org](https://blogread.cn/news/go.php?idItem=15326&url=https%3A%2F%2Ffed.taobao.org%2Fblog%2Ftaofed%2Fdo71ct%2Ffrontend-ab-test%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-08-25-HTTP/3-原理与实践-www.alloyteam.com](https://blogread.cn/news/go.php?idItem=15325&url=http%3A%2F%2Fwww.alloyteam.com%2F2020%2F05%2F14385%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -553,8 +553,8 @@
 </summary>
 
 
-- [2022-08-25-丢弃掉那些BeanUtils工具类吧，MapStruct真香！！！](https://toutiao.io/k/6muqkam) ![](assets/new.png)  
 - [2022-08-25-收钱吧研发效能实践之工具篇](https://toutiao.io/k/2z8fuzj) ![](assets/new.png)  
+- [2022-08-25-丢弃掉那些BeanUtils工具类吧，MapStruct真香！！！](https://toutiao.io/k/6muqkam) ![](assets/new.png)  
 - [2022-08-25-横贯八方揭秘RabbitMQ、RocketMQ、Kafka-的核心原理（建议收藏）](https://toutiao.io/k/ixymws7) ![](assets/new.png)  
 - [2022-08-25-Prometheus+Grafana监控-基于docker-compose搭建](https://toutiao.io/k/e9a645c) ![](assets/new.png)  
 - [2022-08-25-字典服务的设计与管理](https://toutiao.io/k/bq2ee4y) ![](assets/new.png)  

@@ -9953,12 +9953,32 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "想做一款快速搭建 BBS 的 SAAS 系统,不知道这个是否有市场呢",
+        "link": "https://www.v2ex.com/t/875378",
+        "date": "2022-08-25"
+      },
+      {
+        "title": "你们会害怕死亡吗",
+        "link": "https://www.v2ex.com/t/875377",
+        "date": "2022-08-25"
+      },
+      {
+        "title": "IDEA 或者 JDK 会自动优化由于变量共享产生的非线程安全问题吗？",
+        "link": "https://www.v2ex.com/t/875375",
+        "date": "2022-08-25"
+      },
+      {
+        "title": "iOS 梯子翻墙不好，是系统问题？还是我用的软件不行？",
+        "link": "https://www.v2ex.com/t/875374",
+        "date": "2022-08-25"
+      },
+      {
         "title": "试过在深圳闯红灯的老哥没",
         "link": "https://www.v2ex.com/t/875373",
         "date": "2022-08-25"
       },
       {
-        "title": "各位大佬下 MacOS 的 epub 阅读器有推荐的嘛？",
+        "title": "各位大佬 MacOS 下的 epub 阅读器有推荐的嘛？",
         "link": "https://www.v2ex.com/t/875372",
         "date": "2022-08-25"
       },
@@ -10146,26 +10166,6 @@
         "title": "Win11 总是使用网关作为 DNS？",
         "link": "https://www.v2ex.com/t/875329",
         "date": "2022-08-25"
-      },
-      {
-        "title": "腾讯会议貌似会修改电脑的电源计划",
-        "link": "https://www.v2ex.com/t/875327",
-        "date": "2022-08-25"
-      },
-      {
-        "title": "某知名移动互联网厂商-PAAS 团队工作机会",
-        "link": "https://www.v2ex.com/t/875326",
-        "date": "2022-08-25"
-      },
-      {
-        "title": "阿联酋地区使用的软件什么时候用阿拉伯数字，什么时候用阿拉伯文？",
-        "link": "https://www.v2ex.com/t/875325",
-        "date": "2022-08-25"
-      },
-      {
-        "title": "请教大家一个业务上的问题。",
-        "link": "https://www.v2ex.com/t/875324",
-        "date": "2022-08-25"
       }
     ]
   },
@@ -10174,6 +10174,11 @@
     "title": "技术头条",
     "link": "http://blogread.cn/news/newest.php",
     "items": [
+      {
+        "title": "为什么我们需要企业架构？ (insights.thoughtworks.cn)",
+        "link": "https://blogread.cn/news/go.php?idItem=15345&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fwhy-need-enterprise-architecture%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2022-08-25"
+      },
       {
         "title": "软件泥潭真体验 (insights.thoughtworks.cn)",
         "link": "https://blogread.cn/news/go.php?idItem=15344&url=https%3A%2F%2Finsights.thoughtworks.cn%2Flegacy-system-operation-experience%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
@@ -10268,11 +10273,6 @@
         "title": "前端AB实验设计思路与实现原理 (fed.taobao.org)",
         "link": "https://blogread.cn/news/go.php?idItem=15326&url=https%3A%2F%2Ffed.taobao.org%2Fblog%2Ftaofed%2Fdo71ct%2Ffrontend-ab-test%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
         "date": "2022-08-25"
-      },
-      {
-        "title": "HTTP/3 原理与实践 (www.alloyteam.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=15325&url=http%3A%2F%2Fwww.alloyteam.com%2F2020%2F05%2F14385%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-08-25"
       }
     ]
   },
@@ -10282,13 +10282,13 @@
     "link": "https://toutiao.io",
     "items": [
       {
-        "title": "丢弃掉那些BeanUtils工具类吧，MapStruct真香！！！",
-        "link": "https://toutiao.io/k/6muqkam",
+        "title": "收钱吧研发效能实践之工具篇",
+        "link": "https://toutiao.io/k/2z8fuzj",
         "date": "2022-08-25"
       },
       {
-        "title": "收钱吧研发效能实践之工具篇",
-        "link": "https://toutiao.io/k/2z8fuzj",
+        "title": "丢弃掉那些BeanUtils工具类吧，MapStruct真香！！！",
+        "link": "https://toutiao.io/k/6muqkam",
         "date": "2022-08-25"
       },
       {
@@ -10382,13 +10382,13 @@
         "date": "2022-08-25"
       },
       {
-        "title": "[推荐] 微服务接口设计原则",
-        "link": "https://toutiao.io/k/4hjv10p",
+        "title": "[推荐] 聊聊 13 种锁的实现方式",
+        "link": "https://toutiao.io/k/wcwg3fn",
         "date": "2022-08-25"
       },
       {
-        "title": "[推荐] 全网最全的权限系统设计方案（图解）",
-        "link": "https://toutiao.io/k/lozkmee",
+        "title": "[推荐] 「架构选型」5 种 API 网关技术选型",
+        "link": "https://toutiao.io/k/a4v7vsf",
         "date": "2022-08-25"
       },
       {
@@ -10397,13 +10397,13 @@
         "date": "2022-08-25"
       },
       {
-        "title": "[推荐] 聊聊 13 种锁的实现方式",
-        "link": "https://toutiao.io/k/wcwg3fn",
+        "title": "[推荐] 微服务接口设计原则",
+        "link": "https://toutiao.io/k/4hjv10p",
         "date": "2022-08-25"
       },
       {
-        "title": "[推荐] 「架构选型」5 种 API 网关技术选型",
-        "link": "https://toutiao.io/k/a4v7vsf",
+        "title": "[推荐] 全网最全的权限系统设计方案（图解）",
+        "link": "https://toutiao.io/k/lozkmee",
         "date": "2022-08-25"
       }
     ]

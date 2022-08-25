@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-25 13:59:06，:rocket: 更新条数: +2030， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-25 14:15:49，:rocket: 更新条数: +2029， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,11 @@
 </summary>
 
 
+- [2022-08-25-从深圳回郑州，工资真的很低，想谋求其他发财路子](https://www.v2ex.com/t/875449) ![](assets/new.png)  
+- [2022-08-25-黑龙江农村信用社-年薪百万-招聘-首席信息官](https://www.v2ex.com/t/875446) ![](assets/new.png)  
+- [2022-08-25-我是不是买了假的-SSD-硬盘，购买渠道是拼多多](https://www.v2ex.com/t/875445) ![](assets/new.png)  
+- [2022-08-25-qq-for-mac-本地的聊天记录有什么好的方法查看或者提取吗？现在-qq-无法登录了，想找到某个聊天记录](https://www.v2ex.com/t/875444) ![](assets/new.png)  
+- [2022-08-25-请大家忙帮看下简历，-22-届应届生投简历没回应，谢谢大家。](https://www.v2ex.com/t/875443) ![](assets/new.png)  
 - [2022-08-25-互联网上为了保护隐私我们能做些什么？分享我的想法和我带来的-link-cleaner](https://www.v2ex.com/t/875442) ![](assets/new.png)  
 - [2022-08-25-idm-没有注册过期了不能用，除了重装系统还有别的简单高效的方法吗？](https://www.v2ex.com/t/875441) ![](assets/new.png)  
 - [2022-08-25-请问-Generative-Dungeon-是怎么实现在-opensea-上直接玩游戏](https://www.v2ex.com/t/875440) ![](assets/new.png)  
@@ -506,11 +511,6 @@
 - [2022-08-25-边境+starlink+家用宽带=跨境专线？](https://www.v2ex.com/t/875426) ![](assets/new.png)  
 - [2022-08-25-豆瓣电影这个筛选是彻底废了](https://www.v2ex.com/t/875425) ![](assets/new.png)  
 - [2022-08-25-为什么-Macos-明明还有很多内存没用（我-32G-内存），却动不动提示软件内存不足呢？](https://www.v2ex.com/t/875424) ![](assets/new.png)  
-- [2022-08-25-配置文件现在需要一个短语密码。](https://www.v2ex.com/t/875423) ![](assets/new.png)  
-- [2022-08-25-有破解数据算法的高手吗.有偿求助](https://www.v2ex.com/t/875420) ![](assets/new.png)  
-- [2022-08-25-如何证明证明鲍勃抛出的正面数比爱丽丝抛出的正面数多的概率为-1/2-？](https://www.v2ex.com/t/875418) ![](assets/new.png)  
-- [2022-08-25-2-月份预约的-512G-steam-deck，之前一直显示-10-到-12-月发货，今天突然提前到-7-月到-9-月了](https://www.v2ex.com/t/875417) ![](assets/new.png)  
-- [2022-08-25-求解决办法，新系统无法识别声卡](https://www.v2ex.com/t/875416) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -559,15 +559,15 @@
 - [2022-08-25-字典服务的设计与管理](https://toutiao.io/k/bq2ee4y) ![](assets/new.png)  
 - [2022-08-25-Prometheus+Grafana监控-基于docker-compose搭建](https://toutiao.io/k/e9a645c) ![](assets/new.png)  
 - [2022-08-25-10分钟搞定！Golang分布式ID集合](https://toutiao.io/k/f744yc5) ![](assets/new.png)  
-- [2022-08-25-干货-|-一文读懂字节跳动“埋点验证平台”（下）](https://toutiao.io/k/y3b1snh) ![](assets/new.png)  
 - [2022-08-25-重试框架-Spring-Retry-和-Guava-Retry，你知道该怎么选吗？](https://toutiao.io/k/5efb15j) ![](assets/new.png)  
+- [2022-08-25-干货-|-一文读懂字节跳动“埋点验证平台”（下）](https://toutiao.io/k/y3b1snh) ![](assets/new.png)  
 - [2022-08-25-阿里云-ACK-容器服务生产级可观测体系建设实践](https://toutiao.io/k/h1i75xf) ![](assets/new.png)  
 - [2022-08-25-现代中央处理器-CPU-是怎样进行分支预测的？](https://toutiao.io/k/bkib61g) ![](assets/new.png)  
 - [2022-08-25-全网对CAP最深层的思考](https://toutiao.io/k/1pn3dyy) ![](assets/new.png)  
 - [2022-08-25-2022年Python十级试题全国卷B](https://toutiao.io/k/tle4qri) ![](assets/new.png)  
 - [2022-08-25-Kotlin扩展方法进化之Context-Receiver](https://toutiao.io/k/svxvoce) ![](assets/new.png)  
-- [2022-08-25-即时通讯安全篇（十）：IM聊天系统安全手段之通信连接层加密技术](https://toutiao.io/k/pgjrky2) ![](assets/new.png)  
 - [2022-08-25-使用Go语言批量同步微信读书笔记到Flomo](https://toutiao.io/k/a37u4yj) ![](assets/new.png)  
+- [2022-08-25-即时通讯安全篇（十）：IM聊天系统安全手段之通信连接层加密技术](https://toutiao.io/k/pgjrky2) ![](assets/new.png)  
 - [2022-08-25-超全总结：Go语言如何操作文件](https://toutiao.io/k/tk5m5ap) ![](assets/new.png)  
 - [2022-08-25-网易有道成人教育数仓建设实践（建议收藏）](https://toutiao.io/k/wbpp5bs) ![](assets/new.png)  
 - [2022-08-25-Vue3中defineEmits、defineProps-是怎么做到不用引入就能直接用的](https://toutiao.io/k/5u5mrh5) ![](assets/new.png)  

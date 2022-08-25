@@ -9810,7 +9810,58 @@
     "rss": "https://www.zhangxinxu.com/wordpress/feed/",
     "title": "张鑫旭-鑫空间-鑫生活",
     "link": "https://www.zhangxinxu.com/wordpress",
-    "items": []
+    "items": [
+      {
+        "title": "来了，来了，CSS :has()伪类她来了",
+        "link": "https://www.zhangxinxu.com/wordpress/2022/08/css-has-pseudo-class/",
+        "date": "2022-08-24"
+      },
+      {
+        "title": "JS replaceAll 和 matchAll 使用指南不指北",
+        "link": "https://www.zhangxinxu.com/wordpress/2022/08/js-replaceall-matchall/",
+        "date": "2022-08-21"
+      },
+      {
+        "title": "万物皆可clip-path，纯CSS绘制0-9数字",
+        "link": "https://www.zhangxinxu.com/wordpress/2022/07/clip-path-css-number/",
+        "date": "2022-07-27"
+      },
+      {
+        "title": "超酷！CSS font-palette与彩色字体显示",
+        "link": "https://www.zhangxinxu.com/wordpress/2022/07/css-font-palette/",
+        "date": "2022-07-21"
+      },
+      {
+        "title": "CSS排版为何强？瞧瞧多牛这换行",
+        "link": "https://www.zhangxinxu.com/wordpress/2022/06/css-line-break-word-wrap-all/",
+        "date": "2022-06-30"
+      },
+      {
+        "title": "如何继承自定义元素及其他JS中扩展新方法",
+        "link": "https://www.zhangxinxu.com/wordpress/2022/06/js-extend-class-custom-elements/",
+        "date": "2022-06-19"
+      },
+      {
+        "title": "基于文字的URL锚点定位与::target-text样式设置",
+        "link": "https://www.zhangxinxu.com/wordpress/2022/06/url-anchor-target-text/",
+        "date": "2022-06-12"
+      },
+      {
+        "title": "介绍一种CSS变量未定义语法也OK的小妙招",
+        "link": "https://www.zhangxinxu.com/wordpress/2022/06/css-var-optional-empty-trick/",
+        "date": "2022-06-11"
+      },
+      {
+        "title": "如何实现页面刷新后不定位到之前的滚动位置？",
+        "link": "https://www.zhangxinxu.com/wordpress/2022/05/history-scrollrestoration/",
+        "date": "2022-05-29"
+      },
+      {
+        "title": "详解日后定会大规模使用的CSS @layer 规则",
+        "link": "https://www.zhangxinxu.com/wordpress/2022/05/css-layer-rule/",
+        "date": "2022-05-28"
+      }
+    ]
   },
   {
     "rss": "http://www.ruanyifeng.com/blog/atom.xml",
@@ -9901,6 +9952,21 @@
     "title": "V2EX",
     "link": "https://www.v2ex.com/",
     "items": [
+      {
+        "title": "chrome 41 上 css 的兼容问题",
+        "link": "https://www.v2ex.com/t/875340",
+        "date": "2022-08-25"
+      },
+      {
+        "title": "求助,群晖和威联通在移动端 APP 上的使用体验如何?",
+        "link": "https://www.v2ex.com/t/875338",
+        "date": "2022-08-25"
+      },
+      {
+        "title": "拒绝加班:巧用前端电子表格中构建公式树",
+        "link": "https://www.v2ex.com/t/875337",
+        "date": "2022-08-25"
+      },
       {
         "title": "Mysql 主从下,行锁还有效吗",
         "link": "https://www.v2ex.com/t/875336",
@@ -10022,11 +10088,6 @@
         "date": "2022-08-25"
       },
       {
-        "title": "iCloud 2T 美区 4 人车",
-        "link": "https://www.v2ex.com/t/875307",
-        "date": "2022-08-25"
-      },
-      {
         "title": "从待了三年的外包辞职了，大家伙有什么想问的吗？",
         "link": "https://www.v2ex.com/t/875306",
         "date": "2022-08-25"
@@ -10084,26 +10145,6 @@
       {
         "title": "特价 HomeKit 吸顶灯,支持小度、小爱、天猫、2.4G 遥控器",
         "link": "https://www.v2ex.com/t/875291",
-        "date": "2022-08-25"
-      },
-      {
-        "title": "领导让拆分一部分事情到别的部门，是要做什么？",
-        "link": "https://www.v2ex.com/t/875290",
-        "date": "2022-08-25"
-      },
-      {
-        "title": "为了 homebrew 还是升级了系统",
-        "link": "https://www.v2ex.com/t/875289",
-        "date": "2022-08-25"
-      },
-      {
-        "title": "谈谈我们是如何实践 OKR 的（多年宝贵实践经验逼坑指南）",
-        "link": "https://www.v2ex.com/t/875288",
-        "date": "2022-08-25"
-      },
-      {
-        "title": "本田（新大洲、五羊）电动车车友群",
-        "link": "https://www.v2ex.com/t/875287",
         "date": "2022-08-25"
       }
     ]
@@ -10221,13 +10262,13 @@
     "link": "https://toutiao.io",
     "items": [
       {
-        "title": "收钱吧研发效能实践之工具篇",
-        "link": "https://toutiao.io/k/2z8fuzj",
+        "title": "丢弃掉那些BeanUtils工具类吧，MapStruct真香！！！",
+        "link": "https://toutiao.io/k/6muqkam",
         "date": "2022-08-25"
       },
       {
-        "title": "丢弃掉那些BeanUtils工具类吧，MapStruct真香！！！",
-        "link": "https://toutiao.io/k/6muqkam",
+        "title": "收钱吧研发效能实践之工具篇",
+        "link": "https://toutiao.io/k/2z8fuzj",
         "date": "2022-08-25"
       },
       {
@@ -10301,13 +10342,13 @@
         "date": "2022-08-25"
       },
       {
-        "title": "使用Go语言批量同步微信读书笔记到Flomo",
-        "link": "https://toutiao.io/k/a37u4yj",
+        "title": "【第2712期】日期选择器设计",
+        "link": "https://toutiao.io/k/z58e60d",
         "date": "2022-08-25"
       },
       {
-        "title": "【第2712期】日期选择器设计",
-        "link": "https://toutiao.io/k/z58e60d",
+        "title": "使用Go语言批量同步微信读书笔记到Flomo",
+        "link": "https://toutiao.io/k/a37u4yj",
         "date": "2022-08-25"
       },
       {
@@ -10318,6 +10359,11 @@
       {
         "title": "Vue3中defineEmits、defineProps 是怎么做到不用引入就能直接用的",
         "link": "https://toutiao.io/k/5u5mrh5",
+        "date": "2022-08-25"
+      },
+      {
+        "title": "[推荐] 掌握这些 SpringBoot 启动扩展点，已经超过 90% 的人了",
+        "link": "https://toutiao.io/k/3m8iq2m",
         "date": "2022-08-25"
       },
       {
@@ -10333,11 +10379,6 @@
       {
         "title": "[推荐] 微服务接口设计原则",
         "link": "https://toutiao.io/k/4hjv10p",
-        "date": "2022-08-25"
-      },
-      {
-        "title": "[推荐] 掌握这些 SpringBoot 启动扩展点，已经超过 90% 的人了",
-        "link": "https://toutiao.io/k/3m8iq2m",
         "date": "2022-08-25"
       },
       {

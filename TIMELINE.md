@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-08-25 17:18:37。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-08-25 17:42:54。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -70,6 +70,9 @@
 
 - [【张鑫旭-鑫空间-鑫生活】2022-08-24-来了，来了，CSS-:has伪类她来了](https://www.zhangxinxu.com/wordpress/2022/08/css-has-pseudo-class/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-08-21-JS-replaceAll-和-matchAll-使用指南不指北](https://www.zhangxinxu.com/wordpress/2022/08/js-replaceall-matchall/) 
+- [【V2EX】2022-08-25-和小粉红女朋友在关于爱国意识形态方面发生了争论](https://www.v2ex.com/t/875474) 
+- [【V2EX】2022-08-25-投资二三事](https://www.v2ex.com/t/875473) 
+- [【V2EX】2022-08-25-macos-平台有办法获取某个应用的实时-GUI-状态/信息吗？](https://www.v2ex.com/t/875472) 
 - [【V2EX】2022-08-25-这里空空如也](https://www.v2ex.com/t/875471) 
 - [【V2EX】2022-08-25-Apple-TV-中去除-YouTube-广告](https://www.v2ex.com/t/875470) 
 - [【V2EX】2022-08-25-Heroku-免费服务器没得完了，-11-月-28-日全线停止免费计划](https://www.v2ex.com/t/875469) 
@@ -108,8 +111,6 @@
 - [【V2EX】2022-08-25-我一直弄不明白一个-finder-的操作逻辑,求大佬解惑](https://www.v2ex.com/t/875428) 
 - [【V2EX】2022-08-25-边境+starlink+家用宽带=跨境专线？](https://www.v2ex.com/t/875426) 
 - [【V2EX】2022-08-25-豆瓣电影这个筛选是彻底废了](https://www.v2ex.com/t/875425) 
-- [【V2EX】2022-08-25-为什么-Macos-明明还有很多内存没用（我-32G-内存），却动不动提示软件内存不足呢？](https://www.v2ex.com/t/875424) 
-- [【V2EX】2022-08-25-配置文件现在需要一个短语密码。](https://www.v2ex.com/t/875423) 
 - [【技术头条】2022-08-25-为什么我们需要企业架构？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15345&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fwhy-need-enterprise-architecture%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-08-25-软件泥潭真体验-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15344&url=https%3A%2F%2Finsights.thoughtworks.cn%2Flegacy-system-operation-experience%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-08-25-VS-Code-是如何优化启动性能的？-fed.taobao.org](https://blogread.cn/news/go.php?idItem=15343&url=https%3A%2F%2Ffed.taobao.org%2Fblog%2Ftaofed%2Fdo71ct%2Fwpsf10%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -143,16 +144,16 @@
 - [【开发者头条】2022-08-25-全网对CAP最深层的思考](https://toutiao.io/k/1pn3dyy) 
 - [【开发者头条】2022-08-25-2022年Python十级试题全国卷B](https://toutiao.io/k/tle4qri) 
 - [【开发者头条】2022-08-25-使用Go语言批量同步微信读书笔记到Flomo](https://toutiao.io/k/a37u4yj) 
-- [【开发者头条】2022-08-25-Kotlin扩展方法进化之Context-Receiver](https://toutiao.io/k/svxvoce) 
 - [【开发者头条】2022-08-25-超全总结：Go语言如何操作文件](https://toutiao.io/k/tk5m5ap) 
+- [【开发者头条】2022-08-25-Kotlin扩展方法进化之Context-Receiver](https://toutiao.io/k/svxvoce) 
 - [【开发者头条】2022-08-25-即时通讯安全篇（十）：IM聊天系统安全手段之通信连接层加密技术](https://toutiao.io/k/pgjrky2) 
 - [【开发者头条】2022-08-25-网易有道成人教育数仓建设实践（建议收藏）](https://toutiao.io/k/wbpp5bs) 
 - [【开发者头条】2022-08-25-Vue3中defineEmits、defineProps-是怎么做到不用引入就能直接用的](https://toutiao.io/k/5u5mrh5) 
 - [【开发者头条】2022-08-25-【Rust日报】2022-08-22-Axum-0.6.0-rc.1](https://toutiao.io/k/uce1rc9) 
 - [【开发者头条】2022-08-25-【第2712期】日期选择器设计](https://toutiao.io/k/z58e60d) 
+- [【开发者头条】2022-08-25-推荐-掌握这些-SpringBoot-启动扩展点，已经超过-90%-的人了](https://toutiao.io/k/3m8iq2m) 
 - [【开发者头条】2022-08-25-推荐-Java线上CPU内存冲高问题排查步骤](https://toutiao.io/k/t9sj17s) 
 - [【开发者头条】2022-08-25-推荐-全网最全的权限系统设计方案（图解）](https://toutiao.io/k/lozkmee) 
-- [【开发者头条】2022-08-25-推荐-掌握这些-SpringBoot-启动扩展点，已经超过-90%-的人了](https://toutiao.io/k/3m8iq2m) 
 - [【开发者头条】2022-08-25-推荐-聊聊-13-种锁的实现方式](https://toutiao.io/k/wcwg3fn) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>

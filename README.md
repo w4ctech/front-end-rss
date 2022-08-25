@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-25 17:18:37，:rocket: 更新条数: +2030， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-25 17:42:54，:rocket: 更新条数: +2031， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,9 @@
 </summary>
 
 
+- [2022-08-25-和小粉红女朋友在关于爱国意识形态方面发生了争论](https://www.v2ex.com/t/875474) ![](assets/new.png)  
+- [2022-08-25-投资二三事](https://www.v2ex.com/t/875473) ![](assets/new.png)  
+- [2022-08-25-macos-平台有办法获取某个应用的实时-GUI-状态/信息吗？](https://www.v2ex.com/t/875472) ![](assets/new.png)  
 - [2022-08-25-这里空空如也](https://www.v2ex.com/t/875471) ![](assets/new.png)  
 - [2022-08-25-Apple-TV-中去除-YouTube-广告](https://www.v2ex.com/t/875470) ![](assets/new.png)  
 - [2022-08-25-Heroku-免费服务器没得完了，-11-月-28-日全线停止免费计划](https://www.v2ex.com/t/875469) ![](assets/new.png)  
@@ -508,9 +511,6 @@
 - [2022-08-25-听说三星-970-evo-plus-SSD-翻车了,-0E-问题](https://www.v2ex.com/t/875455) ![](assets/new.png)  
 - [2022-08-25-有哪些保健品是真实有效的？不是智商税。](https://www.v2ex.com/t/875454) ![](assets/new.png)  
 - [2022-08-25-搬瓦工-SPECIAL-20G-KVM-PROMO-V3---LOS-ANGELES---CN2-GIA](https://www.v2ex.com/t/875453) ![](assets/new.png)  
-- [2022-08-25-打算建一个高质量-SRE-群](https://www.v2ex.com/t/875452) ![](assets/new.png)  
-- [2022-08-25-hexo-或者-hugo-对于-latex-渲染总是乱格式或者渲染不出来](https://www.v2ex.com/t/875451) ![](assets/new.png)  
-- [2022-08-25-从深圳回郑州，工资真的很低，想谋求其他发财路子](https://www.v2ex.com/t/875449) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -566,8 +566,8 @@
 - [2022-08-25-全网对CAP最深层的思考](https://toutiao.io/k/1pn3dyy) ![](assets/new.png)  
 - [2022-08-25-2022年Python十级试题全国卷B](https://toutiao.io/k/tle4qri) ![](assets/new.png)  
 - [2022-08-25-使用Go语言批量同步微信读书笔记到Flomo](https://toutiao.io/k/a37u4yj) ![](assets/new.png)  
-- [2022-08-25-Kotlin扩展方法进化之Context-Receiver](https://toutiao.io/k/svxvoce) ![](assets/new.png)  
 - [2022-08-25-超全总结：Go语言如何操作文件](https://toutiao.io/k/tk5m5ap) ![](assets/new.png)  
+- [2022-08-25-Kotlin扩展方法进化之Context-Receiver](https://toutiao.io/k/svxvoce) ![](assets/new.png)  
 - [2022-08-25-即时通讯安全篇（十）：IM聊天系统安全手段之通信连接层加密技术](https://toutiao.io/k/pgjrky2) ![](assets/new.png)  
 - [2022-08-25-网易有道成人教育数仓建设实践（建议收藏）](https://toutiao.io/k/wbpp5bs) ![](assets/new.png)  
 - [2022-08-25-Vue3中defineEmits、defineProps-是怎么做到不用引入就能直接用的](https://toutiao.io/k/5u5mrh5) ![](assets/new.png)  

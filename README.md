@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-25 11:13:58，:rocket: 更新条数: +2030， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-25 11:40:14，:rocket: 更新条数: +2031， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,14 @@
 </summary>
 
 
+- [2022-08-25-不懂就问，昨天分享了一个李显龙在新加坡国庆群众大会的演讲，今天帖子怎么消失了](https://www.v2ex.com/t/875412) ![](assets/new.png)  
+- [2022-08-25-那个某-runner-软件升级系统后用不了了，有解决办法吗？](https://www.v2ex.com/t/875411) ![](assets/new.png)  
+- [2022-08-25-Python-正则疑惑](https://www.v2ex.com/t/875410) ![](assets/new.png)  
+- [2022-08-25-关于骑车的一些顾虑，在下说道说道](https://www.v2ex.com/t/875409) ![](assets/new.png)  
+- [2022-08-25-Offixe-365-家庭版开车-6-人车，-26-元/年](https://www.v2ex.com/t/875408) ![](assets/new.png)  
+- [2022-08-25-毛里求斯-ICTA-允许使用-5945-6425-MHz-频段](https://www.v2ex.com/t/875407) ![](assets/new.png)  
+- [2022-08-25-微信小程序蹦了?](https://www.v2ex.com/t/875405) ![](assets/new.png)  
+- [2022-08-25-数据库中间件那点事](https://www.v2ex.com/t/875404) ![](assets/new.png)  
 - [2022-08-25-Python-有什么开发比较顺手的](https://www.v2ex.com/t/875403) ![](assets/new.png)  
 - [2022-08-25-求助，类原生系统接口的定位错误](https://www.v2ex.com/t/875402) ![](assets/new.png)  
 - [2022-08-25-求推荐下成熟项目的-vue2-可用-eslint-规则,-我要被外包兄弟的代码质量搞疯了](https://www.v2ex.com/t/875401) ![](assets/new.png)  
@@ -503,14 +511,6 @@
 - [2022-08-25-有没有比较好的报名的微信小程序](https://www.v2ex.com/t/875392) ![](assets/new.png)  
 - [2022-08-25-为什么-Jackson-中代表-json（ObjectNode）的底层数据结构使用的是-LinkedHashMap？](https://www.v2ex.com/t/875391) ![](assets/new.png)  
 - [2022-08-25-windows-terminal-有办法高亮所有搜索匹配结果么,-看-GitHub-2020-年就加了这功能,-但是我还是怎么都找到不到怎么设置](https://www.v2ex.com/t/875390) ![](assets/new.png)  
-- [2022-08-25-广东佛山/珠海-外企不加班氛围好-VR-企业-虎江科技-招募-Unity-开发](https://www.v2ex.com/t/875388) ![](assets/new.png)  
-- [2022-08-25-好工具周刊（第-27-期）:-BgSub,-Txtmoji,-Slickr,-Moodly,-Windy,-一起听播客,-图形方格纸](https://www.v2ex.com/t/875387) ![](assets/new.png)  
-- [2022-08-25-如何客观的了解评价自己的长相？](https://www.v2ex.com/t/875386) ![](assets/new.png)  
-- [2022-08-25-鉴于苹果-9-月-7-号发新品-想从美国官网海淘](https://www.v2ex.com/t/875385) ![](assets/new.png)  
-- [2022-08-25-你为什么想骑车？](https://www.v2ex.com/t/875382) ![](assets/new.png)  
-- [2022-08-25-国外网站买了一个课，怎么支付，求救](https://www.v2ex.com/t/875379) ![](assets/new.png)  
-- [2022-08-25-想做一款快速搭建-BBS-的-SAAS-系统,不知道这个是否有市场呢](https://www.v2ex.com/t/875378) ![](assets/new.png)  
-- [2022-08-25-你们会害怕死亡吗](https://www.v2ex.com/t/875377) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -556,8 +556,8 @@
 - [2022-08-25-丢弃掉那些BeanUtils工具类吧，MapStruct真香！！！](https://toutiao.io/k/6muqkam) ![](assets/new.png)  
 - [2022-08-25-收钱吧研发效能实践之工具篇](https://toutiao.io/k/2z8fuzj) ![](assets/new.png)  
 - [2022-08-25-横贯八方揭秘RabbitMQ、RocketMQ、Kafka-的核心原理（建议收藏）](https://toutiao.io/k/ixymws7) ![](assets/new.png)  
-- [2022-08-25-字典服务的设计与管理](https://toutiao.io/k/bq2ee4y) ![](assets/new.png)  
 - [2022-08-25-Prometheus+Grafana监控-基于docker-compose搭建](https://toutiao.io/k/e9a645c) ![](assets/new.png)  
+- [2022-08-25-字典服务的设计与管理](https://toutiao.io/k/bq2ee4y) ![](assets/new.png)  
 - [2022-08-25-干货-|-一文读懂字节跳动“埋点验证平台”（下）](https://toutiao.io/k/y3b1snh) ![](assets/new.png)  
 - [2022-08-25-10分钟搞定！Golang分布式ID集合](https://toutiao.io/k/f744yc5) ![](assets/new.png)  
 - [2022-08-25-重试框架-Spring-Retry-和-Guava-Retry，你知道该怎么选吗？](https://toutiao.io/k/5efb15j) ![](assets/new.png)  

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-08-25 23:03:34。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-08-25 23:28:51。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -16,4 +16,3 @@
 - [2022-06-12-基于文字的URL锚点定位与::target-text样式设置](https://www.zhangxinxu.com/wordpress/2022/06/url-anchor-target-text/) 
 - [2022-08-25-提醒一下，币安-Android-Chrome-可以看到-i18n-key](https://www.v2ex.com/t/875476) 
 - [2022-08-25-hexo-或者-hugo-对于-latex-渲染总是乱格式或者渲染不出来](https://www.v2ex.com/t/875451) 
-- [2022-08-25-即时通讯安全篇（十）：IM聊天系统安全手段之通信连接层加密技术](https://toutiao.io/k/pgjrky2) 

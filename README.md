@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-25 01:18:13，:rocket: 更新条数: +2019， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-25 03:59:04，:rocket: 更新条数: +2025， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,26 +491,26 @@
 </summary>
 
 
-- [2022-08-25-现在-wordpress-支持-mysql-的默认密码验证方式了吗？](https://www.v2ex.com/t/875220) ![](assets/new.png)  
-- [2022-08-25-搬瓦工-5-年老号](https://www.v2ex.com/t/875217) ![](assets/new.png)  
-- [2022-08-25-新西兰-RSM-开放-5925–6425-MHz-频段用于-WLAN](https://www.v2ex.com/t/875216) ![](assets/new.png)  
-- [2022-08-25-thinkbook14+想装回-win10](https://www.v2ex.com/t/875215) ![](assets/new.png)  
-- [2022-08-25-archive.org-挂掉了？](https://www.v2ex.com/t/875214) ![](assets/new.png)  
-- [2022-08-25-如果开源国产化，会发生什么样的事情呢？](https://www.v2ex.com/t/875213) ![](assets/new.png)  
-- [2022-08-25-摩托车可以牵引吗？](https://www.v2ex.com/t/875211) ![](assets/new.png)  
-- [2022-08-24-2022-年教育优惠目前送的列表有-AirPods-Pro，若-9-月-8-日发布-2-代，会不会改为送-2-代-Pro](https://www.v2ex.com/t/875209) ![](assets/new.png)  
-- [2022-08-24-如何修改定位，而不被软件检测](https://www.v2ex.com/t/875208) ![](assets/new.png)  
-- [2022-08-24-用了好多年的微信分组功能早上失效了](https://www.v2ex.com/t/875207) ![](assets/new.png)  
-- [2022-08-24-jellyfin-不能显示歌词，求一款-docker-音乐播放器](https://www.v2ex.com/t/875206) ![](assets/new.png)  
-- [2022-08-24-数据表做逻辑删除/伪删除,-那关联表有没有必要加逻辑删除标识字段?](https://www.v2ex.com/t/875205) ![](assets/new.png)  
-- [2022-08-24-有同学遇到-iCloud-邮件收件箱邮件大量丢失的么](https://www.v2ex.com/t/875203) ![](assets/new.png)  
-- [2022-08-24-Apple-特别活动-北京时间-9-月-8-日凌晨-1-点，欢迎到-apple.com-在线观看。](https://www.v2ex.com/t/875202) ![](assets/new.png)  
-- [2022-08-24-iOS-15-操作系统似乎没有单独选项设置数据流量警告和上限功能？](https://www.v2ex.com/t/875200) ![](assets/new.png)  
-- [2022-08-24-最近在-b-站做视频，大家可以支持一下吗？](https://www.v2ex.com/t/875199) ![](assets/new.png)  
-- [2022-08-24-求-Mac-流畅高清的远程工具](https://www.v2ex.com/t/875198) ![](assets/new.png)  
-- [2022-08-24-这是一篇关于超前瞻的前瞻。](https://www.v2ex.com/t/875197) ![](assets/new.png)  
-- [2022-08-24-收到邮件说-plex-的邮箱/用户名/密码泄漏了。。](https://www.v2ex.com/t/875195) ![](assets/new.png)  
-- [2022-08-24-有没有前端包含扫码支付，统计用户使用次数功能，后端包含登录，支付等完整一套的开源项目](https://www.v2ex.com/t/875194) ![](assets/new.png)  
+- [2022-08-25-村通网-原来可以在-markdown-里面用-Mermaid-画图](https://www.v2ex.com/t/875284) ![](assets/new.png)  
+- [2022-08-25-求教-Java-里面用-gson-来解析-变化的-api-响应-的比较好的写法。。。](https://www.v2ex.com/t/875283) ![](assets/new.png)  
+- [2022-08-25-组一个杭州户外骑行的微信群](https://www.v2ex.com/t/875282) ![](assets/new.png)  
+- [2022-08-25-北京宽带如果不能办联通，电信移动怎么选](https://www.v2ex.com/t/875281) ![](assets/new.png)  
+- [2022-08-25-Swift-中数组/字典的内存结构是什么样的?](https://www.v2ex.com/t/875280) ![](assets/new.png)  
+- [2022-08-25-熊猫吃短信无法过滤联通运营商广告？](https://www.v2ex.com/t/875279) ![](assets/new.png)  
+- [2022-08-25-现在一个普通四声母-com-域名价值多少钱？](https://www.v2ex.com/t/875278) ![](assets/new.png)  
+- [2022-08-25-如何简单粗暴快速的开发一款-Go-博客---记-Milu.blog-博客-1.0.beta-版本发布](https://www.v2ex.com/t/875277) ![](assets/new.png)  
+- [2022-08-25-请教一下.ps1-运行时如何让-powerShell-同时显示所运行命令的内容](https://www.v2ex.com/t/875276) ![](assets/new.png)  
+- [2022-08-25-hand-off-经常失效，让人崩溃](https://www.v2ex.com/t/875274) ![](assets/new.png)  
+- [2022-08-25-Spring-系列怎么学](https://www.v2ex.com/t/875272) ![](assets/new.png)  
+- [2022-08-25-2022-年，-desktop-app-开发（macos，-windows，-Linux-）的跨平台框架是什么？](https://www.v2ex.com/t/875271) ![](assets/new.png)  
+- [2022-08-25-手机间歇性断网，是坏掉还是-beta-系统导致？](https://www.v2ex.com/t/875270) ![](assets/new.png)  
+- [2022-08-25-有用过零刻迷你主机的吗？３-４-K，可以入手吗？](https://www.v2ex.com/t/875269) ![](assets/new.png)  
+- [2022-08-25-S20-售后看三星手机国内成为-others-这件事](https://www.v2ex.com/t/875268) ![](assets/new.png)  
+- [2022-08-25-Android-有办法映射网络文件夹到本地文件夹吗？](https://www.v2ex.com/t/875267) ![](assets/new.png)  
+- [2022-08-25-华为云计算-VS-中央软件院](https://www.v2ex.com/t/875266) ![](assets/new.png)  
+- [2022-08-25-苏州找工作有感](https://www.v2ex.com/t/875265) ![](assets/new.png)  
+- [2022-08-25-你有「自认为」是自己作品的作品吗？](https://www.v2ex.com/t/875264) ![](assets/new.png)  
+- [2022-08-25-jetbrains-ide-debug-时有办法指定跟踪某个线程吗？](https://www.v2ex.com/t/875263) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -560,16 +560,19 @@
 - [2022-08-25-字典服务的设计与管理](https://toutiao.io/k/bq2ee4y) ![](assets/new.png)  
 - [2022-08-25-干货-|-一文读懂字节跳动“埋点验证平台”（下）](https://toutiao.io/k/y3b1snh) ![](assets/new.png)  
 - [2022-08-25-阿里云-ACK-容器服务生产级可观测体系建设实践](https://toutiao.io/k/h1i75xf) ![](assets/new.png)  
-- [2022-08-25-现代中央处理器-CPU-是怎样进行分支预测的？](https://toutiao.io/k/bkib61g) ![](assets/new.png)  
 - [2022-08-25-10分钟搞定！Golang分布式ID集合](https://toutiao.io/k/f744yc5) ![](assets/new.png)  
-- [2022-08-25-2022年Python十级试题全国卷B](https://toutiao.io/k/tle4qri) ![](assets/new.png)  
 - [2022-08-25-重试框架-Spring-Retry-和-Guava-Retry，你知道该怎么选吗？](https://toutiao.io/k/5efb15j) ![](assets/new.png)  
+- [2022-08-25-现代中央处理器-CPU-是怎样进行分支预测的？](https://toutiao.io/k/bkib61g) ![](assets/new.png)  
+- [2022-08-25-2022年Python十级试题全国卷B](https://toutiao.io/k/tle4qri) ![](assets/new.png)  
+- [2022-08-25-全网对CAP最深层的思考](https://toutiao.io/k/1pn3dyy) ![](assets/new.png)  
 - [2022-08-25-Kotlin扩展方法进化之Context-Receiver](https://toutiao.io/k/svxvoce) ![](assets/new.png)  
+- [2022-08-25-即时通讯安全篇（十）：IM聊天系统安全手段之通信连接层加密技术](https://toutiao.io/k/pgjrky2) ![](assets/new.png)  
+- [2022-08-25-超全总结：Go语言如何操作文件](https://toutiao.io/k/tk5m5ap) ![](assets/new.png)  
 - [2022-08-25-推荐-聊聊-13-种锁的实现方式](https://toutiao.io/k/wcwg3fn) ![](assets/new.png)  
-- [2022-08-25-推荐-掌握这些-SpringBoot-启动扩展点，已经超过-90%-的人了](https://toutiao.io/k/3m8iq2m) ![](assets/new.png)  
 - [2022-08-25-推荐-全网最全的权限系统设计方案（图解）](https://toutiao.io/k/lozkmee) ![](assets/new.png)  
-- [2022-08-25-推荐-微服务接口设计原则](https://toutiao.io/k/4hjv10p) ![](assets/new.png)  
 - [2022-08-25-推荐-「架构选型」5-种-API-网关技术选型](https://toutiao.io/k/a4v7vsf) ![](assets/new.png)  
+- [2022-08-25-推荐-微服务接口设计原则](https://toutiao.io/k/4hjv10p) ![](assets/new.png)  
+- [2022-08-25-推荐-掌握这些-SpringBoot-启动扩展点，已经超过-90%-的人了](https://toutiao.io/k/3m8iq2m) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

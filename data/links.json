@@ -9953,6 +9953,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "我也斗胆分享一下自己在用的 Mac 生产力软件和使用心得",
+        "link": "https://www.v2ex.com/t/875733",
+        "date": "2022-08-26"
+      },
+      {
         "title": "你们平时会使用随机邮箱/一次性邮箱或者同种性质的服务吗？",
         "link": "https://www.v2ex.com/t/875731",
         "date": "2022-08-26"
@@ -10145,11 +10150,6 @@
       {
         "title": "[成都] 裸辞 3 个月了有点难顶",
         "link": "https://www.v2ex.com/t/875685",
-        "date": "2022-08-26"
-      },
-      {
-        "title": "国内有在线的 jupyter notebook 吗？",
-        "link": "https://www.v2ex.com/t/875683",
         "date": "2022-08-26"
       }
     ]
@@ -10362,13 +10362,13 @@
         "date": "2022-08-26"
       },
       {
-        "title": "[推荐] 聊聊 13 种锁的实现方式",
-        "link": "https://toutiao.io/k/wcwg3fn",
+        "title": "[推荐] Java线上CPU内存冲高问题排查步骤",
+        "link": "https://toutiao.io/k/t9sj17s",
         "date": "2022-08-26"
       },
       {
-        "title": "[推荐] 一文读懂 | Linux系统启动过程",
-        "link": "https://toutiao.io/k/tiobp8c",
+        "title": "[推荐] 聊聊 13 种锁的实现方式",
+        "link": "https://toutiao.io/k/wcwg3fn",
         "date": "2022-08-26"
       },
       {
@@ -10377,8 +10377,8 @@
         "date": "2022-08-26"
       },
       {
-        "title": "[推荐] Java线上CPU内存冲高问题排查步骤",
-        "link": "https://toutiao.io/k/t9sj17s",
+        "title": "[推荐] 一文读懂 | Linux系统启动过程",
+        "link": "https://toutiao.io/k/tiobp8c",
         "date": "2022-08-26"
       }
     ]

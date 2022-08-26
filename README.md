@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-26 20:41:46，:rocket: 更新条数: +2029， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-26 21:13:24，:rocket: 更新条数: +2029， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -554,8 +554,8 @@
 
 
 - [2022-08-26-全网最通透：MySQL-的-redo-log-保证数据不丢的原理](https://toutiao.io/k/1x2qzr6) ![](assets/new.png)  
-- [2022-08-26-如何给注册中心锦上添花？](https://toutiao.io/k/j3g3q3r) ![](assets/new.png)  
 - [2022-08-26-《阿里巴巴-Java-开发手册》为什么建议使用-BigDecimal-进行浮点数运算？](https://toutiao.io/k/ou4wma0) ![](assets/new.png)  
+- [2022-08-26-如何给注册中心锦上添花？](https://toutiao.io/k/j3g3q3r) ![](assets/new.png)  
 - [2022-08-26-Java-日期处理易踩的十个坑](https://toutiao.io/k/ssuyj5l) ![](assets/new.png)  
 - [2022-08-26-Replication（上）：常见的复制模型&分布式系统的挑战](https://toutiao.io/k/irtkssl) ![](assets/new.png)  
 - [2022-08-26-Linux下，如何自动对日志进行压缩备份？](https://toutiao.io/k/ht1gq0v) ![](assets/new.png)  
@@ -572,7 +572,7 @@
 - [2022-08-26-独立开发变现周刊（第69期）：语音转录浏览器扩展插件，一年获取20倍增长](https://toutiao.io/k/axc7q1m) ![](assets/new.png)  
 - [2022-08-26-【第2713期】工程化思维：主题切换架构](https://toutiao.io/k/kx2uqft) ![](assets/new.png)  
 - [2022-08-26-了解“预训练-微调”，看这一篇就够了](https://toutiao.io/k/918ipol) ![](assets/new.png)  
-- [2022-08-26-推荐-Java线上CPU内存冲高问题排查步骤](https://toutiao.io/k/t9sj17s) ![](assets/new.png)  
+- [2022-08-26-推荐-聊聊-13-种锁的实现方式](https://toutiao.io/k/wcwg3fn) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

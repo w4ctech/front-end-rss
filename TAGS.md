@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-08-26 17:19:24。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-08-26 17:43:42。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -297,6 +297,7 @@
 
 
 
+- [【V2EX】分享篇文章：为什么我会使用-Vim-？](https://www.v2ex.com/t/875730)
 - [【V2EX】LastPass-的-Premium-订阅无法取消](https://www.v2ex.com/t/875722)
 - [【开发者头条】深入解读新一代全栈框架-Fresh](https://toutiao.io/k/vrl6sg5)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)

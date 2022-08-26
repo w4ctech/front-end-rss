@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-26 16:59:07，:rocket: 更新条数: +2030， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-26 17:19:24，:rocket: 更新条数: +2030， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -554,8 +554,8 @@
 
 
 - [2022-08-26-全网最通透：MySQL-的-redo-log-保证数据不丢的原理](https://toutiao.io/k/1x2qzr6) ![](assets/new.png)  
-- [2022-08-26-《阿里巴巴-Java-开发手册》为什么建议使用-BigDecimal-进行浮点数运算？](https://toutiao.io/k/ou4wma0) ![](assets/new.png)  
 - [2022-08-26-如何给注册中心锦上添花？](https://toutiao.io/k/j3g3q3r) ![](assets/new.png)  
+- [2022-08-26-《阿里巴巴-Java-开发手册》为什么建议使用-BigDecimal-进行浮点数运算？](https://toutiao.io/k/ou4wma0) ![](assets/new.png)  
 - [2022-08-26-Java-日期处理易踩的十个坑](https://toutiao.io/k/ssuyj5l) ![](assets/new.png)  
 - [2022-08-26-Replication（上）：常见的复制模型&分布式系统的挑战](https://toutiao.io/k/irtkssl) ![](assets/new.png)  
 - [2022-08-26-Linux下，如何自动对日志进行压缩备份？](https://toutiao.io/k/ht1gq0v) ![](assets/new.png)  

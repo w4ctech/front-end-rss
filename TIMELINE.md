@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-08-26 10:16:43。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-08-26 10:43:38。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -70,12 +70,19 @@
 
 - [【张鑫旭-鑫空间-鑫生活】2022-08-24-来了，来了，CSS-:has伪类她来了](https://www.zhangxinxu.com/wordpress/2022/08/css-has-pseudo-class/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-08-21-JS-replaceAll-和-matchAll-使用指南不指北](https://www.zhangxinxu.com/wordpress/2022/08/js-replaceall-matchall/) 
+- [【V2EX】2022-08-26-本田-CRV-VS-福特探界者-正面对撞](https://www.v2ex.com/t/875670) 
+- [【V2EX】2022-08-26-如果去深圳南山工作，关于住的方面，大家有什么建议吗？](https://www.v2ex.com/t/875669) 
+- [【V2EX】2022-08-26-Zerotier-内网穿透真香啊](https://www.v2ex.com/t/875668) 
+- [【V2EX】2022-08-26-有稳定的台湾服务器推荐吗](https://www.v2ex.com/t/875667) 
+- [【V2EX】2022-08-26-这是真的吗？两个月-50TB-流量？](https://www.v2ex.com/t/875666) 
+- [【V2EX】2022-08-26-老狗不想摆烂](https://www.v2ex.com/t/875665) 
+- [【V2EX】2022-08-26-sony-WF1000-XM4-电池自己替换可行性了解](https://www.v2ex.com/t/875664) 
+- [【V2EX】2022-08-26-合租室友经常偷吃放在冰箱和大厅的食品怎么办？](https://www.v2ex.com/t/875663) 
 - [【V2EX】2022-08-26-家人们，有没有一键安装-Python-的脚本可以使用？或者怎么把-Python-弄成绿色💚软件](https://www.v2ex.com/t/875662) 
 - [【V2EX】2022-08-26-请教-k8s-pod-内有两个容器，当其中一个-container-发生重启时，能否支持先触发另一个-container-的重启](https://www.v2ex.com/t/875661) 
 - [【V2EX】2022-08-26-寻找一个画线的-html-前端库](https://www.v2ex.com/t/875660) 
 - [【V2EX】2022-08-26-求一个-6000-内的笔记本，不打游戏，生产力、程序、视频编辑，想着做主力机带着到处跑](https://www.v2ex.com/t/875659) 
 - [【V2EX】2022-08-26-南京外企-有人找工作么。来人](https://www.v2ex.com/t/875658) 
-- [【V2EX】2022-08-26-关于储蓄、理财以及防大水漫灌](https://www.v2ex.com/t/875657) 
 - [【V2EX】2022-08-26-初创-web3.0-公司，自研项目，需要一个能够独立开发的-Java-后端](https://www.v2ex.com/t/875654) 
 - [【V2EX】2022-08-26-滴滴-2023-届校招内推](https://www.v2ex.com/t/875653) 
 - [【V2EX】2022-08-26-mysql-单表-5-千万的数据量-，-count*-耗时很长有办法优化吗](https://www.v2ex.com/t/875652) 
@@ -98,13 +105,6 @@
 - [【V2EX】2022-08-26-Python-gui-的疑问](https://www.v2ex.com/t/875625) 
 - [【V2EX】2022-08-26-Google-Voice-到期，寻求其他解决方案。](https://www.v2ex.com/t/875624) 
 - [【V2EX】2022-08-26-Mac-mini-2018-安装-ESXi](https://www.v2ex.com/t/875621) 
-- [【V2EX】2022-08-26-macOS-13-最新版-如何针对固定的-SSID-采用手动配置-IP？](https://www.v2ex.com/t/875620) 
-- [【V2EX】2022-08-26-使用了-6-年-macOS-以后，分享一下我最终选择了哪些生产力软件](https://www.v2ex.com/t/875619) 
-- [【V2EX】2022-08-26-没工作，没薪水，请求救援-/捂脸](https://www.v2ex.com/t/875617) 
-- [【V2EX】2022-08-26-如何接手一个乱写-commit-message-的仓库？代码写的也非常乱，变量名乱起，但却工作得非常稳定（已附图）](https://www.v2ex.com/t/875616) 
-- [【V2EX】2022-08-26-有对无代码低代码创业感兴趣的小伙伴吗~-交朋友为主，合作为次](https://www.v2ex.com/t/875615) 
-- [【V2EX】2022-08-26-深圳-去哪-coding](https://www.v2ex.com/t/875614) 
-- [【V2EX】2022-08-26-提问Obsidian-如何支持笔记的自定义排序](https://www.v2ex.com/t/875613) 
 - [【技术头条】2022-08-26-为什么我们需要企业架构？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15345&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fwhy-need-enterprise-architecture%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-08-26-软件泥潭真体验-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15344&url=https%3A%2F%2Finsights.thoughtworks.cn%2Flegacy-system-operation-experience%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-08-26-VS-Code-是如何优化启动性能的？-fed.taobao.org](https://blogread.cn/news/go.php?idItem=15343&url=https%3A%2F%2Ffed.taobao.org%2Fblog%2Ftaofed%2Fdo71ct%2Fwpsf10%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -144,11 +144,11 @@
 - [【开发者头条】2022-08-26-基于Python的一个开源OCR工具，轻松实现批量图片转文字](https://toutiao.io/k/68s2vuv) 
 - [【开发者头条】2022-08-26-【第2713期】工程化思维：主题切换架构](https://toutiao.io/k/kx2uqft) 
 - [【开发者头条】2022-08-26-了解“预训练-微调”，看这一篇就够了](https://toutiao.io/k/918ipol) 
-- [【开发者头条】2022-08-26-推荐-一文读懂-|-Linux系统启动过程](https://toutiao.io/k/tiobp8c) 
 - [【开发者头条】2022-08-26-推荐-聊聊-13-种锁的实现方式](https://toutiao.io/k/wcwg3fn) 
-- [【开发者头条】2022-08-26-推荐-全网最全的权限系统设计方案（图解）](https://toutiao.io/k/lozkmee) 
 - [【开发者头条】2022-08-26-推荐-Java线上CPU内存冲高问题排查步骤](https://toutiao.io/k/t9sj17s) 
+- [【开发者头条】2022-08-26-推荐-全网最全的权限系统设计方案（图解）](https://toutiao.io/k/lozkmee) 
 - [【开发者头条】2022-08-26-推荐-掌握这些-SpringBoot-启动扩展点，已经超过-90%-的人了](https://toutiao.io/k/3m8iq2m) 
+- [【开发者头条】2022-08-26-推荐-一文读懂-|-Linux系统启动过程](https://toutiao.io/k/tiobp8c) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

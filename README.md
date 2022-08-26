@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-26 12:27:58，:rocket: 更新条数: +2027， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-26 13:08:59，:rocket: 更新条数: +2029， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,14 @@
 </summary>
 
 
+- [2022-08-26-我在土区购买的-upnote-终身版本是不是已经翻车了？](https://www.v2ex.com/t/875693) ![](assets/new.png)  
+- [2022-08-26-我是不是买到假内存条了](https://www.v2ex.com/t/875692) ![](assets/new.png)  
+- [2022-08-26-最近诗又火起来了，于是用-zine-搞了一个发布现代诗的杂志，任何人都可以在-Github-提交你的现代诗](https://www.v2ex.com/t/875691) ![](assets/new.png)  
+- [2022-08-26-有汇总所有订阅播客的服务吗？](https://www.v2ex.com/t/875690) ![](assets/new.png)  
+- [2022-08-26-土耳其-Youtube-Premium-家庭组拼车](https://www.v2ex.com/t/875689) ![](assets/new.png)  
+- [2022-08-26-平果是怎么做到-CPU-100%，内存爆满还不卡顿的？](https://www.v2ex.com/t/875688) ![](assets/new.png)  
+- [2022-08-26-有没有比较护眼又不太偏色的手机贴膜？](https://www.v2ex.com/t/875687) ![](assets/new.png)  
+- [2022-08-26-北京/广州-字节跳动招聘高级前端工程师](https://www.v2ex.com/t/875686) ![](assets/new.png)  
 - [2022-08-26-成都-裸辞-3-个月了有点难顶](https://www.v2ex.com/t/875685) ![](assets/new.png)  
 - [2022-08-26-国内有在线的-jupyter-notebook-吗？](https://www.v2ex.com/t/875683) ![](assets/new.png)  
 - [2022-08-26-win11-ARM-22622.586-KB5016701这个更新安装完就进不去虚拟机了](https://www.v2ex.com/t/875681) ![](assets/new.png)  
@@ -503,14 +511,6 @@
 - [2022-08-26-提问银行存款还靠谱吗？](https://www.v2ex.com/t/875674) ![](assets/new.png)  
 - [2022-08-26-22-应届生，寻求-Linux-C++-后端开发职位](https://www.v2ex.com/t/875673) ![](assets/new.png)  
 - [2022-08-26-Java-的性价比已经算是很低了-为何络绎不绝的人往里面入？](https://www.v2ex.com/t/875672) ![](assets/new.png)  
-- [2022-08-26-本田-CRV-VS-福特探界者-正面对撞](https://www.v2ex.com/t/875670) ![](assets/new.png)  
-- [2022-08-26-如果去深圳南山工作，关于住的方面，大家有什么建议吗？](https://www.v2ex.com/t/875669) ![](assets/new.png)  
-- [2022-08-26-Zerotier-内网穿透真香啊](https://www.v2ex.com/t/875668) ![](assets/new.png)  
-- [2022-08-26-有稳定的台湾服务器推荐吗](https://www.v2ex.com/t/875667) ![](assets/new.png)  
-- [2022-08-26-这是真的吗？两个月-50TB-流量？](https://www.v2ex.com/t/875666) ![](assets/new.png)  
-- [2022-08-26-老狗不想摆烂](https://www.v2ex.com/t/875665) ![](assets/new.png)  
-- [2022-08-26-sony-WF1000-XM4-电池自己替换可行性了解](https://www.v2ex.com/t/875664) ![](assets/new.png)  
-- [2022-08-26-合租室友经常偷吃放在冰箱和大厅的食品怎么办？](https://www.v2ex.com/t/875663) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -572,7 +572,7 @@
 - [2022-08-26-独立开发变现周刊（第69期）：语音转录浏览器扩展插件，一年获取20倍增长](https://toutiao.io/k/axc7q1m) ![](assets/new.png)  
 - [2022-08-26-【第2713期】工程化思维：主题切换架构](https://toutiao.io/k/kx2uqft) ![](assets/new.png)  
 - [2022-08-26-了解“预训练-微调”，看这一篇就够了](https://toutiao.io/k/918ipol) ![](assets/new.png)  
-- [2022-08-26-推荐-Java线上CPU内存冲高问题排查步骤](https://toutiao.io/k/t9sj17s) ![](assets/new.png)  
+- [2022-08-26-推荐-聊聊-13-种锁的实现方式](https://toutiao.io/k/wcwg3fn) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

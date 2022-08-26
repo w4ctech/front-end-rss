@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-08-26 12:27:58。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-08-26 13:08:59。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -242,7 +242,6 @@
 
 - [【武汉肺炎防疫全纪录(财新网)】广州17岁男生在定点医院参加高考-特殊考场视频监考](https://m.caixin.com/m/2021-06-05/101723418.html)
 - [【武汉肺炎防疫全纪录(财新网)】林郑月娥率13高官直播接种科兴疫苗-复星疫苗预计周中到港](https://m.caixin.com/m/2021-02-22/101665724.html)
-- [【V2EX】视频-VS-Code-7-月更新-—-60-秒带你了解新版-VS-Code！](https://www.v2ex.com/t/875640)
 - [......【查看更多】......](./details/tags/audio-video.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -285,7 +284,6 @@
 - [【武汉肺炎防疫全纪录(财新网)】大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html)
 - [【张鑫旭-鑫空间-鑫生活】基于文字的URL锚点定位与::target-text样式设置](https://www.zhangxinxu.com/wordpress/2022/06/url-anchor-target-text/)
 - [【V2EX】Zerotier-内网穿透真香啊](https://www.v2ex.com/t/875668)
-- [【V2EX】有没有在-VSCode-里运行浏览器甚至-RDP/VNC-的插件](https://www.v2ex.com/t/875639)
 - [【开发者头条】独立开发变现周刊（第69期）：语音转录浏览器扩展插件，一年获取20倍增长](https://toutiao.io/k/axc7q1m)
 - [......【查看更多】......](./details/tags/browser.md)
 
@@ -337,6 +335,7 @@
 
 
 
+- [【V2EX】最近诗又火起来了，于是用-zine-搞了一个发布现代诗的杂志，任何人都可以在-Github-提交你的现代诗](https://www.v2ex.com/t/875691)
 - [......【查看更多】......](./details/tags/git-svn.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -353,6 +352,7 @@
 
 
 
+- [【V2EX】北京/广州-字节跳动招聘高级前端工程师](https://www.v2ex.com/t/875686)
 - [【技术头条】又是面试题？对，合并有序序列。-www.felix021.com](https://blogread.cn/news/go.php?idItem=15330&url=https%3A%2F%2Fwww.felix021.com%2Fblog%2Fread.php%3F2229%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [......【查看更多】......](./details/tags/job-interview.md)
 

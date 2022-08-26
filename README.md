@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-26 22:14:47，:rocket: 更新条数: +2028， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-26 22:42:31，:rocket: 更新条数: +2028， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -572,7 +572,7 @@
 - [2022-08-26-独立开发变现周刊（第69期）：语音转录浏览器扩展插件，一年获取20倍增长](https://toutiao.io/k/axc7q1m) ![](assets/new.png)  
 - [2022-08-26-【第2713期】工程化思维：主题切换架构](https://toutiao.io/k/kx2uqft) ![](assets/new.png)  
 - [2022-08-26-了解“预训练-微调”，看这一篇就够了](https://toutiao.io/k/918ipol) ![](assets/new.png)  
-- [2022-08-26-推荐-聊聊-13-种锁的实现方式](https://toutiao.io/k/wcwg3fn) ![](assets/new.png)  
+- [2022-08-26-推荐-一文读懂-|-Linux系统启动过程](https://toutiao.io/k/tiobp8c) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

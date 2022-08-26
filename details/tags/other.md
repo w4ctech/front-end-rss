@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-08-26 11:13:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-08-26 11:38:34。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,8 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-08-26-微信必须要绑定手机号了-不绑无法登录](https://www.v2ex.com/t/875680) 
+- [2022-08-26-今天中午移动就把我的手机号给停机了，第二天送美团外卖](https://www.v2ex.com/t/875679) 
 - [2022-08-26-有没有可以批量拉黑功能的推特辅助？](https://www.v2ex.com/t/875677) 
 - [2022-08-26-大小周是真的烦](https://www.v2ex.com/t/875676) 
 - [2022-08-26-提问银行存款还靠谱吗？](https://www.v2ex.com/t/875674) 
@@ -1940,8 +1942,6 @@
 - [2022-08-26-现在市面上还有没有超流量限速而不额外收费的流量套餐](https://www.v2ex.com/t/875633) 
 - [2022-08-26-mac-系统蓝牙鼠标移动就唤醒怎么避免？](https://www.v2ex.com/t/875632) 
 - [2022-08-26-机器人送货问题](https://www.v2ex.com/t/875631) 
-- [2022-08-26-最近用的入耳式耳机可能导致耳朵出现了湿疹](https://www.v2ex.com/t/875629) 
-- [2022-08-26-工作方向的选择题，管理-or-技术](https://www.v2ex.com/t/875628) 
 - [2022-08-26-为什么我们需要企业架构？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15345&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fwhy-need-enterprise-architecture%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-08-26-软件泥潭真体验-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15344&url=https%3A%2F%2Finsights.thoughtworks.cn%2Flegacy-system-operation-experience%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-08-26-ICLR-2021-|-美团AutoML论文：鲁棒的神经网络架构搜索-DARTS--tech.meituan.com](https://blogread.cn/news/go.php?idItem=15342&url=https%3A%2F%2Ftech.meituan.com%2F2021%2F03%2F25%2Ficlr-2021-nas-automl-darts.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1973,5 +1973,5 @@
 - [2022-08-26-推荐-聊聊-13-种锁的实现方式](https://toutiao.io/k/wcwg3fn) 
 - [2022-08-26-推荐-全网最全的权限系统设计方案（图解）](https://toutiao.io/k/lozkmee) 
 - [2022-08-26-推荐-掌握这些-SpringBoot-启动扩展点，已经超过-90%-的人了](https://toutiao.io/k/3m8iq2m) 
-- [2022-08-26-推荐-一文读懂-|-Linux系统启动过程](https://toutiao.io/k/tiobp8c) 
 - [2022-08-26-推荐-Java线上CPU内存冲高问题排查步骤](https://toutiao.io/k/t9sj17s) 
+- [2022-08-26-推荐-一文读懂-|-Linux系统启动过程](https://toutiao.io/k/tiobp8c) 

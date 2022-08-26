@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-26 04:04:09，:rocket: 更新条数: +2021， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-26 05:46:37，:rocket: 更新条数: +2021， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,26 +491,26 @@
 </summary>
 
 
+- [2022-08-26-感觉元宇宙是骗局概念的，招聘也避开北京的这些公司，但怎么越来越热烧到硬件厂商了啊？？](https://www.v2ex.com/t/875575) ![](assets/new.png)  
+- [2022-08-26-新的-IPOE-拨号，不能改桥接？那我怎么用软路由？](https://www.v2ex.com/t/875574) ![](assets/new.png)  
+- [2022-08-26-git-stash-命令确实有点好用](https://www.v2ex.com/t/875573) ![](assets/new.png)  
+- [2022-08-26-一线城市断缴社保，到底有啥坏处？](https://www.v2ex.com/t/875572) ![](assets/new.png)  
+- [2022-08-26-旁路软路由-ipv6-裸奔是什么原因导致的](https://www.v2ex.com/t/875570) ![](assets/new.png)  
+- [2022-08-26-Siri-是不是一个很鸡肋功能？](https://www.v2ex.com/t/875568) ![](assets/new.png)  
+- [2022-08-26-刚看到，好使的，分享一个，京东-PLUS-免费领价值-499-元体检套餐](https://www.v2ex.com/t/875566) ![](assets/new.png)  
+- [2022-08-26-免费送-30-张免单券|大神的-kaggle-竞赛课](https://www.v2ex.com/t/875564) ![](assets/new.png)  
+- [2022-08-26-你们会期待今年的-iphone14-吗](https://www.v2ex.com/t/875562) ![](assets/new.png)  
+- [2022-08-26-如何备份输入过的-search-关键字？用于思路接续。场景灾复](https://www.v2ex.com/t/875561) ![](assets/new.png)  
+- [2022-08-26-RustDesk-桌面版本迁移到-Flutter](https://www.v2ex.com/t/875560) ![](assets/new.png)  
+- [2022-08-26-北京九月份可以去哪玩](https://www.v2ex.com/t/875558) ![](assets/new.png)  
+- [2022-08-26-上海社交+元宇宙黑马公司面向技术工程、数据算法、产品运营、设计、增长、游戏技术、游戏产品策划运营、美术多个方向投放大量-hc](https://www.v2ex.com/t/875557) ![](assets/new.png)  
+- [2022-08-26-交换一下对-Conway's-Law-的理解?](https://www.v2ex.com/t/875556) ![](assets/new.png)  
 - [2022-08-26-求助-帮取个二级域名管理平台数据的的，譬如-admin.xxx.com，词穷-doge](https://www.v2ex.com/t/875555) ![](assets/new.png)  
 - [2022-08-26-老-macbook-pro-该怎么处置](https://www.v2ex.com/t/875553) ![](assets/new.png)  
 - [2022-08-26-大家觉得个人网站维护有发展前途吗](https://www.v2ex.com/t/875552) ![](assets/new.png)  
 - [2022-08-26-重复的生活是幸运还是悲哀](https://www.v2ex.com/t/875550) ![](assets/new.png)  
 - [2022-08-26-RainingPlayer,-给您带来内心的宁静和专注](https://www.v2ex.com/t/875549) ![](assets/new.png)  
 - [2022-08-26-有对无代码低代码创业感兴趣的小伙伴吗~-交朋友为主，合作为次](https://www.v2ex.com/t/875548) ![](assets/new.png)  
-- [2022-08-26-长沙周末组个局娱乐下呗](https://www.v2ex.com/t/875547) ![](assets/new.png)  
-- [2022-08-26-字节小程序开发工具是用的-github-证书签名的？这是怎么做到的？](https://www.v2ex.com/t/875546) ![](assets/new.png)  
-- [2022-08-26-3D-打印机自动调平值得入吗？](https://www.v2ex.com/t/875545) ![](assets/new.png)  
-- [2022-08-26-Mac-如何设置-finder-columns-视图的宽度为自适应？](https://www.v2ex.com/t/875544) ![](assets/new.png)  
-- [2022-08-26-为什么受伤的总是我，新硬盘又翻车了。](https://www.v2ex.com/t/875543) ![](assets/new.png)  
-- [2022-08-26-一个老-iPad-，-iPad4，-16G-最高升级到-10.3.4-不能继续-12、13、、16-了，有什么办法吗？](https://www.v2ex.com/t/875541) ![](assets/new.png)  
-- [2022-08-26-我在公交车遇见一个大姨](https://www.v2ex.com/t/875539) ![](assets/new.png)  
-- [2022-08-26-请教大佬们一个关于-Ubuntu-无法连接公司-L2TP-VPN-的问题](https://www.v2ex.com/t/875538) ![](assets/new.png)  
-- [2022-08-26-IM-系统如何进行压测？](https://www.v2ex.com/t/875537) ![](assets/new.png)  
-- [2022-08-26-移动端-自动补全-autocomplete-有更好的方案吗](https://www.v2ex.com/t/875536) ![](assets/new.png)  
-- [2022-08-26-前端求问，如何实现在当前页面展示搜索结果？](https://www.v2ex.com/t/875535) ![](assets/new.png)  
-- [2022-08-26-gmail-发信被退回，提示邮件已屏蔽](https://www.v2ex.com/t/875534) ![](assets/new.png)  
-- [2022-08-26-可以分享一下你现在使用的表盘吗？](https://www.v2ex.com/t/875533) ![](assets/new.png)  
-- [2022-08-26-IDEA-2022.2.1-抗锯齿问题](https://www.v2ex.com/t/875527) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -556,23 +556,23 @@
 - [2022-08-26-全网最通透：MySQL-的-redo-log-保证数据不丢的原理](https://toutiao.io/k/1x2qzr6) ![](assets/new.png)  
 - [2022-08-26-如何给注册中心锦上添花？](https://toutiao.io/k/j3g3q3r) ![](assets/new.png)  
 - [2022-08-26-《阿里巴巴-Java-开发手册》为什么建议使用-BigDecimal-进行浮点数运算？](https://toutiao.io/k/ou4wma0) ![](assets/new.png)  
-- [2022-08-26-Replication（上）：常见的复制模型&分布式系统的挑战](https://toutiao.io/k/irtkssl) ![](assets/new.png)  
-- [2022-08-26-Java-中为什么不全部使用-static-方法？](https://toutiao.io/k/8ki7src) ![](assets/new.png)  
 - [2022-08-26-Java-日期处理易踩的十个坑](https://toutiao.io/k/ssuyj5l) ![](assets/new.png)  
+- [2022-08-26-Replication（上）：常见的复制模型&分布式系统的挑战](https://toutiao.io/k/irtkssl) ![](assets/new.png)  
 - [2022-08-26-Linux下，如何自动对日志进行压缩备份？](https://toutiao.io/k/ht1gq0v) ![](assets/new.png)  
 - [2022-08-26-可以借鉴的谷歌公司BUG管理经验](https://toutiao.io/k/bey4wzo) ![](assets/new.png)  
-- [2022-08-26-Flink在转转商业实时数仓的应用](https://toutiao.io/k/pze9uny) ![](assets/new.png)  
+- [2022-08-26-Java-中为什么不全部使用-static-方法？](https://toutiao.io/k/8ki7src) ![](assets/new.png)  
 - [2022-08-26-分布式接口幂等性、分布式限流：Guava-、nginx和lua限流](https://toutiao.io/k/wetgg6k) ![](assets/new.png)  
+- [2022-08-26-Flink在转转商业实时数仓的应用](https://toutiao.io/k/pze9uny) ![](assets/new.png)  
 - [2022-08-26-深入解读新一代全栈框架-Fresh](https://toutiao.io/k/vrl6sg5) ![](assets/new.png)  
-- [2022-08-26-浅析神经网络-Neural-Networks](https://toutiao.io/k/t1237nr) ![](assets/new.png)  
 - [2022-08-26-KubeSphere-双协议应用路由实践](https://toutiao.io/k/lm22lco) ![](assets/new.png)  
+- [2022-08-26-浅析神经网络-Neural-Networks](https://toutiao.io/k/t1237nr) ![](assets/new.png)  
 - [2022-08-26-Hadoop维护123](https://toutiao.io/k/f0455n8) ![](assets/new.png)  
 - [2022-08-26-6个机器学习可解释性框架！](https://toutiao.io/k/qv4g8wj) ![](assets/new.png)  
-- [2022-08-26-推荐-一文读懂-|-Linux系统启动过程](https://toutiao.io/k/tiobp8c) ![](assets/new.png)  
 - [2022-08-26-推荐-掌握这些-SpringBoot-启动扩展点，已经超过-90%-的人了](https://toutiao.io/k/3m8iq2m) ![](assets/new.png)  
-- [2022-08-26-推荐-聊聊-13-种锁的实现方式](https://toutiao.io/k/wcwg3fn) ![](assets/new.png)  
 - [2022-08-26-推荐-Java线上CPU内存冲高问题排查步骤](https://toutiao.io/k/t9sj17s) ![](assets/new.png)  
+- [2022-08-26-推荐-一文读懂-|-Linux系统启动过程](https://toutiao.io/k/tiobp8c) ![](assets/new.png)  
 - [2022-08-26-推荐-全网最全的权限系统设计方案（图解）](https://toutiao.io/k/lozkmee) ![](assets/new.png)  
+- [2022-08-26-推荐-聊聊-13-种锁的实现方式](https://toutiao.io/k/wcwg3fn) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

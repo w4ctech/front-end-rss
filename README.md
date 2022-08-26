@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-26 07:21:05，:rocket: 更新条数: +2025， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-26 07:43:04，:rocket: 更新条数: +2025， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-08-26-ipv6-下-有没有-wan-和-lan-的概念？](https://www.v2ex.com/t/875608) ![](assets/new.png)  
+- [2022-08-26-小爱同学是不是又崩了](https://www.v2ex.com/t/875607) ![](assets/new.png)  
 - [2022-08-26-如何处置完全不再使用的旧电脑?](https://www.v2ex.com/t/875605) ![](assets/new.png)  
 - [2022-08-26-escape-单词翻译](https://www.v2ex.com/t/875604) ![](assets/new.png)  
 - [2022-08-26-趨勢科技發現勒索軟件演員濫用-Genshin-Impact-反作弊驅動程序來殺死殺毒軟件](https://www.v2ex.com/t/875602) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-08-26-即刻-PDF-阅读器-收集用户隐私数据被火绒锤了,然后官方这声明看笑了,甩锅研发](https://www.v2ex.com/t/875585) ![](assets/new.png)  
 - [2022-08-26-成都开车有好的路线推荐吗](https://www.v2ex.com/t/875583) ![](assets/new.png)  
 - [2022-08-26-MacOS-下-qq.db-的数据库密码是啥？](https://www.v2ex.com/t/875582) ![](assets/new.png)  
-- [2022-08-26-求个推荐个博客系统](https://www.v2ex.com/t/875581) ![](assets/new.png)  
-- [2022-08-26-nga-社区里评论怎么全没了。。](https://www.v2ex.com/t/875579) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -569,10 +569,10 @@
 - [2022-08-26-Hadoop维护123](https://toutiao.io/k/f0455n8) ![](assets/new.png)  
 - [2022-08-26-6个机器学习可解释性框架！](https://toutiao.io/k/qv4g8wj) ![](assets/new.png)  
 - [2022-08-26-独立开发变现周刊（第69期）：语音转录浏览器扩展插件，一年获取20倍增长](https://toutiao.io/k/axc7q1m) ![](assets/new.png)  
-- [2022-08-26-【第2713期】工程化思维：主题切换架构](https://toutiao.io/k/kx2uqft) ![](assets/new.png)  
 - [2022-08-26-基于Python的一个开源OCR工具，轻松实现批量图片转文字](https://toutiao.io/k/68s2vuv) ![](assets/new.png)  
+- [2022-08-26-【第2713期】工程化思维：主题切换架构](https://toutiao.io/k/kx2uqft) ![](assets/new.png)  
 - [2022-08-26-了解“预训练-微调”，看这一篇就够了](https://toutiao.io/k/918ipol) ![](assets/new.png)  
-- [2022-08-26-推荐-聊聊-13-种锁的实现方式](https://toutiao.io/k/wcwg3fn) ![](assets/new.png)  
+- [2022-08-26-推荐-掌握这些-SpringBoot-启动扩展点，已经超过-90%-的人了](https://toutiao.io/k/3m8iq2m) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

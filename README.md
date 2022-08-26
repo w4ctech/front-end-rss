@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-26 14:40:18，:rocket: 更新条数: +2033， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-26 15:16:36，:rocket: 更新条数: +2031， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,12 @@
 </summary>
 
 
+- [2022-08-26-浙江电信？？](https://www.v2ex.com/t/875721) ![](assets/new.png)  
+- [2022-08-26-关于家庭-ipv6-网络的“裸奔”问题之我见](https://www.v2ex.com/t/875719) ![](assets/new.png)  
+- [2022-08-26-问问大家有没有啥适合二次开发的-K8s-管理平台吗？](https://www.v2ex.com/t/875717) ![](assets/new.png)  
+- [2022-08-26-携号转网](https://www.v2ex.com/t/875716) ![](assets/new.png)  
+- [2022-08-26-求助：当我把-MacBook-盖起来使用外接显示器使用的时候，蓝牙连接不稳定？](https://www.v2ex.com/t/875715) ![](assets/new.png)  
+- [2022-08-26-小米路由器-AC2100-WiFi-最近疯狂断连](https://www.v2ex.com/t/875714) ![](assets/new.png)  
 - [2022-08-26-有没有逆向大佬，来一个](https://www.v2ex.com/t/875712) ![](assets/new.png)  
 - [2022-08-26-星链真的要直连手机了](https://www.v2ex.com/t/875711) ![](assets/new.png)  
 - [2022-08-26-Mac-光标能动，但经常出现点击没有反应是什么原因？](https://www.v2ex.com/t/875710) ![](assets/new.png)  
@@ -505,12 +511,6 @@
 - [2022-08-26-bwg-CN2-是不是不稳？](https://www.v2ex.com/t/875698) ![](assets/new.png)  
 - [2022-08-26-苏州移动云，社招内推-C++/-Python-/Golang-岗](https://www.v2ex.com/t/875697) ![](assets/new.png)  
 - [2022-08-26-有不臭的拖鞋吗](https://www.v2ex.com/t/875696) ![](assets/new.png)  
-- [2022-08-26-trello-里-list-的子-checklist-可以在打开的时候自动展开吗](https://www.v2ex.com/t/875694) ![](assets/new.png)  
-- [2022-08-26-我在土区购买的-upnote-终身版本是不是已经翻车了？](https://www.v2ex.com/t/875693) ![](assets/new.png)  
-- [2022-08-26-我是不是买到假内存条了](https://www.v2ex.com/t/875692) ![](assets/new.png)  
-- [2022-08-26-最近诗又火起来了，于是用-zine-搞了一个发布现代诗的杂志，任何人都可以在-Github-提交你的现代诗](https://www.v2ex.com/t/875691) ![](assets/new.png)  
-- [2022-08-26-有汇总所有订阅播客的服务吗？](https://www.v2ex.com/t/875690) ![](assets/new.png)  
-- [2022-08-26-土耳其-Youtube-Premium-家庭组拼车](https://www.v2ex.com/t/875689) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -554,8 +554,8 @@
 
 
 - [2022-08-26-全网最通透：MySQL-的-redo-log-保证数据不丢的原理](https://toutiao.io/k/1x2qzr6) ![](assets/new.png)  
-- [2022-08-26-如何给注册中心锦上添花？](https://toutiao.io/k/j3g3q3r) ![](assets/new.png)  
 - [2022-08-26-《阿里巴巴-Java-开发手册》为什么建议使用-BigDecimal-进行浮点数运算？](https://toutiao.io/k/ou4wma0) ![](assets/new.png)  
+- [2022-08-26-如何给注册中心锦上添花？](https://toutiao.io/k/j3g3q3r) ![](assets/new.png)  
 - [2022-08-26-Java-日期处理易踩的十个坑](https://toutiao.io/k/ssuyj5l) ![](assets/new.png)  
 - [2022-08-26-Replication（上）：常见的复制模型&分布式系统的挑战](https://toutiao.io/k/irtkssl) ![](assets/new.png)  
 - [2022-08-26-Linux下，如何自动对日志进行压缩备份？](https://toutiao.io/k/ht1gq0v) ![](assets/new.png)  
@@ -566,8 +566,8 @@
 - [2022-08-26-深入解读新一代全栈框架-Fresh](https://toutiao.io/k/vrl6sg5) ![](assets/new.png)  
 - [2022-08-26-KubeSphere-双协议应用路由实践](https://toutiao.io/k/lm22lco) ![](assets/new.png)  
 - [2022-08-26-浅析神经网络-Neural-Networks](https://toutiao.io/k/t1237nr) ![](assets/new.png)  
-- [2022-08-26-Hadoop维护123](https://toutiao.io/k/f0455n8) ![](assets/new.png)  
 - [2022-08-26-6个机器学习可解释性框架！](https://toutiao.io/k/qv4g8wj) ![](assets/new.png)  
+- [2022-08-26-Hadoop维护123](https://toutiao.io/k/f0455n8) ![](assets/new.png)  
 - [2022-08-26-基于Python的一个开源OCR工具，轻松实现批量图片转文字](https://toutiao.io/k/68s2vuv) ![](assets/new.png)  
 - [2022-08-26-独立开发变现周刊（第69期）：语音转录浏览器扩展插件，一年获取20倍增长](https://toutiao.io/k/axc7q1m) ![](assets/new.png)  
 - [2022-08-26-【第2713期】工程化思维：主题切换架构](https://toutiao.io/k/kx2uqft) ![](assets/new.png)  

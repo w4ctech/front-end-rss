@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-26 16:19:15，:rocket: 更新条数: +2030， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-26 16:59:07，:rocket: 更新条数: +2030， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-08-26-和莎莫的-500-天](https://www.v2ex.com/t/875728) ![](assets/new.png)  
+- [2022-08-26-多了个-CPU,来组个啥](https://www.v2ex.com/t/875727) ![](assets/new.png)  
 - [2022-08-26-也许你的-QQ-电脑或手机端被登录多次，而且正在使用。](https://www.v2ex.com/t/875726) ![](assets/new.png)  
 - [2022-08-26-微信大数据是不是能够精准筛查出某些违法犯罪妇女？](https://www.v2ex.com/t/875725) ![](assets/new.png)  
 - [2022-08-26-想自学的自己去看吧](https://www.v2ex.com/t/875724) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-08-26-国区账号转区有什么麻烦的后果](https://www.v2ex.com/t/875705) ![](assets/new.png)  
 - [2022-08-26-老哥们有没有啥方法能开这个-Google-one](https://www.v2ex.com/t/875704) ![](assets/new.png)  
 - [2022-08-26-问一个关于不同目录结构的项目，如何进行开发的基础问题](https://www.v2ex.com/t/875703) ![](assets/new.png)  
-- [2022-08-26-TNT-的官网在哪？用-Mac-的肯定都知道的，你用过他们的软件](https://www.v2ex.com/t/875702) ![](assets/new.png)  
-- [2022-08-26-天翼云-8-折优惠](https://www.v2ex.com/t/875701) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -572,7 +572,7 @@
 - [2022-08-26-独立开发变现周刊（第69期）：语音转录浏览器扩展插件，一年获取20倍增长](https://toutiao.io/k/axc7q1m) ![](assets/new.png)  
 - [2022-08-26-【第2713期】工程化思维：主题切换架构](https://toutiao.io/k/kx2uqft) ![](assets/new.png)  
 - [2022-08-26-了解“预训练-微调”，看这一篇就够了](https://toutiao.io/k/918ipol) ![](assets/new.png)  
-- [2022-08-26-推荐-聊聊-13-种锁的实现方式](https://toutiao.io/k/wcwg3fn) ![](assets/new.png)  
+- [2022-08-26-推荐-一文读懂-|-Linux系统启动过程](https://toutiao.io/k/tiobp8c) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -9953,6 +9953,21 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "腾讯这敏感词识别也太差了吧",
+        "link": "https://www.v2ex.com/t/875904",
+        "date": "2022-08-27"
+      },
+      {
+        "title": "免费、离线、自部署的 稍后读 / 书签 / 网页批注工具 [提供 开源 SDK + API 文档]",
+        "link": "https://www.v2ex.com/t/875903",
+        "date": "2022-08-27"
+      },
+      {
+        "title": "完读子了，我被女人甩了",
+        "link": "https://www.v2ex.com/t/875901",
+        "date": "2022-08-27"
+      },
+      {
         "title": "MacOS 下 Edge 会比 Chrome 更快、更好用吗？",
         "link": "https://www.v2ex.com/t/875899",
         "date": "2022-08-27"
@@ -10146,21 +10161,6 @@
         "title": "1Password 的问题",
         "link": "https://www.v2ex.com/t/875855",
         "date": "2022-08-27"
-      },
-      {
-        "title": "craco typescript 模板",
-        "link": "https://www.v2ex.com/t/875854",
-        "date": "2022-08-27"
-      },
-      {
-        "title": "全球最受欢迎的密码管理软件 LastPass 遭黑客入侵",
-        "link": "https://www.v2ex.com/t/875853",
-        "date": "2022-08-27"
-      },
-      {
-        "title": "有没有可能所有的编程语言或者框架都在朝着同一个方向发展",
-        "link": "https://www.v2ex.com/t/875851",
-        "date": "2022-08-27"
       }
     ]
   },
@@ -10332,8 +10332,8 @@
         "date": "2022-08-27"
       },
       {
-        "title": "[推荐] 聊聊 13 种锁的实现方式",
-        "link": "https://toutiao.io/k/wcwg3fn",
+        "title": "[推荐] 全网最全的权限系统设计方案（图解）",
+        "link": "https://toutiao.io/k/lozkmee",
         "date": "2022-08-27"
       },
       {
@@ -10342,8 +10342,8 @@
         "date": "2022-08-27"
       },
       {
-        "title": "[推荐] 全网最全的权限系统设计方案（图解）",
-        "link": "https://toutiao.io/k/lozkmee",
+        "title": "[推荐] 聊聊 13 种锁的实现方式",
+        "link": "https://toutiao.io/k/wcwg3fn",
         "date": "2022-08-27"
       }
     ]

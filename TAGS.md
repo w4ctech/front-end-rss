@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-08-27 07:13:49。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-08-27 07:38:34。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -242,7 +242,6 @@
 
 - [【武汉肺炎防疫全纪录(财新网)】广州17岁男生在定点医院参加高考-特殊考场视频监考](https://m.caixin.com/m/2021-06-05/101723418.html)
 - [【武汉肺炎防疫全纪录(财新网)】林郑月娥率13高官直播接种科兴疫苗-复星疫苗预计周中到港](https://m.caixin.com/m/2021-02-22/101665724.html)
-- [【V2EX】macos-某个外接音频设备的最小音量（1/4-格）还是不够小，怎么办？](https://www.v2ex.com/t/875761)
 - [......【查看更多】......](./details/tags/audio-video.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -285,7 +284,6 @@
 - [【张鑫旭-鑫空间-鑫生活】基于文字的URL锚点定位与::target-text样式设置](https://www.zhangxinxu.com/wordpress/2022/06/url-anchor-target-text/)
 - [【V2EX】Win-10-开机自动开启浏览器弹出访问网站](https://www.v2ex.com/t/875800)
 - [【V2EX】推荐一个-spring-mvc-的请求日志输出框架](https://www.v2ex.com/t/875796)
-- [【V2EX】运营商改造为-IPoE-的优势与劣势以及-IPv6-的安全性问题](https://www.v2ex.com/t/875762)
 - [【开发者头条】C++最佳实践-|-3.-安全性](https://toutiao.io/k/hvmamx8)
 - [......【查看更多】......](./details/tags/browser.md)
 

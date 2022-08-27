@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-27 07:13:49，:rocket: 更新条数: +2020， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-27 07:38:34，:rocket: 更新条数: +2019， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,9 @@
 </summary>
 
 
+- [2022-08-27-做了一段时间-TG-频道，征求大家给点建议](https://www.v2ex.com/t/875813) ![](assets/new.png)  
+- [2022-08-27-不知道为什么，无线网络每天都会有-3-4-次连不上网](https://www.v2ex.com/t/875811) ![](assets/new.png)  
+- [2022-08-27-有好心人有-A2119-的帮忙测一下-2k144hz-是否支持嘛](https://www.v2ex.com/t/875810) ![](assets/new.png)  
 - [2022-08-27-Cemu-支持-Linux-了，山寨掌机又可以补充一波游戏库了](https://www.v2ex.com/t/875809) ![](assets/new.png)  
 - [2022-08-27-最近在练习正则,大家有没有什么在线的类似于用正则实现的通关类打怪练习正则的在线网站吗?](https://www.v2ex.com/t/875808) ![](assets/new.png)  
 - [2022-08-27-应届生求职，请问我这是被-HR-电话拉黑了吗？](https://www.v2ex.com/t/875807) ![](assets/new.png)  
@@ -508,9 +511,6 @@
 - [2022-08-27-看到一个不开源的博客主题，问下有没有类似的](https://www.v2ex.com/t/875793) ![](assets/new.png)  
 - [2022-08-27-怎么看-Python-标准库中的实现方式](https://www.v2ex.com/t/875792) ![](assets/new.png)  
 - [2022-08-27-请问某些手游为什么更新要重新下载安装包?](https://www.v2ex.com/t/875791) ![](assets/new.png)  
-- [2022-08-27-三星手机换小米手机的感受](https://www.v2ex.com/t/875790) ![](assets/new.png)  
-- [2022-08-27-mac-微信聊天记录迁移失败](https://www.v2ex.com/t/875789) ![](assets/new.png)  
-- [2022-08-27-这两个是啥进程，可以杀吗](https://www.v2ex.com/t/875786) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -563,10 +563,10 @@
 - [2022-08-27-妈妈说找男朋友要有数据思维！](https://toutiao.io/k/fnor2jx) ![](assets/new.png)  
 - [2022-08-27-C++最佳实践-|-3.-安全性](https://toutiao.io/k/hvmamx8) ![](assets/new.png)  
 - [2022-08-27-【第2714期】从Multirepo到Monorepo-袋鼠云数栈前端研发效率提升探索之路](https://toutiao.io/k/qj4913d) ![](assets/new.png)  
-- [2022-08-27-推荐-一文读懂-|-Linux系统启动过程](https://toutiao.io/k/tiobp8c) ![](assets/new.png)  
 - [2022-08-27-推荐-聊聊-13-种锁的实现方式](https://toutiao.io/k/wcwg3fn) ![](assets/new.png)  
-- [2022-08-27-推荐-Java线上CPU内存冲高问题排查步骤](https://toutiao.io/k/t9sj17s) ![](assets/new.png)  
 - [2022-08-27-推荐-全网最全的权限系统设计方案（图解）](https://toutiao.io/k/lozkmee) ![](assets/new.png)  
+- [2022-08-27-推荐-Java线上CPU内存冲高问题排查步骤](https://toutiao.io/k/t9sj17s) ![](assets/new.png)  
+- [2022-08-27-推荐-一文读懂-|-Linux系统启动过程](https://toutiao.io/k/tiobp8c) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

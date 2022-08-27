@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-08-27 07:13:49。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-08-27 07:38:34。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -16,5 +16,4 @@
 - [2022-06-12-基于文字的URL锚点定位与::target-text样式设置](https://www.zhangxinxu.com/wordpress/2022/06/url-anchor-target-text/) 
 - [2022-08-27-Win-10-开机自动开启浏览器弹出访问网站](https://www.v2ex.com/t/875800) 
 - [2022-08-27-推荐一个-spring-mvc-的请求日志输出框架](https://www.v2ex.com/t/875796) 
-- [2022-08-27-运营商改造为-IPoE-的优势与劣势以及-IPv6-的安全性问题](https://www.v2ex.com/t/875762) 
 - [2022-08-27-C++最佳实践-|-3.-安全性](https://toutiao.io/k/hvmamx8) 

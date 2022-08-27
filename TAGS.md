@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-08-26 23:41:48。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-08-27 01:05:32。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -88,6 +88,7 @@
 
 
 - [【武汉肺炎防疫全纪录(财新网)】韩国拟升级首尔疫情管控-法国专业机构建议强制接种疫苗｜大流行手记（7月10日）](https://m.caixin.com/m/2021-07-11/101738786.html)
+- [【开发者头条】如何在-Gin-框架中使用泛型构建完全解耦的请求验证层](https://toutiao.io/k/29lc1e5)
 - [......【查看更多】......](./details/tags/pack-build.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -184,7 +185,6 @@
 - [【V2EX】小米路由器-AC2100-WiFi-最近疯狂断连](https://www.v2ex.com/t/875714)
 - [【技术头条】图解-Flink-滚动窗口、会话窗口和滑动窗口-www.awaimai.com](https://blogread.cn/news/go.php?idItem=15341&url=https%3A%2F%2Fwww.awaimai.com%2F2957.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【技术头条】再聊-Git-Flow-www.kymjs.com](https://blogread.cn/news/go.php?idItem=15336&url=https%3A%2F%2Fwww.kymjs.com%2Fmanager%2F2020%2F05%2F29%2F01%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
-- [【开发者头条】KubeSphere-双协议应用路由实践](https://toutiao.io/k/lm22lco)
 - [......【查看更多】......](./details/tags/javascript.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -280,7 +280,7 @@
 - [【武汉肺炎防疫全纪录(财新网)】解药|新冠mRNA疫苗安全性有哪些挑战？](https://m.caixin.com/m/2021-01-08/101648043.html)
 - [【武汉肺炎防疫全纪录(财新网)】大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html)
 - [【张鑫旭-鑫空间-鑫生活】基于文字的URL锚点定位与::target-text样式设置](https://www.zhangxinxu.com/wordpress/2022/06/url-anchor-target-text/)
-- [【开发者头条】独立开发变现周刊（第69期）：语音转录浏览器扩展插件，一年获取20倍增长](https://toutiao.io/k/axc7q1m)
+- [【V2EX】现在-firefox-浏览器还有多少人在用？手机端呢？](https://www.v2ex.com/t/875739)
 - [......【查看更多】......](./details/tags/browser.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -299,7 +299,7 @@
 
 - [【V2EX】分享篇文章：为什么我会使用-Vim-？](https://www.v2ex.com/t/875730)
 - [【V2EX】LastPass-的-Premium-订阅无法取消](https://www.v2ex.com/t/875722)
-- [【开发者头条】深入解读新一代全栈框架-Fresh](https://toutiao.io/k/vrl6sg5)
+- [【开发者头条】Maven依赖解析之倍增提速！eBay-Velocity实践的开源新算法](https://toutiao.io/k/16gmrqr)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -316,7 +316,6 @@
 
 
 
-- [【开发者头条】分布式接口幂等性、分布式限流：Guava-、nginx和lua限流](https://toutiao.io/k/wetgg6k)
 - [......【查看更多】......](./details/tags/server.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -333,7 +332,6 @@
 
 
 
-- [【V2EX】最近诗又火起来了，于是用-zine-搞了一个发布现代诗的杂志，任何人都可以在-Github-提交你的现代诗](https://www.v2ex.com/t/875691)
 - [......【查看更多】......](./details/tags/git-svn.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -350,7 +348,6 @@
 
 
 
-- [【V2EX】北京/广州-字节跳动招聘高级前端工程师](https://www.v2ex.com/t/875686)
 - [【技术头条】又是面试题？对，合并有序序列。-www.felix021.com](https://blogread.cn/news/go.php?idItem=15330&url=https%3A%2F%2Fwww.felix021.com%2Fblog%2Fread.php%3F2229%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [......【查看更多】......](./details/tags/job-interview.md)
 

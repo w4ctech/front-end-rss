@@ -9953,6 +9953,41 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "MacBook 充电问题，显示不在充电",
+        "link": "https://www.v2ex.com/t/875743",
+        "date": "2022-08-27"
+      },
+      {
+        "title": "联通也正改造为 ipoe + ipv6 native + 4in6 接入",
+        "link": "https://www.v2ex.com/t/875742",
+        "date": "2022-08-27"
+      },
+      {
+        "title": "家庭小零食推荐",
+        "link": "https://www.v2ex.com/t/875741",
+        "date": "2022-08-27"
+      },
+      {
+        "title": "后端如何判断是内存不够了，还是 cpu 到瓶颈了",
+        "link": "https://www.v2ex.com/t/875740",
+        "date": "2022-08-27"
+      },
+      {
+        "title": "现在 firefox 浏览器还有多少人在用？手机端呢？",
+        "link": "https://www.v2ex.com/t/875739",
+        "date": "2022-08-27"
+      },
+      {
+        "title": "鼓包的充电宝怎么处理",
+        "link": "https://www.v2ex.com/t/875738",
+        "date": "2022-08-27"
+      },
+      {
+        "title": "网易云的移动端数据文件存放位置",
+        "link": "https://www.v2ex.com/t/875737",
+        "date": "2022-08-27"
+      },
+      {
         "title": "如果你在 V2EX 设置的个人网站地址那里填的是一个 ENS，现在会显示 ENS 的图标",
         "link": "https://www.v2ex.com/t/875735",
         "date": "2022-08-26"
@@ -10106,51 +10141,6 @@
         "title": "有不臭的拖鞋吗",
         "link": "https://www.v2ex.com/t/875696",
         "date": "2022-08-26"
-      },
-      {
-        "title": "trello 里 list 的子 checklist 可以在打开的时候自动展开吗",
-        "link": "https://www.v2ex.com/t/875694",
-        "date": "2022-08-26"
-      },
-      {
-        "title": "我在土区购买的 upnote 终身版本是不是已经翻车了？",
-        "link": "https://www.v2ex.com/t/875693",
-        "date": "2022-08-26"
-      },
-      {
-        "title": "我是不是买到假内存条了",
-        "link": "https://www.v2ex.com/t/875692",
-        "date": "2022-08-26"
-      },
-      {
-        "title": "最近诗又火起来了，于是用 zine 搞了一个发布现代诗的杂志，任何人都可以在 Github 提交你的现代诗",
-        "link": "https://www.v2ex.com/t/875691",
-        "date": "2022-08-26"
-      },
-      {
-        "title": "有汇总所有订阅播客的服务吗？",
-        "link": "https://www.v2ex.com/t/875690",
-        "date": "2022-08-26"
-      },
-      {
-        "title": "土耳其 Youtube Premium 家庭组拼车",
-        "link": "https://www.v2ex.com/t/875689",
-        "date": "2022-08-26"
-      },
-      {
-        "title": "平果是怎么做到 CPU 100%，内存爆满还不卡顿的？",
-        "link": "https://www.v2ex.com/t/875688",
-        "date": "2022-08-26"
-      },
-      {
-        "title": "有没有比较护眼又不太偏色的手机贴膜？",
-        "link": "https://www.v2ex.com/t/875687",
-        "date": "2022-08-26"
-      },
-      {
-        "title": "[北京/广州] 字节跳动招聘高级前端工程师",
-        "link": "https://www.v2ex.com/t/875686",
-        "date": "2022-08-26"
       }
     ]
   },
@@ -10162,102 +10152,102 @@
       {
         "title": "为什么我们需要企业架构？ (insights.thoughtworks.cn)",
         "link": "https://blogread.cn/news/go.php?idItem=15345&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fwhy-need-enterprise-architecture%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-08-26"
+        "date": "2022-08-27"
       },
       {
         "title": "软件泥潭真体验 (insights.thoughtworks.cn)",
         "link": "https://blogread.cn/news/go.php?idItem=15344&url=https%3A%2F%2Finsights.thoughtworks.cn%2Flegacy-system-operation-experience%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-08-26"
+        "date": "2022-08-27"
       },
       {
         "title": "VS Code 是如何优化启动性能的？ (fed.taobao.org)",
         "link": "https://blogread.cn/news/go.php?idItem=15343&url=https%3A%2F%2Ffed.taobao.org%2Fblog%2Ftaofed%2Fdo71ct%2Fwpsf10%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-08-26"
+        "date": "2022-08-27"
       },
       {
         "title": "ICLR 2021 | 美团AutoML论文：鲁棒的神经网络架构搜索 DARTS- (tech.meituan.com)",
         "link": "https://blogread.cn/news/go.php?idItem=15342&url=https%3A%2F%2Ftech.meituan.com%2F2021%2F03%2F25%2Ficlr-2021-nas-automl-darts.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-08-26"
+        "date": "2022-08-27"
       },
       {
         "title": "图解 Flink 滚动窗口、会话窗口和滑动窗口 (www.awaimai.com)",
         "link": "https://blogread.cn/news/go.php?idItem=15341&url=https%3A%2F%2Fwww.awaimai.com%2F2957.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-08-26"
+        "date": "2022-08-27"
       },
       {
         "title": "Btrfs 文件系统入门 (linux.cn)",
         "link": "https://blogread.cn/news/go.php?idItem=15340&url=https%3A%2F%2Flinux.cn%2Farticle-13440-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-08-26"
+        "date": "2022-08-27"
       },
       {
         "title": "Systrace 流畅性实战 3 ：卡顿分析过程中的一些疑问 (androidperformance.com)",
         "link": "https://blogread.cn/news/go.php?idItem=15339&url=https%3A%2F%2Fandroidperformance.com%2F2021%2F04%2F24%2Fandroid-systrace-smooth-in-action-3%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-08-26"
+        "date": "2022-08-27"
       },
       {
         "title": "Systrace 流畅性实战 2 ：案例分析 - MIUI 桌面滑动卡顿分析 (androidperformance.com)",
         "link": "https://blogread.cn/news/go.php?idItem=15338&url=https%3A%2F%2Fandroidperformance.com%2F2021%2F04%2F24%2Fandroid-systrace-smooth-in-action-2%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-08-26"
+        "date": "2022-08-27"
       },
       {
         "title": "Systrace 流畅性实战 1 ：了解卡顿原理 (androidperformance.com)",
         "link": "https://blogread.cn/news/go.php?idItem=15337&url=https%3A%2F%2Fandroidperformance.com%2F2021%2F04%2F24%2Fandroid-systrace-smooth-in-action-1%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-08-26"
+        "date": "2022-08-27"
       },
       {
         "title": "再聊 Git Flow (www.kymjs.com)",
         "link": "https://blogread.cn/news/go.php?idItem=15336&url=https%3A%2F%2Fwww.kymjs.com%2Fmanager%2F2020%2F05%2F29%2F01%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-08-26"
+        "date": "2022-08-27"
       },
       {
         "title": "使用 Docker 和 Node 搭建公式渲染服务（后篇） (soulteary.com)",
         "link": "https://blogread.cn/news/go.php?idItem=15335&url=https%3A%2F%2Fsoulteary.com%2F2021%2F04%2F16%2Fuse-docker-and-node-to-build-a-formula-rendering-service-part-3.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-08-26"
+        "date": "2022-08-27"
       },
       {
         "title": "使用 Docker 和 Node 搭建公式渲染服务（中篇） (soulteary.com)",
         "link": "https://blogread.cn/news/go.php?idItem=15334&url=https%3A%2F%2Fsoulteary.com%2F2021%2F04%2F15%2Fuse-docker-and-node-to-build-a-formula-rendering-service-part-2.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-08-26"
+        "date": "2022-08-27"
       },
       {
         "title": "使用 Docker 和 Node 搭建公式渲染服务（前篇） (soulteary.com)",
         "link": "https://blogread.cn/news/go.php?idItem=15333&url=https%3A%2F%2Fsoulteary.com%2F2021%2F04%2F14%2Fuse-docker-and-node-to-build-a-formula-rendering-service-part-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-08-26"
+        "date": "2022-08-27"
       },
       {
         "title": "Go并发编程一年回顾 (colobu.com)",
         "link": "https://blogread.cn/news/go.php?idItem=15332&url=https%3A%2F%2Fcolobu.com%2F2020%2F07%2F05%2Fthe-state-of-go-sync-2020%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-08-26"
+        "date": "2022-08-27"
       },
       {
         "title": "Kubernetes如何改变美团的云基础设施？ (tech.meituan.com)",
         "link": "https://blogread.cn/news/go.php?idItem=15331&url=https%3A%2F%2Ftech.meituan.com%2F2020%2F08%2F13%2Fopenstack-to-kubernetes-in-meituan.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-08-26"
+        "date": "2022-08-27"
       },
       {
         "title": "又是面试题？对，合并有序序列。 (www.felix021.com)",
         "link": "https://blogread.cn/news/go.php?idItem=15330&url=https%3A%2F%2Fwww.felix021.com%2Fblog%2Fread.php%3F2229%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-08-26"
+        "date": "2022-08-27"
       },
       {
         "title": "利用 Automator 自动化你的工作 (blog.devtang.com)",
         "link": "https://blogread.cn/news/go.php?idItem=15329&url=https%3A%2F%2Fblog.devtang.com%2F2020%2F03%2F25%2Fautomatic-thinking%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-08-26"
+        "date": "2022-08-27"
       },
       {
         "title": "关于 RSA 的一些趣事 (www.felix021.com)",
         "link": "https://blogread.cn/news/go.php?idItem=15328&url=https%3A%2F%2Fwww.felix021.com%2Fblog%2Fread.php%3F2213%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-08-26"
+        "date": "2022-08-27"
       },
       {
         "title": "关于用研岗位的思考 (blog.devtang.com)",
         "link": "https://blogread.cn/news/go.php?idItem=15327&url=https%3A%2F%2Fblog.devtang.com%2F2020%2F07%2F28%2Fabout-user-research%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-08-26"
+        "date": "2022-08-27"
       },
       {
         "title": "前端AB实验设计思路与实现原理 (fed.taobao.org)",
         "link": "https://blogread.cn/news/go.php?idItem=15326&url=https%3A%2F%2Ffed.taobao.org%2Fblog%2Ftaofed%2Fdo71ct%2Ffrontend-ab-test%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-08-26"
+        "date": "2022-08-27"
       }
     ]
   },
@@ -10267,119 +10257,49 @@
     "link": "https://toutiao.io",
     "items": [
       {
-        "title": "全网最通透：MySQL 的 redo log 保证数据不丢的原理",
-        "link": "https://toutiao.io/k/1x2qzr6",
-        "date": "2022-08-26"
+        "title": "优质网站同好者周刊（第 080 期） | 倾城博客",
+        "link": "https://toutiao.io/k/15ogjat",
+        "date": "2022-08-27"
       },
       {
-        "title": "《阿里巴巴 Java 开发手册》为什么建议使用 BigDecimal 进行浮点数运算？",
-        "link": "https://toutiao.io/k/ou4wma0",
-        "date": "2022-08-26"
+        "title": "如何在 Gin 框架中使用泛型构建完全解耦的请求验证层",
+        "link": "https://toutiao.io/k/29lc1e5",
+        "date": "2022-08-27"
       },
       {
-        "title": "如何给注册中心锦上添花？",
-        "link": "https://toutiao.io/k/j3g3q3r",
-        "date": "2022-08-26"
+        "title": "Replication（下）：事务，一致性与共识",
+        "link": "https://toutiao.io/k/oqmu6ls",
+        "date": "2022-08-27"
       },
       {
-        "title": "Java 日期处理易踩的十个坑",
-        "link": "https://toutiao.io/k/ssuyj5l",
-        "date": "2022-08-26"
+        "title": "Maven依赖解析之倍增提速！eBay Velocity实践的开源新算法",
+        "link": "https://toutiao.io/k/16gmrqr",
+        "date": "2022-08-27"
       },
       {
-        "title": "Replication（上）：常见的复制模型&分布式系统的挑战",
-        "link": "https://toutiao.io/k/irtkssl",
-        "date": "2022-08-26"
-      },
-      {
-        "title": "Linux下，如何自动对日志进行压缩备份？",
-        "link": "https://toutiao.io/k/ht1gq0v",
-        "date": "2022-08-26"
-      },
-      {
-        "title": "可以借鉴的谷歌公司BUG管理经验",
-        "link": "https://toutiao.io/k/bey4wzo",
-        "date": "2022-08-26"
-      },
-      {
-        "title": "分布式接口幂等性、分布式限流：Guava 、nginx和lua限流",
-        "link": "https://toutiao.io/k/wetgg6k",
-        "date": "2022-08-26"
-      },
-      {
-        "title": "Flink在转转商业实时数仓的应用",
-        "link": "https://toutiao.io/k/pze9uny",
-        "date": "2022-08-26"
-      },
-      {
-        "title": "Java 中为什么不全部使用 static 方法？",
-        "link": "https://toutiao.io/k/8ki7src",
-        "date": "2022-08-26"
-      },
-      {
-        "title": "深入解读新一代全栈框架 Fresh",
-        "link": "https://toutiao.io/k/vrl6sg5",
-        "date": "2022-08-26"
-      },
-      {
-        "title": "KubeSphere 双协议应用路由实践",
-        "link": "https://toutiao.io/k/lm22lco",
-        "date": "2022-08-26"
-      },
-      {
-        "title": "浅析神经网络 Neural Networks",
-        "link": "https://toutiao.io/k/t1237nr",
-        "date": "2022-08-26"
-      },
-      {
-        "title": "Hadoop维护123",
-        "link": "https://toutiao.io/k/f0455n8",
-        "date": "2022-08-26"
-      },
-      {
-        "title": "6个机器学习可解释性框架！",
-        "link": "https://toutiao.io/k/qv4g8wj",
-        "date": "2022-08-26"
-      },
-      {
-        "title": "基于Python的一个开源OCR工具，轻松实现批量图片转文字",
-        "link": "https://toutiao.io/k/68s2vuv",
-        "date": "2022-08-26"
-      },
-      {
-        "title": "独立开发变现周刊（第69期）：语音转录浏览器扩展插件，一年获取20倍增长",
-        "link": "https://toutiao.io/k/axc7q1m",
-        "date": "2022-08-26"
-      },
-      {
-        "title": "【第2713期】工程化思维：主题切换架构",
-        "link": "https://toutiao.io/k/kx2uqft",
-        "date": "2022-08-26"
-      },
-      {
-        "title": "了解“预训练-微调”，看这一篇就够了",
-        "link": "https://toutiao.io/k/918ipol",
-        "date": "2022-08-26"
-      },
-      {
-        "title": "[推荐] 全网最全的权限系统设计方案（图解）",
-        "link": "https://toutiao.io/k/lozkmee",
-        "date": "2022-08-26"
+        "title": "开箱即用的前端图片压缩方案",
+        "link": "https://toutiao.io/k/lz78nlu",
+        "date": "2022-08-27"
       },
       {
         "title": "[推荐] Java线上CPU内存冲高问题排查步骤",
         "link": "https://toutiao.io/k/t9sj17s",
-        "date": "2022-08-26"
+        "date": "2022-08-27"
       },
       {
         "title": "[推荐] 聊聊 13 种锁的实现方式",
         "link": "https://toutiao.io/k/wcwg3fn",
-        "date": "2022-08-26"
+        "date": "2022-08-27"
+      },
+      {
+        "title": "[推荐] 全网最全的权限系统设计方案（图解）",
+        "link": "https://toutiao.io/k/lozkmee",
+        "date": "2022-08-27"
       },
       {
         "title": "[推荐] 一文读懂 | Linux系统启动过程",
         "link": "https://toutiao.io/k/tiobp8c",
-        "date": "2022-08-26"
+        "date": "2022-08-27"
       }
     ]
   },

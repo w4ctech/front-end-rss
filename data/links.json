@@ -9953,6 +9953,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "有没有可能所有的编程语言或者框架都在朝着同一个方向发展",
+        "link": "https://www.v2ex.com/t/875851",
+        "date": "2022-08-27"
+      },
+      {
         "title": "大众点评酒店页面坏了？",
         "link": "https://www.v2ex.com/t/875850",
         "date": "2022-08-27"
@@ -10141,16 +10146,6 @@
         "title": "入职要求体检，但只要求三项检查，可以直接去医院挂号开检查单吗",
         "link": "https://www.v2ex.com/t/875803",
         "date": "2022-08-27"
-      },
-      {
-        "title": "[微信读书] 求助，同一个账号 iOS Andriod 是互通 vip 的吗？",
-        "link": "https://www.v2ex.com/t/875802",
-        "date": "2022-08-27"
-      },
-      {
-        "title": "Python 在 MacOs 诡异运行",
-        "link": "https://www.v2ex.com/t/875801",
-        "date": "2022-08-27"
       }
     ]
   },
@@ -10317,13 +10312,13 @@
         "date": "2022-08-27"
       },
       {
-        "title": "[推荐] Java线上CPU内存冲高问题排查步骤",
-        "link": "https://toutiao.io/k/t9sj17s",
+        "title": "[推荐] 聊聊 13 种锁的实现方式",
+        "link": "https://toutiao.io/k/wcwg3fn",
         "date": "2022-08-27"
       },
       {
-        "title": "[推荐] 聊聊 13 种锁的实现方式",
-        "link": "https://toutiao.io/k/wcwg3fn",
+        "title": "[推荐] 一文读懂 | Linux系统启动过程",
+        "link": "https://toutiao.io/k/tiobp8c",
         "date": "2022-08-27"
       },
       {
@@ -10332,8 +10327,8 @@
         "date": "2022-08-27"
       },
       {
-        "title": "[推荐] 一文读懂 | Linux系统启动过程",
-        "link": "https://toutiao.io/k/tiobp8c",
+        "title": "[推荐] Java线上CPU内存冲高问题排查步骤",
+        "link": "https://toutiao.io/k/t9sj17s",
         "date": "2022-08-27"
       }
     ]

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-27 03:44:26，:rocket: 更新条数: +2020， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-27 04:55:41，:rocket: 更新条数: +2017， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,11 +491,19 @@
 </summary>
 
 
-- [2022-08-27-没有一点安全感！](https://www.v2ex.com/t/875769) ![](assets/new.png)  
+- [2022-08-27-分享一个帮同学发布的-iMessage-贴纸应用](https://www.v2ex.com/t/875783) ![](assets/new.png)  
+- [2022-08-27-再次没了公网-IP，报障后电信工作人员回复说-9-月-1-号后广电要求-IPTV-需要连到光猫的-IPTV-口才可以申请公网-IP](https://www.v2ex.com/t/875782) ![](assets/new.png)  
+- [2022-08-27-广电卡不能收发短信](https://www.v2ex.com/t/875781) ![](assets/new.png)  
+- [2022-08-27-就网购而言，大家能接受哪些情况下的退货呢？](https://www.v2ex.com/t/875780) ![](assets/new.png)  
+- [2022-08-27-哦豁,喜提中度脂肪肝](https://www.v2ex.com/t/875778) ![](assets/new.png)  
+- [2022-08-27-13mini-打卡相机很卡，拍完照也很卡，这是为什么](https://www.v2ex.com/t/875777) ![](assets/new.png)  
+- [2022-08-27-做一个评价本地外卖好不好吃的，有风险吗？](https://www.v2ex.com/t/875776) ![](assets/new.png)  
+- [2022-08-27-iPhone-8-现在的系统是-13.6，是否推荐升级到最新的-15.6.1](https://www.v2ex.com/t/875774) ![](assets/new.png)  
+- [2022-08-27-我做的-RSS-阅读软件更新啦～](https://www.v2ex.com/t/875772) ![](assets/new.png)  
+- [2022-08-27-求各地网友帮确认，-vercel-已经被-ban-了吗？](https://www.v2ex.com/t/875771) ![](assets/new.png)  
 - [2022-08-27-经常按鼠标滚轮的-V-友，都用的哪款鼠标？](https://www.v2ex.com/t/875768) ![](assets/new.png)  
 - [2022-08-27-16-寸-type-c-转接头问题](https://www.v2ex.com/t/875767) ![](assets/new.png)  
 - [2022-08-27-关于-8-月-20-号之后，王卡（限定版）已下架，各位怎么办理的](https://www.v2ex.com/t/875766) ![](assets/new.png)  
-- [2022-08-27-拼多多百亿补贴美心月饼-3-人团-218，求拼](https://www.v2ex.com/t/875765) ![](assets/new.png)  
 - [2022-08-27-上班如何摆正心态？](https://www.v2ex.com/t/875764) ![](assets/new.png)  
 - [2022-08-27-上海有没有周末一起约打网球的](https://www.v2ex.com/t/875763) ![](assets/new.png)  
 - [2022-08-27-运营商改造为-IPoE-的优势与劣势以及-IPv6-的安全性问题](https://www.v2ex.com/t/875762) ![](assets/new.png)  
@@ -503,14 +511,6 @@
 - [2022-08-27-安卓版微信读书如何关闭蓝牙自动播放听书？](https://www.v2ex.com/t/875760) ![](assets/new.png)  
 - [2022-08-27-MIUI-13-多用户模式突然不见了](https://www.v2ex.com/t/875759) ![](assets/new.png)  
 - [2022-08-27-Xmake-v2.7.1-发布，更好的-C++-Modules-支持](https://www.v2ex.com/t/875758) ![](assets/new.png)  
-- [2022-08-27-请问一下，三层交换机搭配猫棒，该怎么配置？](https://www.v2ex.com/t/875757) ![](assets/new.png)  
-- [2022-08-27-请教一下：理解网络-IO-有什么用？](https://www.v2ex.com/t/875756) ![](assets/new.png)  
-- [2022-08-27-有没有在西安的同学，从北京离职准备去西安工作，房子好找吗？](https://www.v2ex.com/t/875755) ![](assets/new.png)  
-- [2022-08-27-win10-DRIVER-旧的内核调用程序-阻止休眠](https://www.v2ex.com/t/875754) ![](assets/new.png)  
-- [2022-08-27-iCloud-云上贵州网页版登陆不上去](https://www.v2ex.com/t/875752) ![](assets/new.png)  
-- [2022-08-27-睡前如何做笔记？既不想摁亮手机屏刺激眼睛，又不开口录音。免得睡意被清空。只能纸笔摸索着写？](https://www.v2ex.com/t/875751) ![](assets/new.png)  
-- [2022-08-27-首页推荐算法已上线](https://www.v2ex.com/t/875750) ![](assets/new.png)  
-- [2022-08-27-观察到一个黑色的乌鸦是否影响所有母牛都是白色的概率？](https://www.v2ex.com/t/875748) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -561,10 +561,10 @@
 - [2022-08-27-Spring-Boot-实现通用-Auth-认证的-4-种方式](https://toutiao.io/k/fcb6qrq) ![](assets/new.png)  
 - [2022-08-27-妈妈说找男朋友要有数据思维！](https://toutiao.io/k/fnor2jx) ![](assets/new.png)  
 - [2022-08-27-使用-Node.js-操作-Docker，不是使用-Dcoker-容器化-Node.js-服务哦！](https://toutiao.io/k/cs9v40r) ![](assets/new.png)  
-- [2022-08-27-推荐-一文读懂-|-Linux系统启动过程](https://toutiao.io/k/tiobp8c) ![](assets/new.png)  
+- [2022-08-27-推荐-聊聊-13-种锁的实现方式](https://toutiao.io/k/wcwg3fn) ![](assets/new.png)  
 - [2022-08-27-推荐-Java线上CPU内存冲高问题排查步骤](https://toutiao.io/k/t9sj17s) ![](assets/new.png)  
 - [2022-08-27-推荐-全网最全的权限系统设计方案（图解）](https://toutiao.io/k/lozkmee) ![](assets/new.png)  
-- [2022-08-27-推荐-聊聊-13-种锁的实现方式](https://toutiao.io/k/wcwg3fn) ![](assets/new.png)  
+- [2022-08-27-推荐-一文读懂-|-Linux系统启动过程](https://toutiao.io/k/tiobp8c) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

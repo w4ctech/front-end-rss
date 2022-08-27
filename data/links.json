@@ -9953,6 +9953,16 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "《流浪地球 2》预告片里，李雪健老师的配音，是不是可以用 AI 合成他自己的？",
+        "link": "https://www.v2ex.com/t/875913",
+        "date": "2022-08-27"
+      },
+      {
+        "title": "dell 2720 屏幕中间有条线， JD 快递员 9 号拿了，到现在还没给我换",
+        "link": "https://www.v2ex.com/t/875912",
+        "date": "2022-08-27"
+      },
+      {
         "title": "Windows 的鼠标图标在有些状态下会很模糊",
         "link": "https://www.v2ex.com/t/875911",
         "date": "2022-08-27"
@@ -10146,16 +10156,6 @@
         "title": "immer 库处理 Map 的接口是不是有问题？",
         "link": "https://www.v2ex.com/t/875864",
         "date": "2022-08-27"
-      },
-      {
-        "title": "gdb 有没有办法像 zsh 的 auto-suggestion 那样按一个键就出来之前的历史记录？每次重新输入指令太麻烦了",
-        "link": "https://www.v2ex.com/t/875863",
-        "date": "2022-08-27"
-      },
-      {
-        "title": "多邻国使用 Firefox 和 Chrome 展示的课程竟然不同",
-        "link": "https://www.v2ex.com/t/875862",
-        "date": "2022-08-27"
       }
     ]
   },
@@ -10322,8 +10322,13 @@
         "date": "2022-08-27"
       },
       {
-        "title": "[推荐] Java线上CPU内存冲高问题排查步骤",
-        "link": "https://toutiao.io/k/t9sj17s",
+        "title": "[推荐] 一文读懂 | Linux系统启动过程",
+        "link": "https://toutiao.io/k/tiobp8c",
+        "date": "2022-08-27"
+      },
+      {
+        "title": "[推荐] 聊聊 13 种锁的实现方式",
+        "link": "https://toutiao.io/k/wcwg3fn",
         "date": "2022-08-27"
       },
       {
@@ -10332,13 +10337,8 @@
         "date": "2022-08-27"
       },
       {
-        "title": "[推荐] 一文读懂 | Linux系统启动过程",
-        "link": "https://toutiao.io/k/tiobp8c",
-        "date": "2022-08-27"
-      },
-      {
-        "title": "[推荐] 聊聊 13 种锁的实现方式",
-        "link": "https://toutiao.io/k/wcwg3fn",
+        "title": "[推荐] Java线上CPU内存冲高问题排查步骤",
+        "link": "https://toutiao.io/k/t9sj17s",
         "date": "2022-08-27"
       }
     ]

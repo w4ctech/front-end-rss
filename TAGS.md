@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-08-27 17:40:41。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-08-27 18:17:23。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -288,7 +288,6 @@
 - [【张鑫旭-鑫空间-鑫生活】基于文字的URL锚点定位与::target-text样式设置](https://www.zhangxinxu.com/wordpress/2022/06/url-anchor-target-text/)
 - [【V2EX】MacOS-下-Edge-会比-Chrome-更快、更好用吗？](https://www.v2ex.com/t/875899)
 - [【V2EX】Mac-有没有鼠标右键手势体验好的浏览器？](https://www.v2ex.com/t/875872)
-- [【V2EX】多邻国使用-Firefox-和-Chrome-展示的课程竟然不同](https://www.v2ex.com/t/875862)
 - [【开发者头条】C++最佳实践-|-3.-安全性](https://toutiao.io/k/hvmamx8)
 - [......【查看更多】......](./details/tags/browser.md)
 

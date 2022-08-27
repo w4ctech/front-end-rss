@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-08-27 17:40:41。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-08-27 18:17:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,8 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-08-27-《流浪地球-2》预告片里，李雪健老师的配音，是不是可以用-AI-合成他自己的？](https://www.v2ex.com/t/875913) 
+- [2022-08-27-dell-2720-屏幕中间有条线，-JD-快递员-9-号拿了，到现在还没给我换](https://www.v2ex.com/t/875912) 
 - [2022-08-27-Windows-的鼠标图标在有些状态下会很模糊](https://www.v2ex.com/t/875911) 
 - [2022-08-27-腾讯云-.cn-域名已不再提供隐私保护](https://www.v2ex.com/t/875910) 
 - [2022-08-27-听-V2-网友建议，而入手-MBP-14-的我来分享一下使用体验](https://www.v2ex.com/t/875908) 
@@ -1942,7 +1944,6 @@
 - [2022-08-27-关于运营商分配假公网-IP-的问题](https://www.v2ex.com/t/875867) 
 - [2022-08-27-关于联通校园卡，-2019-年办理的，每个月送-40G，-2029.12.31-到期。到期之后就没有流量了吗！](https://www.v2ex.com/t/875866) 
 - [2022-08-27-immer-库处理-Map-的接口是不是有问题？](https://www.v2ex.com/t/875864) 
-- [2022-08-27-gdb-有没有办法像-zsh-的-auto-suggestion-那样按一个键就出来之前的历史记录？每次重新输入指令太麻烦了](https://www.v2ex.com/t/875863) 
 - [2022-08-27-为什么我们需要企业架构？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15345&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fwhy-need-enterprise-architecture%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-08-27-软件泥潭真体验-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15344&url=https%3A%2F%2Finsights.thoughtworks.cn%2Flegacy-system-operation-experience%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-08-27-ICLR-2021-|-美团AutoML论文：鲁棒的神经网络架构搜索-DARTS--tech.meituan.com](https://blogread.cn/news/go.php?idItem=15342&url=https%3A%2F%2Ftech.meituan.com%2F2021%2F03%2F25%2Ficlr-2021-nas-automl-darts.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1962,7 +1963,7 @@
 - [2022-08-27-开箱即用的前端图片压缩方案](https://toutiao.io/k/lz78nlu) 
 - [2022-08-27-妈妈说找男朋友要有数据思维！](https://toutiao.io/k/fnor2jx) 
 - [2022-08-27-【第2714期】从Multirepo到Monorepo-袋鼠云数栈前端研发效率提升探索之路](https://toutiao.io/k/qj4913d) 
-- [2022-08-27-推荐-Java线上CPU内存冲高问题排查步骤](https://toutiao.io/k/t9sj17s) 
-- [2022-08-27-推荐-全网最全的权限系统设计方案（图解）](https://toutiao.io/k/lozkmee) 
 - [2022-08-27-推荐-一文读懂-|-Linux系统启动过程](https://toutiao.io/k/tiobp8c) 
 - [2022-08-27-推荐-聊聊-13-种锁的实现方式](https://toutiao.io/k/wcwg3fn) 
+- [2022-08-27-推荐-全网最全的权限系统设计方案（图解）](https://toutiao.io/k/lozkmee) 
+- [2022-08-27-推荐-Java线上CPU内存冲高问题排查步骤](https://toutiao.io/k/t9sj17s) 

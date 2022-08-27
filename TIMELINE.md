@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-08-27 05:48:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-08-27 06:17:24。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -70,6 +70,12 @@
 
 - [【张鑫旭-鑫空间-鑫生活】2022-08-24-来了，来了，CSS-:has伪类她来了](https://www.zhangxinxu.com/wordpress/2022/08/css-has-pseudo-class/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-08-21-JS-replaceAll-和-matchAll-使用指南不指北](https://www.zhangxinxu.com/wordpress/2022/08/js-replaceall-matchall/) 
+- [【V2EX】2022-08-27-给-pppoe-抓了下包，江苏电信确实上了-vBRAS](https://www.v2ex.com/t/875797) 
+- [【V2EX】2022-08-27-推荐一个-spring-mvc-的请求日志输出框架](https://www.v2ex.com/t/875796) 
+- [【V2EX】2022-08-27-甘肃农村长大的娃娃，看《隐入尘烟》，也许和你们的感受有不一样吧](https://www.v2ex.com/t/875795) 
+- [【V2EX】2022-08-27-深圳电信-1000M-开始固定-IP-了吗？](https://www.v2ex.com/t/875794) 
+- [【V2EX】2022-08-27-看到一个不开源的博客主题，问下有没有类似的](https://www.v2ex.com/t/875793) 
+- [【V2EX】2022-08-27-怎么看-Python-标准库中的实现方式](https://www.v2ex.com/t/875792) 
 - [【V2EX】2022-08-27-请问某些手游为什么更新要重新下载安装包?](https://www.v2ex.com/t/875791) 
 - [【V2EX】2022-08-27-三星手机换小米手机的感受](https://www.v2ex.com/t/875790) 
 - [【V2EX】2022-08-27-mac-微信聊天记录迁移失败](https://www.v2ex.com/t/875789) 
@@ -103,11 +109,6 @@
 - [【V2EX】2022-08-27-iCloud-云上贵州网页版登陆不上去](https://www.v2ex.com/t/875752) 
 - [【V2EX】2022-08-27-睡前如何做笔记？既不想摁亮手机屏刺激眼睛，又不开口录音。免得睡意被清空。只能纸笔摸索着写？](https://www.v2ex.com/t/875751) 
 - [【V2EX】2022-08-27-首页推荐算法已上线](https://www.v2ex.com/t/875750) 
-- [【V2EX】2022-08-27-观察到一个黑色的乌鸦是否影响所有母牛都是白色的概率？](https://www.v2ex.com/t/875748) 
-- [【V2EX】2022-08-27-有无类似资源管理器交互（拖选、右键、移动之类的）的前端组件库（nodejs）](https://www.v2ex.com/t/875746) 
-- [【V2EX】2022-08-27-求-PS-端幽灵行动荒野-断点联机朋友](https://www.v2ex.com/t/875745) 
-- [【V2EX】2022-08-27-MacBook-充电问题，显示不在充电](https://www.v2ex.com/t/875743) 
-- [【V2EX】2022-08-27-联通也正改造为-ipoe-+-ipv6-native-+-4in6-接入](https://www.v2ex.com/t/875742) 
 - [【技术头条】2022-08-27-为什么我们需要企业架构？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15345&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fwhy-need-enterprise-architecture%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-08-27-软件泥潭真体验-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15344&url=https%3A%2F%2Finsights.thoughtworks.cn%2Flegacy-system-operation-experience%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-08-27-VS-Code-是如何优化启动性能的？-fed.taobao.org](https://blogread.cn/news/go.php?idItem=15343&url=https%3A%2F%2Ffed.taobao.org%2Fblog%2Ftaofed%2Fdo71ct%2Fwpsf10%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -136,9 +137,11 @@
 - [【开发者头条】2022-08-27-Spring-Boot-实现通用-Auth-认证的-4-种方式](https://toutiao.io/k/fcb6qrq) 
 - [【开发者头条】2022-08-27-使用-Node.js-操作-Docker，不是使用-Dcoker-容器化-Node.js-服务哦！](https://toutiao.io/k/cs9v40r) 
 - [【开发者头条】2022-08-27-妈妈说找男朋友要有数据思维！](https://toutiao.io/k/fnor2jx) 
-- [【开发者头条】2022-08-27-推荐-一文读懂-|-Linux系统启动过程](https://toutiao.io/k/tiobp8c) 
-- [【开发者头条】2022-08-27-推荐-聊聊-13-种锁的实现方式](https://toutiao.io/k/wcwg3fn) 
+- [【开发者头条】2022-08-27-C++最佳实践-|-3.-安全性](https://toutiao.io/k/hvmamx8) 
+- [【开发者头条】2022-08-27-【第2714期】从Multirepo到Monorepo-袋鼠云数栈前端研发效率提升探索之路](https://toutiao.io/k/qj4913d) 
 - [【开发者头条】2022-08-27-推荐-Java线上CPU内存冲高问题排查步骤](https://toutiao.io/k/t9sj17s) 
+- [【开发者头条】2022-08-27-推荐-聊聊-13-种锁的实现方式](https://toutiao.io/k/wcwg3fn) 
+- [【开发者头条】2022-08-27-推荐-一文读懂-|-Linux系统启动过程](https://toutiao.io/k/tiobp8c) 
 - [【开发者头条】2022-08-27-推荐-全网最全的权限系统设计方案（图解）](https://toutiao.io/k/lozkmee) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>

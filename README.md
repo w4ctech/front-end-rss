@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-27 05:48:20，:rocket: 更新条数: +2016， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-27 06:17:24，:rocket: 更新条数: +2019， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,12 @@
 </summary>
 
 
+- [2022-08-27-给-pppoe-抓了下包，江苏电信确实上了-vBRAS](https://www.v2ex.com/t/875797) ![](assets/new.png)  
+- [2022-08-27-推荐一个-spring-mvc-的请求日志输出框架](https://www.v2ex.com/t/875796) ![](assets/new.png)  
+- [2022-08-27-甘肃农村长大的娃娃，看《隐入尘烟》，也许和你们的感受有不一样吧](https://www.v2ex.com/t/875795) ![](assets/new.png)  
+- [2022-08-27-深圳电信-1000M-开始固定-IP-了吗？](https://www.v2ex.com/t/875794) ![](assets/new.png)  
+- [2022-08-27-看到一个不开源的博客主题，问下有没有类似的](https://www.v2ex.com/t/875793) ![](assets/new.png)  
+- [2022-08-27-怎么看-Python-标准库中的实现方式](https://www.v2ex.com/t/875792) ![](assets/new.png)  
 - [2022-08-27-请问某些手游为什么更新要重新下载安装包?](https://www.v2ex.com/t/875791) ![](assets/new.png)  
 - [2022-08-27-三星手机换小米手机的感受](https://www.v2ex.com/t/875790) ![](assets/new.png)  
 - [2022-08-27-mac-微信聊天记录迁移失败](https://www.v2ex.com/t/875789) ![](assets/new.png)  
@@ -505,12 +511,6 @@
 - [2022-08-27-13mini-打卡相机很卡，拍完照也很卡，这是为什么](https://www.v2ex.com/t/875777) ![](assets/new.png)  
 - [2022-08-27-做一个评价本地外卖好不好吃的，有风险吗？](https://www.v2ex.com/t/875776) ![](assets/new.png)  
 - [2022-08-27-iPhone-8-现在的系统是-13.6，是否推荐升级到最新的-15.6.1](https://www.v2ex.com/t/875774) ![](assets/new.png)  
-- [2022-08-27-我做的-RSS-阅读软件更新啦～](https://www.v2ex.com/t/875772) ![](assets/new.png)  
-- [2022-08-27-求各地网友帮确认，-vercel-已经被-ban-了吗？](https://www.v2ex.com/t/875771) ![](assets/new.png)  
-- [2022-08-27-经常按鼠标滚轮的-V-友，都用的哪款鼠标？](https://www.v2ex.com/t/875768) ![](assets/new.png)  
-- [2022-08-27-16-寸-type-c-转接头问题](https://www.v2ex.com/t/875767) ![](assets/new.png)  
-- [2022-08-27-关于-8-月-20-号之后，王卡（限定版）已下架，各位怎么办理的](https://www.v2ex.com/t/875766) ![](assets/new.png)  
-- [2022-08-27-上班如何摆正心态？](https://www.v2ex.com/t/875764) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -561,9 +561,11 @@
 - [2022-08-27-Spring-Boot-实现通用-Auth-认证的-4-种方式](https://toutiao.io/k/fcb6qrq) ![](assets/new.png)  
 - [2022-08-27-使用-Node.js-操作-Docker，不是使用-Dcoker-容器化-Node.js-服务哦！](https://toutiao.io/k/cs9v40r) ![](assets/new.png)  
 - [2022-08-27-妈妈说找男朋友要有数据思维！](https://toutiao.io/k/fnor2jx) ![](assets/new.png)  
-- [2022-08-27-推荐-一文读懂-|-Linux系统启动过程](https://toutiao.io/k/tiobp8c) ![](assets/new.png)  
-- [2022-08-27-推荐-聊聊-13-种锁的实现方式](https://toutiao.io/k/wcwg3fn) ![](assets/new.png)  
+- [2022-08-27-C++最佳实践-|-3.-安全性](https://toutiao.io/k/hvmamx8) ![](assets/new.png)  
+- [2022-08-27-【第2714期】从Multirepo到Monorepo-袋鼠云数栈前端研发效率提升探索之路](https://toutiao.io/k/qj4913d) ![](assets/new.png)  
 - [2022-08-27-推荐-Java线上CPU内存冲高问题排查步骤](https://toutiao.io/k/t9sj17s) ![](assets/new.png)  
+- [2022-08-27-推荐-聊聊-13-种锁的实现方式](https://toutiao.io/k/wcwg3fn) ![](assets/new.png)  
+- [2022-08-27-推荐-一文读懂-|-Linux系统启动过程](https://toutiao.io/k/tiobp8c) ![](assets/new.png)  
 - [2022-08-27-推荐-全网最全的权限系统设计方案（图解）](https://toutiao.io/k/lozkmee) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

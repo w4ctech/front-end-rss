@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-08-27 10:42:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-08-27 11:12:36。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,7 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-08-27-1Password-的问题](https://www.v2ex.com/t/875855) 
 - [2022-08-27-有没有可能所有的编程语言或者框架都在朝着同一个方向发展](https://www.v2ex.com/t/875851) 
 - [2022-08-27-大众点评酒店页面坏了？](https://www.v2ex.com/t/875850) 
 - [2022-08-27-5-万经费，求大佬们组建家庭办公方案](https://www.v2ex.com/t/875849) 
@@ -1943,8 +1944,6 @@
 - [2022-08-27-有好心人有-A2119-的帮忙测一下-2k144hz-是否支持嘛](https://www.v2ex.com/t/875810) 
 - [2022-08-27-应届生求职，请问我这是被-HR-电话拉黑了吗？](https://www.v2ex.com/t/875807) 
 - [2022-08-27-假装电脑很忙！](https://www.v2ex.com/t/875806) 
-- [2022-08-27-kotlin-compose-在-windows-桌面端的开发是不是还是很不完善？](https://www.v2ex.com/t/875805) 
-- [2022-08-27-入职要求体检，但只要求三项检查，可以直接去医院挂号开检查单吗](https://www.v2ex.com/t/875803) 
 - [2022-08-27-为什么我们需要企业架构？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15345&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fwhy-need-enterprise-architecture%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-08-27-软件泥潭真体验-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15344&url=https%3A%2F%2Finsights.thoughtworks.cn%2Flegacy-system-operation-experience%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-08-27-ICLR-2021-|-美团AutoML论文：鲁棒的神经网络架构搜索-DARTS--tech.meituan.com](https://blogread.cn/news/go.php?idItem=15342&url=https%3A%2F%2Ftech.meituan.com%2F2021%2F03%2F25%2Ficlr-2021-nas-automl-darts.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1964,7 +1963,7 @@
 - [2022-08-27-开箱即用的前端图片压缩方案](https://toutiao.io/k/lz78nlu) 
 - [2022-08-27-妈妈说找男朋友要有数据思维！](https://toutiao.io/k/fnor2jx) 
 - [2022-08-27-【第2714期】从Multirepo到Monorepo-袋鼠云数栈前端研发效率提升探索之路](https://toutiao.io/k/qj4913d) 
-- [2022-08-27-推荐-聊聊-13-种锁的实现方式](https://toutiao.io/k/wcwg3fn) 
 - [2022-08-27-推荐-一文读懂-|-Linux系统启动过程](https://toutiao.io/k/tiobp8c) 
-- [2022-08-27-推荐-全网最全的权限系统设计方案（图解）](https://toutiao.io/k/lozkmee) 
+- [2022-08-27-推荐-聊聊-13-种锁的实现方式](https://toutiao.io/k/wcwg3fn) 
 - [2022-08-27-推荐-Java线上CPU内存冲高问题排查步骤](https://toutiao.io/k/t9sj17s) 
+- [2022-08-27-推荐-全网最全的权限系统设计方案（图解）](https://toutiao.io/k/lozkmee) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-27 08:17:35，:rocket: 更新条数: +2022， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-27 08:45:28，:rocket: 更新条数: +2022， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,10 @@
 </summary>
 
 
+- [2022-08-27-游族内部氛围如何？](https://www.v2ex.com/t/875829) ![](assets/new.png)  
+- [2022-08-27-EasyGo-快捷启动](https://www.v2ex.com/t/875828) ![](assets/new.png)  
+- [2022-08-27-车子后保险杠被刮蹭，索赔多少合适](https://www.v2ex.com/t/875827) ![](assets/new.png)  
+- [2022-08-27-有无成熟点的-Linux-虚拟机全局-fq-方式](https://www.v2ex.com/t/875825) ![](assets/new.png)  
 - [2022-08-27-2019-macbook-pro-16-寸保修问题](https://www.v2ex.com/t/875822) ![](assets/new.png)  
 - [2022-08-27-Pixel-1-XL-要靠充电宝续命了，现在换-Pixel，哪代性价比最高呢？](https://www.v2ex.com/t/875821) ![](assets/new.png)  
 - [2022-08-27-ios-怎么调节单个-app-的提示音大小](https://www.v2ex.com/t/875820) ![](assets/new.png)  
@@ -507,10 +511,6 @@
 - [2022-08-27-最近在练习正则,大家有没有什么在线的类似于用正则实现的通关类打怪练习正则的在线网站吗?](https://www.v2ex.com/t/875808) ![](assets/new.png)  
 - [2022-08-27-应届生求职，请问我这是被-HR-电话拉黑了吗？](https://www.v2ex.com/t/875807) ![](assets/new.png)  
 - [2022-08-27-假装电脑很忙！](https://www.v2ex.com/t/875806) ![](assets/new.png)  
-- [2022-08-27-kotlin-compose-在-windows-桌面端的开发是不是还是很不完善？](https://www.v2ex.com/t/875805) ![](assets/new.png)  
-- [2022-08-27-有没有-30-岁的人说说,-现在的年轻人真的卷的放弃了生育了吗?](https://www.v2ex.com/t/875804) ![](assets/new.png)  
-- [2022-08-27-入职要求体检，但只要求三项检查，可以直接去医院挂号开检查单吗](https://www.v2ex.com/t/875803) ![](assets/new.png)  
-- [2022-08-27-微信读书-求助，同一个账号-iOS-Andriod-是互通-vip-的吗？](https://www.v2ex.com/t/875802) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -556,15 +556,15 @@
 - [2022-08-27-优质网站同好者周刊（第-080-期）-|-倾城博客](https://toutiao.io/k/15ogjat) ![](assets/new.png)  
 - [2022-08-27-如何在-Gin-框架中使用泛型构建完全解耦的请求验证层](https://toutiao.io/k/29lc1e5) ![](assets/new.png)  
 - [2022-08-27-Replication（下）：事务，一致性与共识](https://toutiao.io/k/oqmu6ls) ![](assets/new.png)  
-- [2022-08-27-Maven依赖解析之倍增提速！eBay-Velocity实践的开源新算法](https://toutiao.io/k/16gmrqr) ![](assets/new.png)  
 - [2022-08-27-Spring-Boot-实现通用-Auth-认证的-4-种方式](https://toutiao.io/k/fcb6qrq) ![](assets/new.png)  
-- [2022-08-27-开箱即用的前端图片压缩方案](https://toutiao.io/k/lz78nlu) ![](assets/new.png)  
+- [2022-08-27-Maven依赖解析之倍增提速！eBay-Velocity实践的开源新算法](https://toutiao.io/k/16gmrqr) ![](assets/new.png)  
 - [2022-08-27-使用-Node.js-操作-Docker，不是使用-Dcoker-容器化-Node.js-服务哦！](https://toutiao.io/k/cs9v40r) ![](assets/new.png)  
+- [2022-08-27-开箱即用的前端图片压缩方案](https://toutiao.io/k/lz78nlu) ![](assets/new.png)  
 - [2022-08-27-妈妈说找男朋友要有数据思维！](https://toutiao.io/k/fnor2jx) ![](assets/new.png)  
 - [2022-08-27-C++最佳实践-|-3.-安全性](https://toutiao.io/k/hvmamx8) ![](assets/new.png)  
 - [2022-08-27-【第2714期】从Multirepo到Monorepo-袋鼠云数栈前端研发效率提升探索之路](https://toutiao.io/k/qj4913d) ![](assets/new.png)  
-- [2022-08-27-推荐-聊聊-13-种锁的实现方式](https://toutiao.io/k/wcwg3fn) ![](assets/new.png)  
 - [2022-08-27-推荐-全网最全的权限系统设计方案（图解）](https://toutiao.io/k/lozkmee) ![](assets/new.png)  
+- [2022-08-27-推荐-聊聊-13-种锁的实现方式](https://toutiao.io/k/wcwg3fn) ![](assets/new.png)  
 - [2022-08-27-推荐-一文读懂-|-Linux系统启动过程](https://toutiao.io/k/tiobp8c) ![](assets/new.png)  
 - [2022-08-27-推荐-Java线上CPU内存冲高问题排查步骤](https://toutiao.io/k/t9sj17s) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)

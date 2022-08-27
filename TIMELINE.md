@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-08-27 07:38:34。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-08-27 08:17:35。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -70,6 +70,15 @@
 
 - [【张鑫旭-鑫空间-鑫生活】2022-08-24-来了，来了，CSS-:has伪类她来了](https://www.zhangxinxu.com/wordpress/2022/08/css-has-pseudo-class/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-08-21-JS-replaceAll-和-matchAll-使用指南不指北](https://www.zhangxinxu.com/wordpress/2022/08/js-replaceall-matchall/) 
+- [【V2EX】2022-08-27-2019-macbook-pro-16-寸保修问题](https://www.v2ex.com/t/875822) 
+- [【V2EX】2022-08-27-Pixel-1-XL-要靠充电宝续命了，现在换-Pixel，哪代性价比最高呢？](https://www.v2ex.com/t/875821) 
+- [【V2EX】2022-08-27-ios-怎么调节单个-app-的提示音大小](https://www.v2ex.com/t/875820) 
+- [【V2EX】2022-08-27-一些看上去很厉害的观点，如何结合现实去执行?](https://www.v2ex.com/t/875819) 
+- [【V2EX】2022-08-27-用-ruby-的-eth.rb-出现了一个错误：-insufficient-funds-for-gas](https://www.v2ex.com/t/875818) 
+- [【V2EX】2022-08-27-一枚工程师的深圳印象](https://www.v2ex.com/t/875817) 
+- [【V2EX】2022-08-27-2022-年，自己做了一个-Android-RSS-阅读器](https://www.v2ex.com/t/875816) 
+- [【V2EX】2022-08-27-玄学硬盘错误](https://www.v2ex.com/t/875815) 
+- [【V2EX】2022-08-27-Docker-启动命令太长了，有没有约定好配置的封装工具？](https://www.v2ex.com/t/875814) 
 - [【V2EX】2022-08-27-做了一段时间-TG-频道，征求大家给点建议](https://www.v2ex.com/t/875813) 
 - [【V2EX】2022-08-27-不知道为什么，无线网络每天都会有-3-4-次连不上网](https://www.v2ex.com/t/875811) 
 - [【V2EX】2022-08-27-有好心人有-A2119-的帮忙测一下-2k144hz-是否支持嘛](https://www.v2ex.com/t/875810) 
@@ -103,12 +112,6 @@
 - [【V2EX】2022-08-27-13mini-打卡相机很卡，拍完照也很卡，这是为什么](https://www.v2ex.com/t/875777) 
 - [【V2EX】2022-08-27-做一个评价本地外卖好不好吃的，有风险吗？](https://www.v2ex.com/t/875776) 
 - [【V2EX】2022-08-27-iPhone-8-现在的系统是-13.6，是否推荐升级到最新的-15.6.1](https://www.v2ex.com/t/875774) 
-- [【V2EX】2022-08-27-我做的-RSS-阅读软件更新啦～](https://www.v2ex.com/t/875772) 
-- [【V2EX】2022-08-27-求各地网友帮确认，-vercel-已经被-ban-了吗？](https://www.v2ex.com/t/875771) 
-- [【V2EX】2022-08-27-经常按鼠标滚轮的-V-友，都用的哪款鼠标？](https://www.v2ex.com/t/875768) 
-- [【V2EX】2022-08-27-16-寸-type-c-转接头问题](https://www.v2ex.com/t/875767) 
-- [【V2EX】2022-08-27-关于-8-月-20-号之后，王卡（限定版）已下架，各位怎么办理的](https://www.v2ex.com/t/875766) 
-- [【V2EX】2022-08-27-上班如何摆正心态？](https://www.v2ex.com/t/875764) 
 - [【技术头条】2022-08-27-为什么我们需要企业架构？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15345&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fwhy-need-enterprise-architecture%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-08-27-软件泥潭真体验-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15344&url=https%3A%2F%2Finsights.thoughtworks.cn%2Flegacy-system-operation-experience%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-08-27-VS-Code-是如何优化启动性能的？-fed.taobao.org](https://blogread.cn/news/go.php?idItem=15343&url=https%3A%2F%2Ffed.taobao.org%2Fblog%2Ftaofed%2Fdo71ct%2Fwpsf10%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -141,8 +144,8 @@
 - [【开发者头条】2022-08-27-【第2714期】从Multirepo到Monorepo-袋鼠云数栈前端研发效率提升探索之路](https://toutiao.io/k/qj4913d) 
 - [【开发者头条】2022-08-27-推荐-聊聊-13-种锁的实现方式](https://toutiao.io/k/wcwg3fn) 
 - [【开发者头条】2022-08-27-推荐-全网最全的权限系统设计方案（图解）](https://toutiao.io/k/lozkmee) 
-- [【开发者头条】2022-08-27-推荐-Java线上CPU内存冲高问题排查步骤](https://toutiao.io/k/t9sj17s) 
 - [【开发者头条】2022-08-27-推荐-一文读懂-|-Linux系统启动过程](https://toutiao.io/k/tiobp8c) 
+- [【开发者头条】2022-08-27-推荐-Java线上CPU内存冲高问题排查步骤](https://toutiao.io/k/t9sj17s) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

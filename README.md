@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-27 07:38:34，:rocket: 更新条数: +2019， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-27 08:17:35，:rocket: 更新条数: +2022， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,15 @@
 </summary>
 
 
+- [2022-08-27-2019-macbook-pro-16-寸保修问题](https://www.v2ex.com/t/875822) ![](assets/new.png)  
+- [2022-08-27-Pixel-1-XL-要靠充电宝续命了，现在换-Pixel，哪代性价比最高呢？](https://www.v2ex.com/t/875821) ![](assets/new.png)  
+- [2022-08-27-ios-怎么调节单个-app-的提示音大小](https://www.v2ex.com/t/875820) ![](assets/new.png)  
+- [2022-08-27-一些看上去很厉害的观点，如何结合现实去执行?](https://www.v2ex.com/t/875819) ![](assets/new.png)  
+- [2022-08-27-用-ruby-的-eth.rb-出现了一个错误：-insufficient-funds-for-gas](https://www.v2ex.com/t/875818) ![](assets/new.png)  
+- [2022-08-27-一枚工程师的深圳印象](https://www.v2ex.com/t/875817) ![](assets/new.png)  
+- [2022-08-27-2022-年，自己做了一个-Android-RSS-阅读器](https://www.v2ex.com/t/875816) ![](assets/new.png)  
+- [2022-08-27-玄学硬盘错误](https://www.v2ex.com/t/875815) ![](assets/new.png)  
+- [2022-08-27-Docker-启动命令太长了，有没有约定好配置的封装工具？](https://www.v2ex.com/t/875814) ![](assets/new.png)  
 - [2022-08-27-做了一段时间-TG-频道，征求大家给点建议](https://www.v2ex.com/t/875813) ![](assets/new.png)  
 - [2022-08-27-不知道为什么，无线网络每天都会有-3-4-次连不上网](https://www.v2ex.com/t/875811) ![](assets/new.png)  
 - [2022-08-27-有好心人有-A2119-的帮忙测一下-2k144hz-是否支持嘛](https://www.v2ex.com/t/875810) ![](assets/new.png)  
@@ -502,15 +511,6 @@
 - [2022-08-27-有没有-30-岁的人说说,-现在的年轻人真的卷的放弃了生育了吗?](https://www.v2ex.com/t/875804) ![](assets/new.png)  
 - [2022-08-27-入职要求体检，但只要求三项检查，可以直接去医院挂号开检查单吗](https://www.v2ex.com/t/875803) ![](assets/new.png)  
 - [2022-08-27-微信读书-求助，同一个账号-iOS-Andriod-是互通-vip-的吗？](https://www.v2ex.com/t/875802) ![](assets/new.png)  
-- [2022-08-27-Python-在-MacOs-诡异运行](https://www.v2ex.com/t/875801) ![](assets/new.png)  
-- [2022-08-27-Win-10-开机自动开启浏览器弹出访问网站](https://www.v2ex.com/t/875800) ![](assets/new.png)  
-- [2022-08-27-给-pppoe-抓了下包，江苏电信确实上了-vBRAS](https://www.v2ex.com/t/875797) ![](assets/new.png)  
-- [2022-08-27-推荐一个-spring-mvc-的请求日志输出框架](https://www.v2ex.com/t/875796) ![](assets/new.png)  
-- [2022-08-27-甘肃农村长大的娃娃，看《隐入尘烟》，也许和你们的感受有不一样吧](https://www.v2ex.com/t/875795) ![](assets/new.png)  
-- [2022-08-27-深圳电信-1000M-开始固定-IP-了吗？](https://www.v2ex.com/t/875794) ![](assets/new.png)  
-- [2022-08-27-看到一个不开源的博客主题，问下有没有类似的](https://www.v2ex.com/t/875793) ![](assets/new.png)  
-- [2022-08-27-怎么看-Python-标准库中的实现方式](https://www.v2ex.com/t/875792) ![](assets/new.png)  
-- [2022-08-27-请问某些手游为什么更新要重新下载安装包?](https://www.v2ex.com/t/875791) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -565,8 +565,8 @@
 - [2022-08-27-【第2714期】从Multirepo到Monorepo-袋鼠云数栈前端研发效率提升探索之路](https://toutiao.io/k/qj4913d) ![](assets/new.png)  
 - [2022-08-27-推荐-聊聊-13-种锁的实现方式](https://toutiao.io/k/wcwg3fn) ![](assets/new.png)  
 - [2022-08-27-推荐-全网最全的权限系统设计方案（图解）](https://toutiao.io/k/lozkmee) ![](assets/new.png)  
-- [2022-08-27-推荐-Java线上CPU内存冲高问题排查步骤](https://toutiao.io/k/t9sj17s) ![](assets/new.png)  
 - [2022-08-27-推荐-一文读懂-|-Linux系统启动过程](https://toutiao.io/k/tiobp8c) ![](assets/new.png)  
+- [2022-08-27-推荐-Java线上CPU内存冲高问题排查步骤](https://toutiao.io/k/t9sj17s) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

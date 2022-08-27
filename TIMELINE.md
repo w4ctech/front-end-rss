@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-08-27 21:39:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-08-27 22:13:41。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -70,6 +70,7 @@
 
 - [【张鑫旭-鑫空间-鑫生活】2022-08-24-来了，来了，CSS-:has伪类她来了](https://www.zhangxinxu.com/wordpress/2022/08/css-has-pseudo-class/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-08-21-JS-replaceAll-和-matchAll-使用指南不指北](https://www.zhangxinxu.com/wordpress/2022/08/js-replaceall-matchall/) 
+- [【V2EX】2022-08-27-专职搞在线-TS-全栈开发培训还是继续全职远程工作，一个不安分的人该如何抉择？](https://www.v2ex.com/t/875918) 
 - [【V2EX】2022-08-27-filelocator-大型检索，要么卡死，要么导出结果时经常内存不足-cpp-错误，还会逼其他程序自尽。](https://www.v2ex.com/t/875917) 
 - [【V2EX】2022-08-27-友盟应用统计收费了，你们现在用什么？](https://www.v2ex.com/t/875916) 
 - [【V2EX】2022-08-27-Vue-有没有这样的-ui-框架？](https://www.v2ex.com/t/875915) 
@@ -141,9 +142,9 @@
 - [【开发者头条】2022-08-27-妈妈说找男朋友要有数据思维！](https://toutiao.io/k/fnor2jx) 
 - [【开发者头条】2022-08-27-【第2714期】从Multirepo到Monorepo-袋鼠云数栈前端研发效率提升探索之路](https://toutiao.io/k/qj4913d) 
 - [【开发者头条】2022-08-27-推荐-一文读懂-|-Linux系统启动过程](https://toutiao.io/k/tiobp8c) 
+- [【开发者头条】2022-08-27-推荐-Java线上CPU内存冲高问题排查步骤](https://toutiao.io/k/t9sj17s) 
 - [【开发者头条】2022-08-27-推荐-聊聊-13-种锁的实现方式](https://toutiao.io/k/wcwg3fn) 
 - [【开发者头条】2022-08-27-推荐-全网最全的权限系统设计方案（图解）](https://toutiao.io/k/lozkmee) 
-- [【开发者头条】2022-08-27-推荐-Java线上CPU内存冲高问题排查步骤](https://toutiao.io/k/t9sj17s) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

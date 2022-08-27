@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-08-27 21:39:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-08-27 22:13:41。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -306,6 +306,7 @@
 
 
 
+- [【V2EX】专职搞在线-TS-全栈开发培训还是继续全职远程工作，一个不安分的人该如何抉择？](https://www.v2ex.com/t/875918)
 - [【开发者头条】Maven依赖解析之倍增提速！eBay-Velocity实践的开源新算法](https://toutiao.io/k/16gmrqr)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-27 21:39:21，:rocket: 更新条数: +2020， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-27 22:13:41，:rocket: 更新条数: +2021， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-08-27-专职搞在线-TS-全栈开发培训还是继续全职远程工作，一个不安分的人该如何抉择？](https://www.v2ex.com/t/875918) ![](assets/new.png)  
 - [2022-08-27-filelocator-大型检索，要么卡死，要么导出结果时经常内存不足-cpp-错误，还会逼其他程序自尽。](https://www.v2ex.com/t/875917) ![](assets/new.png)  
 - [2022-08-27-友盟应用统计收费了，你们现在用什么？](https://www.v2ex.com/t/875916) ![](assets/new.png)  
 - [2022-08-27-Vue-有没有这样的-ui-框架？](https://www.v2ex.com/t/875915) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-08-27-ios-密码突然无法通过验证，没有开通-apple-pay](https://www.v2ex.com/t/875895) ![](assets/new.png)  
 - [2022-08-27-甲骨文信用卡环节验证一直不过，遂想收台甲骨文，最好注册的时间久一点。](https://www.v2ex.com/t/875894) ![](assets/new.png)  
 - [2022-08-27-出-Surge-5-For-iOS-3-设备版单车位](https://www.v2ex.com/t/875893) ![](assets/new.png)  
-- [2022-08-27-收电信游戏宽带加价-1K（仅广州）](https://www.v2ex.com/t/875892) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -564,9 +564,9 @@
 - [2022-08-27-妈妈说找男朋友要有数据思维！](https://toutiao.io/k/fnor2jx) ![](assets/new.png)  
 - [2022-08-27-【第2714期】从Multirepo到Monorepo-袋鼠云数栈前端研发效率提升探索之路](https://toutiao.io/k/qj4913d) ![](assets/new.png)  
 - [2022-08-27-推荐-一文读懂-|-Linux系统启动过程](https://toutiao.io/k/tiobp8c) ![](assets/new.png)  
+- [2022-08-27-推荐-Java线上CPU内存冲高问题排查步骤](https://toutiao.io/k/t9sj17s) ![](assets/new.png)  
 - [2022-08-27-推荐-聊聊-13-种锁的实现方式](https://toutiao.io/k/wcwg3fn) ![](assets/new.png)  
 - [2022-08-27-推荐-全网最全的权限系统设计方案（图解）](https://toutiao.io/k/lozkmee) ![](assets/new.png)  
-- [2022-08-27-推荐-Java线上CPU内存冲高问题排查步骤](https://toutiao.io/k/t9sj17s) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -9953,6 +9953,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "专职搞在线 TS 全栈开发培训还是继续全职远程工作，一个不安分的人该如何抉择？",
+        "link": "https://www.v2ex.com/t/875918",
+        "date": "2022-08-27"
+      },
+      {
         "title": "filelocator 大型检索，要么卡死，要么导出结果时经常内存不足 cpp 错误，还会逼其他程序自尽。",
         "link": "https://www.v2ex.com/t/875917",
         "date": "2022-08-27"
@@ -10322,6 +10327,11 @@
         "date": "2022-08-27"
       },
       {
+        "title": "[推荐] Java线上CPU内存冲高问题排查步骤",
+        "link": "https://toutiao.io/k/t9sj17s",
+        "date": "2022-08-27"
+      },
+      {
         "title": "[推荐] 聊聊 13 种锁的实现方式",
         "link": "https://toutiao.io/k/wcwg3fn",
         "date": "2022-08-27"
@@ -10329,11 +10339,6 @@
       {
         "title": "[推荐] 全网最全的权限系统设计方案（图解）",
         "link": "https://toutiao.io/k/lozkmee",
-        "date": "2022-08-27"
-      },
-      {
-        "title": "[推荐] Java线上CPU内存冲高问题排查步骤",
-        "link": "https://toutiao.io/k/t9sj17s",
         "date": "2022-08-27"
       }
     ]

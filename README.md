@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-27 13:47:28，:rocket: 更新条数: +2019， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-27 14:13:36，:rocket: 更新条数: +2021， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,16 @@
 </summary>
 
 
+- [2022-08-27-为什么-arm64-下载下来是-exe-文件啊](https://www.v2ex.com/t/875884) ![](assets/new.png)  
+- [2022-08-27-下载安装-smartmontools.dmg-文件之后还是无法运行](https://www.v2ex.com/t/875883) ![](assets/new.png)  
+- [2022-08-27-京东国际上的-iPhone-SE3-64G-日版-2499-元，给长辈用可以不？](https://www.v2ex.com/t/875882) ![](assets/new.png)  
+- [2022-08-27-安卓可以清除-nfc-数据吗？](https://www.v2ex.com/t/875881) ![](assets/new.png)  
+- [2022-08-27-为什么外卖点的炖鸡肉，汤汁永远都是那么稀稀拉拉？](https://www.v2ex.com/t/875880) ![](assets/new.png)  
+- [2022-08-27-都-2022-年了，-coloros-后台还是只能允许-5-个-app-自启动](https://www.v2ex.com/t/875879) ![](assets/new.png)  
+- [2022-08-27-谈谈-eSIM.me-一个物理-SIM-卡，可以为你的手机添加-eSIM-支持](https://www.v2ex.com/t/875878) ![](assets/new.png)  
+- [2022-08-27-想问问做游戏的同学，游戏真会根据玩家心里设计动态难度么？](https://www.v2ex.com/t/875877) ![](assets/new.png)  
+- [2022-08-27-esxi-直通网卡后，可用的内存非常小](https://www.v2ex.com/t/875876) ![](assets/new.png)  
+- [2022-08-27-一个收藏链接的小频道](https://www.v2ex.com/t/875875) ![](assets/new.png)  
 - [2022-08-27-utools-中的-json-格式化插件有没有其他替代品？](https://www.v2ex.com/t/875873) ![](assets/new.png)  
 - [2022-08-27-Mac-有没有鼠标右键手势体验好的浏览器？](https://www.v2ex.com/t/875872) ![](assets/new.png)  
 - [2022-08-27-70-小时三周目，只狼白金](https://www.v2ex.com/t/875871) ![](assets/new.png)  
@@ -501,16 +511,6 @@
 - [2022-08-27-immer-库处理-Map-的接口是不是有问题？](https://www.v2ex.com/t/875864) ![](assets/new.png)  
 - [2022-08-27-gdb-有没有办法像-zsh-的-auto-suggestion-那样按一个键就出来之前的历史记录？每次重新输入指令太麻烦了](https://www.v2ex.com/t/875863) ![](assets/new.png)  
 - [2022-08-27-多邻国使用-Firefox-和-Chrome-展示的课程竟然不同](https://www.v2ex.com/t/875862) ![](assets/new.png)  
-- [2022-08-27-k1r1+k2r2>c-的所有-k1,k2-的搭配如何找到？](https://www.v2ex.com/t/875861) ![](assets/new.png)  
-- [2022-08-27-现在找工作（中大型公司），是不是都会要求算法题？](https://www.v2ex.com/t/875860) ![](assets/new.png)  
-- [2022-08-27-DSM7.0-使用-Let's-encrypt-脚本-syno-acme-nginx-重启问题](https://www.v2ex.com/t/875859) ![](assets/new.png)  
-- [2022-08-27-请问关于-Linux-的问题](https://www.v2ex.com/t/875858) ![](assets/new.png)  
-- [2022-08-27-好奇双宽带用-tplink-的飞流有啥效果么](https://www.v2ex.com/t/875857) ![](assets/new.png)  
-- [2022-08-27-1Password-的问题](https://www.v2ex.com/t/875855) ![](assets/new.png)  
-- [2022-08-27-craco-typescript-模板](https://www.v2ex.com/t/875854) ![](assets/new.png)  
-- [2022-08-27-全球最受欢迎的密码管理软件-LastPass-遭黑客入侵](https://www.v2ex.com/t/875853) ![](assets/new.png)  
-- [2022-08-27-有没有可能所有的编程语言或者框架都在朝着同一个方向发展](https://www.v2ex.com/t/875851) ![](assets/new.png)  
-- [2022-08-27-大众点评酒店页面坏了？](https://www.v2ex.com/t/875850) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -564,8 +564,8 @@
 - [2022-08-27-妈妈说找男朋友要有数据思维！](https://toutiao.io/k/fnor2jx) ![](assets/new.png)  
 - [2022-08-27-【第2714期】从Multirepo到Monorepo-袋鼠云数栈前端研发效率提升探索之路](https://toutiao.io/k/qj4913d) ![](assets/new.png)  
 - [2022-08-27-推荐-Java线上CPU内存冲高问题排查步骤](https://toutiao.io/k/t9sj17s) ![](assets/new.png)  
-- [2022-08-27-推荐-一文读懂-|-Linux系统启动过程](https://toutiao.io/k/tiobp8c) ![](assets/new.png)  
 - [2022-08-27-推荐-聊聊-13-种锁的实现方式](https://toutiao.io/k/wcwg3fn) ![](assets/new.png)  
+- [2022-08-27-推荐-一文读懂-|-Linux系统启动过程](https://toutiao.io/k/tiobp8c) ![](assets/new.png)  
 - [2022-08-27-推荐-全网最全的权限系统设计方案（图解）](https://toutiao.io/k/lozkmee) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

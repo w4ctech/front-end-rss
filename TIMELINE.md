@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-08-27 14:13:37。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-08-27 14:39:30。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -70,6 +70,9 @@
 
 - [【张鑫旭-鑫空间-鑫生活】2022-08-24-来了，来了，CSS-:has伪类她来了](https://www.zhangxinxu.com/wordpress/2022/08/css-has-pseudo-class/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-08-21-JS-replaceAll-和-matchAll-使用指南不指北](https://www.zhangxinxu.com/wordpress/2022/08/js-replaceall-matchall/) 
+- [【V2EX】2022-08-27-求职-广州或者深圳](https://www.v2ex.com/t/875888) 
+- [【V2EX】2022-08-27-为什么在自己常用的电脑设备上登录淘宝每次都要验证？](https://www.v2ex.com/t/875886) 
+- [【V2EX】2022-08-27-当下互联网行业歧视培训班出身的程序员吗，还有各位大佬是怎么学技术的。本人大二-cs-专业大二学生。请各位行业技术大佬赐教。](https://www.v2ex.com/t/875885) 
 - [【V2EX】2022-08-27-为什么-arm64-下载下来是-exe-文件啊](https://www.v2ex.com/t/875884) 
 - [【V2EX】2022-08-27-下载安装-smartmontools.dmg-文件之后还是无法运行](https://www.v2ex.com/t/875883) 
 - [【V2EX】2022-08-27-京东国际上的-iPhone-SE3-64G-日版-2499-元，给长辈用可以不？](https://www.v2ex.com/t/875882) 
@@ -107,10 +110,6 @@
 - [【V2EX】2022-08-27-影视网站招聘网站前端，远程工作-25w-底薪起步，干活麻利的来：](https://www.v2ex.com/t/875843) 
 - [【V2EX】2022-08-27-至少几个-G-的内存跑得动-BGP-Full-Table-啊](https://www.v2ex.com/t/875842) 
 - [【V2EX】2022-08-27-搬家了，整理出买了没怎么看的书，免费送出，自己付快递费](https://www.v2ex.com/t/875839) 
-- [【V2EX】2022-08-27-Java-NIO-的调用-SelectionKey.OP_WRITE-不触发-isWritable的疑惑？？](https://www.v2ex.com/t/875838) 
-- [【V2EX】2022-08-27-新人求指导-:-想要用-sketch-做一个-mobile-app-的原型稿](https://www.v2ex.com/t/875837) 
-- [【V2EX】2022-08-27-如果说工作日打开-V2EX-是为了摸鱼，那么休息日呢？](https://www.v2ex.com/t/875836) 
-- [【V2EX】2022-08-27-想写博客，可是文笔不好……](https://www.v2ex.com/t/875835) 
 - [【技术头条】2022-08-27-为什么我们需要企业架构？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15345&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fwhy-need-enterprise-architecture%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-08-27-软件泥潭真体验-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15344&url=https%3A%2F%2Finsights.thoughtworks.cn%2Flegacy-system-operation-experience%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-08-27-VS-Code-是如何优化启动性能的？-fed.taobao.org](https://blogread.cn/news/go.php?idItem=15343&url=https%3A%2F%2Ffed.taobao.org%2Fblog%2Ftaofed%2Fdo71ct%2Fwpsf10%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -141,10 +140,10 @@
 - [【开发者头条】2022-08-27-开箱即用的前端图片压缩方案](https://toutiao.io/k/lz78nlu) 
 - [【开发者头条】2022-08-27-妈妈说找男朋友要有数据思维！](https://toutiao.io/k/fnor2jx) 
 - [【开发者头条】2022-08-27-【第2714期】从Multirepo到Monorepo-袋鼠云数栈前端研发效率提升探索之路](https://toutiao.io/k/qj4913d) 
+- [【开发者头条】2022-08-27-推荐-全网最全的权限系统设计方案（图解）](https://toutiao.io/k/lozkmee) 
+- [【开发者头条】2022-08-27-推荐-一文读懂-|-Linux系统启动过程](https://toutiao.io/k/tiobp8c) 
 - [【开发者头条】2022-08-27-推荐-Java线上CPU内存冲高问题排查步骤](https://toutiao.io/k/t9sj17s) 
 - [【开发者头条】2022-08-27-推荐-聊聊-13-种锁的实现方式](https://toutiao.io/k/wcwg3fn) 
-- [【开发者头条】2022-08-27-推荐-一文读懂-|-Linux系统启动过程](https://toutiao.io/k/tiobp8c) 
-- [【开发者头条】2022-08-27-推荐-全网最全的权限系统设计方案（图解）](https://toutiao.io/k/lozkmee) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

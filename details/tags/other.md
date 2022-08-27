@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-08-27 12:27:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-08-27 13:06:33。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,10 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-08-27-大家好，我又双叒叕来推广我的项目了～](https://www.v2ex.com/t/875869) 
+- [2022-08-27-港区奶飞招车友](https://www.v2ex.com/t/875868) 
+- [2022-08-27-关于运营商分配假公网-IP-的问题](https://www.v2ex.com/t/875867) 
+- [2022-08-27-关于联通校园卡，-2019-年办理的，每个月送-40G，-2029.12.31-到期。到期之后就没有流量了吗！](https://www.v2ex.com/t/875866) 
 - [2022-08-27-immer-库处理-Map-的接口是不是有问题？](https://www.v2ex.com/t/875864) 
 - [2022-08-27-gdb-有没有办法像-zsh-的-auto-suggestion-那样按一个键就出来之前的历史记录？每次重新输入指令太麻烦了](https://www.v2ex.com/t/875863) 
 - [2022-08-27-k1r1+k2r2>c-的所有-k1,k2-的搭配如何找到？](https://www.v2ex.com/t/875861) 
@@ -1940,9 +1944,6 @@
 - [2022-08-27-2019-macbook-pro-16-寸保修问题](https://www.v2ex.com/t/875822) 
 - [2022-08-27-Pixel-1-XL-要靠充电宝续命了，现在换-Pixel，哪代性价比最高呢？](https://www.v2ex.com/t/875821) 
 - [2022-08-27-ios-怎么调节单个-app-的提示音大小](https://www.v2ex.com/t/875820) 
-- [2022-08-27-一些看上去很厉害的观点，如何结合现实去执行?](https://www.v2ex.com/t/875819) 
-- [2022-08-27-一枚工程师的深圳印象](https://www.v2ex.com/t/875817) 
-- [2022-08-27-2022-年，自己做了一个-Android-RSS-阅读器](https://www.v2ex.com/t/875816) 
 - [2022-08-27-为什么我们需要企业架构？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15345&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fwhy-need-enterprise-architecture%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-08-27-软件泥潭真体验-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15344&url=https%3A%2F%2Finsights.thoughtworks.cn%2Flegacy-system-operation-experience%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-08-27-ICLR-2021-|-美团AutoML论文：鲁棒的神经网络架构搜索-DARTS--tech.meituan.com](https://blogread.cn/news/go.php?idItem=15342&url=https%3A%2F%2Ftech.meituan.com%2F2021%2F03%2F25%2Ficlr-2021-nas-automl-darts.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

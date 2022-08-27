@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-08-27 06:17:24。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-08-27 06:47:08。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -70,6 +70,10 @@
 
 - [【张鑫旭-鑫空间-鑫生活】2022-08-24-来了，来了，CSS-:has伪类她来了](https://www.zhangxinxu.com/wordpress/2022/08/css-has-pseudo-class/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-08-21-JS-replaceAll-和-matchAll-使用指南不指北](https://www.zhangxinxu.com/wordpress/2022/08/js-replaceall-matchall/) 
+- [【V2EX】2022-08-27-微信读书-求助，同一个账号-iOS-Andriod-是互通-vip-的吗？](https://www.v2ex.com/t/875802) 
+- [【V2EX】2022-08-27-Python-在-MacOs-诡异运行](https://www.v2ex.com/t/875801) 
+- [【V2EX】2022-08-27-Win-10-开机自动开启浏览器弹出访问网站](https://www.v2ex.com/t/875800) 
+- [【V2EX】2022-08-27-菲律宾-spotify-家庭车上车](https://www.v2ex.com/t/875799) 
 - [【V2EX】2022-08-27-给-pppoe-抓了下包，江苏电信确实上了-vBRAS](https://www.v2ex.com/t/875797) 
 - [【V2EX】2022-08-27-推荐一个-spring-mvc-的请求日志输出框架](https://www.v2ex.com/t/875796) 
 - [【V2EX】2022-08-27-甘肃农村长大的娃娃，看《隐入尘烟》，也许和你们的感受有不一样吧](https://www.v2ex.com/t/875795) 
@@ -106,9 +110,6 @@
 - [【V2EX】2022-08-27-请教一下：理解网络-IO-有什么用？](https://www.v2ex.com/t/875756) 
 - [【V2EX】2022-08-27-有没有在西安的同学，从北京离职准备去西安工作，房子好找吗？](https://www.v2ex.com/t/875755) 
 - [【V2EX】2022-08-27-win10-DRIVER-旧的内核调用程序-阻止休眠](https://www.v2ex.com/t/875754) 
-- [【V2EX】2022-08-27-iCloud-云上贵州网页版登陆不上去](https://www.v2ex.com/t/875752) 
-- [【V2EX】2022-08-27-睡前如何做笔记？既不想摁亮手机屏刺激眼睛，又不开口录音。免得睡意被清空。只能纸笔摸索着写？](https://www.v2ex.com/t/875751) 
-- [【V2EX】2022-08-27-首页推荐算法已上线](https://www.v2ex.com/t/875750) 
 - [【技术头条】2022-08-27-为什么我们需要企业架构？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15345&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fwhy-need-enterprise-architecture%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-08-27-软件泥潭真体验-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15344&url=https%3A%2F%2Finsights.thoughtworks.cn%2Flegacy-system-operation-experience%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-08-27-VS-Code-是如何优化启动性能的？-fed.taobao.org](https://blogread.cn/news/go.php?idItem=15343&url=https%3A%2F%2Ffed.taobao.org%2Fblog%2Ftaofed%2Fdo71ct%2Fwpsf10%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

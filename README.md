@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-27 06:17:24，:rocket: 更新条数: +2019， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-27 06:47:08，:rocket: 更新条数: +2020， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,10 @@
 </summary>
 
 
+- [2022-08-27-微信读书-求助，同一个账号-iOS-Andriod-是互通-vip-的吗？](https://www.v2ex.com/t/875802) ![](assets/new.png)  
+- [2022-08-27-Python-在-MacOs-诡异运行](https://www.v2ex.com/t/875801) ![](assets/new.png)  
+- [2022-08-27-Win-10-开机自动开启浏览器弹出访问网站](https://www.v2ex.com/t/875800) ![](assets/new.png)  
+- [2022-08-27-菲律宾-spotify-家庭车上车](https://www.v2ex.com/t/875799) ![](assets/new.png)  
 - [2022-08-27-给-pppoe-抓了下包，江苏电信确实上了-vBRAS](https://www.v2ex.com/t/875797) ![](assets/new.png)  
 - [2022-08-27-推荐一个-spring-mvc-的请求日志输出框架](https://www.v2ex.com/t/875796) ![](assets/new.png)  
 - [2022-08-27-甘肃农村长大的娃娃，看《隐入尘烟》，也许和你们的感受有不一样吧](https://www.v2ex.com/t/875795) ![](assets/new.png)  
@@ -507,10 +511,6 @@
 - [2022-08-27-再次没了公网-IP，报障后电信工作人员回复说-9-月-1-号后广电要求-IPTV-需要连到光猫的-IPTV-口才可以申请公网-IP](https://www.v2ex.com/t/875782) ![](assets/new.png)  
 - [2022-08-27-广电卡不能收发短信](https://www.v2ex.com/t/875781) ![](assets/new.png)  
 - [2022-08-27-就网购而言，大家能接受哪些情况下的退货呢？](https://www.v2ex.com/t/875780) ![](assets/new.png)  
-- [2022-08-27-哦豁,喜提中度脂肪肝](https://www.v2ex.com/t/875778) ![](assets/new.png)  
-- [2022-08-27-13mini-打卡相机很卡，拍完照也很卡，这是为什么](https://www.v2ex.com/t/875777) ![](assets/new.png)  
-- [2022-08-27-做一个评价本地外卖好不好吃的，有风险吗？](https://www.v2ex.com/t/875776) ![](assets/new.png)  
-- [2022-08-27-iPhone-8-现在的系统是-13.6，是否推荐升级到最新的-15.6.1](https://www.v2ex.com/t/875774) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

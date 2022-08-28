@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-08-28 05:48:08。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-08-28 06:16:56。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -70,6 +70,14 @@
 
 - [【张鑫旭-鑫空间-鑫生活】2022-08-24-来了，来了，CSS-:has伪类她来了](https://www.zhangxinxu.com/wordpress/2022/08/css-has-pseudo-class/) 
 - [【张鑫旭-鑫空间-鑫生活】2022-08-21-JS-replaceAll-和-matchAll-使用指南不指北](https://www.zhangxinxu.com/wordpress/2022/08/js-replaceall-matchall/) 
+- [【V2EX】2022-08-28-bandwagon-10G-vps-套餐转让](https://www.v2ex.com/t/875965) 
+- [【V2EX】2022-08-28-发现-LastPass-是个坑](https://www.v2ex.com/t/875964) 
+- [【V2EX】2022-08-28-彩云天气-Pro-吃相难看-再次出现](https://www.v2ex.com/t/875963) 
+- [【V2EX】2022-08-28-Java-+-Selenium-+-chromedriver-获取不到-Google-Suggest-吗？](https://www.v2ex.com/t/875962) 
+- [【V2EX】2022-08-28-问个-Ultrafine-5K-的问题](https://www.v2ex.com/t/875961) 
+- [【V2EX】2022-08-28-请教：拷贝近-2-个-T-的音频文件（大概-40-万），从一个-SATA-硬盘拷贝到另一个-SAS-硬盘，最稳妥的方式是什么？](https://www.v2ex.com/t/875960) 
+- [【V2EX】2022-08-28-为啥-M2Air-的菜单栏不能和刘海平行啊？](https://www.v2ex.com/t/875959) 
+- [【V2EX】2022-08-28-开个奈飞-Netflix-土区的车-找车友](https://www.v2ex.com/t/875958) 
 - [【V2EX】2022-08-28-阿里的产品经理,脑子被砸了吗?](https://www.v2ex.com/t/875957) 
 - [【V2EX】2022-08-28-换成-iPhone12-后，我再也找不到流畅打字的感觉了。](https://www.v2ex.com/t/875954) 
 - [【V2EX】2022-08-28-产品经理：年薪-40w-起，远程工作：](https://www.v2ex.com/t/875953) 
@@ -102,13 +110,6 @@
 - [【V2EX】2022-08-27-专职搞在线-TS-全栈开发培训还是继续全职远程工作，一个不安分的人该如何抉择？](https://www.v2ex.com/t/875918) 
 - [【V2EX】2022-08-27-filelocator-大型检索，要么卡死，要么导出结果时经常内存不足-cpp-错误，还会逼其他程序自尽。](https://www.v2ex.com/t/875917) 
 - [【V2EX】2022-08-27-友盟应用统计收费了，你们现在用什么？](https://www.v2ex.com/t/875916) 
-- [【V2EX】2022-08-27-Vue-有没有这样的-ui-框架？](https://www.v2ex.com/t/875915) 
-- [【V2EX】2022-08-27-4000-元以内有能同时满足以下-3-个条件的手机吗？](https://www.v2ex.com/t/875914) 
-- [【V2EX】2022-08-27-《流浪地球-2》预告片里，李雪健老师的配音，是不是可以用-AI-合成他自己的？](https://www.v2ex.com/t/875913) 
-- [【V2EX】2022-08-27-dell-2720-屏幕中间有条线，-JD-快递员-9-号拿了，到现在还没给我换](https://www.v2ex.com/t/875912) 
-- [【V2EX】2022-08-27-Windows-的鼠标图标在有些状态下会很模糊](https://www.v2ex.com/t/875911) 
-- [【V2EX】2022-08-27-算法工程的引擎调用优化做些啥](https://www.v2ex.com/t/875909) 
-- [【V2EX】2022-08-27-听-V2-网友建议，而入手-MBP-14-的我来分享一下使用体验](https://www.v2ex.com/t/875908) 
 - [【技术头条】2022-08-28-为什么我们需要企业架构？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15345&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fwhy-need-enterprise-architecture%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-08-28-软件泥潭真体验-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15344&url=https%3A%2F%2Finsights.thoughtworks.cn%2Flegacy-system-operation-experience%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-08-28-VS-Code-是如何优化启动性能的？-fed.taobao.org](https://blogread.cn/news/go.php?idItem=15343&url=https%3A%2F%2Ffed.taobao.org%2Fblog%2Ftaofed%2Fdo71ct%2Fwpsf10%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -137,8 +138,10 @@
 - [【开发者头条】2022-08-28-如何写出有效的单元测试](https://toutiao.io/k/wqazbfk) 
 - [【开发者头条】2022-08-28-分布式接口幂等性、分布式限流：Guava-、Nginx和lua限流](https://toutiao.io/k/xqrfbe8) 
 - [【开发者头条】2022-08-28-一文看懂大数据生态圈完整知识体系（文末赠书）](https://toutiao.io/k/j95wj12) 
-- [【开发者头条】2022-08-28-推荐-一文读懂-|-Linux系统启动过程](https://toutiao.io/k/tiobp8c) 
+- [【开发者头条】2022-08-28-【Prometheus+Grafana-系列】监控-MySQL-服务](https://toutiao.io/k/yqa2gi3) 
+- [【开发者头条】2022-08-28-调试工具的通用原理：调试四要素](https://toutiao.io/k/eslbcqv) 
 - [【开发者头条】2022-08-28-推荐-全网最全的权限系统设计方案（图解）](https://toutiao.io/k/lozkmee) 
+- [【开发者头条】2022-08-28-推荐-一文读懂-|-Linux系统启动过程](https://toutiao.io/k/tiobp8c) 
 - [【开发者头条】2022-08-28-推荐-Java线上CPU内存冲高问题排查步骤](https://toutiao.io/k/t9sj17s) 
 - [【开发者头条】2022-08-28-推荐-聊聊-13-种锁的实现方式](https://toutiao.io/k/wcwg3fn) 
 

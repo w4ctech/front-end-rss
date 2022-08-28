@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2022-08-28 19:12:49。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-08-28 19:36:54。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-08-28-Ubuntu-有办法在-root-被挂载前进入-Shell-吗？](https://www.v2ex.com/t/876061) 
 - [2022-08-28-国内的-IM-真的是烂透了](https://www.v2ex.com/t/876059) 
 - [2022-08-28-帮忙参详下，公司主力使用-co-或-biz-域名如何？](https://www.v2ex.com/t/876058) 
 - [2022-08-28-求助大家:由draw.io-20.2.3-windows-no-installer.exe缺失ffmpeg.dll所引发地一系列疑惑](https://www.v2ex.com/t/876056) 
@@ -41,4 +42,3 @@
 - [2022-08-28-如何在-mac-上拆出完全独立的两个空间？在强制加入-MDM-的情况下](https://www.v2ex.com/t/876016) 
 - [2022-08-28-2022-年-9-月买华为-p40pro-合适吗？](https://www.v2ex.com/t/876015) 
 - [2022-08-28-金风未动蝉先觉](https://www.v2ex.com/t/876013) 
-- [2022-08-28-关于时下的直播热潮](https://www.v2ex.com/t/876011) 

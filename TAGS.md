@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-08-28 12:23:33。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-08-28 13:03:54。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -242,8 +242,8 @@
 
 - [【武汉肺炎防疫全纪录(财新网)】广州17岁男生在定点医院参加高考-特殊考场视频监考](https://m.caixin.com/m/2021-06-05/101723418.html)
 - [【武汉肺炎防疫全纪录(财新网)】林郑月娥率13高官直播接种科兴疫苗-复星疫苗预计周中到港](https://m.caixin.com/m/2021-02-22/101665724.html)
+- [【V2EX】有-b-站的同学吗，网页端视频页点击右侧推荐项，没反应](https://www.v2ex.com/t/876019)
 - [【V2EX】关于时下的直播热潮](https://www.v2ex.com/t/876011)
-- [【V2EX】iPhone-拍视频规格，你选择哪个？](https://www.v2ex.com/t/875971)
 - [......【查看更多】......](./details/tags/audio-video.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -303,7 +303,6 @@
 
 
 - [【V2EX】中信-MasterCard-苹果官网购买美区礼品卡失败](https://www.v2ex.com/t/875996)
-- [【V2EX】咨询一下百度贴吧的-https-证书失效的问题](https://www.v2ex.com/t/875972)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

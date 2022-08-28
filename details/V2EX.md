@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2022-08-28 11:12:18。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-08-28 11:38:03。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-08-28-idea-激活-copilot-失败，请问如何解决？](https://www.v2ex.com/t/876004) 
 - [2022-08-28-花两天总结了市面上主流开源许可证的区别，希望能给点建议](https://www.v2ex.com/t/876002) 
 - [2022-08-28-关于最近联通-70G-通用大流量卡事宜](https://www.v2ex.com/t/876001) 
 - [2022-08-28-有人一起合购-Alfred5-的-Mega-Supporter-吗？](https://www.v2ex.com/t/876000) 
@@ -46,4 +47,3 @@
 - [2022-08-28-为啥-M2Air-的菜单栏不能和刘海平行啊？](https://www.v2ex.com/t/875959) 
 - [2022-08-28-开个奈飞-Netflix-土区的车-找车友](https://www.v2ex.com/t/875958) 
 - [2022-08-28-阿里的产品经理,脑子被砸了吗?](https://www.v2ex.com/t/875957) 
-- [2022-08-28-换成-iPhone12-后，我再也找不到流畅打字的感觉了。](https://www.v2ex.com/t/875954) 

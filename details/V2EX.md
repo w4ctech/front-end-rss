@@ -1,10 +1,13 @@
-:alarm_clock: 更新时间: 2022-08-28 15:43:01。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-08-28 16:17:54。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-08-28-求助大家:由draw.io-20.2.3-windows-no-installer.exe缺失ffmpeg.dll所引发地一系列疑惑](https://www.v2ex.com/t/876056) 
+- [2022-08-28-淘宝上远程安装操作系统是如何实现的？](https://www.v2ex.com/t/876055) 
+- [2022-08-28-做了个润友交流社区](https://www.v2ex.com/t/876054) 
 - [2022-08-28-菜鸡初学者对-Hadoop-云端架构的一些疑惑](https://www.v2ex.com/t/876050) 
 - [2022-08-28-manjaro-kde-颠覆了我的认知，-kde5-内存消耗居然和-xfce4-持平](https://www.v2ex.com/t/876048) 
 - [2022-08-28-构建一个漂亮的跨平台登录-/-注册能有多难？](https://www.v2ex.com/t/876047) 
@@ -37,5 +40,3 @@
 - [2022-08-28-2022-年-9-月买华为-p40pro-合适吗？](https://www.v2ex.com/t/876015) 
 - [2022-08-28-金风未动蝉先觉](https://www.v2ex.com/t/876013) 
 - [2022-08-28-关于时下的直播热潮](https://www.v2ex.com/t/876011) 
-- [2022-08-28-西丽周末有约台球爱好者没](https://www.v2ex.com/t/876007) 
-- [2022-08-28-idea-激活-copilot-失败，请问如何解决？](https://www.v2ex.com/t/876004) 

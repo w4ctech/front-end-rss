@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-08-28 03:41:27。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-08-28 04:53:35。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,12 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-08-28-在深圳哪里做核酸检测-可以得到纸质证明并且带有二维码](https://www.v2ex.com/t/875952) 
+- [2022-08-28-看中-ai-相册，哪家成品-NAS-做的还不错？](https://www.v2ex.com/t/875949) 
+- [2022-08-28-问：大家读书时主要是那种阅读媒介呢？](https://www.v2ex.com/t/875948) 
+- [2022-08-28-如果我把自己喜欢的音乐，电影，书籍，-up-主，-youtuber-拿来，贴上封面链接，纯做个导航站，会有法律风险吗？](https://www.v2ex.com/t/875947) 
+- [2022-08-28-最近发现自己晚上睡觉在打鼾，有什么办法资料么？](https://www.v2ex.com/t/875945) 
+- [2022-08-28-写了一篇关于-Ubuntu-netplan-的博客](https://www.v2ex.com/t/875944) 
 - [2022-08-28-slf4j+logback-1.2.11，所有的换行符只输出一个LF并不产生真正的换行，请问该怎么改正？](https://www.v2ex.com/t/875943) 
 - [2022-08-28-被初中生-C-语言考住了，尴了个尬](https://www.v2ex.com/t/875942) 
 - [2022-08-28-有没有办法把联想电脑管家里面的更换开机画面功能给提取出来？](https://www.v2ex.com/t/875941) 
@@ -1937,10 +1943,6 @@
 - [2022-08-27-utm-这么离谱吗](https://www.v2ex.com/t/875905) 
 - [2022-08-27-腾讯这敏感词识别也太差了吧](https://www.v2ex.com/t/875904) 
 - [2022-08-27-免费、离线、自部署的-稍后读-/-书签-/-网页批注工具-提供-开源-SDK-+-API-文档](https://www.v2ex.com/t/875903) 
-- [2022-08-27-phpStorm-特别卡，还老是自动换背景色，求帮助](https://www.v2ex.com/t/875897) 
-- [2022-08-27-用欧路字典的-v2exer-咨询一个问题](https://www.v2ex.com/t/875896) 
-- [2022-08-27-ios-密码突然无法通过验证，没有开通-apple-pay](https://www.v2ex.com/t/875895) 
-- [2022-08-27-甲骨文信用卡环节验证一直不过，遂想收台甲骨文，最好注册的时间久一点。](https://www.v2ex.com/t/875894) 
 - [2022-08-28-为什么我们需要企业架构？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15345&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fwhy-need-enterprise-architecture%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-08-28-软件泥潭真体验-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15344&url=https%3A%2F%2Finsights.thoughtworks.cn%2Flegacy-system-operation-experience%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-08-28-ICLR-2021-|-美团AutoML论文：鲁棒的神经网络架构搜索-DARTS--tech.meituan.com](https://blogread.cn/news/go.php?idItem=15342&url=https%3A%2F%2Ftech.meituan.com%2F2021%2F03%2F25%2Ficlr-2021-nas-automl-darts.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1960,5 +1962,5 @@
 - [2022-08-28-一文看懂大数据生态圈完整知识体系（文末赠书）](https://toutiao.io/k/j95wj12) 
 - [2022-08-28-推荐-全网最全的权限系统设计方案（图解）](https://toutiao.io/k/lozkmee) 
 - [2022-08-28-推荐-一文读懂-|-Linux系统启动过程](https://toutiao.io/k/tiobp8c) 
-- [2022-08-28-推荐-聊聊-13-种锁的实现方式](https://toutiao.io/k/wcwg3fn) 
 - [2022-08-28-推荐-Java线上CPU内存冲高问题排查步骤](https://toutiao.io/k/t9sj17s) 
+- [2022-08-28-推荐-聊聊-13-种锁的实现方式](https://toutiao.io/k/wcwg3fn) 

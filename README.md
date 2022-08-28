@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-08-28 03:41:27，:rocket: 更新条数: +2016， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-08-28 04:53:35，:rocket: 更新条数: +2017， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,13 @@
 </summary>
 
 
+- [2022-08-28-在深圳哪里做核酸检测-可以得到纸质证明并且带有二维码](https://www.v2ex.com/t/875952) ![](assets/new.png)  
+- [2022-08-28-看中-ai-相册，哪家成品-NAS-做的还不错？](https://www.v2ex.com/t/875949) ![](assets/new.png)  
+- [2022-08-28-问：大家读书时主要是那种阅读媒介呢？](https://www.v2ex.com/t/875948) ![](assets/new.png)  
+- [2022-08-28-如果我把自己喜欢的音乐，电影，书籍，-up-主，-youtuber-拿来，贴上封面链接，纯做个导航站，会有法律风险吗？](https://www.v2ex.com/t/875947) ![](assets/new.png)  
+- [2022-08-28-大家的浏览器会警告这个钓鱼网站有风险吗？](https://www.v2ex.com/t/875946) ![](assets/new.png)  
+- [2022-08-28-最近发现自己晚上睡觉在打鼾，有什么办法资料么？](https://www.v2ex.com/t/875945) ![](assets/new.png)  
+- [2022-08-28-写了一篇关于-Ubuntu-netplan-的博客](https://www.v2ex.com/t/875944) ![](assets/new.png)  
 - [2022-08-28-slf4j+logback-1.2.11，所有的换行符只输出一个LF并不产生真正的换行，请问该怎么改正？](https://www.v2ex.com/t/875943) ![](assets/new.png)  
 - [2022-08-28-被初中生-C-语言考住了，尴了个尬](https://www.v2ex.com/t/875942) ![](assets/new.png)  
 - [2022-08-28-有没有办法把联想电脑管家里面的更换开机画面功能给提取出来？](https://www.v2ex.com/t/875941) ![](assets/new.png)  
@@ -504,13 +511,6 @@
 - [2022-08-28-MacBook-Pro-14-连不上实验室-Wi-Fi-网络](https://www.v2ex.com/t/875931) ![](assets/new.png)  
 - [2022-08-28-怎么在放烟花的时候大叫？](https://www.v2ex.com/t/875930) ![](assets/new.png)  
 - [2022-08-28-NIO-的疑惑，多线程下调用-register-阻塞，是什么原因呢？](https://www.v2ex.com/t/875927) ![](assets/new.png)  
-- [2022-08-28-关于-IINA-的听音乐费电测试](https://www.v2ex.com/t/875926) ![](assets/new.png)  
-- [2022-08-28-android-UI-还原](https://www.v2ex.com/t/875925) ![](assets/new.png)  
-- [2022-08-28-开源一个短网址生成工具](https://www.v2ex.com/t/875924) ![](assets/new.png)  
-- [2022-08-28-vscode-保存时自动去掉无效引用-import](https://www.v2ex.com/t/875923) ![](assets/new.png)  
-- [2022-08-28-v2exr-们，移动宽带送的荣耀-XD22-咋改固件捏](https://www.v2ex.com/t/875921) ![](assets/new.png)  
-- [2022-08-28-现在北京四惠/四惠东地铁站自东向西早上-9.00-9.30-出发要排队吗？](https://www.v2ex.com/t/875919) ![](assets/new.png)  
-- [2022-08-27-专职搞在线-TS-全栈开发培训还是继续全职远程工作，一个不安分的人该如何抉择？](https://www.v2ex.com/t/875918) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -554,17 +554,17 @@
 
 
 - [2022-08-28-RedisJson-横空出世，这性能杀疯了！](https://toutiao.io/k/y4wdv6t) ![](assets/new.png)  
-- [2022-08-28-尤雨溪解读-2022-Web-前端生态趋势](https://toutiao.io/k/kublb5y) ![](assets/new.png)  
 - [2022-08-28-看Go中的struct如何被优化，还有小插曲](https://toutiao.io/k/zv2dasc) ![](assets/new.png)  
+- [2022-08-28-尤雨溪解读-2022-Web-前端生态趋势](https://toutiao.io/k/kublb5y) ![](assets/new.png)  
 - [2022-08-28-go错误处理的一种实践](https://toutiao.io/k/oqb90id) ![](assets/new.png)  
 - [2022-08-28-揭秘webpack5模块打包](https://toutiao.io/k/evlm88o) ![](assets/new.png)  
-- [2022-08-28-分布式接口幂等性、分布式限流：Guava-、Nginx和lua限流](https://toutiao.io/k/xqrfbe8) ![](assets/new.png)  
 - [2022-08-28-如何写出有效的单元测试](https://toutiao.io/k/wqazbfk) ![](assets/new.png)  
+- [2022-08-28-分布式接口幂等性、分布式限流：Guava-、Nginx和lua限流](https://toutiao.io/k/xqrfbe8) ![](assets/new.png)  
 - [2022-08-28-一文看懂大数据生态圈完整知识体系（文末赠书）](https://toutiao.io/k/j95wj12) ![](assets/new.png)  
 - [2022-08-28-推荐-全网最全的权限系统设计方案（图解）](https://toutiao.io/k/lozkmee) ![](assets/new.png)  
 - [2022-08-28-推荐-一文读懂-|-Linux系统启动过程](https://toutiao.io/k/tiobp8c) ![](assets/new.png)  
-- [2022-08-28-推荐-聊聊-13-种锁的实现方式](https://toutiao.io/k/wcwg3fn) ![](assets/new.png)  
 - [2022-08-28-推荐-Java线上CPU内存冲高问题排查步骤](https://toutiao.io/k/t9sj17s) ![](assets/new.png)  
+- [2022-08-28-推荐-聊聊-13-种锁的实现方式](https://toutiao.io/k/wcwg3fn) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

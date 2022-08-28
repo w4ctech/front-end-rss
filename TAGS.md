@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-08-28 06:16:56。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-08-28 06:47:19。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -241,6 +241,7 @@
 
 - [【武汉肺炎防疫全纪录(财新网)】广州17岁男生在定点医院参加高考-特殊考场视频监考](https://m.caixin.com/m/2021-06-05/101723418.html)
 - [【武汉肺炎防疫全纪录(财新网)】林郑月娥率13高官直播接种科兴疫苗-复星疫苗预计周中到港](https://m.caixin.com/m/2021-02-22/101665724.html)
+- [【V2EX】iPhone-拍视频规格，你选择哪个？](https://www.v2ex.com/t/875971)
 - [【V2EX】请教：拷贝近-2-个-T-的音频文件（大概-40-万），从一个-SATA-硬盘拷贝到另一个-SAS-硬盘，最稳妥的方式是什么？](https://www.v2ex.com/t/875960)
 - [【V2EX】MacBook-Pro-AE-渲染视频卡到阴，到底是我的问题还是-M1-的问题？](https://www.v2ex.com/t/875932)
 - [......【查看更多】......](./details/tags/audio-video.md)
@@ -304,7 +305,6 @@
 
 
 - [【V2EX】发现-LastPass-是个坑](https://www.v2ex.com/t/875964)
-- [【V2EX】专职搞在线-TS-全栈开发培训还是继续全职远程工作，一个不安分的人该如何抉择？](https://www.v2ex.com/t/875918)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

@@ -9953,6 +9953,16 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "菜鸡初学者对 Hadoop 云端架构的一些疑惑",
+        "link": "https://www.v2ex.com/t/876050",
+        "date": "2022-08-28"
+      },
+      {
+        "title": "manjaro-kde 颠覆了我的认知， kde5 内存消耗居然和 xfce4 持平",
+        "link": "https://www.v2ex.com/t/876048",
+        "date": "2022-08-28"
+      },
+      {
         "title": "构建一个漂亮的跨平台登录 / 注册能有多难？",
         "link": "https://www.v2ex.com/t/876047",
         "date": "2022-08-28"
@@ -10111,31 +10121,6 @@
         "title": "idea 激活 copilot 失败，请问如何解决？",
         "link": "https://www.v2ex.com/t/876004",
         "date": "2022-08-28"
-      },
-      {
-        "title": "花两天总结了市面上主流开源许可证的区别，希望能给点建议",
-        "link": "https://www.v2ex.com/t/876002",
-        "date": "2022-08-28"
-      },
-      {
-        "title": "关于最近联通 70G 通用大流量卡事宜",
-        "link": "https://www.v2ex.com/t/876001",
-        "date": "2022-08-28"
-      },
-      {
-        "title": "有人一起合购 Alfred5 的 Mega Supporter 吗？",
-        "link": "https://www.v2ex.com/t/876000",
-        "date": "2022-08-28"
-      },
-      {
-        "title": "不懂就问，为什么谷歌翻译里有那么多的 断续器",
-        "link": "https://www.v2ex.com/t/875999",
-        "date": "2022-08-28"
-      },
-      {
-        "title": "真是多少台显示器，都不嫌多。。",
-        "link": "https://www.v2ex.com/t/875998",
-        "date": "2022-08-28"
       }
     ]
   },
@@ -10277,13 +10262,13 @@
         "date": "2022-08-28"
       },
       {
-        "title": "尤雨溪解读 2022 Web 前端生态趋势",
-        "link": "https://toutiao.io/k/kublb5y",
+        "title": "如何写出有效的单元测试",
+        "link": "https://toutiao.io/k/wqazbfk",
         "date": "2022-08-28"
       },
       {
-        "title": "如何写出有效的单元测试",
-        "link": "https://toutiao.io/k/wqazbfk",
+        "title": "尤雨溪解读 2022 Web 前端生态趋势",
+        "link": "https://toutiao.io/k/kublb5y",
         "date": "2022-08-28"
       },
       {
@@ -10302,13 +10287,8 @@
         "date": "2022-08-28"
       },
       {
-        "title": "[推荐] 一文读懂 | Linux系统启动过程",
-        "link": "https://toutiao.io/k/tiobp8c",
-        "date": "2022-08-28"
-      },
-      {
-        "title": "[推荐] 公司新来了一个同事，把权限系统设计的炉火纯青！",
-        "link": "https://toutiao.io/k/6gp2yxu",
+        "title": "[推荐] 全网最全的权限系统设计方案（图解）",
+        "link": "https://toutiao.io/k/lozkmee",
         "date": "2022-08-28"
       },
       {
@@ -10317,8 +10297,13 @@
         "date": "2022-08-28"
       },
       {
-        "title": "[推荐] 全网最全的权限系统设计方案（图解）",
-        "link": "https://toutiao.io/k/lozkmee",
+        "title": "[推荐] 公司新来了一个同事，把权限系统设计的炉火纯青！",
+        "link": "https://toutiao.io/k/6gp2yxu",
+        "date": "2022-08-28"
+      },
+      {
+        "title": "[推荐] 一文读懂 | Linux系统启动过程",
+        "link": "https://toutiao.io/k/tiobp8c",
         "date": "2022-08-28"
       },
       {

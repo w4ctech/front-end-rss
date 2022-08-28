@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-08-28 04:53:35。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-08-28 05:28:47。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,9 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-08-28-阿里的产品经理,脑子被砸了吗?](https://www.v2ex.com/t/875957) 
+- [2022-08-28-换成-iPhone12-后，我再也找不到流畅打字的感觉了。](https://www.v2ex.com/t/875954) 
+- [2022-08-28-产品经理：年薪-40w-起，远程工作：](https://www.v2ex.com/t/875953) 
 - [2022-08-28-在深圳哪里做核酸检测-可以得到纸质证明并且带有二维码](https://www.v2ex.com/t/875952) 
 - [2022-08-28-看中-ai-相册，哪家成品-NAS-做的还不错？](https://www.v2ex.com/t/875949) 
 - [2022-08-28-问：大家读书时主要是那种阅读媒介呢？](https://www.v2ex.com/t/875948) 
@@ -1940,9 +1943,6 @@
 - [2022-08-27-dell-2720-屏幕中间有条线，-JD-快递员-9-号拿了，到现在还没给我换](https://www.v2ex.com/t/875912) 
 - [2022-08-27-Windows-的鼠标图标在有些状态下会很模糊](https://www.v2ex.com/t/875911) 
 - [2022-08-27-听-V2-网友建议，而入手-MBP-14-的我来分享一下使用体验](https://www.v2ex.com/t/875908) 
-- [2022-08-27-utm-这么离谱吗](https://www.v2ex.com/t/875905) 
-- [2022-08-27-腾讯这敏感词识别也太差了吧](https://www.v2ex.com/t/875904) 
-- [2022-08-27-免费、离线、自部署的-稍后读-/-书签-/-网页批注工具-提供-开源-SDK-+-API-文档](https://www.v2ex.com/t/875903) 
 - [2022-08-28-为什么我们需要企业架构？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15345&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fwhy-need-enterprise-architecture%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-08-28-软件泥潭真体验-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15344&url=https%3A%2F%2Finsights.thoughtworks.cn%2Flegacy-system-operation-experience%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-08-28-ICLR-2021-|-美团AutoML论文：鲁棒的神经网络架构搜索-DARTS--tech.meituan.com](https://blogread.cn/news/go.php?idItem=15342&url=https%3A%2F%2Ftech.meituan.com%2F2021%2F03%2F25%2Ficlr-2021-nas-automl-darts.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1960,7 +1960,7 @@
 - [2022-08-28-go错误处理的一种实践](https://toutiao.io/k/oqb90id) 
 - [2022-08-28-如何写出有效的单元测试](https://toutiao.io/k/wqazbfk) 
 - [2022-08-28-一文看懂大数据生态圈完整知识体系（文末赠书）](https://toutiao.io/k/j95wj12) 
-- [2022-08-28-推荐-全网最全的权限系统设计方案（图解）](https://toutiao.io/k/lozkmee) 
 - [2022-08-28-推荐-一文读懂-|-Linux系统启动过程](https://toutiao.io/k/tiobp8c) 
+- [2022-08-28-推荐-全网最全的权限系统设计方案（图解）](https://toutiao.io/k/lozkmee) 
 - [2022-08-28-推荐-Java线上CPU内存冲高问题排查步骤](https://toutiao.io/k/t9sj17s) 
 - [2022-08-28-推荐-聊聊-13-种锁的实现方式](https://toutiao.io/k/wcwg3fn) 

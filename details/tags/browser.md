@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-08-29 01:18:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-08-29 03:56:39。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -7,14 +7,4 @@
 
 
 
-- [2021-12-23-【图集】西安全市小区单位实行封闭管理](https://photos.caixin.com/m/2021-12-23/101821058.html) 
-- [2021-11-25-WHO担忧欧洲对疫苗保护存在“错误的安全感”-北美疫情复发风险加剧｜大流行手记（-11月24日）](https://m.caixin.com/m/2021-11-25/101809652.html) 
-- [2021-08-31-欧盟新冠安全国名单剔除美国-新西兰报告首例辉瑞疫苗相关死亡｜大流行手记（8月30日）](https://m.caixin.com/m/2021-08-31/101764087.html) 
-- [2021-04-14-腺病毒新冠疫苗引安全忧虑-康希诺称未发现血栓病例](https://m.caixin.com/m/2021-04-14/101691086.html) 
-- [2021-01-08-解药|新冠mRNA疫苗安全性有哪些挑战？](https://m.caixin.com/m/2021-01-08/101648043.html) 
-- [2021-01-01-大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html) 
 - [2022-06-12-基于文字的URL锚点定位与::target-text样式设置](https://www.zhangxinxu.com/wordpress/2022/06/url-anchor-target-text/) 
-- [2022-08-28-谷歌浏览器现在还支持侧载吗？](https://www.v2ex.com/t/876043) 
-- [2022-08-28-Safari-的-tab-样式如何改成和-chrome-一样](https://www.v2ex.com/t/876040) 
-- [2022-08-28-Safari-禁止了跨域追踪，为什么登录-Google-还是能同步登录不同域名下的-YouTube？用了什么黑科技？](https://www.v2ex.com/t/876032) 
-- [2022-08-29-替代ELK：ClickHouse+Kafka+FlieBeat](https://toutiao.io/k/kgxe3yy) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-08-28 23:42:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-08-29 01:18:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -17,4 +17,4 @@
 - [2022-08-28-谷歌浏览器现在还支持侧载吗？](https://www.v2ex.com/t/876043) 
 - [2022-08-28-Safari-的-tab-样式如何改成和-chrome-一样](https://www.v2ex.com/t/876040) 
 - [2022-08-28-Safari-禁止了跨域追踪，为什么登录-Google-还是能同步登录不同域名下的-YouTube？用了什么黑科技？](https://www.v2ex.com/t/876032) 
-- [2022-08-28-调试工具的通用原理：调试四要素](https://toutiao.io/k/eslbcqv) 
+- [2022-08-29-替代ELK：ClickHouse+Kafka+FlieBeat](https://toutiao.io/k/kgxe3yy) 

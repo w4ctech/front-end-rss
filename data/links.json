@@ -131,6 +131,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "gitee上撸了个类似飞书OKR输入框的@提及项目",
+        "link": "https://www.zhangxinxu.com/wordpress/2022/08/gitee-feishu-okr-at-mention/",
+        "date": "2022-08-31"
+      },
+      {
         "title": "来了，来了，CSS :has()伪类她来了",
         "link": "https://www.zhangxinxu.com/wordpress/2022/08/css-has-pseudo-class/",
         "date": "2022-08-24"
@@ -174,11 +179,6 @@
         "title": "如何实现页面刷新后不定位到之前的滚动位置？",
         "link": "https://www.zhangxinxu.com/wordpress/2022/05/history-scrollrestoration/",
         "date": "2022-05-29"
-      },
-      {
-        "title": "详解日后定会大规模使用的CSS @layer 规则",
-        "link": "https://www.zhangxinxu.com/wordpress/2022/05/css-layer-rule/",
-        "date": "2022-05-28"
       }
     ]
   },

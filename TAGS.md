@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-09-01 16:19:32。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-01 17:00:00。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -89,6 +89,7 @@
 
 
 - [【武汉肺炎防疫全纪录(财新网)】韩国拟升级首尔疫情管控-法国专业机构建议强制接种疫苗｜大流行手记（7月10日）](https://m.caixin.com/m/2021-07-11/101738786.html)
+- [【V2EX】求解：通过-docker-部署的-Jenkins，想要在构建任务里打包-docker-镜像，怎么处理？](https://www.v2ex.com/t/877136)
 - [【开发者头条】云原生赋能智能网联汽车消息处理基础框架构建](https://toutiao.io/k/kbdi6na)
 - [......【查看更多】......](./details/tags/pack-build.md)
 
@@ -297,6 +298,7 @@
 
 
 
+- [【V2EX】如果-tmux-也有类似-vim-tabpage-variable-的机制就好了](https://www.v2ex.com/t/877135)
 - [【V2EX】nginx-反代-https-源站，为啥-upstream-源站变成-https://ip/XXX](https://www.v2ex.com/t/877124)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 

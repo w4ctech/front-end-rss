@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-09-01 07:18:06。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-01 07:41:55。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -300,6 +300,7 @@
 
 
 
+- [【V2EX】3R-教室训练营硬广告-远程-TS-全栈教学+辅助内推远程工作求职+远程外包渠道拓展](https://www.v2ex.com/t/877010)
 - [【V2EX】AMD-与-NVIDIA-停止对中国销售数据中心-GPGPU](https://www.v2ex.com/t/876991)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 

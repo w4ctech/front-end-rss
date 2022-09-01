@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-09-01 07:18:06。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-01 07:41:55。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,10 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-09-01-现在有什么简单好用的手环推荐？](https://www.v2ex.com/t/877009) 
+- [2022-09-01-这块屏幕的设备像素比应该怎么计算？懵懵的。](https://www.v2ex.com/t/877008) 
+- [2022-09-01-「墨刀秋招」「郑州」高级前端及-Golang-岗，校招前端开放「附办公区图」「25-50k」](https://www.v2ex.com/t/877007) 
+- [2022-09-01-国内还有-bt-网络吗](https://www.v2ex.com/t/877006) 
 - [2022-09-01-两台显示器，排列位置总是反的，怎么办](https://www.v2ex.com/t/877005) 
 - [2022-09-01-准备在两台-mac-间长期用自带的-smb-文件分享，有什么问题需要在配置时特别注意下？](https://www.v2ex.com/t/877004) 
 - [2022-09-01-被隔离在家](https://www.v2ex.com/t/877003) 
@@ -1937,9 +1941,6 @@
 - [2022-09-01-原来支付宝可以这么清爽！](https://www.v2ex.com/t/876963) 
 - [2022-09-01-paragon-ntfs-在删除启动项文件后无论如何提示未获得完整磁盘访问权限](https://www.v2ex.com/t/876962) 
 - [2022-09-01-有没有人换过触摸板,神州-G8-TA7NP-想换成小米最新款那个触摸板,能换吗?](https://www.v2ex.com/t/876961) 
-- [2022-09-01-todesk-强制登录，版本：-macos4.3.1.1](https://www.v2ex.com/t/876960) 
-- [2022-09-01-北京医保调整生效了，查了下个人账户比之前少了！](https://www.v2ex.com/t/876958) 
-- [2022-09-01-B-站账号无法转正](https://www.v2ex.com/t/876956) 
 - [2022-09-01-使用上下游思维实现系统解耦-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15370&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-use-upstream-downstream-thinking-to-system-decoupling%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-09-01-Linux提权手法实战-blog.nsfocus.net](https://blogread.cn/news/go.php?idItem=15368&url=http%3A%2F%2Fblog.nsfocus.net%2Flinux%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-09-01-DevOps风险测绘之代码篇-blog.nsfocus.net](https://blogread.cn/news/go.php?idItem=15367&url=http%3A%2F%2Fblog.nsfocus.net%2Fdevops%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1969,7 +1970,7 @@
 - [2022-09-01-前端工程化思维：主题切换架构](https://toutiao.io/k/wer4054) 
 - [2022-09-01-后端程序员生产力工具合集](https://toutiao.io/k/9oph8q0) 
 - [2022-09-01-详解-Java-19-中的记录类型的模式匹配](https://toutiao.io/k/gb4irtx) 
+- [2022-09-01-推荐-丢弃掉那些BeanUtils工具类吧，MapStruct真香！！！](https://toutiao.io/k/6muqkam) 
+- [2022-09-01-推荐-一文读懂-|-Linux系统启动过程](https://toutiao.io/k/tiobp8c) 
 - [2022-09-01-推荐-Java线上CPU内存冲高问题排查步骤](https://toutiao.io/k/t9sj17s) 
 - [2022-09-01-推荐-公司新来了一个同事，把权限系统设计的炉火纯青！](https://toutiao.io/k/6gp2yxu) 
-- [2022-09-01-推荐-一文读懂-|-Linux系统启动过程](https://toutiao.io/k/tiobp8c) 
-- [2022-09-01-推荐-丢弃掉那些BeanUtils工具类吧，MapStruct真香！！！](https://toutiao.io/k/6muqkam) 

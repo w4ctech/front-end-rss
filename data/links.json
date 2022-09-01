@@ -9953,6 +9953,16 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "macOS Ventura 的 Cmd + ` 不能用了？",
+        "link": "https://www.v2ex.com/t/877105",
+        "date": "2022-09-01"
+      },
+      {
+        "title": "ios 自带的图书 app 无法同步藏书列表",
+        "link": "https://www.v2ex.com/t/877102",
+        "date": "2022-09-01"
+      },
+      {
         "title": "influxdb backup 失败怎么回事？",
         "link": "https://www.v2ex.com/t/877098",
         "date": "2022-09-01"
@@ -10075,36 +10085,6 @@
       {
         "title": "[送码] Mac 远程锁 SimpleLock",
         "link": "https://www.v2ex.com/t/877056",
-        "date": "2022-09-01"
-      },
-      {
-        "title": "降薪资 30%到央企，不知道以后时候会后悔",
-        "link": "https://www.v2ex.com/t/877055",
-        "date": "2022-09-01"
-      },
-      {
-        "title": "[广州 字节] 是否还在焦虑，我们还持续招前端",
-        "link": "https://www.v2ex.com/t/877054",
-        "date": "2022-09-01"
-      },
-      {
-        "title": "王卡限定版的扣费来了",
-        "link": "https://www.v2ex.com/t/877053",
-        "date": "2022-09-01"
-      },
-      {
-        "title": "万物皆可集成系列：低代码对接企企云实现数据集成",
-        "link": "https://www.v2ex.com/t/877052",
-        "date": "2022-09-01"
-      },
-      {
-        "title": "Android 微信浏览器手动刷新页面才能得到 get 表单传递过来的值？",
-        "link": "https://www.v2ex.com/t/877051",
-        "date": "2022-09-01"
-      },
-      {
-        "title": "都说深圳遍地是黄金，请问怎么捡?",
-        "link": "https://www.v2ex.com/t/877050",
         "date": "2022-09-01"
       }
     ]
@@ -10302,13 +10282,13 @@
         "date": "2022-09-01"
       },
       {
-        "title": "2022 年，React 团队在做什么？",
-        "link": "https://toutiao.io/k/oxfhtri",
+        "title": "前端工程化思维：主题切换架构",
+        "link": "https://toutiao.io/k/wer4054",
         "date": "2022-09-01"
       },
       {
-        "title": "前端工程化思维：主题切换架构",
-        "link": "https://toutiao.io/k/wer4054",
+        "title": "2022 年，React 团队在做什么？",
+        "link": "https://toutiao.io/k/oxfhtri",
         "date": "2022-09-01"
       },
       {
@@ -10327,6 +10307,11 @@
         "date": "2022-09-01"
       },
       {
+        "title": "[推荐] 丢弃掉那些BeanUtils工具类吧，MapStruct真香！！！",
+        "link": "https://toutiao.io/k/6muqkam",
+        "date": "2022-09-01"
+      },
+      {
         "title": "[推荐] Java线上CPU内存冲高问题排查步骤",
         "link": "https://toutiao.io/k/t9sj17s",
         "date": "2022-09-01"
@@ -10334,11 +10319,6 @@
       {
         "title": "[推荐] 公司新来了一个同事，把权限系统设计的炉火纯青！",
         "link": "https://toutiao.io/k/6gp2yxu",
-        "date": "2022-09-01"
-      },
-      {
-        "title": "[推荐] 丢弃掉那些BeanUtils工具类吧，MapStruct真香！！！",
-        "link": "https://toutiao.io/k/6muqkam",
         "date": "2022-09-01"
       }
     ]

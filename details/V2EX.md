@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2022-09-01 23:15:45。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-01 23:44:31。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-09-01-为什么突然电脑右下角老是弹窗迈克菲的病毒警告啊](https://www.v2ex.com/t/877147) 
+- [2022-09-01-请问各位-Apple-Watch-夜间睡眠时心率多少？](https://www.v2ex.com/t/877146) 
 - [2022-09-01-android-有-什么-layout-学习资源吗-？](https://www.v2ex.com/t/877144) 
 - [2022-09-01-Android-studio-指定.gradle-路径还是固定入口生效？](https://www.v2ex.com/t/877143) 
 - [2022-09-01-各位大佬，不要的旧衣服是怎么处理的？](https://www.v2ex.com/t/877142) 
@@ -36,5 +38,3 @@
 - [2022-09-01-macOS-Ventura-的-Cmd-+-`-不能用了？](https://www.v2ex.com/t/877105) 
 - [2022-09-01-ios-自带的图书-app-无法同步藏书列表](https://www.v2ex.com/t/877102) 
 - [2022-09-01-influxdb-backup-失败怎么回事？](https://www.v2ex.com/t/877098) 
-- [2022-09-01-请问怎么在-locationManagerService-里面修改传过来的卫星数据，并同步显示](https://www.v2ex.com/t/877097) 
-- [2022-09-01-2022-年，有什么方式用电脑逛海鲜市场吗？](https://www.v2ex.com/t/877096) 

@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-09-01 06:57:36。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-01 07:18:06。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -283,7 +283,6 @@
 - [【张鑫旭-鑫空间-鑫生活】基于文字的URL锚点定位与::target-text样式设置](https://www.zhangxinxu.com/wordpress/2022/06/url-anchor-target-text/)
 - [【V2EX】BI-如何实现用户身份集成自定义安全程序开发](https://www.v2ex.com/t/876989)
 - [【V2EX】汇率又贬值了，现在美区-iTunes-充值除了官网还有什么安全又省钱的渠道吗](https://www.v2ex.com/t/876982)
-- [【技术头条】端智能在大众点评搜索重排序的应用实践-tech.meituan.com](https://blogread.cn/news/go.php?idItem=15350&url=https%3A%2F%2Ftech.meituan.com%2F2022%2F06%2F16%2Fedge-search-rerank.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【开发者头条】安全防御体系建设](https://toutiao.io/k/0vf4nqg)
 - [......【查看更多】......](./details/tags/browser.md)
 
@@ -318,6 +317,7 @@
 
 
 
+- [【V2EX】MinIO+PicGo+Nginx+Typora-自建图床](https://www.v2ex.com/t/877000)
 - [【技术头条】使用-Docker-来运行-HuggingFace-海量模型-soulteary.com](https://blogread.cn/news/go.php?idItem=15355&url=https%3A%2F%2Fsoulteary.com%2F2022%2F05%2F20%2Fuse-docker-to-run-huggingface-models.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【开发者头条】解惑篇｜Docker和-K8s-到底啥关系？想学K8s，必须得先学-Docker-吗？](https://toutiao.io/k/yb1awja)
 - [【开发者头条】Docker-是怎么实现的？前端怎么用-Docker-做部署？](https://toutiao.io/k/u418dww)

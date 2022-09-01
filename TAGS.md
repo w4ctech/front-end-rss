@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-09-01 11:13:41。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-01 11:39:15。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -72,7 +72,6 @@
 
 
 
-- [【V2EX】遇到一个-TypeScript-的问题，请大佬指点](https://www.v2ex.com/t/877039)
 - [......【查看更多】......](./details/tags/typescript.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -313,7 +312,6 @@
 
 
 - [【V2EX】nginx-大佬过来看看怎么弄？](https://www.v2ex.com/t/877074)
-- [【V2EX】看到有人问-nginx-与-F5-的区别](https://www.v2ex.com/t/877036)
 - [【技术头条】使用-Docker-来运行-HuggingFace-海量模型-soulteary.com](https://blogread.cn/news/go.php?idItem=15355&url=https%3A%2F%2Fsoulteary.com%2F2022%2F05%2F20%2Fuse-docker-to-run-huggingface-models.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【开发者头条】解惑篇｜Docker和-K8s-到底啥关系？想学K8s，必须得先学-Docker-吗？](https://toutiao.io/k/yb1awja)
 - [【开发者头条】Docker-是怎么实现的？前端怎么用-Docker-做部署？](https://toutiao.io/k/u418dww)

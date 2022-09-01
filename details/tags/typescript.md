@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-09-01 08:49:53。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-01 09:15:02。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## TypeScript
 
@@ -7,4 +7,4 @@
 
 
 
-- [2022-09-01-北京-猿辅导-·-编辑器研发工程师-前端-/-客户端，-C++-/-TypeScript](https://www.v2ex.com/t/876994) 
+- [2022-09-01-遇到一个-TypeScript-的问题，请大佬指点](https://www.v2ex.com/t/877039) 

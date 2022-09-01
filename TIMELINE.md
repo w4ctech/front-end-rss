@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-09-01 19:37:15。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-09-01 20:17:02。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,7 @@
 </summary>
 
 
+- [【V2EX】2022-09-01-Android-studio-指定.gradle-路径还是固定入口生效？](https://www.v2ex.com/t/877143) 
 - [【V2EX】2022-09-01-各位大佬，不要的旧衣服是怎么处理的？](https://www.v2ex.com/t/877142) 
 - [【V2EX】2022-09-01-求教，-iMessage-怎么方便地导出？](https://www.v2ex.com/t/877141) 
 - [【V2EX】2022-09-01-求推荐路由系统](https://www.v2ex.com/t/877140) 
@@ -141,8 +142,8 @@
 - [【开发者头条】2022-09-01-2022-年，React-团队在做什么？](https://toutiao.io/k/oxfhtri) 
 - [【开发者头条】2022-09-01-详解-Java-19-中的记录类型的模式匹配](https://toutiao.io/k/gb4irtx) 
 - [【开发者头条】2022-09-01-推荐-一文读懂-|-Linux系统启动过程](https://toutiao.io/k/tiobp8c) 
-- [【开发者头条】2022-09-01-推荐-聊聊数据库建表的15个小技巧](https://toutiao.io/k/uym7cfr) 
 - [【开发者头条】2022-09-01-推荐-公司新来了一个同事，把权限系统设计的炉火纯青！](https://toutiao.io/k/6gp2yxu) 
+- [【开发者头条】2022-09-01-推荐-聊聊数据库建表的15个小技巧](https://toutiao.io/k/uym7cfr) 
 - [【开发者头条】2022-09-01-推荐-Java线上CPU内存冲高问题排查步骤](https://toutiao.io/k/t9sj17s) 
 - [【开发者头条】2022-09-01-推荐-丢弃掉那些BeanUtils工具类吧，MapStruct真香！！！](https://toutiao.io/k/6muqkam) 
 

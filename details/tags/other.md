@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-09-01 19:37:15。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-01 20:17:02。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,7 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-09-01-Android-studio-指定.gradle-路径还是固定入口生效？](https://www.v2ex.com/t/877143) 
 - [2022-09-01-各位大佬，不要的旧衣服是怎么处理的？](https://www.v2ex.com/t/877142) 
 - [2022-09-01-求教，-iMessage-怎么方便地导出？](https://www.v2ex.com/t/877141) 
 - [2022-09-01-区块链是不是互联网发展史上的一段弯路？](https://www.v2ex.com/t/877137) 
@@ -1965,7 +1966,7 @@
 - [2022-09-01-前端工程化思维：主题切换架构](https://toutiao.io/k/wer4054) 
 - [2022-09-01-详解-Java-19-中的记录类型的模式匹配](https://toutiao.io/k/gb4irtx) 
 - [2022-09-01-推荐-一文读懂-|-Linux系统启动过程](https://toutiao.io/k/tiobp8c) 
-- [2022-09-01-推荐-聊聊数据库建表的15个小技巧](https://toutiao.io/k/uym7cfr) 
 - [2022-09-01-推荐-公司新来了一个同事，把权限系统设计的炉火纯青！](https://toutiao.io/k/6gp2yxu) 
+- [2022-09-01-推荐-聊聊数据库建表的15个小技巧](https://toutiao.io/k/uym7cfr) 
 - [2022-09-01-推荐-Java线上CPU内存冲高问题排查步骤](https://toutiao.io/k/t9sj17s) 
 - [2022-09-01-推荐-丢弃掉那些BeanUtils工具类吧，MapStruct真香！！！](https://toutiao.io/k/6muqkam) 

@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-09-01 14:14:23。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-01 14:40:47。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -155,7 +155,6 @@
 
 
 
-- [【V2EX】我和我闺蜜女朋友玩喝酒游戏-麻烦各位给她电话响响-接通说喝酒-2-个字就行](https://www.v2ex.com/t/877114)
 - [......【查看更多】......](./details/tags/dev-game.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

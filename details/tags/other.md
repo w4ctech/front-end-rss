@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-09-02 16:59:16。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-02 17:22:29。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,7 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-09-02-开启-passwall2-以后-ddns-解析不到正确的-ip](https://www.v2ex.com/t/877379) 
 - [2022-09-02-求推荐正宗的风干牛肉干](https://www.v2ex.com/t/877378) 
 - [2022-09-02-要求下班关电脑的公司是不是很-low？](https://www.v2ex.com/t/877377) 
 - [2022-09-02-iPhone-相机拍猫，毛发会变得怪异](https://www.v2ex.com/t/877376) 
@@ -1972,7 +1973,7 @@
 - [2022-09-02-玉伯的产品思考：技术人如何做产品](https://toutiao.io/k/vmkzzj5) 
 - [2022-09-02-cmake使用方法详解---Windows-Linux-MacOS-cmake安装教程](https://toutiao.io/k/d8lldbl) 
 - [2022-09-02-解锁云原生新场景-|-云原生加速云边端一体化发展](https://toutiao.io/k/2alb3c8) 
-- [2022-09-02-推荐-聊聊数据库建表的15个小技巧](https://toutiao.io/k/uym7cfr) 
-- [2022-09-02-推荐-丢弃掉那些BeanUtils工具类吧，MapStruct真香！！！](https://toutiao.io/k/6muqkam) 
 - [2022-09-02-推荐-Java线上CPU内存冲高问题排查步骤](https://toutiao.io/k/t9sj17s) 
 - [2022-09-02-推荐-什么是顶级的思维？](https://toutiao.io/k/ulqvlcd) 
+- [2022-09-02-推荐-丢弃掉那些BeanUtils工具类吧，MapStruct真香！！！](https://toutiao.io/k/6muqkam) 
+- [2022-09-02-推荐-聊聊数据库建表的15个小技巧](https://toutiao.io/k/uym7cfr) 

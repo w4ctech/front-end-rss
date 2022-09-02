@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-09-02 16:59:16，:rocket: 更新条数: +2032， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-09-02 17:22:29，:rocket: 更新条数: +2033， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-09-02-开启-passwall2-以后-ddns-解析不到正确的-ip](https://www.v2ex.com/t/877379) ![](assets/new.png)  
 - [2022-09-02-求推荐正宗的风干牛肉干](https://www.v2ex.com/t/877378) ![](assets/new.png)  
 - [2022-09-02-要求下班关电脑的公司是不是很-low？](https://www.v2ex.com/t/877377) ![](assets/new.png)  
 - [2022-09-02-iPhone-相机拍猫，毛发会变得怪异](https://www.v2ex.com/t/877376) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-09-02-开发了一个可以运行在-Switch-上的-B-站客户端——wiliwili（没错就是那个游戏机！）](https://www.v2ex.com/t/877359) ![](assets/new.png)  
 - [2022-09-02-Wechat-也支持遷移聊天記錄了！](https://www.v2ex.com/t/877358) ![](assets/new.png)  
 - [2022-09-02-vue2-项目，本地-dev-模式正常，-build-后网页稳定崩溃可能的原因是什么？](https://www.v2ex.com/t/877357) ![](assets/new.png)  
-- [2022-09-02-m1-mbp-同时使用-pd-和-magsafe-充电](https://www.v2ex.com/t/877355) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -566,8 +566,8 @@
 - [2022-09-02-从全局角度，如何设计一个秒杀系统？](https://toutiao.io/k/3km5fur) ![](assets/new.png)  
 - [2022-09-02-在树莓派中使用-MicroPython-接入-MQTT](https://toutiao.io/k/4921osp) ![](assets/new.png)  
 - [2022-09-02-数据与广告系列三十三：搜索广告，如何在用户搜索过程中优雅的夹带“私货”](https://toutiao.io/k/k9d6cuu) ![](assets/new.png)  
-- [2022-09-02-我们需要什么样的产业AI?](https://toutiao.io/k/2b83cy3) ![](assets/new.png)  
 - [2022-09-02-懒人想入门云原生安全？建议先看这两个行业案例](https://toutiao.io/k/kmy9af4) ![](assets/new.png)  
+- [2022-09-02-我们需要什么样的产业AI?](https://toutiao.io/k/2b83cy3) ![](assets/new.png)  
 - [2022-09-02-Rust源码剖析：Lint---CombinedLintPass](https://toutiao.io/k/9gribw6) ![](assets/new.png)  
 - [2022-09-02-仔细研究-Gogolang-类型系统](https://toutiao.io/k/rk9wo63) ![](assets/new.png)  
 - [2022-09-02-玉伯的产品思考：技术人如何做产品](https://toutiao.io/k/vmkzzj5) ![](assets/new.png)  

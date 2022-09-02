@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-09-02 01:12:15。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-02 04:01:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 服务端相关
 
@@ -7,4 +7,5 @@
 
 
 
+- [2022-09-02-Docker-用来做开发环境，能否支撑高版本系统](https://www.v2ex.com/t/877218) 
 - [2022-09-02-使用-Docker-来运行-HuggingFace-海量模型-soulteary.com](https://blogread.cn/news/go.php?idItem=15355&url=https%3A%2F%2Fsoulteary.com%2F2022%2F05%2F20%2Fuse-docker-to-run-huggingface-models.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

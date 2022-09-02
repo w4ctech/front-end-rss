@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-09-02 01:12:15。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-02 04:01:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -17,7 +17,8 @@
 - [2022-06-19-如何继承自定义元素及其他JS中扩展新方法](https://www.zhangxinxu.com/wordpress/2022/06/js-extend-class-custom-elements/) 
 - [2022-06-11-介绍一种CSS变量未定义语法也OK的小妙招](https://www.zhangxinxu.com/wordpress/2022/06/css-var-optional-empty-trick/) 
 - [2022-05-29-如何实现页面刷新后不定位到之前的滚动位置？](https://www.zhangxinxu.com/wordpress/2022/05/history-scrollrestoration/) 
-- [2022-09-01-求推荐路由系统](https://www.v2ex.com/t/877140) 
+- [2022-09-02-世界杯级别的售票网站，用-UI-组件库写会不会有点-low?](https://www.v2ex.com/t/877207) 
+- [2022-09-02-“Intel-Corporation-SoftwareComponent--1.1122.615.2”-到底是什么更新？](https://www.v2ex.com/t/877192) 
 - [2022-09-02-JS-replaceAll-和-matchAll-使用指南不指北-www.zhangxinxu.com](https://blogread.cn/news/go.php?idItem=15365&url=https%3A%2F%2Fwww.zhangxinxu.com%2Fwordpress%2F2022%2F08%2Fjs-replaceall-matchall%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-09-02-如何应对开源组件⻛险？软件成分安全分析（SCA）能力的建设与演进-tech.meituan.com](https://blogread.cn/news/go.php?idItem=15354&url=https%3A%2F%2Ftech.meituan.com%2F2022%2F05%2F26%2Fconstruction-and-evolution-of-software-component-analysis-capability.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-09-02-彻底理解-WireGuard-的路由策略](https://toutiao.io/k/rcso5pk) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-09-02 01:12:15。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-02 04:01:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 游戏开发
 
@@ -6,5 +6,3 @@
 > 关键字：`游戏`、`Three.js`、`Create.js`、`Matter.js`
 
 
-
-- [2022-09-01-一个《纯文字挂机类上班养成型游戏》想法梳理](https://www.v2ex.com/t/877134) 

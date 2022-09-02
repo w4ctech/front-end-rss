@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-09-02 14:13:40。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-09-02 14:39:53。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,13 @@
 </summary>
 
 
+- [【V2EX】2022-09-02-m1-mbp-同时使用-pd-和-magsafe-充电](https://www.v2ex.com/t/877355) 
+- [【V2EX】2022-09-02-国家重点研发计划启动-赋能数字身份应用](https://www.v2ex.com/t/877354) 
+- [【V2EX】2022-09-02-不同的-vscode-项目能否在配置文件中指定自己的-node-版本？](https://www.v2ex.com/t/877353) 
+- [【V2EX】2022-09-02-保密教育](https://www.v2ex.com/t/877352) 
+- [【V2EX】2022-09-02-Android-和-iOS-双持，谈谈开放的-Android-不如封闭的-iOS-的一个地方](https://www.v2ex.com/t/877351) 
+- [【V2EX】2022-09-02-在-Mac-Chrome-上看-Netflix-黑屏，原来是因为外接显示器-iPad-Sidecar](https://www.v2ex.com/t/877350) 
+- [【V2EX】2022-09-02-真诚发问，求助一个关于-Java-的-domain-层的疑问](https://www.v2ex.com/t/877349) 
 - [【V2EX】2022-09-02-请问-Firefox-怎么像-Chrome-一样使用搜索引擎的快捷键呢](https://www.v2ex.com/t/877348) 
 - [【V2EX】2022-09-02-机场节点怎么简单测速啊](https://www.v2ex.com/t/877347) 
 - [【V2EX】2022-09-02-东芝的-1-移动-T-硬盘，里面的文档都变成-0kb-了，这是咋回事](https://www.v2ex.com/t/877346) 
@@ -104,12 +111,6 @@
 - [【V2EX】2022-09-02-使用-Canal-异步删除的缓存最终一致性方案-添加异步校验流程如何实现？](https://www.v2ex.com/t/877308) 
 - [【V2EX】2022-09-02-迫于失业写了个-App，上架到应用市场遇到的那些坑](https://www.v2ex.com/t/877307) 
 - [【V2EX】2022-09-02-求问北京-798-附近有没有约篮球的群和组织可以加入](https://www.v2ex.com/t/877306) 
-- [【V2EX】2022-09-02-一部手机来回切换使用微信号和-WeChat-号是否会炸号](https://www.v2ex.com/t/877305) 
-- [【V2EX】2022-09-02-四年前端，聊聊这一行的体会...](https://www.v2ex.com/t/877304) 
-- [【V2EX】2022-09-02-北京移动有什么老用户可以转的实惠套餐吗？求推荐！](https://www.v2ex.com/t/877303) 
-- [【V2EX】2022-09-02-大荔冬枣金秋好礼](https://www.v2ex.com/t/877302) 
-- [【V2EX】2022-09-02-怎么记录想法？或者“灵感”](https://www.v2ex.com/t/877301) 
-- [【V2EX】2022-09-02-多年-windows-选手想入手一款-macbook，看现在有-m2-芯片是最新的，做后端开发用偶尔兼顾前端开发。买-air-还是-pro-的](https://www.v2ex.com/t/877300) 
 - [【技术头条】2022-09-02-使用上下游思维实现系统解耦-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15370&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-use-upstream-downstream-thinking-to-system-decoupling%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-09-02-Flutter动态化实践-tech.meituan.com](https://blogread.cn/news/go.php?idItem=15369&url=https%3A%2F%2Ftech.meituan.com%2F2020%2F06%2F23%2Fmeituan-flutter-flap.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-09-02-Linux提权手法实战-blog.nsfocus.net](https://blogread.cn/news/go.php?idItem=15368&url=http%3A%2F%2Fblog.nsfocus.net%2Flinux%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -151,8 +152,8 @@
 - [【开发者头条】2022-09-02-cmake使用方法详解---Windows-Linux-MacOS-cmake安装教程](https://toutiao.io/k/d8lldbl) 
 - [【开发者头条】2022-09-02-解锁云原生新场景-|-云原生加速云边端一体化发展](https://toutiao.io/k/2alb3c8) 
 - [【开发者头条】2022-09-02-推荐-一文读懂-|-Linux系统启动过程](https://toutiao.io/k/tiobp8c) 
-- [【开发者头条】2022-09-02-推荐-公司新来了一个同事，把权限系统设计的炉火纯青！](https://toutiao.io/k/6gp2yxu) 
 - [【开发者头条】2022-09-02-推荐-丢弃掉那些BeanUtils工具类吧，MapStruct真香！！！](https://toutiao.io/k/6muqkam) 
+- [【开发者头条】2022-09-02-推荐-公司新来了一个同事，把权限系统设计的炉火纯青！](https://toutiao.io/k/6gp2yxu) 
 - [【开发者头条】2022-09-02-推荐-Java线上CPU内存冲高问题排查步骤](https://toutiao.io/k/t9sj17s) 
 - [【开发者头条】2022-09-02-推荐-聊聊数据库建表的15个小技巧](https://toutiao.io/k/uym7cfr) 
 

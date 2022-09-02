@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-09-02 14:13:40，:rocket: 更新条数: +2033， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-09-02 14:39:53，:rocket: 更新条数: +2034， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,13 @@
 </summary>
 
 
+- [2022-09-02-m1-mbp-同时使用-pd-和-magsafe-充电](https://www.v2ex.com/t/877355) ![](assets/new.png)  
+- [2022-09-02-国家重点研发计划启动-赋能数字身份应用](https://www.v2ex.com/t/877354) ![](assets/new.png)  
+- [2022-09-02-不同的-vscode-项目能否在配置文件中指定自己的-node-版本？](https://www.v2ex.com/t/877353) ![](assets/new.png)  
+- [2022-09-02-保密教育](https://www.v2ex.com/t/877352) ![](assets/new.png)  
+- [2022-09-02-Android-和-iOS-双持，谈谈开放的-Android-不如封闭的-iOS-的一个地方](https://www.v2ex.com/t/877351) ![](assets/new.png)  
+- [2022-09-02-在-Mac-Chrome-上看-Netflix-黑屏，原来是因为外接显示器-iPad-Sidecar](https://www.v2ex.com/t/877350) ![](assets/new.png)  
+- [2022-09-02-真诚发问，求助一个关于-Java-的-domain-层的疑问](https://www.v2ex.com/t/877349) ![](assets/new.png)  
 - [2022-09-02-请问-Firefox-怎么像-Chrome-一样使用搜索引擎的快捷键呢](https://www.v2ex.com/t/877348) ![](assets/new.png)  
 - [2022-09-02-机场节点怎么简单测速啊](https://www.v2ex.com/t/877347) ![](assets/new.png)  
 - [2022-09-02-东芝的-1-移动-T-硬盘，里面的文档都变成-0kb-了，这是咋回事](https://www.v2ex.com/t/877346) ![](assets/new.png)  
@@ -504,13 +511,6 @@
 - [2022-09-02-免费送几本-Python-和-Go-语言的书](https://www.v2ex.com/t/877337) ![](assets/new.png)  
 - [2022-09-02-请问大家：从深圳坐船去香港机场，怎么去](https://www.v2ex.com/t/877335) ![](assets/new.png)  
 - [2022-09-02-诡异的-git-权限问题](https://www.v2ex.com/t/877333) ![](assets/new.png)  
-- [2022-09-02-Windows11-很智障的一点……](https://www.v2ex.com/t/877332) ![](assets/new.png)  
-- [2022-09-02-幼儿园任务繁重，求助解决方案](https://www.v2ex.com/t/877331) ![](assets/new.png)  
-- [2022-09-02-咨询个-QT-的问题](https://www.v2ex.com/t/877330) ![](assets/new.png)  
-- [2022-09-02-社招北京/广州/成都飞书人事团队，前后端都有-hc](https://www.v2ex.com/t/877328) ![](assets/new.png)  
-- [2022-09-02-分享一个命令行下载轻小说的工具](https://www.v2ex.com/t/877327) ![](assets/new.png)  
-- [2022-09-02-这玩意啥原理，还能远程登录微信](https://www.v2ex.com/t/877326) ![](assets/new.png)  
-- [2022-09-02-求职-8-年前端求职。](https://www.v2ex.com/t/877325) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-09-02 10:45:10。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-02 11:13:49。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -351,7 +351,6 @@
 
 
 
-- [【V2EX】太久没面试，临时有个面试。要做回伸手党，求-Java-以及周边生态如-kafka-等的新八股。](https://www.v2ex.com/t/877273)
 - [......【查看更多】......](./details/tags/job-interview.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

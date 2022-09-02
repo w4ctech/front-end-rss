@@ -9953,6 +9953,36 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "strtotime(20171231);到底是否存在问题？",
+        "link": "https://www.v2ex.com/t/877364",
+        "date": "2022-09-02"
+      },
+      {
+        "title": "MagSafe Battery Pack 实际使用体验也很差",
+        "link": "https://www.v2ex.com/t/877363",
+        "date": "2022-09-02"
+      },
+      {
+        "title": "看到 PyPI 的供应链攻击，继续来讨论 Chrome 的密码保存",
+        "link": "https://www.v2ex.com/t/877361",
+        "date": "2022-09-02"
+      },
+      {
+        "title": "开发了一个可以运行在 Switch 上的 B 站客户端——wiliwili（没错就是那个游戏机！）",
+        "link": "https://www.v2ex.com/t/877359",
+        "date": "2022-09-02"
+      },
+      {
+        "title": "Wechat 也支持遷移聊天記錄了！",
+        "link": "https://www.v2ex.com/t/877358",
+        "date": "2022-09-02"
+      },
+      {
+        "title": "vue2 项目，本地 dev 模式正常， build 后网页稳定崩溃可能的原因是什么？",
+        "link": "https://www.v2ex.com/t/877357",
+        "date": "2022-09-02"
+      },
+      {
         "title": "m1 mbp 同时使用 pd 和 magsafe 充电",
         "link": "https://www.v2ex.com/t/877355",
         "date": "2022-09-02"
@@ -10126,46 +10156,6 @@
         "title": "今天才知道，非箭头函数和非 native 函数都可以作为构造函数",
         "link": "https://www.v2ex.com/t/877315",
         "date": "2022-09-02"
-      },
-      {
-        "title": "已经开海了为啥广州还没看到新鲜皮皮虾卖呢？",
-        "link": "https://www.v2ex.com/t/877314",
-        "date": "2022-09-02"
-      },
-      {
-        "title": "开发 license 授权， k8s 集群有没有什么唯一标识可以用来生成 key 的",
-        "link": "https://www.v2ex.com/t/877313",
-        "date": "2022-09-02"
-      },
-      {
-        "title": "Namesilo 的默认 DNS 解析生效怎么这么慢？",
-        "link": "https://www.v2ex.com/t/877312",
-        "date": "2022-09-02"
-      },
-      {
-        "title": "tp5.1 队列报错解决",
-        "link": "https://www.v2ex.com/t/877310",
-        "date": "2022-09-02"
-      },
-      {
-        "title": "整点 meme（梗图）",
-        "link": "https://www.v2ex.com/t/877309",
-        "date": "2022-09-02"
-      },
-      {
-        "title": "使用 Canal 异步删除的缓存最终一致性方案 添加异步校验流程如何实现？",
-        "link": "https://www.v2ex.com/t/877308",
-        "date": "2022-09-02"
-      },
-      {
-        "title": "迫于失业写了个 App，上架到应用市场遇到的那些坑",
-        "link": "https://www.v2ex.com/t/877307",
-        "date": "2022-09-02"
-      },
-      {
-        "title": "求问北京 798 附近有没有约篮球的群和组织可以加入",
-        "link": "https://www.v2ex.com/t/877306",
-        "date": "2022-09-02"
       }
     ]
   },
@@ -10174,6 +10164,21 @@
     "title": "技术头条",
     "link": "http://blogread.cn/news/newest.php",
     "items": [
+      {
+        "title": "5 款适用于 Linux 的笔记应用 (linux.cn)",
+        "link": "https://blogread.cn/news/go.php?idItem=15373&url=https%3A%2F%2Flinux.cn%2Farticle-14990-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2022-09-02"
+      },
+      {
+        "title": "美团搜索粗排优化的探索与实践 (tech.meituan.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=15372&url=https%3A%2F%2Ftech.meituan.com%2F2022%2F08%2F11%2Fcoarse-ranking-exploration-practice.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2022-09-02"
+      },
+      {
+        "title": "美团搜索粗排优化的探索与实践 (tech.meituan.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=15371&url=https%3A%2F%2Ftech.meituan.com%2F2022%2F08%2F11%2Fcoarse-ranking-exploration-practice.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2022-09-02"
+      },
       {
         "title": "使用上下游思维实现系统解耦 (insights.thoughtworks.cn)",
         "link": "https://blogread.cn/news/go.php?idItem=15370&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-use-upstream-downstream-thinking-to-system-decoupling%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
@@ -10257,21 +10262,6 @@
       {
         "title": "如何应对开源组件⻛险？软件成分安全分析（SCA）能力的建设与演进 (tech.meituan.com)",
         "link": "https://blogread.cn/news/go.php?idItem=15354&url=https%3A%2F%2Ftech.meituan.com%2F2022%2F05%2F26%2Fconstruction-and-evolution-of-software-component-analysis-capability.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-09-02"
-      },
-      {
-        "title": "Systrace 响应速度实战 3 ：响应速度延伸知识 (androidperformance.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=15353&url=https%3A%2F%2Fandroidperformance.com%2F2021%2F09%2F13%2Fandroid-systrace-Responsiveness-in-action-3%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-09-02"
-      },
-      {
-        "title": "Systrace 响应速度实战 2 ：响应速度实战分析-以启动速度为例 (androidperformance.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=15352&url=https%3A%2F%2Fandroidperformance.com%2F2021%2F09%2F13%2Fandroid-systrace-Responsiveness-in-action-2%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-09-02"
-      },
-      {
-        "title": "Systrace 响应速度实战 1 ：了解响应速度原理 (androidperformance.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=15351&url=https%3A%2F%2Fandroidperformance.com%2F2021%2F09%2F13%2Fandroid-systrace-Responsiveness-in-action-1%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
         "date": "2022-09-02"
       }
     ]
@@ -10387,13 +10377,13 @@
         "date": "2022-09-02"
       },
       {
-        "title": "[推荐] 丢弃掉那些BeanUtils工具类吧，MapStruct真香！！！",
-        "link": "https://toutiao.io/k/6muqkam",
+        "title": "[推荐] 公司新来了一个同事，把权限系统设计的炉火纯青！",
+        "link": "https://toutiao.io/k/6gp2yxu",
         "date": "2022-09-02"
       },
       {
-        "title": "[推荐] 公司新来了一个同事，把权限系统设计的炉火纯青！",
-        "link": "https://toutiao.io/k/6gp2yxu",
+        "title": "[推荐] 聊聊数据库建表的15个小技巧",
+        "link": "https://toutiao.io/k/uym7cfr",
         "date": "2022-09-02"
       },
       {
@@ -10402,8 +10392,8 @@
         "date": "2022-09-02"
       },
       {
-        "title": "[推荐] 聊聊数据库建表的15个小技巧",
-        "link": "https://toutiao.io/k/uym7cfr",
+        "title": "[推荐] 丢弃掉那些BeanUtils工具类吧，MapStruct真香！！！",
+        "link": "https://toutiao.io/k/6muqkam",
         "date": "2022-09-02"
       }
     ]

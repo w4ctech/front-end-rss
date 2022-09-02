@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-09-02 14:39:53，:rocket: 更新条数: +2034， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-09-02 15:15:42，:rocket: 更新条数: +2032， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,12 @@
 </summary>
 
 
+- [2022-09-02-strtotime20171231;到底是否存在问题？](https://www.v2ex.com/t/877364) ![](assets/new.png)  
+- [2022-09-02-MagSafe-Battery-Pack-实际使用体验也很差](https://www.v2ex.com/t/877363) ![](assets/new.png)  
+- [2022-09-02-看到-PyPI-的供应链攻击，继续来讨论-Chrome-的密码保存](https://www.v2ex.com/t/877361) ![](assets/new.png)  
+- [2022-09-02-开发了一个可以运行在-Switch-上的-B-站客户端——wiliwili（没错就是那个游戏机！）](https://www.v2ex.com/t/877359) ![](assets/new.png)  
+- [2022-09-02-Wechat-也支持遷移聊天記錄了！](https://www.v2ex.com/t/877358) ![](assets/new.png)  
+- [2022-09-02-vue2-项目，本地-dev-模式正常，-build-后网页稳定崩溃可能的原因是什么？](https://www.v2ex.com/t/877357) ![](assets/new.png)  
 - [2022-09-02-m1-mbp-同时使用-pd-和-magsafe-充电](https://www.v2ex.com/t/877355) ![](assets/new.png)  
 - [2022-09-02-国家重点研发计划启动-赋能数字身份应用](https://www.v2ex.com/t/877354) ![](assets/new.png)  
 - [2022-09-02-不同的-vscode-项目能否在配置文件中指定自己的-node-版本？](https://www.v2ex.com/t/877353) ![](assets/new.png)  
@@ -505,12 +511,6 @@
 - [2022-09-02-据说感叹号变成了长药丸](https://www.v2ex.com/t/877344) ![](assets/new.png)  
 - [2022-09-02-cacheline-填充的意义](https://www.v2ex.com/t/877343) ![](assets/new.png)  
 - [2022-09-02-有用过-HP-Socket-的-V-友吗，谁知道获取读取结束的状态？](https://www.v2ex.com/t/877342) ![](assets/new.png)  
-- [2022-09-02-iPhone-每次刷上海交通卡都要先亮屏解锁才能刷闸机](https://www.v2ex.com/t/877341) ![](assets/new.png)  
-- [2022-09-02-券商校招社招-Java-开发，欢迎咨询~](https://www.v2ex.com/t/877339) ![](assets/new.png)  
-- [2022-09-02-国外手机系统哪个好？](https://www.v2ex.com/t/877338) ![](assets/new.png)  
-- [2022-09-02-免费送几本-Python-和-Go-语言的书](https://www.v2ex.com/t/877337) ![](assets/new.png)  
-- [2022-09-02-请问大家：从深圳坐船去香港机场，怎么去](https://www.v2ex.com/t/877335) ![](assets/new.png)  
-- [2022-09-02-诡异的-git-权限问题](https://www.v2ex.com/t/877333) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -522,6 +522,9 @@
 </summary>
 
 
+- [2022-09-02-5-款适用于-Linux-的笔记应用-linux.cn](https://blogread.cn/news/go.php?idItem=15373&url=https%3A%2F%2Flinux.cn%2Farticle-14990-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2022-09-02-美团搜索粗排优化的探索与实践-tech.meituan.com](https://blogread.cn/news/go.php?idItem=15372&url=https%3A%2F%2Ftech.meituan.com%2F2022%2F08%2F11%2Fcoarse-ranking-exploration-practice.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2022-09-02-美团搜索粗排优化的探索与实践-tech.meituan.com](https://blogread.cn/news/go.php?idItem=15371&url=https%3A%2F%2Ftech.meituan.com%2F2022%2F08%2F11%2Fcoarse-ranking-exploration-practice.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-09-02-使用上下游思维实现系统解耦-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15370&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-use-upstream-downstream-thinking-to-system-decoupling%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-09-02-Flutter动态化实践-tech.meituan.com](https://blogread.cn/news/go.php?idItem=15369&url=https%3A%2F%2Ftech.meituan.com%2F2020%2F06%2F23%2Fmeituan-flutter-flap.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-09-02-Linux提权手法实战-blog.nsfocus.net](https://blogread.cn/news/go.php?idItem=15368&url=http%3A%2F%2Fblog.nsfocus.net%2Flinux%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
@@ -539,9 +542,6 @@
 - [2022-09-02-HTML-slot-插槽元素深入-www.zhangxinxu.com](https://blogread.cn/news/go.php?idItem=15356&url=https%3A%2F%2Fwww.zhangxinxu.com%2Fwordpress%2F2021%2F09%2Fhtml-slot-dom%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-09-02-使用-Docker-来运行-HuggingFace-海量模型-soulteary.com](https://blogread.cn/news/go.php?idItem=15355&url=https%3A%2F%2Fsoulteary.com%2F2022%2F05%2F20%2Fuse-docker-to-run-huggingface-models.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-09-02-如何应对开源组件⻛险？软件成分安全分析（SCA）能力的建设与演进-tech.meituan.com](https://blogread.cn/news/go.php?idItem=15354&url=https%3A%2F%2Ftech.meituan.com%2F2022%2F05%2F26%2Fconstruction-and-evolution-of-software-component-analysis-capability.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-09-02-Systrace-响应速度实战-3-：响应速度延伸知识-androidperformance.com](https://blogread.cn/news/go.php?idItem=15353&url=https%3A%2F%2Fandroidperformance.com%2F2021%2F09%2F13%2Fandroid-systrace-Responsiveness-in-action-3%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-09-02-Systrace-响应速度实战-2-：响应速度实战分析-以启动速度为例-androidperformance.com](https://blogread.cn/news/go.php?idItem=15352&url=https%3A%2F%2Fandroidperformance.com%2F2021%2F09%2F13%2Fandroid-systrace-Responsiveness-in-action-2%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-09-02-Systrace-响应速度实战-1-：了解响应速度原理-androidperformance.com](https://blogread.cn/news/go.php?idItem=15351&url=https%3A%2F%2Fandroidperformance.com%2F2021%2F09%2F13%2Fandroid-systrace-Responsiveness-in-action-1%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

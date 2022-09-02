@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-09-01 23:44:31。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-02 01:12:15。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 前端进阶相关
 
@@ -10,3 +10,4 @@
 - [2022-09-01-上海-招聘-C++工程师、前端全栈开发](https://www.v2ex.com/t/877139) 
 - [2022-09-01-如果-tmux-也有类似-vim-tabpage-variable-的机制就好了](https://www.v2ex.com/t/877135) 
 - [2022-09-01-nginx-反代-https-源站，为啥-upstream-源站变成-https://ip/XXX](https://www.v2ex.com/t/877124) 
+- [2022-09-02-基于AI算法的数据库异常监测系统的设计与实现](https://toutiao.io/k/gqlclap) 

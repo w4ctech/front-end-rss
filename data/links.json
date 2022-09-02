@@ -9810,58 +9810,7 @@
     "rss": "https://www.zhangxinxu.com/wordpress/feed/",
     "title": "张鑫旭-鑫空间-鑫生活",
     "link": "https://www.zhangxinxu.com/wordpress",
-    "items": [
-      {
-        "title": "gitee上撸了个类似飞书OKR输入框的@提及项目",
-        "link": "https://www.zhangxinxu.com/wordpress/2022/08/gitee-feishu-okr-at-mention/",
-        "date": "2022-08-31"
-      },
-      {
-        "title": "来了，来了，CSS :has()伪类她来了",
-        "link": "https://www.zhangxinxu.com/wordpress/2022/08/css-has-pseudo-class/",
-        "date": "2022-08-24"
-      },
-      {
-        "title": "JS replaceAll 和 matchAll 使用指南不指北",
-        "link": "https://www.zhangxinxu.com/wordpress/2022/08/js-replaceall-matchall/",
-        "date": "2022-08-21"
-      },
-      {
-        "title": "万物皆可clip-path，纯CSS绘制0-9数字",
-        "link": "https://www.zhangxinxu.com/wordpress/2022/07/clip-path-css-number/",
-        "date": "2022-07-27"
-      },
-      {
-        "title": "超酷！CSS font-palette与彩色字体显示",
-        "link": "https://www.zhangxinxu.com/wordpress/2022/07/css-font-palette/",
-        "date": "2022-07-21"
-      },
-      {
-        "title": "CSS排版为何强？瞧瞧多牛这换行",
-        "link": "https://www.zhangxinxu.com/wordpress/2022/06/css-line-break-word-wrap-all/",
-        "date": "2022-06-30"
-      },
-      {
-        "title": "如何继承自定义元素及其他JS中扩展新方法",
-        "link": "https://www.zhangxinxu.com/wordpress/2022/06/js-extend-class-custom-elements/",
-        "date": "2022-06-19"
-      },
-      {
-        "title": "基于文字的URL锚点定位与::target-text样式设置",
-        "link": "https://www.zhangxinxu.com/wordpress/2022/06/url-anchor-target-text/",
-        "date": "2022-06-12"
-      },
-      {
-        "title": "介绍一种CSS变量未定义语法也OK的小妙招",
-        "link": "https://www.zhangxinxu.com/wordpress/2022/06/css-var-optional-empty-trick/",
-        "date": "2022-06-11"
-      },
-      {
-        "title": "如何实现页面刷新后不定位到之前的滚动位置？",
-        "link": "https://www.zhangxinxu.com/wordpress/2022/05/history-scrollrestoration/",
-        "date": "2022-05-29"
-      }
-    ]
+    "items": []
   },
   {
     "rss": "http://www.ruanyifeng.com/blog/atom.xml",
@@ -9953,13 +9902,68 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
-        "title": "怎么看待在 sringboot 项目内存中加载大批量数据进行内存统计",
-        "link": "https://www.v2ex.com/t/877246",
+        "title": "好工具周刊（第 28 期）: DuckDuckGo Email Protection, BentoJam, Hacker News RSS, hnapp, Hacker News Digest, HN Mail, ...",
+        "link": "https://www.v2ex.com/t/877264",
         "date": "2022-09-02"
       },
       {
-        "title": "想到个可控核聚变的应用方式",
-        "link": "https://www.v2ex.com/t/877245",
+        "title": "[数据库方向开发职位] [北、上、杭、深、广、西、成、remote 等]",
+        "link": "https://www.v2ex.com/t/877262",
+        "date": "2022-09-02"
+      },
+      {
+        "title": "你们有遇见过微信有时候收到图片下半部分不显示的吗?",
+        "link": "https://www.v2ex.com/t/877261",
+        "date": "2022-09-02"
+      },
+      {
+        "title": "[北京/上海/杭州/深圳/广州] [社招] TikTok 服务架构高级工程师",
+        "link": "https://www.v2ex.com/t/877259",
+        "date": "2022-09-02"
+      },
+      {
+        "title": "上海、西安电子计算机岗位芯片类",
+        "link": "https://www.v2ex.com/t/877257",
+        "date": "2022-09-02"
+      },
+      {
+        "title": "万物皆可集成系列：低代码如何不成为数据孤岛",
+        "link": "https://www.v2ex.com/t/877255",
+        "date": "2022-09-02"
+      },
+      {
+        "title": "毫无疑问， 区块链就是互联网乃至 IT 技术发展史上的一段弯路！",
+        "link": "https://www.v2ex.com/t/877254",
+        "date": "2022-09-02"
+      },
+      {
+        "title": "邮件第三方提供商（海外）",
+        "link": "https://www.v2ex.com/t/877252",
+        "date": "2022-09-02"
+      },
+      {
+        "title": "各位好哥哥们，请问如何实现用 Siri 播放 NAS 里的音乐。。。。",
+        "link": "https://www.v2ex.com/t/877251",
+        "date": "2022-09-02"
+      },
+      {
+        "title": "普通人能读完 Linux 的源码么",
+        "link": "https://www.v2ex.com/t/877250",
+        "date": "2022-09-02"
+      },
+      {
+        "title": "IPV6 ping 通但无法访问网页",
+        "link": "https://www.v2ex.com/t/877249",
+        "date": "2022-09-02"
+      },
+      {
+        "title": "各位拆迁户， vim 普通用户保存，这条指令怎么理解呢",
+        "link": "https://www.v2ex.com/t/877248",
+        "date": "2022-09-02"
+      },
+      {
+        "title": "怎么看待在 sringboot 项目内存中加载大批量数据进行内存统计",
+        "link": "https://www.v2ex.com/t/877246",
         "date": "2022-09-02"
       },
       {
@@ -10065,71 +10069,6 @@
       {
         "title": "我的日常摸鱼神器一",
         "link": "https://www.v2ex.com/t/877215",
-        "date": "2022-09-02"
-      },
-      {
-        "title": "有没有 Codepilot 的替代/接近的免费方案",
-        "link": "https://www.v2ex.com/t/877214",
-        "date": "2022-09-02"
-      },
-      {
-        "title": "国内银行工行暂停贵金属买入交易，你们炒黄金都在什么平台操作？",
-        "link": "https://www.v2ex.com/t/877213",
-        "date": "2022-09-02"
-      },
-      {
-        "title": "风力发电，风经过扇叶被拦截，对整个大自然来说会有什么后遗症？",
-        "link": "https://www.v2ex.com/t/877212",
-        "date": "2022-09-02"
-      },
-      {
-        "title": "请教一下获取最后一次数据的 sql 写法",
-        "link": "https://www.v2ex.com/t/877210",
-        "date": "2022-09-02"
-      },
-      {
-        "title": "想问下大家用最新版的 github copilot 登录初始化失败的问题",
-        "link": "https://www.v2ex.com/t/877209",
-        "date": "2022-09-02"
-      },
-      {
-        "title": "现在系统自带的“中国节假日”日历包含调休信息了？",
-        "link": "https://www.v2ex.com/t/877208",
-        "date": "2022-09-02"
-      },
-      {
-        "title": "世界杯级别的售票网站，用 UI 组件库写会不会有点 low?",
-        "link": "https://www.v2ex.com/t/877207",
-        "date": "2022-09-02"
-      },
-      {
-        "title": "jetbrains 涨价还剩一个月，别忘了续费，",
-        "link": "https://www.v2ex.com/t/877206",
-        "date": "2022-09-02"
-      },
-      {
-        "title": "求教：最近对 LOL 中野怪计时，攻击范围显示等技术很感兴趣，想问下 V 友们知道是如何实现的吗",
-        "link": "https://www.v2ex.com/t/877204",
-        "date": "2022-09-02"
-      },
-      {
-        "title": "求上海浦东驾校推荐",
-        "link": "https://www.v2ex.com/t/877203",
-        "date": "2022-09-02"
-      },
-      {
-        "title": "日经，稳定理财选哪家，年华超越招行月月宝的",
-        "link": "https://www.v2ex.com/t/877202",
-        "date": "2022-09-02"
-      },
-      {
-        "title": "某知名国企-分布式存储研发专家的机会",
-        "link": "https://www.v2ex.com/t/877201",
-        "date": "2022-09-02"
-      },
-      {
-        "title": "wireguard-windows 客户端总会失联，求解决办法",
-        "link": "https://www.v2ex.com/t/877200",
         "date": "2022-09-02"
       }
     ]
@@ -10297,13 +10236,13 @@
         "date": "2022-09-02"
       },
       {
-        "title": "我们需要什么样的产业AI?",
-        "link": "https://toutiao.io/k/2b83cy3",
+        "title": "懒人想入门云原生安全？建议先看这两个行业案例",
+        "link": "https://toutiao.io/k/kmy9af4",
         "date": "2022-09-02"
       },
       {
-        "title": "懒人想入门云原生安全？建议先看这两个行业案例",
-        "link": "https://toutiao.io/k/kmy9af4",
+        "title": "我们需要什么样的产业AI?",
+        "link": "https://toutiao.io/k/2b83cy3",
         "date": "2022-09-02"
       },
       {
@@ -10347,13 +10286,8 @@
         "date": "2022-09-02"
       },
       {
-        "title": "[推荐] 聊聊数据库建表的15个小技巧",
-        "link": "https://toutiao.io/k/uym7cfr",
-        "date": "2022-09-02"
-      },
-      {
-        "title": "[推荐] 一文读懂 | Linux系统启动过程",
-        "link": "https://toutiao.io/k/tiobp8c",
+        "title": "[推荐] 丢弃掉那些BeanUtils工具类吧，MapStruct真香！！！",
+        "link": "https://toutiao.io/k/6muqkam",
         "date": "2022-09-02"
       },
       {
@@ -10367,8 +10301,13 @@
         "date": "2022-09-02"
       },
       {
-        "title": "[推荐] 丢弃掉那些BeanUtils工具类吧，MapStruct真香！！！",
-        "link": "https://toutiao.io/k/6muqkam",
+        "title": "[推荐] 聊聊数据库建表的15个小技巧",
+        "link": "https://toutiao.io/k/uym7cfr",
+        "date": "2022-09-02"
+      },
+      {
+        "title": "[推荐] 一文读懂 | Linux系统启动过程",
+        "link": "https://toutiao.io/k/tiobp8c",
         "date": "2022-09-02"
       }
     ]

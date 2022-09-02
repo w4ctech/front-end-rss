@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-09-02 16:19:29，:rocket: 更新条数: +2031， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-09-02 16:59:16，:rocket: 更新条数: +2032， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,13 @@
 </summary>
 
 
+- [2022-09-02-求推荐正宗的风干牛肉干](https://www.v2ex.com/t/877378) ![](assets/new.png)  
+- [2022-09-02-要求下班关电脑的公司是不是很-low？](https://www.v2ex.com/t/877377) ![](assets/new.png)  
+- [2022-09-02-iPhone-相机拍猫，毛发会变得怪异](https://www.v2ex.com/t/877376) ![](assets/new.png)  
+- [2022-09-02-请问使用-Microsoft-Remote-Desktop-从-Mac-远程连接-Windows-的时候可以像-Teamviewer-一样进行等比缩放吗-？](https://www.v2ex.com/t/877375) ![](assets/new.png)  
+- [2022-09-02-rime-怎麽把觸控鍵盤改大一點和注音顯示](https://www.v2ex.com/t/877374) ![](assets/new.png)  
+- [2022-09-02-明天去看车，如何跟销售谈价格？](https://www.v2ex.com/t/877373) ![](assets/new.png)  
+- [2022-09-02-周末大家买菜了吗？](https://www.v2ex.com/t/877372) ![](assets/new.png)  
 - [2022-09-02-心理不平衡怎么办](https://www.v2ex.com/t/877371) ![](assets/new.png)  
 - [2022-09-02-深圳最近还有没有能办理的便宜宽带](https://www.v2ex.com/t/877370) ![](assets/new.png)  
 - [2022-09-02-目标已经确定，关于-Python-的学习方向](https://www.v2ex.com/t/877369) ![](assets/new.png)  
@@ -504,13 +511,6 @@
 - [2022-09-02-Wechat-也支持遷移聊天記錄了！](https://www.v2ex.com/t/877358) ![](assets/new.png)  
 - [2022-09-02-vue2-项目，本地-dev-模式正常，-build-后网页稳定崩溃可能的原因是什么？](https://www.v2ex.com/t/877357) ![](assets/new.png)  
 - [2022-09-02-m1-mbp-同时使用-pd-和-magsafe-充电](https://www.v2ex.com/t/877355) ![](assets/new.png)  
-- [2022-09-02-国家重点研发计划启动-赋能数字身份应用](https://www.v2ex.com/t/877354) ![](assets/new.png)  
-- [2022-09-02-不同的-vscode-项目能否在配置文件中指定自己的-node-版本？](https://www.v2ex.com/t/877353) ![](assets/new.png)  
-- [2022-09-02-保密教育](https://www.v2ex.com/t/877352) ![](assets/new.png)  
-- [2022-09-02-Android-和-iOS-双持，谈谈开放的-Android-不如封闭的-iOS-的一个地方](https://www.v2ex.com/t/877351) ![](assets/new.png)  
-- [2022-09-02-在-Mac-Chrome-上看-Netflix-黑屏，原来是因为外接显示器-iPad-Sidecar](https://www.v2ex.com/t/877350) ![](assets/new.png)  
-- [2022-09-02-真诚发问，求助一个关于-Java-的-domain-层的疑问](https://www.v2ex.com/t/877349) ![](assets/new.png)  
-- [2022-09-02-请问-Firefox-怎么像-Chrome-一样使用搜索引擎的快捷键呢](https://www.v2ex.com/t/877348) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

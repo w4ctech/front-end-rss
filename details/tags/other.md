@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-09-02 17:44:07。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-02 18:18:53。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,7 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-09-02-阿里云刻意设置障碍阻碍用户注销账号](https://www.v2ex.com/t/877381) 
 - [2022-09-02-成都的志愿者是真的可怜。](https://www.v2ex.com/t/877380) 
 - [2022-09-02-开启-passwall2-以后-ddns-解析不到正确的-ip](https://www.v2ex.com/t/877379) 
 - [2022-09-02-求推荐正宗的风干牛肉干](https://www.v2ex.com/t/877378) 
@@ -1944,7 +1945,6 @@
 - [2022-09-02-免费送几本-Python-和-Go-语言的书](https://www.v2ex.com/t/877337) 
 - [2022-09-02-请问大家：从深圳坐船去香港机场，怎么去](https://www.v2ex.com/t/877335) 
 - [2022-09-02-Windows11-很智障的一点……](https://www.v2ex.com/t/877332) 
-- [2022-09-02-幼儿园任务繁重，求助解决方案](https://www.v2ex.com/t/877331) 
 - [2022-09-02-5-款适用于-Linux-的笔记应用-linux.cn](https://blogread.cn/news/go.php?idItem=15373&url=https%3A%2F%2Flinux.cn%2Farticle-14990-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-09-02-使用上下游思维实现系统解耦-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15370&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-use-upstream-downstream-thinking-to-system-decoupling%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-09-02-Linux提权手法实战-blog.nsfocus.net](https://blogread.cn/news/go.php?idItem=15368&url=http%3A%2F%2Fblog.nsfocus.net%2Flinux%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

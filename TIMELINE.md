@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-09-02 17:44:07。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-09-02 18:18:53。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,7 @@
 </summary>
 
 
+- [【V2EX】2022-09-02-阿里云刻意设置障碍阻碍用户注销账号](https://www.v2ex.com/t/877381) 
 - [【V2EX】2022-09-02-成都的志愿者是真的可怜。](https://www.v2ex.com/t/877380) 
 - [【V2EX】2022-09-02-开启-passwall2-以后-ddns-解析不到正确的-ip](https://www.v2ex.com/t/877379) 
 - [【V2EX】2022-09-02-求推荐正宗的风干牛肉干](https://www.v2ex.com/t/877378) 
@@ -110,7 +111,6 @@
 - [【V2EX】2022-09-02-请问大家：从深圳坐船去香港机场，怎么去](https://www.v2ex.com/t/877335) 
 - [【V2EX】2022-09-02-诡异的-git-权限问题](https://www.v2ex.com/t/877333) 
 - [【V2EX】2022-09-02-Windows11-很智障的一点……](https://www.v2ex.com/t/877332) 
-- [【V2EX】2022-09-02-幼儿园任务繁重，求助解决方案](https://www.v2ex.com/t/877331) 
 - [【技术头条】2022-09-02-5-款适用于-Linux-的笔记应用-linux.cn](https://blogread.cn/news/go.php?idItem=15373&url=https%3A%2F%2Flinux.cn%2Farticle-14990-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-09-02-美团搜索粗排优化的探索与实践-tech.meituan.com](https://blogread.cn/news/go.php?idItem=15372&url=https%3A%2F%2Ftech.meituan.com%2F2022%2F08%2F11%2Fcoarse-ranking-exploration-practice.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-09-02-美团搜索粗排优化的探索与实践-tech.meituan.com](https://blogread.cn/news/go.php?idItem=15371&url=https%3A%2F%2Ftech.meituan.com%2F2022%2F08%2F11%2Fcoarse-ranking-exploration-practice.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

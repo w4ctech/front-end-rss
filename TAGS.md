@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-09-02 07:44:22。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-02 08:17:53。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -121,7 +121,6 @@
 
 
 
-- [【V2EX】问个关于公众号、小程序名称保护的问题](https://www.v2ex.com/t/877226)
 - [......【查看更多】......](./details/tags/miniprogram.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -239,6 +238,7 @@
 
 - [【武汉肺炎防疫全纪录(财新网)】广州17岁男生在定点医院参加高考-特殊考场视频监考](https://m.caixin.com/m/2021-06-05/101723418.html)
 - [【武汉肺炎防疫全纪录(财新网)】林郑月娥率13高官直播接种科兴疫苗-复星疫苗预计周中到港](https://m.caixin.com/m/2021-02-22/101665724.html)
+- [【V2EX】用来无聊时刷-b-站视频的油猴脚本](https://www.v2ex.com/t/877281)
 - [【开发者头条】直播回顾-|-分享基于Flink的实时数仓搭建秘诀！附课件下载√](https://toutiao.io/k/98502su)
 - [......【查看更多】......](./details/tags/audio-video.md)
 
@@ -281,8 +281,6 @@
 - [【武汉肺炎防疫全纪录(财新网)】解药|新冠mRNA疫苗安全性有哪些挑战？](https://m.caixin.com/m/2021-01-08/101648043.html)
 - [【武汉肺炎防疫全纪录(财新网)】大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html)
 - [【张鑫旭-鑫空间-鑫生活】基于文字的URL锚点定位与::target-text样式设置](https://www.zhangxinxu.com/wordpress/2022/06/url-anchor-target-text/)
-- [【V2EX】想问切换浏览器窗口桌面会黑屏怎么回事？](https://www.v2ex.com/t/877228)
-- [【V2EX】telegram-web-端-没有使用-websocket-是如何接收消息呢？](https://www.v2ex.com/t/877227)
 - [【开发者头条】懒人想入门云原生安全？建议先看这两个行业案例](https://toutiao.io/k/kmy9af4)
 - [......【查看更多】......](./details/tags/browser.md)
 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-09-02 19:37:05，:rocket: 更新条数: +2033， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-09-02 20:15:49，:rocket: 更新条数: +2032， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -566,8 +566,8 @@
 - [2022-09-02-从全局角度，如何设计一个秒杀系统？](https://toutiao.io/k/3km5fur) ![](assets/new.png)  
 - [2022-09-02-在树莓派中使用-MicroPython-接入-MQTT](https://toutiao.io/k/4921osp) ![](assets/new.png)  
 - [2022-09-02-数据与广告系列三十三：搜索广告，如何在用户搜索过程中优雅的夹带“私货”](https://toutiao.io/k/k9d6cuu) ![](assets/new.png)  
-- [2022-09-02-我们需要什么样的产业AI?](https://toutiao.io/k/2b83cy3) ![](assets/new.png)  
 - [2022-09-02-懒人想入门云原生安全？建议先看这两个行业案例](https://toutiao.io/k/kmy9af4) ![](assets/new.png)  
+- [2022-09-02-我们需要什么样的产业AI?](https://toutiao.io/k/2b83cy3) ![](assets/new.png)  
 - [2022-09-02-Rust源码剖析：Lint---CombinedLintPass](https://toutiao.io/k/9gribw6) ![](assets/new.png)  
 - [2022-09-02-仔细研究-Gogolang-类型系统](https://toutiao.io/k/rk9wo63) ![](assets/new.png)  
 - [2022-09-02-玉伯的产品思考：技术人如何做产品](https://toutiao.io/k/vmkzzj5) ![](assets/new.png)  

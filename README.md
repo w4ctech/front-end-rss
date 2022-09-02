@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-09-02 15:44:41，:rocket: 更新条数: +2032， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-09-02 16:19:29，:rocket: 更新条数: +2031， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,9 @@
 </summary>
 
 
+- [2022-09-02-心理不平衡怎么办](https://www.v2ex.com/t/877371) ![](assets/new.png)  
+- [2022-09-02-深圳最近还有没有能办理的便宜宽带](https://www.v2ex.com/t/877370) ![](assets/new.png)  
+- [2022-09-02-目标已经确定，关于-Python-的学习方向](https://www.v2ex.com/t/877369) ![](assets/new.png)  
 - [2022-09-02-被套路的感觉真不爽，骑哈啰单车有感](https://www.v2ex.com/t/877368) ![](assets/new.png)  
 - [2022-09-02-如果搞一个开源的核酸采集系统，有可能被采用吗？](https://www.v2ex.com/t/877367) ![](assets/new.png)  
 - [2022-09-02-话说有没有人开源一个核酸检测系统](https://www.v2ex.com/t/877366) ![](assets/new.png)  
@@ -508,9 +511,6 @@
 - [2022-09-02-在-Mac-Chrome-上看-Netflix-黑屏，原来是因为外接显示器-iPad-Sidecar](https://www.v2ex.com/t/877350) ![](assets/new.png)  
 - [2022-09-02-真诚发问，求助一个关于-Java-的-domain-层的疑问](https://www.v2ex.com/t/877349) ![](assets/new.png)  
 - [2022-09-02-请问-Firefox-怎么像-Chrome-一样使用搜索引擎的快捷键呢](https://www.v2ex.com/t/877348) ![](assets/new.png)  
-- [2022-09-02-机场节点怎么简单测速啊](https://www.v2ex.com/t/877347) ![](assets/new.png)  
-- [2022-09-02-东芝的-1-移动-T-硬盘，里面的文档都变成-0kb-了，这是咋回事](https://www.v2ex.com/t/877346) ![](assets/new.png)  
-- [2022-09-02-推荐三个质量不错的掘金小册](https://www.v2ex.com/t/877345) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -569,8 +569,8 @@
 - [2022-09-02-我们需要什么样的产业AI?](https://toutiao.io/k/2b83cy3) ![](assets/new.png)  
 - [2022-09-02-懒人想入门云原生安全？建议先看这两个行业案例](https://toutiao.io/k/kmy9af4) ![](assets/new.png)  
 - [2022-09-02-Rust源码剖析：Lint---CombinedLintPass](https://toutiao.io/k/9gribw6) ![](assets/new.png)  
-- [2022-09-02-玉伯的产品思考：技术人如何做产品](https://toutiao.io/k/vmkzzj5) ![](assets/new.png)  
 - [2022-09-02-仔细研究-Gogolang-类型系统](https://toutiao.io/k/rk9wo63) ![](assets/new.png)  
+- [2022-09-02-玉伯的产品思考：技术人如何做产品](https://toutiao.io/k/vmkzzj5) ![](assets/new.png)  
 - [2022-09-02-cmake使用方法详解---Windows-Linux-MacOS-cmake安装教程](https://toutiao.io/k/d8lldbl) ![](assets/new.png)  
 - [2022-09-02-解锁云原生新场景-|-云原生加速云边端一体化发展](https://toutiao.io/k/2alb3c8) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)

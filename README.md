@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-09-02 17:22:29，:rocket: 更新条数: +2033， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-09-02 17:44:07，:rocket: 更新条数: +2033， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-09-02-成都的志愿者是真的可怜。](https://www.v2ex.com/t/877380) ![](assets/new.png)  
 - [2022-09-02-开启-passwall2-以后-ddns-解析不到正确的-ip](https://www.v2ex.com/t/877379) ![](assets/new.png)  
 - [2022-09-02-求推荐正宗的风干牛肉干](https://www.v2ex.com/t/877378) ![](assets/new.png)  
 - [2022-09-02-要求下班关电脑的公司是不是很-low？](https://www.v2ex.com/t/877377) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-09-02-看到-PyPI-的供应链攻击，继续来讨论-Chrome-的密码保存](https://www.v2ex.com/t/877361) ![](assets/new.png)  
 - [2022-09-02-开发了一个可以运行在-Switch-上的-B-站客户端——wiliwili（没错就是那个游戏机！）](https://www.v2ex.com/t/877359) ![](assets/new.png)  
 - [2022-09-02-Wechat-也支持遷移聊天記錄了！](https://www.v2ex.com/t/877358) ![](assets/new.png)  
-- [2022-09-02-vue2-项目，本地-dev-模式正常，-build-后网页稳定崩溃可能的原因是什么？](https://www.v2ex.com/t/877357) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

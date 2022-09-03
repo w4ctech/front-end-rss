@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-09-03 03:42:54。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-03 04:58:39。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -281,7 +281,6 @@
 - [【张鑫旭-鑫空间-鑫生活】基于文字的URL锚点定位与::target-text样式设置](https://www.zhangxinxu.com/wordpress/2022/06/url-anchor-target-text/)
 - [【V2EX】防止第三方程序访问浏览器本地敏感数据](https://www.v2ex.com/t/877410)
 - [【V2EX】现在-android-浏览器访问拦截不支持了吗？](https://www.v2ex.com/t/877390)
-- [【V2EX】请问使用-Microsoft-Remote-Desktop-从-Mac-远程连接-Windows-的时候可以像-Teamviewer-一样进行等比缩放吗-？](https://www.v2ex.com/t/877375)
 - [......【查看更多】......](./details/tags/browser.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -315,7 +314,6 @@
 
 
 - [【技术头条】使用-Docker-来运行-HuggingFace-海量模型-soulteary.com](https://blogread.cn/news/go.php?idItem=15355&url=https%3A%2F%2Fsoulteary.com%2F2022%2F05%2F20%2Fuse-docker-to-run-huggingface-models.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
-- [【开发者头条】前端抢饭碗系列之初识Docker容器化部署](https://toutiao.io/k/msyssih)
 - [......【查看更多】......](./details/tags/server.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

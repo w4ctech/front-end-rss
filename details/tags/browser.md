@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-09-03 03:42:54。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-03 04:58:39。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -16,4 +16,3 @@
 - [2022-06-12-基于文字的URL锚点定位与::target-text样式设置](https://www.zhangxinxu.com/wordpress/2022/06/url-anchor-target-text/) 
 - [2022-09-03-防止第三方程序访问浏览器本地敏感数据](https://www.v2ex.com/t/877410) 
 - [2022-09-03-现在-android-浏览器访问拦截不支持了吗？](https://www.v2ex.com/t/877390) 
-- [2022-09-02-请问使用-Microsoft-Remote-Desktop-从-Mac-远程连接-Windows-的时候可以像-Teamviewer-一样进行等比缩放吗-？](https://www.v2ex.com/t/877375) 

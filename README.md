@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-09-03 17:41:20，:rocket: 更新条数: +2019， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-09-03 18:17:44，:rocket: 更新条数: +2019， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -563,9 +563,9 @@
 - [2022-09-03-不再写-Python-for-循环](https://toutiao.io/k/i3jtfpa) ![](assets/new.png)  
 - [2022-09-03-前端抢饭碗系列之初识Docker容器化部署](https://toutiao.io/k/msyssih) ![](assets/new.png)  
 - [2022-09-03-PyTorch-常用-Tricks-总结](https://toutiao.io/k/wyuw0dr) ![](assets/new.png)  
-- [2022-09-03-推荐-什么是顶级的思维？](https://toutiao.io/k/ulqvlcd) ![](assets/new.png)  
-- [2022-09-03-推荐-丢弃掉那些BeanUtils工具类吧，MapStruct真香！！！](https://toutiao.io/k/6muqkam) ![](assets/new.png)  
 - [2022-09-03-推荐-Java线上CPU内存冲高问题排查步骤](https://toutiao.io/k/t9sj17s) ![](assets/new.png)  
+- [2022-09-03-推荐-丢弃掉那些BeanUtils工具类吧，MapStruct真香！！！](https://toutiao.io/k/6muqkam) ![](assets/new.png)  
+- [2022-09-03-推荐-什么是顶级的思维？](https://toutiao.io/k/ulqvlcd) ![](assets/new.png)  
 - [2022-09-03-推荐-聊聊数据库建表的15个小技巧](https://toutiao.io/k/uym7cfr) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

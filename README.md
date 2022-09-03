@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-09-03 01:08:44，:rocket: 更新条数: +2017， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-09-03 03:42:54，:rocket: 更新条数: +2018， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,26 +491,26 @@
 </summary>
 
 
+- [2022-09-03-我现在只想搞钱](https://www.v2ex.com/t/877414) ![](assets/new.png)  
+- [2022-09-03-破音响与-jazz-可能是绝配😂](https://www.v2ex.com/t/877413) ![](assets/new.png)  
+- [2022-09-03-关于-CSS-中的-em-单位的计算，-95%的前端都误解了。](https://www.v2ex.com/t/877412) ![](assets/new.png)  
+- [2022-09-03-mac-email-添加谷歌邮箱后，只能收邮件，不能发送](https://www.v2ex.com/t/877411) ![](assets/new.png)  
+- [2022-09-03-防止第三方程序访问浏览器本地敏感数据](https://www.v2ex.com/t/877410) ![](assets/new.png)  
+- [2022-09-03-你最后一次核酸检测是什么时候？](https://www.v2ex.com/t/877408) ![](assets/new.png)  
+- [2022-09-03-屏幕开启-HDR-偶尔闪屏](https://www.v2ex.com/t/877406) ![](assets/new.png)  
+- [2022-09-03-2017-MBP-Wi-Fi-6-兼容性疑问](https://www.v2ex.com/t/877405) ![](assets/new.png)  
+- [2022-09-03-求助一篇关于三峡的古文](https://www.v2ex.com/t/877404) ![](assets/new.png)  
+- [2022-09-03-腾讯云有多流氓，给大家展示展示！](https://www.v2ex.com/t/877403) ![](assets/new.png)  
+- [2022-09-03-很久没回老家了，大家有啥推荐的送父母长辈的礼物吗？](https://www.v2ex.com/t/877402) ![](assets/new.png)  
+- [2022-09-03-iPad-如何在视频上做笔记？之前看到有同学在-b-站上播放的网课视频，一边看一边可以在视频上标记，求方法？](https://www.v2ex.com/t/877401) ![](assets/new.png)  
+- [2022-09-03-MBP-64G-内存使用体验怎么样](https://www.v2ex.com/t/877400) ![](assets/new.png)  
+- [2022-09-03-当我更换-mac-m2-芯片-无法使用使用-mysql2-报错-symbol-not-found-in-flat-namespace-_mysql_affected_rows](https://www.v2ex.com/t/877398) ![](assets/new.png)  
+- [2022-09-03-macOS-dropbox-登录不了](https://www.v2ex.com/t/877397) ![](assets/new.png)  
+- [2022-09-03-劳动关系变更套路](https://www.v2ex.com/t/877396) ![](assets/new.png)  
+- [2022-09-03-合肥最近还有没有能办理的便宜宽带](https://www.v2ex.com/t/877395) ![](assets/new.png)  
+- [2022-09-03-腾讯-QQ-强制人脸识别，搜集的海量用户人脸录像是存在腾讯-，还是只是验证一下-？](https://www.v2ex.com/t/877394) ![](assets/new.png)  
+- [2022-09-03-golang-中如何正确统一整合-log？](https://www.v2ex.com/t/877393) ![](assets/new.png)  
 - [2022-09-03-关于弃用-Github-Trending-社区讨论官方的回复](https://www.v2ex.com/t/877391) ![](assets/new.png)  
-- [2022-09-03-现在-android-浏览器访问拦截不支持了吗？](https://www.v2ex.com/t/877390) ![](assets/new.png)  
-- [2022-09-03-蔚来汽车应聘总结:-高职薪招揽，低职薪-offer](https://www.v2ex.com/t/877388) ![](assets/new.png)  
-- [2022-09-03-关于软件购买扣税问题](https://www.v2ex.com/t/877387) ![](assets/new.png)  
-- [2022-09-03-mac-下-onedrive-如何同步已有文件夹？](https://www.v2ex.com/t/877386) ![](assets/new.png)  
-- [2022-09-02-我部署了一个可以在国内正常使用的-Snapdrop](https://www.v2ex.com/t/877385) ![](assets/new.png)  
-- [2022-09-02-分享一个休闲复古的背单词-文曲星猜单词](https://www.v2ex.com/t/877384) ![](assets/new.png)  
-- [2022-09-02-张三获得了两万元，是否算作非法所得？](https://www.v2ex.com/t/877382) ![](assets/new.png)  
-- [2022-09-02-阿里云刻意设置障碍阻碍用户注销账号](https://www.v2ex.com/t/877381) ![](assets/new.png)  
-- [2022-09-02-开启-passwall2-以后-ddns-解析不到正确的-ip](https://www.v2ex.com/t/877379) ![](assets/new.png)  
-- [2022-09-02-求推荐正宗的风干牛肉干](https://www.v2ex.com/t/877378) ![](assets/new.png)  
-- [2022-09-02-要求下班关电脑的公司是不是很-low？](https://www.v2ex.com/t/877377) ![](assets/new.png)  
-- [2022-09-02-iPhone-相机拍猫，毛发会变得怪异](https://www.v2ex.com/t/877376) ![](assets/new.png)  
-- [2022-09-02-请问使用-Microsoft-Remote-Desktop-从-Mac-远程连接-Windows-的时候可以像-Teamviewer-一样进行等比缩放吗-？](https://www.v2ex.com/t/877375) ![](assets/new.png)  
-- [2022-09-02-rime-怎麽把觸控鍵盤改大一點和注音顯示](https://www.v2ex.com/t/877374) ![](assets/new.png)  
-- [2022-09-02-明天去看车，如何跟销售谈价格？](https://www.v2ex.com/t/877373) ![](assets/new.png)  
-- [2022-09-02-周末大家买菜了吗？](https://www.v2ex.com/t/877372) ![](assets/new.png)  
-- [2022-09-02-心理不平衡怎么办](https://www.v2ex.com/t/877371) ![](assets/new.png)  
-- [2022-09-02-深圳最近还有没有能办理的便宜宽带](https://www.v2ex.com/t/877370) ![](assets/new.png)  
-- [2022-09-02-目标已经确定，关于-Python-的学习方向](https://www.v2ex.com/t/877369) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -558,10 +558,13 @@
 - [2022-09-03-掌握这些-SpringBoot-启动扩展点，已经超过-90%-的人了](https://toutiao.io/k/snq08kt) ![](assets/new.png)  
 - [2022-09-03-不再写-Python-for-循环](https://toutiao.io/k/i3jtfpa) ![](assets/new.png)  
 - [2022-09-03-前端抢饭碗系列之初识Docker容器化部署](https://toutiao.io/k/msyssih) ![](assets/new.png)  
-- [2022-09-03-推荐-丢弃掉那些BeanUtils工具类吧，MapStruct真香！！！](https://toutiao.io/k/6muqkam) ![](assets/new.png)  
-- [2022-09-03-推荐-什么是顶级的思维？](https://toutiao.io/k/ulqvlcd) ![](assets/new.png)  
-- [2022-09-03-推荐-Java线上CPU内存冲高问题排查步骤](https://toutiao.io/k/t9sj17s) ![](assets/new.png)  
+- [2022-09-03-SpringBoot-实现接口幂等性的-4-种方案！](https://toutiao.io/k/dpoo6rb) ![](assets/new.png)  
+- [2022-09-03-软件设计原则之-SOLID-Principle](https://toutiao.io/k/vhb4552) ![](assets/new.png)  
+- [2022-09-03-PyTorch-常用-Tricks-总结](https://toutiao.io/k/wyuw0dr) ![](assets/new.png)  
 - [2022-09-03-推荐-聊聊数据库建表的15个小技巧](https://toutiao.io/k/uym7cfr) ![](assets/new.png)  
+- [2022-09-03-推荐-丢弃掉那些BeanUtils工具类吧，MapStruct真香！！！](https://toutiao.io/k/6muqkam) ![](assets/new.png)  
+- [2022-09-03-推荐-Java线上CPU内存冲高问题排查步骤](https://toutiao.io/k/t9sj17s) ![](assets/new.png)  
+- [2022-09-03-推荐-什么是顶级的思维？](https://toutiao.io/k/ulqvlcd) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

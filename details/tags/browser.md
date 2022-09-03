@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-09-03 01:08:44。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-03 03:42:54。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -14,8 +14,6 @@
 - [2021-01-08-解药|新冠mRNA疫苗安全性有哪些挑战？](https://m.caixin.com/m/2021-01-08/101648043.html) 
 - [2021-01-01-大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html) 
 - [2022-06-12-基于文字的URL锚点定位与::target-text样式设置](https://www.zhangxinxu.com/wordpress/2022/06/url-anchor-target-text/) 
+- [2022-09-03-防止第三方程序访问浏览器本地敏感数据](https://www.v2ex.com/t/877410) 
 - [2022-09-03-现在-android-浏览器访问拦截不支持了吗？](https://www.v2ex.com/t/877390) 
 - [2022-09-02-请问使用-Microsoft-Remote-Desktop-从-Mac-远程连接-Windows-的时候可以像-Teamviewer-一样进行等比缩放吗-？](https://www.v2ex.com/t/877375) 
-- [2022-09-02-看到-PyPI-的供应链攻击，继续来讨论-Chrome-的密码保存](https://www.v2ex.com/t/877361) 
-- [2022-09-02-在-Mac-Chrome-上看-Netflix-黑屏，原来是因为外接显示器-iPad-Sidecar](https://www.v2ex.com/t/877350) 
-- [2022-09-02-请问-Firefox-怎么像-Chrome-一样使用搜索引擎的快捷键呢](https://www.v2ex.com/t/877348) 

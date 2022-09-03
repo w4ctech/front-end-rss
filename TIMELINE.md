@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-09-03 20:15:18。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-09-03 20:41:42。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,7 @@
 </summary>
 
 
+- [【V2EX】2022-09-03-自己写油猴脚本屏蔽广告，有什么办法在出现后删除元素吗？](https://www.v2ex.com/t/877549) 
 - [【V2EX】2022-09-03-国行安卓手机上电报-telegram-安全吗？](https://www.v2ex.com/t/877548) 
 - [【V2EX】2022-09-03-抄来的-csharp-代码，我想分开写它需要的参数，结果给自己写麻了](https://www.v2ex.com/t/877547) 
 - [【V2EX】2022-09-03-Authy-定期验证密码,导致-Bitwarden-无法登录（已邮箱找回）](https://www.v2ex.com/t/877545) 
@@ -105,7 +106,6 @@
 - [【V2EX】2022-09-03-同一个工程兼顾-seo、backoffice、衔接-mobile-的方案推荐](https://www.v2ex.com/t/877502) 
 - [【V2EX】2022-09-03-话说,-现在可以有办法-Windows-和-Mac-同时登录一个账号的微信吗-?](https://www.v2ex.com/t/877501) 
 - [【V2EX】2022-09-03-React-Native-WebView-如何监听并获取网页里加载的资源](https://www.v2ex.com/t/877500) 
-- [【V2EX】2022-09-03-大家有什么购买-mac-的便宜靠谱渠道](https://www.v2ex.com/t/877499) 
 - [【技术头条】2022-09-03-向量数据库入坑指南：聊聊来自元宇宙大厂-Meta-的相似度检索技术-Faiss-soulteary.com](https://blogread.cn/news/go.php?idItem=15378&url=https%3A%2F%2Fsoulteary.com%2F2022%2F09%2F03%2Fvector-database-guide-talk-about-the-similarity-retrieval-technology-from-metaverse-big-company-faiss.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-09-03-啊哈，一道有趣的Go并发题-colobu.com](https://blogread.cn/news/go.php?idItem=15377&url=https%3A%2F%2Fcolobu.com%2F2022%2F09%2F01%2Ffizzbuzz-in-go%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-09-03-Replication（下）：事务，一致性与共识-tech.meituan.com](https://blogread.cn/news/go.php?idItem=15376&url=https%3A%2F%2Ftech.meituan.com%2F2022%2F08%2F25%2Freplication-in-meituan-02.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

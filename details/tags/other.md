@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-09-03 20:15:18。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-03 20:41:42。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,7 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-09-03-自己写油猴脚本屏蔽广告，有什么办法在出现后删除元素吗？](https://www.v2ex.com/t/877549) 
 - [2022-09-03-抄来的-csharp-代码，我想分开写它需要的参数，结果给自己写麻了](https://www.v2ex.com/t/877547) 
 - [2022-09-03-Authy-定期验证密码,导致-Bitwarden-无法登录（已邮箱找回）](https://www.v2ex.com/t/877545) 
 - [2022-09-03-surge-ios-车位](https://www.v2ex.com/t/877544) 
@@ -1941,7 +1942,6 @@
 - [2022-09-03-买卖苹果个人开发者帐号刑不刑？](https://www.v2ex.com/t/877504) 
 - [2022-09-03-毕业三年，今天确诊腰突，保守治疗肯定效果不如意，打算直接嘎掉。请问有做过腰突手术的吗？最近-1-个月-24-小时腿麻不舒服，影响工作和生活，请教一下过来人的...](https://www.v2ex.com/t/877503) 
 - [2022-09-03-话说,-现在可以有办法-Windows-和-Mac-同时登录一个账号的微信吗-?](https://www.v2ex.com/t/877501) 
-- [2022-09-03-大家有什么购买-mac-的便宜靠谱渠道](https://www.v2ex.com/t/877499) 
 - [2022-09-03-向量数据库入坑指南：聊聊来自元宇宙大厂-Meta-的相似度检索技术-Faiss-soulteary.com](https://blogread.cn/news/go.php?idItem=15378&url=https%3A%2F%2Fsoulteary.com%2F2022%2F09%2F03%2Fvector-database-guide-talk-about-the-similarity-retrieval-technology-from-metaverse-big-company-faiss.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-09-03-啊哈，一道有趣的Go并发题-colobu.com](https://blogread.cn/news/go.php?idItem=15377&url=https%3A%2F%2Fcolobu.com%2F2022%2F09%2F01%2Ffizzbuzz-in-go%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-09-03-Replication（下）：事务，一致性与共识-tech.meituan.com](https://blogread.cn/news/go.php?idItem=15376&url=https%3A%2F%2Ftech.meituan.com%2F2022%2F08%2F25%2Freplication-in-meituan-02.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

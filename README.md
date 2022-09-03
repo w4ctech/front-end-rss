@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-09-03 05:31:33，:rocket: 更新条数: +2004， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-09-03 05:52:42，:rocket: 更新条数: +2016， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -53,7 +53,7 @@
 - [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)![](assets/dot.png)   
-- [开发者头条](#开发者头条)  
+- [开发者头条](#开发者头条)![](assets/dot.png)   
 - [安全热点](#安全热点)  
 - [物联网智库](#物联网智库)  
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-09-03-求一个命令行工具，在-windows-系统中，以-md5-hash-批量重命名文件](https://www.v2ex.com/t/877442) ![](assets/new.png)  
+- [2022-09-03-macos-怎么快速桌面切换？](https://www.v2ex.com/t/877441) ![](assets/new.png)  
 - [2022-09-03-golang-日志如何打印带指针的结构体](https://www.v2ex.com/t/877438) ![](assets/new.png)  
 - [2022-09-03-打算洗牙,然后问了街边的牙科诊所洗牙只要-100-左右,医院都要-350-左右,有朋友知道有什么差异吗?为啥价格差了几倍](https://www.v2ex.com/t/877437) ![](assets/new.png)  
 - [2022-09-03-自建-headscale-的问题](https://www.v2ex.com/t/877436) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-09-03-感觉-MBP-M1-pro-有点问题](https://www.v2ex.com/t/877416) ![](assets/new.png)  
 - [2022-09-03-Namesilo-9-月-1-号-涨价了-忘了续费了](https://www.v2ex.com/t/877415) ![](assets/new.png)  
 - [2022-09-03-我现在只想搞钱](https://www.v2ex.com/t/877414) ![](assets/new.png)  
-- [2022-09-03-破音响与-jazz-可能是绝配😂](https://www.v2ex.com/t/877413) ![](assets/new.png)  
-- [2022-09-03-关于-CSS-中的-em-单位的计算，-95%的前端都误解了。](https://www.v2ex.com/t/877412) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -553,6 +553,18 @@
 </summary>
 
 
+- [2022-09-03-优质网站同好者周刊（第-081-期）-|-倾城博客](https://toutiao.io/k/xqcapfc) ![](assets/new.png)  
+- [2022-09-03-公司40k招的架构师写的API网关选型总结，就是牛逼！](https://toutiao.io/k/kyi9yzt) ![](assets/new.png)  
+- [2022-09-03-掌握这些-SpringBoot-启动扩展点，已经超过-90%-的人了](https://toutiao.io/k/snq08kt) ![](assets/new.png)  
+- [2022-09-03-软件设计原则之-SOLID-Principle](https://toutiao.io/k/vhb4552) ![](assets/new.png)  
+- [2022-09-03-SpringBoot-实现接口幂等性的-4-种方案！](https://toutiao.io/k/dpoo6rb) ![](assets/new.png)  
+- [2022-09-03-不再写-Python-for-循环](https://toutiao.io/k/i3jtfpa) ![](assets/new.png)  
+- [2022-09-03-前端抢饭碗系列之初识Docker容器化部署](https://toutiao.io/k/msyssih) ![](assets/new.png)  
+- [2022-09-03-PyTorch-常用-Tricks-总结](https://toutiao.io/k/wyuw0dr) ![](assets/new.png)  
+- [2022-09-03-推荐-聊聊数据库建表的15个小技巧](https://toutiao.io/k/uym7cfr) ![](assets/new.png)  
+- [2022-09-03-推荐-什么是顶级的思维？](https://toutiao.io/k/ulqvlcd) ![](assets/new.png)  
+- [2022-09-03-推荐-丢弃掉那些BeanUtils工具类吧，MapStruct真香！！！](https://toutiao.io/k/6muqkam) ![](assets/new.png)  
+- [2022-09-03-推荐-Java线上CPU内存冲高问题排查步骤](https://toutiao.io/k/t9sj17s) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

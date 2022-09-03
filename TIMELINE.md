@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-09-03 15:42:56。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-09-03 16:18:10。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,8 @@
 </summary>
 
 
+- [【V2EX】2022-09-03-如何对-GOPRIVATE-私有仓库使用代理的问题](https://www.v2ex.com/t/877543) 
+- [【V2EX】2022-09-03-Redis-事务是不是没什么用？如果在生产环境中用到了，请举例说明场景。](https://www.v2ex.com/t/877542) 
 - [【V2EX】2022-09-03-刚买的新车，家里两个新手，有必要装个-360-全景影像吗？](https://www.v2ex.com/t/877541) 
 - [【V2EX】2022-09-03-coverage/coveralls-没有被预期的应用设置](https://www.v2ex.com/t/877540) 
 - [【V2EX】2022-09-03-windows-双屏能自由设置屏幕大小吗？现在一个-27-寸一个-14-寸](https://www.v2ex.com/t/877539) 
@@ -104,8 +106,6 @@
 - [【V2EX】2022-09-03-PC-端有像手机一样的“图库”软件吗](https://www.v2ex.com/t/877498) 
 - [【V2EX】2022-09-03-阿里云张家口区域，延迟-400ms+](https://www.v2ex.com/t/877497) 
 - [【V2EX】2022-09-03-网站图片，加载不全怎么办？](https://www.v2ex.com/t/877494) 
-- [【V2EX】2022-09-03-微信是有意地屏蔽了-YouTube-的分享预览吗？](https://www.v2ex.com/t/877493) 
-- [【V2EX】2022-09-03-关于电信-sdn-网关-ipv6-网络裸奔问题](https://www.v2ex.com/t/877492) 
 - [【技术头条】2022-09-03-向量数据库入坑指南：聊聊来自元宇宙大厂-Meta-的相似度检索技术-Faiss-soulteary.com](https://blogread.cn/news/go.php?idItem=15378&url=https%3A%2F%2Fsoulteary.com%2F2022%2F09%2F03%2Fvector-database-guide-talk-about-the-similarity-retrieval-technology-from-metaverse-big-company-faiss.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-09-03-啊哈，一道有趣的Go并发题-colobu.com](https://blogread.cn/news/go.php?idItem=15377&url=https%3A%2F%2Fcolobu.com%2F2022%2F09%2F01%2Ffizzbuzz-in-go%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-09-03-Replication（下）：事务，一致性与共识-tech.meituan.com](https://blogread.cn/news/go.php?idItem=15376&url=https%3A%2F%2Ftech.meituan.com%2F2022%2F08%2F25%2Freplication-in-meituan-02.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

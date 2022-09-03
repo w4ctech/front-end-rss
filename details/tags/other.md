@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-09-03 17:17:01。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-03 17:41:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,7 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-09-03-Authy-定期验证密码,导致-Bitwarden-无法登录（已邮箱找回）](https://www.v2ex.com/t/877545) 
 - [2022-09-03-surge-ios-车位](https://www.v2ex.com/t/877544) 
 - [2022-09-03-如何对-GOPRIVATE-私有仓库使用代理的问题](https://www.v2ex.com/t/877543) 
 - [2022-09-03-Redis-事务是不是没什么用？如果在生产环境中用到了，请举例说明场景。](https://www.v2ex.com/t/877542) 
@@ -1967,7 +1968,7 @@
 - [2022-09-03-Redis-突然变慢了如何排查并解决？](https://toutiao.io/k/ncyf6it) 
 - [2022-09-03-不再写-Python-for-循环](https://toutiao.io/k/i3jtfpa) 
 - [2022-09-03-PyTorch-常用-Tricks-总结](https://toutiao.io/k/wyuw0dr) 
-- [2022-09-03-推荐-Java线上CPU内存冲高问题排查步骤](https://toutiao.io/k/t9sj17s) 
 - [2022-09-03-推荐-什么是顶级的思维？](https://toutiao.io/k/ulqvlcd) 
-- [2022-09-03-推荐-聊聊数据库建表的15个小技巧](https://toutiao.io/k/uym7cfr) 
 - [2022-09-03-推荐-丢弃掉那些BeanUtils工具类吧，MapStruct真香！！！](https://toutiao.io/k/6muqkam) 
+- [2022-09-03-推荐-Java线上CPU内存冲高问题排查步骤](https://toutiao.io/k/t9sj17s) 
+- [2022-09-03-推荐-聊聊数据库建表的15个小技巧](https://toutiao.io/k/uym7cfr) 

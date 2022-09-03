@@ -9953,6 +9953,16 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "刚买的新车，家里两个新手，有必要装个 360 全景影像吗？",
+        "link": "https://www.v2ex.com/t/877541",
+        "date": "2022-09-03"
+      },
+      {
+        "title": "coverage/coveralls 没有被预期的应用设置",
+        "link": "https://www.v2ex.com/t/877540",
+        "date": "2022-09-03"
+      },
+      {
         "title": "windows 双屏能自由设置屏幕大小吗？现在一个 27 寸一个 14 寸",
         "link": "https://www.v2ex.com/t/877539",
         "date": "2022-09-03"
@@ -10140,6 +10150,31 @@
     "link": "http://blogread.cn/news/newest.php",
     "items": [
       {
+        "title": "向量数据库入坑指南：聊聊来自元宇宙大厂 Meta 的相似度检索技术 Faiss (soulteary.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=15378&url=https%3A%2F%2Fsoulteary.com%2F2022%2F09%2F03%2Fvector-database-guide-talk-about-the-similarity-retrieval-technology-from-metaverse-big-company-faiss.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2022-09-03"
+      },
+      {
+        "title": "啊哈，一道有趣的Go并发题 (colobu.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=15377&url=https%3A%2F%2Fcolobu.com%2F2022%2F09%2F01%2Ffizzbuzz-in-go%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2022-09-03"
+      },
+      {
+        "title": "Replication（下）：事务，一致性与共识 (tech.meituan.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=15376&url=https%3A%2F%2Ftech.meituan.com%2F2022%2F08%2F25%2Freplication-in-meituan-02.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2022-09-03"
+      },
+      {
+        "title": "Replication（上）：常见复制模型&分布式系统挑战 (tech.meituan.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=15375&url=https%3A%2F%2Ftech.meituan.com%2F2022%2F08%2F25%2Freplication-in-meituan-01.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2022-09-03"
+      },
+      {
+        "title": "路网中路径的储存 (blog.codingnow.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=15374&url=https%3A%2F%2Fblog.codingnow.com%2F2022%2F09%2Froutemap.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2022-09-03"
+      },
+      {
         "title": "5 款适用于 Linux 的笔记应用 (linux.cn)",
         "link": "https://blogread.cn/news/go.php?idItem=15373&url=https%3A%2F%2Flinux.cn%2Farticle-14990-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
         "date": "2022-09-03"
@@ -10213,31 +10248,6 @@
         "title": "配送A/B评估体系建设实践 (tech.meituan.com)",
         "link": "https://blogread.cn/news/go.php?idItem=15359&url=https%3A%2F%2Ftech.meituan.com%2F2020%2F05%2F28%2Fpeisong-a-b-test.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
         "date": "2022-09-03"
-      },
-      {
-        "title": "Java线程池实现原理及其在美团业务中的实践 (tech.meituan.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=15358&url=https%3A%2F%2Ftech.meituan.com%2F2020%2F04%2F02%2Fjava-pooling-pratice-in-meituan.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-09-03"
-      },
-      {
-        "title": "美团图数据库平台建设及业务实践 (tech.meituan.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=15357&url=https%3A%2F%2Ftech.meituan.com%2F2021%2F04%2F01%2Fnebula-graph-practice-in-meituan.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-09-03"
-      },
-      {
-        "title": "HTML slot 插槽元素深入 (www.zhangxinxu.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=15356&url=https%3A%2F%2Fwww.zhangxinxu.com%2Fwordpress%2F2021%2F09%2Fhtml-slot-dom%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-09-03"
-      },
-      {
-        "title": "使用 Docker 来运行 HuggingFace 海量模型 (soulteary.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=15355&url=https%3A%2F%2Fsoulteary.com%2F2022%2F05%2F20%2Fuse-docker-to-run-huggingface-models.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-09-03"
-      },
-      {
-        "title": "如何应对开源组件⻛险？软件成分安全分析（SCA）能力的建设与演进 (tech.meituan.com)",
-        "link": "https://blogread.cn/news/go.php?idItem=15354&url=https%3A%2F%2Ftech.meituan.com%2F2022%2F05%2F26%2Fconstruction-and-evolution-of-software-component-analysis-capability.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-09-03"
       }
     ]
   },
@@ -10297,6 +10307,11 @@
         "date": "2022-09-03"
       },
       {
+        "title": "[推荐] Java线上CPU内存冲高问题排查步骤",
+        "link": "https://toutiao.io/k/t9sj17s",
+        "date": "2022-09-03"
+      },
+      {
         "title": "[推荐] 聊聊数据库建表的15个小技巧",
         "link": "https://toutiao.io/k/uym7cfr",
         "date": "2022-09-03"
@@ -10309,11 +10324,6 @@
       {
         "title": "[推荐] 丢弃掉那些BeanUtils工具类吧，MapStruct真香！！！",
         "link": "https://toutiao.io/k/6muqkam",
-        "date": "2022-09-03"
-      },
-      {
-        "title": "[推荐] Java线上CPU内存冲高问题排查步骤",
-        "link": "https://toutiao.io/k/t9sj17s",
         "date": "2022-09-03"
       }
     ]

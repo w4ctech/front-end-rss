@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-09-03 15:15:20，:rocket: 更新条数: +2016， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-09-03 15:42:56，:rocket: 更新条数: +2018， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-09-03-刚买的新车，家里两个新手，有必要装个-360-全景影像吗？](https://www.v2ex.com/t/877541) ![](assets/new.png)  
+- [2022-09-03-coverage/coveralls-没有被预期的应用设置](https://www.v2ex.com/t/877540) ![](assets/new.png)  
 - [2022-09-03-windows-双屏能自由设置屏幕大小吗？现在一个-27-寸一个-14-寸](https://www.v2ex.com/t/877539) ![](assets/new.png)  
 - [2022-09-03-人在北京，想买辆二手车给家里用，老家内蒙，请问-v-各位大佬我能否直接在北京上呼和浩特的牌子？](https://www.v2ex.com/t/877537) ![](assets/new.png)  
 - [2022-09-03-Metamask-钱包有可能会被破解吗？](https://www.v2ex.com/t/877536) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-09-03-elden-ring-里面地图列表里面的星是干嘛用的？](https://www.v2ex.com/t/877516) ![](assets/new.png)  
 - [2022-09-03-有沒有實時網路監控軟體啊](https://www.v2ex.com/t/877514) ![](assets/new.png)  
 - [2022-09-03-小游戏：-crack-licensechecker0x03](https://www.v2ex.com/t/877513) ![](assets/new.png)  
-- [2022-09-03-发现一个事情~](https://www.v2ex.com/t/877512) ![](assets/new.png)  
-- [2022-09-03-准备在农村自建楼房，有没有好看的设计图纸，尤其是楼房的前面门脸，求推荐设计图，感谢！](https://www.v2ex.com/t/877511) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -522,6 +522,11 @@
 </summary>
 
 
+- [2022-09-03-向量数据库入坑指南：聊聊来自元宇宙大厂-Meta-的相似度检索技术-Faiss-soulteary.com](https://blogread.cn/news/go.php?idItem=15378&url=https%3A%2F%2Fsoulteary.com%2F2022%2F09%2F03%2Fvector-database-guide-talk-about-the-similarity-retrieval-technology-from-metaverse-big-company-faiss.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2022-09-03-啊哈，一道有趣的Go并发题-colobu.com](https://blogread.cn/news/go.php?idItem=15377&url=https%3A%2F%2Fcolobu.com%2F2022%2F09%2F01%2Ffizzbuzz-in-go%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2022-09-03-Replication（下）：事务，一致性与共识-tech.meituan.com](https://blogread.cn/news/go.php?idItem=15376&url=https%3A%2F%2Ftech.meituan.com%2F2022%2F08%2F25%2Freplication-in-meituan-02.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2022-09-03-Replication（上）：常见复制模型&分布式系统挑战-tech.meituan.com](https://blogread.cn/news/go.php?idItem=15375&url=https%3A%2F%2Ftech.meituan.com%2F2022%2F08%2F25%2Freplication-in-meituan-01.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2022-09-03-路网中路径的储存-blog.codingnow.com](https://blogread.cn/news/go.php?idItem=15374&url=https%3A%2F%2Fblog.codingnow.com%2F2022%2F09%2Froutemap.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-09-03-5-款适用于-Linux-的笔记应用-linux.cn](https://blogread.cn/news/go.php?idItem=15373&url=https%3A%2F%2Flinux.cn%2Farticle-14990-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-09-03-美团搜索粗排优化的探索与实践-tech.meituan.com](https://blogread.cn/news/go.php?idItem=15372&url=https%3A%2F%2Ftech.meituan.com%2F2022%2F08%2F11%2Fcoarse-ranking-exploration-practice.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-09-03-美团搜索粗排优化的探索与实践-tech.meituan.com](https://blogread.cn/news/go.php?idItem=15371&url=https%3A%2F%2Ftech.meituan.com%2F2022%2F08%2F11%2Fcoarse-ranking-exploration-practice.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
@@ -537,11 +542,6 @@
 - [2022-09-03-Swift-结构化并发-onevcat.com](https://blogread.cn/news/go.php?idItem=15361&url=https%3A%2F%2Fonevcat.com%2F2021%2F09%2Fstructured-concurrency%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-09-03-美团酒旅数据治理实践-tech.meituan.com](https://blogread.cn/news/go.php?idItem=15360&url=https%3A%2F%2Ftech.meituan.com%2F2021%2F04%2F15%2Fdata-governance-in-meituan-jiulv.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2022-09-03-配送A/B评估体系建设实践-tech.meituan.com](https://blogread.cn/news/go.php?idItem=15359&url=https%3A%2F%2Ftech.meituan.com%2F2020%2F05%2F28%2Fpeisong-a-b-test.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-09-03-Java线程池实现原理及其在美团业务中的实践-tech.meituan.com](https://blogread.cn/news/go.php?idItem=15358&url=https%3A%2F%2Ftech.meituan.com%2F2020%2F04%2F02%2Fjava-pooling-pratice-in-meituan.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-09-03-美团图数据库平台建设及业务实践-tech.meituan.com](https://blogread.cn/news/go.php?idItem=15357&url=https%3A%2F%2Ftech.meituan.com%2F2021%2F04%2F01%2Fnebula-graph-practice-in-meituan.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-09-03-HTML-slot-插槽元素深入-www.zhangxinxu.com](https://blogread.cn/news/go.php?idItem=15356&url=https%3A%2F%2Fwww.zhangxinxu.com%2Fwordpress%2F2021%2F09%2Fhtml-slot-dom%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-09-03-使用-Docker-来运行-HuggingFace-海量模型-soulteary.com](https://blogread.cn/news/go.php?idItem=15355&url=https%3A%2F%2Fsoulteary.com%2F2022%2F05%2F20%2Fuse-docker-to-run-huggingface-models.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2022-09-03-如何应对开源组件⻛险？软件成分安全分析（SCA）能力的建设与演进-tech.meituan.com](https://blogread.cn/news/go.php?idItem=15354&url=https%3A%2F%2Ftech.meituan.com%2F2022%2F05%2F26%2Fconstruction-and-evolution-of-software-component-analysis-capability.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -563,10 +563,10 @@
 - [2022-09-03-不再写-Python-for-循环](https://toutiao.io/k/i3jtfpa) ![](assets/new.png)  
 - [2022-09-03-前端抢饭碗系列之初识Docker容器化部署](https://toutiao.io/k/msyssih) ![](assets/new.png)  
 - [2022-09-03-PyTorch-常用-Tricks-总结](https://toutiao.io/k/wyuw0dr) ![](assets/new.png)  
+- [2022-09-03-推荐-Java线上CPU内存冲高问题排查步骤](https://toutiao.io/k/t9sj17s) ![](assets/new.png)  
 - [2022-09-03-推荐-聊聊数据库建表的15个小技巧](https://toutiao.io/k/uym7cfr) ![](assets/new.png)  
 - [2022-09-03-推荐-什么是顶级的思维？](https://toutiao.io/k/ulqvlcd) ![](assets/new.png)  
 - [2022-09-03-推荐-丢弃掉那些BeanUtils工具类吧，MapStruct真香！！！](https://toutiao.io/k/6muqkam) ![](assets/new.png)  
-- [2022-09-03-推荐-Java线上CPU内存冲高问题排查步骤](https://toutiao.io/k/t9sj17s) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

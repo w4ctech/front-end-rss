@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-09-03 16:18:10。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-09-03 16:54:49。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,7 @@
 </summary>
 
 
+- [【V2EX】2022-09-03-surge-ios-车位](https://www.v2ex.com/t/877544) 
 - [【V2EX】2022-09-03-如何对-GOPRIVATE-私有仓库使用代理的问题](https://www.v2ex.com/t/877543) 
 - [【V2EX】2022-09-03-Redis-事务是不是没什么用？如果在生产环境中用到了，请举例说明场景。](https://www.v2ex.com/t/877542) 
 - [【V2EX】2022-09-03-刚买的新车，家里两个新手，有必要装个-360-全景影像吗？](https://www.v2ex.com/t/877541) 
@@ -105,7 +106,6 @@
 - [【V2EX】2022-09-03-大家有什么购买-mac-的便宜靠谱渠道](https://www.v2ex.com/t/877499) 
 - [【V2EX】2022-09-03-PC-端有像手机一样的“图库”软件吗](https://www.v2ex.com/t/877498) 
 - [【V2EX】2022-09-03-阿里云张家口区域，延迟-400ms+](https://www.v2ex.com/t/877497) 
-- [【V2EX】2022-09-03-网站图片，加载不全怎么办？](https://www.v2ex.com/t/877494) 
 - [【技术头条】2022-09-03-向量数据库入坑指南：聊聊来自元宇宙大厂-Meta-的相似度检索技术-Faiss-soulteary.com](https://blogread.cn/news/go.php?idItem=15378&url=https%3A%2F%2Fsoulteary.com%2F2022%2F09%2F03%2Fvector-database-guide-talk-about-the-similarity-retrieval-technology-from-metaverse-big-company-faiss.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-09-03-啊哈，一道有趣的Go并发题-colobu.com](https://blogread.cn/news/go.php?idItem=15377&url=https%3A%2F%2Fcolobu.com%2F2022%2F09%2F01%2Ffizzbuzz-in-go%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-09-03-Replication（下）：事务，一致性与共识-tech.meituan.com](https://blogread.cn/news/go.php?idItem=15376&url=https%3A%2F%2Ftech.meituan.com%2F2022%2F08%2F25%2Freplication-in-meituan-02.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -137,8 +137,8 @@
 - [【开发者头条】2022-09-03-前端抢饭碗系列之初识Docker容器化部署](https://toutiao.io/k/msyssih) 
 - [【开发者头条】2022-09-03-PyTorch-常用-Tricks-总结](https://toutiao.io/k/wyuw0dr) 
 - [【开发者头条】2022-09-03-推荐-Java线上CPU内存冲高问题排查步骤](https://toutiao.io/k/t9sj17s) 
-- [【开发者头条】2022-09-03-推荐-聊聊数据库建表的15个小技巧](https://toutiao.io/k/uym7cfr) 
 - [【开发者头条】2022-09-03-推荐-什么是顶级的思维？](https://toutiao.io/k/ulqvlcd) 
+- [【开发者头条】2022-09-03-推荐-聊聊数据库建表的15个小技巧](https://toutiao.io/k/uym7cfr) 
 - [【开发者头条】2022-09-03-推荐-丢弃掉那些BeanUtils工具类吧，MapStruct真香！！！](https://toutiao.io/k/6muqkam) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>

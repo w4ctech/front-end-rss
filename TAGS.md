@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-09-03 08:46:10。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-03 09:14:43。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -181,6 +181,7 @@
 - [【张鑫旭-鑫空间-鑫生活】如何继承自定义元素及其他JS中扩展新方法](https://www.zhangxinxu.com/wordpress/2022/06/js-extend-class-custom-elements/)
 - [【张鑫旭-鑫空间-鑫生活】介绍一种CSS变量未定义语法也OK的小妙招](https://www.zhangxinxu.com/wordpress/2022/06/css-var-optional-empty-trick/)
 - [【张鑫旭-鑫空间-鑫生活】如何实现页面刷新后不定位到之前的滚动位置？](https://www.zhangxinxu.com/wordpress/2022/05/history-scrollrestoration/)
+- [【V2EX】JS-开发简单的硬件设备，大家有没有要问的](https://www.v2ex.com/t/877477)
 - [【技术头条】JS-replaceAll-和-matchAll-使用指南不指北-www.zhangxinxu.com](https://blogread.cn/news/go.php?idItem=15365&url=https%3A%2F%2Fwww.zhangxinxu.com%2Fwordpress%2F2022%2F08%2Fjs-replaceall-matchall%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【技术头条】如何应对开源组件⻛险？软件成分安全分析（SCA）能力的建设与演进-tech.meituan.com](https://blogread.cn/news/go.php?idItem=15354&url=https%3A%2F%2Ftech.meituan.com%2F2022%2F05%2F26%2Fconstruction-and-evolution-of-software-component-analysis-capability.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [......【查看更多】......](./details/tags/javascript.md)
@@ -297,6 +298,7 @@
 
 
 
+- [【V2EX】最近在做课程表的排课，涉及很复杂的计算，有没有算法大牛能给点建议或者提示吗？](https://www.v2ex.com/t/877476)
 - [【V2EX】我在-Wiremin-上加入了中文社區頻道-https://i.wiremin.com/invite/?g=k21338767308](https://www.v2ex.com/t/877465)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 

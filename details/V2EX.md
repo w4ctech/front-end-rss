@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2022-09-04 07:14:07。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-04 07:38:59。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-09-04-游戏里的“AI”是不是都是一堆-if+random-的假-AI？](https://www.v2ex.com/t/877616) 
+- [2022-09-04-在不打开浏览器-dev-tools-的时候能静默记录-network-吗?](https://www.v2ex.com/t/877615) 
 - [2022-09-04-知乎喜迎全平台隐写水印](https://www.v2ex.com/t/877614) 
 - [2022-09-04-关于转换联通-29-王卡成功与接入-5G-网络问题的后续](https://www.v2ex.com/t/877613) 
 - [2022-09-04-安卓上有啥-免费看-pdf-的支持双栏？](https://www.v2ex.com/t/877612) 
@@ -39,4 +41,3 @@
 - [2022-09-04-五笔小程序](https://www.v2ex.com/t/877571) 
 - [2022-09-04-iPad-从网站上下载图片，文件名会自动命名为-IMG_XX,能不能设置成用网站的原文件名？](https://www.v2ex.com/t/877570) 
 - [2022-09-04-想研究-Spark-RPC-的主-er，有福了](https://www.v2ex.com/t/877567) 
-- [2022-09-04-dig.codes（挖码）功能更新](https://www.v2ex.com/t/877566) 

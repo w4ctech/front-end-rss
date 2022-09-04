@@ -9953,6 +9953,16 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "游戏里的“AI”是不是都是一堆 if+random 的假 AI？",
+        "link": "https://www.v2ex.com/t/877616",
+        "date": "2022-09-04"
+      },
+      {
+        "title": "在不打开浏览器 dev tools 的时候能静默记录 network 吗?",
+        "link": "https://www.v2ex.com/t/877615",
+        "date": "2022-09-04"
+      },
+      {
         "title": "知乎喜迎全平台隐写水印",
         "link": "https://www.v2ex.com/t/877614",
         "date": "2022-09-04"
@@ -10121,11 +10131,6 @@
         "title": "想研究 Spark RPC 的主 er，有福了",
         "link": "https://www.v2ex.com/t/877567",
         "date": "2022-09-04"
-      },
-      {
-        "title": "dig.codes（挖码）功能更新",
-        "link": "https://www.v2ex.com/t/877566",
-        "date": "2022-09-04"
       }
     ]
   },
@@ -10262,13 +10267,13 @@
         "date": "2022-09-04"
       },
       {
-        "title": "三个小伙做软件做到快破产，后来估值 10 个亿",
-        "link": "https://toutiao.io/k/jxlixtd",
+        "title": "如何防止订单重复支付？",
+        "link": "https://toutiao.io/k/957g6ly",
         "date": "2022-09-04"
       },
       {
-        "title": "如何防止订单重复支付？",
-        "link": "https://toutiao.io/k/957g6ly",
+        "title": "三个小伙做软件做到快破产，后来估值 10 个亿",
+        "link": "https://toutiao.io/k/jxlixtd",
         "date": "2022-09-04"
       },
       {
@@ -10297,13 +10302,13 @@
         "date": "2022-09-04"
       },
       {
-        "title": "[推荐] 丢弃掉那些BeanUtils工具类吧，MapStruct真香！！！",
-        "link": "https://toutiao.io/k/6muqkam",
+        "title": "[推荐] Java线上CPU内存冲高问题排查步骤",
+        "link": "https://toutiao.io/k/t9sj17s",
         "date": "2022-09-04"
       },
       {
-        "title": "[推荐] Java线上CPU内存冲高问题排查步骤",
-        "link": "https://toutiao.io/k/t9sj17s",
+        "title": "[推荐] 丢弃掉那些BeanUtils工具类吧，MapStruct真香！！！",
+        "link": "https://toutiao.io/k/6muqkam",
         "date": "2022-09-04"
       },
       {

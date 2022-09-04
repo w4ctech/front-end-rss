@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-09-04 10:15:17。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-04 10:43:05。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -16,4 +16,3 @@
 - [2022-06-12-基于文字的URL锚点定位与::target-text样式设置](https://www.zhangxinxu.com/wordpress/2022/06/url-anchor-target-text/) 
 - [2022-09-04-关于-8-月-1-日实施的通讯安全管理办法和网络安全法厂商做法的疑问？](https://www.v2ex.com/t/877618) 
 - [2022-09-04-在不打开浏览器-dev-tools-的时候能静默记录-network-吗?](https://www.v2ex.com/t/877615) 
-- [2022-09-04-请求推荐手机（不装国内软件）](https://www.v2ex.com/t/877597) 

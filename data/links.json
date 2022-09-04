@@ -9953,6 +9953,31 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "canvas 绘图字体问题。",
+        "link": "https://www.v2ex.com/t/877637",
+        "date": "2022-09-04"
+      },
+      {
+        "title": "Rime 鼠须管输入法缺陷：无法进行长词组预提示联想",
+        "link": "https://www.v2ex.com/t/877636",
+        "date": "2022-09-04"
+      },
+      {
+        "title": "我 fork 的 110+star 的 newbee-mall 商城 V2.2.0 发布啦",
+        "link": "https://www.v2ex.com/t/877635",
+        "date": "2022-09-04"
+      },
+      {
+        "title": "既然信号不好，那就干脆不插 SIM 卡了！",
+        "link": "https://www.v2ex.com/t/877634",
+        "date": "2022-09-04"
+      },
+      {
+        "title": "准备单人单车去阿里",
+        "link": "https://www.v2ex.com/t/877633",
+        "date": "2022-09-04"
+      },
+      {
         "title": "记录思维方式",
         "link": "https://www.v2ex.com/t/877630",
         "date": "2022-09-04"
@@ -10115,21 +10140,6 @@
       {
         "title": "突然发现 goodnotes 和 notability 在 Mac 上可以免费下载了。",
         "link": "https://www.v2ex.com/t/877588",
-        "date": "2022-09-04"
-      },
-      {
-        "title": "为什么向日葵没有在设置里打开开机启动， 然后仍然会在电脑启动后启动一个守护进程呢",
-        "link": "https://www.v2ex.com/t/877587",
-        "date": "2022-09-04"
-      },
-      {
-        "title": "租房租金多少比较合适",
-        "link": "https://www.v2ex.com/t/877585",
-        "date": "2022-09-04"
-      },
-      {
-        "title": "组装台式求推荐",
-        "link": "https://www.v2ex.com/t/877583",
         "date": "2022-09-04"
       }
     ]
@@ -10297,8 +10307,13 @@
         "date": "2022-09-04"
       },
       {
-        "title": "[推荐] Java线上CPU内存冲高问题排查步骤",
-        "link": "https://toutiao.io/k/t9sj17s",
+        "title": "[推荐] 什么是顶级的思维？",
+        "link": "https://toutiao.io/k/ulqvlcd",
+        "date": "2022-09-04"
+      },
+      {
+        "title": "[推荐] 聊聊数据库建表的15个小技巧",
+        "link": "https://toutiao.io/k/uym7cfr",
         "date": "2022-09-04"
       },
       {
@@ -10307,13 +10322,8 @@
         "date": "2022-09-04"
       },
       {
-        "title": "[推荐] 什么是顶级的思维？",
-        "link": "https://toutiao.io/k/ulqvlcd",
-        "date": "2022-09-04"
-      },
-      {
-        "title": "[推荐] 聊聊数据库建表的15个小技巧",
-        "link": "https://toutiao.io/k/uym7cfr",
+        "title": "[推荐] Java线上CPU内存冲高问题排查步骤",
+        "link": "https://toutiao.io/k/t9sj17s",
         "date": "2022-09-04"
       }
     ]

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-09-04 10:43:05。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-04 11:12:59。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,9 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-09-04-mysql-字段-not-null-还是-null-default](https://www.v2ex.com/t/877652) 
+- [2022-09-04-被一家挂名《中国联通》的店骗走-100-元](https://www.v2ex.com/t/877651) 
+- [2022-09-04-修改-DNS-出现“字符检视器”，如何解决？](https://www.v2ex.com/t/877650) 
 - [2022-09-04-iPad-可以家庭分享使用，为何不支持多用户？](https://www.v2ex.com/t/877649) 
 - [2022-09-04-50-收个京东会员](https://www.v2ex.com/t/877648) 
 - [2022-09-04-测试](https://www.v2ex.com/t/877646) 
@@ -1942,7 +1945,6 @@
 - [2022-09-04-京东白条注销后如何恢复](https://www.v2ex.com/t/877607) 
 - [2022-09-04-我是前端，不懂这个数字代表什么，但是东软拿出来炫耀，是表示很牛吗？](https://www.v2ex.com/t/877606) 
 - [2022-09-04-给想学习-TDD-的同学分享一个项目中的实战案例](https://www.v2ex.com/t/877605) 
-- [2022-09-04-关于单线多拨奇怪的问题](https://www.v2ex.com/t/877602) 
 - [2022-09-04-向量数据库入坑指南：聊聊来自元宇宙大厂-Meta-的相似度检索技术-Faiss-soulteary.com](https://blogread.cn/news/go.php?idItem=15378&url=https%3A%2F%2Fsoulteary.com%2F2022%2F09%2F03%2Fvector-database-guide-talk-about-the-similarity-retrieval-technology-from-metaverse-big-company-faiss.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-09-04-啊哈，一道有趣的Go并发题-colobu.com](https://blogread.cn/news/go.php?idItem=15377&url=https%3A%2F%2Fcolobu.com%2F2022%2F09%2F01%2Ffizzbuzz-in-go%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-09-04-Replication（下）：事务，一致性与共识-tech.meituan.com](https://blogread.cn/news/go.php?idItem=15376&url=https%3A%2F%2Ftech.meituan.com%2F2022%2F08%2F25%2Freplication-in-meituan-02.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1966,7 +1968,7 @@
 - [2022-09-04-三个小伙做软件做到快破产，后来估值-10-个亿](https://toutiao.io/k/jxlixtd) 
 - [2022-09-04-.NET-微服务实践-快速搭建微服务架构](https://toutiao.io/k/hlhittd) 
 - [2022-09-04-BAS入侵和攻击模拟实践](https://toutiao.io/k/34jf6xo) 
-- [2022-09-04-推荐-什么是顶级的思维？](https://toutiao.io/k/ulqvlcd) 
 - [2022-09-04-推荐-丢弃掉那些BeanUtils工具类吧，MapStruct真香！！！](https://toutiao.io/k/6muqkam) 
-- [2022-09-04-推荐-聊聊数据库建表的15个小技巧](https://toutiao.io/k/uym7cfr) 
+- [2022-09-04-推荐-什么是顶级的思维？](https://toutiao.io/k/ulqvlcd) 
 - [2022-09-04-推荐-Java线上CPU内存冲高问题排查步骤](https://toutiao.io/k/t9sj17s) 
+- [2022-09-04-推荐-聊聊数据库建表的15个小技巧](https://toutiao.io/k/uym7cfr) 

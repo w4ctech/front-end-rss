@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-09-04 05:52:28，:rocket: 更新条数: +2013， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-09-04 06:17:10，:rocket: 更新条数: +2012， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-09-04-求推荐一款安卓手机做监控的软件，可自动跳过画面静止状态、可定时存成一个文件保存就行。](https://www.v2ex.com/t/877609) ![](assets/new.png)  
+- [2022-09-04-京东白条注销后如何恢复](https://www.v2ex.com/t/877607) ![](assets/new.png)  
 - [2022-09-04-我是前端，不懂这个数字代表什么，但是东软拿出来炫耀，是表示很牛吗？](https://www.v2ex.com/t/877606) ![](assets/new.png)  
 - [2022-09-04-给想学习-TDD-的同学分享一个项目中的实战案例](https://www.v2ex.com/t/877605) ![](assets/new.png)  
 - [2022-09-04-关于单线多拨奇怪的问题](https://www.v2ex.com/t/877602) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-09-04-组装台式求推荐](https://www.v2ex.com/t/877583) ![](assets/new.png)  
 - [2022-09-04-selenium-频繁卡死，查找网上很多资料，都不行，求大佬们给个解决方案！](https://www.v2ex.com/t/877582) ![](assets/new.png)  
 - [2022-09-04-提问：-react-有没有-ts-的类型文档](https://www.v2ex.com/t/877581) ![](assets/new.png)  
-- [2022-09-04-看这样子。中秋也不能出京了](https://www.v2ex.com/t/877580) ![](assets/new.png)  
-- [2022-09-04-深圳鹰利科技-30k~50k-诚聘-Java-,运维-,-前端工程师](https://www.v2ex.com/t/877578) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -564,8 +564,8 @@
 - [2022-09-04-如何防止订单重复支付？](https://toutiao.io/k/957g6ly) ![](assets/new.png)  
 - [2022-09-04-BAS入侵和攻击模拟实践](https://toutiao.io/k/34jf6xo) ![](assets/new.png)  
 - [2022-09-04-推荐-Java线上CPU内存冲高问题排查步骤](https://toutiao.io/k/t9sj17s) ![](assets/new.png)  
-- [2022-09-04-推荐-丢弃掉那些BeanUtils工具类吧，MapStruct真香！！！](https://toutiao.io/k/6muqkam) ![](assets/new.png)  
 - [2022-09-04-推荐-什么是顶级的思维？](https://toutiao.io/k/ulqvlcd) ![](assets/new.png)  
+- [2022-09-04-推荐-丢弃掉那些BeanUtils工具类吧，MapStruct真香！！！](https://toutiao.io/k/6muqkam) ![](assets/new.png)  
 - [2022-09-04-推荐-聊聊数据库建表的15个小技巧](https://toutiao.io/k/uym7cfr) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

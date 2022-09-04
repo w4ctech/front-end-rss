@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-09-04 01:11:45。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-04 03:58:34。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -15,4 +15,3 @@
 - [2021-01-01-大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html) 
 - [2022-06-12-基于文字的URL锚点定位与::target-text样式设置](https://www.zhangxinxu.com/wordpress/2022/06/url-anchor-target-text/) 
 - [2022-09-03-国行安卓手机上电报-telegram-安全吗？](https://www.v2ex.com/t/877548) 
-- [2022-09-03-锐捷的设备一直在请求一个过时的-ntp-server-rdate.darkorb.net](https://www.v2ex.com/t/877507) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-09-04 16:18:52。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-09-04 16:55:33。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,7 @@
 </summary>
 
 
+- [【V2EX】2022-09-04-除了-Safari，為什麼其它主流瀏覽器書籤還區分「桌面」和「行動版書籤」](https://www.v2ex.com/t/877699) 
 - [【V2EX】2022-09-04-Redis-缓存淘汰配置如何选？](https://www.v2ex.com/t/877698) 
 - [【V2EX】2022-09-04-Mac-连不上-Windows-SMB-服务的一个解决方法就是去掉-Windows-电脑名中的汉字](https://www.v2ex.com/t/877697) 
 - [【V2EX】2022-09-04-小米-watch-S1-怎么开发应用？](https://www.v2ex.com/t/877696) 
@@ -107,7 +108,6 @@
 - [【V2EX】2022-09-04-mysql-字段-not-null-还是-null-default](https://www.v2ex.com/t/877652) 
 - [【V2EX】2022-09-04-被一家挂名《中国联通》的店骗走-100-元](https://www.v2ex.com/t/877651) 
 - [【V2EX】2022-09-04-修改-DNS-出现“字符检视器”，如何解决？](https://www.v2ex.com/t/877650) 
-- [【V2EX】2022-09-04-iPad-可以家庭分享使用，为何不支持多用户？](https://www.v2ex.com/t/877649) 
 - [【技术头条】2022-09-04-向量数据库入坑指南：聊聊来自元宇宙大厂-Meta-的相似度检索技术-Faiss-soulteary.com](https://blogread.cn/news/go.php?idItem=15378&url=https%3A%2F%2Fsoulteary.com%2F2022%2F09%2F03%2Fvector-database-guide-talk-about-the-similarity-retrieval-technology-from-metaverse-big-company-faiss.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-09-04-啊哈，一道有趣的Go并发题-colobu.com](https://blogread.cn/news/go.php?idItem=15377&url=https%3A%2F%2Fcolobu.com%2F2022%2F09%2F01%2Ffizzbuzz-in-go%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-09-04-Replication（下）：事务，一致性与共识-tech.meituan.com](https://blogread.cn/news/go.php?idItem=15376&url=https%3A%2F%2Ftech.meituan.com%2F2022%2F08%2F25%2Freplication-in-meituan-02.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -138,10 +138,10 @@
 - [【开发者头条】2022-09-04-图解最常用的10大机器学习算法！](https://toutiao.io/k/tzx4xbr) 
 - [【开发者头条】2022-09-04-.NET-微服务实践-快速搭建微服务架构](https://toutiao.io/k/hlhittd) 
 - [【开发者头条】2022-09-04-BAS入侵和攻击模拟实践](https://toutiao.io/k/34jf6xo) 
-- [【开发者头条】2022-09-04-推荐-丢弃掉那些BeanUtils工具类吧，MapStruct真香！！！](https://toutiao.io/k/6muqkam) 
 - [【开发者头条】2022-09-04-推荐-什么是顶级的思维？](https://toutiao.io/k/ulqvlcd) 
-- [【开发者头条】2022-09-04-推荐-Java线上CPU内存冲高问题排查步骤](https://toutiao.io/k/t9sj17s) 
+- [【开发者头条】2022-09-04-推荐-丢弃掉那些BeanUtils工具类吧，MapStruct真香！！！](https://toutiao.io/k/6muqkam) 
 - [【开发者头条】2022-09-04-推荐-聊聊数据库建表的15个小技巧](https://toutiao.io/k/uym7cfr) 
+- [【开发者头条】2022-09-04-推荐-Java线上CPU内存冲高问题排查步骤](https://toutiao.io/k/t9sj17s) 
 - [【开发者头条】2022-09-04-推荐-SpringBoot-官方强烈推荐，连接池，太快了！](https://toutiao.io/k/zumxh7v) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-09-04 09:40:59，:rocket: 更新条数: +2018， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-09-04 10:15:17，:rocket: 更新条数: +2020， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,8 +491,15 @@
 </summary>
 
 
+- [2022-09-04-新浪微博是不是转型诈骗内容发布平台了？](https://www.v2ex.com/t/877644) ![](assets/new.png)  
+- [2022-09-04-写了一个监测-RSS-更新并自动推送到微信的小工具，内置-RSSHub-源搜索，支持-Server-酱和-Webhook](https://www.v2ex.com/t/877643) ![](assets/new.png)  
+- [2022-09-04-写了一个简单的-code-snippet-管理工具](https://www.v2ex.com/t/877642) ![](assets/new.png)  
+- [2022-09-04-突发奇想有没有玩-VR-的，用-VR-代替桌子上的显示器可行么？（解放颈椎）](https://www.v2ex.com/t/877641) ![](assets/new.png)  
+- [2022-09-04-深圳五年后端开发求职](https://www.v2ex.com/t/877640) ![](assets/new.png)  
+- [2022-09-04-Windows-Defender-一直误报-"Win32/Hive.ZY"](https://www.v2ex.com/t/877639) ![](assets/new.png)  
+- [2022-09-04-Surge4mac-拼车，三人车，差一人](https://www.v2ex.com/t/877638) ![](assets/new.png)  
 - [2022-09-04-canvas-绘图字体问题。](https://www.v2ex.com/t/877637) ![](assets/new.png)  
-- [2022-09-04-Rime-鼠须管输入法缺陷：无法进行长词组预提示联想](https://www.v2ex.com/t/877636) ![](assets/new.png)  
+- [2022-09-04-Rime-鼠须管输入法缺陷：无法进行长词组联想](https://www.v2ex.com/t/877636) ![](assets/new.png)  
 - [2022-09-04-我-fork-的-110+star-的-newbee-mall-商城-V2.2.0-发布啦](https://www.v2ex.com/t/877635) ![](assets/new.png)  
 - [2022-09-04-既然信号不好，那就干脆不插-SIM-卡了！](https://www.v2ex.com/t/877634) ![](assets/new.png)  
 - [2022-09-04-准备单人单车去阿里](https://www.v2ex.com/t/877633) ![](assets/new.png)  
@@ -504,13 +511,6 @@
 - [2022-09-04-影视网站招聘-APP-安卓前端开发，远程工作-40w](https://www.v2ex.com/t/877623) ![](assets/new.png)  
 - [2022-09-04-现在招聘灰产开发都这么赤裸裸了？](https://www.v2ex.com/t/877622) ![](assets/new.png)  
 - [2022-09-04-分享一个开源看上去有点像-Notion-的笔记-Affine。](https://www.v2ex.com/t/877621) ![](assets/new.png)  
-- [2022-09-04-beats-solo-pro-头梁底部的皮垫开裂了，有大佬知道国内哪里有卖靠谱的配件吗。](https://www.v2ex.com/t/877619) ![](assets/new.png)  
-- [2022-09-04-关于-8-月-1-日实施的通讯安全管理办法和网络安全法厂商做法的疑问？](https://www.v2ex.com/t/877618) ![](assets/new.png)  
-- [2022-09-04-有什么数据库支持模糊连接（fuzzy-join）吗？](https://www.v2ex.com/t/877617) ![](assets/new.png)  
-- [2022-09-04-游戏里的“AI”是不是都是一堆-if+random-的假-AI？](https://www.v2ex.com/t/877616) ![](assets/new.png)  
-- [2022-09-04-在不打开浏览器-dev-tools-的时候能静默记录-network-吗?](https://www.v2ex.com/t/877615) ![](assets/new.png)  
-- [2022-09-04-知乎喜迎全平台隐写水印](https://www.v2ex.com/t/877614) ![](assets/new.png)  
-- [2022-09-04-关于转换联通-29-王卡成功与接入-5G-网络问题的后续](https://www.v2ex.com/t/877613) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -563,10 +563,10 @@
 - [2022-09-04-图解最常用的10大机器学习算法！](https://toutiao.io/k/tzx4xbr) ![](assets/new.png)  
 - [2022-09-04-.NET-微服务实践-快速搭建微服务架构](https://toutiao.io/k/hlhittd) ![](assets/new.png)  
 - [2022-09-04-BAS入侵和攻击模拟实践](https://toutiao.io/k/34jf6xo) ![](assets/new.png)  
-- [2022-09-04-推荐-什么是顶级的思维？](https://toutiao.io/k/ulqvlcd) ![](assets/new.png)  
 - [2022-09-04-推荐-聊聊数据库建表的15个小技巧](https://toutiao.io/k/uym7cfr) ![](assets/new.png)  
-- [2022-09-04-推荐-丢弃掉那些BeanUtils工具类吧，MapStruct真香！！！](https://toutiao.io/k/6muqkam) ![](assets/new.png)  
 - [2022-09-04-推荐-Java线上CPU内存冲高问题排查步骤](https://toutiao.io/k/t9sj17s) ![](assets/new.png)  
+- [2022-09-04-推荐-什么是顶级的思维？](https://toutiao.io/k/ulqvlcd) ![](assets/new.png)  
+- [2022-09-04-推荐-丢弃掉那些BeanUtils工具类吧，MapStruct真香！！！](https://toutiao.io/k/6muqkam) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

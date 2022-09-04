@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-09-04 07:38:59。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-04 08:17:36。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,9 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-09-04-分享一个开源看上去有点像-Notion-的笔记-Affine。](https://www.v2ex.com/t/877621) 
+- [2022-09-04-beats-solo-pro-头梁底部的皮垫开裂了，有大佬知道国内哪里有卖靠谱的配件吗。](https://www.v2ex.com/t/877619) 
+- [2022-09-04-有什么数据库支持模糊连接（fuzzy-join）吗？](https://www.v2ex.com/t/877617) 
 - [2022-09-04-知乎喜迎全平台隐写水印](https://www.v2ex.com/t/877614) 
 - [2022-09-04-关于转换联通-29-王卡成功与接入-5G-网络问题的后续](https://www.v2ex.com/t/877613) 
 - [2022-09-04-安卓上有啥-免费看-pdf-的支持双栏？](https://www.v2ex.com/t/877612) 
@@ -1938,9 +1941,6 @@
 - [2022-09-04-国内有投资了新加坡市场的基金么](https://www.v2ex.com/t/877577) 
 - [2022-09-04-大型开源社区-Casbin-招募远程运营实习生！（长期招募）](https://www.v2ex.com/t/877576) 
 - [2022-09-04-自家突尼斯石榴上市了😋，-2022-年中秋送礼佳品🧺，送-v-站福利回帖抽奖👌！](https://www.v2ex.com/t/877575) 
-- [2022-09-04-快炸了，救命。求推荐新款苹果笔记本电脑](https://www.v2ex.com/t/877574) 
-- [2022-09-04-iPad-从网站上下载图片，文件名会自动命名为-IMG_XX,能不能设置成用网站的原文件名？](https://www.v2ex.com/t/877570) 
-- [2022-09-04-想研究-Spark-RPC-的主-er，有福了](https://www.v2ex.com/t/877567) 
 - [2022-09-04-向量数据库入坑指南：聊聊来自元宇宙大厂-Meta-的相似度检索技术-Faiss-soulteary.com](https://blogread.cn/news/go.php?idItem=15378&url=https%3A%2F%2Fsoulteary.com%2F2022%2F09%2F03%2Fvector-database-guide-talk-about-the-similarity-retrieval-technology-from-metaverse-big-company-faiss.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-09-04-啊哈，一道有趣的Go并发题-colobu.com](https://blogread.cn/news/go.php?idItem=15377&url=https%3A%2F%2Fcolobu.com%2F2022%2F09%2F01%2Ffizzbuzz-in-go%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-09-04-Replication（下）：事务，一致性与共识-tech.meituan.com](https://blogread.cn/news/go.php?idItem=15376&url=https%3A%2F%2Ftech.meituan.com%2F2022%2F08%2F25%2Freplication-in-meituan-02.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1964,7 +1964,7 @@
 - [2022-09-04-三个小伙做软件做到快破产，后来估值-10-个亿](https://toutiao.io/k/jxlixtd) 
 - [2022-09-04-.NET-微服务实践-快速搭建微服务架构](https://toutiao.io/k/hlhittd) 
 - [2022-09-04-BAS入侵和攻击模拟实践](https://toutiao.io/k/34jf6xo) 
-- [2022-09-04-推荐-什么是顶级的思维？](https://toutiao.io/k/ulqvlcd) 
-- [2022-09-04-推荐-Java线上CPU内存冲高问题排查步骤](https://toutiao.io/k/t9sj17s) 
 - [2022-09-04-推荐-丢弃掉那些BeanUtils工具类吧，MapStruct真香！！！](https://toutiao.io/k/6muqkam) 
+- [2022-09-04-推荐-Java线上CPU内存冲高问题排查步骤](https://toutiao.io/k/t9sj17s) 
 - [2022-09-04-推荐-聊聊数据库建表的15个小技巧](https://toutiao.io/k/uym7cfr) 
+- [2022-09-04-推荐-什么是顶级的思维？](https://toutiao.io/k/ulqvlcd) 

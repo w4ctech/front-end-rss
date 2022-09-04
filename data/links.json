@@ -9953,6 +9953,16 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "调岗以后主管很难沟通怎么办?",
+        "link": "https://www.v2ex.com/t/877556",
+        "date": "2022-09-04"
+      },
+      {
+        "title": "有 V2er 在荔枝买过 JetBrains 全家桶吗？一年到期后可以在官网续费吗？",
+        "link": "https://www.v2ex.com/t/877555",
+        "date": "2022-09-04"
+      },
+      {
         "title": "这个该死的字该怎么用五笔打出来呢？",
         "link": "https://www.v2ex.com/t/877550",
         "date": "2022-09-03"
@@ -10111,26 +10121,6 @@
         "title": "锐捷的设备一直在请求一个过时的 ntp server rdate.darkorb.net",
         "link": "https://www.v2ex.com/t/877507",
         "date": "2022-09-03"
-      },
-      {
-        "title": "知乎如何不再推荐收费内容？",
-        "link": "https://www.v2ex.com/t/877506",
-        "date": "2022-09-03"
-      },
-      {
-        "title": "Windows 的剪切真的是一个超高风险的操作",
-        "link": "https://www.v2ex.com/t/877505",
-        "date": "2022-09-03"
-      },
-      {
-        "title": "买卖苹果个人开发者帐号刑不刑？",
-        "link": "https://www.v2ex.com/t/877504",
-        "date": "2022-09-03"
-      },
-      {
-        "title": "毕业三年，今天确诊腰突，保守治疗肯定效果不如意，打算直接嘎掉。请问有做过腰突手术的吗？最近 1 个月 24 小时腿麻不舒服，影响工作和生活，请教一下过来人的...",
-        "link": "https://www.v2ex.com/t/877503",
-        "date": "2022-09-03"
       }
     ]
   },
@@ -10142,102 +10132,102 @@
       {
         "title": "向量数据库入坑指南：聊聊来自元宇宙大厂 Meta 的相似度检索技术 Faiss (soulteary.com)",
         "link": "https://blogread.cn/news/go.php?idItem=15378&url=https%3A%2F%2Fsoulteary.com%2F2022%2F09%2F03%2Fvector-database-guide-talk-about-the-similarity-retrieval-technology-from-metaverse-big-company-faiss.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-09-03"
+        "date": "2022-09-04"
       },
       {
         "title": "啊哈，一道有趣的Go并发题 (colobu.com)",
         "link": "https://blogread.cn/news/go.php?idItem=15377&url=https%3A%2F%2Fcolobu.com%2F2022%2F09%2F01%2Ffizzbuzz-in-go%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-09-03"
+        "date": "2022-09-04"
       },
       {
         "title": "Replication（下）：事务，一致性与共识 (tech.meituan.com)",
         "link": "https://blogread.cn/news/go.php?idItem=15376&url=https%3A%2F%2Ftech.meituan.com%2F2022%2F08%2F25%2Freplication-in-meituan-02.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-09-03"
+        "date": "2022-09-04"
       },
       {
         "title": "Replication（上）：常见复制模型&分布式系统挑战 (tech.meituan.com)",
         "link": "https://blogread.cn/news/go.php?idItem=15375&url=https%3A%2F%2Ftech.meituan.com%2F2022%2F08%2F25%2Freplication-in-meituan-01.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-09-03"
+        "date": "2022-09-04"
       },
       {
         "title": "路网中路径的储存 (blog.codingnow.com)",
         "link": "https://blogread.cn/news/go.php?idItem=15374&url=https%3A%2F%2Fblog.codingnow.com%2F2022%2F09%2Froutemap.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-09-03"
+        "date": "2022-09-04"
       },
       {
         "title": "5 款适用于 Linux 的笔记应用 (linux.cn)",
         "link": "https://blogread.cn/news/go.php?idItem=15373&url=https%3A%2F%2Flinux.cn%2Farticle-14990-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-09-03"
+        "date": "2022-09-04"
       },
       {
         "title": "美团搜索粗排优化的探索与实践 (tech.meituan.com)",
         "link": "https://blogread.cn/news/go.php?idItem=15372&url=https%3A%2F%2Ftech.meituan.com%2F2022%2F08%2F11%2Fcoarse-ranking-exploration-practice.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-09-03"
+        "date": "2022-09-04"
       },
       {
         "title": "美团搜索粗排优化的探索与实践 (tech.meituan.com)",
         "link": "https://blogread.cn/news/go.php?idItem=15371&url=https%3A%2F%2Ftech.meituan.com%2F2022%2F08%2F11%2Fcoarse-ranking-exploration-practice.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-09-03"
+        "date": "2022-09-04"
       },
       {
         "title": "使用上下游思维实现系统解耦 (insights.thoughtworks.cn)",
         "link": "https://blogread.cn/news/go.php?idItem=15370&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-use-upstream-downstream-thinking-to-system-decoupling%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-09-03"
+        "date": "2022-09-04"
       },
       {
         "title": "Flutter动态化实践 (tech.meituan.com)",
         "link": "https://blogread.cn/news/go.php?idItem=15369&url=https%3A%2F%2Ftech.meituan.com%2F2020%2F06%2F23%2Fmeituan-flutter-flap.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-09-03"
+        "date": "2022-09-04"
       },
       {
         "title": "Linux提权手法实战 (blog.nsfocus.net)",
         "link": "https://blogread.cn/news/go.php?idItem=15368&url=http%3A%2F%2Fblog.nsfocus.net%2Flinux%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-09-03"
+        "date": "2022-09-04"
       },
       {
         "title": "DevOps风险测绘之代码篇 (blog.nsfocus.net)",
         "link": "https://blogread.cn/news/go.php?idItem=15367&url=http%3A%2F%2Fblog.nsfocus.net%2Fdevops%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-09-03"
+        "date": "2022-09-04"
       },
       {
         "title": "Kafka在美团数据平台的实践 (tech.meituan.com)",
         "link": "https://blogread.cn/news/go.php?idItem=15366&url=https%3A%2F%2Ftech.meituan.com%2F2022%2F08%2F04%2Fthe-practice-of-kafka-in-the-meituan-data-platform.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-09-03"
+        "date": "2022-09-04"
       },
       {
         "title": "JS replaceAll 和 matchAll 使用指南不指北 (www.zhangxinxu.com)",
         "link": "https://blogread.cn/news/go.php?idItem=15365&url=https%3A%2F%2Fwww.zhangxinxu.com%2Fwordpress%2F2022%2F08%2Fjs-replaceall-matchall%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-09-03"
+        "date": "2022-09-04"
       },
       {
         "title": "借助 Docker 来搭 Nginx 的积木：快速实现高性能二维码服务 (soulteary.com)",
         "link": "https://blogread.cn/news/go.php?idItem=15364&url=https%3A%2F%2Fsoulteary.com%2F2022%2F08%2F27%2Fbuilding-blocks-of-nginx-with-docker-quickly-implement-high-performance-qr-code-services.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-09-03"
+        "date": "2022-09-04"
       },
       {
         "title": "如何在 Linux 上使用 Bash 自动化任务 (linux.cn)",
         "link": "https://blogread.cn/news/go.php?idItem=15363&url=https%3A%2F%2Flinux.cn%2Farticle-14983-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-09-03"
+        "date": "2022-09-04"
       },
       {
         "title": "如何列出连接到 Linux 系统的 USB 设备 (linux.cn)",
         "link": "https://blogread.cn/news/go.php?idItem=15362&url=https%3A%2F%2Flinux.cn%2Farticle-14981-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-09-03"
+        "date": "2022-09-04"
       },
       {
         "title": "Swift 结构化并发 (onevcat.com)",
         "link": "https://blogread.cn/news/go.php?idItem=15361&url=https%3A%2F%2Fonevcat.com%2F2021%2F09%2Fstructured-concurrency%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-09-03"
+        "date": "2022-09-04"
       },
       {
         "title": "美团酒旅数据治理实践 (tech.meituan.com)",
         "link": "https://blogread.cn/news/go.php?idItem=15360&url=https%3A%2F%2Ftech.meituan.com%2F2021%2F04%2F15%2Fdata-governance-in-meituan-jiulv.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-09-03"
+        "date": "2022-09-04"
       },
       {
         "title": "配送A/B评估体系建设实践 (tech.meituan.com)",
         "link": "https://blogread.cn/news/go.php?idItem=15359&url=https%3A%2F%2Ftech.meituan.com%2F2020%2F05%2F28%2Fpeisong-a-b-test.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
-        "date": "2022-09-03"
+        "date": "2022-09-04"
       }
     ]
   },
@@ -10247,74 +10237,49 @@
     "link": "https://toutiao.io",
     "items": [
       {
-        "title": "公司40k招的架构师写的API网关选型总结，就是牛逼！",
-        "link": "https://toutiao.io/k/kyi9yzt",
-        "date": "2022-09-03"
+        "title": "Kubernetes网络插件详解 - Calico篇 - 网络基础",
+        "link": "https://toutiao.io/k/vqnj7pn",
+        "date": "2022-09-04"
       },
       {
-        "title": "优质网站同好者周刊（第 081 期） | 倾城博客",
-        "link": "https://toutiao.io/k/xqcapfc",
-        "date": "2022-09-03"
+        "title": "Binlog 的三个业务应用场景",
+        "link": "https://toutiao.io/k/bhrm8kp",
+        "date": "2022-09-04"
       },
       {
-        "title": "掌握这些 SpringBoot 启动扩展点，已经超过 90% 的人了",
-        "link": "https://toutiao.io/k/snq08kt",
-        "date": "2022-09-03"
+        "title": "独立开发变现周刊（第70期）：一年内将NotionForm的月收入从0到1万美元",
+        "link": "https://toutiao.io/k/cknh848",
+        "date": "2022-09-04"
       },
       {
-        "title": "软件设计原则之 SOLID Principle",
-        "link": "https://toutiao.io/k/vhb4552",
-        "date": "2022-09-03"
+        "title": "三个小伙做软件做到快破产，后来估值 10 个亿",
+        "link": "https://toutiao.io/k/jxlixtd",
+        "date": "2022-09-04"
       },
       {
-        "title": "SpringBoot 实现接口幂等性的 4 种方案！",
-        "link": "https://toutiao.io/k/dpoo6rb",
-        "date": "2022-09-03"
-      },
-      {
-        "title": "成都核酸系统崩了，东软被市民连夜骂上了热榜第一，我用Python爬取了评论区，发现...",
-        "link": "https://toutiao.io/k/7zlfvk4",
-        "date": "2022-09-03"
-      },
-      {
-        "title": "Redis 突然变慢了如何排查并解决？",
-        "link": "https://toutiao.io/k/ncyf6it",
-        "date": "2022-09-03"
-      },
-      {
-        "title": "不再写 Python for 循环",
-        "link": "https://toutiao.io/k/i3jtfpa",
-        "date": "2022-09-03"
-      },
-      {
-        "title": "前端抢饭碗系列之初识Docker容器化部署",
-        "link": "https://toutiao.io/k/msyssih",
-        "date": "2022-09-03"
-      },
-      {
-        "title": "PyTorch 常用 Tricks 总结",
-        "link": "https://toutiao.io/k/wyuw0dr",
-        "date": "2022-09-03"
-      },
-      {
-        "title": "[推荐] 丢弃掉那些BeanUtils工具类吧，MapStruct真香！！！",
-        "link": "https://toutiao.io/k/6muqkam",
-        "date": "2022-09-03"
+        "title": "老话新说~你真的会使用LocalStorage吗？Vben教你怎么用~",
+        "link": "https://toutiao.io/k/nlymezb",
+        "date": "2022-09-04"
       },
       {
         "title": "[推荐] 聊聊数据库建表的15个小技巧",
         "link": "https://toutiao.io/k/uym7cfr",
-        "date": "2022-09-03"
+        "date": "2022-09-04"
       },
       {
         "title": "[推荐] 什么是顶级的思维？",
         "link": "https://toutiao.io/k/ulqvlcd",
-        "date": "2022-09-03"
+        "date": "2022-09-04"
+      },
+      {
+        "title": "[推荐] 丢弃掉那些BeanUtils工具类吧，MapStruct真香！！！",
+        "link": "https://toutiao.io/k/6muqkam",
+        "date": "2022-09-04"
       },
       {
         "title": "[推荐] Java线上CPU内存冲高问题排查步骤",
         "link": "https://toutiao.io/k/t9sj17s",
-        "date": "2022-09-03"
+        "date": "2022-09-04"
       }
     ]
   },

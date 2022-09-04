@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-09-04 11:39:14。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-09-04 12:27:54。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,14 @@
 </summary>
 
 
+- [【V2EX】2022-09-04-分享-iPad-AC+-授权店换新经历](https://www.v2ex.com/t/877663) 
+- [【V2EX】2022-09-04-goodnotes-在-read-only-模式下无法选择文本](https://www.v2ex.com/t/877662) 
+- [【V2EX】2022-09-04-B-站视频链接里的时间戳功能是失效了吗？](https://www.v2ex.com/t/877661) 
+- [【V2EX】2022-09-04-有没有设置简单便捷的多-wan-口路由器推荐?](https://www.v2ex.com/t/877660) 
+- [【V2EX】2022-09-04-双系统启动问题](https://www.v2ex.com/t/877659) 
+- [【V2EX】2022-09-04-增强-Spring-@Scheduled-注解，支持分布式定时任务](https://www.v2ex.com/t/877658) 
+- [【V2EX】2022-09-04-我们为什么没有教育部直属一流的网络大学？](https://www.v2ex.com/t/877657) 
+- [【V2EX】2022-09-04-求教：-M1-mba-上圈-x-如何跟-Adguard-共存实现去-youtube-广告](https://www.v2ex.com/t/877655) 
 - [【V2EX】2022-09-04-k2p-的路由-拨号只能到-500-多-mbps](https://www.v2ex.com/t/877653) 
 - [【V2EX】2022-09-04-mysql-字段-not-null-还是-null-default](https://www.v2ex.com/t/877652) 
 - [【V2EX】2022-09-04-被一家挂名《中国联通》的店骗走-100-元](https://www.v2ex.com/t/877651) 
@@ -102,14 +110,6 @@
 - [【V2EX】2022-09-04-游戏里的“AI”是不是都是一堆-if+random-的假-AI？](https://www.v2ex.com/t/877616) 
 - [【V2EX】2022-09-04-在不打开浏览器-dev-tools-的时候能静默记录-network-吗?](https://www.v2ex.com/t/877615) 
 - [【V2EX】2022-09-04-知乎喜迎全平台隐写水印](https://www.v2ex.com/t/877614) 
-- [【V2EX】2022-09-04-关于转换联通-29-王卡成功与接入-5G-网络问题的后续](https://www.v2ex.com/t/877613) 
-- [【V2EX】2022-09-04-安卓上有啥-免费看-pdf-的支持双栏？](https://www.v2ex.com/t/877612) 
-- [【V2EX】2022-09-04-iOS15.1-TrollStore-已发布，永久不掉签](https://www.v2ex.com/t/877611) 
-- [【V2EX】2022-09-04-大姨妈-App-做好了，起名「来了么」](https://www.v2ex.com/t/877610) 
-- [【V2EX】2022-09-04-求推荐一款安卓手机做监控的软件，可自动跳过画面静止状态、可定时存成一个文件保存就行。](https://www.v2ex.com/t/877609) 
-- [【V2EX】2022-09-04-京东白条注销后如何恢复](https://www.v2ex.com/t/877607) 
-- [【V2EX】2022-09-04-我是前端，不懂这个数字代表什么，但是东软拿出来炫耀，是表示很牛吗？](https://www.v2ex.com/t/877606) 
-- [【V2EX】2022-09-04-给想学习-TDD-的同学分享一个项目中的实战案例](https://www.v2ex.com/t/877605) 
 - [【技术头条】2022-09-04-向量数据库入坑指南：聊聊来自元宇宙大厂-Meta-的相似度检索技术-Faiss-soulteary.com](https://blogread.cn/news/go.php?idItem=15378&url=https%3A%2F%2Fsoulteary.com%2F2022%2F09%2F03%2Fvector-database-guide-talk-about-the-similarity-retrieval-technology-from-metaverse-big-company-faiss.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-09-04-啊哈，一道有趣的Go并发题-colobu.com](https://blogread.cn/news/go.php?idItem=15377&url=https%3A%2F%2Fcolobu.com%2F2022%2F09%2F01%2Ffizzbuzz-in-go%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-09-04-Replication（下）：事务，一致性与共识-tech.meituan.com](https://blogread.cn/news/go.php?idItem=15376&url=https%3A%2F%2Ftech.meituan.com%2F2022%2F08%2F25%2Freplication-in-meituan-02.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -140,10 +140,10 @@
 - [【开发者头条】2022-09-04-图解最常用的10大机器学习算法！](https://toutiao.io/k/tzx4xbr) 
 - [【开发者头条】2022-09-04-.NET-微服务实践-快速搭建微服务架构](https://toutiao.io/k/hlhittd) 
 - [【开发者头条】2022-09-04-BAS入侵和攻击模拟实践](https://toutiao.io/k/34jf6xo) 
-- [【开发者头条】2022-09-04-推荐-聊聊数据库建表的15个小技巧](https://toutiao.io/k/uym7cfr) 
-- [【开发者头条】2022-09-04-推荐-Java线上CPU内存冲高问题排查步骤](https://toutiao.io/k/t9sj17s) 
-- [【开发者头条】2022-09-04-推荐-什么是顶级的思维？](https://toutiao.io/k/ulqvlcd) 
 - [【开发者头条】2022-09-04-推荐-丢弃掉那些BeanUtils工具类吧，MapStruct真香！！！](https://toutiao.io/k/6muqkam) 
+- [【开发者头条】2022-09-04-推荐-Java线上CPU内存冲高问题排查步骤](https://toutiao.io/k/t9sj17s) 
+- [【开发者头条】2022-09-04-推荐-聊聊数据库建表的15个小技巧](https://toutiao.io/k/uym7cfr) 
+- [【开发者头条】2022-09-04-推荐-什么是顶级的思维？](https://toutiao.io/k/ulqvlcd) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

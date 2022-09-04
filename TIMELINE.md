@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-09-04 08:45:09。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-09-04 09:14:17。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,8 @@
 </summary>
 
 
+- [【V2EX】2022-09-04-记录思维方式](https://www.v2ex.com/t/877630) 
+- [【V2EX】2022-09-04-半泽直树第七集这个剧情也太扯了吧？](https://www.v2ex.com/t/877629) 
 - [【V2EX】2022-09-04-移动有-ipv6，-NAS-上的-WebDav-如何利用？](https://www.v2ex.com/t/877628) 
 - [【V2EX】2022-09-04-场景化宽带可以当作隧道吗？](https://www.v2ex.com/t/877627) 
 - [【V2EX】2022-09-04-求一个前端流程图工具库](https://www.v2ex.com/t/877626) 
@@ -102,9 +104,6 @@
 - [【V2EX】2022-09-04-为什么向日葵没有在设置里打开开机启动，-然后仍然会在电脑启动后启动一个守护进程呢](https://www.v2ex.com/t/877587) 
 - [【V2EX】2022-09-04-租房租金多少比较合适](https://www.v2ex.com/t/877585) 
 - [【V2EX】2022-09-04-组装台式求推荐](https://www.v2ex.com/t/877583) 
-- [【V2EX】2022-09-04-selenium-频繁卡死，查找网上很多资料，都不行，求大佬们给个解决方案！](https://www.v2ex.com/t/877582) 
-- [【V2EX】2022-09-04-提问：-react-有没有-ts-的类型文档](https://www.v2ex.com/t/877581) 
-- [【V2EX】2022-09-04-看这样子。中秋也不能出京了](https://www.v2ex.com/t/877580) 
 - [【技术头条】2022-09-04-向量数据库入坑指南：聊聊来自元宇宙大厂-Meta-的相似度检索技术-Faiss-soulteary.com](https://blogread.cn/news/go.php?idItem=15378&url=https%3A%2F%2Fsoulteary.com%2F2022%2F09%2F03%2Fvector-database-guide-talk-about-the-similarity-retrieval-technology-from-metaverse-big-company-faiss.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-09-04-啊哈，一道有趣的Go并发题-colobu.com](https://blogread.cn/news/go.php?idItem=15377&url=https%3A%2F%2Fcolobu.com%2F2022%2F09%2F01%2Ffizzbuzz-in-go%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-09-04-Replication（下）：事务，一致性与共识-tech.meituan.com](https://blogread.cn/news/go.php?idItem=15376&url=https%3A%2F%2Ftech.meituan.com%2F2022%2F08%2F25%2Freplication-in-meituan-02.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -130,14 +129,14 @@
 - [【开发者头条】2022-09-04-独立开发变现周刊（第70期）：一年内将NotionForm的月收入从0到1万美元](https://toutiao.io/k/cknh848) 
 - [【开发者头条】2022-09-04-如何防止订单重复支付？](https://toutiao.io/k/957g6ly) 
 - [【开发者头条】2022-09-04-老话新说~你真的会使用LocalStorage吗？Vben教你怎么用~](https://toutiao.io/k/nlymezb) 
-- [【开发者头条】2022-09-04-三个小伙做软件做到快破产，后来估值-10-个亿](https://toutiao.io/k/jxlixtd) 
 - [【开发者头条】2022-09-04-数据可视化系列教程｜六大组件基础知识](https://toutiao.io/k/2jsj0sl) 
+- [【开发者头条】2022-09-04-三个小伙做软件做到快破产，后来估值-10-个亿](https://toutiao.io/k/jxlixtd) 
 - [【开发者头条】2022-09-04-图解最常用的10大机器学习算法！](https://toutiao.io/k/tzx4xbr) 
 - [【开发者头条】2022-09-04-.NET-微服务实践-快速搭建微服务架构](https://toutiao.io/k/hlhittd) 
 - [【开发者头条】2022-09-04-BAS入侵和攻击模拟实践](https://toutiao.io/k/34jf6xo) 
 - [【开发者头条】2022-09-04-推荐-Java线上CPU内存冲高问题排查步骤](https://toutiao.io/k/t9sj17s) 
-- [【开发者头条】2022-09-04-推荐-什么是顶级的思维？](https://toutiao.io/k/ulqvlcd) 
 - [【开发者头条】2022-09-04-推荐-丢弃掉那些BeanUtils工具类吧，MapStruct真香！！！](https://toutiao.io/k/6muqkam) 
+- [【开发者头条】2022-09-04-推荐-什么是顶级的思维？](https://toutiao.io/k/ulqvlcd) 
 - [【开发者头条】2022-09-04-推荐-聊聊数据库建表的15个小技巧](https://toutiao.io/k/uym7cfr) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>

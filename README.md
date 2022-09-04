@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-09-04 15:43:32，:rocket: 更新条数: +2020， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-09-04 16:18:52，:rocket: 更新条数: +2021， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,10 @@
 </summary>
 
 
+- [2022-09-04-Redis-缓存淘汰配置如何选？](https://www.v2ex.com/t/877698) ![](assets/new.png)  
+- [2022-09-04-Mac-连不上-Windows-SMB-服务的一个解决方法就是去掉-Windows-电脑名中的汉字](https://www.v2ex.com/t/877697) ![](assets/new.png)  
+- [2022-09-04-小米-watch-S1-怎么开发应用？](https://www.v2ex.com/t/877696) ![](assets/new.png)  
+- [2022-09-04-如何入门嵌入式开发？](https://www.v2ex.com/t/877695) ![](assets/new.png)  
 - [2022-09-04-求一张深圳街道地图](https://www.v2ex.com/t/877693) ![](assets/new.png)  
 - [2022-09-04-如何用-shell-脚本优雅的遍历文件夹内所有文件名的中文字符并替换？](https://www.v2ex.com/t/877692) ![](assets/new.png)  
 - [2022-09-04-Chrome-上有什么好的护眼插件吗？](https://www.v2ex.com/t/877690) ![](assets/new.png)  
@@ -507,10 +511,6 @@
 - [2022-09-04-像-QQ-音乐/-哔哩哔哩-这样的音乐/视频平台，后端是怎么实现码率切换的？](https://www.v2ex.com/t/877676) ![](assets/new.png)  
 - [2022-09-04-安装-SAP-S/4-买-X99+E5+DDR32G*4-适合吗？](https://www.v2ex.com/t/877675) ![](assets/new.png)  
 - [2022-09-04-用户自行拆开-MacBook-Pro-会失去质保吗](https://www.v2ex.com/t/877673) ![](assets/new.png)  
-- [2022-09-04-测试了一下健康码绑虚拟运营商的卡，健康码和手机行程卡都工作正常](https://www.v2ex.com/t/877672) ![](assets/new.png)  
-- [2022-09-04-为什么游戏玩家少了就要关服？](https://www.v2ex.com/t/877671) ![](assets/new.png)  
-- [2022-09-04-iPhone-12-双卡的一些问题，求解](https://www.v2ex.com/t/877670) ![](assets/new.png)  
-- [2022-09-04-Let's-Encrypt-的创始人-Peter-Eckersley-不幸去世-死因未明](https://www.v2ex.com/t/877669) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -563,10 +563,11 @@
 - [2022-09-04-图解最常用的10大机器学习算法！](https://toutiao.io/k/tzx4xbr) ![](assets/new.png)  
 - [2022-09-04-.NET-微服务实践-快速搭建微服务架构](https://toutiao.io/k/hlhittd) ![](assets/new.png)  
 - [2022-09-04-BAS入侵和攻击模拟实践](https://toutiao.io/k/34jf6xo) ![](assets/new.png)  
-- [2022-09-04-推荐-什么是顶级的思维？](https://toutiao.io/k/ulqvlcd) ![](assets/new.png)  
 - [2022-09-04-推荐-丢弃掉那些BeanUtils工具类吧，MapStruct真香！！！](https://toutiao.io/k/6muqkam) ![](assets/new.png)  
-- [2022-09-04-推荐-聊聊数据库建表的15个小技巧](https://toutiao.io/k/uym7cfr) ![](assets/new.png)  
+- [2022-09-04-推荐-什么是顶级的思维？](https://toutiao.io/k/ulqvlcd) ![](assets/new.png)  
 - [2022-09-04-推荐-Java线上CPU内存冲高问题排查步骤](https://toutiao.io/k/t9sj17s) ![](assets/new.png)  
+- [2022-09-04-推荐-聊聊数据库建表的15个小技巧](https://toutiao.io/k/uym7cfr) ![](assets/new.png)  
+- [2022-09-04-推荐-SpringBoot-官方强烈推荐，连接池，太快了！](https://toutiao.io/k/zumxh7v) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

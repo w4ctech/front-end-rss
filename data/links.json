@@ -9953,6 +9953,16 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "摸鱼摸了三年，我开发了一个简历编辑工具，基本功能已完成，欢迎体验～",
+        "link": "https://www.v2ex.com/t/877706",
+        "date": "2022-09-04"
+      },
+      {
+        "title": "好像有人拿到 tiktok 的后台源代码了",
+        "link": "https://www.v2ex.com/t/877705",
+        "date": "2022-09-04"
+      },
+      {
         "title": "Lapce 代码编辑器发布 0.2.0",
         "link": "https://www.v2ex.com/t/877704",
         "date": "2022-09-04"
@@ -10151,11 +10161,6 @@
         "title": "我们为什么没有教育部直属一流的网络大学？",
         "link": "https://www.v2ex.com/t/877657",
         "date": "2022-09-04"
-      },
-      {
-        "title": "求教： M1 mba 上圈 x 如何跟 Adguard 共存实现去 youtube 广告",
-        "link": "https://www.v2ex.com/t/877655",
-        "date": "2022-09-04"
       }
     ]
   },
@@ -10322,18 +10327,8 @@
         "date": "2022-09-04"
       },
       {
-        "title": "[推荐] SpringBoot 官方强烈推荐，连接池，太快了！",
-        "link": "https://toutiao.io/k/zumxh7v",
-        "date": "2022-09-04"
-      },
-      {
-        "title": "[推荐] 丢弃掉那些BeanUtils工具类吧，MapStruct真香！！！",
-        "link": "https://toutiao.io/k/6muqkam",
-        "date": "2022-09-04"
-      },
-      {
-        "title": "[推荐] 聊聊数据库建表的15个小技巧",
-        "link": "https://toutiao.io/k/uym7cfr",
+        "title": "[推荐] 什么是顶级的思维？",
+        "link": "https://toutiao.io/k/ulqvlcd",
         "date": "2022-09-04"
       },
       {
@@ -10342,8 +10337,18 @@
         "date": "2022-09-04"
       },
       {
-        "title": "[推荐] 什么是顶级的思维？",
-        "link": "https://toutiao.io/k/ulqvlcd",
+        "title": "[推荐] SpringBoot 官方强烈推荐，连接池，太快了！",
+        "link": "https://toutiao.io/k/zumxh7v",
+        "date": "2022-09-04"
+      },
+      {
+        "title": "[推荐] 聊聊数据库建表的15个小技巧",
+        "link": "https://toutiao.io/k/uym7cfr",
+        "date": "2022-09-04"
+      },
+      {
+        "title": "[推荐] 丢弃掉那些BeanUtils工具类吧，MapStruct真香！！！",
+        "link": "https://toutiao.io/k/6muqkam",
         "date": "2022-09-04"
       }
     ]

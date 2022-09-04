@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-09-04 19:12:54。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-09-04 19:36:45。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -140,9 +140,9 @@
 - [【开发者头条】2022-09-04-BAS入侵和攻击模拟实践](https://toutiao.io/k/34jf6xo) 
 - [【开发者头条】2022-09-04-推荐-SpringBoot-官方强烈推荐，连接池，太快了！](https://toutiao.io/k/zumxh7v) 
 - [【开发者头条】2022-09-04-推荐-什么是顶级的思维？](https://toutiao.io/k/ulqvlcd) 
-- [【开发者头条】2022-09-04-推荐-丢弃掉那些BeanUtils工具类吧，MapStruct真香！！！](https://toutiao.io/k/6muqkam) 
-- [【开发者头条】2022-09-04-推荐-聊聊数据库建表的15个小技巧](https://toutiao.io/k/uym7cfr) 
 - [【开发者头条】2022-09-04-推荐-Java线上CPU内存冲高问题排查步骤](https://toutiao.io/k/t9sj17s) 
+- [【开发者头条】2022-09-04-推荐-聊聊数据库建表的15个小技巧](https://toutiao.io/k/uym7cfr) 
+- [【开发者头条】2022-09-04-推荐-丢弃掉那些BeanUtils工具类吧，MapStruct真香！！！](https://toutiao.io/k/6muqkam) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

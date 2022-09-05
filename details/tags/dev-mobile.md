@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-09-05 14:42:03。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-05 15:15:33。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 移动开发、Flutter相关
 
@@ -7,5 +7,4 @@
 
 
 
-- [2022-09-05-flutter-写-Linux-app-需要-snapcraft-作为运行基础吗？](https://www.v2ex.com/t/877883) 
 - [2022-09-05-Flutter动态化实践-tech.meituan.com](https://blogread.cn/news/go.php?idItem=15369&url=https%3A%2F%2Ftech.meituan.com%2F2020%2F06%2F23%2Fmeituan-flutter-flap.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-09-05 10:16:04。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-05 10:45:11。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,9 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-09-05-最近在写一个.NET-方法注入的工具，遇到了些问题，看看在-V-站能不能找到大佬交流交流](https://www.v2ex.com/t/877886) 
+- [2022-09-05-请问下华硕的-PN64-系列怎么样，看到了最新的-NUC12-感觉华硕可能更有性价比](https://www.v2ex.com/t/877884) 
+- [2022-09-05-在乡镇，有哪些行业还处于一片蓝海？](https://www.v2ex.com/t/877881) 
 - [2022-09-05-想问下在成都有办理护照的渠道吗？](https://www.v2ex.com/t/877879) 
 - [2022-09-05-新能源汽车的手机控制和智能化对比有嘛？](https://www.v2ex.com/t/877878) 
 - [2022-09-05-大家搞-android-源码开发的工作环境都是怎样的？](https://www.v2ex.com/t/877876) 
@@ -1945,7 +1948,6 @@
 - [2022-09-05-纯命令行的-Windows，如何像-Linux-一样“优雅”地使用？](https://www.v2ex.com/t/877839) 
 - [2022-09-05-知乎加入盲水印?](https://www.v2ex.com/t/877838) 
 - [2022-09-05-对于需要跨天的业务,在测试环境有没有什么应对方案更改时间?](https://www.v2ex.com/t/877837) 
-- [2022-09-05-记一次一加-6T-氢-OS-刷氧-OS-的过程](https://www.v2ex.com/t/877835) 
 - [2022-09-05-向量数据库入坑指南：聊聊来自元宇宙大厂-Meta-的相似度检索技术-Faiss-soulteary.com](https://blogread.cn/news/go.php?idItem=15378&url=https%3A%2F%2Fsoulteary.com%2F2022%2F09%2F03%2Fvector-database-guide-talk-about-the-similarity-retrieval-technology-from-metaverse-big-company-faiss.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-09-05-啊哈，一道有趣的Go并发题-colobu.com](https://blogread.cn/news/go.php?idItem=15377&url=https%3A%2F%2Fcolobu.com%2F2022%2F09%2F01%2Ffizzbuzz-in-go%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-09-05-Replication（下）：事务，一致性与共识-tech.meituan.com](https://blogread.cn/news/go.php?idItem=15376&url=https%3A%2F%2Ftech.meituan.com%2F2022%2F08%2F25%2Freplication-in-meituan-02.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1977,8 +1979,8 @@
 - [2022-09-05-一个Go语言实现的流量回放工具](https://toutiao.io/k/ox96oka) 
 - [2022-09-05-快速验证环](https://toutiao.io/k/ghilj1z) 
 - [2022-09-05-基于netfilter的后门](https://toutiao.io/k/nwmhms8) 
-- [2022-09-05-推荐-丢弃掉那些BeanUtils工具类吧，MapStruct真香！！！](https://toutiao.io/k/6muqkam) 
-- [2022-09-05-推荐-Java线上CPU内存冲高问题排查步骤](https://toutiao.io/k/t9sj17s) 
 - [2022-09-05-推荐-SpringBoot-官方强烈推荐，连接池，太快了！](https://toutiao.io/k/zumxh7v) 
-- [2022-09-05-推荐-聊聊数据库建表的15个小技巧](https://toutiao.io/k/uym7cfr) 
+- [2022-09-05-推荐-丢弃掉那些BeanUtils工具类吧，MapStruct真香！！！](https://toutiao.io/k/6muqkam) 
 - [2022-09-05-推荐-什么是顶级的思维？](https://toutiao.io/k/ulqvlcd) 
+- [2022-09-05-推荐-聊聊数据库建表的15个小技巧](https://toutiao.io/k/uym7cfr) 
+- [2022-09-05-推荐-Java线上CPU内存冲高问题排查步骤](https://toutiao.io/k/t9sj17s) 

@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-09-05 10:16:04。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-05 10:45:11。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -138,6 +138,7 @@
 
 
 
+- [【V2EX】flutter-写-Linux-app-需要-snapcraft-作为运行基础吗？](https://www.v2ex.com/t/877883)
 - [【技术头条】Flutter动态化实践-tech.meituan.com](https://blogread.cn/news/go.php?idItem=15369&url=https%3A%2F%2Ftech.meituan.com%2F2020%2F06%2F23%2Fmeituan-flutter-flap.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [......【查看更多】......](./details/tags/dev-mobile.md)
 
@@ -155,7 +156,6 @@
 
 
 
-- [【V2EX】上海联通的场景宽带里的游戏宽带公网和游戏加速有冲突！](https://www.v2ex.com/t/877834)
 - [......【查看更多】......](./details/tags/dev-game.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -258,8 +258,6 @@
 
 
 - [【V2EX】性能调优——小小的-log-大大的坑](https://www.v2ex.com/t/877869)
-- [【V2EX】html-使用-Google-字体没有加载出来是怎么回事？](https://www.v2ex.com/t/877836)
-- [【V2EX】移动端使用-new-FontFace-加载第三方字体无效](https://www.v2ex.com/t/877831)
 - [【技术头条】美团搜索粗排优化的探索与实践-tech.meituan.com](https://blogread.cn/news/go.php?idItem=15372&url=https%3A%2F%2Ftech.meituan.com%2F2022%2F08%2F11%2Fcoarse-ranking-exploration-practice.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【技术头条】美团搜索粗排优化的探索与实践-tech.meituan.com](https://blogread.cn/news/go.php?idItem=15371&url=https%3A%2F%2Ftech.meituan.com%2F2022%2F08%2F11%2Fcoarse-ranking-exploration-practice.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【技术头条】借助-Docker-来搭-Nginx-的积木：快速实现高性能二维码服务-soulteary.com](https://blogread.cn/news/go.php?idItem=15364&url=https%3A%2F%2Fsoulteary.com%2F2022%2F08%2F27%2Fbuilding-blocks-of-nginx-with-docker-quickly-implement-high-performance-qr-code-services.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
@@ -302,6 +300,7 @@
 
 
 
+- [【V2EX】mac-os-系统下-goland-vim-插件-j-k-h-l-上下左右移动光标的按键-长按时不重复，怎么设置一下呢？](https://www.v2ex.com/t/877885)
 - [【V2EX】才知道腾讯搞了一个扣叮,-感觉挺好玩的,属于儿童编程教育方面的,-大家觉得这个东西的教育作用怎么样,有实际意义没.https://coding.qq.com/](https://www.v2ex.com/t/877875)
 - [【开发者头条】参加了个算法比赛，真是一言难尽啊](https://toutiao.io/k/3mxn8wi)
 - [【开发者头条】【k8s实战】kubeasz离线部署多master高可用集群](https://toutiao.io/k/1wumpw1)

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-09-05 16:19:39。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-09-05 16:59:35。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,9 @@
 </summary>
 
 
+- [【V2EX】2022-09-05-周末不加班，周一被通知被辞退如何维权](https://www.v2ex.com/t/877949) 
+- [【V2EX】2022-09-05-Arm-Mac-用哪个-GNU-Arm-Embedded-Toolchain？](https://www.v2ex.com/t/877946) 
+- [【V2EX】2022-09-05-上海-不加班-可一半时间居家办公-外企-招-各级-Java-，中高级测试，高级安卓、产品，中级-devOps](https://www.v2ex.com/t/877944) 
 - [【V2EX】2022-09-05-SMDB-API-更新-1.1.0-版本---可能是最好的中文影视数据-API-服务](https://www.v2ex.com/t/877943) 
 - [【V2EX】2022-09-05-为什么从-Google-相册迁移图片到-iOS-相册时间线会错乱？](https://www.v2ex.com/t/877942) 
 - [【V2EX】2022-09-05-济南-世界-500-强公司济南分部招聘](https://www.v2ex.com/t/877940) 
@@ -103,11 +106,6 @@
 - [【V2EX】2022-09-05-外贸行业稳定看世界怎么弄比较妥当？](https://www.v2ex.com/t/877903) 
 - [【V2EX】2022-09-05-德国计划出台门槛最低的“机会绿卡”，促进外国技术工人移民。](https://www.v2ex.com/t/877902) 
 - [【V2EX】2022-09-05-商贷-115w，-4.3-利率，有必要提前还贷吗](https://www.v2ex.com/t/877901) 
-- [【V2EX】2022-09-05-14-寸-m1pro-续航](https://www.v2ex.com/t/877898) 
-- [【V2EX】2022-09-05-360-发布的《关于西北工业大学发现美国-NSA-网络攻击调查报告（之一）》大家怎么看](https://www.v2ex.com/t/877897) 
-- [【V2EX】2022-09-05-NodeJS-通过-pkg-打包发布可行吗？](https://www.v2ex.com/t/877896) 
-- [【V2EX】2022-09-05-各位小区的物业费、电梯费是多少？](https://www.v2ex.com/t/877895) 
-- [【V2EX】2022-09-05-为练习-ios-开发的-App-画了一个-Logo](https://www.v2ex.com/t/877894) 
 - [【技术头条】2022-09-05-向量数据库入坑指南：聊聊来自元宇宙大厂-Meta-的相似度检索技术-Faiss-soulteary.com](https://blogread.cn/news/go.php?idItem=15378&url=https%3A%2F%2Fsoulteary.com%2F2022%2F09%2F03%2Fvector-database-guide-talk-about-the-similarity-retrieval-technology-from-metaverse-big-company-faiss.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-09-05-啊哈，一道有趣的Go并发题-colobu.com](https://blogread.cn/news/go.php?idItem=15377&url=https%3A%2F%2Fcolobu.com%2F2022%2F09%2F01%2Ffizzbuzz-in-go%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-09-05-Replication（下）：事务，一致性与共识-tech.meituan.com](https://blogread.cn/news/go.php?idItem=15376&url=https%3A%2F%2Ftech.meituan.com%2F2022%2F08%2F25%2Freplication-in-meituan-02.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -149,10 +147,10 @@
 - [【开发者头条】2022-09-05-如何在-C#-程序中注入恶意-DLL-？](https://toutiao.io/k/x4vvdc9) 
 - [【开发者头条】2022-09-05-快速验证环](https://toutiao.io/k/ghilj1z) 
 - [【开发者头条】2022-09-05-基于netfilter的后门](https://toutiao.io/k/nwmhms8) 
-- [【开发者头条】2022-09-05-推荐-SpringBoot-官方强烈推荐，连接池，太快了！](https://toutiao.io/k/zumxh7v) 
 - [【开发者头条】2022-09-05-推荐-什么是顶级的思维？](https://toutiao.io/k/ulqvlcd) 
-- [【开发者头条】2022-09-05-推荐-聊聊数据库建表的15个小技巧](https://toutiao.io/k/uym7cfr) 
 - [【开发者头条】2022-09-05-推荐-丢弃掉那些BeanUtils工具类吧，MapStruct真香！！！](https://toutiao.io/k/6muqkam) 
+- [【开发者头条】2022-09-05-推荐-聊聊数据库建表的15个小技巧](https://toutiao.io/k/uym7cfr) 
+- [【开发者头条】2022-09-05-推荐-SpringBoot-官方强烈推荐，连接池，太快了！](https://toutiao.io/k/zumxh7v) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-09-05 16:19:39。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-05 16:59:35。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1911,6 +1911,9 @@
 - [2020-03-10-时间线|新冠病毒最早发现于何时？](https://datanews.caixin.com/m/2020-03-10/101526556.html) 
 - [2020-03-05-时间线|新冠疫情：从开始到现在](https://datanews.caixin.com/m/2020-03-05/101524429.html) 
 - [2020-02-27-地图｜海外新冠疫情实时动态](https://datanews.caixin.com/interactive/2020/pneumonia-h5/global.html) 
+- [2022-09-05-周末不加班，周一被通知被辞退如何维权](https://www.v2ex.com/t/877949) 
+- [2022-09-05-Arm-Mac-用哪个-GNU-Arm-Embedded-Toolchain？](https://www.v2ex.com/t/877946) 
+- [2022-09-05-上海-不加班-可一半时间居家办公-外企-招-各级-Java-，中高级测试，高级安卓、产品，中级-devOps](https://www.v2ex.com/t/877944) 
 - [2022-09-05-SMDB-API-更新-1.1.0-版本---可能是最好的中文影视数据-API-服务](https://www.v2ex.com/t/877943) 
 - [2022-09-05-为什么从-Google-相册迁移图片到-iOS-相册时间线会错乱？](https://www.v2ex.com/t/877942) 
 - [2022-09-05-vscode-使用-clangd-头文件的下划线](https://www.v2ex.com/t/877939) 
@@ -1937,10 +1940,6 @@
 - [2022-09-05-外贸行业稳定看世界怎么弄比较妥当？](https://www.v2ex.com/t/877903) 
 - [2022-09-05-德国计划出台门槛最低的“机会绿卡”，促进外国技术工人移民。](https://www.v2ex.com/t/877902) 
 - [2022-09-05-商贷-115w，-4.3-利率，有必要提前还贷吗](https://www.v2ex.com/t/877901) 
-- [2022-09-05-14-寸-m1pro-续航](https://www.v2ex.com/t/877898) 
-- [2022-09-05-360-发布的《关于西北工业大学发现美国-NSA-网络攻击调查报告（之一）》大家怎么看](https://www.v2ex.com/t/877897) 
-- [2022-09-05-各位小区的物业费、电梯费是多少？](https://www.v2ex.com/t/877895) 
-- [2022-09-05-为练习-ios-开发的-App-画了一个-Logo](https://www.v2ex.com/t/877894) 
 - [2022-09-05-向量数据库入坑指南：聊聊来自元宇宙大厂-Meta-的相似度检索技术-Faiss-soulteary.com](https://blogread.cn/news/go.php?idItem=15378&url=https%3A%2F%2Fsoulteary.com%2F2022%2F09%2F03%2Fvector-database-guide-talk-about-the-similarity-retrieval-technology-from-metaverse-big-company-faiss.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-09-05-啊哈，一道有趣的Go并发题-colobu.com](https://blogread.cn/news/go.php?idItem=15377&url=https%3A%2F%2Fcolobu.com%2F2022%2F09%2F01%2Ffizzbuzz-in-go%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-09-05-Replication（下）：事务，一致性与共识-tech.meituan.com](https://blogread.cn/news/go.php?idItem=15376&url=https%3A%2F%2Ftech.meituan.com%2F2022%2F08%2F25%2Freplication-in-meituan-02.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1972,7 +1971,7 @@
 - [2022-09-05-如何在-C#-程序中注入恶意-DLL-？](https://toutiao.io/k/x4vvdc9) 
 - [2022-09-05-快速验证环](https://toutiao.io/k/ghilj1z) 
 - [2022-09-05-基于netfilter的后门](https://toutiao.io/k/nwmhms8) 
-- [2022-09-05-推荐-SpringBoot-官方强烈推荐，连接池，太快了！](https://toutiao.io/k/zumxh7v) 
 - [2022-09-05-推荐-什么是顶级的思维？](https://toutiao.io/k/ulqvlcd) 
-- [2022-09-05-推荐-聊聊数据库建表的15个小技巧](https://toutiao.io/k/uym7cfr) 
 - [2022-09-05-推荐-丢弃掉那些BeanUtils工具类吧，MapStruct真香！！！](https://toutiao.io/k/6muqkam) 
+- [2022-09-05-推荐-聊聊数据库建表的15个小技巧](https://toutiao.io/k/uym7cfr) 
+- [2022-09-05-推荐-SpringBoot-官方强烈推荐，连接池，太快了！](https://toutiao.io/k/zumxh7v) 

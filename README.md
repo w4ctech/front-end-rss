@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-09-05 22:43:04，:rocket: 更新条数: +2029， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-09-05 23:03:30，:rocket: 更新条数: +2028， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,10 +491,10 @@
 </summary>
 
 
+- [2022-09-05-这个通用-SSL-证书指的是什么？](https://www.v2ex.com/t/877958) ![](assets/new.png)  
 - [2022-09-05-我把老板炒了来创业系列-1---打工是不可能打工的,从此刻开始全身心投入-TS-全栈训练营](https://www.v2ex.com/t/877957) ![](assets/new.png)  
 - [2022-09-05-大四上学期，考研无望，想找实习但基本无项目经验，应该去找培训版上吗？](https://www.v2ex.com/t/877956) ![](assets/new.png)  
 - [2022-09-05-关于-onvif-摄像头与客户端-app-的交互细节](https://www.v2ex.com/t/877955) ![](assets/new.png)  
-- [2022-09-05-傻狗-v4-for-马克-1=4](https://www.v2ex.com/t/877954) ![](assets/new.png)  
 - [2022-09-05-半夜又跟自己较劲了](https://www.v2ex.com/t/877952) ![](assets/new.png)  
 - [2022-09-05-建议保存：急性心梗发作及猝死风险应对的自助指南-v1.2-版](https://www.v2ex.com/t/877950) ![](assets/new.png)  
 - [2022-09-05-周末不加班，周一被通知被辞退如何维权](https://www.v2ex.com/t/877949) ![](assets/new.png)  

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-09-05 22:43:04。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-09-05 23:03:31。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,10 +68,10 @@
 </summary>
 
 
+- [【V2EX】2022-09-05-这个通用-SSL-证书指的是什么？](https://www.v2ex.com/t/877958) 
 - [【V2EX】2022-09-05-我把老板炒了来创业系列-1---打工是不可能打工的,从此刻开始全身心投入-TS-全栈训练营](https://www.v2ex.com/t/877957) 
 - [【V2EX】2022-09-05-大四上学期，考研无望，想找实习但基本无项目经验，应该去找培训版上吗？](https://www.v2ex.com/t/877956) 
 - [【V2EX】2022-09-05-关于-onvif-摄像头与客户端-app-的交互细节](https://www.v2ex.com/t/877955) 
-- [【V2EX】2022-09-05-傻狗-v4-for-马克-1=4](https://www.v2ex.com/t/877954) 
 - [【V2EX】2022-09-05-半夜又跟自己较劲了](https://www.v2ex.com/t/877952) 
 - [【V2EX】2022-09-05-建议保存：急性心梗发作及猝死风险应对的自助指南-v1.2-版](https://www.v2ex.com/t/877950) 
 - [【V2EX】2022-09-05-周末不加班，周一被通知被辞退如何维权](https://www.v2ex.com/t/877949) 
@@ -105,7 +105,6 @@
 - [【V2EX】2022-09-05-不知道是不是我火星了，-YouTube-网页也能下载和观看已下载视频。](https://www.v2ex.com/t/877914) 
 - [【V2EX】2022-09-05-iPhone-与苹果笔记本之间不能接力了](https://www.v2ex.com/t/877913) 
 - [【V2EX】2022-09-05-IPv6-环境下一机多-IP-玩法的讨论](https://www.v2ex.com/t/877910) 
-- [【V2EX】2022-09-05-网上买电话卡哪种可以选择归属地？](https://www.v2ex.com/t/877908) 
 - [【技术头条】2022-09-05-向量数据库入坑指南：聊聊来自元宇宙大厂-Meta-的相似度检索技术-Faiss-soulteary.com](https://blogread.cn/news/go.php?idItem=15378&url=https%3A%2F%2Fsoulteary.com%2F2022%2F09%2F03%2Fvector-database-guide-talk-about-the-similarity-retrieval-technology-from-metaverse-big-company-faiss.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-09-05-啊哈，一道有趣的Go并发题-colobu.com](https://blogread.cn/news/go.php?idItem=15377&url=https%3A%2F%2Fcolobu.com%2F2022%2F09%2F01%2Ffizzbuzz-in-go%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-09-05-Replication（下）：事务，一致性与共识-tech.meituan.com](https://blogread.cn/news/go.php?idItem=15376&url=https%3A%2F%2Ftech.meituan.com%2F2022%2F08%2F25%2Freplication-in-meituan-02.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -148,9 +147,9 @@
 - [【开发者头条】2022-09-05-快速验证环](https://toutiao.io/k/ghilj1z) 
 - [【开发者头条】2022-09-05-基于netfilter的后门](https://toutiao.io/k/nwmhms8) 
 - [【开发者头条】2022-09-05-推荐-什么是顶级的思维？](https://toutiao.io/k/ulqvlcd) 
-- [【开发者头条】2022-09-05-推荐-丢弃掉那些BeanUtils工具类吧，MapStruct真香！！！](https://toutiao.io/k/6muqkam) 
-- [【开发者头条】2022-09-05-推荐-SpringBoot-官方强烈推荐，连接池，太快了！](https://toutiao.io/k/zumxh7v) 
 - [【开发者头条】2022-09-05-推荐-聊聊数据库建表的15个小技巧](https://toutiao.io/k/uym7cfr) 
+- [【开发者头条】2022-09-05-推荐-SpringBoot-官方强烈推荐，连接池，太快了！](https://toutiao.io/k/zumxh7v) 
+- [【开发者头条】2022-09-05-推荐-丢弃掉那些BeanUtils工具类吧，MapStruct真香！！！](https://toutiao.io/k/6muqkam) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

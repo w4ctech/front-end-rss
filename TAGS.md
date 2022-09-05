@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-09-05 01:23:14。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-05 04:06:22。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -88,6 +88,7 @@
 
 
 - [【武汉肺炎防疫全纪录(财新网)】韩国拟升级首尔疫情管控-法国专业机构建议强制接种疫苗｜大流行手记（7月10日）](https://m.caixin.com/m/2021-07-11/101738786.html)
+- [【开发者头条】通过-Jenkins-构建-CI/CD-实现全链路灰度](https://toutiao.io/k/fyfnbjm)
 - [......【查看更多】......](./details/tags/pack-build.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -153,7 +154,7 @@
 
 
 
-- [【V2EX】为什么游戏玩家少了就要关服？](https://www.v2ex.com/t/877671)
+- [【V2EX】2022-年，-5000-块能买什么游戏本？](https://www.v2ex.com/t/877728)
 - [......【查看更多】......](./details/tags/dev-game.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -180,8 +181,9 @@
 - [【张鑫旭-鑫空间-鑫生活】如何继承自定义元素及其他JS中扩展新方法](https://www.zhangxinxu.com/wordpress/2022/06/js-extend-class-custom-elements/)
 - [【张鑫旭-鑫空间-鑫生活】介绍一种CSS变量未定义语法也OK的小妙招](https://www.zhangxinxu.com/wordpress/2022/06/css-var-optional-empty-trick/)
 - [【张鑫旭-鑫空间-鑫生活】如何实现页面刷新后不定位到之前的滚动位置？](https://www.zhangxinxu.com/wordpress/2022/05/history-scrollrestoration/)
-- [【V2EX】软路由散热分享](https://www.v2ex.com/t/877714)
-- [【V2EX】Edge-的-PDF-滚动拖影什么时候能改](https://www.v2ex.com/t/877686)
+- [【V2EX】500-以下有什么软路由推荐？](https://www.v2ex.com/t/877773)
+- [【V2EX】旁路由使用纯-IPv6-节点的问题](https://www.v2ex.com/t/877769)
+- [【V2EX】windows-系统，-virtualbox-host-only-网络适配器，抢占覆盖系统-dns](https://www.v2ex.com/t/877743)
 - [【技术头条】JS-replaceAll-和-matchAll-使用指南不指北-www.zhangxinxu.com](https://blogread.cn/news/go.php?idItem=15365&url=https%3A%2F%2Fwww.zhangxinxu.com%2Fwordpress%2F2022%2F08%2Fjs-replaceall-matchall%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【开发者头条】【第2723期】高级-Promise-模式：Promise缓存](https://toutiao.io/k/5l42v4r)
 - [......【查看更多】......](./details/tags/javascript.md)
@@ -204,7 +206,6 @@
 - [【张鑫旭-鑫空间-鑫生活】万物皆可clip-path，纯CSS绘制0-9数字](https://www.zhangxinxu.com/wordpress/2022/07/clip-path-css-number/)
 - [【张鑫旭-鑫空间-鑫生活】超酷！CSS-font-palette与彩色字体显示](https://www.zhangxinxu.com/wordpress/2022/07/css-font-palette/)
 - [【张鑫旭-鑫空间-鑫生活】CSS排版为何强？瞧瞧多牛这换行](https://www.zhangxinxu.com/wordpress/2022/06/css-line-break-word-wrap-all/)
-- [【V2EX】番剧的人物动作动画一般是怎么制作的，一帧一帧画吗，还是使用了-Live2D-或者类似的技术？](https://www.v2ex.com/t/877700)
 - [......【查看更多】......](./details/tags/css.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -239,7 +240,6 @@
 
 - [【武汉肺炎防疫全纪录(财新网)】广州17岁男生在定点医院参加高考-特殊考场视频监考](https://m.caixin.com/m/2021-06-05/101723418.html)
 - [【武汉肺炎防疫全纪录(财新网)】林郑月娥率13高官直播接种科兴疫苗-复星疫苗预计周中到港](https://m.caixin.com/m/2021-02-22/101665724.html)
-- [【V2EX】像-QQ-音乐/-哔哩哔哩-这样的音乐/视频平台，后端是怎么实现码率切换的？](https://www.v2ex.com/t/877676)
 - [......【查看更多】......](./details/tags/audio-video.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -282,11 +282,10 @@
 - [【武汉肺炎防疫全纪录(财新网)】解药|新冠mRNA疫苗安全性有哪些挑战？](https://m.caixin.com/m/2021-01-08/101648043.html)
 - [【武汉肺炎防疫全纪录(财新网)】大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html)
 - [【张鑫旭-鑫空间-鑫生活】基于文字的URL锚点定位与::target-text样式设置](https://www.zhangxinxu.com/wordpress/2022/06/url-anchor-target-text/)
-- [【V2EX】windows-的-photos默认图片浏览器不能缓冲同文件夹下的图片吗?](https://www.v2ex.com/t/877713)
-- [【V2EX】chrome/edge-上可有自定义指定网站-div-中字体大小的插件？](https://www.v2ex.com/t/877709)
-- [【V2EX】除了-Safari，為什麼其它主流瀏覽器書籤還區分「桌面」和「行動版書籤」](https://www.v2ex.com/t/877699)
-- [【V2EX】Redis-缓存淘汰配置如何选？](https://www.v2ex.com/t/877698)
-- [【V2EX】Chrome-上有什么好的护眼插件吗？](https://www.v2ex.com/t/877690)
+- [【V2EX】Firefox-国服如何转国际服，而不丢失多年使用的同步数据？](https://www.v2ex.com/t/877770)
+- [【V2EX】Edge-自动安装-AdGuard？](https://www.v2ex.com/t/877761)
+- [【V2EX】小米浏览器的自带墙有办法去除吗](https://www.v2ex.com/t/877748)
+- [【V2EX】遇到一个柯里化的问题，感到困惑，请求大佬解惑](https://www.v2ex.com/t/877732)
 - [......【查看更多】......](./details/tags/browser.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

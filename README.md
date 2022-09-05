@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-09-05 01:23:14，:rocket: 更新条数: +2027， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-09-05 04:06:22，:rocket: 更新条数: +2028， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,26 +491,26 @@
 </summary>
 
 
-- [2022-09-05-一个-uniapp-项目,想在切入后台的时候,主动关闭应用，请问...](https://www.v2ex.com/t/877715) ![](assets/new.png)  
-- [2022-09-05-软路由散热分享](https://www.v2ex.com/t/877714) ![](assets/new.png)  
-- [2022-09-05-windows-的-photos默认图片浏览器不能缓冲同文件夹下的图片吗?](https://www.v2ex.com/t/877713) ![](assets/new.png)  
-- [2022-09-05-持币收京东-Plus-年卡](https://www.v2ex.com/t/877712) ![](assets/new.png)  
-- [2022-09-05-如何解除原生/类原生系统的屏幕录制时长限制？](https://www.v2ex.com/t/877711) ![](assets/new.png)  
-- [2022-09-05-是不是都在开发记账-app？？](https://www.v2ex.com/t/877710) ![](assets/new.png)  
-- [2022-09-05-chrome/edge-上可有自定义指定网站-div-中字体大小的插件？](https://www.v2ex.com/t/877709) ![](assets/new.png)  
-- [2022-09-05-五分钟实现-Zabbix-电话短信邮件钉钉飞书企业微信报警](https://www.v2ex.com/t/877707) ![](assets/new.png)  
-- [2022-09-04-摸鱼摸了三年，我开发了一个简历编辑工具，基本功能已完成，欢迎体验～](https://www.v2ex.com/t/877706) ![](assets/new.png)  
-- [2022-09-04-好像有人拿到-tiktok-的后台源代码了](https://www.v2ex.com/t/877705) ![](assets/new.png)  
-- [2022-09-04-Lapce-代码编辑器发布-0.2.0](https://www.v2ex.com/t/877704) ![](assets/new.png)  
-- [2022-09-04-做了个消除图片水印的纯前端工具](https://www.v2ex.com/t/877703) ![](assets/new.png)  
-- [2022-09-04-ipv6-似乎被运营商收回了，有办法再要回来吗？](https://www.v2ex.com/t/877702) ![](assets/new.png)  
-- [2022-09-04-求教可靠性高的电脑选择](https://www.v2ex.com/t/877701) ![](assets/new.png)  
-- [2022-09-04-番剧的人物动作动画一般是怎么制作的，一帧一帧画吗，还是使用了-Live2D-或者类似的技术？](https://www.v2ex.com/t/877700) ![](assets/new.png)  
-- [2022-09-04-除了-Safari，為什麼其它主流瀏覽器書籤還區分「桌面」和「行動版書籤」](https://www.v2ex.com/t/877699) ![](assets/new.png)  
-- [2022-09-04-Redis-缓存淘汰配置如何选？](https://www.v2ex.com/t/877698) ![](assets/new.png)  
-- [2022-09-04-Mac-连不上-Windows-SMB-服务的一个解决方法就是去掉-Windows-电脑名中的汉字](https://www.v2ex.com/t/877697) ![](assets/new.png)  
-- [2022-09-04-小米-watch-S1-怎么开发应用？](https://www.v2ex.com/t/877696) ![](assets/new.png)  
-- [2022-09-04-如何入门嵌入式开发？](https://www.v2ex.com/t/877695) ![](assets/new.png)  
+- [2022-09-05--Java-后端-7-年多工作经验，长沙或者广州求捞](https://www.v2ex.com/t/877777) ![](assets/new.png)  
+- [2022-09-05-电脑端-WIN-阿里旺旺-9.12-彻底无法使用](https://www.v2ex.com/t/877776) ![](assets/new.png)  
+- [2022-09-05-不懂就问，这个-if-存在的意义是什么呢？](https://www.v2ex.com/t/877775) ![](assets/new.png)  
+- [2022-09-05-后端程序员-，平时自己想开发一些-app-玩-，一般什么什么框架和技术栈比较好](https://www.v2ex.com/t/877774) ![](assets/new.png)  
+- [2022-09-05-500-以下有什么软路由推荐？](https://www.v2ex.com/t/877773) ![](assets/new.png)  
+- [2022-09-05-Firefox-国服如何转国际服，而不丢失多年使用的同步数据？](https://www.v2ex.com/t/877770) ![](assets/new.png)  
+- [2022-09-05-旁路由使用纯-IPv6-节点的问题](https://www.v2ex.com/t/877769) ![](assets/new.png)  
+- [2022-09-05-Cloudflare-有国内部署了？](https://www.v2ex.com/t/877768) ![](assets/new.png)  
+- [2022-09-05-你们有这种操作系统洁癖没](https://www.v2ex.com/t/877767) ![](assets/new.png)  
+- [2022-09-05-最近试用了好多国外的云产品，](https://www.v2ex.com/t/877766) ![](assets/new.png)  
+- [2022-09-05-求-xcode-package-依赖正确下载姿势，拉取-aws-sdk--Swift-两个多小时了](https://www.v2ex.com/t/877764) ![](assets/new.png)  
+- [2022-09-05-Win10/11-任务栏的天气预报（咨询和兴趣），真得不错，直到你不能再控制自己的兴趣了](https://www.v2ex.com/t/877763) ![](assets/new.png)  
+- [2022-09-05-Surge-Mac-4-发车-135-元/位](https://www.v2ex.com/t/877762) ![](assets/new.png)  
+- [2022-09-05-Edge-自动安装-AdGuard？](https://www.v2ex.com/t/877761) ![](assets/new.png)  
+- [2022-09-05-发现一个-Java-代码耗时统计的问题](https://www.v2ex.com/t/877760) ![](assets/new.png)  
+- [2022-09-05-转联通宽带](https://www.v2ex.com/t/877759) ![](assets/new.png)  
+- [2022-09-05-招行的经典白，请教一下各位大佬是怎么申请下来的呢？](https://www.v2ex.com/t/877758) ![](assets/new.png)  
+- [2022-09-05-网站微信登录账号-和-注册账号合并的问题？](https://www.v2ex.com/t/877757) ![](assets/new.png)  
+- [2022-09-05-你使用最长的，认为最好的笔记软件是什么?](https://www.v2ex.com/t/877756) ![](assets/new.png)  
+- [2022-09-05-正版化检查，有大公司的同志们有收到类似通知么](https://www.v2ex.com/t/877755) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -554,24 +554,25 @@
 
 
 - [2022-09-05-参加了个算法比赛，真是一言难尽啊](https://toutiao.io/k/3mxn8wi) ![](assets/new.png)  
+- [2022-09-05-为什么-Spring和IDEA-都不推荐使用-@Autowired-注解](https://toutiao.io/k/xv1x088) ![](assets/new.png)  
+- [2022-09-05-微服务网关Gateway实践总结](https://toutiao.io/k/f4nh7n3) ![](assets/new.png)  
 - [2022-09-05-C++最佳实践-|-4.-可维护性](https://toutiao.io/k/zkc86sq) ![](assets/new.png)  
 - [2022-09-05-AI数字绘画-stable-diffusion-保姆级教程](https://toutiao.io/k/2fzppgh) ![](assets/new.png)  
 - [2022-09-05-【k8s实战】kubeasz离线部署多master高可用集群](https://toutiao.io/k/1wumpw1) ![](assets/new.png)  
-- [2022-09-05-微服务网关Gateway实践总结](https://toutiao.io/k/f4nh7n3) ![](assets/new.png)  
-- [2022-09-05-为什么-Spring和IDEA-都不推荐使用-@Autowired-注解](https://toutiao.io/k/xv1x088) ![](assets/new.png)  
 - [2022-09-05-面试官：Spring中获取Bean有几种方式？](https://toutiao.io/k/x9gh2qw) ![](assets/new.png)  
 - [2022-09-05-后端程序员生产力工具合集；技术人如何做产品？日本消费电子崩盘启示录｜码农周刊VIP会员专属邮件周报-Vol.105](https://toutiao.io/k/3xhzbdx) ![](assets/new.png)  
-- [2022-09-05-字节跳动开源了他们基于Rust语言的RPC框架](https://toutiao.io/k/ksum9cv) ![](assets/new.png)  
+- [2022-09-05-从-Linux-内核角度探秘-JDK-NIO-文件读写本质](https://toutiao.io/k/7fp2k33) ![](assets/new.png)  
 - [2022-09-05-全链路监控神器Skywalking，就是这么秀！](https://toutiao.io/k/qoczgm5) ![](assets/new.png)  
+- [2022-09-05-字节跳动开源了他们基于Rust语言的RPC框架](https://toutiao.io/k/ksum9cv) ![](assets/new.png)  
 - [2022-09-05-作为前端，工作中处理过什么复杂的需求？](https://toutiao.io/k/0123uhs) ![](assets/new.png)  
 - [2022-09-05-Street-coder-1.4.1--1.4.2](https://toutiao.io/k/1tnvvby) ![](assets/new.png)  
-- [2022-09-05-从-Linux-内核角度探秘-JDK-NIO-文件读写本质](https://toutiao.io/k/7fp2k33) ![](assets/new.png)  
 - [2022-09-05-【第2723期】高级-Promise-模式：Promise缓存](https://toutiao.io/k/5l42v4r) ![](assets/new.png)  
+- [2022-09-05-通过-Jenkins-构建-CI/CD-实现全链路灰度](https://toutiao.io/k/fyfnbjm) ![](assets/new.png)  
+- [2022-09-05-告别平庸的图表，这才是数据可视化的正确玩法！](https://toutiao.io/k/0dq030c) ![](assets/new.png)  
+- [2022-09-05-轻量级消息队列-Django-Q-轻度体验](https://toutiao.io/k/vrz1lfx) ![](assets/new.png)  
+- [2022-09-05-如何在-C#-程序中注入恶意-DLL-？](https://toutiao.io/k/x4vvdc9) ![](assets/new.png)  
 - [2022-09-05-推荐-丢弃掉那些BeanUtils工具类吧，MapStruct真香！！！](https://toutiao.io/k/6muqkam) ![](assets/new.png)  
-- [2022-09-05-推荐-SpringBoot-官方强烈推荐，连接池，太快了！](https://toutiao.io/k/zumxh7v) ![](assets/new.png)  
-- [2022-09-05-推荐-Java线上CPU内存冲高问题排查步骤](https://toutiao.io/k/t9sj17s) ![](assets/new.png)  
 - [2022-09-05-推荐-什么是顶级的思维？](https://toutiao.io/k/ulqvlcd) ![](assets/new.png)  
-- [2022-09-05-推荐-聊聊数据库建表的15个小技巧](https://toutiao.io/k/uym7cfr) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

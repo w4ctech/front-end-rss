@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-09-05 18:49:34。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-05 19:12:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1939,7 +1939,6 @@
 - [2022-09-05-网上买电话卡哪种可以选择归属地？](https://www.v2ex.com/t/877908) 
 - [2022-09-05-求助：-PD17-虚拟机-ARM-版-Windows-更新失败](https://www.v2ex.com/t/877907) 
 - [2022-09-05-来聊聊学什么技术好](https://www.v2ex.com/t/877904) 
-- [2022-09-05-外贸行业稳定看世界怎么弄比较妥当？](https://www.v2ex.com/t/877903) 
 - [2022-09-05-向量数据库入坑指南：聊聊来自元宇宙大厂-Meta-的相似度检索技术-Faiss-soulteary.com](https://blogread.cn/news/go.php?idItem=15378&url=https%3A%2F%2Fsoulteary.com%2F2022%2F09%2F03%2Fvector-database-guide-talk-about-the-similarity-retrieval-technology-from-metaverse-big-company-faiss.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-09-05-啊哈，一道有趣的Go并发题-colobu.com](https://blogread.cn/news/go.php?idItem=15377&url=https%3A%2F%2Fcolobu.com%2F2022%2F09%2F01%2Ffizzbuzz-in-go%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-09-05-Replication（下）：事务，一致性与共识-tech.meituan.com](https://blogread.cn/news/go.php?idItem=15376&url=https%3A%2F%2Ftech.meituan.com%2F2022%2F08%2F25%2Freplication-in-meituan-02.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1971,7 +1970,7 @@
 - [2022-09-05-如何在-C#-程序中注入恶意-DLL-？](https://toutiao.io/k/x4vvdc9) 
 - [2022-09-05-快速验证环](https://toutiao.io/k/ghilj1z) 
 - [2022-09-05-基于netfilter的后门](https://toutiao.io/k/nwmhms8) 
-- [2022-09-05-推荐-什么是顶级的思维？](https://toutiao.io/k/ulqvlcd) 
 - [2022-09-05-推荐-丢弃掉那些BeanUtils工具类吧，MapStruct真香！！！](https://toutiao.io/k/6muqkam) 
 - [2022-09-05-推荐-SpringBoot-官方强烈推荐，连接池，太快了！](https://toutiao.io/k/zumxh7v) 
+- [2022-09-05-推荐-什么是顶级的思维？](https://toutiao.io/k/ulqvlcd) 
 - [2022-09-05-推荐-聊聊数据库建表的15个小技巧](https://toutiao.io/k/uym7cfr) 

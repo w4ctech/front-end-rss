@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-09-05 23:16:26。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-09-05 23:45:35。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,8 @@
 </summary>
 
 
+- [【V2EX】2022-09-05-用-buildx-在-X86-的服务器上构建-aarch64-的-Docker-镜像会有啥坑吗？](https://www.v2ex.com/t/877960) 
+- [【V2EX】2022-09-05-笑尿我了这个叫-endless-screaming-的-twitter-帐号](https://www.v2ex.com/t/877959) 
 - [【V2EX】2022-09-05-这个通用-SSL-证书指的是什么？](https://www.v2ex.com/t/877958) 
 - [【V2EX】2022-09-05-我把老板炒了来创业系列-1---打工是不可能打工的,从此刻开始全身心投入-TS-全栈训练营](https://www.v2ex.com/t/877957) 
 - [【V2EX】2022-09-05-大四上学期，考研无望，想找实习但基本无项目经验，应该去找培训版上吗？](https://www.v2ex.com/t/877956) 
@@ -104,7 +106,6 @@
 - [【V2EX】2022-09-05-「🇺🇸远程」月薪-30-40K-RMB/全栈开发工程师](https://www.v2ex.com/t/877916) 
 - [【V2EX】2022-09-05-不知道是不是我火星了，-YouTube-网页也能下载和观看已下载视频。](https://www.v2ex.com/t/877914) 
 - [【V2EX】2022-09-05-iPhone-与苹果笔记本之间不能接力了](https://www.v2ex.com/t/877913) 
-- [【V2EX】2022-09-05-IPv6-环境下一机多-IP-玩法的讨论](https://www.v2ex.com/t/877910) 
 - [【技术头条】2022-09-05-向量数据库入坑指南：聊聊来自元宇宙大厂-Meta-的相似度检索技术-Faiss-soulteary.com](https://blogread.cn/news/go.php?idItem=15378&url=https%3A%2F%2Fsoulteary.com%2F2022%2F09%2F03%2Fvector-database-guide-talk-about-the-similarity-retrieval-technology-from-metaverse-big-company-faiss.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-09-05-啊哈，一道有趣的Go并发题-colobu.com](https://blogread.cn/news/go.php?idItem=15377&url=https%3A%2F%2Fcolobu.com%2F2022%2F09%2F01%2Ffizzbuzz-in-go%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-09-05-Replication（下）：事务，一致性与共识-tech.meituan.com](https://blogread.cn/news/go.php?idItem=15376&url=https%3A%2F%2Ftech.meituan.com%2F2022%2F08%2F25%2Freplication-in-meituan-02.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -148,8 +149,8 @@
 - [【开发者头条】2022-09-05-基于netfilter的后门](https://toutiao.io/k/nwmhms8) 
 - [【开发者头条】2022-09-05-推荐-SpringBoot-官方强烈推荐，连接池，太快了！](https://toutiao.io/k/zumxh7v) 
 - [【开发者头条】2022-09-05-推荐-丢弃掉那些BeanUtils工具类吧，MapStruct真香！！！](https://toutiao.io/k/6muqkam) 
-- [【开发者头条】2022-09-05-推荐-什么是顶级的思维？](https://toutiao.io/k/ulqvlcd) 
 - [【开发者头条】2022-09-05-推荐-聊聊数据库建表的15个小技巧](https://toutiao.io/k/uym7cfr) 
+- [【开发者头条】2022-09-05-推荐-什么是顶级的思维？](https://toutiao.io/k/ulqvlcd) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-09-04 23:43:56。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-05 01:23:14。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 前端进阶相关
 
@@ -7,4 +7,5 @@
 
 
 
-- [2022-09-04-图解最常用的10大机器学习算法！](https://toutiao.io/k/tzx4xbr) 
+- [2022-09-05-参加了个算法比赛，真是一言难尽啊](https://toutiao.io/k/3mxn8wi) 
+- [2022-09-05-【k8s实战】kubeasz离线部署多master高可用集群](https://toutiao.io/k/1wumpw1) 

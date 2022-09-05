@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2022-09-04 23:43:56。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-05 01:23:14。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -180,10 +180,10 @@
 - [【张鑫旭-鑫空间-鑫生活】如何继承自定义元素及其他JS中扩展新方法](https://www.zhangxinxu.com/wordpress/2022/06/js-extend-class-custom-elements/)
 - [【张鑫旭-鑫空间-鑫生活】介绍一种CSS变量未定义语法也OK的小妙招](https://www.zhangxinxu.com/wordpress/2022/06/css-var-optional-empty-trick/)
 - [【张鑫旭-鑫空间-鑫生活】如何实现页面刷新后不定位到之前的滚动位置？](https://www.zhangxinxu.com/wordpress/2022/05/history-scrollrestoration/)
+- [【V2EX】软路由散热分享](https://www.v2ex.com/t/877714)
 - [【V2EX】Edge-的-PDF-滚动拖影什么时候能改](https://www.v2ex.com/t/877686)
-- [【V2EX】有没有设置简单便捷的多-wan-口路由器推荐?](https://www.v2ex.com/t/877660)
 - [【技术头条】JS-replaceAll-和-matchAll-使用指南不指北-www.zhangxinxu.com](https://blogread.cn/news/go.php?idItem=15365&url=https%3A%2F%2Fwww.zhangxinxu.com%2Fwordpress%2F2022%2F08%2Fjs-replaceall-matchall%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
-- [【开发者头条】数据可视化系列教程｜六大组件基础知识](https://toutiao.io/k/2jsj0sl)
+- [【开发者头条】【第2723期】高级-Promise-模式：Promise缓存](https://toutiao.io/k/5l42v4r)
 - [......【查看更多】......](./details/tags/javascript.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -240,7 +240,6 @@
 - [【武汉肺炎防疫全纪录(财新网)】广州17岁男生在定点医院参加高考-特殊考场视频监考](https://m.caixin.com/m/2021-06-05/101723418.html)
 - [【武汉肺炎防疫全纪录(财新网)】林郑月娥率13高官直播接种科兴疫苗-复星疫苗预计周中到港](https://m.caixin.com/m/2021-02-22/101665724.html)
 - [【V2EX】像-QQ-音乐/-哔哩哔哩-这样的音乐/视频平台，后端是怎么实现码率切换的？](https://www.v2ex.com/t/877676)
-- [【V2EX】B-站视频链接里的时间戳功能是失效了吗？](https://www.v2ex.com/t/877661)
 - [......【查看更多】......](./details/tags/audio-video.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -283,6 +282,8 @@
 - [【武汉肺炎防疫全纪录(财新网)】解药|新冠mRNA疫苗安全性有哪些挑战？](https://m.caixin.com/m/2021-01-08/101648043.html)
 - [【武汉肺炎防疫全纪录(财新网)】大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html)
 - [【张鑫旭-鑫空间-鑫生活】基于文字的URL锚点定位与::target-text样式设置](https://www.zhangxinxu.com/wordpress/2022/06/url-anchor-target-text/)
+- [【V2EX】windows-的-photos默认图片浏览器不能缓冲同文件夹下的图片吗?](https://www.v2ex.com/t/877713)
+- [【V2EX】chrome/edge-上可有自定义指定网站-div-中字体大小的插件？](https://www.v2ex.com/t/877709)
 - [【V2EX】除了-Safari，為什麼其它主流瀏覽器書籤還區分「桌面」和「行動版書籤」](https://www.v2ex.com/t/877699)
 - [【V2EX】Redis-缓存淘汰配置如何选？](https://www.v2ex.com/t/877698)
 - [【V2EX】Chrome-上有什么好的护眼插件吗？](https://www.v2ex.com/t/877690)
@@ -302,7 +303,8 @@
 
 
 
-- [【开发者头条】图解最常用的10大机器学习算法！](https://toutiao.io/k/tzx4xbr)
+- [【开发者头条】参加了个算法比赛，真是一言难尽啊](https://toutiao.io/k/3mxn8wi)
+- [【开发者头条】【k8s实战】kubeasz离线部署多master高可用集群](https://toutiao.io/k/1wumpw1)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -352,6 +354,7 @@
 
 
 
+- [【开发者头条】面试官：Spring中获取Bean有几种方式？](https://toutiao.io/k/x9gh2qw)
 - [......【查看更多】......](./details/tags/job-interview.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

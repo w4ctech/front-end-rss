@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-09-05 22:15:53，:rocket: 更新条数: +2028， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-09-05 22:43:04，:rocket: 更新条数: +2029， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,9 @@
 </summary>
 
 
+- [2022-09-05-我把老板炒了来创业系列-1---打工是不可能打工的,从此刻开始全身心投入-TS-全栈训练营](https://www.v2ex.com/t/877957) ![](assets/new.png)  
+- [2022-09-05-大四上学期，考研无望，想找实习但基本无项目经验，应该去找培训版上吗？](https://www.v2ex.com/t/877956) ![](assets/new.png)  
+- [2022-09-05-关于-onvif-摄像头与客户端-app-的交互细节](https://www.v2ex.com/t/877955) ![](assets/new.png)  
 - [2022-09-05-傻狗-v4-for-马克-1=4](https://www.v2ex.com/t/877954) ![](assets/new.png)  
 - [2022-09-05-半夜又跟自己较劲了](https://www.v2ex.com/t/877952) ![](assets/new.png)  
 - [2022-09-05-建议保存：急性心梗发作及猝死风险应对的自助指南-v1.2-版](https://www.v2ex.com/t/877950) ![](assets/new.png)  
@@ -508,9 +511,6 @@
 - [2022-09-05-mac-有好用的终端管理工具吗](https://www.v2ex.com/t/877933) ![](assets/new.png)  
 - [2022-09-05-隐藏不能点的按钮，是不是一个很糟糕的设计](https://www.v2ex.com/t/877932) ![](assets/new.png)  
 - [2022-09-05-不懂就问-关于无线-ap-问题](https://www.v2ex.com/t/877931) ![](assets/new.png)  
-- [2022-09-05-SIM-卡识别成错误地区可能是什么原因？](https://www.v2ex.com/t/877930) ![](assets/new.png)  
-- [2022-09-05-完了，主机坏了，求助](https://www.v2ex.com/t/877929) ![](assets/new.png)  
-- [2022-09-05-goland-从-2022.2.1-升级到-2022.2.2-后卡死](https://www.v2ex.com/t/877928) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

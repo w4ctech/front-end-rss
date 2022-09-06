@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-09-06 17:46:58，:rocket: 更新条数: +2028， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-09-06 18:17:54，:rocket: 更新条数: +2028， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-09-06-Python-程序后台运行，如何写在控制台与他交互啊。怎么自定义命令](https://www.v2ex.com/t/878224) ![](assets/new.png)  
 - [2022-09-06-PC-上复制文字出现乱码，是我的设置问题吗？](https://www.v2ex.com/t/878223) ![](assets/new.png)  
 - [2022-09-06-你们公司一般是怎么审查使用的开源库的安全性的？有没有自动化的工具？](https://www.v2ex.com/t/878222) ![](assets/new.png)  
 - [2022-09-06-港区-Apple-iCloud+-2T-车队](https://www.v2ex.com/t/878221) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-09-06-为啥-Dockerfile-的-RUN-mkdir-/foo/bar-创建出来的目录权限和宿主机的-umask-还有容器里面-root-的-umask-设置都对不上？](https://www.v2ex.com/t/878201) ![](assets/new.png)  
 - [2022-09-06-请教各位大神。能否看下这个-TRC20-地址是哪个交易所的](https://www.v2ex.com/t/878200) ![](assets/new.png)  
 - [2022-09-06-学区问题预测](https://www.v2ex.com/t/878199) ![](assets/new.png)  
-- [2022-09-06-为什么我代理已经用的日本-ip-访问-dmm-还是经常打不开](https://www.v2ex.com/t/878198) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

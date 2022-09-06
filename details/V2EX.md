@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2022-09-06 17:46:58。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-06 18:17:54。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2022-09-06-Python-程序后台运行，如何写在控制台与他交互啊。怎么自定义命令](https://www.v2ex.com/t/878224) 
 - [2022-09-06-PC-上复制文字出现乱码，是我的设置问题吗？](https://www.v2ex.com/t/878223) 
 - [2022-09-06-你们公司一般是怎么审查使用的开源库的安全性的？有没有自动化的工具？](https://www.v2ex.com/t/878222) 
 - [2022-09-06-港区-Apple-iCloud+-2T-车队](https://www.v2ex.com/t/878221) 
@@ -41,4 +42,3 @@
 - [2022-09-06-配置完-gitlab-ssh-key-后，在-mac-下仍不能使用公钥访问](https://www.v2ex.com/t/878179) 
 - [2022-09-06-Tailchat-v1.0.0-已发布，欢迎尝试](https://www.v2ex.com/t/878178) 
 - [2022-09-06-shadowrocket-和-Quantumult-X-功能差别已经不大了](https://www.v2ex.com/t/878177) 
-- [2022-09-06-如何结合整洁架构和-MVP-模式提升前端开发体验-系列文章](https://www.v2ex.com/t/878174) 

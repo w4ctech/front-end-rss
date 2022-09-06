@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-09-06 14:42:55，:rocket: 更新条数: +2025， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-09-06 15:16:18，:rocket: 更新条数: +2023， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-09-06-除了-madvr，还有什么视频渲染器比较好？](https://www.v2ex.com/t/878205) ![](assets/new.png)  
+- [2022-09-06-办理身份证的-ZF-部门居然用微信传身份信息和照片。。。](https://www.v2ex.com/t/878203) ![](assets/new.png)  
 - [2022-09-06-为啥-Dockerfile-的-RUN-mkdir-/foo/bar-创建出来的目录权限和宿主机的-umask-还有容器里面-root-的-umask-设置都对不上？](https://www.v2ex.com/t/878201) ![](assets/new.png)  
 - [2022-09-06-请教各位大神。能否看下这个-TRC20-地址是哪个交易所的](https://www.v2ex.com/t/878200) ![](assets/new.png)  
 - [2022-09-06-学区问题预测](https://www.v2ex.com/t/878199) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-09-06-公司电脑能升级-win11-么](https://www.v2ex.com/t/878182) ![](assets/new.png)  
 - [2022-09-06-Mac-加个内存真贵啊](https://www.v2ex.com/t/878180) ![](assets/new.png)  
 - [2022-09-06-配置完-gitlab-ssh-key-后，在-mac-下仍不能使用公钥访问](https://www.v2ex.com/t/878179) ![](assets/new.png)  
-- [2022-09-06-Tailchat-v1.0.0-已发布，欢迎尝试](https://www.v2ex.com/t/878178) ![](assets/new.png)  
-- [2022-09-06-shadowrocket-和-Quantumult-X-功能差别已经不大了](https://www.v2ex.com/t/878177) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

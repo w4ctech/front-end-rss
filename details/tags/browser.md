@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-09-06 10:45:11。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-06 11:13:38。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -15,4 +15,3 @@
 - [2021-01-01-大流行手记|12月31日：英六成病例感染变异病毒-洛杉矶请求军事医疗船支援](https://m.caixin.com/m/2021-01-01/101645820.html) 
 - [2022-06-12-基于文字的URL锚点定位与::target-text样式设置](https://www.zhangxinxu.com/wordpress/2022/06/url-anchor-target-text/) 
 - [2022-09-06-各位大佬，请问一下有没有可以阅读网页的-chrome-插件](https://www.v2ex.com/t/878145) 
-- [2022-09-06-用-iCloud-钥匙串的朋友们，你们在-mac-的-chrome-上怎么自动检测登录保存密码，以及对应网站自动填充呢？](https://www.v2ex.com/t/878102) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-09-06 11:13:38。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2022-09-06 11:39:39。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1942,10 +1942,6 @@
 - [2022-09-06-有对洋垃圾服务器感兴趣的吗？捡了个新的服务器](https://www.v2ex.com/t/878111) 
 - [2022-09-06-阿里云懒散的举报审查系统将逐渐成为诈骗分子的温床](https://www.v2ex.com/t/878110) 
 - [2022-09-06-mysql-怎么保证每次查出来的排名是一致的](https://www.v2ex.com/t/878109) 
-- [2022-09-06-网易云黑胶-VIP（7-天），共-5-张（9-月份）.](https://www.v2ex.com/t/878108) 
-- [2022-09-06-求推荐一个-2k-144hz-的显示器-价位-1000-以下](https://www.v2ex.com/t/878107) 
-- [2022-09-06-22-应届生求-Linux-C++-服务端开发岗，顺便求简历指导](https://www.v2ex.com/t/878106) 
-- [2022-09-06-现在注册-gv-有什么好的接码平台么](https://www.v2ex.com/t/878105) 
 - [2022-09-06-被误解的Event-Sourcing-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15379&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-use-event-sourcing%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-09-06-向量数据库入坑指南：聊聊来自元宇宙大厂-Meta-的相似度检索技术-Faiss-soulteary.com](https://blogread.cn/news/go.php?idItem=15378&url=https%3A%2F%2Fsoulteary.com%2F2022%2F09%2F03%2Fvector-database-guide-talk-about-the-similarity-retrieval-technology-from-metaverse-big-company-faiss.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2022-09-06-啊哈，一道有趣的Go并发题-colobu.com](https://blogread.cn/news/go.php?idItem=15377&url=https%3A%2F%2Fcolobu.com%2F2022%2F09%2F01%2Ffizzbuzz-in-go%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1974,7 +1970,7 @@
 - [2022-09-06-容器环境-JVM-内存配置最佳实践](https://toutiao.io/k/ss9eose) 
 - [2022-09-06-在生产环境中使用-Linkerd](https://toutiao.io/k/1ehxgcu) 
 - [2022-09-06-从-Linux-内核角度探秘-JDK-NIO-文件读写本质](https://toutiao.io/k/1lrdqxx) 
-- [2022-09-06-推荐-丢弃掉那些BeanUtils工具类吧，MapStruct真香！！！](https://toutiao.io/k/6muqkam) 
 - [2022-09-06-推荐-聊聊数据库建表的15个小技巧](https://toutiao.io/k/uym7cfr) 
+- [2022-09-06-推荐-丢弃掉那些BeanUtils工具类吧，MapStruct真香！！！](https://toutiao.io/k/6muqkam) 
 - [2022-09-06-推荐-SpringBoot-官方强烈推荐，连接池，太快了！](https://toutiao.io/k/zumxh7v) 
 - [2022-09-06-推荐-什么是顶级的思维？](https://toutiao.io/k/ulqvlcd) 

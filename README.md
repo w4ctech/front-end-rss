@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-09-06 17:28:15，:rocket: 更新条数: +2027， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-09-06 17:46:58，:rocket: 更新条数: +2028， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,8 @@
 </summary>
 
 
+- [2022-09-06-PC-上复制文字出现乱码，是我的设置问题吗？](https://www.v2ex.com/t/878223) ![](assets/new.png)  
+- [2022-09-06-你们公司一般是怎么审查使用的开源库的安全性的？有没有自动化的工具？](https://www.v2ex.com/t/878222) ![](assets/new.png)  
 - [2022-09-06-港区-Apple-iCloud+-2T-车队](https://www.v2ex.com/t/878221) ![](assets/new.png)  
 - [2022-09-06-两份外包到外资银行的-Offer，-23K-和-28K，应该选哪一个？](https://www.v2ex.com/t/878220) ![](assets/new.png)  
 - [2022-09-06-今年的工作真难找](https://www.v2ex.com/t/878218) ![](assets/new.png)  
@@ -509,8 +511,6 @@
 - [2022-09-06-请教各位大神。能否看下这个-TRC20-地址是哪个交易所的](https://www.v2ex.com/t/878200) ![](assets/new.png)  
 - [2022-09-06-学区问题预测](https://www.v2ex.com/t/878199) ![](assets/new.png)  
 - [2022-09-06-为什么我代理已经用的日本-ip-访问-dmm-还是经常打不开](https://www.v2ex.com/t/878198) ![](assets/new.png)  
-- [2022-09-06-计算机和金融会不会即将成为下一个生化环材](https://www.v2ex.com/t/878196) ![](assets/new.png)  
-- [2022-09-06-微信频繁需要重新加载怎么解决？](https://www.v2ex.com/t/878195) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

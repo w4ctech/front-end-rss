@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2022-09-06 09:15:44。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2022-09-06 09:42:48。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -68,6 +68,19 @@
 </summary>
 
 
+- [【V2EX】2022-09-06-如何将时间码写入音频文件](https://www.v2ex.com/t/878137) 
+- [【V2EX】2022-09-06-synology-国行无-vpn-套件](https://www.v2ex.com/t/878136) 
+- [【V2EX】2022-09-06-广东电信宽带公网-ip-被回收了](https://www.v2ex.com/t/878133) 
+- [【V2EX】2022-09-06-Java-工程师，上手-Flutter-有哪些学习资料](https://www.v2ex.com/t/878132) 
+- [【V2EX】2022-09-06-老家山东莱阳秋月梨成熟，帮家里卖点，欢迎各位-V-友品尝](https://www.v2ex.com/t/878131) 
+- [【V2EX】2022-09-06-四川这么多的地震，为什么好多人选择四川成都定居呀](https://www.v2ex.com/t/878130) 
+- [【V2EX】2022-09-06-如何把-Apple-Music-红心的音乐单独放一个播放列表？](https://www.v2ex.com/t/878129) 
+- [【V2EX】2022-09-06-Web-3-招聘-高级后端/初级后端工程师啦](https://www.v2ex.com/t/878128) 
+- [【V2EX】2022-09-06-openwrt-的-openclash-意外让局域网设备都为-fullcone](https://www.v2ex.com/t/878127) 
+- [【V2EX】2022-09-06-有没有低成本的网页快照服务？](https://www.v2ex.com/t/878126) 
+- [【V2EX】2022-09-06-iPhone-14-pro](https://www.v2ex.com/t/878125) 
+- [【V2EX】2022-09-06-iPhone-照片如何正确的传输到电脑保存](https://www.v2ex.com/t/878124) 
+- [【V2EX】2022-09-06-站长我知错了,请恢复我的账号降权-@Livid](https://www.v2ex.com/t/878123) 
 - [【V2EX】2022-09-06-有无-CLI-的翻译软件?](https://www.v2ex.com/t/878122) 
 - [【V2EX】2022-09-06-为什么感觉抖音有点洗脑的感觉](https://www.v2ex.com/t/878121) 
 - [【V2EX】2022-09-06-@建设银行，你家的“建行生活”该适配安卓-13-了~~](https://www.v2ex.com/t/878120) 
@@ -100,17 +113,6 @@
 - [【V2EX】2022-09-06-PHP-有办法实现调用客户摄像头进行扫码吗？](https://www.v2ex.com/t/878090) 
 - [【V2EX】2022-09-06-自家突尼斯石榴（云南大理）抽奖送-1-整箱😋👌🧺，目前中奖-2-位已经发货，大家继续回帖抽奖~](https://www.v2ex.com/t/878089) 
 - [【V2EX】2022-09-06-求个-android-坑](https://www.v2ex.com/t/878088) 
-- [【V2EX】2022-09-06-如何制作项目的业务架构图](https://www.v2ex.com/t/878086) 
-- [【V2EX】2022-09-06-求推荐输入法:绿色/免安装/WINPE-中可用/全拼](https://www.v2ex.com/t/878085) 
-- [【V2EX】2022-09-06-新家装修,预埋光纤选金属加强件的还是-FRP-非金属加强的](https://www.v2ex.com/t/878084) 
-- [【V2EX】2022-09-06-苹果-M1-芯片的-GPU-加速编译？](https://www.v2ex.com/t/878083) 
-- [【V2EX】2022-09-06-（招聘/base-北京）可远程在家办公](https://www.v2ex.com/t/878082) 
-- [【V2EX】2022-09-06-有没有开通过-CSDN-文库会员的站友？感觉怎么样？](https://www.v2ex.com/t/878081) 
-- [【V2EX】2022-09-06-感想-无论做过什么只要不后悔就好](https://www.v2ex.com/t/878079) 
-- [【V2EX】2022-09-06-我想折腾个-nas-玩玩，查了些资料有几个问题想请教一下-v-友](https://www.v2ex.com/t/878078) 
-- [【V2EX】2022-09-06-购买二手车时候有哪些可以用于查询真伪的-app-呀，还有哪些鉴定的方法。](https://www.v2ex.com/t/878077) 
-- [【V2EX】2022-09-06-不知道-Microsoft-Loop-啥时候发布](https://www.v2ex.com/t/878075) 
-- [【V2EX】2022-09-06-关于-ios16-的新功能的感受](https://www.v2ex.com/t/878074) 
 - [【技术头条】2022-09-06-被误解的Event-Sourcing-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=15379&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-use-event-sourcing%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-09-06-向量数据库入坑指南：聊聊来自元宇宙大厂-Meta-的相似度检索技术-Faiss-soulteary.com](https://blogread.cn/news/go.php?idItem=15378&url=https%3A%2F%2Fsoulteary.com%2F2022%2F09%2F03%2Fvector-database-guide-talk-about-the-similarity-retrieval-technology-from-metaverse-big-company-faiss.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2022-09-06-啊哈，一道有趣的Go并发题-colobu.com](https://blogread.cn/news/go.php?idItem=15377&url=https%3A%2F%2Fcolobu.com%2F2022%2F09%2F01%2Ffizzbuzz-in-go%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -147,14 +149,14 @@
 - [【开发者头条】2022-09-06-谈谈打破网络攻击生命周期](https://toutiao.io/k/t6xckit) 
 - [【开发者头条】2022-09-06-【第2721期】React-Query的优化](https://toutiao.io/k/arnd1b0) 
 - [【开发者头条】2022-09-06-Prometheus的四种指标类型，我终于搞懂了](https://toutiao.io/k/nph94wu) 
-- [【开发者头条】2022-09-06-容器环境-JVM-内存配置最佳实践](https://toutiao.io/k/ss9eose) 
 - [【开发者头条】2022-09-06-专注效率提升「GitHub-热点速览-v.22.36」](https://toutiao.io/k/j00l7y7) 
+- [【开发者头条】2022-09-06-容器环境-JVM-内存配置最佳实践](https://toutiao.io/k/ss9eose) 
 - [【开发者头条】2022-09-06-在生产环境中使用-Linkerd](https://toutiao.io/k/1ehxgcu) 
 - [【开发者头条】2022-09-06-从-Linux-内核角度探秘-JDK-NIO-文件读写本质](https://toutiao.io/k/1lrdqxx) 
-- [【开发者头条】2022-09-06-推荐-什么是顶级的思维？](https://toutiao.io/k/ulqvlcd) 
-- [【开发者头条】2022-09-06-推荐-SpringBoot-官方强烈推荐，连接池，太快了！](https://toutiao.io/k/zumxh7v) 
 - [【开发者头条】2022-09-06-推荐-丢弃掉那些BeanUtils工具类吧，MapStruct真香！！！](https://toutiao.io/k/6muqkam) 
+- [【开发者头条】2022-09-06-推荐-SpringBoot-官方强烈推荐，连接池，太快了！](https://toutiao.io/k/zumxh7v) 
 - [【开发者头条】2022-09-06-推荐-聊聊数据库建表的15个小技巧](https://toutiao.io/k/uym7cfr) 
+- [【开发者头条】2022-09-06-推荐-什么是顶级的思维？](https://toutiao.io/k/ulqvlcd) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

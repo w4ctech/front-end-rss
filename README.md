@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2022-09-06 22:43:24，:rocket: 更新条数: +2030， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2022-09-06 23:04:44，:rocket: 更新条数: +2031， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -491,6 +491,7 @@
 </summary>
 
 
+- [2022-09-06-抛砖引玉，-app-做好了没有人下载，海外推广方式合集](https://www.v2ex.com/t/878231) ![](assets/new.png)  
 - [2022-09-06-war3-dota-简易版对战平台](https://www.v2ex.com/t/878230) ![](assets/new.png)  
 - [2022-09-06-有关最近三星固态的-0E-门问题](https://www.v2ex.com/t/878229) ![](assets/new.png)  
 - [2022-09-06-一直想知道：海鲜市场秒拍黄牛是靠什么监控的](https://www.v2ex.com/t/878228) ![](assets/new.png)  
@@ -510,7 +511,6 @@
 - [2022-09-06-mbp16-求推荐个支架](https://www.v2ex.com/t/878211) ![](assets/new.png)  
 - [2022-09-06-无法进入默认-server，默认-server-不生效怎么破](https://www.v2ex.com/t/878210) ![](assets/new.png)  
 - [2022-09-06-公司的电脑登录微信，发不出图片，剪贴板粘贴文本也不行，是什么实现原理](https://www.v2ex.com/t/878209) ![](assets/new.png)  
-- [2022-09-06-上海-米哈游-miHoYo-2022.9.6-最新招聘信息（社招、秋招可内推哦）](https://www.v2ex.com/t/878208) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
